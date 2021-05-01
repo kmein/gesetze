@@ -189,6 +189,30 @@ Die Anzeige, die Anmeldung oder der Antrag auf Erteilung einer Genehmigung nach 
 
 (3) Soweit nach § 18 des Gentechnikgesetzes ein Anhörungsverfahren durchzuführen ist, hat der Antragsteller der zuständigen Behörde außer den Unterlagen nach den Absätzen 1 und 2 eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung der gentechnischen Anlage vorzulegen, die einen Überblick über die Anlage, ihren Betrieb und die darin durchzuführenden Arbeiten sowie die voraussichtlichen Auswirkungen auf die in § 1 Nr. 1 des Gentechnikgesetzes genannten Rechtsgüter ermöglicht.
 
+# § 5 – Unterlagen bei Freisetzungen
+
+(1) Für die in § 15 Abs. 1 Satz 2 des Gentechnikgesetzes bezeichneten Unterlagen zum Antrag auf Genehmigung einer Freisetzung von genetisch veränderten Organismen mit Ausnahme von Pflanzen, die zur taxonomischen Gruppe der Gymnospermen oder der Angiospermen gehören (höhere Pflanzen), gilt:
+
+1. der Nachweis der nach § 15 Abs. 1 Satz 2 in Verbindung mit § 10 Abs. 2 Satz 2 Nr. 2 des Gentechnikgesetzes erforderlichen Sachkunde des Projektleiters erfolgt nach § 28 der Gentechnik-Sicherheitsverordnung;
+
+2. der Nachweis der nach § 15 Abs. 1 Satz 2 in Verbindung mit § 10 Abs. 2 Satz 2 Nr. 3 des Gentechnikgesetzes erforderlichen Sachkunde des oder der Beauftragten für die Biologische Sicherheit erfolgt nach § 30 der Gentechnik-Sicherheitsverordnung;
+
+3. die nach § 15 Abs. 1 Satz 2 Nr. 3 des Gentechnikgesetzes erforderliche, dem Stand der Wissenschaft entsprechende Beschreibung der sicherheitsrelevanten Eigenschaften des freizusetzenden Organismus und der Umstände, die für das Überleben, die Fortpflanzung und die Verbreitung des Organismus von Bedeutung sind, erfolgt nach Anhang III A Nr. II der Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates vom 12. März 2001 über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates (ABl. EG Nr. L 106 S. 1), die zuletzt durch die Verordnung (EG) Nr. 1830/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 (ABl. EU Nr. L 268 S. 24) geändert worden ist;
+
+4. die nach § 15 Abs. 1 Satz 2 Nr. 4 des Gentechnikgesetzes erforderliche Risikobewertung nach § 6 Abs. 1 des Gentechnikgesetzes und die Darlegung der vorgesehenen Sicherheitsvorkehrungen erfolgt nach Maßgabe des Anhangs II der Richtlinie 2001/18/EG auf der Grundlage der nach Anhang III A Nr. II bis IV der Richtlinie 2001/18/EG vorzulegenden Informationen;
+
+4a. der nach § 15 Abs. 1 Satz 2 Nr. 4a des Gentechnikgesetzes erforderliche Plan zur Ermittlung der Auswirkungen des freizusetzenden Organismus auf die menschliche Gesundheit und die Umwelt ist nach Maßgabe der im Einzelfall maßgeblichen Teile von Anhang III A der Richtlinie 2001/18/EG zu erstellen;
+
+5. die nach § 15 Abs. 1 Satz 2 Nr. 5 des Gentechnikgesetzes erforderliche Beschreibung der geplanten Überwachungsmaßnahmen sowie die Angaben über entstehende Reststoffe und ihre Behandlung sowie über Notfallpläne erfolgen nach Anhang III A Nr. V der Richtlinie 2001/18/EG.
+
+Für die in § 15 Abs. 1 Satz 2 des Gentechnikgesetzes bezeichneten Unterlagen zum Antrag auf Genehmigung einer Freisetzung höherer Pflanzen gilt Satz 1 entsprechend; dabei tritt an die Stelle von Anhang III A der Richtlinie 2001/18/EG deren Anhang III B.
+
+(2) Die sicherheitsrelevanten Eigenschaften des freizusetzenden Organismus nach Absatz 1 Nr. 3 sowie dessen sicherheitsrelevante Auswirkungen auf die in § 1 Nr. 1 des Gentechnikgesetzes genannten Rechtsgüter nach Absatz 1 Nr. 4 sind auf der Grundlage von Erfahrungen zu beurteilen, die bei gentechnischen Arbeiten im geschlossenen System gesammelt worden sind.
+
+(3) § 4 Abs. 3 gilt entsprechend.
+
+(4) (weggefallen)
+
 # § 6 – Unterlagen bei Inverkehrbringen
 
 (1) Für folgende der in § 15 Abs. 3 Satz 3 des Gentechnikgesetzes bezeichneten Unterlagen zum Antrag auf Genehmigung des Inverkehrbringens gilt:

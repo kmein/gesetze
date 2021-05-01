@@ -91,6 +91,8 @@ Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik a
 
 5. Einrichtungen nach § 23 Absatz 3 Satz 1 Nummer 8 bis 10 und 12 des Infektionsschutzgesetzes.
 
+(+++ § 4 Abs. 2 Nr 1 bis 4: Zur Nichtgeltung vgl. § 5 Abs. 2 Satz 2 +++)
+
 # § 4a – Bürgertestung
 
 Asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen-Tests.

@@ -137,7 +137,7 @@ f) Sterbedatum,
 
 g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
-17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers sowie Sperrkennwort und Sperrsumme des Personalausweises,
+17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,
 
 17a. die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes, übergangsweise die Seriennummer des Ankunftsnachweises nach § 63a Absatz 1 Nummer 10 des Asylgesetzes,
 
@@ -710,7 +710,7 @@ g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 14. Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.
 
-Den in Absatz 4 Satz 1 bezeichneten Behörden darf die Meldebehörde unter den Voraussetzungen des Satzes 1 über die dort genannten Daten hinaus auch Angaben nach § 3 Absatz 1 Nummer 17, mit Ausnahme des Sperrkennworts und der Sperrsumme des Personalausweises, übermitteln.
+Den in Absatz 4 Satz 1 bezeichneten Behörden darf die Meldebehörde unter den Voraussetzungen des Satzes 1 über die dort genannten Daten hinaus auch Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises sowie des anerkannten Passes oder Passersatzpapieres übermitteln.
 
 (2) Werden Daten über eine Vielzahl nicht namentlich bezeichneter Personen übermittelt, dürfen für die Zusammensetzung der Personengruppe nur die in Absatz 1 Satz 1 genannten Daten zugrunde gelegt werden.
 

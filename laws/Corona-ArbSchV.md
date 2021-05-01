@@ -101,7 +101,7 @@ Lot-Nummer<br />
 Maskentyp<br />
 Herstellerangaben<br />
 TC-Zulassungsnummer</td><td style="text-align: left;">USA und<br />
-Kanada</td></tr><tr class="even"><td style="text-align: left;">P2<a href="#F815058_01" class="FnR">1</a></sup></td><td style="text-align: left;">AS/NZS 1716-2021</td><td style="text-align: left;">Identifizierungsnummer oder Logo der Konformitätsbewertungsstellen</td><td style="text-align: left;">Australien und<br />
+Kanada</td></tr><tr class="even"><td style="text-align: left;">P2<a href="#F815058_01" class="FnR">1</a></sup></td><td style="text-align: left;">AS/NZS 1716-2012</td><td style="text-align: left;">Identifizierungsnummer oder Logo der Konformitätsbewertungsstellen</td><td style="text-align: left;">Australien und<br />
 Neuseeland</td></tr><tr class="odd"><td style="text-align: left;">DS2<a href="#F815058_01" class="FnR">1</a></sup></td><td style="text-align: left;">JMHLW-Notification 214, 2018</td><td style="text-align: left;">https://www.baua.de/DE/Themen/Arbeitsgestaltung-im-Betrieb/Coronavirus/pdf/<br />
 Kennzeichnung-Masken.pdf?__blob=<br />
 publicationFile&amp;v=10<br />
