@@ -137,46 +137,6 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 (6) § 7 Abs. 2 bleibt unberührt.
 
-# § 6 – Ausstellung eines Passes
-
-(1) Der Pass wird auf Antrag ausgestellt. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung. Im Antragsverfahren nachzureichende Erklärungen können im Wege der Datenübertragung abgegeben werden. Der Passbewerber und sein gesetzlicher Vertreter können sich bei der Stellung des Antrags nicht durch einen Bevollmächtigten vertreten lassen. Dies gilt nicht für einen handlungs- oder einwilligungsunfähigen Passbewerber, wenn eine für diesen Fall erteilte, öffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Für Minderjährige und für Personen, die geschäftsunfähig sind und sich nicht nach Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur derjenige den Antrag stellen, der als Sorgeberechtigter ihren Aufenthalt zu bestimmen hat. Der Passbewerber und sein gesetzlicher oder bevollmächtigter Vertreter sollen persönlich erscheinen. Ist der Passbewerber am persönlichen Erscheinen gehindert, kann nur ein vorläufiger Reisepass beantragt werden.
-
-(2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Passbewerbers und seiner Eigenschaft als Deutscher oder, in den Fällen des § 1 Abs. 4 Satz 2, seiner Eigenschaft als Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat die entsprechenden Nachweise zu erbringen. Soweit in den Pass Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach Maßgabe des § 4 Abs. 4 elektronisch zu erfassen; der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
-
-(2a) Beantragt ein Passbewerber nach § 4 Abs. 1 Satz 4 die Eintragung des von seinem Geburtseintrag abweichenden Geschlechts, hat er den Beschluss des Gerichts über die Vornamensänderung nach § 1 des Transsexuellengesetzes vorzulegen. Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 6 die Eintragung eines von seinem Personenstandseintrag abweichenden Geschlechts, hat er die von dem Standesbeamten beurkundete Erklärung nach § 45b des Personenstandsgesetzes vorzulegen. Eintragungen des Geschlechts im Pass, die nach den Sätzen 1 und 2 von Eintragungen im Personenstandsregister abweichen, kommt keine weitere Rechtswirkung zu.
-
-(2b) In den Fällen des § 1 Abs. 4 Satz 2 darf die zuständige Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung von Passversagungsgründen nach § 7 Abs. 1 Nr. 1 bis 5 oder zur Prüfung von sonstigen Sicherheitsbedenken um Auskunft aus dem Ausländerzentralregister ersuchen. Soweit dies zur Feststellung von Passversagungsgründen nach § 7 Abs. 1 Nr. 1 bis 5 oder zur Prüfung sonstiger Sicherheitsbedenken erforderlich ist, darf die zuständige Passbehörde in den Fällen des § 1 Abs. 4 Satz 2 die erhobenen Daten nach § 4 Abs. 1 an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermitteln; zusätzlich darf die Passbehörde die nach Absatz 2 Satz 3 erhobenen Daten an das Bundeskriminalamt übermitteln, das Amtshilfe bei der Auswertung der Daten leistet. Satz 2 gilt nicht für Staatsangehörige anderer Mitgliedstaaten der Europäischen Union. Die nach Satz 2 ersuchten Behörden teilen der anfragenden Passbehörde unverzüglich mit, ob Passversagungsgründe nach § 7 Abs. 1 Nr. 1 bis 5 oder sonstige Sicherheitsbedenken vorliegen.
-
-(3) Bestehen Zweifel über die Person des Paßbewerbers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Paßbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität des Paßbewerbers auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Über die Vernichtung ist eine Niederschrift anzufertigen.
-
-(4) Die Paßbehörde kann einen Paß von Amts wegen ausstellen, wenn dies im überwiegenden öffentlichen Interesse oder zur Abwendung wesentlicher Nachteile für den Betroffenen geboten ist.
-
-(5) Die Absätze 1 bis 4 gelten auch für die Ausstellung von ausschließlich als Paßersatz bestimmten amtlichen Ausweisen, sofern in den für sie geltenden Rechtsvorschriften nichts anderes bestimmt ist.
-
-# § 6a – Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung
-
-(1) Die Datenübermittlung von den Passbehörden an den Passhersteller zum Zweck der Passherstellung, insbesondere die Übermittlung sämtlicher Passantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Fall der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
-
-(2) Zur elektronischen Erfassung des Lichtbildes und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Passantragsdaten von der Passbehörde an den Passhersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach Absatz 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik festzustellen.
-
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Regelungen zu treffen
-
-1. über das Verfahren und die technischen Anforderungen für die Aufnahme, die elektronische Erfassung, die Echtheitsbewertung und die Qualitätssicherung des Lichtbilds,
-
-2. zur sicheren Übermittlung des Lichtbilds an die Passbehörde sowie zu einer Registrierung und Zertifizierung von Dienstleistern, welche Lichtbilder für die Passproduktion an die Passbehörde übermitteln,
-
-3. über das Verfahren und die technischen Anforderungen für die Aufnahme, die elektronische Erfassung, die Echtheitsbewertung und die Qualitätssicherung der Fingerabdrücke, die Reihenfolge der zu speichernden Fingerabdrücke bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe,
-
-4. über die Änderung von Daten des Passes,
-
-5. über die Form und die Einzelheiten für das Verfahren der Übermittlung sämtlicher Passantragsdaten von den Passbehörden an den Passhersteller,
-
-6. zur Durchführung von automatisierten Abrufen nach § 22a sowie zur Form und zum Inhalt der zu übermittelnden Daten und
-
-7. über die Einzelheiten des Prüfverfahrens nach Absatz 2 Satz 2.
-
-Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 2 zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Energie.
-
 # § 7 – Paßversagung
 
 (1) Der Paß ist zu versagen, wenn bestimmte Tatsachen die Annahme begründen, daß der Paßbewerber
@@ -366,56 +326,6 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, für den Bereich der Landesverwaltung durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung näher zu bestimmen. Wird die individuell zurechenbare öffentliche Leistung nach Absatz 1 auf Wunsch des Antragstellers außerhalb der Dienstzeit einer Passbehörde vorgenommen, kann eine Gebühr bis zur doppelten Höhe der nach der Rechtsverordnung nach Satz 1 bestimmten Gebühr erhoben werden.
 
 (4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den Auslandsvertretungen der Bundesrepublik Deutschland für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent der Gebühren betragen.
-
-# § 21 – Paßregister
-
-(1) Die Paßbehörden führen Paßregister.
-
-(2) Das Paßregister darf neben dem Lichtbild und der Unterschrift des Paßinhabers sowie verfahrensbedingten Bearbeitungsvermerken ausschließlich folgende Daten enthalten:
-
-1. Familienname und ggf. Geburtsname,
-
-2. Vornamen,
-
-3. Doktorgrad,
-
-4. Ordensname, Künstlername,
-
-5. Tag und Ort der Geburt,
-
-6. Geschlecht,
-
-7. Größe, Farbe der Augen,
-
-8. gegenwärtige Anschrift,
-
-9. Staatsangehörigkeit,
-
-10. Seriennummer,
-
-11. Gültigkeitsdatum,
-
-12. Nachweise über erteilte Ermächtigungen nach § 19 Abs. 4 Satz 2,
-
-13. Familienname, Vornamen, Tag der Geburt und Unterschrift von gesetzlichen Vertretern,
-
-14. ausstellende Behörde,
-
-15. Vermerke über Anordnungen nach den §§ 7, 8 und 10,
-
-16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes.
-
-(3) Das Paßregister dient
-
-1. der Ausstellung der Pässe und der Feststellung ihrer Echtheit,
-
-2. der Identitätsfeststellung der Person, die den Paß besitzt oder für die er ausgestellt ist,
-
-3. der Durchführung dieses Gesetzes.
-
-(4) Personenbezogene Daten im Paßregister sind mindestens bis zur Ausstellung eines neuen Passes, höchstens jedoch bis zu fünf Jahren nach dem Ablauf der Gültigkeit des Passes, auf den sie sich beziehen, zu speichern und dann zu löschen. Für die Paßbehörden nach § 19 Abs. 2 bei der Wahrnehmung konsularischer Aufgaben beträgt die Frist 30 Jahre.
-
-(5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die sie eine Ermächtigung gemäß § 19 Abs. 4 Satz 2 erteilt hat.
 
 # § 22 – Verarbeitung und Nutzung der Daten im Paßregister
 

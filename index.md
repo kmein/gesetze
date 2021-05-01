@@ -5548,10 +5548,10 @@
 - [TVA-H BBiG](laws/TVA-H_BBiG.md) Tarifvertrag für Auszubildende des Landes Hessen in Ausbildungsberufen nach dem Berufsbildungsgesetz
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
+- [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhneim Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
 - [TVMindestlohn Abfall 8](laws/TVMindestlohn_Abfall_8.md) Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019
 - [TVMindestlohn Gerüstb 6](laws/TVMindestlohn_Gerüstb_6.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
-- [TVMindestlohn Maler 9](laws/TVMindestlohn_Maler_9.md) Rechtsnormen des Tarifvertrags vom 9. Dezember 2016 zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackierhandwerk (TV Mindestlohn)
-- [TVMindestlohn Steinmetz 3](laws/TVMindestlohn_Steinmetz_3.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Steinmetz- und Steinbildhauerhandwerk vom 25. Februar 2019 (TV Mindestlohn)
+- [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmerim Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
 - [TVMindestlohnDachd 10](laws/TVMindestlohnDachd_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 - [TVMindestlohnGebäude 2020](laws/TVMindestlohnGebäude_2020.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
 - [TVMindestlohnPäda 5](laws/TVMindestlohnPäda_5.md) Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
@@ -6469,6 +6469,7 @@
 - [10. AnpG-KOV](laws/10._AnpG-KOV.md) Zehntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [10. BImSchV](laws/10._BImSchV.md) Zehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [10. DachdArbbV](laws/10._DachdArbbV.md) Zehnte Verordnung über zwingende Arbeitsbedingungen für das Dachdeckerhandwerk
+- [10. MalerArbbV](laws/10._MalerArbbV.md) Zehnte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk
 - [10. ProdSV](laws/10._ProdSV.md) Zehnte Verordnung zum Produktsicherheitsgesetz
 - [10. RAG](laws/10._RAG.md) Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. ÄndG LAG](laws/11._ÄndG_LAG.md) Elftes Gesetz zur Änderung des Lastenausgleichsgesetzes
@@ -6476,6 +6477,7 @@
 - [11. ProdSV](laws/11._ProdSV.md) Elfte Verordnung zum Produktsicherheitsgesetz
 - [11. RAG](laws/11._RAG.md) Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [11. RAV](laws/11._RAV.md) Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996
+- [12. BauArbbV](laws/12._BauArbbV.md) Zwölfte Verordnung über zwingende Arbeitsbedingungen im Baugewerbe
 - [12. BImSchV](laws/12._BImSchV.md) Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [12. ProdSV](laws/12._ProdSV.md) Zwölfte Verordnung zum Produktsicherheitsgesetz
 - [12. RAG](laws/12._RAG.md) Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG)
@@ -6546,7 +6548,6 @@
 - [3. RAG](laws/3._RAG.md) Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960
 - [3. RAV](laws/3._RAV.md) Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 - [3. SprengV](laws/3._SprengV.md) Dritte Verordnung zum Sprengstoffgesetz
-- [3. SteinmetzArbbV](laws/3._SteinmetzArbbV.md) Dritte Verordnung über zwingende Arbeitsbedingungen im Steinmetz- und Steinbildhauerhandwerk
 - [3. WOMitbestG](laws/3._WOMitbestG.md) Dritte Wahlordnung zum Mitbestimmungsgesetz
 - [30. BImSchV](laws/30._BImSchV.md) Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [31. BImSchV](laws/31._BImSchV.md) 31. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen bei der Verwendung organischer Lösemittel in bestimmten Anlagen)
@@ -6592,7 +6593,6 @@
 - [8. RAG](laws/8._RAG.md) Achtes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. AnpG-KOV](laws/9._AnpG-KOV.md) Neuntes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes
 - [9. BImSchV](laws/9._BImSchV.md) Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [9. MalerArbbV](laws/9._MalerArbbV.md) Neunte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk
 - [9. ProdSV](laws/9._ProdSV.md) Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung)
 - [9. RAG](laws/9._RAG.md) Neuntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [9. RAV](laws/9._RAV.md) Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet

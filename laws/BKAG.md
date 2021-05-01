@@ -313,8 +313,6 @@ b) ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des poli
 
 (7) Das Bundeskriminalamt hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
-§ 10 Abs. 1 Satz 1 u. Abs. 2 idF d. G v. 1.7.2017 I 1354: Nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.
-
 # § 10a – Erhebung von Nutzerdaten zur Identifizierung
 
 (1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes erhobenen Daten (§ 15c Absatz 1 des Telemediengesetzes) verlangen, sofern im Einzelfall
@@ -992,8 +990,6 @@ und die zu erhebenden Daten zur Verhütung dieser Straftat erforderlich sind.
 (7) Der aufgrund eines Auskunftsverlangens Verpflichtete hat die zur Auskunftserteilung erforderlichen Daten unverzüglich und vollständig zu übermitteln.
 
 (8) Das Bundeskriminalamt hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
-
-§ 40 Abs. 1 idF d. G v. 1.7.2017 I 1354: Soweit § 40 Abs. 2 nicht auf § 39 Absatz 2 Nummer 2 verweist nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar. § 40 Abs. 2 idF d. G v. 1.7.2017 I 1354: Nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.
 
 # § 41 – Befragung und Auskunftspflicht
 
