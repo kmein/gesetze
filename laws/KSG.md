@@ -57,6 +57,8 @@ Im Sinne dieses Gesetz ist oder sind:
 
 (3) Sollten zur Erfüllung europäischer oder internationaler Klimaschutzziele höhere nationale Klimaschutzziele erforderlich werden, so leitet die Bundesregierung die zur Erhöhung der Zielwerte nach Absatz 1 notwendigen Schritte ein. Klimaschutzziele können erhöht, aber nicht abgesenkt werden.
 
+§ 3 Abs. 1 Satz 2: Nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 3 Abs. 1 Satz 2 bleibt anwendbar.
+
 # § 4 – Zulässige Jahresemissionsmengen, Verordnungsermächtigung
 
 (1) Zur Erreichung der nationalen Klimaschutzziele nach § 3 Absatz 1 werden jährliche Minderungsziele durch die Vorgabe von Jahresemissionsmengen für die folgenden Sektoren festgelegt:
@@ -84,6 +86,8 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Jahresemissionsmengen der Sektoren in Anlage 2 mit Wirkung zum Beginn des jeweils nächsten Kalenderjahres zu ändern. Diese Veränderungen müssen im Einklang mit der Erreichung der Klimaschutzziele dieses Gesetzes und mit den unionsrechtlichen Anforderungen stehen. Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 (6) Im Jahr 2025 legt die Bundesregierung für weitere Zeiträume nach dem Jahr 2030 jährlich absinkende Emissionsmengen durch Rechtsverordnung fest. Diese müssen im Einklang mit der Erreichung der Klimaschutzziele dieses Gesetzes und mit den unionsrechtlichen Anforderungen stehen. Wenn jährlich absinkende Emissionsmengen für Zeiträume nach dem Jahr 2030 festgelegt werden, bedarf die Rechtsverordnung der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+
+§ 4 Abs. 1 Satz 3: IVm Anlage 2 nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 4 Abs. 1 Satz 3 iVm mit Anlage 2 bleibt anwendbar.
 
 # § 5 – Emissionsdaten, Verordnungsermächtigung
 

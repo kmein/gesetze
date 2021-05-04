@@ -5548,10 +5548,10 @@
 - [TVA-H BBiG](laws/TVA-H_BBiG.md) Tarifvertrag für Auszubildende des Landes Hessen in Ausbildungsberufen nach dem Berufsbildungsgesetz
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
-- [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhneim Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
+- [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
 - [TVMindestlohn Abfall 8](laws/TVMindestlohn_Abfall_8.md) Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019
 - [TVMindestlohn Gerüstb 6](laws/TVMindestlohn_Gerüstb_6.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
-- [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmerim Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
+- [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
 - [TVMindestlohnDachd 10](laws/TVMindestlohnDachd_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 - [TVMindestlohnGebäude 2020](laws/TVMindestlohnGebäude_2020.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
 - [TVMindestlohnPäda 5](laws/TVMindestlohnPäda_5.md) Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
