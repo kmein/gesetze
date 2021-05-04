@@ -72,7 +72,7 @@ Der Anspruch nach Absatz 1 umfasst außerdem die Ausstellung einer Impfdokumenta
 
 3. Personen, die im Rahmen ambulanter Dienste regelmäßig ältere oder pflegebedürftige Menschen behandeln, betreuen oder pflegen, sowie Personen, die im Rahmen der ambulanten Pflege Begutachtungs- oder Prüftätigkeiten ausüben,
 
-4. Personen, die regelmäßig Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durchführen oder in Bereichen medizinischer Einrichtungen mit einem sehr hohen Expositionsrisiko in Bezug auf das Coronavirus SARS-CoV-2 tätig sind, insbesondere auf Intensivstationen, in Notaufnahmen, in Rettungsdiensten, als Leistungserbringer der spezialisierten ambulanten Palliativversorgung sowie in Bereichen, in denen für eine Infektion mit dem Coronavirus SARS-CoV-2 relevante aerosolgenerierende Tätigkeiten durchgeführt werden,
+4. Personen, die regelmäßig Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durchführen, in einem Impfzentrum oder in Bereichen medizinischer Einrichtungen mit einem sehr hohen Expositionsrisiko in Bezug auf das Coronavirus SARS-CoV-2 tätig sind, insbesondere auf Intensivstationen, in Notaufnahmen, in Rettungsdiensten, als Leistungserbringer der spezialisierten ambulanten Palliativversorgung sowie in Bereichen, in denen für eine Infektion mit dem Coronavirus SARS-CoV-2 relevante aerosolgenerierende Tätigkeiten durchgeführt werden,
 
 5. Personen, die in medizinischen Einrichtungen regelmäßig Personen behandeln, betreuen oder pflegen, bei denen ein sehr hohes Risiko für einen schweren oder tödlichen Krankheitsverlauf nach einer Infektion mit dem Coronavirus SARS-CoV-2 besteht, insbesondere in der Onkologie oder Transplantationsmedizin oder im Rahmen der Behandlung schwer immunsupprimierter Patienten.
 
@@ -122,7 +122,7 @@ b) von einer schwangeren Person, die von dieser Person oder von einer sie vertre
 
 7. Personen, die in Auslandsvertretungen der Bundesrepublik Deutschland oder für das Deutsche Archäologische Institut an Dienstorten mit unzureichender gesundheitlicher Versorgung tätig und infolgedessen einem hohen Infektionsrisiko ausgesetzt sind,
 
-8. Personen, die im Ausland für deutsche politische Stiftungen oder Organisationen und Einrichtungen mit Sitz in der Bundesrepublik Deutschland in den Bereichen Krisenprävention, Stabilisierung, Konfliktnachsorge, Entwicklungszusammenarbeit oder auswärtige Kultur- und Bildungspolitik oder als deutsche Staatsangehörige in internationalen Organisationen an Orten mit unzureichender gesundheitlicher Versorgung tätig und infolgedessen einem hohen Infektionsrisiko ausgesetzt sind,
+8. Personen, die im Ausland für von der Bundesregierung geförderte deutsche Auslandshandelskammern einschließlich Delegationen und Repräsentanzen der deutschen Wirtschaft, die Germany Trade and Invest – Gesellschaft für Außenwirtschaft und Standortmarketing mbH, deutsche politische Stiftungen oder Organisationen und Einrichtungen mit Sitz in der Bundesrepublik Deutschland in den Bereichen Krisenprävention, Stabilisierung, Konfliktnachsorge, Entwicklungszusammenarbeit, humanitäre Hilfe oder auswärtige Kultur- und Bildungspolitik oder als deutsche Staatsangehörige in internationalen Organisationen an Orten mit unzureichender gesundheitlicher Versorgung tätig und infolgedessen einem hohen Infektionsrisiko ausgesetzt sind,
 
 9. Personen, die in Kinderbetreuungseinrichtungen, in der Kindertagespflege, in Grundschulen, Sonderschulen oder Förderschulen tätig sind,
 
@@ -168,7 +168,7 @@ a) die Mitglieder von Verfassungsorganen sind,
 
 b) die in besonders relevanter Position in den Verfassungsorganen, in den Regierungen und Verwaltungen, bei der Bundeswehr, bei der Polizei, beim Zoll, bei der Feuerwehr, beim Katastrophenschutz einschließlich des Technischen Hilfswerks, in der Justiz und Rechtspflege tätig sind,
 
-c) die in besonders relevanter Position im Ausland bei den deutschen Auslandsvertretungen, für deutsche politische Stiftungen oder Organisationen und Einrichtungen mit Sitz in der Bundesrepublik Deutschland in den Bereichen Krisenprävention, Stabilisierung, Konfliktnachsorge, Entwicklungszusammenarbeit oder auswärtige Kultur- und Bildungspolitik oder als deutsche Staatsangehörige in internationalen Organisationen tätig sind, oder
+c) die in besonders relevanter Position im Ausland bei den deutschen Auslandsvertretungen, für von der Bundesregierung geförderte deutsche Auslandshandelskammern einschließlich Delegationen und Repräsentanzen der deutschen Wirtschaft, die Germany Trade and Invest – Gesellschaft für Außenwirtschaft und Standortmarketing mbH, deutsche politische Stiftungen oder Organisationen und Einrichtungen mit Sitz in der Bundesrepublik Deutschland in den Bereichen Krisenprävention, Stabilisierung, Konfliktnachsorge, Entwicklungszusammenarbeit, humanitäre Hilfe oder auswärtige Kultur- und Bildungspolitik oder als deutsche Staatsangehörige in internationalen Organisationen tätig sind, oder
 
 d) die als Wahlhelfer tätig sind,
 
@@ -178,7 +178,7 @@ d) die als Wahlhelfer tätig sind,
 
 7. Personen, die im Lebensmitteleinzelhandel tätig sind,
 
-8. Personen, die in Einrichtungen und Diensten der Kinder- und Jugendhilfe und in Schulen, die nicht von § 3 Absatz 1 Nummer 9 erfasst sind, tätig sind,
+8. Personen, die in Einrichtungen und Diensten der Kinder- und Jugendhilfe und in Schulen, die nicht von § 3 Absatz 1 Nummer 9 erfasst sind, oder an Hochschulen tätig sind,
 
 9. sonstige Personen, bei denen aufgrund ihrer Arbeits- oder Lebensumstände ein deutlich erhöhtes Risiko einer Infektion mit dem Coronavirus SARS-CoV-2 besteht.
 
@@ -186,9 +186,9 @@ d) die als Wahlhelfer tätig sind,
 
 # § 5 – Folge- und Auffrischimpfungen
 
-(1) § 1 Absatz 2 bis 4 und die §§ 2 bis 4 gelten entsprechend für Folge- und Auffrischimpfungen, die für ein vollständiges Impfschema im Rahmen der Empfehlung der Ständigen Impfkommission beim Robert Koch-Institut vorgesehen sind. Folge- und Auffrischimpfungen müssen mit dem gleichen Impfstoff erfolgen wie die Erstimpfung.
+(1) § 1 Absatz 2 bis 4 und die §§ 2 bis 4 gelten entsprechend für Folge- und Auffrischimpfungen, die für ein vollständiges Impfschema im Rahmen der Empfehlung der Ständigen Impfkommission beim Robert Koch-Institut vorgesehen sind.
 
-(2) Der von der Ständigen Impfkommission beim Robert Koch-Institut empfohlene Abstand zwischen Erst- und Folgeimpfung beim mRNA-Impfstoff Comirnaty von BioNTech von sechs Wochen, beim mRNA-Impfstoff COVID-19 Vaccine von Moderna von sechs Wochen und beim Vektorviren-Impfstoff Vaxzevria von AstraZeneca von zwölf Wochen soll eingehalten werden. Am 8. März 2021 bereits vereinbarte oder noch in Vereinbarung befindliche Termine für die Zweitimpfung bleiben davon unberührt. Letzteres gilt auch für Termine, die bis zur technischen Umstellung der Terminvergabesysteme vereinbart werden.
+(2) Der von der Ständigen Impfkommission beim Robert Koch-Institut empfohlene Abstand zwischen Erst- und Folge- sowie Auffrischimpfungen ist möglichst auszuschöpfen. Am 8. März 2021 bereits vereinbarte oder noch in Vereinbarung befindliche Termine für die Zweitimpfung bleiben davon unberührt. Letzteres gilt auch für Termine, die bis zur technischen Umstellung der Terminvergabesysteme vereinbart werden.
 
 (3) Wird der empfohlene Abstand im Einzelfall aus wichtigem Grund überschritten, soll das Impfschema auf Grundlage der Empfehlungen der Ständigen Impfkommission beim Robert Koch-Institut fortgesetzt werden. Das Ziel der Vervollständigung der Impfserie bei Personen, die bereits eine Erstimpfung erhalten haben, ist im Hinblick auf den Beginn der Schutzimpfung weiterer Personen, die noch keine Schutzimpfung erhalten haben, angemessen zu berücksichtigen.
 
@@ -296,15 +296,15 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 # § 9 – Vergütung ärztlicher Leistungen
 
-(1) Die Vergütung der in § 6 Absatz 1 Satz 1 genannten Arztpraxen für die Leistungen nach § 1 Absatz 4 beträgt je Anspruchsberechtigten und je Impfung 20 Euro. Eine Vergütung setzt neben der Erbringung der in § 1 Absatz 4 genannten Leistungen auch die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 7 Absatz 1 und 5 voraus. Sofern das Aufsuchen einer Person für die Impfung notwendig ist, werden zuzüglich 35 Euro vergütet; für das Aufsuchen jeder weiteren Person in derselben sozialen Gemeinschaft oder Einrichtung werden zuzüglich jeweils weitere 15 Euro vergütet. Eine Abrechnung von Vergütungen nach Satz 1 oder Satz 3 neben der Vergütung nach Absatz 2 ist ausgeschlossen.
+(1) Die Vergütung der in § 6 Absatz 1 Satz 1 genannten Arztpraxen für die Leistungen nach § 1 Absatz 4 beträgt je Anspruchsberechtigten und je Impfung 20 Euro. Eine Vergütung setzt neben der Erbringung der in § 1 Absatz 4 genannten Leistungen auch die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 7 Absatz 1 und 5 voraus. Sofern das Aufsuchen einer Person für die Impfung notwendig ist, werden zuzüglich 35 Euro vergütet; für das Aufsuchen jeder weiteren Person in derselben sozialen Gemeinschaft oder Einrichtung werden zuzüglich jeweils weitere 15 Euro vergütet. Eine Vergütung nach Satz 1 oder Satz 3 neben der Vergütung nach Absatz 2 ist ausgeschlossen.
 
-(2) Die Vergütung der in § 6 Absatz 1 Satz 1 genannten Arztpraxen für eine ausschließliche Impfberatung zum Coronavirus SARS-CoV-2 ohne nachfolgende Schutzimpfung beträgt je Anspruchsberechtigten einmalig 10 Euro. Die Impfberatung kann auch telefonisch oder im Rahmen eines Videosprechstundenkontaktes erfolgen. Eine Abrechnung von Vergütungen nach Satz 1 neben der Vergütung nach Absatz 1 Satz 1 oder Satz 3 ist ausgeschlossen.
+(2) Die Vergütung der in § 6 Absatz 1 Satz 1 genannten Arztpraxen für eine ausschließliche Impfberatung zum Coronavirus SARS-CoV-2 ohne nachfolgende Schutzimpfung beträgt je Anspruchsberechtigten einmalig 10 Euro. Die Impfberatung kann auch telefonisch oder im Rahmen eines Videosprechstundenkontaktes erfolgen. Eine Vergütung nach Satz 1 neben der Vergütung nach Absatz 1 Satz 1 oder Satz 3 ist ausgeschlossen.
 
 (3) Die Vergütung der Arztpraxen für die Leistung nach § 6 Absatz 4 Satz 1 Nummer 3 in Verbindung mit Absatz 5 beträgt je Anspruchsberechtigten 5 Euro zuzüglich 90 Cent, sofern ein postalischer Versand des ärztlichen Zeugnisses erfolgt.
 
 (4) Die Vergütung der beauftragten Betriebsärzte und der beauftragten überbetrieblichen Dienste von Betriebsärzten für die Leistungen nach § 1 Absatz 4 erfolgt entsprechend Absatz 1 Satz 1. Eine Vergütung setzt neben der Erbringung der in § 1 Absatz 4 genannten Leistungen auch die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 7 Absatz 1 voraus. Ein Vergütungsanspruch eines Betriebsarztes besteht nicht, wenn der Betriebsarzt die Leistungen nach § 1 Absatz 4 im Rahmen eines Beschäftigungsverhältnisses in einem Betrieb oder im Rahmen einer Tätigkeit für einen überbetrieblichen Dienst von Betriebsärzten erbringt. Ein Vergütungsanspruch eines überbetrieblichen Dienstes besteht nicht, soweit ihm Leistungen im Sinne des § 1 Absatz 4 bereits anderweitig im Wege seiner Beauftragung durch ein Unternehmen vergütet werden.
 
-(5) Die in den Absätzen 1 bis 4 genannten Leistungserbringer rechnen die Leistungen nach den Absätzen 1 bis 4 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer seinen Sitz hat. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Vertragsärztliche Leistungserbringer nutzen für die Abrechnung der Leistung den Abrechnungsweg über den Datensatz KVDT. Die Kassenärztliche Bundesvereinigung legt mit Wirkung vom 1. April 2021 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostenersatzes fest.
+(5) Die in den Absätzen 1 bis 4 genannten Leistungserbringer rechnen die Leistungen nach den Absätzen 1 bis 4 monatlich oder quartalsweise bis spätestens zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer seinen Sitz hat. Die für die Abrechnung zu übermittelnden Angaben dürfen keinen Bezug zu der Person aufweisen, für die die Leistungen erbracht worden sind. Vertragsärztliche Leistungserbringer nutzen für die Abrechnung der Leistung den Abrechnungsweg über den Datensatz KVDT. Die Kassenärztliche Bundesvereinigung legt mit Wirkung vom 1. April 2021 hierzu das Nähere einschließlich des jeweiligen Verwaltungskostenersatzes fest. Die Festlegungen werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
 
 (6) Die in den Absätzen 1 bis 4 genannten Leistungserbringer und die Kassenärztlichen Vereinigungen sind verpflichtet, die von ihnen nach § 6 Absatz 4 Satz 1 Nummer 3 in Verbindung mit Absatz 5 sowie nach den Absätzen 1, 2 und 4 erbrachten Leistungen zu dokumentieren und die nach Absatz 5 für die Abrechnung übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
@@ -336,11 +336,11 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 # § 11 – Großhandelsvergütung für Impfstoffe
 
-(1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler für den Zeitraum vom 1. April 2021 bis zum Ablauf des 9. Mai 2021 eine Vergütung je abgegebene kühlpflichtige Durchstechflasche in Höhe von 9,65 Euro zuzüglich Umsatzsteuer und je abgegebene ultra- oder tiefkühlpflichtige Durchstechflasche in Höhe von 11,55 Euro zuzüglich Umsatzsteuer. Ab dem 10. Mai 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffes eine Vergütung in Höhe von 6,55 Euro zuzüglich Umsatzsteuer.
+(1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler für den Zeitraum vom 1. April 2021 bis zum Ablauf des 30. Mai 2021 eine Vergütung je abgegebene kühlpflichtige Durchstechflasche in Höhe von 9,65 Euro zuzüglich Umsatzsteuer und je abgegebene ultra- oder tiefkühlpflichtige Durchstechflasche in Höhe von 11,55 Euro zuzüglich Umsatzsteuer. Ab dem 31. Mai 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffes eine Vergütung in Höhe von 6,55 Euro zuzüglich Umsatzsteuer.
 
 (2) Für die Abgabe von durch den Großhändler selbst beschafftem Impfbesteck und -zubehör an Apotheken erhält der Großhändler zusätzlich eine Vergütung in Höhe von 1,65 Euro zuzüglich Umsatzsteuer je abgegebene Durchstechflasche.
 
-(3) Die Vergütung nach Absatz 1 wird von den Apotheken unter Angabe der BUND-Pharmazentralnummer für den Großhandel nach § 13 abgerechnet.
+(3) Die Vergütung nach Absatz 1 und Absatz 2 wird von den Apotheken unter Angabe der BUND-Pharmazentralnummer für den Großhandel nach § 13 abgerechnet.
 
 (4) Der Bundesverband des pharmazeutischen Großhandels e. V. hat dem Bundesministerium für Gesundheit bis zum 15. Juni 2021 eine Aufstellung der tatsächlichen Aufwände nach den Absätzen 1 und 2 zu übermitteln. Die Vergütung nach den Absätzen 1 und 2 kann aufgrund der Aufstellung angepasst werden.
 
