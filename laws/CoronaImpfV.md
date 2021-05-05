@@ -62,6 +62,8 @@ Innerhalb der in Satz 1 genannten Gruppen von Anspruchsberechtigten können auf 
 
 Der Anspruch nach Absatz 1 umfasst außerdem die Ausstellung einer Impfdokumentation nach § 22 des Infektionsschutzgesetzes. Die für die Durchführung der Schutzimpfung verantwortliche Person im Sinne von § 22 Absatz 2 Satz 1 Nummer 4 des Infektionsschutzgesetzes ist der jeweilige Leistungserbringer nach § 6 Absatz 1 Satz 1.
 
+(+++ § 1 Abs. 2 bis 4: Zur Geltung vgl. § 5 Abs. 1 Satz 1 +++)
+
 # § 2 – Schutzimpfungen mit höchster Priorität
 
 (1) Folgende Personen haben mit höchster Priorität Anspruch auf Schutzimpfung:
