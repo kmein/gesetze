@@ -4658,7 +4658,7 @@ Die gewerblichen Berufsgenossenschaften tragen ihre Rentenlasten nach Maßgabe d
 
 2. 70 Prozent nach dem Verhältnis der Arbeitsentgelte ihrer Versicherten.
 
-(++++ Hinweis: Zu den Neurenten-Faktoren für die Zeit ab 1.1.2015 vgl. Bek. v. 9.12.2014 I 2005 u. für die Zeit ab 1.1.2021 vgl. Bek. v. 14.12.2020 I 2932 +++)
+(++++ Hinweis: Zu den Neurenten-Faktoren für die Zeit ab 1.1.2015 vgl. V v. 9.12.2014 I 2005 u. für die Zeit ab 1.1.2021 vgl. V v. 14.12.2020 I 2932 +++)
 
 # § 179 – Sonderregelung bei außergewöhnlicher Belastung
 
