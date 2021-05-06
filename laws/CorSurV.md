@@ -1,5 +1,5 @@
 % Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2  (Coronavirus-Surveillanceverordnung - CorSurV)
-% Ausfertigungsdatum: 08.04.2020
+% Ausfertigungsdatum: 18.01.2021
  
 # Eingangsformel
 
