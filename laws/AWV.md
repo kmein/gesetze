@@ -985,6 +985,12 @@ erwirbt.
 
 (4) (weggefallen)
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 55 Abs. 3 Satz 1 u. 2: Zur Anwendung vgl. § 58 Abs. 2 Satz 2 Halbsatz 1 +++)  
+(+++ § 55 Abs. 3 Satz 2 bis 4: Zur Geltung vgl. § 60 Abs. 4 Satz 2 +++)  
+(+++ § 55 Abs. 3 Satz 3: Zur Nichtanwendung vgl. § 58 Abs. 2 Satz 2 Halbsatz 2 +++)
+
 # § 55a – Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit
 
 (1) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt werden, ob das inländische Unternehmen
@@ -1131,6 +1137,10 @@ Eine Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere aufgrund der Eig
 
 (5) Zur Meldung nach Absatz 4 ist der unmittelbare Erwerber verpflichtet, auch wenn in dessen Person die Voraussetzungen des § 55 Absatz 1 nicht vorliegen.
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 55a Abs. 3 Satz 2: Zur Geltung vgl. § 56 Abs. 4 Satz 4 +++)
+
 # § 56 – Stimmrechtsanteile
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen muss nach dem Erwerb seiner Beteiligung
@@ -1185,6 +1195,10 @@ Satz 1 ist entsprechend anzuwenden, wenn der Erwerber nachträglich eine Vereinb
 
 jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die jeweiligen Zwischengesellschafter unter entsprechender Anwendung des Absatzes 4 mindestens einen der nach Absatz 1 Nummer 1, 2 oder 3 maßgeblichen Anteile der Stimmrechte an der jeweiligen Tochtergesellschaft halten.
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 56 Abs. 2 bis 5: Zur Geltung vgl. § 60a Abs. 2 +++)
+
 # § 57 – (weggefallen)
 
 # § 58 – Unbedenklichkeitsbescheinigung
@@ -1195,6 +1209,9 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn ein Prüfverfahren nach § 55 Absatz 3 eingeleitet wurde oder eine Pflicht zur Meldung nach § 55a Absatz 4 Satz 1 besteht.
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
+
 # § 58a – Freigabe eines Erwerbs nach § 55
 
 (1) Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 entgegenstehen und die Erteilung einer Unbedenklichkeitsbescheinigung nach § 58 Absatz 3 ausgeschlossen ist. Die Freigabe erfolgt bei Erwerben im Sinne des § 55a Absatz 1 Nummer 1 bis 27 gegenüber dem nach § 55a Absatz 5 Meldepflichtigen, in allen anderen Fällen gegenüber demjenigen, dem die Einleitung des Prüfverfahrens nach § 55 Absatz 3 Satz 1 bekannt zu geben ist.
@@ -1202,6 +1219,10 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 (2) Die Freigabe gilt als erteilt, wenn auf Grund einer Meldung nach § 55a Absatz 4 das Prüfverfahren nach § 55 nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist eingeleitet wird oder wenn in einem nach § 55 Absatz 3 eingeleiteten Prüfverfahren die Befugnisse nach § 59 Absatz 1 und 3 nicht ausgeübt wurden und die in § 14a Absatz 1 Nummer 2, auch in Verbindung mit dessen Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Fristen abgelaufen sind.
 
 (3) Eine Freigabe kann mit der Auflage versehen werden, dass dem Bundesministerium für Wirtschaft und Energie der Erwerb weiterer Stimmrechte auch unterhalb der in § 56 Absatz 2 genannten Schwellenwerte zum Zwecke der Prüfung nach § 55 Absatz 1 unverzüglich nach Abschluss des schuldrechtlichen Rechtsgeschäfts anzuzeigen ist. § 14 Absatz 1 Satz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
+
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 58a Abs. 3: Zur Geltung vgl. § 61 Satz 3 +++)
 
 # § 59 – Untersagung oder Anordnungen
 
@@ -1218,6 +1239,10 @@ jeweils auch in Verbindung mit den Absätzen 2 und 3, wenn der Erwerber und die 
 (4) Als Dritter kann nach § 23 Absatz 6b Satz 1 des Außenwirtschaftsgesetzes mit der Kontrolle angeordneter oder durch Vertrag übernommener Verpflichtungen der an einem Erwerb Beteiligten beauftragt werden, wer fachkundig, zuverlässig und unabhängig von den Verpflichteten und den weiteren an dem Erwerb Beteiligten ist. Als fachkundig gilt, wer aufgrund seiner Ausbildung, seiner beruflichen Qualifikation oder seiner nachgewiesenen Berufspraxis oder einer Kombination daraus über die erforderlichen Kenntnisse und Fähigkeiten verfügt, um die ihm übertragene Kontrolltätigkeit im Einklang mit allen einschlägigen Rechtsvorschriften und Normen und, soweit es um die Kontrolle technischer oder naturwissenschaftlicher Vorgänge oder Anforderungen geht, unter Beachtung der anerkannten Grundsätze von Wissenschaft und Technik, fach- und sachgerecht ausüben zu können.
 
 (5) In den Fällen des Absatzes 1 kann das Bundesministerium für Wirtschaft und Energie auch anordnen, dass die an einem Erwerb Beteiligten und die mit ihnen verbundenen Unternehmen dem Bundesministerium für Wirtschaft und Energie in bestimmten Zeitabständen einen schriftlichen oder elektronischen Bericht über die Einhaltung von angeordneten oder durch Vertrag übernommenen Verpflichtungen vorzulegen haben. Der Bericht muss von einer Person erstellt werden, die fachkundig im Sinne des Absatzes 4 Satz 2 und unabhängig von den Verpflichteten und den weiteren am Erwerb Beteiligten ist. Die Kosten des Berichts tragen die Verpflichteten.
+
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)  
+(+++ § 59 Abs. 3 bis 5: Zur Geltung vgl. § 62 Abs. 2 +++)
 
 # § 60 – Anwendungsbereich der sektorspezifischen Prüfung
 
@@ -1270,6 +1295,9 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (4) Das Bundesministerium für Wirtschaft und Energie hat dem unmittelbaren Erwerber und dem von einem Erwerb nach Absatz 1 betroffenen inländischen Unternehmen die Eröffnung des Prüfverfahrens innerhalb der in § 14a Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes genannten Frist bekannt zu geben. § 55 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
+
 # § 60a – Stimmrechtsanteile
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen muss nach dem Erwerb seiner Beteiligung 10 Prozent der Stimmrechte erreichen oder überschreiten.
@@ -1278,9 +1306,15 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (3) (weggefallen)
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
+
 # § 61 – Freigabe eines Erwerbs nach § 60
 
 Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 7 schriftlich oder elektronisch frei, wenn dem Erwerb keine Bedenken im Hinblick auf wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland entgegenstehen. Die Freigabe gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Energie nicht innerhalb der in § 14a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 3 Satz 1, des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren gemäß § 60 Absatz 1 gegenüber dem Meldepflichtigen eröffnet. § 58a Absatz 3 gilt mit der Maßgabe entsprechend, dass an die Stelle des § 55 Absatz 1 der § 60 Absatz 1 tritt.
+
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 62 – Untersagung oder Anordnungen
 
@@ -1288,9 +1322,15 @@ Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem
 
 (2) § 59 Absatz 3 bis 5 gilt entsprechend.
 
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
+
 # § 62a – Verfahrenswechsel im Prüfverfahren
 
 Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60 Absatz 1 Satz 1 herausstellt, dass die Voraussetzungen für eine Untersagung oder den Erlass von Anordnungen im Sinne der Vorschriften über das jeweils andere Verfahren vorliegen können, kann das Bundesministerium für Wirtschaft und Energie das jeweilige Prüfverfahren auf Grundlage der Voraussetzungen der Vorschriften des anderen Verfahrens fortsetzen. Hinsichtlich der Anwendung des § 14a des Außenwirtschaftsgesetzes gelten die bisherigen Verfahrenshandlungen für das andere Verfahren fort. Der Verfahrenswechsel ist dem unmittelbaren Erwerber, dem Veräußerer und dem inländischen Unternehmen unverzüglich schriftlich oder elektronisch bekannt zu geben.
+
+(+++ §§ 55 bis 62a: Zur Anwendung in der ab 1.5.2021 geltenden Fassung vgl. § 82a Satz 1 +++)  
+(+++ §§ 55 bis 62a: Zur Anwendung in den Fassungen der AWV2013ÄndV 15, AWV2013ÄndV 16 und AWV2013ÄndV 17 vgl. § 82b Satz 1 +++)
 
 # § 63 – Begriffsbestimmungen
 
