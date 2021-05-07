@@ -80,6 +80,9 @@ Der Anspruch nach Absatz 1 umfasst außerdem die Ausstellung einer Impfdokumenta
 
 (2) Personen nach Absatz 1 Nummer 1 können getrennt nach Geburtsjahrgängen, beginnend mit den ältesten Jahrgängen, zeitversetzt zur Schutzimpfung eingeladen werden.
 
+(+++ § 2 Abs. 2: Zur Anwendung vgl. § 3 Abs. 2 u. § 4 Abs. 2 +++)  
+(+++ § 2: Zur Geltung vgl. § 5 Abs. 1 Satz 1 +++)
+
 # § 3 – Schutzimpfungen mit hoher Priorität
 
 (1) Folgende Personen haben mit hoher Priorität Anspruch auf Schutzimpfung:
@@ -136,6 +139,8 @@ b) von einer schwangeren Person, die von dieser Person oder von einer sie vertre
 
 (2) Für Personen nach Absatz 1 Nummer 1 gilt § 2 Absatz 2 entsprechend.
 
+(+++ § 3: Zur Geltung vgl. § 5 Abs. 1 Satz 1 +++)
+
 # § 4 – Schutzimpfungen mit erhöhter Priorität
 
 (1) Folgende Personen haben mit erhöhter Priorität Anspruch auf Schutzimpfung:
@@ -185,6 +190,8 @@ d) die als Wahlhelfer tätig sind,
 9. sonstige Personen, bei denen aufgrund ihrer Arbeits- oder Lebensumstände ein deutlich erhöhtes Risiko einer Infektion mit dem Coronavirus SARS-CoV-2 besteht.
 
 (2) Für Personen nach Absatz 1 Nummer 1 gilt § 2 Absatz 2 entsprechend.
+
+(+++ § 4: Zur Geltung vgl. § 5 Abs. 1 Satz 1 +++)
 
 # § 5 – Folge- und Auffrischimpfungen
 
