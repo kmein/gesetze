@@ -1727,8 +1727,7 @@ b) die in Artikel 123 Absatz 3 Buchstabe d der Verordnung (EU) 2017/745 genannte
 
 4. im Falle der Feststellung der vollen Funktionsfähigkeit eines oder mehrerer der übrigen elektronischen Systeme, die nach Artikel 33 Absatz 2 der Verordnung (EU) 2017/745 Bestandteil von Eudamed sind, mitteilen, dass die übrigen in Artikel 123 Absatz 3 Buchstabe d der Verordnung (EU) 2017/745 genannten, mit dem jeweiligen elektronischen System in Zusammenhang stehenden Pflichten und Anforderungen abweichend von der Mitteilung nach Absatz 1 Satz 2 über das jeweilige elektronische System zu erfüllen sind.
 
-(+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
-(+++ § 97: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
+(+++ § 97 Abs. 1 Satz 1 u. Abs. 2 Kursivdruck: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 vom 26.5.2020 auf den 26.5.2021 verschoben worden +++)
 
 # § 98 – Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte
 

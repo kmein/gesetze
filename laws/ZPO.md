@@ -11396,71 +11396,63 @@ Unpfändbar sind
 
 # § 850c – Pfändungsgrenzen für Arbeitseinkommen
 
-(1) Arbeitseinkommen ist unpfändbar, wenn es, je nach dem Zeitraum, für den es gezahlt wird, nicht mehr als  
+(1) Arbeitseinkommen ist unpfändbar, wenn es, je nach dem Zeitraum, für den es gezahlt wird, nicht mehr als
 
-|          |                                    |
-|---------:|:-----------------------------------|
-| 930      | Euro1)</sup> monatlich,       |
-|   217,50 | Euro2)</sup> wöchentlich oder |
-|    43,50 | Euro3)</sup> täglich,         |
+1. 1 178,59 Euro monatlich,
 
-  
-beträgt. Gewährt der Schuldner auf Grund einer gesetzlichen Verpflichtung seinem Ehegatten, einem früheren Ehegatten, seinem Lebenspartner, einem früheren Lebenspartner oder einem Verwandten oder nach §§ 1615l, 1615n des Bürgerlichen Gesetzbuchs einem Elternteil Unterhalt, so erhöht sich der Betrag, bis zu dessen Höhe Arbeitseinkommen unpfändbar ist, auf bis zu  
+2. 271,24 Euro wöchentlich oder
 
-|            |                                    |
-|-----------:|:-----------------------------------|
-| 2 060      | Euro4)</sup> monatlich,       |
-|     478,50 | Euro5)</sup> wöchentlich oder |
-|      96,50 | Euro6)</sup> täglich,         |
+3. 54,25 Euro täglich
 
-und zwar um  
+beträgt.
 
-|     |                                    |
-|----:|:-----------------------------------|
-| 350 | Euro7)</sup> monatlich,       |
-|  81 | Euro8)</sup> wöchentlich oder |
-|  17 | Euro9)</sup> täglich,         |
+(2) Gewährt der Schuldner auf Grund einer gesetzlichen Verpflichtung seinem Ehegatten, einem früheren Ehegatten, seinem Lebenspartner, einem früheren Lebenspartner, einem Verwandten oder nach den §§ 1615l und 1615n des Bürgerlichen Gesetzbuchs einem Elternteil Unterhalt, so erhöht sich der Betrag nach Absatz 1 für die erste Person, der Unterhalt gewährt wird, und zwar um
 
-  
-für die erste Person, der Unterhalt gewährt wird, und um je  
+1. 443,57 Euro monatlich,
 
-|     |                                     |
-|----:|:------------------------------------|
-| 195 | Euro10)</sup> monatlich,       |
-|  45 | Euro11)</sup> wöchentlich oder |
-|   9 | Euro12)</sup> täglich          |
+2. 102,08 Euro wöchentlich oder
 
-  
-für die zweite bis fünfte Person.
+3. 20,42 Euro täglich.
 
-(2) Übersteigt das Arbeitseinkommen den Betrag, bis zu dessen Höhe es je nach der Zahl der Personen, denen der Schuldner Unterhalt gewährt, nach Absatz 1 unpfändbar ist, so ist es hinsichtlich des überschießenden Betrages zu einem Teil unpfändbar, und zwar in Höhe von drei Zehnteln, wenn der Schuldner keiner der in Absatz 1 genannten Personen Unterhalt gewährt, zwei weiteren Zehnteln für die erste Person, der Unterhalt gewährt wird, und je einem weiteren Zehntel für die zweite bis fünfte Person. Der Teil des Arbeitseinkommens, der 2 851 Euro13)</sup> monatlich (658 Euro14)</sup> wöchentlich, 131,58 Euro15)</sup> täglich) übersteigt, bleibt bei der Berechnung des unpfändbaren Betrages unberücksichtigt.
+Für die zweite bis fünfte Person, der Unterhalt gewährt wird, erhöht sich der Betrag nach Absatz 1 um je
 
-(2a) Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 ändern sich jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, entsprechend der im Vergleich zum jeweiligen Vorjahreszeitraum sich ergebenden prozentualen Entwicklung des Grundfreibetrages nach § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes; der Berechnung ist die am 1. Januar des jeweiligen Jahres geltende Fassung des § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes zugrunde zu legen. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
+1. 247,12 Euro monatlich,
 
-(3) Bei der Berechnung des nach Absatz 2 pfändbaren Teils des Arbeitseinkommens ist das Arbeitseinkommen, gegebenenfalls nach Abzug des nach Absatz 2 Satz 2 pfändbaren Betrages, wie aus der Tabelle ersichtlich, die diesem Gesetz als Anlage beigefügt ist, nach unten abzurunden, und zwar bei Auszahlung für Monate auf einen durch 10 Euro, bei Auszahlung für Wochen auf einen durch 2,50 Euro oder bei Auszahlung für Tage auf einen durch 50 Cent teilbaren Betrag. Im Pfändungsbeschluss genügt die Bezugnahme auf die Tabelle.
+2. 56,87 Euro wöchentlich oder
 
-(4) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt; soll die Person nur teilweise berücksichtigt werden, so ist Absatz 3 Satz 2 nicht anzuwenden. \_\_\_\_\_\_\_\_\_\_\_\_\_
+3. 11,37 Euro täglich.
 
-Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 sind durch Bekanntmachung zu § 850c der Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl. I S. 493) geändert worden:
+(3) Übersteigt das Arbeitseinkommen den Betrag nach Absatz 1, so ist es hinsichtlich des überschießenden Teils in Höhe von drei Zehnteln unpfändbar. Gewährt der Schuldner nach Absatz 2 Unterhalt, so sind für die erste Person weitere zwei Zehntel und für die zweite bis fünfte Person jeweils ein weiteres Zehntel unpfändbar. Der Teil des Arbeitseinkommens, der
 
-  
+1. 3 613,08 Euro monatlich,
 
-1)</sup> 985,15 Euro; 2)</sup> 226,72 Euro; 3)</sup> 45,34 Euro; 4)</sup> 2 182,15 Euro; 5)</sup> 502,20 Euro; 6)</sup> 100,44 Euro; 7)</sup> 370,76 Euro; 8)</sup> 85,32 Euro; 9)</sup> 17,06 Euro; 10)</sup> 206,56 Euro; 11)</sup> 47,54 Euro; 12)</sup> 9,51 Euro; 13)</sup> 3 020,06 Euro; 14)</sup> 695,03 Euro; 15)</sup> 139,01 Euro.
+2. 831,50 Euro wöchentlich oder
 
-(+++ Hinweis: Unpfändbare Beträge nach Abs. 1 u. Abs. 2 Satz 2  
-für den Zeitraum vom 1.7.2007 bis 30.6.2009 vgl. Bek. v. 22.1.2007 I 64  
-(Pfändungsfreigrenzenbekanntmachung 2007),  
-für den Zeitraum vom 1.7.2009 bis 30.6.2011 vgl. Bek. v. 15.5.2009 I 1141  
-(Pfändungsfreigrenzenbekanntmachung 2009),  
-für die Zeit ab 1.7.2011 vgl. Bek. v. 9.5.2011 I 825  
-(Pfändungsfreigrenzenbekanntmachung 2011),  
-für die Zeit ab 1.7.2013 vgl. Bek. v. 26.3.2013 I 710  
-(Pfändungsfreigrenzenbekanntmachung 2013),  
-für die Zeit ab 1.7.2015 vgl. Bek. v. 14.4.2015 I 618  
-(Pfändungsfreigrenzenbekanntmachung 2015),  
-für die Zeit ab 1.7.2017 vgl. Bek. v. 28.3.2017 I 750  
-(Pfändungsfreigrenzenbekanntmachung 2017) u. für die Zeit ab 1.7.2019 vgl. Bek. v. 4.4.2019 I 443  
-(Pfändungsfreigrenzenbekanntmachung 2019) +++)
+3. 166,30 Euro täglich
+
+übersteigt, bleibt bei der Berechnung des unpfändbaren Betrages unberücksichtigt.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz macht im Bundesgesetzblatt Folgendes bekannt (Pfändungsfreigrenzenbekanntmachung):
+
+1. die Höhe des unpfändbaren Arbeitseinkommens nach Absatz 1,
+
+2. die Höhe der Erhöhungsbeträge nach Absatz 2,
+
+3. die Höhe der in Absatz 3 Satz 3 genannten Höchstbeträge.
+
+Die Beträge werden jeweils zum 1. Juli eines Jahres entsprechend der im Vergleich zum jeweiligen Vorjahreszeitraum sich ergebenden prozentualen Entwicklung des Grundfreibetrages nach § 32a Absatz 1 Satz 2 Nummer 1 des Einkommensteuergesetzes angepasst; der Berechnung ist die am 1. Januar des jeweiligen Jahres geltende Fassung des § 32a Absatz 1 Satz 2 Nummer 1 des Einkommensteuergesetzes zugrunde zu legen.
+
+(5) Um den nach Absatz 3 pfändbaren Teil des Arbeitseinkommens zu berechnen, ist das Arbeitseinkommen, gegebenenfalls nach Abzug des nach Absatz 3 Satz 3 pfändbaren Betrages, auf eine Zahl abzurunden, die bei einer Auszahlung für
+
+1. Monate bei einer Teilung durch 10 eine natürliche Zahl ergibt,
+
+2. Wochen bei einer Teilung durch 2,5 eine natürliche Zahl ergibt,
+
+3. Tage bei einer Teilung durch 0,5 eine natürliche Zahl ergibt.
+
+Die sich aus der Berechnung nach Satz 1 ergebenden Beträge sind in der Pfändungsfreigrenzenbekanntmachung als Tabelle enthalten. Im Pfändungsbeschluss genügt die Bezugnahme auf die Tabelle.
+
+(6) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt; soll die Person nur teilweise berücksichtigt werden, so ist Absatz 5 Satz 3 nicht anzuwenden.
 
 # § 850d – Pfändbarkeit bei Unterhaltsansprüchen
 
@@ -11492,28 +11484,17 @@ b) an eine Ersatzkasse oder an ein Unternehmen der privaten Krankenversicherung 
 
 (1) Das Vollstreckungsgericht kann dem Schuldner auf Antrag von dem nach den Bestimmungen der §§ 850c, 850d und 850i pfändbaren Teil seines Arbeitseinkommens einen Teil belassen, wenn
 
-a) der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen entsprechend der Anlage zu diesem Gesetz (zu § 850c) der notwendige Lebensunterhalt im Sinne des Dritten, Vierten und Elften Kapitels des Zwölften Buches Sozialgesetzbuch oder nach Kapitel 3 Abschnitt 2 des Zweiten Buches Sozialgesetzbuch für sich und für die Personen, denen er Unterhalt zu gewähren hat, nicht gedeckt ist,
+1. der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen entsprechend § 850c der notwendige Lebensunterhalt im Sinne des Dritten und Vierten Kapitels des Zwölften Buches Sozialgesetzbuch oder nach Kapitel 3 Abschnitt 2 des Zweiten Buches Sozialgesetzbuch für sich und für die Personen, denen er gesetzlich zum Unterhalt verpflichtet ist, nicht gedeckt ist,
 
-b) besondere Bedürfnisse des Schuldners aus persönlichen oder beruflichen Gründen oder
+2. besondere Bedürfnisse des Schuldners aus persönlichen oder beruflichen Gründen oder
 
-c) der besondere Umfang der gesetzlichen Unterhaltspflichten des Schuldners, insbesondere die Zahl der Unterhaltsberechtigten, dies erfordern
+3. der besondere Umfang der gesetzlichen Unterhaltspflichten des Schuldners, insbesondere die Zahl der Unterhaltsberechtigten, dies erfordern
 
 und überwiegende Belange des Gläubigers nicht entgegenstehen.
 
 (2) Wird die Zwangsvollstreckung wegen einer Forderung aus einer vorsätzlich begangenen unerlaubten Handlung betrieben, so kann das Vollstreckungsgericht auf Antrag des Gläubigers den pfändbaren Teil des Arbeitseinkommens ohne Rücksicht auf die in § 850c vorgesehenen Beschränkungen bestimmen; dem Schuldner ist jedoch so viel zu belassen, wie er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden gesetzlichen Unterhaltspflichten bedarf.
 
-(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und in § 850d bezeichneten Forderungen betrieben, so kann das Vollstreckungsgericht in den Fällen, in denen sich das Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) beläuft, über die Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei einem Arbeitseinkommen von monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) aus § 850c ergeben würde. Die Beträge nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt. \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Die Beträge haben sich infolge der Bekanntmachung zu § 850c der Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl. I S. 493) geändert:
-
-  
-
-1)</sup> 2 985 Euro; 2)</sup> 678,70 Euro; 3)</sup> 131,25 Euro.
-
-(+++ Hinweis: Zur Änderung der Beträge nach § 850f Abs. 3 Satz 1 und 2 vgl. Bek. v. 9.5.2011 I 825 (Pfändungsfreigrenzenbekanntmachung 2011),  
-Bek. v. 26.3.2013 I 710 (Pfändungsfreigrenzenbekanntmachung 2013),  
-Bek. v. 14.4.2015 I 618 (Pfändungsfreigrenzenbekanntmachung 2015),  
-Bek. v. 28.3.2017 I 750 (Pfändungsfreigrenzenbekanntmachung 2017) u. Bek. v. 4.4.2019 I 443 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
+(3) (weggefallen)
 
 # § 850g – Änderung der Unpfändbarkeitsvoraussetzungen
 
