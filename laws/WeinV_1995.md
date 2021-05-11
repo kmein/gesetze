@@ -589,6 +589,8 @@ geerntet worden sind.
 
 (9) Die Länder können durch Rechtsverordnung in Jahren mit außergewöhnlichen Witterungsbedingungen die Säuerung von frischen Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach den in Anhang VIII Teil I Abschnitt C Nummer 2 und 3 der Verordnung (EU) Nr. 1308/2013 genannten Bedingungen zulassen.
 
+# § 13a – (weggefallen)
+
 # § 14 – Hygienische Anforderungen(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)
 
 Erzeugnisse dürfen nur unter Beachtung der Anforderungen des § 3 der Lebensmittelhygiene-Verordnung gewerbsmäßig verarbeitet, befördert, gelagert, verwertet oder in den Verkehr gebracht werden.
@@ -618,6 +620,8 @@ vorgenommen werden.
 (1a) Landwein darf nach Maßgabe des Anhangs I D Nummer 1 der Verordnung (EG) Nr. 606/2009 nur mit inländischem Traubenmost gesüßt werden.
 
 (2) Bei Qualitätswein und Prädikatswein sowie bei Landwein darf zur Süßung von Weißwein nur Traubenmost aus Weißweintrauben, zur Süßung von Rotwein und Roséwein nur Traubenmost aus Rotweintrauben und zur Süßung von Rotling Traubenmost derselben Art, Traubenmost aus Weißweintrauben oder Traubenmost aus Rotweintrauben verwendet werden.
+
+# § 16a – (weggefallen)
 
 # § 17 – Umrechnung von Oechslegraden in Volumenprozent Alkohol(zu § 15 Nummer 7 des Weingesetzes)
 
