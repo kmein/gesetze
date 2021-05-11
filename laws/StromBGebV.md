@@ -7,7 +7,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes vom 7. August 20
 
 # § 1 – Gebühren- und Auslagenerhebung
 
-Für individuell zurechenbare öffentliche Leistungen nach Teil 3 des Windenergie-auf-See-Gesetzes erhebt die Bundesnetzagentur Gebühren und Auslagen nach dem Gebührenverzeichnis der Anlage. Daneben werden Auslagen nach § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes gesondert erhoben.
+Für individuell zurechenbare öffentliche Leistungen nach den Teilen 3 und 5 des Windenergie-auf-See-Gesetzes erhebt die Bundesnetzagentur Gebühren und Auslagen nach dem Gebührenverzeichnis der Anlage. Daneben werden Auslagen nach § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes gesondert erhoben.
 
 # § 2 – Inkrafttreten
 
@@ -15,4 +15,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Anlage – (zu § 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2017, 3)
+(Fundstelle: BGBl. I 2021, 858)

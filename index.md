@@ -4764,6 +4764,7 @@
 - [SchauHV](laws/SchauHV.md) Verordnung über die Haftpflichtversicherung für Schausteller
 - [SchaumwZwStG](laws/SchaumwZwStG.md) Schaumwein- und Zwischenerzeugnissteuergesetz
 - [SchaumwZwStV](laws/SchaumwZwStV.md) Verordnung zur Durchführung des Schaumwein- und Zwischenerzeugnissteuergesetzes
+- [SchAusnahmV](laws/SchAusnahmV.md) Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19
 - [SchAusrV](laws/SchAusrV.md) Schiffsausrüstungsverordnung
 - [SchBauG](laws/SchBauG.md) Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung
 - [SchBerG](laws/SchBerG.md) Gesetz über die Beschränkung von Grundeigentum für die militärische Verteidigung

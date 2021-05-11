@@ -93,7 +93,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(2) Teil 1 findet im vierten Ausbildungshalbjahr statt, Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
+(2) Teil 1 soll im vierten Ausbildungshalbjahr stattfinden. Teil 2 findet am Ende der Berufsausbildung statt. Wird die Ausbildungsdauer verkürzt, so soll Teil 1 der Abschlussprüfung spätestens vier Monate vor dem Zeitpunkt von Teil 2 der Abschlussprüfung stattfinden. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
 # § 7 – Inhalt von Teil 1
 
