@@ -1,4 +1,4 @@
-% Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden)  (Zivildienstvertrauensmann-Gesetz - ZDVG)
+% Gesetz über den Vertrauensmann der Zivildienstleistenden  (Zivildienstvertrauensmann-Gesetz - ZDVG)
 % Ausfertigungsdatum: 16.01.1991
  
 # § 1 – Beteiligung, Grundsatz

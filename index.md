@@ -6328,7 +6328,7 @@
 - [ZApprO](laws/ZApprO.md) Approbationsordnung für Zahnärzte und Zahnärztinnen
 - [ZDG](laws/ZDG.md) Gesetz über den Zivildienst der Kriegsdienstverweigerer
 - [ZDPersAV](laws/ZDPersAV.md) Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst
-- [ZDVG](laws/ZDVG.md) Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden)
+- [ZDVG](laws/ZDVG.md) Gesetz über den Vertrauensmann der Zivildienstleistenden
 - [ZDVÜV](laws/ZDVÜV.md) Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende nach Herstellung der Einheit Deutschlands
 - [ZDVWahlV 2](laws/ZDVWahlV_2.md) Zweite Verordnung über die Wahl der Vertrauensmänner der Zivildienstleistenden
 - [ZelterPlErl](laws/ZelterPlErl.md) Erlaß über die Stiftung der Zelter-Plakette
