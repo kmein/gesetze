@@ -1340,7 +1340,6 @@
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
-- [CoronaSchV](laws/CoronaSchV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf neuartige Mutationen des Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
@@ -3893,6 +3892,7 @@
 - [Münz20EuroBek 2020-08-20/2](laws/Münz20EuroBek_2020-08-20_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „900 Jahre Freiburg“)
 - [Münz20EuroBek 2021-02-08/1](laws/Münz20EuroBek_2021-02-08_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Frau Holle“)
 - [Münz20EuroBek 2021-02-08/2](laws/Münz20EuroBek_2021-02-08_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „50 Jahre Sendung mit der Maus“)
+- [Münz20EuroBek 2021-04-23](laws/Münz20EuroBek_2021-04-23.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „100. Geburtstag Sophie Scholl“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
