@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung des Versicherungsteuergesetzes  (Versicherungsteuer-Durchführungsverordnung - VersStDV)
+% Verordnung zur Durchführung des Versicherungsteuergesetzes  (Versicherungsteuer-Durchführungsverordnung - VersStDV 2021)
 % Ausfertigungsdatum: 13.07.1937
  
 # § 1 – Begriffsbestimmungen
@@ -19,11 +19,11 @@
 
 (4) Amtlich anerkannte Register im Sinne des § 1 Absatz 2 Satz 1 Nummer 2 des Gesetzes sind insbesondere die in § 5 der Binnenschifffahrt-Kennzeichnungsverordnung genannten Register des
 
-1. Deutschen Motoryachtverbandes e. V.,
+1. Deutschen Motoryachtverbandes e. V.,
 
-2. Deutschen Segler-Verbandes e. V. und
+2. Deutschen Segler-Verbandes e. V. und
 
-3. Allgemeinen Deutschen Automobilclubs e. V.
+3. Allgemeinen Deutschen Automobilclubs e. V.
 
 (5) Versicherungsnehmer im Sinne des § 1 Absatz 2 Satz 3 des Gesetzes ist bei der Versicherung für fremde Rechnung der materielle Versicherungsnehmer, also die Person, deren Risiken durch die Versicherung gedeckt werden.
 
@@ -47,7 +47,7 @@ Sicherungsabtretung und Verpfändung des Anspruchs aus einer Versicherung im Sin
 
 # § 2 – Anzeigepflichten für Versicherer
 
-(1) Ein EWR-Versicherer hat die Aufnahme des Versicherungsgeschäfts im Geltungsbereich des Gesetzes binnen zwei Wochen gegenüber dem Bundeszentralamt für Steuern anzuzeigen. Das Gleiche gilt für eine Person oder eine Personenvereinigung, die an einem Versicherungsvertrag im Sinne des § 2 Abs. 1 des Gesetzes beteiligt ist.
+(1) Ein EWR-Versicherer hat die Aufnahme des Versicherungsgeschäfts im Geltungsbereich des Gesetzes binnen zwei Wochen gegenüber dem Bundeszentralamt für Steuern anzuzeigen. Das Gleiche gilt für eine Person oder eine Personenvereinigung, die an einem Versicherungsvertrag im Sinne des § 2 Absatz 1 des Gesetzes beteiligt ist.
 
 (2) Zugleich mit der Anzeige hat der Versicherer dem Bundeszentralamt für Steuern zu erklären, ob er die Erfüllung der Steuerpflicht selbst übernehmen oder den zur Entgegennahme von Prämienzahlungen ermächtigten Personen (Bevollmächtigten) übertragen will. In der Anzeige hat der Versicherer alle Bevollmächtigten, denen er die Erfüllung der Steuerpflicht übertragen hat, unter Angabe ihres Wohnsitzes (Sitzes, Geschäftsleitung) und des Umfangs der Übertragung aufzuführen.
 
@@ -73,7 +73,7 @@ Zur Gewährleistung eines ordnungsgemäßen Besteuerungsverfahrens ist der Steue
 
 # § 5 – Ausnahme von der Besteuerung bei Viehversicherungen
 
-Sind bei einer Viehversicherung statt einer Versicherungssumme feste Entschädigungsbeträge für jedes Stück Vieh vereinbart, so gilt die Ausnahmevorschrift des § 4 Nr. 9 des Gesetzes nur, wenn der Höchstbetrag der Ersatzpflicht des Versicherers gegenüber einem Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts 4.000 Euro nicht übersteigt.
+Sind bei einer Viehversicherung statt einer Versicherungssumme feste Entschädigungsbeträge für jedes Stück Vieh vereinbart, so gilt die Ausnahmevorschrift des § 4 Nummer 9 des Gesetzes nur, wenn der Höchstbetrag der Ersatzpflicht des Versicherers gegenüber einem Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts 4 000 Euro nicht übersteigt.
 
 # § 6 – Empfangsbevollmächtigter in den Fällen des § 2 Absatz 1 des Gesetzes
 

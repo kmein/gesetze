@@ -1,20 +1,20 @@
-% Versicherungsteuergesetz  (VersStG 1996)
+% Versicherungsteuergesetz  (VersStG 2021)
 % Ausfertigungsdatum: 08.04.1922
  
 # Inhaltsübersicht
 
 |                                                                  |       |
-|:-----------------------------------------------------------------|:------|
-| Gegenstand der Steuer                                            | § 1   |
-| Versicherungsverträge                                            | § 2   |
-| Versicherungsentgelt                                             | § 3   |
-| Ausnahmen von der Besteuerung                                    | § 4   |
-| Steuerberechnung, Steuerentstehung, Steuerausweis                | § 5   |
-| Steuersatz                                                       | § 6   |
-| Steuerschuldner, Steuerentrichtungsschuldner, Haftende           | § 7   |
-| Zuständigkeit                                                    | § 7a  |
-| Anmeldung, Fälligkeit                                            | § 8   |
-| Erstattung, Nachentrichtung der Steuer                           | § 9   |
+|------------------------------------------------------------------|:------|
+| Gegenstand der Steuer                                            | §  1  |
+| Versicherungsverträge                                            | §  2  |
+| Versicherungsentgelt                                             | §  3  |
+| Ausnahmen von der Besteuerung                                    | §  4  |
+| Steuerberechnung, Steuerentstehung, Steuerausweis                | §  5  |
+| Steuersatz                                                       | §  6  |
+| Steuerschuldner, Steuerentrichtungsschuldner, Haftende           | §  7  |
+| Zuständigkeit                                                    | §  7a |
+| Anmeldung, Fälligkeit                                            | §  8  |
+| Erstattung, Nachentrichtung der Steuer                           | §  9  |
 | Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung | § 10  |
 | Mitteilungspflicht                                               | § 10a |
 | Anwendungsvorschriften                                           | § 10b |
@@ -152,7 +152,7 @@ Die Steuerbefreiung tritt nur ein, wenn Gegenseitigkeit gewährt wird;
 
 a) der Feuerversicherung und der Feuer-Betriebsunterbrechungsversicherung (§ 3 Absatz 1 Nummer 1 des Feuerschutzsteuergesetzes) von einem Anteil von 60 Prozent des Versicherungsentgelts,
 
-b) der Wohngebäudeversicherung (§ 3 Absatz 1 Nummer 2 des Feuerschutzsteuergesetzes) von einem Anteil von 86 Prozent des Versicherungsentgelts,
+b) der Wohngebäudeversicherung (§ 3 Absatz 1 Nummer 2 des Feuerschutzsteuergesetzes) von einem Anteil von 86 Prozent des Versicherungsentgelts,
 
 c) der Hausratversicherung (§ 3 Absatz 1 Nummer 3 des Feuerschutzsteuergesetzes) von einem Anteil von 85 Prozent des Versicherungsentgelts.
 
@@ -232,7 +232,7 @@ Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Här
 
 # § 9 – Erstattung, Nachentrichtung der Steuer
 
-(1) Ist das Versicherungsentgelt ganz oder zum Teil zurückgezahlt worden, weil die Versicherung vorzeitig endete oder weil das Versicherungsentgelt oder die Versicherungssumme herabgesetzt worden ist, so wird die Steuer auf Antrag insoweit erstattet, als sie bei Berücksichtigung dieser Umstände nicht zu erheben gewesen wäre. Die Steuer wird dem Steuerentrichtungsschuldner (§ 7 Absatz 2 bis 5) oder dem Haftenden (§ 7 Absatz 7) für Rechnung des Steuerschuldners und im Fall des § 7 Absatz 6 dem Versicherungsnehmer erstattet. Die Steuer wird nicht erstattet, wenn die Prämienrückgewähr ausdrücklich versichert war. Ein Erstattungsanspruch ist nur gegeben, wenn die Steuer tatsächlich an das Bundeszentralamt für Steuern entrichtet wurde.
+(1) Ist das Versicherungsentgelt ganz oder zum Teil zurückgezahlt worden, weil die Versicherung vorzeitig endete oder weil das Versicherungsentgelt oder die Versicherungssumme herabgesetzt worden ist, so wird die Steuer auf Antrag insoweit erstattet, als sie bei Berücksichtigung dieser Umstände nicht zu erheben gewesen wäre. Die Steuer wird dem Steuerentrichtungsschuldner (§ 7 Absatz 2 bis 5) oder dem Haftenden (§ 7 Absatz 7) für Rechnung des Steuerschuldners und im Fall des § 7 Absatz 6 dem Versicherungsnehmer erstattet. Die Steuer wird nicht erstattet, wenn die Prämienrückgewähr ausdrücklich versichert war. Ein Erstattungsanspruch ist nur gegeben, wenn die Steuer tatsächlich an das Bundeszentralamt für Steuern entrichtet wurde.
 
 (2) Treten nach Zahlung des Versicherungsentgelts Umstände ein, die eine Steuerbefreiung nach § 4 Absatz 1 Nummer 5 Buchstabe b begründen, so wird die Steuer auf Antrag erstattet, soweit Versicherungsentgelt für einen Zeitraum nach Eintritt dieser Umstände gezahlt worden ist. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
@@ -280,11 +280,11 @@ Wer nach § 7 Absatz 4 steuerentrichtungspflichtig ist, hat den Gesamtbetrag des
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten Behörden teilen dem Bundeszentralamt für Steuern die zu ihrer Kenntnis gelangenden Versicherer mit.
 
-(2) Das Registergericht teilt Eintragungen von Vereinen oder Genossenschaften, die sich mit dem Abschluß von Versicherungen befassen, dem Bundeszentralamt für Steuern mit; das gilt auch dann, wenn die Vereine oder Genossenschaften ihre Leistungen als Unterstützungen ohne Rechtsanspruch bezeichnen.
+(2) Das Registergericht teilt Eintragungen von Vereinen oder Genossenschaften, die sich mit dem Abschluss von Versicherungen befassen, dem Bundeszentralamt für Steuern mit; das gilt auch dann, wenn die Vereine oder Genossenschaften ihre Leistungen als Unterstützungen ohne Rechtsanspruch bezeichnen.
 
 # § 10b – Anwendungsvorschriften
 
-Wird ein Steuersatz geändert oder die Zahlung des Versicherungsentgelts von der Steuer ausgenommen, ist der neue Steuersatz oder die neue Befreiungsvorschrift auf Versicherungsentgelte anzuwenden, die ab dem Inkrafttreten der Änderung des Steuersatzes oder der neuen Befreiungsvorschrift fällig werden. Satz 1 gilt entsprechend für geänderte oder aufgehobene Befreiungsvorschriften. Wird die Fälligkeit des Versicherungsentgelts geändert für Zeitpunkte, ab denen eine Rechtsänderung in Kraft tritt, so ist die Änderung dieser Fälligkeit im Hinblick auf die Steueranmeldung und Steuerentrichtung insoweit nicht zu berücksichtigen, als sie zu einer niedrigeren Steuer führen würde. Dies gilt entsprechend, wenn ein Versicherungsvertrag zur Änderung der Fälligkeit des Versicherungsentgelts gekündigt und alsbald neu abgeschlossen oder wenn die Fälligkeit des Versicherungsentgelts für einen Zeitpunkt vor Abschluß des Versicherungsvertrags festgelegt wird.
+Wird ein Steuersatz geändert oder die Zahlung des Versicherungsentgelts von der Steuer ausgenommen, ist der neue Steuersatz oder die neue Befreiungsvorschrift auf Versicherungsentgelte anzuwenden, die ab dem Inkrafttreten der Änderung des Steuersatzes oder der neuen Befreiungsvorschrift fällig werden. Satz 1 gilt entsprechend für geänderte oder aufgehobene Befreiungsvorschriften. Wird die Fälligkeit des Versicherungsentgelts geändert für Zeitpunkte, ab denen eine Rechtsänderung in Kraft tritt, so ist die Änderung dieser Fälligkeit im Hinblick auf die Steueranmeldung und Steuerentrichtung insoweit nicht zu berücksichtigen, als sie zu einer niedrigeren Steuer führen würde. Dies gilt entsprechend, wenn ein Versicherungsvertrag zur Änderung der Fälligkeit des Versicherungsentgelts gekündigt und alsbald neu abgeschlossen oder wenn die Fälligkeit des Versicherungsentgelts für einen Zeitpunkt vor Abschluss des Versicherungsvertrags festgelegt wird.
 
 # § 10c – Geschäftstätigkeit von Lloyd´s
 
