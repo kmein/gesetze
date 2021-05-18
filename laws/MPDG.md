@@ -118,7 +118,7 @@ c) den Mindestinhalt der Informationen zur Aufklärung der betroffenen Patienten
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände nach Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand abgedeckt ist. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Leistung erhoben werden kann, die nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Leistung veranlasst hat.
 
 (+++ § 87: Inkraft gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 23.5.2020 +++)  
-(+++ Kap. 7 (§§ 84 bis 89): Zur Anwendung vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
+(+++ § 87: Zur Anwendung d. Kap. 7 vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
 
 # § 88 – Verordnungsermächtigungen
 
@@ -226,7 +226,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 4 können ohne Zustimmung des Bu
 (4) Die Rechtsverordnungen nach den Absätzen 2 und 3 bedürfen nicht der Zustimmung des Bundesrates bei Gefahr im Verzug oder wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist. Die Rechtsverordnung nach Absatz 3 bedarf nicht der Zustimmung des Bundesrates, soweit sie Gebühren und Auslagen von Bundesbehörden betrifft. Die Rechtsverordnungen nach den Absätzen 2 und 3 treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
 (+++ § 88: Inkraft gem. Art. 17 Abs. 1 Satz 1 Nr. 1 G v. 28.4.2020 I 960 mWv 23.5.2020 +++)  
-(+++ § Kap. §§ 84 bis 89): Zur Anwendung vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
+(+++ § 88: Zur Anwendung d. Kap. 7 vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
 
 # § 89 – (zukünftig in Kraft)
 
