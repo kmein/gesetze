@@ -391,3 +391,5 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 (Fundstelle: BAnz AT 12.05.2021 V1)
 
 Ersatzmitteilung  
+
+<a href="../normengrafiken/banzat_2021/20210512v1_01.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
