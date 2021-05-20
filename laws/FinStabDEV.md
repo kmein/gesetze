@@ -137,6 +137,8 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 (3) Die Anforderung der Daten bei den Mitteilungspflichtigen kann eine einmalige oder eine wiederkehrende Datenanforderung durch die Deutsche Bundesbank vorsehen. Im Falle einer einmaligen Datenanforderung bestimmt die Deutsche Bundesbank den Stichtag, bezogen auf den die Daten zu melden sind, und den Zeitpunkt, bis zu welchem sie zu übermitteln sind. Im Falle einer wiederkehrenden Anforderung der Daten von Mitteilungspflichtigen bestimmt die Deutsche Bundesbank in welchen Abständen und bis zu welchen Stichtagen die Daten zu übermitteln sind. Die Anforderung einer Übermittlung von Daten in monatlichen Abständen muss durch außergewöhnliche Umstände gerechtfertigt sein. Außergewöhnliche Umstände liegen insbesondere dann vor, wenn eine Störung der Funktionsfähigkeit des inländischen Finanzsystems oder einer Gefährdung der Finanzstabilität im Inland droht. Sind im Fall einer wiederkehrenden Anforderung Daten bereits bezogen auf einen Stichtag in der Vergangenheit gemeldet worden, ist keine Aktualisierung der bereits übermittelten Daten zum nächsten Meldestichtag erforderlich.
 
+(+++ § 3 Abs. 1: Zur Anwendung vgl. § 7 Abs. 3 +++)
+
 # § 4 – Daten über Wohnimmobilienfinanzierungen
 
 (1) Zur Wahrung der Finanzstabilität sowie zur Identifizierung und Analyse möglicher Risiken für die Finanzstabilität aus Wohnimmobilienfinanzierungen kann die Deutsche Bundesbank gemäß § 6 Absatz 1 des Finanzstabilitätsgesetzes in Verbindung mit § 3 Absatz 1 die folgenden Datenattribute mit Bezug zu Wohnimmobilienfinanzierungen anfordern, sofern Darlehensnehmer eine oder mehrere natürliche Personen sind:
