@@ -3614,6 +3614,7 @@
 - [MetTechAusbV](laws/MetTechAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
 - [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
+- [MfnvV](laws/MfnvV.md) Verordnung zur Vorausschau zum Mobilfunknetzausbau nach dem Telekommunikationsgesetz
 - [MForschG](laws/MForschG.md) Gesetz über die Durchführung wissenschaftlicher Meeresforschung
 - [MfSÜPrRLBek](laws/MfSÜPrRLBek.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
 - [MfSÜPrRLÜbernBek](laws/MfSÜPrRLÜbernBek.md) Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
@@ -5552,7 +5553,7 @@
 - [TVA-H BBiG](laws/TVA-H_BBiG.md) Tarifvertrag für Auszubildende des Landes Hessen in Ausbildungsberufen nach dem Berufsbildungsgesetz
 - [TVG](laws/TVG.md) Tarifvertragsgesetz
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
-- [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormendes Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
+- [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
 - [TVMindestlohn Abfall 8](laws/TVMindestlohn_Abfall_8.md) Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019
 - [TVMindestlohn Gerüstb 6](laws/TVMindestlohn_Gerüstb_6.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
 - [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021

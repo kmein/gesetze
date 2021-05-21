@@ -145,6 +145,8 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 
 (2) Sofern eine digitale Einreiseanmeldung aufgrund fehlender technischer Ausstattung oder aufgrund technischer Störung nicht möglich war, ist stattdessen eine vollständig ausgefüllte Ersatzmitteilung nach dem Muster der Anlage bei der Einreise mitzuführen.
 
+(+++ § 3: Zur Nichtgeltung vgl. § 6 Abs. 1 Satz 1 +++)
+
 # § 4 – Absonderungspflicht
 
 (1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Risikogebiet eingestuftem Gebiet aufgehalten haben, sind verpflichtet, sich unverzüglich nach der Einreise auf eigene Kosten für einen Zeitraum nach Absatz 2 abzusondern. Nach der Einreise haben sich Personen nach Satz 1 auf direktem Weg in die Haupt- oder Nebenwohnung oder in eine andere, eine Absonderung ermöglichende Unterkunft zu begeben. Den absonderungspflichtigen Personen ist es in diesem Zeitraum nicht gestattet, Besuch von Personen zu empfangen, die nicht ihrem Hausstand angehören. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 innerhalb des jeweils maßgeblichen Absonderungszeitraums nach Absatz 2 bei ihnen auftreten. Personen nach Satz 1 unterliegen für die Zeit der Absonderung der Beobachtung durch die zuständige Behörde.
@@ -152,6 +154,9 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 (2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Bei Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Hochinzidenzgebiet eingestuftem Gebiet aufgehalten haben, darf die zugrunde liegende Testung frühestens fünf Tage nach der Einreise erfolgt sein. Die Absonderung nach Absatz 1 Satz 1 wird für die Dauer, die zur Durchführung eines Tests erforderlich ist, ausgesetzt. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage, Satz 2 findet keine Anwendung.
 
 (3) Diese Vorschrift ist längstens bis zum 30. Juni 2021 anzuwenden.
+
+(+++ § 4: Zur Nichtgeltung vgl. § 6 Abs. 1 +++)  
+(+++ § 4: Zur Nichtgeltung vgl. § 6 Abs. 2 +++)
 
 # § 5 – Nachweispflicht
 
@@ -166,6 +171,8 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 Sofern die Einreise unter Inanspruchnahme eines Beförderers aus einem Hochinzidenzgebiet, einem Virusvariantengebiet oder auf dem Luftweg erfolgt, muss der Nachweis nach Satz 1 bereits vor Abreise zum Zwecke der Vorlage gegenüber dem Beförderer vorhanden sein. Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, müssen in den Fällen der Sätze 1 und 2 über einen Testnachweis verfügen; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
 
 (2) Personen, die das sechste Lebensjahr vollendet haben und nicht unter Absatz 1 fallen, haben, wenn sie sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Risikogebiet eingestuftem Gebiet, welches weder Hochinzidenzgebiet noch Virusvariantengebiet ist, aufgehalten haben, spätestens 48 Stunden nach ihrer Einreise über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis zu verfügen.
+
+(+++ § 5 Abs. 2: Zur Nichtgeltung vgl. § 6 Abs. 4 +++)
 
 # § 6 – Ausnahmen
 
@@ -298,7 +305,7 @@ Sofern eine Anforderung nach Satz 1 im Rahmen der Einreise nicht erfolgt ist, is
 
 1. einen Genesenennachweis oder einen Impfnachweis, oder
 
-2. einen Testnachweis nach § 4 Absatz 2 Satz 2 oder § 5
+2. einen Testnachweis nach § 4 Absatz 2 Satz 2 oder § 5.
 
 Die zuständige Behörde kann in begründeten Einzelfällen auf Antrag Ausnahmen zulassen. Das Vorliegen einer Ausnahme von § 4 oder § 5 ist auf Verlangen der zuständigen Behörde glaubhaft zu machen. Für Personen, die zum Zwecke einer Arbeitsaufnahme in die Bundesrepublik Deutschland einreisen, kann auch der Arbeitgeber oder ein sonstiger Dritter den Nachweis nach Satz 1 erbringen.
 
