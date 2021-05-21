@@ -242,7 +242,7 @@ c) veröffentlichten oder unveröffentlichten Berichten über sonstige klinische
 
 3. zur Täuschung über die in den Grundlegenden Anforderungen nach § 7 festgelegten Produkteigenschaften geeignete Bezeichnungen, Angaben oder Aufmachungen verwendet werden, die für die Bewertung des Medizinproduktes mitbestimmend sind.
 
-(+++ § 4 (F 25.5.2020): zur Anwendung bis 27.5.2025 vgl. § 99 Abs. 1 Nr. 1 MPDG +++)
+(+++ § 4 (F 25.5.2020): Zur Anwendung bis 27.5.2025 vgl. § 99 Abs. 1 Nr. 1 MPDG +++)
 
 # § 5 – Verantwortlicher für das erstmalige Inverkehrbringen
 
@@ -257,6 +257,8 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 (3) Gelten für das Medizinprodukt zusätzlich andere Rechtsvorschriften als die dieses Gesetzes, deren Einhaltung durch die CE-Kennzeichnung bestätigt wird, so darf der Hersteller das Medizinprodukt nur dann mit der CE-Kennzeichnung versehen, wenn auch diese anderen Rechtsvorschriften erfüllt sind. Steht dem Hersteller auf Grund einer oder mehrerer weiterer Rechtsvorschriften während einer Übergangszeit die Wahl der anzuwendenden Regelungen frei, so gibt er mit der CE-Kennzeichnung an, dass dieses Medizinprodukt nur den angewandten Rechtsvorschriften entspricht. In diesem Fall hat der Hersteller in den dem Medizinprodukt beiliegenden Unterlagen, Hinweisen oder Anleitungen die Nummern der mit den angewandten Rechtsvorschriften umgesetzten Richtlinien anzugeben, unter denen sie im Amtsblatt der Europäischen Union veröffentlicht sind. Bei sterilen Medizinprodukten müssen diese Unterlagen, Hinweise oder Anleitungen ohne Zerstörung der Verpackung, durch welche die Sterilität des Medizinproduktes gewährleistet wird, zugänglich sein.
 
 (4) Die Durchführung von Konformitätsbewertungsverfahren lässt die zivil- und strafrechtliche Verantwortlichkeit des Verantwortlichen nach § 5 unberührt.
+
+(+++ § 6 (F 25.5.2020): Zur Anwendung bis 27.5.2025 vgl. § 99 Abs. 1 Nr. 1 MPDG +++)
 
 # § 7 – Grundlegende Anforderungen
 
@@ -354,7 +356,7 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (6) Die Anerkennung nach Absatz 5 erlischt mit Fristablauf, mit der Einstellung des Betriebs des Prüflaboratoriums oder durch Verzicht. Die Einstellung oder der Verzicht sind der zuständigen Behörde unverzüglich schriftlich mitzuteilen. Die zuständige Behörde nimmt die Anerkennung zurück, soweit nachträglich bekannt wird, dass ein Prüflaboratorium bei der Anerkennung nicht die Voraussetzungen für eine Anerkennung erfüllt hat. Sie widerruft die Anerkennung, soweit die Voraussetzungen für eine Anerkennung nachträglich weggefallen sind. An Stelle des Widerrufs kann das Ruhen der Anerkennung angeordnet werden.
 
-(+++ § 15 Abs. 2 Satz 2 bis 6 (F 25.5.2020): zur Anwendung bis 27.5.2024 vgl. § 99 Abs. 2 Satz 2 MPDG +++)
+(+++ § 15 Abs. 2 Satz 2 bis 6 (F 25.5.2020): Zur Anwendung bis 27.5.2024 vgl. § 99 Abs. 2 Satz 2 MPDG +++)
 
 # § 15a – Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten
 
@@ -410,7 +412,7 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 2. die Ergebnisse aller Leistungsbewertungsprüfungen oder sonstigen geeigneten Prüfungen.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 20 – Allgemeine Voraussetzungen zur klinischen Prüfung
 
@@ -476,7 +478,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (8) (weggefallen)
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 21 – Besondere Voraussetzungen zur klinischen Prüfung
 
@@ -490,7 +492,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (5) Die Einwilligung des Kranken oder des gesetzlichen Vertreters ist auch wirksam, wenn sie mündlich gegenüber dem behandelnden Arzt, bei für die Zahnheilkunde bestimmten Medizinprodukten auch gegenüber dem behandelnden Zahnarzt, in Gegenwart eines Zeugen abgegeben wird, der auch bei der Information der betroffenen Person einbezogen war. Der Zeuge darf keine bei der Prüfstelle beschäftigte Person und kein Mitglied der Prüfgruppe sein. Die mündlich erteilte Einwilligung ist entweder schriftlich oder elektronisch zu dokumentieren, zu datieren und von dem Zeugen zu unterschreiben. Bei elektronischer Dokumentation erfolgt die Unterschrift durch eine qualifizierte elektronische Signatur gemäß der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19).
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 22 – Verfahren bei der Ethik-Kommission
 
@@ -508,7 +510,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (4) Die Ethik-Kommission hat eine Entscheidung über den Antrag nach Absatz 1 innerhalb einer Frist von 60 Tagen nach Eingang der erforderlichen Unterlagen zu übermitteln. Sie unterrichtet zusätzlich die zuständige Bundesoberbehörde über die Entscheidung.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 22a – Genehmigungsverfahren bei der Bundesoberbehörde
 
@@ -556,7 +558,7 @@ Die Absätze 3 und 4 gelten entsprechend. Die zuständige Ethik-Kommission unter
 
 (6) Wird die Genehmigung einer klinischen Prüfung zurückgenommen, widerrufen oder das Ruhen einer Genehmigung angeordnet, so informiert die zuständige Bundesoberbehörde die zuständigen Behörden und die Behörden der anderen betroffenen Mitgliedstaaten des Europäischen Wirtschaftsraums über die getroffene Maßnahme und deren Gründe. § 22a Absatz 6 Satz 2 und 3 gilt entsprechend.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 22c – Änderungen nach Genehmigung von klinischen Prüfungen
 
@@ -584,13 +586,13 @@ der angezeigten Änderungen.
 
 (6) Werden wesentliche Änderungen auf Grund von Maßnahmen der zuständigen Bundesoberbehörde an einer klinischen Prüfung veranlasst, so informiert die zuständige Bundesoberbehörde die zuständigen Behörden und die zuständigen Behörden der anderen betroffenen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum über die getroffene Maßnahme und deren Gründe. § 22a Absatz 6 Satz 2 und 3 gilt entsprechend.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 23 – Durchführung der klinischen Prüfung
 
 Neben den §§ 20 bis 22c gelten für die Durchführung klinischer Prüfungen von aktiven implantierbaren Medizinprodukten auch die Bestimmungen der Nummer 2.3 des Anhangs 7 der Richtlinie 90/385/EWG und für die Durchführung klinischer Prüfungen von sonstigen Medizinprodukten die Bestimmungen der Nummer 2.3 des Anhangs X der Richtlinie 93/42/EWG.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 23a – Meldungen über Beendigung oder Abbruch von klinischen Prüfungen
 
@@ -602,13 +604,13 @@ Neben den §§ 20 bis 22c gelten für die Durchführung klinischer Prüfungen vo
 
 (4) Im Falle eines Abbruchs der klinischen Prüfung aus Sicherheitsgründen informiert die zuständige Bundesoberbehörde alle zuständigen Behörden, die Behörden der Mitgliedstaaten des Europäischen Wirtschaftsraums und die Europäische Kommission. § 22a Absatz 6 Satz 2 und 3 gilt entsprechend.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 23b – Ausnahmen zur klinischen Prüfung
 
 Die §§ 20 bis 23a sind nicht anzuwenden, wenn eine klinische Prüfung mit Medizinprodukten durchgeführt wird, die nach den §§ 6 und 10 die CE-Kennzeichnung tragen dürfen, es sei denn, diese Prüfung hat eine andere Zweckbestimmung des Medizinproduktes zum Inhalt oder es werden zusätzlich invasive oder andere belastende Untersuchungen durchgeführt.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 24 – Leistungsbewertungsprüfung
 
@@ -622,7 +624,7 @@ Auf Leistungsbewertungsprüfungen von In-vitro-Diagnostika sind die §§ 20 bis 
 
 In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entnommen werden, erforderlich, soweit das Persönlichkeitsrecht oder kommerzielle Interessen dieser Person berührt sind.
 
-(+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
+(+++ § 19 bis 24: Zur Weiteranwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
 # § 25 – Allgemeine Anzeigepflicht
 
@@ -760,7 +762,7 @@ und eine mindestens zweijährige Berufserfahrung. Die Sachkenntnis ist auf Verla
 
 4. Entscheidungen zur Abgrenzung und Klassifizierung von Medizinprodukten nach § 13 Absatz 2 und 3,
 
-5. Sonderzulassungen nach § 11 Absatz 1,
+5. Sonderzulassungen nach § 11 Absatz 1 und nach § 7 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes,
 
 6. die Beratung der zuständigen Behörden, der Verantwortlichen nach § 5, von Sponsoren und Benannten Stellen,
 
