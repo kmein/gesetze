@@ -99,7 +99,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 3a. Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 Satz 1, des § 27 Absatz 6 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1, des § 30 Absatz 5 Satz 1, des § 37 Absatz 3 Satz 1 bis 3, des § 68 Absatz 8 Satz 1, des § 78 Absatz 3 Satz 3, des § 89 Absatz 3 Satz 3, des § 96 Absatz 4 Satz 1, des § 117 Absatz 9 Satz 1, des § 132 Absatz 8 Satz 1, des § 166 Absatz 5 Satz 5, des § 168 Absatz 8 Satz 1, des § 197 Absatz 3 Satz 1, des § 204 Absatz 3 Satz 1, des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des Kapitalanlagegesetzbuchs sowie Rechtsverordnungen nach Maßgabe des § 38 Absatz 5 Satz 1, des § 47 Absatz 4 Satz 1, des § 48a Absatz 2, des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1, des § 136 Absatz 4 Satz 1 und des § 185 Absatz 3 Satz 1 des Kapitalanlagegesetzbuchs jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-4. Rechtsverordnungen nach Maßgabe des § 4 Absatz 6 Satz 1 und 3, des § 5 Absatz 3 Satz 1 bis 3, dieser auch in Verbindung mit Absatz 2 Satz 3, des § 16 Absatz 4 Satz 1 bis 3, des § 24 Absatz 5 Satz 1 und 2 sowie des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
+4. Rechtsverordnungen nach Maßgabe des § 4 Absatz 6 Satz 1 und 3, des § 5 Absatz 3 Satz 1 bis 3, dieser auch in Verbindung mit Absatz 2 Satz 3, des § 16 Absatz 4 Satz 1 bis 3, des § 24 Absatz 5 Satz 1 und 2 sowie des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und Rechtsverordnungen nach Maßgabe des § 27a Absatz 2 Satz 1 und 2 des Pfandbriefgesetzes nach Anhörung der Spitzenverbände der Kreditwirtschaft,
 
 5. Rechtsverordnungen nach Maßgabe des § 10 Absatz 1 Satz 1 und 3, des § 10a Absatz 7 Satz 1 und 3, des § 11 Absatz 1 Satz 2, 3 und 5, des § 13 Absatz 1 Satz 1 und 3, des § 13c Absatz 1 Satz 2 und 4, des § 22 Satz 1 und 3, dieser auch in Verbindung mit § 14 Absatz 1 Satz 1, des § 24 Absatz 4 Satz 1, 2 und 4, dieser auch in Verbindung mit § 2 Absatz 10 Satz 4 und 6, mit § 2c Absatz 1 Satz 2 und 3, mit § 25e Satz 3 sowie mit § 32 Absatz 1 Satz 2 und 3, des § 25a Absatz 6 Satz 1 bis 3 und 5, des § 25f Absatz 4 Satz 1 und 3 sowie des § 53j Absatz 3 Satz 1 und 2 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute, Rechtsverordnungen nach Maßgabe des § 51a Absatz 1 Satz 2 und 4 sowie des § 51b Absatz 2 Satz 1 und 3 des Kreditwesengesetzes jeweils im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung des Spitzenverbands der Wohnungsunternehmen mit Spareinrichtung, Rechtsverordnungen nach Maßgabe des § 18a Absatz 11 Satz 1, des § 22d Absatz 1 Satz 2 und des § 24c Absatz 7 Satz 1 des Kreditwesengesetzes, Rechtsverordnungen nach Maßgabe des § 25 Absatz 3 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit der Deutschen Bundesbank, Rechtsverordnungen nach Maßgabe des § 29 Absatz 4 Satz 1 und 2 des Kreditwesengesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und nach Anhörung der Deutschen Bundesbank und Rechtsverordnungen nach Maßgabe des § 31 Absatz 1 Satz 1 des Kreditwesengesetzes im Benehmen mit der Deutschen Bundesbank,
 
@@ -135,9 +135,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Sanierungs- und Abwicklungsgesetzes zu erlassen
 
-a) im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3 und
+1. im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 19 Absatz 4 Satz 1 und 2,
 
-b) im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
+2. im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 1 Satz 1 und 3 und
+
+3. im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
 
 # § 2
 

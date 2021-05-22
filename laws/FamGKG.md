@@ -361,9 +361,11 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 2. das Umgangsrecht einschließlich der Umgangspflegschaft,
 
-3. das Recht auf Auskunft über die persönlichen Verhältnisse des Kindes oder
+3. das Recht auf Auskunft über die persönlichen Verhältnisse des Kindes,
 
-4. die Kindesherausgabe
+4. die Kindesherausgabe oder
+
+5. die Genehmigung einer Einwilligung in einen operativen Eingriff bei einem Kind mit einer Variante der Geschlechtsentwicklung (§ 1631e Absatz 3 des Bürgerlichen Gesetzbuchs)
 
 betrifft, beträgt der Verfahrenswert 4 000 Euro.
 

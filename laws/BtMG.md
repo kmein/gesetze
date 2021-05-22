@@ -2952,6 +2952,15 @@ Isomethadon
 
 \-
 
+Isotonitazen  
+(Iso)
+
+N,N-Diethyl-2-{\[4-(1-methylethoxy)  
+phenyl\]methyl}-5-nitro-1H-  
+benzimidazol-1-ethanamin
+
+\-
+
 JWH-007
 
 (2-Methyl-1-pentyl-1H-indol-3-yl)(naphthalin-1-yl)methanon
@@ -3078,6 +3087,14 @@ MDMB-CHMICA
 
 Methyl{2-\[1-(cyclohexylmethyl)-1H-indol-3-carboxamido\]-3,3-dimethylbutanoat}
 
+\-
+
+MDMB-4en-PINACA
+
+Methyl{2-\[1-(pent-4-en-1-yl)-1H-  
+indazol-3-carboxamido\]-3,3-  
+dimethylbutanoat}
+
 Mefenorex
 
 \-
@@ -3150,6 +3167,14 @@ N-Ethyl-1-(4-methoxyphenyl)propan-2-amin
 4-Methylamfetamin
 
 1-(4-Methylphenyl)propan-2-amin
+
+\-
+
+2-Methyl-AP-237  
+(2-Methyl-Bucinnazin)
+
+1-\[2-Methyl-4-(3-phenylprop-2-  
+en-1-yl)piperazin-1-yl\]butan-1-on
 
 \-
 
@@ -4152,6 +4177,16 @@ Remifentanil
 \-
 
 Methyl{3-\[4-methoxycarbonyl-4-(N-phenylpropanamido)piperidino\]propanoat}
+
+Remimazolam
+
+\-
+
+Methyl{3-\[(4S)-8-brom-1-methyl-  
+6-(pyridin-2-yl)-4H-imidazo\[1,2-a\]  
+\[1,4\]benzodiazepin-4-yl\]propanoat}
+
+- ausgenommen in Zubereitungen, die ohne einen weiteren Stoff der Anlagen I bis III als Lyophilisat nur zur parenteralen Anwendung bis zu 20 mg Remimazolam, berechnet als Base, enthalten -
 
 Secobarbital
 

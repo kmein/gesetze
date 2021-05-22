@@ -11454,6 +11454,10 @@ Die sich aus der Berechnung nach Satz 1 ergebenden Beträge sind in der Pfändun
 
 (6) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt; soll die Person nur teilweise berücksichtigt werden, so ist Absatz 5 Satz 3 nicht anzuwenden.
 
+(+++ Hinweis: Unpfändbare Beträge nach § 850c  
+für den Zeitraum ab 1. Juli 2021 vgl. Bek. v. 10.5.2021 I 1099  
+(Pfändungsfreigrenzenbekanntmachung 2021) +++)
+
 # § 850d – Pfändbarkeit bei Unterhaltsansprüchen
 
 (1) Wegen der Unterhaltsansprüche, die kraft Gesetzes einem Verwandten, dem Ehegatten, einem früheren Ehegatten, dem Lebenspartner, einem früheren Lebenspartner oder nach §§ 1615l, 1615n des Bürgerlichen Gesetzbuchs einem Elternteil zustehen, sind das Arbeitseinkommen und die in § 850a Nr. 1, 2 und 4 genannten Bezüge ohne die in § 850c bezeichneten Beschränkungen pfändbar. Dem Schuldner ist jedoch so viel zu belassen, als er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden gesetzlichen Unterhaltspflichten gegenüber den dem Gläubiger vorgehenden Berechtigten oder zur gleichmäßigen Befriedigung der dem Gläubiger gleichstehenden Berechtigten bedarf; von den in § 850a Nr. 1, 2 und 4 genannten Bezügen hat ihm mindestens die Hälfte des nach § 850a unpfändbaren Betrages zu verbleiben. Der dem Schuldner hiernach verbleibende Teil seines Arbeitseinkommens darf den Betrag nicht übersteigen, der ihm nach den Vorschriften des § 850c gegenüber nicht bevorrechtigten Gläubigern zu verbleiben hätte. Für die Pfändung wegen der Rückstände, die länger als ein Jahr vor dem Antrag auf Erlass des Pfändungsbeschlusses fällig geworden sind, gelten die Vorschriften dieses Absatzes insoweit nicht, als nach Lage der Verhältnisse nicht anzunehmen ist, dass der Schuldner sich seiner Zahlungspflicht absichtlich entzogen hat.

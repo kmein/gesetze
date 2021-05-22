@@ -12209,6 +12209,48 @@ Die Eltern können nicht in eine Sterilisation des Kindes einwilligen. Auch das 
 
 (2) In den ersten sechs Monaten nach der Geburt des Kindes dürfen auch von einer Religionsgesellschaft dazu vorgesehene Personen Beschneidungen gemäß Absatz 1 durchführen, wenn sie dafür besonders ausgebildet und, ohne Arzt zu sein, für die Durchführung der Beschneidung vergleichbar befähigt sind.
 
+# § 1631e – Behandlung von Kindern mit Varianten der Geschlechtsentwicklung
+
+(1) Die Personensorge umfasst nicht das Recht, in eine Behandlung eines nicht einwilligungsfähigen Kindes mit einer Variante der Geschlechtsentwicklung einzuwilligen oder selbst diese Behandlung durchzuführen, die, ohne dass ein weiterer Grund für die Behandlung hinzutritt, allein in der Absicht erfolgt, das körperliche Erscheinungsbild des Kindes an das des männlichen oder des weiblichen Geschlechts anzugleichen.
+
+(2) In operative Eingriffe an den inneren oder äußeren Geschlechtsmerkmalen des nicht einwilligungsfähigen Kindes mit einer Variante der Geschlechtsentwicklung, die eine Angleichung des körperlichen Erscheinungsbilds des Kindes an das des männlichen oder des weiblichen Geschlechts zur Folge haben könnten und für die nicht bereits nach Absatz 1 die Einwilligungsbefugnis fehlt, können die Eltern nur einwilligen, wenn der Eingriff nicht bis zu einer selbstbestimmten Entscheidung des Kindes aufgeschoben werden kann. § 1909 ist nicht anzuwenden.
+
+(3) Die Einwilligung nach Absatz 2 Satz 1 bedarf der Genehmigung des Familiengerichts, es sei denn, der operative Eingriff ist zur Abwehr einer Gefahr für das Leben oder für die Gesundheit des Kindes erforderlich und kann nicht bis zur Erteilung der Genehmigung aufgeschoben werden. Die Genehmigung ist auf Antrag der Eltern zu erteilen, wenn der geplante Eingriff dem Wohl des Kindes am besten entspricht. Legen die Eltern dem Familiengericht eine den Eingriff befürwortende Stellungnahme einer interdisziplinären Kommission nach Absatz 4 vor, wird vermutet, dass der geplante Eingriff dem Wohl des Kindes am besten entspricht.
+
+(4) Einer interdisziplinären Kommission sollen zumindest die folgenden Personen angehören:
+
+1. der das Kind Behandelnde gemäß § 630a,
+
+2. mindestens eine weitere ärztliche Person,
+
+3. eine Person, die über eine psychologische, kinder- und jugendlichenpsychotherapeutische oder kinder- und jugendpsychiatrische Berufsqualifikation verfügt, und
+
+4. eine in Ethik aus-, weiter- oder fortgebildete Person.
+
+Die ärztlichen Kommissionsmitglieder müssen unterschiedliche kinderheilkundliche Spezialisierungen aufweisen. Unter ihnen muss ein Facharzt für Kinder- und Jugendmedizin mit dem Schwerpunkt Kinderendokrinologie und -diabetologie sein. Ein Kommissionsmitglied nach Satz 1 Nummer 2 darf nicht in der Einrichtung der medizinischen Versorgung beschäftigt sein, in der der operative Eingriff durchgeführt werden soll. Sämtliche Kommissionsmitglieder müssen Erfahrung im Umgang mit Kindern mit Varianten der Geschlechtsentwicklung haben. Auf Wunsch der Eltern soll die Kommission eine Beratungsperson mit einer Variante der Geschlechtsentwicklung beteiligen.
+
+(5) Die den operativen Eingriff nach Absatz 2 Satz 1 befürwortende Stellungnahme der interdisziplinären Kommission hat insbesondere folgende Angaben zu enthalten:
+
+1. die Bezeichnung der Mitglieder der Kommission und Informationen zu ihrer Befähigung,
+
+2. das Alter des Kindes und ob und welche Variante der Geschlechtsentwicklung es aufweist,
+
+3. die Bezeichnung des geplanten Eingriffs und welche Indikation für diesen besteht,
+
+4. warum die Kommission den Eingriff unter Berücksichtigung des Kindeswohls befürwortet und ob er aus ihrer Sicht dem Wohl des Kindes am besten entspricht, insbesondere welche Risiken mit diesem Eingriff, mit einer anderen Behandlung oder mit dem Verzicht auf einen Eingriff bis zu einer selbstbestimmten Entscheidung des Kindes verbunden sind,
+
+5. ob und durch welche Kommissionsmitglieder ein Gespräch mit den Eltern und dem Kind geführt wurde und ob und durch welche Kommissionsmitglieder die Eltern und das Kind zum Umgang mit dieser Variante der Geschlechtsentwicklung aufgeklärt und beraten wurden,
+
+6. ob eine Beratung der Eltern und des Kindes durch eine Beratungsperson mit einer Variante der Geschlechtsentwicklung stattgefunden hat,
+
+7. inwieweit das Kind in der Lage ist, sich eine Meinung zu bilden und zu äußern und ob der geplante Eingriff seinem Willen entspricht, sowie
+
+8. ob die nach Absatz 4 Satz 6 beteiligte Beratungsperson mit einer Variante der Geschlechtsentwicklung die befürwortende Stellungnahme mitträgt.
+
+Die Stellungnahme muss von allen Mitgliedern der interdisziplinären Kommission unterschrieben sein.
+
+(6) Der Behandelnde gemäß § 630a hat, wenn eine Behandlung an den inneren oder äußeren Geschlechtsmerkmalen erfolgt ist, die Patientenakte bis zu dem Tag aufzubewahren, an dem die behandelte Person ihr 48. Lebensjahr vollendet.
+
 # § 1632 – Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
 
 (1) Die Personensorge umfasst das Recht, die Herausgabe des Kindes von jedem zu verlangen, der es den Eltern oder einem Elternteil widerrechtlich vorenthält.
