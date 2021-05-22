@@ -189,7 +189,7 @@ Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenhe
 
 5. die Entscheidung von Meinungsverschiedenheiten zwischen den Sorgeberechtigten;
 
-6. (weggefallen)
+6. die Genehmigung einer freiheitsentziehenden Unterbringung oder einer freiheitsentziehenden Maßnahme nach § 1631b des Bürgerlichen Gesetzbuchs und die Genehmigung einer Einwilligung nach § 1631e Absatz 3 des Bürgerlichen Gesetzbuchs;
 
 7. die Regelung des persönlichen Umgangs zwischen Eltern und Kindern sowie Kindern und Dritten nach § 1684 Absatz 3 und 4, § 1685 Absatz 3 und § 1686a Absatz 2 des Bürgerlichen Gesetzbuchs, die Entscheidung über die Beschränkung oder den Ausschluss des Rechts zur alleinigen Entscheidung in Angelegenheiten des täglichen Lebens nach den §§ 1687, 1687a des Bürgerlichen Gesetzbuchs sowie über Streitigkeiten, die eine Angelegenheit nach § 1632 Absatz 2 des Bürgerlichen Gesetzbuchs betreffen;
 

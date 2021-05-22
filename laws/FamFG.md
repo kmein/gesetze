@@ -1737,6 +1737,14 @@ Die Entscheidung, gegen die das Kind das Beschwerderecht ausüben kann, ist dem 
 
 (3) § 177 Absatz 2 Satz 2 und § 178 Absatz 2 gelten entsprechend.
 
+# § 167b – Genehmigungsverfahren nach § 1631e des Bürgerlichen Gesetzbuchs; Verordnungsermächtigung
+
+(1) In Verfahren nach § 1631e Absatz 3 des Bürgerlichen Gesetzbuchs erteilt das Gericht die Genehmigung im schriftlichen Verfahren, sofern die Eltern eine den Eingriff befürwortende Stellungnahme vorlegen und keine Gründe ersichtlich sind, die einer Genehmigung entgegenstehen. Wenn das Gericht im schriftlichen Verfahren entscheidet, soll es von der Anhörung des Jugendamts, der persönlichen Anhörung der Eltern und der Bestellung eines Verfahrensbeistands absehen. § 162 ist nicht anwendbar.
+
+(2) Legen die Eltern dem Gericht keine den Eingriff befürwortende Stellungnahme vor oder sind Gründe ersichtlich, die einer Genehmigung nach Absatz 1 entgegenstehen, erörtert das Gericht die Sache mit den Beteiligten in einem Termin. Das Gericht weist auf Möglichkeiten der Beratung durch die Beratungsstellen und Beratungsdienste der Träger der Kinder- und Jugendhilfe hin. Es kann anordnen, dass sich die Eltern über den Umgang mit Varianten der Geschlechtsentwicklung beraten lassen und dem Gericht eine Bestätigung hierüber vorlegen. Diese Anordnung ist nicht selbständig anfechtbar und nicht mit Zwangsmitteln durchsetzbar.
+
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Zuständigkeit für Verfahren nach den Absätzen 1 und 2 dem Familiengericht, in dessen Bezirk das Oberlandesgericht seinen Sitz hat, oder einem anderen Familiengericht zuzuweisen. Diese Ermächtigung kann von der jeweiligen Landesregierung auf die Landesjustizverwaltung übertragen werden. Mehrere Länder können die Zuständigkeit eines Gerichts für Verfahren nach dieser Vorschrift über die Landesgrenzen hinaus vereinbaren.
+
 # § 168 – Beschluss über Zahlungen des Mündels
 
 (1) Das Gericht setzt durch Beschluss fest, wenn der Vormund, Gegenvormund oder Mündel die gerichtliche Festsetzung beantragt oder das Gericht sie für angemessen hält:
