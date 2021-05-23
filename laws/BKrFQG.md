@@ -213,8 +213,6 @@ c) in der Schweiz, wenn sie dort beschäftigt sind.
 
 (4) Dem Fahrerqualifizierungsnachweis nach Absatz 1 gleichgestellt ist ein Nachweis, der auf Grundlage des Kapitels III Absatz 2.6 in Verbindung mit Anhang 5 der Qualitätscharta für Beförderungen im grenzüberschreitenden Güterkraftverkehr im Rahmen des multilateralen CEMT-Kontingentsystems vom 5. August 2020 (VkBl. S. 506) ausgestellt worden ist. Dies gilt nur für Beförderungen, die unter Verwendung einer multilateralen Genehmigung nach § 6 Satz 2 Nummer 2 oder 3 des Güterkraftverkehrsgesetzes durchgeführt werden.
 
-(+++ § 7 Abs. 1: Tritt gem. Art. 3 Abs. 2 G v. 1.12.2020 I 2575 am 23.5.2021 in Kraft +++)
-
 # § 8 – Pflicht zum Mitführen des Nachweises
 
 Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 7 bei jeder Fahrt mitzuführen und den Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
@@ -275,9 +273,243 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 Diese Angaben sind von der nach Landesrecht zuständigen Behörde und von den zur Durchführung der Überwachung beauftragten Personen oder Stellen spätestens sechs Jahre nach Abschluss des Unterrichts zu löschen.
 
-# §§ 12 bis 26 – (zukünftig in Kraft)
+# § 12 – Berufskraftfahrerqualifikationsregister
 
-(+++ §§ 12 bis 26: Treten gem. Art. 3 Abs. 2 G v. 1.12.2020 I 2575 am 23.5.2021 in Kraft +++)
+Das Berufskraftfahrerqualifikationsregister ist ein Register zur Speicherung von Daten, die erforderlich sind, um feststellen zu können,
+
+1. ob der Fahrer im Besitz eines Fahrerqualifizierungsnachweises ist und von welcher Behörde dieser ausgestellt wurde,
+
+2. für welche Fahrerlaubnisklasse die Pflicht zur Grundqualifikation, beschleunigten Grundqualifikation und Weiterbildung erfüllt wurde,
+
+3. welche nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung vorgeschriebenen Unterkenntnisbereiche dem Fahrer im Rahmen der beschleunigten Grundqualifikation und der Weiterbildung vermittelt wurden und in welchem Umfang und in welcher Ausbildungsstätte die Vermittlung erfolgte,
+
+4. ob eine Anrechnung anderer abgeschlossener spezieller Maßnahmen im Rahmen der beschleunigten Grundqualifikation oder im Rahmen der Weiterbildung stattgefunden hat,
+
+5. ob, wann und wo der Fahrer eine Prüfung zur Erlangung der Grundqualifikation oder der beschleunigten Grundqualifikation abgelegt hat und
+
+6. ob nachträglich Tatsachen bekannt wurden, auf deren Grundlage Einträge in das Berufskraftfahrerqualifikationsregister verändert oder Fahrerqualifizierungsnachweise zurückgenommen wurden.
+
+# § 13 – Registerführende Behörde
+
+Das Kraftfahrt-Bundesamt führt das Berufskraftfahrerqualifikationsregister.
+
+# § 14 – Inhalt des Berufskraftfahrerqualifikationsregisters
+
+Das Kraftfahrt-Bundesamt ist befugt, zur Führung des Berufskraftfahrerqualifikationsregisters folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. Daten des Fahrerqualifizierungsnachweises von Fahrern:
+
+a) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Inhabers des Fahrerqualifizierungsnachweises,
+
+b) Tag der Ausstellung und des Ablaufs der Gültigkeit des Fahrerqualifizierungsnachweises,
+
+c) die den Fahrerqualifizierungsnachweis ausstellende Behörde,
+
+d) Status des Fahrerqualifizierungsnachweises mit Angabe zum Statusdatum,
+
+e) die den Status eines ausgestellten Fahrerqualifizierungsnachweises mitteilende Behörde,
+
+f) Führerscheinnummer des zum Zeitpunkt der Ausstellung des Fahrerqualifizierungsnachweises gültigen Führerscheins einschließlich Ausgabestaat des Führerscheins,
+
+g) Seriennummer des Fahrerqualifizierungsnachweises,
+
+h) Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung,
+
+i) Fahrerlaubnisklassen, für die die Schlüsselzahl 95 Gültigkeit hat,
+
+2. Daten zur Grundqualifikation von Fahrern:
+
+a) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Teilnehmers,
+
+b) Name und Anschrift der prüfenden Stelle,
+
+c) Tag der erfolgreichen Ablegung der theoretischen und praktischen Prüfung,
+
+d) die Art der Prüfung, nämlich
+
+aa)  
+Regelprüfung,
+
+bb)  
+Umsteigerprüfung,
+
+cc) Quereinsteigerprüfung,
+
+dd)  
+Prüfung zum Abschluss der Berufsausbildung zum Berufskraftfahrer oder
+
+ee)  
+Prüfung zum Abschluss der Berufsausbildung zur Fachkraft im Fahrbetrieb,
+
+e) Fahrerlaubnisklassen, für die die Grundqualifikation erworben wurde,
+
+3. Daten zur beschleunigten Grundqualifikation von Fahrern:
+
+a) Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen Anerkennungs- und Überwachungsbehörde sowie das Aktenzeichen des Anerkennungsbescheides,
+
+b) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Teilnehmers,
+
+c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme,
+
+d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung und zu anderen abgeschlossenen speziellen Maßnahmen im Sinne des § 12 Nummer 4,
+
+e) Name und Anschrift der prüfenden Stelle,
+
+f) Tag der erfolgreichen Ablegung der theoretischen Prüfung,
+
+g) die Art der Prüfung, nämlich
+
+aa)  
+Regelprüfung,
+
+bb)  
+Umsteigerprüfung oder
+
+cc) Quereinsteigerprüfung,
+
+h) Fahrerlaubnisklassen, für die die beschleunigte Grundqualifikation erworben wurde, und
+
+4. Daten zur Weiterbildung von Fahrern:
+
+a) Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen Anerkennungs- und Überwachungsbehörde sowie das Aktenzeichen des Anerkennungsbescheides,
+
+b) Geburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Teilnehmers,
+
+c) Zeitraum des Unterrichts und tatsächliche Dauer der Unterrichtsteilnahme,
+
+d) Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1 der Berufskraftfahrerqualifikationsverordnung und zum Vorliegen anderer abgeschlossener spezieller Maßnahmen im Sinne des § 12 Nummer 4,
+
+e) Seriennummer des aktuell gültigen Fahrerqualifizierungsnachweises, soweit ein solcher bereits ausgestellt wurde.
+
+# § 15 – Datenübermittlung an den Hersteller des Fahrerqualifizierungsnachweises
+
+Die nach Landesrecht zuständigen Behörden übermitteln dem Hersteller im automatisierten Verfahren
+
+1. die Daten, die für die Herstellung des Fahrerqualifizierungsnachweises erforderlich sind, und
+
+2. die Daten, die für die Übermittlung an das Berufskraftfahrerqualifikationsregister erforderlich sind.
+
+# § 16 – Datenerhebung, -speicherung und -verwendung durch den Hersteller des Fahrerqualifizierungsnachweises
+
+(1) Der Hersteller ist ausschließlich zum Nachweis des Verbleibs des Fahrerqualifizierungsnachweises befugt, folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. die Seriennummer,
+
+2. die ausstellende Behörde und
+
+3. den Tag des Versandes.
+
+(2) Die Erhebung, Speicherung und Verwendung der übrigen im Fahrerqualifizierungsnachweis enthaltenen Daten beim Hersteller ist zulässig, soweit und solange sie ausschließlich der Herstellung des Fahrerqualifizierungsnachweises und der Datenübermittlung an das Berufskraftfahrerqualifikationsregister dient.
+
+(3) Die Daten nach Absatz 2 sind vom Hersteller nach der Datenübermittlung an das Kraftfahrt-Bundesamt zur dortigen Speicherung in dem Berufskraftfahrerqualifikationsregister unverzüglich zu löschen.
+
+# § 17 – Datenübermittlung an das Kraftfahrt-Bundesamt durch den Hersteller des Fahrerqualifizierungsnachweises
+
+Der Hersteller übermittelt nach der Herstellung des Fahrerqualifizierungsnachweises dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die vom Kraftfahrt-Bundesamt im Berufskraftfahrerqualifikationsregister nach § 14 Nummer 1 zu speichernden Daten, die dem Hersteller nach § 15 von den nach Landesrecht zuständigen Behörden zuvor zur Herstellung des Fahrerqualifizierungsnachweises übermittelt worden sind.
+
+# § 18 – Datenübermittlung an das Kraftfahrt-Bundesamt durch die nach Landesrecht zuständigen Behörden
+
+(1) Die nach Landesrecht zuständigen Behörden übermitteln dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die Daten zu Fahrerqualifizierungsnachweisen, die nach § 14 Nummer 1 im Berufskraftfahrerqualifikationsregister zu speichern sind oder die zu einer Änderung einer Eintragung nach § 14 Nummer 1 führen, soweit diese Daten nicht bereits vom Hersteller an das Berufskraftfahrerqualifikationsregister übermittelt worden sind.
+
+(2) Im Fall einer Anrechnung anderer abgeschlossener Maßnahmen im Sinne des § 12 Nummer 4 übermitteln die nach Landesrecht zuständigen Behörden dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die von diesem nach § 14 Nummer 3 Buchstabe d und Nummer 4 Buchstabe d zu speichernden Daten.
+
+(3) Die nach Landesrecht zuständige Behörde für die Anerkennung von Ausbildungsstätten nach § 9 Absatz 1 teilt dem Kraftfahrt-Bundesamt unverzüglich alle in ihrem Zuständigkeitsbereich anerkannten Ausbildungsstätten mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der anerkannten Ausbildungsstätten teilt die nach Landesrecht zuständige Behörde dem Kraftfahrt-Bundesamt unverzüglich mit.
+
+(4) Die nach Landesrecht zuständige Behörde für die Aufsicht über die Industrie- und Handelskammern teilt dem Kraftfahrt-Bundesamt alle in ihrem Zuständigkeitsbereich tätigen Industrie- und Handelskammern mit, damit diese zur Übermittlung von Daten an das Kraftfahrt-Bundesamt zur Speicherung im Berufskraftfahrerqualifikationsregister zugelassen werden. Änderungen hinsichtlich der Industrie- und Handelskammern teilt die nach Landesrecht zuständige Behörde unverzüglich mit. Eine Mitteilung erfolgt nur, wenn die Industrie- und Handelskammer Prüfungen nach § 1 Absatz 3 und § 2 Absatz 7 der Berufskraftfahrerqualifikationsverordnung sowie nach § 71 Absatz 2 des Berufsbildungsgesetzes durchführt.
+
+# § 19 – Datenübermittlung an das Kraftfahrt-Bundesamt durch die zuständigen Stellen und die Ausbildungsstätten
+
+Die für die Prüfungen zuständigen Industrie- und Handelskammern nach § 1 Absatz 3 und § 2 Absatz 7 der Berufskraftfahrerqualifikationsverordnung und nach § 71 Absatz 2 des Berufsbildungsgesetzes sowie die anerkannten Ausbildungsstätten haben dem Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die Daten zu übermitteln, die nach § 14 Nummer 2 bis 4 im Berufskraftfahrerqualifikationsregister zu speichern sind oder die zu einer Änderung einer Eintragung nach § 14 Nummer 2 bis 4 führen.
+
+# § 20 – Überwachungsbefugnis des Kraftfahrt-Bundesamtes
+
+Das Kraftfahrt-Bundesamt ist befugt, außerhalb des Berufskraftfahrerqualifikationsregisters die Kontaktdaten der in den §§ 17 und 18 genannten Behörden, Stellen und Ausbildungsstätten zu erheben, zu speichern und zu verwenden, um die Zulässigkeit der Übermittlung der in den §§ 17 und 18 genannten Daten zu kontrollieren.
+
+# § 21 – Datenübermittlung an inländische Behörden und Stellen
+
+Die im Berufskraftfahrerqualifikationsregister gespeicherten Daten dürfen durch Abruf im automatisierten Verfahren an die Behörden und Stellen übermittelt werden, die zuständig sind für
+
+1. Verwaltungsmaßnahmen gegenüber Fahrern auf Grund dieses Gesetzes oder auf Grund der auf ihm beruhenden Rechtsvorschriften,
+
+2. die Durchführung der Aus- und Weiterbildung sowie für die Prüfung von Fahrern auf Grund dieses Gesetzes oder der auf ihm beruhenden Rechtsvorschriften,
+
+3. die Überwachung der anerkannten Ausbildungsstätten von Fahrern,
+
+4. Verkehrs-, Grenz- oder Straßenkontrollen gegenüber Fahrern,
+
+5. die Verfolgung von Straftaten, die von Fahrern verübt worden sind, sowie die Vollstreckung oder den Vollzug von Strafen gegenüber Fahrern oder
+
+6. die Verfolgung von Ordnungswidrigkeiten, die von Fahrern verübt worden sind, sowie die Vollstreckung von Bußgeldbescheiden gegen Fahrer und ihre Nebenfolgen nach diesem Gesetz.
+
+Die Daten dürfen übermittelt werden, soweit dies zur Erfüllung der in Satz 1 genannten Aufgaben erforderlich ist.
+
+# § 22 – Datenübermittlung an Behörden in den anderen Mitgliedstaaten der Europäischen Union und an Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+
+(1) Die im Berufskraftfahrerqualifikationsregister nach § 14 gespeicherten Daten dürfen vom Kraftfahrt-Bundesamt an die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und an die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum durch Abruf im automatisierten Verfahren übermittelt werden, soweit dies erforderlich ist
+
+1. zum Austausch über Aus- und Weiterbildungsmaßnahmen von Fahrern im Rahmen der beschleunigten Grundqualifikation und der Weiterbildung oder
+
+2. für Verwaltungsmaßnahmen auf Grund dieses Gesetzes sowie auf Grund der Berufskraftfahrerqualifikationsverordnung.
+
+(2) Zur Erfüllung ihrer Aufgaben dürfen die in § 21 Satz 1 Nummer 4 genannten Behörden die in Absatz 1 erster Halbsatz genannten Daten an die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und an die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum übermitteln.
+
+(3) Die zuständigen Behörden in den anderen Mitgliedstaaten der Europäischen Union und die zuständigen Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind darauf hinzuweisen, dass sie die übermittelten Daten nur zu dem Zweck erheben, speichern und verwenden dürfen, zu dessen Erfüllung sie ihnen übermittelt werden.
+
+(4) Die Übermittlung unterbleibt, wenn durch sie schutzwürdige Interessen des betroffenen Fahrers beeinträchtigt würden.
+
+# § 23 – Ausführungsregeln für das automatisierte Verfahren
+
+Das Kraftfahrt-Bundesamt erstellt nach dem jeweiligen Stand der Technik Ausführungsregeln für das automatisierte Verfahren zur Sicherstellung einer rechtskonformen und einheitlichen Datenübermittlung. Es gibt diese Ausführungsregelungen den jeweils betroffenen Verfahrensbeteiligten in geeigneter Form bekannt.
+
+# § 24 – Zulässigkeit der Datenübermittlung im automatisierten Verfahren
+
+(1) Die Einrichtung von Anlagen für die Datenübermittlung im automatisierten Verfahren ist nur zulässig, wenn gewährleistet ist, dass
+
+1. dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten, wobei bei der Nutzung allgemein zugänglicher Netze Verschlüsselungsverfahren anzuwenden sind, und
+
+2. die Zulässigkeit der Verfahren durch Aufzeichnungen nach Maßgabe des Absatzes 2 oder 3 kontrolliert werden kann.
+
+(2) Das Kraftfahrt-Bundesamt hat über die übermittelten Daten Aufzeichnungen anzufertigen, die Folgendes enthalten müssen:
+
+1. die übermittelten Daten,
+
+2. den Tag und die Uhrzeit der Übermittlung,
+
+3. die Kennung der übermittelnden Stelle und
+
+4. den Übermittlungsanlass.
+
+Die Aufzeichnungen dürfen nur zur Kontrolle der Zulässigkeit der Übermittlung verwertet werden. Sie sind durch geeignete technische und organisatorische Maßnahmen gegen zweckfremde Verwendung und gegen Missbrauch zu sichern. Am Ende des Kalenderhalbjahres, das dem Halbjahr der Übermittlung folgt, sind die Aufzeichnungen zu löschen oder zu vernichten.
+
+(3) Das Kraftfahrt-Bundesamt hat über die Datenübermittlung und die Abrufe Aufzeichnungen anzufertigen, die Folgendes enthalten müssen:
+
+1. die bei der Durchführung der Datenübermittlung oder der Abrufe verwendeten Daten,
+
+2. den Tag und die Uhrzeit der Datenübermittlung oder der Abrufe,
+
+3. die Kennung der die Daten erhaltenden Dienststelle oder die Kennung der abrufenden Dienststelle und
+
+4. die übermittelten oder die abgerufenen Daten.
+
+Die Aufzeichnungen dürfen nur zur Datenschutzkontrolle, zur Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Liegen Anhaltspunkte dafür vor, dass ohne ihre Verwendung die Verhinderung oder Verfolgung einer schwerwiegenden Straftat gegen Leib, Leben oder Freiheit einer Person aussichtslos oder wesentlich erschwert wäre, dürfen die Aufzeichnungen auch für diesen Zweck verwendet werden, sofern das Ersuchen der Strafverfolgungsbehörde unter Verwendung von Daten eines bestimmten Fahrers gestellt wird. Die Aufzeichnungen sind durch geeignete technische und organisatorische Maßnahmen gegen zweckfremde Verwendung und gegen Missbrauch zu sichern. Sie sind nach sechs Monaten zu löschen.
+
+(4) Bei Abrufen aus dem Berufskraftfahrerqualifikationsregister sind vom Kraftfahrt-Bundesamt weitere Aufzeichnungen anzufertigen, die sich auf den Anlass des Abrufs erstrecken und die Feststellung der für den Abruf verantwortlichen Personen ermöglichen.
+
+(+++ § 24 Abs. 3: Zur Geltung vgl. § 25 Abs. 2 Satz 2 +++)
+
+# § 25 – Auskunftspflicht gegenüber Fahrern
+
+(1) Das Kraftfahrt-Bundesamt erteilt dem Fahrer auf schriftlichen oder elektronischen Antrag über den ihn betreffenden Inhalt des Berufskraftfahrerqualifikationsregisters unentgeltlich Auskunft. Bei einem elektronischen Antrag muss der Fahrer seine Identität unter Nutzung eines elektronischen Identifizierungsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes nachweisen.
+
+(2) Die Auskunft ist schriftlich zu erteilen. Auf Verlangen des Fahrers kann die Auskunft elektronisch erteilt werden. Im Fall der elektronischen Auskunftserteilung gilt § 24 Absatz 3 entsprechend.
+
+# § 26 – Löschung der Daten
+
+(1) Die Daten zu den Fahrerqualifizierungsnachweisen werden sechs Jahre nach Ablauf der Gültigkeit des Fahrerqualifizierungsnachweises aus dem Berufskraftfahrerqualifikationsregister gelöscht.
+
+(2) Die Daten zu der Grundqualifikation, der beschleunigten Grundqualifikation und den Weiterbildungen werden elf Jahre nach Abschluss der jeweiligen Grundqualifikations- oder Weiterbildungsmaßnahme automatisiert aus dem Berufskraftfahrerqualifikationsregister gelöscht.
+
+(3) Unbeschadet der Absätze 1 und 2 sind die im Berufskraftfahrerqualifikationsregister gespeicherten Daten mit Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.
 
 # § 27 – Verordnungsermächtigung
 
@@ -353,15 +585,7 @@ Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Be
 
 (8) Fahrer haben die Nachweise nach den Absätzen 5 bis 7 bei der Durchführung von Fahrten mitzuführen und den Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
-(9) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur Berücksichtigung besonderer regionaler Bedürfnisse hinsichtlich Fahrern, die
-
-1. in einem Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz ihren ordentlichen Wohnsitz haben,
-
-2. in der Bundesrepublik Deutschland beschäftigt sind und
-
-3. in der Bundesrepublik Deutschland ihre Weiterbildung absolvieren
-
-(Grenzgänger), abweichend von den bundesrechtlichen Vorschriften zum Nachweis der Berufskraftfahrerqualifikation einen Fahrerqualifizierungsnachweis nach dem Muster der Anlage 5 der Berufskraftfahrerqualifikationsverordnung vorzusehen und die zur Ausstellung dieses Nachweises erforderlichen Vorschriften, auch zum Verfahren, zu erlassen. Dieser Fahrerqualifizierungsnachweis steht einem Nachweis nach § 7 gleich. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
+(9) (weggefallen)
 
 # Anlage – (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
 
