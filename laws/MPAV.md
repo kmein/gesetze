@@ -3,7 +3,7 @@
  
 # § 1 – Verschreibungspflicht
 
-(1) Medizinprodukte, die nach der Zweckbestimmung nach § 3 Nummer 10 des Medizinproduktegesetzes zur Anwendung durch Laien vorgesehen sind und
+(1) Medizinprodukte, die nach der Zweckbestimmung zur Anwendung durch Laien vorgesehen sind und
 
 1. Stoffe oder Zubereitungen aus Stoffen enthalten, die der Verschreibungspflicht nach der Arzneimittelverschreibungsverordnung unterliegen oder auf die solche Stoffe aufgetragen sind, oder
 
@@ -23,7 +23,7 @@ dürfen nur bei Vorliegen einer ärztlichen oder zahnärztlichen Verschreibung a
 
 5. abzugebende Menge oder gegebenenfalls Maße des verschriebenen Medizinproduktes,
 
-6. bei Medizinprodukten, die in der Apotheke hergestellt werden sollen, eine Gebrauchsanweisung, soweit diese nach § 7 des Medizinproduktegesetzes vorgeschrieben ist,
+6. bei Medizinprodukten, die in der Apotheke hergestellt werden sollen, eine Gebrauchsanweisung, soweit diese nach Anhang I Kapitel III der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung nicht entbehrlich ist,
 
 7. die eigenhändige Unterschrift der verschreibenden Person oder, bei Verschreibungen in elektronischer Form, deren qualifizierte elektronische Signatur.
 
@@ -49,7 +49,7 @@ Medizinprodukte
 
 1. nach § 1 Absatz 1 Satz 1 Nummer 1,
 
-2. im Sinne des § 3 Nummer 2 des Medizinproduktegesetzes, die zur Anwendung durch Laien bestimmt sind, soweit sie Stoffe oder Zubereitungen aus Stoffen enthalten, die nach der Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel apothekenpflichtig sind, oder
+2. die zur Anwendung durch Laien bestimmt sind, soweit sie Stoffe oder Zubereitungen aus Stoffen enthalten, die nach der Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel apothekenpflichtig sind, oder
 
 3. die in Anlage 2 zu dieser Verordnung aufgeführt sind,
 
@@ -57,19 +57,19 @@ dürfen berufs- und gewerbsmäßig für den Endverbrauch nur durch Apotheken in 
 
 # § 3 – Sonstige Abgabebeschränkungen
 
-(1) Die Abgabestelle muss die betrieblichen Voraussetzungen für eine sachgerechte Lagerung der vorrätig gehaltenen Medizinprodukte erfüllen. Eine Abgabe von Medizinprodukten, die nicht zur Anwendung durch Laien vorgesehen sind, darf nur an Fachkreise nach § 3 Nummer 17 des Medizinproduktegesetzes erfolgen, es sei denn, eine ärztliche oder zahnärztliche Verschreibung wird vorgelegt. Die Vorschriften der Apothekenbetriebsordnung über das Inverkehrbringen und die Lagerung von Medizinprodukten bleiben unberührt.
+(1) Die Abgabestelle muss die betrieblichen Voraussetzungen für eine sachgerechte Lagerung der vorrätig gehaltenen Medizinprodukte erfüllen. Eine Abgabe von Medizinprodukten, die nicht zur Anwendung durch Laien vorgesehen sind, darf nur an Fachkreise nach § 3 Nummer 2 des Medizinprodukterecht-Durchführungsgesetzes erfolgen, es sei denn, eine ärztliche oder zahnärztliche Verschreibung wird vorgelegt. Die Vorschriften der Apothekenbetriebsordnung über das Inverkehrbringen und die Lagerung von Medizinprodukten bleiben unberührt.
 
 (2) Die Abgabestelle muss bei Bedarf eine fachliche Beratung gewährleisten für Medizinprodukte, die
 
 1. verschreibungspflichtig, aber nicht apothekenpflichtig sind,
 
-2. zur Anwendung durch Laien angeboten werden und nicht der Klasse I nach den Klassifizierungsregeln des Anhangs IX der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, angehören oder die
+2. zur Anwendung durch Laien angeboten werden und nicht der Klasse I nach den Klassifizierungsregeln des Anhangs VIII der Verordnung (EU) 2017/745 angehören oder die
 
 3. In-vitro-Diagnostika zur Eigenanwendung sind.
 
-Dies gilt nicht bei einer Abgabe an Fachkreise nach § 3 Nummer 17 des Medizinproduktegesetzes.
+Dies gilt nicht bei einer Abgabe an Fachkreise nach § 3 Nummer 2 des Medizinprodukterecht-Durchführungsgesetzes.
 
-(3) Die Sachkenntnis zur fachlichen Beratung wird bei Ärzten, Zahnärzten, Medizinprodukteberatern nach § 31 des Medizinproduktegesetzes, Drogisten, Gesundheitshandwerkern gemäß Anlage A Nummer 33 bis 37 der Handwerksordnung und bei Leistungserbringern, die nachweislich die Anforderungen des § 126 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch erfüllen, für die jeweils von ihrer Ausbildung erfassten Gruppen von Medizinprodukten vorausgesetzt.
+(3) Die Sachkenntnis zur fachlichen Beratung wird bei Ärzten, Zahnärzten, Medizinprodukteberatern nach § 83 des Medizinprodukterecht-Durchführungsgesetzes, Drogisten, Gesundheitshandwerkern gemäß Anlage A Nummer 33 bis 37 der Handwerksordnung und bei Leistungserbringern, die nachweislich die Anforderungen des § 126 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch erfüllen, für die jeweils von ihrer Ausbildung erfassten Gruppen von Medizinprodukten vorausgesetzt.
 
 (4) In-vitro-Diagnostika, die für den direkten oder indirekten Nachweis eines Krankheitserregers für die Feststellung einer in § 24 Satz 1 des Infektionsschutzgesetzes genannten Krankheit oder einer Infektion mit einem in § 24 Satz 1 des Infektionsschutzgesetzes genannten Krankheitserreger bestimmt sind, dürfen nur abgegeben werden an:
 
@@ -99,11 +99,11 @@ Davon ausgenommen sind die in Anlage 3 aufgeführten In-vitro-Diagnostika.
 
 # § 4 – Straftaten und Ordnungswidrigkeiten
 
-(1) Nach § 41 Nummer 6 des Medizinproduktegesetzes wird bestraft, wer entgegen § 1 Absatz 1 Satz 1 ein Medizinprodukt abgibt.
+(1) Nach § 93 Absatz 1 Nummer 5 des Medizinprodukterecht-Durchführungsgesetzes wird bestraft, wer entgegen § 1 Absatz 1 Satz 1 ein Medizinprodukt abgibt.
 
-(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht, handelt nach § 42 Absatz 1 des Medizinproduktegesetzes ordnungswidrig.
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht, handelt nach § 94 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes ordnungswidrig.
 
-(3) Ordnungswidrig im Sinne des § 42 Absatz 2 Nummer 16 des Medizinproduktegesetzes handelt, wer vorsätzlich oder fahrlässig
+(3) Ordnungswidrig im Sinne des § 94 Absatz 2 Nummer 9 des Medizinprodukterecht-Durchführungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 2 ein Medizinprodukt in den Verkehr bringt oder
 

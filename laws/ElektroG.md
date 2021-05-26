@@ -171,15 +171,15 @@ c) beim Betrieb entweder beweglich sein müssen oder kontinuierlich oder halbkon
 
 19. medizinisches Gerät:
 
-ein Medizinprodukt im Sinne von § 3 Nummer 1 oder ein Zubehör im Sinne von § 3 Nummer 9 Satz 1 des Medizinproduktegesetzes in der Fassung der Bekanntmachung vom 7. August 2002 (BGBl. I S. 3146), das zuletzt durch Artikel 16 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1133) geändert worden ist, das ein Elektro- oder Elektronikgerät ist;
+ein Medizinprodukt im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9) oder Zubehör eines Medizinproduktes im Sinne von Artikel 2 Nummer 2 der Verordnung (EU) 2017/745, das ein Elektro- oder Elektronikgerät ist;
 
 20. In-vitro-Diagnostikum:
 
-ein In-vitro-Diagnostikum im Sinne von § 3 Nummer 4 des Medizinproduktegesetzes oder ein Zubehör im Sinne von § 3 Nummer 9 des Medizinproduktegesetzes, das ein Elektro- oder Elektronikgerät ist;
+ein In-vitro-Diagnostikum oder dessen Zubehör im Sinne von § 3 Nummer 4 oder 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, das ein Elektro- oder Elektronikgerät ist;
 
 21. aktives implantierbares medizinisches Gerät:
 
-ein aktives implantierbares medizinisches Gerät im Sinne von Artikel 1 Absatz 2 Buchstabe c der Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, das ein Elektro- oder Elektronikgerät ist;
+ein aktives implantierbares Medizinprodukt im Sinne von Artikel 2 Nummer 4 und 5 der Verordnung (EU) 2017/745, das ein Elektro- oder Elektronikgerät ist;
 
 22. Erfassung
 

@@ -1047,7 +1047,7 @@ b) eine medizinische Diagnose zu erstellen.
 
 6. Futtermittel im Sinne des § 3 Nummer 12 bis 16 des Lebensmittel- und Futtermittelgesetzbuches,
 
-7. Medizinprodukte und Zubehör für Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes, es sei denn, es handelt sich um Arzneimittel im Sinne des § 2 Absatz 1 Nummer 2 Buchstabe b,
+7. Medizinprodukte und Zubehör für Medizinprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9) und im Sinne des § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, es sei denn, es handelt sich um Arzneimittel im Sinne des Absatzes 1 Nummer 2 Buchstabe b,
 
 8. Organe im Sinne des § 1a Nr. 1 des Transplantationsgesetzes, wenn sie zur Übertragung auf menschliche Empfänger bestimmt sind.
 

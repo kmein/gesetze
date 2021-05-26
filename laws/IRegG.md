@@ -371,7 +371,7 @@ Die Produktverantwortlichen sind verpflichtet, folgende Daten in die zentrale Pr
 
 1. die Implantat-Identifikationsnummer und die Produktdaten eines im Implantateregister registrierungspflichtigen Implantats, bei dem es sich nicht um ein spezialangefertigtes Implantat oder ein Implantat mit Sonderzulassung handelt,
 
-a) vor dem erstmaligen Inverkehrbringen oder vor der Abgabe zum Zwecke der klinischen Prüfung nach den Artikeln 64 bis 68 der Verordnung (EU) 2017/745 oder
+a) vor dem erstmaligen Inverkehrbringen oder vor der Abgabe zum Zwecke der klinischen Prüfung nach Kapitel VI der Verordnung (EU) 2017/745 und Kapitel 4 des Medizinprodukte-Durchführungsgesetzes oder
 
 b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlichen für ein solches Implantat nach der Rechtsverordnung nach § 37 Nummer 1 zu erfüllen ist, sofern das betreffende Implantat bereits vor diesem Zeitpunkt in den Verkehr gebracht worden ist,
 

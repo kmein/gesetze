@@ -17,7 +17,7 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 
 2. Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach dem Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
 
-2a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes und ihr Zubehör; die Vorschriften des Dritten Abschnitts und § 16e gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
+2a. Medizinprodukte und ihr Zubehör im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung sowie im Sinne des § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung; die Vorschriften des Dritten Abschnitts und § 16e gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
 
 3. Abfälle zur Beseitigung im Sinne des § 3 Absatz 1 Satz 2 zweiter Halbsatz des Kreislaufwirtschaftsgesetzes,
 

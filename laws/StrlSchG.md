@@ -527,9 +527,13 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 a) deren Röntgenstrahler nach § 45 Absatz 1 Nummer 2 bauartzugelassen ist,
 
-b) deren Herstellung und erstmaliges Inverkehrbringen unter den Anwendungsbereich des Medizinproduktegesetzes fällt oder
+b) deren Herstellung und erstmaliges Inverkehrbringen unter den Anwendungsbereich des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung fällt,
 
-c) die nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird,
+c) deren Herstellung und Inverkehrbringen unter den Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165) fällt,
+
+d) die nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung erstmalig in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird oder
+
+e) die nach den Vorschriften der Verordnung (EU) 2017/745 in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird,
 
 2. ein Basis-, Hoch- oder Vollschutzgerät oder eine Schulröntgeneinrichtung zu betreiben,
 
@@ -557,7 +561,7 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 a) die Röntgeneinrichtung und der vorgesehene Betrieb beschrieben sind,
 
-b) festgestellt ist, dass der Röntgenstrahler bauartzugelassen oder die Röntgeneinrichtung nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht worden ist,
+b) festgestellt ist, dass der Röntgenstrahler bauartzugelassen oder die Röntgeneinrichtung nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung erstmalig in Verkehr oder nach den Vorschriften der Verordnung (EU) 2017/745 in Verkehr gebracht worden ist,
 
 c) festgestellt ist, dass für den vorgesehenen Betrieb die Ausrüstungen vorhanden und die Maßnahmen getroffen sind, die nach dem Stand der Technik erforderlich sind, damit die Schutzvorschriften eingehalten werden,
 
@@ -567,17 +571,19 @@ e) bei einer Röntgeneinrichtung zur Untersuchung, deren Betrieb gemäß Absatz 
 
 2. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe a ein Abdruck des Zulassungsscheins nach § 47 für die Bauart des Röntgenstrahlers,
 
-3. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b oder c ein Abdruck der EG-Konformitätserklärung gemäß Artikel 11 Absatz 3 in Verbindung mit Anhang II, IV, V oder VI der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist,
+3. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b oder d ein Abdruck der EG-Konformitätserklärung gemäß Artikel 11 Absatz 3 in Verbindung mit Anhang II, IV, V oder VI der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist,
 
-4. der Nachweis, dass die für den sicheren Betrieb der Röntgeneinrichtung notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
+4. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe c oder e ein Abdruck der EU-Konformitätserklärung nach Artikel 19 in Verbindung mit Anhang IV der Verordnung (EU) 2017/745,
 
-5. der Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+5. der Nachweis, dass die für den sicheren Betrieb der Röntgeneinrichtung notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-6. der Nachweis, dass die beim Betrieb der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
+6. der Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
-7. bei einer Röntgeneinrichtung zur Anwendung am Menschen der Nachweis, dass die in § 14 Absatz 1 Nummer 1, 2 Buchstabe b oder c, Nummer 3 Buchstabe b und Nummer 4 genannten Voraussetzungen erfüllt sind und
+7. der Nachweis, dass die beim Betrieb der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
-8. bei einer Röntgeneinrichtung zur Anwendung am Tier in der Tierheilkunde der Nachweis, dass die in § 15 genannten Voraussetzungen erfüllt sind.
+8. bei einer Röntgeneinrichtung zur Anwendung am Menschen der Nachweis, dass die in § 14 Absatz 1 Nummer 1, 2 Buchstabe b oder c, Nummer 3 Buchstabe b und Nummer 4 genannten Voraussetzungen erfüllt sind und
+
+9. bei einer Röntgeneinrichtung zur Anwendung am Tier in der Tierheilkunde der Nachweis, dass die in § 15 genannten Voraussetzungen erfüllt sind.
 
 Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Nummer 1, so entscheidet auf Antrag die zuständige Behörde, ob die nach Satz 1 Nummer 1 nachzuweisenden Anforderungen erfüllt sind. Sie kann in diesem Fall Auflagen für den Betrieb vorsehen.
 
@@ -647,9 +653,9 @@ hat dies der zuständigen Behörde vor Beginn der Tätigkeit schriftlich anzuzei
 
 3. Tatsachen vorliegen, aus denen sich Bedenken ergeben, ob das für die sichere Ausführung der Tätigkeit notwendige Personal vorhanden ist.
 
-# § 23 – Verhältnis zum Medizinproduktegesetz
+# § 23 – Verhältnis zur Verordnung (EU) 2017/745
 
-Die Anforderungen an die Beschaffenheit von Bestrahlungsvorrichtungen, von radioaktiven Stoffen, von Anlagen zur Erzeugung ionisierender Strahlung und von Röntgeneinrichtungen, die Medizinprodukte oder Zubehör im Sinne des Medizinproduktegesetzes sind, richten sich nach den jeweils geltenden Anforderungen des Medizinproduktegesetzes. Anforderungen des Medizinproduktegesetzes an die Beschaffenheit von Geräten und Einrichtungen zur Aufzeichnung, Speicherung, Auswertung, Wiedergabe und Übertragung von Röntgenbildern und digitalen Untersuchungs- und Behandlungsdaten bleiben unberührt.
+Die Anforderungen an die Beschaffenheit von Bestrahlungsvorrichtungen, von radioaktiven Stoffen, von Anlagen zur Erzeugung ionisierender Strahlung und von Röntgeneinrichtungen, die Medizinprodukte oder Zubehör im Sinne des der Verordnung (EU) 2017/745 sind, richten sich nach den jeweils geltenden Anforderungen des der Verordnung (EU) 2017/745. Anforderungen des der Verordnung (EU) 2017/745 an die Beschaffenheit von Geräten und Einrichtungen zur Aufzeichnung, Speicherung, Auswertung, Wiedergabe und Übertragung von Röntgenbildern und digitalen Untersuchungs- und Behandlungsdaten bleiben unberührt.
 
 # § 24 – Verordnungsermächtigungen
 
@@ -827,7 +833,7 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 8. eine Genehmigung nach § 12 Absatz 1 Nummer 1 bis 4 zur Anwendung am Menschen vorliegt oder der Betrieb einer nach § 19 Absatz 1 zur Anwendung am Menschen angezeigten Röntgeneinrichtung zulässig ist.
 
-(5) Die Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen im Sinne des Absatzes 4 Nummer 7 ist für den Zeitraum vom Beginn der Anwendung bis zum Ablauf von zehn Jahren nach Beendigung des Forschungsvorhabens zu treffen. Absatz 4 Nummer 7 findet keine Anwendung, soweit die Vorgaben der Atomrechtlichen Deckungsvorsorge-Verordnung durch die getroffene Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den entsprechenden Vorschriften des Arzneimittelgesetzes oder des Medizinproduktegesetzes dem Grunde und der Höhe nach erfüllt sind.
+(5) Die Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen im Sinne des Absatzes 4 Nummer 7 ist für den Zeitraum vom Beginn der Anwendung bis zum Ablauf von zehn Jahren nach Beendigung des Forschungsvorhabens zu treffen. Absatz 4 Nummer 7 findet keine Anwendung, soweit die Vorgaben der Atomrechtlichen Deckungsvorsorge-Verordnung durch die getroffene Vorsorge zur Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den entsprechenden Vorschriften des Arzneimittelgesetzes oder des Medizinprodukterecht-Durchführungsgesetzes dem Grunde und der Höhe nach erfüllt sind.
 
 (6) Sieht der Antrag die Anwendung radioaktiver Stoffe oder ionisierender Strahlung in mehreren Einrichtungen vor (Multi-Center-Studie), so erteilt die zuständige Behörde eine umfassende Genehmigung für alle Einrichtungen, für die die Voraussetzungen nach Absatz 4 Nummer 6 und 8 erfüllt sind.
 
@@ -893,7 +899,7 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 (2) Der Umfang der Versicherung muss in einem angemessenen Verhältnis zu den Risiken stehen, die mit den Anwendungen verbunden sind. Er muss auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für den Fall des Todes oder der dauernden Erwerbsunfähigkeit einer jeden Person, an der die radioaktiven Stoffe oder die ionisierende Strahlung angewendet werden, mindestens 500 000 Euro zur Verfügung stehen.
 
-(3) Abweichend von Absatz 1 kann der Nachweis über die erforderliche Deckungsvorsorge durch den Nachweis des Bestehens einer Versicherung zugunsten der von der klinischen Prüfung betroffenen Personen nach dem Arzneimittelgesetz oder nach dem Medizinproduktegesetz erbracht werden.
+(3) Abweichend von Absatz 1 kann der Nachweis über die erforderliche Deckungsvorsorge durch den Nachweis des Bestehens einer Versicherung zugunsten der von der klinischen Prüfung betroffenen Personen nach dem Arzneimittelgesetz oder nach dem Medizinprodukterecht-Durchführungsgesetz erbracht werden.
 
 # § 36 – Ethikkommission
 
@@ -1113,7 +1119,7 @@ Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach
 
 6. die Bauart einer Röntgeneinrichtung als Schulröntgeneinrichtung, wenn die strahlenschutztechnische Funktion der Bauart den Betrieb der Röntgeneinrichtung in Zusammenhang mit dem Unterricht in Schulen nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt.
 
-(2) Absatz 1 ist nicht auf Medizinprodukte oder Zubehör im Sinne des Medizinproduktegesetzes anzuwenden. Absatz 1 Nummer 1 ist nicht auf Vorrichtungen anzuwenden, die hochradioaktive Strahlenquellen enthalten.
+(2) Absatz 1 ist nicht auf Medizinprodukte oder Zubehör im Sinne der Verordnung (EU) 2017/745 anzuwenden. Absatz 1 Nummer 1 ist nicht auf Vorrichtungen anzuwenden, die hochradioaktive Strahlenquellen enthalten.
 
 # § 46 – Verfahren der Bauartzulassung
 
@@ -3831,7 +3837,7 @@ Eine Anzeige des Betriebs einer Anlage zur Erzeugung ionisierender Strahlung, di
 
 # § 200 – Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)
 
-(1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 1 fort. Dies gilt für Anzeigen im Zusammenhang mit der Anwendung am Menschen zur Untersuchung mit Röntgenstrahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, wenn die jeweils einschlägigen Voraussetzungen nach § 19 Absatz 3 Nummer 7 in Verbindung mit § 14 Absatz 1 Nummer 2 Buchstabe b und Nummer 4 bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen sind.
+(1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 1 fort. Dies gilt für Anzeigen im Zusammenhang mit der Anwendung am Menschen zur Untersuchung mit Röntgenstrahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, wenn die jeweils einschlägigen Voraussetzungen nach § 19 Absatz 3 Satz 1 Nummer 8 in Verbindung mit § 14 Absatz 1 Nummer 2 Buchstabe b und Nummer 4 bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen sind.
 
 (2) Eine Anzeige des Betriebs eines Basis-, Hoch- oder Vollschutzgerätes oder einer Schulröntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 2 fort.
 
@@ -4011,7 +4017,7 @@ a) der Anwendung am Menschen: Angaben, die es ermöglichen zu prüfen, ob die Vo
 
 b) der Anwendung am Tier in der Tierheilkunde: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 15 erfüllt sind,
 
-c) dem Betrieb von Anlagen zur Erzeugung ionisierender Strahlung in der Medizin im Sinne des Medizinproduktegesetzes: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist.
+c) dem Betrieb von Anlagen zur Erzeugung ionisierender Strahlung in der Medizin im Sinne der Verordnung (EU) 2017/745: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist.
 
 1. Pläne, Zeichnungen und Beschreibungen, die zur Prüfung der Genehmigungsvoraussetzungen erforderlich sind,
 
@@ -4035,7 +4041,7 @@ a) der Anwendung am Menschen: Angaben, die es ermöglichen zu prüfen, ob die Vo
 
 b) der Anwendung am Tier in der Tierheilkunde: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 15 erfüllt sind,
 
-c) der Verwendung von radioaktiven Stoffen in Bestrahlungsvorrichtungen in der Medizin im Sinne des Medizinproduktegesetzes: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist,
+c) der Verwendung von radioaktiven Stoffen in Bestrahlungsvorrichtungen in der Medizin im Sinne der Verordnung (EU) 2017/745: Angaben zur Zweckbestimmung der Anlage, die es ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene Anwendung geeignet ist,
 
 d) der Früherkennung von Krankheiten: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 14 Absatz 3 Nummer 2 erfüllt sind.
 
@@ -4061,7 +4067,7 @@ c) dem Einsatz einer Röntgeneinrichtung in der Teleradiologie: Angaben, die es 
 
 d) der Früherkennung von Krankheiten: Angaben, die es ermöglichen zu prüfen, ob die Voraussetzungen des § 14 Absatz 3 Nummer 2 erfüllt sind.
 
-Teil C Nummer 1 bis 4 ist entsprechend auf Genehmigungen nach § 12 Absatz 1 Nummer 5 anzuwenden.
+Teil C Nummer 1 bis 4 ist entsprechend auf Genehmigungen nach § 12 Absatz 1 Nummer 5 anzuwenden.   
 
 1. Angaben, die es ermöglichen zu prüfen, ob
 

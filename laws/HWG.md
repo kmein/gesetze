@@ -7,7 +7,7 @@
 
 1. Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
 
-1a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
+1a. Medizinprodukte im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9) und im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung,
 
 2. andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden bei Mensch oder Tier bezieht, sowie operative plastisch-chirurgische Eingriffe, soweit sich die Werbeaussage auf die Veränderung des menschlichen Körpers ohne medizinische Notwendigkeit bezieht.
 
@@ -35,7 +35,7 @@ Fachkreise im Sinne dieses Gesetzes sind Angehörige der Heilberufe oder des Hei
 
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt insbesondere dann vor,
 
-1. wenn Arzneimitteln, Medizinprodukten, Verfahren, Behandlungen, Gegenständen oder anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht haben,
+1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht haben,
 
 2. wenn fälschlich der Eindruck erweckt wird, daß
 
@@ -47,7 +47,7 @@ c) die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird,
 
 3. wenn unwahre oder zur Täuschung geeignete Angaben
 
-a) über die Zusammensetzung oder Beschaffenheit von Arzneimitteln, Medizinprodukten, Gegenständen oder anderen Mitteln oder über die Art und Weise der Verfahren oder Behandlungen oder
+a) über die Zusammensetzung oder Beschaffenheit von Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, Gegenständen oder anderen Mitteln oder über die Art und Weise der Verfahren oder Behandlungen oder
 
 b) über die Person, Vorbildung, Befähigung oder Erfolge des Herstellers, Erfinders oder der für sie tätigen oder tätig gewesenen Personen
 
