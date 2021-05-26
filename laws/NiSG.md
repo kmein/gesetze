@@ -17,7 +17,7 @@
 
 3. Ultraschall im Frequenzbereich von 20 Kilohertz bis 1 Gigahertz.
 
-(3) Die Vorschriften des Arbeitsschutzgesetzes, des Medizinproduktegesetzes und die auf diese Gesetze gestützten Rechtsverordnungen bleiben unberührt.
+(3) Die Vorschriften des Arbeitsschutzgesetzes und die auf dieses Gesetz gestützten Rechtsverordnungen sowie die Vorschriften des Medizinprodukterechts bleiben unberührt.
 
 # § 2 – Schutz in der Medizin
 

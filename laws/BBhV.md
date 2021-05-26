@@ -534,7 +534,7 @@ Aufwendungen für Leistungen nach Satz 1 Nummer 1 sind nicht beihilfefähig, wen
 
 3. Harn- und Blutteststreifen sowie
 
-4. Stoffe und Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3 Nummer 1 und 2 des Medizinproduktegesetzes zur Anwendung am oder im menschlichen Körper bestimmt, in Anlage 4 aufgeführt sind und die dort genannten Maßgaben erfüllen.
+4. Stoffe und Zubereitungen aus Stoffen, die als Medizinprodukte im Sinne des Medizinprodukterechts zur Anwendung am oder im menschlichen Körper bestimmt, in Anlage 4 aufgeführt sind und die dort genannten Maßgaben erfüllen.
 
 (2) Nicht beihilfefähig sind Aufwendungen für
 

@@ -91,7 +91,17 @@ die von Nutztieren gewonnenen Lebensmittel und sonstigen Produkte den an sie ges
 
 9. Mittel und Gegenstände zur Geruchsverbesserung in Räumen, die zum Aufenthalt von Menschen bestimmt sind.
 
-Bedarfsgegenstände sind nicht Gegenstände, die nach § 2 Absatz 2 des Arzneimittelgesetzes als Arzneimittel gelten, nach § 3 des Medizinproduktegesetzes Medizinprodukte oder Zubehör für Medizinprodukte oder nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1, L 303 vom 20.11.2015, S. 109), die zuletzt durch die Verordnung (EU) Nr. 334/2014 (ABl. L 103 vom 5.4.2014, S. 22) geändert worden ist, Biozid-Produkte sind, sowie nicht die in Artikel 1 Absatz 3 der Verordnung (EG) Nr. 1935/2004 genannten Materialien und Gegenstände, Überzugs- und Beschichtungsmaterialien und Wasserversorgungsanlagen.
+Bedarfsgegenstände sind nicht
+
+1. Gegenstände, die
+
+a) nach § 2 Absatz 2 des Arzneimittelgesetzes als Arzneimittel gelten,
+
+b) nach Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9) und im Sinne des § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung als Medizinprodukte oder als Zubehör für Medizinprodukte gelten,
+
+c) nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015, S. 109; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Verordnung (EU) Nr. 334/2014 (ABl. L 103 vom 5.4.2014, S. 22; L 305 vom 21.11.2015, S. 55) geändert worden ist, Biozid-Produkte sind,
+
+2. die in Artikel 1 Absatz 3 der Verordnung (EG) Nr. 1935/2004 genannten Materialien und Gegenstände, Überzugs- und Beschichtungsmaterialien und Wasserversorgungsanlagen.
 
 # § 3 – Weitere Begriffsbestimmungen
 

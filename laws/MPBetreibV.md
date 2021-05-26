@@ -3,7 +3,7 @@
  
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung gilt für das Betreiben und Anwenden von Medizinprodukten im Sinne des Medizinproduktegesetzes einschließlich der damit zusammenhängenden Tätigkeiten.
+(1) Diese Rechtsverordnung gilt für das Betreiben und Anwenden von Produkten nach § 3 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes einschließlich der damit zusammenhängenden Tätigkeiten. Diese Rechtsverordnung gilt nicht für die im Anhang XVI der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung aufgeführten Produkte. Für In-vitro-Diagnostika ist bis einschließlich 25. Mai 2022 die Medizinprodukte-Betreiberverordnung in der bis einschließlich 25. Mai 2021 geltenden Fassung anzuwenden.
 
 (2) Diese Verordnung gilt nicht für Medizinprodukte
 
@@ -13,7 +13,7 @@
 
 3. die in ausschließlich eigener Verantwortung für persönliche Zwecke erworben und angewendet werden.
 
-(3) Die Vorschriften des Arbeitsschutzgesetzes sowie die Rechtsvorschriften, die aufgrund des Arbeitsschutzgesetzes erlassen wurden, sowie Unfallverhütungsvorschriften bleiben unberührt.
+(3) Die Vorschriften des Arbeitsschutzgesetzes sowie die Rechtsvorschriften, die aufgrund des Arbeitsschutzgesetzes erlassen wurden, die Vorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen und der auf dessen Grundlage erlassenen Rechtsverordnungen, sowie Unfallverhütungsvorschriften bleiben unberührt.
 
 # § 2 – Begriffsbestimmungen
 
@@ -69,7 +69,7 @@
 
 3. über die Mittel, insbesondere Räume, Geräte und sonstige Arbeitsmittel, wie geeignete Mess- und Prüfeinrichtungen, verfügt, die erforderlich sind, die jeweilige Tätigkeit ordnungsgemäß und nachvollziehbar durchzuführen.
 
-(2) Die Erfüllung dieser besonderen Anforderungen kann durch die Vorlage eines Zertifikats einer von der nach dem Dritten Abschnitt des Medizinproduktegesetzes zuständigen Behörde anerkannten Stelle nachgewiesen werden. Die Erfüllung der besonderen Anforderungen kann auch durch Zertifikate, die von der zuständigen Stelle in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Europäischen Wirtschaftsraums ausgestellt wurden und die inhaltlich den Zertifikaten nach Satz 1 entsprechen, nachgewiesen werden.
+(2) Die Erfüllung dieser besonderen Anforderungen kann durch die Vorlage eines Zertifikats einer Stelle nachgewiesen werden, die von der im Geltungsbereich dieser Rechtsverordnung für Benannte Stellen zuständigen Behörde nach Artikel 35 Absatz 1 der Verordnung (EU) 2017/745 anerkannt wurde. Die Erfüllung der besonderen Anforderungen kann auch durch Zertifikate, die von der zuständigen Stelle in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Europäischen Wirtschaftsraums ausgestellt wurden und die inhaltlich den Zertifikaten nach Satz 1 entsprechen, nachgewiesen werden.
 
 # § 6 – Beauftragter für Medizinproduktesicherheit
 
@@ -77,11 +77,11 @@
 
 (2) Der Beauftragte für Medizinproduktesicherheit nimmt als zentrale Stelle in der Gesundheitseinrichtung folgende Aufgaben für den Betreiber wahr:
 
-1. die Aufgaben einer Kontaktperson für Behörden, Hersteller und Vertreiber im Zusammenhang mit Meldungen über Risiken von Medizinprodukten sowie bei der Umsetzung von notwendigen korrektiven Maßnahmen,
+1. die Aufgaben einer Kontaktperson für Behörden, Hersteller und Vertreiber im Zusammenhang mit Meldungen über Risiken von Medizinprodukten sowie bei der Umsetzung von Sicherheitskorrekturmaßnahmen im Feld und sonstigen notwendigen Korrekturmaßnahmen,
 
 2. die Koordinierung interner Prozesse der Gesundheitseinrichtung zur Erfüllung der Melde- und Mitwirkungspflichten der Anwender und Betreiber und
 
-3. die Koordinierung der Umsetzung korrektiver Maßnahmen und der Rückrufmaßnahmen durch den Verantwortlichen nach § 5 des Medizinproduktegesetzes in den Gesundheitseinrichtungen.
+3. die Koordinierung der Umsetzung der Korrekturmaßnahmen und der Sicherheitskorrekturmaßnahmen im Feld in den Gesundheitseinrichtungen.
 
 (3) Der Beauftragte für Medizinproduktesicherheit darf bei der Erfüllung der nach Absatz 2 übertragenen Aufgaben nicht behindert und wegen der Erfüllung der Aufgaben nicht benachteiligt werden.
 
@@ -103,9 +103,33 @@
 
 (2) Eine ordnungsgemäße Aufbereitung nach Absatz 1 Satz 1 wird vermutet, wenn die gemeinsame Empfehlung der Kommission für Krankenhaushygiene und Infektionsprävention am Robert Koch-Institut und des Bundesinstitutes für Arzneimittel und Medizinprodukte zu den Anforderungen an die Hygiene bei der Aufbereitung von Medizinprodukten beachtet wird. Die Fundstelle wird vom Bundesministerium für Gesundheit im Bundesanzeiger bekannt gemacht.
 
-(3) Für die Aufbereitung von Medizinprodukten mit besonders hohen Anforderungen an die Aufbereitung („Kritisch C“) gemäß der Empfehlung nach Absatz 2 ist die entsprechend dieser Empfehlung vorzunehmende Zertifizierung des Qualitätsmanagementsystems durch eine von der nach dem Dritten Abschnitt des Gesetzes über Medizinprodukte zuständigen Behörde anerkannten Stelle Voraussetzung.
+(3) Für die Aufbereitung von Medizinprodukten mit besonders hohen Anforderungen an die Aufbereitung („Kritisch C“) gemäß der Empfehlung nach Absatz 2 ist die entsprechend dieser Empfehlung vorzunehmende Zertifizierung des Qualitätsmanagementsystems durch eine anerkannte Benannte Stelle nach § 17b des Medizinprodukterecht-Durchführungsgesetzes Voraussetzung.
 
-(4) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Medizinproduktes erfüllen. Sofern die beauftragte Person oder die Beschäftigten des beauftragten Betriebs oder der beauftragten Einrichtung nicht über eine nach § 5 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen, erfolgen.
+(4) Die Aufbereitung und Weiterverwendung von Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 durch Gesundheitseinrichtungen ist zulässig unter Einhaltung
+
+1. der Vorgaben des Artikels 17 der Verordnung (EU) 2017/745 in Verbindung mit der Durchführungsverordnung (EU) 2020/1207 der Kommission vom 19. August 2020 zur Festlegung von Vorschriften zur Anwendung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates hinsichtlich gemeinsamer Spezifikationen für die Aufbereitung von Einmalprodukten (ABl. L 273 vom 20.8.2020, S. 3) in der jeweils geltenden Fassung und
+
+2. der Empfehlung nach Absatz 2.
+
+Soweit die Vorgaben nach Satz 1 Nummer 2 den Vorgaben nach Satz 1 Nummer 1 widersprechen, gehen die Vorgaben nach Satz 1 Nummer 1 vor. Die Sätze 1 und 2 gelten entsprechend für die Aufbereitung von Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 durch von einer Gesundheitseinrichtung beauftragte externe Aufbereiter, sofern das aufbereitete Produkt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgeben wird.
+
+(5) Unter der Voraussetzung, dass die Anforderungen nach Artikel 17 Absatz 3 Buchstabe a und b und Absatz 5 der Verordnung (EU) 2017/745 erfüllt sind, gelten für Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten, abweichend von Artikel 17 Absatz 2 der Verordnung (EU) 2017/745 nicht die Pflichten
+
+1. zur Durchführung eines Konformitätsbewertungsverfahrens nach Artikel 52 der Verordnung (EU) 2017/745,
+
+2. zur Aushändigung der Informationen und Unterlagen für den Nachweis der Konformität des Produktes nach Artikel 10 Absatz 14 der Verordnung (EU) 2017/745,
+
+3. zur Abgabe einer EU-Konformitätserklärung nach Artikel 10 Absatz 6 und Artikel 19 der Verordnung (EU) 2017/745,
+
+4. zur Anbringung einer CE-Kennzeichnung auf das Produkt nach Artikel 10 Absatz 6 und Artikel 20 der Verordnung (EU) 2017/745 und
+
+5. zur Durchführung einer klinischen Bewertung nach Artikel 10 Absatz 3 und Artikel 61 der Verordnung (EU) 2017/745.
+
+Satz 1 gilt auch für externe Aufbereiter, die Einmalprodukte im Auftrag einer Gesundheitseinrichtung aufbereiten, sofern das aufbereitete Produkt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgegeben wird.
+
+(6) Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten und externe Aufbereiter, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 im Auftrag einer Gesundheitseinrichtung aufbereiten und das aufbereitete Produkt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgeben, lassen die in den Gemeinsamen Spezifikationen nach Artikel 17 Absatz 5 der Verordnung (EU) 2017/745 in Verbindung mit Artikel 22 Absatz 1 der Durchführungsverordnung (EU) 2020/1207 festgelegten regelmäßigen externen Begutachtungen von der anerkannten Benannten Stelle vornehmen, die die Zertifizierung nach Artikel 17 Absatz 5 Satz 4 der Verordnung (EU) 2017/745 vorgenommen hat.
+
+(7) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Medizinproduktes erfüllen. Sofern die beauftragte Person oder die Beschäftigten des beauftragten Betriebs oder der beauftragten Einrichtung nicht über eine nach § 5 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen, erfolgen. Die zuständige Behörde ist befugt, die Erfüllung der Voraussetzungen nach § 5 hinsichtlich der Durchführung von Validierungen und Leistungsbeurteilungen der Prozesse bei den vom Betreiber beauftragten Betrieben und Einrichtungen zu kontrollieren.
 
 # § 9 – Qualitätssicherungssystem für medizinische Laboratorien
 
@@ -129,7 +153,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 (3) Die Durchführung der Funktionsprüfung nach Absatz 1 Nr. 1 und die Einweisung der vom Betreiber beauftragten Person nach Absatz 1 Nr. 2 sind zu belegen.
 
-(4) Absatz 2 gilt nicht für in der Anlage 1 aufgeführte Medizinprodukte, die nach der Kennzeichnung, der Gebrauchsanweisung oder den Werbematerialien durch den Personenkreis nach § 3 Nummer 15 des Medizinproduktegesetzes zur Anwendung durch Laien vorgesehen sind. Einweisungspflichten nach anderen Vorschriften werden hiervon nicht berührt.
+(4) Absatz 2 gilt nicht für in der Anlage 1 aufgeführte Medizinprodukte, die zur Anwendung durch Laien bestimmt sind. Einweisungspflichten nach anderen Vorschriften werden hiervon nicht berührt.
 
 # § 11 – Sicherheitstechnische Kontrollen
 
@@ -169,9 +193,9 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 1. Bezeichnung, Art und Typ, Loscode oder die Seriennummer, Anschaffungsjahr des Medizinproduktes,
 
-2. Name oder Firma und die Anschrift des für das jeweilige Medizinprodukt Verantwortlichen nach § 5 des Medizinproduktegesetzes,
+2. Name oder Firma und die Anschrift des Herstellers oder des Bevollmächtigten oder, sofern der Hersteller keinen Unternehmenssitz in der Europäischen Union und keinen Bevollmächtigten beauftragt hat, des Importeurs,
 
-3. die der CE-Kennzeichnung hinzugefügte Kennnummer der Benannten Stelle, soweit diese nach den Vorschriften des Medizinproduktegesetzes angegeben ist,
+3. die der CE-Kennzeichnung hinzugefügte Kennnummer der Benannten Stelle, soweit diese nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung oder nach der Verordnung (EU) 2017/745 angegeben ist,
 
 4. soweit vorhanden, betriebliche Identifikationsnummer,
 
@@ -213,27 +237,21 @@ Das Protokoll nach Satz 1 Nummer 1 hat der Betreiber zumindest bis zur nächsten
 
 # § 15 – Besondere Pflichten bei implantierbaren Medizinprodukten
 
-(1) Die für die Implantation verantwortliche Person hat unverzüglich nach Abschluss der Implantation eines in der Anlage 3 aufgeführten Medizinproduktes dem Patienten folgende Dokumente auszuhändigen:
+(1) Die für die Implantation verantwortliche Gesundheitseinrichtung ist verpflichtet, unverzüglich nach Abschluss der Implantation eines Medizinproduktes der betroffenen Patientin oder dem betroffenen Patienten
 
-1. eine schriftliche oder elektronische Information, die
+1. die Informationen im Sinne des Artikels 18 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/745 in einer Form bereitzustellen, die einen schnellen Zugang zu den Informationen ermöglicht und
 
-a) in allgemein verständlicher Weise die für die Sicherheit des Patienten nach der Implantation notwendigen Verhaltensanweisungen einschließlich der Maßnahmen, die bei einem Vorkommnis mit dem Medizinprodukt zu treffen sind, enthält und
+2. den Implantationsausweis im Sinne des Artikels 18 Absatz 1 Unterabsatz 3 der Verordnung (EU) 2017/745 zur Verfügung zu stellen, der neben den Angaben nach Artikel 18 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2017/745 folgende zusätzliche Angaben enthält:
 
-b) Hinweise zu erforderlichen Kontrolluntersuchungen enthält, sowie
+a) den Vor- und Zuname der Patientin oder des Patienten,
 
-2. einen Implantatpass, der mindestens die folgenden Daten enthält:
+b) den Namen und die Adresse der Einrichtung, in der die Implantation durchgeführt wurde und
 
-a) Vor- und Zuname des Patienten,
+c) das Datum der Implantation.
 
-b) Bezeichnung, Art und Typ sowie Loscode oder die Seriennummer des Medizinproduktes,
+Dies gilt nicht für implantierbare Produkte im Sinne des Artikels 18 Absatz 3 der Verordnung (EU) 2017/745.
 
-c) Name oder Firma des Herstellers des Medizinproduktes,
-
-d) Datum der Implantation und
-
-e) Name der verantwortlichen Person und der Einrichtung, die die Implantation durchgeführt hat.
-
-(2) Der Betreiber einer Einrichtung, in der die in Anlage 3 genannten Medizinprodukte implantiert werden, hat die Dokumentation zu diesen Implantaten, mit der Patienten im Falle von korrektiven Maßnahmen nach der Medizinprodukte-Sicherheitsplanverordnung eindeutig identifiziert und erreicht werden können, so aufzubewahren, dass der betroffene Patientenkreis innerhalb von drei Werktagen über den Typ und die Chargen- oder Seriennummer des Implantates sowie über den Namen des Verantwortlichen nach § 5 des Medizinproduktegesetzes ermittelt werden kann. Die Aufzeichnungen sind für die Dauer von 20 Jahren nach der Implantation aufzubewahren; danach sind sie unverzüglich zu vernichten.
+(2) Der Betreiber einer Einrichtung, in der die in Anlage 3 genannten Medizinprodukte implantiert werden, hat die Dokumentation zu diesen Implantaten, mit der Patienten im Falle von Sicherheitskorrekturmaßnahmen im Feld und sonstigen notwendigen Korrekturmaßnahmen eindeutig identifiziert und erreicht werden können, so aufzubewahren, dass der betroffene Patientenkreis innerhalb von drei Werktagen über den Typ und die Chargen- oder Seriennummer des Implantates sowie über den Namen des Herstellers und, sofern vorhanden, des Bevollmächtigten oder des Importeurs ermittelt werden kann. Die Aufzeichnungen sind für die Dauer von 20 Jahren nach der Implantation aufzubewahren; danach sind sie unverzüglich zu vernichten.
 
 (3) Kann der Patient über die Dokumentation gemäß Absatz 2 nicht erreicht werden, kann die Einrichtung unter Angabe der Krankenversicherungsnummer die Übermittlung der für die Kontaktaufnahme erforderlichen Daten des Patienten von seiner Krankenkasse verlangen.
 
@@ -253,7 +271,7 @@ und die Sicherheit einschließlich der Messsicherheit auf andere Weise gewährle
 
 # § 17 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 42 Absatz 2 Nummer 16 des Medizinproduktegesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 94 Absatz 2 Nummer 9 des Medizinprodukterecht-Durchführungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 4 Absatz 8 oder § 10 Absatz 1 Satz 1 oder Absatz 2 ein dort genanntes Medizinprodukt betreibt oder anwendet,
 

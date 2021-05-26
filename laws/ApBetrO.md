@@ -215,7 +215,7 @@ Ordnungswidrigkeiten
 
 (2) Diese Verordnung findet auf den Apothekenbetrieb insoweit keine Anwendung, als eine Erlaubnis nach § 13, § 52a oder § 72 des Arzneimittelgesetzes erteilt worden ist.
 
-(3) Die Medizinprodukte-Betreiberverordnung in der Fassung der Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396) und die Medizinprodukte-Sicherheitsplanverordnung vom 24. Juni 2002 (BGBl. I S. 2131), jeweils in der geltenden Fassung, bleiben unberührt.
+(3) Die Medizinprodukte-Betreiberverordnung in der Fassung der Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396), die Vorschriften des Kapitels 5 des Medizinprodukterecht-Durchführungsgesetzes vom 28. April 2020 (BGBl. I S. 960) und die Medizinprodukte-Anwendermelde- und Informationsverordnung vom 21. April 2021 (BGBl. I S. 833), jeweils in der geltenden Fassung, bleiben unberührt.
 
 # § 1a – Begriffsbestimmungen
 
@@ -475,7 +475,7 @@ Die wissenschaftlichen und sonstigen Hilfsmittel sind auf aktuellem Stand zu hal
 
 Der für die Prüfung Verantwortliche des Betriebs oder die Person nach Satz 1 Nummer 4 hat unter Angabe der Charge sowie des Datums und der Ergebnisse der Prüfung zu bescheinigen, dass das Arzneimittel nach den anerkannten pharmazeutischen Regeln geprüft worden ist und die erforderliche Qualität aufweist (Prüfzertifikat). Die Ergebnisse aus dem Prüfzertifikat sind der Freigabe in der Apotheke zugrunde zu legen. In der Apotheke ist mindestens die Identität des Arzneimittels festzustellen; über die durchgeführten Prüfungen sind Aufzeichnungen zu machen.
 
-(4) Die Vorschriften des Medizinproduktegesetzes über die Herstellung, Sonderanfertigung und Eigenherstellung von Medizinprodukten bleiben unberührt.
+(4) Die Vorschriften des Medizinprodukterechts über die Herstellung, Sonderanfertigung und Eigenherstellung von Medizinprodukten bleiben unberührt.
 
 # § 7 – Rezepturarzneimittel
 
@@ -703,7 +703,7 @@ ist § 10 des Arzneimittelgesetzes anzuwenden. Soweit für sie eine Zulassung na
 
 # § 16 – Lagerung
 
-(1) Arzneimittel, Ausgangsstoffe, Medizinprodukte und apothekenübliche Waren und Prüfmittel sind übersichtlich und so zu lagern, daß ihre Qualität nicht nachteilig beeinflußt wird und Verwechslungen vermieden werden. Soweit ihre ordnungsgemäße Qualität nicht festgestellt ist, sind sie unter entsprechender Kenntlichmachung gesondert zu lagern. Dies gilt auch für Behältnisse, äußere Umhüllungen, Kennzeichnungsmaterial, Packungsbeilagen und Packmittel. Die Vorschriften der Gefahrstoffverordnung sowie des Betäubungsmittel- und des Medizinproduktegesetzes einschließlich der hierzu erlassenen Verordnungen bleiben unberührt. Die Lagerungshinweise des Arzneibuches sind zu beachten.
+(1) Arzneimittel, Ausgangsstoffe, Medizinprodukte und apothekenübliche Waren und Prüfmittel sind übersichtlich und so zu lagern, daß ihre Qualität nicht nachteilig beeinflußt wird und Verwechslungen vermieden werden. Soweit ihre ordnungsgemäße Qualität nicht festgestellt ist, sind sie unter entsprechender Kenntlichmachung gesondert zu lagern. Dies gilt auch für Behältnisse, äußere Umhüllungen, Kennzeichnungsmaterial, Packungsbeilagen und Packmittel. Die Vorschriften der Gefahrstoffverordnung, des Betäubungsmittelgesetzes einschließlich der hierzu erlassenen Verordnungen sowie des Medizinprodukterechts bleiben unberührt. Die Lagerungshinweise des Arzneibuches sind zu beachten.
 
 (2) Die Vorratsbehältnisse für Arzneimittel und Ausgangsstoffe müssen so beschaffen sein, daß die Qualität des Inhalts nicht beeinträchtigt wird. Sie müssen mit gut lesbaren und dauerhaften Aufschriften versehen sein, die den Inhalt eindeutig bezeichnen. Dabei ist eine gebräuchliche wissenschaftliche Bezeichnung zu verwenden. Der Inhalt ist durch zusätzliche Angaben zu kennzeichnen, soweit dies zur Feststellung der Qualität und zur Vermeidung von Verwechslungen erforderlich ist. Auf den Behältnissen ist das Verfalldatum oder gegebenenfalls ein Nachprüfdatum anzugeben.
 
