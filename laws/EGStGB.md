@@ -446,7 +446,7 @@ Als Straftat im Sinne von § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fas
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tatertrages wegen einer Tat, die vor dem 1. Juli 2017 begangen worden ist, nach diesem Zeitpunkt entschieden, sind abweichend von § 2 Absatz 5 des Strafgesetzbuches die §§ 73 bis 73c, 75 Absatz 1 und 3 sowie die §§ 73d, 73e, 76, 76a, 76b und 78 Absatz 1 Satz 2 des Strafgesetzbuches in der Fassung des Gesetzes zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) anzuwenden. Die Vorschriften des Gesetzes zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) sind nicht in Verfahren anzuwenden, in denen bis zum 1. Juli 2017 bereits eine Entscheidung über die Anordnung des Verfalls oder des Verfalls von Wertersatz ergangen ist.
 
-Art. 316h Satz 1: Nach Maßgabe der Entscheidungsformel mit dem GG (100-1) vereinbar gem. BVerfGE v. 10.2.2021 - 2 BvL 8/19 -
+Art. 316h Satz 1: Nach Maßgabe der Entscheidungsformel mit dem GG (100-1) vereinbar gem. BVerfGE v. 10.2.2021 I 1098 - 2 BvL 8/19 -
 
 # Art 316i – Übergangsvorschrift zum Dreiundfünfzigsten Gesetz zur Änderung des Strafgesetzbuches – Ausweitung des Maßregelrechts bei extremistischen Straftätern
 

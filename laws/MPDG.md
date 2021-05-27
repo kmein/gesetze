@@ -43,21 +43,21 @@
 
  
 
-(+++ Inhaltsübersicht: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
-
 # § 1 – Zweck des Gesetzes
 
-Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9).
-
-(+++ § 1: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung.
 
 # § 2 – Anwendungsbereich des Gesetzes
 
-(1) Dieses Gesetz ist anzuwenden auf Produkte im Anwendungsbereich der Verordnung (EU) 2017/745. Für In-vitro-Diagnostika ist bis einschließlich 25. Mai 2022 das Medizinproduktegesetz in der bis einschließlich 25. Mai 2020 geltenden Fassung anzuwenden.
+(1) Dieses Gesetz ist anzuwenden auf Produkte im Anwendungsbereich der Verordnung (EU) 2017/745. Für In-vitro-Diagnostika sind bis einschließlich 25. Mai 2022 weiter anzuwenden:
+
+1. das Medizinproduktegesetz in der Fassung der Bekanntmachung vom 7. August 2002 (BGBl. I S. 3146), das zuletzt durch Artikel 223 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der bis einschließlich 25. Mai 2021 geltenden Fassung,
+
+2. die Medizinprodukte-Verordnung vom 20. Dezember 2001 (BGBl. I S. 3854), die zuletzt durch Artikel 3 der Verordnung vom 27. September 2016 (BGBl. I S. 2203) geändert worden ist, in der bis einschließlich 25. Mai 2021 geltenden Fassung und
+
+3. die Verordnung über klinische Prüfungen von Medizinprodukten vom 10. Mai 2010 (BGBl. I S. 555), die zuletzt durch Artikel 4 der Verordnung vom 13. Juli 2020 (BGBl. I S. 1692) geändert worden ist, in der bis einschließlich 25. Mai 2021 geltenden Fassung.
 
 (2) Dieses Gesetz gilt auch für das Anwenden, Betreiben und Instandhalten von Produkten, die nicht als Medizinprodukte in Verkehr gebracht wurden, aber mit der Zweckbestimmung eines Medizinproduktes im Sinne der Anlagen 1 und 2 der Medizinprodukte-Betreiberverordnung angewendet werden.
-
-(+++ § 2: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
 
 # § 3 – Ergänzende Begriffsbestimmungen
 
@@ -217,9 +217,7 @@ Die Dokumentation ist zehn Jahre aufzubewahren. Auf Verlangen ist die Dokumentat
 
 # § 10 – Freiverkaufszertifikate
 
-Auf Antrag des Herstellers oder seines Bevollmächtigten stellt die zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU) 2017/745 aus. Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3 der Verordnung (EU) 2017/745 in Verkehr gebracht werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai 2020 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in Verkehr gebracht wurden und bis zum 27. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
-
-(+++ § 10: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+Auf Antrag des Herstellers oder seines Bevollmächtigten stellt die zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU) 2017/745 aus. Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3 der Verordnung (EU) 2017/745 in Verkehr gebracht werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai 2021 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in Verkehr gebracht wurden und bis zum 26. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
 
 # § 11 – Betreiben und Anwenden von Produkten
 
@@ -282,6 +280,50 @@ In deutscher oder englischer Sprache haben die Konformitätsbewertungsstellen ei
 2. die Unterlagen, die für die Durchführung des Benennungsverfahrens nach Artikel 39 der Verordnung (EU) 2017/745 erforderlich sind.
 
 (+++ § 17: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+
+# § 17a – Wahrnehmung der mit der Notifizierung und Benennung verbundenen Aufgaben
+
+(1) Die Wahrnehmung der den Mitgliedstaaten zukommenden und mit der Notifizierung und Benennung verbundenen Aufgaben des Kapitels IV der Verordnung (EU) 2017/745 sowie des Kapitels IV der Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) obliegen der für Benannte Stellen zuständigen Behörde.
+
+(2) Hat ein anderer Mitgliedstaat eine Konformitätsbewertungsstelle nach Artikel 42 der Verordnung (EU) 2017/745 oder Artikel 38 der Verordnung (EU) 2017/746 notifiziert, entscheidet die für Benannte Stellen zuständige Behörde, ob dagegen Einwände nach Artikel 42 Absatz 6 der Verordnung (EU) 2017/745 oder Artikel 38 Absatz 6 der Verordnung (EU) 2017/746 zu erheben sind.
+
+# § 17b – Anerkennung von Benannten Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern
+
+(1) Eine Benannte Stelle, die nach Kapitel IV der Verordnung (EU) 2017/745 benannt ist, kann bei der für Benannte Stellen zuständigen Behörde die Anerkennung beantragen als Benannte Stelle für die Zertifizierung der Einhaltung
+
+1. der Gemeinsamen Spezifikationen nach Artikel 17 Absatz 5 der Verordnung (EU) 2017/745 in Verbindung mit der Durchführungsverordnung (EU) 2020/1207 der Kommission vom 19. August 2020 zur Festlegung von Vorschriften zur Anwendung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates hinsichtlich gemeinsamer Spezifikationen für die Aufbereitung von Einmalprodukten (ABl. L 273 vom 20.8.2020, S. 3) in der jeweils geltenden Fassung und der Empfehlung nach § 8 Absatz 2 der Medizinprodukte-Betreiberverordnung oder
+
+2. der Empfehlung nach § 8 Absatz 2 der Medizinprodukte-Betreiberverordnung.
+
+Der Antrag und die für die Durchführung des Anerkennungsverfahrens erforderlichen Unterlagen sind in deutscher oder englischer Sprache einzureichen.
+
+(2) Die für Benannte Stellen zuständige Behörde erteilt die Anerkennung, wenn die antragstellende Benannte Stelle geeignet und in der Lage ist, die Aufgaben einer Benannten Stelle für Gesundheitseinrichtungen und externe Aufbereiter wahrzunehmen, die Einmalprodukte oder Medizinprodukte mit besonders hohen Anforderungen an die Aufbereitung nach der Empfehlung nach § 8 Absatz 2 der Medizinprodukte-Betreiberverordnung aufbereiten. Die Anerkennung kann unter Auflagen erteilt werden. Die Anerkennung ist zu befristen.
+
+(3) Die Anerkennung erlischt
+
+1. mit Fristablauf,
+
+2. mit der Einstellung des Betriebs der Benannten Stelle,
+
+3. mit dem Verlust der Benennung als Benannte Stelle nach Kapitel IV der Verordnung (EU) 2017/745 oder
+
+4. durch Verzicht der Benannten Stelle.
+
+Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zuständigen Behörde unverzüglich schriftlich mitzuteilen.
+
+(4) Die für Benannte Stellen zuständige Behörde hat die Anerkennung zurückzunehmen, wenn nachträglich bekannt wird, dass eine anerkannte Benannte Stelle bei der Anerkennung nicht die Voraussetzungen für eine Anerkennung erfüllt hat. Sie hat die Anerkennung zu widerrufen, wenn die Voraussetzungen für eine Anerkennung nachträglich weggefallen sind. An Stelle des Widerrufs kann die für Benannte Stellen zuständige Behörde das Ruhen der Anerkennung anordnen. Im Übrigen bleiben die den §§ 48 und 49 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
+
+(5) Die für Benannte Stellen zuständige Behörde macht die nach Absatz 2 anerkannten Benannten Stellen auf ihrer Internetseite bekannt.
+
+# § 17c – Überwachung anerkannter Benannter Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern
+
+(1) Die für Benannte Stellen zuständige Behörde überwacht die anerkannten Benannten Stellen nach § 17b.
+
+(2) Die für Benannte Stellen zuständige Behörde trifft die Anordnungen, die zur Beseitigung festgestellter Mängel oder zur Verhinderung künftiger Mängel notwendig sind.
+
+(3) Die für Benannte Stellen zuständige Behörde kann von einer anerkannten Benannten Stelle und deren Personal, das mit der Leitung und Durchführung von Fachaufgaben beauftragt ist, die zur Erfüllung ihrer Überwachungsaufgaben erforderlichen Auskünfte und sonstige Unterstützung einschließlich der Vorlage von Unterlagen verlangen.
+
+(4) Die für Benannte Stellen zuständige Behörde ist befugt, die anerkannten Benannten Stellen bei Überprüfungen zu begleiten.
 
 # § 18 – Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung
 
@@ -353,15 +395,11 @@ Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zu
 
 # § 22 – Befugnisse der für Benannte Stellen zuständigen Behörde
 
-Die Beauftragten der für Benannte Stellen zuständigen Behörde sind befugt, zu den üblichen Betriebs- und Geschäftszeiten im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, den §§ 19 und 21 Grundstücke und Geschäftsräume der Benannten Stellen, ihrer Zweigstellen und Unterauftragnehmer, der anerkannten Prüflaboratorien sowie der benannten Konformitätsbewertungsstellen für Drittstaaten zu betreten und zu besichtigen. Das Betretensrecht erstreckt sich auch auf Grundstücke und Geschäftsräume des Herstellers, soweit die Überwachung beim Hersteller erfolgt.
-
-(+++ § 22: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+Die Beauftragten der für Benannte Stellen zuständigen Behörde sind befugt, zu den üblichen Betriebs- und Geschäftszeiten im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, den §§ 17c, 19 und 21 Grundstücke und Geschäftsräume der Benannten Stellen, ihrer Zweigstellen und Unterauftragnehmer, der anerkannten Prüflaboratorien sowie der benannten Konformitätsbewertungsstellen für Drittstaaten zu betreten und zu besichtigen. Das Betretensrecht erstreckt sich auch auf Grundstücke und Geschäftsräume des Herstellers, soweit die Überwachung beim Hersteller erfolgt.
 
 # § 23 – Auskunftsverweigerungsrecht
 
-Eine Person, die im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, § 19 Absatz 3 oder § 21 Absatz 3 zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihr selbst oder einer ihrer in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist über ihr Recht zur Verweigerung der Auskunft zu belehren.
-
-(+++ § 23: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+Eine Person, die im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, § 17c Absatz 3, § 19 Absatz 3 oder § 21 Absatz 3 zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihr selbst oder einer ihrer in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist über ihr Recht zur Verweigerung der Auskunft zu belehren.
 
 # § 24 – Allgemeine ergänzende Voraussetzungen
 
@@ -880,13 +918,15 @@ b) gegen unbefugten oder unrechtmäßigen Zugriff, unbefugte und unrechtmäßige
 
 # § 63 – Meldepflichten des Prüfers oder Hauptprüfers
 
-Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder sonstigen klinischen Prüfung unverzüglich
+Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder sonstigen klinischen Prüfung
 
-1. jede Art von unerwünschten Ereignissen im Sinne des Artikels 2 Nummer 57 der Verordnung (EU) 2017/745,
+1. unverzüglich
 
-2. jeden Produktmangel im Sinne des Artikels 2 Nummer 59 der Verordnung (EU) 2017/745, der bei Ausbleiben angemessener Maßnahmen oder eines Eingriffs oder unter weniger günstigen Umständen zu unerwünschten Ereignissen hätte führen können.
+a) jedes schwerwiegende unerwünschte Ereignis im Sinne des Artikels 2 Nummer 58 der Verordnung (EU) 2017/745 sowie
 
-(+++ § 63: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+b) jeden Produktmangel im Sinne des Artikels 2 Nummer 59 der Verordnung (EU) 2017/745, der bei Ausbleiben angemessener Maßnahmen oder eines Eingriffs oder unter weniger günstigen Umständen zu schwerwiegenden unerwünschten Ereignissen hätte führen können,
+
+2. entsprechend den zeitlichen Vorgaben des Prüfplans jede Art von unerwünschten Ereignissen im Sinne des Artikels 2 Nummer 57 der Verordnung (EU) 2017/745.
 
 # § 64 – Melde- und Mitteilungspflichten des Sponsors bei einer sonstigen klinischen Prüfung
 
@@ -900,7 +940,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 
 (3) Zwölf Monate nach Beendigung der sonstigen klinischen Prüfung legt der Sponsor der zuständigen Bundesoberbehörde über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 einen Abschlussbericht vor. Wird die sonstige klinische Prüfung vorzeitig abgebrochen oder vorübergehend ausgesetzt, legt der Sponsor den Abschlussbericht innerhalb von drei Monaten nach dem vorzeitigen Abbruch oder der vorübergehenden Aussetzung vor. Auf den Abschlussbericht ist Anhang XV Kapitel I Abschnitt 2.8 und Kapitel III Abschnitt 7 der Verordnung (EU) 2017/745 entsprechend anzuwenden.
 
-(+++ § 64: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(4) Die Absätze 1 bis 3 gelten nicht für sonstige klinische Prüfungen im Sinne des § 47 Absatz 3.
 
 # § 65 – Verarbeitung und Pseudonymisierung personenbezogener Daten
 
@@ -1009,7 +1049,7 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 
 (5) Professionelle Anwender und Betreiber tragen dafür Sorge, dass Produkte und Probematerialien, die im Verdacht stehen, an einem schwerwiegenden Vorkommnis beteiligt zu sein, nicht verworfen werden, bis die Risikobewertung der zuständigen Bundesoberbehörde abgeschlossen ist. Dies schließt nicht aus, dass sie diese Produkte und Probematerialien dem Hersteller zum Zwecke der Untersuchung überlassen.
 
-(+++ § 72: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(6) Produkte, die Eigentum des Patienten sind, dürfen für Untersuchungszwecke im Rahmen der Risikobewertung nach § 71 Absatz 2 nur nach vorheriger Einwilligung des Patienten oder, falls dieser nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, seines gesetzlichen oder rechtsgeschäftlichen Vertreters an den Hersteller oder an die zuständige Bundesoberbehörde übergeben werden. Die Aufklärung und Einholung der Einwilligung des Patienten obliegen dem Hersteller oder der zuständigen Bundesoberbehörde; er oder sie kann sich hierzu der Mitwirkung durch Anwender und Betreiber bedienen. Dem Patienten sind Abschriften von Unterlagen, die er im Zusammenhang mit der Aufklärung oder Einwilligung unterzeichnet hat, auszuhändigen. Satz 1 gilt entsprechend für eine Untersuchung, bei der eine Zerstörung des Produkts unvermeidbar ist; auf die Gefahr der Zerstörung des Produkts ist der Patient vor Erteilung der Einwilligung nach Satz 1 hinzuweisen. Vor unvermeidbaren zerstörenden Untersuchungen erstellen die Hersteller, die zuständige Bundesoberbehörde oder die von ihr beauftragten Sachverständigen eine Fotodokumentation des zu untersuchenden Produktes. Diese Fotodokumentation sowie eine Kopie des Untersuchungsberichts sind dem betroffenen Patienten oder seinem gesetzlichen oder rechtsgeschäftlichen Vertreter auf Nachfrage auszuhändigen. Auf das Recht nach Satz 6 sowie die Kontaktdaten des nach Satz 2 Verpflichteten ist der Patient vor Erteilung der Einwilligung nach Satz 1 hinzuweisen.
 
 # § 73 – Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung
 
@@ -1190,6 +1230,8 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 
 (1a) Die Bearbeitung von Meldungen der für die Kontrolle der Außengrenzen zuständigen Behörden über Aussetzungen gemäß Artikel 27 Absatz 3 Satz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) obliegt der Überwachungsbehörde, die für die Zollstelle örtlich zuständig ist.
 
+(1b) Die Aufgabe der Marktüberwachung von über das Internet oder über eine andere Form des Fernabsatzes nach Artikel 6 der Verordnung (EU) 2017/745 zum Verkauf angebotenen Produkten liegt, sofern kein Hersteller oder Bevollmächtigter in der Europäischen Union vorhanden ist, bei der Überwachungsbehörde, in deren Bezirk das Produkt geliefert wurde. Sind nach Satz 1 mehrere Behörden zuständig, so entscheidet die zuständige Behörde, die zuerst mit der Sache befasst worden ist.
+
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist, sofern dieses Gesetz nicht die Zuständigkeit des Paul-Ehrlich-Instituts vorsieht, zuständig für
 
 1. Entscheidungen nach § 6 Absatz 1 bis 4,
@@ -1242,7 +1284,6 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 
 (6) Das Bundesamt für Strahlenschutz berät die zuständigen Bundesoberbehörden und die zuständigen Behörden wissenschaftlich.
 
-(+++ § 85: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)  
 (+++ § 85: Zur Anwendung d. Kap. 7 vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
 
 # § 86 – Deutsches Medizinprodukteinformations- und Datenbanksystem
@@ -1454,7 +1495,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 
 3. entgegen § 13 Absatz 1 ein gefälschtes Produkt, ein gefälschtes Teil oder eine gefälschte Komponente herstellt, auf Lager hält, zur Abgabe anbietet, in den Verkehr bringt, in Betrieb nimmt oder auf dem Markt bereitstellt.
 
-(2) Ebenso wird bestraft, wer entgegen Artikel 120 Absatz 3 Satz 1 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1) ein dort genanntes Produkt, das den Vorschriften des Strahlenschutzgesetzes oder einer auf dessen Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen Herstellung ionisierende Strahlen verwendet wurden, in Verkehr bringt oder in Betrieb nimmt.
+(2) Ebenso wird bestraft, wer entgegen Artikel 120 Absatz 3 Satz 1 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, ein dort genanntes Produkt, das den Vorschriften des Strahlenschutzgesetzes oder einer auf dessen Grundlage erlassenen Rechtsverordnung unterliegt oder bei dessen Herstellung ionisierende Strahlen verwendet wurden, in Verkehr bringt oder in Betrieb nimmt.
 
 (3) Ebenso wird bestraft, wer
 
@@ -1495,8 +1536,6 @@ c) aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile großen 
 (6) In minder schweren Fällen des Absatzes 5 beträgt die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (7) Handelt der Täter in den Fällen der Absätze 1, 2 oder 3 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
-(+++ § 92: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
 
 # § 93 – Strafvorschriften
 
@@ -1604,15 +1643,13 @@ Gegenstände, auf die sich eine Straftat nach § 92 oder § 93 oder eine Ordnung
 
 # § 96 – Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745
 
-(1) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745 gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und § 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung sowie die Rechtsverordnung nach § 37 Absatz 8 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum.
+(1) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745 gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und § 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum.
 
-(2) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745 sind anstelle der nach Artikel 56 Absatz 5 der Verordnung (EU) 2017/745 vorgeschriebenen Informationen von den Benannten Stellen bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum die in § 18 Absatz 3 Nummer 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung vorgeschriebenen Informationen an das Bundesinstitut für Arzneimittel und Medizinprodukte zu übermitteln. Bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum sind § 18 Absatz 4 und § 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 sowie die Rechtsverordnung nach § 37 Absatz 8 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung entsprechend anzuwenden.
-
-(+++ § 96: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(2) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745 sind anstelle der nach Artikel 56 Absatz 5 der Verordnung (EU) 2017/745 vorgeschriebenen Informationen von den Benannten Stellen bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum die in § 18 Absatz 3 Nummer 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung vorgeschriebenen Informationen an das Bundesinstitut für Arzneimittel und Medizinprodukte zu übermitteln. Bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum sind § 18 Absatz 4 und § 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung entsprechend anzuwenden. Die Sätze 1 und 2 gelten auch für Bescheinigungen, die nach Artikel 120 Absatz 6 Satz 2 der Verordnung (EU) 2017/745 oder Artikel 110 Absatz 6 Satz 2 der Verordnung (EU) 2017/746 vor dem 26. Mai 2021 rechtmäßig ausgestellt wurden. Bescheinigungen nach Satz 3, die am 26. Mai 2021 noch nicht gemäß den Sätzen 1 und 2 an das Bundesinstitut für Arzneimittel und Medizinprodukte übermittelt wurden, sind von den Benannten Stellen spätestens bis zum 1. September 2021 zu übermitteln.
 
 # § 97 – Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745
 
-(1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34 Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2020 im Amtsblatt der Europäischen Union veröffentlicht worden, gilt
+(1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34 Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2021 im Amtsblatt der Europäischen Union veröffentlicht worden, gilt
 
 1. in Bezug auf die Registrierung von Produkten § 96 Absatz 1,
 
@@ -1634,23 +1671,19 @@ b) die in Artikel 123 Absatz 3 Buchstabe d der Verordnung (EU) 2017/745 genannte
 
 4. im Falle der Feststellung der vollen Funktionsfähigkeit eines oder mehrerer der übrigen elektronischen Systeme, die nach Artikel 33 Absatz 2 der Verordnung (EU) 2017/745 Bestandteil von Eudamed sind, mitteilen, dass die übrigen in Artikel 123 Absatz 3 Buchstabe d der Verordnung (EU) 2017/745 genannten, mit dem jeweiligen elektronischen System in Zusammenhang stehenden Pflichten und Anforderungen abweichend von der Mitteilung nach Absatz 1 Satz 2 über das jeweilige elektronische System zu erfüllen sind.
 
-(+++ § 97 Abs. 1 Satz 1 u. Abs. 2: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
-
 # § 98 – Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte
 
-Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 am 26. Mai 2020 nicht voll funktionsfähig ist, teilt das Bundesministerium für Gesundheit mit, wie die in diesem Gesetz und die in den auf seiner Grundlage erlassenen Rechtsverordnungen genannten und mit dem Deutschen Medizinprodukteinformations- und Datenbanksystem in Zusammenhang stehenden Pflichten, soweit sie von der fehlenden Funktionalität des Deutschen Medizinprodukteinformations- und Datenbanksystems betroffen sind, wahrgenommen werden sollen. Die Mitteilung erfolgt durch Bekanntmachung, die im Bundesanzeiger veröffentlicht wird.
-
-(+++ § 98: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 am 26. Mai 2021 nicht voll funktionsfähig ist, teilt das Bundesministerium für Gesundheit mit, wie die in diesem Gesetz und die in den auf seiner Grundlage erlassenen Rechtsverordnungen genannten und mit dem Deutschen Medizinprodukteinformations- und Datenbanksystem in Zusammenhang stehenden Pflichten, soweit sie von der fehlenden Funktionalität des Deutschen Medizinprodukteinformations- und Datenbanksystems betroffen sind, wahrgenommen werden sollen. Die Mitteilung erfolgt durch Bekanntmachung, die im Bundesanzeiger veröffentlicht wird.
 
 # § 99 – Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör
 
-(1) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, die vor dem 26. Mai 2020 nach den die Richtlinien 90/385/EWG und 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende Vorschriften anzuwenden:
+(1) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung, die vor dem 26. Mai 2021 nach den die Richtlinien 90/385/EWG und 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende Vorschriften anzuwenden:
 
-1. bis zum 27. Mai 2025 die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung,
+1. bis zum 26. Mai 2025 die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
 
 2. die Vorschriften zur Verpflichtung der Hersteller zum Bereithalten von Unterlagen nach den Richtlinien 90/385/EWG und 93/42/EWG,
 
-3. die Vorschriften von Abschnitt 8 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung,
+3. die Vorschriften von Abschnitt 8 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
 
 4. die Artikel 87 bis 89 der Verordnung (EU) 2017/745,
 
@@ -1664,16 +1697,16 @@ Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 
 
 2. die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG und des Anhangs XI der Richtlinie 93/42/EWG durch die Benannte Stelle, die die Verpflichtungen nach Artikel 120 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2017/745 zu erfüllen hat.
 
-§ 15 Absatz 2 Satz 2 bis 6 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung ist bis zum 27. Mai 2024 entsprechend anzuwenden.
+§ 15 Absatz 2 Satz 2 bis 6 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung ist bis zum 27. Mai 2024 entsprechend anzuwenden.
 
-(3) Klinische Prüfungen von Medizinprodukten, für die jeweils in der Zeit vom 20. März 2010 bis einschließlich 25. Mai 2020 die zuständige Ethik-Kommission nach § 22 des Medizinproduktegesetzes eine zustimmende Bewertung und die zuständige Bundesoberbehörde eine Genehmigung nach § 22a oder eine Befreiung von der Genehmigungspflicht nach § 20 Absatz 1 Satz 2 des Medizinproduktegesetzes in Verbindung mit § 7 Absatz 3 der Verordnung über klinische Prüfungen von Medizinprodukten vom 10. Mai 2010 (BGBl. I S. 555) in der jeweils geltenden Fassung erteilt haben, gelten als eingeleitet im Sinne von Artikel 120 Absatz 11 der Verordnung (EU) 2017/745. Unbeschadet des Artikels 120 Absatz 11 Satz 2 der Verordnung (EU) 2017/745 sind für klinische Prüfungen nach Satz 1 die Vorschriften des Medizinproduktegesetzes in der jeweils am 25. Mai 2020 geltenden Fassung weiter anzuwenden. Dies gilt auch für die DIMDI-Verordnung vom 4. Dezember 2002 (BGBl. I S. 4456) und die Medizinprodukte-Gebührenverordnung vom 27. März 2002 (BGBl. I S. 1228), sofern nicht durch Rechtsverordnung nach § 87 Absatz 2 etwas anderes bestimmt wird.
+(3) Klinische Prüfungen von Medizinprodukten, für die jeweils in der Zeit vom 20. März 2010 bis einschließlich 25. Mai 2021 die zuständige Ethik-Kommission nach § 22 des Medizinproduktegesetzes eine zustimmende Bewertung und die zuständige Bundesoberbehörde eine Genehmigung nach § 22a oder eine Befreiung von der Genehmigungspflicht nach § 20 Absatz 1 Satz 2 des Medizinproduktegesetzes in Verbindung mit § 7 Absatz 3 der Verordnung über klinische Prüfungen von Medizinprodukten vom 10. Mai 2010 (BGBl. I S. 555) in der jeweils geltenden Fassung erteilt haben, gelten als eingeleitet im Sinne von Artikel 120 Absatz 11 der Verordnung (EU) 2017/745. Unbeschadet des Artikels 120 Absatz 11 Satz 2 der Verordnung (EU) 2017/745 sind für klinische Prüfungen nach Satz 1 die Vorschriften des Medizinproduktegesetzes in der jeweils am 25. Mai 2021 geltenden Fassung weiter anzuwenden. Dies gilt auch für die Medizinprodukte-Gebührenverordnung vom 27. März 2002 (BGBl. I S. 1228), sofern nicht durch Rechtsverordnung nach § 87 Absatz 2 etwas anderes bestimmt wird.
 
 (4) Unbeschadet des Artikels 120 Absatz 11 Satz 2 der Verordnung (EU) 2017/745 sind für klinische Prüfungen, die vor dem 20. März 2010 begonnen wurden, die §§ 19 bis 24 des Medizinproduktegesetzes in der Fassung der Bekanntmachung vom 7. August 2002 (BGBl. I S. 3146), das zuletzt durch Artikel 1 des Gesetzes vom 14. Juni 2007 (BGBl. I S. 1066) geändert worden ist, weiter anzuwenden. Begonnen im Sinne von Satz 1 ist eine klinische Prüfung, wenn nach Vorliegen aller Voraussetzungen für den Beginn der klinischen Prüfung der erste Prüfungsteilnehmer in die Teilnahme an der klinischen Prüfung eingewilligt hat. Sie gilt damit als eingeleitet im Sinne von Artikel 120 Absatz 11 der Verordnung (EU) 2017/745.
 
-(5) Klinische Prüfungen im Sinne von § 3 Nummer 4, die vor dem 26. Mai 2020 begonnen wurden, dürfen auf der Grundlage der bis zum 26. Mai 2020 für sie geltenden Vorschriften weiter durchgeführt werden. Begonnen im Sinne von Satz 1 ist eine klinische Prüfung, wenn nach Vorliegen aller Voraussetzungen für den Beginn der klinischen Prüfung der erste Prüfungsteilnehmer in die Teilnahme an der klinischen Prüfung eingewilligt hat.
+(5) Klinische Prüfungen im Sinne von § 3 Nummer 4, die vor dem 26. Mai 2021 begonnen wurden, dürfen auf der Grundlage der bis zum 26. Mai 2021 für sie geltenden Vorschriften weiter durchgeführt werden. Begonnen im Sinne von Satz 1 ist eine klinische Prüfung, wenn nach Vorliegen aller Voraussetzungen für den Beginn der klinischen Prüfung der erste Prüfungsteilnehmer in die Teilnahme an der klinischen Prüfung eingewilligt hat.
 
-(6) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, die ein Verfalldatum haben und die vor dem 30. Juni 2007 zum Zweck des Zivil- und Katastrophenschutzes an die zuständigen Behörden des Bundes oder der Länder oder zur Durchführung der besonderen Aufgaben der Bundeswehr an die Bundeswehr abgegeben wurden, gilt § 44 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung.
+(5a) Für klinische Prüfungen, die nach dem 26. Mai 2021 begonnen werden sollen, können ab dem 1. April 2021 Anträge nach § 33 oder § 48 über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 gestellt werden. Die Ethik-Kommissionen führen die Prüfung und Bewertung von Anträgen nach Satz 1 auf der Grundlage der ab dem 26. Mai 2021 geltenden Anforderungen der Verordnung (EU) 2017/745 und nach den Verfahren der §§ 33 bis 37 oder der §§ 48 bis 52 durch. Abweichend von den in den §§ 36 und 51 genannten Fristen übermittelt die zuständige Ethik-Kommission die nach § 37 oder § 52 erforderliche Stellungnahme dem Sponsor frühestens am 26. Mai 2021.
 
-(7) Die Vorschriften des § 11 sowie der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 6 gelten unabhängig davon, nach welchen Vorschriften die Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung in Verkehr gebracht wurden.
+(6) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung, die ein Verfalldatum haben und die vor dem 30. Juni 2007 zum Zweck des Zivil- und Katastrophenschutzes an die zuständigen Behörden des Bundes oder der Länder oder zur Durchführung der besonderen Aufgaben der Bundeswehr an die Bundeswehr abgegeben wurden, gilt § 44 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung.
 
-(+++ § 99: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)
+(7) Die Vorschriften des § 11 sowie der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 6 gelten unabhängig davon, nach welchen Vorschriften die Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung in Verkehr gebracht wurden.
