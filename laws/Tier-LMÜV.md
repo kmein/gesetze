@@ -133,8 +133,6 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (2) Die Genehmigung nach Anhang III Abschnitt III Nummer 3 der Verordnung (EG) Nr. 853/2004 darf unter den Voraussetzungen des Absatzes 1 auch dann erteilt werden, wenn der Betrieb nicht über Verfahren nach Anhang III Abschnitt III Nummer 3 Buchstabe e der Verordnung (EG) Nr. 853/2004 verfügt.
 
-(3) (weggefallen)
-
 # § 8 – Kennzeichnung der Genusstauglichkeit
 
 (1) Kleine Mengen erlegten Großwildes, bei dem keine Fleischuntersuchung nach § 6 Absatz 1 Satz 1 Nummer 1 durchgeführt, das aber nach § 6 Absatz 1 Satz 1 Nummer 2 auf Trichinen untersucht und nicht nach § 6 Absatz 1 Satz 2 in Verbindung mit Artikel 28 Absatz 6, auch in Verbindung mit Artikel 45, und Artikel 31 Absatz 2 der Durchführungsverordnung (EU) 2019/627 für genussuntauglich erklärt worden ist, sind auf den frei liegenden Fleischteilen oder dem Brustfell mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 1 zu kennzeichnen. Satz 1 gilt nicht im Falle des § 6 Absatz 2 Satz 1 Nummer 2.
