@@ -13,7 +13,7 @@ Diese Verordnung gilt für die Anforderung von Daten von finanziellen Kapitalges
 
 (1) Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
 
-1. Mitteilungspflichtige: alle finanziellen Kapitalgesellschaften im Sinne von Anhang A Kapitel 2 Nummer 2.55 bis 2.110 der Verordnung (EG) Nr. 2223/96 mit Sitz im Inland;
+1. Mitteilungspflichtige: alle finanziellen Kapitalgesellschaften im Sinne von Anhang A Kapitel 2 Nummer 2.32 bis 2.67 der Verordnung (EG) Nr. 2223/96 mit Sitz im Inland;
 
 2. Wirtschafts- und Handelsdaten: alle Daten im Sinne von § 6 Absatz 1 Satz 2 und 3 des Finanzstabilitätsgesetzes.
 

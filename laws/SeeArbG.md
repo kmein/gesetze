@@ -1705,7 +1705,7 @@ Satz 2 ist nicht anzuwenden auf gezielte Tätigkeiten mit biologischen Arbeitsst
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates die Arbeitsverbote und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3 für Jugendliche bei Arbeiten, die mit besonderen Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung verbunden sind, zu bestimmen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
 
-# § 119 – Sozialeinrichtungen für Seeleute an Land
+# § 119 – Sozialeinrichtungen für Seeleute an Land; Verordnungsermächtigungen
 
 (1) Sozialeinrichtungen für Seeleute in den Häfen haben sicherzustellen, dass sie für alle Seeleute ungeachtet der Flagge des Schiffes diskriminierungsfrei und leicht zugänglich sind.
 
@@ -1722,6 +1722,8 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 (3) Die Sozialeinrichtungen sollen Sozialbeiräte einrichten. Den Sozialbeiräten sollen Vertreter der Verbände der Reeder und der Seeleute, der zuständigen Stellen und von freiwilligen Organisationen und Organen der sozialen Betreuung angehören. Soweit angebracht, sollen Konsuln der Seeschifffahrtsstaaten und die örtlichen Vertreter ausländischer Sozialorganisationen eingeladen werden, mit den in den Häfen tätigen Sozialbeiräten zusammenarbeiten.
 
 (4) Zur Erfüllung ihrer Aufgaben erhalten die Sozialeinrichtungen in inländischen Häfen einen jährlichen Gesamtbetrag in Höhe von 1,5 Millionen Euro aus Mitteln des Bundes. Jede Sozialeinrichtung hat einen anteiligen Anspruch in gleicher Höhe aus dem Gesamtbetrag nach Satz 1. Zuständige Behörde für die Gewährung der Leistung ist die Berufsgenossenschaft. Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages, insbesondere die Verteilungsgrundsätze sowie das Antragsverfahren und die Leistungsgewährung.
+
+(5) Unbeschadet der vorstehenden Bestimmungen fördert der Bund die Tätigkeit inländischer Einrichtungen, deren Aufgabe es ist, Seeleute durch den Betrieb von Sozialeinrichtungen in ausländischen Häfen zu unterstützen. Die Einrichtungen müssen gemeinnützig sein im Sinne von § 52 der Abgabenordnung und nachweislich seit mindestens drei Jahren die in Satz 1 bezeichnete Aufgabe tatsächlich wahrnehmen. Zur Erfüllung ihrer Aufgaben erhalten die Einrichtungen einen jährlichen Gesamtbetrag in Höhe von 1,025 Millionen Euro aus Mitteln des Bundes. Gibt es mehr als eine leistungsberechtigte Einrichtung, hat jede aus dem Gesamtbetrag einen anteiligen Anspruch, dessen Höhe sich nach der Anzahl der durch die leistungsberechtigte Einrichtung im Ausland betriebenen Sozialeinrichtungen bemisst. Absatz 4 Satz 3 gilt entsprechend. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages sowie das Antragsverfahren und die Leistungsgewährung.
 
 # § 120 – Verhalten an Bord
 
@@ -2171,9 +2173,9 @@ im Übrigen bleiben die Vorschriften über Rücknahme und Widerruf von Verwaltun
 
 # § 144 – Fachaufsicht über die Berufsgenossenschaft
 
-(1) Bei der Durchführung der Aufgaben nach den Abschnitten 1, 2 Unterabschnitt 1 und 4, den Abschnitten 3, 5 Unterabschnitt 1, Abschnitt 6 Unterabschnitt 1, 2, 4 und 5 und den Abschnitten 7, 11 und 12 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
+(1) Bei der Durchführung der Aufgaben nach den Abschnitten 1, 2 Unterabschnitt 1 und 4, den Abschnitten 3, 5 Unterabschnitt 1, Abschnitt 6 Unterabschnitt 1, 2, 4 und 5,mit Ausnahme des § 119 Absatz 5, und den Abschnitten 7, 11 und 12 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
 
-(2) Bei der Durchführung der Aufgaben nach Abschnitt 2 Unterabschnitt 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6 Unterabschnitt 3 und den Abschnitten 8, 9 und 10 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur.
+(2) Bei der Durchführung der Aufgaben nach Abschnitt 2 Unterabschnitt 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6 Unterabschnitt 3, § 119 Absatz 5 und den Abschnitten 8, 9 und 10 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 # § 145 – Bußgeldvorschriften
 
@@ -2312,7 +2314,3 @@ Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10. Juni 194
 2. im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 
 In der Rechtsverordnung nach § 20 Absatz 1 Satz 1 Nummer 4 können für Ärztinnen oder Ärzte im Sinne des Satzes 1 Erleichterungen hinsichtlich des Nachweises der Voraussetzungen für die Zulassung vorgesehen werden.
-
-# § 154 – Übergangsregelung für Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen
-
-Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen, die vor dem 18. Januar 2017 erteilt wurden, behalten ihre Gültigkeit bis zur jeweils nächsten nach § 129 Absatz 2 Nummer 1 anstehenden Überprüfung, soweit der Reeder Bescheinigungen über die Versicherung oder die sonstige finanzielle Sicherheit nach § 76a Absatz 4 Satz 2 sowie § 106a Absatz 3 Satz 2 an Bord mitführt.

@@ -49,8 +49,6 @@
 
 (5) Nimmt ein Arbeitgeber oder eine Vereinigung von Arbeitgebern mit einer Gewerkschaft Verhandlungen über den Abschluss eines Tarifvertrags auf, ist der Arbeitgeber oder die Vereinigung von Arbeitgebern verpflichtet, dies rechtzeitig und in geeigneter Weise bekanntzugeben. Eine andere Gewerkschaft, zu deren satzungsgemäßen Aufgaben der Abschluss eines Tarifvertrags nach Satz 1 gehört, ist berechtigt, dem Arbeitgeber oder der Vereinigung von Arbeitgebern ihre Vorstellungen und Forderungen mündlich vorzutragen.
 
-§ 4a Abs. 2 Satz 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 9 Abs. 3 GG gem. BVerfGE v. 11.7.2017 (1 BvR 1571/15 u. a.). Bis zu einer Neuregelung gilt § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes mit der Maßgabe fort, dass ein Tarifvertrag von einem kollidierenden Tarifvertrag nur verdrängt werden kann, wenn plausibel dargelegt ist, dass die Mehrheitsgewerkschaft die Interessen der Berufsgruppen, deren Tarifvertrag verdrängt wird, ernsthaft und wirksam in ihrem Tarifvertrag berücksichtigt hat; idF d. Art. 4f G v. 18.12.2018 I 2651 mWv 1.1.2019
-
 # § 5 – Allgemeinverbindlichkeit
 
 (1) Das Bundesministerium für Arbeit und Soziales kann einen Tarifvertrag im Einvernehmen mit einem aus je drei Vertretern der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer bestehenden Ausschuss (Tarifausschuss) auf gemeinsamen Antrag der Tarifvertragsparteien für allgemeinverbindlich erklären, wenn die Allgemeinverbindlicherklärung im öffentlichen Interesse geboten erscheint. Die Allgemeinverbindlicherklärung erscheint in der Regel im öffentlichen Interesse geboten, wenn

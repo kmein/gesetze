@@ -1828,7 +1828,7 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 2. es zur Durchführung eines bestimmten Vorhabens der wissenschaftlichen Forschung oder Planung im Sozialleistungsbereich erforderlich ist und die Voraussetzungen des § 75 Absatz 1, 2 oder 4a Satz 1 vorliegen.
 
-(3) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist zulässig, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und Disziplinarbefugnissen, der Rechnungsprüfung oder der Durchführung von Organisationsuntersuchungen für den Verantwortlichen erforderlich ist. Das gilt auch für die Veränderung oder Nutzung zu Ausbildungs- und Prüfungszwecken durch den Verantwortlichen, soweit nicht überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen.
+(3) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist zulässig, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und Disziplinarbefugnissen, der Rechnungsprüfung oder der Durchführung von Organisationsuntersuchungen für den Verantwortlichen oder für die Wahrung oder Wiederherstellung der Sicherheit und Funktionsfähigkeit eines informationstechnischen Systems durch das Bundesamt für Sicherheit in der Informationstechnik erforderlich ist. Das gilt auch für die Veränderung oder Nutzung zu Ausbildungs- und Prüfungszwecken durch den Verantwortlichen, soweit nicht überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen.
 
 (4) Sozialdaten, die ausschließlich zu Zwecken der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert werden, dürfen nur für diese Zwecke verändert, genutzt und in der Verarbeitung eingeschränkt werden.
 
