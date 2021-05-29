@@ -3948,7 +3948,7 @@ Betriebe und Einrichtungen, die Stoffe oder Zubereitungen aus Stoffen, die als T
 
 Pharmakologisch wirksame Stoffe, die
 
-1. als verbotene Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2019/238 (ABl. L 39 vom 11.2.2019, S. 4) geändert worden ist, oder
+1. als verbotene Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2021/621 (ABl. L 131 vom 16.4.2021, S. 120) geändert worden ist, oder
 
 2. nicht im Anhang der Verordnung (EU) Nr. 37/2010
 

@@ -1974,7 +1974,6 @@
 - [EuWG](laws/EuWG.md) Gesetz über die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [EuWO](laws/EuWO.md) Europawahlordnung
 - [EUZBBG](laws/EUZBBG.md) Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union
-- [EUZBBGVbg](laws/EUZBBGVbg.md) Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung über die Zusammenarbeit in Angelegenheiten der Europäischen Union in Ausführung des § 6 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union
 - [EUZBLG](laws/EUZBLG.md) Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union
 - [EVerbrStBV](laws/EVerbrStBV.md) Einfuhr-Verbrauchsteuerbefreiungsverordnung
 - [EVerkSiV](laws/EVerkSiV.md) Verordnung zur Sicherstellung des Eisenbahnverkehrs
