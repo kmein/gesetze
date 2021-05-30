@@ -6537,7 +6537,6 @@
 - [24. UhAnpV](laws/24._UhAnpV.md) Vierundzwanzigste Verordnung zur Anpassung der Unterhaltshilfe nach dem Lastenausgleichsgesetz
 - [25. BImSchV](laws/25._BImSchV.md) Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 - [26. BImSchV](laws/26._BImSchV.md) Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
-- [26. DonauSchPVAbweichV](laws/26._DonauSchPVAbweichV.md) Sechsundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
 - [27. BImSchV](laws/27._BImSchV.md) Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Artikel 1 der Verordnung über Anlagen zur Feuerbestattung und zur Änderung der Verordnung über genehmigungsbedürftige Anlagen)
 - [27. DonauSchPVAbweichV](laws/27._DonauSchPVAbweichV.md) Siebenundzwanzigste Verordnung zur vorübergehenden Abweichung von der Donauschifffahrtspolizeiverordnung
 - [28. BImSchV](laws/28._BImSchV.md) Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionsgrenzwerte für Verbrennungsmotoren)
