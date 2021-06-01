@@ -141,6 +141,8 @@ zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Ve
 
 (5) Die Landesstellen können weitere Angaben fordern, soweit dies zur Überprüfung der Antragsangaben erforderlich ist.
 
+(6) Änderungen des Sammelantrags nach Artikel 15 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 sind der zuständigen Behörde schriftlich bis zum 31. Mai des Jahres, für das die Zahlungen beantragt werden, mitzuteilen.
+
 # § 8 – Betriebsbezogene Angaben
 
 (1) Der Betriebsinhaber hat in Bezug auf seinen Betrieb im Antrag anzugeben:
