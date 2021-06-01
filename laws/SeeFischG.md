@@ -7,7 +7,7 @@
 
 1. der Regelung der Seefischerei und
 
-2. der Durchführung der Bestimmungen des Vertrages über die Arbeitsweise der Europäischen Union sowie der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, die zur Regelung der Ausübung der Seefischerei im Hinblick auf den Schutz der Fischbestände und die Erhaltung der biologischen Schätze des Meeres, die Überwachung oder die Strukturpolitik der Europäischen Union für die Fischwirtschaft erlassen worden sind (Fischereirecht der Europäischen Union), insbesondere der
+2. der Durchführung der Bestimmungen des Vertrages über die Arbeitsweise der Europäischen Union sowie der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, die zur Regelung der Ausübung der Seefischerei oder der Freizeitfischerei im Hinblick auf den Schutz der Fischbestände und die Erhaltung der biologischen Schätze des Meeres, die Überwachung oder die Strukturpolitik der Europäischen Union für die Fischwirtschaft erlassen worden sind (Fischereirecht der Europäischen Union), insbesondere der
 
 a) Verordnung (EG) Nr. 1005/2008 des Rates vom 29. September 2008 über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei, zur Änderung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1936/2001 und (EG) Nr. 601/2004 und zur Aufhebung der Verordnungen (EG) Nr. 1093/94 und (EG) Nr. 1447/1999 (ABl. L 286 vom 29.10.2008, S. 1) in der jeweils geltenden Fassung,
 
@@ -23,7 +23,11 @@ c) Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, die i
 
 (1) Seefischerei übt aus, wer auf See erwerbsmäßig Fische fängt, zu fangen versucht, an Bord nimmt, aus Meeresaquakultur oder in anderer Weise gewinnt. Die landseitige Grenze der Seefischerei verläuft wie die Grenze der Seefahrt nach § 1 der Flaggenrechtsverordnung.
 
+(1a) Freizeitfischerei übt aus, wer nicht erwerbsmäßig im Rahmen der Freizeitgestaltung Fische fängt.
+
 (2) Fische im Sinne dieses Gesetzes sind alle fischereilich nutzbaren Meereslebewesen mit Ausnahme der dem Jagdrecht unterliegenden Tierarten.
+
+(2a) Meerestiere sind Meeressäuger, Seevögel, Meeresschildkröten und andere nicht fischereilich nutzbare Meereslebewesen.
 
 (3) Kontrollbeamter im Sinne dieses Gesetzes ist jeder in der Überwachung der Seefischerei auf See oder an Land eingesetzte Bedienstete des Bundes oder eines Landes.
 
@@ -135,23 +139,35 @@ unterliegen.
 
 3. in den Fällen eines Verdachts nach Nummer 2 anordnen, dass Sendungen nach Nummer 1 auf Kosten und Gefahr des Verfügungsberechtigten der zuständigen Behörde vorgelegt werden.
 
+# § 9a – Datenverarbeitung durch Zollverwaltung und Bundespolizei
+
+(1) Soweit das Bundesministerium der Zollverwaltung oder der Bundespolizei durch Rechtsverordnung die Überwachung der Seefischerei nach § 2 Absatz 7 übertragen hat, sind die Zollverwaltung oder die Bundespolizei berechtigt, Daten über Position, Flagge, Name, Rufkennzeichen und Tätigkeit von Fischereifahrzeugen durch Sichtkontrollen zu erheben, zu speichern und unverzüglich an die Bundesanstalt zu übermitteln. Dies gilt, soweit
+
+1. die Daten erforderlich sind zur Überwachung der Seefischerei in Fanggebieten, die nicht von dem jeweiligen Schiffssicherheitszeugnis umfasst sind, oder
+
+2. die Daten erforderlich sind zur Überprüfung der Einhaltung von Schonzeiten oder fischereirechtlichen Vorschriften in Schutzgebieten und Gebieten mit Fangbeschränkungen.
+
+(2) Die Daten sind von der Zollverwaltung und der Bundespolizei nach erfolgreicher Übermittlung an die Bundesanstalt unverzüglich zu löschen.
+
+(3) Die Zuständigkeiten und Befugnisse der Bundesanstalt bleiben unberührt.
+
 # § 10 – Datenbanken und Validierungssystem
 
 (1) Die Bundesanstalt ist befugt,
 
-1. die Anträge auf Erteilung eines Zertifikats zur Ausweisung eines anerkannten Wirtschaftsbeteiligten im Sinne des Artikels 16 der Verordnung (EG) Nr. 1005/2008 (APEO-Zertifikat) in Verbindung mit Kapitel II der Verordnung (EG) Nr. 1010/2009 der Kommission vom 22. Oktober 2009 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1005/2008 des Rates über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei (ABl. L 280 vom 27.10.2009, S. 5), die zu diesem Zweck elektronisch oder in anderer Form übermittelten Angaben sowie gegebenenfalls Informationen über die Änderung oder den Entzug eines APEO-Zertifikats oder über die Aussetzung des Status des anerkannten Wirtschaftsbeteiligten zu erheben, für einen Zeitraum von fünf Jahren zu speichern und zu Prüfzwecken zu nutzen,
+1. die Anträge auf Erteilung eines Zertifikats zur Ausweisung eines anerkannten Wirtschaftsbeteiligten im Sinne des Artikels 16 der Verordnung (EG) Nr. 1005/2008 (APEO-Zertifikat) in Verbindung mit Kapitel II der Verordnung (EG) Nr. 1010/2009 der Kommission vom 22. Oktober 2009 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1005/2008 des Rates über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei (ABl. L 280 vom 27.10.2009, S. 5), die zu diesem Zweck elektronisch oder in anderer Form übermittelten Angaben sowie gegebenenfalls Informationen über die Änderung oder den Entzug eines APEO-Zertifikats oder über die Aussetzung des Status des anerkannten Wirtschaftsbeteiligten zu erheben, für einen Zeitraum von fünf Jahren zu Prüfzwecken zu speichern und zu verwenden,
 
-2. die Fangdaten nach Artikel 33 der Verordnung (EG) Nr. 1224/2009 elektronisch zu erheben, für einen Zeitraum von zehn Jahren zu speichern, zu Prüfzwecken zu nutzen und an die zuständigen Stellen der Europäischen Union zu Prüfzwecken zu übermitteln,
+2. die Fangdaten nach Artikel 33 der Verordnung (EG) Nr. 1224/2009 elektronisch zu erheben, für einen Zeitraum von zehn Jahren zu Prüfzwecken zu speichern, zu verwenden und an die zuständigen Stellen der Europäischen Union zu Prüfzwecken zu übermitteln,
 
-3. nach Artikel 78 der Verordnung (EG) Nr. 1224/2009 eine elektronische Datenbank zur Speicherung der Inspektions- und Überwachungsberichte der Behörden des Bundes und der Länder einzurichten, die Daten aus den Inspektions- und Überwachungsberichten für einen Zeitraum von fünf Jahren zu speichern und zu Prüfzwecken zu nutzen und
+3. nach Artikel 78 der Verordnung (EG) Nr. 1224/2009 eine elektronische Datenbank zur Speicherung der Inspektions- und Überwachungsberichte der Behörden des Bundes und der Länder einzurichten, die Daten aus den Inspektions- und Überwachungsberichten für einen Zeitraum von fünf Jahren zu Prüfzwecken zu speichern und zu verwenden und
 
-4. Angaben über die Funktionsweise des elektronischen Meldesystems in einer Datenbank elektronisch zu erheben, zu speichern, zu nutzen und an die zuständigen Stellen der Europäischen Union zu übermitteln.
+4. Angaben über die Funktionsweise des elektronischen Meldesystems in einer Datenbank elektronisch zu erheben, zu speichern, zu verwenden und an die zuständigen Stellen der Europäischen Union zu übermitteln.
 
-(2) Die Bundesanstalt richtet nach Artikel 109 der Verordnung (EG) Nr. 1224/2009 zu den Zwecken der Validierung, des Abgleichs und der Auswertung der Daten, die im Rahmen der Überwachung der Fischerei erfasst worden sind, eine elektronische Datenbank und ein Validierungssystem ein und unterhält diese. Die Bundesanstalt ist befugt, die in Artikel 109 der Verordnung (EG) Nr. 1224/2009 genannten Daten elektronisch zu erheben, für einen Zeitraum von zehn Jahren zu speichern und zu Prüfzwecken zu nutzen.
+(2) Die Bundesanstalt richtet nach Artikel 109 der Verordnung (EG) Nr. 1224/2009 zu den Zwecken der Validierung, des Abgleichs und der Auswertung der Daten, die im Rahmen der Überwachung der Fischerei erfasst worden sind, eine elektronische Datenbank und ein Validierungssystem ein und unterhält diese. Die Bundesanstalt ist befugt, die in Artikel 109 der Verordnung (EG) Nr. 1224/2009 genannten Daten elektronisch zu erheben, für einen Zeitraum von zehn Jahren zu Prüfzwecken zu speichern und zu verwenden.
 
 (3) Nach dem jeweiligen Ablauf der in Absatz 1 Nummer 1 bis 3 oder Absatz 2 genannten Fristen sind die Daten unverzüglich zu löschen.
 
-(4) Die Länder übermitteln der Bundesanstalt unverzüglich die ihren Behörden vorliegenden, in Absatz 1 Nummer 2 bezeichneten Fangdaten und die Daten aus den Inspektions- und Überwachungsberichten nach Absatz 1 Nummer 3 zur Speicherung in der Datenbank. Die Behörden der Länder sind befugt, für die Erfüllung eigener Prüfaufgaben erforderliche Daten aus der Datenbank nach Absatz 1 Nummer 2 und 3 zu erheben und zu nutzen. Die Daten nach Satz 2 sind nach der Erfüllung der in Satz 2 genannten Prüfaufgaben unverzüglich zu löschen.
+(4) Die Länder übermitteln der Bundesanstalt unverzüglich die ihren Behörden vorliegenden, in Absatz 1 Nummer 2 bezeichneten Fangdaten und die Daten aus den Inspektions- und Überwachungsberichten nach Absatz 1 Nummer 3 zur Speicherung in der Datenbank. Die Behörden der Länder sind befugt, für die Erfüllung eigener Prüfaufgaben erforderliche Daten aus der Datenbank nach Absatz 1 Nummer 2 und 3 zu erheben und zu verwenden. Die Daten nach Satz 2 sind nach der Erfüllung der in Satz 2 genannten Prüfaufgaben unverzüglich zu löschen.
 
 # § 11 – Datenaustausch
 
@@ -225,7 +241,7 @@ und setzt den Kapitän von der Übermittlung der Daten nach Nummer 1 oder 2 unve
 
 3. bei Ausübung der Seefischerei im Küstenmeer oder der Ausschließlichen Wirtschaftszone begangen worden sind.
 
-Die Gerichte, Staatsanwaltschaften und die Fischereiaufsichtsbehörden des Bundes und der Länder übermitteln der Bundesanstalt unverzüglich die nach Satz 2 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten. Die Bundesanstalt trägt die ihr nach Satz 3, auch in Verbindung mit § 13 Absatz 1 Satz 3 Nummer 2, mitgeteilten Daten und die von ihr im Rahmen einer Festsetzung nach § 13 Absatz 1 Satz 3 Nummer 1 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten im Sinne des Satzes 2 in die nationale Verstoßdatei ein. Die für die Fischereiaufsicht zuständigen Behörden des Bundes und der Länder können in die nationale Verstoßdatei Einsicht nehmen und die Daten im Rahmen von Ordnungswidrigkeitenverfahren und Verfahren zur Punktefestsetzung nach § 13 nutzen.
+Die Gerichte, Staatsanwaltschaften und die Fischereiaufsichtsbehörden des Bundes und der Länder übermitteln der Bundesanstalt unverzüglich die nach Satz 2 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten. Die Bundesanstalt trägt die ihr nach Satz 3, auch in Verbindung mit § 13 Absatz 1 Satz 3 Nummer 2, mitgeteilten Daten und die von ihr im Rahmen einer Festsetzung nach § 13 Absatz 1 Satz 3 Nummer 1 oder Nummer 2 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten im Sinne des Satzes 2 in die nationale Verstoßdatei ein. Die für die Fischereiaufsicht zuständigen Behörden des Bundes und der Länder können in die nationale Verstoßdatei Einsicht nehmen und die Daten im Rahmen von Ordnungswidrigkeitenverfahren und Verfahren zur Punktefestsetzung nach § 13 verwenden.
 
 (2) Soweit das Löschen der in der Verstoßdatei gespeicherten Daten nicht in unmittelbar geltenden Rechtsakten der Europäischen Union über die Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik geregelt ist, wird eine Eintragung
 
@@ -251,15 +267,17 @@ unverzüglich gelöscht.
 
 7. Name, Flagge, Rufzeichen, Fischereiflottenregisternummer (CFR-Nummer) und äußere Kennbuchstaben und -ziffern des Fischereifahrzeugs, mit dem ein Verstoß begangen worden ist,
 
-8. rechtskräftige oder bestandskräftige Entscheidung über die Ordnungswidrigkeit oder Straftat, Datum der Rechtskraft oder Bestandskraft der Entscheidung, Behörde,
+8. rechtskräftige oder bestandskräftige Entscheidung über die Ordnungswidrigkeit oder Straftat, die Art und Höhe der verhängten Sanktion, Datum der Rechtskraft oder Bestandskraft der Entscheidung, Behörde,
 
 9. Angaben über die Festsetzung von Punkten nach § 13: Art, Datum und Ort des schweren Verstoßes gegen die Vorschriften der Gemeinsamen Fischereipolitik, auf Grund dessen Punkte festgesetzt worden sind, rechtskräftige oder bestandskräftige Entscheidung über die Punkte, Anzahl der festgesetzten Punkte, Datum der Rechtskraft oder Bestandskraft der Entscheidung über die Punkte, Behörde,
 
 10. weitere Angaben über Punkte nach § 13: Datum und Anzahl der gelöschten Punkte, Grund für das jeweilige Löschen von Punkten, Anzahl des Erreichens der Höchstpunktzahl und Datum, an dem die Höchstzahl jeweils erreicht worden ist, aktuelle Gesamtzahl der Punkte,
 
-11. rechtskräftige oder bestandskräftige Entscheidungen einer Behörde über die Aussetzung oder die Entziehung der Fanglizenz, Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der Entscheidung und
+11. rechtskräftige oder bestandskräftige Entscheidungen einer Behörde über die Aussetzung oder die Entziehung der Fanglizenz, Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der Entscheidung,
 
-12. rechtskräftige oder bestandskräftige Entscheidungen einer Behörde über das Ruhen, die Entziehung oder die Wiedererteilung eines Befähigungszeugnisses für den nautischen Schiffsdienst auf Fischereifahrzeugen oder eines Anerkennungsvermerks nach den seeschifffahrtsrechtlichen Vorschriften über den Erwerb der Befähigungszeugnisse für nautische Schiffsoffiziere, Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der Entscheidung.
+12. rechtskräftige oder bestandskräftige Entscheidungen einer Behörde über das Ruhen, die Entziehung oder die Wiedererteilung eines Befähigungszeugnisses für den nautischen Schiffsdienst auf Fischereifahrzeugen oder eines Anerkennungsvermerks nach den seeschifffahrtsrechtlichen Vorschriften über den Erwerb der Befähigungszeugnisse für nautische Schiffsoffiziere, Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der Entscheidung und
+
+13. die nationale Referenz-Inspektionsberichtsnummer und das dazugehörige Aktenzeichen der jeweils zuständigen Behörde.
 
 # § 14a – Antrag auf schriftliche Auskunft über Inhalte der nationalen Verstoßdatei
 
@@ -314,7 +332,7 @@ Lässt das elektronische Speicher- und Verarbeitungsmedium die Übermittlung des
 
 8. Inhalt und Umfang der Pflichten des jeweils Verantwortlichen für das zu kontrollierende Fischereifahrzeug, das Transportfahrzeug oder den Raum, in dem die Seefischereierzeugnisse gelagert, verarbeitet oder vermarktet werden, gegenüber dem Kontrollbeamten bei einer Fischereikontrolle,
 
-9. Durchführungsvorschriften zur Speicherung und Nutzung von Daten, die Ausgestaltung von Datenbanken und des Validierungssystems,
+9. Durchführungsvorschriften zur Speicherung und Verwendung von Daten, die Ausgestaltung von Datenbanken und des Validierungssystems,
 
 10. Inhalt und Umfang der Pflichten des Kapitäns zur Anlandung von Fängen quotengebundener Arten, die während eines Fangeinsatzes im Rahmen von Fischereien oder in Fanggebieten, für die die Vorschriften der Gemeinsamen Fischereipolitik gelten, getätigt wurden,
 
@@ -352,9 +370,15 @@ aufzustellen,
 
 2. zur Verhinderung, Bekämpfung und Unterbindung der IUU-Fischerei das Zusammenwirken zwischen den Behörden des Bundes und der Länder im Hinblick auf Meldeverfahren und andere Verwaltungsabläufe sowie die Pflichten der Kapitäne und Betreiber von Fischereifahrzeugen, der Marktteilnehmer und anderer Wirtschaftsbeteiligter zu regeln,
 
+2a. das Chartern von Fischereifahrzeugen zu verbieten oder zu beschränken,
+
 3. das Verfahren bei der Überwachung und der Genehmigung des Zugangs zum Hafen von Drittlandfischereifahrzeugen, die gegenseitige Unterrichtung der zuständigen Landesbehörden bei der Überwachung des Zugangs zum Hafen und die Durchführung der Überwachung von Drittlandfischereifahrzeugen zu regeln,
 
-4. Inhalt und Umfang der Pflicht des Kapitäns zum Ausstellen und zur Übermittlung von Anmeldungen vor der Ankunft im Hafen (Voranmeldung), Anlandeerklärungen und Umladeerklärungen und zum Führen eines Logbuchs und Ausnahmen von diesen Verpflichtungen sowie das Verfahren bei Vorlage, Überprüfung, Speicherung und Nutzung von Voranmeldungen, Anlandeerklärungen, Umladeerklärungen und den Angaben aus den Logbüchern und die gegenseitige Unterrichtung der zuständigen Landesbehörden zu regeln,
+4. Inhalt und Umfang der Pflicht des Kapitäns zum Ausstellen, zur Vorlage und zur Übermittlung von Anmeldungen vor der Ankunft im Hafen (Voranmeldung), Anlandeerklärungen und Umladeerklärungen, zum Führen, zur Vorlage und zur Übermittlung eines Logbuchs sowie Ausnahmen von diesen Verpflichtungen zu regeln,
+
+4a. Inhalt und Umfang der Pflicht des Kapitäns zur Aufbewahrung, Speicherung und Verwendung von Voranmeldungen, Anlandeerklärungen, Umladeerklärungen und den Angaben aus den Logbüchern zu regeln,
+
+4b. das Verfahren bei Vorlage, Überprüfung, Aufbewahrung, Speicherung und Verwendung von Voranmeldungen, Anlandeerklärungen, Umladeerklärungen und den Angaben aus den Logbüchern und die gegenseitige Unterrichtung der zuständigen Landesbehörden zu regeln,
 
 5. bei der Vermarktung von Seefischereierzeugnissen vom Erstverkauf bis zum Verkauf im Einzelhandel, einschließlich der Beförderung, Vorschriften zu erlassen über
 
@@ -376,21 +400,43 @@ h) beim Erstverkauf geltende Bedingungen,
 
 6. das Verfahren beim Wiegen von Seefischereierzeugnissen vor dem Erstverkauf zu regeln,
 
-7. Inhalt und Umfang der Pflicht zum Ausstellen und zur Übermittlung von Verkaufsbelegen, Übernahmeerklärungen und Beförderungsunterlagen für Seefischereierzeugnisse sowie das Verfahren bei Vorlage, Überprüfung, Speicherung und Nutzung von Verkaufsbelegen, Übernahmeerklärungen und Transportdokumenten und die gegenseitige Unterrichtung der zuständigen Landesbehörden zu regeln.
+7. Inhalt und Umfang der Pflicht zum Ausstellen, zur Vorlage und zur Übermittlung von Verkaufsbelegen, Übernahmeerklärungen, Wiegedokumenten, Fangbescheinigungen und Beförderungsunterlagen für Seefischereierzeugnisse zu regeln,
+
+8. Inhalt und Umfang der Pflicht zur Aufbewahrung, Speicherung und Verwendung von Verkaufsbelegen, Übernahmeerklärungen, Wiegedokumenten, Fangbescheinigungen und Transportdokumenten zu regeln,
+
+9. das Verfahren bei Vorlage, Überprüfung, Aufbewahrung, Speicherung und Verwendung von Verkaufsbelegen, Übernahmeerklärungen, Wiegedokumenten, Fangbescheinigungen und Transportdokumenten und die gegenseitige Unterrichtung der zuständigen Landesbehörden zu regeln.
 
 In Rechtsverordnungen nach Satz 1 Nummer 6 ist vorzusehen, dass Ausnahmen von Wiegeverpflichtungen ermöglicht werden, soweit dies mit dem Fischereirecht der Europäischen Union vereinbar ist.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erhaltung und wirtschaftlichen Nutzung von Fischbeständen, zur Durchführung des Fischereirechts der Europäischen Union oder zur Erfüllung von Verpflichtungen aus internationalen Fischerei-Übereinkommen
 
-1. zu verbieten, Fische bestimmter Arten zu fangen, an Bord zu behalten, anzulanden oder zu verkaufen,
+1. zu verbieten oder vorzuschreiben, Fische bestimmter Arten oder bestimmte Meerestiere zu fangen, an Bord zu nehmen, zu behalten, zu bearbeiten, zu behandeln, auf eine bestimmte Art und Weise aufzubewahren, über Bord zu werfen, anzulanden, umzuladen, zu übernehmen oder umzusetzen,
 
-2. die Ausübung der Seefischerei mengenmäßig, zeitlich, räumlich oder in anderer Weise zu beschränken,
+1a. zu verbieten oder vorzuschreiben, Fische bestimmter Arten oder bestimmte Meerestiere ein- oder auszuführen, zum Kauf anzubieten oder zu verkaufen,
 
-3. die Benutzung von Fanggeräten, Fang- und Verarbeitungsvorrichtungen sowie die Anwendung von Fangmethoden vorzuschreiben, zu verbieten oder zu beschränken,
+2. die Ausübung der Seefischerei und der Freizeitfischerei mengenmäßig, zeitlich, räumlich oder in anderer Weise zu beschränken,
 
-4. die Pflicht zu Aufzeichnungen, Auskünften oder sonstigen Meldungen aufzuerlegen, soweit es erforderlich ist, um die Einhaltung der Beschränkungen überwachen, den Fischereiaufwand feststellen oder die Entwicklung der Fischbestände verfolgen zu können.
+2a. die Ausübung der Seefischerei ohne Genehmigung oder Registrierung zu verbieten oder zu beschränken,
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Überwachungsmaßnahmen zu dulden und zu unterstützen, Weisungen eines Kontrollbeamten unverzüglich zu befolgen und Auskünfte über Fänge und Fangtätigkeit zu erteilen sind.
+3. die Benutzung und Aufbewahrung von Fanggeräten, Fang-, Abschreckungs- und Verarbeitungsvorrichtungen sowie die Anwendung von Ortungs- und Fangmethoden zu verbieten, zu beschränken oder vorzuschreiben,
+
+4. die Pflicht zu Aufzeichnungen, Auskünften oder sonstigen Meldungen aufzuerlegen, soweit es erforderlich ist, um die Einhaltung der Beschränkungen überwachen, den Fischereiaufwand feststellen oder die Entwicklung der Fischbestände verfolgen zu können,
+
+5. die Pflicht zum Markieren oder Registrieren eines Fischereifahrzeuges, eines Hilfsboots, einer Fischsammelvorrichtung, eines Fanggeräts, einer Abschreckungsvorrichtung oder Boje aufzuerlegen sowie das Vornehmen von Veränderungen an Markierungen oder Registrierungsnummern zu verbieten,
+
+6. Inhalt und Umfang der Pflichten von Freizeitfischern zum Registrieren und Melden von Fängen bei der zuständigen Behörde sowie zur Registrierung der Freizeitfischer zu regeln,
+
+7. Inhalt und Umfang der Pflichten des Kapitäns zur Unterstützung von wissenschaftlichen Beobachtern bei der Wahrnehmung ihrer Aufgaben zu regeln,
+
+8. zu verbieten, zu beschränken oder vorzuschreiben, in bestimmten Häfen oder zu bestimmten Zeiten anzulanden oder bestimmte Gebiete und Häfen anzusteuern oder zu verlassen.
+
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Überwachung und zur Durchführung des Fischereirechts der Europäischen Union oder zur Erfüllung von Verpflichtungen aus internationalen Fischerei-Übereinkommen
+
+1. vorzuschreiben, dass Überwachungsmaßnahmen zu dulden und zu unterstützen sind, Weisungen eines Kontrollbeamten oder eines Unionsinspektors im Sinne der Verordnung (EG) Nr. 1224/2009 oder eines Inspektors einer regionalen Fischereiorganisation unverzüglich zu befolgen sind und dass dem Kontrollbeamten oder jeweiligen Inspektor Auskünfte über Fänge und Fangtätigkeit zu erteilen sind,
+
+2. zu verbieten, Überwachungsmaßnahmen zu behindern oder die Sicherheit von Kontrollbeamten, Unionsinspektoren im Sinne der Verordnung (EG) Nr. 1224/2009 oder Inspektoren regionaler Fischereiorganisationen zu gefährden.
+
+Außerhalb der Betriebs- und Geschäftszeiten von Betriebs- und Geschäftsräumen und hinsichtlich der Räume, die zugleich Wohnzwecken dienen, dürfen Überwachungsmaßnahmen nach Satz 1 nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung vorgesehen werden; insoweit wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
 (5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates technische Beschreibungen von Fanggerät zu erlassen. In der Rechtsverordnung sind die geografischen Gebiete, in denen die technische Beschreibung des jeweiligen Fanggeräts gilt, zu bezeichnen.
 
@@ -438,9 +484,9 @@ In Rechtsverordnungen nach Satz 1 Nummer 6 ist vorzusehen, dass Ausnahmen von Wi
 
 4. einer Rechtsverordnung nach
 
-a) § 15 Absatz 1 Nummer 2, 4 oder Nummer 10, Absatz 2 Nummer 2 oder Nummer 5 Buchstabe b, c, d, g oder Buchstabe h, Absatz 3 Nummer 1, 2 oder Nummer 3 oder
+a) § 15 Absatz 1 Nummer 2, 4 oder 10, Absatz 2 Nummer 2, 2a oder 5 Buchstabe b, c, d, g oder h, Absatz 3 Nummer 1, 1a, 2, 2a, 3 oder 8 oder Absatz 4 Satz 1 Nummer 2 oder
 
-b) § 15 Absatz 1 Nummer 6, 7, 8 oder Nummer 13, Absatz 2 Nummer 4, 5 Buchstabe a, e oder Buchstabe f oder Nummer 7, Absatz 3 Nummer 4 oder Absatz 4
+b) § 15 Absatz 1 Nummer 6, 7, 8 oder 13, Absatz 2 Nummer 4, 4a, 5 Buchstabe a, e oder f, Nummer 7 oder 8, Absatz 3 Nummer 4, 5 oder 6 oder Absatz 4 Satz 1 Nummer 1
 
 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -452,23 +498,23 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 8. entgegen § 17 Absatz 1 Nummer 2 eine Anlandung, Umladung oder Verarbeitung durchführt,
 
+8a. entgegen § 17 Absatz 2 eine Chartervereinbarung abschließt,
+
 9. entgegen § 17 Absatz 4 ein Fischereifahrzeug nutzt,
 
 10. entgegen § 17 Absatz 5 in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 5 ein dort genanntes Fanggerät mitführt oder einsetzt oder
 
-11. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die zur Regelung der Ausübung der Seefischerei im Hinblick auf
+11. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 4
 
-a) den Schutz der Fischbestände und die Erhaltung der biologischen Schätze des Meeres,
+a) Buchstabe a oder
 
-b) die Überwachung oder
+b) Buchstabe b
 
-c) die Strukturpolitik der Europäischen Union für die Fischwirtschaft
-
-erlassen worden sind, soweit eine Rechtsverordnung nach Absatz 6 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 6 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. von einem Fischereifahrzeug, das in der EU-Liste nach § 1a Absatz 4 aufgeführt ist, einen Fang umlädt, mit einem solchen Fahrzeug gemeinsame Fangeinsätze durchführt, ein solches Fischereifahrzeug mit Treibstoff, Material oder Besatzung versorgt oder an einem solchen Fahrzeug Reparaturarbeiten ausübt,
+1. von einem Fischereifahrzeug, das in der EU-Liste nach § 1a Absatz 4 aufgeführt ist, einen Fang umlädt, mit einem solchen Fahrzeug gemeinsame Fangeinsätze durchführt, ein solches Fahrzeug mit Treibstoff, Material oder Besatzung versorgt, auf einem solchen Fahrzeug anheuert, an einem solchen Fahrzeug Eigentum erwirbt oder an einem solchen Fahrzeug Reparaturarbeiten ausübt,
 
 2. als Kapitän mit einem Fischereifahrzeug die Seefischerei ausübt, das nach Artikel 91 des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799) staatenlos ist,
 
@@ -512,9 +558,9 @@ angegeben werden, oder ein gleichwertiges Dokument, das dieselben Angaben enthä
 
 7. als Kapitän lebende aquatische Ressourcen gewerblich nutzt, ohne dass er für das Fischereifahrzeug über eine gültige Fanglizenz verfügt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 1 bis 3, 4 Buchstabe a, Nummer 7 bis 10 und 11 Buchstabe a und c und des Absatzes 3 mit einer Geldbuße bis zu einhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 1 bis 3, 4 Buchstabe a, Nummer 7 bis 10 und 11 Buchstabe a und des Absatzes 3 mit einer Geldbuße bis zu einhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 1 bis 5, 8 bis 10, 11 Buchstabe a und b und des Absatzes 3 Nummer 1 bis 3, 6 und 7 auch dann geahndet werden, wenn sie in der Ausschließlichen Wirtschaftszone auf einem Schiff begangen wird, das nicht berechtigt ist, die Bundesflagge zu führen.
+(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 1 bis 5, 8 bis 10, 11 und des Absatzes 3 Nummer 1 bis 3, 6 und 7 auch dann geahndet werden, wenn sie in der Ausschließlichen Wirtschaftszone auf einem Schiff begangen wird, das nicht berechtigt ist, die Bundesflagge zu führen.
 
 (6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 Nummer 11 geahndet werden können. Das Bundesministerium für Ernährung und Landwirtschaft kann die Ermächtigung nach Satz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise auf die Bundesanstalt übertragen.
 

@@ -41,6 +41,10 @@ Epidemische Lage von nationaler Tragweite
 
 Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
 
+§ 5b
+
+Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
  
 
 3\. Abschnitt - Überwachung
@@ -131,7 +135,7 @@ Impfstoffe
 
 § 22
 
-Impfdokumentation
+Impfdokumentation, COVID-19-Zertifikate
 
 § 23
 
@@ -429,6 +433,10 @@ Strafvorschriften
 
 Weitere Strafvorschriften
 
+§ 75a
+
+Weitere Strafvorschriften
+
 § 76
 
 Einziehung
@@ -593,7 +601,7 @@ Solange eine epidemische Lage von nationaler Tragweite festgestellt ist, unterri
 
 4. durch Rechtsverordnung ohne Zustimmung des Bundesrates Maßnahmen zur Sicherstellung der Versorgung mit Arzneimitteln einschließlich Impfstoffen und Betäubungsmitteln, mit Medizinprodukten, Labordiagnostik, Hilfsmitteln, Gegenständen der persönlichen Schutzausrüstung und Produkten zur Desinfektion sowie zur Sicherstellung der Versorgung mit Wirk-, Ausgangs- und Hilfsstoffen, Materialien, Behältnissen und Verpackungsmaterialien, die zur Herstellung und zum Transport der zuvor genannten Produkte erforderlich sind, zu treffen und
 
-a) Ausnahmen von den Vorschriften des Arzneimittelgesetzes, des Betäubungsmittelgesetzes, des Apothekengesetzes, des Fünften Buches Sozialgesetzbuch, des Transfusionsgesetzes sowie der auf ihrer Grundlage erlassenen Rechtsverordnungen, der medizinprodukterechtlichen Vorschriften und der die persönliche Schutzausrüstung betreffenden Vorschriften zum Arbeitsschutz, die die Herstellung, Kennzeichnung, Zulassung, klinische Prüfung, Anwendung, Verschreibung und Abgabe, Ein- und Ausfuhr, das Verbringen und die Haftung, sowie den Betrieb von Apotheken einschließlich Leitung und Personaleinsatz regeln, zuzulassen,
+a) Ausnahmen von den Vorschriften des Arzneimittelgesetzes, des Betäubungsmittelgesetzes, des Apothekengesetzes, des Fünften Buches Sozialgesetzbuch, des Transfusionsgesetzes, des Heilmittelwerbegesetzes sowie der auf ihrer Grundlage erlassenen Rechtsverordnungen, der medizinprodukterechtlichen Vorschriften und der die persönliche Schutzausrüstung betreffenden Vorschriften zum Arbeitsschutz, die die Herstellung, Kennzeichnung, Zulassung, klinische Prüfung, Anwendung, Verschreibung und Abgabe, Ein- und Ausfuhr, das Verbringen und die Haftung, sowie den Betrieb von Apotheken einschließlich Leitung und Personaleinsatz regeln, zuzulassen,
 
 b) die zuständigen Behörden zu ermächtigen, im Einzelfall Ausnahmen von den in Buchstabe a genannten Vorschriften zu gestatten, insbesondere Ausnahmen von den Vorschriften zur Herstellung, Kennzeichnung, Anwendung, Verschreibung und Abgabe, zur Ein- und Ausfuhr und zum Verbringen sowie zum Betrieb von Apotheken einschließlich Leitung und Personaleinsatz zuzulassen,
 
@@ -629,7 +637,17 @@ d) abweichend von der Approbationsordnung für Apotheker die Regelstudienzeit, d
 
 e) abweichend von der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten die Regelstudienzeit festzulegen,
 
-f) abweichend von der Approbationsordnung für Zahnärzte und Zahnärztinnen die Regelstudienzeit, die Zeitpunkte und die Anforderungen an die Durchführung der einzelnen Abschnitte der Zahnärztlichen Prüfung und der Eignungs- und Kenntnisprüfung, des Krankenpflegedienstes und der Famulatur festzulegen und alternative Lehrformate vorzusehen, um die Fortführung des Studiums und die Durchführung der Prüfungen zu gewährleisten;
+f) abweichend von der Approbationsordnung für Zahnärzte und Zahnärztinnen die Regelstudienzeit, die Zeitpunkte und die Anforderungen an die Durchführung der einzelnen Abschnitte der Zahnärztlichen Prüfung und der Eignungs- und Kenntnisprüfung, des Krankenpflegedienstes und der Famulatur festzulegen und alternative Lehrformate vorzusehen, um die Fortführung des Studiums und die Durchführung der Prüfungen zu gewährleisten,
+
+g) Vorgaben festzulegen zur
+
+aa)  
+Erfassung, Aufrechterhaltung und Sicherung intensivmedizinischer Behandlungskapazitäten in Krankenhäusern,
+
+bb)  
+Meldung der Auslastung dieser Kapazitäten an eine vom Bundesministerium für Gesundheit zu bestimmende Stelle und
+
+cc) zu den Folgen unterlassener oder verspäteter Meldungen;
 
 8. durch Rechtsverordnung ohne Zustimmung des Bundesrates Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung in ambulanten und stationären Pflegeeinrichtungen in Abweichung von bestehenden gesetzlichen Vorgaben vorzusehen und
 
@@ -701,7 +719,13 @@ Die Ermächtigung nach Satz 1 Nummer 10 umfasst die folgenden Ausbildungen:
 
 (3) Rechtsverordnungen nach Absatz 2, insbesondere nach Nummer 3, 4, 7 und 8, bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales, soweit sie sich auf das Arbeitsrecht oder den Arbeitsschutz beziehen. Rechtsverordnungen nach Absatz 2 Nummer 4 und Anordnungen nach Absatz 2 Nummer 6 ergehen im Benehmen mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach Absatz 2 Nummer 10 werden im Benehmen mit dem Bundesministerium für Bildung und Forschung erlassen und bedürfen, soweit sie sich auf die Pflegeberufe beziehen, des Einvernehmens mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend. Bei Gefahr im Verzug kann auf das Einvernehmen nach Satz 1 verzichtet werden.
 
-(4) Eine auf Grund des Absatzes 2 oder § 5a Absatz 2 erlassene Rechtsverordnung tritt mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite außer Kraft. Abweichend von Satz 1 bleibt eine Übergangsregelung in der Verordnung nach Absatz 2 Satz 1 Nummer 7 Buchstabe b bis f bis zum Ablauf der Phase des Studiums in Kraft, für die sie gilt. Abweichend von Satz 1 ist eine Verordnung nach Absatz 2 Nummer 10 auf ein Jahr nach Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite zu befristen. Nach Absatz 2 getroffene Anordnungen gelten mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Eine Anfechtungsklage gegen Anordnungen nach Absatz 2 hat keine aufschiebende Wirkung.
+(4) Eine auf Grund des Absatzes 2 oder des § 5a Absatz 2 erlassene Rechtsverordnung tritt mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite außer Kraft. Abweichend von Satz 1
+
+1. bleibt eine Übergangsregelung in der Verordnung nach Absatz 2 Satz 1 Nummer 7 Buchstabe b bis f bis zum Ablauf der Phase des Studiums in Kraft, für die sie gilt, und
+
+2. tritt eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung spätestens ein Jahr nach Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite außer Kraft.
+
+Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung auch nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Nach Absatz 2 Satz 1 getroffene Anordnungen gelten mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Abweichend von Satz 4 gilt eine Anordnung nach Absatz 2 Satz 1 Nummer 6 spätestens ein Jahr nach der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Nach Absatz 2 Satz 1 Nummer 6 getroffene Anordnungen können auch bis spätestens ein Jahr nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Eine Anfechtungsklage gegen Anordnungen nach Absatz 2 Satz 1 hat keine aufschiebende Wirkung.
 
 (5) Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird im Rahmen des Absatzes 2 insoweit eingeschränkt.
 
@@ -736,6 +760,16 @@ Die Ausübung heilkundlicher Tätigkeiten ist während der epidemischen Lage von
 Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie soll unverzüglich der verantwortlichen Ärztin oder dem verantwortlichen Arzt oder einer sonstigen die Patientin oder den Patienten behandelnden Ärztin oder einem behandelnden Arzt mitgeteilt werden.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates weiteren Personen mit Erlaubnis zum Führen der Berufsbezeichnung eines reglementierten Gesundheitsfachberufs während einer epidemischen Lage von nationaler Tragweite die Ausübung heilkundlicher Tätigkeiten nach Absatz 1 Satz 2 zu gestatten.
+
+# § 5b – Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+
+(1) In der Nationalen Reserve Gesundheitsschutz werden Schutzmasken unabhängig von ihrer Kennzeichnung für den Fall einer Pandemie zum Infektionsschutz vorgehalten.
+
+(2) Die in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken dürfen nur so lange bereitgestellt werden, bis das vom Hersteller angegebene Verfallsdatum erreicht ist.
+
+(3) Über die Bereitstellung der in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken entscheidet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium für Arbeit und Soziales.
+
+(4) Die in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken müssen einem in der Anlage genannten Maskentyp entsprechen.
 
 # § 6 – Meldepflichtige Krankheiten
 
@@ -1591,7 +1625,7 @@ Wenn der Nachweis nach Absatz 9 Satz 1 nicht innerhalb einer angemessenen Frist 
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung oder einer Impfung nach § 17a Absatz 2 des Soldatengesetzes dürfen Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von den Geimpften ausgeschieden und von anderen Personen aufgenommen werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
-# § 22 – Impfdokumentation
+# § 22 – Impfdokumentation, COVID-19-Zertifikate
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der Impfausweis nicht vorgelegt wird, in einer Impfbescheinigung zu dokumentieren (Impfdokumentation).
 
@@ -1603,11 +1637,11 @@ Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Lan
 
 3. Name der Krankheit, gegen die geimpft wurde,
 
-4. Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
+4. Name der geimpften Person, deren Geburtsdatum und Name und Anschrift der für die Durchführung der Schutzimpfung verantwortlichen Person sowie
 
 5. Bestätigung in Schriftform oder in elektronischer Form mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel durch die für die Durchführung der Schutzimpfung verantwortliche Person.
 
-Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen, dass abweichend von Satz 1 Nummer 5 die Bestätigung in elektronischer Form auch mit einem fortgeschrittenen elektronischen Siegel erfolgen kann, wenn das Siegel der zur Durchführung der Schutzimpfung verantwortlichen Person eindeutig zugeordnet werden kann. Bei Nachtragungen in einen Impfausweis kann jeder Arzt die Bestätigung nach Satz 1 Nummer 5 vornehmen oder hat das zuständige Gesundheitsamt die Bestätigung nach Satz 1 Nummer 5 vorzunehmen, wenn dem Arzt oder dem Gesundheitsamt eine frühere Impfdokumentation über die nachzutragende Schutzimpfung vorgelegt wird.
+Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen, dass abweichend von Satz 1 Nummer 5 die Bestätigung in elektronischer Form auch mit einem fortgeschrittenen elektronischen Siegel erfolgen kann, wenn das Siegel der zur Durchführung der Schutzimpfung verantwortlichen Person eindeutig zugeordnet werden kann. Bei Nachtragungen in einen Impfausweis kann jeder Arzt oder Apotheker die Bestätigung nach Satz 1 Nummer 5 vornehmen oder hat das zuständige Gesundheitsamt die Bestätigung nach Satz 1 Nummer 5 vorzunehmen, wenn dem Arzt, dem Apotheker oder dem Gesundheitsamt eine frühere Impfdokumentation über die nachzutragende Schutzimpfung vorgelegt wird.
 
 (3) In der Impfdokumentation ist hinzuweisen auf
 
@@ -1618,6 +1652,40 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 3. Stellen, bei denen die sich aus einem Impfschaden ergebenden Ansprüche geltend gemacht werden können.
 
 (4) In der Impfdokumentation ist über notwendige Folge- und Auffrischimpfungen mit Terminvorschlägen zu informieren, so dass die geimpfte Person diese rechtzeitig wahrnehmen kann.
+
+(5) Zusätzlich zu der Impfdokumentation ist auf Wunsch der geimpften Person die Durchführung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem digitalen Zertifikat (COVID-19-Impfzertifikat) durch folgende Personen zu bescheinigen:
+
+1. durch die zur Durchführung der Schutzimpfung berechtigte Person oder
+
+2. nachträglich von jedem Arzt oder Apotheker.
+
+Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Impfdokumentation über eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Impfzertifikats, insbesondere, um die Identität der geimpften Person und die Authentizität der Impfdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Impfzertifikats übermittelt die zur Bescheinigung der Schutzimpfung gegen das Coronavirus SARS-CoV-2 verpflichtete Person die in Absatz 2 Satz 1 und Absatz 4 genannten personenbezogenen Daten an das Robert Koch-Institut, das das COVID-19-Impfzertifikat technisch generiert. Das Robert Koch-Institut ist befugt, die zur Erstellung und Bescheinigung des COVID-19-Impfzertifikats erforderlichen personenbezogenen Daten zu verarbeiten.
+
+(6) Die Durchführung oder Überwachung einer Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der betroffenen Person in einem digitalen Zertifikat (COVID-19-Genesenenzertifikat) zu bescheinigen:
+
+1. durch die zur Durchführung oder Überwachung der Testung berechtigte Person oder
+
+2. nachträglich von jedem Arzt oder Apotheker.
+
+Die Verpflichtung nach Satz 1 Nummer 2 besteht nur, wenn dem Arzt oder Apotheker eine Testdokumentation in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 vorgelegt wird und er sich zum Nachtrag unter Verwendung geeigneter Maßnahmen zur Vermeidung der Ausstellung eines unrichtigen COVID-19-Genesenenzertifikats, insbesondere, um die Identität der getesteten Person und die Authentizität der Testdokumentation nachzuprüfen, bereit erklärt hat. Zur Erstellung des COVID-19-Genesenenzertifikats übermittelt die zur Bescheinigung der Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Genesenenzertifikat technisch generiert:
+
+1. den Namen der getesteten Person, deren Geburtsdatum,
+
+2. das Datum der Testung und
+
+3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
+
+Absatz 5 Satz 4 gilt entsprechend.
+
+(7) Die Durchführung oder Überwachung einer Testung in Bezug auf einen negativen Erregernachweis des Coronavirus SARS-CoV-2 ist auf Wunsch der getesteten Person durch die zur Durchführung oder Überwachung der Testung berechtigte Person in einem digitalen Zertifikat (COVID-19-Testzertifikat) zu bescheinigen. Zur Erstellung des COVID-19-Testzertifikats übermittelt die zur Bescheinigung verpflichtete Person folgende Daten an das Robert Koch-Institut, das das COVID-19-Testzertifikat technisch generiert:
+
+1. den Namen der getesteten Person, deren Geburtsdatum,
+
+2. das Datum der Testung und
+
+3. Angaben zur Testung, einschließlich der Art der Testung, und zum Aussteller.
+
+Absatz 5 Satz 4 gilt entsprechend.
 
 # § 23 – Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
@@ -1725,7 +1793,7 @@ In der Rechtsverordnung nach Satz 3 kann auch geregelt werden, dass Veterinärme
 
 # § 25 – Ermittlungen
 
-(1) Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so stellt das Gesundheitsamt die erforderlichen Ermittlungen an, insbesondere über Art, Ursache, Ansteckungsquelle und Ausbreitung der Krankheit.
+(1) Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so stellt das Gesundheitsamt die erforderlichen Ermittlungen an, insbesondere über Art, Ursache, Ansteckungsquelle und Ausbreitung der Krankheit. Das Gesundheitsamt kann auch Ermittlungen anstellen, wenn sich ergibt oder anzunehmen ist, dass jemand durch eine Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe eine gesundheitliche Schädigung erlitten hat.
 
 (2) Für die Durchführung der Ermittlungen nach Absatz 1 gilt § 16 Absatz 1 Satz 2, Absatz 2, 3, 5 und 8 entsprechend. Das Gesundheitsamt kann eine im Rahmen der Ermittlungen im Hinblick auf eine bedrohliche übertragbare Krankheit erforderliche Befragung in Bezug auf die Art, Ursache, Ansteckungsquelle und Ausbreitung der Krankheit unmittelbar an eine dritte Person, insbesondere an den behandelnden Arzt, richten, wenn eine Mitwirkung der betroffenen Person oder der nach § 16 Absatz 5 verpflichteten Person nicht oder nicht rechtzeitig möglich ist; die dritte Person ist in entsprechender Anwendung von § 16 Absatz 2 Satz 3 und 4 zur Auskunft verpflichtet.
 
@@ -1932,7 +2000,19 @@ Das Robert Koch-Institut veröffentlicht im Internet unter https://www.rki.de/in
 
 (2) Unterschreitet in einem Landkreis oder einer kreisfreien Stadt ab dem Tag nach dem Eintreten der Maßnahmen des Absatzes 1 an fünf aufeinander folgenden Werktagen die Sieben-Tage-Inzidenz den Schwellenwert von 100, so treten an dem übernächsten Tag die Maßnahmen des Absatzes 1 außer Kraft. Sonn- und Feiertage unterbrechen nicht die Zählung der nach Satz 1 maßgeblichen Tage. Für die Bekanntmachung des Tages des Außerkrafttretens gilt Absatz 1 Satz 3 und 4 entsprechend. Ist die Ausnahme des Absatzes 1 Satz 1 Nummer 4 Halbsatz 2 Buchstabe b wegen Überschreitung des Schwellenwerts von 150 außer Kraft getreten, gelten die Sätze 1 bis 3 mit der Maßgabe entsprechend, dass der relevante Schwellenwert bei 150 liegt.
 
-(3) Die Durchführung von Präsenzunterricht an allgemeinbildenden und berufsbildenden Schulen ist nur zulässig bei Einhaltung angemessener Schutz- und Hygienekonzepte; die Teilnahme am Präsenzunterricht ist nur zulässig für Schülerinnen und Schüler sowie für Lehrkräfte, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 100, so ist die Durchführung von Präsenzunterricht ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, Hochschulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen nur in Form von Wechselunterricht zulässig. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 165, so ist ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, Hochschulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen die Durchführung von Präsenzunterricht untersagt. Abschlussklassen und Förderschulen können durch die nach Landesrecht zuständige Behörde von der Untersagung nach Satz 3 ausgenommen werden. Die nach Landesrecht zuständigen Stellen können nach von ihnen festgelegten Kriterien eine Notbetreuung einrichten. Für das Außerkrafttreten der Untersagung nach Satz 3 gilt Absatz 2 Satz 1 und 2 mit der Maßgabe entsprechend, dass der relevante Schwellenwert bei 165 liegt. Für die Bekanntmachung des Tages, ab dem die Untersagung nach Satz 3 in einem Landkreis oder einer kreisfreien Stadt gilt, gilt Absatz 1 Satz 3 und 4 entsprechend. Für die Bekanntmachung des Tages des Außerkrafttretens nach Satz 6 gilt Absatz 2 Satz 3 entsprechend. Für Einrichtungen nach § 33 Nummer 1 und 2 gelten die Sätze 3 und 5 bis 7 entsprechend.
+(3) Die Durchführung von Präsenzunterricht an allgemeinbildenden und berufsbildenden Schulen ist nur zulässig bei Einhaltung angemessener Schutz- und Hygienekonzepte; die Teilnahme am Präsenzunterricht ist nur zulässig für Schülerinnen und Schüler sowie für Lehrkräfte, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 100, so ist die Durchführung von Präsenzunterricht ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen nur in Form von Wechselunterricht zulässig. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 165, so ist ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, Hochschulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen die Durchführung von Präsenzunterricht untersagt. Wenn ausschließlich Personen teilnehmen, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden, gelten die Sätze 2 und 3 nicht für
+
+1. Aus- und Fortbildungseinrichtungen von Polizeien und Rettungsdiensten sowie, soweit die Aus- und Fortbildungen zur Aufrechterhaltung und Gewährleistung der Einsatzbereitschaft zwingend erforderlich sind, für die Aus- und Fortbildungen im Zivil- und Katastrophenschutz, bei den Feuerwehren sowie von sicherheitsrelevanten Einsatzkräften in der Justiz und im Justizvollzug und
+
+2. Aus- und Fortbildungseinrichtungen für Kontrollpersonal an Flughäfen oder für Luftfracht sowie für Einrichtungen, die Fortbildungen und Training für Personal in der Flugsicherung, Piloten, andere Crewmitglieder und sonstiges Personal Kritischer Infrastrukturen durchführen, soweit die Aus- und Fortbildungsveranstaltungen auf Grund gesetzlicher Vorgaben zwingend durchzuführen sind und dabei Präsenz erforderlich ist.
+
+Die nach Landesrecht zuständige Behörde kann unter der Voraussetzung, dass ausschließlich Personen teilnehmen, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden,
+
+1. Abschlussklassen, Förderschulen und praktische Ausbildungsanteile an berufsbildenden Schulen sowie Berufsbildungseinrichtungen nach § 2 Absatz 1 Nummer 3 des Berufsbildungsgesetzes, die nur in besonders ausgestatteten Räumlichkeiten oder Lernumgebungen mit Praxisbezug, wie zum Beispiel in Laboren und Krankenhäusern, durchgeführt werden können, von der Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, befreien und
+
+2. Abschlussklassen, Förderschulen sowie Veranstaltungen an Hochschulen für Studierende, die unmittelbar vor dem Studienabschluss oder abschlussrelevanten Teilprüfungen stehen, und praktische Ausbildungsanteile an Hochschulen, praktischen Unterricht an berufsbildenden Schulen sowie Berufsbildungseinrichtungen nach § 2 Absatz 1 Nummer 3 des Berufsbildungsgesetzes, an außerschulischen Einrichtungen der Erwachsenenbildung und ähnlichen Einrichtungen, die nur in besonders ausgestatteten Räumlichkeiten oder Lernumgebungen mit Praxisbezug, wie zum Beispiel in Laboren oder Krankenhäusern, durchgeführt werden können, von der Untersagung nach Satz 3 ausnehmen.
+
+Die nach Landesrecht zuständigen Stellen können nach von ihnen festgelegten Kriterien eine Notbetreuung einrichten. Absatz 2 Satz 1 und 2 gilt für das Außerkrafttreten der Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, entsprechend und für das Außerkrafttreten der Untersagung nach Satz 3 mit der Maßgabe entsprechend, dass der relevante Schwellenwert bei unter 165 liegt. Für die Bekanntmachung des Tages, ab dem die Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, oder die Untersagung nach Satz 3 in einem Landkreis oder einer kreisfreien Stadt gilt, gilt Absatz 1 Satz 3 und 4 entsprechend. Für die Bekanntmachung des Tages des Außerkrafttretens nach Satz 7 gilt Absatz 1 Satz 3 und 4 entsprechend. Für Einrichtungen nach § 33 Nummer 1 und 2 gelten die Sätze 3 und 6 bis 9 entsprechend.
 
 (4) Versammlungen im Sinne des Artikels 8 des Grundgesetzes sowie Zusammenkünfte, die der Religionsausübung im Sinne des Artikels 4 des Grundgesetzes dienen, unterfallen nicht den Beschränkungen nach Absatz 1.
 
@@ -1958,13 +2038,15 @@ Rechtsverordnungen der Bundesregierung nach Satz 1 bedürfen der Zustimmung von 
 
 3. gehörlose und schwerhörige Menschen und Personen, die mit diesen kommunizieren, sowie ihre Begleitpersonen.
 
+Für Personen, die das 6. Lebensjahr vollendet haben und das 16. Lebensjahr noch nicht vollendet haben, ist anstelle einer Atemschutzmaske (FFP2 oder vergleichbar) das Tragen einer medizinischen Gesichtsmaske (Mund-Nase-Schutz) erlaubt.
+
 (10) Diese Vorschrift gilt nur für die Dauer der Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5 Absatz 1 Satz 1 durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 30. Juni 2021. Dies gilt auch für Rechtsverordnungen nach Absatz 6.
 
 (11) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden eingeschränkt und können auch durch Rechtsverordnungen nach Absatz 6 eingeschränkt werden.
 
 # § 28c – Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können, Erleichterungen oder Ausnahmen von Geboten und Verboten nach dem fünften Abschnitt dieses Gesetzes oder von aufgrund der Vorschriften im fünften Abschnitt dieses Gesetzes erlassenen Geboten und Verboten zu regeln. Rechtsverordnungen der Bundesregierung nach Satz 1 bedürfen der Zustimmung von Bundestag und Bundesrat. Wenn die Bundesregierung von ihrer Ermächtigung nach Satz 1 Gebrauch macht, kann sie zugleich die Landesregierungen ermächtigen, ganz oder teilweise in Bezug auf von den Ländern nach dem fünften Abschnitt dieses Gesetzes erlassene Gebote und Verbote für die in Satz 1 genannten Personen Ausnahmen zu regeln.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können, Erleichterungen oder Ausnahmen von Geboten und Verboten nach dem fünften Abschnitt dieses Gesetzes oder von aufgrund der Vorschriften im fünften Abschnitt dieses Gesetzes erlassenen Geboten und Verboten zu regeln. Rechtsverordnungen der Bundesregierung nach Satz 1 bedürfen der Zustimmung von Bundestag und Bundesrat. Wenn die Bundesregierung von ihrer Ermächtigung nach Satz 1 Gebrauch macht, kann sie zugleich die Landesregierungen ermächtigen, ganz oder teilweise in Bezug auf von den Ländern nach dem fünften Abschnitt dieses Gesetzes erlassene Gebote und Verbote für die in Satz 1 genannten Personen Erleichterungen oder Ausnahmen zu regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
 # § 29 – Beobachtung
 
@@ -2212,11 +2294,13 @@ c) ein ärztliches Zeugnis oder ein Testergebnis hinsichtlich des Nichtvorliegen
 
 d) Auskunft darüber zu geben, ob bei ihnen Anhaltspunkte für die in Absatz 8 Satz 1 genannte Krankheit vorhanden sind;
 
-2. dass Unternehmen, die im Eisenbahn-,Bus-, Schiffs- oder Flugverkehr Reisende befördern, Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnibusbahnhöfen im Rahmen ihrer betrieblichen und technischen Möglichkeiten ausschließlich zur Feststellung und Verhinderung der Verbreitung der in Absatz 8 Satz 1 genannten Krankheit, bei der Durchführung der Rechtsverordnung nach Nummer 1 mitzuwirken haben, und verpflichtet sind,
+1a. dass alle Personen, bevor sie in die Bundesrepublik Deutschland auf dem Luftweg befördert werden, verpflichtet sind, vor Abflug gegenüber den Beförderern ein ärztliches Zeugnis oder ein Testergebnis hinsichtlich des Nichtvorliegens der in Absatz 8 Satz 1 genannten Krankheit vorzulegen;
 
-a) Beförderungen aus einem entsprechenden Risikogebiet in die Bundesrepublik Deutschland zu unterlassen, sofern eine Rückreise von Personen mit Wohnsitz in Deutschland weiterhin möglich ist, deren Einreise nicht aus aufenthaltsrechtlichen Gründen zu untersagen ist,
+2. dass Unternehmen, die im Eisenbahn-, Bus-, Schiffs- oder Flugverkehr Reisende befördern, Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnibusbahnhöfen im Rahmen ihrer betrieblichen und technischen Möglichkeiten ausschließlich zur Feststellung und Verhinderung der Verbreitung der in Absatz 8 Satz 1 genannten Krankheit, bei der Durchführung der Rechtsverordnung nach Nummer 1 oder Nummer 1a mitzuwirken haben, und verpflichtet sind,
 
-b) Beförderungen aus einem Risikogebiet in die Bundesrepublik Deutschland nur dann durchzuführen, wenn die zu befördernden Personen den nach Nummer 1 auferlegten Verpflichtungen vor der Beförderung nachgekommen sind,
+a) Beförderungen im Fall eines erhöhten Infektionsrisikos im Sinne von Absatz 8 Satz 1 in die Bundesrepublik Deutschland zu unterlassen, sofern eine Rückreise von Personen mit Wohnsitz in Deutschland weiterhin möglich ist, deren Einreise nicht aus aufenthaltsrechtlichen Gründen zu untersagen ist,
+
+b) Beförderungen in die Bundesrepublik Deutschland nur dann durchzuführen, wenn die zu befördernden Personen den nach Nummer 1 oder Nummer 1a auferlegten Verpflichtungen vor der Beförderung nachgekommen sind,
 
 c) Reisende über die geltenden Einreise- und Infektionsschutzbestimmungen und -maßnahmen in der Bundesrepublik Deutschland und die Gefahren der in Absatz 8 Satz 1 genannten Krankheit sowie die Möglichkeiten zu deren Verhütung und Bekämpfung barrierefrei zu informieren und in diesem Rahmen auf die Reise- und Sicherheitshinweise des Auswärtigen Amts hinzuweisen,
 
@@ -2234,7 +2318,7 @@ i) gegenüber dem Robert Koch-Institut eine für Rückfragen der zuständigen Be
 
 3. dass Anbieter von Telekommunikationsdiensten und Betreiber öffentlicher Mobilfunknetze verpflichtet sind, Einreisende barrierefrei über elektronische Nachrichten über die geltenden Einreise- und Infektionsschutzbestimmungen und -maßnahmen in der Bundesrepublik Deutschland zu informieren.
 
-Personen, die kein aufgrund der Rechtsverordnung nach Satz 1 Nummer 1 erforderliches ärztliches Zeugnis oder erforderliches Testergebnis vorlegen, sind verpflichtet, eine ärztliche Untersuchung auf Ausschluss der in Absatz 8 Satz 1 genannten Krankheit zu dulden. § 34 Absatz 4 gilt für die durch die Rechtsverordnung nach Satz 1 Nummer 1 festgelegten Verpflichtungen entsprechend.
+Personen, die kein aufgrund der Rechtsverordnung nach Satz 1 Nummer 1 erforderliches ärztliches Zeugnis oder erforderliches Testergebnis vorlegen, sind verpflichtet, eine ärztliche Untersuchung auf Ausschluss der in Absatz 8 Satz 1 genannten Krankheit zu dulden. § 34 Absatz 4 gilt für die durch die Rechtsverordnung nach Satz 1 Nummer 1 oder Nummer 1a festgelegten Verpflichtungen entsprechend.
 
 (11) Die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden können anlässlich der grenzpolizeilichen Aufgabenwahrnehmung als unterstützende Behörde nach Absatz 10 Satz 1 Nummer 1 stichprobenhaft von den in der Rechtsverordnung nach Absatz 8 Satz 1 genannten Personen verlangen, dass sie ihnen die in Absatz 10 Satz 1 Nummer 1 Buchstabe a bis c genannten Nachweise oder Dokumente vorlegen oder ihnen Auskunft nach Absatz 10 Satz 1 Nummer 1 Buchstabe d erteilen. Die unterstützenden Behörden nach Absatz 10 Satz 1 Nummer 1 unterrichten bei Kenntnis unverzüglich die zuständigen Behörden über die Einreise der in der Rechtsverordnung nach Absatz 8 Satz 1 genannten Personen, soweit diese ihren den unterstützenden Behörden gegenüber bestehenden in der Rechtsverordnung nach Absatz 10 Satz 1 Nummer 1 festgelegten Verpflichtungen bei der Einreise nicht nachkommen. Zu diesem Zweck dürfen bei den in der Rechtsverordnung nach Absatz 8 Satz 1 genannten Personen ihre personenbezogenen Angaben, Angaben zu ihren Aufenthaltsorten bis zu zehn Tage vor und nach der Einreise und Angaben zu dem von ihnen genutzten Reisemittel erhoben und der zuständigen Behörde übermittelt werden. Die nach § 71 Absatz 1 Satz 1 des Aufenthaltsgesetzes zuständigen Behörden und die unterstützenden Behörden nach Absatz 10 Satz 1 Nummer 1 unterrichten bei Kenntnis unverzüglich die zuständigen Behörden über die Einreise der in der Rechtsverordnung nach Absatz 6 Satz 1 oder nach Absatz 7 Satz 1 genannten Personen. Zu diesem Zweck dürfen bei diesen Personen ihre personenbezogenen Angaben erhoben und der zuständigen Behörde übermittelt werden. Die von den Behörden nach den Sätzen 1, 3 und 5 erhobenen Daten dürfen mit den Daten vorgelegter Reisedokumente abgeglichen werden.
 
@@ -2550,7 +2634,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 (1a) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 eine epidemische Lage von nationaler Tragweite festgestellt hat, erhält eine erwerbstätige Person eine Entschädigung in Geld, wenn
 
-1. Einrichtungen zur Betreuung von Kindern, Schulen oder Einrichtungen für Menschen mit Behinderungen von der zuständigen Behörde zur Verhinderung der Verbreitung von Infektionen oder übertragbaren Krankheiten auf Grund dieses Gesetzes vorübergehend geschlossen werden oder deren Betreten, auch aufgrund einer Absonderung, untersagt wird, oder wenn von der zuständigen Behörde aus Gründen des Infektionsschutzes Schul- oder Betriebsferien angeordnet oder verlängert werden, die Präsenzpflicht in einer Schule aufgehoben oder der Zugang zum Kinderbetreuungsangebot eingeschränkt wird oder eine behördliche Empfehlung vorliegt, vom Besuch einer Einrichtung zur Betreuung von Kindern, einer Schule oder einer Einrichtung für Menschen mit Behinderungen abzusehen,
+1. Einrichtungen zur Betreuung von Kindern, Schulen oder Einrichtungen für Menschen mit Behinderungen zur Verhinderung der Verbreitung von Infektionen oder übertragbaren Krankheiten auf Grund dieses Gesetzes vorübergehend geschlossen werden oder deren Betreten, auch aufgrund einer Absonderung, untersagt wird, oder wenn von der zuständigen Behörde aus Gründen des Infektionsschutzes Schul- oder Betriebsferien angeordnet oder verlängert werden, die Präsenzpflicht in einer Schule aufgehoben oder der Zugang zum Kinderbetreuungsangebot eingeschränkt wird oder eine behördliche Empfehlung vorliegt, vom Besuch einer Einrichtung zur Betreuung von Kindern, einer Schule oder einer Einrichtung für Menschen mit Behinderungen abzusehen,
 
 2. die erwerbstätige Person ihr Kind, das das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist, in diesem Zeitraum selbst beaufsichtigt, betreut oder pflegt, weil sie keine anderweitige zumutbare Betreuungsmöglichkeit sicherstellen kann, und
 
@@ -2625,6 +2709,8 @@ Ausscheider, die Anspruch auf eine Entschädigung nach § 56 haben, gelten als k
 (1) Wer durch eine Schutzimpfung oder durch eine andere Maßnahme der spezifischen Prophylaxe, die
 
 1. von einer zuständigen Landesbehörde öffentlich empfohlen und in ihrem Bereich vorgenommen wurde,
+
+1a. gegen das Coronavirus SARS-CoV-2 aufgrund einer Rechtsverordnung nach § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2, des Fünften Buches Sozialgesetzbuch vorgenommen wurde,
 
 2. auf Grund dieses Gesetzes angeordnet wurde,
 
@@ -2880,7 +2966,9 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 # § 74 – Strafvorschriften
 
-Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11 bis 20, 22, 22a, 23 oder 24 bezeichnete vorsätzliche Handlung begeht und dadurch eine in § 6 Absatz 1 Satz 1 Nummer 1 genannte Krankheit, einen in § 7 genannten Krankheitserreger oder eine in einer Rechtsverordnung nach § 15 Absatz 1 oder Absatz 3 genannte Krankheit oder einen dort genannten Krankheitserreger verbreitet.
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11 bis 20, 22, 22a, 23 oder 24 bezeichnete vorsätzliche Handlung begeht und dadurch eine in § 6 Absatz 1 Satz 1 Nummer 1 genannte Krankheit, einen in § 7 genannten Krankheitserreger oder eine in einer Rechtsverordnung nach § 15 Absatz 1 oder Absatz 3 genannte Krankheit oder einen dort genannten Krankheitserreger verbreitet.
+
+(2) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1a Nummer 8 bezeichnete Handlung begeht, indem er wissentlich eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 zur Täuschung im Rechtsverkehr nicht richtig dokumentiert.
 
 # § 75 – Weitere Strafvorschriften
 
@@ -2902,6 +2990,18 @@ Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer e
 
 (5) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 24 Satz 1, auch in Verbindung mit Satz 2, dieser auch in Verbindung mit einer Rechtsverordnung nach § 15 Abs. 1, eine Person behandelt.
 
+# § 75a – Weitere Strafvorschriften
+
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer wissentlich entgegen § 22 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 die Durchführung einer Schutzimpfung oder die Durchführung oder Überwachung einer dort genannten Testung zur Täuschung im Rechtsverkehr nicht richtig bescheinigt.
+
+(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer wissentlich
+
+1. eine in § 74 Absatz 2 bezeichnete nicht richtige Dokumentation oder
+
+2. eine in Absatz 1 bezeichnete nicht richtige Bescheinigung
+
+zur Täuschung im Rechtsverkehr gebraucht.
+
 # § 76 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, können eingezogen werden.
@@ -2921,3 +3021,7 @@ Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, könn
 (6) Für die Zählung der nach § 28b Absatz 1 Satz 1 und Absatz 3 Satz 2 und 3 maßgeblichen Tage werden die drei unmittelbar vor dem 23. April 2021 liegenden Tage mitgezählt. In Landkreisen und kreisfreien Städten, in denen die Sieben-Tage-Inzidenz an den drei unmittelbar vor dem 23. April 2021 liegenden Tagen den nach § 28b Absatz 1 und 3 jeweils maßgeblichen Schwellenwert überschritten hat, gelten die Maßnahmen nach § 28b Absatz 1 und 3 ab dem 24. April 2021. In den Fällen des Satzes 2 macht die nach Landesrecht zuständige Behörde den Tag, ab dem die Maßnahmen nach § 28b Absatz 1 und 3 gelten, am 23. April 2021 bekannt.
 
 (7) Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in Bezug auf landesrechtlich angeordnete Schutzmaßnahmen Erleichterungen oder Ausnahmen für Personen vorsehen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können. Bis zum Erlass einer Rechtsverordnung nach § 28c können die Länder in den Fällen des § 28b Absatz 1 Satz 1 Nummer 4 dritter Teilsatz Buchstabe b, Nummer 5 dritter Teilsatz, Nummer 6 dritter Teilsatz und Nummer 8 zweiter Teilsatz Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist, denjenigen gleichstellen, die ein negatives Ergebnis einer mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können.
+
+# Anlage – (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4
+
+(Fundstelle: BGBl. I 2021, 1175 – 1176)
