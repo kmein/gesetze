@@ -102,7 +102,8 @@
 
 (3) Das in Absatz 1 genannte Bundesinstitut ergreift im Einvernehmen mit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die notwendigen Maßnahmen, damit Daten nur dazu befugten Personen übermittelt werden oder diese Zugang zu diesen Daten erhalten.
 
-(+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Geltung vgl. § 96 Abs. 1 MPDG +++) (+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Anwendung vgl. § 96 Abs. 2 Satz 2 MPDG +++)
+(+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Geltung vgl. § 96 Abs. 1 MPDG +++)  
+(+++ § 33 in der bis 25.5.2021 geltenden Fassung: Zur Anwendung vgl. § 96 Abs. 2 Satz 2 MPDG +++)
 
 # §§ 34 bis 37a – (weggefallen)
 
