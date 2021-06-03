@@ -1841,9 +1841,10 @@ wenn sie in einem den Verhältnissen entsprechenden Umfang der wissenschaftliche
 
 (1) ¹Einnahmen sind innerhalb des Kalenderjahres bezogen, in dem sie dem Steuerpflichtigen zugeflossen sind. ²Regelmäßig wiederkehrende Einnahmen, die dem Steuerpflichtigen kurze Zeit vor Beginn oder kurze Zeit nach Beendigung des Kalenderjahres, zu dem sie wirtschaftlich gehören, zugeflossen sind, gelten als in diesem Kalenderjahr bezogen. ³Der Steuerpflichtige kann Einnahmen, die auf einer Nutzungsüberlassung im Sinne des Absatzes 2 Satz 3 beruhen, insgesamt auf den Zeitraum gleichmäßig verteilen, für den die Vorauszahlung geleistet wird. ⁴Für Einnahmen aus nichtselbständiger Arbeit gilt § 38a Absatz 1 Satz 2 und 3 und § 40 Absatz 3 Satz 2. ⁵Die Vorschriften über die Gewinnermittlung (§ 4 Absatz 1, § 5) bleiben unberührt.
 
-(2) ¹Ausgaben sind für das Kalenderjahr abzusetzen, in dem sie geleistet worden sind. ²Für regelmäßig wiederkehrende Ausgaben gilt Absatz 1 Satz 2 entsprechend. ³Werden Ausgaben für eine Nutzungsüberlassung von mehr als fünf Jahren im Voraus geleistet, sind sie insgesamt auf den Zeitraum gleichmäßig zu verteilen, für den die Vorauszahlung geleistet wird. ⁴Satz 3 ist auf ein Damnum oder Disagio nicht anzuwenden, soweit dieses marktüblich ist. ⁵§ 42 der Abgabenordnung bleibt unberührt. ⁶Die Vorschriften über die Gewinnermittlung (§ 4 Absatz 1, § 5) bleiben unberührt.
+(2) ¹Ausgaben sind für das Kalenderjahr abzusetzen, in dem sie geleistet worden sind. ²Für regelmäßig wiederkehrende Ausgaben gilt Absatz 1 Satz 2 entsprechend. ³Werden Ausgaben für eine Nutzungsüberlassung von mehr als fünf Jahren im Voraus geleistet, sind sie insgesamt auf den Zeitraum gleichmäßig zu verteilen, für den die Vorauszahlung geleistet wird.⁴Satz 3 ist auf ein Damnum oder Disagio nicht anzuwenden, soweit dieses marktüblich ist. ⁵§ 42 der Abgabenordnung bleibt unberührt. ⁶Die Vorschriften über die Gewinnermittlung (§ 4 Absatz 1, § 5) bleiben unberührt.
 
-(+++ § 11: Zur Anwendung vgl. § 52 dieses G u. § 38 Abs. 1 InvStG +++)
+(+++ § 11: Zur Anwendung vgl. § 52 dieses G u. § 38 Abs. 1 InvStG +++)  
+§ 11 Abs. 2 Satz 3: Eingef. durch Art. 1 Nr. 4 Buchst. b G v. 9.12.2004 I 3310 mWv 16.12.2004; idF d. Art. 1 Nr. 10 Buchst. a G v. 13.12.2006 I 2878 mWv 16.12.2004; iVm § 52 Abs. 30 Satz 1 idF d. G v. 13.12.2006 I 2878 nach Maßgabe der Entscheidungsformel nichtig gem. BVerfGE v. 25.3.2021 - 2 BvL 1/11 -
 
 # § 11a – Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
 

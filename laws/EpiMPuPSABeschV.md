@@ -13,6 +13,6 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a und Absatz 3 Satz 2 des Infekti
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn ein Land in Abstimmung mit dem Bundesministerium für Gesundheit Medizinprodukte oder persönliche Schutzausrüstungen im Rahmen eines von ihm seit dem 27. März 2020 beauftragten Beschaffungsprogramms in das Gebiet der Bundesrepublik Deutschland verbringen lässt. In diesen Fällen ist das jeweilige Bundesland Einführer im Sinne von § 3 Nummer 26 des Medizinproduktegesetzes und Artikel 3 Nummer 3 und 6 der Verordnung (EU) 2016/425.
 
-# § 2 – Inkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Mai 2022 außer Kraft.

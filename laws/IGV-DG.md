@@ -83,6 +83,8 @@ b) möglicherweise eine abgestimmte internationale Reaktion erfordert;
 
 22. ist Hafen ein See- oder Binnenhafen, in den oder aus dem Schiffe auf internationaler Reise ein- oder auslaufen;
 
+22a. wird die Einfahrt in den Nord-Ostsee-Kanal einem Hafen im Sinne der Nummer 22 gleichgestellt, wenn kein See- oder Binnenhafen in der Bundesrepublik Deutschland angelaufen wird;
+
 23. ist Herd ein Tier, eine Pflanze oder ein Stoff, in dem oder in der Krankheitserreger in der Regel leben und deren Vorkommen eine Gefahr für die öffentliche Gesundheit darstellen kann;
 
 24. ist Infektion das Eindringen eines Krankheitserregers in den menschlichen oder tierischen Körper beziehungsweise seine Entwicklung oder Vermehrung, die eine Gefahr für die öffentliche Gesundheit darstellen können;

@@ -89,6 +89,6 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 9 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt vorbehaltlich des Absatzes 2 nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.
+(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt vorbehaltlich des Absatzes 2 am 31. Mai 2022 außer Kraft.
 
 (2) § 4 Absatz 1 tritt spätestens am 31. Dezember 2020 außer Kraft.

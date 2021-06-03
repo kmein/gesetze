@@ -62,15 +62,15 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 # § 4 – Verlängerung von Fristen nach den §§ 21 und 22 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
 
-(1) Die Frist nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 31. Mai 2021 verlängert.
+(1) Die Frist nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
-(2) Die Frist nach § 21 Absatz 2a Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 31. Mai 2021 verlängert.
+(2) Die Frist nach § 21 Absatz 2a Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
-(3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 30. Juni 2021 übermittelt werden.
+(3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 15. Juli 2021 übermittelt werden.
 
 (4) Der Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird bis zum 31. Mai 2021 verlängert.
 
-(5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Mai 2021 verlängert.
+(5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
 (6) Die Frist nach § 417 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2021 verlängert.
 
