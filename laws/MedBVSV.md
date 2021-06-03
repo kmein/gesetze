@@ -51,6 +51,10 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absa
 
 (9) Die für die Überwachung des Verkehrs mit Arzneimitteln nach § 64 AMG zuständige Behörde kann im Einzelfall Abweichungen von § 52b Absatz 2 und 3 AMG und den §§ 4, 4a und 6 AM-HandelsV gestatten, wenn die jeweilige Ausnahme von den genannten Vorschriften zur Sicherstellung der Versorgung der Bevölkerung mit Arzneimitteln erforderlich ist.
 
+# § 4a – Ausnahmen vom Heilmittelwerbegesetz
+
+Abweichend von § 12 Absatz 2 des Heilmittelwerbegesetzes darf sich die Werbung außerhalb von Fachkreisen auf die Durchführung von Testungen zum Nachweis des Krankheitserregers SARS-CoV-2 beziehen.
+
 # § 5 – Ausnahmen vom Transfusionsgesetz
 
 Das Paul-Ehrlich-Institut wird ermächtigt, im Einvernehmen mit dem Robert Koch-Institut und mit Zustimmung des Bundesministeriums angepasst an die vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes (IfSG) festgestellte epidemische Lage von nationaler Tragweite
@@ -89,4 +93,4 @@ Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung
 
 # § 10 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. Mai 2022 außer Kraft.

@@ -7,7 +7,7 @@ Auf Grund des § 5 Absatz 2 Nummer 7 des Infektionsschutzgesetzes, der durch Art
 
 # § 1 – Verpflichtung zur Registrierung und Übermittlung intensivmedizinischer Behandlungskapazitäten
 
-(1) Alle zugelassenen Krankenhäuser, die im Rahmen ihres Versorgungsauftrags oder aufgrund einer Genehmigung der für die Krankenhausplanung zuständigen Landesbehörde nach § 21 Absatz 5 Satz 1 des Krankenhausfinanzierungsgesetzes intensivmedizinische Behandlungskapazitäten vorhalten, sind verpflichtet, sich bis zum 16. April 2020 auf der Internetseite www.intensivregister.de in dem DIVI IntensivRegister der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI IntensivRegister) zu registrieren und die für die Kapazitätsermittlung erforderlichen Angaben zur Anzahl der verfügbaren intensivmedizinischen Behandlungskapazitäten nach Absatz 2 und die Angaben nach Absatz 3 täglich bis 12:00 Uhr an das DIVI IntensivRegister zu übermitteln. Die Angaben können sowohl über die Weboberfläche des DIVI IntensivRegisters oder in maschinenlesbarer Form aus anderen IT-Systemen übermittelt werden.
+(1) Alle zugelassenen Krankenhäuser, die im Rahmen ihres Versorgungsauftrags oder aufgrund einer Genehmigung der für die Krankenhausplanung zuständigen Landesbehörde nach § 21 Absatz 5 Satz 1 des Krankenhausfinanzierungsgesetzes intensivmedizinische Behandlungskapazitäten vorhalten, sind verpflichtet, sich bis zum 16. April 2020 auf der Internetseite www.intensivregister.de in dem DIVI IntensivRegister zu registrieren und die für die Kapazitätsermittlung erforderlichen Angaben zur Anzahl der verfügbaren intensivmedizinischen Behandlungskapazitäten nach Absatz 2 und die Angaben nach Absatz 3 täglich bis 12:00 Uhr an das DIVI IntensivRegister zu übermitteln. Die Angaben können sowohl über die Weboberfläche des DIVI IntensivRegisters oder in maschinenlesbarer Form aus anderen IT-Systemen übermittelt werden.
 
 (2) Die Angaben zur Anzahl der verfügbaren intensivmedizinischen Behandlungskapazitäten sind zu unterscheiden nach Intensivbetten
 
@@ -27,17 +27,17 @@ Darüber hinaus übermitteln die Krankenhäuser eine Einschätzung der maximalen
 
 (3) Die Krankenhäuser übermitteln ohne Angabe von personenbezogenen Daten die Anzahl der Patientinnen und Patienten mit einer SARS-CoV-2-Infektion, die:
 
-1. intensivmedizinisch behandelt werden,
+1. intensivmedizinisch behandelt werden, differenziert nach vom Robert Koch-Institut festzulegenden Altersgruppen und, wenn bekannt, nach SARS-CoV-2-Virusvarianten,
 
 2. invasiv beatmet werden oder
 
-3. seit dem 1. Januar 2020 aus der intensivmedizinischen Behandlung des Krankenhauses entlassen wurden.
+3. neu aufgenommen wurden und seit dem 1. Januar 2020 aus der intensivmedizinischen Behandlung des Krankenhauses entlassen wurden.
 
 (4) Das Robert Koch-Institut kann im Einvernehmen mit dem Bundesministerium für Gesundheit das Nähere über die einheitliche technische Aufbereitung der Angaben nach den Absätzen 2 und 3, die Anforderungen an die Qualifikation der die Angaben übermittelnden Personen und die Festlegung der Krankenhausbereiche bestimmen, für die die Angaben zu übermitteln sind.
 
 # § 2 – Nachweispflichten
 
-Die Krankenhäuser weisen mit der wöchentlichen Meldung nach § 21 Absatz 2 Satz 3 des Krankenhausfinanzierungsgesetzes an die für die Krankenhausplanung zuständige Landesbehörde einmalig die Registrierung in dem DIVI IntensivRegister und mit jeder wöchentlichen Meldung die tägliche Übermittlung der Angaben nach § 1 Absatz 2 und 3 in dem DIVI IntensivRegister nach.
+Die Krankenhäuser weisen mit der wöchentlichen Meldung nach § 21 Absatz 2a Satz 3 des Krankenhausfinanzierungsgesetzes an die für die Krankenhausplanung zuständige Landesbehörde einmalig die Registrierung in dem DIVI IntensivRegister und mit jeder wöchentlichen Meldung die tägliche Übermittlung der Angaben nach § 1 Absatz 2 und 3 in dem DIVI IntensivRegister nach.
 
 # § 3 – Sanktion
 
@@ -45,4 +45,4 @@ Für jeden Tag, an dem ein Krankenhaus die Pflichten nach § 1 nicht, nicht voll
 
 # § 4 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 2 Nummer 3 des Infektionsschutzgesetzes außer Kraft.
