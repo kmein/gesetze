@@ -873,13 +873,13 @@ b) |            |           |
 
 # § 23p – Zulage für besonders befähigte Unterstützungskräfte der Spezialkräfte der Bundeswehr
 
-(1) Soldaten des Kommandos Spezialkräfte, die weder die Voraussetzungen nach § 23m noch die Voraussetzungen nach § 23o erfüllen, erhalten eine monatliche Zulage, wenn sie
+(1) Soldaten des Kommandos Spezialkräfte sowie Soldaten, die in der Stabs- und Führungsunterstützungskompanie Special Operations Component Command, im Ausbildungsstützpunkt Spezialkräfte Heer oder in Personalwerbetrupps für Spezialkräfte zur Wahrnehmung von Einsatzaufgaben des Kommandos Spezialkräfte verwendet werden, erhalten eine monatliche Zulage, wenn sie weder die Voraussetzungen nach § 23m noch die Voraussetzungen nach § 23o erfüllen, und
 
 1. für die Teilnahme an Aufgaben im räumlichen Einsatzgebiet der Spezialkräfte der Bundeswehr ausgebildet sind und entsprechend verwendet werden
 
-a) im direkten Zusammenwirken mit den Kommandokräften,
+a) im direkten Zusammenwirken mit den Kommandokräften oder
 
-b) zur Unterstützung der Kommandokräfte,
+b) zur Unterstützung der Kommandokräfte oder
 
 2. für eine Verwendung nach Nummer 1 ausgebildet werden.
 

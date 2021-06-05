@@ -1717,7 +1717,7 @@ e) ihre fachlichen Kenntnisse auf aktuellem Stand halten.
 3. Prüffristen, Prüfzuständigkeiten und Prüfaufzeichnungen
 
 3.1  
-Für kraftbetriebene Krane gelten die in Tabelle 1 festgelegten Prüffristen und Prüfzuständigkeiten.
+Für kraftbetriebene Krane gelten die in Tabelle 1 festgelegten Prüffristen und Prüfzuständigkeiten. Sofern dort eine wiederkehrende Prüfung durch einen Prüfsachverständigen vorgeschrieben ist, muss nicht zusätzlich eine Prüfung durch eine zur Prüfung befähigte Person durchgeführt werden.
 
 3.2  
 Für handbetriebene oder teilkraftbetriebene Krane gelten die in Tabelle 2 festgelegten Prüffristen und Prüfzuständigkeiten.
@@ -1852,7 +1852,7 @@ f) ihre fachlichen Kenntnisse auf aktuellem Stand halten.
 3. Prüfzuständigkeiten, Prüffristen und Prüfaufzeichnungen
 
 3.1  
-Für die unter Nummer 1 genannten Arbeitsmittel gelten die in der nachfolgenden Tabelle festgelegten Prüffristen und Prüfzuständigkeiten.
+Für die unter Nummer 1 genannten Arbeitsmittel gelten die in der nachfolgenden Tabelle festgelegten Prüffristen und Prüfzuständigkeiten. Sofern dort eine wiederkehrende Prüfung durch einen Prüfsachverständigen vorgeschrieben ist, muss nicht zusätzlich eine Prüfung durch eine zur Prüfung befähigte Person durchgeführt werden.
 
 3.2  
 Die in Tabelle 1 genannten maschinentechnischen Arbeitsmittel der Veranstaltungstechnik sind nach außergewöhnlichen Ereignissen und nach prüfpflichtigen Änderungen von einem Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 und 2 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt. 
