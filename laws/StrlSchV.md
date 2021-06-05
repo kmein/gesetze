@@ -187,7 +187,7 @@ für typische Untersuchungen, bezogen auf Standardphantome oder auf Patientengru
 
 (8) Intervention: Einsatz von Röntgenbildgebungstechniken, um zu medizinischen Zwecken die Einbringung von Geräten und Substanzen in den Körper und ihre Steuerung zu ermöglichen.
 
-(9) Maximale Betriebsbedingungen: Kombination der technischen Einstellparameter, die unter normalen Betriebsbedingungen bei Röntgenstrahlern nach § 18 Absatz 1 Nummer 1, Röntgeneinrichtungen nach den §§ 19 bis 22 und Störstrahlern nach § 23 zur höchsten Ortsdosisleistung und bei Röntgenstrahlern nach § 18 Absatz 1 Nummer 2 und Absatz 2 zur höchsten mittleren Ortsdosisleistung führen; hierzu gehören die Spannung für die Beschleunigung von Elektronen, der Röntgenröhrenstrom und gegebenenfalls weitere Parameter wie Einschaltzeit oder Elektrodenabstand.
+(9) Maximale Betriebsbedingungen: Kombination der technischen Einstellparameter, die unter normalen Betriebsbedingungen bei Röntgenstrahlern nach § 18 Absatz 1 Nummer 1, Röntgeneinrichtungen nach den §§ 19 bis 22 und Störstrahlern nach § 17 zur höchsten Ortsdosisleistung und bei Röntgenstrahlern nach § 18 Absatz 1 Nummer 2 und Absatz 2 zur höchsten mittleren Ortsdosisleistung führen; hierzu gehören die Spannung für die Beschleunigung von Elektronen, der Röntgenröhrenstrom und gegebenenfalls weitere Parameter wie Einschaltzeit oder Elektrodenabstand.
 
 (10) Oberflächenkontamination: Verunreinigung einer Oberfläche mit radioaktiven Stoffen, die die nicht festhaftende, die festhaftende und die über die Oberfläche eingedrungene Aktivität umfasst. Die Einheit der Messgröße der Oberflächenkontamination ist die flächenbezogene Aktivität in Becquerel pro Quadratzentimeter.
 
@@ -253,7 +253,7 @@ Tätigkeiten, die den in Anlage 1 genannten nicht gerechtfertigten Tätigkeitsar
 
 Das Bundesamt für Strahlenschutz kann für die Prüfung erforderliche Unterlagen nachfordern; die Frist nach § 38 Absatz 1 Satz 1 des Strahlenschutzgesetzes bleibt davon unberührt.
 
-(2) Das Bundesamt für Strahlenschutz informiert das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, die für die Erteilung der Genehmigung nach § 40 oder § 42 des Strahlenschutzgesetzes oder der Bauartzulassung nach § 45 Absatz 1 Nummer 1 oder 3 bis 6 des Strahlenschutzgesetzes zuständige Behörde sowie die für den Strahlenschutz zuständigen obersten Landesbehörden über den Beginn einer Prüfung.
+(2) Das Bundesamt für Strahlenschutz informiert das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, die für die Erteilung der Genehmigung nach § 40 oder § 42 des Strahlenschutzgesetzes oder der Bauartzulassung nach § 45 Absatz 1 Nummer 1, 3, 4, 5, 6 oder 7 des Strahlenschutzgesetzes zuständige Behörde sowie die für den Strahlenschutz zuständigen obersten Landesbehörden über den Beginn einer Prüfung.
 
 (3) Das Bundesamt für Strahlenschutz bewertet bei der Prüfung der Rechtfertigung der Tätigkeitsart insbesondere, ob
 
@@ -271,7 +271,7 @@ Das Bundesamt für Strahlenschutz kann für die Prüfung erforderliche Unterlage
 
 3. im Falle eines Antrags nach § 40 oder § 42 des Strahlenschutzgesetzes den zuständigen Kontaktstellen der anderen Mitgliedstaaten nach Artikel 76 Absatz 2 Satz 1 der Richtlinie 2013/59 Euratom.
 
-Die für die Erteilung einer Genehmigung nach § 40 oder § 42 des Strahlenschutzgesetzes oder einer Bauartzulassung nach § 45 Absatz 1 Nummer 1 oder 3 bis 6 des Strahlenschutzgesetzes zuständigen Behörden übermitteln dem Bundesamt für Strahlenschutz Informationen über erteilte Genehmigungen für Konsumgüter sowie über Bauartzulassungen. Das Bundesamt für Strahlenschutz veröffentlicht eine Liste mit den wesentlichen Angaben über den Gegenstand dieser Genehmigungen oder Bauartzulassungen.
+Die für die Erteilung einer Genehmigung nach § 40 oder § 42 des Strahlenschutzgesetzes oder einer Bauartzulassung nach § 45 Absatz 1 Nummer 1, 3, 4, 5, 6 oder 7 des Strahlenschutzgesetzes zuständigen Behörden übermitteln dem Bundesamt für Strahlenschutz Informationen über erteilte Genehmigungen für Konsumgüter sowie über Bauartzulassungen. Das Bundesamt für Strahlenschutz veröffentlicht eine Liste mit den wesentlichen Angaben über den Gegenstand dieser Genehmigungen oder Bauartzulassungen.
 
 # § 5 – Genehmigungsfreier Umgang
 
@@ -441,9 +441,13 @@ b) berührungssicher abgedeckt sind,
 
 (2) Die für die Zulassung der Bauart zuständige Behörde kann im Einzelfall Abweichungen von den Voraussetzungen nach Absatz 1 Nummer 1 Buchstabe a, Nummer 3 oder 4 zulassen, sofern die durch die Vorrichtung verursachte, zu erwartende jährliche, effektive Dosis für eine Einzelperson der Bevölkerung im Bereich von höchstens 10 Mikrosievert liegt.
 
-# § 17 – Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung
+# § 17 – Technische Anforderungen an die Bauartzulassung von Störstrahlern
 
-Die Bauart einer Anlage zur Erzeugung ionisierender Strahlung, die nicht zur Anwendung am Menschen bestimmt ist, darf nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes nur dann zugelassen werden, wenn sichergestellt ist, dass die Ortsdosisleistung im Abstand von 0,1 Meter von der berührbaren Oberfläche der Vorrichtung 1 Mikrosievert durch Stunde bei normalen Betriebsbedingungen nicht überschreitet.
+Die Bauart eines Störstrahlers darf nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes nur dann zugelassen werden, wenn sichergestellt ist, dass
+
+1. die Ortsdosisleistung im Abstand von 0,1 Meter von der berührbaren Oberfläche des Störstrahlers 1 Mikrosievert durch Stunde bei den vom Hersteller oder Verbringer angegebenen maximalen Betriebsbedingungen nicht überschreitet und
+
+2. der Störstrahler auf Grund technischer Maßnahmen nur dann betrieben werden kann, wenn die dem Strahlenschutz dienenden Sicherheitseinrichtungen vorhanden und wirksam sind.
 
 # § 18 – Technische Anforderungen an die Bauartzulassung von Röntgenstrahlern
 
@@ -515,13 +519,19 @@ Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am Menschen noch z
 
 2. die vom Hersteller oder Verbringer angegebenen maximalen Betriebsbedingungen nicht überschritten werden können.
 
-# § 23 – Technische Anforderungen an die Bauartzulassung von Störstrahlern
+# § 23 – Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung als Vollschutzanlage
 
-Die Bauart eines Störstrahlers darf nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes nur dann zugelassen werden, wenn sichergestellt ist, dass
+Die Bauart einer Anlage zur Erzeugung ionisierender Strahlung, die nicht zur Anwendung am Menschen bestimmt ist, darf als Vollschutzanlage nach § 45 Absatz 1 Nummer 7 des Strahlenschutzgesetzes nur dann zugelassen werden,
 
-1. die Ortsdosisleistung im Abstand von 0,1 Meter von der berührbaren Oberfläche des Störstrahlers 1 Mikrosievert durch Stunde bei den vom Hersteller oder Verbringer angegebenen maximalen Betriebsbedingungen nicht überschreitet und
+1. wenn sichergestellt ist, dass
 
-2. der Störstrahler auf Grund technischer Maßnahmen nur dann betrieben werden kann, wenn die dem Strahlenschutz dienenden Sicherheitseinrichtungen vorhanden und wirksam sind.
+a) die Erzeugung radioaktiver Stoffe durch Aktivierung beim Betrieb der Vollschutzanlage ausgeschlossen ist,
+
+b) ein Schutzgehäuse den Ort, an dem die ionisierende Strahlung entsteht, und den zu behandelnden oder zu untersuchenden Gegenstand vollständig umschließt,
+
+c) die Ortsdosisleistung im Abstand von 0,1 Meter von der berührbaren Oberfläche des Schutzgehäuses 3 Mikrosievert durch Stunde bei den vom Hersteller oder Verbringer angegebenen maximalen normalen Betriebsbedingungen nicht überschreitet, und
+
+2. wenn durch zwei voneinander unabhängige Sicherheitseinrichtungen sichergestellt ist, dass die Vollschutzanlage nur bei vollständig geschlossenem Schutzgehäuse betrieben werden kann.
 
 # § 24 – Pflichten des Inhabers einer Bauartzulassung
 
@@ -537,7 +547,7 @@ Der Inhaber einer Bauartzulassung hat
 
 a) das Bauartzeichen und weitere von der für die Zulassung der Bauart zuständigen Behörde zu bestimmende Angaben anzubringen und,
 
-b) im Falle einer bauartzugelassenen Vorrichtung nach § 45 Absatz 1 Nummer 1 erste oder zweite Alternative des Strahlenschutzgesetzes diese entsprechend § 91 Absatz 1 zu kennzeichnen und
+b) im Falle einer bauartzugelassenen Vorrichtung nach § 45 Absatz 1 Nummer 1 erste Alternative oder Nummer 7 des Strahlenschutzgesetzes diese entsprechend § 91 Absatz 1 zu kennzeichnen und
 
 c) im Falle einer bauartzugelassenen Vorrichtung nach § 45 Absatz 1 Nummer 1 erste Alternative des Strahlenschutzgesetzes die Vorrichtung zusätzlich so zu kennzeichnen, dass die enthaltenen Radionuklide und deren Aktivität zum Zeitpunkt der Herstellung ersichtlich sind, soweit dies nach Größe und Beschaffenheit der Vorrichtung möglich ist,
 
@@ -565,7 +575,7 @@ Bei einer Abgabe der bauartzugelassenen Vorrichtung gilt § 24 Nummer 5 entsprec
 
 (2) An der bauartzugelassenen Vorrichtung dürfen keine Änderungen vorgenommen werden, die für den Strahlenschutz wesentliche Merkmale betreffen.
 
-(3) Wer eine bauartzugelassene Vorrichtung betreibt oder verwendet, hat in den Fällen einer Bauartzulassung nach § 45 Absatz 1 Nummer 2 bis 6 des Strahlenschutzgesetzes unverzüglich den Betrieb einzustellen oder in den Fällen einer Bauartzulassung nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes die Vorrichtung unverzüglich stillzulegen und Schutzmaßnahmen zur Vermeidung von Strahlenschäden zu treffen, wenn
+(3) Wer eine bauartzugelassene Vorrichtung betreibt oder verwendet, hat in den Fällen einer Bauartzulassung nach § 45 Absatz 1 Nummer 2 bis 7 des Strahlenschutzgesetzes unverzüglich den Betrieb einzustellen oder in den Fällen einer Bauartzulassung nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes die Vorrichtung unverzüglich stillzulegen und Schutzmaßnahmen zur Vermeidung von Strahlenschäden zu treffen, wenn
 
 1. die Rücknahme oder der Widerruf der Bauartzulassung oder die Erklärung, dass eine bauartzugelassene Vorrichtung nicht weiter betrieben werden darf, bekannt gemacht wurde oder
 
@@ -3612,11 +3622,9 @@ Genehmigungsfrei nach § 5 Absatz 1 ist
 
 9. der Umgang mit abgereichertem Uran in Form von Uranylverbindungen zu chemisch-analytischen oder zu chemisch-präparativen Zwecken mit einer Gesamtmasse des Urans von bis zu 30 Gramm.
 
-Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren
+Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
 
-1. Bauart nach § 17 zugelassen ist oder
-
-2. Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
+ 
 
 Genehmigungsfrei nach § 8 ist der Betrieb von Störstrahlern,
 

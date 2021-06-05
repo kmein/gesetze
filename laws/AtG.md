@@ -608,7 +608,7 @@ Durch Rechtsverordnung können Ausnahmen von den Vorschriften der §§ 3 bis 7 u
 
 4. daß zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften die Ein-, Aus- und Durchfuhr (grenzüberschreitende Verbringung) radioaktiver Stoffe einer Genehmigung oder Zustimmung bedarf, Anzeigen und Meldungen zu erstatten und Unterlagen mitzuführen sind. Es kann weiterhin bestimmt werden, daß Zustimmungen mit Nebenbestimmungen versehen werden können.
 
-(2) Die Rechtsverordnung kann Genehmigungen, Zustimmungen nach Absatz 1 Nr. 6 und allgemeine Zulassungen im Rahmen der Zweckbestimmung dieses Gesetzes von persönlichen und sachlichen Voraussetzungen abhängig machen sowie das Verfahren bei Genehmigungen, Zustimmungen nach Absatz 1 Nr. 6 und allgemeinen Zulassungen regeln.
+(2) Die Rechtsverordnung kann Genehmigungen, Zustimmungen nach Absatz 1 Nummer 4 und allgemeine Zulassungen im Rahmen der Zweckbestimmung dieses Gesetzes von persönlichen und sachlichen Voraussetzungen abhängig machen sowie das Verfahren bei Genehmigungen, Zustimmungen nach Absatz 1 Nummer 4 und allgemeinen Zulassungen regeln.
 
 (3) Sofern eine Freigabe radioaktiver Stoffe oder eine Entlassung radioaktiver Stoffe natürlichen Ursprungs nach einer auf Grund von Absatz 1 Nr. 1 erlassenen Rechtsverordnung die Beseitigung nach den Vorschriften des Kreislaufwirtschaftsgesetzes oder den auf dessen Grundlage oder auf der Grundlage des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen vorsieht, dürfen diese Stoffe nach den genannten Vorschriften nicht wieder verwendet oder verwertet werden.
 
@@ -814,7 +814,7 @@ Im Genehmigungs- und Aufsichtsverfahren nach diesem Gesetz und den auf Grund die
 
 3. für die staatliche Verwahrung von Kernbrennstoffen nach § 5 Abs. 1;
 
-4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 23 zuständig ist, des Luftfahrt-Bundesamtes, soweit es nach § 23b zuständig ist, und des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 23d zuständig ist;
+4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 23d zuständig ist;
 
 4a. für Entscheidungen nach §§ 9d bis 9g;
 
@@ -874,7 +874,7 @@ Zur Ablösung der nach den §§ 21a und 21b zu erhebenden Kosten, Entgelte und B
 
 (1) Über Anträge auf Erteilung einer Genehmigung nach § 3 sowie über die Rücknahme oder den Widerruf einer erteilten Genehmigung entscheidet das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA). Das Gleiche gilt, soweit die auf Grund des § 11 ergehenden Rechtsverordnungen das Erfordernis von Genehmigungen und Zustimmungen sowie die Prüfung von Anzeigen für grenzüberschreitende Verbringungen vorsehen.
 
-(2) Die Überwachung von grenzüberschreitenden Verbringungen obliegt dem Bundesministerium der Finanzen oder den von ihm bestimmten Zolldienststellen. Die Zolldienststellen können
+(2) Die Zollbehörden wirken bei der Überwachung von grenzüberschreitenden Verbringungen mit. Die Zollbehörden können
 
 1. grenzüberschreitend verbrachte Sendungen mit radioaktiven Stoffen sowie deren Beförderungsmittel, Behälter, Lademittel und Verpackungsmittel zur Überwachung anhalten,
 

@@ -7,7 +7,7 @@ Auf Grund des § 21 Abs. 3 in Verbindung mit § 54 des Atomgesetzes in der Fassu
 
 # § 1 – Anwendungsbereich
 
-Die nach den §§ 23, 23a, 23b, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Die nach § 81 Satz 3, den §§ 184, 185, 186 und 189 des Strahlenschutzgesetzes zuständigen Behörden erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung.
+Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Die nach § 81 Satz 3, den §§ 184, 185, 186, 187, 189 und 190 des Strahlenschutzgesetzes zuständigen Behörden erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung.
 
 # § 2 – Höhe der Gebühren
 
@@ -37,13 +37,17 @@ In den Fällen des Satzes 1 Nummer 1 und 7 kann für eine Teilgenehmigung bzw. e
 
 (2) Die Gebühr beträgt
 
-1. für Aufgaben der Qualitätssicherung, zur Verfahrensentwicklung für Probenahme, Analyse und Messung sowie zur Behandlung der Daten durch Verwaltungsbehörden des Bundes nach § 81 Satz 3 des Strahlenschutzgesetzes 50 Euro bis 25 000 Euro;
+1. für Aufgaben der Qualitätssicherung, zur Verfahrensentwicklung für Probenahme, Analyse und Messung sowie zur Behandlung der Daten durch Verwaltungsbehörden des Bundes nach § 81 Satz 3 des Strahlenschutzgesetzes 50 Euro bis 50 000 Euro;
 
 2. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1 bis 8 und Absatz 2 Nummer 5 und 6 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
 3. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 186 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
 
-4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro.
+4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
+
+5. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen der Physikalisch-Technischen Bundesanstalt, soweit sie nach § 187 Absatz 1 Nummer 1 oder 2 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 50 000 Euro;
+
+6. für Entscheidungen des Eisenbahn-Bundesamtes über Anträge nach § 27 Absatz 1 des Strahlenschutzgesetzes, soweit es nach § 190 Satz 1 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 25 000 Euro.
 
 # § 3 – Gebührenbemessung
 

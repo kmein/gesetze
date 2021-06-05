@@ -141,7 +141,7 @@ Zu den Tätigkeiten nach Satz 1 Nummer 1 bis 10 zählen auch die Beschäftigung 
 
 (1) Abfälle: Alle Stoffe und Gegenstände, die Abfälle im Sinne des § 3 Absatz 1 des Kreislaufwirtschaftsgesetzes sind, einschließlich der Abfälle, die nach § 2 Absatz 2 Nummer 1 bis 5 oder 7 bis 15 des Kreislaufwirtschaftsgesetzes vom Geltungsbereich des Kreislaufwirtschaftsgesetzes ausgenommen sind. Keine Abfälle im Sinne dieses Gesetzes sind Reststoffe und Anlagenteile, die nach § 9a Absatz 1 des Atomgesetzes schadlos zu verwerten oder geordnet zu beseitigen sind, sowie andere den Bestimmungen des Standortauswahlgesetzes oder des Atomgesetzes unterliegende radioaktive Abfälle, Rückstände und sonstige radioaktive Stoffe.
 
-(2) Anlagen zur Erzeugung ionisierender Strahlung: Vorrichtungen oder Geräte, die geeignet sind, Teilchen- oder Photonenstrahlung mit einer Teilchen- oder Photonengrenzenergie von mindestens 5 Kiloelektronenvolt gewollt oder ungewollt zu erzeugen, insbesondere Elektronenbeschleuniger, Ionenbeschleuniger, Plasmaanlagen. Eine Anlage zur Erzeugung ionisierender Strahlung umfasst im Zusammenhang mit der Anwendung am Menschen auch Anwendungsgeräte, Zusatzgeräte und Zubehör, die erforderliche Software und die Vorrichtungen zur Überprüfung und Beurteilung der unmittelbaren Ergebnisse der Anwendung. Keine Anlagen zur Erzeugung ionisierender Strahlung sind Röntgeneinrichtungen, Störstrahler, kerntechnische Anlagen und Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes.
+(2) Anlagen zur Erzeugung ionisierender Strahlung: Vorrichtungen oder Geräte, die geeignet sind, Teilchen- oder Photonenstrahlung mit einer Teilchen- oder Photonenenergie von mindestens 5 Kiloelektronenvolt gewollt oder ungewollt zu erzeugen, insbesondere Elektronenbeschleuniger, Ionenbeschleuniger, Plasmaanlagen, Laseranlagen. Eine Anlage zur Erzeugung ionisierender Strahlung umfasst im Zusammenhang mit der Anwendung am Menschen auch Anwendungsgeräte, Zusatzgeräte und Zubehör, die erforderliche Software und die Vorrichtungen zur Überprüfung und Beurteilung der unmittelbaren Ergebnisse der Anwendung. Keine Anlagen zur Erzeugung ionisierender Strahlung sind Röntgeneinrichtungen, Störstrahler, kerntechnische Anlagen und Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz des Atomgesetzes.
 
 (3) Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen: Technische Durchführung
 
@@ -154,6 +154,8 @@ Zu den Tätigkeiten nach Satz 1 Nummer 1 bis 10 zählen auch die Beschäftigung 
 (5) Aufenthaltsraum: Innenraum, der zum nicht nur vorübergehenden Aufenthalt von Einzelpersonen der Bevölkerung bestimmt ist, zum Beispiel in einer Schule, einem Krankenhaus, einem Kindergarten oder zum Wohnen.
 
 (6) Bauprodukte: Baustoffe, Bausätze, Bauteile und Anlagen, die hergestellt werden, um dauerhaft als Wand-, Boden- oder Deckenkonstruktionen, einschließlich deren Bekleidungen, von Aufenthaltsräumen in Gebäuden eingebaut zu werden. Keine Bauprodukte sind kleinflächig und kleinvolumig verwendete Fertigprodukte wie Flickmörtel und Verfugungen.
+
+(6a) Beförderung sonstiger radioaktiver Stoffe: Vorgang der Ortsveränderung sonstiger radioaktiver Stoffe auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen, einschließlich des zeitweiligen Aufenthalts im Verlauf der Ortsveränderung, bei dem die sonstigen radioaktiven Stoffe für den Wechsel der Beförderungsart oder des Beförderungsmittels oder aus sonstigen transportbedingten Gründen zeitweilig abgestellt werden.
 
 (7) Beruflich exponierte Person: Eine Person, die eine berufliche Exposition aus Tätigkeiten erhalten kann, die
 
@@ -251,7 +253,7 @@ Eine Röntgeneinrichtung umfasst auch Anwendungsgeräte, Zusatzgeräte und Zubeh
 
 (34) Offene radioaktive Stoffe: Alle radioaktiven Stoffe mit Ausnahme der umschlossenen radioaktiven Stoffe.
 
-(35) Umschlossene radioaktive Stoffe: Radioaktive Stoffe, die ständig von einer allseitig dichten, festen, nicht zerstörungsfrei zu öffnenden, inaktiven Hülle umschlossen oder in festen inaktiven Stoffen ständig so eingebettet sind, dass bei üblicher betriebsmäßiger Beanspruchung ein Austritt radioaktiver Stoffe mit Sicherheit verhindert wird; eine Abmessung des umschlossenen radioaktiven Stoffes muss mindestens 0,2 Zentimeter betragen.
+(35) Umschlossene radioaktive Stoffe: Radioaktive Stoffe, die ständig von einer allseitig dichten, festen, inaktiven Hülle umschlossen oder in festen inaktiven Stoffen ständig so eingebettet sind, dass bei üblicher betriebsmäßiger Beanspruchung ein Austritt radioaktiver Stoffe mit Sicherheit verhindert wird; eine Abmessung des umschlossenen radioaktiven Stoffes muss mindestens 0,2 Zentimeter betragen. Keine umschlossenen radioaktiven Stoffe sind radioaktive Stoffe, die auf Grund ihrer Radioaktivität genutzt werden und deren Hülle zerstörungsfrei zu öffnen ist.
 
 (36) Hochradioaktive Strahlenquellen: Umschlossene radioaktive Stoffe, deren Aktivität den in einer Rechtsverordnung nach § 24 Satz 1 Nummer 11 festgelegten Werten entspricht oder diese überschreitet. Keine hochradioaktiven Strahlenquellen sind Brennelemente und verfestigte hochradioaktive Spaltproduktlösungen aus der Aufarbeitung von Kernbrennstoffen sowie ständig dichte und feste Transport- oder Lagerbehälter mit radioaktiven Stoffen.
 
@@ -291,7 +293,7 @@ Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund a
 
 # § 7 – Verfahren zur Prüfung der Rechtfertigung einer Tätigkeitsart; Verordnungsermächtigung
 
-(1) Liegen der zuständigen Behörde in einem Genehmigungs- oder Anzeigeverfahren nach den §§ 10, 12, 17, 19 Absatz 1 Satz 1 Nummer 1, § 56 oder § 59 Anhaltspunkte vor, die Zweifel an der Rechtfertigung der Tätigkeitsart im Sinne des § 6 Absatz 1 und 2 aufwerfen, so übermittelt die Behörde, bei Landesbehörden über die für den Strahlenschutz zuständige oberste Landesbehörde, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die Unterlagen, die die Anhaltspunkte darlegen. Erfordern die Anhaltspunkte eine weitere Untersuchung, so veranlasst dieses eine Prüfung durch das Bundesamt für Strahlenschutz. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann auch außerhalb laufender Genehmigungs- und Anzeigeverfahren in entsprechender Anwendung von Satz 2 für Tätigkeitsarten eine Prüfung durch das Bundesamt für Strahlenschutz veranlassen, sofern es aus Sicht des Strahlenschutzes geboten ist.
+(1) Liegen der zuständigen Behörde in einem Genehmigungs- oder Anzeigeverfahren nach den §§ 10, 12, 17, 19 Absatz 1 Satz 1 Nummer 1, § 56 oder § 59 Anhaltspunkte vor, die Zweifel an der Rechtfertigung der Tätigkeitsart im Sinne des § 6 Absatz 1 oder 2 aufwerfen, so übermittelt die Behörde, bei Landesbehörden über die für den Strahlenschutz zuständige oberste Landesbehörde, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die Unterlagen, die die Anhaltspunkte darlegen. Erfordern die Anhaltspunkte eine weitere Untersuchung, so veranlasst dieses eine Prüfung durch das Bundesamt für Strahlenschutz. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann auch außerhalb laufender Genehmigungs- und Anzeigeverfahren in entsprechender Anwendung von Satz 2 für Tätigkeitsarten eine Prüfung durch das Bundesamt für Strahlenschutz veranlassen, sofern es aus Sicht des Strahlenschutzes geboten ist.
 
 (2) Das Bundesamt für Strahlenschutz prüft innerhalb von zwölf Monaten nach Eingang der Unterlagen die Rechtfertigung der Tätigkeitsart im Sinne des § 6 Absatz 1 und 2 und veröffentlicht einen wissenschaftlichen Bericht. In dem Bericht sind Betriebs- und Geschäftsgeheimnisse und personenbezogene Daten unkenntlich zu machen.
 
@@ -319,7 +321,7 @@ Wer eine Tätigkeit plant, ausübt oder ausüben lässt, ist verpflichtet, dafü
 
 # § 10 – Genehmigungsbedürftige Errichtung von Anlagen zur Erzeugung ionisierender Strahlung
 
-Wer eine Anlage zur Erzeugung ionisierender Strahlung der folgenden Art errichtet, bedarf der Genehmigung:
+(1) Wer eine Anlage zur Erzeugung ionisierender Strahlung der folgenden Art errichtet, bedarf der Genehmigung:
 
 1. Beschleuniger- oder Plasmaanlage, in der je Sekunde mehr als 10¹² Neutronen erzeugt werden können,
 
@@ -331,11 +333,13 @@ Wer eine Anlage zur Erzeugung ionisierender Strahlung der folgenden Art errichte
 
 5. Ionenbeschleuniger mit einer Endenergie der Ionen von mehr als 150 Megaelektronenvolt je Nukleon.
 
+(2) Einer Genehmigung bedarf auch, wer die genehmigungsbedürftige Errichtung einer der in Absatz 1 genannten Anlagen wesentlich ändert.
+
 # § 11 – Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
 
 (1) Die zuständige Behörde hat die Genehmigung für die Errichtung einer Anlage nach § 10 zu erteilen, wenn
 
-1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Antragstellers, seines gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben,
+1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Antragstellers, seines gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben,
 
 2. gewährleistet ist, dass für die Errichtung der Anlage ein Strahlenschutzbeauftragter bestellt wird, der die erforderliche Fachkunde im Strahlenschutz besitzt und der die Anlage entsprechend der Genehmigung errichten oder errichten lassen kann; es dürfen keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Strahlenschutzbeauftragten ergeben,
 
@@ -355,7 +359,7 @@ Satz 1 Nummer 2 ist nicht anzuwenden, wenn eine der in Satz 1 Nummer 1 genannten
 
 (1) Einer Genehmigung bedarf, wer
 
-1. eine Anlage zur Erzeugung ionisierender Strahlung betreibt; ausgenommen sind Anlagen, für deren Betrieb eine Anzeige nach § 17 ausreichend ist oder die nach der Rechtsverordnung nach § 24 Satz 1 Nummer 1 genehmigungs- und anzeigefrei betrieben werden dürfen,
+1. eine Anlage zur Erzeugung ionisierender Strahlung betreibt; ausgenommen sind Anlagen, für deren Betrieb, auch unter Berücksichtigung der Genehmigungsbedürftigkeit nach § 17 Absatz 1 Satz 3, eine Anzeige nach § 17 Absatz 1 Satz 1 ausreichend ist oder die nach der Rechtsverordnung nach § 24 Satz 1 Nummer 1 genehmigungs- und anzeigefrei betrieben werden dürfen,
 
 2. ionisierende Strahlung aus einer Bestrahlungsvorrichtung, die Bestandteil einer nach § 7 Absatz 1 Satz 1 des Atomgesetzes genehmigten Anlage zur Spaltung von Kernbrennstoffen ist, im Zusammenhang mit der Anwendung am Menschen oder mit der Anwendung am Tier in der Tierheilkunde verwendet,
 
@@ -387,7 +391,7 @@ Satz 1 gilt entsprechend für Tätigkeiten, die sowohl genehmigungsbedürftig al
 
 (1) Die zuständige Behörde hat eine Genehmigung für Tätigkeiten nach § 12 Absatz 1 zu erteilen, wenn
 
-1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Antragstellers, seines gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben und, falls ein Strahlenschutzbeauftragter nicht notwendig ist, eine der genannten natürlichen Personen die erforderliche Fachkunde im Strahlenschutz besitzt,
+1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Antragstellers, seines gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben und, falls ein Strahlenschutzbeauftragter nicht notwendig ist, eine der genannten natürlichen Personen die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 2. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der Strahlenschutzbeauftragten ergeben und diese die erforderliche Fachkunde im Strahlenschutz besitzen,
 
@@ -483,41 +487,57 @@ Einem Genehmigungsantrag für eine Tätigkeit nach § 12 Absatz 1 sind die zur P
 
 # § 17 – Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlung
 
-(1) Wer beabsichtigt,
+(1) Wer beabsichtigt, eine der folgenden Anlagen zur Erzeugung ionisierender Strahlung zu betreiben, hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigten Beginn schriftlich anzuzeigen:
 
-1. eine Plasmaanlage zu betreiben, bei deren Betrieb die Ortsdosisleistung von 10 Mikrosievert durch Stunde im Abstand von 0,1 Metern von den Wandungen des Bereichs, der aus elektrotechnischen Gründen während des Betriebs unzugänglich ist, nicht überschritten wird, oder
+1. eine Plasmaanlage, bei deren Betrieb die Ortsdosisleistung von 10 Mikrosievert durch Stunde im Abstand von 0,1 Metern von den Wandungen des Bereichs, der aus elektrotechnischen Gründen während des Betriebs unzugänglich ist, nicht überschritten wird,
 
-2. einen Ionenbeschleuniger zu betreiben, bei dessen Betrieb die Ortsdosisleistung von 10 Mikrosievert durch Stunde im Abstand von 0,1 Metern von der berührbaren Oberfläche nicht überschritten wird,
+2. einen Ionenbeschleuniger, bei dessen Betrieb die Ortsdosisleistung von 10 Mikrosievert durch Stunde im Abstand von 0,1 Metern von der berührbaren Oberfläche nicht überschritten wird,
 
-hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigten Beginn schriftlich anzuzeigen. Nach Ablauf dieser Frist darf der Anzeigende die Anlage zur Erzeugung ionisierender Strahlung betreiben, es sei denn, die zuständige Behörde hat das Verfahren nach § 18 Absatz 2 ausgesetzt oder den Betrieb untersagt.
+3. eine Laseranlage, bei deren Betrieb die Ortsdosisleistung von 10 Mikrosievert durch Stunde im Abstand von 0,1 Metern von der berührbaren Oberfläche nicht überschritten wird, oder
 
-(2) Der Anzeige sind die folgenden Unterlagen beizufügen:
+4. eine nach § 45 Absatz 1 Nummer 7 bauartzugelassene Vollschutzanlage.
 
-1. Nachweis, dass die Anlage den Anforderungen des Absatzes 1 Satz 1 Nummer 1 oder 2 entspricht,
+Nach Ablauf dieser Frist darf der Anzeigende die Anlage zur Erzeugung ionisierender Strahlung betreiben, es sei denn, die zuständige Behörde hat das Verfahren nach § 18 Absatz 2 ausgesetzt oder den Betrieb untersagt. Abweichend von Satz 1 bedarf einer Genehmigung nach § 12 Absatz 1 Nummer 1, wer beabsichtigt, eine der in Satz 1 genannten Anlagen zur Erzeugung ionisierender Strahlung im Zusammenhang mit der Anwendung am Menschen zu betreiben.
+
+(2) Der Anzeige nach Absatz 1 Satz 1 Nummer 1, 2 oder 3 sind die folgenden Unterlagen beizufügen:
+
+1. Nachweis, dass die Anlage den Anforderungen des Absatzes 1 Satz 1 Nummer 1, 2 oder 3 entspricht,
 
 2. Nachweis, dass die für eine sichere Ausführung des Betriebs notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-3. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigte Person die erforderliche Fachkunde im Strahlenschutz besitzt.
+3. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigte Person die erforderliche Fachkunde im Strahlenschutz besitzt.
 
-(3) Bei einer wesentlichen Änderung einer Anlage nach Absatz 1 oder ihres Betriebs sind die Absätze 1 und 2 entsprechend anzuwenden.
+(3) Der Anzeige nach Absatz 1 Satz 1 Nummer 4 sind die folgenden Unterlagen beizufügen:
+
+1. Abdruck des Zulassungsscheins nach § 47 für die Bauart der Vollschutzanlage,
+
+2. Nachweis über die auf Grund einer Rechtsverordnung nach § 49 Nummer 4 durchgeführte Qualitätskontrolle mit dem Ergebnis, dass die Vollschutzanlage den für den Strahlenschutz wesentlichen Merkmalen der Bauartzulassung entspricht.
+
+(4) Bei einer wesentlichen Änderung einer Anlage nach Absatz 1 Satz 1 Nummer 1, 2 oder 3 oder ihres Betriebs sind die Absätze 1 und 2 entsprechend anzuwenden. Bei einer wesentlichen Änderung des Betriebs einer Anlage nach Absatz 1 Satz 1 Nummer 4 sind die Absätze 1 und 3 entsprechend anzuwenden.
 
 # § 18 – Prüfung des angezeigten Betriebs einer Anlage zur Erzeugung ionisierender Strahlung
 
-(1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 17 Absatz 2 erbracht sind, darf der Anzeigende die Anlage zur Erzeugung ionisierender Strahlung bereits mit Erhalt der Mitteilung betreiben.
+(1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 17 Absatz 2 oder 3 erbracht sind, darf der Anzeigende die Anlage zur Erzeugung ionisierender Strahlung bereits mit Erhalt der Mitteilung betreiben.
 
 (2) Leitet die zuständige Behörde innerhalb der Frist nach Absatz 1 ein Verfahren zur Prüfung der Rechtfertigung nach § 7 ein, so setzt sie das Verfahren zur Prüfung der Anzeige für die Dauer des Verfahrens zur Prüfung der Rechtfertigung aus.
 
-(3) Die zuständige Behörde kann den Betrieb der Anlage zur Erzeugung ionisierender Strahlung oder die Änderung des Betriebs untersagen, wenn
+(3) Die zuständige Behörde kann den Betrieb der Anlage zur Erzeugung ionisierender Strahlung nach § 17 Absatz 1 Satz 1 Nummer 1, 2 oder 3 oder die Änderung des Betriebs untersagen, wenn
 
 1. eine der nach § 17 Absatz 2 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist; dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
 
 3. es sich um eine nicht gerechtfertigte Tätigkeitsart nach einer Rechtsverordnung nach § 6 Absatz 3 handelt oder wenn unter Berücksichtigung eines nach § 7 Absatz 2 veröffentlichten Berichts erhebliche Zweifel an der Rechtfertigung der Tätigkeitsart bestehen,
 
 4. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird oder
 
 5. dies wegen einer erheblichen Gefährdung der Beschäftigten, Dritter oder der Allgemeinheit erforderlich ist.
+
+(4) Die zuständige Behörde kann den Betrieb der Vollschutzanlage nach § 17 Absatz 1 Satz 1 Nummer 4 untersagen, wenn
+
+1. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Strahlenschutzverantwortlichen ergeben, oder
+
+2. der Anzeige nicht die nach § 17 Absatz 3 geforderten Unterlagen beigefügt wurden.
 
 # § 19 – Genehmigungs- und anzeigebedürftiger Betrieb von Röntgeneinrichtungen
 
@@ -527,11 +547,11 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 a) deren Röntgenstrahler nach § 45 Absatz 1 Nummer 2 bauartzugelassen ist,
 
-b) deren Herstellung und erstmaliges Inverkehrbringen unter den Anwendungsbereich des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung fällt,
+b) deren Herstellung und erstmaliges Inverkehrbringen unter den Anwendungsbereich des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung fällt,
 
-c) deren Herstellung und Inverkehrbringen unter den Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165) fällt,
+c) deren Herstellung und Inverkehrbringen unter den Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung fällt,
 
-d) die nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung erstmalig in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird oder
+d) die nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung erstmalig in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird oder
 
 e) die nach den Vorschriften der Verordnung (EU) 2017/745 in Verkehr gebracht worden ist und nicht im Zusammenhang mit medizinischen Expositionen eingesetzt wird,
 
@@ -551,7 +571,7 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 5. außerhalb eines Röntgenraumes betreibt, es sei denn, der Zustand der zu untersuchenden Person oder des zu untersuchenden Tieres oder dessen Größe erfordert im Einzelfall zwingend, dass die Röntgeneinrichtung außerhalb des Röntgenraumes betrieben wird,
 
-6. in einem Röntgenraum zu betreiben beabsichtigt, der in einem Prüfbericht eines behördlich bestimmten Sachverständigen oder in einer Genehmigung für eine andere Röntgeneinrichtung bezeichnet ist, oder
+6. in einem Röntgenraum betreibt, der nicht Gegenstand einer Prüfung durch einen behördlich bestimmten Sachverständigen für diese Röntgeneinrichtung war, oder
 
 7. in einem mobilen Röntgenraum betreibt.
 
@@ -561,7 +581,7 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 a) die Röntgeneinrichtung und der vorgesehene Betrieb beschrieben sind,
 
-b) festgestellt ist, dass der Röntgenstrahler bauartzugelassen oder die Röntgeneinrichtung nach den Vorschriften des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung erstmalig in Verkehr oder nach den Vorschriften der Verordnung (EU) 2017/745 in Verkehr gebracht worden ist,
+b) festgestellt ist, dass der Röntgenstrahler bauartzugelassen oder die Röntgeneinrichtung als Medizinprodukt nach dem Medizinproduktegesetz in der bis einschließlich 25. Mai 2021 geltenden Fassung oder nach den Vorschriften der Verordnung (EU) 2017/745 gekennzeichnet ist,
 
 c) festgestellt ist, dass für den vorgesehenen Betrieb die Ausrüstungen vorhanden und die Maßnahmen getroffen sind, die nach dem Stand der Technik erforderlich sind, damit die Schutzvorschriften eingehalten werden,
 
@@ -571,29 +591,27 @@ e) bei einer Röntgeneinrichtung zur Untersuchung, deren Betrieb gemäß Absatz 
 
 2. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe a ein Abdruck des Zulassungsscheins nach § 47 für die Bauart des Röntgenstrahlers,
 
-3. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b oder d ein Abdruck der EG-Konformitätserklärung gemäß Artikel 11 Absatz 3 in Verbindung mit Anhang II, IV, V oder VI der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist,
+3. der Nachweis, dass die für den sicheren Betrieb der Röntgeneinrichtung notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-4. bei einer Röntgeneinrichtung nach Absatz 1 Satz 1 Nummer 1 Buchstabe c oder e ein Abdruck der EU-Konformitätserklärung nach Artikel 19 in Verbindung mit Anhang IV der Verordnung (EU) 2017/745,
+4. der Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
-5. der Nachweis, dass die für den sicheren Betrieb der Röntgeneinrichtung notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
+5. der Nachweis, dass die beim Betrieb der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
-6. der Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+6. bei einer Röntgeneinrichtung zur Anwendung am Menschen der Nachweis, dass die in § 14 Absatz 1 Nummer 1, 2 Buchstabe b oder c, Nummer 3 Buchstabe b und Nummer 4 genannten Voraussetzungen erfüllt sind und
 
-7. der Nachweis, dass die beim Betrieb der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
-
-8. bei einer Röntgeneinrichtung zur Anwendung am Menschen der Nachweis, dass die in § 14 Absatz 1 Nummer 1, 2 Buchstabe b oder c, Nummer 3 Buchstabe b und Nummer 4 genannten Voraussetzungen erfüllt sind und
-
-9. bei einer Röntgeneinrichtung zur Anwendung am Tier in der Tierheilkunde der Nachweis, dass die in § 15 genannten Voraussetzungen erfüllt sind.
+7. bei einer Röntgeneinrichtung zur Anwendung am Tier in der Tierheilkunde der Nachweis, dass die in § 15 genannten Voraussetzungen erfüllt sind.
 
 Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Nummer 1, so entscheidet auf Antrag die zuständige Behörde, ob die nach Satz 1 Nummer 1 nachzuweisenden Anforderungen erfüllt sind. Sie kann in diesem Fall Auflagen für den Betrieb vorsehen.
 
 (4) Der Anzeige nach Absatz 1 Satz 1 Nummer 2 sind die folgenden Unterlagen beizufügen:
 
-1. der Abdruck des Zulassungsscheins nach § 47 für die Bauart der Röntgeneinrichtung und
+1. der Abdruck des Zulassungsscheins nach § 47 für die Bauart der Röntgeneinrichtung,
 
-2. bei einem Basis- oder Hochschutzgerät oder einer Schulröntgeneinrichtung die Nachweise nach Absatz 3 Satz 1 Nummer 4 bis 6.
+2. der Nachweis über die auf Grund einer Rechtsverordnung nach § 49 Nummer 4 durchgeführte Qualitätskontrolle mit dem Ergebnis, dass die Röntgeneinrichtung den für den Strahlenschutz wesentlichen Merkmalen der Bauartzulassung entspricht, und
 
-(5) Bei einer wesentlichen Änderung des Betriebs einer nach Absatz 1 angezeigten Röntgeneinrichtung sind die Absätze 1 bis 4 entsprechend anzuwenden.
+3. bei einem Basis- oder Hochschutzgerät oder einer Schulröntgeneinrichtung die Nachweise nach Absatz 3 Satz 1 Nummer 4 bis 6.
+
+(5) Bei einer wesentlichen Änderung des Betriebs einer nach Absatz 1 Satz 1 Nummer 1 angezeigten Röntgeneinrichtung sind die Absätze 1 bis 3 entsprechend anzuwenden. Bei einer wesentlichen Änderung des Betriebs einer nach Absatz 1 Satz 1 Nummer 2 angezeigten Röntgeneinrichtung sind die Absätze 1 und 4 entsprechend anzuwenden.
 
 # § 20 – Prüfung des angezeigten Betriebs einer Röntgeneinrichtung
 
@@ -605,7 +623,7 @@ Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Numm
 
 1. eine der nach § 19 Absatz 3 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist; dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
 
 3. Tatsachen vorliegen, aus denen sich Bedenken ergeben, ob das für die sichere Ausführung der Tätigkeit notwendige Personal vorhanden ist,
 
@@ -619,7 +637,11 @@ Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Numm
 
 (4) Die zuständige Behörde kann den Betrieb eines Basis- oder Hochschutzgerätes oder einer Schulröntgeneinrichtung nach § 19 Absatz 1 Satz 1 Nummer 2 oder die Änderung des Betriebs nach § 19 Absatz 5 untersagen, wenn eine der nach § 19 Absatz 4 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist. Dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird. Im Übrigen gilt Absatz 3 Nummer 2, 4 und 7 entsprechend.
 
-(5) Die zuständige Behörde kann den Betrieb eines Vollschutzgerätes nach § 19 Absatz 1 Satz 1 Nummer 2 untersagen, wenn Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Strahlenschutzverantwortlichen ergeben oder wenn der Anzeige nicht der nach § 19 Absatz 4 Nummer 1 geforderte Zulassungsschein beigefügt wurde.
+(5) Die zuständige Behörde kann den Betrieb eines Vollschutzgerätes nach § 19 Absatz 1 Satz 1 Nummer 2 untersagen, wenn
+
+1. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Strahlenschutzverantwortlichen ergeben, oder
+
+2. der Anzeige nicht die nach § 19 Absatz 4 Nummer 1 und 2 geforderten Unterlagen beigefügt wurden.
 
 # § 21 – Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs
 
@@ -637,7 +659,7 @@ hat dies der zuständigen Behörde vor Beginn der Tätigkeit schriftlich anzuzei
 
 (2) Der Anzeige sind die folgenden Unterlagen beizufügen:
 
-1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, dass die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, dass die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 2. Nachweis, dass die bei der Prüfung, Wartung, Erprobung oder Instandsetzung der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
@@ -647,7 +669,7 @@ hat dies der zuständigen Behörde vor Beginn der Tätigkeit schriftlich anzuzei
 
 (3) Die zuständige Behörde kann Tätigkeiten nach Absatz 1 untersagen, wenn
 
-1. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
+1. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
 
 2. eine der nach Absatz 2 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist oder
 
@@ -717,7 +739,7 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 (2) Der Anzeige sind die folgenden Unterlagen beizufügen:
 
-1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 2. Nachweis, dass die beim Betrieb der Röntgeneinrichtung sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen und
 
@@ -727,13 +749,13 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 1. eine der Anforderungen nach Absatz 2 nicht oder nicht mehr erfüllt ist,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben.
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben.
 
-# § 27 – Genehmigungsbedürftige Beförderung
+# § 27 – Genehmigungsbedürftige Beförderung sonstiger radioaktiver Stoffe
 
-(1) Wer sonstige radioaktive Stoffe auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen befördert, bedarf der Genehmigung. Die Genehmigung kann dem Absender oder Beförderer im Sinne der Vorschriften über die Beförderung gefährlicher Güter, dem Abgebenden oder demjenigen erteilt werden, der es übernimmt, die Versendung oder Beförderung zu besorgen. Sie ist für den einzelnen Beförderungsvorgang zu erteilen; sie kann jedoch einem Antragsteller allgemein für längstens drei Jahre für eine Vielzahl von Beförderungen erteilt werden. Die Genehmigung erstreckt sich auch auf die Teilstrecken eines Beförderungsvorgangs, der nicht auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen stattfindet, soweit für diese Teilstrecken keine Genehmigung für den Umgang mit radioaktiven Stoffen vorliegt.
+(1) Wer sonstige radioaktive Stoffe befördert, bedarf der Genehmigung. Die Genehmigung kann dem Absender oder Beförderer im Sinne der Vorschriften über die Beförderung gefährlicher Güter, dem Abgebenden oder demjenigen erteilt werden, der es übernimmt, die Versendung oder Beförderung zu besorgen. Sie ist für den einzelnen Beförderungsvorgang zu erteilen; sie kann jedoch einem Antragsteller allgemein für längstens drei Jahre für eine Vielzahl von Beförderungen erteilt werden. Die Genehmigung erstreckt sich auch auf die Teilstrecken eines Beförderungsvorgangs, der nicht auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen stattfindet, soweit für diese Teilstrecken keine Genehmigung für den Umgang mit radioaktiven Stoffen vorliegt.
 
-(2) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, soweit eine Genehmigung nach § 4 Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 3 des Atomgesetzes auf eine genehmigungsbedürftige Beförderung radioaktiver Stoffe nach Absatz 1 erstreckt.
+(2) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, soweit eine Genehmigung nach § 4 Absatz 1 des Atomgesetzes vorliegt, die sich gemäß § 10a Absatz 3 des Atomgesetzes auf eine genehmigungsbedürftige Beförderung sonstiger radioaktiver Stoffe nach Absatz 1 erstreckt.
 
 (3) Bei der Beförderung ist eine Ausfertigung oder eine amtlich beglaubigte Abschrift des Genehmigungsbescheides mitzuführen. Die Ausfertigung oder Abschrift des Genehmigungsbescheides ist der für die Aufsicht zuständigen Behörde oder den von ihr Beauftragten auf Verlangen vorzuzeigen.
 
@@ -765,7 +787,7 @@ Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des § 186 Abs
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 27 Absatz 1 zu erteilen, wenn
 
-1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Abgebenden, des Absenders, des Beförderers und der die Versendung und Beförderung besorgenden Personen, ihrer gesetzlichen Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben, und, falls ein Strahlenschutzbeauftragter nicht notwendig ist, eine der genannten natürlichen Personen die erforderliche Fachkunde im Strahlenschutz besitzt,
+1. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Abgebenden, des Absenders, des Beförderers und der die Versendung und Beförderung besorgenden Personen, ihrer gesetzlichen Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten ergeben, und, falls ein Strahlenschutzbeauftragter nicht notwendig ist, eine der genannten natürlichen Personen die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 2. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der Strahlenschutzbeauftragten ergeben und wenn diese die erforderliche Fachkunde im Strahlenschutz besitzen,
 
@@ -773,7 +795,7 @@ Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des § 186 Abs
 
 4. gewährleistet ist, dass die Beförderung durch Personen ausgeführt wird, die das für die beabsichtigte Art der Beförderung notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
-5. gewährleistet ist, dass die radioaktiven Stoffe unter Beachtung der für den jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter befördert werden oder, soweit solche Vorschriften fehlen, auf andere Weise die nach dem Stand von Wissenschaft und Technik erforderliche Vorsorge gegen Schäden durch die Beförderung der radioaktiven Stoffe getroffen ist,
+5. gewährleistet ist, dass die sonstigen radioaktiven Stoffe unter Beachtung der für den jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter befördert werden oder, soweit solche Vorschriften fehlen, auf andere Weise die nach dem Stand von Wissenschaft und Technik erforderliche Vorsorge gegen Schäden durch die Beförderung der sonstigen radioaktiven Stoffe getroffen ist,
 
 6. die erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen getroffen ist bei der Beförderung
 
@@ -781,7 +803,7 @@ a) von sonstigen radioaktiven Stoffen nach § 3 Absatz 1, deren Aktivität je Ve
 
 b) von Kernbrennstoffen nach § 3 Absatz 3, deren Aktivität je Versandstück das 10⁵fache der in einer nach § 24 Satz 1 Nummer 10 erlassenen Rechtsverordnung festgelegten Freigrenzen der Aktivität oder 10¹⁵ Becquerel überschreitet,
 
-7. der erforderliche Schutz gegen Störmaßnahmen oder sonstige Einwirkung Dritter gewährleistet ist,
+7. der erforderliche Schutz gegen Störmaßnahmen oder sonstige Einwirkungen Dritter gewährleistet ist,
 
 8. gewährleistet ist, dass bei der Beförderung von sonstigen radioaktiven Stoffen mit einer Aktivität von mehr als dem 10¹⁰fachen der in einer nach § 24 Satz 1 Nummer 10 erlassenen Rechtsverordnung festgelegten Freigrenzen der Aktivität nach Maßgabe einer nach § 82 Absatz 1 Nummer 1 erlassenen Rechtsverordnung das erforderliche Personal und die erforderlichen Hilfsmittel vorgehalten werden, um Gefahren einzudämmen und zu beseitigen, die in Zusammenhang mit der Beförderung durch Störfälle oder Notfälle entstehen können,
 
@@ -959,7 +981,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 3. zu bestimmen, welche Bewertungskriterien das Bundesamt für Strahlenschutz im Verfahren nach Absatz 1 besonders zu berücksichtigen hat,
 
-4. zu regeln, dass die zuständigen Behörden dem Bundesamt für Strahlenschutz Informationen über erteilte Genehmigungen für Konsumgüter nach § 40 oder § 42 sowie Bauartzulassungen nach § 45 Absatz 1 Nummer 1 oder 3 bis 6 übermitteln und auf welche Weise das Bundesamt für Strahlenschutz eine Liste mit den Angaben, für welche Tätigkeitsarten solche Genehmigungen oder Bauartzulassungen bereits erteilt wurden, veröffentlicht,
+4. zu regeln, dass die zuständigen Behörden dem Bundesamt für Strahlenschutz Informationen über erteilte Genehmigungen für Konsumgüter nach § 40 oder § 42 sowie Bauartzulassungen nach § 45 Absatz 1 Nummer 1, 3, 4, 5, 6 oder 7 übermitteln und auf welche Weise das Bundesamt für Strahlenschutz eine Liste mit den Angaben, für welche Tätigkeitsarten solche Genehmigungen oder Bauartzulassungen bereits erteilt wurden, veröffentlicht,
 
 5. zu regeln, auf welche Weise das Bundesamt für Strahlenschutz die Stellungnahme über die Rechtfertigung der Tätigkeitsart veröffentlicht und
 
@@ -997,7 +1019,7 @@ Die grenzüberschreitende Verbringung nach § 42 Absatz 1 von Produkten nach Sat
 
 # § 40 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung
 
-(1) Wer bei der Herstellung von Konsumgütern, von Arzneimitteln im Sinne des § 2 des Arzneimittelgesetzes, von Schädlingsbekämpfungsmitteln, von Pflanzenschutzmitteln im Sinne des § 2 des Pflanzenschutzgesetzes oder von Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes, die im Geltungsbereich dieses Gesetzes erworben oder an andere abgegeben werden sollen, radioaktive Stoffe zusetzt, bedarf der Genehmigung. Satz 1 gilt entsprechend für die Aktivierung der dort genannten Produkte. § 39 bleibt unberührt.
+(1) Wer bei der Herstellung von Konsumgütern, von Arzneimitteln im Sinne des § 2 des Arzneimittelgesetzes mit Ausnahme von radioaktiven Arzneimitteln im Sinne des § 4 Absatz 8 des Arzneimittelgesetzes, von Schädlingsbekämpfungsmitteln, von Pflanzenschutzmitteln im Sinne des § 2 des Pflanzenschutzgesetzes oder von Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes, die im Geltungsbereich dieses Gesetzes erworben oder an andere abgegeben werden sollen, radioaktive Stoffe zusetzt, bedarf der Genehmigung. Satz 1 gilt entsprechend für die Aktivierung der dort genannten Produkte. § 39 bleibt unberührt.
 
 (2) Die Genehmigung nach Absatz 1 ersetzt keine Genehmigung nach § 12 Absatz 1 Nummer 1 oder 3.
 
@@ -1107,7 +1129,7 @@ Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach
 
 (1) Die Bauart folgender Vorrichtungen kann auf Antrag des Herstellers oder Verbringers der Vorrichtung zugelassen werden (bauartzugelassene Vorrichtungen):
 
-1. die Bauart einer Vorrichtung, die sonstige radioaktive Stoffe nach § 3 Absatz 1 enthält, oder einer Anlage zur Erzeugung ionisierender Strahlung oder eines Störstrahlers, wenn Strahlenschutz und Sicherheit der Vorrichtung eine genehmigungs- und anzeigefreie Verwendung nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt,
+1. die Bauart einer Vorrichtung, die sonstige radioaktive Stoffe nach § 3 Absatz 1 enthält, oder eines Störstrahlers, wenn Strahlenschutz und Sicherheit der Vorrichtung eine genehmigungs- und anzeigefreie Verwendung nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt,
 
 2. die Bauart eines Röntgenstrahlers, wenn die strahlenschutztechnischen Eigenschaften den genehmigungsfreien Betrieb einer Röntgeneinrichtung mit diesem Röntgenstrahler nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt,
 
@@ -1117,7 +1139,9 @@ Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach
 
 5. die Bauart einer Röntgeneinrichtung als Vollschutzgerät, wenn das besonders hohe Schutzniveau der Bauart den genehmigungsfreien Betrieb der Röntgeneinrichtung ohne Beaufsichtigung durch eine Person nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt, die die erforderliche Fachkunde im Strahlenschutz besitzt,
 
-6. die Bauart einer Röntgeneinrichtung als Schulröntgeneinrichtung, wenn die strahlenschutztechnische Funktion der Bauart den Betrieb der Röntgeneinrichtung in Zusammenhang mit dem Unterricht in Schulen nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt.
+6. die Bauart einer Röntgeneinrichtung als Schulröntgeneinrichtung, wenn die strahlenschutztechnische Funktion der Bauart den Betrieb der Röntgeneinrichtung in Zusammenhang mit dem Unterricht in Schulen nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt,
+
+7. die Bauart einer Anlage zur Erzeugung ionisierender Strahlung als Vollschutzanlage, wenn das besonders hohe Schutzniveau der Bauart den genehmigungsfreien Betrieb der Anlage ohne Beaufsichtigung durch eine Person, die die erforderliche Fachkunde im Strahlenschutz besitzt, nach der Rechtsverordnung nach § 49 Nummer 1 und 2 erlaubt.
 
 (2) Absatz 1 ist nicht auf Medizinprodukte oder Zubehör im Sinne der Verordnung (EU) 2017/745 anzuwenden. Absatz 1 Nummer 1 ist nicht auf Vorrichtungen anzuwenden, die hochradioaktive Strahlenquellen enthalten.
 
@@ -1127,7 +1151,7 @@ Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach
 
 (2) Der Antragsteller hat der für die Zulassung der Bauart zuständigen Behörde auf Verlangen die zur Prüfung erforderlichen Baumuster zu überlassen. Bei einer Bauart einer Vorrichtung, die radioaktive Stoffe enthält, hat die zuständige Behörde vor ihrer Entscheidung die Bundesanstalt für Materialforschung und ‑prüfung zu Fragen der Dichtheit, der Werkstoffauswahl und der Konstruktion der Geräte oder Vorrichtungen sowie der Qualitätssicherung zu beteiligen.
 
-(3) Die für die Zulassung der Bauart zuständige Behörde übermittelt den Antrag gemäß § 45 Absatz 1 Nummer 1, 3, 4, 5 oder 6 dem Bundesamt für Strahlenschutz, sofern die beabsichtigte Verwendung oder der beabsichtigte Betrieb der Vorrichtungen, Anlagen, Röntgeneinrichtungen oder Störstrahler, deren Bauartzulassung beantragt worden ist, eine neue Tätigkeitsart darstellt. Das Verfahren nach § 38 ist anzuwenden; bis zu dessen Abschluss setzt die für die Zulassung der Bauart zuständige Behörde das Verfahren der Bauartzulassung aus.
+(3) Die für die Zulassung der Bauart zuständige Behörde übermittelt den Antrag gemäß § 45 Absatz 1 Nummer 1, 3, 4, 5, 6 oder 7 dem Bundesamt für Strahlenschutz, sofern die beabsichtigte Verwendung oder der beabsichtigte Betrieb der Vorrichtungen, Anlagen, Röntgeneinrichtungen oder Störstrahler, deren Bauartzulassung beantragt worden ist, eine neue Tätigkeitsart darstellt. Das Verfahren nach § 38 ist anzuwenden; bis zu dessen Abschluss setzt die für die Zulassung der Bauart zuständige Behörde das Verfahren der Bauartzulassung aus.
 
 (4) Die zuständige Behörde darf die Bauartzulassung nur erteilen, wenn
 
@@ -1143,7 +1167,7 @@ b) gegen die für die Herstellung erforderliche technische Erfahrung des für di
 
 4. es sich bei der Verwendung oder dem Betrieb der bauartzuzulassenden Vorrichtung nicht um eine nicht gerechtfertigte Tätigkeitsart nach der Rechtsverordnung nach § 6 Absatz 3 handelt und
 
-5. das Bundesamt für Strahlenschutz nicht in einer Stellungnahme nach § 38 Absatz 1 festgestellt hat, dass die beabsichtigte Verwendung oder der Betrieb der nach § 45 Absatz 1 Nummer 1 oder 3 bis 6 bauartzuzulassenden Vorrichtung, der Anlage zur Erzeugung ionisierender Strahlung, der Röntgeneinrichtung oder des Störstrahlers eine nicht gerechtfertigte Tätigkeitsart darstellt.
+5. das Bundesamt für Strahlenschutz nicht in einer Stellungnahme nach § 38 Absatz 1 festgestellt hat, dass die beabsichtigte Verwendung oder der Betrieb der nach § 45 Absatz 1 Nummer 1, 3, 4, 5, 6 oder 7 bauartzuzulassenden Vorrichtung, der Anlage zur Erzeugung ionisierender Strahlung, der Röntgeneinrichtung oder des Störstrahlers eine nicht gerechtfertigte Tätigkeitsart darstellt.
 
 (5) Die Bauartzulassung wird auf längstens zehn Jahre befristet. Sie kann auf Antrag jeweils maximal um zehn Jahre verlängert werden.
 
@@ -1171,9 +1195,11 @@ Wird die Bauart einer Vorrichtung nach § 45 zugelassen, so erteilt die für die
 
 Eine bauartzugelassene Vorrichtung darf
 
-1. bei einer Bauart nach § 45 Absatz 1 Nummer 1 nach Maßgabe der Voraussetzungen, die die Rechtsverordnung nach § 24 Satz 1 Nummer 1 festlegt, genehmigungs- und anzeigefrei verwendet werden oder
+1. bei einer Bauart nach § 45 Absatz 1 Nummer 1 nach Maßgabe der Voraussetzungen, die die Rechtsverordnung nach § 24 Satz 1 Nummer 1 festlegt, genehmigungs- und anzeigefrei verwendet werden,
 
-2. bei einer Bauart nach § 45 Absatz 1 Nummer 2, 3, 4, 5 oder 6 nach Maßgabe der Voraussetzungen, die für den anzeigebedürftigen Betrieb von Röntgeneinrichtungen nach § 19 gelten, betrieben werden.
+2. bei einer Bauart nach § 45 Absatz 1 Nummer 2, 3, 4, 5 oder 6 nach Maßgabe der Voraussetzungen, die für den anzeigebedürftigen Betrieb von Röntgeneinrichtungen nach § 19 gelten, betrieben werden oder
+
+3. bei einer Bauart nach § 45 Absatz 1 Nummer 7 nach Maßgabe der Voraussetzungen, die für den anzeigebedürftigen Betrieb von Anlagen zur Erzeugung ionisierender Strahlung nach § 17 gelten, betrieben werden.
 
 Ist die bauartzugelassene Vorrichtung vor Ablauf der Frist der Bauartzulassung in Verkehr gebracht worden, so darf sie auch nach Ablauf dieser Frist verwendet oder betrieben werden. Satz 2 gilt nicht, wenn die für die Zulassung der Bauart zuständige Behörde bekannt gemacht hat, dass die Vorrichtung nicht weiter betrieben werden darf, weil ein ausreichender Schutz gegen Strahlenschäden nicht gewährleistet ist.
 
@@ -1199,21 +1225,23 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 # § 50 – Anzeigebedürftiger Betrieb von Luftfahrzeugen
 
-(1) Wer beabsichtigt, ein Luftfahrzeug zu betreiben, das in der deutschen Luftfahrzeugrolle nach § 3 Absatz 1 des Luftverkehrsgesetzes vom 10. Mai 2007 in der jeweils geltenden Fassung eingetragen ist, hat dies der zuständigen Behörde vier Wochen vor der beabsichtigten Aufnahme des Betriebs anzuzeigen, wenn die effektive Dosis, die das fliegende Personal durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann. Satz 1 gilt entsprechend für den Betrieb von Luftfahrzeugen, die in einem anderen Land registriert sind, wenn der Betreiber deutscher Staatsangehöriger oder eine juristische Person oder Personengesellschaft mit Sitz im Geltungsbereich dieses Gesetzes ist und fliegendes Personal einsetzt, das in einem Beschäftigungsverhältnis nach dem deutschen Arbeitsrecht steht.
+(1) Wer beabsichtigt, ein Luftfahrzeug zu betreiben, das in der deutschen Luftfahrzeugrolle nach § 3 Absatz 1 des Luftverkehrsgesetzes vom 10. Mai 2007 in der jeweils geltenden Fassung eingetragen ist, hat dies der zuständigen Behörde vier Wochen vor der beabsichtigten Aufnahme des Betriebs anzuzeigen, wenn die effektive Dosis, die das fliegende Personal während des Fluges, einschließlich der aufgewendeten Zeit für die Positionierung nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung) vom 6. April 2009 (BAnz. S. 1327), die durch Artikel 180 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann. Satz 1 gilt entsprechend für den Betrieb von Luftfahrzeugen, die in einem anderen Land registriert sind, wenn der Betreiber deutscher Staatsangehöriger oder eine juristische Person oder rechtsfähige Personengesellschaft mit Sitz im Geltungsbereich dieses Gesetzes ist und fliegendes Personal einsetzt, das in einem Beschäftigungsverhältnis nach dem deutschen Arbeitsrecht steht.
 
-(2) Absatz 1 gilt entsprechend, wenn ein der Anzeigepflicht zuvor nicht unterfallender Betrieb eines Luftfahrzeugs derart geändert wird, dass die effektive Dosis, die das fliegende Personal durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann.
+(2) Absatz 1 gilt entsprechend, wenn ein der Anzeigepflicht zuvor nicht unterfallender Betrieb eines Luftfahrzeugs derart geändert wird, dass die effektive Dosis, die das fliegende Personal während des Fluges, einschließlich der aufgewendeten Zeit für die Positionierung nach § 13 Satz 1 der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung), durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann.
 
 (3) Der Anzeige sind die folgenden Unterlagen beizufügen:
 
 1. Nachweis, dass die für die sichere Durchführung der Tätigkeit notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-2. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+2. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 3. Nachweis, dass die bei der Tätigkeit sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
 4. Benennung eines von der zuständigen Behörde anerkannten Rechenprogramms oder der Nachweis, dass geeignete Messgeräte genutzt werden, die jeweils zur Ermittlung der Körperdosis verwendet werden und den Anforderungen der auf Grund des § 76 Absatz 1 Satz 2 Nummer 11 erlassenen Rechtsverordnung genügen.
 
-(4) Die Anzeigepflicht gilt auch für Luftfahrzeuge, die im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben werden.
+(4) Bei einer wesentlichen Änderung des angezeigten Betriebs sind die Absätze 1 und 3 entsprechend anzuwenden.
+
+(5) Die Anzeigepflicht gilt auch für Luftfahrzeuge, die im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben werden.
 
 # § 51 – Prüfung des angezeigten Betriebs von Luftfahrzeugen
 
@@ -1223,7 +1251,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 1. eine der nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist; dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben, oder
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben, oder
 
 3. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird.
 
@@ -1235,7 +1263,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 1. Nachweis, dass die für die sichere Durchführung der Tätigkeit notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-2. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls kein Strahlenschutzbeauftragter notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+2. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls kein Strahlenschutzbeauftragter notwendig ist, die zur Anzeige verpflichtete Person, ihr gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 3. Nachweis, dass die bei der Tätigkeit sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen und
 
@@ -1261,7 +1289,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 1. eine der nach § 52 Absatz 2 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist; dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben, oder
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben, oder
 
 3. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird.
 
@@ -1276,6 +1304,8 @@ Wer eine nach § 50 Absatz 1 oder § 52 Absatz 1 angezeigte Tätigkeit beendet o
 (1) Wer in seiner Betriebsstätte eine Tätigkeit nach § 4 Absatz 1 Satz 1 Nummer 10 ausübt oder ausüben lässt, die einem der in Anlage 3 genannten Tätigkeitsfelder zuzuordnen ist, hat vor Beginn der Tätigkeit eine auf den Arbeitsplatz bezogene Abschätzung der Körperdosis durchzuführen. Die Abschätzung ist unverzüglich zu wiederholen, wenn der Arbeitsplatz so verändert wird, dass eine höhere Exposition auftreten kann.
 
 (2) Liegen Anhaltspunkte dafür vor, dass bei einer Tätigkeit nach § 4 Absatz 1 Satz 1 Nummer 10, die keinem der in Anlage 3 genannten Tätigkeitsfelder zuzuordnen ist, Expositionen auftreten, die denen der in Anlage 3 genannten Tätigkeitsfelder entsprechen, so kann die zuständige Behörde anordnen, dass eine Abschätzung nach Absatz 1 Satz 1 unverzüglich durchzuführen ist. Wird der Arbeitsplatz so verändert, dass eine höhere Exposition auftreten kann, so kann die zuständige Behörde anordnen, dass die Abschätzung unverzüglich zu wiederholen ist.
+
+(3) Der zur Abschätzung Verpflichtete hat die Ergebnisse der Abschätzung unverzüglich aufzuzeichnen. Er hat die Aufzeichnungen bis zum Ende der Tätigkeit oder bis zum Vorliegen einer neuen Abschätzung aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 (+++ § 55 Abs. 2: zur Anwendung vgl. § 59 Abs. 1 +++)
 
@@ -1295,7 +1325,7 @@ c) nachgewiesen ist, dass bei der Tätigkeit die Ausrüstungen vorhanden und die
 
 2. Nachweis, dass die für die sichere Durchführung der Tätigkeit notwendige Anzahl von Strahlenschutzbeauftragten bestellt ist und ihnen die für die Erfüllung ihrer Aufgaben erforderlichen Befugnisse eingeräumt sind,
 
-3. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, der Anzeigende, sein gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt und
+3. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, der Anzeigende, sein gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt und
 
 4. Nachweis, dass die bei der Tätigkeit sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen.
 
@@ -1317,7 +1347,7 @@ Erfolgt die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder
 
 1. eine der nach § 56 Absatz 2 Satz 1 nachzuweisenden Anforderungen nicht oder nicht mehr erfüllt ist; dies gilt nach Ablauf der Frist nach Absatz 1 nur, wenn nicht in angemessener Zeit Abhilfe geschaffen wird,
 
-2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
+2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben,
 
 3. Tatsachen vorliegen, aus denen sich Bedenken ergeben, ob das für die sichere Ausführung der Tätigkeit notwendige Personal vorhanden ist,
 
@@ -1339,13 +1369,13 @@ Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder derart ve
 
 # § 59 – Externe Tätigkeit
 
-(1) Die Pflicht zur Abschätzung der Körperdosis nach § 55 Absatz 1 gilt entsprechend für denjenigen, der die dort genannten Tätigkeiten in einer fremden Betriebsstätte in eigener Verantwortung ausübt oder von Personen ausüben lässt, die unter seiner Aufsicht stehen. Liegt für die fremde Betriebsstätte eine auf den Arbeitsplatz bezogene Abschätzung vor, so hat der Inhaber der Betriebsstätte eine Abschrift der Aufzeichnungen über die Abschätzung an den nach Satz 1 Verpflichten unverzüglich zu übermitteln. § 55 Absatz 2 gilt entsprechend.
+(1) Die Pflicht zur Abschätzung der Körperdosis nach § 55 Absatz 1 gilt entsprechend für denjenigen, der die dort genannten Tätigkeiten in einer fremden Betriebsstätte in eigener Verantwortung ausübt oder von Personen ausüben lässt, die unter seiner Aufsicht stehen. Liegt für die fremde Betriebsstätte eine auf den Arbeitsplatz bezogene Abschätzung vor, so hat der Inhaber der Betriebsstätte eine Abschrift der Aufzeichnungen über die Abschätzung an den nach Satz 1 Verpflichten unverzüglich zu übermitteln. § 55 Absatz 2 und 3 gilt entsprechend.
 
 (2) Ergibt die Abschätzung nach Absatz 1 Satz 1 oder 3, dass die Körperdosis einen der Werte für die Einstufung als beruflich exponierte Person überschreiten kann, so hat der nach Absatz 1 Satz 1 oder 3 Verpflichtete die Tätigkeit der zuständigen Behörde entsprechend § 56 Absatz 1 anzuzeigen.
 
 (3) Der Anzeige nach Absatz 2 sind das Ergebnis der Abschätzung nach § 55 Absatz 1 und die folgenden Unterlagen beizufügen:
 
-1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, der Anzeigende, sein gesetzlicher Vertreter oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
+1. Nachweis, dass jeder Strahlenschutzbeauftragte die erforderliche Fachkunde im Strahlenschutz besitzt oder, falls ein Strahlenschutzbeauftragter nicht notwendig ist, der Anzeigende, sein gesetzlicher Vertreter oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigte die erforderliche Fachkunde im Strahlenschutz besitzt,
 
 2. Nachweis, dass die bei der Tätigkeit sonst tätigen Personen das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen besitzen,
 
@@ -1463,13 +1493,13 @@ Die Entlassung aus der Überwachung erfolgt durch schriftlichen Bescheid.
 
 # § 66 – Mitteilungspflichten zur Betriebsorganisation
 
-Besteht bei juristischen Personen das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei teilrechtsfähigen Personengesellschaften oder nichtrechtsfähigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, wer von ihnen die Verpflichtungen nach diesem Unterabschnitt wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder vertretungsberechtigter Mitglieder der Personenvereinigung bleibt hiervon unberührt.
+Besteht bei juristischen Personen das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei sonstigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, wer von ihnen die Verpflichtungen nach diesem Unterabschnitt wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder vertretungsberechtigter Mitglieder der Personenvereinigung bleibt hiervon unberührt.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
 # § 67 – Ausnahme von dem Erfordernis der Genehmigung und der Anzeige
 
-Wer als Arbeitnehmer oder Arbeitnehmerin anderweitig unter der Aufsicht stehend im Rahmen einer nach diesem Gesetz genehmigungs- oder anzeigebedürftigen Tätigkeit beschäftigt wird, bedarf weder einer Genehmigung noch hat er oder sie eine Anzeige zu erstatten.
+Wer als Arbeitnehmer oder Arbeitnehmerin oder anderweitig unter der Aufsicht stehend im Rahmen einer nach diesem Gesetz genehmigungs- oder anzeigebedürftigen Tätigkeit beschäftigt wird, bedarf weder einer Genehmigung noch hat er oder sie eine Anzeige zu erstatten.
 
 # § 68 – Verordnungsermächtigung; Verwendungs- und Verwertungsverbot
 
@@ -1497,7 +1527,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 4. auf Grund des § 12 Absatz 4 keiner Genehmigung nach § 12 Absatz 1 Nummer 3 bedarf.
 
-(2) Handelt es sich bei dem Strahlenschutzverantwortlichen um eine juristische Person oder um eine rechtsfähige Personengesellschaft, so werden die Aufgaben des Strahlenschutzverantwortlichen von der durch Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person wahrgenommen. Besteht das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei nicht rechtsfähigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, welche dieser Personen die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder Mitglieder der Personenvereinigung bleibt hiervon unberührt.
+(2) Handelt es sich bei dem Strahlenschutzverantwortlichen um eine juristische Person oder um eine rechtsfähige Personengesellschaft, so werden die Aufgaben des Strahlenschutzverantwortlichen von der durch Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person wahrgenommen. Besteht das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei sonstigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, welche dieser Personen die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder Mitglieder der Personenvereinigung bleibt hiervon unberührt.
 
 (+++ § 69 Abs. 2: zur Anwendung vgl. § 208 Abs. 3 +++)
 
@@ -1541,7 +1571,7 @@ a) § 27 Absatz 3, § 77 Satz 1, § 78 Absatz 1 bis 4, § 80 Absatz 1 und 2, § 
 
 b) § 76 Absatz 2, § 85 Absatz 1 bis 3, § 90 Absatz 2, die §§ 167 und 168;
 
-3. die Vorschriften und Schutzvorschriften einer auf Grund der §§ 24, 37 Absatz 1, von § 68 Absatz 1, der §§ 73, 76 Absatz 1, von § 79 Absatz 1, der §§ 81, 82, 85 Absatz 4, der §§ 86, 87, 89, 90 Absatz 2, von § 170 Absatz 9, § 171 erlassenen Rechtsverordnung eingehalten werden, soweit die Rechtsverordnung dies bestimmt, und
+3. die Vorschriften und Schutzvorschriften einer auf Grund der §§ 24, 37 Absatz 1, von § 68 Absatz 1, der §§ 73, 76 Absatz 1, von § 79 Absatz 1, der §§ 81, 82, 85 Absatz 4, der §§ 86, 87, 89, 90 Absatz 1, von § 170 Absatz 9, § 171 erlassenen Rechtsverordnung eingehalten werden, soweit die Rechtsverordnung dies bestimmt, und
 
 4. die erforderlichen Maßnahmen gegen ein unbeabsichtigtes Kritischwerden von Kernbrennstoffen getroffen werden.
 
@@ -1593,9 +1623,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 6. dass, in welchen Abständen und auf welche Weise Personen die erforderliche Fachkunde oder Kenntnisse im Strahlenschutz zu aktualisieren haben,
 
-7. unter welchen Voraussetzungen eine vergleichbare Fachkunde im Strahlenschutz oder vergleichbare Kenntnisse im Strahlenschutz, die außerhalb des Geltungsbereichs dieses Gesetzes erworben wurden, oder die Teilnahme an einem Kurs, der außerhalb des Geltungsbereichs dieses Gesetzes stattgefunden hat, anerkannt werden können und
+7. unter welchen Voraussetzungen eine vergleichbare Fachkunde im Strahlenschutz oder vergleichbare Kenntnisse im Strahlenschutz, die außerhalb des Geltungsbereichs dieses Gesetzes erworben wurden, oder die Teilnahme an einem Kurs, der außerhalb des Geltungsbereichs dieses Gesetzes stattgefunden hat, anerkannt werden können,
 
-8. unter welchen Voraussetzungen die zuständige Stelle eine Bescheinigung über die erforderliche Fachkunde im Strahlenschutz oder die erforderlichen Kenntnisse im Strahlenschutz entziehen kann, die Fortgeltung der Bescheinigung mit Auflagen versehen kann oder eine Überprüfung der Fachkunde oder der Kenntnisse veranlassen kann.
+8. unter welchen Voraussetzungen die zuständige Stelle eine Bescheinigung über die erforderliche Fachkunde im Strahlenschutz oder die erforderlichen Kenntnisse im Strahlenschutz entziehen kann, die Fortgeltung der Bescheinigung mit Auflagen versehen kann oder eine Überprüfung der Fachkunde oder der Kenntnisse veranlassen kann und
+
+9. welche Pflichten für Kursanbieter in Bezug auf die Zusammenarbeit mit den zuständigen Stellen und Behörden gelten.
 
 # § 75 – Überprüfung der Zuverlässigkeit
 
@@ -1699,7 +1731,7 @@ Abweichend davon kann die zuständige Behörde für Auszubildende und Studierend
 
 9. dass und unter welchen Voraussetzungen
 
-a) die zuständige Behörde Ärzte zur ärztlichen Untersuchung exponierter Personen ermächtigen darf (ermächtigte Ärzte),
+a) die zuständige Behörde Ärzte zur ärztlichen Überwachung exponierter Personen ermächtigen darf (ermächtigte Ärzte),
 
 b) die Ermächtigung befristet werden kann,
 
@@ -1819,7 +1851,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (2) Die Anwendung muss einen hinreichenden Nutzen erbringen. Bei der Bewertung, ob die Anwendung einen hinreichenden Nutzen erbringt, ist ihr Gesamtpotential an diagnostischem oder therapeutischem Nutzen, einschließlich des unmittelbaren gesundheitlichen Nutzens für den Einzelnen und des Nutzens für die Gesellschaft, gegen die von der Exposition möglicherweise verursachte Schädigung des Einzelnen abzuwägen.
 
-(3) Die Anwendung darf erst durchgeführt werden, nachdem ein Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz entschieden hat, dass und auf welche Weise die Anwendung durchzuführen ist (rechtfertigende Indikation). Die rechtfertigende Indikation erfordert bei Anwendungen im Rahmen einer medizinischen Exposition die Feststellung, dass der gesundheitliche Nutzen der einzelnen Anwendung gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation erfordert bei nichtmedizinischen Anwendungen die Feststellung, dass der mit der jeweiligen Untersuchung verbundene Nutzen gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation darf nur gestellt werden, wenn der Arzt, der die Indikation stellt, die Person, an der ionisierende Strahlung oder radioaktive Stoffe angewendet werden, vor Ort persönlich untersuchen kann, es sei denn, es liegt ein Fall der Teleradiologie nach § 14 Absatz 2 vor.
+(3) Die Anwendung darf erst durchgeführt werden, nachdem ein Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz entschieden hat, dass und auf welche Weise die Anwendung durchzuführen ist (rechtfertigende Indikation). Die rechtfertigende Indikation erfordert bei Anwendungen im Rahmen einer medizinischen Exposition die Feststellung, dass der gesundheitliche Nutzen der einzelnen Anwendung gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation erfordert bei nichtmedizinischen Anwendungen die Feststellung, dass der mit der jeweiligen Untersuchung verbundene Nutzen gegenüber dem Strahlenrisiko überwiegt. Die rechtfertigende Indikation darf nur gestellt werden, wenn der Arzt oder Zahnarzt, der die Indikation stellt, die Person, an der ionisierende Strahlung oder radioaktive Stoffe angewendet werden, vor Ort persönlich untersuchen kann, es sei denn, es liegt ein Fall der Teleradiologie nach § 14 Absatz 2 vor.
 
 (4) Absatz 3 gilt nicht für Untersuchungen mit Röntgenstrahlung nach dem Infektionsschutzgesetz und für Anwendungen am Menschen zum Zweck der medizinischen Forschung nach § 31 Absatz 1 oder § 32 Absatz 1.
 
@@ -1839,15 +1871,15 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 # § 85 – Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten von Daten und Bilddokumenten bei der Anwendung am Menschen; Verordnungsermächtigung
 
-(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass über die Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen Aufzeichnungen angefertigt werden. Die Aufzeichnungen müssen Folgendes enthalten:
+(1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass über die Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen unverzüglich Aufzeichnungen angefertigt werden. Die Aufzeichnungen müssen Folgendes enthalten:
 
-1. Angaben zur rechtfertigenden Indikation,
+1. Angaben zur rechtfertigenden Indikation und den Zeitpunkt der Indikationsstellung,
 
 2. den Zeitpunkt und die Art der Anwendung,
 
 3. Angaben zur Exposition
 
-a) der untersuchten oder behandelten Person oder zur Ermittlung dieser Exposition, einschließlich einer Begründung im Falle der Überschreitung diagnostischer Referenzwerte, sowie
+a) der untersuchten oder behandelten Person oder zur Ermittlung dieser Exposition sowie
 
 b) von Betreuungs- und Begleitpersonen, sofern nach der Rechtsverordnung nach § 86 Satz 2 Nummer 3 ihre Körperdosis zu ermitteln ist,
 
@@ -1857,7 +1889,9 @@ b) von Betreuungs- und Begleitpersonen, sofern nach der Rechtsverordnung nach §
 
 Die Aufzeichnungen sind gegen unbefugten Zugriff und unbefugte Änderung zu sichern.
 
-(2) Der Strahlenschutzbeauftragte hat die Aufzeichnungen sowie Röntgenbilder, digitale Bilddaten und sonstige Untersuchungsdaten aufzubewahren, und zwar
+(1a) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Überschreitung diagnostischer Referenzwerte sowie die Gründe für diese Überschreitung aufgezeichnet werden.
+
+(2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die Aufzeichnungen sowie Röntgenbilder, digitale Bilddaten und sonstige Untersuchungsdaten aufbewahrt werden, und zwar
 
 1. im Falle von Behandlungen für eine Dauer von 30 Jahren,
 
@@ -1881,7 +1915,7 @@ Bei der Weitergabe oder Übermittlung sind geeignete Maßnahmen zur Einhaltung d
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen,
 
-1. dass einer Person, die unter Anwendung von Röntgenstrahlung oder radioaktiven Stoffen untersucht wurde, Informationen über die durchgeführte Untersuchung anzubieten sind, welchen Inhalt diese Informationen haben müssen und in welcher Form diese Informationen zur Verfügung zu stellen sind,
+1. dass einer Person, die unter Anwendung von ionisierender Strahlung oder radioaktiven Stoffen untersucht wurde, Informationen über die durchgeführte Untersuchung anzubieten sind, welchen Inhalt diese Informationen haben müssen und in welcher Form diese Informationen zur Verfügung zu stellen sind,
 
 2. welche Anforderungen an die Aufbewahrung von Aufzeichnungen, Röntgenbildern, digitalen Bilddaten und sonstigen Untersuchungsdaten zu stellen sind, insbesondere zur Sicherung ihrer Verfügbarkeit und Verhinderung von Datenverlusten,
 
@@ -1931,7 +1965,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 19. auf welche Weise Früherkennung durchzuführen ist und welche besonderen Anforderungen an die Ausrüstung, Geräte und Vorrichtungen sowie an das notwendige Wissen und die notwendigen Fertigkeiten im Hinblick auf die mögliche Strahlengefährdung und die anzuwendenden Schutzmaßnahmen des Personals zu stellen und Maßnahmen zur Qualitätssicherung erforderlich sind.
 
-In der Rechtsverordnung kann auch bestimmt werden, welche Informationen und personenbezogenen Daten der Strahlenschutzverantwortliche der ärztlichen und zahnärztlichen Stelle zur Wahrnehmung ihrer Aufgabe nach Satz 2 Nummer 9 zur Verfügung zu stellen hat sowie ob und unter welchen Voraussetzungen die ärztliche und die zahnärztliche Stelle diese Informationen und personenbezogenen Daten verarbeiten und aufbewahren und der zuständigen Behörde übermitteln dürfen. In der Rechtsverordnung kann auch bestimmt werden, dass und auf welche Weise die ärztliche oder zahnärztliche Stelle die Ergebnisse ihrer Prüfungen, einschließlich des Namens und der Anschrift des Strahlenschutzverantwortlichen, an die Stelle übermitteln darf, die für die Qualitätsprüfung nach dem Neunten Abschnitt des Vierten Kapitels des Fünften Buches Sozialgesetzbuch zuständig ist; personenbezogene Daten der untersuchten oder behandelten Personen dürfen nicht übermittelt werden. Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
+In der Rechtsverordnung kann auch bestimmt werden, welche Informationen und personenbezogenen Daten der Strahlenschutzverantwortliche der ärztlichen und zahnärztlichen Stelle zur Wahrnehmung ihrer Aufgabe nach Satz 2 Nummer 9 zur Verfügung zu stellen hat sowie ob und unter welchen Voraussetzungen die ärztliche und die zahnärztliche Stelle diese Informationen und personenbezogenen Daten verarbeiten und aufbewahren und der zuständigen Behörde und anderen ärztlichen und zahnärztlichen Stellen übermitteln dürfen. In der Rechtsverordnung kann auch bestimmt werden, dass und auf welche Weise die ärztliche oder zahnärztliche Stelle die Ergebnisse ihrer Prüfungen, einschließlich des Namens und der Anschrift des Strahlenschutzverantwortlichen, an die Stelle übermitteln darf, die für die Qualitätsprüfung nach dem Neunten Abschnitt des Vierten Kapitels des Fünften Buches Sozialgesetzbuch zuständig ist; personenbezogene Daten der untersuchten oder behandelten Personen dürfen nicht übermittelt werden. Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
 
 (+++ § 86: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
@@ -2009,7 +2043,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 11. dass weitere Vorsorge- und Überwachungsmaßnahmen für eine Kontrolle radioaktiver Stoffe zum Schutz Einzelner und der Allgemeinheit zu treffen sind und welche solcher Maßnahmen zu treffen sind,
 
-12. welche weiteren Aufzeichnungs-, Aufbewahrungs-, Mitteilungs-, Vorlage- und Hinterlegungspflichten im Zusammenhang mit den Pflichten nach den Nummern 1 bis 10 bestehen.
+12. welche weiteren Aufzeichnungs-, Aufbewahrungs-, Mitteilungs-, Vorlage- und Hinterlegungspflichten im Zusammenhang mit den Pflichten nach den Nummern 1 bis 11 bestehen.
 
 Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
 
@@ -2177,6 +2211,38 @@ Ausnahmen dürfen nur geregelt, zugelassen oder erteilt werden, soweit Gefahren 
 (5) Für Rechtsverordnungen nach den Absätzen 1 bis 3 gilt § 94 Absatz 3 und 4 entsprechend.
 
 (+++ § 95: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
+
+# § 95a – Auskunftsverlangen, Betretensrechte, Mitwirkungs- und Duldungspflichten
+
+(1) Auskunft über Abfälle und sonstige Gegenstände oder Stoffe, die durch einen Notfall kontaminiert sind oder kontaminiert sein können, über Errichtung, Betrieb und Benutzung der in § 95 Absatz 1 Satz 2 genannten Anlagen, über Grundstücke, auf denen sich solche Abfälle, sonstige Gegenstände oder Stoffe oder solche Anlagen befinden können, sowie über andere der Aufsicht nach § 178 Satz 2 unterliegende Gegenstände oder Stoffe haben den Bediensteten und Beauftragten der für die Aufsicht nach § 178 Satz 2 zuständigen Behörde auf Verlangen zu erteilen
+
+1. Erzeuger und Besitzer von Abfällen oder von sonstigen Gegenständen oder Stoffen, die durch einen Notfall kontaminiert sind oder kontaminiert sein können,
+
+2. zur Entsorgung von Abfällen, die durch einen Notfall kontaminiert sind oder kontaminiert sein können, Verpflichtete,
+
+3. Eigentümer und Betreiber sowie frühere Betreiber
+
+a) von Unternehmen, die solche Abfälle entsorgen oder entsorgt haben,
+
+b) der in § 95 Absatz 1 Satz 2 genannten Anlagen, auch wenn diese Anlagen stillgelegt sind,
+
+4. Eigentümer und Besitzer von Grundstücken, auf denen die in § 95 Absatz 1 Satz 2 genannten Anlagen betrieben werden oder wurden, sowie
+
+5. Sammler, Beförderer, Händler und Makler von Abfällen, die durch einen Notfall kontaminiert sind oder kontaminiert sein können.
+
+(2) Die nach Absatz 1 zur Auskunft verpflichteten Personen haben den Bediensteten und Beauftragten der für die Aufsicht nach § 178 Satz 2 zuständigen Behörde zur Prüfung der Einhaltung ihrer Verpflichtungen nach § 95, den Verordnungen nach § 95 oder den Eilverordnungen nach § 96 das Betreten der Grundstücke sowie der Geschäfts- und Betriebsräume zu den üblichen Geschäftszeiten, die Einsicht in Unterlagen und die Vornahme von technischen Ermittlungen und Prüfungen, einschließlich der Ermittlung von Emissionen und Immissionen, zu gestatten. Die nach Absatz 1 zur Auskunft verpflichteten Personen sind ferner verpflichtet, zu diesen Zwecken das Betreten von Geschäfts- und Betriebsgrundstücken und -räumen außerhalb der üblichen Geschäftszeiten sowie das Betreten von Wohnräumen zu gestatten, wenn dies zur Verhütung dringender Gefahren für die öffentliche Sicherheit oder Ordnung erforderlich ist. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(3) Betreiber der in § 95 Absatz 1 Satz 2 genannten Anlagen haben diese Anlagen den Bediensteten oder Beauftragten der zuständigen Behörde zugänglich zu machen, die zur Überwachung erforderlichen Arbeitskräfte, Werkzeuge, Hilfsmittel, insbesondere Treibstoffe und Antriebsaggregate, und Unterlagen zur Verfügung zu stellen und nach Anordnung der zuständigen Behörde Zustand und Betrieb der Anlage auf eigene Kosten prüfen zu lassen.
+
+(4) Die behördlichen Befugnisse nach den Absätzen 1 bis 3 erstrecken sich auch auf die Prüfung, ob bestimmte Stoffe oder Gegenstände
+
+1. nicht oder nicht mehr als Abfall anzusehen sind oder
+
+2. als Abfälle, sonstige Gegenstände oder Stoffe anzusehen sind, bei denen der für solche Abfälle, sonstige Gegenstände oder Stoffe in einer Verordnung nach § 95 Absatz 1 festgelegte Kontaminationswert unterschritten wird.
+
+(5) Für die nach dieser Vorschrift zur Auskunft verpflichteten Personen gilt § 55 der Strafprozessordnung entsprechend.
+
+(6) Auf die nach den Absätzen 1 bis 3 erlangten Kenntnisse und Unterlagen sind die §§ 93, 97, 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
 # § 96 – Eilverordnungen
 
@@ -2581,7 +2647,7 @@ In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 un
 
 # § 121 – Festlegung von Gebieten; Verordnungsermächtigung
 
-(1) Die zuständige Behörde legt durch Allgemeinverfügung innerhalb von zwei Jahren nach Inkrafttreten einer Rechtsverordnung nach Absatz 2 die Gebiete fest, für die erwartet wird, dass die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft in einer beträchtlichen Zahl von Gebäuden mit Aufenthaltsräumen oder Arbeitsplätzen den Referenzwert nach § 124 oder § 126 überschreitet. Sie veröffentlicht die Festlegung der Gebiete. Die Festlegung der Gebiete ist alle zehn Jahre zu überprüfen.
+(1) Die zuständige Behörde legt durch Allgemeinverfügung innerhalb von zwei Jahren nach Inkrafttreten einer Rechtsverordnung nach Absatz 2 die Gebiete fest, für die erwartet wird, dass die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft in einer beträchtlichen Zahl von Gebäuden mit Aufenthaltsräumen oder Arbeitsplätzen den Referenzwert nach § 124 oder § 126 überschreitet. Sie veröffentlicht die Festlegung der Gebiete. Die Festlegung der Gebiete ist mindestens alle zehn Jahre zu überprüfen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, unter welchen Umständen die zuständige Behörde davon ausgehen kann, dass in einem Gebiet in einer beträchtlichen Zahl von Gebäuden mit Aufenthaltsräumen oder Arbeitsplätzen die Referenzwerte nach den §§ 124 und 126 überschritten werden und welche Verfahren und Kriterien für die Festlegung der Gebiete heranzuziehen sind.
 
@@ -2602,6 +2668,8 @@ In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 un
 1. die nach den allgemein anerkannten Regeln der Technik erforderlichen Maßnahmen zum Feuchteschutz eingehalten werden und
 
 2. in den nach § 121 Absatz 1 Satz 1 festgelegten Gebieten zusätzlich die in der Rechtsverordnung nach Absatz 2 bestimmten Maßnahmen eingehalten werden.
+
+Die Pflicht nach Satz 1 kann auch auf andere Weise erfüllt werden.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Maßnahmen zum Schutz vor Radon für zu errichtende Gebäude innerhalb der nach § 121 Absatz 1 Satz 1 festgelegten Gebiete zu bestimmen.
 
@@ -2631,7 +2699,7 @@ Der Referenzwert für die über das Jahr gemittelte Radon-222-Aktivitätskonzent
 
 2. die Art des Arbeitsplatzes einem der Arbeitsfelder nach Anlage 8 zuzuordnen ist.
 
-Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach der Festlegung des Gebiets und Aufnahme der beruflichen Betätigung an dem Arbeitsplatz und im Falle des Satzes 1 Nummer 2 innerhalb von 18 Monaten nach Aufnahme der beruflichen Betätigung an dem Arbeitsplatz erfolgt sein. Die zuständige Behörde kann anordnen, dass der für den Arbeitsplatz Verantwortliche auch für andere Arbeitsplätze in Innenräumen Messungen der Radon-222-Aktivitätskonzentration in der Luft zu veranlassen hat, wenn Anhaltspunkte dafür vorliegen, dass die Radon-222-Aktivitätskonzentration in der Luft über dem Referenzwert nach § 126 liegt.
+Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach der Festlegung des Gebiets und Aufnahme der beruflichen Betätigung an dem Arbeitsplatz und im Falle des Satzes 1 Nummer 2 innerhalb von 18 Monaten nach Aufnahme der beruflichen Betätigung an dem Arbeitsplatz erfolgt sein. Der für den Arbeitsplatz Verantwortliche hat erneute Messungen der Radon-222-Aktivitätskonzentration in der Luft zu veranlassen, wenn Änderungen am Arbeitsplatz vorgenommen werden, die dazu führen können, dass die Radon-222-Aktivitätskonzentration in der Luft über dem Referenzwert nach § 126 liegt; Satz 2 gilt in diesem Fall entsprechend. Die zuständige Behörde kann anordnen, dass der für den Arbeitsplatz Verantwortliche auch für andere Arbeitsplätze in Innenräumen Messungen der Radon-222-Aktivitätskonzentration in der Luft zu veranlassen hat, wenn Anhaltspunkte dafür vorliegen, dass die Radon-222-Aktivitätskonzentration in der Luft über dem Referenzwert nach § 126 liegt. Die zuständige Behörde kann im Einzelfall die Frist nach Satz 2 um längstens sechs Monate verlängern, wenn die Frist auf Grund von Umständen, die von dem für den Arbeitsplatz Verantwortlichen nicht zu vertreten sind, nicht eingehalten werden kann.
 
 (2) Verantwortlich für einen Arbeitsplatz ist,
 
@@ -2639,7 +2707,7 @@ Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach de
 
 2. in wessen Betriebsstätte ein Dritter in eigener Verantwortung eine Betätigung beruflich ausübt oder von Personen ausüben lässt, die unter dessen Aufsicht stehen.
 
-(3) Der für den Arbeitsplatz Verantwortliche hat die Ergebnisse der Messungen nach Absatz 1 Satz 1 und 3 unverzüglich aufzuzeichnen, fünf Jahre ab dem Zeitpunkt der Erstellung aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+(3) Der für den Arbeitsplatz Verantwortliche hat die Ergebnisse der Messungen nach Absatz 1 Satz 1, 3 und 4 unverzüglich aufzuzeichnen. Er hat die Aufzeichnungen bis zur Beendigung der Betätigung oder bis zum Vorliegen neuer Messergebnisse aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 (4) Im Falle der Verantwortlichkeit nach Absatz 2 Nummer 1 hat der für den Arbeitsplatz Verantwortliche die betroffenen Arbeitskräfte und den Betriebsrat oder den Personalrat unverzüglich über die Ergebnisse der Messungen zu unterrichten. Im Falle der Verantwortlichkeit nach Absatz 2 Nummer 2 hat der für den Arbeitsplatz Verantwortliche unverzüglich den Dritten zu unterrichten; die Pflicht nach Satz 1 gilt entsprechend für den Dritten.
 
@@ -2647,7 +2715,7 @@ Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach de
 
 (1) Überschreitet die Radon-222-Aktivitätskonzentration in der Luft an einem Arbeitsplatz den Referenzwert nach § 126, so hat der für den Arbeitsplatz Verantwortliche unverzüglich Maßnahmen zur Reduzierung der Radon-222-Aktivitätskonzentration in der Luft zu ergreifen.
 
-(2) Der für den Arbeitsplatz Verantwortliche hat den Erfolg der von ihm getroffenen Maßnahmen durch eine Messung der Radon-222-Aktivitätskonzentration in der Luft zu überprüfen; die Messung muss innerhalb von 24 Monaten erfolgt sein, nachdem die Überschreitung des Referenzwerts durch die Messung nach § 127 Absatz 1 bekannt geworden ist. Der Verantwortliche hat das Ergebnis der Messung unverzüglich aufzuzeichnen, fünf Jahre ab dem Zeitpunkt der Erstellung aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+(2) Der für den Arbeitsplatz Verantwortliche hat den Erfolg der von ihm getroffenen Maßnahmen durch eine Messung der Radon-222-Aktivitätskonzentration in der Luft zu überprüfen; die Messung muss innerhalb von 30 Monaten erfolgt sein, nachdem die Überschreitung des Referenzwerts bekannt geworden ist. Die zuständige Behörde kann im Einzelfall die Frist nach Satz 1 verlängern, wenn die Frist auf Grund von Umständen, die von dem für den Arbeitsplatz Verantwortlichen nicht zu vertreten sind, nicht eingehalten werden kann. Der für den Arbeitsplatz Verantwortliche hat das Ergebnis der Messung unverzüglich aufzuzeichnen. Er hat die Aufzeichnungen bis zur Beendigung der Betätigung oder bis zum Vorliegen neuer Messergebnisse aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 (3) Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 1 hat der für den Arbeitsplatz Verantwortliche die betroffenen Arbeitskräfte und den Betriebsrat oder den Personalrat unverzüglich über die Ergebnisse der Messungen zu unterrichten. Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den Arbeitsplatz Verantwortliche unverzüglich den Dritten zu unterrichten; die Pflicht nach Satz 1 gilt entsprechend für den Dritten.
 
@@ -2699,6 +2767,16 @@ Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den A
 
 (2) Handelt es sich bei dem Verpflichteten um eine juristische Person oder um eine rechtsfähige Personengesellschaft, so gilt § 69 Absatz 2 entsprechend.
 
+# § 131a – Aufgabe oder Änderung des angemeldeten Arbeitsplatzes
+
+Der für den Arbeitsplatz Verantwortliche, der einen Arbeitsplatz nach § 129 angemeldet hat, hat der zuständigen Behörde folgende Änderungen unverzüglich mitzuteilen:
+
+1. die Aufgabe des Arbeitsplatzes,
+
+2. Änderungen, die nachweislich dazu führen, dass die Radon-222-Aktivitätskonzentration in der Luft an dem angemeldeten Arbeitsplatz den Referenzwert nach § 126 nicht länger überschreitet; der Nachweis ist durch Messung entsprechend § 127 Absatz 1 zu erbringen,
+
+3. Änderungen, die nachweislich dazu führen, dass eine auf den angemeldeten Arbeitsplatz bezogene Abschätzung der Exposition entsprechend § 130 Absatz 1 ergibt, dass die effektive Dosis 6 Millisievert im Kalenderjahr nicht länger überschreiten kann.
+
 # § 132 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an den Schutz vor Radon an Arbeitsplätzen festzulegen. In der Rechtsverordnung kann insbesondere festgelegt werden,
@@ -2709,7 +2787,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. wie die Messung der Radon-222-Aktivitätskonzentration in der Luft an Arbeitsplätzen nach den §§ 127 und 128 zu erfolgen hat, dass sie von einer anerkannten Stelle auszuführen ist und welche Anforderungen an die Messung und an die Stelle, die die Messung ausführt, sowie an das Verfahren der Anerkennung dieser Stelle zu stellen sind,
 
-4. wie die Radon-222-Aktivitätskonzentration in der Luft und die Aufenthaltszeit oder die potentielle Alphaenergie-Exposition in eine effektive Dosis, die eine Arbeitskraft erhält, umzurechnen ist,
+4. welche Informationen im Zusammenhang mit den Messungen nach den §§ 127 und 128 der für den Arbeitsplatz Verantwortliche der nach einer Rechtsverordnung nach Nummer 3 anerkannten Stelle zur Verfügung zu stellen hat, dass und auf welche Art und Weise die anerkannte Stelle die Informationen, einschließlich der Messergebnisse, dem Bundesamt für Strahlenschutz zur Erfüllung seiner Amtsaufgaben übermittelt und auf welche Weise das Bundesamt für Strahlenschutz die Informationen zur Erfüllung seiner Amtsaufgaben verarbeitet,
 
 5. wie die arbeitsplatzbezogene Abschätzung der Radon-222-Exposition, der potentiellen Alphaenergie-Exposition oder der Körperdosis durch die Exposition durch Radon nach § 130 Absatz 1 durchzuführen ist und welche Anforderungen an das Verfahren der Abschätzung und an die Person, die die Abschätzung durchführt, zu stellen sind,
 
@@ -2898,7 +2976,7 @@ Für den Sachverständigen gilt § 18 Satz 1 des Bundes-Bodenschutzgesetzes ents
 
 4. Informationen über die bei der Durchführung der Maßnahmen vorgesehenen Vorkehrungen und Maßnahmen zur Reduzierung der beruflichen Exposition.
 
-(3) Der zur Anmeldung Verpflichte hat
+(3) Der zur Anmeldung Verpflichtete hat
 
 1. geeignete Maßnahmen zu treffen, um unter Berücksichtigung aller Umstände des Einzelfalls die berufliche Exposition so gering wie möglich zu halten,
 
@@ -2953,7 +3031,7 @@ Die §§ 136 bis 147 finden entsprechende Anwendung auf Grubenbaue und sonstige 
 
 1. durch die geplanten Sanierungsmaßnahmen, sonstigen Maßnahmen zur Verhinderung oder Verminderung der Exposition und Nachsorgemaßnahmen der Referenzwert nach § 136 Absatz 1 unterschritten werden kann, soweit dies unter Berücksichtigung aller Umstände des Einzelfalls verhältnismäßig ist,
 
-2. die Voraussetzungen nach § 145 Absatz 2 und 3 erfüllt sind,
+2. die Voraussetzungen nach § 139 Absatz 2 und 3 erfüllt sind,
 
 3. Maßnahmen getroffen sind, um die von den Betriebsanlagen und Betriebsstätten ausgehenden, Radionuklide enthaltenden Emissionen und Immissionen, einschließlich der Direktstrahlung, zu überwachen und um die Exposition der Bevölkerung infolge der Stilllegungs- und Sanierungsarbeiten zu überwachen, und
 
@@ -3191,11 +3269,11 @@ Für den Nachweis, dass die jeweils geltenden Grenzwerte nicht überschritten wu
 
 1. die Ergebnisse dieser Messungen, Ermittlungen oder Abschätzungen sowie Daten, die zu dieser Messung, Ermittlung oder Abschätzung dienen,
 
-2. Familienname, Vornamen, Geburtsdatum und -ort, Geschlecht, Staatsangehörigkeit (Personendaten),
+2. Familienname, Geburtsname, Vornamen, Geburtsdatum und -ort, Geschlecht, Staatsangehörigkeit (Personendaten),
 
 3. die persönliche Kennnummer nach § 170 Absatz 3 Satz 1,
 
-4. bei Strahlenpassinhabern die Registriernummer des Strahlenpasses sowie
+4. bei Strahlenpassinhabern die fortlaufende Nummer des Strahlenpasses sowie
 
 5. die Beschäftigungsmerkmale und die Expositionsverhältnisse
 
@@ -3247,7 +3325,7 @@ Dabei sind die Personendaten der betroffenen Personen und die ermittelte Körper
 
 5. keine Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Leiters der Messstelle oder der weiteren leitenden Fachkräfte ergeben, und die Messstelle über die erforderliche Unabhängigkeit verfügt.
 
-(3) Die Messstelle hat die Ergebnisse der Ermittlung der beruflichen Exposition aufzuzeichnen und sie der jeweiligen Person nach § 168 Absatz 1, die die Messung veranlasst hat, schriftlich mitzuteilen. Die Messstelle hat die Aufzeichnungen nach der Ermittlung fünf Jahre lang aufzubewahren. Sie hat der zuständigen Behörde auf Verlangen oder wenn sie es auf Grund der Ergebnisse ihrer Ermittlungen für erforderlich hält, diese Ergebnisse einschließlich der Daten nach § 168 Absatz 1 mitzuteilen.
+(3) Die Messstelle hat die Ergebnisse der Ermittlung der beruflichen Exposition aufzuzeichnen und sie der jeweiligen Person nach § 168 Absatz 1, die die Messung veranlasst hat, schriftlich mitzuteilen. Die Messstelle hat die Aufzeichnungen nach der Ermittlung fünf Jahre lang aufzubewahren. Sie hat der für die Person nach Satz 1 zuständigen Behörde auf Verlangen oder wenn sie es auf Grund der Ergebnisse ihrer Ermittlungen für erforderlich hält, diese Ergebnisse einschließlich der Daten nach § 168 Absatz 1 unverzüglich mitzuteilen.
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen,
 
@@ -3261,7 +3339,7 @@ Dabei sind die Personendaten der betroffenen Personen und die ermittelte Körper
 
 5. welche weiteren Aufzeichnungs-, Aufbewahrungs-, Mitteilungs- und Vorlagepflichten die Messstellen im Zusammenhang mit der Wahrnehmung ihrer Aufgaben haben und
 
-6. dass und unter welchen Umständen die Bestimmung einer Messstelle befristet werden kann und unter welchen Voraussetzungen die Bestimmung zurückgenommen werden kann.
+6. dass und unter welchen Voraussetzungen die Bestimmung einer Messstelle befristet werden kann.
 
 # § 170 – Strahlenschutzregister; Verordnungsermächtigung
 
@@ -3291,11 +3369,9 @@ Dabei sind die Personendaten der betroffenen Personen und die ermittelte Körper
 
 1. die Messstellen nach § 169,
 
-2. das Luftfahrt-Bundesamt,
+2. die zuständigen Behörden oder
 
-3. die zuständigen Behörden oder
-
-4. den Strahlenschutzverantwortlichen, den Verpflichteten nach § 131 Absatz 1 oder § 145 Absatz 1 Satz 1, den Verantwortlichen nach § 115 Absatz 2 oder § 153 Absatz 1.
+3. den Strahlenschutzverantwortlichen, den Verpflichteten nach § 131 Absatz 1 oder § 145 Absatz 1 Satz 1, den Verantwortlichen nach § 115 Absatz 2 oder § 153 Absatz 1.
 
 Die Personen nach Nummer 4 übermitteln dem Strahlenschutzregister zur Erzeugung der persönlichen Kennnummer die Versicherungsnummer oder Identifikationsnummer nach Absatz 3 zusätzlich zu den für die Zuordnung erforderlichen Daten nach Absatz 2.
 
@@ -3311,7 +3387,7 @@ Die Personen nach Nummer 4 übermitteln dem Strahlenschutzregister zur Erzeugung
 
 5. auf Antrag einem Träger der gesetzlichen Unfallversicherung über Daten, die bei ihm versicherte Personen betreffen.
 
-Die zuständige Behörde kann Auskünfte aus dem Strahlenschutzregister an einen Strahlenschutzverantwortlichen, Verpflichteten oder Verantwortlichen, an deren Strahlenschutzbeauftragten sowie an ermächtigte Ärzte nach § 79 Absatz 1 Satz 2 Nummer 9 Buchstabe a weitergeben, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist.
+Das Bundesamt für Strahlenschutz kann den in Satz 1 Nummer 1 und 2 genannten Behörden und Messstellen die Daten nach Absatz 2 sowie Auswertungen aus diesen Daten auch durch automatisierte Abrufverfahren übermitteln, soweit die Daten zur Wahrnehmung der Aufgaben der abrufenden Behörden und Messstellen erforderlich sind. Die in Satz 1 Nummer 1 und 2 genannten Behörden dürfen die Daten nach Satz 2 im automatisierten Verfahren beim Bundesamt für Strahlenschutz abrufen, soweit dies für die Wahrnehmung ihrer Aufgaben erforderlich ist. Die zuständige Behörde kann Auskünfte aus dem Strahlenschutzregister an einen Strahlenschutzverantwortlichen, Verpflichteten oder Verantwortlichen, an deren Strahlenschutzbeauftragten sowie an ermächtigte Ärzte nach § 79 Absatz 1 Satz 2 Nummer 9 Buchstabe a weitergeben, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist.
 
 (6) Die Übermittlung der im Strahlenschutzregister gespeicherten personenbezogenen Daten zu Zwecken der wissenschaftlichen Forschung (Forschungszwecken) an Dritte ist nur unter den Voraussetzungen der Absätze 7 und 8 zulässig. Soweit die betroffenen Personen nicht in die Veröffentlichung der sie betreffenden Daten eingewilligt haben, dürfen Forschungsergebnisse nur anonymisiert veröffentlicht werden. Auch nach dem Tod der betroffenen Personen sind die Bestimmungen des Bundesdatenschutzgesetzes und der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung einzuhalten.
 
@@ -3329,11 +3405,13 @@ Die zuständige Behörde kann Auskünfte aus dem Strahlenschutzregister an einen
 
 # § 171 – Verordnungsermächtigung für Vorgaben in Bezug auf einen Strahlenpass
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen,
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorgaben in Bezug auf einen zu führenden Strahlenpass festzulegen. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
-1. wann zum Zweck der Überwachung von Dosisgrenzwerten und der Beachtung der Strahlenschutzgrundsätze ein Strahlenpass zu führen ist, welche Daten nach § 170 Absatz 2 und welche Daten zum Ergebnis der ärztlichen Überwachungsuntersuchung eingetragen werden, welche Form der Strahlenpass hat, wie er zu registrieren ist und wer Einträge vornehmen und die Inhalte verwenden darf,
+1. wann zum Zweck der Überwachung von Dosisgrenzwerten und der Beachtung der Strahlenschutzgrundsätze ein Strahlenpass zu führen ist, welche Daten nach § 170 Absatz 2 und welche Daten zum Ergebnis der ärztlichen Überwachungsuntersuchung eingetragen werden, welche Form der Strahlenpass hat, wie er zu registrieren oder seine Gültigkeit zu verlängern ist und wer Einträge vornehmen und die Inhalte verwenden darf,
 
-2. unter welchen Bedingungen Strahlenpässe, die außerhalb des Geltungsbereichs dieses Gesetzes ausgestellt wurden, anerkannt werden.
+2. unter welchen Bedingungen Strahlenpässe, die außerhalb des Geltungsbereichs dieses Gesetzes ausgestellt wurden, anerkannt werden,
+
+3. unter welchen Voraussetzungen die Behörde einen Strahlenpass vernichten darf.
 
 (+++ § 171: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
@@ -3351,19 +3429,19 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 Der behördlich bestimmte Sachverständige bedarf für die Ausübung der Sachverständigentätigkeit weder einer Genehmigung noch muss er sie anzeigen.
 
-(2) Der behördlich bestimmte Sachverständige muss unabhängig sein von Personen, die an der Herstellung, am Vertrieb oder an der Instandhaltung von Anlagen zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtungen, Röntgeneinrichtungen, Störstrahlern oder umschlossenen radioaktiven Stoffen beteiligt sind. Der behördlich bestimmte Sachverständige oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, die Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, müssen die erforderliche Fachkunde im Strahlenschutz besitzen. Der behördlich bestimmte Sachverständige darf keinen fachlichen Weisungen im Hinblick auf die Sachverständigentätigkeit unterliegen.
+(2) Der behördlich bestimmte Sachverständige muss unabhängig sein von Personen, die an der Herstellung, am Vertrieb oder an der Instandhaltung von Anlagen zur Erzeugung ionisierender Strahlung, Bestrahlungsvorrichtungen, Röntgeneinrichtungen, Störstrahlern oder umschlossenen radioaktiven Stoffen beteiligt sind. Der behördlich bestimmte Sachverständige oder, bei juristischen Personen oder sonstigen Personenvereinigungen, die Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, müssen die erforderliche Fachkunde im Strahlenschutz besitzen. Der behördlich bestimmte Sachverständige darf keinen fachlichen Weisungen im Hinblick auf die Sachverständigentätigkeit unterliegen.
 
-(3) Für die Sachverständigentätigkeit eines behördlich bestimmten Sachverständigen gelten die Pflichten des Strahlenschutzverantwortlichen nach § 72 Absatz 1 entsprechend. Handelt es sich bei dem behördlich bestimmten Sachverständigen um eine juristische Person oder eine nicht rechtsfähige Personengesellschaft, so gilt für diese Person auch § 70 entsprechend. Übt der behördlich bestimmte Sachverständige die Sachverständigentätigkeit in einem Beschäftigungsverhältnis aus, so gelten die §§ 70 und 72 Absatz 1 abweichend von den Sätzen 1 und 2 entsprechend für diejenige Person, zu der das Beschäftigungsverhältnis besteht.
+(3) Für die Sachverständigentätigkeit eines behördlich bestimmten Sachverständigen gelten die Pflichten des Strahlenschutzverantwortlichen nach § 72 Absatz 1 entsprechend. Handelt es sich bei dem behördlich bestimmten Sachverständigen um eine juristische Person oder eine sonstige Personenvereinigung, so gilt für diese Person auch § 70 entsprechend. Übt der behördlich bestimmte Sachverständige die Sachverständigentätigkeit in einem Beschäftigungsverhältnis aus, so gelten die §§ 70 und 72 Absatz 1 abweichend von den Sätzen 1 und 2 entsprechend für diejenige Person, zu der das Beschäftigungsverhältnis besteht.
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. die Anforderungen an die Ausbildung, die beruflichen Kenntnisse und Fähigkeiten, insbesondere hinsichtlich Berufserfahrung und Eignung, der behördlich bestimmten Sachverständigen oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, festzulegen,
+1. die Anforderungen an die Ausbildung, die beruflichen Kenntnisse und Fähigkeiten, insbesondere hinsichtlich Berufserfahrung und Eignung, der behördlich bestimmten Sachverständigen oder, bei juristischen Personen oder sonstigen Personenvereinigungen, der Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, festzulegen,
 
-2. festzulegen, welche Anforderungen an die Zuverlässigkeit, Unabhängigkeit und Unparteilichkeit der Sachverständigen und, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, bestehen,
+2. festzulegen, welche Anforderungen an die Zuverlässigkeit, Unabhängigkeit und Unparteilichkeit der Sachverständigen und, bei juristischen Personen oder sonstigen Personenvereinigungen, der Personen, die Aufgaben als behördlich bestimmte Sachverständige wahrnehmen, bestehen,
 
 3. festzulegen, wie die Einweisung in die Sachverständigentätigkeit erfolgt, welchen Umfang die Prüftätigkeit umfasst, wie die Prüfmaßstäbe festgelegt werden und welche sonstigen Voraussetzungen und Pflichten, einschließlich der Qualitätssicherung, in Bezug auf die Prüfungen und die Zusammenarbeit mit den zuständigen Behörden für behördlich bestimmte Sachverständige gelten, und
 
-4. festzulegen, welche Voraussetzungen bei der behördlichen Bestimmung eines Sachverständigen zu prüfen sind, dass und unter welchen Umständen die Bestimmung eines Sachverständigen befristet werden kann und unter welchen Voraussetzungen die Bestimmung zurückgenommen werden kann.
+4. festzulegen, welche Voraussetzungen bei der behördlichen Bestimmung eines Sachverständigen zu prüfen sind und dass und unter welchen Voraussetzungen die Bestimmung eines Sachverständigen befristet werden kann.
 
 # § 173 – Verordnungsermächtigungen für Mitteilungspflichten bei Fund und Erlangung
 
@@ -3411,19 +3489,33 @@ Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Recht
 
 # § 178 – Strahlenschutzrechtliche Aufsicht
 
-Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen unterliegt der Aufsicht durch die zuständigen Behörden. Dies gilt nicht für Teil 3 Kapitel 1 und Teil 4 Kapitel 1 mit Ausnahme des § 95 und der Eilverordnungen nach § 96, soweit sie Regelungen über die Bewirtschaftung von Abfällen oder die Errichtung, den Betrieb oder die Benutzung von Anlagen nach § 95 regeln.
+Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen unterliegt der Aufsicht durch die zuständigen Behörden. Dies gilt nicht für Teil 3 Kapitel 1 und Teil 4 Kapitel 1 mit Ausnahme
 
-# § 179 – Anwendung des Atomgesetzes
+1. der §§ 95 und 95a,
+
+2. der Rechtsverordnungen nach § 95 und
+
+3. der Eilverordnungen nach § 96, soweit sie Regelungen nach § 95 über die Bewirtschaftung von Abfällen oder die Errichtung, den Betrieb oder die Benutzung von Anlagen enthalten.
+
+# § 179 – Anwendung des Atomgesetzes; Anordnungsbefugnis
 
 (1) Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen sind in der jeweils geltenden Fassung entsprechend anzuwenden:
 
-1. für Genehmigungen und Bauartzulassungen § 17 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 6 des Atomgesetzes über inhaltliche Beschränkungen, Auflagen, Befristung, Rücknahme, Widerruf und die Bezeichnung als Inhaber einer Kernanlage,
+1. für Genehmigungen und Bauartzulassungen sowie für Anerkennungen, Bestimmungen und Ermächtigungen § 17 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 6 des Atomgesetzes über inhaltliche Beschränkungen, Auflagen, Befristung, Rücknahme, Widerruf und die Bezeichnung als Inhaber einer Kernanlage,
 
 2. § 19 Absatz 1 Satz 2 bis 4, Absatz 2 Satz 1 bis 3 und Absatz 3 bis 5 des Atomgesetzes über die staatliche Aufsicht und
 
 3. § 20 des Atomgesetzes über Sachverständige.
 
-(2) Das Grundrecht des Artikels 13 des Grundgesetzes über die Unverletzlichkeit der Wohnung wird eingeschränkt, soweit es den Befugnissen nach Absatz 1 Nummer 2 und 3 entgegensteht.
+(2) Die zuständige Behörde kann im Einzelfall diejenigen Maßnahmen zur Durchführung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen anordnen, die zum Schutz vor der schädlichen Wirkung ionisierender Strahlung erforderlich sind. Satz 1 gilt nicht, soweit Absatz 1 Nummer 2 in Verbindung mit § 19 Absatz 3 des Atomgesetzes oder die in diesem Gesetz oder den auf dieses Gesetz gestützten Rechtsverordnungen vorgesehenen speziellen Anordnungsbefugnisse anwendbar sind. Satz 1 gilt zudem nicht für Teil 3 Kapitel 1 und Teil 4 Kapitel 1 mit Ausnahme
+
+1. der §§ 95 und 95a,
+
+2. der Rechtsverordnungen nach § 95 und
+
+3. der Eilverordnungen nach § 96, soweit sie Regelungen nach § 95 über die Bewirtschaftung von Abfällen oder die Errichtung, den Betrieb oder die Benutzung von Anlagen enthalten.
+
+(3) Das Grundrecht des Artikels 13 des Grundgesetzes über die Unverletzlichkeit der Wohnung wird eingeschränkt, soweit es den Befugnissen nach Absatz 1 Nummer 2 und 3 entgegensteht.
 
 # § 180 – Aufsichtsprogramm; Verordnungsermächtigung
 
@@ -3465,11 +3557,19 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 3. für die in der Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz näher bestimmten sonstigen Aufsichtsmaßnahmen nach § 179 Absatz 1 Nummer 2 in Verbindung mit § 19 des Atomgesetzes,
 
-4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1 bis 9 zuständig ist,
+4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1 bis 8 zuständig ist,
 
 5. für Entscheidungen des Bundesamtes für die Sicherheit der nuklearen Entsorgung über Anträge nach § 27 Absatz 1, soweit es nach § 186 Absatz 1 zuständig ist,
 
-6. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 zuständig ist.
+6. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 zuständig ist,
+
+7. für folgende Leistungen der Physikalisch-Technischen Bundesanstalt:
+
+a) Amtshandlungen einschließlich Prüfungen und Untersuchungen nach § 187 Absatz 1 Nummer 1 oder 2,
+
+b) die Bereitstellung von Radioaktivitätsstandards nach § 187 Absatz 1 Nummer 3 für Vergleichsmessungen des Bundesamtes für Strahlenschutz, an denen der Strahlenschutzverantwortliche zur Sicherung der Qualität der von ihm nach Maßgabe der Rechtsverordnung nach § 81 Satz 2 Nummer 7 durchzuführenden Emissionsmessungen teilzunehmen hat,
+
+8. für Entscheidungen des Eisenbahn-Bundesamtes über Anträge nach § 27 Absatz 1, soweit es nach § 190 Satz 1 zuständig ist.
 
 (2) In den Rechtsverordnungen nach den §§ 81 und 185 Absatz 2 Nummer 5 und 6 können auch Regelungen zur Kostenerhebung für Amtshandlungen der danach zuständigen Behörden getroffen werden.
 
@@ -3525,11 +3625,11 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 3. die Prüfung der Anzeige des Betriebs von Raumfahrzeugen sowie die Untersagung des Betriebs,
 
-4. die Bauartzulassung von Vorrichtungen, die radioaktive Stoffe enthalten, und Anlagen zur Erzeugung ionisierender Strahlung nach § 45 Absatz 1 Nummer 1,
+4. die Bauartzulassung nach § 45 Absatz 1 Nummer 1 für Vorrichtungen, die sonstige radioaktive Stoffe enthalten, und die Bauartzulassung nach § 45 Absatz 1 Nummer 7 für Anlagen zur Erzeugung ionisierender Strahlung,
 
 5. die Durchführung von Maßnahmen zur Qualitätssicherung bei der Ermittlung der Körperdosis des fliegenden Personals,
 
-6. die Überwachung der Einhaltung der Anforderungen zum Schutz vor Expositionen von Personen durch kosmische Strahlung beim Betrieb von Raumfahrzeugen nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung,
+6. die Überwachung der Einhaltung der Anforderungen zum Schutz vor Expositionen von Personen durch kosmische Strahlung beim Betrieb von Raumfahrzeugen nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, einschließlich der Bescheinigung der erforderlichen Fachkunde im Strahlenschutz sowie der Anerkennung von Kursen zu deren Erwerb,
 
 7. die Einrichtung und Führung eines Registers über Ethikkommissionen, die Forschungsvorhaben zur Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung bewerten, die Registrierung der Ethikkommissionen und den Widerruf der Registrierung,
 
@@ -3557,7 +3657,7 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 # § 186 – Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
-(1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständig für die Genehmigung der Beförderung von Großquellen sowie deren Rücknahme und Widerruf. Großquellen sind radioaktive Stoffe, deren Aktivität je Beförderungs- oder Versandstück den Aktivitätswert von 1 000 Terabecquerel übersteigt.
+(1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständig für die Genehmigung der Beförderung von Großquellen sowie deren Rücknahme und Widerruf. Großquellen sind sonstige radioaktive Stoffe, deren Aktivität je Beförderungs- oder Versandstück den Aktivitätswert von 1 000 Terabecquerel übersteigt.
 
 (2) Das Bundesamt für die Sicherheit der nuklearen Entsorgung nimmt auch die in § 184 bezeichneten Zuständigkeiten wahr als
 
@@ -3579,7 +3679,7 @@ c) der Errichtung, des Betriebs und der Stilllegung von Anlagen des Bundes nach 
 
 2. die Durchführung von Maßnahmen zur Qualitätssicherung von Messstellen für die externe Exposition nach Maßgabe der Rechtsverordnung nach § 169 Absatz 4 und
 
-3. die Bereitstellung von Radioaktivitätsstandards für Vergleichsmessungen nach Maßgabe der Rechtsverordnung nach § 81 Satz 2 Nummer 7.
+3. die Bereitstellung von Radioaktivitätsstandards für Vergleichsmessungen nach Maßgabe der Rechtsverordnung nach § 81 Satz 3.
 
 (2) Die Rechts- und Fachaufsicht über die Physikalisch-Technische Bundesanstalt für die Aufgaben nach diesem Gesetz obliegt dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Soweit dadurch technisch-wissenschaftliche Belange der Bundesanstalt, ihre strategische Ausrichtung oder sonstige Rahmenbedingungen berührt werden, ist ein Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie herzustellen.
 
@@ -3587,7 +3687,7 @@ c) der Errichtung, des Betriebs und der Stilllegung von Anlagen des Bundes nach 
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist zuständig für die Erteilung einer Genehmigung für die grenzüberschreitende Verbringung von Konsumgütern sowie für ihre Rücknahme und den Widerruf. Das Gleiche gilt, soweit die Rechtsverordnungen nach § 24 Satz 1 Nummer 7 und § 30 das Erfordernis von Genehmigungen und Zustimmungen sowie die Prüfung von Anzeigen oder Anmeldungen für grenzüberschreitende Verbringungen vorsehen.
 
-(2) Die Überwachung von grenzüberschreitenden Verbringungen radioaktiver Stoffe, von Konsumgütern oder Produkten nach § 39 Absatz 1 Satz 1 Nummer 1 bis 10, denen radioaktive Stoffe zugesetzt oder die aktiviert worden sind, sowie von Rückständen obliegt dem Bundesministerium der Finanzen oder den von ihm bestimmten Zolldienststellen. Die Zolldienststellen können
+(2) Die Zollbehörden wirken bei der Überwachung von grenzüberschreitenden Verbringungen radioaktiver Stoffe, von Konsumgütern oder Produkten nach § 39 Absatz 1 Satz 1 Nummer 1 bis 10, denen radioaktive Stoffe zugesetzt oder die aktiviert worden sind, sowie von Rückständen mit. Die Zollbehörden können
 
 1. grenzüberschreitend verbrachte Sendungen, die radioaktive Stoffe, Rückstände oder die in Satz 1 genannten Konsumgüter oder Produkte enthalten, sowie deren Beförderungsmittel, Behälter, Lademittel und Verpackungsmittel zur Überwachung anhalten,
 
@@ -3647,6 +3747,10 @@ Reichen diese Informationen im Einzelfall nicht aus, können weitere Information
 
 (2) Die Empfänger dürfen die übermittelten Informationen, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verarbeiten, zu dem sie übermittelt worden sind.
 
+# § 193a – Ausstattung der zuständigen Behörden
+
+Die zuständigen Behörden verfügen über die zur Erfüllung ihrer gesetzlichen Aufgaben erforderliche Ausstattung an Finanzmitteln und die erforderliche Personalausstattung.
+
 # § 194 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -3675,7 +3779,7 @@ e) § 12 Absatz 1 Nummer 4 erster Halbsatz eine Röntgeneinrichtung betreibt,
 
 f) § 12 Absatz 1 Nummer 5 erster Halbsatz einen Störstrahler betreibt,
 
-g) § 12 Absatz 2, in Verbindung mit Absatz 1 Nummer 1, 4 oder 5, eine genehmigungsbedürftige Tätigkeit ändert,
+g) § 12 Absatz 2 eine genehmigungsbedürftige Tätigkeit ändert,
 
 h) § 25 Absatz 1 Satz 1 in einer dort genannten Anlage eine Person beschäftigt oder eine Aufgabe selbst wahrnimmt,
 
@@ -3689,7 +3793,7 @@ l) § 42 Absatz 1 ein dort genanntes Konsumgut verbringt,
 
 3. entgegen § 17 Absatz 1 Satz 1, § 19 Absatz 1 Satz 1, § 22 Absatz 1, § 26 Absatz 1 Satz 1, § 32 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, § 50 Absatz 1, auch in Verbindung mit Absatz 2, § 52 Absatz 1, auch in Verbindung mit Absatz 3 Satz 1, § 56 Absatz 1, auch in Verbindung mit Absatz 3, § 59 Absatz 2, auch in Verbindung mit Absatz 4, oder § 63 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-4. einer vollziehbaren Anordnung nach § 18 Absatz 3, § 20 Absatz 3, 4 oder 5, § 22 Absatz 3, § 26 Absatz 3, den §§ 34, 51 Absatz 2, § 53 Absatz 2 oder 3, § 55 Absatz 2, § 57 Absatz 3 oder 4, jeweils auch in Verbindung mit § 59 Absatz 4, § 61 Absatz 5 Satz 1, § 63 Absatz 2, § 64 Absatz 2 Satz 3, § 65 Absatz 1, § 127 Absatz 1 Satz 3, § 129 Absatz 2 Satz 3, § 130 Absatz 2 Satz 3, § 134 Absatz 3, § 135 Absatz 3 Satz 1, § 139 Absatz 1 Satz 1, auch in Verbindung mit § 148 Satz 1, § 156 Absatz 3 Satz 1 oder Absatz 4 Satz 2 oder § 158 Absatz 2 zuwiderhandelt,
+4. einer vollziehbaren Anordnung nach § 18 Absatz 3, § 20 Absatz 3, 4 oder 5, § 22 Absatz 3, § 26 Absatz 3, den §§ 34, 51 Absatz 2, § 53 Absatz 2 oder 3, § 55 Absatz 2, § 57 Absatz 3 oder 4, jeweils auch in Verbindung mit § 59 Absatz 4, § 61 Absatz 5 Satz 1, § 63 Absatz 2, § 64 Absatz 2 Satz 3, § 65 Absatz 1, § 127 Absatz 1 Satz 4, § 129 Absatz 2 Satz 3, § 130 Absatz 2 Satz 3, § 134 Absatz 3, § 135 Absatz 3 Satz 1, § 139 Absatz 1 Satz 1, auch in Verbindung mit § 148 Satz 1, § 156 Absatz 3 Satz 1 oder Absatz 4 Satz 2 oder § 158 Absatz 2 zuwiderhandelt,
 
 5. entgegen den §§ 21, 54, 58, auch in Verbindung mit § 59 Absatz 4, § 61 Absatz 4 Satz 2, § 64 Absatz 2 Satz 1, § 70 Absatz 4 Satz 1, § 71 Absatz 2 Satz 1 oder § 167 Absatz 3 Satz 3, auch in Verbindung mit Satz 4, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
@@ -3733,11 +3837,11 @@ l) § 42 Absatz 1 ein dort genanntes Konsumgut verbringt,
 
 25. entgegen § 85 Absatz 1 Satz 3 eine Aufzeichnung nicht oder nicht richtig sichert,
 
-26. entgegen § 85 Absatz 3 Nummer 1 Buchstabe a erster Halbsatz oder Buchstabe b eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+26. entgegen § 85 Absatz 3 Satz 1 Nummer 1 erster Halbsatz oder Nummer 2 eine Aufzeichnung, ein Röntgenbild oder dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-27. entgegen § 127 Absatz 1 Satz 1 eine Messung nicht, nicht richtig oder nicht rechtzeitig veranlasst,
+27. entgegen § 127 Absatz 1 Satz 1 oder 3 erster Halbsatz eine Messung nicht, nicht richtig oder nicht rechtzeitig veranlasst,
 
-28. entgegen § 127 Absatz 3, § 128 Absatz 2 Satz 2, § 130 Absatz 1 Satz 3, § 134 Absatz 2 oder § 145 Absatz 1 Satz 3, auch in Verbindung mit § 148 Satz 1, eine dort genannte Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig fertigt oder nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+28. entgegen § 127 Absatz 3, § 128 Absatz 2 Satz 3 oder 4, § 130 Absatz 1 Satz 3, § 134 Absatz 2 oder § 145 Absatz 1 Satz 3, auch in Verbindung mit § 148 Satz 1, eine dort genannte Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig fertigt oder nicht oder nicht für die vorgeschriebene Dauer aufbewahrt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 29. entgegen § 128 Absatz 1 eine Maßnahme nicht, nicht richtig oder nicht rechtzeitig ergreift,
 
@@ -3765,7 +3869,7 @@ l) § 42 Absatz 1 ein dort genanntes Konsumgut verbringt,
 
 41. entgegen § 168 Absatz 1 Satz 2 oder § 168 Absatz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder
 
-42. einer vollziehbaren Auflage nach § 179 Absatz 1 Nummer 1 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Satz 2 oder 3 des Atomgesetzes oder einer vollziehbaren Anordnung nach § 179 Absatz 2 Nummer 1 dieses Gesetzes in Verbindung mit § 19 Absatz 3 des Atomgesetzes zuwiderhandelt.
+42. einer vollziehbaren Auflage nach § 179 Absatz 1 Nummer 1 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Satz 2 oder 3 des Atomgesetzes oder einer vollziehbaren Anordnung nach § 179 Absatz 1 Nummer 2 dieses Gesetzes in Verbindung mit § 19 Absatz 3 des Atomgesetzes zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe a und c, Nummer 2 bis 4, 6 bis 9, 14 bis 23, 29, 32, 34 und 42 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -3817,13 +3921,11 @@ Die zuständige Behörde kann von dem Inhaber einer Genehmigung nach Satz 1 inne
 
 # § 198 – Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 12)
 
-(1) Eine vor dem 31. Dezember 2018 erteilte Genehmigung für den Betrieb von Röntgeneinrichtungen, mit Ausnahme der in den Absätzen 2 und 3 genannten Röntgeneinrichtungen, gilt als Genehmigung nach § 12 Absatz 1 Nummer 4 mit allen Nebenbestimmungen fort. Dies gilt für
+(1) Eine vor dem 31. Dezember 2018 erteilte Genehmigung für den Betrieb von Röntgeneinrichtungen, mit Ausnahme der in den Absätzen 2 und 3 genannten Röntgeneinrichtungen, gilt als Genehmigung nach § 12 Absatz 1 Nummer 4 mit allen Nebenbestimmungen fort. Bei
 
-1. Genehmigungen im Zusammenhang mit der Anwendung am Menschen für eine Behandlung mit ionisierender Strahlung, der ein individueller Bestrahlungsplan zugrunde liegt, wenn bis zum 31. Dezember 2020 bei der zuständigen Behörde nachgewiesen ist, dass die Voraussetzungen nach § 14 Absatz 1 Nummer 2 Buchstabe a, Nummer 3 Buchstabe a und Nummer 4 erfüllt sind,
+1. Genehmigungen im Zusammenhang mit der Anwendung am Menschen für eine standardisierte Behandlung mit ionisierender Strahlung sowie zur Untersuchung mit ionisierender Strahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, ist bis zum 31. Dezember 2022 bei der zuständigen Behörde nachzuweisen, dass die Voraussetzungen nach § 14 Absatz 1 Nummer 2 Buchstabe b, Nummer 3 Buchstabe b und Nummer 4 erfüllt sind,
 
-2. Genehmigungen im Zusammenhang mit der Anwendung am Menschen für eine standardisierte Behandlung mit ionisierender Strahlung sowie zur Untersuchung mit ionisierender Strahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, wenn bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen ist, dass die Voraussetzungen nach § 14 Absatz 1 Nummer 2 Buchstabe b, Nummer 3 Buchstabe b und Nummer 4 erfüllt sind,
-
-3. unbefristete Genehmigungen zur Teleradiologie, wenn bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen ist, dass die Voraussetzung des § 14 Absatz 2 Nummer 4 und, soweit einschlägig, die in Nummer 2 genannten Voraussetzungen erfüllt sind.
+2. unbefristeten Genehmigungen zur Teleradiologie ist bis zum 31. Dezember 2022 bei der zuständigen Behörde nachzuweisen, dass die Voraussetzung des § 14 Absatz 2 Nummer 4 und, soweit einschlägig, die in Nummer 2 genannten Voraussetzungen erfüllt sind.
 
 (2) Eine Genehmigung für den Betrieb von Röntgeneinrichtungen zur Teleradiologie über den Nacht-, Wochenend- und Feiertagsdienst hinaus, die vor dem 31. Dezember 2018 nach § 3 Absatz 1 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung erteilt und nach § 3 Absatz 4 Satz 4 der Röntgenverordnung befristet worden ist, gilt bis zum Ablauf der in der Genehmigung genannten Frist mit allen Nebenbestimmungen fort.
 
@@ -3837,7 +3939,7 @@ Eine Anzeige des Betriebs einer Anlage zur Erzeugung ionisierender Strahlung, di
 
 # § 200 – Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)
 
-(1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 1 fort. Dies gilt für Anzeigen im Zusammenhang mit der Anwendung am Menschen zur Untersuchung mit Röntgenstrahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, wenn die jeweils einschlägigen Voraussetzungen nach § 19 Absatz 3 Satz 1 Nummer 8 in Verbindung mit § 14 Absatz 1 Nummer 2 Buchstabe b und Nummer 4 bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen sind.
+(1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 1 fort. Bei Anzeigen im Zusammenhang mit der Anwendung am Menschen zur Untersuchung mit Röntgenstrahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, sind die jeweils einschlägigen Voraussetzungen nach § 19 Absatz 3 Satz 1 Nummer 6 in Verbindung mit § 14 Absatz 1 Nummer 2 Buchstabe b und Nummer 4 bis zum 31. Dezember 2022 bei der zuständigen Behörde nachzuweisen.
 
 (2) Eine Anzeige des Betriebs eines Basis-, Hoch- oder Vollschutzgerätes oder einer Schulröntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 2 fort.
 
@@ -3890,6 +3992,8 @@ Eine Genehmigung für die grenzüberschreitende Verbringung von Konsumgütern, d
 (3) Für die Verwendung und Lagerung von Vorrichtungen, die radioaktive Stoffe enthalten und für die vor dem 1. August 2001 eine Bauartzulassung erteilt worden ist, gelten die Regelungen des § 4 Absatz 1, 2 Satz 2 und 5 in Verbindung mit Anlage II Nummer 2 oder 3 und Anlage III Teil B Nummer 4, § 29 Absatz 1 Satz 1, der §§ 34 und 78 Absatz 1 Nummer 1 der Strahlenschutzverordnung vom 30. Juni 1989 fort; nach dem Auslaufen dieser Bauartzulassung gilt auch die Regelung des § 23 Absatz 2 Satz 3 der Strahlenschutzverordnung vom 30. Juni 1989 fort; § 69 Absatz 2, §§ 70, 71, 72 dieses Gesetzes gelten entsprechend.
 
 (4) Vorrichtungen, deren Bauartzulassung vor dem 1. August 2001 ausgelaufen ist und die auf Grund des § 117 Absatz 7 Satz 3 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung nach Maßgabe des § 23 Absatz 2 Satz 3 in Verbindung mit § 4 der Strahlenschutzverordnung vom 30. Juni 1989 weiterbetrieben worden sind, dürfen weiter genehmigungsfrei betrieben werden.
+
+(5) Bauartzulassungen für Anlagen zur Erzeugung ionisierender Strahlung, die vor dem 5. Juni 2021 nach § 45 Absatz 1 Nummer 1 in seiner bis dahin geltenden Fassung erteilt worden sind, gelten als Bauartzulassungen nach § 45 Absatz 1 Nummer 7 fort. Anlagen zur Erzeugung ionisierender Strahlung, die vor dem 5. Juni 2021 auf Grund einer Bauartzulassung nach § 45 Absatz 1 Nummer 1 in seiner bis dahin geltenden Fassung betrieben wurden, dürfen als bauartzugelassene Vorrichtungen nach § 45 Absatz 1 Nummer 7 weiterbetrieben werden, wenn bis zum 5. Juni 2021 eine Anzeige nach § 17 Absatz 1 Satz 1 Nummer 4 erstattet wird.
 
 # § 209 – Anzeigebedürftiger Betrieb von Luftfahrzeugen (§ 50)
 
@@ -3979,7 +4083,7 @@ Rückstände im Sinne dieses Gesetzes sind auch
 
 Keine Rückstände im Sinne dieses Gesetzes sind Materialien nach Satz 1,
 
-1. deren spezifische Aktivität für jedes Radionuklid der Nuklidketten U-238sec und Th-232sec unter 0,2 Becquerel durch Gramm (Bq/g) liegt und die nicht als Bauprodukte verwertet werden, oder
+1. deren spezifische Aktivität für jedes Radionuklid der U-238-Zerfallsreihe und der Th-232-Zerfallsreihe unter 0,2 Becquerel durch Gramm (Bq/g) liegt und die nicht als Bauprodukte verwertet werden, oder
 
 2. die in dort genannte technologische Prozesse als Rohstoffe eingebracht werden.
 
