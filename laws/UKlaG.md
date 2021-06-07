@@ -73,11 +73,7 @@ Eine Datenerhebung, Datenverarbeitung oder Datennutzung zu einem vergleichbaren 
 
 # § 2a – Unterlassungsanspruch nach dem Urheberrechtsgesetz
 
-(1) Wer gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstößt, kann auf Unterlassung in Anspruch genommen werden.
-
-(2) Absatz 1 gilt nicht, soweit Werke und sonstige Schutzgegenstände der Öffentlichkeit auf Grund einer vertraglichen Vereinbarung in einer Weise zugänglich gemacht werden, dass sie Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind.
-
-(3) (weggefallen)
+Wer gegen § 95b Absatz 1 Satz 1 des Urheberrechtsgesetzes verstößt, kann auf Unterlassung in Anspruch genommen werden.
 
 # § 2b – Missbräuchliche Geltendmachung von Ansprüchen
 
@@ -113,7 +109,7 @@ Der Anspruch kann nur an Stellen im Sinne des Satzes 1 abgetreten werden.
 
 # § 3a – Anspruchsberechtigte Verbände nach § 2a
 
-Der in § 2a Abs. 1 bezeichnete Anspruch auf Unterlassung steht rechtsfähigen Verbänden zur nicht gewerbsmäßigen und nicht nur vorübergehenden Förderung der Interessen derjenigen zu, die durch § 95b Abs. 1 Satz 1 des Urheberrechtsgesetzes begünstigt werden. Der Anspruch kann nur an Verbände im Sinne des Satzes 1 abgetreten werden.
+Der in § 2a bezeichnete Anspruch auf Unterlassung steht rechtsfähigen Verbänden zur nicht gewerbsmäßigen und nicht nur vorübergehenden Förderung der Interessen derjenigen zu, die durch § 95b Abs. 1 Satz 1 des Urheberrechtsgesetzes begünstigt werden. Der Anspruch kann nur an Verbände im Sinne des Satzes 1 abgetreten werden.
 
 # § 4 – Liste der qualifizierten Einrichtungen
 
@@ -215,7 +211,7 @@ Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und § 12 Absatz
 
 2. gegen Verbraucherschutzgesetze verstoßen wurde oder
 
-3. gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstoßen wurde.
+3. gegen § 95b Absatz 1 Satz 1 des Urheberrechtsgesetzes verstoßen wurde.
 
 (2) Die Landesregierungen werden ermächtigt, zur sachdienlichen Förderung oder schnelleren Erledigung der Verfahren durch Rechtsverordnung einem Landgericht für die Bezirke mehrerer Landgerichte Rechtsstreitigkeiten nach diesem Gesetz zuzuweisen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
