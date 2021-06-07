@@ -51,6 +51,10 @@ Mitglieder im Sinne dieses Gesetzes sind von der Verwertungsgesellschaft als Mit
 
 2. Einrichtungen, die Rechtsinhaber vertreten.
 
+# § 7a – Außenstehender
+
+Außenstehender im Sinne dieses Gesetzes ist ein Rechtsinhaber, der im Hinblick auf die betreffende Nutzung nicht in einem vertraglichen Wahrnehmungsverhältnis zu einer Verwertungsgesellschaft steht.
+
 # § 8 – Nutzer
 
 Nutzer im Sinne dieses Gesetzes ist jede natürliche oder juristische Person, die eine Handlung vornimmt, die der Erlaubnis des Rechtsinhabers bedarf, oder die zur Zahlung einer Vergütung an den Rechtsinhaber verpflichtet ist.
@@ -163,7 +167,7 @@ Die Verwertungsgesellschaft sieht in dem Statut angemessene und wirksame Verfahr
 
 (2) Alle Mitglieder der Verwertungsgesellschaft sind sowohl zur Teilnahme an der Mitgliederhauptversammlung als auch zur Abstimmung berechtigt.
 
-(3) Die Verwertungsgesellschaft regelt in dem Statut die Voraussetzungen, unter denen die Mitglieder an der Mitgliederhauptversammlung zusätzlich auch ohne Anwesenheit vor Ort und ohne einen Vertreter teilnehmen können und ihr Stimmrecht im Wege elektronischer Kommunikation ausüben können. Die Verwertungsgesellschaft kann die elektronische Ausübung weiterer Mitgliedschaftsrechte zulassen.
+(3) Die Verwertungsgesellschaft regelt in dem Statut die Voraussetzungen, unter denen die Mitglieder an der Mitgliederhauptversammlung auch ohne Anwesenheit vor Ort und ohne einen Vertreter teilnehmen können und ihr Stimmrecht im Wege elektronischer Kommunikation ausüben können. Die Verwertungsgesellschaft kann die elektronische Ausübung weiterer Mitgliedschaftsrechte zulassen.
 
 (4) Jedes Mitglied muss nach Gesetz oder nach dem Statut berechtigt sein, seine Rechte in der Mitgliederhauptversammlung auch durch einen Vertreter ausüben zu lassen, sofern die Vertretung nicht zu einem Interessenkonflikt führt. Ein Interessenkonflikt liegt insbesondere darin, dass derselbe Vertreter Mitglieder verschiedener im Statut festgelegter Kategorien vertritt. Die Verwertungsgesellschaft kann in dem Statut die Anzahl der durch denselben Vertreter vertretenen Mitglieder beschränken, wobei diese Anzahl zehn nicht unterschreiten darf. Eine Vollmacht zur Vertretung eines Mitglieds in einer Mitgliederhauptversammlung ist nur wirksam, wenn sie auf die Vertretung des Mitglieds in dieser Mitgliederhauptversammlung beschränkt ist. Der Vertreter ist verpflichtet, entsprechend den Anweisungen des Mitglieds abzustimmen, das ihn bestellt hat.
 
@@ -267,13 +271,19 @@ Die Verwertungsgesellschaft darf die Einnahmen aus den Rechten nur zu folgenden 
 
 (1) Die Verwertungsgesellschaft stellt feste Regeln auf, die ein willkürliches Vorgehen bei der Verteilung der Einnahmen aus den Rechten ausschließen (Verteilungsplan).
 
-(2) Nimmt die Verwertungsgesellschaft Rechte für mehrere Rechtsinhaber gemeinsam wahr, kann sie im Verteilungsplan regeln, dass die Einnahmen aus der Wahrnehmung dieser Rechte unabhängig davon, wer die Rechte eingebracht hat, nach festen Anteilen verteilt werden.
+(2) Nimmt die Verwertungsgesellschaft Rechte für mehrere Gruppen von Rechtsinhabern gemeinsam wahr, kann sie im Verteilungsplan regeln, dass die Einnahmen aus der Wahrnehmung dieser Rechte unabhängig davon, wer die Rechte eingebracht hat, nach festen Anteilen verteilt werden.
 
 # § 27a – Einnahmen aus gesetzlichen Vergütungsansprüchen des Urhebers
 
-(1) Nach der Veröffentlichung eines verlegten Werks oder mit der Anmeldung des Werks bei der Verwertungsgesellschaft kann der Urheber gegenüber der Verwertungsgesellschaft zustimmen, dass der Verleger an den Einnahmen aus den in § 63a Satz 1 des Urheberrechtsgesetzes genannten gesetzlichen Vergütungsansprüchen beteiligt wird.
+(1) Nach der Veröffentlichung eines verlegten Werks oder mit der Anmeldung des Werks bei der Verwertungsgesellschaft kann der Urheber gegenüber der Verwertungsgesellschaft zustimmen, dass der Verleger an den Einnahmen aus den in § 63a Absatz 1 des Urheberrechtsgesetzes genannten gesetzlichen Vergütungsansprüchen beteiligt wird.
 
 (2) Die Verwertungsgesellschaft legt die Höhe des Verlegeranteils nach Absatz 1 fest.
+
+(3) Die Absätze 1 und 2 sind auf Einnahmen aus dem Vergütungsanspruch nach § 27 Absatz 2 des Urheberrechtsgesetzes entsprechend anzuwenden.
+
+# § 27b – Mindestbeteiligung des Urhebers
+
+Ist der Verleger nach § 63a Absatz 2 und 3 des Urheberrechtsgesetzes oder nach § 27a an der angemessenen Vergütung zu beteiligen, so stehen dem Urheber mindestens zwei Drittel der Einnahmen zu, sofern die Verwertungsgesellschaft keine andere Verteilung festlegt.
 
 # § 28 – Verteilungsfrist
 
@@ -395,7 +405,7 @@ Die Verwertungsgesellschaft stellt Tarife auf über die Vergütung, die sie aufg
 
 # § 41 – Auskunftspflicht der Nutzer
 
-(1) Die Verwertungsgesellschaft kann von dem Nutzer Auskunft über die Nutzung derjenigen Werke und sonstiger Schutzgegenstände verlangen, an denen sie dem Nutzer die Nutzungsrechte eingeräumt hat, soweit die Auskunft für die Einziehung der Einnahmen aus den Rechten oder für deren Verteilung erforderlich ist. Dies gilt nicht, soweit dem Nutzer die Erteilung der Auskunft nur mit unangemessen hohem Aufwand möglich ist.
+(1) Die Verwertungsgesellschaft kann von dem Nutzer Auskunft über die Nutzung derjenigen Werke und sonstiger Schutzgegenstände verlangen, an denen sie dem Nutzer die Nutzungsrechte eingeräumt hat oder für deren Nutzung sie nach dem Urheberrechts-Diensteanbieter-Gesetz Vergütungsansprüche geltend macht, soweit die Auskunft für die Einziehung der Einnahmen aus den Rechten oder für deren Verteilung erforderlich ist. Dies gilt nicht, soweit dem Nutzer die Erteilung der Auskunft nur mit unangemessen hohem Aufwand möglich ist.
 
 (2) Die Verwertungsgesellschaft vereinbart mit dem Nutzer in den Nutzungsverträgen angemessene Regelungen über die Erteilung der Auskunft.
 
@@ -467,71 +477,115 @@ Macht die Verwertungsgesellschaft einen Auskunftsanspruch geltend, der nur durch
 
 (3) Soweit die Verwertungsgesellschaft Zahlungen auch für die Rechtsinhaber erhält, deren Rechte sie nicht wahrnimmt, hat sie den Nutzer von den Vergütungsansprüchen dieser Rechtsinhaber freizustellen.
 
-# § 50 – Außenseiter bei Kabelweitersendung
+# § 50 – Außenstehende bei Weitersendung und Direkteinspeisung
 
-(1) Hat ein Rechtsinhaber die Wahrnehmung seines Rechts der Kabelweitersendung im Sinne des § 20b Absatz 1 Satz 1 des Urheberrechtsgesetzes keiner Verwertungsgesellschaft übertragen, so gilt die Verwertungsgesellschaft, die Rechte dieser Art wahrnimmt und der eine Erlaubnis (§ 77) erteilt wurde, als berechtigt, seine Rechte wahrzunehmen. Kommen dafür mehrere Verwertungsgesellschaften in Betracht, so gelten sie gemeinsam als berechtigt; wählt der Rechtsinhaber eine von ihnen aus, so gilt nur diese als berechtigt. Die Sätze 1 und 2 gelten nicht für Rechte, die das Sendeunternehmen innehat, dessen Sendung weitergesendet wird.
+(1) Hat ein Rechtsinhaber die Wahrnehmung seines Rechts der Weitersendung im Sinne des § 20b Absatz 1 Satz 1 des Urheberrechtsgesetzes oder der Direkteinspeisung im Sinne des § 20d Absatz 1 des Urheberrechtsgesetzes keiner Verwertungsgesellschaft übertragen, so gilt die Verwertungsgesellschaft, die Rechte dieser Art wahrnimmt und der eine Erlaubnis (§ 77) erteilt wurde, als berechtigt, seine Rechte wahrzunehmen. Kommen dafür mehrere Verwertungsgesellschaften in Betracht, so gelten sie gemeinsam als berechtigt; wählt der Rechtsinhaber eine von ihnen aus, so gilt nur diese als berechtigt. Die Sätze 1 und 2 gelten nicht für Rechte, die das Sendeunternehmen innehat, dessen Sendung weitergesendet wird.
 
-(2) Hat die Verwertungsgesellschaft, die nach Absatz 1 als berechtigt gilt, eine Vereinbarung über die Kabelweitersendung getroffen, so hat der Rechtsinhaber im Verhältnis zu dieser Verwertungsgesellschaft die gleichen Rechte und Pflichten, wie wenn er ihr seine Rechte zur Wahrnehmung übertragen hätte. Seine Ansprüche verjähren in drei Jahren von dem Zeitpunkt an, in dem die Verwertungsgesellschaft nach dem Verteilungsplan oder den Wahrnehmungsbedingungen die Abrechnung der Kabelweitersendung vorzunehmen hat; die Verwertungsgesellschaft kann ihm eine Verkürzung durch Meldefristen oder auf ähnliche Weise nicht entgegenhalten.
+(2) Hat die Verwertungsgesellschaft, die nach Absatz 1 als berechtigt gilt, eine Vereinbarung über die Weitersendung oder Direkteinspeisung getroffen, so hat der Rechtsinhaber im Verhältnis zu dieser Verwertungsgesellschaft die gleichen Rechte und Pflichten, wie wenn er ihr seine Rechte zur Wahrnehmung übertragen hätte. Seine Ansprüche verjähren in drei Jahren von dem Zeitpunkt an, in dem die Verwertungsgesellschaft nach dem Verteilungsplan oder den Wahrnehmungsbedingungen die Abrechnung der Weitersendung oder Direkteinspeisung vorzunehmen hat; die Verwertungsgesellschaft kann ihm eine Verkürzung durch Meldefristen oder auf ähnliche Weise nicht entgegenhalten.
 
-# § 51 – Vergriffene Werke
+# § 51 – Kollektive Lizenzen mit erweiterter Wirkung
 
-(1) Es wird vermutet, dass eine Verwertungsgesellschaft, die Rechte der Vervielfältigung (§ 16 des Urheberrechtsgesetzes) und der öffentlichen Zugänglichmachung (§ 19a des Urheberrechtsgesetzes) an vergriffenen Werken wahrnimmt und der eine Erlaubnis (§ 77) erteilt wurde, berechtigt ist, für ihren Tätigkeitsbereich Nutzern diese Rechte auch an Werken derjenigen Rechtsinhaber einzuräumen, die die Verwertungsgesellschaft nicht mit der Wahrnehmung ihrer Rechte beauftragt haben, wenn
+(1) Schließt eine Verwertungsgesellschaft einen Vertrag über die Nutzung ihres Repertoires, so kann sie nach Maßgabe dieses Abschnitts entsprechende Nutzungsrechte auch am Werk eines Außenstehenden (§ 7a) einräumen.
 
-1. es sich um vergriffene Werke handelt, die vor dem 1. Januar 1966 in Büchern, Fachzeitschriften, Zeitungen, Zeitschriften oder in anderen Schriften veröffentlicht wurden,
+(2) Der Außenstehende kann der Rechtseinräumung nach Absatz 1 jederzeit gegenüber der Verwertungsgesellschaft widersprechen.
 
-2. sich die Werke im Bestand von öffentlich zugänglichen Bibliotheken, Bildungseinrichtungen, Museen, Archiven und von im Bereich des Film- oder Tonerbes tätigen Einrichtungen befinden,
+(3) In Bezug auf die Rechtseinräumung hat der Außenstehende im Verhältnis zur Verwertungsgesellschaft die gleichen Rechte und Pflichten wie bei einer Wahrnehmung auf vertraglicher Grundlage.
 
-3. die Vervielfältigung und die öffentliche Zugänglichmachung nicht gewerblichen Zwecken dient,
+# § 51a – Wirksamkeit der Rechtseinräumung und dauerhafte Information
 
-4. die Werke auf Antrag der Verwertungsgesellschaft in das Register vergriffener Werke (§ 52) eingetragen worden sind und
+(1) Die Einräumung von Rechten am Werk eines Außenstehenden ist unter folgenden Voraussetzungen wirksam:
 
-5. die Rechtsinhaber nicht innerhalb von sechs Wochen nach Bekanntmachung der Eintragung gegenüber dem Register ihren Widerspruch gegen die beabsichtigte Wahrnehmung ihrer Rechte durch die Verwertungsgesellschaft erklärt haben.
+1. die Verwertungsgesellschaft ist repräsentativ (§ 51b),
 
-(2) Rechtsinhaber können der Wahrnehmung ihrer Rechte durch die Verwertungsgesellschaft jederzeit widersprechen.
+2. die Einholung der Nutzungserlaubnis von allen betroffenen Außenstehenden durch den Nutzer oder die Verwertungsgesellschaft ist unzumutbar,
 
-(3) Ist mehr als eine Verwertungsgesellschaft zur Wahrnehmung der Rechte gemäß Absatz 1 berechtigt, so gilt die Vermutung nach Absatz 1 nur, wenn die Rechte von allen Verwertungsgesellschaften gemeinsam wahrgenommen werden.
+3. die Rechtseinräumung beschränkt sich auf Nutzungen im Inland,
 
-(4) Soweit die Verwertungsgesellschaft Zahlungen auch für Rechtsinhaber erhält, die die Verwertungsgesellschaft nicht mit der Wahrnehmung ihrer Rechte beauftragt haben, stellt sie den Nutzer von Ansprüchen dieser Rechtsinhaber frei. Wird vermutet, dass eine Verwertungsgesellschaft nach den Absätzen 1 und 2 zur Rechtewahrnehmung berechtigt ist, so hat ein Rechtsinhaber im Verhältnis zur Verwertungsgesellschaft die gleichen Rechte und Pflichten wie bei einer Übertragung der Rechte zur Wahrnehmung.
+4. die Verwertungsgesellschaft informiert während einer angemessen Frist von mindestens drei Monaten vor der Rechtseinräumung auf ihrer Internetseite
 
-# § 52 – Register vergriffener Werke; Verordnungsermächtigung
+a) darüber, dass sie in der Lage ist, kollektive Lizenzen mit erweiterter Wirkung zu erteilen,
 
-(1) Das Register vergriffener Werke wird beim Deutschen Patent- und Markenamt geführt. Das Register enthält die folgenden Angaben:
+b) über die Wirkungen kollektiver Lizenzen mit erweiterter Wirkung für Außenstehende,
 
-1. Titel des Werkes,
+c) über die Nutzungsarten, Werkarten und Gruppen von Rechtsinhabern, die in die kollektiven Lizenzen mit erweiterter Wirkung einbezogen werden sollen,
 
-2. Bezeichnung des Urhebers,
+d) über das Recht der Außenstehenden zum Widerspruch,
 
-3. Verlag, von dem das Werk veröffentlicht worden ist,
+5. der Außenstehende hat innerhalb der in Nummer 4 bestimmten Frist der Rechtseinräumung nicht widersprochen.
 
-4. Datum der Veröffentlichung des Werkes,
+(2) Die Verwertungsgesellschaft stellt die Informationen gemäß Absatz 1 Nummer 4 dauerhaft auf ihrer Internetseite zur Verfügung.
 
-5. Bezeichnung der Verwertungsgesellschaft, die den Antrag nach § 51 Absatz 1 Nummer 4 gestellt hat, und
+# § 51b – Repräsentativität der Verwertungsgesellschaft
 
-6. Angabe, ob der Rechtsinhaber der Wahrnehmung seiner Rechte durch die Verwertungsgesellschaft widersprochen hat.
+(1) Eine Verwertungsgesellschaft ist repräsentativ, wenn sie für eine ausreichend große Zahl von Rechtsinhabern Rechte, die Gegenstand der kollektiven Lizenz sein sollen, auf vertraglicher Grundlage wahrnimmt.
 
-(2) Das Deutsche Patent- und Markenamt bewirkt die Eintragungen, ohne die Berechtigung des Antragstellers oder die Richtigkeit der zur Eintragung angemeldeten Tatsachen zu prüfen. Die Gebühren und Auslagen für die Eintragung sind im Voraus zu entrichten.
+(2) Nimmt nur eine Verwertungsgesellschaft, der eine Erlaubnis (§ 77) erteilt wurde, Rechte nach Absatz 1 wahr, so wird widerleglich vermutet, dass sie repräsentativ ist.
 
-(3) Die Eintragungen werden auf der Internetseite des Deutschen Patent- und Markenamtes (www.dpma.de) bekannt gemacht.
+# § 52 – Kollektive Lizenzen mit erweiterter Wirkung für nicht verfügbare Werke
 
-(4) Die Einsicht in das Register steht jeder Person über die Internetseite des Deutschen Patent- und Markenamtes (www.dpma.de) frei.
+(1) Schließt eine Verwertungsgesellschaft einen Vertrag über Nutzungen von Werken ihres Repertoires, die nicht verfügbar sind (§ 52b), mit einer inländischen Kulturerbe-Einrichtung (§ 60d des Urheberrechtsgesetzes), so hat sie entsprechende Nutzungsrechte nach Maßgabe der nachfolgenden Bestimmungen auch am Werk eines Außenstehenden (§ 7a) einzuräumen.
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(2) Der Außenstehende kann der Rechtseinräumung jederzeit gegenüber dem Amt der Europäischen Union für geistiges Eigentum widersprechen.
 
-1. Bestimmungen über die Form des Antrags auf Eintragung in das Register sowie über die Führung des Registers zu erlassen,
+(3) In Bezug auf die Rechtseinräumung hat der Außenstehende im Verhältnis zur Verwertungsgesellschaft die gleichen Rechte und Pflichten wie bei einer Wahrnehmung auf vertraglicher Grundlage.
 
-2. zur Deckung des Verwaltungsaufwands für die Eintragung die Erhebung von Gebühren und Auslagen anzuordnen sowie Bestimmungen über den Kostenschuldner, die Fälligkeit von Kosten, die Kostenvorschusspflicht, über Kostenbefreiungen, über die Verjährung, das Kostenfestsetzungsverfahren und die Rechtsbehelfe gegen die Kostenfestsetzung zu treffen.
+# § 52a – Wirksamkeit der Rechtseinräumung und dauerhafte Information bei nicht verfügbaren Werken
 
-# § 52a – Datenschutz
+(1) Die Einräumung von Rechten am Werk eines Außenstehenden nach § 52 ist unter folgenden Voraussetzungen wirksam:
 
-Soweit personenbezogene Daten im Register vergriffener Werke enthalten sind, bestehen nicht
+1. die Verwertungsgesellschaft ist repräsentativ (§ 51b),
 
-1. das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72),
+2. die Rechtseinräumung beschränkt sich auf die Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung und sonstige öffentliche Wiedergabe zu nicht kommerziellen Zwecken,
 
-2. die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU) 2016/679 und
+3. das betreffende Werk befindet sich im Bestand der Kulturerbe-Einrichtung,
 
-3. das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung (EU) 2016/679.
+4. die Verwertungsgesellschaft informiert sechs Monate vor Beginn der Rechtseinräumung im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum über
 
-Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene Person Einsicht in das Register vergriffener Werke des Deutschen Patent- und Markenamtes nehmen kann.
+a) das betreffende Werk,
+
+b) die Vertragsparteien, die betroffenen Nutzungsrechte, deren Geltungsbereich,
+
+c) das Recht des Außenstehenden zum Widerspruch,
+
+5. der Außenstehende hat innerhalb der in Nummer 4 bestimmten Frist der Rechtseinräumung nicht widersprochen.
+
+Die Einräumung des Rechts der Vervielfältigung ist abweichend von Satz 1 Nummer 5 bereits mit Beginn der Bekanntgabe der Informationen im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum zulässig.
+
+(2) Die Verwertungsgesellschaft belässt die Informationen gemäß Absatz 1 Satz 1 Nummer 4 dauerhaft im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum.
+
+# § 52b – Nicht verfügbare Werke
+
+(1) Nicht verfügbar ist ein Werk, das der Allgemeinheit auf keinem üblichen Vertriebsweg in einer vollständigen Fassung angeboten wird.
+
+(2) Es wird unwiderleglich vermutet, dass ein Werk nicht verfügbar ist, wenn die Kulturerbe-Einrichtung zeitnah vor der Information gemäß § 52a Absatz 1 Satz 1 Nummer 4 mit einem vertretbaren Aufwand, aber ohne Erfolg versucht hat, Angebote nach Maßgabe des Absatzes 1 zu ermitteln.
+
+(3) Werke, die in Büchern, Fachzeitschriften, Zeitungen, Zeitschriften oder in anderen verlegten Schriften veröffentlicht wurden, sind über die Anforderungen von Absatz 1 hinaus nur dann nicht verfügbar, wenn sie außerdem mindestens 30 Jahre vor Beginn der Bekanntgabe der Informationen gemäß § 52a Absatz 1 Satz 1 Nummer 4 letztmalig veröffentlicht wurden.
+
+# § 52c – Repräsentativität der Verwertungsgesellschaft bei Werkreihen aus Drittstaaten
+
+Soll die beabsichtigte Nutzung Werkreihen umfassen, die überwiegend Werke aus Staaten enthalten, die weder Mitgliedstaaten der Europäischen Union noch Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind (Drittstaaten), so ist die Rechtseinräumung nach § 52 nur wirksam, wenn die Verwertungsgesellschaft repräsentativ auch für Rechtsinhaber des jeweiligen Drittstaates ist.
+
+# § 52d – Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes näher zu regeln:
+
+1. Ausübung und Rechtsfolgen des Widerspruchs des Außenstehenden (§ 51 Absatz 2 und § 52 Absatz 2),
+
+2. Unzumutbarkeit des Rechteerwerbs (§ 51a Absatz 1 Nummer 2),
+
+3. Informationspflichten (§ 51a Absatz 1 Nummer 4 und § 52a Absatz 1 Satz 1 Nummer 4),
+
+4. Angemessenheit der Frist (§ 51a Absatz 1 Nummer 4),
+
+5. Repräsentativität von Verwertungsgesellschaften, einschließlich Vermutungswirkung und gemeinsamem Handeln mehrerer Verwertungsgesellschaften (§ 51b),
+
+6. weitere Anforderungen zur Verfügbarkeit von Werken, einschließlich des zur Ermittlung der Verfügbarkeit erforderlichen vertretbaren Aufwands und der Wahrung der Urheberpersönlichkeitsrechte insbesondere bei nicht veröffentlichten Werken (§ 52b),
+
+7. Nutzung von Werkreihen aus Drittstaaten (§ 52c).
+
+# § 52e – Anwendung auf verwandte Schutzrechte
+
+Die Bestimmungen dieses Abschnitts sind auch auf verwandte Schutzrechte im Sinne des Urheberrechtsgesetzes und ihre Inhaber anzuwenden.
 
 # § 53 – Information der Rechtsinhaber vor Zustimmung zur Wahrnehmung
 
@@ -813,7 +867,7 @@ Dieser Teil findet keine Anwendung, soweit die Verwertungsgesellschaft auf der G
 
 2. des in § 50 genannten Rechts oder
 
-3. der in § 51 genannten Rechte an vergriffenen Werken.
+3. der in den §§ 51 und 52 genannten Rechte von Außenstehenden.
 
 (+++ § 77: Zur Anwendung vgl. § 90 Abs. 3 +++)
 
@@ -993,7 +1047,7 @@ Wird eine Verwertungsgesellschaft ohne die erforderliche Erlaubnis oder Anzeige 
 
 3. den Abschluss oder die Änderung eines Gesamtvertrags.
 
-(2) Die Schiedsstelle kann von jedem Beteiligten auch bei einem Streitfall angerufen werden, an dem ein Sendeunternehmen und ein Kabelunternehmen beteiligt sind, wenn der Streit die Verpflichtung zum Abschluss eines Vertrages über die Kabelweitersendung betrifft (§ 87 Absatz 5 des Urheberrechtsgesetzes).
+(2) Die Schiedsstelle kann von jedem Beteiligten auch bei einem Streitfall angerufen werden, an dem ein Sendeunternehmen und ein Weitersendedienst beteiligt sind, wenn der Streit die Verpflichtung zum Abschluss eines Vertrages über die Weitersendung betrifft (§ 87 Absatz 5 des Urheberrechtsgesetzes).
 
 (+++ § 92: Zur Nichtanwendung vgl. § 139 Abs. 1 +++)
 
@@ -1107,7 +1161,7 @@ Auf die Berechnung der Fristen dieses Abschnitts ist § 222 Absatz 1 und 2 der Z
 
 (2) Der Einigungsvorschlag ist zu begründen und von sämtlichen für den Streitfall zuständigen Mitgliedern der Schiedsstelle zu unterschreiben. In dem Einigungsvorschlag ist auf die Möglichkeit des Widerspruchs und auf die Folgen bei Versäumung der Widerspruchsfrist hinzuweisen. Der Einigungsvorschlag ist den Beteiligten zuzustellen. Zugleich ist der Aufsichtsbehörde eine Abschrift des Einigungsvorschlags zu übermitteln.
 
-(3) Der Einigungsvorschlag gilt als angenommen und eine dem Inhalt des Vorschlags entsprechende Vereinbarung als zustande gekommen, wenn nicht innerhalb eines Monats nach Zustellung des Vorschlags ein schriftlicher Widerspruch bei der Schiedsstelle eingeht. Betrifft der Streitfall die Einräumung oder Übertragung von Nutzungsrechten der Kabelweitersendung, so beträgt die Frist drei Monate.
+(3) Der Einigungsvorschlag gilt als angenommen und eine dem Inhalt des Vorschlags entsprechende Vereinbarung als zustande gekommen, wenn nicht innerhalb eines Monats nach Zustellung des Vorschlags ein schriftlicher Widerspruch bei der Schiedsstelle eingeht. Betrifft der Streitfall die Einräumung oder Übertragung von Nutzungsrechten der Weitersendung, so beträgt die Frist drei Monate.
 
 (4) War einer der Beteiligten ohne sein Verschulden gehindert, den Widerspruch rechtzeitig einzulegen, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Über den Wiedereinsetzungsantrag entscheidet die Schiedsstelle. Gegen die ablehnende Entscheidung der Schiedsstelle ist die sofortige Beschwerde an das für den Sitz des Antragstellers zuständige Landgericht möglich. Die Vorschriften der Zivilprozessordnung über die Wiedereinsetzung in den vorigen Stand und die sofortige Beschwerde sind entsprechend anzuwenden.
 
@@ -1372,6 +1426,24 @@ Verfahren der Aufsichtsbehörde, die bei Inkrafttreten dieses Gesetzes nicht abg
 (2) Abweichend von § 40 Absatz 1 Satz 2 können die Verwertungsgesellschaften Tarife auch auf Grundlage einer empirischen Untersuchung aufstellen, die bereits vor dem 1. Juni 2016 in einem Verfahren vor der Schiedsstelle durchgeführt worden ist, sofern das Untersuchungsergebnis den Anforderungen des § 114 Absatz 1 Satz 1 entspricht. Gleiches gilt für empirische Untersuchungen, die in einem Verfahren durchgeführt werden, das gemäß Absatz 1 noch auf Grundlage des bisherigen Rechts durchgeführt wird.
 
 (3) Die §§ 128 bis 131 sind auf Verfahren, die am 1. Juni 2016 bei einem Gericht anhängig sind, nicht anzuwenden; für diese Verfahren sind die §§ 16, 17 und 27 Absatz 3 des Urheberrechtswahrnehmungsgesetzes in der bis zum 31. Mai 2016 geltenden Fassung weiter anzuwenden.
+
+# § 140 – Übergangsvorschrift zur Regelung der Verlegerbeteiligung ab dem 7. Juni 2021
+
+§ 27b gilt nur für Einnahmen, die Verwertungsgesellschaften ab dem 7. Juni 2021 erhalten.
+
+# § 141 – Übergangsvorschrift für vergriffene Werke; Verordnungsermächtigung
+
+(1) Die §§ 51 bis 52a in der bis einschließlich 6. Juni 2021 geltenden Fassung sind nach Maßgabe der Absätze 2 bis 4 bis einschließlich 31. Dezember 2025 weiter anzuwenden.
+
+(2) Ab dem 7. Juni 2021 sind Anträge auf Eintragung von Werken in das Register vergriffener Werke beim Deutschen Patent- und Markenamt unzulässig.
+
+(3) Nutzungsrechte, die nach den §§ 51 bis 52a in der bis einschließlich 6. Juni 2021 geltenden Fassung eingeräumt worden sind, enden spätestens mit Ablauf des 31. Dezember 2025.
+
+(4) Sind Nutzungen, die nach den §§ 51 bis 52a in der bis einschließlich 6. Juni 2021 geltenden Fassung erlaubt worden sind, auch nach Maßgabe der §§ 52 bis 52e erlaubt worden oder nach den §§ 61d und 61e des Urheberrechtsgesetzes gesetzlich erlaubt, so ist dies dem Deutschen Patent- und Markenamt mitzuteilen und im Register zu vermerken. Zuständig für die Mitteilung ist die Verwertungsgesellschaft (§ 52a Absatz 1 Satz 1 Nummer 4) oder die Kulturerbe-Einrichtung (§ 61d Absatz 3 des Urheberrechtsgesetzes).
+
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Übermittlung von Einträgen aus dem Register vergriffener Werke beim Deutschen Patent- und Markenamt an das Online-Portal des Amtes der Europäischen Union für geistiges Eigentum näher zu regeln.
+
+(6) Das Register ist mit Ablauf des 31. Dezember 2025 zu schließen und die Bekanntmachung auf der Internetseite zu beenden.
 
 # Anlage – (zu § 58 Absatz 2) Inhalt des jährlichen Transparenzberichts
 
