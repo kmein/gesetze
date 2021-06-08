@@ -1677,6 +1677,8 @@ Das nach § 152 Abs. 2 zuständige Gericht kann ein Verfahren an das Gericht des
 
 (3) In Verfahren, die die Person des Kindes betreffen, ist das Jugendamt von Terminen zu benachrichtigen und ihm sind alle Entscheidungen des Gerichts bekannt zu machen. Gegen den Beschluss steht dem Jugendamt die Beschwerde zu.
 
+(+++ § 162: Zur Nichtanwendung vgl. § 167b Abs. 1 +++)
+
 # § 163 – Sachverständigengutachten
 
 (1) In Verfahren nach § 151 Nummer 1 bis 3 ist das Gutachten durch einen geeigneten Sachverständigen zu erstatten, der mindestens über eine psychologische, psychotherapeutische, kinder- und jugendpsychiatrische, psychiatrische, ärztliche, pädagogische oder sozialpädagogische Berufsqualifikation verfügen soll. Verfügt der Sachverständige über eine pädagogische oder sozialpädagogische Berufsqualifikation, ist der Erwerb ausreichender diagnostischer und analytischer Kenntnisse durch eine anerkannte Zusatzqualifikation nachzuweisen.
