@@ -3807,13 +3807,13 @@ Die Bundesnetzagentur protokolliert für Zwecke der Datenschutzkontrolle durch d
 
 1. an die für die Verfolgung von Straftaten und Ordnungswidrigkeiten zuständigen Behörden, soweit zureichende tatsächliche Anhaltspunkte für eine Straftat oder eine Ordnungswidrigkeit vorliegen und die in die Auskunft aufzunehmenden Daten erforderlich sind, um den Sachverhalt zu erforschen, den Aufenthaltsort eines Beschuldigten oder Betroffenen zu ermitteln oder eine Strafe zu vollstrecken,
 
-2. an die für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständigen Behörden, wenn die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind
+2. an die für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständigen Behörden, soweit die in die Auskunft aufzunehmenden Daten im Einzelfall erforderlich sind
 
 a) zur Abwehr einer Gefahr für die öffentliche Sicherheit oder
 
-b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
+b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-c) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
+c) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
 
 d) zur Verhütung einer Straftat von erheblicher Bedeutung, sofern Tatsachen die Annahme rechtfertigen, dass eine Person innerhalb eines übersehbaren Zeitraums auf eine ihrer Art nach konkretisierten Weise als Täter oder Teilnehmer an der Begehung einer Tat beteiligt ist, oder
 
@@ -3863,7 +3863,7 @@ aa)
 die zuständige Strafverfolgungsbehörde zu ermitteln, oder
 
 bb)  
-ein Auskunftsersuchen einer ausländischen Strafverfolgungsbehörde im Rahmen des internationalen polizeilichen Dienstverkehrs, das nach Maßgabe der Vorschriften über die internationale Rechtshilfe in Strafsachen bearbeitet wird, auch im Rahmen der Strafvollstreckung, zu bearbeiten, oder
+ein Auskunftsersuchen einer ausländischen Strafverfolgungsbehörde im Rahmen des internationalen polizeilichen Dienstverkehrs, das nach Maßgabe der Vorschriften über die internationale Rechtshilfe in Strafsachen bearbeitet wird, auch im Rahmen der Strafvollstreckung, zu erledigen, oder
 
 b) sofern dies im Einzelfall erforderlich ist
 
@@ -3871,9 +3871,9 @@ aa)
 zur Abwehr einer Gefahr für die öffentliche Sicherheit,
 
 bb)  
-zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
+zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-cc) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass die Gefährdung eines solchen Rechtsgutes in einem übersehbaren Zeitraum eintreten wird, oder
+cc) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass die Gefährdung eines solchen Rechtsgutes in einem übersehbaren Zeitraum eintreten wird, oder
 
 dd)  
 zur Erledigung eines Auskunftsersuchens einer ausländischen Polizeibehörde im Rahmen des polizeilichen Dienstverkehrs zur Verhütung einer Straftat oder
@@ -3991,7 +3991,7 @@ a) § 3 Absatz 1 des Bundesverfassungsschutzgesetzes oder
 
 b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetzes) landesgesetzlich begründeten Beobachtungsauftrag der Landesbehörde, insbesondere zum Schutz der verfassungsmäßigen Ordnung vor Bestrebungen und Tätigkeiten der Organisierten Kriminalität,
 
-7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 MAD-Gesetzes erforderlich ist,
+7. den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen, der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-Gesetzes erforderlich ist,
 
 8. den Bundesnachrichtendienst, soweit dies erforderlich ist
 

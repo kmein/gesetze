@@ -950,7 +950,7 @@ Sofern die Absätze 1 bis 5 nicht gemäß Satz 1 anzuwenden sind, gelten für de
 
 4. durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, welche den Datenübermittler (Absender der Daten) authentifizieren und die Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen zu geeigneten Verfahren ab.
 
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte nach § 291 Absatz 2a des Fünften Buches elektronisch nachgewiesen werden.
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte nach § 291a des Fünften Buches oder mit der digitalen Identität nach § 291 Absatz 8 des Fünften Buches elektronisch nachgewiesen werden.
 
 (2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die elektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.
 

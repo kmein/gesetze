@@ -19,7 +19,19 @@
 
 (1) Bier wird nach Grad Plato in Steuerklassen eingeteilt. Grad Plato ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er sich nach der großen Ballingschen Formel aus dem im Bier vorhandenen Alkohol- und Extraktgehalt errechnet; Bruchteile eines Grades (Nachkommastellen) bleiben außer Betracht. Die Biersteuer beträgt für einen Hektoliter (hl) Bier 0,787 Euro je Grad Plato.
 
-(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
+(1a) Abweichend von Absatz 1 ermäßigt sich der Steuersatz vom 1. Januar 2021 bis zum 31. Dezember 2022 für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
+
+1. auf 75 Prozent bei einer Jahreserzeugung von 40 000 hl,
+
+2. auf 70 Prozent bei einer Jahreserzeugung von 20 000 hl,
+
+3. auf 60 Prozent bei einer Jahreserzeugung von 10 000 hl,
+
+4. auf 50 Prozent bei einer Jahreserzeugung von 5 000 hl.
+
+Die Stufen beginnen bis auf die Stufe zwischen 5 000 hl und 6 000 hl aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 hl und 6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 50 Prozent unverändert. Absatz 2 Satz 5 bis 8 gilt entsprechend.
+
+(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz ab dem 1. Januar 2023 für im Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
 
 1. auf 84,0 Prozent bei einer Jahreserzeugung von 40 000 hl,
 
@@ -41,7 +53,7 @@ Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl aufstei
 
 (4) Voneinander abhängige Brauereien, die zusammen eine Gesamtjahreserzeugung von 200 000 hl nicht überschreiten, gelten für die Anwendung des ermäßigten Steuersatzes als eine Brauerei.
 
-(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 2 bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner. Wird Bier einer ausländischen unabhängigen Brauerei mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner.
+(5) Wird das Bier im Steuergebiet hergestellt, gilt die Steuerermäßigung nach den Absätzen 1a bis 4 nur für den Inhaber der herstellenden Brauerei als Steuerschuldner. Wird Bier einer ausländischen unabhängigen Brauerei mit einer Gesamtjahreserzeugung von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner.
 
 # § 3 – Sonstige Begriffsbestimmungen
 
@@ -583,7 +595,7 @@ zuzulassen. Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf
 
 1. den Zeitpunkt der nach § 1 Absatz 3 anzuwendenden Fassung der Kombinierten Nomenklatur neu zu bestimmen und als Folge dessen den Wortlaut des Gesetzes an die geänderte Nomenklatur anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben, sowie Vorschriften über die Erfassung der steuerbaren Menge zu erlassen,
 
-2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 2 bis 5, insbesondere zum Besteuerungsverfahren zu erlassen und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird,
+2. Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 5, insbesondere zum Besteuerungsverfahren zu erlassen und dabei vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden Kalenderjahres steuerlich wirksam wird,
 
 3. zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum Steuerlager (§ 4) gehören,
 

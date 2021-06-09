@@ -1489,7 +1489,7 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 2. über die nach § 14 des Telemediengesetzes erhobenen Daten (§ 15a Absatz 1 Satz 1 des Telemediengesetzes) von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt.
 
-Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 2 auf nach § 14 Absatz 1 des Telemediengesetzes erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 15b des Telemediengesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Passwörter oder anderer Daten zur Verfolgung einer besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a, b, d, e, f, g oder l, Nummer 3 Buchstabe b erste Alternative oder Nummer 4 bis 7 vorliegen.
+Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Satz 1 Nummer 2 auf nach § 14 Absatz 1 des Telemediengesetzes erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 15b des Telemediengesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für ihre Nutzung zur Verfolgung einer besonders schweren Straftat nach § 100b Absatz 2 Nummer 1 Buchstabe a, b, d, e, f, g oder l, Nummer 3 Buchstabe b erste Alternative oder Nummer 4 bis 7 vorliegen.
 
 (2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3, § 113c Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes). Das Vorliegen der Voraussetzungen für ein Auskunftsverlangen nach Satz 1 ist aktenkundig zu machen.
 
@@ -1542,8 +1542,6 @@ Satz 1 gilt nicht für die Erhebung von Standortdaten.
 (4) Die Erhebung von Nutzungsdaten nach Absatz 1 und 2 ist nur zulässig, wenn aufgrund von Tatsachen die Annahme gerechtfertigt ist, dass die betroffene Person den Telemediendienst nutzt, den derjenige, gegen den sich die Anordnung richtet, geschäftsmäßig zur Nutzung bereithält oder zu dem er den Zugang zur Nutzung vermittelt.
 
 (5) Erfolgt die Erhebung von Nutzungsdaten oder Inhalten der Nutzung eines Telemediendienstes nicht bei einem Diensteanbieter, der geschäftsmäßig Telemedien zur Nutzung bereithält, bestimmt sie sich nach Abschluss des Kommunikationsvorgangs nach den allgemeinen Vorschriften.
-
-§ 100k Abs. 2 Satz 1 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Wörter "Gesetz über Urheberrecht und verwandte Schutzgesetze" durch die Wörter "Gesetz über Urheberrecht und verwandte Schutzrechte" ersetzt
 
 # § 101 – Verfahrensregelungen bei verdeckten Maßnahmen
 
@@ -1611,11 +1609,11 @@ zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutze
 
 In den Fällen des § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, findet abweichend von Satz 1 § 100e Absatz 1 Satz 2 keine Anwendung. Bei Funkzellenabfragen nach § 100g Absatz 3 genügt abweichend von § 100e Absatz 3 Satz 2 Nummer 5 eine räumlich und zeitlich eng begrenzte und hinreichend bestimmte Bezeichnung der Telekommunikation.
 
-(1a) Bei der Erhebung und Beauskunftung von Nutzungsdaten eines Telemediendienstes nach § 100k gilt § 100a Absatz 3 und 4, bei der Erhebung von Nutzungsdaten nach § 100k Absatz 1 zudem § 100e Absatz 1 und 3 bis 5 entsprechend mit der Maßgabe, dass in der Entscheidungsformel nach § 100e Absatz 3 Satz 2 an die Stelle der Rufnummer (§ 100e Absatz 3 Satz 2 Nummer 5), soweit möglich eine eindeutige Kennung des Nutzerkontos des Betroffenen, ansonsten eine möglichst genaue Bezeichnung des Telemediendienstes tritt, auf den sich das Auskunftsverlangen bezieht.
+(1a) Bei der Erhebung und Beauskunftung von Nutzungsdaten eines Telemediendienstes nach § 100k gilt § 100a Absatz 3 und 4, bei der Erhebung von Nutzungsdaten nach § 100k Absatz 1 und 2 zudem § 100e Absatz 1 und 3 bis 5 entsprechend mit der Maßgabe, dass in der Entscheidungsformel nach § 100e Absatz 3 Satz 2 an die Stelle der Rufnummer (§ 100e Absatz 3 Satz 2 Nummer 5), soweit möglich eine eindeutige Kennung des Nutzerkontos des Betroffenen, ansonsten eine möglichst genaue Bezeichnung des Telemediendienstes tritt, auf den sich das Auskunftsverlangen bezieht.
 
-(2) Wird eine Maßnahme nach § 100g oder § 100k Absatz 1 angeordnet oder verlängert, sind in der Begründung einzelfallbezogen insbesondere die wesentlichen Erwägungen zur Erforderlichkeit und Angemessenheit der Maßnahme, auch hinsichtlich des Umfangs der zu erhebenden Daten und des Zeitraums, für den sie erhoben werden sollen, darzulegen.
+(2) Wird eine Maßnahme nach § 100g oder § 100k Absatz 1 oder Absatz 2 angeordnet oder verlängert, sind in der Begründung einzelfallbezogen insbesondere die wesentlichen Erwägungen zur Erforderlichkeit und Angemessenheit der Maßnahme, auch hinsichtlich des Umfangs der zu erhebenden Daten und des Zeitraums, für den sie erhoben werden sollen, darzulegen.
 
-(3) Personenbezogene Daten, die durch Maßnahmen nach § 100g oder § 100k Absatz 1 erhoben wurden, sind entsprechend zu kennzeichnen und unverzüglich auszuwerten. Bei der Kennzeichnung ist erkennbar zu machen, ob es sich um Daten handelt, die nach § 113b des Telekommunikationsgesetzes gespeichert waren. Nach einer Übermittlung an eine andere Stelle ist die Kennzeichnung durch diese aufrechtzuerhalten. Für die Löschung personenbezogener Daten gilt § 101 Absatz 8 entsprechend.
+(3) Personenbezogene Daten, die durch Maßnahmen nach § 100g oder § 100k Absatz 1 oder Absatz 2 erhoben wurden, sind entsprechend zu kennzeichnen und unverzüglich auszuwerten. Bei der Kennzeichnung ist erkennbar zu machen, ob es sich um Daten handelt, die nach § 113b des Telekommunikationsgesetzes gespeichert waren. Nach einer Übermittlung an eine andere Stelle ist die Kennzeichnung durch diese aufrechtzuerhalten. Für die Löschung personenbezogener Daten gilt § 101 Absatz 8 entsprechend.
 
 (4) Verwertbare personenbezogene Daten, die durch Maßnahmen nach § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, erhoben wurden, dürfen ohne Einwilligung der Beteiligten der betroffenen Telekommunikation nur für folgende andere Zwecke und nur nach folgenden Maßgaben verwendet werden:
 
@@ -1627,17 +1625,17 @@ Die Stelle, die die Daten weiterleitet, macht die Weiterleitung und deren Zweck 
 
 (5) Sind verwertbare personenbezogene Daten, die nach § 113b des Telekommunikationsgesetzes gespeichert waren, durch eine entsprechende polizeirechtliche Maßnahme erlangt worden, dürfen sie in einem Strafverfahren ohne Einwilligung der Beteiligten der betroffenen Telekommunikation nur zur Aufklärung einer Straftat, auf Grund derer eine Maßnahme nach § 100g Absatz 2, auch in Verbindung mit Absatz 3 Satz 2, angeordnet werden könnte, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
 
-(6) Die Beteiligten der betroffenen Telekommunikation und die betroffenen Nutzer des Telemediendienstes sind von der Erhebung der Verkehrsdaten nach § 100g oder der Nutzungsdaten nach § 100k Absatz 1 zu benachrichtigen. § 101 Absatz 4 Satz 2 bis 5 und Absatz 5 bis 7 gilt entsprechend mit der Maßgabe, dass
+(6) Die Beteiligten der betroffenen Telekommunikation und die betroffenen Nutzer des Telemediendienstes sind von der Erhebung der Verkehrsdaten nach § 100g oder der Nutzungsdaten nach § 100k Absatz 1 und 2 zu benachrichtigen. § 101 Absatz 4 Satz 2 bis 5 und Absatz 5 bis 7 gilt entsprechend mit der Maßgabe, dass
 
 1. das Unterbleiben der Benachrichtigung nach § 101 Absatz 4 Satz 3 der Anordnung des zuständigen Gerichts bedarf;
 
 2. abweichend von § 101 Absatz 6 Satz 1 die Zurückstellung der Benachrichtigung nach § 101 Absatz 5 Satz 1 stets der Anordnung des zuständigen Gerichts bedarf und eine erstmalige Zurückstellung auf höchstens zwölf Monate zu befristen ist.
 
-(7) Die betroffene Person ist in den Fällen des § 100k Absatz 2 über die Beauskunftung zu benachrichtigen. Die Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der Beauskunftung nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende schutzwürdige Belange Dritter oder der betroffenen Person selbst entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu machen.
+(7) Die betroffene Person ist in den Fällen des § 100k Absatz 3 über die Beauskunftung zu benachrichtigen. Die Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der Beauskunftung nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende schutzwürdige Belange Dritter oder der betroffenen Person selbst entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu machen.
 
 # § 101b – Statistische Erfassung; Berichtspflichten
 
-(1) Die Länder und der Generalbundesanwalt berichten dem Bundesamt für Justiz kalenderjährlich jeweils bis zum 30. Juni des dem Berichtsjahr folgenden Jahres über in ihrem Zuständigkeitsbereich angeordnete Maßnahmen nach den §§ 100a, 100b, 100c, 100g und 100k Absatz 1. Das Bundesamt für Justiz erstellt eine Übersicht zu den im Berichtsjahr bundesweit angeordneten Maßnahmen und veröffentlicht diese im Internet. Über die im jeweils vorangegangenen Kalenderjahr nach § 100c angeordneten Maßnahmen berichtet die Bundesregierung dem Deutschen Bundestag vor der Veröffentlichung im Internet.
+(1) Die Länder und der Generalbundesanwalt berichten dem Bundesamt für Justiz kalenderjährlich jeweils bis zum 30. Juni des dem Berichtsjahr folgenden Jahres über in ihrem Zuständigkeitsbereich angeordnete Maßnahmen nach den §§ 100a, 100b, 100c, 100g und 100k Absatz 1 und 2. Das Bundesamt für Justiz erstellt eine Übersicht zu den im Berichtsjahr bundesweit angeordneten Maßnahmen und veröffentlicht diese im Internet. Über die im jeweils vorangegangenen Kalenderjahr nach § 100c angeordneten Maßnahmen berichtet die Bundesregierung dem Deutschen Bundestag vor der Veröffentlichung im Internet.
 
 (2) In den Übersichten über Maßnahmen nach § 100a sind anzugeben:
 
@@ -1711,11 +1709,11 @@ d) die Anzahl der Anordnungen, die teilweise ergebnislos geblieben sind, weil di
 
 e) die Anzahl der Anordnungen, die ergebnislos geblieben sind, weil keine Daten verfügbar waren.
 
-(6) In den Übersichten über Maßnahmen nach § 100k Absatz 1 sind anzugeben:
+(6) In den Übersichten über Maßnahmen nach § 100k sind jeweils unterschieden nach Maßnahmen nach den Absätzen 1 und 2 anzugeben:
 
-1. die Anzahl der Verfahren, in denen Maßnahmen nach § 100k Absatz 1 angeordnet worden sind;
+1. die Anzahl der Verfahren, in denen Maßnahmen angeordnet worden sind;
 
-2. die Anzahl der Anordnungen nach § 100k Absatz 1, unterschieden nach Erst- und Verlängerungsanordnungen;
+2. die Anzahl der Anordnungen, unterschieden nach Erst- und Verlängerungsanordnungen;
 
 3. untergliedert nach der Anzahl der zurückliegenden Wochen, für die die Erhebung von Nutzungsdaten angeordnet wurde, jeweils bemessen ab dem Zeitpunkt der Anordnung
 

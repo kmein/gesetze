@@ -2667,9 +2667,11 @@ Bei den Informationen nach Satz 1 Nummer 2 und 5 sind Betriebs- und Geschäftsge
 
 3. Name und Anschrift des Wirkstoffherstellers oder der Wirkstoffhersteller, der oder die vom Arzneimittelhersteller oder einer von ihm vertraglich beauftragten Person nach § 22 Absatz 2 Satz 1 Nummer 8 vor Ort überprüft wurde oder wurden.
 
-(1f) Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, kann die zuständige Bundesoberbehörde genehmigtes Schulungsmaterial der Öffentlichkeit über ein Internetportal und erforderlichenfalls auch auf andere Weise zur Verfügung stellen, soweit dies im Interesse der sicheren Anwendung der Arzneimittel erforderlich ist.
+(1f) Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, kann die zuständige Bundesoberbehörde genehmigtes Schulungsmaterial der Öffentlichkeit über ein Internetportal und erforderlichenfalls auch auf andere Weise zur Verfügung stellen, soweit dies im Interesse der sicheren Anwendung der Arzneimittel erforderlich ist. Sie stellt eine Fassung des Schulungsmaterials zur Verfügung, die zur Abbildung in elektronischen Programmen nach § 73 Absatz 9 des Fünften Buches Sozialgesetzbuch geeignet ist.
 
 (1g) Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind und der staatlichen Chargenprüfung nach § 32 unterliegen, kann die zuständige Bundesoberbehörde Informationen über die Anzahl der freigegebenen Chargen bekannt geben. Angaben zur Größe der freigegebenen Chargen können bekannt gegeben werden, soweit dies zum Schutz der öffentlichen Gesundheit erforderlich ist.
+
+(1h) Die zuständige Bundesoberbehörde stellt der Öffentlichkeit die für die sichere Anwendung eines Arzneimittels erforderlichen Informationen über Arzneimittelrisiken vom Zulassungsinhaber für Angehörige der Gesundheitsberufe über ein Internetportal und erforderlichenfalls auch auf andere Weise zur Verfügung. Falls erforderlich, stellt die zuständige Bundesoberbehörde der Öffentlichkeit eigene für die sichere Anwendung eines Arzneimittels erforderliche Informationen über Arzneimittelrisiken für Angehörige der Gesundheitsberufe zur Verfügung. Sie stellt eine Fassung der Informationen nach den Sätzen 1 und 2 zur Verfügung, die zur Abbildung in elektronischen Programmen nach § 73 Absatz 9 des Fünften Buches Sozialgesetzbuch geeignet ist.
 
 (2) Die zuständige Bundesoberbehörde kann einen Verwaltungsakt, der auf Grund dieses Gesetzes ergeht, im Bundesanzeiger öffentlich bekannt machen, wenn von dem Verwaltungsakt mehr als 50 Adressaten betroffen sind. Dieser Verwaltungsakt gilt zwei Wochen nach dem Erscheinen des Bundesanzeigers als bekannt gegeben. Sonstige Mitteilungen der zuständigen Bundesoberbehörde einschließlich der Schreiben, mit denen den Beteiligten Gelegenheit zur Äußerung nach § 28 Abs. 1 des Verwaltungsverfahrensgesetzes gegeben wird, können gleichfalls im Bundesanzeiger bekannt gemacht werden, wenn mehr als 50 Adressaten davon betroffen sind. Satz 2 gilt entsprechend.
 
@@ -2763,7 +2765,7 @@ Bei den Informationen nach Satz 1 Nummer 2 und 5 sind Betriebs- und Geschäftsge
 
 (2d) Für Rücknahme, Widerruf und Ruhen der Registrierung gilt § 30 Absatz 1 Satz 1, Absatz 2, 2a, 3 und 4 entsprechend mit der Maßgabe, dass die Versagungsgründe nach Absatz 2 Nummer 2 bis 9 Anwendung finden.
 
-(2e) § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Absatz 1a Satz 1 Nummer 1, 4 und 5, Absatz 1a Satz 4, Absatz 1b und 1d gilt entsprechend.
+(2e) § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Absatz 1a Satz 1 Nummer 1, 4 und 5, Absatz 1a Satz 4, Absatz 1b, 1d und 1h gilt entsprechend.
 
 (3) Das Bundesministerium wird ermächtigt, für homöopathische Arzneimittel entsprechend den Vorschriften über die Zulassung durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die Gebühren und Auslagen und die Freistellung von der Registrierung zu erlassen. Die Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
@@ -2839,7 +2841,7 @@ Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, gilt Satz 1 entsp
 
 (5) Wird ein pflanzlicher Stoff, eine pflanzliche Zubereitung oder eine Kombination davon in der Liste nach Artikel 16f der Richtlinie 2001/83/EG gestrichen, so sind Registrierungen, die diesen Stoff enthaltende traditionelle pflanzliche zur Anwendung bei Menschen bestimmte Arzneimittel betreffen und die unter Bezugnahme auf § 39b Abs. 2 vorgenommen wurden, zu widerrufen, sofern nicht innerhalb von drei Monaten die in § 39b Abs. 1 genannten Angaben und Unterlagen vorgelegt werden.
 
-(6) § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Absatz 1a Satz 1 Nummer 1, 4 und 5, Absatz 1a Satz 4, Absatz 1b und 1d gilt entsprechend.
+(6) § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Absatz 1a Satz 1 Nummer 1, 4 und 5, Absatz 1a Satz 4, Absatz 1b, 1d und 1h gilt entsprechend.
 
 (7) Der Antragsteller hat der zuständigen Bundesoberbehörde unter Beifügung entsprechender Unterlagen unverzüglich Anzeige zu erstatten, wenn sich Änderungen in den Angaben und Unterlagen nach § 39b Absatz 1 Satz 1 in Verbindung mit Absatz 2 ergeben. § 29 Absatz 1a, 1e, 1f und 2 bis 2b gilt entsprechend. Die Verpflichtung nach Satz 1 hat nach Erteilung der Registrierung der Inhaber der Registrierung zu erfüllen. Eine neue Registrierung ist in folgenden Fällen zu beantragen:
 
@@ -3327,11 +3329,11 @@ c) sofern sie zur Anwendung bei Tieren bestimmt sind, deren Anwendung eine vorhe
 
 Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 7 werden nach Anhörungen von Sachverständigen erlassen, es sei denn, es handelt sich um Arzneimittel, die nach Artikel 3 Absatz 1 oder 2 der Verordnung (EG) Nr. 726/2004 zugelassen sind oder die solchen Arzneimitteln im Hinblick auf Wirkstoff, Indikation, Wirkstärke und Darreichungsform entsprechen. In der Rechtsverordnung nach Satz 1 Nummer 7 kann für Arzneimittel, deren Verschreibung die Beachtung besonderer Sicherheitsanforderungen erfordert, vorgeschrieben werden, dass
 
-1. die Verschreibung nur auf einem amtlichen Formblatt (Sonderrezept), das von der zuständigen Bundesoberbehörde auf Anforderung eines Arztes ausgegeben wird, erfolgen darf,
+1. die Verschreibung nur auf einem amtlichen Formblatt, das von der zuständigen Bundesoberbehörde auf Anforderung eines Arztes entweder ausgegeben oder in elektronischer Form zur Verfügung gestellt wird, erfolgen darf,
 
 2. das Formblatt Angaben zur Anwendung sowie Bestätigungen enthalten muss, insbesondere zu Aufklärungspflichten über Anwendung und Risiken des Arzneimittels, und
 
-3. eine Durchschrift der Verschreibung durch die Apotheke an die zuständige Bundesoberbehörde zurückzugeben ist.
+3. eine Durchschrift der Verschreibung durch die Apotheke an die zuständige Bundesoberbehörde zurückzugeben ist oder die in elektronischer Form erfolgte Verschreibung der Bundesoberbehörde als elektronische Kopie automatisiert übermittelt wird.
 
 (3) Die Rechtsverordnung nach Absatz 2, auch in Verbindung mit den Absätzen 4 und 5, kann auf bestimmte Dosierungen, Potenzierungen, Darreichungsformen, Fertigarzneimittel oder Anwendungsbereiche beschränkt werden. Ebenso kann eine Ausnahme von der Verschreibungspflicht für die Abgabe an Hebammen und Entbindungspfleger vorgesehen werden, soweit dies für eine ordnungsgemäße Berufsausübung erforderlich ist. Die Beschränkung auf bestimmte Fertigarzneimittel zur Anwendung am Menschen nach Satz 1 erfolgt, wenn gemäß Artikel 74a der Richtlinie 2001/83/EG die Aufhebung der Verschreibungspflicht auf Grund signifikanter vorklinischer oder klinischer Versuche erfolgt ist; dabei ist der nach Artikel 74a vorgesehene Zeitraum von einem Jahr zu beachten.
 

@@ -119,7 +119,7 @@ Verlader ist auch das Unternehmen, das als unmittelbarer Besitzer das gefährlic
 
 19. Ortsbewegliche Druckgeräte sind die in Artikel 2 Nummer 1 der Richtlinie 2010/35/EU bestimmten Gefäße und Tanks für Gase sowie die übrigen in den Kapiteln 6.2 und 6.8 ADR/RID bestimmten Gefäße und Tanks für Gase;
 
-20. Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und Absatz 4 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
+20. Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und 6 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 # § 3 – Zulassung zur Beförderung
 

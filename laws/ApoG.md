@@ -115,9 +115,9 @@ Der Erlaubnisinhaber darf sich nicht verpflichten, bestimmte Arzneimittel aussch
 
 # § 11
 
-(1) Erlaubnisinhaber und Personal von Apotheken dürfen, soweit gesetzlich nichts anderes bestimmt ist, mit Ärzten oder anderen Personen, die sich mit der Behandlung von Krankheiten befassen, oder mit Dritten keine Rechtsgeschäfte vornehmen oder Absprachen treffen, die eine bevorzugte Lieferung bestimmter Arzneimittel, die Zuführung von Patienten, die Zuweisung von Verschreibungen oder die Fertigung von Arzneimitteln ohne volle Angabe der Zusammensetzung zum Gegenstand haben. Dies gilt auch für Rechtsgeschäfte oder Absprachen, die die Einlösung elektronischer Verordnungen zum Gegenstand haben. Die Sätze 1 und 2 gelten auch für Apotheken, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum liegen, sowie deren Inhaber, Leiter oder Personal, soweit diese Apotheken Patienten in Deutschland mit Arzneimitteln versorgen.
+(1) Erlaubnisinhaber und Personal von Apotheken dürfen, soweit gesetzlich nichts anderes bestimmt ist, mit Ärzten oder anderen Personen, die sich mit der Behandlung von Krankheiten befassen, oder mit Dritten keine Rechtsgeschäfte vornehmen oder Absprachen treffen, die eine bevorzugte Lieferung bestimmter Arzneimittel, die Zuführung von Patienten, die Zuweisung von Verschreibungen oder die Fertigung von Arzneimitteln ohne volle Angabe der Zusammensetzung zum Gegenstand haben. Dies gilt auch für Rechtsgeschäfte oder Absprachen, die die Zuweisung von Verschreibungen in elektronischer Form oder von elektronischen Zugangsdaten zu Verschreibungen in elektronischer Form zum Gegenstand haben. Die Sätze 1 und 2 gelten auch für Apotheken, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum liegen, sowie deren Inhaber, Leiter oder Personal, soweit diese Apotheken Patienten in Deutschland mit Arzneimitteln versorgen.
 
-(1a) Es ist für die in Absatz 1 Satz 1 genannten Dritten unzulässig, Verschreibungen, auch in elektronischer Form, zu sammeln, an Apotheken zu vermitteln oder weiterzuleiten und dafür für sich oder andere einen Vorteil zu fordern, sich einen Vorteil versprechen zu lassen, anzunehmen oder zu gewähren.
+(1a) Es ist für die in Absatz 1 Satz 1 genannten Dritten unzulässig, Verschreibungen, auch Verschreibungen in elektronischer Form oder elektronische Zugangsdaten zu Verschreibungen in elektronischer Form, zu sammeln, an Apotheken zu vermitteln oder weiterzuleiten und dafür für sich oder andere einen Vorteil zu fordern, sich einen Vorteil versprechen zu lassen, anzunehmen oder zu gewähren.
 
 (2) Abweichend von Absatz 1 darf der Inhaber einer Erlaubnis zum Betrieb einer öffentlichen Apotheke auf Grund einer Absprache anwendungsfertige Zytostatikazubereitungen, die im Rahmen des üblichen Apothekenbetriebes hergestellt worden sind, unmittelbar an den anwendenden Arzt abgeben.
 
@@ -417,6 +417,8 @@ Wer vorsätzlich oder fahrlässig ohne die erforderliche Erlaubnis oder Genehmig
 
 2. auf Grund einer nach § 8 Satz 2, § 9 Abs. 1, § 10 oder § 11 Abs. 1 unzulässigen Vereinbarung Leistungen erbringt oder annimmt oder eine solche Vereinbarung in sonstiger Weise ausführt,
 
+2a. entgegen § 11 Absatz 1a für sich oder andere einen Vorteil fordert, sich einen Vorteil versprechen lässt, annimmt oder gewährt,
+
 3. eine Apotheke durch eine Person verwalten läßt, der eine Genehmigung nach § 13 Abs. 1b Satz 1 nicht erteilt worden ist,
 
 4. entgegen § 14 Abs. 7 Satz 1 ein Krankenhaus mit Arzneimitteln versorgt oder
@@ -425,7 +427,7 @@ Wer vorsätzlich oder fahrlässig ohne die erforderliche Erlaubnis oder Genehmig
 
 (2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig einer nach § 21 erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu zwanzigtausend Euro, in den Fällen des Absatzes 1 Nr. 1, 3 und 4 und des Absatzes 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 und 2a mit einer Geldbuße bis zu zwanzigtausend Euro, in den Fällen des Absatzes 1 Nr. 1, 3 und 4 und des Absatzes 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 # § 26
 

@@ -779,13 +779,13 @@ Die Auskunft nach Satz 1 darf nur verlangt werden, soweit die zu erhebenden Date
 
 (4) Die Auskunft nach den Absätzen 1 bis 3 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3, § 113c Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes). Dies gilt in den Fällen von
 
-1. Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 2 Nummer 1 nur zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblicher Sachwerte oder zur Verhütung einer Straftat,
+1. Absatz 1 Satz 2 Nummer 1 sowie Absatz 2 Satz 2 Nummer 1 nur zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblicher Sachwerte oder zur Verhütung einer Straftat,
 
-2. Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 2 Satz 2 Nummer 2 und 3 nur zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt,
+2. Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 2 Satz 2 Nummer 2 und 3 nur zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt,
 
 3. Absatz 1 Satz 2 Nummer 4 und 5 sowie Absatz 2 Satz 2 Nummer 4 und 5 nur zur Verhütung einer schweren Straftat nach § 100a Absatz 2 der Strafprozessordnung.
 
-Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 bis 3 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen. Im Übrigen bleiben die Absätze 1 und 2 unberührt.
+Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 bis 3 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 
 (5) Der aufgrund eines Auskunftsverlangens Verpflichtete hat die zur Auskunftserteilung erforderlichen Daten unverzüglich und vollständig zu übermitteln.
 

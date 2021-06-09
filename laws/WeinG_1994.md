@@ -624,7 +624,7 @@ Rebflächen in den in § 3 Abs. 1 genannten bestimmten Anbaugebieten, die zuläs
 
 # § 6a – Umwandlung bestehender Pflanzungsrechte
 
-(1) Anträge auf Umwandlung von Pflanzungsrechten nach Artikel 68 Absatz 1 der Verordnung (EU) Nr. 1308/2013 können ab dem 15. September 2015 und bis zum 31. Dezember 2020 gestellt werden.
+(1) Anträge auf Umwandlung von Pflanzungsrechten nach Artikel 68 Absatz 1 der Verordnung (EU) Nr. 1308/2013 können ab dem 15. September 2015 und bis zum 31. Dezember 2022 gestellt werden.
 
 (2) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Antragstellern genehmigt werden kann, ein umgewandeltes Pflanzrecht auf einer im Antrag nicht bezeichneten Fläche auszuüben, soweit diese Fläche im Betrieb des Antragstellers belegen ist.
 

@@ -614,9 +614,17 @@ Sammlung von geschützten Daten
 
 Länderübergreifender Abruf und Verwendung von Daten zur Verhütung, Ermittlung und Verfolgung von Steuerverkürzungen
 
+§ 88c
+
+Informationsaustausch über kapitalmarktbezogene Gestaltungen
+
 § 89
 
 Beratung, Auskunft
+
+§ 89a
+
+Vorabverständigungsverfahren
 
 § 90
 
@@ -1233,10 +1241,6 @@ Berichtigung von materiellen Fehlern
 § 178
 
 Kosten bei besonderer Inanspruchnahme der Zollbehörden
-
-§ 178a
-
-Kosten bei besonderer Inanspruchnahme der Finanzbehörden
 
  
 
@@ -2682,19 +2686,19 @@ Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristisch
 
 3. Zuschläge nach § 162 Absatz 4,
 
-4. Zinsen nach den §§ 233 bis 237 sowie Zinsen nach den Steuergesetzen, auf die die §§ 238 und 239 anzuwenden sind,
+4. Zinsen nach den §§ 233 bis 237 sowie Zinsen nach den Steuergesetzen, auf die die §§ 238 und 239 anzuwenden sind, sowie Zinsen, die über die §§ 233 bis 237 und die Steuergesetze hinaus nach dem Recht der Europäischen Union auf zu erstattende Steuern zu leisten sind,
 
 5. Säumniszuschläge nach § 240,
 
 6. Zwangsgelder nach § 329,
 
-7. Kosten nach den §§ 89, 178, 178a und 337 bis 345,
+7. Kosten nach den §§ 89, 89a Absatz 7 sowie den §§ 178 und 337 bis 345,
 
 8. Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union und
 
 9. Verspätungsgelder nach § 22a Absatz 5 des Einkommensteuergesetzes.
 
-(5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 178a steht dem Bund und den jeweils verwaltenden Körperschaften je zur Hälfte zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
+(5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 89a Absatz 7 steht dem Bund und dem jeweils betroffenen Land je zur Hälfte zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
 
 (+++ § 3: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
 
@@ -4202,6 +4206,16 @@ untereinander abgerufen, im Wege des automatisierten Datenabgleichs überprüft,
 
 (+++ § 88b: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
 
+# § 88c – Informationsaustausch über kapitalmarktbezogene Gestaltungen
+
+(1) Finanzbehörden haben Tatsachen, die sie dienstlich erfahren haben und aus denen sich nach Würdigung der Gesamtumstände Anhaltspunkte für Steuergestaltungen ergeben, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit erheblicher Bedeutung zum Gegenstand haben, im Einvernehmen mit der zuständigen obersten Finanzbehörde oder der von ihr bestimmten Finanzbehörde dem Bundeszentralamt für Steuern zu übermitteln. Für die Beurteilung der erheblichen Bedeutung ist insbesondere die Höhe des erlangten Steuervorteils und die Möglichkeit der Nutzung der Gestaltung durch andere Schuldner der Kapitalertragsteuer zu berücksichtigen.
+
+(2) Das Bundeszentralamt für Steuern speichert die ihm von den Finanzbehörden nach Absatz 1 übermittelten Informationen und analysiert diese im Hinblick auf missbräuchliche Steuergestaltungsmodelle. Benötigt das Bundeszentralamt für Steuern zur weiteren Aufklärung eines Sachverhaltes ergänzende Informationen von der nach Absatz 1 übermittelnden Finanzbehörde, hat diese dem Bundeszentralamt für Steuern die hierzu erforderlichen Informationen auf Ersuchen zu übermitteln. Das Bundeszentralamt für Steuern darf die ihm nach Maßgabe dieser Vorschrift übermittelten personenbezogenen Daten speichern und verwenden, soweit dies zur Erfüllung seiner Aufgaben nach Satz 1 erforderlich ist.
+
+(3) Das Bundeszentralamt für Steuern ist berechtigt, den für die Verwaltung der Kapitalertragsteuer zuständigen Finanzbehörden seine erlangten Sachverhaltserkenntnisse zu übermitteln und im dazu erforderlichen Umfang auch personenbezogene Daten offenzulegen. Die empfangende Behörde oder Stelle darf ihr nach Satz 1 übermittelte personenbezogene Daten speichern und verwenden, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist.
+
+(4) Die Verarbeitung personenbezogener Daten durch Finanzbehörden nach Maßgabe der Absätze 1 bis 3 ist ein Verwaltungsverfahren in Steuersachen im Sinne dieses Gesetzes.
+
 # § 89 – Beratung, Auskunft
 
 (1) Die Finanzbehörde soll die Abgabe von Erklärungen, die Stellung von Anträgen oder die Berichtigung von Erklärungen oder Anträgen anregen, wenn diese offensichtlich nur versehentlich oder aus Unkenntnis unterblieben oder unrichtig abgegeben oder gestellt worden sind. Sie erteilt, soweit erforderlich, Auskunft über die den Beteiligten im Verwaltungsverfahren zustehenden Rechte und die ihnen obliegenden Pflichten.
@@ -4219,6 +4233,64 @@ untereinander abgerufen, im Wege des automatisierten Datenabgleichs überprüft,
 (7) Auf die Gebühr kann ganz oder teilweise verzichtet werden, wenn ihre Erhebung nach Lage des einzelnen Falls unbillig wäre. Die Gebühr kann insbesondere ermäßigt werden, wenn ein Antrag auf Erteilung einer verbindlichen Auskunft vor Bekanntgabe der Entscheidung der Finanzbehörde zurückgenommen wird.
 
 (+++ § 89: Zur Anwendung vgl. Art. 97 §§ 1 u. 25 AOEG 1977 +++)
+
+# § 89a – Vorabverständigungsverfahren
+
+(1) Bei Anwendbarkeit eines Abkommens zur Vermeidung der Doppelbesteuerung, welches ein Verständigungsverfahren zur Vermeidung der Doppelbesteuerung zwischen der Bundesrepublik Deutschland und einem anderen Staat oder Hoheitsgebiet (Vertragsstaat) vorsieht, kann die zuständige Behörde nach § 5 Absatz 1 Satz 1 Nummer 5 des Finanzverwaltungsgesetzes im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder der von dieser beauftragten Behörde nach den Bestimmungen dieser Vorschrift auf Antrag eines Abkommensberechtigten (Antragsteller) ein zwischenstaatliches Verfahren über die steuerliche Beurteilung von genau bestimmten, im Zeitpunkt der Antragstellung noch nicht verwirklichten Sachverhalten für einen bestimmten Geltungszeitraum, der in der Regel fünf Jahre nicht überschreiten soll, mit der zuständigen Behörde des anderen Vertragsstaates einleiten (Vorabverständigungsverfahren). Satz 1 gilt nur, wenn
+
+1. die Gefahr einer Doppelbesteuerung bezüglich des bestimmten Sachverhalts besteht und
+
+2. es wahrscheinlich ist,
+
+a) die Doppelbesteuerung durch das Vorabverständigungsverfahren zu vermeiden und
+
+b) eine übereinstimmende Abkommensauslegung mit der zuständigen Behörde des anderen Vertragsstaates zu erreichen.
+
+Die Einleitung setzt eine nach Absatz 7 unanfechtbar gewordene Gebührenfestsetzung und die Entrichtung der Gebühr voraus. Betrifft ein Sachverhalt mehrere Abkommensberechtigte und kann der Sachverhalt nur einheitlich steuerlich beurteilt werden, kann das Vorabverständigungsverfahren nur von allen betroffenen Abkommensberechtigten gemeinsam beantragt werden; Verfahrenshandlungen können in diesen Fällen nur gemeinsam vorgenommen werden. Hierfür benennen die Antragsteller einen Vertreter. Die Antragsteller bestellen in den Fällen des Satzes 4 einen gemeinsamen Empfangsbevollmächtigten, der ermächtigt ist, für sie alle Verwaltungsakte und Mitteilungen in Empfang zu nehmen. Ist ein Steuerabzugsverfahren Gegenstand der steuerlichen Beurteilung, kann auch der Abzugsverpflichtete den Antrag auf Einleitung eines Vorabverständigungsverfahrens stellen. Betrifft ein Sachverhalt die steuerliche Beurteilung im Verhältnis zu mehreren Vertragsstaaten, kann der Antragsteller einen zusammengefassten Antrag auf Einleitung mehrerer Vorabverständigungsverfahren stellen.
+
+(2) Der Antrag nach Absatz 1 hat zu enthalten:
+
+1. die genaue Bezeichnung des Antragstellers und aller anderen Beteiligten,
+
+2. die Bezeichnung der örtlich zuständigen Finanzbehörde sowie die maßgebliche Steuernummer,
+
+3. die Identifikationsnummer nach § 139b oder die Wirtschafts-Identifikationsnummer nach § 139c; wenn die Wirtschafts-Identifikationsnummer noch nicht vergeben wurde, die Steuernummer,
+
+4. die betroffenen Vertragsstaaten,
+
+5. eine umfassende und in sich abgeschlossene Darstellung des Sachverhalts einschließlich des erwünschten Geltungszeitraums der Vorabverständigungsvereinbarung,
+
+6. die Darlegung, weshalb eine Gefahr der Doppelbesteuerung besteht, sowie
+
+7. die Erklärung, ob über den zur Beurteilung gestellten Sachverhalt eine verbindliche Auskunft nach § 89, eine verbindliche Zusage nach § 204, eine Anrufungsauskunft nach § 42e des Einkommensteuergesetzes oder in dem anderen betroffenen Vertragsstaat eine vergleichbare Auskunft oder Zusage beantragt oder erteilt wurde.
+
+Dem Antrag sind die erforderlichen Unterlagen beizufügen, insbesondere solche, die zur Würdigung des Sachverhalts erforderlich sind. Der Antrag ist bei der nach Absatz 1 Satz 1 zuständigen Behörde schriftlich oder elektronisch zu stellen.
+
+(3) Im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde unterzeichnet die nach Absatz 1 Satz 1 zuständige Behörde die Vorabverständigungsvereinbarung mit dem anderen Vertragsstaat nur, wenn die Vereinbarung mindestens unter der Bedingung steht, dass der Antragsteller
+
+1. dem Inhalt der Vorabverständigungsvereinbarung zustimmt und
+
+2. im Geltungsbereich dieses Gesetzes auf die Einlegung von Rechtsbehelfen gegen Steuerbescheide verzichtet, soweit diese die Ergebnisse der Vorabverständigungsvereinbarung für den bestimmten Geltungszeitraum zutreffend umsetzen (Rechtsbehelfsverzicht).
+
+Nach der Unterzeichnung teilt die nach Absatz 1 Satz 1 zuständige Behörde dem Antragsteller den Inhalt der Einigung mit und setzt ihm eine Frist zur Erfüllung der Bedingungen nach Satz 1. Der Rechtsbehelfsverzicht des Antragstellers hat mit gesondertem Schreiben schriftlich oder zur Niederschrift gegenüber der nach Absatz 1 Satz 1 zuständigen Behörde zu erfolgen. Wird keine Vorabverständigungsvereinbarung unterzeichnet, scheitert das Vorabverständigungsverfahren. Dies ist insbesondere der Fall, wenn die zuständige Behörde des anderen Vertragsstaates ein Verfahren nicht einleitet oder die zuständigen Behörden zu keiner übereinstimmenden Abkommensauslegung gelangen. Das Verfahren scheitert auch, wenn der Antragsteller die Bedingungen nach Satz 1 nicht fristgemäß erfüllt. Ein Vorabverständigungsverfahren wird im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder der von dieser beauftragten Behörde geführt.
+
+(4) Die örtlich zuständige Finanzbehörde ist an die unterzeichnete Vorabverständigungsvereinbarung nicht gebunden, wenn
+
+1. die in der Vorabverständigungsvereinbarung enthaltenen Bedingungen nicht oder nicht mehr erfüllt werden,
+
+2. der andere beteiligte Vertragsstaat die Vorabverständigungsvereinbarung nicht einhält oder
+
+3. die Rechtsvorschriften, auf denen die Vorabverständigungsvereinbarung beruht, aufgehoben oder geändert werden.
+
+Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zuständigen Behörde im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder der von dieser beauftragten Behörde. Die Bindungswirkung der Vorabverständigungsvereinbarung entfällt in dem Zeitpunkt, in dem eine der Voraussetzungen nach Satz 1 vorliegt.
+
+(5) Steht der Vorabverständigungsvereinbarung eine bereits erteilte verbindliche Auskunft nach § 89, eine bereits erteilte verbindliche Zusage nach § 204 oder eine Anrufungsauskunft nach § 42e des Einkommensteuergesetzes entgegen, kann die nach § 131 Absatz 4 zuständige Finanzbehörde im Einvernehmen mit der nach Absatz 1 Satz 1 zuständigen Behörde die verbindliche Auskunft, die verbindliche Zusage oder die Anrufungsauskunft widerrufen. Erfolgt kein Widerruf nach Satz 1 und wurde bereits eine Vorabverständigungsvereinbarung unterzeichnet, kann die örtlich zuständige Finanzbehörde im Einvernehmen mit der nach Absatz 1 Satz 1 zuständigen Behörde gegenüber dem Antragsteller erklären, dass sie an die unterzeichnete Vorabverständigungsvereinbarung nicht gebunden ist.
+
+(6) Eine unterzeichnete Vorabverständigungsvereinbarung kann von der nach Absatz 1 Satz 1 zuständigen Behörde über den bestimmten Geltungszeitraum hinaus auf Antrag verlängert werden. Die Vorabverständigungsvereinbarung kann auf Antrag auf Veranlagungszeiträume, die dem Geltungszeitraum der Vereinbarung vorangehen, angewendet werden; die Fristen für Verständigungsverfahren des jeweils maßgebenden Abkommens zur Vermeidung der Doppelbesteuerung sind zu beachten. Die Sätze 1 und 2 setzen das Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit der von dieser beauftragten Behörde und der zuständigen Behörde des anderen Vertragsstaates voraus.
+
+(7) Die nach Absatz 1 Satz 1 zuständige Behörde erhebt für die Bearbeitung eines Antrags nach Absatz 1 oder Absatz 6 Satz 1 Gebühren, die vor Einleitung des Vorabverständigungsverfahrens oder der Bearbeitung eines Verlängerungsantrags festzusetzen sind. Die Einleitung des Vorabverständigungsverfahrens oder die Bearbeitung eines Verlängerungsantrags erfolgt durch die Versendung des ersten Schriftsatzes an den anderen Vertragsstaat. Die Gebühr ist vom Antragsteller innerhalb eines Monats nach Bekanntgabe ihrer Festsetzung zu entrichten. Das Vorabverständigungsverfahren oder die Bearbeitung eines Verlängerungsantrags wird erst eingeleitet, wenn die Gebührenfestsetzung unanfechtbar geworden und die Gebühr entrichtet ist. Die Gebühr beträgt 30 000 Euro für jeden Antrag im Sinne des Absatzes 1 sowie 15 000 Euro für jeden Verlängerungsantrag nach Absatz 6 Satz 1. Sofern es sich bei dem Antrag nicht um einen Verrechnungspreisfall handelt, beträgt die Gebühr für jeden Antrag ein Viertel der Gebühren nach Satz 5; Verrechnungspreisfälle sind Fälle, die die grenzüberschreitende Gewinnabgrenzung zwischen nahestehenden Personen und die Gewinnzuordnung zu Betriebsstätten betreffen. Bezieht sich der Antrag auf einen Sachverhalt, für dessen steuerliche Beurteilung im Zeitpunkt der Antragstellung bereits eine koordinierte bilaterale oder multilaterale steuerliche Außenprüfung durchgeführt wurde, die zu einem übereinstimmend festgestellten Sachverhalt und zu einer übereinstimmenden steuerlichen Würdigung geführt hat, wird die Gebühr um 75 Prozent reduziert. Sofern die Summe der von dem Vorabverständigungsverfahren erfassten Geschäftsvorfälle eines Verrechnungspreisfalls die Beträge des § 6 Absatz 2 Satz 1 der Gewinnabgrenzungsaufzeichnungs-Verordnung vom 12. Juli 2017 (BGBl. I S. 2367) voraussichtlich nicht überschreitet, beträgt die Gebühr 10 000 Euro für jeden Antrag im Sinne des Absatzes 1 und 7 500 Euro für jeden Antrag nach Absatz 6 Satz 1. In den Fällen des Absatzes 1 Satz 4 und 6 liegt ein Antrag vor, für den nur eine Gebühr festzusetzen und zu entrichten ist. In den Fällen des Absatzes 1 Satz 8 ist für jedes Vorabverständigungsverfahren eine gesonderte Gebühr festzusetzen und zu entrichten.
+
+(8) Nimmt der Antragsteller seinen Antrag nach Absatz 1 Satz 1 vor Bekanntgabe der Gebührenfestsetzung zurück, kann von einer Gebührenfestsetzung abgesehen werden. Wird der Antrag zurückgenommen oder abgelehnt, wird eine zu diesem Zeitpunkt unanfechtbar festgesetzte Gebühr nicht erstattet; dies gilt auch im Fall des Scheiterns des Vorabverständigungsverfahrens.
 
 # § 90 – Mitwirkungspflichten der Beteiligten
 
@@ -5758,7 +5830,7 @@ Wer nach anderen Gesetzen als den Steuergesetzen Bücher und Aufzeichnungen zu f
 
 (1) Gewerbliche Unternehmer sowie Land- und Forstwirte, die nach den Feststellungen der Finanzbehörde für den einzelnen Betrieb
 
-1. Umsätze einschließlich der steuerfreien Umsätze, ausgenommen die Umsätze nach § 4 Nr. 8 bis 10 des Umsatzsteuergesetzes, von mehr als 600 000 Euro im Kalenderjahr oder
+1. einen Gesamtumsatz im Sinne des § 19 Absatz 3 Satz 1 des Umsatzsteuergesetzes von mehr als 600 000 Euro im Kalenderjahr oder
 
 2. (weggefallen)
 
@@ -6095,7 +6167,7 @@ abgegeben wurde.
 
 3. wenn die festgesetzte Steuer die Summe der festgesetzten Vorauszahlungen und der anzurechnenden Steuerabzugsbeträge nicht übersteigt oder
 
-4. bei jährlich abzugebenden Lohnsteueranmeldungen sowie bei jährlich abzugebenden Versicherungsteuer- und Feuerschutzsteueranmeldungen.
+4. bei jährlich abzugebenden Lohnsteueranmeldungen, bei Anmeldungen von Umsatzsteuer-Sondervorauszahlungen nach § 48 Absatz 2 der Umsatzsteuer-Durchführungsverordnung sowie bei jährlich abzugebenden Versicherungsteuer- und Feuerschutzsteueranmeldungen.
 
 (4) Sind mehrere Personen zur Abgabe einer Steuererklärung verpflichtet, kann die Finanzbehörde nach ihrem Ermessen entscheiden, ob sie den Verspätungszuschlag gegen eine der erklärungspflichtigen Personen, gegen mehrere der erklärungspflichtigen Personen oder gegen alle erklärungspflichtigen Personen festsetzt. Wird der Verspätungszuschlag gegen mehrere oder gegen alle erklärungspflichtigen Personen festgesetzt, sind diese Personen Gesamtschuldner des Verspätungszuschlags. In Fällen des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a ist der Verspätungszuschlag vorrangig gegen die nach § 181 Absatz 2 Satz 2 Nummer 4 erklärungspflichtigen Personen festzusetzen.
 
@@ -6111,9 +6183,11 @@ abgegeben wurde.
 
 2. nach § 41a Absatz 2 Satz 2 zweiter Halbsatz des Einkommensteuergesetzes jährlich abzugebende Lohnsteueranmeldungen,
 
-3. nach § 8 Absatz 2 Satz 3 des Versicherungsteuergesetzes jährlich abzugebende Versicherungsteueranmeldungen und
+3. nach § 8 Absatz 2 Satz 3 des Versicherungsteuergesetzes jährlich abzugebende Versicherungsteueranmeldungen,
 
-4. nach § 8 Absatz 2 Satz 3 des Feuerschutzsteuergesetzes jährlich abzugebende Feuerschutzsteueranmeldungen.
+4. nach § 8 Absatz 2 Satz 3 des Feuerschutzsteuergesetzes jährlich abzugebende Feuerschutzsteueranmeldungen und
+
+5. Anmeldungen der Umsatzsteuer-Sondervorauszahlung nach § 48 Absatz 2 der Umsatzsteuer-Durchführungsverordnung.
 
 In diesen Fällen sind bei der Bemessung des Verspätungszuschlags die Dauer und Häufigkeit der Fristüberschreitung sowie die Höhe der Steuer zu berücksichtigen.
 
@@ -6488,7 +6562,7 @@ In den Fällen des Satzes 1 Nr. 2 beginnt die Festsetzungsfrist mit Ablauf des K
 
 # § 175a – Umsetzung von Verständigungsvereinbarungen
 
-Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur Umsetzung einer Verständigungsvereinbarung oder eines Schiedsspruchs nach einem Vertrag im Sinne des § 2 geboten ist. Die Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach dem Wirksamwerden der Verständigungsvereinbarung oder des Schiedsspruchs.
+Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur Umsetzung einer Vorabverständigungsvereinbarung nach § 89a, einer Verständigungsvereinbarung oder eines Schiedsspruchs nach einem Vertrag im Sinne des § 2 geboten ist. Die Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach dem Wirksamwerden der Verständigungsvereinbarung oder des Schiedsspruchs oder der einvernehmlichen rückwirkenden Anwendung einer Vorabverständigungsvereinbarung.
 
 (+++ § 175a Satz 2: Zur Geltung vgl. Art. 97 § 10 Abs. 5 AOEG 1977 +++)  
 (+++ § 175a: Zur Anwendung vgl. § 1 Abs. 1d InvStG +++)
@@ -6562,17 +6636,7 @@ c) die untersuchten Waren den an sie gestellten Anforderungen nicht entsprechen,
 
 (4) Auf die Festsetzung der Kosten sind die für Verbrauchssteuern geltenden Vorschriften entsprechend anzuwenden. Im Übrigen gilt für diese Kosten das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung. Die §§ 18 bis 22 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung finden keine Anwendung.
 
-# § 178a – Kosten bei besonderer Inanspruchnahme der Finanzbehörden
-
-(1) Das Bundeszentralamt für Steuern erhebt für die Bearbeitung eines Antrags auf Durchführung eines Verständigungsverfahrens nach einem Vertrag im Sinne des § 2 zur einvernehmlichen Besteuerung von noch nicht verwirklichten Geschäften eines Steuerpflichtigen mit nahe stehenden Personen im Sinne des § 1 des Außensteuergesetzes oder zur zukünftigen einvernehmlichen Gewinnaufteilung zwischen einem inländischen Unternehmen und seiner ausländischen Betriebsstätte oder zur zukünftigen einvernehmlichen Gewinnermittlung einer inländischen Betriebsstätte eines ausländischen Unternehmens (Vorabverständigungsverfahren) Gebühren, die vor Eröffnung des Vorabverständigungsverfahrens durch das Bundeszentralamt für Steuern festzusetzen sind. Diese Eröffnung geschieht durch die Versendung des ersten Schriftsatzes an den anderen Staat. Hat ein Antrag Vorabverständigungsverfahren mit mehreren Staaten zum Ziel, ist für jedes Verfahren eine Gebühr festzusetzen und zu entrichten. Das Vorabverständigungsverfahren wird erst eröffnet, wenn die Gebührenfestsetzung unanfechtbar geworden und die Gebühr entrichtet ist; wird ein Herabsetzungsantrag nach Absatz 4 gestellt, muss auch darüber unanfechtbar entschieden sein.
-
-(2) Die Gebühr beträgt 20.000 Euro (Grundgebühr) für jeden Antrag im Sinne des Absatzes 1; der Antrag eines Organträgers im Sinne des § 14 Abs. 1 des Körperschaftsteuergesetzes, der entsprechende Geschäfte seiner Organgesellschaften mit umfasst, gilt als ein Antrag. Stellt der Antragsteller einer bereits abgeschlossenen Verständigungsvereinbarung einen Antrag auf Verlängerung der Geltungsdauer, beträgt die Gebühr 15.000 Euro (Verlängerungsgebühr). Ändert der Antragsteller seinen Antrag vor der Entscheidung über den ursprünglichen Antrag oder stellt er während der Laufzeit der Verständigungsvereinbarung einen Antrag auf Änderung der Verständigungsvereinbarung, wird eine zusätzliche Gebühr von 10.000 Euro für jeden Änderungsantrag erhoben (Änderungsgebühr); dies gilt nicht, wenn die Änderung vom Bundeszentralamt für Steuern oder vom anderen Staat veranlasst worden ist.
-
-(3) Sofern die Summe der von dem Vorabverständigungsverfahren erfassten Geschäftsvorfälle die Beträge des § 6 Abs. 2 Satz 1 der Gewinnabgrenzungsaufzeichnungsverordnung vom 13. November 2003 (BGBl. I S. 2296) voraussichtlich nicht überschreitet, beträgt die Grundgebühr 10.000 Euro, die Verlängerungsgebühr 7.500 Euro und die Änderungsgebühr 5.000 Euro.
-
-(4) Das Bundeszentralamt für Steuern kann die Gebühr nach Absatz 2 oder 3 auf Antrag herabsetzen, wenn deren Entrichtung für den Steuerpflichtigen eine unbillige Härte bedeutet und das Bundeszentralamt für Steuern ein besonderes Interesse der Finanzbehörden an der Durchführung des Vorabverständigungsverfahrens feststellt. Der Antrag ist vor Eröffnung des Vorabverständigungsverfahrens zu stellen; ein später gestellter Antrag ist unzulässig.
-
-(5) Im Fall der Rücknahme oder Ablehnung des Antrags, oder wenn das Vorabverständigungsverfahren scheitert, wird die unanfechtbar festgesetzte Gebühr nicht erstattet.
+# § 178a – (weggefallen)
 
 # § 179 – Feststellung von Besteuerungsgrundlagen
 
@@ -7428,7 +7492,7 @@ Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist anderweit
 
 (1) Verwaltungsakte können vollstreckt werden, soweit nicht ihre Vollziehung ausgesetzt oder die Vollziehung durch Einlegung eines Rechtsbehelfs gehemmt ist (§ 361; § 69 der Finanzgerichtsordnung). Einfuhr- und Ausfuhrabgabenbescheide können außerdem nur vollstreckt werden, soweit die Verpflichtung des Zollschuldners zur Abgabenentrichtung nicht ausgesetzt ist (Artikel 108 Absatz 3 des Zollkodex der Union).
 
-(2) Unberührt bleiben die Vorschriften der Insolvenzordnung sowie § 79 Abs. 2 des Bundesverfassungsgerichtsgesetzes. Die Finanzbehörde ist berechtigt, in den Fällen des § 201 Abs. 2, §§ 257 und 308 Abs. 1 der Insolvenzordnung gegen den Schuldner im Verwaltungswege zu vollstrecken.
+(2) Unberührt bleiben die Vorschriften der Insolvenzordnung sowie § 79 Abs. 2 des Bundesverfassungsgerichtsgesetzes. Die Finanzbehörde ist berechtigt, in den Fällen des § 201 Abs. 2, §§ 257 und 308 Abs. 1 der Insolvenzordnung sowie des § 71 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes gegen den Schuldner im Verwaltungswege zu vollstrecken.
 
 (3) Macht die Finanzbehörde im Insolvenzverfahren einen Anspruch aus dem Steuerschuldverhältnis als Insolvenzforderung geltend, so stellt sie erforderlichenfalls die Insolvenzforderung durch schriftlichen Verwaltungsakt fest.
 
@@ -8271,6 +8335,8 @@ Wirkt ein Feststellungsbescheid, ein Grundsteuermessbescheid oder ein Zerlegungs
 (1) Auf Einlegung eines Einspruchs kann nach Erlass des Verwaltungsakts verzichtet werden. Der Verzicht kann auch bei Abgabe einer Steueranmeldung für den Fall ausgesprochen werden, dass die Steuer nicht abweichend von der Steueranmeldung festgesetzt wird. Durch den Verzicht wird der Einspruch unzulässig.
 
 (1a) Soweit Besteuerungsgrundlagen für ein Verständigungs- oder ein Schiedsverfahren nach einem Vertrag im Sinne des § 2 von Bedeutung sein können, kann auf die Einlegung eines Einspruchs insoweit verzichtet werden. Die Besteuerungsgrundlage, auf die sich der Verzicht beziehen soll, ist genau zu bezeichnen.
+
+(1b) Auf die Einlegung eines Einspruchs kann bereits vor Erlass des Verwaltungsakts verzichtet werden, soweit durch den Verwaltungsakt eine Verständigungsvereinbarung oder ein Schiedsspruch nach einem Vertrag im Sinne des § 2 zutreffend umgesetzt wird. § 89a Absatz 3 Satz 1 Nummer 2 bleibt unberührt.
 
 (2) Der Verzicht ist gegenüber der zuständigen Finanzbehörde schriftlich oder zur Niederschrift zu erklären; er darf keine weiteren Erklärungen enthalten. Wird nachträglich die Unwirksamkeit des Verzichts geltend gemacht, so gilt § 110 Abs. 3 sinngemäß.
 

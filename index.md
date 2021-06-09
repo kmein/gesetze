@@ -2680,6 +2680,7 @@
 - [HiWerkBehKGÄndG](laws/HiWerkBehKGÄndG.md) Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 - [HKEntschG](laws/HKEntschG.md) Gesetz über eine einmalige Entschädigung an die Heimkehrer aus dem Beitrittsgebiet
 - [HkGAufhuaÄndG](laws/HkGAufhuaÄndG.md) Gesetz zur Aufhebung des Heimkehrergesetzes und zur Änderung anderer Vorschriften
+- [HKohlStiftG](laws/HKohlStiftG.md) Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung
 - [HKrimDAPrV](laws/HKrimDAPrV.md) Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
 - [HkRNDV](laws/HkRNDV.md) Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
 - [HkRNGebV](laws/HkRNGebV.md) Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung
@@ -3332,6 +3333,7 @@
 - [LMRStV 2006](laws/LMRStV_2006.md) Verordnung zur Durchsetzung lebensmittelrechtlicher Rechtsakte der Europäischen Gemeinschaft
 - [LMTAusbV 2000](laws/LMTAusbV_2000.md) Verordnung über die Berufsausbildung zur Fachkraft für Lebensmitteltechnik
 - [LMvitV](laws/LMvitV.md) Verordnung über vitaminisierte Lebensmittel
+- [LMZDV](laws/LMZDV.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften über Lebensmittelzusatzstoffe
 - [LogAPrO](laws/LogAPrO.md) Ausbildungs- und Prüfungsordnung für Logopäden
 - [LogMstrV](laws/LogMstrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte Logistikmeisterin
 - [LogopG](laws/LogopG.md) Gesetz über den Beruf des Logopäden
@@ -4120,7 +4122,6 @@
 - [NTSG](laws/NTSG.md) Gesetz über den Schutz der Truppen des Nordatlantikpaktes durch das Straf- und Ordnungswidrigkeitenrecht
 - [NukHaftÜbk/AtHaftÜbkGemProtG](laws/NukHaftÜbk_AtHaftÜbkGemProtG.md) Gesetz zu dem Gemeinsamen Protokoll vom 21. September 1988 über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens (Gesetz zu dem Gemeinsamen Protokoll über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens)
 - [NutzEV](laws/NutzEV.md) Verordnung über eine angemessene Gestaltung von Nutzungsentgelten
-- [NutzZG](laws/NutzZG.md) Gesetz über nutzungsbezogene Zuschläge bei Verwendung der elektronischen Gesundheitskarte außerhalb der Gesetzlichen Krankenversicherung
 - [OASG](laws/OASG.md) Gesetz zur Sicherung der zivilrechtlichen Ansprüche der Opfer von Straftaten
 - [OberflbeschAusbV](laws/OberflbeschAusbV.md) Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin
 - [ODV](laws/ODV.md) Ortsbewegliche-Druckgeräte-Verordnung
@@ -6438,7 +6439,6 @@
 - [ZuV 2012](laws/ZuV_2012.md) Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012
 - [ZuV 2020](laws/ZuV_2020.md) Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Handelsperiode 2013 bis 2020
 - [ZVALG](laws/ZVALG.md) Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft
-- [ZVerkV](laws/ZVerkV.md) Verordnung über Anforderungen an Zusatzstoffe und das Inverkehrbringen von Zusatzstoffen für technologische Zwecke
 - [ZVFV](laws/ZVFV.md) Verordnung über Formulare für die Zwangsvollstreckung
 - [ZVG](laws/ZVG.md) Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
 - [ZVGEG](laws/ZVGEG.md) Einführungsgesetz zu dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
@@ -6448,7 +6448,6 @@
 - [ZweiradFortbV](laws/ZweiradFortbV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik und Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik
 - [ZwrMechMstrV](laws/ZwrMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Zweiradmechaniker-Handwerk
 - [ZwVwV](laws/ZwVwV.md) Zwangsverwalterverordnung
-- [ZZulV](laws/ZZulV.md) Verordnung über die Zulassung von Zusatzstoffen zu Lebensmitteln zu technologischen Zwecken
 - [1-DM-GoldmünzG](laws/1-DM-GoldmünzG.md) Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung "Geld und Währung"
 - [1. BesVNG](laws/1._BesVNG.md) Erstes Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
 - [1. BImSchV](laws/1._BImSchV.md) Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes

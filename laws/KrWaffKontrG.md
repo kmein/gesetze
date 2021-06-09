@@ -877,9 +877,9 @@ Wer am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Einigungsve
 
 Verpflichtungen der Bundesrepublik auf Grund zwischenstaatlicher Verträge bleiben unberührt. Insoweit gelten die nach Artikel 26 Abs. 2 des Grundgesetzes und die nach diesem Gesetz erforderlichen Genehmigungen als erteilt.
 
-# § 28 – Berlin-Klausel
+# § 28 – Gebühren
 
-(gegenstandslos)
+In einer Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes sind für individuell zurechenbare öffentliche Leistungen des Bundesministeriums für Wirtschaft und Energie und des Bundesamts für Wirtschaft und Ausfuhrkontrolle nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Gebühren ab dem 1. Januar 2023 zu regeln.
 
 # § 29 – Inkrafttreten
 

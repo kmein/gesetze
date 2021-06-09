@@ -599,7 +599,7 @@ e) des Bundesinstituts für Arzneimittel und Medizinprodukte an die obersten Lan
 
 sowie Art der Anonymisierung, Form und Inhalt der Meldungen und Mitteilungen vorgeschrieben,
 
-4. Form, Inhalt, Anfertigung, Ausgabe, Aufbewahrung und Rückgabe des zu verwendenden amtlichen Formblattes für die Verschreibung sowie der Aufzeichnungen über den Verbleib und den Bestand festgelegt und
+4. Form, Inhalt, Anfertigung, Ausgabe, Aufbewahrung und Rückgabe des zu verwendenden amtlichen Formblattes für die Verschreibung, das Verfahren für die Verschreibung in elektronischer Form sowie Form und Inhalt der Aufzeichnungen über den Verbleib und den Bestand der Betäubungsmittel festgelegt und
 
 5. Ausnahmen von § 4 Abs. 1 Nr. 1 Buchstabe c für die Ausrüstung von Kauffahrteischiffen erlassen werden.
 
@@ -699,7 +699,7 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 # § 19 – Durchführende Behörde
 
-(1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte. Diese Stelle ist auch zuständig für die Anfertigung, Ausgabe und Auswertung der zur Verschreibung von Betäubungsmitteln vorgeschriebenen amtlichen Formblätter. Der Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten, pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung der in § 10a Abs. 2 aufgeführten Mindeststandards; den mit der Überwachung beauftragten Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
+(1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte. Diese Stelle ist auch zuständig für die Anfertigung und Ausgabe der zur Verschreibung von Betäubungsmitteln vorgeschriebenen amtlichen Formblätter, für die Bereitstellung eines Verfahrens zur Verschreibung von Betäubungsmitteln in elektronischer Form sowie für die Auswertung von Verschreibungen. Der Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten, pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung der in § 10a Abs. 2 aufgeführten Mindeststandards; den mit der Überwachung beauftragten Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist zugleich die besondere Verwaltungsdienststelle im Sinne der internationalen Suchtstoffübereinkommen.
 

@@ -67,7 +67,7 @@ Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung 
 
 4. eine Freileitung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist oder
 
-5. die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1 des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite mindestens 300 Meter beträgt; bei der Bemessung der Breite ist § 1 Absatz 4 des Bundeswasserstraßengesetzes nicht anzuwenden.
+5. die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1 des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite mindestens 300 Meter beträgt; bei der Bemessung der Breite ist § 1 Absatz 6 des Bundeswasserstraßengesetzes nicht anzuwenden.
 
 Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach Satz 1 nicht auf der gesamten Länge der jeweiligen technisch und wirtschaftlich effizienten Teilabschnitte vorliegen. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde muss die Leitung auf dem jeweiligen technisch und wirtschaftlich effizienten Teilabschnitt nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 

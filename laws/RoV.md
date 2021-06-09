@@ -7,7 +7,7 @@ Auf Grund des § 6a Abs. 2 Satz 1 des Raumordnungsgesetzes in der Fassung der Be
 
 # § 1 – Anwendungsbereich
 
-Für die nachfolgend aufgeführten Planungen und Maßnahmen soll ein Raumordnungsverfahren (§ 15 des Raumordnungsgesetzes) durchgeführt werden, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben. Die Befugnis der für die Raumordnung zuständigen Landesbehörden, weitere raumbedeutsame Planungen und Maßnahmen von überörtlicher Bedeutung nach landesrechtlichen Vorschriften in einem Raumordnungsverfahren zu überprüfen, bleibt unberührt.
+Die Durchführung eines Raumordnungsverfahrens erfolgt nur auf Grundlage eines Antrags nach § 15 Absatz 5 Satz 1 des Raumordnungsgesetzes oder auf Grundlage einer Entscheidung nach § 15 Absatz 5 Satz 3 des Raumordnungsgesetzes für die nachfolgend aufgeführten Planungen und Maßnahmen, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben. Die Befugnis der für die Raumordnung zuständigen Landesbehörden, weitere raumbedeutsame Planungen und Maßnahmen von überörtlicher Bedeutung nach landesrechtlichen Vorschriften in einem Raumordnungsverfahren zu überprüfen, bleibt unberührt.
 
 1. Errichtung einer Anlage im Außenbereich im Sinne des § 35 des Baugesetzbuchs, die der Genehmigung in einem Verfahren unter Einbeziehung der Öffentlichkeit nach § 4 des Bundes-Immissionsschutzgesetzes bedarf und die in den Nummern 1 bis 10 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung aufgeführt ist; sachlich und räumlich miteinander im Verbund stehende Anlagen sind dabei als Einheit anzusehen;
 

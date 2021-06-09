@@ -609,7 +609,9 @@ In den Fällen von Satz 1 Nummer 2 ist die Fallgestaltung im Bericht abstrakt zu
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, zur zeitnahen Umsetzung unionsrechtlicher Bestimmungen hinsichtlich der Fristen zur Mitteilung grenzüberschreitender Steuergestaltungen durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben von den Absätzen 1 und 2 abweichende Bestimmungen zu treffen.
 
-# § 34 – (weggefallen)
+# § 34 – Vorabverständigungsverfahren
+
+§ 89a der Abgabenordnung in der am 9. Juni 2021 geltenden Fassung ist erstmals auf Anträge anzuwenden, die nach dem 8. Juni 2021 bei der zuständigen Behörde eingegangen sind. § 178a der Abgabenordnung in der Fassung des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist letztmals auf Anträge anzuwenden, die am 8. Juni 2021 bei der zuständigen Behörde eingegangen sind.
 
 # § 35 – Abrufverfahren von Steuermessbeträgen
 
