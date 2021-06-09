@@ -19,7 +19,7 @@ Molkerei im Sinne dieser Verordnung ist ein milchwirtschaftliches Unternehmen, d
 
 (3) Butter, die zur Abgabe an andere als Verbraucher bestimmt ist, muß gemäß den Bestimmungen im Teil A Nr. 1 des Anhanges der EG-Verordnung hergestellt sein.
 
-(4) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
+(4) (weggefallen)
 
 # § 3 – Ergänzende Vorschriften zur Kennzeichnung
 
@@ -75,7 +75,7 @@ Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den Verkehr gebrach
 
 (4) Sauerrahmbutter und Mildgesäuerte Butter dürfen nur unter Verwendung von spezifischen Milchsäurebakterienkulturen hergestellt werden; zusätzlich darf bei Mildgesäuerter Butter ein aus diesen gewonnenes Milchsäurekonzentrat, das ausschließlich durch Einwirkung von Milchsäurebakterien auf Milchinhaltsstoffe erzeugt wurde, verwendet werden.
 
-(5) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
+(5) (weggefallen)
 
 # § 6 – Qualitätsanforderungen
 

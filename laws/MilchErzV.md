@@ -59,7 +59,7 @@ Beigegebene Lebensmittel im Sinne von Spalte 1 Buchstabe b der Gruppen XIV und X
 
 # § 3 – Allgemeine Kennzeichnungsvorschriften
 
-(1) Milcherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichnungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
+(1) Milcherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind.
 
 (2) Bei Milcherzeugnissen in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, sind anzugeben
 
@@ -137,17 +137,15 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (2) Wird bei einem Milcherzeugnis im Sinne der Anlage 1 der Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose nur erfolgen, soweit der Laktosegehalt nach Maßgabe der nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in seiner jeweils geltenden Fassung für die Feststellung von Laktose veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des Fertigerzeugnisses liegt und die Kennzeichnung die Angabe „Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe enthält.
 
-# § 5 – Zulassung von Zusatzstoffen
+# § 5 – Verwendung von Vitaminen
 
-(1) Als Zusatz beim Herstellen von Milcherzeugnissen werden die in Anlage 2 aufgeführten Zusatzstoffe für die dort bezeichneten Verwendungszwecke zugelassen. Der Gehalt an den Zusatzstoffen darf die in der Anlage 2 angegebenen Höchstmengen nicht überschreiten.
+(1) Bei der Herstellung von Milcherzeugnissen dürfen die in Anlage 2 aufgeführten Vitamine für die dort bezeichneten Zwecke verwendet werden. Der Gehalt an den Vitaminen darf die in der Anlage 2 angegebenen Höchstmengen nicht überschreiten.
 
-(1a) Milchstreichfetterzeugnisse im Sinne der Nummern 2 und 3 der Anlage 2 sind Milchstreichfette im Sinne des Abschnittes A Nummer 2 bis 4 der Anlage II des Anhangs VII der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671).
+(2) Milchstreichfetterzeugnisse im Sinne der Nummern 2 und 3 der Anlage 2 sind Milchstreichfette im Sinne des Abschnittes A Nummer 2 bis 4 der Anlage II des Anhangs VII der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist.
 
-(2) Die in Anlage 2 aufgeführten Zusatzstoffe werden auch zugelassen als Zusatz zu Lebensmitteln, die zur Herstellung von Milchmischerzeugnissen bestimmt sind (beigegebene Lebensmittel).
+(3) Die in Anlage 2 aufgeführten Vitamine dürfen auch zur Herstellung von beigegebenen Lebensmitteln verwendet werden.
 
-(3) Abweichend von § 16 Abs. 1 Satz 1 des Lebensmittel- und Bedarfsgegenständegesetzes besteht nicht die Verpflichtung, den Gehalt an den nach den Absätzen 1 und 2 zugelassenen Zusatzstoffen kenntlich zu machen. § 3 Abs. 2 Nr. 3 bleibt unberührt.
-
-(4) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
+(4) Abweichend von § 16 Absatz 1 Satz 1 des Lebensmittel- und Bedarfsgegenständegesetzes besteht nicht die Verpflichtung, den Gehalt an den nach den Absätzen 1 und 3 verwendeten Vitaminen kenntlich zu machen. § 3 Absatz 2 Nummer 3 bleibt unberührt.
 
 # § 5a
 
@@ -169,7 +167,7 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 1 ungezuckerte Kondensmilch in den Verkehr bringt.
 
-(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer bei dem Herstellen von Milcherzeugnissen, die dazu bestimmt sind, in den Verkehr gebracht zu werden, Zusatzstoffe über die in § 5 Abs. 1 Satz 2 festgesetzten Höchstmengen hinaus verwendet.
+(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer bei dem Herstellen von Milcherzeugnissen, die dazu bestimmt sind, in den Verkehr gebracht zu werden, Vitamine über die in § 5 Abs. 1 Satz 2 festgesetzten Höchstmengen hinaus verwendet.
 
 (2a) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 6 Abs. 2 Satz 1 ausländische Milcherzeugnisse, die nicht oder nicht in der vorgeschriebenen Weise kenntlich gemacht sind, in den Verkehr bringt.
 
@@ -1168,9 +1166,9 @@ b) hergestellt aus Milch, Sahne durch Abtrennen von Buttermilch und/oder Butter 
 
 \- Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv 15.8.2007
 
-# Anlage 2 – (zu § 5 Abs. 1)  Zugelassene Zusatzstoffe
+# Anlage 2 – (zu § 5 Absatz 1)Vitamine
 
-1. Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel genannten Zusatzstoffe zur Vitaminisierung von Trockenmilcherzeugnissen, Milchmischerzeugnissen und Molkenmischerzeugnissen.
+1. Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel genannten Vitamine zur Vitaminisierung von Trockenmilcherzeugnissen, Milchmischerzeugnissen und Molkenmischerzeugnissen.
 
 2. Vitamin A-acetat und Vitamin A-palmitat zur Vitaminisierung von Milchstreichfetterzeugnissen
 

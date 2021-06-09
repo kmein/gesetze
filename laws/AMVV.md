@@ -99,7 +99,7 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 # § 3a
 
-(1) Eine Verschreibung von Arzneimitteln, welche die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem nummerierten zweiteiligen amtlichen Vordruck (Original und Durchschrift) des Bundesinstituts für Arzneimittel und Medizinprodukte erfolgen. Die Vordrucke nach Satz 1 sind ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel bestimmt.
+(1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte entweder ausgegeben oder in elektronischer Form zur Verfügung gestellt wird, erfolgen. Das Formblatt nach Satz 1 ist ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel bestimmt.
 
 (2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation des entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien und die aktuelle Gebrauchsinformation des entsprechenden Fertigarzneimittels ausgehändigt wurden. Ferner muss auf der Verschreibung vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
 
@@ -107,7 +107,7 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 (4) Eine Verschreibung nach Absatz 1 Satz 1 ist bis zu sechs Tagen nach dem Tag ihrer Ausstellung gültig.
 
-(5) Vordrucke nach Absatz 1 Satz 1 werden vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung an die einzelne ärztliche Person gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
+(5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person entweder elektronisch zur Verfügung gestellt oder gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
 
 1. ihr die medizinischen Informationsmaterialien zu Lenalidomid, Pomalidomid oder Thalidomid gemäß der aktuellen Fachinformationen entsprechender Fertigarzneimittel vorliegen,
 
@@ -115,9 +115,11 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 3. sie über ausreichende Sachkenntnisse zur Verschreibung von Arzneimitteln nach Absatz 1 Satz 1 verfügt.
 
-(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des Vordrucks nach Absatz 1 Satz 1 öffentlich bekannt.
+Auf der Verschreibung in elektronischer Form sind die Erklärungen nach Satz 2 Nummer 1 bis 3 abzugeben.
 
-(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Vordrucke nach Absatz 1 Satz 1.
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des Formblatts nach Absatz 1 Satz 1 einschließlich des Formblatts in elektronischer Form barrierefrei öffentlich bekannt.
+
+(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung einer elektronischen Kopie der Verschreibung, bereinigt um Patientendaten, an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
 
 # § 3b
 

@@ -235,10 +235,36 @@ bis zu vier<br />
 Arbeitstage im<br />
 Urlaubsjahr</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td>Erkrankung der Betreuungsperson eines Kindes der Beamtin oder des Beamten, das noch nicht acht Jahre alt ist oder wegen körperlicher, geistiger oder seelischer Behinderung auf Hilfe angewiesen ist</td><td style="text-align: left;">bis zu vier<br />
 Arbeitstage im<br />
-Urlaubsjahr</td></tr><tr class="even"><td style="text-align: left;">6.</td><td>Fälle, in denen für einen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes in einer akut auftretenden Pflegesituation eine bedarfsgerechte Pflege organisiert oder eine pflegerische Versorgung sichergestellt werden muss, nach Verlangen unter Vorlage einer ärztlichen Bescheinigung über die Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches Sozialgesetzbuch</td><td style="text-align: left;">für jede pflegebedürftige Person bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">7.</td><td>Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird</td><td style="text-align: left;">Dauer der<br />
+Urlaubsjahr</td></tr><tr class="even"><td style="text-align: left;">6.</td><td>Fälle, in denen für einen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes in einer akut auftretenden Pflegesituation eine bedarfsgerechte Pflege organisiert oder eine pflegerische Versorgung sichergestellt werden muss, nach Verlangen unter Vorlage einer ärztlichen Bescheinigung über die Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches Sozialgesetzbuch</td><td style="text-align: left;">für jede pflegebedürftige Person bis zu neun Arbeitstage</td></tr><tr class="odd"><td style="text-align: left;">6a.</td><td>abweichend von Nummer 6 und befristet bis zum 30. Juni 2021 für Fälle, in denen die Beamtin oder der Beamte in einer wegen der COVID-19-Pandemie akut aufgetretenen Pflegesituation eine bedarfsgerechte häusliche Pflege für die Betreuung einer oder eines nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherstellen oder organisieren muss und in denen die Pflege nicht anderweitig gewährleistet werden kann; dass die Pflegesituation wegen der COVID-19-Pandemie aufgetreten ist, wird bis zum 30. Juni 2021 vermutet</td><td style="text-align: left;">für jede pflegebedürftige Person bis zu 20 Arbeitstage</td></tr><tr class="even"><td style="text-align: left;">7.</td><td>Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird</td><td style="text-align: left;">Dauer der<br />
 notwendigen Abwesenheit</td></tr></tbody></table>
 
 (2) In den Fällen des Absatzes 1 Nummer 4 darf die Dauer des gewährten Sonderurlaubs bei Beamtinnen und Beamten, deren Dienstbezüge oder Anwärterbezüge nicht die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch überschreiten, bis zu 75 Prozent der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch für eine Freistellung von der Arbeitsleistung vorgesehen sind.
+
+(2a) Für das Jahr 2021 gilt für den Sonderurlaub nach Absatz 1 Nummer 4, dass
+
+1. der Anspruch auf ihn zudem besteht, wenn die Beamtin oder der Beamte ihr oder sein nicht erkranktes Kind, das noch nicht zwölf Jahre alt ist oder das behindert und auf Hilfe angewiesen ist, nach § 45 Absatz 2a Satz 3 des Fünften Buches Sozialgesetzbuch betreut, weil wegen der COVID-19-Pandemie
+
+a) Schulen, Einrichtungen zur Betreuung von Kindern oder Einrichtungen für Menschen mit Behinderung zur Eindämmung der COVID-19-Pandemie auf Grund des Infektionsschutzgesetzes vorübergehend geschlossen worden sind,
+
+b) das Betreten von Schulen, Einrichtungen zur Betreuung von Kindern oder Einrichtungen für Menschen mit Behinderung – auch auf Grund einer Absonderung – untersagt worden ist,
+
+c) Schul- oder Betriebsferien von der zuständigen Behörde zur Eindämmung der COVID-19-Pandemie angeordnet oder verlängert worden sind,
+
+d) die Präsenzpflicht in einer Schule aufgehoben worden ist,
+
+e) der Zugang zum Angebot der Kinderbetreuung eingeschränkt worden ist oder
+
+f) das Kind auf Grund einer behördlichen Empfehlung die Schule, Einrichtung zur Betreuung von Kindern oder Einrichtung für Menschen mit Behinderung nicht besucht,
+
+2. sich die Dauer des Sonderurlaubs erhöht
+
+a) bei alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40 Arbeitstage, höchstens jedoch auf 86 Arbeitstage, und
+
+b) bei den übrigen Beamtinnen und Beamten für jedes Kind um 20 Arbeitstage, höchstens jedoch auf 43 Arbeitstage.
+
+In den Fällen des Satzes 1 Nummer 1 Buchstabe a bis f kann die Dienststelle die Vorlage einer Bescheinigung der Schule oder der Einrichtung verlangen.
+
+(2b) Für die Zeit, in der ein Elternteil Sonderurlaub nach Absatz 1 Nummer 4 in Anspruch nimmt, ruht für beide Elternteile die Möglichkeit, Sonderurlaub nach § 22 Absatz 2 in Anspruch zu nehmen.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten regelmäßigen Arbeitszeit.
 

@@ -173,4 +173,4 @@ Die Übersichten nach § 101b der Strafprozessordnung sind erstmalig für das Be
 
 # § 18 – Übergangsregelung zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität
 
-Die Übersichten nach § 101b Absatz 5 der Strafprozessordnung in der vom 2. April 2021 an geltenden Fassung sind erstmalig für das auf den 2. April 2021 folgende Berichtsjahr zu erstellen. Für die vorangehenden Berichtsjahre ist § 101b Absatz 5 der Strafprozessordnung in der bis zum 1. April 2021 geltenden Fassung anzuwenden.
+Die Übersichten nach § 101b Absatz 5 und 6 der Strafprozessordnung in der vom 2. April 2021 an geltenden Fassung sind erstmalig für das auf den 2. April 2021 folgende Berichtsjahr zu erstellen. Für die vorangehenden Berichtsjahre ist § 101b Absatz 5 der Strafprozessordnung in der bis zum 1. April 2021 geltenden Fassung anzuwenden.

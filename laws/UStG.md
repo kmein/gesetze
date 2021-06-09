@@ -3001,7 +3001,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (26) § 25 Absatz 3 in der Fassung des Artikels 11 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals auf Umsätze anzuwenden, die nach dem 31. Dezember 2021 bewirkt werden.
 
-(27) § 4 Nummer 15a in der bis zum 31. Dezember 2019 geltenden Fassung gilt bis zu den Zeitpunkten nach § 328 Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch sowie § 328 Absatz 5 Satz 4 in Verbindung mit § 328 Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch fort.
+(27) § 4 Nummer 15a in der bis zum 31. Dezember 2019 geltenden Fassung gilt bis zu den Zeitpunkten nach § 412 Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch sowie § 412 Absatz 5 Satz 9 in Verbindung mit § 412 Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch fort.
 
 (28) § 15 Absatz 4b, § 16 Absatz 2 Satz 1 und § 18 Absatz 9 in der Fassung des Artikels 12 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) sind erstmals auf Voranmeldungs-, Besteuerungs- und Vergütungszeiträume anzuwenden, die nach dem 31. Dezember 2019 enden.
 
@@ -3011,7 +3011,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (31) Der Termin, ab dem § 21 Absatz 3a in der Fassung des Artikels 3 des Gesetzes vom 29. Juni 2020 (BGBl. I S. 1512) erstmals anzuwenden ist, wird mit einem Schreiben des Bundesministeriums der Finanzen bekanntgegeben.
 
-(32) § 24 Absatz 1 in der Fassung des Artikels 8 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist erstmals auf Umsätze anzuwenden, die nach dem 31. Dezember 2021 bewirkt werden.
+(32) § 24 Absatz 1 in der Fassung des Artikels 11 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist erstmals auf Umsätze anzuwenden, die nach dem 31. Dezember 2021 bewirkt werden.
 
 (33) § 18i Absatz 3 und 6, § 18j Absatz 4 und 7, § 18k Absatz 4 und 7 in der Fassung des Artikels 13 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22 beziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des vorgenannten Gesetzes.
 
@@ -3021,7 +3021,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (1a) Das nach § 21 der Abgabenordnung für die Umsatzbesteuerung des Unternehmers zuständige Finanzamt kann die nach Absatz 1 Satz 1 bis 3 erteilte Umsatzsteuer-Identifikationsnummer begrenzen, wenn ernsthafte Anzeichen vorliegen oder nachgewiesen ist, dass die Umsatzsteuer-Identifikationsnummer zur Gefährdung des Umsatzsteueraufkommens verwendet wird. Dies gilt auch, soweit das Umsatzsteueraufkommen anderer Mitgliedstaaten gefährdet wird.
 
-(2) Die Landesfinanzbehörden übermitteln dem Bundeszentralamt für Steuern die für die Erteilung der Umsatzsteuer-Identifikationsnummer nach Absatz 1 erforderlichen Angaben über die bei ihnen umsatzsteuerlich geführten natürlichen und juristischen Personen und Personenvereinigungen. Diese Angaben dürfen nur für die Erteilung einer Umsatzsteuer-Identifikationsnummer, für Zwecke der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1), für die Umsatzsteuerkontrolle, für Zwecke der Amtshilfe zwischen den zuständigen Behörden anderer Staaten in Umsatzsteuersachen sowie für Übermittlungen an das Statistische Bundesamt nach § 2a des Statistikregistergesetzes verarbeitet werden. Außerdem übermitteln die Landesfinanzbehörden dem Bundeszentralamt für Steuern die nach Absatz 1a erforderlichen Daten. Das Bundeszentralamt für Steuern übermittelt den Landesfinanzbehörden die erteilten Umsatzsteuer-Identifikationsnummern und die Daten, die sie für die Umsatzsteuerkontrolle benötigen.
+(2) Die Landesfinanzbehörden übermitteln dem Bundeszentralamt für Steuern die für die Erteilung der Umsatzsteuer-Identifikationsnummer nach Absatz 1 erforderlichen Angaben über die bei ihnen umsatzsteuerlich geführten natürlichen und juristischen Personen und Personenvereinigungen. Diese Angaben dürfen nur für die Erteilung einer Umsatzsteuer-Identifikationsnummer, für Zwecke der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1), für die Umsatzsteuerkontrolle, für Zwecke der Amtshilfe zwischen den zuständigen Behörden anderer Staaten in Umsatzsteuersachen sowie für Übermittlungen an das Statistische Bundesamt nach § 2a des Statistikregistergesetzes und an das Bundeskartellamt zur Überprüfung und Vervollständigung der Daten nach § 3 Absatz 1 Nummer 4 des Wettbewerbsregistergesetzes verarbeitet werden. Außerdem übermitteln die Landesfinanzbehörden dem Bundeszentralamt für Steuern die nach Absatz 1a erforderlichen Daten. Das Bundeszentralamt für Steuern übermittelt den Landesfinanzbehörden die erteilten Umsatzsteuer-Identifikationsnummern und die Daten, die sie für die Umsatzsteuerkontrolle benötigen.
 
 # § 27b – Umsatzsteuer-Nachschau
 

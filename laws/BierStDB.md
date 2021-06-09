@@ -21,7 +21,7 @@ Die Ausdrücke "Bereitung von Bier" und "Bierbereitung" sind im weitesten Sinn z
 
 # § 17
 
-(1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und 4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe verwendet werden. Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden. Farbebier muß aus Gerstenmalz, Hopfen, untergäriger Hefe und Wasser hergestellt werden, es muß vergoren sein.
+(1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und 4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe verwendet werden. Die Vorschriften der Lebensmittelzusatzstoff-Durchführungsverordnung sind anzuwenden. Farbebier muß aus Gerstenmalz, Hopfen, untergäriger Hefe und Wasser hergestellt werden, es muß vergoren sein.
 
 (2) Die zulässigen Braustoffe müssen in der Beschaffenheit verwendet werden, in der ihnen die im Gesetz gewählte Bezeichnung zukommt.
 

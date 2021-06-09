@@ -292,7 +292,7 @@ Anstelle der Bezeichnung "Schmelzkäse" darf die Bezeichnung "Kochkäse" verwend
 
 # § 14 – Allgemeine Vorschriften
 
-(1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung ist anzuwenden.
+(1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind.
 
 (2) Bei Käse und Erzeugnissen aus Käse in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
 
@@ -483,7 +483,7 @@ Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in Packungen oder Be
 
 # § 23 – Zulassung von Zusatzstoffen
 
-Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus naturbelassenen Hölzern und Zweigen, Heidekraut und Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen. Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1 myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu werden, und von Erzeugnissen aus Käse mit dem gleichen Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2 festgesetzte Höchstmenge hinaus nicht verwendet werden. Die Zusatzstoff-Zulassungsverordnung bleibt unberührt.
+Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus naturbelassenen Hölzern und Zweigen, Heidekraut und Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen. Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1 myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu werden, und von Erzeugnissen aus Käse mit dem gleichen Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2 festgesetzte Höchstmenge hinaus nicht verwendet werden.
 
 # §§ 24 bis 26 – (weggefallen)
 

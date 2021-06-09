@@ -2234,7 +2234,7 @@ Die Terminsgebühr bestimmt sich nach Abschnitt 1.
 
 Verfahrensgebühr
 
-1. für das Verfahren vor dem Oberlandesgericht nach § 129 VGG,
+1. für das Verfahren vor dem Oberlandesgericht nach § 129 VGG oder § 32 AgrarOLkG,
 
 2. für das erstinstanzliche Verfahren vor dem Bundesverwaltungsgericht, dem Bundessozialgericht, dem Oberverwaltungsgericht (Verwaltungsgerichtshof) und dem Landessozialgericht sowie
 

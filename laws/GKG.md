@@ -275,6 +275,10 @@ Beschlussklagen nach dem Wohnungseigentumsgesetz
 
 Bestimmte Beschwerdeverfahren
 
+§ 50a
+
+Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz
+
 § 51
 
 Gewerblicher Rechtsschutz
@@ -430,6 +434,8 @@ Anlage 2 (zu § 34 Absatz 1 Satz 3)
 8. nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes;
 
 9. nach dem Gesetz gegen Wettbewerbsbeschränkungen;
+
+9a. nach dem Agrarorganisationen-und-Lieferketten-Gesetz;
 
 10. nach dem Wertpapiererwerbs- und Übernahmegesetz, soweit dort nichts anderes bestimmt ist;
 
@@ -937,6 +943,10 @@ Der Streitwert in Verfahren nach § 44 Absatz 1 des Wohnungseigentumsgesetzes is
 Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschränkungen, § 79 Absatz 1 Nummer 3 des Energiewirtschaftsgesetzes und § 16 Nummer 3 des EU-Verbraucherschutzdurchführungsgesetzes) ist der Streitwert unter Berücksichtigung der sich für den Beigeladenen ergebenden Bedeutung der Sache nach Ermessen zu bestimmen.
 
 (2) Im Verfahren über die Beschwerde gegen die Entscheidung der Vergabekammer (§ 171 des Gesetzes gegen Wettbewerbsbeschränkungen) einschließlich des Verfahrens über den Antrag nach § 169 Absatz 2 Satz 5 und 6, Absatz 4 Satz 2, § 173 Absatz 1 Satz 3 und nach § 176 des Gesetzes gegen Wettbewerbsbeschränkungen beträgt der Streitwert 5 Prozent der Bruttoauftragssumme.
+
+# § 50a – Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz
+
+In Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz bestimmt sich der Wert nach § 3 der Zivilprozessordnung.
 
 # § 51 – Gewerblicher Rechtsschutz
 

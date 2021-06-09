@@ -821,7 +821,7 @@ Die Meldung hat elektronisch oder schriftlich nach Abgabe des Arzneimittels zu e
 
 7. Name und Anschrift der Person, für die das Arzneimittel bestimmt ist.
 
-Nach dem Versand der Durchschriften der Vordrucke nach § 3a Absatz 7 der Arzneimittelverschreibungsverordnung an das Bundesinstitut für Arzneimittel und Medizinprodukte ist das Datum des Versands den Angaben nach Satz 1 hinzuzufügen.
+Nach dem Versand der Durchschriften der Verschreibungen oder nach der elektronischen Übermittlung der Verschreibungen nach § 3a Absatz 7 der Arzneimittelverschreibungsverordnung an das Bundesinstitut für Arzneimittel und Medizinprodukte ist das Datum des Versands oder der elektronischen Übermittlung den Angaben nach Satz 1 hinzuzufügen.
 
 (6c) Apotheken dürfen von anderen Apotheken keine Arzneimittel beziehen. Satz 1 wird nicht angewendet auf Arzneimittel,
 

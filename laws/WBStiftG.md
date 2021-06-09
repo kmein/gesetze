@@ -13,11 +13,15 @@ Unter dem Namen "Bundeskanzler-Willy-Brandt-Stiftung" wird mit Sitz in Berlin ei
 
 1. Einrichtung, Unterhaltung und Ausbau einer ständigen historischen Ausstellung in Berlin;
 
-2. Forschung und Anregung wissenschaftlicher Untersuchungen;
+2. Unterhaltung eines Willy-Brandt-Hauses in Lübeck mit einer ständigen Ausstellung;
 
-3. Veranstaltungen und Diskussionsforen mit deutscher und internationaler Beteiligung im Sinne des Stiftungszweckes;
+3. Unterhaltung einer ständigen Ausstellung im Willy-Brandt-Forum Unkel;
 
-4. Mitwirkung bei der Auswertung der Archivalien des "Willy-Brandt-Archivs im Archiv der sozialen Demokratie der Friedrich-Ebert-Stiftung" nach Maßgabe des § 2 Abs. 3.
+4. Forschung und Anregung wissenschaftlicher Untersuchungen;
+
+5. Veranstaltungen und Diskussionsforen mit deutscher und internationaler Beteiligung im Sinne des Stiftungszweckes;
+
+6. Mitwirkung bei der Auswertung der Archivalien des "Willy-Brandt-Archivs im Archiv der sozialen Demokratie der Friedrich-Ebert-Stiftung" nach Maßgabe des § 2 Abs. 3.
 
 (3) Die Stiftung arbeitet mit dem "Willy-Brandt-Archiv im Archiv der sozialen Demokratie der Friedrich-Ebert-Stiftung" in Bonn gemäß Vertrag vom 1. Juni 1994 zusammen. Den Beirat dieses Archivs bilden die Mitglieder des Kuratoriums der Bundeskanzler-Willy-Brandt-Stiftung.
 
