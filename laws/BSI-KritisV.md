@@ -1585,7 +1585,7 @@ c) in der See- und Binnenschifffahrt
 aa)  
 Anlage oder System zum Betrieb von Bundeswasserstraßen
 
-eine Anlage oder System zum sicheren Betrieb einer Wasserstraße nach § 1 Absatz 4 Nummer 1 des Bundeswasserstraßengesetzes in der jeweils geltenden Fassung.
+eine Anlage oder System zum sicheren Betrieb einer Wasserstraße nach § 1 Absatz 6 Nummer 1 des Bundeswasserstraßengesetzes in der jeweils geltenden Fassung.
 
 bb)  
 Verkehrssteuerungs- und Leitsystem der See- und Binnenschifffahrt

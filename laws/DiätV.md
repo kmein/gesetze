@@ -257,13 +257,11 @@ geeignet sind, die Aussage "zur besonderen Ernährung bei ... im Rahmen eines Di
 
 # § 5
 
-(1) Bei der Gewinnung, Herstellung und Zubereitung diätetischer Lebensmittel dürfen Zusatzstoffe nur nach Maßgabe dieser Verordnung zugesetzt werden.
+(1) Bei der Gewinnung, Herstellung und Zubereitung diätetischer Lebensmittel dürfen, vorbehaltlich unmittelbar geltender Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, Stoffe nur nach Maßgabe dieser Verordnung zugesetzt werden.
 
 (2) Die Verwendung von Trinkwasser, das nach der Trinkwasser-Aufbereitungs-Verordnung aufbereitet ist, gilt nicht als Zusatz von Zusatzstoffen im Sinne dieser Verordnung.
 
-# § 6
-
-Für die Verwendung von Zusatzstoffen in diätetischen Lebensmitteln zu technologischen Zwecken gilt die Zusatzstoff-Zulassungsverordnung. Zusätzlich zu den dort zugelassenen Zusatzstoffen sind für diätetische Lebensmittel, ausgenommen diätetische Lebensmittel für Säuglinge oder Kleinkinder die in Anlage 5 Nr. 2 der Aromenverordnung aufgeführten Stoffe als geschmacksbeeinflussende Stoffe für Aromen zugelassen, sofern sie dazu bestimmt sind, einem technologischen Zweck zu dienen. Der Gehalt an diesen Zusatzstoffen darf die in Anlage 5 Nr. 2 der Aromenverordnung festgesetzten Höchstmengen nicht überschreiten.
+# § 6 – (weggefallen)
 
 # § 7
 
@@ -715,7 +713,7 @@ angebracht werden. Die Angabe nach § 22 Abs. 1 Satz 1 darf an einer anderen Ste
 
 (3) Bei Lebensmitteln, die in Fertigpackungen im Sinne des § 1 Abs. 2 der Lebensmittel-Kennzeichnungsverordnung oder lose an den Verbraucher abgegeben werden, müssen die Angaben nach § 13 Abs. 3, § 17 Abs. 2, den §§ 18, und 19 Abs. 1 und § 24 auf Schildern gemacht werden, die auf oder neben der Ware für den Verbraucher deutlich sichtbar anzubringen oder aufzustellen sind. Dem Verbraucher stehen Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleich.
 
-(4) Bei Lebensmitteln, die nicht in Fertigpackungen zum Verzehr an Ort und Stelle abgegeben werden, genügen die Angaben nach § 17 Abs. 2 sowie den §§ 18 und 19 Abs. 1. Hinsichtlich der Art und Weise der Kenntlichmachung gilt § 9 der Zusatzstoff-Zulassungsverordnung entsprechend.
+(4) Bei Lebensmitteln, die nicht in Fertigpackungen zum Verzehr an Ort und Stelle abgegeben werden, genügen die Angaben nach § 17 Abs. 2 sowie den §§ 18 und 19 Abs. 1. Hinsichtlich der Art und Weise der Kenntlichmachung gilt § 5 der Lebensmittelzusatzstoff-Durchführungsverordnung entsprechend.
 
 # § 25a
 
@@ -809,7 +807,7 @@ i) § 24 Nr. 2
 
 vorgeschriebenen Warnhinweis gewerbsmäßig in den Verkehr bringt.
 
-(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer bei dem gewerbsmäßigen Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, Zusatzstoffe über die in § 6 Satz 3, § 7 Abs. 1 Satz 3 in Verbindung mit Anlage 2 oder § 9 Abs. 1 Satz 2, Abs. 2 Satz 2 oder Abs. 3 Satz 2 festgesetzten Höchstmengen hinaus verwendet.
+(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer bei dem gewerbsmäßigen Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, Zusatzstoffe über die in § 7 Abs. 1 Satz 3 in Verbindung mit Anlage 2 oder § 9 Abs. 1 Satz 2, Abs. 2 Satz 2 oder Abs. 3 Satz 2 festgesetzten Höchstmengen hinaus verwendet.
 
 (4) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer diätetische Lebensmittel gewerbsmäßig in den Verkehr bringt, bei denen ein Gehalt an Zusatzstoffen oder anderen Stoffen zu ernährungsphysiologischen oder diätetischen Zwecken entgegen § 17 Abs. 1 Satz 1 oder Abs. 2, § 18 Satz 1 oder § 25 nicht oder nicht in der vorgeschriebenen Weise kenntlich gemacht ist.
 

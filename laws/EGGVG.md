@@ -167,6 +167,22 @@ Die Übermittlung personenbezogener Daten ist ferner zulässig, wenn die Kenntni
 
 erforderlich ist.
 
+# § 17
+
+Die Übermittlung personenbezogener Daten ist ferner zulässig, wenn die Kenntnis der Daten aus der Sicht der übermittelnden Stelle
+
+1. zur Verfolgung von Straftaten oder Ordnungswidrigkeiten,
+
+2. für ein Verfahren der internationalen Rechtshilfe,
+
+3. zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer Gefahr für die öffentliche Sicherheit,
+
+4. zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer anderen Person oder
+
+5. zur Prüfung gewichtiger Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder Jugendlichen
+
+erforderlich ist.
+
 # § 18
 
 (1) Sind mit personenbezogenen Daten, die nach diesem Abschnitt übermittelt werden dürfen, weitere personenbezogene Daten der betroffenen Person oder eines Dritten so verbunden, daß eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an deren Geheimhaltung offensichtlich überwiegen. Eine Verwendung der Daten durch den Empfänger ist unzulässig; für Daten der betroffenen Person gilt § 19 Abs. 1 Satz 2 entsprechend.

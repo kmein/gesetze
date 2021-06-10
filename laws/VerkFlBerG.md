@@ -29,7 +29,7 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 1. dem öffentlichen Verkehr gewidmete oder kraft Gesetzes als öffentlich oder gewidmet geltende Straßen, Wege und Plätze einschließlich Zubehör und Nebenanlagen;
 
-2. die Bundeswasserstraßen nach § 1 Abs. 1 und 4 des Bundeswasserstraßengesetzes, Betten sonstiger oberirdischer Gewässer, Stauanlagen, Anlagen des Hochwasserschutzes und des Küstenschutzes sowie Hafenanlagen;
+2. die Bundeswasserstraßen nach § 1 Absatz 1 und 6 des Bundeswasserstraßengesetzes, Betten sonstiger oberirdischer Gewässer, Stauanlagen, Anlagen des Hochwasserschutzes und des Küstenschutzes sowie Hafenanlagen;
 
 3. Flächen mit Eisenbahninfrastruktur im Sinne des § 2 Abs. 3 des Allgemeinen Eisenbahngesetzes oder mit Bahnanlagen im Sinne des § 4 Abs. 1 der Eisenbahn-Bau- und Betriebsordnung, befestigte Haltestellen des Kraftomnibusverkehrs sowie die Betriebsanlagen nach § 1 Abs. 7 der Verordnung über den Bau und Betrieb der Straßenbahnen für Straßenbahnen und Obusse im Sinne von § 4 Abs. 1 bis 3 des Personenbeförderungsgesetzes;
 

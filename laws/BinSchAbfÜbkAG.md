@@ -449,6 +449,10 @@ b) der Kontrolle der Gebührenerhebung und der Kosten der Annahme sowie der Ents
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, ohne Anhörung des Bundesrates durch Einzelanordnung einen vorläufigen Einleitungsstandard im Sinne des Artikels 6.01 Absatz 4 Satz 2 der Anlage 2 zum Übereinkommen festzulegen.
 
+(+++ § 18 Abs. 1 Nr. 3: Zur Anwendung vgl. § 22 Abs. 3 Nr. 1  
+§ 18 Abs. 1 Nr. 2 Buchst. a: Zur Anwendung vgl. § 22 Abs. 3 Nr. 2  
+§ 18 Abs. 1 Nr. 2 Buchst. b: Zur Anwendung vgl. § 22 Abs. 3 Nr. 3 +++)
+
 # § 19 – Übertragung von Aufgaben
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung ohne Zustimmung des Bundesrates juristischen Personen des Privatrechts die Wahrnehmung einzelner in § 14 Absatz 1 oder 3 genannte Aufgaben übertragen oder diese Personen beauftragen, an der Wahrnehmung mitzuwirken.
