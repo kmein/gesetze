@@ -2790,7 +2790,11 @@ Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der Heilbehandl
 
 (1) Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
 
-1. in dem das berufliche Tätigkeitsverbot erlassen wurde oder in den Fällen des § 34 Absatz 1 bis 3 und des § 42, in dem die verbotene Tätigkeit ausgeübt worden ist,
+1. in den Fällen des § 60 Absatz 1
+
+a) von dem Land, in dem der Schaden verursacht worden ist oder,
+
+b) wenn die Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe aufgrund einer Rechtsverordnung nach § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe a, auch in Verbindung mit Nummer 2, des Fünften Buches Sozialgesetzbuch im Ausland vorgenommen wurde, von dem Land, in dem der Geschädigte zum Zeitpunkt der Antragstellung seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat oder, wenn im Zeitpunkt der Antragstellung ein Wohnsitz oder gewöhnlicher Aufenthalt im Geltungsbereich dieses Gesetzes nicht vorhanden ist, von dem Land, in dem der Geschädigte zuletzt seinen Wohnsitz oder gewöhnlichen Aufenthalt gehabt hat oder in dem die Behörde oder die Einrichtung ihren Sitz hat, für die der Geschädigte oder dessen Angehöriger tätig ist oder war,
 
 2. in dem das Absonderungsgebot angeordnet oder erlassen wurde oder in dem die Absonderung auf Grund einer nach § 36 Absatz 8 Satz 1 Nummer 1 erlassenen Rechtsverordnung vorgenommen wurde oder
 

@@ -273,6 +273,10 @@ Wahlkosten
 
 Erlass von Rechtsverordnungen
 
+§ 52a
+
+Unterstützungsunterschriften bei der Bundestagswahl 2021
+
 § 53
 
 Übergangsregelung
@@ -935,6 +939,10 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 3. um die Wahrnehmung des Vorschlagsrechts, des Vorstellungsrechts und der sonstigen Mitgliederrechte mit Ausnahme der Schlussabstimmung über einen Wahlvorschlag ausschließlich oder zusätzlich im Wege elektronischer Kommunikation ermöglichen zu können,
 
 4. um die Wahl von Wahlbewerbern und Vertretern für die Vertreterversammlungen im Wege der Briefwahl oder einer Kombination aus Urnenwahl und Briefwahl durchführen zu können.
+
+# § 52a – Unterstützungsunterschriften bei der Bundestagswahl 2021
+
+Bei der Wahl des 20. Deutschen Bundestages gelten § 20 Absatz 2 und 3 sowie § 27 Absatz 1 Satz 2 des Bundeswahlgesetzes und § 34 Absatz 4 Satz 1 und § 39 Absatz 3 Satz 1 der Bundeswahlordnung mit der Maßgabe, dass die Zahl der danach erforderlichen Unterstützungsunterschriften jeweils auf ein Viertel reduziert ist.
 
 # § 53 – Übergangsregelung
 

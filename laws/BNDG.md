@@ -123,8 +123,6 @@ und im Übrigen die Voraussetzung des § 24 vorliegen.
 
 (10) Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe des Absatzes 4 Satz 1 eingeschränkt.
 
-§ 4 Abs. 3 Nr. 1 Buchst. c Kursivdruck: Fehlschreibung des Wortes "politscher" in "politischer" korrigiert
-
 # § 5 – Besondere Formen der Datenerhebung
 
 Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von Informationen einschließlich personenbezogener Daten die Mittel gemäß § 8 Abs. 2 des Bundesverfassungsschutzgesetzes anwenden, wenn Tatsachen die Annahme rechtfertigen, daß dies zur Erfüllung seiner Aufgaben erforderlich ist. Die §§ 9, 9a und 9b des Bundesverfassungsschutzgesetzes sind entsprechend anzuwenden.

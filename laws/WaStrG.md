@@ -5,21 +5,23 @@
 
 (1) Bundeswasserstraßen nach diesem Gesetz sind
 
-1. die Binnenwasserstraßen des Bundes, die dem allgemeinen Verkehr dienen; als solche gelten die in der Anlage 1 aufgeführten Wasserstraßen; dazu gehören auch alle Gewässerteile, die
+1. die Binnenwasserstraßen des Bundes, die dem Verkehr mit Güter- und Fahrgastschiffen oder der Sport- und Freizeitschifffahrt mit Wasserfahrzeugen dienen; als solche gelten die in der Anlage 1 aufgeführten Wasserstraßen, dazu gehören auch alle Gewässerteile,
 
-a) mit der Bundeswasserstraße in ihrem Erscheinungsbild als natürliche Einheit anzusehen sind,
+a) die mit der Bundeswasserstraße in ihrem Erscheinungsbild als natürliche Einheit anzusehen sind,
 
-b) mit der Bundeswasserstraße durch einen Wasserzu- oder -abfluss in Verbindung stehen,
+b) die mit der Bundeswasserstraße durch einen Wasserzufluss oder Wasserabfluss in Verbindung stehen und
 
-c) einen Schiffsverkehr mit der Bundeswasserstraße zulassen und
-
-d) im Eigentum des Bundes stehen,
+c) die im Eigentum des Bundes stehen,
 
 2. die Seewasserstraßen.
 
-(2) Seewasserstraßen sind die Flächen zwischen der Küstenlinie bei mittlerem Hochwasser oder der seewärtigen Begrenzung der Binnenwasserstraßen und der seewärtigen Begrenzung des Küstenmeeres. Zu den Seewasserstraßen gehören nicht die Hafeneinfahrten, die von Leitdämmen oder Molen ein- oder beidseitig begrenzt sind, die Außentiefs, die Küstenschutz-, Entwässerungs-, Landgewinnungsbauwerke, Badeanlagen und der trockenfallende Badestrand.
+(2) Unbeschadet der Regelung in Absatz 6 wird die seitliche Abgrenzung der Binnenwasserstraßen des Bundes durch die Uferlinie gebildet. Die Uferlinie ist die Linie des Mittelwasserstandes, bei staugeregelten Bundeswasserstraßen die Linie des Stauziels oder bei tidebeeinflussten Binnenwasserstraßen die Linie des mittleren Tidehochwasserstandes.
 
-(3) Soweit die Erfüllung der Verwaltungsaufgaben des Bundes nicht beeinträchtigt wird, kann das jeweilige Land das Eigentum des Bundes an den Seewasserstraßen und an den angrenzenden Mündungstrichtern der Binnenwasserstraßen unentgeltlich nutzen,
+(3) Ufer einer Binnenwasserstraße des Bundes ist der Bereich zwischen der Uferlinie gemäß Absatz 2 und der Linie des mittleren Hochwasserstandes. Davon ausgenommen sind die tidebeeinflussten Binnenwasserstraßen, in denen das Ufer zwischen der Linie des mittleren Tideniedrigwasserstandes und der Linie des mittleren Tidehochwasserstandes verläuft. Befindet sich unterhalb der Linie des mittleren Hochwasserstandes oder des Tidehochwasserstandes eine Böschungskante als natürliche landseitige Abgrenzung, tritt diese an die Stelle der Linie des mittleren Hochwasserstandes.
+
+(4) Seewasserstraßen sind die Flächen zwischen der Küstenlinie bei mittlerem Hochwasser oder der seewärtigen Begrenzung der Binnenwasserstraßen und der seewärtigen Begrenzung des Küstenmeeres. Zu den Seewasserstraßen gehören nicht die Hafeneinfahrten, die von Leitdämmen oder Molen ein- oder beidseitig begrenzt sind, die Außentiefs, die Küstenschutz-, Entwässerungs-, Landgewinnungsbauwerke, Badeanlagen und der trockenfallende Badestrand.
+
+(5) Soweit die Erfüllung der Verwaltungsaufgaben des Bundes nicht beeinträchtigt wird, kann das jeweilige Land das Eigentum des Bundes an den Seewasserstraßen und an den angrenzenden Mündungstrichtern der Binnenwasserstraßen unentgeltlich nutzen,
 
 1. wenn die Nutzung öffentlichen Interessen dient, insbesondere zur Landgewinnung, Boden- und Wasserentnahme, Errichtung von Hafenanlagen, zu Maßnahmen für den Küstenschutz und für den Wasserabfluss sowie für die Durchführung des Badebetriebes,
 
@@ -27,7 +29,7 @@ d) im Eigentum des Bundes stehen,
 
 Das Land wird Eigentümer der nach Nummer 1 gewonnenen Land- und Hafenflächen und errichteten Bauwerke. Es kann die Nutzungsbefugnisse nach Nummer 1 und 2 im Einzelfall auf einen Dritten übertragen. Rechte Dritter bleiben unberührt.
 
-(4) Zu den Bundeswasserstraßen gehören auch
+(6) Zu den Bundeswasserstraßen gehören auch
 
 1. die bundeseigenen Schifffahrtsanlagen, besonders Schleusen, Schiffshebewerke, Wehre, Schutz-, Liege- und Bauhäfen sowie bundeseigene Talsperren, Speicherbecken und andere Speisungs- und Entlastungsanlagen,
 
@@ -35,7 +37,7 @@ Das Land wird Eigentümer der nach Nummer 1 gewonnenen Land- und Hafenflächen u
 
 3. bundeseigene Einrichtungen oder Gewässerteile, die der Erhaltung oder Wiederherstellung der Durchgängigkeit bei Stauanlagen, die von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes errichtet oder betrieben werden, dienen.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt, Bezeichnungen für sie festgesetzt oder geändert werden.
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt, Bezeichnungen für sie festgesetzt oder geändert werden.
 
 (+++ § 1 Abs. 4: Zur Anwendung vgl § 4 Abs. 2 BBPlG +++)
 
@@ -77,7 +79,7 @@ Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch geregelt, beschr
 
 # § 8 – Umfang der Unterhaltung
 
-(1) Die Unterhaltung der Binnenwasserstraßen (§ 1 Abs. 1 Nr. 1) umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den Wasserabfluss und die Erhaltung der Schiffbarkeit. Zur Unterhaltung gehört auch die Erhaltung von Einrichtungen und Gewässerteilen im Sinne des § 1 Absatz 4 Nummer 3. Bei der Unterhaltung ist den Belangen des Naturhaushalts Rechnung zu tragen; Bild und Erholungswert der Gewässerlandschaft sind zu berücksichtigen. Die natürlichen Lebensgrundlagen sind zu bewahren. Unterhaltungsmaßnahmen müssen die nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden Bewirtschaftungsziele berücksichtigen und werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden.
+(1) Die Unterhaltung der Binnenwasserstraßen (§ 1 Abs. 1 Nr. 1) umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den Wasserabfluss und die Erhaltung der Schiffbarkeit. Zur Unterhaltung gehört auch die Erhaltung von Einrichtungen und Gewässerteilen im Sinne des § 1 Absatz 6 Nummer 3. Bei der Unterhaltung ist den Belangen des Naturhaushalts Rechnung zu tragen; Bild und Erholungswert der Gewässerlandschaft sind zu berücksichtigen. Die natürlichen Lebensgrundlagen sind zu bewahren. Unterhaltungsmaßnahmen müssen die nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden Bewirtschaftungsziele beachten und werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden.
 
 (2) Wenn es die Erhaltung des ordnungsgemäßen Zustands nach Absatz 1 erfordert, gehören zur Unterhaltung besonders die Räumung, die Freihaltung, der Schutz und die Pflege des Gewässerbettes mit seinen Ufern. Dabei ist auf die Belange der Fischerei Rücksicht zu nehmen.
 
@@ -111,9 +113,17 @@ Anlagen und Einrichtungen in, über oder unter einer Bundeswasserstraße oder an
 
 # § 12 – Allgemeine Vorschriften über Ausbau und Neubau
 
-(1) Der Ausbau und der Neubau der Bundeswasserstraßen als Verkehrswege sind Hoheitsaufgaben des Bundes.
+(1) Der Ausbau und der Neubau der Bundeswasserstraßen sind Hoheitsaufgaben des Bundes.
 
-(2) Ausbau sind die Maßnahmen zur wesentlichen Umgestaltung einer Bundeswasserstraße, einer Kreuzung mit einer Bundeswasserstraße, eines oder beider Ufer, die über die Unterhaltung hinausgehen und die Bundeswasserstraße als Verkehrsweg betreffen. Als Ausbau gilt auch die Herstellung oder wesentliche Umgestaltung von Einrichtungen oder Gewässerteilen im Sinne des § 1 Absatz 4 Nummer 3. Für die Beseitigung einer Bundeswasserstraße gelten die Vorschriften über den Ausbau entsprechend.
+(2) Ausbau sind die über die Unterhaltung hinausgehenden Maßnahmen
+
+1. zur wesentlichen Umgestaltung einer Bundeswasserstraße, einer Kreuzung mit einer Bundeswasserstraße, eines oder beider Ufer, die die Bundeswasserstraße als Verkehrsweg betreffen,
+
+2. zur Herstellung oder zur wesentlichen Umgestaltung von Einrichtungen oder von Gewässerteilen im Sinne des § 1 Absatz 6 Nummer 3,
+
+3. zur wesentlichen Umgestaltung einer Binnenwasserstraße des Bundes (§ 1 Absatz 1 Nummer 1) oder ihrer Ufer (§ 1 Absatz 3) im Sinne des § 67 Absatz 2 Satz 1 und 2 des Wasserhaushaltsgesetzes, soweit die Maßnahmen erforderlich sind, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des Wasserhaushaltsgesetzes zu erreichen; hierzu gehören nicht Maßnahmen, die überwiegend zum Zwecke des Hochwasserschutzes oder der Verbesserung der physikalischen oder chemischen Beschaffenheit des Wassers durchgeführt werden.
+
+Zu den Maßnahmen nach Satz 1 Nummer 3 gehören auch solche Maßnahmen, bei denen Gewässerteile nach § 1 Absatz 1 Nummer 1 letzter Halbsatz entstehen, die einen räumlichen Zusammenhang mit der Binnenwasserstraße aufweisen, auch wenn sie sich vor der Ausbaumaßnahme außerhalb des Ufers der Binnenwasserstraße befanden. Ausbaumaßnahmen nach Satz 1 Nummer 3 sind durchzuführen, soweit es die dort genannten Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des Wasserhaushaltsgesetzes erfordern. Für die Beseitigung einer Bundeswasserstraße gelten die Vorschriften über den Ausbau entsprechend.
 
 (3) Gesetzliche oder vertragliche Bestimmungen, die zum Ausbau oder Neubau Beitragsleistungen Dritter vorsehen oder nach denen die Leistungen Dritten auferlegt werden können, bleiben unberührt.
 
@@ -123,7 +133,7 @@ Anlagen und Einrichtungen in, über oder unter einer Bundeswasserstraße oder an
 
 (6) Maßnahmen, die dem Ausbau oder dem Neubau einer Bundeswasserstraße dienen, bedürfen keiner Erlaubnis, Bewilligung oder Genehmigung. Die in diesem Gesetz und anderen bundesrechtlichen Vorschriften geregelten Beteiligungspflichten bleiben hiervon unberührt.
 
-(7) Beim Ausbau oder dem Neubau einer Bundeswasserstraße sind in Linienführung und Bauweise Bild und Erholungseignung der Gewässerlandschaft sowie die Erhaltung und Verbesserung des Selbstreinigungsvermögens des Gewässers zu beachten. Die natürlichen Lebensgrundlagen sind zu bewahren. Ausbaumaßnahmen müssen die nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden Bewirtschaftungsziele berücksichtigen. Ausbau- oder Neubaumaßnahmen werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden.
+(7) Beim Ausbau einer Bundeswasserstraße nach Absatz 2 Satz 1 Nummer 1 und 2 oder beim Neubau einer Bundeswasserstraße sind die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des Wasserhaushaltsgesetzes und in Linienführung und Bauweise Bild und Erholungseignung der Gewässerlandschaft sowie die Erhaltung und Verbesserung des Selbstreinigungsvermögens des Gewässers zu beachten. Die natürlichen Lebensgrundlagen sind zu bewahren. Bei Ausbaumaßnahmen nach Absatz 2 Satz 1 Nummer 3 sind die Anforderungen nach § 67 Absatz 1 des Wasserhaushaltsgesetzes zu beachten. Ausbau- oder Neubaumaßnahmen werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden werden.
 
 # § 13 – Planungen
 
@@ -184,6 +194,8 @@ b) eine Gewässerbenutzung, die auf einer Erlaubnis oder anderen Befugnis beruht
 a) eine Beeinträchtigung des Wohls der Allgemeinheit zu erwarten ist, die nicht durch Auflagen verhütet oder ausgeglichen werden kann, oder
 
 b) nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 1 bezeichneten Art zu erwarten sind, die nicht durch Auflagen verhütet oder ausgeglichen werden können, der Berechtigte fristgemäß Einwendungen erhoben hat und der Ausbau oder Neubau nicht dem Wohl der Allgemeinheit dient.
+
+Die Planfeststellung für einen Ausbau nach § 12 Absatz 2 Satz 1 Nummer 3 darf im Übrigen nur erfolgen, wenn die Voraussetzungen des § 68 Absatz 3 des Wasserhaushaltsgesetzes vorliegen.
 
 (2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 14a Nummer 1 gilt entsprechend. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3 Anwendung.
 
@@ -413,6 +425,8 @@ wenn durch die beabsichtigte Maßnahme eine Beeinträchtigung des für die Schif
 
 4. für Maßnahmen im Rahmen des Gemeingebrauchs.
 
+Eine Anzeige oder eine strom- und schifffahrtspolizeiliche Genehmigung ist ebenfalls nicht erforderlich für Benutzungen und für Anlagen an den Bundeswasserstraßen, welche am 9. Juni 2021 erstmals in Anlage 1 aufgenommen wurden, soweit die Benutzung oder Anlage vor dem 9. Juni 2021 in zulässiger Weise ausgeübt wurde oder rechtmäßig vorhanden war.
+
 (4) Die Genehmigung kann unter Bedingungen und Auflagen erteilt werden, die eine Beeinträchtigung des für die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße oder der Sicherheit und Leichtigkeit des Verkehrs verhüten oder ausgleichen.
 
 (5) Die Genehmigung darf nur versagt werden, wenn durch die beabsichtigte Maßnahme eine Beeinträchtigung des für die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße oder der Sicherheit und Leichtigkeit des Verkehrs zu erwarten ist, die durch Bedingungen und Auflagen weder verhütet noch ausgeglichen werden kann. Sind diese Bedingungen und Auflagen nicht möglich, darf die Genehmigung gleichwohl aus Gründen des Wohls der Allgemeinheit erteilt werden.
@@ -591,7 +605,7 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht vorzulegen.
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen zu erlassen über
 
-1. die Regelung des Betriebs von Anlagen nach § 1 Abs. 4 Nr. 1,
+1. die Regelung des Betriebs von Anlagen nach § 1 Absatz 6 Nummer 1,
 
 2. die Zulassung des Befahrens von Talsperren und Speicherbecken mit Wasserfahrzeugen (§ 5),
 
@@ -711,6 +725,10 @@ den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und 
 
 (6) § 14c gilt auch für Planfeststellungsbeschlüsse und Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind, soweit der Plan noch nicht außer Kraft getreten ist.
 
+(7) Wurde für eine Maßnahme nach § 12 Absatz 2 Satz 1 Nummer 3 vor dem 9. Juni 2021 ein Verfahren zur Unterrichtung über den Untersuchungsrahmen nach § 15 des Gesetzes über die Umweltverträglichkeitsprüfung oder ein Planfeststellungs- oder Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes eingeleitet, so führt die zuständige Landesbehörde dieses Verfahren nach dem bis zum 9. Juni 2021 geltenden Recht fort.
+
+(8) Sind dem bisherigen Träger einer Maßnahme nach § 12 Absatz 2 Satz 1 Nummer 3, für die vor dem 9. Juni 2021 noch kein Verfahren zur Unterrichtung über den Untersuchungsrahmen nach § 15 des Gesetzes über die Umweltverträglichkeitsprüfung oder kein Planfeststellungs- oder Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes eingeleitet worden ist, Kosten entstanden, so kann er hierfür keine Erstattung vom Bund verlangen.
+
 # § 57
 
 (weggefallen)
@@ -723,20 +741,19 @@ den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und 
 
 (Inkrafttreten)
 
-# Anlage 1 – (zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2)Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+# Anlage 1 – ((zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
-Fundstelle des Originaltextes: BGBl. I 2007, 977 - 984;  
-bzgl. der einzelnen Änderungen vgl. Fußnote
+Fundstelle: (BGBl. I 2021, 1298 - 1305)
 
   
 
 Lfd. Nr.
 
-Bezeichnung der Wasserstraßen
+Bezeichnung der Wasserstraße
 
 Endpunkte der Wasserstraße
 
-1
+ 1
 
 Aller
 
@@ -744,9 +761,7 @@ Mühlenwehr in Celle (km 0,25)
 
 Weser
 
- 
-
-2
+ 2
 
 Altmühl
 
@@ -754,29 +769,49 @@ Altmühl
 
 Main-Donau-Kanal
 
- 
+ 3
 
-3
+Berlin-Spandauer Schifffahrtskanal  
+mit  
+Westhafen-Verbindungskanal,  
+Westhafenkanal nebst  
+Charlottenburger Verbindungskanal  
+(zur Spree)
 
-Berlin-Spandauer Schifffahrtskanal mit Westhafen-Verbindungskanal, Westhafenkanal nebst Charlottenburger Verbindungskanal (zur Spree)
+Havel-Oder-Wasserstraße \[Spandauer Havel\]
 
-Havel-Oder-Wasserstraße (Spandauer Havel)
+Spree-Oder-Wasserstraße,  
+Humboldthafen
 
-Spree-Oder-Wasserstraße, Humboldthafen
+ 4
 
- 
+Dahme-Wasserstraße  
+\[Dolgensee, Krüpelsee, Krimnicksee,  
+Sellenzugsee, Zeuthener See\]  
+mit  
+Teupitzer Gewässer \[Teupitzer See, Schweriner See, Zemminsee,  
+Schulzensee, Gr. und Kl. Moddersee,  
+Klein Köriser See, Hölzerner See,  
+Schmöldesee, Huschsee\],  
+Storkower Gewässer \[Scharmützelsee, Storkower See, Storkower Kanal,  
+Wolziger See, Langer See\],  
+Zernsdorfer Lanke (von Kablow-Ziegelei  
+(km 3,07) bis zum Krüpelsee),  
+Notte (vom Hafen Königs Wusterhausen  
+(km 0,99) bis zur Dahme-Wasserstraße  
+(Niederlehme)),  
+Möllenzugsee,  
+Wernsdorfer Seenkette  
+\[Wernsdorfer See nördlich (km 8,20)  
+und südlich Oder-Spree-Kanal,  
+Krossinsee, Gr. Zug\]
 
-4
+oberhalb der Einmündung der Teupitzer Gewässer (km 26,04)
 
-Dahme-Wasserstraße (Dolgensee, Krüpelsee, Krimnicksee, Sellenzugsee, Zeuthener See) mit Storkower Gewässer (Scharmützelsee, Storkower See, Storkower Kanal, Wolziger See, Langer See), Möllenzugsee, Wernsdorfer Seenkette (Wernsdorfer See südlich Oder-Spree-Kanal, Krossinsee, Gr. Zug)
+Spree-Oder-Wasserstraße,  
+Schmöckwitz
 
-Prieros (km 25,00)
-
-Spree-Oder-Wasserstraße, Schmöckwitz
-
- 
-
-5
+ 5
 
 Datteln-Hamm-Kanal
 
@@ -784,67 +819,104 @@ Dortmund-Ems-Kanal, Datteln
 
 Schmehausen (km 47,20)
 
- 
+ 6
 
-6
+Donau  
+\[Regen vom Schleusenkanal Regensburg  
+bis zum Donau-Nordarm\]  
+mit  
+Donau-Südarm in Regensburg
 
-Donau (Regen vom Schleusenkanal Regensburg bis zum Donau-Nordarm) mit Donau-Südarm in Regensburg
+Kelheim (km 2 414,72)
 
-Kelheim (km 2.414,72)
+deutsch-österreichische  
+Grenze bei Jochenstein
 
-deutsch-österreichische Grenze bei Jochenstein
+ 7
 
- 
+Dortmund-Ems-Kanal  
+\[Ems von Gleesen bis Hanekenfähr,  
+Hase vom Dortmund-Ems-Kanal  
+bis zur Ems, Ems von Meppen  
+bis Papenburg\]  
+mit  
+Ersten Fahrten  
+mit  
+Altkanal Ems-Hase-Kanal Hanekenfähr,  
+Altkanal Ems-Hase-Kanal Meppen  
+(von 164,75 bis zur Hase)
 
-7
+Hafen Dortmund (km 1,44)  
+und  
+Einmündung des  
+Rhein-Herne-Kanals bei  
+Henrichenburg (km 15,45)
 
-Dortmund-Ems-Kanal (Ems von Gleesen bis Hanekenfähr, Hase vom Dortmund-Ems-Kanal bis zur Ems, Ems von Meppen bis Papenburg) mit Ersten Fahrten
+Ems,  
+Verbindungslinie bei  
+Papenburg zwischen dem  
+Diemer Schöpfwerk und dem  
+Deichdurchlass bei Halte
 
-Hafen Dortmund (km 1,44) und Einmündung des Rhein-Herne-Kanals bei Henrichenburg (km 15,45)
-
-Ems, Verbindungslinie bei Papenburg zwischen dem Diemer Schöpfwerk und dem Deichdurchlass bei Halte
-
- 
-
-8
+ 8
 
 Eider
 
-oberhalb der Einmündung des Gieselaukanals (km 22,64)
+Rendsburg (km 0,12)
 
-Nordsee, Verbindungslinie zwischen der Mitte der Burg (Tränke) und dem Kirchturm von Vollerwiek
+Nordsee,  
+Verbindungslinie zwischen  
+der Mitte der Burg (Tränke) und dem Kirchturm von  
+Vollerwiek
 
- 
+ 9
 
-9
-
-Elbe (Norderelbe) mit Süderelbe und Köhlbrand, Bützflether Süderelbe (von km 0,69 bis zur Elbe), Ruthenstrom (von km 3,75 bis zur Elbe), Wischhafener Süderelbe (von km 8,03 bis zur Elbe)
+Elbe  
+\[Norderelbe\]  
+mit  
+Süderelbe und Köhlbrand,  
+Bützflether Süderelbe  
+(von km 0,69 bis zur Elbe),  
+Ruthenstrom (von km 3,75 bis zur Elbe),  
+Wischhafener Süderelbe  
+(von km 8,03 bis zur Elbe)
 
 deutsch-tschechische Grenze bei Schöna
 
-Nordsee, Verbindungslinie zwischen der Kugelbake bei Döse und der westlichen Kante des Deichs des Friedrichskoogs (Dieksand)
-
- 
+Nordsee,  
+Verbindungslinie zwischen der Kugelbake bei Döse und der westlichen Kante des Deichs des Friedrichskoogs  
+(Dieksand)
 
 10
 
-Elbe-Havel-Kanal (Gr. Wendsee) mit Niegripper Verbindungskanal (zur Elbe), Pareyer Verbindungskanal (zur Elbe) nebst Baggerelbe (von km 0,31 bis zum Pareyer Verbindungskanal), Roßdorfer Altkanal (von der westlichen Abzweigung bis km 0,90), Woltersdorfer Altkanal
+Elbe-Havel-Kanal  
+\[Gr. Wendsee\]  
+mit  
+Niegripper Verbindungskanal (zur Elbe),  
+Niegripper Altkanal  
+(vom Elbe-Havel-Kanal bis km 0,45),  
+Pareyer Verbindungskanal  
+nebst Baggerelbe (von km 2,02 bis zum Pareyer Verbindungskanal),  
+Bergzower Altkanal  
+(Unterhaupt der ehem. Schleuse  
+(km 28,62) bis Elbe-Havel-Kanal),  
+Altenplathower Altkanal,  
+Roßdorfer Altkanal, Woltersdorfer Altkanal,  
+Wasserstraße Kl. Wendsee-Wusterwitzer See
 
-Mittellandkanal, Ende des unteren Schleusenvorhafens Hohenwarthe
+Mittellandkanal,  
+Ende des unteren Schleusenvorhafens Hohenwarthe
 
-Untere Havel-Wasserstraße (Plauer See)
-
- 
+Untere Havel-Wasserstraße \[Plauer See\]
 
 11
 
 Elbe-Lübeck-Kanal
 
-Trave, 71 m nordöstlich der Achse der Geniner Straßenbrücke
+Trave,  
+71 m nordöstlich der Achse der Geniner Straßenbrücke
 
 Elbe
-
- 
 
 12
 
@@ -854,19 +926,36 @@ Mittellandkanal
 
 Elbe
 
- 
-
 13
 
-Ems (ohne Abschnitt des Dortmund-Ems-Kanals von Meppen bis Papenburg)
+Elisabethfehnkanal
 
-Hanekenfähr (km 84,41)
+Küstenkanal bei Kampe
 
-Nordsee, Verbindungslinie der nordöstlichen Deichecke bei Het Oude Schip (geografische Koordinaten im Bezugssystem WGS84: 53° 25' 59" N/006° 52' 01" E) und der vorspringenden Deichecke westlich Pilsum (geografische Koordinaten im Bezugssystem WGS84: 53° 29' 02" N/007° 01' 49" E)
-
- 
+Sagter Ems
 
 14
+
+Ems  
+(ohne Abschnitt des  
+Dortmund-Ems-Kanals von  
+Gleesen bis Hanekenfähr  
+und von Meppen bis Papenburg)
+
+oberhalb der Eisenbahnbrücke südlich Rheine (km 44,77)
+
+Nordsee,  
+Verbindungslinie der  
+nordöstlichen Deichecke bei  
+Het Oude Schip  
+(geografische Koordinaten  
+im Bezugssystem WGS84:  
+53° 25' 59" N/006° 52' 01" E) und der vorspringenden  
+Deichecke westlich Pilsum (geografische Koordinaten  
+im Bezugssystem WGS84:  
+53° 29' 02" N/007° 01' 49" E)
+
+15
 
 Ems-Seitenkanal
 
@@ -874,39 +963,41 @@ Ems, Oldersum
 
 Unterhaupt der Borßumer Schleuse in Emden
 
- 
+16
 
-15
+Ems-Jade-Kanal  
+nebst Auslasskanal Mariensiel
+
+Ostkante der Autobahnbrücke bei Sande (km 61,96)
+
+Unterwasser der Schleuse Mariensiel (km 67,40)
+
+17
 
 Este
 
 Unterwasser der Schleuse Buxtehude (km 0,25)
 
-Elbe (Mühlenberger Loch)
+Elbe \[Mühlenberger Loch\]
 
- 
-
-16
+18
 
 Freiburger Hafenpriel
 
-Ostkante der Deichschleuse in Freiburg an der Elbe
+Ostkante der Deichschleuse  
+in Freiburg an der Elbe
 
 Elbe
 
- 
-
-17
+19
 
 Fulda
 
-Kiesgrube bei Kassel (km 76,78)
+Mecklar (km 0,00)
 
 Weser
 
- 
-
-18
+20
 
 Gieselaukanal
 
@@ -914,133 +1005,160 @@ Nord-Ostsee-Kanal
 
 Eider
 
- 
-
-19
+21
 
 Hase
 
-unterhalb der Einmündung des Ems-Hase-Kanals (km 165,07)
+oberhalb der Einmündung des Ems-Hase-Kanals in Meppen  
+(km 165,02)
 
 Dortmund-Ems-Kanal
 
- 
-
-20
+22
 
 Havelkanal
 
-Havel-Oder-Wasserstraße, Nieder Neuendorf
+Havel-Oder-Wasserstraße,  
+Nieder Neuendorf
 
 Untere Havel-Wasserstraße, Paretz
 
- 
+23
 
-21
-
-Havel-Oder-Wasserstraße (Spandauer Havel (Spandauer See, Nieder Neuendorfer See), Oder-Havel-Kanal (Lehnitzsee), Oderberger Gewässer (Lieper See, Oderberger See, Alte Oder), Hohensaaten-Friedrichsthaler Wasserstraße, Westoder von der Einmündung der Hohensaaten-Friedrichsthaler Wasserstraße) mit Tegeler See, Veltener Stichkanal, Oranienburger Havel (von km 2,81 bis zur Havel-Oder-Wasserstraße), Malzer Kanal (bei Malz) (von der unteren Trenndammspitze der Schleuse Malz bis zur Havel-Oder-Wasserstraße), Werbelliner Gewässer (Werbellinsee, Werbellinkanal nördlich Oder-Havel-Kanal, Pechteichsee), Wriezener Alte Oder (von km 2,53 bis zur Havel-Oder-Wasserstraße), Verbindungskanal Hohensaaten Ost (zur Oder), Verbindungskanal Schwedter Querfahrt (zur Oder), Westoder (von der Oder bis zur Hohensaaten-Friedrichsthaler Wasserstraße)
+Havel-Oder-Wasserstraße  
+\[Spandauer Havel (Spandauer See,  
+Nieder Neuendorfer See),  
+Oder-Havel-Kanal (Lehnitzsee),  
+Oderberger Gewässer (Lieper See,  
+Oderberger See, Alte Oder),  
+Hohensaaten-Friedrichsthaler  
+Wasserstraße, Westoder von der  
+Einmündung der Hohensaaten-  
+Friedrichsthaler Wasserstraße\]  
+mit  
+Tegeler See, Veltener Stichkanal,  
+Oranienburger Kanal, Oranienburger Havel  
+nebst Gr. Wehrarm Sachsenhausen,  
+Friedrichsthaler Havel, Malzer Kanal  
+(bei Malz), Schnelle Havel,  
+Finowkanal nebst Mäckerseekanal  
+\[Mäckersee\],  
+Werbelliner Gewässer \[Werbellinsee,  
+Werbellinkanal nördlich und südlich  
+Oder-Havel-Kanal, Rosenbeckersee,  
+Pechteichsee\],  
+Wriezener Alte Oder (von km 2,53  
+bis zur Havel-Oder-Wasserstraße),  
+Verbindungskanal Hohensaaten Ost  
+(zur Oder), Verbindungskanal Schwedter Querfahrt (zur Oder), Westoder  
+(von der Oder bis zur Hohensaaten-  
+Friedrichsthaler Wasserstraße)
 
 Spreemündung, Spandau
 
-deutsch-polnische Grenze bei Mescherin
-
- 
-
-22
-
-Hunte
-
-140 m unterhalb der Amalienbrücke in Oldenburg
-
-Weser
-
- 
-
-23
-
-Ilmenau
-
-Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg
-
-Elbe
-
- 
+deutsch-polnische Grenze  
+bei Mescherin
 
 24
 
-Krückau
+Hunte
 
-Südwestkante der im Verlauf der Straße Wedenkamp liegenden Straßenbrücke in Elmshorn
-
-Elbe (Pagensander Nebenelbe)
-
- 
-
-25
-
-Küstenkanal (Hunte von 140 m unterhalb der Amalienbrücke in Oldenburg bis zur Einmündung des Landesgewässers Hunte) mit Stichkanal Dörpen (bis km 64,47)
-
-140 m unterhalb der Amalienbrücke in Oldenburg
-
-Dortmund-Ems-Kanal (Ems)
-
- 
-
-26
-
-Lahn
-
-Wetzlar (km 12,22)
-
-Rhein
-
- 
-
-27
-
-Leda und Sagter Ems (vom Elisabethfehnkanal bis zum Zusammenfluss mit dem Dreyschloot)
-
-Einmündung des Elisabethfehnkanals in die Sagter Ems
-
-Ems
-
- 
-
-28
-
-Leine und Ihme (vom Schnellen Graben bis zur Leine)
-
-Einmündung des Schnellen Grabens in die Ihme
-
-Brückenachse des Wehres Herrenhausen
-
-oberhalb der Einmündung des Schleusenkanals Hademstorf der Aller (km 110,00)
-
-Aller
-
- 
-
-29
-
-Lesum
-
-Zusammenfluss von Hamme und Wümme (km 0,00)
+140 m unterhalb der  
+Amalienbrücke in Oldenburg
 
 Weser
 
- 
+25
 
-30
+Ilmenau
 
-Lühe
-
-Nordkante der Marschdammbrücke in Horneburg (km 0,26)
+Nordwestkante der  
+Brausebrücke an der  
+Abtsmühle in Lüneburg
 
 Elbe
 
- 
+26
+
+Krückau
+
+Südwestkante der im Verlauf  
+der Straße Wedenkamp  
+liegenden Straßenbrücke in Elmshorn
+
+Elbe  
+\[Pagensander Nebenelbe\]
+
+27
+
+Küstenkanal  
+\[Hunte von 140 m unterhalb der  
+Amalienbrücke in Oldenburg  
+bis zur Einmündung des  
+Landesgewässers Hunte\]  
+mit  
+Stichkanal Dörpen (bis km 64,47)
+
+140 m unterhalb der  
+Amalienbrücke in Oldenburg
+
+Dortmund-Ems-Kanal  
+\[Ems\]
+
+28
+
+Lahn
+
+Unterwasser des ehem. Wehres Badenburg nördlich Gießens  
+(km - 11,08)
+
+Rhein
+
+29
+
+Leda  
+und Sagter Ems  
+(vom Elisabethfehnkanal bis zum  
+Zusammenfluss mit dem Dreyschloot)
+
+Einmündung des  
+Elisabethfehnkanals  
+in die Sagter Ems
+
+Ems
+
+30
+
+Leine, Ihme und Schneller Graben  
+\[Schneller Graben von km 16,76  
+bis zur Einmündung in die Ihme (km 17,31),  
+Ihme km 17,31 bis zur Einmündung  
+in die Leine km 20,89, Leine bis zur Aller\]
+
+Unterwasser des Wehres im Schnellen Graben in Hannover (km 16,76)
+
+Aller
 
 31
+
+Lesum
+
+Zusammenfluss von Hamme  
+und Wümme (km 0,00)
+
+Weser
+
+32
+
+Lühe
+
+Nordkante der  
+Marschdammbrücke  
+in Horneburg (km 0,26)
+
+Elbe
+
+33
 
 Main
 
@@ -1048,129 +1166,194 @@ oberhalb der Eisenbahnbrücke bei Hallstadt (km 387,69)
 
 Rhein
 
- 
+34
 
-32
-
-Main-Donau-Kanal (Regnitz vom Main bis unterhalb der Schleuse Bamberg und von oberhalb des Hochwassersperrtores Neuses bis unterhalb der Schleuse Hausen, Altmühl von unterhalb der Schleuse Dietfurt bis zur Donau)
+Main-Donau-Kanal  
+\[Regnitz vom Main bis unterhalb  
+der Schleuse Bamberg und von oberhalb  
+des Hochwassersperrtores Neuses  
+bis unterhalb der Schleuse Hausen,  
+Altmühl von unterhalb der  
+Schleuse Dietfurt bis zur Donau\]
 
 Main
 
 Donau
 
- 
+35
 
-33
-
-Mittellandkanal mit Ersten Fahrten, Stichkanal Ibbenbüren (bis km 1,11), Stichkanal Osnabrück (bis km 13,00), Verbindungskanal Nord zur Weser, Verbindungskanal Süd zur Weser, Stichkanal Hannover-Linden (bis km 10,75) nebst Verbindungskanal zur Leine, Stichkanal Misburg (bis km 0,92), Stichkanal Hildesheim (bis km 14,40), Stichkanal Salzgitter (bis km 17,96), Rothenseer Verbindungskanal (zur Elbe)
+Mittellandkanal  
+mit  
+Ersten Fahrten,  
+Stichkanal Ibbenbüren (bis km 1,11),  
+Stichkanal Osnabrück (bis km 13,00),  
+Verbindungskanal Nord zur Weser,  
+Verbindungskanal Süd zur Weser,  
+Stichkanal Hannover-Linden  
+(bis km 10,75)  
+nebst Verbindungskanal zur Leine,  
+Stichkanal Misburg (bis km 0,92),  
+Stichkanal Hildesheim (bis km 14,40), Stichkanal Salzgitter (bis km 17,96),  
+Rothenseer Verbindungskanal (zur Elbe)
 
 Dortmund-Ems-Kanal
 
-Elbe-Havel-Kanal, Ende des unteren Schleusenvorhafens Hohenwarthe
+Elbe-Havel-Kanal,  
+Ende des unteren Schleusenvorhafens Hohenwarthe
 
- 
-
-34
+36
 
 Mosel
 
-deutsch-französische Grenze bei Apach
+deutsch-französische Grenze  
+bei Apach
 
 Rhein
 
- 
+37
 
-35
-
-Müritz-Elde-Wasserstraße (Mecklenburgische Oberseen (Müritz, Kölpinsee, Fleesensee, Malchower See, Petersdorfer See, Plauer See), Elde-Seitenkanal) mit Verbindungskanal Elde-Dreieck, Stör-Wasserstraße (Schweriner See, Störkanal) nebst Ziegelsee
+Müritz-Elde-Wasserstraße  
+\[Mecklenburgische Oberseen  
+(Müritz, Kölpinsee, Fleesensee,  
+Malchower See, Petersdorfer See,  
+Plauer See), Elde-Seitenkanal\]  
+mit  
+Verbindungskanal Elde-Dreieck,  
+Stör-Wasserstraße  
+\[Schweriner See, Störkanal\]  
+nebst Ziegelsee
 
 Buchholz (km 180,00)
 
 Elbe
 
- 
+38
 
-36
+Müritz-Havel-Wasserstraße  
+\[Mirower Kanal (Sumpfsee, Ragunsee),  
+Zotzensee, Mössensee, Vilzsee Ostteil,  
+Kl. Peetschsee, Labussee, Canower See,  
+Kl. Pälitzsee Ostteil, Gr. Pälitzsee Nordteil,  
+Ellbogensee Westteil\]  
+mit  
+Bolter Kanal (von der Müritz  
+bis Oberwasser der ehem. Schleuse Bolt  
+(km 1,97)), Mirower See, Mirower Adlersee  
+und Vilzsee Westteil, Gr. Peetschsee,  
+Rheinsberger Gewässer  
+\[Kl. Pälitzsee Südteil, Wolfsbrucher Kanal,  
+Tietzowsee, Schlabornsee,  
+Gr. Rheinsberger See, Grienericksee\]  
+nebst Gr. Prebelowsee,  
+Zechliner Gewässer \[Schwarzer See,  
+Gr. Zechliner See, Zootzensee,  
+Zootzenkanal\],  
+Dollgowsee \[Dollgowkanal\],  
+Gr. Pälitzsee Südwestteil
 
-Müritz-Havel-Wasserstraße (Mirower Kanal (Sumpfsee, Ragunsee), Zotzensee, Mössensee, Vilzsee Ostteil, Kl. Peetschsee, Labussee, Canower See, Kl. Pälitzsee Ostteil, Gr. Pälitzsee Nordteil, Ellbogensee Westteil) mit Mirower Adlersee und Vilzsee Westteil, Gr. Peetschsee, Rheinsberger Gewässer (Kl. Pälitzsee Südteil, Wolfsbrucher Kanal)
-
-Müritz-Elde-Wasserstraße (Kl. Müritz)
+Müritz-Elde-Wasserstraße  
+\[Kl. Müritz\]
 
 Obere Havel-Wasserstraße, Priepert
 
- 
-
-37
+39
 
 Neckar
 
-Gemeindegrenze Wernau - Plochingen
+Gemeindegrenze  
+Wernau – Plochingen
 
 Rhein
 
- 
+40
 
-38
+Nord-Ostsee-Kanal  
+\[Audorfer See, Schirnauer See\]  
+mit  
+Borgstedter See mit Enge, Flemhuder See,  
+Stichkanal Achterwehrer Schifffahrtskanal
 
-Nord-Ostsee-Kanal (Audorfer See, Schirnauer See) mit Borgstedter See mit Enge, Flemhuder See, Stichkanal Achterwehrer Schifffahrtskanal
+Elbe,  
+Verbindungslinie zwischen den Molenköpfen in Brunsbüttel
 
-Elbe, Verbindungslinie zwischen den Molenköpfen in Brunsbüttel
+Ostsee \[Kieler Förde\],  
+Verbindungslinie zwischen den Einfahrtsfeuern in  
+Kiel-Holtenau
 
-Ostsee (Kieler Förde), Verbindungslinie zwischen den Einfahrtsfeuern in Kiel-Holtenau
+41
 
- 
-
-39
-
-Obere Havel-Wasserstraße (Kammerkanal (Zierker See), Obere Havel (Woblitzsee, Finowsee, Kl. und Gr. Priepertsee, Ellbogensee Ostteil, Ziernsee, Röblinsee, Baalensee, Stolpsee), Voßkanal, Malzer Kanal) mit Menowsee, Schwedtsee, Lychener Gewässer (Stadtsee, Gr. Lychensee, Woblitz, Haussee), Templiner Gewässer (Zaarsee, Fährsee, Bruchsee, Templiner See, Templiner Kanal, Röddelinsee, Kl. Lankensee, Kuhwallsee, Templiner Wasser) nebst Gleuensee (Gleuenfließ) und Gr. Lankensee, Wentow-Gewässer (Kl. und Gr. Wentowsee, Wentowkanal) nebst Tornowfließ
+Obere Havel-Wasserstraße  
+\[Kammerkanal (Zierker See),  
+Obere Havel (Woblitzsee, Finowsee,  
+Kl. und Gr. Priepertsee, Ellbogensee  
+Ostteil, Ziernsee, Röblinsee, Baalensee,  
+Stolpsee), Voßkanal, Malzer Kanal\]  
+mit  
+Quassower Havel \[Gr. Labussee\],  
+Wangnitzsee Westteil, Menowsee,  
+Schwedtsee, Lychener Gewässer  
+\[Stadtsee, Gr. Lychensee, Woblitz,  
+Haussee\],  
+Templiner Gewässer \[Zaarsee, Fährsee,  
+Bruchsee, Templiner See,  
+Templiner Kanal, Röddelinsee,  
+Kl. Lankensee, Kuhwallsee,  
+Templiner Wasser\] nebst Gleuensee  
+\[Gleuenfließ\] und Gr. Lankensee,  
+Wentow-Gewässer  
+\[Kl. und Gr. Wentowsee, Wentowkanal\]  
+nebst Tornowfließ
 
 Zierker See, Neustrelitz
 
 Havel-Oder-Wasserstraße
 
- 
+42
 
-40
-
-Oder
+Oder  
+mit  
+Lausitzer Neiße  
+(Mündungsstrecke von km 0,45  
+bis zur Oder bei Ratzdorf)
 
 deutsch-polnische Grenze bei Ratzdorf
 
 deutsch-polnische Grenze an der Abzweigung der Westoder
 
- 
-
-41
+43
 
 Oste
 
-210 m oberhalb der Achse der Straßenbrücke über das Ostesperrwerk (km 69,360)
+210 m oberhalb der Achse der Straßenbrücke über das  
+Ostesperrwerk (km 69,360)
 
 Elbe
 
- 
+44
 
-42
+Peene  
+\[Westpeene, Kummerower See,  
+Richtgraben\]  
+mit  
+Mündungsstrecke Peene
 
-Peene (Westpeene, Kummerower See, Richtgraben) mit Mündungsstrecke Peene
+Einmündung des Malchiner  
+Peenekanals in die Westpeene (km 2,50)
 
-Einmündung des Malchiner Peenekanals in die Westpeene (km 2,50)
+Ostsee \[Peenestrom\],  
+Verbindungslinie zwischen dem Oberfeuer Jahnkenort und dem Unterfeuer Pinnow
 
-Ostsee (Peenestrom), Verbindungslinie zwischen dem Oberfeuer Jahnkenort und dem Unterfeuer Pinnow
-
- 
-
-43
+45
 
 Pinnau
 
-Südwestkante der Eisenbahnbrücke in Pinneberg
+Westkante der im Verlauf der Elmshorner Straße liegenden Straßenbrücke in Pinneberg  
+(km – 0,36)
 
-Elbe (Pagensander Nebenelbe)
+Elbe  
+\[Pagensander Nebenelbe\]
 
- 
-
-44
+46
 
 Regen
 
@@ -1178,9 +1361,7 @@ Regen
 
 Schleusenkanal Regensburg
 
- 
-
-45
+47
 
 Regnitz
 
@@ -1188,67 +1369,81 @@ Regnitz
 
 Main-Donau-Kanal
 
+ 
+
+ 
+
 Main-Donau-Kanal
 
-150 m unterhalb des Wehres Neuses (km 21,79)
+150 m unterhalb des  
+Wehres Neuses (km 21,79)
+
+ 
+
+ 
 
 170 m oberhalb der Brückenachse des Wehres Bamberg
 
 Main-Donau-Kanal
 
- 
+48
 
-46
+Rhein  
+mit  
+Lampertheimer Altrhein  
+(von km 4,75 bis zum Rhein),  
+Altrhein Stockstadt-Erfelden  
+(von km 9,80 bis zum Rhein)
 
-Rhein mit Lampertheimer Altrhein (von km 4,75 bis zum Rhein), Altrhein Stockstadt-Erfelden (von km 9,80 bis zum Rhein),
-
-deutschschweizerische Grenze bei Basel
+deutsch-schweizerische Grenze bei Basel
 
 deutsch-niederländische Grenze bei Millingen
 
- 
+49
 
-47
-
-Rhein-Herne-Kanal mit Verbindungskanal zur Ruhr
+Rhein-Herne-Kanal  
+mit  
+Verbindungskanal zur Ruhr
 
 Ruhrorter Hafen, Einmündung des Beckens C (km 0,16)
 
-Dortmund-Ems-Kanal, unterer Vorhafen des alten Hebewerks Henrichenburg
+Dortmund-Ems-Kanal,  
+unterer Vorhafen des alten Hebewerks Henrichenburg
 
- 
+50
 
-48
+Rüdersdorfer Gewässer  
+\[Strausberger Mühlenfließ, Hohler See,  
+Stolpgraben, Kalksee, Flakensee,  
+Dämeritzsee\]  
+mit  
+Stichkanal Langerhanskanal \[Kriensee\],  
+Löcknitz \[Möllensee, Peetzsee, Werlsee\]
 
-Rüdersdorfer Gewässer (Strausberger Mühlenfließ, Hohler See, Stolpgraben, Kalksee, Flakensee, Dämeritzsee) mit Stichkanal Langerhanskanal (Kriensee)
-
-oberhalb der Abzweigung des Langerhanskanals (km 9,85)
+Tasdorf (km 10,48)
 
 Gosener Kanal
 
- 
-
-49
+51
 
 Ruhr
 
-oberhalb der Schlossbrücke in Mühlheim (km 12,21)
+oberhalb der Schlossbrücke in Mülheim (km 12,21)
 
 Rhein
 
- 
-
-50
+52
 
 Ryck
 
 Ostkante der Steinbecker Brücke in Greifswald
 
-Ostsee (Greifswalder Bodden), Verbindungslinie der Seekanten der Molenköpfe
+Ostsee  
+\[Greifswalder Bodden\],  
+Verbindungslinie der  
+Seekanten der Molenköpfe
 
- 
-
-51
+53
 
 Saale
 
@@ -1256,49 +1451,88 @@ Bad Dürrenberg (km 124,16)
 
 Elbe
 
- 
+54
 
-52
+Saale-Leipzig-Kanal
+
+Sicherheitstor West (km 7,74)
+
+Hafen Leipzig (km 18,93)
+
+55
 
 Saar
 
-deutsch-französische Grenze bei Saargemünd
+deutsch-französische Grenze  
+bei Saargemünd
 
 Mosel
 
- 
+56
 
-53
-
-Schifffahrtsweg Rhein-Kleve (Spoykanal vom Hafen Kleve bis zum Unterwasser der Schleuse Brienen, Griethauser Altrhein vom Unterwasser der Schleuse Brienen bis zum Rhein)
+Schifffahrtsweg Rhein-Kleve  
+\[Spoykanal vom Hafen Kleve bis zum  
+Unterwasser der Schleuse Brienen  
+(km 4,57), Griethauser Altrhein  
+vom Unterwasser der Schleuse Brienen  
+bis zum Rhein\]  
+mit  
+Griethauser Altrhein (km 1,45 bis km 2,02)
 
 Hafen Kleve (km 1,78)
 
 Rhein
 
- 
-
-54
+57
 
 Schwinge
 
-Nordkante der Salztorschleuse in Stade
+Nordkante der Salztorschleuse  
+in Stade
 
 Elbe
 
- 
+58
 
-55
+Sorge
 
-Spree-Oder-Wasserstraße (Untere Spree, Berliner Spree, Treptower Spree, Dahme (Langer See), Oder-Spree-Kanal, Fürstenwalder Spree) mit Ruhlebener Altarm, Landwehrkanal, Spreekanal, Rummelsburger See, Müggelspree (Gr. Müggelsee) (von Köpenick bis km 11,85 und vom Unterwasser des Wehres Gr. Tränke (km 44,85) bis zur Spree-Oder-Wasserstraße), Wasserstraße Seddinsee und Gosener Kanal, Neuhauser Speisekanal (bis zum Ende des unteren Schleusenvorhafens Neuhaus), Kl. Müllroser See (von der Schlaube bis zur Spree-Oder-Wasserstraße)
+Südwestkante der im Verlauf der Bundesstraße 202 liegenden Straßenbrücke an der  
+Sandschleuse (km 0,00)
+
+Eider
+
+59
+
+Spree-Oder-Wasserstraße  
+\[Untere Spree, Berliner Spree,  
+Treptower Spree, Dahme (Langer See),  
+Oder-Spree-Kanal, Fürstenwalder Spree\]  
+mit  
+Ruhlebener Altarm, Landwehrkanal, Spreekanal, Rummelsburger See,  
+Müggelspree \[Gr. Müggelsee\]  
+(von Köpenick bis km 11,85 und vom  
+Unterwasser des Wehres Gr. Tränke  
+(km 44,85) bis zur  
+Spree-Oder-Wasserstraße), Gr. Krampe,  
+Wasserstraße Seddinsee und  
+Gosener Kanal, Gosener Graben,  
+Drahendorfer Spree  
+(Mündungsstrecke von km 0,38  
+bis zur Spree-Oder-Wasserstraße)  
+Neuhauser Speisekanal (bis zum Ende des  
+unteren Schleusenvorhafens Neuhaus),  
+Kl. Müllroser See (von der Schlaube  
+bis zur Spree-Oder-Wasserstraße),  
+Brieskower Kanal  
+((ehem. Friedrich-Wilhelm-Kanal)  
+von der Altstrecke Schlaubehammer Ost  
+bis zur Abdämmung westl. der ehem. Schleuse Schlaubehammer (km 0,55))
 
 Havel-Oder-Wasserstraße, Spandau
 
 Oder
 
- 
-
-56
+60
 
 Stör
 
@@ -1306,69 +1540,117 @@ Pegel Rensing
 
 Elbe
 
- 
+61
 
-57
-
-Teltowkanal (Glienicker Lake, Griebnitzsee, Kleinmachnower See) mit Griebnitzkanal (Stölpchensee, Pohlesee, Kl. Wannsee), Britzer Verbindungskanal (zur Spree)
+Teltowkanal  
+\[Glienicker Lake, Griebnitzsee,  
+Kleinmachnower See\]  
+mit  
+Griebnitzkanal \[Stölpchensee, Pohlesee,  
+Kl. Wannsee\],  
+Zehlendorfer Stichkanal,  
+Britzer Verbindungskanal (zur Spree)
 
 Potsdamer Havel
 
-Spree-Oder-Wasserstraße (Dahme)
+Spree-Oder-Wasserstraße  
+\[Dahme\]
 
- 
+62
 
-58
+Trave  
+\[Kanaltrave, Untertrave\]  
+mit  
+Nebenarm Stadttrave  
+(von der Abzweigung aus der Kanaltrave  
+bis zur Südkante der Wipperbrücke),  
+Dassower See, Pötenitzer Wiek
 
-Trave (Kanaltrave, Untertrave) mit Nebenarm Stadttrave (von der Abzweigung aus der Kanaltrave bis zur Südkante der Wipperbrücke), Dassower See, Pötenitzer Wiek
+Elbe-Lübeck-Kanal,  
+71 m nordöstlich der Achse der Geniner Straßenbrücke
 
-Elbe-Lübeck-Kanal, 71 m nordöstlich der Achse der Geniner Straßenbrücke
+Ostsee \[Lübecker Bucht\],  
+Verbindungslinie der Köpfe der Süderinnenmole und  
+Norderaußenmole
 
-Ostsee (Lübecker Bucht), Verbindungslinie der Köpfe der Süderinnenmole und Norderaußenmole
-
- 
-
-59
+63
 
 Uecker
 
 Südwestkante der Straßenbrücke in Ueckermünde
 
-Ostsee (Stettiner Haff), Verbindungslinie der Seekanten der Molenköpfe
+Ostsee \[Stettiner Haff\],  
+Verbindungslinie der  
+Seekanten der Molenköpfe
 
- 
+64
 
-60
-
-Untere Havel-Wasserstraße (Pichelsdorfer Havel (Pichelssee), Kladower Seestrecke, Jungfernsee, Sacrow-Paretzer Kanal (Weißer See), Brandenburger Oberhavel (Trebelsee), Silokanal, Quenzsee, Plauer See) mit Gr. Wannsee, Potsdamer Havel (Tiefer See, Templiner See, Gr. und Kl. Zernsee) nebst Schwielowsee, Ketziner Havel, Brandenburger Stadtkanal, Beetzsee-Riewendsee-Wasserstraße (von der Ostkante der Pählbrücke bis zur Unteren Havel-Wasserstraße), Brandenburger Niederhavel, Breitlingsee und Möserscher See, Rathenower Havel (Rathenower Stadtkanal), Mündungsstrecke Untere Havel (bis km 156,75)
+Untere Havel-Wasserstraße  
+\[Pichelsdorfer Havel (Pichelssee),  
+Kladower Seestrecke, Jungfernsee,  
+Sacrow-Paretzer Kanal (Weißer See),  
+Brandenburger Oberhavel (Trebelsee),  
+Silokanal, Quenzsee, Plauer See\]  
+mit  
+Gr. Wannsee,  
+Potsdamer Havel  
+\[Tiefer See, Templiner See,  
+Gr. und Kl. Zernsee\] nebst Schwielowsee,  
+Petziensee, Glindowsee und Wublitz  
+\[Schlänitzsee ohne Fahrwasser des  
+Sacrow-Paretzer Kanals\],  
+Nedlitzer Alte Fahrt nebst Lehnitzsee  
+und Krampnitzsee, Ketziner Havel,  
+Brandenburger Stadtkanal,  
+Beetzsee-Riewendsee-Wasserstraße  
+(Ostende des Riewendsees,  
+Klinkgraben (km 21,80) bis zur  
+Unteren Havel-Wasserstraße),  
+Brandenburger Niederhavel,  
+Breitlingsee und Möserscher See,  
+Rathenower Havel  
+\[Rathenower Stadtkanal\],  
+Hohennauener Wasserstraße  
+\[Ferchesarer See, Hohennauener See,  
+Hohennauener Kanal\],  
+Mündungsstrecke Untere Havel  
+(bis km 156,75)
 
 Spreemündung, Spandau
 
 Einmündung des Havelberger Schleusenkanals in die Elbe
 
- 
+65
 
-61
+Warnow  
+(ohne Nebenarm westlich der  
+Badewieseninsel in Rostock)
 
-Warnow (ohne Nebenarm westlich der Badewieseninsel in Rostock)
+Südkante der Eisenbahnbrücke Rostock – Stralsund
 
-Südkante der Eisenbahnbrücke Rostock - Stralsund
+Ostsee \[Unterwarnow\],  
+Verbindungslinie zwischen der nördlichen Böschungsunterkante auf der Landzunge  
+zwischen Osthafen und  
+Warnow  
+(geografische Koordinaten  
+im Bezugssystem WGS84:  
+54° 05' 40" N/012° 09' 03" E) und der nordwestlichen  
+Böschungsunterkante  
+am östlichen Ende des  
+Stadthafens Rostock  
+(geografische Koordinaten  
+im Bezugssystem WGS84:  
+54° 05' 45" N/012° 09' 07" E)
 
-Ostsee (Unterwarnow), Verbindungslinie zwischen der nördlichen Böschungsunterkante auf der Landzunge zwischen Osthafen und Warnow (geografische Koordinaten im Bezugssystem WGS84: 54° 05' 40" N/012° 09' 03" E) und der nordwestlichen Böschungsunterkante am östlichen Ende des Stadthafens Rostock (geografische Koordinaten im Bezugssystem WGS84: 54° 05' 45" N/012° 09' 07" E)
-
- 
-
-62
+66
 
 Werra
 
-Unterwasser der Staustufe "Letzter Heller" (km 84,00)
+2 km oberhalb des Ortes Falken (km 0,78)
 
 Weser
 
- 
-
-63
+67
 
 Wesel-Datteln-Kanal
 
@@ -1376,15 +1658,33 @@ Rhein
 
 Dortmund-Ems-Kanal, Datteln
 
- 
+68
 
-64
-
-Weser mit den Nebenarmen: Kleine Weser in Bremen (von der unterstromigen Kante der Wehranlage am Teerhof bis zur Weser), Westergate, Rekumer Loch, Rechter Nebenarm, Schweiburg
+Weser  
+mit  
+den Nebenarmen:  
+Kleine Weser in Bremen  
+(von der unterstromigen Kante der  
+Wehranlage am Teerhof bis zur Weser),  
+Westergate, Rekumer Loch,  
+Rechter Nebenarm, Schweiburg
 
 Zusammenfluss von Fulda und Werra
 
-Nordsee, Verbindungslinie zwischen dem Kirchturm von Langwarden und der Mündung des Arenschen Baches
+Nordsee,  
+Verbindungslinie zwischen dem Kirchturm von  
+Langwarden und der  
+Mündung des  
+Arenschen Baches
+
+69
+
+Wümme
+
+östlich der Franzosenbrücke  
+in Borgfeld (km 0,00)
+
+Lesum
 
 # Anlage 2 – (zu § 14e Abs. 1)Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 

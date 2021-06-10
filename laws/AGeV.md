@@ -187,7 +187,7 @@ beträgt und
 
 (5) Erzeugnisse des Weinbaus dürfen bei der gewerbsmäßigen Herstellung der in den Absätzen 1, 2 und 3 bezeichneten Getränke nicht verwendet werden.
 
-(6) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
+(6) Die Vorschriften der Lebensmittelzusatzstoff-Durchführungsverordnung sind anzuwenden.
 
 (7) Die in den Absätzen 1 bis 4 bezeichneten Getränke können auch alkoholfrei oder alkoholreduziert sein.
 

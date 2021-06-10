@@ -1081,9 +1081,9 @@ Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. Zustän
 
 (3) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3, § 113c Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes) in den Fällen von
 
-1. Absatz 1 Satz 2 Nummer 1 zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblicher Sachwerte oder zur Verhütung einer Straftat oder
+1. Absatz 1 Satz 2 Nummer 1 zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblicher Sachwerte oder zur Verhütung einer Straftat oder
 
-2. Absatz 1 Satz 2 Nummer 2 und 3 zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt.
+2. Absatz 1 Satz 2 Nummer 2 und 3 zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt.
 
 Absatz 2 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 

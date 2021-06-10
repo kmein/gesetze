@@ -5,7 +5,7 @@
 
 (1) Dieses Gesetz gilt
 
-1. auf den Seewasserstraßen im Sinne des § 1 Absatz 2 des Bundeswasserstraßengesetzes,
+1. auf den Seewasserstraßen im Sinne des § 1 Absatz 4 des Bundeswasserstraßengesetzes,
 
 2. auf den gemäß Anhang I der Binnenschiffsuntersuchungsordnung bezeichneten Wasserstraßen des Bundes,
 
