@@ -456,6 +456,14 @@ Auswahl der Jugendrichter und Jugendstaatsanwälte
 
  
 
+Zusammenarbeit in gemeinsamen Gremien
+
+§ 37a
+
+ 
+
+ 
+
 Jugendgerichtshilfe
 
 § 38
@@ -1995,6 +2003,12 @@ Im Übrigen beschließt die große Jugendkammer eine Besetzung mit zwei Richtern
 # § 37 – Auswahl der Jugendrichter und Jugendstaatsanwälte
 
 Die Richter bei den Jugendgerichten und die Jugendstaatsanwälte sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein.
+
+# § 37a – Zusammenarbeit in gemeinsamen Gremien
+
+(1) Jugendrichter und Jugendstaatsanwälte können zum Zweck einer abgestimmten Aufgabenwahrnehmung fallübergreifend mit öffentlichen Einrichtungen und sonstigen Stellen, deren Tätigkeit sich auf die Lebenssituation junger Menschen auswirkt, zusammenarbeiten, insbesondere durch Teilnahme an gemeinsamen Konferenzen und Mitwirkung in vergleichbaren gemeinsamen Gremien.
+
+(2) An einzelfallbezogener derartiger Zusammenarbeit sollen Jugendstaatsanwälte teilnehmen, wenn damit aus ihrer Sicht die Erreichung des Ziels nach § 2 Absatz 1 gefördert wird.
 
 # § 38 – Jugendgerichtshilfe
 

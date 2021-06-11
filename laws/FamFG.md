@@ -1711,14 +1711,6 @@ Die Entscheidung, gegen die das Kind das Beschwerderecht ausüben kann, ist dem 
 
 (1) Das Gericht ändert eine Entscheidung oder einen gerichtlich gebilligten Vergleich nach Maßgabe des § 1696 des Bürgerlichen Gesetzbuchs.
 
-(2) Eine länger dauernde kindesschutzrechtliche Maßnahme hat das Gericht in angemessenen Zeitabständen zu überprüfen.
-
-(3) Sieht das Gericht von einer Maßnahme nach den §§ 1666 bis 1667 des Bürgerlichen Gesetzbuchs ab, soll es seine Entscheidung in einem angemessenen Zeitabstand, in der Regel nach drei Monaten, überprüfen.
-
-# § 166 – Abänderung und Überprüfung von Entscheidungen und gerichtlich gebilligten Vergleichen
-
-(1) Das Gericht ändert eine Entscheidung oder einen gerichtlich gebilligten Vergleich nach Maßgabe des § 1696 des Bürgerlichen Gesetzbuchs.
-
 (2) Eine länger dauernde kindesschutzrechtliche Maßnahme, die von Amts wegen geändert werden kann, hat das Gericht in angemessenen Zeitabständen zu überprüfen.
 
 (3) Sieht das Gericht von einer Maßnahme nach den §§ 1666 bis 1667 des Bürgerlichen Gesetzbuchs ab, soll es seine Entscheidung in einem angemessenen Zeitabstand, in der Regel nach drei Monaten, überprüfen.

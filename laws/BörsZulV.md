@@ -269,6 +269,12 @@ a) die Sammelurkunde bei einer Wertpapiersammelbank (§ 1 Abs. 3 des Depotgesetz
 
 b) er auf Anforderung der Geschäftsführung die Sammelurkunde auflösen wird, wenn er gegenüber den Inhabern der in der Sammelurkunde verbrieften Rechte verpflichtet ist, auf Verlangen einzelne Wertpapiere auszugeben;
 
+7a. im Falle eines elektronischen Wertpapiers nach § 2 Absatz 1 des Gesetzes über elektronische Wertpapiere die Erklärung des Emittenten,
+
+a) ob gemäß § 8 Absatz 1 Nummer 1 des Gesetzes über elektronische Wertpapiere eine Sammeleintragung einer Wertpapiersammelbank als Inhaber in ein zentrales Register nach § 12 Absatz 1 des Gesetzes über elektronische Wertpapiere vorgenommen worden ist,
+
+b) dass im Falle des Vorliegens eines entsprechenden Antrags des Inhabers gemäß § 8 Absatz 2 des Gesetzes über elektronische Wertpapiere eine Einzeleintragung in eine Sammeleintragung zur Verwahrung bei einem Kreditinstitut umgewandelt worden ist;
+
 8. im Falle des § 3 Abs. 2 die Berichte über die Gründung und deren Prüfung (§ 32 Abs. 1, § 34 Abs. 2 des Aktiengesetzes).
 
 # § 48a – Veröffentlichung eines Basisprospekts

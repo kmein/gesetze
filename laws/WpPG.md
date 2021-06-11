@@ -87,7 +87,15 @@ Die Bundesanstalt hat dem Anbieter innerhalb von zehn Arbeitstagen nach Eingang 
 
 einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen kann.
 
-(4) Das Wertpapier-Informationsblatt muss den drucktechnisch hervorgehobenen Warnhinweis „Der Erwerb dieses Wertpapiers ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen. “ auf der ersten Seite, unmittelbar unterhalb der ersten Überschrift enthalten.
+(3a) Für die Emission eines elektronischen Wertpapiers im Sinne des Gesetzes über elektronische Wertpapiere oder eines digitalen und nicht verbrieften Wertpapiers, das kein elektronisches Wertpapier im Sinne des Gesetzes über elektronische Wertpapiere ist, gilt Absatz 3 mit der Maßgabe, dass
+
+1. das Wertpapier-Informationsblatt abweichend von Absatz 3 Satz 1 bis zu vier DIN-A4-Seiten umfassen darf,
+
+2. die Angaben nach Absatz 3 Satz 2 Nummer 2 auch Angaben zur technischen Ausgestaltung des Wertpapiers, zu den dem Wertpapier zugrunde liegenden Technologien sowie zur Übertragbarkeit und Handelbarkeit des Wertpapiers an den Finanzmärkten zu beinhalten haben,
+
+3. die Angaben nach Absatz 3 Satz 2 Nummer 3 um die Angabe der registerführenden Stelle im Sinne des Gesetzes über elektronische Wertpapiere und die Angabe, wo und auf welche Weise der Anleger in das Register Einsicht nehmen kann, zu ergänzen sind, sofern es sich um ein elektronisches Wertpapier im Sinne des Gesetzes über elektronische Wertpapiere handelt.
+
+(4) Das Wertpapier-Informationsblatt muss den drucktechnisch hervorgehobenen Warnhinweis „Der Erwerb dieses Wertpapiers ist mit erheblichen Risiken verbunden und kann zum vollständigen Verlust des eingesetzten Vermögens führen.“ auf der ersten Seite, unmittelbar unterhalb der ersten Überschrift enthalten.
 
 (5) Das Wertpapier-Informationsblatt muss im Anschluss an die Angaben nach Absatz 3 dieser Vorschrift zudem in folgender Reihenfolge enthalten:
 

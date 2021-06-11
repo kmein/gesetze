@@ -740,6 +740,7 @@
 - [BFöV](laws/BFöV.md) Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
+- [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
 - [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
 - [BGAktFV](laws/BGAktFV.md) Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten
 - [BGB](laws/BGB.md) Bürgerliches Gesetzbuch
