@@ -229,6 +229,8 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 2. die Kosten, die ihr bei Durchführung von technischen, betrieblichen oder organisatorischen Maßnahmen, die zu einem Personalminderbedarf führen, dadurch entstehen, das Arbeitsverhältnisse, die gemäß § 14 Abs. 2 auf die Gesellschaft übergegangen sind, unkündbar sind. Dies gilt nicht, solange die von Rationalisierungsmaßnahmen betroffenen Arbeitnehmer auf einem anderen Arbeitsplatz in Betrieben der Deutsche Bahn Aktiengesellschaft beschäftigt werden können.
 
+Im Falle des Satzes 1 Nummer 2 werden die Kosten nur für vor dem 1. Januar 2020 vollzogene Rationalisierungsmaßnahmen erstattet.
+
 (6) Absatz 5 Nr. 2 gilt entsprechend für auf Grund des öffentlichen Dienstrechts fortbestehende Dienstverhältnisse der der Deutsche Bahn Aktiengesellschaft zugewiesenen Beamten mit der Maßgabe, daß die Leistungspflicht der Gesellschaft gemäß Absatz 1 für die von Rationalisierungsmaßnahmen betroffenen Beamten entfällt. Die Zuweisung eines Beamten gemäß § 12 Abs. 2 und 3, für den die Leistungspflicht der Deutsche Bahn Aktiengesellschaft entfällt, ist vom Bundeseisenbahnvermögen aufzuheben; § 12 Abs. 9 Satz 1 findet keine Anwendung.
 
 (7) Die Deutsche Bahn Aktiengesellschaft stellt monatlich nachträglich die Höhe der Forderungen gemäß den Absätzen 1 bis 5 fest; außerdem weist sie die gemäß Absatz 6 entfallenden Zahlungen nach und stellt den Saldo fest. Der Saldo ist auszugleichen. Der maßgebende Zeitpunkt, ab welchem Zahlungen und Erstattungen gemäß den Absätzen 1 bis 6 zu leisten sind, ist der Tag der Eintragung der Gesellschaft in das Handelsregister.

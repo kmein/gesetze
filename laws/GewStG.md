@@ -694,7 +694,23 @@ entstanden sind, soweit der Ansatz des niedrigeren Teilwerts oder die sonstige G
 
 Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
-1. 1,2 Prozent des Einheitswerts des zum Betriebsvermögen des Unternehmers gehörenden und nicht von der Grundsteuer befreiten Grundbesitzes; maßgebend ist der Einheitswert, der auf den letzten Feststellungszeitpunkt (Hauptfeststellungs-, Fortschreibungs- oder Nachfeststellungszeitpunkt) vor dem Ende des Erhebungszeitraums (§ 14) lautet. ²An Stelle der Kürzung nach Satz 1 tritt auf Antrag bei Unternehmen, die ausschließlich eigenen Grundbesitz oder neben eigenem Grundbesitz eigenes Kapitalvermögen verwalten und nutzen oder daneben Wohnungsbauten betreuen oder Einfamilienhäuser, Zweifamilienhäuser oder Eigentumswohnungen im Sinne des Wohnungseigentumsgesetzes in der jeweils geltenden Fassung, errichten und veräußern, die Kürzung um den Teil des Gewerbeertrags, der auf die Verwaltung und Nutzung des eigenen Grundbesitzes entfällt. ³Satz 2 gilt entsprechend, wenn in Verbindung mit der Errichtung und Veräußerung von Eigentumswohnungen Teileigentum im Sinne des Wohnungseigentumsgesetzes errichtet und veräußert wird und das Gebäude zu mehr als 66 2/3 Prozent Wohnzwecken dient. ⁴Betreut ein Unternehmen auch Wohnungsbauten oder veräußert es auch Einfamilienhäuser, Zweifamilienhäuser oder Eigentumswohnungen, so ist Voraussetzung für die Anwendung des Satzes 2, dass der Gewinn aus der Verwaltung und Nutzung des eigenen Grundbesitzes gesondert ermittelt wird. ⁵Die Sätze 2 und 3 gelten nicht,
+1. 1,2 Prozent des Einheitswerts des zum Betriebsvermögen des Unternehmers gehörenden und nicht von der Grundsteuer befreiten Grundbesitzes; maßgebend ist der Einheitswert, der auf den letzten Feststellungszeitpunkt (Hauptfeststellungs-, Fortschreibungs- oder Nachfeststellungszeitpunkt) vor dem Ende des Erhebungszeitraums (§ 14) lautet. ²An Stelle der Kürzung nach Satz 1 tritt auf Antrag bei Unternehmen, die ausschließlich eigenen Grundbesitz oder neben eigenem Grundbesitz eigenes Kapitalvermögen verwalten und nutzen oder daneben Wohnungsbauten betreuen oder Einfamilienhäuser, Zweifamilienhäuser oder Eigentumswohnungen im Sinne des Wohnungseigentumsgesetzes in der jeweils geltenden Fassung, errichten und veräußern, die Kürzung um den Teil des Gewerbeertrags, der auf die Verwaltung und Nutzung des eigenen Grundbesitzes entfällt. ³Satz 2 gilt entsprechend, wenn
+
+a) in Verbindung mit der Errichtung und Veräußerung von Eigentumswohnungen Teileigentum im Sinne des Wohnungseigentumsgesetzes errichtet und veräußert wird und das Gebäude zu mehr als 66 2/3 Prozent Wohnzwecken dient,
+
+b) in Verbindung mit der Verwaltung und Nutzung des eigenen Grundbesitzes Einnahmen aus der Lieferung von Strom
+
+aa)  
+im Zusammenhang mit dem Betrieb von Anlagen zur Stromerzeugung aus erneuerbaren Energien im Sinne des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes oder
+
+bb)  
+aus dem Betrieb von Ladestationen für Elektrofahrzeuge oder Elektrofahrräder,
+
+erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als 10 Prozent der Einnahmen aus der Gebrauchsüberlassung des Grundbesitzes sind; die Einnahmen im Sinne von Doppelbuchstabe aa dürfen nicht aus der Lieferung an Letztverbraucher stammen, es sei denn, diese sind Mieter des Anlagenbetreibers, oder
+
+c) Einnahmen aus unmittelbaren Vertragsbeziehungen mit den Mietern des Grundbesitzes aus anderen als den in den Buchstaben a und b bezeichneten Tätigkeiten erzielt werden und diese Einnahmen im Wirtschaftsjahr nicht höher als 5 Prozent der Einnahmen aus der Gebrauchsüberlassung des Grundbesitzes sind.
+
+⁴Betreut ein Unternehmen auch Wohnungsbauten oder veräußert es auch Einfamilienhäuser, Zweifamilienhäuser oder Eigentumswohnungen oder übt es auch Tätigkeiten im Sinne von Satz 3 Buchstabe b und c aus, so ist Voraussetzung für die Anwendung des Satzes 2, dass der Gewinn aus der Verwaltung und Nutzung des eigenen Grundbesitzes gesondert ermittelt wird. ⁵Die Sätze 2 und 3 gelten nicht,
 
 1. wenn der Grundbesitz ganz oder zum Teil dem Gewerbebetrieb eines Gesellschafters oder Genossen dient,
 
@@ -874,25 +890,25 @@ Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des Kalenderviert
 
 2. bei Betrieben, die ausschließlich Anlagen zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus Windenergie und solarer Strahlungsenergie betreiben,
 
-a) vorbehaltlich des Buchstabens b zu drei Zehnteln das in Nummer 1 bezeichnete Verhältnis und zu sieben Zehnteln das Verhältnis, in dem die Summe der steuerlich maßgebenden Ansätze des Sachanlagevermögens mit Ausnahme der Betriebs- und Geschäftsausstattung, der geleisteten Anzahlungen und der Anlagen im Bau in allen Betriebsstätten (§ 28) zu dem Ansatz in den einzelnen Betriebsstätten steht,
+a) vorbehaltlich des Buchstabens b zu einem Zehntel das in Nummer 1 bezeichnete Verhältnis und zu neun Zehnteln das Verhältnis, in dem die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes in allen Betriebsstätten (§ 28) zur installierten Leistung in den einzelnen Betriebsstätten steht,
 
-b) für die Erhebungszeiträume 2014 bis 2023 bei Betrieben, die ausschließlich Anlagen zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie betreiben,
+b) für die Erhebungszeiträume 2021 bis 2023 bei Betrieben, die ausschließlich Anlagen zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie betreiben,
 
 aa)  
-für den auf Neuanlagen im Sinne von Satz 3 entfallenden Anteil am Steuermessbetrag zu drei Zehnteln das in Nummer 1 bezeichnete Verhältnis und zu sieben Zehnteln das Verhältnis, in dem die Summe der steuerlich maßgebenden Ansätze des Sachanlagevermögens mit Ausnahme der Betriebs- und Geschäftsausstattung, der geleisteten Anzahlungen und der Anlagen im Bau (maßgebendes Sachanlagevermögen) in allen Betriebsstätten (§ 28) zu dem Ansatz in den einzelnen Betriebsstätten steht, und
+für den auf Neuanlagen im Sinne von Satz 3 entfallenden Anteil am Steuermessbetrag zu einem Zehntel das in Nummer 1 bezeichnete Verhältnis und zu neun Zehnteln das Verhältnis, in dem die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes in allen Betriebsstätten (§ 28) zur installierten Leistung in den einzelnen Betriebsstätten steht, und
 
 bb)  
 für den auf die übrigen Anlagen im Sinne von Satz 4 entfallenden Anteil am Steuermessbetrag das in Nummer 1 bezeichnete Verhältnis.
 
-²Der auf Neuanlagen und auf übrige Anlagen jeweils entfallende Anteil am Steuermessbetrag ermittelt sich aus dem Verhältnis, in dem
+Der auf Neuanlagen und auf übrige Anlagen jeweils entfallende Anteil am Steuermessbetrag wird ermittelt aus dem Verhältnis, in dem
 
 aa)  
-die Summe des maßgebenden Sachanlagevermögens für Neuanlagen und
+die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes für Neuanlagen und
 
 bb)  
-die Summe des übrigen maßgebenden Sachanlagevermögens für die übrigen Anlagen
+die Summe der installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes für die übrigen Anlagen
 
-zum gesamten maßgebenden Sachanlagevermögen des Betriebs steht. ³Neuanlagen sind Anlagen, die nach dem 30. Juni 2013 zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie genehmigt wurden. ⁴Die übrigen Anlagen umfassen das übrige maßgebende Sachanlagevermögen des Betriebs.
+zur gesamten installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes des Betriebs steht. Neuanlagen sind Anlagen, die nach dem 30. Juni 2013 zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie genehmigt wurden. Die übrigen Anlagen sind Anlagen, die nicht unter Satz 3 fallen.
 
 (2) Bei der Zerlegung nach Absatz 1 sind die Arbeitslöhne anzusetzen, die in den Betriebsstätten der beteiligten Gemeinden (§ 28) während des Erhebungszeitraums (§ 14) erzielt oder gezahlt worden sind.
 
@@ -1003,7 +1019,7 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 
 # § 36 – Zeitlicher Anwendungsbereich
 
-(1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2020 anzuwenden.
+(1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2021 anzuwenden.
 
 (2) ¹§ 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ²§ 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden. ³§ 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden. ⁴§ 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
 

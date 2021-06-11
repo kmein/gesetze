@@ -12259,7 +12259,11 @@ Die Stellungnahme muss von allen Mitgliedern der interdisziplinären Kommission 
 
 (3) Über Streitigkeiten, die eine Angelegenheit nach Absatz 1 oder 2 betreffen, entscheidet das Familiengericht auf Antrag eines Elternteils.
 
-(4) Lebt das Kind seit längerer Zeit in Familienpflege und wollen die Eltern das Kind von der Pflegeperson wegnehmen, so kann das Familiengericht von Amts wegen oder auf Antrag der Pflegeperson anordnen, dass das Kind bei der Pflegeperson verbleibt, wenn und solange das Kindeswohl durch die Wegnahme gefährdet würde.
+(4) Lebt das Kind seit längerer Zeit in Familienpflege und wollen die Eltern das Kind von der Pflegeperson wegnehmen, so kann das Familiengericht von Amts wegen oder auf Antrag der Pflegeperson anordnen, dass das Kind bei der Pflegeperson verbleibt, wenn und solange das Kindeswohl durch die Wegnahme gefährdet würde. Das Familiengericht kann in Verfahren nach Satz 1 von Amts wegen oder auf Antrag der Pflegeperson zusätzlich anordnen, dass der Verbleib bei der Pflegeperson auf Dauer ist, wenn
+
+1. sich innerhalb eines im Hinblick auf die Entwicklung des Kindes vertretbaren Zeitraums trotz angebotener geeigneter Beratungs- und Unterstützungsmaßnahmen die Erziehungsverhältnisse bei den Eltern nicht nachhaltig verbessert haben und eine derartige Verbesserung mit hoher Wahrscheinlichkeit auch zukünftig nicht zu erwarten ist und
+
+2. die Anordnung zum Wohl des Kindes erforderlich ist.
 
 # § 1633 – (weggefallen)
 
@@ -12523,7 +12527,7 @@ Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und bei dem s
 
 (1) Lebt ein Kind für längere Zeit in Familienpflege, so ist die Pflegeperson berechtigt, in Angelegenheiten des täglichen Lebens zu entscheiden sowie den Inhaber der elterlichen Sorge in solchen Angelegenheiten zu vertreten. Sie ist befugt, den Arbeitsverdienst des Kindes zu verwalten sowie Unterhalts-, Versicherungs-, Versorgungs- und sonstige Sozialleistungen für das Kind geltend zu machen und zu verwalten. § 1629 Abs. 1 Satz 4 gilt entsprechend.
 
-(2) Der Pflegeperson steht eine Person gleich, die im Rahmen der Hilfe nach den §§ 34, 35 und 35a Abs. 1 Satz 2 Nr. 3 und 4 des Achten Buches Sozialgesetzbuch die Erziehung und Betreuung eines Kindes übernommen hat.
+(2) Der Pflegeperson steht eine Person gleich, die im Rahmen der Hilfe nach den §§ 34, 35 und 35a Absatz 2 Nummer 3 und 4 des Achten Buches Sozialgesetzbuch die Erziehung und Betreuung eines Kindes übernommen hat.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn der Inhaber der elterlichen Sorge etwas anderes erklärt. Das Familiengericht kann die Befugnisse nach den Absätzen 1 und 2 einschränken oder ausschließen, wenn dies zum Wohl des Kindes erforderlich ist.
 
@@ -12543,13 +12547,17 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familien
 
 (2) Eine Maßnahme nach den §§ 1666 bis 1667 oder einer anderen Vorschrift des Bürgerlichen Gesetzbuchs, die nur ergriffen werden darf, wenn dies zur Abwendung einer Kindeswohlgefährdung oder zum Wohl des Kindes erforderlich ist (kindesschutzrechtliche Maßnahme), ist aufzuheben, wenn eine Gefahr für das Wohl des Kindes nicht mehr besteht oder die Erforderlichkeit der Maßnahme entfallen ist.
 
+(3) Eine Anordnung nach § 1632 Absatz 4 ist auf Antrag der Eltern aufzuheben, wenn die Wegnahme des Kindes von der Pflegeperson das Kindeswohl nicht gefährdet.
+
 # § 1697 – (weggefallen)
 
 \-
 
 # § 1697a – Kindeswohlprinzip
 
-Soweit nichts anderes bestimmt ist, trifft das Gericht in Verfahren über die in diesem Titel geregelten Angelegenheiten diejenige Entscheidung, die unter Berücksichtigung der tatsächlichen Gegebenheiten und Möglichkeiten sowie der berechtigten Interessen der Beteiligten dem Wohl des Kindes am besten entspricht.
+(1) Soweit nichts anderes bestimmt ist, trifft das Gericht in Verfahren über die in diesem Titel geregelten Angelegenheiten diejenige Entscheidung, die unter Berücksichtigung der tatsächlichen Gegebenheiten und Möglichkeiten sowie der berechtigten Interessen der Beteiligten dem Wohl des Kindes am besten entspricht.
+
+(2) Lebt das Kind in Familienpflege, so hat das Gericht, soweit nichts anderes bestimmt ist, in Verfahren über die in diesem Titel geregelten Angelegenheiten auch zu berücksichtigen, ob und inwieweit sich innerhalb eines im Hinblick auf die Entwicklung des Kindes vertretbaren Zeitraums die Erziehungsverhältnisse bei den Eltern derart verbessert haben, dass diese das Kind selbst erziehen können. Liegen die Voraussetzungen des § 1632 Absatz 4 Satz 2 Nummer 1 vor, so hat das Gericht bei seiner Entscheidung auch das Bedürfnis des Kindes nach kontinuierlichen und stabilen Lebensverhältnissen zu berücksichtigen. Die Sätze 1 und 2 gelten entsprechend, wenn das Kind im Rahmen einer Hilfe nach § 34 oder 35a Absatz 2 Nummer 4 des Achten Buches Sozialgesetzbuch erzogen und betreut wird.
 
 # § 1698 – Herausgabe des Kindesvermögens; Rechnungslegung
 
@@ -13109,7 +13117,7 @@ Steht die Sorge für die Person und die Sorge für das Vermögen des Mündels ve
 
 # § 1800 – Umfang der Personensorge
 
-Das Recht und die Pflicht des Vormunds, für die Person des Mündels zu sorgen, bestimmen sich nach §§ 1631 bis 1632. Der Vormund hat die Pflege und Erziehung des Mündels persönlich zu fördern und zu gewährleisten.
+Das Recht und die Pflicht des Vormunds, für die Person des Mündels zu sorgen, bestimmen sich nach §§ 1631 bis 1632 Absatz 4 Satz 1. Der Vormund hat die Pflege und Erziehung des Mündels persönlich zu fördern und zu gewährleisten.
 
 # § 1801 – Religiöse Erziehung
 

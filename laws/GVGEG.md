@@ -163,22 +163,6 @@ Die Übermittlung personenbezogener Daten ist ferner zulässig, wenn die Kenntni
 
 4. zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer anderen Person oder
 
-5. zur Abwehr einer erheblichen Gefährdung Minderjähriger
-
-erforderlich ist.
-
-# § 17
-
-Die Übermittlung personenbezogener Daten ist ferner zulässig, wenn die Kenntnis der Daten aus der Sicht der übermittelnden Stelle
-
-1. zur Verfolgung von Straftaten oder Ordnungswidrigkeiten,
-
-2. für ein Verfahren der internationalen Rechtshilfe,
-
-3. zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer Gefahr für die öffentliche Sicherheit,
-
-4. zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer anderen Person oder
-
 5. zur Prüfung gewichtiger Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder Jugendlichen
 
 erforderlich ist.

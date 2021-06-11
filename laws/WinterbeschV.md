@@ -17,11 +17,9 @@ Auf Grund des § 182 Abs. 3 in Verbindung mit Abs. 4 und des § 357 Abs. 1 des D
 
 4. des Garten- und Landschaftsbaus (§ 1 Abs. 4 der Baubetriebe-Verordnung)
 
-erhalten entsprechend bestehenden Vereinbarungen der Tarifvertragsparteien ergänzende Leistungen nach § 102 des Dritten Buches Sozialgesetzbuch.
+erhalten entsprechend bestehenden Vereinbarungen der Tarifvertragsparteien ergänzende Leistungen nach § 102 Absatz 2 bis 4 des Dritten Buches Sozialgesetzbuch.
 
-(2) In Betrieben nach Absatz 1 Nr. 1, 3 und 4 werden ergänzende Leistungen nach § 102 Absatz 2 bis 4 des Dritten Buches Sozialgesetzbuch gewährt. Das Zuschuss-Wintergeld beträgt 2,50 Euro je Stunde.
-
-(3) In Betrieben nach Absatz 1 Nr. 2 werden ergänzende Leistungen nach § 102 Absatz 2 und 3 des Dritten Buches Sozialgesetzbuch gewährt. Das Zuschuss-Wintergeld beträgt 1,03 Euro je Stunde.
+(2) Das Zuschuss-Wintergeld beträgt 2,50 Euro je Stunde.
 
 # § 2 – Umlage
 
@@ -75,7 +73,7 @@ Die Bundesagentur für Arbeit (Bundesagentur) gibt im Bundesanzeiger bekannt, ü
 
 (3) In Betrieben nach § 1 Absatz 1 Nummer 1
 
-1. tritt an die Stelle der in Absatz 1 genannten Fälligkeit der 20. des Monats, der dem Monat folgt, für den das Arbeitsentgelt zu zahlen ist;
+1. tritt an die Stelle der in Absatz 1 genannten Fälligkeit der 28. des Monats, der dem Monat folgt, für den das Arbeitsentgelt zu zahlen ist;
 
 2. können Umlagebeträge in Abrechnungsintervallen bis zu längstens sechs Monaten gezahlt werden, wenn von dem umlagepflichtigen Arbeitgeber im Rahmen der Beitragsentrichtung zu den Einzugsstellen längere Abrechnungsintervalle in Anspruch genommen werden; in diesen Fällen tritt an die Stelle der in Nummer 1 genannten Fälligkeit der Zahlung die für die Beitragsentrichtung zu den Einzugsstellen sich ergebende Fälligkeit; können längere Abrechnungsintervalle vom Arbeitgeber gegenüber den Einzugsstellen nicht mehr in Anspruch genommen werden, gilt wieder die Fälligkeit nach Nummer 1.
 
@@ -111,7 +109,7 @@ Die Bundesagentur für Arbeit (Bundesagentur) gibt im Bundesanzeiger bekannt, ü
 
 (2) Sie werden für diese Wirtschaftszweige im Verhältnis der Anteile an den Ausgaben getrennt festgestellt.
 
-(3) Im Jahr 2006 werden von Betrieben nach § 1 Abs. 1 Nr. 1 die anteilig zu den Ausgaben für die ergänzenden Leistungen nach § 102 des Dritten Buches Sozialgesetzbuch berechneten Verwaltungskosten bis zu einer Höhe von 24 Millionen Euro erstattet; ab dem Jahr 2007 werden anteilige Verwaltungskosten bis maximal 17,5 Millionen Euro erstattet.
+(3) Von den Betrieben nach § 1 Absatz 1 Nummer 1 werden die anteilig zu den Ausgaben für die ergänzenden Leistungen nach § 102 des Dritten Buches Sozialgesetzbuch berechneten Verwaltungskosten bis zu einer Höhe von maximal 17,5 Millionen Euro erstattet.
 
 # § 10 – Inkrafttreten, Außerkrafttreten
 

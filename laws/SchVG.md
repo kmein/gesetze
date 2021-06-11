@@ -11,7 +11,9 @@
 
 # § 2 – Anleihebedingungen
 
-Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und Pflichten des Schuldners und der Gläubiger (Anleihebedingungen) müssen sich vorbehaltlich von Satz 2 aus der Urkunde ergeben. Ist die Urkunde nicht zum Umlauf bestimmt, kann in ihr auch auf außerhalb der Urkunde niedergelegte Anleihebedingungen Bezug genommen werden. Änderungen des Inhalts der Urkunde oder der Anleihebedingungen nach Abschnitt 2 dieses Gesetzes werden erst wirksam, wenn sie in der Urkunde oder in den Anleihebedingungen vollzogen worden sind.
+(1) Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und Pflichten des Schuldners und der Gläubiger (Anleihebedingungen) müssen sich vorbehaltlich von Satz 2 aus der Urkunde ergeben. Ist die Urkunde nicht zum Umlauf bestimmt, kann in ihr auch auf außerhalb der Urkunde niedergelegte Anleihebedingungen Bezug genommen werden. Änderungen des Inhalts der Urkunde oder der Anleihebedingungen nach Abschnitt 2 dieses Gesetzes werden erst wirksam, wenn sie in der Urkunde oder in den Anleihebedingungen vollzogen worden sind.
+
+(2) Bei einer elektronisch begebenen Schuldverschreibung müssen die Anleihebedingungen bei der registerführenden Stelle des Wertpapierregisters, in dem die Schuldverschreibung eingetragen ist, zugänglich sein. Änderungen des Inhalts der Anleihebedingungen nach Abschnitt 2 dieses Gesetzes werden erst wirksam, wenn sie in den bei der registerführenden Stelle zugänglichen Anleihebedingungen vollzogen worden sind.
 
 # § 3 – Transparenz des Leistungsversprechens
 
@@ -115,7 +117,7 @@ muss den Gläubigern vor ihrer Bestellung zum gemeinsamen Vertreter die maßgebl
 
 (2) Sehen die Anleihebedingungen vor, dass die Teilnahme an der Gläubigerversammlung oder die Ausübung der Stimmrechte davon abhängig ist, dass sich die Gläubiger vor der Versammlung anmelden, so tritt für die Berechnung der Einberufungsfrist an die Stelle des Tages der Versammlung der Tag, bis zu dessen Ablauf sich die Gläubiger vor der Versammlung anmelden müssen. Die Anmeldung muss unter der in der Bekanntmachung der Einberufung mitgeteilten Adresse spätestens am dritten Tag vor der Gläubigerversammlung zugehen.
 
-(3) Die Anleihebedingungen können vorsehen, wie die Berechtigung zur Teilnahme an der Gläubigerversammlung nachzuweisen ist. Sofern die Anleihebedingungen nichts anderes bestimmen, reicht bei Schuldverschreibungen, die in einer Sammelurkunde verbrieft sind, ein in Textform erstellter besonderer Nachweis des depotführenden Instituts aus.
+(3) Die Anleihebedingungen können vorsehen, wie die Berechtigung zur Teilnahme an der Gläubigerversammlung nachzuweisen ist. Sofern die Anleihebedingungen nichts anderes bestimmen, reicht bei Schuldverschreibungen, die in einer Sammelurkunde verbrieft sind, oder bei elektronisch begebenen Schuldverschreibungen in Form einer Sammeleintragung gemäß § 8 Absatz 1 des Gesetzes über elektronische Wertpapiere ein in Textform erstellter besonderer Nachweis des depotführenden Instituts aus.
 
 # § 11 – Ort der Gläubigerversammlung
 
@@ -211,7 +213,9 @@ Die Gläubigerversammlung soll bei einem Schuldner mit Sitz im Inland am Sitz de
 
 (1) Beschlüsse der Gläubigerversammlung, durch welche der Inhalt der Anleihebedingungen abgeändert oder ergänzt wird, sind in der Weise zu vollziehen, dass die maßgebliche Sammelurkunde ergänzt oder geändert wird. Im Fall der Verwahrung der Sammelkurkunde durch eine Wertpapiersammelbank hat der Versammlungs- oder Abstimmungsleiter dazu den in der Niederschrift dokumentierten Beschlussinhalt an die Wertpapiersammelbank zu übermitteln mit dem Ersuchen, die eingereichten Dokumente den vorhandenen Dokumenten in geeigneter Form beizufügen. Er hat gegenüber der Wertpapiersammelbank zu versichern, dass der Beschluss vollzogen werden darf.
 
-(2) Der gemeinsame Vertreter darf von der ihm durch Beschluss erteilten Vollmacht oder Ermächtigung keinen Gebrauch machen, solange der zugrunde liegende Beschluss noch nicht vollzogen werden darf.
+(2) Bei einer elektronisch begebenen Schuldverschreibung sind Beschlüsse der Gläubigerversammlung, durch die der Inhalt der Anleihebedingungen abgeändert oder ergänzt wird, in der Weise zu vollziehen, dass die bei der registerführenden Stelle zugänglichen Anleihebedingungen, auf die die Eintragung im Wertpapierregister Bezug nimmt, ergänzt oder geändert werden. Tag und Uhrzeit der Änderung oder Ergänzung sind anzugeben. Der Versammlungs- oder Abstimmungsleiter hat dazu den in der Niederschrift dokumentierten Beschlussinhalt an die registerführende Stelle zu übermitteln mit dem Ersuchen, die eingereichten Dokumente den vorhandenen Dokumenten in geeigneter Form beizufügen. Er hat gegenüber der registerführenden Stelle zu versichern, dass der Beschluss vollzogen werden darf.
+
+(3) Der gemeinsame Vertreter darf von der ihm durch Beschluss erteilten Vollmacht oder Ermächtigung keinen Gebrauch machen, solange der zugrunde liegende Beschluss noch nicht vollzogen werden darf.
 
 # § 22 – Geltung für Mitverpflichtete
 

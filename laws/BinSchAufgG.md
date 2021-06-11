@@ -33,7 +33,7 @@
 
 3. einer juristischen Person oder Personenvereinigung gehört, die ihren Sitz nicht in einem Mitgliedstaat der Europäischen Union hat.
 
-Satz 1 gilt auch, wenn an Stelle des Eigentümers ein Ausrüster die Voraussetzungen der Nummer 2 oder 3 erfüllt ohne Rücksicht darauf, ob für das Wasserfahrzeug eine Eintragung nach Nummer 1 vorliegt. Satz 1 Nummer 3 gilt trotz eines Sitzes einer juristischen Person oder Personenvereinigung in einem Mitgliedstaat der Europäischen Union, wenn
+Satz 1 gilt nicht für Seeschiffe auf Seeschifffahrtsstraßen. Satz 1 gilt auch, wenn an Stelle des Eigentümers ein Ausrüster die Voraussetzungen der Nummer 2 oder 3 erfüllt ohne Rücksicht darauf, ob für das Wasserfahrzeug eine Eintragung nach Nummer 1 vorliegt. Satz 1 Nummer 3 gilt trotz eines Sitzes einer juristischen Person oder Personenvereinigung in einem Mitgliedstaat der Europäischen Union, wenn
 
 1. natürliche Personen, die nicht Angehörige eines Mitgliedstaates der Europäischen Union sind, oder
 
@@ -49,7 +49,7 @@ unmittelbar oder mittelbar über die willensbestimmende Mehrheit der Anteile, de
 
 2. für Wasserfahrzeuge, die nach § 10 Abs. 3 der Schiffsregisterordnung keiner Eintragung in das Schiffsregister bedürfen,
 
-3. soweit sich dies aus zwischenstaatlichen Vereinbarungen, insbesondere aus der Revidierten Rheinschifffahrtsakte oder aus Rechtsvorschriften zwischenstaatlicher Einrichtungen, denen der Bund nach Artikel 24 des Grundgesetzes Hoheitsrechte übertragen hat, ergibt.
+3. soweit sich dies aus zwischenstaatlichen Vereinbarungen, insbesondere aus der Revidierten Rheinschifffahrtsakte, oder aus Rechtsvorschriften zwischenstaatlicher Einrichtungen, denen der Bund nach Artikel 24 des Grundgesetzes Hoheitsrechte übertragen hat, ergibt.
 
 (3) Über die Erlaubnis entscheidet auf Antrag des Eigentümers oder des Ausrüsters das Bundesministerium für Verkehr und digitale Infrastruktur. Die Erlaubnis kann auf einzelne Verkehrsarten, Güterarten, Gütermengen, Verkehrsrelationen oder auf andere Weise beschränkt werden. Sie kann insbesondere versagt werden, soweit die Gegenseitigkeit nicht gewährleistet ist oder das Befahren Belange der Bundesrepublik Deutschland beeinträchtigt. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Befugnis zur Erteilung der Erlaubnis auf die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes übertragen.
 
@@ -87,7 +87,13 @@ b) die auf Wasserfahrzeugen, Schwimmkörpern und schwimmenden Anlagen einzubauen
 
 7. die Anforderungen an die Befähigung und Eignung der Binnenlotsen sowie die Ausübung ihrer Tätigkeit,
 
-8. die Voraussetzungen für die Tätigkeit der Besatzungsmitglieder an Bord auch unter Berücksichtigung von Berufsausbildung und Arbeitsschutz.
+8. die Voraussetzungen für die Tätigkeit der Besatzungsmitglieder an Bord auch unter Berücksichtigung von Berufsausbildung und Arbeitsschutz,
+
+9. die Beauftragung von juristischen Personen des privaten oder öffentlichen Rechts mit der Abnahme von Prüfungen der Befähigung und Eignung der Besatzungsmitglieder,
+
+10. die Voraussetzungen und das Verfahren für die Zulassung von Ausbildungsprogrammen, den Inhalt von Ausbildungsprogrammen und den Widerruf der Zulassung von Ausbildungsprogrammen,
+
+11. die Voraussetzungen und das Verfahren für die Zulassung von Simulatoren, die insbesondere zur Beurteilung von Befähigungen eingesetzt werden.
 
 (2) Rechtsverordnungen nach Absatz 1 Nr. 1, 2 und 2a können auch erlassen werden
 
@@ -123,7 +129,7 @@ technischer Mängel eines Wasserfahrzeugs, einer Anlage, eines Instrumentes, ein
 
 eine Erlaubnis entzogen und eine Urkunde hierüber vorläufig sichergestellt oder eingezogen werden kann,
 
-2. die Befugnis zur Übermittlung von personenbezogenen Daten durch die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Polizeidienststellen der Länder oder durch andere mit Aufgaben nach § 1 Abs. 1 Nr. 1 bis 7 betraute Stellen eingeräumt werden, soweit dies erforderlich ist
+2. die Befugnis zur Übermittlung von personenbezogenen Daten durch die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die Polizeidienststellen der Länder oder durch andere mit Aufgaben nach § 1 Abs. 1 Nr. 1 bis 7 betraute Stellen eingeräumt werden, soweit dies erforderlich ist
 
 a) zur Erfüllung der Aufgaben nach § 1 Abs. 1 Nr. 1 bis 7,
 
@@ -133,7 +139,7 @@ c) für Entscheidungen über die Entziehung oder die Anordnung über das Ruhen e
 
 d) für die Durchsetzung der Entziehung oder der Anordnung über das Ruhen einer Erlaubnis.
 
-(7) Die Ermächtigungen nach Absatz 1 Nr. 2 bis 8 erstrecken sich nicht auf
+(7) Die Ermächtigungen nach Absatz 1 Nummer 2 bis 11 erstrecken sich nicht auf
 
 a) Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen der Bundeswehr,
 
@@ -172,6 +178,8 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann zur Umsetzung
 (1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 1 und 2 und den auf Grund des § 3 Absatz 1 bis 4, den §§ 3a und 3d erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen auch die Kosten für die zentrale Herstellung von Befähigungszeugnissen und die auf die Gebühren und Auslagen entfallende Umsatzsteuer.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+
+(3) Urkunden und sonstige schriftliche oder elektronische Dokumente können bis zur Zahlung der für sie geschuldeten Gebühren und Auslagen im Sinne des Absatzes 1 zurückbehalten oder an den Gebühren- und Auslagenschuldner unter Nachnahme des Gebühren- und Auslagenbetrags übersandt werden.
 
 # § 5 – Hamburger Hafen
 
@@ -309,7 +317,9 @@ Satz 1 gilt nicht für Wasserfahrzeuge der Bundeswehr und der Behörden des Bund
 
 1. Straftaten, die im Zusammenhang mit dem Schiffsverkehr oder sonst in einem auf die Schifffahrt bezogenen Zusammenhang mit Wasserfahrzeugen stehen,
 
-2. Straftaten nach § 100a Absatz 2 Strafprozessordnung.
+2. schweren Straftaten nach § 100a Absatz 2 Strafprozessordnung,
+
+3. Ordnungswidrigkeiten, die darauf beruhen, dass die in das Inland AIS Gerät eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs entsprechen.
 
 (7) Die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes dürfen die Daten nach den Absätzen 1 bis 5 zum Zwecke
 
@@ -351,7 +361,7 @@ durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- 
 
 # § 9 – Binnenschiffsbestandsdatei
 
-(1) Die vom Bundesministerium für Verkehr und digitale Infrastruktur zu bestimmende zuständige Stelle führt eine zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge einschließlich Schwimmkörper und schwimmender Anlagen sowie über deren Eigentümer und Ausrüster
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge einschließlich Schwimmkörper und schwimmender Anlagen sowie über deren Eigentümer und Ausrüster
 
 1. zur Feststellung des Bestandes der Binnenflotte und deren Zustandes,
 
@@ -379,9 +389,13 @@ c) bei Vereinigungen:
 
 ein benannter Vertreter mit den Angaben nach Buchstabe a und gegebenenfalls Name der Vereinigung, und, falls ein Ausrüsterverhältnis besteht, des Ausrüsters oder des bestellten Vertreters mit den Angaben nach Buchstabe a,
 
-2. Heimatort, Art, Name und Identifikationsnummer des Wasserfahrzeugs,
+2. Heimatort, Art, Name und einheitliche europäische Schiffsnummer des Wasserfahrzeugs,
 
-3. Bau- und Verwendungsmerkmale mit den dazu erforderlichen Eintragungen aus den Schiffspapieren, insbesondere den Fahrtauglichkeits- und Eichbescheinigungen sowie aus den Schiffsregistern einschließlich der Angaben über Eigentumsverhältnisse.
+3. Bau- und Verwendungsmerkmale mit den dazu erforderlichen Eintragungen aus den Schiffspapieren, insbesondere den Fahrtauglichkeits- und Eichbescheinigungen sowie aus den Schiffsregistern einschließlich der Angaben über Eigentumsverhältnisse,
+
+4. erteilte, erneuerte, ersetzte und entzogene Zeugnisse einschließlich abgelehnter und laufender Zeugnisanträge,
+
+5. Angaben über das Bordbuch: ausstellende Behörde, Ausstellungsdatum und Nummer des Bordbuchs.
 
 (3) Der Eigentümer oder, falls ein Ausrüsterverhältnis besteht, der Ausrüster oder der bestellte Vertreter hat der nach Absatz 1 zuständigen Stelle die nach Absatz 2 zu speichernden Daten sowie jede Änderung dieser Daten auch ohne Aufforderung unverzüglich, vollständig und wahrheitsgemäß mitzuteilen und auf Verlangen nachzuweisen.
 
@@ -421,7 +435,17 @@ an die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes o
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist, zulässig, soweit sie zur Abwehr von erheblichen Gefahren für die Sicherheit des Schiffsverkehrs oder bei begründetem Verdacht für die Verhinderung oder Verfolgung von Straftaten nach dem Kriegswaffenkontrollgesetz oder dem Betäubungsmittelgesetz, die jeweils mit Freiheitsstrafe nicht unter einem Jahr bedroht sind, erforderlich ist.
 
-(7) Die nach Absatz 1 zuständige Stelle übermittelt die in Anlage P des Anhangs II der Anlage zur Binnenschiffsuntersuchungsordnung genannten Angaben und alle Änderungen in automatisierter Form an die Europäische Kommission zur dortigen Einstellung in die von ihr geführte elektronische Schiffsdatenbank. Satz 1 gilt entsprechend, soweit die Europäische Kommission eine dritte Stelle mit der Führung der elektronischen Schiffsdatenbank beauftragt.
+(7) Die Generaldirektion Wasserstraßen und Schifffahrt übermittelt
+
+1. eine digitale Kopie aller Zeugnisse,
+
+2. die Angaben, die in Anlage 2 des Europäischen Standards der technischen Vorschriften für Binnenschiffe gemäß Anhang II der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates vom 14. September 2016 (ABl. L 252 vom 16.9.2016, S. 118; L 181 vom 5.7.2019, S. 123), die zuletzt durch die Delegierte Verordnung (EU) 2019/1668 vom 26. Juni 2019 (ABl. L 256 vom 7.10.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung genannt sind,
+
+3. die in Absatz 2 Nummer 4 und 5 genannten Angaben sowie
+
+4. alle Änderungen der genannten Daten
+
+in automatisierter Form an die Europäische Kommission zur Einstellung in die dort geführte elektronische Schiffsdatenbank. Satz 1 gilt entsprechend, soweit die Europäische Kommission eine dritte Stelle mit der Führung der elektronischen Schiffsdatenbank beauftragt.
 
 (8) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch fünf Jahre, nachdem das Wasserfahrzeug entweder untergegangen und als endgültig verloren anzusehen oder nachdem es ausbesserungsunfähig geworden ist.
 
@@ -495,7 +519,7 @@ an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und d
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist, zulässig, soweit sie zur Abwehr von erheblichen Gefahren für die Sicherheit des Schiffsverkehrs oder bei begründetem Verdacht für die Verhinderung oder Verfolgung von Straftaten nach dem Kriegswaffenkontrollgesetz in der Fassung der Bekanntmachung vom 22. November 1980 (BGBl. I S. 2506), zuletzt geändert durch Artikel 10 des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3186), in der jeweils geltenden Fassung, oder dem Betäubungsmittelgesetz, die jeweils mit Freiheitsstrafe nicht unter einem Jahr bedroht sind oder für die Entscheidung über die Entziehung einer Erlaubnis nach diesem Gesetz erforderlich ist.
 
-(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen auch übermittelt werden, wenn der Empfänger unter Angabe der Personalien der betroffenen Person schriftlich glaubhaft darlegt, dass
+(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen auch übermittelt werden, wenn der Empfänger unter Angabe der Personalien der betroffenen Person glaubhaft darlegt, dass
 
 1. er die Daten zur Geltendmachung, Sicherung oder Vollstreckung oder zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Schiffsverkehr oder zur Erhebung einer Privatklage wegen im Schiffsverkehr begangener Ordnungswidrigkeiten oder Straftaten benötigt,
 
@@ -565,7 +589,7 @@ ein benannter Vertreter mit den Angaben nach Buchstabe a und Name der Vereinigun
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist, zulässig, soweit sie zur Abwehr von erheblichen Gefahren für die Sicherheit des Schiffsverkehrs oder bei begründetem Verdacht für die Verhinderung oder Verfolgung von Straftaten nach dem Strafgesetzbuch oder nach dem Kriegswaffenkontrollgesetz oder dem Betäubungsmittelgesetz, die jeweils mit Freiheitsstrafe nicht unter einem Jahr bedroht sind, erforderlich ist.
 
-(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen auch übermittelt werden, wenn der Empfänger unter Angabe der Personalien der betroffenen Person schriftlich glaubhaft darlegt, dass
+(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen auch übermittelt werden, wenn der Empfänger unter Angabe der Personalien der betroffenen Person glaubhaft darlegt, dass
 
 1. er die Daten zur Geltendmachung, Sicherung oder Vollstreckung oder zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Schiffsverkehr oder zur Erhebung einer Privatklage wegen im Schiffsverkehr begangener Ordnungswidrigkeiten oder Straftaten benötigt,
 
@@ -583,29 +607,29 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 1. zur Feststellung, welche von ihr oder einer ihrer nachgeordneten Behörden erteilten Fahrerlaubnisse, Patente, Befähigungszeugnisse und sonstige Befähigungsnachweise in der Binnenschifffahrt eine Person besitzt,
 
-2. zur Feststellung, welche Fahrerlaubnisse, Patente, Befähigungszeugnisse und sonstige Berechtigungen ruhen, vorläufig oder endgültig entzogen wurden.
+2. zur Feststellung, welche Fahrerlaubnisse, Patente, Befähigungszeugnisse und sonstige Befähigungsnachweise ruhen, vorläufig oder endgültig entzogen wurden.
 
 (2) Zu den in Absatz 1 genannten Zwecken können folgende Daten erhoben, gespeichert und verwendet werden:
 
-1. Familienname, Geburtsname, Vornamen, Tag und Ort der Geburt, Anschrift,
+1. Familienname, Geburtsname, Vornamen, Tag und Ort der Geburt, Anschrift, Besatzungsmitgliedsnummer, Dokumentennummer, Lichtbild, E-Mail-Adresse und Telefonnummer des Inhabers,
 
-2. Art und Registernummer des Befähigungszeugnisses oder sonstigen Befähigungsnachweises, Datum der Erteilung und Gültigkeitsdauer,
+2. Art, Registernummer und Gültigkeitsstatus des Befähigungszeugnisses oder sonstigen Befähigungsnachweises, Ausstellungs- und Ablaufdatum, ausstellende Behörde,
 
-3. mit dem Befähigungszeugnis oder sonstigen Befähigungsnachweis verbundene Befugnisse einschließlich eventueller Beschränkungen,
+3. mit dem Befähigungszeugnis oder sonstigen Befähigungsnachweis verbundene Befugnisse einschließlich eventueller Beschränkungen oder Auflagen,
 
-4. früher erteilte Befähigungszeugnisse oder sonstige Befähigungsnachweise,
+4. früher erteilte, auch ausländische, Befähigungszeugnisse oder sonstige Befähigungsnachweise,
 
-5. vollziehbare Entscheidungen über Versagung der Erteilung, Entziehung, Widerruf, Rücknahme und Ruhen von Fahrerlaubnissen, Patenten oder sonstigen Berechtigungen,
+5. vollziehbare Entscheidungen über die Versagung der Prüfungszulassung oder der Erteilung, Entziehung, Widerruf, Rücknahme und Ruhen von Fahrerlaubnissen, Patenten oder sonstigen Berechtigungen,
 
 6. Sicherstellung und Verwahrung von Befähigungszeugnissen oder sonstigen Befähigungsnachweisen,
 
 7. Verbote oder Beschränkungen, ein Wasserfahrzeug zu führen.
 
-(3) Bei einer zentralen Herstellung der Befähigungszeugnisse oder sonstigen Befähigungsnachweise übermittelt die Generaldirektion Wasserstraßen und Schifffahrt dem Hersteller die hierfür notwendigen Daten. Der Hersteller darf ausschließlich zum Nachweis des Verbleibs der Befähigungszeugnisse alle Seriennummern der hergestellten Befähigungszeugnisse speichern. Die Speicherung der übrigen im Befähigungszeugnis enthaltenen Angaben ist unzulässig, soweit sie nicht ausschließlich und vorübergehend der Herstellung des Befähigungszeugnisses dient; die Angaben sind anschließend zu löschen.
+(3) Bei einer Herstellung der Befähigungszeugnisse oder sonstigen Befähigungsnachweise durch Dritte übermittelt die Generaldirektion Wasserstraßen und Schifffahrt dem Hersteller die hierfür erforderlichen Daten. Der Hersteller darf ausschließlich zum Nachweis des Verbleibs der Befähigungszeugnisse alle Seriennummern der hergestellten Befähigungszeugnisse erheben, speichern und verwenden. Die Erhebung, Speicherung und Verwendung der übrigen im Befähigungszeugnis enthaltenen Angaben ist unzulässig, wenn sie nicht ausschließlich und vorübergehend der Herstellung des Befähigungszeugnisses dient. Die in den Sätzen 2 und 3 genannten Angaben sind nach der Erhebung, Speicherung oder Verwendung vom Hersteller unverzüglich zu löschen. Die Sätze 1 bis 4 gelten auch für die Erzeugung eines Befähigungszeugnisses oder sonstigen Befähigungsnachweises in digitaler Form.
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 3 zu bestimmen.
 
-(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen, soweit dies erforderlich ist, zum Zwecke der
+(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen zum Zwecke der
 
 1. Durchführung von Verwaltungsaufgaben
 
@@ -613,45 +637,65 @@ a) nach diesem Gesetz oder auf Grund dieses Gesetzes oder des Seeaufgabengesetze
 
 b) auf Grund der Landeswassergesetze oder auf Grund dieser Gesetze erlassener Rechtsverordnungen in der am 31. Dezember 1999 geltenden Fassung,
 
-einschließlich der Feststellung der Tauglichkeit, Zuverlässigkeit und Befähigung einer Person, an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, Polizeidienststellen der Länder, die obersten Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder und die nach § 3a beliehenen Dritten,
+einschließlich der Feststellung der Tauglichkeit, Zuverlässigkeit und Befähigung einer Person, an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, Polizeidienststellen der Länder, die Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder, die mit der Abnahme von Prüfungen in der Binnenschifffahrt Beauftragten und die nach § 3a beliehenen Dritten,
 
 2. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, an Gerichte, Staatsanwaltschaften, das Bundeskriminalamt als Strafverfolgungsbehörde und die Polizeidienststellen der Länder,
 
 3. Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte, Staatsanwaltschaften, Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und die Polizeidienststellen der Länder oder
 
-4. Vollstreckung einer Anordnung über das Ruhen von Fahrerlaubnissen und Patenten, deren Entziehung, Rücknahme oder Widerruf an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und die Polizeidienststellen der Länder
+4. Vollstreckung einer Anordnung über das Ruhen von Fahrerlaubnissen, Patenten, Befähigungszeugnissen und sonstigen Befähigungsnachweisen, ihre Entziehung, ihre Rücknahme, ihren Widerruf oder ihr Ruhen an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und die Polizeidienststellen der Länder
 
-übermittelt werden.
+übermittelt werden, soweit dies im Einzelfall zur Erfüllung der in den Nummern 1 bis 4 genannten Aufgaben jeweils erforderlich ist.
 
-(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen an die hierfür zuständigen Stellen der Europäischen Union, internationaler Organisationen, anderer Staaten oder an über- oder zwischenstaatliche Stellen übermittelt werden, soweit dies
+(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen von der Generaldirektion Wasserstraßen und Schifffahrt in automatisierter Form an die Europäische Kommission zur Einstellung in die von ihr geführte elektronische Datenbank für Befähigungsnachweise und Schifferdienstbücher übermittelt werden.
 
-1. für Verwaltungsaufgaben auf dem Gebiet der Schifffahrt, einschließlich der ordnungsgemäßen Durchführung von Prüfungsverfahren oder Entziehung von Fahrerlaubnissen,
+(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen an die hierfür zuständigen Stellen der Europäischen Union sowie an internationale Organisationen und andere Staaten, bei denen ein angemessener Datenschutzstandard gewährleistet ist, übermittelt werden, soweit dies im jeweiligen Einzelfall erforderlich ist
+
+1. für Verwaltungsaufgaben auf dem Gebiet der Schifffahrt, einschließlich der ordnungsgemäßen Durchführung von Prüfungsverfahren oder Entziehung von Befähigungsnachweisen,
 
 2. zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet der Schifffahrt oder
 
-3. zur Verfolgung von Straftaten, die im Zusammenhang mit der Schifffahrt oder sonst mit Wasserfahrzeugen, Schiffspapieren, Fahrerlaubnissen oder Befähigungszeugnissen stehen,
+3. zur Verfolgung von Straftaten nach Maßgabe der Vorschriften für die internationale Rechtshilfe in Strafsachen.
 
-erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist, zulässig, soweit sie zur Abwehr von erheblichen Gefahren für die Sicherheit des Schiffsverkehrs oder bei begründetem Verdacht für die Verhinderung oder Verfolgung von Straftaten nach dem Strafgesetzbuch oder nach dem Kriegswaffenkontrollgesetz oder dem Betäubungsmittelgesetz, die jeweils mit Freiheitsstrafe nicht unter einem Jahr bedroht sind, oder für die Entscheidung über die Entziehung einer Fahrerlaubnis erforderlich ist.
+Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie übermittelt worden sind.
 
-(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch, wenn die zugrunde liegende Fahrerlaubnis seit mehr als drei Jahren nicht mehr besteht und kein Ruhen einer weiteren Fahrerlaubnis angeordnet wurde.
+(8) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind unverzüglich zu löschen, sobald sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch,
 
-(8) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und in den bestehenden regionalen Registern gespeichert und genutzt werden. Die Absätze 3 bis 7 gelten entsprechend.
+1. wenn das Befähigungszeugnis zurückgegeben wird,
+
+2. wenn eine amtliche Mitteilung über den Tod des Befähigungszeugnisinhabers eingeht oder
+
+3. wenn die letzte Fahrerlaubnis, das letzte Patent oder Befähigungszeugnis oder der letzte sonstige Befähigungsnachweis eines Inhabers seit mehr als fünf Jahren nicht mehr gültig ist und kein Entzug oder Ruhen einer weiteren Fahrerlaubnis, eines weiteren Patents oder Befähigungszeugnisses oder eines weiteren sonstigen Befähigungsnachweises angeordnet wurde.
+
+(9) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und in den regionalen Registern gespeichert und verwendet werden, die in den Standorten der Generaldirektion Wasserstraßen und Schifffahrt geführt werden. Die Absätze 3 bis 8 gelten bis zur Errichtung der Datei nach Absatz 1 für die regionalen Register entsprechend. Die in den Standorten der Generaldirektion Wasserstraßen und Schifffahrt geführten Dateien sind am Tag der Errichtung der Datei nach Absatz 1 unverzüglich zu löschen.
 
 # § 14 – Datei über Schifferdienstbücher
 
-(1) Die vom Bundesministerium für Verkehr und digitale Infrastruktur zu bestimmende zuständige Stelle führt eine Datei über die von den Wasserstraßen- und Schifffahrtsämtern ausgestellten Schifferdienstbücher zur Erteilung von Auskünften für die Prüfung der Tauglichkeit und Befähigung einer in der Schifffahrt tätigen Person.
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine Datei über die von den Wasserstraßen- und Schifffahrtsämtern ausgestellten Schifferdienstbücher zur Erteilung von Auskünften für die Prüfung der Tauglichkeit und Befähigung einer in der Schifffahrt tätigen Person.
 
-(2) Zu dem in Absatz 1 genannten Zweck kann die in Absatz 1 genannte Stelle folgende Daten verarbeiten:
+(2) Zu dem in Absatz 1 genannten Zweck kann die Generaldirektion Wasserstraßen und Schifffahrt folgende Daten erheben, speichern und verwenden:
 
-1. Familienname, Geburtsname, Vornamen, Tag und Ort der Geburt, Anschrift,
+1. Familienname, Geburtsname, Vornamen, Tag und Ort der Geburt, Anschrift, Besatzungsmitgliedsnummer, Dokumentennummer, Lichtbild, E-Mail-Adresse und Telefonnummer des Inhabers,
 
-2. Angaben über das Schifferdienstbuch: ausstellende Behörde, Ausstellungsdatum und Nummer des Schifferdienstbuchs, Tauglichkeit und Befähigung des Inhabers, Gültigkeitsvermerke.
+2. Angaben über das Schifferdienstbuch: ausstellende Behörde, Ausstellungs- und Ablaufdatum, Nummer des Schifferdienstbuchs, Tauglichkeit und Befähigung des Inhabers, Gültigkeitsvermerke.
 
-(3) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 in den bestehenden Registern der Wasserstraßen- und Schifffahrtsämter erhoben, gespeichert und verwendet werden. Nach der Errichtung der Datei nach Absatz 1 übermitteln die Wasserstraßen- und Schifffahrtsämter die Daten nach Absatz 2 unverzüglich an die nach Absatz 1 genannte Stelle und löschen die Daten aus den bei ihnen bestehenden Registern unverzüglich.
+(3) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen, soweit dies zum Zwecke der Durchführung von Verwaltungsaufgaben nach diesem Gesetz, auf Grund dieses Gesetzes erlassener Rechtsvorschriften oder zur Verfolgung von Straftaten und Ordnungswidrigkeiten, die im Zusammenhang mit dem Schiffsverkehr stehen, im Einzelfall jeweils erforderlich ist, an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der Länder, die Polizeidienststellen der Länder und die mit der Abnahme von Prüfungen in der Binnenschifffahrt Beauftragten übermittelt werden.
 
-(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen, soweit dies zum Zwecke der Durchführung von Verwaltungsaufgaben nach diesem Gesetz, auf Grund dieses Gesetzes erlassener Rechtsvorschriften oder zur Verfolgung von Straftaten und Ordnungswidrigkeiten, die im Zusammenhang mit dem Schiffsverkehr stehen, erforderlich ist, an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und Polizeidienststellen der Länder übermittelt werden.
+(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen von der Generaldirektion Wasserstraßen und Schifffahrt in automatisierter Form an die Europäische Kommission zur dortigen Einstellung in die von ihr geführte elektronische Datenbank übermittelt werden.
 
-(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens aber mit der Rückgabe des Schifferdienstbuchs oder dem Eingang einer amtlichen Mitteilung über den Tod des Schifferdienstbuchinhabers.
+(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen an die hierfür zuständigen Stellen der Europäischen Union sowie an internationale Organisationen und andere Staaten, bei denen ein angemessener Datenschutzstandard gewährleistet ist, übermittelt werden, soweit dies im jeweiligen Einzelfall erforderlich ist
+
+1. für Verwaltungsaufgaben auf dem Gebiet der Schifffahrt, einschließlich der ordnungsgemäßen Durchführung von Prüfungsverfahren oder Entziehung von Schifferdienstbüchern,
+
+2. zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet der Schifffahrt oder
+
+3. zur Verfolgung von Straftaten nach Maßgabe der Vorschriften für die internationale Rechtshilfe in Strafsachen.
+
+Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie übermittelt worden sind.
+
+(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens aber mit der Rückgabe des Schifferdienstbuchs oder dem Eingang einer amtlichen Mitteilung über den Tod des Schifferdienstbuchinhabers.
+
+(7) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 in den bestehenden Registern der Wasserstraßen- und Schifffahrtsämter erhoben, gespeichert und verwendet werden. Für die Register nach Satz 1 gelten die Absätze 2 bis 6 bis zur Errichtung der Datei nach Absatz 1 entsprechend. Nach der Errichtung der Datei nach Absatz 1 übermitteln die Wasserstraßen- und Schifffahrtsämter die Daten nach Absatz 2 unverzüglich an die nach Absatz 1 genannte Stelle und löschen die Daten aus den bei ihnen bestehenden Registern unverzüglich.
 
 # § 15 – Allgemeine Verwaltungsvorschriften
 

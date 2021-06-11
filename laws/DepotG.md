@@ -3,7 +3,7 @@
  
 # § 1 – Allgemeine Vorschriften
 
-(1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe, Zwischenscheine, Zins-, Gewinnanteil- und Erneuerungsscheine, auf den Inhaber lautende oder durch Indossament übertragbare Schuldverschreibungen, ferner andere Wertpapiere, wenn diese vertretbar sind, mit Ausnahme von Banknoten und Papiergeld. Wertpapiere im Sinne dieses Gesetzes sind auch Namensschuldverschreibungen, soweit sie auf den Namen einer Wertpapiersammelbank ausgestellt wurden.
+(1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe, Zwischenscheine, Zins-, Gewinnanteil- und Erneuerungsscheine, auf den Inhaber lautende oder durch Indossament übertragbare Schuldverschreibungen, ferner andere Wertpapiere, wenn diese vertretbar sind, mit Ausnahme von Banknoten und Papiergeld. Wertpapiere im Sinne dieses Gesetzes sind auch Namensschuldverschreibungen, soweit sie auf den Namen einer Wertpapiersammelbank ausgestellt wurden. Wertpapiere im Sinne dieses Gesetzes sind auch elektronisch begebene Wertpapiere im Sinne des Gesetzes über elektronische Wertpapiere.
 
 (2) Verwahrer im Sinne dieses Gesetzes ist, wem im Betrieb seines Gewerbes Wertpapiere unverschlossen zur Verwahrung anvertraut werden.
 
@@ -51,7 +51,9 @@ Die Haftung der Wertpapiersammelbanken nach § 3 Abs. 2 Satz 1 für ein Verschul
 
 (1) Werden Wertpapiere in Sammelverwahrung genommen, so entsteht mit dem Zeitpunkt des Eingangs beim Sammelverwahrer für die bisherigen Eigentümer Miteigentum nach Bruchteilen an den zum Sammelbestand des Verwahrers gehörenden Wertpapieren derselben Art. Für die Bestimmung des Bruchteils ist der Wertpapiernennbetrag maßgebend, bei Wertpapieren ohne Nennbetrag die Stückzahl.
 
-(2) Der Sammelverwahrer kann aus dem Sammelbestand einem jeden der Hinterleger die diesem gebührende Menge ausliefern oder die ihm selbst gebührende Menge entnehmen, ohne daß er hierzu der Zustimmung der übrigen Beteiligten bedarf. In anderer Weise darf der Sammelverwahrer den Sammelbestand nicht verringern. Diese Vorschriften sind im Falle der Drittverwahrung auf Zwischenverwahrer sinngemäß anzuwenden.
+(2) Der Hinterleger kann zur Ausübung seiner Rechte jederzeit gegen einen angemessenen Aufwendungsersatz vom Verwahrer einen in Schriftform ausgestellten Auszug über den für den Hinterleger in Verwahrung genommenen Anteil am Sammelbestand verlangen (Depotbescheinigung zur Rechtsausübung). Der Verwahrer steht für die Richtigkeit seiner Depotbescheinigung zur Rechtsausübung ein. Wem die Depotbescheinigung zur Rechtsausübung den hinterlegten Anteil am Sammelbestand zuweist, gilt zum Zwecke der Beweisführung als sein Inhaber. Der Leistungsanspruch des Hinterlegers aus seinem Anteil am Sammelbestand ist von vornherein dahingehend beschränkt, dass er gegen die Leistung einen der Leistung entsprechenden Anteil am Sammelbestand auf den Aussteller überträgt.
+
+(3) Der Sammelverwahrer kann aus dem Sammelbestand einem jeden der Hinterleger die diesem gebührende Menge ausliefern oder die ihm selbst gebührende Menge entnehmen, ohne daß er hierzu der Zustimmung der übrigen Beteiligten bedarf. In anderer Weise darf der Sammelverwahrer den Sammelbestand nicht verringern. Diese Vorschriften sind im Falle der Drittverwahrung auf Zwischenverwahrer sinngemäß anzuwenden.
 
 # § 7 – Auslieferungsansprüche des Hinterlegers bei der Sammelverwahrung
 
@@ -61,7 +63,7 @@ Die Haftung der Wertpapiersammelbanken nach § 3 Abs. 2 Satz 1 für ein Verschul
 
 # § 8 – Ansprüche der Miteigentümer und sonstiger dinglich Berechtigter bei der Sammelverwahrung
 
-Die für Ansprüche des Hinterlegers geltenden Vorschriften der § 6 Abs. 2 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden Miteigentümers oder sonst dinglich Berechtigten anzuwenden.
+Die für Ansprüche des Hinterlegers geltenden Vorschriften von § 6 Absatz 2 und 3 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden Miteigentümers oder sonst dinglich Berechtigten anzuwenden.
 
 # § 9 – Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei der Sammelverwahrung
 
@@ -80,6 +82,12 @@ ersetzen.
 (2) Verwahrt eine Wertpapiersammelbank eine Sammelurkunde allein oder zusammen mit einzelnen Wertpapieren, die über Rechte der in der Sammelurkunde verbrieften Art ausgestellt sind, gelten die §§ 6 bis 9 sowie die sonstigen Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile sinngemäß, soweit nicht in Absatz 3 etwas anderes bestimmt ist.
 
 (3) Wird auf Grund der §§ 7 und 8 die Auslieferung von einzelnen Wertpapieren verlangt, so hat der Aussteller die Sammelurkunde insoweit durch einzelne Wertpapiere zu ersetzen, als dies für die Auslieferung erforderlich ist; während des zur Herstellung der einzelnen Wertpapiere erforderlichen Zeitraums darf die Wertpapiersammelbank die Auslieferung verweigern. Ist der Aussteller nach dem zugrunde liegenden Rechtsverhältnis nicht verpflichtet, an die Inhaber der in der Sammelurkunde verbrieften Rechte einzelne Wertpapiere auszugeben, kann auch von der Wertpapiersammelbank die Auslieferung von einzelnen Wertpapieren nicht verlangt werden.
+
+# § 9b – Elektronische Schuldverschreibungen in Sammeleintragung
+
+(1) Für elektronisch begebene Schuldverschreibungen auf den Inhaber, die in Form einer Sammeleintragung in einem elektronischen Wertpapierregister eingetragen sind und die vom Verwahrer auf einem Depotkonto des Hinterlegers verbucht werden, gelten die Vorschriften dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile sinngemäß, soweit nicht Absatz 2 etwas anderes bestimmt. Der Verwahrer darf Anteile an der elektronischen Schuldverschreibung in Sammeleintragung auf den von ihm geführten Depotkonten nur bis zur Höhe der auf ihn lautenden Sammeleintragung gutschreiben.
+
+(2) Wird auf Grund der §§ 7 und 8 die Auslieferung von einzelnen Wertpapieren verlangt, so hat der Verwahrer die Sammeleintragung im Wertpapierregister in Höhe des auf den Hinterleger entfallenden Anteils auf Kosten des Hinterlegers in eine Einzeleintragung überführen zu lassen, wenn nicht in den Emissionsbedingungen anderes geregelt ist.
 
 # § 10 – Tauschverwahrung
 
@@ -277,15 +285,13 @@ Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines Gewerbes We
 
 # § 34 – Depotunterschlagung
 
-(1) Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs, eigenen oder fremden Vorteils wegen
+Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs, eigenen oder fremden Vorteils wegen
 
 1. über ein Wertpapier der in § 1 Abs. 1 bezeichneten Art, das ihm als Verwahrer oder Pfandgläubiger anvertraut worden ist oder das er als Kommissionär für den Kommittenten im Besitz hat oder das er im Falle des § 31 für den Kunden im Besitz hat, rechtswidrig verfügt,
 
-2. einen Sammelbestand solcher Wertpapiere oder den Anteil an einem solchen Bestand dem § 6 Abs. 2 zuwider verringert oder darüber rechtswidrig verfügt,
+2. einen Sammelbestand solcher Wertpapiere oder den Anteil an einem solchen Bestand dem § 6 Absatz 3 Satz 2 zuwider verringert oder darüber rechtswidrig verfügt,
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
-
-(2) (weggefallen)
 
 # § 35 – Unwahre Angaben über das Eigentum
 
