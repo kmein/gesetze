@@ -113,7 +113,7 @@ ein Unternehmen, das Personen im grenzüberschreitenden Eisenbahn-, Bus-, Flug- 
 
 15. Zwischenaufenthalt
 
-Aufenthalte, die die übliche Zeitdauer notwendiger Halte zum Beispiel zur Rast oder für Tankvorgänge nicht überschreiten; Umsteigezeiten an einem Flughafen gelten nicht als Zwischenaufenthalt,
+Aufenthalte, die die übliche Zeitdauer notwendiger Halte zum Beispiel zur Rast oder für Tankvorgänge überschreiten; Umsteigezeiten an einem Flughafen gelten nicht als Zwischenaufenthalt,
 
 16. Schengen-Staat
 
@@ -153,7 +153,7 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 
 (2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Bei Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Hochinzidenzgebiet eingestuftem Gebiet aufgehalten haben, darf die zugrunde liegende Testung frühestens fünf Tage nach der Einreise erfolgt sein. Die Absonderung nach Absatz 1 Satz 1 wird für die Dauer, die zur Durchführung eines Tests erforderlich ist, ausgesetzt. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage, Satz 2 findet keine Anwendung.
 
-(3) Diese Vorschrift ist längstens bis zum 30. Juni 2021 anzuwenden.
+(3) Diese Vorschrift ist längstens bis zum 28. Juli 2021 anzuwenden.
 
 (+++ § 4: Zur Nichtgeltung vgl. § 6 Abs. 1 +++)  
 (+++ § 4: Zur Nichtgeltung vgl. § 6 Abs. 2 +++)
@@ -204,7 +204,7 @@ a) aufgrund des Besuchs von Verwandten ersten Grades, des nicht dem gleichen Hau
 
 b) hochrangige Mitglieder des diplomatischen oder konsularischen Dienstes, von Volksvertretungen oder Regierungen sind.
 
-Satz 1 Nummer 8 bis 11 gilt nicht für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben. Satz 1 Nummer 7 gilt mit der Maßgabe, dass die Tätigkeit für die Aufrechterhaltung betrieblicher Abläufe dringend erforderlich und unabdingbar ist. Satz 1 Nummer 3 gilt nicht bei Aufenthalten von mehr als 72 Stunden, wenn sich das Transportpersonal zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten hat.
+Satz 1 Nummer 8 bis 11 gilt nicht für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, sofern es sich nicht um Personen handelt, die hochrangige Mitglieder des diplomatischen oder konsularischen Dienstes, von Volksvertretungen oder Regierungen sind, die sich weniger als 72 Stunden in der Bundesrepublik Deutschland oder in einem Risikogebiet aufhalten oder aufgehalten haben sowie strenge Schutz- und Hygienekonzepte eingehalten werden, insbesondere täglich eine Testung durchgeführt wird. Satz 1 Nummer 7 gilt mit der Maßgabe, dass die Tätigkeit für die Aufrechterhaltung betrieblicher Abläufe dringend erforderlich und unabdingbar ist. Satz 1 Nummer 3 gilt nicht bei Aufenthalten von mehr als 72 Stunden, wenn sich das Transportpersonal zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten hat.
 
 (2) § 4 gilt außerdem nicht für:
 
@@ -251,7 +251,7 @@ am Ort ihrer Unterbringung und ihrer Tätigkeit in den ersten zehn Tagen nach ih
 bb)  
 das Verlassen der Unterbringung nur zur Ausübung ihrer Tätigkeit gestattet ist, und
 
-cc) der Arbeitgeber die Arbeitsaufnahme vor ihrem Beginn bei der zuständigen Behörde anzeigt und die ergriffenen Maßnahmen nach den Buchstaben aa und bb dokumentiert.
+cc) der Arbeitgeber die Arbeitsaufnahme vor ihrem Beginn bei der zuständigen Behörde anzeigt und die ergriffenen Maßnahmen nach den Buchstaben aa und bb dokumentiert,
 
 2. Personen, die als Urlaubsrückkehrer aus einem Risikogebiet, das weder ein Hochinzidenzgebiet noch ein Virusvariantengebiet ist, zurückreisen, und die unmittelbar vor Rückreise in ihrem Urlaubsort einen Test mit negativem Ergebnis in Bezug auf eine Infektion mit dem Coronavirus SARS-CoV-2 durchgeführt haben, sofern
 
@@ -259,9 +259,9 @@ a) auf Grundlage einer Vereinbarung zwischen der Bundesrepublik Deutschland und 
 
 b) die Infektionslage in dem jeweiligen Risikogebiet einer Befreiung von der Pflicht nach § 4 nicht entgegensteht und
 
-c) das Auswärtige Amt nicht wegen eines erhöhten Infektionsrisikos eine Reisewarnung unter https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise für die betroffene Region ausgesprochen hat.
+c) das Auswärtige Amt nicht wegen eines erhöhten Infektionsrisikos eine Reisewarnung unter https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise für die betroffene Region ausgesprochen hat,
 
-3. Personen, für die die zuständige Behörde in begründeten Fällen auf Antrag weitere Ausnahmen bei Vorliegen eines triftigen Grundes erteilt hat. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, gilt Satz 1 nicht. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn innerhalb von zehn Tagen nach der Einreise in die Bundesrepublik Deutschland typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 bei ihnen auftreten.
+3. Personen, für die die zuständige Behörde in begründeten Fällen auf Antrag weitere Ausnahmen bei Vorliegen eines triftigen Grundes erteilt hat. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuftem Gebiet aufgehalten haben, gilt Satz 1 nicht, sofern es sich nicht um Personen handelt, die zur Vorbereitung, Teilnahme, Durchführung und Nachbereitung internationaler Sportveranstaltungen durch das jeweilige Organisationskomitee akkreditiert werden sowie strenge Schutz- und Hygienekonzepte eingehalten werden, insbesondere täglich eine Testung durchgeführt wird. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn innerhalb von zehn Tagen nach der Einreise in die Bundesrepublik Deutschland typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 bei ihnen auftreten.
 
 (3) § 5 Absatz 1 gilt mit folgenden Maßgaben:
 
@@ -341,7 +341,9 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 7. Beförderungen im Auftrag der EURATOM-Sicherheitsüberwachung, der Internationalen Atomenergie-Organisation sowie der Vereinten Nationen und ihrer Organisationen,
 
-8. Beförderungen von Mitgliedern einer ausländischen diplomatischen Mission oder einer konsularischen Vertretung, deren Ernennung und Ankunft dem Auswärtigen Amt notifiziert worden ist, sowie jeweils ihre sie begleitenden Ehepartner, Lebensgefährten und minderjährigen Kinder.
+8. Beförderungen von Mitgliedern einer ausländischen diplomatischen Mission oder einer konsularischen Vertretung, deren Ernennung und Ankunft dem Auswärtigen Amt notifiziert worden ist, sowie jeweils ihre sie begleitenden Ehepartner, Lebensgefährten und minderjährigen Kinder,
+
+9. Beförderungen von Personen, die zur Vorbereitung, Teilnahme, Durchführung und Nachbereitung internationaler Sportveranstaltungen durch das jeweilige Organisationskomitee akkreditiert werden.
 
 (3) Geplante Beförderungen nach Absatz 2 Nummer 1 sind dem Bundespolizeipräsidium durch den Beförderer mindestens drei Tage vor der geplanten Einreise in der Bundesrepublik Deutschland anzuzeigen. Dies gilt nicht für Beförderungen im Rahmen des öffentlichen Personennahverkehrs.
 
