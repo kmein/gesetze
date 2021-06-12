@@ -7,13 +7,7 @@ Auf Grund des § 13 Absatz 4 Satz 2 und 3 des Infektionsschutzgesetzes vom 20. J
 
 # § 1 – Pflicht zur Datenübermittlung
 
-(1) Laboratorien und die in § 23 Absatz 3 Satz 1 des Infektionsschutzgesetzes genannten Einrichtungen, die in der Bundesrepublik Deutschland Untersuchungsmaterial und Isolate von Krankheitserregern in Bezug auf das Coronavirus SARS-CoV-2 untersuchen und eine Vollgenomsequenzierung des Coronavirus SARS-CoV-2 durchführen (Untersuchungsstellen), sind verpflichtet, für jeden einzelnen Fall einer Vollgenomsequenzierung folgende Angaben zum Zweck der Überwachung der Verbreitung des Coronavirus SARS-CoV-2 (Coronavirussurveillance) in pseudonymisierter Form an das Robert Koch-Institut zu übermitteln:
-
-1. assemblierte Vollgenomsequenzen von Isolaten des SARS-CoV-2 in einer durch das Robert Koch-Institut definierten Form,
-
-2. Angabe des sequenzierungsbezogenen Pseudonyms.
-
-Sofern bei den Untersuchungsstellen vorhanden, sind auch folgende Angaben zu übermitteln:
+(1) Laboratorien und die in § 23 Absatz 3 Satz 1 des Infektionsschutzgesetzes genannten Einrichtungen, die in der Bundesrepublik Deutschland Untersuchungsmaterial und Isolate von Krankheitserregern in Bezug auf das Coronavirus SARS-CoV-2 untersuchen und eine Vollgenomsequenzierung des Coronavirus SARS-CoV-2 durchführen (Untersuchungsstellen), sind verpflichtet, für jeden einzelnen Fall einer Vollgenomsequenzierung assemblierte Vollgenomsequenzen von Isolaten des Coronavirus SARS-CoV-2 in einer durch das Robert Koch-Institut definierten Form zum Zweck der Überwachung der Verbreitung des Coronavirus SARS-CoV-2 (Coronavirussurveillance) in pseudonymisierter Form an das Robert Koch-Institut zu übermitteln. Sofern bei den Untersuchungsstellen vorhanden, sind auch folgende Angaben zu übermitteln:
 
 1. Angaben zum Einsender,
 
@@ -23,9 +17,9 @@ Sofern bei den Untersuchungsstellen vorhanden, sind auch folgende Angaben zu üb
 
 4. verwendete Sequenzierungstechnologie,
 
-5. Angaben über den Verdacht auf Mutationen aus der vorherigen Diagnostik.
+5. Angaben über das Vorliegen eines durch das Robert Koch-Institut unter http://www.rki.de/corsurv veröffentlichten epidemiologischen Anlasses für die Vollgenomsequenzierung.
 
-Untersuchungsstellen müssen zur Durchführung einer Vollgenomsequenzierung inklusive der bioinformatischen Auswertung qualifiziert sein; sie müssen unter Leitung eines Facharztes für Laboratoriumsmedizin oder Mikrobiologie, Virologie und Infektionsepidemiologie stehen oder Teil einer universitären oder außeruniversitären Forschungseinrichtung beziehungsweise mit einer solchen rechtlich und organisatorisch eng verbunden sein. Meldepflichten nach § 7 Absatz 1 Satz 1 Nummer 44a des Infektionsschutzgesetzes bleiben unberührt.
+Untersuchungsstellen müssen zur Durchführung einer Vollgenomsequenzierung inklusive der bioinformatischen Auswertung qualifiziert sein; sie müssen unter fachärztlicher Leitung stehen oder Teil einer universitären oder außeruniversitären Forschungseinrichtung beziehungsweise mit einer solchen rechtlich und organisatorisch eng verbunden sein. Meldepflichten nach § 7 Absatz 1 Satz 1 Nummer 44a des Infektionsschutzgesetzes, insbesondere die Pflicht zur Meldung der Zuordnungsmerkmale für weitere Untersuchungen und darunter des sequenzierungsbezogenen Pseudonyms nach § 9 Absatz 2 Satz 1 Nummer 3 des Infektionsschutzgesetzes, bleiben unberührt. Die Verpflichtung nach Satz 1 besteht nicht für Vollgenomsequenzierungen, die zu Testzwecken im Rahmen von Qualitätskontrollen, Leistungstests oder Ringversuchen durchgeführt wurden.
 
 (2) Für die Datenübermittlung nach Absatz 1 ist das elektronische Melde- und Informationssystem nach § 14 des Infektionsschutzgesetzes zu nutzen. Das Robert Koch-Institut bestimmt die technischen Übermittlungsstandards sowie das Verfahren zur Pseudonymisierung.
 
@@ -33,7 +27,7 @@ Untersuchungsstellen müssen zur Durchführung einer Vollgenomsequenzierung inkl
 
 # § 2 – Kostenerstattung
 
-(1) Die Untersuchungsstellen haben Anspruch auf eine Vergütung für die Übermittlung von Angaben nach § 1 Absatz 1 Satz 1 und 2. Die Vergütung beträgt 220 Euro für jede Übermittlung von Angaben zu einer durchgeführten Vollgenomsequenzierung. Sofern die Vollgenomsequenzierung bereits aus anderen Mitteln vergütet wird, beträgt die Vergütung in Abweichung von Satz 2 20 Euro. Hinsichtlich der Proben, die von der jeweiligen Untersuchungsstelle selbst im Rahmen der Diagnostik mittels Nukleinsäureamplifikationstechnik in Bezug auf das Coronavirus SARS-CoV-2 untersucht wurden, besteht der Anspruch nach Satz 1 höchstens in Bezug auf bis zu 5 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Wenn die Zahl der Neuinfektionen mit dem Coronavirus SARS-CoV-2 in der Bundesrepublik Deutschland in der Kalenderwoche vor Durchführung der Diagnostik 70 000 nicht überschritten hat, besteht der Anspruch nach Satz 1 in Abweichung von Satz 4 höchstens für bis zu 10 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Im Rahmen von durch Landesgesundheitsbehörden oder das Robert Koch-Institut durchgeführten oder unterstützten Ausbruchsuntersuchungen besteht der Anspruch auch über die in den Sätzen 4 und 5 genannte Anzahl von Übermittlungen hinaus.
+(1) Die Untersuchungsstellen haben Anspruch auf eine Vergütung für die Übermittlung von Angaben nach § 1 Absatz 1 Satz 1 und 2. Die Vergütung beträgt 220 Euro für jede Übermittlung von Angaben zu einer durchgeführten Vollgenomsequenzierung. Sofern die Vollgenomsequenzierung bereits aus anderen Mitteln vergütet wird, beträgt die Vergütung in Abweichung von Satz 2 20 Euro. Hinsichtlich der Proben, die von der jeweiligen Untersuchungsstelle selbst im Rahmen der Diagnostik mittels Nukleinsäureamplifikationstechnik in Bezug auf das Coronavirus SARS-CoV-2 untersucht wurden, besteht der Anspruch nach Satz 1 höchstens in Bezug auf bis zu 5 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Wenn die Zahl der Neuinfektionen mit dem Coronavirus SARS-CoV-2 in der Bundesrepublik Deutschland in der Kalenderwoche vor Durchführung der Diagnostik 70 000 nicht überschritten hat, besteht der Anspruch nach Satz 1 in Abweichung von Satz 4 höchstens für bis zu 10 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Im Rahmen von durch Landesgesundheitsbehörden oder das Robert Koch-Institut durchgeführten oder unterstützten Ausbruchsuntersuchungen besteht der Anspruch auch über die in den Sätzen 4 und 5 genannte Anzahl von Übermittlungen hinaus. Satz 6 gilt auch für Vollgenomsequenzierungen, die durch Gesundheitsämter aus einem epidemiologisch relevanten Anlass nach den unter http://www.rki.de/corsurv veröffentlichten Empfehlungen des Robert Koch-Instituts veranlasst werden.
 
 (2) Einrichtungen nach § 23 Absatz 3 Satz 1 des Infektionsschutzgesetzes sowie Laboratorien, die Untersuchungsmaterial und Isolate von Krankheitserregern in Bezug auf das Coronavirus SARS-CoV-2 im Rahmen der Diagnostik mittels Nukleinsäureamplifikationstechnik untersuchen, jedoch selbst nicht über die technischen Voraussetzungen oder ausreichende Kapazitäten zur Vollgenomsequenzierung verfügen (Einsender), können in jeder Woche bis zu 5 Prozent der von ihnen positiv auf das Coronavirus SARS-CoV-2 getesteten Proben an Untersuchungsstellen zur Vollgenomsequenzierung versenden; Absatz 1 Satz 5 und 6 gelten entsprechend. Bei einer Versendung nach Satz 1 hat der Einsender Anspruch auf Erstattung von Versandkosten in Höhe von 20 Euro für jede übersandte Probe. Der Einsender hat vor dem Versand der Probe die Zustimmung der Untersuchungsstelle einzuholen.
 
@@ -75,7 +69,9 @@ Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit 
 
 1. die Anzahl der Fälle, in denen Untersuchungsstellen und Einsender ihnen gegenüber Vergütung oder Versandkosten abgerechnet haben,
 
-2. die Höhe der Verwaltungskosten nach § 2 Absatz 6.
+2. die Höhe der Verwaltungskosten nach § 2 Absatz 6 und
+
+3. die Anzahl der Fälle, in denen Untersuchungsstellen und Einsender ihnen gegenüber eine Vergütung oder Versandkosten abgerechnet haben und in denen die Übermittlung von Angaben nach § 1 Absatz 1 Satz 1 und 2 auf durch Landesgesundheitsbehörden oder das Robert Koch-Institut durchgeführte oder unterstützte Ausbruchsuntersuchungen im Sinne des § 2 Absatz 1 Satz 6 oder durch Gesundheitsämter anlassbezogen veranlasste Vollgenomsequenzierungen im Sinne des § 2 Absatz 1 Satz 7 zurückzuführen sind.
 
 # § 5 – Evaluierung
 
@@ -83,4 +79,4 @@ Diese Verordnung wird insbesondere auf der Grundlage der aktuellen epidemiologis
 
 # § 6 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 19. Januar 2021 in Kraft und sie tritt am 31. Oktober 2021 außer Kraft. Eine Datenübermittlung gemäß § 1 Absatz 1 an das Robert Koch-Institut ist letztmalig zum 31. Juli 2021 zulässig.
+Diese Verordnung tritt am 19. Januar 2021 in Kraft und sie tritt am 31. März 2022 außer Kraft. Eine Datenübermittlung gemäß § 1 Absatz 1 an das Robert Koch-Institut ist letztmalig zum 31. Dezember 2021 zulässig.

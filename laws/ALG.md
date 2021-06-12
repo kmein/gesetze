@@ -1749,7 +1749,7 @@ Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetrie
 
 Gruppe 2:
 
-Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetriebliches Erwerbs- und Erwerbsersatzeinkommen von über mindestens fünf Sechsteln der Bezugsgröße des Jahres, auf das für das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen abzustellen ist, erzielt hat,
+Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetriebliches Erwerbs- und Erwerbsersatzeinkommen von mindestens fünf Sechsteln der Bezugsgröße des Jahres, auf das für das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen abzustellen ist, erzielt hat,
 
 Gruppe 3:
 

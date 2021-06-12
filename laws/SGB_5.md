@@ -946,7 +946,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (1) Ärztliche oder zahnärztliche Behandlung wird von Ärzten oder Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Abs. 3c etwas anderes bestimmt ist. Sind Hilfeleistungen anderer Personen erforderlich, dürfen sie nur erbracht werden, wenn sie vom Arzt (Zahnarzt) angeordnet und von ihm verantwortet werden.
 
-(2) Versicherte, die ärztliche, zahnärztliche oder psychotherapeutische Behandlung in Anspruch nehmen, haben dem Arzt, Zahnarzt oder Psychotherapeuten vor Beginn der Behandlung ihre elektronische Gesundheitskarte zum Nachweis der Berechtigung zur Inanspruchnahme von Leistungen auszuhändigen.
+(2) Versicherte, die ärztliche, zahnärztliche oder psychotherapeutische Behandlung in Anspruch nehmen, haben dem Arzt, Zahnarzt oder Psychotherapeuten vor Beginn der Behandlung ihre elektronische Gesundheitskarte zum Nachweis der Berechtigung zur Inanspruchnahme von Leistungen auszuhändigen. Ab dem 1. Januar 2024 kann der Versicherte den Nachweis nach Satz 1 auch durch eine digitale Identität nach § 291 Absatz 8 erbringen.
 
 (3) Für die Inanspruchnahme anderer Leistungen stellt die Krankenkasse den Versicherten Berechtigungsscheine aus, soweit es zweckmäßig ist. Der Berechtigungsschein ist vor der Inanspruchnahme der Leistung dem Leistungserbringer auszuhändigen.
 
@@ -1564,7 +1564,7 @@ Die Leistung bedarf bei der ersten Verordnung für eine Versicherte oder einen V
 
 # § 31a – Medikationsplan
 
-(1) Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung eines Medikationsplans in Papierform durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Das Nähere zu den Voraussetzungen des Anspruchs nach Satz 1 vereinbaren die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung teilnehmende Arzt ist verpflichtet, bei der Verordnung eines Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat, über diesen Anspruch zu informieren.
+(1) Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung eines Medikationsplans in Papierform sowie auf Erstellung eines elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Das Nähere zu den Voraussetzungen des Anspruchs nach Satz 1 vereinbaren die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung teilnehmende Arzt ist verpflichtet, bei der Verordnung eines Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat, über diesen Anspruch zu informieren.
 
 (2) In dem Medikationsplan sind mit Anwendungshinweisen zu dokumentieren
 
@@ -1576,7 +1576,7 @@ Die Leistung bedarf bei der ersten Verordnung für eine Versicherte oder einen V
 
 Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erläuterung der Inhalte des Medikationsplans Rechnung zu tragen.
 
-(3) Der Arzt nach Absatz 1 Satz 1 hat den Medikationsplan zu aktualisieren, sobald er die Medikation ändert oder er Kenntnis davon erlangt, dass eine anderweitige Änderung der Medikation eingetreten ist. Auf Wunsch des Versicherten hat die Apotheke bei Abgabe eines Arzneimittels eine insoweit erforderliche Aktualisierung des Medikationsplans vorzunehmen. Ab dem 1. Januar 2019 besteht der Anspruch auf Aktualisierung über den Anspruch nach Satz 1 hinaus gegenüber jedem an der vertragsärztlichen Versorgung teilnehmenden Arzt sowie nach Satz 2 gegenüber der abgebenden Apotheke, wenn der Versicherte gegenüber dem Arzt oder der abgebenden Apotheke den Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 erlaubt. Hierzu haben Apotheken sich bis zum 30. September 2020 an die Telematikinfrastruktur nach § 291a Absatz 7 Satz 1 anzuschließen. Die Aktualisierungen nach Satz 3 sind mittels der elektronischen Gesundheitskarte zu speichern, sofern der Versicherte dies wünscht.
+(3) Der Arzt nach Absatz 1 Satz 1 hat den Medikationsplan zu aktualisieren, sobald er die Medikation ändert oder er Kenntnis davon erlangt, dass eine anderweitige Änderung der Medikation eingetreten ist. Auf Wunsch des Versicherten hat die Apotheke bei Abgabe eines Arzneimittels eine insoweit erforderliche Aktualisierung des Medikationsplans vorzunehmen. Ab dem 1. Januar 2019 besteht der Anspruch auf Aktualisierung über den Anspruch nach Satz 1 hinaus gegenüber jedem an der vertragsärztlichen Versorgung teilnehmenden Arzt sowie nach Satz 2 gegenüber der abgebenden Apotheke, wenn der Versicherte gegenüber dem Arzt oder der abgebenden Apotheke den Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 erlaubt. Hierzu haben Apotheken sich bis zum 30. September 2020 an die Telematikinfrastruktur nach § 291a Absatz 7 Satz 1 anzuschließen. Die Aktualisierungen nach Satz 3 sind im elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 zu speichern, sofern der Versicherte dies wünscht.
 
 (3a) Bei der Angabe von Fertigarzneimitteln sind im Medikationsplan neben der Arzneimittelbezeichnung insbesondere auch die Wirkstoffbezeichnung, die Darreichungsform und die Wirkstärke des Arzneimittels anzugeben. Hierfür sind einheitliche Bezeichnungen zu verwenden, die in der Referenzdatenbank nach § 31b zur Verfügung gestellt werden.
 
@@ -1620,7 +1620,7 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 # § 32 – Heilmittel
 
-(1) Versicherte haben Anspruch auf Versorgung mit Heilmitteln, soweit sie nicht nach § 34 ausgeschlossen sind. Für nicht nach Satz 1 ausgeschlossene Heilmittel bleibt § 92 unberührt.
+(1) Versicherte haben Anspruch auf Versorgung mit Heilmitteln, soweit sie nicht nach § 34 ausgeschlossen sind. Ein Anspruch besteht auch auf Versorgung mit Heilmitteln, die telemedizinisch erbracht werden. Für nicht nach Satz 1 ausgeschlossene Heilmittel bleibt § 92 unberührt.
 
 (1a) Der Gemeinsame Bundesausschuss regelt in seiner Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 das Nähere zur Heilmittelversorgung von Versicherten mit langfristigem Behandlungsbedarf. Er hat insbesondere zu bestimmen, wann ein langfristiger Heilmittelbedarf vorliegt, und festzulegen, ob und inwieweit ein Genehmigungsverfahren durchzuführen ist. Ist in der Richtlinie ein Genehmigungsverfahren vorgesehen, so ist über die Anträge innerhalb von vier Wochen zu entscheiden; ansonsten gilt die Genehmigung nach Ablauf der Frist als erteilt. Soweit zur Entscheidung ergänzende Informationen des Antragstellers erforderlich sind, ist der Lauf der Frist bis zum Eingang dieser Informationen unterbrochen.
 
@@ -1677,6 +1677,10 @@ Für die Genehmigung nach Satz 2 Nummer 2 ist das Vorliegen der medizinischen In
 (3) Die Hersteller stellen den Versicherten digitale Gesundheitsanwendungen im Wege elektronischer Übertragung über öffentlich zugängliche Netze oder auf maschinell lesbaren Datenträgern zur Verfügung. Ist eine Übertragung oder Abgabe nach Satz 1 nicht möglich, können digitale Gesundheitsanwendungen auch über öffentlich zugängliche digitale Vertriebsplattformen zur Verfügung gestellt werden; in diesen Fällen erstattet die Krankenkasse dem Versicherten die tatsächlichen Kosten bis zur Höhe der Vergütungsbeträge nach § 134.
 
 (4) Leistungsansprüche nach anderen Vorschriften dieses Buches bleiben unberührt. Der Leistungsanspruch nach Absatz 1 besteht unabhängig davon, ob es sich bei der digitalen Gesundheitsanwendung um eine neue Untersuchungs- oder Behandlungsmethode handelt; es bedarf keiner Richtlinie nach § 135 Absatz 1 Satz 1. Ein Leistungsanspruch nach Absatz 1 auf digitale Gesundheitsanwendungen, die Leistungen enthalten, die nach dem Dritten Kapitel ausgeschlossen sind oder über die der Gemeinsame Bundesausschuss bereits eine ablehnende Entscheidung nach den §§ 92, 135 oder 137c getroffen hat, besteht nicht.
+
+(5) Vertragsärzte, Vertragszahnärzte und Vertragspsychotherapeuten dürfen Verordnungen von digitalen Gesundheitsanwendungen nicht bestimmten Leistungserbringern zuweisen. Vertragsärzte, Vertragszahnärzte und Vertragspsychotherapeuten dürfen mit Herstellern digitaler Gesundheitsanwendungen oder mit Personen, die sich mit der Behandlung von Krankheiten befassen, keine Rechtsgeschäfte vornehmen oder Absprachen treffen, die eine Zuweisung oder eine Übermittlung von Verordnungen von digitalen Gesundheitsanwendungen zum Gegenstand haben. Die Sätze 1 und 2 gelten nicht, soweit gesetzlich etwas anderes bestimmt ist oder aus medizinischen Gründen im Einzelfall ein anderes Vorgehen geboten ist. Die Sätze 1 bis 3 gelten auch für elektronische Verordnungen von digitalen Gesundheitsanwendungen.
+
+(6) Der Spitzenverband Bund der Krankenkassen legt über das Bundesministerium für Gesundheit dem Deutschen Bundestag jährlich, erstmals zum 31. Dezember 2021, einen Bericht vor, wie und in welchem Umfang den Versicherten Leistungen nach Absatz 1 zu Lasten seiner Mitglieder gewährt werden. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen über die erstatteten Leistungen sowie Art und Umfang der Übermittlung. Der Spitzenverband Bund der Krankenkassen veröffentlicht den Bericht barrierefrei im Internet. Das Bundesministerium für Gesundheit kann weitere Inhalte des Berichts in der Rechtsverordnung nach § 139e Absatz 9 festlegen.
 
 # § 34 – Ausgeschlossene Arznei-, Heil- und Hilfsmittel
 
@@ -2170,7 +2174,7 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 4. soweit und solange Versicherte Entgeltersatzleistungen, die ihrer Art nach den in Nummer 3 genannten Leistungen vergleichbar sind, von einem Träger der Sozialversicherung oder einer staatlichen Stelle im Ausland erhalten,
 
-5. solange die Arbeitsunfähigkeit der Krankenkasse nicht gemeldet wird; dies gilt nicht, wenn die Meldung innerhalb einer Woche nach Beginn der Arbeitsunfähigkeit oder die Übermittlung der Arbeitsunfähigkeitsdaten im elektronischen Verfahren nach § 295 Absatz 1 Satz 7 erfolgt,
+5. solange die Arbeitsunfähigkeit der Krankenkasse nicht gemeldet wird; dies gilt nicht, wenn die Meldung innerhalb einer Woche nach Beginn der Arbeitsunfähigkeit oder die Übermittlung der Arbeitsunfähigkeitsdaten im elektronischen Verfahren nach § 295 Absatz 1 Satz 10 erfolgt,
 
 6. soweit und solange für Zeiten einer Freistellung von der Arbeitsleistung (§ 7 Abs. 1a des Vierten Buches) eine Arbeitsleistung nicht geschuldet wird,
 
@@ -2670,7 +2674,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 # § 68c – Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
 
-(1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der vertragsärztlichen und der vertragszahnärztlichen Versorgung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen die Entwicklung digitaler Innovationen im Sinne des § 68a Absatz 1 und 2 fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der vertragsärztlichen und vertragszahnärztlichen Versorgung beitragen. Im Rahmen der Förderung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen digitale Innovationen in Zusammenarbeit mit Dritten im Sinne des § 68 Absatz 3 entwickeln oder von diesen entwickeln lassen.
+(1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der vertragsärztlichen und der vertragszahnärztlichen Versorgung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen die Entwicklung digitaler Innovationen im Sinne des § 68a Absatz 1 und 2 fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der vertragsärztlichen und vertragszahnärztlichen Versorgung beitragen. Im Rahmen der Förderung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen digitale Innovationen in Zusammenarbeit mit Dritten im Sinne des § 68a Absatz 3 Satz 2 entwickeln oder von diesen entwickeln lassen.
 
 (2) Um den Bedarf für eine Förderung digitaler Innovationen in der vertragsärztlichen und der vertragszahnärztlichen Versorgung und den möglichen Einfluss digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu ermitteln sowie die Auswirkungen digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu evaluieren, dürfen die Kassenärztlichen Vereinigungen die versichertenbezogenen Daten, die sie nach § 285 Absatz 1 rechtmäßig erhoben und gespeichert haben, im erforderlichen Umfang auswerten. Vor der Auswertung sind die Daten zu pseudonymisieren. Die Kassenärztlichen Vereinigungen haben die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken der Datenauswertung auch mit anonymisierten Daten entsprochen werden kann. Eine Übermittlung der Daten an Dritte im Sinne des Absatzes 1 ist ausgeschlossen.
 
@@ -2810,7 +2814,7 @@ Satz 1 Nummer 2 bis 4, 6, 10, 11 und 14 gilt nicht für Psychotherapeuten; Satz 
 
 (8) Zur Sicherung der wirtschaftlichen Verordnungsweise haben die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen sowie die Krankenkassen und ihre Verbände die Vertragsärzte auch vergleichend über preisgünstige verordnungsfähige Leistungen und Bezugsquellen, einschließlich der jeweiligen Preise und Entgelte zu informieren sowie nach dem allgemeinen anerkannten Stand der medizinischen Erkenntnisse Hinweise zu Indikation und therapeutischen Nutzen zu geben. Die Informationen und Hinweise für die Verordnung von Arznei-, Verband- und Heilmitteln erfolgen insbesondere auf der Grundlage der Hinweise nach § 92 Abs. 2 Satz 3, der Rahmenvorgaben nach § 84 Abs. 7 Satz 1 und der getroffenen Arzneimittelvereinbarungen nach § 84 Abs. 1. In den Informationen und Hinweisen sind Handelsbezeichnung, Indikationen und Preise sowie weitere für die Verordnung von Arzneimitteln bedeutsame Angaben insbesondere auf Grund der Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 in einer Weise anzugeben, die unmittelbar einen Vergleich ermöglichen; dafür können Arzneimittel ausgewählt werden, die einen maßgeblichen Anteil an der Versorgung der Versicherten im Indikationsgebiet haben. Die Kosten der Arzneimittel je Tagesdosis sind nach den Angaben der anatomisch-therapeutisch-chemischen Klassifikation anzugeben. Es gilt die vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrage des Bundesministeriums für Gesundheit herausgegebene Klassifikation in der jeweils gültigen Fassung. Die Übersicht ist für einen Stichtag zu erstellen und in geeigneten Zeitabständen, im Regelfall jährlich, zu aktualisieren.
 
-(9) Vertragsärzte dürfen für die Verordnung von Arzneimitteln, von Verbandmitteln und von Produkten, die gemäß den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 zu Lasten der gesetzlichen Krankenversicherung verordnet werden können, nur solche elektronischen Programme nutzen, die mindestens folgende Inhalte mit dem jeweils aktuellen Stand enthalten:
+(9) Vertragsärzte dürfen für die Verordnung von Arzneimitteln, von Verbandmitteln, von digitalen Gesundheitsanwendungen und von Produkten, die gemäß den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 zu Lasten der gesetzlichen Krankenversicherung verordnet werden können, nur solche elektronischen Programme nutzen, die mindestens folgende Inhalte mit dem jeweils aktuellen Stand enthalten:
 
 1. die Informationen nach Absatz 8 Satz 2 und 3,
 
@@ -2818,11 +2822,13 @@ Satz 1 Nummer 2 bis 4, 6, 10, 11 und 14 gilt nicht für Psychotherapeuten; Satz 
 
 3. die Informationen nach § 131 Absatz 4 Satz 2,
 
-4. die zur Erstellung und Aktualisierung des Medikationsplans nach § 31a und des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 notwendigen Funktionen und Informationen sowie
+4. die zur Erstellung und Aktualisierung des Medikationsplans nach § 31a und des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 notwendigen Funktionen und Informationen,
 
-5. die Informationen nach § 35a Absatz 3a Satz 1
+5. die Informationen nach § 35a Absatz 3a Satz 1 und
 
-und die von der Kassenärztlichen Bundesvereinigung für die vertragsärztliche Versorgung zugelassen sind. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere insbesondere zu den Mindestanforderungen der Informationen nach Satz 1 Nummer 5 zu regeln. Es kann in der Rechtsverordnung auch das Nähere zu den weiteren Anforderungen nach Satz 1 regeln. Es kann dabei Vorgaben zur Abbildung der für die vertragsärztliche Versorgung geltenden Regelungen zur Zweckmäßigkeit und Wirtschaftlichkeit der Verordnung von Arzneimitteln im Vergleich zu anderen Therapiemöglichkeiten machen. Es kann auch Vorgaben zu semantischen und technischen Voraussetzungen zur Interoperabilität machen. Weitere Einzelheiten sind in den Verträgen nach § 82 Absatz 1 zu vereinbaren. Die Vereinbarungen in den Verträgen nach § 82 Absatz 1 sind innerhalb von drei Monaten nach dem erstmaligen Inkrafttreten der Rechtsverordnung nach den Sätzen 2 bis 4 sowie nach dem jeweiligen Inkrafttreten einer Änderung der Rechtsverordnung anzupassen. Sie sind davon unabhängig in regelmäßigen Abständen zu überprüfen und bei Bedarf anzupassen.
+6. ab dem 1. Juli 2023 das Schulungsmaterial nach § 34 Absatz 1f Satz 2 des Arzneimittelgesetzes und die Informationen nach § 34 Absatz 1h Satz 3 des Arzneimittelgesetzes, auch in Verbindung mit § 39 Absatz 2e des Arzneimittelgesetzes oder § 39d Absatz 6 des Arzneimittelgesetzes
+
+und die von der Kassenärztlichen Bundesvereinigung für die vertragsärztliche Versorgung zugelassen sind. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere insbesondere zu den Mindestanforderungen der Informationen nach Satz 1 Nummer 5 zu regeln. Es kann in der Rechtsverordnung auch das Nähere zu den weiteren Anforderungen nach Satz 1 regeln. Es kann dabei Vorgaben zur Abbildung der für die vertragsärztliche Versorgung geltenden Regelungen zur Zweckmäßigkeit und Wirtschaftlichkeit der Verordnung von Arzneimitteln im Vergleich zu anderen Therapiemöglichkeiten machen. Es kann auch Vorgaben zu semantischen und technischen Voraussetzungen zur Interoperabilität machen. Weitere Einzelheiten sind in den Verträgen nach § 82 Absatz 1 zu vereinbaren. Die Vereinbarungen in den Verträgen nach § 82 Absatz 1 sind innerhalb von drei Monaten nach dem erstmaligen Inkrafttreten der Rechtsverordnung nach den Sätzen 2 bis 4 sowie nach dem jeweiligen Inkrafttreten einer Änderung der Rechtsverordnung anzupassen. Sie sind davon unabhängig in regelmäßigen Abständen zu überprüfen und bei Bedarf anzupassen. Auf die Verordnung von digitalen Gesundheitsanwendungen nach § 33a findet Satz 1 vor dem 1. Januar 2023 keine Anwendung.
 
 (10) Für die Verordnung von Heilmitteln dürfen Vertragsärzte ab dem 1. Januar 2017 nur solche elektronischen Programme nutzen, die die Informationen der Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 92 Absatz 6 und über besondere Verordnungsbedarfe nach § 106b Absatz 2 Satz 4 sowie die sich aus den Verträgen nach § 125a ergebenden Besonderheiten enthalten und die von der Kassenärztlichen Bundesvereinigung für die vertragsärztliche Versorgung zugelassen sind. Das Nähere ist in den Verträgen nach § 82 Absatz 1 zu vereinbaren.
 
@@ -2888,11 +2894,13 @@ Können arbeitsunfähige Versicherte nach ärztlicher Feststellung ihre bisherig
 
 1. Versicherten innerhalb einer Woche einen Behandlungstermin bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 zu vermitteln,
 
-2. Versicherte bei der Suche nach einem Hausarzt zu unterstützen, den sie nach § 76 Absatz 3 Satz 2 wählen möchten, und
+2. Versicherte bei der Suche nach einem Hausarzt zu unterstützen, den sie nach § 76 Absatz 3 Satz 2 wählen möchten,
 
-3. Versicherten spätestens zum 1. Januar 2020 in Akutfällen auf der Grundlage eines bundesweit einheitlichen, standardisierten Ersteinschätzungsverfahrens eine unmittelbare ärztliche Versorgung in der medizinisch gebotenen Versorgungsebene zu vermitteln.
+3. Versicherte bei der Suche nach einem Angebot zur Versorgung mit telemedizinischen Leistungen zu unterstützen und
 
-Für die Vermittlung von Behandlungsterminen bei einem Facharzt muss mit Ausnahme von Behandlungsterminen bei einem Augenarzt oder einem Frauenarzt und mit Ausnahme der Vermittlung in Akutfällen nach Satz 3 Nummer 3 eine Überweisung vorliegen; eine Überweisung muss auch in den Fällen des Satzes 11 Nummer 2 vorliegen. Die Wartezeit auf einen Behandlungstermin darf vier Wochen nicht überschreiten. Die Entfernung zwischen Wohnort des Versicherten und dem vermittelten Arzt muss zumutbar sein. Kann die Terminservicestelle keinen Behandlungstermin bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 innerhalb der Frist nach Satz 5 vermitteln, hat sie einen ambulanten Behandlungstermin in einem zugelassenen Krankenhaus anzubieten; Satz 3 Nummer 1 und die Sätze 4, 5 und 6 gelten entsprechend. Satz 7 gilt nicht bei verschiebbaren Routineuntersuchungen, sofern es sich nicht um termingebundene Gesundheitsuntersuchungen für Kinder handelt, und in Fällen von Bagatellerkrankungen sowie bei weiteren vergleichbaren Fällen. Für die ambulante Behandlung im Krankenhaus gelten die Bestimmungen über die vertragsärztliche Versorgung. In den Fällen von Satz 8 hat die Terminservicestelle einen Behandlungstermin bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 in einer angemessenen Frist zu vermitteln. Im Bundesmantelvertrag nach § 82 Absatz 1 sind insbesondere Regelungen zu treffen
+4. Versicherten spätestens zum 1. Januar 2020 in Akutfällen auf der Grundlage eines bundesweit einheitlichen, standardisierten Ersteinschätzungsverfahrens eine unmittelbare ärztliche Versorgung in der medizinisch gebotenen Versorgungsebene zu vermitteln.
+
+Für die Vermittlung von Behandlungsterminen bei einem Facharzt muss mit Ausnahme von Behandlungsterminen bei einem Augenarzt oder einem Frauenarzt und mit Ausnahme der Vermittlung in Akutfällen nach Satz 3 Nummer 4 eine Überweisung vorliegen; eine Überweisung muss auch in den Fällen des Satzes 11 Nummer 2 vorliegen. Die Wartezeit auf einen Behandlungstermin darf vier Wochen nicht überschreiten. Die Entfernung zwischen Wohnort des Versicherten und dem vermittelten Arzt muss zumutbar sein. Kann die Terminservicestelle keinen Behandlungstermin bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 innerhalb der Frist nach Satz 5 vermitteln, hat sie einen ambulanten Behandlungstermin in einem zugelassenen Krankenhaus anzubieten; Satz 3 Nummer 1 und die Sätze 4, 5 und 6 gelten entsprechend. Satz 7 gilt nicht bei verschiebbaren Routineuntersuchungen, sofern es sich nicht um termingebundene Gesundheitsuntersuchungen für Kinder handelt, und in Fällen von Bagatellerkrankungen sowie bei weiteren vergleichbaren Fällen. Für die ambulante Behandlung im Krankenhaus gelten die Bestimmungen über die vertragsärztliche Versorgung. In den Fällen von Satz 8 hat die Terminservicestelle einen Behandlungstermin bei einem Leistungserbringer nach § 95 Absatz 1 Satz 1 in einer angemessenen Frist zu vermitteln. Im Bundesmantelvertrag nach § 82 Absatz 1 sind insbesondere Regelungen zu treffen
 
 1. zum Nachweis des Vorliegens einer Überweisung,
 
@@ -2904,9 +2912,9 @@ Für die Vermittlung von Behandlungsterminen bei einem Facharzt muss mit Ausnahm
 
 5. zur Notwendigkeit weiterer Behandlungen nach § 76 Absatz 1a Satz 2.
 
-Im Bundesmantelvertrag können zudem ergänzende Regelungen insbesondere zu weiteren Ausnahmen von der Notwendigkeit des Vorliegens einer Überweisung getroffen werden. Die Sätze 2 bis 12 gelten nicht für Behandlungen nach § 28 Absatz 2 und § 29. Für Behandlungen nach § 28 Absatz 3 gelten die Sätze 2 und 3 Nummer 1 sowie die Sätze 5 bis 12 hinsichtlich der Vermittlung eines Termins für ein Erstgespräch im Rahmen der psychotherapeutischen Sprechstunden und hinsichtlich der sich aus der Abklärung ergebenden zeitnah erforderlichen Behandlungstermine sowie hinsichtlich der Vermittlung eines Termins im Rahmen der Versorgung nach § 92 Absatz 6b; einer Überweisung bedarf es nicht. Die Wartezeit auf eine psychotherapeutische Akutbehandlung darf zwei Wochen nicht überschreiten. Die Kassenärztliche Bundesvereinigung unterstützt die Kassenärztlichen Vereinigungen durch das Angebot einer Struktur für ein elektronisch gestütztes Wartezeitenmanagement und für ein elektronisch gestütztes Dispositionsmanagement bei der Terminvermittlung; sie hat ein elektronisches Programm zur Verfügung zu stellen, mit dem die Versicherten auf die Internetseite der zuständigen Kassenärztlichen Vereinigung geleitet werden, um sich über die Sprechstundenzeiten der Ärzte informieren zu können. Die Kassenärztlichen Vereinigungen können darüber hinaus zur Erfüllung ihrer Aufgaben nach Satz 3 auch eigene digitale Angebote bereitstellen. Die Kassenärztliche Bundesvereinigung evaluiert die Auswirkungen der Tätigkeit der Terminservicestellen insbesondere im Hinblick auf die Erreichung der fristgemäßen Vermittlung von Arztterminen, auf die Häufigkeit der Inanspruchnahme und auf die Vermittlungsquote. Über die Ergebnisse hat die Kassenärztliche Bundesvereinigung dem Bundesministerium für Gesundheit jährlich, erstmals zum 30. Juni 2017, zu berichten. Die Vertragsärzte sind verpflichtet, der Terminservicestelle freie Termine zu melden.
+Im Bundesmantelvertrag können zudem ergänzende Regelungen insbesondere zu weiteren Ausnahmen von der Notwendigkeit des Vorliegens einer Überweisung getroffen werden. Die Sätze 2 bis 12 gelten nicht für Behandlungen nach § 28 Absatz 2 und § 29. Für Behandlungen nach § 28 Absatz 3 gelten die Sätze 2 und 3 Nummer 1 sowie die Sätze 5 bis 12 hinsichtlich der Vermittlung eines Termins für ein Erstgespräch im Rahmen der psychotherapeutischen Sprechstunden und hinsichtlich der sich aus der Abklärung ergebenden zeitnah erforderlichen Behandlungstermine sowie hinsichtlich der Vermittlung eines Termins im Rahmen der Versorgung nach § 92 Absatz 6b; einer Überweisung bedarf es nicht. Die Wartezeit auf eine psychotherapeutische Akutbehandlung darf zwei Wochen nicht überschreiten. Die Kassenärztliche Bundesvereinigung unterstützt die Kassenärztlichen Vereinigungen durch das Angebot einer Struktur für ein elektronisch gestütztes Wartezeitenmanagement und für ein elektronisch gestütztes Dispositionsmanagement bei der Terminvermittlung; sie hat ein elektronisches Programm zur Verfügung zu stellen, mit dem die Versicherten auf die Internetseite der zuständigen Kassenärztlichen Vereinigung geleitet werden, um sich über die Sprechstundenzeiten der Ärzte informieren zu können. Die Kassenärztlichen Vereinigungen können darüber hinaus zur Erfüllung ihrer Aufgaben nach Satz 3 auch eigene digitale Angebote bereitstellen. Die Kassenärztliche Bundesvereinigung evaluiert die Auswirkungen der Tätigkeit der Terminservicestellen insbesondere im Hinblick auf die Erreichung der fristgemäßen Vermittlung von Arztterminen, auf die Häufigkeit der Inanspruchnahme und auf die Vermittlungsquote. Über die Ergebnisse hat die Kassenärztliche Bundesvereinigung dem Bundesministerium für Gesundheit jährlich, erstmals zum 30. Juni 2017, zu berichten. Die Vertragsärzte sind verpflichtet, der Terminservicestelle freie Termine zu melden. Soweit Vertragsärzte Leistungen in Form von Videosprechstunden anbieten, können die Vertragsärzte den Terminservicestellen freie Termine, zu denen Leistungen in Form der Videosprechstunde angeboten werden, freiwillig melden.
 
-(1b) Der Sicherstellungsauftrag nach Absatz 1 umfasst auch die vertragsärztliche Versorgung zu den sprechstundenfreien Zeiten (Notdienst), nicht jedoch die notärztliche Versorgung im Rahmen des Rettungsdienstes, soweit Landesrecht nichts anderes bestimmt. Die Kassenärztlichen Vereinigungen sollen den Notdienst auch durch Kooperation und eine organisatorische Verknüpfung mit zugelassenen Krankenhäusern sicherstellen; hierzu sollen sie entweder Notdienstpraxen in oder an Krankenhäusern einrichten oder Notfallambulanzen der Krankenhäuser unmittelbar in den Notdienst einbinden. Nicht an der vertragsärztlichen Versorgung teilnehmende zugelassene Krankenhäuser und Ärzte, die aufgrund einer Kooperationsvereinbarung mit der Kassenärztlichen Vereinigung in den Notdienst einbezogen sind, sind zur Leistungserbringung im Rahmen des Notdienstes berechtigt und nehmen zu diesem Zweck an der vertragsärztlichen Versorgung teil. Satz 3 gilt entsprechend für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte im Rahmen der notärztlichen Versorgung des Rettungsdienstes, soweit entsprechend Satz 1 durch Landesrecht bestimmt ist, dass auch diese Versorgung vom Sicherstellungsauftrag der Kassenärztlichen Vereinigung umfasst ist. Die Kassenärztlichen Vereinigungen sollen mit den Landesapothekerkammern in einen Informationsaustausch über die Organisation des Notdienstes treten, um die Versorgung der Versicherten im Notdienst zu verbessern; die Ergebnisse aus diesem Informationsaustausch sind in die Kooperationen nach Satz 2 einzubeziehen. Die Kassenärztlichen Vereinigungen sollen mit den Rettungsleitstellen der Länder kooperieren.
+(1b) Der Sicherstellungsauftrag nach Absatz 1 umfasst auch die vertragsärztliche Versorgung zu den sprechstundenfreien Zeiten (Notdienst), nicht jedoch die notärztliche Versorgung im Rahmen des Rettungsdienstes, soweit Landesrecht nichts anderes bestimmt. Im Rahmen des Notdienstes sollen die Kassenärztlichen Vereinigungen spätestens ab dem 31. März 2022 ergänzend auch telemedizinische Leistungen zur Verfügung stellen. Die Kassenärztlichen Vereinigungen sollen den Notdienst auch durch Kooperation und eine organisatorische Verknüpfung mit zugelassenen Krankenhäusern sicherstellen; hierzu sollen sie entweder Notdienstpraxen in oder an Krankenhäusern einrichten oder Notfallambulanzen der Krankenhäuser unmittelbar in den Notdienst einbinden. Im Rahmen einer Kooperation nach Satz 3 zwischen Kassenärztlichen Vereinigungen und Krankenhäusern kann auch die Nutzung der technischen Ausstattung der Krankenhäuser zur Erbringung telemedizinischer Leistungen durch Notdienstpraxen oder die Erbringung telemedizinischer Leistungen durch die Notfallambulanzen der Krankenhäuser vereinbart werden. Nicht an der vertragsärztlichen Versorgung teilnehmende zugelassene Krankenhäuser und Ärzte, die aufgrund einer Kooperationsvereinbarung mit der Kassenärztlichen Vereinigung in den Notdienst einbezogen sind, sind zur Leistungserbringung im Rahmen des Notdienstes berechtigt und nehmen zu diesem Zweck an der vertragsärztlichen Versorgung teil. Satz 5 gilt entsprechend für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte im Rahmen der notärztlichen Versorgung des Rettungsdienstes, soweit entsprechend Satz 1 durch Landesrecht bestimmt ist, dass auch diese Versorgung vom Sicherstellungsauftrag der Kassenärztlichen Vereinigung umfasst ist. Die Kassenärztlichen Vereinigungen sollen mit den Landesapothekerkammern in einen Informationsaustausch über die Organisation des Notdienstes treten, um die Versorgung der Versicherten im Notdienst zu verbessern; die Ergebnisse aus diesem Informationsaustausch sind in die Kooperationen nach Satz 3 einzubeziehen. Die Kassenärztlichen Vereinigungen sollen mit den Rettungsleitstellen der Länder kooperieren.
 
 (2) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben die Rechte der Vertragsärzte gegenüber den Krankenkassen wahrzunehmen. Sie haben die Erfüllung der den Vertragsärzten obliegenden Pflichten zu überwachen und die Vertragsärzte, soweit notwendig, unter Anwendung der in § 81 Abs. 5 vorgesehenen Maßnahmen zur Erfüllung dieser Pflichten anzuhalten.
 
@@ -2940,13 +2948,15 @@ Wird nach Ablauf einer von den Vertragsparteien nach Satz 1 vereinbarten oder vo
 
 3. Richtlinien über die Betriebs-, Wirtschafts- und Rechnungsführung der Kassenärztlichen Vereinigungen aufzustellen,
 
+3a. bis zum 31. Dezember 2021 Richtlinien zur Gewährleistung einer bundesweit einheitlichen und vollständigen Bereitstellung von Informationen nach Absatz 1a Satz 2 auf den Internetseiten der Kassenärztlichen Vereinigungen aufzustellen,
+
 4. Richtlinien für die Umsetzung einer bundeseinheitlichen Telefonnummer nach Absatz 1a Satz 2 aufzustellen,
 
 5. Richtlinien für ein digitales Angebot zur Vermittlung von Behandlungsterminen nach Absatz 1a Satz 3 Nummer 1 sowie zur Vermittlung einer unmittelbaren ärztlichen Versorgung in Akutfällen nach Absatz 1a Satz 3 Nummer 3 und für ein Angebot eines elektronisch gestützten Dispositionsmanagements aufzustellen und
 
 6. Richtlinien für ein bundesweit einheitliches, standardisiertes Ersteinschätzungsverfahren aufzustellen, auf dessen Grundlage die Vermittlung in Akutfällen nach Absatz 1a Satz 3 Nummer 3 erfolgt.
 
-Die Richtlinie nach Satz 1 Nr. 2 muss sicherstellen, dass die für die erbrachte Leistung zur Verfügung stehende Vergütung die Kassenärztliche Vereinigung erreicht, in deren Bezirk die Leistung erbracht wurde; eine Vergütung auf der Basis bundesdurchschnittlicher Verrechnungspunktwerte ist zulässig. Die Richtlinie nach Satz 1 Nr. 2 kann auch Regelungen über die Abrechnungs-, Wirtschaftlichkeits- und Qualitätsprüfung sowie über Verfahren bei Disziplinarangelegenheiten bei überörtlichen Berufsausübungsgemeinschaften, die Mitglieder in mehreren Kassenärztlichen Vereinigungen haben, treffen, soweit hierzu nicht in den Bundesmantelverträgen besondere Vereinbarungen getroffen sind. Die Richtlinien nach Satz 1 Nummer 4 und 5 müssen auch sicherstellen, dass die von Vertragsärzten in Umsetzung der Richtlinienvorgaben genutzten elektronischen Programme von der Kassenärztlichen Bundesvereinigung zugelassen sind.
+Die Richtlinie nach Satz 1 Nr. 2 muss sicherstellen, dass die für die erbrachte Leistung zur Verfügung stehende Vergütung die Kassenärztliche Vereinigung erreicht, in deren Bezirk die Leistung erbracht wurde; eine Vergütung auf der Basis bundesdurchschnittlicher Verrechnungspunktwerte ist zulässig. Die Richtlinie nach Satz 1 Nr. 2 kann auch Regelungen über die Abrechnungs-, Wirtschaftlichkeits- und Qualitätsprüfung sowie über Verfahren bei Disziplinarangelegenheiten bei überörtlichen Berufsausübungsgemeinschaften, die Mitglieder in mehreren Kassenärztlichen Vereinigungen haben, treffen, soweit hierzu nicht in den Bundesmantelverträgen besondere Vereinbarungen getroffen sind. Bei der Erarbeitung der Richtlinien nach Satz 1 Nummer 3a sind die Bundesfachstelle Barrierefreiheit sowie die maßgeblichen Interessenvertretungen der Patientinnen und Patienten nach § 140f zu beteiligen. Die Richtlinien nach Satz 1 Nummer 4 und 5 müssen auch sicherstellen, dass die von Vertragsärzten in Umsetzung der Richtlinienvorgaben genutzten elektronischen Programme von der Kassenärztlichen Bundesvereinigung zugelassen sind.
 
 (7a) Abweichend von Absatz 7 Satz 2 muss die für die ärztliche Versorgung geltende Richtlinie nach Absatz 7 Satz 1 Nr. 2 sicherstellen, dass die Kassenärztliche Vereinigung, in deren Bezirk die Leistungen erbracht wurden (Leistungserbringer-KV), von der Kassenärztlichen Vereinigung, in deren Bezirk der Versicherte seinen Wohnort hat (Wohnort-KV), für die erbrachten Leistungen jeweils die entsprechenden Vergütungen der in der Leistungserbringer-KV geltenden Euro-Gebührenordnung nach § 87a Abs. 2 erhält. Dabei ist das Benehmen mit dem Spitzenverband Bund der Krankenkassen herzustellen.
 
@@ -3444,7 +3454,7 @@ Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bun
 
 # § 87 – Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte
 
-(1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen durch Bewertungsausschüsse als Bestandteil der Bundesmantelverträge einen einheitlichen Bewertungsmaßstab für die ärztlichen und einen einheitlichen Bewertungsmaßstab für die zahnärztlichen Leistungen, im ärztlichen Bereich einschließlich der Sachkosten. In den Bundesmantelverträgen sind auch die Regelungen, die zur Organisation der vertragsärztlichen Versorgung notwendig sind, insbesondere Vordrucke und Nachweise, zu vereinbaren. Bei der Gestaltung der Arzneiverordnungsblätter ist § 73 Abs. 5 zu beachten. Die Arzneiverordnungsblätter sind so zu gestalten, daß bis zu drei Verordnungen je Verordnungsblatt möglich sind. Dabei ist für jede Verordnung ein Feld für die Auftragung des Kennzeichens nach § 300 Abs. 1 Nr. 1 sowie ein weiteres Feld vorzusehen, in dem der Arzt seine Entscheidung nach § 73 Abs. 5 durch Ankreuzen kenntlich machen kann. Die Kassenärztlichen Bundesvereinigungen und der Spitzenverband Bund der Krankenkassen prüfen, inwieweit bislang papiergebundene Verfahren zur Organisation der vertragsärztlichen Versorgung durch elektronische Kommunikationsverfahren ersetzt werden können. Das Ergebnis der Prüfung ist dem Bundesministerium für Gesundheit spätestens am 31. Dezember 2016 vorzulegen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen regeln in dem Bundesmantelvertrag für Zahnärzte bis zum 31. Dezember 2019 das Nähere zu einem elektronischen Beantragungs- und Genehmigungsverfahren für bewilligungspflichtige zahnärztliche Leistungen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen können die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer durch Regelungen im Bundesmantelvertrag für Zahnärzte dazu verpflichten, die für die Beantragung von bewilligungspflichtigen Leistungen notwendigen Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse im Wege elektronischer Datenübertragung zu übermitteln. Zur Durchführung der elektronischen Antrags- und Genehmigungsverfahren sind die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer befugt, die hierfür erforderlichen versichertenbezogene Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse zu übermitteln. Die jeweilige Kassenärztliche Vereinigung ist befugt, die für die Durchführung der elektronischen Antrags- und Genehmigungsverfahren erforderlichen versicherungsbezogenen übermittelten Angaben zu verarbeiten. Für die Übermittlung digitaler Vordrucke und Nachweise sind die Dienste der Telematikinfrastruktur zu nutzen, sobald diese zur Verfügung stehen. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist mit Wirkung zum 1. Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz 1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022 ist im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen vorzusehen, dass Leistungen nach § 346 Absatz 3 zur Unterstützung der Versicherten bei der erstmaligen Befüllung der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist vorzusehen, dass Leistungen im aktuellen Behandlungskontext zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 4 sowie Leistungen zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 zusätzlich vergütet werden.
+(1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen durch Bewertungsausschüsse als Bestandteil der Bundesmantelverträge einen einheitlichen Bewertungsmaßstab für die ärztlichen und einen einheitlichen Bewertungsmaßstab für die zahnärztlichen Leistungen, im ärztlichen Bereich einschließlich der Sachkosten. In den Bundesmantelverträgen sind auch die Regelungen, die zur Organisation der vertragsärztlichen Versorgung notwendig sind, insbesondere Vordrucke und Nachweise, zu vereinbaren. Bei der Gestaltung der Arzneiverordnungsblätter ist § 73 Abs. 5 zu beachten. Die Arzneiverordnungsblätter sind so zu gestalten, daß bis zu drei Verordnungen je Verordnungsblatt möglich sind. Dabei ist für jede Verordnung ein Feld für die Auftragung des Kennzeichens nach § 300 Abs. 1 Nr. 1 sowie ein weiteres Feld vorzusehen, in dem der Arzt seine Entscheidung nach § 73 Abs. 5 durch Ankreuzen kenntlich machen kann. Die Kassenärztlichen Bundesvereinigungen und der Spitzenverband Bund der Krankenkassen prüfen, inwieweit bislang papiergebundene Verfahren zur Organisation der vertragsärztlichen Versorgung durch elektronische Kommunikationsverfahren ersetzt werden können. Das Ergebnis der Prüfung ist dem Bundesministerium für Gesundheit spätestens am 31. Dezember 2016 vorzulegen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen regeln in dem Bundesmantelvertrag für Zahnärzte bis zum 31. Dezember 2019 das Nähere zu einem elektronischen Beantragungs- und Genehmigungsverfahren für bewilligungspflichtige zahnärztliche Leistungen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen können die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer durch Regelungen im Bundesmantelvertrag für Zahnärzte dazu verpflichten, die für die Beantragung von bewilligungspflichtigen Leistungen notwendigen Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse im Wege elektronischer Datenübertragung zu übermitteln. Zur Durchführung der elektronischen Antrags- und Genehmigungsverfahren sind die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer befugt, die hierfür erforderlichen versichertenbezogene Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse zu übermitteln. Die jeweilige Kassenärztliche Vereinigung ist befugt, die für die Durchführung der elektronischen Antrags- und Genehmigungsverfahren erforderlichen versicherungsbezogenen übermittelten Angaben zu verarbeiten. Für die Übermittlung digitaler Vordrucke und Nachweise sind die Dienste der Telematikinfrastruktur zu nutzen, sobald diese zur Verfügung stehen. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist mit Wirkung zum 1. Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz 1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022 ist im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen vorzusehen, dass Leistungen nach § 346 Absatz 3 zur Unterstützung der Versicherten bei der erstmaligen Befüllung der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist vorzusehen, dass Leistungen im aktuellen Behandlungskontext zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 4 sowie Leistungen zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 zusätzlich vergütet werden.
 
 (1a) In dem Bundesmantelvertrag haben die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen festzulegen, dass die Kosten für Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, soweit die gewählte Versorgung der Regelversorgung nach § 56 Abs. 2 entspricht, gegenüber den Versicherten nach Absatz 2 abzurechnen sind. Darüber hinaus sind im Bundesmantelvertrag folgende Regelungen zu treffen: Der Vertragszahnarzt hat vor Beginn der Behandlung einen kostenfreien Heil- und Kostenplan zu erstellen, der den Befund, die Regelversorgung und die tatsächlich geplante Versorgung auch in den Fällen des § 55 Abs. 4 und 5 nach Art, Umfang und Kosten beinhaltet. Im Heil- und Kostenplan sind Angaben zum Herstellungsort des Zahnersatzes zu machen. Der Heil- und Kostenplan ist von der Krankenkasse vor Beginn der Behandlung insgesamt zu prüfen. Die Krankenkasse kann den Befund, die Versorgungsnotwendigkeit und die geplante Versorgung begutachten lassen. Bei bestehender Versorgungsnotwendigkeit bewilligt die Krankenkasse die Festzuschüsse gemäß § 55 Abs. 1 oder 2 entsprechend dem im Heil- und Kostenplan ausgewiesenen Befund. Nach Abschluss der Behandlung rechnet der Vertragszahnarzt die von der Krankenkasse bewilligten Festzuschüsse mit Ausnahme der Fälle des § 55 Abs. 5 mit der Kassenzahnärztlichen Vereinigung ab. Der Vertragszahnarzt hat bei Rechnungslegung eine Durchschrift der Rechnung des gewerblichen oder des praxiseigenen Labors über zahntechnische Leistungen und die Erklärung nach Anhang XIII Abschnitt 1 der Verordnung (EU) 2017/745 in der jeweils geltenden Fassung beizufügen. Der Bundesmantelvertrag regelt auch das Nähere zur Ausgestaltung des Heil- und Kostenplans, insbesondere muss aus dem Heil- und Kostenplan erkennbar sein, ob die zahntechnischen Leistungen von Zahnärzten erbracht werden oder nicht.
 
@@ -3474,11 +3484,11 @@ abweichend von § 275 Absatz 1, 2 und 3 statt einer gutachterlichen Stellungnahm
 
 (2) Der einheitliche Bewertungsmaßstab bestimmt den Inhalt der abrechnungsfähigen Leistungen und ihr wertmäßiges, in Punkten ausgedrücktes Verhältnis zueinander; soweit möglich, sind die Leistungen mit Angaben für den zur Leistungserbringung erforderlichen Zeitaufwand des Vertragsarztes zu versehen; dies gilt nicht für vertragszahnärztliche Leistungen. Die Bewertungsmaßstäbe sind in bestimmten Zeitabständen auch daraufhin zu überprüfen, ob die Leistungsbeschreibungen und ihre Bewertungen noch dem Stand der medizinischen Wissenschaft und Technik sowie dem Erfordernis der Rationalisierung im Rahmen wirtschaftlicher Leistungserbringung entsprechen, wobei in die Überprüfung des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen auch die Regelung nach § 33 Absatz 9 erstmalig bis spätestens zum 31. Oktober 2012 einzubeziehen ist; bei der Bewertung der Leistungen ist insbesondere der Aspekt der wirtschaftlichen Nutzung der bei der Erbringung von Leistungen eingesetzten medizinisch-technischen Geräte zu berücksichtigen. Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen sind die Bewertung der Leistungen nach Satz 1 und die Überprüfung der wirtschaftlichen Aspekte nach Satz 2, insbesondere bei medizinisch-technischen Geräten, unter Berücksichtigung der Besonderheiten der betroffenen Arztgruppen auf in bestimmten Zeitabständen zu aktualisierender betriebswirtschaftlicher Basis durchzuführen. Grundlage der Aktualisierung des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen bilden grundsätzlich die vom Statistischen Bundesamt nach dem Gesetz über die Kostenstrukturstatistik bei Arzt- und Zahnarztpraxen sowie bei Praxen von psychologischen Psychotherapeuten erhobenen Daten der Kostenstruktur; ergänzend können sachgerechte Stichproben bei vertragsärztlichen Leistungserbringern verwendet werden. Der Bewertungsausschuss hat die nächste Überprüfung gemäß Satz 3 und die anschließende Aktualisierung des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen spätestens bis zum 29. Februar 2020 mit der Maßgabe durchzuführen, insbesondere die Angemessenheit der Bewertung von Leistungen zu aktualisieren, die einen hohen technischen Leistungsanteil aufweisen. Hierzu legt der Bewertungsausschuss dem Bundesministerium für Gesundheit spätestens bis zum 31. August 2019 ein Konzept vor, wie er die verschiedenen Leistungsbereiche im einheitlichen Bewertungsmaßstab für ärztliche Leistungen einschließlich der Sachkosten anpassen wird. Dabei soll die Bewertung der Leistungen mit einem hohen technischen Leistungsanteil, die in einem bestimmten Zeitraum erbracht werden, insgesamt so festgelegt werden, dass die Punkte, die im einheitlichen Bewertungsmaßstab für diese Leistungen vergeben werden, ab einem bestimmten Schwellenwert mit zunehmender Menge sinken. Die Bewertung der Sachkosten kann abweichend von Satz 1 in Eurobeträgen bestimmt werden.
 
-(2a) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen aufgeführten Leistungen sind entsprechend der in § 73 Abs. 1 festgelegten Gliederung der vertragsärztlichen Versorgung in Leistungen der hausärztlichen und Leistungen der fachärztlichen Versorgung zu gliedern mit der Maßgabe, dass unbeschadet gemeinsam abrechenbarer Leistungen Leistungen der hausärztlichen Versorgung nur von den an der hausärztlichen Versorgung teilnehmenden Ärzten und Leistungen der fachärztlichen Versorgung nur von den an der fachärztlichen Versorgung teilnehmenden Ärzten abgerechnet werden dürfen; die Leistungen der fachärztlichen Versorgung sind in der Weise zu gliedern, dass den einzelnen Facharztgruppen die von ihnen ausschließlich abrechenbaren Leistungen zugeordnet werden. Bei der Bestimmung der Arztgruppen nach Satz 1 ist der Versorgungsauftrag der jeweiligen Arztgruppe im Rahmen der vertragsärztlichen Versorgung zugrunde zu legen. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen hat eine Regelung zu enthalten, nach der ärztliche Leistungen zur Diagnostik und ambulanten Eradikationstherapie einschließlich elektronischer Dokumentation von Trägern mit dem Methicillin-resistenten Staphylococcus aureus (MRSA) vergütet werden. Die Kassenärztliche Bundesvereinigung berichtet dem Bundesministerium für Gesundheit quartalsbezogen über Auswertungsergebnisse der Regelung nach Satz 3. Das Bundesministerium für Gesundheit kann das Nähere zum Inhalt des Berichts nach Satz 4 sowie zur Auswertung der anonymisierten Dokumentationen zum Zwecke der Versorgungsforschung und zur Förderung der Qualität bestimmen; es kann auch den Bewertungsausschuss mit der Vorlage des Berichts beauftragen. Im Übrigen gilt die Veröffentlichungspflicht gemäß § 135b Absatz 1 Satz 2. Bei der Überprüfung nach Absatz 2 Satz 2 prüft der Bewertungsausschuss, in welchem Umfang ambulante telemedizinische Leistungen erbracht werden können; auf dieser Grundlage beschließt er, inwieweit der einheitliche Bewertungsmaßstab für ärztliche Leistungen anzupassen ist. In die Überprüfung nach Absatz 2 Satz 2 ist auch einzubeziehen, in welchem Umfang delegationsfähige Leistungen durch Personen nach § 28 Absatz 1 Satz 2 qualifiziert erbracht und angemessen vergütet werden können; auf dieser Grundlage ist eine Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen unter Berücksichtigung der unterschiedlichen Versorgungsstrukturen bis zum 23. Januar 2016 zu beschließen. Nach Inkrafttreten der Bestimmungen nach § 27b Absatz 2 Satz 2 ist im einheitlichen Bewertungsmaßstab für ärztliche Leistungen durch den Bewertungsausschuss gemäß Absatz 5a eine Regelung zu treffen, nach der Leistungen und Kosten im Rahmen der Einholung der Zweitmeinungen nach § 27b abgerechnet werden können. Sofern drei Monate nach Inkrafttreten der Bestimmungen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2 keine Regelung im einheitlichen Bewertungsmaßstab für ärztliche Leistungen getroffen wurde, können Versicherte die Leistungen nach § 27b bei den dafür berechtigten Leistungserbringern im Wege der Kostenerstattung nach § 13 Absatz 1 in Anspruch nehmen. Die Kosten sind von der Krankenkasse in der entstandenen Höhe zu erstatten. Die Möglichkeit der Inanspruchnahme im Wege der Kostenerstattung nach § 13 Absatz 1 endet, sobald die Regelung nach Satz 9 in Kraft getreten ist. Mit Wirkung zum 30. September 2020 ist durch den Bewertungsausschuss in der Zusammensetzung nach Absatz 5a im einheitlichen Bewertungsmaßstab für ärztliche Leistungen zu regeln, dass Konsilien in einem weiten Umfang in der vertragsärztlichen und in der sektorenübergreifenden Versorgung als telemedizinische Leistung abgerechnet werden können, wenn bei ihnen sichere elektronische Informations- und Kommunikationstechnologien eingesetzt werden. Die Regelungen erfolgen auf der Grundlage der Vereinbarung nach § 367 Absatz 1. Der Bewertungsausschuss nach Absatz 3 und der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a legen dem Bundesministerium für Gesundheit im Abstand von zwei Jahren, erstmals zum 31. Oktober 2020, einen Bericht über die als telemedizinische Leistungen abrechenbaren Konsilien vor. Das Bundesministerium für Gesundheit leitet den Bericht an den Deutschen Bundestag weiter. Mit Wirkung zum 1. April 2019 ist durch den Bewertungsausschuss eine Regelung im einheitlichen Bewertungsmaßstab für ärztliche Leistungen zu treffen, nach der Videosprechstunden in einem weiten Umfang ermöglicht werden. Die im Hinblick auf Videosprechstunden bisher enthaltene Vorgabe von Krankheitsbildern im einheitlichen Bewertungsmaßstab für ärztliche Leistungen entfällt. Bei der Anpassung sind die Besonderheiten in der Versorgung von Pflegebedürftigen durch Zuschläge und die Besonderheiten in der psychotherapeutischen Versorgung zu berücksichtigen. Die Anpassung erfolgt auf der Grundlage der Vereinbarung nach § 365 Absatz 1 Satz 1. Bis zum 30. Juni 2016 ist mit Wirkung zum 1. Oktober 2016 eine Regelung zu treffen, nach der ärztliche Leistungen nach § 31a vergütet werden. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen hat eine Regelung über die Vergütung von ärztlichen Leistungen zur Erstellung und Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 zu enthalten; die Vergütung für die Erstellung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 ist in dem Zeitraum vom 20. Oktober 2020 bis zum 20. Oktober 2021 auf das Zweifache der sich nach dem einheitlichen Bewertungsmaßstab ergebenden Vergütung zu erhöhen. Der Bewertungsausschuss nach Absatz 5a hat bis spätestens zum 31. Dezember 2016 die Regelungen für die Versorgung im Notfall und im Notdienst im einheitlichen Bewertungsmaßstab für ärztliche Leistungen nach dem Schweregrad der Fälle zu differenzieren. Zwei Jahre nach Inkrafttreten dieser Regelungen hat der Bewertungsausschuss nach Absatz 5a die Entwicklung der Leistungen zu evaluieren und hierüber dem Bundesministerium für Gesundheit zu berichten; Absatz 3a gilt entsprechend. Der Bewertungsausschuss überprüft, in welchem Umfang Diagnostika zur schnellen und zur qualitätsgesicherten Antibiotikatherapie eingesetzt werden können, und beschließt auf dieser Grundlage erstmals bis spätestens zum 1. Dezember 2017 entsprechende Anpassungen des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen ist innerhalb von sechs Monaten nach Inkrafttreten der Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 6b vom Bewertungsausschuss in der Zusammensetzung nach Absatz 5a anzupassen. Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen ist mit Wirkung zum 1. Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz 1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022 ist im einheitlichen Bewertungsmaßstab für ärztliche Leistungen vorzusehen, dass ärztliche Leistungen nach § 346 Absatz 3 zur Unterstützung der Versicherten bei der erstmaligen Befüllung der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden.
+(2a) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen aufgeführten Leistungen sind entsprechend der in § 73 Abs. 1 festgelegten Gliederung der vertragsärztlichen Versorgung in Leistungen der hausärztlichen und Leistungen der fachärztlichen Versorgung zu gliedern mit der Maßgabe, dass unbeschadet gemeinsam abrechenbarer Leistungen Leistungen der hausärztlichen Versorgung nur von den an der hausärztlichen Versorgung teilnehmenden Ärzten und Leistungen der fachärztlichen Versorgung nur von den an der fachärztlichen Versorgung teilnehmenden Ärzten abgerechnet werden dürfen; die Leistungen der fachärztlichen Versorgung sind in der Weise zu gliedern, dass den einzelnen Facharztgruppen die von ihnen ausschließlich abrechenbaren Leistungen zugeordnet werden. Bei der Bestimmung der Arztgruppen nach Satz 1 ist der Versorgungsauftrag der jeweiligen Arztgruppe im Rahmen der vertragsärztlichen Versorgung zugrunde zu legen. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen hat eine Regelung zu enthalten, nach der ärztliche Leistungen zur Diagnostik und ambulanten Eradikationstherapie einschließlich elektronischer Dokumentation von Trägern mit dem Methicillin-resistenten Staphylococcus aureus (MRSA) vergütet werden. Die Kassenärztliche Bundesvereinigung berichtet dem Bundesministerium für Gesundheit quartalsbezogen über Auswertungsergebnisse der Regelung nach Satz 3. Das Bundesministerium für Gesundheit kann das Nähere zum Inhalt des Berichts nach Satz 4 sowie zur Auswertung der anonymisierten Dokumentationen zum Zwecke der Versorgungsforschung und zur Förderung der Qualität bestimmen; es kann auch den Bewertungsausschuss mit der Vorlage des Berichts beauftragen. Im Übrigen gilt die Veröffentlichungspflicht gemäß § 135b Absatz 1 Satz 2. Bei der Überprüfung nach Absatz 2 Satz 2 prüfen der Bewertungsausschuss nach Absatz 3 und der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a jeweils, in welchem Umfang ambulante telemedizinische Leistungen erbracht werden können; auf dieser Grundlage beschließen der Bewertungsausschuss nach Absatz 3 und der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a jeweils, inwieweit der einheitliche Bewertungsmaßstab für ärztliche Leistungen anzupassen ist. In die Überprüfung nach Absatz 2 Satz 2 ist auch einzubeziehen, in welchem Umfang delegationsfähige Leistungen durch Personen nach § 28 Absatz 1 Satz 2 qualifiziert erbracht und angemessen vergütet werden können; auf dieser Grundlage ist eine Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen unter Berücksichtigung der unterschiedlichen Versorgungsstrukturen bis zum 23. Januar 2016 zu beschließen. Nach Inkrafttreten der Bestimmungen nach § 27b Absatz 2 Satz 2 ist im einheitlichen Bewertungsmaßstab für ärztliche Leistungen durch den Bewertungsausschuss gemäß Absatz 5a eine Regelung zu treffen, nach der Leistungen und Kosten im Rahmen der Einholung der Zweitmeinungen nach § 27b abgerechnet werden können. Sofern drei Monate nach Inkrafttreten der Bestimmungen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2 keine Regelung im einheitlichen Bewertungsmaßstab für ärztliche Leistungen getroffen wurde, können Versicherte die Leistungen nach § 27b bei den dafür berechtigten Leistungserbringern im Wege der Kostenerstattung nach § 13 Absatz 1 in Anspruch nehmen. Die Kosten sind von der Krankenkasse in der entstandenen Höhe zu erstatten. Die Möglichkeit der Inanspruchnahme im Wege der Kostenerstattung nach § 13 Absatz 1 endet, sobald die Regelung nach Satz 9 in Kraft getreten ist. Mit Wirkung zum 30. September 2020 ist durch den Bewertungsausschuss in der Zusammensetzung nach Absatz 5a im einheitlichen Bewertungsmaßstab für ärztliche Leistungen zu regeln, dass Konsilien in einem weiten Umfang in der vertragsärztlichen und in der sektorenübergreifenden Versorgung als telemedizinische Leistung abgerechnet werden können, wenn bei ihnen sichere elektronische Informations- und Kommunikationstechnologien eingesetzt werden. Die Regelungen erfolgen auf der Grundlage der Vereinbarung nach § 367 Absatz 1. Der Bewertungsausschuss nach Absatz 3 und der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a legen dem Bundesministerium für Gesundheit im Abstand von zwei Jahren, erstmals zum 31. Oktober 2022, einen gemeinsamen Bericht über den Stand der Beratungen und Beschlussfassungen nach Satz 7 sowie zur Erbringung von ambulanten telemedizinischen Leistungen und zu der Teilnahme der Leistungserbringer an der Erbringung von Leistungen im Rahmen der Videosprechstunde vor. Das Bundesministerium für Gesundheit leitet den Bericht an den Deutschen Bundestag weiter. In dem Beschluss nach Satz 7 sind durch den Bewertungsausschuss Regelungen im einheitlichen Bewertungsmaßstab für ärztliche Leistungen zu treffen, nach denen telemedizinische Leistungen, insbesondere Videosprechstunden, in einem weiten Umfang ermöglicht werden. Die im Hinblick auf Videosprechstunden bisher enthaltene Vorgabe von Krankheitsbildern im einheitlichen Bewertungsmaßstab für ärztliche Leistungen entfällt. Bei den Regelungen nach Satz 18 sind die Besonderheiten in der Versorgung von Pflegebedürftigen durch Zuschläge und die Besonderheiten in der psychotherapeutischen Versorgung einschließlich der Versorgung mit gruppentherapeutischen Leistungen und Leistungen der psychotherapeutischen Akutbehandlung zu berücksichtigen. Die Regelungen nach Satz 18 erfolgen auf der Grundlage der Vereinbarung nach § 365 Absatz 1 Satz 1. Bis zum 30. Juni 2016 ist mit Wirkung zum 1. Oktober 2016 eine Regelung zu treffen, nach der ärztliche Leistungen nach § 31a vergütet werden. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen hat eine Regelung über die Vergütung von ärztlichen Leistungen zur Erstellung und Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 zu enthalten; die Vergütung für die Erstellung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 ist in dem Zeitraum vom 20. Oktober 2020 bis zum 20. Oktober 2021 auf das Zweifache der sich nach dem einheitlichen Bewertungsmaßstab ergebenden Vergütung zu erhöhen; die Vergütungsregelung für die Erstellung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 7 ist bis zum 1. Oktober 2022 zu vereinbaren. Der Bewertungsausschuss in der Zusammensetzung nach Absatz 5a beschließt im einheitlichen Bewertungsmaßstab für ärztliche Leistungen die nach dem Schweregrad zu differenzierenden Regelungen für die Versorgung im Notfall und im Notdienst sowie bis zum 31. März 2022 Regelungen für die Versorgung im Notdienst mit telemedizinischen Leistungen. Zwei Jahre nach Inkrafttreten dieser Regelungen hat der Bewertungsausschuss nach Absatz 5a die Entwicklung der Leistungen zu evaluieren und hierüber dem Bundesministerium für Gesundheit zu berichten; Absatz 3a gilt entsprechend. Der Bewertungsausschuss überprüft, in welchem Umfang Diagnostika zur schnellen und zur qualitätsgesicherten Antibiotikatherapie eingesetzt werden können, und beschließt auf dieser Grundlage erstmals bis spätestens zum 1. Dezember 2017 entsprechende Anpassungen des einheitlichen Bewertungsmaßstabes für ärztliche Leistungen. Der einheitliche Bewertungsmaßstab für ärztliche Leistungen ist innerhalb von sechs Monaten nach Inkrafttreten der Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 6b vom Bewertungsausschuss in der Zusammensetzung nach Absatz 5a anzupassen. Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen ist mit Wirkung zum 1. Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz 1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022 ist im einheitlichen Bewertungsmaßstab für ärztliche Leistungen vorzusehen, dass ärztliche Leistungen nach § 346 Absatz 3 zur Unterstützung der Versicherten bei der erstmaligen Befüllung der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Der Bewertungsausschuss hat im einheitlichen Bewertungsmaßstab für ärztliche Leistungen die Leistungen, die durch Videosprechstunde erbracht werden, auf 30 Prozent der jeweiligen Leistungen im Quartal des an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringers zu begrenzen. Zudem hat der Bewertungsausschuss im einheitlichen Bewertungsmaßstab für ärztliche Leistungen die Anzahl der Behandlungsfälle im Quartal, in denen ausschließlich Leistungen im Rahmen einer Videosprechstunde erbracht werden, auf 30 Prozent aller Behandlungsfälle des an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringers zu begrenzen. Von der Begrenzung auf 30 Prozent nach den Sätzen 30 und 31 kann der Bewertungsausschuss in besonderen Ausnahmesituationen, wie etwa nach Feststellung einer epidemischen Lage von nationaler Tragweite, für einen befristeten Zeitraum abweichen. Der Bewertungsausschuss legt bis zum 30. September 2021 fest, unter welchen Voraussetzungen und in welchem Umfang unter Berücksichtigung der Sätze 30 und 31 die psychotherapeutische Akutbehandlung im Rahmen der Videosprechstunde erbracht werden kann.
 
 (2b) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen aufgeführten Leistungen der hausärztlichen Versorgung sollen als Versichertenpauschalen abgebildet werden; für Leistungen, die besonders gefördert werden sollen oder nach Absatz 2a Satz 7 und 8 telemedizinisch oder im Wege der Delegation erbracht werden können, sind Einzelleistungen oder Leistungskomplexe vorzusehen. Mit den Pauschalen nach Satz 1 sollen die gesamten im Abrechnungszeitraum regelmäßig oder sehr selten und zugleich mit geringem Aufwand im Rahmen der hausärztlichen Versorgung eines Versicherten erbrachten Leistungen einschließlich der anfallenden Betreuungs-, Koordinations- und Dokumentationsleistungen vergütet werden. Mit Wirkung zum 1. September 2019 sind in den einheitlichen Bewertungsmaßstab für ärztliche Leistungen folgende Zuschläge auf die jeweiligen Versichertenpauschalen aufzunehmen:
 
-1. ein Zuschlag in Höhe von 50 Prozent der jeweiligen Versichertenpauschale für den Fall, dass eine Behandlung bis zum Ablauf des ersten Tages nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt und ein Zuschlag in Höhe von 50 Prozent der jeweiligen Versichertenpauschale für Behandlungen in Akutfällen nach § 75 Absatz 1a Satz 3 Nummer 3,
+1. ein Zuschlag in Höhe von 50 Prozent der jeweiligen Versichertenpauschale für den Fall, dass eine Behandlung bis zum Ablauf des ersten Tages nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt und ein Zuschlag in Höhe von 50 Prozent der jeweiligen Versichertenpauschale für Behandlungen in Akutfällen nach § 75 Absatz 1a Satz 3 Nummer 4,
 
 2. ein Zuschlag in Höhe von 30 Prozent der jeweiligen Versichertenpauschale für den Fall, dass eine Behandlung vom Beginn des zweiten Tages nach Ablauf der Wochenfrist bis zum Ablauf des letzten Tages der ersten Woche nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt,
 
@@ -3490,7 +3500,7 @@ Zudem können Qualitätszuschläge vorgesehen werden, mit denen die in besondere
 
 (2c) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen aufgeführten Leistungen der fachärztlichen Versorgung sollen arztgruppenspezifisch und unter Berücksichtigung der Besonderheiten kooperativer Versorgungsformen als Grund- und Zusatzpauschalen abgebildet werden; Einzelleistungen sollen vorgesehen werden, soweit dies medizinisch oder auf Grund von Besonderheiten bei Veranlassung und Ausführung der Leistungserbringung, einschließlich der Möglichkeit telemedizinischer Erbringung gemäß Absatz 2a Satz 7 oder der Erbringung im Wege der Delegation nach Absatz 2a Satz 8, erforderlich ist. Mit den Grundpauschalen nach Satz 1 sollen die regelmäßig oder sehr selten und zugleich mit geringem Aufwand von der Arztgruppe in jedem Behandlungsfall erbrachten Leistungen vergütet werden. Mit Wirkung zum 1. September 2019 sind für die Behandlung von Patienten folgende Zuschläge auf die jeweiligen Grundpauschalen vorzusehen:
 
-1. ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für den Fall, dass eine Behandlung bis zum Ablauf des ersten Tages nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt und ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für Behandlungen in Akutfällen nach § 75 Absatz 1a Satz 3 Nummer 3,
+1. ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für den Fall, dass eine Behandlung bis zum Ablauf des ersten Tages nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt und ein Zuschlag in Höhe von 50 Prozent der jeweiligen Grundpauschale für Behandlungen in Akutfällen nach § 75 Absatz 1a Satz 3 Nummer 4,
 
 2. ein Zuschlag in Höhe von 30 Prozent der jeweiligen Grundpauschale für den Fall, dass eine Behandlung vom Beginn des zweiten Tages nach Ablauf der Wochenfrist bis zum Ablauf des letzten Tages der ersten Woche nach Ablauf der Wochenfrist nach § 75 Absatz 1a Satz 3 Nummer 1 erfolgt, sowie
 
@@ -3580,7 +3590,7 @@ Die Verfahrensordnung, die Geschäftsordnung und die Finanzierungsregelung bedü
 
 2. Zuschläge nach § 87 Absatz 2b Satz 3 sowie Absatz 2c Satz 3,
 
-3. Leistungen im Behandlungsfall, die aufgrund der Vermittlung durch die Terminservicestelle nach § 75 Absatz 1a Satz 3 Nummer 1 und 3 erbracht werden, sofern es sich nicht um Fälle nach § 75 Absatz 1a Satz 8 handelt,
+3. Leistungen im Behandlungsfall, die aufgrund der Vermittlung durch die Terminservicestelle nach § 75 Absatz 1a Satz 3 Nummer 1 und 4 erbracht werden, sofern es sich nicht um Fälle nach § 75 Absatz 1a Satz 8 handelt,
 
 4. Leistungen im Behandlungsfall bei Weiterbehandlung eines Patienten durch einen an der fachärztlichen Versorgung teilnehmenden Leistungserbringer nach Vermittlung durch einen an der hausärztlichen Versorgung teilnehmenden Leistungserbringer nach § 73 Absatz 1 Satz 2 Nummer 2,
 
@@ -3646,9 +3656,9 @@ Die Kassenärztliche Bundesvereinigung veröffentlicht für jedes Quartal zeitna
 
 Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 5 Satz 1 und § 55 Abs. 4 ist die Gebührenordnung für Zahnärzte. Der Zahlungsanspruch des Vertragszahnarztes gegenüber dem Versicherten ist bei den für diese Mehrkosten zu Grunde liegenden Leistungen auf das 2,3fache des Gebührensatzes der Gebührenordnung für Zahnärzte begrenzt. Bei Mehrkosten für lichthärtende Composite-Füllungen in Schicht- und Ätztechnik im Seitenzahnbereich nach § 28 Abs. 2 Satz 2 ist höchstens das 3,5fache des Gebührensatzes der Gebührenordnung für Zahnärzte berechnungsfähig. Die Begrenzung nach den Sätzen 2 und 3 entfällt, wenn der Gemeinsame Bundesausschuss seinen Auftrag gemäß § 92 Abs. 1a und der Bewertungsausschuss seinen Auftrag gemäß § 87 Abs. 2h Satz 2 erfüllt hat. Maßgebend ist der Tag des Inkrafttretens der Richtlinien und der Tag des Beschlusses des Bewertungsausschusses.
 
-# § 88 – Bundesleistungsverzeichnis, Vergütungen
+# § 88 – Bundesleistungsverzeichnis, Datenaustausch, Vergütungen
 
-(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Das bundeseinheitliche Verzeichnis ist im Benehmen mit der Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
+(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Die Vereinbarung nach Satz 1 umfasst auch Festlegungen zu Inhalt und Umfang der im Rahmen der Erbringung zahntechnischer Leistungen elektronisch auszutauschenden Daten sowie zu deren Übermittlung. Das bundeseinheitliche Verzeichnis ist im Benehmen mit der Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
 
 (2) Die Landesverbände der Krankenkassen und die Ersatzkassen vereinbaren mit den Innungsverbänden der Zahntechniker die Vergütungen für die nach dem bundeseinheitlichen Verzeichnis abrechnungsfähigen zahntechnischen Leistungen, ohne die zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen. Die vereinbarten Vergütungen sind Höchstpreise. Die Krankenkassen können die Versicherten sowie die Zahnärzte über preisgünstige Versorgungsmöglichkeiten informieren.
 
@@ -3847,6 +3857,8 @@ Absatz 3a gilt entsprechend. In den Therapiehinweisen nach den Sätzen 1 und 7 k
 2. das Nähere über die Bescheinigungen und Aufzeichnungen bei Durchführung der Maßnahmen zur Früherkennung von Krankheiten,
 
 3. Einzelheiten zum Verfahren und zur Durchführung von Auswertungen der Aufzeichnungen sowie der Evaluation der Maßnahmen zur Früherkennung von Krankheiten einschließlich der organisierten Krebsfrüherkennungsprogramme nach § 25a.
+
+(4a) Der Gemeinsame Bundesausschuss beschließt bis zum 31. Dezember 2021 in den Richtlinien nach Absatz 1 Satz 2 Nummer 7 Regelungen zur Feststellung der Arbeitsunfähigkeit im Rahmen der ausschließlichen Fernbehandlung in geeigneten Fällen. Bei der Festlegung der Regelungen nach Satz 1 ist zu beachten, dass im Falle der erstmaligen Feststellung der Arbeitsunfähigkeit im Rahmen der ausschließlichen Fernbehandlung diese nicht über einen Zeitraum von bis zu drei Kalendertagen hinausgehen und ihr keine Feststellung des Fortbestehens der Arbeitsunfähigkeit folgen soll. Der Gemeinsame Bundesausschuss hat dem Ausschuss für Gesundheit des Deutschen Bundestages zwei Jahre nach dem Inkrafttreten der Regelungen nach Satz 1 über das Bundesministerium für Gesundheit einen Bericht über deren Umsetzung vorzulegen. Bei der Erstellung des Berichtes ist den Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer Gelegenheit zur Stellungnahme zu geben.
 
 (5) Vor der Entscheidung des Gemeinsamen Bundesausschusses über die Richtlinien nach Absatz 1 Satz 2 Nr. 8 ist den in § 111b Satz 1 genannten Organisationen der Leistungserbringer, den Rehabilitationsträgern (§ 6 Abs. 1 Nr. 2 bis 7 des Neunten Buches) sowie der Bundesarbeitsgemeinschaft für Rehabilitation Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen. In den Richtlinien ist zu regeln, bei welchen Behinderungen, unter welchen Voraussetzungen und nach welchen Verfahren die Vertragsärzte die Krankenkassen über die Behinderungen von Versicherten zu unterrichten haben.
 
@@ -4326,9 +4338,11 @@ Die Festlegungen nach § 101 Absatz 1 Satz 8 sind zu beachten. Ab dem 1. Januar 
 
 6. Förderung des freiwilligen Verzichts auf die Zulassung als Vertragsarzt, insbesondere bei Verzicht auf einen Nachbesetzungsantrag nach § 103 Absatz 3a Satz 1, und Entschädigungszahlungen nach § 103 Absatz 3a Satz 13,
 
-7. Förderung des Betriebs der Terminservicestellen.
+7. Förderung des Betriebs der Terminservicestellen,
 
-Es ist sicherzustellen, dass die für den Strukturfonds bereitgestellten Mittel vollständig zur Förderung der Sicherstellung der vertragsärztlichen Versorgung verwendet werden. Die Kassenärztliche Vereinigung erstellt jährlich einen im Internet zu veröffentlichenden Bericht über die Verwendung der Mittel des Strukturfonds. Auch die Kassenzahnärztliche Vereinigung kann zur Finanzierung von Fördermaßnahmen zur Sicherstellung der vertragszahnärztlichen Versorgung einen Strukturfonds bilden, für den sie bis zu 0,2 Prozent der nach § 85 vereinbarten Gesamtvergütungen zur Verfügung stellt. Die Sätze 2, 3 Nummer 1 bis 4 sowie die Sätze 4 und 5 gelten in diesem Fall entsprechend. Die Kassenzahnärztliche Vereinigung kann in den Jahren 2021 und 2022 aus Mitteln des Strukturfonds eine Förderung von in den Jahren 2019 bis 2021 neu niedergelassenen Praxen vorsehen.
+8. Förderung telemedizinischer Versorgungsformen und telemedizinischer Kooperationen der Leistungserbringer.
+
+Es ist sicherzustellen, dass die für den Strukturfonds bereitgestellten Mittel vollständig zur Förderung der Sicherstellung der vertragsärztlichen Versorgung verwendet werden. Die Kassenärztliche Vereinigung erstellt jährlich einen im Internet zu veröffentlichenden Bericht über die Verwendung der Mittel des Strukturfonds. Auch die Kassenzahnärztliche Vereinigung kann zur Finanzierung von Fördermaßnahmen zur Sicherstellung der vertragszahnärztlichen Versorgung einen Strukturfonds bilden, für den sie bis zu 0,2 Prozent der nach § 85 vereinbarten Gesamtvergütungen zur Verfügung stellt. Die Sätze 2, 3 Nummer 1 bis 4 und 8 sowie die Sätze 4 und 5 gelten in diesem Fall entsprechend. Die Kassenzahnärztliche Vereinigung kann in den Jahren 2021 und 2022 aus Mitteln des Strukturfonds eine Förderung von in den Jahren 2019 bis 2021 neu niedergelassenen Praxen vorsehen.
 
 (1b) Die Kassenärztlichen Vereinigungen, die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich können vereinbaren, über die Mittel nach Absatz 1a hinaus einen zusätzlichen Betrag zweckgebunden zur Förderung der Sicherstellung der Strukturen des Notdienstes bereitzustellen.
 
@@ -5085,9 +5099,19 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 8. Maßnahmen der Wirtschaftlichkeit der Leistungserbringung und deren Prüfung,
 
-9. Vergütungsstrukturen für die Arbeitnehmer unter Berücksichtigung der tatsächlich gezahlten Arbeitsentgelte; zum Nachweis der tatsächlich gezahlten Arbeitsentgelte hat die Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege dem Spitzenverband Bund der Krankenkassen auf dessen Anforderung eine Statistik über die im Rahmen von § 165 des Siebten Buches erfolgten Meldungen zu übersenden, die insbesondere die Anzahl der Arbeitnehmer, deren geleistete Arbeitsstunden sowie die geleisteten Entgelte enthalten soll, sowie
+9. Vergütungsstrukturen für die Arbeitnehmer unter Berücksichtigung der tatsächlich gezahlten Arbeitsentgelte; zum Nachweis der tatsächlich gezahlten Arbeitsentgelte hat die Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege dem Spitzenverband Bund der Krankenkassen auf dessen Anforderung eine Statistik über die im Rahmen von § 165 des Siebten Buches erfolgten Meldungen zu übersenden, die insbesondere die Anzahl der Arbeitnehmer, deren geleistete Arbeitsstunden sowie die geleisteten Entgelte enthalten soll,
 
-10. personelle, räumliche und sachliche Voraussetzungen, die eine zweckmäßige und wirtschaftliche Leistungserbringung im Sinne des § 124 Absatz 1 Nummer 2 gewährleisten, wobei insbesondere im Hinblick auf die räumlichen Voraussetzungen Richtwerte vereinbart werden können.
+10. personelle, räumliche und sachliche Voraussetzungen, die eine zweckmäßige und wirtschaftliche Leistungserbringung im Sinne des § 124 Absatz 1 Nummer 2 gewährleisten, wobei insbesondere im Hinblick auf die räumlichen Voraussetzungen Richtwerte vereinbart werden können, sowie
+
+11. die Vergütung der vom Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 3 Satz 2 bestimmten Leistungen von Heilmittelerbringern, die zur Versorgung mit digitalen Gesundheitsanwendungen erforderlich sind.
+
+(2a) In den Verträgen nach Absatz 1 sind auch die Einzelheiten der Versorgung mit Heilmitteln, die telemedizinisch erbracht werden, zu regeln. Insbesondere ist bis zum 31. Dezember 2021 für die jeweiligen Heilmittelbereiche Folgendes zu regeln:
+
+1. die Leistungen, die telemedizinisch erbracht werden können,
+
+2. die technischen Voraussetzungen, die erforderlich sind, um die Leistungen nach Nummer 1 telemedizinisch zu erbringen.
+
+Die Vereinbarungen nach Satz 2 Nummer 2 sind im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik, der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie der Gesellschaft für Telematik zu treffen. Kommt eine Vereinbarung nicht bis zum 31. Dezember 2021 zustande, setzt die Schiedsstelle nach Absatz 6 die Vertragsinhalte nach Satz 2 innerhalb von drei Monaten fest.
 
 (3) Die Vertragspartner haben zu beachten, dass die auszuhandelnden Preise eine leistungsgerechte und wirtschaftliche Versorgung ermöglichen. Sie haben bei der Vereinbarung der Preise für die einzelnen Leistungspositionen unter Zugrundelegung eines wirtschaftlich zu führenden Praxisbetriebes insbesondere Folgendes zu berücksichtigen:
 
@@ -5613,7 +5637,7 @@ Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergüt
 
 # § 134 – Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung
 
-(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den Herstellern digitaler Gesundheitsanwendungen mit Wirkung für alle Krankenkassen Vergütungsbeträge für digitale Gesundheitsanwendungen. Die Vergütungsbeträge gelten nach dem ersten Jahr nach Aufnahme der jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e. Gegenstand der Vereinbarungen sollen auch erfolgsabhängige Preisbestandteile sein. Die Hersteller übermitteln dem Spitzenverband Bund der Krankenkassen
+(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den Herstellern digitaler Gesundheitsanwendungen mit Wirkung für alle Krankenkassen Vergütungsbeträge für digitale Gesundheitsanwendungen. Die Vergütungsbeträge gelten nach dem ersten Jahr nach Aufnahme der jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e unabhängig davon, ob die Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 3 dauerhaft oder nach § 139e Absatz 4 zur Erprobung erfolgt. Gegenstand der Vereinbarungen sollen auch erfolgsabhängige Preisbestandteile sein. Die Hersteller übermitteln dem Spitzenverband Bund der Krankenkassen
 
 1. die Nachweise nach § 139e Absatz 2 und die Ergebnisse einer Erprobung nach § 139e Absatz 4 sowie
 
@@ -5621,11 +5645,13 @@ Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergüt
 
 Die Verhandlungen und deren Vorbereitung einschließlich der Beratungsunterlagen und Niederschriften zur Vereinbarung des Vergütungsbetrags sind vertraulich. Eine Vereinbarung nach diesem Absatz kann von einer Vertragspartei frühestens nach einem Jahr gekündigt werden. Die bisherige Vereinbarung gilt bis zum Wirksamwerden einer neuen Vereinbarung fort.
 
-(2) Kommt eine Vereinbarung nach Absatz 1 nicht innerhalb eines Jahres nach Aufnahme der jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e zustande, setzt die Schiedsstelle nach Absatz 3 innerhalb von drei Monaten die Vergütungsbeträge fest. Dabei ist ein Ausgleich der Differenz zum Abgabepreis nach Absatz 5 für die Zeit nach Ablauf der Jahresfrist nach Satz 1 festzusetzen. Die Schiedsstelle entscheidet unter freier Würdigung aller Umstände des Einzelfalls und berücksichtigt dabei die Besonderheiten des jeweiligen Anwendungsgebietes. Die Schiedsstelle gibt dem Verband der Privaten Krankenversicherung vor ihrer Entscheidung Gelegenheit zur Stellungnahme. Absatz 1 Satz 4 gilt entsprechend. Klagen gegen Entscheidungen der Schiedsstelle haben keine aufschiebende Wirkung. Ein Vorverfahren findet nicht statt. Frühestens ein Jahr nach Festsetzung der Vergütungsbeträge durch die Schiedsstelle können die Vertragsparteien eine neue Vereinbarung über die Vergütungsbeträge nach Absatz 1 schließen. Der Schiedsspruch gilt bis zum Wirksamwerden einer neuen Vereinbarung fort.
+(2) Kommt eine Vereinbarung nach Absatz 1 nicht innerhalb von neun Monaten nach Aufnahme der jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e zustande, setzt die Schiedsstelle nach Absatz 3 innerhalb von drei Monaten die Vergütungsbeträge fest. Wenn durch eine Verzögerung des Schiedsverfahrens die Festlegung der Vergütungsbeträge durch die Schiedsstelle nicht innerhalb von drei Monaten erfolgt, ist von der Schiedsstelle ein Ausgleich der Differenz zwischen dem Abgabepreis nach Absatz 5 und dem festgesetzten Vergütungsbetrag für den Zeitraum nach Ablauf der drei Monate nach Satz 1 bis zur Festsetzung des Vergütungsbetrags vorzusehen. Die Schiedsstelle entscheidet unter freier Würdigung aller Umstände des Einzelfalls und berücksichtigt dabei die Besonderheiten des jeweiligen Anwendungsgebietes. Die Schiedsstelle gibt dem Verband der Privaten Krankenversicherung vor ihrer Entscheidung Gelegenheit zur Stellungnahme. Absatz 1 Satz 4 gilt entsprechend. Klagen gegen Entscheidungen der Schiedsstelle haben keine aufschiebende Wirkung. Ein Vorverfahren findet nicht statt. Frühestens ein Jahr nach Festsetzung der Vergütungsbeträge durch die Schiedsstelle können die Vertragsparteien eine neue Vereinbarung über die Vergütungsbeträge nach Absatz 1 schließen. Der Schiedsspruch gilt bis zum Wirksamwerden einer neuen Vereinbarung fort.
+
+(2a) Wird eine digitale Gesundheitsanwendung nach Abschluss der Erprobung gemäß § 139e Absatz 4 Satz 6 in das Verzeichnis für digitale Gesundheitsanwendungen aufgenommen, erfolgt die Festsetzung des Vergütungsbetrags für die aufgenommene digitale Gesundheitsanwendung durch die Schiedsstelle abweichend von Absatz 2 Satz 1 innerhalb von drei Monaten nach Ablauf des dritten auf die Entscheidung des Bundesinstituts für Arzneimittel und Medizinprodukte nach § 139e Absatz 4 Satz 6 folgenden Monats, wenn eine Vereinbarung nach Absatz 1 in dieser Zeit nicht zustande gekommen ist.
 
 (3) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der Hersteller von digitalen Gesundheitsanwendungen auf Bundesebene bilden eine gemeinsame Schiedsstelle. Sie besteht aus einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern sowie aus jeweils zwei Vertretern der Krankenkassen und der Hersteller digitaler Gesundheitsanwendungen. Für die unparteiischen Mitglieder sind Stellvertreter zu benennen. Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die Verbände nach Satz 1 einigen. Kommt eine Einigung nicht zustande, erfolgt eine Bestellung des unparteiischen Vorsitzenden, der weiteren unparteiischen Mitglieder und deren Stellvertreter durch das Bundesministerium für Gesundheit, nachdem es den Vertragsparteien eine Frist zur Einigung gesetzt hat und diese Frist abgelaufen ist. Die Mitglieder der Schiedsstelle führen ihr Amt als Ehrenamt. Sie sind an Weisungen nicht gebunden. Jedes Mitglied hat eine Stimme. Die Entscheidungen werden mit der Mehrheit der Stimmen der Mitglieder getroffen. Ergibt sich keine Mehrheit, gibt die Stimme des Vorsitzenden den Ausschlag. Das Bundesministerium für Gesundheit kann an der Beratung und Beschlussfassung der Schiedsstelle teilnehmen. Die Patientenorganisationen nach § 140f können beratend an den Sitzungen der Schiedsstelle teilnehmen. Die Schiedsstelle gibt sich eine Geschäftsordnung. Über die Geschäftsordnung entscheiden die unparteiischen Mitglieder im Benehmen mit den Verbänden nach Satz 1. Die Geschäftsordnung bedarf der Genehmigung des Bundesministeriums für Gesundheit. Die Aufsicht über die Geschäftsführung der Schiedsstelle führt das Bundesministerium für Gesundheit. Das Nähere regelt die Rechtsverordnung nach § 139e Absatz 9 Nummer 7.
 
-(4) Die Verbände nach Absatz 3 Satz 1 treffen eine Rahmenvereinbarung über die Maßstäbe für die Vereinbarungen der Vergütungsbeträge. Bei der Rahmenvereinbarung über die Maßstäbe ist zu berücksichtigen, ob und inwieweit der Nachweis positiver Versorgungseffekte nach § 139e Absatz 2 Satz 2 Nummer 3 erbracht ist. Kommt eine Rahmenvereinbarung nicht zustande, setzen die unparteiischen Mitglieder der Schiedsstelle nach Absatz 3 die Rahmenvereinbarung im Benehmen mit den Verbänden auf Antrag einer Vertragspartei nach Absatz 3 Satz 1 fest. Kommt eine Rahmenvereinbarung nicht innerhalb einer vom Bundesministerium für Gesundheit gesetzten Frist zustande, gilt Satz 3 entsprechend. Absatz 2 Satz 4 bis 7 und 9 gilt entsprechend.
+(4) Die Verbände nach Absatz 3 Satz 1 treffen eine Rahmenvereinbarung über die Maßstäbe für die Vereinbarungen der Vergütungsbeträge. Bei der Rahmenvereinbarung über die Maßstäbe ist zu berücksichtigen, ob und inwieweit der Nachweis positiver Versorgungseffekte nach § 139e Absatz 2 Satz 2 Nummer 3 erbracht ist. Kommt eine Rahmenvereinbarung nicht zustande, setzen die unparteiischen Mitglieder der Schiedsstelle nach Absatz 3 die Rahmenvereinbarung im Benehmen mit den Verbänden auf Antrag einer Vertragspartei nach Absatz 3 Satz 1 fest. Kommt eine Rahmenvereinbarung nicht innerhalb einer vom Bundesministerium für Gesundheit gesetzten Frist zustande, gilt Satz 3 entsprechend. Absatz 2 Satz 4, 6, 7 und 9 gilt mit der Maßgabe, dass die unparteiischen Mitglieder Festsetzungen zu der Rahmenvereinbarung innerhalb von drei Monaten treffen, entsprechend.
 
 (5) Bis zur Festlegung der Vergütungsbeträge nach Absatz 1 gelten die tatsächlichen Preise der Hersteller von digitalen Gesundheitsanwendungen. In der Rahmenvereinbarung nach Absatz 4 ist das Nähere zu der Ermittlung der tatsächlichen Preise der Hersteller zu regeln. In der Rahmenvereinbarung nach Absatz 4 kann auch Folgendes festgelegt werden:
 
@@ -5633,7 +5659,7 @@ Die Verhandlungen und deren Vorbereitung einschließlich der Beratungsunterlagen
 
 2. Höchstbeträge für die vorübergehende Vergütung nach Satz 1 für Gruppen vergleichbarer digitaler Gesundheitsanwendungen, auch in Abhängigkeit vom Umfang der Leistungsinanspruchnahme durch Versicherte.
 
-Höchstbeträge nach Satz 3 Nummer 2 müssen für Gruppen vergleichbarer digitaler Gesundheitsanwendungen auch in Abhängigkeit davon festgelegt werden, ob und inwieweit der Nachweis positiver Versorgungseffekte nach § 139e Absatz 2 Satz 2 Nummer 3 bereits erbracht ist. Die nach Satz 3 Nummer 2 für den Fall der vorläufigen Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen zur Erprobung nach § 139e Absatz 4 zu vereinbarenden Höchstpreise müssen dabei geringer sein als bei einer unmittelbaren dauerhaften Aufnahme nach § 139e Absatz 2 und 3.
+Höchstbeträge nach Satz 3 Nummer 2 müssen für Gruppen vergleichbarer digitaler Gesundheitsanwendungen auch in Abhängigkeit davon festgelegt werden, ob und inwieweit der Nachweis positiver Versorgungseffekte nach § 139e Absatz 2 Satz 2 Nummer 3 bereits erbracht ist. Die nach Satz 3 Nummer 2 für den Fall der vorläufigen Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen zur Erprobung nach § 139e Absatz 4 zu vereinbarenden Höchstpreise müssen dabei geringer sein als bei einer unmittelbaren dauerhaften Aufnahme nach § 139e Absatz 2 und 3. Werden in der Rahmenvereinbarung nach Absatz 4 für eine Gruppe vergleichbarer digitaler Gesundheitsanwendungen keine Höchstbeträge nach Satz 3 Nummer 2 festgelegt, kann das Bundesministerium für Gesundheit den Verbänden nach Absatz 3 Satz 1 eine Frist von drei Monaten zur Festlegung von Höchstbeträgen nach Satz 3 Nummer 2 für diese Gruppe vergleichbarer digitaler Gesundheitsanwendungen setzen. Kommt eine Festlegung von Höchstbeträgen nach Satz 6 nicht in der vom Bundesministerium für Gesundheit gesetzten Frist zustande, gilt Absatz 4 Satz 3 entsprechend.
 
 # § 134a – Versorgung mit Hebammenhilfe
 
@@ -5645,7 +5671,17 @@ Höchstbeträge nach Satz 3 Nummer 2 müssen für Gruppen vergleichbarer digital
 
 (1c) Die Vertragspartner vereinbaren in den Verträgen nach Absatz 1 Satz 1 bis zum 30. September 2014 zusätzlich zu den nach Absatz 1 Satz 3 vorzunehmenden Vergütungsanpassungen einen Zuschlag auf die Abrechnungspositionen für Geburtshilfeleistungen bei Hausgeburten, außerklinischen Geburten in von Hebammen geleiteten Einrichtungen sowie Geburten durch Beleghebammen in einer Eins-zu-eins-Betreuung ohne Schichtdienst, der von den Krankenkassen für Geburten vom 1. Juli 2014 bis zum 30. Juni 2015 an die Hebammen zu zahlen ist.
 
-(1d) Die Vertragspartner vereinbaren in den Verträgen nach Absatz 1 Satz 1 Pauschalen, die im Verfahren zur Finanzierung von Kosten für die Ausbildung von Hebammenstudierenden in ambulanten hebammengeleiteten Einrichtungen und bei freiberuflichen Hebammen Bestandteil des nach § 17a Absatz 3 des Krankenhausfinanzierungsgesetzes zu vereinbarenden Ausbildungsbudgets werden. Die Pauschalen nach Satz 1 sind erstmals bis zum 31. Dezember 2019 mit Wirkung für diejenigen Hebammen und hebammengeleiteten Einrichtungen, die sich zur berufspraktischen ambulanten Ausbildung von Hebammenstudierenden verpflichtet haben, zu vereinbaren. Für die Kosten der Weiterqualifizierung, die dazu dient, die Hebamme erstmals für die Praxisanleitung nach § 14 des Hebammengesetzes zu qualifizieren, ist eine eigene Pauschale zu bilden. Der Spitzenverband Bund der Krankenkassen veröffentlicht die Pauschalen auf seiner Internetseite; dies gilt auch für eine Festlegung durch die Schiedsstelle gemäß Absatz 3 Satz 3.
+(1d) Die Vertragsparteien vereinbaren in den Verträgen nach Absatz 1 Satz 1 Regelungen über
+
+1. die Leistungen der Hebammenhilfe, die im Wege der Videobetreuung erbracht werden,
+
+2. die technischen Voraussetzungen, die erforderlich sind, um die Leistungen der Hebammenhilfe nach Nummer 1 im Wege der Videobetreuung zu erbringen, und
+
+3. die Leistungen der Hebammenhilfe, die im Zusammenhang mit dem Einsatz einer digitalen Gesundheitsanwendung erbracht werden.
+
+Die Vereinbarungen nach Satz 1 Nummer 2 sind im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie der Gesellschaft für Telematik zu treffen. Die Vereinbarung nach Satz 1 Nummer 2 ist dem Bundesministerium für Gesundheit zur Prüfung vorzulegen. Für die Prüfung gilt § 369 Absatz 2 und 3 entsprechend. Die Vereinbarungen nach Satz 1 Nummer 3 sind auf Grundlage der vom Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 3 Satz 2 bestimmten Leistungen der Hebammenhilfe, die zur Versorgung mit digitalen Gesundheitsanwendungen erforderlich sind, zu treffen.
+
+(1e) Die Vertragspartner vereinbaren in den Verträgen nach Absatz 1 Satz 1 Pauschalen, die im Verfahren zur Finanzierung von Kosten für die Ausbildung von Hebammenstudierenden in ambulanten hebammengeleiteten Einrichtungen und bei freiberuflichen Hebammen Bestandteil des nach § 17a Absatz 3 des Krankenhausfinanzierungsgesetzes zu vereinbarenden Ausbildungsbudgets werden. Die Pauschalen nach Satz 1 sind erstmals bis zum 31. Dezember 2019 mit Wirkung für diejenigen Hebammen und hebammengeleiteten Einrichtungen, die sich zur berufspraktischen ambulanten Ausbildung von Hebammenstudierenden verpflichtet haben, zu vereinbaren. Für die Kosten der Weiterqualifizierung, die dazu dient, die Hebamme erstmals für die Praxisanleitung nach § 14 des Hebammengesetzes zu qualifizieren, ist eine eigene Pauschale zu bilden. Der Spitzenverband Bund der Krankenkassen veröffentlicht die Pauschalen auf seiner Internetseite; dies gilt auch für eine Festlegung durch die Schiedsstelle gemäß Absatz 3 Satz 3.
 
 (2) Die Verträge nach Absatz 1 haben Rechtswirkung für freiberuflich tätige Hebammen, wenn sie
 
@@ -5681,13 +5717,13 @@ Die Hebammen sind verpflichtet, die Daten nach Satz 2 sowie Änderungen unverzü
 
 (2c) Der Spitzenverband Bund der Krankenkassen ist befugt, die Daten nach Absatz 2 zur Erfüllung seiner Aufgaben nach dieser Vorschrift zu verarbeiten. Er ist befugt und verpflichtet, die Daten nach Absatz 2a an die Krankenkassen zu übermitteln.
 
-(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht zu Stande, wird der Vertragsinhalt durch die Schiedsstelle nach Absatz 4 festgesetzt. Der bisherige Vertrag gilt bis zur Entscheidung durch die Schiedsstelle vorläufig weiter. Kommt im Fall des Absatzes 1d bis zum 31. Dezember 2019 eine Vereinbarung nicht zustande, haben die Vertragspartner nach Absatz 1 die Schiedsstelle nach Absatz 4 hierüber unverzüglich zu informieren; diese hat von Amts wegen ein Schiedsverfahren einzuleiten und innerhalb von sechs Wochen die Pauschalen nach Absatz 1d festzulegen. Für die nach dem erstmaligen Zustandekommen einer Vereinbarung nach Absatz 1d oder einer Schiedsstellenentscheidung nach Satz 2 zu treffenden Folgeverträge gelten die Sätze 1 und 2.
+(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht zu Stande, wird der Vertragsinhalt durch die Schiedsstelle nach Absatz 4 festgesetzt. Der bisherige Vertrag gilt bis zur Entscheidung durch die Schiedsstelle vorläufig weiter. Kommt im Fall des Absatzes 1d bis zum 31. Dezember 2019 eine Vereinbarung nicht zustande, haben die Vertragspartner nach Absatz 1 die Schiedsstelle nach Absatz 4 hierüber unverzüglich zu informieren; diese hat von Amts wegen ein Schiedsverfahren einzuleiten und innerhalb von sechs Wochen die Pauschalen nach Absatz 1e festzulegen. Für die nach dem erstmaligen Zustandekommen einer Vereinbarung nach Absatz 1e oder einer Schiedsstellenentscheidung nach Satz 2 zu treffenden Folgeverträge gelten die Sätze 1 und 2.
 
 (4) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Berufsverbände der Hebammen sowie die Verbände der von Hebammen geleiteten Einrichtungen auf Bundesebene bilden eine gemeinsame Schiedsstelle. Sie besteht aus Vertretern der Krankenkassen und der Hebammen in gleicher Zahl sowie aus einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern. Die Amtsdauer beträgt vier Jahre. Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die Vertragspartner einigen. Kommt es nicht zu einer Einigung über die unparteiischen Mitglieder oder deren Stellvertreter, entscheidet das Los, wer das Amt des unparteiischen Vorsitzenden, der weiteren unparteiischen Mitglieder und der Stellvertreter auszuüben hat; die Amtsdauer beträgt in diesem Fall ein Jahr. Im Übrigen gilt § 129 Abs. 9 und 10 entsprechend.
 
 (5) Ein Ersatzanspruch nach § 116 Absatz 1 des Zehnten Buches wegen Schäden aufgrund von Behandlungsfehlern in der Geburtshilfe kann von Kranken- und Pflegekassen gegenüber freiberuflich tätigen Hebammen nur geltend gemacht werden, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht wurde. Im Fall einer gesamtschuldnerischen Haftung können Kranken- und Pflegekassen einen nach § 116 Absatz 1 des Zehnten Buches übergegangenen Ersatzanspruch im Umfang des Verursachungs- und Verschuldensanteils der nach Satz 1 begünstigten Hebamme gegenüber den übrigen Gesamtschuldnern nicht geltend machen.
 
-(6) Als Hebammen im Sinne dieser Vorschrift gelten auch Entbindungspfleger.
+(6) (weggefallen)
 
 # § 135 – Bewertung von Untersuchungs- und Behandlungsmethoden
 
@@ -6181,7 +6217,7 @@ Gelangt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine Leistung
 
 (2) Die Aufnahme in das Verzeichnis erfolgt auf elektronischen Antrag des Herstellers beim Bundesinstitut für Arzneimittel und Medizinprodukte. Der Hersteller hat dem Antrag Nachweise darüber beizufügen, dass die digitale Gesundheitsanwendung
 
-1. den Anforderungen an Sicherheit, Funktionstauglichkeit und Qualität des Medizinproduktes entspricht,
+1. den Anforderungen an Sicherheit, Funktionstauglichkeit und Qualität einschließlich der Interoperabilität des Medizinproduktes entspricht,
 
 2. den Anforderungen an den Datenschutz entspricht und die Datensicherheit nach dem Stand der Technik gewährleistet und
 
@@ -6189,11 +6225,11 @@ Gelangt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine Leistung
 
 Ein positiver Versorgungseffekt nach Satz 2 Nummer 3 ist entweder ein medizinischer Nutzen oder eine patientenrelevante Struktur- und Verfahrensverbesserung in der Versorgung. Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Antragsformulare für seinen Antrag zu verwenden.
 
-(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet über den Antrag des Herstellers innerhalb von drei Monaten nach Eingang der vollständigen Antragsunterlagen durch Bescheid. Die Entscheidung umfasst auch die Bestimmung der ärztlichen Leistungen, die zur Versorgung mit der jeweiligen digitalen Gesundheitsanwendung erforderlich sind. Legt der Hersteller unvollständige Antragsunterlagen vor, hat ihn das Bundesinstitut für Arzneimittel und Medizinprodukte aufzufordern, den Antrag innerhalb einer Frist von drei Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen Antragsunterlagen vor und hat der Hersteller keine Erprobung nach Absatz 4 beantragt, ist der Antrag abzulehnen.
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet über den Antrag des Herstellers innerhalb von drei Monaten nach Eingang der vollständigen Antragsunterlagen durch Bescheid. Die Entscheidung umfasst auch die Bestimmung der ärztlichen Leistungen, der Leistungen der Heilmittelerbringer oder der Leistungen der Hebammenhilfe, die jeweils zur Versorgung mit der jeweiligen digitalen Gesundheitsanwendung erforderlich sind, sowie die Bestimmung der Daten aus Hilfsmitteln und Implantaten, die nach § 374a von der digitalen Gesundheitsanwendung verarbeitet werden. Legt der Hersteller unvollständige Antragsunterlagen vor, hat ihn das Bundesinstitut für Arzneimittel und Medizinprodukte aufzufordern, den Antrag innerhalb einer Frist von drei Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen Antragsunterlagen vor und hat der Hersteller keine Erprobung nach Absatz 4 beantragt, ist der Antrag abzulehnen.
 
-(4) Ist dem Hersteller der Nachweis positiver Versorgungseffekte nach Absatz 2 Satz 2 Nummer 3 noch nicht möglich, kann er nach Absatz 2 auch beantragen, dass die digitale Gesundheitsanwendung für bis zu zwölf Monate in das Verzeichnis zur Erprobung aufgenommen wird. Der Hersteller hat dem Antrag neben den Nachweisen nach Absatz 2 Satz 2 Nummer 1 und 2 eine plausible Begründung des Beitrags der digitalen Gesundheitsanwendung zur Verbesserung der Versorgung und ein von einer herstellerunabhängigen Institution erstelltes wissenschaftliches Evaluationskonzept zum Nachweis positiver Versorgungseffekte beizufügen. Im Bescheid nach Absatz 3 Satz 1 hat das Bundesinstitut für Arzneimittel und Medizinprodukte den Hersteller zum Nachweis der positiven Versorgungseffekte zu verpflichten und das Nähere zu den entsprechenden erforderlichen Nachweisen, einschließlich der zur Erprobung erforderlichen ärztlichen Leistungen, zu bestimmen. Die Erprobung und deren Dauer sind im Verzeichnis für digitale Gesundheitsanwendungen kenntlich zu machen. Der Hersteller hat dem Bundesinstitut für Arzneimittel und Medizinprodukte spätestens nach Ablauf des Erprobungszeitraums die Nachweise für positive Versorgungseffekte der erprobten digitalen Gesundheitsanwendung vorzulegen. Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet über die endgültige Aufnahme der erprobten digitalen Gesundheitsanwendung innerhalb von drei Monaten nach Eingang der vollständigen Nachweise durch Bescheid. Sind positive Versorgungseffekte nicht hinreichend belegt, besteht aber aufgrund der vorgelegten Erprobungsergebnisse eine überwiegende Wahrscheinlichkeit einer späteren Nachweisführung, kann das Bundesinstitut für Arzneimittel und Medizinprodukte den Zeitraum der vorläufigen Aufnahme in das Verzeichnis zur Erprobung um bis zu zwölf Monate verlängern. Lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte eine endgültige Aufnahme in das Verzeichnis ab, so hat es die zur Erprobung vorläufig aufgenommene digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen. Eine erneute Antragstellung nach Absatz 2 ist frühestens zwölf Monate nach dem ablehnenden Bescheid des Bundesinstitut für Arzneimittel und Medizinprodukte und auch nur dann zulässig, wenn neue Nachweise für positive Versorgungseffekte vorgelegt werden. Eine wiederholte vorläufige Aufnahme in das Verzeichnis zur Erprobung ist nicht zulässig.
+(4) Ist dem Hersteller der Nachweis positiver Versorgungseffekte nach Absatz 2 Satz 2 Nummer 3 noch nicht möglich, kann er nach Absatz 2 auch beantragen, dass die digitale Gesundheitsanwendung für bis zu zwölf Monate in das Verzeichnis zur Erprobung aufgenommen wird. Der Hersteller hat dem Antrag neben den Nachweisen nach Absatz 2 Satz 2 Nummer 1 und 2 eine plausible Begründung des Beitrags der digitalen Gesundheitsanwendung zur Verbesserung der Versorgung und ein von einer herstellerunabhängigen Institution erstelltes wissenschaftliches Evaluationskonzept zum Nachweis positiver Versorgungseffekte beizufügen. Im Bescheid nach Absatz 3 Satz 1 hat das Bundesinstitut für Arzneimittel und Medizinprodukte den Hersteller zum Nachweis der positiven Versorgungseffekte zu verpflichten und das Nähere zu den entsprechenden erforderlichen Nachweisen, einschließlich der zur Erprobung erforderlichen ärztlichen Leistungen oder der Leistungen der Heilmittelerbringer oder der Hebammen, zu bestimmen. Die Erprobung und deren Dauer sind im Verzeichnis für digitale Gesundheitsanwendungen kenntlich zu machen. Der Hersteller hat dem Bundesinstitut für Arzneimittel und Medizinprodukte spätestens nach Ablauf des Erprobungszeitraums die Nachweise für positive Versorgungseffekte der erprobten digitalen Gesundheitsanwendung vorzulegen. Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet über die endgültige Aufnahme der erprobten digitalen Gesundheitsanwendung innerhalb von drei Monaten nach Eingang der vollständigen Nachweise durch Bescheid. Sind positive Versorgungseffekte nicht hinreichend belegt, besteht aber aufgrund der vorgelegten Erprobungsergebnisse eine überwiegende Wahrscheinlichkeit einer späteren Nachweisführung, kann das Bundesinstitut für Arzneimittel und Medizinprodukte den Zeitraum der vorläufigen Aufnahme in das Verzeichnis zur Erprobung um bis zu zwölf Monate verlängern. Lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte eine endgültige Aufnahme in das Verzeichnis ab, so hat es die zur Erprobung vorläufig aufgenommene digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen. Eine erneute Antragstellung nach Absatz 2 ist frühestens zwölf Monate nach dem ablehnenden Bescheid des Bundesinstitut für Arzneimittel und Medizinprodukte und auch nur dann zulässig, wenn neue Nachweise für positive Versorgungseffekte vorgelegt werden. Eine wiederholte vorläufige Aufnahme in das Verzeichnis zur Erprobung ist nicht zulässig.
 
-(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte informiert die Vertragspartner nach § 87 Absatz 1 zeitgleich mit der Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis über die ärztlichen Leistungen, die als erforderlich für die Versorgung mit der jeweiligen digitalen Gesundheitsanwendung oder für deren Erprobung bestimmt wurden.
+(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte informiert die Vertragspartner nach § 87 Absatz 1 zeitgleich mit der Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis über die ärztlichen Leistungen, die als erforderlich für die Versorgung mit der jeweiligen digitalen Gesundheitsanwendung oder für deren Erprobung bestimmt wurden. Wurde eine Leistung eines Heilmittelerbringers oder einer Hebamme als erforderlich für die Versorgung mit der jeweiligen digitalen Gesundheitsanwendung oder für deren Erprobung bestimmt, informiert das Bundesinstitut für Arzneimittel und Medizinprodukte die Vertragspartner nach § 125 Absatz 1 oder § 134a Absatz 1 über diese Leistung.
 
 (6) Hersteller digitaler Gesundheitsanwendungen, die in das Verzeichnis aufgenommen wurden, sind verpflichtet, dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich anzuzeigen,
 
@@ -6201,7 +6237,7 @@ Ein positiver Versorgungseffekt nach Satz 2 Nummer 3 ist entweder ein medizinisc
 
 2. dass Änderungen an den im Verzeichnis veröffentlichten Informationen notwendig sind.
 
-Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Anzeigeformulare für seine Anzeigen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet innerhalb von drei Monaten nach der Anzeige durch Bescheid darüber, ob das Verzeichnis anzupassen ist oder ob die digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen ist. Erlangt das Bundesinstitut für Arzneimittel und Medizinprodukte Kenntnis von anzeigepflichtigen Veränderungen einer digitalen Gesundheitsanwendung, so hat es dem jeweiligen Hersteller eine Frist zur Anzeige zu setzen, die in der Regel nicht mehr als vier Wochen betragen darf. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann dem Hersteller gleichzeitig ein Zwangsgeld von bis zu 100 000 Euro androhen und dieses Zwangsgeld im Falle der Nichteinhaltung der Frist zur Anzeige festsetzen. Kommt der Hersteller der Aufforderung zur Anzeige wesentlicher Veränderungen nicht innerhalb der gesetzten Frist nach, kann das Bundesinstitut für Arzneimittel und Medizinprodukte die digitale Gesundheitsanwendung aus dem Verzeichnis streichen. Auf Antrag des Herstellers ist eine digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen.
+Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Anzeigeformulare für seine Anzeigen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet innerhalb von drei Monaten nach der Anzeige durch Bescheid darüber, ob das Verzeichnis anzupassen ist oder ob die digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen ist. Erlangt das Bundesinstitut für Arzneimittel und Medizinprodukte Kenntnis von anzeigepflichtigen Veränderungen einer digitalen Gesundheitsanwendung, so hat es dem jeweiligen Hersteller eine Frist zur Anzeige zu setzen, die in der Regel nicht mehr als vier Wochen betragen darf. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann dem Hersteller gleichzeitig ein Zwangsgeld von bis zu 100 000 Euro androhen und dieses Zwangsgeld im Falle der Nichteinhaltung der Frist zur Anzeige festsetzen. Kommt der Hersteller der Aufforderung zur Anzeige wesentlicher Veränderungen nicht innerhalb der gesetzten Frist nach, kann das Bundesinstitut für Arzneimittel und Medizinprodukte die digitale Gesundheitsanwendung aus dem Verzeichnis streichen. Der Hersteller ist verpflichtet, Veränderungen an der digitalen Gesundheitsanwendung zu dokumentieren. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann die Vorlage der Dokumentation verlangen, wenn das Bundesinstitut für Arzneimittel und Medizinprodukte Kenntnis davon erhält, dass der Hersteller der Anzeigepflicht nach Satz 1 nicht nachgekommen ist. Auf Antrag des Herstellers ist eine digitale Gesundheitsanwendung aus dem Verzeichnis zu streichen.
 
 (7) Die Kosten des Verwaltungsverfahrens nach den Absätzen 2, 3, 4 und 6, einschließlich des Widerspruchsverfahrens gegen einen auf Grund dieser Vorschriften erlassenen Verwaltungsakt oder gegen die auf Grund der Rechtsverordnung nach Absatz 9 erfolgte Festsetzung von Gebühren und Auslagen, trägt der Hersteller. Die Verwaltungskosten werden nach pauschalierten Gebührensätzen erhoben. Kosten für individuell zurechenbare öffentliche Leistungen, die nicht in die Gebühren einbezogen sind, werden als Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben. Für die Erhebung der Gebühren und Auslagen durch das Bundesinstitut für Arzneimittel und Medizinprodukte gelten die §§ 13 bis 21 des Bundesgebührengesetzes entsprechend.
 
@@ -6209,13 +6245,13 @@ Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Anzeigeformulare f
 
 (9) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln zu
 
-1. den Inhalten des Verzeichnisses und dessen Veröffentlichung,
+1. Den Inhalten des Verzeichnisses, dessen Veröffentlichung, der Interoperabilität des elektronischen Verzeichnisses mit elektronischen Transparenzportalen Dritter und der Nutzung der Inhalte des Verzeichnisses durch Dritte.
 
-2. den nach Absatz 2 Satz 2 nachzuweisenden Anforderungen und positiven Versorgungseffekten,
+2. den nach Absatz 2 Satz 2 nachzuweisenden Anforderungen, einschließlich der Anforderungen an die Interoperabilität und die Erfüllung der Verpflichtung zur Integration von Schnittstellen, sowie zu den positiven Versorgungseffekten,
 
 3. den nach Absatz 4 Satz 2 zu begründenden Versorgungsverbesserungen und zu dem nach Absatz 4 Satz 2 beizufügenden Evaluationskonzept zum Nachweis positiver Versorgungseffekte,
 
-4. den nach Absatz 6 Satz 1 anzeigepflichtigen Veränderungen,
+4. den nach Absatz 6 Satz 1 anzeigepflichtigen Veränderungen und der Verpflichtung der Hersteller zur Dokumentation der Vornahme von Veränderungen an der digitalen Gesundheitsanwendung nach Absatz 6 Satz 7,
 
 5. den Einzelheiten der Antrags- und Anzeigeverfahren und des Formularwesens beim Bundesinstitut für Arzneimittel und Medizinprodukte,
 
@@ -6224,6 +6260,10 @@ Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Anzeigeformulare f
 7. der Bestellung der Mitglieder der Schiedsstelle nach § 134, der Erstattung der baren Auslagen und der Entschädigung für den Zeitaufwand der Mitglieder der Schiedsstelle nach § 134, dem Verfahren, dem Teilnahmerecht des Bundesministeriums für Gesundheit und der Patientenorganisationen nach § 140f an den Sitzungen der Schiedsstelle nach § 134 sowie der Verteilung der Kosten.
 
 Die Regelungen nach Satz 1 Nummer 2 und 3 erfolgen unter Berücksichtigung der Grundsätze der evidenzbasierten Medizin.
+
+(10) Das Bundesamt für Sicherheit in der Informationstechnik legt im Einvernehmen mit dem Bundesinstitut für Arzneimittel und Medizinprodukte und im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit erstmals bis zum 31. Dezember 2021 und dann in der Regel jährlich die von digitalen Gesundheitsanwendungen nachzuweisenden Anforderungen an die Datensicherheit nach Absatz 2 Satz 2 Nummer 2 fest. Das Bundesamt für Sicherheit in der Informationstechnik bietet ab dem 1. Juni 2022 Verfahren zur Prüfung der Einhaltung der Anforderungen nach Satz 1 sowie Verfahren zur Bestätigung der Einhaltung der Anforderungen nach Satz 1 durch entsprechende Zertifikate an. Der Nachweis der Erfüllung der Anforderungen an die Datensicherheit durch den Hersteller ist spätestens ab dem 1. Januar 2023 unter Vorlage eines Zertifikates nach Satz 2 zu führen.
+
+(11) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik erstmals bis zum 31. März 2022 und dann in der Regel jährlich die Prüfkriterien für die von digitalen Gesundheitsanwendungen nachzuweisenden Anforderungen an den Datenschutz nach Absatz 2 Satz 2 Nummer 2 fest. Der Nachweis der Erfüllung der Anforderungen an den Datenschutz durch den Hersteller ist ab dem 1. April 2023 durch Vorlage eines anhand der Prüfkriterien nach Satz 1 ausgestellten Zertifikates nach Artikel 42 der Verordnung (EU) 2016/679 zu führen.
 
 # § 140 – Eigeneinrichtungen
 
@@ -6709,9 +6749,19 @@ Das Bundesministerium für Gesundheit kann die Befugnis nach Satz 1 durch Rechts
 
 (6) Der Spitzenverband Bund der Krankenkassen legt für die Meldungen und Informationspflichten nach dieser Vorschrift einheitliche Verfahren und Vordrucke fest und bestimmt die Inhalte für das elektronische Meldeverfahren zwischen den Krankenkassen nach den Absätzen 2, 3a, 4 und 5 sowie für das elektronische Meldeverfahren zwischen den Krankenkassen und den zur Meldung verpflichteten Stellen nach Absatz 3.
 
-# § 176 – (weggefallen)
+# § 176 – Bestandschutzregelung für Solidargemeinschaften
 
-\-
+(1) Die Mitgliedschaft in einer Solidargemeinschaft gilt nur dann als anderweitige Absicherung im Krankheitsfall im Sinne des § 5 Absatz 1 Nummer 13 und als ein mit dem Anspruch auf freie Heilfürsorge oder einer Beihilfeberechtigung vergleichbarer Anspruch im Sinne des § 193 Absatz 3 Satz 2 Nummer 2 des Versicherungsvertragsgesetzes, wenn die Solidargemeinschaft am 20. Januar 2021 bereits bestanden hat und seit ihrer Gründung ununterbrochen fortgeführt wurde, sie beides dem Bundesministerium für Gesundheit nachweist und auf ihren alle fünf Jahre zu stellenden Antrag hin das Bundesministerium für Gesundheit jeweils das Vorliegen eines testierten Gutachtens über die dauerhafte Leistungsfähigkeit gemäß Absatz 3 bestätigt.
+
+(2) Die in Absatz 1 genannten Solidargemeinschaften sind ihren Mitgliedern zur Gewährung von Leistungen verpflichtet, die der Art, dem Umfang und der Höhe nach den Leistungen dieses Buches entsprechen. Hiervon kann durch Satzung der Solidargemeinschaft nicht zum Nachteil ihrer Mitglieder abgewichen werden. Die Kündigung der Mitgliedschaft in einer solchen Solidargemeinschaft wird nur wirksam, wenn das Mitglied das Bestehen einer anderweitigen Absicherung im Krankheitsfall nachweist.
+
+(3) Um eine dauerhafte Leistungsfähigkeit nachzuweisen, hat eine Solidargemeinschaft alle fünf Jahre ein versicherungsmathematisches Gutachten beim Bundesministerium für Gesundheit einzureichen. Das Gutachten ist von einem unabhängigen und geeigneten Gutachter zu prüfen und zu testieren. Voraussetzung für die Erteilung des Testats ist insbesondere, dass
+
+1. die Beiträge der Solidargemeinschaft auf versicherungsmathematischer Grundlage unter Zugrundelegung der Wahrscheinlichkeitstafeln der Bundesanstalt für Finanzdienstleistungsaufsicht und anderer einschlägiger statistischer Daten berechnet sind, insbesondere unter Berücksichtigung der maßgeblichen Annahmen zur Invaliditäts- und Krankheitsgefahr, zur Sterblichkeit und zur Alters- und Geschlechtsabhängigkeit des Risikos, und
+
+2. die dauerhafte Erfüllbarkeit der Verpflichtung nach Absatz 2 Satz 1 jederzeit gewährleistet ist.
+
+(4) Die Regelungen zur Aufnahme in die gesetzliche Krankenversicherung oder in die private Krankenversicherung nach dem Versicherungsvertragsgesetz bleiben unberührt.
 
 # § 177 – (weggefallen)
 
@@ -7576,9 +7626,15 @@ zur Verfügung. In den Informationen nach Satz 2 Nummer 2 ist klar zu unterschei
 
 (5) Die nationale Kontaktstelle arbeitet mit den nationalen Kontaktstellen anderer Mitgliedstaaten und der Europäischen Kommission in Fragen grenzüberschreitender Gesundheitsversorgung zusammen.
 
-(6) Über die Aufgaben nach Absatz 1 hinaus übernimmt der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, auf der Grundlage der technischen Festlegungen der Gesellschaft für Telematik hierzu, Aufbau und Betrieb der organisatorischen und technischen Verbindungsstelle für die Bereitstellung von Diensten für den grenzüberschreitenden Austausch von Gesundheitsdaten (nationale eHealth-Kontaktstelle). Datenschutz und Datensicherheit sind dabei nach dem Stand der Technik zu gewährleisten. Der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, kann die Aufgabe nach Satz 1 an eine geeignete Arbeitsgemeinschaft der gesetzlichen Krankenkassen nach § 94 Absatz 1a Satz 1 des Zehnten Buches oder nach § 219 übertragen. Die Gesellschaft für Telematik nimmt die in diesem Zusammenhang entstehenden Aufgaben auf europäischer Ebene wahr. Über den Aufbau und den laufenden Betrieb der nationalen eHealth-Kontaktstelle stimmt sich der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, kontinuierlich mit der Gesellschaft für Telematik ab.
+(6) Über die Aufgaben nach Absatz 1 hinaus übernimmt der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, Aufbau und Betrieb der organisatorischen und technischen Verbindungsstelle für die Bereitstellung von Diensten für den grenzüberschreitenden Austausch von Gesundheitsdaten (nationale eHealth-Kontaktstelle). Der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, ist der für die Datenverarbeitung durch die nationale eHealth-Kontaktstelle Verantwortliche nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679. Die Gesellschaft für Telematik übernimmt die mit dem grenzüberschreitenden Austausch von Gesundheitsdaten zusammenhängenden Aufgaben und Abstimmungen auf europäischer Ebene und legt die technischen Grundlagen für die nationale eHealth-Kontaktstelle fest, auf deren Basis der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, die nationale eHealth-Kontaktstelle aufbaut und betreibt. Über den Aufbau und den Betrieb der nationalen eHealth-Kontaktstelle stimmt sich der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, fortlaufend im erforderlichen Umfang mit der Gesellschaft für Telematik ab. Das Bundesinstitut für Arzneimittel und Medizinprodukte trifft unter Berücksichtigung der europäischen semantischen Interoperabilitätsfestlegungen und im Benehmen mit der Kassenärztlichen Bundesvereinigung und der Gesellschaft für Telematik die Festlegungen zur semantischen Interoperabilität, die für den grenzüberschreitenden Datenaustausch erforderlich sind, und stimmt diese Festlegungen auf europäischer Ebene ab. Die Festlegungen sind in die nach § 394a Absatz 1 Satz 2 Nummer 3 zu errichtende Plattform aufzunehmen, sobald diese zur Verfügung steht.
 
-(7) An der Finanzierung der nationalen eHealth-Kontaktstelle nach Absatz 6 sind die privaten Krankenversicherungen zu 10 Prozent zu beteiligen.
+(7) Die nationale eHealth-Kontaktstelle nimmt ihren Betrieb spätestens am 1. Juli 2023 auf. Sie hat im Rahmen ihrer Aufgabenerfüllung nach Absatz 6 Satz 1 die Dienste und Anwendungen der Telematikinfrastruktur zu nutzen. Hierbei finden die Regelungen des Elften Kapitels Anwendung.
+
+(8) Hat der Versicherte in die Nutzung des Verfahrens zur Übermittlung seiner Daten aus der elektronischen Patientenkurzakte oder in die Übermittlung der elektronischen vertragsärztlichen Verordnung zum Zweck des grenzüberschreitenden Austauschs von Gesundheitsdaten für die Behandlung oder die Einlösung der Verordnung in einem anderen Mitgliedstaat der Europäischen Union eingewilligt, darf die nationale eHealth-Kontaktstelle diese Daten zu diesem Zweck an die nationale eHealth-Kontaktstelle des Mitgliedstaats der Europäischen Union, in dem die Behandlung stattfindet oder die Verordnung eingelöst wird, übermitteln, sofern der Versicherte zum Zeitpunkt der Behandlung oder der Einlösung der Verordnung die Übermittlung durch eine eindeutige bestätigende Handlung gegenüber der nationalen eHealth-Kontaktstelle technisch freigibt. Es sind technische Maßnahmen zu treffen, die eine Kenntnisnahme der Daten und einen Zugriff durch den Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, und durch die eHealth-Kontaktstelle ausschließen.
+
+(9) Unbeschadet seiner Verantwortlichkeit nach Absatz 6 Satz 2 kann der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, die Aufgabe nach Absatz 6 Satz 1 an eine geeignete Arbeitsgemeinschaft der gesetzlichen Krankenkassen nach § 94 Absatz 1a Satz 1 des Zehnten Buches oder nach § 219 Absatz 1 übertragen. Diese hat die Vorgaben nach den Absätzen 7 und 8 zu erfüllen.
+
+(10) An der Finanzierung der nationalen eHealth-Kontaktstelle nach Absatz 6 sind die privaten Krankenversicherungen zu 10 Prozent zu beteiligen.
 
 Die Änderungen des § 219d durch Artikel 1 Nummer 73 dienen der Umsetzung von Artikel 4 Absatz 2 Buchstabe a und Artikel 5 Buchstabe b Satz 2 der Richtlinie 2011/24/EU des Europäischen Parlaments und des Rates vom 9. März 2011 über die Ausübung der Patientenrechte in der grenzüberschreitenden Gesundheitsversorgung (ABl. L 88 vom 4.4.2011, S. 45) sowie von Artikel 4 der Durchführungsrichtlinie 2012/52/EU der Kommission vom 20. Dezember 2012 mit Maßnahmen zur Erleichterung der Anerkennung von in einem anderen Mitgliedstaat ausgestellten ärztlichen Verschreibungen (ABl. L 356 vom 22.12.2012, S. 68).
 
@@ -7998,7 +8054,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228 Absatz 1 Satz 1 zu tragen haben, sind von den Trägern der Rentenversicherung bei der Zahlung der Rente einzubehalten und zusammen mit den von den Trägern der Rentenversicherung zu tragenden Beiträgen an die Deutsche Rentenversicherung Bund für die Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse zu zahlen. Bei einer Änderung in der Höhe der Beiträge ist die Erteilung eines besonderen Bescheides durch den Träger der Rentenversicherung nicht erforderlich.
 
-(2) Ist bei der Zahlung der Rente die Einbehaltung von Beiträgen nach Absatz 1 unterblieben, sind die rückständigen Beiträge durch den Träger der Rentenversicherung aus der weiterhin zu zahlenden Rente einzubehalten; § 51 Abs. 2 des Ersten Buches gilt entsprechend. Wird die Rente nicht mehr gezahlt, obliegt der Einzug von rückständigen Beiträgen der zuständigen Krankenkasse. Der Träger der Rentenversicherung haftet mit dem von ihm zu tragenden Anteil an den Aufwendungen für die Krankenversicherung.
+(2) Ist bei der Zahlung der Rente die Einbehaltung von Beiträgen nach Absatz 1 unterblieben, sind die rückständigen Beiträge durch den Träger der Rentenversicherung aus der weiterhin zu zahlenden Rente einzubehalten; § 51 Abs. 2 des Ersten Buches gilt entsprechend. Abweichend von Satz 1 kann die Krankenkasse den Anspruch auf Zahlung rückständiger Beiträge mit einem ihr obliegenden Erstattungsbetrag gemäß § 28 Nummer 1 des Vierten Buches verrechnen. Wird nachträglich festgestellt, dass ein freiwilliges Mitglied, das eine Rente nach § 228 Absatz 1 Satz 1 bezieht, versicherungspflichtig ist und ersucht der Träger der Rentenversicherung die Krankenkasse um Verrechnung des der Krankenkasse obliegenden Erstattungsbetrags der als freiwilliges Mitglied entrichteten Beiträge mit einem Anspruch auf Zahlung rückständiger Beiträge oder mit einem Anspruch auf Erstattung eines nach § 106 des Sechsten Buches geleisteten Zuschusses zur Krankenversicherung, ist die Erstattung, sofern sie im Übrigen möglich ist, spätestens innerhalb von zwei Monaten zu erbringen, nachdem die Krankenkasse den Träger der Rentenversicherung informiert hat, dass das freiwillige Mitglied versicherungspflichtig war. Wird die Rente nicht mehr gezahlt, obliegt der Einzug von rückständigen Beiträgen der zuständigen Krankenkasse. Der Träger der Rentenversicherung haftet mit dem von ihm zu tragenden Anteil an den Aufwendungen für die Krankenversicherung.
 
 (3) Soweit im Folgenden nichts Abweichendes bestimmt ist, werden die Beiträge nach den Absätzen 1 und 2 am letzten Bankarbeitstag des Monats fällig, der dem Monat folgt, für den die Rente gezahlt wird. Wird eine Rente am letzten Bankarbeitstag des Monats ausgezahlt, der dem Monat vorausgeht, in dem sie fällig wird (§ 272a des Sechsten Buches), werden die Beiträge nach den Absätzen 1 und 2 abweichend von Satz 1 am letzten Bankarbeitstag des Monats, für den die Rente gezahlt wird, fällig. Am Achten eines Monats wird ein Betrag in Höhe von 300 Millionen Euro fällig; die im selben Monat fälligen Beträge nach den Sätzen 1 und 2 verringern sich um diesen Betrag. Die Deutsche Rentenversicherung Bund leitet die Beiträge nach den Absätzen 1 und 2 an den Gesundheitsfonds weiter und teilt dem Bundesamt für Soziale Sicherung bis zum 15. des Monats die voraussichtliche Höhe der am letzten Bankarbeitstag fälligen Beträge mit.
 
@@ -8008,7 +8064,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (1) Für Versicherungspflichtige haben die Zahlstellen der Versorgungsbezüge die Beiträge aus Versorgungsbezügen einzubehalten und an die zuständige Krankenkasse zu zahlen. Die zu zahlenden Beiträge werden am 15. des Folgemonats der Auszahlung der Versorgungsbezüge fällig. Die Zahlstellen haben der Krankenkasse die einbehaltenen Beiträge nachzuweisen; § 28f Absatz 3 Satz 1 und 2 des Vierten Buches gilt entsprechend. Die Beitragsnachweise sind von den Zahlstellen durch Datenübertragung zu übermitteln; § 202 Absatz 2 gilt entsprechend. Bezieht das Mitglied Versorgungsbezüge von mehreren Zahlstellen und übersteigen die Versorgungsbezüge zusammen mit dem Zahlbetrag der Rente der gesetzlichen Rentenversicherung die Beitragsbemessungsgrenze, verteilt die Krankenkasse auf Antrag des Mitglieds oder einer der Zahlstellen die Beiträge.
 
-(2) § 255 Abs. 2 Satz 1 und 2 gilt entsprechend. Die Krankenkasse zieht die Beiträge aus nachgezahlten Versorgungsbezügen ein. Dies gilt nicht für Beiträge aus Nachzahlungen aufgrund von Anpassungen der Versorgungsbezüge an die wirtschaftliche Entwicklung. Die Erstattung von Beiträgen obliegt der zuständigen Krankenkasse. Die Krankenkassen können mit den Zahlstellen der Versorgungsbezüge Abweichendes vereinbaren.
+(2) § 255 Abs. 2 Satz 1 und 4 gilt entsprechend. Die Krankenkasse zieht die Beiträge aus nachgezahlten Versorgungsbezügen ein. Dies gilt nicht für Beiträge aus Nachzahlungen aufgrund von Anpassungen der Versorgungsbezüge an die wirtschaftliche Entwicklung. Die Erstattung von Beiträgen obliegt der zuständigen Krankenkasse. Die Krankenkassen können mit den Zahlstellen der Versorgungsbezüge Abweichendes vereinbaren.
 
 (3) Die Krankenkasse überwacht die Beitragszahlung. Sind für die Überwachung der Beitragszahlung durch eine Zahlstelle mehrere Krankenkassen zuständig, haben sie zu vereinbaren, daß eine dieser Krankenkassen die Überwachung für die beteiligten Krankenkassen übernimmt. § 98 Abs. 1 Satz 2 des Zehnten Buches gilt entsprechend.
 
@@ -8128,7 +8184,7 @@ soweit sie für die Erfüllung der Aufgaben der Krankenkasse erforderlich sind. 
 
 # § 264 – Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung
 
-(1) Die Krankenkasse kann für Arbeits- und Erwerbslose, die nicht gesetzlich gegen Krankheit versichert sind, für andere Hilfeempfänger sowie für die vom Bundesministerium für Gesundheit bezeichneten Personenkreise die Krankenbehandlung übernehmen, sofern der Krankenkasse Ersatz der vollen Aufwendungen für den Einzelfall sowie eines angemessenen Teils ihrer Verwaltungskosten gewährleistet wird. Die Krankenkasse ist zur Übernahme der Krankenbehandlung nach Satz 1 für Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes verpflichtet, wenn sie durch die Landesregierung oder die von der Landesregierung beauftragte oberste Landesbehörde dazu aufgefordert wird und mit ihr eine entsprechende Vereinbarung mindestens auf Ebene der Landkreise oder kreisfreien Städte geschlossen wird. Die Vereinbarung über die Übernahme der Krankenbehandlung nach Satz 1 für den in Satz 2 genannten Personenkreis hat insbesondere Regelungen zur Erbringung der Leistungen sowie zum Ersatz der Aufwendungen und Verwaltungskosten nach Satz 1 zu enthalten; die Ausgabe einer elektronischen Gesundheitskarte kann vereinbart werden. Wird von der Landesregierung oder der von ihr beauftragten obersten Landesbehörde eine Rahmenvereinbarung auf Landesebene zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis gefordert, sind die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam zum Abschluss einer Rahmenvereinbarung verpflichtet. Zudem vereinbart der Spitzenverband Bund der Krankenkassen mit den auf Bundesebene bestehenden Spitzenorganisationen der nach dem Asylbewerberleistungsgesetz zuständigen Behörden Rahmenempfehlungen zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis. Die Rahmenempfehlungen nach Satz 5, die von den zuständigen Behörden nach dem Asylbewerberleistungsgesetz und den Krankenkassen nach den Sätzen 1 bis 3 sowie von den Vertragspartnern auf Landesebene nach Satz 4 übernommen werden sollen, regeln insbesondere die Umsetzung der leistungsrechtlichen Regelungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes, die Abrechnung und die Abrechnungsprüfung der Leistungen sowie den Ersatz der Aufwendungen und der Verwaltungskosten der Krankenkassen nach Satz 1. Bis zum Inkrafttreten einer Regelung, wonach die elektronische Gesundheitskarte bei Vereinbarungen nach Satz 3 zweiter Halbsatz die Angabe zu enthalten hat, dass es sich um einen Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes handelt, stellen die Vereinbarungspartner die Erkennbarkeit dieses Status in anderer geeigneter Weise sicher.
+(1) Die Krankenkasse kann für Arbeits- und Erwerbslose, die nicht gesetzlich gegen Krankheit versichert sind, für andere Hilfeempfänger sowie für die vom Bundesministerium für Gesundheit bezeichneten Personenkreise die Krankenbehandlung übernehmen, sofern der Krankenkasse Ersatz der vollen Aufwendungen für den Einzelfall sowie eines angemessenen Teils ihrer Verwaltungskosten gewährleistet wird. Die Krankenkasse ist zur Übernahme der Krankenbehandlung nach Satz 1 für Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes verpflichtet, wenn sie durch die Landesregierung oder die von der Landesregierung beauftragte oberste Landesbehörde dazu aufgefordert wird und mit ihr eine entsprechende Vereinbarung mindestens auf Ebene der Landkreise oder kreisfreien Städte geschlossen wird. Die Vereinbarung über die Übernahme der Krankenbehandlung nach Satz 1 für den in Satz 2 genannten Personenkreis hat insbesondere Regelungen zur Erbringung der Leistungen sowie zum Ersatz der Aufwendungen und Verwaltungskosten nach Satz 1 zu enthalten; die Ausgabe einer elektronischen Gesundheitskarte kann vereinbart werden. Wird von der Landesregierung oder der von ihr beauftragten obersten Landesbehörde eine Rahmenvereinbarung auf Landesebene zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis gefordert, sind die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam zum Abschluss einer Rahmenvereinbarung verpflichtet. Zudem vereinbart der Spitzenverband Bund der Krankenkassen mit den auf Bundesebene bestehenden Spitzenorganisationen der nach dem Asylbewerberleistungsgesetz zuständigen Behörden Rahmenempfehlungen zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis. Die Rahmenempfehlungen nach Satz 5, die von den zuständigen Behörden nach dem Asylbewerberleistungsgesetz und den Krankenkassen nach den Sätzen 1 bis 3 sowie von den Vertragspartnern auf Landesebene nach Satz 4 übernommen werden sollen, regeln insbesondere die Umsetzung der leistungsrechtlichen Regelungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes, die Abrechnung und die Abrechnungsprüfung der Leistungen sowie den Ersatz der Aufwendungen und der Verwaltungskosten der Krankenkassen nach Satz 1.
 
 (2) Die Krankenbehandlung von Empfängern von Leistungen nach dem Dritten bis Neunten Kapitel des Zwölften Buches, nach dem Teil 2 des Neunten Buches, von Empfängern laufender Leistungen nach § 2 des Asylbewerberleistungsgesetzes und von Empfängern von Krankenhilfeleistungen nach dem Achten Buch, die nicht versichert sind, wird von der Krankenkasse übernommen. Satz 1 gilt nicht für Empfänger, die voraussichtlich nicht mindestens einen Monat ununterbrochen Hilfe zum Lebensunterhalt beziehen, für Personen, die ausschließlich Leistungen nach § 11 Abs. 5 Satz 3 und § 33 des Zwölften Buches beziehen sowie für die in § 24 des Zwölften Buches genannten Personen.
 
@@ -8886,7 +8942,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (1) Die Krankenkasse verwendet für jeden Versicherten eine Krankenversichertennummer. Die Krankenversichertennummer besteht aus einem unveränderbaren Teil zur Identifikation des Versicherten und einem veränderbaren Teil, der bundeseinheitliche Angaben zur Kassenzugehörigkeit enthält und aus dem bei Vergabe der Nummer an Versicherte nach § 10 sicherzustellen ist, dass der Bezug zu dem Angehörigen, der Mitglied ist, hergestellt werden kann. Der Aufbau und das Verfahren der Vergabe der Krankenversichertennummer haben den Richtlinien nach Absatz 2 zu entsprechen. Die Rentenversicherungsnummer darf nicht als Krankenversichertennummer verwendet werden. Eine Verwendung der Rentenversicherungsnummer zur Bildung der Krankenversichertennummer entsprechend den Richtlinien nach Absatz 2 ist zulässig, wenn nach dem Stand von Wissenschaft und Technik sichergestellt ist, dass nach Vergabe der Krankenversichertennummer weder aus der Krankenversichertennummer auf die Rentenversicherungsnummer noch aus der Rentenversicherungsnummer auf die Krankenversichertennummer zurückgeschlossen werden kann; dieses Erfordernis gilt auch in Bezug auf die vergebende Stelle. Die Prüfung einer Mehrfachvergabe der Krankenversichertennummer durch die Vertrauensstelle bleibt davon unberührt. Wird die Rentenversicherungsnummer zur Bildung der Krankenversichertennummer verwendet, ist für Personen, denen eine Krankenversichertennummer zugewiesen werden muss und die noch keine Rentenversicherungsnummer erhalten haben, eine Rentenversicherungsnummer zu vergeben.
 
-(2) Der Spitzenverband Bund der Krankenkassen hat den Aufbau und das Verfahren der Vergabe der Krankenversichertennummer durch Richtlinien zu regeln. Die Krankenversichertennummer ist von einer von den Krankenkassen und ihren Verbänden räumlich, organisatorisch und personell getrennten Vertrauensstelle zu vergeben. Die Vertrauensstelle gilt als öffentliche Stelle und unterliegt dem Sozialgeheimnis nach § 35 des Ersten Buches. Sie untersteht der Rechtsaufsicht des Bundesministeriums für Gesundheit. § 274 Abs. 1 Satz 2 gilt entsprechend. Die Richtlinien sind dem Bundesministerium für Gesundheit vorzulegen. Es kann sie innerhalb von zwei Monaten beanstanden. Kommen die Richtlinien nicht innerhalb der gesetzten Frist zu Stande oder werden die Beanstandungen nicht innerhalb der vom Bundesministerium für Gesundheit gesetzten Frist behoben, kann das Bundesministerium für Gesundheit die Richtlinien erlassen.
+(2) Der Spitzenverband Bund der Krankenkassen hat den Aufbau und das Verfahren der Vergabe der Krankenversichertennummer durch Richtlinien zu regeln. Die Krankenversichertennummer ist von einer von den Krankenkassen und ihren Verbänden räumlich, organisatorisch und personell getrennten Vertrauensstelle zu vergeben. Die im Zusammenhang mit der Einrichtung und dem Betrieb der Vertrauensstelle anfallenden Verwaltungskosten werden vom Spitzenverband Bund der Krankenkassen finanziert. Die Vertrauensstelle gilt als öffentliche Stelle und unterliegt dem Sozialgeheimnis nach § 35 des Ersten Buches. Sie untersteht der Rechtsaufsicht des Bundesministeriums für Gesundheit. § 274 Abs. 1 Satz 2 gilt entsprechend. Die Richtlinien sind dem Bundesministerium für Gesundheit vorzulegen. Es kann sie innerhalb von zwei Monaten beanstanden. Kommen die Richtlinien nicht innerhalb der gesetzten Frist zu Stande oder werden die Beanstandungen nicht innerhalb der vom Bundesministerium für Gesundheit gesetzten Frist behoben, kann das Bundesministerium für Gesundheit die Richtlinien erlassen.
 
 (3) Die Vertrauensstelle nach Absatz 2 Satz 2 führt ein Verzeichnis der Krankenversichertennummern. Das Verzeichnis enthält für jeden Versicherten den unveränderbaren und den veränderbaren Teil der Krankenversichertennummer sowie die erforderlichen Angaben, um zu gewährleisten, dass der unveränderbare Teil der Krankenversichertennummer nicht mehrfach vergeben wird. Der Spitzenverband Bund der Krankenkassen legt das Nähere zu dem Verzeichnis im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit in den Richtlinien nach Absatz 2 Satz 1 fest, insbesondere ein Verfahren des Datenabgleichs zur Gewährleistung eines tagesaktuellen Standes des Verzeichnisses. Das Verzeichnis darf ausschließlich zum Ausschluss und zur Korrektur von Mehrfachvergaben derselben Krankenversichertennummer verwendet werden.
 
@@ -8912,7 +8968,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 # § 291a – Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
 
-(1) Die elektronische Gesundheitskarte dient mit den in den Absätzen 2 bis 5 genannten Angaben dem Nachweis der Berechtigung zur Inanspruchnahme von Leistungen im Rahmen der vertragsärztlichen Versorgung (Versicherungsnachweis) sowie der Abrechnung mit den Leistungserbringern. Bei der Inanspruchnahme einer ärztlichen Behandlung bestätigt der Versicherte auf dem Abrechnungsschein des Arztes das Bestehen der Mitgliedschaft bei der Krankenkasse durch seine Unterschrift.
+(1) Die elektronische Gesundheitskarte dient mit den in den Absätzen 2 bis 5 genannten Angaben dem Nachweis der Berechtigung zur Inanspruchnahme von Leistungen im Rahmen der vertragsärztlichen Versorgung (Versicherungsnachweis) sowie der Abrechnung mit den Leistungserbringern. Bei der Inanspruchnahme einer ärztlichen Behandlung bestätigt der Versicherte auf dem Abrechnungsschein des Arztes das Bestehen der Mitgliedschaft bei der Krankenkasse durch seine Unterschrift. Ab dem 1. Januar 2024 kann der Versicherungsnachweis auch durch eine digitale Identität nach § 291 Absatz 8 erbracht werden.
 
 (2) Die folgenden Daten müssen auf der elektronischen Gesundheitskarte gespeichert sein:
 
@@ -8950,7 +9006,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 5. Angaben für den Nachweis der Berechtigung zur Inanspruchnahme von Leistungen in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz.
 
-(4) Die Angaben nach den Absätzen 2 und 3 Nummer 1 bis 4 sind auf der elektronischen Gesundheitskarte in einer Form zu speichern, die geeignet ist für eine maschinelle Übertragung auf die für die vertragsärztliche Versorgung vorgesehenen Abrechnungsunterlagen und Vordrucke nach § 295 Absatz 3 Nummer 1 und 2.
+(4) Die Angaben nach den Absätzen 2 und 3 Nummer 1 bis 4 sind auf der elektronischen Gesundheitskarte in einer Form zu speichern, die geeignet ist für eine maschinelle Übertragung auf die für die vertragsärztliche Versorgung vorgesehenen Abrechnungsunterlagen und Vordrucke nach § 295 Absatz 3 Nummer 1 und 2. Ab dem 1. Januar 2023 müssen die Angaben nach Satz 1 zusätzlich zur Speicherung auf der elektronischen Gesundheitskarte auch bei der Krankenkasse zum elektronischen Abruf zur Verfügung stehen.
 
 (5) Die elektronische Gesundheitskarte ist mit einem Lichtbild des Versicherten zu versehen. Versicherte, die jünger als 15 Jahre sind sowie Versicherte, deren Mitwirkung bei der Erstellung des Lichtbildes nicht möglich ist, erhalten eine elektronische Gesundheitskarte ohne Lichtbild.
 
@@ -8960,27 +9016,27 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 # § 291b – Verfahren zur Nutzung der elektronischen Gesundheitskarte als Versicherungsnachweis
 
-(1) Die Krankenkassen haben Dienste zur Verfügung zu stellen, mit denen die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer und Einrichtungen die Gültigkeit und die Aktualität der Angaben nach § 291a Absatz 2 und 3 bei den Krankenkassen online überprüfen und diese Angaben online auf der elektronischen Gesundheitskarte aktualisieren können.
+(1) Die Krankenkassen haben Dienste zur Verfügung zu stellen, mit denen die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer und Einrichtungen die Gültigkeit und die Aktualität der Angaben nach § 291a Absatz 2 und 3 bei den Krankenkassen online überprüfen und diese Angaben aktualisieren können. Bis zum 31. Dezember 2022 haben die Krankenkassen auch Dienste zur Verfügung zu stellen, mit denen die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer und Einrichtungen die Angaben nach § 291a Absatz 2 und 3 auch online auf der elektronischen Gesundheitskarte aktualisieren können.
 
-(2) Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben bei der erstmaligen Inanspruchnahme ihrer Leistungen durch einen Versicherten im Quartal die Leistungspflicht der Krankenkasse durch die Nutzung der Dienste nach Absatz 1 zu prüfen. Dazu ermöglichen sie den Online-Abgleich der auf der elektronischen Gesundheitskarte gespeicherten Daten nach § 291a Absatz 2 und 3 mit den bei der Krankenkasse vorliegenden aktuellen Daten und die Online-Aktualisierung der auf der elektronischen Gesundheitskarte gespeicherten Daten. Die Tatsache, dass die Prüfung durchgeführt worden ist, haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer auf der elektronischen Gesundheitskarte zu speichern. Die technischen Einzelheiten zur Durchführung der Prüfung nach den Sätzen 1 bis 3 sind in den Vereinbarungen nach § 295 Absatz 3 zu regeln.
+(2) Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben bei der erstmaligen Inanspruchnahme ihrer Leistungen durch einen Versicherten im Quartal die Leistungspflicht der Krankenkasse durch die Nutzung der Dienste nach Absatz 1 zu prüfen. Bis zum 31. Dezember 2022 ermöglichen sie dazu den Abgleich der auf der elektronischen Gesundheitskarte gespeicherten Daten nach § 291a Absatz 2 und 3 mit den bei der Krankenkasse vorliegenden aktuellen Daten und die Aktualisierung der auf der elektronischen Gesundheitskarte gespeicherten Daten; ab dem 1. Januar 2023 erfolgt die Prüfung nach Satz 1 durch einen elektronischen Abruf der bei der Krankenkasse vorliegenden Daten nach § 291a Absatz 2 und 3. Die Tatsache, dass die Prüfung durchgeführt worden ist, haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer bei einer Prüfung vor dem 1. Januar 2023 auf der elektronischen Gesundheitskarte, bei einer Prüfung ab dem 1. Januar 2023 in ihren informationstechnischen Systemen, die zur Verarbeitung von personenbezogenen Patientendaten eingesetzt werden, zu speichern. Die technischen Einzelheiten zur Durchführung der Prüfung nach den Sätzen 1 bis 3 sind in den Vereinbarungen nach § 295 Absatz 3 zu regeln.
 
 (3) Die Mitteilung der durchgeführten Prüfung nach Absatz 2 erfolgt als Bestandteil der an die Kassenärztlichen Vereinigungen zu übermittelnden Abrechnungsunterlagen nach § 295. Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen und die vertragsärztlichen Leistungen direkt mit den Krankenkassen abrechnen, teilen den Krankenkassen die Durchführung der Prüfung nach Absatz 2 bei der Übermittlung der Abrechnungsunterlagen mit.
 
 (4) An der vertragsärztlichen Versorgung teilnehmende Leistungserbringer, die Versicherte ohne persönlichen Kontakt behandeln oder die ohne persönlichen Kontakt in die Behandlung des Versicherten einbezogen sind, sind von der Pflicht zur Durchführung der Prüfung nach Absatz 2 ausgenommen. Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer nach Satz 1 haben sich bis zum 30. Juni 2020 an die Telematikinfrastruktur nach § 306 anzuschließen und über die für die Prüfung nach Absatz 2 erforderliche Ausstattung zu verfügen, es sei denn, sie sind hierzu bereits als an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer nach Absatz 2 Satz 1 verpflichtet.
 
-(5) Den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern, die ab dem 1. Januar 2019 ihrer Pflicht zur Prüfung nach Absatz 2 nicht nachkommen, ist die Vergütung vertragsärztlicher Leistungen pauschal um 1 Prozent zu kürzen; an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern, die ihrer Pflicht zur Prüfung nach Absatz 2 ab dem 1. März 2020 nicht nachkommen, ist die Vergütung vertragsärztlicher Leistungen pauschal um 2,5 Prozent zu kürzen. Die Vergütung ist so lange zu kürzen, bis sich der betroffene an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer an die Telematikinfrastruktur angeschlossen hat und über die für die Prüfung nach Absatz 2 erforderliche Ausstattung verfügt. Von der Kürzung der Vergütung vertragsärztlicher Leistungen ist abzusehen, wenn der an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer gegenüber der jeweils zuständigen Kassenärztlichen oder Kassenzahnärztlichen Vereinigung nachweist, bereits vor dem 1. April 2019 die Anschaffung der für die Prüfung nach Absatz 2 erforderlichen Ausstattung vertraglich vereinbart zu haben. Die zur Teilnahme an der vertragsärztlichen Versorgung ermächtigten Ärzte, die in einem Krankenhaus tätig sind, und die zur Teilnahme an der vertragsärztlichen Versorgung ermächtigten Krankenhäuser sowie die nach § 75 Absatz 1b Satz 3 auf Grund einer Kooperationsvereinbarung mit der Kassenärztlichen Vereinigung in den Notdienst einbezogenen zugelassenen Krankenhäuser sind von der Kürzung der Vergütung vertragsärztlicher Leistungen bis zum 31. Dezember 2020 ausgenommen.
+(5) Den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern, die ab dem 1. Januar 2019 ihrer Pflicht zur Prüfung nach Absatz 2 nicht nachkommen, ist die Vergütung vertragsärztlicher Leistungen pauschal um 1 Prozent zu kürzen; an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern, die ihrer Pflicht zur Prüfung nach Absatz 2 ab dem 1. März 2020 nicht nachkommen, ist die Vergütung vertragsärztlicher Leistungen pauschal um 2,5 Prozent zu kürzen. Die Vergütung ist so lange zu kürzen, bis sich der betroffene an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer an die Telematikinfrastruktur angeschlossen hat und über die für die Prüfung nach Absatz 2 erforderliche Ausstattung verfügt. Die zur Teilnahme an der vertragsärztlichen Versorgung ermächtigten Ärzte, die in einem Krankenhaus tätig sind, und die zur Teilnahme an der vertragsärztlichen Versorgung ermächtigten Krankenhäuser sowie die nach § 75 Absatz 1b Satz 3 auf Grund einer Kooperationsvereinbarung mit der Kassenärztlichen Vereinigung in den Notdienst einbezogenen zugelassenen Krankenhäuser sind von der Kürzung der Vergütung vertragsärztlicher Leistungen bis zum 31. Dezember 2021 ausgenommen.
 
 (6) Das Nähere zur bundesweiten Verwendung der elektronischen Gesundheitskarte als Versicherungsnachweis vereinbaren die Vertragspartner im Rahmen der Verträge nach § 87 Absatz 1.
+
+(7) Das Bundesministerium für Gesundheit kann die in den Absätzen 1 und 2 sowie in § 291 Absatz 2 Nummer 3 und Absatz 8 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
 # § 291c – Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte
 
 (1) Bei Beendigung des Versicherungsschutzes oder bei einem Krankenkassenwechsel ist die elektronische Gesundheitskarte von der Krankenkasse, die diese elektronische Gesundheitskarte ausgestellt hat, einzuziehen oder zu sperren und nach dem Stand der Technik zu vernichten.
 
-(2) Der Spitzenverband Bund der Krankenkassen kann zur Verbesserung der Wirtschaftlichkeit und zur Optimierung der Verfahrensabläufe beschließen, dass elektronische Gesundheitskarten abweichend von Absatz 1 von den Versicherten nach einem Krankenkassenwechsel weiter genutzt werden. Der Spitzenverband Bund der Krankenkassen muss dabei sicherstellen, dass die Daten nach § 291a Absatz 2 Nummer 1 und 6 bis 9 fristgerecht aktualisiert werden. Der Beschluss des Spitzenverbandes Bund der Krankenkassen bedarf der Genehmigung des Bundesministeriums für Gesundheit. Vor der Erteilung der Genehmigung ist der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit Gelegenheit zur Stellungnahme zu geben. Das Bundesministerium für Gesundheit kann für die Stellungnahme eine angemessene Frist setzen.
+(2) Wird die elektronische Gesundheitskarte eines Versicherten eingezogen, gesperrt oder im Rahmen eines bestehenden Versicherungsverhältnisses ausgetauscht, so hat die Krankenkasse sicherzustellen, dass der Versicherte weiterhin auf die Daten in den Anwendungen nach § 334 Absatz 1 Nummer 1 und 6 zugreifen und diese Daten verarbeiten kann.
 
-(3) Wird die elektronische Gesundheitskarte eines Versicherten eingezogen, gesperrt oder im Rahmen eines bestehenden Versicherungsverhältnisses ausgetauscht, so hat die Krankenkasse sicherzustellen, dass der Versicherte weiterhin auf die Daten in den Anwendungen nach § 334 Absatz 1 Nummer 1 und 6 zugreifen und diese Daten verarbeiten kann.
-
-(4) Vor dem Einzug der elektronischen Gesundheitskarte und vor dem Austausch der elektronischen Gesundheitskarte im Rahmen eines bestehenden Versicherungsverhältnisses hat die einziehende Krankenkasse über Möglichkeiten zur Löschung der Daten nach § 334 Absatz 1 Satz 2 Nummer 2 bis 5 auf der elektronischen Gesundheitskarte zu informieren.
+(3) Vor dem Einzug der elektronischen Gesundheitskarte und vor dem Austausch der elektronischen Gesundheitskarte im Rahmen eines bestehenden Versicherungsverhältnisses hat die einziehende Krankenkasse über Möglichkeiten zur Löschung der Daten nach § 334 Absatz 1 Satz 2 Nummer 2 bis 5 auf der elektronischen Gesundheitskarte zu informieren.
 
 # § 291d – (weggefallen)
 
@@ -9038,7 +9094,7 @@ Das Verzeichnis ist in monatlichen oder kürzeren Abständen zu aktualisieren. D
 
 (4a) Die Kassenärztliche und die Kassenzahnärztliche Bundesvereinigung übermitteln dem Statistischen Bundesamt für die Erhebung nach dem Gesetz über Kostenstrukturstatistik in der jeweils geltenden Fassung bei Arzt- und Zahnarztpraxen sowie Praxen von Psychotherapeuten auf Anforderung jährlich die in Absatz 4 Satz 2 Nummer 1 bis 3, 5 bis 7 sowie 9 bis 12 genannten Daten. Die in Satz 1 genannten Daten sind innerhalb von 30 Arbeitstagen zu übermitteln. Die Übermittlung der Daten an das Statistische Bundesamt erfolgt nach den vom Statistischen Bundesamt angebotenen sicheren elektronischen Verfahren. Die übermittelten Daten dürfen auch verwendet werden zur Pflege und Führung des Statistikregisters nach § 13 des Bundesstatistikgesetzes (BGBl. I S. 2394), das zuletzt durch Artikel 6 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1648) geändert worden ist.
 
-(5) Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker führt ein bundeseinheitliches Verzeichnis über die Apotheken und stellt dieses dem Spitzenverband Bund der Krankenkassen im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern unentgeltlich zur Verfügung. Änderungen des Verzeichnisses sind dem Spitzenverband Bund der Krankenkassen in monatlichen oder kürzeren Abständen unentgeltlich zu übermitteln. Das Verzeichnis enthält den Namen des Apothekers, die Anschrift und das Kennzeichen der Apotheke; es ist in monatlichen oder kürzeren Abständen zu aktualisieren. Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker stellt das Verzeichnis und die Änderungen nach Satz 2 auch der nach § 2 Satz 1 des Gesetzes über Rabatte für Arzneimittel gebildeten zentralen Stelle im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zur Verfügung; die zentrale Stelle hat die Übermittlungskosten zu tragen. Der Spitzenverband Bund der Krankenkassen stellt seinen Mitgliedsverbänden und den Krankenkassen das Verzeichnis zur Erfüllung ihrer Aufgaben im Zusammenhang mit der Abrechnung der Apotheken, der in den §§ 129 und 300 getroffenen Regelungen sowie der damit verbundenen Datenaufbereitungen zur Verfügung; für andere Zwecke darf der Spitzenverband Bund der Krankenkassen die in dem Verzeichnis enthaltenen Angaben nicht verarbeiten. Die zentrale Stelle darf das Verzeichnis an die Träger der Kosten in Krankheits-, Pflege- und Geburtsfällen nach beamtenrechtlichen Vorschriften, die Unternehmen der privaten Krankenversicherung sowie die sonstigen Träger von Kosten in Krankheitsfällen übermitteln. Die in dem Verzeichnis enthaltenen Angaben dürfen nur für die in § 2 des Gesetzes über Rabatte für Arzneimittel genannten Zwecke verarbeitet werden. Apotheken nach Satz 1 sind verpflichtet, die für das Verzeichnis erforderlichen Auskünfte zu erteilen. Weitere Anbieter von Arzneimitteln sind gegenüber dem Spitzenverband Bund der Krankenkassen entsprechend auskunftspflichtig.
+(5) Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker führt ein bundeseinheitliches Verzeichnis über die Apotheken und stellt dieses dem Spitzenverband Bund der Krankenkassen und der Gesellschaft für Telematik im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern unentgeltlich zur Verfügung. Änderungen des Verzeichnisses sind dem Spitzenverband Bund der Krankenkassen und der Gesellschaft für Telematik in monatlichen oder kürzeren Abständen unentgeltlich zu übermitteln. Das Verzeichnis enthält den Namen des Apothekers, die Anschrift und das Kennzeichen der Apotheke; es ist in monatlichen oder kürzeren Abständen zu aktualisieren. Die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker stellt das Verzeichnis und die Änderungen nach Satz 2 auch der nach § 2 Satz 1 des Gesetzes über Rabatte für Arzneimittel gebildeten zentralen Stelle im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zur Verfügung; die zentrale Stelle hat die Übermittlungskosten zu tragen. Der Spitzenverband Bund der Krankenkassen stellt seinen Mitgliedsverbänden und den Krankenkassen das Verzeichnis zur Erfüllung ihrer Aufgaben im Zusammenhang mit der Abrechnung der Apotheken, der in den §§ 129 und 300 getroffenen Regelungen sowie der damit verbundenen Datenaufbereitungen zur Verfügung; für andere Zwecke darf der Spitzenverband Bund der Krankenkassen die in dem Verzeichnis enthaltenen Angaben nicht verarbeiten. Die zentrale Stelle darf das Verzeichnis an die Träger der Kosten in Krankheits-, Pflege- und Geburtsfällen nach beamtenrechtlichen Vorschriften, die Unternehmen der privaten Krankenversicherung sowie die sonstigen Träger von Kosten in Krankheitsfällen übermitteln. Die in dem Verzeichnis enthaltenen Angaben dürfen nur für die in § 2 des Gesetzes über Rabatte für Arzneimittel genannten Zwecke verarbeitet werden. Die Gesellschaft für Telematik darf die in dem Verzeichnis enthaltenen Angaben nur zum Zweck der Ausgabe von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen nach § 340 Absatz 4 verarbeiten. Apotheken nach Satz 1 sind verpflichtet, die für das Verzeichnis erforderlichen Auskünfte zu erteilen. Weitere Anbieter von Arzneimitteln sind gegenüber dem Spitzenverband Bund der Krankenkassen entsprechend auskunftspflichtig.
 
 (6) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft führen auf der Grundlage der Vereinbarung nach § 2a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes ein bundesweites Verzeichnis der Standorte der nach § 108 zugelassenen Krankenhäuser und ihrer Ambulanzen. Sie können das Institut für das Entgeltsystem im Krankenhaus mit der Aufgabe nach Satz 1 beauftragen. In diesem Fall sind die notwendigen Aufwendungen des Instituts aus dem Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren. Die zugelassenen Krankenhäuser sind verpflichtet, der das Verzeichnis führenden Stelle auf Anforderung die für den Aufbau und die Durchführung des Verzeichnisses erforderlichen Daten sowie Veränderungen dieser Daten auch ohne Anforderung zu übermitteln. Das Verzeichnis ist in nach Satz 10 Nummer 3 zu vereinbarenden Abständen zeitnah zu aktualisieren und im Internet zu veröffentlichen. Die Krankenhäuser verwenden die im Verzeichnis enthaltenen Kennzeichen zu Abrechnungszwecken, für Datenübermittlungen an die Datenstelle nach § 21 Absatz 1 des Krankenhausentgeltgesetzes sowie zur Erfüllung der Anforderungen der Richtlinien und Beschlüsse zur Qualitätssicherung des Gemeinsamen Bundesausschusses. Die Kostenträger nutzen das Verzeichnis zur Erfüllung ihrer Aufgaben insbesondere im Zusammenhang mit der Abrechnung von Leistungen sowie mit Anforderungen der Richtlinien und Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung. Der Gemeinsame Bundesausschuss nutzt das Verzeichnis, sofern dies zur Erfüllung der ihm nach diesem Gesetzbuch übertragenen Aufgaben insbesondere im Rahmen der Qualitätssicherung erforderlich ist. Das Bundeskartellamt erhält die Daten des Verzeichnisses von der das Verzeichnis führenden Stelle im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zur Erfüllung seiner Aufgaben nach dem Gesetz gegen Wettbewerbsbeschränkungen. Die Deutsche Krankenhausgesellschaft und der Spitzenverband Bund der Krankenkassen vereinbaren bis zum 30. Juni 2017 das Nähere zu dem Verzeichnis nach Satz 1, insbesondere
 
@@ -9188,7 +9244,7 @@ Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die übrigen 
 
 3. in den Abrechnungsunterlagen sowie auf den Vordrucken für die vertragsärztliche Versorgung ihre Arztnummer, in Überweisungsfällen die Arztnummer des überweisenden Arztes und bei der Abrechnung von Leistungen nach § 73 Absatz 1 Satz 2 Nummer 2 die Arztnummer des Arztes, bei dem der Termin vermittelt wurde, sowie die Angaben nach § 291a Absatz 2 Nummer 1 bis 10 maschinenlesbar
 
-aufzuzeichnen und zu übermitteln. Die Diagnosen nach Satz 1 Nr. 1 und 2 sind nach der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen deutschen Fassung zu verschlüsseln. Das Bundesministerium für Gesundheit kann das Bundesinstitut für Arzneimittel und Medizinprodukte beauftragen, den in Satz 2 genannten Schlüssel um Zusatzkennzeichen zur Gewährleistung der für die Erfüllung der Aufgaben der Krankenkassen notwendigen Aussagefähigkeit des Schlüssels zu ergänzen. Von Vertragsärzten durchgeführte Operationen und sonstige Prozeduren sind nach dem vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen Schlüssel zu verschlüsseln. In dem Schlüssel nach Satz 4 können durch das Bundesinstitut für Arzneimittel und Medizinprodukte auch Voraussetzungen für die Abrechnung der Operationen und sonstigen Prozeduren festgelegt werden. Das Bundesministerium für Gesundheit gibt den Zeitpunkt des Inkrafttretens der jeweiligen Fassung des Diagnosenschlüssels nach Satz 2 sowie des Prozedurenschlüssels nach Satz 4 im Bundesanzeiger bekannt. Von dem in Satz 6 genannten Zeitpunkt an sind der Diagnoseschlüssel nach Satz 2 sowie der Operationen- und Prozedurenschlüssel nach Satz 4 verbindlich und für die Abrechnung der erbrachten Leistungen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann bei Auslegungsfragen zu den Diagnosenschlüsseln nach Satz 2 und den Prozedurenschlüsseln nach Satz 4 Klarstellungen und Änderungen mit Wirkung auch für die Vergangenheit vornehmen, soweit diese nicht zu erweiterten Anforderungen an die Verschlüsselung erbrachter Leistungen führen. Für das Verfahren der Festlegung des Diagnoseschlüssels nach Satz 2 sowie des Operationen- und Prozedurenschlüssels nach Satz 4 gibt sich das Bundesinstitut für Arzneimittel und Medizinprodukte eine Verfahrensordnung, die der Genehmigung des Bundesministeriums für Gesundheit bedarf und die auf der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte zu veröffentlichen ist. Die Angaben nach Satz 1 Nummer 1 sind unter Angabe der Diagnosen sowie unter Nutzung der Telematikinfrastruktur nach § 291a unmittelbar elektronisch an die Krankenkasse zu übermitteln; dies gilt nicht für Vorsorge- und Rehabilitationseinrichtungen, die nicht an die Telematikinfrastruktur angeschlossen sind.
+aufzuzeichnen und zu übermitteln. Die Diagnosen nach Satz 1 Nr. 1 und 2 sind nach der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen deutschen Fassung zu verschlüsseln. Das Bundesministerium für Gesundheit kann das Bundesinstitut für Arzneimittel und Medizinprodukte beauftragen, den in Satz 2 genannten Schlüssel um Zusatzkennzeichen zur Gewährleistung der für die Erfüllung der Aufgaben der Krankenkassen notwendigen Aussagefähigkeit des Schlüssels zu ergänzen. Von Vertragsärzten durchgeführte Operationen und sonstige Prozeduren sind nach dem vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen Schlüssel zu verschlüsseln. In dem Schlüssel nach Satz 4 können durch das Bundesinstitut für Arzneimittel und Medizinprodukte auch Voraussetzungen für die Abrechnung der Operationen und sonstigen Prozeduren festgelegt werden. Das Bundesministerium für Gesundheit gibt den Zeitpunkt des Inkrafttretens der jeweiligen Fassung des Diagnosenschlüssels nach Satz 2 sowie des Prozedurenschlüssels nach Satz 4 im Bundesanzeiger bekannt. Von dem in Satz 6 genannten Zeitpunkt an sind der Diagnoseschlüssel nach Satz 2 sowie der Operationen- und Prozedurenschlüssel nach Satz 4 verbindlich und für die Abrechnung der erbrachten Leistungen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann bei Auslegungsfragen zu den Diagnosenschlüsseln nach Satz 2 und den Prozedurenschlüsseln nach Satz 4 Klarstellungen und Änderungen mit Wirkung auch für die Vergangenheit vornehmen, soweit diese nicht zu erweiterten Anforderungen an die Verschlüsselung erbrachter Leistungen führen. Für das Verfahren der Festlegung des Diagnoseschlüssels nach Satz 2 sowie des Operationen- und Prozedurenschlüssels nach Satz 4 gibt sich das Bundesinstitut für Arzneimittel und Medizinprodukte eine Verfahrensordnung, die der Genehmigung des Bundesministeriums für Gesundheit bedarf und die auf der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte zu veröffentlichen ist. Die Angaben nach Satz 1 Nummer 1 sind unter Angabe der Diagnosen sowie unter Nutzung des sicheren Übermittlungsverfahrens nach § 311 Absatz 6 über die Telematikinfrastruktur unmittelbar elektronisch an die Krankenkasse zu übermitteln; dies gilt nicht für Vorsorge- und Rehabilitationseinrichtungen, die nicht an die Telematikinfrastruktur angeschlossen sind.
 
 (1a) Für die Erfüllung der Aufgaben nach § 106d sind die an der vertragsärztlichen Versorgung teilnehmenden Ärzte verpflichtet und befugt, auf Verlangen der Kassenärztlichen Vereinigungen die für die Prüfung erforderlichen Befunde vorzulegen.
 
@@ -9230,7 +9286,7 @@ Die Kassenärztlichen Vereinigungen übermitteln für die Durchführung der Prog
 
 5. Einzelheiten der Datenübermittlung einschließlich einer einheitlichen Datensatzstruktur und der Aufbereitung von Abrechnungsunterlagen nach den §§ 296 und 297.
 
-(4) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, Einrichtungen und medizinischen Versorgungszentren haben die für die Abrechnung der Leistungen notwendigen Angaben der Kassenärztlichen Vereinigung im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zu übermitteln. Das Nähere regelt die Kassenärztliche Bundesvereinigung. Dies umfasst im Benehmen mit dem Spitzenverband Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft und dem Bundesinstitut für Arzneimittel und Medizinprodukte für die Abrechnung und Vergütung der vertragsärztlichen Leistungen die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel nach Absatz 1 Satz 6 sowie von Prüfmaßstäben erstmals bis zum 30. Juni 2020 mit Wirkung zum 1. Januar 2022. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind danach jährlich zu aktualisieren. Die Regelungen und die Prüfmaßstäbe nach Satz 3 gelten auch für Leistungserbringer nach § 27b Absatz 3, den §§ 73b, 76 Absatz 1a, den §§ 116, 116a, 116b Absatz 2, den §§ 117 bis 119, 119c, 120 Absatz 1a, den §§ 121a, 137f und 140a sowie für die Leistungserbringung nach § 115b. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind auch Gegenstand der durch die Kassenärztliche Bundesvereinigung durchzuführenden Zertifizierung von Software, Softwareteilen und Komponenten, soweit diese außerhalb der vertragsärztlichen Versorgung zur Anwendung kommen sollen; das Zertifizierungsverfahren hat zudem die Einhaltung der ärztlichen Pflicht zur Übermittlung der Vertragsnummer nach Absatz 1b Satz 8 in Verträgen nach den §§ 73b und 140a zu gewährleisten. Die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel sowie von Prüfmaßstäben nach Satz 3 und die jährliche Aktualisierung nach Satz 4 sind im Einvernehmen mit der Deutschen Krankenhausgesellschaft zu beschließen, sofern Schlüssel nach Absatz 1 Satz 6 wesentlich von Leistungserbringern nach Satz 5, mit Ausnahme von Leistungserbringern nach den §§ 73b und 140a, vergeben werden.
+(4) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, Einrichtungen und medizinischen Versorgungszentren haben die für die Abrechnung der Leistungen notwendigen Angaben der Kassenärztlichen Vereinigung im Wege elektronischer Datenübertragung, die unter Anwendung des sicheren Übermittlungsverfahrens nach § 311 Absatz 6 über die Telematikinfrastruktur erfolgen kann, oder maschinell verwertbar auf Datenträgern zu übermitteln. Das Nähere regelt die Kassenärztliche Bundesvereinigung. Dies umfasst im Benehmen mit dem Spitzenverband Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft und dem Bundesinstitut für Arzneimittel und Medizinprodukte für die Abrechnung und Vergütung der vertragsärztlichen Leistungen die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel nach Absatz 1 Satz 6 sowie von Prüfmaßstäben erstmals bis zum 30. Juni 2020 mit Wirkung zum 1. Januar 2022. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind danach jährlich zu aktualisieren. Die Regelungen und die Prüfmaßstäbe nach Satz 3 gelten auch für Leistungserbringer nach § 27b Absatz 3, den §§ 73b, 76 Absatz 1a, den §§ 116, 116a, 116b Absatz 2, den §§ 117 bis 119, 119c, 120 Absatz 1a, den §§ 121a, 137f und 140a sowie für die Leistungserbringung nach § 115b. Die Regelungen und die Prüfmaßstäbe nach Satz 3 sind auch Gegenstand der durch die Kassenärztliche Bundesvereinigung durchzuführenden Zertifizierung von Software, Softwareteilen und Komponenten, soweit diese außerhalb der vertragsärztlichen Versorgung zur Anwendung kommen sollen; das Zertifizierungsverfahren hat zudem die Einhaltung der ärztlichen Pflicht zur Übermittlung der Vertragsnummer nach Absatz 1b Satz 8 in Verträgen nach den §§ 73b und 140a zu gewährleisten. Die Vorgabe von verbindlichen Regelungen zur Vergabe und Übermittlung der Schlüssel sowie von Prüfmaßstäben nach Satz 3 und die jährliche Aktualisierung nach Satz 4 sind im Einvernehmen mit der Deutschen Krankenhausgesellschaft zu beschließen, sofern Schlüssel nach Absatz 1 Satz 6 wesentlich von Leistungserbringern nach Satz 5, mit Ausnahme von Leistungserbringern nach den §§ 73b und 140a, vergeben werden.
 
 (5) (weggefallen)
 
@@ -9390,7 +9446,7 @@ Bei der nach Absatz 1 Satz 1 Nummer 2 genannten Datenübermittlung sind das bund
 
 Die Übermittlung der medizinischen Begründung von Verlängerungen der Verweildauer nach Satz 1 Nr. 3 sowie der Angaben nach Satz 1 Nr. 8 ist auch in nicht maschinenlesbarer Form zulässig.
 
-(2) Die Diagnosen nach Absatz 1 Satz 1 Nr. 3 und 7 sind nach der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen deutschen Fassung zu verschlüsseln. Die Operationen und sonstigen Prozeduren nach Absatz 1 Satz 1 Nr. 6 sind nach dem vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen Schlüssel zu verschlüsseln; der Schlüssel hat die sonstigen Prozeduren zu umfassen, die nach § 17b und § 17d des Krankenhausfinanzierungsgesetzes abgerechnet werden können. In dem Operationen- und Prozedurenschlüssel nach Satz 2 können durch das Bundesinstitut für Arzneimittel und Medizinprodukte auch Voraussetzungen für die Abrechnung der Operationen und sonstigen Prozeduren festgelegt werden. Das Bundesministerium für Gesundheit gibt den Zeitpunkt der Inkraftsetzung der jeweiligen Fassung des Diagnosenschlüssels nach Satz 1 sowie des Prozedurenschlüssels nach Satz 2 im Bundesanzeiger bekannt; es kann das Bundesinstitut für Arzneimittel und Medizinprodukte beauftragen, den in Satz 1 genannten Schlüssel um Zusatzkennzeichen zur Gewährleistung der für die Erfüllung der Aufgaben der Krankenkassen notwendigen Aussagefähigkeit des Schlüssels zu ergänzen. Von dem in Satz 4 genannten Zeitpunkt an sind der Diagnoseschlüssel nach Satz 1 sowie der Operationen- und Prozedurenschlüssel nach Satz 2 verbindlich und für die Abrechnung der erbrachten Leistungen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann bei Auslegungsfragen zu den Diagnosenschlüsseln nach Satz 1 und den Prozedurenschlüsseln nach Satz 2 Klarstellungen und Änderungen mit Wirkung auch für die Vergangenheit vornehmen, soweit diese nicht zu erweiterten Anforderungen an die Verschlüsselung erbrachter Leistungen führen. Für das Verfahren der Festlegung des Diagnoseschlüssels nach Satz 1 sowie des Operationen- und Prozedurenschlüssels nach Satz 2 gibt sich das Bundesinstitut für Arzneimittel und Medizinprodukte eine Verfahrensordnung, die der Genehmigung des Bundesministeriums für Gesundheit bedarf und die auf der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte zu veröffentlichen ist.
+(2) Die Diagnosen nach Absatz 1 Satz 1 Nr. 3 und 7 sind nach der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen deutschen Fassung zu verschlüsseln. Die Operationen und sonstigen Prozeduren nach Absatz 1 Satz 1 Nr. 6 sind nach dem vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen Schlüssel zu verschlüsseln; der Schlüssel hat die sonstigen Prozeduren zu umfassen, die nach § 17b und § 17d des Krankenhausfinanzierungsgesetzes abgerechnet werden können. In dem Operationen- und Prozedurenschlüssel nach Satz 2 können durch das Bundesinstitut für Arzneimittel und Medizinprodukte auch Voraussetzungen für die Abrechnung der Operationen und sonstigen Prozeduren festgelegt werden. Das Bundesministerium für Gesundheit gibt den Zeitpunkt der Inkraftsetzung der jeweiligen Fassung des Diagnosenschlüssels nach Satz 1 sowie des Prozedurenschlüssels nach Satz 2 im Bundesanzeiger bekannt; es kann das Bundesinstitut für Arzneimittel und Medizinprodukte beauftragen, den in Satz 1 genannten Schlüssel um Zusatzkennzeichen zur Gewährleistung der für die Erfüllung der Aufgaben der Krankenkassen notwendigen Aussagefähigkeit des Schlüssels sowie um Zusatzangaben für seltene Erkrankungen zu ergänzen. Von dem in Satz 4 genannten Zeitpunkt an sind der Diagnoseschlüssel nach Satz 1 sowie der Operationen- und Prozedurenschlüssel nach Satz 2 verbindlich und für die Abrechnung der erbrachten Leistungen zu verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann bei Auslegungsfragen zu den Diagnosenschlüsseln nach Satz 1 und den Prozedurenschlüsseln nach Satz 2 Klarstellungen und Änderungen mit Wirkung auch für die Vergangenheit vornehmen, soweit diese nicht zu erweiterten Anforderungen an die Verschlüsselung erbrachter Leistungen führen. Für das Verfahren der Festlegung des Diagnoseschlüssels nach Satz 1 sowie des Operationen- und Prozedurenschlüssels nach Satz 2 gibt sich das Bundesinstitut für Arzneimittel und Medizinprodukte eine Verfahrensordnung, die der Genehmigung des Bundesministeriums für Gesundheit bedarf und die auf der Internetseite des Bundesinstituts für Arzneimittel und Medizinprodukte zu veröffentlichen ist.
 
 (2a) Die Krankenkassen haben den nach § 108 zugelassenen Krankenhäusern einen bestehenden Pflegegrad gemäß § 15 des Elften Buches eines Patienten oder einer Patientin unverzüglich zu übermitteln, sobald ihnen das Krankenhaus anzeigt, dass es den Patienten oder die Patientin zur Behandlung aufgenommen hat. Während des Krankenhausaufenthaltes eines Patienten oder einer Patientin haben die Krankenkassen dem Krankenhaus Änderungen eines bestehenden Pflegegrades des Patienten oder der Patientin sowie beantragte Einstufungen in einen Pflegegrad durch einen Patienten oder eine Patientin zu übermitteln. Die Übermittlung nach den Sätzen 1 und 2 hat im Wege elektronischer Datenübertragung zu erfolgen.
 
@@ -9420,7 +9476,7 @@ Die Übermittlung der medizinischen Begründung von Verlängerungen der Verweild
 
 (1) Freiberuflich tätige Hebammen und von Hebammen geleitete Einrichtungen sind verpflichtet, den Krankenkassen folgende Angaben im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zu übermitteln:
 
-1. die Angaben nach § 291 Abs. 2 Satz 1 Nr. 1 bis 3, 5 und 6,
+1. die Angaben nach § 291a Absatz 2 Nummer 1 bis 3, 5 und 6,
 
 2. die erbrachten Leistungen mit dem Tag der Leistungserbringung,
 
@@ -9432,7 +9488,7 @@ Die Übermittlung der medizinischen Begründung von Verlängerungen der Verweild
 
 6. das Kennzeichen nach § 293; rechnet die Hebamme ihre Leistungen über eine zentrale Stelle ab, so ist in der Abrechnung neben dem Kennzeichen der abrechnenden Stelle das Kennzeichen der Hebamme anzugeben.
 
-Ist eine ärztliche Anordnung für die Abrechnung der Leistung vorgeschrieben, ist diese der Rechnung beizufügen. § 134a Absatz 5 gilt entsprechend.
+Ist eine ärztliche Anordnung für die Abrechnung der Leistung vorgeschrieben, ist diese der Rechnung beizufügen.
 
 (2) § 302 Abs. 2 Satz 1 bis 3 und Abs. 3 gilt entsprechend.
 
@@ -9699,7 +9755,7 @@ Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Gesun
 
 (2) Die Telematikinfrastruktur umfasst
 
-1. eine dezentrale Infrastruktur bestehend aus Komponenten zur Authentifizierung und zur sicheren Übermittlung von Daten in die zentrale Infrastruktur,
+1. Eine dezentrale Infrastruktur bestehend aus Komponenten zur Authentifizierung, zur elektronischen Signatur, zur Verschlüsselung sowie Entschlüsselung und zur sicheren Verarbeitung von Daten in der zentralen Infrastruktur,
 
 2. eine zentrale Infrastruktur bestehend aus
 
@@ -9715,7 +9771,7 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 # § 307 – Datenschutzrechtliche Verantwortlichkeiten
 
-(1) Die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in der Verantwortung derjenigen, die diese Komponenten für die Zwecke der Authentifizierung und zur sicheren Verarbeitung von Daten über die zentrale Infrastruktur nutzen, soweit sie über die Mittel der Datenverarbeitung mit entscheiden. Dies gilt für die ordnungsgemäße Inbetriebnahme, Wartung und Verwendung der Komponenten.
+(1) Die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in der Verantwortung derjenigen, die diese Komponenten für die Zwecke der Authentifizierung und elektronischen Signatur sowie zur Verschlüsselung, Entschlüsselung und sicheren Verarbeitung von Daten in der zentralen Infrastruktur nutzen, soweit sie über die Mittel der Datenverarbeitung mitentscheiden. Die Verantwortlichkeit nach Satz 1 erstreckt sich insbesondere auf die ordnungsgemäße Inbetriebnahme, Wartung und Verwendung der Komponenten. Für die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 durch Verantwortliche nach Satz 1 erfolgt in der Anlage zu diesem Gesetz eine Datenschutz-Folgenabschätzung nach Artikel 35 Absatz 10 der Verordnung (EU) 2016/679. Soweit eine Datenschutz-Folgenabschätzung nach Satz 3 erfolgt, gilt für die Verantwortlichen nach Satz 1 Artikel 35 Absatz 1 bis 7 der Verordnung (EU) 2016/679 sowie § 38 Absatz 1 Satz 2 des Bundesdatenschutzgesetzes nicht.
 
 (2) Der Betrieb der durch die Gesellschaft für Telematik spezifizierten und zugelassenen Zugangsdienste nach § 306 Absatz 2 Nummer 2 Buchstabe a liegt in der Verantwortung des jeweiligen Anbieters des Zugangsdienstes. Der Anbieter eines Zugangsdienstes darf personenbezogene Daten der Versicherten ausschließlich für Zwecke des Aufbaus und des Betriebs seines Zugangsdienstes verarbeiten. § 88 des Telekommunikationsgesetzes ist entsprechend anzuwenden.
 
@@ -9789,13 +9845,15 @@ der Steuerung der Zugriffe auf Daten nach § 334 Absatz 1 Satz 2,
 
 7. Gewährleistung einer diskriminierungsfreien Nutzung der Telematikinfrastruktur für weitere Anwendungen und für Zwecke der Gesundheitsforschung nach § 306 Absatz 1 Satz 2 Nummer 2 unter vorrangiger Berücksichtigung der elektronischen Anwendungen, die der Erfüllung von gesetzlichen Aufgaben der Kranken- und Pflegeversicherung, der Rentenversicherung und der Unfallversicherung dienen,
 
-8. Aufbau, Pflege und Betrieb des Interoperabilitätsverzeichnisses nach § 384,
+8. Aufbau, Pflege und Betrieb des Interoperabilitätsverzeichnisses nach § 385,
 
 9. Koordinierung der Ausgabeprozesse der in der Telematikinfrastruktur genutzten Identifikations- und Authentifizierungsmittel, insbesondere der Karten und Ausweise gemäß den §§ 291 und 340, im Benehmen mit den Kartenherausgebern, Überwachung der Ausgabeprozesse und Vorgabe von verbindlichen Maßnahmen, die bei Sicherheitsmängeln zu ergreifen sind,
 
-10. Entwicklung und Zurverfügungstellung der Komponenten der Telematikinfrastruktur, die den Zugriff der Versicherten auf die Anwendung zur Übermittlung ärztlicher Verordnungen nach § 334 Absatz 1 Satz 2 Nummer 6 nach Maßgabe des § 360 Absatz 5 ermöglichen, als Dienstleistungen von allgemeinem wirtschaftlichem Interesse und
+10. Entwicklung und Zurverfügungstellung der Komponenten der Telematikinfrastruktur, die den Zugriff der Versicherten auf die Anwendung zur Übermittlung ärztlicher Verordnungen nach § 334 Absatz 1 Satz 2 Nummer 6 nach Maßgabe des § 360 Absatz 5 ermöglichen, als Dienstleistungen von allgemeinem wirtschaftlichem Interesse,
 
-11. Unterstützung des Robert Koch-Instituts bei der Entwicklung und dem Betrieb des elektronischen Melde- und Informationssystems nach § 14 des Infektionsschutzgesetzes.
+11. Unterstützung des Robert Koch-Instituts bei der Entwicklung und dem Betrieb des elektronischen Melde- und Informationssystems nach § 14 des Infektionsschutzgesetzes und
+
+12. Betrieb von Komponenten und Diensten der zentralen Infrastruktur gemäß § 306 Absatz 2 Nummer 2, die zur Gewährleistung der Sicherheit oder für die Aufrechterhaltung der Funktionsfähigkeit der Telematikinfrastruktur von wesentlicher Bedeutung sind, nach Maßgabe des § 323 Absatz 2 Satz 3.
 
 (2) Die Gesellschaft für Telematik hat Festlegungen und Maßnahmen nach Absatz 1 Nummer 1, die Fragen der Datensicherheit berühren, im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu treffen und Festlegungen und Maßnahmen nach Absatz 1 Nummer 1, die Fragen des Datenschutzes berühren, im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu treffen. Bei der Gestaltung der Verfahren nach Absatz 1 Nummer 1 Buchstabe e berücksichtigt die Gesellschaft für Telematik, dass die Telematikinfrastruktur schrittweise ausgebaut wird und die Zugriffsberechtigungen künftig auf weitere Leistungserbringergruppen ausgedehnt werden können.
 
@@ -9805,7 +9863,7 @@ der Steuerung der Zugriffe auf Daten nach § 334 Absatz 1 Satz 2,
 
 (5) Mit Teilaufgaben der Gesellschaft für Telematik können einzelne Gesellschafter mit Ausnahme der Bundesrepublik Deutschland oder Dritte beauftragt werden. Hierbei hat die Gesellschaft für Telematik die Interoperabilität, die Kompatibilität und das notwendige Sicherheitsniveau der Telematikinfrastruktur zu gewährleisten.
 
-(6) Die Gesellschaft für Telematik legt in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik und mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sichere Verfahren zur Übermittlung medizinischer Daten über die Telematikinfrastruktur fest. Die festgelegten Verfahren veröffentlicht die Gesellschaft für Telematik auf ihrer Internetseite. Der Anbieter eines Dienstes für ein Übermittlungsverfahren muss die Anwendung der festgelegten Verfahren gegenüber der Gesellschaft für Telematik in einem Zulassungsverfahren nachweisen. Die Kassenärztlichen Bundesvereinigungen können Anbieter eines zugelassenen Dienstes für ein sicheres Verfahren zur Übermittlung medizinischer Dokumente nach Satz 1 sein, sofern der Dienst nur Kassenärztlichen Vereinigungen sowie deren Mitgliedern zur Verfügung gestellt wird. Für das Zulassungsverfahren nach Satz 3 gilt § 325. Die für das Zulassungsverfahren erforderlichen Festlegungen hat die Gesellschaft für Telematik zu treffen und auf ihrer Internetseite zu veröffentlichen. Die Kosten, die nach diesem Absatz bei dem Bundesamt für Sicherheit in der Informationstechnik und bei der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit entstehen, sind durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung einvernehmlich mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik fest.
+(6) Die Gesellschaft für Telematik legt in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik und mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sichere Verfahren zur Übermittlung medizinischer Daten über die Telematikinfrastruktur fest. Die festgelegten Verfahren veröffentlicht die Gesellschaft für Telematik auf ihrer Internetseite. Der Anbieter eines Dienstes für ein Übermittlungsverfahren muss die Anwendung der festgelegten Verfahren gegenüber der Gesellschaft für Telematik in einem Zulassungsverfahren nachweisen. Die Kassenärztlichen Bundesvereinigungen können Anbieter eines zugelassenen Dienstes für ein sicheres Verfahren zur Übermittlung medizinischer Dokumente nach Satz 1 sein, sofern der Dienst nur Kassenärztlichen Vereinigungen sowie deren Mitgliedern zur Verfügung gestellt wird. Für das Zulassungsverfahren nach Satz 3 gilt § 325. Die für das Zulassungsverfahren erforderlichen Festlegungen hat die Gesellschaft für Telematik zu treffen und auf ihrer Internetseite zu veröffentlichen. Die Kosten, die nach diesem Absatz bei der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit entstehen, sind durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung einvernehmlich mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
 
 (7) Bei der Vergabe von Aufträgen durch die Gesellschaft für Telematik ist unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen die Unterschwellenvergabeordnung in der Fassung der Bekanntmachung vom 2. Februar 2017 (BAnz. AT 07.02.2017 B1; BAnz. AT 07.02.2017 B2) anzuwenden. Für die Verhandlungsvergabe von Leistungen gemäß § 8 Absatz 4 Nummer 17 der Unterschwellenvergabeordnung werden die Ausführungsbestimmungen vom Bundesministerium für Gesundheit festgelegt. Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
@@ -9815,15 +9873,41 @@ der Steuerung der Zugriffe auf Daten nach § 334 Absatz 1 Satz 2,
 
 (1) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgaben nach § 311 Absatz 1 Nummer 1
 
-1. bis zum 30. Juni 2020 die Maßnahmen durchzuführen, die erforderlich sind, damit ärztliche Verordnungen für apothekenpflichtige Arzneimittel in elektronischer Form übermittelt werden können,
+1. bis zum 30. Juni 2020 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen für apothekenpflichtige Arzneimittel elektronisch nach § 360 Absatz 1 übermittelt werden können,
 
-2. bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit ärztliche Verordnungen für Betäubungsmittel sowie für Arzneimittel nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung in elektronischer Form übermittelt werden können,
+2. bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen für Betäubungsmittel sowie für Arzneimittel nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung elektronisch nach § 360 Absatz 1 übermittelt werden können,
 
-3. bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit Informationen über das auf der Grundlage der ärztlichen Verordnung nach Nummer 1 oder 2 abgegebene Arzneimittel, dessen Chargennummer und, falls auf der Verordnung angegeben, dessen Dosierung den Versicherten in elektronischer Form verfügbar gemacht werden können,
+3. bis zum 30. Juni 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit Informationen zur vertragsärztlichen Verordnung nach den Nummern 1 oder 2 mit Informationen über das auf der Grundlage der vertragsärztlichen Verordnung nach den Nummern 1 oder 2 abgegebene Arzneimittel, dessen Chargennummer und, falls auf der Verordnung angegeben, dessen Dosierung den Versicherten elektronisch verfügbar gemacht werden können (Dispensierinformationen),
 
-4. bis zum 30. Juni 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit ärztliche Verordnungen von häuslicher Krankenpflege nach § 37 sowie außerklinischer Intensivpflege nach § 37c in elektronischer Form übermittelt werden können und
+4. bis zum 1. Oktober 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit sichere Übermittlungsverfahren nach § 311 Absatz 6 einen Sofortnachrichtendienst zur Kommunikation zwischen Leistungserbringern umfassen,
 
-5. bis zum 30. Juni 2023 die Maßnahmen durchzuführen, die erforderlich sind, damit ärztliche und psychotherapeutische Verordnungen von Soziotherapien nach § 37a in elektronischer Form übermittelt werden können.
+5. bis zum 31. Oktober 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit der elektronische Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 gemäß § 358 in Verbindung mit § 359 Absatz 2 ab dem 1. Juli 2023 in einer eigenständigen Anwendung innerhalb der Telematikinfrastruktur genutzt werden kann, die nicht auf der elektronischen Gesundheitskarte gespeichert wird,
+
+6. bis zum 1. Dezember 2021 die Maßnahmen durchzuführen, die erforderlich sind, damit zugriffsberechtigte Leistungserbringer mittels der elektronischen Gesundheitskarte sowie entsprechend den Zugriffsvoraussetzungen nach § 361 Absatz 2 auf elektronische Verordnungen zugreifen können,
+
+7. bis zum 1. Januar 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen von digitalen Gesundheitsanwendungen durch Ärzte, Zahnärzte und Psychotherapeuten ab dem 1. Januar 2023 elektronisch nach § 360 Absatz 1 übermittelt werden können,
+
+8. bis zum 1. April 2022 die Maßnahmen durchzuführen, die erforderlich sind, um digitale Identitäten zur Verfügung zu stellen durch
+
+a) die Krankenkassen für ihre Versicherten nach § 291 Absatz 8 und
+
+b) die Stellen nach § 340 Absatz 1 Satz 1 Nummer 1 für die zugriffsberechtigten Leistungserbringer,
+
+9. bis zum 1. April 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit der in Nummer 4 definierte Dienst auch zur Kommunikation zwischen Versicherten und Leistungserbringern beziehungsweise Versicherten und Krankenkassen genutzt werden kann,
+
+10. bis zum 30. Juni 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit Anbieter ab dem 1. Januar 2023 Komponenten und Dienste zur Verfügung stellen können, die eine sichere, wirtschaftliche, skalierbare, stationäre und mobile Zugangsmöglichkeit zur Telematikinfrastruktur ermöglichen,
+
+11. bis zum 30. Juni 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit Komponenten gemäß § 306 Absatz 2 Nummer 1, die das Lesen von in der Telematikinfrastruktur genutzten Identifikations- und Authentifizierungsmitteln, insbesondere von Karten und Ausweisen gemäß den §§ 291 und 340, ermöglichen, eine kontaktlose Schnittstelle unterstützen,
+
+12. bis zum 30. Juni 2022 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen von häuslicher Krankenpflege nach § 37 sowie außerklinischer Intensivpflege nach § 37c elektronisch nach § 360 Absatz 1 übermittelt werden können,
+
+13. bis zum 30. Juni 2023 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen von Soziotherapien nach § 37a durch Ärzte und Psychotherapeuten elektronisch nach § 360 Absatz 1 übermittelt werden können,
+
+14. bis zum 1. Juli 2023 die Maßnahmen durchzuführen, die erforderlich sind, damit der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, seine Aufgaben nach § 219d Absatz 6 Satz 1 erfüllen und den Betrieb der nationalen eHealth-Kontaktstelle zu diesem Zeitpunkt aufnehmen kann; dazu sind im Benehmen mit dem Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, und im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit insbesondere diejenigen Festlegungen zum Aufbau und Betrieb der nationalen eHealth-Kontaktstelle nach § 219d Absatz 6 Satz 1 zu treffen, die im Rahmen des grenzüberschreitenden Austauschs von Gesundheitsdaten Fragen der Datensicherheit und des Datenschutzes berühren,
+
+15. bis zum 1. Oktober 2023 die Maßnahmen durchzuführen, die erforderlich sind, damit die sicheren Übermittlungsverfahren nach § 311 Absatz 6 auch den Austausch von medizinischen Daten in Form von Text, Dateien, Ton und Bild, auch als Konferenz mit mehr als zwei Beteiligten, ermöglichen, und
+
+16. bis zum 1. Juli 2024 die Maßnahmen durchzuführen, die erforderlich sind, damit vertragsärztliche elektronische Verordnungen nach § 360 Absatz 7 Satz 1 ab dem 1. Juli 2026 elektronisch nach § 360 Absatz 1 übermittelt werden können.
 
 Bei der Durchführung der Maßnahmen nach Satz 1 berücksichtigt die Gesellschaft für Telematik, dass die Telematikinfrastruktur schrittweise ausgebaut wird und die Verfahren schrittweise auf sonstige in der ärztlichen Versorgung verordnungsfähige Leistungen und auf Verordnungen ohne direkten Kontakt zwischen den Ärzten oder den Zahnärzten und den Versicherten ausgedehnt werden sollen. Bei der Durchführung der Maßnahmen nach Satz 1 Nummer 2 sind darüber hinaus die Vorgaben der Betäubungsmittel-Verschreibungsverordnung und entsprechende Vorgaben des Betäubungsmittelgesetzes in der jeweils geltenden Fassung zu beachten.
 
@@ -9837,6 +9921,12 @@ Bei der Durchführung der Maßnahmen nach Satz 1 berücksichtigt die Gesellschaf
 
 (6) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgabenzuweisung nach § 311 Absatz 1 Nummer 1 die Maßnahmen durchzuführen, die erforderlich sind, damit das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2, 3 und 6 mittels einer Benutzeroberfläche eines geeigneten Endgeräts erfolgen kann. Dabei ist ein technisches Verfahren vorzusehen, das zur Authentifizierung einen hohen Sicherheitsstandard gewährleistet.
 
+(7) Bei den Maßnahmen nach Absatz 1 Satz 1 Nummer 1, 2, 12, 13 und 16 hat die Gesellschaft für Telematik auch Verfahren festzulegen oder die technischen Voraussetzungen dafür zu schaffen, dass Versicherte Daten ihrer elektronischen Verordnungen nach § 360 Absatz 2, 5, 6 oder Absatz 7 vor einer Inanspruchnahme der jeweils verordneten Leistungen, soweit erforderlich, elektronisch ihrer Krankenkasse zur Bewilligung übermitteln können.
+
+(8) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgaben nach § 311 Absatz 1 bis zum 1. Januar 2024 die Voraussetzungen dafür zu schaffen, dass die in § 380 Absatz 2 genannten Leistungserbringer die Telematikinfrastruktur nutzen und ihre Zugriffsrechte nach § 352 Nummer 14 und 15 sowie nach § 361 Absatz 1 Satz 1 Nummer 5 ausüben können.
+
+(9) Die Gesellschaft für Telematik legt zu den Verfahren nach Absatz 1 Satz 1 Nummer 6 im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bis zum 31. Dezember 2021 Einzelheiten zu dem Bestätigungsverfahren fest und veröffentlicht diese Einzelheiten. Die Gesellschaft für Telematik veröffentlicht eine Liste mit den nach Absatz 1 Satz 1 Nummer 6 bestätigten Anwendungen auf ihrer Internetseite.
+
 # § 313 – Elektronischer Verzeichnisdienst der Telematikinfrastruktur
 
 (1) Die Gesellschaft für Telematik betreibt den elektronischen Verzeichnisdienst der Telematikinfrastruktur. Sie kann Dritte mit dem Betrieb beauftragen. Der elektronische Verzeichnisdienst kann die Daten enthalten, die erforderlich sind für die Suche, Identifikation und Adressierung von
@@ -9845,7 +9935,7 @@ Bei der Durchführung der Maßnahmen nach Satz 1 berücksichtigt die Gesellschaf
 
 2. organisatorischen Einheiten von Leistungserbringern und
 
-3. anderen juristischen Personen oder deren Mitarbeitern, die die Telematikinfrastruktur nutzen.
+3. allen anderen angeschlossenen Nutzern von Anwendungen und Diensten der Telematikinfrastruktur.
 
 Die Daten nach Satz 3 umfassen den Namen, die Adressdaten, technische Adressierungsdaten, die eindeutige Identifikationsnummer, das Fachgebiet und den öffentlichen Teil der technischen Identität des Nutzers. Die Daten von Versicherten sind nicht Teil des Verzeichnisdienstes.
 
@@ -9895,7 +9985,7 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (1) Zur Finanzierung der Gesellschaft für Telematik zahlt der Spitzenverband Bund der Krankenkassen an die Gesellschaft für Telematik jährlich einen Betrag in Höhe von 1 Euro je Mitglied der gesetzlichen Krankenversicherung. Das Bundesministerium für Gesundheit kann entsprechend dem Mittelbedarf der Gesellschaft für Telematik unter Beachtung des Gebotes der Wirtschaftlichkeit durch Rechtsverordnung ohne Zustimmung des Bundesrates einen von Satz 1 abweichenden Betrag je Mitglied der gesetzlichen Krankenversicherung festsetzen.
 
-(2) Die Zahlungen nach Absatz 1 sind quartalsweise, spätestens drei Wochen vor Beginn des jeweiligen Quartals, zu leisten. Diese Zahlungen zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und 6.
+(2) Die Zahlungen nach Absatz 1 sind quartalsweise, spätestens drei Wochen vor Beginn des jeweiligen Quartals, zu leisten.
 
 # § 317 – Beirat der Gesellschaft für Telematik
 
@@ -9987,7 +10077,7 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (1) Betriebsleistungen sind auf der Grundlage der von der Gesellschaft für Telematik nach Maßgabe des § 306 Absatz 3 festzulegenden Rahmenbedingungen zu erbringen.
 
-(2) Zur Durchführung des Betriebs der Telematikinfrastruktur vergibt die Gesellschaft für Telematik Aufträge oder erteilt in einem transparenten und diskriminierungsfreien Verfahren Zulassungen. Sind nach § 311 Absatz 5 einzelne Gesellschafter oder Dritte beauftragt worden, so sind die Beauftragten für die Vergabe und für die Erteilung der Zulassung zuständig; § 311 Absatz 7 gilt entsprechend.
+(2) Zur Durchführung des Betriebs der Telematikinfrastruktur vergibt die Gesellschaft für Telematik Aufträge oder erteilt in einem transparenten und diskriminierungsfreien Verfahren Zulassungen. Sind nach § 311 Absatz 5 einzelne Gesellschafter oder Dritte beauftragt worden, so sind die Beauftragten für die Vergabe und für die Erteilung der Zulassung zuständig; § 311 Absatz 7 gilt entsprechend. Bei der Vergabe von Aufträgen für den Betrieb von Komponenten und Diensten der zentralen Infrastruktur gemäß § 306 Absatz 2 Nummer 2, die zur Gewährleistung der Sicherheit oder der Aufrechterhaltung der Funktionsfähigkeit der Telematikinfrastruktur von wesentlicher Bedeutung sind, kann die Gesellschaft für Telematik festlegen, dass sie als Anbieter auftritt und einzelne Komponenten und Dienste der zentralen Infrastruktur selbst betreibt. In diesen Fällen sind die Funktionsfähigkeit und Interoperabilität der Komponenten und Dienste durch die Gesellschaft für Telematik sicherzustellen. Wenn die Gesellschaft für Telematik Komponenten und Dienste selbst betreibt, ist die Sicherheit der Komponenten und Dienste durch ein externes Sicherheitsgutachten nachzuweisen. Dabei ist nachzuweisen, dass die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der Komponenten und Dienste sichergestellt wird. Die Festlegung der Prüfverfahren für das externe Sicherheitsgutachten erfolgt durch das Bundesamt für Sicherheit in der Informationstechnik. Die Auswahl des Sicherheitsgutachters erfolgt im Rahmen des Prüfverfahrens durch die Gesellschaft für Telematik. Das externe Sicherheitsgutachten muss dem Bundesamt für Sicherheit in der Informationstechnik zur Prüfung vorgelegt und durch dieses bestätigt werden. Erst mit der Bestätigung des externen Sicherheitsgutachtens durch das Bundesamt für Sicherheit in der Informationstechnik dürfen die Komponenten und Dienste durch die Gesellschaft für Telematik zur Verfügung gestellt werden.
 
 # § 324 – Zulassung von Anbietern von Betriebsleistungen
 
@@ -10019,9 +10109,13 @@ Die Zulassung kann mit Nebenbestimmungen versehen werden.
 
 (4) Die Gesellschaft für Telematik kann eine befristete Genehmigung zur Verwendung von nicht zugelassenen Komponenten und Diensten in der Telematikinfrastruktur erteilen, wenn dies zur Aufrechterhaltung der Funktionsfähigkeit, der Sicherheit der Telematikinfrastruktur oder wesentlicher Teile hiervon erforderlich ist. Soweit die befristete Genehmigung der Aufrechterhaltung der Sicherheit dient, ist die Genehmigung im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu erteilen.
 
-(5) Die Gesellschaft für Telematik veröffentlicht eine Liste mit den zugelassenen Komponenten und Diensten auf ihrer Internetseite.
+(5) Die Gesellschaft für Telematik kann auch Hersteller und Anbieter von Komponenten und Diensten der Telematikinfrastruktur zulassen. Das Nähere zum Zulassungsverfahren und zu den Prüfkriterien für Hersteller und Anbieter legt die Gesellschaft für Telematik im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest. Die Zulassung kann mit Nebenbestimmungen versehen werden.
 
-(6) Die für die Aufgaben nach Absatz 3 Satz 2 und 4 sowie nach Absatz 4 Satz 2 beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind diesem durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
+(6) Die Gesellschaft für Telematik bestimmt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik die Komponenten und Dienste, deren Zulassung nach Absatz 2 verpflichtend auch der Zulassung der jeweiligen Hersteller oder Anbieter nach Absatz 5 bedarf.
+
+(7) Aussagen über die Qualität der Prozesse bei der Entwicklung, dem Betrieb, der Wartung und der Pflege der Komponenten und Dienste, die aus Zulassungen von Herstellern und Anbietern nach Absatz 5 stammen, können bei Zulassungen von Komponenten und Diensten nach Absatz 2 berücksichtigt werden.
+
+(8) Die Gesellschaft für Telematik veröffentlicht eine Liste mit den zugelassenen Komponenten und Diensten sowie mit den zugelassenen Herstellern und Anbietern von Komponenten und Diensten auf ihrer Internetseite.
 
 # § 326 – Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
 
@@ -10049,9 +10143,9 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (6) Für Leistungserbringer in der gesetzlichen Kranken- und Pflegeversicherung, die die Telematikinfrastruktur für Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a nutzen wollen und für die noch keine sicheren Authentisierungsverfahren nach § 311 Absatz 1 Satz 1 Nummer 1 Buchstabe e festgelegt sind, legt die Gesellschaft für Telematik diese Verfahren im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest und veröffentlicht diese auf ihrer Internetseite.
 
-(7) Die für die Wahrnehmung von Aufgaben nach Absatz 2 beim Bundesamt für Sicherheit in der Informationstechnik sowie bei der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit entstehenden Kosten sowie die für die Wahrnehmung von Aufgaben nach den Absätzen 4 und 6 beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung jeweils im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik sowie der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
+(7) Die für die Wahrnehmung von Aufgaben nach Absatz 2 bei der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit entstehenden Kosten sind durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
 
-(8) Für die Nutzung der Telematikinfrastruktur für Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a kann die Gesellschaft für Telematik von dem jeweiligen Anbieter Entgelte verlangen. Die Nutzung ist unentgeltlich, sofern die Anwendungen in diesem, im Elften Buch oder im Implantateregistergesetz geregelt sind oder zur Erfüllung einer gesetzlichen Verpflichtung, insbesondere gesetzlicher Meldepflichten im Gesundheitswesen, genutzt werden. Davon unberührt bleibt die Verpflichtung eines Anbieters von Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a, die Kosten für seinen Anschluss an die zentrale Telematikinfrastruktur zu tragen.
+(8) Für die Nutzung der Telematikinfrastruktur für Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a kann die Gesellschaft für Telematik von dem jeweiligen Anbieter Entgelte verlangen. Die Nutzung ist unentgeltlich, sofern die Anwendungen in diesem, im Elften Buch oder im Implantateregistergesetz geregelt sind oder zur Erfüllung einer gesetzlichen Verpflichtung, insbesondere gesetzlicher Meldepflichten im Gesundheitswesen, oder für technische Verfahren zu telemedizinischen Konsilien nach § 367 genutzt werden. Davon unberührt bleibt die Verpflichtung eines Anbieters von Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a, die Kosten für seinen Anschluss an die zentrale Telematikinfrastruktur zu tragen.
 
 # § 328 – Gebühren und Auslagen; Verordnungsermächtigung
 
@@ -10081,14 +10175,6 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (4) Die Meldepflichten nach Artikel 33 der Verordnung (EU) 2016/679 bleiben unberührt.
 
-# § 331 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
-
-§ 5 Absatz 4a Satz 1 Nummer 3 findet grundsätzlich nur Anwendung auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die Ausbildung vor diesem Zeitpunkt begonnen und wurden
-
-1. Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab Beginn der Beitragszahlung,
-
-2. keine Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab dem Zeitpunkt, zu dem der Arbeitgeber mit Zustimmung der Teilnehmerin oder des Teilnehmers Beiträge zahlt.
-
 # § 331 – Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur
 
 (1) Die Gesellschaft für Telematik hat ab dem 1. Januar 2021 für Komponenten und Dienste der Telematikinfrastruktur sowie für Komponenten und Dienste, die die Telematikinfrastruktur nutzen, aber außerhalb der Telematikinfrastruktur betrieben werden, im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik solche Maßnahmen zur Überwachung des Betriebs zu treffen, die erforderlich sind, um die Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur zu gewährleisten.
@@ -10099,7 +10185,9 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (4) Die Gesellschaft für Telematik darf die für den Einsatz der Systeme nach Absatz 3 erforderlichen Daten verarbeiten. Die im Rahmen des Einsatzes dieser Systeme verarbeiteten Daten sind unverzüglich zu löschen, wenn sie für die Vermeidung von Störungen nach § 330 Absatz 1 Satz 1 nicht mehr erforderlich sind, spätestens jedoch nach zehn Jahren.
 
-(5) Die für die Aufgaben nach den Absätzen 1 und 3 beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind diesem durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
+(5) Die Gesellschaft für Telematik darf, soweit es für die Durchführung der Maßnahmen nach Absatz 1 und im Rahmen der Vorkehrungen nach Absatz 3 erforderlich ist, die für den Zugriff auf Anwendungen nach § 334 Absatz 1 Satz 2 erforderlichen Komponenten zur Identifikation und Authentifizierung im Rahmen von hierzu erstellten Prüfnutzeridentitäten nutzen. Die Nutzung darf ausschließlich für Prüfzwecke erfolgen und die Einzelheiten sind im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit festzulegen. Es muss dabei technisch und organisatorisch gewährleistet sein, dass ein Zugriff auf personenbezogene Daten von Nutzern der Telematikinfrastruktur ausgeschlossen ist, die keine Prüfnutzeridentitäten verwenden. Die Prüfnutzeridentitäten dürfen von höchstens sieben, nach dem Sicherheitsüberprüfungsgesetz überprüften Mitarbeitern der Gesellschaft für Telematik genutzt werden. Die Zugriffe nach Satz 1 müssen protokolliert und jährlich oder auf Anforderung der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit vorgelegt werden. Die Protokolldaten müssen enthalten, durch wen und zu welchem Zweck die Komponenten nach Satz 1 eingesetzt wurden und sind für drei Jahre zu speichern. Die nach Satz 1 erforderlichen Komponenten sind der Gesellschaft für Telematik auf Verlangen durch die jeweils für die Ausgabe zuständige Stelle gegen Kostenerstattung zur Verfügung zu stellen.
+
+(6) Die für die Aufgaben nach dem Zehnten und diesem Kapitel beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind diesem durch die Gesellschaft für Telematik pauschal in Höhe der Kosten für zehn Vollzeitäquivalente zu erstatten. Zusätzlich werden die Kosten des Bundesamts für Sicherheit in der Informationstechnik für erforderliche Unterstützungsleistungen Dritter durch die Gesellschaft für Telematik in Höhe der tatsächlich anfallenden Kosten erstattet. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung für Unterstützungsleistungen nach Satz 2 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
 (+++ Elftes Kapitel (§§ 306 bis 383): Eingef. durch Art. 1 Nr. 31 G v. 14.10.2020 I 2115 mWv 20.10.2020 (§ 331 doppelt) +++)
 
@@ -10125,11 +10213,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (3) Die Gesellschaft für Telematik ist befugt, Anbietern von zugelassenen Diensten und bestätigten Anwendungen nach § 311 Absatz 6 sowie nach den §§ 325 und 327 verbindliche Anweisungen zur Beseitigung der Sicherheitsmängel zu erteilen, die von der Gesellschaft für Telematik oder vom Bundesamt für Sicherheit in der Informationstechnik festgestellt wurden.
 
-(4) Die dem Bundesamt für Sicherheit in der Informationstechnik entstandenen Kosten der Überprüfung tragen
-
-1. die Gesellschaft für Telematik, sofern das Bundesamt für Sicherheit in der Informationstechnik auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Sicherheit der Telematikinfrastruktur begründeten,
-
-2. der Anbieter von zugelassenen Diensten und bestätigten Anwendungen nach § 311 Absatz 6 sowie den §§ 325 und 327, sofern das Bundesamt für Sicherheit in der Informationstechnik auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Sicherheit der zugelassenen Dienste und bestätigten Anwendungen begründeten.
+(4) Die dem Bundesamt für Sicherheit in der Informationstechnik entstandenen Kosten der Überprüfung trägt der Anbieter von zugelassenen Diensten und bestätigten Anwendungen nach § 311 Absatz 6 sowie den §§ 325 und 327, sofern das Bundesamt für Sicherheit in der Informationstechnik auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Sicherheit der zugelassenen Dienste und bestätigten Anwendungen begründeten.
 
 # § 334 – Anwendungen der Telematikinfrastruktur
 
@@ -10137,17 +10221,19 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 1. die elektronische Patientenakte nach § 341,
 
-2. Erklärungen der Versicherten zur Organ- und Gewebespende (elektronische Erklärung zur Organ- und Gewebespende) und Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende,
+2. Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende,
 
 3. Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen nach § 1901a des Bürgerlichen Gesetzbuchs,
 
 4. der Medikationsplan nach § 31a einschließlich Daten zur Prüfung der Arzneimitteltherapiesicherheit (elektronischer Medikationsplan),
 
-5. medizinische Daten, soweit sie für die Notfallversorgung erforderlich sind (elektronische Notfalldaten) sowie
+5. medizinische Daten, soweit sie für die Notfallversorgung erforderlich sind (elektronische Notfalldaten),
 
-6. elektronische Verordnungen.
+6. elektronische Verordnungen und
 
-(2) Die Anwendungen nach Absatz 1 Satz 2 Nummer 1 bis 5 werden von der elektronischen Gesundheitskarte unterstützt.
+7. die elektronische Patientenkurzakte nach § 358.
+
+(2) Die Anwendungen nach Absatz 1 Satz 2 Nummer 1 bis 5 werden von der elektronischen Gesundheitskarte unterstützt. Die Anwendungen nach Absatz 1 Satz 2 Nummer 2, 3 und 5 werden ab dem 1. Juli 2023 technisch in die Anwendung nach Absatz 1 Satz 2 Nummer 7 überführt.
 
 (3) Die Gesellschaft für Telematik kann über die in Absatz 1 genannten Anwendungen hinaus bereits Festlegungen und Maßnahmen zu zusätzlichen Anwendungen der Telematikinfrastruktur treffen, die insbesondere dem weiteren Ausbau des elektronischen Austausches von Befunden, Diagnosen, Therapieempfehlungen, Behandlungsberichten, Formularen, Erklärungen und Unterlagen dienen. Die Zulassung gemäß § 325 Absatz 1 darf erst erfolgen, wenn die insoweit erforderlichen gesetzlichen Rahmenbedingungen, wie insbesondere die Bestimmung als Anwendung der Telematikinfrastruktur in Absatz 1 sowie die Zugriffsberechtigungen auf Daten der Anwendung, in Kraft getreten sind.
 
@@ -10163,55 +10249,61 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 # § 336 – Zugriffsrechte der Versicherten
 
-(1) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 mittels seiner elektronischen Gesundheitskarte barrierefrei zuzugreifen, wenn er sich für diesen Zugriff jeweils durch ein geeignetes technisches Verfahren authentifiziert hat.
+(1) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 4, 6 und 7 mittels seiner elektronischen Gesundheitskarte oder seiner digitalen Identität nach § 291 Absatz 8 barrierefrei zuzugreifen, wenn er sich für diesen Zugriff jeweils durch ein geeignetes technisches Verfahren authentifiziert hat. Satz 1 gilt nicht für den Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
-(2) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 auch ohne den Einsatz seiner elektronischen Gesundheitskarte mittels einer Benutzeroberfläche eines geeigneten Endgeräts zuzugreifen, wenn
+(2) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 auch ohne den Einsatz seiner elektronischen Gesundheitskarte mittels einer Benutzeroberfläche eines geeigneten Endgeräts zuzugreifen, wenn
 
-1. der Versicherte nach umfassender Information durch seine Krankenkasse über die Besonderheiten eines Zugriffs ohne den Einsatz der elektronischen Gesundheitskarte gegenüber seiner Krankenkasse schriftlich oder elektronisch erklärt hat, dieses Zugriffsverfahren auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 nutzen zu wollen und
+1. der Versicherte nach umfassender Information durch seine Krankenkasse über die Besonderheiten eines Zugriffs ohne den Einsatz der elektronischen Gesundheitskarte gegenüber seiner Krankenkasse schriftlich oder elektronisch erklärt hat, dieses Zugriffsverfahren auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 nutzen zu wollen und
 
-2. der Versicherte sich für diesen Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 jeweils durch ein geeignetes technisches Verfahren, das einen hohen Sicherheitsstandard gewährleistet, authentifiziert hat.
+2. der Versicherte sich für diesen Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 jeweils durch ein geeignetes technisches Verfahren, das einen hohen Sicherheitsstandard gewährleistet, authentifiziert hat.
 
-(3) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 bei einem Leistungserbringer einzusehen, der mittels seines elektronischen Heilberufsausweises nach Maßgabe des § 339 Absatz 3 zugreift.
+Satz 1 gilt nicht für den Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
+
+(3) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind, bei einem Leistungserbringer einzusehen, der mittels seines elektronischen Heilberufsausweises nach Maßgabe des § 339 Absatz 3 zugreift.
 
 (4) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 mittels eines geeigneten technischen Verfahrens, das zur Authentifizierung einen hohen Sicherheitsstandard gewährleistet, zuzugreifen.
 
-(5) Der Zugriff eines Versicherten auf Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 und 6 durch das geeignete technische Verfahren nach Absatz 1 mittels der elektronischen Gesundheitskarte darf erst erfolgen, wenn
+(5) Der Zugriff eines Versicherten auf Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1, 4, 6 und 7 durch das geeignete technische Verfahren nach Absatz 1 mittels der elektronischen Gesundheitskarte oder seiner digitalen Identität nach § 291 Absatz 8 darf erst erfolgen, wenn
 
-1. die elektronische Gesundheitskarte des Versicherten oder deren persönliche Identifikationsnummer (PIN) mit einem sicheren Verfahren, insbesondere mittels eines Postzustellungsauftrags, persönlich an den Versicherten zugestellt wurde oder
+1. die elektronische Gesundheitskarte des Versicherten oder deren persönliche Identifikationsnummer (PIN) mit einem sicheren Verfahren persönlich an den Versicherten zugestellt wurde oder
 
 2. eine Übergabe der elektronischen Gesundheitskarte oder deren PIN in einer Geschäftsstelle der Krankenkasse erfolgt ist, oder
 
-3. eine nachträgliche, sichere Identifikation des Versicherten und seiner bereits ausgegebenen elektronischen Gesundheitskarte erfolgt ist.
+3. eine nachträgliche, sichere Identifikation des Versicherten und seiner bereits ausgegebenen elektronischen Gesundheitskarte erfolgt ist; die nachträgliche sichere Identifikation kann mit einer digitalen Identität nach § 291 Absatz 8 Satz 1 mit einem der elektronischen Gesundheitskarte entsprechendem Vertrauensniveau erfolgen, oder
 
-(6) Soweit ein technisches Verfahren ohne Einsatz der elektronischen Gesundheitskarte nach den Absätzen 2 und 4 für den Zugriff auf Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 und 6 genutzt wird, ist eine einmalige sichere Identifikation des Versicherten notwendig, die einen hohen Sicherheitsstandard gewährleistet. Dafür kann eine elektronische Gesundheitskarte genutzt werden, die den Anforderungen an eine sichere Identifikation nach Absatz 5 genügt.
+4. die elektronische Gesundheitskarte des Versicherten oder deren PIN mit einem sicheren Verfahren persönlich an den in einer Vorsorgevollmacht benannten Vertreter oder den in einer Bestellungsurkunde benannten Betreuer zugestellt wurde und diese Vorsorgevollmacht oder Bestellungsurkunde der Krankenkasse vorliegt.
+
+(6) Soweit ein technisches Verfahren unter Einsatz der digitalen Identität des Versicherten nach Absatz 1 oder ein technisches Verfahren ohne Einsatz der elektronischen Gesundheitskarte nach den Absätzen 2 und 4 für den Zugriff auf Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1, 4, 6 und 7 genutzt wird, ist eine einmalige sichere Identifikation des Versicherten notwendig, die einen hohen Sicherheitsstandard gewährleistet. Dafür kann eine elektronische Gesundheitskarte genutzt werden, die den Anforderungen an eine sichere Identifikation nach Absatz 5 genügt.
 
 (7) Der Spitzenverband Bund der Krankenkassen kann im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit in der Richtlinie nach § 217f Absatz 4b Satz 1 abweichend von Absatz 5 zusätzliche Maßnahmen festlegen, wenn dies auf Grund des Gefährdungspotentials erforderlich ist.
 
 # § 337 – Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
 
-(1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 auszulesen und zu übermitteln sowie Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2 Satz 2 Nummer 6 handelt, und Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu verarbeiten.
+(1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 auszulesen und zu übermitteln sowie Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2 Nummer 3, 4 und 6 handelt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 7, soweit es sich um Daten nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 handelt, und Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu verarbeiten. Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
-(2) Der Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 eigenständig zu löschen. Im Übrigen müssen Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 6 auf Verlangen der Versicherten durch die nach Maßgabe der §§ 352, 356, 357, 359 und 361 insoweit Zugriffsberechtigten gelöscht werden.
+(2) Der Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 4, 6 und 7 eigenständig zu löschen. Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind. Im Übrigen müssen Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 7 auf Verlangen der Versicherten durch die nach Maßgabe der §§ 352, 356, 357, 359 und 361 insoweit Zugriffsberechtigten gelöscht werden.
 
 (3) Der Versicherte ist berechtigt, gemäß § 339 Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 zu erteilen.
 
 # § 338 – Komponenten zur Wahrnehmung der Versichertenrechte
 
-(1) Die Krankenkassen haben spätestens bis zum 1. Januar 2022 ihren Versicherten nach § 325 Absatz 1 von der Gesellschaft für Telematik zugelassene Komponenten zur Verfügung zu stellen, die das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2, 3 und 6 ermöglichen. Dabei sind technische Verfahren vorzusehen, die zur Authentifizierung einen hohen Sicherheitsstandard gewährleisten.
+(1) Die Gesellschaft für Telematik hat spätestens bis zum 1. Januar 2022 den Versicherten eine barrierefreie Komponente zur Verfügung zu stellen, die an einem stationären Endgerät den Versicherten das Auslesen der Daten und Protokolldaten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 ermöglicht. Hierbei hat die Gesellschaft für Telematik technische Verfahren vorzusehen, die zur Authentifizierung einen hohen Sicherheitsstandard gewährleisten.
 
-(2) Die Gesellschaft für Telematik evaluiert bis zum 31. Dezember 2022, ob Bedarf für eine flächendeckende Schaffung technischer Einrichtungen durch die Krankenkassen in ihren Geschäftsstellen besteht, die das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 sowie das Erteilen von Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 ermöglichen. Hierbei ist die nach Absatz 1 ab dem 1. Januar 2022 bestehende Verpflichtung der Krankenkassen zu berücksichtigen.
+(2) Die Gesellschaft für Telematik kann die Krankenkassen bei der Erfüllung der Aufgaben nach § 342 Absatz 7, soweit es um die Bereitstellung von barrierefreien Komponenten für stationäre Endgeräte geht, unterstützen.
+
+(3) Die Gesellschaft für Telematik evaluiert bis zum 31. Dezember 2022, ob Bedarf für eine flächendeckende Schaffung technischer Einrichtungen durch die Krankenkassen in ihren Geschäftsstellen besteht, die das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 sowie das Erteilen von Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 ermöglichen. Hierbei sind die nach § 342 Absatz 7 bestehenden Verpflichtungen der Krankenkassen zu berücksichtigen.
 
 # § 339 – Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
 
-(1) Zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen dürfen nach Maßgabe der §§ 352, 356, 357 und 359 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 zugreifen, soweit die Versicherten hierzu ihre vorherige Einwilligung erteilt haben. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe.
+(1) Zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen dürfen nach Maßgabe der §§ 352, 356, 357 und 359 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 zugreifen, soweit die Versicherten hierzu ihre vorherige Einwilligung erteilt haben. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe.
 
 (2) Zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen dürfen nach Maßgabe des § 361 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 zugreifen.
 
-(3) Auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 dürfen zugriffsberechtigte Leistungserbringer nach Maßgabe der §§ 352, 356, 357 und 359 mittels der elektronischen Gesundheitskarte der Versicherten nur mit einem ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen zugreifen. Es ist nachprüfbar elektronisch zu protokollieren, wer auf die Daten zugegriffen hat und auf welche Daten zugegriffen wurde.
+(3) Auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 dürfen zugriffsberechtigte Leistungserbringer nach den §§ 352, 356 Absatz 1, § 357 Absatz 1 und § 359 Absatz 1 mittels der elektronischen Gesundheitskarte oder der digitalen Identität der Versicherten nach § 291 Absatz 8 Satz 1 nur mit einem ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis oder mit einer digitalen Identität nach § 340 Absatz 6 in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen zugreifen. Es ist nachprüfbar elektronisch zu protokollieren, wer auf die Daten zugegriffen hat und auf welche Daten zugegriffen wurde.
 
-(4) Abweichend von Absatz 3 dürfen zugriffsberechtigte Leistungserbringer auch ohne den Einsatz der elektronischen Gesundheitskarte durch die Versicherten auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 zugreifen, wenn die Versicherten in diesen Zugriff über eine Benutzeroberfläche eines geeigneten Endgeräts im Sinne von § 336 Absatz 2 eingewilligt haben.
+(4) Abweichend von Absatz 3 dürfen zugriffsberechtigte Leistungserbringer auch ohne den Einsatz der elektronischen Gesundheitskarte durch die Versicherten auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 7 zugreifen, wenn die Versicherten in diesen Zugriff über eine Benutzeroberfläche eines geeigneten Endgeräts im Sinne von § 336 Absatz 2 eingewilligt haben. Satz 1 gilt nicht für den Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
-(5) Die in den §§ 352, 356, 357 und 359 genannten zugriffsberechtigten Personen, die nicht über einen elektronischen Heilberufsausweis verfügen, dürfen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 nach Maßgabe der §§ 352, 356, 357 und 359 mittels der elektronischen Gesundheitskarte der Versicherten oder gemäß Absatz 4 nur zugreifen, wenn sie für diesen Zugriff von einer Person autorisiert werden, die über einen ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis verfügt. Es ist nachprüfbar elektronisch zu protokollieren, wer auf welche Daten zugegriffen hat und von welcher Person die zugreifende Person für den Zugriff autorisiert wurde.
+(5) Die in den §§ 352, 356 Absatz 1, § 357 Absatz 1 und § 359 Absatz 1 genannten zugriffsberechtigten Personen, die nicht über einen elektronischen Heilberufsausweis verfügen, dürfen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 mittels der elektronischen Gesundheitskarte oder mit einer digitalen Identität der Versicherten nach § 291 Absatz 8 Satz 1 oder gemäß Absatz 4 nur zugreifen, wenn sie für diesen Zugriff von einer Person autorisiert werden, die über einen ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis oder eine digitale Identität nach § 340 Absatz 6 verfügt. Es ist nachprüfbar elektronisch zu protokollieren, wer auf welche Daten zugegriffen hat und von welcher Person die zugreifende Person für den Zugriff autorisiert wurde.
 
 (6) Der elektronische Heilberufsausweis muss über eine Möglichkeit zur sicheren Authentifizierung und zur Erstellung qualifizierter elektronischer Signaturen verfügen.
 
@@ -10247,6 +10339,12 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 
 (5) Komponenten zur Authentifizierung von Leistungserbringerinstitutionen dürfen nur an Leistungserbringerinstitutionen ausgegeben werden, denen ein Leistungserbringer, der Inhaber eines elektronischen Heilberufs- oder Berufsausweises ist, zugeordnet werden kann.
 
+(6) Spätestens ab dem 1. Januar 2024 haben die Stellen nach Absatz 1 Satz 1 Nummer 1 sowie den Absätzen 2 und 4 ergänzend zu den Heilberufs- und Berufsausweisen auf Verlangen des Leistungserbringers eine digitale Identität für das Gesundheitswesen zur Verfügung zu stellen, die nicht an eine Chipkarte gebunden ist.
+
+(7) Spätestens ab dem 1. Januar 2024 haben die Stellen nach Absatz 1 Satz 1 Nummer 3 sowie den Absätzen 2 und 4 ergänzend zu den Komponenten zur Authentifizierung von Leistungserbringerinstitutionen auf Verlangen der Leistungserbringerinstitution eine digitale Identität für das Gesundheitswesen zur Verfügung zu stellen, die nicht an eine Chipkarte gebunden ist.
+
+(8) Die Gesellschaft für Telematik legt die jeweiligen Anforderungen an die Sicherheit und Interoperabilität der digitalen Identitäten nach den Absätzen 6 und 7 fest. Die Festlegung der Anforderungen an die Sicherheit und den Datenschutz erfolgt dabei im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragen für den Datenschutz und die Informationsfreiheit auf Basis der jeweils gültigen Technischen Richtlinien des Bundesamts für Sicherheit in der Informationstechnik und unter Berücksichtigung der notwendigen Vertrauensniveaus der unterstützten Anwendungen. Eine digitale Identität kann über verschiedene Ausprägungen mit verschiedenen Sicherheits- und Vertrauensniveaus verfügen. Das Sicherheits- und Vertrauensniveau der Ausprägung einer digitalen Identität muss mindestens dem Schutzbedarf der Anwendung entsprechen, bei der diese eingesetzt wird.
+
 # § 341 – Elektronische Patientenakte
 
 (1) Die elektronische Patientenakte ist eine versichertengeführte elektronische Akte, die den Versicherten von den Krankenkassen auf Antrag zur Verfügung gestellt wird. Die Nutzung ist für die Versicherten freiwillig. Mit ihr sollen den Versicherten auf Verlangen Informationen, insbesondere zu Befunden, Diagnosen, durchgeführten und geplanten Therapiemaßnahmen sowie zu Behandlungsberichten, für eine einrichtungs-, fach- und sektorenübergreifende Nutzung für Zwecke der Gesundheitsversorgung, insbesondere zur gezielten Unterstützung von Anamnese und Befunderhebung, barrierefrei elektronisch bereitgestellt werden.
@@ -10259,7 +10357,7 @@ a) Daten zu Befunden, Diagnosen, durchgeführten und geplanten Therapiemaßnahme
 
 b) Daten des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4,
 
-c) Daten der elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5,
+c) Daten der elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 und 7,
 
 d) Daten in elektronischen Briefen zwischen den an der Versorgung der Versicherten teilnehmenden Ärzten und Einrichtungen (elektronische Arztbriefe),
 
@@ -10267,7 +10365,7 @@ d) Daten in elektronischen Briefen zwischen den an der Versorgung der Versichert
 
 3. Daten gemäß der nach § 92 Absatz 1 Satz 2 Nummer 3 und Absatz 4 in Verbindung mit § 26 beschlossenen Richtlinie des Gemeinsamen Bundesausschusses zur Früherkennung von Krankheiten bei Kindern (elektronisches Untersuchungsheft für Kinder),
 
-4. Daten gemäß der nach § 92 Absatz 1 Satz 2 Nummer 4 in Verbindung mit den §§ 24c bis 24f beschlossenen Richtlinie des Gemeinsamen Bundesausschusses über die ärztliche Betreuung während der Schwangerschaft und nach der Entbindung (elektronischer Mutterpass),
+4. Daten gemäß der nach § 92 Absatz 1 Satz 2 Nummer 4 in Verbindung mit den §§ 24c bis 24f beschlossenen Richtlinie des Gemeinsamen Bundesausschusses über die ärztliche Betreuung während der Schwangerschaft und nach der Entbindung (elektronischer Mutterpass) sowie Daten, die sich aus der Versorgung der Versicherten mit Hebammenhilfe ergeben,
 
 5. Daten der Impfdokumentation nach § 22 des Infektionsschutzgesetzes (elektronische Impfdokumentation),
 
@@ -10277,15 +10375,15 @@ d) Daten in elektronischen Briefen zwischen den an der Versorgung der Versichert
 
 8. bei den Krankenkassen gespeicherte Daten über die in Anspruch genommenen Leistungen des Versicherten,
 
-9. Daten, die der Versicherte seiner Krankenkasse für die Nutzung in zusätzlichen von der Krankenkasse angebotenen Anwendungen nach § 345 Absatz 1 Satz 1 zur Verfügung stellen kann,
+9. Daten des Versicherten aus digitalen Gesundheitsanwendungen des Versicherten nach § 33a,
 
 10. Daten zur pflegerischen Versorgung des Versicherten nach den §§ 24g, 37, 37b, 37c, 39a und 39c und der Haus- oder Heimpflege nach § 44 des Siebten Buches und nach dem Elften Buch,
 
-11. Daten elektronischer Verordnungen nach § 360 Absatz 1,
+11. Verordnungsdaten und Dispensierinformationen elektronischer Verordnungen nach § 360,
 
 12. die nach § 73 Absatz 2 Satz 1 Nummer 9 ausgestellte Bescheinigung über eine Arbeitsunfähigkeit und
 
-13. sonstige von den Leistungserbringern für den Versicherten bereitgestellte Daten.
+13. sonstige von den Leistungserbringern für den Versicherten bereitgestellte Daten, insbesondere Daten, die sich aus der Teilnahme des Versicherten an strukturierten Behandlungsprogrammen bei chronischen Krankheiten gemäß § 137f ergeben.
 
 (3) Die für die elektronische Patientenakte erforderlichen Komponenten und Dienste werden auf Antrag des jeweiligen Anbieters der Komponenten und Dienste nach § 325 von der Gesellschaft für Telematik zugelassen.
 
@@ -10337,9 +10435,21 @@ f) die Versicherten die Dauer der Zugriffsberechtigungen abweichend von Nummer 1
 
 g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakte mittels der Benutzeroberfläche eines geeigneten Endgeräts gemäß § 336 Absatz 2 vor dem Löschen von Daten in der elektronischen Patientenakte auf die möglichen versorgungsrelevanten Folgen hingewiesen werden und
 
-3. zusätzlich spätestens ab dem 1. Januar 2023 die Daten nach § 341 Absatz 2 Nummer 9, 10, 12 und 13 zur Verfügung gestellt werden können und
+3. zusätzlich spätestens ab dem 1. Juli 2022 die Versicherten mittels der Benutzeroberfläche eines geeigneten Endgeräts und unter Nutzung der elektronischen Gesundheitskarte oder einer digitalen Identität der Versicherten nach § 291 Absatz 8 die Abgabe, Änderung sowie den Widerruf einer elektronischen Erklärung zur Organ- und Gewebespende in dem dafür bestimmten Register vornehmen können, sobald das Register zur Verfügung steht, und
 
-4. zusätzlich spätestens ab dem 1. Januar 2023 die Versicherten oder durch sie befugte Vertreter die Daten, die in der elektronischen Patientenakte gespeichert sind, gemäß § 363 zu Forschungszwecken zur Verfügung stellen können.
+4. zusätzlich spätestens ab dem 1. Januar 2023
+
+a) die Daten nach § 341 Absatz 2 Nummer 10, 12 und 13 zur Verfügung gestellt werden können;
+
+b) die Versicherten oder durch sie befugte Vertreter die Daten, die in der elektronischen Patientenakte gespeichert sind, gemäß § 363 zu Forschungszwecken zur Verfügung stellen können;
+
+c) Daten der Versicherten in digitalen Gesundheitsanwendungen nach § 33a mit Einwilligung der Versicherten vom Hersteller einer digitalen Gesundheitsanwendung nach § 33a über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 Absatz 2 Nummer 9 übermittelt und dort gespeichert werden können;
+
+d) die Versicherten den Sofortnachrichtendienst mit Leistungserbringern und mit Krankenkassen als sicheres Übermittlungsverfahren nach § 311 Absatz 6 über die Benutzeroberfläche nach Nummer 1 Buchstabe b nutzen können;
+
+e) die Versicherten über die Benutzeroberfläche eines geeigneten Endgeräts nach § 336 Absatz 2 auf Informationen des Nationalen Gesundheitsportals nach § 395 barrierefrei zugreifen können und
+
+5. zusätzlich spätestens ab dem 1. Juli 2023 die Versicherten oder durch sie befugte Vertreter über die Benutzeroberfläche eines geeigneten Endgeräts nach § 336 Absatz 2 auf Daten des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese nicht auf der elektronischen Gesundheitskarte gespeichert sind, und auf Daten der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 barrierefrei zugreifen und die Rechte gemäß Nummer 1 Buchstabe b, d und f in Verbindung mit Nummer 2 Buchstabe e und f wahrnehmen können.
 
 (3) Jede Krankenkasse richtet eine Ombudsstelle ein. Die Versicherten können sich mit ihren Anliegen im Zusammenhang mit der elektronischen Patientenakte an die Ombudsstelle ihrer Krankenkasse wenden. Die Ombudsstellen beraten die Versicherten bei allen Fragen und Problemen bei der Nutzung der elektronischen Patientenakte. Sie informieren insbesondere über das Verfahren bei der Beantragung der elektronischen Patientenakte, Ansprüche der Versicherten nach diesem Titel, die Funktionsweise und die möglichen Inhalte der elektronischen Patientenakte.
 
@@ -10348,6 +10458,8 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 (5) Bis alle Krankenkassen ihren jeweiligen Verpflichtungen nach den Absätzen 1, 2 und 4 nachgekommen sind, prüft der Spitzenverband Bund der Krankenkassen jährlich zum Stichtag 1. Januar eines Jahres, erstmals zum 1. Januar 2021, ob die Krankenkassen ihren Versicherten eine von der Gesellschaft für Telematik zugelassene elektronische Patientenakte nach Maßgabe der Absätze 1, 2 und 4 zur Verfügung gestellt haben. Ist eine Krankenkasse ihrer jeweiligen Verpflichtung nach den Absätzen 1, 2 und 4 nicht nachgekommen, so stellt der Spitzenverband Bund der Krankenkassen dies durch Bescheid fest. In dem Bescheid ist die betroffene Krankenkasse über die Sanktionierung gemäß § 270 Absatz 3 zu informieren. Klagen gegen den Bescheid haben keine aufschiebende Wirkung. Der Spitzenverband Bund der Krankenkassen teilt dem Bundesamt für Soziale Sicherung erstmals bis zum 15. Januar 2021 mit, welche Krankenkassen ihrer Verpflichtung nach Absatz 1 nicht nachgekommen sind. Die Mitteilung nach Satz 5 erfolgt jeweils zum 15. Januar des Jahres, an dem der Spitzenverband Bund der Krankenkassen durch Bescheid festgestellt hat, dass eine Krankenkasse ihrer jeweiligen Verpflichtung nach den Absätzen 1, 2 und 4 nicht nachgekommen ist. Der Spitzenverband Bund der Krankenkassen veröffentlicht ab dem 1. Januar 2021 eine Übersicht derjenigen Krankenkassen, die ihren Versicherten eine von der Gesellschaft für Telematik zugelassene elektronische Patientenakte nach Maßgabe der Absätze 1, 2 und 4 zur Verfügung stellen, auf seiner Internetseite. Die Übersicht ist laufend zu aktualisieren.
 
 (6) Die Krankenkassen dürfen von ihnen genutzte Komponenten und Dienste der elektronischen Patientenakte Unternehmen der privaten Krankenversicherung oder den sonstigen Einrichtungen gemäß § 362 Absatz 1 zur Verfügung stellen und in deren Auftrag betreiben. Soweit auch der Betrieb der elektronischen Patientenakte für das Unternehmen der privaten Krankenversicherung oder der sonstigen Einrichtung gemäß § 362 Absatz 1 erfolgt, sind geeignete technische und organisatorische Maßnahmen zur sicheren Trennung der Datenbestände zu treffen. Die Entwicklungs- und Betriebskosten für die elektronische Patientenakte sind dem Unternehmen der privaten Krankenversicherung oder der sonstigen Einrichtung gemäß § 362 Absatz 1 in angemessener Höhe anteilig in Rechnung zu stellen.
+
+(7) Die Krankenkassen sind verpflichtet, spätestens bis zum 1. Januar 2022 sicherzustellen, dass Versicherte in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 und zusätzlich spätestens bis zum 1. Juli 2023 in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 7 ihre Rechte gemäß § 336 Absatz 1 und 2 und § 337 Absatz 1 bis 3 sowie das Auslesen der Protokolldaten in den Anwendungen barrierefrei mittels einer Benutzeroberfläche sowohl eines geeigneten mobilen Endgeräts als auch eines geeigneten stationären Endgeräts entsprechend der Anforderungen gemäß Absatz 2 wahrnehmen können. Dabei sind technische Verfahren vorzusehen, die zur Authentifizierung einen hohen Sicherheitsstandard gewährleisten. Satz 1 gilt nicht für Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
 # § 343 – Informationspflichten der Krankenkassen
 
@@ -10389,9 +10501,11 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 18. die Möglichkeit, den Zugriff von Leistungserbringern nach Nummer 10 auf Daten in der elektronischen Patientenakte nach § 352 auch Ärzten, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, und Fachärzten für Arbeitsmedizin sowie Ärzten, die über die Zusatzbezeichnung „Betriebsmedizin“ verfügen, zu erteilen,
 
-19. die Möglichkeit, ab dem 1. Januar 2022 über die Benutzeroberfläche eines geeigneten Endgeräts einem Vertreter die Befugnis zu erteilen, die Rechte des Versicherten im Rahmen der Führung seiner elektronischen Patientenakte innerhalb der erteilten Vertretungsbefugnis wahrzunehmen, und
+19. die Möglichkeit, ab dem 1. Januar 2022 über die Benutzeroberfläche eines geeigneten Endgeräts einem Vertreter die Befugnis zu erteilen, die Rechte des Versicherten im Rahmen der Führung seiner elektronischen Patientenakte innerhalb der erteilten Vertretungsbefugnis wahrzunehmen,
 
-20. mögliche versorgungsrelevante Folgen, die daraus resultieren können, dass der Versicherte von seinen Rechten Gebrauch macht, sich gegen die Nutzung einer elektronischen Patientenakte zu entscheiden, Zugriffe auf Daten der elektronischen Patientenakte nicht zu erteilen oder Daten der elektronischen Patientenakte zu löschen.
+20. mögliche versorgungsrelevante Folgen, die daraus resultieren können, dass der Versicherte von seinen Rechten Gebrauch macht, sich gegen die Nutzung einer elektronischen Patientenakte zu entscheiden, Zugriffe auf Daten der elektronischen Patientenakte nicht zu erteilen oder Daten der elektronischen Patientenakte zu löschen und
+
+21. die Möglichkeit für die Versicherten, ab dem 1. Januar 2023 Daten aus ihren digitalen Gesundheitsanwendungen nach § 33a mit ihrer Einwilligung vom Hersteller einer solchen Anwendung über den Anbieter der elektronischen Patientenakte in ihre elektronische Patientenakte zu übermitteln.
 
 (2) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 1 hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit spätestens bis zum 30. November 2020 geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
@@ -10461,7 +10575,7 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 2. die verarbeiteten Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
 
-(3) Ändern sich Daten nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 und werden diese Daten in der elektronischen Patientenakte verfügbar gemacht, haben Versicherte neben dem Anspruch auf Anpassung der Daten auf der elektronischen Gesundheitskarte auch einen Anspruch auf Speicherung der geänderten Daten in der elektronischen Patientenakte. Der Anspruch richtet sich gegen den Leistungserbringer, der die Änderung der Daten nach § 334 Absatz 1 Satz 2 Nummer 4 oder 5 vorgenommen hat.
+(3) Ändern sich Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 und werden diese Daten in der elektronischen Patientenakte verfügbar gemacht, haben Versicherte einen Anspruch auf Speicherung der geänderten Daten in der elektronischen Patientenakte. Der Anspruch richtet sich gegen den Leistungserbringer, der die Änderung der Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 oder 7 vorgenommen hat.
 
 (4) Nach Absatz 3 verpflichtete Leistungserbringer haben
 
@@ -10489,9 +10603,13 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 3. hat der Anbieter die nach den Nummern 1 und 2 übermittelten Daten in der elektronischen Patientenakte nach § 341 zu speichern.
 
-# § 351 – Übertragung von Daten aus der elektronischen Gesundheitsakte in die elektronische Patientenakte
+# § 351 – Übertragung von Daten aus der elektronischen Gesundheitsakte und aus Anwendungen nach § 33a in die elektronische Patientenakte
 
-Die Krankenkasse hat ab dem 1. Januar 2022 sicherzustellen, dass Daten der Versicherten nach § 341 Absatz 2 Nummer 7, die in einer von der Krankenkasse nach § 68 finanzierten elektronischen Gesundheitsakte der Versicherten gespeichert sind, auf Antrag der Versicherten vom Anbieter der elektronischen Gesundheitsakte über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 übermittelt und dort gespeichert werden.
+(1) Die Krankenkasse hat ab dem 1. Januar 2022 sicherzustellen, dass Daten der Versicherten nach § 341 Absatz 2 Nummer 7, die in einer von der Krankenkasse nach § 68 finanzierten elektronischen Gesundheitsakte der Versicherten gespeichert sind, auf Antrag der Versicherten vom Anbieter der elektronischen Gesundheitsakte über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 übermittelt und dort gespeichert werden.
+
+(2) Die Krankenkasse hat ab dem 1. Januar 2023 sicherzustellen, dass Daten der Versicherten in digitalen Gesundheitsanwendungen nach § 33a mit Einwilligung der Versicherten vom Hersteller einer digitalen Gesundheitsanwendung nach § 33a über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 Absatz 2 Nummer 9 übermittelt und dort gespeichert werden können.
+
+(3) Die Ausgabe der Komponenten zur Authentifizierung der Hersteller digitaler Gesundheitsanwendungen nach § 33a erfolgt durch die Gesellschaft für Telematik. Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt, dass ein Hersteller digitaler Gesundheitsanwendungen nach § 33a berechtigt ist, eine Komponente nach Satz 1 zu erhalten.
 
 # § 352 – Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
 
@@ -10529,7 +10647,7 @@ cc) in einer Vorsorge- oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder
 
 b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und der Zugriff unter Aufsicht eines Zahnarztes erfolgt;
 
-5. Apotheker mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b und Nummer 5 und 11 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+5. Apotheker mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b und Nummer 5 und 11 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
 6. im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 5 auch zum pharmazeutischen Personal der Apotheke gehörende Personen, deren Zugriff
 
@@ -10547,17 +10665,20 @@ aa)
 bei Psychotherapeuten nach Nummer 7,
 
 bb)  
-in einem Krankenhaus oder
+in einem Krankenhaus,
 
-cc) in einer Vorsorge- oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder in einer Rehabilitationseinrichtung nach § 15 Absatz 2 des Sechsten Buches oder bei einem Leistungserbringer der Heilbehandlung einschließlich medizinischer Rehabilitation nach § 26 Absatz 1 Satz 1 des Siebten Buches oder in der Haus-oder Heimpflege nach § 44 des Siebten Buches und
+cc) in einer Hochschulambulanz oder in einer Ambulanz nach § 117 Absatz 2 bis 3b oder
+
+dd)  
+in einer Vorsorge- oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder in einer Rehabilitationseinrichtung nach § 15 Absatz 2 des Sechsten Buches oder bei einem Leistungserbringer der Heilbehandlung einschließlich medizinischer Rehabilitation nach § 26 Absatz 1 Satz 1 des Siebten Buches oder in der Haus-oder Heimpflege nach § 44 des Siebten Buches und
 
 b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und deren Zugriff unter Aufsicht eines Psychotherapeuten erfolgt;
 
-9. Gesundheits- und Krankenpfleger sowie Gesundheits- und Kinderkrankenpfleger, die in die medizinische oder pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+9. Gesundheits- und Krankenpfleger sowie Gesundheits- und Kinderkrankenpfleger, die in die medizinische oder pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
-10. Altenpfleger, die in die medizinische oder pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+10. Altenpfleger, die in die medizinische oder pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
-11. Pflegefachfrauen und Pflegefachmänner, die in die medizinische und pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+11. Pflegefachfrauen und Pflegefachmänner, die in die medizinische und pflegerische Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 10, die sich aus der pflegerischen Versorgung ergeben, ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
 12. im Rahmen der jeweiligen Zugriffsberechtigung nach den Nummern 9 bis 11, soweit deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und unter Aufsicht eines Zugriffsberechtigten nach den Nummern 9 bis 11 erfolgt,
 
@@ -10567,9 +10688,9 @@ b) Personen, die erfolgreich eine landesrechtlich geregelte Ausbildung in der Kr
 
 c) Personen, denen auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 (BGBl. I S. 893) in der bis zum 31. Dezember 2003 geltenden Fassung eine Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist;
 
-13. Hebammen, die nach § 134a Absatz 2 zur Leistungserbringung zugelassen oder im Rahmen eines Anstellungsverhältnisses tätig und in die Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 3 und 4, die sich aus der Versorgung mit Hebammenhilfe ergeben, ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist;
+13. Hebammen, die nach § 134a Absatz 2 zur Leistungserbringung zugelassen oder im Rahmen eines Anstellungsverhältnisses tätig und in die Versorgung der Versicherten eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 3 und 4, die sich aus der Versorgung mit Hebammenhilfe ergeben, ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist;
 
-14. Physiotherapeuten, die nach § 124 Absatz 1 zur Leistungserbringung zugelassen sind und die zur Versorgung des Versicherten in dessen Behandlung eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3, 4, 6 bis 8, 10 und 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe a, die sich aus der physiotherapeutischen Behandlung ergeben, ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist;
+14. Heilmittelerbringer, die nach § 124 Absatz 1 zur Leistungserbringung zugelassen sind und die zur Versorgung des Versicherten in dessen Behandlung eingebunden sind, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 Nummer 1, 3, 4, 6 bis 11 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 1 Buchstabe a, die sich aus der Behandlung durch den jeweiligen Heilmittelerbringer ergeben, ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist;
 
 15. im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 14 auch Personen,
 
@@ -10623,13 +10744,17 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 4. bis zum 30. Juni 2021 die Festlegungen dafür zu treffen, dass Zugriffsberechtigte nach § 352 Nummer 9 bis 18 auf Daten der elektronischen Patientenakte barrierefrei zugreifen können,
 
-5. bis zum 30. Juni 2021 im Benehmen mit den für die Wahrnehmung der Interessen der Forschung im Gesundheitswesen maßgeblichen Bundesverbänden die Festlegungen dafür zu treffen, dass die Versicherten gemäß § 363 Daten, die in der elektronischen Patientenakte nach § 341 Absatz 2 gespeichert sind, für die Nutzung zu Forschungszwecken zur Verfügung stellen und diese übermittelt werden können.
+5. bis zum 30. Juni 2021 im Benehmen mit den für die Wahrnehmung der Interessen der Forschung im Gesundheitswesen maßgeblichen Bundesverbänden die Festlegungen dafür zu treffen, dass die Versicherten gemäß § 363 Daten, die in der elektronischen Patientenakte nach § 341 Absatz 2 gespeichert sind, für die Nutzung zu Forschungszwecken zur Verfügung stellen und diese übermittelt werden können,
+
+6. bis zum 1. Januar 2022 die Festlegungen dafür zu treffen, dass Daten der Versicherten aus digitalen Gesundheitsanwendungen nach § 33a vom Hersteller der Anwendungen über den Anbieter der elektronischen Patientenakte über eine Schnittstelle, die den Anforderungen des Zwölften Kapitels genügt, in die elektronische Patientenakte übermittelt und dort verarbeitet werden können, und
+
+7. bis zum 1. Januar 2022 die Festlegungen dafür zu treffen, dass Versicherte mittels der Benutzeroberfläche eines geeigneten Endgeräts gemäß § 336 Absatz 2 auf Informationen des Nationalen Gesundheitsportals nach § 395 barrierefrei zugreifen können und dass ihnen dabei die Informationen des Portals mit Daten, die in ihrer elektronischen Patientenakte gespeichert sind, verknüpft angeboten werden können.
 
 (3) Die Gesellschaft für Telematik hat zu prüfen, inwieweit die Vorgaben des § 22 Absatz 3 des Infektionsschutzgesetzes in der elektronischen Patientenakte umgesetzt werden können.
 
-# § 355 – Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans und der elektronischen Notfalldaten
+# § 355 – Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans, der elektronischen Notfalldaten und der elektronischen Patientenkurzakte
 
-(1) Die Kassenärztliche Bundesvereinigung trifft die notwendigen Festlegungen für die Inhalte der elektronischen Patientenakte sowie die für eine Fortschreibung der Inhalte des elektronischen Medikationsplans und der elektronischen Notfalldaten notwendigen Festlegungen, um deren semantische und syntaktische Interoperabilität zu gewährleisten, im Benehmen mit
+(1) Die Kassenärztliche Bundesvereinigung trifft die notwendigen Festlegungen für die Inhalte der elektronischen Patientenakte sowie die für eine Fortschreibung der Inhalte des elektronischen Medikationsplans und der elektronischen Notfalldaten sowie die für eine Fortschreibung der elektronischen Notfalldaten und der Hinweise der Versicherten nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu einer elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 notwendigen Festlegungen, um deren semantische und syntaktische Interoperabilität zu gewährleisten, im Benehmen mit
 
 1. der Gesellschaft für Telematik,
 
@@ -10643,45 +10768,45 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 6. den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen,
 
-7. den für die Wahrnehmung der Interessen der Forschung im Gesundheitswesen maßgeblichen Bundesverbänden und
+7. den für die Wahrnehmung der Interessen der Forschung im Gesundheitswesen maßgeblichen Bundesverbänden,
 
-8. dem Bundesinstitut für Arzneimittel und Medizinprodukte.
+8. dem Bundesinstitut für Arzneimittel und Medizinprodukte und
+
+9. dem für die Wahrnehmung der Interessen der Unternehmen der Privaten Krankenversicherung maßgeblichen Bundesverband.
 
 Über die Festlegungen nach Satz 1 entscheidet für die Kassenärztliche Bundesvereinigung der Vorstand.
 
 (2) Um einen strukturierten Prozess zu gewährleisten, erstellt die Kassenärztliche Bundesvereinigung eine Verfahrensordnung zur Herstellung des Benehmens nach Absatz 1 und stellt im Anschluss das Benehmen mit den nach Absatz 1 Satz 1 zu Beteiligenden hierzu her.
 
+(2a) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30. Juni 2022 die notwendigen Festlegungen für die semantische und syntaktische Interoperabilität von Daten aus digitalen Gesundheitsanwendungen der Versicherten nach § 33a, die von den Versicherten nach § 341 Absatz 2 Nummer 9 in die elektronische Patientenakte übermittelt werden. Die Festlegungen nach Satz 1 sind zum Ende jedes Kalenderhalbjahres fortzuschreiben.
+
+(2b) Die Kassenärztliche Bundesvereinigung trifft bis zum 31. Dezember 2022 unter Berücksichtigung der laufenden Erkenntnisse der Modellvorhaben nach § 125 des Elften Buches die notwendigen Festlegungen für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 10.
+
+(2c) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30. Juni 2022 die notwendigen Festlegungen für die semantische und syntaktische Interoperabilität von Daten, die von Hilfsmitteln oder Implantaten nach § 374a Absatz 1 in eine digitale Gesundheitsanwendung übermittelt werden. Die Festlegungen nach Satz 1 sind fortlaufend fortzuschreiben.
+
+(2d) Die Kassenärztliche Bundesvereinigung trifft erstmals bis zum 30. Juni 2022 die notwendigen Festlegungen für die semantische und syntaktische Interoperabilität von Daten, die im Rahmen des telemedizinischen Monitorings verarbeitet werden. Die Festlegungen nach Satz 1 sind fortlaufend fortzuschreiben.
+
 (3) Bei der Fortschreibung der Vorgaben zum elektronischen Medikationsplan hat die Kassenärztliche Bundesvereinigung die Festlegungen nach § 31a Absatz 4 und § 31b Absatz 2 zu berücksichtigen und sicherzustellen, dass Daten nach § 31a Absatz 2 Satz 1 sowie Daten des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 in den von den Vertragsärzten und den Ärzten in zugelassenen Krankenhäusern zur Verordnung genutzten elektronischen Programmen und in den Programmen der Apotheken einheitlich abgebildet und zur Prüfung der Arzneimitteltherapiesicherheit genutzt werden können.
 
-(4) Die semantischen und syntaktischen Vorgaben zu den elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 sind unter Berücksichtigung der entsprechenden Festlegungen der Gesellschaft für Telematik so fortzuschreiben, dass diese bei einer Bereitstellung in der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe c mit internationalen Standards interoperabel sind.
+(4) Die semantischen und syntaktischen Vorgaben zu den elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 und den Hinweisen der Versicherten nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 sind unter Berücksichtigung der entsprechenden Festlegungen der Gesellschaft für Telematik so fortzuschreiben, dass diese bei einer Bereitstellung in der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 mit internationalen Standards interoperabel sind.
 
-(5) Festlegungen nach Absatz 1 müssen, sofern sie die Fortschreibung des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 zum Gegenstand haben, im Benehmen mit der für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisation der Apotheker auf Bundesebene, der Bundesärztekammer und der Deutschen Krankenhausgesellschaft erfolgen. Festlegungen nach Absatz 1 müssen, sofern sie die Fortschreibung der elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 zum Gegenstand haben, im Benehmen mit der Bundesärztekammer und der Deutschen Krankenhausgesellschaft erfolgen. Festlegungen nach Absatz 1 müssen, sofern sie Daten zur pflegerischen Versorgung nach § 341 Absatz 2 Nummer 10 zum Gegenstand haben, im Benehmen mit den in Absatz 1 Satz 1 Nummer 5 genannten Organisationen erfolgen.
+(5) Festlegungen nach Absatz 1 müssen, sofern sie die Fortschreibung des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 zum Gegenstand haben, im Benehmen mit der für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisation der Apotheker auf Bundesebene, der Bundesärztekammer und der Deutschen Krankenhausgesellschaft erfolgen. Festlegungen nach Absatz 1 müssen, sofern sie die Fortschreibung der elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 und deren Fortschreibung zu einer elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 zum Gegenstand haben, im Benehmen mit der Bundesärztekammer und der Deutschen Krankenhausgesellschaft erfolgen. Festlegungen nach Absatz 1 müssen, sofern sie Daten zur pflegerischen Versorgung nach § 341 Absatz 2 Nummer 10 zum Gegenstand haben, im Benehmen mit den in Absatz 1 Satz 1 Nummer 5 genannten Organisationen erfolgen.
 
 (6) Die Kassenärztliche Bundesvereinigung hat bei ihren Festlegungen nach Absatz 1 grundsätzlich internationale Standards zu nutzen. Zur Gewährleistung der semantischen Interoperabilität hat die Kassenärztliche Bundesvereinigung die vom Bundesinstitut für Arzneimittel und Medizinprodukte für diese Zwecke verbindlich zur Verfügung gestellten medizinischen Klassifikationen, Terminologien und Nomenklaturen zu verwenden.
 
 (7) Das Bundesinstitut für Arzneimittel und Medizinprodukte ergreift bis zum 1. Januar 2021 die notwendigen Maßnahmen, damit eine medizinische Terminologie und eine Nomenklatur kostenfrei für alle Nutzer zur Verfügung steht und unterhält dafür ein nationales Kompetenzzentrum für medizinische Terminologien.
 
-(8) Die Gesellschaft für Telematik kann der Kassenärztlichen Bundesvereinigung zur Erfüllung ihrer Aufgabe nach Absatz 1 entsprechend dem Projektstand zur Umsetzung und Fortschreibung der mit der elektronischen Patientenakte, dem elektronischen Medikationsplan sowie den elektronischen Notfalldaten vorgesehenen Inhalte angemessene Fristen setzen. Hält die Kassenärztliche Bundesvereinigung die jeweils gesetzte Frist nicht ein, kann die Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft mit der Erstellung der jeweiligen Festlegungen nach Absatz 1 im Benehmen mit den in Absatz 1 Satz 1 genannten Organisationen beauftragen. Das Verfahren für das Vorgehen nach Fristablauf legt die Gesellschaft für Telematik fest.
+(8) Die Gesellschaft für Telematik kann der Kassenärztlichen Bundesvereinigung zur Erfüllung ihrer Aufgabe nach Absatz 1 entsprechend dem Projektstand zur Umsetzung und Fortschreibung der mit der elektronischen Patientenakte, dem elektronischen Medikationsplan, den elektronischen Notfalldaten sowie der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 vorgesehenen Inhalte angemessene Fristen setzen. Hält die Kassenärztliche Bundesvereinigung die jeweils gesetzte Frist nicht ein, kann die Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft mit der Erstellung der jeweiligen Festlegungen nach Absatz 1 im Benehmen mit den in Absatz 1 Satz 1 genannten Organisationen beauftragen. Das Verfahren für das Vorgehen nach Fristablauf legt die Gesellschaft für Telematik fest.
 
 (9) Die Festlegungen, die nach Absatz 1 von der Kassenärztlichen Bundesvereinigung oder nach Absatz 8 Satz 2 von der Deutschen Krankenhausgesellschaft getroffen werden, sind für alle Gesellschafter, für die Leistungserbringer und die Krankenkassen sowie für ihre Verbände verbindlich. Die Festlegungen können nur durch eine alternative Entscheidung der in der Gesellschaft für Telematik vertretenen Spitzenorganisationen der Leistungserbringer nach § 306 Absatz 1 Satz 1 in gleicher Sache ersetzt werden. Eine Entscheidung der Spitzenorganisationen nach Satz 2 erfolgt mit der einfachen Mehrheit der sich aus deren Geschäftsanteilen ergebenden Stimmen.
 
-(10) Die Festlegungen, die nach Absatz 1 von der Kassenärztlichen Bundesvereinigung, nach Absatz 8 Satz 2 von der Deutschen Krankenhausgesellschaft oder nach Absatz 9 Satz 2 von den in der Gesellschaft für Telematik vertretenen Spitzenorganisationen der Leistungserbringer nach § 306 Absatz 1 Satz 1 getroffen werden, sind in das Interoperabilitätsverzeichnis nach § 384 aufzunehmen.
+(10) Die Festlegungen, die nach Absatz 1 von der Kassenärztlichen Bundesvereinigung, nach Absatz 8 Satz 2 von der Deutschen Krankenhausgesellschaft oder nach Absatz 9 Satz 2 von den in der Gesellschaft für Telematik vertretenen Spitzenorganisationen der Leistungserbringer nach § 306 Absatz 1 Satz 1 getroffen werden, sind in das Interoperabilitätsverzeichnis nach § 385 aufzunehmen.
 
 (11) Die Gesellschaft für Telematik hat der Kassenärztlichen Bundesvereinigung die Kosten zu erstatten, die ihr bei der Erfüllung ihrer Aufgaben nach Absatz 1 entstehen. Beauftragt die Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft nach Absatz 8 Satz 2 mit der Erstellung von Festlegungen nach Absatz 1, hat die Gesellschaft für Telematik der Deutschen Krankenhausgesellschaft die Kosten zu erstatten, die ihr bei der Erfüllung ihrer Aufgaben nach Absatz 1 entstehen.
 
-# § 356 – Zugriff auf Erklärungen der Versicherten zur Organ- und Gewebespende sowie auf Hinweise auf deren Vorhandensein und Aufbewahrungsort
+# § 356 – Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende
 
-(1) Auf Daten in elektronischen Erklärungen des Versicherten zur Organ- und Gewebespende in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 dürfen mit Einwilligung des Versicherten, wozu es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe bedarf, ausschließlich folgende Personen zugreifen:
-
-1. Ärzte, die in die Behandlung des Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Erstellung und Aktualisierung der elektronischen Erklärung des Versicherten zur Organ- und Gewebespende erforderlich ist;
-
-2. im Rahmen der Zugriffsberechtigung nach Nummer 1 Personen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind, soweit dies im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und der Zugriff unter Aufsicht einer Person nach Nummer 1 erfolgt,
-
-a) bei Personen nach Nummer 1 oder
-
-b) in einem Krankenhaus.
-
-(2) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 dürfen mit Einwilligung des Versicherten, die abweichend von § 339 Absatz 1 hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten bedarf, folgende Personen zugreifen:
+(1) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2 und 7 dürfen mit Einwilligung des Versicherten, die abweichend von § 339 Absatz 1 hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten bedarf, ausschließlich folgende Personen zugreifen:
 
 1. Ärzte, die in die Behandlung des Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Erstellung und Aktualisierung der Hinweise des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende erforderlich ist;
 
@@ -10691,17 +10816,19 @@ a) bei Personen nach Absatz 1 Nummer 1 oder
 
 b) in einem Krankenhaus.
 
-(3) Der Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 ist abweichend von § 339 Absatz 1 ohne eine Einwilligung der betroffenen Person nur zulässig,
+(2) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2 und 7 ist abweichend von § 339 Absatz 1 ohne eine Einwilligung der betroffenen Person nur zulässig,
 
 1. nachdem der Tod des Versicherten nach § 3 Absatz 1 Satz 1 Nummer 2 des Transplantationsgesetzes festgestellt wurde und
 
 2. wenn der Zugriff zur Klärung erforderlich ist, ob die verstorbene Person in die Entnahme von Organen oder Gewebe eingewilligt hat.
 
-(4) Die Authentizität der elektronischen Erklärung zur Organ- und Gewebespende muss sichergestellt sein.
+(3) Die Hinweise des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 werden ab dem 1. Juli 2023 mit Einwilligung des Versicherten technisch in die elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 überführt. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf Verlangen des Versicherten und mit dessen Einwilligung die Daten, die in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 auf der elektronischen Gesundheitskarte gespeichert sind, in der elektronischen Patientenkurzakte zu speichern und auf der elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die Daten nach § 334 Absatz 1 Satz 2 Nummer 2 mindestens bis zum 1. Juli 2024 und anschließend so lange auf der elektronischen Gesundheitskarte gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3 erforderlichen Voraussetzungen zu schaffen.
+
+(4) Das Bundesministerium für Gesundheit kann die in Absatz 3 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
 # § 357 – Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
 
-(1) Auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 dürfen ausschließlich folgende Personen zugreifen:
+(1) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 3 und 7 dürfen ausschließlich folgende Personen zugreifen:
 
 1. Ärzte und Psychotherapeuten, die in die Behandlung des Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist,
 
@@ -10719,47 +10846,61 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 3. Personen nach § 352 Nummer 9 bis 12, die in einer Pflegeeinrichtung, einem Hospiz oder einer Palliativeinrichtung tätig sind.
 
-(2) Der Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 ist mit Einwilligung des Versicherten zulässig. Abweichend von § 339 Absatz 1 bedarf es hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
+(2) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 3 und 7 ist nur mit Einwilligung des Versicherten zulässig. Abweichend von § 339 Absatz 1 bedarf es hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
 
-(3) Der Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 ist abweichend von § 339 Absatz 1 ohne Einwilligung des Versicherten nur zulässig, wenn eine ärztlich indizierte Maßnahme unmittelbar bevorsteht und der Versicherte nicht fähig ist, in die Maßnahme einzuwilligen.
+(3) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 3 und 7 ist abweichend von § 339 Absatz 1 ohne Einwilligung des Versicherten nur zulässig, wenn eine ärztlich indizierte Maßnahme unmittelbar bevorsteht und der Versicherte nicht fähig ist, in die Maßnahme einzuwilligen.
 
-# § 358 – Elektronischer Medikationsplan und elektronische Notfalldaten
+(4) Die Hinweise des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 werden ab dem 1. Juli 2023 mit Einwilligung des Versicherten technisch in die elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 überführt. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf Verlangen des Versicherten und mit dessen Einwilligung die Daten, die in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 auf der elektronischen Gesundheitskarte gespeichert sind, in der elektronischen Patientenkurzakte zu speichern und auf der elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die Daten nach § 334 Absatz 1 Satz 2 Nummer 3 mindestens bis zum 1. Juli 2024 und anschließend so lange auf der elektronischen Gesundheitskarte gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3 erforderlichen Voraussetzungen zu schaffen.
 
-(1) Die elektronische Gesundheitskarte muss geeignet sein, das Verarbeiten von medizinischen Daten, soweit sie für die Notfallversorgung erforderlich sind (elektronische Notfalldaten), zu unterstützen. Die elektronischen Notfalldaten können Daten zu Befunden, Daten zur Medikation oder Zusatzinformationen über den Versicherten enthalten und sind für die Versicherten freiwillig.
+(5) Das Bundesministerium für Gesundheit kann die in Absatz 4 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
-(2) Die elektronische Gesundheitskarte muss geeignet sein, die Verarbeitung von Daten des Medikationsplans nach § 31a einschließlich der Daten zur Prüfung der Arzneimitteltherapiesicherheit zu unterstützen (elektronischer Medikationsplan). Der elektronische Medikationsplan ist für den Versicherten freiwillig.
+# § 358 – Elektronische Notfalldaten, elektronische Patientenkurzakte und elektronischer Medikationsplan
+
+(1) Die elektronische Gesundheitskarte muss, sofern sie vor dem 1. Juli 2024 ausgegeben wird, geeignet sein, das Verarbeiten von medizinischen Daten, soweit sie für die Notfallversorgung erforderlich sind (elektronische Notfalldaten), zu unterstützen. Die elektronischen Notfalldaten und die elektronische Patientenkurzakte können Daten zu Befunden, Daten zur Medikation oder Zusatzinformationen über den Versicherten enthalten und sind für die Versicherten freiwillig.
+
+(2) Die elektronische Gesundheitskarte muss, sofern sie vor dem 1. Juli 2024 ausgegeben wird, geeignet sein, die Verarbeitung von Daten des Medikationsplans nach § 31a einschließlich der Daten zur Prüfung der Arzneimitteltherapiesicherheit zu unterstützen (elektronischer Medikationsplan). Der elektronische Medikationsplan ist für den Versicherten freiwillig.
 
 (3) Versicherte haben gegenüber Ärzten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern oder in einer Vorsorgeeinrichtung oder Vorsorgeeinrichtungen und Rehabilitationseinrichtungen tätig und in deren Behandlung eingebunden sind, einen Anspruch
 
-1. auf die Erstellung von elektronischen Notfalldaten und die Speicherung dieser Daten auf ihrer elektronischen Gesundheitskarte sowie
+1. auf die Erstellung von elektronischen Notfalldaten und die Speicherung dieser Daten auf ihrer elektronischen Gesundheitskarte oder auf die Erstellung der elektronischen Patientenkurzakte sowie
 
-2. auf die Aktualisierung von elektronischen Notfalldaten und die Speicherung dieser Daten auf ihrer elektronischen Gesundheitskarte.
+2. auf die Aktualisierung von elektronischen Notfalldaten und die Speicherung dieser Daten auf ihrer elektronischen Gesundheitskarte oder auf die Aktualisierung und Speicherung dieser Daten in der elektronischen Patientenkurzakte.
 
 (4) Die Verarbeitung von elektronischen Notfalldaten muss auch auf der elektronischen Gesundheitskarte ohne Netzzugang möglich sein.
 
-(5) Die Krankenkassen, die ihren Versicherten elektronische Gesundheitskarten mit der Möglichkeit zur Speicherung der elektronischen Notfalldaten und des elektronischen Medikationsplans ausgeben, sind die für die Verarbeitung von Daten in diesen Anwendungen Verantwortlichen nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679.
+(5) Die Krankenkassen, die ihren Versicherten elektronische Gesundheitskarten mit der Möglichkeit zur Speicherung des elektronischen Medikationsplans und der elektronischen Notfalldaten ausgeben und ihnen ab dem 1. Juli 2023 einen elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 und eine elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 zur Verfügung stellen, sind die für die Verarbeitung von Daten in diesen Anwendungen Verantwortlichen nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679. Unbeschadet ihrer Verantwortlichkeit für den elektronischen Medikationsplan und die elektronische Patientenkurzakte nach Satz 1 können die Krankenkassen Anbieter elektronischer Medikationspläne und Anbieter von elektronischen Patientenkurzakten als Auftragsverarbeiter mit der Zurverfügungstellung der elektronischen Medikationspläne und von elektronischen Patientenkurzakten für ihre Versicherten beauftragen.
 
-(6) Mit der Einführung der elektronischen Notfalldaten und des elektronischen Medikationsplans haben die Krankenkassen den Versicherten geeignetes Informationsmaterial in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache barrierefrei zur Verfügung zu stellen. Dieses muss über alle relevanten Umstände der Datenverarbeitung bei der Erstellung der elektronischen Notfalldaten und des elektronischen Medikationsplans sowie bei der Speicherung von Daten in den elektronischen Notfalldaten und dem elektronischen Medikationsplan durch Leistungserbringer informieren. Das Material enthält insbesondere Hinweise über
+(6) Die elektronischen Notfalldaten werden ab dem 1. Juli 2023 mit Einwilligung des Versicherten technisch in die elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 überführt. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf Verlangen des Versicherten und mit dessen Einwilligung die Daten, die in den elektronischen Notfalldaten gespeichert sind, in der elektronischen Patientenkurzakte zu speichern und auf der elektronischen Gesundheitskarte zu löschen. Erteilt der Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleiben die elektronischen Notfalldaten mindestens bis zum 1. Juli 2024 und anschließend so lange auf der elektronischen Gesundheitskarte gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3 erforderlichen Voraussetzungen zu schaffen.
 
-1. die Funktionsweise der elektronischen Notfalldaten und des elektronischen Medikationsplans einschließlich der darin zu verarbeitenden Daten,
+(7) Die elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 muss ab dem 1. Juli 2023 den grenzüberschreitenden Austausch von Gesundheitsdaten entsprechend den in § 359 Absatz 4 festgelegten Anforderungen gewährleisten. Die Gesellschaft für Telematik hat hierfür bis zum 1. Januar 2022 die erforderlichen Voraussetzungen zu schaffen.
 
-2. die Freiwilligkeit der Nutzung der elektronischen Notfalldaten und des elektronischen Medikationsplans und der Speicherung von Daten in diesen Anwendungen,
+(8) Der elektronische Medikationsplan wird ab dem 1. Juli 2023 technisch in eine eigenständige Anwendung innerhalb der Telematikinfrastruktur überführt, die nicht mehr auf der elektronischen Gesundheitskarte gespeichert wird. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf Verlangen des Versicherten und mit dessen Einwilligung die Daten, die im elektronischen Medikationsplan auf der elektronischen Gesundheitskarte gespeichert sind, in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 zu speichern und den auf der elektronischen Gesundheitskarte gespeicherten Medikationsplan zu löschen. Erteilt der Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleibt der elektronische Medikationsplan mindestens bis zum 1. Juli 2024 und anschließend so lange auf der elektronischen Gesundheitskarte gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3 erforderlichen Voraussetzungen zu schaffen.
+
+(9) Mit der Einführung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans haben die Krankenkassen den Versicherten geeignetes Informationsmaterial in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache barrierefrei zur Verfügung zu stellen. Dieses muss über alle relevanten Umstände der Datenverarbeitung bei der Erstellung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans sowie bei der Speicherung von Daten in den elektronischen Notfalldaten und dem elektronischen Medikationsplan durch Leistungserbringer informieren. Das Material enthält insbesondere Hinweise über
+
+1. die Funktionsweise der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans einschließlich der darin zu verarbeitenden Daten,
+
+2. die Freiwilligkeit der Nutzung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans und der Speicherung von Daten in diesen Anwendungen,
 
 3. das Recht auf jederzeitige vollständige Löschung der Anwendungen und der darin gespeicherten Daten,
 
-4. die Voraussetzungen für den Zugriff der Leistungserbringer auf die elektronischen Notfalldaten und den elektronischen Medikationsplan und die Verarbeitung dieser Daten durch die Leistungserbringer.
+4. die Voraussetzungen für den Zugriff der Leistungserbringer auf die elektronischen Notfalldaten, die elektronische Patientenkurzakte und den elektronischen Medikationsplan und die Verarbeitung dieser Daten durch die Leistungserbringer und
 
-(7) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 6 hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit rechtzeitig geeignetes Informationsmaterial zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
+5. die Voraussetzungen und das Verfahren bei der Übermittlung und Nutzung von Daten aus der elektronischen Patientenkurzakte zum grenzüberschreitenden Austausch von Gesundheitsdaten über die nationale eHealth-Kontaktstelle.
 
-# § 359 – Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten
+(10) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 6 hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit rechtzeitig geeignetes Informationsmaterial zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
-(1) Auf Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 dürfen ausschließlich folgende Personen zugreifen:
+(11) Das Bundesministerium für Gesundheit kann die in den Absätzen 1, 2 und 6 bis 8 sowie in § 334 Absatz 2 Satz 2 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
-1. Ärzte sowie Zahnärzte, die in die Behandlung des Versicherten eingebunden sind, jeweils mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+# § 359 – Zugriff auf den elektronischen Medikationsplan, die elektronischen Notfalldaten und die elektronische Patientenkurzakte
 
-2. Apotheker mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 sowie das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 5 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+(1) Auf Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 dürfen ausschließlich folgende Personen zugreifen:
 
-3. Psychotherapeuten, die in die Behandlung der Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 5 sowie das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+1. Ärzte sowie Zahnärzte, die in die Behandlung des Versicherten eingebunden sind, jeweils mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+
+2. Apotheker mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 sowie das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+
+3. Psychotherapeuten, die in die Behandlung der Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 sowie das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
 4. im Rahmen der jeweiligen Zugriffsberechtigung nach den Nummern 1 und 3 auch Personen,
 
@@ -10769,9 +10910,12 @@ aa)
 bei Personen nach Nummer 1 oder 3,
 
 bb)  
-in einem Krankenhaus oder
+in einem Krankenhaus,
 
-cc) in einer Vorsorgeeinrichtung oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder in einer Rehabilitationseinrichtung nach § 15 Absatz 2 des Sechsten Buches oder bei einem Leistungserbringer der Heilbehandlung einschließlich medizinischer Rehabilitation nach § 26 Absatz 1 Satz 1 des Siebten Buches oder in der Haus- oder Heimpflege nach § 44 des Siebten Buches und
+cc) in einer Hochschulambulanz oder in einer Ambulanz nach § 117 Absatz 2 bis 3b oder
+
+dd)  
+in einer Vorsorgeeinrichtung oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder in einer Rehabilitationseinrichtung nach § 15 Absatz 2 des Sechsten Buches oder bei einem Leistungserbringer der Heilbehandlung einschließlich medizinischer Rehabilitation nach § 26 Absatz 1 Satz 1 des Siebten Buches oder in der Haus- oder Heimpflege nach § 44 des Siebten Buches und
 
 b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und deren Zugriff unter Aufsicht einer Person nach Nummer 1 oder 3 erfolgt;
 
@@ -10781,7 +10925,7 @@ a) im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforde
 
 b) unter Aufsicht eines Apothekers erfolgt, soweit nach apothekenrechtlichen Vorschriften eine Beaufsichtigung der mit dem Zugriff verbundenen pharmazeutischen Tätigkeit vorgeschrieben ist;
 
-6. Angehörige eines Heilberufes, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung erfordert, und die in die medizinische oder pflegerische Versorgung des Versicherten eingebunden sind mit einem Zugriff der das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
+6. Angehörige eines Heilberufes, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung erfordert, und die in die medizinische oder pflegerische Versorgung des Versicherten eingebunden sind mit einem Zugriff der das Auslesen, die Speicherung und die Verwendung von Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
 7. im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 6 auch, soweit deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforderlich ist und unter Aufsicht eines Zugriffsberechtigten nach Nummer 6 erfolgt,
 
@@ -10793,31 +10937,55 @@ c) Personen, denen auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 
 
 (2) Der Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 ist mit Einwilligung des Versicherten zulässig. Abweichend von § 339 Absatz 1 bedarf es hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten, wenn der Versicherte auf das Erfordernis einer technischen Zugriffsfreigabe verzichtet hat und die Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation protokollieren, dass der Zugriff mit Einwilligung des Versicherten erfolgt ist.
 
-(3) Der Zugriff auf die elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 ist abweichend von § 339 Absatz 1 zulässig
+(3) Der Zugriff auf die elektronischen Notfalldaten und auf die Daten der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 ist abweichend von § 339 Absatz 1 zulässig
 
 1. ohne eine Einwilligung der Versicherten, soweit es zur Versorgung der Versicherten in einem Notfall erforderlich ist, und
 
 2. mit Einwilligung der Versicherten, die die Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren haben, soweit es zur Versorgung des Versicherten außerhalb eines Notfalls erforderlich ist.
 
-Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
+Im Fall des Satzes 1 Nummer 1 ist für den Zugriff auf die elektronische Patientenkurzakte der Einsatz der elektronischen Gesundheitskarte des Versicherten oder seiner digitalen Identität nach § 291 Absatz 8 erforderlich. Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
 
-# § 360 – Übermittlung vertragsärztlicher Verordnungen in elektronischer Form
+(4) Die Übermittlung von Daten der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 zum grenzüberschreitenden Austausch von Gesundheitsdaten zum Zweck der Unterstützung einer konkreten Behandlung des Versicherten an einen in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht des jeweiligen Mitgliedstaats zum Zugriff auf die Daten berechtigten Leistungserbringer über die jeweiligen nationalen eHealth-Kontaktstellen bedarf der vorherigen Einwilligung durch den Versicherten in die Nutzung des Übermittlungsverfahrens. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der Behandlung die Übermittlung an die nationale eHealth-Kontaktstelle des Mitgliedstaats, in dem die Behandlung stattfindet, durch eine eindeutige bestätigende Handlung technisch freigibt. Abweichend von den Absätzen 1 und 3 sowie von § 339 finden für die Verarbeitung der Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung, in dem der Leistungserbringer seinen Sitz hat. Hierbei finden die gemeinsamen europäischen Vereinbarungen zum grenzüberschreitenden Austausch von Gesundheitsdaten Berücksichtigung.
 
-(1) Sobald die hierfür erforderlichen Dienste und Komponenten flächendeckend zur Verfügung stehen, ist für die Übermittlung und Verarbeitung vertragsärztlicher Verordnungen von apothekenpflichtigen Arzneimitteln, einschließlich Betäubungsmitteln, sowie von sonstigen in der vertragsärztlichen Versorgung verordnungsfähigen Leistungen in elektronischer Form die Telematikinfrastruktur zu nutzen.
+# § 360 – Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen
 
-(2) Ab dem 1. Januar 2022 sind Ärzte und Zahnärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen tätig sind, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, verpflichtet, Verordnungen von verschreibungspflichtigen Arzneimitteln in elektronischer Form auszustellen und für die Übermittlung der Verordnungen von verschreibungspflichtigen Arzneimitteln Dienste und Komponenten nach Absatz 1 zu nutzen. Dies gilt nicht, wenn die Ausstellung von Verordnungen von verschreibungspflichtigen Arzneimitteln in elektronischer Form technisch nicht möglich ist oder die zur Übermittlung von Verordnungen von verschreibungspflichtigen Arzneimitteln erforderlichen Dienste und Komponenten nach Absatz 1 technisch nicht zur Verfügung stehen. Die Verpflichtung nach Satz 1 gilt nicht für die ärztliche Verordnung von Betäubungsmitteln und von Arzneimitteln nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung.
+(1) Sobald die hierfür erforderlichen Dienste und Komponenten flächendeckend zur Verfügung stehen, ist für die elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen von apothekenpflichtigen Arzneimitteln, einschließlich Betäubungsmitteln, sowie von sonstigen in der vertragsärztlichen Versorgung verordnungsfähigen Leistungen die Telematikinfrastruktur zu nutzen.
 
-(3) Ab dem 1. Januar 2022 sind Apotheken verpflichtet, verschreibungspflichtige Arzneimittel auf der Grundlage ärztlicher Verordnungen nach Absatz 2 unter Nutzung der Dienste und Komponenten nach Absatz 1 abzugeben. Dies gilt nicht, wenn die erforderlichen Dienste und Komponenten nach Absatz 1 technisch nicht zur Verfügung stehen. Die Vorschriften der Apothekenbetriebsordnung bleiben unberührt.
+(2) Ab dem 1. Januar 2022 sind Ärzte und Zahnärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen tätig sind, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, verpflichtet, Verordnungen von verschreibungspflichtigen Arzneimitteln elektronisch auszustellen und für die Übermittlung der Verordnungen von verschreibungspflichtigen Arzneimitteln Dienste und Komponenten nach Absatz 1 zu nutzen. Für die elektronische Übermittlung von vertragsärztlichen Verordnungen von Betäubungsmitteln und von Arzneimitteln nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung gilt die Verpflichtung nach Satz 1 ab dem 1. Januar 2023. Die Verpflichtungen nach den Sätzen 1 und 2 gelten nicht, wenn die elektronische Ausstellung oder Übermittlung von Verordnungen von verschreibungspflichtigen Arzneimitteln oder von Arzneimitteln nach § 3a Absatz 1 der Arzneimittelverschreibungsverordnung aus technischen Gründen im Einzelfall nicht möglich ist. Die Verpflichtung nach Satz 2 in Verbindung mit Satz 1 zur elektronischen Ausstellung und Übermittlung vertragsärztlicher Verordnungen von Betäubungsmitteln gilt nicht, wenn die elektronische Ausstellung oder Übermittlung dieser Verordnungen aus technischen Gründen im Einzelfall nicht möglich ist oder wenn es sich um einen Notfall im Sinne des § 8 Absatz 6 der Betäubungsmittelverschreibungsverordnung handelt.
 
-(4) Versicherte können gegenüber Leistungserbringern nach Absatz 2 wählen, ob ihnen die für den Zugriff auf ihre ärztliche Verordnung nach Absatz 2 erforderlichen Zugangsdaten entweder durch einen Ausdruck in Papierform oder elektronisch bereitgestellt werden sollen.
+(3) Ab dem 1. Januar 2022 sind Apotheken verpflichtet, verschreibungspflichtige Arzneimittel auf der Grundlage ärztlicher Verordnungen nach Absatz 2 unter Nutzung der Dienste und Komponenten nach Absatz 1 abzugeben. Für die Abgabe von Betäubungsmitteln und von Arzneimitteln nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung gilt die Verpflichtung nach Satz 1 ab dem 1. Januar 2023. Die Verpflichtungen nach den Sätzen 1 und 2 gelten nicht, wenn der elektronische Abruf der ärztlichen Verordnung nach Absatz 2 aus technischen Gründen im Einzelfall nicht möglich ist. Die Vorschriften der Apothekenbetriebsordnung bleiben unberührt.
 
-(5) Die Gesellschaft für Telematik ist verpflichtet, die Komponenten der Telematikinfrastruktur, die den Zugriff der Versicherten auf die elektronische ärztliche Verordnung nach § 334 Absatz 1 Satz 2 Nummer 6 ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichem Interesse zu entwickeln und zur Verfügung zu stellen. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Schnittstellen in den Komponenten nach Satz 1 und ihre Nutzung durch Drittanbieter zu regeln. Die Funktionsfähigkeit und Interoperabilität der Komponenten sind durch die Gesellschaft für Telematik sicherzustellen. Die Sicherheit der Komponenten des Systems zur Übermittlung ärztlicher Verordnungen einschließlich der Zugriffsmöglichkeiten für Versicherte ist durch ein externes Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im Verhältnis zum Gefährdungspotential nachzuweisen, dass die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der Komponente sichergestellt wird. Die Festlegung der Prüfverfahren und die Auswahl des Sicherheitsgutachters für das externe Sicherheitsgutachten erfolgt durch die Gesellschaft für Telematik im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik. Das externe Sicherheitsgutachten muss dem Bundesamt für Sicherheit in der Informationstechnik zur Prüfung vorgelegt und durch dieses bestätigt werden. Erst mit der Bestätigung des externen Sicherheitsgutachtens durch das Bundesamt für Sicherheit in der Informationstechnik dürfen die Komponenten durch die Gesellschaft für Telematik zur Verfügung gestellt werden.
+(4) Ab dem 1. Januar 2023 sind die in Absatz 2 Satz 1 genannten Leistungserbringer sowie Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen tätig sind, die an der vertragsärztlichen Versorgung teilnehmen oder die in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, verpflichtet, Verordnungen digitaler Gesundheitsanwendungen nach § 33a elektronisch auszustellen und für deren Übermittlung Dienste und Komponenten nach Absatz 1 zu nutzen. Die Verpflichtung nach Satz 1 gilt nicht, wenn die elektronische Ausstellung oder Übermittlung von Verordnungen nach Satz 1 aus technischen Gründen im Einzelfall nicht möglich ist.
 
-(6) Verordnungs- und Dispensierdaten sind mit Ablauf von 100 Tagen nach Dispensierung der Verordnung zu löschen.
+(5) Ab dem 1. Juli 2024 sind die in Absatz 2 Satz 1 genannten Leistungserbringer sowie die in Absatz 4 Satz 1 genannten Psychotherapeuten verpflichtet, Verordnungen von häuslicher Krankenpflege nach § 37 sowie Verordnungen von außerklinischer Intensivpflege nach § 37c elektronisch auszustellen und für deren Übermittlung Dienste und Komponenten nach Absatz 1 zu nutzen. Die Verpflichtung nach Satz 1 gilt nicht, wenn die elektronische Ausstellung oder Übermittlung von Verordnungen nach Satz 1 aus technischen Gründen im Einzelfall nicht möglich ist. Die Erbringer von Leistungen der häuslichen Krankenpflege nach § 37 sowie der außerklinischen Intensivpflege nach § 37c sind ab dem 1. Juli 2024 verpflichtet, die Leistungen unter Nutzung der Dienste und Komponenten nach Absatz 1 auch auf der Grundlage einer elektronischen Verordnung nach Satz 1 zu erbringen. Die Verpflichtung nach Satz 3 gilt nicht, wenn der elektronische Abruf der Verordnung aus technischen Gründen im Einzelfall nicht möglich ist.
+
+(6) Ab dem 1. Juli 2025 sind die in Absatz 2 Satz 1 genannten Leistungserbringer sowie die in Absatz 4 Satz 1 genannten Psychotherapeuten verpflichtet, Verordnungen von Soziotherapie nach § 37a elektronisch auszustellen und für deren Übermittlung Dienste und Komponenten nach Absatz 1 zu nutzen. Die Verpflichtung nach Satz 1 gilt nicht, wenn die elektronische Ausstellung oder Übermittlung von Verordnungen nach Satz 1 aus technischen Gründen im Einzelfall nicht möglich ist. Die Erbringer soziotherapeutischer Leistungen nach § 37a sind ab dem 1. Juli 2025 verpflichtet, die Leistungen unter Nutzung der Dienste und Komponenten nach Absatz 1 auch auf der Grundlage einer elektronischen Verordnung nach Satz 1 zu erbringen. Die Verpflichtung nach Satz 3 gilt nicht, wenn der elektronische Abruf der Verordnung aus technischen Gründen im Einzelfall nicht möglich ist.
+
+(7) Ab dem 1. Juli 2026 sind die in Absatz 2 Satz 1 genannten Leistungserbringer sowie die in Absatz 4 Satz 1 genannten Psychotherapeuten verpflichtet, Verordnungen von Heilmitteln, Verordnungen von Hilfsmitteln, Verordnungen von Verbandmitteln nach § 31 Absatz 1 Satz 1, Verordnungen von Harn- und Blutteststreifen nach § 31 Absatz 1 Satz 1, Verordnungen von Medizinprodukten nach § 31 Absatz 1 sowie Verordnungen von bilanzierten Diäten zur enteralen Ernährung nach § 31 Absatz 5 elektronisch auszustellen und für deren Übermittlung Dienste und Komponenten nach Absatz 1 zu nutzen. Die Verpflichtung nach Satz 1 gilt nicht, wenn die elektronische Ausstellung oder Übermittlung von Verordnungen nach Satz 1 aus technischen Gründen im Einzelfall nicht möglich ist. Heil- und Hilfsmittelerbringer sowie Erbringer der weiteren in Satz 1 genannten Leistungen sind ab dem 1. Juli 2026 verpflichtet, die Leistungen unter Nutzung der Dienste und Komponenten nach Absatz 1 auch auf der Grundlage einer elektronischen Verordnung nach Satz 1 zu erbringen. Die Verpflichtung nach Satz 3 gilt nicht, wenn der elektronische Abruf der Verordnung aus technischen Gründen im Einzelfall nicht möglich ist.
+
+(8) Um Verordnungen nach den Absätzen 5, 6 oder Absatz 7 elektronisch abrufen zu können, haben sich Erbringer von Leistungen der häuslichen Krankenpflege nach § 37 sowie der außerklinischen Intensivpflege nach § 37c bis zum 1. Januar 2024, Erbringer von Leistungen der Soziotherapie nach § 37a bis zum 1. Januar 2025, Heil- und Hilfsmittelerbringer sowie Erbringer der weiteren in Absatz 7 Satz 1 genannten Leistungen bis zum 1. Januar 2026 an die Telematikinfrastruktur nach § 306 anzuschließen.
+
+(9) Versicherte können gegenüber den in Absatz 2 Satz 1 genannten Leistungserbringern sowie den in Absatz 4 Satz 1 genannten Psychotherapeuten wählen, ob ihnen die für den Zugriff auf ihre ärztliche oder psychotherapeutische Verordnung nach den Absätzen 2 und 4 bis 7 erforderlichen Zugangsdaten barrierefrei entweder durch einen Ausdruck in Papierform oder elektronisch bereitgestellt werden sollen. Versicherte können den Sofortnachrichtendienst nach § 312 Absatz 1 Satz 1 Nummer 9 nutzen, um die für den Zugriff auf ihre ärztliche oder psychotherapeutische Verordnung erforderlichen Zugangsdaten in elektronischer Form zum Zweck der Einlösung der Verordnung durch einen Vertreter einem anderen Versicherten zur Verfügung zu stellen.
+
+(10) Die Gesellschaft für Telematik ist verpflichtet, die Komponenten der Telematikinfrastruktur, die den Zugriff der Versicherten auf die elektronische ärztliche Verordnung nach § 334 Absatz 1 Satz 2 Nummer 6 ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichem Interesse zu entwickeln und zur Verfügung zu stellen. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Schnittstellen in den Diensten nach Absatz 1 sowie in den Komponenten nach Satz 1 und ihre Nutzung durch Drittanbieter zu regeln. Die Funktionsfähigkeit und Interoperabilität der Komponenten sind durch die Gesellschaft für Telematik sicherzustellen. Die Sicherheit der Komponenten des Systems zur Übermittlung ärztlicher Verordnungen einschließlich der Zugriffsmöglichkeiten für Versicherte ist durch ein externes Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im Verhältnis zum Gefährdungspotential nachzuweisen, dass die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der Komponente sichergestellt wird. Die Festlegung der Prüfverfahren und die Auswahl des Sicherheitsgutachters für das externe Sicherheitsgutachten erfolgt durch die Gesellschaft für Telematik im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik. Das externe Sicherheitsgutachten muss dem Bundesamt für Sicherheit in der Informationstechnik zur Prüfung vorgelegt und durch dieses bestätigt werden. Erst mit der Bestätigung des externen Sicherheitsgutachtens durch das Bundesamt für Sicherheit in der Informationstechnik dürfen die Komponenten durch die Gesellschaft für Telematik zur Verfügung gestellt werden.
+
+(11) Verordnungsdaten und Dispensierinformationen sind mit Ablauf von 100 Tagen nach Dispensierung der Verordnung zu löschen.
+
+(12) Die Gesellschaft für Telematik ist verpflichtet,
+
+1. bis zum 1. Januar 2022 die Voraussetzungen dafür zu schaffen, dass Versicherte über die Komponenten nach Absatz 10 Satz 1 auf Informationen des Nationalen Gesundheitsportals nach § 395 zugreifen können und dass den Versicherten die Informationen des Portals mit Daten, die in ihrer elektronischen Verordnung gespeichert sind, verknüpft angeboten werden können, und
+
+2. bis zum 1. Januar 2024 die Voraussetzungen dafür zu schaffen, dass Versicherte über die Komponenten nach Absatz 10 Satz 1 zum Zweck des grenzüberschreitenden Austauschs von Daten der elektronischen Verordnung, nach vorheriger Einwilligung in die Nutzung des Übermittlungsverfahrens und technischer Freigabe zum Zeitpunkt der Einlösung der Verordnung bei dem nach dem Recht des jeweiligen anderen Mitgliedstaats der Europäischen Union zum Zugriff berechtigten Leistungserbringer, Daten elektronischer Verordnungen nach Absatz 2 Satz 1 der nationalen eHealth-Kontaktstelle übermitteln können.
+
+(13) Mit Einwilligung des Versicherten können die Rechnungsdaten zu einer elektronischen Verordnung, die nicht dem Sachleistungsprinzip unterliegt, für die Dauer von maximal zehn Jahren in den Diensten der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 gespeichert werden. Auf die Rechnungsdaten nach Satz 1 haben nur die Versicherten selbst Zugriff. Die Versicherten können diese Rechnungsdaten zum Zweck der Kostenerstattung mit Kostenträgern teilen.
+
+(14) Mit Einwilligung des Versicherten können Daten zu Verordnungen nach den Absätzen 2 und 4 bis 7 sowie Dispensierinformationen nach § 312 Absatz 1 Satz 1 Nummer 3 automatisiert in der elektronischen Patientenakte gespeichert werden.
+
+(15) Das Bundesministerium für Gesundheit kann die in den Absätzen 2 bis 8 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
 # § 361 – Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur
 
-(1) Auf Daten der Versicherten in ärztlichen Verordnungen in elektronischer Form dürfen folgende Personen zugreifen:
+(1) Auf Daten der Versicherten in vertragsärztlichen elektronischen Verordnungen dürfen ausschließlich folgende Personen zugreifen:
 
 1. Ärzte, Zahnärzte sowie Psychotherapeuten, die in die Behandlung der Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten, die von ihnen nach § 360 übermittelt wurden, ermöglicht, soweit dies für die Versorgung des Versicherten erforderlich ist;
 
@@ -10829,7 +10997,7 @@ b) in einem Krankenhaus oder
 
 c) in einer Vorsorgeeinrichtung oder Rehabilitationseinrichtung nach § 107 Absatz 2 oder in einer Rehabilitationseinrichtung nach § 15 Absatz 2 des Sechsten Buches oder bei einem Leistungserbringer der Heilbehandlung einschließlich medizinischer Rehabilitation nach § 26 Absatz 1 Satz 1 des Siebten Buches oder in der Haus- oder Heimpflege nach § 44 des Siebten Buches;
 
-3. Apotheker mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Versorgung des Versicherten mit verordneten Arzneimitteln erforderlich ist und ihnen die für den Zugriff erforderlichen Zugangsdaten nach § 360 Absatz 4 vorliegen;
+3. Apotheker mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Versorgung des Versicherten mit verordneten Arzneimitteln erforderlich ist und ihnen die für den Zugriff erforderlichen Zugangsdaten nach § 360 Absatz 9 vorliegen;
 
 4. im Rahmen der jeweiligen Zugriffsberechtigung nach Nummer 3 auch zum pharmazeutischen Personal der Apotheke gehörende Personen, deren Zugriff
 
@@ -10837,13 +11005,17 @@ a) im Rahmen der von ihnen zulässigerweise zu erledigenden Tätigkeiten erforde
 
 b) unter Aufsicht eines Apothekers erfolgt, soweit nach apothekenrechtlichen Vorschriften eine Beaufsichtigung der mit dem Zugriff verbundenen pharmazeutischen Tätigkeit vorgeschrieben ist;
 
-5. sonstige Erbringer ärztlich verordneter Leistungen nach diesem Buch mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Versorgung der Versicherten mit der ärztlich verordneten Leistung erforderlich ist und ihnen die für den Zugriff erforderlichen Zugangsdaten nach § 360 Absatz 4 vorliegen.
+5. sonstige Erbringer ärztlich verordneter Leistungen nach diesem Buch mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Versorgung der Versicherten mit der ärztlich verordneten Leistung erforderlich ist und ihnen die für den Zugriff erforderlichen Zugangsdaten nach § 360 Absatz 9 vorliegen.
 
-(2) Auf Daten der Versicherten in ärztlichen Verordnungen in elektronischer Form dürfen zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen nach Absatz 1 und nach Maßgabe des § 339 Absatz 2 nur zugreifen mit
+Auf Dispensierinformationen nach § 360 Absatz 11 dürfen nur die Versicherten zugreifen.
 
-1. einem ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen oder
+(2) Auf Daten der Versicherten in vertragsärztlichen elektronischen Verordnungen dürfen zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen nach Absatz 1 und nach Maßgabe des § 339 Absatz 2 nur zugreifen mit
 
-2. einem ihrer Berufszugehörigkeit entsprechenden elektronischen Berufsausweis in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen.
+1. einem ihrer Berufszugehörigkeit entsprechenden elektronischen Heilberufsausweis in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen,
+
+2. einem ihrer Berufszugehörigkeit entsprechenden elektronischen Berufsausweis in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen oder
+
+3. einer digitalen Identität nach § 340 Absatz 6 in Verbindung mit einer Komponente zur Authentifizierung von Leistungserbringerinstitutionen.
 
 Es ist nachprüfbar elektronisch zu protokollieren, wer auf die Daten zugegriffen hat.
 
@@ -10863,13 +11035,19 @@ b) von welcher Person nach Nummer 1 die zugreifende Person autorisiert wurde.
 
 (4) Der elektronische Heilberufsausweis und der elektronische Berufsausweis müssen über eine Möglichkeit zur sicheren Authentifizierung und zur Erstellung qualifizierter elektronischer Signaturen verfügen.
 
-# § 362 – Nutzung von elektronischen Gesundheitskarten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr
+(5) Die Übermittlung von Daten der elektronischen Verordnung nach § 360 Absatz 2 zum grenzüberschreitenden Austausch von Gesundheitsdaten zum Zweck der Unterstützung einer Behandlung des Versicherten an einen in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht des jeweiligen Mitgliedstaats zum Zugriff auf Verordnungsdaten berechtigten Leistungserbringer über die jeweiligen nationalen eHealth-Kontaktstellen bedarf der vorherigen Einwilligung durch den Versicherten in die Nutzung des Übermittlungsverfahrens. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der Einlösung der Verordnung die Übermittlung an die nationale eHealth-Kontaktstelle des Mitgliedstaats, in dem die Verordnung eingelöst wird, durch eine eindeutige bestätigende Handlung technisch freigibt. Abweichend von den Absätzen 1 bis 4 sowie von § 339 finden für die Verarbeitung der Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung, in dem die Verordnung eingelöst wird. Hierbei finden die gemeinsamen europäischen Vereinbarungen zum grenzüberschreitenden Austausch von Gesundheitsdaten Berücksichtigung. Der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland hat die Versicherten über die Voraussetzungen und das Verfahren bei der Übermittlung und Nutzung von Daten der elektronischen Verordnung zum grenzüberschreitenden Austausch von Gesundheitsdaten über die nationale eHealth-Kontaktstelle zu informieren.
 
-(1) Werden von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei oder von der Bundeswehr elektronische Gesundheitskarten für die Verarbeitung von Daten einer Anwendung nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an Polizeivollzugsbeamte der Bundespolizei oder an Soldaten ausgegeben, sind die §§ 334 bis 337, 339, 341 Absatz 1 bis 4, § 342 Absatz 2 und 3, § 343 Absatz 1, die §§ 344, 352, 353, 356 bis 359 und 361 entsprechend anzuwenden.
+# § 362 – Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr
 
-(2) Für den Einsatz elektronischer Gesundheitskarten nach Absatz 1 können Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, die Bundespolizei oder die Bundeswehr als Versichertennummer den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 nutzen. § 290 Absatz 1 Satz 4 bis 7 ist entsprechend anzuwenden. Die Vergabe der Versichertennummer erfolgt durch die Vertrauensstelle nach § 290 Absatz 2 Satz 2 und hat den Vorgaben der Richtlinien nach § 290 Absatz 2 Satz 1 für den unveränderbaren Teil der Krankenversichertennummer zu entsprechen.
+(1) Werden von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei oder von der Bundeswehr elektronische Gesundheitskarten oder digitale Identitäten für die Verarbeitung von Daten einer Anwendung nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an Polizeivollzugsbeamte der Bundespolizei oder an Soldaten zur Verfügung gestellt, sind die § 291a Absatz 5 bis 7, §§ 334 bis 337, 339, 341 Absatz 1 bis 4, § 342 Absatz 2 und 3, § 343 Absatz 1, die §§ 344, 345, 352, 353, 356 bis 359 und 361 entsprechend anzuwenden.
+
+(2) Für den Einsatz elektronischer Gesundheitskarten oder digitaler Identitäten nach Absatz 1 können Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, die Bundespolizei oder die Bundeswehr als Versichertennummer den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 nutzen. § 290 Absatz 1 Satz 4 bis 7 ist entsprechend anzuwenden. Die Vergabe der Versichertennummer erfolgt durch die Vertrauensstelle nach § 290 Absatz 2 Satz 2 und hat den Vorgaben der Richtlinien nach § 290 Absatz 2 Satz 1 für den unveränderbaren Teil der Krankenversichertennummer zu entsprechen.
 
 (3) Die Kosten zur Bildung der Versichertennummer und, sofern die Vergabe einer Rentenversicherungsnummer erforderlich ist, zur Vergabe der Rentenversicherungsnummer tragen jeweils die Unternehmen der privaten Krankenversicherung, die Postbeamtenkrankenkasse, die Krankenversorgung der Bundesbahnbeamten, die Bundespolizei oder die Bundeswehr.
+
+# § 362a – Nutzung der elektronischen Gesundheitskarte bei Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch
+
+Wird die Telematikinfrastruktur für Anwendungen im Bereich der Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch unter Nutzung elektronischer Gesundheitskarten oder hiermit technisch kompatibler Karten zum Zweck des Nachweises der Leistungsberechtigung und der Abrechnung von Leistungen in diesem Bereich verwendet, gilt § 327 entsprechend. § 291a bleibt unberührt.
 
 # § 363 – Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken
 
@@ -10885,7 +11063,7 @@ b) von welcher Person nach Nummer 1 die zugreifende Person autorisiert wurde.
 
 Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende Pseudonyme und übermittelt dem Forschungsdatenzentrum eine Liste der periodenübergreifenden Pseudonyme mit den dazugehörigen Arbeitsnummern. Mit dem periodenübergreifenden Pseudonym und der bereits übersandten Arbeitsnummer verknüpft das Forschungsdatenzentrum die freigegebenen Daten mit den im Forschungsdatenzentrum vorliegenden Daten vorheriger Übermittlungen.
 
-(4) Die an das Forschungsdatenzentrum freigegebenen Daten dürfen von diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag den Nutzungsberechtigten nach § 303e Absatz 1 Nummer 6, 7, 8, 10, 13, 14, 15 und 16 bereitgestellt werden. § 303a Absatz 3, § 303c Absatz 1 und 2, die §§ 303d, 303e Absatz 3 bis 6 sowie die §§ 303f und 397 Absatz 1 Nummer 2 und 3 gelten entsprechend.
+(4) Die an das Forschungsdatenzentrum freigegebenen Daten dürfen von diesem für die Erfüllung seiner Aufgaben verarbeitet und auf Antrag den Nutzungsberechtigten nach § 303e Absatz 1 Nummer 6, 7, 8, 10, 13, 14, 15 und 16 bereitgestellt werden. § 303a Absatz 3, § 303c Absatz 1 und 2, die §§ 303d, 303e Absatz 3 bis 6 sowie die §§ 303f und 399 Absatz 1 Nummer 1 und 2 gelten entsprechend.
 
 (5) Vor Erteilung der informierten Einwilligung ist der Versicherte umfassend nach Maßgabe des § 343 Absatz 1 Satz 1 über die Freiwilligkeit der Datenfreigabe, die pseudonymisierte Datenübermittlung an das Forschungsdatenzentrum, die möglichen Nutzungsberechtigten, die Zwecke, die Aufgaben des Forschungsdatenzentrums, die Arten der Datenbereitstellung an Nutzungsberechtigte, das Verbot der Re-Identifizierung von Versicherten und Leistungserbringern sowie die Widerrufsmöglichkeiten zu informieren. Diese Informationen sind gemäß § 343 Absatz 1 Satz 3 Nummer 16 Bestandteile des geeigneten Informationsmaterials der Krankenkassen.
 
@@ -10907,13 +11085,13 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 # § 365 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung
 
-(1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
+(1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen berücksichtigen in der Vereinbarung nach Satz 1 die sich ändernden Kommunikationsbedürfnisse der Versicherten, insbesondere hinsichtlich der Nutzung digitaler Kommunikationsanwendungen auf mobilen Endgeräten. Bei der Fortschreibung der Vereinbarung ist vorzusehen, dass für die Durchführung von Videosprechstunden Dienste der Telematikinfrastruktur genutzt werden können, sobald diese zur Verfügung stehen. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
 # § 366 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung
 
-(1) Die Kassenzahnärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
+(1) Die Kassenzahnärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen berücksichtigen in der Vereinbarung nach Satz 1 die sich ändernden Kommunikationsbedürfnisse der Versicherten, insbesondere hinsichtlich der Nutzung digitaler Kommunikationsanwendungen auf mobilen Endgeräten. Bei der Fortschreibung der Vereinbarung ist vorzusehen, dass für die Durchführung von Videosprechstunden Dienste der Telematikinfrastruktur genutzt werden können, sobald diese zur Verfügung stehen. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
@@ -10923,15 +11101,31 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
+# § 367a – Vereinbarung über technische Verfahren bei telemedizinischem Monitoring
+
+(1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen vereinbaren bis zum 31. März 2022 im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit, dem Bundesamt für die Sicherheit in der Informationstechnik und der Gesellschaft für Telematik die Anforderungen an technische Verfahren zum datengestützten zeitnahen Management von Krankheiten über eine räumliche Distanz (telemedizinisches Monitoring). In der Vereinbarung sind insbesondere festzulegen die
+
+1. technischen Anforderungen an die einzusetzenden Anwendungen,
+
+2. Vorgaben für die Interoperabilität der einzusetzenden Anwendungen,
+
+3. Anforderungen an den Datenschutz und die Informationssicherheit sowie
+
+4. Verwendung von Diensten und Anwendungen der Telematikinfrastruktur.
+
+In der Vereinbarung nach Satz 1 ist vorzusehen, dass den Versicherten therapierelevante Daten in einem interoperablen Format nach § 355 Absatz 2d zur Verfügung gestellt werden.
+
+(2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
+
 # § 368 – Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde
 
-(1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen vereinbaren bis zum 31. Dezember 2020 im Benehmen mit der Gesellschaft für Telematik und dem Bundesamt für Sicherheit in der Informationstechnik ein technisches Verfahren zur Authentifizierung der Versicherten im Rahmen der Videosprechstunde in der vertragsärztlichen Versorgung. Soweit dies zur Durchführung der Authentifizierung der Versicherten im Rahmen der Videosprechstunde in der vertragsärztlichen Versorgung erforderlich ist, sind die Krankenkassen verpflichtet, der mit der Durchführung beauftragten Stelle Zugriff auf Dienste nach § 291b Absatz 1 zu ermöglichen.
+(1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen vereinbaren im Benehmen mit der Gesellschaft für Telematik und dem Bundesamt für Sicherheit in der Informationstechnik ein technisches Verfahren zur Authentifizierung der Versicherten im Rahmen der Videosprechstunde in der vertragsärztlichen Versorgung. Zur Durchführung der Authentifizierung ist die Nutzung der Dienste und Anwendungen der Telematikinfrastruktur vorzusehen.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
 # § 369 – Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit
 
-(1) Die Vereinbarung über die technischen Verfahren zur telemedizinischen Erbringung der konsiliarischen Befundbeurteilung nach § 364, die Vereinbarung über technische Verfahren zu Videosprechstunden nach den §§ 365 und 366 sowie die Vereinbarung über technische Verfahren zu telemedizinischen Konsilien nach § 367 und die Vereinbarung zum Authentifizierungsverfahren im Rahmen der Videosprechstunde nach § 368 sind dem Bundesministerium für Gesundheit jeweils zur Prüfung vorzulegen.
+(1) Die Vereinbarung über die technischen Verfahren zur telemedizinischen Erbringung der konsiliarischen Befundbeurteilung nach § 364, die Vereinbarung über technische Verfahren zu Videosprechstunden nach den §§ 365 und 366 sowie die Vereinbarung über technische Verfahren zu telemedizinischen Konsilien nach § 367, die Vereinbarung über technische Verfahren bei telemedizinischem Monitoring nach § 367a und die Vereinbarung zum Authentifizierungsverfahren im Rahmen der Videosprechstunde nach § 368 sind dem Bundesministerium für Gesundheit jeweils zur Prüfung vorzulegen.
 
 (2) Bei der Prüfung einer Vereinbarung nach Absatz 1 hat das Bundesministerium für Gesundheit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik Gelegenheit zur Stellungnahme zu geben. Das Bundesministerium für Gesundheit kann für die Stellungnahme eine angemessene Frist setzen.
 
@@ -10947,6 +11141,16 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (4) Die Entscheidung der Schlichtungsstelle ist für die Vereinbarungspartner nach den §§ 364 bis 368 und für die Leistungserbringer und Krankenkassen sowie für ihre Verbände nach diesem Buch verbindlich. Die Entscheidung der Schlichtungsstelle kann nur durch eine alternative Entscheidung der Vereinbarungspartner nach Absatz 1 in gleicher Sache ersetzt werden.
 
+# § 370a – Unterstützung der Kassenärztlichen Vereinigungen bei der Vermittlung telemedizinischer Angebote durch die Kassenärztliche Bundesvereinigung, Verordnungsermächtigung
+
+(1) Im Rahmen ihrer Aufgaben nach § 75 Absatz 1a Satz 16 errichtet und betreibt die Kassenärztliche Bundesvereinigung ein Portal zur Vermittlung telemedizinischer Leistungen an Versicherte. Das Portal muss mit den von den Kassenärztlichen Vereinigungen nach § 75 Absatz 1a Satz 17 bereitgestellten digitalen Angeboten kompatibel sein. Die Kassenärztlichen Vereinigungen übermitteln der Kassenärztlichen Bundesvereinigung hierzu die nach § 75 Absatz 1a Satz 21 gemeldeten Termine.
+
+(2) Die Kassenärztliche Bundesvereinigung ermöglicht die Nutzung der in dem Portal nach Absatz 1 bereitgestellten Informationen durch Dritte. Hierzu veröffentlicht sie eine Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385. Die Vertragsärzte können der Weitergabe ihrer Daten an Dritte nach Satz 1 widersprechen.
+
+(3) Die Kassenärztliche Bundesvereinigung regelt das Nähere zu der Nutzung der in dem Portal bereitgestellten Informationen durch Dritte in einer Verfahrensordnung. Die Verfahrensordnung bedarf der Genehmigung des Bundesministeriums für Gesundheit.
+
+(4) Die Nutzung der in dem Portal bereitgestellten Informationen durch Dritte ist gebührenpflichtig. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen. In der Rechtsverordnung kann eine Gebührenbefreiung der Nutzung der in dem Portal bereitgestellten Informationen durch gemeinnützige juristische Personen des Privatrechts, insbesondere medizinische Fachgesellschaften, vorgesehen werden. Das Bundesministerium für Gesundheit kann die Ermächtigung nach den Sätzen 2 und 3 durch Rechtsverordnung auf die Kassenärztliche Bundesvereinigung übertragen.
+
 # § 371 – Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
 
 (1) In informationstechnische Systeme in der vertragsärztlichen Versorgung, in der vertragszahnärztlichen Versorgung und in Krankenhäusern, die zur Verarbeitung von personenbezogenen Patientendaten eingesetzt werden, sind folgende offene und standardisierte Schnittstellen zu integrieren:
@@ -10961,7 +11165,7 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (2) Absatz 1 Nummer 1 und 4 gilt entsprechend für informationstechnische Systeme, die zur Verarbeitung von personenbezogenen Daten zur pflegerischen Versorgung von Versicherten nach diesem Buch oder in einer nach § 72 Absatz 1 des Elften Buches zugelassenen Pflegeeinrichtung eingesetzt werden.
 
-(3) Die Integration der Schnittstellen muss spätestens zwei Jahre nachdem die jeweiligen Festlegungen nach den §§ 372 und 373 erstmals in das Interoperabilitätsverzeichnis nach § 384 aufgenommen worden sind, erfolgt sein.
+(3) Die Integration der Schnittstellen muss spätestens zwei Jahre nachdem die jeweiligen Festlegungen nach den §§ 372 und 373 erstmals in das Interoperabilitätsverzeichnis nach § 385 aufgenommen worden sind, erfolgt sein.
 
 (4) Bei einer Fortschreibung der Schnittstellen kann in den Festlegungen nach den §§ 372 und 373 in Verbindung mit der nach § 375 zu erlassenden Rechtsverordnung eine Frist vorgegeben werden, die von der in Absatz 3 genannten Frist abweicht.
 
@@ -10969,11 +11173,11 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (1) Für die in der vertragsärztlichen und vertragszahnärztlichen Versorgung eingesetzten informationstechnischen Systeme treffen die Kassenärztlichen Bundesvereinigungen im Benehmen mit der Gesellschaft für Telematik sowie mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen die erforderlichen Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung. Über die Festlegungen nach Satz 1 entscheidet für die Kassenärztliche Bundesvereinigung der Vorstand. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind die Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73 Absatz 9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 3 sind die Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind im Einvernehmen mit dem Robert Koch-Institut zu treffen.
 
-(2) Die Festlegungen nach Absatz 1 sind in das Interoperabilitätsverzeichnis nach § 384 aufzunehmen.
+(2) Die Festlegungen nach Absatz 1 sind in das Interoperabilitätsverzeichnis nach § 385 aufzunehmen.
 
 (3) Für die abrechnungsbegründende Dokumentation von vertragsärztlichen und vertragszahnärztlichen Leistungen dürfen Vertragsärzte und Vertragszahnärzte ab dem 1. Januar 2021 nur solche informationstechnischen Systeme einsetzen, die von den Kassenärztlichen Bundesvereinigungen in einem Bestätigungsverfahren nach Satz 2 bestätigt wurden. Die Kassenärztlichen Bundesvereinigungen legen im Einvernehmen mit der Gesellschaft für Telematik die Vorgaben für das Bestätigungsverfahren so fest, dass im Rahmen des Bestätigungsverfahrens sichergestellt wird, dass die vorzunehmende Integration der offenen und standardisierten Schnittstellen in das jeweilige informationstechnische System innerhalb der Frist nach § 371 Absatz 3 und nach Maßgabe des § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung erfolgt ist. Die Kassenärztlichen Bundesvereinigungen veröffentlichen die Vorgaben zu dem Bestätigungsverfahren sowie eine Liste mit den nach Satz 1 bestätigten informationstechnischen Systemen.
 
-# § 373 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung
+# § 373 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für die in den Krankenhäusern eingesetzten informationstechnischen Systeme trifft die Gesellschaft für Telematik im Benehmen mit der Deutschen Krankenhausgesellschaft sowie mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen die erforderlichen Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind die Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73 Absatz 9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 3 sind die Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind im Einvernehmen mit dem Robert Koch-Institut zu treffen.
 
@@ -10981,25 +11185,47 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (3) Für die informationstechnischen Systeme nach § 371 Absatz 2 trifft die Gesellschaft für Telematik im Benehmen mit den Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene sowie den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen und in der pflegerischen Versorgung die erforderlichen Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung.
 
-(4) Die Festlegungen nach den Absätzen 1 bis 3 sind in das Interoperabilitätsverzeichnis nach § 384 aufzunehmen.
+(4) Die Festlegungen nach den Absätzen 1 bis 3 sind in das Interoperabilitätsverzeichnis nach § 385 aufzunehmen.
 
 (5) Der Einsatz von informationstechnischen Systemen nach den Absätzen 1 bis 3, die von der Gesellschaft für Telematik in einem Bestätigungsverfahren nach Satz 2 bestätigt wurden, ist wie folgt verpflichtend:
 
 1. für Krankenhäuser ab dem 30. Juni 2021;
 
-2. für die in § 312 Absatz 2 genannten Leistungserbringer sowie die zugelassenen Pflegeeinrichtungen im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches zwei Jahre nachdem die jeweiligen Festlegungen nach den §§ 372 und 373 erstmals in das Interoperabilitätsverzeichnis nach § 384 aufgenommen worden sind.
+2. für die in § 312 Absatz 2 genannten Leistungserbringer sowie die zugelassenen Pflegeeinrichtungen im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches zwei Jahre nachdem die jeweiligen Festlegungen nach den §§ 372 und 373 erstmals in das Interoperabilitätsverzeichnis nach § 385 aufgenommen worden sind.
 
 Die Gesellschaft für Telematik legt die Vorgaben für das Bestätigungsverfahren so fest, dass im Rahmen des Bestätigungsverfahrens sichergestellt wird, dass die vorzunehmende Integration der offenen und standardisierten Schnittstellen in das jeweilige informationstechnische System innerhalb der Frist nach § 371 Absatz 3 und nach Maßgabe des § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung erfolgt ist; sie veröffentlicht bis zum 30. April 2021 Einzelheiten zum Bestätigungsverfahren. Die Gesellschaft für Telematik veröffentlicht eine Liste mit den nach Satz 1 bestätigten informationstechnischen Systemen.
 
 (6) Abweichend von Absatz 5 ist in der vertragsärztlichen Versorgung in Krankenhäusern eine Bestätigung für eine offene und standardisierte Schnittstelle nach § 371 Absatz 1 Nummer 2 entbehrlich, wenn hierfür ein Nachweis einer Bestätigung nach § 372 Absatz 3 vorliegt.
 
+(7) Die Gesellschaft für Telematik kann für die Bestätigungen nach Absatz 5 Gebühren und Auslagen erheben. Die Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand nicht übersteigen.
+
+(8) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen.
+
 # § 374 – Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
 
 Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche Bundesvereinigung, die Deutsche Krankenhausgesellschaft, die Gesellschaft für Telematik und die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene stimmen sich bei den Festlegungen für offene und standardisierte Schnittstellen nach den §§ 371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten der Schnittstellen sektorenübergreifende einheitliche Vorgaben zu treffen. Betreffen die Festlegungen nach Satz 1 pflegerelevante Inhalte, so sind die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene mit einzubeziehen.
 
+# § 374a – Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten
+
+(1) Hilfsmittel oder Implantate, die zu Lasten der gesetzlichen Krankenversicherung an Versicherte abgegeben werden und die Daten über den Versicherten elektronisch über öffentlich zugängliche Netze an den Hersteller oder Dritte übertragen, müssen ab dem 1. Juli 2024 ermöglichen, dass die von dem Hilfsmittel oder dem Implantat verarbeiteten Daten auf der Grundlage einer Einwilligung des Versicherten in geeigneten interoperablen Formaten in eine in das Verzeichnis nach § 139e Absatz 1 aufgenommene digitale Gesundheitsanwendung übermittelt und dort weiterverarbeitet werden können, soweit die Daten von der digitalen Gesundheitsanwendung zum bestimmungsgemäßen Gebrauch durch denselben Versicherten benötigt werden. Hierzu müssen die Hersteller der Hilfsmittel und Implantate nach Satz 1 interoperable Schnittstellen anbieten und diese für die digitalen Gesundheitsanwendungen, die in das Verzeichnis nach § 139e aufgenommen sind, öffnen. Die Beeinflussung des Hilfsmittels oder des Implantats durch die digitale Gesundheitsanwendung ist unzulässig und technisch auszuschließen. Als interoperable Formate gemäß Satz 1 gelten in nachfolgender Reihenfolge:
+
+1. Festlegungen für Inhalte der elektronischen Patientenakte nach § 355,
+
+2. empfohlene Standards und Profile im Interoperabilitätsverzeichnis nach § 385,
+
+3. offene international anerkannte Standards oder
+
+4. offengelegte Profile über offene international anerkannte Standards, deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 beantragt wurde.
+
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte errichtet und veröffentlicht ein elektronisches Verzeichnis für interoperable Schnittstellen von Hilfsmitteln und Implantaten. Die Hersteller der Hilfsmittel und Implantate melden die von den jeweiligen Geräten verwendeten interoperablen Schnittstellen nach Absatz 1 zur Veröffentlichung in dem Verzeichnis nach Satz 1 an das Bundesinstitut für Arzneimittel und Medizinprodukte.
+
+(3) Abweichend von Absatz 1 kann über den 1. Juli 2024 hinaus eine Versorgung mit Hilfsmitteln oder Implantaten erfolgen, welche die Anforderungen nach Absatz 1 nicht erfüllen, wenn dies aus medizinischen Gründen erforderlich ist oder die regelmäßige Versorgung der Versicherten mit Hilfsmitteln oder Implantaten andernfalls nicht gewährleistet wäre.
+
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte trifft im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die erforderlichen technischen Festlegungen, insbesondere zur sicheren gegenseitigen Identifizierung der Produkte bei der Datenübertragung.
+
 # § 375 – Verordnungsermächtigung
 
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der Interoperabilität zwischen informationstechnischen Systemen nähere Vorgaben für die Festlegung der offenen und standardisierten Schnittstellen für informationstechnische Systeme nach den §§ 371 bis 373 sowie verbindliche Fristen für deren Integration und Fortschreibung festzulegen; insbesondere soll es vorgeben, welche Standards, Profile und Leitfäden, die im Interoperabilitätsverzeichnis nach § 384 verzeichnet sind, bei der Festlegung der offenen und standardisierten Schnittstellen nach den §§ 371 bis 373 berücksichtigt werden müssen.
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der Interoperabilität zwischen informationstechnischen Systemen nähere Vorgaben für die Festlegung der offenen und standardisierten Schnittstellen für informationstechnische Systeme nach den §§ 371 bis 373 sowie von der in § 371 Absatz 3 genannten Frist abweichende verbindliche Fristen für deren Integration und Fortschreibung festzulegen; insbesondere soll es vorgeben, welche Standards, Profile und Leitfäden, die im Interoperabilitätsverzeichnis nach § 385 verzeichnet sind, bei der Festlegung der offenen und standardisierten Schnittstellen nach den §§ 371 bis 373 berücksichtigt werden müssen. In der Rechtsverordnung nach Satz 1 können auch Festlegungen zu offenen und standardisierten Schnittstellen für informationstechnische Systeme nach den §§ 371 bis 373 getroffen werden, die zur Meldung und Vermittlung von Videosprechstunden genutzt werden.
 
 (2) Das Bundesministerium für Gesundheit kann in der Rechtsverordnung nach § 73 Absatz 9 Satz 2 für die Integration von Schnittstellen nach § 371 Absatz 1 Nummer 2 eine Frist festlegen, die von der in § 371 Absatz 3 genannten Frist abweicht.
 
@@ -11029,7 +11255,7 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (4) Kommt eine Vereinbarung nach Absatz 3 innerhalb einer vom Bundesministerium für Gesundheit gesetzten Frist nicht oder nicht vollständig zustande, legt die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes auf Antrag einer Vertragspartei oder des Bundesministeriums für Gesundheit innerhalb einer Frist von zwei Monaten den Vereinbarungsinhalt fest. Die Klage gegen die Festlegung der Schiedsstelle hat keine aufschiebende Wirkung.
 
-(5) Die Absätze 1 bis 4 gelten auch für Krankenhäuser, wenn sie Leistungen nach §115b Absatz 2 Satz 1, § 116b Absatz 2 Satz 1 und § 120 Absatz 2 Satz 1 erbringen sowie für Notfallambulanzen in Krankenhäusern, wenn sie Leistungen für die Versorgung im Notfall erbringen.
+(5) Die Absätze 1 bis 4 gelten auch für Leistungserbringer, wenn sie Leistungen nach §115b Absatz 2 Satz 1, § 116b Absatz 2 Satz 1 und § 120 Absatz 2 Satz 1 erbringen sowie für Notfallambulanzen in Krankenhäusern, wenn sie Leistungen für die Versorgung im Notfall erbringen.
 
 # § 378 – Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
 
@@ -11057,15 +11283,39 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (4) Kommt eine Vereinbarung nach Absatz 2 nicht oder nicht vollständig innerhalb der Frist nach Absatz 2 Satz 1 zustande, legt die Schiedsstelle nach § 129 Absatz 8 auf Antrag einer Vertragspartei oder des Bundesministeriums für Gesundheit innerhalb einer Frist von zwei Monaten den Vereinbarungsinhalt fest. Die Klage gegen die Festlegung der Schiedsstelle hat keine aufschiebende Wirkung.
 
-# § 380 – Finanzierung der den Hebammen und Physiotherapeuten entstehenden Ausstattungs- und Betriebskosten
+# § 380 – Finanzierung der den Hebammen, Physiotherapeuten und anderen Heilmittelerbringern, Hilfsmittelerbringern, zahntechnischen Laboren, Erbringern von Soziotherapie nach § 37a sowie weiteren Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
 
-(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten Hebammen, für die gemäß § 134a Absatz 2 Satz 1 die Verträge nach § 134a Absatz 1 Rechtswirkung haben, sowie Physiotherapeuten, die nach § 124 Absatz 1 zur Abgabe von Leistungen berechtigt sind, ab dem 1. Juli 2021 die in der Vereinbarung nach § 378 Absatz 2 in der jeweils geltenden Fassung für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen.
+(1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten Hebammen, für die gemäß § 134a Absatz 2 Satz 1 die Verträge nach § 134a Absatz 1 Rechtswirkung haben, sowie Physiotherapeuten, die nach § 124 Absatz 1 zur Abgabe von Leistungen berechtigt sind, ab dem 1. Juli 2021 und von Hebammen geleitete Einrichtungen, für die die Verträge nach § 134a Absatz 1 Rechtswirkung haben, ab dem 1. Oktober 2021 die in der jeweils geltenden Fassung der Vereinbarung nach § 378 Absatz 2 für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen.
 
-(2) Das Nähere zur Abrechnung der Erstattungen vereinbaren bis zum 31. März 2021
+(2) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten folgende Leistungserbringer die in der jeweils geltenden Fassung der Vereinbarung nach § 378 Absatz 2 für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen:
+
+1. ab dem 1. Juli 2024 die übrigen Heilmittelerbringer, die nach § 124 Absatz 1 zur Abgabe von Leistungen berechtigt sind, die Hilfsmittelerbringer, die im Besitz eines Zertifikates nach § 126 Absatz 1a Satz 2 sind, sowie die Leistungserbringer, die zur Abgabe der weiteren in § 360 Absatz 7 Satz 1 genannten Leistungen berechtigt sind,
+
+2. ab dem 1. Juli 2024 zahntechnische Labore,
+
+3. ab dem 1. Juli 2024 Erbringer soziotherapeutischer Leistungen nach § 37a und
+
+4. ab dem 1. Juli 2023 Leistungserbringer, die Leistungen nach den §§ 24g, 37, 37b, 37c, 39a Absatz 1 und § 39c erbringen, sofern sie nicht zugleich Leistungserbringer nach dem Elften Buch sind.
+
+(3) Das Nähere zur Abrechnung der Erstattungen nach Absatz 1 vereinbaren bis zum 31. März 2021
 
 1. für die Hebammen die Vertragspartner nach § 134a Absatz 1 Satz 1 und
 
 2. für die Physiotherapeuten der Spitzenverband Bund der Krankenkassen mit den für die Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Spitzenorganisationen der Physiotherapeuten auf Bundesebene.
+
+Das Nähere zur Abrechnung der Erstattung vereinbaren für die von Hebammen geleiteten Einrichtungen die Vereinbarungspartner nach § 134a Absatz 1 Satz 1 bis zum 1. Oktober 2021.
+
+(4) Das Nähere zur Abrechnung der Erstattungen nach Absatz 2 vereinbaren
+
+1. bis zum 1. Januar 2024 für die Heilmittelerbringer nach Absatz 2 Nummer 1 der Spitzenverband Bund der Krankenkassen mit den für die Wahrnehmung der Interessen der Heilmittelerbringer maßgeblichen Spitzenorganisationen auf Bundesebene,
+
+2. bis zum 1. Januar 2024 für die Leistungserbringer nach Absatz 2 Nummer 1, die Hilfsmittel oder die weiteren in § 360 Absatz 7 Satz 1 genannten Mittel abgeben, die Verbände der Krankenkassen und die für die Wahrnehmung der Interessen dieser Leistungserbringer maßgeblichen Spitzenorganisationen auf Bundesebene,
+
+3. bis zum 1. Januar 2024 für die zahntechnischen Labore nach Absatz 2 Nummer 2 der Spitzenverband Bund der Krankenkassen und der Verband Deutscher Zahntechniker-Innungen,
+
+4. bis zum 1. Januar 2024 für die in Absatz 2 Nummer 3 genannten Leistungserbringer die Krankenkassen oder die Landesverbände der Krankenkassen mit den soziotherapeutischen Leistungserbringern nach § 132b und
+
+5. bis zum 1. Januar 2023 für die in Absatz 2 Nummer 4 genannten Leistungserbringer der Spitzenverband Bund der Krankenkassen und die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene.
 
 # § 381 – Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten
 
@@ -11075,11 +11325,11 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 2. die Rehabilitationseinrichtungen der gesetzlichen Rentenversicherung, die Leistungen nach den §§ 15, 15a oder § 31 Absatz 1 Nummer 2 des Sechsten Buches erbringen, ab dem 1. Januar 2021 einen Ausgleich von den Trägern der gesetzlichen Rentenversicherung.
 
-(2) Das Nähere zum Ausgleich der Kosten nach Absatz 1 vereinbaren der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die für die Wahrnehmung der Interessen der Vorsorgeeinrichtungen und Rehabilitationseinrichtungen nach diesem Buch maßgeblichen Bundesverbände und die für die Wahrnehmung der Interessen der Rehabilitationseinrichtungen maßgeblichen Vereinigungen der gesetzlichen Rentenversicherung bis zum 1. Oktober 2020. Dabei gilt für die Rehabilitationseinrichtungen der gesetzlichen Rentenversicherung das Verfahren zur Verhandlung und Anpassung von Vergütungssätzen.
+(2) Das Nähere zum Ausgleich der Kosten nach Absatz 1 vereinbaren der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die für die Wahrnehmung der Interessen der Vorsorgeeinrichtungen und Rehabilitationseinrichtungen nach diesem Buch maßgeblichen Bundesverbände und die für die Wahrnehmung der Interessen der Rehabilitationseinrichtungen maßgeblichen Vereinigungen der gesetzlichen Rentenversicherung bis zum 1. Oktober 2020. Dabei gilt sowohl für die Rehabilitationseinrichtungen der gesetzlichen Rentenversicherung als auch für die von den Krankenkassen zu finanzierenden Einrichtungen das Verfahren zur Verhandlung und Anpassung von Vergütungssätzen.
 
 (3) Über die Aufteilung der Kosten zwischen den Krankenkassen und den Trägern der gesetzlichen Rentenversicherung treffen der Spitzenverband Bund der Krankenkassen und die Deutsche Rentenversicherung Bund eine gesonderte Vereinbarung bis zum 1. Januar 2021.
 
-(4) Zur Finanzierung der den Krankenkassen nach Absatz 1 Nummer 1 in Verbindung mit Absatz 3 entstehenden Kosten erhebt der Spitzenverband Bund der Krankenkassen von den Krankenkassen eine Umlage gemäß dem Anteil ihrer Versicherten an der Gesamtzahl der in der gesetzlichen Krankenversicherung Versicherten. Das Nähere zum Umlageverfahren bestimmt der Spitzenverband Bund der Krankenkassen.
+(4) Die Absätze 1 bis 3 gelten für die Landwirtschaftliche Alterskasse, die Leistungen nach § 10 Absatz 1 des Gesetzes über die Alterssicherung der Landwirte erbringt, entsprechend mit der Maßgabe, dass die Landwirtschaftliche Alterskasse den Vereinbarungen nach den Absätzen 2 und 3 nach vorheriger Verständigung mit dem Spitzenverband Bund der Krankenkassen und der Deutschen Rentenversicherung Bund beitreten kann. Die Einrichtungen nach Absatz 1 erhalten den Ausgleich nach Absatz 1 von der Landwirtschaftlichen Alterskasse ab dem Zeitpunkt ihres Beitritts zu den Vereinbarungen nach den Absätzen 2 und 3.
 
 # § 382 – Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten
 
@@ -11121,19 +11371,37 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (6) Die Absätze 1 bis 5 gelten nicht für die Vertragszahnärzte.
 
-# § 384 – Interoperabilitätsverzeichnis
+# § 384 – Begriffsbestimmungen
+
+Im Sinne dieses Buches bezeichnet der Ausdruck
+
+1. Interoperabilität die Fähigkeit zweier oder mehrerer informationstechnischer Anwendungen,
+
+a) Informationen auszutauschen und diese für die korrekte Ausführung einer konkreten Funktion ohne Änderung des Inhalts der Daten zu nutzen,
+
+b) miteinander zu kommunizieren,
+
+c) bestimmungsgemäß zusammenzuarbeiten;
+
+2. Standard diejenigen Dokumente, die dem aktuellen Stand der Technik mit Anforderungs- und Lösungsdefinitionen entsprechen, wobei der Entstehungsprozess des Dokuments bekannt und dokumentiert ist, inklusive der Prozesse der Veröffentlichung, Nutzung und Versionierung;
+
+3. Profil diejenigen Dokumente, die aus einem oder mehreren Standards bestehen, die für eine spezifische Anwendung zusammengestellt sind; Profile enthalten den aktuellen Stand der Technik mit Anforderungs- und Lösungsdefinitionen;
+
+4. Leitfaden diejenigen Dokumente, die mindestens eine Anforderung an die Informationsübertragung enthalten; sie erläutern oder dokumentieren die Nutzung einer oder mehrerer Standards oder Profile.
+
+# § 385 – Interoperabilitätsverzeichnis
 
 (1) Die Gesellschaft für Telematik hat ein elektronisches Interoperabilitätsverzeichnis zu pflegen und zu betreiben, in dem technische und semantische Standards, Profile und Leitfäden für informationstechnische Systeme im Gesundheitswesen aufgeführt werden. Das elektronische Interoperabilitätsverzeichnis umfasst auch technische und semantische Standards, Profile und Leitfäden der Pflege.
 
 (2) Das Interoperabilitätsverzeichnis dient der Förderung der Interoperabilität zwischen informationstechnischen Systemen.
 
-(3) Als Bestandteil des Interoperabilitätsverzeichnisses hat die Gesellschaft für Telematik ein Informationsportal nach § 391 aufzubauen.
+(3) Als Bestandteil des Interoperabilitätsverzeichnisses hat die Gesellschaft für Telematik ein Informationsportal nach § 392 aufzubauen.
 
 (4) Das Interoperabilitätsverzeichnis ist für die Nutzung öffentlich zur Verfügung zu stellen.
 
 (5) Die Gesellschaft für Telematik hat die Fachöffentlichkeit über den Stand der Pflege und der Weiterentwicklung des Interoperabilitätsverzeichnisses auf der Internetseite des Interoperabilitätsverzeichnisses zu informieren.
 
-# § 385 – Beratung durch Experten
+# § 386 – Beratung durch Experten
 
 (1) Die Gesellschaft für Telematik benennt Experten, die über Fachwissen im Bereich der Gesundheitsversorgung und im Bereich der Informationstechnik und Standardisierung im Gesundheitswesen verfügen. Die Experten können der Gesellschaft für Telematik für die Pflege und die Weiterentwicklung des Interoperabilitätsverzeichnisses Empfehlungen geben. Die Gesellschaft für Telematik hat die Empfehlungen in ihre Entscheidungen einzubeziehen.
 
@@ -11155,15 +11423,15 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (3) Die Gesellschaft für Telematik erstattet den Experten die ihnen durch die Mitarbeit entstehenden Kosten.
 
-# § 386 – Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik
+# § 387 – Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik
 
 (1) Technische und semantische Standards, Profile und Leitfäden, die die Gesellschaft für Telematik nach den §§ 291, 291a, 312 und 334 Absatz 1 Satz 2 festgelegt hat (Interoperabilitätsfestlegungen), sind frühestmöglich in das Interoperabilitätsverzeichnis aufzunehmen, jedoch spätestens dann, wenn sie für den flächendeckenden Wirkbetrieb der Telematikinfrastruktur freigegeben sind.
 
-(2) Bevor die Gesellschaft für Telematik eine Festlegung nach Absatz 1 trifft, hat sie den Experten nach § 385 Gelegenheit zur Stellungnahme zu geben. In ihren Stellungnahmen können die Experten weitere Empfehlungen zur Umsetzung und Nutzung der in das Interoperabilitätsverzeichnis aufzunehmenden Inhalte sowie zu anwendungsspezifischen Konkretisierungen und Ergänzungen abgeben. Die Gesellschaft für Telematik hat die Stellungnahmen in ihre Entscheidung einzubeziehen.
+(2) Bevor die Gesellschaft für Telematik eine Festlegung nach Absatz 1 trifft, hat sie den Experten nach § 386 Gelegenheit zur Stellungnahme zu geben. In ihren Stellungnahmen können die Experten weitere Empfehlungen zur Umsetzung und Nutzung der in das Interoperabilitätsverzeichnis aufzunehmenden Inhalte sowie zu anwendungsspezifischen Konkretisierungen und Ergänzungen abgeben. Die Gesellschaft für Telematik hat die Stellungnahmen in ihre Entscheidung einzubeziehen.
 
-(3) Die Stellungnahmen der Experten nach § 385 sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
+(3) Die Stellungnahmen der Experten nach § 386 sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-# § 387 – Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen
+# § 388 – Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen
 
 (1) Technische und semantische Standards, Profile und Leitfäden für informationstechnische Systeme, die im Gesundheitswesen angewendet werden und die nicht von der Gesellschaft für Telematik festgelegt werden, nimmt die Gesellschaft für Telematik auf Antrag in das Interoperabilitätsverzeichnis auf.
 
@@ -11185,41 +11453,41 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (4) Anbieter einer elektronischen Anwendung im Gesundheitswesen nach § 306 Absatz 1 Satz 2 Nummer 2 oder einer elektronischen Anwendung, die aus Mitteln der gesetzlichen Krankenversicherung ganz oder teilweise finanziert wird, sind verpflichtet, einen Antrag nach Absatz 1 zu stellen.
 
-(5) Vor Aufnahme in das Interoperabilitätsverzeichnis bewertet die Gesellschaft für Telematik, inwieweit die technischen und semantischen Standards, Profile und Leitfäden nach Absatz 1 den Interoperabilitätsfestlegungen nach § 386 Absatz 1 entsprechen.
+(5) Vor Aufnahme in das Interoperabilitätsverzeichnis bewertet die Gesellschaft für Telematik, inwieweit die technischen und semantischen Standards, Profile und Leitfäden nach Absatz 1 den Interoperabilitätsfestlegungen nach § 387 Absatz 1 entsprechen.
 
-(6) Nach der Bewertung nach Absatz 5 gibt die Gesellschaft für Telematik den Experten nach § 385 Gelegenheit zur Stellungnahme. In ihren Stellungnahmen können die Experten weitere Empfehlungen zur Umsetzung und Nutzung der in das Interoperabilitätsverzeichnis aufgenommenen Inhalte sowie zu anwendungsspezifischen Konkretisierungen und Ergänzungen abgeben. Die Gesellschaft für Telematik hat die Stellungnahmen der Experten nach § 385 in ihre Entscheidung einzubeziehen.
+(6) Nach der Bewertung nach Absatz 5 gibt die Gesellschaft für Telematik den Experten nach § 386 Gelegenheit zur Stellungnahme. In ihren Stellungnahmen können die Experten weitere Empfehlungen zur Umsetzung und Nutzung der in das Interoperabilitätsverzeichnis aufgenommenen Inhalte sowie zu anwendungsspezifischen Konkretisierungen und Ergänzungen abgeben. Die Gesellschaft für Telematik hat die Stellungnahmen der Experten nach § 386 in ihre Entscheidung einzubeziehen.
 
-(7) Die Stellungnahmen der Experten nach § 385 sowie das Ergebnis der Prüfung der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
+(7) Die Stellungnahmen der Experten nach § 386 sowie das Ergebnis der Prüfung der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-# § 388 – Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz
+# § 389 – Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz
 
-(1) Die Gesellschaft für Telematik kann die Zusammenarbeit der Standardisierungs- und Normungsorganisationen unterstützen und in das Interoperabilitätsverzeichnis aufgenommene technische und semantische Standards, Profile und Leitfäden nach § 387 Absatz 1 als Referenz für informationstechnische Systeme im Gesundheitswesen empfehlen.
+(1) Die Gesellschaft für Telematik kann die Zusammenarbeit der Standardisierungs- und Normungsorganisationen unterstützen und in das Interoperabilitätsverzeichnis aufgenommene technische und semantische Standards, Profile und Leitfäden nach § 388 Absatz 1 als Referenz für informationstechnische Systeme im Gesundheitswesen empfehlen.
 
-(2) Vor ihrer Empfehlung hat die Gesellschaft für Telematik den Experten nach § 385 sowie bei Empfehlungen zur Datensicherheit und zum Datenschutz auch dem Bundesamt für Sicherheit in der Informationstechnik sowie der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit Gelegenheit zur Stellungnahme zu geben. Die Gesellschaft für Telematik hat die Stellungnahmen und Vorschläge in ihre Entscheidung einzubeziehen.
+(2) Vor ihrer Empfehlung hat die Gesellschaft für Telematik den Experten nach § 386 sowie bei Empfehlungen zur Datensicherheit und zum Datenschutz auch dem Bundesamt für Sicherheit in der Informationstechnik sowie der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit Gelegenheit zur Stellungnahme zu geben. Die Gesellschaft für Telematik hat die Stellungnahmen und Vorschläge in ihre Entscheidung einzubeziehen.
 
-(3) Die Stellungnahmen und Vorschläge der Experten nach § 385 sowie die Empfehlungen der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
+(3) Die Stellungnahmen und Vorschläge der Experten nach § 386 sowie die Empfehlungen der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-# § 389 – Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
+# § 390 – Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
 
-Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlichen Krankenversicherung nur ganz oder teilweise finanziert werden, wenn die Anbieter der elektronischen Anwendungen die Festlegungen nach § 386 Absatz 1 sowie die Empfehlungen nach § 388 Absatz 1 beachten.
+Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlichen Krankenversicherung nur ganz oder teilweise finanziert werden, wenn die Anbieter der elektronischen Anwendungen die Empfehlungen und verbindlichen Festlegungen nach § 394a Absatz 1 Satz 2 Nummer 2 und Satz 3 beachten.
 
-# § 390 – Beteiligung der Fachöffentlichkeit
+# § 391 – Beteiligung der Fachöffentlichkeit
 
 (1) Die Gesellschaft für Telematik hat die Fachöffentlichkeit mittels elektronischer Informationstechnologien zu beteiligen bei
 
-1. Festlegungen nach § 386 Absatz 1,
+1. Festlegungen nach § 387 Absatz 1,
 
-2. Bewertungen nach § 387 Absatz 5 und
+2. Bewertungen nach § 388 Absatz 5 und
 
-3. Empfehlungen nach § 388 Absatz 1.
+3. Empfehlungen nach § 389 Absatz 1.
 
-(2) Zur Beteiligung der Fachöffentlichkeit hat die Gesellschaft für Telematik die Entwürfe der Festlegungen nach § 386 Absatz 1, die Entwürfe der Bewertungen nach § 387 Absatz 5 und die Entwürfe der Empfehlungen nach § 388 Absatz 1 auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen. Die Entwürfe sind mit dem Hinweis zu veröffentlichen, dass Stellungnahmen während der Veröffentlichung abgegeben werden können.
+(2) Zur Beteiligung der Fachöffentlichkeit hat die Gesellschaft für Telematik die Entwürfe der Festlegungen nach § 387 Absatz 1, die Entwürfe der Bewertungen nach § 388 Absatz 5 und die Entwürfe der Empfehlungen nach § 389 Absatz 1 auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen. Die Entwürfe sind mit dem Hinweis zu veröffentlichen, dass Stellungnahmen während der Veröffentlichung abgegeben werden können.
 
 (3) Die eingegangenen Stellungnahmen hat die Gesellschaft für Telematik auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
 (4) Die Gesellschaft für Telematik stellt sicher, dass die Stellungnahmen bei der weiteren Prüfung der Entwürfe angemessen berücksichtigt werden. Dabei berücksichtigt die Gesellschaft für Telematik insbesondere diejenigen Anforderungen an elektronische Informationstechnologien, die die Interoperabilität sowie einen standardkonformen nationalen und internationalen Austausch von Daten und Informationen betreffen.
 
-# § 391 – Informationsportal
+# § 392 – Informationsportal
 
 (1) Als Bestandteil des Interoperabilitätsverzeichnisses hat die Gesellschaft für Telematik ein barrierefreies Informationsportal zu pflegen und zu betreiben. In das Informationsportal werden auf Antrag von Projektträgern oder von Anbietern elektronischer Anwendungen insbesondere Informationen über den Inhalt, den Verwendungszweck und die Finanzierung von elektronischen Anwendungen im Gesundheitswesen, insbesondere von telemedizinischen Anwendungen, sowie von elektronischen Anwendungen in der Pflege aufgenommen.
 
@@ -11227,19 +11495,19 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (3) Das Nähere zu den Inhalten des Informationsportals und zu den Mindestinhalten des Antrags nach Absatz 2 legt die Gesellschaft für Telematik in der Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis fest.
 
-# § 392 – Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis
+# § 393 – Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis
 
 Die Gesellschaft für Telematik erstellt für das Interoperabilitätsverzeichnis eine Geschäfts- und Verfahrensordnung. Die Geschäfts- und Verfahrensordnung regelt das Nähere
 
 1. zur Pflege und zum Betrieb sowie zur Nutzung des Interoperabilitätsverzeichnisses,
 
-2. zur Benennung der Experten und zu deren Kostenerstattung nach § 385,
+2. zur Benennung der Experten und zu deren Kostenerstattung nach § 386,
 
-3. zum Verfahren der Aufnahme von Informationen nach den §§ 386 bis 388 in das Interoperabilitätsverzeichnis und
+3. zum Verfahren der Aufnahme von Informationen nach den §§ 387 bis 389 in das Interoperabilitätsverzeichnis und
 
-4. zum Verfahren der Aufnahme von Informationen in das Informationsportal nach § 391.
+4. zum Verfahren der Aufnahme von Informationen in das Informationsportal nach § 392.
 
-# § 393 – Bericht über das Interoperabilitätsverzeichnis
+# § 394 – Bericht über das Interoperabilitätsverzeichnis
 
 (1) Die Gesellschaft für Telematik legt dem Bundesministerium für Gesundheit alle zwei Jahre, erstmals zum 2. Januar 2018, einen Bericht vor. Der Bericht enthält
 
@@ -11257,7 +11525,69 @@ Die Gesellschaft für Telematik erstellt für das Interoperabilitätsverzeichnis
 
 (3) Das Bundesministerium für Gesundheit leitet den Bericht an den Deutschen Bundestag weiter.
 
-# § 394 – Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 394a – Verordnungsermächtigung
+
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der Interoperabilität und von offenen Standards und Schnittstellen, die Einrichtung und Organisation einer bei der Gesellschaft für Telematik unterhaltenen Koordinierungsstelle für Interoperabilität im Gesundheitswesen sowie eines von der Koordinierungsstelle eingesetzten Expertengremiums und deren jeweils notwendige Arbeitsstrukturen zu regeln. Die Koordinierungsstelle und das Expertengremium haben die Aufgabe, für informationstechnische Systeme, die im Gesundheitswesen eingesetzt werden,
+
+1. einen Bedarf an technischen, semantischen und syntaktischen Standards, Profilen und Leitfäden zu identifizieren, zu priorisieren und diese gegebenenfalls selbst zu entwickeln,
+
+2. technische, semantische und syntaktische Standards, Profile und Leitfäden für bestimmte Bereiche oder das gesamte Gesundheitswesen zu empfehlen und
+
+3. technische, semantische und syntaktische Standards, Profile und Leitfäden auf einer Plattform, die aus dem elektronischen Interoperabilitätsverzeichnis nach § 385 weiterzuentwickeln und zu betreiben ist, zu veröffentlichen.
+
+Das Bundesministerium für Gesundheit kann in der Anlage zu der Rechtsverordnung nach Satz 1 Empfehlungen nach Satz 2 Nummer 2 für bestimmte Bereiche oder das gesamte Gesundheitswesen verbindlich festlegen.
+
+(2) In der Rechtsverordnung nach Absatz 1 Satz 1 ist das Nähere zu regeln zu
+
+1. der Zusammensetzung der Gremien nach Absatz 1 Satz 1,
+
+2. dem Verfahrensablauf zur Benennung von Experten sowie den fachlichen Anforderungen an die zu benennenden Experten,
+
+3. den Abstimmungsmodalitäten, einschließlich der Beschlussfähigkeit,
+
+4. der Einrichtung von Arbeitskreisen aus dem Kreis der Mitglieder des Expertengremiums,
+
+5. der Aufwandsentschädigung für die Experten,
+
+6. den Einzelheiten der Aufgabenwahrnehmung nach Absatz 1 Satz 2 sowie den hierbei anzuwendenden Verfahren,
+
+7. den Zuständigkeiten der Koordinierungsstelle und des Expertengremiums sowie der Pflicht der Koordinierungsstelle, dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit Gelegenheit zur Stellungnahme zu geben,
+
+8. den Fristen für einzelne Aufgaben nach Absatz 1 Satz 2,
+
+9. dem Inhalt, Betrieb und der Pflege der Plattform nach Absatz 1 Satz 2 Nummer 3 und
+
+10. den Berichtspflichten der Koordinierungsstelle und des Expertengremiums gegenüber dem Bundesministerium für Gesundheit sowie den Berichtsinhalten.
+
+# § 395 – Nationales Gesundheitsportal
+
+(1) Das Bundesministerium für Gesundheit errichtet und betreibt ein elektronisches, über allgemein zugängliche Netze sowie über die Telematikinfrastruktur nach § 306 aufrufbares Informationsportal, das gesundheits- und pflegebezogene Informationen barrierefrei in allgemein verständlicher Sprache zur Verfügung stellt (Nationales Gesundheitsportal).
+
+(2) Die Kassenärztlichen Bundesvereinigungen haben die Aufgabe, auf Suchanfragen der Nutzer nach bestimmten vertragsärztlichen Leistungserbringern über das Nationale Gesundheitsportal die in Satz 3 Nummer 1 bis 6 genannten, für die Suchanfrage relevanten arztbezogenen Informationen an das Nationale Gesundheitsportal zu übermitteln. Die Suchergebnisse werden im Nationalen Gesundheitsportal dargestellt. Die Kassenärztlichen Vereinigungen übermitteln ihrer jeweiligen Bundesvereinigung zu diesem Zweck regelmäßig aus den rechtmäßig von ihnen erhobenen Daten folgende Angaben:
+
+1. den Vor- und Zunamen des Arztes und dessen akademischen Grad,
+
+2. die Adresse, Telefonnummer und E-Mail-Adresse der Praxis oder der an der Versorgung teilnehmenden Einrichtung, in der der Arzt tätig ist,
+
+3. die Fachgebiets-, Schwerpunkt- und Zusatzbezeichnungen,
+
+4. die Sprechstundenzeiten,
+
+5. die Zugangsmöglichkeit von Menschen mit Behinderung (Barrierefreiheit) zu der vertragsärztlichen Praxis oder der an der vertragsärztlichen Versorgung teilnehmenden Einrichtung, in der der Arzt tätig ist, sowie
+
+6. das Vorliegen von Abrechnungsgenehmigungen für besonders qualitätsgesicherte Leistungsbereiche in der vertragsärztlichen Versorgung.
+
+(3) Die Übermittlungspflicht nach Absatz 2 Satz 3 gilt auch für ermächtigte Einrichtungen, jedoch mit der Maßgabe, dass die Angaben nach Absatz 2 Satz 3 Nummer 2 bis 5 ohne Arztbezug einrichtungsbezogen übermittelt werden.
+
+(4) Das Bundesministerium für Gesundheit legt in Abstimmung mit den Kassenärztlichen Bundesvereinigungen bis zum 31. Dezember 2021 das Nähere fest
+
+1. zur Struktur und zum Format der Daten sowie
+
+2. zum technischen Übermittlungsverfahren.
+
+(5) Soweit sich die Vorschriften dieses Kapitels auf Ärzte und Kassenärztliche Vereinigungen beziehen, gelten sie entsprechend für Psychotherapeuten, Zahnärzte und Kassenzahnärztliche Vereinigungen, sofern nichts Abweichendes bestimmt ist.
+
+# § 396 – Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Krankenkassen insbesondere mit der Bundesagentur für Arbeit, den Behörden der Zollverwaltung, den Rentenversicherungsträgern, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden, den Finanzbehörden, den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Schwarzarbeitsbekämpfungsgesetz zuständigen Behörden, den Trägern der Unfallversicherung und den für den Arbeitsschutz zuständigen Landesbehörden zusammen, wenn sich im Einzelfall konkrete Anhaltspunkte ergeben für
 
@@ -11277,9 +11607,15 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Krankenkassen i
 
 Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen enthalten, die für die Einziehung der Beiträge zur Kranken- und Rentenversicherung erforderlich sind. Die Übermittlung von Sozialdaten, die nach den §§ 284 bis 302 sowie nach dem Elften Kapitel von Versicherten erhoben werden, ist unzulässig.
 
-# § 395 – Bußgeldvorschriften
+# § 397 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer entgegen § 335 Absatz 1 oder 2 einen Zugriff auf dort genannte Daten verlangt oder mit dem Versicherten die Gestattung eines solchen Zugriffs vereinbart.
+(1) Ordnungswidrig handelt, wer
+
+1. entgegen § 335 Absatz 1 einen Zugriff auf dort genannte Daten verlangt,
+
+2. entgegen § 335 Absatz 2 eine Vereinbarung abschließt oder
+
+3. entgegen § 339 Absatz 3 Satz 1 oder Absatz 5 Satz 1 oder § 361 Absatz 2 Satz 1 oder Absatz 3 Nummer 1 auf dort genannte Daten zugreift.
 
 (1a) (weggefallen)
 
@@ -11303,7 +11639,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 326 nicht bestätigte oder zertifizierte Komponenten oder Dienste der Telematikinfrastruktur in Verkehr bringt oder zur Verfügung stellt,
+1. Ohne Zulassung oder Bestätigung nach § 326 die Telematikinfrastruktur nutzt,
 
 2. entgegen § 329 Absatz 2 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
@@ -11313,21 +11649,21 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2a das Bundesamt für Sicherheit in der Informationstechnik.
 
-# § 396 – Strafvorschriften
+# § 398 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 171b Absatz 2 Satz 1 die Zahlungsunfähigkeit oder die Überschuldung nicht, nicht richtig oder nicht rechtzeitig anzeigt.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-# § 397 – Strafvorschriften
+# § 399 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
-1. entgegen den §§ 352, 356, 357, 359 oder 361 auf dort genannte Daten zugreift,
+1. entgegen § 303e Absatz 5 Satz 1 Nummer 2 Daten weitergibt,
 
-2. entgegen § 303e Absatz 5 Satz 1 Nummer 2 Daten weitergibt oder
+2. entgegen § 303e Absatz 5 Satz 4 dort genannte Daten verwendet oder
 
-3. entgegen § 303e Absatz 5 Satz 4 dort genannte Daten verarbeitet.
+3. entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder Absatz 3, § 359 Absatz 1 oder § 361 Absatz 1 auf dort genannte Daten zugreift.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen Anderen zu bereichern oder einen Anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
@@ -11335,7 +11671,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) (weggefallen)
 
-# § 398 – Versicherter Personenkreis
+# § 400 – Versicherter Personenkreis
 
 (1) Soweit Vorschriften dieses Buches
 
@@ -11349,7 +11685,13 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (6) (weggefallen)
 
-# § 399 – Leistungen
+# § 401 – Beitragszuschüsse für Beschäftigte
+
+(1) Versicherungsverträge, die den Standardtarif nach § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand haben, werden auf Antrag der Versicherten auf Versicherungsverträge nach dem Basistarif gemäß § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
+
+(2) Zur Gewährleistung der in § 257 Abs. 2a Satz 1 Nr. 2 und 2a bis 2c in der bis zum 31. Dezember 2008 geltenden Fassung genannten Begrenzung bleiben im Hinblick auf die ab 1. Januar 2009 weiterhin im Standardtarif Versicherten alle Versicherungsunternehmen, die die nach § 257 Abs. 2 zuschussberechtigte Krankenversicherung betreiben, verpflichtet, an einem finanziellen Spitzenausgleich teilzunehmen, dessen Ausgestaltung zusammen mit den Einzelheiten des Standardtarifs zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht und dem Verband der privaten Krankenversicherung mit Wirkung für die beteiligten Unternehmen zu vereinbaren ist und der eine gleichmäßige Belastung dieser Unternehmen bewirkt. Für in Absatz 2a Satz 1 Nr. 2c in der bis 31. Dezember 2008 geltenden Fassung genannte Personen, bei denen eine Behinderung nach § 4 Abs. 1 des Gesetzes zur Eingliederung Schwerbehinderter in Arbeit, Beruf und Gesellschaft festgestellt worden ist, wird ein fiktiver Zuschlag von 100 vom Hundert auf die Bruttoprämie angerechnet, der in den Ausgleich nach Satz 1 einbezogen wird.
+
+# § 401 – Leistungen
 
 (1) und (2) (weggefallen)
 
@@ -11357,7 +11699,29 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) bis (11) (weggefallen)
 
-# § 400 – Beziehungen der Krankenkassen zu den Leistungserbringern
+# § 402 – Standardtarif für Personen ohne Versicherungsschutz
+
+(1) Personen, die weder
+
+1. in der gesetzlichen Krankenversicherung versichert oder versicherungspflichtig sind,
+
+2. über eine private Krankheitsvollversicherung verfügen,
+
+3. einen Anspruch auf freie Heilfürsorge haben, beihilfeberechtigt sind oder vergleichbare Ansprüche haben,
+
+4. Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz haben noch
+
+5. Leistungen nach dem Dritten, Vierten, Sechsten und Siebten Kapitel des Zwölften Buches beziehen,
+
+können bis zum 31. Dezember 2008 Versicherungsschutz im Standardtarif gemäß § 257 Abs. 2a verlangen; in den Fällen der Nummern 4 und 5 begründen Zeiten einer Unterbrechung des Leistungsbezugs von weniger als einem Monat keinen entsprechenden Anspruch. Der Antrag darf nicht abgelehnt werden. Die in § 257 Abs. 2a Nr. 2b genannten Voraussetzungen gelten für Personen nach Satz 1 nicht; Risikozuschläge dürfen für sie nicht verlangt werden. Abweichend von Satz 1 Nr. 3 können auch Personen mit Anspruch auf Beihilfe nach beamtenrechtlichen Grundsätzen, die bisher nicht über eine auf Ergänzung der Beihilfe beschränkte private Krankenversicherung verfügen und auch nicht freiwillig in der gesetzlichen Krankenversicherung versichert sind, eine die Beihilfe ergänzende Absicherung im Standardtarif gemäß § 257 Abs. 2a Nr. 2b verlangen.
+
+(2) Der Beitrag von im Standardtarif nach Absatz 1 versicherten Personen darf den durchschnittlichen Höchstbeitrag der gesetzlichen Krankenversicherung gemäß § 257 Abs. 2a Satz 1 Nr. 2 nicht überschreiten; die dort für Ehegatten oder Lebenspartner vorgesehene besondere Beitragsbegrenzung gilt für nach Absatz 1 versicherte Personen nicht. § 152 Absatz 4 des Versicherungsaufsichtsgesetzes, § 26 Absatz 1 Satz 1 und Absatz 2 Satz 1 Nummer 2 des Zweiten Buches sowie § 32 Absatz 5 des Zwölften Buches gelten für nach Absatz 1 im Standardtarif versicherte Personen entsprechend.
+
+(3) Eine Risikoprüfung ist nur zulässig, soweit sie für Zwecke des finanziellen Spitzenausgleichs nach § 257 Abs. 2b oder für spätere Tarifwechsel erforderlich ist. Abweichend von § 257 Abs. 2b sind im finanziellen Spitzenausgleich des Standardtarifs für Versicherte nach Absatz 1 die Begrenzungen gemäß Absatz 2 sowie die durch das Verbot von Risikozuschlägen gemäß Absatz 1 Satz 3 auftretenden Mehraufwendungen zu berücksichtigen.
+
+(4) Die gemäß Absatz 1 abgeschlossenen Versicherungsverträge im Standardtarif werden zum 1. Januar 2009 auf Verträge im Basistarif nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
+
+# § 402 – Beziehungen der Krankenkassen zu den Leistungserbringern
 
 (1) (weggefallen)
 
@@ -11383,13 +11747,17 @@ b) für Zahnärzte, die bereits zwei Jahre in dem in Artikel 3 des Einigungsvert
 
 (9) bis (11) (weggefallen)
 
-# § 401 – Beitragszuschüsse für Beschäftigte
+# § 403 – Übergangsregelung zur enteralen Ernährung
 
-(1) Versicherungsverträge, die den Standardtarif nach § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand haben, werden auf Antrag der Versicherten auf Versicherungsverträge nach dem Basistarif gemäß § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
+Versicherte haben bis zur Veröffentlichung der Zusammenstellung nach § 31 Absatz 5 Satz 2 im Bundesanzeiger Anspruch auf enterale Ernährung nach Maßgabe des Kapitels E der Arzneimittel-Richtlinien in der Fassung vom 25. August 2005 (BAnz. S. 13 241).
 
-(2) Zur Gewährleistung der in § 257 Abs. 2a Satz 1 Nr. 2 und 2a bis 2c in der bis zum 31. Dezember 2008 geltenden Fassung genannten Begrenzung bleiben im Hinblick auf die ab 1. Januar 2009 weiterhin im Standardtarif Versicherten alle Versicherungsunternehmen, die die nach § 257 Abs. 2 zuschussberechtigte Krankenversicherung betreiben, verpflichtet, an einem finanziellen Spitzenausgleich teilzunehmen, dessen Ausgestaltung zusammen mit den Einzelheiten des Standardtarifs zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht und dem Verband der privaten Krankenversicherung mit Wirkung für die beteiligten Unternehmen zu vereinbaren ist und der eine gleichmäßige Belastung dieser Unternehmen bewirkt. Für in Absatz 2a Satz 1 Nr. 2c in der bis 31. Dezember 2008 geltenden Fassung genannte Personen, bei denen eine Behinderung nach § 4 Abs. 1 des Gesetzes zur Eingliederung Schwerbehinderter in Arbeit, Beruf und Gesellschaft festgestellt worden ist, wird ein fiktiver Zuschlag von 100 vom Hundert auf die Bruttoprämie angerechnet, der in den Ausgleich nach Satz 1 einbezogen wird.
+# § 403a – Beitragszuschüsse für Beschäftigte
 
-# § 402 – Standardtarif für Personen ohne Versicherungsschutz
+(1) Versicherungsverträge, die den Standardtarif nach § 257 Absatz 2a in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand haben, werden auf Antrag der Versicherten auf Versicherungsverträge nach dem Basistarif gemäß § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
+
+(2) Zur Gewährleistung der in § 257 Absatz 2a Satz 1 Nummer 2 bis 2c in der bis zum 31. Dezember 2008 geltenden Fassung genannten Begrenzung bleiben im Hinblick auf die ab dem 1. Januar 2009 weiterhin im Standardtarif Versicherten alle Versicherungsunternehmen, die die nach § 257 Absatz 2 zuschussberechtigte Krankenversicherung betreiben, verpflichtet, an einem finanziellen Spitzenausgleich teilzunehmen, dessen Ausgestaltung zusammen mit den Einzelheiten des Standardtarifs zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht und dem Verband der privaten Krankenversicherung mit Wirkung für die beteiligten Unternehmen zu vereinbaren ist und der eine gleichmäßige Belastung dieser Unternehmen bewirkt. Für in § 257 Absatz 2a Satz 1 Nummer 2c in der bis 31. Dezember 2008 geltenden Fassung genannte Personen, bei denen eine Behinderung nach § 4 Absatz 1 des Schwerbehindertengesetzes festgestellt worden ist, wird ein fiktiver Zuschlag von 100 Prozent auf die Bruttoprämie angerechnet, der in den Ausgleich nach Satz 1 einbezogen wird.
+
+# § 404 – Standardtarif für Personen ohne Versicherungsschutz
 
 (1) Personen, die weder
 
@@ -11403,73 +11771,83 @@ b) für Zahnärzte, die bereits zwei Jahre in dem in Artikel 3 des Einigungsvert
 
 5. Leistungen nach dem Dritten, Vierten, Sechsten und Siebten Kapitel des Zwölften Buches beziehen,
 
-können bis zum 31. Dezember 2008 Versicherungsschutz im Standardtarif gemäß § 257 Abs. 2a verlangen; in den Fällen der Nummern 4 und 5 begründen Zeiten einer Unterbrechung des Leistungsbezugs von weniger als einem Monat keinen entsprechenden Anspruch. Der Antrag darf nicht abgelehnt werden. Die in § 257 Abs. 2a Nr. 2b genannten Voraussetzungen gelten für Personen nach Satz 1 nicht; Risikozuschläge dürfen für sie nicht verlangt werden. Abweichend von Satz 1 Nr. 3 können auch Personen mit Anspruch auf Beihilfe nach beamtenrechtlichen Grundsätzen, die bisher nicht über eine auf Ergänzung der Beihilfe beschränkte private Krankenversicherung verfügen und auch nicht freiwillig in der gesetzlichen Krankenversicherung versichert sind, eine die Beihilfe ergänzende Absicherung im Standardtarif gemäß § 257 Abs. 2a Nr. 2b verlangen.
+können bis zum 31. Dezember 2008 Versicherungsschutz im Standardtarif gemäß § 257 Absatz 2a in der bis zum 31. Dezember 2008 geltenden Fassung verlangen; in den Fällen der Nummern 4 und 5 begründen Zeiten einer Unterbrechung des Leistungsbezugs von weniger als einem Monat keinen entsprechenden Anspruch. Der Antrag darf nicht abgelehnt werden. Die in § 257 Absatz 2a Satz 1 Nummer 2b in der bis zum 31. Dezember 2008 geltenden Fassung genannten Voraussetzungen gelten für Personen nach Satz 1 nicht; Risikozuschläge dürfen für sie nicht verlangt werden. Abweichend von Satz 1 Nummer 3 können auch Personen mit Anspruch auf Beihilfe nach beamtenrechtlichen Grundsätzen, die bisher nicht über eine auf Ergänzung der Beihilfe beschränkte private Krankenversicherung verfügen und auch nicht freiwillig in der gesetzlichen Krankenversicherung versichert sind, eine die Beihilfe ergänzende Absicherung im Standardtarif gemäß § 257 Absatz 2a Satz 1 Nummer 2b in der bis zum 31. Dezember 2008 geltenden Fassung verlangen.
 
-(2) Der Beitrag von im Standardtarif nach Absatz 1 versicherten Personen darf den durchschnittlichen Höchstbeitrag der gesetzlichen Krankenversicherung gemäß § 257 Abs. 2a Satz 1 Nr. 2 nicht überschreiten; die dort für Ehegatten oder Lebenspartner vorgesehene besondere Beitragsbegrenzung gilt für nach Absatz 1 versicherte Personen nicht. § 152 Absatz 4 des Versicherungsaufsichtsgesetzes, § 26 Absatz 1 Satz 1 und Absatz 2 Satz 1 Nummer 2 des Zweiten Buches sowie § 32 Absatz 5 des Zwölften Buches gelten für nach Absatz 1 im Standardtarif versicherte Personen entsprechend.
+(2) Der Beitrag von im Standardtarif nach Absatz 1 versicherten Personen darf den durchschnittlichen Höchstbeitrag der gesetzlichen Krankenversicherung gemäß § 257 Absatz 2a Satz 1 Nummer 2 in der bis zum 31. Dezember 2008 geltenden Fassung nicht überschreiten; die dort für Ehegatten oder Lebenspartner vorgesehene besondere Beitragsbegrenzung gilt für nach Absatz 1 versicherte Personen nicht. § 152 Absatz 4 des Versicherungsaufsichtsgesetzes, § 26 Absatz 1 Satz 1 und Absatz 2 Satz 1 Nummer 2 des Zweiten Buches sowie § 32 Absatz 5 des Zwölften Buches gelten für nach Absatz 1 im Standardtarif versicherte Personen entsprechend.
 
-(3) Eine Risikoprüfung ist nur zulässig, soweit sie für Zwecke des finanziellen Spitzenausgleichs nach § 257 Abs. 2b oder für spätere Tarifwechsel erforderlich ist. Abweichend von § 257 Abs. 2b sind im finanziellen Spitzenausgleich des Standardtarifs für Versicherte nach Absatz 1 die Begrenzungen gemäß Absatz 2 sowie die durch das Verbot von Risikozuschlägen gemäß Absatz 1 Satz 3 auftretenden Mehraufwendungen zu berücksichtigen.
+(3) Eine Risikoprüfung ist nur zulässig, soweit sie für Zwecke des finanziellen Spitzenausgleichs nach § 257 Absatz 2b in der bis zum 31. Dezember 2008 geltenden Fassung oder für spätere Tarifwechsel erforderlich ist. Abweichend von § 257 Absatz 2b in der bis zum 31. Dezember 2008 geltenden Fassung sind im finanziellen Spitzenausgleich des Standardtarifs für Versicherte nach Absatz 1 die Begrenzungen gemäß Absatz 2 sowie die durch das Verbot von Risikozuschlägen gemäß Absatz 1 Satz 3 auftretenden Mehraufwendungen zu berücksichtigen.
 
-(4) Die gemäß Absatz 1 abgeschlossenen Versicherungsverträge im Standardtarif werden zum 1. Januar 2009 auf Verträge im Basistarif nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
-
-# § 403 – Übergangsregelung zur enteralen Ernährung
-
-Versicherte haben bis zur Veröffentlichung der Zusammenstellung nach § 31 Abs. 5 Satz 2 im Bundesanzeiger Anspruch auf enterale Ernährung nach Maßgabe des Kapitels E der Arzneimittel-Richtlinien in der Fassung vom 25. August 2005 (BAnz. S. 13 241).
-
-# § 404 – (weggefallen)
+(4) Die gemäß Absatz 1 abgeschlossenen Versicherungsverträge im Standardtarif werden zum 1. Januar 2009 auf Verträge im Basistarif nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
 
 # § 405 – Übergangsregelung für die knappschaftliche Krankenversicherung
 
-Die Regelung des § 13 Absatz 2 der Risikostruktur-Ausgleichsverordnung ist nicht anzuwenden, wenn die Deutsche Rentenversicherung Knappschaft-Bahn-See die Verwaltungsausgaben der knappschaftlichen Krankenversicherung abweichend von § 71 Abs. 1 Satz 2 des Vierten Buches getrennt im Haushaltsplan ausweist sowie die Rechnungslegung und den Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchführt. Satz 1 gilt nur, wenn das Bundesamt für Soziale Sicherung rechtzeitig vor Durchführung des Jahresausgleichs nach § 18 der Risikostruktur-Ausgleichsverordnung auf der Grundlage eines von der Deutschen Rentenversicherung Knappschaft-Bahn-See erbrachten ausreichenden Nachweises feststellt, dass die Rechnungslegung und der Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchgeführt wurden.
+Die Regelung des § 13 Absatz 2 der Risikostruktur-Ausgleichsverordnung ist nicht anzuwenden, wenn die Deutsche Rentenversicherung Knappschaft-Bahn-See die Verwaltungsausgaben der knappschaftlichen Krankenversicherung abweichend von § 71 Absatz 1 Satz 2 des Vierten Buches getrennt im Haushaltsplan ausweist sowie die Rechnungslegung und den Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchführt. Satz 1 gilt nur, wenn das Bundesamt für Soziale Sicherung rechtzeitig vor Durchführung des Jahresausgleichs nach § 18 der Risikostruktur-Ausgleichsverordnung auf der Grundlage eines von der Deutschen Rentenversicherung Knappschaft-Bahn-See erbrachten ausreichenden Nachweises feststellt, dass die Rechnungslegung und der Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchgeführt wurden.
 
 # § 406 – Übergangsregelung zum Krankengeldwahltarif
 
 (1) Wahltarife, die Versicherte auf der Grundlage der bis zum 31. Juli 2009 geltenden Fassung des § 53 Absatz 6 abgeschlossen haben, enden zu diesem Zeitpunkt.
 
-(2) Versicherte, die am 31. Juli 2009 Leistungen aus einem Wahltarif nach § 53 Absatz 6 bezogen haben, haben Anspruch auf Leistungen nach Maßgabe ihres Wahltarifs bis zum Ende der Arbeitsunfähigkeit, die den Leistungsanspruch ausgelöst hat. Aufwendungen nach Satz 1 bleiben bei der Anwendung des § 53 Absatz 9 Satz 1 unberücksichtigt.
+(2) Versicherte, die am 31. Juli 2009 Leistungen aus einem Wahltarif nach § 53 Absatz 6 bezogen haben, haben Anspruch auf Leistungen nach Maßgabe ihres Wahltarifs bis zum Ende der Arbeitsunfähigkeit, die den Leistungsanspruch ausgelöst hat. Aufwendungen nach Satz 1 bleiben bei der Anwendung des § 53 Absatz 9 Satz 1 unberücksichtigt.
 
-(3) Die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 kann bis zum 30. September 2009 mit Wirkung vom 1. August 2009 abgegeben werden. Wahltarife nach § 53 Absatz 6 können bis zum 30. September 2009 oder zu einem in der Satzung der Krankenkasse festgelegten späteren Zeitpunkt mit Wirkung vom 1. August 2009 neu abgeschlossen werden. Abweichend von den Sätzen 1 und 2 können Versicherte nach Absatz 2 innerhalb von acht Wochen nach dem Ende des Leistungsbezugs rückwirkend zu dem Tag, der auf den letzten Tag des Leistungsbezugs folgt, die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 abgeben oder einen Wahltarif wählen.
+(3) Die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 kann bis zum 30. September 2009 mit Wirkung vom 1. August 2009 abgegeben werden. Wahltarife nach § 53 Absatz 6 können bis zum 30. September 2009 oder zu einem in der Satzung der Krankenkasse festgelegten späteren Zeitpunkt mit Wirkung vom 1. August 2009 neu abgeschlossen werden. Abweichend von den Sätzen 1 und 2 können Versicherte nach Absatz 2 innerhalb von acht Wochen nach dem Ende des Leistungsbezugs rückwirkend zu dem Tag, der auf den letzten Tag des Leistungsbezugs folgt, die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 abgeben oder einen Wahltarif wählen.
 
-# § 407 – Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften
+# § 407 – Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
 
-§ 120 Absatz 6 und § 295 Absatz 1b Satz 5 bis 8 in der Fassung des Artikels 15 Nummer 6a Buchstabe c und Nummer 13a Buchstabe b des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) sind bis zum 1. Juli 2011 weiter anzuwenden.
+Die in § 28b Absatz 1, den §§ 28c und 28e sowie in den Anlagen der Risikostruktur-Ausgleichsverordnung in der jeweils bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Zulassung von strukturierten Behandlungsprogrammen nach § 137g Absatz 1 für Diabetes mellitus Typ 2, Brustkrebs, koronare Herzkrankheit, Diabetes mellitus Typ 1 und chronisch obstruktive Atemwegserkrankungen gelten jeweils weiter bis zum Inkrafttreten der für die jeweilige Krankheit vom Gemeinsamen Bundesausschuss nach § 137f Absatz 2 zu erlassenden Richtlinien. Dies gilt auch für die in den §§ 28d und 28f der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen, soweit sie auf die in Satz 1 genannten Anforderungen verweisen. Die in § 28f Absatz 1 Nummer 3 und Absatz 1a und § 28g der Risikostruktur-Ausgleichsverordnung in der jeweils bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Aufbewahrungsfristen gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 2 Nummer 5 zu regelnden Anforderungen an die Aufbewahrungsfristen. Die in § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Evaluation gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 2 Nummer 6 zu regelnden Anforderungen an die Evaluation.
 
-# § 408 – Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
-
-Die in § 28b Absatz 1, den §§ 28c, 28e sowie in den Anlagen der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Zulassung von strukturierten Behandlungsprogrammen nach § 137g Absatz 1 für Diabetes mellitus Typ 2, Brustkrebs, koronare Herzkrankheit, Diabetes mellitus Typ 1 und chronisch obstruktive Atemwegserkrankungen gelten jeweils weiter bis zum Inkrafttreten der für die jeweilige Krankheit vom Gemeinsamen Bundesausschuss nach § 137f Absatz 2 zu erlassenden Richtlinien. Dies gilt auch für die in den §§ 28d und 28f der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen, soweit sie auf die in Satz 1 genannten Anforderungen verweisen. Die in § 28f Absatz 1 Nummer 3 und Absatz 1a und § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Aufbewahrungsfristen gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 5 zu regelnden Anforderungen an die Aufbewahrungsfristen. Die in § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Evaluation gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 6 zu regelnden Anforderungen an die Evaluation.
-
-# § 409 – Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen
-
-Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung sowie aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 1, 2, 3 und 5 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise ein Gesamtbeitragssatz in Höhe von 15,5 Prozent sowie für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 4 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise weiter ein Gesamtbeitragssatz in Höhe von 8,2 Prozent Anwendung; von diesen gelten jeweils 0,9 Prozentpunkte als Zusatzbeitrag gemäß § 242.
-
-# § 410 – Bestandsbereinigung bei der freiwilligen Versicherung
+# § 408 – Bestandsbereinigung bei der freiwilligen Versicherung
 
 (1) Die Krankenkassen haben ihren Mitgliederbestand für den Zeitraum vom 1. August 2013 bis zum 1. Januar 2019 nach Maßgabe der folgenden Absätze zu überprüfen und ihn bis zum 15. Juni 2019 zu bereinigen.
 
 (2) Mitgliedschaften, die nach dem Ausscheiden aus der Versicherungspflicht oder nach dem Ende der Familienversicherung als freiwillige Mitgliedschaften fortgesetzt wurden, sowie davon abgeleitete Familienversicherungen sind mit Wirkung ab dem Tag ihrer Begründung aufzuheben, wenn seit diesem Zeitpunkt die Krankenkasse keinen Kontakt zum Mitglied herstellen konnte, für die Mitgliedschaft keine Beiträge geleistet wurden und das Mitglied und familienversicherte Angehörige keine Leistungen in Anspruch genommen haben.
 
-(3) Für das Verfahren nach Absatz 4 und die Prüfung nach Absatz 5 melden die Krankenkassen dem Bundesamt für Soziale Sicherung und den mit der Prüfung nach § 274 befassten Stellen versichertenbezogen und je Berichtsjahr
+(3) Für das Verfahren nach Absatz 4 und die Prüfung nach Absatz 5 melden die Krankenkassen dem Bundesamt für Soziale Sicherung und den mit der Prüfung nach § 274 befassten Stellen versichertenbezogen und je Berichtsjahr
 
 1. die Versichertentage der Mitgliedschaften und der davon abgeleiteten Familienversicherungen, die nach Absatz 2 aufgehoben wurden, und
 
-2. die Versichertentage der Mitgliedschaften und der davon abgeleiteten Familienversicherungen, die seit der letzten Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz der Risikostruktur-Ausgleichsverordnung des betreffenden Berichtsjahres aufgehoben wurden und die die Kriterien des Absatzes 2 erfüllen.
+2. die Versichertentage der Mitgliedschaften und der davon abgeleiteten Familienversicherungen, die seit der letzten Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz der Risikostruktur-Ausgleichsverordnung in der bis zum 31. März 2020 geltenden Fassung des betreffenden Berichtsjahres aufgehoben wurden und die die Kriterien des Absatzes 2 erfüllen.
 
-Für die Prüfung nach Absatz 5 melden die Krankenkassen den mit der Prüfung nach § 274 befassten Stellen außerdem die Mitgliedschaften und die davon abgeleiteten Familienversicherungen je Berichtsjahr, die die Kriterien des Absatzes 2 insoweit erfüllen, als die Mitglieder keine Beiträge geleistet und die Mitglieder und ihre familienversicherten Angehörigen keine Leistungen in Anspruch genommen haben. Die Datenmeldungen haben bis zum 15. Juni 2019 zu erfolgen. § 268 Absatz 3 Satz 3, 4, 7 und 9 gilt für die nach den Sätzen 1 und 2 zu meldenden Daten entsprechend. Die Herstellung des Versichertenbezugs ist zulässig, sofern dies für die Prüfung nach Absatz 5 erforderlich ist. Das Nähere zum Verfahren der Datenmeldung nach Satz 1 für das Verfahren nach Absatz 4 bestimmt das Bundesamt für Soziale Sicherung nach Anhörung des Spitzenverbandes Bund der Krankenkassen. Das Nähere zum Verfahren der Datenmeldung nach den Sätzen 1 und 2 für die Prüfung nach Absatz 5 regelt das Bundesamt für Soziale Sicherung nach Anhörung der mit der Prüfung nach § 274 befassten Stellen und des Spitzenverbandes Bund der Krankenkassen.
+Für die Prüfung nach Absatz 5 melden die Krankenkassen den mit der Prüfung nach § 274 befassten Stellen außerdem die Mitgliedschaften und die davon abgeleiteten Familienversicherungen je Berichtsjahr, die die Kriterien des Absatzes 2 insoweit erfüllen, als die Mitglieder keine Beiträge geleistet und die Mitglieder und ihre familienversicherten Angehörigen keine Leistungen in Anspruch genommen haben. Die Datenmeldungen haben bis zum 15. Juni 2019 zu erfolgen. § 268 Absatz 3 Satz 3, 4, 7 und 9 in der bis zum 31. März 2020 geltenden Fassung gilt für die nach den Sätzen 1 und 2 zu meldenden Daten entsprechend. Die Herstellung des Versichertenbezugs ist zulässig, sofern dies für die Prüfung nach Absatz 5 erforderlich ist. Das Nähere zum Verfahren der Datenmeldung nach Satz 1 für das Verfahren nach Absatz 4 bestimmt das Bundesamt für Soziale Sicherung nach Anhörung des Spitzenverbandes Bund der Krankenkassen. Das Nähere zum Verfahren der Datenmeldung nach den Sätzen 1 und 2 für die Prüfung nach Absatz 5 regelt das Bundesamt für Soziale Sicherung nach Anhörung der mit der Prüfung nach § 274 befassten Stellen und des Spitzenverbandes Bund der Krankenkassen.
 
-(4) Für Ausgleichsjahre, für die der korrigierte Jahresausgleich bereits durchgeführt oder die Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz der Risikostruktur-Ausgleichsverordnung durch die Krankenkassen bereits abgegeben wurde, ermittelt das Bundesamt für Soziale Sicherung einen Bereinigungsbetrag und macht diesen durch Bescheid geltend. § 6 der Risikostruktur-Ausgleichsverordnung gilt entsprechend. Die Einnahmen nach diesem Absatz fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 der Risikostruktur-Ausgleichsverordnung zu dem Wert nach § 17 Absatz 2 der Risikostruktur-Ausgleichsverordnung hinzugerechnet. Klagen bei Streitigkeiten nach diesem Absatz haben keine aufschiebende Wirkung.
+(4) Für Ausgleichsjahre, für die der korrigierte Jahresausgleich bereits durchgeführt oder die Datenmeldung nach § 30 Absatz 4 Satz 2 zweiter Halbsatz der Risikostruktur-Ausgleichsverordnung in der bis zum 31. März 2020 geltenden Fassung durch die Krankenkassen bereits abgegeben wurde, ermittelt das Bundesamt für Soziale Sicherung einen Bereinigungsbetrag und macht diesen durch Bescheid geltend. § 6 der Risikostruktur-Ausgleichsverordnung gilt entsprechend. Die Einnahmen nach diesem Absatz fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 der Risikostruktur-Ausgleichsverordnung zu dem Wert nach § 17 Absatz 2 der Risikostruktur-Ausgleichsverordnung hinzugerechnet. Klagen bei Streitigkeiten nach diesem Absatz haben keine aufschiebende Wirkung.
 
 (5) Die mit der Prüfung nach § 274 befassten Stellen überprüfen nach Abschluss der Bestandsbereinigung in einer Sonderprüfung, ob die Vorgaben nach den Absätzen 1 und 2 eingehalten worden sind, und teilen dem Bundesamt für Soziale Sicherung und der Krankenkasse das Ergebnis ihrer Prüfung mit. Das Bundesamt für Soziale Sicherung ermittelt auf Grundlage dieser Mitteilung einen Korrekturbetrag, der mit einem Aufschlag in Höhe von 25 Prozent zu versehen ist, und macht diesen durch Bescheid geltend. Absatz 4 Satz 2 bis 4 gilt entsprechend. Die Prüfung ist spätestens bis zum 31. Dezember 2020 durchzuführen. Die Krankenkassen sind verpflichtet, die Daten nach § 7 Absatz 2 Satz 3 der Risikostruktur-Ausgleichsverordnung für das Berichtsjahr 2013 bis zum 31. Dezember 2020 aufzubewahren.
 
-# § 411 – (weggefallen)
-
-# § 412 – Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen
+# § 409 – Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen
 
 Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleisteten Vergütungen ist ausgeschlossen, soweit diese vor dem 1. Januar 2017 entstanden sind und bis zum 9. November 2018 nicht gerichtlich geltend gemacht wurden.
 
-# § 413 – Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
+# § 410 – Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
 
-(1) § 79 Absatz 6 Satz 4, § 91 Absatz 2 Satz 15, § 217b Absatz 2 Satz 8 und § 282 Absatz 2d Satz 6 in der bis zum 31. Dezember 2019 gültigen Fassung gelten auch für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, sofern diesen Verträgen nicht bereits eine Zusage über konkrete Vergütungserhöhungen zu entnehmen ist. § 79 Absatz 6 Satz 5 bis 8, § 91 Absatz 2 Satz 16 bis 19, § 217b Absatz 2 Satz 9 bis 12, § 282 Absatz 2d Satz 7 bis 10 in der bis zum 31. Dezember 2019 gültigen Fassung gelten nicht für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat. Die zur Zukunftssicherung vertraglich vereinbarten nicht beitragsorientierten Zusagen, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, dürfen auch bei Abschluss eines neuen Vertrages mit derselben Person in dem im vorhergehenden Vertrag vereinbarten Durchführungsweg und Umfang fortgeführt werden.
+(1) § 79 Absatz 6 Satz 5, § 91 Absatz 2 Satz 15, § 217b Absatz 2 Satz 8 und § 282 Absatz 2d Satz 6 in der jeweils bis zum 31. Dezember 2019 gültigen Fassung gelten auch für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, sofern diesen Verträgen nicht bereits eine Zusage über konkrete Vergütungserhöhungen zu entnehmen ist. § 79 Absatz 6 Satz 6 bis 9, § 91 Absatz 2 Satz 16 bis 19, § 217b Absatz 2 Satz 9 bis 12 und § 282 Absatz 2d Satz 7 bis 10 in der jeweils bis zum 31. Dezember 2019 gültigen Fassung gelten nicht für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat. Die zur Zukunftssicherung vertraglich vereinbarten nicht beitragsorientierten Zusagen, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, dürfen auch bei Abschluss eines neuen Vertrages mit derselben Person in dem im vorhergehenden Vertrag vereinbarten Durchführungsweg und Umfang fortgeführt werden.
 
-(2) Abweichend von § 79 Absatz 6 Satz 5, § 91 Absatz 2 Satz 16, § 217b Absatz 2 Satz 9 und § 282 Absatz 4 Satz 6 kann bis zum 31. Dezember 2027 keine höhere Vergütung vereinbart werden. Zu Beginn der darauf folgenden Amtszeiten kann bei der Erhöhung der Grundvergütung nur die Entwicklung des Verbraucherpreisindexes ab dem 1. Januar 2028 berücksichtigt werden.
+(2) Abweichend von § 79 Absatz 6 Satz 6, § 91 Absatz 2 Satz 16, § 217b Absatz 2 Satz 9 und § 282 Absatz 4 Satz 6 kann bis zum 31. Dezember 2027 keine höhere Vergütung vereinbart werden. Zu Beginn der darauffolgenden Amtszeiten kann bei der Erhöhung der Grundvergütung nur die Entwicklung des Verbraucherpreisindexes ab dem 1. Januar 2028 berücksichtigt werden.
+
+# § 411 – Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen
+
+(1) Für die Medizinischen Dienste der Krankenversicherung gelten die §§ 275 bis 283 in der bis zum 31. Dezember 2019 gültigen Fassung mit Ausnahme des § 275 Absatz 1c und 5, § 276 Absatz 2 und 4 und § 281 Absatz 2 bis zu dem nach § 412 Absatz 1 Satz 4 bekannt zu machenden Datum fort. Bis zu diesem Zeitpunkt nehmen die am 31. Dezember 2019 bestehenden Organe der Medizinischen Dienste der Krankenversicherung nach diesen Vorschriften die Aufgaben des Medizinischen Dienstes wahr. Die §§ 275 bis 283a in der ab dem 1. Januar 2020 geltenden Fassung finden mit Ausnahme des § 275 Absatz 3b und 5, der §§ 275c, 275d, 276 Absatz 2 und 4, des § 279 Absatz 9 und des § 280 Absatz 3 bis zu dem nach § 412 Absatz 1 Satz 4 bekannt zu machenden Datum keine Anwendung. Bis zu dem nach § 412 Absatz 1 Satz 4 bekannt zu machenden Datum findet für die Aufgaben des Medizinischen Dienstes nach den §§ 275c und 275d die Regelung des § 281 Absatz 1 in der bis zum 31. Dezember 2019 geltenden Fassung entsprechende Anwendung.
+
+(2) Für den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen sowie für den Spitzenverband Bund der Krankenkassen gelten die §§ 275 bis 283 und § 326 Absatz 2 Satz 1 in der jeweils bis zum 31. Dezember 2019 geltenden Fassung mit Ausnahme des § 275 Absatz 5 bis zum 31. Dezember 2021 fort; nach diesen Vorschriften nehmen ihre am 31. Dezember 2019 bestehenden Organe ihre Aufgaben bis zu diesem Zeitpunkt wahr. Die §§ 275 bis 283a in der am 1. Januar 2020 geltenden Fassung sind für den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen mit Ausnahme des § 275 Absatz 5, der §§ 275c und 281 Absatz 2 Satz 5 bis zum 31. Dezember 2021 nicht anwendbar. § 283 Absatz 2 Satz 1 Nummer 3 und 5 zweite Alternative in der am 1. Januar 2020 geltenden Fassung ist mit der Maßgabe anwendbar, dass der Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3 bis zum 28. Februar 2021 und die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 5 zweite Alternative bis zum 31. Dezember 2020 erlässt. Diese Richtlinien bedürfen der Genehmigung des Bundesministeriums für Gesundheit.
+
+(3) § 283 Absatz 2 Satz 1 Nummer 4 in der am 1. Januar 2020 geltenden Fassung ist mit der Maßgabe anwendbar, dass der Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 4 bis zum 31. Dezember 2021 erlässt. In der Richtlinie ist eine bundeseinheitliche Methodik und Vorgehensweise nach angemessenen und anerkannten Methoden der Personalbedarfsermittlung vorzugeben. Hierfür sind geeignete Gruppen der Aufgaben der Medizinischen Dienste (Begutachtungsaufträge) zu definieren. Die für den Erlass der Richtlinie nach Satz 1 erforderlichen Daten sind von allen Medizinischen Diensten unter Koordinierung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen nach einer bundeseinheitlichen Methodik und Vorgehensweise spätestens ab dem 1. März 2021 zu erheben und für alle Medizinischen Dienste einheitlich durch den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen unter fachlicher Beteiligung der Medizinischen Dienste anonymisiert auszuwerten. Die Richtlinie hat mindestens aufgabenbezogene Richtwerte für die Aufgabengruppen der Begutachtungen von Krankenhausleistungen nach § 275c, Arbeitsunfähigkeit nach § 275 Absatz 1 Satz 1 Nummer 3 Buchstabe b sowie von Rehabilitations- und Vorsorgeleistungen nach § 275 Absatz 2 Nummer 1 einzubeziehen. Sie bedarf der Genehmigung des Bundesministeriums für Gesundheit.
+
+(4) Endet die Amtszeit eines bestehenden Verwaltungsrates eines Medizinischen Dienstes der Krankenversicherung vor dem Zeitpunkt des § 412 Absatz 1 Satz 4, verlängert sie sich bis zu diesem Zeitpunkt. Die Verwaltungsräte der Medizinischen Dienste der Krankenversicherung werden mit Wirkung zum Zeitpunkt des § 412 Absatz 1 Satz 4 aufgelöst, der Verwaltungsrat des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen wird mit Wirkung zum Zeitpunkt des § 412 Absatz 5 Satz 9 in Verbindung mit Absatz 1 Satz 4 aufgelöst.
+
+# § 412 – Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund
+
+(1) Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat die Vertreter des Verwaltungsrates nach § 279 Absatz 5 bis zum 31. Dezember 2020 gemäß den Vorgaben des § 279 Absatz 3, 5 und 6 zu benennen; die Verwaltungsräte oder Vertreterversammlungen der in § 279 Absatz 4 Satz 1 genannten Krankenkassenverbände und Krankenkassen haben bis zum 31. Dezember 2020 ihre Vertreter gemäß den Vorgaben des § 279 Absatz 3, 4 und 6 zu wählen. Der gemäß Satz 1 besetzte Verwaltungsrat hat bis zum 31. März 2021 die Satzung nach § 279 Absatz 2 Satz 1 Nummer 1 und Satz 2 zu beschließen. Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat über die Genehmigung der Satzung bis zum 30. Juni 2021 zu entscheiden und das Datum der Genehmigung öffentlich bekannt zu machen. Sie hat das Datum des Ablaufs des Monats, in dem die Genehmigung erteilt wurde, öffentlich bekannt zu machen. Die oder der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes der Krankenversicherung lädt zur konstituierenden Sitzung ein und regelt das Nähere. In der konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Der jeweils amtierende Geschäftsführer des Medizinischen Dienstes der Krankenversicherung und sein Stellvertreter gelten bis zum 31. Dezember 2021 als durch den neu konstituierten Verwaltungsrat gewählter Vorstand.
+
+(2) Die Medizinischen Dienste, die als eingetragene Vereine organisiert sind, werden im Zeitpunkt des Absatzes 1 Satz 4 als Körperschaften des öffentlichen Rechts neu konstituiert. Die jeweiligen eingetragenen Vereine erlöschen mit Wirkung zum Zeitpunkt des Absatzes 1 Satz 4.
+
+(3) Die Rechte und Pflichten einschließlich des Vermögens der Medizinischen Dienste nach Absatz 2 gehen im Zeitpunkt des nach Absatz 1 Satz 4 bekannt gemachten Datums auf die in den jeweiligen Bezirken als Körperschaften des öffentlichen Rechts errichteten Medizinischen Dienste über. Die Körperschaften des öffentlichen Rechts treten in diesem Zeitpunkt in die Rechte und Pflichten der eingetragenen Vereine aus den Arbeits- und Ausbildungsverhältnissen mit den bei ihnen beschäftigten Personen ein. Die Arbeitsbedingungen der einzelnen Arbeitnehmer und Auszubildenden dürfen bis zum 31. Dezember 2022 nicht verschlechtert werden. Die Körperschaften des öffentlichen Rechts können bis zum 31. Dezember 2022 ein Arbeits- oder Ausbildungsverhältnis nur aus einem in der Person oder im Verhalten des Arbeitnehmers oder Auszubildenden liegenden wichtigen Grund kündigen. Die bestehenden Tarifverträge gelten fort. Der bei dem jeweiligen Medizinischen Dienst bestehende Betriebsrat nimmt ab dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt übergangsweise die Aufgaben eines Personalrats nach dem jeweiligen Personalvertretungsrecht wahr. Im Rahmen seines Übergangsmandats hat der Betriebsrat insbesondere die Aufgabe, unverzüglich den Wahlvorstand zur Einleitung der Personalratswahl zu bestellen. Das Übergangsmandat des jeweiligen Betriebsrates endet, sobald ein Personalrat gewählt und das Wahlergebnis bekannt gegeben worden ist, spätestens jedoch zwölf Monate nach dem in Absatz 1 Satz 4 bestimmten Zeitpunkt. Die in dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt bestehenden Betriebsvereinbarungen gelten längstens für die Dauer von zwölf Monaten als Dienstvereinbarungen fort, soweit sie nicht durch eine andere Regelung ersetzt werden. Auf die bis zum nach Absatz 1 Satz 4 bekannt gemachten Datum förmlich eingeleiteten Beteiligungsverfahren finden bis zu deren Abschluss die Bestimmungen des Betriebsverfassungsgesetzes sinngemäß Anwendung. Gleiches gilt für Verfahren vor der Einigungsstelle und den Arbeitsgerichten. Die Sätze 2 bis 4 gelten für Ausbildungsverhältnisse entsprechend. Die Sätze 6 bis 8 gelten für die Jugend- und Auszubildendenvertretung entsprechend mit der Maßgabe, dass der das Übergangsmandat innehabende Betriebsrat unverzüglich einen Wahlvorstand und seine vorsitzende Person zur Wahl einer Jugend- und Auszubildendenvertretung zu bestimmen hat.
+
+(4) Die Medizinischen Dienste, die gemäß § 278 Absatz 1 Satz 2 in Verbindung mit Artikel 73 Absatz 4 des Gesundheits-Reformgesetzes Körperschaften des öffentlichen Rechts mit Dienstherrenfähigkeit sind, verlieren ihre Dienstherrenfähigkeit, wenn die Notwendigkeit hierfür nach Artikel 73 Absatz 4 Satz 1 und Absatz 5 des Gesundheits-Reformgesetzes nicht mehr besteht. Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes stellt den Zeitpunkt fest, zu dem die Dienstherrenfähigkeit entfällt, und macht ihn öffentlich bekannt.
+
+(5) Der Medizinische Dienst Bund tritt als Körperschaft des öffentlichen Rechts an die Stelle des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen. Die Verwaltungsräte der Medizinischen Dienste haben nach § 282 Absatz 2 die Vertreter des Verwaltungsrates des Medizinischen Dienstes Bund, die von den jeweils Wahlberechtigten nach § 282 Absatz 2 Satz 2 vorgeschlagen werden, bis zum 31. März 2021 zu wählen. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sammelt die Vorschläge für die Wahl nach Satz 2 in nach Vertretergruppen gemäß § 279 Absatz 4 Satz 1 und Absatz 5 Satz 1 und nach Geschlecht getrennten Listen und versendet diese an die jeweiligen Vertretergruppen der Medizinischen Dienste. Jede Vertretergruppe eines Medizinischen Dienstes entsendet einen Vertreter, der die Stimmen jedes Mitglieds der Vertretergruppe entsprechend dessen Weisungen abgibt. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur Wahl, leitet die Wahl und regelt das Nähere. Gewählt ist, wer die meisten Stimmen auf sich vereinigt; bei Stimmengleichheit entscheidet das Los. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes Bund und leitet diese. In der konstituierenden Sitzung sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Absatz 1 Satz 2 bis 4 und 7 und die Absätze 2 und 3 gelten entsprechend mit der Maßgabe, dass die Frist nach Absatz 1 Satz 7 am 30. Juni 2022 endet, die Frist nach Absatz 1 Satz 2 am 30. September 2021 endet, die Frist nach Absatz 1 Satz 3 am 31. Dezember 2021 endet und die Satzung vom Bundesministerium für Gesundheit zu genehmigen ist.
+
+# § 413 – Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
+
+§ 251 Absatz 4c in der bis zum 31. Dezember 2019 geltenden Fassung sowie § 242 Absatz 3 Satz 1 Nummer 1 in der bis zum 30. Juni 2020 geltenden Fassung sind weiterhin anzuwenden, wenn die Berufsausbildung in einer außerbetrieblichen Einrichtung vor dem 1. Januar 2020 begonnen wurde.
 
 # § 414 – Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen
 
@@ -11481,28 +11859,537 @@ Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleis
 
 (3) Endet die Amtszeit eines bestehenden Verwaltungsrates eines Medizinischen Dienstes der Krankenversicherung vor dem Zeitpunkt des § 415 Absatz 1 Satz 4, verlängert sie sich bis zu diesem Zeitpunkt. Die Verwaltungsräte der Medizinischen Dienste der Krankenversicherung werden mit Wirkung zum Zeitpunkt des § 415 Absatz 1 Satz 4 aufgelöst, der Verwaltungsrat des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen wird mit Wirkung zum Zeitpunkt des § 415 Absatz 5 Satz 5 in Verbindung mit Absatz 1 Satz 4 aufgelöst.
 
-# § 415 – Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund
+# § 415 – Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
 
-(1) Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat die Vertreter des Verwaltungsrates nach § 279 Absatz 5 bis zum 31. Dezember 2020 gemäß den Vorgaben des § 279 Absatz 3, 5 und 6 zu benennen; die Verwaltungsräte oder Vertreterversammlungen der in § 279 Absatz 4 Satz 1 genannten Krankenkassenverbände und Krankenkassen haben bis zum 31. Dezember 2020 ihre Vertreter gemäß den Vorgaben des § 279 Absatz 3, 4 und 6 zu wählen. Der gemäß Satz 1 besetzte Verwaltungsrat hat bis zum 31. März 2021 die Satzung nach § 279 Absatz 2 Satz 1 Nummer 1 und Satz 2 zu beschließen. Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat über die Genehmigung der Satzung bis zum 30. Juni 2021 zu entscheiden und das Datum der Genehmigung öffentlich bekannt zu machen. Sie hat das Datum des Ablaufs des Monats, in dem die Genehmigung erteilt wurde, öffentlich bekannt zu machen. Die oder der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes der Krankenversicherung lädt zur konstituierenden Sitzung ein und regelt das Nähere. In der konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Der jeweils amtierende Geschäftsführer des Medizinischen Dienstes der Krankenversicherung und sein Stellvertreter gelten bis zum 31. Dezember 2021 als durch den neu konstituierten Verwaltungsrat gewählter Vorstand.
+Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.
 
-(2) Die Medizinischen Dienste, die als eingetragene Vereine organisiert sind, werden im Zeitpunkt des Absatzes 1 Satz 4 als Körperschaften des öffentlichen Rechts neu konstituiert. Die jeweiligen eingetragenen Vereine erlöschen mit Wirkung zum Zeitpunkt des Absatzes 1 Satz 4.
+# § 416 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
 
-(3) Die Rechte und Pflichten einschließlich des Vermögens der Medizinischen Dienste nach Absatz 2 gehen im Zeitpunkt des nach Absatz 1 Satz 4 bekannt gemachten Datums auf die in den jeweiligen Bezirken als Körperschaften des öffentlichen Rechts errichteten Medizinischen Dienste über. Die Körperschaften des öffentlichen Rechts treten in diesem Zeitpunkt in die Rechte und Pflichten der eingetragenen Vereine aus den Arbeits- und Ausbildungsverhältnissen mit den bei ihnen beschäftigten Personen ein. Die Arbeitsbedingungen der einzelnen Arbeitnehmer und Auszubildenden dürfen bis zum 31. Dezember 2022 nicht verschlechtert werden. Die Körperschaften des öffentlichen Rechts können bis zum 31. Dezember 2022 ein Arbeits- oder Ausbildungsverhältnis nur aus einem in der Person oder im Verhalten des Arbeitnehmers oder Auszubildenden liegenden wichtigen Grund kündigen. Die bestehenden Tarifverträge gelten fort. Der bei dem jeweiligen Medizinischen Dienst bestehende Betriebsrat nimmt ab dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt übergangsweise die Aufgaben eines Personalrats nach dem jeweiligen Personalvertretungsrecht wahr. Im Rahmen seines Übergangsmandats hat der Betriebsrat insbesondere die Aufgabe, unverzüglich den Wahlvorstand zur Einleitung der Personalratswahl zu bestellen. Das Übergangsmandat des jeweiligen Betriebsrates endet, sobald ein Personalrat gewählt und das Wahlergebnis bekannt gegeben worden ist, spätestens jedoch zwölf Monate nach dem in Absatz 1 Satz 4 bestimmten Zeitpunkt. Die in dem nach Absatz 1 Satz 4 bekannt gemachten Zeitpunkt bestehenden Betriebsvereinbarungen gelten längstens für die Dauer von zwölf Monaten als Dienstvereinbarungen fort, soweit sie nicht durch eine andere Regelung ersetzt werden. Auf die bis zum nach Absatz 1 Satz 4 bekannt gemachten Datum förmlich eingeleiteten Beteiligungsverfahren finden bis zu deren Abschluss die Bestimmungen des Betriebsverfassungsgesetzes sinngemäß Anwendung. Gleiches gilt für Verfahren vor der Einigungsstelle und den Arbeitsgerichten. Die Sätze 2 bis 4 gelten für Ausbildungsverhältnisse entsprechend. Die Sätze 6 bis 8 gelten für die Jugend- und Auszubildendenvertretung entsprechend mit der Maßgabe, dass der das Übergangsmandat innehabende Betriebsrat unverzüglich einen Wahlvorstand und seine vorsitzende Person zur Wahl einer Jugend- und Auszubildendenvertretung zu bestimmen hat.
+§ 5 Absatz 4a Satz 1 Nummer 3 findet grundsätzlich nur Anwendung auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
-(4) Die Medizinischen Dienste, die gemäß § 278 Absatz 1 Satz 2 in Verbindung mit Artikel 73 Absatz 4 des Gesundheits-Reformgesetzes Körperschaften des öffentlichen Rechts mit Dienstherrenfähigkeit sind, verlieren ihre Dienstherrenfähigkeit, wenn die Notwendigkeit hierfür nach Artikel 73 Absatz 4 Satz 1 und Absatz 5 des Gesundheits-Reformgesetzes nicht mehr besteht. Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes stellt den Zeitpunkt fest, zu dem die Dienstherrenfähigkeit entfällt, und macht ihn öffentlich bekannt.
+1. Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab Beginn der Beitragszahlung,
 
-(5) Der Medizinische Dienst Bund tritt als Körperschaft des öffentlichen Rechts an die Stelle des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen. Die Verwaltungsräte der Medizinischen Dienste haben nach § 282 Absatz 2 die Vertreter des Verwaltungsrates des Medizinischen Dienstes Bund, die von den jeweils Wahlberechtigten nach § 282 Absatz 2 Satz 2 vorgeschlagen werden, bis zum 31. März 2021 zu wählen. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sammelt die Vorschläge für die Wahl nach Satz 2 in nach Vertretergruppen gemäß § 279 Absatz 4 Satz 1 und Absatz 5 Satz 1 und nach Geschlecht getrennten Listen und versendet diese an die jeweiligen Vertretergruppen der Medizinischen Dienste. Jede Vertretergruppe eines Medizinischen Dienstes entsendet einen Vertreter, der die Stimmen jedes Mitglieds der Vertretergruppe entsprechend dessen Weisungen abgibt. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur Wahl, leitet die Wahl und regelt das Nähere. Gewählt ist, wer die meisten Stimmen auf sich vereinigt; bei Stimmengleichheit entscheidet das Los. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes Bund und leitet diese. In der konstituierenden Sitzung sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Absatz 1 Satz 2 bis 4 und 7 und die Absätze 2 und 3 gelten entsprechend mit der Maßgabe, dass die Frist nach Absatz 1 Satz 7 am 30. Juni 2022 endet, die Frist nach Absatz 1 Satz 2 am 30. September 2021 endet, die Frist nach Absatz 1 Satz 3 am 31. Dezember 2021 endet und die Satzung vom Bundesministerium für Gesundheit zu genehmigen ist.
-
-# § 416 – Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
-
-§ 251 Absatz 4c in der bis zum 31. Dezember 2019 geltenden Fassung sowie § 242 Absatz 3 Satz 1 Nummer 1 in der bis zum 30. Juni 2020 geltenden Fassung sind weiterhin anzuwenden, wenn die Berufsausbildung in einer außerbetrieblichen Einrichtung vor dem 1. Januar 2020 begonnen wurde.
-
-# § 416 – Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen
-
-Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die §§ 155, 171d Absatz 2 in der bis zum 31. März 2020 geltenden Fassung anwendbar.
-
-§ 416 (früher § 329) (doppelt): Eingef. durch Art. 5 Nr. 36 G v. 22.3.2020 I 604 mWv 1.4.2020; (+++ Änderungsanweisung gem. Art. 5 Nr. 11 G v. 12.06.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
+2. keine Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab dem Zeitpunkt, zu dem der Arbeitgeber mit Zustimmung der Teilnehmerin oder des Teilnehmers Beiträge zahlt.
 
 # § 417 – Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
 
 Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.
+
+# Anlage – (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung
+
+(Fundstelle: BGBl. I 2021, 1350 – 1361)
+
+  
+  
+
+|       |                                                                                                        |
+|:------|:-------------------------------------------------------------------------------------------------------|
+| 1     | Zusammenfassung                                                                                        |
+| 2     | Datenschutz-Folgenabschätzung (§ 307 Absatz 1 Satz 3 SGB V)                                            |
+| 2.1   | Systematische Beschreibung der Verarbeitungsvorgänge (Artikel 35 Absatz 7 Buchstabe a DSGVO)           |
+| 2.1.1 | Kategorien von Verarbeitungsvorgängen                                                                  |
+| 2.1.2 | Systematische Beschreibung                                                                             |
+| 2.2   | Notwendigkeit und Verhältnismäßigkeit (Artikel 35 Absatz 7 Buchstabe b DSGVO)                          |
+| 2.3   | Risiken für die Rechte und Freiheiten der betroffenen Personen (Artikel 35 Absatz 7 Buchstabe c DSGVO) |
+| 2.4   | Abhilfemaßnahmen (Artikel 35 Absatz 7 Buchstabe d DSGVO)                                               |
+| 2.5   | Einbeziehung betroffener Personen                                                                      |
+
+1  
+Zusammenfassung  
+  
+
+Diese Anlage enthält die Datenschutz-Folgenabschätzung nach Artikel 35 Absatz 10 der Verordnung (EU) 2016/679 (DSGVO) gemäß § 307 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V).   
+
+Die Datenschutz-Folgenabschätzung dieser Anlage betrachtet ausschließlich die von der Gesellschaft für Telematik zugelassenen Komponenten der dezentralen Telematikinfrastruktur (TI) nach § 306 Absatz 2 Nummer 1 SGB V. Da diese dezentralen Komponenten jedoch nur einen Teilbereich der gesamten IT-Unterstützung beim Leistungserbringer darstellen und der Leistungserbringer regelmäßig weitere Betriebsmittel nutzen wird, hat der Leistungserbringer zu prüfen, ob nach Artikel 35 DSGVO für diese weiteren Betriebsmittel eine ergänzende Datenschutz-Folgenabschätzung durchzuführen ist.   
+
+Ergebnis der Datenschutz-Folgenabschätzung (§ 307 Absatz 1 Satz 3 SGB V):  
+  
+
+Die korrekte Nutzung einer von der Gesellschaft für Telematik gemäß § 325 SGB V zugelassenen Komponente der dezentralen Infrastruktur der TI nach § 306 Absatz 2 Nummer 1 SGB V ist geeignet, ein Schutzniveau zu gewährleisten, das dem hohen Risiko entspricht, welches aus der Datenverarbeitung für die Rechte und Freiheiten der Betroffenen folgt, sofern die Komponenten vom Leistungserbringer gemäß Betriebshandbuch betrieben werden und der Leistungserbringer für seine Ablauforganisation sowie die weiteren genutzten dezentralen Betriebsmittel (z. B. IT-gestützter Arbeitsplatz, aktive Netzwerkkomponenten) die Vorschriften zum Schutz personenbezogener Daten einhält.   
+
+Die technischen Maßnahmen der Komponenten der dezentralen Infrastruktur der TI zur Gewährleistung der Datensicherheit werden gemäß § 311 Absatz 2 SGB V im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik (BSI) und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI) festgelegt und wirken den Risiken für die Rechte und Freiheiten der Betroffenen angemessen entgegen. Die korrekte Implementierung dieser Maßnahmen in den Komponenten der dezentralen Infrastruktur der Hersteller wird der Gesellschaft für Telematik im Rahmen des Zulassungsprozesses gemäß § 325 SGB V nachgewiesen. 
+Die in dieser Anlage betrachteten Verarbeitungsvorgänge der dezentralen Komponenten der TI entsprechen den konkreten Verarbeitungsvorgängen in den Komponenten der dezentralen TI eines Leistungserbringers. Die Komponenten der dezentralen TI stellen technisch sicher, dass Leistungserbringer mit diesen Komponenten ausschließlich die in dieser Anlage betrachteten Verarbeitungsvorgänge durchführen können. Es ist mit diesen Komponenten nicht möglich, darüber hinausgehende oder abweichende Verarbeitungsvorgänge durchzuführen. Zur Verhinderung einer negativen Beeinflussung der Verarbeitungen in den Komponenten besitzen die Komponenten geprüfte Schutzmaßnahmen. Die konkrete Einsatzumgebung der Komponenten der dezentralen TI ist spezifisch für den jeweiligen Leistungserbringer; für diese hat der Leistungserbringer daher erforderlichenfalls eine eigene ergänzende Datenschutz-Folgenabschätzung durchzuführen.
+
+2  
+Datenschutz-Folgenabschätzung (§ 307 Absatz 1 Satz 3 SGB V)  
+  
+
+Die Datenschutz-Folgenabschätzung für die Komponenten der dezentralen Infrastruktur der TI gemäß § 306 Absatz 2 Nummer 1 SGB V basiert auf den Kriterien der „Leitlinien zur Datenschutz-Folgenabschätzung (DSFA) und Beantwortung der Frage, ob eine Verarbeitung im Sinne der Verordnung 2016/679 ,wahrscheinlich ein hohes Risiko mit sich bringt‘ (Artikel 29 WP 248 Rev. 1)“ der Datenschutzgruppe nach Artikel 29 (nun Europäischer Datenschutzausschuss; der Europäische Datenschutzausschuss hat die mit der Datenschutz-Grundverordnung zusammenhängenden Leitlinien der Artikel-29-Datenschutzgruppe – darunter die soeben genannte – bei seiner ersten Plenarsitzung bestätigt, so dass diese fortgelten).
+
+2.1  
+Systematische Beschreibung der Verarbeitungsvorgänge (Artikel 35 Absatz 7 Buchstabe a DSGVO)  
+  
+
+Mittels der Komponenten der dezentralen TI nutzen Leistungserbringer Anwendungen der TI, Dienste der zentralen TI oder der Anwendungsinfrastruktur der TI sowie über die TI erreichbare Anwendungen bzw. Dienste. Die Komponenten bieten den Leistungserbringern zudem Funktionen zur Ver- bzw. Entschlüsselung und Signatur von Daten.   
+
+Die Gesellschaft für Telematik und die Krankenkassen stellen Informationsmaterial öffentlich zur Verfügung, in dem die Funktionsweise der Anwendungen der TI erklärt wird. Zudem veröffentlicht die Gesellschaft für Telematik auf ihrer Internetseite die Spezifikationen, auf deren Basis die Komponenten und Dienste der TI entwickelt und zugelassen werden müssen.
+
+2.1.1  
+Kategorien von Verarbeitungsvorgängen  
+  
+
+Die Verarbeitungsvorgänge in der dezentralen Infrastruktur lassen sich in drei Kategorien unterteilen:
+
+Kategorie 1: (ausschließlich) Transport von Daten ohne weitere Verarbeitung
+
+Kategorie 2: Weitere Verarbeitung (betrifft ausschließlich Verschlüsselung, Signatur, Authentifizierung)
+
+Kategorie 3: Verarbeitungen, die über jene in den Kategorien 1 und 2 hinausgehen.   
+
+Kategorie 1: (ausschließlich) Transport von Daten ohne weitere Verarbeitung  
+  
+
+Diese Kategorie umfasst alle Verarbeitungsvorgänge, in denen einer Komponente der dezentralen Infrastruktur personenbezogene Daten übergeben werden (z. B. vom Primärsystem) und in denen die Komponente der dezentralen Infrastruktur die übergebenen Daten unverändert an die vorgesehene Empfängerkomponente weiterleitet.   
+
+Empfängerkomponenten können Teil der zentralen TI, der Anwendungsinfrastruktur der TI oder eines an die TI angeschlossenen Netzes sein. Empfängerkomponenten können selbst Teil der dezentralen Infrastruktur sein (z. B. Kartenterminals).   
+
+Die Komponente der dezentralen Infrastruktur übernimmt für diese Verarbeitungsvorgänge lediglich eine Weiterleitungsfunktion. Eine weitere Verarbeitung der transportierten Daten erfolgt nicht.   
+
+Zu dieser Kategorie gehören insbesondere Verarbeitungsvorgänge
+
+der weiteren Anwendungen nach § 327 SGB V,
+
+der sicheren Übermittlungsverfahren nach § 311 Absatz 1 Nummer 5 SGB V sowie
+
+der Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2, 6 und 7 SGB V.   
+
+Kategorie 2: Weitere Verarbeitung (Verschlüsselung, Signatur, Authentifizierung)  
+  
+
+Zu dieser Kategorie gehören die Ver- und Entschlüsselungen sowie die Signaturoperationen, die mittels der Verschlüsselungs- und Signaturfunktionen der dezentralen Infrastruktur durchgeführt werden. Hier werden die zu verschlüsselnden bzw. zu entschlüsselnden Daten sowie die zu signierenden Daten übergeben. Es erfolgt keine über die Ver- bzw. Entschlüsselung bzw. Signatur hinausgehende Verarbeitung in den Komponenten der dezentralen Infrastruktur.   
+
+Die Funktionen zur Ver- und Entschlüsselung sowie der Signatur können durch Anwendungen der Kategorie 1 und 3 genutzt werden.   
+
+Kategorie 3: Verarbeitungen, die über jene in den Kategorien 1 und 2 hinausgehen  
+  
+
+In diesen Verarbeitungsvorgängen werden die einer Komponente der dezentralen Infrastruktur übergebenen Daten in der dezentralen Infrastruktur anwendungsspezifisch verarbeitet, d. h. die Verarbeitung ist im Gegensatz zu den bisherigen Kategorien nicht auf den Transport, die Ver- und Entschlüsselung oder die Signatur beschränkt.   
+
+Zu dieser Kategorie gehören die Verarbeitungsvorgänge
+
+des Versichertenstammdatenmanagements nach § 291b SGB V sowie
+
+der Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 und 3 bis 5 SGB V.
+
+2.1.2  
+Systematische Beschreibung  
+  
+
+Die systematische Beschreibung hat nach Erwägungsgrund (ErwG) 90 sowie Artikel 35 Absatz 7 Buchstabe a und Absatz 8 DSGVO sowie nach den „Leitlinien zur Datenschutz-Folgenabschätzung (DSFA) und Beantwortung der Frage, ob eine Verarbeitung im Sinne der Verordnung 2016/679 ,wahrscheinlich ein hohes Risiko mit sich bringt‘“ der Artikel-29-Datenschutzgruppe (WP 248) zu enthalten:  
+  
+
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 28%" /><col style="width: 71%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Kriterium</th><th>Beschreibung</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Art der Verarbeitung:<br />
+(ErwG 90 DSGVO)</td><td>siehe Abschnitt 2.1.1</td></tr><tr class="even"><td style="text-align: left;">Umfang der Verarbeitung:<br />
+(ErwG 90 DSGVO)</td><td>Die Komponenten der dezentralen Infrastruktur der TI verarbeiten insbesondere besondere Kategorien personenbezogener Daten gemäß Artikel 9 Absatz 1 DSGVO, nämlich Gesundheitsdaten natürlicher Personen (Versicherter) i.S.v. Artikel 4 Nummer 15 DSGVO.<br />
+Dies sind beispielsweise elektronische Arztbriefe, medizinische Befunde und Diagnosen, der elektronische Medikationsplan nach § 31a SGB V, die elektronischen Notfalldaten, elektronische Impfdokumentation oder elektronische Verordnungen.<br />
+Es werden zudem insbesondere Daten gemäß § 291a Absatz 2 und 3 SGB V (Versichertenstammdaten) verarbeitet.<br />
+Zum ordnungsgemäßen Betrieb der Komponenten der dezentralen Infrastruktur der TI erfolgt eine Protokollierung innerhalb der Komponenten. Diese Protokolle enthalten keine personenbezogenen Daten gemäß Artikel 9 Absatz 1 DSGVO. Sie können personenbezogene Daten des Leistungserbringers enthalten, bei denen es sich regelmäßig nicht um besondere Kategorien personenbezogener Daten handelt.<br />
+In den Komponenten werden die Benutzernamen der berechtigten Administratoren hinterlegt. Die Benutzernamen werden vom Leistungserbringer oder vom beauftragten Dienstleister frei gewählt. Die Benutzernamen der Administratoren können auch Pseudonyme sein, sofern die Administratoren eindeutig unterschieden werden können.<br />
+Personenbezogene Daten von Versicherten können in Protokollen nur im Falle eines Fehlers zum Zwecke der Behebung des Fehlers temporär gespeichert werden.<br />
+Zum Zwecke der netztechnischen Adressierung besitzen Komponenten der dezentralen Infrastruktur IP-Adressen.<br />
+Von der Verarbeitung betroffene Personen sind:<dl><dt>–</dt><dd>Versicherte,</dd><dt>–</dt><dd>Leistungserbringer sowie</dd><dt>–</dt><dd>ggf. Administratoren der Komponenten.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;">Umstände bzw. Kontext der Verarbeitung:<br />
+(Artikel-29-Datenschutzgruppe, WP 248, 21)</td><td>Kategorie 1:<br />
+Die Verarbeitung erfolgt im Kontext einer Anwendung bzw. der Nutzung eines Dienstes durch den Leistungserbringer, die bzw. der über die dezentrale Infrastruktur der TI technisch erreichbar ist (z. B. Nutzung einer weiteren Anwendung nach § 327 SGB V).<br />
+Kategorie 2:<br />
+Die Verarbeitung erfolgt im Rahmen einer vom Leistungserbringer gewünschten Ver- bzw. Entschlüsselung oder Signatur von Daten, die der Leistungserbringer auswählt.<br />
+Kategorie 3:<br />
+Die Verarbeitung der personenbezogenen Daten in den dezentralen Komponenten der TI erfolgt im Rahmen der Versorgung von Versicherten gemäß den im SGB V festgelegten Zwecken.</td></tr><tr class="even"><td style="text-align: left;">Zweck der Verarbeitung:<br />
+(Artikel 35 Absatz 7 Buchstabe a DSGVO)</td><td>Kategorie 1:<br />
+Der Zweck beschränkt sich auf die Weiterleitung der Daten an den korrekten Empfänger. Es erfolgt keine darüber hinausgehende Verarbeitung der Daten in den Komponenten der dezentralen Infrastruktur der TI.<br />
+Kategorie 2:<br />
+Zweck ist die Ver- bzw. Entschlüsselung bzw. Signatur der übergebenen Daten.<br />
+Kategorie 3:<br />
+Die Zwecke der Verarbeitungen sind gesetzlich im SGB V festgelegt.<dl><dt>–</dt><dd>Den Zweck des Versichertenstammdatenmanagements legt § 291b Absatz 1 und 2 SGB V fest.</dd><dt>–</dt><dd>Die Anwendungen nach § 334 Absatz 1 Satz 2 SGB V dienen gemäß § 334 Absatz 1 Satz 1 SGB V der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der Versorgung. Der Zweck der einzelnen Anwendungen ist in § 334 Absatz 1 Satz 2 SGB V festgelegt und wird für einzelne Anwendungen in weiteren Paragraphen des SGB V konkretisiert (z. B. für die elektronische Patientenakte in § 341 SGB V).</dd></dl></td></tr><tr class="odd"><td style="text-align: left;">Empfängerinnen und Empfänger:<br />
+(Artikel-29-Datenschutzgruppe, WP 248, 21)</td><td>Kategorie 1:<br />
+Die der dezentralen Komponente übergebenen Daten werden an die gewählte Empfängerkomponente weitergeleitet. Die Empfänger der Daten in den Empfängerkomponenten sind abhängig von der Anwendung bzw. dem Dienst, zu der bzw. zu dem die Empfängerkomponente gehört.<br />
+Kategorie 2:<br />
+Empfänger der ver- bzw. entschlüsselten bzw. signierten Daten ist der Leistungserbringer, der die Daten der Komponenten zur Ver- bzw. Entschlüsselung bzw. Signatur übergeben hat.<br />
+Kategorie 3:<br />
+Die in der dezentralen Komponente verarbeiteten Daten einer Anwendung können an die berechtigten Empfänger dieser Anwendung weitergeleitet werden. Die für die Anwendungen dieser Kategorie berechtigten Empfänger sind im SGB V gesetzlich festgelegt; ihnen wird durch Gesetz eine Berechtigung zum Zugriff auf die Daten der Anwendungen erteilt.</td></tr><tr class="even"><td style="text-align: left;">Speicherdauer:<br />
+(Artikel-29-Datenschutzgruppe, WP 248, 21)</td><td>In den Komponenten der dezentralen Infrastruktur der TI werden keine personenbezogenen Daten gemäß Artikel 9 Absatz 1 DSGVO persistent gespeichert. Sie werden nur temporär für den erforderlichen Zweck verarbeitet und danach sofort gelöscht.<br />
+Eine persistente Speicherung von personenbezogenen Daten kann in den Protokollen der Komponenten erfolgen. Die Protokolle mit Personenbezug werden dabei nach einem festgelegten Turnus durch die Komponente automatisch gelöscht bzw. können aktiv vom Administrator der Komponente gelöscht werden.<br />
+Die nach außen sichtbaren IP-Adressen der Komponenten werden regelmäßig gewechselt.</td></tr><tr class="odd"><td style="text-align: left;">Funktionelle Beschreibung der Verarbeitung:<br />
+(Artikel 35 Absatz 7 Buchstabe a DSGVO)</td><td>Kategorie 1:<br />
+Hier erfolgt nur eine Weiterleitung übergebener Daten. Es erfolgt keine weitere Verarbeitung der Daten.<br />
+Kategorie 2:<br />
+Es handelt sich ausschließlich um Funktionen zur Ver- und Entschlüsselung sowie Signatur.<br />
+Kategorie 3:<br />
+Die Funktionalität dieser Anwendungen ist gesetzlich festgelegt. Die Konkretisierung dieser Funktionen in den Komponenten erfolgt in den Spezifikationen der Gesellschaft für Telematik, die auf deren Internetseite veröffentlicht werden.</td></tr><tr class="even"><td style="text-align: left;">Beschreibung der Anlagen (Hard- und Software bzw. sonstige Infrastruktur):<br />
+(Artikel-29-Datenschutzgruppe, WP 248, 21)</td><td>Die Komponenten der dezentralen Infrastruktur werden von der Gesellschaft für Telematik spezifiziert. Die Spezifikationen sind von der Gesellschaft für Telematik auf ihrer Internetseite veröffentlicht. Bei der Spezifikation werden die technischen und organisatorischen Maßnahmen zum Schutz der verarbeiteten personenbezogenen Daten gemäß Artikel 25 und 32 DSGVO berücksichtigt.</td></tr><tr class="odd"><td style="text-align: left;">Eingehaltene, gemäß Artikel 40 DSGVO genehmigte Verhaltensregeln:<br />
+(Artikel-29-Datenschutzgruppe, WP 248, 21)</td><td>Es wurden keine Verhaltensregeln gemäß Artikel 40 DSGVO berücksichtigt.</td></tr></tbody></table>
+
+2.2  
+Notwendigkeit und Verhältnismäßigkeit (Artikel 35 Absatz 7 Buchstabe b DSGVO)  
+  
+
+Im Rahmen der Bewertung der Notwendigkeit und Verhältnismäßigkeit der Verarbeitungsvorgänge müssen nach den ErwGen 90 und 96, nach Artikel 35 Absatz 7 Buchstabe b und d DSGVO sowie nach den „Leitlinien zur Datenschutz-Folgenabschätzung (DSFA) und Beantwortung der Frage, ob eine Verarbeitung im Sinne der Verordnung 2016/679 ,wahrscheinlich ein hohes Risiko mit sich bringt‘“ der Artikel-29-Datenschutzgruppe (WP 248) Maßnahmen zur Einhaltung der Verordnung bestimmt werden, wobei Folgendes berücksichtigt werden muss:  
+  
+
+Maßnahmen im Sinne der Verhältnismäßigkeit und Notwendigkeit der Verarbeitung (Artikel 5 und 6 DSGVO) sowie
+
+Maßnahmen im Sinne der Rechte der Betroffenen (Artikel 12 bis 21, 28, 36 und Kapitel V DSGVO).   
+
+Kriterium
+
+–  
+Artikel 6 Absatz 1 Buchstabe c DSGVO i.V.m. § 291b SGB V beim Versichertenstammdatenmanagement bzw.
+
+–  
+einer Einwilligung des Versicherten nach Artikel 9 Absatz 2 Buchstabe a DSGVO und § 339 SGB V bei Anwendungen nach § 334 SGB V.
+
+Angemessenheit und Erheblichkeit der Verarbeitung, Beschränktheit der Verarbeitung auf das notwendige Maß:  
+(Artikel-29-Datenschutzgruppe, WP 248, 21 i.V.m. Artikel 5 Absatz 1 Buchstabe c DSGVO)
+
+Kategorie 1:  
+Die Verarbeitung ist auf die Weiterleitung von Daten an die vom Leistungserbringer gewünschte Empfängerkomponente beschränkt. Eine weitere Verarbeitung der Daten erfolgt nicht. Die Weiterleitung der Daten ist notwendig, damit der Leistungserbringer die zur Empfängerkomponente gehörende Anwendung nutzen kann. Da neben der Weiterleitung keine weitere Verarbeitung der Daten in den Komponenten der dezentralen Infrastruktur erfolgt, ist die Verarbeitung mit Blick auf ihren Zweck minimal.
+
+ 
+
+Kategorie 2:  
+Um Daten ver- bzw. entschlüsseln bzw. signieren zu können, müssen diese Daten verarbeitet werden. Eine darüber hinausgehende Verarbeitung der Daten erfolgt nicht, so dass die Datenverarbeitung mit Blick auf ihren Zweck minimal ist. Kategorie 3:  
+Die Verarbeitung setzt die gesetzlichen Vorgaben des SGB V um. Es erfolgen keine Verarbeitungen, die über den gesetzlichen Zweck hinausgehen.
+
+–  
+Der Umfang der Versichertenstammdaten ist in § 291a SGB V festgelegt.
+
+–  
+Die in den Anwendungen nach § 334 SGB V verarbeiteten medizinischen Daten sind im SGB V abstrakt gesetzlich festgelegt. Die Konkretisierung dieser Daten erfolgt in den Spezifikationen der Gesellschaft für Telematik, die diese auf ihrer Internetseite veröffentlicht. Die Festlegungen in den Spezifikationen werden nach § 311 Absatz 2 SGB V im Einvernehmen mit dem BSI und dem BfDI getroffen.
+
+Die Protokolldaten in den Komponenten der dezentralen Infrastruktur dienen der Analyse von Fehlern und Sicherheitsvorfällen sowie der Analyse der Performanz. Die Protokolle sind für einen sicheren und ordnungsgemäßen Betrieb des Konnektors notwendig. In den Protokollen werden keine personenbezogenen Daten gemäß Artikel 9 Absatz 1 DSGVO gespeichert. Die IP-Adresse des Konnektors ist für die Kommunikation mit der zentralen TI technisch notwendig. Es wird bei jedem Neuaufbau einer Verbindung zur zentralen TI zufällig eine IP-Adresse zugewiesen.
+
+Speicherbegrenzung:  
+(Artikel-29-Datenschutzgruppe, WP 248, 21 i.V.m. Artikel 5 Absatz 1 Buchstabe e DSGVO)
+
+siehe Speicherdauer in Abschnitt 2.1.2
+
+Informationspflicht gegenüber Betroffenem:  
+(Artikel-29-Datenschutzgruppe, WP 248, 21 i.V.m. Artikel 12, 13 und 14 DSGVO)
+
+Kategorie 1:  
+Die Verarbeitung in der dezentralen Infrastruktur der TI erfolgt im Rahmen einer Anwendung, die der Leistungserbringer über die dezentrale Infrastruktur technisch erreicht. Der Verantwortliche für die Anwendung hat die Informationspflichten gemäß DSGVO zu erfüllen. Kategorie 2:  
+Der Leistungserbringer verarbeitet seine eigenen Daten zu eigenen Zwecken. Eine Information von betroffenen Personen ist nicht erforderlich. Kategorie 3:  
+Der Leistungserbringer ist gemäß § 307 Absatz 1 Satz 1 SGB V Verantwortlicher für die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur und hat somit die Informationspflichten gegenüber den Betroffenen zu erfüllen. Begleitend werden Versicherten generelle Informationen zur TI zur Verfügung gestellt. Diesbezügliche gesetzliche Informationspflichten ergeben sich insbesondere aus den folgenden Normen:
+
+–  
+§ 314 SGB V verpflichtet die Gesellschaft für Telematik, auf ihrer Internetseite Informationen für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und barrierefreier Form zur Verfügung zu stellen.
+
+–  
+Die §§ 291, 342, 343 und 358 SGB V verpflichten die Krankenkassen zur Information von Versicherten:
+
+Gemäß § 291 Absatz 5 SGB V informiert die Krankenkasse den Versicherten spätestens bei der Versendung der elektronischen Gesundheitskarte an diesen umfassend und in allgemein verständlicher, barrierefreier Form über die Funktionsweise der elektronischen Gesundheitskarte und über die Art der personenbezogenen Daten, die nach § 291a SGB V mittels der elektronischen Gesundheitskarte zu verarbeiten sind.
+
+ 
+
+  
+Gemäß § 343 SGB V haben Krankenkassen umfassendes, geeignetes Informationsmaterial über die elektronische Patientenakte in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache und barrierefrei zur Verfügung zu stellen. Zur Unterstützung der Informationspflichten der Krankenkassen nach § 343 SGB V hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit dem BfDI geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
+
+Jede Krankenkasse richtet zudem nach § 342 Absatz 3 SGB V eine Ombudsstelle ein, an die sich Versicherte mit ihren Anliegen im Zusammenhang mit der elektronischen Patientenakte wenden können.
+
+Mit der Einführung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans haben die Krankenkassen den Versicherten auch hierzu nach § 358 Absatz 8 SGB V geeignetes Informationsmaterial in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache barrierefrei zur Verfügung zu stellen. Auch dieses Informationsmaterial ist gemäß § 358 Absatz 9 SGB V im Einvernehmen mit dem BfDI zu erstellen.
+
+Auskunftsrecht der betroffenen Personen:  
+(Artikel-29-Datenschutzgruppe, WP 248, 21 i.V.m. Artikel 15 DSGVO)
+
+Diese Anlage i.V.m. den Informationen gemäß den §§ 314 und 343 SGB V gibt den Versicherten Auskunft über die in Artikel 15 DSGVO geforderten Informationen. Die Informationen nach § 314 Satz 1 Nummer 7 und 8 SGB V enthalten insbesondere die Benennung der Verantwortlichen für die Daten im Hinblick auf die verschiedenen Datenverarbeitungsvorgänge und die Pflichten der datenschutzrechtlich Verantwortlichen sowie die Rechte des Versicherten gegenüber den datenschutzrechtlich Verantwortlichen nach der DSGVO. In den Komponenten der dezentralen Infrastruktur werden zudem keine Daten von Versicherten persistent gespeichert.
+
+Recht auf Berichtigung  
+und Löschung:  
+(Artikel-29-Datenschutzgruppe, WP 248, 21 i.V.m. Artikel 16, 17 und 19)
+
+In den Komponenten der dezentralen Infrastruktur werden Daten von Versicherten nur temporär verarbeitet und dann sofort gelöscht. Es erfolgt keine persistente Speicherung von Daten der Versicherten.
+
+Recht auf  
+Datenübertragbarkeit:  
+(Artikel 20 DSGVO)
+
+Es werden in den Komponenten der dezentralen Infrastruktur keine Daten von Versicherten persistent gespeichert, so dass keine Daten übertragen werden könnten.
+
+Auftragsverarbeiterinnen  
+und Auftragsverarbeiter:  
+(Artikel 28 DSGVO)
+
+Der Leistungserbringer ist nach § 307 Absatz 1 Satz 1 SGB V Verantwortlicher für die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur. Falls der Leistungserbringer einen Auftragsverarbeiter mit dem Betrieb der dezentralen Komponenten der TI beauftragt, hat der Leistungserbringer die Einhaltung der Vorgaben gemäß Artikel 28 DSGVO zu gewährleisten.
+
+Schutzmaßnahmen  
+bei der Übermittlung  
+in Drittländer:  
+(Kapitel V DSGVO)
+
+Kategorie 1:  
+Die Verarbeitung in der dezentralen Infrastruktur der TI erfolgt im Rahmen einer Anwendung, die der Leistungserbringer über die dezentrale Infrastruktur technisch erreicht. Der Verantwortliche für die Anwendung hat bei der Übermittlung in Drittländer die Schutzmaßnahmen gemäß DSGVO zu berücksichtigen. Kategorie 2:  
+Es erfolgt keine Übermittlung an Drittländer. Kategorie 3:  
+Es erfolgt keine Übermittlung an Drittländer, da die Dienste innerhalb der EU bzw. des EWR betrieben werden müssen.
+
+Vorherige Konsultation:  
+(Artikel 36 und  
+ErwG 96 DSGVO)
+
+Gemäß § 311 Absatz 2 SGB V hat die Gesellschaft für Telematik die Festlegungen und Maßnahmen für die TI nach § 311 Absatz 1 Nummer 1 SGB V im Einvernehmen mit dem BSI und dem BfDI zu treffen. Dies umfasst insbesondere auch die Erstellung der funktionalen und technischen Vorgaben der Komponenten der dezentralen Infrastruktur der TI.
+
+2.3
+
+Risiken für die Rechte und Freiheiten der betroffenen Personen (Artikel 35 Absatz 7 Buchstabe c DSGVO)  
+  
+
+Die Risiken für die Rechte und Freiheiten der betroffenen Personen sind nach ihrer Ursache, Art, Besonderheit, Schwere und Eintrittswahrscheinlichkeit zu bewerten (ErwGe 76, 77, 84 und 90 DSGVO). Nach den ErwGen 75 und 85 DSGVO sind unter anderem die potentiellen Risiken dieses Abschnitts genannt.   
+
+Risikoquellen sind  
+  
+
+beim Leistungserbringer tätige Personen inklusive des Leistungserbringers als Verantwortlicher, die unbeabsichtigt und unbewusst den zulässigen Rahmen der Verarbeitung überschreiten könnten,  
+  
+
+Angreifer, die bewusst aus der Umgebung des Leistungserbringers in die Verarbeitungsvorgänge der Komponenten der dezentralen TI eingreifen wollen,  
+  
+
+Angreifer, die bewusst von außerhalb der Leistungserbringerumgebung in die Verarbeitungsvorgänge der Komponenten der dezentralen TI eingreifen wollen,  
+  
+
+Hersteller der Komponenten der dezentralen TI sowie  
+  
+
+technische Fehlfunktionen der Komponenten der dezentralen TI.   
+
+Da in den Komponenten der dezentralen TI besondere Kategorien personenbezogener Daten verarbeitet werden, besteht ein hohes Ausgangsrisiko für die Rechte und Freiheiten natürlicher Personen. Das hohe Ausgangsrisiko wird durch die Abhilfemaßnahmen in Abschnitt 2.4 auf ein angemessenes Risiko gesenkt, falls die dezentralen Komponenten vom Leistungserbringer gemäß Betriebshandbuch betrieben werden. Durch die Anwendung der in § 75b SGB V geforderten Richtlinie zur IT-Sicherheit und die Anforderungen an die Wartung von Diensten gemäß § 332 SGB V werden Risiken im Betrieb der dezentralen Komponenten der TI wesentlich gesenkt.   
+
+Da die Maßnahmen der Komponenten der dezentralen TI zur Gewährleistung der Datensicherheit in gleicher Weise auf alle in den Komponenten verarbeiteten personenbezogenen Daten wirken und nicht spezifisch für einzelne Verarbeitungsvorgänge sind, erfolgt die Bewertung der Angemessenheit der Abhilfemaßnahmen der Komponenten hinsichtlich der Daten, deren Verarbeitung die höchsten Risiken für die Betroffenen bedeutet, nach dem Maximum-Prinzip. Es handelt sich hierbei um die personenbezogenen Daten nach Artikel 9 Absatz 1 DSGVO der Versicherten. Nach diesen Daten bestimmen sich die in den Komponenten zu treffenden Abhilfemaßnahmen. Die Abhilfemaßnahmen sind dann ebenfalls angemessen für die Verarbeitung der weniger sensiblen Daten.   
+
+Die Risikobewertung orientiert sich am Standard-Datenschutzmodell (SDM) der Aufsichtsbehörden für den Datenschutz und den dort definierten Gewährleistungszielen. Die Schadens- und Eintrittswahrscheinlichkeitsstufen sowie die Risikomatrix orientieren sich am DSK-Kurzpapier Nummer 18 „Risiko für die Rechte und Freiheiten natürlicher Personen“ i.V.m. der ISO/IEC 29134:2017 zum Privacy Impact Assessment. In der folgenden Tabelle werden die einzelnen Risiken identifiziert, inklusive Schadenshöhe, Schadensereignissen, betroffenen Gewährleistungszielen des Standard-Datenschutzmodells und Eintrittswahrscheinlichkeit. Die Bewertung der Eintrittswahrscheinlichkeit erfolgt unter Berücksichtigung der referenzierten Abhilfemaßnahmen, die detailliert in Abschnitt 2.4 beschrieben sind.   
+
+Schaden
+
+Beschreibung der Schadensereignisse
+
+Eintrittswahrscheinlichkeit (EWS)  
+mit Abhilfemaßnahmen  
+(Abschnitt 2.4)
+
+Physische, materielle oder  
+immaterielle Schäden,  
+finanzielle Verluste,  
+erhebliche wirtschaftliche  
+Nachteile:  
+(ErwG 90 i.V.m  
+85 DSGVO)  
+Schadenshöhe: groß
+
+Durch die unbefugte, unrechtmäßige oder zweckfremde Verarbeitung sowie eine unbefugte Offenlegung oder Änderung der in den Komponenten der dezentralen TI verarbeiteten Gesundheitsdaten der Versicherten können Versicherte große immaterielle Schäden erleiden. Bei einer unbefugten Offenlegung der Gesundheitsdaten ihrer Patienten können Leistungserbringer materielle, immaterielle, finanzielle bzw. wirtschaftliche Schäden erleiden, da Leistungserbringer dem Berufsgeheimnis mit zugehörigen Straf- und Bußgeldvorschriften, insbesondere dem Straftatbestand des § 203 StGB, unterliegen. Zusätzlich können Geldbußen gemäß Artikel 83 DSGVO verhängt werden. Die Nutzung der Komponenten der dezentralen Infrastruktur der TI und die Anbindung an die TI dürfen nicht dazu führen, dass Leistungserbringer gegen das Berufsgeheimnis oder die Vorgaben der DSGVO verstoßen.
+
+EWS: geringfügig
+
+–  
+Minimierung der Ver-  
+arbeitung personen-  
+bezogener Daten
+
+–  
+Schnellstmögliche  
+Pseudonymisierung
+
+–  
+Datensicherheits-  
+maßnahmen
+
+ 
+
+Betroffene Gewährleistungsziele (SDM):  
+Datenminimierung, Nichtverkettung, Vertraulichkeit, Integrität
+
+ 
+
+Verlust der Kontrolle über  
+personenbezogene Daten:  
+(ErwG 90 i.V.m. 85 DSGVO)  
+Schadenshöhe: groß
+
+Ein Angreifer (insbesondere auch der Hersteller) könnte die Komponenten der dezentralen TI manipulieren, was zu einer für den Versicherten oder den Leistungserbringer intransparenten Datenverarbeitung führen würde. Es könnte das Risiko bestehen, dass eine Verarbeitung von personenbezogenen Daten in den Komponenten der dezentralen Infrastruktur für die Versicherten im Nachhinein nicht erkannt werden kann und dass er nicht in diese Datenverarbeitung intervenieren (z. B. ihr widersprechen) kann. Betroffene Gewährleistungsziele (SDM):  
+Transparenz, Intervenierbarkeit
+
+EWS: geringfügig
+
+–  
+Transparenz in Bezug  
+auf die Funktionen  
+und die Verarbeitung  
+personenbezogener Daten
+
+–  
+Überwachung der  
+Verarbeitung  
+personenbezogener Daten durch die  
+betroffenen Personen
+
+–  
+Datensicherheits-  
+maßnahmen
+
+Diskriminierung, Rufschädigung, erhebliche gesellschaftliche Nachteile:  
+(ErwG 90 i.V.m. 85 DSGVO)  
+Schadenshöhe: groß
+
+Die Verarbeitung von Daten besonderer Kategorien personenbezogener Daten gemäß Artikel 9 Absatz 1 DSGVO birgt Risiken einer Diskriminierung oder Rufschädigung für Versicherte, falls Gesundheitsdaten über den Versicherten offengelegt, unbefugt oder unrechtmäßig verarbeitet werden. Dies kann zu erheblichen gesellschaftlichen Nachteilen für den Versicherten führen. Falls Gesundheitsdaten, die ein Leistungserbringer verarbeitet, unberechtigt offengelegt werden und der Leistungserbringer somit sein Berufsgeheimnis verletzt, kann dies zu einer Rufschädigung des Leistungserbringers führen. Betroffene Gewährleistungsziele (SDM):  
+Datenminimierung, Nichtverkettung, Vertraulichkeit, Integrität
+
+EWS: geringfügig
+
+–  
+Minimierung der Ver-  
+arbeitung personen-  
+bezogener Daten
+
+–  
+Schnellstmögliche  
+Pseudonymisierung
+
+–  
+Datensicherheits-  
+maßnahmen
+
+–  
+Überwachung der  
+Verarbeitung  
+personenbezogener Daten durch die  
+betroffenen Personen
+
+Identitätsdiebstahl  
+oder -betrug:  
+(ErwG 90 i.V.m. 85 DSGVO)  
+Schadenshöhe: groß
+
+In den Komponenten der dezentralen Infrastruktur der TI werden kryptographische Identitäten von Versicherten und Leistungserbringern verarbeitet. Ein Missbrauch dieser Identitäten durch eine unbefugte oder unrechtmäßige Nutzung muss verhindert werden, um Schäden für den Versicherten oder Leistungserbringer abzuwehren. Hierdurch könnte z. B. unter der Identität des Versicherten oder Leistungserbringers gehandelt werden, um medizinische Daten zu lesen, zu ändern oder weiterzugeben. Betroffene Gewährleistungsziele (SDM):  
+Datenminimierung, Nichtverkettung, Vertraulichkeit, Integrität
+
+EWS: geringfügig
+
+–  
+Minimierung der Ver-  
+arbeitung personen-  
+bezogener Daten
+
+–  
+Datensicherheits-  
+maßnahmen
+
+Verlust der Vertraulichkeit  
+bei Berufsgeheimnissen:  
+(ErwG 90 i.V.m. 85 DSGVO)  
+Schadenshöhe: groß
+
+In den Komponenten der dezentralen Infrastruktur der TI werden Daten verarbeitet, die unter das Berufsgeheimnis fallen. Der Verlust der Vertraulichkeit dieser Daten durch eine unbefugte Offenlegung muss verhindert werden, damit Leistungserbringer ihren Geheimhaltungspflichten nachkommen können. Neben einer Rufschädigung können den Leistungserbringer Straf- und Bußgeldvorschriften (insbesondere § 203 StGB) treffen. Betroffene Gewährleistungsziele (SDM):  
+Datenminimierung, Vertraulichkeit, Integrität
+
+EWS: geringfügig
+
+–  
+Minimierung der Ver-  
+arbeitung personen-  
+bezogener Daten
+
+–  
+Schnellstmögliche  
+Pseudonymisierung
+
+–  
+Datensicherheits-  
+maßnahmen
+
+Beeinträchtigung/Verlust  
+der Verfügbarkeit  
+Schadenshöhe: geringfügig
+
+Eine Beeinträchtigung bzw. der Verlust der Verfügbarkeit der Komponenten der dezentralen TI durch technische Fehlfunktionen könnte dazu führen, dass
+
+a) Dienste in der zentralen TI, der Anwendungsinfrastruktur der TI oder eines an die TI angeschlossenen Netzes oder
+
+b) lokale Funktionen (insbesondere Verschlüsselung, Signatur, Authentifizierung)
+
+EWS: überschaubar  
+Ein Ausfall einer  
+Komponente kann nicht ausgeschlossen werden. Zusätzliche  
+Abhilfemaßnahmen zur  
+Verfügbarkeit der  
+Komponenten der  
+dezentralen TI sind  
+aufgrund des geringen Risikos nicht erforderlich.
+
+vom Leistungserbringer nicht mehr genutzt werden können. Durch eine beeinträchtige Verfügbarkeit der Komponenten der dezentralen TI ergeben sich nur geringfügige Schäden für Versicherte oder Leistungserbringer, da die Verarbeitungen nicht zeitkritisch sind bzw. es Ersatzverfahren gibt. Es ist zudem nur eine Leistungserbringerumgebung betroffen. Betroffene Gewährleistungsziele (SDM):  
+Verfügbarkeit
+
+2.4
+
+Abhilfemaßnahmen (Artikel 35 Absatz 7 Buchstabe d DSGVO)  
+  
+
+Gemäß Artikel 35 Absatz 7 Buchstabe d DSGVO sind zur Bewältigung der Risiken Abhilfemaßnahmen, einschließlich Garantien, Sicherheitsvorkehrungen und Verfahren, umzusetzen, durch die die Risiken für die Rechte der Betroffenen eingedämmt werden und der Schutz personenbezogener Daten sichergestellt wird.   
+
+Als Maßnahmen, Garantien und Verfahren zur Eindämmung von Risiken werden insbesondere in den ErwGen 28, 78 und 83 DSGVO genannt:  
+  
+
+Kriterium
+
+Beschreibung
+
+Minimierung der  
+Verarbeitung personenbezogener Daten:  
+(ErwG 78 DSGVO)
+
+Kategorie 1:  
+Die Verarbeitung ist mit Blick auf den Zweck der Weiterleitung von Daten minimal. Eine über den Transport hinausgehende Verarbeitung erfolgt nicht. Der Umfang der transportierten Daten ist abhängig von der über die dezentrale Infrastruktur genutzten Anwendung. Der Verantwortliche dieser Anwendung hat entsprechende Maßnahmen zur Minimierung zu ergreifen. Dies liegt jedoch nicht in der Verantwortung des Leistungserbringers als Nutzer der Anwendung. Kategorie 2:  
+Die Verarbeitung ist minimal, da sie nur die zum Zwecke der Ver- bzw. Entschlüsselung bzw. Signatur benötigten Daten verarbeitet. Kategorie 3:  
+Die Verarbeitung ist minimal, da in den Anwendungen dieser Kategorie ausschließlich die Daten verarbeitet werden, die zur Erfüllung des gesetzlich vorgegebenen Zweckes erforderlich sind. Zudem werden Anwendungsdaten in den Komponenten der dezentralen Infrastruktur nach der Verarbeitung sofort gelöscht und nicht persistent gespeichert. Die Spezifikationen zu diesen Anwendungen sowie Art und Umfang der verarbeiteten Daten werden im Einvernehmen mit dem BfDI erstellt und sind öffentlich für eine Prüfung verfügbar.
+
+Schnellstmögliche  
+Pseudonymisierung  
+personenbezogener  
+Daten  
+(ErwG 28 und  
+78 DSGVO)
+
+Kategorie 1:  
+Die Daten werden unverändert weitergeleitet. Es erfolgt keine weitere Verarbeitung in den Komponenten der dezentralen Infrastruktur, d. h. auch keine Pseudonymisierung. Der Verantwortliche der Anwendung, zu der die transportierten Daten gehören, hat entsprechende Maßnahmen zur Pseudonymisierung zu ergreifen. Dies liegt jedoch nicht in der Verantwortung des Leistungserbringers als Nutzer der Anwendung. Kategorie 2:  
+Zweck ist die Ver- bzw. Entschlüsselung bzw. Signatur der übergebenen Daten. Eine Pseudonymisierung und damit Veränderung der Daten ist nicht gewünscht. Kategorie 3:  
+Eine Pseudonymisierung der personenbezogenen Daten in den Anwendungen dieser Kategorie erfolgt, sofern es für den gesetzlich vorgegebenen Zweck möglich ist. Bei der Gestaltung der Anwendungen werden die Artikel 25 und 32 DSGVO berücksichtigt. Die Spezifikationen zu diesen Anwendungen sowie Art und Umfang der verarbeiteten Daten werden im Einvernehmen mit dem BfDI erstellt und sind öffentlich für eine Prüfung verfügbar.
+
+Transparenz in Bezug  
+auf die Funktionen und  
+die Verarbeitung  
+personenbezogener Daten  
+(ErwG 78 DSGVO):
+
+Durch die Veröffentlichung der Spezifikationen der Komponenten der dezentralen Infrastruktur auf der Internetseite der Gesellschaft für Telematik können die Funktionen und die generelle Verarbeitung personenbezogener Daten in den Komponenten der dezentralen Infrastruktur der TI von der Öffentlichkeit kostenlos nachvollzogen werden. Experten für Datenschutz und Sicherheit können die Spezifikationen auf die Einhaltung der Vorschriften des Datenschutzes prüfen. Die Gesellschaft für Telematik und die Krankenkassen sind gemäß den §§ 314 und 343 SGB V verpflichtet, für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und barrierefreier Form Informationen zur TI zur Verfügung zu stellen. Hierzu gehören insbesondere auch Informationen zum Datenschutz. Zur Unterstützung der Informationspflichten der Krankenkassen nach § 343 SGB V hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit dem BfDI geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
+
+Überwachung der  
+Verarbeitung personenbezogener Daten  
+durch die betroffenen  
+Personen  
+(ErwG 78 DSGVO)
+
+Kategorie 1:  
+Von den Verantwortlichen der Anwendungen, die über die Komponenten der dezentralen Infrastruktur für den Leistungserbringer erreichbar sind, sind Maßnahmen nach ErwG 78 DSGVO zu treffen. Kategorie 2:  
+In den Komponenten der dezentralen Infrastruktur erfolgt eine Protokollierung der Nutzung der Funktionen, die eine Überwachung der Verarbeitung ermöglicht. Kategorie 3:  
+Für die Anwendungen dieser Kategorie bestehen gesetzliche Protokollierungspflichten gemäß § 309 SGB V zum Zwecke der Datenschutzkontrolle für den Versicherten. Die Protokollierungspflichten richten sich dabei an den Verantwortlichen der Anwendung und nicht an den Leistungserbringer. Der Versicherte kann sich nach Einsicht der Protokolldaten nach § 309 SGB V im Rahmen von Artikel 15 DSGVO an den Leistungserbringer wenden, um nähere Auskünfte über die den Leistungserbringer betreffenden Protokolleinträge nach § 309 SGB V zu erhalten. Für die Auskunft kann der Leistungserbringer auch die in den Komponenten der dezentralen Infrastruktur erfolgte Protokollierung nutzen.
+
+Datensicherheitsmaßnahmen:  
+(ErwG 78 und 83 DSGVO)
+
+Die an der vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer sind verpflichtet, die Vorgaben der Richtlinie zur IT-Sicherheit gemäß § 75b SGB V zu beachten. Diese Richtlinie umfasst auch Anforderungen an die sichere Installation und Wartung von Komponenten und Diensten der TI, die in der vertragsärztlichen und vertragszahnärztlichen Versorgung genutzt werden, d. h. insbesondere auch die Komponenten der dezentralen Infrastruktur der TI. Die Anforderungen in der Richtlinie werden u. a. im Einvernehmen mit dem BSI sowie im Benehmen mit dem BfDI festgelegt. Wenn ein Leistungserbringer einen Dienstleister mit der Herstellung und der Wartung des Anschlusses von informationstechnischen Systemen der Leistungserbringer an die TI einschließlich der Wartung hierfür benötigter Komponenten sowie der Anbindung an Dienste der TI beauftragt, muss dieser Dienstleister gemäß § 332 SGB V besondere Sorgfalt walten lassen
+
+ 
+
+und über die notwendige Fachkunde verfügen. Die technischen Maßnahmen der Komponenten der dezentralen Infrastruktur der TI zur Gewährleistung der Datensicherheit hat die Gesellschaft für Telematik gemäß § 311 Absatz 2 SGB V im Einvernehmen mit dem BSI und dem BfDI zu treffen, so dass Fragen der Sicherheit und des Datenschutzes bei der Gestaltung der Komponenten berücksichtigt werden, insbesondere auch die Vorgaben der Artikel 25 und 32 DSGVO. Darüber hinaus erfolgt der Nachweis der vollständigen Umsetzung der technischen Maßnahmen zur Gewährleistung der Datensicherheit in einer Komponente der dezentralen Infrastruktur eines Herstellers gemäß § 325 Absatz 3 SGB V im Rahmen der Zulassung der Komponente bei der Gesellschaft für Telematik durch eine Sicherheitszertifizierung nach den Vorgaben des BSI bzw. durch eine im Einvernehmen mit dem BSI festgelegte abweichende Form des Nachweises der Sicherheit. Auch die Hersteller von Komponenten der dezentralen Infrastruktur können gemäß § 325 Absatz 5 SGB V von der Gesellschaft für Telematik zugelassen werden, um insbesondere eine ausreichende Qualität der Herstellerprozesse bei der Entwicklung, dem Betrieb, der Wartung und der Pflege der Komponenten zu gewährleisten. Um die Wirksamkeit der technischen Maßnahmen der Komponenten der dezentralen Infrastruktur der TI zur Gewährleistung der Datensicherheit kontinuierlich aufrechtzuerhalten, werden diese Maßnahmen kontinuierlich von der Gesellschaft für Telematik und dem BSI bewertet. Insbesondere ist die Gesellschaft für Telematik gemäß § 333 SGB V dazu verpflichtet, dem BSI auf Verlangen Unterlagen und Informationen u. a. zu den Zulassungen von Komponenten der dezentralen Infrastruktur einschließlich der zugrundeliegenden Dokumentation sowie festgestellten Sicherheitsmängeln vorzulegen. Die Gesellschaft für Telematik kann zudem für die Komponenten der dezentralen Infrastruktur gemäß § 331 Absatz 1 SGB V im Benehmen mit dem BSI solche Maßnahmen zur Überwachung des Betriebs treffen, die erforderlich sind, um die Sicherheit, Verfügbarkeit und Nutzbarkeit der TI zu gewährleisten. Soweit von den Komponenten der dezentralen Infrastruktur der TI eine Gefahr für die Funktionsfähigkeit oder Sicherheit der TI ausgeht, kann die Gesellschaft für Telematik gemäß § 329 SGB V unverzüglich die erforderlichen technischen und organisatorischen Maßnahmen treffen. Das BSI ist hierüber von der Gesellschaft für Telematik zu informieren.
+
+  
+  
+
+Die Abhilfemaßnahmen sind für alle Risikoquellen anwendbar. Technischen Fehlfunktionen der Komponenten der dezentralen TI wird im Rahmen der Zulassung durch funktionale Tests und Sicherheitsüberprüfungen entgegengewirkt.
+
+2.5
+
+Einbeziehung betroffener Personen  
+  
+
+Gemäß § 311 Absatz 2 SGB V hat die Gesellschaft für Telematik die Festlegungen und Maßnahmen nach § 311 Absatz 1 Nummer 1 SGB V im Einvernehmen mit dem BSI und dem BfDI zu treffen. Die Aufgaben der Gesellschaft für Telematik nach § 311 Absatz 1 Nummer 1 SGB V umfassen hierbei insbesondere auch die Erstellung der funktionalen und technischen Vorgaben und die Zulassung der Komponenten der dezentralen Infrastruktur der TI.   
+
+Vertreter der Leistungserbringer sind als Gesellschafter der Gesellschaft für Telematik ebenfalls in die Erstellung der Vorgaben der dezentralen Infrastruktur der TI einbezogen.   
+
+Die Spezifikationen der Komponenten der dezentralen Infrastruktur der TI werden auf der Internetseite der Gesellschaft für Telematik veröffentlicht. Dadurch wird auch die Öffentlichkeit (u. a. Experten für Sicherheit und Datenschutz sowie Landesdatenschutzbehörden) einbezogen, so dass jederzeit die Möglichkeit der Prüfung der festgelegten Maßnahmen besteht.
