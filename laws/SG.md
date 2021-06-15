@@ -581,7 +581,7 @@ Organisationsgesetz
 
 § 91
 
-Personalvertretung der Beamten, Angestellten und Arbeiter
+(weggefallen)
 
 § 92
 
@@ -2152,15 +2152,7 @@ Die Mitteilungen sind als "Vertrauliche Personalsache" zu kennzeichnen. Im Fall 
 
 Die Organisation der Verteidigung, insbesondere die Spitzengliederung der Bundeswehr und die endgültige Organisation des Bundesministeriums der Verteidigung, bleiben besonderer gesetzlicher Regelung vorbehalten.
 
-# § 91 – Personalvertretung der Beamten, Angestellten und Arbeiter
-
-(1) Für die bei militärischen Dienststellen und Einrichtungen der Bundeswehr beschäftigten Beamten, Angestellten und Arbeiter gilt das Bundespersonalvertretungsgesetz.
-
-(2) § 64 Absatz 2 des Soldatenbeteiligungsgesetzes gilt entsprechend.
-
-(3) § 76 Abs. 2 Satz 1 Nr. 4 des Bundespersonalvertretungsgesetzes gilt entsprechend bei der Bestellung von Soldaten zu Vertrauens- oder Betriebsärzten. Hierbei ist nach § 38 Abs. 1 des Bundespersonalvertretungsgesetzes zu verfahren.
-
-(4) § 78 Abs. 1 Nr. 2 des Bundespersonalvertretungsgesetzes findet bei der Auflösung, Einschränkung, Verlegung oder Zusammenlegung von militärischen Dienststellen und Einrichtungen oder wesentlichen Teilen von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
+# § 91 – (weggefallen)
 
 # § 92 – Übergangsvorschrift für die Laufbahnen
 

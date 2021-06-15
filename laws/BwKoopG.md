@@ -11,7 +11,7 @@ Beamtinnen, Beamte, Angestellte, Arbeiterinnen und Arbeiter bleiben zum Personal
 
 # § 3 – Passives Wahlrecht zum Personalrat
 
-Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 14 des Bundespersonalvertretungsgesetzes. Als Beschäftigung im Sinne des § 14 Abs. 1 Satz 1 Nr. 2 des Bundespersonalvertretungsgesetzes gilt auch die Beschäftigung in einem Kooperationsbetrieb.
+Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 15 des Bundespersonalvertretungsgesetzes.
 
 # § 4 – Sondervorschriften für Soldatinnen und Soldaten
 
