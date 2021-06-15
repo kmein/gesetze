@@ -13,7 +13,7 @@
 
 # § 2 – Allgemeine Vorschriften
 
-(1) Für die Zusammenarbeit der Vorgesetzten und Vertrauenspersonen mit den in der Dienststelle vertretenen Gewerkschaften der Soldatinnen und Soldaten gilt § 2 des Bundespersonalvertretungsgesetzes entsprechend.
+(1) Für die Zusammenarbeit der Vorgesetzten und Vertrauenspersonen mit den in der Dienststelle vertretenen Gewerkschaften der Soldatinnen und Soldaten gilt § 9 Absatz 1 bis 3 des Bundespersonalvertretungsgesetzes entsprechend.
 
 (2) Soldatinnen und Soldaten, die Aufgaben nach diesem Gesetz wahrnehmen, haben über die ihnen in Ausübung ihrer Tätigkeit bekannt gewordenen Angelegenheiten und Tatsachen gegenüber Dritten Stillschweigen zu bewahren. Die Schweigepflicht besteht nicht für Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
@@ -109,7 +109,7 @@
 
 (4) Die durch die Tätigkeit der Vertrauensperson entstehenden Kosten trägt die Dienststelle. Die Vertrauensperson erhält bei Reisen, die zur Erfüllung ihrer Aufgaben notwendig sind, Reisekostenvergütung nach den für Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften. Für Sprechstunden, Versammlungen und die laufende Geschäftsführung werden ihr im erforderlichen Umfang Räume, Geschäftsbedarf und geeignete Aushangmöglichkeiten für Bekanntmachungen in gleicher Weise wie einer Personalvertretung zur Verfügung gestellt.
 
-(5) Soldatinnen und Soldaten, die als Vertrauenspersonen oder Mitglieder eines Vertrauenspersonenausschusses mindestens für die Hälfte der regelmäßigen Arbeitszeit von ihren dienstlichen Aufgaben freigestellt sind, erhalten eine Aufwandsentschädigung. § 46 Absatz 5 des Bundespersonalvertretungsgesetzes gilt entsprechend.
+(5) Soldatinnen und Soldaten, die als Vertrauenspersonen oder Mitglieder eines Vertrauenspersonenausschusses mindestens für die Hälfte der regelmäßigen Arbeitszeit von ihren dienstlichen Aufgaben freigestellt sind, erhalten eine Aufwandsentschädigung. § 52 Absatz 4 des Bundespersonalvertretungsgesetzes gilt entsprechend.
 
 (+++ § 8: Zur Anwendung vgl. § 33 Abs. 7 +++)
 
@@ -286,7 +286,7 @@ Sind die stellvertretenden Vertrauenspersonen an der Teilnahme am Schlichtungsau
 
 (4) Der Schlichtungsausschuss verhandelt nichtöffentlich und soll binnen zwei Monaten nach seiner Anrufung entscheiden. Er entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden des Schlichtungsausschusses.
 
-(5) Kommt in den Fällen des § 25 Absatz 3 Satz 1 Nummer 2 bis 6 eine Einigung nicht zustande, gibt der Schlichtungsausschuss eine Empfehlung ab. Will die oder der zuständige Vorgesetzte von dieser Empfehlung abweichen, hat sie oder er die Angelegenheit der zuständigen Inspekteurin oder dem zuständigen Inspekteur binnen zwei Wochen auf dem Dienstweg zur Entscheidung vorzulegen. Satz 2 gilt nicht im Fall des § 25 Absatz 3 Satz 1 Nummer 6; in diesem Fall entscheidet die zuständige schadensbearbeitende Dienststelle. In den Fällen des § 25 Absatz 3 Satz 1 Nummer 7, 9 und 10 gilt § 104 Satz 3 des Bundespersonalvertretungsgesetzes entsprechend.
+(5) Kommt in den Fällen des § 25 Absatz 3 Satz 1 Nummer 2 bis 6 eine Einigung nicht zustande, gibt der Schlichtungsausschuss eine Empfehlung ab. Will die oder der zuständige Vorgesetzte von dieser Empfehlung abweichen, hat sie oder er die Angelegenheit der zuständigen Inspekteurin oder dem zuständigen Inspekteur binnen zwei Wochen auf dem Dienstweg zur Entscheidung vorzulegen. Satz 2 gilt nicht im Fall des § 25 Absatz 3 Satz 1 Nummer 6; in diesem Fall entscheidet die zuständige schadensbearbeitende Dienststelle. In den Fällen des § 25 Absatz 3 Satz 1 Nummer 7, 9 und 10 gilt § 75 Absatz 2 des Bundespersonalvertretungsgesetzes entsprechend.
 
 (6) Die oder der zuständige Vorgesetzte kann bei Maßnahmen, die der Natur der Sache nach keinen Aufschub dulden, bis zur endgültigen Entscheidung vorläufige Regelungen treffen. Sie oder er hat der Vertrauensperson die vorläufige Regelung mitzuteilen und zu begründen und unverzüglich das Verfahren nach Absatz 2 einzuleiten.
 
@@ -384,7 +384,7 @@ Satz 1 gilt nicht, wenn eine gesetzliche Regelung besteht oder ein Gremium der V
 
 # § 26 – Betreuung und Fürsorge
 
-(1) Die oder der Disziplinarvorgesetzte beruft eine Vertrauensperson, die die zuständige Versammlung der Vertrauenspersonen nach § 33 benannt hat, zum ständigen Mitglied solcher Ausschüsse, die der Dienstherr zur Erfüllung seiner Fürsorgepflicht eingerichtet hat. Sofern einem solchen Ausschuss die Entscheidung über beteiligungspflichtige Angelegenheiten übertragen worden ist, tritt seine Beteiligung an die Stelle der gesonderten Beteiligung der Vertrauenspersonen, Gremien der Vertrauenspersonen oder Personalvertretungen, die in dem Ausschuss mit Stimmrecht vertreten sind. Die oder der Vorgesetzte, bei der oder dem der Ausschuss gebildet worden ist, nimmt die Aufgaben der oder des Disziplinarvorgesetzten nach diesem Gesetz sowie die Aufgaben der Leiterin oder des Leiters der Dienststelle nach § 7 des Bundespersonalvertretungsgesetzes wahr. Für das weitere Verfahren gilt das im Einzelfall vorgesehene Beteiligungsverfahren entsprechend.
+(1) Die oder der Disziplinarvorgesetzte beruft eine Vertrauensperson, die die zuständige Versammlung der Vertrauenspersonen nach § 33 benannt hat, zum ständigen Mitglied solcher Ausschüsse, die der Dienstherr zur Erfüllung seiner Fürsorgepflicht eingerichtet hat. Sofern einem solchen Ausschuss die Entscheidung über beteiligungspflichtige Angelegenheiten übertragen worden ist, tritt seine Beteiligung an die Stelle der gesonderten Beteiligung der Vertrauenspersonen, Gremien der Vertrauenspersonen oder Personalvertretungen, die in dem Ausschuss mit Stimmrecht vertreten sind. Die oder der Vorgesetzte, bei der oder dem der Ausschuss gebildet worden ist, nimmt die Aufgaben der oder des Disziplinarvorgesetzten nach diesem Gesetz sowie die Aufgaben der Leiterin oder des Leiters der Dienststelle nach § 8 des Bundespersonalvertretungsgesetzes wahr. Für das weitere Verfahren gilt das im Einzelfall vorgesehene Beteiligungsverfahren entsprechend.
 
 (2) Für die Besetzung anderer Ausschüsse hat die Vertrauensperson ein Vorschlagsrecht.
 
@@ -507,6 +507,16 @@ Satz 1 gilt nicht, wenn eine gesetzliche Regelung besteht oder ein Gremium der V
 
 (6) Ist im Bereich einer Versammlung der Vertrauenspersonen des Verbands ein Personalrat gebildet, soll zur Behandlung gemeinsamer Angelegenheiten die oder der Vorsitzende dieses Personalrats an den Sitzungen der Versammlung beratend teilnehmen, sofern Interessen der von ihr oder ihm Vertretenen berührt sind. Satz 1 gilt entsprechend für die Teilnahme der Sprecherin oder des Sprechers der Versammlung der Vertrauenspersonen an den Sitzungen des Personalrats.
 
+(7) Die Versammlungen der Vertrauenspersonen finden in der Regel als Präsenzsitzung in Anwesenheit ihrer Mitglieder vor Ort statt. Die Versammlung kann vollständig oder unter Zuschaltung einzelner Mitglieder mittels Video- oder Telefonkonferenz durchgeführt werden, wenn
+
+1. vorhandene Einrichtungen genutzt werden, die durch die Dienststelle zur dienstlichen Nutzung freigegeben sind,
+
+2. nicht mindestens ein Viertel der Mitglieder der Versammlung der Vertrauenspersonen binnen einer von der Sprecherin oder dem Sprecher zu bestimmenden Frist gegenüber der Sprecherin oder dem Sprecher widerspricht und
+
+3. die Versammlung der Vertrauenspersonen geeignete organisatorische Maßnahmen trifft, um sicherzustellen, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+
+Eine Aufzeichnung ist unzulässig. Mitglieder, die mittels Video- oder Telefonkonferenz an Sitzungen teilnehmen, gelten als anwesend im Sinne der Absätze 2 und 3. Absatz 4 Satz 2 zweiter Halbsatz findet mit der Maßgabe Anwendung, dass die Sprecherin oder der Sprecher vor Beginn der Beratung die zugeschalteten Mitglieder feststellt und in die Anwesenheitsliste einträgt. Das Recht eines Mitglieds der Versammlung der Vertrauenspersonen auf Teilnahme an der Sitzung vor Ort bleibt durch die Durchführung der Sitzung mittels Video- oder Telefonkonferenz unberührt.
+
 (+++ § 36: Zur Anwendung vgl. § 37 Abs. 2 +++)  
 (+++ § 36 Abs. 1 bis 5: Zur Anwendung vgl. § 34 Abs. 3 +++)  
 (+++ § 36 Abs. 4: Zur Anwendung vgl. § 49 Abs. 1 +++)
@@ -621,7 +631,7 @@ Das Bundesverwaltungsgericht entscheidet unter entsprechender Anwendung der Wehr
 
 (4) Die Dienststellen stellen die Sprecherin oder den Sprecher und gegebenenfalls weitere Mitglieder der Vertrauenspersonenausschüsse von ihrer dienstlichen Tätigkeit frei, soweit es zur ordnungsgemäßen Aufgabenerfüllung erforderlich ist.
 
-(5) § 7 des Bundespersonalvertretungsgesetzes gilt entsprechend.
+(5) § 8 des Bundespersonalvertretungsgesetzes gilt entsprechend.
 
 # § 44 – Nachrücken, Ersatzmitglied
 
@@ -739,9 +749,9 @@ Für Soldatinnen und Soldaten gilt das Bundespersonalvertretungsgesetz nach Maß
 
 (1) In anderen als den in § 4 Absatz 1 genannten Dienststellen und Einrichtungen wählen Soldatinnen und Soldaten Personalvertretungen. Hierzu zählen auch Kommandos oder Stäbe, die neben Führungsaufgaben auch Aufgaben der militärischen Grundorganisation wahrnehmen, und in der Regel Stäbe der Korps sowie entsprechende Dienststellen.
 
-(2) In Dienststellen und Einrichtungen nach Absatz 1 wählen Beschäftigte im Sinne des § 4 des Bundespersonalvertretungsgesetzes und Soldatinnen und Soldaten abweichend von § 12 Absatz 2 des Bundespersonalvertretungsgesetzes eine Personalvertretung, sofern die Voraussetzungen des § 12 Absatz 1 des Bundespersonalvertretungsgesetzes bei zusätzlicher Berücksichtigung der Soldatinnen und Soldaten erfüllt sind. Anderenfalls erfolgt eine Zuteilung zu einer benachbarten Dienststelle nach § 12 Absatz 2 des Bundespersonalvertretungsgesetzes. Eine Zuteilung erfolgt auch, wenn eine Dienststelle die Voraussetzungen für die Wahl einer eigenen Personalvertretung nach dieser Vorschrift erfüllt, eine Personalvertretung jedoch nicht gebildet wird. Eine bestehende Zuteilung behält in diesem Fall ihre Wirksamkeit. § 17 Absatz 5 und § 19 Absatz 4 Satz 2 und 3 des Bundespersonalvertretungsgesetzes sind bei der Wahl einer Personalvertretung nach dieser Vorschrift nicht anzuwenden.
+(2) In Dienststellen und Einrichtungen nach Absatz 1 wählen Beschäftigte im Sinne des § 4 des Bundespersonalvertretungsgesetzes und Soldatinnen und Soldaten abweichend von § 13 Absatz 2 des Bundespersonalvertretungsgesetzes eine Personalvertretung, sofern die Voraussetzungen des § 13 Absatz 1 des Bundespersonalvertretungsgesetzes bei zusätzlicher Berücksichtigung der Soldatinnen und Soldaten erfüllt sind. Anderenfalls erfolgt eine Zuteilung zu einer benachbarten Dienststelle nach § 13 Absatz 2 des Bundespersonalvertretungsgesetzes. Eine Zuteilung erfolgt auch, wenn eine Dienststelle die Voraussetzungen für die Wahl einer eigenen Personalvertretung nach dieser Vorschrift erfüllt, eine Personalvertretung jedoch nicht gebildet wird. Eine bestehende Zuteilung behält in diesem Fall ihre Wirksamkeit. § 17 Absatz 5 und § 20 Absatz 1 Satz 2 und 3 des Bundespersonalvertretungsgesetzes sind bei der Wahl einer Personalvertretung nach dieser Vorschrift nicht anzuwenden.
 
-(3) Die in den Absätzen 1 und 2 genannten Soldatinnen und Soldaten bilden eine weitere Gruppe im Sinne des § 5 des Bundespersonalvertretungsgesetzes. Soldatenvertreterinnen und Soldatenvertreter in Personalvertretungen haben die gleiche Rechtsstellung wie die Vertreterinnen und Vertreter der Beschäftigten im Sinne des § 4 des Bundespersonalvertretungsgesetzes, sofern dieses Gesetz nichts anderes bestimmt. § 38 des Bundespersonalvertretungsgesetzes findet mit Ausnahme von Angelegenheiten nach der Wehrbeschwerdeordnung und der Wehrdisziplinarordnung Anwendung.
+(3) Die in den Absätzen 1 und 2 genannten Soldatinnen und Soldaten bilden eine weitere Gruppe im Sinne des § 5 des Bundespersonalvertretungsgesetzes. Soldatenvertreterinnen und Soldatenvertreter in Personalvertretungen haben die gleiche Rechtsstellung wie die Vertreterinnen und Vertreter der Beschäftigten im Sinne des § 4 des Bundespersonalvertretungsgesetzes, sofern dieses Gesetz nichts anderes bestimmt. § 40 des Bundespersonalvertretungsgesetzes findet mit Ausnahme von Angelegenheiten nach der Wehrbeschwerdeordnung und der Wehrdisziplinarordnung Anwendung.
 
 (4) Erfüllt eine Dienststelle während der Amtszeit des Personalrats erstmals die Voraussetzungen des Absatzes 1 Satz 1 bei zusätzlicher Berücksichtigung der Soldatinnen und Soldaten, so ist eine Nachwahl der Gruppe der Soldatinnen und Soldaten zulässig.
 
@@ -753,21 +763,21 @@ Für Soldatinnen und Soldaten gilt das Bundespersonalvertretungsgesetz nach Maß
 
 # § 61 – Dienststellen ohne Personalrat
 
-In Dienststellen und Einrichtungen der Bundeswehr, in denen für die Beschäftigten im Sinne des § 4 des Bundespersonalvertretungsgesetzes auch im Falle einer Zuteilung zu einer benachbarten Dienststelle nach § 12 Absatz 2 des Bundespersonalvertretungsgesetzes ein Personalrat nicht gebildet ist, wählen die Soldatinnen und Soldaten Vertrauenspersonen nach § 4.
+In Dienststellen und Einrichtungen der Bundeswehr, in denen für die Beschäftigten im Sinne des § 4 des Bundespersonalvertretungsgesetzes auch im Falle einer Zuteilung zu einer benachbarten Dienststelle nach § 13 Absatz 2 des Bundespersonalvertretungsgesetzes ein Personalrat nicht gebildet ist, wählen die Soldatinnen und Soldaten Vertrauenspersonen nach § 4.
 
 # § 62 – Wahl und Rechtsstellung der Soldatenvertreterinnen und Soldatenvertreter
 
-(1) Für die Wahl der Soldatenvertreterinnen und Soldatenvertreter in Personalvertretungen nach § 60 gilt § 19 des Bundespersonalvertretungsgesetzes entsprechend.
+(1) Für die Wahl der Soldatenvertreterinnen und Soldatenvertreter in Personalvertretungen nach § 60 gelten die §§ 19 und 20 des Bundespersonalvertretungsgesetzes entsprechend.
 
 (2) Die §§ 16 bis 18 des Bundespersonalvertretungsgesetzes gelten mit der Maßgabe, dass sich die in § 16 des Bundespersonalvertretungsgesetzes bestimmte Zahl der Sitze bei Personalräten, die auch Soldatinnen und Soldaten nach § 60 Absatz 1 vertreten, um ein Drittel erhöht. Entfallen nach der vorstehenden Regelung auf die Gruppe der Beamtinnen und Beamten sowie auf die Gruppe der Arbeitnehmerinnen und Arbeitnehmer weniger Sitze, als ihnen nach § 16 des Bundespersonalvertretungsgesetzes zustünden, erhöht sich die Zahl ihrer Sitze bis zu der ihnen nach § 16 des Bundespersonalvertretungsgesetzes zustehenden Zahl; die Zahl der Soldatenvertreterinnen und Soldatenvertreter erhöht sich um die gleiche Zahl. Zählt eine Gruppe mindestens ebenso viele Mitglieder wie alle anderen Gruppen zusammen, so stehen dieser Gruppe so viele weitere Sitze zu, dass sie mindestens ebenso viele Vertreterinnen und Vertreter erhält wie alle anderen Gruppen zusammen.
 
-(3) Die §§ 46, 47 Absatz 2 sowie § 91 des Bundespersonalvertretungsgesetzes sind anzuwenden. § 15 Absatz 2, die §§ 18 und 20 Absatz 5 gelten für Soldatenvertreterinnen und Soldatenvertreter entsprechend.
+(3) Die §§ 50 bis 55 Absatz 2, die §§ 118 bis 120 sowie § 124 des Bundespersonalvertretungsgesetzes sind anzuwenden. § 15 Absatz 2, die §§ 18 und 20 Absatz 5 gelten für Soldatenvertreterinnen und Soldatenvertreter entsprechend.
 
-(4) Soldatinnen und Soldaten, die im Geschäftsbereich des Auswärtigen Amts im Ausland Dienst leisten, sind zur Wahl des Personalrats ihrer Auslandsvertretung wahlberechtigt und wählbar. Sie haben kein Wahlrecht zum Personalrat und zum Hauptpersonalrat des Auswärtigen Amts. Auf die in Satz 1 genannten Soldatinnen und Soldaten findet § 47 Absatz 2 des Bundespersonalvertretungsgesetzes keine Anwendung. § 4 Absatz 3 Nummer 2 ist nicht anzuwenden.
+(4) Soldatinnen und Soldaten, die im Geschäftsbereich des Auswärtigen Amts im Ausland Dienst leisten, sind zur Wahl des Personalrats ihrer Auslandsvertretung wahlberechtigt und wählbar. Sie haben kein Wahlrecht zum Personalrat und zum Hauptpersonalrat des Auswärtigen Amts. Auf die in Satz 1 genannten Soldatinnen und Soldaten findet § 55 Absatz 2 des Bundespersonalvertretungsgesetzes keine Anwendung. § 4 Absatz 3 Nummer 2 ist nicht anzuwenden.
 
 # § 63 – Angelegenheiten der Soldatinnen und Soldaten
 
-(1) In Angelegenheiten, die nur die Soldatinnen und Soldaten betreffen, haben die Soldatenvertreterinnen und Soldatenvertreter die Befugnisse der Vertrauensperson. § 7 des Bundespersonalvertretungsgesetzes ist mit Ausnahme der Beteiligung in Angelegenheiten nach der Wehrbeschwerde- und der Wehrdisziplinarordnung anzuwenden.
+(1) In Angelegenheiten, die nur die Soldatinnen und Soldaten betreffen, haben die Soldatenvertreterinnen und Soldatenvertreter die Befugnisse der Vertrauensperson. § 8 des Bundespersonalvertretungsgesetzes ist mit Ausnahme der Beteiligung in Angelegenheiten nach der Wehrbeschwerde- und der Wehrdisziplinarordnung anzuwenden.
 
 (2) In Angelegenheiten einer Soldatin oder eines Soldaten nach der Wehrdisziplinar- oder der Wehrbeschwerdeordnung nimmt die Befugnisse der Vertrauenspersonen der Offiziere, Unteroffiziere und Mannschaften diejenige Soldatenvertreterin oder derjenige Soldatenvertreter im Personalrat wahr, die oder der
 
@@ -775,13 +785,13 @@ In Dienststellen und Einrichtungen der Bundeswehr, in denen für die Beschäftig
 
 2. bei der Verhältniswahl in der Reihenfolge der Sitze die höchste Teilzahl, bei der Personenwahl die höchste Stimmenzahl erreicht hat.
 
-Im Falle der Verhinderung wird sie oder er in der Reihenfolge der erreichten Teilzahlen oder Stimmenzahlen durch die nächste Soldatenvertreterin oder den nächsten Soldatenvertreter der entsprechenden Laufbahngruppe vertreten. Ist eine solche Vertretung nicht vorhanden, werden die Befugnisse der Vertrauensperson von dem Mitglied der Gruppe der Soldatinnen und Soldaten wahrgenommen, das nach § 32 des Bundespersonalvertretungsgesetzes in den Vorstand der Personalvertretung gewählt ist, im Falle der Verhinderung durch die Vertreterin oder den Vertreter im Amt. Ist keine Soldatenvertreterin oder kein Soldatenvertreter nach den Sätzen 1 bis 3 in den Personalrat einer Dienststelle gewählt, tritt an ihre oder seine Stelle die entsprechende Soldatenvertreterin oder der entsprechende Soldatenvertreter im zuständigen Gesamtpersonalrat der Dienststelle, im Übrigen die Soldatenvertreterin oder der Soldatenvertreter der Personalvertretung der nächsthöheren Stufe.
+Im Falle der Verhinderung wird sie oder er in der Reihenfolge der erreichten Teilzahlen oder Stimmenzahlen durch die nächste Soldatenvertreterin oder den nächsten Soldatenvertreter der entsprechenden Laufbahngruppe vertreten. Ist eine solche Vertretung nicht vorhanden, werden die Befugnisse der Vertrauensperson von dem Mitglied der Gruppe der Soldatinnen und Soldaten wahrgenommen, das nach § 34 Absatz 1 des Bundespersonalvertretungsgesetzes in den Vorstand der Personalvertretung gewählt ist, im Falle der Verhinderung durch die Vertreterin oder den Vertreter im Amt. Ist keine Soldatenvertreterin oder kein Soldatenvertreter nach den Sätzen 1 bis 3 in den Personalrat einer Dienststelle gewählt, tritt an ihre oder seine Stelle die entsprechende Soldatenvertreterin oder der entsprechende Soldatenvertreter im zuständigen Gesamtpersonalrat der Dienststelle, im Übrigen die Soldatenvertreterin oder der Soldatenvertreter der Personalvertretung der nächsthöheren Stufe.
 
 (3) Sofern die Befugnisse der Vertrauenspersonen nach Absatz 1 durch Soldatenvertreterinnen oder Soldatenvertreter in einem Personalrat wahrgenommen werden, hat die Gruppe der Soldatinnen und Soldaten im Personalrat ein entsprechendes Beschwerderecht nach § 17.
 
 (4) In Angelegenheiten im Sinne von § 39 Absatz 2, von denen nur Soldatinnen und Soldaten betroffen sind, werden in den militärischen Organisationsbereichen neben den Vertrauenspersonenausschüssen auch die dort gebildeten Bezirkspersonalräte beteiligt.
 
-(5) Ist in einem Organisationsbereich ein Vertrauenspersonenausschuss nach § 39 Absatz 1 nicht gebildet, nimmt der jeweilige Bezirkspersonalrat in Angelegenheiten, die nur Soldatinnen und Soldaten betreffen, die Aufgaben eines Vertrauenspersonenausschusses wahr. § 39 Absatz 3 dieses Gesetzes und § 32 Absatz 3 des Bundespersonalvertretungsgesetzes finden entsprechend Anwendung.
+(5) Ist in einem Organisationsbereich ein Vertrauenspersonenausschuss nach § 39 Absatz 1 nicht gebildet, nimmt der jeweilige Bezirkspersonalrat in Angelegenheiten, die nur Soldatinnen und Soldaten betreffen, die Aufgaben eines Vertrauenspersonenausschusses wahr. § 39 Absatz 3 dieses Gesetzes und § 35 Absatz 2 des Bundespersonalvertretungsgesetzes finden entsprechend Anwendung.
 
 # § 64 – Rechtsverordnungen
 
@@ -799,7 +809,7 @@ Im Falle der Verhinderung wird sie oder er in der Reihenfolge der erreichten Tei
 
 6. die Aufbewahrung der Wahlunterlagen.
 
-(2) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung die den Behörden der Mittelstufe nach § 6 Absatz 2 Satz 2 des Bundespersonalvertretungsgesetzes entsprechenden militärischen Dienststellen zu bestimmen, bei denen Bezirkspersonalräte gebildet werden.
+(2) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung die den Behörden der Mittelstufe nach § 4 Absatz 1 Nummer 4 des Bundespersonalvertretungsgesetzes entsprechenden militärischen Dienststellen zu bestimmen, bei denen Bezirkspersonalräte gebildet werden.
 
 # § 65 – Übergangsvorschriften
 
@@ -809,4 +819,4 @@ Im Falle der Verhinderung wird sie oder er in der Reihenfolge der erreichten Tei
 
 (3) Die Wahl der erstmalig zu bildenden Vertrauenspersonenausschüsse der militärischen Organisationsbereiche ist unverzüglich nach Inkrafttreten dieses Gesetzes einzuleiten. Bei der erstmaligen Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche sind auch die dem jeweiligen militärischen Organisationsbereich angehörigen Mitglieder des Gesamtvertrauenspersonenausschusses beim Bundesministerium der Verteidigung wählbar.
 
-(4) Kann auf Grund dieses Gesetzes erstmals die Wahl eines örtlichen Personalrats in Dienststellen und Einrichtungen nach § 60 Absatz 2 Satz 1 durchgeführt werden, führt der bisher zuständige Personalrat, insbesondere im Fall einer nicht mehr erforderlichen Zuteilung nach § 12 Absatz 2 des Bundespersonalvertretungsgesetzes, die Geschäfte bis zur ersten Sitzung des neuen Personalrats, längstens für einen Zeitraum von zwölf Monaten, weiter.
+(4) (weggefallen)

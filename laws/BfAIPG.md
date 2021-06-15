@@ -21,7 +21,7 @@ Gegenüber den in § 2 Abs. 1 genannten Beschäftigten hat die Germany Trade and
 
 # § 4 – Anwendbarkeit des Bundespersonalvertretungsgesetzes
 
-Die in § 2 Abs. 1 genannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für Wirtschaft und Ausfuhrkontrolle; sie sind aktiv und passiv wahlberechtigt. § 13 Abs. 2 Satz 4 des Bundespersonalvertretungsgesetzes ist nicht anzuwenden.
+Die in § 2 Abs. 1 genannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für Wirtschaft und Ausfuhrkontrolle; sie sind aktiv und passiv wahlberechtigt. § 14 Absatz 2 Satz 4 des Bundespersonalvertretungsgesetzes ist nicht anzuwenden.
 
 # § 5 – Geltung arbeitsrechtlicher Vorschriften
 

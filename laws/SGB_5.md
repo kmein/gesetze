@@ -3578,6 +3578,10 @@ Die Verfahrensordnung, die Geschäftsordnung und die Finanzierungsregelung bedü
 
 (8) bis (9) (weggefallen)
 
+(+++ Änderungsanweisungen d. Art. 1 Nr. 8 Buchst. b DBuchst. bb bis gg G v. 3.6.2021 I 1309 wurden wegen offensichtlicher Unrichtigkeit - Satzzählung wegen der Einfügung eines neuen Satzes nach Satz 7 in Abs. 2a durch Art. 3 Nr. 5 G v. 3.6.2021 I 1444, die allerdings erst am 9.6.2021 verkündet und am 10.6.2021 in Kraft getreten ist, nicht korrekt - entsprechend angepasst dokumentiert. +++)  
+§ 87 Abs. 2a Satz 19: IdF d. Art. 7 Nr. 8 Buchst. b DBuchst. dd G v. 3.6.2021 I 1309 mWv 9.6.2021; Kursivdruck: s. o. offensichtliche Unrichtigkeit  
+§ 87 Abs. 2a Satz 20: IdF d. Art. 7 Nr. 8 Buchst. a G v. 11.12.2018 I 2394 mWv 1.1.2019, d. Art. 1 Nr. 12 Buchst. b DBuchst. bb G v. 14.10.2020 I 2115 mWv 20.10.2020 u. d. Art. 7 Nr. 8 Buchst. b DBuchst. ee G v. 3.6.2021 I 1309 mWv 9.6.2021; Kursivdruck: s. o. offensichtliche Unrichtigkeit
+
 # § 87a – Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten
 
 (1) Abweichend von § 82 Abs. 2 Satz 2 und § 85 gelten für die Vergütung vertragsärztlicher Leistungen die in Absatz 2 bis 6 getroffenen Regelungen; dies gilt nicht für vertragszahnärztliche Leistungen.

@@ -199,7 +199,7 @@ Die Richter stehen im Dienst des Bundes oder eines Landes.
 
 4. Prüfungsangelegenheiten,
 
-5. den Vorsitz in Einigungsstellen und entsprechenden unabhängigen Stellen im Sinne des § 104 Satz 2 des Bundespersonalvertretungsgesetzes.
+5. den Vorsitz in Einigungsstellen im Sinne des § 73 Absatz 2 Satz 1 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614).
 
 # § 5 – Befähigung zum Richteramt
 
@@ -1049,13 +1049,13 @@ Bei den Gerichten des Bundes werden als Richtervertretungen errichtet
 
 # § 52 – Aufgaben des Richterrats
 
-Für die Befugnisse und Pflichten des Richterrats gelten § 2 Abs. 1, §§ 66 bis 74, 75 Abs. 2 und 3 Nr. 1 bis 5 und 11 bis 16, § 76 Abs. 2, § 78 Abs. 1 Nr. 1, 2 und Abs. 2 bis 4, §§ 80 und 81 des Bundespersonalvertretungsgesetzes vom 15. März 1974 (Bundesgesetzbl. I S. 693) sinngemäß.
+Für die Befugnisse und Pflichten des Richterrats gelten § 2 Absatz 1, §§ 65 bis 71, §§ 79, 80 Absatz 1 Nummer 1, 4, 6 bis 8, 14, 16 und 18, § 84 Absatz 1 Nummer 1, 2 und Absatz 2 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614) entsprechend.
 
 # § 53 – Gemeinsame Aufgaben von Richterrat und Personalvertretung
 
 (1) Sind an einer Angelegenheit sowohl der Richterrat als auch die Personalvertretung beteiligt, so entsendet der Richterrat für die gemeinsame Beschlußfassung Mitglieder in die Personalvertretung.
 
-(2) Die Zahl der entsandten Mitglieder des Richterrats muß zur Zahl der Richter im gleichen Verhältnis stehen wie die Zahl der Mitglieder der Personalvertretung zu der Zahl der Beamten, Angestellten und Arbeiter. Jedoch entsendet der Richterrat mindestens die in § 17 Abs. 3 und Abs. 5 Satz 1 des Bundespersonalvertretungsgesetzes bestimmte Zahl von Mitgliedern.
+(2) Die Zahl der entsandten Mitglieder des Richterrats muß zur Zahl der Richter im gleichen Verhältnis stehen wie die Zahl der Mitglieder der Personalvertretung zu der Zahl der Beamten, Angestellten und Arbeiter. Jedoch entsendet der Richterrat mindestens die in § 17 Abs. 3 und Abs. 5 Satz 1 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614) bestimmte Zahl von Mitgliedern.
 
 # § 54 – Bildung des Präsidialrats
 
@@ -1097,7 +1097,7 @@ Vor jeder Ernennung oder Wahl eines Richters ist der Präsidialrat des Gerichts,
 
 (2) Die Kosten der Richtervertretungen fallen dem Haushalt der Gerichte zur Last. Die Gerichtsverwaltung stellt Räume und Geschäftsbedarf zur Verfügung.
 
-(3) Die Mitgliedschaft in der Richtervertretung ist ein Ehrenamt. Für die Rechte und Pflichten der Mitglieder gelten die §§ 8 bis 11, 46 Abs. 3 bis 7, § 47 Abs. 2 des Bundespersonalvertretungsgesetzes sinngemäß.
+(3) Die Mitgliedschaft in der Richtervertretung ist ein Ehrenamt. Für die Rechte und Pflichten der Mitglieder gelten die §§ 10 bis 12 und §§ 52 bis 55 Absatz 2 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614) entsprechend.
 
 # § 59 – Abgeordnete Richter
 
@@ -1107,7 +1107,7 @@ Vor jeder Ernennung oder Wahl eines Richters ist der Präsidialrat des Gerichts,
 
 # § 60 – Rechtsweg in Angelegenheiten der Richtervertretungen
 
-Für Rechtsstreitigkeiten aus der Bildung oder Tätigkeit der Richtervertretungen steht der Rechtsweg zu den Verwaltungsgerichten offen. Das Verwaltungsgericht entscheidet bei Rechtsstreitigkeiten aus der gemeinsamen Beteiligung von Richterrat und Personalvertretung (§ 53 Abs. 1) nach den Verfahrensvorschriften und in der Besetzung des § 83 Abs. 2 und § 84 des Bundespersonalvertretungsgesetzes.
+Für Rechtsstreitigkeiten aus der Bildung oder Tätigkeit der Richtervertretungen steht der Rechtsweg zu den Verwaltungsgerichten offen. Das Verwaltungsgericht entscheidet bei Rechtsstreitigkeiten aus der gemeinsamen Beteiligung von Richterrat und Personalvertretung (§ 53 Abs. 1) nach den Verfahrensvorschriften und in der Besetzung des § 108 Absatz 2 und § 109 des Bundespersonalvertretungsgesetzes vom 9. Juni 2021 (BGBl. I S. 1614).
 
 # § 61 – Verfassung des Dienstgerichts
 

@@ -456,7 +456,7 @@
 - [BaktWaffVernÜbk](laws/BaktWaffVernÜbk.md) Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 - [BaktWaffVernÜbkG](laws/BaktWaffVernÜbkG.md) Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 - [BallastWaÜbk](laws/BallastWaÜbk.md) Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen
-- [BAMKostO](laws/BAMKostO.md) Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung
+- [BAMBGebV](laws/BAMBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Materialforschung und -prüfung
 - [BankFachwPrV](laws/BankFachwPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
 - [BankkflAusbV](laws/BankkflAusbV.md) Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau
 - [BAPauschV](laws/BAPauschV.md) Verordnung über die Pauschalierung und Zahlung des Ausgleichsbetrags der Bundesagentur für Arbeit an die Träger der gesetzlichen Rentenversicherung für arbeitsmarktbedingte Renten wegen voller Erwerbsminderung
@@ -741,7 +741,6 @@
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
-- [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
 - [BGAktFV](laws/BGAktFV.md) Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten
 - [BGB](laws/BGB.md) Bürgerliches Gesetzbuch
 - [BGBABest 1898](laws/BGBABest_1898.md) Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs
@@ -4487,6 +4486,7 @@
 - [PsychThV](laws/PsychThV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie
 - [PTA-APrV](laws/PTA-APrV.md) Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten
 - [PTBAKostO](laws/PTBAKostO.md) Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+- [PTBBGebV](laws/PTBBGebV.md) Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt
 - [PTNeuOG](laws/PTNeuOG.md) Gesetz zur Neuordnung des Postwesens und der Telekommunikation
 - [PTSG](laws/PTSG.md) Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen
 - [PTStiftErnAnO](laws/PTStiftErnAnO.md) Anordnung zur Übertragung des Rechtes zur Ernennung und Entlassung der Beamten der Museumsstiftung Post und Telekommunikation
@@ -4570,6 +4570,7 @@
 - [RegGErkl/EinigVtr](laws/RegGErkl_EinigVtr.md) Gemeinsame Erklärung der Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen (Anlage III des Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag)
 - [RegG§5DV](laws/RegG§5DV.md) Verordnung zur Durchführung von § 5 des Regionalisierungsgesetzes für die Jahre 1996 bis 2001
 - [RegMoG](laws/RegMoG.md) Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung und zur Änderung weiterer Gesetze
+- [RegZensErpG](laws/RegZensErpG.md) Gesetz zur Erprobung von Verfahren eines Registerzensus
 - [RehaErstV](laws/RehaErstV.md) Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation
 - [ReifKennzV](laws/ReifKennzV.md) Verordnung zur Durchführung der Kennzeichnung der Kraftstoffeffizienz, des Rollgeräuschs und der Nasshaftungsklasse von Reifen
 - [ReiseKfmAusbV 2011](laws/ReiseKfmAusbV_2011.md) Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)
@@ -4751,6 +4752,7 @@
 - [SatellitÜbk](laws/SatellitÜbk.md) Übereinkommen über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 - [SatellitÜbkG](laws/SatellitÜbkG.md) Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 - [SattlFeintMstrV](laws/SattlFeintMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Sattler- und Feintäschner-Handwerk
+- [SaubFahrzeugBeschG](laws/SaubFahrzeugBeschG.md) Gesetz über die Beschaffung sauberer Straßenfahrzeuge
 - [SAZV](laws/SAZV.md) Verordnung über die Arbeitszeit der Soldatinnen und Soldaten
 - [SBBFestV 2014](laws/SBBFestV_2014.md) Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014
 - [SBG](laws/SBG.md) Soldatinnen- und Soldatenbeteiligungsgesetz
@@ -5890,7 +5892,7 @@
 - [VollstrZustÜbk2007Prot2ÜG](laws/VollstrZustÜbk2007Prot2ÜG.md) Gesetz über die Übermittlung gerichtlicher Entscheidungen nach dem Protokoll 2 zum Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
 - [VollstrZustÜbkProt](laws/VollstrZustÜbkProt.md) Protokoll betreffend die Auslegung des Übereinkommens vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof
 - [VorgV](laws/VorgV.md) Verordnung über die Regelung des militärischen Vorgesetztenverhältnisses
-- [VoZählG 1987](laws/VoZählG_1987.md) Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung
+- [Vorsorg/RehaSiVbgVerlV](laws/Vorsorg_RehaSiVbgVerlV.md) Verordnung zur Verlängerung des Zeitraums für Vereinbarungen zur wirtschaftlichen Sicherung der Vorsorge- und Rehabilitationseinrichtungen
 - [VReformG](laws/VReformG.md) Gesetz zur Umsetzung des Versorgungsberichts
 - [VRegV](laws/VRegV.md) Verordnung über das Zentrale Vorsorgeregister
 - [VRG](laws/VRG.md) Gesetz zur Förderung von Vorruhestandsleistungen

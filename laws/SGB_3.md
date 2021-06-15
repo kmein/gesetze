@@ -6959,7 +6959,7 @@ Personen, die am 31. März 2003 in einer mehr als geringfügigen Beschäftigung 
 
 (6) Die Bundesagentur trägt die Versorgungsbezüge der gemäß Absatz 1 in den Dienst des Bundes übernommenen Beamtinnen und Beamten für die bis zur Übernahme zurückgelegten Dienstzeiten. Der Bund trägt die Versorgungsbezüge für die seit der Übernahme in den Dienst des Bundes zurückgelegten Dienstzeiten der in Absatz 1 genannten Beamtinnen und Beamten. Im Übrigen gilt § 107b des Beamtenversorgungsgesetzes entsprechend.
 
-(7) § 15 Abs. 1 des Bundespersonalvertretungsgesetzes gilt für die nach den Absätzen 1 und 2 übergeleiteten Beamtinnen und Beamten sowie Angestellten entsprechend.
+(7) § 15 Absatz 1 Satz 2 des Bundespersonalvertretungsgesetzes gilt für die nach den Absätzen 1 und 2 übergeleiteten Beamtinnen und Beamten sowie Angestellten entsprechend.
 
 # § 438 – (weggefallen)
 

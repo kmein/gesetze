@@ -19,7 +19,7 @@ Gegenüber den in § 2 Abs. 1 bezeichneten Beschäftigten hat die Bundesrepublik
 
 # § 4 – Anwendbarkeit des Bundespersonalvertretungsgesetzes
 
-Die in § 2 Abs. 1 benannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für zentrale Dienste und offene Vermögensfragen. § 13 Abs. 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
+Die in § 2 Abs. 1 benannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für zentrale Dienste und offene Vermögensfragen. § 14 Absatz 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 # § 5 – Geltung arbeitsrechtlicher Vorschriften
 
