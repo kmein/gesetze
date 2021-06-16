@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
+% Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten*)
 % Ausfertigungsdatum: 03.07.2012
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien    (Tierarzneimittel-Prüfrichtlinienverordnung - TamPV)
+% Verordnung zur Anwendung der Arzneimittelprüfrichtlinien, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, und zur Ablösung der Allgemeinen Verwaltungsvorschrift zur Anwendung der Tierarzneimittelprüfrichtlinien *)  (Tierarzneimittel-Prüfrichtlinienverordnung - TamPV)
 % Ausfertigungsdatum: 18.02.2010
  
 # Eingangsformel

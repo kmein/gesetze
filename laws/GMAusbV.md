@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin   (Gießereimechanikerausbildungsverordnung - GMAusbV)
+% Verordnung über die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin*  (Gießereimechanikerausbildungsverordnung - GMAusbV)
 % Ausfertigungsdatum: 02.07.2015
  
 # Inhaltsübersicht

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kerzenhersteller und Wachsbildner und zur Kerzenherstellerin und Wachsbildnerin    (Kerzenhersteller- und Wachsbildnerausbildungsverordnung - KhWbAusbV)
+% Verordnung über die Berufsausbildung zum Kerzenhersteller und Wachsbildner und zur Kerzenherstellerin und Wachsbildnerin *  (Kerzenhersteller- und Wachsbildnerausbildungsverordnung - KhWbAusbV)
 % Ausfertigungsdatum: 16.07.2015
  
 # Eingangsformel

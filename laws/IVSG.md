@@ -1,4 +1,4 @@
-% Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern   (Intelligente Verkehrssysteme Gesetz - IVSG)
+% Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern1  (Intelligente Verkehrssysteme Gesetz - IVSG)
 % Ausfertigungsdatum: 11.06.2013
  
 # § 1 – Geltungsbereich

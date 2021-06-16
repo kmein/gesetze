@@ -85,7 +85,7 @@ Diese Verordnung regelt
 
 (2) Sofern eine Lehrkraft nur eingesetzt wird, um bestimmte Aus- oder Fortbildungsinhalte zu vermitteln, müssen sich ihre fachlichen Kenntnisse nur darauf beziehen.
 
-# § 6 – Gleichwertige im Ausland erworbene Qualifikation
+# § 6 – 1 Gleichwertige im Ausland erworbene Qualifikation
 
 Als zertifizierter Mediator darf sich auch bezeichnen, wer
 

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+% Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin*)
 % Ausfertigungsdatum: 15.03.2011
  
 # Eingangsformel

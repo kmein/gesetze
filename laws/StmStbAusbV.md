@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin   (Steinmetz- und Steinbildhauerausbildungsverordnung - StmStbAusbV)
+% Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin*  (Steinmetz- und Steinbildhauerausbildungsverordnung - StmStbAusbV)
 % Ausfertigungsdatum: 13.04.2018
  
 # Eingangsformel

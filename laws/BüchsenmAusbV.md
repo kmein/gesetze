@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin   (Büchsenmacher-Ausbildungsverordnung - BüchsenmAusbV)
+% Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin*)  (Büchsenmacher-Ausbildungsverordnung - BüchsenmAusbV)
 % Ausfertigungsdatum: 26.05.2010
  
 # Eingangsformel

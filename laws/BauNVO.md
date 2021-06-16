@@ -663,7 +663,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 # § 24 – (weggefallen)
 
-# § 25 – Fortführung eingeleiteter Verfahren
+# § 25 – Fortführung eingeleiteter Verfahren*
 
 Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften weiterhin anzuwenden, wenn die Pläne bei dem Inkrafttreten dieser Verordnung bereits ausgelegt sind.
 

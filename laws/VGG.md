@@ -1,4 +1,4 @@
-% Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften   (Verwertungsgesellschaftengesetz - VGG)
+% Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften*  (Verwertungsgesellschaftengesetz - VGG)
 % Ausfertigungsdatum: 24.05.2016
  
 # Inhaltsübersicht

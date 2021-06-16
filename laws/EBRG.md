@@ -1,4 +1,4 @@
-% Gesetz über Europäische Betriebsräte   (Europäische Betriebsräte-Gesetz - EBRG)
+% Gesetz über Europäische Betriebsräte*)  (Europäische Betriebsräte-Gesetz - EBRG)
 % Ausfertigungsdatum: 28.10.1996
  
 # § 1 – Grenzübergreifende Unterrichtung und Anhörung

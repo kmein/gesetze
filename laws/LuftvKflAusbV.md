@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Luftverkehrskaufmann und zur Luftverkehrskauffrau   (Luftverkehrskaufleuteausbildungsverordnung - LuftvKflAusbV)
+% Verordnung über die Berufsausbildung zum Luftverkehrskaufmann und zur Luftverkehrskauffrau*  (Luftverkehrskaufleuteausbildungsverordnung - LuftvKflAusbV)
 % Ausfertigungsdatum: 29.03.2017
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft   (MühGetreiWiTechAusbV)
+% Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft*  (MühGetreiWiTechAusbV)
 % Ausfertigungsdatum: 03.05.2017
  
 # Eingangsformel

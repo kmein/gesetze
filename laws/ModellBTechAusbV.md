@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
+% Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin *)
 % Ausfertigungsdatum: 27.05.2009
  
 # Eingangsformel

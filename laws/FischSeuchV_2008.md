@@ -1,4 +1,4 @@
-% Fischseuchenverordnung
+% Fischseuchenverordnung*)
 % Ausfertigungsdatum: 24.11.2008
  
 # Inhaltsübersicht

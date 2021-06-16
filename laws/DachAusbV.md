@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Dachdecker und zur Dachdeckerin   (Dachdeckerausbildungsverordnung - DachAusbV)
+% Verordnung über die Berufsausbildung zum Dachdecker und zur Dachdeckerin*  (Dachdeckerausbildungsverordnung - DachAusbV)
 % Ausfertigungsdatum: 28.04.2016
  
 # Eingangsformel

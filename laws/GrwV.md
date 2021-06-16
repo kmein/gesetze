@@ -1,4 +1,4 @@
-% Verordnung zum Schutz des Grundwassers   (Grundwasserverordnung - GrwV)
+% Verordnung zum Schutz des Grundwassers*)  (Grundwasserverordnung - GrwV)
 % Ausfertigungsdatum: 09.11.2010
  
 # Eingangsformel

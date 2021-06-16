@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau   (Bankkaufleuteausbildungsverordnung - BankkflAusbV)
+% Verordnung über die Berufsausbildung zum Bankkaufmann und zur Bankkauffrau*  (Bankkaufleuteausbildungsverordnung - BankkflAusbV)
 % Ausfertigungsdatum: 05.02.2020
  
 # Eingangsformel

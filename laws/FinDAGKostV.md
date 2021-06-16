@@ -1,4 +1,4 @@
-% Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz    (FinDAGKostV)
+% Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz *)  (FinDAGKostV)
 % Ausfertigungsdatum: 29.04.2002
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Fleischgesetz
+% Fleischgesetz*)
 % Ausfertigungsdatum: 09.04.2008
  
 # Eingangsformel

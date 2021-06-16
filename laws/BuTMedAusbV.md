@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton   (Bild- und Ton-Mediengestalter-Ausbildungsverordnung - BuTMedAusbV)
+% Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton*  (Bild- und Ton-Mediengestalter-Ausbildungsverordnung - BuTMedAusbV)
 % Ausfertigungsdatum: 28.02.2020
  
 # Eingangsformel

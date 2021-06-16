@@ -1,4 +1,4 @@
-% Verordnung zum Schutz vor Gefahrstoffen   (Gefahrstoffverordnung - GefStoffV)
+% Verordnung zum Schutz vor Gefahrstoffen*)  (Gefahrstoffverordnung - GefStoffV)
 % Ausfertigungsdatum: 26.11.2010
  
 # Inhaltsübersicht

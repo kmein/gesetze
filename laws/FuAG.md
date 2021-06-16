@@ -1,4 +1,4 @@
-% Gesetz über die Bereitstellung von Funkanlagen auf dem Markt   (Funkanlagengesetz - FuAG)
+% Gesetz über die Bereitstellung von Funkanlagen auf dem Markt1  (Funkanlagengesetz - FuAG)
 % Ausfertigungsdatum: 27.06.2017
  
 # Inhaltsübersicht

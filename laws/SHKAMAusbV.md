@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik   (Sanitär-, Heizungs- und Klimatechnikanlagenmechanikerausbildungsverordnung - SHKAMAusbV)
+% Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik*  (Sanitär-, Heizungs- und Klimatechnikanlagenmechanikerausbildungsverordnung - SHKAMAusbV)
 % Ausfertigungsdatum: 28.04.2016
  
 # Eingangsformel

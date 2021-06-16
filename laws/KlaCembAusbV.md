@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin   (Klavier- und Cembalobauerausbildungsverordnung - KlaCembAusbV)
+% Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin*  (Klavier- und Cembalobauerausbildungsverordnung - KlaCembAusbV)
 % Ausfertigungsdatum: 08.06.2017
  
 # Inhaltsübersicht

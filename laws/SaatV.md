@@ -1,4 +1,4 @@
-% Verordnung über den Verkehr mit Saatgut landwirtschaftlicher Arten und von Gemüsearten   (Saatgutverordnung)
+% Verordnung über den Verkehr mit Saatgut landwirtschaftlicher Arten und von Gemüsearten*  (Saatgutverordnung)
 % Ausfertigungsdatum: 21.01.1986
  
 # § 1 – Anwendungsbereich

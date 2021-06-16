@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement   (Digitalisierungsmanagement-Kaufleute-Ausbildungsverordnung - DigiManKflAusbV)
+% Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement*  (Digitalisierungsmanagement-Kaufleute-Ausbildungsverordnung - DigiManKflAusbV)
 % Ausfertigungsdatum: 28.02.2020
  
 # Eingangsformel

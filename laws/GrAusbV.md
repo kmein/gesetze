@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Graveur und zur Graveurin    (Graveurausbildungsverordnung - GrAusbV)
+% Verordnung über die Berufsausbildung zum Graveur und zur Graveurin *  (Graveurausbildungsverordnung - GrAusbV)
 % Ausfertigungsdatum: 03.06.2016
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
+% Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen*)
 % Ausfertigungsdatum: 24.05.2012
  
 # Eingangsformel

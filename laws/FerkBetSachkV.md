@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen  (Ferkelbetäubungssachkundeverordnung   - FerkBetSachkV)
+% Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen  (Ferkelbetäubungssachkundeverordnung1,2 - FerkBetSachkV)
 % Ausfertigungsdatum: 08.01.2020
  
 # Eingangsformel

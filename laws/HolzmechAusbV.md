@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin   (Holzmechanikerausbildungsverordnung - HolzmechAusbV)
+% Verordnung über die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin*  (Holzmechanikerausbildungsverordnung - HolzmechAusbV)
 % Ausfertigungsdatum: 19.05.2015
  
 # Eingangsformel

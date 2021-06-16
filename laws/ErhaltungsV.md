@@ -1,4 +1,4 @@
-% Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten   (Erhaltungssortenverordnung)
+% Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten*)  (Erhaltungssortenverordnung)
 % Ausfertigungsdatum: 21.07.2009
  
 # § 1 – Anwendungsbereich

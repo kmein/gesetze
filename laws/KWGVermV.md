@@ -1,4 +1,4 @@
-% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes    (KWG-Vermittlerverordnung - KWGVermV)
+% Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes *)  (KWG-Vermittlerverordnung - KWGVermV)
 % Ausfertigungsdatum: 04.12.2007
  
 # Eingangsformel

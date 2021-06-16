@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement   (Groß-und-Außenhandelsmanagement-Kaufleute-Ausbildungsverordnung - GuAMKflAusbV)
+% Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement*  (Groß-und-Außenhandelsmanagement-Kaufleute-Ausbildungsverordnung - GuAMKflAusbV)
 % Ausfertigungsdatum: 19.03.2020
  
 # Eingangsformel

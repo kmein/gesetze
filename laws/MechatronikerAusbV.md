@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin   (Mechatroniker-Ausbildungsverordnung - MechatronikerAusbV)
+% Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin*)  (Mechatroniker-Ausbildungsverordnung - MechatronikerAusbV)
 % Ausfertigungsdatum: 21.07.2011
  
 # Inhaltsübersicht

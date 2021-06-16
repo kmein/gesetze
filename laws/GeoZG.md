@@ -1,4 +1,4 @@
-% Gesetz über den Zugang zu digitalen Geodaten    (Geodatenzugangsgesetz - GeoZG)
+% Gesetz über den Zugang zu digitalen Geodaten *)  (Geodatenzugangsgesetz - GeoZG)
 % Ausfertigungsdatum: 10.02.2009
  
 # § 1 – Ziel des Gesetzes

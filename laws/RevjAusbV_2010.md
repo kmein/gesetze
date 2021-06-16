@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
+% Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin*)
 % Ausfertigungsdatum: 18.05.2010
  
 # Eingangsformel

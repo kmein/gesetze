@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin   (Bürsten- und Pinselmacherausbildungsverordnung - BüPinAusbV)
+% Verordnung über die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin*  (Bürsten- und Pinselmacherausbildungsverordnung - BüPinAusbV)
 % Ausfertigungsdatum: 08.06.2017
  
 # Eingangsformel

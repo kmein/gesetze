@@ -1,4 +1,4 @@
-% Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute   (Zahlungsinstituts-Rechnungslegungsverordnung - RechZahlV)
+% Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute*)  (Zahlungsinstituts-Rechnungslegungsverordnung - RechZahlV)
 % Ausfertigungsdatum: 02.11.2009
  
 # Eingangsformel

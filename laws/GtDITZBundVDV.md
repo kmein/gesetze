@@ -1,4 +1,4 @@
-% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund   (GtDITZBundVDV)
+% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund*  (GtDITZBundVDV)
 % Ausfertigungsdatum: 13.11.2020
  
 # Eingangsformel

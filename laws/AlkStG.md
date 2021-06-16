@@ -1,4 +1,4 @@
-% Alkoholsteuergesetz   (AlkStG)
+% Alkoholsteuergesetz2  (AlkStG)
 % Ausfertigungsdatum: 21.06.2013
  
 # § 1 – Steuergebiet, Steuergegenstand

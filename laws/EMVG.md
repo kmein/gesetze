@@ -1,4 +1,4 @@
-% Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln   (Elektromagnetische-Verträglichkeit-Gesetz - EMVG)
+% Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln*  (Elektromagnetische-Verträglichkeit-Gesetz - EMVG)
 % Ausfertigungsdatum: 14.12.2016
  
 # Inhaltsübersicht

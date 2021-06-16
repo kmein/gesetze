@@ -1,4 +1,4 @@
-% Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung    (Laufbahnbefähigungsanerkennungsverordnung - LBAV)
+% Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung *)  (Laufbahnbefähigungsanerkennungsverordnung - LBAV)
 % Ausfertigungsdatum: 23.11.2009
  
 # Eingangsformel

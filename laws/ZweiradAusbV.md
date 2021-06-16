@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin   (Zweiradmechatronikerausbildungsverordnung - ZweiradAusbV)
+% Verordnung über die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin*  (Zweiradmechatronikerausbildungsverordnung - ZweiradAusbV)
 % Ausfertigungsdatum: 13.06.2014
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“   (NSGPBRV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“1  (NSGPBRV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

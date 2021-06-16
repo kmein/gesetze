@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin
+% Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin *)
 % Ausfertigungsdatum: 28.05.2009
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Werksteinhersteller und zur Werksteinherstellerin   (Werksteinherstellerausbildungsverordnung - WStHAusbV)
+% Verordnung über die Berufsausbildung zum Werksteinhersteller und zur Werksteinherstellerin*  (Werksteinherstellerausbildungsverordnung - WStHAusbV)
 % Ausfertigungsdatum: 13.07.2015
  
 # Eingangsformel

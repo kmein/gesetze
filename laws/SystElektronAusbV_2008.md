@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin
+% Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin*)
 % Ausfertigungsdatum: 25.07.2008
  
 # Eingangsformel

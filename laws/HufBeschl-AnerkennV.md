@@ -1,4 +1,4 @@
-% Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung   (Hufbeschlag-Anerkennungsverordnung - HufBeschl-AnerkennV)
+% Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung*)  (Hufbeschlag-Anerkennungsverordnung - HufBeschl-AnerkennV)
 % Ausfertigungsdatum: 10.03.2009
  
 # Eingangsformel

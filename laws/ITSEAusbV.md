@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin   (IT-System-Elektroniker-Ausbildungsverordnung - ITSEAusbV)
+% Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin*  (IT-System-Elektroniker-Ausbildungsverordnung - ITSEAusbV)
 % Ausfertigungsdatum: 28.02.2020
  
 # Eingangsformel

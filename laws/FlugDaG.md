@@ -1,4 +1,4 @@
-% Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681   (Fluggastdatengesetz - FlugDaG)
+% Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681*  (Fluggastdatengesetz - FlugDaG)
 % Ausfertigungsdatum: 06.06.2017
  
 # § 1 – Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems

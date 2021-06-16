@@ -1,4 +1,4 @@
-% Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen     (AwSV)
+% Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen 1,2  (AwSV)
 % Ausfertigungsdatum: 18.04.2017
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise in der Seeschifffahrt   (See-Arbeitszeitnachweisverordnung - See-ArbZNV)
+% Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise in der Seeschifffahrt*  (See-Arbeitszeitnachweisverordnung - See-ArbZNV)
 % Ausfertigungsdatum: 25.07.2013
  
 # Eingangsformel
@@ -63,7 +63,7 @@ Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des Seearbeitsgesetzes han
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die See-Arbeitszeitnachweisverordnung vom 5. Juli 2002 (BGBl. I S. 2571) außer Kraft.
 
-# Anlage 1 – (zu § 2 Absatz 1)Standardmuster für die Übersicht über die Arbeitsorganisation an Bord
+# Anlage 1 – (zu § 2 Absatz 1)Standardmuster für die Übersicht über die Arbeitsorganisation an Bord1
 
 (Fundstelle: BGBl. I 2013, 2797)
 
@@ -91,7 +91,7 @@ Nichtzutreffendes streichen.
 <span id="FnA1-f782027_05"></span><a href="#FnR.FnA1-f782027_05" class="Footnote">4</a>  
 Für das Wachpersonal können unter der Rubrik „Bemerkungen“ Angaben zu der voraussichtlich für außerplanmäßige Dienste abzuleistenden Stundenzahl eingetragen werden; diese Stunden sind in die Rubrik zur Angabe der täglichen Gesamtarbeitszeit aufzunehmen.
 
-# Anlage 2 – (zu § 3 Absatz 1)Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern
+# Anlage 2 – (zu § 3 Absatz 1)Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern1
 
 (Fundstelle: BGBl. I 2013, 2798 - 2799)
 

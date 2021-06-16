@@ -1,4 +1,4 @@
-% Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht   (BaFin-Verstoßmeldeverordnung - BaFinVerstMeldV)
+% Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht*  (BaFin-Verstoßmeldeverordnung - BaFinVerstMeldV)
 % Ausfertigungsdatum: 02.07.2016
  
 # Eingangsformel

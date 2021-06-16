@@ -1,4 +1,4 @@
-% Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge   (Elektromobilitätsgesetz - EmoG)
+% Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge1  (Elektromobilitätsgesetz - EmoG)
 % Ausfertigungsdatum: 05.06.2015
  
 # § 1 – Anwendungsbereich

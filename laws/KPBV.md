@@ -1,4 +1,4 @@
-% Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln   (Klinische Prüfung-Bewertungsverfahren-Verordnung - KPBV)
+% Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln*)  (Klinische Prüfung-Bewertungsverfahren-Verordnung - KPBV)
 % Ausfertigungsdatum: 12.07.2017
  
 # Eingangsformel

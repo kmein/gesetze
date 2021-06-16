@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice
+% Verordnung über die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice*)
 % Ausfertigungsdatum: 06.04.2011
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin   (Milchwirtschaftliche-Laboranten-Ausbildungsverordnung - MilchLAusbV)
+% Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin*  (Milchwirtschaftliche-Laboranten-Ausbildungsverordnung - MilchLAusbV)
 % Ausfertigungsdatum: 29.05.2013
  
 # Eingangsformel

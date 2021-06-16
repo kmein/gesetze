@@ -1,4 +1,4 @@
-% Gesetz zum Aufbau einer gebäudeintegrierten Lade- und Leitungsinfrastruktur für die Elektromobilität   (Gebäude-Elektromobilitätsinfrastruktur-Gesetz - GEIG)
+% Gesetz zum Aufbau einer gebäudeintegrierten Lade- und Leitungsinfrastruktur für die Elektromobilität*  (Gebäude-Elektromobilitätsinfrastruktur-Gesetz - GEIG)
 % Ausfertigungsdatum: 18.03.2021
  
 # Eingangsformel

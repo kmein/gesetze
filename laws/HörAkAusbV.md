@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Hörakustiker und zur Hörakustikerin   (Hörakustikerausbildungsverordnung - HörAkAusbV)
+% Verordnung über die Berufsausbildung zum Hörakustiker und zur Hörakustikerin*  (Hörakustikerausbildungsverordnung - HörAkAusbV)
 % Ausfertigungsdatum: 28.04.2016
  
 # Eingangsformel

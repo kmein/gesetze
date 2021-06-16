@@ -1,4 +1,4 @@
-% Verordnung zur Anwendung der Arzneimittelprüfrichtlinien   (Arzneimittelprüfrichtlinien-Verordnung - AMPV)
+% Verordnung zur Anwendung der Arzneimittelprüfrichtlinien*  (Arzneimittelprüfrichtlinien-Verordnung - AMPV)
 % Ausfertigungsdatum: 08.01.2016
  
 # Eingangsformel

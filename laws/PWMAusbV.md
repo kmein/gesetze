@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin   (Präzisionswerkzeugmechanikerausbildungsverordnung - PWMAusbV)
+% Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin*  (Präzisionswerkzeugmechanikerausbildungsverordnung - PWMAusbV)
 % Ausfertigungsdatum: 03.04.2018
  
 # Eingangsformel

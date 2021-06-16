@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
+% Verordnung über die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau *)
 % Ausfertigungsdatum: 13.02.2008
  
 # Eingangsformel

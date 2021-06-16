@@ -1,4 +1,4 @@
-% Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwischen den Mitgliedstaaten der Europäischen Union   (EU-Amtshilfegesetz - EUAHiG)
+% Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwischen den Mitgliedstaaten der Europäischen Union*  (EU-Amtshilfegesetz - EUAHiG)
 % Ausfertigungsdatum: 26.06.2013
  
 # Inhaltsübersicht

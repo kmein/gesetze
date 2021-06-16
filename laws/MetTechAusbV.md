@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik
+% Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*
 % Ausfertigungsdatum: 02.04.2013
  
 # Eingangsformel

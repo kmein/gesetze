@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin   (Böttchergewerbe-Ausbildungsverordnung - BöttchAusbV)
+% Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin*)  (Böttchergewerbe-Ausbildungsverordnung - BöttchAusbV)
 % Ausfertigungsdatum: 05.05.2010
  
 # Eingangsformel

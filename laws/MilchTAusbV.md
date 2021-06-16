@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin
+% Verordnung über die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin*)
 % Ausfertigungsdatum: 09.04.2010
  
 # Eingangsformel

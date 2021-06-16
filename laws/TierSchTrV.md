@@ -1,4 +1,4 @@
-% Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates    (Tierschutztransportverordnung - TierSchTrV)
+% Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates1)2)  (Tierschutztransportverordnung - TierSchTrV)
 % Ausfertigungsdatum: 11.02.2009
  
 # Eingangsformel

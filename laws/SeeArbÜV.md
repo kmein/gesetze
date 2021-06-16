@@ -1,4 +1,4 @@
-% Verordnung über die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen auf Schiffen   (Seearbeitsüberprüfungs-Verordnung - SeeArbÜV)
+% Verordnung über die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen auf Schiffen1  (Seearbeitsüberprüfungs-Verordnung - SeeArbÜV)
 % Ausfertigungsdatum: 25.07.2013
  
 # Eingangsformel

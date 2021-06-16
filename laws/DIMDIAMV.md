@@ -1,4 +1,4 @@
-% Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte   (BfArM-Arzneimitteldatenverordnung)
+% Verordnung über das datenbankgestützte Informationssystem über Arzneimittel des Bundesinstituts für Arzneimittel und Medizinprodukte*)  (BfArM-Arzneimitteldatenverordnung)
 % Ausfertigungsdatum: 24.02.2010
  
 # Eingangsformel

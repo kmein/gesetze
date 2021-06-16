@@ -1,4 +1,4 @@
-% Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet   (Aufenthaltsgesetz - AufenthG)
+% Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet1)  (Aufenthaltsgesetz - AufenthG)
 % Ausfertigungsdatum: 30.07.2004
  
 # Inhaltsübersicht

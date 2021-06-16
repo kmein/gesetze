@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin   (Augenoptiker-Ausbildungsverordnung - AugenoptAusbV)
+% Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin*)  (Augenoptiker-Ausbildungsverordnung - AugenoptAusbV)
 % Ausfertigungsdatum: 26.04.2011
  
 # Eingangsformel

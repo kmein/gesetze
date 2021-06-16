@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Borkum Riffgrund“   (NSGBRgV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Borkum Riffgrund“1  (NSGBRgV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

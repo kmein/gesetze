@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Betonfertigteilbauer und zur Betonfertigteilbauerin   (Betonfertigteilbauerausbildungsverordnung - BetonFBAusbV)
+% Verordnung über die Berufsausbildung zum Betonfertigteilbauer und zur Betonfertigteilbauerin*  (Betonfertigteilbauerausbildungsverordnung - BetonFBAusbV)
 % Ausfertigungsdatum: 13.07.2015
  
 # Eingangsformel

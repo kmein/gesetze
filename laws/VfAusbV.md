@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik   (Veranstaltungsfachkräfteausbildungsverordnung - VfAusbV)
+% Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik*  (Veranstaltungsfachkräfteausbildungsverordnung - VfAusbV)
 % Ausfertigungsdatum: 03.06.2016
  
 # Eingangsformel

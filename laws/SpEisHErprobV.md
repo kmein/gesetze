@@ -1,4 +1,4 @@
-% Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin
+% Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin *)
 % Ausfertigungsdatum: 13.05.2008
  
 # § 10 – Bestehende Berufsausbildungsverhältnisse

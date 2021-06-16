@@ -1,4 +1,4 @@
-% Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung   (Kohleverstromungsbeendigungsgesetz - KVBG)
+% Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung*  (Kohleverstromungsbeendigungsgesetz - KVBG)
 % Ausfertigungsdatum: 08.08.2020
  
 # Inhaltsübersicht

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin
+% Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin*
 % Ausfertigungsdatum: 02.04.2013
  
 # Eingangsformel

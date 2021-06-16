@@ -1,4 +1,4 @@
-% Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung   (Biomassestrom-Nachhaltigkeitsverordnung - BioSt-NachV)
+% Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung*)  (Biomassestrom-Nachhaltigkeitsverordnung - BioSt-NachV)
 % Ausfertigungsdatum: 23.07.2009
  
 # Eingangsformel

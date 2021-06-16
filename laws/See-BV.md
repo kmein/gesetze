@@ -1,4 +1,4 @@
-% Verordnung über die Befähigungen der Seeleute in der Seeschifffahrt   (Seeleute-Befähigungsverordnung - See-BV)
+% Verordnung über die Befähigungen der Seeleute in der Seeschifffahrt*  (Seeleute-Befähigungsverordnung - See-BV)
 % Ausfertigungsdatum: 08.05.2014
  
 # Eingangsformel

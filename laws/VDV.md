@@ -1,4 +1,4 @@
-% Verordnung zu Vertrauensdiensten    (Vertrauensdiensteverordnung - VDV)
+% Verordnung zu Vertrauensdiensten1,2  (Vertrauensdiensteverordnung - VDV)
 % Ausfertigungsdatum: 15.02.2019
  
 # Eingangsformel

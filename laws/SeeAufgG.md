@@ -461,7 +461,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (4) Für Amtshandlungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 
-# § 13
+# § 13 – 3
 
 (1) Für das Befahren des Nord-Ostsee-Kanals sowie für die Inanspruchnahme bundeseigener Häfen werden von demjenigen, der den Nord-Ostsee-Kanal befährt oder der bundeseigene Häfen in Anspruch nimmt, Abgaben erhoben. Abgabenschuldner ist auch der Eigentümer des Schiffes. Mehrere Schuldner haften als Gesamtschuldner. Abgabengläubiger ist der Bund.
 

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin    (Keramikgewerbe-Ausbildungsverordnung - KerAusbV)
+% Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin *)  (Keramikgewerbe-Ausbildungsverordnung - KerAusbV)
 % Ausfertigungsdatum: 27.05.2009
  
 # Eingangsformel

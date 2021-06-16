@@ -1,4 +1,4 @@
-% Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie   (Medizinischer Bedarf Versorgungssicherstellungsverordnung - MedBVSV)
+% Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie*  (Medizinischer Bedarf Versorgungssicherstellungsverordnung - MedBVSV)
 % Ausfertigungsdatum: 25.05.2020
  
 # Eingangsformel

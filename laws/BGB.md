@@ -5815,7 +5815,7 @@ Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag kündigen
 
 (2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
 
-# § 650 – Anwendung des Kaufrechts
+# § 650 – Anwendung des Kaufrechts*)
 
 Auf einen Vertrag, der die Lieferung herzustellender oder zu erzeugender beweglicher Sachen zum Gegenstand hat, finden die Vorschriften über den Kauf Anwendung. § 442 Abs. 1 Satz 1 findet bei diesen Verträgen auch Anwendung, wenn der Mangel auf den vom Besteller gelieferten Stoff zurückzuführen ist. Soweit es sich bei den herzustellenden oder zu erzeugenden beweglichen Sachen um nicht vertretbare Sachen handelt, sind auch die §§ 642, 643, 645, 648 und 649 mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme der nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
 

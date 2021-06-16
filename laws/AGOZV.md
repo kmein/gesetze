@@ -1,4 +1,4 @@
-% Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten   (Anbaumaterialverordnung - AGOZV)
+% Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten*  (Anbaumaterialverordnung - AGOZV)
 % Ausfertigungsdatum: 21.11.2018
  
 # Eingangsformel

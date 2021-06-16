@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin   (FeinwAusbV)
+% Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin*)  (FeinwAusbV)
 % Ausfertigungsdatum: 07.07.2010
  
 # Eingangsformel

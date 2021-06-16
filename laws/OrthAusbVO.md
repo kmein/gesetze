@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin   (Orthopädieausbildungsverordnung - OrthAusbVO)
+% Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin*  (Orthopädieausbildungsverordnung - OrthAusbVO)
 % Ausfertigungsdatum: 15.05.2013
  
 # Eingangsformel

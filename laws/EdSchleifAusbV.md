@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin   (Edelsteinschleiferausbildungsverordnung - EdSchleifAusbV)
+% Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin*  (Edelsteinschleiferausbildungsverordnung - EdSchleifAusbV)
 % Ausfertigungsdatum: 17.05.2018
  
 # Eingangsformel

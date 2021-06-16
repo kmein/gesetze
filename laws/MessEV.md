@@ -2573,7 +2573,7 @@ Unterzeichnet für und im Namen von ……………….
 (Fundstelle: BGBl. I 2014, 2062 - 2063;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-# Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte
+# Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte*
 
 (Fundstelle: BGBl. I 2014, 2064 - 2068;  
 bzgl. der einzelnen Änderungen vgl. Fußnote))

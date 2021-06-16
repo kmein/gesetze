@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin   (Schilder- und Lichtreklame-Ausbildungsverordnung - SchLichtReklAusbV)
+% Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin*)  (Schilder- und Lichtreklame-Ausbildungsverordnung - SchLichtReklAusbV)
 % Ausfertigungsdatum: 26.03.2012
  
 # Eingangsformel

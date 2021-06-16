@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik und zur Elektronikerin für Maschinen und Antriebstechnik
+% Verordnung über die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik und zur Elektronikerin für Maschinen und Antriebstechnik*)
 % Ausfertigungsdatum: 25.07.2008
  
 # Eingangsformel

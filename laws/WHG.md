@@ -1,4 +1,4 @@
-% Gesetz zur Ordnung des Wasserhaushalts    (Wasserhaushaltsgesetz - WHG)
+% Gesetz zur Ordnung des Wasserhaushalts1)2)  (Wasserhaushaltsgesetz - WHG)
 % Ausfertigungsdatum: 31.07.2009
  
 # Inhaltsübersicht
@@ -1450,6 +1450,8 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 1. eine Beeinträchtigung des Wohls der Allgemeinheit, insbesondere eine erhebliche und dauerhafte, nicht ausgleichbare Erhöhung der Hochwasserrisiken oder eine Zerstörung natürlicher Rückhalteflächen, vor allem in Auwäldern, nicht zu erwarten ist und
 
 2. andere Anforderungen nach diesem Gesetz oder sonstigen öffentlich-rechtlichen Vorschriften erfüllt werden.
+
+(4) Maßnahmen zur wesentlichen Umgestaltung einer Binnenwasserstraße des Bundes oder ihrer Ufer nach § 67 Absatz 2 Satz 1 und 2 führt, soweit sie erforderlich sind, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 zu erreichen, die Wasserstraßen- und Schifffahrtsverwaltung des Bundes im Rahmen ihrer Aufgaben nach dem Bundeswasserstraßengesetz hoheitlich durch.
 
 # § 69 – Abschnittsweise Zulassung, vorzeitiger Beginn
 

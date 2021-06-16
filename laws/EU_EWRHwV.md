@@ -1,4 +1,4 @@
-% Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks   (EU/EWR-Handwerk-Verordnung - EU/EWRHwV)
+% Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks*  (EU/EWR-Handwerk-Verordnung - EU/EWRHwV)
 % Ausfertigungsdatum: 18.03.2016
  
 # Eingangsformel

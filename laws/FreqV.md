@@ -1,4 +1,4 @@
-% Frequenzverordnung   (FreqV)
+% Frequenzverordnung*  (FreqV)
 % Ausfertigungsdatum: 27.08.2013
  
 # Eingangsformel

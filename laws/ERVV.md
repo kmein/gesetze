@@ -1,4 +1,4 @@
-% Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach   (Elektronischer-Rechtsverkehr-Verordnung - ERVV)
+% Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach*  (Elektronischer-Rechtsverkehr-Verordnung - ERVV)
 % Ausfertigungsdatum: 24.11.2017
  
 # Eingangsformel

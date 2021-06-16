@@ -1,4 +1,4 @@
-% Verordnung über die Zulässigkeit der Anwendung von Röntgenstrahlung zur Früherkennung von Brustkrebs bei Frauen   (Brustkrebs-Früherkennungs-Verordnung - BrKrFrühErkV)
+% Verordnung über die Zulässigkeit der Anwendung von Röntgenstrahlung zur Früherkennung von Brustkrebs bei Frauen1  (Brustkrebs-Früherkennungs-Verordnung - BrKrFrühErkV)
 % Ausfertigungsdatum: 17.12.2018
  
 # Eingangsformel

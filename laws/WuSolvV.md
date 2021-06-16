@@ -1,4 +1,4 @@
-% Verordnung über die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung   (Wohnungsunternehmen-Solvabilitätsverordnung - WuSolvV)
+% Verordnung über die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung1  (Wohnungsunternehmen-Solvabilitätsverordnung - WuSolvV)
 % Ausfertigungsdatum: 06.12.2013
  
 # Eingangsformel

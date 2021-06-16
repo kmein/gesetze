@@ -1,4 +1,4 @@
-% Baugesetzbuch    (BauGB)
+% Baugesetzbuch *)  (BauGB)
 % Ausfertigungsdatum: 23.06.1960
  
 # Inhaltsübersicht

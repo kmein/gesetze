@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
+% Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack *)
 % Ausfertigungsdatum: 25.06.2009
  
 # Inhaltsübersicht

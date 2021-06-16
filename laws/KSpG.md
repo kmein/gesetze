@@ -1,4 +1,4 @@
-% Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid   (Kohlendioxid-Speicherungsgesetz - KSpG)
+% Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid1)  (Kohlendioxid-Speicherungsgesetz - KSpG)
 % Ausfertigungsdatum: 17.08.2012
  
 # Inhaltsübersicht

@@ -2259,7 +2259,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2571 - 2573)
 
-# Anlage 3 – (zu § 18 Absatz 1)Wahlbenachrichtigung
+# Anlage 3 – (zu § 18 Absatz 1)Wahlbenachrichtigung1)
 
 (Fundstelle: BGBl. I 2018, 586)
 

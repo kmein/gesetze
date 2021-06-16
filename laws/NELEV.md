@@ -1,4 +1,4 @@
-% Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen   (Elektrotechnische-Eigenschaften-Nachweis-Verordnung - NELEV)
+% Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen1  (Elektrotechnische-Eigenschaften-Nachweis-Verordnung - NELEV)
 % Ausfertigungsdatum: 12.06.2017
  
 # Eingangsformel

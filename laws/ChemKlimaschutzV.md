@@ -1,4 +1,4 @@
-% Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase    (Chemikalien-Klimaschutzverordnung - ChemKlimaschutzV)
+% Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase *)  (Chemikalien-Klimaschutzverordnung - ChemKlimaschutzV)
 % Ausfertigungsdatum: 02.07.2008
  
 # Eingangsformel

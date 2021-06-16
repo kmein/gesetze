@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Orthopädieschuhmacher und zur Orthopädieschuhmacherin   (Orthopädieschuhmacherausbildungsverordnung - OrthopschuhmAusbV)
+% Verordnung über die Berufsausbildung zum Orthopädieschuhmacher und zur Orthopädieschuhmacherin*  (Orthopädieschuhmacherausbildungsverordnung - OrthopschuhmAusbV)
 % Ausfertigungsdatum: 16.07.2015
  
 # Eingangsformel

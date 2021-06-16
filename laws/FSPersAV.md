@@ -1,4 +1,4 @@
-% Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung    (Flugsicherungspersonalausbildungsverordnung - FSPersAV)
+% Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung *)  (Flugsicherungspersonalausbildungsverordnung - FSPersAV)
 % Ausfertigungsdatum: 10.10.2008
  
 # Eingangsformel

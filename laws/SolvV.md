@@ -1,4 +1,4 @@
-% Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen   (Solvabilitätsverordnung - SolvV)
+% Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen1  (Solvabilitätsverordnung - SolvV)
 % Ausfertigungsdatum: 06.12.2013
  
 # Eingangsformel

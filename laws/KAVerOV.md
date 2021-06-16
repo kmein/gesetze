@@ -1,4 +1,4 @@
-% Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch   (Kapitalanlage-Verhaltens- und -Organisationsverordnung - KAVerOV)
+% Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch*  (Kapitalanlage-Verhaltens- und -Organisationsverordnung - KAVerOV)
 % Ausfertigungsdatum: 16.07.2013
  
 # Eingangsformel

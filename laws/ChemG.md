@@ -1,4 +1,4 @@
-% Gesetz zum Schutz vor gefährlichen Stoffen   (Chemikaliengesetz - ChemG)
+% Gesetz zum Schutz vor gefährlichen Stoffen1  (Chemikaliengesetz - ChemG)
 % Ausfertigungsdatum: 16.09.1980
  
 # Inhaltsübersicht
@@ -835,7 +835,7 @@ Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden unterrich
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder Europäischen Union, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist.
 
-# § 25a – Gebühren und Auslagen
+# § 25a – Gebühren und Auslagen4
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsvorschriften sowie nach EG- oder EU-Verordnungen im Sinne des § 21 Absatz 2 Satz 1 sind Gebühren und Auslagen zu erheben. § 8 bleibt unberührt.
 

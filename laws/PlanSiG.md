@@ -1,4 +1,4 @@
-% Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie   (Planungssicherstellungsgesetz - PlanSiG)
+% Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie*  (Planungssicherstellungsgesetz - PlanSiG)
 % Ausfertigungsdatum: 20.05.2020
  
 # Eingangsformel

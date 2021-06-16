@@ -1,4 +1,4 @@
-% Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente    (Atomrechtliche Abfallverbringungsverordnung - AtAV)
+% Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente *)  (Atomrechtliche Abfallverbringungsverordnung - AtAV)
 % Ausfertigungsdatum: 30.04.2009
  
 # Eingangsformel

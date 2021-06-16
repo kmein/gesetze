@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin   (Schornsteinfeger-Ausbildungsverordnung - SchfAusbV)
+% Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin*)  (Schornsteinfeger-Ausbildungsverordnung - SchfAusbV)
 % Ausfertigungsdatum: 20.06.2012
  
 # Eingangsformel

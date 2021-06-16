@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
+% Verordnung über die Berufsausbildung zur Fachkraft Agrarservice*)
 % Ausfertigungsdatum: 23.07.2009
  
 # Eingangsformel

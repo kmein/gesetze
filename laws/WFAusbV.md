@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau   (Werkfeuerwehrausbildungsverordnung - WFAusbV)
+% Verordnung über die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau*  (Werkfeuerwehrausbildungsverordnung - WFAusbV)
 % Ausfertigungsdatum: 22.05.2015
  
 # Eingangsformel

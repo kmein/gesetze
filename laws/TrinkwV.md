@@ -1,4 +1,4 @@
-% Verordnung über die Qualität von Wasser für den menschlichen Gebrauch    (Trinkwasserverordnung - TrinkwV)
+% Verordnung über die Qualität von Wasser für den menschlichen Gebrauch1,2  (Trinkwasserverordnung - TrinkwV)
 % Ausfertigungsdatum: 21.05.2001
  
 # § 1 – Zweck der Verordnung

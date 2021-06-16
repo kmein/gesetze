@@ -137,7 +137,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (3) Die Überprüfungen nach den Absätzen 1 und 2 sind durch einen von der zuständigen Behörde ausgewählten Sachverständigen vornehmen zu lassen. Art und Umfang der Prüfungen richten sich nach dem sie auslösenden Anlass. Unter gleichwertigen Prüfverfahren ist dasjenige auszuwählen, bei dessen Anwendung die Versorgung am wenigsten beeinträchtigt wird.
 
-# § 11 – Anerkennung von Sachverständigen
+# § 11 – Anerkennung von Sachverständigen 2)
 
 (1) Sachverständige im Sinne dieser Verordnung sind Personen, die von der zuständigen Behörde für die Überprüfung der technischen Sicherheit von Gashochdruckleitungen auf Grund eines schriftlichen oder elektronischen Antrags nach dieser Verordnung anerkannt worden sind.
 

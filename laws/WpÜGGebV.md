@@ -29,13 +29,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt zur 
 
 8. die Entscheidung über einen Antrag auf Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebotes nach § 37 Abs. 1 des Wertpapiererwerbs- und Übernahmegesetzes,
 
-9. die vollständige oder teilweise Zurückweisung eines Widerspruchs nach § 41 in Verbindung mit § 6 des Wertpapiererwerbs- und Übernahmegesetzes.
+9. die vollständige oder teilweise Zurückweisung eines Widerspruchs nach § 41 des Wertpapiererwerbs- und Übernahmegesetzes.
 
 (2) Eine Gebühr wird auch erhoben, wenn ein Antrag auf Vornahme einer nach Absatz 1 Nr. 1, 4, 5, 7 oder Nr. 8 gebührenpflichtigen Handlung nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen wird.
 
-# § 3 – Auslagen
-
-Als Auslagen werden die Kosten der Veröffentlichung nach § 44 des Wertpapiererwerbs- und Übernahmegesetzes, sowie die Kosten, die im Rahmen des Widerspruchsverfahrens den Mitgliedern des Widerspruchsausschusses für die Teilnahme an den Sitzungen entstehen, erhoben. Im Übrigen gilt § 23 Absatz 6 des Bundesgebührengesetzes.
+# § 3 – (weggefallen)
 
 # § 4 – Höhe der Gebühren
 
@@ -64,9 +62,9 @@ Die Gebühr beträgt für Entscheidungen über Widersprüche gegen individuell z
 
 (3) Im Fall einer Antragsrücknahme nach § 2 Abs. 2 ist die Hälfte der für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Gebühr zu entrichten.
 
-# § 5
+# § 5 – Übergangsregelung
 
-(weggefallen)
+Auf Widersprüche, die vor dem 11. Juni 2021 eingelegt wurden, findet diese Verordnung in der vor dem 11. Juni 2021 geltenden Fassung Anwendung.
 
 # § 6 – Inkrafttreten
 

@@ -1,4 +1,4 @@
-% Gesetz über die Pflegeberufe   (Pflegeberufegesetz - PflBG)
+% Gesetz über die Pflegeberufe1  (Pflegeberufegesetz - PflBG)
 % Ausfertigungsdatum: 17.07.2017
  
 # Inhaltsübersicht

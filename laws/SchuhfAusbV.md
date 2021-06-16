@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin   (Schuhfertigerausbildungsverordnung - SchuhfAusbV)
+% Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin*  (Schuhfertigerausbildungsverordnung - SchuhfAusbV)
 % Ausfertigungsdatum: 28.02.2017
  
 # Eingangsformel

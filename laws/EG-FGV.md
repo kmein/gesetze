@@ -1,4 +1,4 @@
-% Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge   (EG-Fahrzeuggenehmigungsverordnung - EG-FGV)
+% Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge*)  (EG-Fahrzeuggenehmigungsverordnung - EG-FGV)
 % Ausfertigungsdatum: 03.02.2011
  
 # Eingangsformel

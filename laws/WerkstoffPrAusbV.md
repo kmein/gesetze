@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
+% Verordnung über die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin*
 % Ausfertigungsdatum: 25.06.2013
  
 # Eingangsformel
@@ -973,7 +973,7 @@ Abschnitt E: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeit
 
 Abschnitt F: Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712
+# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712*
 
 (Fundstelle: BGBl. I 2013, 1716 - 1728)
 

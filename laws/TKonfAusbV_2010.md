@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin
+% Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)
 % Ausfertigungsdatum: 04.05.2010
  
 # Eingangsformel

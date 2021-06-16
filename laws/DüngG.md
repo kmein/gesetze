@@ -1,4 +1,4 @@
-% Düngegesetz
+% Düngegesetz *)
 % Ausfertigungsdatum: 09.01.2009
  
 # Eingangsformel

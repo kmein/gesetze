@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
+% Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin *)
 % Ausfertigungsdatum: 10.06.2009
  
 # Eingangsformel

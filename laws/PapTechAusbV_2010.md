@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
+% Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin *)
 % Ausfertigungsdatum: 20.04.2010
  
 # Eingangsformel

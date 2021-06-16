@@ -1,4 +1,4 @@
-% Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz im Anwendungsbereich des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen   (Rahmenbeschluss-Geldsanktionen-E-Rechtsverkehrs-und-Aktenführungsverordnung - RbGeldERAV)
+% Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz im Anwendungsbereich des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen1  (Rahmenbeschluss-Geldsanktionen-E-Rechtsverkehrs-und-Aktenführungsverordnung - RbGeldERAV)
 % Ausfertigungsdatum: 18.10.2017
  
 # Eingangsformel

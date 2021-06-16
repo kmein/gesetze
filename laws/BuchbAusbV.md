@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin   (Buchbinder-Ausbildungsverordnung - BuchbAusbV)
+% Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)  (Buchbinder-Ausbildungsverordnung - BuchbAusbV)
 % Ausfertigungsdatum: 20.05.2011
  
 # Eingangsformel

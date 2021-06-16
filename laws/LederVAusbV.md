@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft für Lederverarbeitung
+% Verordnung über die Berufsausbildung zur Fachkraft für Lederverarbeitung*)
 % Ausfertigungsdatum: 14.02.2011
  
 # Eingangsformel

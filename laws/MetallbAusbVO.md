@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Metallbildner und zur Metallbildnerin   (Metallbildnerausbildungsverordnung - MetallbAusbVO)
+% Verordnung über die Berufsausbildung zum Metallbildner und zur Metallbildnerin*  (Metallbildnerausbildungsverordnung - MetallbAusbVO)
 % Ausfertigungsdatum: 06.06.2016
  
 # Eingangsformel

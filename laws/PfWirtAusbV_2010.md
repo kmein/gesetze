@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+% Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin*)
 % Ausfertigungsdatum: 07.06.2010
  
 # Eingangsformel
