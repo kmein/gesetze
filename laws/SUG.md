@@ -93,7 +93,7 @@ g) der aus einem anderen Grund ein Interesse geltend machen kann, das von dem be
 
 Seefahrtbezogene internationale Untersuchungsregelungen im Sinne dieses Gesetzes sind die in den Buchstaben A, C und D der Anlage aufgeführten Vorschriften des innerstaatlich geltenden Völkerrechts und die in den Buchstaben B und E der Anlage aufgeführten Vorschriften in Rechtsakten der Europäischen Gemeinschaft in der jeweils angegebenen Fassung.
 
-# § 3 – Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
+# § 3 – Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften*)
 
 Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Buchstaben B und E der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen.
 

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Weintechnologen und zur Weintechnologin
+% Verordnung über die Berufsausbildung zum Weintechnologen und zur Weintechnologin*
 % Ausfertigungsdatum: 15.05.2013
  
 # Eingangsformel

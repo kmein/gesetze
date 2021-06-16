@@ -35,11 +35,11 @@ Aufgaben und Befugnisse
 
 § 5
 
-Beirat
+(weggefallen)
 
 § 6
 
-Widerspruchsausschuss
+(weggefallen)
 
 § 7
 
@@ -457,47 +457,9 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 
 (2) Die Bundesanstalt nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-# § 5 – Beirat
+# § 5 – (weggefallen)
 
-(1) Bei der Bundesanstalt wird ein Beirat gebildet. Der Beirat besteht aus
-
-1. vier Vertretern der Emittenten,
-
-2. je zwei Vertretern der institutionellen und der privaten Anleger,
-
-3. drei Vertretern der Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes,
-
-4. zwei Vertretern der Arbeitnehmer,
-
-5. zwei Vertretern der Wissenschaft.
-
-Die Mitglieder des Beirates werden vom Bundesministerium der Finanzen für jeweils fünf Jahre bestellt; die Bestellung der in Satz 2 Nr. 1 bis 4 genannten Mitglieder erfolgt nach Anhörung der betroffenen Kreise. Die Mitglieder des Beirates müssen fachlich besonders geeignet sein; insbesondere müssen sie über Kenntnisse über die Funktionsweise der Kapitalmärkte sowie über Kenntnisse auf dem Gebiet des Gesellschaftsrechts, des Bilanzwesens oder des Arbeitsrechts verfügen. Die Mitglieder des Beirates verwalten ihr Amt als unentgeltliches Ehrenamt. Für ihre Teilnahme an Sitzungen erhalten sie Tagegelder und Vergütung der Reisekosten nach festen Sätzen, die das Bundesministerium der Finanzen bestimmt. An den Sitzungen können Vertreter der Bundesministerien der Finanzen, der Justiz und für Verbraucherschutz sowie für Wirtschaft und Energie teilnehmen.
-
-(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Zusammensetzung des Beirates, die Einzelheiten der Bestellung seiner Mitglieder, die vorzeitige Beendigung der Mitgliedschaft, das Verfahren und die Kosten erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
-
-(3) Der Beirat wirkt bei der Aufsicht mit. Er berät die Bundesanstalt, insbesondere bei dem Erlass von Rechtsverordnungen für die Aufsichtstätigkeit der Bundesanstalt. Er unterbreitet mit Zustimmung von zwei Dritteln seiner Mitglieder Vorschläge für die ehrenamtlichen Beisitzer des Widerspruchsausschusses und deren Vertreter.
-
-(4) Der Präsident der Bundesanstalt lädt zu den Sitzungen des Beirates ein. Die Sitzungen werden vom Präsidenten der Bundesanstalt oder einem von ihm beauftragten Exekutivdirektor oder Beamten geleitet.
-
-(5) Der Beirat gibt sich eine Geschäftsordnung.
-
-# § 6 – Widerspruchsausschuss
-
-(1) Bei der Bundesanstalt wird ein Widerspruchsausschuss gebildet. Dieser entscheidet über Widersprüche gegen Verfügungen der Bundesanstalt nach § 4 Abs. 1 Satz 3, § 10 Abs. 1 Satz 3, Abs. 2 Satz 3, § 15 Abs. 1 und 2, § 20 Abs. 1, §§ 24, 28 Abs. 1, §§ 36 und 37.
-
-(2) Der Widerspruchsausschuss besteht aus
-
-1. dem Präsidenten der Bundesanstalt oder einem von ihm beauftragten Exekutivdirektor oder Beamten, der die Befähigung zum Richteramt hat, als Vorsitzendem,
-
-2. zwei vom Präsidenten der Bundesanstalt beauftragten Beamten als Beisitzern,
-
-3. drei vom Präsidenten der Bundesanstalt bestellten ehrenamtlichen Beisitzern.
-
-Bei Stimmengleichheit entscheidet der Vorsitzende.
-
-(3) Die ehrenamtlichen Beisitzer werden vom Präsidenten der Bundesanstalt für fünf Jahre als Mitglieder des Widerspruchsausschusses bestellt.
-
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über das Verfahren, die Einzelheiten der Bestellung der ehrenamtlichen Beisitzer, die vorzeitige Beendigung und die Vertretung erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+# § 6 – (weggefallen)
 
 # § 7 – Zusammenarbeit mit Aufsichtsbehörden im Inland
 
@@ -534,6 +496,26 @@ soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Person
 2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
 
 (3) Die Mitglieder des Beirates und die ehrenamtlichen Beisitzer des Widerspruchsausschusses sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547), geändert durch § 1 Nr. 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942), in der jeweils geltenden Fassung von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
+
+# § 9 – Verschwiegenheitspflicht
+
+(1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2 Beschäftigten und die Personen, derer sich die Bundesanstalt nach § 7 Abs. 2 bedient, dürfen ihnen bei ihrer Tätigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverhältnisses oder ihrer Tätigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
+
+1. Strafverfolgungsbehörden oder für Straf und Buß-geldsachen zuständige Gerichte,
+
+2. Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung von Wettbewerbsbeschränkungen, der Überwachung von Angeboten zum Erwerb von Wertpapieren oder der Überwachung von Börsen oder anderen Wertpapier- oder Derivatemärkten, des Wertpapier- oder Derivatehandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, Investmentgesellschaften, Finanzunternehmen oder Versicherungsunternehmen betraut sind, sowie von solchen Stellen beauftragte Personen,
+
+3. das Bundesministerium für Wirtschaft und Energie,
+
+soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Personen erforderlich sind. Für die bei den in Satz 3 genannten Stellen beschäftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den Sätzen 1 bis 3 entsprechend. An eine ausländische Stelle dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
+
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+
+1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
+
+2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
+
+(3) (weggefallen)
 
 # § 10 – Veröffentlichung der Entscheidung zur Abgabe eines Angebots
 
@@ -811,9 +793,7 @@ Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellsc
 
 # § 28 – Werbung
 
-(1) Um Missständen bei der Werbung im Zusammenhang mit Angeboten zum Erwerb von Wertpapieren zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen.
-
-(2) Vor allgemeinen Maßnahmen nach Absatz 1 ist der Beirat zu hören.
+Um Missständen bei der Werbung im Zusammenhang mit Angeboten zum Erwerb von Wertpapieren zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen.
 
 # § 29 – Begriffsbestimmungen
 
@@ -1051,7 +1031,7 @@ Nach einem Übernahme- oder Pflichtangebot können die Aktionäre einer Zielgese
 
 (3) Die Beteiligten haben an der Aufklärung des Sachverhaltes mitzuwirken, wie es einem auf Förderung und raschen Abschluss des Verfahrens bedachten Vorgehen entspricht. Den Beteiligten können Fristen gesetzt werden, nach deren Ablauf weiterer Vortrag unbeachtet bleibt.
 
-(4) Der Widerspruchsausschuss kann das Verfahren ohne mündliche Verhandlung dem Vorsitzenden durch unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese Übertragung ist nur zulässig, sofern die Sache keine wesentlichen Schwierigkeiten in tatsächlicher und rechtlicher Hinsicht aufweist und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
+(4) (weggefallen)
 
 # § 42 – Sofortige Vollziehbarkeit
 
@@ -1065,7 +1045,7 @@ Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 4 Abs. 1 Satz 3, § 1
 
 # § 44 – Veröffentlichungsrecht der Bundesanstalt
 
-Die Bundesanstalt kann ihre Verfügungen nach § 4 Abs. 1 Satz 3, § 10 Abs. 2 Satz 3, § 15 Abs. 1 und 2, § 20 Abs. 1, § 28 Abs. 1, § 36 oder § 37 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2, auf Kosten des Adressaten der Verfügung im Bundesanzeiger veröffentlichen.
+Die Bundesanstalt kann ihre Verfügungen nach § 4 Absatz 1 Satz 3, § 10 Absatz 2 Satz 3, § 15 Absatz 1 und 2, § 20 Absatz 1, § 28, § 36 oder § 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, auf ihrer Internetseite veröffentlichen.
 
 # § 45 – Mitteilungen an die Bundesanstalt
 
@@ -1077,7 +1057,7 @@ Die Bundesanstalt kann Verfügungen, die nach diesem Gesetz ergehen, mit Zwangsm
 
 # § 47 – Gebühren und Auslagen
 
-Die Bundesanstalt erhebt für individuell zurechenbare öffentliche Leistungen auf Grund des § 10 Absatz 2 Satz 3, der §§ 14 und 15 Absatz 1 oder 2, der §§ 20, 24, 28 Absatz 1, der §§ 36, 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, oder des § 41 in Verbindung mit § 6 Gebühren und Auslagen. Das Bundesministerium der Finanzen bestimmt die Gebührentatbestände im Einzelnen und die Höhe der Gebühren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+Die Bundesanstalt erhebt für individuell zurechenbare öffentliche Leistungen auf Grund des § 10 Absatz 2 Satz 3, der §§ 14 und 15 Absatz 1 oder 2, der §§ 20, 24, 28 Absatz 1, der §§ 36, 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, oder des § 41 Gebühren und Auslagen. Das Bundesministerium der Finanzen bestimmt die Gebührentatbestände im Einzelnen und die Höhe der Gebühren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 48 – Statthaftigkeit, Zuständigkeit
 
@@ -1298,3 +1278,5 @@ In den ihm nach § 48 Abs. 4, § 62 Abs. 1, §§ 64 und 65 zugewiesenen Rechtssa
 (4) Auf Angebote, die vor dem 19. August 2008 nach § 14 Abs. 2 Satz 1 veröffentlicht worden sind, findet dieses Gesetz in der vor dem 19. August 2008 geltenden Fassung Anwendung.
 
 (5) § 16 Abs. 4 in der Fassung des Gesetzes zur Umsetzung der Aktionärsrechterichtlinie vom 30. Juli 2009 (BGBl. I S. 2479) ist nicht auf Hauptversammlungen anzuwenden, zu denen vor dem 1. September 2009 einberufen wurde.
+
+(6) Auf Widersprüche, die vor dem 11. Juni 2021 eingelegt wurden, finden dieses Gesetz sowie die WpÜG-Widerspruchsausschuss-Verordnung in der vor dem 11. Juni 2021 geltenden Fassung Anwendung.

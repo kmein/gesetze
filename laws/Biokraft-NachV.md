@@ -1,4 +1,4 @@
-% Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen    (Biokraftstoff-Nachhaltigkeitsverordnung - Biokraft-NachV)
+% Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen *)  (Biokraftstoff-Nachhaltigkeitsverordnung - Biokraft-NachV)
 % Ausfertigungsdatum: 30.09.2009
  
 # Eingangsformel

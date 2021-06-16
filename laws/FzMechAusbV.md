@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin   (Fahrzeugbaumechanikerausbildungsverordnung - FzMechAusbV)
+% Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin*  (Fahrzeugbaumechanikerausbildungsverordnung - FzMechAusbV)
 % Ausfertigungsdatum: 10.06.2014
  
 # Eingangsformel

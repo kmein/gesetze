@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung in der Geoinformationstechnologie
+% Verordnung über die Berufsausbildung in der Geoinformationstechnologie*)
 % Ausfertigungsdatum: 30.05.2010
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin   (Pflanzentechnologenausbildungsverordnung - PflanzTechnAusbV)
+% Verordnung über die Berufsausbildung zum Pflanzentechnologen und zur Pflanzentechnologin*  (Pflanzentechnologenausbildungsverordnung - PflanzTechnAusbV)
 % Ausfertigungsdatum: 12.03.2013
  
 # Eingangsformel

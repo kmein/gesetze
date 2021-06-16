@@ -1,4 +1,4 @@
-% Raumordnungsgesetz    (ROG)
+% Raumordnungsgesetz *)  (ROG)
 % Ausfertigungsdatum: 22.12.2008
  
 # Inhaltsübersicht

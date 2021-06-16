@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin
+% Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin*)
 % Ausfertigungsdatum: 25.07.2008
  
 # Eingangsformel

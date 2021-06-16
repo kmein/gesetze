@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin
+% Verordnung über die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin*
 % Ausfertigungsdatum: 26.06.2013
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen   (Maritime-Medizin-Verordnung - MariMedV)
+% Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen*  (Maritime-Medizin-Verordnung - MariMedV)
 % Ausfertigungsdatum: 14.08.2014
  
 # Inhaltsübersicht

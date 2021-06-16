@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management   (IT-System-Management-Kaufleute-Ausbildungsverordnung - ITSManKflAusbV)
+% Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management*  (IT-System-Management-Kaufleute-Ausbildungsverordnung - ITSManKflAusbV)
 % Ausfertigungsdatum: 28.02.2020
  
 # Eingangsformel

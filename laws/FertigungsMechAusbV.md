@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fertigungsmechaniker und zur Fertigungsmechanikerin
+% Verordnung über die Berufsausbildung zum Fertigungsmechaniker und zur Fertigungsmechanikerin*
 % Ausfertigungsdatum: 02.04.2013
  
 # Eingangsformel

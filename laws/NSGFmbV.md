@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Fehmarnbelt“   (NSGFmbV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Fehmarnbelt“1  (NSGFmbV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

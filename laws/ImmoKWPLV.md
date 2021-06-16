@@ -1,4 +1,4 @@
-% Verordnung zur Festlegung von Leitlinien zu den Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-Verbraucherdarlehensverträgen   (Immobiliar-Kreditwürdigkeitsprüfungsleitlinien-Verordnung - ImmoKWPLV)
+% Verordnung zur Festlegung von Leitlinien zu den Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-Verbraucherdarlehensverträgen1  (Immobiliar-Kreditwürdigkeitsprüfungsleitlinien-Verordnung - ImmoKWPLV)
 % Ausfertigungsdatum: 24.04.2018
  
 # Eingangsformel

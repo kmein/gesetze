@@ -1,4 +1,4 @@
-% Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren   (Samenverordnung - SamEnV)
+% Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren*)  (Samenverordnung - SamEnV)
 % Ausfertigungsdatum: 14.10.2008
  
 # Eingangsformel

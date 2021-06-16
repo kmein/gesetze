@@ -1,4 +1,4 @@
-% Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen    (Gentechnik-Pflanzenerzeugungsverordnung - GenTPflEV)
+% Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen *)  (Gentechnik-Pflanzenerzeugungsverordnung - GenTPflEV)
 % Ausfertigungsdatum: 07.04.2008
  
 # Eingangsformel

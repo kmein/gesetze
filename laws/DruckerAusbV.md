@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck   (Drucker-Ausbildungsverordnung - DruckerAusbV)
+% Verordnung über die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck*)  (Drucker-Ausbildungsverordnung - DruckerAusbV)
 % Ausfertigungsdatum: 07.04.2011
  
 # Eingangsformel

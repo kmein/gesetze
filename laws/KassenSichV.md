@@ -1,4 +1,4 @@
-% Verordnung zur Bestimmung der technischen Anforderungen an elektronische Aufzeichnungs- und Sicherungssysteme im Geschäftsverkehr   (Kassensicherungsverordnung - KassenSichV)
+% Verordnung zur Bestimmung der technischen Anforderungen an elektronische Aufzeichnungs- und Sicherungssysteme im Geschäftsverkehr*  (Kassensicherungsverordnung - KassenSichV)
 % Ausfertigungsdatum: 26.09.2017
  
 # Eingangsformel

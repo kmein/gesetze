@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
+% Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print*
 % Ausfertigungsdatum: 26.04.2013
  
 # Eingangsformel

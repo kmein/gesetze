@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau
+% Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau *)
 % Ausfertigungsdatum: 19.03.2008
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr   (Servicekaufleute-Luftverkehr-Ausbildungsverordnung - ServKflLuftvAusbV)
+% Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr*  (Servicekaufleute-Luftverkehr-Ausbildungsverordnung - ServKflLuftvAusbV)
 % Ausfertigungsdatum: 29.03.2017
  
 # Eingangsformel

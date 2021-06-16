@@ -1,4 +1,4 @@
-% Verordnung über die Meldung von Biozid-Produkten nach dem Chemikaliengesetz   (Biozid-Meldeverordnung - ChemBiozidMeldeV)
+% Verordnung über die Meldung von Biozid-Produkten nach dem Chemikaliengesetz*)  (Biozid-Meldeverordnung - ChemBiozidMeldeV)
 % Ausfertigungsdatum: 14.06.2011
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Gesetz über den Messstellenbetrieb und die Datenkommunikation in intelligenten Energienetzen   (Messstellenbetriebsgesetz - MsbG)
+% Gesetz über den Messstellenbetrieb und die Datenkommunikation in intelligenten Energienetzen1  (Messstellenbetriebsgesetz - MsbG)
 % Ausfertigungsdatum: 29.08.2016
  
 # Inhaltsübersicht
@@ -1231,7 +1231,7 @@ Zur bundesweiten Vereinheitlichung der Bedingungen für den Messstellenbetrieb u
 
 (4) Die Bundesnetzagentur darf die für den Bericht nach Absatz 3 erhobenen Daten auch für den Bericht nach Absatz 1 verarbeiten.
 
-# Anlage – (zu § 22 Absatz 2 Satz 1)Übersicht über die Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+# Anlage – (zu § 22 Absatz 2 Satz 1)Übersicht über die Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik 2
 
 1. BSI: Protection Profile for the Gateway of a Smart-Metering-System (Smart-Meter-Gateway PP), BSI-CC-PP-0073 \[Schutzprofil für die Kommunikationseinheit eines intelligenten Messsystems für Stoff- und Energiemengen\],  
 Fundstelle:  

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin    (Gebäudereinigerausbildungsverordnung - GebReinAusbVO)
+% Verordnung über die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin *  (Gebäudereinigerausbildungsverordnung - GebReinAusbVO)
 % Ausfertigungsdatum: 28.06.2019
  
 # Eingangsformel

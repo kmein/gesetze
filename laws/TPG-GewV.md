@@ -1,4 +1,4 @@
-% Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz    (TPG-Gewebeverordnung - TPG-GewV)
+% Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz *)  (TPG-Gewebeverordnung - TPG-GewV)
 % Ausfertigungsdatum: 26.03.2008
  
 # Eingangsformel

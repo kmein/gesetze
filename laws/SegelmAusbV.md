@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin
+% Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin *)
 % Ausfertigungsdatum: 05.05.2010
  
 # Eingangsformel

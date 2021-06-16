@@ -1,4 +1,4 @@
-% Verordnung über die Kehrung und Überprüfung von Anlagen    (Kehr- und Überprüfungsordnung - KÜO)
+% Verordnung über die Kehrung und Überprüfung von Anlagen *)  (Kehr- und Überprüfungsordnung - KÜO)
 % Ausfertigungsdatum: 16.06.2009
  
 # Eingangsformel

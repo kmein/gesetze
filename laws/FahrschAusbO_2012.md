@@ -973,7 +973,7 @@ i) Ladung/Ladungssicherung
 
 j) toter Winkel.
 
-# Anlage 2.5 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
+# Anlage 2.5 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)*)
 
 (Fundstelle: BGBl. I 2012, 1329 - 1330)
 

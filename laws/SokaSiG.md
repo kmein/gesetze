@@ -1,4 +1,4 @@
-% Gesetz zur Sicherung der Sozialkassenverfahren im Baugewerbe   (Sozialkassenverfahrensicherungsgesetz - SokaSiG)
+% Gesetz zur Sicherung der Sozialkassenverfahren im Baugewerbe*  (Sozialkassenverfahrensicherungsgesetz - SokaSiG)
 % Ausfertigungsdatum: 16.05.2017
  
 # § 1 – Berufsbildung im Baugewerbe

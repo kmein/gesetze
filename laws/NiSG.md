@@ -1,4 +1,4 @@
-% Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSG)
+% Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen*)  (NiSG)
 % Ausfertigungsdatum: 29.07.2009
  
 # § 1 – Anwendungsbereich

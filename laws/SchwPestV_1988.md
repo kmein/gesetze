@@ -1,4 +1,4 @@
-% Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest   (Schweinepest-Verordnung)
+% Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest*  (Schweinepest-Verordnung)
 % Ausfertigungsdatum: 03.08.1988
  
 # Inhaltsübersicht

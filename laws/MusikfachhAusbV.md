@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+% Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin *)
 % Ausfertigungsdatum: 24.03.2009
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik   (Keramikprüftechnologenausbildungsverordnung - KPrüfTechnAusbV)
+% Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik*  (Keramikprüftechnologenausbildungsverordnung - KPrüfTechnAusbV)
 % Ausfertigungsdatum: 23.11.2017
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Maßschuhmacher und zur Maßschuhmacherin   (Maßschuhmacherausbildungsverordnung - MaßschuhmAusbV)
+% Verordnung über die Berufsausbildung zum Maßschuhmacher und zur Maßschuhmacherin*  (Maßschuhmacherausbildungsverordnung - MaßschuhmAusbV)
 % Ausfertigungsdatum: 17.05.2018
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Schiffssicherheit in der Binnenschifffahrt ,    (Binnenschiffsuntersuchungsordnung - BinSchUO)
+% Verordnung über die Schiffssicherheit in der Binnenschifffahrt1, 2  (Binnenschiffsuntersuchungsordnung - BinSchUO)
 % Ausfertigungsdatum: 21.09.2018
  
 # Inhaltsübersicht

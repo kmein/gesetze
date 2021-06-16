@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
+% Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts*)
 % Ausfertigungsdatum: 27.01.2009
  
 # Eingangsformel

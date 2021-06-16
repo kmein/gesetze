@@ -1,4 +1,4 @@
-% Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes    (Inhaberkontrollverordnung - InhKontrollV)
+% Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes *)  (Inhaberkontrollverordnung - InhKontrollV)
 % Ausfertigungsdatum: 20.03.2009
  
 # § 1 – Zielunternehmen

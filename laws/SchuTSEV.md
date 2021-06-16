@@ -1,4 +1,4 @@
-% Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden    (Sicherheitsfunk-Schutzverordnung - SchuTSEV)
+% Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden *)  (Sicherheitsfunk-Schutzverordnung - SchuTSEV)
 % Ausfertigungsdatum: 13.05.2009
  
 # Eingangsformel

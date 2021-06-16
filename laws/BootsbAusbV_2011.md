@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
+% Verordnung über die Berufsausbildung zum Bootsbauer und zur Bootsbauerin*)
 % Ausfertigungsdatum: 08.06.2011
  
 # Eingangsformel

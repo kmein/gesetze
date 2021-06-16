@@ -1,4 +1,4 @@
-% Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern    (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
+% Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern *)  (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
 % Ausfertigungsdatum: 17.06.2009
  
 # Inhaltsverzeichnis

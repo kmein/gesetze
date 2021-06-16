@@ -1,4 +1,4 @@
-% Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr   (Fahrzeug-Zulassungsverordnung - FZV)
+% Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr*)  (Fahrzeug-Zulassungsverordnung - FZV)
 % Ausfertigungsdatum: 03.02.2011
  
 # Eingangsformel

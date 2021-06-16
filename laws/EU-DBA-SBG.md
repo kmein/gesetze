@@ -1,4 +1,4 @@
-% Gesetz zur Umsetzung der Richtlinie (EU) 2017/1852 des Rates vom 10. Oktober 2017 über Verfahren zur Beilegung von Besteuerungsstreitigkeiten in der Europäischen Union   (EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz - EU-DBA-SBG)
+% Gesetz zur Umsetzung der Richtlinie (EU) 2017/1852 des Rates vom 10. Oktober 2017 über Verfahren zur Beilegung von Besteuerungsstreitigkeiten in der Europäischen Union*  (EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz - EU-DBA-SBG)
 % Ausfertigungsdatum: 10.12.2019
  
 # Inhaltsübersicht

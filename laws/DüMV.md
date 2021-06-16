@@ -1,4 +1,4 @@
-% Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln   (Düngemittelverordnung - DüMV)
+% Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln1  (Düngemittelverordnung - DüMV)
 % Ausfertigungsdatum: 05.12.2012
  
 # Eingangsformel

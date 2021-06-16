@@ -1,4 +1,4 @@
-% Gesetz zur Sicherung der tarifvertraglichen Sozialkassenverfahren   (Zweites Sozialkassenverfahrensicherungsgesetz - SokaSiG2)
+% Gesetz zur Sicherung der tarifvertraglichen Sozialkassenverfahren*  (Zweites Sozialkassenverfahrensicherungsgesetz - SokaSiG2)
 % Ausfertigungsdatum: 01.09.2017
  
 # Inhaltsübersicht

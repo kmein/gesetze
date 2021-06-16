@@ -1,4 +1,4 @@
-% Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters   (Notfallsanitätergesetz - NotSanG)
+% Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters*  (Notfallsanitätergesetz - NotSanG)
 % Ausfertigungsdatum: 22.05.2013
  
 # § 1 – Führen der Berufsbezeichnung

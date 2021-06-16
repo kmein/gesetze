@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
+% Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin *)
 % Ausfertigungsdatum: 10.06.2009
  
 # Eingangsformel

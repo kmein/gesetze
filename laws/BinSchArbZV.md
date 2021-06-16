@@ -1,4 +1,4 @@
-% Verordnung über die Arbeitszeit in der Binnenschifffahrt   (Binnenschifffahrts-Arbeitszeitverordnung - BinSchArbZV)
+% Verordnung über die Arbeitszeit in der Binnenschifffahrt1  (Binnenschifffahrts-Arbeitszeitverordnung - BinSchArbZV)
 % Ausfertigungsdatum: 19.07.2017
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin   (Packmittel-Ausbildungsverordnung - PackmAusbV)
+% Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin*)  (Packmittel-Ausbildungsverordnung - PackmAusbV)
 % Ausfertigungsdatum: 20.05.2011
  
 # Eingangsformel

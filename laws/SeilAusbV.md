@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Seiler und zur Seilerin    (Seiler-Ausbildungsverordnung - SeilAusbV)
+% Verordnung über die Berufsausbildung zum Seiler und zur Seilerin *)  (Seiler-Ausbildungsverordnung - SeilAusbV)
 % Ausfertigungsdatum: 22.05.2008
  
 # Eingangsformel

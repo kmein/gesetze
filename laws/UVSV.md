@@ -1,4 +1,4 @@
-% Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung   (UV-Schutz-Verordnung - UVSV)
+% Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung*)  (UV-Schutz-Verordnung - UVSV)
 % Ausfertigungsdatum: 20.07.2011
  
 # Eingangsformel

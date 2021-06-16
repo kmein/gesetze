@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Fachkraft für Lederherstellung und Gerbereitechnik   (Lederherstellungs- und Gerbereitechnikausbildungsverordnung - LederGerbAusbV)
+% Verordnung über die Berufsausbildung zur Fachkraft für Lederherstellung und Gerbereitechnik*  (Lederherstellungs- und Gerbereitechnikausbildungsverordnung - LederGerbAusbV)
 % Ausfertigungsdatum: 02.07.2015
  
 # Eingangsformel

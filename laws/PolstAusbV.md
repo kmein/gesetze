@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Polsterer und zur Polsterin   (Polstererausbildungsverordnung - PolstAusbV)
+% Verordnung über die Berufsausbildung zum Polsterer und zur Polsterin*  (Polstererausbildungsverordnung - PolstAusbV)
 % Ausfertigungsdatum: 20.05.2014
  
 # Eingangsformel

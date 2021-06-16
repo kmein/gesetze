@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Rollladen- und Sonnenschutzmechatroniker und zur Rollladen- und Sonnenschutzmechatronikerin   (Rollladen- und Sonnenschutzmechatronikerausbildungsverordnung - RSMAusbV)
+% Verordnung über die Berufsausbildung zum Rollladen- und Sonnenschutzmechatroniker und zur Rollladen- und Sonnenschutzmechatronikerin*  (Rollladen- und Sonnenschutzmechatronikerausbildungsverordnung - RSMAusbV)
 % Ausfertigungsdatum: 03.05.2016
  
 # Eingangsformel

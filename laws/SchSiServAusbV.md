@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
+% Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit *)
 % Ausfertigungsdatum: 21.05.2008
  
 # Eingangsformel

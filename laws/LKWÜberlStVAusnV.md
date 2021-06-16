@@ -1,4 +1,4 @@
-% Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge   (LKWÜberlStVAusnV)
+% Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge*)  (LKWÜberlStVAusnV)
 % Ausfertigungsdatum: 19.12.2011
  
 # Eingangsformel

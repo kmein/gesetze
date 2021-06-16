@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin   (Fachinformatikerausbildungsverordnung - FIAusbV)
+% Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin*  (Fachinformatikerausbildungsverordnung - FIAusbV)
 % Ausfertigungsdatum: 28.02.2020
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten   (PsychThApprO)
+% Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten1  (PsychThApprO)
 % Ausfertigungsdatum: 04.03.2020
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden   (Gebäudeenergiegesetz - GEG)
+% Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden*  (Gebäudeenergiegesetz - GEG)
 % Ausfertigungsdatum: 08.08.2020
  
 # Inhaltsübersicht

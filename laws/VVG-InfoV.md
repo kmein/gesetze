@@ -1,4 +1,4 @@
-% Verordnung über Informationspflichten bei Versicherungsverträgen    (VVG-Informationspflichtenverordnung - VVG-InfoV)
+% Verordnung über Informationspflichten bei Versicherungsverträgen *)  (VVG-Informationspflichtenverordnung - VVG-InfoV)
 % Ausfertigungsdatum: 18.12.2007
  
 # Eingangsformel

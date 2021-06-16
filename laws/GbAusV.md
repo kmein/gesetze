@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Geigenbauer und zur Geigenbauerin   (Geigenbauerausbildungsverordnung - GbAusV)
+% Verordnung über die Berufsausbildung zum Geigenbauer und zur Geigenbauerin*  (Geigenbauerausbildungsverordnung - GbAusV)
 % Ausfertigungsdatum: 16.07.2015
  
 # Eingangsformel

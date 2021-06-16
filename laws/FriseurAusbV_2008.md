@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
+% Verordnung über die Berufsausbildung zum Friseur/zur Friseurin *)
 % Ausfertigungsdatum: 21.05.2008
  
 # Eingangsformel

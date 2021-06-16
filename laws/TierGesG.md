@@ -1322,7 +1322,7 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des V
 
 Soweit in oder auf Futtermitteln Tierseuchenerreger anzeigepflichtiger oder mitteilungspflichtiger Tierseuchen vorhanden sind oder sein können, gelten, vorbehaltlich des Satzes 2, hinsichtlich der Verbote und Beschränkungen für die Teilnahme am Warenverkehr und die Verwendung innerhalb eines Betriebes, ausschließlich dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen. § 17 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches bleibt unberührt.
 
-# § 42 – Gebühren
+# § 42 – Gebühren*
 
 (1) Das Paul-Ehrlich-Institut und das Friedrich-Loeffler-Institut erheben Gebühren und Auslagen für
 

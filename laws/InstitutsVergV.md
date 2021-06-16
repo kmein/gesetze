@@ -1,4 +1,4 @@
-% Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten   (Institutsvergütungsverordnung - InstitutsVergV)
+% Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten1  (Institutsvergütungsverordnung - InstitutsVergV)
 % Ausfertigungsdatum: 16.12.2013
  
 # Eingangsformel

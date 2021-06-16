@@ -1,4 +1,4 @@
-% Verordnung zum Schutz von Übertragungsnetzen
+% Verordnung zum Schutz von Übertragungsnetzen*)
 % Ausfertigungsdatum: 06.01.2012
  
 # Eingangsformel

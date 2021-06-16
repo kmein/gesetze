@@ -1,4 +1,4 @@
-% Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen   (Düngeverordnung - DüV)
+% Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen2  (Düngeverordnung - DüV)
 % Ausfertigungsdatum: 26.05.2017
  
 # Inhaltsübersicht
@@ -525,11 +525,11 @@ d) keine außerhalb des Betriebes anfallenden Wirtschaftsdünger sowie organisch
 
 (4) Die Landesregierungen überprüfen bis zum Ablauf des 31. Dezember 2020, ob Änderungen der Rechtsverordnungen, die nach § 13 Absatz 2 dieser Verordnung in der bis zum 30. April 2020 geltenden Fassung erlassen worden sind, erforderlich sind. Hat die Überprüfung ergeben, dass Änderungen erforderlich sind, so passen die Landesregierungen bis zum Ablauf des 31. Dezember 2020 die betroffenen Rechtsverordnungen insoweit an die Vorgaben dieser Verordnung an. Die Landesregierungen unterrichten das Bundesministerium über die Ergebnisse der Überprüfung.
 
-# Anlage 1 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier
+# Anlage 1 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier1
 
 (Fundstelle: BGBl. I 2017, 1317 - 1323)
 
-# Anlage 2 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
+# Anlage 2 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger1
 
 (Fundstelle: BGBl. I 2020, 853)
 

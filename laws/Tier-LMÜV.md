@@ -1,4 +1,4 @@
-% Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs ,   (Tierische Lebensmittel-Überwachungsverordnung - Tier-LMÜV)
+% Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs1,2  (Tierische Lebensmittel-Überwachungsverordnung - Tier-LMÜV)
 % Ausfertigungsdatum: 08.08.2007
  
 # § 1 – Anwendungsbereich

@@ -196,7 +196,9 @@ Von gewerblichen Einkünften nach § 49 Absatz 1 Nummer 2 des Einkommensteuerges
 
 (5) Wenn ein unbeschränkt körperschaftsteuerpflichtiger Investmentfonds innerhalb von 18 Monaten nach Zufluss eines Kapitalertrags eine Statusbescheinigung vorlegt, so hat der Entrichtungspflichtige dem Investmentfonds die Kapitalertragsteuer zu erstatten, die den nach Absatz 1 vorzunehmenden Steuerabzug übersteigt. Das Gleiche gilt, soweit der Investmentfonds innerhalb von 18 Monaten nach Zufluss eines Kapitalertrags nachweist, dass die Voraussetzungen für eine Steuerbefreiung nach den §§ 8 bis 10 vorliegen. Eine zuvor erteilte Steuerbescheinigung ist unverzüglich im Original zurückzugeben. Die Erstattung darf erst nach Rückgabe einer bereits erteilten Steuerbescheinigung erfolgen.
 
-(+++ Kapitel 2 (§§ 6 bis 24): Zur Anwendung vgl. § 25 +++) (+++ § 7: Zur Anwendung vgl. § 29 Abs. 1 +++) (+++ § 7 Abs. 4: Zur Anwendung vgl. § 9 Abs. 2 +++)
+(+++ Kapitel 2 (§§ 6 bis 24): Zur Anwendung vgl. § 25 +++)  
+(+++ § 7: Zur Anwendung vgl. § 29 Abs. 1 u. § 57 +++)  
+(+++ § 7 Abs. 4: Zur Anwendung vgl. § 9 Abs. 2 +++)
 
 # § 8 – Steuerbefreiung aufgrund steuerbegünstigter Anleger
 

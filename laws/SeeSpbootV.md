@@ -1,4 +1,4 @@
-% Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich    (See-Sportbootverordnung - SeeSpbootV)
+% Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich1)2)  (See-Sportbootverordnung - SeeSpbootV)
 % Ausfertigungsdatum: 29.08.2002
  
 # Inhaltsübersicht

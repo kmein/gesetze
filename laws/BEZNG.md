@@ -77,17 +77,7 @@ soweit es durch die Eigenart des Eisenbahnbetriebes dieser Gesellschaft begründ
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann auf Vorschlag des Präsidenten des Bundeseisenbahnvermögens im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen ergänzende Bestimmungen über die Reise- und Umzugskosten der Beamten, die der Deutsche Bahn Aktiengesellschaft gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es erfordert.
 
-# § 8 – Personalvertretung
-
-(1) Spätestens drei Monate nach Eintragung der gemäß § 1 Abs. 1 des Deutsche Bahn Gründungsgesetzes zu gründenden Aktiengesellschaft in das Handelsregister finden beim Bundeseisenbahnvermögen Wahlen zu den Personalvertretungen sowie zu den Jugend- und Auszubildendenvertretungen statt. Wahlberechtigt und wählbar nach den §§ 13, 14 und 58 des Bundespersonalvertretungsgesetzes sind die Beamten, die nicht der Deutsche Bahn Aktiengesellschaft gemäß § 12 des Deutsche Bahn Gründungsgesetzes zugewiesen sind, sowie die Arbeitnehmer beim Bundeseisenbahnvermögen.
-
-(2) Bis zur Neuwahl zu den Personalvertretungen nach Absatz 1 bleiben die im Zeitpunkt der Ausgliederung des Unternehmerischen Bereichs (§ 1 Abs. 1 des Deutsche Bahn Gründungsgesetzes) bei den im Bereich des Bundeseisenbahnvermögens verbleibenden Dienststellen bestehenden örtlichen Personalvertretungen übergangsweise im Amt. Die Mitglieder des bei der Deutschen Bundesbahn und des bei der Deutschen Reichsbahn bestehenden Hauptpersonalrats bilden übergangsweise einen gemeinsamen Hauptpersonalrat beim Bundeseisenbahnvermögen; bisherige Vorstandsmitglieder sind Vorstandsmitglieder des übergangsweise gebildeten Hauptpersonalrats.
-
-(3) Die Vorsitzenden der bisher bei der Deutschen Bundesbahn und der Deutschen Reichsbahn bestehenden Hauptpersonalräte laden unverzüglich nach Inkrafttreten dieses Gesetzes zu der ersten Sitzung des gemeinsamen Hauptpersonalrats ein. Für die Wahl des Vorsitzenden und seines Stellvertreters gilt § 32 Abs. 2 des Bundespersonalvertretungsgesetzes entsprechend. Die Deutsche Bahn Aktiengesellschaft ist verpflichtet, den bei ihr beschäftigten Mitgliedern des gemeinsamen Hauptpersonalrats die Wahrnehmung ihrer Rechte und Pflichten ohne eine Minderung des Arbeitsentgelts zu ermöglichen. Bis zur Neuwahl nach Absatz 1 ist der gemeinsame Hauptpersonalrat als örtlicher Personalrat zuständig für die nach § 6 Abs. 1 Satz 2 gebildete Dienststelle.
-
-(4) Für die Jugend- und Auszubildendenvertretungen gelten Absatz 2 Satz 1 und 2 erster Halbsatz sowie Absatz 3 Satz 1, 3 und 4 entsprechend; für die Wahl des Vorsitzenden und seines Stellvertreters findet § 60 Abs. 3 des Bundespersonalvertretungsgesetzes entsprechende Anwendung.
-
-(5) Die Bildung der Wahlvorstände für die Wahlen gemäß Absatz 1 hat so rechtzeitig zu erfolgen, daß die dort genannte Frist eingehalten werden kann.
+# § 8 – (weggefallen)
 
 # § 9 – Schwerbehindertenvertretung
 

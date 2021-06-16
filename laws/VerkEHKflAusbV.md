@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildungen zum Verkäufer und zur Verkäuferin sowie zum Kaufmann im Einzelhandel und zur Kauffrau im Einzelhandel   (Verkäufer- und Einzelhandelskaufleuteausbildungsverordnung - VerkEHKflAusbV)
+% Verordnung über die Berufsausbildungen zum Verkäufer und zur Verkäuferin sowie zum Kaufmann im Einzelhandel und zur Kauffrau im Einzelhandel*  (Verkäufer- und Einzelhandelskaufleuteausbildungsverordnung - VerkEHKflAusbV)
 % Ausfertigungsdatum: 13.03.2017
  
 # Eingangsformel

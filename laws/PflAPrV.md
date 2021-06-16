@@ -1,4 +1,4 @@
-% Ausbildungs- und Prüfungsverordnung für die Pflegeberufe   (Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)
+% Ausbildungs- und Prüfungsverordnung für die Pflegeberufe*  (Pflegeberufe-Ausbildungs- und -Prüfungsverordnung - PflAPrV)
 % Ausfertigungsdatum: 02.10.2018
  
 # Eingangsformel

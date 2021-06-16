@@ -1,4 +1,4 @@
-% Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen   (Treibhausgas-Emissionshandelsgesetz - TEHG)
+% Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)  (Treibhausgas-Emissionshandelsgesetz - TEHG)
 % Ausfertigungsdatum: 21.07.2011
  
 # Inhaltsübersicht

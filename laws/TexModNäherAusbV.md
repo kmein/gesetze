@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Textil- und Modenäher und zur Textil- und Modenäherin   (Textil- und Modenäherausbildungsverordnung - TexModNäherAusbV)
+% Verordnung über die Berufsausbildung zum Textil- und Modenäher und zur Textil- und Modenäherin*  (Textil- und Modenäherausbildungsverordnung - TexModNäherAusbV)
 % Ausfertigungsdatum: 25.06.2015
  
 # Eingangsformel

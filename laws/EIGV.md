@@ -944,39 +944,7 @@ Satz 1 gilt für bestimmte Stellen entsprechend.
 
 (3) Bestimmte Stellen haben an den Aktivitäten einer Koordinierungsgruppe mitzuwirken, die vom Eisenbahn-Bundesamt einzurichten ist. Bestimmte Stellen haben dafür zu sorgen, dass ihr Konformitätsbewertungspersonal über die Aktivitäten der Koordinierungsgruppe informiert wird. Sie haben die Entscheidungen und Dokumente, die die Koordinierungsgruppe erarbeitet hat, als allgemeine Leitlinien anzuwenden.
 
-# § 38 – Fahrzeugeinstellungsregister
-
-(1) Das Eisenbahn-Bundesamt führt ein Fahrzeugeinstellungsregister, das die Inhalte und Formate enthält, die in
-
-1. den Nummern 1 und 4 des Anhangs der Entscheidung 2007/756/EG der Kommission vom 9. November 2007 zur Annahme einer gemeinsamen Spezifikation für das nationale Einstellungsregister nach Artikel 14 Absätze 4 und 5 der Richtlinien 96/48/EG und 2001/16/EG (ABl. L 305 vom 23.11.2007, S. 30), die zuletzt durch Artikel 2 in Verbindung mit Anhang I des Durchführungsbeschlusses (EU) 2018/1614 (ABl. L 268 vom 26.10.2018, S. 53) geändert worden ist, und
-
-2. den Anlagen 1 bis 4 der Entscheidung 2007/756/EG
-
-konkretisiert worden sind.
-
-(2) Der Halter von Eisenbahnfahrzeugen hat ein neues Fahrzeug vor der erstmaligen Verwendung nach Erhalt der Genehmigung für das Inverkehrbringen in das Fahrzeugeinstellungsregister auf elektronischem Weg einzutragen, sofern dieses Fahrzeug nicht bereits in das Fahrzeugeinstellungsregister eines anderen Mitgliedstaates der Europäischen Union eingetragen ist. Ist das Verwendungsgebiet des Fahrzeugs auf das Hoheitsgebiet der Bundesrepublik Deutschland beschränkt, so wird es in das vom Eisenbahn-Bundesamt geführte Fahrzeugeinstellungsregister eingetragen. Bei der Eintragung ist
-
-1. die europäische Fahrzeugnummer zu aktivieren, die mit der Erteilung der Genehmigung für das Inverkehrbringen zugewiesen wird, sowie
-
-2. die europäische Identifikationsnummer der Genehmigungsentscheidung einzutragen.
-
-(3) Eisenbahnen und Halter von Eisenbahnfahrzeugen haben Änderungen der in das Register eingestellten Angaben sowie Rücknahmen nach Anlage 3 der Entscheidung 2007/756/EG, die ihre Fahrzeuge betreffen, auf elektronischem Weg im Fahrzeugeinstellungsregister einzutragen. Dies umfasst auch die Eingabe einer geänderten europäischen Identifikationsnummer nach einer genehmigungspflichtigen Aufrüstung oder Erneuerung sowie die Eingabe einer weiteren Genehmigung für das Inverkehrbringen.
-
-(4) Eine Verwertung des Fahrzeugs bestätigt der Halter auf elektronischem Weg im Fahrzeugeinstellungsregister. Die in dem Fahrzeugeinstellungsregister enthaltenen Angaben löscht der Halter spätestens zehn Jahre nach der Bestätigung über die Verwertung des Fahrzeugs.
-
-(5) Das Eisenbahn-Bundesamt erteilt Zugriffsberechtigten nach Nummer 3.3 des Anhangs der Entscheidung 2007/756/EG auf Antrag Auskünfte zu den im Fahrzeugeinstellungsregister gespeicherten Angaben. Die Auskünfte erteilt das Eisenbahn-Bundesamt in einem von ihm bestimmten editierbaren Standardformat.
-
-# § 38a – Europäisches Fahrzeugeinstellungsregister
-
-(1) Das Eisenbahn-Bundesamt hat in das europäische Fahrzeugeinstellungsregister die Angaben der Fahrzeuge, die in der Bundesrepublik Deutschland einzutragen sind nach Anhang II des Durchführungsbeschlusses (EU) 2018/1614 der Kommission vom 25. Oktober 2018 zur Festlegung der Spezifikationen für die Fahrzeugeinstellungsregister nach Artikel 47 der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Änderung und Aufhebung der Entscheidung 2007/756/EG der Kommission (ABl. L 268 vom 26.10.2018, S. 53) in der jeweils geltenden Fassung
-
-1. einzutragen und
-
-2. auf dem neuesten Stand zu halten.
-
-(2) Halter von Eisenbahnfahrzeugen haben die Einstellung eines neuen Fahrzeugs vor dem erstmaligen Inverkehrbringen in das europäische Fahrzeugeinstellungsregister auf elektronischem Weg beim Eisenbahn-Bundesamt zu beantragen. Sie haben Änderungen der Angaben, die in das Register einzustellen sind, auf elektronischem Weg mitzuteilen.
-
-(3) Zugriffsberechtigte nach Anhang II Nummer 3.3.2 des Durchführungsbeschlusses (EU) 2018/1614 erhalten auf Antrag Auskünfte zu den im europäischen Fahrzeugeinstellungsregister gespeicherten Angaben beim Eisenbahn-Bundesamt, wenn die Zugriffsberechtigten sich in der Bundesrepublik Deutschland befinden.
+# § 38 – (weggefallen)
 
 # § 39 – Fahrzeugkennzeichnung
 

@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Doggerbank“   (NSGDgbV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Doggerbank“1  (NSGDgbV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

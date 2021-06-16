@@ -1,4 +1,4 @@
-% Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile   (Ladesäulenverordnung - LSV)
+% Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile1  (Ladesäulenverordnung - LSV)
 % Ausfertigungsdatum: 09.03.2016
  
 # Eingangsformel

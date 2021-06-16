@@ -1,4 +1,4 @@
-% Saatgutverkehrsgesetz    (SaatG)
+% Saatgutverkehrsgesetz *  (SaatG)
 % Ausfertigungsdatum: 20.08.1985
  
 # § 1 – Anwendungsbereich

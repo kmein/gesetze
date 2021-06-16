@@ -1,4 +1,4 @@
-% Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch     (Lebensmittel- und Futtermittelgesetzbuch - LFGB)
+% Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch1)2)3)  (Lebensmittel- und Futtermittelgesetzbuch - LFGB)
 % Ausfertigungsdatum: 01.09.2005
  
 # Inhaltsübersicht

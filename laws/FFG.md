@@ -1,4 +1,4 @@
-% Gesetz über Maßnahmen zur Förderung des deutschen Films   (Filmförderungsgesetz - FFG)
+% Gesetz über Maßnahmen zur Förderung des deutschen Films*  (Filmförderungsgesetz - FFG)
 % Ausfertigungsdatum: 23.12.2016
  
 # Inhaltsübersicht

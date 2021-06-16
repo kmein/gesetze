@@ -1,4 +1,4 @@
-% Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs     (Tierische Lebensmittel-Hygieneverordnung - Tier-LMHV)
+% Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs* ** ***  (Tierische Lebensmittel-Hygieneverordnung - Tier-LMHV)
 % Ausfertigungsdatum: 08.08.2007
  
 # § 1 – Anwendungsbereich

@@ -1,4 +1,4 @@
-% Verordnung über Informationspflichten in der betrieblichen Altersversorgung, die von Pensionsfonds, Pensionskassen und anderen Lebensversicherungsunternehmen durchgeführt wird   (VAG-Informationspflichtenverordnung - VAG-InfoV)
+% Verordnung über Informationspflichten in der betrieblichen Altersversorgung, die von Pensionsfonds, Pensionskassen und anderen Lebensversicherungsunternehmen durchgeführt wird1  (VAG-Informationspflichtenverordnung - VAG-InfoV)
 % Ausfertigungsdatum: 17.06.2019
  
 # Eingangsformel

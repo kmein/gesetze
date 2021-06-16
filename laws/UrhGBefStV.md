@@ -1,4 +1,4 @@
-% Verordnung über befugte Stellen nach dem Urheberrechtsgesetz   (UrhGBefStV)
+% Verordnung über befugte Stellen nach dem Urheberrechtsgesetz*  (UrhGBefStV)
 % Ausfertigungsdatum: 08.12.2018
  
 # Eingangsformel

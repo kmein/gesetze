@@ -1,4 +1,4 @@
-% Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSV)
+% Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen*  (NiSV)
 % Ausfertigungsdatum: 29.11.2018
  
 # § 1 – Anwendungsbereich

@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Kadetrinne“   (NSGKdrV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Kadetrinne“1  (NSGKdrV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

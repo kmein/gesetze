@@ -1,4 +1,4 @@
-% Gesetz über den Beruf der Psychotherapeutin und des Psychotherapeuten   (Psychotherapeutengesetz - PsychThG)
+% Gesetz über den Beruf der Psychotherapeutin und des Psychotherapeuten*  (Psychotherapeutengesetz - PsychThG)
 % Ausfertigungsdatum: 15.11.2019
  
 # Inhaltsübersicht

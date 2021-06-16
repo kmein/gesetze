@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement   (Büromanagementkaufleute-Ausbildungsverordnung - BüroMKfAusbV)
+% Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement*  (Büromanagementkaufleute-Ausbildungsverordnung - BüroMKfAusbV)
 % Ausfertigungsdatum: 11.12.2013
  
 # Eingangsformel

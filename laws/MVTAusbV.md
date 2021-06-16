@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall   (Metallverfahrenstechnologenausbildungsverordnung - MVTAusbV)
+% Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall*  (Metallverfahrenstechnologenausbildungsverordnung - MVTAusbV)
 % Ausfertigungsdatum: 04.12.2017
  
 # Eingangsformel

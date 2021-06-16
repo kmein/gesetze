@@ -1,4 +1,4 @@
-% Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz   (ÖLG-Kontrollstellen-Zulassungsverordnung - ÖLGKontrollStZulV)
+% Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz*)  (ÖLG-Kontrollstellen-Zulassungsverordnung - ÖLGKontrollStZulV)
 % Ausfertigungsdatum: 07.05.2012
  
 # Eingangsformel

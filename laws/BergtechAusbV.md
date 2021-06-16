@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin
+% Verordnung über die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin *)
 % Ausfertigungsdatum: 04.06.2009
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce   (E-Commerce-Kaufleute-Ausbildungsverordnung - EComKflAusbV)
+% Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce*  (E-Commerce-Kaufleute-Ausbildungsverordnung - EComKflAusbV)
 % Ausfertigungsdatum: 13.12.2017
  
 # Eingangsformel

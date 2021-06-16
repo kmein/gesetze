@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Automatenfachmann und zur Automatenfachfrau   (Automatenfachmannausbildungsverordnung - AutomAusbV)
+% Verordnung über die Berufsausbildung zum Automatenfachmann und zur Automatenfachfrau*  (Automatenfachmannausbildungsverordnung - AutomAusbV)
 % Ausfertigungsdatum: 01.07.2015
  
 # Eingangsformel

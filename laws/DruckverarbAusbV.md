@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung   (Druckverarbeiter-Ausbildungsverordnung - DruckverarbAusbV)
+% Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung*)  (Druckverarbeiter-Ausbildungsverordnung - DruckverarbAusbV)
 % Ausfertigungsdatum: 20.05.2011
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin
+% Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin*
 % Ausfertigungsdatum: 28.06.2013
  
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes

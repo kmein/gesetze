@@ -1,4 +1,4 @@
-% Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz   (ZAG-Anzeigenverordnung - ZAGAnzV)
+% Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz*)  (ZAG-Anzeigenverordnung - ZAGAnzV)
 % Ausfertigungsdatum: 15.10.2009
  
 # Eingangsformel

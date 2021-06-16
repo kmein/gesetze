@@ -103,6 +103,6 @@ c) eine Fest- oder Rahmengebühr erhoben wird, die entsprechend der Anlage zu di
 
 Der Bundesrat hat zugestimmt.
 
-# Anlage – (zu § 3)Gebührenverzeichnis ab 1. Januar 2021
+# Anlage – (zu § 3)Gebührenverzeichnis ab 1. Januar 20211
 
 (Fundstelle: BGBl. I 2019, 611 - 640; bzgl. der einzelnen Änderungen vgl. Fußnote)

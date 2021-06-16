@@ -1,4 +1,4 @@
-% Gesetz über bestimmte Versicherungsnachweise in der Seeschifffahrt   (Seeversicherungsnachweisgesetz - SeeVersNachwG)
+% Gesetz über bestimmte Versicherungsnachweise in der Seeschifffahrt*  (Seeversicherungsnachweisgesetz - SeeVersNachwG)
 % Ausfertigungsdatum: 04.06.2013
  
 # Inhaltsübersicht

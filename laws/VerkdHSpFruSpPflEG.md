@@ -1,4 +1,4 @@
-% Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
+% Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten*
 % Ausfertigungsdatum: 10.12.2015
  
 # Art 1 bis 5 – Änderungsvorschriften

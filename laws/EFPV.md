@@ -1,4 +1,4 @@
-% Verordnung über die Einsatzbedingungen des fahrenden Personals im interoperablen grenzüberschreitenden Eisenbahnverkehr    (Eisenbahn-Fahrpersonalverordnung - EFPV)
+% Verordnung über die Einsatzbedingungen des fahrenden Personals im interoperablen grenzüberschreitenden Eisenbahnverkehr *)  (Eisenbahn-Fahrpersonalverordnung - EFPV)
 % Ausfertigungsdatum: 24.08.2009
  
 # Eingangsformel

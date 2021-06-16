@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Automobilkaufmann und zur Automobilkauffrau   (Automobilkaufleuteausbildungsverordnung - AutoKflAusbV)
+% Verordnung über die Berufsausbildung zum Automobilkaufmann und zur Automobilkauffrau*  (Automobilkaufleuteausbildungsverordnung - AutoKflAusbV)
 % Ausfertigungsdatum: 28.02.2017
  
 # Eingangsformel

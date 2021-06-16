@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin   (Flachglastechnologenausbildungsverordnung - FlGlasTechAusbV)
+% Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin*  (Flachglastechnologenausbildungsverordnung - FlGlasTechAusbV)
 % Ausfertigungsdatum: 03.04.2018
  
 # Eingangsformel

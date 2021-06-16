@@ -280,7 +280,8 @@ der Wert, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermit
 
 (5) Unbeschadet anderer Vorschriften ist der Ausgleich oder die sonstige Verrechnung negativer Einkünfte des übernehmenden Rechtsträgers, die von diesem infolge der Anwendung der Absätze 1 und 2 erzielt werden, auch insoweit nicht zulässig, als die negativen Einkünfte auf der Veräußerung oder der Bewertung von Finanzinstrumenten oder Anteilen an einer Körperschaft beruhen. Als negative Einkünfte im Sinne des Satzes 1 gelten auch Aufwendungen außerhalb des Rückwirkungszeitraums, die darauf beruhen, dass Finanzinstrumente oder Anteile an einer Körperschaft, die dem übernehmenden Rechtsträger auf Grund der Anwendung der Absätze 1 und 2 zugerechnet werden, bis zu dem in Satz 4 bezeichneten Zeitpunkt veräußert werden oder nach den Sätzen 3 und 4 als veräußert gelten. Als Veräußerung im Sinne der Sätze 1 und 2 gilt auch die Einlösung, Rückzahlung, Abtretung, Entnahme, verdeckte Einlage in eine Kapitalgesellschaft oder ein sonstiger ertragsteuerlich einer Veräußerung gleichgestellter Vorgang. Mit Ablauf des nach der Umwandlung endenden Gewinnermittlungszeitraums nach § 4a des Einkommensteuergesetzes oder in anderen Fällen mit Ablauf des nach der Umwandlung endenden Kalenderjahrs noch nicht veräußerte oder nach Satz 3 als veräußert geltende Wirtschaftsgüter im Sinne des Satzes 2 gelten zu diesem Zeitpunkt als zum gemeinen Wert veräußert und wieder angeschafft. Satz 2 findet keine Anwendung, soweit die Finanzinstrumente oder Anteile an einer Körperschaft ohne die Anwendung der Absätze 1 und 2 beim übertragenden Rechtsträger in dessen steuerlicher Schlussbilanz mit einem anderen als dem gemeinen Wert hätten angesetzt werden können. Die Sätze 1 bis 5 finden keine Anwendung, wenn der Steuerpflichtige nachweist, dass die Verrechnung negativer Einkünfte im Sinne der Sätze 1 und 2 kein Haupt- oder Nebenzweck der Umwandlung war. Ist der übernehmende Rechtsträger an den Finanzinstrumenten oder Anteilen an einer Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt, gelten die Sätze 2 bis 6 sinngemäß für Aufwendungen und Einkünfteminderungen infolge der Veräußerung oder eines niedrigeren Wertansatzes der Finanzinstrumente oder Anteile beziehungsweise infolge der Veräußerung von Anteilen an den Personengesellschaften oder deren Auflösung.
 
-(+++ § 2 Abs. 4: Zur erstmaligen Anwendung vgl. § 27 Abs. 9, 10, 12 +++)
+(+++ § 2 Abs. 4: Zur erstmaligen Anwendung vgl. § 27 Abs. 9, 10, 12 +++)  
+(+++ § 2 Abs. 5: Zur erstmaligen Anwendung vgl. § 27 Abs. 16 +++)
 
 # § 3 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
@@ -314,6 +315,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (7) Soweit der Übernahmegewinn auf eine Körperschaft, Personenvereinigung oder Vermögensmasse als Mitunternehmerin der Personengesellschaft entfällt, ist § 8b des Körperschaftsteuergesetzes anzuwenden. In den übrigen Fällen ist § 3 Nr. 40 sowie § 3c des Einkommensteuergesetzes anzuwenden.
 
+(+++ § 4: Zur Anwendung vgl. § 27 +++)  
 (+++ § 4 Abs. 2 Satz 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)  
 (+++ § 4 Abs. 6 Satz 4 bis 6, Abs. 7 Satz 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 8 +++)
 
@@ -348,7 +350,7 @@ Dem Anteilseigner ist der Teil des in der Steuerbilanz ausgewiesenen Eigenkapita
 Im Falle des Formwechsels einer Kapitalgesellschaft in eine Personengesellschaft sind die §§ 3 bis 8 und 10 entsprechend anzuwenden. Die Kapitalgesellschaft hat für steuerliche Zwecke auf den Zeitpunkt, in dem der Formwechsel wirksam wird, eine Übertragungsbilanz, die Personengesellschaft eine Eröffnungsbilanz aufzustellen. Die Bilanzen nach Satz 2 können auch für einen Stichtag aufgestellt werden, der höchstens acht Monate vor der Anmeldung des Formwechsels zur Eintragung in ein öffentliches Register liegt (Übertragungsstichtag); § 2 Absatz 3 bis 5 gilt entsprechend.
 
 (+++ § 9 Satz 3: Zur erstmaligen Anwendung vgl. § 27 Abs. 10 +++)  
-(+++ § 9 Satz 3: Zur Anwendung vgl. § 27 Abs. 15 +++)
+(+++ § 9 Satz 3: Zur Anwendung vgl. § 27 Abs. 15 u. 16 +++)
 
 # § 10 – (weggefallen)
 
@@ -466,7 +468,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (+++ § 20 Abs. 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 14 +++)  
 (+++ § 20 Abs. 6 Satz 1 u. 3: Zur Anwendung vgl. § 27 Abs. 15 +++)  
-(+++ § 20 Abs. 6 Satz 4: Zur Anwendung vgl. § 27 Abs. 9 +++)  
+(+++ § 20 Abs. 6 Satz 4: Zur Anwendung vgl. § 27 Abs. 9 u. 16 +++)  
 (+++ § 20 Abs. 8: Zur Anwendung vgl. § 27 Abs. 13 +++)  
 (+++ § 20 Abs. 9: Zur Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)
 

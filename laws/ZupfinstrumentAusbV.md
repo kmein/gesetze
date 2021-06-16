@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin   (Zupfinstrumentenmacherausbildungsverordnung - ZupfinstrumentAusbV)
+% Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin*  (Zupfinstrumentenmacherausbildungsverordnung - ZupfinstrumentAusbV)
 % Ausfertigungsdatum: 30.06.2014
  
 # Eingangsformel

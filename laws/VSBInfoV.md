@@ -1,4 +1,4 @@
-% Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz   (Verbraucherstreitbeilegungs-Informationspflichtenverordnung - VSBInfoV)
+% Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz*)  (Verbraucherstreitbeilegungs-Informationspflichtenverordnung - VSBInfoV)
 % Ausfertigungsdatum: 28.02.2016
  
 # Eingangsformel

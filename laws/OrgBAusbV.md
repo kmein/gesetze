@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin   (Orgelbauerausbildungsverordnung - OrgBAusbV)
+% Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin*  (Orgelbauerausbildungsverordnung - OrgBAusbV)
 % Ausfertigungsdatum: 11.02.2019
  
 # Eingangsformel

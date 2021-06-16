@@ -1,4 +1,4 @@
-% Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden
+% Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden*)
 % Ausfertigungsdatum: 06.10.2010
  
 # Eingangsformel

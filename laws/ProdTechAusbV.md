@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin
+% Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin *)
 % Ausfertigungsdatum: 16.06.2008
  
 # Eingangsformel

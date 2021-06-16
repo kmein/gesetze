@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fischwirt und zur Fischwirtin    (Fischwirtausbildungsverordnung - FischwAusbV)
+% Verordnung über die Berufsausbildung zum Fischwirt und zur Fischwirtin *)  (Fischwirtausbildungsverordnung - FischwAusbV)
 % Ausfertigungsdatum: 26.02.2016
  
 # Eingangsformel

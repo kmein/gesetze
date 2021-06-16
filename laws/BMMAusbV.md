@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin   (Biologiemodellmacherausbildungsverordnung - BMMAusbV)
+% Verordnung über die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin*  (Biologiemodellmacherausbildungsverordnung - BMMAusbV)
 % Ausfertigungsdatum: 08.06.2017
  
 # Eingangsformel

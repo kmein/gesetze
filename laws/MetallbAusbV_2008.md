@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin
+% Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin*)
 % Ausfertigungsdatum: 25.07.2008
  
 # Eingangsformel

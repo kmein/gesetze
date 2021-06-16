@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
+% Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin*
 % Ausfertigungsdatum: 14.06.2013
  
 # Eingangsformel

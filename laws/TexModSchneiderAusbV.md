@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin   (Textil- und Modeschneiderausbildungsverordnung - TexModSchneiderAusbV)
+% Verordnung über die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin*  (Textil- und Modeschneiderausbildungsverordnung - TexModSchneiderAusbV)
 % Ausfertigungsdatum: 25.06.2015
  
 # Eingangsformel

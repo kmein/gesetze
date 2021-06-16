@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin   (Süßwarentechnologenausbildungsverordnung - SüßwAusbV)
+% Verordnung über die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin*  (Süßwarentechnologenausbildungsverordnung - SüßwAusbV)
 % Ausfertigungsdatum: 29.04.2014
  
 # Eingangsformel

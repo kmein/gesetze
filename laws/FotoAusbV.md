@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin    (Fotografiergewerbe-Ausbildungsverordnung - FotoAusbV)
+% Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin *)  (Fotografiergewerbe-Ausbildungsverordnung - FotoAusbV)
 % Ausfertigungsdatum: 12.05.2009
  
 # Eingangsformel

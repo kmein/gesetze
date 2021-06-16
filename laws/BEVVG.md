@@ -151,7 +151,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (1) Spätestens sechs Monate nach Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung finden Wahlen zur Personalvertretung statt. Bis zur Konstituierung des Personalrates werden die Aufgaben der Personalvertretung bei der Bundesstelle für Eisenbahnunfalluntersuchung vom Hauptpersonalrat beim Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen. Der Übergangspersonalrat bestellt unverzüglich den Wahlvorstand für die Durchführung der Personalratswahlen in der Bundesstelle für Eisenbahnunfalluntersuchung.
 
-(2) Die Dienstvereinbarungen und Verwaltungsanordnungen im Sinne des § 78 Absatz 1 Nummer 1 des Bundespersonalvertretungsgesetzes des Eisenbahn-Bundesamtes gelten bis zum Abschluss neuer Dienstvereinbarungen für alle Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmer der Bundesstelle für Eisenbahnunfalluntersuchung fort.
+(2) Die Dienstvereinbarungen und Verwaltungsanordnungen im Sinne des § 84 Absatz 1 Nummer 1 des Bundespersonalvertretungsgesetzes des Eisenbahn-Bundesamtes gelten bis zum Abschluss neuer Dienstvereinbarungen für alle Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmer der Bundesstelle für Eisenbahnunfalluntersuchung fort.
 
 # § 9 – Zusammenarbeit zwischen Regulierungs-, Sicherheits-, Genehmigungs- und Kartellbehörden
 

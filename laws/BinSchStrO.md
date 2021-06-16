@@ -1,7 +1,7 @@
 % Binnenschifffahrtsstraßen-Ordnung  (BinSchStrO)
 % Ausfertigungsdatum: 16.12.2011
  
-# Inhaltsverzeichnis
+# Inhaltsverzeichnis – 1)
 
 # § 1.01 – Begriffsbestimmungen
 
@@ -1985,13 +1985,13 @@ Ein unter Segel fahrendes Kleinfahrzeug überholt ein anderes unter Segel fahren
 
 3. Beim Begegnen, Kreuzen oder Überholen dürfen Fahrzeuge, deren Kurse jede Gefahr eines Zusammenstoßes ausschließen, ihren Kurs oder ihre Geschwindigkeit nicht in einer Weise ändern, die die Gefahr eines Zusammenstoßes herbeiführen könnte.
 
-# § 6.03a – Kreuzen
+# § 6.03a – Kreuzen *)
 
 1. Kreuzen sich die Kurse zweier Fahrzeuge so, dass die Gefahr eines Zusammenstoßes besteht, muss das Fahrzeug, das das andere Fahrzeug an Steuerbord hat, diesem ausweichen und, sofern es die Umstände erlauben, ein Kreuzen des Kurses vor dem Fahrzeug vermeiden.
 
 2. Nummer 1 gilt nicht in den Fällen der §§ 6.02a, 6.13, 6.14 und 6.16.
 
-# § 6.04 – Allgemeine Bestimmungen für das Begegnen(Anlage 3: Bild 63)
+# § 6.04 – Allgemeine Bestimmungen für das Begegnen(Anlage 3: Bild 63) *)
 
 1. Beim Begegnen muss der Bergfahrer unter Berücksichtigung der örtlichen Umstände und des übrigen Verkehrs dem Talfahrer einen geeigneten Weg freilassen.
 
@@ -2022,7 +2022,7 @@ b) „zwei kurze Töne“, wenn die Vorbeifahrt an Steuerbord stattfinden soll.
 
 5. Unbeschadet des § 6.05 muss der Talfahrer den Weg nehmen, den ihm der Bergfahrer nach den vorstehenden Bestimmungen weist; er muss die Sichtzeichen nach Nummer 3 und die Schallzeichen nach Nummer 4 erwidern, die der Bergfahrer an ihn gerichtet hat.
 
-# § 6.05 – Ausnahmen von den allgemeinen Bestimmungen für das Begegnen
+# § 6.05 – Ausnahmen von den allgemeinen Bestimmungen für das Begegnen*)
 
 1. Abweichend von § 6.04 kann
 
@@ -2051,7 +2051,7 @@ b) soll die Vorbeifahrt an Steuerbord stattfinden, müssen sie „zwei kurze Tö
 
 (ohne Inhalt)
 
-# § 6.07 – Begegnen im engen Fahrwasser
+# § 6.07 – Begegnen im engen Fahrwasser *)
 
 1. Um nach Möglichkeit ein Begegnen auf einer Strecke oder an einer Stelle zu vermeiden, wo das Fahrwasser keinen hinreichenden Raum für die Vorbeifahrt gewährt (Fahrwasserenge), gilt Folgendes:
 
@@ -2086,7 +2086,7 @@ Durchfahrt frei.
 
 2. Der Vorausfahrende muss das Überholen, soweit dies notwendig und möglich ist, erleichtern. Er muss nötigenfalls seine Geschwindigkeit vermindern, damit das Überholmanöver gefahrlos und so schnell ausgeführt werden kann, dass der übrige Verkehr nicht behindert wird.
 
-# § 6.10 – Verhalten und Zeichengebung der Fahrzeuge beim Überholen
+# § 6.10 – Verhalten und Zeichengebung der Fahrzeuge beim Überholen*)
 
 1. Der Überholende darf an Backbord oder an Steuerbord des Vorausfahrenden überholen. Ist das Überholen möglich, ohne dass der Vorausfahrende seinen Kurs zu ändern braucht, gibt der Überholende kein Schallzeichen.
 
@@ -2116,7 +2116,7 @@ Der Vorausfahrende muss alsdann dem Überholenden genügend Raum an derjenigen S
 
 5. Ist ein gefahrloses Überholen unmöglich, muss der Vorausfahrende „fünf kurze Töne“ geben.
 
-# § 6.11 – Überholverbot durch Schifffahrtszeichen
+# § 6.11 – Überholverbot durch Schifffahrtszeichen *)
 
 Unbeschadet des § 6.08 Nummer 1 besteht
 
@@ -2126,7 +2126,7 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 dies gilt nicht, sofern einer der Verbände ein Schubverband ist,<br />
 dessen Länge 110,00 m und dessen Breite 12,00 m nicht überschreiten.</dd></dl></td><td style="text-align: left;"><img src="../normengrafiken/bgbl1_2012/j0001_0104_ab1.jpg" /></td></tr></tbody></table>
 
-# § 6.12 – Fahrt auf Strecken mit vorgeschriebenem Kurs
+# § 6.12 – Fahrt auf Strecken mit vorgeschriebenem Kurs**)
 
 1. Auf einer Strecke, die mit einem der Tafelzeichen B.1, B.2a, B.2b, B.3a, B.3b, B.4a oder B.4b (Anlage 7) bezeichnet ist, muss ein Fahrzeug dem durch das Tafelzeichen vorgeschriebenen Kurs folgen. 
 |     |     |                                                      |

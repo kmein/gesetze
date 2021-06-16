@@ -1,4 +1,4 @@
-% Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten ,   (Elektro- und Elektronikgeräte-Stoff-Verordnung - ElektroStoffV)
+% Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten1,2  (Elektro- und Elektronikgeräte-Stoff-Verordnung - ElektroStoffV)
 % Ausfertigungsdatum: 19.04.2013
  
 # Eingangsformel

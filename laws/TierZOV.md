@@ -1,4 +1,4 @@
-% Verordnung über Zuchtorganisationen   (Tierzuchtorganisationsverordnung - TierZOV)
+% Verordnung über Zuchtorganisationen*)  (Tierzuchtorganisationsverordnung - TierZOV)
 % Ausfertigungsdatum: 29.04.2009
  
 # Eingangsformel

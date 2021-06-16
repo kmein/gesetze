@@ -1,4 +1,4 @@
-% Gesetz zum Schengener Informationssystem der zweiten Generation    (SIS-II-Gesetz)
+% Gesetz zum Schengener Informationssystem der zweiten Generation *)  (SIS-II-Gesetz)
 % Ausfertigungsdatum: 06.06.2009
  
 # Art 1 – Anwendung der Bestimmungen des Beschlusses des Rates über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)

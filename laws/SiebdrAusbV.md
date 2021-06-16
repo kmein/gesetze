@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck   (Siebdrucker-Ausbildungsverordnung - SiebdrAusbV)
+% Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck*)  (Siebdrucker-Ausbildungsverordnung - SiebdrAusbV)
 % Ausfertigungsdatum: 07.04.2011
  
 # Eingangsformel

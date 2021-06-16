@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin
+% Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin*)
 % Ausfertigungsdatum: 21.06.2011
  
 # Eingangsformel

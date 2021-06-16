@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer und zur Behälter- und Apparatebauerin   (Behälter- und Apparatebauerausbildungsverordnung - BehAppbAusbV)
+% Verordnung über die Berufsausbildung zum Behälter- und Apparatebauer und zur Behälter- und Apparatebauerin*  (Behälter- und Apparatebauerausbildungsverordnung - BehAppbAusbV)
 % Ausfertigungsdatum: 02.01.2018
  
 # Eingangsformel

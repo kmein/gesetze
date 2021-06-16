@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin   (Bogenmacherausbildungsverordnung - BmAusV)
+% Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*  (Bogenmacherausbildungsverordnung - BmAusV)
 % Ausfertigungsdatum: 16.07.2015
  
 # Eingangsformel

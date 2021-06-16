@@ -1,4 +1,4 @@
-% Verordnung über die Festsetzung des Naturschutzgebietes „Sylter Außenriff – Östliche Deutsche Bucht“   (NSGSylV)
+% Verordnung über die Festsetzung des Naturschutzgebietes „Sylter Außenriff – Östliche Deutsche Bucht“1  (NSGSylV)
 % Ausfertigungsdatum: 22.09.2017
  
 # Eingangsformel

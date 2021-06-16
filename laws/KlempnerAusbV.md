@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin   (Klempner-Ausbildungsverordnung - KlempnerAusbV)
+% Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin*  (Klempner-Ausbildungsverordnung - KlempnerAusbV)
 % Ausfertigungsdatum: 21.06.2013
  
 # Eingangsformel

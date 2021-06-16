@@ -1,4 +1,4 @@
-% Verordnung über Informationspflichten für Dienstleistungserbringer    (Dienstleistungs-Informationspflichten-Verordnung - DL-InfoV)
+% Verordnung über Informationspflichten für Dienstleistungserbringer *)  (Dienstleistungs-Informationspflichten-Verordnung - DL-InfoV)
 % Ausfertigungsdatum: 12.03.2010
  
 # Eingangsformel

@@ -159,7 +159,7 @@ Das Bundesministerium der Verteidigung, das Kommando Luftwaffe und das Marinekom
 
 (2) Bei Teilzeitbeschäftigung ist die regelmäßige tägliche Arbeitszeit innerhalb der Grenzen nach Absatz 1 individuell festzulegen.
 
-# § 7 – Ruhepausen und Ruhezeiten
+# § 7 – Ruhepausen und Ruhezeiten1
 
 (1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden muss die Ruhepause insgesamt mindestens 45 Minuten betragen. Ruhepausen können in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden.
 

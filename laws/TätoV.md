@@ -1,4 +1,4 @@
-% Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen   (Tätowiermittel-Verordnung)
+% Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen*)  (Tätowiermittel-Verordnung)
 % Ausfertigungsdatum: 13.11.2008
  
 # Eingangsformel

@@ -1,4 +1,4 @@
-% Verordnung über die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk
+% Verordnung über die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk*)
 % Ausfertigungsdatum: 17.06.2011
  
 # Eingangsformel

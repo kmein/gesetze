@@ -1,4 +1,4 @@
-% Verordnung zu den Mindestanforderungen an Sanierungspläne für Institute    (Sanierungsplanmindestanforderungsverordnung - MaSanV)
+% Verordnung zu den Mindestanforderungen an Sanierungspläne für Institute 1  (Sanierungsplanmindestanforderungsverordnung - MaSanV)
 % Ausfertigungsdatum: 12.03.2020
  
 # Eingangsformel

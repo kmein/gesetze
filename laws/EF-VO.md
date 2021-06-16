@@ -1,4 +1,4 @@
-% Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden    (Einreise-Freimengen-Verordnung - EF-VO)
+% Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden *)  (Einreise-Freimengen-Verordnung - EF-VO)
 % Ausfertigungsdatum: 24.11.2008
  
 # Eingangsformel
