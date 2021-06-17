@@ -53,7 +53,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur ist berechtigt, ge
 
 (2) Werden durch ein Handeln oder Unterlassen der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes beamtenrechtliche Bestimmungen verletzt, soll das Fernstraßen-Bundesamt zunächst darauf hinwirken, dass die Gesellschaft die Rechtsverletzung behebt. Kommt die Gesellschaft dem innerhalb einer gesetzten Frist nicht nach, kann das Fernstraßen-Bundesamt die Rechtsverletzung selbst beheben. In diesem Falle gehen die der Gesellschaft zur Ausübung übertragenen Befugnisse auf das Fernstraßen-Bundesamt über. Die Rechte und Pflichten des Betriebs- oder Gesamtbetriebsrats bleiben unberührt.
 
-(3) Die in der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes und ihren Tochtergesellschaften eingesetzten Beschäftigten des Fernstraßen-Bundesamtes gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Fernstraßen-Bundesamtes; § 13 Absatz 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
+(3) Die in der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes und ihren Tochtergesellschaften eingesetzten Beschäftigten des Fernstraßen-Bundesamtes gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte des Fernstraßen-Bundesamtes; § 14 Absatz 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 # § 5 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 

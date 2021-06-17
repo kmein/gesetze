@@ -161,7 +161,7 @@ Schlußvorschriften
 
 § 28
 
-Berlin-Klausel
+Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 § 29
 
@@ -409,9 +409,11 @@ Scheidet das einzige stellvertretende Mitglied vorzeitig aus dem Amt aus oder is
 
 Für die Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen gelten die §§ 24 bis 26 entsprechend.
 
-# § 28 – Berlin-Klausel
+# § 28 – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 72 des Schwerbehindertengesetzes auch im Land Berlin.
+(1) Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag kann die Wahlversammlung der Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
+
+(2) Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag gilt § 11 für die Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder im vereinfachten Wahlverfahren entsprechend.
 
 # § 29 – (Inkrafttreten)
 

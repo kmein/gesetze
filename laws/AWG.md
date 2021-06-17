@@ -145,7 +145,7 @@ Stehen nach dem Verbringungsvertrag die Verfügungsrechte über die Güter einem
 
 Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Mai 1945, eine Person mit Wohnsitz oder Sitz im Gebiet des Deutschen Reichs nach dem Stand vom 31. Dezember 1937 ausgestellt hat. Ausländische Wertpapiere sind Wertpapiere, die ein Ausländer ausgestellt hat, soweit sie nicht inländische Wertpapiere sind.
 
-(25) Zollgebiet der Europäischen Union ist das Zollgebiet der Union nach Artikel 4 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist in der jeweils geltenden Fassung.
+(25) Zollgebiet der Europäischen Union ist das Zollgebiet der Union nach Artikel 4 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist in der jeweils geltenden Fassung. Durch Rechtsverordnung kann bestimmt werden, dass das Gebiet von Nordirland für bestimmte Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen als Teil des Zollgebiets der Europäischen Union gilt.
 
 # § 3 – Zweigniederlassungen und Betriebsstätten
 
@@ -309,7 +309,7 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 # § 12 – Erlass von Rechtsverordnungen
 
-(1) Rechtsverordnungen nach diesem Gesetz erlässt die Bundesregierung. Rechtsverordnungen nach § 4 Absatz 2 erlässt abweichend von Satz 1 das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium der Finanzen.
+(1) Rechtsverordnungen nach diesem Gesetz erlässt die Bundesregierung. Rechtsverordnungen nach § 4 Absatz 2 und § 30 Absatz 2 erlässt abweichend von Satz 1 das Bundesministerium für Wirtschaft und Energie, im Falle des § 4 Absatz 2 im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium der Finanzen.
 
 (2) Die Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates.
 
@@ -317,7 +317,7 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 (4) Die Rechtsverordnungen sind unverzüglich nach ihrer Verkündung dem Bundestag und dem Bundesrat mitzuteilen. Der Bundesrat kann binnen vier Wochen gegenüber dem Bundestag Stellung nehmen. Die Rechtsverordnungen sind unverzüglich aufzuheben, soweit es der Bundestag binnen vier Monaten nach ihrer Verkündung verlangt.
 
-(5) Absatz 4 ist nicht anzuwenden auf Rechtsverordnungen, durch welche die Bundesregierung oder das Bundesministerium für Wirtschaft und Energie gemäß § 4 Absatz 2 Beschränkungen des Güter-, Kapital- oder Zahlungsverkehrs mit dem Ausland angeordnet oder aufgehoben hat.
+(5) Absatz 4 ist nicht anzuwenden auf Rechtsverordnungen, durch welche die Bundesregierung oder das Bundesministerium für Wirtschaft und Energie gemäß § 4 Absatz 2 Beschränkungen des Güter-, Kapital- oder Zahlungsverkehrs mit dem Ausland angeordnet oder aufgehoben hat, und auf Rechtsverordnungen gemäß § 30 Absatz 2.
 
 # § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
 
@@ -369,6 +369,8 @@ e) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne d
 
 2. innerhalb von vier Monaten nach dem vollständigen Eingang der nach Absatz 2 Satz 2 und 4 bestimmten Unterlagen die Beschränkungen oder Handlungspflichten anordnet.
 
+(1a) Im Fall eines Angebots im Sinne des Wertpapiererwerbs- und Übernahmegesetzes beginnt die Frist nach Satz 1 Nummer 1 mit dem Erlangen der Kenntnis von der Veröffentlichung der Entscheidung zur Abgabe des Angebots.
+
 (2) Der unmittelbare Erwerber ist verpflichtet, dem Bundesministerium für Wirtschaft und Energie im Fall einer Prüfung die dafür erforderlichen Unterlagen über den Erwerb einzureichen. Das Bundesministerium für Wirtschaft und Energie bestimmt durch Allgemeinverfügung die Unterlagen, die für die Prüfung des Erwerbs im Hinblick auf Beschränkungen oder Handlungspflichten erforderlich sind. Die Allgemeinverfügung ist im Bundesanzeiger bekannt zu machen. Über Satz 2 hinaus kann das Bundesministerium für Wirtschaft und Energie im Eröffnungsbescheid nach Absatz 1 Nummer 1 weitergehende Auskünfte oder die Einreichung weiterer für die Prüfung erforderlicher Unterlagen verlangen. Das Bundesministerium für Wirtschaft und Energie kann über die Sätze 2 und 4 hinaus nachträglich im Einzelfall durch Verwaltungsakt von allen an einem Erwerb unmittelbar oder mittelbar Beteiligten weitergehende Auskünfte oder die Einreichung weiterer für die Prüfung erforderlicher Unterlagen verlangen.
 
 (3) Das Erlangen der Kenntnis nach Absatz 1 Nummer 1 steht dem Eingang der Meldung eines Erwerbs oder eines Antrags auf Erteilung einer Unbedenklichkeitsbescheinigung beim Bundesministerium für Wirtschaft und Energie gleich. Eine Eröffnung des Prüfverfahrens ist ausgeschlossen, wenn seit Abschluss des schuldrechtlichen Vertrags über den Erwerb mehr als fünf Jahre vergangen sind.
@@ -413,15 +415,43 @@ Das Rechtsgeschäft wird vom Zeitpunkt seiner Vornahme an wirksam, wenn das Bund
 
 (4) In den Fällen, in denen ein Rechtsgeschäft nach Absatz 3 schwebend unwirksam ist, ist es, bis das Bundesministerium für Wirtschaft und Energie nach den in Absatz 2 Satz 1 genannten Vorschriften den Erwerb freigibt oder nicht innerhalb der in § 14a geregelten Fristen untersagt oder die Freigabe des Erwerbs als erteilt gilt, verboten,
 
-1. dem Erwerber die Ausübung von Stimmrechten unmittelbar oder mittelbar zu ermöglichen, insbesondere durch Übergabe von Inhaberpapieren, durch Indossament von Namenpapieren, durch Übertragung nach den Bestimmungen des Depotgesetzes oder des Effektengiroverkehrs, durch Stimmrechtsvereinbarungen, Annahme von Weisungen zur Stimmrechtsausübung oder vergleichbare Handlungen,
+1. die mit dem Erwerb verbundenen Stimmrechte auszuüben,
 
-2. dem Erwerber den Bezug von Gewinnauszahlungsansprüchen, die mit dem Erwerb einhergehen, oder eines wirtschaftlichen Äquivalents zu gewähren,
+2. (weggefallen)
 
 3. dem Erwerber unternehmensbezogene Informationen, einschließlich elektronisch oder auf sonstige Weise gespeicherte Daten, des inländischen Unternehmens zu überlassen oder anderweitig offenzulegen, soweit sich diese Informationen auf Unternehmensbereiche oder Unternehmensgegenstände beziehen, die auf Grund von § 4 Absatz 1 Nummer 4 und 4a und § 5 Absatz 2 oder von § 4 Absatz 1 Nummer 1 und § 5 Absatz 3 jeweils in Verbindung mit einer auf Grund dieser Vorschriften erlassenen Rechtsverordnung die Prüfung im Hinblick auf das Gewährleisten der wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland auslösen oder im Rahmen der Prüfung einer Beeinträchtigung der öffentlichen Ordnung oder Sicherheit der Bundesrepublik Deutschland besonders zu berücksichtigen sind, oder
 
 4. dem Erwerber unternehmensbezogene Informationen, einschließlich elektronisch oder auf sonstige Weise gespeicherte Daten, des inländischen Unternehmens zu überlassen oder anderweitig offenzulegen, die in einer Anordnung nach Satz 2 als bedeutsam bezeichnet sind.
 
-Das Bundesministerium für Wirtschaft und Energie kann anordnen, dass über Satz 1 Nummer 3 hinaus bestimmte unternehmensbezogene Informationen, einschließlich elektronisch oder auf sonstige Weise gespeicherte Daten, des inländischen Unternehmens als bedeutsam für die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland oder für die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland gelten, soweit dies erforderlich ist, um einen vorzeitigen Vollzug eines Rechtsgeschäftes im Sinne des Absatzes 2 zu verhindern.
+Das Bundesministerium für Wirtschaft und Energie kann anordnen, dass über Satz 1 Nummer 3 hinaus bestimmte unternehmensbezogene Informationen, einschließlich elektronisch oder auf sonstige Weise gespeicherter Daten, des inländischen Unternehmens als bedeutsam
+
+1. für die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland,
+
+2. für die öffentliche Ordnung oder Sicherheit
+
+a) der Bundesrepublik Deutschland,
+
+b) eines anderen Mitgliedstaates der Europäischen Union oder
+
+c) in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne von Artikel 8 der Verordnung (EU) 2019/452
+
+gelten, soweit dies erforderlich ist, um einen vorzeitigen Vollzug eines Rechtsgeschäftes im Sinne des Absatzes 2 zu verhindern.
+
+(5) Durch Rechtsverordnung können
+
+1. Ausnahmen von Absatz 3, insbesondere für schuldrechtliche Rechtsgeschäfte über den Erwerb, bei denen die unmittelbare oder mittelbare Beteiligung an einem inländischen Unternehmen mittels eines Rechtsgeschäfts mit Wertpapieren, einschließlich solchen, die in andere zum Handel an einer Börse oder an einem ähnlichen Markt zugelassene Wertpapiere konvertierbar sind, über eine Börse erworben wird, geregelt werden,
+
+2. für den Fall der Untersagung eines Erwerbs geregelt werden, dass der Vollzug schuldrechtlicher Rechtsgeschäfte über den Erwerb rückgängig zu machen ist, insbesondere Stimmrechtsanteile, die auf Grund von Rechtsgeschäften im Sinne der Nummer 1 erworben worden sind, innerhalb eines bestimmten Zeitraums wieder zu veräußern sind.
+
+In Rechtsverordnungen nach Satz 1 können ferner geregelt werden,
+
+1. die Untersagung oder die Einschränkung der Ausübung von Stimmrechten,
+
+2. die Untersagung oder die Einschränkung des Überlassens oder des anderweitigen Offenlegens unternehmensbezogener Informationen im Sinne des Absatzes 4 Satz 1 Nummer 3 oder 4 unmittelbar oder mittelbar an einen Erwerber,
+
+3. die Übergabe von Stimmrechtsanteilen an einen Treuhänder,
+
+soweit dies erforderlich ist, um die ordnungsgemäße Durchführung eines Prüfverfahrens oder die Wirksamkeit einer Untersagung zu gewährleisten.
 
 (+++ § 15: Zur Anwendung vgl. § 31 Satz 1 +++)
 
@@ -479,7 +509,13 @@ eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 
 (1a) Ebenso wird bestraft, wer einer vollziehbaren Anordnung nach § 6 Absatz 1 Satz 2 zuwiderhandelt.
 
-(1b) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einem Verbot des § 15 Absatz 4 Satz 1 zuwiderhandelt.
+(1b) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
+
+1. entgegen § 15 Absatz 4 Satz 1 Nummer 1 ein Stimmrecht ausübt,
+
+2. entgegen § 15 Absatz 4 Satz 1 Nummer 3 oder 4 eine dort genannte Information überlässt oder offenlegt oder
+
+3. einer Rechtsverordnung nach § 15 Absatz 5 Satz 1 Nummer 2 oder Satz 2 Nummer 1 oder 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
 (2) Ebenso wird bestraft, wer gegen die Außenwirtschaftsverordnung verstößt, indem er
 
@@ -499,13 +535,13 @@ eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 
 8. einer vollziehbaren Anordnung nach § 59 Absatz 1 Satz 1 oder Absatz 3 Nummer 1 oder § 62 Absatz 1 zuwiderhandelt.
 
-(3) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Verordnung (EG) Nr. 1268/2008 (ABl. L 338 vom 17.12.2008, S. 39) geändert worden ist, verstößt, indem er
+(3) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 2368/2002 des Rates vom 20. Dezember 2002 zur Umsetzung des Zertifikationssystems des Kimberley-Prozesses für den internationalen Handel mit Rohdiamanten (ABl. L 358 vom 31.12.2002, S. 28), die zuletzt durch die Durchführungsverordnung (EU) 2020/2149 vom 9. Dezember 2020 (ABl. L 428 vom 18.12.2020, S. 38) geändert worden ist, verstößt, indem er
 
 1. entgegen Artikel 3 Rohdiamanten einführt oder
 
 2. entgegen Artikel 11 Rohdiamanten ausführt.
 
-(4) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 des Europäischen Parlaments und des Rates vom 16. Januar 2019 über den Handel mit bestimmten Gütern, die zur Vollstreckung der Todesstrafe, zu Folter oder zu anderer grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe verwendet werden könnten (ABl. L 30 vom 31.1.2019, S. 1) verstößt, indem er
+(4) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2019/125 des Europäischen Parlaments und des Rates vom 16. Januar 2019 über den Handel mit bestimmten Gütern, die zur Vollstreckung der Todesstrafe, zu Folter oder zu anderer grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe verwendet werden könnten (ABl. L 30 vom 31.1.2019, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2021/139 vom 4. Dezember 2020 (ABl. L 43 vom 8.2.2021, S. 5) geändert worden ist, verstößt, indem er
 
 1. entgegen Artikel 3 Absatz 1 Satz 1 dort genannte Güter ausführt,
 
@@ -529,7 +565,7 @@ eines im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 
 Soweit die in Satz 1 genannten Vorschriften auf die Anhänge II, III oder IV zur Verordnung (EU) 2019/125 verweisen, finden diese Anhänge in der jeweils geltenden Fassung Anwendung.
 
-(5) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 428/2009 des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom 29.5.2009, S. 1, L 224 vom 27.8.2009, S. 21) verstößt, indem er
+(5) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 428/2009 des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom 29.5.2009, S. 1, L 224 vom 27.8.2009, S. 21), die zuletzt durch die Verordnung (EU) 2020/2171 vom 16. Dezember 2020 (ABl. L 432 vom 21.12.2020, S. 4) geändert worden ist, verstößt, indem er
 
 1. ohne Genehmigung nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 1, 2 Satz 1 oder Absatz 3 Güter mit doppeltem Verwendungszweck ausführt,
 
@@ -675,7 +711,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (6a) Die Befugnisse nach den Absätzen 1 und 2, jeweils auch in Verbindung mit Absatz 4, stehen auch dem Bundesministerium für Wirtschaft und Energie zu, soweit dies erforderlich ist, um die Einhaltung von Beschränkungen oder Handlungspflichten auf Grund von Rechtsverordnungen nach § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 sowie auf Grund von Rechtsverordnungen nach § 4 Absatz 1 Nummer 4 und 4a, jeweils in Verbindung mit § 5 Absatz 2, zu überwachen. Zum Zweck des Satzes 1 dürfen Bedienstete des Bundesministeriums für Wirtschaft und Energie die Geschäftsräume der Verpflichteten betreten. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
-(6b) Zur Erfüllung der in Absatz 6a genannten Aufgaben kann sich das Bundesministerium für Wirtschaft und Energie der Dienste des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) oder beauftragter Dritter bedienen, denen insoweit auch die in Absatz 6a genannten Befugnisse zustehen. Die näheren Einzelheiten, insbesondere hinsichtlich der an die zu beauftragenden Dritten zu stellenden Anforderungen und deren Aufgabenwahrnehmung, können in Rechtsverordnungen nach § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 und § 4 Absatz 1 Nummer 4 in Verbindung mit § 5 Absatz 2 geregelt werden.
+(6b) Zur Erfüllung der in Absatz 6a genannten Aufgaben kann sich das Bundesministerium für Wirtschaft und Energie der Dienste des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) oder beauftragter Dritter bedienen, denen insoweit auch die in Absatz 6a genannten Befugnisse zustehen. Die näheren Einzelheiten, insbesondere hinsichtlich der an die zu beauftragenden Dritten zu stellenden Anforderungen und deren Aufgabenwahrnehmung, können in Rechtsverordnungen nach § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 und § 4 Absatz 1 Nummer 4 und 4a in Verbindung mit § 5 Absatz 2 geregelt werden.
 
 (7) Das Hauptzollamt, das den Verwaltungsakt erlassen hat, ist auch für die Entscheidung über den Widerspruch zuständig.
 
@@ -751,14 +787,26 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 (2) In den Fällen des Absatzes 1 gelten für die Bemessung der Kosten und für das Verfahren zu ihrer Erhebung die Vorschriften über Kosten, die auf Grund des § 178 der Abgabenordnung erhoben werden.
 
+(3) In einer Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes sind für individuell zurechenbare öffentliche Leistungen des Bundesministeriums für Wirtschaft und Energie und des Bundesamts für Wirtschaft und Ausfuhrkontrolle nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Gebühren ab dem 1. Januar 2023 zu regeln.
+
 # § 29 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-# § 30 – Übergangsbestimmungen
+# § 30 – Anwendung unmittelbar geltender Vorschriften der Europäischen Union
+
+(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts der Europäischen Gemeinschaften oder der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, bleibt für Straftaten und Ordnungswidrigkeiten nach den §§ 18 und 19, die bis zum Zeitpunkt der Aufhebung oder der Nichtanwendung begangen worden sind, die bis dahin geltende innerstaatliche Vorschrift abweichend von § 2 Absatz 3 des Strafgesetzbuches und von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten weiter anwendbar.
+
+(2) Durch Rechtsverordnung kann in einer innerstaatlichen Vorschrift der Verweis auf eine Vorschrift in einem Rechtsakt
+
+1. der Europäischen Gemeinschaften oder der Europäischen Union geändert werden, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
+
+2. der Europäischen Gemeinschaften oder der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift angepasst werden.
+
+# § 31 – Übergangsbestimmungen
 
 § 14a ist erstmals auf Unternehmenserwerbe anzuwenden, von denen das Bundesministerium für Wirtschaft und Energie nach dem 17. Juli 2020 Kenntnis erlangt. Für vor dem in Satz 1 genannten Tag bekannt gewordene Unternehmenserwerbe sind die §§ 55, 57, 58, 59, 61 und 62 der Außenwirtschaftsverordnung in der am 16. Juli 2020 geltenden Fassung weiter anzuwenden.
 
-# § 31 – Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze
+# § 32 – Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze
 
 Das Bundesministerium für Wirtschaft und Energie bewertet unter Beteiligung des Auswärtigen Amts, des Bundesministeriums der Verteidigung, des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen die Anwendung der §§ 4, 5, 13, 14a und 15 in der Fassung des Ersten Gesetzes zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze vom 10. Juli 2020 (BGBl. I S. 1636) im Hinblick auf die Wirksamkeit der Regelungen und den mit dem Vollzug der Regelungen verbundenen Aufwand für Unternehmen und Verwaltung. Der Evaluierungszeitraum beginnt mit dem 18. Juli 2020 und beträgt 24 Monate.

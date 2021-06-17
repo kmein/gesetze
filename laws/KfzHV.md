@@ -45,7 +45,7 @@ Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sic
 
 # § 5 – Bemessungsbetrag
 
-(1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 9.500 Euro gefördert. Die Kosten einer behinderungsbedingten Zusatzausstattung bleiben bei der Ermittlung unberücksichtigt.
+(1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 22 000 Euro gefördert. Die Kosten einer behinderungsbedingten Zusatzausstattung bleiben bei der Ermittlung unberücksichtigt.
 
 (2) Abweichend von Absatz 1 Satz 1 wird im Einzelfall ein höherer Betrag zugrundegelegt, wenn Art oder Schwere der Behinderung ein Kraftfahrzeug mit höherem Kaufpreis zwingend erfordert.
 

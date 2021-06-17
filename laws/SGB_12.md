@@ -557,6 +557,14 @@ Kurzzeitpflege
 
 Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5
 
+§ 64j
+
+Digitale Pflegeanwendungen
+
+§ 64k
+
+Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+
 § 65
 
 Stationäre Pflege
@@ -854,6 +862,10 @@ Kostenersatz
 § 102
 
 Kostenersatz durch Erben
+
+§ 102a
+
+Rücküberweisung und Erstattung im Todesfall
 
 § 103
 
@@ -1905,7 +1917,7 @@ Wohnung ist die Zusammenfassung mehrerer Räume, die von anderen Wohnungen oder 
 
 sind ihr Bedarfe für Unterkunft und Heizung nach den Sätzen 2 bis 5 anzuerkennen. Als Bedarf sind leistungsberechtigten Personen nach Satz 1 diejenigen Aufwendungen für Unterkunft als Bedarf anzuerkennen, die sich aus der Differenz der angemessenen Aufwendungen für den Mehrpersonenhaushalt entsprechend der Anzahl der dort wohnenden Personen ergeben und für einen Haushalt mit einer um eins verringerten Personenzahl. Für die als Bedarf zu berücksichtigenden angemessenen Aufwendungen für Heizung ist der Anteil an den tatsächlichen Gesamtaufwendungen für die Heizung der Wohnung zu berücksichtigen, der sich für die Aufwendungen für die Unterkunft nach Satz 2 ergibt. Abweichend von § 35 kommt es auf die nachweisbare Tragung von tatsächlichen Aufwendungen für Unterkunft und Heizung nicht an. Die Sätze 2 und 3 gelten nicht, wenn die mit der leistungsberechtigten Person zusammenlebenden Personen darlegen, dass sie ihren Lebensunterhalt einschließlich der ungedeckten angemessenen Aufwendungen für Unterkunft und Heizung aus eigenen Mitteln nicht decken können; in diesen Fällen findet Absatz 4 Satz 1 Anwendung.
 
-(4) Lebt eine leistungsberechtigte Person zusammen mit anderen Personen in einer Wohnung im Sinne von Absatz 2 Satz 2 (Wohngemeinschaft) oder lebt die leistungsberechtigte Person zusammen mit in Absatz 3 Satz 1 Nummer 1 genannten Personen und ist sie vertraglich zur Tragung von Unterkunftskosten verpflichtet, sind die von ihr zu tragenden Aufwendungen für Unterkunft und Heizung bis zu dem Betrag als Bedarf anzuerkennen, der ihrem nach der Zahl der Bewohner zu bemessenden Anteil an den Aufwendungen für Unterkunft und Heizung entspricht, die für einen entsprechenden Mehrpersonenhaushalt als angemessen gelten. Satz 1 gilt nicht, wenn die leistungsberechtigte Person auf Grund einer mietvertraglichen Vereinbarung nur für konkret bestimmte Anteile des Mietzinses zur Zahlung verpflichtet ist; in diesem Fall sind die tatsächlichen Aufwendungen für Unterkunft und Heizung bis zu dem Betrag als Bedarf anzuerkennen, der für einen Einpersonenhaushalt angemessen ist, soweit der von der leistungsberechtigten Person zu zahlende Mietzins zur gesamten Wohnungsmiete in einem angemessenen Verhältnis steht. Übersteigen die tatsächlichen Aufwendungen der leistungsberechtigten Person die nach den Sätzen 1 und 2 angemessenen Aufwendungen für Unterkunft und Heizung, gilt § 35 Absatz 2 Satz 2 entsprechend.
+(4) Lebt eine leistungsberechtigte Person zusammen mit anderen Personen in einer Wohnung im Sinne von Absatz 2 Satz 2 (Wohngemeinschaft) oder lebt die leistungsberechtigte Person zusammen mit in Absatz 3 Satz 1 Nummer 1 genannten Personen und ist sie vertraglich zur Tragung von Unterkunftskosten verpflichtet, sind die von ihr zu tragenden Aufwendungen für Unterkunft und Heizung bis zu dem Betrag als Bedarf anzuerkennen, der ihrem nach der Zahl der Bewohner zu bemessenden Anteil an den Aufwendungen für Unterkunft und Heizung entspricht, die für einen entsprechenden Mehrpersonenhaushalt als angemessen gelten. Satz 1 gilt nicht, wenn die leistungsberechtigte Person auf Grund einer mietvertraglichen Vereinbarung nur für konkret bestimmte Anteile des Mietzinses zur Zahlung verpflichtet ist; in diesem Fall sind die tatsächlichen Aufwendungen für Unterkunft und Heizung bis zu dem Betrag als Bedarf anzuerkennen, der für einen Einpersonenhaushalt angemessen ist, soweit der von der leistungsberechtigten Person zu zahlende Mietzins zur gesamten Wohnungsmiete in einem angemessenen Verhältnis steht. Übersteigen die tatsächlichen Aufwendungen der leistungsberechtigten Person die nach den Sätzen 1 und 2 angemessenen Aufwendungen für Unterkunft und Heizung, gilt § 35 Absatz 2 entsprechend.
 
 (5) Für leistungsberechtigte Personen, die in Räumlichkeiten nach Absatz 2 Satz 1 Nummer 2 leben, werden die tatsächlichen Aufwendungen für die Unterkunft, soweit sie angemessen sind, als Bedarf berücksichtigt für
 
@@ -1915,7 +1927,7 @@ sind ihr Bedarfe für Unterkunft und Heizung nach den Sätzen 2 bis 5 anzuerkenn
 
 3. die Räumlichkeiten, die vorrangig zur gemeinschaftlichen Nutzung der leistungsberechtigten Person und anderer Bewohner bestimmt sind (Gemeinschaftsräume), mit einem Anteil, der sich aus der Anzahl der vorgesehenen Nutzer bei gleicher Aufteilung ergibt.
 
-Für die tatsächlichen Aufwendungen für die Heizung werden die auf den persönlichen Wohnraum und die auf die Gemeinschaftsräume entfallenden Anteile als Bedarf anerkannt, soweit sie angemessen sind. Tatsächliche Aufwendungen für Unterkunft und Heizung nach den Sätzen 1 und 2 gelten als angemessen, wenn sie die Höhe der durchschnittlichen angemessenen tatsächlichen Aufwendungen für die Warmmiete von Einpersonenhaushalten nicht überschreiten. Maßgeblich ist die Höhe der sich nach Satz 3 ergebenden durchschnittlichen Warmmiete im Zuständigkeitsbereich desjenigen Trägers, der für die Ausführung des Gesetzes nach diesem Kapitel für in Wohnungen lebende Leistungsberechtigte, die zur gleichen Zeit keine Leistungen nach dem Siebten bis Neunten Kapitel oder nach Teil 2 des Neunten Buches erhalten, zuständig ist (örtlicher Träger) und in dessen örtlichem Zuständigkeitsbereich die Räumlichkeiten nach Satz 1 liegen. Hat ein zuständiger örtlicher Träger innerhalb seines örtlichen Zuständigkeitsbereiches mehr als eine Angemessenheitsgrenze festgelegt, so können die sich daraus ergebenden örtlichen Abgrenzungen für die Durchschnittsbildung nach Satz 3 zu Grunde gelegt werden. Überschreiten die tatsächlichen Aufwendungen die Angemessenheitsgrenze nach Satz 3, sind um bis zu 25 Prozent höhere als die angemessenen Aufwendungen anzuerkennen, wenn die leistungsberechtigte Person die höheren Aufwendungen durch einen Vertrag mit gesondert ausgewiesenen zusätzlichen Kosten nachweist für
+Für die tatsächlichen Aufwendungen für die Heizung werden die auf den persönlichen Wohnraum und die auf die Gemeinschaftsräume entfallenden Anteile als Bedarf anerkannt, soweit sie angemessen sind. Tatsächliche Aufwendungen für Unterkunft und Heizung nach den Sätzen 1 und 2 gelten als angemessen, wenn sie die Höhe der durchschnittlichen angemessenen tatsächlichen Aufwendungen für die Warmmiete von Einpersonenhaushalten nach § 45a nicht überschreiten. Überschreiten die tatsächlichen Aufwendungen die Angemessenheitsgrenze nach Satz 3, sind um bis zu 25 Prozent höhere als die angemessenen Aufwendungen anzuerkennen, wenn die leistungsberechtigte Person die höheren Aufwendungen durch einen Vertrag mit gesondert ausgewiesenen zusätzlichen Kosten nachweist für
 
 1. Zuschläge nach Satz 1 Nummer 2,
 
@@ -1925,7 +1937,7 @@ Für die tatsächlichen Aufwendungen für die Heizung werden die auf den persön
 
 4. Gebühren für Telekommunikation sowie Gebühren für den Zugang zu Rundfunk, Fernsehen und Internet.
 
-Die zusätzlichen Aufwendungen nach Satz 6 Nummer 2 bis 4 sind nach der Anzahl der in einer baulichen Einheit lebenden Personen zu gleichen Teilen aufzuteilen.
+Die zusätzlichen Aufwendungen nach Satz 4 Nummer 2 bis 4 sind nach der Anzahl der in einer baulichen Einheit lebenden Personen zu gleichen Teilen aufzuteilen.
 
 (6) Übersteigen die Aufwendungen für die Unterkunft nach Absatz 4 den der Besonderheit des Einzelfalles angemessenen Umfang und hat der für die Ausführung des Gesetzes nach diesem Kapitel zuständige Träger Anhaltspunkte dafür, dass ein anderer Leistungsträger diese Aufwendungen ganz oder teilweise zu übernehmen verpflichtet ist, wirkt er auf eine sachdienliche Antragstellung bei diesem Leistungsträger hin. Übersteigen die tatsächlichen Aufwendungen die Angemessenheitsgrenze nach Absatz 5 Satz 3 um mehr als 25 Prozent, umfassen die Leistungen nach Teil 2 des Neunten Buches auch diese Aufwendungen.
 
@@ -2049,6 +2061,20 @@ Der jeweils für die Ausführung des Gesetzes nach diesem Kapitel zuständige Tr
 4. der Fachausschuss einer Werkstatt für behinderte Menschen über die Aufnahme in eine Werkstatt oder Einrichtung eine Stellungnahme nach den §§ 2 und 3 der Werkstättenverordnung abgegeben und dabei festgestellt hat, dass ein Mindestmaß an wirtschaftlich verwertbarer Arbeitsleistung nicht vorliegt.
 
 In Fällen des Satzes 3 Nummer 4 wird die Stellungnahme des Fachausschusses bei Durchführung eines Teilhabeplanverfahrens nach den §§ 19 bis 23 des Neunten Buches durch eine entsprechende Feststellung im Teilhabeplanverfahren ersetzt; dies gilt entsprechend, wenn ein Gesamtplanverfahren nach den §§ 117 bis 121 des Neunten Buches durchgeführt wird.
+
+# § 45a – Ermittlung der durchschnittlichen Warmmiete
+
+(1) Die Höhe der durchschnittlichen Warmmiete von Einpersonenhaushalten ergibt sich aus den tatsächlichen Aufwendungen, die für allein in Wohnungen (§ 42a Absatz 2 Satz 1 Nummer 1 und Satz 2) lebende Leistungsberechtigte im Durchschnitt als angemessene Bedarfe für Unterkunft und Heizung anerkannt worden sind. Hierfür sind die Bedarfe derjenigen Leistungsberechtigten in Einpersonenhaushalten heranzuziehen, die im Zuständigkeitsbereich desjenigen für dieses Kapitel zuständigen Trägers der Sozialhilfe leben, in dem die nach § 42 Nummer 4 Buchstabe b oder nach § 42a Absatz 5 Satz 1 maßgebliche Unterkunft liegt. Zuständiger Träger der Sozialhilfe im Sinne des Satzes 2 ist derjenige Träger, der für in Wohnungen lebende Leistungsberechtigte zuständig ist, die zur gleichen Zeit keine Leistungen nach dem Siebten bis Neunten Kapitel oder nach Teil 2 des Neunten Buches erhalten. Hat ein nach Satz 3 zuständiger Träger innerhalb seines örtlichen Zuständigkeitsbereiches mehrere regionale Angemessenheitsgrenzen festgelegt, so sind die sich daraus ergebenden örtlichen Abgrenzungen für die Durchschnittsbildung zu Grunde zu legen.
+
+(2) Die durchschnittliche Warmmiete ist jährlich bis spätestens zum 1. August eines Kalenderjahres neu zu ermitteln. Zur Neuermittlung ist der Durchschnitt aus den anerkannten angemessenen Bedarfen für Unterkunft und Heizung in einem vom zuständigen Träger festzulegenden Zwölfmonatszeitraum zu bilden, sofern dieser nicht von einem Land einheitlich für alle zuständigen Träger festgelegt worden ist. Bei der Ermittlung bleiben die anerkannten Bedarfe derjenigen Leistungsberechtigten außer Betracht, für die
+
+1. keine Aufwendungen für Unterkunft und Heizung,
+
+2. Aufwendungen für selbstgenutztes Wohneigentum,
+
+3. Aufwendungen nach § 35 Absatz 2 Satz 1
+
+anerkannt worden sind. Die neu ermittelte durchschnittliche Warmmiete ist ab dem 1. Januar des jeweils folgenden Kalenderjahres für die nach § 42 Nummer 4 Buchstabe b und § 42a Absatz 5 Satz 3 anzuerkennenden Bedarfe für Unterkunft und Heizung anzuwenden.
 
 # § 46 – Zusammenarbeit mit den Trägern der Rentenversicherung
 
@@ -2358,6 +2384,10 @@ e) Maßnahmen zur Verbesserung des Wohnumfeldes (§ 64e),
 
 f) anderen Leistungen (§ 64f),
 
+g) digitalen Pflegeanwendungen (§ 64j),
+
+h) ergänzender Unterstützung bei Nutzung von digitalen Pflegeanwendungen (§ 64k),
+
 2. teilstationäre Pflege (§ 64g),
 
 3. Kurzzeitpflege (§ 64h),
@@ -2372,9 +2402,13 @@ Die Hilfe zur Pflege schließt Sterbebegleitung mit ein.
 
 1. Pflegehilfsmittel (§ 64d),
 
-2. Maßnahmen zur Verbesserung des Wohnumfeldes (§ 64e) und
+2. Maßnahmen zur Verbesserung des Wohnumfeldes (§ 64e),
 
-3. einen Entlastungsbetrag (§ 66).
+3. digitale Pflegeanwendungen (§ 64j),
+
+4. ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen (§ 64k) und
+
+5. einen Entlastungsbetrag (§ 66).
 
 (3) Die Leistungen der Hilfe zur Pflege werden auf Antrag auch als Teil eines Persönlichen Budgets ausgeführt. § 29 des Neunten Buches ist insoweit anzuwenden.
 
@@ -2487,6 +2521,16 @@ Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf einen Entlas
 2. Förderung der Selbständigkeit und Selbstbestimmung der Pflegebedürftigen bei der Gestaltung ihres Alltags oder
 
 3. Inanspruchnahme von Unterstützungsangeboten im Sinne des § 45a des Elften Buches.
+
+# § 64j – Digitale Pflegeanwendungen
+
+(1) Pflegebedürftige haben Anspruch auf eine notwendige Versorgung mit Anwendungen, die wesentlich auf digitalen Technologien beruhen, die von den Pflegebedürftigen oder in der Interaktion von Pflegebedürftigen, Angehörigen und zugelassenen ambulanten Pflegeeinrichtungen genutzt werden, um insbesondere Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen zu mindern und einer Verschlimmerung der Pflegebedürftigkeit entgegenzuwirken (digitale Pflegeanwendungen).
+
+(2) Der Anspruch umfasst nur solche digitalen Pflegeanwendungen, die vom Bundesinstitut für Arzneimittel und Medizinprodukte in das Verzeichnis für digitale Pflegeanwendungen nach § 78a Absatz 3 des Elften Buches aufgenommen wurden.
+
+# § 64k – Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+
+Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im Sinne des § 64j Anspruch auf erforderliche ergänzende Unterstützungsleistungen, die das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 78a Absatz 5 Satz 6 des Elften Buches festgelegt hat, durch nach dem Recht des Elften Buches zugelassene ambulante Pflegeeinrichtungen.
 
 # § 65 – Stationäre Pflege
 
@@ -3034,6 +3078,10 @@ sachlich zuständig.
 (4) Der Anspruch auf Kostenersatz erlischt in drei Jahren nach dem Tod der leistungsberechtigten Person, ihres Ehegatten oder ihres Lebenspartners. § 103 Abs. 3 Satz 2 und 3 gilt entsprechend.
 
 (5) Der Ersatz der Kosten durch die Erben gilt nicht für Leistungen nach dem Vierten Kapitel und für die vor dem 1. Januar 1987 entstandenen Kosten der Tuberkulosehilfe.
+
+# § 102a – Rücküberweisung und Erstattung im Todesfall
+
+Für Geldleistungen nach diesem Buch, die für Zeiträume nach dem Todesmonat der leistungsberechtigten Person überwiesen wurden, ist § 118 Absatz 3 bis 4a des Sechsten Buches entsprechend anzuwenden.
 
 # § 103 – Kostenersatz bei schuldhaftem Verhalten
 

@@ -762,6 +762,12 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (+++ § 37 Abs 2: Zur Anwendung vgl. § 55 Abs. 5 +++)
 
+# § 37a – Gewaltschutz
+
+(1) Die Leistungserbringer treffen geeignete Maßnahmen zum Schutz vor Gewalt für Menschen mit Behinderungen und von Behinderung bedrohte Menschen, insbesondere für Frauen und Kinder mit Behinderung und von Behinderung bedrohte Frauen und Kinder. Zu den geeigneten Maßnahmen nach Satz 1 gehören insbesondere die Entwicklung und Umsetzung eines auf die Einrichtung oder Dienstleistungen zugeschnittenen Gewaltschutzkonzepts.
+
+(2) Die Rehabilitationsträger und die Integrationsämter wirken bei der Erfüllung ihrer gesetzlichen Aufgaben darauf hin, dass der Schutzauftrag nach Absatz 1 von den Leistungserbringern umgesetzt wird.
+
 # § 38 – Verträge mit Leistungserbringern
 
 (1) Verträge mit Leistungserbringern müssen insbesondere folgende Regelungen über die Ausführung von Leistungen durch Rehabilitationsdienste und -einrichtungen, die nicht in der Trägerschaft eines Rehabilitationsträgers stehen, enthalten:
@@ -894,7 +900,9 @@ nicht eingehalten wurde,
 
 5. Psychotherapie als ärztliche und psychotherapeutische Behandlung,
 
-6. Hilfsmittel sowie
+6. Hilfsmittel,
+
+6a. digitale Gesundheitsanwendungen sowie
 
 7. Belastungserprobung und Arbeitstherapie.
 
@@ -971,6 +979,20 @@ Selbsthilfegruppen, Selbsthilfeorganisationen und Selbsthilfekontaktstellen, die
 (3) Wählen Leistungsberechtigte ein geeignetes Hilfsmittel in einer aufwendigeren Ausführung als notwendig, tragen sie die Mehrkosten selbst.
 
 (4) Hilfsmittel können auch leihweise überlassen werden. In diesem Fall gelten die Absätze 2 und 3 entsprechend.
+
+# § 47a – Digitale Gesundheitsanwendungen
+
+(1) Digitale Gesundheitsanwendungen nach § 42 Absatz 2 Nummer 6a umfassen die in das Verzeichnis nach § 139e Absatz 1 des Fünften Buches aufgenommenen digitalen Gesundheitsanwendungen, sofern diese unter Berücksichtigung des Einzelfalles erforderlich sind, um
+
+1. einer drohenden Behinderung vorzubeugen,
+
+2. den Erfolg einer Heilbehandlung zu sichern oder
+
+3. eine Behinderung bei der Befriedigung von Grundbedürfnissen des täglichen Lebens auszugleichen, sofern die digitalen Gesundheitsanwendungen nicht die Funktion von allgemeinen Gebrauchsgegenständen des täglichen Lebens übernehmen.
+
+Digitale Gesundheitsanwendungen werden nur mit Zustimmung des Leistungsberechtigten erbracht.
+
+(2) Wählen Leistungsberechtigte digitale Gesundheitsanwendungen, deren Funktion oder Anwendungsbereich über die Funktion und den Anwendungsbereich einer vergleichbaren in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e des Fünften Buches aufgenommenen digitalen Gesundheitsanwendung hinausgehen, so haben sie die Mehrkosten selbst zu tragen.
 
 # § 48 – Verordnungsermächtigungen
 
@@ -1803,7 +1825,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (3) Art und Maß der Leistungserbringung sowie der Einsatz des Einkommens und Vermögens richten sich nach den besonderen Verhältnissen im Aufenthaltsland.
 
-(4) Für die Leistung zuständig ist der Träger der Eingliederungshilfe, in dessen Bereich die antragstellende Person geboren ist. Liegt der Geburtsort im Ausland oder ist er nicht zu ermitteln, wird der örtlich zuständige Träger von einer Schiedsstelle bestimmt.
+(4) Für die Leistung zuständig ist der Träger der Eingliederungshilfe, in dessen Bereich die antragstellende Person geboren ist. Liegt der Geburtsort im Ausland oder ist er nicht zu ermitteln, richtet sich die örtliche Zuständigkeit des Trägers der Eingliederungshilfe nach dem Geburtsort der Mutter der antragstellenden Person. Liegt dieser ebenfalls im Ausland oder ist er nicht zu ermitteln, richtet sich die örtliche Zuständigkeit des Trägers der Eingliederungshilfe nach dem Geburtsort des Vaters der antragstellenden Person. Liegt auch dieser im Ausland oder ist er nicht zu ermitteln, ist der Träger der Eingliederungshilfe örtlich zuständig, bei dem der Antrag eingeht.
 
 (5) Die Träger der Eingliederungshilfe arbeiten mit den deutschen Dienststellen im Ausland zusammen.
 
@@ -2486,7 +2508,7 @@ Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. D
 
 (2) Sind Leistungen von einem oder mehreren Anbietern über Tag und Nacht oder über Tag oder für ärztliche oder ärztlich verordnete Maßnahmen erforderlich, sind die Leistungen, die der Vereinbarung nach § 134 Absatz 3 zugrunde liegen, durch den Träger der Eingliederungshilfe auch dann in vollem Umfang zu erbringen, wenn den minderjährigen Leistungsberechtigten und ihren Eltern oder einem Elternteil die Aufbringung der Mittel nach Absatz 1 zu einem Teil zuzumuten ist. In Höhe dieses Teils haben sie zu den Kosten der erbrachten Leistungen beizutragen; mehrere Verpflichtete haften als Gesamtschuldner.
 
-(3) Die Absätze 1 und 2 gelten entsprechend, wenn volljährige Leistungsberechtigte Leistungen erhalten, denen Vereinbarungen nach § 134 Absatz 4 zugrunde liegen.
+(3) Die Absätze 1 und 2 gelten entsprechend für volljährige Leistungsberechtigte, wenn diese Leistungen erhalten, denen Vereinbarungen nach § 134 Absatz 4 zugrunde liegen. In diesem Fall ist den volljährigen Leistungsberechtigten die Aufbringung der Mittel für die Kosten des Lebensunterhalts nur in Höhe der für ihren häuslichen Lebensunterhalt ersparten Aufwendungen zuzumuten.
 
 (4) (weggefallen)
 
@@ -2678,7 +2700,7 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (1) Ein schwerbehinderter Mensch, der auf einem Arbeitsplatz im Sinne des § 156 Absatz 1 oder Absatz 2 Nummer 1 oder 4 beschäftigt wird, wird auf einen Pflichtarbeitsplatz für schwerbehinderte Menschen angerechnet.
 
-(2) Ein schwerbehinderter Mensch, der in Teilzeitbeschäftigung kürzer als betriebsüblich, aber nicht weniger als 18 Stunden wöchentlich beschäftigt wird, wird auf einen Pflichtarbeitsplatz für schwerbehinderte Menschen angerechnet. Bei Herabsetzung der wöchentlichen Arbeitszeit auf weniger als 18 Stunden infolge von Altersteilzeit gilt Satz 1 entsprechend. Wird ein schwerbehinderter Mensch weniger als 18 Stunden wöchentlich beschäftigt, lässt die Bundesagentur für Arbeit die Anrechnung auf einen dieser Pflichtarbeitsplätze zu, wenn die Teilzeitbeschäftigung wegen Art oder Schwere der Behinderung notwendig ist.
+(2) Ein schwerbehinderter Mensch, der in Teilzeitbeschäftigung kürzer als betriebsüblich, aber nicht weniger als 18 Stunden wöchentlich beschäftigt wird, wird auf einen Pflichtarbeitsplatz für schwerbehinderte Menschen angerechnet. Bei Herabsetzung der wöchentlichen Arbeitszeit auf weniger als 18 Stunden infolge von Altersteilzeit oder Teilzeitberufsausbildung gilt Satz 1 entsprechend. Wird ein schwerbehinderter Mensch weniger als 18 Stunden wöchentlich beschäftigt, lässt die Bundesagentur für Arbeit die Anrechnung auf einen dieser Pflichtarbeitsplätze zu, wenn die Teilzeitbeschäftigung wegen Art oder Schwere der Behinderung notwendig ist.
 
 (3) Ein schwerbehinderter Mensch, der im Rahmen einer Maßnahme zur Förderung des Übergangs aus der Werkstatt für behinderte Menschen auf den allgemeinen Arbeitsmarkt (§ 5 Absatz 4 Satz 1 der Werkstättenverordnung) beschäftigt wird, wird auch für diese Zeit auf die Zahl der Pflichtarbeitsplätze angerechnet.
 
@@ -2829,7 +2851,7 @@ Die Dienststellen der öffentlichen Arbeitgeber melden den Agenturen für Arbeit
 
 (1) Der Arbeitgeber schaltet bei Eintreten von personen-, verhaltens- oder betriebsbedingten Schwierigkeiten im Arbeits- oder sonstigen Beschäftigungsverhältnis, die zur Gefährdung dieses Verhältnisses führen können, möglichst frühzeitig die Schwerbehindertenvertretung und die in § 176 genannten Vertretungen sowie das Integrationsamt ein, um mit ihnen alle Möglichkeiten und alle zur Verfügung stehenden Hilfen zur Beratung und mögliche finanzielle Leistungen zu erörtern, mit denen die Schwierigkeiten beseitigt werden können und das Arbeits- oder sonstige Beschäftigungsverhältnis möglichst dauerhaft fortgesetzt werden kann.
 
-(2) Sind Beschäftigte innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement). Soweit erforderlich, wird der Werks- oder Betriebsarzt hinzugezogen. Die betroffene Person oder ihr gesetzlicher Vertreter ist zuvor auf die Ziele des betrieblichen Eingliederungsmanagements sowie auf Art und Umfang der hierfür erhobenen und verwendeten Daten hinzuweisen. Kommen Leistungen zur Teilhabe oder begleitende Hilfen im Arbeitsleben in Betracht, werden vom Arbeitgeber die Rehabilitationsträger oder bei schwerbehinderten Beschäftigten das Integrationsamt hinzugezogen. Diese wirken darauf hin, dass die erforderlichen Leistungen oder Hilfen unverzüglich beantragt und innerhalb der Frist des § 14 Absatz 2 Satz 2 erbracht werden. Die zuständige Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem die Schwerbehindertenvertretung, können die Klärung verlangen. Sie wachen darüber, dass der Arbeitgeber die ihm nach dieser Vorschrift obliegenden Verpflichtungen erfüllt.
+(2) Sind Beschäftigte innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement). Beschäftigte können zusätzlich eine Vertrauensperson eigener Wahl hinzuziehen. Soweit erforderlich, wird der Werks- oder Betriebsarzt hinzugezogen. Die betroffene Person oder ihr gesetzlicher Vertreter ist zuvor auf die Ziele des betrieblichen Eingliederungsmanagements sowie auf Art und Umfang der hierfür erhobenen und verwendeten Daten hinzuweisen. Kommen Leistungen zur Teilhabe oder begleitende Hilfen im Arbeitsleben in Betracht, werden vom Arbeitgeber die Rehabilitationsträger oder bei schwerbehinderten Beschäftigten das Integrationsamt hinzugezogen. Diese wirken darauf hin, dass die erforderlichen Leistungen oder Hilfen unverzüglich beantragt und innerhalb der Frist des § 14 Absatz 2 Satz 2 erbracht werden. Die zuständige Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem die Schwerbehindertenvertretung, können die Klärung verlangen. Sie wachen darüber, dass der Arbeitgeber die ihm nach dieser Vorschrift obliegenden Verpflichtungen erfüllt.
 
 (3) Die Rehabilitationsträger und die Integrationsämter können Arbeitgeber, die ein betriebliches Eingliederungsmanagement einführen, durch Prämien oder einen Bonus fördern.
 
@@ -3573,7 +3595,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 # § 220 – Aufnahme in die Werkstätten für behinderte Menschen
 
-(1) Anerkannte Werkstätten nehmen diejenigen behinderten Menschen aus ihrem Einzugsgebiet auf, die die Aufnahmevoraussetzungen gemäß § 219 Absatz 2 erfüllen, wenn Leistungen durch die Rehabilitationsträger gewährleistet sind; die Möglichkeit zur Aufnahme in eine andere anerkannte Werkstatt nach Maßgabe des § 9 des Zwölften Buches oder entsprechender Regelungen bleibt unberührt. Die Aufnahme erfolgt unabhängig von
+(1) Anerkannte Werkstätten nehmen diejenigen behinderten Menschen aus ihrem Einzugsgebiet auf, die die Aufnahmevoraussetzungen gemäß § 219 Absatz 2 erfüllen, wenn Leistungen durch die Rehabilitationsträger gewährleistet sind; die Möglichkeit zur Aufnahme in eine andere anerkannte Werkstatt nach Maßgabe des § 104 oder entsprechender Regelungen bleibt unberührt. Die Aufnahme erfolgt unabhängig von
 
 1. der Ursache der Behinderung,
 
@@ -3629,7 +3651,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 # § 224 – Vergabe von Aufträgen durch die öffentliche Hand
 
-(1) Aufträge der öffentlichen Hand, die von anerkannten Werkstätten für behinderte Menschen ausgeführt werden können, werden bevorzugt diesen Werkstätten angeboten. Die Bundesregierung erlässt mit Zustimmung des Bundesrates hierzu allgemeine Verwaltungsvorschriften.
+(1) Aufträge der öffentlichen Hand, die von anerkannten Werkstätten für behinderte Menschen ausgeführt werden können, werden bevorzugt diesen Werkstätten angeboten; zudem können Werkstätten für behinderte Menschen nach Maßgabe der allgemeinen Verwaltungsvorschriften nach Satz 2 beim Zuschlag und den Zuschlagskriterien bevorzugt werden. Die Bundesregierung erlässt mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zur Vergabe von Aufträgen durch die öffentliche Hand.
 
 (2) Absatz 1 gilt auch für Inklusionsbetriebe.
 
@@ -3878,7 +3900,7 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (2) Eine auf Grund des Schwerbehindertengesetzes getroffene bindende Feststellung über das Vorliegen einer Behinderung, eines Grades der Behinderung und das Vorliegen weiterer gesundheitlicher Merkmale gelten als Feststellungen nach diesem Buch.
 
-(3) Die nach § 56 Absatz 2 des Schwerbehindertengesetzes erlassenen allgemeinen Richtlinien sind bis zum Erlass von allgemeinen Verwaltungsvorschriften nach § 224 weiter anzuwenden.
+(3) Die nach § 56 Absatz 2 des Schwerbehindertengesetzes erlassenen allgemeinen Richtlinien sind bis zum Erlass von allgemeinen Verwaltungsvorschriften nach § 224 weiter anzuwenden, auch auf Inklusionsbetriebe.
 
 (4) Auf Erstattungen nach Kapitel 13 dieses Teils ist § 231 für bis zum 31. Dezember 2004 entstandene Fahrgeldausfälle in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden.
 

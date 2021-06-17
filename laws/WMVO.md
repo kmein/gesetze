@@ -261,6 +261,10 @@ Amtszeit der bestehenden Werkstatträte
 
 Sonderregelungen aus Anlass der COVID-19-Pandemie
 
+§ 40b
+
+Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
+
 § 41
 
 Inkrafttreten
@@ -385,7 +389,7 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 # § 8 – Zusammenarbeit
 
-(1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige Mitarbeitervertretung, die Schwerbehindertenvertretung, die Vertretung der Teilnehmer an Maßnahmen im Eingangsverfahren und im Berufsbildungsbereich nach § 52 des Neunten Buches Sozialgesetzbuch, ein nach § 139 Abs. 4 Satz 2 des Neunten Buches Sozialgesetzbuch errichteter Eltern- und Betreuerbeirat und der Werkstattrat arbeiten im Interesse der Werkstattbeschäftigten vertrauensvoll zusammen. Die Werkstatt und der Werkstattrat können hierbei die Unterstützung der in der Werkstatt vertretenen Behindertenverbände und Gewerkschaften sowie der Verbände, denen die Werkstatt angehört, in Anspruch nehmen.
+(1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige Mitarbeitervertretung, die Schwerbehindertenvertretung, die Vertretung der Teilnehmer an Maßnahmen im Eingangsverfahren und im Berufsbildungsbereich nach § 52 des Neunten Buches Sozialgesetzbuch, ein nach § 222 Abs. 4 Satz 2 des Neunten Buches Sozialgesetzbuch errichteter Eltern- und Betreuerbeirat, die Frauenbeauftragte und der Werkstattrat arbeiten im Interesse der Werkstattbeschäftigten vertrauensvoll zusammen. Die Werkstatt, die Frauenbeauftragte und der Werkstattrat können hierbei die Unterstützung der in der Werkstatt vertretenen Behindertenverbände und Gewerkschaften sowie der Verbände, denen die Werkstatt angehört, in Anspruch nehmen.
 
 (2) Werkstatt und Werkstattrat sollen in der Regel einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.
 
@@ -683,6 +687,10 @@ Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits best
 (1) Die Teilnahme an Sitzungen des Werkstattrates sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. § 35 Satz 3 gilt mit der Maßgabe, dass die Teilnehmer ihre Anwesenheit gegenüber dem Vorsitzenden in Textform bestätigen.
 
 (2) Versammlungen nach § 9 können mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
+
+# § 40b – Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
+
+Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag kann der Wahlvorstand beschließen, dass die Wahl auch als Briefwahl durchgeführt wird.
 
 # § 41 – Inkrafttreten
 

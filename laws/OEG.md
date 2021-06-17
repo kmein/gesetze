@@ -21,7 +21,7 @@
 
 (7) Einer gesundheitlichen Schädigung im Sinne des Absatzes 1 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
-(8) Dieses Gesetz ist nicht anzuwenden auf Schäden aus einem tätlichen Angriff, die von dem Angreifer durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers verursacht worden sind.
+(8) Wird ein tätlicher Angriff im Sinne des Absatzes 1 durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers verübt, werden Leistungen nach diesem Gesetz erbracht.
 
 (9) § 1 Abs. 3, die §§ 64 bis 64d, 64f sowie 89 des Bundesversorgungsgesetzes sind mit der Maßgabe anzuwenden, daß an die Stelle der Zustimmung des Bundesministeriums für Arbeit und Soziales die Zustimmung der für die Kriegsopferversorgung zuständigen obersten Landesbehörde tritt, sofern ein Land Kostenträger ist (§ 4). Dabei sind die für deutsche Staatsangehörige geltenden Vorschriften auch für von diesem Gesetz erfaßte Ausländer anzuwenden.
 
@@ -100,7 +100,7 @@ von 100 eine Einmalzahlung von 16 500 Euro. Bei Verlust mehrerer Gliedmaßen, b
 
 # § 5 – Übergang gesetzlicher Schadensersatzansprüche
 
-Ist ein Land Kostenträger (§ 4), so gilt § 81a des Bundesversorgungsgesetzes mit der Maßgabe, daß der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das zur Gewährung der Leistungen nach diesem Gesetz verpflichtete Land übergeht.
+Ist ein Land Kostenträger (§ 4), so gilt § 81a des Bundesversorgungsgesetzes mit der Maßgabe, daß der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das zur Gewährung der Leistungen nach diesem Gesetz verpflichtete Land übergeht und der Übergang des Anspruchs insbesondere dann nicht geltend gemacht werden kann, wenn die Schadensersatzleistungen der Schädigerin oder des Schädigers oder eines Dritten nicht ausreichen, um den gesamten Schaden zu ersetzen; in diesen Fällen sind die Schadensersatzansprüche der oder des Berechtigten vorrangig gegenüber den Ansprüchen des Kostenträgers.
 
 # § 6 – Zuständigkeit und Verfahren
 

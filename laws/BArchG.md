@@ -9,7 +9,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 2. Archivgut des Bundes: Unterlagen von bleibendem Wert, die das Bundesarchiv nach Ablauf der Aufbewahrungsfristen dauerhaft übernommen hat; Unterlagen aus dem Zwischenarchiv des Bundesarchivs, deren Aufbewahrungsfristen bereits abgelaufen sind, deren bleibender Wert jedoch noch nicht festgestellt worden ist, werden wie Archivgut des Bundes behandelt;
 
-3. Betroffene: bestimmte oder bestimmbare natürliche Personen, zu denen Informationen vorliegen;
+3. Betroffene: betroffene Personen gemäß Artikel 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) sowie verstorbene Personen, zu denen Informationen vorliegen;
 
 4. deutsche Kinofilme: Kinofilme, deren Hersteller ihren Wohnsitz, Sitz oder eine Niederlassung in Deutschland haben; im Fall einer Koproduktion muss einer der Hersteller seinen Wohnsitz, seinen Sitz oder eine Niederlassung in Deutschland haben;
 
@@ -19,7 +19,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 a) die für eine öffentliche Aufführung in einem Kino bestimmt sind oder auf einem national oder international bedeutsamen Festival oder bei einer national oder international bedeutsamen Preisverleihung öffentlich aufgeführt werden und
 
-b) bei denen nicht im Sinne von § 3 Absatz 4 des Gesetzes über die Deutsche Nationalbibliothek vom 22. Juni 2006 (BGBl. I S. 1338), das durch Artikel 15 Absatz 62 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, die Musik im Vordergrund steht;
+b) bei denen nicht im Sinne von § 3 Absatz 4 des Gesetzes über die Deutsche Nationalbibliothek vom 22. Juni 2006 (BGBl. I S. 1338), das zuletzt durch Artikel 2 des Gesetzes vom 1. September 2017 (BGBl. I S. 3346) geändert worden ist, die Musik im Vordergrund steht;
 
 7. national oder international bedeutsame Festivals und Preisverleihungen: die Festivals und Preisverleihungen, einschließlich sämtlicher Festivalreihen, die genannt werden in der jeweils geltenden Fassung
 
@@ -27,11 +27,13 @@ a) des Filmförderungsgesetzes vom 23. Dezember 2016 (BGBl. I S. 3413) und
 
 b) der zum Filmförderungsgesetz gehörenden Richtlinien;
 
-8. öffentliche Stellen des Bundes: die Verfassungsorgane des Bundes, die Behörden und Gerichte des Bundes, die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und die sonstigen Stellen des Bundes;
+8. personenbezogene Informationen im Sinne dieses Gesetzes: Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren lebenden oder verstorbenen Person;
 
-9. Unterlagen: Aufzeichnungen jeder Art, unabhängig von der Art ihrer Speicherung;
+9. öffentliche Stellen des Bundes: die Verfassungsorgane des Bundes, die Behörden und Gerichte des Bundes, die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und die sonstigen Stellen des Bundes;
 
-10. Unterlagen von bleibendem Wert: Unterlagen,
+10. Unterlagen: Aufzeichnungen jeder Art, unabhängig von der Art ihrer Speicherung;
+
+11. Unterlagen von bleibendem Wert: Unterlagen,
 
 a) denen insbesondere wegen ihrer politischen, rechtlichen, wirtschaftlichen, sozialen oder kulturellen Inhalte besondere Bedeutung zukommt
 
@@ -45,7 +47,7 @@ cc) für die Gesetzgebung, vollziehende Gewalt oder Rechtsprechung, oder
 
 b) die nach einer Rechtsvorschrift oder Vereinbarung dauerhaft aufzubewahren sind;
 
-11. Zwischenarchivgut des Bundes: Unterlagen, die das Bundesarchiv vor Ablauf der Aufbewahrungsfristen vorläufig übernommen hat und in einem Zwischenarchiv oder digitalen Zwischenarchiv verwahrt.
+12. Zwischenarchivgut des Bundes: Unterlagen, die das Bundesarchiv vor Ablauf der Aufbewahrungsfristen vorläufig übernommen hat und in einem Zwischenarchiv oder digitalen Zwischenarchiv verwahrt.
 
 # § 2 – Organisation des Bundesarchivs
 
@@ -73,7 +75,7 @@ Das Bundesarchiv stellt den bleibenden Wert der Unterlagen im Benehmen mit der a
 
 (3) Das Bundesarchiv kann auch Unterlagen anderer als der in § 1 Nummer 8 genannten öffentlichen Stellen sowie Unterlagen nichtöffentlicher Einrichtungen und natürlicher Personen als Archivgut des Bundes übernehmen oder erwerben, wenn ihm diese Unterlagen angeboten werden und es den bleibenden Wert dieser Unterlagen festgestellt hat.
 
-(4) Das Bundesarchiv berät die öffentlichen Stellen des Bundes im Rahmen seiner Zuständigkeit bei der Verwaltung und Sicherung ihrer Unterlagen. Bei der Einführung neuer Systeme der Informationstechnologie insbesondere zur Führung elektronischer Akten gemäß § 6 des E-Government-Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749) oder bei der wesentlichen Änderung solcher Systeme ist das Bundesarchiv rechtzeitig zu informieren, wenn hierbei anbietungspflichtige Unterlagen entstehen können.
+(4) Das Bundesarchiv berät die öffentlichen Stellen des Bundes im Rahmen seiner Zuständigkeit bei der Verwaltung und Sicherung ihrer Unterlagen. Bei der Einführung neuer Systeme der Informationstechnologie insbesondere zur Führung elektronischer Akten gemäß § 6 des E-Government-Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749), das zuletzt durch Artikel 15 des Gesetzes vom 20. November 2019 (BGBl. I S. 1626) geändert worden ist, oder bei der wesentlichen Änderung solcher Systeme ist das Bundesarchiv rechtzeitig zu informieren, wenn hierbei anbietungspflichtige Unterlagen entstehen können.
 
 (5) Die Bundesregierung kann dem Bundesarchiv andere als in diesem Gesetz oder in anderen Gesetzen genannte Aufgaben des Bundes übertragen, wenn
 
@@ -99,9 +101,13 @@ Das Bundesarchiv stellt den bleibenden Wert der Unterlagen im Benehmen mit der a
 
 4. Erteilung sonstiger personenbezogener Auskünfte.
 
-Zur Erfüllung seiner Aufgaben nach Satz 2 erteilt das Bundesarchiv mündliche und schriftliche Auskünfte einschließlich erforderlicher Bescheinigungen oder Stellungnahmen an Betroffene, Angehörige, öffentliche und nicht öffentliche Stellen.
+Zur Erfüllung seiner Aufgaben nach Satz 2 erteilt das Bundesarchiv mündliche und schriftliche Auskünfte einschließlich erforderlicher Bescheinigungen oder Stellungnahmen an betroffene Personen, Angehörige, öffentliche und nicht öffentliche Stellen.
 
 (3) Ergänzend zu Absatz 2 gelten für die Unterlagen die Zugangsvorschriften der §§ 10 bis 16 entsprechend. Soweit in Absatz 1 bezeichnete Unterlagen nicht mehr bearbeitet werden und ihnen bleibender Wert zukommt, können sie als Archivgut gewidmet werden.
+
+# § 3b – Wahrnehmung der Aufgaben nach dem Stasi-Unterlagen-Gesetz
+
+Das Bundesarchiv erfasst, verwahrt, verwaltet und verwendet die in ihrem Gesamtbestand zu erhaltenden Unterlagen des Staatssicherheitsdienstes als Archivgut des Bundes nach Maßgabe des Stasi-Unterlagen-Gesetzes. Soweit das Stasi-Unterlagen-Gesetz nicht entgegensteht, unterfallen die Stasi-Unterlagen den archivrechtlichen Bestimmungen des Bundes.
 
 # § 4 – Stiftung „Archiv der Parteien und Massenorganisationen der DDR“
 
@@ -129,13 +135,13 @@ Vorbehaltlich des Satzes 1 sollen Unterlagen spätestens 30 Jahre nach ihrer Ent
 
 (4) Die gesetzgebenden Körperschaften entscheiden in eigener Zuständigkeit, ob sie dem Bundesarchiv Unterlagen anbieten und als Archivgut des Bundes abgeben.
 
-(5) Die Verarbeitung personenbezogener Daten für archivische Zwecke ist zulässig, wenn schutzwürdige Belange Betroffener nicht beeinträchtigt werden.
+(5) Die Verarbeitung personenbezogener Informationen für archivische Zwecke ist zulässig, wenn schutzwürdige Belange Betroffener nicht beeinträchtigt werden. Für die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 gilt § 28 Absatz 1 des Bundesdatenschutzgesetzes. § 28 Absatz 1 des Bundesdatenschutzgesetzes findet entsprechende Anwendung auf die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 über verstorbene Personen.
 
 (+++ § 5 Abs. 5: Zur Anwendung vgl. § 8 Abs. 2 +++)
 
 # § 6 – Anbietung und Abgabe von Unterlagen, die einer Geheimhaltungs-, Vernichtungs- oder Löschungspflicht unterliegen
 
-(1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder, im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv auch Unterlagen zur Übernahme anzubieten, die den Rechtsvorschriften des Bundes über die Geheimhaltung oder § 30 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61), die zuletzt durch Artikel 19 Absatz 12 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3234) geändert worden ist, unterliegen. Unterlagen der Nachrichtendienste sind anzubieten, wenn sie deren Verfügungsberechtigung unterliegen und zwingende Gründe des nachrichtendienstlichen Quellen- und Methodenschutzes sowie der Schutz der Identität der bei ihnen beschäftigten Personen einer Abgabe nicht entgegenstehen.
+(1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder, im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv auch Unterlagen zur Übernahme anzubieten, die den Rechtsvorschriften des Bundes über die Geheimhaltung oder § 30 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61), die zuletzt durch Artikel 1 des Gesetzes vom 21. Dezember 2019 (BGBl. I S. 2875) geändert worden ist, unterliegen. Unterlagen der Nachrichtendienste sind anzubieten, wenn sie deren Verfügungsberechtigung unterliegen und zwingende Gründe des nachrichtendienstlichen Quellen- und Methodenschutzes sowie der Schutz der Identität der bei ihnen beschäftigten Personen einer Abgabe nicht entgegenstehen.
 
 (2) Von der Anbietungspflicht ausgenommen sind
 
@@ -145,7 +151,7 @@ Vorbehaltlich des Satzes 1 sollen Unterlagen spätestens 30 Jahre nach ihrer Ent
 
 (3) Das Bundesarchiv hat vom Zeitpunkt der Übernahme an
 
-1. die Geheimhaltungsvorschriften im Sinne von Absatz 1 sowie der Verschlusssachenanweisung vom 31. März 2006 in der Fassung vom 26. April 2010 (GMBl S. 846) und der Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern zur Ausführung des Gesetzes über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes vom 29. April 1994 in der Fassung vom 31. Januar 2006 (GMBl S. 339) anzuwenden und
+1. die Geheimhaltungsvorschriften im Sinne des Absatzes 1 sowie der Verschlusssachenanweisung vom 10. August 2018 (GMBl S. 826) und der SÜG-Ausführungsvorschrift vom 15. Februar 2018 (GMBl S. 270) anzuwenden und
 
 2. die schutzwürdigen Belange Betroffener in gleicher Weise zu beachten wie die abgebende Stelle.
 
@@ -202,7 +208,7 @@ Archivgut des Bundes ist unveräußerlich.
 
 (1) Das Bundesarchiv kann die Schutzfrist nach § 11 Absatz 1 verkürzen, soweit dem keine Einschränkungs- und Versagungsgründe gemäß § 13 entgegenstehen.
 
-(2) Das Bundesarchiv kann die Schutzfristen nach § 11 Absatz 2 verkürzen, wenn die Einwilligung der Betroffenen vorliegt. Liegt keine Einwilligung vor, kann das Bundesarchiv die Schutzfristen nach § 11 Absatz 2 verkürzen, wenn
+(2) Das Bundesarchiv kann die Schutzfristen nach § 11 Absatz 2 verkürzen, wenn die Einwilligung der betroffenen Personen vorliegt. Liegt keine Einwilligung vor, kann das Bundesarchiv die Schutzfristen nach § 11 Absatz 2 verkürzen, wenn
 
 1. die Nutzung für ein wissenschaftliches Forschungs- oder Dokumentationsvorhaben oder zur Wahrnehmung berechtigter Belange unerlässlich ist, die im überwiegenden Interesse einer anderen Person oder Stelle liegen, und
 
@@ -237,29 +243,31 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (+++ § 13: Zur Anwendung vgl. § 11 Abs. 6 +++)
 
-# § 14 – Rechte der Betroffenen
+# § 14 – Rechte der betroffenen Person
 
-(1) Den Betroffenen steht auf Antrag das Recht zu, Auskunft über die im Archivgut des Bundes zu ihrer Person enthaltenen Unterlagen zu erhalten, soweit das Archivgut des Bundes durch den Namen der Person erschlossen ist oder Angaben gemacht werden, die das Auffinden des betreffenden Archivguts des Bundes mit vertretbarem Verwaltungsaufwand ermöglichen. Auf die Einsichtnahme ist § 10 Absatz 3 entsprechend anzuwenden.
+(1) Das Recht der betroffenen Person auf Auskunft gemäß Artikel 15 der Verordnung (EU) 2016/679 besteht nicht, wenn das Archivgut des Bundes nicht durch den Namen der Person erschlossen ist oder keine Angaben gemacht werden, die das Auffinden des betreffenden Archivguts des Bundes mit vertretbarem Verwaltungsaufwand ermöglichen. Die betroffene Person hat ein Recht auf Einsichtnahme, auf das § 10 Absatz 3 entsprechend anzuwenden ist.
 
-(2) Nach dem Tod der Betroffenen stehen die Rechte nach Absatz 1 den Angehörigen zu, wenn diese ein berechtigtes Interesse geltend machen und die Betroffenen keine andere Verfügung hinterlassen haben oder ihr entgegenstehender Wille sich nicht aus anderen Umständen eindeutig ergibt.
+(2) Nach dem Tod der betroffenen Person steht das Recht auf Auskunft oder Einsichtnahme den Angehörigen zu, wenn diese ein berechtigtes Interesse geltend machen und die betroffene Person keine anderweitige Verfügung hinterlassen hat oder ihr entgegenstehender Wille sich nicht aus anderen Umständen eindeutig ergibt.
 
-(3) Der Anspruch auf Auskunft oder Einsichtnahme kann aus den in § 13 Absatz 1 genannten Gründen eingeschränkt werden. In diesem Fall ist dem Antrag in dem Umfang stattzugeben, in dem der Zugang ohne Preisgabe der nach Maßgabe von § 13 Absatz 1 zu schützenden Informationen und ohne unverhältnismäßigen Verwaltungsaufwand möglich ist.
+(3) Das Recht der betroffenen Person auf Auskunft gemäß Artikel 15 der Verordnung (EU) 2016/679 oder auf Einsichtnahme kann aus den in § 13 Absatz 1 genannten Gründen eingeschränkt werden. In diesem Fall ist dem Antrag in dem Umfang stattzugeben, in dem der Zugang ohne Preisgabe der nach Maßgabe des § 13 Absatz 1 zu schützenden Informationen und ohne unverhältnismäßigen Verwaltungsaufwand möglich ist.
 
-(4) Bestreiten die Betroffenen die Richtigkeit von Unterlagen mit personenbezogenen Daten, so ist ihnen die Möglichkeit einer Gegendarstellung einzuräumen. Die Möglichkeit einer Gegendarstellung ist auch den Angehörigen verstorbener Betroffener einzuräumen, wenn sie ein berechtigtes Interesse daran geltend machen. Das Bundesarchiv ist verpflichtet, die Gegendarstellungen den Unterlagen hinzuzufügen.
+(4) Das Recht der betroffenen Person auf Berichtigung gemäß Artikel 16 der Verordnung (EU) 2016/679 besteht nicht, wenn die personenbezogenen Daten zu Archivzwecken im öffentlichen Interesse verarbeitet werden. Bestreitet die betroffene Person die Richtigkeit der personenbezogenen Daten, ist ihr die Möglichkeit einer Gegendarstellung einzuräumen. Die Möglichkeit einer Gegendarstellung ist auch den Angehörigen einer verstorbenen betroffenen Person einzuräumen, wenn sie ein berechtigtes Interesse daran geltend machen. Das Bundesarchiv ist verpflichtet, die Gegendarstellung den Unterlagen hinzuzufügen.
+
+(5) Die in Artikel 18 Absatz 1 Buchstabe a, b und d sowie in den Artikeln 19 bis 21 der Verordnung (EU) 2016/679 vorgesehenen Rechte bestehen nicht, soweit diese Rechte voraussichtlich die Verwirklichung der im öffentlichen Interesse liegenden Archivzwecke unmöglich machen oder ernsthaft beeinträchtigen und die Ausnahmen für die Erfüllung dieser Zwecke erforderlich sind.
 
 # § 15 – Nutzung von Archivgut des Bundes durch die abgebenden Stellen
 
 (1) Die abgebenden Stellen und ihre Rechts- oder Funktionsnachfolger haben gegen Ersatz der Auslagen im Bundesarchiv jederzeit gebührenfreien Zugang zu Archivgut des Bundes, das sie abgegeben haben, wenn sie dieses zur Erfüllung ihrer Aufgaben benötigen. In Ausnahmefällen wird der Zugang bei der abgebenden Stelle gewährt.
 
-(2) Das Nutzungsrecht nach Absatz 1 ist nicht auf Unterlagen mit personenbezogenen Daten anzuwenden, die vor einer Vernichtung oder Löschung an das Bundesarchiv abgegeben worden sind. In diesen Fällen besteht das Zugangsrecht nur nach Maßgabe der §§ 10 bis 13, jedoch nicht zu dem Zweck, zu welchem die personenbezogenen Daten ursprünglich gespeichert worden sind.
+(2) Das Nutzungsrecht nach Absatz 1 ist nicht auf Unterlagen mit personenbezogenen Informationen anzuwenden, die vor einer Vernichtung oder Löschung an das Bundesarchiv abgegeben worden sind. In diesen Fällen besteht das Zugangsrecht nur nach Maßgabe der §§ 10 bis 13, jedoch nicht zu dem Zweck, zu welchem die personenbezogenen Informationen ursprünglich gespeichert worden sind.
 
 # § 16 – Übermittlung von Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen
 
 (1) Das Bundesarchiv kann Archiven, Bibliotheken und Museen sowie Forschungs- und Dokumentationsstellen Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen übermitteln, wenn ein besonderes öffentliches Interesse besteht, dass ihnen dieses Archivgut zur Wahrnehmung ihrer jeweiligen Aufgaben zur Verfügung steht; § 12 Absatz 4 ist entsprechend anzuwenden.
 
-(2) Die Vervielfältigung und die Übermittlung von Unterlagen mit personenbezogenen Daten sind nur zulässig, wenn
+(2) Die Vervielfältigung und die Übermittlung von Unterlagen mit personenbezogenen Informationen sind nur zulässig, wenn
 
-1. die empfangende Stelle ausreichend Gewähr für die Wahrung schutzwürdiger Interessen Betroffener und der Ausübung der damit verbundenen Rechte bietet und
+1. die empfangende Stelle ausreichend Gewähr für die Wahrung schutzwürdiger Interessen Betroffener und die Ausübung der damit verbundenen Rechte bietet und
 
 2. die empfangende Stelle sich in einer schriftlichen Vereinbarung mit dem Bundesarchiv verpflichtet, § 6 Absatz 3 und die §§ 11 bis 14 entsprechend anzuwenden und die Unterlagen nur für eigene Zwecke zu nutzen.
 
