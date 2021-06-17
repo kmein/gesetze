@@ -397,7 +397,7 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der Vertrauensstelle nach jeder implantatbezogenen Maßnahme diejenigen patienten- und fallidentifizierenden Daten, die für die Zwecke des Implantateregisters nach § 1 erforderlich sind. Zu den erforderlichen patienten- und fallidentifizierenden Daten gehören insbesondere
 
-1. die einheitliche Krankenversichertennummer im Sinne des § 290 des Fünften Buches Sozialgesetzbuch oder die andere eindeutige und unveränderbare Identifikationsnummer nach Absatz 3,
+1. der unveränderbare Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch oder die Identifikationsnummer nach Absatz 4 Satz 3,
 
 2. das Geburtsdatum der betroffenen Patientin oder des betroffenen Patienten,
 
@@ -411,13 +411,13 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 1. den Vitalstatus und das Sterbedatum der von einer implantatbezogenen Maßnahme betroffenen Patientin oder des betroffenen Patienten,
 
-2. den Wechsel der Krankenversicherung der betroffenen Patientin oder des betroffenen Patienten unter Angabe der bisherigen Krankenversichertennummer oder Identifikationsnummer und der neuen Krankenversichertennummer oder Identifikationsnummer,
+2. den Wechsel der Krankenversicherung der betroffenen Patientin oder des betroffenen Patienten unter Angabe des unveränderbaren Teils der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch sowie einer bisherigen und einer neuen Identifikationsnummer nach Absatz 4 Satz 3,
 
 3. das aktuelle Institutionskennzeichen der Krankenkasse nach § 293 des Fünften Buches Sozialgesetzbuch, eine vergleichbare Kennzeichnung des privaten Krankenversicherungsunternehmens oder eine vergleichbare Kennzeichnung des sonstigen Kostenträgers, die eine eindeutige Identifizierung ermöglicht.
 
-(3) Die verantwortlichen Gesundheitseinrichtungen, die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger übermitteln der Vertrauensstelle die Daten nach Absatz 1 mit Hilfe der einheitlichen Krankenversichertennummer nach § 290 des Fünften Buches Sozialgesetzbuch oder einer anderen eindeutigen und unveränderbaren Identifikationsnummer der betroffenen Patientin oder des betroffenen Patienten. Die Datenübermittlung bei einem Selbstzahler hat unter Verwendung der Krankenversichertennummer oder der anderen, eindeutigen und unveränderbaren Identifikationsnummer zu erfolgen.
+(3) Die verantwortlichen Gesundheitseinrichtungen, die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger übermitteln der Vertrauensstelle die Daten nach den Absätzen 1 und 2 mit Hilfe des unveränderbaren Teils der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch oder der Identifikationsnummer nach Absatz 4 Satz 3. Die Datenübermittlung bei einem Selbstzahler hat unter Verwendung des unveränderbaren Teils der Krankenversichertennummer oder der Identifikationsnummer nach Absatz 4 Satz 3 zu erfolgen.
 
-(4) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger sind verpflichtet, nach einheitlichen Kriterien eine eindeutige und unveränderbare Identifikationsnummer zu bilden und für ihre Versicherten bereitzustellen.
+(4) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger stellen für ihre Versicherten den unveränderbaren Teil der Krankenversichertennummer nach § 290 Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch barrierefrei bereit. § 362 Absatz 2 Satz 2 und 3 sowie Absatz 3 des Fünften Buches Sozialgesetzbuch gilt entsprechend. Abweichend von Satz 1 können die sonstigen Kostenträger für ihre Versicherten eine andere eindeutige, unveränderbare und nach einheitlichen Kriterien gebildete Identifikationsnummer barrierefrei bereitstellen.
 
 # § 18 – Art der Datenübermittlung
 

@@ -332,9 +332,11 @@ c) Leistungen aus der kommunalen Unfallfürsorge;
 
 6. die öffentlich-rechtlichen Krankenversorgungseinrichtungen des Bundeseisenbahnvermögens und die Postbeamtenkrankenkasse;
 
-7. die Versorgungsanstalt des Bundes und der Länder, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Versorgungsanstalt der Deutschen Bundespost sowie
+7. die Versorgungsanstalt des Bundes und der Länder, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Versorgungsanstalt der Deutschen Bundespost;
 
-8. Unternehmen mit örtlich eng begrenztem Wirkungsbereich, die für den Fall eines ungewissen Ereignisses gegen Pauschalentgelt Leistungen übernehmen, sofern diese nicht in einer Geldleistung, einer Kostenübernahme oder einer Haftungsfreistellung gegenüber Dritten bestehen.
+8. Unternehmen mit örtlich eng begrenztem Wirkungsbereich, die für den Fall eines ungewissen Ereignisses gegen Pauschalentgelt Leistungen übernehmen, sofern diese nicht in einer Geldleistung, einer Kostenübernahme oder einer Haftungsfreistellung gegenüber Dritten bestehen sowie
+
+9. die in § 176 Absatz 1 des Fünften Buches Sozialgesetzbuch genannten Solidargemeinschaften.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, dass der Betrieb aller Versicherungsgeschäfte oder einzelner Arten von Versicherungsgeschäften mit dem in Artikel I Absatz 1 Buchstabe a bis c des Abkommens vom 19. Juni 1951 zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen (BGBl. 1961 II S. 1183, 1190) bezeichneten Personenkreis ganz oder teilweise nicht den Vorschriften dieses Gesetzes unterliegt, soweit hierdurch im Geltungsbereich dieses Gesetzes die Belange anderer Versicherter und die dauernde Erfüllbarkeit der sonstigen Versicherungsverträge nicht gefährdet werden.
 

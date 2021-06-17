@@ -19,7 +19,7 @@ Auf Grund des § 55 Abs. 3 des Schwerbehindertengesetzes in der Fassung der Beka
 
 2. Vertreter der Bundesagentur für Arbeit,
 
-3. Vertreter des überörtlichen Trägers der Sozialhilfe oder des nach Landesrecht bestimmten örtlichen Trägers der Sozialhilfe.
+3. Vertreter des nach Landesrecht bestimmten Trägers der Eingliederungshilfe.
 
 Kommt die Zuständigkeit eines anderen Rehabilitationsträgers zur Erbringung von Leistungen zur Teilhabe am Arbeitsleben und ergänzende Leistungen in Betracht, soll der Fachausschuß zur Mitwirkung an der Stellungnahme auch Vertreter dieses Trägers hinzuziehen. Er kann auch andere Personen zur Beratung hinzuziehen und soll, soweit erforderlich, Sachverständige hören.
 

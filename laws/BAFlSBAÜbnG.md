@@ -51,7 +51,7 @@ Personen, die die DFS Deutsche Flugsicherung GmbH von der Bundesanstalt für Flu
 
 # § 4
 
-(1) Die in § 1 Abs. 1 genannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt; § 13 Abs. 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
+(1) Die in § 1 Abs. 1 genannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt; § 14 Absatz 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 (2) Die in Absatz 1 genannten Beschäftigten gelten für die Anwendung der Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat sowie für die Anwendung des Betriebsverfassungsgesetzes und des Sprecherausschussgesetzes als Arbeitnehmer der DFS Deutsche Flugsicherung GmbH und sind als solche aktiv und passiv wahlberechtigt. Als leitende Angestellte im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes gelten auch die funktional vergleichbaren Beamten.
 

@@ -741,6 +741,7 @@
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
+- [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
 - [BGAktFV](laws/BGAktFV.md) Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten
 - [BGB](laws/BGB.md) Bürgerliches Gesetzbuch
 - [BGBABest 1898](laws/BGBABest_1898.md) Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs
@@ -3488,6 +3489,7 @@
 - [LuftVODV 253](laws/LuftVODV_253.md) Zweihundertdreiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Neubrandenburg)
 - [LuftVODV 255](laws/LuftVODV_255.md) Zweihundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Meldepunkten, Streckenführungen und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland)
 - [LuftVODV 257](laws/LuftVODV_257.md) Zweihundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Schönhagen)
+- [LuftVODV 258](laws/LuftVODV_258.md) Zweihundertachtundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Strausberg)
 - [LuftVODV 96](laws/LuftVODV_96.md) Sechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt)
 - [LuftVODV 98](laws/LuftVODV_98.md) Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig)
 - [LuftVStAbsenkV 2012](laws/LuftVStAbsenkV_2012.md) Verordnung zur Absenkung der Steuersätze nach § 11 Absatz 2 des Luftverkehrsteuergesetzes im Jahr 2012
@@ -4170,6 +4172,8 @@
 - [OlympiaMünzBek 1970](laws/OlympiaMünzBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze)
 - [OlympSchG](laws/OlympSchG.md) Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen
 - [OnlWahlV](laws/OnlWahlV.md) Verordnung über die technischen und organisatorischen Vorgaben für die Durchführung einer Online-Wahl im Rahmen des Modellprojekts nach § 194a des Fünften Buches Sozialgesetzbuch
+- [OpfBEinr/BArchG2017uaÄndG](laws/OpfBEinr_BArchG2017uaÄndG.md) Gesetz zur Änderung des Bundesarchivgesetzes, des Stasi-Unterlagen-Gesetzes und zur Einrichtung einer oder eines SED-Opferbeauftragten
+- [OpfBG](laws/OpfBG.md) Gesetz über die Bundesbeauftragte oder den Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag
 - [OPrAGebG](laws/OPrAGebG.md) Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen Verwaltungsbeamten
 - [OrdenErl](laws/OrdenErl.md) Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen und über die Anerkennung als Ehrenzeichen
 - [OrdenErl 2](laws/OrdenErl_2.md) Zweiter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen
