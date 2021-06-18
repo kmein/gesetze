@@ -349,11 +349,11 @@ Für die in Absatz 1 Satz 3 genannten Beamten und Soldaten gelten die Sätze 1 u
 
 # § 7 – Wahlberechtigung
 
-Wahlberechtigt sind alle Arbeitnehmer des Betriebs, die das 18. Lebensjahr vollendet haben. Werden Arbeitnehmer eines anderen Arbeitgebers zur Arbeitsleistung überlassen, so sind diese wahlberechtigt, wenn sie länger als drei Monate im Betrieb eingesetzt werden.
+Wahlberechtigt sind alle Arbeitnehmer des Betriebs, die das 16. Lebensjahr vollendet haben. Werden Arbeitnehmer eines anderen Arbeitgebers zur Arbeitsleistung überlassen, so sind diese wahlberechtigt, wenn sie länger als drei Monate im Betrieb eingesetzt werden.
 
 # § 8 – Wählbarkeit
 
-(1) Wählbar sind alle Wahlberechtigten, die sechs Monate dem Betrieb angehören oder als in Heimarbeit Beschäftigte in der Hauptsache für den Betrieb gearbeitet haben. Auf diese sechsmonatige Betriebszugehörigkeit werden Zeiten angerechnet, in denen der Arbeitnehmer unmittelbar vorher einem anderen Betrieb desselben Unternehmens oder Konzerns (§ 18 Abs. 1 des Aktiengesetzes) angehört hat. Nicht wählbar ist, wer infolge strafgerichtlicher Verurteilung die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, nicht besitzt.
+(1) Wählbar sind alle Wahlberechtigten, die das 18. Lebensjahr vollendet haben und sechs Monate dem Betrieb angehören oder als in Heimarbeit Beschäftigte in der Hauptsache für den Betrieb gearbeitet haben. Auf diese sechsmonatige Betriebszugehörigkeit werden Zeiten angerechnet, in denen der Arbeitnehmer unmittelbar vorher einem anderen Betrieb desselben Unternehmens oder Konzerns (§ 18 Abs. 1 des Aktiengesetzes) angehört hat. Nicht wählbar ist, wer infolge strafgerichtlicher Verurteilung die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, nicht besitzt.
 
 (2) Besteht der Betrieb weniger als sechs Monate, so sind abweichend von der Vorschrift in Absatz 1 über die sechsmonatige Betriebszugehörigkeit diejenigen Arbeitnehmer wählbar, die bei der Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die übrigen Voraussetzungen für die Wählbarkeit erfüllen.
 
@@ -423,21 +423,21 @@ Hat ein Betrieb nicht die ausreichende Zahl von wählbaren Arbeitnehmern, so ist
 
 (3) Zur Wahl des Betriebsrats können die wahlberechtigten Arbeitnehmer und die im Betrieb vertretenen Gewerkschaften Wahlvorschläge machen.
 
-(4) Jeder Wahlvorschlag der Arbeitnehmer muss von mindestens einem Zwanzigstel der wahlberechtigten Arbeitnehmer, mindestens jedoch von drei Wahlberechtigten unterzeichnet sein; in Betrieben mit in der Regel bis zu zwanzig wahlberechtigten Arbeitnehmern genügt die Unterzeichnung durch zwei Wahlberechtigte. In jedem Fall genügt die Unterzeichnung durch fünfzig wahlberechtigte Arbeitnehmer.
+(4) In Betrieben mit in der Regel bis zu 20 wahlberechtigten Arbeitnehmern bedarf es keiner Unterzeichnung von Wahlvorschlägen. Wahlvorschläge sind in Betrieben mit in der Regel 21 bis 100 wahlberechtigten Arbeitnehmern von mindestens zwei wahlberechtigten Arbeitnehmern und in Betrieben mit in der Regel mehr als 100 wahlberechtigten Arbeitnehmern von mindestens einem Zwanzigstel der wahlberechtigten Arbeitnehmer zu unterzeichnen. In jedem Fall genügt die Unterzeichnung durch 50 wahlberechtigte Arbeitnehmer.
 
 (5) Jeder Wahlvorschlag einer Gewerkschaft muss von zwei Beauftragten unterzeichnet sein.
 
 # § 14a – Vereinfachtes Wahlverfahren für Kleinbetriebe
 
-(1) In Betrieben mit in der Regel fünf bis fünfzig wahlberechtigten Arbeitnehmern wird der Betriebsrat in einem zweistufigen Verfahren gewählt. Auf einer ersten Wahlversammlung wird der Wahlvorstand nach § 17a Nr. 3 gewählt. Auf einer zweiten Wahlversammlung wird der Betriebsrat in geheimer und unmittelbarer Wahl gewählt. Diese Wahlversammlung findet eine Woche nach der Wahlversammlung zur Wahl des Wahlvorstands statt.
+(1) In Betrieben mit in der Regel fünf bis 100 wahlberechtigten Arbeitnehmern wird der Betriebsrat in einem zweistufigen Verfahren gewählt. Auf einer ersten Wahlversammlung wird der Wahlvorstand nach § 17a Nr. 3 gewählt. Auf einer zweiten Wahlversammlung wird der Betriebsrat in geheimer und unmittelbarer Wahl gewählt. Diese Wahlversammlung findet eine Woche nach der Wahlversammlung zur Wahl des Wahlvorstands statt.
 
 (2) Wahlvorschläge können bis zum Ende der Wahlversammlung zur Wahl des Wahlvorstands nach § 17a Nr. 3 gemacht werden; für Wahlvorschläge der Arbeitnehmer gilt § 14 Abs. 4 mit der Maßgabe, dass für Wahlvorschläge, die erst auf dieser Wahlversammlung gemacht werden, keine Schriftform erforderlich ist.
 
-(3) Ist der Wahlvorstand in Betrieben mit in der Regel fünf bis fünfzig wahlberechtigten Arbeitnehmern nach § 17a Nr. 1 in Verbindung mit § 16 vom Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat oder nach § 17a Nr. 4 vom Arbeitsgericht bestellt, wird der Betriebsrat abweichend von Absatz 1 Satz 1 und 2 auf nur einer Wahlversammlung in geheimer und unmittelbarer Wahl gewählt. Wahlvorschläge können bis eine Woche vor der Wahlversammlung zur Wahl des Betriebsrats gemacht werden; § 14 Abs. 4 gilt unverändert.
+(3) Ist der Wahlvorstand in Betrieben mit in der Regel fünf bis 100 wahlberechtigten Arbeitnehmern nach § 17a Nr. 1 in Verbindung mit § 16 vom Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat oder nach § 17a Nr. 4 vom Arbeitsgericht bestellt, wird der Betriebsrat abweichend von Absatz 1 Satz 1 und 2 auf nur einer Wahlversammlung in geheimer und unmittelbarer Wahl gewählt. Wahlvorschläge können bis eine Woche vor der Wahlversammlung zur Wahl des Betriebsrats gemacht werden; § 14 Abs. 4 gilt unverändert.
 
 (4) Wahlberechtigten Arbeitnehmern, die an der Wahlversammlung zur Wahl des Betriebsrats nicht teilnehmen können, ist Gelegenheit zur schriftlichen Stimmabgabe zu geben.
 
-(5) In Betrieben mit in der Regel 51 bis 100 wahlberechtigten Arbeitnehmern können der Wahlvorstand und der Arbeitgeber die Anwendung des vereinfachten Wahlverfahrens vereinbaren.
+(5) In Betrieben mit in der Regel 101 bis 200 wahlberechtigten Arbeitnehmern können der Wahlvorstand und der Arbeitgeber die Anwendung des vereinfachten Wahlverfahrens vereinbaren.
 
 # § 15 – Zusammensetzung nach Beschäftigungsarten und Geschlechter *)
 
@@ -503,6 +503,8 @@ Im Fall des § 14a finden die §§ 16 und 17 mit folgender Maßgabe Anwendung:
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden ist und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 (2) Zur Anfechtung berechtigt sind mindestens drei Wahlberechtigte, eine im Betrieb vertretene Gewerkschaft oder der Arbeitgeber. Die Wahlanfechtung ist nur binnen einer Frist von zwei Wochen, vom Tage der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
+
+(3) Die Anfechtung durch die Wahlberechtigten ist ausgeschlossen, soweit sie darauf gestützt wird, dass die Wählerliste unrichtig ist, wenn nicht zuvor aus demselben Grund ordnungsgemäß Einspruch gegen die Richtigkeit der Wählerliste eingelegt wurde. Dies gilt nicht, wenn die anfechtenden Wahlberechtigten an der Einlegung eines Einspruchs gehindert waren. Die Anfechtung durch den Arbeitgeber ist ausgeschlossen, soweit sie darauf gestützt wird, dass die Wählerliste unrichtig ist und wenn diese Unrichtigkeit auf seinen Angaben beruht.
 
 # § 20 – Wahlschutz und Wahlkosten
 
@@ -630,7 +632,19 @@ Die weiteren Ausschussmitglieder werden vom Betriebsrat aus seiner Mitte in gehe
 
 # § 30 – Betriebsratssitzungen
 
-Die Sitzungen des Betriebsrats finden in der Regel während der Arbeitszeit statt. Der Betriebsrat hat bei der Ansetzung von Betriebsratssitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu nehmen. Der Arbeitgeber ist vom Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Betriebsrats sind nicht öffentlich.
+(1) Die Sitzungen des Betriebsrats finden in der Regel während der Arbeitszeit statt. Der Betriebsrat hat bei der Ansetzung von Betriebsratssitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu nehmen. Der Arbeitgeber ist vom Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Betriebsrats sind nicht öffentlich. Sie finden als Präsenzsitzung statt.
+
+(2) Abweichend von Absatz 1 Satz 5 kann die Teilnahme an einer Betriebsratssitzung mittels Video- und Telefonkonferenz erfolgen, wenn
+
+1. die Voraussetzungen für eine solche Teilnahme in der Geschäftsordnung unter Sicherung des Vorrangs der Präsenzsitzung festgelegt sind,
+
+2. nicht mindestens ein Viertel der Mitglieder des Betriebsrats binnen einer von dem Vorsitzenden zu bestimmenden Frist diesem gegenüber widerspricht und
+
+3. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+
+Eine Aufzeichnung der Sitzung ist unzulässig.
+
+(3) Erfolgt die Betriebsratssitzung mit der zusätzlichen Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt auch eine Teilnahme vor Ort als erforderlich.
 
 # § 31 – Teilnahme der Gewerkschaften
 
@@ -642,7 +656,7 @@ Die Schwerbehindertenvertretung (§ 177 des Neunten Buches Sozialgesetzbuch) kan
 
 # § 33 – Beschlüsse des Betriebsrats
 
-(1) Die Beschlüsse des Betriebsrats werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Bei Stimmengleichheit ist ein Antrag abgelehnt.
+(1) Die Beschlüsse des Betriebsrats werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Betriebsratsmitglieder, die mittels Video- und Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 
 (2) Der Betriebsrat ist nur beschlussfähig, wenn mindestens die Hälfte der Betriebsratsmitglieder an der Beschlussfassung teilnimmt; Stellvertretung durch Ersatzmitglieder ist zulässig.
 
@@ -650,7 +664,7 @@ Die Schwerbehindertenvertretung (§ 177 des Neunten Buches Sozialgesetzbuch) kan
 
 # § 34 – Sitzungsniederschrift
 
-(1) Über jede Verhandlung des Betriebsrats ist eine Niederschrift aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst sind, enthält. Die Niederschrift ist von dem Vorsitzenden und einem weiteren Mitglied zu unterzeichnen. Der Niederschrift ist eine Anwesenheitsliste beizufügen, in die sich jeder Teilnehmer eigenhändig einzutragen hat.
+(1) Über jede Verhandlung des Betriebsrats ist eine Niederschrift aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst sind, enthält. Die Niederschrift ist von dem Vorsitzenden und einem weiteren Mitglied zu unterzeichnen. Der Niederschrift ist eine Anwesenheitsliste beizufügen, in die sich jeder Teilnehmer eigenhändig einzutragen hat. Nimmt ein Betriebsratsmitglied mittels Video- und Telefonkonferenz an der Sitzung teil, so hat es seine Teilnahme gegenüber dem Vorsitzenden in Textform zu bestätigen. Die Bestätigung ist der Niederschrift beizufügen.
 
 (2) Hat der Arbeitgeber oder ein Beauftragter einer Gewerkschaft an der Sitzung teilgenommen, so ist ihm der entsprechende Teil der Niederschrift abschriftlich auszuhändigen. Einwendungen gegen die Niederschrift sind unverzüglich schriftlich zu erheben; sie sind der Niederschrift beizufügen.
 
@@ -831,7 +845,7 @@ besteht.
 
 (2) Ist ein Gesamtbetriebsrat zu errichten, so hat der Betriebsrat der Hauptverwaltung des Unternehmens oder, soweit ein solcher Betriebsrat nicht besteht, der Betriebsrat des nach der Zahl der wahlberechtigten Arbeitnehmer größten Betriebs zu der Wahl des Vorsitzenden und des stellvertretenden Vorsitzenden des Gesamtbetriebsrats einzuladen. Der Vorsitzende des einladenden Betriebsrats hat die Sitzung zu leiten, bis der Gesamtbetriebsrat aus seiner Mitte einen Wahlleiter bestellt hat. § 29 Abs. 2 bis 4 gilt entsprechend.
 
-(3) Die Beschlüsse des Gesamtbetriebsrats werden, soweit nichts anderes bestimmt ist, mit Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Bei Stimmengleichheit ist ein Antrag abgelehnt. Der Gesamtbetriebsrat ist nur beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder an der Beschlussfassung teilnimmt und die Teilnehmenden mindestens die Hälfte aller Stimmen vertreten; Stellvertretung durch Ersatzmitglieder ist zulässig. § 33 Abs. 3 gilt entsprechend.
+(3) Die Beschlüsse des Gesamtbetriebsrats werden, soweit nichts anderes bestimmt ist, mit Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Mitglieder des Gesamtbetriebsrats, die mittels Video- und Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt. Der Gesamtbetriebsrat ist nur beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder an der Beschlussfassung teilnimmt und die Teilnehmenden mindestens die Hälfte aller Stimmen vertreten; Stellvertretung durch Ersatzmitglieder ist zulässig. § 33 Abs. 3 gilt entsprechend.
 
 (4) Auf die Beschlussfassung des Gesamtbetriebsausschusses und weiterer Ausschüsse des Gesamtbetriebsrats ist § 33 Abs. 1 und 2 anzuwenden.
 
@@ -897,7 +911,7 @@ Die Konzernschwerbehindertenvertretung (§ 180 Absatz 2 des Neunten Buches Sozia
 
 # § 60 – Errichtung und Aufgabe
 
-(1) In Betrieben mit in der Regel mindestens fünf Arbeitnehmern, die das 18. Lebensjahr noch nicht vollendet haben (jugendliche Arbeitnehmer) oder die zu ihrer Berufsausbildung beschäftigt sind und das 25. Lebensjahr noch nicht vollendet haben, werden Jugend- und Auszubildendenvertretungen gewählt.
+(1) In Betrieben mit in der Regel mindestens fünf Arbeitnehmern, die das 18. Lebensjahr noch nicht vollendet haben (jugendliche Arbeitnehmer) oder die zu ihrer Berufsausbildung beschäftigt sind, werden Jugend- und Auszubildendenvertretungen gewählt.
 
 (2) Die Jugend- und Auszubildendenvertretung nimmt nach Maßgabe der folgenden Vorschriften die besonderen Belange der in Absatz 1 genannten Arbeitnehmer wahr.
 
@@ -905,7 +919,7 @@ Die Konzernschwerbehindertenvertretung (§ 180 Absatz 2 des Neunten Buches Sozia
 
 (1) Wahlberechtigt sind alle in § 60 Abs. 1 genannten Arbeitnehmer des Betriebs.
 
-(2) Wählbar sind alle Arbeitnehmer des Betriebs, die das 25. Lebensjahr noch nicht vollendet haben; § 8 Abs. 1 Satz 3 findet Anwendung. Mitglieder des Betriebsrats können nicht zu Jugend- und Auszubildendenvertretern gewählt werden.
+(2) Wählbar sind alle Arbeitnehmer des Betriebs, die das 25. Lebensjahr noch nicht vollendet haben oder die zu ihrer Berufsausbildung beschäftigt sind; § 8 Abs. 1 Satz 3 findet Anwendung. Mitglieder des Betriebsrats können nicht zu Jugend- und Auszubildendenvertretern gewählt werden.
 
 # § 62 – Zahl der Jugend- und Auszubildendenvertreter, Zusammensetzung der Jugend- und Auszubildendenvertretung
 
@@ -931,9 +945,9 @@ mehr als 1.000 der in § 60 Abs. 1 genannten Arbeitnehmer aus 15 Mitgliedern.
 
 (3) Bestellt der Betriebsrat den Wahlvorstand nicht oder nicht spätestens sechs Wochen vor Ablauf der Amtszeit der Jugend- und Auszubildendenvertretung oder kommt der Wahlvorstand seiner Verpflichtung nach § 18 Abs. 1 Satz 1 nicht nach, so gelten § 16 Abs. 2 Satz 1 und 2, Abs. 3 Satz 1 und § 18 Abs. 1 Satz 2 entsprechend; der Antrag beim Arbeitsgericht kann auch von jugendlichen Arbeitnehmern gestellt werden.
 
-(4) In Betrieben mit in der Regel fünf bis fünfzig der in § 60 Abs. 1 genannten Arbeitnehmer gilt auch § 14a entsprechend. Die Frist zur Bestellung des Wahlvorstands wird im Fall des Absatzes 2 Satz 1 auf vier Wochen und im Fall des Absatzes 3 Satz 1 auf drei Wochen verkürzt.
+(4) In Betrieben mit in der Regel fünf bis 100 der in § 60 Abs. 1 genannten Arbeitnehmer gilt auch § 14a entsprechend. Die Frist zur Bestellung des Wahlvorstands wird im Fall des Absatzes 2 Satz 1 auf vier Wochen und im Fall des Absatzes 3 Satz 1 auf drei Wochen verkürzt.
 
-(5) In Betrieben mit in der Regel 51 bis 100 der in § 60 Abs. 1 genannten Arbeitnehmer gilt § 14a Abs. 5 entsprechend.
+(5) In Betrieben mit in der Regel 101 bis 200 der in § 60 Abs. 1 genannten Arbeitnehmer gilt § 14a Abs. 5 entsprechend.
 
 # § 64 – Zeitpunkt der Wahlen und Amtszeit
 
@@ -941,7 +955,7 @@ mehr als 1.000 der in § 60 Abs. 1 genannten Arbeitnehmer aus 15 Mitgliedern.
 
 (2) Die regelmäßige Amtszeit der Jugend- und Auszubildendenvertretung beträgt zwei Jahre. Die Amtszeit beginnt mit der Bekanntgabe des Wahlergebnisses oder, wenn zu diesem Zeitpunkt noch eine Jugend- und Auszubildendenvertretung besteht, mit Ablauf von deren Amtszeit. Die Amtszeit endet spätestens am 30. November des Jahres, in dem nach Absatz 1 Satz 1 die regelmäßigen Wahlen stattfinden. In dem Fall des § 13 Abs. 3 Satz 2 endet die Amtszeit spätestens am 30. November des Jahres, in dem die Jugend- und Auszubildendenvertretung neu zu wählen ist. In dem Fall des § 13 Abs. 2 Nr. 2 endet die Amtszeit mit der Bekanntgabe des Wahlergebnisses der neu gewählten Jugend- und Auszubildendenvertretung.
 
-(3) Ein Mitglied der Jugend- und Auszubildendenvertretung, das im Laufe der Amtszeit das 25. Lebensjahr vollendet, bleibt bis zum Ende der Amtszeit Mitglied der Jugend- und Auszubildendenvertretung.
+(3) Ein Mitglied der Jugend- und Auszubildendenvertretung, das im Laufe der Amtszeit das 25. Lebensjahr vollendet oder sein Berufsausbildungsverhältnis beendet, bleibt bis zum Ende der Amtszeit Mitglied der Jugend- und Auszubildendenvertretung.
 
 # § 65 – Geschäftsführung
 
@@ -1051,7 +1065,7 @@ Die Jugend- und Auszubildendenvertretung kann vor oder nach jeder Betriebsversam
 
 (2) Die Einigungsstelle besteht aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen müssen. Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn das Arbeitsgericht. Dieses entscheidet auch, wenn kein Einverständnis über die Zahl der Beisitzer erzielt wird.
 
-(3) Die Einigungsstelle hat unverzüglich tätig zu werden. Sie fasst ihre Beschlüsse nach mündlicher Beratung mit Stimmenmehrheit. Bei der Beschlussfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Die Beschlüsse der Einigungsstelle sind schriftlich niederzulegen, vom Vorsitzenden zu unterschreiben und Arbeitgeber und Betriebsrat zuzuleiten.
+(3) Die Einigungsstelle hat unverzüglich tätig zu werden. Sie fasst ihre Beschlüsse nach mündlicher Beratung mit Stimmenmehrheit. Bei der Beschlussfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Die Beschlüsse der Einigungsstelle sind schriftlich niederzulegen und vom Vorsitzenden zu unterschreiben oder in elektronischer Form niederzulegen und vom Vorsitzenden mit seiner qualifizierten elektronischen Signatur zu versehen sowie Arbeitgeber und Betriebsrat zuzuleiten.
 
 (4) Durch Betriebsvereinbarung können weitere Einzelheiten des Verfahrens vor der Einigungsstelle geregelt werden.
 
@@ -1079,7 +1093,7 @@ Die Jugend- und Auszubildendenvertretung kann vor oder nach jeder Betriebsversam
 
 (1) Vereinbarungen zwischen Betriebsrat und Arbeitgeber, auch soweit sie auf einem Spruch der Einigungsstelle beruhen, führt der Arbeitgeber durch, es sei denn, dass im Einzelfall etwas anderes vereinbart ist. Der Betriebsrat darf nicht durch einseitige Handlungen in die Leitung des Betriebs eingreifen.
 
-(2) Betriebsvereinbarungen sind von Betriebsrat und Arbeitgeber gemeinsam zu beschließen und schriftlich niederzulegen. Sie sind von beiden Seiten zu unterzeichnen; dies gilt nicht, soweit Betriebsvereinbarungen auf einem Spruch der Einigungsstelle beruhen. Der Arbeitgeber hat die Betriebsvereinbarungen an geeigneter Stelle im Betrieb auszulegen.
+(2) Betriebsvereinbarungen sind von Betriebsrat und Arbeitgeber gemeinsam zu beschließen und schriftlich niederzulegen. Sie sind von beiden Seiten zu unterzeichnen; dies gilt nicht, soweit Betriebsvereinbarungen auf einem Spruch der Einigungsstelle beruhen. Werden Betriebsvereinbarungen in elektronischer Form geschlossen, haben Arbeitgeber und Betriebsrat abweichend von § 126a Absatz 2 des Bürgerlichen Gesetzbuchs dasselbe Dokument elektronisch zu signieren. Der Arbeitgeber hat die Betriebsvereinbarungen an geeigneter Stelle im Betrieb auszulegen.
 
 (3) Arbeitsentgelte und sonstige Arbeitsbedingungen, die durch Tarifvertrag geregelt sind oder üblicherweise geregelt werden, können nicht Gegenstand einer Betriebsvereinbarung sein. Dies gilt nicht, wenn ein Tarifvertrag den Abschluss ergänzender Betriebsvereinbarungen ausdrücklich zulässt.
 
@@ -1117,6 +1131,10 @@ wenn Tatsachen vorliegen, aufgrund derer dem Arbeitgeber unter Berücksichtigung
 
 (2) Absatz 1 gilt sinngemäß für die Mitglieder und Ersatzmitglieder des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der gemäß § 3 Abs. 1 gebildeten Vertretungen der Arbeitnehmer, der Einigungsstelle, der tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie für die Vertreter von Gewerkschaften oder von Arbeitgebervereinigungen.
 
+# § 79a – Datenschutz
+
+Bei der Verarbeitung personenbezogener Daten hat der Betriebsrat die Vorschriften über den Datenschutz einzuhalten. Soweit der Betriebsrat zur Erfüllung der in seiner Zuständigkeit liegenden Aufgaben personenbezogene Daten verarbeitet, ist der Arbeitgeber der für die Verarbeitung Verantwortliche im Sinne der datenschutzrechtlichen Vorschriften. Arbeitgeber und Betriebsrat unterstützen sich gegenseitig bei der Einhaltung der datenschutzrechtlichen Vorschriften. Die oder der Datenschutzbeauftragte ist gegenüber dem Arbeitgeber zur Verschwiegenheit verpflichtet über Informationen, die Rückschlüsse auf den Meinungsbildungsprozess des Betriebsrats zulassen. § 6 Absatz 5 Satz 2, § 38 Absatz 2 des Bundesdatenschutzgesetzes gelten auch im Hinblick auf das Verhältnis der oder des Datenschutzbeauftragten zum Arbeitgeber.
+
 # § 80 – Allgemeine Aufgaben
 
 (1) Der Betriebsrat hat folgende allgemeine Aufgaben:
@@ -1145,7 +1163,7 @@ wenn Tatsachen vorliegen, aufgrund derer dem Arbeitgeber unter Berücksichtigung
 
 (2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.
 
-(3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist.
+(3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Muss der Betriebsrat zur Durchführung seiner Aufgaben die Einführung oder Anwendung von Künstlicher Intelligenz beurteilen, gilt insoweit die Hinzuziehung eines Sachverständigen als erforderlich. Gleiches gilt, wenn sich Arbeitgeber und Betriebsrat auf einen ständigen Sachverständigen in Angelegenheiten nach Satz 2 einigen.
 
 (4) Für die Geheimhaltungspflicht der Auskunftspersonen und der Sachverständigen gilt § 79 entsprechend.
 
@@ -1223,7 +1241,9 @@ Jeder Arbeitnehmer hat das Recht, dem Betriebsrat Themen zur Beratung vorzuschla
 
 12. Grundsätze über das betriebliche Vorschlagswesen;
 
-13. Grundsätze über die Durchführung von Gruppenarbeit; Gruppenarbeit im Sinne dieser Vorschrift liegt vor, wenn im Rahmen des betrieblichen Arbeitsablaufs eine Gruppe von Arbeitnehmern eine ihr übertragene Gesamtaufgabe im Wesentlichen eigenverantwortlich erledigt.
+13. Grundsätze über die Durchführung von Gruppenarbeit; Gruppenarbeit im Sinne dieser Vorschrift liegt vor, wenn im Rahmen des betrieblichen Arbeitsablaufs eine Gruppe von Arbeitnehmern eine ihr übertragene Gesamtaufgabe im Wesentlichen eigenverantwortlich erledigt;
+
+14. Ausgestaltung von mobiler Arbeit, die mittels Informations- und Kommunikationstechnik erbracht wird.
 
 (2) Kommt eine Einigung über eine Angelegenheit nach Absatz 1 nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
 
@@ -1265,7 +1285,7 @@ Durch Betriebsvereinbarung können insbesondere geregelt werden
 
 2. von technischen Anlagen,
 
-3. von Arbeitsverfahren und Arbeitsabläufen oder
+3. von Arbeitsverfahren und Arbeitsabläufen einschließlich des Einsatzes von Künstlicher Intelligenz oder
 
 4. der Arbeitsplätze
 
@@ -1307,11 +1327,15 @@ Der Betriebsrat kann verlangen, dass Arbeitsplätze, die besetzt werden sollen, 
 
 (2) In Betrieben mit mehr als 500 Arbeitnehmern kann der Betriebsrat die Aufstellung von Richtlinien über die bei Maßnahmen des Absatzes 1 Satz 1 zu beachtenden fachlichen und persönlichen Voraussetzungen und sozialen Gesichtspunkte verlangen. Kommt eine Einigung über die Richtlinien oder ihren Inhalt nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
 
+(2a) Die Absätze 1 und 2 finden auch dann Anwendung, wenn bei der Aufstellung der Richtlinien nach diesen Absätzen Künstliche Intelligenz zum Einsatz kommt.
+
 (3) Versetzung im Sinne dieses Gesetzes ist die Zuweisung eines anderen Arbeitsbereichs, die voraussichtlich die Dauer von einem Monat überschreitet, oder die mit einer erheblichen Änderung der Umstände verbunden ist, unter denen die Arbeit zu leisten ist. Werden Arbeitnehmer nach der Eigenart ihres Arbeitsverhältnisses üblicherweise nicht ständig an einem bestimmten Arbeitsplatz beschäftigt, so gilt die Bestimmung des jeweiligen Arbeitsplatzes nicht als Versetzung.
 
 # § 96 – Förderung der Berufsbildung
 
 (1) Arbeitgeber und Betriebsrat haben im Rahmen der betrieblichen Personalplanung und in Zusammenarbeit mit den für die Berufsbildung und den für die Förderung der Berufsbildung zuständigen Stellen die Berufsbildung der Arbeitnehmer zu fördern. Der Arbeitgeber hat auf Verlangen des Betriebsrats den Berufsbildungsbedarf zu ermitteln und mit ihm Fragen der Berufsbildung der Arbeitnehmer des Betriebs zu beraten. Hierzu kann der Betriebsrat Vorschläge machen.
+
+(1a) Kommt im Rahmen der Beratung nach Absatz 1 eine Einigung über Maßnahmen der Berufsbildung nicht zustande, können der Arbeitgeber oder der Betriebsrat die Einigungsstelle um Vermittlung anrufen. Die Einigungsstelle hat eine Einigung der Parteien zu versuchen.
 
 (2) Arbeitgeber und Betriebsrat haben darauf zu achten, dass unter Berücksichtigung der betrieblichen Notwendigkeiten den Arbeitnehmern die Teilnahme an betrieblichen oder außerbetrieblichen Maßnahmen der Berufsbildung ermöglicht wird. Sie haben dabei auch die Belange älterer Arbeitnehmer, Teilzeitbeschäftigter und von Arbeitnehmern mit Familienpflichten zu berücksichtigen.
 
@@ -1407,6 +1431,8 @@ Führt der Arbeitgeber eine personelle Maßnahme im Sinne des § 99 Abs. 1 Satz 
 
 (2) Verweigert der Betriebsrat seine Zustimmung, so kann das Arbeitsgericht sie auf Antrag des Arbeitgebers ersetzen, wenn die außerordentliche Kündigung unter Berücksichtigung aller Umstände gerechtfertigt ist. In dem Verfahren vor dem Arbeitsgericht ist der betroffene Arbeitnehmer Beteiligter.
 
+(2a) Absatz 2 gilt entsprechend, wenn im Betrieb kein Betriebsrat besteht.
+
 (3) Die Versetzung der in Absatz 1 genannten Personen, die zu einem Verlust des Amtes oder der Wählbarkeit führen würde, bedarf der Zustimmung des Betriebsrats; dies gilt nicht, wenn der betroffene Arbeitnehmer mit der Versetzung einverstanden ist. Absatz 2 gilt entsprechend mit der Maßgabe, dass das Arbeitsgericht die Zustimmung zu der Versetzung ersetzen kann, wenn diese auch unter Berücksichtigung der betriebsverfassungsrechtlichen Stellung des betroffenen Arbeitnehmers aus dringenden betrieblichen Gründen notwendig ist.
 
 # § 104 – Entfernung betriebsstörender Arbeitnehmer
@@ -1501,7 +1527,7 @@ In Unternehmen mit in der Regel mehr als zwanzig wahlberechtigten Arbeitnehmern 
 
 # § 112 – Interessenausgleich über die Betriebsänderung, Sozialplan
 
-(1) Kommt zwischen Unternehmer und Betriebsrat ein Interessenausgleich über die geplante Betriebsänderung zustande, so ist dieser schriftlich niederzulegen und vom Unternehmer und Betriebsrat zu unterschreiben. Das Gleiche gilt für eine Einigung über den Ausgleich oder die Milderung der wirtschaftlichen Nachteile, die den Arbeitnehmern infolge der geplanten Betriebsänderung entstehen (Sozialplan). Der Sozialplan hat die Wirkung einer Betriebsvereinbarung. § 77 Abs. 3 ist auf den Sozialplan nicht anzuwenden.
+(1) Kommt zwischen Unternehmer und Betriebsrat ein Interessenausgleich über die geplante Betriebsänderung zustande, so ist dieser schriftlich niederzulegen und vom Unternehmer und Betriebsrat zu unterschreiben; § 77 Absatz 2 Satz 3 gilt entsprechend. Das Gleiche gilt für eine Einigung über den Ausgleich oder die Milderung der wirtschaftlichen Nachteile, die den Arbeitnehmern infolge der geplanten Betriebsänderung entstehen (Sozialplan). Der Sozialplan hat die Wirkung einer Betriebsvereinbarung. § 77 Abs. 3 ist auf den Sozialplan nicht anzuwenden.
 
 (2) Kommt ein Interessenausgleich über die geplante Betriebsänderung oder eine Einigung über den Sozialplan nicht zustande, so können der Unternehmer oder der Betriebsrat den Vorstand der Bundesagentur für Arbeit um Vermittlung ersuchen, der Vorstand kann die Aufgabe auf andere Bedienstete der Bundesagentur für Arbeit übertragen. Erfolgt kein Vermittlungsersuchen oder bleibt der Vermittlungsversuch ergebnislos, so können der Unternehmer oder der Betriebsrat die Einigungsstelle anrufen. Auf Ersuchen des Vorsitzenden der Einigungsstelle nimmt ein Mitglied des Vorstands der Bundesagentur für Arbeit oder ein vom Vorstand der Bundesagentur für Arbeit benannter Bediensteter der Bundesagentur für Arbeit an der Verhandlung teil.
 

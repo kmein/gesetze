@@ -2513,7 +2513,7 @@ In den Fällen des Satzes 1 Nummer 3 kann auch die Organisation, für die die Eh
 
 # § 8 – Arbeitsunfall
 
-(1) Arbeitsunfälle sind Unfälle von Versicherten infolge einer den Versicherungsschutz nach § 2, 3 oder 6 begründenden Tätigkeit (versicherte Tätigkeit). Unfälle sind zeitlich begrenzte, von außen auf den Körper einwirkende Ereignisse, die zu einem Gesundheitsschaden oder zum Tod führen.
+(1) Arbeitsunfälle sind Unfälle von Versicherten infolge einer den Versicherungsschutz nach § 2, 3 oder 6 begründenden Tätigkeit (versicherte Tätigkeit). Unfälle sind zeitlich begrenzte, von außen auf den Körper einwirkende Ereignisse, die zu einem Gesundheitsschaden oder zum Tod führen. Wird die versicherte Tätigkeit im Haushalt der Versicherten oder an einem anderen Ort ausgeübt, besteht Versicherungsschutz in gleichem Umfang wie bei Ausübung der Tätigkeit auf der Unternehmensstätte.
 
 (2) Versicherte Tätigkeiten sind auch
 
@@ -2524,6 +2524,8 @@ In den Fällen des Satzes 1 Nummer 3 kann auch die Organisation, für die die Eh
 a) Kinder von Versicherten (§ 56 des Ersten Buches), die mit ihnen in einem gemeinsamen Haushalt leben, wegen ihrer, ihrer Ehegatten oder ihrer Lebenspartner beruflichen Tätigkeit fremder Obhut anzuvertrauen oder
 
 b) mit anderen Berufstätigen oder Versicherten gemeinsam ein Fahrzeug zu benutzen,
+
+2a. das Zurücklegen des unmittelbaren Weges nach und von dem Ort, an dem Kinder von Versicherten nach Nummer 2 Buchstabe a fremder Obhut anvertraut werden, wenn die versicherte Tätigkeit an dem Ort des gemeinsamen Haushalts ausgeübt wird,
 
 3. das Zurücklegen des von einem unmittelbaren Weg nach und von dem Ort der Tätigkeit abweichenden Weges der Kinder von Personen (§ 56 des Ersten Buches), die mit ihnen in einem gemeinsamen Haushalt leben, wenn die Abweichung darauf beruht, daß die Kinder wegen der beruflichen Tätigkeit dieser Personen oder deren Ehegatten oder deren Lebenspartner fremder Obhut anvertraut werden,
 

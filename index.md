@@ -116,6 +116,7 @@
 - [AHiVwVtr AUT](laws/AHiVwVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen
 - [AHiVwVtrAUTG](laws/AHiVwVtrAUTG.md) Gesetz zu dem Vertrag vom 31. Mai 1988 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen
 - [AHStatDV](laws/AHStatDV.md) Verordnung zur Durchführung des Gesetzes über die Statistik des grenzüberschreitenden Warenverkehrs
+- [AHStatG](laws/AHStatG.md) Gesetz über die Statistik des Warenverkehrs mit dem Ausland
 - [AHStatGes](laws/AHStatGes.md) Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs
 - [AIIBÜbkG](laws/AIIBÜbkG.md) Gesetz zu dem Übereinkommen vom 29. Juni 2015 zur Gründung der Asiatischen Infrastruktur-Investitionsbank
 - [AISAnlNutzV](laws/AISAnlNutzV.md) Verordnung zur Regelung der Nutzung von AIS-Anlagen auf nicht ausrüstungspflichtigen Fahrzeugen
@@ -4502,7 +4503,7 @@
 - [PVÜG](laws/PVÜG.md) Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
 - [PWMAusbV](laws/PWMAusbV.md) Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin *
 - [QNormBanV](laws/QNormBanV.md) Verordnung über Qualitätsnormen für Bananen
-- [QVG](laws/QVG.md) Gesetz zur Regelung von Übermittlungen von Einzelangaben zur Prüfung und Verbesserung der Qualität der Behandlung von multinationalen Unternehmensgruppen in den Volkswirtschaftlichen Gesamtrechnungen
+- [QVWSG](laws/QVWSG.md) Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken
 - [RAAG](laws/RAAG.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004
 - [RAAG 2006](laws/RAAG_2006.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2006
 - [RadarPatEVB](laws/RadarPatEVB.md) Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins

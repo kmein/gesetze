@@ -853,6 +853,16 @@ Zulassungsverfahren für störfallrelevante Vorhaben
 
  
 
+ 
+
+ 
+
+Verfahren im Zusammenhang mit Anlagen zur Erzeugung von Energie aus erneuerbaren Quellen
+
+§ 57e
+
+ 
+
 Drittes Kapitel
 
  
@@ -2602,8 +2612,8 @@ b) an andere Betriebe desselben Unternehmens dienen, die nicht zum Aufsuchen, Ge
 (2) Grundeigene Bodenschätze stehen im Eigentum des Grundeigentümers. Auf bergfreie Bodenschätze erstreckt sich das Eigentum an einem Grundstück nicht.
 
 (3) Bergfreie Bodenschätze sind, soweit sich aus aufrechterhaltenen alten Rechten (§§ 149 bis 159) oder aus Absatz 4 nichts anderes ergibt:  
-Actinium und die Actiniden, Aluminium, Antimon, Arsen, Beryllium, Blei, Bor, Caesium, Chrom, Eisen, Francium, Gallium, Germanium, Gold, Hafnium, Indium, Iridium, Kadmium, Kobalt, Kupfer, Lanthan und die Lanthaniden, Lithium, Mangan, Molybdän, Nickel, Niob, Osmium, Palladium, Phosphor, Platin, Polonium, Quecksilber, Radium, Rhenium, Rhodium, Rubidium, Ruthenium, Scandium, Schwefel, Selen, Silber, Strontium, Tantal, Tellur, Thallium, Titan, Vanadium, Wismut, Wolfram, Yttrium, Zink, Zinn, Zirkonium - gediegen und als Erze außer in Raseneisen-, Alaun- und Vitriolerzen -;  
-Kohlenwasserstoffe nebst den bei ihrer Gewinnung anfallenden Gasen;  
+Actinium und die Actiniden, Aluminium, Antimon, Arsen, Beryllium, Blei, Bor, Caesium, Chrom, Eisen, Francium, Gallium, Germanium, Gold, Hafnium, Indium, Iridium, Kadmium, Kobalt, Kupfer, Lanthan und die Lanthaniden, Mangan, Molybdän, Nickel, Niob, Osmium, Palladium, Phosphor, Platin, Polonium, Quecksilber, Radium, Rhenium, Rhodium, Rubidium, Ruthenium, Scandium, Schwefel, Selen, Silber, Strontium, Tantal, Tellur, Thallium, Titan, Vanadium, Wismut, Wolfram, Yttrium, Zink, Zinn, Zirkonium - gediegen und als Erze außer in Raseneisen-, Alaun- und Vitriolerzen -;  
+Lithium; Kohlenwasserstoffe nebst den bei ihrer Gewinnung anfallenden Gasen;  
 Stein- und Braunkohle nebst den im Zusammenhang mit ihrer Gewinnung auftretenden Gasen; Graphit;  
 Stein-, Kali-, Magnesia- und Borsalze nebst den mit diesen Salzen in der gleichen Lagerstätte auftretenden Salzen; Sole;  
 Flußspat und Schwerspat. Als bergfreie Bodenschätze gelten:
@@ -3192,7 +3202,7 @@ enthalten muß. Wesentliche Änderungen des Abbauplanes sind der zuständigen Be
 
 # § 52 – Betriebspläne für die Errichtung und Führung des Betriebes
 
-(1) Für die Errichtung und Führung eines Betriebes sind Hauptbetriebspläne für einen in der Regel zwei Jahre nicht überschreitenden Zeitraum aufzustellen. Eine Unterbrechung des Betriebes für einen Zeitraum bis zu zwei Jahren gilt als Führung des Betriebes, eine längere Unterbrechung nur dann, wenn sie von der zuständigen Behörde genehmigt wird.
+(1) Für die Errichtung und Führung eines Betriebes sind Hauptbetriebspläne für einen in der Regel zwei Jahre nicht überschreitenden Zeitraum aufzustellen. Eine Unterbrechung des Betriebes für einen Zeitraum bis zu zwei Jahren gilt als Führung des Betriebes, eine längere Unterbrechung nur dann, wenn sie von der zuständigen Behörde genehmigt wird. Die zuständige Behörde kann festlegen, dass Hauptbetriebspläne auch für einen längeren Zeitraum als für zwei Jahre aufgestellt werden können, wenn eine Kontrolle des Betriebs auch bei einer längeren Laufzeit des Hauptbetriebsplans möglich ist, insbesondere, wenn der Betriebsverlauf absehbar ist. Eine Kontrolle des Betriebs bei längerer Laufzeit des Hauptbetriebsplans ist bei Hauptbetriebsplänen im Zusammenhang mit der aufgrund des Kohleverstromungsbeendigungsgesetzes vorgesehenen Einstellung von Braunkohletagebauen im Regelfall zu erwarten. Die festzulegende Laufzeit soll in den Fällen der Sätze 3 und 4 vier Jahre nicht überschreiten.
 
 (2) Die zuständige Behörde kann verlangen, daß
 
@@ -3247,6 +3257,22 @@ Satz 1 gilt nicht bei Gewinnungsbetrieben, die in Form von Tagebauen betrieben w
 (1) Der Unternehmer hat den Betriebsplan, dessen Verlängerung, Ergänzung oder Abänderung vor Beginn der vorgesehenen Arbeiten zur Zulassung einzureichen.
 
 (2) Wird durch die in einem Betriebsplan vorgesehenen Maßnahmen der Aufgabenbereich anderer Behörden oder der Gemeinden als Planungsträger berührt, so sind diese vor der Zulassung des Betriebsplanes durch die zuständige Behörde zu beteiligen. Die Landesregierungen können durch Rechtsverordnung eine weitergehende Beteiligung der Gemeinden vorschreiben, soweit in einem Betriebsplan Maßnahmen zur Lagerung oder Ablagerung von Bodenschätzen, Nebengestein oder sonstigen Massen vorgesehen sind. Satz 2 gilt nicht bei Gewinnungsbetrieben, die im Rahmen eines Planes geführt werden, in dem insbesondere die Abbaugrenzen und Haldenflächen festgelegt sind und der auf Grund eines Bundes- oder Landesgesetzes in einem besonderen Planungsverfahren genehmigt worden ist.
+
+(3) Die zuständige Behörde kann einen Dritten, der als Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen wie beispielsweise
+
+1. der Erstellung von Verfahrensleitplänen mit Verfahrensabschnitten und Zwischenterminen,
+
+2. der Fristenkontrolle,
+
+3. der Koordinierung von erforderlichen Sachverständigengutachten,
+
+4. dem Qualitätsmanagement der Anträge und Unterlagen des Unternehmers,
+
+5. der ersten Auswertung der eingereichten Stellungnahmen und
+
+6. der organisatorischen Vorbereitung und Durchführung eines Erörterungstermins.
+
+Die Entscheidung über die Betriebsplanzulassung bleibt bei der zuständigen Behörde. Erfolgt die Beauftragung auf Vorschlag oder mit Zustimmung des Unternehmers, so kann die Behörde entscheiden, dass der Unternehmer die Kosten der Vorbereitung und Durchführung von Verfahrensschritten durch den Dritten tragen muss.
 
 # § 55 – Zulassung des Betriebsplanes
 
@@ -3318,7 +3344,7 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 # § 57a – Planfeststellungsverfahren, Umweltverträglichkeitsprüfung
 
-(1) Das im Falle des § 52 Abs. 2a durchzuführende Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach den §§ 54 und 56 Abs. 1. Anhörungsbehörde und Planfeststellungsbehörde ist die für die Zulassung von Betriebsplänen zuständige Behörde. Bei Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der Vorschriften der Verwaltungsverfahrensgesetze über das Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich auswirken wird, gilt der Sitz dieser Behörde. Für das Verfahren sind die §§ 15 bis 27 sowie 31 des Gesetzes über die Umweltverträglichkeitsprüfung sowie die nachfolgenden Regelungen anzuwenden.
+(1) Das im Falle des § 52 Abs. 2a durchzuführende Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach § 54 Absatz 1 und 2 und § 56 Absatz 1. § 54 Absatz 3 gilt entsprechend. Anhörungsbehörde und Planfeststellungsbehörde ist die für die Zulassung von Betriebsplänen zuständige Behörde. Bei Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der Vorschriften der Verwaltungsverfahrensgesetze über das Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich auswirken wird, gilt der Sitz dieser Behörde. Für das Verfahren sind die §§ 15 bis 27 sowie 31 des Gesetzes über die Umweltverträglichkeitsprüfung sowie die nachfolgenden Regelungen anzuwenden.
 
 (2) Der Rahmenbetriebsplan muß den Anforderungen genügen, die sich aus den Voraussetzungen für die Durchführung des Planfeststellungsverfahrens unter Berücksichtigung der Antragserfordernisse für die vom Planfeststellungsbeschluß eingeschlossenen behördlichen Entscheidungen ergeben. Der Rahmenbetriebsplan muss alle für die Umweltverträglichkeitsprüfung bedeutsamen Angaben in der Form eines Berichts zu den voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht) nach Maßgabe des § 16 des Gesetzes über die Umweltverträglichkeitsprüfung und der Rechtsverordnung nach § 57c enthalten. Der Unternehmer hat dem Rahmenbetriebsplan einen zur Auslegung geeigneten Plan beizufügen.
 
@@ -3332,7 +3358,7 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 # § 57b – Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
 
-(1) Die zuständige Behörde kann unter dem Vorbehalt des Widerrufs zulassen, daß bereits vor der Planfeststellung mit der Ausführung des Vorhabens begonnen wird, wenn
+(1) Die zuständige Behörde kann unter dem Vorbehalt des Widerrufs zulassen, daß bereits vor der Planfeststellung oder vor der Zulassung eines Rahmenbetriebsplans nach § 52 Absatz 2 Nummer 1 mit der Ausführung des Vorhabens begonnen wird, wenn
 
 1. mit einer Entscheidung zugunsten des Unternehmers gerechnet werden kann,
 
@@ -3385,6 +3411,24 @@ In der Rechtsverordnung können für die Bestimmung der Vorhaben nach Satz 1 Nr.
 Absatz 1 Satz 3 ist anzuwenden.
 
 (3) Absatz 1 Satz 1 und 2 und Absatz 2 Satz 1 und 2 gelten nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
+
+# § 57e – Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+
+(1) Für die Zulassung von Betriebsplänen für Vorhaben im Zusammenhang mit der Gewinnung von Erdwärme nach diesem Gesetz sind die Absätze 2 bis 5 anzuwenden.
+
+(2) Auf Antrag des Unternehmers werden das Verfahren zur Zulassung von Betriebsplänen für ein Vorhaben nach Absatz 1 sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+(3) Die einheitliche Stelle nach Absatz 2 stellt ein Verfahrenshandbuch für Unternehmer bereit und macht die im Verfahrenshandbuch enthaltenen Informationen auch im Internet zugänglich. In den im Internet veröffentlichten Informationen weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach Absatz 1 zuständig sind.
+
+(4) Nach Eingang der vollständigen Antragsunterlagen erstellt die zuständige Behörde einen Zeitplan für das weitere Verfahren. Den Zeitplan teilt die zuständige Behörde dem Unternehmer und in den Fällen des Absatzes 2 auch der einheitlichen Stelle mit.
+
+(5) Die zuständige Behörde entscheidet über die Zulassung innerhalb der folgenden Fristen:
+
+1. bei Vorhaben zur Gewinnung von Erdwärme, wenn das Vorhaben der Erzeugung von Strom mit einer Kapazität von weniger als 150 Kilowatt dient, innerhalb eines Jahres,
+
+2. bei Vorhaben zur Gewinnung von Erdwärme, wenn das Vorhaben der Erzeugung von Strom mit einer Kapazität von 150 Kilowatt und darüber dient, innerhalb von zwei Jahren.
+
+Die Frist beginnt mit Eingang der vollständigen Antragsunterlagen. Die zuständige Behörde kann die jeweilige Frist um bis zu ein Jahr verlängern, wenn außergewöhnliche Umstände vorliegen. Sie teilt die Fristverlängerung dem Unternehmer und in den Fällen des Absatzes 2 auch der einheitlichen Stelle mit.
 
 # § 58 – Personenkreis
 
