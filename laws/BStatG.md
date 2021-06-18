@@ -131,7 +131,7 @@ a) Angaben aus anderen Wirtschafts- und Umweltstatistiken sowie
 
 b) Daten aus allgemein zugänglichen Quellen.
 
-Zu dem in Satz 1 genannten Zweck dürfen Angaben zu den Erhebungsmerkmalen vorübergehend mit Angaben zu den Hilfsmerkmalen zusammengeführt werden. Das Ersetzen von Angaben durch Daten aus allgemein zugänglichen Quellen darf nur mit Zustimmung des für die der Bundesstatistik zugrundeliegenden Rechtsvorschrift zuständigen Bundesministeriums erfolgen. Soweit Daten nach den Sätzen 1 und 2 verwendet werden, darf von der Erhebung im Übrigen abgesehen werden.
+Zu dem in Satz 1 genannten Zweck dürfen Angaben zu den Erhebungsmerkmalen vorübergehend mit Angaben zu den Hilfsmerkmalen zusammengeführt werden. Das Ersetzen von Angaben durch Daten aus allgemein zugänglichen Quellen darf nur mit Zustimmung des für die der Bundesstatistik zugrunde liegenden Rechtsvorschrift zuständigen Bundesministeriums erfolgen. Soweit Daten nach den Sätzen 1 und 2 verwendet werden, darf von der Erhebung im Übrigen abgesehen werden.
 
 (+++ § 6 Abs. 4: Zur Nichtanwendung vgl. § 93 Abs. 1 Satz 2 AgrStatG (F 2009-03-06) +++)
 

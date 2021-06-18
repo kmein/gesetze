@@ -371,7 +371,7 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 (1) Die Vermittlungsstelle besteht aus einem oder einer unparteiischen, in Werkstattangelegenheiten erfahrenen Vorsitzenden, auf den oder die sich Werkstatt und Werkstattrat einigen müssen, und aus je einem von der Werkstatt und vom Werkstattrat benannten Beisitzer oder einer Beisitzerin. Kommt eine Einigung nicht zustande, so schlagen die Werkstatt und der Werkstattrat je eine Person als Vorsitzenden oder Vorsitzende vor; durch Los wird entschieden, wer als Vorsitzender oder Vorsitzende tätig wird.
 
-(2) Die Vermittlungsstelle hat unverzüglich tätig zu werden. Sie entscheidet nach mündlicher Beratung mit Stimmenmehrheit. Die Beschlüsse der Vermittlungsstelle sind schriftlich niederzulegen und von dem Vorsitzenden oder der Vorsitzenden zu unterschreiben. Werkstatt und Werkstattrat können weitere Einzelheiten des Verfahrens vor der Vermittlungsstelle vereinbaren.
+(2) Die Vermittlungsstelle hat unverzüglich tätig zu werden. Sie entscheidet nach mündlicher Beratung mit Stimmenmehrheit. Die Beschlüsse der Vermittlungsstelle sind schriftlich niederzulegen und von dem Vorsitzenden oder der Vorsitzenden zu unterschreiben oder in elektronischer Form niederzulegen und von dem Vorsitzenden oder der Vorsitzenden mit seiner oder ihrer qualifizierten elektronischen Signatur zu versehen. Werkstatt und Werkstattrat können weitere Einzelheiten des Verfahrens vor der Vermittlungsstelle vereinbaren.
 
 (3) Der Einigungsvorschlag der Vermittlungsstelle ersetzt in den Angelegenheiten nach § 5 Absatz 1 sowie in den Angelegenheiten nach § 5 Absatz 2, die nur einheitlich für Arbeitnehmer und Werkstattbeschäftigte geregelt werden können, nicht die Entscheidung der Werkstatt. Bis dahin ist die Durchführung der Maßnahme auszusetzen. Das gilt auch in den Fällen des § 5 Absatz 5 und 6. Fasst die Vermittlungsstelle in den Angelegenheiten nach § 5 Absatz 1 innerhalb von zwölf Tagen keinen Beschluss für einen Einigungsvorschlag, gilt die Entscheidung der Werkstatt.
 
@@ -587,19 +587,31 @@ Die regelmäßige Amtszeit des Werkstattrats beträgt vier Jahre. Die Amtszeit b
 
 # § 33 – Sitzungen des Werkstattrats
 
-(1) Die Sitzungen des Werkstattrats finden in der Regel während der Beschäftigungszeit statt. Der Werkstattrat hat bei der Ansetzung der Sitzungen auf die Arbeitsabläufe in der Werkstatt Rücksicht zu nehmen. Die Werkstatt ist vom Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Werkstattrats sind nicht öffentlich.
+(1) Die Sitzungen des Werkstattrats finden in der Regel während der Beschäftigungszeit statt. Der Werkstattrat hat bei der Ansetzung der Sitzungen auf die Arbeitsabläufe in der Werkstatt Rücksicht zu nehmen. Die Werkstatt ist vom Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Werkstattrats sind nicht öffentlich. Sie finden als Präsenzsitzung statt.
+
+(1a) Abweichend von Absatz 1 Satz 5 kann die Teilnahme an einer Sitzung des Werkstattrats mittels Video- und Telefonkonferenz erfolgen, wenn
+
+1. die Voraussetzungen für eine solche Teilnahme in der Geschäftsordnung unter Sicherung des Vorrangs der Präsenzsitzung festgelegt sind,
+
+2. nicht mindestens ein Viertel der Mitglieder des Werkstattrats binnen einer von dem Vorsitzenden oder der Vorsitzenden zu bestimmenden Frist diesem oder dieser gegenüber widerspricht und
+
+3. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+
+Eine Aufzeichnung der Sitzung ist unzulässig.
+
+(1b) Erfolgt die Sitzung des Werkstattrats mit der zusätzlichen Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt auch eine Teilnahme vor Ort als erforderlich.
 
 (2) Der Werkstattrat kann die Vertrauensperson (§ 39 Abs. 3) und, wenn und soweit er es für erforderlich hält, ein Mitglied des Betriebs- oder Personalrats oder einer sonstigen Mitarbeitervertretung, eine Schreibkraft oder, nach näherer Vereinbarung mit der Werkstatt, einen Beauftragten oder eine Beauftragte einer in der Werkstatt vertretenen Gewerkschaft auf Antrag eines Viertels der Mitglieder des Werkstattrats, einen Vertreter oder eine Vertreterin eines Verbandes im Sinne des § 8 Abs. 1 oder sonstige Dritte zu seinen Sitzungen hinzuziehen. Für sie gelten die Geheimhaltungspflicht sowie die Offenbarungs- und Verwertungsverbote gemäß § 37 Abs. 6 entsprechend.
 
 # § 34 – Beschlüsse des Werkstattrats
 
-(1) Die Beschlüsse des Werkstattrats werden mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Bei Stimmengleichheit ist ein Antrag abgelehnt.
+(1) Die Beschlüsse des Werkstattrats werden mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Mitglieder des Werkstattrats, die mittels Video- und Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 
 (2) Der Werkstattrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder an der Beschlussfassung teilnimmt; Stellvertretung durch Ersatzmitglieder ist zulässig.
 
 # § 35 – Sitzungsniederschrift
 
-Über die Sitzungen des Werkstattrats ist eine Sitzungsniederschrift aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst wurden, enthält. Die Niederschrift ist von dem Vorsitzenden oder von der Vorsitzenden und einem weiteren Mitglied oder der Vertrauensperson (§ 39 Abs. 3) zu unterzeichnen. Ihr ist eine Anwesenheitsliste beizufügen. Hat die Werkstatt an der Sitzung teilgenommen, so ist ihr der entsprechende Teil der Niederschrift abschriftlich auszuhändigen.
+Über die Sitzungen des Werkstattrats ist eine Sitzungsniederschrift aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst wurden, enthält. Die Niederschrift ist von dem Vorsitzenden oder von der Vorsitzenden und einem weiteren Mitglied oder der Vertrauensperson (§ 39 Abs. 3) zu unterzeichnen. Ihr ist eine Anwesenheitsliste beizufügen. Nimmt ein Mitglied des Werkstattrats mittels Video- und Telefonkonferenz an der Sitzung teil, so hat es seine Teilnahme gegenüber dem Vorsitzenden oder der Vorsitzenden in Textform zu bestätigen. Die Bestätigung ist der Niederschrift beizufügen. Hat die Werkstatt an der Sitzung teilgenommen, so ist ihr der entsprechende Teil der Niederschrift abschriftlich auszuhändigen.
 
 # § 36 – Geschäftsordnung des Werkstattrats
 

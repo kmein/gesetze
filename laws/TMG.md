@@ -511,9 +511,9 @@ Hat ein Diensteanbieter zur Wahrung des Jugendschutzes personenbezogene Daten vo
 
 a) zur Abwehr einer Gefahr für die öffentliche Sicherheit oder
 
-b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
+b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-c) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
+c) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
 
 d) zur Verhütung einer Straftat von erheblicher Bedeutung, sofern Tatsachen die Annahme rechtfertigen, dass eine Person innerhalb eines übersehbaren Zeitraums auf eine ihrer Art nach konkretisierten Weise als Täter oder Teilnehmer an der Begehung einer Tat beteiligt ist, oder
 
@@ -571,9 +571,9 @@ aa)
 zur Abwehr einer Gefahr für die öffentliche Sicherheit oder
 
 bb)  
-zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
+zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes und zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-cc) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass die Gefährdung eines solchen Rechtsgutes in einem übersehbaren Zeitraum eintreten wird, oder
+cc) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass die Gefährdung eines solchen Rechtsgutes in einem übersehbaren Zeitraum eintreten wird, oder
 
 dd)  
 zur Erledigung eines Auskunftsersuchens einer ausländischen Polizeibehörde im Rahmen des polizeilichen Dienstverkehrs zur Verhütung einer Straftat oder
@@ -633,7 +633,7 @@ b) die in die Auskunft aufzunehmenden Daten im Rahmen der Strafvollstreckung erf
 c) die Gefahr besteht, dass eine Person an der Begehung einer schweren Straftat nach § 100a Absatz 2 der Strafprozessordnung beteiligt sein wird und die in die Auskunft aufzunehmenden Daten erforderlich sind, um
 
 aa)  
-die für die Verhütung der Straftat zuständigen Polizeibehörde zu ermitteln, oder
+die für die Verhütung der Straftat zuständige Polizeibehörde zu ermitteln, oder
 
 bb)  
 ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des polizeilichen Dienstverkehrs zur Verhütung der Straftat zu erledigen, oder
@@ -713,7 +713,7 @@ b) zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler
 
 1. zur Verfolgung von Straftaten zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Verfolgung besonders schwerer Straftaten nach § 100b Absatz 2 Nummer 1 Buchstabe a, b, d, e, f, g oder l, Nummer 3 Buchstabe b erste Alternative, Nummer 4, 5, 6 oder 7 der Strafprozessordnung erlauben, nach Anordnung durch ein Gericht verlangen, oder
 
-2. für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Abwehr einer konkreten Gefahr für Leib, Leben oder Freiheit der Person, für die sexuelle Selbstbestimmung, für den Bestand des Bundes oder eines Landes, die freiheitlich demokratische Grundordnung sowie Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, erlauben, nach Anordnung durch ein Gericht verlangen.
+2. für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständige Behörden, soweit diese im Einzelfall die Übermittlung unter Angabe einer gesetzlichen Bestimmung, die ihnen eine Erhebung und Nutzung der in Absatz 1 genannten Daten zur Abwehr einer konkreten Gefahr für Leib, Leben oder Freiheit einer Person, für die sexuelle Selbstbestimmung, für den Bestand des Bundes oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, erlauben, nach Anordnung durch ein Gericht verlangen.
 
 An andere öffentliche und nichtöffentliche Stellen dürfen Daten nach Absatz 1 nicht übermittelt werden. Die Verantwortung für die Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
@@ -729,7 +729,7 @@ An andere öffentliche und nichtöffentliche Stellen dürfen Daten nach Absatz 1
 
 (3) Die Auskunft nach Absatz 1 Satz 1 darf nur erteilt werden an
 
-1. die für die Verfolgung von Straftaten zuständigen Behörden, soweit zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen und die zu erhebenden Daten erforderlich sind, um den Sachverhalt zu erforschen, den Aufenthaltsort eines Beschuldigten zu ermitteln oder eine Strafe zu vollstrecken,
+1. die für die Verfolgung von Straftaten zuständigen Behörden, soweit zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen und die zu erhebenden Daten erforderlich sind, um den Sachverhalt zu erforschen, den Aufenthaltsort eines Beschuldigten zu ermitteln,
 
 2. die für die Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung zuständigen Behörden, soweit dies im Einzelfall erforderlich ist,
 
@@ -741,21 +741,21 @@ die öffentliche Sicherheit; wobei die Auskunft auf die nach § 15 Absatz 1 Satz
 bb)  
 Leib, Leben, Freiheit der Person, die sexuelle Selbstbestimmung, den Bestand und die Sicherheit des Bundes oder eines Landes, die freiheitlich demokratische Grundordnung, Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen bedroht, sowie nicht unerhebliche Sachwerte, oder
 
-b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
+b) zum Schutz von Leib, Leben, Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, sowie nicht unerheblichen Sachwerten, wenn Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-c) zum Schutz von Leib, Leben Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes und der Länder, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
+c) zum Schutz von Leib, Leben Freiheit der Person, sexueller Selbstbestimmung, dem Bestand und der Sicherheit des Bundes oder eines Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird, oder
 
 d) zur Verhütung einer Straftat von erheblicher Bedeutung, sofern Tatsachen die Annahme rechtfertigen, dass eine Person innerhalb eines übersehbaren Zeitraums auf eine ihrer Art nach konkretisierten Weise als Täter oder Teilnehmer an der Begehung einer Tat beteiligt ist, oder
 
 e) zur Verhütung einer schweren Straftat nach § 100a Absatz 2 der Strafprozessordnung, sofern das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass die Person innerhalb eines übersehbaren Zeitraums die Tat begehen wird,
 
-3. das Bundeskriminalamt als Zentralstelle nach § 2 des Bundeskriminalamtgesetzes, sofern im Einzelfall eine erhebliche Gefahr für die öffentliche Sicherheit vorliegt oder zureichende tatsächliche Anhaltspunkte für eine Straftat im Sinne des § 2 Absatz 1 des Bundeskriminalamtgesetzes vorliegen und die Daten erforderlich sind, um die zuständige Strafverfolgungsbehörde oder zuständige Polizeibehörde zu ermitteln; die Auskunft ist beschränkt auf die nach § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes erhobenen Daten,
+3. das Bundeskriminalamt als Zentralstelle nach § 2 des Bundeskriminalamtgesetzes, sofern im Einzelfall eine erhebliche Gefahr für die öffentliche Sicherheit vorliegt oder zureichende tatsächliche Anhaltspunkte für eine Straftat im Sinne des § 2 Absatz 1 des Bundeskriminalamtgesetzes vorliegen und die Daten erforderlich sind, um die zuständige Strafverfolgungsbehörde oder zuständige Polizeibehörde zu ermitteln, wobei die Auskunft auf die nach § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes erhobenen Daten beschränkt ist,
 
 4. das Zollkriminalamt, soweit dies im Einzelfall erforderlich ist, zum Schutz der in § 4 Absatz 1, auch in Verbindung mit Absatz 2, des Außenwirtschaftsgesetzes genannten Rechtsgüter, wenn
 
 a) Tatsachen den Schluss auf ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen beteiligt sein werden, oder
 
-b) wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird,
+b) das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine gegen ein solches Rechtsgut gerichtete Straftat begehen wird,
 
 5. die Verfassungsschutzbehörden des Bundes und der Länder, soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall erforderlich ist zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach
 
@@ -770,7 +770,7 @@ b) einem zum Verfassungsschutz (§ 1 Absatz 1 des Bundesverfassungsschutzgesetze
 a) tatsächliche Anhaltspunkte dafür vorliegen, dass ein wenigstens seiner Art nach konkretisiertes sowie zeitlich absehbares Geschehen besteht, an dem bestimmte Personen beteiligt sein werden, und das
 
 aa)  
-einem der in § 4 Absatz 3 Satz 1 des BND-Gesetzes genannten Gefahrenbereiche unterfällt, oder
+einem der in § 4 Absatz 3 Nummer 1 des BND-Gesetzes genannten Gefahrenbereiche unterfällt, oder
 
 bb)  
 das eines der in § 4 Absatz 3 Nummer 2 und 3 des BND-Gesetzes genannten Rechtsgüter beeinträchtigen wird, oder
@@ -781,7 +781,7 @@ aa)
 der politischen Unterrichtung der Bundesregierung, wenn im Einzelfall tatsächliche Anhaltspunkte für bestimmte Vorgänge im Ausland vorliegen, die von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind und zu deren Aufklärung das Bundeskanzleramt den Bundesnachrichtendienst beauftragt hat, oder
 
 bb)  
-der Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung, wenn im Einzelfall tatsächliche Anhaltspunkte für Vorgänge im Ausland bestehen, die einen Bezug zu den in § 4 Absatz 3 Nummer 1 des BND-Gesetzes genannten Gefahrenbereichen aufweisen oder darauf abzielen oder geeignet sind, die in § 4 Absatz 3 Nummer 2 des BND-Gesetzes genannten Rechtsgüter zu schädigen.
+der Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung, wenn im Einzelfall tatsächliche Anhaltspunkte für Vorgänge im Ausland bestehen, die einen Bezug zu den in § 4 Absatz 3 Nummer 1 des BND-Gesetzes genannten Gefahrenbereichen aufweisen oder darauf abzielen oder geeignet sind, die in § 4 Absatz 3 Nummer 2 und 3 des BND-Gesetzes genannten Rechtsgüter zu schädigen.
 
 (4) Derjenige, der geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran vermittelt, hat die zu beauskunftenden Daten unverzüglich und vollständig zu übermitteln. Eine Verschlüsselung der Daten bleibt unberührt. Über das Auskunftsersuchen und die Auskunftserteilung haben die Verpflichteten gegenüber den Betroffenen sowie Dritten Stillschweigen zu wahren.
 

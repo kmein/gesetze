@@ -72,7 +72,3 @@ Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich als dem 
 # § 7 – Übernahme der Beamten und Arbeitnehmer
 
 Beamte und Arbeitnehmer des Bundesgesundheitsamtes, die zum Zeitpunkt der Errichtung der in den §§ 1 und 2 genannten Bundesinstitute Aufgaben wahrnehmen, die nach diesen Vorschriften den Bundesinstituten obliegen, sind vom selben Zeitpunkt an Beamte und Arbeitnehmer des zuständigen Bundesinstitutes.
-
-# § 8 – Übergangsvorschriften aus Anlass der Auflösung des Deutschen Instituts für Medizinische Dokumentation und Information
-
-Abweichend von § 27 Absatz 2 Nummer 1 auch in Verbindung mit § 60 Absatz 2 Satz 3 des Bundespersonalvertretungsgesetzes finden im Bundesinstitut für Arzneimittel und Medizinprodukte spätestens am 26. November 2020 Neuwahlen des Personalrats sowie der Jugend- und Auszubildendenvertretung statt.

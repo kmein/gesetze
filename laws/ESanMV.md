@@ -15,7 +15,7 @@ Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 d
 
 3. für die Wärmedämmung von Geschossdecken nach der Anlage 3,
 
-4. für die Erneuerung der Fenster oder Außentüren nach der Anlage 4,
+4. für die Erneuerung der Fenster oder Außentüren nach der Anlage 4 und zur Verbesserung des sommerlichen Wärmeschutzes nach der Anlage 4a,
 
 5. für die Erneuerung oder den Einbau einer Lüftungsanlage nach der Anlage 5,
 
@@ -29,7 +29,7 @@ Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den 
 
 # § 2 – Anforderung an ein Fachunternehmen
 
-(1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist:
+(1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist:
 
 1. Mauer- und Betonbauarbeiten,
 
@@ -37,7 +37,7 @@ Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den 
 
 3. Maler- und Lackierungsarbeiten,
 
-4. Zimmer-, Tischler- und Schreinerarbeiten,
+4. Zimmerer-, Tischler- und Schreinerarbeiten,
 
 5. Wärme-, Kälte- und Schallisolierungsarbeiten,
 
@@ -47,137 +47,134 @@ Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den 
 
 8. Dachdeckerarbeiten,
 
-9. Sanitär- und Klempnerarbeiten,
+9. Klempnerarbeiten,
 
 10. Glasarbeiten,
 
-11. Heizungsbau und -installation,
+11. Installateur- und Heizungsbauarbeiten,
 
 12. Kälteanlagenbau,
 
-13. Elektrotechnik- und -installation,
+13. Elektrotechnik und -installation,
 
-14. Metallbau.
+14. Metallbau,
 
-Bei der ausgeführten energetischen Maßnahme muss es sich zudem um eine Maßnahme handeln, die dem Gewerk des Fachunternehmens zugehörig ist.
+15. Ofen- und Luftheizungsbau,
 
-(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes erfüllen zudem Personen mit Ausstellungsberechtigung nach § 21 der Energieeinsparverordnung, sofern
+16. Rollladen- und Sonnenschutztechnik,
+
+17. Schornsteinfegerarbeiten,
+
+18. Fliesen-, Platten- und Mosaiklegerarbeiten,
+
+19. Betonstein- und Terrazzoherstellung.
+
+Als Fachunternehmen im Sinne von § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes gelten auch Unternehmen, die sich auf die Fenstermontage spezialisiert haben und in diesem Bereich gewerblich tätig sind. Bei der ausgeführten energetischen Maßnahme muss es sich zudem um eine Maßnahme handeln, die dem Gewerk des Fachunternehmens zugehörig ist.
+
+(2) Die Voraussetzungen nach § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes erfüllen zudem Personen mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
 
 1. die energetische Maßnahme durch ein Unternehmen ausgeführt wird, das in einem der in Absatz 1 Satz 1 aufgeführten Gewerke tätig ist,
 
 2. die Maßnahme dem Gewerk dieses Unternehmens zugehörig ist und
 
-3. die Person mit Ausstellungsberechtigung nach § 21 der Energieeinsparverordnung durch das Unternehmen oder den Steuerpflichtigen mit der planerischen Begleitung oder Beaufsichtigung der energetischen Maßnahme betraut worden ist.
+3. die Person mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes durch das Unternehmen oder den Steuerpflichtigen mit der planerischen Begleitung oder Beaufsichtigung der energetischen Maßnahme betraut worden ist.
 
-# § 3 – Inkrafttreten
+# § 3 – Anwendungsregelungen
 
-Diese Verordnung tritt am 1. Januar 2020 in Kraft.
+Diese Fassung der Verordnung ist, soweit nachfolgend nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2021 anzuwenden; sie gilt für energetische Maßnahmen, mit denen nach dem 31. Dezember 2020 begonnen wurde. § 2 Absatz 1 Satz 2 in der Fassung des Artikels 1 der Verordnung vom 14. Juni 2021 (BGBl. I S. 1780) ist erstmals auf energetische Maßnahmen anzuwenden, mit deren Durchführung nach dem 31. Dezember 2019 begonnen wurde.
+
+# § 4 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. Januar 2020 in Kraft. Diese Verordnung tritt mit Ablauf des 31. Dezember 2029 außer Kraft.
 
 # Anlage 1 – Wärmedämmung von Wänden
 
-(Fundstelle: BGBl. I 2020, 5)
+(Fundstelle: BGBl. I 2021, 1782)
 
-Die in nachfolgender Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei der Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
+Die in der nachfolgenden Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei der Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
 
-Für Bauteile von Gebäuden mit Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz im Sinne des § 24 Absatz 1 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, gelten jeweils reduzierte Anforderungswerte. Für Bauteile ohne entsprechende Auflagen sind die nicht reduzierten Anforderungswerte einzuhalten.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 11%" /><col style="width: 63%" /><col style="width: 26%" /></colgroup><thead><tr class="header"><th style="text-align: left;">lfd. Nummer</th><th>Bauteil</th><th style="text-align: center;">Höchstwerte der<br />
+Wärmedurchgangskoeffizienten U<sub>max</sub> in W/(m² K) bzw. der<br />
+max. Wärmeleitfähigkeit<br />
+λ in W/(m K)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1.1</td><td>Außenwand</td><td style="text-align: center;">0,20</td></tr><tr class="even"><td style="text-align: left;">1.2</td><td>Einblasdämmung/Kerndämmung bei bestehendem zweischaligen Mauerwerk</td><td style="text-align: center;"><br />
+λ≤ 0,035</td></tr><tr class="odd"><td style="text-align: left;">1.3</td><td>Außenwände von Baudenkmalen und von sonstiger besonders erhaltenswerter Bausubstanz</td><td style="text-align: center;"><br />
+0,45</td></tr><tr class="even"><td style="text-align: left;">1.4</td><td>Außenwände mit Sichtfachwerk (Innendämmung bei Fachwerkaußenwänden, Erneuerung der Ausfachungen)</td><td style="text-align: center;"><br />
+0,65</td></tr><tr class="odd"><td style="text-align: left;">1.5</td><td>Wände gegen Erdreich oder unbeheizte Räume sowie Kellerräume</td><td style="text-align: center;">0,25</td></tr></tbody></table>
 
-Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 61%" /><col style="width: 27%" /></colgroup><thead><tr class="header"><th style="text-align: left;">lfd. Nummer</th><th style="text-align: left;">Bauteil</th><th style="text-align: center;">Maximaler U-Wert in W/(m² K)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1.1</td><td style="text-align: left;">Außenwand</td><td style="text-align: center;">0,20</td></tr><tr class="even"><td style="text-align: left;">1.2</td><td style="text-align: left;">Kerndämmung bei zweischaligem Mauerwerk</td><td style="text-align: center;">Wärmeleitfähigkeit<br />
-λ≤ 0,035 W/(mK)</td></tr><tr class="odd"><td style="text-align: left;">1.3</td><td style="text-align: left;">Außenwände von Baudenkmalen und erhaltenswerter Bausubstanz</td><td style="text-align: center;">0,45</td></tr><tr class="even"><td style="text-align: left;">1.4</td><td style="text-align: left;">Innendämmung bei Fachwerkaußenwänden sowie Erneuerung der Ausfachungen</td><td style="text-align: center;">0,65</td></tr><tr class="odd"><td style="text-align: left;">1.5</td><td style="text-align: left;">Wandflächen gegen unbeheizte Räume</td><td style="text-align: center;">0,25</td></tr><tr class="even"><td style="text-align: left;">1.6</td><td style="text-align: left;">Wandflächen gegen Erdreich</td><td style="text-align: center;">0,25</td></tr></tbody></table>
-
-Die Anforderungen der Energieeinsparverordnung zur Begrenzung des Wärmedurchgangs bei erstmaligem Einbau, Ersatz oder Erneuerung von Außenbauteilen bestehender Gebäude sind zu beachten.
-
-Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten.
-
-Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
-
-Sofern bei zweischaligem Mauerwerk nur eine Kerndämmung nachträglich durchgeführt und dabei die bestehende Außenschale nicht entfernt wird, ist der Hohlraum vollständig mit Dämmstoff zu verfüllen.
-
-Sofern Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz bei einer Dämmung der Außenwand bestehen, ist die danach zulässige, höchstmögliche Dämmschichtdicke einzubauen und ist ein U-Wert von U<sub>AW</sub>≤ 0,45 W/(m² K) einzuhalten. Voraussetzung für die Förderung der Dämmmaßnahme ist die Bestätigung des Fachunternehmens, dass aufgrund von Auflagen des Denkmalschutzes beziehungsweise zum Schutz sonstiger besonders erhaltenswerter Bausubstanz oder auch aus bauphysikalischen Gründen nur der jeweils erreichte U-Wert möglich ist.
-
-Zu beachten sind die besonderen bauphysikalischen Anforderungen bei Innenwanddämmung im Hinblick auf Tauwasserbildung und Wärmebrücken bei Planung und Ausführung.
+Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
 
 # Anlage 2 – Wärmedämmung von Dachflächen
 
-(Fundstelle: BGBl. I 2020, 6)
+(Fundstelle: BGBl. I 2021, 1783)
 
-Die in nachfolgender Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
+Die in der nachfolgenden Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
 
-Für Bauteile von Gebäuden mit Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz im Sinne des § 24 Absatz 1 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, gelten jeweils reduzierte Anforderungswerte. Für Bauteile ohne entsprechende Auflagen sind die nicht reduzierten Anforderungswerte einzuhalten.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 11%" /><col style="width: 63%" /><col style="width: 26%" /></colgroup><thead><tr class="header"><th style="text-align: left;">lfd. Nummer</th><th>Bauteil</th><th style="text-align: center;">Höchstwerte der<br />
+Wärmedurchgangskoeffizienten U<sub>max</sub> in W/(m² K) bzw. der<br />
+max. Wärmeleitfähigkeit<br />
+λ in W/(m K)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">2.1</td><td>Dachflächen von Schrägdächern und dazugehörigen Kehlbalkenlagen</td><td style="text-align: center;">0,14</td></tr><tr class="even"><td style="text-align: left;">2.2</td><td>Dachgauben</td><td style="text-align: center;">0,20</td></tr><tr class="odd"><td style="text-align: left;">2.3</td><td>Flachdächer und Dachflächen mit Abdichtung</td><td style="text-align: center;">0,14</td></tr><tr class="even"><td style="text-align: left;">2.4</td><td>Dachflächen bei Baudenkmalen und sonstiger besonders erhaltenswerter Bausubstanz höchstmögliche Dämmschichtdicke (Flachdächer, Schrägdächer sowie dazugehörige Kehlbalkenlagen, Dachgauben oder oberste Geschossdecken)</td><td style="text-align: center;"><br />
+<br />
+<br />
+λ≤ 0,040</td></tr></tbody></table>
 
-Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile
-
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 61%" /><col style="width: 27%" /></colgroup><thead><tr class="header"><th>lfd. Nummer</th><th style="text-align: left;">Bauteil</th><th style="text-align: center;">Maximaler U-Wert in W/(m² K)</th></tr></thead><tbody><tr class="odd"><td>2.1</td><td style="text-align: left;">Schrägdächer und dazugehörige Kehlbalkenlagen</td><td style="text-align: center;">0,14</td></tr><tr class="even"><td>2.2</td><td style="text-align: left;">Dachflächen von Gauben</td><td style="text-align: center;">0,20</td></tr><tr class="odd"><td>2.3</td><td style="text-align: left;">Gaubenwangen</td><td style="text-align: center;">0,20</td></tr><tr class="even"><td>2.4</td><td style="text-align: left;">Flachdächer</td><td style="text-align: center;">0,14</td></tr><tr class="odd"><td>2.5</td><td style="text-align: left;">Alternativ bei Baudenkmalen und erhaltenswerter Bausubstanz höchstmögliche Dämmschichtdicke</td><td style="text-align: center;">Wärmeleitfähigkeit<br />
-λ≤ 0,040 W/(mK)</td></tr></tbody></table>
-
-Die Anforderungen der Energieeinsparverordnung zur Begrenzung des Wärmedurchgangs bei erstmaligem Einbau, Ersatz oder Erneuerung von Außenbauteilen bestehender Gebäude sind zu beachten.
-
-Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten.
-
-Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
-
-Ist die Möglichkeit zur Wärmedämmung eines Daches durch Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz begrenzt, so gilt die Bauteilanforderung als erfüllt, wenn die nach anerkannten Regeln der Technik höchstmögliche Dämmschichtdicke (bei einem Bemessungswert der Wärmeleitfähigkeit von λ≤ 0,040 W/(m² K)) eingebaut wird.
+Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
 
 # Anlage 3 – Wärmedämmung von Geschossdecken
 
-(Fundstelle: BGBl. I 2020, 7)
+(Fundstelle: BGBl. I 2021, 1784)
 
-Die in nachfolgender Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
+Die in der nachfolgenden Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
 
-Für Bauteile von Gebäuden mit Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz im Sinne des § 24 Absatz 1 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, gelten jeweils reduzierte Anforderungswerte. Für Bauteile ohne entsprechende Auflagen sind die nicht reduzierten Anforderungswerte einzuhalten.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 11%" /><col style="width: 63%" /><col style="width: 26%" /></colgroup><thead><tr class="header"><th style="text-align: left;">lfd. Nummer</th><th>Bauteil</th><th style="text-align: center;">Höchstwerte der<br />
+Wärmedurchgangskoeffizienten U<sub>max</sub> in W/(m² K) bzw. der<br />
+max. Wärmeleitfähigkeit<br />
+λ in W/(m K)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">3.1</td><td>Oberste Geschossdecken und Wände (einschließlich Abseitenwände) gegen unbeheizte Dachräume</td><td style="text-align: center;"><br />
+0,14</td></tr><tr class="even"><td style="text-align: left;">3.2</td><td>Decken gegen unbeheizte Räume sowie Kellerdecken</td><td style="text-align: center;">0,25</td></tr><tr class="odd"><td style="text-align: left;">3.3</td><td>Geschossdecken gegen Außenluft von unten</td><td style="text-align: center;">0,20</td></tr><tr class="even"><td style="text-align: left;">3.4</td><td>Bodenflächen gegen Erdreich</td><td style="text-align: center;">0,25</td></tr></tbody></table>
 
-Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile
-
-| lfd. Nummer | Bauteil                                                | Maximaler U-Wert in W/(m² K) |
-|-------------|--------------------------------------------------------|:----------------------------:|
-| 3.1         | Oberste Geschossdecken zu nicht ausgebauten Dachräumen |             0,14             |
-| 3.2         | Kellerdecken, Decken zu unbeheizten Räumen             |             0,25             |
-| 3.3         | Geschossdecken nach unten gegen Außenluft              |             0,20             |
-| 3.4         | Bodenflächen gegen Erdreich                            |             0,25             |
-
-Die Anforderungen der Energieeinsparverordnung zur Begrenzung des Wärmedurchgangs bei erstmaligem Einbau, Ersatz oder Erneuerung von Außenbauteilen bestehender Gebäude sind zu beachten.
-
-Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten.
-
-Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
+Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
 
 # Anlage 4 – Erneuerung der Fenster oder Außentüren
 
-(Fundstelle: BGBl. I 2020, 8 - 9)
+(Fundstelle: BGBl. I 2021, 1785)
 
-Die in nachfolgender Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
+Die in der nachfolgenden Tabelle genannten Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) sind bei Sanierung der jeweiligen Bauteile einzuhalten. Die Anforderungen beziehen sich nur auf die wärmeübertragenden Umfassungsflächen.
 
-Für Bauteile von Gebäuden mit Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz im Sinne des § 24 Absatz 1 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, gelten jeweils reduzierte Anforderungswerte. Für Bauteile ohne entsprechende Auflagen sind die nicht reduzierten Anforderungswerte einzuhalten.
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 11%" /><col style="width: 63%" /><col style="width: 26%" /></colgroup><thead><tr class="header"><th style="text-align: left;">lfd. Nummer</th><th>Bauteil</th><th style="text-align: center;">Höchstwerte der<br />
+Wärmedurchgangskoeffizienten U<sub>max</sub> in W/(m² K)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">4.1</td><td>Fenster, Balkon- und Terrassentüren<span id="FnR.FnA1-F816958_01"></span><a href="#FnA1-F816958_01" class="FnR">1</a></sup></td><td style="text-align: center;">0,95</td></tr><tr class="even"><td style="text-align: left;">4.2</td><td>Barrierearme oder einbruchhemmende Fenster, Balkon- und Terrassentüren</td><td style="text-align: center;"><br />
+1,1</td></tr><tr class="odd"><td style="text-align: left;">4.3</td><td>Fenster, Balkon- und Terrassentüren mit Sonderverglasung (Verglasung zum Schall- und Brandschutz sowie zur Durchschuss-, Durchbruch- und Sprengwirkungshemmung)</td><td style="text-align: center;"><br />
+<br />
+1,1</td></tr><tr class="even"><td style="text-align: left;">4.4</td><td>Ertüchtigung von Fenstern, Balkon- und Terrassentüren, von Kastenfenstern sowie von Fenstern mit Sonderverglasung</td><td style="text-align: center;"><br />
+1,3</td></tr><tr class="odd"><td style="text-align: left;">4.5</td><td>Dachflächenfenster</td><td style="text-align: center;">1,0</td></tr><tr class="even"><td style="text-align: left;">4.6</td><td>Fenster, Balkon- und Terrassentüren von Baudenkmalen und von sonstiger besonders erhaltenswerter Bausubstanz</td><td style="text-align: center;"><br />
+1,4</td></tr><tr class="odd"><td style="text-align: left;">4.7</td><td>Fenster, Balkon- und Terrassentüren mit echten glasteilenden Sprossen bei Baudenkmalen und bei sonstiger besonders erhaltenswerter Bausubstanz</td><td style="text-align: center;"><br />
+<br />
+1,6</td></tr><tr class="even"><td style="text-align: left;">4.8</td><td>Ertüchtigung von Fenstern, Balkon- und Terrassentüren an Baudenkmalen oder sonstiger besonders erhaltenswerter Bausubstanz</td><td style="text-align: center;"><br />
+1,6</td></tr><tr class="odd"><td style="text-align: left;">4.9</td><td>Außentüren beheizter Räume, Hauseingangstüren<span id="FnR.FnA1-F816958_02"></span><a href="#FnA1-F816958_02" class="FnR">2</a></sup></td><td style="text-align: center;">1,3</td></tr><tr class="even"><td style="text-align: left;">4.10</td><td>Glasdächer</td><td style="text-align: center;">1,6</td></tr><tr class="odd"><td style="text-align: left;">4.11</td><td>Lichtbänder und Lichtkuppeln</td><td style="text-align: center;">1,5</td></tr><tr class="even"><td style="text-align: left;">4.12</td><td>Vorhangfassaden</td><td style="text-align: center;">1,3</td></tr></tbody></table>
 
-Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile
+<span id="FnA1-F816958_01"></span><a href="#FnR.FnA1-F816958_01" class="Footnote">1</a>  
+U<sub>max</sub> bezieht sich auf den U<sub>W</sub>-Wert.
 
-<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 61%" /><col style="width: 27%" /></colgroup><thead><tr class="header"><th>lfd. Nummer</th><th>Bauteil</th><th style="text-align: center;">Maximaler U-Wert in W/(m² K)</th></tr></thead><tbody><tr class="odd"><td>4.1</td><td>Fenster, Balkon- und Terrassentüren mit Mehrscheibenisolierverglasung</td><td style="text-align: center;">0,95</td></tr><tr class="even"><td>4.2</td><td>Barrierearme oder einbruchhemmende Fenster, Balkon- und Terrassentüren</td><td style="text-align: center;">1,1 </td></tr><tr class="odd"><td>4.3</td><td>Ertüchtigung von Fenstern und Kastenfenstern sowie Fenster mit Sonderverglasung</td><td style="text-align: center;">1,3 </td></tr><tr class="even"><td>4.4</td><td>Dachflächenfenster</td><td style="text-align: center;">1,0 </td></tr><tr class="odd"><td>4.5</td><td>Austausch von Fenstern an Baudenkmalen oder erhaltenswerter Bausubstanz</td><td style="text-align: center;">1,4 <br />
-bei echten glasteilenden Sprossen: 1,6 W/(m² K)</td></tr><tr class="even"><td>4.6</td><td>Ertüchtigung von Fenstern an Baudenkmalen oder erhaltenswerter Bausubstanz</td><td style="text-align: center;">1,6 </td></tr><tr class="odd"><td>4.7</td><td>Außentüren beheizter Räume</td><td style="text-align: center;">1,3 </td></tr></tbody></table>
+<span id="FnA1-F816958_02"></span><a href="#FnR.FnA1-F816958_02" class="Footnote">2</a>  
+U<sub>max</sub> bezieht sich auf den U<sub>D</sub>-Wert.
 
-Die Anforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, zur Begrenzung des Wärmedurchgangs bei erstmaligem Einbau, Ersatz oder Erneuerung von Außenbauteilen bestehender Gebäude sind zu beachten.
+Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
 
-Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten.
+Sonderverglasungen sind die in Fußnote 4 der Tabelle in Anlage 7 des Gebäudeenergiegesetzes beschriebenen Verglasungen zum Schallschutz, Brandschutz sowie zur Durchschusshemmung, Durchbruchhemmung oder Sprengwirkungshemmung, die aufgrund von Vorschriften der Landesbauordnung oder anderer Vorschriften für den bestimmungsgemäßen Betrieb eines Gebäudes einzubauen sind.
 
-Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
-
-Gefördert werden die Erneuerung durch Austausch oder Ertüchtigung von Fenstern, Fenstertüren und Außentüren sowie der erstmalige Einbau von Außentüren, Fenstern und Fenstertüren einschließlich außenliegender Sonnenschutzeinrichtungen nach DIN 4108-2. Dabei sind die in der Tabelle genannten Anforderungen an den Wärmedurchgangskoeffizienten (U-Werte) einzuhalten.
-
-Bedingung für die Förderung von Fenstern und Fenstertüren ist, dass der U-Wert der Außenwand und/oder des Daches kleiner ist als der U<sub>W</sub>-Wert der neu eingebauten Fenster und Fenstertüren. Diese Mindestanforderung darf gleichwertig erfüllt werden, indem durch weitere Maßnahmen Tauwasser- und Schimmelbildung weitestgehend ausgeschlossen werden.
-
-Ist aus Gründen des Denkmalschutzes oder des Schutzes sonstiger besonders erhaltenswerter Bausubstanz die Einhaltung der vorgegebenen U<sub>W</sub>-Werte bei der Erneuerung von Fenstern nicht möglich, können Fenster durch Ertüchtigung mit einem U<sub>W</sub>-Wert von maximal 1,6 W/(m² K) und ansonsten durch Austausch mit einem U<sub>W</sub>-Wert von maximal 1,4 W/(m² K), bei echten glasteilenden Sprossen 1,6 W/(m² K), gefördert werden. Voraussetzung ist die Bestätigung des Fachunternehmens, dass aufgrund von Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz die Erneuerung von Fenstern nur durch die Ertüchtigung oder den Austausch nach diesen U<sub>W</sub>-Werten möglich ist.
-
-Sonderverglasungen entsprechend Nummer 4.3 der Tabelle „Anforderungen an die Wärmedurchgangskoeffizienten (U-Werte) der jeweiligen Bauteile“ sind die in Anlage 3 Nummer 2 der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, beschriebenen Verglasungen zum Schallschutz, Brandschutz sowie zur Durchschusshemmung, Durchbruchhemmung oder Sprengwirkungshemmung, die aufgrund von Vorschriften der Landesbauordnung oder anderer Vorschriften für den bestimmungsgemäßen Betrieb eines Gebäudes einzubauen sind.
-
-Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen diese mit einem geringen Kraftaufwand bedient werden können. Beim Ver- und Entriegeln der Fenster muss das Drehmoment am Fenstergriff kleiner als 5 Nm und die auf das Hebelende aufgebrachte Kraft kleiner 30 N sein. Die Fenstergriffe dürfen nicht höher als 1,05 m über dem Fußboden angeordnet sein. Ist dies baustrukturell nicht möglich, sind automatische Öffnungs- und Schließsysteme förderfähig. Bei Balkon- und Terrassentüren darf die untere Schwelle eine Höhe von 2 cm nicht überschreiten.
+Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen diese mit einem geringen Kraftaufwand bedient werden können. Beim Ver- und Entriegeln der Fenster muss das Drehmoment am Fenstergriff kleiner als 5 Nm und die auf das Hebelende aufgebrachte Kraft kleiner als 30 N sein. Die Fenstergriffe dürfen nicht höher als 1,05 m über dem Fußboden angeordnet sein. Ist dies baustrukturell nicht möglich, sind automatische Öffnungs- und Schließsysteme förderfähig. Bei Balkon- und Terrassentüren darf die untere Schwelle eine Höhe von 2 cm nicht überschreiten.
 
 Beim Einbau einbruchhemmender Fenster, Balkon- und Terrassentüren müssen diese die Widerstandsklasse RC 2 nach DIN EN 1627 oder besser aufweisen (auch ohne Nachweis über die Berücksichtigung der Festigkeit und Ausführung der umgebenden Wände).
 
+# Anlage 4a – Sommerlicher Wärmeschutz
+
+(Fundstelle: BGBl. I 2021, 1786)
+
+Gefördert wird der Ersatz oder erstmalige Einbau von außenliegenden Sonnenschutzeinrichtungen mit optimierter Tageslichtversorgung zum Beispiel über Lichtlenksysteme oder strahlungsabhängige Steuerung. Dabei sind die Vorgaben der DIN 4108-2:2013-02 zum sommerlichen Mindestwärmeschutz einzuhalten.
+
 # Anlage 5 – Erneuerung oder Einbau einer Lüftungsanlage
 
-(Fundstelle: BGBl. I 2020, 10)
+(Fundstelle: BGBl. I 2021, 1787)
 
-Förderfähig sind folgende Lüftungsanlagen:
+Förderfähig sind folgende Anlagensysteme:
 
 –  
 Bedarfsgeregelte zentrale Abluftsysteme, die feuchte-, kohlendioxid- oder mischgasgeführt sind und eine spezifische elektrische Leistungsaufnahme der Ventilatoren von P<sub>el,Vent</sub>≤ 0,20 W/(m³/h) aufweisen.
@@ -194,13 +191,13 @@ ein Wärmebereitstellungsgrad von η<sub>WBG</sub>≥ 75 Prozent bei einer spezi
 erreicht wird.
 
 –  
-Kompaktgeräte für energieeffiziente Gebäude mit folgenden Eigenschaften:
+Kompaktgeräte mit Luft-Luft-Wärmeübertrager und mit Abluftwärmepumpe, mit denen
 
 –  
-Kompaktgeräte mit Luft-Luft-Wärmeübertrager und Abluftwärmepumpe, mit denen
+ein Wärmebereitstellungsgrad von η<sub>WBG</sub>≥ 75 Prozent bei
 
 –  
-ein Wärmebereitstellungsgrad von η<sub>WBG</sub>≥ 75 Prozent bei einer Jahresarbeitszahl von ε<sub>WP;m</sub>≥ 3,50 und
+einer jahreszeitbedingten Raumheizungseffizienz von η<sub>s</sub> (ETA S) ≥ 140 Prozent (bei 35 °C) und
 
 –  
 eine spezifische elektrische Leistungsaufnahme der Ventilatoren von P<sub>el,Vent</sub>≤ 0,45 W/(m³/h)
@@ -208,10 +205,7 @@ eine spezifische elektrische Leistungsaufnahme der Ventilatoren von P<sub>el,Ven
 erreicht wird.
 
 –  
-Kompaktgeräte mit Luft-Luft-/Wasserwärmepumpe ohne Luft-Luft-Wärmeübertrager, mit denen eine Jahresarbeitszahl von ε<sub>WP;m</sub>≥ 3,50 bei einer spezifischen elektrischen Leistungsaufnahme der Ventilatoren von  
-P<sub>el,Vent</sub>≤ 0,35 W/(m³/h) erreicht wird.
-
-Eine Lüftungsanlage muss einreguliert sein und mindestens in der Lage sein, die in DIN 1946‑6 genannten planmäßigen Außenluftvolumenströme (Lüftung zum Feuchteschutz) für das Gebäude beziehungsweise für mindestens sämtliche Nutzungseinheiten sicherzustellen.
+Kompaktgeräte ohne Luft-Luft-Wärmeübertrager und mit Abluftwärmepumpe, mit denen eine jahreszeitbedingte Raumheizungseffizienz von η<sub>s</sub> (ETA S) ≥ 140 Prozent (bei 35 °C) bei einer spezifischen elektrischen Leistungsaufnahme der Ventilatoren von P<sub>el,Vent</sub>≤ 0,35 W/(m³/h) erreicht wird. Eine Lüftungsanlage muss einreguliert sein und mindestens in der Lage sein, die in DIN 1946‑6 genannte Lüftung zum Feuchteschutz für das Gebäude beziehungsweise für mindestens sämtliche Nutzungseinheiten sicherzustellen.
 
 Die jeweiligen Anforderungen an die spezifische elektrische Leistungsaufnahme von Ventilatoren und an den Wärmebereitstellungsgrad von Lüftungsanlagen werden gleichwertig erfüllt, wenn die Lüftungsanlage einen spezifischen Energieverbrauch von SEV &lt; 26 kWh / (m² a) gemäß Ökodesign-Richtlinie aufweist.
 
@@ -219,223 +213,300 @@ Lüftungsanlagen müssen die zum Zeitpunkt des Einbaus geltenden Anforderungen d
 
 # Anlage 6 – Erneuerung der Heizungsanlage
 
-(Fundstelle: BGBl. I 2020, 11 - 16)
-
-Gegenstand der Förderung sind die Errichtung oder Erweiterung von Solarkollektoranlagen zur thermischen Nutzung, die mindestens einem der folgenden Zwecke dienen:
+(Fundstelle: BGBl. I 2021, 1788 - 1792)
 
 –  
-Warmwasserbereitung,
+Alle Energieverbräuche sowie alle erzeugten Wärmemengen eines förderfähigen Wärmeerzeugers müssen messtechnisch erfasst werden.
 
 –  
-Raumheizung,
+Ausnahmen: Bei förderfähigen Biomasseheizungen müssen lediglich die erzeugten Wärmemengen gemessen werden. Eine Effizienzanzeigepflicht besteht nicht. Bei förderfähigen Wärmepumpen, die über das Medium Luft heizen, müssen spätestens ab dem 1. Januar 2023 die Wärmemengen gemessen werden. Eine Energieverbrauchsbilanzierung nach DIN EN 12831 Beiblatt 2 ist dabei zulässig.
 
 –  
-kombinierte Warmwasserbereitung und Raumheizung.
-
-Solaranlagen mit Kollektoren ohne transparente Abdeckung auf der Frontseite sind nicht förderfähig (zum Beispiel Schwimmbadabsorber).
-
-Eine Förderung setzt voraus, dass die Anlage die folgenden technischen Voraussetzungen erfüllt:
+Alle förderfähigen Heizsysteme müssen bis spätestens 1. Januar 2023 mit einer Energieverbrauchs- und Effizienzanzeige ausgestattet sein.
 
 –  
-Förderfähige Anlagen müssen, mit Ausnahme von Luftkollektoren, mit einem geeigneten Funktionskontrollgerät bzw. einem Wärmemengenzähler ausgestattet sein. Bei Vakuumröhrenkollektoren und Vakuumflachkollektoren ab 20 m² oder Flachkollektoren ab 30 m² ist mindestens ein Wärmemengenzähler im Kollektorkreislauf erforderlich.
+Durchführungen des hydraulischen Abgleichs nach Verfahren A oder B gemäß Bestätigungsformular des hydraulischen Abgleichs des Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich). Bei luftgeführten Systemen sind die Luftvolumenströme anzupassen.
 
 –  
-Solarkollektoren sind nur förderfähig, sofern sie das europäische Zertifizierungszeichen Solar Keymark tragen. Das Solar Keymark-Zertifikat sowie der dem Zertifikat zugrunde liegende Prüfbericht nach EN 12975‑2 oder EN ISO 9806 eines nach ISO 17025 akkreditierten Prüfinstituts müssen vorliegen.
+Anpassung der Heizkurve an das Gebäude.
+
+Gegenstand der Förderung ist die Errichtung oder Erweiterung von Solarkollektoranlagen zur thermischen Nutzung, die überwiegend (d. h. mit mehr als 50 Prozent der erzeugten Wärme oder Kälte) mindestens einem der folgenden Zwecke dienen:
 
 –  
-Solarkollektoren können nur gefördert werden, wenn anhand des Solar Keymark-Zertifikats ein jährlicher Kollektorertrag Qkol von mindestens 525 kWh/m² nachgewiesen wird. Der Nachweis von Qkol erfolgt auf Basis der Kollektorerträge Ceff bei 25 °C und 50 °C am Standort Würzburg und berechnet sich wie folgt:
-
-Qkol = 0,38 (W256/Aap<span id="FnR.F810101_01"></span><a href="#F810101_01" class="FnR">1</a></sup> – Ceff<span id="FnR.F810101_02"></span><a href="#F810101_02" class="FnR">2</a></sup> ) + 0,71 (W50<span id="FnR.F810101_03"></span><a href="#F810101_03" class="FnR">3</a></sup> /Aap – Ceff). Dies gilt nicht für bereits als förderfähig eingestufte Kollektoren, solange diese über ein gültiges Solar Keymark-Zertifikat verfügen.
+der Warmwasserbereitung,
 
 –  
-Solarkollektoranlagen zur ausschließlichen Warmwasserbereitung müssen eine Mindestkollektorfläche von 3 m² und einen Wärmespeicher mit einem Mindestspeichervolumen von 200 Litern aufweisen. Solarkollektoranlagen für die sonstigen Einsatzzwecke müssen eine Mindestkollektorfläche von 9 m² bei einem Einsatz von Flachkollektoren und 7 m² bei Vakuumröhrenkollektoren und Vakuumflachkollektoren haben und bei Nutzung zur Raumheizung mit einem Wärmespeicher ausreichender Kapazität ausgestattet sein. Als Pufferspeicher sind mindestens folgende Wärmespeichervolumina pro Quadratmeter Bruttokollektorfläche erforderlich:
+der Raumheizung,
 
 –  
-40 Liter (bei Flachkollektoren),
+der kombinierten Warmwasserbereitung und der Raumheizung,
 
 –  
-50 Liter (bei Vakuumröhrenkollektoren und Vakuumflachkollektoren).
-
-Diese Angaben beziehen sich auf Wasser als Wärmespeichermedium. Bei Verwendung anderer Speichermedien ist bei der Antragstellung nachzuweisen, dass mit dem gewählten Speichervolumen eine vergleichbare Mindestspeicherkapazität erreicht wird.
-
-Gegenstand der Förderung sind die Errichtung oder Erweiterung von Biomasseanlagen für die thermische Nutzung von 5 bis einschließlich 100 kW Nennwärmeleistung in Gestalt von
+der solaren Kälteerzeugung,
 
 –  
-automatisch beschickten Anlagen zur Verbrennung von fester Biomasse oder
+der Zuführung der Wärme und in ein Wärmenetz im Sinne von Nummer 6.9 („Gebäudenetz“).
+
+Die Anlagen sind so zu realisieren, dass erneuerbare Energien im Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend zu Zwecken der Raumwärmeversorgung genutzt werden.
+
+Nicht förderfähig sind Solaranlagen mit Kollektoren ohne transparente Abdeckung auf der Frontseite (zum Beispiel Schwimmbadabsorber).
 
 –  
-besonders emissionsarmen Scheitholzvergaserkesseln.
-
-Zu den förderfähigen Anlagen zählen:
+Unabhängige Prüfung/Zertifizierung nach Solar Keymark eines nach ISO 17025 akkreditierten Prüfinstituts:
 
 –  
-Kessel zur Verbrennung von Biomassepellets und -hackschnitzeln,
+jährlicher Kollektorertrag Q <sub>kOl</sub> für flüssigkeitsdurchströmte Kollektoren von mindestens 525 kWh/m²;
 
 –  
-Pelletöfen mit Wassertasche,
+der Nachweis von Q <sub>kOl</sub> erfolgt auf Basis der Kollektorerträge bei 25 °C und 50 °C am Standort Würzburg und berechnet sich wie folgt:
+
+Q <sub>kOl</sub> = 0,38 (W25 / A<sub>ap</sub> – C <sub>eff</sub>) + 0,71 (W50 / A<sub>ap</sub> – C <sub>eff</sub>).
 
 –  
-Kombinationskessel zur Verbrennung von Biomassepellets bzw. Hackschnitzeln und Scheitholz,
+Eine Förderung setzt voraus, dass die Anlage die folgenden Voraussetzungen erfüllt:
 
 –  
-besonders emissionsarme Scheitholzvergaserkessel.
-
-Von der Förderung ausgeschlossen sind:
+förderfähige Solarkollektoranlagen müssen mit einem Funktionskontrollgerät (Solarregelung) ausgestattet sein (Luftkollektoren sind ausgenommen);
 
 –  
-Pelletöfen (Warmluftgeräte),
+bei Vakuumröhren- und Vakuumflachkollektoren ab 20 m² oder Flachkollektoren ab 30 m² ist die Erfassung der solaren Erträge im Kollektorkreislauf erforderlich, zum Beispiel mit einem Wärmemengenzähler oder einer Solarregelung mit entsprechender Option.
 
 –  
-Anlagen, die überwiegend der Verfeuerung von Abfallstoffen aus der gewerblichen Be- und Verarbeitung von Holz dienen,
+Solarkollektoren sind nur förderfähig, sofern sie das europäische Zertifizierungszeichen Solar Keymark tragen. Das Solar Keymark-Zertifikat sowie der dem Zertifikat zugrunde liegende Prüfbericht nach EN 12975-2 oder EN ISO 9806 müssen vorliegen.
+
+Gefördert wird die Installation von Anlagen zur Verbrennung von fester Biomasse gemäß § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder Nummer 13 der Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV). Förderfähig sind Anlagen, bei denen die erneuerbaren Energien im Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend (d. h. mit mehr als 50 Prozent der erzeugten Wärme bzw. Kälte) mindestens einem der folgenden Zwecke dienen:
 
 –  
-Zentralheizungsanlagen, die unter Naturzugbedingungen arbeiten,
+der Warmwasserbereitung,
 
 –  
-Anlagen zum Einsatz von Biomasse, für die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen (17. Bundes-Immissionsschutzverordnung – BImSchV) in der Fassung des Artikels 3 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754) Anwendung findet,
+der Raumheizung,
 
 –  
-Anlagen zur Beseitigung bestimmter Abfälle, die einer Behandlung vor einer Ablagerung zugeführt werden. Eine Förderung kann gewährt werden, wenn die nachfolgenden technischen Fördervoraussetzungen für kleine Biomasse-Anlagen erfüllt sind.
-
-1. Fördervoraussetzung ist der Nachweis des hydraulischen Abgleichs der Heizungsanlage gemäß Verfahren A oder B des VdZ-Formulars (VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V.).
-
-2. Es müssen folgende Anforderungen eingehalten werden:
-
-a) Förderfähig sind Feuerungsanlagen für den Einsatz naturbelassener Biomasse gemäß § 3 Absatz 1 Nummer 4, 5, 5a, 8 oder 13 der Verordnung über kleine und mittlere Feuerungsanlagen (1. BImSchV) in der Fassung vom 26. Januar 2010 (BGBl. I S. 38).
-
-b) Es muss die Schornsteinfegerabnahmebescheinigung vorgelegt werden, bei Scheitholzanlagen erst ab einem Inbetriebnahmedatum nach dem 31. Dezember 2015.
-
-c) Alle Anlagen müssen folgende Emissionsgrenzwerte einhalten (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand 273 K, 1 013 hPa):
+der kombinierten Warmwasserbereitung und der Raumheizung,
 
 –  
-Kohlenmonoxid<span id="FnR.F810101_04"></span><a href="#F810101_04" class="FnR">4</a></sup> : 200 mg/m³ bei Nennwärmeleistung, 250 mg/m³ bei Teillastbetrieb, soweit Brennstoffe nach § 3 Absatz 1 Nummer 8 der 1. BImSchV eingesetzt werden,
+der Zuführung der Wärme in ein Wärmenetz im Sinne von Nummer 5.3 Buchstabe i der Förderrichtlinie Bundesförderung für effiziente Gebäude – Einzelmaßnahmen (BEG EM),
 
 –  
-staubförmige Emissionen⁴:
+mit Kesseln zur Verbrennung von Biomassepellets und -hackgut, die
 
 –  
-Scheitholzanlagen: 15 mg/m³,
+automatisch beschickt sind,
 
 –  
-alle anderen Anlagen: 20 mg/m³.
-
-d) Der Kesselwirkungsgrad<span id="FnR.F810101_05"></span><a href="#F810101_05" class="FnR">5</a></sup> beträgt mindestens 89 Prozent, bei Pelletöfen mit Wassertasche mindestens 90 Prozent.
-
-3. Anlagen zur Verfeuerung von Hackschnitzeln sind nur förderfähig, wenn sie über einen Pufferspeicher mit einem Pufferspeichervolumen von mindestens 30 Litern je kW Nennwärmeleistung verfügen.
-
-4. Scheitholzanlagen sind nur förderfähig, sofern es sich um Vergaserkessel mit Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O<sub>2</sub>-Gehalts im Abgasrohr oder gleichwertigen Sensoren) zur Wärmeerzeugung mit Pufferspeicher mit einem Mindestspeichervolumen von 55 Litern je kW handelt. Im Datenblatt der Anlage muss nachgewiesen sein, dass die in Nummer 2 Buchstabe c und d genannten Emissionsgrenzwerte und Kesselwirkungsgrade eingehalten werden.
-
-5. Kombinationskessel aus automatisch beschickten Pelletanlagen mit Leistungs- und Feuerungsregelung sowie automatischer Zündung zur Verfeuerung von fester Biomasse zur Wärmeerzeugung, die zusätzlich auch mit Scheitholz handbeschickt werden können, sind nur dann förderfähig, sofern es sich beim Scheitholzanlagenteil um einen Scheitholzvergaserkessel mit Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O<sub>2</sub>-Gehalts im Abgasrohr oder gleichwertigen Sensoren) handelt und für beide Beschickungsarten Nachweise erbracht werden.
-
-Gegenstand der Förderung ist die Einrichtung von effizienten Wärmepumpen bis einschließlich 100 kW Nennwärmeleistung<span id="FnR.F810101_06"></span><a href="#F810101_06" class="FnR">6</a></sup> zur
+über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen,
 
 –  
-kombinierten Warmwasserbereitung und Raumheizung von Gebäuden,
+durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind und
 
 –  
-Raumheizung von Gebäuden, wenn die Warmwasserbereitung des Gebäudes zu einem wesentlichen Teil durch andere erneuerbare Energien erfolgt.
-
-Die Nachrüstung bivalenter Systeme mit Wärmepumpen ist förderfähig. Eine Förderung kann nur gewährt werden, wenn die technischen Fördervoraussetzungen erfüllt sind.
+ein Pufferspeicher-Volumen von mindestens 30 Litern je kW Nennwärmeleistung einbinden;
 
 –  
-Nicht gefördert werden Luft/Luft-Wärmepumpen sowie sonstige Wärmepumpen, die die erzeugte Wärme direkt an die Luft übertragen.
-
-1. Die Förderung setzt voraus, dass die folgenden technischen Vorgaben erfüllt sind:
-
-a) Für elektrisch angetriebene Wärmepumpen: Einbau eines Stromzählers zur Erfassung aller von der Wärmepumpe aufgenommenen Strommengen; für gasbetriebene Wärmepumpen: Einbau eines Gaszählers zur Erfassung aller von der Wärmepumpe aufgenommenen Brennstoffmengen.
-
-b) Einbau mindestens eines Wärmemengenzählers. Die Messung aller durch die Wärmepumpe abgegebenen Wärmemengen wird verbindlich gefordert.
-
-c) Bei elektrisch angetriebenen Wärmepumpen: Nachweis einer Jahresarbeitszahl bei Sole/Wasser- und Wasser/Wasser-Wärmepumpen<span id="FnR.F810101_07"></span><a href="#F810101_07" class="FnR">7</a></sup> von mindestens 3,8 sowie bei Luft/Wasser-Wärmepumpen<span id="FnR.F810101_08"></span><a href="#F810101_08" class="FnR">8</a></sup> von mindestens 3,5.
-
-d) Bei gasbetriebenen Wärmepumpen: Nachweis einer Jahresheizzahl von mindestens 1,25.
-
-e) Weitere Anforderungen für Wärmepumpen, die zur Raumheizung von Gebäuden betrieben werden:
+mit Pelletöfen mit Wassertasche, die
 
 –  
-Nachweis des hydraulischen Abgleichs der Heizungsanlage gemäß Verfahren A oder B des VdZ-Formulars. Diese Anforderung entfällt bei Direktkondensationswärmepumpen (1-Kreissysteme mit nur einem Wärmeträgerkreislauf mit Direktverdampfung des Kältemittels durch Erdwärme und einer Kondensation direkt im beheizten Gebäude).
+automatisch beschickt sind,
 
 –  
-Nachweis über die Anpassung der Heizkurve der Heizungsanlage an das entsprechende Gebäude.
-
-f) Der für die Berechnung der Jahresarbeitszahl elektrisch betriebener Wärmepumpen benötigte COP-Wert ist mit einem Prüfbericht eines unabhängigen Prüfinstituts nachzuweisen. Ein Prüfbericht auf Grundlage der technischen Voraussetzungen des EHPA (European Quality Label for Heat Pumps)-Wärmepumpengütesiegels wird als gleichwertiger Nachweis anerkannt. Der für die Berechnung der Jahresheizzahl von gasbetriebenen Wärmepumpen benötigte Normnutzungsgrad ist ebenfalls mit einem Prüfbericht eines unabhängigen Prüfinstituts nachzuweisen. Der COP-Wert elektrisch betriebener Wärmepumpen sowie die Heizzahl bei Gasmotor- oder Sorptionswärmepumpen müssen die Mindestwerte gemäß dem europäischen Umweltzeichen „Euroblume“<span id="FnR.F810101_09"></span><a href="#F810101_09" class="FnR">9</a></sup> einhalten. Diese Voraussetzung gilt auch dann als erfüllt, wenn die Wärmepumpe ab dem 1. Januar 2011 mit dem Wärmepumpengütesiegel des EHPA ausgezeichnet wurde.
-
-g) Die Nennwärmeleistung bei Wärmepumpen bis einschließlich 100 kW Nennwärmeleistung ist mit einem Prüfbericht eines unabhängigen Prüfinstituts nachzuweisen. Ein Prüfbericht auf Grundlage der technischen Voraussetzungen des EHPA-Wärmepumpengütesiegels wird als gleichwertiger Nachweis anerkannt.
-
-h) Leistungsgeregelte Wärmepumpen müssen mindestens eine zweistufige oder eine kontinuierliche Verringerung der Heizleistung ermöglichen.
-
-i) Eine Förderung für Wärmepumpen bei gleichzeitiger Errichtung einer Erdsondenbohrung setzt voraus, dass die Bohrung nach den Qualitätsanforderungen der Technischen Regel DVGW W120-2 installiert wurde und dafür eine verschuldensunabhängige Versicherung gegen unvorhergesehene Sachschäden abgeschlossen wurde.
-
-j) Ein neu errichteter Pufferspeicher ist im Rahmen des Bonus für Lastmanagement nur dann förderfähig, wenn er ein Mindestspeichervolumen von 30 Litern pro kW aufweist.
-
-2. Für die Berechnung der Jahresarbeitszahl gilt:
-
-a) Bei Wärmepumpen mit einer Nennwärmeleistung bis einschließlich 100 kW ist die Jahresarbeitszahl nach dem Verein Deutscher Ingenieure e. V. – VDI 4650 (in der jeweils aktuellen Fassung) unter Berücksichtigung der Jahresarbeitszahlen für Raumwärme und für Warmwasser zu bestimmen. Sie entspricht der Gesamtjahresarbeitszahl der VDI 4650. Davon abweichend ist bei Wärmepumpen zur ausschließlichen Raumheizung die Jahresarbeitszahl nach VDI 4650 (in der jeweils geltenden Fassung) als die Jahresarbeitszahl für die Raumheizung zu ermitteln. Dabei ist zu beachten, dass auch die Betriebsweise der Wärmepumpe in Form des Deckungsanteils berücksichtigt wird.
-
-b) Abweichend von Buchstabe a gilt für gasbetriebene Wärmepumpen im Geltungsbereich der VDI-Richtlinie 4650 Blatt 2 (2013): Die Jahresheizzahl ist gemäß VDI 4650 Blatt 2 (2013) als die Gesamtjahresheizzahl für Raumheizung und Warmwasserbereitung zu ermitteln. Bei Wärmepumpen zur ausschließlichen Raumheizung ist die Jahresheizzahl nach VDI 4650 Blatt 2 (2013) als Jahresheizzahl für die Raumheizung zu ermitteln.
-
-c) Sofern für Sonderbauformen von Wärmepumpen keine normierten Verfahren zur Prüfung des COP-Werts sowie zur Berechnung der Jahresarbeitszahl zur Verfügung stehen, kann dennoch gefördert werden. In diesen Fällen müssen glaubhafte und nachvollziehbare Berechnungen zum Nachweis des COP-Werts und der Nennwärmeleistung sowie zur Berechnung der erforderlichen Mindestjahresarbeitszahl vorgelegt werden, um die Einhaltung der geforderten Mindestjahresarbeitszahl zu dokumentieren.
-
-d) Kann bei Direktkondensationswärmepumpen (1-Kreissysteme mit nur einem Wärmeträgerkreislauf mit Direktverdampfung des Kältemittels durch Erdwärme und einer Kondensation direkt im beheizten Gebäude) aus konstruktiven Besonderheiten eine Wärmemengenzählung nicht erfolgen, kann gefördert werden, wenn eine Kondensationstemperatur in der Flächenheizung von 40 °C nicht überschritten sowie ein glaubhafter und nachvollziehbarer Nachweis erbracht wird, dass die geforderten Jahresarbeitszahlen unter realistischen Bedingungen erreicht werden. Eine separate Erfassung des Strom- oder Gasbedarfs der Wärmepumpe bleibt dennoch Fördervoraussetzung.
-
-Zusätzlich ist ein Nachweis des Herstellers über die entsprechend der EN 378-2:2008 erfolgten Druckfestigkeits- und Dichtheitsprüfung vorzulegen.
-
-e) Die Anforderungen an die Jahresarbeitszahl nach Buchstabe c sowie die sonstigen Anforderungen nach Buchstabe c gelten für Wärmepumpen außerhalb des Anwendungsbereichs des Umweltzeichens „Euroblume“ ab dem 1. Mai 2011 als vergleichbare Anforderung im Sinne des § 14 Absatz 2 Nummer 3 Satz 3 des Erneuerbare-Energien-Wärmegesetzes vom 7. August 2008 (BGBl. I S. 1658), das zuletzt durch Artikel 9 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722) geändert worden ist, sowie im Sinne des Abschnittes III Nummer 1 Buchstabe a dritter Spiegelstrich und Nummer 2 dritter Spiegelstrich der Anlage des Erneuerbare-Energien-Wärmegesetzes. Bei Verfügbarkeit europäischer Normen zur Prüfung dieser Wärmepumpentypen wird eine Anpassung dieser Anforderungen vorbehalten.
-
-Gegenstand der Förderung ist der Einbau von effizienten Gasbrennwertgeräten, die bereits weitestgehend auf eine künftige Einbindung erneuerbarer Energien vorbereitet sind („Renewable Ready“). Dabei sind folgende Mindestanforderungen zu erfüllen:
+über Leistungs- und Feuerungsregelung sowie automatische Zündung verfügen und
 
 –  
-Energieeffizienz: Die „jahreszeitbedingte Raumheizungseffizienz“ ηs (= ETA S) des Gas-Brennwertkessels muss mindestens 92 Prozent bei Nennlast erreichen. Der Nachweis erfolgt über den Herstellernachweis.
+durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 14785 geprüft sind;
 
 –  
-Steuerungs- und Regelungstechnik: Es muss eine hybridfähige Steuerungs- und Regelungstechnik für den künftigen erneuerbaren Anteil des Heizsystems installiert werden.
+mit besonders emissionsarmem Scheitholzvergaserkesseln, die
 
 –  
-Feinplanung des erneuerbaren Anteils:
+über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O<sub>2</sub>-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen,
 
 –  
-Es ist ein Konzept für die geplante Auslegung der Maßnahme zur künftigen Nutzung erneuerbarer Energien in dem Heizsystem (Feinplanung) vorzulegen. Der erneuerbare Mindestanteil für Hybridanlagen ist hier zu erfüllen (s. a. technische Mindestanforderungen Hybridanlagen).
+ein Pufferspeicher-Volumen von mindestens 55 Litern je kW Nennwärmeleistung einbinden und
 
 –  
-Die Einbindung der erneuerbaren Energien in das Heizsystem gemäß der Feinplanung (Hybridisierung) hat innerhalb von zwei Jahren, gerechnet ab dem Datum der Installation des Gasbrennwertkessels, zu erfolgen.
+durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut nach EN 303-5 geprüft sind;
 
 –  
-Speicher: Es muss ein Speicher für die künftige Einbindung erneuerbarer Energien installiert werden. Die Auslegung hat gemäß Feinplanung zu erfolgen.
+mit Kombinationskesseln zur Verbrennung von Biomassepellets bzw. -hackgut und Scheitholz, die
 
 –  
-Nachweise: Die Einhaltung der Anforderungen an Renewable-Ready-Anlagen ist durch die Konzeptbeschreibung zu dokumentieren. Der Fördernehmer hat die Umsetzung der Hybridisierung innerhalb von zwei Jahren, gerechnet ab dem Datum der Installation des Gas-Brennwertkessels, nachzuweisen.
-
-Gegenstand der Förderung ist der Einbau von Hybridanlagen zur Wärmeerzeugung. Als Hybridanlagen gelten Wärmeerzeuger, die Gasbrennwerttechnik mit einer oder mehreren Technologiekomponenten zur thermischen Nutzung erneuerbarer Energien kombinieren. Die Anlagen sind so zu realisieren, dass erneuerbare Energien in unmittelbarer Nähe zum versorgten Gebäude zu Zwecken der Raumwärmeversorgung genutzt werden.
-
-Die verschiedenen Wärmeerzeuger einer Hybridanlage müssen über eine gemeinsame Steuerung verfügen, so dass ein effizienter Anlagenbetrieb gewährleistet ist. Folgende technische Mindestanforderungen sind zu erfüllen:
+automatisch beschickt sind,
 
 –  
-Anteil erneuerbarer Energien.
+über Leistungs- und Feuerungsregelung sowie automatische Zündung für den automatisch beschickten Anlagenteil verfügen,
 
 –  
-Die thermische Leistung des regenerativen Wärmeerzeugers einer Hybridanlage muss mindestens 25 Prozent der Heizlast des versorgten Gebäudes betragen.
+über Leistungs- und Feuerungsregelung (mit Temperaturfühler hinter der Verbrennungskammer und/oder Lambdasonde zur Messung des O<sub>2</sub>-Gehalts im Abgasrohr oder gleichwertigen Sensoren) verfügen und
 
 –  
-Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln. Analog zur Leistungsbeschreibung des oben genannten VdZ-Formulars sind alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der DIN EN 12831 zulässig. Der Nachweis erfolgt über eine schriftliche Erklärung des Fachunternehmens.
+ein Pufferspeicher-Volumen von mindestens 55 Litern je kW Nennwärmeleistung einbinden,
+
+wenn die nachfolgend genannten technischen Vorgaben erfüllt werden.
+
+Der „jahreszeitbedingte Raumheizungsnutzungsgrad“ ƞ<sub>s</sub> (= ETA S) gemäß Ökodesign-Richtlinie förderfähiger Biomasseanlagen muss bei durchschnittlichen Klimaverhältnissen mindestens 78 Prozent erreichen. Für eine Übergangsfrist für Förderanträge, die bis einschließlich 31. Dezember 2022 beim Durchführer eingehen, ist als alternativer Nachweis zu ƞ<sub>s</sub> Prozent bei Pelletkesseln, Hackgutkesseln und Scheitholzvergaserkessel ein Kesselwirkungsgrad von 90 Prozent, und bei Pelletöfen mit Wassertasche ein feuerungstechnischer Wirkungsgrad von 91 Prozent möglich.
+
+Alle Biomasseanlagen müssen folgende Emissionsgrenzwerte einhalten (bezogen auf einen Volumengehalt an Sauerstoff im Abgas von 13 Prozent im Normzustand \[273 K, 1013 hPa\]):
 
 –  
-Wenn solarthermische Anlagen in der Hybridanlage eingesetzt werden, gelten die technischen Mindestanforderungen gemäß Nummer 6.1.
+Kohlenmonoxid: 200 mg/m³ bei Nennwärmeleistung, 250 mg/m³ bei Teillastbetrieb (für Brennstoffe nach § 3 Absatz 1 Nummer 8 der 1. BImSchV),
 
 –  
-Die Anforderungen sollen jeweils so in tabellarischer Form aufbereitet werden, dass die Mindestgröße ohne weitere Berechnung abgelesen werden kann.
+Staub: 15 mg/m³.
 
-Die Bilanzierung ist gemäß DIN V 18599:2018-09 durchzuführen. Alternativ können auch die Berechnungsverfahren gemäß DIN V 4108-6 in Verbindung mit DIN V 4701-10 in der jeweils geltenden Fassung genutzt werden.
-
-Unabhängige Prüfung/Zertifizierung:
+Voraussetzung ist das Vorliegen eines Prüfberichts bzw. eines Prüfzertifikats nach Prüfung nach EN 303-5 durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut (Biomassekessel) oder Prüfung nach EN 14785 durch ein gemäß ISO 17025 akkreditiertes Prüfinstitut (Pelletöfen mit Wassertasche).
 
 –  
-Regenerative Wärmeerzeugungskomponenten einer Hybridanlage müssen durch ein nach ISO 17025 akkreditiertes Prüfinstitut getestet worden sein. Der Nachweis erfolgt über den Prüfbericht bzw. das Prüfzertifikat.
+luftgeführte Pelletöfen,
 
 –  
-Hinweis: Förderfähige regenerative Wärmeerzeuger sind in Anlagenlisten aufgeführt, die vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) fortlaufend aktualisiert werden (www.BAFA.de).
+handbeschickte Einzelöfen,
 
 –  
-Energieeffizienz: Die „jahreszeitbedingte Raumheizungseffizienz“ η<sub>s</sub> (= ETA S) des Gasbrennwertgerätes einer förderfähigen Hybridanlage muss mindestens 92 Prozent bei Nennlast erreichen. Der Nachweis erfolgt über den Herstellernachweis.
+Anlagen, die überwiegend der Verfeuerung von Abfallstoffen aus der gewerblichen Be- und Verarbeitung von Holz dienen, außer es handelt sich um Altholz der Kategorie A1 (naturbelassenes oder lediglich mechanisch bearbeitetes Altholz),
+
+–  
+Biomasseanlagen, die unter Naturzugbedingungen betrieben werden,
+
+–  
+Anlagen zum Einsatz von Biomasse, für die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen (17. BImSchV) in der jeweils gültigen Fassung zur Anwendung kommt,
+
+–  
+Anlagen zur Beseitigung bestimmter Abfälle, die einer Behandlung vor einer Ablagerung zugeführt werden.
+
+Förderfähig sind Anlagen, die erneuerbare Energien im Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend (d. h. mit mehr als 50 Prozent der erzeugten Wärme bzw. Kälte) zu Zwecken der Raumwärmeversorgung erzeugen. Wärmepumpen können gefördert werden, wenn die nachfolgend genannten technischen Vorgaben erfüllt werden:
+
+–  
+Einzelprüfungen nach EN 14511/EN 14825 oder darauf basierende Zertifizierung nach einem der etablierten europäischen Baureihenreglements (EHPA, Solar Keymark, EUROVENT, ECP, MCS, NF etc.) durch ein nach ISO 17025 akkreditiertes Prüfinstitut.
+
+–  
+Die „jahreszeitbedingte Raumheizungseffizienz“ ƞ<sub>s</sub> (= ETA S) gemäß Ökodesign-Richtlinie förderfähiger Wärmepumpen muss bei durchschnittlichen Klimaverhältnissen mindestens folgende Werte bei 35 °C und 55 °C erreichen; Wärmepumpen, die gemäß Ökodesign-Richtlinie als Niedertemperatur-Wärmepumpen gelten, müssen nur die ƞ<sub>s</sub>-Anforderungen bei 35 °C erfüllen:
+
+Wärmepumpen – Beheizung über Wasser
+
+Elektrisch betriebene Wärmepumpen
+
+ 
+
+ƞ<sub>s</sub> bei (35 °C)
+
+ƞ<sub>s</sub> bei (55 °C)
+
+Wärmequelle Luft
+
+135 %
+
+120 %
+
+Wärmequelle Erdwärme
+
+150 %
+
+135 %
+
+Wärmequelle Wasser
+
+150 %
+
+135 %
+
+Sonstige Wärmequellen  
+(zum Beispiel Abwärme, Solarwärme)
+
+150 %
+
+135 %
+
+Gasbetriebene Wärmepumpen
+
+ 
+
+ƞ<sub>s</sub> bei (35 °C)
+
+ƞ<sub>s</sub> bei (55 °C)
+
+Alle Wärmequellen
+
+126 %
+
+111 %
+
+Wärmepumpen – Beheizung über Luft
+
+Elektrisch- und gasbetriebene Wärmepumpen
+
+Die „jahreszeitbedingte Raumheizungseffizienz“ ƞ<sub>s</sub> (= ETA S) bzw. der „Raumheizungs-Jahresnutzungsgrad“ ƞ<sub>s,h</sub> (= ETA <sub>s,h</sub>) gemäß Ökodesign-Richtlinie förderfähiger Wärmepumpen muss bei durchschnittlichen Klimaverhältnissen mindestens folgende Werte erreichen:
+
+Wärmepumpen ≤ 12 kW<span id="FnR.FnA1-F816958_03"></span><a href="#FnA1-F816958_03" class="FnR">*</a></sup>  
+(Wärmequelle Luft)
+
+ƞ<sub>s</sub>≥ 181 %  
+Effizienzklasse A++ oder A+++
+
+Wärmepumpen &gt; 12 kW<a href="#FnA1-F816958_03" class="FnR">*</a></sup>  
+(alle Wärmequellen)
+
+ƞ<sub>s,h</sub>≥ 150 %
+
+<span id="FnA1-F816958_03"></span><a href="#FnR.FnA1-F816958_03" class="Footnote">*</a>  
+Heizleistung, bei Geräten mit Kühlfunktion Kühlleistung (siehe Verordnung (EU) Nr. 206/2012).
+
+–  
+Förderfähige Wärmepumpen müssen über Schnittstellen verfügen, über die sie automatisiert netzdienlich aktiviert und betrieben werden können (zum Beispiel anhand der Standards „SG Ready“ oder „VHP Ready“).
+
+Fördervoraussetzungen sind weiter:
+
+–  
+für Sole/Wasser-Wärmepumpen mit neuen Erdwärmesondenbohrungen die Vorlage eines DVGW-W-120-2 Zertifikats und des Versicherungsscheins,
+
+–  
+Vorlage der Prüfberichte bzw. Prüfzertifikate über die unabhängige Prüfung/Zertifizierung,
+
+–  
+Vorlage eines Prüfberichts bzw. eines Prüfzertifikats zur Energieeffizienz,
+
+–  
+Herstellernachweis zur Netzdienlichkeit (Hinweis: www.bafa.de).
+
+Gefördert wird die Errichtung effizienter Gas-Brennwertheizungen, wenn diese bereits weitestgehend auf eine künftige Einbindung erneuerbarer Energien vorbereitet sind („Renewable Ready“).
+
+–  
+Die „jahreszeitbedingte Raumheizungs-Energieeffizienz“ ƞ<sub>s</sub> (= ETA S) des Gas-Brennwertkessels mit einer Nennwärmeleistung von bis zu 70 kW muss mindestens 92 Prozent oder Energieeffizienzklasse A erreichen. Gas-Brennwertkessel mit einer Nennleistung über 70 kW müssen einen Wirkungsgrad von 87 Prozent bei Volllast und von 96 Prozent bei 30 Prozent Teillast erreichen. Der Nachweis erfolgt über die Konformitätserklärung des Herstellers gemäß Verordnung (EU) Nr. 813/2013 oder über das Etikett gemäß Verordnung (EU) Nr. 811/2013.
+
+–  
+Es muss eine hybridfähige Steuerungs- und Regelungstechnik für den künftigen erneuerbaren Anteil des Heizsystems installiert werden bzw. vorhanden sein.
+
+–  
+Ein Konzept für die geplante Auslegung der Maßnahme zur künftigen Nutzung erneuerbarer Energien in dem Heizsystem (Feinplanung) muss vorliegen. Der erneuerbare Mindestanteil für Hybridanlagen i. S. d. Nummer 6.5 ist zu erfüllen.
+
+–  
+Es muss zwingend ein Speicher für die künftige Einbindung erneuerbarer Energien installiert werden. Die Auslegung hat gemäß Feinplanung zu erfolgen. Bei Nichtwohngebäuden kann auf einen Speicher verzichtet werden, wenn Biogas zu einem Anteil von mehr als 55 Prozent dauerhaft über die Mindestnutzungsdauer der Anlage eingesetzt wird.
+
+–  
+Die Einhaltung der Anforderungen an Renewable-Ready-Anlagen ist durch die Konzeptbeschreibung für die geplante Auslegung der Maßnahme (Feinplanung) zu dokumentieren und durch den Fachunternehmer zu bestätigen. Der Fördernehmer hat die Umsetzung der Hybridisierung innerhalb von zwei Jahren gerechnet ab dem Datum der Inbetriebnahme des Gas-Brennwertkessels nachzuweisen.
+
+Gefördert wird die Errichtung von Anlagen, die Gas-Brennwerttechnik mit einer oder mehreren Technologie-Komponenten zur thermischen Nutzung erneuerbarer Energien kombinieren (zum Beispiel Solar-, Wärmepumpen-, Biomasseanlage).
+
+–  
+Die „jahreszeitbedingte Raumheizungs-Energieeffizienz“ ƞ<sub>s</sub> (= ETA S) des Gas-Brennwertkessels mit einer Nennwärmeleistung von bis zu 70 kW muss mindestens 92 Prozent oder Energieeffizienzklasse A erreichen. Gas-Brennwertkessel mit einer Nennleistung über 70 kW müssen einen Wirkungsgrad von 87 Prozent bei Volllast und von 96 Prozent bei 30 Prozent Teillast erreichen. Der Nachweis erfolgt über die Konformitätserklärung des Herstellers gemäß Verordnung (EU) Nr. 813/2013 bzw. über das Etikett gemäß Verordnung (EU) Nr. 811/2013.
+
+–  
+Die Anlagen sind so zu realisieren, dass erneuerbare Energien im Gebäude oder in unmittelbarer Nähe zum versorgten Gebäude überwiegend zu Zwecken der Raumwärmeversorgung genutzt werden.
+
+–  
+Die verschiedenen Wärmeerzeuger einer Hybridanlage müssen über eine gemeinsame Steuerung und Regelung verfügen, so dass ein effizienter Anlagenbetrieb gewährleistet ist. Folgende technische Mindestanforderungen sind zu erfüllen:
+
+–  
+Die thermische Leistung des regenerativen Wärmeerzeugers einer Hybridanlage muss mindestens 25 Prozent der Heizlast des versorgten Gebäudes (Gebäudeheizlast) betragen. Anzusetzende thermische Leistung:
+
+–  
+Wärmepumpen-Anlagen: Maßgeblich ist die potenzielle Heizleistung bei der jeweils anzusetzenden Normaußentemperatur am Standort der Wärmepumpe und einer Vorlauftemperatur von 35 °C. Der Wert kann den technischen Unterlagen des jeweiligen Herstellers entnommen werden.
+
+–  
+Solarthermie-Anlagen: Zur Berechnung der Heizleistung einer Solarthermie-Anlage ist für alle Kollektortechnologien eine pauschale Kollektorleistung von 635 Watt pro m² Bruttokollektorfläche anzusetzen.
+
+–  
+Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln. Analog zur Leistungsbeschreibung des Bestätigungsformulars für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) sind alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der DIN EN 12831 (zum Beispiel Hüllflächenverfahren) zulässig.
 
 Gegenstand der Förderung ist der Einbau von stationären Brennstoffzellensystemen zwischen 0,25 kW und 5 kW elektrischer Leistung. Förderfähig sind sowohl integrierte Geräte als auch Beistellgeräte. Die Gesamtkosten des Brennstoffzellensystems setzen sich zusammen aus den Kosten für den Erwerb und Einbau der Brennstoffzelle und ggf. des zusätzlichen Wärmeerzeugers sowie den weiteren Kosten wie zum Beispiel für einen Pufferspeicher und für einen fest vereinbarten Vollwartungsvertrag. Integrierte Geräte sind Geräte, die mit einem zusätzlichen Wärmeerzeuger verbunden sind und somit eine technische Einheit bilden. Beistellgeräte sind Geräte, die individuell durch weitere Wärmeerzeuger (zum Beispiel Brennwertkessel) ergänzt werden müssen, um den notwendigen Wärmebedarf zu decken. Dabei sind folgende Mindestanforderungen zu erfüllen:
 
@@ -443,13 +514,13 @@ Gegenstand der Förderung ist der Einbau von stationären Brennstoffzellensystem
 Die Brennstoffzelle ist in die Wärme- und Stromversorgung des Gebäudes einzubinden.
 
 –  
-Beim Einbau der Brennstoffzelle ist ein hydraulischer Abgleich durchzuführen. Die Durchführung ist auf dem Bestätigungsformular des VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.intelligent-heizen.info) nachzuweisen (Verfahren A zulässig) und die Dokumentation aufzubewahren. Rohrleitungen sind gemäß der jeweils geltenden Energieeinsparverordnung (EnEV) in der Fassung des Artikels 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) zu dämmen.
+Beim Einbau der Brennstoffzelle ist ein hydraulischer Abgleich durchzuführen. Die Durchführung ist auf dem Bestätigungsformular des Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.intelligent-heizen.info) nachzuweisen (Verfahren A zulässig) und die Dokumentation ist aufzubewahren. Rohrleitungen sind gemäß § 71 des jeweils geltenden Gebäudeenergiegesetzes zu dämmen.
 
 –  
 Der Einbau des Brennstoffzellensystems ist durch ein Fachunternehmen auszuführen; idealerweise durch vom Hersteller geschulte Fachunternehmer.
 
 –  
-Zum Zeitpunkt der Inbetriebnahme der Brennstoffzelle muss der Gesamtwirkungsgrad η≥ 0,82 und der elektrische Wirkungsgrad ηel ≥ 0,32 betragen.
+Zum Zeitpunkt der Inbetriebnahme der Brennstoffzelle muss der Gesamtwirkungsgrad η≥ 0,82 und der elektrische Wirkungsgrad η<sub>el</sub>≥ 0,32 betragen.
 
 –  
 Der Hersteller stellt – zum Beispiel über die Verfügbarkeit von Ersatzteilen – einen Betrieb der Brennstoffzelle für einen Zeitraum von zehn Jahren sicher.
@@ -457,47 +528,39 @@ Der Hersteller stellt – zum Beispiel über die Verfügbarkeit von Ersatzteilen
 –  
 Für die Brennstoffzelle ist eine Vollwartung über mindestens zehn Jahre zu vereinbaren, die dem Käufer einen elektrischen Wirkungsgrad von mindestens η<sub>el</sub>≥ 0,26 sowie die Reparatur und Wiederinbetriebnahme im Falle von Störungen zusichert.
 
-Gegenstand der Förderung ist der Einbau von stationären Mini-KWK-Anlagen mit einer Leistung bis zu 20 Kilowatt (kW) elektrischer Leistung. Berücksichtigungsfähig sind die Kosten für Erwerb, Einbau und Einbindung der Mini-KWK-Anlage ohne Kosten für zusätzliche Wärmeerzeuger und ohne Wartungskosten. Förderfähige KWK-Anlagen müssen die Anforderungen der EU-KWK-Richtlinie für Kleinstanlagen deutlich übertreffen. Folgende Mindestanforderungen sind zu erfüllen:
+Gefördert wird die Errichtung von innovativen effizienten Heizungsanlagen, die auf der Nutzung von mindestens zwei Technologien auf Basis von erneuerbaren Energien basieren und die die Anforderungen der Nummern 6.1 bis 6.5 erfüllen.
+
+Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln. Analog zur Leistungsbeschreibung der Bestätigung des Spitzenverbands der Gebäudetechnik VDZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. sind alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der DIN EN 12831 zulässig (zum Beispiel Hüllflächenverfahren).
+
+Gefördert wird die Errichtung von innovativen effizienten Heizungsanlagen, die auf der Nutzung von erneuerbaren Energien basieren und erneuerbare Energien für die Wärmeerzeugung mit einem Anteil von mindestens 80 Prozent der Heizlast einbinden, soweit sie nicht unter die Nummern 6.1 bis 6.3 bzw. 6.6 fallen.
+
+Die Gebäudeheizlast ist bevorzugt nach DIN EN 12831 zu ermitteln. Analog zur Leistungsbeschreibung der Bestätigung des Spitzenverbands der Gebäudetechnik VDZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. sind alternativ auch „überschlägige“ Heizlastermittlungen auf der Basis der DIN EN 12831 zulässig (zum Beispiel Hüllflächenverfahren).
+
+Gefördert wird die Errichtung oder Erweiterung eines nicht öffentlichen Wärmenetzes (nicht öffentliches „Gebäudenetz“) zur ausschließlichen Eigenversorgung von mindestens zwei Gebäuden auf dem Grundstück eines Eigentümers, bestehend aus folgenden Komponenten:
 
 –  
-Die Primärenergieeinsparung (gemäß EU-Richtlinie<span id="FnR.F810101_10"></span><a href="#F810101_10" class="FnR">10</a></sup> ) gegenüber der getrennten Erzeugung von Wärme und Strom muss bei Anlagen bis kleiner als 10 kWel mindestens 15 Prozent und bei Anlagen von 10 kWel bis einschließlich 20 kWel mindestens 20 Prozent betragen. Außerdem ist ein Gesamtjahresnutzungsgrad von mindestens 85 Prozent einzuhalten.
+Wärmeerzeugung, ggf. Wärmespeicherung, Wärmeverteilung,
 
 –  
-Die Anlage muss über eine wärme- oder stromgeführte Regelung verfügen.
+Steuer-, Mess- und Regelungstechnik,
 
 –  
-Das angeschlossene Heizungssystem muss hydraulisch abgeglichen sein.
+Wärmeübergabestationen,
 
-–  
-Die Anlage befindet sich auf der „Liste der förderfähigen Mini-KWK-Anlagen“ des BAFA.
+sofern die Wärmeerzeugung, mit der das Gebäudenetz gespeist wird, zu mindestens 25 Prozent durch erneuerbare Energien erfolgt und kein Öl als Brennstoff eingesetzt wird.
 
-–  
-Die Anlage darf nicht in einem Gebiet mit einem Anschluss- und Benutzungsgebot für Fernwärme liegen.
-
-–  
-Die Anlage wird über einen Wartungsvertrag betreut.
-
-–  
-Es ist ein Wärmespeicher mit einem Volumen von mindestens 60 Litern Wasser pro kW thermischer Leistung (kW<sub>th</sub>) vorhanden, wobei maximal ein Speichervolumen von 1 600 Litern erforderlich ist.
-
-–  
-Es muss ein Stromzähler zur Messung des erzeugten KWK-Stroms vorhanden sein.
-
-–  
-Für Anlagen ab 10 kWel ist eine Informations- und Kommunikationstechnik vorhanden, die Signale des Strommarktes empfangen kann und technisch in der Lage ist, auf diese zu reagieren.
-
-Förderfähig sind der Erstanschluss an Nah- und Fernwärme inklusive von Wärmeübergabestationen und Hausanschlussleitungen sowie bei bestehendem Anschluss der Austausch oder der erstmalige Einbau von Wärmeübergabestationen, sofern diese in das Eigentum des Anschlussnehmers übergehen.
+Gefördert wird als Alternative zur Nutzung einer gebäudeindividuellen Heizung ferner der Anschluss bzw. die Erneuerung eines Anschlusses an ein Gebäudenetz, wenn dieses die festgelegten technischen Mindestanforderungen für Gebäudenetze erfüllt, und an ein öffentliches Wärmenetz, wenn dessen Wärmeerzeugung zu mindestens 25 Prozent durch erneuerbare Energien gespeist wird.
 
 # Anlage 7 – Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
 
-(Fundstelle: BGBl. I 2020, 17)
+(Fundstelle: BGBl. I 2021, 1793)
 
-Gefördert wird die Umsetzung von Maßnahmen zur Betriebsoptimierung durch elektronisch geregelte Systeme mit dem Ziel der Verbesserung der Energieeffizienz bzw. der Netzdienlichkeit der gebäudetechnischen Anlagen (zum Beispiel Heizung, Trinkwarmwasserbereitung, Lüftungs- /Klimatechnik, Beleuchtung).
+Gefördert wird die Umsetzung von Maßnahmen zur Betriebsoptimierung durch elektronisch geregelte Systeme mit dem Ziel der Verbesserung der Energieeffizienz bzw. der Netzdienlichkeit der gebäudetechnischen Anlagen (zum Beispiel Heizung, Trinkwarmwasserbereitung, Lüftungs-/Klimatechnik, Beleuchtung).
 
 Die nachfolgende Liste weist typische förderfähige Maßnahmen aus:
 
 –  
-Smart Meter-, Mess-, Steuerungs- und Regeltechnik für Heizungs-, Beleuchtungs-, Lüftungs- bzw. Klimatechnik sowie Einbindung von Wetterdaten, auch als Multi-Sparten-Systeme inklusive Strom, Gas und Wasser,
+Smart-Meter-, Mess-, Steuerungs- und Regeltechnik für Heizungs-, Beleuchtungs-, Lüftungs- bzw. Klimatechnik sowie Einbindung von Wetterdaten, auch als Multi-Sparten-Systeme inklusive Strom, Gas und Wasser,
 
 –  
 Systeme zur Erfassung und Auswertung von Energieflüssen, Energieverbräuchen, Teilverbräuchen der unterschiedlichen Sparten und Energiekosten,
@@ -515,7 +578,7 @@ Wohnungsdisplay bzw. Nutzerinterfaces zur Anzeige von aktuellen Daten der Heiz- 
 elektronische Heizkörperthermostate/Raumthermostate,
 
 –  
-Integration von Luftqualitätssensoren, Fensterkontakten, Präsenzsensoren, Beleuchtungsfaktoren.
+Integration von Luftqualitätssensoren, Fensterkontakten, Präsenzsensoren, Beleuchtungsaktoren.
 
 –  
 Systemtechnik für den Datenaustausch hausintern/-extern und
@@ -533,7 +596,7 @@ baugebundene Bedienungs- und Antriebssysteme für Türen, Innentüren, Jalousien
 intelligente Türsysteme mit personalisierten Zutrittsrechten.
 
 –  
-notwendige Verkabelung (zum Beispiel Ethernetkabel) oder kabellose funkbasierte Installationen (zum Beispiel Router) für Kommunikations- /Notrufsysteme und intelligente Assistenzsysteme, USB-Anschlussbuchsen sowie
+notwendige Verkabelung (zum Beispiel Ethernetkabel) oder kabellose funkbasierte Installationen (zum Beispiel Router) für Kommunikations-/Notrufsysteme und intelligente Assistenzsysteme, USB-Anschlussbuchsen sowie
 
 –  
 Anschluss an eine Breitbandverkabelung, Leerrohre, Kabel (zum Beispiel Lichtwellenleiter, CAT-7-Datenkabel) für Mess-, Steuerungs- und Regelungstechnik sowie für Smart-Metering-Systeme.
@@ -551,50 +614,104 @@ Nicht förderfähig sind Endgeräte und Unterhaltungstechnik, wie zum Beispiel H
 
 # Anlage 8 – Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
 
-(Fundstelle: BGBl. I 2020, 18)
+(Fundstelle: BGBl. I 2021, 1794 - 1795)
 
-Folgende Maßnahmen sind durchzuführen:
+Gefördert wird die Umsetzung aller Maßnahmen zur Verbesserung der Energieeffizienz am Heizsystem, soweit sich aus den nachfolgenden Sätzen keine Einschränkungen ergeben.
 
-–  
-die Bestandsaufnahme und gegebenenfalls die Analyse des Ist-Zustandes, zum Beispiel nach DIN EN 15378,
+Mindestens ist durchzuführen: der Heizungscheck nach DIN EN 15378 oder der hydraulische Abgleich nach Verfahren A beim wassergeführten Heizungssystem. Verfahren B ist zulässig. Die Durchführung ist auf dem aktuellen Bestätigungsformular für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich) nachzuweisen.
 
-–  
-die Durchführung des hydraulischen Abgleichs gemäß Verfahren A oder B des VdZ-Formulars und
+Förderfähige Pumpen müssen mindestens folgende Anforderungen erfüllen:
 
 –  
-die Umsetzung aller erforderlichen Maßnahmen zur Verbesserung der Energieeffizienz am gesamten Heizsystem (zum Beispiel die Optimierung der Heizkurve, die Anpassung der Vorlauftemperatur und der Pumpenleistung sowie der Einsatz von Einzelraumreglern).
-
-Ergänzend sind förderfähig:
+Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009;
 
 –  
-Ersatz bestehender Pumpen durch hocheffiziente Heizungsumwälzpumpen und hocheffiziente Trinkwasserzirkulationspumpen,
+Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an Verordnung (EU) Nr. 641/2009;
 
 –  
-Einbau voreinstellbarer Heizkörperthermostatventile, Einzelraumtemperaturreglern und Strangdifferenzdruckreglern,
+Trockenläufer-Umwälzpumpen: Elektromotor der Klasse IE4 und Pumpeneffizienz MEI ≥ 0,6 gemäß Verordnung (EU) Nr. 547/2012.
+
+Nicht förderfähig innerhalb der Maßnahme „Heizungsoptimierung“ ist der Einbau bzw. Austausch von Wärmeerzeugern.
+
+Anlagen zur Trinkwarmwassererwärmung (zum Beispiel solarthermische Warmwasserbereitung) sind Bestandteil der Heizungsanlage.
+
+Ersatz, Erweiterung und erstmaliger Einbau von Pufferspeichern:
 
 –  
-in Einrohrsystemen Maßnahmen zur Volumenstromregelung mit dem Ziel der Energieeinsparung und der Umbau von Ein- in Zweirohrsystemen,
+Wärmespeicher sind förderfähig, wenn sie Effizienzklasse A oder A+ gemäß Verordnung (EU) Nr. 811/2013 erreichen oder ihre Warmhalteverluste  S in Watt in Abhängigkeit vom Speichervolumen  V weniger als 8,5 + 4,25 • V0,4</sup> gemäß Verordnung (EU) Nr. 813/2013 betragen.
+
+Die nachfolgende Liste weist typische förderfähige Maßnahmen aus. Die Liste ist nicht abschließend. Förderfähig sind weiterhin alle sonstigen Maßnahmen, die zur vollen Funktion und für den energieeffizienten Betrieb der Heizungsanlage erforderlich sind.
 
 –  
-Ersatz und erstmaliger Einbau von Pufferspeichern,
+Heizkörper/Heizflächen:
 
 –  
-erstmaliger Einbau von Flächenheizsystemen sowie die erforderliche Anpassung oder Erneuerung von Rohrleitungen,
+Austausch von Heizkörpern mit dem Ziel der Systemtemperaturreduzierung, inklusive der erforderlichen Anpassung oder Erneuerung von Rohrleitungen;
 
 –  
-Austausch vorhandener Heizkörper durch Niedertemperaturheizkörper und Heizleisten,
+erstmaliger Einbau oder Austausch von Flächenheizsystemen, inklusive der erforderlichen Anpassung oder Erneuerung von Rohrleitungen, inklusive Estrich, Trittschalldämmung, Bodenbelag bzw. bei Wandheizung inklusive Putzarbeiten.
 
 –  
-Austausch von Heizkörpern mit dem Ziel der Systemtemperaturreduzierung, die im Zuge der Berechnungen zum hydraulischen Abgleich als verantwortlich für hohe Systemtemperaturen identifiziert wurden (sogenannte „kritische“ Heizkörper),
+Heizkörperregelung:
 
 –  
-erstmaliger Einbau und Austausch von Komponenten zur Durchflussbegrenzung und Einzelraumtemperaturregelung in Flächenheizkreisen einschließlich aller dazu erforderlichen Komponenten,
+Einbau voreinstellbarer Heizkörperthermostatventile (auch im Austausch);
 
 –  
-Aufrüstung eines Gasniedertemperaturkessels zu einem Brennwertkessel durch Einbau von zusätzlichem Wärmetauscher/zusätzlichen Wärmetauschern,
+Einbau oder Austausch von Einzelraum-Temperaturregelung einschließlich aller dazu erforderlichen Komponenten;
 
 –  
-nachträgliche Dämmung von ungedämmten Rohrleitungen,
+Aufrüstung eines Niedertemperaturkessels zu einem Brennwertkessel durch Einbau von zusätzlichen Wärmetauschern einschließlich notwendiger Schornsteinanpassungen.
 
 –  
-Einbau sowie Ersatz von zur Heizungsanlage zugehöriger Mess-, Steuer- und Regelungstechnik und Nutzerinterface.
+Leitungen, Armaturen, hydraulischer Abgleich:
+
+–  
+Durchführung des hydraulischen Abgleichs;
+
+–  
+Umsetzung technischer Maßnahmen zur Volumenstromregelung, zum Beispiel Einbau von Strangregulierventilen, Differenzdruckreglern, Volumenstromreglern;
+
+–  
+hydraulischer Umbau der Wärmeverteilung/des Rohrleitungssystems zur Optimierung der Wasserumlaufmengen bzw. zur Systemtemperaturreduzierung, zum Beispiel Schließen von Bypässen;
+
+–  
+Umbau von Einrohrsystemen in Zweirohrsysteme;
+
+–  
+Erweiterung und Sanierung von Nahwärmenetzen, die sich zu 100 Prozent auf der zu den Gebäuden gehörenden Grundstücksfläche oder Grundstücksflächen befinden.
+
+–  
+Hocheffiziente Heizungs- bzw. Trinkwasserzirkulationspumpen:
+
+–  
+Nassläufer-Umwälzpumpen: Energieeffizienzindex EEI ≤ 0,2 gemäß Verordnung (EU) Nr. 641/2009;
+
+–  
+Trinkwarmwasser-Zirkulationspumpen: Energieeffizienzindex EEI ≤ 0,2 in Anlehnung an Verordnung (EU) Nr. 641/2009;
+
+–  
+Trockenläufer-Umwälzpumpen: Elektromotor der Klasse IE4 und Pumpeneffizienz MEI ≥ 0,6 gemäß Verordnung (EU) Nr. 547/2012.
+
+–  
+Dämmung der Verteilleitungen:
+
+–  
+Wärmedämmung ungedämmter oder unzureichend gedämmter Wärmeverteilleitungen und Armaturen;
+
+–  
+schallreduzierende Maßnahmen für Geräusche der Heizungsanlage in schutzbedürftigen Räumen.
+
+–  
+Umstellung des Warmwassersystems, das heißt Integration in die Heizungsanlage, inklusive notwendiger Sanitärarbeiten wie Austausch der Armaturen;
+
+–  
+elektronisch geregelte Durchlauferhitzer;
+
+–  
+Rohrinnensanierungen;
+
+–  
+Filter, Schmutzfänger, Abscheider zur Erhaltung der Funktionalität, Effizienz und Lebensdauer von Heizungsanlagen (zum Beispiel Schwerkraftfilter, Schlammabscheider, Magnetitabscheider, Entgasungsgeräte).
+
+Fördervoraussetzung ist der Nachweis des hydraulischen Abgleichs unter Verwendung des Bestätigungsformulars für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik e. V. VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich).
