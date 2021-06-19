@@ -1389,7 +1389,7 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 8. gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Unternehmer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
 
-9. eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises,
+9. gegebenenfalls eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises,
 
 10. Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
 
@@ -1399,17 +1399,17 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 13. die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder regelmäßig wiederkehrende Leistung zum Inhalt hat,
 
-14. die vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen,
+14. gegebenenfalls die vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen,
 
 15. die Mitgliedstaaten der Europäischen Union, deren Recht der Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss des Vertrags zugrunde legt,
 
-16. eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht,
+16. gegebenenfalls eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht,
 
 17. die Sprachen, in welchen die Vertragsbedingungen und die in dieser Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung des Verbrauchers die Kommunikation während der Laufzeit dieses Vertrags zu führen,
 
-18. gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen und
+18. den Hinweis, ob der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und gegebenenfalls dessen Zugangsvoraussetzungen,
 
-19. das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die weder unter die Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme (ABl. L 135 vom 31.5.1994, S. 5) noch unter die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S. 22) fallen.
+19. gegebenenfalls das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die weder unter die Richtlinie 2014/49/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149; L 212 vom 18.7.2014, S. 47; L 309 vom 30.10.2014, S. 37) noch unter die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S. 22) fallen.
 
 (2) Bei Telefongesprächen hat der Unternehmer nur folgende Informationen zur Verfügung zu stellen:
 
@@ -1437,7 +1437,7 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (2) Der Verbraucher kann während der Laufzeit des Vertrags vom Unternehmer jederzeit verlangen, dass dieser ihm die Vertragsbedingungen einschließlich der Allgemeinen Geschäftsbedingungen in Papierform zur Verfügung stellt.
 
-(3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts kann der Unternehmer dem Verbraucher das in der Anlage 3 vorgesehene Muster für die Widerrufsbelehrung bei Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform übermitteln.
+(3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts kann der Unternehmer dem Verbraucher das jeweils einschlägige, in der Anlage 3, der Anlage 3a oder der Anlage 3b vorgesehene Muster für die Widerrufsbelehrung bei Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform übermitteln. In Fällen des Artikels 247 § 1 Absatz 2 Satz 6 kann der Unternehmer zur Erfüllung seiner Informationspflicht nach Artikel 246b § 2 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Artikel 246b § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts dem Verbraucher das in der Anlage 6 vorgesehene Muster für das ESIS-Merkblatt zutreffend ausgefüllt in Textform übermitteln. Zur Erfüllung seiner Informationspflichten nach den Sätzen 1 und 2 kann der Unternehmer bis zum Ablauf des 31. Dezember 2021 auch das Muster der Anlage 3 in der Fassung von Artikel 2 Nummer 7 des Gesetzes zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung vom 20. September 2013 (BGBl. I S. 3642) verwenden.
 
 # § 1 – Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 
@@ -2307,16 +2307,321 @@ Gestaltungshinweise:
 (Fundstelle: BGBl. I 2013, S. 3665)  
   
 
-# Anlage 3 – (zu Artikel 246b § 2 Absatz 3)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen über Finanzdienstleistungen
+# Anlage 3 – (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
 
-(Fundstelle: BGBl. I 2013, S. 3666 – 3667)
-
-  
-  
+(Fundstelle: BGBl. I 2021, 1670 - 1671)
 
 Gestaltungshinweise:
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_01.gif" /></td><td>Bei einem der nachstehenden Sonderfälle ist Folgendes einzufügen:<dl><dt>a)</dt><dd>Bei der Erbringung von Finanzdienstleistungen außer Zahlungsdiensten: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit Artikel 246b § 1 Absatz 1 EGBGB“;</dd><dt>b)</dt><dd>Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten im Fernabsatz:<dl><dt>aa)</dt><dd>bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 4 Absatz 1 EGBGB“;</dd><dt>bb)</dt><dd>bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 11 Absatz 1 EGBGB“;</dd><dt>cc)</dt><dd>bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 13 Absatz 1 EGBGB“.</dd></dl></dd><dt>c)</dt><dd>Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten außerhalb von Geschäftsräumen:<dl><dt>aa)</dt><dd>bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 4 Absatz 1 EGBGB“;</dd><dt>bb)</dt><dd>bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 11 Absatz 1 EGBGB“;</dd><dt>cc)</dt><dd>bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 13 Absatz 1 EGBGB“.</dd></dl></dd></dl>Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden Sonderfälle fällt, sind die jeweils zutreffenden Ergänzungen zu kombinieren. Soweit zu kombinierende Ergänzungen sprachlich identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_02.gif" /></td><td>Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten.Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_03.gif" /></td><td>Dieser Absatz kann entfallen, wenn die beiderseitigen Leistungen erst nach Ablauf der Widerrufsfrist erbracht werden. Dasselbe gilt, wenn eine Rückabwicklung nicht in Betracht kommt (z. B. Hereinnahme einer Bürgschaft).</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_04.gif" /></td><td>Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung im Sinne des § 505 BGB ist hier Folgendes einzufügen:„Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit, können wir von Ihnen über die Rückzahlung des Betrags der Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz, Kosten) informiert haben.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_05.gif" /></td><td>Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:<dl><dt>a)</dt><dd>Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis <img src="../normengrafiken/zik_gif/ZiK_05.gif" />  Buchstabe a bis c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.</dd><dt>b)</dt><dd>Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis <img src="../normengrafiken/zik_gif/ZiK_06.gif" />  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.</dd><dt>c)</dt><dd>Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, ist hier folgender Hinweis zu geben:„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_06.gif" /></td><td>Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen, wenn kein verbundenes Geschäft vorliegt:„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der vorliegende Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat.Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_07.gif" /></td><td>Der nachfolgende Hinweis kann entfallen, wenn kein zusammenhängender Vertrag vorliegt:„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_08.gif" /></td><td>Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des Unternehmers)“ zu ersetzen.</td></tr></tbody></table>
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_01.jpg)
+
+Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_02.jpg)
+
+Die unter den Nummern 3, 4 Buchstabe b, den Nummern 7, 8, 9, 11, 13, 14, 16 und 19 aufgelisteten und kursiv gedruckten Informationen sind nur dann in die Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Der Kursivdruck ist dabei zu entfernen. Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, beispielsweise, wenn bei Nummer 7 nur zusätzliche Kosten, nicht aber weitere Steuern, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden, anfallen. Werden Informationen gemäß der vorstehenden Vorgabe nicht aufgenommen, so ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 8 nicht übernommen, so wird Nummer 9 zu Nummer 8 etc.). Wird bei Nummer 4 Buchstabe b nicht übernommen, so entfällt bei Buchstabe a im Text der Buchstabe „a)“ sowie die Überschrift „zur Anschrift“. Die letzte in der Widerrufsbelehrung aufgenommene Information soll mit dem Satzzeichen „.“ abschließen.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_03.jpg)
+
+Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung im Sinne des § 505 des Bürgerlichen Gesetzbuchs (BGB) ist hier Folgendes einzufügen:
+
+ 
+
+„Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit, können wir von Ihnen über die Rückzahlung des Betrags der Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz, Kosten) informiert haben.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_04.jpg)
+
+Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
+
+ 
+
+a)
+
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)  Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche (EGBGB) zu geben.
+
+ 
+
+b)
+
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)  der Anlage 1 des EGBGB zu geben.
+
+ 
+
+c)
+
+Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so ist hier folgender Hinweis zu geben:
+
+ 
+
+ 
+
+„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)
+
+Bei Anwendung der Gestaltungshinweise  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)  oder  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)  ist hier folgende Unterüberschrift einzufügen:
+
+ 
+
+„Besondere Hinweise“.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)
+
+Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“
+
+ 
+
+Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:
+
+ 
+
+„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)
+
+Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_08.jpg)
+
+Wird für einen Vertrag belehrt, der auch einen Vertrag über die Erbringung von Zahlungsdiensten betrifft, für den in Anlage 3a und/oder in Anlage 3b des EGBGB ein Muster für eine Widerrufsbelehrung zur Verfügung gestellt wird, so sind die jeweils zutreffenden Ergänzungen aus den Mustern für die Widerrufsbelehrung zu kombinieren. Soweit zu kombinierende Ergänzungen identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_09.jpg)
+
+Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des Unternehmers)“ zu ersetzen.
+
+# Anlage 3a – (zu Artikel 246b § 2 Absatz 3 Satz 1)Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Zahlungsdiensterahmenverträgen
+
+(Fundstelle: BGBl. I 2021, 1673 - 1677)
+
+Gestaltungshinweise:
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_01.jpg)
+
+Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Zahlungsdienstleister erhält, auch eine Internetadresse.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_02.jpg)
+
+Die unter den Nummern 4 bis 8, Nummer 9 Buchstabe b, Nummer 10 Buchstabe e, Nummer 10 Buchstabe g, Nummer 10 Buchstabe h, Nummer 11 Buchstabe b, Nummer 11 Buchstabe c, Nummer 11 Buchstabe d, Nummer 12 Buchstabe a, Nummer 13 Buchstabe a, Nummer 13 Buchstabe c, Nummer 13 Buchstabe d, Nummer 14 Buchstabe a, Nummer 14 Buchstabe d und Nummer 15 aufgelisteten und kursiv gedruckten Informationen sind nur dann in die Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Der Kursivdruck ist dabei zu entfernen.
+
+ 
+
+Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, beispielsweise, wenn bei Nummer 4 nur zusätzliche Kosten, nicht aber weitere Steuern, die nicht über den Zahlungsdienstleister abgeführt oder von ihm in Rechnung gestellt werden, anfallen. Dies gilt auch für die Informationen unter Nummer 14 Buchstabe d, die stets insgesamt aufzunehmen sind, selbst wenn nur eine oder mehrere der dort unter Doppelbuchstabe aa, bb oder cc aufgeführten Informationen einschlägig ist beziehungsweise sind. Werden Informationen gemäß der vorstehenden Vorgabe nicht aufgenommen, so ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 10 Buchstabe g nicht übernommen, so wird Nummer 10 Buchstabe h zu Nummer 10 Buchstabe g etc.). Wird bei Nummer 11 weder Buchstabe b noch Buchstabe c oder Buchstabe d aufgenommen, so entfällt bei Buchstabe a im Text der Buchstabe „a)“.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_03.jpg)
+
+Bei Abschluss von Verträgen außerhalb von Geschäftsräumen sind die Nummern 2 bis 8 nicht in die Widerrufsbelehrung aufzunehmen. Die Nummerierung ist – unter Fortgeltung von Gestaltungshinweis  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_02.jpg)  – entsprechend anzupassen, das heißt Nummer 9 wird zu Nummer 2 etc.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_04.jpg)
+
+Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung im Sinne des § 505 des Bürgerlichen Gesetzbuchs (BGB) ist hier Folgendes einzufügen:
+
+ 
+
+„Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit, so können wir von Ihnen über die Rückzahlung des Betrags der Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz, Kosten) informiert haben.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)
+
+Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
+
+ 
+
+a)
+
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)  Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche (EGBGB) zu geben.
+
+ 
+
+b)
+
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)  der Anlage 1 des EGBGB zu geben.
+
+ 
+
+c)
+
+Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so ist hier folgender Hinweis zu geben:
+
+ 
+
+ 
+
+„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)
+
+Bei Anwendung der Gestaltungshinweise  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)  oder  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_08.jpg)  ist hier folgende Unterüberschrift einzufügen:
+
+ 
+
+„Besondere Hinweise“.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)
+
+Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“
+
+ 
+
+Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:
+
+ 
+
+„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_08.jpg)
+
+Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_09.jpg)
+
+Wird für einen Vertrag belehrt, der zugleich einen Vertrag über Finanzdienstleistungen betrifft, für den in Anlage 3 und/oder in Anlage 3b des EGBGB ein Muster für eine Widerrufsbelehrung zur Verfügung gestellt wird, so sind die jeweils zutreffenden Ergänzungen aus den Mustern für die Widerrufsbelehrung zu kombinieren. Soweit zu kombinierende Ergänzungen identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_10.jpg)
+
+Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des Zahlungsdienstleisters)“ zu ersetzen.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_11.jpg)
+
+Das Muster für die Widerrufsbelehrung gemäß dieser Anlage ist auch auf Verträge über die Erbringung von Zahlungsdiensten in Form eines Zahlungsdiensterahmenvertrags mit einem Kontoinformationsdienstleister anzuwenden.
+
+# Anlage 3b – (zu Artikel 246b § 2 Absatz 3 Satz 1)Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Einzelzahlungsverträgen
+
+(Fundstelle: BGBl. I 2021, 1678 - 1681)
+
+Gestaltungshinweise:
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_01.jpg)
+
+Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Zahlungsdienstleister erhält, auch eine Internetadresse.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_02.jpg)
+
+Die unter den Nummern 4 bis 8, Nummer 9 Buchstabe b, Nummer 10 Buchstabe c, Nummer 10 Buchstabe d, Nummer 10 Buchstabe e, Nummer 10 Buchstabe g, Nummer 10 Buchstabe h und Nummer 11 Buchstabe b bis Nummer 15 aufgelisteten und kursiv gedruckten Informationen sind nur dann in die Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Der Kursivdruck ist dabei zu entfernen.
+
+ 
+
+Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, beispielsweise, wenn bei Nummer 4 nur zusätzliche Kosten, nicht aber weitere Steuern, die nicht über den Zahlungsdienstleister abgeführt oder von ihm in Rechnung gestellt werden, anfallen. Werden Informationen gemäß der vorstehenden Vorgabe nicht aufgenommen, so ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 13 Buchstabe d nicht übernommen, so wird Nummer 13 Buchstabe e zu Nummer 13 Buchstabe d etc.). Wird von einer Nummer keiner der hierunter aufgeführten Untergliederungspunkte aufgenommen, so entfällt auch die Nummer insgesamt zusammen mit der Überschrift (wird beispielsweise Nummer 12 Buchstabe a bis d nicht übernommen, so entfällt auch der Text „12. zur Kommunikation“). Wird bei den Nummern 11, 12 und/oder 13 nur der Text eines Buchstabens aufgenommen, so entfällt auch die Bezeichnung als Buchstabe „a)“ im Text. Die letzte in die Widerrufsbelehrung aufgenommene Information soll mit dem Satzzeichen „.“ abschließen.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_03.jpg)
+
+Bei Abschluss von Verträgen außerhalb von Geschäftsräumen sind die Nummern 2 bis 8 nicht in die Widerrufsbelehrung aufzunehmen. Die Nummerierung ist – unter Fortgeltung von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_02.jpg)  – entsprechend anzupassen, das heißt Nummer 9 wird zu Nummer 2 etc.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_04.jpg)
+
+Bei einem Vertrag über die Erbringung von Zahlungsdiensten in Form eines Einzelzahlungsvertrags mit einem Zahlungsauslösedienstleister ist Nummer 15 mit einem Semikolon abzuschließen und folgende Nummer 16 anzufügen:
+
+ 
+
+„16.  einen Hinweis, dass dem Verbraucher rechtzeitig vor der Auslösung des Zahlungsvorgangs folgende Informationen zur Verfügung zu stellen sind:
+
+ 
+
+a)
+
+der Name und die Anschrift der Hauptverwaltung des Zahlungsdienstleisters sowie alle anderen Kontaktdaten einschließlich der E-Mail-Adresse, die für die Kommunikation mit dem Zahlungsauslösedienstleister von Belang sind;
+
+ 
+
+b)
+
+die Anschrift des Agenten des Zahlungsdienstleisters oder der Zweigniederlassung des Zahlungsdienstleisters in dem Mitgliedstaat, in dem der Zahlungsdienst angeboten wird;
+
+ 
+
+c)
+
+die Kontaktdaten der zuständigen Behörde.“
+
+ 
+
+Die unter der Nummer 16 Buchstabe b kursiv gedruckte Information ist nur dann in die Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig ist. Der Kursivdruck ist dabei zu entfernen. Die Information ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, beispielsweise nur ein Agent, nicht aber eine Zweigniederlassung existiert.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)
+
+Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 des Bürgerlichen Gesetzbuchs (BGB) erfasst ist, gilt Folgendes:
+
+ 
+
+a)
+
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_05.jpg)  Buchstabe a bis c der Anlage 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche (EGBGB) zu geben.
+
+ 
+
+b)
+
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, so sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)  der Anlage 1 des EGBGB zu geben.
+
+ 
+
+c)
+
+Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, so ist hier folgender Hinweis zu geben:
+
+ 
+
+ 
+
+„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_06.jpg)
+
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_08.jpg)  ist hier folgende Unterüberschrift einzufügen:
+
+ 
+
+„Besondere Hinweise“.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)
+
+Wenn ein verbundenes Geschäft (§ 358 BGB) vorliegt, ist für finanzierte Geschäfte der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der finanzierte Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“
+
+ 
+
+Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:
+
+ 
+
+„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_08.jpg)
+
+Wenn ein zusammenhängender Vertrag (§ 360 BGB) vorliegt, ist der nachfolgende Hinweis einzufügen:
+
+ 
+
+„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_09.jpg)
+
+Wird für einen Vertrag belehrt, der auch einen Vertrag über Finanzdienstleistungen betrifft, für den in Anlage 3 und/oder in Anlage 3a des EGBGB ein Muster für eine Widerrufsbelehrung zur Verfügung gestellt wird, so sind die jeweils zutreffenden Ergänzungen aus den Mustern für die Widerrufsbelehrung zu kombinieren. Soweit zu kombinierende Ergänzungen identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_10.jpg)
+
+Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „(einsetzen: Firma des Zahlungsdienstleisters)“ zu ersetzen.
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_11.jpg)
+
+Das Muster für die Widerrufsbelehrung gemäß dieser Anlage ist auch auf Verträge über die Erbringung von Zahlungsdiensten in Form eines Einzelzahlungsvertrags mit einem Kontoinformationsdienstleister anzuwenden.
 
 # Anlage 4 – (zu Artikel 247 § 2)  Europäische Standardinformationen für Verbraucherkredite
 
@@ -2797,7 +3102,25 @@ die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht identisch)
 
 (2) Falls der Verbraucher ein Recht auf Bedenkzeit oder Widerruf hat, so wird deutlich darauf hingewiesen. Bei einem Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs kann für die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, die Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis \[2\]) des Musters in Anlage 8 zu Artikel 247 § 6 Absatz 2 und Artikel 247 § 12 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
 
-(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts angeboten und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt oder nicht. Im Falle des Bestehens eines solchen Widerrufsrechts ist der Verbraucher gemäß Artikel 246b § 1 Absatz 1 Satz 1 Nummer 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Für die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, kann die Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis \[1\]) des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
+(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts angeboten und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt oder nicht. Im Fall des Bestehens eines solchen Widerrufsrechts ist Artikel 246b § 2 Absatz 3 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nur unter der Voraussetzung anwendbar, dass der Verbraucher wie folgt unterrichtet wird:
+
+a) Für die Information zur \[Dauer der Widerrufsfrist\] ist folgende Formulierung zu verwenden:
+
+„Die Vertragserklärung kann innerhalb von 14 Tagen widerrufen werden. “
+
+b) Für die Information zum \[Zeitpunkt, zu dem die Widerrufsfrist beginnt\] ist folgende Formulierung zu verwenden:
+
+„Die Widerrufsfrist beginnt nach Abschluss des Vertrags und nachdem Sie die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen sowie dieses ESIS-Merkblatt auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erhalten haben. “
+
+c) Für die Information zu \[Bedingungen\] und \[Verfahren\] ist folgende Formulierung zu verwenden:
+
+„Die Vertragserklärung kann ohne Angabe von Gründen mittels einer eindeutigen Erklärung widerrufen werden. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger erfolgt.
+
+Der Widerruf ist zu richten an: \[Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Kreditnehmer eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.\]
+
+Im Fall eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren. Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen werden kann. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen müssen. Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Diese Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang. “
+
+Wenn ein verbundenes Geschäft (§ 358 des Bürgerlichen Gesetzbuchs) oder zusammenhängendes Geschäft (§ 360 des Bürgerlichen Gesetzbuchs) vorliegt, sind hier Hinweise über die sich daraus ergebenden Rechtsfolgen des Widerrufs einzufügen. Für die sich aus § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechtsfolgen kann die Formulierung aus Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/ZiK_07.jpg)  des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwendet werden.
 
 (1) In diesem Abschnitt werden die interne Kontaktstelle \[Bezeichnung der einschlägigen Abteilung\] und ein Weg zur Kontaktaufnahme mit dieser Beschwerdestelle \[Anschrift\] oder \[Telefonnummer\] oder \[eine Kontaktperson\] \[Kontaktangaben\] sowie ein Link zu einem Beschwerdeverfahren auf der entsprechenden Seite einer Website oder ähnlichen Informationsquelle angegeben.
 
@@ -2821,267 +3144,7 @@ Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen 
 
 # Anlage 7 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2016, S. 430 - 432)
-
-  
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Widerrufsinformation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Widerrufsrecht                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur Vertragslaufzeit) erhalten hat. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg) |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Widerrufsfolgen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                               Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde.  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg)
-
-Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)
-
-Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
-
- 
-
-„Besonderheiten bei weiteren Verträgen”.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
-
- 
-
-a)
-
-Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat:
-
- 
-
- 
-
-„ –
-
-Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch an den \[einsetzen: Bezeichnung des verbundenen Vertrags\] (im Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
-
- 
-
- 
-
-–
-
-Steht dem Darlehensnehmer in Bezug auf den \[einsetzen\*\*\*: verbundenen Vertrag\] ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des \[einsetzen\*\*\*: verbundenen Vertrags\] auch an den Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des Widerrufs sind die in dem \[einsetzen\*\*\*: verbundenen Vertrag\] getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung maßgeblich.“
-
- 
-
-b)
-
-Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
-
- 
-
- 
-
-„–
-
-Widerruft der Darlehensnehmer den \[einsetzen: Bezeichnung des verbundenen Vertrags\], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)
-
-Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Steht dem Darlehensnehmer in Bezug auf das \[einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts\] (im Folgenden: angegebenes Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)
-
-Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:
-
- 
-
-„–
-
-Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den \[einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags\] (im Folgenden: zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)
-
-Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)
-
-Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)
-
-Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)  ist hier als Unterüberschrift einzufügen:
-
- 
-
-„Besonderheiten bei weiteren Verträgen”.
-
- 
-
-Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
-
- 
-
-Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Steht dem Darlehensnehmer in Bezug auf \[einsetzen\*\*\*: den verbundenen Vertrag\] ein Widerrufsrecht zu, sind im Fall des wirksamen Widerrufs \[einsetzen\*\*\*: des verbundenen Vertrags\] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer ausgeschlossen.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an \[einsetzen\*\*\*: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag\] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
-
- 
-
-„–
-
-Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer angeboten hat, die Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn der an \[einsetzen\*\*\*: dem verbundenen Vertrag oder dem zusammenhängenden Vertrag\] beteiligte Unternehmer sich bereit erklärt hat, diese Kosten zu tragen, oder er es unterlassen hat, den Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet, die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post zurückgesandt werden können.“
-
- 
-
-Der Unterabsatz kann wie folgt ergänzt werden:
-
- 
-
-„Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)
-
-Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:
-
- 
-
-a)
-
-Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
-
- 
-
- 
-
-Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
-
- 
-
-b)
-
-Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folgender Hinweis gegeben werden:
-
- 
-
- 
-
-„Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass der Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen muss.”
-
- 
-
-c)
-
-Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
-
- 
-
-d)
-
-Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, kann hier folgender Hinweis gegeben werden:
-
- 
-
- 
-
-„Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.”
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)
-
-Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Ist der Darlehensnehmer auf Grund des Widerrufs des \[einsetzen\*\*\*: angegebenen Geschäfts\] an den Darlehensvertrag nicht mehr gebunden, führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vgl. oben unter „Widerrufsfolgen“).“
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
-
- 
-
-„–
-
-Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr an den weiteren Vertrag gebunden ist oder infolge des Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers aus \[einsetzen\*\*\*: dem verbundenen Vertrag\] bereits zugeflossen, tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“
-
- 
-
-Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)
-
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:
-
- 
-
-„Einwendungen bei verbundenen Verträgen”.
-
- 
-
-„Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”
-
- 
-
-Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt.
-
-\*
-
-Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“.
-
-\*\*
-
-Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.
-
-\*\*\*
-
-Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.
+(Fundstelle: BGBl. I 2021, 1682 - 1686)
 
 # Anlage 8 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
 

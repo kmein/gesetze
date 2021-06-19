@@ -3736,9 +3736,11 @@ Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der Fristsetzung ein
 
 (2) Der Darlehensnehmer kann seine Verbindlichkeiten aus einem Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig erfüllen. Abweichend von Satz 1 kann der Darlehensnehmer eines Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
 
-# § 501 – Kostenermäßigung
+# § 501 – Kostenermäßigung bei vorzeitiger Rückzahlung und bei Kündigung
 
-Soweit der Darlehensnehmer seine Verbindlichkeiten vorzeitig erfüllt oder die Restschuld vor der vereinbarten Zeit durch Kündigung fällig wird, vermindern sich die Gesamtkosten (§ 6 Abs. 3 der Preisangabenverordnung) um die Zinsen und sonstigen laufzeitabhängigen Kosten, die bei gestaffelter Berechnung auf die Zeit nach der Fälligkeit oder Erfüllung entfallen.
+(1) Soweit der Darlehensnehmer seine Verbindlichkeiten aus einem Verbraucherdarlehensvertrag nach § 500 Absatz 2 vorzeitig erfüllt, ermäßigen sich die Gesamtkosten des Kredits um die Zinsen und die Kosten entsprechend der verbleibenden Laufzeit des Vertrags.
+
+(2) Soweit die Restschuld eines Verbraucherdarlehens vor der vereinbarten Zeit durch Kündigung fällig wird, ermäßigen sich die Gesamtkosten des Kredits um die Zinsen und die sonstigen laufzeitabhängigen Kosten, die bei gestaffelter Berechnung auf die Zeit nach der Fälligkeit entfallen.
 
 # § 502 – Vorfälligkeitsentschädigung
 
@@ -3856,7 +3858,7 @@ Das Bundesministerium der Finanzen und das Bundesministerium der Justiz und für
 
 3. der Verbraucher bei Beendigung des Vertrags für einen bestimmten Wert des Gegenstandes einzustehen hat.
 
-Auf Verträge gemäß Satz 1 Nr. 3 sind § 500 Abs. 2 und § 502 nicht anzuwenden.
+Auf Verträge gemäß Satz 1 Nummer 3 sind § 500 Absatz 2, § 501 Absatz 1 und § 502 nicht anzuwenden.
 
 (3) Für Verträge, die die Lieferung einer bestimmten Sache oder die Erbringung einer bestimmten anderen Leistung gegen Teilzahlungen zum Gegenstand haben (Teilzahlungsgeschäfte), gelten vorbehaltlich des Absatzes 4 zusätzlich die in den §§ 507 und 508 geregelten Besonderheiten.
 
@@ -6591,7 +6593,7 @@ Der Teilnehmer an Wertpapierlieferungs- und Abrechnungssystemen kann einen Auftr
 
 (1) Zahlungsdienstleister haben Zahlungsdienstnutzer bei der Erbringung von Zahlungsdiensten über die in Artikel 248 §§ 1 bis 12, 13 Absatz 1, 3 bis 5 und §§ 14 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der dort vorgesehenen Form zu unterrichten.
 
-(2) Zahlungsauslösedienstleister haben Zahler ausschließlich über die in Artikel 248 § 13 Absatz 1 bis 3 und § 13a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der Form zu unterrichten, die in Artikel 248 §§ 2 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen ist. Kontoinformationsdienstleister haben Zahlungsdienstnutzer über die in Artikel 248 §§ 4 und 13 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände zu unterrichten; sie können die Form und den Zeitpunkt der Unterrichtung mit dem Zahlungsdienstnutzer vereinbaren.
+(2) Zahlungsauslösedienstleister haben Zahler ausschließlich über die in Artikel 248 § 13 Absatz 1 bis 3 und § 13a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der Form zu unterrichten, die in Artikel 248 §§ 2 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen ist. Kontoinformationsdienstleister haben Zahlungsdienstnutzer entsprechend den Anforderungen des Artikels 248 §§ 4 und 13 Absatz 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten; sie können die Form und den Zeitpunkt der Unterrichtung mit dem Zahlungsdienstnutzer vereinbaren.
 
 (3) Ist die ordnungsgemäße Unterrichtung streitig, so trifft die Beweislast den Zahlungsdienstleister.
 
