@@ -55,7 +55,7 @@ Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Ges
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3c und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
 
-(+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20, 22 +++)
+(+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20, 22, 25 +++)
 
 # § 1a – Preisanpassungsklausel
 
@@ -66,6 +66,8 @@ Sind wesentliche immaterielle Werte oder Vorteile Gegenstand einer Geschäftsbez
 2. der Steuerpflichtige nachweist, dass er bei der Bestimmung des Verrechnungspreises die aus der künftigen Entwicklung resultierenden Unsicherheiten angemessen berücksichtigt hat, oder
 
 3. im Hinblick auf immaterielle Werte und Vorteile Lizenzvereinbarungen getroffen werden, die die zu zahlende Lizenz vom Umsatz oder Gewinn des Lizenznehmers abhängig machen oder für die Höhe der Lizenz Umsatz und Gewinn berücksichtigen.
+
+(+++ § 1a: Zur Anwendung vgl. § 21 Abs. 25 +++)
 
 # § 2 – Einkommensteuer
 

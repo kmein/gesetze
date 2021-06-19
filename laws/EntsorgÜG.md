@@ -9,7 +9,7 @@ Die folgenden künftigen Verpflichtungen des Betreibers einer in Anhang 1 des En
 
 2. Entrichtung von Beiträgen und Vorausleistungen aufgrund von § 21b des Atomgesetzes sowie
 
-3. Entrichtung von Umlagen aufgrund von § 21 des Standortauswahlgesetzes.
+3. Entrichtung von Umlagen aufgrund von § 28 des Standortauswahlgesetzes.
 
 # § 2 – Übergang der Handlungspflicht für die Entsorgung radioaktiver Abfälle
 
