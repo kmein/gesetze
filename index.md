@@ -826,6 +826,7 @@
 - [BinSchSprFunkV](laws/BinSchSprFunkV.md) Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
 - [BinSchStrEV](laws/BinSchStrEV.md) Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung
 - [BinSchStrO](laws/BinSchStrO.md) Binnenschifffahrtsstraßen-Ordnung
+- [BinSchStrO2012/DonauSchPV1993AbwV 1](laws/BinSchStrO2012_DonauSchPV1993AbwV_1.md) Erste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung und der Donauschifffahrtspolizeiverordnung
 - [BinSchÜbertragungsV](laws/BinSchÜbertragungsV.md) Verordnung zur Übertragung von Befugnissen zum Erlassen von Rechtsverordnungen im Bereich der Binnenschifffahrt
 - [BinSchÜbkG](laws/BinSchÜbkG.md) Gesetz zu dem Übereinkommen vom 15. März 1960 zur Vereinheitlichung einzelner Regeln über den Zusammenstoß von Binnenschiffen sowie zur Änderung des Binnenschiffahrtsgesetzes und des Flößereigesetzes
 - [BinSchUkrAbkG](laws/BinSchUkrAbkG.md) Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ukraine über die Binnenschiffahrt
