@@ -53,7 +53,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 18. die stichprobenweise Kontrolle des technischen und betrieblichen Zustandes von Luftfahrzeugen sowie der Dienstfähigkeit von Luftfahrzeugführern nach Maßgabe von § 4a Absatz 1 des Luftverkehrsgesetzes als Maßnahme der Luftaufsicht nach § 29 des Luftverkehrsgesetzes. Soweit das Luftfahrt-Bundesamt diese Kontrollen im Einzelfall ausführt, tritt die luftaufsichtliche Kontrolle durch die Länder zurück. Das Luftfahrt-Bundesamt kann die vorstehenden Aufgaben durch Verwaltungsakt oder öffentlich-rechtlichen Vertrag (Beleihung) auch auf andere Stellen übertragen oder sich anderer geeigneter Personen als Hilfsorgane bei der Wahrnehmung dieser Aufgaben bedienen. Kontrollen der Dienstfähigkeit von Luftfahrzeugführern dürfen jedoch nur unter ärztlicher Aufsicht durchgeführt werden,
 
-19. die Abwehr von Angriffen auf die Sicherheit des Luftverkehrs nach § 2 Satz 1 des Luftsicherheitsgesetzes, soweit es nach § 16 des Luftsicherheitsgesetzes hierfür zuständig ist.
+19. die Abwehr von Angriffen auf die Sicherheit des Luftverkehrs nach § 2 Satz 1 des Luftsicherheitsgesetzes, soweit es nach § 16 des Luftsicherheitsgesetzes hierfür zuständig ist,
+
+20. Notifizierende Behörde im Sinne des Artikels 19 der Delegierten Verordnung (EU) 2019/945 der Kommission vom 12. März 2019 über unbemannte Luftfahrzeugsysteme und Drittlandbetreiber unbemannter Luftfahrzeugsysteme (ABl. L 152 vom 11.6.2019, S. 1), die durch die Delegierte Verordnung (EU) 2020/1058 (ABl. L 232 vom 20.7.2020, S. 1) geändert worden ist.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann dem Luftfahrt-Bundesamt weitere Aufgaben des Bundes auf dem Gebiet der Luftfahrt zuweisen.
 

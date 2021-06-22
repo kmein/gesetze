@@ -1186,6 +1186,7 @@
 - [BTBRGGO](laws/BTBRGGO.md) Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
 - [BTBRGGOÄndErgBek 1990](laws/BTBRGGOÄndErgBek_1990.md) Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur Änderung der Gemeinsamen Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß), den der Bundesrat am 12. Oktober 1990 zustimmend zur Kenntnis genommen hat
 - [BTEpiFortbestBek](laws/BTEpiFortbestBek.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
+- [BTEpiFortbestBek 2021-06](laws/BTEpiFortbestBek_2021-06.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTGO 1980](laws/BTGO_1980.md) Geschäftsordnung des Deutschen Bundestages
 - [BTGO1980Anl 1](laws/BTGO1980Anl_1.md) Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980Anl 2](laws/BTGO1980Anl_2.md) Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)

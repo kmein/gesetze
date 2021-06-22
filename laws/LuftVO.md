@@ -51,7 +51,7 @@
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung regelt die Voraussetzungen und Bedingungen für die Teilnahme am Luftverkehr in der Bundesrepublik Deutschland, soweit die Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung nicht anwendbar ist oder keine Regelung enthält.
+Diese Verordnung regelt die Voraussetzungen und Bedingungen für die Teilnahme am Luftverkehr in der Bundesrepublik Deutschland, soweit die Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) und die Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist, in ihrer jeweils geltenden Fassung nicht anwendbar sind oder keine Regelung enthalten.
 
 # § 2 – Maßeinheiten
 
@@ -345,7 +345,7 @@ Der Starter eines Drachens, Schirmdrachens oder unbemannten Fesselballons muss d
 
 1. Fallschirmsprünge sowie den Abwurf von Gegenständen an Fallschirmen mit einer Gesamtmasse von Fallschirm und Ballast von mehr als 0,5 Kilogramm,
 
-2. Aufstiege von Flugmodellen und ungesteuerten Flugkörpern mit Eigenantrieb,
+2. Aufstiege von ungesteuerten Flugkörpern mit Eigenantrieb,
 
 3. Aufstiege von ballonartigen Leuchtkörpern sowie Massenaufstiege von Kinderballonen und Aufstiege von gebündelten Kinderballonen,
 
@@ -355,7 +355,7 @@ a) schwer und mittelschwer,
 
 b) leicht, sofern der Aufstiegsort innerhalb von Flugplatzkontrollzonen liegt und die Gesamtmasse (Ballonhülle und Ballast) mehr als 500 Gramm beträgt,
 
-5. Aufstiege von unbemannten Luftfahrtsystemen,
+5. Aufstiege von unbemannten Luftfahrtsystemen und Flugmodellen,
 
 6. Massenaufstiege und Massendurchflüge von Brieftauben von und durch Flugplatzkontrollzonen,
 
@@ -365,13 +365,13 @@ b) leicht, sofern der Aufstiegsort innerhalb von Flugplatzkontrollzonen liegt un
 
 1. Nummer 1 der Luftfahrzeugführer,
 
-2. Nummer 2 der Starter des Flugmodells oder des anderen Flugkörpers,
+2. Nummer 2 der Starter des ungesteuerten Flugkörpers mit Eigenantrieb,
 
 3. Nummer 3, soweit der Aufstieg von ballonartigen Leuchtkörpern betroffen ist, der Starter des Leuchtkörpers, im Übrigen der Veranstalter,
 
 4. Nummer 4 der Starter des unbemannten Freiballons,
 
-5. Nummer 5 der Starter des unbemannten Luftfahrtsystems,
+5. Nummer 5 der Fernpilot des unbemannten Luftfahrtsystems oder Flugmodells,
 
 6. Nummer 6 der Starter der Brieftauben,
 
@@ -379,155 +379,218 @@ b) leicht, sofern der Aufstiegsort innerhalb von Flugplatzkontrollzonen liegt un
 
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
 
-# § 21a – Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+# § 21a – Zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
 
-(1) Der Betrieb von folgenden unbemannten Luftfahrtsystemen und Flugmodellen bedarf der Erlaubnis:
+(1) Zuständige Behörde in der Betriebskategorie „offen“ für die Durchführung von Prüfungen und die Ausstellung von Bescheinigungen und Zeugnissen zum Nachweis ausreichender Kompetenzen von Fernpiloten nach Artikel 4 Absatz 2 und Artikel 8 Absatz 1 in Verbindung mit Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 ist das Luftfahrt-Bundesamt.
 
-1. unbemannte Luftfahrtsysteme und Flugmodelle mit mehr als 5 Kilogramm Startmasse,
+(2) Das Luftfahrt-Bundesamt legt die Voraussetzungen und Verfahren nach Absatz 1 fest. Dabei stellt es insbesondere sicher, dass nur solche Personen zu einer Prüfung für den Erwerb der in Artikel 4 Absatz 2 in Verbindung mit Punkt UAS.OPEN.030 Nummer 2 Buchstabe c in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 genannten Bescheinigung zugelassen werden, die der zuständigen Stelle vor der Prüfung ein gültiges Identitätsdokument und bei Minderjährigkeit zusätzlich die Zustimmung des gesetzlichen Vertreters zur Teilnahme an der Prüfung vorgelegt haben.
 
-2. unbemannte Luftfahrtsysteme und Flugmodelle mit Raketenantrieb, sofern die Masse des Treibsatzes mehr als 20 Gramm beträgt,
+(3) Für die Aufsicht über den Betrieb unbemannter Fluggeräte in der Betriebskategorie „offen“ nach Artikel 4 in Verbindung mit Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 ist die örtlich zuständige Luftfahrtbehörde des Landes zuständig.
 
-3. unbemannte Luftfahrtsysteme und Flugmodelle mit Verbrennungsmotor, die in einer Entfernung von weniger als 1,5 Kilometern von Wohngebieten betrieben werden,
+# § 21b – Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947
 
-4. unbemannte Luftfahrtsysteme und Flugmodelle aller Art in einer Entfernung von weniger als 1,5 Kilometern von der Begrenzung von Flugplätzen; auf Flugplätzen bedarf der Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen darüber hinaus der Zustimmung der Luftaufsichtsstelle und der Flugleitung,
+(1) Zuständige Behörde für den Betrieb von unbemannten Fluggeräten und für die Durchführung von Prüfungen und die Ausstellung von Bescheinigungen und Zeugnissen zum Nachweis ausreichender Kompetenzen von Fernpiloten in der Betriebskategorie „speziell“ nach Artikel 5 in Verbindung mit den Artikeln 12 und 13 der Durchführungsverordnung (EU) 2019/947 ist das Luftfahrt-Bundesamt, soweit sich nicht aus den Absätzen 2 und 3 etwas anderes ergibt. § 21a Absatz 2 Satz 1 gilt entsprechend. Die in § 21a Absatz 2 Satz 2 genannten Voraussetzungen gelten für die Prüfung und die Ausstellung der in Artikel 5 Absatz 5 in Verbindung mit Anlage 1 des Anhangs der Durchführungsverordnung (EU) 2019/947 genannten Bescheinigungen entsprechend.
 
-5. unbemannte Luftfahrtsysteme und Flugmodelle aller Art bei Nacht im Sinne des Artikel 2 Nummer 97 der Durchführungsverordnung (EU) Nr. 923/2012.
+(2) Für die Erteilung einer Betriebsgenehmigung in der Betriebskategorie „speziell“ nach Artikel 5 Absatz 1 in Verbindung mit Artikel 12 Absatz 1 bis 4 und Teil B des Anhangs der Durchführungsverordnung (EU) 2019/947 ist die Luftfahrtbehörde des Landes zuständig, es sei denn, es geht um die Erteilung einer Betriebsgenehmigung nach Artikel 5 Absatz 4 Buchstabe b der Durchführungsverordnung (EU) 2019/947. Die örtliche Zuständigkeit richtet sich bei natürlichen Personen nach dem Hauptwohnsitz des Antragstellers, bei juristischen Personen nach dem Sitz des Antragstellers.
 
-(2) Keiner Erlaubnis nach Absatz 1 und keines Nachweises nach Absatz 4 bedarf der Betrieb von unbemannten Luftfahrtsystemen durch oder unter Aufsicht von
+(3) Absatz 2 gilt entsprechend für die Aktualisierung der nach Absatz 2 Satz 1 erteilten Betriebsgenehmigung im Falle eines Betriebs in einem anderen Mitgliedstaat der Europäischen Union nach Artikel 13 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2019/947.
 
-1. Behörden, wenn dieser zur Erfüllung ihrer Aufgaben stattfindet;
+# § 21c – Zuständige Behörde für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „zulassungspflichtig“ nach der Durchführungsverordnung (EU) 2019/947; Verkehrsvorschriften
 
-2. Organisationen mit Sicherheitsaufgaben im Zusammenhang mit Not- und Unglücksfällen sowie Katastrophen.
+(1) Zuständige Behörde in der Betriebskategorie „zulassungspflichtig“ für die Erteilung einer Zulassung nach den Artikeln 6, 7 Absatz 3 und 11 der Durchführungsverordnung (EU) 2019/947 in Verbindung mit der Delegierten Verordnung (EU) 2019/945 der Kommission vom 12. März 2019 über unbemannte Luftfahrzeugsysteme und Drittlandbetreiber unbemannter Luftfahrzeugsysteme (ABl. L 152 vom 11.6.2019, S. 1), die durch die Delegierte Verordnung (EU) 2020/1058 (ABl. L 232 vom 20.7.2020, S. 1) geändert worden ist, ist das Luftfahrt-Bundesamt.
 
-Absatz 1 Nummer 4 zweiter Teilsatz gilt entsprechend.
+(2) Für den Betrieb in der Betriebskategorie „zulassungspflichtig“ gelten die Verkehrsvorschriften für bemannte, motorgetriebene Luftfahrzeuge entsprechend, soweit sie Einfluss auf die Belange des Umwelt-, Lärm- oder Naturschutzes haben können.
 
-(3) Die Erlaubnis wird erteilt, wenn
+# § 21d – Zuständige Behörde für den Betrieb von unbemannten Fluggeräten nach der Durchführungsverordnung (EU) 2019/947 durch Betreiber aus Drittländern
 
-1. der beabsichtigte Betrieb von unbemannten Fluggeräten nach Absatz 1 und die Nutzung des Luftraums nicht zu einer Gefahr für die Sicherheit des Luftverkehrs oder die öffentliche Sicherheit oder Ordnung, insbesondere zu einer Verletzung der Vorschriften über den Datenschutz und über den Naturschutz, führen und
+Zuständige Behörde für den Betrieb unbemannter Fluggeräte nach den §§ 21a bis 21c durch Betreiber im Sinne des Artikels 41 der Delegierten Verordnung (EU) 2019/945 ist das Luftfahrt-Bundesamt.
 
-2. der Schutz vor Fluglärm angemessen berücksichtigt ist.
+# § 21e – Benannte und anerkannte Stellen
 
-§ 20 Absatz 5 gilt entsprechend.
+(1) Das Luftfahrt-Bundesamt kann auf Antrag Stellen für die Durchführung von Prüfungen und für die Ausstellung von Bescheinigungen und Zeugnissen nach § 21a und § 21b benennen.
 
-(4) Steuerer von unbemannten Fluggeräten mit einer Startmasse von mehr als 2 Kilogramm müssen ab dem 1. Oktober 2017 auf Verlangen Kenntnisse in
+(2) Es kann auf Antrag Stellen für die Durchführung der praktischen Ausbildung und Beurteilung der praktischen Fähigkeiten von Fernpiloten und für die Ausstellung der Akkreditierung für den unter die Standardszenarien im Sinne des Artikels 2 Nummer 6 der Durchführungsverordnung (EU) 2019/947 fallenden Betrieb nach Anlage 1 in Verbindung mit Anlage 3 des Anhangs der Durchführungsverordnung (EU) 2019/947 anerkennen.
 
-1. der Anwendung und der Navigation dieser Fluggeräte,
+(3) Die Benennung nach Absatz 1 und die Anerkennung nach Absatz 2 gelten jeweils zwei Jahre. Sie können auf Antrag verlängert werden. Zudem können sie mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden. Die Benennung und die Anerkennung sind jeweils zu widerrufen, wenn die Voraussetzungen für ihre Erteilung nachträglich nicht nur vorübergehend entfallen sind. Sie können widerrufen werden, wenn die erteilten Auflagen nicht eingehalten werden. Das Luftfahrt-Bundesamt legt die weiteren Einzelheiten zur Benennung und zur Anerkennung fest und veröffentlicht diese in den Nachrichten für Luftfahrer.
+
+(4) Das Luftfahrt-Bundesamt führt die Aufsicht über die nach Absatz 1 benannten und die nach Absatz 2 anerkannten Stellen. Beschäftigte des Luftfahrt-Bundesamtes sind insbesondere befugt, die Räumlichkeiten der Stellen zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Sie sind zu Aufsichtszwecken auch befugt, Prüfungen nach § 21a und § 21b beizuwohnen.
+
+# § 21f – Regelungen für den Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach der Durchführungsverordnung (EU) 2019/947
+
+(1) Der Betrieb von Flugmodellen durch Mitglieder von Luftsportverbänden oder durch Mitglieder von in Luftsportverbänden organisierten Modellflugvereinen ist abweichend von den in der Durchführungsverordnung (EU) 2019/947 festgelegten Anforderungen an den Betrieb von unbemannten Fluggeräten zulässig, sofern er unter Einhaltung einschlägiger verbandsinterner Verfahren erfolgt, auf deren Grundlage eine Genehmigung nach Artikel 16 der Durchführungsverordnung (EU) 2019/947 in Verbindung mit § 21g erteilt worden ist. Dabei ist sicherzustellen, dass Fernpiloten die Bestimmungen von Punkt UAS.OPEN.060 Nummer 2 Buchstabe a bis d in Verbindung mit Nummer 4 in Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 einhalten.
+
+(2) Fernpiloten von Flugmodellen mit einer Startmasse von mehr als 2 Kilogramm müssen zusätzlich zu der Erlaubnis nach Absatz 3 über ausreichende Kenntnisse in
+
+1. der Anwendung und der sicheren Steuerung der betriebenen Flugmodelle,
 
 2. den einschlägigen luftrechtlichen Grundlagen und
 
 3. der örtlichen Luftraumordnung
 
-nach Satz 3 nachweisen. Satz 1 gilt nicht, sofern der Betrieb auf Geländen stattfindet, für die eine allgemeine Erlaubnis zum Aufstieg von Flugmodellen erteilt und für die eine Aufsichtsperson bestellt worden ist.
+verfügen. Sie dürfen ein Flugmodell nach Satz 1 nur dann betreiben, wenn sie vor der erstmaligen Aufnahme des Betriebs an einer Schulungsmaßnahme des Luftsportverbandes, dem eine Genehmigung nach Artikel 16 der Durchführungsverordnung (EU) 2019/947 erteilt worden ist, teilgenommen haben. Eine Bescheinigung über diese Teilnahme, die fünf Jahre Gültigkeit besitzt, ist während des Betriebs mitzuführen.
 
-Der Nachweis wird erbracht durch
+(3) Der Betrieb von Flugmodellen im Rahmen von Luftsportverbänden bedarf der Erlaubnis, sofern es sich um Flugmodelle handelt
 
-1. eine gültige Erlaubnis als Luftfahrzeugführer oder eine beglaubigte Kopie derselben,
+1. mit mehr als 12 Kilogramm Startmasse,
 
-2. eine Bescheinigung über eine bestandene Prüfung von einer nach § 21d vom Luftfahrt-Bundesamt anerkannten Stelle oder
+2. mit Raketenantrieb, sofern die Masse des Treibsatzes mehr als 20 Gramm beträgt,
 
-3. eine Bescheinigung über eine erfolgte Einweisung durch einen beauftragten Luftsportverband oder einen von ihm beauftragten Verein nach § 21e für den Betrieb eines Flugmodells.
+3. mit Verbrennungsmotor, die in einer Entfernung von weniger als 1,5 Kilometern von Wohngebieten betrieben werden.
 
-(5) Die zuständige Behörde bestimmt nach pflichtgemäßem Ermessen, ob dem Antrag auf Erteilung einer Erlaubnis weitere Unterlagen beigefügt werden müssen. Sie kann insbesondere noch verlangen:
+Über Satz 1 hinaus bedarf der Betrieb aller Flugmodelle bei Nacht im Sinne des Artikels 2 Satz 2 Nummer 34 der Durchführungsverordnung (EU) 2019/947 der Erlaubnis.
 
-1. den Nachweis, dass der Grundstückseigentümer oder sonst Berechtigte dem Aufstieg zugestimmt hat,
+(4) Zuständige Behörde für die Erteilung einer Erlaubnis nach Absatz 3 ist die Luftfahrtbehörde des Landes. Die örtliche Zuständigkeit richtet sich nach der Lage des Geländes, über dem der Betrieb von Flugmodellen stattfinden soll.
 
-2. das Gutachten eines Sachverständigen über die Eignung des Geländes und des betroffenen Luftraums für den Betrieb von unbemannten Luftfahrtsystemen oder Flugmodellen,
+(5) Der Antrag auf Erlaubnis nach Absatz 3 ist von dem Mitglied des Luftsportverbandes oder im Fall des Modellflugvereins durch eine entsprechend vertretungsberechtigte Person bei der zuständigen Behörde nach Absatz 4 zu stellen. Der Antrag muss folgende Angaben enthalten:
 
-3. weitere fachspezifische Bewertungen oder Gutachten, insbesondere zum Natur- und Lärmschutz, sofern diese im Einzelfall erforderlich sind.
+1. Name und Anschrift des Antragstellers,
 
-(6) Schutzvorschriften insbesondere des Bundesnaturschutzgesetzes, Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind oder fortgelten, sowie das Naturschutzrecht der Länder, sowie die Pflicht zur ordnungsgemäßen Flugvorbereitung im Sinne von Anhang SERA.2010 Buchstabe b der Durchführungsverordnung (EU) Nr. 923/2012 bleiben unberührt.
+2. Unterlagen zum Nachweis der Erfüllung der in Absatz 2 Satz 1 Nummer 1 bis 3 genannten Voraussetzungen.
 
-# § 21b – Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+(6) Die zuständige Behörde bestimmt nach pflichtgemäßem Ermessen, ob dem Antrag auf Erteilung einer Erlaubnis weitere Unterlagen beigefügt werden müssen. Sie kann insbesondere noch verlangen:
 
-(1) Der Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen ist verboten, sofern er nicht durch eine in § 21a Absatz 2 genannte Stelle oder unter deren Aufsicht erfolgt,
+1. den Nachweis, dass der Grundstückseigentümer oder sonstige Nutzungsberechtigte dem Aufstieg zugestimmt hat,
 
-1. außerhalb der Sichtweite des Steuerers nach Maßgabe des Satzes 2, sofern die Startmasse des Geräts 5 Kilogramm und weniger beträgt,
+2. das Gutachten eines Sachverständigen über die Eignung des Geländes und des betroffenen Luftraums für den Betrieb von Flugmodellen,
 
-2. über und in einem seitlichen Abstand von 100 Metern von Menschenansammlungen, Unglücksorten, Katastrophengebieten und anderen Einsatzorten von Behörden und Organisationen mit Sicherheitsaufgaben, sowie über mobilen Einrichtungen und Truppen der Bundeswehr im Rahmen angemeldeter Manöver und Übungen,
+3. weitere fachspezifische Bewertungen oder Gutachten, insbesondere zum Natur- und Lärmschutz,
 
-3. über und in einem seitlichen Abstand von 100 Metern von der Begrenzung von Industrieanlagen, Justizvollzugsanstalten, Einrichtungen des Maßregelvollzugs, militärischen Anlagen und Organisationen, Anlagen der Energieerzeugung und -verteilung sowie über Einrichtungen, in denen erlaubnisbedürftige Tätigkeiten der Schutzstufe 4 nach der Biostoffverordnung ausgeübt werden, soweit nicht der Betreiber der Anlage dem Betrieb ausdrücklich zugestimmt hat,
+sofern diese Unterlagen für die Prüfung des Antrags im Einzelfall jeweils erforderlich sind.
 
-4. über und in einem seitlichen Abstand von 100 Metern von Grundstücken, auf denen die Verfassungsorgane des Bundes oder der Länder oder oberste und obere Bundes- oder Landesbehörden oder diplomatische und konsularische Vertretungen sowie internationale Organisationen im Sinne des Völkerrechts ihren Sitz haben sowie von Liegenschaften von Polizei und anderen Sicherheitsbehörden, soweit nicht die Stelle dem Betrieb ausdrücklich zugestimmt hat,
+(7) Schutzvorschriften insbesondere des Bundesnaturschutzgesetzes, des Bundes-Immissionsschutzgesetzes und Rechtsvorschriften, die auf Grund dieser Gesetze erlassen worden sind oder fortgelten, sowie das Naturschutzrecht der Länder bleiben unberührt.
 
-5. über und in einem seitlichen Abstand von 100 Metern von Bundesfernstraßen, Bundeswasserstraßen und Bahnanlagen, soweit nicht die zuständige Stelle dem Betrieb ausdrücklich zugestimmt hat,
+# § 21g – Regelungen für die Erteilung einer Genehmigung nach der Durchführungsverordnung (EU) 2019/947 an Luftsportverbände
 
-6. über Naturschutzgebieten im Sinne des § 23 Absatz 1 des Bundesnaturschutzgesetzes, Nationalparken im Sinne des § 24 des Bundesnaturschutzgesetzes und über Gebieten im Sinne des § 7 Absatz 1 Nummer 6 und 7 des Bundesnaturschutzgesetzes, soweit der Betrieb von unbemannten Fluggeräten in diesen Gebieten nach landesrechtlichen Vorschriften nicht abweichend geregelt ist,
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder eine von ihm bestimmte Bundesbehörde kann bundesweit tätigen Luftsportverbänden auf Antrag eine Genehmigung nach Artikel 16 Absatz 1 der Durchführungsverordnung (EU) 2019/947 erteilen. Diese Genehmigung befugt den Luftsportverband dazu,
 
-7. über Wohngrundstücken, wenn die Startmasse des Geräts mehr als 0,25 Kilogramm beträgt oder das Gerät oder seine Ausrüstung in der Lage sind, optische, akustische oder Funksignale zu empfangen, zu übertragen oder aufzuzeichnen, es sei denn, der durch den Betrieb über dem jeweiligen Wohngrundstück in seinen Rechten betroffene Eigentümer oder sonstige Nutzungsberechtigte hat dem Überflug ausdrücklich zugestimmt,
+1. geeignete Verfahren zu etablieren und risikobasiert fortzuentwickeln, die im Rahmen des zulässigen Betriebs von Flugmodellen nach § 21f Absatz 1 Satz 1 zur Anwendung kommen, und
 
-8. in Flughöhen über 100 Metern über Grund, es sei denn,
+2. Schulungsmaßnahmen für Mitglieder des Luftsportverbandes oder Mitglieder von im Luftsportverband organisierten Modellflugvereinen durchzuführen und entsprechende Bescheinigungen auszustellen.
 
-a) der Betrieb findet auf einem Gelände im Sinne des § 21a Absatz 4 Satz 2 statt, oder,
+Die Genehmigung kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen zur Sicherstellung des Schutzes der Umwelt verbunden werden.
 
-b) soweit es sich nicht um einen Multicopter handelt, der Steuerer ist Inhaber einer gültigen Erlaubnis als Luftfahrzeugführer oder verfügt über eine Bescheinigung entsprechend § 21a Absatz 4 Satz 3 Nummer 2 oder 3,
+(2) Dem Antrag auf Erteilung einer Genehmigung nach Absatz 1 sind beizufügen:
 
-9. unbeschadet des § 21 in Kontrollzonen, es sei denn, die Flughöhe übersteigt nicht 50 Meter über Grund,
+1. Verfahren, die den Betrieb von Flugmodellen durch Mitglieder des Luftsportverbandes oder Mitglieder von im Luftsportverband organisierten Modellflugvereinen regeln und die den Anforderungen des Artikels 16 Absatz 2 Buchstabe b der Durchführungsverordnung (EU) 2019/947 entsprechen,
 
-10. zum Transport von
+2. eine Beschreibung, wie sichergestellt wird, dass der Betrieb von Flugmodellen im Sinne des Absatzes 1 Satz 2 durchgeführt wird,
 
-a) Explosivstoffen und pyrotechnischen Gegenständen,
+3. die Zusicherung, dass die in Nummer 1 genannten Verfahren den Mitgliedern des jeweiligen Luftsportverbandes zum Zwecke des Betriebs von Flugmodellen auf Antrag zur Verfügung gestellt werden und
 
-b) radioaktiven Stoffen, gefährlichen Stoffen und Gemischen gemäß § 3 der Verordnung zum Schutz vor Gefahrstoffen, Biostoffen der Risikogruppen 2 bis 4 gemäß § 3 Absatz 1 der Biostoffverordnung sowie Gegenständen, Flüssigkeiten oder gasförmigen Substanzen,
+4. Angaben zu Umfang und Inhalt der in Absatz 1 Satz 2 Nummer 2 genannten Schulungsmaßnahmen und zu der Erteilung von Schulungsbescheinigungen.
 
-die geeignet sind, bei Abwurf oder Freisetzung Panik, Furcht oder Schrecken bei Menschen hervorzurufen,
+(3) Vertreter der Luftsportverbände, die eine Genehmigung nach Absatz 1 erhalten haben, sind berechtigt, dem Betrieb von Flugmodellen, der auf Grundlage ihrer in Absatz 2 Nummer 1 genannten Verfahren durchgeführt wird, beizuwohnen.
 
-11. über und in einem seitlichen Abstand von 100 Metern von der Begrenzung von Krankenhäusern, soweit nicht der Betreiber des Krankenhauses dem Betrieb ausdrücklich zugestimmt hat.
+# § 21h – Regelungen für den Betrieb von unbemannten Fluggeräten in geografischen Gebieten nach der Durchführungsverordnung (EU) 2019/947
 
-Der Betrieb erfolgt außerhalb der Sichtweite des Steuerers, wenn der Steuerer das unbemannte Fluggerät ohne besondere optische Hilfsmittel nicht mehr sehen oder seine Fluglage nicht mehr eindeutig erkennen kann. Als nicht außerhalb der Sichtweite des Steuerers gilt der Betrieb eines unbemannten Fluggeräts mithilfe eines visuellen Ausgabegeräts, insbesondere einer Videobrille, wenn dieser Betrieb in Höhen unterhalb von 30 Metern erfolgt und
+(1) Die Benutzung des Luftraums durch unbemannte Fluggeräte ist frei, soweit sie nicht durch das Luftverkehrsgesetz, durch die zu seiner Durchführung erlassenen Rechtsvorschriften, durch im Inland anwendbares internationales Recht, durch Rechtsakte der Europäischen Union und die zu deren Durchführung erlassenen Rechtsvorschriften beschränkt wird.
 
-1. die Startmasse des Fluggeräts nicht mehr als 0,25 Kilogramm beträgt, oder wenn
+(2) Der Betrieb von unbemannten Fluggeräten in den Betriebskategorien „offen“ und „speziell“ nach den Artikeln 4 und 5 in Verbindung mit den Artikeln 12 und 13 der Durchführungsverordnung (EU) 2019/947 in geografischen Gebieten im Sinne des Artikels 15 Absatz 1 der Durchführungsverordnung (EU) 2019/947 bestimmt sich nach den in den Absätzen 3 bis 7 getroffenen Regelungen.
 
-2. der Steuerer von einer anderen Person, die das Fluggerät ständig in Sichtweite hat und die den Luftraum beobachtet, unmittelbar auf auftretende Gefahren hingewiesen werden kann.
+(3) Der Betrieb in den nachfolgenden geografischen Gebieten ist unter folgenden Voraussetzungen zulässig:
 
-(2) Der Betrieb von unbemannten Luftfahrtsystemen mit einer Startmasse von mehr als 25 Kilogramm ist verboten. Die zuständige Behörde kann zum Beispiel für einen Betrieb zu land- oder forstwirtschaftlichen Zwecken, auf Antrag Ausnahmen von dem Verbot nach Satz 1 zulassen, wenn die Voraussetzungen von § 21a Absatz 3 Satz 1 erfüllt sind. § 20 Absatz 5 und § 21a Absatz 5 und 6 gelten entsprechend.
+1. über und innerhalb eines seitlichen Abstands von 1,5 Kilometern von der Begrenzung von Flugplätzen, die keine Flughäfen sind, wenn der Betrieb in der „speziellen“ Kategorie stattfindet oder die Zustimmung der Luftaufsichtsstelle, der Flugleitung oder des Betreibers am Flugplatz eingeholt worden ist,
 
-(3) In begründeten Fällen kann die zuständige Behörde Ausnahmen von den Betriebsverboten nach Absatz 1 Satz 1 Nummer 1 bis 10 Buchstabe a oder Nummer 11 zulassen, wenn die Voraussetzungen von § 21a Absatz 3 Satz 1 erfüllt sind. § 20 Absatz 5 und § 21a Absatz 5 und 6 gelten entsprechend.
+2. über und innerhalb eines seitlichen Abstands von 1 000 Metern von der Begrenzung von Flughäfen sowie innerhalb einer seitlichen Entfernung von weniger als 1 000 Metern aller in beide An- und Abflugrichtungen um jeweils 5 Kilometer verlängerten Bahnmittellinien von Flughäfen, wenn der Betrieb in der „speziellen“ Kategorie stattfindet,
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert die Auswirkungen der in Absatz 1 Nummer 8 enthaltenen Höhenbegrenzung auf den Betrieb von bemannten Luftfahrzeugen in dem Höhenband zwischen 50 und 100 Metern über einen Zeitraum von zwei Jahren ab dem 7. April 2017.
+3. über und innerhalb eines seitlichen Abstands von 100 Metern von der Begrenzung von Industrieanlagen, Justizvollzugsanstalten, Einrichtungen des Maßregelvollzugs, militärischen Anlagen und Organisationen, Anlagen der zentralen Energieerzeugung und Energieverteilung sowie Einrichtungen, in denen erlaubnisbedürftige Tätigkeiten der Schutzstufe 4 nach der Biostoffverordnung ausgeübt werden, wenn die zuständige Stelle oder der Betreiber der Einrichtungen dem Betrieb des unbemannten Fluggerätes ausdrücklich zugestimmt hat. Anlagen der zentralen Energieerzeugung sind all diejenigen an das Verteilernetz angeschlossenen Energieerzeugungsanlagen, die keine dezentrale Erzeugungsanlage im Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes sind,
 
-# § 21c – Zuständige Behörde
+4. über und innerhalb eines seitlichen Abstands von 100 Metern von Grundstücken, auf denen die Verfassungsorgane des Bundes oder der Länder oder oberste und obere Bundes- oder Landesbehörden oder diplomatische und konsularische Vertretungen sowie internationale Organisationen im Sinne des Völkerrechts ihren Sitz haben, sowie von Liegenschaften von Polizei und anderen Sicherheitsbehörden, wenn die zuständige Stelle oder der Betreiber der Einrichtungen dem Betrieb des unbemannten Fluggerätes ausdrücklich zugestimmt hat,
 
-Zuständige Behörde für die Erteilung der Erlaubnis nach § 21a Absatz 1 sowie für die Erteilung der Ausnahmegenehmigung nach § 21b Absatz 2 und 3 ist die örtlich zuständige Luftfahrtbehörde des Landes.
+5. über und innerhalb eines seitlichen Abstands von 100 Metern von Bundesfernstraßen, Bundeswasserstraßen und Bahnanlagen,
 
-# § 21d – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen
+a) wenn im Fall eines Überflugs von Bundesfernstraßen oder Bahnanlagen der Betrieb in der „speziellen“ Kategorie stattfindet und die besonderen Gefahren des Überflugs von Bundesfernstraßen oder Bahnanlagen innerhalb der Risikobewertung nach Artikel 11 der Durchführungsverordnung (EU) 2019/947 ausreichend berücksichtigt wurden,
 
-(1) Die Bescheinigung nach § 21a Absatz 4 Satz 3 Nummer 2 wird von einer nach Absatz 2 anerkannten Stelle nach Bestehen einer Prüfung ausgestellt. Die Bescheinigung gilt fünf Jahre.
+b) wenn die zuständige Stelle oder der Betreiber der Einrichtungen dem Betrieb des unbemannten Fluggerätes ausdrücklich zugestimmt hat,
 
-(2) Das Luftfahrt-Bundesamt erkennt auf Antrag Stellen für die Erteilung der Bescheinigung an, wenn der Prüfungsumfang geeignet ist, die Qualifikation des Steuerers festzustellen. Außerdem müssen die Stellen zur Anerkennung durch das Luftfahrt-Bundesamt
+c) wenn die Höhe des Fluggerätes über Grund stets kleiner ist als der seitliche Abstand zur Infrastruktur und der seitliche Abstand zur Infrastruktur stets größer als 10 Meter ist oder
 
-1. in angemessenem Umfang über qualifiziertes Personal und über geeignete Räumlichkeiten zur Abnahme der Prüfungen verfügen und
+d) wenn im Fall eines Überflugs von Bundeswasserstraßen das Fluggerät mindestens 100 Meter über Grund oder Wasser betrieben wird, lediglich eine Querung auf dem kürzesten Weg erfolgt und keine Schiffe und keine Schifffahrtsanlagen, insbesondere Schleusen, Wehre, Schiffshebewerke und Liegestellen, überflogen werden,
 
-2. eine Beschreibung vorlegen, in der die Prüfungs- und Bewertungsverfahren, die Maßnahmen zur Qualitätssicherung und zur Vermeidung und Aufdeckung von Täuschungsversuchen, die Organisationsstruktur und die Qualifikation des Schulungspersonals festgehalten sind.
+6. über Naturschutzgebieten im Sinne des § 23 Absatz 1 des Bundesnaturschutzgesetzes, über Nationalparks im Sinne des § 24 des Bundesnaturschutzgesetzes und über Gebieten im Sinne des § 7 Absatz 1 Nummer 6 und 7 des Bundesnaturschutzgesetzes, wenn die zuständige Naturschutzbehörde dem Betrieb ausdrücklich zugestimmt hat, der Betrieb von unbemannten Fluggeräten in diesen Gebieten nach landesrechtlichen Vorschriften abweichend geregelt ist oder, mit Ausnahme von Nationalparks,
 
-Die Anerkennung kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden.
+a) wenn der Betrieb nicht zu Zwecken des Sports oder der Freizeitgestaltung erfolgt,
 
-(3) Der Bewerber muss das 16. Lebensjahr vollendet haben und hat der anerkannten Stelle vor der Prüfung folgende Unterlagen vorzulegen:
+b) wenn der Betrieb in einer Höhe von mehr als 100 Metern stattfindet,
 
-1. ein gültiges Identitätsdokument,
+c) wenn der Fernpilot den Schutzzweck des betroffenen Schutzgebietes kennt und diesen in angemessener Weise berücksichtigt und
 
-2. bei Minderjährigkeit die Zustimmung des gesetzlichen Vertreters,
+d) wenn die Luftraumnutzung durch den Überflug über dem betroffenen Schutzgebiet zur Erfüllung des Zwecks für den Betrieb unumgänglich erforderlich ist,
 
-3. eine Erklärung über laufende Ermittlungs- oder Strafverfahren und
+7. über Wohngrundstücken, wenn
 
-4. ein Führungszeugnis nach § 30 Absatz 1 des Bundeszentralregistergesetzes, sofern er sich erstmals um eine Bescheinigung bewirbt.
+a) der durch den Betrieb über dem jeweiligen Wohngrundstück in seinen Rechten betroffene Eigentümer oder sonstige Nutzungsberechtigte dem Überflug ausdrücklich zugestimmt hat oder
 
-(4) Die Prüfung kann auch in einem internet-gestützten Verfahren abgelegt werden. Das Luftfahrt-Bundesamt kann dafür Ausnahmen von dem Erfordernis geeigneter Räumlichkeiten nach Absatz 2 Satz 2 Nummer 1 zulassen, wenn der Antragsteller nachweist, dass eine Täuschung über die Identität des Bewerbers ausgeschlossen ist.
+b) die Startmasse des unbemannten Fluggerätes bis zu 0,25 Kilogramm beträgt und das unbemannte Fluggerät und seine Ausrüstung zu optischen und akustischen Aufzeichnungen und Übertragungen sowie zur Aufzeichnung und zur Übertragung von Funksignalen Dritter nicht in der Lage sind oder
 
-(5) Das Luftfahrt-Bundesamt legt die Form der Bescheinigung fest und veröffentlicht sie in den „Nachrichten für Luftfahrer“.
+c) der Betrieb in einer Flughöhe von mindestens 100 Metern stattfindet und
 
-(6) Die anerkannte Stelle führt ein Verzeichnis über die Namen und Anschriften der geprüften Bewerber. In diesem Verzeichnis sind auch Täuschungsversuche zu vermerken.
+aa)  
+die Luftraumnutzung über dem betroffenen Wohngrundstück zur Erfüllung eines berechtigten Betriebszwecks erforderlich ist, öffentliche Flächen oder Grundstücke, die keine Wohngrundstücke sind, für den Überflug nicht genutzt werden können und die Zustimmung des Grundstückseigentümers oder sonstigen Nutzungsberechtigten nicht in zumutbarer Weise eingeholt werden kann,
 
-(7) Das Luftfahrt-Bundesamt führt die Aufsicht über die anerkannten Stellen. Beschäftigte des Luftfahrt-Bundesamtes sind hierbei befugt, die Räumlichkeiten der Stellen zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Sie sind zu Aufsichtszwecken auch befugt, einer Prüfung beizuwohnen und Einsicht in das Verzeichnis nach Absatz 6 zu nehmen.
+bb)  
+alle Vorkehrungen getroffen werden, um einen Eingriff in den geschützten Privatbereich und in das Recht auf informationelle Selbstbestimmung der betroffenen Bürger zu vermeiden; dazu zählt insbesondere, dass in ihren Rechten Betroffene regelmäßig vorab zu informieren sind,
 
-# § 21e – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen
+cc) der Betrieb nicht zwischen 22:00 Uhr und 6:00 Uhr Ortszeit stattfindet und
 
-(1) Die Bescheinigung gemäß § 21a Absatz 4 Satz 3 Nummer 3 für Flugmodelle wird von einem sachkundigen Benannten eines nach den §§ 1 oder 4a der Verordnung zur Beauftragung von Luftsportverbänden beauftragten Luftsportverbandes oder eines von ihm beauftragten Vereins nach einer Einweisung erteilt. Die Bescheinigung gilt fünf Jahre. Die beauftragten Luftsportverbände legen die Vorgaben für das Verfahren der Erteilung der Bescheinigung fest.
+dd)  
+nicht zu erwarten ist, dass durch den Betrieb Immissionsrichtwerte nach Nummer 6.1 der Technischen Anleitung zum Schutz gegen Lärm überschritten werden,
 
-(2) Der Bewerber muss das 14. Lebensjahr vollendet haben. Bei Minderjährigkeit ist die Zustimmung des gesetzlichen Vertreters nachzuweisen.
+8. über Freibädern, Badestränden und ähnlichen Einrichtungen außerhalb der Betriebs- oder Badezeiten,
 
-# § 21f – Ausweichregeln für unbemannte Fluggeräte
+9. in Kontrollzonen, wenn eine Flugverkehrskontrollfreigabe nach § 21 eingeholt wurde,
 
-Steuerer von unbemannten Luftfahrtsystemen und Flugmodellen haben dafür Sorge zu tragen, dass diese bemannten Luftfahrzeugen und unbemannten Freiballonen im Sinne von Anlage 2 der Durchführungsverordnung (EU) Nr. 923/2012 ausweichen.
+10. über und innerhalb eines seitlichen Abstands von 100 Metern von der Begrenzung von Krankenhäusern, wenn der Betreiber der Einrichtungen dem Betrieb des unbemannten Fluggerätes ausdrücklich zugestimmt hat,
+
+11. über und innerhalb eines seitlichen Abstands von 100 Metern von Unfallorten und Einsatzorten von Behörden und Organisationen mit Sicherheitsaufgaben sowie über mobilen Einrichtungen und Truppen der Streitkräfte im Rahmen angemeldeter Manöver und Übungen, wenn der zuständige Einsatzleiter dem Betrieb zustimmt.
+
+(4) Über die in Absatz 3 genannten Regelungen hinaus kann das Bundesministerium für Verkehr und digitale Infrastruktur oder eine von ihm bestimmte Bundesbehörde weitere geografische Gebiete nach Artikel 15 Absatz 1 und 2 der Durchführungsverordnung (EU) 2019/947 festlegen und Einzelheiten zum Betrieb der unbemannten Fluggeräte bestimmen. Satz 1 gilt auch für die Einrichtung von U-Space-Lufträumen nach der Durchführungsverordnung (EU) 2021/664 der Kommission vom 22. April 2021 über einen Rechtsrahmen für den U-Space (ABl. L 139 vom 23.4.2021, S. 161).
+
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die in Absatz 3 Nummer 6 und 7 enthaltenen Bestimmungen für den Betrieb von unbemannten Fluggeräten in entsprechend geschützten Gebieten, insbesondere mit Blick auf den Lärmschutz sowie die Stör- und Scheuchwirkung auf Tiere über einen Zeitraum von zwei Jahren ab dem 18. Juni 2021 und danach alle vier Jahre. Das Bundesministerium für Verkehr und digitale Infrastruktur prüft gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einen Anpassungsbedarf dieser Verordnung.
+
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert gemeinsam mit dem Bundesministerium der Justiz und für Verbraucherschutz die in Absatz 3 Nummer 7, 8 und 11 enthaltenen Bestimmungen für den Betrieb von unbemannten Fluggeräten in entsprechend geschützten Gebieten, insbesondere mit Blick auf den Schutz der durch den Betrieb in ihren Rechten betroffenen privaten Rechtsträger über einen Zeitraum von zwei Jahren ab dem 18. Juni 2021.
+
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert die in Absatz 3 enthaltenen Bestimmungen für den Betrieb von unbemannten Fluggeräten, insbesondere mit Blick auf wirtschaftliche und gesellschaftliche Aspekte über einen Zeitraum von zwei Jahren ab dem 18. Juni 2021.
+
+# § 21i – Erteilung einer Genehmigung
+
+(1) Für die in § 21h Absatz 3 und 4 genannten geografischen Gebiete kann die örtlich zuständige Luftfahrtbehörde des Landes über die dort festgelegten Regelungen hinaus in begründeten Fällen den Betrieb von unbemannten Fluggeräten zulassen, wenn
+
+1. der beabsichtigte Betrieb und die Nutzung des Luftraums nicht zu einer Gefahr für die Sicherheit des Luftverkehrs oder zu einer Gefahr für die öffentliche Sicherheit oder Ordnung, insbesondere zu einer Verletzung der Vorschriften über den Datenschutz und über den Natur- und Umweltschutz, führen und
+
+2. der Schutz vor Fluglärm angemessen berücksichtigt ist.
+
+§ 20 Absatz 5 gilt entsprechend.
+
+(2) Die zuständige Luftfahrtbehörde des Landes bestimmt nach pflichtgemäßem Ermessen, welche Unterlagen dem Antrag nach Absatz 1 beigefügt werden müssen. Sie kann insbesondere Folgendes verlangen:
+
+1. den Nachweis, dass der Grundstückseigentümer oder sonstige Nutzungsberechtigte dem Betrieb zugestimmt hat,
+
+2. das Gutachten eines Sachverständigen über die Eignung des Geländes und des betroffenen Luftraums für den Betrieb von unbemannten Fluggeräten,
+
+3. weitere fachspezifische Bewertungen oder Gutachten, insbesondere zum Natur- und Lärmschutz,
+
+sofern diese Unterlagen für die Prüfung des Antrags im Einzelfall jeweils erforderlich sind.
+
+(3) Schutzvorschriften insbesondere des Bundes-Immissionsschutzgesetzes und des Bundesnaturschutzgesetzes, Rechtsvorschriften, die auf Grund dieser Gesetze erlassen worden sind oder fortgelten, das Naturschutzrecht der Länder sowie die Pflicht zur ordnungsgemäßen Flugvorbereitung im Sinne des Anhangs SERA.2010 Buchstabe b der Durchführungsverordnung (EU) Nr. 923/2012 bleiben unberührt.
+
+# § 21j – Ausweisung und Veröffentlichung geografischer Gebiete nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947
+
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder eine von ihm bestimmte Bundesbehörde ist zuständig für die Ausweisung und Veröffentlichung der in § 21h Absatz 3 und 4 genannten Gebiete als geografische Gebiete nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947 zum Zwecke der Geo-Sensibilisierung. § 21h gilt auch dann, wenn das betroffene geografische Gebiet nicht nach Satz 1 ausgewiesen ist.
+
+(2) Erteilt die örtlich zuständige Landesluftfahrtbehörde für den Betrieb von unbemannten Fluggeräten in einem geografischen Gebiet eine Genehmigung nach § 21i als Allgemeinverfügung, können deren Nebenbestimmungen und Auflagen dem Bundesministerium für Verkehr und digitale Infrastruktur übermittelt werden, das diese als Informationen über das geografische Gebiet zum Zwecke der Geo-Sensibilisierung nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947 veröffentlicht.
+
+# § 21k – Betrieb von unbemannten Fluggeräten durch Behörden und Organisationen mit Sicherheitsaufgaben
+
+(1) Keiner Genehmigung nach Artikel 12 der Durchführungsverordnung (EU) 2019/947 bedarf der Betrieb von unbemannten Fluggeräten mit weniger als 25 Kilogramm Startmasse durch oder unter Aufsicht von
+
+1. Behörden, wenn der Betrieb zur Erfüllung ihrer Aufgaben stattfindet,
+
+2. Organisationen mit Sicherheitsaufgaben im Zusammenhang mit Not- und Unglücksfällen sowie Katastrophen.
+
+(2) Die Regelungen der §§ 21h und 21i gelten nicht für den Betrieb von unbemannten Fluggeräten durch oder unter Aufsicht von in Absatz 1 genannten Stellen.
+
+(3) Behörden und Organisationen mit Sicherheitsaufgaben sind von der Pflicht zum Betrieb von Zusatzgeräten für die direkte Fernidentifizierung ausgenommen, soweit der Einsatz von unbemannten Fluggeräten zur Erfüllung ihrer gesetzlichen Aufgaben erfolgt.
 
 # § 22 – Regelung des Flugplatzverkehrs
 
@@ -856,15 +919,15 @@ Regelungen, Genehmigungen und Festlegungen nach § 2 Absatz 1, § 16 Absatz 1 un
 
 17. entgegen § 21 Absatz 1 eine Flugverkehrskontrollfreigabe nicht einholt,
 
-17a. ohne Erlaubnis nach § 21a Absatz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+17a. entgegen § 21f Absatz 2 Satz 2 ein Flugmodell betreibt,
 
-17b. einer mit einer Erlaubnis nach § 21a Absatz 1 oder § 21b Absatz 2 Satz 2 oder Absatz 3 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
+17b. entgegen § 21f Absatz 2 Satz 3 eine Bescheinigung nicht mitführt,
 
-17c. entgegen § 21a Absatz 4 Satz 1 einen dort genannten Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
+17c. ohne Erlaubnis nach § 21f Absatz 3 ein Flugmodell betreibt,
 
-17d. entgegen § 21b Absatz 1 Satz 1 Nummer 1 bis 10 Buchstabe a oder Nummer 11 oder Absatz 2 Satz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+17d. entgegen § 21h Absatz 3 und 4 ein unbemanntes Fluggerät betreibt,
 
-17e. entgegen § 21f nicht dafür sorgt, dass ein unbemanntes Luftfahrtsystem oder Flugmodell ausweicht,
+17e. einer mit einer Genehmigung nach § 21i Absatz 1 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 18. ohne Genehmigung nach § 22 Absatz 2 Satz 2 in eine Flugplatzverkehrszone einfliegt oder aus ihr ausfliegt,
 

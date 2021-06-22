@@ -1625,7 +1625,7 @@ Der Widerspruch ist zu begründen. Im Widerspruchsfall entscheidet die Agentur f
 
 9. die grundsätzlichen Regelungen der innerdienstlichen, sozialen und persönlichen Angelegenheiten der Beschäftigten.
 
-(3) Die Trägerversammlung nimmt in Streitfragen zwischen Personalvertretung und Geschäftsführerin oder Geschäftsführer die Aufgaben einer übergeordneten Dienststelle und obersten Dienstbehörde nach den §§ 69 bis 72 des Bundespersonalvertretungsgesetzes wahr.
+(3) Die Trägerversammlung nimmt in Streitfragen zwischen Personalvertretung und Geschäftsführerin oder Geschäftsführer die Aufgaben einer übergeordneten Dienststelle und obersten Dienstbehörde nach den §§ 71 bis 75, 77 und 82 des Bundespersonalvertretungsgesetzes wahr.
 
 (4) Die Trägerversammlung berät zu gemeinsamen Betreuungsschlüsseln. Sie hat dabei die zur Verfügung stehenden Haushaltsmittel zu berücksichtigen. Bei der Personalbedarfsermittlung sind im Regelfall folgende Anteilsverhältnisse zwischen eingesetztem Personal und Leistungsberechtigten nach diesem Buch zu berücksichtigen:
 

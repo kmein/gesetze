@@ -2877,7 +2877,7 @@ ist die Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung anzuh�
 
 2. je ein Mitglied aus der Personalvertretung eines jeden landesunmittelbaren Trägers der Rentenversicherung; die Regelungen zur Auswahl dieser Mitglieder und das Verfahren der Entsendung werden durch Landesrecht bestimmt.
 
-Die Mitglieder der Arbeitsgruppe Personalvertretung beteiligen ihre jeweiligen Hauptpersonalvertretungen, sind diese nicht eingerichtet, ihre Gesamtpersonalvertretungen. Die Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung beschließt mit der Mehrheit der Stimmen ihrer Mitglieder eine Geschäftsordnung, die Regelungen über den Vorsitz, das Verfahren zur internen Willensbildung und zur Beschlussfassung enthalten muss. Ergänzend finden die Regelungen des Bundespersonalvertretungsgesetzes Anwendung. Kostentragende Dienststelle im Sinne des § 44 des Bundespersonalvertretungsgesetzes ist die Deutsche Rentenversicherung Bund.
+Die Mitglieder der Arbeitsgruppe Personalvertretung beteiligen ihre jeweiligen Hauptpersonalvertretungen, sind diese nicht eingerichtet, ihre Gesamtpersonalvertretungen. Die Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung beschließt mit der Mehrheit der Stimmen ihrer Mitglieder eine Geschäftsordnung, die Regelungen über den Vorsitz, das Verfahren zur internen Willensbildung und zur Beschlussfassung enthalten muss. Ergänzend finden die Regelungen des Bundespersonalvertretungsgesetzes Anwendung. Kostentragende Dienststelle im Sinne der §§ 46 bis 48 des Bundespersonalvertretungsgesetzes ist die Deutsche Rentenversicherung Bund.
 
 # § 141 – Vereinigung von Regionalträgern auf Beschluss ihrer Vertreterversammlungen
 
