@@ -1159,8 +1159,6 @@ a) eines Luftverkehrsbetreiberzeugnisses für gewerbliche Rundflüge gemäß Art
 
 b) einer Genehmigung zur Durchführung von spezialisiertem Flugbetrieb mit hohem Risiko mit anderen als technisch komplizierten Luftfahrzeugen nach Anhang III ORO.SPO.110 in Verbindung mit Anhang II ARO.OPS.150 der Verordnung (EU) Nr. 965/2012, soweit die Luftfahrzeuge dabei ausschließlich nach Sichtflugregeln betrieben werden; dies gilt nicht, wenn für den Betrieb eine weitergehende Sondergenehmigung nach Anhang V der Verordnung (EU) Nr. 965/2012 erforderlich ist, für welche das Luftfahrt-Bundesamt zuständig ist.
 
-Auf Antrag eines Landes können diese Aufgaben vom Bundesministerium für Verkehr und digitale Infrastruktur oder von einer anderen von ihm bestimmten Stelle wahrgenommen werden;
-
 11b. die Aufsicht über den Flugbetrieb gemäß Anhang VII der Verordnung (EU) Nr. 965/2012;
 
 12. die Genehmigung von Luftfahrtveranstaltungen, die nicht über das Land, in dem die Veranstaltung stattfindet, hinausgehen oder für die das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit den beteiligten Ländern einen Auftrag erteilt hat (§ 24);
@@ -1183,7 +1181,7 @@ d) Abwerfen von Gegenständen aus Luftfahrzeugen,
 
 e) den Aufstieg von Frei- und Fesselballonen,
 
-f) das Steigenlassen von Flugmodellen, Flugkörpern mit Eigenantrieb und unbemannten Luftfahrtsystemen,
+f) das Steigenlassen von Flugkörpern mit Eigenantrieb,
 
 g) Abweichungen von Sicherheitsmindestflughöhen, Sicherheitsmindestabständen, Mindesthöhen,
 
@@ -1191,11 +1189,23 @@ h) den Aufstieg und Betrieb von Geräten, die ohne Luftfahrzeug zu sein, besonde
 
 mit Ausnahme der Erlaubnisse, die vom Bundesaufsichtsamt für Flugsicherung oder der Flugsicherungsorganisation erteilt werden;
 
-17. die Aufsicht innerhalb der in den Nummern 1 bis 16 festgelegten Verwaltungszuständigkeiten;
+16a. die Aufsicht über den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „offen“ nach Artikel 4 in Verbindung mit Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist;
+
+16b. die Erteilung von Betriebsgenehmigungen in der Betriebskategorie „speziell“ für den Betrieb von unbemannten Fluggeräten nach Artikel 5 Absatz 1 in Verbindung mit Artikel 12 Absatz 1 bis 4 und Teil B des Anhangs der Durchführungsverordnung (EU) 2019/947 einschließlich ihrer Aktualisierung nach Artikel 13 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2019/947, es sei denn, es geht um die Erteilung einer Betriebsgenehmigung nach Artikel 5 Absatz 4 Buchstabe b der Durchführungsverordnung (EU) 2019/947;
+
+16c. die Erteilung von Genehmigungen zum Betrieb von unbemannten Fluggeräten in geografischen Gebieten, die nach Artikel 15 Absatz 1 der Durchführungsverordnung (EU) 2019/947 festgelegt wurden;
+
+16d. die Erteilung von Erlaubnissen zum Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach § 21f der Luftverkehrs-Ordnung;
+
+17. die Aufsicht innerhalb der in den Nummern 1 bis 16d festgelegten Verwaltungszuständigkeiten; dies gilt nicht, sofern die Aufsicht in den Nummern 1 bis 16d bereits als Aufgabe geregelt ist;
 
 18. die Ausübung der Luftaufsicht, soweit diese nicht das Bundesministerium für Verkehr und digitale Infrastruktur auf Grund gesetzlicher Regelung selbst, das Luftfahrt-Bundesamt, das Bundesaufsichtsamt für Flugsicherung, die Flugsicherungsorganisation oder die für die Flughafenkoordinierung und die Luftsportgeräte zuständigen Stellen im Rahmen ihrer Aufgaben ausüben.
 
+(2a) Auf Antrag eines Landes können die Aufgaben nach Absatz 2 Nummer 11a und 16b vom Bundesministerium für Verkehr und digitale Infrastruktur oder von einer von ihm bestimmten Bundesbehörde oder Stelle wahrgenommen werden.
+
 (3) Die Entscheidungen in den Fällen des Absatzes 2 Nr. 4, 6 bis 10 und 12, ausgenommen die Genehmigungen der Flugplatzentgelte und der Flugplatzbenutzungsordnungen, werden auf Grund einer gutachtlichen Stellungnahme der Flugsicherungsorganisation getroffen.
+
+(3a) Die Entscheidungen in den Fällen des Absatzes 2 Nummer 16b können auf Grund einer gutachtlichen Stellungnahme des Luftfahrt-Bundesamtes oder einer anderen von ihm bestimmten Stelle getroffen werden.
 
 (4) Die Genehmigung von Luftfahrtunternehmen nach Absatz 2 Nr. 11 wird auf Grund einer Prüfung des technischen und betrieblichen Zustandes des Unternehmens durch das Luftfahrt-Bundesamt erteilt, wenn die Genehmigungsbehörde dies im besonders gelagerten Einzelfall für erforderlich hält.
 
@@ -1403,7 +1413,7 @@ Absatz 1 Nummer 13 Satz 2 bis 5 gilt entsprechend.
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt die zur Durchführung dieses Gesetzes und der dazu ergangenen Rechtsverordnungen notwendigen allgemeinen Verwaltungsvorschriften. Allgemeine Verwaltungsvorschriften zur Durchführung der in § 31 Abs. 2 bezeichneten Aufgaben bedürfen der Zustimmung des Bundesrates. Soweit die allgemeinen Verwaltungsvorschriften dem Schutz vor Fluglärm oder dem Schutz vor Luftverunreinigungen durch Luftfahrzeuge dienen, werden sie vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit mit Zustimmung des Bundesrates erlassen.
 
-(7) Sofern nach den Vorschriften dieses Gesetzes ein Zeugnis oder anderes Dokument mitzuführen, auszuhändigen oder einem Antrag beizufügen ist, ist die elektronische Form ausgeschlossen, sofern nicht in den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen eine abweichende Regelung getroffen ist.
+(7) (weggefallen)
 
 # § 32a
 
@@ -1813,15 +1823,69 @@ c) Artikel 4 Abs. 1 in Verbindung mit Artikel 6 Abs. 1 oder 2 oder Artikel 7 Abs
 
 jeweils in Verbindung mit einer Rechtsverordnung nach § 32 Abs. 1 Satz 1 Nr. 12 Satz 1, eine Haftpflichtversicherung nicht unterhält,
 
-16. entgegen § 64 Absatz 5 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+16. entgegen § 64 Absatz 5 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 17. gegen die Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 296 vom 25.10.2012, S. 1), die zuletzt durch die Verordnung (EU) 2015/1329 (ABl. L 206 vom 1.8.2015, S. 21) geändert worden ist, verstößt, indem er
 
 a) ein Luftverkehrsbetreiberzeugnis nach Anhang III ORO.AOC.100 Buchstabe a der Verordnung (EU) Nr. 965/2012 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beantragt oder einholt, oder
 
-b) eine Erklärung nach Anhang III ORO.DEC.100 Buchstabe a, b, d oder e der Verordnung (EU) Nr. 965/2012 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt.
+b) eine Erklärung nach Anhang III ORO.DEC.100 Buchstabe a, b, d oder e der Verordnung (EU) Nr. 965/2012 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 3, 9, 12, 12a und 16 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 5 bis 7 und 13 mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 1, 1a, 4, 8, 8a, 10, 11, 14 und 15 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+18. entgegen § 66a Absatz 3 Satz 1 oder § 66b Absatz 3 Satz 1 die dort genannten Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder deren Richtigkeit nicht, nicht richtig oder nicht rechtzeitig belegt oder
+
+19. entgegen § 66a Absatz 3 Satz 2 oder § 66b Absatz 3 Satz 3 eine dort genannte Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen die Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist, verstößt, indem er
+
+1. ohne Betriebsgenehmigung oder Erklärung nach Artikel 3 Buchstabe b in Verbindung mit Artikel 12 oder Artikel 5 Absatz 5 ein unbemanntes Luftfahrzeugsystem betreibt,
+
+2. ohne Zulassung oder Betreiberzeugnis nach Artikel 3 Buchstabe c in Verbindung mit Artikel 6 ein unbemanntes Luftfahrzeugsystem betreibt,
+
+3. entgegen Artikel 13 Absatz 1, 3 oder 4 einen Antrag, eine dort genannte Erklärung, Bestätigung, Kopie oder Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor der erstmaligen Aufnahme des Betriebs vorlegt,
+
+4. entgegen Artikel 14 Absatz 8 die Registrierungsnummer nicht, nicht richtig, nicht vollständig oder nicht vor der erstmaligen Aufnahme des Betriebs anbringt,
+
+5. entgegen Artikel 19 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 in Verbindung mit Absatz 7 der Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates vom 3. April 2014 über die Meldung, Analyse und Weiterverfolgung von Ereignissen in der Zivilluftfahrt, zur Änderung der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2003/42/EG des Europäischen Parlaments und des Rates und der Verordnungen (EG) Nr. 1321/2007 und (EG) Nr. 1330/2007 der Kommission (ABl. L 122 vom 24.4.2014, S. 18), die durch die Verordnung (EU) 2018/1139 (ABl. L 212 vom 22.8.2018, S. 1) geändert worden ist, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+6. als Fernpilot entgegen Punkt UAS.OPEN.010 Nummer 2 Satz 1 in Teil A des Anhangs einen dort genannten Abstand nicht hält,
+
+7. entgegen Punkt UAS.OPEN.020 Nummer 1, 2, 3 oder 4, Punkt UAS.OPEN.030 Nummer 1 oder 2 oder Punkt UAS.OPEN.040 Nummer 1, 2 oder 3 in Teil A des Anhangs ein unbemanntes Luftfahrzeugsystem betreibt,
+
+8. als Betreiber entgegen Punkt UAS.OPEN.020 Nummer 5, Punkt UAS.OPEN.030 Nummer 3 oder Punkt UAS.OPEN.040 Nummer 4 in Teil A des Anhangs ein unbemanntes Luftfahrzeugsystem betreibt,
+
+9. entgegen Punkt UAS.OPEN.050 in Teil A, Punkt UAS.SPEC.050 in Teil B oder Punkt UAS.LUC.030 Nummer 2 in Teil C des Anhangs eine dort genannte Anforderung nicht erfüllt,
+
+10. entgegen Punkt UAS.OPEN.060 in Teil A, Punkt UAS.SPEC.060 in Teil B, Punkt UAS.STS-01.040 oder Punkt UAS.STS-02.040 in Anlage 1 des Anhangs eine dort genannte Vorschrift nicht beachtet,
+
+11. entgegen Punkt UAS.SPEC.010 Satz 1 in Teil B des Anhangs eine Bewertung oder Erklärung nicht, nicht richtig, nicht vollständig oder nicht vor der erstmaligen Aufnahme des Betriebs vorlegt,
+
+12. entgegen Punkt UAS.SPEC.020 Nummer 5 in Teil B des Anhangs eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+13. entgegen Punkt UAS.SPEC.030 Nummer 2 in Teil B des Anhangs einen Antrag auf Aktualisierung nicht, nicht richtig, nicht vollständig oder nicht unverzüglich einreicht,
+
+14. entgegen Punkt UAS.SPEC.090 in Teil B oder Punkt UAS.LUC.090 in Teil C des Anhangs einen dort genannten Zugang nicht gewährt,
+
+15. entgegen Punkt UAS.SPEC.100 Nummer 1 in Teil B des Anhangs einen dort genannten Vermerk nicht, nicht richtig, nicht vollständig oder nicht innerhalb von 24 Stunden nach Abschluss des jeweiligen Betriebs macht,
+
+16. entgegen Punkt UAS.SPEC.100 Nummer 2 in Teil B des Anhangs sich an eine dort genannte Anweisung nicht hält,
+
+17. entgegen Punkt UAS.LUC.020 in Teil C des Anhangs, Punkt UAS.STS-01.030 oder Punkt UAS.STS-02.030 in Anlage 1 des Anhangs eine dort genannte Anforderung nicht erfüllt,
+
+18. entgegen Punkt UAS.LUC.030 Nummer 1 in Teil C des Anhangs ein Sicherheitsmanagementsystem nicht, nicht richtig oder nicht vor Erteilung des Betreiberzeugnisses einrichtet oder nicht aufrechterhält,
+
+19. entgegen Punkt UAS.LUC.040 Nummer 1 in Teil C des Anhangs ein Handbuch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Erteilung des Betreiberzeugnisses zur Verfügung stellt,
+
+20. entgegen Punkt UAS.LUC.070 in Teil C des Anhangs eine Genehmigung nicht oder nicht rechtzeitig einholt,
+
+21. als Fernpilot entgegen Punkt UAS.STS-01.010 Nummer 1, Punkt UAS.STS-01.020 Nummer 1 Buchstabe a, b, c, d oder e, Punkt UAS.STS-02.010 Nummer 1 oder Punkt UAS.STS-02.020 Nummer 1, 2, 3, 4, 5, 6 oder 7 in Anlage 1 des Anhangs eine dort genannte Vorschrift nicht beachtet,
+
+22. als Betreiber entgegen Punkt UAS.STS-01.020 Nummer 1 Buchstabe f oder Punkt UAS.STS-02.020 Nummer 8 in Anlage 1 des Anhangs eine dort genannte Vorschrift nicht beachtet,
+
+23. entgegen Punkt UAS.STS-02.050 in Anlage 1 des Anhangs eine dort genannte Vorschrift nicht beachtet oder
+
+24. entgegen Anlage 3 Satz 1 oder 2, auch in Verbindung mit Satz 3 oder 4, eine Erklärung nicht richtig vorlegt.
+
+(3) Die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 3, 9, 12, 12a und 16 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 5 bis 7 und 13 mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 1, 1a, 4, 8, 8a, 10, 11, 14, 15, 18 und 19 sowie nach Absatz 2 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 # § 59
 
@@ -2156,6 +2220,90 @@ b) wenn von Strafe abgesehen worden ist,
 in allen übrigen Fällen.
 
 Die Frist beginnt mit der Rechtskraft oder Unanfechtbarkeit der Entscheidung. Eine Entscheidung, mit der die Erteilung einer Erlaubnis oder die Anerkennung einer ausländischen Erlaubnis für immer untersagt worden ist, wird gelöscht, wenn der Betroffene gestorben ist.
+
+# § 66a – Register über Betreiber von unbemannten Fluggeräten
+
+(1) Das Luftfahrt-Bundesamt führt ein Register über Betreiber von unbemannten Fluggeräten, die im Fall von natürlichen Personen ihren Hauptwohnsitz im Hoheitsgebiet der Bundesrepublik Deutschland oder im Fall von juristischen Personen ihren Sitz im Hoheitsgebiet der Bundesrepublik Deutschland haben und die eines der folgenden unbemannten Fluggeräte betreiben:
+
+1. ein unbemanntes Fluggerät in der Betriebskategorie „offen“ mit einer Startmasse von 250 Gramm oder mehr, das bei einem Aufprall auf einen Menschen eine kinetische Energie von über 80 Joule übertragen kann,
+
+2. ein unbemanntes Fluggerät in der Betriebskategorie „offen“, das mit einem Sensor, der personenbezogene Daten erheben und speichern kann, ausgerüstet ist, sofern es nicht der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom 30.6.2009, S. 1), die zuletzt durch die Verordnung (EU) 2019/1020 (ABl. L 169 vom 25.6.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung genügt, oder
+
+3. ein unbemanntes Fluggerät einer beliebigen Masse in der Betriebskategorie „speziell“.
+
+Das Register nach Satz 1 dient dazu, die Erfüllung von Aufgaben des Luftfahrt-Bundesamtes hinsichtlich der Registrierung von Betreibern und zum Austausch von Informationen nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 sicherzustellen.
+
+(2) Das Luftfahrt-Bundesamt ist befugt, in dem Register nach Absatz 1 zu dem in Absatz 1 Satz 2 genannten Zweck folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. vollständiger Name und Geburtsdatum des Betreibers bei natürlichen Personen und Name oder Firma und Registergericht und Registernummer bei juristischen Personen,
+
+2. Anschrift des Betreibers,
+
+3. E-Mail-Adresse und Telefonnummer des Betreibers,
+
+4. Nummer der Versicherungspolice für das unbemannte Fluggerät des Betreibers,
+
+5. Bestätigung folgender Erklärung durch juristische Personen: „Das unmittelbar am Betrieb beteiligte Personal verfügt über die zur Durchführung seiner Aufgaben notwendigen Kompetenzen und das unbemannte Fluggerät wird nur von Fernpiloten mit angemessenem Kompetenzniveau betrieben“ und
+
+6. vorhandene Betriebsgenehmigungen und das einem Betreiber von der zuständigen Behörde nach Teil C des Anhangs der Durchführungsverordnung (EU) 2019/947 ausgestellte Betreiberzeugnis sowie Erklärungen mit einer Bestätigung nach Artikel 12 Absatz 5 Buchstabe b der Durchführungsverordnung (EU) 2019/947.
+
+(3) Betreiber von unbemannten Fluggeräten nach Absatz 1 Satz 1 haben dem Luftfahrt-Bundesamt vor der erstmaligen Aufnahme des Betriebs die für die Registrierung zu speichernden Daten nach Absatz 2 zu übermitteln und deren Richtigkeit auf Verlangen zu belegen, soweit dies für die Registrierung durch das Luftfahrt-Bundesamt erforderlich ist. Registrierte Betreiber haben dem Luftfahrt-Bundesamt unverzüglich jede Änderung der Voraussetzungen für eine Registrierung nach Absatz 1 und jede Änderung der Daten nach Absatz 2 zu übermitteln.
+
+(4) Abweichend von Absatz 3 Satz 1 können Luftsportverbände die für die Registrierung zu speichernden Daten ihrer Mitglieder, die unbemannte Fluggeräte nach Absatz 1 Satz 1 betreiben, dem Luftfahrt-Bundesamt unter Beachtung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) übermitteln. Absatz 3 Satz 2 gilt entsprechend.
+
+(5) Das Luftfahrt-Bundesamt übermittelt jedem Betreiber nach Absatz 1 Satz 1 elektronisch eine Registrierungsnummer, die für alle von ihm nach Absatz 1 Satz 1 betriebenen unbemannten Fluggeräte gilt, und die dem Luftfahrt-Bundesamt eine individuelle Identifizierung des Betreibers nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 ermöglicht. Das Luftfahrt-Bundesamt stellt sicher, dass das Register insbesondere den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entspricht.
+
+(6) Die nach Absatz 2 gespeicherten Daten dürfen vom Luftfahrt-Bundesamt an die für die in den Nummern 1 bis 4 genannten Aufgaben zuständigen Stellen des Bundes und der Länder sowie anderer Mitgliedstaaten der Europäischen Union übermittelt werden, soweit dies im Einzelfall erforderlich ist
+
+1. für Verwaltungsmaßnahmen auf dem Gebiet des Luftverkehrs,
+
+2. zur Verfolgung von Zuwiderhandlungen gegen Luftverkehrsvorschriften,
+
+3. zur Verfolgung von Straftaten und Ordnungswidrigkeiten, wobei die Regelungen des Gesetzes über die internationale Rechtshilfe in Strafsachen unberührt bleiben, oder
+
+4. zur Abwehr von Gefahren für die öffentliche Sicherheit.
+
+Die nach Absatz 2 Nummer 1 bis 3 gespeicherten Daten dürfen vom Luftfahrt-Bundesamt an die Verfassungsschutzbehörden übermittelt werden, soweit dies im Einzelfall zur Erfüllung der den Verfassungsschutzbehörden durch Gesetz übertragenen Aufgaben unerlässlich ist und die nach Absatz 2 Nummer 1 bis 3 gespeicherten Daten auf andere Weise nicht oder nicht rechtzeitig oder nur mit unverhältnismäßigem Aufwand zu erlangen sind. Die für die Aufgaben in den nach Satz 1 Nummer 1 bis 4 zuständigen Stellen und die nach Satz 2 zuständigen Behörden haben Aufzeichnungen über das Ersuchen mit einem Hinweis auf dessen Anlass zu führen. Die Aufzeichnungen sind gesondert aufzubewahren, durch technische und organisatorische Maßnahmen zu sichern und am Ende des Kalenderjahres, das dem Jahr der Erstellung der Aufzeichnung folgt, zu vernichten. Die Aufzeichnungen dürfen nur zur Kontrolle der Zulässigkeit der Übermittlungen verwertet werden, es sei denn, es liegen Anhaltspunkte dafür vor, dass ihre Verwertung zur Aufklärung oder Verhütung einer schwerwiegenden Straftat gegen Leib, Leben oder Freiheit einer Person führen kann und die Aufklärung oder Verhütung ohne diese Maßnahme aussichtslos oder wesentlich erschwert wäre. Der Empfänger der Auskunft ist ausdrücklich darauf hinzuweisen, dass die in Absatz 2 genannten Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie übermittelt werden.
+
+(7) Die Übermittlung nach Absatz 6 Satz 1 aus dem Register darf durch Abruf im automatisierten Verfahren an die Polizeien des Bundes und der Länder erfolgen
+
+1. zur Verfolgung von Straftaten oder
+
+2. zur Abwehr von Gefahren für die öffentliche Sicherheit,
+
+wenn diese Daten auf andere Weise nicht oder nicht rechtzeitig oder nur mit unverhältnismäßigem Aufwand zu erlangen sind. Die Verantwortung für die Zulässigkeit des einzelnen automatisierten Abrufs trägt die abrufende Stelle. Das Luftfahrt-Bundesamt überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
+
+(8) Die Übermittlung nach Absatz 6 Satz 2 aus dem Register darf durch Abruf im automatisierten Verfahren an die Verfassungsschutzbehörden zur Erfüllung der ihnen durch Gesetz übertragenen Aufgaben erfolgen, wenn diese Daten auf andere Weise nicht oder nicht rechtzeitig oder nur mit unverhältnismäßigem Aufwand zu erlangen sind. Absatz 7 Satz 2 und 3 gilt entsprechend.
+
+(9) Die nach Absatz 2 gespeicherten Daten sind vom Luftfahrt-Bundesamt unverzüglich zu löschen, soweit sie für die Erfüllung der Aufgaben nach Absatz 1 Satz 2 nicht mehr erforderlich sind, spätestens nach Ablauf von fünf Jahren ab dem Tag ihrer Speicherung. Wird dem Luftfahrt-Bundesamt innerhalb dieser Frist die Einleitung von Ermittlungen der Staatsanwaltschaft wegen des Verdachts eines Verstoßes gegen verkehrsrechtliche Vorschriften oder Strafgesetze bei der Tätigkeit als Betreiber nach Absatz 1 bekannt und sind die Daten nach Absatz 2 im Einzelfall für die Durchführung dieser Ermittlungen und eines sich hieran anschließenden Strafverfahrens erforderlich, sind die nach Absatz 2 gespeicherten Daten abweichend von Satz 1 vom Luftfahrt-Bundesamt mit dem Abschluss des Ermittlungsverfahrens oder dem rechtskräftigen Abschluss des sich hieran anschließenden Strafverfahrens unverzüglich zu löschen.
+
+(10) Das Luftfahrt-Bundesamt legt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik insbesondere unter Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 nähere Anforderungen an das Datenformat sowie die Anforderungen an die Sicherheit gegen unbefugte Zugriffe auf das Register und bei der Datenübertragung fest. Sie haben dem Stand der Technik zu entsprechen und sind vom Luftfahrt-Bundesamt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fortlaufend anzupassen.
+
+(11) Das Luftfahrt-Bundesamt hat über die Abrufe Aufzeichnungen zu fertigen, die die bei der Durchführung der Abrufe verwendeten Daten, den Tag und die Uhrzeit der Abrufe, die Kennung der abrufenden Dienststelle und die abgerufenen Daten enthalten müssen. Ferner sind bei Abrufen aus dem Register über Betreiber von unbemannten Fluggeräten vom Luftfahrt-Bundesamt weitere Aufzeichnungen zu fertigen, die sich auf den Anlass des Abrufs erstrecken und die Feststellung der für den Abruf verantwortlichen Personen ermöglichen. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen und nach sechs Monaten zu löschen.
+
+(12) Behörden und Organisationen mit Sicherheitsaufgaben zur Erfüllung ihrer gesetzlichen Aufgaben sind als Betreiber unbemannter Fluggeräte von der Registrierungspflicht ausgenommen.
+
+# § 66b – Register über zulassungspflichtige unbemannte Fluggeräte
+
+(1) Das Luftfahrt-Bundesamt führt ein Register über zulassungspflichtige unbemannte Fluggeräte. Das Register dient dazu, die Erfüllung der Aufgaben des Luftfahrt-Bundesamtes hinsichtlich der Registrierung zulassungspflichtiger unbemannter Fluggeräte und zum Austausch von Informationen nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 sicherzustellen.
+
+(2) Das Luftfahrt-Bundesamt ist befugt, in dem Register nach Absatz 1 zu dem in Absatz 1 Satz 2 genannten Zweck folgende Daten zu erheben, zu speichern und zu verwenden:
+
+1. Name oder Firma des Herstellers,
+
+2. Herstellerbezeichnung des unbemannten Fluggerätes,
+
+3. Seriennummer des unbemannten Fluggerätes,
+
+4. vollständiger Name oder Firma, Anschrift, E-Mail-Adresse und Telefonnummer der natürlichen oder juristischen Person, unter deren Namen das unbemannte Fluggerät nach Absatz 1 Satz 1 registriert ist.
+
+(3) Eigentümer von zulassungspflichtigen unbemannten Fluggeräten haben dem Luftfahrt-Bundesamt vor der erstmaligen Aufnahme des Betriebs die für die Registrierung zu speichernden Daten nach Absatz 2 zu übermitteln und deren Richtigkeit auf Verlangen zu belegen, soweit dies für die Registrierung durch das Luftfahrt-Bundesamt erforderlich ist. Die Nationalität und das Eintragungskennzeichen des unbemannten Fluggerätes wird nach Anhang 7 des Abkommens vom 7. Dezember 1944 über die internationale Zivilluftfahrt festgestellt. Eigentümer von registrierten zulassungspflichtigen unbemannten Fluggeräten haben dem Luftfahrt-Bundesamt unverzüglich jede Änderung der Voraussetzungen für eine Registrierung nach Absatz 1 und jede Änderung der Daten nach Absatz 2 zu übermitteln.
+
+(4) Das Luftfahrt-Bundesamt übermittelt Eigentümern von unbemannten Fluggeräten nach Absatz 1 Satz 1 elektronisch eine Registrierungsnummer des im Register gespeicherten unbemannten Fluggerätes, die dem Luftfahrt-Bundesamt eine individuelle Identifizierung des Eigentümers nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 ermöglicht. Das Luftfahrt-Bundesamt stellt sicher, dass das Register insbesondere den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entspricht.
+
+(5) Für die nach Absatz 2 erhobenen Daten gilt § 66a Absatz 6 bis 11 entsprechend.
+
+(6) Behörden und Organisationen mit Sicherheitsaufgaben sind von der Registrierungspflicht zulassungspflichtiger unbemannter Fluggeräte ausgenommen, soweit diese unbemannten Fluggeräte durch oder unter Aufsicht dieser Behörden und Organisationen zur Erfüllung ihrer gesetzlichen Aufgaben betrieben werden.
 
 # § 67
 

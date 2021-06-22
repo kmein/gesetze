@@ -161,6 +161,8 @@ Zu berücksichtigende Informationen gemäß § 48c
 
 8. Flugmodelle mit einer höchstzulässigen Startmasse über 25 Kilogramm (unbemannte Luftfahrzeuge, die in Sichtweite des Steuerers ausschließlich zum Zweck des Sports oder der Freizeitgestaltung betrieben werden),
 
+8a. unbemannte Luftfahrtsysteme, die in der Betriebskategorie „zulassungspflichtig“ nach Artikel 6 der Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge (ABl. L 152 vom 11.6.2019, S. 45), die zuletzt durch die Durchführungsverordnung (EU) 2020/746 (ABl. L 176 vom 5.6.2020, S. 13) geändert worden ist, betrieben werden,
+
 9. Flugmotoren,
 
 10. Propeller,
@@ -175,13 +177,7 @@ b) den Anforderungen der Betriebsordnung für Luftfahrtgerät.
 
 (3) Ein Luftfahrtgerät, dessen Nachbau nicht vorgesehen ist, wird als Einzelstück zugelassen. Einzelstücke sind von der Musterzulassung befreit. Die Sätze 1 und 2 gelten sinngemäß für die Änderungen von Einzelstücken.
 
-(4) Von der Musterzulassung befreit sind:
-
-1. ein- oder zweisitzige Luftsportgeräte mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät; für diese Luftfahrzeuge hat der Hersteller die Erfüllung der Lufttüchtigkeitsforderungen nach § 11 der Verordnung zur Prüfung von Luftfahrtgerät nachzuweisen,
-
-2. unbemannte Luftfahrtsysteme.
-
-Nummer 1 gilt ohne Gewichtsbeschränkung auch für das zugehörige Schleppgerät.
+(4) Von der Musterzulassung befreit sind ein- oder zweisitzige Luftsportgeräte mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät; für diese Luftfahrzeuge hat der Hersteller die Erfüllung der Lufttüchtigkeitsforderungen nach § 11 der Verordnung zur Prüfung von Luftfahrtgerät nachzuweisen.
 
 # § 2 – Zuständige Stellen
 
@@ -238,6 +234,8 @@ Wird ein zugelassenes Muster geändert und ist für die Änderung der Nachweis d
 7. Luftsportgeräte,
 
 8. Flugmodelle mit einer höchstzulässigen Startmasse über 150 Kilogramm,
+
+8a. unbemannte Luftfahrtsysteme, die in der Betriebskategorie „zulassungspflichtig“ nach Artikel 6 der Durchführungsverordnung (EU) 2019/947 betrieben werden,
 
 9. sonstiges Luftfahrtgerät, soweit es für die Benutzung des Luftraums bestimmt und nach der Verordnung zur Prüfung von Luftfahrtgerät prüfpflichtig ist.
 
@@ -331,7 +329,7 @@ Für Luftfahrtgerät, das ausgeführt werden soll, kann die zuständige Stelle e
 
 # § 14 – Eintragungen in Luftfahrzeugregister
 
-(1) Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge und bemannte Ballone sind bei der Verkehrszulassung von dem Luftfahrt-Bundesamt von Amts wegen in die Luftfahrzeugrolle einzutragen. Die Eintragung kann vor der Verkehrszulassung vorgenommen werden, wenn ein berechtigtes Interesse glaubhaft gemacht wird. Dem Eigentümer oder im Falle des § 8 Abs. 1 Nr. 1 Buchstabe c dem bevollmächtigten Vertreter wird ein Eintragungsschein nach Anlage 1 erteilt. Der Eintragungsschein ist bei dem Betrieb des Luftfahrzeugs mitzuführen.
+(1) Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge, unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte Ballone sind bei der Verkehrszulassung von dem Luftfahrt-Bundesamt von Amts wegen in die Luftfahrzeugrolle einzutragen. Die Eintragung kann vor der Verkehrszulassung vorgenommen werden, wenn ein berechtigtes Interesse glaubhaft gemacht wird. Dem Eigentümer oder im Falle des § 8 Abs. 1 Nr. 1 Buchstabe c dem bevollmächtigten Vertreter wird ein Eintragungsschein nach Anlage 1 erteilt. Der Eintragungsschein ist bei dem Betrieb des Luftfahrzeugs mitzuführen.
 
 (2) Ultraleichtflugzeuge und Ultraleichthubschrauber werden für die Verkehrszulassung von den Beauftragten nach § 31c des Luftverkehrsgesetzes in das Luftsportgeräteverzeichnis eingetragen, Luftsportgeräte nach § 1 Absatz 4 auf Antrag. Absatz 1 Satz 2 bis 4 gilt entsprechend, Absatz 1 Satz 4 jedoch nicht für Luftsportgeräte nach § 1 Absatz 4.
 
@@ -361,7 +359,7 @@ Für Luftfahrtgerät, das ausgeführt werden soll, kann die zuständige Stelle e
 
 (2) Auf Antrag kann unter Angabe des Musters, der Baureihe und der Werknummer des Luftfahrzeugs ein Kennzeichen, für Luftsportgeräte befristet, vorgemerkt werden.
 
-(3) Der Eigentümer eines Flugmodells oder eines unbemannten Luftfahrtsystems mit jeweils einer Startmasse von mehr als 0,25 Kilogramm, eines unbemannten Ballons oder Drachens mit jeweils einer Startmasse von mehr als 5 Kilogramm sowie eines Flugkörpers mit Eigenantrieb muss vor dem erstmaligen Betrieb an sichtbarer Stelle seinen Namen und seine Anschrift in dauerhafter und feuerfester Beschriftung an dem Fluggerät anbringen.
+(3) Der Eigentümer eines unbemannten Ballons oder Drachens mit jeweils einer Startmasse von mehr als 5 Kilogramm sowie eines Flugkörpers mit Eigenantrieb muss vor dem erstmaligen Betrieb an sichtbarer Stelle seinen Namen und seine Anschrift in dauerhafter und feuerfester Beschriftung an dem Fluggerät anbringen.
 
 # § 19a – Kodierung und Eintragung von 406 MHz-Notsendern
 
@@ -1266,13 +1264,13 @@ e) § 100 Abs. 1 nicht unverzüglich auf dem nächstgelegenen Flugplatz landet;
 I. Eintragungsschein und Lufttüchtigkeitszeugnis
 
 Eintragungsschein und Lufttüchtigkeitszeugnis sind nach den dieser Anlage beigefügten Mustern zu erteilen:  
-für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge und bemannte Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern 3 und 4.
+für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge, unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern 3 und 4.
 
   
   
 II\. Staatszugehörigkeits- und Eintragungszeichen
 
-1. Deutsche Flugzeuge, Drehflügler, Luftschiffe, Motorsegler und bemannte Ballone führen als Staatszugehörigkeitszeichen die Bundesflagge und den Buchstaben D sowie als besondere Kennzeichnung (Eintragungszeichen) vier weitere Buchstaben.
+1. Deutsche Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte Ballone führen als Staatszugehörigkeitszeichen die Bundesflagge und den Buchstaben D sowie als besondere Kennzeichnung (Eintragungszeichen) vier weitere Buchstaben.
 
 2. Folgende Buchstaben werden als erste Buchstaben des Eintragungszeichens verwendet:
 
@@ -1345,6 +1343,12 @@ M,
 nichtmotorgetrieben
 
 N,
+
+ 
+
+unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a
+
+U,
 
 bemannte Ballone
 
