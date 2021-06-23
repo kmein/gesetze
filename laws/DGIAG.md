@@ -137,7 +137,7 @@ Die gemeinsame Geschäftsstelle unterstützt die Arbeit der Stiftungsorgane, der
 
 (1) Auf die Arbeits- und Ausbildungsverhältnisse der Beschäftigten und Auszubildenden der Stiftung sind die für die Beschäftigten und Auszubildenden des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
-(2) Die Satzung kann mit Genehmigung des Bundesministeriums für Bildung und Forschung und Zustimmung der Personalvertretung abweichend von § 91 Absatz 1 Nummer 2 des Bundespersonalvertretungsgesetzes für die Wahl des Hauptpersonalrats an die strukturellen Besonderheiten der Stiftung angepasste Regelungen treffen. Für die in den Instituten tätigen Ortskräfte gilt das Ortsrecht des jeweiligen Gastlandes.
+(2) Die Satzung kann mit Genehmigung des Bundesministeriums für Bildung und Forschung und Zustimmung der Personalvertretung abweichend von § 119 Absatz 3 des Bundespersonalvertretungsgesetzes für die Wahl des Hauptpersonalrats an die strukturellen Besonderheiten der Stiftung angepasste Regelungen treffen. Für die in den Instituten tätigen lokal Beschäftigten gilt das Ortsrecht des jeweiligen Gastlandes.
 
 # § 16 – Berichterstattung
 

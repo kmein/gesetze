@@ -559,7 +559,7 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 # § 21 – Besondere Anforderungen an das Teilhabeplanverfahren
 
-Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach § 36 des Achten Buches ergänzend.
+Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend.
 
 # § 22 – Einbeziehung anderer öffentlicher Stellen
 
@@ -2099,6 +2099,8 @@ h) zielorientiert,
 
 (5) § 22 Absatz 5 ist entsprechend anzuwenden, auch wenn ein Teilhabeplan nicht zu erstellen ist.
 
+(6) Bei minderjährigen Leistungsberechtigten wird der nach § 86 des Achten Buches zuständige örtliche Träger der öffentlichen Jugendhilfe vom Träger der Eingliederungshilfe mit Zustimmung des Personensorgeberechtigten informiert und nimmt am Gesamtplanverfahren beratend teil, soweit dies zur Feststellung der Leistungen der Eingliederungshilfe nach den Kapiteln 3 bis 6 erforderlich ist. Hiervon kann in begründeten Ausnahmefällen abgesehen werden, insbesondere, wenn durch die Teilnahme des zuständigen örtlichen Trägers der öffentlichen Jugendhilfe das Gesamtplanverfahren verzögert würde.
+
 # § 118 – Instrumente der Bedarfsermittlung
 
 (1) Der Träger der Eingliederungshilfe hat die Leistungen nach den Kapiteln 3 bis 6 unter Berücksichtigung der Wünsche des Leistungsberechtigten festzustellen. Die Ermittlung des individuellen Bedarfes des Leistungsberechtigten muss durch ein Instrument erfolgen, das sich an der Internationalen Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit orientiert. Das Instrument hat die Beschreibung einer nicht nur vorübergehenden Beeinträchtigung der Aktivität und Teilhabe in den folgenden Lebensbereichen vorzusehen:
@@ -2125,7 +2127,7 @@ h) zielorientiert,
 
 # § 119 – Gesamtplankonferenz
 
-(1) Mit Zustimmung des Leistungsberechtigten kann der Träger der Eingliederungshilfe eine Gesamtplankonferenz durchführen, um die Leistungen für den Leistungsberechtigten nach den Kapiteln 3 bis 6 sicherzustellen. Die Leistungsberechtigten und die beteiligten Rehabilitationsträger können dem nach § 15 verantwortlichen Träger der Eingliederungshilfe die Durchführung einer Gesamtplankonferenz vorschlagen. Den Vorschlag auf Durchführung einer Gesamtplankonferenz kann der Träger der Eingliederungshilfe ablehnen, wenn der maßgebliche Sachverhalt schriftlich ermittelt werden kann oder der Aufwand zur Durchführung nicht in einem angemessenen Verhältnis zum Umfang der beantragten Leistung steht.
+(1) Mit Zustimmung des Leistungsberechtigten kann der Träger der Eingliederungshilfe eine Gesamtplankonferenz durchführen, um die Leistungen für den Leistungsberechtigten nach den Kapiteln 3 bis 6 sicherzustellen. Die Leistungsberechtigten, die beteiligten Rehabilitationsträger und bei minderjährigen Leistungsberechtigten der nach § 86 des Achten Buches zuständige örtliche Träger der öffentlichen Jugendhilfe können dem nach § 15 verantwortlichen Träger der Eingliederungshilfe die Durchführung einer Gesamtplankonferenz vorschlagen. Den Vorschlag auf Durchführung einer Gesamtplankonferenz kann der Träger der Eingliederungshilfe ablehnen, wenn der maßgebliche Sachverhalt schriftlich ermittelt werden kann oder der Aufwand zur Durchführung nicht in einem angemessenen Verhältnis zum Umfang der beantragten Leistung steht.
 
 (2) In einer Gesamtplankonferenz beraten der Träger der Eingliederungshilfe, der Leistungsberechtigte und beteiligte Leistungsträger gemeinsam auf der Grundlage des Ergebnisses der Bedarfsermittlung nach § 118 insbesondere über
 

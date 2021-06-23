@@ -9,7 +9,7 @@
 
 (2) Bauleitpläne sind der Flächennutzungsplan (vorbereitender Bauleitplan) und der Bebauungsplan (verbindlicher Bauleitplan).
 
-(3) Die Gemeinden haben die Bauleitpläne aufzustellen, sobald und soweit es für die städtebauliche Entwicklung und Ordnung erforderlich ist. Auf die Aufstellung von Bauleitplänen und städtebaulichen Satzungen besteht kein Anspruch; ein Anspruch kann auch nicht durch Vertrag begründet werden.
+(3) Die Gemeinden haben die Bauleitpläne aufzustellen, sobald und soweit es für die städtebauliche Entwicklung und Ordnung erforderlich ist; die Aufstellung kann insbesondere bei der Ausweisung von Flächen für den Wohnungsbau in Betracht kommen. Auf die Aufstellung von Bauleitplänen und städtebaulichen Satzungen besteht kein Anspruch; ein Anspruch kann auch nicht durch Vertrag begründet werden.
 
 (4) Die Bauleitpläne sind den Zielen der Raumordnung anzupassen.
 
@@ -59,13 +59,13 @@ b) der Land- und Forstwirtschaft,
 
 c) der Erhaltung, Sicherung und Schaffung von Arbeitsplätzen,
 
-d) des Post- und Telekommunikationswesens,
+d) des Post- und Telekommunikationswesens, insbesondere des Mobilfunkausbaus,
 
 e) der Versorgung, insbesondere mit Energie und Wasser, einschließlich der Versorgungssicherheit,
 
 f) der Sicherung von Rohstoffvorkommen,
 
-9. die Belange des Personen- und Güterverkehrs und der Mobilität der Bevölkerung, einschließlich des öffentlichen Personennahverkehrs und des nicht motorisierten Verkehrs, unter besonderer Berücksichtigung einer auf Vermeidung und Verringerung von Verkehr ausgerichteten städtebaulichen Entwicklung,
+9. die Belange des Personen- und Güterverkehrs und der Mobilität der Bevölkerung, auch im Hinblick auf die Entwicklungen beim Betrieb von Kraftfahrzeugen, etwa der Elektromobilität, einschließlich des öffentlichen Personennahverkehrs und des nicht motorisierten Verkehrs, unter besonderer Berücksichtigung einer auf Vermeidung und Verringerung von Verkehr ausgerichteten städtebaulichen Entwicklung,
 
 10. die Belange der Verteidigung und des Zivilschutzes sowie der zivilen Anschlussnutzung von Militärliegenschaften,
 
@@ -73,7 +73,9 @@ f) der Sicherung von Rohstoffvorkommen,
 
 12. die Belange des Küsten- oder Hochwasserschutzes und der Hochwasservorsorge, insbesondere die Vermeidung und Verringerung von Hochwasserschäden,
 
-13. die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung.
+13. die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung,
+
+14. die ausreichende Versorgung mit Grün- und Freiflächen.
 
 (7) Bei der Aufstellung der Bauleitpläne sind die öffentlichen und privaten Belange gegeneinander und untereinander gerecht abzuwägen.
 
@@ -269,7 +271,7 @@ b) Wald;
 
 10. die Flächen, die von der Bebauung freizuhalten sind, und ihre Nutzung;
 
-11. die Verkehrsflächen sowie Verkehrsflächen besonderer Zweckbestimmung, wie Fußgängerbereiche, Flächen für das Parken von Fahrzeugen, Flächen für das Abstellen von Fahrrädern sowie den Anschluss anderer Flächen an die Verkehrsflächen; die Flächen können auch als öffentliche oder private Flächen festgesetzt werden;
+11. die Verkehrsflächen sowie Verkehrsflächen besonderer Zweckbestimmung, wie Fußgängerbereiche, Flächen für das Parken von Fahrzeugen, Flächen für Ladeinfrastruktur elektrisch betriebener Fahrzeuge, Flächen für das Abstellen von Fahrrädern sowie den Anschluss anderer Flächen an die Verkehrsflächen; die Flächen können auch als öffentliche oder private Flächen festgesetzt werden;
 
 12. die Versorgungsflächen, einschließlich der Flächen für Anlagen und Einrichtungen zur dezentralen und zentralen Erzeugung, Verteilung, Nutzung oder Speicherung von Strom, Wärme oder Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung;
 
@@ -277,7 +279,7 @@ b) Wald;
 
 14. die Flächen für die Abfall- und Abwasserbeseitigung, einschließlich der Rückhaltung und Versickerung von Niederschlagswasser, sowie für Ablagerungen;
 
-15. die öffentlichen und privaten Grünflächen, wie Parkanlagen, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
+15. die öffentlichen und privaten Grünflächen, wie Parkanlagen, Naturerfahrungsräume, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
 
 16. a) die Wasserflächen und die Flächen für die Wasserwirtschaft,
 
@@ -319,7 +321,7 @@ b) Bindungen für Bepflanzungen und für die Erhaltung von Bäumen, Sträuchern 
 
 26. die Flächen für Aufschüttungen, Abgrabungen und Stützmauern, soweit sie zur Herstellung des Straßenkörpers erforderlich sind.
 
-(1a) Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3 können auf den Grundstücken, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, oder an anderer Stelle sowohl im sonstigen Geltungsbereich des Bebauungsplans als auch in einem anderen Bebauungsplan festgesetzt werden. Die Flächen oder Maßnahmen zum Ausgleich an anderer Stelle können den Grundstücken, auf denen Eingriffe zu erwarten sind, ganz oder teilweise zugeordnet werden; dies gilt auch für Maßnahmen auf von der Gemeinde bereitgestellten Flächen.
+(1a) Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3 können auf den Grundstücken, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, oder an anderer Stelle sowohl im sonstigen Geltungsbereich des Bebauungsplans als auch in einem anderen Bebauungsplan festgesetzt werden. Die Flächen oder Maßnahmen zum Ausgleich an anderer Stelle können den Grundstücken, auf denen Eingriffe zu erwarten sind, ganz oder teilweise zugeordnet werden; dies gilt auch für Maßnahmen auf von der Gemeinde bereitgestellten Flächen.
 
 (2) Im Bebauungsplan kann in besonderen Fällen festgesetzt werden, dass bestimmte der in ihm festgesetzten baulichen und sonstigen Nutzungen und Anlagen nur
 
@@ -340,6 +342,28 @@ sind. Die Folgenutzung soll festgesetzt werden.
 zu verhindern.
 
 (2c) Für im Zusammenhang bebaute Ortsteile nach § 34 und für Gebiete nach § 30 in der Nachbarschaft von Betriebsbereichen nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes kann zur Vermeidung oder Verringerung der Folgen von Störfällen für bestimmte Nutzungen, Arten von Nutzungen oder für nach Art, Maß oder Nutzungsintensität zu bestimmende Gebäude oder sonstige bauliche Anlagen in einem Bebauungsplan festgesetzt werden, dass diese zulässig, nicht zulässig oder nur ausnahmsweise zulässig sind; die Festsetzungen können für Teile des räumlichen Geltungsbereichs des Bebauungsplans unterschiedlich getroffen werden.
+
+(2d) Für im Zusammenhang bebaute Ortsteile (§ 34) können in einem Bebauungsplan zur Wohnraumversorgung eine oder mehrere der folgenden Festsetzungen getroffen werden:
+
+1. Flächen, auf denen Wohngebäude errichtet werden dürfen;
+
+2. Flächen, auf denen nur Gebäude errichtet werden dürfen, bei denen einzelne oder alle Wohnungen die baulichen Voraussetzungen für eine Förderung mit Mitteln der sozialen Wohnraumförderung erfüllen, oder
+
+3. Flächen, auf denen nur Gebäude errichtet werden dürfen, bei denen sich ein Vorhabenträger hinsichtlich einzelner oder aller Wohnungen dazu verpflichtet, die zum Zeitpunkt der Verpflichtung geltenden Förderbedingungen der sozialen Wohnraumförderung, insbesondere die Miet- und Belegungsbindung, einzuhalten und die Einhaltung dieser Verpflichtung in geeigneter Weise sichergestellt wird.
+
+Ergänzend können eine oder mehrere der folgenden Festsetzungen getroffen werden:
+
+1. das Maß der baulichen Nutzung;
+
+2. die Bauweise, die überbaubaren und die nicht überbaubaren Grundstücksflächen sowie die Stellung der baulichen Anlagen;
+
+3. vom Bauordnungsrecht abweichende Maße der Tiefe der Abstandsflächen;
+
+4. Mindestmaße für die Größe, Breite und Tiefe der Baugrundstücke;
+
+5. Höchstmaße für die Größe, Breite und Tiefe der Wohnbaugrundstücke, aus Gründen des sparsamen und schonenden Umgangs mit Grund und Boden.
+
+Die Festsetzungen nach den Sätzen 1 und 2 können für Teile des räumlichen Geltungsbereichs des Bebauungsplans getroffen werden. Die Festsetzungen nach den Sätzen 1 bis 3 können für Teile des räumlichen Geltungsbereichs des Bebauungsplans oder für Geschosse, Ebenen oder sonstige Teile baulicher Anlagen unterschiedlich getroffen werden. Das Verfahren zur Aufstellung eines Bebauungsplans nach diesem Absatz kann nur bis zum Ablauf des 31. Dezember 2024 förmlich eingeleitet werden. Der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum Ablauf des 31. Dezember 2026 zu fassen.
 
 (3) Bei Festsetzungen nach Absatz 1 kann auch die Höhenlage festgesetzt werden. Festsetzungen nach Absatz 1 für übereinanderliegende Geschosse und Ebenen und sonstige Teile baulicher Anlagen können gesondert getroffen werden; dies gilt auch, soweit Geschosse, Ebenen und sonstige Teile baulicher Anlagen unterhalb der Geländeoberfläche vorgesehen sind.
 
@@ -363,7 +387,7 @@ zu verhindern.
 
 # § 9a – Verordnungsermächtigung
 
-Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
+Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
 
 1. Darstellungen und Festsetzungen in den Bauleitplänen über
 
@@ -483,11 +507,11 @@ Wird in einem Bebauungsplan weder eine zulässige Grundfläche noch eine Größe
 
 Die Bekanntmachung nach Satz 1 kann mit der ortsüblichen Bekanntmachung nach § 2 Absatz 1 Satz 2 verbunden werden. In den Fällen des Absatzes 1 Satz 2 Nummer 2 erfolgt die Bekanntmachung nach Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
 
-(4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung und Ergänzung eines Bebauungsplans.
+(4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung, Ergänzung und Aufhebung eines Bebauungsplans.
 
 # § 13b – Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren
 
-Bis zum 31. Dezember 2019 gilt § 13a entsprechend für Bebauungspläne mit einer Grundfläche im Sinne des § 13a Absatz 1 Satz 2 von weniger als 10 000 Quadratmetern, durch die die Zulässigkeit von Wohnnutzungen auf Flächen begründet wird, die sich an im Zusammenhang bebaute Ortsteile anschließen. Das Verfahren zur Aufstellung eines Bebauungsplans nach Satz 1 kann nur bis zum 31. Dezember 2019 förmlich eingeleitet werden; der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum 31. Dezember 2021 zu fassen.
+Bis zum Ablauf des 31. Dezember 2022 gilt § 13a entsprechend für Bebauungspläne mit einer Grundfläche im Sinne des § 13a Absatz 1 Satz 2 von weniger als 10 000 Quadratmetern, durch die die Zulässigkeit von Wohnnutzungen auf Flächen begründet wird, die sich an im Zusammenhang bebaute Ortsteile anschließen. Das Verfahren zur Aufstellung eines Bebauungsplans nach Satz 1 kann nur bis zum Ablauf des 31. Dezember 2022 förmlich eingeleitet werden; der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum Ablauf des 31. Dezember 2024 zu fassen.
 
 # § 14 – Veränderungssperre
 
@@ -581,7 +605,7 @@ Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung d
 
 (9) In der sonstigen Satzung nach Absatz 1 kann neben der Bestimmung des Genehmigungsvorbehalts die höchstzulässige Zahl der Wohnungen in Wohngebäuden nach Maßgabe des § 9 Absatz 1 Nummer 6 festgesetzt werden. Vor der Festsetzung nach Satz 1 ist der betroffenen Öffentlichkeit und den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben.
 
-(10) Der sonstigen Satzung nach Absatz 1 ist eine Begründung beizufügen. In der Begründung zum Bebauungsplan (§ 9 Absatz 8) oder zur sonstigen Satzung ist darzulegen, dass die in Absatz 1 Satz 3 bezeichneten Voraussetzungen für die Festlegung des Gebiets vorliegen.
+(10) Der sonstigen Satzung nach Absatz 1 ist eine Begründung beizufügen. In der Begründung zum Bebauungsplan (§ 9 Absatz 8) oder zur sonstigen Satzung ist darzulegen, dass die in Absatz 1 Satz 2 bezeichneten Voraussetzungen für die Festlegung des Gebiets vorliegen.
 
 # § 23 – (weggefallen)
 
@@ -599,15 +623,23 @@ Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung d
 
 5. im Geltungsbereich eines Flächennutzungsplans, soweit es sich um unbebaute Flächen im Außenbereich handelt, für die nach dem Flächennutzungsplan eine Nutzung als Wohnbaufläche oder Wohngebiet dargestellt ist,
 
-6. in Gebieten, die nach § 30, 33 oder 34 Absatz 2 vorwiegend mit Wohngebäuden bebaut werden können, soweit die Grundstücke unbebaut sind, sowie
+6. in Gebieten, die nach den §§ 30, 33 oder 34 Absatz 2 vorwiegend mit Wohngebäuden bebaut werden können, soweit die Grundstücke unbebaut sind, wobei ein Grundstück auch dann als unbebaut gilt, wenn es lediglich mit einer Einfriedung oder zu erkennbar vorläufigen Zwecken bebaut ist,
 
-7. in Gebieten, die zum Zweck des vorbeugenden Hochwasserschutzes von Bebauung freizuhalten sind, insbesondere in Überschwemmungsgebieten.
+7. in Gebieten, die zum Zweck des vorbeugenden Hochwasserschutzes von Bebauung freizuhalten sind, insbesondere in Überschwemmungsgebieten, sowie
+
+8. in Gebieten nach den §§ 30, 33 oder 34, wenn
+
+a) in diesen ein städtebaulicher Missstand im Sinne des § 136 Absatz 2 Satz 2 in Verbindung mit Absatz 3 vorliegt oder
+
+b) die baulichen Anlagen einen Missstand im Sinne des § 177 Absatz 2 aufweisen
+
+und die Grundstücke dadurch erhebliche nachteilige Auswirkungen auf das soziale oder städtebauliche Umfeld aufweisen, insbesondere durch ihren baulichen Zustand oder ihre der öffentlichen Sicherheit und Ordnung widersprechende Nutzung.
 
 Im Falle der Nummer 1 kann das Vorkaufsrecht bereits nach Beginn der öffentlichen Auslegung ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst hat, einen Bebauungsplan aufzustellen, zu ändern oder zu ergänzen. Im Falle der Nummer 5 kann das Vorkaufsrecht bereits ausgeübt werden, wenn die Gemeinde einen Beschluss gefasst und ortsüblich bekannt gemacht hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen und wenn nach dem Stand der Planungsarbeiten anzunehmen ist, dass der künftige Flächennutzungsplan eine solche Nutzung darstellen wird.
 
 (2) Das Vorkaufsrecht steht der Gemeinde nicht zu beim Kauf von Rechten nach dem Wohnungseigentumsgesetz und von Erbbaurechten.
 
-(3) Das Vorkaufsrecht darf nur ausgeübt werden, wenn das Wohl der Allgemeinheit dies rechtfertigt. Bei der Ausübung des Vorkaufsrechts hat die Gemeinde den Verwendungszweck des Grundstücks anzugeben.
+(3) Das Vorkaufsrecht darf nur ausgeübt werden, wenn das Wohl der Allgemeinheit dies rechtfertigt. Dem Wohl der Allgemeinheit kann insbesondere die Deckung eines Wohnbedarfs in der Gemeinde dienen. Bei der Ausübung des Vorkaufsrechts hat die Gemeinde den Verwendungszweck des Grundstücks anzugeben.
 
 # § 25 – Besonderes Vorkaufsrecht
 
@@ -615,11 +647,17 @@ Im Falle der Nummer 1 kann das Vorkaufsrecht bereits nach Beginn der öffentlich
 
 1. im Geltungsbereich eines Bebauungsplans durch Satzung ihr Vorkaufsrecht an unbebauten Grundstücken begründen;
 
-2. in Gebieten, in denen sie städtebauliche Maßnahmen in Betracht zieht, zur Sicherung einer geordneten städtebaulichen Entwicklung durch Satzung Flächen bezeichnen, an denen ihr ein Vorkaufsrecht an den Grundstücken zusteht.
+2. in Gebieten, in denen sie städtebauliche Maßnahmen in Betracht zieht, zur Sicherung einer geordneten städtebaulichen Entwicklung durch Satzung Flächen bezeichnen, an denen ihr ein Vorkaufsrecht an den Grundstücken zusteht;
 
-Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden.
+3. im Geltungsbereich eines Bebauungsplans an brachliegenden Grundstücken oder für im Zusammenhang bebaute Ortsteile (§ 34) an unbebauten oder brachliegenden Grundstücken durch Satzung ihr Vorkaufsrecht begründen, wenn
 
-(2) § 24 Absatz 2 und 3 Satz 1 ist anzuwenden. Der Verwendungszweck des Grundstücks ist anzugeben, soweit das bereits zum Zeitpunkt der Ausübung des Vorkaufsrechts möglich ist.
+a) diese vorwiegend mit Wohngebäuden bebaut werden können und
+
+b) es sich um ein nach § 201a bestimmtes Gebiet mit einem angespannten Wohnungsmarkt handelt.
+
+Ein Grundstück gilt auch dann als unbebaut, wenn es lediglich mit einer Einfriedung oder zu erkennbar vorläufigen Zwecken bebaut ist. Das Vorkaufsrecht nach Satz 1 Nummer 3 erlischt mit dem Ende der Geltungsdauer der Rechtsverordnung nach § 201a. Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden.
+
+(2) § 24 Absatz 2 und 3 Satz 1 und 2 ist anzuwenden. Der Verwendungszweck des Grundstücks ist anzugeben, soweit das bereits zum Zeitpunkt der Ausübung des Vorkaufsrechts möglich ist.
 
 # § 26 – Ausschluss des Vorkaufsrechts
 
@@ -667,9 +705,9 @@ In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrecht
 
 (1) Der Verkäufer hat der Gemeinde den Inhalt des Kaufvertrags unverzüglich mitzuteilen; die Mitteilung des Verkäufers wird durch die Mitteilung des Käufers ersetzt. Das Grundbuchamt darf bei Kaufverträgen den Käufer als Eigentümer in das Grundbuch nur eintragen, wenn ihm die Nichtausübung oder das Nichtbestehen des Vorkaufsrechts nachgewiesen ist. Besteht ein Vorkaufsrecht nicht oder wird es nicht ausgeübt, hat die Gemeinde auf Antrag eines Beteiligten darüber unverzüglich ein Zeugnis auszustellen. Das Zeugnis gilt als Verzicht auf die Ausübung des Vorkaufsrechts.
 
-(2) Das Vorkaufsrecht kann nur binnen zwei Monaten nach Mitteilung des Kaufvertrags durch Verwaltungsakt gegenüber dem Verkäufer ausgeübt werden. Die §§ 463, 464 Absatz 2, §§ 465 bis 468 und 471 des Bürgerlichen Gesetzbuchs sind anzuwenden. Nach Mitteilung des Kaufvertrags ist auf Ersuchen der Gemeinde zur Sicherung ihres Anspruchs auf Übereignung des Grundstücks eine Vormerkung in das Grundbuch einzutragen; die Gemeinde trägt die Kosten der Eintragung der Vormerkung und ihrer Löschung. Das Vorkaufsrecht ist nicht übertragbar. Bei einem Eigentumserwerb auf Grund der Ausübung des Vorkaufsrechts erlöschen rechtsgeschäftliche Vorkaufsrechte. Wird die Gemeinde nach Ausübung des Vorkaufsrechts im Grundbuch als Eigentümerin eingetragen, kann sie das Grundbuchamt ersuchen, eine zur Sicherung des Übereignungsanspruchs des Käufers im Grundbuch eingetragene Vormerkung zu löschen; sie darf das Ersuchen nur stellen, wenn die Ausübung des Vorkaufsrechts für den Käufer unanfechtbar ist.
+(2) Das Vorkaufsrecht kann nur binnen drei Monaten nach Mitteilung des Kaufvertrags durch Verwaltungsakt gegenüber dem Verkäufer ausgeübt werden. Die §§ 463, 464 Absatz 2, §§ 465 bis 468 und 471 des Bürgerlichen Gesetzbuchs sind anzuwenden. Nach Mitteilung des Kaufvertrags ist auf Ersuchen der Gemeinde zur Sicherung ihres Anspruchs auf Übereignung des Grundstücks eine Vormerkung in das Grundbuch einzutragen; die Gemeinde trägt die Kosten der Eintragung der Vormerkung und ihrer Löschung. Das Vorkaufsrecht ist nicht übertragbar. Bei einem Eigentumserwerb auf Grund der Ausübung des Vorkaufsrechts erlöschen rechtsgeschäftliche Vorkaufsrechte. Wird die Gemeinde nach Ausübung des Vorkaufsrechts im Grundbuch als Eigentümerin eingetragen, kann sie das Grundbuchamt ersuchen, eine zur Sicherung des Übereignungsanspruchs des Käufers im Grundbuch eingetragene Vormerkung zu löschen; sie darf das Ersuchen nur stellen, wenn die Ausübung des Vorkaufsrechts für den Käufer unanfechtbar ist.
 
-(3) Abweichend von Absatz 2 Satz 2 kann die Gemeinde den zu zahlenden Betrag nach dem Verkehrswert des Grundstücks (§ 194) im Zeitpunkt des Kaufes bestimmen, wenn der vereinbarte Kaufpreis den Verkehrswert in einer dem Rechtsverkehr erkennbaren Weise deutlich überschreitet. In diesem Falle ist der Verkäufer berechtigt, bis zum Ablauf eines Monats nach Unanfechtbarkeit des Verwaltungsakts über die Ausübung des Vorkaufsrechts vom Vertrag zurückzutreten. Auf das Rücktrittsrecht sind die §§ 346 bis 349 und 351 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Tritt der Verkäufer vom Vertrag zurück, trägt die Gemeinde die Kosten des Vertrags auf der Grundlage des Verkehrswerts. Tritt der Verkäufer vom Vertrag nicht zurück, erlischt nach Ablauf der Rücktrittsfrist nach Satz 2 die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist. Führt die Gemeinde das Grundstück nicht innerhalb einer angemessenen Frist dem mit der Ausübung des Vorkaufsrechts verfolgten Zweck zu, hat sie dem Verkäufer einen Betrag in Höhe des Unterschieds zwischen dem vereinbarten Kaufpreis und dem Verkehrswert zu zahlen. § 44 Absatz 3 Satz 2 und 3, § 43 Absatz 2 Satz 1 sowie die §§ 121 und 122 sind entsprechend anzuwenden.
+(3) Abweichend von Absatz 2 Satz 2 kann die Gemeinde den zu zahlenden Betrag nach dem Verkehrswert des Grundstücks (§ 194) im Zeitpunkt des Kaufes bestimmen, wenn der vereinbarte Kaufpreis den Verkehrswert überschreitet. In diesem Falle ist der Verkäufer berechtigt, bis zum Ablauf eines Monats nach Unanfechtbarkeit des Verwaltungsakts über die Ausübung des Vorkaufsrechts vom Vertrag zurückzutreten. Auf das Rücktrittsrecht sind die §§ 346 bis 349 und 351 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Tritt der Verkäufer vom Vertrag zurück, trägt die Gemeinde die Kosten des Vertrags auf der Grundlage des Verkehrswerts. Tritt der Verkäufer vom Vertrag nicht zurück, erlischt nach Ablauf der Rücktrittsfrist nach Satz 2 die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist. Führt die Gemeinde das Grundstück nicht innerhalb einer angemessenen Frist dem mit der Ausübung des Vorkaufsrechts verfolgten Zweck zu, hat sie dem Verkäufer einen Betrag in Höhe des Unterschieds zwischen dem vereinbarten Kaufpreis und dem Verkehrswert zu zahlen. § 44 Absatz 3 Satz 2 und 3, § 43 Absatz 2 Satz 1 sowie die §§ 121 und 122 sind entsprechend anzuwenden.
 
 (4) In den Fällen des § 24 Absatz 1 Satz 1 Nummer 1 bestimmt die Gemeinde den zu zahlenden Betrag nach den Vorschriften des Zweiten Abschnitts des Fünften Teils, wenn der Erwerb des Grundstücks für die Durchführung des Bebauungsplans erforderlich ist und es nach dem festgesetzten Verwendungszweck enteignet werden könnte. Mit der Unanfechtbarkeit des Bescheids über die Ausübung des Vorkaufsrechts erlischt die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist.
 
@@ -697,13 +735,15 @@ In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrecht
 
 (2) Von den Festsetzungen des Bebauungsplans kann befreit werden, wenn die Grundzüge der Planung nicht berührt werden und
 
-1. Gründe des Wohls der Allgemeinheit, einschließlich des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden, die Befreiung erfordern oder
+1. Gründe des Wohls der Allgemeinheit, einschließlich der Wohnbedürfnisse der Bevölkerung und des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden, die Befreiung erfordern oder
 
 2. die Abweichung städtebaulich vertretbar ist oder
 
 3. die Durchführung des Bebauungsplans zu einer offenbar nicht beabsichtigten Härte führen würde
 
 und wenn die Abweichung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist.
+
+(3) In einem Gebiet mit einem angespannten Wohnungsmarkt, das nach § 201a bestimmt ist, kann mit Zustimmung der Gemeinde im Einzelfall von den Festsetzungen des Bebauungsplans zugunsten des Wohnungsbaus befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Von Satz 1 kann nur bis zum Ende der Geltungsdauer der Rechtsverordnung nach § 201a Gebrauch gemacht werden. Die Befristung in Satz 2 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Verfahren von der Vorschrift Gebrauch gemacht werden kann. Für die Zustimmung der Gemeinde nach Satz 1 gilt § 36 Absatz 2 Satz 2 entsprechend.
 
 # § 32 – Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen
 
@@ -747,7 +787,7 @@ c) der Nutzungsänderung einer zulässigerweise errichteten baulichen Anlage zu 
 
 3. auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist.
 
-Satz 1 findet keine Anwendung auf Einzelhandelsbetriebe, die die verbrauchernahe Versorgung der Bevölkerung beeinträchtigen oder schädliche Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden haben können.
+Satz 1 findet keine Anwendung auf Einzelhandelsbetriebe, die die verbrauchernahe Versorgung der Bevölkerung beeinträchtigen oder schädliche Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden haben können. In den Fällen des Satzes 1 Nummer 1 Buchstabe b und c kann darüber hinaus vom Erfordernis des Einfügens im Einzelfall im Sinne des Satzes 1 in mehreren vergleichbaren Fällen abgewichen werden, wenn die übrigen Voraussetzungen des Satzes 1 vorliegen und die Aufstellung eines Bebauungsplans nicht erforderlich ist.
 
 (4) Die Gemeinde kann durch Satzung
 
@@ -823,7 +863,7 @@ Raumbedeutsame Vorhaben dürfen den Zielen der Raumordnung nicht widersprechen; 
 
 (4) Den nachfolgend bezeichneten sonstigen Vorhaben im Sinne des Absatzes 2 kann nicht entgegengehalten werden, dass sie Darstellungen des Flächennutzungsplans oder eines Landschaftsplans widersprechen, die natürliche Eigenart der Landschaft beeinträchtigen oder die Entstehung, Verfestigung oder Erweiterung einer Splittersiedlung befürchten lassen, soweit sie im Übrigen außenbereichsverträglich im Sinne des Absatzes 3 sind:
 
-1. die Änderung der bisherigen Nutzung eines Gebäudes im Sinne des Absatzes 1 Nummer 1 unter folgenden Voraussetzungen:
+1. die Änderung der bisherigen Nutzung eines Gebäudes, das unter den Voraussetzungen des Absatzes 1 Nummer 1 errichtet wurde, unter folgenden Voraussetzungen:
 
 a) das Vorhaben dient einer zweckmäßigen Verwendung erhaltenswerter Bausubstanz,
 
@@ -835,7 +875,7 @@ d) das Gebäude ist vor mehr als sieben Jahren zulässigerweise errichtet worden
 
 e) das Gebäude steht im räumlich-funktionalen Zusammenhang mit der Hofstelle des land- oder forstwirtschaftlichen Betriebs,
 
-f) im Falle der Änderung zu Wohnzwecken entstehen neben den bisher nach Absatz 1 Nummer 1 zulässigen Wohnungen höchstens drei Wohnungen je Hofstelle und
+f) im Falle der Änderung zu Wohnzwecken entstehen neben den bisher nach Absatz 1 Nummer 1 zulässigen Wohnungen höchstens fünf Wohnungen je Hofstelle und
 
 g) es wird eine Verpflichtung übernommen, keine Neubebauung als Ersatz für die aufgegebene Nutzung vorzunehmen, es sei denn, die Neubebauung wird im Interesse der Entwicklung des Betriebs im Sinne des Absatzes 1 Nummer 1 erforderlich,
 
@@ -845,7 +885,7 @@ a) das vorhandene Gebäude ist zulässigerweise errichtet worden,
 
 b) das vorhandene Gebäude weist Missstände oder Mängel auf,
 
-c) das vorhandene Gebäude wird seit längerer Zeit vom Eigentümer selbst genutzt und
+c) das vorhandene Gebäude wurde oder wird seit längerer Zeit vom Eigentümer selbst genutzt und
 
 d) Tatsachen rechtfertigen die Annahme, dass das neu errichtete Gebäude für den Eigenbedarf des bisherigen Eigentümers oder seiner Familie genutzt wird; hat der Eigentümer das vorhandene Gebäude im Wege der Erbfolge von einem Voreigentümer erworben, der es seit längerer Zeit selbst genutzt hat, reicht es aus, wenn Tatsachen die Annahme rechtfertigen, dass das neu errichtete Gebäude für den Eigenbedarf des Eigentümers oder seiner Familie genutzt wird,
 
@@ -2145,7 +2185,7 @@ a) den fließenden und ruhenden Verkehr,
 
 b) die wirtschaftliche Situation und Entwicklungsfähigkeit des Gebiets unter Berücksichtigung seiner Versorgungsfunktion im Verflechtungsbereich,
 
-c) die infrastrukturelle Erschließung des Gebiets, seine Ausstattung mit Grünflächen, Spiel- und Sportplätzen und mit Anlagen des Gemeinbedarfs, insbesondere unter Berücksichtigung der sozialen und kulturellen Aufgaben dieses Gebiets im Verflechtungsbereich.
+c) die infrastrukturelle Erschließung des Gebiets, seine Ausstattung mit und die Vernetzung von Grün- und Freiflächen unter Berücksichtigung der Belange des Klimaschutzes und der Klimaanpassung, seine Ausstattung mit Spiel- und Sportplätzen und mit Anlagen des Gemeinbedarfs, insbesondere unter Berücksichtigung der sozialen und kulturellen Aufgaben dieses Gebiets im Verflechtungsbereich.
 
 (4) Städtebauliche Sanierungsmaßnahmen dienen dem Wohl der Allgemeinheit. Sie sollen dazu beitragen, dass
 
@@ -2837,7 +2877,7 @@ In den Fällen des Satzes 3 Nummer 6 kann in der Genehmigung bestimmt werden, da
 
 (1) Beabsichtigt die Gemeinde, ein Baugebot (§ 176), ein Modernisierungs- oder Instandsetzungsgebot (§ 177), ein Pflanzgebot (§ 178) oder ein Rückbau- oder Entsiegelungsgebot (§ 179) zu erlassen, soll sie die Maßnahme vorher mit den Betroffenen erörtern. Die Gemeinde soll die Eigentümer, Mieter, Pächter und sonstigen Nutzungsberechtigten im Rahmen ihrer Möglichkeiten beraten, wie die Maßnahme durchgeführt werden kann und welche Finanzierungsmöglichkeiten aus öffentlichen Kassen bestehen.
 
-(2) Die Anordnung von Maßnahmen nach den §§ 176 bis 179 setzt voraus, dass die alsbaldige Durchführung der Maßnahmen aus städtebaulichen Gründen erforderlich ist; bei Anordnung eines Baugebots nach § 176 kann dabei auch ein dringender Wohnbedarf der Bevölkerung berücksichtigt werden.
+(2) Die Anordnung von Maßnahmen nach den §§ 176 bis 179 setzt voraus, dass die alsbaldige Durchführung der Maßnahmen aus städtebaulichen Gründen erforderlich ist; bei Anordnung eines Baugebots nach § 176 kann dabei auch ein dringender Wohnbedarf der Bevölkerung berücksichtigt werden. Dies ist unter anderem insbesondere dann der Fall, wenn es sich um ein nach § 201a bestimmtes Gebiet mit einem angespannten Wohnungsmarkt handelt.
 
 (3) Mieter, Pächter und sonstige Nutzungsberechtigte haben die Durchführung der Maßnahmen nach den §§ 176 bis 179 zu dulden.
 
@@ -2849,15 +2889,19 @@ In den Fällen des Satzes 3 Nummer 6 kann in der Genehmigung bestimmt werden, da
 
 (1) Im Geltungsbereich eines Bebauungsplans kann die Gemeinde den Eigentümer durch Bescheid verpflichten, innerhalb einer zu bestimmenden angemessenen Frist
 
-1. sein Grundstück entsprechend den Festsetzungen des Bebauungsplans zu bebauen oder
+1. sein Grundstück entsprechend den Festsetzungen des Bebauungsplans zu bebauen,
 
-2. ein vorhandenes Gebäude oder eine vorhandene sonstige bauliche Anlage den Festsetzungen des Bebauungsplans anzupassen.
+2. ein vorhandenes Gebäude oder eine vorhandene sonstige bauliche Anlage den Festsetzungen des Bebauungsplans anzupassen oder
+
+3. sein Grundstück mit einer oder mehreren Wohneinheiten zu bebauen, wenn in dem Bebauungsplan Wohnnutzungen zugelassen sind und wenn es sich um ein nach § 201a bestimmtes Gebiet mit einem angespannten Wohnungsmarkt handelt. Dabei kann die Gemeinde auch ein den Festsetzungen des Bebauungsplans entsprechendes Maß der Nutzung anordnen.
+
+Die Wirksamkeit eines nach Satz 1 Nummer 3 erlassenen Baugebots wird durch das Ende der Geltungsdauer der Rechtsverordnung nach § 201a nicht berührt.
 
 (2) Das Baugebot kann außerhalb der in Absatz 1 bezeichneten Gebiete, aber innerhalb im Zusammenhang bebauter Ortsteile angeordnet werden, um unbebaute oder geringfügig bebaute Grundstücke entsprechend den baurechtlichen Vorschriften zu nutzen oder einer baulichen Nutzung zuzuführen, insbesondere zur Schließung von Baulücken.
 
-(3) Ist die Durchführung des Vorhabens aus wirtschaftlichen Gründen einem Eigentümer nicht zuzumuten, hat die Gemeinde von dem Baugebot abzusehen.
+(3) Die Gemeinde hat von dem Baugebot abzusehen, wenn die Durchführung des Vorhabens aus wirtschaftlichen Gründen einem Eigentümer nicht zuzumuten ist. Die Gemeinde hat weiter bis zum 23. Juni 2026 von dem Baugebot abzusehen, wenn ein Eigentümer im Falle des Absatzes 1 Satz 1 Nummer 3 glaubhaft macht, dass ihm die Durchführung des Vorhabens aus Gründen des Erhalts der Entscheidungsbefugnis über die Nutzung des Grundstücks für seinen Ehegatten oder eine in gerader Linie verwandte Person nicht zuzumuten ist. Die Regelung ist zu evaluieren.
 
-(4) Der Eigentümer kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn er glaubhaft macht, dass ihm die Durchführung des Vorhabens aus wirtschaftlichen Gründen nicht zuzumuten ist. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
+(4) Der Eigentümer kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn er glaubhaft macht, dass ihm die Durchführung des Vorhabens aus wirtschaftlichen Gründen nicht zuzumuten ist. In diesem Fall kann die Gemeinde das Grundstück zugunsten einer kommunalen Wohnungsbaugesellschaft übernehmen, wenn diese innerhalb angemessener Frist in der Lage ist, das Baugebot zu erfüllen und sich hierzu verpflichtet. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
 (5) Ist die Durchführung eines Baugebots nur möglich, wenn zuvor eine bauliche Anlage oder Teile davon beseitigt werden, ist der Eigentümer mit dem Baugebot auch zur Beseitigung verpflichtet. § 179 Absatz 2 und 3 Satz 1, § 43 Absatz 2 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
@@ -2868,6 +2912,14 @@ In den Fällen des Satzes 3 Nummer 6 kann in der Genehmigung bestimmt werden, da
 (8) Kommt der Eigentümer der Verpflichtung nach Absatz 7 auch nach Vollstreckungsmaßnahmen auf Grund landesrechtlicher Vorschriften nicht nach, kann das Enteignungsverfahren nach § 85 Absatz 1 Nummer 5 auch vor Ablauf der Frist nach Absatz 1 eingeleitet werden.
 
 (9) In dem Enteignungsverfahren ist davon auszugehen, dass die Voraussetzungen des Baugebots vorliegen; die Vorschriften über die Zulässigkeit der Enteignung bleiben unberührt. Bei der Bemessung der Entschädigung bleiben Werterhöhungen unberücksichtigt, die nach Unanfechtbarkeit des Baugebots eingetreten sind, es sei denn, dass der Eigentümer die Werterhöhungen durch eigene Aufwendungen zulässigerweise bewirkt hat.
+
+# § 176a – Städtebauliches Entwicklungskonzept zur Stärkung der Innenentwicklung
+
+(1) Die Gemeinde kann ein städtebauliches Entwicklungskonzept beschließen, das Aussagen zum räumlichen Geltungsbereich, zu Zielen und zur Umsetzung von Maßnahmen enthält, die der Stärkung der Innenentwicklung dienen.
+
+(2) Das städtebauliche Entwicklungskonzept nach Absatz 1 soll insbesondere der baulichen Nutzbarmachung auch von im Gemeindegebiet ohne Zusammenhang verteilt liegenden unbebauten oder brachliegenden Grundstücken dienen.
+
+(3) Die Gemeinde kann ein städtebauliches Entwicklungskonzept nach Absatz 1 zum Bestandteil der Begründung eines Bebauungsplans machen.
 
 # § 177 – Modernisierungs- und Instandsetzungsgebot
 
@@ -3053,7 +3105,7 @@ Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem Zeitpunkt
 
 # § 196 – Bodenrichtwerte
 
-(1) Auf Grund der Kaufpreissammlung sind flächendeckend durchschnittliche Lagewerte für den Boden unter Berücksichtigung des unterschiedlichen Entwicklungszustands zu ermitteln (Bodenrichtwerte). In bebauten Gebieten sind Bodenrichtwerte mit dem Wert zu ermitteln, der sich ergeben würde, wenn der Boden unbebaut wäre. Es sind Richtwertzonen zu bilden, die jeweils Gebiete umfassen, die nach Art und Maß der Nutzung weitgehend übereinstimmen. Die wertbeeinflussenden Merkmale des Bodenrichtwertgrundstücks sind darzustellen. Die Bodenrichtwerte sind jeweils zum Ende jedes zweiten Kalenderjahres zu ermitteln, wenn nicht eine häufigere Ermittlung bestimmt ist. Für Zwecke der steuerlichen Bewertung des Grundbesitzes sind Bodenrichtwerte nach ergänzenden Vorgaben der Finanzverwaltung zum jeweiligen Hauptfeststellungszeitpunkt oder sonstigen Feststellungszeitpunkt zu ermitteln. Auf Antrag der für den Vollzug dieses Gesetzbuchs zuständigen Behörden sind Bodenrichtwerte für einzelne Gebiete bezogen auf einen abweichenden Zeitpunkt zu ermitteln.
+(1) Auf Grund der Kaufpreissammlung sind flächendeckend durchschnittliche Lagewerte für den Boden unter Berücksichtigung des unterschiedlichen Entwicklungszustands zu ermitteln (Bodenrichtwerte). In bebauten Gebieten sind Bodenrichtwerte mit dem Wert zu ermitteln, der sich ergeben würde, wenn der Boden unbebaut wäre. Es sind Richtwertzonen zu bilden, die jeweils Gebiete umfassen, die nach Art und Maß der Nutzung weitgehend übereinstimmen. Die wertbeeinflussenden Merkmale des Bodenrichtwertgrundstücks sind darzustellen. Die Bodenrichtwerte sind jeweils zu Beginn jedes zweiten Kalenderjahres zu ermitteln, wenn nicht eine häufigere Ermittlung bestimmt ist. Für Zwecke der steuerlichen Bewertung des Grundbesitzes sind Bodenrichtwerte nach ergänzenden Vorgaben der Finanzverwaltung zum jeweiligen Hauptfeststellungszeitpunkt oder sonstigen Feststellungszeitpunkt zu ermitteln. Auf Antrag der für den Vollzug dieses Gesetzbuchs zuständigen Behörden sind Bodenrichtwerte für einzelne Gebiete bezogen auf einen abweichenden Zeitpunkt zu ermitteln.
 
 (2) Hat sich in einem Gebiet die Qualität des Bodens durch einen Bebauungsplan oder andere Maßnahmen geändert, sind bei der nächsten Fortschreibung der Bodenrichtwerte auf der Grundlage der geänderten Qualität auch Bodenrichtwerte bezogen auf die Wertverhältnisse zum Zeitpunkt der letzten Hauptfeststellung oder dem letzten sonstigen Feststellungszeitpunkt für steuerliche Zwecke zu ermitteln. Die Ermittlung kann unterbleiben, wenn das zuständige Finanzamt darauf verzichtet.
 
@@ -3110,6 +3162,20 @@ Darstellungen für Flächen zum Ausgleich und Festsetzungen für Flächen oder M
 # § 201 – Begriff der Landwirtschaft
 
 Landwirtschaft im Sinne dieses Gesetzbuchs ist insbesondere der Ackerbau, die Wiesen- und Weidewirtschaft einschließlich Tierhaltung, soweit das Futter überwiegend auf den zum landwirtschaftlichen Betrieb gehörenden, landwirtschaftlich genutzten Flächen erzeugt werden kann, die gartenbauliche Erzeugung, der Erwerbsobstbau, der Weinbau, die berufsmäßige Imkerei und die berufsmäßige Binnenfischerei.
+
+# § 201a – Verordnungsermächtigung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt
+
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Gebiete mit einem angespannten Wohnungsmarkt zu bestimmen. Die Rechtsverordnung nach Satz 1 gilt für die Anwendung der Regelungen in § 25 Absatz 1 Satz 1 Nummer 3, § 31 Absatz 3, § 175 Absatz 2 Satz 2 und § 176 Absatz 1 Satz 1 Nummer 3. Ein Gebiet mit einem angespannten Wohnungsmarkt liegt vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
+
+1. die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
+
+2. die durchschnittliche Mietbelastung der Haushalte den bundesweiten Durchschnitt deutlich übersteigt,
+
+3. die Wohnbevölkerung wächst, ohne dass durch Neubautätigkeit insoweit erforderlicher Wohnraum geschaffen wird, oder
+
+4. geringer Leerstand bei großer Nachfrage besteht.
+
+Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2026 außer Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Die betroffenen Gemeinden und die auf Landesebene bestehenden kommunalen Spitzenverbände sollen vor dem Erlass der Rechtsverordnung beteiligt werden.
 
 # § 202 – Schutz des Mutterbodens
 
@@ -3537,6 +3603,12 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 
 (3) § 34 Absatz 2 findet auf Baugebiete nach § 6a der Baunutzungsverordnung keine Anwendung.
 
+# § 245d – Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland
+
+(1) § 34 Absatz 2 findet auf Baugebiete nach § 5a der Baunutzungsverordnung keine Anwendung.
+
+(2) Im Anwendungsbereich des § 34 Absatz 2 ist § 14 Absatz 1a der Baunutzungsverordnung nicht anzuwenden; für die der öffentlichen Versorgung mit Telekommunikationsdienstleistungen dienenden Nebenanlagen gilt dort § 14 Absatz 2 der Baunutzungsverordnung entsprechend.
+
 # § 246 – Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
 (1) In den Ländern Berlin und Hamburg entfallen die in § 6 Absatz 1, § 10 Absatz 2 und § 190 Absatz 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
@@ -3551,41 +3623,43 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 
 (5) Das Land Hamburg gilt für die Anwendung dieses Gesetzbuchs auch als Gemeinde.
 
-(6) (weggefallen)
+(6) § 9 Absatz 2d gilt entsprechend für Pläne, die gemäß § 173 Absatz 3 Satz 1 des Bundesbaugesetzes in Verbindung mit § 233 Absatz 3 als Bebauungspläne fortgelten.
 
 (7) Die Länder können bestimmen, dass § 34 Absatz 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Absatz 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
 
-(8) Bis zum 31. Dezember 2019 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
+(8) Bis zum Ablauf des 31. Dezember 2024 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
 
-(9) Bis zum 31. Dezember 2019 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
+(9) Bis zum Ablauf des 31. Dezember 2024 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
 
-(10) Bis zum 31. Dezember 2019 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
+(10) Bis zum Ablauf des 31. Dezember 2024 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
 
-(11) Soweit in den Baugebieten nach den §§ 2 bis 7 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) Anlagen für soziale Zwecke als Ausnahme zugelassen werden können, gilt § 31 Absatz 1 mit der Maßgabe, dass dort bis zum 31. Dezember 2019 Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende in der Regel zugelassen werden sollen. Satz 1 gilt entsprechend für in übergeleiteten Plänen festgesetzte Baugebiete, die den in Satz 1 genannten Baugebieten vergleichbar sind.
+(11) Soweit in den Baugebieten nach den §§ 2 bis 7 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) Anlagen für soziale Zwecke als Ausnahme zugelassen werden können, gilt § 31 Absatz 1 mit der Maßgabe, dass dort bis zum Ablauf des 31. Dezember 2024 Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende in der Regel zugelassen werden sollen. Satz 1 gilt entsprechend für in übergeleiteten Plänen festgesetzte Baugebiete, die den in Satz 1 genannten Baugebieten vergleichbar sind.
 
-(12) Bis zum 31. Dezember 2019 kann für die auf längstens drei Jahre zu befristende
+(12) Bis zum Ablauf des 31. Dezember 2024 kann für die auf längstens drei Jahre zu befristende
 
 1. Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
 
 2. Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in Gewerbe- und Industriegebieten sowie in Sondergebieten nach den §§ 8 bis 11 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende
 
-von den Festsetzungen des Bebauungsplans befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
+von den Festsetzungen des Bebauungsplans befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. Die in Satz 1 genannte Frist von drei Jahren kann bei Vorliegen der dort genannten Befreiungsvoraussetzungen um weitere drei Jahre verlängert werden, längstens jedoch bis zum Ablauf des 31. Dezember 2027. Sofern die Frist bereits abgelaufen ist, gilt Satz 1 auch für die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 zu befristende Fortsetzung der zuvor ausgeübten Nutzung einer bestehenden baulichen Anlage entsprechend. § 36 gilt entsprechend.
 
-(13) Im Außenbereich (§ 35) gilt unbeschadet des Absatzes 9 bis zum 31. Dezember 2019 die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend für
+(13) Im Außenbereich (§ 35) gilt unbeschadet des Absatzes 9 bis zum Ablauf des 31. Dezember 2024 die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend für
 
 1. die auf längstens drei Jahre zu befristende Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
 
 2. die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen, auch wenn deren bisherige Nutzung aufgegeben wurde, in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende, einschließlich einer erforderlichen Erneuerung oder Erweiterung.
 
-Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Wird zum Zeitpunkt einer Nutzungsänderung nach Satz 1 Nummer 2 eine Nutzung zulässigerweise ausgeübt, kann diese im Anschluss wieder aufgenommen werden; im Übrigen gelten für eine nachfolgende Nutzungsänderung die allgemeinen Regeln. Die Rückbauverpflichtung nach Satz 2 entfällt, wenn eine nach Satz 3 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 2 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist.
+Die in Satz 1 Nummer 1 genannte Frist von drei Jahren kann um weitere drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 verlängert werden; für die Verlängerung gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Sofern die Frist bereits abgelaufen ist, gilt auch für die Entscheidung über die auf drei Jahre, längstens jedoch bis zum Ablauf des 31. Dezember 2027 zu befristende erneute Zulässigkeit einer bereits errichteten mobilen Unterkunft für Flüchtlinge oder Asylbegehrende die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Wird zum Zeitpunkt einer Nutzungsänderung nach Satz 1 Nummer 2 eine Nutzung zulässigerweise ausgeübt, kann diese im Anschluss wieder aufgenommen werden; im Übrigen gelten für eine nachfolgende Nutzungsänderung die allgemeinen Regeln. Die Rückbauverpflichtung nach Satz 4 entfällt, wenn eine nach Satz 5 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 2 in entsprechender Anwendung des § 35 Absatz 5 Satz 4 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist.
 
-(14) Soweit auch bei Anwendung der Absätze 8 bis 13 dringend benötigte Unterkunftsmöglichkeiten im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder sonstigen Unterkünften für Flüchtlinge oder Asylbegehrende bis zum 31. Dezember 2019 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang abgewichen werden. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Absatz 13 Satz 3 gilt entsprechend. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist. Wenn Vorhabenträger ein Land oder in dessen Auftrag ein Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum 31. Dezember 2019 auf Vorhaben nach Satz 1 keine Anwendung.
+(13a) Von den Absätzen 8 bis 13 darf nur Gebrauch gemacht werden, soweit dringend benötigte Unterkünfte im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können.
 
-(15) In Verfahren zur Genehmigung von baulichen Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, gilt bis zum 31. Dezember 2019 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 (auch in Verbindung mit Absatz 10 Satz 2 und Absatz 12 Satz 2) als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+(14) Soweit auch bei Anwendung der Absätze 8 bis 13 dringend benötigte Unterkunftsmöglichkeiten im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder sonstigen Unterkünften für Flüchtlinge oder Asylbegehrende bis zum 31. Dezember 2019 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang abgewichen werden. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Absatz 13 Satz 5 gilt entsprechend. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist. Wenn Vorhabenträger ein Land oder in dessen Auftrag ein Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum 31. Dezember 2019 auf Vorhaben nach Satz 1 keine Anwendung.
 
-(16) Bei Vorhaben nach den Absätzen 9 und 13 gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum 31. Dezember 2019 entsprechend.
+(15) In Verfahren zur Genehmigung von baulichen Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, gilt bis zum Ablauf des 31. Dezember 2024 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 (auch in Verbindung mit Absatz 10 Satz 2 und Absatz 12 Satz 2) als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
 
-(17) Die Befristung bis zum 31. Dezember 2019 in den Absätzen 8 bis 16 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von den Vorschriften Gebrauch gemacht werden kann.
+(16) Bei Vorhaben nach den Absätzen 9 und 13 gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2024 entsprechend.
+
+(17) Die Befristung bis zum Ablauf des 31. Dezember 2024 in den Absätzen 8 bis 13 sowie 15 und 16 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von den Vorschriften Gebrauch gemacht werden kann.
 
 # § 246a – Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
 
@@ -3593,11 +3667,11 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Absatz 6
 
 # § 246b – Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie
 
-(1) Soweit Anlagen für gesundheitliche Zwecke zur Versorgung von Personen, die sich mit dem Coronavirus SARS-CoV-2 infiziert haben oder möglicherweise infiziert haben, im Gebiet der Gemeinde, in der sie im Wege der Errichtung, Änderung oder Nutzungsänderung von baulichen Anlagen entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei der Zulassung dieser Vorhaben bis zum Ablauf des 31. Dezember 2020 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang, erforderlichenfalls auch befristet, unter der Voraussetzung abgewichen werden, dass Vorhabenträger der Bund, ein Land, ein Landkreis oder eine Gemeinde oder ein im Auftrag eines der Vorgenannten tätiger Dritter ist. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 entsprechend. § 246 Absatz 13 Satz 3 gilt entsprechend auch bei zwischenzeitlichen Nutzungsänderungen zu Anlagen für gesundheitliche Zwecke nach Satz 1. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger der Bund, ein Land, ein Landkreis oder eine Gemeinde ist. Wenn Vorhabenträger der Bund, ein Land, ein Landkreis oder ein im Auftrag eines der Vorgenannten tätiger Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum Ablauf des 31. Dezember 2020 auf Vorhaben nach Satz 1 keine Anwendung.
+(1) Soweit Anlagen für gesundheitliche Zwecke zur Versorgung von Personen, die sich mit dem Coronavirus SARS-CoV-2 infiziert haben oder möglicherweise infiziert haben oder die gegen das Coronavirus SARS-CoV-2 geimpft oder auf dieses getestet werden sollen, im Gebiet der Gemeinde, in der sie im Wege der Errichtung, Änderung oder Nutzungsänderung von baulichen Anlagen entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei der Zulassung dieser Vorhaben bis zum Ablauf des 31. Dezember 2022 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang, erforderlichenfalls auch befristet, unter der Voraussetzung abgewichen werden, dass Vorhabenträger der Bund, ein Land, ein Landkreis oder eine Gemeinde oder ein im Auftrag eines der Vorgenannten tätiger Dritter ist. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 erster Halbsatz und Satz 3 entsprechend. § 246 Absatz 13 Satz 5 gilt entsprechend auch bei zwischenzeitlichen Nutzungsänderungen zu Anlagen für gesundheitliche Zwecke nach Satz 1. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger der Bund, ein Land, ein Landkreis oder eine Gemeinde ist. Wenn Vorhabenträger der Bund, ein Land, ein Landkreis oder ein im Auftrag eines der Vorgenannten tätiger Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum Ablauf des 31. Dezember 2022 auf Vorhaben nach Satz 1 keine Anwendung.
 
-(2) In Verfahren zur Genehmigung von baulichen Anlagen im Sinne des Absatzes 1 Satz 1 gilt bis zum Ablauf des 31. Dezember 2020 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+(2) In Verfahren zur Genehmigung von baulichen Anlagen im Sinne des Absatzes 1 Satz 1 gilt bis zum Ablauf des 31. Dezember 2022 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
 
-(3) Bei Vorhaben nach Absatz 1 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2020 entsprechend.
+(3) Bei Vorhaben nach Absatz 1 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2022 entsprechend.
 
 (4) Die Befristung in Absatz 1 Satz 1 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von der Vorschrift Gebrauch gemacht werden kann.
 
@@ -3630,6 +3704,42 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 (2) Nach § 9 Absatz 2 Satz 1 Nummer 2 kann auch festgesetzt werden, dass die im Bebauungsplan festgesetzten Windenergieanlagen nur zulässig sind, wenn sichergestellt ist, dass nach der Errichtung der im Bebauungsplan festgesetzten Windenergieanlagen andere im Bebauungsplan bezeichnete Windenergieanlagen innerhalb einer im Bebauungsplan zu bestimmenden angemessenen Frist zurückgebaut werden. Die Standorte der zurückzubauenden Windenergieanlagen können auch außerhalb des Bebauungsplangebiets oder außerhalb des Gemeindegebiets liegen. Darstellungen im Flächennutzungsplan, die die Rechtswirkungen des § 35 Absatz 3 Satz 3 haben, können mit Bestimmungen entsprechend den Sätzen 1 und 2 mit Wirkung für die Zulässigkeit der Windenergieanlagen nach § 35 Absatz 1 Nummer 5 verbunden sein.
 
 (3) Die Länder können durch Landesgesetze bestimmen, dass § 35 Absatz 1 Nummer 5 auf Vorhaben, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nur Anwendung findet, wenn sie bestimmte Mindestabstände zu den im Landesgesetz bezeichneten zulässigen baulichen Nutzungen zu Wohnzwecken einhalten. Ein Mindestabstand nach Satz 1 darf höchstens 1 000 Meter von der Mitte des Mastfußes der Windenergieanlage bis zur nächstgelegenen im Landesgesetz bezeichneten baulichen Nutzung zu Wohnzwecken betragen. Die weiteren Einzelheiten, insbesondere zur Abstandsfestlegung und zu den Auswirkungen der festgelegten Abstände auf Ausweisungen in geltenden Flächennutzungsplänen und Raumordnungsplänen, sind in den Landesgesetzen nach Satz 1 zu regeln. Auf der Grundlage von § 249 Absatz 3 in der bis zum 14. August 2020 geltenden Fassung erlassene Landesgesetze gelten fort; sie können geändert werden, sofern die wesentlichen Elemente der in dem fortgeltenden Landesgesetz enthaltenen Regelung beibehalten werden.
+
+# § 250 – Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten
+
+(1) Sofern Gebiete mit angespannten Wohnungsmärkten im Sinne von § 201a Satz 3 und 4 vorliegen und diese Gebiete nach Satz 3 bestimmt sind, bedarf bei Wohngebäuden, die bereits am Tag des Inkrafttretens der Rechtsverordnung nach Satz 3 bestanden, die Begründung oder Teilung von Wohnungseigentum oder Teileigentum nach § 1 des Wohnungseigentumsgesetzes der Genehmigung. Das Genehmigungserfordernis nach Satz 1 gilt nicht, wenn sich in dem Wohngebäude nicht mehr als fünf Wohnungen befinden. Die Landesregierungen werden ermächtigt, die Gebiete nach Satz 1 durch Rechtsverordnung zu bestimmen, die spätestens mit Ablauf des 31. Dezember 2025 außer Kraft treten muss. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. In der Rechtsverordnung nach Satz 3 kann eine von Satz 2 abweichende Anzahl an Wohnungen bestimmt werden; diese Anzahl kann zwischen drei und 15 liegen.
+
+(2) Zuständig für die Genehmigung ist die von der Landesregierung bestimmte Stelle. § 173 Absatz 3 gilt entsprechend.
+
+(3) Die Genehmigung ist zu erteilen, wenn
+
+1. das Grundstück zu einem Nachlass gehört und Wohnungseigentum oder Teileigentum zugunsten von Miterben oder Vermächtnisnehmern begründet werden soll,
+
+2. das Wohnungseigentum oder Teileigentum zur eigenen Nutzung an Familienangehörige des Eigentümers veräußert werden soll,
+
+3. das Wohnungseigentum oder Teileigentum zur eigenen Nutzung an mindestens zwei Drittel der Mieter veräußert werden soll,
+
+4. auch unter Berücksichtigung des Allgemeinwohls ein Absehen von der Begründung von Wohnungseigentum oder Teileigentum nicht mehr zumutbar ist oder
+
+5. ohne die Genehmigung Ansprüche Dritter auf Übertragung von Wohnungseigentum oder Teileigentum nicht erfüllt werden können, zu deren Sicherung vor dem Wirksamwerden des Genehmigungsvorbehalts eine Vormerkung im Grundbuch eingetragen ist.
+
+In der Genehmigung kann bestimmt werden, dass auch die Veräußerung von Wohnungseigentum oder Teileigentum der Genehmigung entsprechend Satz 1 Nummer 1 bis 3 bedarf. Diese Genehmigungspflicht ist in das Wohnungs- oder Teileigentumsgrundbuch einzutragen; die Eintragung erfolgt auf Ersuchen der nach Absatz 2 Satz 1 zuständigen Stelle. Die Genehmigungspflicht erlischt mit Außerkrafttreten der Verordnung nach Absatz 1 Satz 3.
+
+(4) Unbeschadet des Absatzes 3 darf eine Genehmigung nur versagt werden, wenn dies für die ausreichende Versorgung der Bevölkerung mit Mietwohnraum erforderlich ist. Unter der Voraussetzung von Satz 1 kann die Genehmigung mit einer Auflage erteilt werden.
+
+(5) Bei einem Grundstück, das im Geltungsbereich einer Rechtsverordnung nach Absatz 1 Satz 3 liegt, darf das Grundbuchamt die Eintragungen in das Grundbuch nur vornehmen, wenn ihm die Genehmigung oder das Nichtbestehen der Genehmigungspflicht nachgewiesen ist. Mit der Eintragung gilt die Genehmigung als erteilt.
+
+(6) Der Genehmigung nach Absatz 1 Satz 1 bedarf ferner
+
+1. die Begründung der in den §§ 30 und 31 des Wohnungseigentumsgesetzes bezeichneten Rechte,
+
+2. die Begründung von Bruchteilseigentum nach § 1008 des Bürgerlichen Gesetzbuchs an Grundstücken mit Wohngebäuden, wenn zugleich nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs im Grundbuch als Belastung eingetragen werden soll, dass Räume einem oder mehreren Miteigentümern zur ausschließlichen Benutzung zugewiesen sind und die Aufhebung der Gemeinschaft ausgeschlossen ist, sowie
+
+3. bei bestehendem Bruchteilseigentum nach § 1008 des Bürgerlichen Gesetzbuchs an Grundstücken mit Wohngebäuden eine im Grundbuch als Belastung einzutragende Regelung nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs, wonach Räume einem oder mehreren Miteigentümern zur ausschließlichen Benutzung zugewiesen sind und die Aufhebung der Gemeinschaft ausgeschlossen ist.
+
+Die Bestimmungen der Absätze 2 bis 5 gelten sinngemäß.
+
+(7) Diese Vorschrift geht im räumlichen Anwendungsbereich von Rechtsverordnungen nach Absatz 1 Satz 3 den Rechtsverordnungen nach § 172 Absatz 1 Satz 4 vor. Satz 1 findet keine Anwendung, wenn nach Absatz 1 Satz 2 und 6 keine Genehmigungspflicht besteht.
 
 # Anlage 1 – (zu § 2 Absatz 4 und den §§ 2a und 4c)
 

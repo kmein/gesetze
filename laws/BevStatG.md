@@ -197,6 +197,10 @@ c) Anschrift.
 
 (3) Das Statistische Bundesamt führt auf der Grundlage der Angaben zu den §§ 2 bis 5 Bevölkerungsvorausberechnungen durch. Die Zuständigkeit der Länder, die Vorausberechnungen für ihren Zuständigkeitsbereich ebenfalls durchzuführen, bleibt unberührt.
 
+# § 5a – Übermittlung von Tabellen an oberste Bundes- und Landesbehörden
+
+Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
+
 # § 6 – Übergangsvorschrift
 
 Die Angaben nach § 2 Absatz 2 sowie nach § 3 Satz 1 Nummer 1 zu gleichgeschlechtlichen Paaren sind für den Zeitraum ab dem 1. Oktober 2017 zu liefern. Die Angaben nach § 2 Absatz 2 sind bis einschließlich 22. Januar 2019 zu liefern, die Angaben nach § 3 Satz 1 Nummer 1 bis einschließlich 22. März 2019. Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind und die Daten elektronisch vorhanden sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.

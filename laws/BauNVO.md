@@ -23,12 +23,13 @@
 |  3.  | allgemeine Wohngebiete | (WA)   |
 |  4.  | besondere Wohngebiete  | (WB)   |
 |  5.  | Dorfgebiete            | (MD) |
-|  6.  | Mischgebiete           | (MI) |
-|  7.  | urbane Gebiete         | (MU)   |
-|  8.  | Kerngebiete            | (MK)   |
-|  9.  | Gewerbegebiete         | (GE)   |
-| 10\. | Industriegebiete       | (GI)   |
-| 11\. | Sondergebiete          | (SO).  |
+|  6.  | dörfliche Wohngebiete  | (MDW)  |
+|  7.  | Mischgebiete           | (MI) |
+|  8.  | urbane Gebiete         | (MU)   |
+|  9.  | Kerngebiete            | (MK)   |
+| 10\. | Gewerbegebiete         | (GE)   |
+| 11\. | Industriegebiete       | (GI)   |
+| 12\. | Sondergebiete          | (SO).  |
 
 (3) Im Bebauungsplan können die in Absatz 2 bezeichneten Baugebiete festgesetzt werden. Durch die Festsetzung werden die Vorschriften der §§ 2 bis 14 Bestandteil des Bebauungsplans, soweit nicht auf Grund der Absätze 4 bis 10 etwas anderes bestimmt wird. Bei Festsetzung von Sondergebieten finden die Vorschriften über besondere Festsetzungen nach den Absätzen 4 bis 10 keine Anwendung; besondere Festsetzungen über die Art der Nutzung können nach den §§ 10 und 11 getroffen werden.
 
@@ -179,6 +180,36 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 9. Tankstellen.
 
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 zugelassen werden.
+
+# § 5a – Dörfliche Wohngebiete
+
+(1) Dörfliche Wohngebiete dienen dem Wohnen sowie der Unterbringung von land- und forstwirtschaftlichen Nebenerwerbsstellen und nicht wesentlich störenden Gewerbebetrieben. Die Nutzungsmischung muss nicht gleichgewichtig sein.
+
+(2) Zulässig sind
+
+1. Wohngebäude,
+
+2. Wirtschaftsstellen land- und forstwirtschaftlicher Nebenerwerbsbetriebe und die dazugehörigen Wohnungen und Wohngebäude,
+
+3. Kleinsiedlungen einschließlich Wohngebäude mit entsprechenden Nutzgärten,
+
+4. nicht gewerbliche Einrichtungen und Anlagen für die Tierhaltung,
+
+5. die der Versorgung des Gebiets dienenden Läden sowie Schank- und Speisewirtschaften,
+
+6. Betriebe des Beherbergungsgewerbes,
+
+7. sonstige Gewerbebetriebe,
+
+8. Anlagen für örtliche Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
+
+(3) Ausnahmsweise können zugelassen werden
+
+1. Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe und die dazugehörigen Wohnungen und Wohngebäude,
+
+2. Gartenbaubetriebe,
+
+3. Tankstellen.
 
 # § 6 – Mischgebiete
 
@@ -373,13 +404,15 @@ Für die Berufsausübung freiberuflich Tätiger und solcher Gewerbetreibender, d
 
 # § 13a – Ferienwohnungen
 
-Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt werden und die zur Begründung einer eigenen Häuslichkeit geeignet und bestimmt sind (Ferienwohnungen), gehören unbeschadet des § 10 in der Regel zu den nicht störenden Gewerbebetrieben nach § 2 Absatz 3 Nummer 4 und § 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach § 4a Absatz 2 Nummer 3, § 5 Absatz 2 Nummer 6, § 6 Absatz 2 Nummer 4, § 6a Absatz 2 Nummer 4 und § 7 Absatz 2 Nummer 3. Abweichend von Satz 1 können Räume nach Satz 1 in den übrigen Fällen insbesondere bei einer baulich untergeordneten Bedeutung gegenüber der in dem Gebäude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach § 4 Absatz 3 Nummer 1, § 4a Absatz 2 Nummer 2, § 5 Absatz 2 Nummer 5, § 6 Absatz 2 Nummer 3, § 6a Absatz 2 Nummer 3 und § 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach § 3 Absatz 3 Nummer 1 gehören.
+Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt werden und die zur Begründung einer eigenen Häuslichkeit geeignet und bestimmt sind (Ferienwohnungen), gehören unbeschadet des § 10 in der Regel zu den nicht störenden Gewerbebetrieben nach § 2 Absatz 3 Nummer 4 und § 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach § 4a Absatz 2 Nummer 3, § 5 Absatz 2 Nummer 6, § 5a Absatz 2 Nummer 7, § 6 Absatz 2 Nummer 4, § 6a Absatz 2 Nummer 4 und § 7 Absatz 2 Nummer 3. Abweichend von Satz 1 können Räume nach Satz 1 in den übrigen Fällen insbesondere bei einer baulich untergeordneten Bedeutung gegenüber der in dem Gebäude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach § 4 Absatz 3 Nummer 1, § 4a Absatz 2 Nummer 2, § 5 Absatz 2 Nummer 5, § 5a Absatz 2 Nummer 6, § 6 Absatz 2 Nummer 3, § 6a Absatz 2 Nummer 3 und § 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach § 3 Absatz 3 Nummer 1 gehören.
 
 # § 14 – Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
 
 (1) Außer den in den §§ 2 bis 13 genannten Anlagen sind auch untergeordnete Nebenanlagen und Einrichtungen zulässig, die dem Nutzungszweck der in dem Baugebiet gelegenen Grundstücke oder des Baugebiets selbst dienen und die seiner Eigenart nicht widersprechen. Soweit nicht bereits in den Baugebieten nach dieser Verordnung Einrichtungen und Anlagen für die Tierhaltung, einschließlich der Kleintiererhaltungszucht, zulässig sind, gehören zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 auch solche für die Kleintierhaltung. Im Bebauungsplan kann die Zulässigkeit der Nebenanlagen und Einrichtungen eingeschränkt oder ausgeschlossen werden.
 
-(2) Die der Versorgung der Baugebiete mit Elektrizität, Gas, Wärme und Wasser sowie zur Ableitung von Abwasser dienenden Nebenanlagen können in den Baugebieten als Ausnahme zugelassen werden, auch soweit für sie im Bebauungsplan keine besonderen Flächen festgesetzt sind. Dies gilt auch für fernmeldetechnische Nebenanlagen sowie für Anlagen für erneuerbare Energien, soweit nicht Absatz 1 Satz 1 Anwendung findet.
+(1a) In den Baugebieten nach den §§ 2 bis 11 sind Nebenanlagen, die der öffentlichen Versorgung mit Telekommunikationsdienstleistungen dienen, zulässig; Absatz 1 Satz 3 gilt entsprechend.
+
+(2) Die der Versorgung der Baugebiete mit Elektrizität, Gas, Wärme und Wasser sowie zur Ableitung von Abwasser dienenden Nebenanlagen können in den Baugebieten als Ausnahme zugelassen werden, auch soweit für sie im Bebauungsplan keine besonderen Flächen festgesetzt sind. Dies gilt auch für fernmeldetechnische Nebenanlagen sowie für Anlagen für erneuerbare Energien, soweit nicht Absatz 1 Satz 1 oder Absatz 1a Anwendung findet.
 
 (3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Außenwandflächen oder Kraft-Wärme-Kopplungsanlagen innerhalb von Gebäuden nicht bereits nach den §§ 2 bis 13 zulässig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollständig oder überwiegend in das öffentliche Netz eingespeist wird.
 
@@ -417,10 +450,9 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (6) Im Bebauungsplan können nach Art und Umfang bestimmte Ausnahmen von dem festgesetzten Maß der baulichen Nutzung vorgesehen werden.
 
-# § 17 – Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung
+# § 17 – Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung
 
-(1) Bei der Bestimmung des Maßes der baulichen Nutzung nach § 16 dürfen, auch wenn eine Geschossflächenzahl oder eine Baumassenzahl nicht dargestellt oder festgesetzt wird, folgende Obergrenzen nicht überschritten werden:  
-  
+Bei der Bestimmung des Maßes der baulichen Nutzung nach § 16 bestehen, auch wenn eine Geschossflächenzahl oder eine Baumassenzahl nicht dargestellt oder festgesetzt wird, folgende Orientierungswerte für Obergrenzen:
 
 1
 
@@ -433,82 +465,68 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 Baugebiet
 
 Grund-  
-flächen-  
-zahl  
-(GRZ)
+flächenzahl (GRZ)
 
 Geschoss-  
-flächen-  
-zahl  
-(GFZ)
+flächenzahl (GFZ)
 
 Bau-  
-massen-  
-zahl  
+massenzahl  
 (BMZ)
 
 in
 
 Kleinsiedlungsgebieten (WS)
 
-  
 0,2
 
-  
 0,4
 
-  
 –
 
 in
 
 reinen Wohngebieten (WR)  
-allgem. Wohngebieten (WA)  
+allgemeinen Wohngebieten (WA)  
 Ferienhausgebieten
 
-  
-  
   
   
 0,4
 
   
   
-  
-  
 1,2
 
-  
-  
   
   
 –
 
 in
 
-besonderen  
-Wohngebieten (WB)
+besonderen Wohngebieten (WB)
 
-  
 0,6
 
-  
 1,6
 
-  
 –
 
 in
 
 Dorfgebieten (MD)  
-Mischgebieten (MI)
+Mischgebieten (MI)  
+dörflichen Wohngebieten (MDW)
 
+  
   
 0,6
 
   
+  
 1,2
 
+  
   
 –
 
@@ -536,20 +554,16 @@ in
 
 Gewerbegebieten (GE)  
 Industriegebieten (GI)  
-sonstigen  
-Sondergebieten
+sonstigen Sondergebieten
 
-  
   
   
 0,8
 
   
   
-  
 2,4
 
-  
   
   
 10,0
@@ -558,16 +572,13 @@ in
 
 Wochenendhausgebieten
 
-  
 0,2
 
-  
 0,2
 
-  
 –
 
-(2) Die Obergrenzen des Absatzes 1 können aus städtebaulichen Gründen überschritten werden, wenn die Überschreitung durch Umstände ausgeglichen ist oder durch Maßnahmen ausgeglichen wird, durch die sichergestellt ist, dass die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse nicht beeinträchtigt werden und nachteilige Auswirkungen auf die Umwelt vermieden werden. Dies gilt nicht für Wochenendhausgebiete und Ferienhausgebiete.
+In Wochenendhausgebieten und Ferienhausgebieten dürfen die Orientierungswerte für Obergrenzen nach Satz 1 nicht überschritten werden.
 
 # § 18 – Höhe baulicher Anlagen
 
@@ -686,6 +697,10 @@ Ist der Entwurf eines Bauleitplans vor dem 27. Januar 1990 nach § 3 Absatz 2 de
 # § 25d – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
 
 Ist der Entwurf eines Bauleitplans vor dem 20. September 2013 nach § 3 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 20. September 2013 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
+
+# § 25e – Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland
+
+Ist der Entwurf eines Bauleitplans vor dem 23. Juni 2021 nach § 3 Absatz 2 des Baugesetzbuchs oder nach dem Planungssicherstellungsgesetz öffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 23. Juni 2021 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 # § 26 – (Berlin-Klausel)
 
