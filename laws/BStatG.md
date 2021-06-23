@@ -189,7 +189,19 @@ Zu dem in Satz 1 genannten Zweck dürfen Angaben zu den Erhebungsmerkmalen vorü
 
 (1) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Unternehmensregister für statistische Verwendungszwecke (Statistikregister) gemäß der Verordnung (EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Schaffung eines gemeinsamen Rahmens für Unternehmensregister für statistische Zwecke und zur Aufhebung der Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6) in der jeweils geltenden Fassung und dem Statistikregistergesetz. Die statistischen Ämter der Länder wirken bei der Pflege des Statistikregisters mit und dürfen es nutzen, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz oder einem sonstigen Bundes- oder Landesgesetz erforderlich ist.
 
-(2) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Anschriftenregister, das zu jeder Anschrift die Postleitzahl, die Gemeindebezeichnung, die Straßenbezeichnung mit Hausnummer, die Geokoordinate des Grundstücks sowie eine Ordnungsnummer enthält. Für die Vorbereitung und Durchführung von Befragungen auf Stichprobenbasis dürfen zusätzlich die für die Schichtenklassifizierung notwendige Gesamtzahl der Personen je Anschrift sowie die Wohnraumeigenschaft gespeichert werden. Die statistischen Ämter der Länder wirken bei der Pflege des Anschriftenregisters mit und dürfen es nutzen, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz oder einem sonstigen Bundes- oder Landesgesetz erforderlich ist. Zur Pflege und Führung des Registers dürfen Angaben aus Bundes- und Landesstatistiken sowie aus allgemein zugänglichen Quellen verwendet werden.
+(2) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung von Bundesstatistiken sowie für Auswertungszwecke ein Anschriftenregister, das zu jeder Anschrift die Postleitzahl, die Gemeindebezeichnung, die Straßenbezeichnung mit Hausnummer, die Geokoordinate des Grundstücks sowie eine Ordnungsnummer enthält. Darüber hinaus dürfen folgende Daten im Anschriftenregister gespeichert werden:
+
+1. die Wohnraumeigenschaft,
+
+2. die Anzahl der Personen an der Anschrift,
+
+3. die Zuordnung der Anschrift zu kleinräumigen Gliederungen sowie
+
+4. die Arten von an der Anschrift vorhandenen Sozial-, Bildungs-, Kultur-, Gesundheits- oder Verwaltungseinrichtungen.
+
+Die statistischen Ämter der Länder wirken bei der Pflege des Anschriftenregisters mit und dürfen es nutzen, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz oder einem sonstigen Bundes- oder Landesgesetz erforderlich ist. Zur Pflege und Führung des Registers dürfen Angaben aus Bundes- und Landesstatistiken sowie aus allgemein zugänglichen Quellen verwendet werden. Zu den Daten nach Satz 2 Nummer 1 bis 3 werden vorherige Stände vier Jahre nach dem Ende des Kalenderjahres gelöscht, in dem die Übermittlung der Daten erfolgt ist.
+
+(3) Zur Pflege der Register nach den Absätzen 1 und 2 übermittelt das Bundesamt für Kartographie und Geodäsie dem Statistischen Bundesamt ab dem 1. November 2022 jährlich zum 1. November den jeweils aktuellen Datenbestand „Georeferenzierte Adressdaten“, soweit vorhanden.
 
 # § 13a – Zusammenführung von Daten
 

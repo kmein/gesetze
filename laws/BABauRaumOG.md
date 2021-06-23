@@ -41,7 +41,7 @@ Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht durch da
 
 (1) Leiter des Bundesamtes für Bauwesen und Raumordnung wird der Präsident der Bundesbaudirektion. Stellvertretender Leiter wird der Direktor und Professor der Bundesforschungsanstalt für Landeskunde und Raumordnung; dieser ist berechtigt, neben seiner neuen Amtsbezeichnung den Zusatz "und Professor" zu führen.
 
-(2) Beim Bundesamt für Bauwesen und Raumordnung wird im Zeitraum vom 1. Juli 2004 bis 30. September 2004 eine neue Personalvertretung nach den Bestimmungen des Bundespersonalvertretungsgesetzes gewählt. Bis zur Wahl nimmt der bisherige Personalrat des Bundesamtes für Bauwesen und Raumordnung, erweitert um vier Mitglieder der bisherigen Bezirkspersonalvertretung und sieben Mitglieder der bisherigen örtlichen Personalvertretungen der Bauverwaltung des Bundes in Berlin, die Rechte und Pflichten nach den Bestimmungen des Bundespersonalvertretungsgesetzes wahr. § 14 Abs. 1 Nr. 1 des Bundespersonalvertretungsgesetzes ist auf die Hauptpersonalratswahlen nicht anzuwenden. Satz 1 gilt entsprechend für die Schwerbehindertenvertretung; bis zur Wahl nehmen die bisherigen Schwerbehindertenvertretungen des Bundesamtes für Bauwesen und Raumordnung und der Bauverwaltung des Bundes in Berlin die Aufgaben gemeinsam wahr.
+(2) (weggefallen)
 
 (3) Beim Bundesamt für Bauwesen und Raumordnung werden im Zeitraum vom 1. Juli 2004 bis 30. September 2004 eine Gleichstellungsbeauftragte und eine Vertreterin nach den Bestimmungen des Bundesgleichstellungsgesetzes gewählt. Bis zur Wahl nehmen die bisherigen Gleichstellungsbeauftragten des Bundesamtes für Bauwesen und Raumordnung und der Bauverwaltung des Bundes in Berlin die Aufgaben der Gleichstellungsbeauftragten gemeinsam wahr.
 

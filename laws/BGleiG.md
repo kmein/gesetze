@@ -41,7 +41,7 @@ b) Behörden und Verwaltungsstellen der unmittelbaren Bundesverwaltung einschlie
 
 c) Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts des Bundes;
 
-maßgebend ist § 6 Absatz 1, 2 und 4 des Bundespersonalvertretungsgesetzes;
+maßgebend sind § 4 Absatz 1 Nummer 4 und 6 sowie § 6 des Bundespersonalvertretungsgesetzes;
 
 6. Familienaufgaben: die tatsächliche Betreuung von mindestens einem Kind unter 18 Jahren durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Elternzeit nach dem Bundeselterngeld- und Elternzeitgesetz ein;
 
