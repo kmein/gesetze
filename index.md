@@ -3365,7 +3365,6 @@
 - [LuftFzgÜbk](laws/LuftFzgÜbk.md) Mehrseitiges Übereinkommen über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 - [LuftFzgÜbkDV](laws/LuftFzgÜbkDV.md) Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 - [LuftGerPV](laws/LuftGerPV.md) Verordnung zur Prüfung von Luftfahrtgerät
-- [LuftGerPV1998DV 3](laws/LuftGerPV1998DV_3.md) Dritte Durchführungsverordnung zur Verordnung zur Prüfung von Luftfahrtgerät (Anerkennung von Prüfstellen zur Musterprüfung von Luftsportgerät)
 - [LuftkostV](laws/LuftkostV.md) Kostenverordnung der Luftfahrtverwaltung
 - [LuftNaSiG](laws/LuftNaSiG.md) Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte
 - [LuftPersV](laws/LuftPersV.md) Verordnung über Luftfahrtpersonal

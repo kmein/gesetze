@@ -116,3 +116,8 @@ Die Bestimmungen über die Amtsschilder der deutschen Vertretungen im Ausland er
 # Schlußformel
 
 Der Bundesminister des Innern
+
+# Muster
+
+(Inhalt: nicht darstellbares Muster für die Gestaltung der Amtsschilder  
+Fundstelle des Originaltextes: Beilage zu BAnz. Nr. 232 v. 30.11.1951

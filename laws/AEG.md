@@ -27,11 +27,13 @@
 
 (6) Die Eisenbahninfrastruktur umfasst die Betriebsanlagen der Eisenbahnen einschließlich der Bahnstromfernleitungen.
 
-(7) Betreiber der Schienenwege ist jedes Eisenbahninfrastrukturunternehmen, das für den Bau, den Betrieb, die Unterhaltung, die Instandhaltung und die Erneuerung der Eisenbahnanlagen, einschließlich Verkehrsmanagement, Zugsteuerung, Zugsicherung und Signalgebung zuständig ist, mit Ausnahme der Schienenwege in Serviceeinrichtungen.
+(6a) Eisenbahnanlagen sind die in Anlage 1 des Eisenbahnregulierungsgesetzes aufgeführten Eisenbahninfrastrukturen.
 
-(7a) Ausbau der Eisenbahnanlagen ist die darauf bezogene Netzplanung, die Finanz- und Investitionsplanung sowie der Bau und die Umrüstung der Schienenwege.
+(7) Betreiber von Eisenbahnanlagen ist jedes Eisenbahninfrastrukturunternehmen, das für den Betrieb, die Instandhaltung, den Ausbau und die Erneuerung von Eisenbahnanlagen innerhalb eines Netzes zuständig ist.
 
-(7b) Betrieb der Eisenbahnanlagen sind die Zugtrassenzuweisung, das Verkehrsmanagement und die Erhebung von Wegeentgelten.
+(7a) Betreiber der Schienenwege ist jeder Betreiber von Eisenbahnanlagen, der für den Ausbau, den Betrieb, die Unterhaltung, die Instandhaltung und die Erneuerung der Schienenwege, einschließlich Verkehrsmanagement, Zugsteuerung, Zugsicherung und Signalgebung, zuständig ist, mit Ausnahme der Schienenwege in Serviceeinrichtungen.
+
+(7b) Ausbau der Eisenbahnanlagen ist die darauf bezogene Netzplanung, die Finanz- und Investitionsplanung sowie der Bau und die Umrüstung der Eisenbahnanlagen.
 
 (7c) Instandhaltung der Eisenbahnanlagen sind Arbeiten zur Erhaltung des Zustands und der Kapazität der bestehenden Eisenbahnanlagen.
 
@@ -71,7 +73,7 @@
 
 3. Schienenwege, Steuerungs- und Sicherungssysteme oder Bahnsteige zu betreiben.
 
-(20) Ein Netz oder Schienennetz sind die gesamten Schienenwege, die von einem Betreiber der Schienenwege betrieben werden.
+(20) Ein Netz oder Schienennetz sind die gesamten Eisenbahnanlagen, die von einem Betreiber von Eisenbahnanlagen betrieben werden.
 
 (21) Gefährliche Ereignisse sind Unfälle und Störungen im Eisenbahnbetrieb.
 
@@ -735,9 +737,17 @@ bedarf einer Instandhaltungsstellen-Bescheinigung nach Artikel 7 der Durchführu
 
 # § 11 – Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen, Betriebspflicht
 
-(1) Betreiber von Schienenwegen und Betreiber von Serviceeinrichtungen sind zum Betrieb ihrer Eisenbahninfrastruktur verpflichtet. Beabsichtigt ein öffentliches Eisenbahninfrastrukturunternehmen die dauernde Einstellung des Betriebes einer Strecke oder einer Serviceeinrichtung, eines für die Betriebsabwicklung wichtigen Bahnhofs oder die mehr als geringfügige Verringerung der Kapazität einer Strecke, so hat es dies bei der zuständigen Aufsichtsbehörde zu beantragen. Dabei hat es darzulegen, daß ihm der Betrieb der Infrastruktureinrichtung nicht mehr zugemutet werden kann und Verhandlungen mit Dritten, denen ein Angebot für die Übernahme der Infrastruktureinrichtung durch Verkauf oder Verpachtung zu in diesem Bereich üblichen Bedingungen gemacht wurde, erfolglos geblieben sind. Bei den Übernahmeangeboten an Dritte sind Vorleistungen angemessen zu berücksichtigen. Die zuständige Aufsichtsbehörde kann bei einem Antrag auf dauernde Einstellung des Betriebes einer Serviceeinrichtung entscheiden, dass eine Bekanntgabe nach Absatz 1a entbehrlich ist, wenn die Serviceeinrichtung in den letzten 24 Monaten vor der geplanten Betriebseinstellung nicht zweckentsprechend genutzt wurde und kein Antrag auf Nutzung gestellt oder eine entsprechende Absicht dem Betreiber bekannt ist.
+(1) Betreiber von Eisenbahnanlagen und Betreiber von Serviceeinrichtungen sind zum Betrieb ihrer Eisenbahninfrastruktur verpflichtet. Beabsichtigt ein öffentliches Eisenbahninfrastrukturunternehmen
 
-(1a) Öffentliche Eisenbahninfrastrukturunternehmen haben ihre Absicht nach Absatz 1 Satz 1 entweder
+1. die mehr als geringfügige Verringerung der Kapazität einer Strecke,
+
+2. die dauernde Einstellung des Betriebes einer Strecke, eines Personenbahnsteigs oder einer Laderampe oder
+
+3. die dauernde Einstellung des Betriebes einer Serviceeinrichtung,
+
+so hat es dies bei der zuständigen Aufsichtsbehörde zu beantragen. Dabei hat es darzulegen, dass ihm der Betrieb der Infrastruktureinrichtung nicht mehr zugemutet werden kann und Verhandlungen mit Dritten, denen ein Angebot für die Übernahme der Infrastruktureinrichtung durch Verkauf oder Verpachtung zu in diesem Bereich üblichen Bedingungen gemacht wurde, erfolglos geblieben sind. Bei den Übernahmeangeboten an Dritte sind Vorleistungen angemessen zu berücksichtigen. Die zuständige Aufsichtsbehörde kann bei einem Antrag auf dauernde Einstellung des Betriebes einer Serviceeinrichtung, eines Personenbahnsteigs oder einer Laderampe entscheiden, dass eine Bekanntgabe nach Absatz 1a entbehrlich ist, wenn die Serviceeinrichtung, der Personenbahnsteig oder die Laderampe in den letzten 24 Monaten vor der geplanten Betriebseinstellung nicht zweckentsprechend genutzt wurde und kein Antrag auf Nutzung gestellt oder eine entsprechende Absicht dem Betreiber bekannt ist.
+
+(1a) Öffentliche Eisenbahninfrastrukturunternehmen haben ihre Absicht nach Absatz 1 Satz 2 entweder
 
 1. im Bundesanzeiger zu veröffentlichen oder
 
@@ -745,11 +755,11 @@ bedarf einer Instandhaltungsstellen-Bescheinigung nach Artikel 7 der Durchführu
 
 In der Bekanntmachung sind Angaben für die betriebswirtschaftliche Bewertung dieser Infrastruktur aufzunehmen. Nach der Veröffentlichung können Dritte das öffentliche Eisenbahninfrastrukturunternehmen binnen einer Frist von drei Monaten zur Abgabe eines Angebotes auffordern. Im Angebot ist die Bestimmung der abzugebenden Grundstücke und Infrastruktureinrichtungen für Eisenbahnzwecke und deren Ertragswert bei der Preisbildung angemessen zu berücksichtigen. Bei der Bemessung des Pachtzinses ist maßgeblich der Ertragswert zu berücksichtigen. Das Angebot muss den Anschluss an die angrenzende Schieneninfrastruktur umfassen.
 
-(2) Die zuständige Aufsichtsbehörde hat über den Antrag unter Berücksichtigung verkehrlicher und wirtschaftlicher Kriterien innerhalb von drei Monaten zu entscheiden. Im Bereich der Eisenbahnen des Bundes entscheidet das Eisenbahn-Bundesamt im Benehmen mit der zuständigen Landesbehörde. Bis zur Entscheidung hat das Unternehmen den Betrieb der Schieneninfrastruktur aufrecht zu halten.
+(2) Die zuständige Aufsichtsbehörde hat über den Antrag unter Berücksichtigung verkehrlicher und wirtschaftlicher Kriterien innerhalb von drei Monaten zu entscheiden. Im Bereich der Eisenbahnen des Bundes entscheidet das Eisenbahn-Bundesamt im Benehmen mit der zuständigen Landesbehörde. Bis zur Entscheidung hat das Unternehmen den Betrieb der Eisenbahninfrastruktur aufrecht zu halten.
 
 (3) Die Genehmigung gilt als erteilt, wenn die zuständige Aufsichtsbehörde innerhalb der in Absatz 2 bestimmten Frist nicht entschieden hat. Versagt sie die Genehmigung nach Maßgabe des Absatzes 2, so hat sie dem Eisenbahninfrastrukturunternehmen die aus der Versagung entstehenden Kosten, einschließlich der kalkulatorischen Kosten zu ersetzen; die Zahlungsverpflichtung trifft das Land, wenn die von der Landesbehörde im Rahmen des Benehmens vorgetragenen Gründe für die Ablehnung maßgebend waren.
 
-(4) Liegen die Voraussetzungen des Absatzes 1 Satz 2 nicht vor, ist die Genehmigung zu versagen.
+(4) Liegen die Voraussetzungen des Absatzes 1 Satz 3 nicht vor, ist die Genehmigung zu versagen.
 
 (5) Eine Versagung nach Maßgabe des Absatzes 2 ist nur für einen Zeitraum von einem Jahr möglich; danach gilt die Genehmigung als erteilt.
 
@@ -767,11 +777,7 @@ In der Bekanntmachung sind Angaben für die betriebswirtschaftliche Bewertung di
 
 (3a) Keiner Genehmigung bedürfen auf Grund von internationalen Übereinkommen erlassene Tarife und Ausführungsbestimmungen der Eisenbahnen.
 
-(4) Eine erforderliche Genehmigung gilt als erteilt,
-
-1. wenn dem Eisenbahnverkehrsunternehmen nicht innerhalb von zwei Wochen nach Eingang seines Antrages eine Äußerung der Genehmigungsbehörde zugeht, in der eine Prüffrist im Sinne der Nummer 2 angezeigt wird,
-
-2. wenn dem Eisenbahnverkehrsunternehmen nicht innerhalb von sechs Wochen nach Eingang seines Antrages eine vom Antrag abweichende Entscheidung der Genehmigungsbehörde zugeht.
+(4) Eine erforderliche Genehmigung gilt als erteilt, wenn dem Eisenbahnverkehrsunternehmen nicht innerhalb von sechs Wochen nach Eingang seines Antrages eine vom Antrag abweichende Entscheidung der Genehmigungsbehörde zugeht.
 
 (5) Die Genehmigungsbehörde kann in den Fällen des Artikels 1 Abs. 5 und 6 der Verordnung (EWG) Nr. 1191/69 des Rates unter den dort genannten Voraussetzungen die Genehmigung versagen oder die Änderung von Tarifen verlangen. Die Genehmigung von Beförderungsbedingungen kann darüber hinaus versagt werden, wenn sie mit dem geltenden Recht, insbesondere mit den Grundsätzen des Handelsrechts und den Vorschriften über die Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine Geschäftsbedingungen, nicht in Einklang stehen.
 
@@ -783,7 +789,7 @@ In der Bekanntmachung sind Angaben für die betriebswirtschaftliche Bewertung di
 
 # § 12a – Fahrgastinformationen
 
-(1) Der Betreiber der Schienenwege hat den Eisenbahnverkehrsunternehmen und den Betreibern eines Personenbahnhofs unverzüglich alle Informationen bereitzustellen, die für die Unterrichtung von Kunden erforderlich sind.
+(1) Der Betreiber der Schienenwege hat den Eisenbahnverkehrsunternehmen und den Eisenbahninfrastrukturunternehmen, die Zugangsstellen zum Schienenpersonenverkehr betreiben, unverzüglich alle Informationen bereitzustellen, die für die Unterrichtung von Kunden erforderlich sind.
 
 (2) Eisenbahnverkehrsunternehmen haben in ihren Fahrplaninformationsmedien über Anschlussverbindungen aller Anbieter diskriminierungsfrei zu informieren.
 
