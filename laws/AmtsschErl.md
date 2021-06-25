@@ -119,5 +119,14 @@ Der Bundesminister des Innern
 
 # Muster
 
-(Inhalt: nicht darstellbares Muster für die Gestaltung der Amtsschilder  
-Fundstelle des Originaltextes: Beilage zu BAnz. Nr. 232 v. 30.11.1951
+(Fundstelle: BAnz AT 17.06.2021 B2)
+
+Allgemeines Amtsschild
+
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20210608b2-01.jpg)
+
+Gemeinsames Amtsschild mehrerer Dienststellen mit Anhängeschildern
+
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20210608b2-02.jpg)
+
+(+++ Die Vorlage ist über das Bundesministerium des Innern, für Bau und heimat zu beziehen +++)
