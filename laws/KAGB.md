@@ -385,9 +385,9 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 
 (1) Die Bundesanstalt übt die Aufsicht nach den Vorschriften dieses Gesetzes aus.
 
-(2) Soweit die externe Kapitalverwaltungsgesellschaft Dienst- und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 erbringt, gelten die §§ 63 bis 68, 70, 80, 82 Absatz 1 bis 9 und 13, die §§ 83 und 84 des Wertpapierhandelsgesetzes entsprechend.
+(2) Soweit die externe Kapitalverwaltungsgesellschaft Dienst- und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 und Absatz 3 Nummer 2 bis 5 erbringt, gelten die §§ 63 bis 68, 70, 80, 82 Absatz 1 bis 9 und 13, die §§ 83 und 84 des Wertpapierhandelsgesetzes entsprechend. Soweit die externe Kapitalverwaltungsgesellschaft in den Fällen des Satzes 1 nur Dienst- und Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 und 2 oder Absatz 3 Nummer 2, 3 und 5 erbringt, muss sie zusätzlich zu den Anforderungen gemäß § 25 Absatz 1 Nummer 1 Buchstabe b mit einem Anfangskapital in Höhe der Hälfte des in § 17 Absatz 1 Nummer 2 des Wertpapierinstitutsgesetzes genannten Betrages ausgestattet sein. Soweit sie auch die Dienst- und Nebendienstleistung im Sinne des § 20 Absatz 2 Nummer 3 oder Absatz 3 Nummer 4 erbringt, muss die externe Kapitalverwaltungsgesellschaft zusätzlich zu den Anforderungen gemäß § 25 Absatz 1 Nummer 1 Buchstabe b mit einem Anfangskapital in Höhe der Hälfte des in § 17 Absatz 1 Nummer 3 des Wertpapierinstitutsgesetzes genannten Betrages ausgestattet sein.
 
-(3) Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein inländisches Unternehmen den Vorschriften dieses Gesetzes unterliegt oder ob ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt. Ihre Entscheidung bindet die Verwaltungsbehörden.
+(3) Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein inländisches Unternehmen den Vorschriften dieses Gesetzes unterliegt oder ob ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt. Ihre Entscheidung bindet die Verwaltungsbehörden.
 
 (4) Die Bundesanstalt überwacht die Einhaltung der Bestimmungen des § 26 Absatz 2 bis 8, des § 27, des § 51 Absatz 8, des § 54 Absatz 4 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 4 und des § 66 Absatz 4 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 4 durch ausländische AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, oder EU-Verwaltungsgesellschaften, wenn die ausländische AIF-Verwaltungsgesellschaft oder die EU-Verwaltungsgesellschaft Investmentvermögen im Inland über eine Zweigniederlassung verwaltet oder vertreibt.
 
@@ -467,7 +467,7 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 # § 8 – Verschwiegenheitspflicht
 
-Die bei der Bundesanstalt beschäftigten und von ihr beauftragten Personen sowie die im Dienst der Deutschen Bundesbank stehenden Personen dürfen die ihnen bei ihrer Tätigkeit nach diesem Gesetz bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse einer Verwaltungsgesellschaft im Sinne dieses Gesetzes, eines Investmentvermögens oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. § 9 des Kreditwesengesetzes ist entsprechend anzuwenden.
+Die bei der Bundesanstalt beschäftigten und von ihr beauftragten Personen sowie die im Dienst der Deutschen Bundesbank stehenden Personen dürfen die ihnen bei ihrer Tätigkeit nach diesem Gesetz bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse einer Verwaltungsgesellschaft im Sinne dieses Gesetzes, eines Investmentvermögens, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. § 9 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 (+++ § 8: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
@@ -957,6 +957,8 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 8. sonstige Tätigkeiten, die mit den in diesem Absatz genannten Dienstleistungen und Nebendienstleistungen unmittelbar verbunden sind.
 
+Soweit die Erlaubnis die Finanzportfolioverwaltung oder die Anlageberatung umfasst, ist eine externe OGAW-Kapitalverwaltungsgesellschaft nicht befugt, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen.
+
 (3) Externe AIF-Kapitalverwaltungsgesellschaften dürfen neben der kollektiven Vermögensverwaltung von AIF folgende Dienstleistungen und Nebendienstleistungen erbringen:
 
 1. die Verwaltung einzelner nicht in Finanzinstrumenten im Sinne des § 1 Absatz 11 des Kreditwesengesetzes angelegter Vermögen für andere mit Entscheidungsspielraum sowie die Anlageberatung (individuelle Vermögensverwaltung und Anlageberatung),
@@ -977,6 +979,8 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 9. sonstige Tätigkeiten, die mit den in diesem Absatz genannten Dienstleistungen und Nebendienstleistungen unmittelbar verbunden sind.
 
+Soweit die Erlaubnis die Finanzportfolioverwaltung, die Anlageberatung oder die Anlagevermittlung umfasst, ist eine externe AIF-Kapitalverwaltungsgesellschaft nicht befugt, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen.
+
 (4) Externe OGAW-Kapitalverwaltungsgesellschaften und externe AIF-Kapitalverwaltungsgesellschaften dürfen nicht ausschließlich die in Absatz 2 Nummer 1 bis 4 und in Absatz 3 Nummer 1 bis 6 genannten Dienstleistungen und Nebendienstleistungen erbringen, ohne auch die kollektive Vermögensverwaltung zu erbringen.
 
 (5) In der Satzung oder dem Gesellschaftsvertrag der externen OGAW-Kapitalverwaltungsgesellschaft muss bestimmt sein, dass außer den Geschäften, die zur Anlage ihres eigenen Vermögens erforderlich sind, nur die in Absatz 2 genannten Geschäfte und Tätigkeiten betrieben werden. In der Satzung oder dem Gesellschaftsvertrag der externen AIF-Kapitalverwaltungsgesellschaft muss bestimmt sein, dass außer den Geschäften, die zur Anlage ihres eigenen Vermögens erforderlich sind, nur die in Absatz 3 genannten Geschäfte und Tätigkeiten betrieben werden.
@@ -995,7 +999,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (1) Der Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft muss enthalten:
 
-1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel nach § 25,
+1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel nach § 25 und im Fall des § 5 Absatz 2 Satz 1 nach § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes,
 
 2. die Angabe der Geschäftsleiter,
 
@@ -1023,7 +1027,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (1) Der Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft muss enthalten:
 
-1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel nach § 25,
+1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel nach § 25 und im Fall des § 5 Absatz 2 Satz 1 nach § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes,
 
 2. die Angabe der Geschäftsleiter,
 
@@ -1069,7 +1073,7 @@ c) der Risikoprofile und sonstiger Eigenschaften der AIF, die die AIF-Kapitalver
 
 Einer Kapitalverwaltungsgesellschaft ist die Erlaubnis zu versagen, wenn
 
-1. das Anfangskapital und die zusätzlichen Eigenmittel nach § 25 nicht zur Verfügung stehen;
+1. das Anfangskapital nach § 25 oder im Fall des § 5 Absatz 2 Satz 1 nach § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes und die zusätzlichen Eigenmittel nach § 25 nicht zur Verfügung stehen;
 
 2. die Kapitalverwaltungsgesellschaft nicht mindestens zwei Geschäftsleiter hat;
 
@@ -1366,7 +1370,7 @@ Auf die Werbung von Kapitalverwaltungsgesellschaften und extern verwalteten Inve
 
 5. bei externen OGAW-Kapitalverwaltungsgesellschaften und AIF-Kapitalverwaltungsgesellschaften, die Publikums-AIF verwalten, sowie bei extern verwalteten Investmentgesellschaften, die Publikums-AIF sind, jede Änderung ihrer Satzung oder ihres Gesellschaftsvertrages;
 
-6. die Absenkung der Eigenmittel unter die in § 25 vorgesehenen Schwellen;
+6. die Absenkung der Eigenmittel unter die in § 25 oder im Fall des § 5 Absatz 2 Satz 1 nach § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes vorgesehenen Schwellen;
 
 7. die Verlegung der Niederlassung oder des Sitzes, die Errichtung, Verlegung oder Schließung einer Zweigstelle in einem Drittstaat sowie die Aufnahme oder Beendigung der Erbringung grenzüberschreitender Dienstleistungen ohne Errichtung einer Zweigstelle;
 
@@ -1536,7 +1540,7 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur der Ka
 
 (3) Bei der Prüfung des Jahresabschlusses hat der Abschlussprüfer auch die wirtschaftlichen Verhältnisse der externen Kapitalverwaltungsgesellschaft zu prüfen. Er hat insbesondere festzustellen, ob die externe Kapitalverwaltungsgesellschaft die Anzeigepflichten nach den §§ 34, 35, 49 und 53 und die Anforderungen nach den §§ 25 bis 30, 36 und 37 sowie die Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 4a und 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom 30.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2019/834 (ABl. L 141 vom 28.5.2019, S. 42) geändert worden ist, sowie die Anforderungen nach den Artikeln 4 und 15 der Verordnung (EU) 2015/2365 und nach Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 und 10 und Artikel 28 Absatz 2 der Verordnung (EU) 2016/1011, nach Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 sowie nach den Artikeln 4 bis 6, 9 bis 21, 23 bis 34 und 36 der Verordnung (EU) 2017/1131 und nach den Artikeln 6 bis 9 und 18 bis 27 der Verordnung (EU) 2017/2402 erfüllt hat.
 
-(4) Der Abschlussprüfer hat zu prüfen, ob die externe Kapitalverwaltungsgesellschaft ihren Verpflichtungen nach dem Geldwäschegesetz nachgekommen ist. Soweit die externe Kapitalverwaltungsgesellschaft Nebendienstleistungen nach § 20 Absatz 2 oder 3 erbringt, hat der Abschlussprüfer diese Nebendienstleistungen besonders zu prüfen. Werden Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 erbracht, umfasst die Prüfung auch die Einhaltung der in § 5 Absatz 2 genannten Vorschriften des Wertpapierhandelsgesetzes. Die Prüfung kann auch ein geeigneter Prüfer im Sinne des § 89 Absatz 1 Satz 6 des Wertpapierhandelsgesetzes vornehmen. § 89 Absatz 4 und 5 des Wertpapierhandelsgesetzes gilt entsprechend. Die Bundesanstalt kann auf Antrag von der gesonderten Prüfung der in § 5 Absatz 2 genannten Vorschriften des Wertpapierhandelsgesetzes ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte, angezeigt ist. § 29 Absatz 3 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
+(4) Der Abschlussprüfer hat zu prüfen, ob die externe Kapitalverwaltungsgesellschaft ihren Verpflichtungen nach dem Geldwäschegesetz nachgekommen ist. Soweit die externe Kapitalverwaltungsgesellschaft Nebendienstleistungen nach § 20 Absatz 2 oder 3 erbringt, hat der Abschlussprüfer diese Nebendienstleistungen besonders zu prüfen. Werden Nebendienstleistungen im Sinne des § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 erbracht, umfasst die Prüfung auch die Einhaltung der in § 5 Absatz 2 Satz 1 genannten Vorschriften und der in § 5 Absatz 2 Satz 2 und 3 genannten Anforderungen an das Anfangskapital. Die Prüfung kann auch ein geeigneter Prüfer im Sinne des § 89 Absatz 1 Satz 6 des Wertpapierhandelsgesetzes vornehmen. § 89 Absatz 4 und 5 des Wertpapierhandelsgesetzes gilt entsprechend. Die Bundesanstalt kann auf Antrag von der gesonderten Prüfung der in § 5 Absatz 2 genannten Vorschriften des Wertpapierhandelsgesetzes ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte, angezeigt ist. § 29 Absatz 3 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt der Prüfung, weitere Inhalte, Umfang und Darstellungen des Prüfungsberichts sowie zur Art und Weise seiner Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit der externen Kapitalverwaltungsgesellschaft zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
@@ -1562,7 +1566,7 @@ Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentak
 
 3. der Bundesanstalt Tatsachen bekannt werden, die eine Versagung der Erlaubnis nach § 23 Nummer 2 bis 11 rechtfertigen würden,
 
-4. die externe Kapitalverwaltungsgesellschaft auch über die Erlaubnis zur Finanzportfolioverwaltung nach § 20 Absatz 2 Nummer 1 oder Absatz 3 Nummer 2 verfügt und die Verordnung (EU) Nr. 575/2013 nicht mehr erfüllt,
+4. die externe Kapitalverwaltungsgesellschaft auch über die Erlaubnis zur Finanzportfolioverwaltung nach § 20 Absatz 2 Nummer 1 oder Absatz 3 Nummer 2 verfügt und die Anforderungen gemäß § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes nicht mehr erfüllt,
 
 5. gegen die Kapitalverwaltungsgesellschaft auf Grund einer Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 1, 4 oder 5 oder Absatz 2 Nummer 1 Buchstabe a, d, e oder f, Nummer 3 bis 7, 9, 10, 13, 35, 76, 77 oder 81 oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 2 oder 3 oder Absatz 2 Nummer 24, 31, 32, 37, 38, 40, 41, 49, 50 bis 63, 65, 72, 73, 78 oder 79 oder auf Grund einer Ordnungswidrigkeit oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 120 Absatz 10 des Wertpapierhandelsgesetzes eine Geldbuße festgesetzt werden kann,
 
@@ -1582,7 +1586,7 @@ Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentak
 
 # § 41 – Maßnahmen bei unzureichenden Eigenmitteln
 
-Entsprechen bei einer Kapitalverwaltungsgesellschaft die Eigenmittel nicht den Anforderungen des § 25, kann die Bundesanstalt Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen § 25 zu unterbinden. Sie kann insbesondere Entnahmen durch Gesellschafter und die Ausschüttung von Gewinnen untersagen oder beschränken. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach Satz 1 widersprechen. § 45 Absatz 5 Satz 1 des Kreditwesengesetzes ist entsprechend anzuwenden.
+Entsprechen bei einer Kapitalverwaltungsgesellschaft die Eigenmittel nicht den Anforderungen des § 25 oder im Fall des § 5 Absatz 2 Satz 1 nach § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes, kann die Bundesanstalt Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen § 25 oder im Fall des § 5 Absatz 2 Satz 1 gegen § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes zu unterbinden. Sie kann insbesondere Entnahmen durch Gesellschafter und die Ausschüttung von Gewinnen untersagen oder beschränken. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach Satz 1 widersprechen. § 45 Absatz 5 Satz 1 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 # § 42 – Maßnahmen bei Gefahr
 
@@ -8241,3 +8245,9 @@ erloschen ist und das Immobilien-Sondervermögen gemäß § 39 Absatz 2 des Inve
 # § 360 – Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
 
 § 268 Absatz 1 Satz 3, § 293 Absatz 1 Satz 2 Nummer 5, § 295 Absatz 8, § 307 Absatz 4 und § 318 Absatz 3 Satz 1 in der bis zum 20. Juli 2019 geltenden Fassung finden weiterhin Anwendung für den Fall eines Prospekts, der nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat.
+
+# § 361 – Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3
+
+(1) § 5 Absatz 2 Satz 2 und 3 ist erstmals auf externe Kapitalverwaltungsgesellschaften anzuwenden, denen ab dem 26. Juni 2021 neben der kollektiven Vermögensverwaltung eine Erlaubnis zur Erbringung der Finanzportfolioverwaltung erteilt wird.
+
+(2) Auf externe Kapitalverwaltungsgesellschaften, denen bis zum 26. Juni 2021 neben der kollektiven Vermögensverwaltung eine Erlaubnis zur Erbringung der Finanzportfolioverwaltung erteilt wurde, ist § 5 Absatz 2 Satz 2 und 3 erstmals ab dem 26. Juni 2023 anzuwenden.

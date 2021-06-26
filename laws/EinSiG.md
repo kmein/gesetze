@@ -587,7 +587,7 @@ Vor Erlass der Rechtsverordnung sind die gesetzlichen Entschädigungseinrichtung
 
 (1) Die gesetzliche Entschädigungseinrichtung hat zur Einschätzung der Gefahr des Eintritts eines Entschädigungsfalls und zur Überprüfung der Einhaltung der Pflichten nach § 7 Absatz 8 regelmäßig und bei gegebenem Anlass Prüfungen der ihr zugeordneten CRR-Kreditinstitute vorzunehmen. Sie hat die Intensität und Häufigkeit der Prüfungen an der Wahrscheinlichkeit des Eintritts eines Entschädigungsfalls bei einem CRR-Kreditinstitut und an der Höhe der in diesem Fall zu erwartenden Gesamtentschädigung auszurichten.
 
-(2) Die Entschädigungseinrichtung darf bei einem Unternehmen, das einen Erlaubnisantrag gemäß § 32 Absatz 1 Satz 2 des Kreditwesengesetzes bei der Bundesanstalt eingereicht hat und ihr bei einer Erlaubniserteilung zugeordnet wird, Prüfungen zur Einschätzung der Gefahr des Eintritts eines Entschädigungsfalls im Falle einer Erlaubniserteilung vornehmen.
+(2) Die Entschädigungseinrichtung darf bei einem Unternehmen, das einen Erlaubnisantrag gemäß § 32 Absatz 1 Satz 5 des Kreditwesengesetzes bei der Bundesanstalt eingereicht hat und ihr bei einer Erlaubniserteilung zugeordnet wird, Prüfungen zur Einschätzung der Gefahr des Eintritts eines Entschädigungsfalls im Falle einer Erlaubniserteilung vornehmen.
 
 (3) Widerspruch und Anfechtungsklage gegen die Prüfungsanordnung haben keine aufschiebende Wirkung.
 

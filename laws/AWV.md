@@ -1482,9 +1482,11 @@ b) ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsät
 
 1. Monetäre Finanzinstitute nach Artikel 1 erster Gedankenstrich der Verordnung (EG) Nr. 25/2009 mit Ausnahme von Geldmarktfonds,
 
-2. sonstige Kreditinstitute nach § 1 Absatz 1 des Kreditwesengesetzes und
+2. sonstige Kreditinstitute nach § 1 Absatz 1 des Kreditwesengesetzes,
 
-3. Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes.
+3. Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes und
+
+4. Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes.
 
 (3) Absatz 1 Nummer 1 und 3 ist nicht anzuwenden auf Zahlungen, die den Betrag von 12 500 Euro oder den Gegenwert in anderer Währung nicht übersteigen.
 

@@ -4503,6 +4503,7 @@
 - [PVAufhAnO](laws/PVAufhAnO.md) Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Personenversicherungen der Bürger
 - [PVÜG](laws/PVÜG.md) Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
 - [PWMAusbV](laws/PWMAusbV.md) Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin *
+- [QEWV](laws/QEWV.md) Verordnung zu qualifizierten Einrichtungen und qualifizierten Wirtschaftsverbänden
 - [QNormBanV](laws/QNormBanV.md) Verordnung über Qualitätsnormen für Bananen
 - [QVWSG](laws/QVWSG.md) Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken
 - [RAAG](laws/RAAG.md) Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2004
@@ -6107,6 +6108,7 @@
 - [WPflG](laws/WPflG.md) Wehrpflichtgesetz
 - [WpHG](laws/WpHG.md) Gesetz über den Wertpapierhandel
 - [WpHGMaAnzV](laws/WpHGMaAnzV.md) Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes
+- [WpIG](laws/WpIG.md) Gesetz zur Beaufsichtigung von Wertpapierinstituten
 - [WPostVSaZProt 3](laws/WPostVSaZProt_3.md) Drittes Zusatzprotokoll zur Satzung des Weltpostvereins
 - [WPostVSaZProt 6](laws/WPostVSaZProt_6.md) Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins
 - [WPostVSaZProt 7](laws/WPostVSaZProt_7.md) Siebtes Zusatzprotokoll zur Satzung des Weltpostvereins

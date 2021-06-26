@@ -159,7 +159,7 @@ Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige Ordnung d
 
 1. Luftfahrtunternehmen sowie Betreibern von Computerreservierungssystemen und Globalen Distributionssystemen für Flüge zu Namen und Anschriften des Kunden sowie zur Inanspruchnahme und den Umständen von Transportleistungen, insbesondere zum Zeitpunkt von Abfertigung und Abflug und zum Buchungsweg,
 
-2. Kreditinstituten, Finanzdienstleistungsinstituten und Finanzunternehmen zu Konten, Konteninhabern und sonstigen Berechtigten sowie weiteren am Zahlungsverkehr Beteiligten und zu Geldbewegungen und Geldanlagen, insbesondere über Kontostand und Zahlungsein- und -ausgänge,
+2. Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten und Finanzunternehmen zu Konten, Konteninhabern und sonstigen Berechtigten sowie weiteren am Zahlungsverkehr Beteiligten und zu Geldbewegungen und Geldanlagen, insbesondere über Kontostand und Zahlungsein- und -ausgänge,
 
 3. (weggefallen)
 
@@ -192,6 +192,8 @@ a) bei Auskünften nach Absatz 1 Satz 1 Nummer 1, 2 und 5 sowie nach Absatz 2, d
 b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach Nummer 1 bestimmte oder von ihr herrührende Mitteilungen entgegennehmen oder weitergeben, oder dass eine Person nach Nummer 1 ihren Anschluss benutzt.
 
 (4) bis (9) (weggefallen)
+
+(+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 wurde aufgrund offensichtlich unrichtiger Bezeichnung des Änderungsbefehls in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)
 
 # § 8b – Verfahrensregelungen zu besonderen Auskunftsverlangen
 

@@ -1006,9 +1006,11 @@ aa)
 Finanzdienstleistungsinstituten, soweit sie Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 des Kreditwesengesetzes tätigen,
 
 bb)  
-Zahlungsinstituten, soweit sie Zahlungsdienste im Sinne des § 1 Absatz 1 Satz 2 Nummer 3 Buchstabe b und Nummer 6 des Zahlungsdiensteaufsichtsgesetzes erbringen.
+Zahlungsinstituten, soweit sie Zahlungsdienste im Sinne des § 1 Absatz 1 Satz 2 Nummer 3 Buchstabe b und Nummer 6 des Zahlungsdiensteaufsichtsgesetzes erbringen,
 
-²Voraussetzung für die Umsetzung von Satz 1 ist, dass die Umsätze des Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf Finanzdienstleistungen und die Umsätze des Zahlungsinstituts zu mindestens 50 Prozent auf Zahlungsdienste entfallen,
+cc) Wertpapierinstituten, soweit sie Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und Nebengeschäfte im Sinne des § 2 Absatz 2 bis 4 des Wertpapierinstitutsgesetzes erbringen.
+
+²Voraussetzung für die Umsetzung von Satz 1 ist, dass die Umsätze des Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf Finanzdienstleistungen, die Umsätze der Wertpapierinstitute zu mindestens 50 Prozent auf Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und Nebengeschäfte und die Umsätze des Zahlungsinstituts zu mindestens 50 Prozent auf Zahlungsdienste entfallen,
 
 g) über die Festsetzung abweichender Vorauszahlungstermine.
 

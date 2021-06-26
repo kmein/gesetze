@@ -36,10 +36,15 @@ nach § 61 Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine Zweigniede
 b) eines Unternehmens handelt, das
 
 aa)  
-Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des Kreditwesengesetzes bedürfen, oder
+Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des Kreditwesengesetzes bedürfen,
 
 bb)  
 nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,
+
+cc) Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des Wertpapierinstitutsgesetzes bedürfen, oder
+
+dd)  
+nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine Zweigniederlassung betreibt oder nach § 74 Absatz 1 des Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden Dienstleistungsverkehrs Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt,
 
 und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit bezieht,
 
@@ -123,9 +128,9 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 # § 11 – Umlagen und Kostenerstattung; Verordnungsermächtigung
 
-(1) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht durch Gebühren und Auslagen, gesonderte Erstattung nach Satz 2 oder sonstige Einnahmen gedeckt werden, sind sie nach Maßgabe des Absatzes 2 auf die Unternehmen und Kredit- oder Finanzdienstleistungsinstitute, die von § 2 Nr. 2 Buchstabe a und b erfasst sind, umzulegen. Die Kosten, die der zuständigen Behörde durch eine auf Grund des Artikels 9 Absatz 3 Buchstabe c der Verordnung (EU) 2017/2394 vorgenommene Besichtigung oder Prüfung entstehen, sind von den Betroffenen der Behörde gesondert zu erstatten und ihr auf Verlangen vorzuschießen. Zu den Kosten nach Satz 2 gehören auch die Kosten, mit denen die zuständige Behörde von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die zuständige Behörde tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter. Auf diese Kosten ist § 15 Abs. 2 des Finanzdienstleistungsaufsichtsgesetzes entsprechend anzuwenden.
+(1) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht durch Gebühren und Auslagen, gesonderte Erstattung nach Satz 2 oder sonstige Einnahmen gedeckt werden, sind sie nach Maßgabe des Absatzes 2 auf die Unternehmen und Kredit- oder Finanzdienstleistungsinstitute oder Wertpapierinstitute, die von § 2 Nr. 2 Buchstabe a und b erfasst sind, umzulegen. Die Kosten, die der zuständigen Behörde durch eine auf Grund des Artikels 9 Absatz 3 Buchstabe c der Verordnung (EU) 2017/2394 vorgenommene Besichtigung oder Prüfung entstehen, sind von den Betroffenen der Behörde gesondert zu erstatten und ihr auf Verlangen vorzuschießen. Zu den Kosten nach Satz 2 gehören auch die Kosten, mit denen die zuständige Behörde von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die zuständige Behörde tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter. Auf diese Kosten ist § 15 Abs. 2 des Finanzdienstleistungsaufsichtsgesetzes entsprechend anzuwenden.
 
-(2) Die nach Absatz 1 Satz 1 umzulegenden Kosten sind in die Umlage einzubeziehen, die nach § 16 des Finanzdienstleistungsaufsichtsgesetzes in Verbindung mit der auf Grund des § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 4, des Finanzdienstleistungsaufsichtsgesetzes erlassenen Rechtsverordnung erhoben wird. Dabei sind Unternehmen nach § 2 Nr. 2 Buchstabe a dem Aufsichtsbereich des Versicherungswesens, Kredit- oder Finanzdienstleistungsinstitute nach § 2 Nr. 2 Buchstabe b dem Aufsichtsbereich des Kredit- und Finanzdienstleistungswesens zuzuordnen.
+(2) Die nach Absatz 1 Satz 1 umzulegenden Kosten sind in die Umlage einzubeziehen, die nach den §§ 16 bis 16r des Finanzdienstleistungsaufsichtsgesetzes erhoben wird. Dabei sind Unternehmen nach § 2 Nummer 2 Buchstabe a dem Aufgabenbereich Versicherungen und Kreditinstitute, Finanzdienstleistungsinstitute oder Wertpapierinstitute nach § 2 Nummer 2 Buchstabe b dem Aufgabenbereich Banken und sonstige Finanzdienstleistungen zuzuordnen.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz, das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Verkehr und digitale Infrastruktur werden jeweils ermächtigt, die Ermächtigung zum Erlass einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in § 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu übertragen, in dem diese individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
 

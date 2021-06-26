@@ -197,9 +197,11 @@ b) von Säugetieren außer Schweinen, Schafen, Ziegen und Kaninchen durch Ohr- o
 
 c) von Schweinen, Schafen, Ziegen und Kaninchen durch Ohrtätowierung,
 
-d) von Schweinen durch Schlagstempel und
+d) von Schweinen durch Schlagstempel,
 
-e) von landwirtschaftlichen Nutztieren durch Ohrmarke oder Flügelmarke.
+e) von landwirtschaftlichen Nutztieren durch Ohrmarke oder Flügelmarke und
+
+f) von Nagetieren, die zur Verwendung in Tierversuchen bestimmt sind, durch Ohrtätowierung, Ohrmarke, Ohrlochung oder Ohrkerbung.
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -243,7 +245,7 @@ dürfen auch durch eine andere Person vorgenommen werden, die die dazu notwendig
 
 (1a) Für die Eingriffe nach Absatz 1 Satz 2 Nummer 4 gelten
 
-1. § 7 Absatz 1 Satz 2 Nummer 1 und Satz 3, § 7a Absatz 2 Nummer 1, 4 und 5 und § 9 Absatz 5 Satz 1, jeweils auch in Verbindung mit § 9 Absatz 6 Satz 1, sowie
+1. § 7 Absatz 1 Satz 2 Nummer 1, Satz 3 und 4, § 7a Absatz 2 Nummer 1, 4 und 5 und § 9 Absatz 5 Satz 1, jeweils auch in Verbindung mit § 9 Absatz 6 Satz 1, sowie
 
 2. Vorschriften in Rechtsverordnungen, die auf Grund des
 
@@ -309,9 +311,9 @@ c) die artspezifische Fähigkeit der verwendeten Tiere, unter den Versuchseinwir
 
 auf das unerlässliche Maß zu beschränken und
 
-2. die Tiere, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, so zu halten, zu züchten und zu pflegen, dass sie nur in dem Umfang belastet werden, der für die Verwendung zu wissenschaftlichen Zwecken unerlässlich ist.
+2. die Haltung, die Zucht und die Pflege derjenigen Tiere zu verbessern, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, damit diese Tiere nur in dem Umfang belastet werden, der für die Verwendung zu wissenschaftlichen Zwecken unerlässlich ist.
 
-Tierversuche dürfen nur von Personen geplant und durchgeführt werden, die die dafür erforderlichen Kenntnisse und Fähigkeiten haben. § 1 bleibt unberührt.
+Die Pflicht zur Beschränkung von Tierversuchen auf das unerlässliche Maß nach Satz 2 Nummer 1 Buchstabe a und c beinhaltet auch die Pflicht zur Verbesserung der Methoden, die in Tierversuchen angewendet werden. Tierversuche dürfen nur von Personen geplant und durchgeführt werden, die die dafür erforderlichen Kenntnisse und Fähigkeiten haben. § 1 bleibt unberührt.
 
 (2) Tierversuche im Sinne dieses Gesetzes sind Eingriffe oder Behandlungen zu Versuchszwecken
 
@@ -337,7 +339,19 @@ oder
 
 3. die zu Aus-, Fort- oder Weiterbildungszwecken vorgenommen werden,
 
-soweit eine der in Satz 1 Nummer 1 bis 3 genannten Voraussetzungen vorliegt. Nicht als Tierversuch gilt das Töten eines Tieres, soweit dies ausschließlich erfolgt, um dessen Organe oder Gewebe zu wissenschaftlichen Zwecken zu verwenden.
+soweit eine der in Satz 1 Nummer 1 bis 3 genannten Voraussetzungen vorliegt. Nicht als Tierversuch gilt
+
+1. das Töten eines Tieres, soweit das Töten ausschließlich dazu erfolgt, die Organe oder Gewebe des Tieres zu wissenschaftlichen Zwecken zu verwenden,
+
+2. ein Eingriff oder eine Behandlung an einem Nutztier, der oder die
+
+a) in einem Haltungsbetrieb im Rahmen der landwirtschaftlichen Tätigkeit vorgenommen wird und
+
+b) nicht zu wissenschaftlichen Zwecken erfolgt, oder
+
+3. eine veterinärmedizinische klinische Prüfung, die für die Zulassung eines Tierarzneimittels verlangt wird.
+
+(2a) Zur Vermeidung von Doppel- oder Wiederholungsversuchen sind Daten aus Tierversuchen, die in nach Unionsrecht anerkannten Verfahren in anderen Mitgliedstaaten der Europäischen Union (Mitgliedstaaten) gewonnen wurden, anzuerkennen. Dies gilt nicht, wenn zum Schutz der öffentlichen Gesundheit, Sicherheit oder der Umwelt in Bezug auf die in Satz 1 genannten Daten weitere Tierversuche durchgeführt werden müssen.
 
 (3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu den Anforderungen nach Absatz 1 Satz 2 Nummer 2 zu regeln.
 
@@ -377,7 +391,7 @@ Tierversuche zur Aus-, Fort- oder Weiterbildung nach Satz 1 Nummer 7 dürfen nur
 
 1. Der jeweilige Stand der wissenschaftlichen Erkenntnisse ist zugrunde zu legen.
 
-2. Es ist zu prüfen, ob der verfolgte Zweck nicht durch andere Methoden oder Verfahren erreicht werden kann.
+2. Es ist zu prüfen, ob der verfolgte Zweck nicht durch andere Methoden oder Verfahren erreicht werden kann. Dabei ist insbesondere zu prüfen, ob zur Erreichung des mit dem Tierversuch angestrebten Ergebnisses eine andere Methode oder Versuchsstrategie, die ohne Verwendung eines lebenden Tieres auskommt und die nach dem Unionsrecht anerkannt ist, zur Verfügung steht.
 
 3. Versuche an Wirbeltieren oder Kopffüßern dürfen nur durchgeführt werden, wenn die zu erwartenden Schmerzen, Leiden oder Schäden der Tiere im Hinblick auf den Versuchszweck ethisch vertretbar sind.
 
@@ -413,9 +427,9 @@ auf Versuche an Tieren in einem Entwicklungsstadium vor der Geburt oder dem Schl
 
 # § 8
 
-(1) Wer Versuche an Wirbeltieren oder Kopffüßern durchführen will, bedarf der Genehmigung des Versuchsvorhabens durch die zuständige Behörde. Die Genehmigung eines Versuchsvorhabens ist zu erteilen, wenn
+(1) Wer Versuche an Wirbeltieren oder Kopffüßern durchführen will, bedarf der Genehmigung des Versuchsvorhabens durch die zuständige Behörde. Die Genehmigung eines Versuchsvorhabens ist nach Prüfung durch die zuständige Behörde zu erteilen, wenn
 
-1. wissenschaftlich begründet dargelegt ist, dass
+1. aus wissenschaftlicher oder pädagogischer Sicht gerechtfertigt ist, dass
 
 a) die Voraussetzungen des § 7a Absatz 1 und 2 Nummer 1 bis 3 vorliegen,
 
@@ -429,7 +443,7 @@ b) das angestrebte Ergebnis trotz Ausschöpfens der zugänglichen Informationsm�
 
 5. die Haltung der Tiere den Anforderungen des § 2 und den in einer auf Grund des § 2a Absatz 1 Nummer 1 bis 4, auch in Verbindung mit § 11 Absatz 3, oder des § 2a Absatz 2 Satz 1 erlassenen Rechtsverordnung festgelegten Anforderungen entspricht und ihre medizinische Versorgung sichergestellt ist,
 
-6. die Einhaltung der Vorschriften des § 7 Absatz 1 Satz 2 Nummer 1 und des § 7a Absatz 2 Nummer 4 und 5 erwartet werden kann,
+6. die Einhaltung der Vorschriften des § 7 Absatz 1 Satz 2 Nummer 1 und Satz 3 und des § 7a Absatz 2 Nummer 4 und 5 erwartet werden kann,
 
 7. die Einhaltung von
 
@@ -447,9 +461,13 @@ f) Vorschriften zur Verhinderung des Todes eines Tieres unter der Versuchseinwir
 
 g) Vorschriften zu der Vorgehensweise nach Abschluss des Tierversuchs,
 
-die in einer auf Grund des § 2a Absatz 1 Nummer 5 oder des § 4b Satz 1 Nummer 1 Buchstabe b, jeweils auch in Verbindung mit § 11 Absatz 3, oder des § 9 Absatz 1 bis 3 und 4 Satz 1 Nummer 2 oder 3 oder Satz 2 erlassenen Rechtsverordnung festgelegt sind, erwartet werden kann und
+die in einer auf Grund des § 2a Absatz 1 Nummer 5 oder des § 4b Satz 1 Nummer 1 Buchstabe b, jeweils auch in Verbindung mit § 11 Absatz 3, oder des § 9 Absatz 1 bis 3 und 4 Satz 1 Nummer 2 oder 3 oder Satz 2 erlassenen Rechtsverordnung festgelegt sind, erwartet werden kann,
+
+7a. eine möglichst umweltverträgliche Durchführung des Tierversuches erwartet werden kann und
 
 8. das Führen von Aufzeichnungen nach § 9 Absatz 5 Satz 1 in Verbindung mit den in einer auf Grund des § 9 Absatz 5 Satz 2 erlassenen Rechtsverordnung festgelegten Anforderungen erwartet werden kann.
+
+Die Prüfung durch die zuständige Behörde erfolgt mit der Detailliertheit, die der Art des Versuchsvorhabens angemessen ist.
 
 (2) Wird die Genehmigung einer Hochschule oder anderen Einrichtung erteilt, so müssen die Personen, die die Tierversuche durchführen, bei der Einrichtung beschäftigt oder mit Zustimmung des verantwortlichen Leiters zur Benutzung der Einrichtung befugt sein.
 
@@ -477,13 +495,17 @@ die in einer auf Grund des § 2a Absatz 1 Nummer 5 oder des § 4b Satz 1 Nummer 
 
 2. die Anzahl, die Art und die zu erwartenden Schmerzen, Leiden und Schäden der zu verwendenden Tiere und
 
-3. die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 Nummer 1 und des § 7a Absatz 2 Nummer 2, 4 und 5
+3. die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 Nummer 1 und Satz 3 und des § 7a Absatz 2 Nummer 2, 4 und 5
 
-enthalten, und die Form der Zusammenfassungen sowie das Verfahren ihrer Veröffentlichung zu regeln, soweit dies zur Verbesserung des Schutzes der Tiere in Tierversuchen und zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist. Es kann dabei vorsehen, dass die Veröffentlichung der Zusammenfassungen durch das Bundesinstitut für Risikobewertung erfolgt.
+enthalten, und die Form der Zusammenfassungen sowie das Verfahren ihrer Veröffentlichung zu regeln, soweit dies zur Verbesserung des Schutzes der Tiere in Tierversuchen und zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist. In der Rechtsverordnung kann auch vorgesehen werden, dass
+
+1. die Veröffentlichung der Zusammenfassungen durch das Bundesinstitut für Risikobewertung erfolgt und
+
+2. das Bundesinstitut für Risikobewertung die Zusammenfassungen an die Europäische Kommission zum Zweck der Veröffentlichung weiterleitet.
 
 # § 8a
 
-(1) Wer ein Versuchsvorhaben, in dem Wirbeltiere oder Kopffüßer verwendet werden, durchführen will,
+(1) Die Erteilung der Genehmigung erfolgt in einem vereinfachten Genehmigungsverfahren, wenn es sich bei dem Versuchsvorhaben nach § 8 Absatz 1 Satz 1 um ein Vorhaben handelt,
 
 1. das ausschließlich Tierversuche zum Gegenstand hat, deren Durchführung ausdrücklich
 
@@ -499,7 +521,7 @@ a) der Erkennung von Krankheiten, Leiden, Körperschäden oder körperlichen Bes
 
 b) der Prüfung von Seren, Blutzubereitungen, Impfstoffen, Antigenen oder Testallergenen im Rahmen von Zulassungsverfahren oder Chargenprüfungen
 
-dienen,
+dienen, oder
 
 3. das ausschließlich Tierversuche nach § 7 Absatz 2 Satz 2 Nummer 1 oder 2 zum Gegenstand hat, die nach bereits erprobten Verfahren
 
@@ -507,11 +529,19 @@ a) zur Herstellung, Gewinnung, Aufbewahrung oder Vermehrung von Stoffen, Produkt
 
 b) zu diagnostischen Zwecken
 
-vorgenommen werden, oder
+vorgenommen werden.
 
-4. das ausschließlich Tierversuche zum Gegenstand hat, die zur Aus-, Fort- oder Weiterbildung nach bereits erprobten Verfahren durchgeführt werden,
+Die Genehmigung in den Fällen des Satzes 1 gilt als erteilt, wenn
 
-hat das Versuchsvorhaben der zuständigen Behörde anzuzeigen.
+1. die durch die zuständige Behörde durchgeführte Prüfung ergeben hat, dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 1, 3, 5, 6 und 7 Buchstabe b bis g sowie Nummer 7a vorliegen,
+
+2. die zuständige Behörde eine Festlegung über die Durchführung der rückblickenden Bewertung nach einer auf Grund des § 8 Absatz 5 erlassenen Rechtsverordnung getroffen hat,
+
+3. die zuständige Behörde nicht innerhalb der in einer auf Grund des § 8 Absatz 3 erlassenen Rechtsverordnung festgelegten Frist abschließend über den Genehmigungsantrag entschieden hat und
+
+4. die zuständige Behörde dem Antragsteller das Vorliegen der Voraussetzungen nach Nummer 1 und die Festlegung nach Nummer 2 mitgeteilt hat.
+
+Führt der Antragsteller auf der Grundlage der Genehmigung nach Satz 2 ein Versuchsvorhaben durch, hat er hinsichtlich der weiteren über Satz 2 Nummer 1 hinausgehenden Anforderungen des § 8 Absatz 1 Satz 2 die Einhaltung dieser Anforderungen sicherzustellen.
 
 (2) Absatz 1 gilt nicht für Versuchsvorhaben,
 
@@ -525,17 +555,17 @@ hat das Versuchsvorhaben der zuständigen Behörde anzuzeigen.
 
 (5) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
-1. die Form und den Inhalt der Anzeige nach Absatz 1 oder 3,
+1. die Form und den Inhalt der Anzeige nach Absatz 3,
 
-2. das Verfahren der Anzeige nach Absatz 1 oder 3 einschließlich der für die Anzeige geltenden Fristen,
+2. das Verfahren der Anzeige nach Absatz 3 einschließlich der für die Anzeige geltenden Fristen,
 
-3. den Zeitpunkt, ab dem oder bis zu dem die Durchführung angezeigter Versuchsvorhaben nach Absatz 1 oder 3 zulässig ist, und
+3. den Zeitpunkt, ab dem oder bis zu dem die Durchführung angezeigter Versuchsvorhaben nach Absatz 3 zulässig ist, und
 
-4. das Verfahren im Falle nachträglicher Änderungen der im Rahmen der Anzeige nach Absatz 1 oder 3 mitgeteilten Sachverhalte.
+4. das Verfahren im Falle nachträglicher Änderungen der im Rahmen der Anzeige nach Absatz 3 mitgeteilten Sachverhalte.
 
 # § 9
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Art und den Umfang der nach § 7 Absatz 1 Satz 3 erforderlichen Kenntnisse und Fähigkeiten der Personen, die Tierversuche planen oder durchführen, insbesondere der biologischen, tiermedizinischen, rechtlichen und ethischen Kenntnisse und der Fähigkeiten im Hinblick auf die Durchführung von Tierversuchen, zu erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und Fähigkeiten festzulegen; in der Rechtsverordnung kann auch vorgeschrieben werden, dass Aufzeichnungen über die Maßnahmen, die zum Zwecke der Aufrechterhaltung der Kenntnisse und Fähigkeiten ergriffen werden, zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Art und den Umfang der nach § 7 Absatz 1 Satz 4 erforderlichen Kenntnisse und Fähigkeiten der Personen, die Tierversuche planen oder durchführen, insbesondere der biologischen, tiermedizinischen, rechtlichen und ethischen Kenntnisse und der Fähigkeiten im Hinblick auf die Durchführung von Tierversuchen, zu erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und Fähigkeiten festzulegen; in der Rechtsverordnung kann auch vorgeschrieben werden, dass Aufzeichnungen über die Maßnahmen, die zum Zwecke der Aufrechterhaltung der Kenntnisse und Fähigkeiten ergriffen werden, zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -575,9 +605,9 @@ festzulegen. Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit 
 
 1. der Vorschriften
 
-a) des § 7 Absatz 1 Satz 2 Nummer 1, des § 7a Absatz 2 Nummer 1, 4 und 5 und des § 9 Absatz 5 Satz 1 sowie
+a) des § 7 Absatz 1 Satz 2 Nummer 1 und Satz 3, des § 7a Absatz 2 Nummer 1, 4 und 5 und des § 9 Absatz 5 Satz 1 sowie
 
-b) des § 7 Absatz 1 Satz 3 und
+b) des § 7 Absatz 1 Satz 4 und
 
 2. der Vorschriften der auf Grund der Absätze 1 bis 5 erlassenen Rechtsverordnungen
 
@@ -611,11 +641,11 @@ müssen ebenfalls über Tierschutzbeauftragte nach Satz 1 verfügen.
 
 zu erlassen. Dabei kann das Bundesministerium
 
-1. bestimmen, dass die Tierschutzbeauftragten und weiteren Personen im Rahmen von Beiräten zusammenwirken,
+1. bestimmen, dass die Tierschutzbeauftragten und weiteren Personen im Rahmen von Ausschüssen zusammenwirken,
 
-2. das Nähere über die Aufgaben und die Zusammensetzung, einschließlich der Leitung, der Beiräte nach Nummer 1 regeln und
+2. das Nähere über die Aufgaben und die Zusammensetzung, einschließlich der Leitung, der Ausschüsse nach Nummer 1 regeln und
 
-3. vorschreiben, dass über die Tätigkeit der Beiräte nach Nummer 1 Aufzeichnungen zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
+3. vorschreiben, dass über die Tätigkeit der Ausschüsse nach Nummer 1 Aufzeichnungen zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
 
 # § 11
 
@@ -627,7 +657,7 @@ a) die dazu bestimmt sind, in Tierversuchen verwendet zu werden, oder
 
 b) deren Organe oder Gewebe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden,
 
-züchten oder, auch zum Zwecke der Abgabe dieser Tiere an Dritte, halten,
+züchten oder halten, jeweils auch zum Zwecke der Abgabe dieser Tiere an Dritte, oder verwenden,
 
 2. Wirbeltiere zu den in § 6 Absatz 1 Satz 2 Nummer 4 genannten Zwecken züchten oder halten,
 
@@ -871,19 +901,23 @@ werden. Eine Regelung nach Satz 3 Nummer 1 ist nur zulässig, soweit andere Maß
 
 # § 15
 
-(1) Die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt, vorbehaltlich des § 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach dessen Absatz 4, den nach Landesrecht zuständigen Behörden. Die nach Landesrecht zuständigen Behörden berufen jeweils eine oder mehrere Kommissionen zur Unterstützung der zuständigen Behörden bei
+(1) Die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes obliegt, vorbehaltlich des § 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach dessen Absatz 4, den nach Landesrecht zuständigen Behörden. Die nach Landesrecht zuständigen Behörden berufen jeweils eine oder mehrere Kommissionen zur Unterstützung der zuständigen Behörden bei
 
 1. der Entscheidung über die Genehmigung von Versuchsvorhaben und
 
 2. der Bewertung angezeigter Änderungen genehmigter Versuchsvorhaben, soweit dies in einer Rechtsverordnung nach Absatz 4 vorgesehen ist.
+
+Die nach Satz 2 berufenen Kommissionen unterstützen die zuständigen Behörden in den in Artikel 38 Absatz 3 der Richtlinie 2010/63/EU genannten Bereichen.
 
 (2) Die zuständigen Behörden sollen im Rahmen der Durchführung dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den beamteten Tierarzt als Sachverständigen beteiligen.
 
-(3) Im Bereich der Bundeswehr obliegt die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften den zuständigen Dienststellen der Bundeswehr. Das Bundesministerium der Verteidigung beruft eine Kommission zur Unterstützung der zuständigen Dienststellen bei
+(3) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes den zuständigen Dienststellen der Bundeswehr. Das Bundesministerium der Verteidigung beruft eine Kommission zur Unterstützung der zuständigen Dienststellen bei
 
 1. der Entscheidung über die Genehmigung von Versuchsvorhaben und
 
 2. der Bewertung angezeigter Änderungen genehmigter Versuchsvorhaben, soweit dies in einer Rechtsverordnung nach Absatz 4 vorgesehen ist.
+
+Die nach Satz 2 berufene Kommission unterstützt die zuständigen Dienststellen in den in Artikel 38 Absatz 3 der Richtlinie 2010/63/EU genannten Bereichen.
 
 (4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu den Kommissionen nach Absatz 1 Satz 2 und Absatz 3 Satz 2 im Hinblick auf
 
@@ -917,11 +951,9 @@ Das Bundesinstitut für Risikobewertung nimmt die Aufgaben nach Artikel 49 der R
 
 3. Einrichtungen, in denen
 
-a) Tierversuche durchgeführt werden,
+a) Wirbeltiere zu den in § 6 Abs. 1 Satz 2 Nr. 4 genannten Zwecken verwendet werden oder
 
-b) Wirbeltiere zu den in § 6 Abs. 1 Satz 2 Nr. 4 genannten Zwecken verwendet werden oder
-
-c) Wirbeltiere zu wissenschaftlichen Zwecken getötet werden,
+b) Wirbeltiere zu wissenschaftlichen Zwecken getötet werden,
 
 4. Einrichtungen und Betriebe nach § 11 Abs. 1 Satz 1,
 
@@ -937,7 +969,7 @@ b) in denen Tiere während des Transports ernährt, gepflegt oder untergebracht 
 
 8. Hersteller, Einführer und Inverkehrbringer von Stalleinrichtungen oder beim Schlachten verwendeter Betäubungsgeräte oder Betäubungsanlagen, soweit diese Personen eine Zulassung oder Bauartzulassung beantragt haben.
 
-Einrichtungen und Betriebe nach Satz 1 Nummer 3 und § 11 Absatz 1 Satz 1 Nummer 1 und 2 werden regelmäßig und in angemessenem Umfang unter besonderer Berücksichtigung möglicher Risiken besichtigt. In Einrichtungen und Betrieben nach Satz 1 Nummer 3 soll die Besichtigung mindestens alle drei Jahre erfolgen. In Einrichtungen und Betrieben nach Satz 1 Nummer 3 und § 11 Absatz 1 Satz 1 Nummer 1 und 2, in denen Primaten gezüchtet, gehalten oder verwendet werden, soll die Besichtigung jährlich erfolgen. Die Aufzeichnungen über die Besichtigungen und deren Ergebnisse sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens fünf Jahre aufzubewahren.
+Die Einrichtungen nach Satz 1 Nummer 3 und die Einrichtungen und Betriebe nach § 11 Absatz 1 Satz 1 Nummer 1 und 2 werden regelmäßig und in angemessenem Umfang kontrolliert. Die Häufigkeit der Kontrollen wird auf der Grundlage einer Risikoanalyse bestimmt. Bei der Risikoanalyse sind die in Artikel 34 Absatz 2 der Richtlinie 2010/63/EU genannten Aspekte zu beachten. Bei Einrichtungen nach § 11 Absatz 1 Satz 1 Nummer 1, in denen Tiere in Tierversuchen verwendet werden, müssen jährlich mindestens bei einem Drittel dieser Einrichtungen Kontrollen durchgeführt werden. Werden in den Einrichtungen nach Satz 1 Nummer 3 und in den Einrichtungen und Betrieben nach § 11 Absatz 1 Satz 1 Nummer 1 und 2 Primaten gezüchtet, gehalten oder verwendet, so muss die Kontrolle mindestens jährlich erfolgen. Ein angemessener Teil der Kontrollen erfolgt unangekündigt. Die Aufzeichnungen über die Kontrollen und deren Ergebnisse sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens fünf Jahre aufzubewahren.
 
 (1a) Wer nach § 11 Absatz 1 Satz 1 Nummer 4 und 8 Buchstabe d und nach Absatz 1 Nummer 6 Tiere an wechselnden Orten zur Schau stellt, hat jeden Ortswechsel spätestens beim Verlassen des bisherigen Aufenthaltsortes der zuständigen Behörde des beabsichtigten Aufenthaltsortes nach Maßgabe des Satzes 2 anzuzeigen. In der Anzeige sind anzugeben:
 
@@ -949,7 +981,7 @@ Einrichtungen und Betriebe nach Satz 1 Nummer 3 und § 11 Absatz 1 Satz 1 Nummer
 
 (2) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der der Behörde durch dieses Gesetz übertragenen Aufgaben erforderlich sind.
 
-(3) Personen, die von der zuständigen Behörde beauftragt sind, sowie in ihrer Begleitung befindliche Sachverständige der Europäischen Kommission und anderer Mitgliedstaaten der Europäischen Union (Mitgliedstaaten) dürfen zum Zwecke der Aufsicht über die in Absatz 1 bezeichneten Personen und Einrichtungen und im Rahmen des Absatzes 2
+(3) Personen, die von der zuständigen Behörde beauftragt sind, sowie in ihrer Begleitung befindliche Sachverständige der Europäischen Kommission und anderer Mitgliedstaaten dürfen zum Zwecke der Aufsicht über die in Absatz 1 bezeichneten Personen und Einrichtungen und im Rahmen des Absatzes 2
 
 1. Grundstücke, Geschäftsräume, Wirtschaftsgebäude und Transportmittel des Auskunftspflichtigen während der Geschäfts- oder Betriebszeit betreten, besichtigen und dort zur Dokumentation Bildaufzeichnungen, mit Ausnahme von Bildaufzeichnungen von Personen, anfertigen,
 
@@ -1023,7 +1055,7 @@ Im Übrigen bleiben die Verordnung (EU) 2016/679 des Europäischen Parlaments un
 
 4. die Einstellung von Tierversuchen anordnen, die ohne die erforderliche Genehmigung oder entgegen einem tierschutzrechtlichen Verbot durchgeführt werden.
 
-(2) Die zuständige Behörde untersagt die Durchführung eines nach § 8a Absatz 1 oder 3 oder eines auf Grund einer Rechtsverordnung nach § 8a Absatz 4 anzuzeigenden Versuchsvorhabens oder die Vornahme einer auf Grund einer Rechtsverordnung nach § 8 Absatz 3 Nummer 4 oder § 8a Absatz 5 Nummer 4 anzuzeigenden Änderung eines Versuchsvorhabens, soweit die Einhaltung der für die Durchführung von Tierversuchen geltenden Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht sichergestellt ist und diesem Mangel nicht innerhalb einer von der zuständigen Behörde gesetzten Frist abgeholfen worden ist.
+(2) Die zuständige Behörde untersagt die Durchführung eines nach § 8a Absatz 3 oder eines auf Grund einer Rechtsverordnung nach § 8a Absatz 4 anzuzeigenden Versuchsvorhabens oder die Vornahme einer auf Grund einer Rechtsverordnung nach § 8 Absatz 3 Nummer 4 oder § 8a Absatz 5 Nummer 4 anzuzeigenden Änderung eines Versuchsvorhabens, soweit die Einhaltung der für die Durchführung von Tierversuchen geltenden Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht sichergestellt ist und diesem Mangel nicht innerhalb einer von der zuständigen Behörde gesetzten Frist abgeholfen worden ist.
 
 (3) Die zuständige Behörde trifft die erforderlichen Anordnungen um sicherzustellen, dass
 
@@ -1039,17 +1071,23 @@ Im Übrigen bleiben die Verordnung (EU) 2016/679 des Europäischen Parlaments un
 
 # § 16c
 
-Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Personen, Einrichtungen und Betriebe, die Tierversuche an Wirbeltieren oder Kopffüßern durchführen oder die Wirbeltiere nach § 4 Absatz 3 verwenden, sowie Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopffüßer für die genannten Zwecke gezüchtet oder zum Zwecke der Abgabe an Dritte gehalten werden,
+Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. zu verpflichten, in bestimmten, regelmäßigen Zeitabständen der zuständigen Behörde Angaben über
+1. Personen, Einrichtungen und Betriebe, die Tierversuche an Wirbeltieren oder Kopffüßern durchführen oder die Wirbeltiere zu den in § 4 Absatz 3 genannten Zwecken töten, sowie Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopffüßer für die genannten Zwecke gezüchtet oder zur Abgabe an Dritte gehalten werden, zu verpflichten, der zuständigen Behörde in bestimmten, regelmäßigen Zeitabständen zu melden:
 
-a) Art, Herkunft und Zahl der verwendeten Tiere und
+a) die Art, Herkunft und Zahl der in den Tierversuchen verwendeten Tiere,
 
-b) den Zweck und die Art der Versuche oder sonstigen Verwendungen einschließlich des Schweregrads nach Artikel 15 Absatz 1 der Richtlinie 2010/63/EU
+b) den Zweck und die Art der Tierversuche oder der sonstigen Verwendungen einschließlich des Schweregrades nach Artikel 15 Absatz 1 der Richtlinie 2010/63/EU und
 
-zu melden und
+c) die Art, Herkunft und Zahl der Tiere, einschließlich genetisch veränderter Tiere, die
 
-2. das Melde- und Übermittlungsverfahren zu regeln.
+aa)  
+zur Verwendung in Tierversuchen nach § 7 Absatz 2 oder für wissenschaftliche Untersuchungen nach § 4 Absatz 3 gezüchtet und getötet worden sind und
+
+bb)  
+nicht in solchen Tierversuchen oder für solche wissenschaftlichen Untersuchungen verwendet worden sind, und
+
+2. das Verfahren für die Meldungen nach Nummer 1 sowie deren Übermittlung von den zuständigen Behörden an das Bundesministerium oder das Bundesinstitut für Risikobewertung zu regeln.
 
 # § 16d
 
@@ -1151,7 +1189,7 @@ erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tat
 
 16. (weggefallen)
 
-17. entgegen § 9 Absatz 6 Satz 1 Nummer 1 Buchstabe b, auch in Verbindung mit § 6 Absatz 1a Satz 1 Nummer 1, nicht sicherstellt, dass die Vorschrift des § 7 Absatz 1 Satz 3 eingehalten wird,
+17. entgegen § 9 Absatz 6 Satz 1 Nummer 1 Buchstabe b, auch in Verbindung mit § 6 Absatz 1a Satz 1 Nummer 1, nicht sicherstellt, dass die Vorschrift des § 7 Absatz 1 Satz 4 eingehalten wird,
 
 18. (weggefallen)
 
@@ -1251,13 +1289,7 @@ bezieht, können eingezogen werden.
 
 (2) Bis zum Ablauf des 31. Dezember 2018 ist abweichend von § 5 Absatz 1 Satz 1 eine Betäubung nicht erforderlich für die Kennzeichnung von Pferden durch Schenkelbrand.
 
-(3) Im Falle von Tierversuchen nach § 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2,
-
-1. deren Genehmigung vor dem 13. Juli 2013 nach den Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung unter Einhaltung der Anforderungen nach dessen § 8 Absatz 2 beantragt oder
-
-2. deren Durchführung vor dem 13. Juli 2013 nach den Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung angezeigt und von der zuständigen Behörde nicht beanstandet
-
-worden ist, sind abweichend von den §§ 6 bis 10 bis zum 1. Januar 2018 die Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung weiter anzuwenden.
+(3) (weggefallen)
 
 (4) Die Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 und 2 gilt demjenigen,
 
@@ -1284,6 +1316,16 @@ als vorläufig erteilt. Die vorläufige Erlaubnis erlischt,
 Bis zum Erlass einer Rechtsverordnung nach § 11 Absatz 2 Satz 1 Nummer 1 ist im Rahmen des § 11 Absatz 5 Satz 5 darauf abzustellen, ob der Antragsteller den Anforderungen des § 11 Absatz 1 Satz 2 und 3 in der bis zum 13. Juli 2013 geltenden Fassung nachgekommen ist.
 
 (6) § 11 Absatz 8 ist ab dem 1. Februar 2014 anzuwenden.
+
+(7) Vorbehaltlich des Satzes 3 und des Absatzes 8 sind die §§ 5, 6, 7, 7a, 8, 8a, 9, 10, 11, 15, 16, 16a und 18 in der sich jeweils aus Artikel 1 des Gesetzes zur Änderung des Tierschutzgesetzes – Schutz von Versuchstieren – vom 18. Juni 2021 (BGBl. I S. 1828) ergebenden Fassung erst ab dem 1. Dezember 2021 anzuwenden. Bis zu dem in Satz 1 genannten Zeitpunkt sind die dort genannten am 25. Juni 2021 geltenden Vorschriften weiter anzuwenden. Soweit Vorschriften dieses Gesetzes zum Erlass von Rechtsverordnungen ermächtigen, sind abweichend von Satz 1 die dort genannten Vorschriften in der dort genannten Fassung zum Zweck des Erlasses von Rechtsverordnungen ab dem 26. Juni 2021 anzuwenden.
+
+(8) Im Falle von Tierversuchen nach § 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2,
+
+1. deren Genehmigung vor dem 1. Dezember 2021 erteilt worden ist oder
+
+2. deren Durchführung vor dem 1. Dezember 2021 nach den bis zu diesem Tag anzuwendenden Vorschriften dieses Gesetzes angezeigt und von der zuständigen Behörde nicht beanstandet worden ist,
+
+sind abweichend von den §§ 7 bis 10 bis zum 1. Dezember 2023 die bis zum 1. Dezember 2021 anzuwendenden Vorschriften dieses Gesetzes weiter anzuwenden.
 
 # § 21a
 

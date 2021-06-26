@@ -1187,7 +1187,7 @@ auch ohne dass eine Dienstleistung für andere vorliegt (Hochfrequenzhandel),
 
 Die Anschaffung und die Veräußerung von Finanzinstrumenten für eigene Rechnung, die nicht Eigenhandel im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 ist (Eigengeschäft), gilt als Finanzdienstleistung, wenn das Eigengeschäft von einem Unternehmen betrieben wird, das
 
-1. dieses Geschäft, ohne bereits aus anderem Grunde Institut zu sein, gewerbsmäßig oder in einem Umfang betreibt, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, und
+1. dieses Geschäft, ohne bereits aus anderem Grunde Institut oder Wertpapierinstitut zu sein, gewerbsmäßig oder in einem Umfang betreibt, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, und
 
 2. einer Instituts-, einer Finanzholding- oder gemischten Finanzholding-Gruppe oder einem Finanzkonglomerat angehört, der oder dem ein CRR-Kreditinstitut angehört.
 
@@ -1215,7 +1215,7 @@ Ein Unternehmen, das als Finanzdienstleistung geltendes Eigengeschäft nach Satz
 
 8. Darlehen zwischen Kreditinstituten zu vermitteln (Geldmaklergeschäfte).
 
-Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung weitere Unternehmen als Finanzunternehmen bezeichnen, deren Haupttätigkeit in einer Tätigkeit besteht, um welche die Liste in Anhang I der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338) erweitert wird.
+Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weitere Unternehmen als Finanzunternehmen bezeichnen, deren Haupttätigkeit in einer Tätigkeit besteht, um welche die Liste in Anhang I zu der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist.
 
 (3a) Datenbereitstellungsdienste im Sinne dieses Gesetzes sind genehmigte Veröffentlichungssysteme, Bereitsteller konsolidierter Datenticker und genehmigte Meldemechanismen im Sinne des § 2 Absatz 37, 38 und 39 des Wertpapierhandelsgesetzes.
 
@@ -1229,7 +1229,7 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 3. Finanzhandelsinstitute gemäß § 25f Absatz 1.
 
-(3d) CRR-Kreditinstitute im Sinne dieses Gesetzes sind Kreditinstitute im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist. CRR-Wertpapierfirmen im Sinne dieses Gesetzes sind Wertpapierfirmen im Sinne des Artikels 4 Absatz 1 Nummer 2 der Verordnung (EU) Nr. 575/2013. CRR-Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und CRR-Wertpapierfirmen. Wertpapierhandelsunternehmen sind Institute, die keine CRR-Kreditinstitute sind und die Bankgeschäfte im Sinne des Absatzes 1 Satz 2 Nr. 4 oder 10 betreiben oder Finanzdienstleistungen im Sinne des Absatzes 1a Satz 2 Nr. 1 bis 4 erbringen, es sei denn, die Bankgeschäfte oder Finanzdienstleistungen beschränken sich auf Devisen oder Rechnungseinheiten. Wertpapierhandelsbanken sind Kreditinstitute, die keine CRR-Kreditinstitute sind und die Bankgeschäfte im Sinne des Absatzes 1 Satz 2 Nr. 4 oder 10 betreiben oder Finanzdienstleistungen im Sinne des Absatzes 1a Satz 2 Nr. 1 bis 4 erbringen. E-Geld-Institute sind Unternehmen im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes.
+(3d) CRR-Kreditinstitute im Sinne dieses Gesetzes sind Kreditinstitute im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist; ein Unternehmen, das CRR-Kreditinstitut ist, ist auch Kreditinstitut im Sinne dieses Gesetzes. Wertpapierinstitute sind Unternehmen im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes. E-Geld-Institute sind Unternehmen im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes.
 
 (3e) Wertpapier- oder Terminbörsen im Sinne dieses Gesetzes sind Wertpapier- oder Terminmärkte, die von den zuständigen staatlichen Stellen geregelt und überwacht werden, regelmäßig stattfinden und für das Publikum unmittelbar oder mittelbar zugänglich sind, einschließlich
 
@@ -1267,7 +1267,7 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 (8) (weggefallen)
 
-(9) Eine bedeutende Beteiligung im Sinne dieses Gesetzes ist eine qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung. Für die Berechnung des Anteils der Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Institute im Rahmen des Emissionsgeschäfts nach Absatz 1 Satz 2 Nummer 10 halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
+(9) Eine bedeutende Beteiligung im Sinne dieses Gesetzes ist eine qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung. Für die Berechnung des Anteils der Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Institute oder Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach Absatz 1 Satz 2 Nummer 10 oder nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
 
 (10) (weggefallen)
 
@@ -1361,7 +1361,7 @@ dient. Gehört der Sicherungsgeber zu den in Artikel 1 Abs. 2 Buchstabe e der Ri
 
 (19) Finanzbranche im Sinne dieses Gesetzes sind folgende Branchen:
 
-1. die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an;
+1. die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Wertpapierinstitute im Sinne des Absatzes 3d Satz 2, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an;
 
 2. die Versicherungsbranche; dieser gehören Erst- und Rückversicherungsunternehmen im Sinne des § 7 Nummer 33 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 7 Nummer 31 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an; zu den Versicherungsunternehmen im Sinne des ersten Halbsatzes gehören weder die Sterbekassen noch die in § 1 Absatz 4 und § 3 des Versicherungsaufsichtsgesetzes genannten Unternehmen und Einrichtungen.
 
@@ -1452,19 +1452,19 @@ d) eine Kündigungsfrist von mindestens drei Monaten aufweisen;
 
 # § 1a – Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute
 
-(1) Für Kreditinstitute, die keine
+(1) Für Institute, die keine
 
-1. CRR-Institute,
+1. CRR-Kreditinstitute,
 
-2. Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs der Verordnung (EU) Nr. 909/2014 auszuüben,
+2. Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zu der Verordnung (EU) Nr. 909/2014 auszuüben oder
 
 3. Wohnungsunternehmen mit Spareinrichtung
 
-sind, gelten vorbehaltlich des § 2 Absatz 8a, 9 bis 9c und 9f die Vorgaben der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die Vorgaben der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte, die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Kreditinstitute CRR-Kreditinstitute.
+sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die Vorgaben der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte, die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Institute CRR-Kreditinstitute.
 
-(2) Für Finanzdienstleistungsinstitute, die keine CRR-Institute sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9 die Vorgaben der Verordnung (EU) Nr. 575/2013, des Kapitels 2 der Verordnung (EU) 2017/2402 und der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Finanzdienstleistungsinstitute CRR-Wertpapierfirmen.
+(2) (weggefallen)
 
-(3) Für Kreditinstitute und Finanzdienstleistungsinstitute, die keine CRR-Institute und keine Wohnungsunternehmen mit Spareinrichtung sind, gelten die Vorgaben von Artikel 4 Absatz 1 Unterabsatz 1, Artikel 5a Absatz 1, der Artikel 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S. 57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Verordnung (EU) 2017/2402 (ABl. L 347 vom 28.12.2017, S. 35) geändert worden ist, und die auf ihrer Grundlage erlassenen Rechtsakte so, als seien diese Kreditinstitute und Finanzdienstleistungsinstitute CRR-Institute.
+(3) Für Kreditinstitute und Finanzdienstleistungsinstitute, die keine CRR-Kreditinstitute und keine Wohnungsunternehmen mit Spareinrichtung sind, gelten die Vorgaben von Artikel 4 Absatz 1 Unterabsatz 1, Artikel 5a Absatz 1, der Artikel 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S. 57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Verordnung (EU) 2017/2402 (ABl. L 347 vom 28.12.2017, S. 35) geändert worden ist, und die auf ihrer Grundlage erlassenen Rechtsakte so, als seien diese Kreditinstitute und Finanzdienstleistungsinstitute CRR-Kreditinstitute.
 
 (4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des Größenkriteriums „Gesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen.
 
@@ -1512,9 +1512,11 @@ a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, deren Haupttätigkei
 
 b) das Bankgeschäft des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 der Kommission vom 1. Dezember 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der Kriterien, nach denen eine Tätigkeit als Nebentätigkeit zur Haupttätigkeit gilt (ABl. L 87 vom 31.3.2017, S. 492) in der jeweils geltenden Fassung, ist,
 
-c) dieses Nebengeschäft ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird und
+c) dieses Nebengeschäft ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird,
 
-d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden;
+d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+
+e) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
 
 10. Unternehmen, die das Finanzkommissionsgeschäft ausschließlich als Dienstleistung für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs betreiben;
 
@@ -1586,9 +1588,11 @@ a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttät
 
 b) die Finanzdienstleistung des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist,
 
-c) dieses Nebengeschäft, soweit das Unternehmen nicht die Finanzdienstleistung im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a erbringt, ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird und
+c) dieses Nebengeschäft, soweit das Unternehmen nicht die Finanzdienstleistung im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a erbringt, ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird,
 
-d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden;
+d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+
+e) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
 
 12. Unternehmen, deren einzige Finanzdienstleistung im Sinne des § 1 Abs. 1a Satz 2 der Handel mit Sorten ist, sofern ihre Haupttätigkeit nicht im Sortengeschäft besteht;
 
@@ -1626,23 +1630,13 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (7b) Auf Finanzdienstleistungsinstitute, die außer dem Kryptoverwahrgeschäft nach § 1 Absatz 1a Satz 2 Nummer 6 keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 18 und 24 Absatz 1 Nummer 14 bis 14b, die §§ 24a und 25a Absatz 5, die §§ 26a und 45 sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
 
-(8) Auf
-
-1. Anlageberater und Anlagevermittler, die jeweils
-
-a) nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und
-
-b) nicht auf eigene Rechnung mit Finanzinstrumenten handeln, sowie
-
-2. Unternehmen, die auf Grund der Rückausnahme für die Erbringung grenzüberschreitender Geschäfte in Absatz 1 Nummer 8 oder Absatz 6 Nummer 9 als Institute einzustufen sind,
-
-sind die §§ 10, 10c bis 10i, 11, 13, 14 bis 18, 24 Absatz 1 Nummer 14 bis 14b, 16 und 17, Absatz 1a Nummer 5, § 25a Absatz 2 und 5, die §§ 26a und 45 dieses Gesetzes sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
+(8) (weggefallen)
 
 (8a) Die Anforderungen des § 24 Absatz 1 Nummer 14 bis 14b, § 25a Absatz 5, des § 26a und der Artikel 39, 41, 89 bis 386, 429 bis 429g, 430 Absatz 1 Unterabsatz 1 Buchstabe a, b, e bis g und Absatz 2 bis 5 sowie der Artikel 430a und 430b der Verordnung (EU) Nr. 575/2013 gelten, vorbehaltlich des § 64h Absatz 7, nicht für die Institute, deren Haupttätigkeit ausschließlich im Betreiben von Bankgeschäften oder der Erbringung von Finanzdienstleistungen im Zusammenhang mit Derivaten nach § 1 Absatz 11 Satz 3 Nummer 2, 3 und 5 besteht.
 
-(8b) Auf Finanzportfolioverwalter, Abschlussvermittler und Anlageverwalter, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ist § 10 Absatz 1, die §§ 10c bis 10i, 11, 13, 24 Absatz 1 Nummer 14 bis 14b und 16, Absatz 1a Nummer 5, § 25a Absatz 2 und 5 und § 26a dieses Gesetzes und die Artikel 41 sowie 89 bis 91, 95 Absatz 1 und 3, die Artikel 96, 98 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
+(8b) (weggefallen)
 
-(9) Die Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 sind nicht anzuwenden auf Finanzkommissionäre und Eigenhändler, die für eigene Rechnung ausschließlich zum Zwecke der Erfüllung oder Ausführung eines Kundenauftrags oder des möglichen Zugangs zu einem Abwicklungs- und Verrechnungssystem oder einer anerkannten Börse handeln, sofern sie im eigenen Namen für fremde Rechnung tätig sind oder einen Kundenauftrag ausführen.
+(9) (weggefallen)
 
 (9a) Auf Kreditinstitute, die ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, sind die §§ 2c, 6b, 10, 10c bis 10i, 11, 12a bis 18, 24 Absatz 1 Nummer 6, 10, 14 bis 14b, 16, Absatz 1a Nummer 4 bis 8, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 26a, 32, 33, 34, 36 Absatz 3 und die §§ 45 bis 45b dieses Gesetzes sowie die Artikel 25 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden. § 24 Absatz 1 Nummer 9 gilt mit der Maßgabe, dass das Absinken des Anfangskapitals unter die Mindestanforderungen nach Artikel 16 der Verordnung (EU) Nr. 648/2012 anzuzeigen ist.
 
@@ -1650,31 +1644,19 @@ sind die §§ 10, 10c bis 10i, 11, 13, 14 bis 18, 24 Absatz 1 Nummer 14 bis 14b,
 
 (9c) Die §§ 10d und 24 Absatz 1 Nummer 16 dieses Gesetzes und die Artikel 411 bis 430 der Verordnung (EU) Nr. 575/2013 sind nicht auf Bürgschaftsbanken im Sinne des § 5 Absatz 1 Nummer 17 des Körperschaftsteuergesetzes anzuwenden.
 
-(9d) Die Artikel 411 bis 428 der Verordnung (EU) Nr. 575/2013 sind nicht auf CRR-Wertpapierfirmen anzuwenden.
+(9d) (weggefallen)
 
 (9e) Auf Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 auszuüben, sind die §§ 2c, 6b Absatz 1 Nummer 1, Absatz 2 und 3, die §§ 10, 10c bis 18, 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 14a, 16 und 17, Absatz 1a Nummer 4 bis 8, Absatz 1b, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 33 bis 33b, 36 Absatz 3, die §§ 45 bis 45b, 53 und 53a dieses Gesetzes nicht anzuwenden.
 
 (9f) Auf Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 auszuüben sowie weitere Bankgeschäfte zu betreiben oder Finanzdienstleistungen zu erbringen, die zugleich Wertpapierdienstleistungen im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes sind, sind die §§ 2c, 24 Absatz 1 Nummer 1 und 2, § 25c Absatz 1, § 33 Absatz 1 Nummer 2 und 4a und § 35 nicht anzuwenden.
 
-(9g) Auf Institute, die nur Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 und 10 betreiben und Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 in Bezug auf Warentermingeschäfte, Emissionszertifikate und Derivate auf Emissionszertifikate erbringen und die diese Dienstleistungen allein mit dem Ziel der Absicherung der Geschäftsrisiken ihrer Kunden erbringen, sind die §§ 1a, 10, 10c bis 10i, 11 bis 13c, 15 bis 18 und 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 14a, 16 und 17, Absatz 1a Nummer 5, die §§ 24a, 25, 25a Absatz 5, die §§ 26a und 33 Absatz 1 Satz 1 Nummer 1, die §§ 45 und 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie die §§ 46b und 46c nicht anzuwenden, sofern diese Kunden
+(9g) (weggefallen)
 
-1. ausschließlich lokale Elektrizitätsunternehmen im Sinne des Artikels 2 Nummer 35 der Richtlinie 2009/72/EG, Erdgasunternehmen im Sinne des Artikels 2 Nummer 1 der Richtlinie 2009/73/EG oder Betreiber im Sinne des Artikels 3 Buchstabe f der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32), die zuletzt durch den Beschluss (EU) 2015/1814 (ABl. L 264 vom 9.10.2015, S. 1) geändert worden ist, sind,
-
-2. zusammen 100 Prozent des Kapitals oder der Stimmrechte des Instituts halten und diese gemeinsam kontrollieren und
-
-3. nach Absatz 1 Nummer 9 oder Absatz 6 Satz 1 Nummer 11 nicht als Kreditinstitut oder Finanzdienstleistungsinstitut gälten, wenn sie diese Dienstleistungen selbst erbrächten.
-
-(9h) Auf Institute, die nur Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 und 10 betreiben und Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 in Bezug auf Warentermingeschäfte, Emissionszertifikate und Derivate auf Emissionszertifikate erbringen und die diese Dienstleistungen allein mit dem Ziel der Absicherung der Geschäftsrisiken ihrer Kunden erbringen, sind die §§ 1a, 10, 10c bis 10i, 11 bis 13c, 15 bis 18 und 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 14a, 16 und 17, Absatz 1a Nummer 5, die §§ 24a, 25, 25a Absatz 5, die §§ 26a und 33 Absatz 1 Satz 1 Nummer 1, die §§ 45 und 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie die §§ 46b und 46c nicht anzuwenden, sofern diese Kunden
-
-1. ausschließlich Betreiber im Sinne des Artikels 3 Buchstabe f der Richtlinie 2003/87/EG sind,
-
-2. zusammen 100 Prozent des Kapitals oder der Stimmrechte des Instituts halten und diese gemeinsam kontrollieren und
-
-3. nach Absatz 1 Nummer 9 oder nach Absatz 6 Satz 1 Nummer 11 nicht als Kreditinstitut oder Finanzdienstleistungsinstitut gälten, wenn sie diese Dienstleistungen selbst erbrächten.
+(9h) (weggefallen)
 
 (9i) Auf Kreditinstitute, die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU namentlich genannt werden, sind § 26a dieses Gesetzes und die Artikel 431 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden. Kreditinstitute nach Satz 1 sind für die Zwecke des § 25a Absatz 5a und 5b sowie der Institutsvergütungsverordnung nicht als bedeutende Institute im Sinne des § 1 Absatz 3c einzustufen, wenn ihre Bilanzsumme im Durchschnitt zu den jeweiligen Stichtagen der letzten vier abgeschlossenen Geschäftsjahre 70 Milliarden Euro nicht überschritten hat.
 
-(10) Ein Unternehmen mit Sitz im Inland, das keine Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 betreibt und das als Finanzdienstleistungen nur die Anlagevermittlung, die Anlageberatung oder das Platzierungsgeschäft erbringt und dies ausschließlich für Rechnung und unter der Haftung eines CRR-Kreditinstituts oder eines Wertpapierhandelsunternehmens, das seinen Sitz im Inland hat oder nach § 53b Absatz 1 Satz 1 oder Absatz 7 im Inland tätig ist (vertraglich gebundener Vermittler), gilt nicht als Finanzdienstleistungsinstitut, sondern als Finanzunternehmen, wenn das CRR-Institut oder Wertpapierhandelsunternehmen dies der Bundesanstalt zuvor angezeigt hat. Die Tätigkeit des vertraglich gebundenen Vermittlers wird dem haftenden Unternehmen zugerechnet. Ändern sich die von dem haftenden Unternehmen angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich der Bundesanstalt anzuzeigen. Für den Inhalt der Anzeigen nach den Sätzen 1 und 3 und die beizufügenden Unterlagen und Nachweise können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden. Die Bundesanstalt führt über die ihr angezeigten vertraglich gebundenen Vermittler nach diesem Absatz ein öffentliches Register im Internet, das das haftende Unternehmen, die vertraglich gebundenen Vermittler, das Datum des Beginns und des Endes der Tätigkeit nach Satz 1 ausweist. Für die Voraussetzungen zur Aufnahme in das Register, den Inhalt und die Führung des Registers können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden, insbesondere kann dem haftenden Unternehmen ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und ihm die Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite übertragen werden. Die Bundesanstalt kann einem haftenden Unternehmen, das die Auswahl oder Überwachung seiner vertraglich gebundenen Vermittler nicht ordnungsgemäß durchgeführt hat oder die ihm im Zusammenhang mit der Führung des Registers übertragenen Pflichten verletzt hat, untersagen, vertraglich gebundene Vermittler im Sinne der Sätze 1 und 2 in das Unternehmen einzubinden.
+(10) Ein Unternehmen mit Sitz im Inland, das keine Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 betreibt und das als Finanzdienstleistungen nur die Anlagevermittlung, die Anlageberatung oder das Platzierungsgeschäft erbringt und dies ausschließlich für Rechnung und unter der Haftung eines CRR-Kreditinstituts, das seinen Sitz im Inland hat oder nach § 53b Absatz 1 Satz 1 oder Absatz 7 im Inland tätig ist (vertraglich gebundener Vermittler), gilt nicht als Finanzdienstleistungsinstitut, sondern als Finanzunternehmen, wenn das CRR-Institut dies der Bundesanstalt zuvor angezeigt hat. Die Tätigkeit des vertraglich gebundenen Vermittlers wird dem haftenden Unternehmen zugerechnet. Ändern sich die von dem haftenden Unternehmen angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich der Bundesanstalt anzuzeigen. Für den Inhalt der Anzeigen nach den Sätzen 1 und 3 und die beizufügenden Unterlagen und Nachweise können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden. Die Bundesanstalt führt über die ihr angezeigten vertraglich gebundenen Vermittler nach diesem Absatz ein öffentliches Register im Internet, das das haftende Unternehmen, die vertraglich gebundenen Vermittler, das Datum des Beginns und des Endes der Tätigkeit nach Satz 1 ausweist. Für die Voraussetzungen zur Aufnahme in das Register, den Inhalt und die Führung des Registers können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden, insbesondere kann dem haftenden Unternehmen ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und ihm die Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite übertragen werden. Die Bundesanstalt kann einem haftenden Unternehmen, das die Auswahl oder Überwachung seiner vertraglich gebundenen Vermittler nicht ordnungsgemäß durchgeführt hat oder die ihm im Zusammenhang mit der Führung des Registers übertragenen Pflichten verletzt hat, untersagen, vertraglich gebundene Vermittler im Sinne der Sätze 1 und 2 in das Unternehmen einzubinden.
 
 (11) (weggefallen)
 
@@ -1705,7 +1687,7 @@ sind die §§ 10, 10c bis 10i, 11, 13, 14 bis 18, 24 Absatz 1 Nummer 14 bis 14b,
 
 (1) Kreditinstitute, die eine Erlaubnis nach § 32 Abs. 1 benötigen, dürfen nicht in der Rechtsform des Einzelkaufmanns betrieben werden.
 
-(2) Bei Wertpapierhandelsunternehmen in der Rechtsform des Einzelkaufmanns oder der Personenhandelsgesellschaft sind die Risikoaktiva des Inhabers oder der persönlich haftenden Gesellschafter in die Beurteilung der Solvenz des Instituts gemäß Artikel 92 der Verordnung (EU) Nr. 575/2013 einzubeziehen; das freie Vermögen des Inhabers oder der Gesellschafter bleibt jedoch bei der Berechnung der Eigenmittel des Instituts unberücksichtigt. Wird ein solches Institut in der Rechtsform eines Einzelkaufmanns betrieben, hat der Inhaber angemessene Vorkehrungen für den Schutz seiner Kunden für den Fall zu treffen, daß auf Grund seines Todes, seiner Geschäftsunfähigkeit oder aus anderen Gründen das Institut seine Geschäftstätigkeit einstellt.
+(2) (weggefallen)
 
 # § 2c – Inhaber bedeutender Beteiligungen
 
@@ -1723,7 +1705,7 @@ b) der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25.
 
 c) der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Richtlinie (EU) 2019/2115 (ABl. L 320 vom 11.12.2019, S. 1) geändert worden ist, oder
 
-d) der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist.
+d) der Richtlinie 2013/36/EU.
 
 Wird der interessierte Erwerber von der Aufsichtsbehörde gleichzeitig mit einer Beurteilung nach Satz 1 auf Grund eines Antrags nach § 2f oder in den Fällen des § 8 Absatz 3 Satz 3 von einer zuständigen Stelle in einem Staat des Europäischen Wirtschaftsraums auf Grund eines Antrags nach Artikel 21a der Richtlinie 2013/36/EU beurteilt, so kann die Aufsichtsbehörde den Beurteilungszeitraum unterbrechen, bis das Verfahren nach § 2f oder Artikel 21a der Richtlinie 2013/36/EU abgeschlossen ist. Soweit es sich bei der Anzeige um den Erwerb einer bedeutenden Beteiligung an einem CRR-Kreditinstitut handelt, legt die Bundesanstalt nach Abschluss ihrer Beurteilung der Europäischen Zentralbank einen Beschlussentwurf gemäß Artikel 15 Absatz 2 der Verordnung (EU) Nr. 1024/2013 vor. Auf diesen Beschlussentwurf der Bundesanstalt ist Absatz 1b entsprechend anzuwenden.
 
@@ -1859,11 +1841,11 @@ Antragsteller, die nach diesem Absatz keine Zulassung nach Absatz 1 benötigen, 
 
 (6) Liegen die Voraussetzungen nicht oder nicht mehr vor, nach denen die Aufsichtsbehörde nach Absatz 3 die Zulassung erteilt hat, kann die Aufsichtsbehörde
 
-1. dem Antragsteller oder der nach Absatz 1 zugelassenen Gesellschaft die Ausübung der Stimmrechte an CRR-Instituten der Gruppe untersagen;
+1. dem Antragsteller oder der nach Absatz 1 zugelassenen Gesellschaft die Ausübung der Stimmrechte an CRR-Kreditinstituten der Gruppe untersagen;
 
-2. gegenüber dem Antragsteller oder der nach Absatz 1 zugelassenen Gesellschaft anordnen, die jeweiligen Beteiligungen an den CRR-Instituten der Gruppe auf seine oder ihre Inhaber zu übertragen;
+2. gegenüber dem Antragsteller oder der nach Absatz 1 zugelassenen Gesellschaft anordnen, die jeweiligen Beteiligungen an den CRR-Kreditinstituten der Gruppe auf seine oder ihre Inhaber zu übertragen;
 
-3. ein CRR-Institut oder eine andere Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft der Gruppe vorübergehend zum übergeordneten Unternehmen der Gruppe bestimmen;
+3. ein CRR-Kreditinstitut oder eine andere Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft der Gruppe vorübergehend zum übergeordneten Unternehmen der Gruppe bestimmen;
 
 4. die Ausschüttungen oder die Zinszahlungen an Anteilseigner beschränken oder untersagen;
 
@@ -1881,7 +1863,7 @@ Die Aufsichtsbehörde kann außerdem gegenüber den Inhabern und Geschäftsleite
 
 # § 2g – Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat
 
-(1) Haben zwei oder mehr CRR-Institute mit Sitz in einem Staat des Europäischen Wirtschaftsraums das gleiche Mutterunternehmen mit Sitz in einem Drittstaat (Drittstaatengruppe) und übersteigt der Gesamtwert der Vermögenswerte der Drittstaatengruppe innerhalb des Europäischen Wirtschaftsraums 40 Milliarden Euro, so haben diese CRR-Institute ein gemeinsames zwischengeschaltetes EU-Mutterunternehmen einzurichten.
+(1) Haben zwei oder mehr CRR-Kreditinstitute oder Wertpapierinstitute mit Sitz in einem Staat des Europäischen Wirtschaftsraums das gleiche Mutterunternehmen mit Sitz in einem Drittstaat und übersteigt der Gesamtwert der Vermögenswerte der Drittstaatengruppe innerhalb des Europäischen Wirtschaftsraums 40 Milliarden Euro, so haben diese Unternehmen ein gemeinsames zwischengeschaltetes EU-Mutterunternehmen einzurichten.
 
 (2) Abweichend von Absatz 1 kann die Aufsichtsbehörde die Einrichtung von zwei zwischengeschalteten EU-Mutterunternehmen genehmigen, wenn die Einrichtung eines einzigen zwischengeschalteten EU-Mutterunternehmens entweder
 
@@ -1889,35 +1871,35 @@ Die Aufsichtsbehörde kann außerdem gegenüber den Inhabern und Geschäftsleite
 
 2. die Abwicklungsfähigkeit der Drittstaatengruppe innerhalb des Europäischen Wirtschaftsraums nach Einschätzung der zuständigen Abwicklungsbehörde im Vergleich zur Situation mit zwei zwischengeschalteten EU-Mutterunternehmen schwächen würde.
 
-Sind neben der Aufsichtsbehörde weitere Stellen in anderen Staaten des Europäischen Wirtschaftsraums für die Beaufsichtigung von CRR-Instituten mit dem gleichen Mutterunternehmen mit Sitz in einem Drittstaat zuständig, trifft die Aufsichtsbehörde die Entscheidung nach Satz 1 im Einvernehmen mit den weiteren zuständigen Stellen.
+Sind neben der Aufsichtsbehörde weitere Stellen in anderen Staaten des Europäischen Wirtschaftsraums für die Beaufsichtigung von CRR-Kreditinstituten oder Wertpapierinstituten mit dem gleichen Mutterunternehmen mit Sitz in einem Drittstaat zuständig, trifft die Aufsichtsbehörde die Entscheidung nach Satz 1 im Einvernehmen mit den weiteren zuständigen Stellen.
 
 (3) Ein zwischengeschaltetes EU-Mutterunternehmen nach Absatz 1 oder Absatz 2 muss ein CRR-Kreditinstitut oder eine nach Maßgabe des Artikels 21a der Richtlinie 2013/36/EU zugelassene Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft sein. Auch eine gemäß Artikel 5 Absatz 1 der Richtlinie 2014/65/EU zugelassene Wertpapierfirma, die der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190), die zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328 vom 18.12.2019, S. 29) geändert worden ist, unterliegt, kann zwischengeschaltetes EU-Mutterunternehmen sein, wenn eine der beiden weiteren Voraussetzungen erfüllt ist:
 
-1. bei keinem der in Absatz 1 genannten CRR-Institute handelt es sich um ein CRR-Kreditinstitut oder
+1. bei keinem der in Absatz 1 genannten Unternehmen handelt es sich um ein CRR-Kreditinstitut oder
 
 2. die Wertpapierfirma wird als zweites zwischengeschaltetes EU-Mutterunternehmen eingerichtet, um eine zwingende Regelung im Sinne des Absatzes 2 Satz 1 zu erfüllen.
 
 (4) Der Gesamtwert der Vermögenswerte der Drittstaatengruppe innerhalb des Europäischen Wirtschaftsraums nach Absatz 1 ergibt sich aus der Summe der folgenden Gesamtwerte:
 
-1. Gesamtwert der Vermögenswerte jedes CRR-Instituts der Drittstaatengruppe mit Sitz im Europäischen Wirtschaftsraum, der in ihrer konsolidierten Bilanz oder, sofern bei einem CRR-Institut keine Konsolidierung der Bilanz erfolgt, in dessen Einzelbilanz ausgewiesen ist, und
+1. Gesamtwert der Vermögenswerte jedes CRR-Kreditinstituts und jedes Wertpapierinstituts der Drittstaatengruppe mit Sitz im Europäischen Wirtschaftsraum, der in seiner konsolidierten Bilanz oder, sofern bei einem CRR-Kreditinstitut oder einem Wertpapierinstitut keine Konsolidierung der Bilanz erfolgt, in seiner Einzelbilanz ausgewiesen ist, und
 
 2. Gesamtwert der Vermögenswerte jeder im Europäischen Wirtschaftsraum zugelassenen Zweigstelle dieser Unternehmensgruppe.
 
 (5) Die Aufsichtsbehörde teilt der Europäischen Bankenaufsichtsbehörde für jede Drittstaatengruppe mit:
 
-1. den Namen und den Gesamtwert der Vermögenswerte der beaufsichtigten CRR-Institute mit Sitz im Inland,
+1. den Namen und den Gesamtwert der Vermögenswerte der beaufsichtigten CRR-Kreditinstitute und Wertpapierinstitute mit Sitz im Inland,
 
 2. den Namen und den Gesamtwert der Vermögenswerte, die den Zweigstellen nach § 53 insgesamt zuzuordnen sind, und für welche Bankgeschäfte und Finanzdienstleistungen diese Zweigstellen zugelassen sind sowie
 
 3. den Namen und die Art des zwischengeschalteten EU-Mutterunternehmens nach Absatz 3 sowie den Namen der Drittstaatengruppe, der das zwischengeschaltete EU-Mutterunternehmen angehört.
 
-(6) Die Aufsichtsbehörde stellt sicher, dass jedes CRR-Institut in ihrem Zuständigkeitsbereich, dessen Mutterunternehmen seinen Sitz in einem Drittstaat hat, entweder
+(6) Die Aufsichtsbehörde stellt sicher, dass jedes CRR-Kreditinstitut und jedes Wertpapierinstitut in ihrem Zuständigkeitsbereich, dessen Mutterunternehmen seinen Sitz in einem Drittstaat hat, entweder
 
 1. ein zwischengeschaltetes EU-Mutterunternehmen hat,
 
 2. ein zwischengeschaltetes EU-Mutterunternehmen ist,
 
-3. das einzige CRR-Institut dieser Unternehmensgruppe innerhalb des Europäischen Wirtschaftsraums ist oder
+3. das einzige CRR-Kreditinstitut oder Wertpapierinstitut dieser Unternehmensgruppe innerhalb des Europäischen Wirtschaftsraums ist oder
 
 4. einer Drittstaatengruppe angehört, deren Gesamtwert der Vermögenswerte innerhalb des Europäischen Wirtschaftsraums nach Absatz 4 weniger als 40 Milliarden Euro beträgt.
 
@@ -1978,7 +1960,7 @@ Die Bundesanstalt hat bei Anordnung im Sinne des Satzes 1 dem Institut eine ange
 
 # § 4 – Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht
 
-Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen binden die Verwaltungsbehörden.
+Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen binden die Verwaltungsbehörden.
 
 # § 5
 
@@ -2205,9 +2187,9 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 3. die Anzahl und die Art der Fälle, in denen die Errichtung einer Zweigniederlassung in einem anderen Staat des Europäischen Wirtschaftsraums nicht zustande gekommen ist, weil die Bundesanstalt die Angaben nach § 24a Absatz 1 Satz 2 nicht an die zuständigen Stellen des Aufnahmemitgliedstaates weitergeleitet hat,
 
-4. die Anzahl und Art der Fälle, in denen Maßnahmen nach § 53b Absatz 4 Satz 2 und Absatz 5 Satz 1 ergriffen wurden,
+4. die Anzahl und Art der Fälle, in denen Maßnahmen nach § 53b Absatz 4 Satz 2 und Absatz 5 Satz 1 ergriffen wurden, und
 
-5. allgemeine Schwierigkeiten, die Wertpapierhandelsunternehmen bei der Errichtung von Zweigniederlassungen, der Gründung von Tochterunternehmen, beim Betreiben von Bankgeschäften, beim Erbringen von Finanzdienstleistungen oder bei Tätigkeiten nach § 1 Absatz 3 Satz 1 Nummer 2 bis 8 in einem Drittstaat haben, und
+5. (weggefallen)
 
 6. den Erlaubnisantrag des Tochterunternehmens eines Unternehmens mit Sitz in einem Drittstaat, sofern die Kommission die Meldung solcher Antragseingänge verlangt hat.
 
@@ -2257,21 +2239,21 @@ c) den Namen der Drittstaatengruppe, der eine Zweigstelle angehört,
 
 4. die nach Artikel 450 Absatz 1 Buchstabe i der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung gesammelten Informationen,
 
-5. die Anpassung der Methode nach § 6b Absatz 5 bei CRR-Instituten,
+5. die Anpassung der Methode nach § 6b Absatz 5 bei CRR-Kreditinstituten,
 
-6. die Funktionsweise der Überprüfungs- und Bewertungssysteme der Risiken, denen ein CRR-Institut ausgesetzt ist oder sein könnte, und der Risiken, die ein CRR-Institut nach Maßgabe der Ermittlung und Messung des Systemrisikos gemäß Artikel 23 der Verordnung (EU) Nr. 1093/2010 in der jeweils geltenden Fassung für das Finanzsystem darstellt, sowie die Methodik, nach der auf der Grundlage dieser Überprüfung Maßnahmen getroffen werden,
+6. die Funktionsweise der Überprüfungs- und Bewertungssysteme der Risiken, denen ein CRR-Kreditinstitut ausgesetzt ist oder sein könnte, und der Risiken, die ein CRR-Kreditinstitut nach Maßgabe der Ermittlung und Messung des Systemrisikos gemäß Artikel 23 der Verordnung (EU) Nr. 1093/2010 in der jeweils geltenden Fassung für das Finanzsystem darstellt, sowie die Methodik, nach der auf der Grundlage dieser Überprüfung Maßnahmen getroffen werden,
 
-7. die Ergebnisse aufsichtlicher Stresstests, soweit diese über die nach Artikel 32 der Verordnung (EU) Nr. 1093/2010 in der jeweils geltenden Fassung durchgeführten Stresstests hinaus erforderlich werden, um eine hinreichende Überprüfung und Überwachung des CRR-Instituts sicherzustellen,
+7. die Ergebnisse aufsichtlicher Stresstests, soweit diese über die nach Artikel 32 der Verordnung (EU) Nr. 1093/2010 in der jeweils geltenden Fassung durchgeführten Stresstests hinaus erforderlich werden, um eine hinreichende Überprüfung und Überwachung des CRR-Kreditinstituts sicherzustellen,
 
 8. Anordnungen der Bundesanstalt nach § 10 Absatz 6 unter Angabe der Gründe,
 
-9. alle sonstigen Maßnahmen, die die Bundesanstalt gegenüber einem CRR-Institut trifft, wenn es gegen die Anforderungen der Verordnung (EU) Nr. 575/2013 oder die auf Grund der Richtlinie 2013/36/EU erlassenen Anforderungen verstößt oder voraussichtlich verstoßen wird, jeweils unter Angabe der Gründe,
+9. alle sonstigen Maßnahmen, die die Bundesanstalt gegenüber einem CRR-Kreditinstitut trifft, wenn es gegen die Anforderungen der Verordnung (EU) Nr. 575/2013 oder die auf Grund der Richtlinie 2013/36/EU erlassenen Anforderungen verstößt oder voraussichtlich verstoßen wird, jeweils unter Angabe der Gründe,
 
 10. alle nach § 56 Absatz 6 Nummer 1 verhängten rechtskräftig gewordenen Bußgelder, einschließlich aller dauerhaften Untersagungen insbesondere nach § 36,
 
 11. die von ihr erhobenen Angaben zu den Informationen, die nach Artikel 435 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 575/2013 offengelegt worden sind, und
 
-12. den Verdacht, dass im Zusammenhang mit diesem CRR-Institut Geldwäsche oder Terrorismusfinanzierung stattfindet oder stattgefunden hat oder diese Straftaten versucht wurden oder ein erhöhtes Risiko hierfür besteht, wenn sich dieser Verdacht auf Grund der Überprüfung, insbesondere der Evaluierung der Unternehmensführungsregelung, des Geschäftsmodells oder der Tätigkeiten eines CRR-Instituts ergeben hat.
+12. den Verdacht, dass im Zusammenhang mit diesem CRR-Kreditinstitut Geldwäsche oder Terrorismusfinanzierung stattfindet oder stattgefunden hat oder diese Straftaten versucht wurden oder ein erhöhtes Risiko hierfür besteht, wenn sich dieser Verdacht auf Grund der Überprüfung, insbesondere der Evaluierung der Unternehmensführungsregelung, des Geschäftsmodells oder der Tätigkeiten eines CRR-Kreditinstituts ergeben hat.
 
 Die Bundesanstalt meldet der Europäischen Aufsichtsbehörde in den vorstehenden Fällen auch die Einlegung von Rechtsmitteln gegen die von ihr erlassenen Maßnahmen und Bußgelder sowie den Ausgang der Rechtsmittelverfahren.
 
@@ -2337,11 +2319,11 @@ Die Bundesanstalt arbeitet eng mit dem Europäischen Ausschuss für Systemrisike
 
 (3) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über Institute, die in einem anderen Staat des Europäischen Wirtschaftsraums Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, sowie bei der Aufsicht über Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Abs. 1 bis 5 mit den zuständigen Stellen im Europäischen Wirtschaftsraum sowie der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde zusammen. Bei der Beurteilung nach § 2c Abs. 1a und 1b arbeitet die Bundesanstalt mit den zuständigen Stellen im Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige
 
-1. ein CRR-Institut, ein Erst- oder Rückversicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG (OGAW-Verwaltungsgesellschaft) ist, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist;
+1. ein CRR-Kreditinstitut, ein Erst- oder Rückversicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG (OGAW-Verwaltungsgesellschaft) ist, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist;
 
-2. ein Mutterunternehmen eines CRR-Instituts, eines Erst- oder Rückversicherungsunternehmens oder einer OGAW-Verwaltungsgesellschaft ist, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist oder
+2. ein Mutterunternehmen eines CRR-Kreditinstituts, eines Erst- oder Rückversicherungsunternehmens oder einer OGAW-Verwaltungsgesellschaft ist, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist oder
 
-3. eine natürliche oder juristische Person ist, die ein CRR-Institut, ein Erst- oder Rückversicherungsunternehmen oder eine OGAW-Verwaltungsgesellschaft kontrolliert, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist.
+3. eine natürliche oder juristische Person ist, die ein CRR-Kreditinstitut, ein Erst- oder Rückversicherungsunternehmen oder eine OGAW-Verwaltungsgesellschaft kontrolliert, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist.
 
 Wird der interessierte Erwerber einer bedeutenden Beteiligung gleichzeitig mit der Beurteilung nach § 2c Absatz 1a auch auf Grund eines Antrags auf Erteilung einer Zulassung nach Artikel 21a der Richtlinie 2013/36/EU beurteilt, so stimmt sich die Bundesanstalt ab
 
@@ -2453,21 +2435,17 @@ Bei der Entscheidung ist die von den jeweils zuständigen Stellen durchgeführte
 
 1. das Mutterunternehmen ein EU-Mutterkreditinstitut oder ein Mutterkreditinstitut mit Sitz im Inland ist und die Bundesanstalt auf Einzelinstitutsebene für die Aufsicht über das Kreditinstitut zuständig ist;
 
-2. das Mutterunternehmen eine EU-Mutterwertpapierfirma oder eine Mutterwertpapierfirma mit Sitz im Inland ist, der kein CRR-Kreditinstitut als Tochterunternehmen nachgeordnet ist, und die Bundesanstalt auf Einzelinstitutsebene für die Aufsicht über die CRR-Wertpapierfirma zuständig ist;
+2. das Mutterunternehmen eine EU-Mutterwertpapierfirma oder Mutterwertpapierfirma mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der mindestens ein CRR-Kreditinstitut nachgeordnet ist, und die Bundesanstalt auf Einzelinstitutsebene für die Aufsicht über das CRR-Kreditinstitut mit der größten Bilanzsumme zuständig ist;
 
-3. das Mutterunternehmen eine EU-Mutterwertpapierfirma oder Mutterwertpapierfirma mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der mindestens ein CRR-Kreditinstitut nachgeordnet ist, und die Bundesanstalt auf Einzelinstitutsebene für die Aufsicht über das CRR-Kreditinstitut mit der größten Bilanzsumme zuständig ist;
+3. das Mutterunternehmen eine EU-Mutterfinanzholdinggesellschaft, eine Mutterfinanzholdinggesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums, eine gemischte EU-Mutterfinanzholdinggesellschaft oder eine gemischte Mutterfinanzholdinggesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der ein CRR-Kreditinstitut mit Sitz im Inland nachgeordnet ist, und die Bundesanstalt nach diesem Gesetz auf Einzelebene für die Aufsicht über das nachgeordnete Kreditinstitut zuständig ist;
 
-4. das Mutterunternehmen eine EU-Mutterfinanzholding-Gesellschaft, eine Mutterfinanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums, eine gemischte EU-Mutterfinanzholding-Gesellschaft oder eine gemischte Mutterfinanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der ein CRR-Institut mit Sitz im Inland nachgeordnet ist, und die Bundesanstalt auf Einzelinstitutsebene für die Aufsicht über das nachgeordnete Institut zuständig ist;
+4. das Mutterunternehmen eine EU-Mutterfinanzholdinggesellschaft, eine Mutterfinanzholdinggesellschaft mit Sitz im Inland, eine gemischte EU-Mutterfinanzholdinggesellschaft oder eine gemischte Mutterfinanzholdinggesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der zwei oder mehr CRR-Kreditinstitute oder Wertpapierinstitute mit Sitz innerhalb des Europäischen Wirtschaftsraums nachgeordnet sind, und die Bundesanstalt nach diesem Gesetz auf Einzelebene zuständig ist für die Aufsicht über
 
-5. das Mutterunternehmen eine EU-Mutterfinanzholding-Gesellschaft, eine Mutterfinanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums, eine gemischte EU-Mutterfinanzholding-Gesellschaft oder eine gemischte Mutterfinanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums ist, der zwei oder mehr CRR-Institute mit Sitz innerhalb des Europäischen Wirtschaftsraums nachgeordnet sind, und die Bundesanstalt auf Einzelinstitutsebene zuständig ist für die Aufsicht über
+a) das einzige nachgeordnete CRR-Kreditinstitut oder
 
-a) das einzige nachgeordnete CRR-Kreditinstitut,
+b) das CRR-Kreditinstitut mit der größten Bilanzsumme.
 
-b) das CRR-Kreditinstitut mit der größten Bilanzsumme oder
-
-c) die CRR-Wertpapierfirma mit der größten Bilanzsumme, soweit kein CRR-Kreditinstitut nachgeordnet ist.
-
-(2) Sind dem Mutterunternehmen in den Fällen gemäß Absatz 1 Nummer 3 und 5 Buchstabe b CRR-Kreditinstitute mit Sitz in verschiedenen Staaten des Europäischen Wirtschaftsraums nachgeordnet, so ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis zuständig, wenn die Gesamtbilanzsumme der nachgeordneten CRR-Kreditinstitute, für deren Beaufsichtigung auf Einzelinstitutsebene sie nach diesem Gesetz zuständig ist, die Gesamtbilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelinstitutsebene beaufsichtigten nachgeordneten CRR-Kreditinstitute übersteigt. Sind dem Mutterunternehmen in den Fällen gemäß Absatz 1 Nummer 5 Buchstabe c CRR-Wertpapierfirmen mit Sitz in verschiedenen Staaten des Europäischen Wirtschaftsraums nachgeordnet, so ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis zuständig, wenn die zusammengefasste Bilanzsumme der nachgeordneten CRR-Wertpapierfirmen, für deren Beaufsichtigung sie nach diesem Gesetz zuständig ist, die zusammengefasste Bilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelinstitutsebene beaufsichtigten nachgeordneten CRR-Wertpapierfirmen übersteigt.
+(2) Sind dem Mutterunternehmen in den Fällen des Absatzes 1 Nummer 3 und 4 Buchstabe b CRR-Kreditinstitute mit Sitz in verschiedenen Mitgliedstaaten des Europäischen Wirtschaftsraums nachgeordnet, ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis zuständig, wenn die Gesamtbilanzsumme der nachgeordneten CRR-Kreditinstitute, für deren Beaufsichtigung auf Einzelebene sie nach diesem Gesetz zuständig ist, die Gesamtbilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelebene beaufsichtigten nachgeordneten CRR-Kreditinstituten übersteigt. Sind dem Mutterunternehmen in den Fällen des Absatzes 1 Nummer 4 Buchstabe b Wertpapierinstitute mit Sitz in verschiedenen Mitgliedstaaten des Europäischen Wirtschaftsraums nachgeordnet, ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis zuständig, wenn die zusammengefasste Bilanzsumme der nachgeordneten Wertpapierinstitute, für deren Beaufsichtigung sie nach dem Wertpapierinstitutsgesetz zuständig ist, die zusammengefasste Bilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelebene beaufsichtigten nachgeordneten Wertpapierinstitute übersteigt.
 
 (3) Erfolgt eine zusammengefasste Aufsicht nach Artikel 18 Absatz 3 oder Absatz 6 der Verordnung (EU) Nr. 575/2013, ist die Bundesanstalt zuständig für die Aufsicht auf zusammengefasster Basis, wenn die Gesamtbilanzsumme der gruppenangehörigen CRR-Kreditinstitute, für deren Beaufsichtigung auf Einzelinstitutsebene sie nach diesem Gesetz zuständig ist, die Gesamtbilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelinstitutsebene beaufsichtigten gruppenangehörigen CRR-Kreditinstitute übersteigt. Sofern der Gruppe kein CRR-Kreditinstitut angehört, ist die Bundesanstalt zuständig für die Aufsicht auf zusammengefasster Basis, wenn sie nach diesem Gesetz auf Einzelebene zuständig für die Aufsicht über die gruppenangehörige CRR-Wertpapierfirma mit der größten Bilanzsumme ist.
 
@@ -2517,11 +2495,11 @@ Die Bundesanstalt stellt in diesen Fällen das übergeordnete Unternehmen widerr
 
 # § 8f – Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen
 
-(1) Die Bundesanstalt stuft die Zweigniederlassung eines CRR-Instituts in einem Aufnahmemitgliedstaat oder einem Staat des Europäischen Wirtschaftsraums auf Verlangen der zuständigen Stelle insbesondere dann als bedeutend ein, wenn die Zweigniederlassung die Anforderungen des § 53b Absatz 8 Satz 4 erfüllt; in diesem Fall übermittelt die Bundesanstalt der zuständigen Stelle
+(1) Die Bundesanstalt stuft die Zweigniederlassung eines CRR-Kreditinstituts in einem Aufnahmemitgliedstaat oder einem Staat des Europäischen Wirtschaftsraums auf Verlangen der zuständigen Stelle insbesondere dann als bedeutend ein, wenn die Zweigniederlassung die Anforderungen des § 53b Absatz 8 Satz 4 erfüllt; in diesem Fall übermittelt die Bundesanstalt der zuständigen Stelle
 
 1. die Informationen nach § 8 Absatz 3 Satz 6 Nummer 3 und 4 und § 11 Absatz 3,
 
-2. die Ergebnisse der Risikobewertungen des CRR-Instituts und
+2. die Ergebnisse der Risikobewertungen des CRR-Kreditinstituts und
 
 3. die Entscheidungen über das erstmalige oder das weitere Verwenden interner Ansätze und über Maßnahmen nach § 6 Absatz 3, sofern sie Auswirkungen auf die bedeutende Zweigniederlassung haben.
 
@@ -2541,17 +2519,17 @@ Ist die Bundesanstalt zuständig für die Aufsicht über Zweigstellen eines Unte
 
 Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
-1. zusätzliche Eigenmittelanforderungen, die gegenüber CRR-Instituten nach § 6c angeordnet wurden, und
+1. zusätzliche Eigenmittelanforderungen, die gegenüber CRR-Kreditinstituten nach § 6c angeordnet wurden, und
 
 2. sämtliche Eigenmittelempfehlungen, die CRR-Instituten nach § 6d mitgeteilt wurden.
 
 # § 9 – Verschwiegenheitspflicht
 
-(1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die nach § 45c bestellten Sonderbeauftragten, die nach § 37 Absatz 1 Satz 2 und § 38 Absatz 2 Satz 2 und 3 bestellten Abwickler sowie die im Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Die von den beaufsichtigten Instituten und Unternehmen zu beachtenden allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
+(1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die nach § 45c bestellten Sonderbeauftragten, die nach § 37 Absatz 1 Satz 2 und § 38 Absatz 2 Satz 2 und 3 bestellten Abwickler sowie die im Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Die von den beaufsichtigten Instituten und Unternehmen zu beachtenden allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
 1. Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige Gerichte,
 
-2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Instituten, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, Versicherungsunternehmen, der Finanzmärkte oder des Zahlungsverkehrs betraute Stellen sowie von diesen beauftragte Personen,
+2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Instituten, Wertpapierinstitute, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, Versicherungsunternehmen, der Finanzmärkte oder des Zahlungsverkehrs betraute Stellen sowie von diesen beauftragte Personen,
 
 3. mit der Liquidation, oder dem Insolvenzverfahren über das Vermögen eines Instituts befaßte Stellen,
 
@@ -2669,7 +2647,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 1. diese Daten unter Zugrundelegung eines wissenschaftlich anerkannten mathematisch-statistischen Verfahrens nachweisbar für die Bestimmung und Berücksichtigung von Adressenausfallrisiken erheblich sind,
 
-2. diese Daten zum Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von internen Ratingsystemen für die Schätzung von Risikoparametern des Adressenausfallrisikos des Kreditinstituts oder der Wertpapierfirma erforderlich sind und
+2. diese Daten zum Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von internen Ratingsystemen für die Schätzung von Risikoparametern des Adressenausfallrisikos des Kreditinstituts erforderlich sind und
 
 3. es sich nicht um Angaben zur Staatsangehörigkeit oder um besondere Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 handelt.
 
@@ -2728,9 +2706,9 @@ Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesonde
 
 # § 10a – Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
 
-(1) Eine Institutsgruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnete Unternehmen sind CRR-Institute, die nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben, sowie Institute, die nach § 1a in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden; Institute, die nach § 1a als CRR-Institute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Abweichend von Satz 2 kann die Bundesanstalt auf Antrag des übergeordneten Unternehmens ein anderes gruppenangehöriges Institut als übergeordnetes Unternehmen bestimmen; das gruppenangehörige Institut ist vorab anzuhören. Erfüllt bei wechselseitigen Beteiligungen kein Unternehmen der Institutsgruppe die Voraussetzungen des Satzes 2, bestimmt die Bundesanstalt das übergeordnete Unternehmen der Gruppe. Ist das übergeordnete Unternehmen ein Kreditinstitut, das ausschließlich über eine Erlaubnis verfügt, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, oder ein Finanzdienstleistungsinstitut, das ausschließlich Finanzdienstleistungen im Sinne von § 1 Absatz 1a Satz 2 Nummer 9 oder 10 erbringt, besteht nur dann eine Institutsgruppe im Sinne dieser Vorschrift, wenn ihm mindestens ein CRR-Institut mit Sitz im Inland als Tochterunternehmen nachgeordnet ist.
+(1) Eine Institutsgruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnete Unternehmen sind CRR-Kreditinstitute, die nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben, sowie Institute, die nach § 1a in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden; Institute, die nach § 1a als CRR-Kreditinstitute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Abweichend von Satz 2 kann die Bundesanstalt auf Antrag des übergeordneten Unternehmens ein anderes gruppenangehöriges Institut als übergeordnetes Unternehmen bestimmen; das gruppenangehörige Institut ist vorab anzuhören. Erfüllt bei wechselseitigen Beteiligungen kein Unternehmen der Institutsgruppe die Voraussetzungen des Satzes 2, bestimmt die Bundesanstalt das übergeordnete Unternehmen der Gruppe. Ist das übergeordnete Unternehmen ein Kreditinstitut, das ausschließlich über eine Erlaubnis verfügt, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, oder ein Finanzdienstleistungsinstitut, das ausschließlich Finanzdienstleistungen im Sinne von § 1 Absatz 1a Satz 2 Nummer 9 oder 10 erbringt, besteht nur dann eine Institutsgruppe im Sinne dieser Vorschrift, wenn ihm mindestens ein CRR-Kreditinstitut mit Sitz im Inland als Tochterunternehmen nachgeordnet ist.
 
-(2) Eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnetes Unternehmen ist das Unternehmen, das nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen hat. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden. Institute, die nach § 1a als CRR-Institute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Die Bundesanstalt hat gegenüber einem übergeordneten Unternehmen nach Satz 2 und seinen Organen alle Befugnisse, die ihr gegenüber einem Institut als übergeordnetem Unternehmen und dessen Organen zustehen.
+(2) Eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnetes Unternehmen ist das Unternehmen, das nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen hat. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden. Institute, die nach § 1a als CRR-Kreditinstitute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Die Bundesanstalt hat gegenüber einem übergeordneten Unternehmen nach Satz 2 und seinen Organen alle Befugnisse, die ihr gegenüber einem Institut als übergeordnetem Unternehmen und dessen Organen zustehen.
 
 (3) (weggefallen)
 
@@ -3191,7 +3169,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 # § 13c – Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften
 
-(1) Ein CRR-Institut, das Tochterunternehmen eines gemischten Unternehmens ist, hat der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt bedeutende gruppeninterne Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen anzuzeigen. Das Bundesministerium der Finanzen wird ermächtigt, durch eine im Benehmen mit der Deutschen Bundesbank zu erlassende Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, näher zu bestimmen:
+(1) Ein CRR-Kreditinstitut, das Tochterunternehmen eines gemischten Unternehmens ist, hat der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt bedeutende gruppeninterne Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen anzuzeigen. Das Bundesministerium der Finanzen wird ermächtigt, durch eine im Benehmen mit der Deutschen Bundesbank zu erlassende Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, näher zu bestimmen:
 
 1. die Arten der anzuzeigenden Transaktionen und Schwellenwerte, anhand derer die gruppeninternen Transaktionen als bedeutend anzusehen sind;
 
@@ -3201,15 +3179,15 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank zu erlassen ist. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
-(2) Das CRR-Institut im Sinne von Absatz 1 Satz 1 darf unbeschadet der Wirksamkeit der Rechtsgeschäfte bedeutende gruppeninterne Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter durchführen; § 13 Abs. 2 Satz 2 bis 5 gilt entsprechend.
+(2) Das CRR-Kreditinstitut im Sinne von Absatz 1 Satz 1 darf unbeschadet der Wirksamkeit der Rechtsgeschäfte bedeutende gruppeninterne Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter durchführen; § 13 Abs. 2 Satz 2 bis 5 gilt entsprechend.
 
-(3) Unbeschadet der Wirksamkeit der Rechtsgeschäfte darf das CRR-Institut im Sinne des Absatzes 1 Satz 1 ohne Zustimmung der Aufsichtsbehörde keine bedeutenden gruppeninternen Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen durchführen, die die in der Rechtsverordnung nach Absatz 1 Satz 2 festgelegten Obergrenzen überschreiten oder gegen die in der Rechtsverordnung festgelegten Beschränkungen hinsichtlich der Art bedeutender gruppeninterner Transaktionen verstoßen. Die Zustimmung nach Satz 1 steht im Ermessen der Aufsichtsbehörde. Unabhängig davon, ob die Aufsichtsbehörde die Zustimmung erteilt, hat das Institut das Überschreiten der Obergrenzen oder die Verstöße gegen die Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen ihr, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Die Aufsichtsbehörde kann
+(3) Unbeschadet der Wirksamkeit der Rechtsgeschäfte darf das CRR-Kreditinstitut im Sinne des Absatzes 1 Satz 1 ohne Zustimmung der Aufsichtsbehörde keine bedeutenden gruppeninternen Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen durchführen, die die in der Rechtsverordnung nach Absatz 1 Satz 2 festgelegten Obergrenzen überschreiten oder gegen die in der Rechtsverordnung festgelegten Beschränkungen hinsichtlich der Art bedeutender gruppeninterner Transaktionen verstoßen. Die Zustimmung nach Satz 1 steht im Ermessen der Aufsichtsbehörde. Unabhängig davon, ob die Aufsichtsbehörde die Zustimmung erteilt, hat das Institut das Überschreiten der Obergrenzen oder die Verstöße gegen die Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen ihr, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Die Aufsichtsbehörde kann
 
-1. von dem CRR-Institut im Sinne des Absatzes 1 Satz 1 bei einem Überschreiten der in der Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Obergrenzen die Unterlegung des Überschreitungsbetrags mit Eigenmitteln verlangen;
+1. von dem CRR-Kreditinstitut im Sinne des Absatzes 1 Satz 1 bei einem Überschreiten der in der Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Obergrenzen die Unterlegung des Überschreitungsbetrags mit Eigenmitteln verlangen;
 
 2. Verstöße gegen die in der Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen durch geeignete und erforderliche Maßnahmen unterbinden.
 
-(4) Zur Ermittlung, Quantifizierung, Überwachung und Steuerung bedeutender gruppeninterner Transaktionen innerhalb einer gemischten Unternehmensgruppe müssen die gruppenangehörigen CRR-Institute über ein angemessenes Risikomanagement und angemessene interne Kontrollverfahren, einschließlich eines ordnungsgemäßen Berichtswesens und ordnungsgemäßer Rechnungslegungsverfahren, verfügen; § 13 bleibt unberührt. § 10a Absatz 8, § 25a Abs. 1 Satz 2 sowie Artikel 11 Absatz 1 Satz 2 und 3 der Verordnung (EU) Nr. 575/2013 gelten entsprechend.
+(4) Zur Ermittlung, Quantifizierung, Überwachung und Steuerung bedeutender gruppeninterner Transaktionen innerhalb einer gemischten Unternehmensgruppe müssen die gruppenangehörigen CRR-Kreditinstitute über ein angemessenes Risikomanagement und angemessene interne Kontrollverfahren, einschließlich eines ordnungsgemäßen Berichtswesens und ordnungsgemäßer Rechnungslegungsverfahren, verfügen; § 13 bleibt unberührt. § 10a Absatz 8, § 25a Abs. 1 Satz 2 sowie Artikel 11 Absatz 1 Satz 2 und 3 der Verordnung (EU) Nr. 575/2013 gelten entsprechend.
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
@@ -3222,7 +3200,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 # § 14 – Millionenkredite
 
-(1) Kreditinstitute, CRR-Wertpapierfirmen, die für eigene Rechnung im Sinne des Anhangs I Nummer 3 der Richtlinie 2004/39/EG handeln, Finanzdienstleistungsinstitute im Sinne des § 1 Absatz 1a Satz 2 Nummer 4, 9 oder 10, Finanzinstitute im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 in Verbindung mit Anhang I Nummer 2 der Richtlinie 2013/36/EU, die das Factoring betreiben, und die in § 2 Absatz 2 genannten Unternehmen und Stellen (am Millionenkreditmeldeverfahren beteiligte Unternehmen) haben der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich (Beobachtungszeitraum) die Kreditnehmer (Millionenkreditnehmer) anzuzeigen, deren Kreditvolumen 1 Million Euro oder mehr beträgt (Millionenkreditmeldegrenze); Anzeigeinhalte, Anzeigefristen und nähere Bestimmungen zum Beobachtungszeitraum sind durch die Rechtsverordnung nach § 22 zu regeln. Übergeordnete Unternehmen im Sinne des § 10a haben zugleich für die gruppenangehörigen Unternehmen deren Kreditnehmer im Sinne des entsprechend anzuwendenden Satzes 1 anzuzeigen. Dies gilt nicht, soweit diese Unternehmen selbst nach Satz 1 anzeigepflichtig sind oder nach § 2 Absatz 4, 7, 8, 9a oder 9e von der Anzeigepflicht befreit oder ausgenommen sind oder der Buchwert der Beteiligung an dem gruppenangehörigen Unternehmen gemäß Artikel 36 in Verbindung mit Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils gültigen Fassung von den Eigenmitteln des übergeordneten Unternehmens abgezogen wird. Die nicht selbst nach Satz 1 anzeigepflichtigen gruppenangehörigen Unternehmen haben dem übergeordneten Unternehmen die hierfür erforderlichen Angaben zu übermitteln. Satz 1 gilt bei Gemeinschaftskrediten von 1 Million Euro und mehr auch dann, wenn der Anteil des einzelnen Unternehmens 1 Million Euro nicht erreicht.
+(1) Kreditinstitute, Finanzdienstleistungsinstitute im Sinne des § 1 Absatz 1a Satz 2 Nummer 4, 9 oder 10, Finanzinstitute im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 in Verbindung mit Anhang I Nummer 2 der Richtlinie 2013/36/EU, die das Factoring betreiben, und die in § 2 Absatz 2 genannten Unternehmen und Stellen (am Millionenkreditmeldeverfahren beteiligte Unternehmen) haben der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich (Beobachtungszeitraum) die Kreditnehmer (Millionenkreditnehmer) anzuzeigen, deren Kreditvolumen 1 Million Euro oder mehr beträgt (Millionenkreditmeldegrenze); Anzeigeinhalte, Anzeigefristen und nähere Bestimmungen zum Beobachtungszeitraum sind durch die Rechtsverordnung nach § 22 zu regeln. Übergeordnete Unternehmen im Sinne des § 10a haben zugleich für die gruppenangehörigen Unternehmen deren Kreditnehmer im Sinne des entsprechend anzuwendenden Satzes 1 anzuzeigen. Dies gilt nicht, soweit diese Unternehmen selbst nach Satz 1 anzeigepflichtig sind oder nach § 2 Absatz 4, 7, 8, 9a oder 9e von der Anzeigepflicht befreit oder ausgenommen sind oder der Buchwert der Beteiligung an dem gruppenangehörigen Unternehmen gemäß Artikel 36 in Verbindung mit Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils gültigen Fassung von den Eigenmitteln des übergeordneten Unternehmens abgezogen wird. Die nicht selbst nach Satz 1 anzeigepflichtigen gruppenangehörigen Unternehmen haben dem übergeordneten Unternehmen die hierfür erforderlichen Angaben zu übermitteln. Satz 1 gilt bei Gemeinschaftskrediten von 1 Million Euro und mehr auch dann, wenn der Anteil des einzelnen Unternehmens 1 Million Euro nicht erreicht.
 
 (2) Ergibt sich, dass einem Kreditnehmer von einem oder mehreren Unternehmen Millionenkredite gewährt worden sind, hat die Deutsche Bundesbank die anzeigenden Unternehmen zu benachrichtigen. Die Benachrichtigung umfasst Angaben über die Gesamtverschuldung des Kreditnehmers und über die Gesamtverschuldung der Kreditnehmereinheit, der dieser zugehört, über die Anzahl der beteiligten Unternehmen sowie Informationen über die prognostizierte Ausfallwahrscheinlichkeit im Sinne der Artikel 92 bis 386 der Verordnung (EU) Nr. 575/2013 für diesen Kreditnehmer, soweit ein Unternehmen selbst eine solche gemeldet hat. Die Benachrichtigung ist nach Maßgabe der Rechtsverordnung nach § 22 aufzugliedern. Die Deutsche Bundesbank teilt einem anzeigepflichtigen Unternehmen auf Antrag den Schuldenstand eines Kreditnehmers oder voraussichtlichen Kreditnehmers oder, sofern der Kreditnehmer oder der voraussichtliche Kreditnehmer einer Kreditnehmereinheit angehört, den Schuldenstand der Kreditnehmereinheit mit. Sofern es sich um einen voraussichtlichen Kreditnehmer handelt, hat das Unternehmen auf Verlangen der Deutschen Bundesbank die Höhe der beabsichtigten Kreditgewährung mitzuteilen und nachzuweisen, dass der voraussichtliche Kreditnehmer in die Mitteilung eingewilligt hat. Die am Millionenkreditmeldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank dürfen die Meldung nach Absatz 1, die Benachrichtigung nach Satz 1 sowie die Mitteilung nach Satz 4 auch im Wege der elektronischen Datenübertragung durchführen. Einzelheiten des Verfahrens regelt die Rechtsverordnung nach § 22. Soweit es für die Zwecke der Zuordnung der Meldung nach Absatz 1 zu einem bestimmten Kreditnehmer unerlässlich ist, darf die Deutsche Bundesbank personenbezogene Daten mehrerer Kreditnehmer an das anzeigepflichtige Unternehmen übermitteln. Diese Daten dürfen keine Angaben über finanzielle Verhältnisse der Kreditnehmer enthalten. Die bei einem anzeigepflichtigen Unternehmen beschäftigten Personen dürfen Angaben, die dem Unternehmen nach diesem Absatz mitgeteilt werden, Dritten nicht offenbaren und nicht verwerten. Die Deutsche Bundesbank protokolliert zum Zwecke der Datenschutzkontrolle durch die jeweils zuständige Stelle bei jeder Datenübertragung den Zeitpunkt, die übertragenen Daten und die beteiligten Stellen. Eine Verarbeitung der Protokolldaten für andere Zwecke ist unzulässig. Die Protokolldaten sind mindestens 18 Monate aufzubewahren und spätestens nach 24 Monaten zu löschen.
 
@@ -3863,7 +3841,7 @@ a) an Kommanditisten, Gesellschafter einer Gesellschaft mit beschränkter Haftun
 
 b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Buchstabe a handelt, nach Artikel 26 Absatz 1 Buchstabe a und Artikel 51 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung gewährt haben, das mehr als 25 Prozent des Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung ohne Berücksichtigung des Kapitals nach Artikel 26 Absatz 1 Buchstabe a und Artikel 51 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung beträgt, wenn der Kredit zu nicht marktmäßigen Bedingungen gewährt oder nicht banküblich besichert worden ist;
 
-18. soweit es sich um ein CRR-Institut handelt, auf Verlangen die gemäß Artikel 435 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 575/2013 offenzulegenden Informationen.
+18. soweit es sich um ein CRR-Kreditinstitut handelt, auf Verlangen die gemäß Artikel 435 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 575/2013 offenzulegenden Informationen.
 
 (1a) Ein Institut hat der Aufsichtsbehörde und der Deutschen Bundesbank jährlich anzuzeigen:
 
@@ -3875,9 +3853,9 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Buchstabe a ha
 
 4. die Anzahl seiner inländischen Zweigstellen,
 
-5. soweit es sich um ein CRR-Institut handelt, das ein bedeutendes Institut im Sinne des § 1 Absatz 3c ist oder das von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurde, die Informationen, die für einen Vergleich der Vergütungstrends und -praktiken im Sinne des Artikels 75 Absatz 1 und 2 der Richtlinie 2013/36/EU erforderlich sind; der Vergleich umfasst auch die Vergütungstrends und -praktiken in Bezug auf die Mitglieder des Verwaltungs- und Aufsichtsorgans sowie die von den Instituten übermittelten Informationen zum geschlechtsspezifischen Lohngefälle;
+5. soweit es sich um ein CRR-Kreditinstitut handelt, das ein bedeutendes Institut im Sinne des § 1 Absatz 3c ist oder das von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurde, die Informationen, die für einen Vergleich der Vergütungstrends und -praktiken im Sinne des Artikels 75 Absatz 1 und 2 der Richtlinie 2013/36/EU erforderlich sind; der Vergleich umfasst auch die Vergütungstrends und -praktiken in Bezug auf die Mitglieder des Verwaltungs- und Aufsichtsorgans sowie die von den Instituten übermittelten Informationen zum geschlechtsspezifischen Lohngefälle;
 
-6. soweit es sich um ein CRR-Institut handelt, die Informationen über Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung von jährlich mindestens 1 Million Euro im Sinne des Artikels 75 Absatz 3 der Richtlinie 2013/36/EU, die für eine aggregierte Veröffentlichung durch die Europäische Bankenaufsichtsbehörde erforderlich sind.
+6. soweit es sich um ein CRR-Kreditinstitut handelt, die Informationen über Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans und Mitarbeiter mit jeweils einer Gesamtvergütung von jährlich mindestens 1 Million Euro im Sinne des Artikels 75 Absatz 3 der Richtlinie 2013/36/EU, die für eine aggregierte Veröffentlichung durch die Europäische Bankenaufsichtsbehörde erforderlich sind.
 
 (1b) Bei der Anzeige eines Kredits nach Absatz 1 Nummer 17 hat das Institut die gestellten Sicherheiten und die Kreditbedingungen anzugeben. Es hat einen Kredit, den es nach Absatz 1 Nummer 17 angezeigt hat, unverzüglich erneut der Aufsichtsbehörde und der Deutschen Bundesbank anzuzeigen, wenn die gestellten Sicherheiten oder die Kreditbedingungen rechtsgeschäftlich geändert werden, und die entsprechenden Änderungen anzugeben. Die Aufsichtsbehörde kann von den Instituten fordern, ihr und der Deutschen Bundesbank alle fünf Jahre eine Sammelanzeige der nach Absatz 1 Nummer 17 anzuzeigenden Kredite einzureichen.
 
@@ -3885,7 +3863,7 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Buchstabe a ha
 
 (2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.
 
-(2a) Ein Mitglied eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das bedeutend im Sinne des § 1 Absatz 3c ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens unverzüglich anzuzeigen.
+(2a) Ein Mitglied eines Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens unverzüglich anzuzeigen.
 
 (3) Ein Geschäftsleiter eines Instituts und die Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, haben der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen
 
@@ -3950,7 +3928,7 @@ Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bund
 
 # § 24a – Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
 
-(1) Ein CRR-Kreditinstitut oder Wertpapierhandelsunternehmen, das die Absicht hat, in einem anderen Staat des Europäischen Wirtschaftsraums
+(1) Ein CRR-Kreditinstitut, das die Absicht hat, in einem anderen Staat des Europäischen Wirtschaftsraums
 
 1. eine Zweigniederlassung zu errichten oder
 
@@ -3986,7 +3964,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (3c) Auf ein Finanzdienstleistungsinstitut, das Factoring im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 oder Finanzierungsleasing im Sinne des § 1 Absatz 1a Satz 2 Nummer 10 betreibt und die Absicht hat, für diese Tätigkeit eine Zweigniederlassung in einem anderen Staat des Europäischen Wirtschaftsraums zu errichten oder diese Tätigkeit im Wege des grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums zu betreiben, sind die Absätze 1 bis 3 entsprechend anzuwenden, sofern die Voraussetzungen des § 53b Absatz 7 Satz 1 Nummer 1 bis 7 erfüllt sind. Absatz 2 Satz 2 gilt mit der Maßgabe, dass die zuständige Stelle des Aufnahmemitgliedstaats über die Höhe und die Zusammensetzung der Eigenmittel des Finanzdienstleistungsinstituts und die nach Artikel 92 Absatz 3 und 4 der Verordnung (EU) Nr. 575/2013 errechneten Gesamtrisikobeträge von dessen Mutterkreditinstitut zu unterrichten ist.
 
-(4) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2 oder Absatz 3 Satz 2 angezeigt wurden, hat das Institut der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates diese Änderungen mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen, damit die Aufsichtsbehörde eine Entscheidung nach Absatz 2 und die zuständigen Stellen des Aufnahmemitgliedstaates eine Entscheidung über eventuell erforderliche Bedingungen treffen können. Die Aufsichtsbehörde teilt den zuständigen Stellen des Aufnahmemitgliedstaates die Änderungen nach Satz 1 mit, sofern sie Wertpapierhandelsunternehmen betreffen. Die Anzeigepflicht nach Satz 1 gilt entsprechend für ein Institut, das seine Zweigniederlassung bereits vor dem Zeitpunkt, von dem an es unter die Anzeigepflicht nach Absatz 1 fällt, in einem anderen Staat des Europäischen Wirtschaftsraums errichtet hat. Änderungen der Verhältnisse der Einlagensicherungseinrichtung oder der Anlegerentschädigungseinrichtung oder des gleichwertigen Schutzes im Sinne des § 23a Absatz 1 Satz 1 hat das Institut, das eine Zweigniederlassung gemäß Absatz 1 errichtet hat, der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen. Die Aufsichtsbehörde teilt den zuständigen Stellen des Aufnahmemitgliedstaates die Änderungen nach Satz 4 mit.
+(4) Ändern sich die Verhältnisse, die nach Absatz 1 Satz 2 oder Absatz 3 Satz 2 angezeigt wurden, hat das Institut der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates diese Änderungen mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen, damit die Aufsichtsbehörde eine Entscheidung nach Absatz 2 und die zuständigen Stellen des Aufnahmemitgliedstaates eine Entscheidung über eventuell erforderliche Bedingungen treffen können. Die Anzeigepflicht nach Satz 1 gilt entsprechend für ein Institut, das seine Zweigniederlassung bereits vor dem Zeitpunkt, von dem an es unter die Anzeigepflicht nach Absatz 1 fällt, in einem anderen Staat des Europäischen Wirtschaftsraums errichtet hat. Änderungen der Verhältnisse der Einlagensicherungseinrichtung oder der Anlegerentschädigungseinrichtung oder des gleichwertigen Schutzes im Sinne des § 23a Absatz 1 Satz 1 hat das Institut, das eine Zweigniederlassung gemäß Absatz 1 errichtet hat, der Aufsichtsbehörde, der Deutschen Bundesbank und, sofern es sich um ein CRR-Kreditinstitut handelt, auch den zuständigen Stellen des Aufnahmemitgliedstaates mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen. Die Aufsichtsbehörde teilt den zuständigen Stellen des Aufnahmemitgliedstaates die Änderungen nach Satz 4 mit.
 
 (4a) Soweit die Europäische Zentralbank Aufsichtsbehörde ist, sind die Anzeigen nach den Absätzen 1, 3 und 4 auch gegenüber der Bundesanstalt abzugeben. Soweit es sich bei dem Staat, in welchem die Zweigniederlassung errichtet oder die grenzüberschreitende Dienstleistung erbracht werden soll, um einen Mitgliedstaat der Europäischen Union handelt, sind die Anzeigen nur gegenüber der Bundesanstalt und der Deutschen Bundesbank abzugeben.
 
@@ -4003,7 +3981,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (2) Das Institut hat demjenigen, der ein berechtigtes Interesse nachweisen kann, Auskunft über die Systeme im Sinne von Absatz 1, an denen es beteiligt ist, sowie über die wesentlichen Regeln für deren Funktionieren zu erteilen.
 
-(3) Ein Institut, das ein System nach § 1 Absatz 16 betreibt, hat unbeschadet der Titel III, IV und V der Verordnung (EU) Nr. 648/2012 CRR-Instituten mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums gleichberechtigend den Zugang zu dem System nach denselben transparenten und objektiven Kriterien zu gewähren, die für inländische Teilnehmer an diesem System gelten. Davon unberührt bleibt das Recht des Instituts, den Zugang aus berechtigten gewerblichen Gründen zu verweigern.
+(3) Ein Institut, das ein System nach § 1 Absatz 16 betreibt, hat unbeschadet der Titel III, IV und V der Verordnung (EU) Nr. 648/2012 CRR-Kreditinstituten mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums gleichberechtigend den Zugang zu dem System nach denselben transparenten und objektiven Kriterien zu gewähren, die für inländische Teilnehmer an diesem System gelten. Davon unberührt bleibt das Recht des Instituts, den Zugang aus berechtigten gewerblichen Gründen zu verweigern.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung die Einzelheiten der Anzeigepflicht und der Unterrichtung der Europäischen Wertpapier- und Marktaufsichtsbehörde nach Absatz 1, des Auskunftsanspruchs nach Absatz 2 sowie der Zugangsgewährung nach Absatz 3 zu bestimmen.
 
@@ -4122,7 +4100,7 @@ Die Ausgestaltung des Risikomanagements hängt von Art, Umfang, Komplexität und
 
 (5a) Auf Risikoträger und Risikoträgerinnen bedeutender Institute, deren jährliche fixe Vergütung das Dreifache der Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung im Sinne des § 159 des Sechsten Buches Sozialgesetzbuch überschreitet und die keine Geschäftsführer, Betriebsleiter und ähnliche leitende Angestellte sind, die zur selbständigen Einstellung oder Entlassung von Arbeitnehmern berechtigt sind, findet § 9 Absatz 1 Satz 2 des Kündigungsschutzgesetzes mit der Maßgabe Anwendung, dass der Antrag des Arbeitgebers auf Auflösung des Arbeitsverhältnisses keiner Begründung bedarf. § 14 Absatz 1 des Kündigungsschutzgesetzes bleibt unberührt.
 
-(5b) In einem CRR-Institut sowie in einem Institut, das kein CRR-Institut, aber bedeutend gemäß § 1 Absatz 3c ist, gelten die folgenden Personengruppen zwingend als Risikoträger:
+(5b) In einem CRR-Kreditinstitut sowie in einem Institut, das kein CRR-Kreditinstitut, aber bedeutend gemäß § 1 Absatz 3c ist, gelten die folgenden Personengruppen zwingend als Risikoträger:
 
 1. Mitarbeiter der unmittelbar der Geschäftsleitung nachgelagerten Führungsebene;
 
@@ -4340,7 +4318,7 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 
 (2) Das Verwaltungs- oder Aufsichtsorgan muss in seiner Gesamtheit die Kenntnisse, Fähigkeiten und Erfahrungen haben, die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäftsleitung des Instituts oder der Institutsgruppe oder Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft notwendig sind. Die Vorschriften der Mitbestimmungsgesetze über die Wahl und Abberufung der Arbeitnehmervertreter im Verwaltungs- oder Aufsichtsorgan bleiben unberührt.
 
-(3) Mitglied des Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts, das bedeutend im Sinne des § 1 Absatz 3c ist, kann nicht sein,
+(3) Mitglied des Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, kann nicht sein,
 
 1. wer in demselben Unternehmen Geschäftsleiter ist; im Fall einer Europäischen Gesellschaft (SE) mit monistischem System gilt dies mit der Maßgabe, dass ein geschäftsführender Direktor nicht zugleich Vorsitzender oder geschäftsführendes Mitglied des Verwaltungsrates sein kann;
 
@@ -4350,7 +4328,7 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 
 4. wer in mehr als vier Unternehmen Mitglied des Verwaltungs- oder Aufsichtsorgans ist.
 
-Satz 1 gilt jeweils auch für Mitglieder der Verwaltungs- oder Aufsichtsorgane einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, wenn diese übergeordnetes Unternehmen gemäß § 10a Absatz 2 Satz 2 sind oder nach § 12 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes als übergeordnetes Unternehmen bestimmt worden ist und ihr ein CRR-Institut nachgeordnet ist. Dabei gelten im Sinne von Satz 1 Nummer 3 und 4 mehrere Mandate als ein Mandat, wenn die Mandate bei Unternehmen wahrgenommen werden,
+Satz 1 gilt jeweils auch für Mitglieder der Verwaltungs- oder Aufsichtsorgane einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, wenn diese übergeordnetes Unternehmen gemäß § 10a Absatz 2 Satz 2 sind oder nach § 12 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes als übergeordnetes Unternehmen bestimmt worden ist und ihr ein CRR-Kreditinstitut nachgeordnet ist. Dabei gelten im Sinne von Satz 1 Nummer 3 und 4 mehrere Mandate als ein Mandat, wenn die Mandate bei Unternehmen wahrgenommen werden,
 
 1. die derselben Gruppe im Sinne des Artikels 4 Absatz 1 Nummer 138 der Verordnung (EU) Nr. 575/2013 angehören,
 
@@ -4360,7 +4338,7 @@ Satz 1 gilt jeweils auch für Mitglieder der Verwaltungs- oder Aufsichtsorgane e
 
 Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich darunter sowohl Mandate als Geschäftsleiter als auch Mandate als Mitglied des Verwaltungs- oder Aufsichtsorgans befinden. Sie zählen in diesem Fall zusammen als ein Geschäftsleitermandat. Mandate bei Organisationen und Unternehmen, die nicht überwiegend gewerbliche Ziele verfolgen, insbesondere Unternehmen, die der kommunalen Daseinsvorsorge dienen, werden bei den nach Satz 1 Nummer 3 und 4 höchstens zulässigen Mandaten nicht berücksichtigt. Die Aufsichtsbehörde kann einem Mitglied des Verwaltungs- oder Aufsichtsorgans unter Berücksichtigung der Umstände im Einzelfall und der Art, des Umfangs und der Komplexität der Tätigkeiten des Instituts, der Institutsgruppe oder Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft über die Anzahl der nach Satz 1 Nummern 3 und 4 höchstens zulässigen Mandate hinaus gestatten, ein zusätzliches Mandat in einem Verwaltungs- oder Aufsichtsorgan innezuhaben, wenn dies das Mitglied nicht daran hindert, der Wahrnehmung seiner Aufgaben in dem betreffenden Unternehmen ausreichend Zeit zu widmen. Das zusätzliche Mandat darf erst nach Erteilung der Gestattung durch die Aufsichtsbehörde angenommen werden. Mandate als Vertreter des Bundes oder der Länder werden bei den nach Satz 1 Nummer 3 und 4 höchstens zulässigen Mandaten nicht berücksichtigt. Satz 1 Nummer 4 gilt nicht für kommunale Hauptverwaltungsbeamte, die kraft kommunaler Satzung zur Wahrnehmung eines Mandats in einem kommunalen Unternehmen oder einem kommunalen Zweckverband verpflichtet sind.
 
-(3a) Mitglied des Verwaltungs- oder Aufsichtsorgans eines Instituts, das kein CRR-Institut ist, das bedeutend im Sinne des § 1 Absatz 3c ist, oder einer Finanzholding-Gesellschaft kann nicht sein,
+(3a) Mitglied des Verwaltungs- oder Aufsichtsorgans eines Instituts, das kein CRR-Kreditinstitut ist, das bedeutend im Sinne des § 1 Absatz 3c ist, oder einer Finanzholding-Gesellschaft kann nicht sein,
 
 1. wer in demselben Unternehmen Geschäftsleiter ist; im Fall einer Europäischen Gesellschaft (SE) mit monistischem System gilt dies mit der Maßgabe, dass ein geschäftsführender Direktor nicht zugleich Vorsitzender oder geschäftsführendes Mitglied des Verwaltungsrates sein kann,
 
@@ -4427,7 +4405,7 @@ Mindestens ein Mitglied des Vergütungskontrollausschusses muss über ausreichen
 
 # § 25e – Anforderungen bei vertraglich gebundenen Vermittlern
 
-Bedient sich ein CRR-Kreditinstitut oder ein Wertpapierhandelsunternehmen eines vertraglich gebundenen Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen, dass dieser zuverlässig und fachlich geeignet ist, bei der Erbringung der Finanzdienstleistungen die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 2 Absatz 10 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 muss das CRR-Kreditinstitut oder das Wertpapierhandelsunternehmen mindestens bis zum Ablauf von fünf Jahren nach dem Ende des Status des vertraglich gebundenen Vermittlers aufbewahren. Nähere Bestimmungen zu den erforderlichen Nachweisen können durch Rechtsverordnung nach § 24 Absatz 4 getroffen werden.
+Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen, dass dieser zuverlässig und fachlich geeignet ist, bei der Erbringung der Finanzdienstleistungen die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 2 Absatz 10 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 muss das CRR-Kreditinstitut mindestens bis zum Ablauf von fünf Jahren nach dem Ende des Status des vertraglich gebundenen Vermittlers aufbewahren. Nähere Bestimmungen zu den erforderlichen Nachweisen können durch Rechtsverordnung nach § 24 Absatz 4 getroffen werden.
 
 (+++ §§ 25a bis 25e: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1, Abs. 9a Satz 1, Abs. 9e +++)  
 (+++ §§ 25c bis 25e: Zur Anwendung vgl. § 3 Nr. 9 KfWV +++)
@@ -4580,7 +4558,7 @@ Verboten sind:
 
 # § 26a – Offenlegung durch die Institute
 
-(1) Zusätzlich zu den Angaben, die nach den Artikeln 435 bis 455 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung zu machen sind, sind die rechtliche und die organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe darzustellen. Die CRR-Institute haben darüber hinaus auf konsolidierter Basis, aufgeschlüsselt nach Mitgliedstaaten der Europäischen Union und Drittstaaten, in denen die Institute über Niederlassungen verfügen, folgende Angaben in eine Anlage zum Jahresabschluss im Sinne des § 26 Absatz 1 Satz 2 aufzunehmen, von einem Abschlussprüfer nach Maßgabe des § 340k des Handelsgesetzbuchs prüfen zu lassen und offenzulegen:
+(1) Zusätzlich zu den Angaben, die nach den Artikeln 435 bis 455 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung zu machen sind, sind die rechtliche und die organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe darzustellen. Die CRR-Kreditinstitute haben darüber hinaus auf konsolidierter Basis, aufgeschlüsselt nach Mitgliedstaaten der Europäischen Union und Drittstaaten, in denen die Institute über Niederlassungen verfügen, folgende Angaben in eine Anlage zum Jahresabschluss im Sinne des § 26 Absatz 1 Satz 2 aufzunehmen, von einem Abschlussprüfer nach Maßgabe des § 340k des Handelsgesetzbuchs prüfen zu lassen und offenzulegen:
 
 1. die Firmenbezeichnungen, die Art der Tätigkeiten und die geografische Lage der Niederlassungen,
 
@@ -4594,7 +4572,7 @@ Verboten sind:
 
 6. erhaltene öffentliche Beihilfen.
 
-Ist das CRR-Institut in den Konzernabschluss eines anderen Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen, das den Anforderungen der Richtlinie 2013/36/EU unterworfen ist, braucht es die Angaben nach Satz 2 nicht zu machen. In ihrem Jahresbericht legen die CRR-Institute ihre Kapitalrendite, berechnet als Quotient aus Nettogewinn und Bilanzsumme offen. Global systemrelevante Institute, die im Inland zugelassen sind, sind verpflichtet, der Europäischen Kommission die in Satz 2 Nummer 4 bis 6 genannten Angaben bis zum 1. Juli 2014 auf vertraulicher Basis zu übermitteln. Das Nähere zu den Anforderungen in Satz 2 bis 5 regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 10.
+Ist das CRR-Kreditinstitut in den Konzernabschluss eines anderen Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen, das den Anforderungen der Richtlinie 2013/36/EU unterworfen ist, braucht es die Angaben nach Satz 2 nicht zu machen. In ihrem Jahresbericht legen die CRR-Kreditinstitute ihre Kapitalrendite, berechnet als Quotient aus Nettogewinn und Bilanzsumme offen. Global systemrelevante Institute, die im Inland zugelassen sind, sind verpflichtet, der Europäischen Kommission die in Satz 2 Nummer 4 bis 6 genannten Angaben bis zum 1. Juli 2014 auf vertraulicher Basis zu übermitteln. Das Nähere zu den Anforderungen in Satz 2 bis 5 regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 10.
 
 (2) Kommt ein Institut seinen Offenlegungspflichten in anderen als den in Artikel 432 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Fällen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nach, kann die Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Offenlegung der Informationen zu veranlassen. Die Bundesanstalt kann von den Artikeln 433 bis 434 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung abweichende Zeitpunkte und Orte für die Veröffentlichung festlegen oder die Offenlegung zusätzlicher Informationen verlangen.
 
@@ -4716,7 +4694,13 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 # § 32 – Erlaubnis
 
-(1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen will, bedarf der schriftlichen Erlaubnis der Aufsichtsbehörde; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden. Der Erlaubnisantrag muß enthalten
+(1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen will, bedarf der schriftlichen Erlaubnis der Aufsichtsbehörde; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden. Soweit diese Geschäfte durch eine Erlaubnis nach § 15 des Wertpapierinstitutsgesetzes gedeckt sind, tritt dahinter der Erlaubnisvorbehalt nach Satz 1 zurück und gilt das Unternehmen nicht als Institut im Sinne dieses Gesetzes bis zu dem Tag, an dem
+
+1. der über einen Zeitraum von zwölf aufeinander folgenden Monaten berechnete Monatsdurchschnitt der gesamten Vermögenswerte des Unternehmens 30 Milliarden Euro überschreitet und es das Emissionsgeschäft, den Eigenhandel oder das Eigengeschäft betreibt oder
+
+2. der über einen Zeitraum von zwölf aufeinander folgenden Monaten berechnete Monatsdurchschnitt der gesamten konsolidierten Vermögenswerte aller Unternehmen der Gruppe, die das Emissionsgeschäft, den Eigenhandel oder das Eigengeschäft betreiben, 30 Milliarden Euro überschreitet.
+
+Gegebenenfalls ist der Antrag auf Erteilung einer Erlaubnis nach Satz 1 unverzüglich nachzuholen. War das Unternehmen zu dem Zeitpunkt, da es oder die Gruppe die in Satz 2 bestimmte Grenze überschreitet, nach § 15 des Wertpapierinstitutsgesetzes erlaubt tätig, darf es im Rahmen dieser Erlaubnis sein Wertpapiergeschäft fortsetzen, bis die Aufsichtsbehörde über den Erlaubnisantrag bestandskräftig entschieden hat. Der Erlaubnisantrag muß enthalten
 
 1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel;
 
@@ -4754,7 +4738,7 @@ e) sofern diese Inhaber einem Konzern angehören: die Angabe der Konzernstruktur
 
 8. die Angabe der Mitglieder des Verwaltungs- oder Aufsichtsorgans nebst der zur Beurteilung ihrer Zuverlässigkeit und Sachkunde erforderlichen Tatsachen sowie Angaben, die für die Beurteilung erforderlich sind, ob sie der Wahrnehmung ihrer Aufgabe ausreichende Zeit widmen können.
 
-Die nach Satz 2 einzureichenden Anzeigen und vorzulegenden Unterlagen sind durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen. Die Pflichten nach Satz 2 Nr. 6 Buchstabe d und e bestehen nicht für Finanzdienstleistungsinstitute.
+Die nach Satz 2 einzureichenden Anzeigen und vorzulegenden Unterlagen sind durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen. Die Pflichten nach Satz 2 Nr. 6 Buchstabe d und e bestehen nicht für Finanzdienstleistungsinstitute. Die Aufsichtsbehörde berücksichtigt im Rahmen des Erlaubniserteilungsverfahrens in angemessener Weise die aufgrund der bestehenden Erlaubnis nach dem Wertpapierinstitutsgesetz bereits vorliegenden Angaben.
 
 (1a) Wer neben einer Erlaubnis nach Absatz 1 und neben dem Betreiben von Bankgeschäften oder der Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 5 und 11 auch Eigengeschäft betreiben will, bedarf auch hierfür der schriftlichen Erlaubnis der Bundesanstalt. Dies gilt unabhängig von dem Bestehen einer Erlaubnis nach Absatz 1 und von einem Betreiben von Bankgeschäften oder dem Erbringen von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 5 und 11 auch dann, wenn das Unternehmen das Eigengeschäft als Mitglied oder Teilnehmer eines organisierten Marktes oder eines multilateralen Handelssystems oder mit einem direkten elektronischen Zugang zu einem Handelsplatz oder mit Warenderivaten, Emissionszertifikaten oder Derivaten auf Emissionszertifikate betreibt. Einer schriftlichen Erlaubnis der Bundesanstalt bedarf es in den Fällen des Satzes 2 nicht, wenn
 
@@ -4772,9 +4756,11 @@ um objektiv messbar die Risiken aus der Geschäftstätigkeit oder dem Liquiditä
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttätigkeit Bankgeschäfte betreibt oder Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 erbringt,
 
-b) das Eigengeschäft des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist und
+b) das Eigengeschäft des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist,
 
-c) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt. Für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden oder
+c) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt. Für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+
+d) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt,
 
 4. das Eigengeschäft als Mitglied einer Börse oder Teilnehmer eines Handelsplatzes von einem in einem Drittstaat ansässigen Unternehmen betrieben wird; dies gilt bis zu einer Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014.
 
@@ -4806,6 +4792,8 @@ Das Nähere zu Inhalt und Form des Erlaubnisantrages regeln die technischen Regu
 
 (2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Sie kann die Erlaubnis auf einzelne Bankgeschäfte oder Finanzdienstleistungen beschränken.
 
+(2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder Kryptowerte im Sinne des § 1 Absatz 11 Nummer 10 beziehen.
+
 (3) Vor Erteilung der Erlaubnis hat die Bundesanstalt die für das Institut in Betracht kommende Sicherungseinrichtung zu hören.
 
 (3a) Mit der Erteilung der Erlaubnis ist dem Institut, sofern es nach den Vorschriften des Zweiten Abschnittes des Einlagensicherungsgesetzes oder nach § 8 Absatz 1 des Anlegerentschädigungsgesetzes beitragspflichtig ist, die Entschädigungseinrichtung mitzuteilen, der das Institut zugeordnet ist. Bezieht sich die Tätigkeit eines Wertpapierdienstleistungsunternehmens im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes auf strukturierte Einlagen im Sinne des Wertpapierhandelsgesetzes und wird die strukturierte Einlage von einem Kreditinstitut ausgegeben, das Mitglied eines Einlagensicherungssystems im Sinne des Einlagensicherungsgesetzes ist, so deckt das Einlagensicherungssystem des Kreditinstituts auch die von dem Kreditinstitut ausgegebenen strukturierten Einlagen ab.
@@ -4828,23 +4816,15 @@ Das Nähere zu Inhalt und Form des Erlaubnisantrages regeln die technischen Regu
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
-1. die zum Geschäftsbetrieb erforderlichen Mittel, insbesondere ein ausreichendes Anfangskapital bestehend aus Bestandteilen des harten Kernkapitals gemäß Artikel 26 Absatz 1 Buchstabe a bis e der Verordnung (EU) Nr. 575/2013 im Inland nicht zur Verfügung stehen; als Anfangskapital muß zur Verfügung stehen
+1. die zum Geschäftsbetrieb erforderlichen Mittel, insbesondere ein ausreichendes Anfangskapital bestehend aus Bestandteilen des harten Kernkapitals gemäß Artikel 26 Absatz 1 Buchstabe a bis e der Verordnung (EU) Nr. 575/2013 im Inland nicht zur Verfügung stehen; als Anfangskapital muss zur Verfügung stehen:
 
-a) bei Anlageberatern, Anlagevermittlern, Abschlußvermittlern, Anlageverwaltern und Finanzportfolioverwaltern, Betreibern multilateraler oder organisierter Handelssysteme oder Unternehmen, die das Platzierungsgeschäft betreiben, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag im Gegenwert von mindestens 50 000 Euro,
+a) bei Anlageverwaltern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag von mindestens 75 000 Euro,
 
-b) bei anderen Finanzdienstleistungsinstituten, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag im Gegenwert von mindestens 125 000 Euro,
+b) bei anderen Finanzdienstleistungsinstituten, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag im Gegenwert von mindestens 150 000 Euro,
 
-c) bei Finanzdienstleistungsinstituten, die auf eigene Rechnung mit Finanzinstrumenten handeln, bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 1 Nummer 12 erbringen, sowie bei Wertpapierhandelsbanken ein Betrag im Gegenwert von mindestens 730 000 Euro,
+c) bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 erbringen, ein Betrag von mindestens 750 000 Euro und
 
-d) bei CRR-Kreditinstituten ein Betrag im Gegenwert von mindestens fünf Millionen Euro,
-
-e) (weggefallen)
-
-f) bei Anlageberatern, Anlagevermittlern und Abschlussvermittlern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag von 25 000 Euro, wenn sie zusätzlich als Versicherungsvermittler nach der Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittler (ABl. EU Nr. L 9 S. 3) in ein Register eingetragen sind und die Anforderungen des Artikels 4 Abs. 3 der Richtlinie 2002/92/EG erfüllen,
-
-g) bei Unternehmen, die Eigengeschäfte auch an ausländischen Derivatemärkten und an Kassamärkten nur zur Absicherung dieser Positionen betreiben, das Finanzkommissionsgeschäft oder die Anlagevermittlung nur für andere Mitglieder dieser Märkte erbringen oder im Wege des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a als Market Maker im Sinne des § 36 Absatz 5 des Wertpapierhandelsgesetzes Preise für andere Mitglieder dieser Märkte stellen, ein Betrag von 25 000 Euro, sofern für die Erfüllung der Verträge, die diese Unternehmen an diesen Märkten oder in diesen Handelssystemen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften, und
-
-h) bei einem Unternehmen im Sinne des Absatzes 1 Nummer 4 des Artikels 4 der Verordnung (EU) 575/2013 („lokale Firma“), abweichend von Buchstabe c ein Betrag im Gegenwert von mindestens 50 000 Euro.
+d) bei CRR-Kreditinstituten ein Betrag im Gegenwert von mindestens 5 Millionen Euro.
 
 2. Tatsachen vorliegen, aus denen sich ergibt, daß ein Antragsteller oder eine der in § 1 Abs. 2 Satz 1 bezeichneten Personen nicht zuverlässig ist;
 
@@ -4866,7 +4846,7 @@ h) bei einem Unternehmen im Sinne des Absatzes 1 Nummer 4 des Artikels 4 der Ver
 
 8. der Antragsteller Tochterunternehmen eines ausländischen Kreditinstituts ist und die für dieses Kreditinstitut zuständige ausländische Aufsichtsbehörde der Gründung des Tochterunternehmens nicht zugestimmt hat.
 
-Einem Anlageberater oder Anlagevermittler, der nicht befugt ist, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und der nicht auf eigene Rechnung mit Finanzinstrumenten handelt, ist die Erlaubnis nach Satz 1 Buchstabe a nicht zu versagen, wenn er anstelle des Anfangskapitals den Abschluß einer geeigneten Versicherung zum Schutz der Kunden die eine Versicherungssumme von mindestens 1 000 000 Euro für jeden Versicherungsfall und eine Versicherungssumme von mindestens 1 500 000 Euro für alle Versicherungsfälle eines Versicherungsjahres vorsieht, nachweist. Satz 2 gilt für Anlageberater und Anlagevermittler, die zusätzlich als Versicherungsvermittler nach der Richtlinie 2002/92/EG in ein Register eingetragen sind und die Anforderungen des Artikels 4 Abs. 3 der Richtlinie 2002/92/EG erfüllen, mit der Maßgabe entsprechend, dass eine Versicherungssumme von mindestens 500 000 Euro für jeden Versicherungsfall und eine Versicherungssumme von mindestens 750 000 Euro vorgesehen ist. Einem Anlageberater oder Anlagevermittler nach den Sätzen 2 und 3 ist die Erlaubnis auch dann nicht zu versagen, wenn sie eine Kombination aus Anfangskapital und geeigneter Versicherung zum Schutz der Kunden nachweisen, sofern diese Kombination ein Deckungsniveau aufweist, das entweder dem Anfangskapital oder der in Satz 2 oder 3 genannten Versicherung gleichwertig ist. Bei Anlageberatern, Anlagevermittlern, Abschlussvermittlern, Anlageverwaltern oder Finanzportfolioverwaltern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, gilt die Anlage von Eigenmitteln durch das Halten von Positionen in Finanzinstrumenten im Anlagebuch für die Zwecke der Solvenzaufsicht nicht als Handel für eigene Rechnung.
+Bei Anlageberatern, Anlagevermittlern, Abschlussvermittlern, Anlageverwaltern oder Finanzportfolioverwaltern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, gilt die Anlage von Eigenmitteln durch das Halten von Positionen in Finanzinstrumenten im Anlagebuch für die Zwecke der Solvenzaufsicht nicht als Handel für eigene Rechnung.
 
 (1a) Die Erlaubnis für die Erbringung von Datenbereitstellungsdienstleistungen ist zu versagen, wenn
 
@@ -4924,9 +4904,9 @@ Die Aufsichtsbehörde hat die Entscheidung über einen Antrag auf Erlaubnis von 
 
 Soll eine Erlaubnis für das Betreiben von Bankgeschäften nach § 1 Abs. 1 Satz 2 Nr. 1, 2, 4 oder 10 oder für das Erbringen von Finanzdienstleistungen nach § 1 Abs. 1a Satz 2 Nr. 1 bis 4 einem Unternehmen erteilt werden, das
 
-1. Tochter- oder Schwesterunternehmen eines CRR-Instituts, eines Wertpapierhandelsunternehmens, eines Börsenbetreibers oder eines Erstversicherungsunternehmens ist und dessen Mutterunternehmen in einem anderen Staat des Europäischen Wirtschaftsraums zugelassen ist oder
+1. Tochter- oder Schwesterunternehmen eines CRR-Kreditinstituts, eines Börsenbetreibers oder eines Erstversicherungsunternehmens ist und dessen Mutterunternehmen in einem anderen Staat des Europäischen Wirtschaftsraums zugelassen ist oder
 
-2. durch dieselben natürlichen Personen oder Unternehmen kontrolliert wird, die ein CRR-Institut, ein Wertpapierhandelsunternehmen, ein Börsenbetreiber oder ein Erstversicherungsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums kontrollieren,
+2. durch dieselben natürlichen Personen oder Unternehmen kontrolliert wird, die ein CRR-Kreditinstitut, ein Börsenbetreiber oder ein Erstversicherungsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums kontrollieren,
 
 hat die Aufsichtsbehörde vor Erteilung der Erlaubnis die zuständigen Stellen des Herkunftsmitgliedstaates anzuhören. Die Anhörung erstreckt sich insbesondere auf die Angaben, die für die Beurteilung der Zuverlässigkeit und fachlichen Eignung der in § 1 Abs. 2 Satz 1 genannten Personen sowie für die Beurteilung der Zuverlässigkeit der Inhaber einer bedeutenden Beteiligung an Unternehmen derselben Gruppe mit Sitz in dem betreffenden Staat des Europäischen Wirtschaftsraums erforderlich sind.
 
@@ -4946,7 +4926,7 @@ hat die Aufsichtsbehörde vor Erteilung der Erlaubnis die zuständigen Stellen d
 
 # § 35 – Erlöschen und Aufhebung der Erlaubnis
 
-(1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt auch, wenn das CRR-Kreditinstitut nach § 41 des Einlagensicherungsgesetzes von der gesetzlichen Entschädigungseinrichtung oder nach § 11 des Anlegerentschädigungsgesetzes von der Entschädigungseinrichtung ausgeschlossen worden ist oder die Bundesanstalt nach § 47 Absatz 3 Satz 1 des Einlagensicherungsgesetzes festgestellt hat, dass die Zugehörigkeit des Instituts zu einem Einlagensicherungssystem nicht gegeben ist. Satz 2 gilt nicht, soweit die Europäische Zentralbank Aufsichtsbehörde ist. In diesem Fall legt die Bundesanstalt der Europäischen Zentralbank einen Beschlussentwurf nach Artikel 14 Absatz 5 der Verordnung (EU) Nr. 1024/2013 vor. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Satz 2 Nummer 12 erlischt auch dann, wenn die Zulassung der zentralen Gegenpartei nach Artikel 14 der Verordnung (EU) Nr. 648/2012 zur Erbringung von Clearingdienstleistungen durch die Bundesanstalt abgelehnt wurde und die Ablehnung bestandskräftig ist.
+(1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt auch, wenn das CRR-Kreditinstitut nach § 41 des Einlagensicherungsgesetzes von der gesetzlichen Entschädigungseinrichtung oder nach § 11 des Anlegerentschädigungsgesetzes von der Entschädigungseinrichtung ausgeschlossen worden ist oder die Bundesanstalt nach § 47 Absatz 3 Satz 1 des Einlagensicherungsgesetzes festgestellt hat, dass die Zugehörigkeit des Instituts zu einem Einlagensicherungssystem nicht gegeben ist. Satz 2 gilt nicht, soweit die Europäische Zentralbank Aufsichtsbehörde ist. In diesem Fall legt die Bundesanstalt der Europäischen Zentralbank einen Beschlussentwurf nach Artikel 14 Absatz 5 der Verordnung (EU) Nr. 1024/2013 vor. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 erlischt auch dann, wenn die Zulassung der zentralen Gegenpartei nach Artikel 14 der Verordnung (EU) Nr. 648/2012 zur Erbringung von Clearingdienstleistungen durch die Bundesanstalt abgelehnt wurde und die Ablehnung bestandskräftig ist. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 erlischt mit Aufhebung oder Erlöschen der Erlaubnis des Instituts zum Betreiben sonstiger Bankgeschäfte.
 
 (2) Die Aufsichtsbehörde kann die Erlaubnis außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
@@ -4970,9 +4950,11 @@ b) bei einem Verlust in Höhe von jeweils mehr als 10 vom Hundert der nach Artik
 
 8. die in den Artikeln 92, 93 bis 403 sowie 411 bis 428 der Verordnung (EU) Nr. 575/2013 niedergelegten aufsichtlichen Anforderungen nicht mehr erfüllt sind;
 
-9. das Institut als Gegenpartei von Wertpapierfinanzierungsgeschäften nachhaltig gegen die Pflichten und Anforderungen von Artikel 4 oder 15 der Verordnung (EU) 2015/2365 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat oder
+9. das Institut als Gegenpartei von Wertpapierfinanzierungsgeschäften nachhaltig gegen die Pflichten und Anforderungen von Artikel 4 oder 15 der Verordnung (EU) 2015/2365 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat;
 
-10. das Institut nachhaltig gegen Artikel 7 Absatz 1 Satz 3 oder Artikel 11 Absatz 1 Satz 3 der Verordnung (EU) Nr. 600/2014 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat.
+10. das Institut nachhaltig gegen Artikel 7 Absatz 1 Satz 3 oder Artikel 11 Absatz 1 Satz 3 der Verordnung (EU) Nr. 600/2014 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat oder
+
+11. das Institut seine Zulassung ausschließlich zur Ausübung des Emissionsgeschäfts oder des Eigenhandels nutzt und seine durchschnittlichen gesamten Vermögenswerte während eines Zeitraums von fünf aufeinanderfolgenden Jahren unterhalb der in § 32 genannten Schwellenwerte lagen.
 
 (2a) Die Erlaubnis soll durch die Aufsichtsbehörde aufgehoben werden, wenn über das Institut ein Insolvenzverfahren eröffnet oder die Auflösung des Instituts beschlossen worden ist. Der Wegfall der Erlaubnis hindert die für die Liquidation zuständigen Personen nicht daran, bestimmte Tätigkeiten des Instituts weiter zu betreiben, soweit dies für Zwecke des Insolvenz- oder Liquidationsverfahrens erforderlich oder angezeigt ist.
 
@@ -5056,7 +5038,7 @@ Soweit das Gericht auf Antrag des Verwaltungs- oder Aufsichtsorgans ein Mitglied
 
 (1) Die Bundesanstalt kann die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen und den Mitgliedern seiner Organe anordnen, wenn
 
-1. ohne die nach § 32 erforderliche Erlaubnis Bankgeschäfte betrieben oder Finanzdienstleistungen erbracht werden,
+1. ohne die nach § 32 oder die nach § 15 des Wertpapierinstitutsgesetzes erforderliche Erlaubnis Bankgeschäfte betrieben oder Finanzdienstleistungen erbracht werden,
 
 2. ohne die nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erforderliche Zulassung als zentrale Gegenpartei Clearingdienstleistungen erbracht werden,
 
@@ -5189,7 +5171,7 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 
 (2) Auf Ersuchen einer für die Aufsicht über ein Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums zuständigen Stelle hat die Aufsichtsbehörde die Richtigkeit der von einem Unternehmen im Sinne des Absatzes 1 Satz 1 für die Aufsichtsstelle nach Maßgabe der Richtlinie 2013/36/EU, der Verordnung (EU) Nr. 575/2013 oder der Richtlinie 2002/87/EG übermittelten Daten zu überprüfen oder zu gestatten, daß die ersuchende Stelle, ein Wirtschaftsprüfer oder ein Sachverständiger diese Daten überprüft; die Aufsichtsbehörde kann nach pflichtgemäßem Ermessen gegenüber Aufsichtsstellen in Drittstaaten entsprechend verfahren, wenn Gegenseitigkeit gewährleistet ist. § 5 Abs. 2 des Verwaltungsverfahrensgesetzes über die Grenzen der Amtshilfe gilt entsprechend. Die Unternehmen im Sinne des Absatzes 1 Satz 1 haben die Prüfung zu dulden.
 
-(3) Die Aufsichtsbehörde kann von CRR-Kreditinstituten, Wertpapierhandelsunternehmen, Kapitalverwaltungsgesellschaften, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums Auskünfte verlangen, welche die Aufsicht über Institute erleichtern, die Tochterunternehmen dieser Unternehmen sind und von den zuständigen Stellen des anderen Staates aus Artikel 19 Absatz 1 oder Absatz 2 Buchstabe b der Verordnung (EU) Nr. 575/2013 entsprechenden Gründen nicht in die Beaufsichtigung auf zusammengefaßter Basis einbezogen werden.
+(3) Die Aufsichtsbehörde kann von CRR-Kreditinstituten, Kapitalverwaltungsgesellschaften, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums Auskünfte verlangen, welche die Aufsicht über Institute erleichtern, die Tochterunternehmen dieser Unternehmen sind und von den zuständigen Stellen des anderen Staates aus Artikel 19 Absatz 1 oder Absatz 2 Buchstabe b der Verordnung (EU) Nr. 575/2013 entsprechenden Gründen nicht in die Beaufsichtigung auf zusammengefaßter Basis einbezogen werden.
 
 (4) bis (6) (weggefallen)
 
@@ -5223,7 +5205,7 @@ Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Un
 
 (1) Ein Unternehmen, die Mitglieder seiner Organe, seine Beschäftigten sowie andere Unternehmen, die in die Abwicklung seiner Geschäfte einbezogen sind oder einbezogen waren, haben der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen, wenn Tatsachen die Annahme rechtfertigen oder feststeht, dass das Unternehmen
 
-1. Bankgeschäfte oder Finanzdienstleistungen ohne die nach diesem Gesetz erforderliche Erlaubnis oder ohne die nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erforderliche Zulassung betreibt oder erbringt,
+1. Bankgeschäfte oder Finanzdienstleistungen ohne die nach § 32 oder die nach § 15 des Wertpapierinstitutsgesetzes erforderliche Erlaubnis oder ohne die nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erforderliche Zulassung betreibt oder erbringt,
 
 2. die Tätigkeit als Zentralverwahrer ohne die nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 erforderliche Zulassung ausübt,
 
@@ -5511,9 +5493,9 @@ Die Aufsichtsbehörde kann unter den Voraussetzungen des Satzes 1 Zahlungen an k
 
 # § 46e – Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums
 
-(1) Zuständig für die Eröffnung eines Insolvenzverfahrens über das Vermögen eines CRR-Instituts sind im Bereich des Europäischen Wirtschaftsraums allein die jeweiligen Behörden oder Gerichte des Herkunftsmitgliedstaates. Ist ein anderer Staat des Europäischen Wirtschaftsraums Herkunftsmitgliedstaat eines CRR-Instituts und wird dort ein Insolvenzverfahren über das Vermögen dieses Instituts eröffnet, so wird das Verfahren ohne Rücksicht auf die Voraussetzungen des § 343 Abs. 1 der Insolvenzordnung anerkannt.
+(1) Zuständig für die Eröffnung eines Insolvenzverfahrens über das Vermögen eines CRR-Kreditinstituts sind im Bereich des Europäischen Wirtschaftsraums allein die jeweiligen Behörden oder Gerichte des Herkunftsmitgliedstaates. Ist ein anderer Staat des Europäischen Wirtschaftsraums Herkunftsmitgliedstaat eines CRR-Kreditinstituts und wird dort ein Insolvenzverfahren über das Vermögen dieses Instituts eröffnet, so wird das Verfahren ohne Rücksicht auf die Voraussetzungen des § 343 Abs. 1 der Insolvenzordnung anerkannt.
 
-(2) Sekundärinsolvenzverfahren nach § 356 der Insolvenzordnung und sonstige Partikularverfahren nach § 354 der Insolvenzordnung bezüglich der CRR-Institute, die ihren Sitz in einem anderen Staat des Europäischen Wirtschaftsraums haben, sind nicht zulässig.
+(2) Sekundärinsolvenzverfahren nach § 356 der Insolvenzordnung und sonstige Partikularverfahren nach § 354 der Insolvenzordnung bezüglich der CRR-Kreditinstitute, die ihren Sitz in einem anderen Staat des Europäischen Wirtschaftsraums haben, sind nicht zulässig.
 
 (3) Die Geschäftsstelle des Insolvenzgerichts hat den Eröffnungsbeschluss sofort der Bundesanstalt zu übermitteln, die unverzüglich die zuständigen Behörden der anderen Aufnahmemitgliedstaaten des Europäischen Wirtschaftsraums über die Verfahrenseröffnung unterrichtet. Unbeschadet der in § 30 der Insolvenzordnung vorgesehenen Bekanntmachung hat das Insolvenzgericht den Eröffnungsbeschluss auszugsweise im Amtsblatt der Europäischen Union und in mindestens zwei überregionalen Zeitungen der Aufnahmemitgliedstaaten zu veröffentlichen, in denen das betroffene Kreditinstitut eine Zweigstelle hat oder Dienstleistungen erbringt. Der Veröffentlichung ist das Formblatt nach § 46f Abs. 1 voranzustellen.
 
@@ -5882,7 +5864,7 @@ Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland errichten ode
 
 # § 53b – Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
-(1) Ein CRR-Kreditinstitut oder ein Wertpapierhandelsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums darf ohne Erlaubnis durch die Aufsichtsbehörde über eine Zweigniederlassung oder über gemäß § 2 Absatz 10 angezeigte vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Inland haben, sowie im Wege des grenzüberschreitenden Dienstleistungsverkehrs, auch durch vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Herkunftsmitgliedstaat haben, im Inland Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, wenn das Unternehmen von den zuständigen Stellen seines Herkunftsmitgliedstaates zugelassen worden ist, die Geschäfte von der Zulassung abgedeckt sind und das Unternehmen von den zuständigen Stellen nach Maßgabe der Richtlinien und Verordnungen der Europäischen Union beaufsichtigt wird. Satz 1 gilt entsprechend für CRR-Kreditinstitute, die auch Zahlungsdienste im Sinne des Zahlungsdiensteaufsichtsgesetzes erbringen. § 53 ist in diesem Fall nicht anzuwenden. § 14 der Gewerbeordnung bleibt unberührt.
+(1) Ein CRR-Kreditinstitut mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums darf ohne Erlaubnis durch die Aufsichtsbehörde über eine Zweigniederlassung oder über gemäß § 2 Absatz 10 angezeigte vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Inland haben, sowie im Wege des grenzüberschreitenden Dienstleistungsverkehrs, auch durch vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Herkunftsmitgliedstaat haben, im Inland Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, wenn das Unternehmen von den zuständigen Stellen seines Herkunftsmitgliedstaates zugelassen worden ist, die Geschäfte von der Zulassung abgedeckt sind und das Unternehmen von den zuständigen Stellen nach Maßgabe der Richtlinien und Verordnungen der Europäischen Union beaufsichtigt wird. Satz 1 gilt entsprechend für CRR-Kreditinstitute, die auch Zahlungsdienste im Sinne des Zahlungsdiensteaufsichtsgesetzes erbringen. § 53 ist in diesem Fall nicht anzuwenden. § 14 der Gewerbeordnung bleibt unberührt.
 
 (1a) Ein Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum darf ohne Erlaubnis durch die Bundesanstalt über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland als Datenbereitstellungsdienst tätig werden, wenn das Unternehmen von den zuständigen Stellen seines Herkunftsmitgliedstaates zugelassen worden ist und die Geschäfte durch die Zulassung abgedeckt sind.
 
@@ -5900,7 +5882,7 @@ Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland errichten ode
 
 3. die §§ 14, 18a, 22 und 23,
 
-4. § 23a, sofern es sich um ein CRR-Institut oder Wertpapierhandelsunternehmen handelt,
+4. § 23a, sofern es sich um ein CRR-Kreditinstitut handelt,
 
 5. § 24 Abs. 1 Nr. 5 und 7,
 
@@ -5912,7 +5894,7 @@ Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland errichten ode
 
 9. § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
-Für die Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs nach Absatz 1 Satz 1 und 2 gelten § 3 Absatz 1, sofern es sich um ein CRR-Institut oder ein Wertpapierhandelsunternehmen handelt, die §§ 18a, 23a, 37, 44 Absatz 1 sowie die §§ 44c, 48u Absatz 1 und § 49 dieses Gesetzes und § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. Auf Betreiber eines multilateralen oder organisierten Handelssystems, die im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland einen Zugang anbieten, ist § 23a nicht anzuwenden.
+Für die Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs nach Absatz 1 Satz 1 und 2 gelten § 3 Absatz 1, sofern es sich um ein CRR-Kreditinstitut handelt, die §§ 18a, 23a, 37, 44 Absatz 1 sowie die §§ 44c, 48u Absatz 1 und § 49 dieses Gesetzes und § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. Auf Betreiber eines multilateralen oder organisierten Handelssystems, die im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland einen Zugang anbieten, ist § 23a nicht anzuwenden.
 
 (4) Stellt die Aufsichtsbehörde fest, dass ein Unternehmen im Sinne des Absatzes 1 Satz 1 und 2 seinen Pflichten nach Absatz 3 oder der Verordnung (EU) Nr. 575/2013 nicht nachkommt oder dass es sehr wahrscheinlich ist, dass es diesen Verpflichtungen nicht nachkommen wird, unterrichtet die Aufsichtsbehörde unverzüglich die zuständigen Stellen des Herkunftsmitgliedstaates. Ergreifen die zuständigen Stellen des Herkunftsmitgliedstaates keine Maßnahmen oder erachtet die Aufsichtsbehörde die Maßnahme auf Grundlage der ihr von den zuständigen Stellen des Herkunftsmitgliedstaates übermittelten Informationen und Erkenntnissen als unzureichend, kann sie nach Unterrichtung der zuständigen Stellen des Herkunftsmitgliedstaates und der Europäischen Bankenaufsichtsbehörde die erforderlichen Maßnahmen ergreifen. Erforderlichenfalls kann sie die Durchführung neuer Geschäfte im Inland untersagen. Sind die zuständigen Stellen des Herkunftsmitgliedstaates mit den zu ergreifenden Maßnahmen nicht einverstanden, können sie die Angelegenheit nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 an die Europäische Bankenaufsichtsbehörde verweisen und diese um Unterstützung bitten.
 
@@ -6947,7 +6929,7 @@ Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das Nachfolgeunternehmen de
 
 (1) Eine bereits am 27. Juni 2019 bestehende Finanzholding-Gesellschaft nach § 2f Absatz 1 kann bei der Aufsichtsbehörde eine Zulassung nach § 2f bis zum 28. Juni 2021 beantragen. In dem Zeitraum zwischen dem 27. Juni 2019 und dem 28. Juni 2021 stehen der Aufsichtsbehörde gegenüber der Finanzholding-Gesellschaft nach Satz 1 alle aufsichtlichen Befugnisse zu, die auch gegenüber einer nach § 2f zugelassenen Finanzholding-Gesellschaft bestehen. Sofern eine Finanzholding-Gesellschaft nach § 2f Absatz 1 bis zum 28. Juni 2021 keine Zulassung nach § 2f beantragt hat, ergreift die Aufsichtsbehörde entsprechende Maßnahmen nach § 2f Absatz 6.
 
-(2) CRR-Institute, die nach § 2g Absatz 1 ein zwischengeschaltetes EU-Mutterunternehmen benötigen und bei denen zum 27. Juni 2019 der Gesamtwert der Vermögenswerte der betroffenen Unternehmensgruppe innerhalb des Europäischen Wirtschaftsraums gemäß § 2g Absatz 4 mindestens 40 Milliarden Euro beträgt, müssen zum 30. Dezember 2023 über ein zwischengeschaltetes EU-Mutterunternehmen oder in den Fällen des § 2g Absatz 2 über zwei zwischengeschaltete EU-Mutterunternehmen verfügen.
+(2) CRR-Kreditinstitute oder Wertpapierinstitute, die nach § 2g Absatz 1 ein zwischengeschaltetes EU-Mutterunternehmen benötigen und bei denen zum 27. Juni 2019 der Gesamtwert der Vermögenswerte der betroffenen Unternehmensgruppe innerhalb des Europäischen Wirtschaftsraums gemäß § 2g Absatz 4 mindestens 40 Milliarden Euro beträgt, müssen zum 30. Dezember 2023 über ein zwischengeschaltetes EU-Mutterunternehmen oder in den Fällen des § 2g Absatz 2 über zwei zwischengeschaltete EU-Mutterunternehmen verfügen.
 
 (3) Auf Institute, die keine CRR-Kreditinstitute sind und die in den Anwendungsbereich der Verordnung (EU) 2019/2033 fallen, sind bis zum 26. Juni 2021 mit Ausnahme der Vorschrift des § 2g die Vorschriften dieses Gesetzes in der bis zum 28. Dezember 2020 geltenden Fassung anzuwenden.
 
@@ -6965,7 +6947,7 @@ Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das Nachfolgeunternehmen de
 
 (2) Finanzdienstleistungsinstitute und Wertpapierhandelsbanken, die am 1. Januar 1998 zulässigerweise tätig waren, ohne über eine Erlaubnis der Bundesanstalt zu verfügen, haben bis zum 1. April 1998 ihre nach diesem Gesetz erlaubnispflichtigen Tätigkeiten und die Absicht, diese fortzuführen, der Bundesanstalt und der Deutschen Bundesbank anzuzeigen. Ist die Anzeige fristgerecht erstattet worden, gilt die Erlaubnis nach § 32 in diesem Umfang als erteilt. Die Bundesanstalt bestätigt die bezeichneten Erlaubnisgegenstände innerhalb von drei Monaten nach Eingang der Anzeige. Innerhalb von drei Monaten nach Zugang der Bestätigung der Bundesanstalt hat das Institut der Bundesanstalt und der Deutschen Bundesbank eine Ergänzungsanzeige einzureichen, die den inhaltlichen Anforderungen des § 32 entspricht. Wird die Ergänzungsanzeige nicht fristgerecht eingereicht, kann die Bundesanstalt die Erlaubnis nach Satz 2 aufheben; § 35 bleibt unberührt.
 
-(3) Auf Institute, für die eine Erlaubnis nach Absatz 2 als erteilt gilt, sind § 35 Abs. 2 Nr. 3 in Verbindung mit § 33 Abs. 1 Satz 1 Nr. 1 Buchstabe a bis c sowie § 24 Abs. 1 Nr. 9 über das Anfangskapital erst ab 1. Januar 2003 anzuwenden. Solange das Anfangskapital der in Satz 1 genannten Institute geringer ist als der bei Anwendung des § 33 Abs. 1 Satz 1 Nr. 1 erforderliche Betrag, darf es den Durchschnittswert der jeweils sechs vorangehenden Monate nicht unterschreiten; der Durchschnittswert ist alle sechs Monate zu berechnen und der Bundesanstalt mitzuteilen. Bei einem Unterschreiten des in Satz 2 genannten Durchschnittswertes kann die Bundesanstalt die Erlaubnis aufheben. Auf die in Satz 1 genannten Institute sind § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b erst ab 1. Januar 1999 anzuwenden, es sei denn, sie errichten eine Zweigniederlassung oder erbringen grenzüberschreitende Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums gemäß § 24a. Wertpapierhandelsunternehmen, für die eine Erlaubnis nach Absatz 2 als erteilt gilt und die § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b nicht anwenden, haben die Kunden darüber zu unterrichten, daß sie nicht gemäß § 24a in anderen Staaten des Europäischen Wirtschaftsraums eine Zweigniederlassung errichten oder grenzüberschreitende Dienstleistungen erbringen können. Institute, für die eine Erlaubnis nach Absatz 2 als erteilt gilt, haben der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, ob sie § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b anwenden.
+(3) Auf Institute, für die eine Erlaubnis nach Absatz 2 als erteilt gilt, sind § 35 Abs. 2 Nr. 3 in Verbindung mit § 33 Abs. 1 Satz 1 Nr. 1 Buchstabe a bis c sowie § 24 Abs. 1 Nr. 9 über das Anfangskapital erst ab 1. Januar 2003 anzuwenden. Solange das Anfangskapital der in Satz 1 genannten Institute geringer ist als der bei Anwendung des § 33 Abs. 1 Satz 1 Nr. 1 erforderliche Betrag, darf es den Durchschnittswert der jeweils sechs vorangehenden Monate nicht unterschreiten; der Durchschnittswert ist alle sechs Monate zu berechnen und der Bundesanstalt mitzuteilen. Bei einem Unterschreiten des in Satz 2 genannten Durchschnittswertes kann die Bundesanstalt die Erlaubnis aufheben. Auf die in Satz 1 genannten Institute sind § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b erst ab 1. Januar 1999 anzuwenden, es sei denn, sie errichten eine Zweigniederlassung oder erbringen grenzüberschreitende Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums gemäß § 24a. Wertpapierinstitute, für die eine Erlaubnis nach Absatz 2 als erteilt gilt und die § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b nicht anwenden, haben die Kunden darüber zu unterrichten, daß sie nicht gemäß § 24a in anderen Staaten des Europäischen Wirtschaftsraums eine Zweigniederlassung errichten oder grenzüberschreitende Dienstleistungen erbringen können. Institute, für die eine Erlaubnis nach Absatz 2 als erteilt gilt, haben der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, ob sie § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b anwenden.
 
 (4) (weggefallen)
 

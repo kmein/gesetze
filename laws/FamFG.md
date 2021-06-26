@@ -3705,7 +3705,9 @@ Unternehmensrechtliche Verfahren sind die nach
 
 11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
 
-12. (weggefallen),
+11b. § 27 Absatz 2 Satz 1 bis 6 und § 77 Absatz 2 des Wertpapierinstitutsgesetzes,
+
+12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
 
 13. § 19 Absatz 2 Satz 1 bis 6 und § 204 Absatz 2 des Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des Finanzkonglomerate-Aufsichtsgesetzes,
 

@@ -129,7 +129,7 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 # § 12 – Eigenmittel
 
-(1) Darzustellen sind Höhe und Zusammensetzung der Eigenmittel des Instituts nach § 15 Absatz 1 Satz 1 und 2 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung nach dem Stand bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der Feststellung des geprüften Abschlusses. Die bei beziehungsweise von anderen Instituten, Kredit- oder Finanzdienstleistungsinstituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen beziehungsweise gehaltenen Eigenmittelbestandteile sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
+(1) Darzustellen sind Höhe und Zusammensetzung der Eigenmittel des Instituts nach § 15 Absatz 1 Satz 1 und 2 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung nach dem Stand bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der Feststellung des geprüften Abschlusses. Die bei beziehungsweise von anderen Instituten, Kredit- oder Finanzdienstleistungsinstituten, Wertpapierinstituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen beziehungsweise gehaltenen Eigenmittelbestandteile sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
 
 (2) Darzustellen ist die Einhaltung der Vorgaben für Eigenmittel nach § 15 Absatz 1, 2, 4 und 5 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung. Insbesondere ist näher zu erläutern, ob die Vorgaben
 

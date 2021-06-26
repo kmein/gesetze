@@ -201,7 +201,7 @@ Holdinggesellschaften, die ausschließlich Beteiligungen an Unternehmen außerha
 
 1. Kreditinstitute nach § 1 Absatz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 3 bis 8 des Kreditwesengesetzes genannten Unternehmen, und im Inland gelegene Zweigstellen und Zweigniederlassungen von Kreditinstituten mit Sitz im Ausland,
 
-2. Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 6 Satz 1 Nummer 3 bis 10 und 12 und Absatz 10 des Kreditwesengesetzes genannten Unternehmen, und im Inland gelegene Zweigstellen und Zweigniederlassungen von Finanzdienstleistungsinstituten mit Sitz im Ausland,
+2. Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 6 Satz 1 Nummer 3 bis 10 und 12 und Absatz 10 des Kreditwesengesetzes genannten Unternehmen, im Inland gelegene Zweigstellen und Zweigniederlassungen von Finanzdienstleistungsinstituten mit Sitz im Ausland sowie Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes und im Inland gelegene Niederlassungen vergleichbarer Unternehmen mit Sitz im Ausland,
 
 3. Zahlungsinstitute und E-Geld-Institute nach § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und im Inland gelegene Zweigstellen und Zweigniederlassungen von vergleichbaren Instituten mit Sitz im Ausland,
 
@@ -1781,9 +1781,9 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
 a) Kreditinstitute mit Ausnahme der Deutschen Bundesbank,
 
-b) Finanzdienstleistungsinstitute sowie Zahlungsinstitute nach § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes und E-Geld-Institute nach § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes,
+b) Finanzdienstleistungsinstitute sowie Zahlungsinstitute nach § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, E-Geld-Institute nach § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes und Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes,
 
-c) im Inland gelegene Zweigstellen und Zweigniederlassungen von Kreditinstituten mit Sitz im Ausland, von Finanzdienstleistungsinstituten mit Sitz im Ausland und Zahlungsinstituten mit Sitz im Ausland,
+c) im Inland gelegene Zweigstellen und Zweigniederlassungen von Kreditinstituten mit Sitz im Ausland, von Finanzdienstleistungsinstituten mit Sitz im Ausland, von Zahlungsinstituten mit Sitz im Ausland und von Wertpapierinstituten mit Sitz im Ausland,
 
 d) Kapitalverwaltungsgesellschaften nach § 17 Absatz 1 des Kapitalanlagegesetzbuchs,
 
@@ -2231,7 +2231,7 @@ Gegenüber Verpflichteten gemäß § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9, die 
 
 (4) Gesamtumsatz im Sinne des Absatzes 2 Satz 4 Nummer 2 ist
 
-1. bei Kreditinstituten, Zahlungsinstituten und Finanzdienstleistungsinstituten nach § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich ergibt aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Abschnitt B Nummer 1 bis 4 und 7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1), abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
+1. bei Kreditinstituten, Zahlungsinstituten, Wertpapierinstituten und Finanzdienstleistungsinstituten nach § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich ergibt aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Abschnitt B Nummer 1 bis 4 und 7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1), abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
 2. bei Versicherungsunternehmen der Gesamtbetrag, der sich ergibt aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 

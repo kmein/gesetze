@@ -221,7 +221,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 (Fundstelle: BGBl. I 2018, 2285 - 2299)
 
-<a href="../normengrafiken/bgbl1_2018/j2285_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j1061n_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 2 – (zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)
 
@@ -245,22 +245,22 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 (Fundstelle: BGBl. I 2018, 2318 - 2319)
 
-<a href="../normengrafiken/bgbl1_2018/j2318_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j1061_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 6 – (zu § 10 Absatz 2 Satz 5)Beteiligungen von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
 
 (Fundstelle: BGBl. I 2018, 2320 - 2322)
 
-<a href="../normengrafiken/bgbl1_2018/j2320_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j1061_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 7 – (zu § 11 Absatz 1 und 2)Passivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. I 2018, 2323 - 2325)
 
-<a href="../normengrafiken/bgbl1_2018/j2323_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j1061_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 8 – (zu § 12 Absatz 1 und 2)Aktivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. I 2018, 2326 - 2328)
 
-<a href="../normengrafiken/bgbl1_2018/j2326_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j1061_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>

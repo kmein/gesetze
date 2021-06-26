@@ -27,7 +27,7 @@ a) Luftfahrtunternehmen,
 
 b) Computerreservierungssysteme und Globale Distributionssysteme für Flüge,
 
-c) Kreditinstitute, Finanzdienstleistungsinstitute und Finanzunternehmen sowie
+c) Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten und Finanzunternehmen sowie
 
 d) Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des Bundesverfassungsschutzgesetzes.
 
@@ -79,7 +79,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 # Anlage 1 – (zu § 5 Absatz 1)Datenübermittlungsformate für die einzelnen Sektoren
 
-(Fundstelle: BGBl. I 2012, 2120)
+(Fundstelle: BGBl. I 2012, 2120;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 1. Luftfahrtunternehmen/Computerreservierungssysteme und Globale Distributionssysteme für Flüge  
   
@@ -92,7 +93,7 @@ entsprechend den nach den jeweils gültigen Normen des Normungsausschusses des D
 –  
 als XML-Datensatz mit einer der Anfrage entsprechenden Schema-Definition (XSD), die der W3C-Empfehlung W3C XML entspricht (§ 5 Absatz 1).
 
-2. Kreditinstitute, Finanzdienstleistungsinstitute und Finanzunternehmen  
+2. Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten und Finanzunternehmen  
   
 
 Die Daten sind zu übermitteln,
@@ -158,4 +159,5 @@ bei der Verwendung von Tabellen sind der Aufbau der Felder und ihr Inhalt zu erl
 
 # Anlage 2 – (zu § 7 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2012, 2121)
+(Fundstelle: BGBl. I 2012, 2121;  
+bzgl. der einzelnen Ändernungen vgl. Fußnote)

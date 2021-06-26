@@ -479,26 +479,6 @@ Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwe
 
 # § 9 – Verschwiegenheitspflicht
 
-(1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2 Beschäftigten, die Personen, derer sich die Bundesanstalt nach § 7 Abs. 2 bedient, sowie die Mitglieder des Beirates und Beisitzer des Widerspruchsausschusses dürfen ihnen bei ihrer Tätigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverhältnisses oder ihrer Tätigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
-
-1. Strafverfolgungsbehörden oder für Straf und Buß-geldsachen zuständige Gerichte,
-
-2. Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung von Wettbewerbsbeschränkungen, der Überwachung von Angeboten zum Erwerb von Wertpapieren oder der Überwachung von Börsen oder anderen Wertpapier- oder Derivatemärkten, des Wertpapier- oder Derivatehandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Investmentgesellschaften, Finanzunternehmen oder Versicherungsunternehmen betraut sind, sowie von solchen Stellen beauftragte Personen,
-
-3. das Bundesministerium für Wirtschaft und Energie,
-
-soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Personen erforderlich sind. Für die bei den in Satz 3 genannten Stellen beschäftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den Sätzen 1 bis 3 entsprechend. An eine ausländische Stelle dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
-
-(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
-
-1. die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
-
-2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
-
-(3) Die Mitglieder des Beirates und die ehrenamtlichen Beisitzer des Widerspruchsausschusses sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547), geändert durch § 1 Nr. 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942), in der jeweils geltenden Fassung von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
-
-# § 9 – Verschwiegenheitspflicht
-
 (1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2 Beschäftigten und die Personen, derer sich die Bundesanstalt nach § 7 Abs. 2 bedient, dürfen ihnen bei ihrer Tätigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverhältnisses oder ihrer Tätigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
 1. Strafverfolgungsbehörden oder für Straf und Buß-geldsachen zuständige Gerichte,
@@ -535,7 +515,7 @@ mitzuteilen. Die Geschäftsführungen dürfen die ihnen nach Satz 1 mitgeteilten
 
 1. durch Bekanntgabe im Internet und
 
-2. über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, nach § 53 Abs. 1 des Gesetzes über das Kreditwesen tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,
+2. über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, nach § 53 Abs. 1 des Gesetzes über das Kreditwesen tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,
 
 in deutscher Sprache vorzunehmen. Dabei hat der Bieter auch die Adresse anzugeben, unter der die Veröffentlichung der Angebotsunterlage im Internet nach § 14 Abs. 3 Satz 1 Nr. 1 erfolgen wird. Eine Veröffentlichung in anderer Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen werden.
 
@@ -1223,7 +1203,7 @@ nicht überschreiten.
 
 (6) Gesamtumsatz im Sinne des Absatzes 4 ist
 
-1. im Falle von Kreditinstituten, Zahlungsinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
+1. im Falle von Kreditinstituten, Zahlungsinstituten, Wertpapierinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
 2. im Falle von Versicherungsunternehmen der Gesamtbetrag, der sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
