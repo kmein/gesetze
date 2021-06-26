@@ -129,4 +129,5 @@ Gemeinsames Amtsschild mehrerer Dienststellen mit Anhängeschildern
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20210608b2-02.jpg)
 
-(+++ Die Vorlage ist über das Bundesministerium des Innern, für Bau und heimat zu beziehen +++)
+(+++ Die Vorlage ist über das Bundesministerium des Innern, für Bau und Heimat zu beziehen +++)  
+Muster Kursivdruck: Die Schreibung des Wortes "Amtschild" lautet richtig "Amtsschild"

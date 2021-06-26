@@ -199,7 +199,7 @@ Eine EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in deutscher Spra
 
 1. Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige Gerichte,
 
-2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Unternehmensbeteiligungsgesellschaften, Börsen oder anderen Wertpapiermärkten, des Wertpapierhandels, von Kreditinstituten, Finanzdienstleistungsinstituten, AIF-Kapitalverwaltungsgesellschaften oder Versicherungsunternehmen betraute Stellen sowie von diesen beauftragte Personen,
+2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Unternehmensbeteiligungsgesellschaften, Börsen oder anderen Wertpapiermärkten, des Wertpapierhandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, AIF-Kapitalverwaltungsgesellschaften oder Versicherungsunternehmen betraute Stellen sowie von diesen beauftragte Personen,
 
 3. mit der Liquidation oder der Insolvenz einer Unternehmensbeteiligungsgesellschaft befaßte Stellen,
 

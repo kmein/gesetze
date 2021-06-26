@@ -167,7 +167,7 @@
 
 1. CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes mit Ausnahme der Unternehmen im Sinne von Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist,
 
-2. CRR-Wertpapierfirmen im Sinne des § 1 Absatz 3d Satz 2 des Kreditwesengesetzes, die gemäß § 33 Absatz 1 Satz 1 Nummer 1 Buchstabe c des Kreditwesengesetzes mit einem Anfangskapital im Gegenwert von mindestens 730 000 Euro auszustatten sind,
+2. Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, die gemäß § 17 Absatz 1 Nummer 1 Buchstabe a des Wertpapierinstitutsgesetzes mit einem Anfangskapital im Gegenwert von mindestens 750 000 Euro auszustatten sind,
 
 3. übergeordnete Unternehmen einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe gemäß § 10a Absatz 1 und 2 des Kreditwesengesetzes und deren nachgeordnete Unternehmen gemäß § 10a Absatz 1 und 2 des Kreditwesengesetzes mit Sitz im Inland mit Ausnahme der Unternehmen im Sinne von Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU und
 
@@ -181,7 +181,7 @@
 
 # § 2 – Begriffsbestimmungen
 
-(1) Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und CRR-Wertpapierfirmen, die vom Anwendungsbereich dieses Gesetzes gemäß § 1 erfasst sind.
+(1) Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und Wertpapierinstitute, die vom Anwendungsbereich dieses Gesetzes gemäß § 1 erfasst sind.
 
 (2) Relevante Kapitalinstrumente sind Kapitalinstrumente, die beim ausgebenden Unternehmen für die Zwecke der Erfüllung der Eigenmittelanforderungen als zusätzliches Kernkapital oder Ergänzungskapital anerkannt sind.
 
@@ -455,7 +455,7 @@ c) Aufrechnungen im Sinne von Artikel 2 Buchstabe k der Richtlinie 98/26/EG des 
 
 (3) Die Abwicklungsbehörde, die Aufsichtsbehörde, das Bundesministerium der Finanzen und andere nationale Behörden, welche im Rahmen dieses Gesetzes tätig werden, Einlagensicherungssysteme sowie Brückeninstitute und Vermögensverwaltungsgesellschaften haben in ihrem jeweiligen Bereich interne Geheimhaltungsregelungen vorzusehen, welche den Regeln der §§ 4 bis 10 weitgehend entsprechen. Insbesondere ist sicherzustellen, dass Informationen im Sinne des § 4 Absatz 1 nur an Personen gelangen, welche unmittelbar mit dem Abwicklungsprozess befasst sind.
 
-(4) Die Verschwiegenheitspflicht steht einer Weitergabe oder Verwertung von Informationen im Sinne von § 4 Absatz 1 Nummer 1 dann nicht entgegen, wenn die Kreditinstitute, gruppenangehörigen Unternehmen oder sonstigen Dritten, deren Belange durch die Weitergabe oder Verwertung berührt sind, in die Weitergabe oder Verwertung ausdrücklich eingewilligt haben.
+(4) Die Verschwiegenheitspflicht steht einer Weitergabe oder Verwertung von Informationen im Sinne von § 4 Absatz 1 Nummer 1 dann nicht entgegen, wenn die Kreditinstitute, gruppenangehörigen Unternehmen oder sonstigen Dritten, deren Belange durch die Weitergabe oder Verwertung berührt sind, in die Weitergabe oder Verwertung ausdrücklich eingewilligt haben und die Informationen nicht im Interesse der zuständigen Behörden geheim zu halten sind.
 
 (5) Bei Verletzung der Verschwiegenheitspflicht gelten die allgemeinen Haftungs- und Schadensersatzregeln. Hinsichtlich der Inanspruchnahme eines Beschäftigten der Abwicklungsbehörde, Aufsichtsbehörde oder einer im Rahmen des Gesetzes tätigen national zuständigen Behörde gelten die Regelungen des § 181.
 
@@ -1324,11 +1324,19 @@ Die Informationen und Analysen, die nach Satz 1 Nummer 2, 3 und 4 an die dort ge
 
 (1) Institute und gruppenangehörige Unternehmen haben auf Verlangen der Abwicklungsbehörde die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten gemäß Absatz 2 und den §§ 49a bis 51 einzuhalten.
 
-(2) Die Anforderung wird als Betrag der Eigenmittel und berücksichtigungsfähigen Verbindlichkeiten gemäß § 49c Absatz 3 bis 5 oder 7 bis 9 berechnet und ausgedrückt als prozentualer Anteil
+(2) Die in Absatz 1 genannte Anforderung wird als Betrag der Eigenmittel und berücksichtigungsfähigen Verbindlichkeiten gemäß § 49c Absatz 3 bis 5 oder 7 bis 9, vorbehaltlich besonderer Regelungen in Absatz 3, wie folgt berechnet und ausgedrückt als prozentualer Anteil
 
 1. des gemäß Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikobetrags des Instituts oder gruppenangehörigen Unternehmens und
 
 2. der gemäß den Artikeln 429 und 429a der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikopositionsmessgröße des Instituts oder gruppenangehörigen Unternehmens.
+
+(3) Soweit in den Vorschriften dieses Gesetzes auf Regelungen der Verordnung (EU) Nr. 575/2013 oder der Richtlinie (EU) Nr. 36/2013 Bezug genommen wird, gelten die folgenden Besonderheiten im Hinblick auf Wertpapierinstitute, die nicht die Anforderungen gemäß Artikel 1 Absatz 2 oder Absatz 5 der Verordnung (EU) 2019/2033 erfüllen:
+
+1. die Bezugnahme auf Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 zur Bestimmung des Gesamtrisikobetrags des Instituts gilt als Bezugnahme auf die entsprechende Regelung in Artikel 11 Absatz 1 der Verordnung (EU) 2019/2033, multipliziert mit 12,5,
+
+2. die Bezugnahme auf Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 zur Bestimmung der Gesamtkapitalquote des Instituts gilt als Bezugnahme auf die entsprechende Regelung in Artikel 11 Absatz 1 der Verordnung (EU) 2019/2033 und
+
+3. die Bezugnahme auf die zusätzliche Eigenmittelanforderung nach Artikel 104a der Richtlinie (EU) Nr. 36/2013 gilt als Bezugnahme auf die entsprechende Regelung in Artikel 9 der Richtlinie (EU) 2019/2034.
 
 # § 49a – Ausnahme von der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
@@ -1382,11 +1390,11 @@ Stellt die Abwicklungsbehörde fest, dass innerhalb eines Insolvenzranges von Ve
 
 2. den Betrag, der sich anhand der Formel A x 2 + B x 2 + C errechnet, wobei A, B und C die folgenden Beträge sind:
 
-a) A = der Betrag, der sich auf Grund der Anforderung nach Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 ergibt,
+A = der Betrag, der sich, vorbehaltlich des § 49 Absatz 3, aufgrund der Anforderungen nach Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 ergibt;
 
-b) B = der Betrag, der sich auf Grund der Anforderung nach § 6c Absatz 1 des Kreditwesengesetzes ergibt,
+B = der Betrag, der sich, vorbehaltlich des § 49 Absatz 3, aufgrund der Anforderungen nach Artikel 104a der Richtlinie 2013/36/EU ergibt;
 
-c) C = der Betrag, der sich auf Grund der kombinierten Kapitalpufferanforderung ergibt.
+C = der Betrag, der sich aufgrund der kombinierten Kapitalpufferanforderung ergibt.
 
 (8) Die Abwicklungsbehörde kann die in Absatz 7 genannte Befugnis in Bezug auf Abwicklungseinheiten, die ein global systemrelevantes Institut sind oder die § 49c Absatz 5 oder 6 unterliegen und die eine der Voraussetzungen nach Satz 2 erfüllen, für bis zu höchstens 30 Prozent aller Abwicklungseinheiten ausüben, die ein global systemrelevantes Institut sind oder die § 49c Absatz 5 oder 6 unterliegen und für die die Abwicklungsbehörde die Anforderung nach § 49e festlegt. Die folgenden Voraussetzungen werden von der Abwicklungsbehörde bei Ausübung der Befugnis berücksichtigt:
 
@@ -1398,7 +1406,7 @@ b) das ermittelte wesentliche Hindernis lässt sich durch keine der Maßnahmen z
 
 2. die Abwicklungsbehörde ist der Auffassung, dass die Umsetzbarkeit und Glaubhaftigkeit der bevorzugten Abwicklungsstrategie der Abwicklungseinheit angesichts ihrer Größe, ihrer Verflechtungen, der Art, des Umfangs, des Risikos und der Komplexität ihrer Tätigkeiten, ihrer Rechtsform sowie ihrer Beteiligungsstruktur eingeschränkt sind oder
 
-3. aus der Anforderung nach § 6c Absatz 1 des Kreditwesengesetzes ergibt sich, dass die Abwicklungseinheit, die ein global systemrelevantes Institut ist oder den Bestimmungen gemäß § 49c Absatz 5 oder 6 unterliegt, zu den 20 Prozent der Institute mit dem höchsten Risiko gehört, für die die Abwicklungsbehörde die Anforderung nach § 49 Absatz 1 festlegt.
+3. ergibt sich, vorbehaltlich des § 49 Absatz 3, aus der Anforderung nach Artikel 104a der Richtlinie 2013/36/EU, dass die Abwicklungseinheit, die ein G‑SRI ist oder § 49c Absatz 5 oder 6 unterliegt, zu den 20 Prozent der Institute mit dem höchsten Risiko gehört, für die die Abwicklungsbehörde die Anforderung nach § 49 Absatz 1 festlegt.
 
 Für die Zwecke der Prozentsätze nach den Sätzen 1 und 2 rundet die Abwicklungsbehörde das berechnete Ergebnis auf die nächsthöhere ganze Zahl auf.
 
@@ -1442,9 +1450,9 @@ Sieht der Abwicklungsplan für das Unternehmen eine Liquidation im Rahmen eines 
 
 1. für die Zwecke der Berechnung der Anforderung nach § 49 Absatz 1 nach Maßgabe von § 49 Absatz 2 Nummer 1 der Summe aus
 
-a) den bei der Abwicklung zu absorbierenden Verlusten, die den Anforderungen des Artikels 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 und des § 6c Absatz 1 des Kreditwesengesetzes an die Abwicklungseinheit auf konsolidierter Basis auf Ebene der Abwicklungsgruppe entsprechen, und
+a) den bei der Abwicklung zu absorbierenden Verlusten, die, vorbehaltlich des § 49 Absatz 3, den Anforderungen des Artikels 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 und des Artikels 104a der Richtlinie 2013/36/EU an die Abwicklungseinheit auf konsolidierter Basis auf Ebene der Abwicklungsgruppe entsprechen,
 
-b) einem Rekapitalisierungsbetrag, der es der aus der Abwicklung hervorgehenden Abwicklungsgruppe ermöglicht, die für sie geltende Anforderung an die Gesamtkapitalquote nach Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 und die für sie gemäß § 6c Absatz 1 des Kreditwesengesetzes geltende Anforderung auf konsolidierter Basis auf Ebene der Abwicklungsgruppe nach Durchführung der bevorzugten Abwicklungsstrategie wieder zu erfüllen, und
+b) einem Rekapitalisierungsbetrag, der es der aus der Abwicklung hervorgehenden Abwicklungsgruppe ermöglicht, die für sie, vorbehaltlich des § 49 Absatz 3, geltende Anforderung an die Gesamtkapitalquote nach Artikel 92 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 575/2013 und die für sie geltende Anforderung nach Artikel 104a der Richtlinie 2013/36/EU auf konsolidierter Basis auf Ebene der Abwicklungsgruppe nach Durchführung der bevorzugten Abwicklungsstrategie wieder zu erfüllen, und
 
 2. für die Zwecke der Berechnung der Anforderung nach § 49 Absatz 1 nach Maßgabe von § 49 Absatz 2 Nummer 2 der Summe aus
 
@@ -1458,7 +1466,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 1. sie verwendet die jüngsten gemeldeten Werte für den relevanten Gesamtrisikobetrag oder die relevante Gesamtrisikopositionsmessgröße für die Verschuldungsquote nach Anpassung an jegliche Änderungen infolge der im Abwicklungsplan vorgesehenen Abwicklungsmaßnahmen und
 
-2. sie passt nach Anhörung der Aufsichtsbehörde den Betrag, der den nach § 6c Absatz 1 des Kreditwesengesetzes bestehenden Anforderungen entspricht, nach unten oder oben an, um die nach Durchführung der bevorzugten Abwicklungsstrategie für die Abwicklungseinheit anzuwendende Anforderung zu bestimmen.
+2. sie passt nach Anhörung der Aufsichtsbehörde den Betrag, der, vorbehaltlich des § 49 Absatz 3, den nach § 6c Absatz 1 des Kreditwesengesetzes bestehenden Anforderungen entspricht, nach unten oder oben an, um die nach Durchführung der bevorzugten Abwicklungsstrategie für die Abwicklungseinheit anzuwendende Anforderung zu bestimmen.
 
 (4a) Die Abwicklungsbehörde kann die Anforderung nach Absatz 3 Satz 1 Nummer 1 Buchstabe b um eine Anforderung erhöhen, die notwendig ist, um sicherzustellen, dass das Unternehmen nach der Abwicklung für einen angemessenen Zeitraum, der maximal ein Jahr beträgt, in der Lage ist, ausreichendes Marktvertrauen in das Unternehmen aufrechtzuerhalten. Erhöht die Abwicklungsbehörde die Anforderung nach Absatz 4, so wird der Betrag der nach Anwendung der Abwicklungsinstrumente anzuwendenden kombinierten Kapitalpufferanforderung abzüglich des Betrags, der sich aus der Anforderung nach § 10i Absatz 1 Nummer 2 des Kreditwesengesetzes gleichgesetzt. Der Betrag gemäß Absatz 4 wird nach unten angepasst, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass es umsetzbar und glaubhaft ist, dass ein geringerer Betrag ausreicht, um das Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass nach Durchführung der Abwicklungsstrategie eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre, die über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinausgeht. Dieser Betrag wird erhöht, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass ein höherer Betrag notwendig ist, um für einen angemessenen Zeitraum, der nicht länger als ein Jahr ist, ein ausreichendes Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder des gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 4 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinaus eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre.
 
@@ -1480,7 +1488,7 @@ Abweichend von § 49b erfüllen Abwicklungseinheiten die Anforderung gemäß Sat
 
 Liegt keine Entscheidung nach Satz 1 vor, so bleiben Entscheidungen nach § 49b Absatz 5 hiervon unberührt. Die Abwicklungsbehörde teilt dem Ausschuss Entscheidungen nach Satz 1 mit, sofern es sich um Abwicklungseinheiten handelt, für die der Ausschuss zuständig ist.
 
-(7) Für Unternehmen, die selbst keine Abwicklungseinheiten sind, entspricht die in Absatz 2 Satz 1 genannte Anforderung
+(7) Für Unternehmen, die selbst keine Abwicklungseinheiten sind und vorbehaltlich abweichender Regelungen gemäß § 49 Absatz 3, entspricht die in Absatz 2 Satz 1 genannte Anforderung
 
 1. für die Zwecke der Berechnung der Anforderung nach § 49 Absatz 1 nach Maßgabe von § 49 Absatz 2 Nummer 1 der Summe aus
 
@@ -1500,7 +1508,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 1. die jüngsten gemeldeten Werte für den relevanten Gesamtrisikobetrag oder die relevante Gesamtrisikomessgröße nach Anpassung an alle Änderungen infolge der im Abwicklungsplan vorgesehenen Maßnahmen zu verwenden und
 
-2. nach Anhörung der Aufsichtsbehörde den Betrag, der der in § 6c Absatz 1 des Kreditwesengesetzes genannten Anforderung entspricht, nach unten oder oben anzupassen, um die Anforderung zu bestimmen, die nach Ausübung der Befugnis zur Herabschreibung oder Umwandlung von relevanten Kapitalinstrumenten und berücksichtigungsfähigen Verbindlichkeiten gemäß § 65 Absatz 4 oder nach Abwicklung der Abwicklungsgruppe für das entsprechende Unternehmen anzuwenden ist.
+2. nach Anhörung der Aufsichtsbehörde den Betrag, der, vorbehaltlich des § 49 Absatz 3, der in § 6c Absatz 1 des Kreditwesengesetzes genannten Anforderung entspricht, nach unten oder oben anzupassen, um die Anforderung zu bestimmen, die nach Ausübung der Befugnis zur Herabschreibung oder Umwandlung von relevanten Kapitalinstrumenten und berücksichtigungsfähigen Verbindlichkeiten gemäß § 65 Absatz 4 oder nach Abwicklung der Abwicklungsgruppe für das entsprechende Unternehmen anzuwenden ist.
 
 (9) Die Abwicklungsbehörde kann die Anforderung nach Absatz 7 Satz 1 Nummer 1 Buchstabe b um eine Anforderung erhöhen, die notwendig ist, um sicherzustellen, dass das Unternehmen nach Ausübung der Befugnis zur Herabschreibung oder Umwandlung von relevanten Kapitalinstrumenten und berücksichtigungsfähigen Verbindlichkeiten gemäß § 65 Absatz 4 für einen angemessenen Zeitraum, der nicht länger als ein Jahr ist, in der Lage ist, ausreichendes Marktvertrauen aufrechtzuerhalten. Erhöht die Abwicklungsbehörde die Anforderung nach Satz 1, so wird der Betrag, der nach Ausübung der Befugnis gemäß den §§ 65, 77 und 89 oder nach Abwicklung der Abwicklungsgruppe anzuwendenden kombinierten Kapitalpufferanforderung abzüglich des Betrags, der sich aus der Anforderung nach § 10i Absatz 1 Nummer 2 des Kreditwesengesetzes gleichgesetzt. Die in Satz 1 genannte Anforderung wird nach unten angepasst, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass es umsetzbar und glaubhaft ist, dass ein geringerer Betrag ausreicht, um das Marktvertrauen sicherzustellen und sowohl die Fortführung kritischer Funktionen des Instituts oder gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre, die über die Beiträge aus den Abwicklungsfinanzierungsmechanismen nach § 3a Absatz 2 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinausgeht, nachdem die Ausübung der Befugnis nach den §§ 65, 77 Absatz 2 und § 89 oder nachdem die Abwicklung der Abwicklungsgruppe erfolgt ist. Dieser Betrag wird erhöht, wenn die Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde feststellt, dass ein höherer Betrag notwendig ist, um für einen angemessenen Zeitraum, der nicht länger als ein Jahr ist, ein ausreichendes Marktvertrauen aufrechtzuerhalten und sowohl die Fortführung kritischer Funktionen des Instituts oder gruppenangehörigen Unternehmens als auch seinen Zugang zu Finanzmitteln sicherzustellen, ohne dass über die Beiträge aus den Abwicklungsfinanzierungsmechanismen gemäß § 3a Absatz 2 und § 7a Absatz 3 und 4 des Restrukturierungsfondsgesetzes hinaus eine außerordentliche finanzielle Unterstützung aus öffentlichen Mitteln erforderlich wäre.
 
@@ -1934,7 +1942,7 @@ Kommt die Abwicklungsbehörde bei ihrer Beurteilung zu dem Ergebnis, dass sie vo
 
 3. Beträge, die in Form von Steuern zu zahlen wären, wenn die Gewinne nach den Nummern 1 und 2 einbehalten würden.
 
-(6) Der in Absatz 4 genannte Faktor wird wie folgt bestimmt:
+(6) Der in Absatz 4 genannte Faktor wird, vorbehaltlich des § 49 Absatz 3, wie folgt bestimmt:
 
 1. Liegt das von einem Unternehmen vorgehaltene und nicht zur Unterlegung etwaiger Anforderungen nach Artikel 92a der Verordnung (EU) Nr. 575/2013 und nach den §§ 49c und 49d verwendete harte Kernkapital, ausgedrückt als Prozentsatz des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikobetrags, innerhalb des ersten, das heißt des untersten, Quartils der kombinierten Kapitalpufferanforderung, so ist der Faktor 0;
 
@@ -2002,7 +2010,7 @@ Der Zeitplan für die Durchführung der gemäß Absatz 2 Satz 2 vorgeschlagenen 
 
 8. die Errichtung einer EU-Mutterfinanzholding-Gesellschaft oder einer gemischten EU-Mutterfinanzholding-Gesellschaft oder einer EU-Finanzholding-Gesellschaft,
 
-8a. die Vorlage eines Plans, mit dem die Einhaltung der in § 49e oder § 49f genannten Anforderungen, ausgedrückt als ein Prozentsatz des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikobetrags, sowie gegebenenfalls der kombinierten Kapitalpufferanforderung und der in § 49e oder § 49f genannten Anforderungen, ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße nach den Artikeln 429 und 429a der Verordnung (EU) Nr. 575/2013, erreicht werden soll,
+8a. die Vorlage eines Plans, mit dem die Einhaltung der in § 49e oder § 49f genannten Anforderungen, unter Beachtung der Vorgaben des § 49 Absatz 3, ausgedrückt als ein Prozentsatz des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneten Gesamtrisikobetrags, sowie gegebenenfalls der kombinierten Kapitalpufferanforderung und der in § 49e oder § 49f genannten Anforderungen, ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße nach den Artikeln 429 und 429a der Verordnung (EU) Nr. 575/2013, erreicht werden soll,
 
 9. die Begebung berücksichtigungsfähiger Verbindlichkeiten, um die Anforderungen von § 49e oder § 49f zu erfüllen oder die Vornahme alternativer Maßnahmen, um die Mindestanforderungen an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten gemäß § 49e oder § 49f zu erfüllen; zu den alternativen Maßnahmen gehört insbesondere der Versuch, die Bedingungen ausstehender berücksichtigungsfähiger Verbindlichkeiten, Kernkapital oder Ergänzungskapitalinstrumente mit dem Ziel nachzuverhandeln, dass Entscheidungen der Abwicklungsbehörde nach dem maßgeblichen Recht Anerkennung finden,
 
@@ -2046,7 +2054,7 @@ Der Zeitplan für die Durchführung der gemäß Absatz 2 Satz 2 vorgeschlagenen 
 
 Die Auswirkungen auf das Geschäftsmodell der Gruppe sind jeweils zu berücksichtigen. Ist ein Abwicklungshindernis für die Abwicklungsfähigkeit der Gruppe auf eine in § 59 Absatz 2 Satz 2 angeführte Situation eines Unternehmens der Gruppe zurückzuführen, so teilt die für die Gruppenabwicklung zuständige Behörde dem EU-Mutterunternehmen nach Abstimmung mit der für die Abwicklungseinheit zuständigen Abwicklungsbehörde und den für deren Tochterunternehmen zuständigen Abwicklungsbehörden ihre Einschätzung dieses Abwicklungshindernisses mit.
 
-(4) Innerhalb von vier Monaten nach Eingang des Berichts nach Absatz 2 kann das EU-Mutterunternehmen Stellung nehmen und der Abwicklungsbehörde als für die Gruppenabwicklung zuständige Behörde alternative Maßnahmen vorschlagen, mit denen die im Bericht aufgezeigten Abwicklungshindernisse beseitigt oder abgebaut werden können. Beruhen die im Bericht aufgezeigten Abwicklungshindernisse auf Situationen im Sinne des § 59 Absatz 2 Satz 2, so schlägt das EU-Mutterunternehmen der für die Gruppenabwicklung zuständigen Behörde innerhalb von zwei Wochen nach Erhalt einer gemäß Absatz 3 Satz 3 erfolgten Mitteilung mögliche Maßnahmen und einen Zeitplan für deren Durchführung vor, um sicherzustellen, dass das Unternehmen der Gruppe den in § 49e oder § 49f genannten Anforderungen, ausgedrückt als ein nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneter Gesamtrisikobetrag, und gegebenenfalls der kombinierten Kapitalpufferanforderung sowie den in den §§ 49e und 49f genannten Anforderungen, ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße nach den Artikeln 429 und 429a der Verordnung (EU) Nr. 575/2013, nachkommt. Der Zeitplan für die Durchführung der gemäß Satz 2 vorgeschlagenen Maßnahmen trägt den Gründen für das wesentliche Abwicklungshindernis Rechnung. Die Abwicklungsbehörde bewertet nach Anhörung der zuständigen Behörde, ob diese Maßnahmen geeignet sind, das wesentliche Abwicklungshindernis effektiv abzubauen beziehungsweise zu beseitigen. Die für die Gruppenabwicklung zuständige Behörde unterrichtet die konsolidierende Aufsichtsbehörde, die Europäische Bankenaufsichtsbehörde, die für die Tochterunternehmen zuständigen Abwicklungsbehörden sowie die Abwicklungsbehörden der Mitgliedstaaten, in denen sich bedeutende Zweigniederlassungen befinden, soweit die vorgeschlagenen Maßnahmen für die bedeutende Zweigniederlassung von Bedeutung sind, über die vom EU-Mutterunternehmen vorgeschlagenen Maßnahmen.
+(4) Innerhalb von vier Monaten nach Eingang des Berichts nach Absatz 2 kann das EU-Mutterunternehmen Stellung nehmen und der Abwicklungsbehörde als für die Gruppenabwicklung zuständige Behörde alternative Maßnahmen vorschlagen, mit denen die im Bericht aufgezeigten Abwicklungshindernisse beseitigt oder abgebaut werden können. Beruhen die im Bericht aufgezeigten Abwicklungshindernisse auf Situationen im Sinne des § 59 Absatz 2 Satz 2, so schlägt das EU-Mutterunternehmen der für die Gruppenabwicklung zuständigen Behörde innerhalb von zwei Wochen nach Erhalt einer gemäß Absatz 3 Satz 3 erfolgten Mitteilung mögliche Maßnahmen und einen Zeitplan für deren Durchführung vor, um sicherzustellen, dass das Unternehmen der Gruppe den in § 49e oder § 49f genannten Anforderungen, unter Beachtung der Vorgaben des § 49 Absatz 3 ausgedrückt als ein nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 berechneter Gesamtrisikobetrag, und gegebenenfalls der kombinierten Kapitalpufferanforderung sowie den in den §§ 49e und 49f genannten Anforderungen, ausgedrückt als Prozentsatz der Gesamtrisikopositionsmessgröße nach den Artikeln 429 und 429a der Verordnung (EU) Nr. 575/2013, nachkommt. Der Zeitplan für die Durchführung der gemäß Satz 2 vorgeschlagenen Maßnahmen trägt den Gründen für das wesentliche Abwicklungshindernis Rechnung. Die Abwicklungsbehörde bewertet nach Anhörung der zuständigen Behörde, ob diese Maßnahmen geeignet sind, das wesentliche Abwicklungshindernis effektiv abzubauen beziehungsweise zu beseitigen. Die für die Gruppenabwicklung zuständige Behörde unterrichtet die konsolidierende Aufsichtsbehörde, die Europäische Bankenaufsichtsbehörde, die für die Tochterunternehmen zuständigen Abwicklungsbehörden sowie die Abwicklungsbehörden der Mitgliedstaaten, in denen sich bedeutende Zweigniederlassungen befinden, soweit die vorgeschlagenen Maßnahmen für die bedeutende Zweigniederlassung von Bedeutung sind, über die vom EU-Mutterunternehmen vorgeschlagenen Maßnahmen.
 
 (5) Ist die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde, so strebt sie an, nach Anhörung der übrigen Aufsichtsbehörden und der Abwicklungsbehörden der Mitgliedstaaten und Drittstaaten, in denen sich bedeutende Zweigstellen befinden, mit den für die Tochterunternehmen zuständigen Abwicklungsbehörden eine gemeinsame Entscheidung zu treffen bezüglich
 

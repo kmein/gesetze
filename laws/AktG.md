@@ -1429,7 +1429,7 @@ Es können Pauschbeträge festgesetzt werden. Die Rechtsverordnung bedarf nicht 
 
 # § 70 – Berechnung der Aktienbesitzzeit
 
-Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär während eines bestimmten Zeitraums Inhaber der Aktie gewesen ist, so steht dem Eigentum ein Anspruch auf Übereignung gegen ein Kreditinstitut, Finanzdienstleistungsinstitut oder ein nach § 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätiges Unternehmen gleich. Die Eigentumszeit eines Rechtsvorgängers wird dem Aktionär zugerechnet, wenn er die Aktie unentgeltlich, von seinem Treuhänder, als Gesamtrechtsnachfolger, bei Auseinandersetzung einer Gemeinschaft oder bei einer Bestandsübertragung nach § 13 des Versicherungsaufsichtsgesetzes oder § 14 des Gesetzes über Bausparkassen erworben hat.
+Ist die Ausübung von Rechten aus der Aktie davon abhängig, dass der Aktionär während eines bestimmten Zeitraums Inhaber der Aktie gewesen ist, so steht dem Eigentum ein Anspruch auf Übereignung gegen ein Kreditinstitut, ein Finanzdienstleistungsinstitut, ein Wertpapierinstitut oder ein nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 oder Absatz 7 des Kreditwesengesetzes tätiges Unternehmen gleich. Die Eigentumszeit eines Rechtsvorgängers wird dem Aktionär zugerechnet, wenn er die Aktie unentgeltlich, von seinem Treuhänder, als Gesamtrechtsnachfolger, bei Auseinandersetzung einer Gemeinschaft oder bei einer Bestandsübertragung nach § 13 des Versicherungsaufsichtsgesetzes oder § 14 des Gesetzes über Bausparkassen erworben hat.
 
 # § 71 – Erwerb eigener Aktien
 
@@ -1447,7 +1447,7 @@ Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär 
 
 6. auf Grund eines Beschlusses der Hauptversammlung zur Einziehung nach den Vorschriften über die Herabsetzung des Grundkapitals,
 
-7. wenn sie ein Kreditinstitut, Finanzdienstleistungsinstitut oder Finanzunternehmen ist, aufgrund eines Beschlusses der Hauptversammlung zum Zwecke des Wertpapierhandels. Der Beschluß muß bestimmen, daß der Handelsbestand der zu diesem Zweck zu erwerbenden Aktien fünf vom Hundert des Grundkapitals am Ende jeden Tages nicht übersteigen darf; er muß den niedrigsten und höchsten Gegenwert festlegen. Die Ermächtigung darf höchstens fünf Jahre gelten; oder
+7. wenn sie ein Kreditinstitut, ein Finanzdienstleistungsinstitut, ein Wertpapierinstitut oder ein Finanzunternehmen ist, aufgrund eines Beschlusses der Hauptversammlung zum Zwecke des Wertpapierhandels. Der Beschluß muß bestimmen, daß der Handelsbestand der zu diesem Zweck zu erwerbenden Aktien fünf vom Hundert des Grundkapitals am Ende jeden Tages nicht übersteigen darf; er muß den niedrigsten und höchsten Gegenwert festlegen. Die Ermächtigung darf höchstens fünf Jahre gelten; oder
 
 8. aufgrund einer höchstens fünf Jahre geltenden Ermächtigung der Hauptversammlung, die den niedrigsten und höchsten Gegenwert sowie den Anteil am Grundkapital, der zehn vom Hundert nicht übersteigen darf, festlegt. Als Zweck ist der Handel in eigenen Aktien ausgeschlossen. § 53a ist auf Erwerb und Veräußerung anzuwenden. Erwerb und Veräußerung über die Börse genügen dem. Eine andere Veräußerung kann die Hauptversammlung beschließen; § 186 Abs. 3, 4 und § 193 Abs. 2 Nr. 4 sind in diesem Fall entsprechend anzuwenden. Die Hauptversammlung kann den Vorstand ermächtigen, die eigenen Aktien ohne weiteren Hauptversammlungsbeschluß einzuziehen.
 
@@ -1459,7 +1459,7 @@ Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär 
 
 # § 71a – Umgehungsgeschäfte
 
-(1) Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an einen anderen zum Zweck des Erwerbs von Aktien dieser Gesellschaft zum Gegenstand hat, ist nichtig. Dies gilt nicht für Rechtsgeschäfte im Rahmen der laufenden Geschäfte von Kreditinstituten oder Finanzdienstleistungsinstituten sowie für die Gewährung eines Vorschusses oder eines Darlehens oder für die Leistung einer Sicherheit zum Zweck des Erwerbs von Aktien durch Arbeitnehmer der Gesellschaft oder eines mit ihr verbundenen Unternehmens; auch in diesen Fällen ist das Rechtsgeschäft jedoch nichtig, wenn die Gesellschaft im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb nicht bilden könnte, ohne das Grundkapital oder eine nach Gesetz oder Satzung zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Aktionäre verwandt werden darf. Satz 1 gilt zudem nicht für Rechtsgeschäfte bei Bestehen eines Beherrschungs- oder Gewinnabführungsvertrags (§ 291).
+(1) Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an einen anderen zum Zweck des Erwerbs von Aktien dieser Gesellschaft zum Gegenstand hat, ist nichtig. Dies gilt nicht für Rechtsgeschäfte im Rahmen der laufenden Geschäfte von Kreditinstituten, von Finanzdienstleistungsinstituten oder von Wertpapierinstituten sowie für die Gewährung eines Vorschusses oder eines Darlehens oder für die Leistung einer Sicherheit zum Zweck des Erwerbs von Aktien durch Arbeitnehmer der Gesellschaft oder eines mit ihr verbundenen Unternehmens; auch in diesen Fällen ist das Rechtsgeschäft jedoch nichtig, wenn die Gesellschaft im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb nicht bilden könnte, ohne das Grundkapital oder eine nach Gesetz oder Satzung zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Aktionäre verwandt werden darf. Satz 1 gilt zudem nicht für Rechtsgeschäfte bei Bestehen eines Beherrschungs- oder Gewinnabführungsvertrags (§ 291).
 
 (2) Nichtig ist ferner ein Rechtsgeschäft zwischen der Gesellschaft und einem anderen, nach dem dieser berechtigt oder verpflichtet sein soll, Aktien der Gesellschaft für Rechnung der Gesellschaft oder eines abhängigen oder eines in ihrem Mehrheitsbesitz stehenden Unternehmens zu erwerben, soweit der Erwerb durch die Gesellschaft gegen § 71 Abs. 1 oder 2 verstoßen würde.
 
@@ -1481,7 +1481,7 @@ Ein im eigenen Namen, jedoch für Rechnung der Gesellschaft handelnder Dritter d
 
 # § 71e – Inpfandnahme eigener Aktien
 
-(1) Dem Erwerb eigener Aktien nach § 71 Abs. 1 und 2, § 71d steht es gleich, wenn eigene Aktien als Pfand genommen werden. Jedoch darf ein Kreditinstitut oder Finanzdienstleistungsinstitut im Rahmen der laufenden Geschäfte eigene Aktien bis zu dem in § 71 Abs. 2 Satz 1 bestimmten Anteil am Grundkapital als Pfand nehmen. § 71a gilt sinngemäß.
+(1) Dem Erwerb eigener Aktien nach § 71 Abs. 1 und 2, § 71d steht es gleich, wenn eigene Aktien als Pfand genommen werden. Jedoch darf ein Kreditinstitut, ein Finanzdienstleistungsinstitut oder ein Wertpapierinstitut im Rahmen der laufenden Geschäfte eigene Aktien bis zu dem in § 71 Abs. 2 Satz 1 bestimmten Anteil am Grundkapital als Pfand nehmen. § 71a gilt sinngemäß.
 
 (2) Ein Verstoß gegen Absatz 1 macht die Inpfandnahme eigener Aktien unwirksam, wenn auf sie der Ausgabebetrag noch nicht voll geleistet ist. Ein schuldrechtliches Geschäft über die Inpfandnahme eigener Aktien ist nichtig, soweit der Erwerb gegen Absatz 1 verstößt.
 
@@ -2387,7 +2387,7 @@ Abweichend von Satz 2 kann der Versammlungsleiter die Feststellung über die Bes
 
 5. soweit sich der Vorstand durch die Erteilung der Auskunft strafbar machen würde;
 
-6. soweit bei einem Kreditinstitut oder Finanzdienstleistungsinstitut Angaben über angewandte Bilanzierungs- und Bewertungsmethoden sowie vorgenommene Verrechnungen im Jahresabschluß, Lagebericht, Konzernabschluß oder Konzernlagebericht nicht gemacht zu werden brauchen;
+6. soweit bei einem Kreditinstitut, einem Finanzdienstleistungsinstitut oder einem Wertpapierinstitut Angaben über angewandte Bilanzierungs- und Bewertungsmethoden sowie vorgenommene Verrechnungen im Jahresabschluß, Lagebericht, Konzernabschluß oder Konzernlagebericht nicht gemacht zu werden brauchen;
 
 7. soweit die Auskunft auf der Internetseite der Gesellschaft über mindestens sieben Tage vor Beginn und in der Hauptversammlung durchgängig zugänglich ist.
 
@@ -2441,7 +2441,9 @@ c) eine Einrichtung der betrieblichen Altersversorgung gemäß den §§ 232 bis 
 
 a) ein Finanzdienstleistungsinstitut mit Erlaubnis zur Erbringung der Finanzportfolioverwaltung im Sinne des § 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes,
 
-b) eine Kapitalverwaltungsgesellschaft mit Erlaubnis gemäß § 20 Absatz 1 des Kapitalanlagegesetzbuchs;
+b) ein Wertpapierinstitut mit Erlaubnis zur Erbringung der Finanzportfolioverwaltung im Sinne des § 2 Absatz 2 Nummer 9 des Wertpapierinstitutsgesetzes,
+
+c) eine Kapitalverwaltungsgesellschaft mit Erlaubnis gemäß § 20 Absatz 1 des Kapitalanlagegesetzbuchs;
 
 3. Stimmrechtsberater:
 
@@ -3684,7 +3686,7 @@ d) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments 
 
 2. Posten unterbewertet sind und dadurch die Vermögens- und Ertragslage der Gesellschaft vorsätzlich unrichtig wiedergegeben oder verschleiert wird.
 
-Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert, Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert, Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs liegt ein Verstoß gegen die Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für Versicherungsunternehmen nach Maßgabe der für sie geltenden Vorschriften, insbesondere der §§ 341b bis 341h des Handelsgesetzbuchs.
+Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert, Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert, Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Bei Kreditinstituten, Finanzdienstleistungsinstituten oder bei Wertpapierinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs liegt ein Verstoß gegen die Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für Versicherungsunternehmen nach Maßgabe der für sie geltenden Vorschriften, insbesondere der §§ 341b bis 341h des Handelsgesetzbuchs.
 
 (6) Die Nichtigkeit nach Absatz 1 Nr. 1, 3 und 4, Absatz 2, Absatz 3 Nr. 1 und 2, Absatz 4 und 5 kann nicht mehr geltend gemacht werden, wenn seit der Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs in den Fällen des Absatzes 1 Nr. 3 und 4, des Absatzes 2 und des Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen Fällen drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses rechtshängig, so verlängert sich die Frist, bis über die Klage rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig erledigt hat.
 
@@ -3708,7 +3710,7 @@ d) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments 
 
 so hat das Gericht auf Antrag Sonderprüfer zu bestellen. Die Sonderprüfer haben die bemängelten Posten darauf zu prüfen, ob sie nicht unwesentlich unterbewertet sind. Sie haben den Anhang darauf zu prüfen, ob die vorgeschriebenen Angaben nicht oder nicht vollständig gemacht worden sind und der Vorstand in der Hauptversammlung die fehlenden Angaben, obwohl nach ihnen gefragt worden ist, nicht gemacht hat und die Aufnahme der Frage in die Niederschrift verlangt worden ist.
 
-(1a) Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs kann ein Sonderprüfer nach Absatz 1 nicht bestellt werden, soweit die Unterbewertung oder die fehlenden Angaben im Anhang auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
+(1a) Bei Kreditinstituten, Finanzdienstleistungsinstituten oder bei Wertpapierinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs kann ein Sonderprüfer nach Absatz 1 nicht bestellt werden, soweit die Unterbewertung oder die fehlenden Angaben im Anhang auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
 
 (2) Der Antrag muß innerhalb eines Monats nach der Hauptversammlung über den Jahresabschluß gestellt werden. Dies gilt auch, wenn der Jahresabschluß nach § 316 Abs. 3 des Handelsgesetzbuchs erneut zu prüfen ist. Er kann nur von Aktionären gestellt werden, deren Anteile zusammen den Schwellenwert des § 142 Abs. 2 erreichen. Die Antragsteller haben die Aktien bis zur Entscheidung über den Antrag zu hinterlegen oder eine Versicherung des depotführenden Instituts vorzulegen, dass die Aktien so lange nicht veräußert werden, und glaubhaft zu machen, daß sie seit mindestens drei Monaten vor dem Tag der Hauptversammlung Inhaber der Aktien sind. Zur Glaubhaftmachung genügt eine eidesstattliche Versicherung vor einem Notar.
 

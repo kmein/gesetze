@@ -369,7 +369,15 @@ Eine anzunehmende schuldrechtliche Beziehung nach Satz 2 Nummer 2 gilt als Zurve
 
 Eine Betriebsstätte,
 
-1. die Teil eines Kreditinstituts im Sinne des § 1 Absatz 1 des Kreditwesengesetzes oder Teil eines Finanzdienstleistungsinstituts im Sinne des § 1 Absatz 1a des Kreditwesengesetzes ist, oder die Teil eines vergleichbaren Unternehmens im Sinne des ausländischen Bankenaufsichtsrechts ist, und
+1. die Teil ist
+
+a) eines Kreditinstituts im Sinne des § 1 Absatz 1 des Kreditwesengesetzes,
+
+b) eines Finanzdienstleistungsinstituts im Sinne des § 1 Absatz 1a des Kreditwesengesetzes,
+
+c) eines Wertpapierinstituts im Sinne des § 1 Absatz 2 des Wertpapierinstitutsgesetzes oder
+
+d) eines vergleichbaren Unternehmens im Sinne des ausländischen Bankenaufsichtsrechts und
 
 2. die Bankgeschäfte betreibt,
 
@@ -429,7 +437,7 @@ Wendet das ausländische Kreditinstitut die ausländische Regelung an und wird d
 
 (5) § 12 Absatz 6 ist mit der Maßgabe anzuwenden, dass die Höhe des der inländischen Bankbetriebsstätte zuzuordnenden Dotationskapitals auch anzupassen ist, soweit dies das inländische Bankenaufsichtsrecht erfordert. Im Übrigen gilt § 12 sinngemäß.
 
-(6) Die Absätze 1 bis 5 gelten nicht für inländische Betriebsstätten ausländischer Finanzdienstleistungsinstitute, die keinen bankenaufsichtsrechtlichen Eigenkapitalanforderungen unterliegen.
+(6) Die Absätze 1 bis 5 gelten nicht für inländische Betriebsstätten ausländischer Finanzdienstleistungsinstitute oder Wertpapierinstitute, die keinen bankenaufsichtsrechtlichen Eigenkapitalanforderungen unterliegen.
 
 # § 21 – Dotationskapital ausländischer Bankbetriebsstätten inländischer Kreditinstitute, Bankenaufsichtsrecht
 

@@ -207,7 +207,13 @@ e) eine Postanweisung in Papierform im Sinne der Definition des Weltpostvereins;
 
 7. Zahlungsvorgänge, die innerhalb eines Zahlungs- oder Wertpapierabwicklungssystems zwischen Zahlungsausgleichsagenten, zentralen Gegenparteien, Clearingstellen oder Zentralbanken und anderen Teilnehmern des Systems und Zahlungsdienstleistern abgewickelt werden;
 
-8. Zahlungsvorgänge im Zusammenhang mit der Bedienung von Wertpapieranlagen, die von den unter Nummer 7 fallenden Unternehmen oder von Kreditinstituten, Finanzdienstleistungsinstituten oder Kapitalverwaltungsgesellschaften im Rahmen ihrer Erlaubnis nach dem Kreditwesengesetz oder dem Kapitalanlagegesetzbuch durchgeführt werden;
+8. Zahlungsvorgänge im Zusammenhang mit der Bedienung von Wertpapieranlagen, die durchgeführt werden von den unter Nummer 7 fallenden Unternehmen oder von
+
+a) Kreditinstituten und Finanzdienstleistungsinstituten im Rahmen ihrer Erlaubnis nach dem Kreditwesengesetz,
+
+b) Kapitalverwaltungsgesellschaften im Rahmen ihrer Erlaubnis nach dem Kapitalanlagegesetzbuch oder
+
+c) Wertpapierinstituten im Rahmen ihrer Erlaubnis nach dem Wertpapierinstitutsgesetz;
 
 9. Dienste, die von technischen Dienstleistern erbracht werden, die zwar zur Erbringung der Zahlungsdienste beitragen, jedoch zu keiner Zeit in den Besitz der zu übertragenden Gelder gelangen; hierzu zählen die Verarbeitung und Speicherung von Daten, vertrauensbildende Maßnahmen und Dienste zum Schutz der Privatsphäre, Nachrichten- und Instanzenauthentisierung, Bereitstellung von Informationstechnologie- und Kommunikationsnetzen sowie Bereitstellung und Wartung der für Zahlungsdienste genutzten Endgeräte und Einrichtungen; jeweils mit Ausnahme von Zahlungsauslösediensten und Kontoinformationsdiensten;
 
@@ -295,7 +301,7 @@ Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Aufsicht über In
 
 # § 6 – Verschwiegenheitspflicht
 
-Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die nach diesem Gesetz bestellten Aufsichtspersonen und Abwickler und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, Zahlungsdienstleisters oder E-Geld-Emittenten oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten. § 9 des Kreditwesengesetzes gilt entsprechend.
+Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die nach diesem Gesetz bestellten Aufsichtspersonen und Abwickler und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, Zahlungsdienstleisters oder E-Geld-Emittenten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten. § 9 des Kreditwesengesetzes gilt entsprechend.
 
 # § 7 – Einschreiten gegen unerlaubte Zahlungsdienste und E-Geld-Geschäfte
 
@@ -461,7 +467,7 @@ c) bei Zahlungsinstituten, die die Zahlungsdienste im Sinne des § 1 Absatz 1 Sa
 
 d) bei E-Geld-Instituten ein Betrag im Gegenwert von mindestens 350 000 Euro;
 
-ist das Institut zugleich Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, gilt der nach dieser Vorschrift oder nach § 33 Absatz 1 des Kreditwesengesetzes jeweils höhere Betrag;
+ist das Institut zugleich Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes oder Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes, gilt der nach dieser Vorschrift oder nach § 33 Absatz 1 des Kreditwesengesetzes oder nach § 17 Absatz 1 des Wertpapierinstitutsgesetzes jeweils höhere Betrag;
 
 4. Tatsachen die Annahme rechtfertigen, dass der Antragsteller oder der Inhaber einer bedeutenden Beteiligung oder, wenn dieser eine juristische Person ist, auch ein gesetzlicher oder satzungsmäßiger Vertreter, oder, wenn er eine Personenhandelsgesellschaft ist, auch ein Gesellschafter, nicht zuverlässig ist oder aus anderen Gründen nicht den im Interesse einer soliden und umsichtigen Führung des Zahlungsinstituts zu stellenden Ansprüchen genügt;
 
@@ -525,7 +531,7 @@ c) der Antragsteller Tochterunternehmen eines Instituts mit Sitz in einem Dritts
 
 # § 15 – Eigenmittel; Verordnungsermächtigung
 
-(1) Institute müssen im Interesse der Erfüllung ihrer Verpflichtungen über angemessene Eigenmittel verfügen; die Eigenmittel des Instituts dürfen zu keinem Zeitpunkt unter den Betrag des Anfangskapitals nach § 12 Nummer 3 oder unter den Betrag der Eigenmittel gemäß der Berechnung der nach Absatz 3 zu erlassenden Rechtsverordnung sinken, wobei der jeweils höhere Betrag maßgebend ist. Gewährt ein Institut Kredite im Sinne des § 3 Absatz 4, müssen die Eigenmittel jederzeit in einem angemessenen Verhältnis zum Gesamtbetrag der gewährten Kredite stehen. Die Bundesanstalt hat Maßnahmen zu treffen, die erforderlich sind, um in Fällen, in denen ein Institut zu derselben Gruppe gehört wie ein anderes Institut im Sinne dieses Gesetzes, wie ein Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, wie eine Kapitalverwaltungsgesellschaft oder wie ein Versicherungsunternehmen, zu verhindern, dass Bestandteile, die für die Berechnung der Eigenmittel in Frage kommen, mehrfach genutzt werden. Die Bundesanstalt kann auf die Eigenmittel nach Satz 1 einen Korrekturposten festsetzen, wenn die rechnerische Größe der durch das Institut ermittelten Eigenmittel die tatsächliche Eigenmittelbasis nicht angemessen abbildet. Die Festsetzung ist aufzuheben oder für gegenstandslos zu erklären, sobald die Voraussetzungen für die Festsetzung weggefallen sind.
+(1) Institute müssen im Interesse der Erfüllung ihrer Verpflichtungen über angemessene Eigenmittel verfügen; die Eigenmittel des Instituts dürfen zu keinem Zeitpunkt unter den Betrag des Anfangskapitals nach § 12 Nummer 3 oder unter den Betrag der Eigenmittel gemäß der Berechnung der nach Absatz 3 zu erlassenden Rechtsverordnung sinken, wobei der jeweils höhere Betrag maßgebend ist. Gewährt ein Institut Kredite im Sinne des § 3 Absatz 4, müssen die Eigenmittel jederzeit in einem angemessenen Verhältnis zum Gesamtbetrag der gewährten Kredite stehen. Die Bundesanstalt hat Maßnahmen zu treffen, die erforderlich sind, um in Fällen, in denen ein Institut zu derselben Gruppe gehört wie ein anderes Institut im Sinne dieses Gesetzes, wie ein Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, wie ein Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes, wie eine Kapitalverwaltungsgesellschaft oder wie ein Versicherungsunternehmen, zu verhindern, dass Bestandteile, die für die Berechnung der Eigenmittel in Frage kommen, mehrfach genutzt werden. Die Bundesanstalt kann auf die Eigenmittel nach Satz 1 einen Korrekturposten festsetzen, wenn die rechnerische Größe der durch das Institut ermittelten Eigenmittel die tatsächliche Eigenmittelbasis nicht angemessen abbildet. Die Festsetzung ist aufzuheben oder für gegenstandslos zu erklären, sobald die Voraussetzungen für die Festsetzung weggefallen sind.
 
 (2) Die Institute haben der Bundesanstalt und der Deutschen Bundesbank vierteljährlich die für die Überprüfung der angemessenen Eigenmittelausstattung erforderlichen Angaben einzureichen. Die Rechtsverordnung nach Absatz 3 kann in besonderen Fällen einen anderen Meldezeitraum vorsehen. Die Bundesanstalt kann bei der Beurteilung der Angemessenheit der Eigenmittel auf der Grundlage einer Bewertung der Geschäftsorganisation, des Risikomanagements, der Verlustdatenbank im Sinne des Artikels 324 der Verordnung (EU) Nr. 575/2013, der internen Kontrollmechanismen sowie der tatsächlichen Risiken des Instituts vorschreiben, dass die Eigenmittelunterlegung einem Betrag entsprechen muss, der um bis zu 20 Prozent von den Solvabilitätsgrundsätzen abweicht.
 
@@ -541,7 +547,7 @@ c) der Antragsteller Tochterunternehmen eines Instituts mit Sitz in einem Dritts
 
 Das Bundesministerium der Finanzen kann die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
-(4) Institute, die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes haben, müssen neben den Eigenmittelanforderungen nach diesem Gesetz auch die Eigenmittelanforderungen nach den Artikeln 24 bis 386 der Verordnung (EU) Nr. 575/2013 oder nach § 1a des Kreditwesengesetzes in Verbindung mit den Artikeln 24 bis 386 der Verordnung (EU) Nr. 575/2013 ermitteln, sofern sie nicht von der Anwendung dieser Artikel ausgenommen sind. Sofern die Anforderungen nach diesem Gesetz höher sind, sind diese mit Eigenmitteln nach Absatz 1 abzudecken.
+(4) Institute, die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes haben, müssen neben den Eigenmittelanforderungen nach diesem Gesetz auch die Eigenmittelanforderungen nach den Artikeln 24 bis 386 der Verordnung (EU) Nr. 575/2013 oder nach § 1a des Kreditwesengesetzes in Verbindung mit den Artikeln 24 bis 386 der Verordnung (EU) Nr. 575/2013 ermitteln, sofern sie nicht von der Anwendung dieser Artikel ausgenommen sind. Institute, die eine Erlaubnis nach § 17 des Wertpapierinstitutsgesetzes haben, müssen neben den Eigenmittelanforderungen nach diesem Gesetz die für Wertpapierinstitute geltenden Eigenmittelanforderungen einhalten. Sofern die Anforderungen nach diesem Gesetz höher sind, sind diese mit Eigenmitteln nach Absatz 1 abzudecken.
 
 (5) Sofern die Voraussetzungen für eine Freistellung nach § 2a des Kreditwesengesetzes in Verbindung mit Artikel 7 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 gegeben sind, kann die Bundesanstalt davon absehen, die Absätze 1, 2 und 4 auf Institute anzuwenden, die in die konsolidierte Beaufsichtigung des übergeordneten Instituts einbezogen sind.
 
@@ -767,7 +773,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 8. das Entstehen, die Änderung oder die Beendigung einer engen Verbindung im Sinne des Artikels 4 Absatz 1 Nummer 38 der Verordnung (EU) Nr. 575/2013 zu einer anderen natürlichen Person oder einem anderen Unternehmen;
 
-9. die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes oder einem Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes zu vereinigen;
+9. die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes oder einem Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes zu vereinigen;
 
 10. die Absicht einer Auslagerung sowie den Vollzug einer Auslagerung.
 

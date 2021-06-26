@@ -344,7 +344,7 @@ c) Leistungen aus der kommunalen Unfallfürsorge;
 
 # § 4 – Feststellung der Aufsichtspflicht
 
-Ob ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. Die Entscheidung bindet die Verwaltungsbehörden. Eine vor dem 1. April 1931 ergangene Entscheidung eines Gerichts oder einer Verwaltungsbehörde steht einer erneuten Entscheidung der Aufsichtsbehörde nicht entgegen.
+Dass ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. Die Entscheidung bindet die Verwaltungsbehörden. Eine vor dem 1. April 1931 ergangene Entscheidung eines Gerichts oder einer Verwaltungsbehörde steht einer erneuten Entscheidung der Aufsichtsbehörde nicht entgegen.
 
 (+++ § 4: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 1 +++)
 
@@ -374,7 +374,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 2. Ausgliederung: eine Vereinbarung jeglicher Form zwischen einem Versicherungsunternehmen und einem Dienstleister, auf Grund derer der Dienstleister direkt oder durch weitere Ausgliederung einen Prozess, eine Dienstleistung oder eine Tätigkeit erbringt, die ansonsten vom Versicherungsunternehmen selbst erbracht werden würde; bei dem Dienstleister kann es sich um ein beaufsichtigtes oder nicht beaufsichtigtes Unternehmen handeln.
 
-3. Bedeutende Beteiligung: das direkte oder indirekte Halten von mindestens 10 Prozent des Kapitals oder der Stimmrechte eines Unternehmens oder eine andere Möglichkeit der Wahrnehmung eines maßgeblichen Einflusses auf die Geschäftsführung dieses Unternehmens; bei der Berechnung des Anteils der Stimmrechte sind § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 sowie § 36 des Wertpapierhandelsgesetzes entsprechend anzuwenden; unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Wertpapierfirmen oder Kreditinstitute im Rahmen des Emissionsgeschäfts nach § 1 Absatz 1 Satz 2 Nummer 10 des Kreditwesengesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder sie werden nicht anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
+3. Bedeutende Beteiligung: das direkte oder indirekte Halten von mindestens 10 Prozent des Kapitals oder der Stimmrechte eines Unternehmens oder eine andere Möglichkeit der Wahrnehmung eines maßgeblichen Einflusses auf die Geschäftsführung dieses Unternehmens; bei der Berechnung des Anteils der Stimmrechte sind § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 sowie § 36 des Wertpapierhandelsgesetzes entsprechend anzuwenden; unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Kreditinstitute oder Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach § 1 Absatz 1 Satz 2 Nummer 10 des Kreditwesengesetzes oder nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder sie werden nicht anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
 
 4. Beteiligtes Unternehmen: ein Mutterunternehmen oder ein anderes Unternehmen, das eine Beteiligung hält oder mit einem anderen Unternehmen durch eine in § 271 Absatz 1 des Handelsgesetzbuchs beschriebene Beziehung verbunden ist; als Beteiligung gilt das unmittelbare oder mittelbare Halten von mindestens 20 Prozent der Stimmrechte oder des Kapitals an einem Unternehmen; für die Zwecke der Aufsicht nach den §§ 245 bis 287 gilt als Beteiligung auch das unmittelbare oder mittelbare Halten von Stimmrechten oder Kapital an einem Unternehmen, auf das nach Ansicht der Aufsichtsbehörden ein maßgeblicher Einfluss tatsächlich ausgeübt wird; als beteiligtes Unternehmen gilt für die Zwecke der Aufsicht nach den §§ 245 bis 287 auch ein Unternehmen, das Bestandteil einer horizontalen Unternehmensgruppe im Sinne der Nummer 15 ist.
 
@@ -569,9 +569,9 @@ b) die allgemeinen Versicherungsbedingungen sowie
 
 (5) Außer bei Anträgen auf Erteilung der Erlaubnis zum Betrieb von Versicherungsgeschäften als Sterbekasse oder als eine der in § 1 Absatz 4 genannten Einrichtungen hat die Aufsichtsbehörde vor Erteilung der Erlaubnis die zuständigen Stellen der anderen Mitglied- oder Vertragsstaaten anzuhören, wenn das Unternehmen
 
-1. Tochter- oder Schwesterunternehmen eines Versicherungsunternehmens, eines CRR-Kreditinstituts im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, eines E-Geld-Instituts im Sinne des § 1 Absatz 3d Satz 6 des Kreditwesengesetzes oder eines Wertpapierhandelsunternehmens im Sinne des § 1 Absatz 3d Satz 4 des Kreditwesengesetzes ist und wenn das Mutterunternehmen oder das andere Schwesterunternehmen bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen ist oder
+1. Tochter- oder Schwesterunternehmen eines Versicherungsunternehmens, eines CRR-Kreditinstituts im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, eines E-Geld-Instituts im Sinne des § 1 Absatz 3d Satz 3 des Kreditwesengesetzes oder eines Wertpapierinstituts im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes ist und wenn das Mutterunternehmen oder das andere Schwesterunternehmen bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen ist oder
 
-2. durch dieselben natürlichen Personen oder Unternehmen kontrolliert wird, die ein Versicherungsunternehmen, CRR-Kreditinstitut, E-Geld-Institut oder Wertpapierhandelsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat kontrollieren.
+2. durch dieselben natürlichen Personen oder Unternehmen kontrolliert wird, die ein Versicherungsunternehmen, CRR-Kreditinstitut, E-Geld-Institut oder ein Wertpapierinstitut mit Sitz in einem anderen Mitglied- oder Vertragsstaat kontrollieren.
 
 Zuständig sind die Behörden der Mitglied- oder Vertragsstaaten, in denen das Mutterunternehmen, das Schwesterunternehmen oder das kontrollierende Unternehmen seine Hauptniederlassung hat oder die kontrollierenden Personen ihren gewöhnlichen Aufenthalt haben. Schwesterunternehmen im Sinne des Satzes 1 Nummer 1 sind Unternehmen, die ein gemeinsames Mutterunternehmen haben. Die Anhörung erstreckt sich insbesondere auf die Angaben, die für die Beurteilung der Zuverlässigkeit und fachlichen Eignung der in § 24 genannten Personen sowie für die Beurteilung der Zuverlässigkeit der Inhaber einer bedeutenden Beteiligung an Unternehmen derselben Gruppe im Sinne des Satzes 1 mit Sitz in dem betreffenden Mitglied- oder Vertragsstaat erforderlich sind sowie auf die Angaben zu den Eigenmitteln.
 
@@ -772,11 +772,11 @@ Sofern Tatsachen Anlass zu Zweifeln geben, dass der Inhaber einer bedeutenden Be
 
 (1) Bei der Beurteilung des Erwerbs arbeitet die Aufsichtsbehörde mit den zuständigen Behörden in den anderen Mitglied- oder Vertragsstaaten eng zusammen, wenn der Anzeigepflichtige
 
-1. ein CRR-Kreditinstitut, ein E-Geld-Institut oder ein Wertpapierhandelsunternehmen, ein Versicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG ist, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist,
+1. ein CRR-Kreditinstitut, ein E-Geld-Institut oder ein Wertpapierinstitut, ein Versicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG ist, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist,
 
-2. ein Mutterunternehmen eines CRR-Kreditinstituts, eines E-Geld-Instituts oder eines Wertpapierhandelsunternehmens, eines Versicherungsunternehmens oder einer Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG ist, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist, oder
+2. ein Mutterunternehmen eines CRR-Kreditinstituts, eines E-Geld-Instituts oder eines Wertpapierinstituts, eines Versicherungsunternehmens oder einer Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG ist, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist, oder
 
-3. eine natürliche oder juristische Person ist, die ein CRR-Kreditinstitut, ein E-Geld-Institut oder ein Wertpapierhandelsunternehmen, ein Versicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG kontrolliert, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist.
+3. eine natürliche oder juristische Person ist, die ein CRR-Kreditinstitut, ein E-Geld-Institut oder ein Wertpapierinstitut, ein Versicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG kontrolliert, das oder die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist.
 
 (2) Die zuständigen Behörden tauschen untereinander unverzüglich die Informationen aus, die für die Beurteilung wesentlich oder relevant sind. Dabei teilen die zuständigen Behörden einander alle einschlägigen Informationen auf Anfrage mit und übermitteln alle wesentlichen Informationen von sich aus. In der Entscheidung der zuständigen Behörde, die das Versicherungsunternehmen zugelassen hat, an dem der Erwerb beabsichtigt wird, sind alle Bemerkungen oder Vorbehalte seitens der für den interessierten Erwerber zuständigen Behörde zu vermerken.
 
@@ -3483,7 +3483,7 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 a) Kreditinstituten im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 bis 10 des Kreditwesengesetzes,
 
-b) Finanzdienstleistungsinstituten im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 des Kreditwesengesetzes,
+b) Wertpapierinstituten im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes,
 
 c) Finanzunternehmen im Sinne des § 1 Absatz 3 des Kreditwesengesetzes,
 
@@ -4627,7 +4627,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 # § 259 – Verbundene Kreditinstitute, Wertpapierfirmen und Finanzinstitute
 
-(1) Bei der Berechnung der Gruppensolvabilität eines Versicherungsunternehmens, das an einem Kreditinstitut, einem Wertpapierhandelsunternehmen oder einem Finanzinstitut beteiligt ist, können die beteiligten Versicherungsunternehmen die in Anhang I der Richtlinie 2002/87/EG festgelegte Methode 1 oder 2 entsprechend anwenden. Die Konsolidierungsmethode darf nur angewendet werden, wenn das integrierte Management und die interne Kontrolle in Bezug auf die in den Konsolidierungskreis einbezogenen Unternehmen nach Auffassung der Gruppenaufsichtsbehörde angemessen sind. Die gewählte Methode ist auf Dauer einheitlich anzuwenden.
+(1) Bei der Berechnung der Gruppensolvabilität eines Versicherungsunternehmens, das an einem Kreditinstitut, einem Wertpapierinstitut oder einem Finanzinstitut beteiligt ist, können die beteiligten Versicherungsunternehmen die in Anhang I der Richtlinie 2002/87/EG festgelegte Methode 1 oder 2 entsprechend anwenden. Die Konsolidierungsmethode darf nur angewendet werden, wenn das integrierte Management und die interne Kontrolle in Bezug auf die in den Konsolidierungskreis einbezogenen Unternehmen nach Auffassung der Gruppenaufsichtsbehörde angemessen sind. Die gewählte Methode ist auf Dauer einheitlich anzuwenden.
 
 (2) Die Aufsichtsbehörde kann anordnen, dass eine in Absatz 1 genannte Beteiligung von den Eigenmitteln, die auf die Gruppensolvabilität des beteiligten Unternehmens angerechnet werden können, abgezogen wird, wenn sie Gruppenaufsichtsbehörde ist. Das beteiligte Unternehmen kann dies beantragen.
 
@@ -4998,7 +4998,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 # § 284 – Zusammenarbeit bei der Gruppenaufsicht
 
-(1) Die für die Beaufsichtigung der Versicherungsunternehmen einer Gruppe zuständigen Aufsichtsbehörden und die Gruppenaufsichtsbehörde arbeiten eng zusammen, insbesondere in Fällen, in denen sich ein Versicherungsunternehmen in finanziellen Schwierigkeiten befindet. Ist ein Versicherungsunternehmen direkt oder indirekt mit einem Kreditinstitut oder einem Wertpapierhandelsunternehmen verbunden oder haben diese Unternehmen ein gemeinsames beteiligtes Unternehmen, so arbeiten die Aufsichtsbehörden im Sinne des Satzes 1 und die für die Beaufsichtigung dieser anderen Unternehmen zuständigen Behörden eng zusammen.
+(1) Die für die Beaufsichtigung der Versicherungsunternehmen einer Gruppe zuständigen Aufsichtsbehörden und die Gruppenaufsichtsbehörde arbeiten eng zusammen, insbesondere in Fällen, in denen sich ein Versicherungsunternehmen in finanziellen Schwierigkeiten befindet. Ist ein Versicherungsunternehmen direkt oder indirekt mit einem Kreditinstitut oder einem Wertpapierinstitut verbunden oder haben diese Unternehmen ein gemeinsames beteiligtes Unternehmen, so arbeiten die Aufsichtsbehörden im Sinne des Satzes 1 und die für die Beaufsichtigung dieser anderen Unternehmen zuständigen Behörden eng zusammen.
 
 (2) Die Aufsichtsbehörden übermitteln sich untereinander unverzüglich alle Informationen, die ihnen die Erfüllung ihrer Aufsichtspflichten im Rahmen der Richtlinie 2009/138/EG erleichtern. Die Gruppenaufsichtsbehörde übermittelt den betroffenen Aufsichtsbehörden und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung alle Informationen gemäß § 11 Absatz 2, den §§ 40, 47 Nummer 6 und § 282 Absatz 2 hinsichtlich der Gruppe, insbesondere hinsichtlich der Rechts-, Governance- und Organisationsstruktur der Gruppe.
 
@@ -5502,7 +5502,7 @@ Die Aufsichtsbehörde kann nach Anhörung der Spitzenverbände der Unternehmen i
 
 1. Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige Gerichte,
 
-2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Versicherungsunternehmen, Versicherungsvermittlern, Kreditinstituten, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
+2. kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Versicherungsunternehmen, Versicherungsvermittlern, Kreditinstituten, Wertpapierinstituten, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
 
 3. mit der Liquidation oder Insolvenz eines Versicherungsunternehmens, eines Kreditinstituts, eines Finanzdienstleistungsinstituts, einer Investmentgesellschaft oder eines anderen Finanzinstituts befasste Stellen,
 

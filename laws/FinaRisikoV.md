@@ -38,7 +38,7 @@ Diese Verordnung gilt für alle Institute im Sinne des § 1 Absatz 1b des Kredit
 
 Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinformationen ergeben sich aus den §§ 4 bis 6. Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) kann auf Antrag eines Instituts oder eines übergeordneten Unternehmens inhaltliche Abweichungen von den einzureichenden Formularen zulassen, wenn dies auf Grund der besonderen Geschäftsstruktur angemessen ist.
 
-(2) Finanzdienstleistungsinstitute, die die Drittstaateneinlagenvermittlung im Sinne des § 1 Absatz 1a Satz 2 Nummer 5 des Kreditwesengesetzes oder das Sortengeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 7 des Kreditwesengesetzes erbringen, haben darüber hinaus ergänzende Informationen nach § 7 einzureichen. Dies gilt auch für Finanzdienstleistungsinstitute, die die Abschlussvermittlung im Sinne des § 1 Absatz 1a Satz 2 Nummer 2 des Kreditwesengesetzes, die Finanzportfolioverwaltung im Sinne des § 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes oder die Anlageverwaltung im Sinne des § 1 Absatz 1a Satz 2 Nummer 11 des Kreditwesengesetzes erbringen und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung handeln.
+(2) Finanzdienstleistungsinstitute, die die Drittstaateneinlagenvermittlung im Sinne des § 1 Absatz 1a Satz 2 Nummer 5 des Kreditwesengesetzes oder das Sortengeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 7 des Kreditwesengesetzes erbringen, haben darüber hinaus ergänzende Informationen nach § 7 einzureichen.
 
 # § 3 – Termin und Verfahren zur Einreichung
 
@@ -74,7 +74,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 # § 5 – Finanzinformationen von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken
 
-(1) Finanzdienstleistungsinstitute und Wertpapierhandelsbanken haben die folgenden Finanzinformationen einzureichen und hierfür die folgenden Formulare aus den Anlagen der Verordnung zu verwenden:
+(1) Finanzdienstleistungsinstitute haben die folgenden Finanzinformationen einzureichen und hierfür die folgenden Formulare aus den Anlagen der Verordnung zu verwenden:
 
 1. Gewinn- und Verlustrechnung – GVFDI (Anlage 4) und
 
@@ -126,7 +126,7 @@ cc) über 15 000 Euro.
 
 Sorten im Sinne des Satzes 1 sind ausländische Banknoten und Münzen, die gesetzliche Zahlungsmittel sind, sowie Reiseschecks in ausländischer Währung.
 
-(3) Finanzdienstleistungsinstitute nach § 2 Absatz 2 Satz 2 haben ergänzend zu den Finanzinformationen Angaben zu ihrer Eigenmittel-Kosten-Relation sowie ihrer Kapitalquote unter Verwendung des Formulars Meldung der Eigenmittel – EKRQU (Anlage 13a) einzureichen.
+(3) (weggefallen)
 
 # § 8 – Art und Umfang der Risikotragfähigkeitsinformationen
 

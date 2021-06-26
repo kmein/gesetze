@@ -7,17 +7,7 @@ Auf Grund des § 11 Abs. 1 Satz 2 des Kreditwesengesetzes, der durch Artikel 1 N
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung ist anzuwenden auf
-
-1. Kreditinstitute, auf die die Vorschriften der Artikel 411 bis 428 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt durch die Verordnung (EU) 2016/1014 (ABl. L 171 vom 29.6.2016, S. 153) geändert worden ist, nicht anzuwenden sind, und
-
-2. Finanzdienstleistungsinstitute, die
-
-a) Eigenhandel betreiben oder
-
-b) als Anlagevermittler, Abschlussvermittler oder Finanzportfolioverwalter befugt sind, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen oder auf eigene Rechnung mit Finanzinstrumenten zu handeln.
-
-(2) CRR-Wertpapierfirmen, die die Vorschriften der Artikel 411 bis 428 der Verordnung (EU) Nr. 575/2013 auf Gruppenebene konsolidiert oder teilkonsolidiert einhalten müssen, können durch die Bundesanstalt auf Antrag von den Anforderungen dieser Verordnung befreit werden.
+Diese Verordnung ist anzuwenden auf diejenigen Kreditinstitute, auf die die Vorschriften des Teils 6 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom 2.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist, nicht anzuwenden sind.
 
 # § 2 – Ausreichende Liquidität
 

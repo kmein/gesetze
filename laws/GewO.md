@@ -2020,7 +2020,9 @@ Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes o
 
 3. Finanzdienstleistungsinstitute in Bezug auf Vermittlungstätigkeiten oder Anlageberatung, für die ihnen eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde oder für die eine Erlaubnis nach § 64e Absatz 2, § 64i Absatz 1 oder § 64n des Kreditwesengesetzes als erteilt gilt,
 
-4. Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßgabe des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes.
+4. Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßgabe des § 2 Absatz 10 Satz 1 des Kreditwesengesetzes,
+
+5. Wertpapierinstitute in Bezug auf Vermittlungstätigkeiten oder Anlageberatung, soweit ihnen eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde oder eine Erlaubnis nach § 86 Absatz 1 des Wertpapierinstitutsgesetzes als erteilt gilt.
 
 (4) Gewerbetreibende nach Absatz 1 dürfen direkt bei der Beratung und Vermittlung mitwirkende Personen nur beschäftigen, wenn sie sicherstellen, dass diese Personen über einen Sachkundenachweis nach Absatz 2 Nummer 4 verfügen und geprüft haben, ob sie zuverlässig sind. Die Beschäftigung einer direkt bei der Beratung und Vermittlung mitwirkenden Person kann dem Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme rechtfertigen, dass die Person die für ihre Tätigkeit erforderliche Sachkunde oder Zuverlässigkeit nicht besitzt.
 
@@ -2272,7 +2274,7 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 (3) Die Landesregierungen können durch Rechtsverordnung für die in Absatz 1 genannten Gewerbezweige bestimmen, in welcher Weise die Gewerbetreibenden ihre Bücher zu führen und dabei Daten über einzelne Geschäftsvorgänge, Geschäftspartner, Kunden und betroffene Dritte aufzuzeichnen haben.
 
-(4) Absatz 1 Satz 1 Nr. 2 gilt nicht für Kreditinstitute und Finanzdienstleistungsinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes erteilt wurde, sowie für Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union, die nach § 53b Abs. 1 Satz 1 oder Abs. 7 des Kreditwesengesetzes im Inland tätig sind, wenn die Erbringung von Handelsauskünften durch die Zulassung der zuständigen Behörden des Herkunftsmitgliedstaats abgedeckt ist.
+(4) Absatz 1 Satz 1 Nr. 2 gilt nicht für Kreditinstitute und Finanzdienstleistungsinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes erteilt wurde, für Wertpapierinstitute, für die eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde, sowie für Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union, die nach § 53b Abs. 1 Satz 1 oder Abs. 7 des Kreditwesengesetzes im Inland tätig sind, wenn die Erbringung von Handelsauskünften durch die Zulassung der zuständigen Behörden des Herkunftsmitgliedstaats abgedeckt ist.
 
 (+++ § 38 Abs 1 u. 2: Zur Nichtanwendung vgl. § 4 +++)
 

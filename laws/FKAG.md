@@ -35,11 +35,33 @@ In dem Fall, dass an der Spitze der Gruppe oder Untergruppe kein beaufsichtigtes
 
 3. Versicherungs-Zweckgesellschaften im Sinne des Versicherungsaufsichtsgesetzes,
 
-4. Wertpapierhandelsunternehmen im Sinne des Wertpapierhandelsgesetzes,
+4. Wertpapierinstitute im Sinne des Wertpapierinstitutsgesetzes,
 
 5. Verwaltungsgesellschaften im Sinne des § 1 Absatz 14 des Kapitalanlagegesetzbuchs.
 
-(2) Branchenvorschriften im Sinne dieses Gesetzes sind die Rechtsvorschriften der Europäischen Union im Bereich der Finanzaufsicht, insbesondere die Richtlinien 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates, Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338), Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1), Richtlinie, 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) und 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II), die darauf beruhenden inländischen Gesetze, einschließlich der dazu ergangenen Rechtsverordnungen sowie der sonstigen im Bereich der Finanzaufsicht erlassenen Rechts- und Verwaltungsvorschriften.
+(2) Branchenvorschriften im Sinne dieses Gesetzes sind die Rechtsvorschriften der Europäischen Union im Bereich der Finanzdienstleistungsaufsicht, insbesondere die
+
+1. Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32), die zuletzt durch die Verordnung (EU) 2017/2402 geändert worden ist, in der jeweils geltenden Fassung,
+
+2. Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1), die zuletzt durch die Richtlinie (EU) 2018/843 geändert worden ist, in der jeweils geltenden Fassung,
+
+3. Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1), die zuletzt durch die Verordnung (EU) 2017/2402 geändert worden ist, in der jeweils geltenden Fassung,
+
+4. Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 26.6.2013, S. 338), die zuletzt durch die Richtlinie (EU) 2018/843 geändert worden ist, in der jeweils geltenden Fassung,
+
+5. Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/876 geändert worden ist, in der jeweils geltenden Fassung,
+
+6. Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU; Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338), die zuletzt durch die Verordnung (EU) 2019/2115 geändert worden ist, in der jeweils geltenden Fassung,
+
+7. Verordnung (EU) 2019/2033 des Europäischen Parlaments und des Rates vom 27. November 2019 über Aufsichtsanforderungen an Wertpapierfirmen und zur Änderung der Verordnungen (EU) Nr. 1093/2010, (EU) Nr. 575/2013, (EU) Nr. 600/2014 und (EU) Nr. 806/2014 (ABl. L 314 vom 5.12.2019, S. 1) in der jeweils geltenden Fassung,
+
+8. Richtlinie (EU) 2019/2034 des Europäischen Parlaments und des Rates vom 27. November 2019 über die Beaufsichtigung von Wertpapierfirmen und zur Änderung der Richtlinien 2002/87/EG, 2009/65/EG, 2011/61/EU, 2013/36/EU, 2014/59/EU und 2014/65/EU (ABl. L 314 vom 5.12.2019, S. 64) in der jeweils geltenden Fassung,
+
+9. aufgrund dieser Richtlinien und Verordnungen erlassenen Delegierten Rechtsakte und Durchführungsrechtsakte,
+
+10. Gesetze und Rechtsverordnungen, die diese Richtlinien, Verordnungen oder sonstigen Rechtsakte der Europäischen Union umsetzen sowie
+
+11. sonstigen im Bereich der Finanzdienstleistungsaufsicht zur Umsetzung oder Konkretisierung erlassenen Rechts- und Verwaltungsvorschriften.
 
 (3) Finanzbranche sind die folgenden Branchen:
 

@@ -45,7 +45,7 @@ Unvollständigkeiten, Mängeln und Widersprüchen in Bezug auf die vom Agenten, 
 
 # § 3 – Ausnahme für beaufsichtigte Agenten
 
-Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum beaufsichtigtes Institut im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes oder im Sinne des § 1 Absatz 1b des Kreditwesengesetzes ist.
+Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum beaufsichtigtes Institut im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes oder im Sinne des § 1 Absatz 1b des Kreditwesengesetzes oder Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes ist.
 
 # § 4 – Inkrafttreten
 

@@ -391,7 +391,7 @@ Sichert ein Kreditderivat nur einen Teil des Kreditrisikos des zugeordneten Verm
 
 # § 25 – Abschluss und Bewertung eines OTC-Derivates
 
-(1) Derivate, die nicht zum Handel an einer Börse zugelassen oder in einen anderen organisierten Markt einbezogen sind (OTC-Derivate), darf die Kapitalverwaltungsgesellschaft nur mit geeigneten Kreditinstituten oder Finanzdienstleistungsinstituten auf der Grundlage standardisierter Rahmenverträge abschließen.
+(1) Derivate, die nicht zum Handel an einer Börse zugelassen oder in einen anderen organisierten Markt einbezogen sind (OTC-Derivate), darf die Kapitalverwaltungsgesellschaft nur mit geeigneten Kreditinstituten, Wertpapierinstituten oder Finanzdienstleistungsinstituten auf der Grundlage standardisierter Rahmenverträge abschließen.
 
 (2) Die Kapitalverwaltungsgesellschaft hat eine transparente und faire Bewertung der OTC-Derivate auf täglicher Basis sicherzustellen. Die Bewertung muss den Risiken der OTC-Derivate sowie der Art und Komplexität der OTC-Derivate Rechnung tragen und die Vorgaben der §§ 24 und 26 der Kapitalanlage-Rechnungslegungs- und Bewertungsverordnung erfüllen. Sehen Verfahren für die Bewertung von OTC-Derivaten vor, dass Dritte bestimmte Aufgaben durchführen, müssen die Anforderungen des § 36 des Kapitalanlagegesetzbuches erfüllt werden. Die Risikocontrollingfunktion nach § 29 Absatz 1 des Kapitalanlagegesetzbuches ist bei der Bewertung von OTC-Derivaten angemessen zu beteiligen. Die OTC-Derivate müssen jederzeit zu einem angemessenen Zeitwert veräußert, liquidiert oder durch ein Gegengeschäft glattgestellt werden können.
 

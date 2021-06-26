@@ -529,7 +529,9 @@ Die Verschwiegenheitspflicht der Beschäftigten der Bundesanstalt in Bezug auf T
 
 1a. durch eine auf Grund des § 4 Nummer 3 der KfW-Verordnung in Verbindung mit § 44 Absatz 1 oder Absatz 2 des Kreditwesengesetzes vorgenommene Prüfung,
 
-1b. durch vor Ort im Auftrag der Europäischen Zentralbank nach Artikel 12 der Verordnung (EU) Nr. 1024/13 vorgenommene Prüfungshandlungen, soweit diese Kosten nicht durch die Europäische Zentralbank abgerechnet werden,
+1b. durch eine auf Grund des § 5 Absatz 4 Satz 2 bis 5 oder Absatz 5 Satz 2 bis 4 des Wertpapierinstitutsgesetzes vorgenommene Prüfung,
+
+1c. durch vor Ort im Auftrag der Europäischen Zentralbank nach Artikel 12 der Verordnung (EU) Nr. 1024/13 vorgenommene Prüfungshandlungen, soweit diese Kosten nicht durch die Europäische Zentralbank abgerechnet werden,
 
 2. durch eine auf Grund des § 88 Absatz 1 oder § 89 Absatz 5 des Wertpapierhandelsgesetzes vorgenommene Prüfung,
 
@@ -571,7 +573,7 @@ des § 39 Absatz 3 oder 4, jeweils in Verbindung mit § 8 Absatz 2, 3 oder 4 ode
 
 11. durch Maßnahmen nach dem Sanierungs- und Abwicklungsgesetz, dem Restrukturierungsfondsgesetz oder der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1, L 101 vom 18.4.2015, S. 62)
 
-sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 von dem betroffenen Unternehmen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Abs. 4 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen und in den Fällen der Nummer 8 von den betroffenen Einrichtungen der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter.
+sind in den Fällen der Nummern 1, 1b, 1c, 2, 4, 7 und 9 bis 11 von dem betroffenen Unternehmen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Abs. 4 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen und in den Fällen der Nummer 8 von den betroffenen Einrichtungen der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter.
 
 (2) Die Bundesanstalt hat der Deutschen Bundesbank und den anderen Behörden, die im Rahmen des Absatzes 1 für sie oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, den Personal- und Sachaufwand zu ersetzen. Die Höhe des Erstattungsbetrags, insbesondere die Stundensätze für den Einsatz von Mitarbeitern dieser Behörden, bestimmen sich nach Erstattungsrichtlinien, die das Bundesministerium erlässt.
 
@@ -591,7 +593,7 @@ sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 von dem betroffenen 
 
 # § 16 – Umlage
 
-Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die Kreditinstitute, Finanzdienstleistungs-, Zahlungs- und E-Geld-Institute, die Kreditanstalt für Wiederaufbau, die Kapitalverwaltungsgesellschaften, extern verwalteten OGAW-Investmentaktiengesellschaften, Versicherungsunternehmen, Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind, sowie die Abwicklungsanstalten nach Maßgabe der §§ 16a bis 16r umzulegen.
+Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die Kredit- und Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungs- und E-Geld-Institute, die Kreditanstalt für Wiederaufbau, die Kapitalverwaltungsgesellschaften, extern verwalteten OGAW-Investmentaktiengesellschaften, Versicherungsunternehmen, Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind, sowie die Abwicklungsanstalten nach Maßgabe der §§ 16a bis 16r umzulegen.
 
 (+++ § 16: Zur Anwendung vgl. § 23 +++)
 
@@ -609,7 +611,7 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 
 (1) Die Kosten sind für die folgenden Aufgabenbereiche, die jeweils nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der Bundesanstalt fallen, getrennt zu ermitteln:
 
-1. Kredit-, Finanzdienstleistungs-, Zahlungsdienste- und inländisches Investmentwesen (Aufgabenbereich Banken und sonstige Finanzdienstleistungen),
+1. Kredit-, Finanzdienstleistungs-, Wertpapierdienstleistungs-, Zahlungsdienste- und inländisches Investmentwesen (Aufgabenbereich Banken und sonstige Finanzdienstleistungen),
 
 2. Versicherungswesen (Aufgabenbereich Versicherungen),
 
@@ -645,7 +647,7 @@ Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb eines Au
 
 (1) Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen hat eine gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
 
-1. Gruppe Kredit- und Finanzdienstleistungsinstitute: Kreditinstitute, Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a Satz 2 Nummer 1 bis 7 und 9 bis 11 des Kreditwesengesetzes und die nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, soweit die Finanzdienstleistungsinstitute und Unternehmen nicht ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder 10 des Kreditwesengesetzes erbringen, Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und die nach § 42 des Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen sowie die Kreditanstalt für Wiederaufbau, wobei
+1. Gruppe Kredit- und Finanzdienstleistungsinstitute: Kreditinstitute, Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a Satz 2 Nummer 5 bis 7 und 9 bis 11 oder Satz 3 des Kreditwesengesetzes und die nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, soweit die Finanzdienstleistungsinstitute und Unternehmen nicht ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder 10 des Kreditwesengesetzes erbringen, Wertpapierinstitute, Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und die nach § 42 des Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen sowie die Kreditanstalt für Wiederaufbau, wobei
 
 a) Kreditinstitute und entsprechend nach § 53 des Kreditwesengesetzes tätige Unternehmen, die Bankgeschäfte betreiben und gleichzeitig das E-Geld-Geschäft betreiben oder Zahlungsdienste erbringen, ausschließlich als Kreditinstitute und
 
@@ -673,7 +675,9 @@ Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die 
 
 3. Institute oder Unternehmen, welche die Bundesanstalt nach § 2 Absatz 4 und 5 des Kreditwesengesetzes freigestellt hat,
 
-4. AIF-Kapitalverwaltungsgesellschaften mit einer Registrierung nach § 44 des Kapitalanlagegesetzbuchs.
+4. vorbehaltlich des § 3 Absatz 1 Satz 2 die nach § 3 Absatz 1 Satz 1 Nummer 1, 2, 4 bis 6, 8 bis 12, 14 bis 21 und Absatz 3 des Wertpapierinstitutsgesetzes nicht als Wertpapierinstitute geltenden Einrichtungen und Unternehmen,
+
+5. AIF-Kapitalverwaltungsgesellschaften mit einer Registrierung nach § 44 des Kapitalanlagegesetzbuchs.
 
 (4) Die Umlagepflicht nach Absatz 2 entsteht mit Erteilung oder der Fiktion der Erlaubnis oder im Fall einer Abwicklungsanstalt mit deren Errichtung. Sie endet in dem Jahr des Erlöschens der Erlaubnis oder der Auflösung der Abwicklungsanstalt. Ändert sich im Laufe eines Umlagejahres der Erlaubnisumfang oder wird von der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes eine Erlaubnis zum Betreiben eines anderen Geschäfts erteilt, wird der Umlagepflichtige nach Maßgabe der Regelungen zur Umlage herangezogen, die für das Geschäft gelten, auf das sich die zuletzt im Umlagejahr bestehende Erlaubnis bezieht. Die Umlagepflicht der Kreditanstalt für Wiederaufbau beginnt am 1. Januar 2015 und endet mit Ende der Beaufsichtigung durch die Bundesanstalt.
 
@@ -701,7 +705,7 @@ c) die zu mehr als einem Fünftel bank-, finanz- oder zahlungsdienstfremde Gesch
 
 d) die in der Rechtsform des Einzelkaufmanns tätig sind, die um ein fiktives Geschäftsführergehalt, das auf die Höhe des Jahresüberschusses und die Höhe der Bilanzsumme begrenzt ist, verminderte Bilanzsumme,
 
-2. für Umlagepflichtige der Gruppen Kredit- und Finanzdienstleistungsinstitute sowie Factoring- und Finanzierungsleasingunternehmen, die ihre Geschäftstätigkeit im Umlagejahr erst aufnehmen, die in der Planbilanz für das erste Geschäftsjahr gemäß § 32 Absatz 1 Satz 2 Nummer 5 und Satz 3 des Kreditwesengesetzes in Verbindung mit § 14 Absatz 7 Nummer 1 der Anzeigenverordnung oder nach § 10 Absatz 2 Satz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes ausgewiesene Bilanzsumme,
+2. für Umlagepflichtige der Gruppen Kredit- und Finanzdienstleistungsinstitute sowie Factoring- und Finanzierungsleasingunternehmen, die ihre Geschäftstätigkeit im Umlagejahr erst aufnehmen, die in der Planbilanz für das erste Geschäftsjahr gemäß § 32 Absatz 1 Satz 5 Nummer 5 und Satz 6 des Kreditwesengesetzes in Verbindung mit § 14 Absatz 7 Nummer 1 der Anzeigenverordnung oder nach § 10 Absatz 2 Satz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes ausgewiesene Bilanzsumme,
 
 3. für Umlagepflichtige der Gruppen Kredit- und Finanzdienstleistungsinstitute, Factoring- und Finanzierungsleasingunternehmen sowie Abwicklungsanstalten, die nicht das ganze Jahr umlagepflichtig waren, ein Bruchteil der nach Absatz 1 Nummer 1, auch in Verbindung mit den Nummern 1 und 2 dieses Satzes ermittelten Bilanzsumme, wobei der Bruchteil dem Verhältnis der Anzahl der angefangenen Monate, in denen die Umlagepflicht bestand, zur Anzahl der Monate des Umlagejahres entspricht.
 
@@ -724,25 +728,49 @@ Satz 1 Nummer 1 Buchstabe c gilt für die von der Bundesanstalt beaufsichtigten 
 
 1. in der Gruppe Kredit- und Finanzdienstleistungsinstitute mindestens
 
-a) 4 000 Euro für Kreditinstitute mit Ausnahme der Wertpapierhandelsbanken und für die Kreditanstalt für Wiederaufbau, bei einer nach § 16f ermittelten Bilanzsumme von 100 Millionen Euro oder weniger jedoch nur 3 500 Euro und für Wohnungsunternehmen mit Spareinrichtung nur 2 500 Euro,
+a) 4 000 Euro für Kreditinstitute und für die Kreditanstalt für Wiederaufbau, bei einer nach § 16f ermittelten Bilanzsumme von 100 Millionen Euro oder weniger jedoch nur 3 500 Euro und für Wohnungsunternehmen mit Spareinrichtung nur 2 500 Euro,
 
-b) 3 500 Euro für Wertpapierhandelsbanken und für Finanzdienstleistungsinstitute mit einer Erlaubnis
-
-aa)  
-nach § 1 Absatz 1a Satz 2 Nummer 1, 1c, 2, 3, 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen,
-
-bb)  
-nach § 1 Absatz 1a Satz 2 Nummer 1b, 1d oder 4 des Kreditwesengesetzes oder
-
-cc) nach § 1 Absatz 1a Satz 2 Nummer 11 des Kreditwesengesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis umfasst, auf eigene Rechnung zu handeln,
-
-c) 2 500 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis
+b) 3 500 Euro für
 
 aa)  
-nach § 1 Absatz 1a Satz 2 Nummer 1, 1c, 2, 3, 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
+Finanzdienstleistungsinstitute mit einer Erlaubnis nach
+
+aaa)  
+§ 1 Absatz 1a Satz 2 Nummer 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
+
+bbb)  
+§ 1 Absatz 1a Satz 2 Nummer 11 des Kreditwesengesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis umfasst, auf eigene Rechnung zu handeln,
 
 bb)  
-nach § 1 Absatz 1a Satz 2 Nummer 1a des Kreditwesengesetzes,
+Wertpapierinstitute mit einer Erlaubnis nach
+
+aaa)  
+§ 2 Absatz 2 Nummer 1 bis 10 des Wertpapierhandelsgesetzes,
+
+bbb)  
+§ 2 Absatz 2 Nummer 3, 5, 8 oder 9 des Wertpapierinstitutsgesetzes, wenn die Erlaubnis in diesen Fällen die Befugnis umfasst, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, oder
+
+ccc) § 2 Absatz 2 Nummer 6, 7 oder 10 des Wertpapierinstitutsgesetzes,
+
+c) 2 500 Euro für
+
+aa)  
+Finanzdienstleistungsinstitute mit einer Erlaubnis nach
+
+aaa)  
+§ 1 Absatz 1a Satz 2 Nummer 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
+
+bbb)  
+§ 1 Absatz 1a Satz 3 des Kreditwesengesetzes,
+
+bb)  
+Wertpapierinstitute mit einer Erlaubnis nach
+
+aaa)  
+§ 2 Absatz 2 Nummer 3, 5, 8 oder 9 des Wertpapierinstitutsgesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, oder
+
+bbb)  
+§ 2 Absatz 2 Nummer 4 des Wertpapierinstitutsgesetzes,
 
 d) 1 300 Euro für Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a Satz 2 Nummer 5 oder 7 des Kreditwesengesetzes und für Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes,
 
@@ -812,9 +840,9 @@ Der Bund und die Länder sind keine Emittenten im Sinne von Satz 1 Nummer 2. Die
 
 # § 16j – Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel
 
-(1) Für die Umlagepflichtigen in der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter ist der Umlagebetrag nach dem Verhältnis der Nettoerträge des einzelnen Umlagepflichtigen zum Gesamtbetrag der Nettoerträge aller Umlagepflichtigen der Gruppe zu bemessen, wobei sich die Nettoerträge aus folgenden Positionen der Anlagen 1 und 4 der Prüfungsberichtsverordnung (SON01 und SON04) zusammensetzen:
+(1) Für die Umlagepflichtigen in der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter ist der Umlagebetrag nach dem Verhältnis der Nettoerträge des einzelnen Umlagepflichtigen zum Gesamtbetrag der Nettoerträge aller Umlagepflichtigen der Gruppe nach Maßgabe des Satzes 2 zu bemessen. Die Nettoerträge setzen sich wie folgt zusammen:
 
-1. bei Kreditinstituten mit Ausnahme der Wertpapierhandelsbanken aus
+1. bei Kreditinstituten aus folgenden Positionen der Anlage 1 (zu § 70) zur Prüfungsberichtsverordnung (SON01)
 
 a) dem Provisionsergebnis (Position 033 der Anlage SON01), wenn der Betrag positiv oder null ist,
 
@@ -824,7 +852,7 @@ c) zuzüglich des Nettoergebnisses des Handelsbestandes aus Geschäften mit Devi
 
 d) zuzüglich des Nettoergebnisses des Handelsbestandes aus Geschäften mit Derivaten (Position 036 der Anlage SON01), wenn der Saldo positiv ist,
 
-2. bei Finanzdienstleistungsinstituten, die mit Finanzinstrumenten auf eigene Rechnung handeln oder die Befugnis haben, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und bei Wertpapierhandelsbanken aus
+2. bei Finanzdienstleistungsinstituten, die mit Finanzinstrumenten auf eigene Rechnung handeln oder die Befugnis haben, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, aus folgenden Positionen der Anlage 1 (zu § 70) zur Prüfungsberichtsverordnung (SON01):
 
 a) dem Saldo aus den Erträgen aus Geschäften mit Wertpapieren des Handelsbestandes (Position 316 der Anlage SON01) und Aufwendungen aus Geschäften mit Wertpapieren des Handelsbestandes (Position 315 der Anlage SON01), wenn der Saldo positiv ist,
 
@@ -832,7 +860,15 @@ b) zuzüglich des Saldos aus Erträgen aus Geschäften mit Devisen und Edelmetal
 
 c) zuzüglich des Saldos aus Erträgen aus Geschäften mit Derivaten (Position 320 der Anlage SON01) und den Aufwendungen aus Geschäften mit Derivaten (Position 319 der Anlage SON01), wenn der Saldo positiv ist,
 
-3. bei allen übrigen Wertpapierdienstleistungsunternehmen, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, aus den Provisionserträgen (Position 313 der Anlage SON04) abzüglich der Provisionsaufwendungen (Position 314 der Anlage SON04).
+3. bei Wertpapierinstituten, die mit Finanzinstrumenten auf eigene Rechnung handeln oder die Befugnis haben, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, aus folgenden Positionen der Anlage 1 zur Wertpapierinstitut-Prüfungsberichtsverordnung (WPF-SON01):
+
+a) dem Saldo aus den Erträgen aus Geschäften mit Wertpapieren des Handelsbestandes (Position 316 der Anlage WPF-SON01) und Aufwendungen aus Geschäften mit Wertpapieren des Handelsbestandes (Position 315 der Anlage WPF-SON01), wenn der Saldo positiv ist,
+
+b) zuzüglich des Saldos aus Erträgen aus Geschäften mit Devisen und Edelmetallen (Position 318 der Anlage WPF-SON01) und den Aufwendungen aus Geschäften mit Devisen und Edelmetallen (Position 317 der Anlage WPF-SON01), wenn der Saldo positiv ist,
+
+c) zuzüglich des Saldos aus Erträgen aus Geschäften mit Derivaten (Position 320 der Anlage SON01) und den Aufwendungen aus Geschäften mit Derivaten (Position 319 der Anlage SON01), wenn der Saldo positiv ist,
+
+4. bei allen übrigen Wertpapierdienstleistungsunternehmen, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, aus den Provisionserträgen (Position 313 der Anlage SON04 oder der Anlage WPF-SON01) abzüglich der Provisionsaufwendungen (Position 314 der Anlage SON04 oder der Anlage WPF-SON01).
 
 Zugrunde zu legen sind die Ertragsdaten des dem Umlagejahr vorausgehenden Kalenderjahres.
 
@@ -864,7 +900,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Für Umlagepflichtige der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter, die nicht das ganze Jahr umlagepflichtig waren, ist abweichend von den Absätzen 1 und 2 der Bruchteil der ermittelten Erträge maßgeblich, der dem Verhältnis der Anzahl der angefangenen Monate, in denen die Umlagepflicht bestand, zur Anzahl der Monate des Umlagejahres entspricht.
 
-(4) In der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter haben die Unternehmen bis spätestens zum 30. Juni des dem Umlagejahr folgenden Kalenderjahres die für die Bemessung des Umlagebetrages notwendigen, von einem Wirtschaftsprüfer, einer Wirtschaftsprüfungsgesellschaft, einem genossenschaftlichen Prüfungsverband oder einer Prüfungsstelle der Sparkassen- und Giroverbände bestätigten Daten mitzuteilen, sofern bis zu diesem Zeitpunkt noch kein Prüfungsbericht über den Jahresabschluss für das letzte Geschäftsjahr bei der Bundesanstalt eingereicht worden ist. Bei Finanzdienstleistungsinstituten, deren Bilanzsumme des letzten Geschäftsjahres 150 Millionen Euro nicht übersteigt, können die Bestätigungen nach Satz 1 auch durch vereidigte Buchprüfer oder Buchprüfungsgesellschaften vorgenommen werden. Liegen die Daten nach Satz 1 am 1. Juli nicht vor, schätzt die Bundesanstalt die Erträge und setzt den Umlagebetrag anhand der geschätzten Daten fest. Die Bundesanstalt kann auf Antrag eine angemessene Nachfrist von bis zu einem Monat zur Einreichung der in Satz 1 genannten Daten gewähren. Bei der Schätzung hat die Bundesanstalt im Regelfall Ertragsdaten des Umlagepflichtigen aus vorangegangenen Geschäftsjahren zugrunde zu legen. Liegen keinerlei Daten im Sinne des Satzes 5 und auch keine entsprechenden Daten für die nachfolgenden Geschäftsjahre vor, sind die Daten von Unternehmen der Umlagegruppe mit vergleichbarer Größe entsprechend heranzuziehen. Bei Unternehmen, denen im Umlagejahr erstmals die Erlaubnis erteilt wurde oder die ihre erste erlaubnispflichtige Geschäftstätigkeit aufgenommen haben, entspricht der Umlagebetrag dem Mindestumlagebetrag nach Absatz 6.
+(4) In der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter haben die Unternehmen bis spätestens zum 30. Juni des dem Umlagejahr folgenden Kalenderjahres die für die Bemessung des Umlagebetrages notwendigen, von einem Wirtschaftsprüfer, einer Wirtschaftsprüfungsgesellschaft, einem genossenschaftlichen Prüfungsverband oder einer Prüfungsstelle der Sparkassen- und Giroverbände bestätigten Daten mitzuteilen, sofern bis zu diesem Zeitpunkt noch kein Prüfungsbericht über den Jahresabschluss für das letzte Geschäftsjahr bei der Bundesanstalt eingereicht worden ist. Bei Finanzdienstleistungsinstituten und Wertpapierinstitut, deren Bilanzsumme des letzten Geschäftsjahres 150 Millionen Euro nicht übersteigt, können die Bestätigungen nach Satz 1 auch durch vereidigte Buchprüfer oder Buchprüfungsgesellschaften vorgenommen werden. Liegen die Daten nach Satz 1 am 1. Juli nicht vor, schätzt die Bundesanstalt die Erträge und setzt den Umlagebetrag anhand der geschätzten Daten fest. Die Bundesanstalt kann auf Antrag eine angemessene Nachfrist von bis zu einem Monat zur Einreichung der in Satz 1 genannten Daten gewähren. Bei der Schätzung hat die Bundesanstalt im Regelfall Ertragsdaten des Umlagepflichtigen aus vorangegangenen Geschäftsjahren zugrunde zu legen. Liegen keinerlei Daten im Sinne des Satzes 5 und auch keine entsprechenden Daten für die nachfolgenden Geschäftsjahre vor, sind die Daten von Unternehmen der Umlagegruppe mit vergleichbarer Größe entsprechend heranzuziehen. Bei Unternehmen, denen im Umlagejahr erstmals die Erlaubnis erteilt wurde oder die ihre erste erlaubnispflichtige Geschäftstätigkeit aufgenommen haben, entspricht der Umlagebetrag dem Mindestumlagebetrag nach Absatz 6.
 
 (5) Für Umlagepflichtige der Gruppe Emittenten ist der Umlagebetrag nach den Umsätzen von Wertpapieren der Umlagepflichtigen zu bemessen, die an den inländischen Handelsplätzen im Sinne von § 2 Absatz 22 des Wertpapierhandelsgesetzes in einem Umlagejahr angefallen sind. Wertpapiere im Sinne von Satz 1 sind Wertpapiere im Sinne von § 2 Absatz 1 des Wertpapierhandelsgesetzes, die an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind. Bei der Bemessung des Umlagebetrages ist vorbehaltlich der Regelungen des Absatzes 6 die Höhe der von den inländischen Handelsplätzen nach Satz 4 an die Bundesanstalt gemeldeten Umsätze für den einzelnen Umlagepflichtigen in das Verhältnis zum Gesamtbetrag der für alle Umlagepflichtigen gemeldeten Umsätze zu setzen. Die Handelsplätze haben der Bundesanstalt zur Festsetzung der Umlage und der Umlagevorauszahlung über die Umsätze nach Satz 1 Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann von den Emittenten Auskunft und die Vorlage von Unterlagen verlangen, soweit dies zur Festsetzung der Umlage und der Umlagevorauszahlung erforderlich ist.
 
@@ -1187,3 +1223,5 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 (10) § 16e Absatz 1 und 3, § 16f Absatz 1, § 16g Absatz 1, § 16i Absatz 1 und 2, § 16j Absatz 5 bis 7 sind erstmals auf das Umlagejahr 2018 anzuwenden.
 
 (11) § 16e Absatz 1 Satz 1 Nummer 1 und § 16g Absatz 1 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa und Buchstabe c Doppelbuchstabe aa in der ab dem 1. Januar 2020 geltenden Fassung sind erstmals auf die Umlageerhebung für das Umlagejahr 2020 anzuwenden.
+
+(12) Die §§ 16, 16b, 16e, 16f, 16g und 16j in der ab dem 26. Juni 2021 geltenden Fassung sind erstmals auf das Umlagejahr 2021 anzuwenden.

@@ -217,6 +217,10 @@ Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnun
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2016/1011
 
+15
+
+Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierinstitutsgesetzes (WpIG)
+
   
   
 
@@ -3742,5 +3746,277 @@ Registrierung eines Administrators
 (Artikel 34 Absatz 6 Buchstabe b in Verbindung mit Absatz 1 Buchstabe b oder c der Verordnung (EU) 2016/1011)
 
  
+
+15\.
+
+Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierinstitutsgesetzes (WpIG)
+
+ 
+
+15.1
+
+Erlaubnis zur Erbringung von Wertpapierdienstleistungen  
+(§ 15 Absatz 1, 3 und 4 WpIG)
+
+ 
+
+15.1.1
+
+Einzelne, mehrere oder sämtliche Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 3 bis 10  
+Erteilung einer Erlaubnis zur Erbringung von einzelnen, mehreren oder sämtlichen Wertpapierdienstleistungen im Hinblick auf
+
+ 
+
+15.1.1.1
+
+§ 2 Absatz 2 Nummer 3 bis 9 WpIG, wenn dem Wertpapierinstitut nicht die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und dem Wertpapierinstitut nicht erlaubt ist, auf eigene Rechnung zu handeln
+
+5 045
+
+15.1.1.2
+
+§ 2 Absatz 2 Nummer 3 bis 9 WpIG, wenn dem Wertpapierinstitut in diesen Fällen die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen oder es dem Wertpapierinstitut erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 2 Absatz 2 Nummer 10 WpIG
+
+10 725
+
+15.1.2
+
+Eigengeschäft  
+Erteilung der Erlaubnis zum ausschließlichen Betreiben des Eigengeschäfts nach § 15 Absatz 3 oder Absatz 4 WpIG
+
+5 045
+
+15.1.3
+
+Erteilung der Erlaubnis zur Erbringung einer einzelnen oder beider Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 1 und 2 WpIG
+
+5 000  
+bis  
+20 000
+
+15.1.4
+
+Erteilung einer Erlaubnis zur Erbringung aller Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 WpIG
+
+Gebühr nach  
+Nummer 15.1.3  
+zuzüglich
+
+ 
+
+ 
+
+2 295
+
+15.1.5
+
+Erlaubniserweiterung  
+Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis
+
+ 
+
+15.1.5.1
+
+Erlaubniserweiterung, sofern sie sich nur auf die Erbringung von Wertpapierdienstleistungen nach § 2 Absatz 2 Nummer 3 bis 10 WpIG bezieht
+
+2 295
+
+15.1.5.2
+
+Erlaubniserweiterung, sofern sie sich nur auf die Erbringung von Wertpapierdienstleistungen nach § 2 Absatz 2 Nummer 1 bis 2 WpIG bezieht
+
+4 465
+
+15.1.5.3
+
+Erlaubniserweiterung, sofern sie sich auf die Erbringung von Wertpapierdienstleistungen sowohl im Sinne von § 2 Absatz 2 Nummer 3 bis 9 als auch von Wertpapierdienstleistungen im Sinne von § 2 Absatz 2 Nummer 1 bis 2 WpIG bezieht
+
+8 205
+
+15.1.6
+
+Erlaubnis zur Erbringung von Wertpapierdienstleistungen sowie Erlaubniserweiterung für eine Personenhandelsgesellschaft
+
+ 
+
+15.1.6.1
+
+bei erstmaliger Erteilung der Erlaubnis oder Erlaubniserweiterung
+
+Erlaubnisgebühr nach den Nummern 15 bis 15.1.5.3, die bei mehreren persönlich haftenden Gesellschaftern nach dem Verhältnis ihrer jeweiligen Kapitaleinlagen zueinander aufgeteilt wird,  
+mindestens jedoch 250 Euro je persönlich haftendem  
+Gesellschafter
+
+15.1.6.2
+
+bei Eintritt eines neuen persönlich haftenden Gesellschafters
+
+190
+
+15.2
+
+Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans  
+(§ 22 Absatz 1, 2, 4 und 5; § 62 Absatz 2 WpIG)
+
+ 
+
+15.2.1
+
+Verlangen auf Abberufung
+
+5 000
+
+15.2.2
+
+Untersagung der Ausübung ihrer Tätigkeit
+
+5 000
+
+15.3
+
+Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen  
+(§§ 26 und 27 WpIG)
+
+ 
+
+15.3.1
+
+Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung  
+(§ 26 Absatz 1 oder Absatz 2 WpIG)
+
+8 355
+
+15.3.2
+
+Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf  
+(§ 27 Absatz 1 WpIG)
+
+8 355
+
+15.3.3
+
+Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen  
+(§ 27 Absatz 2 WpIG)
+
+1 500
+
+15.4
+
+Geschäftsorganisation  
+Anordnung nach § 40 Absatz 3 WpIG
+
+2 500
+
+15.5
+
+Besondere Aufsichtsbefugnisse
+
+ 
+
+15.5.1
+
+Anordnung nach § 49 Nummer 1 WpIG
+
+1 025
+
+15.5.2
+
+Anordnung nach § 49 Nummer 2 WpIG
+
+5 125
+
+15.5.3
+
+Anordnung nach § 49 Nummer 5 WpIG
+
+1 505
+
+15.5.4
+
+Anordnung nach § 49 Nummer 6 WpIG
+
+3 010
+
+15.5.5
+
+Anordnung nach § 49 Nummer 7 WpIG
+
+5 005
+
+15.5.6
+
+Anordnung nach § 49 Nummer 10 WpIG
+
+1 500
+
+15.5.7
+
+Anordnung nach § 49 Nummer 11 WpIG
+
+1 500
+
+15.6
+
+Maßnahmen bei Gefahr  
+(§ 79 WpIG)
+
+ 
+
+15.6.1
+
+Erlass von Anweisungen für die Geschäftsführung  
+(§ 79 Absatz 1 Satz 2 Nummer 1 WpIG)
+
+500  
+bis  
+1 500
+
+15.6.2
+
+Verbot, von Kunden Gelder oder Wertpapiere anzunehmen und Wertpapierkredite zu gewähren  
+(§ 79 Absatz 1 Satz 2 Nummer 2 WpIG)
+
+1 505
+
+15.6.3
+
+Untersagung oder Beschränkung der Ausübung der Tätigkeit von Inhabern und Geschäftsleitern  
+(§ 79 Absatz 1 Satz 2 Nummer 3 WpIG)
+
+1 505
+
+15.6.4
+
+Erlass eines vorübergehenden Veräußerungs- und Zahlungsverbotes  
+(§ 79 Absatz 1 Satz 2 Nummer 4 WpIG)
+
+5 005
+
+15.6.5
+
+Schließung des Wertpapierinstituts für den Verkehr mit der Kundschaft  
+(§ 79 Absatz 1 Satz 2 Nummer 5 WpIG)
+
+5 005
+
+15.6.6
+
+Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten gegenüber dem Wertpapierinstitut bestimmt sind  
+(§ 79 Absatz 1 Satz 2 Nummer 6 WpIG)
+
+5 005
+
+15.6.7
+
+Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen  
+(§ 79 Absatz 2 WpIG)
+
+5 005
+
+15.7
+
+Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG
+
+1 510
 
 Anlage Gliederung (Inhaltsübersicht) Nr. 1.3 Kursivdruck: Das Wort Solvabilitätsverordung wurde korrekt in Solvabilitätsverordnung berichtigt

@@ -29,7 +29,7 @@ Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des Wertpapiererwerbs-
 
 1. durch Bekanntgabe im Internet und
 
-2. über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, nach § 53 Abs. 1 des Kreditwesengesetzes tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,
+2. über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, nach § 53 Abs. 1 des Kreditwesengesetzes tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,
 
 in deutscher Sprache vorzunehmen. Eine Veröffentlichung in anderer Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen werden.
 
