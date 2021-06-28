@@ -43,7 +43,7 @@ Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3 des Kredi
 
 # § 1 – Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
-Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt durch die Verordnung (EU) 2016/1014 (ABl. L 171 vom 29.6.2016, S. 153) geändert worden ist, bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 ausgenommen:
+Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom 2.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2021/558 (ABl. L 116 vom 6.4.2021, S. 25) geändert worden ist, bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 ausgenommen:
 
 1. gedeckte Schuldverschreibungen im Sinne des Artikels 129 Absatz 1, 3 und 6 der Verordnung (EU) Nr. 575/2013 in voller Höhe;
 
@@ -95,15 +95,17 @@ b) die Gegenpartei in die Beaufsichtigung auf konsolidierter Basis einbezogen is
 
 10. Bilanzaktiva in Form von Forderungen eines Förderinstituts des Bundes oder eines Landes im Sinne des § 5 Absatz 1 Nummer 2 des Körperschaftssteuergesetzes an Kreditinstitute und sonstige Risikopositionen dieser Förderinstitute gegenüber Kreditinstituten in voller Höhe, sofern die betreffenden Forderungen und Positionen aufgrund von Darlehen bestehen, die dem Förderauftrag entsprechen und über diese Kreditinstitute an die Begünstigten weitergereicht werden.
 
-# § 2 – Weitere Ausnahmen von der Anwendung der Ober- grenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
+# § 2 – Weitere Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
 
 (1) Bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 sind Beteiligungen und sonstige Anteile eines Instituts an seinem Mutterunternehmen, an anderen Tochterunternehmen seines Mutterunternehmens oder an eigenen Tochterunternehmen, sofern das gruppenangehörige Unternehmen, an dem das Institut diese Beteiligung oder diesen sonstigen Anteil hält, in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013, nach der Richtlinie 2002/87/EG oder nach gleichwertigen Normen eines Drittlandes unterliegt, wie folgt ausgenommen:
 
-1. eine Beteiligung oder ein sonstiger Anteil, der 25 Prozent der anrechenbaren Eigenmittel des Instituts nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 nicht überschreitet, in voller Höhe,
+1. eine Beteiligung oder ein sonstiger Anteil, der 25 Prozent des Kernkapitals des Instituts nach Artikel 25 der Verordnung (EU) Nr. 575/2013 nicht überschreitet, in voller Höhe,
 
-2. eine Beteiligung oder ein sonstiger Anteil, der 25 Prozent der anrechenbaren Eigenmittel des Instituts nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 überschreitet, in Höhe des Betrages, der 25 Prozent der anrechenbaren Eigenmittel entspricht.
+2. eine Beteiligung oder ein sonstiger Anteil, der 25 Prozent des Kernkapitals des Instituts nach Artikel 25 der Verordnung (EU) Nr. 575/2013 überschreitet, in Höhe des Betrages, der 25 Prozent des Kernkapitals entspricht.
 
-(2) Unbeschadet des Artikels 400 Absatz 1 Buchstabe f der Verordnung (EU) Nr. 575/2013 sind bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 in Höhe von 25 Prozent der anrechenbaren Eigenmittel Risikopositionen eines Instituts gegenüber seinem Mutterunternehmen, gegenüber anderen Tochterunternehmen seines Mutterunternehmens und gegenüber eigenen Tochterunternehmen, die weder Beteiligungen noch sonstige Anteile sind, insgesamt in der jeweils nachfolgend genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 ausgenommen, sofern das gruppenangehörige Unternehmen, gegenüber dem die Risikoposition besteht, in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013, nach der Richtlinie 2002/87/EG oder nach gleichwertigen Normen eines Drittlandes unterliegt,
+Auf Antrag kann die zuständige Aufsichtsbehörde auch qualifizierte Beteiligungen nach Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der in Satz 1 genannten Weise von der Berechnung der Auslastung der Obergrenze für Großkredite ausnehmen, sofern die Voraussetzungen nach Satz 1 erfüllt sind.
+
+(2) Unbeschadet des Artikels 400 Absatz 1 Buchstabe f der Verordnung (EU) Nr. 575/2013 sind bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 in Höhe von 25 Prozent des Kernkapitals Risikopositionen eines Instituts gegenüber seinem Mutterunternehmen, gegenüber anderen Tochterunternehmen seines Mutterunternehmens und gegenüber eigenen Tochterunternehmen, die weder Beteiligungen noch sonstige Anteile sind, insgesamt in der jeweils nachfolgend genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 ausgenommen, sofern das gruppenangehörige Unternehmen, gegenüber dem die Risikoposition besteht, in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013, nach der Richtlinie 2002/87/EG oder nach gleichwertigen Normen eines Drittlandes unterliegt,
 
 1. in voller Höhe ihrer Bemessungsgrundlage, wenn es sich bei der Risikoposition um eine vor dem 1. Januar 2014 für ein gruppenangehöriges Unternehmen erstmals abgegebene Patronatserklärung des Instituts handelt, die zur Erfüllung konkret bestehender aufsichtlicher Anforderungen abgegeben wurde. Das Institut hat gegenüber der Bundesanstalt die Höhe sowie den erstmaligen Zeitpunkt der Abgabe als auch den jeweiligen Zeitpunkt der Bestätigung einer bereits vor dem 1. Januar 2014 bestehenden Patronatserklärung im Einzelnen anzugeben,
 
@@ -119,13 +121,17 @@ Bei der Antragstellung hat das Institut der Bundesanstalt die Höhe der gegenüb
 
 (4) Die Bundesanstalt kann die nach Absatz 3 gewährte Ausnahme von der Anrechnung von Risikopositionen auf die Großkreditobergrenze jederzeit überprüfen; stellt die Bundesanstalt fest, dass gegenüber dem Zeitpunkt der Antragstellung nach Absatz 3 unangemessene Konzentrationsrisiken vorliegen, kann die Bundesanstalt die nach Absatz 3 gewährte Ausnahme nach Anhörung des Instituts widerrufen.
 
-(5) Bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 in Höhe von 25 Prozent der anrechenbaren Eigenmittel sind Risikopositionen, insbesondere direkte oder indirekte Beteiligungen oder sonstige Anteile, die bei regionalen Kreditinstituten oder Zentralkreditinstituten,
+(5) Bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 in Höhe von 25 Prozent des Kernkapitals sind Risikopositionen, insbesondere direkte oder indirekte Beteiligungen oder sonstige Anteile, die bei regionalen Kreditinstituten oder Zentralkreditinstituten,
 
 1. denen ein Kreditinstitut aufgrund von Rechts- oder Satzungsvorschriften im Rahmen eines Verbunds angeschlossen ist und
 
 2. die nach diesen Rechts- oder Satzungsvorschriften beauftragt sind, den Liquiditätsausgleich innerhalb des Verbunds vorzunehmen,
 
-Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen, in Höhe von 50 Prozent ihrer Bemessungsgrundlage nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 ausgenommen.
+Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen, in Höhe von 75 Prozent ihrer Bemessungsgrundlage nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 ausgenommen.
+
+# § 2a – Gleichzeitige Anwendung von mehreren Ausnahmen auf eine Risikoposition
+
+Eine gleichzeitige Anwendung von mehr als einer der in Artikel 400 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 und in den §§ 1 und 2 vorgesehenen Ausnahmen auf ein und dieselbe Risikoposition ist nicht gestattet.
 
 # § 3 – Ausnahmen von der Beschlussfassungspflicht nach § 13 Absatz 2 des Kreditwesengesetzes
 
@@ -133,7 +139,7 @@ Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen,
 
 1. Risikopositionen im Sinne des § 1 Nummer 1, 3 bis 5 und 8 bis 10 sowie
 
-2. Risikopositionen im Sinne des Artikels 400 Absatz 1 Satz 1 Buchstabe a bis e, g bis h und j sowie Satz 2 der Verordnung (EU) Nr. 575/2013.
+2. Risikopositionen im Sinne des Artikels 400 Absatz 1 Satz 1 Buchstabe a bis e, g bis h, j und l sowie Satz 2 der Verordnung (EU) Nr. 575/2013.
 
 (2) Ein bereits von den Geschäftsleitern beschlossener Großkredit nach § 13 Absatz 2 und 3 des Kreditwesengesetzes muss von ihnen nicht erneut beschlossen werden, auch wenn er durch Änderung von Devisenkursen oder anderen Marktpreisen die Großkreditdefinitionsgrenze nach Artikel 392 der Verordnung (EU) Nr. 575/2013 zwischenzeitlich unterschritten hat und diese später wieder erreicht oder überschreitet. Ein neuer Beschluss ist erst erforderlich, wenn der beschlossene Höchstbetrag für die Risikoposition durch Änderungen nach Satz 1 überschritten wird.
 
@@ -141,25 +147,11 @@ Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen,
 
 Soll ein Großkredit über die Obergrenze für Großkredite hinaus erhöht werden, haben die Geschäftsleiter hierüber vor der Erhöhung einstimmig nach § 13 Absatz 2 und 3 des Kreditwesengesetzes zu beschließen.
 
-# § 5 – Anzeige der Nutzung der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013
+# § 5 – (weggefallen)
 
-Macht ein Institut von der Möglichkeit nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 Gebrauch, hat es dies der Bundesanstalt und der Deutschen Bundesbank unbeschadet der Meldepflicht nach Artikel 94 Absatz 3 der Verordnung (EU) Nr. 575/2013 unverzüglich anzuzeigen. Gleiches gilt, wenn ein Institut die Vorschriften über das Handelsbuch anwendet, obwohl die Voraussetzungen des Artikels 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 erfüllt sind.
+# § 6 – (weggefallen)
 
-# § 6 – Meldung der Positionen des Handelsbuchs
-
-(1) Ein Institut, das von der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 Gebrauch macht, hat der Deutschen Bundesbank für die Meldetermine 31. März, 30. Juni, 30. September und 31. Dezember die Positionen des Handelsbuchs in elektronischer Form zu melden. Für die Meldung ist das Formular Angaben zu den Handelsbuchpositionen gemäß Artikel 94 der Verordnung (EU) Nr. 575/2013 in Verbindung mit § 5 GroMiKV – HA (Anlage 1) zu verwenden. Die Meldung hat spätestens zum 12. Mai, 11. August, 11. November und 11. Februar zu erfolgen. Ist der Tag, an dem die Meldung spätestens zu erfolgen hat, ein gesetzlicher Feiertag oder ein Samstag oder Sonntag, hat die Meldung am darauf folgenden Werktag zu erfolgen.
-
-(2) Ein Institut, das kein Handelsbuch hat oder dessen Handelsbuch im Berichtszeitraum weder Positionen noch Bewegungen aufweist, muss nach der erstmaligen Abgabe einer Fehlanzeige zu den nachfolgenden Meldeterminen keine erneute Fehlanzeige abgeben. Als erstmalige Abgabe einer Fehlanzeige gilt auch eine Fehlanzeige nach § 19 der Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065), die zuletzt durch Artikel 2 der Verordnung vom 26. Oktober 2011 (BGBl. I S. 2103) geändert worden ist, in der bis zum 31. Dezember 2013 geltenden Fassung.
-
-# § 7 – Organisatorische Maßnahmen
-
-Ein Nichthandelsbuchinstitut hat durch geeignete organisatorische Maßnahmen sicherzustellen, dass es ein Erreichen oder Überschreiten der Grenzen nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 feststellt. Es hat für die Bundesanstalt und die Deutsche Bundesbank folgende Angaben auf Abruf vorzuhalten:
-
-1. eine Beschreibung der organisatorischen Verfahren,
-
-2. eine Aufstellung der Berechnungsergebnisse und
-
-3. eine Aufschlüsselung der Positionen des Handelsbuchs.
+# § 7 – (weggefallen)
 
 # § 8 – Stammdaten der Großkreditnehmer
 
@@ -177,9 +169,7 @@ Ein Nichthandelsbuchinstitut hat durch geeignete organisatorische Maßnahmen sic
 
 (4) Abweichend von Absatz 1 Satz 1 kann die Bundesanstalt statt der Einreichung in Papierform die elektronische Einreichung durch eine Allgemeinverfügung verbindlich vorgeben, sobald die für die elektronische Stammdateneinreichung erforderlichen technischen Voraussetzungen bei der Deutschen Bundesbank vorliegen. Vor Erlass einer Allgemeinverfügung nach Satz 1 sind die am Meldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank anzuhören. Mindestens zwölf Monate vor dem Erlass einer Allgemeinverfügung ist dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
-# § 9 – Stammdatenrückmeldung
-
-Die Deutsche Bundesbank übersendet den Instituten und den übergeordneten Unternehmen spätestens am 25. Geschäftstag, der auf den Meldetermin folgt, eine Stammdatenrückmeldung als Grundlage für die Meldung der zum Meldetermin bestehenden Großkredite. Die Stammdatenrückmeldung enthält alle Kreditnehmer und Gruppen verbundener Kunden, für die vom Institut oder vom übergeordneten Unternehmen Stammdatenmeldungen abgegeben wurden, sowie alle Kreditnehmer und Gruppen verbundener Kunden, die zum vorangegangenen Meldetermin von diesen im Rahmen der Meldungen nach Artikel 394 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 gemeldet wurden.
+# § 9 – (weggefallen)
 
 # § 10 – Aufbewahrungsfristen
 
@@ -215,9 +205,9 @@ Die Institute und die übergeordneten Unternehmen haben die Meldungen zu den Sta
 
 Anteilige Zinsen sind zu berücksichtigen, sofern diese bei der Anwendung der Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 zu berücksichtigen wären.
 
-(2) Abweichend von Absatz 1 gilt für Derivate- und sonstige Pensions-, Darlehens- oder vergleichbare Geschäfte über Wertpapiere oder Waren die Bemessungsgrundlage der Artikel 271 bis 293 und 299 der Verordnung (EU) Nr. 575/2013 entsprechend.
+(2) Abweichend von Absatz 1 ist für Derivate und Pensions-, Darlehens- oder vergleichbare Geschäfte über Wertpapiere oder Waren die Bemessungsgrundlage nach den Artikeln 271 bis 293 und 299 der Verordnung (EU) Nr. 575/2013 zu ermitteln.
 
-(3) Abweichend von Absatz 1 darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen im Sinne von § 14 Absatz 1 Satz 1 des Kreditwesengesetzes, das nicht der Verordnung (EU) Nr. 575/2013 unterliegt, für die Zwecke des Teils 2 dieser Verordnung die Bemessungsgrundlage für derivative Adressenausfallrisikopositionen nach einheitlicher Wahl anhand des laufzeitbewerteten Wiedereindeckungsaufwands gemäß Artikel 275 der Verordnung (EU) Nr. 575/2013 ermitteln (Ursprungsrisikomethode). Für bestimmte und eindeutig abgegrenzte Teilbereiche darf die Wahl unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Instituts erfolgen. Die Ursprungsrisikomethode darf mit Zustimmung der Bundesanstalt auch von Zweigstellen von Unternehmen mit Sitz in einem Drittstaat angewandt werden, die unter die Rechtsverordnung nach § 53c des Kreditwesengesetzes fallen; die Bundesanstalt kann die Zustimmung jederzeit widerrufen. Am Millionenkreditmeldeverfahren beteiligte Unternehmen, die nicht den Artikeln 387 bis 403 der Verordnung (EU) Nr. 575/2013 unterliegen, dürfen die Ursprungsrisikomethode unter Anwendung des Prozentsatzes für währungskursbezogene Geschäfte auch für die Berechnung des Kreditäquivalenzbetrags von Kreditderivaten verwenden.
+(3) Abweichend von Absatz 1 darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen im Sinne von § 14 Absatz 1 Satz 1 des Kreditwesengesetzes, das nicht der Verordnung (EU) Nr. 575/2013 unterliegt, für die Zwecke des Teils 2 dieser Verordnung die Bemessungsgrundlage für derivative Adressenausfallrisikopositionen nach einheitlicher Wahl gemäß Artikel 282 der Verordnung (EU) Nr. 575/2013 ermitteln (Ursprungsrisikomethode). Für bestimmte und eindeutig abgegrenzte Teilbereiche darf die Wahl unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Instituts erfolgen. Die Ursprungsrisikomethode nach Artikel 282 der Verordnung (EU) Nr. 575/2013 darf mit Zustimmung der Bundesanstalt auch von Zweigstellen von Unternehmen mit Sitz in einem Drittstaat angewandt werden, die unter die Rechtsverordnung nach § 53c des Kreditwesengesetzes fallen; die Bundesanstalt kann die Zustimmung jederzeit widerrufen.
 
 # § 13 – Umrechnung der auf fremde Währungen lautenden Positionen
 
@@ -338,27 +328,17 @@ Haben mindestens vier am Millionenkreditmeldeverfahren beteiligte Unternehmen ei
 
 (+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++)
 
-# § 20 – Übergangsbestimmungen
-
-(1) Die §§ 15 und 17 sind ab dem 1. Januar 2019 anzuwenden. Auf Betragsdatenmeldungen für die Zwecke der Millionenkreditmeldung nach § 14 des Kreditwesengesetzes, die sich auf den Zeitraum bis zum Meldetermin 31. Dezember 2018 beziehen, ist § 38 der Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065) in der bis zum 31. Dezember 2013 geltenden Fassung weiter anzuwenden.
-
-(2) § 19 Absatz 2 bis 5 ist ab dem 1. Januar 2019 anzuwenden. Auf Benachrichtigungen nach § 14 Absatz 2 des Kreditwesengesetzes, die sich auf den Zeitraum bis zum Meldetermin 31. Dezember 2018 beziehen, ist § 39 der Großkredit- und Millionenkreditverordnung in der bis zum 31. Dezember 2013 geltenden Fassung weiter anzuwenden.
+# § 20 – (weggefallen)
 
 # § 21 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065), die zuletzt durch Artikel 2 der Verordnung vom 26. Oktober 2011 (BGBl. I S. 2103) geändert worden ist, außer Kraft.
 
-# Anlage 1 – HA
-
-(Fundstelle: BGBl. I 2013, 4192)
-
-<a href="../normengrafiken/bgbl1_2013/j4183-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
- 
+# Anlage 1 – (weggefallen)
 
 # Anlage 2 – Meldeformular EA
 
-(Fundstelle: BGBl. I 2019, 153 - 154)
+(Fundstelle: BGBl. I 2019, 153 - 154; bezüglich der einzelnen Änderungen vg. Fußnote)
 
 <span id="FnA1-F806348_01"></span><a href="#FnR.FnA1-F806348_01" class="Footnote">1</a>  
 Die Postleitzahl ist nur für inländische Kreditnehmer anzugeben.
@@ -412,7 +392,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Mill
 
 # Anlage 3 – Meldeformular STA
 
-(Fundstelle: BGBl. I 2019, 155 - 156)
+(Fundstelle: BGBl. I 2019, 155 - 156; bezüglich der einzelnen Änderungen vg. Fußnote)
 
 <span id="FnA1-F806348_01a"></span><a href="#FnR.FnA1-F806348_01a" class="Footnote">1</a>  
 Die Postleitzahl ist nur für inländische Kreditnehmer anzugeben.
@@ -466,31 +446,31 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 # Anlage 4 – GbR
 
-(Fundstelle: BGBl. I 2013, 4197 - 4198)
+(Fundstelle: BGBl. I 2013, 4197 - 4198; bezüglich der einzelnen Änderungen vg. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2013/j4183-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4183-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 5 – MKNE
 
-(Fundstelle: BGBl. I 2013, 4199 - 4200)
+(Fundstelle: BGBl. I 2013, 4199 - 4200; bezüglich der einzelnen Änderungen vg. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2013/j4183-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4183-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 6 – STAK
 
-(Fundstelle: BGBl. I 2013, 4201 - 4202)
+(Fundstelle: BGBl. I 2013, 4201 - 4202; bezüglich der einzelnen Änderungen vg. Fußnote)
 
-<a href="../normengrafiken/bgbl1_2013/j4183-1_0100.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+<a href="../normengrafiken/bgbl1_2021/j4183-1_0100.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
 # Anlage 7 – BA
 
-(Fundstelle: BGBl. I 2019, 157 - 160)
+(Fundstelle: BGBl. I 2019, 157 - 160; bezüglich der einzelnen Änderungen vg. Fußnote)
 
 BA
 

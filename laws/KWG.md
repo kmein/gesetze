@@ -1642,7 +1642,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (9b) Sofern ein Kreditinstitut sowohl Tätigkeiten im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 ausübt als auch weitere nach diesem Gesetz erlaubnispflichtige Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, ist auf die Tätigkeit im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 der Absatz 9a anzuwenden; diese Kreditinstitute haben dafür Sorge zu tragen, dass sowohl die Anforderungen nach diesem Gesetz als auch die Anforderungen der Verordnung (EU) Nr. 648/2012 eingehalten werden. Bezüglich der Anforderungen an das Anfangskapital nach § 33 Absatz 1 sowie nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 648/2012 haben die betroffenen Kreditinstitute die im jeweiligen Einzelfall höheren Anforderungen zu erfüllen. Anzeige- und Informationspflichten, die sowohl nach § 2c Absatz 1 als auch nach Artikel 31 Absatz 2 der Verordnung (EU) Nr. 648/2012 bestehen, können in einer gemeinsamen Anzeige oder Mitteilung zusammengefasst werden.
 
-(9c) Die §§ 10d und 24 Absatz 1 Nummer 16 dieses Gesetzes und die Artikel 411 bis 430 der Verordnung (EU) Nr. 575/2013 sind nicht auf Bürgschaftsbanken im Sinne des § 5 Absatz 1 Nummer 17 des Körperschaftsteuergesetzes anzuwenden.
+(9c) § 10d und Artikel 92 Absatz 1 Buchstabe d, die Artikel 411 bis 429g, 430 Absatz 1 Unterabsatz 1 Buchstabe a in Bezug auf den antizyklischen Kapitalpuffer und die Verschuldungsquote, Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe d, die Artikel 440, 447 Buchstabe e, f und g sowie die Artikel 451 und 451a der Verordnung (EU) Nr. 575/2013 sind nicht auf Bürgschaftsbanken im Sinne des § 5 Absatz 1 Nummer 17 des Körperschaftsteuergesetzes anzuwenden.
 
 (9d) (weggefallen)
 
@@ -2693,7 +2693,7 @@ Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesonde
 
 (5) § 309 Nummer 3 und die §§ 313, 314, 489, 490, 723 bis 725, 727 und 728 des Bürgerlichen Gesetzbuchs, die §§ 132 bis 135 des Handelsgesetzbuchs und die §§ 254, 297 Absatz 1, § 304 Absatz 4 und § 305 Absatz 5 Satz 4 des Aktiengesetzes sind nicht anzuwenden, wenn Zweck einer Kapitalüberlassung die Überlassung von Eigenmitteln im Sinne des Artikels 72 der Verordnung (EU) Nr. 575/2013 ist. § 309 Nummer 3 des Bürgerlichen Gesetzbuchs findet auch keine Anwendung auf Verbindlichkeiten des Instituts, welche die Voraussetzungen des Artikels 12 Absatz 16 Satz 1 der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62) mit Ausnahme von dessen Buchstaben d oder des § 49 Absatz 2 des Sanierungs- und Abwicklungsgesetzes mit Ausnahme von dessen Nummer 4 erfüllen und eine Mindestlaufzeit von einem Jahr haben. Die §§ 313, 314 und 490 Absatz 1 des Bürgerlichen Gesetzbuchs finden auf Verträge, die Verbindlichkeiten des Instituts begründen, welche die Voraussetzungen des Artikels 12 Absatz 16 Satz 1 der Verordnung (EU) Nr. 806/2014 mit Ausnahme von dessen Buchstaben d oder des § 49 Absatz 2 des Sanierungs- und Abwicklungsgesetzes mit Ausnahme von dessen Nummer 4 erfüllen und eine Mindestlaufzeit von einem Jahr haben, während der vereinbarten Laufzeit keine Anwendung. Kündigt ein stiller Gesellschafter, der sich am Handelsgewerbe eines Instituts mit einer Vermögenseinlage beteiligt, welche die in Satz 3 genannten Voraussetzungen erfüllt und eine Mindestlaufzeit von einem Jahr hat, die Gesellschaft oder seine Beteiligung außerordentlich, so wird der gesetzliche oder vertragliche Abfindungs- oder Auszahlungsanspruch nicht vor Ablauf der vereinbarten Laufzeit fällig.
 
-(6) Die Aufsichtsbehörde kann anordnen, dass ein Institut der Deutschen Bundesbank häufigere oder auch umfangreichere Meldungen zu seiner Solvabilität einreicht als in den Artikeln 99 bis 101 der Verordnung (EU) Nr. 575/2013 vorgesehen. Die Aufsichtsbehörde darf häufigere oder umfangreichere Meldungen nach Satz 1 nur anordnen, wenn die Anordnung für den Zweck, für den die Angaben erforderlich sind, verhältnismäßig ist und die verlangten Angaben nicht schon vorhanden sind.
+(6) Die Aufsichtsbehörde kann anordnen, dass ein Institut der Deutschen Bundesbank häufigere oder auch umfangreichere Meldungen einreicht als in Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe a, b, d bis g, Artikel 430 Absatz 2 bis 5 sowie in den Artikeln 430a und 430b der Verordnung (EU) Nr. 575/2013 vorgesehen.
 
 (7) Die Aufsichtsbehörde kann auf die Eigenmittel nach Artikel 72 der Verordnung (EU) Nr. 575/2013 einen Korrekturposten festsetzen. Wird der Korrekturposten festgesetzt, um noch nicht bilanzwirksam gewordene Kapitalveränderungen zu berücksichtigen, wird die Festsetzung mit der Feststellung des nächsten für den Schluss eines Geschäftsjahres aufgestellten Jahresabschlusses gegenstandslos. Die Aufsichtsbehörde hat die Festsetzung auf Antrag des Instituts aufzuheben, soweit die Voraussetzung für die Festsetzung wegfällt.
 
@@ -2728,7 +2728,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (8) Das übergeordnete Unternehmen ist für eine angemessene Eigenmittelausstattung der Gruppe verantwortlich. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die gruppenangehörigen Unternehmen nur einwirken, soweit dem das allgemein geltende Gesellschaftsrecht nicht entgegensteht.
 
-(9) Gruppen sind von der Anwendung der Anforderungen auf konsolidierter Ebene nach den Artikeln 11 bis 23 der Verordnung (EU) Nr. 575/2013 befreit, wenn sämtliche gruppenangehörigen Institute die Artikel 92 bis 386 der Verordnung (EU) Nr. 575/2013 nicht auf Einzelebene anzuwenden haben, es sei denn, sie wurden nach Artikel 7 der Verordnung (EU) Nr. 575/2013 von der Anwendung der Artikel 92 bis 386 der Verordnung (EU) Nr. 575/2013 auf Einzelebene freigestellt.
+(9) Gruppen sind von der Anwendung der Anforderungen nach den Artikeln 11 bis 23 der Verordnung (EU) Nr. 575/2013 auf zusammengefasster Basis befreit, wenn sämtliche gruppenangehörigen Institute die Artikel 92 bis 386, 429 bis 429g sowie 430 Absatz 1 Unterabsatz 1 Buchstabe a, b, e bis g und Absatz 2 bis 5 sowie die Artikel 430a und 430b der Verordnung (EU) Nr. 575/2013 nicht auf Einzelinstitutsebene anzuwenden haben, es sei denn, sie wurden nach Artikel 7 der Verordnung (EU) Nr. 575/2013 von der Anwendung der Artikel 92 bis 386, 429 bis 429g, des Artikels 430 Absatz 1 Unterabsatz 1 Buchstabe a, b, e bis g und Absatz 2 bis 5 sowie der Artikel 430a und 430b der Verordnung (EU) Nr. 575/2013 auf Einzelinstitutsebene freigestellt.
 
 (10) Für die Teilkonsolidierung gemäß Artikel 22 der Verordnung (EU) Nr. 575/2013 sind die Absätze 4 bis 9 entsprechend anzuwenden.
 
@@ -2736,7 +2736,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ § 10a: Zur Anwendung ab 1.1.1999 vgl. § 64e Abs. 3 Satz 4 +++)  
 (+++ § 10a: Zur Anwendung vgl. § 53d Abs. 2 Satz 2 +++)  
 (+++ § 10a: Zur Geltung vgl. § 8c Abs. 2 Satz 2 +++)  
-(+++ § 10a Abs. 1 bis 3: Zur Geltung bis 27.6.2021 vgl. § 11 Abs. 3 Satz 4 +++)  
+(+++ § 10a Abs. 1 u. 2: Zur Geltung ab 28.6.2021 vgl. § 11 Abs. 3 Satz 4 +++)  
 (+++ § 10a Abs. 8: Zur Geltung vgl. § 13c Abs. 4 Satz 2 +++)  
 (+++ §§ 10a: Zur Anwendung vgl. § 3 Nr. 3 KfWV +++)
 
@@ -3096,13 +3096,12 @@ In der Rechtsverordnung ist an die Definition der Spareinlagen aus § 21 Abs. 4 
 
 (2) Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber Instituten über die in der Rechtsverordnung nach Absatz 1 festgelegten Vorgaben hinausgehende Liquiditätsanforderungen anordnen, wenn ohne eine solche Maßnahme die nachhaltige Liquidität eines Instituts nicht gesichert ist.
 
-(3) Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen spezifische über die Anforderungen der Artikel 411 bis 428 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung hinausgehende Liquiditätsanforderungen anordnen, um spezifische Risiken abzudecken, denen ein Institut ausgesetzt ist oder ausgesetzt sein könnte. Die Bundesanstalt beachtet dabei die in Artikel 105 der Richtlinie 2013/36/EU in der jeweils geltenden Fassung aufgeführten Erwägungsgründe. Die Bundesanstalt kann darüber hinaus auch die Fristentransformation einschränken. § 10a Absatz 1 bis 3 gilt entsprechend.
+(3) Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen spezifische über die Anforderungen der Artikel 411 bis 428az der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung hinausgehende Liquiditätsanforderungen anordnen, um spezifische Risiken abzudecken, denen ein Institut ausgesetzt ist oder ausgesetzt sein könnte. Die Bundesanstalt beachtet dabei die in Artikel 105 der Richtlinie 2013/36/EU in der jeweils geltenden Fassung aufgeführten Erwägungsgründe. Die Bundesanstalt kann darüber hinaus auch die Fristentransformation einschränken. § 10a Absatz 1 und 2 gilt entsprechend.
 
 (4) Die Bundesanstalt kann anordnen, dass ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe häufigere oder auch umfangreichere Meldungen zu seiner Liquidität einzureichen hat.
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
-(+++ §§ 11 bis 13c: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
 (+++ § 11: Zur Anwendung ab 1.1.1999 vgl. § 64e Abs. 3 Satz 4 +++)  
 (+++ § 11: Zur Nichtanwendung vgl. § 2 Abs. 8, Abs. 8b, Abs. 9a Satz 1 +++)
@@ -3150,7 +3149,7 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-(2) Ein Institut in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft darf unbeschadet der Wirksamkeit der Rechtsgeschäfte einen Großkredit nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter gewähren. Der Beschluss soll vor der Kreditgewährung gefasst werden. Ist dies im Einzelfall wegen der Eilbedürftigkeit des Geschäftes nicht möglich, ist der Beschluss unverzüglich nachzuholen. Der Beschluss ist zu dokumentieren. Ist der Großkredit ohne vorherigen einstimmigen Beschluss sämtlicher Geschäftsleiter gewährt worden und wird die Beschlussfassung nicht innerhalb eines Monats nach Gewährung des Kredits nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Wird ein bereits gewährter Kredit durch Verringerung der nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 anrechenbaren Eigenmittel zu einem Großkredit, darf das Institut diesen Großkredit unbeschadet der Wirksamkeit des Rechtsgeschäftes nur auf Grund eines unverzüglich nachzuholenden einstimmigen Beschlusses sämtlicher Geschäftsleiter weitergewähren. Der Beschluss ist zu dokumentieren. Wird der Beschluss nicht innerhalb eines Monats ab dem Zeitpunkt, zu dem der Kredit zu einem Großkredit geworden ist, nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen.
+(2) Ein Institut in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft darf unbeschadet der Wirksamkeit der Rechtsgeschäfte einen Großkredit nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter gewähren. Der Beschluss soll vor der Kreditgewährung gefasst werden. Ist dies im Einzelfall wegen der Eilbedürftigkeit des Geschäftes nicht möglich, ist der Beschluss unverzüglich nachzuholen. Der Beschluss ist zu dokumentieren. Ist der Großkredit ohne vorherigen einstimmigen Beschluss sämtlicher Geschäftsleiter gewährt worden und wird die Beschlussfassung nicht innerhalb eines Monats nach Gewährung des Kredits nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Wird ein bereits gewährter Kredit durch Verringerung des Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 zu einem Großkredit, darf das Institut diesen Großkredit unbeschadet der Wirksamkeit des Rechtsgeschäftes nur auf Grund eines unverzüglich nachzuholenden einstimmigen Beschlusses sämtlicher Geschäftsleiter weitergewähren. Der Beschluss ist zu dokumentieren. Wird der Beschluss nicht innerhalb eines Monats ab dem Zeitpunkt, zu dem der Kredit zu einem Großkredit geworden ist, nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen.
 
 (3) Die Beschlussfassungspflichten nach Absatz 2 gelten entsprechend für das übergeordnete Unternehmen, wenn ein Unternehmen der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe von Artikel 7 der Verordnung (EU) Nr. 575/2013 Gebrauch macht.
 
@@ -3158,6 +3157,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (+++ §§ 10 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 4 Satz 1, Abs. 5 Satz 1 u. § 51c Abs. 4 +++)  
 (+++ §§ 10c bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7b, Abs. 9e +++)  
+(+++ §§ 11 bis 13c: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
 (+++ §§ 11 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7 +++)  
 (+++ §§ 12a bis 18: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
 (+++ §§ 13 bis 13b: Zur Anwendung ab 1.1.1999 vgl. § 64e Abs. 3 Satz 4 +++)  
@@ -3295,7 +3295,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 # § 18 – Kreditunterlagen
 
-Ein Kreditinstitut darf einen Kredit, der insgesamt 750 000 Euro oder 10 vom Hundert des nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 anrechenbaren Eigenkapitals des Instituts überschreitet, nur gewähren, wenn es sich von dem Kreditnehmer die wirtschaftlichen Verhältnisse, insbesondere durch Vorlage der Jahresabschlüsse, offen legen lässt. Das Kreditinstitut kann hiervon absehen, wenn das Verlangen nach Offenlegung im Hinblick auf die gestellten Sicherheiten oder auf die Mitverpflichteten offensichtlich unbegründet wäre. Das Kreditinstitut kann von der laufenden Offenlegung absehen, wenn
+Ein Kreditinstitut darf einen Kredit, der insgesamt 750 000 Euro oder 10 Prozent seines Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 überschreitet, nur gewähren, wenn es sich von dem Kreditnehmer die wirtschaftlichen Verhältnisse, insbesondere durch Vorlage der Jahresabschlüsse, offen legen lässt. Das Kreditinstitut kann hiervon absehen, wenn das Verlangen nach Offenlegung im Hinblick auf die gestellten Sicherheiten oder auf die Mitverpflichteten offensichtlich unbegründet wäre. Das Kreditinstitut kann von der laufenden Offenlegung absehen, wenn
 
 1. der Kredit durch Grundpfandrechte auf Wohneigentum, das vom Kreditnehmer selbst genutzt wird, gesichert ist,
 
@@ -3317,7 +3317,7 @@ Eine Offenlegung ist nicht erforderlich bei Krediten an
 (+++ §§ 12a bis 18: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)  
 (+++ §§ 14 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 8 +++)  
 (+++ §§ 15 bis 18: Zur Nichtanwendung vgl. § 2 Abs. 7a, Abs. 9g, Abs. 9h +++)  
-(+++ § 18: Nur Nichtgeltung vgl. § 21 Abs. 3 +++)  
+(+++ § 18: Zur Nichtgeltung vgl. § 21 Abs. 3 +++)  
 (+++ §§ 17 bis 22: Zur Anwendung vgl. § 3 Nr. 5 KfWV +++)
 
 # § 18a – Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
@@ -4090,7 +4090,7 @@ Die Ausgestaltung des Risikomanagements hängt von Art, Umfang, Komplexität und
 
 3. einen Prozess, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, Verstöße gegen die Verordnung (EU) Nr. 575/2013, die Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, die Verordnung (EU) Nr. 600/2014, die Verordnung (EU) Nr. 1286/2014 oder die Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) oder gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen das Wertpapierhandelsgesetz oder gegen die auf Grund des Wertpapierhandelsgesetzes erlassenen Rechtsverordnungen sowie etwaige strafbare Handlungen innerhalb des Unternehmens an geeignete Stellen zu berichten.
 
-(2) Die Bundesanstalt kann Vorgaben zur Ausgestaltung einer plötzlichen und unerwarteten Zinsänderung und zur Ermittlungsmethodik der Auswirkungen auf den Barwert bezüglich der Zinsänderungsrisiken aus den nicht unter das Handelsbuch fallenden Geschäften festlegen. Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 Satz 3 und 6 sowie die Beachtung der Vorgaben nach Satz 1 sicherzustellen.
+(2) Die Bundesanstalt kann Vorgaben zur Ausgestaltung einer plötzlichen und unerwarteten Zinsänderung und zur Ermittlungsmethodik der Auswirkungen auf den Barwert und die Erträge bezüglich der Zinsänderungsrisiken aus den nicht unter das Handelsbuch fallenden Geschäften festlegen. Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 Satz 3 und 6 sowie die Beachtung der Vorgaben nach Satz 1 sicherzustellen.
 
 (3) Die Absätze 1 und 2 gelten für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen sowie Unterkonsolidierungsgruppen nach Artikel 22 der Verordnung (EU) Nr. 575/2013 mit der Maßgabe entsprechend, dass die Geschäftsleiter des übergeordneten oder zur Unterkonsolidierung verpflichteten Unternehmens für die ordnungsgemäße Geschäftsorganisation der Institutsgruppe, Finanzholding-Gruppe, gemischten Finanzholding-Gruppe oder der Unterkonsolidierungsgruppe verantwortlich sind. Zu einer Gruppe im Sinne von Satz 1 gehören auch Tochterunternehmen eines übergeordneten Unternehmens oder nachgeordneten Tochterunternehmens einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, auf die weder die Verordnung (EU) Nr. 575/2013 noch § 1a zur Anwendung kommt. Die sich aus der Einbeziehung in das Risikomanagement auf Gruppenebene ergebenden Pflichten müssen von Tochterunternehmen der Gruppe mit Sitz in einem Drittstaat nur insoweit beachtet werden, als diese Pflichten nicht dem geltenden Recht im Herkunftsstaat des Tochterunternehmens entgegenstehen.
 
@@ -5610,7 +5610,7 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 # § 48t – Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
 
-(1) Stellt der Ausschuss für Finanzstabilität Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos im Sinne des Artikels 458 Absatz 2 der Verordnung (EU) Nr. 575/2013 fest, die zu einer Störung mit bedeutenden Auswirkungen auf das nationale Finanzsystem und die Realwirtschaft im Inland führen können, auf die besser mit nationalen Maßnahmen reagiert werden soll, kann die Bundesanstalt auf Aufforderung des Ausschusses für Finanzstabilität im Wege der Allgemeinverfügung gegenüber allen oder einer Gruppe der der Aufsicht der Bundesanstalt nach diesem Gesetz oder der Verordnung (EU) Nr. 575/2013 unterliegenden Institute und Unternehmen von folgenden Vorgaben der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung für die Dauer von bis zu zwei Jahren abweichen, um die festgestellten Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos zu vermindern, durch Erhöhung
+(1) Stellt der Ausschuss für Finanzstabilität Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos im Sinne des Artikels 458 Absatz 2 der Verordnung (EU) Nr. 575/2013 fest, die zu einer Störung mit bedeutenden Auswirkungen auf das nationale Finanzsystem und die Realwirtschaft im Inland führen können, auf die mit anderen Instrumenten der Makroaufsicht gemäß der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2013/36/EU nicht so wirksam reagiert werden kann wie durch die Umsetzung strengerer nationaler Maßnahmen, kann die Bundesanstalt auf Aufforderung des Ausschusses für Finanzstabilität im Wege der Allgemeinverfügung gegenüber allen oder einer Gruppe der der Aufsicht der Bundesanstalt nach diesem Gesetz oder der Verordnung (EU) Nr. 575/2013 unterliegenden Institute und Unternehmen von folgenden Vorgaben der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung für die Dauer von bis zu zwei Jahren abweichen, um die festgestellten Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos zu vermindern, durch Erhöhung
 
 1. der Eigenmittelanforderungen nach Artikel 92 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung,
 
@@ -5626,17 +5626,17 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 (2) Die Bundesanstalt kann die Allgemeinverfügung nach Absatz 1 erst dann erlassen, wenn
 
-1. sie dem Europäischen Parlament, der Europäischen Kommission, dem Rat, dem Europäischen Ausschuss für Systemrisiken (ESRB) und der Europäischen Bankenaufsichtsbehörde (EBA)
+1. sie der Europäischen Kommission und dem Europäischen Ausschuss für Systemrisiken
 
 a) die für die Gefährdung der Finanzstabilität auf nationaler Ebene erforderlichen Nachweise nach Artikel 458 Absatz 2 Buchstabe a bis f der Verordnung (EU) Nr. 575/2013 einschließlich der in Absatz 1 vorgesehenen nationalen Maßnahmen, die Artikel 458 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 575/2013 umsetzen, angezeigt hat und
 
-b) dargelegt hat, dass andere nach der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2013/36/EU zur Verfügung stehende Maßnahmen nicht ausreichen, um der Gefährdung der Finanzstabilität auf nationaler Ebene zu begegnen, und
+b) dargelegt hat, dass andere nach der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2013/36/EU zur Verfügung stehende Instrumente der Makroaufsicht weniger geeignet und weniger wirksam wären, um der Gefährdung der Finanzstabilität auf nationaler Ebene zu begegnen, und
 
 2. die Voraussetzungen nach Artikel 458 Absatz 4 der Verordnung (EU) Nr. 575/2013 für den Erlass der Maßnahme vorliegen.
 
-(3) Die Bundesanstalt überprüft unter Einbeziehung des Europäischen Ausschusses für Systemrisiken und der Europäischen Bankenaufsichtsbehörde die nach Absatz 1 festgesetzten nationalen Maßnahmen nach Ablauf der vorgesehenen Frist nach Maßgabe von Artikel 458 Absatz 9 der Verordnung (EU) Nr. 575/2013. Liegen die Voraussetzungen für eine Verlängerung der Anwendung der nach Absatz 1 erlassenen nationalen Maßnahmen vor, kann die Bundesanstalt auf Aufforderung des Ausschusses für Finanzstabilität und nach Maßgabe des in Artikel 458 Absatz 4 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung vorgesehenen Verfahren im Wege der Allgemeinverfügung die nationalen Maßnahmen wiederholt um jeweils ein Jahr verlängern.
+(3) Die Bundesanstalt überprüft unter Einbeziehung des Europäischen Ausschusses für Systemrisiken und der Europäischen Bankenaufsichtsbehörde die nach Absatz 1 festgesetzten nationalen Maßnahmen nach Ablauf der vorgesehenen Frist nach Maßgabe von Artikel 458 Absatz 9 der Verordnung (EU) Nr. 575/2013. Liegen die Voraussetzungen für eine Verlängerung der Anwendung der nach Absatz 1 erlassenen nationalen Maßnahmen vor, kann die Bundesanstalt auf Aufforderung des Ausschusses für Finanzstabilität und nach Maßgabe des in Artikel 458 Absatz 4 der Verordnung (EU) Nr. 575/2013 vorgesehenen Verfahren im Wege der Allgemeinverfügung die nationalen Maßnahmen wiederholt jeweils um bis zu zwei weitere Jahre verlängern.
 
-(4) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank und nach Befassung des Ausschusses für Finanzstabilität die nach Artikel 458 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung von anderen Mitgliedstaaten des Europäischen Wirtschaftsraums erlassenen Maßnahmen nach Maßgabe von Artikel 458 Absatz 5 bis 7 der Verordnung (EU) Nr. 575/2013 vollständig oder teilweise anerkennen und mit Wirkung für Zweigstellen von Instituten und Unternehmen mit Sitz im Ausland, auf die dieses Gesetz gemäß § 53 Anwendung findet, oder mit Wirkung für Zweigniederlassungen im Sinne von § 53b nach Maßgabe des Artikels 458 der Verordnung (EU) Nr. 575/2013 anwenden.
+(4) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank und nach Befassung des Ausschusses für Finanzstabilität die nach Artikel 458 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung von anderen Mitgliedstaaten des Europäischen Wirtschaftsraums erlassenen Maßnahmen nach Maßgabe von Artikel 458 Absatz 5 bis 7 der Verordnung (EU) Nr. 575/2013 vollständig oder teilweise anerkennen und mit Wirkung für Institute mit Sitz im Inland, die Zweigstellen oder Risikopositionen in dem Staat des Europäischen Wirtschaftsraums haben, der die Maßnahme nach Artikel 458 der Verordnung (EU) Nr. 575/2013 erlassen hat, anwenden.
 
 (5) Sofern die Voraussetzungen nach Absatz 2 Nummer 1 vorliegen, kann die Bundesanstalt unabhängig vom Verfahren nach den Absätzen 1 und 3 sowie nach Artikel 458 Absatz 4 der Verordnung (EU) Nr. 575/2013 jederzeit bis zur Beseitigung eines makroprudenziellen oder systemischen Risikos, jedoch nicht länger als für die Dauer von zwei Jahren
 
@@ -6673,7 +6673,7 @@ ein Basisinformationsblatt nicht oder nicht rechtzeitig oder nicht in der vorges
 
 2. entgegen Artikel 26 Absatz 3 Unterabsatz 1 Satz 2 ohne die erforderliche Erlaubnis Kapitalinstrumente als Instrumente des harten Kernkapitals einstuft,
 
-3. Kapitalinstrumente als Instrumente des harten Kernkapitals einstuft, obwohl die für die spätere Emission geltenden Bestimmungen nicht im Wesentlichen identisch mit den Bestimmungen sind, die für die Emissionen gelten, für die das Institut bereits eine Erlaubnis erhalten hat, oder entgegen Artikel 26 Absatz 3 Unterabsatz 2 nicht oder nicht rechtzeitig mitteilt, bevor Kapitalinstrumente als Instrumente des harten Kernkapitals eingestuft werden,
+3. Kapitalinstrumente als Instrumente des harten Kernkapitals einstuft, obwohl die für die spätere Emission geltenden Bestimmungen nicht im Wesentlichen identisch mit den Bestimmungen sind, die für die Emissionen gelten, für die das Institut bereits eine Erlaubnis erhalten hat oder entgegen Artikel 26 Absatz 3 Unterabsatz 2 nicht oder nicht rechtzeitig mitteilt, bevor Kapitalinstrumente als Instrumente des harten Kernkapitals eingestuft werden,
 
 4. entgegen Artikel 28 Absatz 1 Buchstabe h Ziffer i Vorzugsausschüttungen auf Instrumente des harten Kernkapitals vornimmt,
 
@@ -6685,35 +6685,49 @@ ein Basisinformationsblatt nicht oder nicht rechtzeitig oder nicht in der vorges
 
 8. entgegen Artikel 94 Absatz 6 die Nichterfüllung der Bedingung nach Artikel 94 Absatz 1 Buchstabe a oder b nicht oder nicht rechtzeitig mitteilt,
 
-9. entgegen Artikel 175 Absatz 5 die Erfüllung der Anforderungen nicht, nicht richtig, nicht vollständig oder nicht hinreichend nachweist,
+9. entgegen Artikel 146 die Nichterfüllung der Anforderungen nicht oder nicht rechtzeitig mitteilt,
 
-10. entgegen Artikel 213 Absatz 2 Satz 1 das Vorhandensein von Systemen nicht, nicht richtig oder nicht vollständig nachweist,
+10. entgegen Artikel 175 Absatz 5 die Erfüllung der Anforderungen nicht, nicht richtig, nicht vollständig oder nicht hinreichend nachweist,
 
-11. entgegen Artikel 248 Absatz 3 Satz 2 das Gebrauchmachen von der in Satz 1 genannten Möglichkeit nicht, nicht richtig oder nicht vollständig mitteilt,
+11. entgegen Artikel 213 Absatz 2 Satz 1 das Vorhandensein von Systemen nicht, nicht richtig oder nicht vollständig nachweist,
 
-12. entgegen Artikel 283 Absatz 6 die Nichterfüllung der Anforderungen nicht oder nicht rechtzeitig mitteilt,
+12. entgegen Artikel 248 Absatz 3 Satz 2 das Gebrauchmachen von der in Satz 1 genannten Möglichkeit nicht, nicht richtig oder nicht vollständig mitteilt,
 
-13. entgegen Artikel 292 Absatz 3 Satz 1 das dort bezeichnete zeitliche Zusammenfallen nicht hinreichend oder nicht rechtzeitig nachweist,
+13. entgegen Artikel 283 Absatz 6 die Nichterfüllung der Anforderungen nicht oder nicht rechtzeitig mitteilt,
 
-14. entgegen Artikel 395 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Forderung eingeht,
+14. entgegen Artikel 292 Absatz 3 Satz 1 das dort bezeichnete zeitliche Zusammenfallen nicht hinreichend oder nicht rechtzeitig nachweist,
 
-15. entgegen Artikel 395 Absatz 5 Satz 2 die Höhe der Überschreitung und den Namen des betreffenden Kunden nicht, nicht richtig, nicht vollständig oder nicht unverzüglich meldet,
+15. entgegen Artikel 395 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Forderung eingeht,
 
-16. entgegen Artikel 396 Absatz 1 Satz 1 den Forderungswert nicht, nicht richtig, nicht vollständig oder nicht unverzüglich meldet,
+16. entgegen Artikel 395 Absatz 5 Satz 2 die Höhe der Überschreitung und den Namen des betreffenden Kunden nicht, nicht richtig, nicht vollständig oder nicht unverzüglich meldet,
 
-17. entgegen Artikel 412 Absatz 1 Satz 1 wiederholt oder fortgesetzt liquide Aktiva in der dort bezeichneten Höhe nicht hält,
+17. entgegen Artikel 396 Absatz 1 Satz 1 den Forderungswert nicht, nicht richtig, nicht vollständig oder nicht unverzüglich meldet,
 
-18. entgegen Artikel 413 Absatz 1 wiederholt oder fortgesetzt stabile Instrumente der Refinanzierung in der dort bezeichneten Höhe nicht hält,
+18. entgegen Artikel 412 Absatz 1 Satz 1 wiederholt oder fortgesetzt liquide Aktiva in der dort bezeichneten Höhe nicht hält,
 
-19. entgegen Artikel 414 Satz 1 zweiter Halbsatz einen Plan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+19. entgegen Artikel 413 Absatz 1 wiederholt oder fortgesetzt stabile Instrumente der Refinanzierung in der dort bezeichneten Höhe nicht hält,
 
-20. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe a und Absatz 2 über die Verpflichtungen nach Artikel 92 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig Meldung erstattet,
+20. entgegen Artikel 414 Satz 1 erster Halbsatz die Nichteinhaltung oder das erwartete Nichteinhalten der Anforderungen nicht, nicht richtig, nicht vollständig oder nicht unverzüglich mitteilt,
 
-21. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe c eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+21. entgegen Artikel 414 Satz 1 zweiter Halbsatz einen Plan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-22. entgegen Artikel 431 Absatz 2 die in den dort bezeichneten Genehmigungen enthaltenen Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig offenlegt oder
+22. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe a und Absatz 2 über die Verpflichtungen nach Artikel 92 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig Meldung erstattet,
 
-23. entgegen Artikel 431 Absatz 3 Unterabsatz 3 Satz 2 und 3 die dort genannten Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht.
+23. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe b eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+24. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe c eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+25. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe d die dort bezeichneten Informationen über die Liquiditätslage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig meldet,
+
+26. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe e die genannten Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+27. entgegen Artikel 431 Absatz 1 die dort bezeichneten Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht,
+
+28. entgegen Artikel 431 Absatz 2 die in den dort bezeichneten Genehmigungen enthaltenen Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig offenlegt,
+
+29. entgegen Artikel 431 Absatz 3 Unterabsatz 3 Satz 2 und 3 die dort genannten Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht oder
+
+30. entgegen Artikel 451 Absatz 1 die dort genannten Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig offenlegt.
 
 Die Bestimmungen des Satzes 1 gelten auch für ein Kreditinstitut oder Finanzdienstleistungsinstitut im Sinne des § 1a.
 
@@ -6745,7 +6759,7 @@ Die Bestimmungen des Satzes 1 gelten auch für ein Kreditinstitut oder Finanzdie
 
 (6) Die Ordnungswidrigkeit kann
 
-1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19, 21 bis 23 und der Absätze 5b bis 5d mit einer Geldbuße bis zu fünf Millionen Euro,
+1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5d mit einer Geldbuße bis zu fünf Millionen Euro,
 
 1a. in den Fällen des Absatzes 4g mit einer Geldbuße bis zu siebenhunderttausend Euro,
 
