@@ -404,7 +404,7 @@ Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den 
 
 (1) In den Jahren 2020 und 2021 gewährt der Bund den Ländern und Gemeinden im Rahmen des Konjunktur- und Krisenbewältigungspakets zur Bewältigung der Folgen der Corona-Pandemie Finanzhilfen nach Artikel 104b des Grundgesetzes aus dem Bundessondervermögen „Kinderbetreuungsausbau“. Die Finanzhilfen sind für Investitionen in Tageseinrichtungen und zur Kindertagespflege für Kinder von der Geburt bis zum Schuleintritt einzusetzen. Investitionen sind Neubau-, Ausbau-, Umbau-, Sanierungs-, Renovierungs- und Ausstattungsinvestitionen. Die Ausführungsbestimmungen zur Ausgestaltung von Ausstattungsinvestitionen obliegen den Ländern.
 
-(2) Gefördert werden Investitionen, die der Schaffung oder Ausstattung zusätzlicher Betreuungsplätze dienen und die im Zeitraum 1. Januar 2020 bis 31. Dezember 2021 begonnen wurden.
+(2) Gefördert werden Investitionen, die der Schaffung oder Ausstattung zusätzlicher Betreuungsplätze dienen und die im Zeitraum 1. Januar 2020 bis 31. Dezember 2022 begonnen wurden.
 
 (3) Als Beginn gilt der Abschluss eines rechtsverbindlichen Leistungs- und Lieferungsvertrags unter der Voraussetzung des unverzüglichen Beginns der Umsetzung der vertraglich vereinbarten Leistungen (Neubau-, Ausbau, Umbau-, Sanierungs-, Renovierungs- und/oder Ausstattungsmaßnahmen). Bei Vorhaben, die in selbständige Abschnitte eines laufenden Verfahrens aufgeteilt werden können, ist eine Förderung des selbständigen Abschnitts auch möglich, wenn allein für diesen Abschnitt die Förderkriterien erfüllt sind.
 
@@ -426,9 +426,9 @@ Die Mittel, die dem Bundessondervermögen gemäß § 4a Absatz 4 des Kinderbetre
 
 # § 28 – Gemeinschaftsfinanzierung
 
-(1) Bundesmittel, die nicht zu 100 Prozent des gesamten Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2021 bewilligt sind, fließen in Höhe der Differenz zu den tatsächlich bewilligten Mitteln und im Verhältnis der Zahl der Kinder unter sechs Jahren den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Eine Umverteilung findet ab einem Volumen von 65 000 Euro statt. Mittel, die den Ländern nach dem 30. Juni 2021 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 31. Oktober 2021 bewilligt werden.
+(1) Bundesmittel, die nicht zu 100 Prozent des gesamten Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2022 bewilligt sind, fließen in Höhe der Differenz zu den tatsächlich bewilligten Mitteln und im Verhältnis der Zahl der Kinder unter sechs Jahren den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Eine Umverteilung findet ab einem Volumen von 65 000 Euro statt. Mittel, die den Ländern nach dem 30. Juni 2022 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 31. Oktober 2022 bewilligt werden.
 
-(2) Die Bundesmittel sind im Wege der parallelen Gemeinschaftsfinanzierung als Zusatzfinanzierung zu den Eigenaufwendungen in den Ländern einzusetzen. Jedes Land hat zum Stichtag 31. Dezember 2021 nachzuweisen, dass
+(2) Die Bundesmittel sind im Wege der parallelen Gemeinschaftsfinanzierung als Zusatzfinanzierung zu den Eigenaufwendungen in den Ländern einzusetzen. Jedes Land hat zum Stichtag 31. Dezember 2022 nachzuweisen, dass
 
 1. der Anteil der im Rahmen dieses Investitionsprogramms in dem Land bewilligten Bundesmittel höchstens 54 Prozent der investiven Gesamtkosten zum vorgenannten Stichtag beträgt; hierzu weist das Land die Bewilligung von Landesmitteln, die Bereitstellung kommunaler Mittel und gegebenenfalls die Bereitstellung von investiven Mitteln sonstiger Träger in Höhe von mindestens 46 Prozent der investiven Gesamtkosten nach, oder
 
@@ -442,7 +442,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach dem Haushaltsrecht der Länder. Mögliche Verfahrensvereinfachungen im Vergaberecht und bei Ausschreibungen zur Beschleunigung von Investitionsvorhaben sind zu berücksichtigen. Die Länder sind gefordert, entsprechende Vereinfachungen umzusetzen. Bei der Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die Bestimmungen dieses Kapitels sinngemäß.
 
-(2) Die Investitionen sind zu 100 Prozent des gemäß § 27 Absatz 1 bereitgestellten Verfügungsrahmens des Landes bis zum 30. Juni 2022 abzuschließen; die Mittel können bis zum 31. Dezember 2022 abgerufen werden.
+(2) Die Investitionen sind zu 100 Prozent des gemäß § 27 Absatz 1 bereitgestellten Verfügungsrahmens des Landes bis zum 30. Juni 2023 abzuschließen; die Mittel können bis zum 31. Dezember 2023 abgerufen werden.
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur Auszahlung der Mittel an die zuständigen Landeskassen anzuweisen, sobald die Bundesmittel zur Begleichung fälliger Zahlungen durch den Träger des Investitionsvorhabens benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Empfänger weiter und verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
@@ -450,15 +450,15 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zum Stichtag 31. Dezember 2020 über die im Land getroffenen Regelungen zur Durchführung des Verfahrens und Verwendung der Finanzhilfen und übermitteln entsprechende (Förder-)Richtlinien.
 
-(2) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 31. Dezember 2021 und 31. Dezember 2022 über die Anzahl der bewilligten und zusätzlich geschaffenen Betreuungsplätze in Kindertageseinrichtungen und in der Kindertagespflege, differenziert nach Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt, sowie über die hierfür jeweils aufgewendeten Bundes- und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln. Hierfür legen sie Listen über die mit diesem Investitionsprogramm geförderten Projekte vor.
+(2) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 31. Dezember 2021, 31. Dezember 2022 und 31. Dezember 2023 über die Anzahl der bewilligten und zusätzlich geschaffenen Betreuungsplätze in Kindertageseinrichtungen und in der Kindertagespflege, differenziert nach Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt, sowie über die hierfür jeweils aufgewendeten Bundes- und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln. Hierfür legen sie Listen über die mit diesem Investitionsprogramm geförderten Projekte vor.
 
-(3) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 31. Dezember 2021 und 31. Dezember 2022 über die Art und Anzahl der bewilligten und bereits durchgeführten Ausstattungsinvestitionen gemäß § 26 Absatz 1 Satz 2.
+(3) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 31. Dezember 2021, 31. Dezember 2022 und 31. Dezember 2023 über die Art und Anzahl der bewilligten und bereits durchgeführten Ausstattungsinvestitionen gemäß § 26 Absatz 1 Satz 2.
 
-(4) Die Prüfung des Verwendungsnachweises erfolgt laufend und ist bis zum 31. Dezember 2023 abzuschließen. Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium für Familie, Senioren, Frauen und Jugend sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
+(4) Die Prüfung des Verwendungsnachweises erfolgt laufend und ist bis zum 31. Dezember 2024 abzuschließen. Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium für Familie, Senioren, Frauen und Jugend sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
 
 (5) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend unverzüglich über einschlägige Prüfungsbemerkungen ihrer Rechnungsprüfungsbehörden.
 
-(6) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen bis zum 30. Juni 2024 in Form eines zusammenfassenden Abschlussberichts. Der Abschlussbericht enthält zum Stichtag 30. Juni 2022 die Gesamtzahl der im Land zur Verfügung stehenden Betreuungsplätze und die Zahl der mit den Finanzhilfen im Land zusätzlich geschaffenen Betreuungsplätze, differenziert nach neuen und gesicherten Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt.
+(6) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen bis zum 30. Juni 2025 in Form eines zusammenfassenden Abschlussberichts. Der Abschlussbericht enthält zum Stichtag 30. Juni 2023 die Gesamtzahl der im Land zur Verfügung stehenden Betreuungsplätze und die Zahl der mit den Finanzhilfen im Land zusätzlich geschaffenen Betreuungsplätze, differenziert nach neuen und gesicherten Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt.
 
 # § 31 – Rückforderung von Bundesmitteln; Zinsen
 

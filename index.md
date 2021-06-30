@@ -696,6 +696,7 @@
 - [BetrPrämDurchfV](laws/BetrPrämDurchfV.md) Verordnung zur Durchführung der einheitlichen Betriebsprämie
 - [BetrPrämRegV 2014](laws/BetrPrämRegV_2014.md) Verordnung zur Kürzung der Zahlungsansprüche im Rahmen der Betriebsprämienregelung für das Jahr 2014
 - [BetrSichV](laws/BetrSichV.md) Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln
+- [BetrSichV2015ÄndV2Ber](laws/BetrSichV2015ÄndV2Ber.md) Berichtigung der Zweiten Verordnung zur Änderung der Betriebssicherheitsverordnung
 - [BetrVG](laws/BetrVG.md) Betriebsverfassungsgesetz
 - [BetrVGDV1WO](laws/BetrVGDV1WO.md) Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung - WO)
 - [BetrVRG](laws/BetrVRG.md) Gesetz zur Reform des Betriebsverfassungsgesetzes

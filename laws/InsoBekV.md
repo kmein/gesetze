@@ -7,7 +7,7 @@ Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der Insolvenzordnung v
 
 # § 1 – Grundsatz
 
-Öffentliche Bekanntmachungen in Insolvenzverfahren im Internet haben den Anforderungen dieser Verordnung zu entsprechen. Die Veröffentlichung darf nur die personenbezogenen Daten enthalten, die nach der Insolvenzordnung oder nach anderen Gesetzen, die eine öffentliche Bekanntmachung in Insolvenzverfahren vorsehen, bekannt zu machen sind.
+Öffentliche Bekanntmachungen in Insolvenzverfahren im Internet haben den Anforderungen dieser Verordnung zu entsprechen. Die Veröffentlichung darf nur die Daten enthalten, die nach der Insolvenzordnung oder nach anderen Vorschriften, die eine öffentliche Bekanntmachung in Insolvenzverfahren vorsehen, bekannt zu machen sind.
 
 # § 2 – Datensicherheit, Schutz vor Missbrauch
 
@@ -17,21 +17,17 @@ Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der Insolvenzordnung v
 
 2. während der Veröffentlichung unversehrt, vollständig und aktuell bleiben,
 
-3. spätestens nach dem Ablauf von zwei Wochen nach dem ersten Tag der Veröffentlichung nur noch abgerufen werden können, wenn die Abfrage den Sitz des Insolvenzgerichts und mindestens eine der folgenden Angaben enthält:
+3. der Insolvenzverfahren, in denen der Schuldner eine natürliche Person ist, die keine selbständige wirtschaftliche Tätigkeit ausübt oder ausgeübt hat, spätestens nach dem Ablauf von zwei Wochen nach dem ersten Tag der Veröffentlichung nur noch abgerufen werden können, wenn die Abfrage den Sitz des Insolvenzgerichts und mindestens eine der folgenden Angaben enthält:
 
 a) den Familiennamen,
 
-b) die Firma,
+b) den Wohnsitz des Schuldners oder
 
-c) den Sitz oder Wohnsitz des Schuldners,
+c) das Aktenzeichen des Insolvenzgerichts.
 
-d) das Aktenzeichen des Insolvenzgerichts oder
+Die Angaben nach Satz 1 Nummer 3 Buchstabe a bis c können unvollständig sein, sofern sie Unterscheidungskraft besitzen.
 
-e) Registernummer und Sitz des Registergerichts.
-
-Die Angaben nach Satz 1 Nr. 3 Buchstabe a bis e können unvollständig sein, sofern sie Unterscheidungskraft besitzen.
-
-(2) Als Ergebnis der Abfrage nach Absatz 1 Satz 2 darf zunächst nur eine Übersicht über die ermittelten Datensätze übermittelt werden, die nur die vollständigen Daten nach Absatz 1 Satz 1 Nr. 3 Buchstabe a bis e enthalten darf. Die übrigen nach der Insolvenzordnung zu veröffentlichenden Daten dürfen erst übermittelt werden, wenn der Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
+(2) Als Ergebnis der Abfrage nach Absatz 1 Satz 2 darf zunächst nur eine Übersicht über die ermittelten Datensätze übermittelt werden, die nur die vollständigen Daten nach Absatz 1 Satz 1 Nummer 3 Buchstabe a bis c enthalten darf. Die übrigen nach der Insolvenzordnung zu veröffentlichenden Daten dürfen erst übermittelt werden, wenn der Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
 
 # § 3 – Löschungsfristen
 
@@ -49,9 +45,9 @@ Die Insolvenzgerichte haben sicherzustellen, dass jedermann von den öffentliche
 
 Die §§ 2 bis 4 gelten entsprechend für den Datenabruf über das Unternehmensregister (§ 8b des Handelsgesetzbuchs).
 
-# § 5 – Inkrafttreten
+# § 5 – Übergangsregelung
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Für öffentliche Bekanntmachungen in Insolvenzverfahren, die vor dem 26. Juni 2018 eröffnet oder vor dem 26. Juni 2018 mangels Masse abgewiesen worden sind, bleiben die Vorschriften dieser Verordnung in der bis zum 29. Juni 2021 geltenden Fassung anwendbar. Gleiches gilt für öffentliche Bekanntmachungen in Insolvenzverfahren, wenn der Antrag auf Eröffnung des Verfahrens vor dem 26. Juni 2018 anderweitig Erledigung gefunden hat.
 
 # Schlussformel
 
