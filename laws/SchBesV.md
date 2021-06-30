@@ -103,7 +103,7 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 # § 8 – Schiffsbesatzungszeugnis
 
-(1) Die Berufsgenossenschaft erteilt auf Antrag des Reeders ein Schiffsbesatzungszeugnis nach dem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlichten Muster, wenn die Voraussetzungen des § 2 Absatz 1 und 2 und der §§ 4 bis 7 vorliegen. Das Schiffsbesatzungszeugnis kann, auch nachträglich, mit Nebenbestimmungen versehen werden. Schiffe mit einer Länge von acht Metern oder weniger benötigen kein Schiffsbesatzungszeugnis.
+(1) Die Berufsgenossenschaft erteilt auf Antrag des Reeders ein Schiffsbesatzungszeugnis nach dem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlichten Muster, wenn die Voraussetzungen des § 2 Absatz 1 und 2 und der §§ 4 bis 7 vorliegen. Das Schiffsbesatzungszeugnis kann, auch nachträglich, mit Nebenbestimmungen versehen werden. Fischereifahrzeuge im Sinne des § 9b benötigen kein Schiffsbesatzungszeugnis.
 
 (2) Das Schiffsbesatzungszeugnis ist vom Tag der Ausstellung an fünf Jahre gültig. Die Berufsgenossenschaft kann eine kürzere Gültigkeitsdauer festsetzen, wenn bei der Antragstellung nach Absatz 1 absehbar ist, dass auf Grund der Beschäftigung des Schiffes Absatz 3 anwendbar wird, sowie in Fällen des § 10 Absatz 1.
 
@@ -131,6 +131,10 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 Satz 1 Nummer 1 gilt nicht auf Fischereifahrzeugen in der Küstenfischerei und in der Kleinen Hochseefischerei.
 
+# § 9b – Offene oder teilgedeckte Fischereifahrzeuge in der eingeschränkten passiven Küstenfischerei
+
+Im Falle eines offenen oder teilgedeckten Fischereifahrzeug in der eingeschränkten passiven Küstenfischerei, für das ein entsprechendes Sicherheitszeugnis der Berufsgenossenschaft erteilt ist, ist das Fahrzeug den Anforderungen des § 2 Absatz 1 Satz 1 genügend besetzt, wenn der Schiffsführer Inhaber eines gültigen Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen nach § 4 der Sportbootführerscheinverordnung ist und über ein gültiges Seediensttauglichkeitszeugnis für den Decksdienst verfügt.
+
 # § 10 – Ausnahmen
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders für ein bestimmtes Schiff weitere Schiffsbesatzungszeugnisse erteilen, wenn die betrieblichen Voraussetzungen dies rechtfertigen oder erfordern. Im Falle des Satzes 1 gilt § 8 Absatz 3 Satz 2 nicht.
@@ -157,11 +161,11 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 (1) Die Wirksamkeit eines vor Inkrafttreten dieser Verordnung erteilten Schiffsbesatzungszeugnisses wird durch das Inkrafttreten dieser Verordnung nicht berührt.
 
-(2) Bis zum Ablauf des 30. Juni 2021 ist § 5 in folgender Fassung anzuwenden:
+(2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:
 
 Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer Unionsbürger sein.
 
-(3) Die Auswirkungen des Absatzes 2 werden nach Ablauf von vier Jahren, beginnend am 17. Juni 2016, evaluiert.
+(3) § 8 Absatz 1 in der am 25. Juni 2021 geltenden Fassung ist bis zu dem Tag weiter anzuwenden, an dem eine Verordnung zur Änderung der Seeleute-Befähigungsverordnung in Kraft tritt, mit der ein Befähigungszeugnis zum Kapitän nationale Fahrt BRZ 100 (Kapitän NK 100) vorgesehen wird. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.
 
 # § 13 – Inkrafttreten, Außerkrafttreten
 
