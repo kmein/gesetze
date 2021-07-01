@@ -1841,9 +1841,43 @@ b) 15 vom Hundert des verbleibenden Anteils,
 
 2. bei der Verletztenrente aus der Unfallversicherung
 
-a) ein der Grundrente nach dem Bundesversorgungsgesetz entsprechender Betrag, bei einer Minderung der Erwerbsfähigkeit um 20 vom Hundert zwei Drittel der Mindestgrundrente, bei einer Minderung der Erwerbsfähigkeit um 10 vom Hundert ein Drittel der Mindestgrundrente, und
+a) ein verletzungsbedingte Mehraufwendungen und den immateriellen Schaden ausgleichender Betrag nach den Absätzen 2a und 2b, und
 
-b) je 16,67 vom Hundert des aktuellen Rentenwerts für jeden Prozentpunkt der Minderung der Erwerbsfähigkeit, wenn diese mindestens 60 vom Hundert beträgt und die Rente aufgrund einer entschädigungspflichtigen Berufskrankheit nach den Nummern 4101, 4102 oder 4111 der Anlage zur Berufskrankheiten-Verordnung vom 31. Oktober 1997 geleistet wird.
+b) je 16,67 Prozent des aktuellen Rentenwerts für jeden Prozentpunkt der Minderung der Erwerbsfähigkeit, wenn diese mindestens 60 Prozent beträgt und die Rente aufgrund einer entschädigungspflichtigen Berufskrankheit nach den Nummern 4101, 4102 oder 4111 der Anlage zur Berufskrankheiten-Verordnung vom 31. Oktober 1997 geleistet wird.
+
+(2a) Der die verletzungsbedingten Mehraufwendungen und den immateriellen Schaden ausgleichende Betrag beträgt bei einer Minderung der Erwerbsfähigkeit von
+
+1. 10 Prozent das 1,51fache,
+
+2. 20 Prozent das 3,01fache,
+
+3. 30 Prozent das 4,52fache,
+
+4. 40 Prozent das 6,20fache,
+
+5. 50 Prozent das 8,32fache,
+
+6. 60 Prozent das 10,51fache,
+
+7. 70 Prozent das 14,58fache,
+
+8. 80 Prozent das 17,63fache,
+
+9. 90 Prozent das 21,19fache,
+
+10. 100 Prozent das 23,72fache
+
+des aktuellen Rentenwerts. Liegt der Wert der Minderung der Erwerbsfähigkeit zwischen vollen 10 Prozent, gilt der Faktor für die nächsthöheren 10 Prozent.
+
+(2b) Bei einer Minderung der Erwerbsfähigkeit von mindestens 50 Prozent erhöht sich der Betrag nach Absatz 2a zum Ersten des Monats, in dem das 65. Lebensjahr vollendet wird, bei Geburten am Ersten eines Monats jedoch vom Monat der Geburt an. Die Erhöhung beträgt bei einer Minderung der Erwerbsfähigkeit
+
+1. von 50 und 60 Prozent das 0,92fache,
+
+2. von 70 und 80 Prozent das 1,16fache,
+
+3. von mindestens 90 Prozent das 1,40fache
+
+des aktuellen Rentenwerts. Liegt der Wert der Minderung der Erwerbsfähigkeit zwischen vollen 10 Prozent, gilt der Faktor für die nächsthöheren 10 Prozent.
 
 (3) Der Grenzbetrag beträgt 70 vom Hundert eines Zwölftels des Jahresarbeitsverdienstes, der der Berechnung der Rente aus der Unfallversicherung zugrunde liegt, vervielfältigt mit dem jeweiligen Rentenartfaktor für persönliche Entgeltpunkte der allgemeinen Rentenversicherung; bei einer Rente für Bergleute beträgt der Faktor 0,4. Mindestgrenzbetrag ist der Monatsbetrag der Rente ohne die Beträge nach Absatz 2 Nr. 1.
 

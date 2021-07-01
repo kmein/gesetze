@@ -41,7 +41,7 @@ Die Vorschriften des Gerichtsverfassungsgesetzes finden auf die ordentliche Geri
 
 # § 9
 
-Durch die Gesetzgebung eines Landes, in dem mehrere Oberlandesgerichte errichtet werden, können die zur Zuständigkeit der Oberlandesgerichte gehörenden Entscheidungen in Strafsachen oder in Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen ganz oder teilweise ausschließlich einem der mehreren Oberlandesgerichte oder an Stelle eines solchen Oberlandesgerichts dem Obersten Landesgericht zugewiesen werden. Dem Obersten Landesgericht können auch die zur Zuständigkeit eines Oberlandesgerichts nach § 120 des Gerichtsverfassungsgesetzes gehörenden Entscheidungen zugewiesen werden.
+Durch die Gesetzgebung eines Landes, in dem mehrere Oberlandesgerichte errichtet werden, können die zur Zuständigkeit der Oberlandesgerichte gehörenden Entscheidungen in Strafsachen oder in Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen ganz oder teilweise ausschließlich einem der mehreren Oberlandesgerichte oder an Stelle eines solchen Oberlandesgerichts dem Obersten Landesgericht zugewiesen werden. Dem Obersten Landesgericht können auch die zur Zuständigkeit eines Oberlandesgerichts nach den §§ 120 und 120b des Gerichtsverfassungsgesetzes gehörenden Entscheidungen zugewiesen werden.
 
 # § 10
 

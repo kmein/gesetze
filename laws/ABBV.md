@@ -40,6 +40,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+# § 4 – Übergangsregelung
+
+Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des Eisenbahnkreuzungsgesetzes vor dem Ablauf des 1. Juli 2021 eine Vereinbarung getroffen haben, ist diese Verordnung in der bis zum Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
+
 # Anlage – (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2010, 857 - 871)
@@ -67,7 +71,7 @@ Brücken gliedern sich in der Regel in Unter- und Überbauten. Zu den Brücken, 
 1.5  
 Unterbauten von Brücken
 
-Zu den Unterbauten von Brücken gehören Widerlager einschließlich Hohlwiderlager (aufgelöste Widerlager, die zur Durchführung von Verkehrswegen genutzt werden), Flügelwände, Pfeiler, Stützen einschließlich Schutzeinrichtungen (Anprallsockel, Anprallbalken), Pylone einschließlich der jeweiligen Gründungen, Abdichtungen und Bauwerksentwässerung. Pylone schließen unter anderem auch Ankerkörper, Seil- und Kabelaufhängungen ein.
+Zu den Unterbauten von Brücken gehören Widerlager, aufgelöste Widerlager, die zur Durchführung von Verkehrswegen genutzt werden (Hohlwiderlager), Flügelwände, Pfeiler, Stützen, Pylone einschließlich der jeweiligen Flach- oder Tiefgründungen, Abdichtungen und Bauwerksentwässerung. Stützen schließen unter anderem auch Schutzeinrichtungen wie Anprallsockel und Anprallbalken ein. Pylone schließen unter anderem auch Ankerkörper, Seil- und Kabelaufhängungen ein.
 
 1.6  
 Überbauten von Brücken
@@ -116,7 +120,7 @@ Fahrwege von Eisenbahnen
 
 Zu den Fahrwegen von Eisenbahnen gehören im Wesentlichen Schotterbett, Gleisschwellen, Schienen, Weichen, feste Fahrbahnen, Entwässerung, Geländer, Zäune, Mauern und Böschungsbefestigungen, Dienstgehwege einschließlich der erforderlichen Gründungen sowie Bahnübergangssicherungsanlagen.
 
-Für Oberleitungsanlagen und signaltechnische Anlagen sind die Werte der theoretischen Nutzungsdauern m und der Prozentsätze p der jährlichen Unterhaltungskosten im Einzelfall zu vereinbaren. Für Entwässerungsanlagen, Geländer, Zäune, Mauern und Böschungsbefestigungen sind die Werte m und p der Straßen und Wege maßgebend.
+Für signaltechnische Anlagen sind die Werte der theoretischen Nutzungsdauern m und der Prozentsätze p der jährlichen Unterhaltungskosten im Einzelfall zu vereinbaren. Für Entwässerungsanlagen, Geländer, Zäune, Mauern und Böschungsbefestigungen sind die Werte m und p der Straßen und Wege maßgebend.
 
 1.15  
 Straßen und Wege
@@ -290,7 +294,10 @@ Bei einer zeitlich nur begrenzten Unterhaltsverpflichtung über t Jahre ergibt s
 
 Durch den Übergang t → ∞ ergibt sich wiederum die Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
 
-(6) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
+  
+(6) Wenn nur der nicht erhaltungspflichtige Beteiligte eine Änderung verlangt, werden die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage E<sub>alt</sub> abweichend von Absatz 1 nicht mit der theoretischen Nutzungsdauer m, sondern mit der verlängerten theoretischen Nutzungsdauer m<sub>v</sub> ermittelt.   
+
+(7) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
 
 Variable
 
@@ -307,13 +314,24 @@ Die theoretische Nutzungsdauer m der Bauwerksteile und der Bauteile beginnt mit 
 Die theoretische Nutzungsdauer ist ein Erfahrungswert für die mögliche Nutzungsdauer einer baulichen Anlage, eines Bauwerksteils oder eines Bauteils und ist unabhängig von der tatsächlichen Nutzungsdauer bei der Ablösungsberechnung anzuwenden.
 
 2.6  
+Verlängerte theoretische Nutzungsdauer
+
+Die verlängerte theoretische Nutzungsdauer berücksichtigt die vorzeitige Erneuerung der baulichen Anlage durch die Änderung des nicht erhaltungspflichtigen Beteiligten. Die verlängerte theoretische Nutzungsdauer ist zu ermitteln nach der Formel:
+
+m<sub>v</sub> = m ∙ 1,1
+
+Die verlängerte theoretische Nutzungsdauer ist auf volle Jahre kaufmännisch zu runden.
+
+Wird durch die Änderung des nicht erhaltungspflichtigen Beteiligten eine vorgesehene Erneuerungsmaßnahme des Erhaltungspflichtigen zu einer Änderungsmaßnahme, so sind die Restnutzungsdauer der alten baulichen Anlage n und die kapitalisierten Erhaltungskosten der alten baulichen Anlage<sub>alt</sub> mit der theoretischen Nutzungsdauer m nach Nummer 2.5 zu ermitteln.
+
+2.7  
 Restnutzungsdauer
 
 Die Restnutzungsdauer n ist unabhängig vom tatsächlichen Zustand der baulichen Anlage stets die Anzahl der Jahre vom Zeitpunkt der Ablösung bis zur nächsten fälligen theoretischen Erneuerung. Nach Ablauf der theoretischen Nutzungsdauer ist die Restnutzungsdauer mit Null anzusetzen.
 
 Wird bei der Ermittlung der Erneuerungskosten nach Nummer 3.1 eine nach Unterbau und Überbau gegliederte Brücke im Fiktiventwurf beispielsweise durch ein Rahmenbauwerk ersetzt, so ist eine gemeinsame Restnutzungsdauer aus den Restnutzungsdauern von Unterbau und Überbau abzuleiten.
 
-2.7  
+2.8  
 Tabellen
 
 Die theoretischen Nutzungsdauern m und die Prozentsätze p der jährlichen Unterhaltungskosten der Ingenieurbauwerke sind in Kapitel 4 in den Tabellen 1 bis 6 festgelegt.
@@ -335,7 +353,7 @@ Sind bei Lichtsignalanlagen die Erstellungskosten an Instandhaltungsverträge ge
 
 Erlöse aus der Verwertung oder der Wert nicht mehr benötigter Bauwerksteile und Altstoffe sind von den Kosten abzusetzen.
 
-Alle einmaligen Kosten, die nur bei der Erstellung oder Änderung anfallen, jedoch bei einer späteren Erneuerung nicht wiederkehren (z. B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des Verkehrsraums, Pfahlgründungen, Rampen) sind bei der Ermittlung der Erneuerungskosten (K<sub>e</sub>) und damit bei der Ablösung nicht zu berücksichtigen.
+Alle einmaligen Kosten, die nur bei der Erstellung oder Änderung anfallen, jedoch bei einer späteren Erneuerung nicht wiederkehren (z. B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des Verkehrsraums, Rampen) sind bei der Ermittlung der Erneuerungskosten (K<sub>e</sub>) und damit bei der Ablösung nicht zu berücksichtigen.
 
 3.2  
 Zusammensetzung der Erneuerungskosten
@@ -364,7 +382,7 @@ Die Kosten für Baustelleneinrichtung und -räumung werden bei Oberbauarbeiten g
 3.6  
 Aufteilung der Kosten für Abbruch, Behelfszustände, Betriebserschwernisse, Umleitungsmaßnahmen bei Brückenbauwerken
 
-Bei Ingenieurbauwerken sind die Kosten für Abbruch und für die während der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen Behelfszustände einschließlich der Verschubbahnen, Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen auf Unterbau und Überbau und Sicherungsposten entsprechend den Anteilen dieser Bauwerksteile an den reinen Baukosten zu verteilen.
+Bei Ingenieurbauwerken sind die Kosten für Abbruch und für die während der nächsten Erneuerung zur Aufrechterhaltung des Verkehrs notwendigen Behelfszustände einschließlich der Verschubbahnen, Betriebserschwernisse von Eisenbahnen, Umleitungsmaßnahmen und Sicherungsposten auf Unterbau und Überbau entsprechend den Anteilen dieser Bauwerksteile an den reinen Baukosten zu verteilen.
 
 3.7  
 Aufteilung der Kosten für Abbruch, Behelfszustände, Umleitungsmaßnahmen bei Straßen und Wegen
@@ -412,7 +430,7 @@ Bei der Berechnung der kapitalisierten Energiekosten gemäß dem zweiten Summand
 3.10  
 Verwaltungskosten
 
-Mit den Verwaltungskosten in Höhe von 10 vom Hundert der Kosten nach Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten, Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und der Ausführungspläne, die Einholung behördlicher Genehmigungen, die örtliche Bauaufsicht (Bauüberwachung) und Bauleitung (Baulenkung), ferner die Stellung von Prüf- und Messgeräten, Messfahrzeugen, Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und von Fahrzeugen für die Probebelastung sowie sonstige Verwaltungstätigkeiten einschließlich des Rechnungs- und Kassendienstes abgegolten.
+Mit den Verwaltungskosten in Höhe von 20 Prozent der Kosten nach Nummer 3.3 bis 3.7 sind insbesondere die Aufwendungen für Vorarbeiten, Vorentwürfe, die Bearbeitung des vergabereifen Bauentwurfs, die Vergabe der Bauarbeiten, die Prüfung der statischen Berechnungen und der Ausführungspläne, die Einholung behördlicher Genehmigungen, die örtliche Bauaufsicht (Bauüberwachung) und Bauleitung (Baulenkung), ferner die Stellung von Prüf- und Messgeräten, Messfahrzeugen, Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und von Fahrzeugen für die Probebelastung sowie sonstige Verwaltungstätigkeiten einschließlich des Rechnungs- und Kassendienstes abgegolten.
 
 Ferner sind damit die Aufwendungen für Umweltverträglichkeitsprüfungen, landschaftspflegerische Begleitpläne, schalltechnische Berechnungen sowie die Erstellung und Prüfung von Berechnungen der Ablösungsbeträge der Erhaltungskosten abgegolten.
 

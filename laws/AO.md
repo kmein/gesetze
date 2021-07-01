@@ -3159,6 +3159,14 @@ erforderlich ist.
 
 Mitteilungen an die Zentralstelle für Finanztransaktionsuntersuchungen sind durch elektronische Datenübermittlung zu erstatten; hierbei ist ein sicheres Verfahren zu verwenden, das die Vertraulichkeit und Integrität des Datensatzes gewährleistet. Im Fall einer Störung der Datenübertragung ist ausnahmsweise eine Mitteilung auf dem Postweg möglich. § 45 Absatz 3 und 4 des Geldwäschegesetzes gilt entsprechend.
 
+(2a) Die Finanzbehörden übermitteln der Zentralstelle für Finanztransaktionsuntersuchungen folgende Daten nach Maßgabe des § 31 Absatz 5 des Geldwäschegesetzes im automatisierten Verfahren, soweit dies zur Wahrnehmung der Aufgaben der Zentralstelle für Finanztransaktionsuntersuchungen nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes erforderlich ist:
+
+1. beim Bundeszentralamt für Steuern die nach § 5 Absatz 1 Nummer 13 des Finanzverwaltungsgesetzes vorgehaltenen Daten,
+
+2. bei den Landesfinanzbehörden die zu einem Steuerpflichtigen gespeicherten Grundinformationen, die die Steuernummer, die Gewerbekennzahl, die Grund-und Zusatzkennbuchstaben, die Bankverbindung, die vergebene Umsatzsteuer-Identifikationsnummer sowie das zuständige Finanzamt umfassen.
+
+(2b) Wird von der Verordnungsermächtigung des § 22a des Grunderwerbsteuergesetzes zur elektronischen Übermittlung der Anzeige im Sinne des § 18 des Grunderwerbsteuergesetzes Gebrauch gemacht, übermitteln die Landesfinanzbehörden die dort eingegangenen Datensätze nach Maßgabe des § 31 Absatz 5a des Geldwäschegesetzes der Zentralstelle für Finanztransaktionsuntersuchungen zur Wahrnehmung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes im automatisierten Verfahren.Absatz 2 Satz 2 gilt entsprechend.
+
 (3) Die Finanzbehörden haben der zuständigen Verwaltungsbehörde unverzüglich solche Tatsachen mitzuteilen, die darauf schließen lassen, dass
 
 1. ein Verpflichteter nach § 2 Absatz 1 Nummer 13 bis 16 des Geldwäschegesetzes eine Ordnungswidrigkeit nach § 56 des Geldwäschegesetzes begangen hat oder begeht oder

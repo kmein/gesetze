@@ -373,9 +373,3 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung zur R
 6. die Feststellung des Wahlergebnisses und die Fristen für seine Bekanntmachung;
 
 7. die Aufbewahrung der Wahlakten.
-
-# § 39 – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Die Teilnahme an Sitzungen des Sprecherausschusses, des Unternehmenssprecherausschusses, des Gesamtsprecherausschusses und des Konzernsprecherausschusses sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. § 13 Absatz 3 Satz 3 gilt mit der Maßgabe, dass die Teilnehmer ihre Anwesenheit gegenüber dem Vorsitzenden in Textform bestätigen.
-
-(2) Eine Versammlung nach § 15 kann mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.

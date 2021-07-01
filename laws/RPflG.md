@@ -587,17 +587,21 @@ Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
 # § 30 – (weggefallen)
 
-# § 31 – Geschäfte der Staatsanwaltschaft im Strafverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln
+# § 31 – Geschäfte der Staatsanwaltschaft im Straf- und Bußgeldverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln
 
 (1) Von den Geschäften der Staatsanwaltschaft im Strafverfahren werden dem Rechtspfleger übertragen:
 
 1. die Geschäfte bei der Vollziehung der Beschlagnahme (§ 111c Absatz 3 Satz 1 und Absatz 4 Satz 2 und 3 der Strafprozessordnung),
 
-2. die Geschäfte bei der Vollziehung der Beschlagnahme und der Vollziehung des Vermögensarrestes sowie die Anordnung der Notveräußerung und die weiteren Anordnungen bei deren Durchführung (§§ 111k und 111p der Strafprozessordnung), soweit die entsprechenden Geschäfte im Zwangsvollstreckungs- und Arrestverfahren dem Rechtspfleger übertragen sind,
+2. die Geschäfte bei der Vollziehung der Beschlagnahme und der Vollziehung des Vermögensarrestes sowie die Anordnung der Notveräußerung und die weiteren Anordnungen bei deren Durchführung (§§ 111k, 111l und 111p der Strafprozessordnung), soweit die entsprechenden Geschäfte im Zwangsvollstreckungs- und Arrestverfahren dem Rechtspfleger übertragen sind,
 
-3. die Geschäfte im Zusammenhang mit Insolvenzverfahren (§ 111i der Strafprozessordnung) und
+3. die Geschäfte im Zusammenhang mit Insolvenzverfahren (§ 111i der Strafprozessordnung),
 
-4. die Geschäfte bei der Verwaltung beschlagnahmter oder gepfändeter Gegenstände (§ 111m der Strafprozessordnung).
+4. die Geschäfte bei der Verwaltung beschlagnahmter oder gepfändeter Gegenstände (§ 111m der Strafprozessordnung) und
+
+5. die Geschäfte bei der Vollziehung der Herausgabe von beschlagnahmten beweglichen Sachen (§ 111n in Verbindung mit § 111c Absatz 1 der Strafprozessordnung).
+
+In Bußgeldverfahren gilt für die Geschäfte der Staatsanwaltschaft Satz 1 entsprechend.
 
 (2) Die der Vollstreckungsbehörde in Straf- und Bußgeldsachen obliegenden Geschäfte werden dem Rechtspfleger übertragen. Ausgenommen sind Entscheidungen nach § 114 des Jugendgerichtsgesetzes. Satz 1 gilt entsprechend, soweit Ordnungs- und Zwangsmittel von der Staatsanwaltschaft vollstreckt werden.
 

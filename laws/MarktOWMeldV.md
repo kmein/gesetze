@@ -61,7 +61,7 @@ Im Sinne dieser Verordnung sind:
 
 14. Molkereien: Unternehmen, die im Durchschnitt eines Jahres täglich mindestens 3 000 Liter Milch verarbeiten oder nach einer Bearbeitung zur weiteren Be- und Verarbeitung an andere Unternehmen abgeben; als Molkereien im Sinne dieser Verordnung gelten auch Unternehmen, die Erzeugnisse im Sinne von Nummer 17 und Nummer 18 Buchstabe a bis d herstellen,
 
-15. Abnehmer von Milch: Abnehmer im Sinne von § 1 Absatz 3 der Milch-Güteverordnung,
+15. Abnehmer von Milch: Abnehmer im Sinne des § 3 Absatz 1 Nummer 3 der Rohmilchgüteverordnung mit Ausnahme von Abnehmern, die Rohmilch gemäß § 2 Absatz 2 der Rohmilchgüteverordnung übernehmen,
 
 16. Milch: das Gemelk einer oder mehrerer Kühe, Schafe, Ziegen oder Büffel,
 
@@ -495,7 +495,7 @@ d) den Abgang im Inland untergliedert nach Abnehmergruppen sowie in Mitgliedstaa
 
 2. den Auszahlungspreis für Milch für die Anlieferungsmenge von Milcherzeugern in der Gliederung nach Nummer 1 Buchstabe a, jeweils unter Angabe des Preises ab Erfassungsstelle in Euro, für Kuhmilch zusätzlich die Zuschläge, Zuschüsse, Abzüge, Abgaben, Umlagen und sonstigen Kosten, die den Auszahlungspreis beeinflussen, einschließlich der Erfassungskosten, gegebenenfalls unter Angabe der betroffenen Milchmenge, sowie die an die Milcherzeuger ausgezahlte Umsatzsteuer,
 
-3. für Kuhmilch die Werte für eine Fett- und eine Eiweißeinheit, die zur Berechnung der Zu- und Abschläge zur Berücksichtigung von Abweichungen des Fett- und Eiweißgehalts der Anlieferungsmilch zugrunde gelegt werden (§ 4 Absatz 2 Satz 2 Nummer 2 der Milch-Güteverordnung), sowie den Umrechnungsfaktor von Liter auf Kilogramm.
+3. für Kuhmilch die Werte für eine Fett- und eine Eiweißeinheit, die zur Berechnung der Zu- und Abschläge zur Berücksichtigung von Abweichungen des Fett- und Eiweißgehalts der Anlieferungsmilch zugrunde gelegt werden (§ 31 Absatz 1 Nummer 3 der Rohmilchgüteverordnung).
 
 Sofern dies die zuständige Stelle genehmigt, kann abweichend von Satz 1 die Molkerei, die die Milch oder den Rahm von dem Abnehmer aufkauft, die Meldungen abgeben. Im Falle des Satzes 1 Nummer 1 Buchstabe a, c und d ist zusätzlich der jeweilige Fettgehalt in Fetteinheiten anzugeben, im Falle des Satzes 1 Nummer 1 Buchstabe a ist ferner zusätzlich der jeweilige Eiweißgehalt in Eiweißeinheiten anzugeben.
 

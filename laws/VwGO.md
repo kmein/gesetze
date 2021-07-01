@@ -968,7 +968,7 @@ Die Länder können auch bestimmen, daß Rechtsbehelfe keine aufschiebende Wirku
 
 (1) Die aufschiebende Wirkung des Widerspruchs und der Anfechtungsklage endet mit der Unanfechtbarkeit oder, wenn die Anfechtungsklage im ersten Rechtszug abgewiesen worden ist, drei Monate nach Ablauf der gesetzlichen Begründungsfrist des gegen die abweisende Entscheidung gegebenen Rechtsmittels. Dies gilt auch, wenn die Vollziehung durch die Behörde ausgesetzt oder die aufschiebende Wirkung durch das Gericht wiederhergestellt oder angeordnet worden ist, es sei denn, die Behörde hat die Vollziehung bis zur Unanfechtbarkeit ausgesetzt.
 
-(2) Das Oberverwaltungsgericht kann auf Antrag anordnen, daß die aufschiebende Wirkung fortdauert.
+(2) Das Rechtsmittelgericht kann auf Antrag anordnen, daß die aufschiebende Wirkung fortdauert.
 
 (3) § 80 Abs. 5 bis 8 und § 80a gelten entsprechend.
 
@@ -1166,9 +1166,9 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (1) Die Beteiligten können die Gerichtsakten und die dem Gericht vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
 
-(2) Werden die Prozessakten elektronisch geführt, wird Akteneinsicht durch Bereitstellung des Inhalts der Akten zum Abruf gewährt. Auf besonderen Antrag wird Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen gewährt. Ein Aktenausdruck oder ein Datenträger mit dem Inhalt der Akten wird auf besonders zu begründenden Antrag nur übermittelt, wenn der Antragsteller hieran ein berechtigtes Interesse darlegt. Stehen der Akteneinsicht in der nach Satz 1 vorgesehenen Form wichtige Gründe entgegen, kann die Akteneinsicht in der nach den Sätzen 2 und 3 vorgesehenen Form auch ohne Antrag gewährt werden. Über einen Antrag nach Satz 3 entscheidet der Vorsitzende; die Entscheidung ist unanfechtbar. § 87a Absatz 3 gilt entsprechend.
+(2) Werden die Prozessakten elektronisch geführt, wird Akteneinsicht durch Bereitstellung des Inhalts der Akten zum Abruf oder durch Übermittlung des Inhalts der Akten auf einem sicheren Übermittlungsweg gewährt. Auf besonderen Antrag wird Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen gewährt. Ein Aktenausdruck oder ein Datenträger mit dem Inhalt der Akten wird auf besonders zu begründenden Antrag nur übermittelt, wenn der Antragsteller hieran ein berechtigtes Interesse darlegt. Stehen der Akteneinsicht in der nach Satz 1 vorgesehenen Form wichtige Gründe entgegen, kann die Akteneinsicht in der nach den Sätzen 2 und 3 vorgesehenen Form auch ohne Antrag gewährt werden. Über einen Antrag nach Satz 3 entscheidet der Vorsitzende; die Entscheidung ist unanfechtbar. § 87a Absatz 3 gilt entsprechend.
 
-(3) Werden die Prozessakten in Papierform geführt, wird Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen gewährt. Die Akteneinsicht kann, soweit nicht wichtige Gründe entgegenstehen, auch durch Bereitstellung des Inhalts der Akten zum Abruf gewährt werden. Nach dem Ermessen des Vorsitzenden kann der nach § 67 Absatz 2 Satz 1 und 2 Nummer 3 bis 6 bevollmächtigten Person die Mitnahme der Akten in die Wohnung oder Geschäftsräume gestattet werden. § 87a Absatz 3 gilt entsprechend.
+(3) Werden die Prozessakten in Papierform geführt, wird Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen gewährt. Die Akteneinsicht kann, soweit nicht wichtige Gründe entgegenstehen, auch durch Bereitstellung des Inhalts der Akten zum Abruf oder durch Übermittlung des Inhalts der Akten auf einem sicheren Übermittlungsweg gewährt werden. Nach dem Ermessen des Vorsitzenden kann der nach § 67 Absatz 2 Satz 1 und 2 Nummer 3 bis 6 bevollmächtigten Person die Mitnahme der Akten in die Wohnung oder Geschäftsräume gestattet werden. § 87a Absatz 3 gilt entsprechend.
 
 (4) In die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die Arbeiten zu ihrer Vorbereitung und die Dokumente, die Abstimmungen betreffen, wird Akteneinsicht nach den Absätzen 1 bis 3 nicht gewährt.
 
@@ -1802,7 +1802,7 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das G
 
 # § 176
 
-Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweichend von § 29 Satz 1 des Deutschen Richtergesetzes bei einer gerichtlichen Entscheidung auch mitwirken:
+Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweichend von § 29 Absatz 1 des Deutschen Richtergesetzes bei einer gerichtlichen Entscheidung auch mitwirken:
 
 1. zwei abgeordnete Richter auf Lebenszeit oder
 

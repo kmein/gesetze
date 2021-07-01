@@ -631,7 +631,15 @@ Wird die Leistung in einer stationären oder teilstationären Einrichtung erbrac
 
 # § 25d
 
-(1) Einkommen im Sinne der Vorschriften über die Kriegsopferfürsorge sind alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen der Kriegsopferfürsorge; § 26a Abs. 4 bleibt unberührt. Als Einkommen gelten nicht die Grundrente und die Schwerstbeschädigtenzulage sowie ein Betrag in Höhe der Grundrente, soweit nach § 44 Abs. 5 Leistungen auf die Witwengrundrente angerechnet werden oder soweit die Grundrente nach § 65 ruht. Satz 2 gilt auch für den der Witwen- und Waisenbeihilfe nach § 48 zugrunde liegenden Betrag der Grundrente.
+(1) Einkommen im Sinne der Vorschriften über die Kriegsopferfürsorge sind alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen der Kriegsopferfürsorge; § 26a Abs. 4 bleibt unberührt. Als Einkommen gelten nicht:
+
+1. die Grundrente und die Schwerstbeschädigtenzulage,
+
+2. ein Betrag in Höhe der Grundrente, soweit nach § 44 Absatz 5 Leistungen auf die Witwengrundrente angerechnet werden oder soweit die Grundrente nach § 65 ruht,
+
+3. Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag.
+
+Satz 2 gilt auch für den der Witwen- und Waisenbeihilfe nach § 48 zugrunde liegenden Betrag der Grundrente.
 
 (2) Als Einkommen der Leistungsberechtigten gilt auch das Einkommen der nicht getrennt lebenden Ehegatten oder Lebenspartner, soweit es die für die Leistungsberechtigten maßgebliche Einkommensgrenze des § 25e Abs. 1 übersteigt. Leistungen anderer auf Grund eines bürgerlich-rechtlichen Unterhaltsanspruchs sind insoweit Einkommen der Leistungsberechtigten, als das Einkommen der Unterhaltspflichtigen die für sie nach § 25e Abs. 1 zu ermittelnde Einkommensgrenze übersteigt; ist ein Unterhaltsbetrag gerichtlich festgesetzt, sind die darauf beruhenden Leistungen Einkommen der Leistungsberechtigten. § 25e Abs. 2 bleibt unberührt.
 
@@ -645,7 +653,7 @@ Wird die Leistung in einer stationären oder teilstationären Einrichtung erbrac
 
 4. die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben.
 
-Von dem Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder nach § 2 Absatz 1 Nummer 3 des Jugendfreiwilligendienstegesetzes ist anstelle der Beträge nach Satz 1 Nummer 2 bis 4 ein Betrag von bis zu 250 Euro monatlich abzusetzen.
+Von dem Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder nach § 2 Absatz 1 Nummer 4 des Jugendfreiwilligendienstegesetzes ist anstelle der Beträge nach Satz 1 Nummer 2 bis 4 ein Betrag von bis zu 250 Euro monatlich abzusetzen.
 
 (3a) Bei der ergänzenden Hilfe zum Lebensunterhalt ist ferner ein Betrag von 100 Euro monatlich aus einer zusätzlichen Altersvorsorge der Leistungsberechtigten zuzüglich 30 vom Hundert des diesen Betrag übersteigenden Einkommens aus einer zusätzlichen Altersvorsorge der Leistungsberechtigten abzusetzen, höchstens jedoch 50 vom Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch.
 
@@ -1974,6 +1982,14 @@ Der Träger der Kriegsopferfürsorge hat über Leistungen der ergänzenden Hilfe
 # § 88d
 
 Erwachsene Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach § 27a gezahlt werden, erhalten für sich und ihren Ehegatten oder Lebenspartner im Sinne des § 25 Absatz 4 Satz 2 Nummer 1 für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro.
+
+# § 88e
+
+(1) Abweichend von § 27a dieses Gesetzes in Verbindung mit § 34a Absatz 1 Satz 1 des Zwölften Buches Sozialgesetzbuch gilt der Antrag auf Leistungen nach § 27a dieses Gesetzes in Verbindung mit § 34 Absatz 5 des Zwölften Buches Sozialgesetzbuch in der Zeit vom 1. Juli 2021 bis zum Ablauf des 31. Dezember 2023 von dem Antrag auf ergänzende Hilfe zum Lebensunterhalt als mit umfasst. Dies gilt für ab dem 1. Juli 2021 entstehende Lernförderungsbedarfe auch dann, wenn die jeweiligen Bewilligungszeiträume nur teilweise in den in Satz 1 genannten Zeitraum fallen, weil sie entweder bereits vor dem 1. Juli 2021 begonnen haben oder erst nach dem 31. Dezember 2023 enden.
+
+(2) Leistungsberechtigte, die für den Monat August 2021 Anspruch auf Leistungen nach § 27a und das 18. Lebensjahr noch nicht vollendet haben, erhalten eine Einmalzahlung in Höhe von 100 Euro. Die Einmalzahlung nach Satz 1 erhalten auch Familienmitglieder, die nach § 27a in Verbindung mit § 25 Absatz 4 Satz 2 für den Monat August 2021 Leistungen erhalten und das 18. Lebensjahr noch nicht vollendet haben. Eines gesonderten Antrags bedarf es nicht.
+
+(3) Die Einmalzahlung nach Absatz 2 ist bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen zu berücksichtigen. Der Anspruch auf die Einmalzahlung nach Absatz 2 ist unpfändbar.
 
 # § 89
 

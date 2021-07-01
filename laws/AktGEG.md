@@ -6,6 +6,7 @@
 |     |           |                                                                                 |           |
 |:----|:----------|:--------------------------------------------------------------------------------|:----------|
 | 1\. | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26j  |
+|     |           | Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz                   |   § 26k   |
 | 2\. | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28a |
 | 3\. | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44  |
 | 4\. | Abschnitt | Schlußvorschriften                                                              | §§ 45-46  |
@@ -111,6 +112,8 @@ Die Unwirksamkeit gemäß § 52 Aktiengesetz eines vor dem 1. Januar 2000 geschl
 (4) § 100 Abs. 5 und § 107 Abs. 4 des Aktiengesetzes in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) finden keine Anwendung, solange alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 (5) § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes jeweils in der Fassung des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142) müssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.
+
+(6) § 100 Absatz 5 und § 107 Absatz 4 Satz 3 des Aktiengesetzes in der jeweils ab dem 1. Juli 2021 geltenden Fassung müssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 1. Juli 2021 bestellt worden sind.
 
 # § 13 – Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
 
@@ -253,6 +256,18 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 1. auf Mitteilungen nach § 67 Absatz 4 Satz 1 bis 5 des Aktiengesetzes und bei börsennotierten Gesellschaften nach § 67d des Aktiengesetzes ist § 3 der Verordnung über den Ersatz von Aufwendungen der Kreditinstitute sinngemäß anzuwenden, und
 
 2. auf Mitteilungen nach den §§ 67a bis 67c, auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes ist § 1 der Verordnung über den Ersatz von Aufwendungen der Kreditinstitute sinngemäß anzuwenden.
+
+# § 26k – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+(1) Die §§ 404a, 405 und 407a des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+(2) § 107 Absatz 4 Satz 1, 2, 4 bis 6, § 209 Absatz 5 und § 407 Absatz 1 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals ab dem 1. Januar 2022 anzuwenden.
+
+(3) § 256 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf Jahresabschlüsse für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden.
+
+(4) § 143 Absatz 2, § 209 Absatz 4 und § 258 Absatz 4 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf Sonderprüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr bestellt, oder Prüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr gewählt werden, anzuwenden.
+
+(5) § 293d in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf die Prüfung von Unternehmensverträgen anzuwenden, die nach dem 31. Dezember 2021 geschlossen wurden. § 293d in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals auf die Prüfung von Unternehmensverträgen anzuwenden, die vor dem 1. Januar 2022 geschlossen wurden.
 
 # § 27 – Entscheidung über die Zusammensetzung des Aufsichtsrats
 

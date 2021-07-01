@@ -23,9 +23,11 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 5. des Deutschen Weinfonds und in Verfahren nach der Verordnung über den Klärschlamm-Entschädigungsfonds,
 
-6. nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung, dem Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Steuerberatungsgesetz sowie
+6. nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung, dem Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Steuerberatungsgesetz,
 
-7. nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz, dem Mautsystemgesetz und dem Infrastrukturabgabengesetz.
+7. nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz, dem Mautsystemgesetz und dem Infrastrukturabgabengesetz sowie
+
+8. der Ermöglichung des Befahrens von Bundeswasserstraßen mit Wasserfahrzeugen.
 
 (3) Dieses Gesetz findet keine Anwendung, soweit das Recht der Europäischen Union die Erhebung von Gebühren oder Auslagen für bestimmte Leistungen ausschließt.
 
@@ -35,7 +37,7 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 1. in Ausübung hoheitlicher Befugnisse erbrachte Handlungen,
 
-2. die Ermöglichung der Inanspruchnahme von vom Bund oder von bundesunmittelbaren Körperschaften, Anstalten und Stiftungen unterhaltenen Einrichtungen und Anlagen sowie von Bundeswasserstraßen, soweit die Ermöglichung der Inanspruchnahme öffentlich-rechtlich geregelt ist,
+2. die Ermöglichung der Inanspruchnahme von vom Bund oder von bundesunmittelbaren Körperschaften, Anstalten und Stiftungen unterhaltenen Einrichtungen und Anlagen, soweit die Ermöglichung der Inanspruchnahme öffentlich-rechtlich geregelt ist,
 
 3. Überwachungsmaßnahmen, Prüfungen und Untersuchungen sowie
 

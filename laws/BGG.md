@@ -233,6 +233,84 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsvero
 
 6. die Einzelheiten des Überwachungsverfahrens nach § 13 Absatz 3 Satz 2 Nummer 1.
 
+# § 12e – Menschen mit Behinderungen in Begleitung durch Assistenzhunde
+
+(1) Träger öffentlicher Gewalt sowie Eigentümer, Besitzer und Betreiber von beweglichen oder unbeweglichen Anlagen und Einrichtungen dürfen Menschen mit Behinderungen in Begleitung durch ihren Assistenzhund den Zutritt zu ihren typischerweise für den allgemeinen Publikums- und Benutzungsverkehr zugänglichen Anlagen und Einrichtungen nicht wegen der Begleitung durch ihren Assistenzhund verweigern, soweit nicht der Zutritt mit Assistenzhund eine unverhältnismäßige oder unbillige Belastung darstellen würde. Weitergehende Rechte von Menschen mit Behinderungen bleiben unberührt.
+
+(2) Eine nach Absatz 1 unberechtigte Verweigerung durch Träger öffentlicher Gewalt gilt als Benachteiligung im Sinne von § 7 Absatz 1.
+
+(3) Ein Assistenzhund ist ein unter Beachtung des Tierschutzes und des individuellen Bedarfs eines Menschen mit Behinderungen speziell ausgebildeter Hund, der aufgrund seiner Fähigkeiten und erlernten Assistenzleistungen dazu bestimmt ist, diesem Menschen die selbstbestimmte Teilhabe am gesellschaftlichen Leben zu ermöglichen, zu erleichtern oder behinderungsbedingte Nachteile auszugleichen. Dies ist der Fall, wenn der Assistenzhund
+
+1. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft im Sinne des § 12g zertifiziert ist oder
+
+2. von einem Träger der gesetzlichen Sozialversicherung, einem Träger nach § 6 des Neunten Buches Sozialgesetzbuch, einem Beihilfeträger, einem Träger der Heilfürsorge oder einem privaten Versicherungsunternehmen als Hilfsmittel zur Teilhabe oder zum Behinderungsausgleich anerkannt ist oder
+
+3. im Ausland als Assistenzhund anerkannt ist und dessen Ausbildung den Anforderungen des § 12f Satz 2 entspricht oder
+
+4. zusammen mit einem Menschen mit Behinderungen als Mensch-Assistenzhund-Gemeinschaft vor dem 1. Juli 2021
+
+a) in einer den Anforderungen des § 12f Satz 2 entsprechenden Weise ausgebildet und entsprechend § 12g Satz 2 erfolgreich geprüft wurde oder
+
+b) sich in einer den Anforderungen des § 12f Satz 2 entsprechenden Ausbildung befunden hat und innerhalb von zwölf Monaten nach dem 1. Juli 2021 diese Ausbildung beendet und mit einer § 12g Satz 2 entsprechenden Prüfung erfolgreich abgeschlossen hat.
+
+(4) Ein Assistenzhund ist als solcher zu kennzeichnen.
+
+(5) Für den Assistenzhund ist eine Haftpflichtversicherung zur Deckung der durch ihn verursachten Personenschäden, Sachschäden und sonstigen Vermögensschäden abzuschließen und aufrechtzuerhalten.
+
+(6) Für Blindenführhunde und andere Assistenzhunde, die als Hilfsmittel im Sinne des § 33 des Fünften Buches Sozialgesetzbuch gewährt werden, finden die §§ 12f bis 12k und die Vorgaben einer Rechtsverordnung nach § 12l Nummer 1, 2 und 4 bis 6 dieses Gesetzes keine Anwendung.
+
+# § 12f – Ausbildung von Assistenzhunden
+
+Assistenzhund und die Gemeinschaft von Mensch und Tier (Mensch-Assistenzhund-Gemeinschaft) bedürfen einer geeigneten Ausbildung durch eine oder begleitet von einer Ausbildungsstätte für Assistenzhunde (§ 12i). Gegenstand der Ausbildung sind insbesondere die Schulung des Sozial- und Umweltverhaltens sowie des Gehorsams des Hundes, grundlegende und spezifische Hilfeleistungen des Hundes, das langfristige Funktionieren der Mensch-Assistenzhund-Gemeinschaft sowie die Vermittlung der notwendigen Kenntnisse und Fähigkeiten an den Halter, insbesondere im Hinblick auf die artgerechte Haltung des Assistenzhundes. Aufgabe der Ausbildungsstätte ist dabei nicht nur das Bereitstellen eines Assistenzhundes, sondern nach Abschluss der Ausbildung bei Bedarf auch die nachhaltige Unterstützung des Assistenzhundehalters.
+
+# § 12g – Prüfung von Assistenzhunden und der Mensch-Assistenzhund-Gemeinschaft
+
+Der Abschluss der Ausbildung des Hundes und der Mensch-Assistenzhund-Gemeinschaft nach § 12f erfolgt durch eine Prüfung. Die Prüfung dient dazu, die Eignung als Assistenzhund und die Zusammenarbeit der Mensch-Assistenzhund-Gemeinschaft nachzuweisen. Die bestandene Prüfung ist durch ein Zertifikat eines Prüfers im Sinne von § 12j Absatz 2 zu bescheinigen.
+
+# § 12h – Haltung von Assistenzhunden
+
+(1) Der Halter eines Assistenzhundes ist zur artgerechten Haltung des Assistenzhundes verpflichtet. Die Anforderungen des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 18. Mai 2006 (BGBl. I S. 1206, 1313), das zuletzt durch Artikel 280 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung sowie der Tierschutz-Hundeverordnung vom 2. Mai 2001 (BGBl. I S. 838), die zuletzt durch Artikel 3 der Verordnung vom 12. Dezember 2013 (BGBl. I S. 4145) geändert worden ist, in der jeweils geltenden Fassung, bleiben unberührt.
+
+(2) Soweit aufgrund der Art der Behinderung oder des Alters des Menschen mit Behinderungen die artgerechte Haltung des Assistenzhundes in der Mensch-Assistenzhund-Gemeinschaft nicht sichergestellt ist, ist die Versorgung des Assistenzhundes durch eine weitere Bezugsperson sicherzustellen. In diesem Fall gilt diese Bezugsperson als Halter des Assistenzhundes.
+
+# § 12i – Zulassung einer Ausbildungsstätte für Assistenzhunde
+
+Eine Ausbildungsstätte, die Assistenzhunde nach § 12f ausbildet, bedarf der Zulassung durch eine fachliche Stelle. Die Zulassung ist jährlich durch die fachliche Stelle zu überprüfen. Eine Ausbildungsstätte für Assistenzhunde ist auf Antrag zuzulassen, wenn sie
+
+1. über eine Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe f des Tierschutzgesetzes verfügt oder, soweit eine solche Erlaubnis nicht erforderlich ist, wenn die verantwortliche Person der Ausbildungsstätte die erforderlichen Kenntnisse und Fähigkeiten besitzt,
+
+2. über die erforderliche Sachkunde verfügt, die eine erfolgreiche Ausbildung von Assistenzhunden sowie der Mensch-Assistenzhund-Gemeinschaft erwarten lässt, und
+
+3. die Anforderungen der Verordnung gemäß § 12l erfüllt und ein System zur Qualitätssicherung anwendet.
+
+Der Antrag muss alle Angaben und Nachweise erhalten, die erforderlich sind, um das Vorliegen der Voraussetzungen nach Satz 2 festzustellen. Das Zulassungsverfahren folgt dem Verfahren nach DIN EN ISO/IEC 17065:2013<span id="FnR.F816729_01"></span><a href="#F816729_01" class="FnR">1</a></sup> . Die Zulassung einer Ausbildungsstätte ist jeweils auf längstens fünf Jahre zu befristen. Die fachliche Stelle bescheinigt die Kompetenz und Leistungsfähigkeit der Ausbildungsstätte durch ein Zulassungszertifikat.
+
+# § 12j – Fachliche Stelle und Prüfer
+
+(1) Als fachliche Stelle dürfen nur Zertifizierungsstellen für Produkte, Prozesse und Dienstleistungen nach DIN EN ISO/IEC 17065:2013 tätig werden, die von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30), die durch die Verordnung (EU) 2019/1020 (ABl. L 169 vom 25.6.2019, S. 1) geändert worden ist, in der jeweils geltenden Fassung akkreditiert worden sind. Die Akkreditierung ist jeweils auf längstens fünf Jahre zu befristen. Das Bundesministerium für Arbeit und Soziales übt im Anwendungsbereich dieses Gesetzes die Aufsicht über die nationale Akkreditierungsstelle aus.
+
+(2) Als Prüfer dürfen nur Stellen, die Personen zertifizieren, nach DIN EN ISO/IEC 17024:2012<span id="FnR.F816729_02"></span><a href="#F816729_02" class="FnR">2</a></sup> tätig werden, die von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 in der jeweils geltenden Fassung akkreditiert worden sind. Die Akkreditierung ist jeweils auf längstens fünf Jahre zu befristen. Ist der Prüfer zugleich als Ausbildungsstätte im Sinne von § 12i tätig, kann die Akkreditierung erteilt werden, wenn die Unabhängigkeitsanforderungen durch interne organisatorische Trennung und die Anforderungen gemäß Nummer 5.2.3 der DIN EN ISO/IEC 17024:2012 erfüllt werden. Die näheren Anforderungen an das Akkreditierungsverfahren ergeben sich aus der Verordnung gemäß § 12l.
+
+# § 12k – Studie zur Untersuchung
+
+Das Bundesministerium für Arbeit und Soziales untersucht die Umsetzung und die Auswirkungen der §§ 12e bis 12l in den Jahren 2021 bis 2024. Im Rahmen dieser Studie können Ausgaben wie beispielsweise die Anschaffungs-, Ausbildungs- und Haltungskosten der in die Studie einbezogenen Mensch-Assistenzhund-Gemeinschaften getragen werden.
+
+# § 12l – Verordnungsermächtigung
+
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
+
+1. Näheres über die erforderliche Beschaffenheit des Assistenzhundes, insbesondere Wesensmerkmale, Alter und Gesundheit des auszubildenden Hundes sowie über die vom Assistenzhund zu erbringenden Unterstützungsleistungen,
+
+2. Näheres über die Anerkennung von am 1. Juli 2021 in Ausbildung befindlichen oder bereits ausgebildeten Assistenzhunden sowie von im Ausland anerkannten Assistenzhunden einschließlich des Verfahrens,
+
+3. Näheres über die erforderliche Kennzeichnung des Assistenzhundes sowie zum Umfang des notwendigen Versicherungsschutzes,
+
+4. Näheres über den Inhalt der Ausbildung nach § 12f und der Prüfung nach § 12g sowie über die Zulassung als Prüfer jeweils einschließlich des Verfahrens sowie des zu erteilenden Zertifikats,
+
+5. Näheres über die Voraussetzungen für die Akkreditierung als fachliche Stelle einschließlich des Verfahrens,
+
+6. nähere Voraussetzungen für die Zulassung als Ausbildungsstätte für Assistenzhunde einschließlich des Verfahrens.
+
 # § 13 – Bundesfachstelle für Barrierefreiheit
 
 (1) Bei der Deutschen Rentenversicherung Knappschaft-Bahn-See wird eine Bundesfachstelle für Barrierefreiheit errichtet.
@@ -311,7 +389,7 @@ Satz 1 gilt nicht, wenn eine Maßnahme aufgrund einer Entscheidung in einem verw
 
 5. eine barrierefreie Kommunikation mit der Schlichtungsstelle möglich ist.
 
-(2) Wer der Ansicht ist, in einem Recht nach diesem Gesetz durch öffentliche Stellen des Bundes verletzt worden zu sein, kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen. Kommt wegen der behaupteten Rechtsverletzung auch die Einlegung eines fristgebundenen Rechtsbehelfs in Betracht, beginnt die Rechtsbehelfsfrist erst mit Beendigung des Schlichtungsverfahrens nach Absatz 7. In den Fällen des Satzes 2 ist der Schlichtungsantrag innerhalb der Rechtsbehelfsfrist zu stellen. Ist wegen der behaupteten Rechtsverletzung bereits ein Rechtsbehelf anhängig, wird dieses Verfahren bis zur Beendigung des Schlichtungsverfahrens nach Absatz 7 unterbrochen.
+(2) Wer der Ansicht ist, in einem Recht nach diesem Gesetz durch öffentliche Stellen des Bundes oder Eigentümer, Besitzer und Betreiber von beweglichen oder unbeweglichen Anlagen und Einrichtungen verletzt worden zu sein, kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen. Kommt wegen der behaupteten Rechtsverletzung auch die Einlegung eines fristgebundenen Rechtsbehelfs in Betracht, beginnt die Rechtsbehelfsfrist erst mit Beendigung des Schlichtungsverfahrens nach Absatz 7. In den Fällen des Satzes 2 ist der Schlichtungsantrag innerhalb der Rechtsbehelfsfrist zu stellen. Ist wegen der behaupteten Rechtsverletzung bereits ein Rechtsbehelf anhängig, wird dieses Verfahren bis zur Beendigung des Schlichtungsverfahrens nach Absatz 7 unterbrochen.
 
 (3) Ein nach § 15 Absatz 3 anerkannter Verband kann bei der Schlichtungsstelle nach Absatz 1 einen Antrag auf Einleitung eines Schlichtungsverfahrens stellen, wenn er einen Verstoß eines Trägers öffentlicher Gewalt
 
@@ -323,7 +401,7 @@ Satz 1 gilt nicht, wenn eine Maßnahme aufgrund einer Entscheidung in einem verw
 
 behauptet.
 
-(4) Der Antrag nach den Absätzen 2 und 3 kann in Textform oder zur Niederschrift bei der Schlichtungsstelle gestellt werden. Diese übermittelt zur Durchführung des Schlichtungsverfahrens eine Abschrift des Schlichtungsantrags an den Träger öffentlicher Gewalt.
+(4) Der Antrag nach den Absätzen 2 und 3 kann in Textform oder zur Niederschrift bei der Schlichtungsstelle gestellt werden. Diese übermittelt zur Durchführung des Schlichtungsverfahrens eine Abschrift des Schlichtungsantrags an die öffentliche Stelle oder den Eigentümer, Besitzer oder Betreiber von beweglichen oder unbeweglichen Anlagen oder Einrichtungen.
 
 (5) Die schlichtende Person wirkt in jeder Phase des Verfahrens auf eine gütliche Einigung der Beteiligten hin. Sie kann einen Schlichtungsvorschlag unterbreiten. Der Schlichtungsvorschlag soll am geltenden Recht ausgerichtet sein. Die schlichtende Person kann den Einsatz von Mediation anbieten.
 

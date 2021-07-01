@@ -1235,6 +1235,41 @@ Anordnungen zur Sicherstellung der ordnungsgemäßen Geschäftsorganisation nach
 
 1 100 bis 4 500
 
+1.1.21
+
+Anordnungen auf der Grundlage des Refinanzierungsregisterrechts (§§ 22a bis 22o KWG)
+
+ 
+
+1.1.21.1
+
+Bestellung eines Verwalters des Refinanzierungsregisters (§ 22e Absatz 1 Satz 1, auch in Verbindung mit Absatz 5 Satz 1 KWG)
+
+  
+270
+
+1.1.21.2
+
+Bestellung eines Stellvertreters des Verwalters des Refinanzierungsregisters (§ 22e Absatz 4 Satz 1 KWG)
+
+  
+225
+
+1.1.21.3
+
+Verlängerung der Bestellung eines Verwalters des Refinanzierungsregisters (§ 22e Absatz 1 Satz 1 in Verbindung mit Absatz 3 Satz 1 erster Halbsatz KWG)
+
+  
+200
+
+1.1.21.4
+
+Verlängerung der Bestellung eines Stellvertreters des Verwalters des Refinanzierungsregisters (§ 22e Absatz 4 Satz 1 in Verbindung mit Absatz 3 Satz 1 erster Halbsatz KWG)
+
+  
+  
+165
+
 1.2
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Zahlungskontengesetzes (ZKG)
@@ -1507,7 +1542,7 @@ Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Pfandbrie
 
 2.2
 
-Treuhänder und Stellvertreter (§ 7 Abs. 3 Satz 1 PfandBG)
+Treuhänder und Stellvertreter (§ 7 Absatz 3 Satz 1 PfandBG, auch in Verbindung mit § 9 Absatz 5 Satz 3 DGBankUmwG)
 
  
 

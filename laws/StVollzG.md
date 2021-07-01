@@ -3183,7 +3183,7 @@ Um die Flucht aus einer offenen Anstalt zu vereiteln, dürfen keine Schußwaffen
 
 (5) Gegen die gerichtliche Entscheidung ist die Beschwerde zulässig.
 
-(6) Für das gerichtliche Verfahren ist dem Gefangenen von Amts wegen ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der Gefangene, die Vollzugsbehörde und die Vollstreckungsbehörde anzuhören. Im Übrigen gelten § 109 Absatz 3 Satz 2, die §§ 110, 111, 115 Absatz 1 Satz 1 und 2 sowie die §§ 117, 118 Absatz 1 Satz 1, § 119 Absatz 1 und 5 entsprechend.
+(6) Für das gerichtliche Verfahren ist dem Gefangenen von Amts wegen ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der Gefangene, die Vollzugsbehörde und die Vollstreckungsbehörde anzuhören. Im Übrigen gelten § 109 Absatz 3 Satz 2, die §§ 110 und 110a sowie die auf dessen Grundlage erlassenen Rechtsverordnungen, die §§, 111, 115 Absatz 1 Satz 1 und 2 sowie die §§ 117, 118 Absatz 1 Satz 1, § 119 Absatz 1 und 5 entsprechend.
 
 (7) Alle Gerichte sind bei nachfolgenden Entscheidungen an die rechtskräftigen Feststellungen nach den Absätzen 1 und 2 Satz 2 gebunden.
 

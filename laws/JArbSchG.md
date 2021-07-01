@@ -1389,7 +1389,7 @@ und ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist.
 
 2. wegen einer vorsätzlichen Straftat, die sie unter Verletzung der ihnen als Arbeitgeber, Ausbildender oder Ausbilder obliegenden Pflichten zum Nachteil von Kindern oder Jugendlichen begangen haben, zu einer Freiheitsstrafe von mehr als drei Monaten,
 
-3. wegen einer Straftat nach den §§ 109h, 171, 174 bis 184i, 184k, 225, 232 bis 233a des Strafgesetzbuches,
+3. wegen einer Straftat nach den §§ 109h, 171, 174 bis 184l, 225, 232 bis 233a des Strafgesetzbuches,
 
 4. wegen einer Straftat nach dem Betäubungsmittelgesetz oder
 

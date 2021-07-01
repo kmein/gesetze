@@ -21,9 +21,15 @@ Zweck dieses Gesetzes ist insbesondere,
 
 2. Flächen mit Baumbestand, die gleichzeitig dem Anbau landwirtschaftlicher Produkte dienen (agroforstliche Nutzung),
 
-3. mit Forstpflanzen bestockte Flächen, die am 6. August 2010 in dem in § 3 Satz 1 der InVeKoS-Verordnung vom 3. Dezember 2004 (BGBl. I S. 3194), die zuletzt durch Artikel 2 der Verordnung vom 7. Mai 2010 (eBAnz AT51 2010 V1) geändert worden ist, bezeichneten Flächenidentifizierungssystem als landwirtschaftliche Flächen erfasst sind, solange deren landwirtschaftliche Nutzung andauert und
+3. mit Forstpflanzen bestockte Flächen, die am 6. August 2010 in dem in § 3 Satz 1 der InVeKoS-Verordnung vom 3. Dezember 2004 (BGBl. I S. 3194), die zuletzt durch Artikel 2 der Verordnung vom 7. Mai 2010 (eBAnz AT51 2010 V1) geändert worden ist, bezeichneten Flächenidentifizierungssystem als landwirtschaftliche Flächen erfasst sind, solange deren landwirtschaftliche Nutzung andauert,
 
-4. in der Flur oder im bebauten Gebiet gelegene kleinere Flächen, die mit einzelnen Baumgruppen, Baumreihen oder mit Hecken bestockt sind oder als Baumschulen verwendet werden.
+4. in der Flur oder im bebauten Gebiet gelegene kleinere Flächen, die mit einzelnen Baumgruppen, Baumreihen oder mit Hecken bestockt sind oder als Baumschulen verwendet werden, und
+
+5. mit Forstpflanzen bestockte Grundflächen
+
+a) auf Schienenwegen, auch auf solchen in Serviceeinrichtungen, sowie
+
+b) beidseits der Schienenwege in einer Breite von 6,80 Meter, gemessen von der Gleismitte des außen liegenden Gleises, oder, wenn die Schienenwege im Bereich von Böschungen oder Einschnitten liegen, bei denen die Böschungsschulter oder der Böschungsfuß weiter als 6,80 Meter von der Gleismitte aus liegt, in einer Breite von der Gleismitte bis zum Böschungsfuß oder zur Böschungsschulter.
 
 (3) Die Länder können andere Grundflächen dem Wald zurechnen und Weihnachtsbaum- und Schmuckreisigkulturen sowie zum Wohnbereich gehörende Parkanlagen vom Waldbegriff ausnehmen.
 

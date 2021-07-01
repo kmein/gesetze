@@ -42,3 +42,9 @@ Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2 und 4 de
 # § 8 – Übergangsvorschrift zum Gesetz zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen
 
 § 8 Absatz 1 Nummer 3 und § 40 Absatz 1 Satz 1 bis 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der Fassung des Gesetzes zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen vom 23. Juni 2017 (BGBl. I S. 1822) finden auf Gesellschaften mit beschränkter Haftung, die am 26. Juni 2017 in das Handelsregister eingetragen sind, mit der Maßgabe Anwendung, dass die geänderten Anforderungen an den Inhalt der Liste der Gesellschafter erst dann zu beachten sind, wenn aufgrund einer Veränderung nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der vor dem 26. Juni 2017 geltenden Fassung eine Liste einzureichen ist.
+
+# § 9 – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+(1) Die §§ 86 und 87 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+(2) § 57f Absatz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf Prüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr gewählt werden, anzuwenden.

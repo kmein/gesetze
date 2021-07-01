@@ -73,7 +73,7 @@ Verfolgte, die an nach den Vorschriften des Dritten Buches Sozialgesetzbuch für
 
 (2) Ausgleichsleistungen werden nicht gewährt, wenn die in der Bescheinigung nach § 17 oder § 18 festgestellte Verfolgungszeit vor Ablauf des 2. Oktober 1990 endet, es sei denn, die Verfolgungszeit beträgt mehr als drei Jahre. Die Gewährung von Ausgleichsleistungen nach Absatz 1 Satz 2 setzt außerdem voraus, daß zwischen dem Beginn der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte die Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
 
-(3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt gilt ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch ermitteltes Einkommen die folgende maßgebliche Einkommensgrenze nicht übersteigt:
+(3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt gilt ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch ermitteltes Einkommen die folgende maßgebliche Einkommensgrenze nicht übersteigt:
 
 1. für den Verfolgten selbst den Grundbetrag nach § 85 Abs. 1 Nr. 1, § 86 des Zwölften Buches Sozialgesetzbuch, für seinen nicht dauernd getrennt lebenden Ehegatten 80 vom Hundert und für jedes minderjährige, zum Haushalt gehörende Kind 50 vom Hundert des Grundbetrages zuzüglich
 

@@ -35,7 +35,7 @@ Anschlussstrecken im Schienenbahnverkehr
 
 § 5
 
-Kurze Straßenstrecken im Inland
+(weggefallen)
 
 § 6
 
@@ -634,9 +634,7 @@ Bei grenzüberschreitenden Personenbeförderungen mit Schienenbahnen sind anzuse
 
 2. als ausländische Beförderungsstrecken die inländischen Anschlussstrecken, die von Eisenbahnverwaltungen mit Sitz im Ausland betrieben werden.
 
-# § 5 – Kurze Straßenstrecken im Inland
-
-Bei grenzüberschreitenden Personenbeförderungen im Gelegenheitsverkehr mit Kraftfahrzeugen sind inländische Streckenanteile, die in einer Fahrtrichtung nicht länger als 10 Kilometer sind, als ausländische Beförderungsstrecken anzusehen. § 6 bleibt unberührt.
+# § 5 – (weggefallen)
 
 # § 6 – Straßenstrecken in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten
 
@@ -1258,9 +1256,11 @@ Die Vergütung der abziehbaren Vorsteuerbeträge (§ 15 des Gesetzes) an im Ausl
 
 3. im Inland nur innergemeinschaftliche Erwerbe und daran anschließende Lieferungen im Sinne des § 25b Abs. 2 des Gesetzes ausgeführt hat
 
-4. im Inland als Steuerschuldner nur Umsätze im Sinne des § 3a Abs. 5 des Gesetzes erbracht hat und von dem Wahlrecht nach § 18 Abs. 4c des Gesetzes Gebrauch gemacht hat oder diese Umsätze in einem anderen Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet hat oder
+4. im Inland als Steuerschuldner vor dem 1. Juli 2021 nur Umsätze im Sinne des § 3a Absatz 5 des Gesetzes erbracht und von dem Wahlrecht nach § 18 Absatz 4c des Gesetzes Gebrauch gemacht hat oder diese Umsätze in einem anderen Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet hat oder nach dem 30. Juni 2021 nur sonstige Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 des Gesetzes erbracht und von dem Wahlrecht nach § 18i des Gesetzes Gebrauch gemacht hat,
 
-5. im Inland als Steuerschuldner nur Umsätze im Sinne des § 3a Absatz 5 des Gesetzes erbracht hat und von dem Wahlrecht nach § 18 Absatz 4e des Gesetzes Gebrauch gemacht hat.
+5. im Inland als Steuerschuldner vor dem 1. Juli 2021 nur Umsätze im Sinne des § 3a Absatz 5 des Gesetzes erbracht und von dem Wahlrecht nach § 18 Absatz 4e des Gesetzes Gebrauch gemacht hat oder nach dem 30. Juni 2021 nur Lieferungen nach § 3 Absatz 3a Satz 1 des Gesetzes innerhalb eines Mitgliedstaates, innergemeinschaftliche Fernverkäufe nach § 3c Absatz 1 Satz 2 und 3 des Gesetzes sowie sonstige Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 des Gesetzes erbracht und von dem Wahlrecht nach § 18j des Gesetzes Gebrauch gemacht hat oder
+
+6. im Inland als Steuerschuldner nur Fernverkäufe nach § 3 Absatz 3a Satz 2 und § 3c Absatz 2 und 3 des Gesetzes erbracht und von dem Wahlrecht nach § 18k des Gesetzes Gebrauch gemacht hat.
 
 Ein im Ausland ansässiger Unternehmer im Sinne des Satzes 1 ist ein Unternehmer, der im Inland, auf der Insel Helgoland und in einem der in § 1 Absatz 3 des Gesetzes bezeichneten Gebiete weder einen Wohnsitz, seinen gewöhnlichen Aufenthalt, seinen Sitz, seine Geschäftsleitung noch eine Betriebsstätte hat, von der aus im Inland steuerbare Umsätze ausgeführt werden; ein im Ausland ansässiger Unternehmer ist auch ein Unternehmer, der ausschließlich einen Wohnsitz oder seinen gewöhnlichen Aufenthalt im Inland, aber im Ausland seinen Sitz, seine Geschäftsleitung oder eine Betriebsstätte hat, von der aus Umsätze ausgeführt werden. Maßgebend für die Ansässigkeit ist der jeweilige Vergütungszeitraum im Sinne des § 60, für den der Unternehmer eine Vergütung beantragt.
 

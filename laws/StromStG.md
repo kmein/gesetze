@@ -5,7 +5,7 @@
 
 (1) Elektrischer Strom (Strom) der Position 2716 der Kombinierten Nomenklatur unterliegt im Steuergebiet der Stromsteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Stromsteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
 
-(2) Kombinierte Nomenklatur im Sinne dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. EG Nr. L 256 S. 1, Nr. L 341 S. 38, Nr. L 378 S. 120, 1988 Nr. L 130 S. 42) in der am 1. Januar 2002 geltenden Fassung.
+(2) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22) in der durch die Durchführungsverordnung (EU) 2017/1925 (ABl. L 282 vom 31.10.2017, S. 1) geänderten, am 1. Januar 2018 geltenden Fassung.
 
 # § 2 – Begriffsbestimmungen
 

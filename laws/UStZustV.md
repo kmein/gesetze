@@ -53,7 +53,7 @@ c) das Finanzamt Cottbus, wenn der Nachname oder der Firmenname des Unternehmers
 
 d) das Finanzamt Nördlingen, wenn der Nachname oder der Firmenname des Unternehmers mit den Anfangsbuchstaben S bis Ż beginnt;
 
-e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus für alle Unternehmer, auf die das Verfahren nach § 18 Absatz 4e des Umsatzsteuergesetzes anzuwenden ist,
+e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus für alle Unternehmer, auf die das Verfahren nach § 18 Absatz 4e, § 18j oder § 18k des Umsatzsteuergesetzes anzuwenden ist,
 
 21. das Finanzamt Kassel-Hofgeismar für in der Portugiesischen Republik ansässige Unternehmer,
 
@@ -83,11 +83,13 @@ e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus fü
 
 34. das Finanzamt Bonn-Innenstadt für in den Vereinigten Staaten von Amerika ansässige Unternehmer.
 
+Die örtliche Zuständigkeit nach Satz 1 gilt für die Außengebiete, Überseegebiete und Selbstverwaltungsgebiete der in Satz 1 genannten Staaten entsprechend.
+
 (2) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz 2 der Abgabenordnung, die nicht von Absatz 1 erfasst werden, ist das Finanzamt Berlin Neukölln zuständig.
 
 (2a) Abweichend von den Absätzen 1 und 2 ist für die Unternehmer, die von § 18 Abs. 4c des Umsatzsteuergesetzes Gebrauch machen, das Bundeszentralamt für Steuern zuständig.
 
-(3) Die örtliche Zuständigkeit nach § 61 Abs. 1 Satz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
+(3) Die örtliche Zuständigkeit nach § 61 Absatz 1 Satz 1 und § 61a Absatz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
 
 # § 2
 

@@ -61,7 +61,7 @@ Bei der Verwaltung, dem Ausbau und dem Neubau von Bundeswasserstraßen sind die 
 
 # § 5 – Befahren mit Wasserfahrzeugen
 
-Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts einschließlich des Schifffahrtabgabenrechts sowie der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit Wasserfahrzeugen befahren. Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlässt, geregelt, eingeschränkt oder untersagt werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
+Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts sowie der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit Wasserfahrzeugen befahren. Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlässt, geregelt, eingeschränkt oder untersagt werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
 
 # § 6 – Gemeingebrauch
 
@@ -327,7 +327,7 @@ Wird der Plan nicht nach § 27a Absatz 1 des Verwaltungsverfahrensgesetzes oder 
 
 (2) Wer einen anderen zu einer Verrichtung bestellt, ist neben diesem dafür verantwortlich, dass sich der andere bei der Ausführung der Verrichtung ordnungsgemäß verhält.
 
-(3) Strompolizeiliche Maßnahmen, die durch das Verhalten oder den Zustand eines Tieres oder durch den Zustand einer Sache erforderlich werden, sind gegen den Eigentümer zu richten. Strompolizeiliche Maßnahmen können auch gegen den gerichtet werden, der die tatsächliche Gewalt ausübt; die Maßnahmen sind nur gegen diesen zu richten, wenn er die tatsächliche Gewalt gegen den Willen des Eigentümers oder eines anderen Verfügungsberechtigten ausübt, oder wenn er auf einen im Einverständnis mit dem Eigentümer schriftlich gestellten Antrag als allein verantwortlich anerkannt worden ist.
+(3) Strompolizeiliche Maßnahmen, die durch das Verhalten oder den Zustand eines Tieres oder durch den Zustand einer Sache erforderlich werden, sind gegen den Eigentümer zu richten. Strompolizeiliche Maßnahmen können auch gegen den gerichtet werden, der die tatsächliche Gewalt ausübt; die Maßnahmen sind nur gegen diesen zu richten, wenn er die tatsächliche Gewalt gegen den Willen des Eigentümers oder eines anderen Verfügungsberechtigten ausübt, oder wenn er auf einen im Einverständnis mit dem Eigentümer schriftlich oder elektronisch gestellten Antrag als allein verantwortlich anerkannt worden ist.
 
 # § 26 – Inanspruchnahme nicht verantwortlicher Personen
 

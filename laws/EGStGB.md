@@ -466,6 +466,10 @@ Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tate
 
 Für die Einziehung von Gegenständen, die nach dem 17. März 2021 sichergestellt worden sind, gilt abweichend von § 2 Absatz 5 des Strafgesetzbuches § 76a Absatz 4 des Strafgesetzbuches in der ab dem 18. März 2021 geltenden Fassung; in allen anderen Fällen gilt das bisherige Recht.
 
+# Art 316l – Übergangsvorschrift zum Gesetz zur Bekämpfung sexualisierter Gewalt gegen Kinder
+
+§ 66 Absatz 3 Satz 1 des Strafgesetzbuches in der am 1. Juli 2021 geltenden Fassung, auch in Verbindung mit § 66 Absatz 3 Satz 2, § 66a Absatz 1 Nummer 1 und § 66b Satz 1 Nummer 1 des Strafgesetzbuches, ist im Hinblick auf Taten nach den §§ 176 bis 176d und 184b des Strafgesetzbuches in der am 1. Juli 2021 geltenden Fassung nur anzuwenden, wenn die letzte Anlasstat nach dem 30. Juni 2021 begangen worden ist; in allen anderen Fällen ist das bisherige Recht anzuwenden. Soweit in anderen als den in Satz 1 genannten Vorschriften auf § 66 Absatz 3 Satz 1 des Strafgesetzbuches verwiesen wird, sind die Vorschriften in der am 1. Juli 2021 geltenden Fassung anwendbar. Die Artikel 316g und 316i bleiben unberührt.
+
 # Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen einer Zuwiderhandlung, die nach neuem Recht nur noch mit Geldbuße bedroht ist, werden in der Lage, in der sie sich befinden, nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten fortgesetzt, soweit nichts anderes bestimmt ist. Hat das Gericht wegen einer solchen Zuwiderhandlung bereits das Hauptverfahren eröffnet oder einen Strafbefehl oder eine Strafverfügung erlassen, so bleibt die Staatsanwaltschaft für die Verfolgung auch im Bußgeldverfahren zuständig. § 72 des Gesetzes über Ordnungswidrigkeiten ist in diesem Fall nicht anzuwenden.

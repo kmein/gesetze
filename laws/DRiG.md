@@ -490,7 +490,11 @@ Der Richter ist unabhängig und nur dem Gesetz unterworfen.
 
 # § 29 – Besetzung der Gerichte mit Richtern auf Probe, Richtern kraft Auftrags und abgeordneten Richtern
 
-Bei einer gerichtlichen Entscheidung darf nicht mehr als ein Richter auf Probe oder ein Richter kraft Auftrags oder ein abgeordneter Richter mitwirken. Er muß als solcher in dem Geschäftsverteilungsplan kenntlich gemacht werden.
+(1) Bei einer gerichtlichen Entscheidung darf nicht mehr als ein Richter auf Probe oder ein Richter kraft Auftrags oder ein abgeordneter Richter mitwirken.
+
+(2) Abweichend von Absatz 1 darf neben einem der in Absatz 1 genannten Richter ein Richter auf Lebenszeit, der während eines laufenden Verfahrens befördert oder an ein anderes Gericht versetzt wird und unmittelbar anschließend ganz oder teilweise an das zur Entscheidung berufene Gericht rückabgeordnet wird, an einer gerichtlichen Entscheidung mitwirken.
+
+(3) Die in den Absätzen 1 und 2 bezeichneten Richter müssen als solche im Geschäftsverteilungsplan kenntlich gemacht werden.
 
 # § 30 – Versetzung und Amtsenthebung
 

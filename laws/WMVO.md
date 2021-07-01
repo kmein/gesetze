@@ -259,7 +259,7 @@ Amtszeit der bestehenden Werkstatträte
 
 § 40a
 
-Sonderregelungen aus Anlass der COVID-19-Pandemie
+(weggefallen)
 
 § 40b
 
@@ -694,11 +694,7 @@ Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht geg
 
 Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestehenden Werkstatträte endet am Tag der Bekanntgabe des Wahlergebnisses der erstmaligen regelmäßigen Wahl eines Werkstattrats nach den Bestimmungen dieser Verordnung, spätestens jedoch am 30. November 2001. § 13 gilt entsprechend.
 
-# § 40a – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Die Teilnahme an Sitzungen des Werkstattrates sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. § 35 Satz 3 gilt mit der Maßgabe, dass die Teilnehmer ihre Anwesenheit gegenüber dem Vorsitzenden in Textform bestätigen.
-
-(2) Versammlungen nach § 9 können mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
+# § 40a – (weggefallen)
 
 # § 40b – Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
 

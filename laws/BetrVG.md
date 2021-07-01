@@ -1860,13 +1860,7 @@ Soweit in anderen Vorschriften auf Vorschriften verwiesen wird oder Bezeichnunge
 
 Die im Zeitpunkt des Inkrafttretens dieses Gesetzes nach § 20 Abs. 3 des Betriebsverfassungsgesetzes vom 11. Oktober 1952 geltenden Tarifverträge über die Errichtung einer anderen Vertretung der Arbeitnehmer für Betriebe, in denen wegen ihrer Eigenart der Errichtung von Betriebsräten besondere Schwierigkeiten entgegenstehen, werden durch dieses Gesetz nicht berührt.
 
-# § 129 – Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Die Teilnahme an Sitzungen des Betriebsrats, Gesamtbetriebsrats, Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung und der Konzern-Jugend- und Auszubildendenvertretung sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. § 34 Absatz 1 Satz 3 gilt mit der Maßgabe, dass die Teilnehmer ihre Anwesenheit gegenüber dem Vorsitzenden in Textform bestätigen. Gleiches gilt für die von den in Satz 1 genannten Gremien gebildeten Ausschüsse.
-
-(2) Für die Einigungsstelle und den Wirtschaftsausschuss gilt Absatz 1 Satz 1 und 2 entsprechend.
-
-(3) Versammlungen nach den §§ 42, 53 und 71 können mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
+# § 129 – (weggefallen)
 
 # § 130 – Öffentlicher Dienst
 

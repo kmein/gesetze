@@ -93,9 +93,9 @@ e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
 3. die Daten, die zum Nachweis des Befreiungstatbestands nach § 5 Absatz 1 erforderlich sind.
 
-(3) Die Übermittlung hat kostenfrei zu erfolgen. Die zuständige Behörde kann Einzelheiten zur Art und Aufbereitung der Daten bestimmen. Die Daten nach Satz 1 sind auf Verlangen der zuständigen Behörde elektronisch zu übermitteln.
+(3) Die Übermittlung hat kostenfrei zu erfolgen. Die zuständige Behörde kann Einzelheiten zur Art und Aufbereitung der Daten bestimmen. Die Daten nach Absatz 2 sind auf Verlangen der zuständigen Behörde elektronisch zu übermitteln.
 
-(4) Die Betreiber der Schienenwege und die Zugangsberechtigten sind verpflichtet, die in Absatz 2 Satz 1 genannten Daten nach Durchführung der Zugfahrt auf der zugewiesenen Trasse für mindestens zwölf Monate bereitzuhalten.
+(4) Die Betreiber der Schienenwege und die Zugangsberechtigten sind verpflichtet, die in Absatz 2 genannten Daten nach Durchführung der Zugfahrt auf der zugewiesenen Trasse für mindestens zwölf Monate bereitzuhalten.
 
 # § 9 – Zuständige Behörden
 
@@ -113,7 +113,7 @@ Zuständige Behörde für die Durchführung und Überwachung dieses Gesetzes auf
 
 # § 11 – Maßnahmen bei Verstößen
 
-(1) Stellt die zuständige Behörde fest, dass für einen bestimmten Streckenabschnitt wiederholt gegen das Verbot nach § 3 Absatz 1 Satz 1 oder gegen die Verpflichtungen nach § 7 Absatz 2 Satz 1, Absatz 3 oder 4, oder nach § 8 Absatz 1, 2 Satz 1 und 4 und Absatz 3 verstoßen wurde, so kann sie dem Betreiber der Schienenwege und dem Zugangsberechtigten für diesen Streckenabschnitt folgende Maßnahmen auferlegen:
+(1) Stellt die zuständige Behörde fest, dass für einen bestimmten Streckenabschnitt wiederholt gegen das Verbot nach § 3 Absatz 1 Satz 1 oder gegen die Verpflichtungen nach § 7 Absatz 2 Satz 1, Absatz 3 oder 4, oder nach § 8 Absatz 1, 2, 3 Satz 3 oder Absatz 4 verstoßen wurde, so kann sie dem Betreiber der Schienenwege und dem Zugangsberechtigten für diesen Streckenabschnitt folgende Maßnahmen auferlegen:
 
 1. strecken- und tageszeitbezogene Höchstgeschwindigkeiten oder
 
@@ -141,9 +141,9 @@ Die nach diesem Gesetz zuständige Behörde kann ihre Anordnungen nach den für 
 
 5. entgegen § 7 Absatz 4 Satz 2 ein Geschwindigkeitsprofil nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zugänglich macht,
 
-6. entgegen § 8 Absatz 2 Satz 1 und 4 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+6. entgegen § 8 Absatz 2 oder 3 Satz 3 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
 
-7. entgegen § 8 Absatz 3 Daten nicht oder nicht mindestens zwölf Monate bereithält.
+7. entgegen § 8 Absatz 4 Daten nicht oder nicht mindestens zwölf Monate bereithält.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 3, 5 und 7 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 6 mit einer Geldbuße bis zu dreißigtausend Euro und in den Fällen des Absatzes 1 Nummer 4 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 

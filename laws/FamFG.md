@@ -643,7 +643,15 @@ Ein Beteiligter kann sich der Beschwerde anschließen, selbst wenn er auf die Be
 
 (3) Das Beschwerdeverfahren bestimmt sich im Übrigen nach den Vorschriften über das Verfahren im ersten Rechtszug. Das Beschwerdegericht kann von der Durchführung eines Termins, einer mündlichen Verhandlung oder einzelner Verfahrenshandlungen absehen, wenn diese bereits im ersten Rechtszug vorgenommen wurden und von einer erneuten Vornahme keine zusätzlichen Erkenntnisse zu erwarten sind.
 
-(4) Das Beschwerdegericht kann die Beschwerde durch Beschluss einem seiner Mitglieder zur Entscheidung als Einzelrichter übertragen; § 526 der Zivilprozessordnung gilt mit der Maßgabe entsprechend, dass eine Übertragung auf einen Richter auf Probe ausgeschlossen ist.
+(4) Das Beschwerdegericht kann die Beschwerde durch Beschluss einem seiner Mitglieder zur Entscheidung als Einzelrichter übertragen; § 526 der Zivilprozessordnung gilt mit der Maßgabe entsprechend, dass eine Übertragung auf einen Richter auf Probe ausgeschlossen ist. Zudem kann das Beschwerdegericht die persönliche Anhörung des Kindes durch Beschluss einem seiner Mitglieder als beauftragtem Richter übertragen, wenn es dies aus Gründen des Kindeswohls für sachgerecht hält oder das Kind offensichtlich nicht in der Lage ist, seine Neigungen und seinen Willen kundzutun. Gleiches gilt für die Verschaffung eines persönlichen Eindrucks von dem Kind.
+
+(5) Absatz 3 Satz 2 und Absatz 4 Satz 1 finden keine Anwendung, wenn die Beschwerde ein Hauptsacheverfahren betrifft, in dem eine der folgenden Entscheidungen in Betracht kommt:
+
+1. die teilweise oder vollständige Entziehung der Personensorge nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs,
+
+2. der Ausschluss des Umgangsrechts nach § 1684 des Bürgerlichen Gesetzbuchs oder
+
+3. eine Verbleibensanordnung nach § 1632 Absatz 4 oder § 1682 des Bürgerlichen Gesetzbuchs.
 
 # § 69 – Beschwerdeentscheidung
 
@@ -1611,47 +1619,77 @@ Das nach § 152 Abs. 2 zuständige Gericht kann ein Verfahren an das Gericht des
 
 (3) In Verfahren nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs hat das Gericht unverzüglich den Erlass einer einstweiligen Anordnung zu prüfen.
 
-# § 158 – Verfahrensbeistand
+# § 158 – Bestellung des Verfahrensbeistands
 
-(1) Das Gericht hat dem minderjährigen Kind in Kindschaftssachen, die seine Person betreffen, einen geeigneten Verfahrensbeistand zu bestellen, soweit dies zur Wahrnehmung seiner Interessen erforderlich ist.
+(1) Das Gericht hat dem minderjährigen Kind in Kindschaftssachen, die seine Person betreffen, einen fachlich und persönlich geeigneten Verfahrensbeistand zu bestellen, soweit dies zur Wahrnehmung der Interessen des Kindes erforderlich ist. Der Verfahrensbeistand ist so früh wie möglich zu bestellen.
 
-(2) Die Bestellung ist in der Regel erforderlich,
+(2) Die Bestellung ist stets erforderlich, wenn eine der folgenden Entscheidungen in Betracht kommt:
 
-1. wenn das Interesse des Kindes zu dem seiner gesetzlichen Vertreter in erheblichem Gegensatz steht,
+1. die teilweise oder vollständige Entziehung der Personensorge nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs,
 
-2. in Verfahren nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs, wenn die teilweise oder vollständige Entziehung der Personensorge in Betracht kommt,
+2. der Ausschluss des Umgangsrechts nach § 1684 des Bürgerlichen Gesetzbuchs oder
 
-3. wenn eine Trennung des Kindes von der Person erfolgen soll, in deren Obhut es sich befindet,
+3. eine Verbleibensanordnung nach § 1632 Absatz 4 oder § 1682 des Bürgerlichen Gesetzbuchs.
 
-4. in Verfahren, die die Herausgabe des Kindes oder eine Verbleibensanordnung zum Gegenstand haben, oder
+(3) Die Bestellung ist in der Regel erforderlich, wenn
 
-5. wenn der Ausschluss oder eine wesentliche Beschränkung des Umgangsrechts in Betracht kommt.
+1. das Interesse des Kindes zu dem seiner gesetzlichen Vertreter in erheblichem Gegensatz steht,
 
-(3) Der Verfahrensbeistand ist so früh wie möglich zu bestellen. Er wird durch seine Bestellung als Beteiligter zum Verfahren hinzugezogen. Sieht das Gericht in den Fällen des Absatzes 2 von der Bestellung eines Verfahrensbeistands ab, ist dies in der Endentscheidung zu begründen. Die Bestellung eines Verfahrensbeistands oder deren Aufhebung sowie die Ablehnung einer derartigen Maßnahme sind nicht selbständig anfechtbar.
+2. eine Trennung des Kindes von der Person erfolgen soll, in deren Obhut es sich befindet,
 
-(4) Der Verfahrensbeistand hat das Interesse des Kindes festzustellen und im gerichtlichen Verfahren zur Geltung zu bringen. Er hat das Kind über Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in geeigneter Weise zu informieren. Soweit nach den Umständen des Einzelfalls ein Erfordernis besteht, kann das Gericht dem Verfahrensbeistand die zusätzliche Aufgabe übertragen, Gespräche mit den Eltern und weiteren Bezugspersonen des Kindes zu führen sowie am Zustandekommen einer einvernehmlichen Regelung über den Verfahrensgegenstand mitzuwirken. Das Gericht hat Art und Umfang der Beauftragung konkret festzulegen und die Beauftragung zu begründen. Der Verfahrensbeistand kann im Interesse des Kindes Rechtsmittel einlegen. Er ist nicht gesetzlicher Vertreter des Kindes.
+3. Verfahren die Herausgabe des Kindes zum Gegenstand haben oder
 
-(5) Die Bestellung soll unterbleiben oder aufgehoben werden, wenn die Interessen des Kindes von einem Rechtsanwalt oder einem anderen geeigneten Verfahrensbevollmächtigten angemessen vertreten werden.
+4. eine wesentliche Beschränkung des Umgangsrechts in Betracht kommt.
 
-(6) Die Bestellung endet, sofern sie nicht vorher aufgehoben wird,
+Sieht das Gericht in den genannten Fällen von der Bestellung eines Verfahrensbeistands ab, ist dies in der Endentscheidung zu begründen.
 
-1. mit der Rechtskraft der das Verfahren abschließenden Entscheidung oder
+(4) Die Bestellung endet mit der Aufhebung der Bestellung, mit Rechtskraft der das Verfahren abschließenden Entscheidung oder mit dem sonstigen Abschluss des Verfahrens. Das Gericht hebt die Bestellung auf, wenn
 
-2. mit dem sonstigen Abschluss des Verfahrens.
+1. der Verfahrensbeistand dies beantragt und einer Entlassung keine erheblichen Gründe entgegenstehen oder
 
-(7) Für den Ersatz von Aufwendungen des nicht berufsmäßigen Verfahrensbeistands gilt § 277 Abs. 1 entsprechend. Wird die Verfahrensbeistandschaft berufsmäßig geführt, erhält der Verfahrensbeistand für die Wahrnehmung seiner Aufgaben nach Absatz 4 in jedem Rechtszug jeweils eine einmalige Vergütung in Höhe von 350 Euro. Im Fall der Übertragung von Aufgaben nach Absatz 4 Satz 3 erhöht sich die Vergütung auf 550 Euro. Die Vergütung gilt auch Ansprüche auf Ersatz anlässlich der Verfahrensbeistandschaft entstandener Aufwendungen sowie die auf die Vergütung anfallende Umsatzsteuer ab. Der Aufwendungsersatz und die Vergütung sind stets aus der Staatskasse zu zahlen. Im Übrigen gilt § 168 Abs. 1 entsprechend.
+2. die Fortführung des Amtes die Interessen des Kindes gefährden würde.
 
-(8) Dem Verfahrensbeistand sind keine Kosten aufzuerlegen.
+(5) Die Bestellung eines Verfahrensbeistands oder deren Aufhebung sowie die Ablehnung einer derartigen Maßnahme sind nicht selbständig anfechtbar.
+
+# § 158a – (zukünftig)
+
+# § 158b – Aufgaben und Rechtsstellung des Verfahrensbeistands
+
+(1) Der Verfahrensbeistand hat das Interesse des Kindes festzustellen und im gerichtlichen Verfahren zur Geltung zu bringen. Er soll zu diesem Zweck auch eine schriftliche Stellungnahme erstatten. Der Verfahrensbeistand hat das Kind über Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in geeigneter Weise zu informieren. Endet das Verfahren durch Endentscheidung, soll der Verfahrensbeistand den gerichtlichen Beschluss mit dem Kind erörtern.
+
+(2) Soweit erforderlich kann das Gericht dem Verfahrensbeistand die Aufgabe übertragen, Gespräche mit den Eltern und weiteren Bezugspersonen des Kindes zu führen sowie am Zustandekommen einer einvernehmlichen Regelung über den Verfahrensgegenstand mitzuwirken. Das Gericht hat Art und Umfang der Beauftragung konkret festzulegen und die Beauftragung zu begründen.
+
+(3) Der Verfahrensbeistand wird durch seine Bestellung als Beteiligter zum Verfahren hinzugezogen. Er kann im Interesse des Kindes Rechtsmittel einlegen. Der Verfahrensbeistand ist nicht gesetzlicher Vertreter des Kindes.
+
+# § 158c – Vergütung; Kosten
+
+(1) Führt der Verfahrensbeistand die Verfahrensbeistandschaft berufsmäßig, erhält er für die Wahrnehmung seiner Aufgaben in jedem Rechtszug jeweils eine einmalige Vergütung von 350 Euro. Im Fall der Übertragung von Aufgaben nach § 158b Absatz 2 erhöht sich die Vergütung auf 550 Euro. Die Vergütung deckt auch Ansprüche auf Ersatz anlässlich der Verfahrensbeistandschaft entstandener Aufwendungen ab.
+
+(2) Für den Ersatz von Aufwendungen des nicht berufsmäßigen Verfahrensbeistands ist § 277 Absatz 1 entsprechend anzuwenden.
+
+(3) Der Aufwendungsersatz und die Vergütung sind stets aus der Staatskasse zu zahlen. Im Übrigen gilt § 168 Absatz 1 entsprechend.
+
+(4) Dem Verfahrensbeistand sind keine Kosten aufzuerlegen.
 
 # § 159 – Persönliche Anhörung des Kindes
 
-(1) Das Gericht hat das Kind persönlich anzuhören, wenn es das 14. Lebensjahr vollendet hat. Betrifft das Verfahren ausschließlich das Vermögen des Kindes, kann von einer persönlichen Anhörung abgesehen werden, wenn eine solche nach der Art der Angelegenheit nicht angezeigt ist.
+(1) Das Gericht hat das Kind persönlich anzuhören und sich einen persönlichen Eindruck von dem Kind zu verschaffen.
 
-(2) Hat das Kind das 14. Lebensjahr noch nicht vollendet, ist es persönlich anzuhören, wenn die Neigungen, Bindungen oder der Wille des Kindes für die Entscheidung von Bedeutung sind oder wenn eine persönliche Anhörung aus sonstigen Gründen angezeigt ist.
+(2) Von der persönlichen Anhörung und der Verschaffung eines persönlichen Eindrucks nach Absatz 1 kann das Gericht nur absehen, wenn
 
-(3) Von einer persönlichen Anhörung nach Absatz 1 oder Absatz 2 darf das Gericht aus schwerwiegenden Gründen absehen. Unterbleibt eine Anhörung allein wegen Gefahr im Verzug, ist sie unverzüglich nachzuholen.
+1. ein schwerwiegender Grund dafür vorliegt,
 
-(4) Das Kind soll über den Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in einer geeigneten und seinem Alter entsprechenden Weise informiert werden, soweit nicht Nachteile für seine Entwicklung, Erziehung oder Gesundheit zu befürchten sind. Ihm ist Gelegenheit zur Äußerung zu geben. Hat das Gericht dem Kind nach § 158 einen Verfahrensbeistand bestellt, soll die persönliche Anhörung in dessen Anwesenheit stattfinden. Im Übrigen steht die Gestaltung der persönlichen Anhörung im Ermessen des Gerichts.
+2. das Kind offensichtlich nicht in der Lage ist, seine Neigungen und seinen Willen kundzutun,
+
+3. die Neigungen, Bindungen und der Wille des Kindes für die Entscheidung nicht von Bedeutung sind und eine persönliche Anhörung auch nicht aus anderen Gründen angezeigt ist oder
+
+4. das Verfahren ausschließlich das Vermögen des Kindes betrifft und eine persönliche Anhörung nach der Art der Angelegenheit nicht angezeigt ist.
+
+Satz 1 Nummer 3 ist in Verfahren nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs, die die Person des Kindes betreffen, nicht anzuwenden. Das Gericht hat sich in diesen Verfahren einen persönlichen Eindruck von dem Kind auch dann zu verschaffen, wenn das Kind offensichtlich nicht in der Lage ist, seine Neigungen und seinen Willen kundzutun.
+
+(3) Sieht das Gericht davon ab, das Kind persönlich anzuhören oder sich einen persönlichen Eindruck von dem Kind zu verschaffen, ist dies in der Endentscheidung zu begründen. Unterbleibt eine Anhörung oder die Verschaffung eines persönlichen Eindrucks allein wegen Gefahr im Verzug, ist sie unverzüglich nachzuholen.
+
+(4) Das Kind soll über den Gegenstand, Ablauf und möglichen Ausgang des Verfahrens in einer geeigneten und seinem Alter entsprechenden Weise informiert werden, soweit nicht Nachteile für seine Entwicklung, Erziehung oder Gesundheit zu befürchten sind. Ihm ist Gelegenheit zur Äußerung zu geben. Hat das Gericht dem Kind nach § 158 einen Verfahrensbeistand bestellt, soll die persönliche Anhörung und die Verschaffung eines persönlichen Eindrucks in dessen Anwesenheit stattfinden. Im Übrigen steht die Gestaltung der persönlichen Anhörung im Ermessen des Gerichts.
 
 # § 160 – Anhörung der Eltern
 
@@ -1815,7 +1853,7 @@ Wird das Kind durch das Jugendamt als Beistand vertreten, ist die Vertretung dur
 
 # § 174 – Verfahrensbeistand
 
-Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung seiner Interessen erforderlich ist. § 158 Abs. 2 Nr. 1 sowie Abs. 3 bis 8 gilt entsprechend.
+Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung seiner Interessen erforderlich ist. Die §§ 158 bis 158c gelten entsprechend.
 
 # § 175 – Erörterungstermin; persönliche Anhörung
 
@@ -1953,7 +1991,7 @@ Ist das Jugendamt nach § 1751 Abs. 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs
 
 # § 191 – Verfahrensbeistand
 
-Das Gericht hat einem minderjährigen Beteiligten in Adoptionssachen einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung seiner Interessen erforderlich ist. § 158 Abs. 2 Nr. 1 sowie Abs. 3 bis 8 gilt entsprechend.
+Das Gericht hat einem minderjährigen Beteiligten in Adoptionssachen einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung seiner Interessen erforderlich ist. Die §§ 158 bis 158c gelten entsprechend.
 
 # § 192 – Anhörung der Beteiligten
 
@@ -3709,7 +3747,7 @@ Unternehmensrechtliche Verfahren sind die nach
 
 12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
 
-13. § 19 Absatz 2 Satz 1 bis 6 und § 204 Absatz 2 des Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des Finanzkonglomerate-Aufsichtsgesetzes,
+13. § 19 Absatz 2 Satz 1 bis 6, § 36 Absatz 1a und § 204 Absatz 2 des Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des Finanzkonglomerate-Aufsichtsgesetzes,
 
 14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
 
@@ -4558,3 +4596,5 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, durch die für das Aufge
 (2) Auf vereinfachte Verfahren über den Unterhalt Minderjähriger nach den §§ 249 bis 260, die bis zum 31. Dezember 2016 beantragt wurden, sind die §§ 249 bis 260 in der bis dahin geltenden Fassung weiter anzuwenden.
 
 (3) Für Anmeldungen, die bis einschließlich 8. Juni 2017 beurkundet oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
+
+(4) § 158a findet keine Anwendung in Verfahren, in denen ein Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist.

@@ -3,13 +3,13 @@
  
 # § 1
 
-Das Bundesministerium für Arbeit und Soziales errichtet den in § 5 TVG vorgesehenen Ausschuß (Tarifausschuß). Es bestellt für die Dauer von vier Jahren je drei Vertreter der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer als Mitglieder sowie mindestens je drei weitere als stellvertretende Mitglieder auf Grund von Vorschlägen dieser Organisationen.
+Das Bundesministerium für Arbeit und Soziales errichtet den in § 5 des Tarifvertragsgesetzes vorgesehenen Ausschuß (Tarifausschuß). Es bestellt für die Dauer von vier Jahren je drei Vertreter der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer als Mitglieder sowie mindestens je drei weitere als stellvertretende Mitglieder auf Grund von Vorschlägen dieser Organisationen.
 
 # § 2
 
-(1) Die Verhandlungen und Beratungen des Tarifausschusses leitet ein Beauftragter des Bundesministeriums für Arbeit und Soziales . Die Verhandlungen sind öffentlich, die Beratungen nicht öffentlich.
+(1) Die Verhandlungen und Beratungen des Tarifausschusses leitet ein Beauftragter des Bundesministeriums für Arbeit und Soziales. Die Verhandlungen sind öffentlich, die Beratungen nicht öffentlich.
 
-(2) Der Tarifausschuß ist beschlußfähig, wenn alle Mitglieder anwesend sind.
+(2) Der Tarifausschuß ist beschlußfähig, wenn alle Mitglieder anwesend sind. Wer an den Verhandlungen oder Beratungen mittels Video- oder Telefonkonferenz teilnimmt, gilt als anwesend.
 
 # § 3
 
@@ -17,11 +17,13 @@ Das Bundesministerium für Arbeit und Soziales errichtet den in § 5 TVG vorgese
 
 (2) Die Beschlüsse des Tarifausschusses sind schriftlich niederzulegen und von den Mitgliedern, die bei dem Beschluß mitgewirkt haben, zu unterschreiben. Ist ein Mitglied verhindert, seine Unterschrift beizufügen, so ist dies von dem lebensältesten Mitglied der Seite, der das verhinderte Mitglied angehört, unter dem Beschluß zu vermerken.
 
+(3) Nimmt ein Mitglied mittels Video- oder Telefonkonferenz an der Beratung des Tarifausschusses teil, so übermittelt das Bundesministerium für Arbeit und Soziales ihm den Beschluss auf elektronischem Wege in Textform im Rahmen der Beratung des Tarifausschusses. Das Mitglied bestätigt die Beschlussfassung abweichend von Absatz 2 Satz 1 auf elektronischem Wege in Textform vor Abschluss der Beratung.
+
 # § 4
 
 (1) Das Bundesministerium für Arbeit und Soziales macht einen Antrag auf Allgemeinverbindlicherklärung eines Tarifvertrages im Bundesanzeiger bekannt und weist in der Bekanntmachung darauf hin, daß die Allgemeinverbindlicherklärung mit Rückwirkung ergehen kann. Es bestimmt dabei eine Frist, während der zu dem Antrag schriftlich Stellung genommen werden kann. Die Frist soll mindestens drei Wochen vom Tage der Bekanntmachung an gerechnet betragen. Das Bundesministerium für Arbeit und Soziales teilt den Tarifvertragsparteien und den obersten Arbeitsbehörden der Länder, auf deren Bereich sich der Tarifvertrag erstreckt, den Wortlaut der Bekanntmachung mit.
 
-(2) Abweichend von den Vorschriften des Absatzes 1 kann das Bundesministerium für Arbeit und Soziales einen Antrag auf Allgemeinverbindlicherklärung abweisen, wenn die Voraussetzungen des § 5 Abs. 1 TVG offensichtlich nicht vorliegen.
+(2) Abweichend von den Vorschriften des Absatzes 1 kann das Bundesministerium für Arbeit und Soziales einen Antrag auf Allgemeinverbindlicherklärung abweisen, wenn die Voraussetzungen des § 5 Absatz 1 des Tarifvertragsgesetzes offensichtlich nicht vorliegen.
 
 # § 5
 
@@ -29,11 +31,25 @@ Ist ein Antrag auf Allgemeinverbindlicherklärung bekanntgemacht worden, so kön
 
 # § 6
 
-(1) Das Bundesministerium für Arbeit und Soziales beruft den Tarifausschuß zu einer Verhandlung über den Antrag auf Allgemeinverbindlicherklärung ein und macht den Zeitpunkt der Verhandlung im Bundesanzeiger bekannt. Der Zeitpunkt der Verhandlung muß nach Ablauf der Frist zur Stellungnahme (§ 4 Abs. 1 Satz 2) liegen.
+(1) Das Bundesministerium für Arbeit und Soziales beruft den Tarifausschuß zu einer Verhandlung über den Antrag auf Allgemeinverbindlicherklärung ein und macht den Zeitpunkt der Verhandlung im Bundesanzeiger bekannt. Der Zeitpunkt der Verhandlung muß nach Ablauf der Frist zur Stellungnahme (§ 4 Absatz 1 Satz 2) liegen.
 
 (2) Das Bundesministerium für Arbeit und Soziales gibt den Mitgliedern des Tarifausschusses von den Stellungnahmen Kenntnis.
 
-(3) Den in § 5 Abs. 2 TVG Genannten ist in der Verhandlung Gelegenheit zur Äußerung zu geben; der Tarifausschuß kann Äußerungen anderer zulassen. Die Äußerung in der Verhandlung setzt eine vorherige schriftliche Stellungnahme nicht voraus.
+(3) Den in § 5 Absatz 2 des Tarifvertragsgesetzes Genannten ist in der Verhandlung Gelegenheit zur Äußerung zu geben; der Tarifausschuß kann Äußerungen anderer zulassen. Die Äußerung in der Verhandlung setzt eine vorherige schriftliche Stellungnahme nicht voraus.
+
+# § 6a
+
+(1) Das Bundesministerium für Arbeit und Soziales kann eine Teilnahme der in § 5 Absatz 2 des Tarifvertragsgesetzes Genannten, der Antragsteller, der Mitglieder des Tarifausschusses und weiterer Personen an der Verhandlung mittels Video- oder Telefonkonferenz vorsehen, wenn
+
+1. die jeweilige Person einwilligt und
+
+2. die Teilnahme mittels Video- oder Telefonkonferenz für die Durchführung des Verfahrens zweckdienlich ist.
+
+Das Bundesministerium für Arbeit und Soziales kann die Teilnahme einer Person mittels Video- oder Telefonkonferenz auch auf deren Vorschlag hin zulassen. Der Vorschlag muss dem Bundesministerium für Arbeit und Soziales in der Regel spätestens zwei Werktage vor der Verhandlung mitgeteilt werden.
+
+(2) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage von nationaler Tragweite festgestellt hat, kann das Bundesministerium für Arbeit und Soziales die in Absatz 1 Satz 1 Genannten mit Ausnahme der Mitglieder des Tarifausschusses auf eine Teilnahme an der Verhandlung mittels Video- oder Telefonkonferenz verweisen. Macht das Bundesministerium für Arbeit und Soziales von dieser Möglichkeit Gebrauch, so hat es darauf in der Bekanntmachung nach § 6 Absatz 1 Satz 1 hinzuweisen. In dieser Bekanntmachung fordert das Bundesministerium für Arbeit und Soziales dazu auf, sich spätestens zwei Werktage vor dem Tag, an dem die Verhandlung stattfindet, mit den für die Teilnahme erforderlichen Kontaktdaten anzumelden.
+
+(3) Das Bundesministerium für Arbeit und Soziales teilt den betreffenden Personen rechtzeitig vor Beginn der Verhandlung mit, dass ihre Teilnahme mittels Video- oder Telefonkonferenz erfolgt. Die betreffenden Personen versichern vor Beginn der Verhandlung in Textform, dass sie nicht angemeldeten Personen keinen Zugang zur Video- oder Telefonkonferenz verschaffen und keine technischen Aufzeichnungen der Verhandlung vornehmen.
 
 # § 7
 
@@ -51,7 +67,7 @@ Das Bundesministerium für Arbeit und Soziales teilt seine Entscheidung über de
 
 # § 10
 
-Erwägt das Bundesministerium für Arbeit und Soziales die Aufhebung der Allgemeinverbindlichkeit eines Tarifvertrages, so gibt es den Tarifvertragsparteien und den obersten Arbeitsbehörden der Länder, auf deren Bereich sich der Tarifvertrag erstreckt, innerhalb einer bestimmten Frist Gelegenheit zur schriftlichen Stellungnahme. § 4 Abs. 1 und die §§ 6 bis 8 gelten sinngemäß.
+Erwägt das Bundesministerium für Arbeit und Soziales die Aufhebung der Allgemeinverbindlichkeit eines Tarifvertrages, so gibt es den Tarifvertragsparteien und den obersten Arbeitsbehörden der Länder, auf deren Bereich sich der Tarifvertrag erstreckt, innerhalb einer bestimmten Frist Gelegenheit zur schriftlichen Stellungnahme. § 4 Absatz 1 und die §§ 6 bis 8 gelten sinngemäß.
 
 # § 11
 
@@ -63,7 +79,7 @@ Das Bundesministerium für Arbeit und Soziales kann der obersten Arbeitsbehörde
 
 # § 13
 
-Das Bundesministerium für Arbeit und Soziales soll vor der Aufhebung einer Tarifordnung oder einer Anordnung (§ 10 Abs. 2 TVG) die obersten Arbeitsbehörden der Länder, auf deren Bereich sich die Tarifordnung oder Anordnung erstreckt, sowie den Tarifausschuß hören. Es macht die Aufhebung im Bundesanzeiger bekannt.
+Das Bundesministerium für Arbeit und Soziales soll vor der Aufhebung einer Tarifordnung oder einer Anordnung (§ 10 Absatz 2 des Tarifvertragsgesetzes) die obersten Arbeitsbehörden der Länder, auf deren Bereich sich die Tarifordnung oder Anordnung erstreckt, sowie den Tarifausschuß hören. Es macht die Aufhebung im Bundesanzeiger bekannt.
 
 # § 14
 
@@ -75,7 +91,7 @@ Das Bundesministerium für Arbeit und Soziales soll vor der Aufhebung einer Tari
 
 (1) Das Bundesministerium für Arbeit und Soziales benachrichtigt die Tarifvertragsparteien von der Eintragung der Allgemeinverbindlicherklärung, der Aufhebung der Allgemeinverbindlichkeit sowie von der Eintragung ihrer Mitteilungen über das Außerkrafttreten und über die Änderung allgemeinverbindlicher Tarifverträge.
 
-(2) Die Bekanntmachungen nach § 4 Abs. 1 und § 11 sollen im Tarifregister vermerkt werden.
+(2) Die Bekanntmachungen nach § 4 Absatz 1 und § 11 sollen im Tarifregister vermerkt werden.
 
 # § 16
 

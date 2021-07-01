@@ -49,37 +49,57 @@
 
 # § 3 – Kaffeehaltige Waren
 
-Für kaffeehaltige Waren gelten die §§ 13 bis 19 entsprechend.
+Für kaffeehaltige Waren gelten die §§ 15 bis 19 entsprechend.
 
 # § 4 – Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
-1. Systemrichtlinie: die Richtlinie 2008/118/EG des Rates vom 16. Dezember 2008 über das allgemeine Verbrauchsteuersystem und zur Aufhebung der Richtlinie 92/12/EWG (ABl. L 9 vom 14.1.2009, S. 12) in der jeweils geltenden Fassung;
+1. Systemrichtlinie: die Richtlinie (EU) 2020/262 des Rates vom 19. Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) in der jeweils geltenden Fassung;
 
-2. Verfahren der Steueraussetzung: steuerlich überwachte Verfahren, in denen die Herstellung, die Bearbeitung, die Verarbeitung oder die Lagerung in Steuerlagern sowie die Beförderung von Kaffee unversteuert erfolgt;
+2. Verfahren der Steueraussetzung: steuerliches Verfahren, das auf die Herstellung, die Bearbeitung, die Verarbeitung, die Lagerung in Steuerlagern sowie die Beförderung von Kaffee unter Aussetzung der Kaffeesteuer anzuwenden ist;
 
-3. steuerrechtlich freier Verkehr: weder ein Verfahren der Steueraussetzung noch ein zollrechtliches Nichterhebungsverfahren (§ 13 Absatz 2);
+3. steuerrechtlich freier Verkehr: Verkehr, der Kaffee erfasst, der
 
-4. Verbrauchsteuergebiet der Europäischen Gemeinschaft: das Gebiet, in dem die Systemrichtlinie gilt;
+a) sich in keinem der folgenden Verfahren befindet:
 
-5. andere Mitgliedstaaten: das Verbrauchsteuergebiet der Europäischen Gemeinschaft ohne das Steuergebiet;
+aa)  
+in dem Verfahren der Steueraussetzung nach Nummer 2,
 
-6. Drittgebiete: die Gebiete, die außerhalb des Verbrauchsteuergebiets der Europäischen Gemeinschaft liegen, aber zum Zollgebiet der Gemeinschaft gehören;
+bb)  
+in dem externen Versandverfahren nach Artikel 226 des Unionszollkodex,
 
-7. Drittländer: die Gebiete, die außerhalb des Verbrauchsteuergebiets der Europäischen Gemeinschaft liegen und nicht zum Zollgebiet der Gemeinschaft gehören;
+cc) in dem Verfahren der Lagerung nach Titel VII Kapitel 3 des Unionszollkodex,
 
-8. Zollgebiet der Gemeinschaft: das Gebiet nach Artikel 3 des Zollkodex;
+dd)  
+in dem Verfahren der vorübergehenden Verwendung nach Artikel 250 des Unionszollkodex,
 
-9. Ort der Einfuhr:
+ee)  
+in dem Verfahren der aktiven Veredelung nach Artikel 256 des Unionszollkodex und
 
-a) beim Eingang aus Drittländern der Ort, an dem sich der Kaffee bei seiner Überführung in den zollrechtlich freien Verkehr nach Artikel 79 des Zollkodex befindet, oder wenn sich der Kaffee in einem zollrechtlichen Versandverfahren befindet, das kein zollrechtliches Nichterhebungsverfahren nach § 13 Absatz 2 Nummer 1 oder Nummer 2 ist, die Eingangszollstelle nach Artikel 4 Nummer 4a des Zollkodex, zu der der Kaffee nach Berührung eines Drittlands unverzüglich befördert werden muss,
+b) nicht der zollamtlichen Überwachung nach Artikel 134 des Unionszollkodex oder dem Verfahren der Truppenverwendung nach dem Truppenzollgesetz vom 19. Mai 2009 (BGBl. I S. 1090), das durch Artikel 8 des Gesetzes vom 15. Juli 2009 (BGBl. I S. 1870) geändert worden ist, in der jeweils geltenden Fassung unterliegt;
 
-b) beim Eingang aus Drittgebieten der Ort, an dem der Kaffee in sinngemäßer Anwendung von Artikel 40 des Zollkodex zu gestellen oder an dem der Kaffee vorzuführen ist;
+4. Verbrauchsteuergebiet der Europäischen Union: das Gebiet, in dem die Systemrichtlinie gilt;
 
-10. Zollkodex: die Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 302 vom 19.10.1992, S. 1, L 79 vom 1.4.1993, S. 84, L 97 vom 18.4.1996, S. 38), die zuletzt durch die Verordnung (EG) Nr. 1791/2006 (ABl. L 363 vom 20.12.2006, S. 1) geändert worden ist;
+5. andere Mitgliedstaaten: das Verbrauchsteuergebiet der Europäischen Union ohne das Steuergebiet;
 
-11. Personen: natürliche und juristische Personen sowie Personenvereinigungen ohne eigene Rechtspersönlichkeit.
+6. Drittgebiete: die Gebiete nach Artikel 3 Nummer 4 der Systemrichtlinie;
+
+7. Drittländer: die Gebiete nach Artikel 3 Nummer 5 der Systemrichtlinie;
+
+8. Zollgebiet der Union: das Gebiet nach Artikel 4 des Unionszollkodex;
+
+9. Einfuhr: die Überlassung von Kaffee zum zollrechtlich freien Verkehr im Steuergebiet gemäß Artikel 201 des Unionszollkodex; dies gilt sinngemäß für den Eingang von Kaffee aus einem der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete in das Steuergebiet;
+
+10. unrechtmäßiger Eingang: liegt vor, wenn für Kaffee, der nicht gemäß Artikel 201 des Unionszollkodex in den zollrechtlich freien Verkehr überführt worden ist, nach Artikel 79 Absatz 1 des Unionszollkodex im Steuergebiet jedoch eine Einfuhrzollschuld entstanden ist oder entstanden wäre, sofern er zollpflichtig gewesen wäre; dies gilt sinngemäß für den Eingang von Kaffee aus einem der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete in das Steuergebiet;
+
+11. Ort der Einfuhr: der Ort, an dem der Kaffee nach Artikel 201 des Unionszollkodex in den zollrechtlich freien Verkehr überführt wird; beim Eingang aus Gebieten des Artikels 4 Absatz 2 der Systemrichtlinie der Ort, an dem der Kaffee in sinngemäßer Anwendung von Artikel 139 des Unionszollkodex zu gestellen ist;
+
+12. Unionszollkodex: die Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, in der am 14. Dezember 2016 geltenden Fassung;
+
+13. Personen: natürliche und juristische Personen sowie Personenvereinigungen ohne eigene Rechtspersönlichkeit;
+
+14. Steuerentlastung: der Erlass, die Erstattung und die Vergütung einer entstandenen Steuer.
 
 # § 5 – Steuerlager
 
@@ -153,7 +173,7 @@ b) zu Begünstigten (§ 8),
 
 c) an Empfänger in anderen Mitgliedstaaten oder
 
-d) unmittelbar oder über andere Mitgliedstaaten aus dem Steuergebiet zu einem Ort, an dem der Kaffee das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt;
+d) unmittelbar oder über andere Mitgliedstaaten aus dem Steuergebiet zu einem Ort, an dem der Kaffee das Verbrauchsteuergebiet der Europäischen Union verlässt oder in das externe Versandverfahren nach Artikel 226 des Unionszollkodex überführt wird, sofern dies nach Artikel 189 Absatz 4 der Delegierten Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 264 vom 30.9.2016, S. 44; L 192 vom 30.7.2018, S. 62), die zuletzt durch die Delegierte Verordnung (EU) 2020/877 (ABl. L 203 vom 26.6.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung, vorgesehen ist;
 
 2. aus anderen Mitgliedstaaten in Steuerlager im Steuergebiet.
 
@@ -171,19 +191,23 @@ Für Beförderungen unter Steueraussetzung im Steuergebiet an Begünstigte (§ 8
 
 4. vom Steuerlagerinhaber, vom registrierten Versender oder vom Empfänger, wenn er im Steuergebiet Besitz am Kaffee erlangt hat, auszuführen.
 
-(4) In den Fällen des Absatzes 1 Nummer 1 beginnt die Beförderung unter Steueraussetzung, wenn der Kaffee das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr übergeführt worden ist. Die Beförderung endet in den Fällen des Absatzes 1 Nummer 1 Buchstabe a und b mit der Aufnahme oder Übernahme und in den Fällen des Absatzes 1 Nummer 1 Buchstabe d, wenn der Kaffee das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt. In den Fällen des Absatzes 1 Nummer 2 endet die Beförderung unter Steueraussetzung mit der Aufnahme.
+(4) In den Fällen des Absatzes 1 Nummer 1 beginnt die Beförderung unter Steueraussetzung, wenn der Kaffee das Steuerlager verlässt oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden ist. Die Beförderung endet in den Fällen des Absatzes 1 Nummer 1 Buchstabe a und b mit der Aufnahme oder Übernahme und in den Fällen des Absatzes 1 Nummer 1 Buchstabe d, wenn der Kaffee das Verbrauchsteuergebiet der Europäischen Union verlässt oder in das externe Versandverfahren überführt wird. In den Fällen des Absatzes 1 Nummer 2 endet die Beförderung unter Steueraussetzung mit der Aufnahme in das Steuerlager im Steuergebiet.
 
-(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(5) Für den Ausgang von Kaffee in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete sind die in den zollrechtlichen Vorschriften der Union vorgesehenen Formalitäten für den Ausgang von Waren aus dem Zollgebiet der Union entsprechend anzuwenden.
+
+(6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 bis 4 zu erlassen, insbesondere zur Sicherheitsleistung,
 
-2. zur Verfahrensvereinfachung zuzulassen, dass Kaffee, den Steuerlagerinhaber in Besitz genommen haben, als in ihr Steuerlager aufgenommen gilt, soweit Steuerbelange dadurch nicht beeinträchtigt werden.
+2. zur Verfahrensvereinfachung zuzulassen, dass Kaffee, den Steuerlagerinhaber in Besitz genommen haben, als in ihr Steuerlager aufgenommen gilt, soweit Steuerbelange dadurch nicht beeinträchtigt werden,
+
+3. die elektronische Abwicklung des Verfahrens der Beförderung unter Steueraussetzung und den dazu erforderlichen Datenaustausch zu regeln und dabei Verfahrensvereinfachungen zu bestimmen.
 
 # § 10 – Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 11 Absatz 3 geregelten Fälle, auf Grund dessen eine Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
-(2) Treten während einer Beförderung des Kaffees nach § 9 im Steuergebiet Unregelmäßigkeiten ein, wird der Kaffee insoweit dem Verfahren der Steueraussetzung entnommen.
+(2) Treten während einer Beförderung des Kaffees nach § 9 im Steuergebiet Unregelmäßigkeiten ein, die eine Überführung in den steuerrechtlich freien Verkehr zur Folge haben, wird der Kaffee insoweit dem Verfahren der Steueraussetzung entnommen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 2 zu erlassen.
 
@@ -199,9 +223,29 @@ Für Beförderungen unter Steueraussetzung im Steuergebiet an Begünstigte (§ 8
 
 3. eine Unregelmäßigkeit nach § 10 bei der Beförderung unter Steueraussetzung.
 
-(3) Die Steuer entsteht nicht, wenn Kaffee auf Grund seiner Beschaffenheit oder in Folge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen ist. Kaffee gilt dann als vollständig zerstört oder unwiederbringlich verloren gegangen, wenn er als solcher nicht mehr genutzt werden kann. Die vollständige Zerstörung sowie der unwiederbringliche Verlust des Kaffees sind hinreichend nachzuweisen.
+(3) Eine Überführung in den steuerrechtlich freien Verkehr findet nicht statt, wenn Kaffee in einem Verfahren der Steueraussetzung infolge unvorhersehbarer Ereignisse oder höherer Gewalt
 
-(4) Steuerschuldner ist oder sind in den Fällen
+1. vollständig zerstört ist oder
+
+2. vollständig oder teilweise unwiederbringlich verloren gegangen ist.
+
+Dies gilt auch für die Fälle, in denen eine Zerstörung vorher angezeigt wurde. Kaffee gilt dann als vollständig zerstört oder vollständig oder teilweise unwiederbringlich verloren gegangen, wenn er als Kaffee nicht mehr genutzt werden kann. Die vollständige Zerstörung sowie der unwiederbringliche Gesamt- oder Teilverlust des Kaffees sind hinreichend nachzuweisen. Eine Überführung in den steuerrechtlich freien Verkehr findet nicht statt, wenn der Kaffee auf Grund seiner Beschaffenheit während des Verfahrens der Steueraussetzung teilweise verloren gegangen ist.
+
+(4) In den Fällen des Absatzes 2 Nummer 3 entsteht die Steuer nicht, wenn der Versender innerhalb von vier Monaten nach Beginn der Beförderung im Sinn des § 9 nachweist, dass der Kaffee
+
+1. zu Personen befördert worden ist, die zum Empfang von Kaffee unter Steueraussetzung berechtigt sind oder
+
+2. ordnungsgemäß ausgeführt worden ist.
+
+Die Steuer entsteht auch dann nicht, wenn der Kaffee
+
+1. das Steuergebiet auf Grund unvorhersehbarer Umstände nur kurzzeitig verlassen hat und im Anschluss daran wieder zu Personen im Sinn des Satzes 1 Nummer 1 im Steuergebiet befördert worden ist oder
+
+2. zu einem anderen zugelassenen Ort befördert worden ist als zu Beginn der Beförderung vorgesehen.
+
+Die Unregelmäßigkeit darf nicht vorsätzlich oder leichtfertig durch den Steuerschuldner verursacht worden sein und die Steueraufsicht muss gewahrt gewesen sein. Abweichend von Satz 1 beginnt die Frist für die Vorlage des Nachweises an dem Tag, an dem durch eine Steueraufsichtsmaßnahme oder durch eine Außenprüfung festgestellt wurde, dass eine Unregelmäßigkeit eingetreten ist.
+
+(5) Steuerschuldner ist oder sind in den Fällen
 
 1. des Absatzes 2 Nummer 1 der Steuerlagerinhaber, daneben bei einer unrechtmäßigen Entnahme die Person, die den Kaffee entnommen hat oder in deren Namen der Kaffee entnommen wurde sowie jede Person, die an der unrechtmäßigen Entnahme beteiligt war,
 
@@ -213,65 +257,49 @@ a) bei Beförderungen nach § 9 Absatz 1 Nummer 1 der Steuerlagerinhaber als Ver
 
 b) bei Beförderungen nach § 9 Absatz 1 Nummer 2 der Steuerlagerinhaber und daneben die Person, die den Kaffee aus der Beförderung entnommen hat oder in deren Namen der Kaffee entnommen wurde sowie jede Person, die an der unrechtmäßigen Entnahme beteiligt war und wusste oder vernünftigerweise hätte wissen müssen, dass die Entnahme unrechtmäßig war.
 
-(5) Schulden mehrere Personen die Steuer, so sind diese gesamtschuldnerisch zur Erfüllung dieser Schuld verpflichtet.
+(6) Schulden mehrere Personen die Steuer, so sind diese gesamtschuldnerisch zur Erfüllung dieser Schuld verpflichtet.
 
-(6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu Absatz 3 zu erlassen, insbesondere zu den Anforderungen an den Nachweis.
+(7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 3 bis 5 zu erlassen, insbesondere zu den Anforderungen an den Nachweis.
 
 # § 12 – Steueranmeldung, Fälligkeit
 
-(1) Der Steuerschuldner nach § 11 Absatz 4 Nummer 1 erste Alternative hat über Kaffee, für den in einem Monat die Steuer entstanden ist, spätestens am zehnten Tag des auf die Steuerentstehung folgenden Monats eine Steuererklärung abzugeben und in ihr die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist am 20. Tag des auf die Entstehung folgenden Monats fällig.
+(1) Der Steuerschuldner nach § 11 Absatz 5 Nummer 1 erste Alternative hat über Kaffee, für den in einem Monat die Steuer entstanden ist, spätestens am zehnten Tag des auf die Steuerentstehung folgenden Monats eine Steuererklärung abzugeben und in ihr die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist am 20. Tag des auf die Entstehung folgenden Monats fällig.
 
-(2) Steuerschuldner nach § 11 Absatz 4 Nummer 1 zweite Alternative sowie nach Nummer 2 und 3 haben unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig.
+(2) Steuerschuldner nach § 11 Absatz 5 Nummer 1 zweite Alternative sowie Nummer 2 und 3 haben unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung die Einzelheiten zur Steueranmeldung und zur Entrichtung der Steuer zu bestimmen.
 
-# § 13 – Einfuhr
+# § 13 – (weggefallen)
 
-(1) Einfuhr ist
-
-1. der Eingang von Kaffee aus Drittländern oder Drittgebieten in das Steuergebiet, es sei denn, der Kaffee befindet sich beim Eingang in einem zollrechtlichen Nichterhebungsverfahren;
-
-2. die Entnahme von Kaffee aus einem zollrechtlichen Nichterhebungsverfahren im Steuergebiet, es sei denn, es schließt sich ein weiteres zollrechtliches Nichterhebungsverfahren an.
-
-(2) Zollrechtliche Nichterhebungsverfahren sind
-
-1. beim Eingang von Kaffee im zollrechtlichen Status als Nichtgemeinschaftsware aus Drittländern oder Drittgebieten:
-
-a) die nach Titel III Kapitel 1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft,
-
-b) die vorübergehende Verwahrung nach Titel III Kapitel 5 des Zollkodex,
-
-c) die Verfahren in Freizonen oder Freilagern nach Titel IV Kapitel 3 Abschnitt 1 des Zollkodex,
-
-d) alle in Artikel 84 Absatz 1 Buchstabe a des Zollkodex genannten Verfahren,
-
-e) das nationale Zollverfahren der Truppenverwendung nach § 2 des Truppenzollgesetzes vom 19. Mai 2009 (BGBl. I S. 1090) in der jeweils geltenden Fassung
-
-und die dazu ergangenen Vorschriften;
-
-2. beim Eingang von Kaffee im zollrechtlichen Status als Gemeinschaftsware aus Drittgebieten in sinngemäßer Anwendung die nach Titel III Kapitel 1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft.
-
-# § 14 – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
-
-Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Kaffee befindet, Unregelmäßigkeiten ein, gilt Artikel 215 des Zollkodex sinngemäß.
+# § 14 – (weggefallen)
 
 # § 15 – Steuerentstehung, Steuerschuldner
 
-(1) Die Steuer entsteht zum Zeitpunkt der Überführung von Kaffee in den steuerrechtlich freien Verkehr durch die Einfuhr, es sei denn, der Kaffee wird unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung überführt oder es schließt sich eine Steuerbefreiung an. Die Steuer entsteht nicht, wenn Kaffee aus dem Steuergebiet oder einem anderen Mitgliedstaat über Drittländer oder Drittgebiete unter Steueraussetzung in das Steuergebiet befördert wird.
+(1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der Überführung des Kaffees in den steuerrechtlich freien Verkehr durch die Einfuhr oder durch den unrechtmäßigen Eingang. Die Steuer entsteht nicht, wenn
+
+1. der Kaffee unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung überführt wird,
+
+2. sich eine Steuerbefreiung anschließt oder
+
+3. die Einfuhrzollschuld nach Artikel 124 Absatz 1 Buchstabe e, f, g oder Buchstabe k des Unionszollkodex erlischt.
 
 (2) Steuerschuldner ist
 
-1. die Person, die nach den Zollvorschriften verpflichtet ist, den Kaffee anzumelden oder in deren Namen der Kaffee angemeldet wird,
+1. jede Person nach Artikel 77 Absatz 3 des Unionszollkodex,
 
-2. jede andere Person, die an einer unrechtmäßigen Einfuhr beteiligt ist.
+2. jede andere Person, die an einem unrechtmäßigen Eingang beteiligt ist.
 
-§ 11 Absatz 5 gilt entsprechend.
+§ 11 Absatz 6 gilt entsprechend.
 
-(3) Für die Fälligkeit, den Zahlungsaufschub, das Erlöschen, ausgenommen das Erlöschen durch Einziehung, sowie die Nacherhebung, den Erlass und die Erstattung, in anderen Fällen als nach Artikel 220 Absatz 2 Buchstabe b und Artikel 239 des Zollkodex und das Steuerverfahren gelten die Zollvorschriften sinngemäß. Abweichend von Satz 1 bleiben die §§ 163 und 227 der Abgabenordnung unberührt.
+(3) Für die Fälligkeit, den Zahlungsaufschub, das Erlöschen in anderen Fällen als denen des Absatzes 1 Nummer 3 sowie die Nacherhebung, den Erlass und die Erstattung, in anderen Fällen als nach den Artikeln 119 und 120 des Unionszollkodex und das Steuerverfahren gelten die Zollvorschriften sinngemäß. Abweichend von Satz 1 bleiben die §§ 163 und 227 der Abgabenordnung unberührt.
 
-(4) Abweichend von den Absätzen 1 bis 3 finden für Kaffee in der Truppenverwendung (§ 13 Absatz 2 Nummer 1 Buchstabe e), der zweckwidrig verwendet wird, die Vorschriften des Truppenzollgesetzes Anwendung.
+(4) Abweichend von den Absätzen 1 bis 3 finden für Kaffee in der Truppenverwendung, der zweckwidrig verwendet wird, die Vorschriften des Truppenzollgesetzes Anwendung.
 
-(5) Das Bundesministerium der Finanzen wird ermächtigt, in Bezug auf Absatz 3 durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu erlassen und die Besteuerung abweichend von Absatz 3 zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung im Steuergebiet hergestellten Kaffees oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
+(5) Für den Eingang von Kaffee aus einem der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete in das Steuergebiet sind die in den zollrechtlichen Vorschriften der Union vorgesehenen Formalitäten für den Eingang von Waren in das Zollgebiet der Union entsprechend anzuwenden.
+
+(6) Für den unrechtmäßigen Eingang gilt Artikel 87 des Unionszollkodex sinngemäß.
+
+(7) Das Bundesministerium der Finanzen wird ermächtigt, in Bezug auf Absatz 3 durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu erlassen und die Besteuerung abweichend von Absatz 3 zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung im Steuergebiet hergestellten Kaffees oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
 # § 16 – Erwerb durch Privatpersonen
 
@@ -291,47 +319,49 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Kaffee befi
 
 # § 17 – Bezug und Besitz zu gewerblichen Zwecken
 
-(1) Wird Kaffee in anderen als den in § 16 Absatz 1 genannten Fällen aus dem zollrechtlich freien Verkehr eines anderen Mitgliedstaats bezogen (gewerbliche Zwecke), entsteht die Steuer dadurch, dass der Bezieher
+(1) Wird Kaffee in anderen als den in § 16 Absatz 1 und § 18 Absatz 1 genannten Fällen aus dem zollrechtlich freien Verkehr eines anderen Mitgliedstaats bezogen (gewerbliche Zwecke), entsteht die Steuer dadurch, dass der Bezieher
 
 1. den Kaffee im Steuergebiet in Empfang nimmt oder
 
 2. den außerhalb des Steuergebietes in Empfang genommenen Kaffee in das Steuergebiet befördert oder befördern lässt.
 
-Steuerschuldner ist der Bezieher.
+Die Steuer entsteht nicht, sofern sich an die Beförderung eine Steuerbefreiung anschließt. Steuerschuldner ist der Bezieher des Kaffees.
 
 (2) Gelangt Kaffee aus dem zollrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken anders als in den in Absatz 1 genannten Fällen in das Steuergebiet, entsteht die Steuer dadurch, dass der Kaffee erstmals im Steuergebiet in Besitz gehalten oder verwendet wird. Dies gilt nicht, wenn der in Besitz gehaltene Kaffee
 
-1. nicht für das Steuergebiet bestimmt ist und unter Berücksichtigung des Absatzes 4 Satz 2 durch das Steuergebiet befördert wird oder
+1. im Anschluss an die Beförderung von der Steuer befreit ist,
 
-2. sich an Bord eines zwischen dem Steuergebiet und einem anderen Mitgliedstaat verkehrenden Wasser- oder Luftfahrzeugs befindet, aber nicht im Steuergebiet zum Verkauf steht.
+2. nicht für das Steuergebiet bestimmt ist und unter Berücksichtigung des Absatzes 4 Satz 2 durch das Steuergebiet befördert wird oder
+
+3. sich an Bord eines zwischen dem Steuergebiet und einem anderen Mitgliedstaat verkehrenden Wasser- oder Luftfahrzeugs befindet, aber nicht im Steuergebiet zum Verkauf steht.
 
 Steuerschuldner ist, wer den Kaffee versendet, in Besitz hält oder verwendet.
 
-(3) § 11 Absatz 3 gilt entsprechend.
+(3) § 11 Absatz 3 und 6 gilt entsprechend.
 
-(4) Wer Kaffee nach Absatz 1 oder Absatz 2 Satz 1 beziehen, in Besitz halten oder verwenden will, hat dies dem Hauptzollamt vorher anzuzeigen und für die Steuer Sicherheit zu leisten. Wer Kaffee nach Absatz 2 Nummer 1 durch das Steuergebiet durchführen will, hat dies dem Hauptzollamt vorher anzuzeigen.
+(4) Wer Kaffee nach Absatz 1 oder Absatz 2 Satz 1 beziehen, in Besitz halten oder verwenden will, hat dies dem Hauptzollamt vorher anzuzeigen und für die entstehende Steuer Sicherheit zu leisten. Wer Kaffee nach Absatz 2 Nummer 2 durch das Steuergebiet durchführen will, hat dies dem Hauptzollamt vorher anzuzeigen.
 
 (5) Der Steuerschuldner hat für Kaffee, für den die Steuer entstanden ist, unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist spätestens am 20. Tag des auf die Steuerentstehung folgenden Monats fällig. Wird das Verfahren nach Absatz 4 nicht eingehalten, ist die Steuer sofort fällig.
 
 (6) Das Hauptzollamt kann zur Verfahrensvereinfachung auf Antrag zulassen, dass für Steuerschuldner, die Kaffee nicht nur gelegentlich beziehen, die nach § 12 Absatz 1 Satz 1 geltende Frist für die Abgabe der Steueranmeldung angewendet wird und die fristgemäße Abgabe der Steueranmeldung der Anzeige nach Absatz 4 Satz 1 gleichsteht. Die Erlaubnis wird unter Widerrufsvorbehalt nur Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Vor der Erlaubnis ist Sicherheit für die Steuer zu leisten, die voraussichtlich während eines Monats entsteht.
 
-(7) Die Erlaubnis ist zu widerrufen, wenn die in Absatz 6 Satz 2 genannten Voraussetzungen nicht mehr erfüllt sind oder eine geleistete Sicherheit nicht mehr ausreicht.
+(7) Die Erlaubnis nach Absatz 6 Satz 1 ist zu widerrufen, wenn die in Absatz 6 Satz 2 genannten Voraussetzungen nicht mehr erfüllt sind oder eine geleistete Sicherheit nicht mehr ausreicht.
 
-(8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1, 2, 4 bis 7 zu erlassen, insbesondere zum Besteuerungsverfahren und zur Sicherheit und für die Anzeigepflicht nach Absatz 4 Satz 2 ein Hauptzollamt zu bestimmen.
+(8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1, 2, 4 bis 7 zu erlassen.
 
 # § 18 – Versandhandel
 
-(1) Versandhandel betreibt, wer Kaffee aus dem zollrechtlich freien Verkehr des Mitgliedstaats, in dem er seinen Sitz hat, an Privatpersonen im Steuergebiet liefert und den Versand der Ware an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
+(1) Versandhandel betreibt, wer in Ausübung einer selbstständigen wirtschaftlichen Tätigkeit Kaffee aus dem zollrechtlich freien Verkehr des Mitgliedstaats, in dem er seinen Sitz hat, an Privatpersonen im Steuergebiet liefert und den Versand des Kaffees an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
 
 (2) Wird Kaffee durch einen Versandhändler mit Sitz in einem anderen Mitgliedstaat in das Steuergebiet geliefert, so entsteht die Steuer mit der Auslieferung an die Privatperson im Steuergebiet.
 
 (3) § 11 Absatz 3 gilt entsprechend.
 
-(4) Wer als Versandhändler Kaffee in das Steuergebiet liefern will, hat dies vorher anzuzeigen und eine im Steuergebiet ansässige Person als Beauftragten zu benennen. Die Anzeige und Benennung hat gegenüber dem für den Beauftragten zuständigen Hauptzollamt zu erfolgen. Der Beauftragte bedarf einer Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Der Beauftragte hat Aufzeichnungen über die Lieferungen des Versandhändlers in das Steuergebiet zu führen, dem Hauptzollamt jede Lieferung im Versandhandel unter Angabe der für die Versteuerung maßgebenden Merkmale vorher anzuzeigen und für die entstehende Steuer Sicherheit zu leisten.
+(4) Wer als Versandhändler Kaffee in das Steuergebiet liefern will, bedarf einer Erlaubnis. Diese wird Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen. Der Versandhändler hat für die entstehende Steuer Sicherheit zu leisten. Er hat Aufzeichnungen über seine Lieferungen in das Steuergebiet zu führen und jede Lieferung unter Angabe der für die Versteuerung maßgebenden Merkmale vorher anzuzeigen. Wird Kaffee nicht nur gelegentlich im Versandhandel geliefert, kann auf Antrag des Versandhändlers zugelassen werden, dass Sicherheit in Höhe der während eines Monats entstehenden Steuer geleistet wird. Der Versandhändler kann eine im Steuergebiet ansässige Person als Steuervertreter benennen. Der Steuervertreter bedarf der Erlaubnis. Die Sätze 2 bis 5 gelten für den Steuervertreter entsprechend.
 
-(5) Steuerschuldner ist der Beauftragte. Er hat für Kaffee, für den die Steuer entstanden ist, unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist spätestens am 20. Tag des auf die Steuerentstehung folgenden Monats fällig. Wird Kaffee nicht nur gelegentlich im Versandhandel geliefert, kann das Hauptzollamt auf Antrag des Beauftragten zur Verfahrensvereinfachung zulassen, dass die nach § 12 Absatz 1 Satz 1 geltende Frist für die Abgabe der Steueranmeldung unter der Voraussetzung angewendet wird, dass Sicherheit in Höhe der während eines Monats entstehenden Steuer geleistet wird, und die fristgerechte Abgabe der Steueranmeldung der Anzeige nach Absatz 4 Satz 5 gleichsteht. Wird das Verfahren nach Absatz 4 nicht eingehalten, ist der Versandhändler Steuerschuldner. Er hat unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig. Der Empfänger haftet für die Steuer.
+(5) Steuerschuldner ist der Versandhändler oder der Steuervertreter, sofern dieser benannt wurde. Der Steuerschuldner hat für Kaffee, für den die Steuer entstanden ist, unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist spätestens am 20. Tag des auf die Steuerentstehung folgenden Monats fällig. Wird Kaffee nicht nur gelegentlich im Versandhandel geliefert, kann das Hauptzollamt auf Antrag des Steuerschuldners zur Verfahrensvereinfachung zulassen, dass die nach § 12 Absatz 1 Satz 1 geltende Frist für die Abgabe der Steueranmeldung unter der Voraussetzung angewendet wird, dass Sicherheit in Höhe der während eines Monats entstehenden Steuer geleistet wird, und die fristgerechte Abgabe der Steueranmeldung der Anzeige nach Absatz 4 Satz 4 gleichsteht. Wird das Verfahren nach Absatz 4 nicht eingehalten, hat der Steuerschuldner unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig. Der Empfänger des Kaffees haftet für die Steuer.
 
-(6) Die Erlaubnis ist zu widerrufen, wenn eine der in Absatz 4 Satz 4 und 5 genannten Voraussetzungen nicht mehr erfüllt ist oder eine geleistete Sicherheit nicht mehr ausreicht.
+(6) Die Erlaubnis nach Absatz 4 wird unter Widerrufsvorbehalt erteilt. Sie ist zu widerrufen, wenn die in Absatz 4 Satz 2 genannte Voraussetzung nicht mehr erfüllt ist oder eine geleistete Sicherheit nicht mehr ausreicht.
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1, 2, 4 bis 6 zu erlassen und zur Steuervereinfachung auch Lieferungen an gewerbliche Abnehmer in den Versandhandel einzubeziehen.
 
@@ -339,11 +369,13 @@ Steuerschuldner ist, wer den Kaffee versendet, in Besitz hält oder verwendet.
 
 (1) Treten während der Beförderung von Kaffee nach § 17 Absatz 1 und 2 oder nach § 18 Absatz 2 im Steuergebiet Unregelmäßigkeiten ein, entsteht die Steuer.
 
-(2) § 10 Absatz 1 gilt entsprechend.
+(2) § 10 Absatz 1 und § 11 Absatz 4 gelten entsprechend.
 
-(3) Steuerschuldner ist derjenige, der die Sicherheit nach § 17 Absatz 4 Satz 1 oder nach § 18 Absatz 4 Satz 5 geleistet hat und im Fall des § 17 Absatz 2 Satz 2 die Person, die den Kaffee in Besitz hält. Der Steuerschuldner hat über Kaffee, für den die Steuer entstanden ist, unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig.
+(3) Steuerschuldner ist derjenige, der die Sicherheit nach § 17 Absatz 4 Satz 1 oder § 18 Absatz 4 Satz 3 geleistet hat, jede Person, die an der Unregelmäßigkeit beteiligt war, und bei Unregelmäßigkeiten und in den Fällen des § 17 Absatz 2 Satz 2 Nummer 2 und 3 die Person, die den Kaffee in Besitz hält. § 11 Absatz 6 gilt entsprechend.
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 3 zu erlassen.
+(4) Der Steuerschuldner hat über Kaffee, für den die Steuer entstanden ist, unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 4 zu erlassen.
 
 # § 20 – Steuerbefreiungen
 
@@ -357,7 +389,9 @@ Steuerschuldner ist, wer den Kaffee versendet, in Besitz hält oder verwendet.
 
 4. von Rohkaffeehändlern probeweise hergestellt wird, um Qualität und Eigenschaften von Rohkaffee festzustellen und zu überprüfen,
 
-5. in Privathaushalten zum Eigenverbrauch hergestellt wird.
+5. in Privathaushalten zum Eigenverbrauch hergestellt wird,
+
+6. für wissenschaftliche Versuche und Untersuchungen auch außerhalb des Steuerlagers verwendet wird.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Steuerverfahren zu regeln und dabei zur Vereinfachung des Steuerverfahrens anzuordnen, dass Kaffee zur Herstellung kaffeehaltiger Waren, die der Hersteller in andere Mitgliedstaaten liefert oder die er ausführt, steuerfrei bezogen werden kann und bei unterbliebener oder nicht fristgerechter Lieferung oder Ausfuhr in der Person des Herstellers die Steuer entsteht, sowie das zur Sicherung des Steueraufkommens notwendige Verfahren zu regeln.
 
@@ -369,7 +403,19 @@ Steuerschuldner ist, wer den Kaffee versendet, in Besitz hält oder verwendet.
 
 (3) Nachweislich mit der Kaffeesteuer belastete kaffeehaltige Waren werden auf Antrag von der Steuer entlastet, wenn diese an einen Empfänger in einem anderen Mitgliedstaat geliefert oder ausgeführt wurden. Entlastungsberechtigt ist der Lieferer oder der Ausführer.
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(4) Die Steuer kann bei Entnahme aus einem Steuerlager ohne anschließendes Verfahren der Steueraussetzung auf Antrag des Steuerschuldners unter der Voraussetzung erlassen oder erstattet werden, dass der Steuerschuldner innerhalb von vier Monaten ab der Entstehung der Steuer nach § 11 Absatz 2 Nummer 1 nachweist, dass
+
+1. der Kaffee oder die kaffeehaltige Ware in der Annahme befördert wurde, dass für diese ein Steueraussetzungsverfahren nach § 9 wirksam eröffnet worden ist, und
+
+2. diese Waren
+
+a) zu Personen befördert worden sind, die zum Empfang von Kaffee oder kaffeehaltiger Waren unter Steueraussetzung berechtigt sind, oder
+
+b) ordnungsgemäß ausgeführt worden sind.
+
+Die Unwirksamkeit des Steueraussetzungsverfahrens darf nicht vorsätzlich oder leichtfertig durch den Steuerschuldner verursacht worden sein und die Steueraufsicht muss gewahrt gewesen sein. Abweichend von Satz 1 beginnt die Frist für die Vorlage des Nachweises an dem Tag, an dem durch eine Steueraufsichtsmaßnahme oder durch eine Außenprüfung festgestellt wurde, dass das Steueraussetzungsverfahren nach § 9 unwirksam war. Die Steuer wird nur erlassen oder erstattet, sofern der Betrag 500 Euro je Beförderung übersteigt.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. das Steuerverfahren zu regeln,
 
@@ -381,11 +427,11 @@ Steuerschuldner ist, wer den Kaffee versendet, in Besitz hält oder verwendet.
 
 # § 22 – Steueraufsicht
 
-(1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt die Tätigkeit eines Beauftragten nach § 18 Absatz 4 Satz 1 im Steuergebiet der Steueraufsicht.
+(1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt die Tätigkeit eines Steuervertreters nach § 18 Absatz 4 Satz 6 im Steuergebiet der Steueraufsicht.
 
 (2) Kaffee kann über die in § 215 der Abgabenordnung genannten Fälle hinaus sichergestellt werden, wenn ein Amtsträger ihn im Steuergebiet in Mengen und unter Umständen vorfindet, die auf eine gewerbliche Zwecksetzung hinweisen und für die der Nachweis nicht geführt werden kann, dass der Kaffee
 
-1. sich in einem Verfahren der Steueraussetzung oder in einem zollrechtlichen Nichterhebungsverfahren befindet,
+1. sich in einem in § 4 Nummer 3 genannten Verfahren befindet,
 
 2. im Steuergebiet ordnungsgemäß versteuert wurde oder ordnungsgemäß zur Versteuerung ansteht oder
 
@@ -417,13 +463,15 @@ c) Steuerbefreiungen, die durch internationale Übereinkommen für international
 
 d) zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch der nach den Buchstaben a bis c gewährten Steuerbefreiungen für alle daran Beteiligten die Steuer entsteht;
 
-2. im Fall der zollrechtlichen Einfuhr Steuerfreiheit für Kaffee und kaffeehaltige Waren, soweit dadurch nicht unangemessene Steuervorteile entstehen, unter den Voraussetzungen anzuordnen, unter denen sie nach der Verordnung (EG) Nr. 1186/2009 des Rates vom 16. November 2009 über das gemeinschaftliche System der Zollbefreiungen (ABl. L 324 vom 10.12.2009, S. 23) in der jeweils geltenden Fassung und anderen von der Europäischen Gemeinschaft oder der Europäischen Union erlassenen Rechtsvorschriften vom Zoll befreit werden können, und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
+2. die Steuerbefreiungen, die für Tätigkeiten der Union im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik vorgesehen sind, näher zu regeln sowie das Steuerverfahren zu bestimmen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch der gewährten Steuerbefreiungen für alle daran Beteiligten die Steuer entsteht;
 
-3. Kaffee und kaffeehaltige Waren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
+3. im Fall der zollrechtlichen Einfuhr Steuerfreiheit für Kaffee und kaffeehaltige Waren, soweit dadurch nicht unangemessene Steuervorteile entstehen, unter den Voraussetzungen anzuordnen, unter denen sie nach der Verordnung (EG) Nr. 1186/2009 des Rates vom 16. November 2009 über das gemeinschaftliche System der Zollbefreiungen (ABl. L 324 vom 10.12.2009, S. 23) in der jeweils geltenden Fassung und anderen von der Europäischen Gemeinschaft oder der Europäischen Union erlassenen Rechtsvorschriften vom Zoll befreit werden können, und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
-4. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+4. Kaffee und kaffeehaltige Waren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 
-5. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die für das Verfahren erforderlich sind, ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
+5. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
+
+6. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die für das Verfahren erforderlich sind, ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
 
 a) die Voraussetzungen für die Anwendung des Verfahrens der Datenfernübertragung,
 
@@ -441,7 +489,7 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
-6. den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben.
+7. den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben.
 
 (2) Das Bundesministerium der Finanzen erlässt die allgemeinen Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
@@ -451,8 +499,6 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 
 1. entgegen § 9 Absatz 3 Kaffee nicht oder nicht rechtzeitig aufnimmt, nicht oder nicht rechtzeitig ausführt, nicht oder nicht rechtzeitig liefert oder nicht oder nicht rechtzeitig übernimmt oder
 
-2. entgegen § 17 Absatz 4 Satz 1 und 2 und § 18 Absatz 4 Satz 1 und 5, jeweils auch in Verbindung mit § 3, eine Anzeige nicht oder nicht rechtzeitig erstattet.
+2. entgegen § 17 Absatz 4, auch in Verbindung mit § 3, eine Anzeige nicht oder nicht rechtzeitig erstattet.
 
-# § 25 – Übergangsvorschriften
-
-Die vor dem 1. April 2010 erteilten Erlaubnisse und Zulassungen gelten widerruflich bis zum 31. Dezember 2010 fort.
+# § 25 – (weggefallen)

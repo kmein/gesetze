@@ -488,17 +488,17 @@ im Steuergebiet;
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 8 Absatz 1a geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
-(2) Tritt während der Beförderung von Energieerzeugnissen nach den §§ 10, 11 oder 13 im Steuergebiet eine Unregelmäßigkeit ein, entsteht die Steuer. Die Steuer entsteht nicht, wenn der Versender innerhalb einer Frist von vier Monaten nach Beginn der Beförderung im Sinne des § 9d nachweist, dass die Energieerzeugnisse
+(2) Tritt während der Beförderung von Energieerzeugnissen nach den §§ 10, 11 oder 13 im Steuergebiet eine Unregelmäßigkeit ein, die eine Überführung dieser Energieerzeugnisse in den steuerrechtlich freien Verkehr zur Folge hat, entsteht die Steuer. Die Steuer entsteht nicht, wenn der Versender innerhalb einer Frist von vier Monaten nach Beginn der Beförderung im Sinne des § 9d nachweist, dass die Energieerzeugnisse
 
 1. an Personen abgegeben worden sind, die zum Bezug von Energieerzeugnissen unter Steueraussetzung oder von steuerfreien Energieerzeugnissen berechtigt sind, oder
 
 2. ordnungsgemäß ausgeführt worden sind.
 
-Die Steuer entsteht auch dann nicht, wenn die Energieerzeugnisse das Steuergebiet auf Grund unvorhersehbarer Umstände nur kurzzeitig verlassen haben und im Anschluss daran wieder an Personen im Sinne des Satzes 2 Nummer 1 im Steuergebiet abgegeben worden sind oder die Energieerzeugnisse an einen anderen Ort oder an eine andere berechtigte Person befördert worden sind als zu Beginn der Beförderung vorgesehen. Die Unregelmäßigkeit darf nicht vorsätzlich oder leichtfertig durch den Steuerschuldner verursacht worden sein und die Steueraufsicht muss gewahrt gewesen sein. Abweichend von Satz 2 beginnt die Frist von vier Monaten für die Vorlage des Nachweises an dem Tag, an dem das Hauptzollamt durch eine Steueraufsichtsmaßnahme oder Außenprüfung feststellt, dass eine Unregelmäßigkeit eingetreten ist.
+Die Steuer entsteht auch dann nicht, wenn die Energieerzeugnisse das Steuergebiet auf Grund unvorhersehbarer Umstände nur kurzzeitig verlassen haben und im Anschluss daran wieder an Personen im Sinne des Satzes 2 Nummer 1 im Steuergebiet abgegeben worden sind oder die Energieerzeugnisse an einen anderen Ort oder zu einer anderen berechtigten Person befördert worden sind als zu Beginn der Beförderung vorgesehen. Die Unregelmäßigkeit darf nicht vorsätzlich oder leichtfertig durch den Steuerschuldner verursacht worden sein und die Steueraufsicht muss gewahrt gewesen sein. Abweichend von Satz 2 beginnt die Frist von vier Monaten für die Vorlage des Nachweises an dem Tag, an dem das Hauptzollamt durch eine Steueraufsichtsmaßnahme oder Außenprüfung feststellt, dass eine Unregelmäßigkeit eingetreten ist.
 
-(3) Wird während der Beförderung unter Steueraussetzung aus einem Steuerlager in einem anderen Mitgliedstaat oder von einem Ort der Einfuhr in einem anderen Mitgliedstaat im Steuergebiet festgestellt, dass eine Unregelmäßigkeit eingetreten ist und kann nicht ermittelt werden, wo die Unregelmäßigkeit eingetreten ist, so gilt sie als im Steuergebiet und zum Zeitpunkt der Feststellung eingetreten.
+(3) Wird während der Beförderung von Energieerzeugnissen unter Steueraussetzung aus einem Steuerlager in einem anderen Mitgliedstaat oder von einem Ort der Einfuhr in einem anderen Mitgliedstaat im Steuergebiet festgestellt, dass eine Unregelmäßigkeit eingetreten ist, die eine Überführung dieser Energieerzeugnisse in den steuerrechtlich freien Verkehr zur Folge hatte, und kann nicht ermittelt werden, wo die Unregelmäßigkeit eingetreten ist, so gilt sie als im Steuergebiet und zum Zeitpunkt der Feststellung eingetreten.
 
-(4) Sind Energieerzeugnisse unter Steueraussetzung aus dem Steuergebiet in einen anderen Mitgliedstaat befördert worden (§ 11 Absatz 1 Nummer 1, § 13 Absatz 1) und nicht an ihrem Bestimmungsort eingetroffen, ohne dass während der Beförderung eine Unregelmäßigkeit festgestellt worden ist, so gilt die Unregelmäßigkeit nach Absatz 1 als im Steuergebiet zum Zeitpunkt des Beginns der Beförderung eingetreten, es sei denn, der Versender führt innerhalb einer Frist von vier Monaten nach Beginn der Beförderung den hinreichenden Nachweis, dass die Energieerzeugnisse
+(4) Sind Energieerzeugnisse unter Steueraussetzung aus dem Steuergebiet in einen anderen Mitgliedstaat befördert worden (§ 11 Absatz 1 Nummer 1, § 13 Absatz 1) und nicht an ihrem Bestimmungsort eingetroffen, ohne dass während der Beförderung eine Unregelmäßigkeit festgestellt worden ist, die eine Überführung dieser Energieerzeugnisse in den steuerrechtlich freien Verkehr zur Folge hatte, so gilt die Unregelmäßigkeit nach Absatz 1 als im Steuergebiet zum Zeitpunkt des Beginns der Beförderung eingetreten, es sei denn, der Versender führt innerhalb einer Frist von vier Monaten nach Beginn der Beförderung den hinreichenden Nachweis, dass die Energieerzeugnisse
 
 1. am Bestimmungsort eingetroffen sind und die Beförderung ordnungsgemäß beendet wurde oder
 
@@ -686,9 +686,11 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 4. mit versteuertem Erdgas gemischt werden, wenn das Gemisch Erdgas ist und als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet wird.
 
-Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Absatz 3 Satz 1 Nummer 2 dann nicht vor, wenn die Energieerzeugnisse zur Abfallentsorgung ausgesondert oder geliefert werden und nicht ausdrücklich eine Bestimmung als Heizstoff vorgenommen wird.
+Eine Abgabe im Steuergebiet als Kraft- oder Heizstoff im Sinn des Satzes 1 Nummer 1 liegt auch dann vor, wenn der Verbleib der Energieerzeugnisse nicht festgestellt werden kann. Kann im Falle einer Abgabe nicht festgestellt werden, ob die Energieerzeugnisse als Kraftstoff oder als Heizstoff verwendet werden sollen, gelten sie als Kraftstoff abgegeben. Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Absatz 3 Satz 1 Nummer 2 dann nicht vor, wenn die Energieerzeugnisse zur Abfallentsorgung ausgesondert oder geliefert werden und nicht ausdrücklich eine Bestimmung als Heizstoff vorgenommen wird.
 
-(1a) Bei der Steuerentstehung nach Absatz 1 sind nachweisliche Vorversteuerungen anzurechnen. Die Steuer nach Absatz 1 entsteht nicht, wenn die Voraussetzungen eines Verfahrens der Steuerbefreiung (§ 24 Absatz 1) vorliegen.
+(1a) Die Steuer nach Absatz 1 Satz 1 Nummer 1 entsteht nicht, wenn der Steuerschuldner innerhalb einer Frist von 14 Tagen nach der Abgabe nachweist, dass die Energieerzeugnisse aus dem Steuergebiet verbracht oder ausgeführt worden sind. Dies gilt nicht in den Fällen, in denen die Steuer nach Absatz 1 Satz 1 Nummer 1 auf Grund der Fiktion des Absatzes 1 Satz 2 entstanden ist.
+
+(1b) Bei der Steuerentstehung nach Absatz 1 sind nachweisliche Vorversteuerungen anzurechnen. Die Steuer nach Absatz 1 entsteht nicht, wenn die Voraussetzungen eines Verfahrens der Steuerbefreiung (§ 24 Absatz 1) vorliegen.
 
 (2) Absatz 1 gilt nicht
 
@@ -709,6 +711,8 @@ Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Abs
 (5) Für die nach Absatz 1 entstehende Steuer ist im Voraus Sicherheit zu leisten, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
 (6) Der Steuerschuldner hat für Energieerzeugnisse, für die in einem Monat die Steuer entstanden ist, eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Für die Fristen zur Abgabe der Steuererklärung und die Fälligkeit der Steuer gilt § 8 Abs. 3 bis 6 entsprechend. Wird das Verfahren nach Absatz 4 nicht eingehalten oder eine nach Absatz 5 angeforderte Sicherheit nicht geleistet, hat der Steuerschuldner für die entstandene Steuer unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
+
+(7) Wer Energieerzeugnisse im Sinn des Absatzes 4 Satz 2 nicht nur gelegentlich abgibt, kann den Nachweis nach Absatz 1a abweichend von dem dort genannten Zeitraum zusammen mit der Steuererklärung nach Absatz 6 Satz 1 und 2 erbringen. Absatz 5 gilt sinngemäß.
 
 # § 24 – Begriffsbestimmungen, Erlaubnis
 
@@ -732,7 +736,7 @@ Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Abs
 
 2. zur Herstellung von in § 4 genannten Kraft- oder Heizstoffen.
 
-Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Herstellung nach § 6 liegt. Satz 2 gilt nicht, wenn zur Herstellung eines Energieerzeugnisses im Sinn des § 4 Waren der Unterpositionen 2710 11 21, 2710 11 25 oder 2710 19 29 der Kombinierten Nomenklatur eingesetzt werden und diese nach § 4 Nr. 3 nicht unter Steueraussetzung befördert werden können.
+Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Herstellung nach § 6 liegt. Satz 2 gilt nicht, wenn zur Herstellung eines Energieerzeugnisses im Sinn des § 4 Waren der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur eingesetzt werden und diese nach § 4 Nr. 3 nicht unter Steueraussetzung befördert werden können.
 
 (2) Energieerzeugnisse dürfen steuerfrei verwendet werden als Probe zu Untersuchungszwecken.
 
@@ -1406,7 +1410,7 @@ e) |                       |           |
 
 Satz 1 gilt für Energieerzeugnisse nach § 2 Absatz 4 sinngemäß.
 
-(3) Ein Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag nach Absatz 2 mindestens 50 Euro im Kalenderjahr beträgt.
+(3) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag nach Absatz 2 mindestens 50 Euro im Kalenderjahr beträgt.
 
 (4) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse verwendet hat.
 

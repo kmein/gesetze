@@ -830,7 +830,7 @@ Die angewachsenen Ansprüche sind mit der Emissionsrendite anzusetzen, sofern di
 
 2. die auf die Spezial-Investmentanteile des Anlegers rechnerisch entfallende Beteiligung am Kapital der Gesellschaft die Voraussetzungen für eine Freistellung nach dem Abkommen zur Vermeidung der Doppelbesteuerung erfüllt.
 
-(2) § 3 Nummer 41 Buchstabe a des Einkommensteuergesetzes ist entsprechend anzuwenden.
+(2) (weggefallen)
 
 (3) Auf ausgeschüttete oder ausschüttungsgleiche Erträge, die aus Ausschüttungen von Investmentfonds, Vorabpauschalen oder Gewinnen aus der Veräußerung von Investmentanteilen stammen, ist die Teilfreistellung nach § 20 entsprechend anzuwenden.
 
@@ -1161,3 +1161,5 @@ in der Fassung des Artikels 17 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 24
 in der Fassung des Artikels 10 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096).
 
 (3) § 7 Absatz 4 Satz 3 und Absatz 5 Satz 1 sowie § 11 Absatz 1 Satz 3 und 4 in der Fassung des Artikels 3 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) sind ab dem 1. Juli 2021 anzuwenden. Bei Vorlage einer Statusbescheinigung, die nicht die Angaben nach § 7 Absatz 4 Satz 3 in der Fassung des Artikels 3 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) enthält, ist ab dem 1. Juli 2021 eine Erstattung nach § 7 Absatz 5 ausgeschlossen.
+
+(5) § 43 Absatz 2 in der am 30. Juni 2021 geltenden Fassung ist letztmals für den Veranlagungszeitraum 2021 anzuwenden.

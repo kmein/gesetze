@@ -35,7 +35,7 @@ c) Luftfahrzeuge, die für die gewerbsmäßige oder entgeltliche Beförderung vo
 
 d) Fahrgastschiffe, die Fahrgäste im Linienverkehr befördern.
 
-3. Personenbahnhöfe der öffentlichen Eisenbahnen sind solche nach § 3 Abs. 1 in Verbindung mit § 2 Abs. 3c Nr. 2 des Allgemeinen Eisenbahngesetzes.
+3. Personenbahnhöfe der öffentlichen Eisenbahnen im Sinne dieses Gesetzes sind solche nach § 3 Absatz 1 des Allgemeinen Eisenbahngesetzes in Verbindung mit Anlage 2 (zu den §§ 10 bis 14) Nummer 2 Satz 1 Buchstabe a des Eisenbahnregulierungsgesetzes.
 
 4. Räume im Sinne dieses Gesetzes sind
 

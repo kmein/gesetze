@@ -19,9 +19,21 @@
 
 5. Genussrechte,
 
-6. Namensschuldverschreibungen und
+6. Namensschuldverschreibungen,
 
-7. sonstige Anlagen, die eine Verzinsung und Rückzahlung oder einen vermögenswerten Barausgleich im Austausch für die zeitweise Überlassung von Geld gewähren oder in Aussicht stellen,
+7. sonstige Anlagen, die eine Verzinsung und Rückzahlung oder einen vermögenswerten Barausgleich im Austausch für die zeitweise Überlassung von Geld gewähren oder in Aussicht stellen, und
+
+8. Anlagen, die im Austausch für die zeitweise Überlassung von Geld oder handelsüblichen Edelmetallen
+
+a) eine Verzinsung und Rückzahlung,
+
+b) eine Verzinsung und Herausgabe von handelsüblichen Edelmetallen,
+
+c) einen vermögenswerten Barausgleich oder
+
+d) einen vermögenswerten Ausgleich durch die Herausgabe von handelsüblichen Edelmetallen
+
+gewähren oder in Aussicht stellen,
 
 sofern die Annahme der Gelder nicht als Einlagengeschäft im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des Kreditwesengesetzes zu qualifizieren ist.
 
@@ -600,7 +612,7 @@ Für den letzten Jahresabschluss und Lagebericht des Emittenten von Vermögensan
 
 (4) Emittenten von Vermögensanlagen mit Sitz außerhalb der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum haben einen Jahresabschluss und einen Lagebericht nach den in Deutschland geltenden, auf Kapitalgesellschaften anzuwendenden Rechnungslegungsvorschriften in deutscher Sprache zu erstellen. Die Absätze 1 und 2 sind entsprechend anzuwenden.
 
-(5) Die Bundesanstalt kann eine Prüfung der Rechnungslegung von Emittenten von Vermögensanlagen anordnen, soweit konkrete Anhaltspunkte, insbesondere auf Grund von Eingaben Dritter, für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen. Die Bundesanstalt kann Schwerpunkte für die einzelne Prüfung festlegen; der Umfang der einzelnen Prüfung soll in der jeweiligen Prüfungsanordnung festgelegt werden. Zur Durchführung der Prüfung bestellt die Bundesanstalt andere Einrichtungen und Personen; sie kann an der Prüfung teilnehmen. § 107 Absatz 2 des Wertpapierhandelsgesetzes findet entsprechende Anwendung. Eine Prüfung findet auch dann nicht statt, wenn ein Verfahren nach § 342b Absatz 2 des Handelsgesetzbuchs oder nach § 107 des Wertpapierhandelsgesetzes anhängig ist, soweit der Gegenstand des Bilanzkontrollverfahrens reicht.
+(5) Die Bundesanstalt kann eine Prüfung der Rechnungslegung von Emittenten von Vermögensanlagen anordnen, soweit konkrete Anhaltspunkte, insbesondere auf Grund von Eingaben Dritter, für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen. Die Bundesanstalt kann Schwerpunkte für die einzelne Prüfung festlegen; der Umfang der einzelnen Prüfung soll in der jeweiligen Prüfungsanordnung festgelegt werden. Zur Durchführung der Prüfung bestellt die Bundesanstalt andere Einrichtungen und Personen; sie kann an der Prüfung teilnehmen. § 107 Absatz 2 des Wertpapierhandelsgesetzes findet entsprechende Anwendung. Eine Prüfung findet auch dann nicht statt, wenn ein Verfahren nach § 107 des Wertpapierhandelsgesetzes anhängig ist, soweit der Gegenstand des Bilanzkontrollverfahrens reicht.
 
 (6) Der Emittent einer Vermögensanlage, die Mitglieder seiner Organe, seine Beschäftigten sowie seine Abschlussprüfer haben den Einrichtungen und Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, und der Bundesanstalt auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur Prüfung erforderlich ist; die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Satz 1 gilt auch hinsichtlich Konzernunternehmen sowie abhängigen oder herrschenden Unternehmen. Für das Recht zur Auskunftsverweigerung und die Belehrungspflicht gilt § 19 Absatz 3 entsprechend. Die zur Auskunft und Vorlage von Unterlagen Verpflichteten haben den Bediensteten der Bundesanstalt oder den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, während der üblichen Arbeitszeit das Betreten ihrer Grundstücke und Geschäftsräume zu gestatten. § 6 Absatz 11 Satz 2 des Wertpapierhandelsgesetzes gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 

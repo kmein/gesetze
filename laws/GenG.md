@@ -833,6 +833,10 @@ Zwangsgeldverfahren
 
 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
 
+§ 173
+
+Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
 # § 1 – Wesen der Genossenschaft
 
 (1) Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder oder deren soziale oder kulturelle Belange durch gemeinschaftlichen Geschäftsbetrieb zu fördern (Genossenschaften), erwerben die Rechte einer "eingetragenen Genossenschaft" nach Maßgabe dieses Gesetzes.
@@ -1261,7 +1265,7 @@ Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch für Stellv
 
 (3) Die Bestellung zum Mitglied des Aufsichtsrats kann auch vor Ablauf des Zeitraums, für welchen es gewählt ist, durch die Generalversammlung widerrufen werden. Der Beschluss bedarf einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfasst.
 
-(4) Bei einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, müssen die Mitglieder des Aufsichtsrats in ihrer Gesamtheit mit dem Sektor, in dem die Genossenschaft tätig ist, vertraut sein; mindestens ein Mitglied muss über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen.
+(4) Bei einer Genossenschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, müssen die Mitglieder des Aufsichtsrats in ihrer Gesamtheit mit dem Sektor, in dem die Genossenschaft tätig ist, vertraut sein; mindestens ein Mitglied muss über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen.
 
 (5) Abweichend von Absatz 1 Satz 1 kann die Satzung vorsehen, dass für bestimmte Mitglieder das Recht besteht, Mitglieder in den Aufsichtsrat zu entsenden. Die Zahl der nach Satz 1 in den Aufsichtsrat entsandten Personen darf zusammen mit der Zahl der investierenden Mitglieder im Aufsichtsrat ein Drittel der Aufsichtsratsmitglieder nicht überschreiten.
 
@@ -1275,7 +1279,7 @@ Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch für Stellv
 
 (1) Der Aufsichtsrat hat den Vorstand bei dessen Geschäftsführung zu überwachen. Er kann zu diesem Zweck von dem Vorstand jederzeit Auskünfte über alle Angelegenheiten der Genossenschaft verlangen und die Bücher und Schriften der Genossenschaft sowie den Bestand der Genossenschaftskasse und die Bestände an Wertpapieren und Waren einsehen und prüfen. Er kann einzelne seiner Mitglieder beauftragen, die Einsichtnahme und Prüfung durchzuführen. Auch ein einzelnes Mitglied des Aufsichtsrats kann Auskünfte, jedoch nur an den Aufsichtsrat, verlangen. Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht und den Vorschlag für die Verwendung des Jahresüberschusses oder die Deckung des Jahresfehlbetrags zu prüfen; über das Ergebnis der Prüfung hat er der Generalversammlung vor der Feststellung des Jahresabschlusses zu berichten.
 
-(1a) Der Aufsichtsrat kann einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses sowie der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Richtet der Aufsichtsrat einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, einen Prüfungsausschuss ein, so muss dieser die Voraussetzungen des § 36 Absatz 4 erfüllen. Artikel 6 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) findet mit der Maßgabe Anwendung, dass die Erklärung bezogen auf die gesetzlichen Vertreter des Verbandes und die vom Verband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, abzugeben ist.
+(1a) Der Aufsichtsrat kann einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses sowie der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Richtet der Aufsichtsrat einer Genossenschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, einen Prüfungsausschuss ein, so muss dieser die Voraussetzungen des § 36 Absatz 4 erfüllen. Artikel 6 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) findet mit der Maßgabe Anwendung, dass die Erklärung bezogen auf die gesetzlichen Vertreter des Verbandes und die vom Verband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, abzugeben ist.
 
 (1b) Der Aufsichtsrat hat auch den gesonderten nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs) zu prüfen, sofern er erstellt wurde.
 
@@ -1425,9 +1429,9 @@ Soweit die Satzung die Mitglieder zu Einzahlungen auf den Geschäftsanteil verpf
 
 (2) Im Rahmen der Prüfung nach Absatz 1 ist bei Genossenschaften, deren Bilanzsumme 1,5 Millionen Euro und deren Umsatzerlöse 3 Millionen Euro übersteigen, der Jahresabschluss unter Einbeziehung der Buchführung und des Lageberichts zu prüfen. § 316 Absatz 3 Satz 1 und 2, § 317 Abs. 1 Satz 2 und 3, Abs. 2 des Handelsgesetzbuchs sind entsprechend anzuwenden; Artikel 17 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung. Bei der Prüfung großer Genossenschaften im Sinn des § 58 Abs. 2 ist § 317 Abs. 5 und 6 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-(3) Für Genossenschaften, die kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind und keinen Aufsichtsrat haben, gilt § 324 des Handelsgesetzbuchs entsprechend.
+(3) Für Genossenschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs sind und keinen Aufsichtsrat haben, gilt § 324 Absatz 1 und 2 des Handelsgesetzbuchs entsprechend mit der Maßgabe, dass mindestens ein Mitglied über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen muss.
 
-(4) Bei der Prüfung einer Genossenschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes), aber nicht ausschließlich die von § 327a erfassten Schuldtitel, begibt, sind § 316 Absatz 3 Satz 3, § 317 Absatz 3b Satz 1, § 320 Absatz 1 Satz 3 und § 322 Absatz 1 Satz 4 des Handelsgesetzbuchs entsprechend anzuwenden.
+(4) Bei der Prüfung einer Genossenschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes), aber nicht ausschließlich die von § 327a erfassten Schuldtitel, begibt, sind § 316 Absatz 3 Satz 3, § 317 Absatz 3a Satz 1, § 320 Absatz 1 Satz 3 und § 322 Absatz 1 Satz 4 des Handelsgesetzbuchs entsprechend anzuwenden.
 
 (+++ § 53: Zur Anwendung vgl. § 172 +++)
 
@@ -1487,7 +1491,7 @@ d) eigenständige versicherungsmathematische oder Bewertungsleistungen erbracht 
 
 sofern diese Tätigkeiten nicht von untergeordneter Bedeutung sind; dies gilt auch, wenn eine dieser Tätigkeiten von einem Unternehmen für die zu prüfende Genossenschaft ausgeübt wird, bei dem der gesetzliche Vertreter des Verbandes oder die vom Verband beschäftigte Person als gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder Gesellschafter, der mehr als 20 Prozent der den Gesellschaftern zustehenden Stimmrechte besitzt, diese Tätigkeit ausübt oder deren Ergebnis beeinflussen kann.
 
-Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwenden, sofern sichergestellt ist, dass der Prüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. Die Sätze 2 und 3 gelten auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund erfüllt. Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, sind über die in den Sätzen 1 bis 4 genannten Gründe hinaus § 319a Absatz 1 und 3 des Handelsgesetzbuchs sowie Artikel 5 Absatz 1, 4 Unterabsatz 1 und Absatz 5 der Verordnung (EU) Nr. 537/2014 auf die in Satz 1 genannten Vertreter und Personen des Verbandes entsprechend anzuwenden; auf den Verband findet Artikel 5 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
+Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwenden, sofern sichergestellt ist, dass der Prüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. Die Sätze 2 und 3 gelten auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund erfüllt. Ist die zu prüfende Genossenschaft ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs, ist über die in den Sätzen 1 bis 4 genannten Gründe hinaus Artikel 5 Absatz 1, 4 Unterabsatz 1 und Absatz 5 der Verordnung (EU) Nr. 537/2014 auf die in Satz 1 genannten Vertreter und Personen des Verbandes entsprechend anzuwenden; auf den Verband findet Artikel 5 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
 (2a) Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 findet auf alle in Absatz 2 Satz 1 genannten Vertreter und Personen des Verbandes entsprechende Anwendung; auf den Verband findet Artikel 4 Absatz 2 und 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 keine Anwendung. Artikel 4 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung.
 
@@ -1515,7 +1519,7 @@ Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwend
 
 (4) In unmittelbarem Zusammenhang mit der Prüfung soll der Prüfer in einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der Genossenschaft über das voraussichtliche Ergebnis der Prüfung mündlich berichten. Er kann zu diesem Zwecke verlangen, dass der Vorstand oder der Vorsitzende des Aufsichtsrats zu einer solchen Sitzung einladen; wird seinem Verlangen nicht entsprochen, so kann er selbst Vorstand und Aufsichtsrat unter Mitteilung des Sachverhalts berufen.
 
-(5) Ist eine Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, so hat der Prüfer an einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der Genossenschaft über das voraussichtliche Ergebnis der Prüfung teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere über wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen, und über Leistungen, die er zusätzlich zu den Prüfungsleistungen erbracht hat.
+(5) Ist eine Genossenschaft ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs, so hat der Prüfer an einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der Genossenschaft über das voraussichtliche Ergebnis der Prüfung teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere über wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen, und über Leistungen, die er zusätzlich zu den Prüfungsleistungen erbracht hat.
 
 (6) Ist nach der Satzung kein Aufsichtsrat zu bilden, werden die Rechte und Pflichten des Aufsichtsratsvorsitzenden nach den Absätzen 2 bis 4 durch einen von der Generalversammlung aus ihrer Mitte gewählten Bevollmächtigten wahrgenommen.
 
@@ -1531,7 +1535,7 @@ Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des § 264d 
 
 (3) Der Verband hat den Prüfungsbericht zu unterzeichnen und dem Vorstand der Genossenschaft sowie dem Vorsitzenden des Aufsichtsrats vorzulegen; § 57 Absatz 6 ist entsprechend anzuwenden, Artikel 11 Absatz 1, 2 Satz 1 und Absatz 4 der Verordnung (EU) Nr. 537/2014 ist nicht anzuwenden. Jedes Mitglied des Aufsichtsrats hat den Inhalt des Prüfungsberichts zur Kenntnis zu nehmen.
 
-(4) Über das Ergebnis der Prüfung haben Vorstand und Aufsichtsrat der Genossenschaft in gemeinsamer Sitzung unverzüglich nach Eingang des Prüfungsberichts zu beraten; ist die Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, so hat der Aufsichtsrat darzulegen, wie die Prüfung sowie die Befassung des Aufsichtsrats oder Prüfungsausschusses mit der Abschlussprüfung dazu beigetragen hat, dass die Rechnungslegung ordnungsgemäß ist. Verband und Prüfer sind berechtigt, an der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband von der Sitzung in Kenntnis zu setzen.
+(4) Über das Ergebnis der Prüfung haben Vorstand und Aufsichtsrat der Genossenschaft in gemeinsamer Sitzung unverzüglich nach Eingang des Prüfungsberichts zu beraten; ist die Genossenschaft ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs, so hat der Aufsichtsrat darzulegen, wie die Prüfung sowie die Befassung des Aufsichtsrats oder Prüfungsausschusses mit der Abschlussprüfung dazu beigetragen hat, dass die Rechnungslegung ordnungsgemäß ist. Verband und Prüfer sind berechtigt, an der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband von der Sitzung in Kenntnis zu setzen.
 
 # § 59 – Befassung der Generalversammlung
 
@@ -1609,7 +1613,7 @@ Der Verband hat den Registergerichten, in deren Bezirk die ihm angehörenden Gen
 
 # § 63e – Qualitätskontrolle für Prüfungsverbände
 
-(1) Die Prüfungsverbände sind verpflichtet, sich im Abstand von jeweils sechs Jahren einer Qualitätskontrolle nach Maßgabe der §§ 63f und 63g zu unterziehen. Prüft ein Prüfungsverband auch eine Genossenschaft, eine in Artikel 25 Abs. 1 Satz 1 Nr. 1 des Einführungsgesetzes zum Handelsgesetzbuch genannte Gesellschaft oder ein in Artikel 25 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum Handelsgesetzbuch genanntes Unternehmen, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind, verringert sich der Abstand auf drei Jahre. Ein Prüfungsverband, der keine gesetzlich vorgeschriebene Abschlussprüfung durchführt, ist nicht verpflichtet, sich einer Qualitätskontrolle zu unterziehen.
+(1) Die Prüfungsverbände sind verpflichtet, sich im Abstand von jeweils sechs Jahren einer Qualitätskontrolle nach Maßgabe der §§ 63f und 63g zu unterziehen. Prüft ein Prüfungsverband auch eine Genossenschaft, eine in Artikel 25 Abs. 1 Satz 1 Nr. 1 des Einführungsgesetzes zum Handelsgesetzbuch genannte Gesellschaft oder ein in Artikel 25 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum Handelsgesetzbuch genanntes Unternehmen, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs sind, verringert sich der Abstand auf drei Jahre. Ein Prüfungsverband, der keine gesetzlich vorgeschriebene Abschlussprüfung durchführt, ist nicht verpflichtet, sich einer Qualitätskontrolle zu unterziehen.
 
 (2) Die Qualitätskontrolle dient der Überwachung, ob die Grundsätze und Maßnahmen zur Qualitätssicherung nach Maßgabe der gesetzlichen Vorschriften insgesamt und bei der Durchführung einzelner Aufträge eingehalten werden. Sie erstreckt sich auf die Prüfungen nach § 53 Abs. 1 und 2 bei den in § 53 Abs. 2 Satz 1 bezeichneten Genossenschaften und die Prüfungen bei den in Artikel 25 Abs. 1 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuche genannten Gesellschaften und Unternehmen, die keine kleinen Kapitalgesellschaften im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs sind.
 
@@ -2229,9 +2233,11 @@ Ist ein Mitglied mit mehr als einem Geschäftsanteil beteiligt, so erhöht sich 
 
 # § 150 – Verletzung der Berichtspflicht
 
-(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das Ergebnis der Prüfung falsch berichtet oder erhebliche Umstände im Bericht verschweigt.
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das Ergebnis der Prüfung falsch berichtet, erhebliche Umstände im Bericht verschweigt oder einen inhaltlich unrichtigen Bestätigungsvermerk zu dem Jahresabschluss oder zu dem Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs einer Genossenschaft erteilt.
 
-(2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+(2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ebenso wird bestraft, wer einen inhaltlich unrichtigen Bestätigungsvermerk zu einem in Absatz 1 genannten Abschluss einer Genossenschaft erteilt, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist.
+
+(3) Handelt der Täter in den Fällen des Absatzes 2 Satz 2 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 # § 151 – Verletzung der Geheimhaltungspflicht
 
@@ -2249,7 +2255,7 @@ bekannt geworden ist, unbefugt offenbart, im Falle der Nummer 2 jedoch nur, wenn
 
 # § 151a – Verletzung der Pflichten bei Abschlussprüfungen
 
-Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist,
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist,
 
 1. eine in § 152 Absatz 1a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
@@ -2263,11 +2269,11 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als
 
 2. besondere Vorteile als Gegenleistung dafür anbietet, verspricht oder gewährt, dass jemand bei einer Abstimmung in der Generalversammlung oder der Vertreterversammlung oder bei der Wahl der Vertreter nicht oder in einem bestimmten Sinne stimme.
 
-(1a) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, die Unabhängigkeit der in § 55 Absatz 2 Satz 1 genannten Vertreter und Personen nicht nach Maßgabe des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) in Verbindung mit § 55 Absatz 2 Satz 5 oder nach Maßgabe des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 in Verbindung mit § 38 Absatz 1a Satz 4 überwacht.
+(1a) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, die Unabhängigkeit der in § 55 Absatz 2 Satz 1 genannten Vertreter und Personen nicht nach Maßgabe des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) in Verbindung mit § 55 Absatz 2 Satz 5 oder nach Maßgabe des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 in Verbindung mit § 38 Absatz 1a Satz 4 überwacht.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1a bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1a bei einer Genossenschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 2 des Handelsgesetzbuchs ist, die Bundesanstalt für Finanzdienstleistungsaufsicht, in den übrigen Fällen des Absatzes 1a das Bundesamt für Justiz.
 
 # § 153 – Mitteilungen an die Abschlussprüferaufsichtsstelle
 
@@ -2352,3 +2358,9 @@ Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 hab
 # § 172 – Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
 
 § 53 in der ab dem 19. August 2020 geltenden Fassung ist erstmals auf Jahresabschlüsse und Lageberichte für das nach dem 31. Dezember 2019 beginnende Geschäftsjahr anzuwenden.
+
+# § 173 – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+(1) Die §§ 55, 151a und 152 in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Prüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Prüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+(2) § 53 Absatz 3 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals ab dem 1. Januar 2022 anzuwenden.

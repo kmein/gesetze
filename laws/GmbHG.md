@@ -643,7 +643,7 @@ Für die Ablehnung der Eintragung durch das Gericht findet § 9c Abs. 1 entsprec
 
 (2) Die Bilanz ist, bevor über die Erhöhung des Stammkapitals Beschluß gefaßt wird, durch einen oder mehrere Prüfer darauf zu prüfen, ob sie dem Absatz 1 entspricht. Sind nach dem abschließenden Ergebnis der Prüfung keine Einwendungen zu erheben, so haben die Prüfer dies durch einen Vermerk zu bestätigen. Die Erhöhung des Stammkapitals kann nicht ohne diese Bestätigung der Prüfer beschlossen werden.
 
-(3) Die Prüfer werden von den Gesellschaftern gewählt; falls nicht andere Prüfer gewählt werden, gelten die Prüfer als gewählt, die für die Prüfung des letzten Jahresabschlusses von den Gesellschaftern gewählt oder vom Gericht bestellt worden sind. Im übrigen sind, soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, § 318 Abs. 1 Satz 2, § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1 Satz 2, Abs. 2 und die §§ 321 und 323 des Handelsgesetzbuchs anzuwenden. Bei Gesellschaften, die nicht große im Sinne des § 267 Abs. 3 des Handelsgesetzbuchs sind, können auch vereidigte Buchprüfer zu Prüfern bestellt werden.
+(3) Die Prüfer werden von den Gesellschaftern gewählt; falls nicht andere Prüfer gewählt werden, gelten die Prüfer als gewählt, die für die Prüfung des letzten Jahresabschlusses von den Gesellschaftern gewählt oder vom Gericht bestellt worden sind. Im Übrigen sind, soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, § 318 Absatz 1 Satz 2, § 319 Absatz 1 bis 4, § 319b Absatz 1, § 320 Absatz 1 Satz 2 und Absatz 2, die §§ 321 und 323 des Handelsgesetzbuchs sowie bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, auch Artikel 5 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden. Bei Gesellschaften, die nicht große im Sinne des § 267 Abs. 3 des Handelsgesetzbuchs sind, können auch vereidigte Buchprüfer zu Prüfern bestellt werden.♦
 
 # § 57g – Vorherige Bekanntgabe des Jahresabschlusses
 
@@ -957,37 +957,27 @@ falsche Angaben macht.
 
 # § 86 – Verletzung der Pflichten bei Abschlussprüfungen
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist,
 
-1. eine in § 87 Absatz 1 bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+1. eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
-2. eine in § 87 Absatz 1 bezeichnete Handlung beharrlich wiederholt.
-
-(2) Ebenso wird bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
-
-1. eine in § 87 Absatz 2 oder 3 bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
-
-2. eine in § 87 Absatz 2 oder 3 bezeichnete Handlung beharrlich wiederholt.
+2. eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung beharrlich wiederholt.
 
 # § 87 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+(1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist,
 
 1. die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
 
-2. eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes beruht und
+2. eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
 
-a) die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
-
-b) der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
-
-(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
 (3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss bestellt hat, einer in Absatz 2 genannten Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, und bei Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist bei einer Gesellschaft, die ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 2 des Handelsgesetzbuchs ist, die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 # § 88 – Mitteilungen an die Abschlussprüferaufsichtsstelle
 

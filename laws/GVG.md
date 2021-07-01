@@ -457,11 +457,11 @@ c) bereits als ehrenamtliche Richter tätig sind;
 
 (1) Die Gemeinde stellt in jedem fünften Jahr eine Vorschlagsliste für Schöffen auf. Für die Aufnahme in die Liste ist die Zustimmung von zwei Dritteln der anwesenden Mitglieder der Gemeindevertretung, mindestens jedoch der Hälfte der gesetzlichen Zahl der Mitglieder der Gemeindevertretung erforderlich. Die jeweiligen Regelungen zur Beschlussfassung der Gemeindevertretung bleiben unberührt.
 
-(2) Die Vorschlagsliste soll alle Gruppen der Bevölkerung nach Geschlecht, Alter, Beruf und sozialer Stellung angemessen berücksichtigen. Sie muß Geburtsnamen, Familiennamen, Vornamen, Tag und Ort der Geburt, Wohnanschrift und Beruf der vorgeschlagenen Personen enthalten.
+(2) Die Vorschlagsliste soll alle Gruppen der Bevölkerung nach Geschlecht, Alter, Beruf und sozialer Stellung angemessen berücksichtigen. Sie muss Familienname, Vornamen, gegebenenfalls einen vom Familiennamen abweichenden Geburtsnamen, Geburtsjahr, Wohnort einschließlich Postleitzahl sowie Beruf der vorgeschlagenen Person enthalten; bei häufig vorkommenden Namen ist auch der Stadt- oder Ortsteil des Wohnortes aufzunehmen.
 
 (3) Die Vorschlagsliste ist in der Gemeinde eine Woche lang zu jedermanns Einsicht aufzulegen. Der Zeitpunkt der Auflegung ist vorher öffentlich bekanntzumachen.
 
-(4) In die Vorschlagslisten des Bezirks des Amtsgerichts sind mindestens doppelt so viele Personen aufzunehmen, wie als erforderliche Zahl von Haupt- und Hilfsschöffen nach § 43 bestimmt sind. Die Verteilung auf die Gemeinden des Bezirks erfolgt durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) in Anlehnung an die Einwohnerzahl der Gemeinden.
+(4) In die Vorschlagslisten des Bezirks des Amtsgerichts sind mindestens doppelt so viele Personen aufzunehmen, wie als erforderliche Zahl von Haupt- und Ersatzschöffen nach § 43 bestimmt sind. Die Verteilung auf die Gemeinden des Bezirks erfolgt durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) in Anlehnung an die Einwohnerzahl der Gemeinden.
 
 (+++ § 36 Abs. 2: Zur Anwendung vgl. Art. 9 Abs. 9 G v. 9.12.1974 I 3393 (in dieser Fassung erstmals auf die Amtsperiode ab 1.1.1977 anzuwenden) +++)
 
@@ -499,13 +499,13 @@ Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die Vorschlagsl
 
 1. die erforderliche Zahl von Schöffen;
 
-2. die erforderliche Zahl der Personen, die an die Stelle wegfallender Schöffen treten oder in den Fällen der §§ 46, 47 als Schöffen benötigt werden (Hilfsschöffen). Zu wählen sind Personen, die am Sitz des Amtsgerichts oder in dessen nächster Umgebung wohnen.
+2. die erforderliche Zahl der Personen, die an die Stelle wegfallender Schöffen treten oder in den Fällen der §§ 46, 47 als Schöffen benötigt werden (Ersatzschöffen). Zu wählen sind Personen, die am Sitz des Amtsgerichts oder in dessen nächster Umgebung wohnen.
 
 (2) Bei der Wahl soll darauf geachtet werden, daß alle Gruppen der Bevölkerung nach Geschlecht, Alter, Beruf und sozialer Stellung angemessen berücksichtigt werden.
 
 # § 43
 
-(1) Die für jedes Amtsgericht erforderliche Zahl von Haupt- und Hilfsschöffen wird durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) bestimmt.
+(1) Die für jedes Amtsgericht erforderliche Zahl von Haupt- und Ersatzschöffen wird durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) bestimmt.
 
 (2) Die Zahl der Hauptschöffen ist so zu bemessen, daß voraussichtlich jeder zu nicht mehr als zwölf ordentlichen Sitzungstagen im Jahr herangezogen wird.
 
@@ -513,13 +513,13 @@ Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die Vorschlagsl
 
 # § 44
 
-Die Namen der gewählten Hauptschöffen und Hilfsschöffen werden bei jedem Amtsgericht in gesonderte Verzeichnisse aufgenommen (Schöffenlisten).
+Die Namen der gewählten Hauptschöffen und Ersatzschöffen werden bei jedem Amtsgericht in gesonderte Verzeichnisse aufgenommen (Schöffenlisten).
 
 # § 45
 
 (1) Die Tage der ordentlichen Sitzungen des Schöffengerichts werden für das ganze Jahr im voraus festgestellt.
 
-(2) Die Reihenfolge, in der die Hauptschöffen an den einzelnen ordentlichen Sitzungen des Jahres teilnehmen, wird durch Auslosung in öffentlicher Sitzung des Amtsgerichts bestimmt. Sind bei einem Amtsgericht mehrere Schöffengerichte eingerichtet, so kann die Auslosung in einer Weise bewirkt werden, nach der jeder Hauptschöffe nur an den Sitzungen eines Schöffengerichts teilnimmt. Die Auslosung ist so vorzunehmen, daß jeder ausgeloste Hauptschöffe möglichst zu zwölf Sitzungstagen herangezogen wird. Satz 1 gilt entsprechend für die Reihenfolge, in der die Hilfsschöffen an die Stelle wegfallender Schöffen treten (Hilfsschöffenliste); Satz 2 ist auf sie nicht anzuwenden.
+(2) Die Reihenfolge, in der die Hauptschöffen an den einzelnen ordentlichen Sitzungen des Jahres teilnehmen, wird durch Auslosung in öffentlicher Sitzung des Amtsgerichts bestimmt. Sind bei einem Amtsgericht mehrere Schöffengerichte eingerichtet, so kann die Auslosung in einer Weise bewirkt werden, nach der jeder Hauptschöffe nur an den Sitzungen eines Schöffengerichts teilnimmt. Die Auslosung ist so vorzunehmen, daß jeder ausgeloste Hauptschöffe möglichst zu zwölf Sitzungstagen herangezogen wird. Satz 1 gilt entsprechend für die Reihenfolge, in der die Ersatzschöffen an die Stelle wegfallender Schöffen treten (Ersatzschöffenliste); Satz 2 ist auf sie nicht anzuwenden.
 
 (3) Das Los zieht der Richter beim Amtsgericht.
 
@@ -541,7 +541,7 @@ Die bisherige Fassung des § 45 lautet:
 
 # § 46
 
-Wird bei einem Amtsgericht während des Geschäftsjahres ein weiteres Schöffengericht gebildet, so werden für dessen ordentliche Sitzungen die benötigten Hauptschöffen gemäß § 45 Abs. 1, 2 Satz 1, Abs. 3, 4 aus der Hilfsschöffenliste ausgelost. Die ausgelosten Schöffen werden in der Hilfsschöffenliste gestrichen.
+Wird bei einem Amtsgericht während des Geschäftsjahres ein weiteres Schöffengericht gebildet, so werden für dessen ordentliche Sitzungen die benötigten Hauptschöffen gemäß § 45 Abs. 1, 2 Satz 1, Abs. 3, 4 aus der Ersatzschöffenliste ausgelost. Die ausgelosten Schöffen werden in der Ersatzschöffenliste gestrichen.
 
 (+++ § 46: Zur Anwendung idF d. Art. 2 Nr. 3 G v. 5.10.1978 I 1645 mWv 1.1.1979 vgl. Art. 8 Abs. 8 dieses G (erstmals auf die am 1.1.1981 beginnende Amtsperiode anzuwenden. Die bisherige Fassung des § 46 lautet:
 
@@ -553,23 +553,23 @@ Wird bei einem Amtsgericht während des Geschäftsjahres ein weiteres Schöffeng
 
 # § 47
 
-Wenn die Geschäfte die Anberaumung außerordentlicher Sitzungen erforderlich machen oder wenn zu einzelnen Sitzungen die Zuziehung anderer als der zunächst berufenen Schöffen oder Ergänzungsschöffen erforderlich wird, so werden Schöffen aus der Hilfsschöffenliste herangezogen.
+Wenn die Geschäfte die Anberaumung außerordentlicher Sitzungen erforderlich machen oder wenn zu einzelnen Sitzungen die Zuziehung anderer als der zunächst berufenen Schöffen oder Ergänzungsschöffen erforderlich wird, so werden Schöffen aus der Ersatzschöffenliste herangezogen.
 
 # § 48
 
-(1) Ergänzungsschöffen (§ 192 Abs. 2, 3) werden aus der Hilfsschöffenliste zugewiesen.
+(1) Ergänzungsschöffen (§ 192 Abs. 2, 3) werden aus der Ersatzschöffenliste zugewiesen.
 
 (2) Im Fall der Verhinderung eines Hauptschöffen tritt der zunächst zugewiesene Ergänzungsschöffe auch dann an seine Stelle, wenn die Verhinderung vor Beginn der Sitzung bekannt wird.
 
 # § 49
 
-(1) Wird die Heranziehung von Hilfsschöffen zu einzelnen Sitzungen erforderlich (§§ 47, 48 Abs. 1), so werden sie aus der Hilfsschöffenliste in deren Reihenfolge zugewiesen.
+(1) Wird die Heranziehung von Ersatzschöffen zu einzelnen Sitzungen erforderlich (§§ 47, 48 Abs. 1), so werden sie aus der Ersatzschöffenliste in deren Reihenfolge zugewiesen.
 
-(2) Wird ein Hauptschöffe von der Schöffenliste gestrichen, so tritt der Hilfsschöffe, der nach der Reihenfolge der Hilfsschöffenliste an nächster Stelle steht, unter seiner Streichung in der Hilfsschöffenliste an die Stelle des gestrichenen Hauptschöffen. Die Schöffengeschäftsstelle benachrichtigt den neuen Hauptschöffen gemäß § 45 Abs. 4 Satz 3, 4.
+(2) Wird ein Hauptschöffe von der Schöffenliste gestrichen, so tritt der Ersatzschöffe, der nach der Reihenfolge der Ersatzschöffenliste an nächster Stelle steht, unter seiner Streichung in der Ersatzschöffenliste an die Stelle des gestrichenen Hauptschöffen. Die Schöffengeschäftsstelle benachrichtigt den neuen Hauptschöffen gemäß § 45 Abs. 4 Satz 3, 4.
 
-(3) Maßgebend für die Reihenfolge ist der Eingang der Anordnung oder Feststellung, aus der sich die Notwendigkeit der Heranziehung ergibt, bei der Schöffengeschäftsstelle. Die Schöffengeschäftsstelle vermerkt Datum und Uhrzeit des Eingangs auf der Anordnung oder Feststellung. In der Reihenfolge des Eingangs weist sie die Hilfsschöffen nach Absatz 1 den verschiedenen Sitzungen zu oder überträgt sie nach Absatz 2 in die Hauptschöffenliste. Gehen mehrere Anordnungen oder Feststellungen gleichzeitig ein, so sind zunächst Übertragungen aus der Hilfsschöffenliste in die Hauptschöffenliste nach Absatz 2 in der alphabetischen Reihenfolge der Familiennamen der von der Schöffenliste gestrichenen Hauptschöffen vorzunehmen; im übrigen ist die alphabetische Reihenfolge der Familiennamen der an erster Stelle Angeklagten maßgebend.
+(3) Maßgebend für die Reihenfolge ist der Eingang der Anordnung oder Feststellung, aus der sich die Notwendigkeit der Heranziehung ergibt, bei der Schöffengeschäftsstelle. Die Schöffengeschäftsstelle vermerkt Datum und Uhrzeit des Eingangs auf der Anordnung oder Feststellung. In der Reihenfolge des Eingangs weist sie die Ersatzschöffen nach Absatz 1 den verschiedenen Sitzungen zu oder überträgt sie nach Absatz 2 in die Hauptschöffenliste. Gehen mehrere Anordnungen oder Feststellungen gleichzeitig ein, so sind zunächst Übertragungen aus der Ersatzschöffenliste in die Hauptschöffenliste nach Absatz 2 in der alphabetischen Reihenfolge der Familiennamen der von der Schöffenliste gestrichenen Hauptschöffen vorzunehmen; im übrigen ist die alphabetische Reihenfolge der Familiennamen der an erster Stelle Angeklagten maßgebend.
 
-(4) Ist ein Hilfsschöffe einem Sitzungstag zugewiesen, so ist er erst wieder heranzuziehen, nachdem alle anderen Hilfsschöffen ebenfalls zugewiesen oder von der Dienstleistung entbunden oder nicht erreichbar (§ 54) gewesen sind. Dies gilt auch, wenn er selbst nach seiner Zuweisung von der Dienstleistung entbunden worden oder nicht erreichbar gewesen ist.
+(4) Ist ein Ersatzschöffe einem Sitzungstag zugewiesen, so ist er erst wieder heranzuziehen, nachdem alle anderen Ersatzschöffen ebenfalls zugewiesen oder von der Dienstleistung entbunden oder nicht erreichbar (§ 54) gewesen sind. Dies gilt auch, wenn er selbst nach seiner Zuweisung von der Dienstleistung entbunden worden oder nicht erreichbar gewesen ist.
 
 (+++ § 49 Abs. 2 Satz 2, Abs. 3: Zur Anwendung vgl. Art. 8 Abs. 8 G v. 5.10.1978 I 1645 (erstmals auf die am 1.1.1981 beginnende Amtsperiode anzuwenden) +++)
 
@@ -601,15 +601,15 @@ Im Falle des § 33 Nr. 3 gilt dies jedoch nur, wenn der Schöffe seinen Wohnsitz
 
 2. während eines Geschäftsjahres an mehr als 24 Sitzungstagen an Sitzungen teilgenommen hat.
 
-Bei Hauptschöffen wird die Streichung nur für Sitzungen wirksam, die später als zwei Wochen nach dem Tag beginnen, an dem der Antrag bei der Schöffengeschäftsstelle eingeht. Ist einem Hilfsschöffen eine Mitteilung über seine Heranziehung zu einem bestimmten Sitzungstag bereits zugegangen, so wird seine Streichung erst nach Abschluß der an diesem Sitzungstag begonnenen Hauptverhandlung wirksam.
+Bei Hauptschöffen wird die Streichung nur für Sitzungen wirksam, die später als zwei Wochen nach dem Tag beginnen, an dem der Antrag bei der Schöffengeschäftsstelle eingeht. Ist einem Ersatzschöffen eine Mitteilung über seine Heranziehung zu einem bestimmten Sitzungstag bereits zugegangen, so wird seine Streichung erst nach Abschluß der an diesem Sitzungstag begonnenen Hauptverhandlung wirksam.
 
 (3) Ist der Schöffe verstorben oder aus dem Landgerichtsbezirk verzogen, ordnet der Richter beim Amtsgericht seine Streichung an. Im Übrigen entscheidet er nach Anhörung der Staatsanwaltschaft und des beteiligten Schöffen.
 
 (4) Die Entscheidung ist nicht anfechtbar.
 
-(5) Wird ein Hilfsschöffe in die Hauptschöffenliste übertragen, so gehen die Dienstleistungen vor, zu denen er zuvor als Hilfsschöffe herangezogen war.
+(5) Wird ein Ersatzschöffe in die Hauptschöffenliste übertragen, so gehen die Dienstleistungen vor, zu denen er zuvor als Ersatzschöffe herangezogen war.
 
-(6) Hat sich die ursprüngliche Zahl der Hilfsschöffen in der Hilfsschöffenliste auf die Hälfte verringert, so findet aus den vorhandenen Vorschlagslisten eine Ergänzungswahl durch den Ausschuß statt, der die Schöffenwahl vorgenommen hatte. Der Richter beim Amtsgericht kann von der Ergänzungswahl absehen, wenn sie in den letzten sechs Monaten des Zeitraums stattfinden müßte, für den die Schöffen gewählt sind. Für die Bestimmung der Reihenfolge der neuen Hilfsschöffen gilt § 45 entsprechend mit der Maßgabe, daß die Plätze im Anschluß an den im Zeitpunkt der Auslosung an letzter Stelle der Hilfsschöffenliste stehenden Schöffen ausgelost werden.
+(6) Hat sich die ursprüngliche Zahl der Ersatzschöffen in der Ersatzschöffenliste auf die Hälfte verringert, so findet aus den vorhandenen Vorschlagslisten eine Ergänzungswahl durch den Ausschuß statt, der die Schöffenwahl vorgenommen hatte. Der Richter beim Amtsgericht kann von der Ergänzungswahl absehen, wenn sie in den letzten sechs Monaten des Zeitraums stattfinden müßte, für den die Schöffen gewählt sind. Für die Bestimmung der Reihenfolge der neuen Ersatzschöffen gilt § 45 entsprechend mit der Maßgabe, daß die Plätze im Anschluß an den im Zeitpunkt der Auslosung an letzter Stelle der Ersatzschöffenliste stehenden Schöffen ausgelost werden.
 
 # § 53
 
@@ -621,7 +621,7 @@ Bei Hauptschöffen wird die Streichung nur für Sitzungen wirksam, die später a
 
 (1) Der Richter beim Amtsgericht kann einen Schöffen auf dessen Antrag wegen eingetretener Hinderungsgründe von der Dienstleistung an bestimmten Sitzungstagen entbinden. Ein Hinderungsgrund liegt vor, wenn der Schöffe an der Dienstleistung durch unabwendbare Umstände gehindert ist oder wenn ihm die Dienstleistung nicht zugemutet werden kann.
 
-(2) Für die Heranziehung von Hilfsschöffen steht es der Verhinderung eines Schöffen gleich, wenn der Schöffe nicht erreichbar ist. Ein Schöffe, der sich zur Sitzung nicht einfindet und dessen Erscheinen ohne erhebliche Verzögerung ihres Beginns voraussichtlich nicht herbeigeführt werden kann, gilt als nicht erreichbar. Ein Hilfsschöffe ist auch dann als nicht erreichbar anzusehen, wenn seine Heranziehung eine Vertagung der Verhandlung oder eine erhebliche Verzögerung ihres Beginns notwendig machen würde. Die Entscheidung darüber, daß ein Schöffe nicht erreichbar ist, trifft der Richter beim Amtsgericht. § 56 bleibt unberührt.
+(2) Für die Heranziehung von Ersatzschöffen steht es der Verhinderung eines Schöffen gleich, wenn der Schöffe nicht erreichbar ist. Ein Schöffe, der sich zur Sitzung nicht einfindet und dessen Erscheinen ohne erhebliche Verzögerung ihres Beginns voraussichtlich nicht herbeigeführt werden kann, gilt als nicht erreichbar. Ein Ersatzschöffe ist auch dann als nicht erreichbar anzusehen, wenn seine Heranziehung eine Vertagung der Verhandlung oder eine erhebliche Verzögerung ihres Beginns notwendig machen würde. Die Entscheidung darüber, daß ein Schöffe nicht erreichbar ist, trifft der Richter beim Amtsgericht. § 56 bleibt unberührt.
 
 (3) Die Entscheidung ist nicht anfechtbar. Der Antrag nach Absatz 1 und die Entscheidung sind aktenkundig zu machen.
 
@@ -643,7 +643,7 @@ Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsge
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgericht für die Bezirke mehrerer Amtsgerichte die Strafsachen ganz oder teilweise, Entscheidungen bestimmter Art in Strafsachen sowie Rechtshilfeersuchen in strafrechtlichen Angelegenheiten von Stellen außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zuzuweisen, sofern die Zusammenfassung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-(2) Wird ein gemeinsames Schöffengericht für die Bezirke mehrerer Amtsgerichte eingerichtet, so bestimmt der Präsident des Landgerichts (Präsident des Amtsgerichts) die erforderliche Zahl von Haupt- und Hilfsschöffen und die Verteilung der Zahl der Hauptschöffen auf die einzelnen Amtsgerichtsbezirke. Ist Sitz des Amtsgerichts, bei dem ein gemeinsames Schöffengericht eingerichtet ist, eine Stadt, die Bezirke der anderen Amtsgerichte oder Teile davon umfaßt, so verteilt der Präsident des Landgerichts (Präsident des Amtsgerichts) die Zahl der Hilfsschöffen auf diese Amtsgerichte; die Landesjustizverwaltung kann bestimmte Amtsgerichte davon ausnehmen. Der Präsident des Amtsgerichts tritt nur dann an die Stelle des Präsidenten des Landgerichts, wenn alle beteiligten Amtsgerichte seiner Dienstaufsicht unterstehen.
+(2) Wird ein gemeinsames Schöffengericht für die Bezirke mehrerer Amtsgerichte eingerichtet, so bestimmt der Präsident des Landgerichts (Präsident des Amtsgerichts) die erforderliche Zahl von Haupt- und Ersatzschöffen und die Verteilung der Zahl der Hauptschöffen auf die einzelnen Amtsgerichtsbezirke. Ist Sitz des Amtsgerichts, bei dem ein gemeinsames Schöffengericht eingerichtet ist, eine Stadt, die Bezirke der anderen Amtsgerichte oder Teile davon umfaßt, so verteilt der Präsident des Landgerichts (Präsident des Amtsgerichts) die Zahl der Ersatzschöffen auf diese Amtsgerichte; die Landesjustizverwaltung kann bestimmte Amtsgerichte davon ausnehmen. Der Präsident des Amtsgerichts tritt nur dann an die Stelle des Präsidenten des Landgerichts, wenn alle beteiligten Amtsgerichte seiner Dienstaufsicht unterstehen.
 
 (3) Die übrigen Vorschriften dieses Titels sind entsprechend anzuwenden.
 
@@ -753,7 +753,7 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 (2) Für die Verbrechen
 
-1. des sexuellen Mißbrauchs von Kindern mit Todesfolge (§ 176b des Strafgesetzbuches),
+1. des sexuellen Missbrauchs von Kindern mit Todesfolge (§ 176d des Strafgesetzbuches),
 
 2. des sexuellen Übergriffs, der sexuellen Nötigung und Vergewaltigung mit Todesfolge (§ 178 des Strafgesetzbuches),
 
@@ -859,7 +859,7 @@ In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für allgemeine Strafs
 
 5. des Subventionsbetruges, des Kapitalanlagebetruges, des Kreditbetruges, des Bankrotts, der Verletzung der Buchführungspflicht, der Gläubigerbegünstigung und der Schuldnerbegünstigung,
 
-5a. der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen, der Bestechlichkeit und Bestechung im geschäftlichen Verkehr sowie der Bestechlichkeit im Gesundheitswesen und der Bestechung im Gesundheitswesen,
+5a. der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen, der Bestechlichkeit und Bestechung im geschäftlichen Verkehr, der Bestechlichkeit im Gesundheitswesen, der Bestechung im Gesundheitswesen, der Bestechlichkeit und der Bestechung ausländischer und internationaler Bediensteter sowie nach dem Gesetz zur Bekämpfung internationaler Bestechung,
 
 6. a) der Geldwäsche, des Betruges, des Computerbetruges, der Untreue, des Vorenthaltens und Veruntreuens von Arbeitsentgelt, des Wuchers, der Vorteilsannahme, der Bestechlichkeit, der Vorteilsgewährung und der Bestechung,
 
@@ -942,9 +942,9 @@ Im Übrigen beschließt die große Strafkammer eine Besetzung mit zwei Richtern 
 
 (1) Für die Schöffen der Strafkammern gelten entsprechend die Vorschriften über die Schöffen des Schöffengerichts mit folgender Maßgabe:
 
-(2) Der Präsident des Landgerichts verteilt die Zahl der erforderlichen Hauptschöffen für die Strafkammern auf die zum Bezirk des Landgerichts gehörenden Amtsgerichtsbezirke. Die Hilfsschöffen wählt der Ausschuß bei dem Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Hat das Landgericht seinen Sitz außerhalb seines Bezirks, so bestimmt die Landesjustizverwaltung, welcher Ausschuß der zum Bezirk des Landgerichts gehörigen Amtsgerichte die Hilfsschöffen wählt. Ist Sitz des Landgerichts eine Stadt, die Bezirke von zwei oder mehr zum Bezirk des Landgerichts gehörenden Amtsgerichten oder Teile davon umfaßt, so gilt für die Wahl der Hilfsschöffen durch die bei diesen Amtsgerichten gebildeten Ausschüsse Satz 1 entsprechend; die Landesjustizverwaltung kann bestimmte Amtsgerichte davon ausnehmen. Die Namen der gewählten Hauptschöffen und der Hilfsschöffen werden von dem Richter beim Amtsgericht dem Präsidenten des Landgerichts mitgeteilt. Der Präsident des Landgerichts stellt die Namen der Hauptschöffen zur Schöffenliste des Landgerichts zusammen.
+(2) Der Präsident des Landgerichts verteilt die Zahl der erforderlichen Hauptschöffen für die Strafkammern auf die zum Bezirk des Landgerichts gehörenden Amtsgerichtsbezirke. Die Ersatzschöffen wählt der Ausschuß bei dem Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Hat das Landgericht seinen Sitz außerhalb seines Bezirks, so bestimmt die Landesjustizverwaltung, welcher Ausschuß der zum Bezirk des Landgerichts gehörigen Amtsgerichte die Ersatzschöffen wählt. Ist Sitz des Landgerichts eine Stadt, die Bezirke von zwei oder mehr zum Bezirk des Landgerichts gehörenden Amtsgerichten oder Teile davon umfaßt, so gilt für die Wahl der Ersatzschöffen durch die bei diesen Amtsgerichten gebildeten Ausschüsse Satz 1 entsprechend; die Landesjustizverwaltung kann bestimmte Amtsgerichte davon ausnehmen. Die Namen der gewählten Hauptschöffen und der Ersatzschöffen werden von dem Richter beim Amtsgericht dem Präsidenten des Landgerichts mitgeteilt. Der Präsident des Landgerichts stellt die Namen der Hauptschöffen zur Schöffenliste des Landgerichts zusammen.
 
-(3) An die Stelle des Richters beim Amtsgericht tritt für die Auslosung der Reihenfolge, in der die Hauptschöffen an den einzelnen ordentlichen Sitzungen teilnehmen, und der Reihenfolge, in der die Hilfsschöffen an die Stelle wegfallender Schöffen treten, der Präsident des Landgerichts; § 45 Abs. 4 Satz 3, 4 gilt entsprechend. Ist der Schöffe verstorben oder aus dem Landgerichtsbezirk verzogen, ordnet der Vorsitzende der Strafkammer die Streichung von der Schöffenliste an; in anderen Fällen wird die Entscheidung darüber, ob ein Schöffe von der Schöffenliste zu streichen ist, sowie über die von einem Schöffen vorgebrachten Ablehnungsgründe von einer Strafkammer getroffen. Im übrigen tritt an die Stelle des Richters beim Amtsgericht der Vorsitzende der Strafkammer.
+(3) An die Stelle des Richters beim Amtsgericht tritt für die Auslosung der Reihenfolge, in der die Hauptschöffen an den einzelnen ordentlichen Sitzungen teilnehmen, und der Reihenfolge, in der die Ersatzschöffen an die Stelle wegfallender Schöffen treten, der Präsident des Landgerichts; § 45 Abs. 4 Satz 3, 4 gilt entsprechend. Ist der Schöffe verstorben oder aus dem Landgerichtsbezirk verzogen, ordnet der Vorsitzende der Strafkammer die Streichung von der Schöffenliste an; in anderen Fällen wird die Entscheidung darüber, ob ein Schöffe von der Schöffenliste zu streichen ist, sowie über die von einem Schöffen vorgebrachten Ablehnungsgründe von einer Strafkammer getroffen. Im übrigen tritt an die Stelle des Richters beim Amtsgericht der Vorsitzende der Strafkammer.
 
 (4) Ein ehrenamtlicher Richter darf für dasselbe Geschäftsjahr nur entweder als Schöffe für das Schöffengericht oder als Schöffe für die Strafkammern bestimmt werden. Ist jemand für dasselbe Geschäftsjahr in einem Bezirk zu mehreren dieser Ämter oder in mehreren Bezirken zu diesen Ämtern bestimmt worden, so hat der Einberufene das Amt zu übernehmen, zu dem er zuerst einberufen wird.
 
@@ -956,7 +956,7 @@ Im Übrigen beschließt die große Strafkammer eine Besetzung mit zwei Richtern 
 
 (2) Die Kammer wird aus Mitgliedern des Landgerichts oder Richtern beim Amtsgericht des Bezirks besetzt, für den sie gebildet wird. Der Vorsitzende und die übrigen Mitglieder werden durch das Präsidium des Landgerichts bezeichnet.
 
-(3) Der Präsident des Landgerichts verteilt die Zahl der erforderlichen Hauptschöffen auf die zum Bezirk der Strafkammer gehörenden Amtsgerichtsbezirke. Die Hilfsschöffen wählt der Ausschuß bei dem Amtsgericht, bei dem die auswärtige Strafkammer gebildet worden ist. Die sonstigen in § 77 dem Präsidenten des Landgerichts zugewiesenen Geschäfte nimmt der Vorsitzende der Strafkammer wahr.
+(3) Der Präsident des Landgerichts verteilt die Zahl der erforderlichen Hauptschöffen auf die zum Bezirk der Strafkammer gehörenden Amtsgerichtsbezirke. Die Ersatzschöffen wählt der Ausschuß bei dem Amtsgericht, bei dem die auswärtige Strafkammer gebildet worden ist. Die sonstigen in § 77 dem Präsidenten des Landgerichts zugewiesenen Geschäfte nimmt der Vorsitzende der Strafkammer wahr.
 
 # § 78a
 
@@ -1268,7 +1268,7 @@ d) den Bestand oder die Sicherheit einer internationalen Organisation zu beeintr
 
 und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt,
 
-4. bei Straftaten nach dem Außenwirtschaftsgesetz sowie bei Straftaten nach § 19 Abs. 2 Nr. 2 und § 20 Abs. 1 des Gesetzes über die Kontrolle von Kriegswaffen, wenn die Tat nach den Umständen
+4. bei Straftaten nach dem Außenwirtschaftsgesetz sowie bei Straftaten nach dem Gesetz über die Kontrolle von Kriegswaffen, wenn die Tat oder im Falle des strafbaren Versuchs auch ihre unterstellte Vollendung nach den Umständen
 
 a) geeignet ist, die äußere Sicherheit oder die auswärtigen Beziehungen der Bundesrepublik Deutschland erheblich zu gefährden, oder
 

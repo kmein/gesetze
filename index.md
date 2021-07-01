@@ -533,6 +533,7 @@
 - [BBFestV 2018](laws/BBFestV_2018.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2018
 - [BBFestV 2019](laws/BBFestV_2019.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2019
 - [BBFestV 2020](laws/BBFestV_2020.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2020
+- [BBFestV 2021](laws/BBFestV_2021.md) Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2021
 - [BBG](laws/BBG.md) Bundesbeamtengesetz
 - [BBhV](laws/BBhV.md) Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen
 - [BBiG](laws/BBiG.md) Berufsbildungsgesetz
@@ -1271,6 +1272,7 @@
 - [BVLAÜV](laws/BVLAÜV.md) Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 - [BVLG](laws/BVLG.md) Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 - [BVLÜV](laws/BVLÜV.md) Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+- [BVollzVergV](laws/BVollzVergV.md) Bundesvollziehungsvergütungsverordnung
 - [BVSAuflG](laws/BVSAuflG.md) Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz
 - [BVV](laws/BVV.md) Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung des Gesamtsozialversicherungsbeitrages
 - [BVwAAufgUAnO 1968](laws/BVwAAufgUAnO_1968.md) Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
@@ -1344,6 +1346,7 @@
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
+- [CoronaPflegeVVerlV](laws/CoronaPflegeVVerlV.md) Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
@@ -3633,7 +3636,6 @@
 - [MikrotAusbV](laws/MikrotAusbV.md) Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
 - [MilchErzV](laws/MilchErzV.md) Verordnung über Milcherzeugnisse
 - [MilchFettG](laws/MilchFettG.md) Gesetz über den Verkehr mit Milch, Milcherzeugnissen und Fetten
-- [MilchGüV](laws/MilchGüV.md) Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch
 - [MilchKennzV](laws/MilchKennzV.md) Verordnung über die Kennzeichnung wärmebehandelter Konsummilch
 - [MilchLAusbStEignV](laws/MilchLAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin
 - [MilchLAusbV](laws/MilchLAusbV.md) Verordnung über die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin*
@@ -4585,7 +4587,6 @@
 - [REITG](laws/REITG.md) Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen
 - [RennwLottG](laws/RennwLottG.md) Rennwett- und Lotteriegesetz
 - [RennwLottGABest](laws/RennwLottGABest.md) Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz
-- [RennwLottGZuStV](laws/RennwLottGZuStV.md) Verordnung über die örtliche Zuständigkeit zum Vollzug des Rennwett- und Lotteriegesetzes
 - [ReNoPatAusb-FachEigV](laws/ReNoPatAusb-FachEigV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten in Rechtsanwalt- und Patentanwaltschaft, Notariat und bei Rechtsbeiständen
 - [ReNoPatAusbV](laws/ReNoPatAusbV.md) Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten*
 - [RentBkGrSchG RP](laws/RentBkGrSchG_RP.md) Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz
@@ -4658,6 +4659,7 @@
 - [RobErhÜbk](laws/RobErhÜbk.md) Übereinkommen zur Erhaltung der antarktischen Robben
 - [RobErhÜbkG](laws/RobErhÜbkG.md) Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben
 - [ROG](laws/ROG.md) Raumordnungsgesetz *)
+- [RohmilchGütV](laws/RohmilchGütV.md) Verordnung zur Förderung der Güte von Rohmilch
 - [RohrFLtgV](laws/RohrFLtgV.md) Verordnung über Rohrfernleitungsanlagen
 - [RohrMeistPrV](laws/RohrMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Rohr-, Kanal- und Industrieservice
 - [RohTabBeih2006V](laws/RohTabBeih2006V.md) Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für das Erntejahr 2006
@@ -4668,6 +4670,7 @@
 - [RRG](laws/RRG.md) Gesetz zur weiteren Reform der gesetzlichen Rentenversicherungen und über die Fünfzehnte Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [RRHErl](laws/RRHErl.md) Erlaß über die Ernennung der Beamten und die Beendigung des Beamtenverhältnisses im Geschäftsbereich des Rechnungshofs des Deutschen Reichs
 - [RSAV](laws/RSAV.md) Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen Krankenversicherung
+- [RSG](laws/RSG.md) Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds
 - [RSiedlG](laws/RSiedlG.md) Reichssiedlungsgesetz
 - [RSiedlGABest](laws/RSiedlGABest.md) Ausführungsbestimmungen zum Reichssiedlungsgesetz
 - [RSiedlGErgG 1935](laws/RSiedlGErgG_1935.md) Gesetz zur Ergänzung des Reichssiedlungsgesetzes
@@ -4728,6 +4731,7 @@
 - [RWBestV 2018](laws/RWBestV_2018.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2018
 - [RWBestV 2019](laws/RWBestV_2019.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2019
 - [RWBestV 2020](laws/RWBestV_2020.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2020
+- [RWBestV 2021](laws/RWBestV_2021.md) Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2021
 - [RZV](laws/RZV.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums
 - [SAA MNE](laws/SAA_MNE.md) Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits
 - [SaarGlV](laws/SaarGlV.md) Verordnung über die Gleichstellung von aus dem Saargebiet verdrängten Deutschen
@@ -4820,6 +4824,7 @@
 - [SchlTSchÜbkG](laws/SchlTSchÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 10. Mai 1979 über den Schutz von Schlachttieren
 - [SchlussFinG](laws/SchlussFinG.md) Gesetz zur Errichtung eines Sondervermögens „Vorsorge für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
 - [SchneidwMechMstrV](laws/SchneidwMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
+- [SchnellLG](laws/SchnellLG.md) Gesetz über die Bereitstellung flächendeckender Schnellladeinfrastruktur für reine Batterieelektrofahrzeuge
 - [SchoMstrV](laws/SchoMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Schornsteinfeger-Handwerk
 - [SchRegDV](laws/SchRegDV.md) Verordnung zur Durchführung der Schiffsregisterordnung
 - [SchRegO](laws/SchRegO.md) Schiffsregisterordnung
@@ -5197,6 +5202,7 @@
 - [StabG](laws/StabG.md) Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft
 - [StabiRatG](laws/StabiRatG.md) Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen
 - [StabMechG](laws/StabMechG.md) Gesetz zur Übernahme von Gewährleistungen im Rahmen eines europäischen Stabilisierungsmechanismus
+- [StAbwG](laws/StAbwG.md) Gesetz zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb
 - [StAbzVeranlZÜV](laws/StAbzVeranlZÜV.md) Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
 - [StÄndG 1961](laws/StÄndG_1961.md) Gesetz zur Änderung des Einkommensteuergesetzes, des Körperschaftsteuergesetzes, des Gewerbesteuergesetzes, des Bewertungsgesetzes, des Vermögensteuergesetzes, des Steuersäumnisgesetzes, der Reichsabgabenordnung, des Steueranpassungsgesetzes, des Gesetzes zur Förderung der Wirtschaft von Berlin (West) und andere Gesetze
 - [StÄndG 1966](laws/StÄndG_1966.md) Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung
@@ -5229,7 +5235,6 @@
 - [SteinKAGSaarG](laws/SteinKAGSaarG.md) Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft
 - [SteinkohleFinG](laws/SteinkohleFinG.md) Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018
 - [SterilEntschAufhG](laws/SterilEntschAufhG.md) Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte (Artikel 2 des Gesetzes zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege und von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte)
-- [SteuerHBekV](laws/SteuerHBekV.md) Steuerhinterziehungsbekämpfungsverordnung
 - [StFachAngAusbV](laws/StFachAngAusbV.md) Verordnung über die Berufsausbildung zum Steuerfachangestellten/zur Steuerfachangestellten
 - [StFG](laws/StFG.md) Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds
 - [StGB](laws/StGB.md) Strafgesetzbuch
@@ -5883,7 +5888,6 @@
 - [VollstrKlZustEGKSBek](laws/VollstrKlZustEGKSBek.md) Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen der Hohen Behörde und des Gerichtshofes der Europäischen Gemeinschaft für Kohle und Stahl
 - [VollstrKlZustEWGBek](laws/VollstrKlZustEWGBek.md) Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen von Organen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft
 - [VollstrPV](laws/VollstrPV.md) Verordnung über die Höhe und das Verfahren zur Erhebung einer Vollstreckungspauschale bei Inanspruchnahme von Behörden der Bundesfinanzverwaltung zur Vollstreckung öffentlich-rechtlicher Geldforderungen
-- [VollstrVergV](laws/VollstrVergV.md) Verordnung über die Vergütung für Beamte im Vollstreckungsdienst
 - [VollstrVtr ESP](laws/VollstrVtr_ESP.md) Vertrag zwischen der Bundesrepublik Deutschland und Spanien über die Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Vergleichen sowie vollstreckbaren öffentlichen Urkunden in Zivil- und Handelssachen
 - [VollstrVtr GRC](laws/VollstrVtr_GRC.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen
 - [VollstrVtr ISR](laws/VollstrVtr_ISR.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
@@ -6455,6 +6459,7 @@
 - [ZuV 2012](laws/ZuV_2012.md) Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012
 - [ZuV 2020](laws/ZuV_2020.md) Verordnung über die Zuteilung von Treibhausgas-Emissionsberechtigungen in der Handelsperiode 2013 bis 2020
 - [ZVALG](laws/ZVALG.md) Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft
+- [ZVEG](laws/ZVEG.md) Gesetz über die statistische Erhebung der Zeitverwendung
 - [ZVFV](laws/ZVFV.md) Verordnung über Formulare für die Zwangsvollstreckung
 - [ZVG](laws/ZVG.md) Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
 - [ZVGEG](laws/ZVGEG.md) Einführungsgesetz zu dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung

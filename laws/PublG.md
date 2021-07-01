@@ -13,7 +13,7 @@
 
 (2) Bilanzsumme nach Absatz 1 Nr. 1 ist die Bilanzsumme einer gemäß § 5 Abs. 2 aufgestellten Jahresbilanz; bei Unternehmen, die in ihrer Jahresbilanz Beträge für von ihnen geschuldete Verbrauchsteuern oder Monopolabgaben unter Rückstellungen oder Verbindlichkeiten angesetzt haben, ist die Bilanzsumme um diese Beträge zu kürzen. Trifft für den Abschlußstichtag das Merkmal nach Absatz 1 Nr. 2 oder das Merkmal nach Absatz 1 Nr. 3 zu, hat das Unternehmen zur Feststellung, ob auch das Merkmal nach Absatz 1 Nr. 1 zutrifft, eine Jahresbilanz nach § 5 Abs. 2 aufzustellen. Für die Ermittlung der Umsatzerlöse nach Absatz 1 Nr. 2 gilt § 277 Abs. 1 des Handelsgesetzbuchs mit der Maßgabe, daß auch die in den Umsatzerlösen enthaltenen Verbrauchsteuern oder Monopolabgaben abzusetzen sind. Umsatzerlöse in fremder Währung sind nach dem amtlichen Kurs in Euro umzurechnen. Durchschnittliche Zahl der Arbeitnehmer nach Absatz 1 Nr. 3 ist der zwölfte Teil der Summe aus den Zahlen der am Ende eines jeden Monats beschäftigten Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten sowie der im Ausland beschäftigten Arbeitnehmer.
 
-(3) (weggefallen)
+(3) Ein Unternehmen hat nach diesem Abschnitt Rechnung zu legen, wenn es am Abschlussstichtag in sinngemäßer Anwendung des § 264d des Handelsgesetzbuchs kapitalmarktorientiert ist.
 
 (4) (weggefallen)
 
@@ -23,9 +23,11 @@
 
 (1) Das Unternehmen hat erstmals für den dritten der aufeinander folgenden Abschlußstichtage, für die mindestens zwei der drei Merkmale des § 1 Abs. 1 zutreffen, Rechnung zu legen. Es hat jedoch bereits für den ersten Abschlußstichtag Rechnung zu legen, für den mindestens zwei der drei Merkmale des § 1 Abs. 1 zutreffen, wenn auf das Unternehmen während des Geschäftsjahrs das Vermögen eines anderen Unternehmens durch Umwandlung oder in anderer Weise als Ganzes übergegangen ist und auf das andere Unternehmen an den beiden letzten Abschlußstichtagen mindestens zwei der drei Merkmale des § 1 Abs. 1 zutrafen; dies gilt auch, wenn das andere Unternehmen nicht nach diesem Abschnitt Rechnung zu legen brauchte. Ein Unternehmen braucht nicht mehr nach diesem Abschnitt Rechnung zu legen, wenn für drei aufeinander folgende Abschlußstichtage mindestens zwei der drei Merkmale des § 1 Abs. 1 nicht mehr zutreffen.
 
-(2) Die gesetzlichen Vertreter eines Unternehmens, auf das erstmals für einen Abschlussstichtag mindestens zwei der drei Merkmale des § 1 Abs. 1 oder die Merkmale des § 1 Abs. 3 zutreffen, haben unverzüglich beim Betreiber des Bundesanzeigers elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die Erklärung einzureichen, dass für diesen Abschlussstichtag zwei der drei Merkmale des § 1 Abs. 1 oder die Merkmale des § 1 Abs. 3 oder 4 zutreffen. Eine entsprechende Erklärung haben die gesetzlichen Vertreter auch für jeden der beiden folgenden Abschlussstichtage unverzüglich beim Betreiber des Bundesanzeigers elektronisch einzureichen, wenn die Merkmale auch für diesen Abschlussstichtag zutreffen. Die gesetzlichen Vertreter haben die Erklärungen nach den Sätzen 1 und 2 unverzüglich nach ihrer Einreichung im Bundesanzeiger bekannt machen zu lassen.
+(2) Die gesetzlichen Vertreter eines Unternehmens, auf das erstmals für einen Abschlussstichtag mindestens zwei der drei Merkmale des § 1 Abs. 1 zutreffen, haben unverzüglich beim Betreiber des Bundesanzeigers elektronisch (§ 12 Abs. 2 des Handelsgesetzbuchs) die Erklärung einzureichen, dass für diesen Abschlussstichtag zwei der drei Merkmale des § 1 Abs. 1 zutreffen. Eine entsprechende Erklärung haben die gesetzlichen Vertreter auch für jeden der beiden folgenden Abschlussstichtage unverzüglich beim Betreiber des Bundesanzeigers elektronisch einzureichen, wenn die Merkmale auch für diesen Abschlussstichtag zutreffen. Die gesetzlichen Vertreter haben die Erklärungen nach den Sätzen 1 und 2 unverzüglich nach ihrer Einreichung im Bundesanzeiger bekannt machen zu lassen.
 
 (3) Das Gericht hat zur Prüfung der Frage, ob ein Unternehmen nach diesem Abschnitt Rechnung zu legen hat, Prüfer zu bestellen, wenn Anlaß für die Annahme besteht, daß das Unternehmen zur Rechnungslegung nach diesem Abschnitt verpflichtet ist. Hat das Unternehmen einen Aufsichtsrat, ist vor der Bestellung außer den gesetzlichen Vertretern auch dieser zu hören. Gegen die Entscheidung ist die Beschwerde zulässig. Für die Auswahl der Prüfer, den Ersatz angemessener barer Auslagen und die Vergütung der Prüfer, die Verantwortlichkeit und die Rechte der Prüfer und die Kosten gelten § 142 Abs. 6, §§ 143, 145 Abs. 1 bis 3, § 146 des Aktiengesetzes und § 323 des Handelsgesetzbuchs sinngemäß; die Kosten trägt jedoch die Staatskasse, wenn eine Verpflichtung zur Rechnungslegung nach diesem Abschnitt nicht besteht. Die Prüfer haben über das Ergebnis der Prüfung schriftlich zu berichten und den Bericht zu unterzeichnen. Sie haben ihn unverzüglich dem Gericht und den gesetzlichen Vertretern einzureichen; kommt der Bericht zu dem Ergebnis, dass das Unternehmen zur Rechnungslegung nach diesem Abschnitt verpflichtet ist, ist der Bericht auch beim Betreiber des Bundesanzeigers elektronisch einzureichen; Absatz 2 Satz 3 gilt entsprechend. Auf Verlangen haben die gesetzlichen Vertreter jedem Gesellschafter eine Abschrift des Berichts zu erteilen.
+
+(4) Die Absätze 1 bis 3 finden im Fall des § 1 Absatz 3 keine Anwendung.
 
 # § 3 – Geltungsbereich
 
@@ -76,7 +78,7 @@ Die Vorschriften für die gesetzlichen Vertreter des Unternehmens gelten, wenn e
 
 (2) Die gesetzlichen Vertreter eines Unternehmens, das nicht in der Rechtsform einer Personenhandelsgesellschaft oder des Einzelkaufmanns geführt wird, haben den Jahresabschluß um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Für den Anhang gelten die §§ 284, 285 Nummer 1 bis 4, 7 bis 13, 15a, 17 bis 34, § 286 des Handelsgesetzbuchs und für den Lagebericht § 289 des Handelsgesetzbuchs sinngemäß.
 
-(2a) Unternehmen, die in sinngemäßer Anwendung des § 264d des Handelsgesetzbuchs kapitalmarktorientiert sind, haben den Jahresabschluss um einen Anhang nach Absatz 2 zu ergänzen. § 264 Abs. 1 Satz 2 des Handelsgesetzbuchs ist sinngemäß anzuwenden.
+(2a) Unternehmen, die in sinngemäßer Anwendung des § 264d des Handelsgesetzbuchs kapitalmarktorientiert sind, haben den Jahresabschluss um einen Anhang nach Absatz 2 zu ergänzen und einen Lagebericht nach Absatz 2 Satz 2 aufzustellen. § 264 Abs. 1 Satz 2 des Handelsgesetzbuchs ist sinngemäß anzuwenden.
 
 (3) § 330 des Handelsgesetzbuchs über den Erlaß von Rechtsverordnungen gilt auch für Unternehmen, auf die dieser Abschnitt nach § 3 Abs. 1 anzuwenden ist.
 
@@ -100,15 +102,15 @@ Die Vorschriften für die gesetzlichen Vertreter des Unternehmens gelten, wenn e
 
 # § 6 – Prüfung durch die Abschlußprüfer
 
-(1) Der Jahresabschluß und der Lagebericht sind durch einen Abschlußprüfer zu prüfen. Soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist, gelten § 316 Abs. 3, § 317 Abs. 1, 2, 4a, 5 und 6, § 318 Abs. 1 bis 1b, 3 bis 8, § 319 Abs. 1 bis 4, § 319a Abs. 1, 1a und 3, § 319b Abs. 1, § 320 Abs. 1, 2 und 4 sowie die §§ 321 bis 324 des Handelsgesetzbuchs über die Prüfung des Jahresabschlusses sinngemäß, bei einem Unternehmen, das kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist, jedoch nur insoweit, als nicht die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
+(1) Der Jahresabschluß und der Lagebericht sind durch einen Abschlußprüfer zu prüfen. Soweit in den Absätzen 2 und 3 nichts anderes bestimmt ist, gelten § 316 Absatz 3, § 317 Absatz 1, 2 Satz 1 bis 3, Absatz 3a, 4a bis 6, § 318 Absatz 1, 1a, 3 bis 8, § 319 Absatz 1 bis 4, § 319b Absatz 1, § 320 Absatz 1, 2 und 4 sowie die §§ 321 bis 324 des Handelsgesetzbuchs über die Prüfung des Jahresabschlusses sinngemäß, bei einem Unternehmen, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, jedoch nur insoweit, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Die Sätze 1 und 2 gelten auch für einen Einzelabschluss nach § 9 Absatz 1 Satz 1 in Verbindung mit § 325 Absatz 2a des Handelsgesetzbuchs.
 
 (2) Handelt es sich um das Unternehmen einer Personenhandelsgesellschaft oder eines Einzelkaufmanns, so hat sich die Prüfung auch darauf zu erstrecken, ob § 5 Abs. 4 beachtet worden ist.
 
-(3) Der Abschlußprüfer wird bei Personenhandelsgesellschaften, soweit nicht das Gesetz, die Satzung oder der Gesellschaftsvertrag etwas anderes vorsehen, von den Gesellschaftern gewählt. Handelt es sich um das Unternehmen eines Einzelkaufmanns, so bestellt dieser den Abschlußprüfer. Bei anderen Unternehmen wird der Abschlußprüfer, sofern über seine Bestellung nichts anderes bestimmt ist, vom Aufsichtsrat gewählt; hat das Unternehmen keinen Aufsichtsrat, so bestellen die gesetzlichen Vertreter den Abschlußprüfer. Bei einem Unternehmen, das kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist, ist der Vorschlag zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen.
+(3) Der Abschlußprüfer wird bei Personenhandelsgesellschaften, soweit nicht das Gesetz, die Satzung oder der Gesellschaftsvertrag etwas anderes vorsehen, von den Gesellschaftern gewählt. Handelt es sich um das Unternehmen eines Einzelkaufmanns, so bestellt dieser den Abschlußprüfer. Bei anderen Unternehmen wird der Abschlußprüfer, sofern über seine Bestellung nichts anderes bestimmt ist, vom Aufsichtsrat gewählt; hat das Unternehmen keinen Aufsichtsrat, so bestellen die gesetzlichen Vertreter den Abschlußprüfer. Bei einem Unternehmen, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, ist der Vorschlag zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen.
 
 # § 7 – Prüfung durch den Aufsichtsrat
 
-Hat das Unternehmen einen Aufsichtsrat, so haben die gesetzlichen Vertreter unverzüglich nach Eingang des Prüfungsberichts der Abschlußprüfer den Jahresabschluß, den Lagebericht und den Prüfungsbericht der Abschlußprüfer dem Aufsichtsrat vorzulegen. Der Aufsichtsrat hat den Jahresabschluß und den Lagebericht zu prüfen; er hat über das Ergebnis seiner Prüfung schriftlich zu berichten. § 170 Abs. 3, § 171 Abs. 1 Satz 2 und 3, Abs. 2 Satz 2 bis 5, Abs. 3 des Aktiengesetzes gelten sinngemäß. Die Sätze 1 bis 3 gelten auch für einen Einzelabschluss nach § 9 Abs. 1 Satz 1 dieses Gesetzes in Verbindung mit § 325 Abs. 2a des Handelsgesetzbuchs; für einen solchen Abschluss gilt ferner § 171 Abs. 4 Satz 1 des Aktiengesetzes sinngemäß. Hat das Unternehmen, das kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist, einen Aufsichtsrat, gelten auch § 100 Absatz 5 und § 107 Absatz 3 Satz 1 und 2 des Aktiengesetzes entsprechend. Richtet der Aufsichtsrat einen Prüfungsausschuss ein, so gelten für diesen § 100 Absatz 5 und § 107 Absatz 3 Satz 2 und 3 des Aktiengesetzes entsprechend.
+Hat das Unternehmen einen Aufsichtsrat, so haben die gesetzlichen Vertreter unverzüglich nach Eingang des Prüfungsberichts der Abschlußprüfer den Jahresabschluß, den Lagebericht und den Prüfungsbericht der Abschlußprüfer dem Aufsichtsrat vorzulegen. Der Aufsichtsrat hat den Jahresabschluß und den Lagebericht zu prüfen; er hat über das Ergebnis seiner Prüfung schriftlich zu berichten. § 170 Abs. 3, § 171 Abs. 1 Satz 2 und 3, Abs. 2 Satz 2 bis 5, Abs. 3 des Aktiengesetzes gelten sinngemäß. Die Sätze 1 bis 3 gelten auch für einen Einzelabschluss nach § 9 Abs. 1 Satz 1 dieses Gesetzes in Verbindung mit § 325 Abs. 2a des Handelsgesetzbuchs; für einen solchen Abschluss gilt ferner § 171 Abs. 4 Satz 1 des Aktiengesetzes sinngemäß. Ist das Unternehmen ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs und hat es einen Aufsichtsrat, gelten auch § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes entsprechend. Der Prüfungsausschuss hat sich mit den in § 107 Absatz 3 Satz 2 und 3 des Aktiengesetzes beschriebenen Aufgaben zu befassen.
 
 # § 8 – Feststellung des Jahresabschlusses
 
@@ -210,25 +212,29 @@ Sind die Voraussetzungen des § 315e des Handelsgesetzbuchs erfüllt, so gilt §
 
 # § 17 – Unrichtige Darstellung
 
-Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als gesetzlicher Vertreter (§ 4 Abs. 1 Satz 1) eines Unternehmens oder eines Mutterunternehmens, beim Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als gesetzlicher Vertreter (§ 4 Abs. 1 Satz 1) eines Unternehmens oder eines Mutterunternehmens, beim Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
 
 1. die Verhältnisse des Unternehmens im Jahresabschluß oder Lagebericht unrichtig wiedergibt oder verschleiert,
 
-1a. zum Zwecke der Befreiung nach § 9 Abs. 1 Satz 1 in Verbindung mit § 325 Abs. 2a Satz 1, Abs. 2b des Handelsgesetzbuchs einen Einzelabschluss nach den in § 315e Absatz 1 des Handelsgesetzbuchs genannten internationalen Rechnungslegungsstandards, in dem die Verhältnisse des Unternehmens unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offen legt,
+1a. zum Zwecke der Befreiung nach § 9 Abs. 1 Satz 1 in Verbindung mit § 325 Abs. 2a Satz 1, Abs. 2b des Handelsgesetzbuchs einen Einzelabschluss nach den in § 315e Absatz 1 des Handelsgesetzbuchs genannten internationalen Rechnungslegungsstandards, in dem die Verhältnisse des Unternehmens unrichtig wiedergegeben oder verschleiert worden sind, offen legt,
 
 2. die Verhältnisse des Konzerns oder Teilkonzerns im Konzernabschluß, Konzernlagebericht, Teilkonzernabschluß oder Teilkonzernlagebericht unrichtig wiedergibt oder verschleiert,
 
-3. zum Zwecke der Befreiung nach § 11 Abs. 6 Satz 1 Nr. 1 in Verbindung mit den §§ 291 und 292 des Handelsgesetzbuchs einen Konzernabschluß, Konzernlagebericht, Teilkonzernabschluß oder Teilkonzernlagebericht, in dem die Verhältnisse des Konzerns oder Teilkonzerns unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offenlegt oder
+3. zum Zwecke der Befreiung nach § 11 Abs. 6 Satz 1 Nr. 1 in Verbindung mit den §§ 291 und 292 des Handelsgesetzbuchs einen Konzernabschluß, Konzernlagebericht, Teilkonzernabschluß oder Teilkonzernlagebericht, in dem die Verhältnisse des Konzerns oder Teilkonzerns unrichtig wiedergegeben oder verschleiert worden sind, offenlegt oder
 
 4. in Aufklärungen oder Nachweisen, die nach § 2 Abs. 3 Satz 4 in Verbindung mit § 145 Abs. 2 und 3 des Aktiengesetzes, § 6 Abs. 1 Satz 2 in Verbindung mit § 320 Abs. 1, 2 des Handelsgesetzbuchs, § 12 Abs. 3 Satz 3 in Verbindung mit § 2 Abs. 3 Satz 4 und § 145 Abs. 2 und 3 des Aktiengesetzes oder § 14 Abs. 1 Satz 2 in Verbindung mit § 320 Abs. 3 des Handelsgesetzbuchs einem Abschlußprüfer des Unternehmens, eines verbundenen Unternehmens, des Konzerns oder des Teilkonzerns zu geben sind, unrichtige Angaben macht oder die Verhältnisse des Unternehmens, eines Tochterunternehmens, des Konzerns oder des Teilkonzerns unrichtig wiedergibt oder verschleiert.
+
+(2) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1a oder 3 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (+++ § 17: Zur Anwendung vgl. § 22 Abs. 5 +++)
 
 # § 18 – Verletzung der Berichtspflicht
 
-(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer nach diesem Gesetz oder als Gehilfe eines solchen Prüfers über das Ergebnis der Prüfung falsch berichtet oder erhebliche Umstände im Bericht verschweigt.
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer nach diesem Gesetz oder als Gehilfe eines solchen Prüfers über das Ergebnis der Prüfung falsch berichtet, erhebliche Umstände im Bericht verschweigt oder einen inhaltlich unrichtigen Bestätigungsvermerk zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs, zu einem Konzernabschluss oder zu einem Teilkonzernabschluss erteilt.
 
-(2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+(2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ebenso wird bestraft, wer einen inhaltlich unrichtigen Bestätigungsvermerk zu einem in Absatz 1 genannten Abschluss eines Unternehmens erteilt, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist.
+
+(3) Handelt der Täter in den Fällen des Absatzes 2 Satz 2 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 # § 19 – Verletzung der Geheimhaltungspflicht
 
@@ -286,21 +292,65 @@ f) des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 des Handelsgesetzbuchs �
 
 zuwiderhandelt.
 
-(2) Ordnungswidrig handelt auch, wer entgegen § 2 Abs. 2 oder § 12 Abs. 2 die dort vorgeschriebene Erklärung beim Betreiber des Bundesanzeigers oder der Aufsichtsbehörde nicht oder nicht rechtzeitig einreicht.
+(1a) Ordnungswidrig handelt auch, wer entgegen § 2 Abs. 2 oder § 12 Abs. 2 die dort vorgeschriebene Erklärung beim Betreiber des Bundesanzeigers nicht oder nicht rechtzeitig einreicht.
 
-(2a) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5 oder als Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324 Absatz 1 Satz 1 des Handelsgesetzbuchs oder nach § 7 Satz 6 eingerichteten Prüfungsausschusses eines Unternehmens, das kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist,
+(2) Ordnungswidrig handelt, wer einen Bestätigungsvermerk nach § 322 Absatz 1 des Handelsgesetzbuchs erteilt zu einem nach § 6 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, zu prüfenden Abschluss
 
-1. die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+1. eines Unternehmens, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, oder
+
+2. eines Unternehmens, das nicht in Nummer 1 genannt ist,
+
+obwohl nach § 6 Absatz 1 Satz 2 in Verbindung mit § 319 Absatz 2 oder 3 oder mit § 319b Absatz 1 Satz 1 oder 2 des Handelsgesetzbuchs er oder nach § 6 Absatz 1 Satz 2 in Verbindung mit § 319 Absatz 4 oder mit § 319b Absatz 1 Satz 1 oder 2 des Handelsgesetzbuchs die Wirtschaftsprüfungsgesellschaft oder die Buchführungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf. Ordnungswidrig handelt auch, wer einen Bestätigungsvermerk nach § 322 Absatz 1 des Handelsgesetzbuchs erteilt zu einem nach § 14 Absatz 1 Satz 1 zu prüfenden Abschluss
+
+1. eines Mutterunternehmens, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, oder
+
+2. eines Mutterunternehmens, das nicht in Nummer 1 genannt ist,
+
+obwohl nach § 14 Absatz 1 Satz 2 in Verbindung mit § 319 Absatz 2 oder 3 und Absatz 5 oder mit § 319b Absatz 1 Satz 1 oder 2 und Absatz 2 des Handelsgesetzbuchs er oder nach § 14 Absatz 1 Satz 2 in Verbindung mit § 319 Absatz 4 und 5 oder mit § 319b Absatz 1 Satz 1 oder 2 und Absatz 2 des Handelsgesetzbuchs die Wirtschaftsprüfungsgesellschaft oder die Buchführungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf. Ordnungswidrig handelt ferner, wer einen Bestätigungsvermerk nach § 322 Absatz 1 des Handelsgesetzbuchs erteilt zu einem nach § 6 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder nach § 14 Absatz 1 Satz 1 zu prüfenden Abschluss eines Unternehmens oder Mutterunternehmens, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, obwohl
+
+1. er oder die Prüfungsgesellschaft, für die er tätig wird, oder ein Mitglied des Netzwerks, dem er oder die Prüfungsgesellschaft, für die er tätig wird, angehört, einer Vorschrift des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder Absatz 5 Unterabsatz 2 Satz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) zuwiderhandelt oder
+
+2. er oder die Prüfungsgesellschaft, für die er tätig wird, nach Artikel 17 Absatz 3 der Verordnung (EU) Nr. 537/2014 die Abschlussprüfung nicht durchführen darf.
+
+(2a) Ordnungswidrig handelt, wer als Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324 Absatz 1 Satz 1 des Handelsgesetzbuchs oder nach § 7 Satz 5 in Verbindung mit § 107 Absatz 4 Satz 1 des Aktiengesetzes eingerichteten Prüfungsausschusses eines Unternehmens, das ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist,
+
+1. die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 überwacht oder
 
 2. eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
 
-(2b) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5, der keinen Prüfungsausschuss eingerichtet hat, oder als Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324 Absatz 1 Satz 1 des Handelsgesetzbuchs eingerichteten Prüfungsausschusses eines in Absatz 2a genannten Unternehmens den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+(2b) Ordnungswidrig handelt, wer als Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324 Absatz 1 Satz 1 des Handelsgesetzbuchs eingerichteten Prüfungsausschusses eines in Absatz 2a genannten Unternehmens den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-(2c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5, der einen Prüfungsausschuss eingerichtet hat, eines in Absatz 2a genannten Unternehmens den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+(2c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5 eines in Absatz 2a genannten Unternehmens den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Satz 1 Nummer 1, Satz 2 Nummer 1 und Satz 3 sowie der Absätze 2a bis 2c mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen der Absätze 1, 1a und 2 Satz 1 Nummer 2 und Satz 2 Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. Ist das Unternehmen kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, beträgt die Geldbuße in den Fällen des Absatzes 1 höchstens den höheren der folgenden Beträge:
 
-(4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
+1. zwei Millionen Euro,
+
+2. das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3a) Wird gegen ein kapitalmarktorientiertes Unternehmen im Sinne des § 264d des Handelsgesetzbuchs in den Fällen des Absatzes 1 eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten verhängt, beträgt diese Geldbuße höchstens den höheren der folgenden Beträge:
+
+1. zehn Millionen Euro,
+
+2. 5 Prozent des jährlichen Gesamtumsatzes, den das Unternehmen in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, oder
+
+3. das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+§ 334 Absatz 3b des Handelsgesetzbuchs ist entsprechend anzuwenden. In den Fällen des Absatzes 3 Satz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1, Satz 2 Nummer 1 oder Satz 3 ist § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten anzuwenden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
+
+1. die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen des Absatzes 1 bei Unternehmen, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs sind,
+
+2. das Bundesamt für Justiz
+
+a) in den Fällen des Absatzes 1, in denen nicht die Bundesanstalt für Finanzdienstleistungsaufsicht nach Nummer 1 Verwaltungsbehörde ist,
+
+b) in den Fällen des Absatzes 1a und
+
+c) in den Fällen der Absätze 2a bis 2c,
+
+3. die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle in den Fällen des Absatzes 2.
 
 (+++ § 20: Zur Anwendung vgl. § 22 Abs. 5 +++)
 
@@ -312,7 +362,7 @@ Gegen die gesetzlichen Vertreter (§ 4 Abs. 1 Satz 1) eines Unternehmens oder ei
 
 (1) Das Bundesamt für Justiz übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 20 Absatz 2a bis 2c.
 
-(2) In Strafverfahren, die eine Straftat nach § 19a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
+(2) In Strafverfahren, die eine Straftat nach den §§ 18, 19 oder § 19a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 # § 22 – Erstmalige Anwendung geänderter Vorschriften
 
@@ -329,6 +379,8 @@ Gegen die gesetzlichen Vertreter (§ 4 Abs. 1 Satz 1) eines Unternehmens oder ei
 (6) § 7 Satz 5 und 6 muss so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.
 
 (7) Die §§ 11, 13, 17 und 20 in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017 geltenden Fassung sind letztmals anzuwenden auf Lage- und Konzernlageberichte für das vor dem 1. Januar 2017 beginnende Geschäftsjahr.
+
+(8) Die §§ 1, 2 und 5 in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf Jahresabschlüsse und Lageberichte für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Soweit § 6 in der ab dem 1. Juli 2021 geltenden Fassung und soweit der durch das Finanzmarktintegritätsstärkungsgesetz nicht geänderte § 14 auf Bestimmungen des Handelsgesetzbuchs verweisen, sind die hierauf bezogenen Übergangsregelungen des Artikels 86 Absatz 1 bis 3 des Einführungsgesetzes zum Handelsgesetzbuch entsprechend anzuwenden. Soweit § 7 Satz 5 in der ab dem 1. Juli 2021 geltenden Fassung auf § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes verweist, sind die hierauf bezogenen Übergangsregelungen des § 12 Absatz 6 und des § 26k Absatz 2 des Einführungsgesetzes zum Aktiengesetz entsprechend anzuwenden. § 20 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf Ordnungswidrigkeiten in Bezug auf Rechnungslegungsunterlagen und gesetzlich vorgeschriebene Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden.
 
 # § 23 – Inkrafttreten
 

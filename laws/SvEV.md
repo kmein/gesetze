@@ -5,7 +5,7 @@
 
 (1) Dem Arbeitsentgelt sind nicht zuzurechnen:
 
-1. einmalige Einnahmen, laufende Zulagen, Zuschläge, Zuschüsse sowie ähnliche Einnahmen, die zusätzlich zu Löhnen oder Gehältern gewährt werden, soweit sie lohnsteuerfrei sind; dies gilt nicht für Sonntags-, Feiertags- und Nachtarbeitszuschläge, soweit das Entgelt, auf dem sie berechnet werden, mehr als 25 Euro für jede Stunde beträgt,
+1. einmalige Einnahmen, laufende Zulagen, Zuschläge, Zuschüsse sowie ähnliche Einnahmen, die zusätzlich zu Löhnen oder Gehältern gewährt werden, soweit sie lohnsteuerfrei sind; dies gilt nicht für Sonntags-, Feiertags- und Nachtarbeitszuschläge, soweit das Entgelt, auf dem sie berechnet werden, mehr als 25 Euro für jede Stunde beträgt, und nicht für Vermögensbeteiligungen nach § 19a Absatz 1 Satz 1 des Einkommensteuergesetzes,
 
 2. sonstige Bezüge nach § 40 Abs. 1 Satz 1 Nr. 1 des Einkommensteuergesetzes, die nicht einmalig gezahltes Arbeitsentgelt nach § 23a des Vierten Buches Sozialgesetzbuch sind,
 

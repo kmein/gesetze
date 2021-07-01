@@ -49,7 +49,7 @@ Auf Grund des § 32b Absatz 5 Satz 1 der Strafprozessordnung, der durch Artikel 
 
 (2) Soweit Ermittlungsvorgänge nach Absatz 1 Ausgangsdokumente in Papierform enthalten, sind diese vor der Übermittlung entsprechend § 32e der Strafprozessordnung in elektronische Dokumente zu übertragen. Ausgangsdokumente, die als Beweismittel sichergestellt sind, können in elektronische Dokumente übertragen oder von der elektronischen Übermittlung ausgenommen werden.
 
-(3) Ausgangsdokumente, die nicht als Beweismittel sichergestellt sind, müssen während des laufenden Verfahrens im Anschluss an die Übermittlung mindestens sechs Monate lang gespeichert oder aufbewahrt werden. Die Speicher- und Aufbewahrungsfristen gemäß § 32e Absatz 4 Satz 2 und 3 der Strafprozessordnung gelten entsprechend.
+(3) Ausgangsdokumente, die nicht als Beweismittel sichergestellt sind, müssen während des laufenden Verfahrens im Anschluss an die Übermittlung mindestens sechs Monate lang gespeichert oder aufbewahrt werden. Die Speicher- und Aufbewahrungsfristen gemäß § 32e Absatz 4 Satz 2 der Strafprozessordnung gelten entsprechend.
 
 (4) Mit dem Ermittlungsvorgang soll ein strukturierter maschinenlesbarer Datensatz im Dateiformat XML übermittelt werden, der den nach § 7 Absatz 1 Nummer 2 bekanntgemachten Definitions- oder Schemadateien entspricht. Dieser Datensatz soll auch Informationen zur Gliederung und Sortierung der mit dem Vorgang übermittelten Dokumente enthalten.
 
