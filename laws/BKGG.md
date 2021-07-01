@@ -152,7 +152,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (2) Der monatliche Höchstbetrag des Kinderzuschlags deckt zusammen mit dem für ein erstes Kind nach § 66 des Einkommensteuergesetzes zu zahlenden Kindergeld ein Zwölftel des steuerfrei zu stellenden sächlichen Existenzminimums eines Kindes für das jeweilige Kalenderjahr mit Ausnahme des Anteils für Bildung und Teilhabe. Steht dieses Existenzminimum eines Kindes zu Beginn eines Jahres nicht fest, ist insoweit der für das Jahr geltende Betrag für den Mindestunterhalt eines Kindes in der zweiten Altersstufe nach der Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens jedoch ein Betrag in Höhe des Vorjahres.
 
-(3) Ausgehend vom Höchstbetrag mindert sich der jeweilige Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch zu berücksichtigendes Einkommen oder Vermögen hat. Bei der Berücksichtigung des Einkommens bleiben das Wohngeld, das Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für ein Kind besteht nicht für Zeiträume, in denen zumutbare Anstrengungen unterlassen werden, Ansprüche auf Einkommen des Kindes geltend zu machen. Bei der Berücksichtigung des Vermögens des Kindes ist der Grundfreibetrag nach § 12 Absatz 2 Satz 1 Nummer 1a des Zweiten Buches Sozialgesetzbuch abzusetzen. Ist das zu berücksichtigende Vermögen höher als der nach den Sätzen 1 bis 5 verbleibende monatliche Anspruch auf Kinderzuschlag, so dass es den Kinderzuschlag für den ersten Monat des Bewilligungszeitraums vollständig mindert, entfällt der Anspruch auf Kinderzuschlag. Ist das zu berücksichtigende Vermögen niedriger als der monatliche Anspruch auf Kinderzuschlag, ist der Kinderzuschlag im ersten Monat des Bewilligungszeitraums um einen Betrag in Höhe des zu berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
+(3) Ausgehend vom Höchstbetrag mindert sich der jeweilige Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch zu berücksichtigendes Einkommen oder Vermögen hat. Bei der Berücksichtigung des Einkommens bleiben das Wohngeld, das Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für ein Kind besteht nicht, wenn zumutbare Anstrengungen unterlassen wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. Bei der Berücksichtigung des Vermögens des Kindes ist der Grundfreibetrag nach § 12 Absatz 2 Satz 1 Nummer 1a des Zweiten Buches Sozialgesetzbuch abzusetzen. Ist das zu berücksichtigende Vermögen höher als der nach den Sätzen 1 bis 5 verbleibende monatliche Anspruch auf Kinderzuschlag, so dass es den Kinderzuschlag für den ersten Monat des Bewilligungszeitraums vollständig mindert, entfällt der Anspruch auf Kinderzuschlag. Ist das zu berücksichtigende Vermögen niedriger als der monatliche Anspruch auf Kinderzuschlag, ist der Kinderzuschlag im ersten Monat des Bewilligungszeitraums um einen Betrag in Höhe des zu berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
 
 (4) Die Summe der einzelnen Kinderzuschläge nach den Absätzen 2 und 3 bildet den Gesamtkinderzuschlag.
 
@@ -179,6 +179,24 @@ Satz 1 gilt entsprechend, wenn das Kind, nicht jedoch die berechtigte Person zu 
 (2a) Ansprüche auf Leistungen für Bildung und Teilhabe verjähren in zwölf Monaten nach Ablauf des Kalendermonats, in dem sie entstanden sind.
 
 (3) Für die Erbringung der Leistungen für Bildung und Teilhabe gelten die §§ 29, 30 und 40 Absatz 6 des Zweiten Buches Sozialgesetzbuch entsprechend.
+
+# § 6c – Unterhaltspflichten
+
+Unterhaltspflichten werden durch den Kinderzuschlag nicht berührt.
+
+# § 6d – Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie für Familien mit Kinderzuschlag, Wohngeld oder Sozialhilfe
+
+(1) Personen erhalten eine Einmalzahlung in Höhe von 100 Euro für ein Kind, welches das 18. Lebensjahr noch nicht vollendet hat und für das sie für den Monat August 2021 Kindergeld nach diesem Gesetz oder nach dem X. Abschnitt des Einkommensteuergesetzes oder andere Leistungen im Sinne von § 4 beziehen, wenn
+
+1. sie für dieses Kind für den Monat August 2021 Kinderzuschlag nach § 6a beziehen,
+
+2. sie und dieses Kind oder nur dieses Kind zu berücksichtigende Haushaltsmitglieder im Sinne der §§ 5 und 6 Absatz 1 des Wohngeldgesetzes sind und die Wohngeldbewilligung den Monat August 2021 umfasst oder
+
+3. dieses Kind für den Monat August 2021 Leistungen nach dem Dritten Kapitel des Zwölften Buches Sozialgesetzbuch bezieht.
+
+Eines gesonderten Antrags bedarf es in den Fällen des Satzes 1 Nummer 1 nicht. In den Fällen des Satzes 1 Nummer 2 und 3 bedarf es eines Antrags; § 9 Absatz 1 Satz 2 ist entsprechend anzuwenden.
+
+(2) Die Einmalzahlung nach Absatz 1 Satz 1 ist bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen zu berücksichtigen. Der Anspruch auf die Einmalzahlung nach Absatz 1 Satz 1 ist unpfändbar. § 6c gilt entsprechend.
 
 # § 7 – Zuständigkeit
 
@@ -293,6 +311,8 @@ Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der Ausführu
 (2) Verfahren, die am 1. Januar 1996 anhängig sind, werden nach den Vorschriften des Sozialgesetzbuches und des Bundeskindergeldgesetzes in der bis zum 31. Dezember 1995 geltenden Fassung zu Ende geführt, soweit in § 78 des Einkommensteuergesetzes nichts anderes bestimmt ist.
 
 (3) Wird Kinderzuschlag vor dem 1. Juli 2019 bewilligt, finden die Regelungen des Bundeskindergeldgesetzes in der bis zum 30. Juni 2019 geltenden Fassung weiter Anwendung, mit Ausnahme der Regelung zum monatlichen Höchstbetrag des Kinderzuschlags nach § 20 Absatz 3.
+
+(4) § 6c lässt Unterhaltsleistungen, die vor dem 30. Juni 2021 fällig geworden sind, unberührt.
 
 # § 20 – Anwendungsvorschrift
 

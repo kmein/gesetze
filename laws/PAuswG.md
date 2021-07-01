@@ -39,8 +39,6 @@
 
 2. die Übermittlung personen- und ausweisbezogener Daten aus dem Personalausweis anzufragen.
 
-Berechtigte Diensteanbieter erhalten Berechtigungszertifikate. Zur Identitätsfeststellung berechtigte Behörden erhalten hoheitliche Berechtigungszertifikate, die ausschließlich für die hoheitliche Tätigkeit der Identitätsfeststellung zu verwenden sind. Das Bundesamt für Sicherheit in der Informationstechnik erhält hoheitliche Berechtigungszertifikate zur Qualitätssicherung anhand von Testausweisen.
-
 (5) Ein dienste- und kartenspezifisches Kennzeichen ist eine Zeichenfolge, die im Speicher- und Verarbeitungsmedium des Personalausweises berechnet wird. Es dient der eindeutigen elektronischen Wiedererkennung eines Personalausweises durch den Diensteanbieter, für den es errechnet wurde, ohne dass weitere personenbezogene Daten übermittelt werden müssen.
 
 (6) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung von Personalausweisen mit elektronischem Identitätsnachweis dient.
@@ -213,6 +211,8 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (3) Für die Einziehung nach § 29 Abs. 1 und die Sicherstellung nach § 29 Abs. 2 sind die Personalausweisbehörden, die Auslandsvertretungen und die zur hoheitlichen Identitätsfeststellung berechtigten Behörden zuständig.
 
+(3a) Für das elektronisch beantragte Neusetzen der Geheimnummer sowie für die elektronische Beantragung des nachträglichen Einschaltens der Funktion zum elektronischen Identitätsnachweis ist der Ausweishersteller zuständig.
+
 (4) Für die Erteilung und Aufhebung von Berechtigungen nach § 21 ist die Vergabestelle für Berechtigungszertifikate nach § 4 Abs. 3 zuständig. Für das Führen einer Sperrliste nach § 10 Abs. 4 Satz 1 ist der Sperrlistenbetreiber nach § 4 Abs. 3 zuständig.
 
 (5) Für Diensteanbieter in Deutschland sind die für die Einhaltung der Vorgaben des Datenschutzes zuständigen Stellen zuständig. Haben Diensteanbieter ihren Wohn-, Geschäfts- oder Dienstsitz nicht in Deutschland, so ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zuständige Datenschutzaufsichtsbehörde im Sinne des § 21 Absatz 4 Satz 3.
@@ -281,7 +281,7 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (6) Stellt eine nicht zuständige Personalausweisbehörde nach § 8 Abs. 4 einen Ausweis aus, so hat sie der zuständigen Personalausweisbehörde den Familiennamen, die Vornamen, den Tag und Ort der Geburt, die ausstellende Personalausweisbehörde, das Ausstellungsdatum, die Gültigkeitsdauer und die Seriennummer des Ausweises zu übermitteln.
 
-(7) Schaltet eine Personalausweisbehörde den elektronischen Identitätsnachweis eines Personalausweises ein, so hat sie unverzüglich die ausstellende Personalausweisbehörde davon in Kenntnis zu setzen.
+(7) Schaltet eine Personalausweisbehörde den elektronischen Identitätsnachweis eines Personalausweises ein, so hat sie unverzüglich die ausstellende Personalausweisbehörde davon in Kenntnis zu setzen. Das Gleiche gilt für den Ausweishersteller im Falle der elektronischen Beantragung des nachträglichen Einschaltens der Funktion zum elektronischen Identitätsnachweis.
 
 # § 12 – Form und Verfahren der Datenerfassung, -prüfung und -übermittlung
 
@@ -373,6 +373,8 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 
 (5) Die Übermittlung ist auf die im Berechtigungszertifikat genannten Datenkategorien beschränkt.
 
+(6) Personalausweisbehörden dürfen im Rahmen der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes einen elektronischen Identitätsnachweis durchführen und hierzu ein hoheitliches Berechtigungszertifikat verwenden.
+
 # § 18a – Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden
 
 (1) Der Ausweisinhaber kann seinen Personalausweis ferner dazu verwenden, die in § 18 Absatz 3 Satz 2 genannten Daten zum Zwecke der medienbruchfreien Übernahme von Formulardaten unter Anwesenden zu übermitteln.
@@ -426,6 +428,14 @@ Der Ausweishersteller hat öffentlichen Stellen auf deren Verlangen die ausstell
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der maschinenlesbaren Zone des Personalausweises elektronisch nur auslesen und verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrolltätigkeiten im internationalen Reiseverkehr und zur Übermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen werden. Die Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
 (5) Zum Zwecke des Jugendschutzes und mit Einwilligung des Ausweisinhabers dürfen die in § 5 Absatz 4 Satz 2 Nummer 6 und 7 genannten Daten aus der maschinenlesbaren Zone des Personalausweises erhoben werden, um das Alter des Ausweisinhabers und die Gültigkeit des Ausweises zu überprüfen. Eine Speicherung der Daten ist unzulässig.
+
+# § 20a – Hoheitliche Berechtigungszertifikate
+
+(1) Zur Identitätsfeststellung berechtigte Behörden erhalten hoheitliche Berechtigungszertifikate, die ausschließlich für die hoheitliche Tätigkeit der Identitätsfeststellung zu verwenden sind.
+
+(2) Personalausweisbehörden und der Ausweishersteller erhalten hoheitliche Berechtigungszertifikate. Umfang und Inhalt der in Satz 1 genannten hoheitlichen Berechtigungszertifikate bestimmen sich durch die auf Grund dieses Gesetzes den Personalausweisbehörden und dem Ausweishersteller jeweils zugewiesenen Zuständigkeiten.
+
+(3) Das Bundesamt für Sicherheit in der Informationstechnik erhält hoheitliche Berechtigungszertifikate zur Qualitätssicherung anhand von Testausweisen.
 
 # § 21 – Berechtigungen für Diensteanbieter
 

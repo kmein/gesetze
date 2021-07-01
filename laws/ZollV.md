@@ -345,7 +345,13 @@ Die Einfuhrabgabenfreiheit für Treibstoffe ist ausgeschlossen, soweit diese zum
 
 # § 23 – Kleinbeträge
 
-(1) Einfuhrabgaben im Sinne des § 1 Abs. 1 des Zollverwaltungsgesetzes werden nicht erhoben und damit auch nicht buchmäßig erfasst, wenn sie im Reiseverkehr weniger als 3 Euro, sonst weniger als 5 Euro betragen.
+(1) Einfuhrabgaben im Sinne des § 1 Absatz 1 des Zollverwaltungsgesetzes werden nicht erhoben und auch nicht buchmäßig erfasst, wenn sie
+
+1. bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro weniger als 1 Euro betragen,
+
+2. im Reiseverkehr weniger als 3 Euro betragen,
+
+3. sonst weniger als 5 Euro betragen.
 
 (2) Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 des Zollkodex sowie Einfuhrumsatzsteuer werden in den Fällen, in denen jemand wegen einer Ordnungswidrigkeit nach § 30a des Tabaksteuergesetzes vom 21. Dezember 1992 (BGBl. I S. 2150), das zuletzt durch die Verordnung vom 25. November 2002 (BGBl. I S. 4449) geändert worden ist, in der jeweils geltenden Fassung verwarnt worden ist, nicht erhoben und damit auch nicht buchmäßig erfasst, wenn sie jeweils weniger als 10 Euro betragen. § 11 Abs. 4 des Tabaksteuergesetzes bleibt unberührt.
 

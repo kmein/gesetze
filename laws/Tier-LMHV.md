@@ -255,7 +255,7 @@ abgegeben wird.
 
 # § 14 – Untersuchung von Rohmilch nach Anhang III Abschnitt IX Kapitel I Teil III Nummer 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004
 
-Als Kontrollen von Rohmilch aus Milcherzeugungsbetrieben im Sinne einer nationalen Kontrollregelung nach Anhang III Abschnitt IX Kapitel I Teil III Nummer 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004 gelten die Untersuchungen nach § 1 Absatz 1 der Milch-Güteverordnung.
+Als Kontrollen von Rohmilch aus Milcherzeugungsbetrieben im Sinne einer nationalen Kontrollregelung nach Anhang III Abschnitt IX Kapitel I Teil III Nummer 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004 gelten die Güteuntersuchungen, die im Rahmen der Güteprüfung nach § 4 der Rohmilchgüteverordnung im Hinblick auf die Gütemerkmale nach § 3 Absatz 1 Nummer 5 Buchstabe c und d der Rohmilchgüteverordnung durchgeführt werden.
 
 # § 15 – Gebote, Verbote und Beschränkungen
 

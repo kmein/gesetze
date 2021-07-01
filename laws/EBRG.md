@@ -377,10 +377,6 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 2. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
 
-# § 41b – Sonderregelung aus Anlass der COVID-19-Pandemie
-
-Die Teilnahme an Sitzungen des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne des § 19 sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
-
 # § 42 – Errichtungs- und Tätigkeitsschutz
 
 Niemand darf

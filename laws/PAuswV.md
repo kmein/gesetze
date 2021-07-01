@@ -39,9 +39,11 @@ a) die Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbildes und
 
 b) die Übermittlung sämtlicher Ausweisantragsdaten und die in § 8 Absatz 1 Satz 2 genannten Daten von den Personalausweisbehörden an den Ausweishersteller,
 
-c) den elektronischen Identitätsnachweis und das Vor-Ort-Auslesen und
+c) den elektronischen Identitätsnachweis und das Vor-Ort-Auslesen,
 
-d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitätsnachweises durch den Ausweisinhaber und die Speicherung und Löschung der Sperrmerkmale und des Sperrkennwortes, insbesondere an die dabei einzusetzenden technischen Systeme und Kommunikationswege.
+d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitätsnachweises durch den Ausweisinhaber und die Speicherung und Löschung der Sperrmerkmale und des Sperrkennwortes, insbesondere an die dabei einzusetzenden technischen Systeme und Kommunikationswege und
+
+e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag.
 
 Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Die Übersicht über die Technischen Richtlinien wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik bekannt gemacht.
 
@@ -108,6 +110,8 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 3. ein allgemeines Sperrmerkmal wird aus der Sperrliste entfernt spätestens zehn Jahre und drei Monate, nachdem der Sperrschlüssel beim Sperrlistenbetreiber gespeichert worden ist, oder wenn die Personalausweisbehörde eine Entsperrung vorgenommen hat.
 
 (4) Der Ausweishersteller speichert die Daten, die im Rahmen des Produktionsverfahrens erlangt oder erzeugt worden sind und der antragstellenden Person zugeordnet werden können, höchstens so lange, bis der Sperrlistenbetreiber den Empfang der Sperrsumme und des Sperrschlüssels und die Personalausweisbehörde den Eingang des Sperrkennworts bestätigt haben. Im Übrigen sind die Daten sicher zu löschen. Der Ausweishersteller führt zur Vermeidung von Doppelungen eine Liste mit Sperrsummen von hergestellten Personalausweisen. Die Sperrsummen in dieser Liste sind spätestens zehn Jahre und drei Monate nach ihrer Eintragung zu löschen. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt unberührt.
+
+(5) Der Ausweishersteller löscht die zur Bearbeitung von elektronischen Anträgen nach § 20 Absatz 2 und § 22 Absatz 2 zu erhebenden personenbezogenen Daten, sobald er die Benachrichtigung bekommen hat, dass der Antragsteller die zufällig neu generierte Geheimnummer erhalten hat, spätestens aber nach 30 Tagen. Satz 1 gilt nicht für das dienste- und kartenspezifische Kennzeichen, welches spätestens nach 90 Tagen zu löschen ist.
 
 # § 6 – Erfassung der Anschrift
 
@@ -239,19 +243,21 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 
 (1) Kennt der Ausweisinhaber die ursprüngliche Geheimnummer nicht, kann die Personalausweisbehörde die Neusetzung der Geheimnummer durch den Ausweisinhaber einleiten. Die Personalausweisbehörde hat zuvor die Identität des Ausweisinhabers zu überprüfen. Durch technische und organisatorische Maßnahmen hat die Personalausweisbehörde sicherzustellen, dass niemand außer dem Ausweisinhaber Kenntnis von der Geheimnummer erlangt.
 
-(2) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
+(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schreibt eine neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium, schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet die neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsausweis wieder ein. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
-(3) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(3) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
+
+(4) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
 # § 21 – (weggefallen)
 
 # § 22 – Nachträgliches Einschalten
 
-(1) (weggefallen)
+(1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
 
-(2) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
+(2) Der Antrag nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller schreibt eine neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium und versendet diese in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsausweis ein und informiert die ausstellende Personalausweisbehörde über die Einschaltung. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
-(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
 # § 23 – (weggefallen)
 
@@ -365,7 +371,7 @@ Die Vergabestelle für Berechtigungszertifikate legt mit Erteilung der Berechtig
 
 # § 36 – Ausgabe von hoheitlichen Berechtigungszertifikaten
 
-(1) Hoheitliche Berechtigungszertifikate nach § 2 Absatz 4 Satz 3 des Personalausweisgesetzes dürfen vorbehaltlich von Satz 2 ausschließlich an die zur Identitätsfeststellung berechtigten Behörden ausgegeben werden. Zum Zwecke der Qualitätssicherung anhand von Testausweisen dürfen hoheitliche Berechtigungszertifikate auch an das Bundesamt für Sicherheit in der Informationstechnik ausgegeben werden.
+(1) Hoheitliche Berechtigungszertifikate nach § 20a Absatz 1 des Personalausweisgesetzes dürfen vorbehaltlich von Satz 2 ausschließlich an die zur Identitätsfeststellung berechtigten Behörden ausgegeben werden. Zum Zwecke der Qualitätssicherung anhand von Testausweisen dürfen hoheitliche Berechtigungszertifikate auch an das Bundesamt für Sicherheit in der Informationstechnik ausgegeben werden.
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat bestimmt, welche Stellen hoheitliche Berechtigungszertifikate an welche zur Identitätsfeststellung berechtigten Behörden ausgeben dürfen, und veröffentlicht dies im Bundesanzeiger.
 

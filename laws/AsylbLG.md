@@ -103,7 +103,7 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (3) Bei einer Unterbringung außerhalb von Aufnahmeeinrichtungen im Sinne des § 44 Absatz 1 des Asylgesetzes sind vorbehaltlich des Satzes 3 vorrangig Geldleistungen zur Deckung des notwendigen Bedarfs zu gewähren. Anstelle der Geldleistungen können, soweit es nach den Umständen erforderlich ist, zur Deckung des notwendigen Bedarfs Leistungen in Form von unbaren Abrechnungen, von Wertgutscheinen oder von Sachleistungen gewährt werden. Der Bedarf für Unterkunft, Heizung und Hausrat sowie für Wohnungsinstandhaltung und Haushaltsenergie wird, soweit notwendig und angemessen, gesondert als Geld- oder Sachleistung erbracht. Absatz 2 Satz 3 ist entsprechend anzuwenden. Der notwendige persönliche Bedarf ist vorbehaltlich des Satzes 6 durch Geldleistungen zu decken. In Gemeinschaftsunterkünften im Sinne von § 53 des Asylgesetzes kann der notwendige persönliche Bedarf soweit wie möglich auch durch Sachleistungen gedeckt werden.
 
-(4) Bedarfe für Bildung und Teilhabe am sozialen und kulturellen Leben in der Gemeinschaft werden bei Kindern, Jugendlichen und jungen Erwachsenen neben den Leistungen nach den Absätzen 1 bis 3 entsprechend den §§ 34, 34a und 34b des Zwölften Buches Sozialgesetzbuch gesondert berücksichtigt.
+(4) Bedarfe für Bildung und Teilhabe am sozialen und kulturellen Leben in der Gemeinschaft werden bei Kindern, Jugendlichen und jungen Erwachsenen neben den Leistungen nach den Absätzen 1 bis 3 entsprechend den §§ 34, 34a und 34b des Zwölften Buches Sozialgesetzbuch gesondert berücksichtigt. Die Regelung des § 141 Absatz 5 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
 
 (4a) Die Regelungen des § 142 Absatz 1 des Zwölften Buches Sozialgesetzbuch sowie eine nach dessen Absatz 3 erlassene Rechtsverordnung gelten entsprechend.
 
@@ -482,3 +482,7 @@ zu erteilen.
 # § 15 – Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht
 
 Für Leistungsberechtigte des Asylbewerberleistungsgesetzes, auf die bis zum 21. August 2019 gemäß § 2 Absatz 1 des Asylbewerberleistungsgesetzes das Zwölfte Buch Sozialgesetzbuch entsprechend anzuwenden war, ist § 2 des Asylbewerberleistungsgesetzes in der Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S. 2022), das zuletzt durch Artikel 4 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2541; 2019 I S. 162) geändert worden ist, weiter anzuwenden.
+
+# § 16 – Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie
+
+Minderjährige Leistungsberechtigte, die für den Monat August 2021 Anspruch auf Leistungen nach diesem Gesetz haben, erhalten eine Einmalzahlung in Höhe von 100 Euro. Eines gesonderten Antrags bedarf es nicht.

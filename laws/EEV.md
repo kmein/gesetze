@@ -197,7 +197,7 @@ Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu berücksi
 
 # § 9 – Mindestinhalt von Herkunftsnachweisen
 
-Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten:
+(1) Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten:
 
 1. eine einmalige Kennnummer,
 
@@ -214,6 +214,32 @@ Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten:
 a) für die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleistet wurden,
 
 b) für die Strommenge in sonstiger Weise eine Förderung im Sinne von Artikel 2 Buchstabe k der Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16) gezahlt oder erbracht wurde.
+
+(2) Ein Herkunftsnachweis für Strom aus erneuerbaren Energien, der in hocheffizienten KWK-Anlagen erzeugt worden ist, muss darüber hinaus folgende Angaben enthalten:
+
+1. thermische Leistung,
+
+2. Nutzung der Wärme,
+
+3. unterer Heizwert,
+
+4. prozentualer Anteil an Primärenergieeinsparung,
+
+5. Menge an Primärenergieeinsparung,
+
+6. gesamte Primärenergieeinsparung,
+
+7. erzeugte CO<sub>2</sub>-Emissionen,
+
+8. eingesparte CO<sub>2</sub>-Emissionen,
+
+9. Nutzwärme aus KWK,
+
+10. elektrischer Wirkungsgrad,
+
+11. thermischer Wirkungsgrad und
+
+12. Angaben dazu, ob, in welcher Art und in welchem Umfang für die Strommenge eine Förderung im Sinn von Artikel 2 Nummer 18 der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) gezahlt oder erbracht wurde.
 
 # § 10 – Mindestinhalt von Regionalnachweisen
 
@@ -237,7 +263,7 @@ b) der Anlagenbetreiber für die Strommenge eine Zahlung nach dem Erneuerbare-En
 
 (1) Die Ausstellung, Anerkennung und Übertragung von Herkunftsnachweisen erfolgen auf Antrag nach Maßgabe der Rechtsverordnung nach § 14.
 
-(2) Das Umweltbundesamt entwertet Herkunftsnachweise nach ihrer Verwendung, spätestens aber zwölf Monate nach Erzeugung der entsprechenden Strommenge. Entwertete Herkunftsnachweise dürfen nicht mehr verwendet werden. Sie sind unverzüglich automatisch zu löschen, sobald sie zur Führung des Herkunftsnachweisregisters nicht mehr erforderlich sind.
+(2) Das Umweltbundesamt entwertet Herkunftsnachweise nach ihrer Verwendung, spätestens aber 18 Monate nach Erzeugung der entsprechenden Strommenge. Entwertete Herkunftsnachweise dürfen nicht mehr verwendet werden. Sie sind unverzüglich automatisch zu löschen, sobald sie zur Führung des Herkunftsnachweisregisters nicht mehr erforderlich sind.
 
 (+++ § 11: Zur Anwendung vgl. § 12 +++)
 

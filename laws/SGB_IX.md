@@ -1727,7 +1727,7 @@ Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des Kapitels 9 ein B
 
 (2) Die Vorschriften über die Hilfe zur Überwindung besonderer sozialer Schwierigkeiten nach dem Achten Kapitel des Zwölften Buches, über die Altenhilfe nach § 71 des Zwölften Buches und über die Blindenhilfe nach § 72 des Zwölften Buches bleiben unberührt.
 
-(3) Die Hilfen zur Gesundheit nach dem Zwölften Buch gehen den Leistungen der Eingliederungshilfe vor, wenn sie zur Beseitigung einer Beeinträchtigung mit drohender erheblicher Teilhabeeinschränkung nach § 99 geeignet sind.
+(3) Die Hilfen zur Gesundheit nach dem Zwölften Buch gehen den Leistungen der Eingliederungshilfe vor, wenn sie zur Beseitigung einer drohenden wesentlichen Behinderung nach § 99 Absatz 1 in Verbindung mit Absatz 2 geeignet sind.
 
 # § 94 – Aufgaben der Länder
 
@@ -1743,7 +1743,7 @@ Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des Kapitels 9 ein B
 
 1. die Wirkung und Qualifizierung der Steuerungsinstrumente,
 
-2. die Wirkungen der Regelungen zum leistungsberechtigten Personenkreis nach § 99 sowie der neuen Leistungen und Leistungsstrukturen,
+2. die Wirkungen der Regelungen zur Leistungsberechtigung nach § 99 sowie der neuen Leistungen und Leistungsstrukturen,
 
 3. die Umsetzung des Wunsch- und Wahlrechtes nach § 104 Absatz 1 und 2,
 
@@ -1775,7 +1775,7 @@ Bei der Durchführung der Aufgaben dieses Teils beschäftigen die Träger der Ei
 
 a) des Sozial- und Verwaltungsrechts,
 
-b) über den leistungsberechtigten Personenkreis nach § 99 oder
+b) über Personen, die leistungsberechtigt im Sinne des § 99 Absatz 1 bis 3 sind, oder
 
 c) von Teilhabebedarfen und Teilhabebarrieren
 
@@ -1799,9 +1799,15 @@ Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzun
 
 (5) Bei Personen, die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel des Zwölften Buches in der am 31. Dezember 2019 geltenden Fassung bezogen haben und auch ab dem 1. Januar 2020 Leistungen nach Teil 2 dieses Buches erhalten, ist der Träger der Eingliederungshilfe örtlich zuständig, dessen örtliche Zuständigkeit sich am 1. Januar 2020 im Einzelfall in entsprechender Anwendung von § 98 Absatz 1 Satz 1 oder Absatz 5 des Zwölften Buches oder in entsprechender Anwendung von § 98 Absatz 2 Satz 1 und 2 in Verbindung mit § 107 des Zwölften Buches ergeben würde. Absatz 1 Satz 3 bis 5 gilt entsprechend. Im Übrigen bleiben die Absätze 2 bis 4 unberührt.
 
-# § 99 – Leistungsberechtigter Personenkreis
+# § 99 – Leistungsberechtigung, Verordnungsermächtigung
 
-Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 des Zwölften Buches und den §§ 1 bis 3 der Eingliederungshilfe-Verordnung in der am 31. Dezember 2019 geltenden Fassung.
+(1) Leistungen der Eingliederungshilfe erhalten Menschen mit Behinderungen im Sinne von § 2 Absatz 1 Satz 1 und 2, die wesentlich in der gleichberechtigten Teilhabe an der Gesellschaft eingeschränkt sind (wesentliche Behinderung) oder von einer solchen wesentlichen Behinderung bedroht sind, wenn und solange nach der Besonderheit des Einzelfalles Aussicht besteht, dass die Aufgabe der Eingliederungshilfe nach § 90 erfüllt werden kann.
+
+(2) Von einer wesentlichen Behinderung bedroht sind Menschen, bei denen der Eintritt einer wesentlichen Behinderung nach fachlicher Erkenntnis mit hoher Wahrscheinlichkeit zu erwarten ist.
+
+(3) Menschen mit anderen geistigen, seelischen, körperlichen oder Sinnesbeeinträchtigungen, durch die sie in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren in der gleichberechtigten Teilhabe an der Gesellschaft eingeschränkt sind, können Leistungen der Eingliederungshilfe erhalten.
+
+(4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen über die Konkretisierung der Leistungsberechtigung in der Eingliederungshilfe erlassen. Bis zum Inkrafttreten einer nach Satz 1 erlassenen Rechtsverordnung gelten die §§ 1 bis 3 der Eingliederungshilfe-Verordnung in der am 31. Dezember 2019 geltenden Fassung entsprechend.
 
 # § 100 – Eingliederungshilfe für Ausländer
 
@@ -2229,7 +2235,7 @@ Die allgemeinen Grundsätze der Absätze 1 bis 3 und 5 sowie die Vorschriften zu
 
 (1) Sind geeignete Leistungserbringer vorhanden, soll der Träger der Eingliederungshilfe zur Erfüllung seiner Aufgaben eigene Angebote nicht neu schaffen. Geeignet ist ein externer Leistungserbringer, der unter Sicherstellung der Grundsätze des § 104 die Leistungen wirtschaftlich und sparsam erbringen kann. Die durch den Leistungserbringer geforderte Vergütung ist wirtschaftlich angemessen, wenn sie im Vergleich mit der Vergütung vergleichbarer Leistungserbringer im unteren Drittel liegt (externer Vergleich). Liegt die geforderte Vergütung oberhalb des unteren Drittels, kann sie wirtschaftlich angemessen sein, sofern sie nachvollziehbar auf einem höheren Aufwand des Leistungserbringers beruht und wirtschaftlicher Betriebsführung entspricht. In den externen Vergleich sind die im Einzugsbereich tätigen Leistungserbringer einzubeziehen. Die Bezahlung tariflich vereinbarter Vergütungen sowie entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich abgelehnt werden, soweit die Vergütung aus diesem Grunde oberhalb des unteren Drittels liegt.
 
-(2) Geeignete Leistungserbringer haben zur Erbringung der Leistungen der Eingliederungshilfe eine dem Leistungsangebot entsprechende Anzahl an Fach- und anderem Betreuungspersonal zu beschäftigen. Sie müssen über die Fähigkeit zur Kommunikation mit den Leistungsberechtigten in einer für die Leistungsberechtigten wahrnehmbaren Form verfügen und nach ihrer Persönlichkeit geeignet sein. Geeignete Leistungserbringer dürfen nur solche Personen beschäftigen oder ehrenamtliche Personen, die in Wahrnehmung ihrer Aufgaben Kontakt mit Leistungsberechtigten haben, mit Aufgaben betrauen, die nicht rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i bis 184k, 201a Absatz 3, §§ 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden sind. Die Leistungserbringer sollen sich von Fach- und anderem Betreuungspersonal, die in Wahrnehmung ihrer Aufgaben Kontakt mit Leistungsberechtigten haben, vor deren Einstellung oder Aufnahme einer dauerhaften ehrenamtlichen Tätigkeit und in regelmäßigen Abständen ein Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen. Nimmt der Leistungserbringer Einsicht in ein Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes, so speichert er nur den Umstand der Einsichtnahme, das Datum des Führungszeugnisses und die Information, ob die das Führungszeugnis betreffende Person wegen einer in Satz 3 genannten Straftat rechtskräftig verurteilt worden ist. Der Leistungserbringer darf diese Daten nur verändern und nutzen, soweit dies zur Prüfung der Eignung einer Person erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit für den Leistungserbringer wahrgenommen wird. Sie sind spätestens drei Monate nach der letztmaligen Ausübung einer Tätigkeit für den Leistungserbringer zu löschen. Das Fachpersonal muss zusätzlich über eine abgeschlossene berufsspezifische Ausbildung und dem Leistungsangebot entsprechende Zusatzqualifikationen verfügen.
+(2) Geeignete Leistungserbringer haben zur Erbringung der Leistungen der Eingliederungshilfe eine dem Leistungsangebot entsprechende Anzahl an Fach- und anderem Betreuungspersonal zu beschäftigen. Sie müssen über die Fähigkeit zur Kommunikation mit den Leistungsberechtigten in einer für die Leistungsberechtigten wahrnehmbaren Form verfügen und nach ihrer Persönlichkeit geeignet sein. Geeignete Leistungserbringer dürfen nur solche Personen beschäftigen oder ehrenamtliche Personen, die in Wahrnehmung ihrer Aufgaben Kontakt mit Leistungsberechtigten haben, mit Aufgaben betrauen, die nicht rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i bis 184l, 201a Absatz 3, §§ 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden sind. Die Leistungserbringer sollen sich von Fach- und anderem Betreuungspersonal, die in Wahrnehmung ihrer Aufgaben Kontakt mit Leistungsberechtigten haben, vor deren Einstellung oder Aufnahme einer dauerhaften ehrenamtlichen Tätigkeit und in regelmäßigen Abständen ein Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen. Nimmt der Leistungserbringer Einsicht in ein Führungszeugnis nach § 30a Absatz 1 des Bundeszentralregistergesetzes, so speichert er nur den Umstand der Einsichtnahme, das Datum des Führungszeugnisses und die Information, ob die das Führungszeugnis betreffende Person wegen einer in Satz 3 genannten Straftat rechtskräftig verurteilt worden ist. Der Leistungserbringer darf diese Daten nur verändern und nutzen, soweit dies zur Prüfung der Eignung einer Person erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit für den Leistungserbringer wahrgenommen wird. Sie sind spätestens drei Monate nach der letztmaligen Ausübung einer Tätigkeit für den Leistungserbringer zu löschen. Das Fachpersonal muss zusätzlich über eine abgeschlossene berufsspezifische Ausbildung und dem Leistungsangebot entsprechende Zusatzqualifikationen verfügen.
 
 (3) Sind mehrere Leistungserbringer im gleichen Maße geeignet, so hat der Träger der Eingliederungshilfe Vereinbarungen vorrangig mit Leistungserbringern abzuschließen, deren Vergütung bei vergleichbarem Inhalt, Umfang und Qualität der Leistung nicht höher ist als die anderer Leistungserbringer.
 
@@ -3695,7 +3701,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
 1. einer Begleitperson eines schwerbehinderten Menschen im Sinne des Absatzes 1, wenn die Berechtigung zur Mitnahme einer Begleitperson nachgewiesen und dies im Ausweis des schwerbehinderten Menschen eingetragen ist, und
 
-2. des Handgepäcks, eines mitgeführten Krankenfahrstuhles, soweit die Beschaffenheit des Verkehrsmittels dies zulässt, sonstiger orthopädischer Hilfsmittel und eines Führhundes; das Gleiche gilt für einen Hund, den ein schwerbehinderter Mensch mitführt, in dessen Ausweis die Berechtigung zur Mitnahme einer Begleitperson nachgewiesen ist.
+2. des Handgepäcks, eines mitgeführten Krankenfahrstuhles, soweit die Beschaffenheit des Verkehrsmittels dies zulässt, sonstiger orthopädischer Hilfsmittel und eines Führhundes; das Gleiche gilt für einen Hund, den ein schwerbehinderter Mensch mitführt, in dessen Ausweis die Berechtigung zur Mitnahme einer Begleitperson nachgewiesen ist, sowie für einen nach § 12e Absatz 4 des Behindertengleichstellungsgesetzes gekennzeichneten Assistenzhund.
 
 (7) Die durch die unentgeltliche Beförderung nach den Absätzen 1 bis 6 entstehenden Fahrgeldausfälle werden nach Maßgabe der §§ 231 bis 233 erstattet. Die Erstattungen sind aus dem Anwendungsbereich der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) ausgenommen.
 

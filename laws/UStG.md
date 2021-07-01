@@ -71,7 +71,7 @@ Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leist
 
 § 3c
 
-Ort der Lieferung in besonderen Fällen
+Ort der Lieferung beim Fernverkauf
 
  
 
@@ -361,6 +361,12 @@ Besondere Vorschriften für die Einfuhrumsatzsteuer
 
  
 
+§ 21a
+
+Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro
+
+ 
+
 § 22
 
 Aufzeichnungspflichten
@@ -399,7 +405,7 @@ Untersagung der Fiskalvertretung
 
 § 22f
 
-Besondere Pflichten für Betreiber eines elektronischen Marktplatzes
+Besondere Pflichten für Betreiber einer elektronischen Schnittstelle
 
 VI\.
 
@@ -457,7 +463,7 @@ Besteuerung von Umsätzen mit Anlagegold
 
 § 25e
 
-Haftung beim Handel auf einem elektronischen Marktplatz
+Haftung beim Handel über eine elektronische Schnittstelle
 
  
 
@@ -485,13 +491,13 @@ Bußgeldvorschriften
 
 § 26b
 
-Schädigung des Umsatzsteueraufkommens
+(weggefallen)
 
  
 
 § 26c
 
-Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens
+Strafvorschriften
 
  
 
@@ -745,6 +751,8 @@ Voraussetzung ist, dass der Gegenstand oder seine Bestandteile zum vollen oder t
 
 (3) Beim Kommissionsgeschäft (§ 383 des Handelsgesetzbuchs) liegt zwischen dem Kommittenten und dem Kommissionär eine Lieferung vor. Bei der Verkaufskommission gilt der Kommissionär, bei der Einkaufskommission der Kommittent als Abnehmer.
 
+(3a) Ein Unternehmer, der mittels seiner elektronischen Schnittstelle die Lieferung eines Gegenstands, dessen Beförderung oder Versendung im Gemeinschaftsgebiet beginnt und endet, durch einen nicht im Gemeinschaftsgebiet ansässigen Unternehmer an einen Empfänger nach § 3a Absatz 5 Satz 1 unterstützt, wird behandelt, als ob er diesen Gegenstand für sein Unternehmen selbst erhalten und geliefert hätte. Dies gilt auch in den Fällen, in denen der Unternehmer mittels seiner elektronischen Schnittstelle den Fernverkauf von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro unterstützt. Eine elektronische Schnittstelle im Sinne der Sätze 1 und 2 ist ein elektronischer Marktplatz, eine elektronische Plattform, ein elektronisches Portal oder Ähnliches. Ein Fernverkauf im Sinne des Satzes 2 ist die Lieferung eines Gegenstands, der durch den Lieferer oder für dessen Rechnung aus dem Drittlandsgebiet an einen Erwerber in einem Mitgliedstaat befördert oder versendet wird, einschließlich jener Lieferung, an deren Beförderung oder Versendung der Lieferer indirekt beteiligt ist. Erwerber im Sinne des Satzes 4 ist ein in § 3a Absatz 5 Satz 1 bezeichneter Empfänger oder eine in § 1a Absatz 3 Nummer 1 genannte Person, die weder die maßgebende Erwerbsschwelle überschreitet noch auf ihre Anwendung verzichtet; im Fall der Beendigung der Beförderung oder Versendung im Gebiet eines anderen Mitgliedstaates ist die von diesem Mitgliedstaat festgesetzte Erwerbsschwelle maßgebend. Satz 2 gilt nicht für die Lieferung neuer Fahrzeuge und eines Gegenstandes, der mit oder ohne probeweise Inbetriebnahme durch den Lieferer oder für dessen Rechnung montiert oder installiert geliefert wird.
+
 (4) Hat der Unternehmer die Bearbeitung oder Verarbeitung eines Gegenstands übernommen und verwendet er hierbei Stoffe, die er selbst beschafft, so ist die Leistung als Lieferung anzusehen (Werklieferung), wenn es sich bei den Stoffen nicht nur um Zutaten oder sonstige Nebensachen handelt. Das gilt auch dann, wenn die Gegenstände mit dem Grund und Boden fest verbunden werden.
 
 (5) Hat ein Abnehmer dem Lieferer die Nebenerzeugnisse oder Abfälle, die bei der Bearbeitung oder Verarbeitung des ihm übergebenen Gegenstands entstehen, zurückzugeben, so beschränkt sich die Lieferung auf den Gehalt des Gegenstands an den Bestandteilen, die dem Abnehmer verbleiben. Das gilt auch dann, wenn der Abnehmer an Stelle der bei der Bearbeitung oder Verarbeitung entstehenden Nebenerzeugnisse oder Abfälle Gegenstände gleicher Art zurückgibt, wie sie in seinem Unternehmen regelmäßig anfallen.
@@ -755,7 +763,9 @@ Voraussetzung ist, dass der Gegenstand oder seine Bestandteile zum vollen oder t
 
 (6a) Schließen mehrere Unternehmer über denselben Gegenstand Liefergeschäfte ab und gelangt dieser Gegenstand bei der Beförderung oder Versendung unmittelbar vom ersten Unternehmer an den letzten Abnehmer (Reihengeschäft), so ist die Beförderung oder Versendung des Gegenstands nur einer der Lieferungen zuzuordnen. Wird der Gegenstand der Lieferung dabei durch den ersten Unternehmer in der Reihe befördert oder versendet, ist die Beförderung oder Versendung seiner Lieferung zuzuordnen. Wird der Gegenstand der Lieferung durch den letzten Abnehmer befördert oder versendet, ist die Beförderung oder Versendung der Lieferung an ihn zuzuordnen. Wird der Gegenstand der Lieferung durch einen Abnehmer befördert oder versendet, der zugleich Lieferer ist (Zwischenhändler), ist die Beförderung oder Versendung der Lieferung an ihn zuzuordnen, es sei denn, er weist nach, dass er den Gegenstand als Lieferer befördert oder versendet hat. Gelangt der Gegenstand der Lieferung aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates und verwendet der Zwischenhändler gegenüber dem leistenden Unternehmer bis zum Beginn der Beförderung oder Versendung eine Umsatzsteuer-Identifikationsnummer, die ihm vom Mitgliedstaat des Beginns der Beförderung oder Versendung erteilt wurde, ist die Beförderung oder Versendung seiner Lieferung zuzuordnen. Gelangt der Gegenstand der Lieferung in das Drittlandsgebiet, ist von einem ausreichenden Nachweis nach Satz 4 auszugehen, wenn der Zwischenhändler gegenüber dem leistenden Unternehmer bis zum Beginn der Beförderung oder Versendung eine Umsatzsteuer-Identifikationsnummer oder Steuernummer verwendet, die ihm vom Mitgliedstaat des Beginns der Beförderung oder Versendung erteilt wurde. Gelangt der Gegenstand der Lieferung vom Drittlandsgebiet in das Gemeinschaftsgebiet, ist von einem ausreichenden Nachweis nach Satz 4 auszugehen, wenn der Gegenstand der Lieferung im Namen des Zwischenhändlers oder im Rahmen der indirekten Stellvertretung (Artikel 18 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union, ABl. L 269 vom 10.10.2013, S. 1) für seine Rechnung zum zoll- und steuerrechtlich freien Verkehr angemeldet wird.
 
-(7) Wird der Gegenstand der Lieferung nicht befördert oder versendet, wird die Lieferung dort ausgeführt, wo sich der Gegenstand zur Zeit der Verschaffung der Verfügungsmacht befindet. In den Fällen des Absatzes 6a gilt Folgendes:
+(6b) Wird ein Unternehmer gemäß Absatz 3a behandelt, als ob er einen Gegenstand selbst erhalten und geliefert hätte, wird die Beförderung oder Versendung des Gegenstands der Lieferung durch diesen Unternehmer zugeschrieben.
+
+(7) Wird der Gegenstand der Lieferung nicht befördert oder versendet, wird die Lieferung dort ausgeführt, wo sich der Gegenstand zur Zeit der Verschaffung der Verfügungsmacht befindet. In den Fällen der Absätze 6a und 6b gilt Folgendes:
 
 1. Lieferungen, die der Beförderungs- oder Versendungslieferung vorangehen, gelten dort als ausgeführt, wo die Beförderung oder Versendung des Gegenstands beginnt.
 
@@ -807,7 +817,7 @@ Instrumente, die lediglich zu einem Preisnachlass berechtigen, sind keine Gutsch
 
 (15) Ein Gutschein im Sinne des Absatzes 13, bei dem es sich nicht um einen Einzweck-Gutschein handelt, ist ein Mehrzweck-Gutschein. Die tatsächliche Lieferung oder die tatsächliche Erbringung der sonstigen Leistung, für die der leistende Unternehmer einen Mehrzweck-Gutschein als vollständige oder teilweise Gegenleistung annimmt, unterliegt der Umsatzsteuer nach § 1 Absatz 1, wohingegen jede vorangegangene Übertragung dieses Mehrzweck-Gutscheins nicht der Umsatzsteuer unterliegt.
 
-(+++ § 3 Abs. 13 bis 15: Zur Anwendung vgl. § 27 Abs. 23 +++)
+(+++ § 3: Zur Anwendung vgl. § 27 +++)
 
 # § 3a – Ort der sonstigen Leistung
 
@@ -893,7 +903,7 @@ wird die sonstige Leistung an dem Ort ausgeführt, an dem der Leistungsempfänge
 
 3. die auf elektronischem Weg erbrachten sonstigen Leistungen.
 
-Satz 1 ist nicht anzuwenden, wenn der leistende Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte oder in Ermangelung eines Sitzes, einer Geschäftsleitung oder einer Betriebsstätte seinen Wohnsitz oder gewöhnlichen Aufenthalt in nur einem Mitgliedstaat hat und der Gesamtbetrag der Entgelte der in Satz 2 bezeichneten sonstigen Leistungen an in Satz 1 bezeichnete Empfänger mit Wohnsitz, gewöhnlichem Aufenthalt oder Sitz in anderen Mitgliedstaaten insgesamt 10 000 Euro im vorangegangenen Kalenderjahr nicht überschritten hat und im laufenden Kalenderjahr nicht überschreitet. Der leistende Unternehmer kann dem Finanzamt erklären, dass er auf die Anwendung des Satzes 3 verzichtet. Die Erklärung bindet den Unternehmer mindestens für zwei Kalenderjahre.
+Satz 1 ist nicht anzuwenden, wenn der leistende Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte oder in Ermangelung eines Sitzes, einer Geschäftsleitung oder einer Betriebsstätte seinen Wohnsitz oder gewöhnlichen Aufenthalt in nur einem Mitgliedstaat hat und der Gesamtbetrag der Entgelte der in Satz 2 bezeichneten sonstigen Leistungen an in Satz 1 bezeichnete Empfänger mit Wohnsitz, gewöhnlichem Aufenthalt oder Sitz in anderen Mitgliedstaaten sowie der innergemeinschaftlichen Fernverkäufe nach § 3c Absatz 1 Satz 2 und 3 insgesamt 10 000 Euro im vorangegangenen Kalenderjahr nicht überschritten hat und im laufenden Kalenderjahr nicht überschreitet. Der leistende Unternehmer kann dem Finanzamt erklären, dass er auf die Anwendung des Satzes 3 verzichtet. Die Erklärung bindet den Unternehmer mindestens für zwei Kalenderjahre.
 
 (6) Erbringt ein Unternehmer, der sein Unternehmen von einem im Drittlandsgebiet liegenden Ort aus betreibt,
 
@@ -909,7 +919,7 @@ ist diese Leistung abweichend von Absatz 1, Absatz 3 Nummer 2, Absatz 4 Satz 1 o
 
 (8) Erbringt ein Unternehmer eine Güterbeförderungsleistung, ein Beladen, Entladen, Umschlagen oder ähnliche mit der Beförderung eines Gegenstandes im Zusammenhang stehende Leistungen im Sinne des § 3b Absatz 2, eine Arbeit an beweglichen körperlichen Gegenständen oder eine Begutachtung dieser Gegenstände, eine Reisevorleistung im Sinne des § 25 Absatz 1 Satz 5 oder eine Veranstaltungsleistung im Zusammenhang mit Messen und Ausstellungen, ist diese Leistung abweichend von Absatz 2 als im Drittlandsgebiet ausgeführt zu behandeln, wenn die Leistung dort genutzt oder ausgewertet wird. Satz 1 gilt nicht, wenn die dort genannten Leistungen in einem der in § 1 Absatz 3 genannten Gebiete tatsächlich ausgeführt werden.
 
-(+++ § 3a Abs. 5 Satz 3 bis 5: Zur Anwendung vgl. § 27 Abs. 24 Satz 1 +++)
+(+++ § 3a: Zur Anwendung vgl. § 27 +++)
 
 # § 3b – Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
 
@@ -923,33 +933,27 @@ ist diese Leistung abweichend von Absatz 1, Absatz 3 Nummer 2, Absatz 4 Satz 1 o
 
 (3) Die Beförderung eines Gegenstands, die in dem Gebiet eines Mitgliedstaates beginnt und in dem Gebiet eines anderen Mitgliedstaates endet (innergemeinschaftliche Beförderung eines Gegenstands), an einen Empfänger, der weder ein Unternehmer ist, für dessen Unternehmen die Leistung bezogen wird, noch eine nicht unternehmerisch tätige juristische Person, der eine Umsatzsteuer-Identifikationsnummer erteilt worden ist, wird an dem Ort ausgeführt, an dem die Beförderung des Gegenstands beginnt.
 
-# § 3c – Ort der Lieferung in besonderen Fällen
+# § 3c – Ort der Lieferung beim Fernverkauf
 
-(1) Wird bei einer Lieferung der Gegenstand durch den Lieferer oder einen von ihm beauftragten Dritten aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates oder aus dem übrigen Gemeinschaftsgebiet in die in § 1 Abs. 3 bezeichneten Gebiete befördert oder versendet, so gilt die Lieferung nach Maßgabe der Absätze 2 bis 5 dort als ausgeführt, wo die Beförderung oder Versendung endet. Das gilt auch, wenn der Lieferer den Gegenstand in das Gemeinschaftsgebiet eingeführt hat.
+(1) Als Ort der Lieferung eines innergemeinschaftlichen Fernverkaufs gilt der Ort, an dem sich der Gegenstand bei Beendigung der Beförderung oder Versendung an den Erwerber befindet. Ein innergemeinschaftlicher Fernverkauf ist die Lieferung eines Gegenstands, der durch den Lieferer oder für dessen Rechnung aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates oder aus dem übrigen Gemeinschaftsgebiet in die in § 1 Absatz 3 bezeichneten Gebiete an den Erwerber befördert oder versandt wird, einschließlich jener Lieferung, an deren Beförderung oder Versendung der Lieferer indirekt beteiligt ist. Erwerber im Sinne des Satzes 2 ist ein in § 3a Absatz 5 Satz 1 bezeichneter Empfänger oder eine in § 1a Absatz 3 Nummer 1 genannte Person, die weder die maßgebende Erwerbsschwelle überschreitet noch auf ihre Anwendung verzichtet; im Fall der Beendigung der Beförderung oder Versendung im Gebiet eines anderen Mitgliedstaates ist die von diesem Mitgliedstaat festgesetzte Erwerbsschwelle maßgebend.
 
-(2) Absatz 1 ist anzuwenden, wenn der Abnehmer
+(2) Als Ort der Lieferung eines Fernverkaufs eines Gegenstands, der aus dem Drittlandsgebiet in einen anderen Mitgliedstaat als den, in dem die Beförderung oder Versendung des Gegenstands an den Erwerber endet, eingeführt wird, gilt der Ort, an dem sich der Gegenstand bei Beendigung der Beförderung oder Versendung an den Erwerber befindet. § 3 Absatz 3a Satz 4 und 5 gilt entsprechend.
 
-1. nicht zu den in § 1a Abs. 1 Nr. 2 genannten Personen gehört oder
+(3) Der Ort der Lieferung beim Fernverkauf eines Gegenstands, der aus dem Drittlandsgebiet in den Mitgliedstaat, in dem die Beförderung oder Versendung der Gegenstände an den Erwerber endet, eingeführt wird, gilt als in diesem Mitgliedstaat gelegen, sofern die Steuer auf diesen Gegenstand gemäß dem besonderen Besteuerungsverfahren nach § 18k zu erklären ist. § 3 Absatz 3a Satz 4 und 5 gilt entsprechend. Bei einem Fernverkauf nach § 3 Absatz 3a Satz 2 gilt Satz 1 für die Lieferung, der die Beförderung oder Versendung des Gegenstandes gemäß § 3 Absatz 6b zugeschrieben wird, entsprechend, auch wenn die Steuer auf diesen Gegenstand nicht gemäß dem besonderen Besteuerungsverfahren nach § 18k zu erklären ist und ein Unternehmer oder dessen Beauftragter Schuldner der Einfuhrumsatzsteuer für die Einfuhr des Gegenstands ist.
 
-2. a) ein Unternehmer ist, der nur steuerfreie Umsätze ausführt, die zum Ausschluss vom Vorsteuerabzug führen, oder
+(4) Absatz 1 ist nicht anzuwenden, wenn der leistende Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte oder in Ermangelung eines Sitzes, einer Geschäftsleitung oder einer Betriebsstätte seinen Wohnsitz oder gewöhnlichen Aufenthalt in nur einem Mitgliedstaat hat und der Gesamtbetrag der Entgelte der in § 3a Absatz 5 Satz 2 bezeichneten sonstigen Leistungen an in § 3a Absatz 5 Satz 1 bezeichnete Empfänger mit Wohnsitz, gewöhnlichem Aufenthalt oder Sitz in anderen Mitgliedstaaten sowie der innergemeinschaftlichen Fernverkäufe nach Absatz 1 Satz 2 und 3 insgesamt 10 000 Euro im vorangegangenen Kalenderjahr nicht überschritten hat und im laufenden Kalenderjahr nicht überschreitet. Der leistende Unternehmer kann dem Finanzamt erklären, dass er auf die Anwendung des Satzes 1 verzichtet. Die Erklärung bindet den Unternehmer mindestens für zwei Kalenderjahre.
 
-b) ein Kleinunternehmer ist, der nach dem Recht des für die Besteuerung zuständigen Mitgliedstaates von der Steuer befreit ist oder auf andere Weise von der Besteuerung ausgenommen ist, oder
+(5) Die Absätze 1 bis 3 gelten nicht für
 
-c) ein Unternehmer ist, der nach dem Recht des für die Besteuerung zuständigen Mitgliedstaates die Pauschalregelung für landwirtschaftliche Erzeuger anwendet, oder
+1. die Lieferung neuer Fahrzeuge,
 
-d) eine juristische Person ist, die nicht Unternehmer ist oder die den Gegenstand nicht für ihr Unternehmen erwirbt,
+2. die Lieferung eines Gegenstands, der mit oder ohne probeweise Inbetriebnahme durch den Lieferer oder für dessen Rechnung montiert oder installiert geliefert wird, und für
 
-und als einer der in den Buchstaben a bis d genannten Abnehmer weder die maßgebende Erwerbsschwelle überschreitet noch auf ihre Anwendung verzichtet. Im Fall der Beendigung der Beförderung oder Versendung im Gebiet eines anderen Mitgliedstaates ist die von diesem Mitgliedstaat festgesetzte Erwerbsschwelle maßgebend.
+3. die Lieferung eines Gegenstands, auf die die Differenzbesteuerung nach § 25a Absatz 1 oder 2 angewendet wird.
 
-(3) Absatz 1 ist nicht anzuwenden, wenn bei dem Lieferer der Gesamtbetrag der Entgelte, der den Lieferungen in einen Mitgliedstaat zuzurechnen ist, die maßgebliche Lieferschwelle im laufenden Kalenderjahr nicht überschreitet und im vorangegangen Kalenderjahr nicht überschritten hat. Maßgebende Lieferschwelle ist
+Bei verbrauchsteuerpflichtigen Waren gelten die Absätze 1 bis 3 nicht für Lieferungen an eine in § 1a Absatz 3 Nummer 1 genannte Person.
 
-1. im Fall der Beendigung der Beförderung oder Versendung im Inland oder in den in § 1 Abs. 3 bezeichneten Gebieten der Betrag von 100.000 Euro;
-
-2. im Fall der Beendigung der Beförderung oder Versendung im Gebiet eines anderen Mitgliedstaates der von diesem Mitgliedstaat festgesetzte Betrag.
-
-(4) Wird die maßgebende Lieferschwelle nicht überschritten, gilt die Lieferung auch dann am Ort der Beendigung der Beförderung oder Versendung als ausgeführt, wenn der Lieferer auf die Anwendung des Absatzes 3 verzichtet. Der Verzicht ist gegenüber der zuständigen Behörde zu erklären. Er bindet den Lieferer mindestens für zwei Kalenderjahre.
-
-(5) Die Absätze 1 bis 4 gelten nicht für die Lieferung neuer Fahrzeuge. Absatz 2 Nr. 2 und Absatz 3 gelten nicht für die Lieferung verbrauchsteuerpflichtiger Waren.
+(+++ § 3c: Zur Anwendung vgl. § 27 +++)
 
 # § 3d – Ort des innergemeinschaftlichen Erwerbs
 
@@ -1009,6 +1013,8 @@ Die Steuerbefreiung gilt nicht für Leistungen an Unternehmer, die diese zur Aus
 
 4b. die einer Einfuhr vorangehende Lieferung von Gegenständen, wenn der Abnehmer oder dessen Beauftragter den Gegenstand der Lieferung einführt. Dies gilt entsprechend für Lieferungen, die den in Satz 1 genannten Lieferungen vorausgegangen sind. Die Voraussetzungen der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht nachprüfbar nachgewiesen sein;
 
+4c. die Lieferung von Gegenständen an einen Unternehmer für sein Unternehmen, die dieser nach § 3 Absatz 3a Satz 1 im Gemeinschaftsgebiet weiterliefert;
+
 5. die Vermittlung
 
 a) der unter die Nummern 1 Buchstabe a, Nummern 2 bis 4b und Nummern 6 und 7 fallenden Umsätze,
@@ -1057,7 +1063,7 @@ f) die Umsätze und die Vermittlung der Umsätze von Anteilen an Gesellschaften 
 
 g) die Übernahme von Verbindlichkeiten, von Bürgschaften und anderen Sicherheiten sowie die Vermittlung dieser Umsätze,
 
-h) die Verwaltung von Organismen für gemeinsame Anlagen in Wertpapieren im Sinne des § 1 Absatz 2 des Kapitalanlagegesetzbuchs, die Verwaltung von mit diesen vergleichbaren alternativen Investmentfonds im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs und die Verwaltung von Versorgungseinrichtungen im Sinne des Versicherungsaufsichtsgesetzes,
+h) die Verwaltung von Organismen für gemeinsame Anlagen in Wertpapieren im Sinne des § 1 Absatz 2 des Kapitalanlagegesetzbuchs, die Verwaltung von mit diesen vergleichbaren alternativen Investmentfonds im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs, die Verwaltung von Wagniskapitalfonds und die Verwaltung von Versorgungseinrichtungen im Sinne des Versicherungsaufsichtsgesetzes,
 
 i) die Umsätze der im Inland gültigen amtlichen Wertzeichen zum aufgedruckten Wert;
 
@@ -1295,6 +1301,8 @@ b) die Gestellung von land- und forstwirtschaftlichen Arbeitskräften durch juri
 
 29. sonstige Leistungen von selbständigen, im Inland ansässigen Zusammenschlüssen von Personen, deren Mitglieder eine dem Gemeinwohl dienende nichtunternehmerische Tätigkeit oder eine dem Gemeinwohl dienende Tätigkeit ausüben, die nach den Nummern 11b, 14 bis 18, 20 bis 25 oder 27 von der Steuer befreit ist, gegenüber ihren im Inland ansässigen Mitgliedern, soweit diese Leistungen für unmittelbare Zwecke der Ausübung dieser Tätigkeiten verwendet werden und der Zusammenschluss von seinen Mitgliedern lediglich die genaue Erstattung des jeweiligen Anteils an den gemeinsamen Kosten fordert, vorausgesetzt, dass diese Befreiung nicht zu einer Wettbewerbsverzerrung führt.
 
+(+++ § 4: Zur Anwendung vgl. § 27 +++)
+
 # § 4a – Steuervergütung
 
 (1) Körperschaften, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke verfolgen (§§ 51 bis 68 der Abgabenordnung), und juristischen Personen des öffentlichen Rechts wird auf Antrag eine Steuervergütung zum Ausgleich der Steuer gewährt, die auf der an sie bewirkten Lieferung eines Gegenstands, seiner Einfuhr oder seinem innergemeinschaftlichen Erwerb lastet, wenn die folgenden Voraussetzungen erfüllt sind:
@@ -1353,7 +1361,9 @@ c) nachzuweisen, dass die Gegenstände zur Beförderung oder Versendung in das �
 
 5. der in der Anlage 1 bezeichneten Gegenstände, wenn die Einfuhr im Zusammenhang mit einer Lieferung steht, die zu einer Auslagerung im Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 führt und der Lieferer oder sein Beauftragter Schuldner der Einfuhrumsatzsteuer ist; der Schuldner der Einfuhrumsatzsteuer hat die Voraussetzungen der Steuerbefreiung nachzuweisen;
 
-6. von Erdgas über das Erdgasnetz oder von Erdgas, das von einem Gastanker aus in das Erdgasnetz oder ein vorgelagertes Gasleitungsnetz eingespeist wird, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze.
+6. von Erdgas über das Erdgasnetz oder von Erdgas, das von einem Gastanker aus in das Erdgasnetz oder ein vorgelagertes Gasleitungsnetz eingespeist wird, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze;
+
+7. von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro, für die die Steuer im Rahmen des besonderen Besteuerungsverfahrens nach § 18k zu erklären ist und für die in der Anmeldung zur Überlassung in den freien Verkehr die nach Artikel 369q der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1) in der jeweils geltenden Fassung von einem Mitgliedstaat der Europäischen Union erteilte individuelle Identifikationsnummer des Lieferers oder die dem in seinem Auftrag handelnden Vertreter für diesen Lieferer erteilte individuelle Identifikationsnummer angegeben wird.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Erleichterung des Warenverkehrs über die Grenze und zur Vereinfachung der Verwaltung Steuerfreiheit oder Steuerermäßigung anordnen
 
@@ -1374,6 +1384,8 @@ c) nachzuweisen, dass die Gegenstände zur Beförderung oder Versendung in das �
 8. für Gegenstände, die weder zum Handel noch zur gewerblichen Verwendung bestimmt und insgesamt nicht mehr wert sind, als in Rechtsakten des Rates der Europäischen Union oder der Europäischen Kommission über die Verzollung zum Pauschalsatz festgelegt ist, soweit dadurch schutzwürdige Interessen der inländischen Wirtschaft nicht verletzt werden und keine unangemessenen Steuervorteile entstehen. Es hat dabei Rechtsakte des Rates der Europäischen Union oder der Europäischen Kommission zu berücksichtigen.
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, anordnen, dass unter den sinngemäß anzuwendenden Voraussetzungen von Rechtsakten des Rates der Europäischen Union oder der Europäischen Kommission über die Erstattung oder den Erlass von Einfuhrabgaben die Einfuhrumsatzsteuer ganz oder teilweise erstattet oder erlassen wird.
+
+(+++ § 5: Zur Anwendung vgl. § 27 +++)
 
 # § 6 – Ausfuhrlieferung
 
@@ -1688,7 +1700,15 @@ c) in den Fällen der Beförderungseinzelbesteuerung nach § 16 Abs. 5 in dem Ze
 
 d) in den Fällen des § 18 Abs. 4c mit Ablauf des Besteuerungszeitraums nach § 16 Abs. 1a Satz 1, in dem die Leistungen ausgeführt worden sind,
 
-e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach § 16 Absatz 1b Satz 1, in dem die Leistungen ausgeführt worden sind;
+e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach § 16 Absatz 1b Satz 1, in dem die Leistungen ausgeführt worden sind,
+
+f) in den Fällen des § 18i mit Ablauf des Besteuerungszeitraums nach § 16 Absatz 1c Satz 1, in dem die Leistungen ausgeführt worden sind,
+
+g) in den Fällen des § 18j vorbehaltlich des Buchstabens i mit Ablauf des Besteuerungszeitraums nach § 16 Absatz 1d Satz 1, in dem die Leistungen ausgeführt worden sind,
+
+h) in den Fällen des § 18k mit Ablauf des Besteuerungszeitraums nach § 16 Absatz 1e Satz 1, in dem die Lieferungen ausgeführt worden sind; die Gegenstände gelten als zu dem Zeitpunkt geliefert, zu dem die Zahlung angenommen wurde,
+
+i) in den Fällen des § 3 Absatz 3a zu dem Zeitpunkt, zu dem die Zahlung angenommen wurde;
 
 2. für Leistungen im Sinne des § 3 Abs. 1b und 9a mit Ablauf des Voranmeldungszeitraums, in dem diese Leistungen ausgeführt worden sind;
 
@@ -1710,6 +1730,8 @@ e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach 
 
 (3) (weggefallen)
 
+(+++ § 13: Zur Anwendung vgl. § 27 +++)
+
 # § 13a – Steuerschuldner
 
 (1) Steuerschuldner ist in den Fällen
@@ -1724,7 +1746,9 @@ e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach 
 
 5. des § 25b Abs. 2 der letzte Abnehmer;
 
-6. des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 der Unternehmer, dem die Auslagerung zuzurechnen ist (Auslagerer); daneben auch der Lagerhalter als Gesamtschuldner, wenn er entgegen § 22 Abs. 4c Satz 2 die inländische Umsatzsteuer-Identifikationsnummer des Auslagerers oder dessen Fiskalvertreters nicht oder nicht zutreffend aufzeichnet.
+6. des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 der Unternehmer, dem die Auslagerung zuzurechnen ist (Auslagerer); daneben auch der Lagerhalter als Gesamtschuldner, wenn er entgegen § 22 Abs. 4c Satz 2 die inländische Umsatzsteuer-Identifikationsnummer des Auslagerers oder dessen Fiskalvertreters nicht oder nicht zutreffend aufzeichnet;
+
+7. des § 18k neben dem Unternehmer der im Gemeinschaftsgebiet ansässige Vertreter, sofern ein solcher vom Unternehmer vertraglich bestellt und dies der Finanzbehörde nach § 18k Absatz 1 Satz 2 angezeigt wurde. Der Vertreter ist gleichzeitig Empfangsbevollmächtigter für den Unternehmer und dadurch ermächtigt, alle Verwaltungsakte und Mitteilungen der Finanzbehörde in Empfang zu nehmen, die mit dem Besteuerungsverfahren nach § 18k und einem außergerichtlichen Rechtsbehelfsverfahren nach dem Siebenten Teil der Abgabenordnung zusammenhängen. Bei der Bekanntgabe an den Vertreter ist darauf hinzuweisen, dass sie auch mit Wirkung für und gegen den Unternehmer erfolgt. Die Empfangsbevollmächtigung des Vertreters kann nur nach Beendigung des Vertragsverhältnisses und mit Wirkung für die Zukunft widerrufen werden. Der Widerruf wird gegenüber der Finanzbehörde erst wirksam, wenn er ihr zugegangen ist.
 
 (2) Für die Einfuhrumsatzsteuer gilt § 21 Abs. 2.
 
@@ -1874,7 +1898,7 @@ In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwe
 
 (1) Hat der Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte, von der aus der Umsatz ausgeführt wird, oder in Ermangelung eines Sitzes seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland und führt er einen Umsatz in einem anderen Mitgliedstaat aus, an dem eine Betriebsstätte in diesem Mitgliedstaat nicht beteiligt ist, so ist er zur Ausstellung einer Rechnung mit der Angabe „Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet, wenn die Steuer in dem anderen Mitgliedstaat von dem Leistungsempfänger geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 2 vereinbart worden ist. Führt der Unternehmer eine sonstige Leistung im Sinne des § 3a Absatz 2 in einem anderen Mitgliedstaat aus, so ist die Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, auszustellen. In dieser Rechnung sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Wird eine Abrechnung durch Gutschrift gemäß § 14 Absatz 2 Satz 2 über eine sonstige Leistung im Sinne des § 3a Absatz 2 vereinbart, die im Inland ausgeführt wird und für die der Leistungsempfänger die Steuer nach § 13b Absatz 1 und 5 schuldet, sind die Sätze 2 und 3 und Absatz 5 entsprechend anzuwenden.
 
-(2) Führt der Unternehmer eine Lieferung im Sinne des § 3c im Inland aus, ist er zur Ausstellung einer Rechnung verpflichtet.
+(2) Führt der Unternehmer eine Lieferung im Sinne des § 3c Absatz 1 im Inland aus, ist er zur Ausstellung einer Rechnung verpflichtet. Satz 1 gilt nicht, wenn der Unternehmer an dem besonderen Besteuerungsverfahren nach § 18j teilnimmt.
 
 (3) Führt der Unternehmer eine innergemeinschaftliche Lieferung aus, ist er zur Ausstellung einer Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, verpflichtet. In der Rechnung sind auch die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Satz 1 gilt auch für Fahrzeuglieferer (§ 2a). Satz 2 gilt nicht in den Fällen der §§ 1b und 2a.
 
@@ -1885,6 +1909,8 @@ In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwe
 (6) In den Fällen der Besteuerung von Reiseleistungen nach § 25 hat die Rechnung die Angabe „Sonderregelung für Reisebüros“ und in den Fällen der Differenzbesteuerung nach § 25a die Angabe „Gebrauchtgegenstände/Sonderregelung“, „Kunstgegenstände/Sonderregelung“ oder „Sammlungsstücke und Antiquitäten/Sonderregelung“ zu enthalten. In den Fällen des § 25 Abs. 3 und des § 25a Abs. 3 und 4 findet die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) keine Anwendung.
 
 (7) Wird in einer Rechnung über eine Lieferung im Sinne des § 25b Abs. 2 abgerechnet, ist auch auf das Vorliegen eines innergemeinschaftlichen Dreiecksgeschäfts und die Steuerschuldnerschaft des letzten Abnehmers hinzuweisen. Dabei sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) findet keine Anwendung.
+
+(+++ § 14a: Zur Anwendung vgl. § 27 +++)
 
 # § 14b – Aufbewahrung von Rechnungen
 
@@ -2024,6 +2050,12 @@ c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten 
 
 (1b) Macht ein im übrigen Gemeinschaftsgebiet ansässiger Unternehmer (§ 13b Absatz 7 Satz 2) von § 18 Absatz 4e Gebrauch, ist Besteuerungszeitraum das Kalendervierteljahr. Bei der Berechnung der Steuer ist von der Summe der Umsätze nach § 3a Absatz 5 auszugehen, die im Inland steuerbar sind, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Absatz 2 ist nicht anzuwenden.
 
+(1c) Macht ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer von § 18i Gebrauch, ist Besteuerungszeitraum das Kalendervierteljahr. Sofern die Teilnahme an dem Verfahren nach § 18i im Inland angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 auszugehen, die im Gemeinschaftsgebiet steuerbar sind, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Sofern die Teilnahme an dem Verfahren nach § 18i in einem anderen Mitgliedstaat der Europäischen Union angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 auszugehen, die im Inland steuerbar sind, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Absatz 2 ist nicht anzuwenden.
+
+(1d) Macht ein Unternehmer von § 18j Gebrauch, ist Besteuerungszeitraum das Kalendervierteljahr. Sofern die Teilnahme an dem Verfahren nach § 18j im Inland angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der Lieferungen nach § 3 Absatz 3a Satz 1 innerhalb eines Mitgliedstaates und der innergemeinschaftlichen Fernverkäufe nach § 3c Absatz 1 Satz 2 und 3, die im Gemeinschaftsgebiet steuerbar sind, sowie der sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1, die in einem anderen Mitgliedstaat der Europäischen Union steuerbar sind, auszugehen, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Sofern die Teilnahme an dem Verfahren nach § 18j in einem anderen Mitgliedstaat der Europäischen Union angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der Lieferungen nach § 3 Absatz 3a Satz 1 innerhalb eines Mitgliedstaates, der innergemeinschaftlichen Fernverkäufe nach § 3c Absatz 1 Satz 2 und 3 und der sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 auszugehen, die im Inland steuerbar sind, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Absatz 2 ist nicht anzuwenden.
+
+(1e) Macht ein Unternehmer oder ein in seinem Auftrag handelnder Vertreter von § 18k Gebrauch, ist Besteuerungszeitraum der Kalendermonat. Sofern die Teilnahme an dem Verfahren nach § 18k im Inland angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der Fernverkäufe nach § 3 Absatz 3a Satz 2 und § 3c Absatz 2 und 3, die im Gemeinschaftsgebiet steuerbar sind, auszugehen, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Sofern die Teilnahme an dem Verfahren nach § 18k in einem anderen Mitgliedstaat der Europäischen Union angezeigt wurde, ist bei der Berechnung der Steuer von der Summe der Fernverkäufe nach § 3 Absatz 3a Satz 2 und § 3c Absatz 2 und 3 auszugehen, die im Inland steuerbar sind, soweit für sie in dem Besteuerungszeitraum die Steuer entstanden und die Steuerschuldnerschaft gegeben ist. Absatz 2 ist nicht anzuwenden.
+
 (2) Von der nach Absatz 1 berechneten Steuer sind vorbehaltlich des § 18 Absatz 9 Satz 3 die in den Besteuerungszeitraum fallenden, nach § 15 abziehbaren Vorsteuerbeträge abzusetzen. § 15a ist zu berücksichtigen.
 
 (3) Hat der Unternehmer seine gewerbliche oder berufliche Tätigkeit nur in einem Teil des Kalenderjahres ausgeübt, so tritt dieser Teil an die Stelle des Kalenderjahres.
@@ -2036,7 +2068,7 @@ c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten 
 
 (5b) Auf Antrag des Unternehmers ist nach Ablauf des Besteuerungszeitraums an Stelle der Beförderungseinzelbesteuerung (Absatz 5) die Steuer nach den Absätzen 1 und 2 zu berechnen. Die Absätze 3 und 4 gelten entsprechend.
 
-(6) Werte in fremder Währung sind zur Berechnung der Steuer und der abziehbaren Vorsteuerbeträge auf Euro nach den Durchschnittskursen umzurechnen, die das Bundesministerium der Finanzen für den Monat öffentlich bekanntgibt, in dem die Leistung ausgeführt oder das Entgelt oder ein Teil des Entgelts vor Ausführung der Leistung (§ 13 Abs. 1 Nr. 1 Buchstabe a Satz 4) vereinnahmt wird. Ist dem leistenden Unternehmer die Berechnung der Steuer nach vereinnahmten Entgelten gestattet (§ 20), so sind die Entgelte nach den Durchschnittskursen des Monats umzurechnen, in dem sie vereinnahmt werden. Das Finanzamt kann die Umrechnung nach dem Tageskurs, der durch Bankmitteilung oder Kurszettel nachzuweisen ist, gestatten. Macht ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer von § 18 Absatz 4c Gebrauch, hat er zur Berechnung der Steuer Werte in fremder Währung nach den Kursen umzurechnen, die für den letzten Tag des Besteuerungszeitraums nach Absatz 1a Satz 1 von der Europäischen Zentralbank festgestellt worden sind; macht ein im übrigen Gemeinschaftsgebiet (§ 13b Absatz 7 Satz 2) ansässiger Unternehmer von § 18 Absatz 4e Gebrauch, hat er zur Berechnung der Steuer Werte in fremder Währung nach den Kursen umzurechnen, die für den letzten Tag des Besteuerungszeitraums nach Absatz 1b Satz 1 von der Europäischen Zentralbank festgestellt worden sind. Sind für die in Satz 4 genannten Tage keine Umrechnungskurse festgestellt worden, hat der Unternehmer die Steuer nach den für den nächsten Tag nach Ablauf des Besteuerungszeitraums nach Absatz 1a Satz 1 oder Absatz 1b Satz 1 von der Europäischen Zentralbank festgestellten Umrechnungskursen umzurechnen.
+(6) Werte in fremder Währung sind zur Berechnung der Steuer und der abziehbaren Vorsteuerbeträge auf Euro nach den Durchschnittskursen umzurechnen, die das Bundesministerium der Finanzen für den Monat öffentlich bekanntgibt, in dem die Leistung ausgeführt oder das Entgelt oder ein Teil des Entgelts vor Ausführung der Leistung (§ 13 Abs. 1 Nr. 1 Buchstabe a Satz 4) vereinnahmt wird. Ist dem leistenden Unternehmer die Berechnung der Steuer nach vereinnahmten Entgelten gestattet (§ 20), so sind die Entgelte nach den Durchschnittskursen des Monats umzurechnen, in dem sie vereinnahmt werden. Das Finanzamt kann die Umrechnung nach dem Tageskurs, der durch Bankmitteilung oder Kurszettel nachzuweisen ist, gestatten. Macht ein Unternehmer von § 18 Absatz 4c oder 4e oder den §§ 18i, 18j oder 18k Gebrauch, hat er zur Berechnung der Steuer Werte in fremder Währung nach den Kursen umzurechnen, die für den letzten Tag des Besteuerungszeitraums nach Absatz 1a Satz 1, Absatz 1b Satz 1, Absatz 1c Satz 1, Absatz 1d Satz 1 oder Absatz 1e Satz 1 von der Europäischen Zentralbank festgestellt worden sind. Sind für die in Satz 4 genannten Tage keine Umrechnungskurse festgestellt worden, hat der Unternehmer die Steuer nach den für den nächsten Tag nach Ablauf des Besteuerungszeitraums nach Absatz 1a Satz 1, Absatz 1b Satz 1, Absatz 1c Satz 1, Absatz 1d Satz 1 oder Absatz 1e Satz 1 von der Europäischen Zentralbank festgestellten Umrechnungskursen umzurechnen.
 
 (7) Für die Einfuhrumsatzsteuer gelten § 11 Abs. 5 und § 21 Abs. 2.
 
@@ -2064,7 +2096,7 @@ c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten 
 
 # § 18 – Besteuerungsverfahren
 
-(1) Der Unternehmer hat bis zum 10. Tag nach Ablauf jedes Voranmeldungszeitraums eine Voranmeldung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die Steuer für den Voranmeldungszeitraum (Vorauszahlung) selbst zu berechnen hat. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer eine Voranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 16 Abs. 1 und 2 und § 17 sind entsprechend anzuwenden. Die Vorauszahlung ist am 10. Tag nach Ablauf des Voranmeldungszeitraums fällig.
+(1) Der Unternehmer hat vorbehaltlich des § 18i Absatz 3, des § 18j Absatz 4 und des § 18k Absatz 4 bis zum zehnten Tag nach Ablauf jedes Voranmeldungszeitraums eine Voranmeldung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die Steuer für den Voranmeldungszeitraum (Vorauszahlung) selbst zu berechnen hat. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer eine Voranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 16 Abs. 1 und 2 und § 17 sind entsprechend anzuwenden. Die Vorauszahlung ist am zehnten Tag nach Ablauf des Voranmeldungszeitraums fällig und bis dahin vom Unternehmer zu entrichten.
 
 (2) Voranmeldungszeitraum ist das Kalendervierteljahr. Beträgt die Steuer für das vorangegangene Kalenderjahr mehr als 7 500 Euro, ist der Kalendermonat Voranmeldungszeitraum. Beträgt die Steuer für das vorangegangene Kalenderjahr nicht mehr als 1 000 Euro, kann das Finanzamt den Unternehmer von der Verpflichtung zur Abgabe der Voranmeldungen und Entrichtung der Vorauszahlungen befreien. Nimmt der Unternehmer seine berufliche oder gewerbliche Tätigkeit auf, ist im laufenden und folgenden Kalenderjahr Voranmeldungszeitraum der Kalendermonat. Daneben ist im laufenden und folgenden Kalenderjahr in folgenden Fällen Voranmeldungszeitraum der Kalendermonat:
 
@@ -2076,21 +2108,21 @@ Für die Besteuerungszeiträume 2021 bis 2026 ist abweichend von Satz 4 in den F
 
 (2a) Der Unternehmer kann an Stelle des Kalendervierteljahres den Kalendermonat als Voranmeldungszeitraum wählen, wenn sich für das vorangegangene Kalenderjahr ein Überschuss zu seinen Gunsten von mehr als 7 500 Euro ergibt. In diesem Fall hat der Unternehmer bis zum 10. Februar des laufenden Kalenderjahres eine Voranmeldung für den ersten Kalendermonat abzugeben. Die Ausübung des Wahlrechts bindet den Unternehmer für dieses Kalenderjahr. Absatz 2 Satz 6 gilt entsprechend.
 
-(3) Der Unternehmer hat für das Kalenderjahr oder für den kürzeren Besteuerungszeitraum eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die zu entrichtende Steuer oder den Überschuss, der sich zu seinen Gunsten ergibt, nach § 16 Absatz 1 bis 4 und § 17 selbst zu berechnen hat (Steueranmeldung). In den Fällen des § 16 Absatz 3 und 4 ist die Steueranmeldung binnen einem Monat nach Ablauf des kürzeren Besteuerungszeitraums zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben und eigenhändig zu unterschreiben.
+(3) Der Unternehmer hat vorbehaltlich des § 18i Absatz 3, des § 18j Absatz 4 und des § 18k Absatz 4 für das Kalenderjahr oder für den kürzeren Besteuerungszeitraum eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die zu entrichtende Steuer oder den Überschuss, der sich zu seinen Gunsten ergibt, nach § 16 Absatz 1 bis 4 und § 17 selbst zu berechnen hat (Steueranmeldung). In den Fällen des § 16 Absatz 3 und 4 ist die Steueranmeldung binnen einem Monat nach Ablauf des kürzeren Besteuerungszeitraums zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben und eigenhändig zu unterschreiben.
 
-(4) Berechnet der Unternehmer die zu entrichtende Steuer oder den Überschuss in der Steueranmeldung für das Kalenderjahr abweichend von der Summe der Vorauszahlungen, so ist der Unterschiedsbetrag zugunsten des Finanzamts einen Monat nach dem Eingang der Steueranmeldung fällig. Setzt das Finanzamt die zu entrichtende Steuer oder den Überschuss abweichend von der Steueranmeldung für das Kalenderjahr fest, so ist der Unterschiedsbetrag zugunsten des Finanzamts einen Monat nach der Bekanntgabe des Steuerbescheids fällig. Die Fälligkeit rückständiger Vorauszahlungen (Absatz 1) bleibt von den Sätzen 1 und 2 unberührt.
+(4) Berechnet der Unternehmer die zu entrichtende Steuer oder den Überschuss in der Steueranmeldung für das Kalenderjahr abweichend von der Summe der Vorauszahlungen, so ist der Unterschiedsbetrag zugunsten des Finanzamts einen Monat nach dem Eingang der Steueranmeldung fällig und bis dahin vom Unternehmer zu entrichten. Setzt das Finanzamt die zu entrichtende Steuer oder den Überschuss abweichend von der Steueranmeldung für den Voranmeldungszeitraum oder für das Kalenderjahr oder auf Grund unterbliebener Abgabe der Steueranmeldung fest, so ist der Unterschiedsbetrag zugunsten des Finanzamts einen Monat nach der Bekanntgabe des Steuerbescheids fällig und bis dahin vom Unternehmer zu entrichten. Die Fälligkeit rückständiger Vorauszahlungen (Absatz 1) bleibt von den Sätzen 1 und 2 unberührt.
 
 (4a) Voranmeldungen (Absätze 1 und 2) und eine Steuererklärung (Absätze 3 und 4) haben auch die Unternehmer und juristischen Personen abzugeben, die ausschließlich Steuer für Umsätze nach § 1 Abs. 1 Nr. 5, § 13b Absatz 5 oder § 25b Abs. 2 zu entrichten haben, sowie Fahrzeuglieferer (§ 2a). Voranmeldungen sind nur für die Voranmeldungszeiträume abzugeben, in denen die Steuer für diese Umsätze zu erklären ist. Die Anwendung des Absatzes 2a ist ausgeschlossen.
 
 (4b) Für Personen, die keine Unternehmer sind und Steuerbeträge nach § 6a Abs. 4 Satz 2 oder nach § 14c Abs. 2 schulden, gilt Absatz 4a entsprechend.
 
-(4c) Ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer, der als Steuerschuldner Umsätze nach § 3a Absatz 5 im Gemeinschaftsgebiet erbringt, kann abweichend von den Absätzen 1 bis 4 für jeden Besteuerungszeitraum (§ 16 Absatz 1a Satz 1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bis zum 20. Tag nach Ablauf jedes Besteuerungszeitraums dem Bundeszentralamt für Steuern übermitteln, in der er die Steuer für die vorgenannten Umsätze selbst zu berechnen hat. Die Steuer ist am 20. Tag nach Ablauf des Besteuerungszeitraums fällig. Die Ausübung des Wahlrechts hat der Unternehmer auf dem amtlich vorgeschriebenen, elektronisch zu übermittelnden Dokument dem Bundeszentralamt für Steuern anzuzeigen, bevor er Umsätze nach § 3a Abs. 5 im Gemeinschaftsgebiet erbringt. Das Wahlrecht kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber dem Bundeszentralamt für Steuern auf elektronischem Weg zu erklären. Kommt der Unternehmer seinen Verpflichtungen nach den Sätzen 1 bis 3 oder § 22 Abs. 1 wiederholt nicht oder nicht rechtzeitig nach, schließt ihn das Bundeszentralamt für Steuern von dem Besteuerungsverfahren nach Satz 1 aus. Der Ausschluss gilt ab dem Besteuerungszeitraum, der nach dem Zeitpunkt der Bekanntgabe des Ausschlusses gegenüber dem Unternehmer beginnt.
+(4c) Ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer, der vor dem 1. Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im Gemeinschaftsgebiet erbringt, kann abweichend von den Absätzen 1 bis 4 für jeden Besteuerungszeitraum (§ 16 Absatz 1a Satz 1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bis zum 20. Tag nach Ablauf jedes Besteuerungszeitraums dem Bundeszentralamt für Steuern übermitteln, in der er die Steuer für die vorgenannten Umsätze selbst zu berechnen hat (Steueranmeldung). Die Steuer ist am 20. Tag nach Ablauf des Besteuerungszeitraums fällig und bis dahin vom Unternehmer zu entrichten. Die Ausübung des Wahlrechts hat der Unternehmer auf dem amtlich vorgeschriebenen, elektronisch zu übermittelnden Dokument dem Bundeszentralamt für Steuern anzuzeigen, bevor er Umsätze nach § 3a Abs. 5 im Gemeinschaftsgebiet erbringt. Das Wahlrecht kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber dem Bundeszentralamt für Steuern auf elektronischem Weg zu erklären. Kommt der Unternehmer seinen Verpflichtungen nach den Sätzen 1 bis 3 oder § 22 Abs. 1 wiederholt nicht oder nicht rechtzeitig nach, schließt ihn das Bundeszentralamt für Steuern von dem Besteuerungsverfahren nach Satz 1 aus. Der Ausschluss gilt ab dem Besteuerungszeitraum, der nach dem Zeitpunkt der Bekanntgabe des Ausschlusses gegenüber dem Unternehmer beginnt.
 
-(4d) Für nicht im Gemeinschaftsgebiet ansässige Unternehmer, die im Inland im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) als Steuerschuldner Umsätze nach § 3a Absatz 5 erbringen und diese Umsätze in einem anderen Mitgliedstaat erklären sowie die darauf entfallende Steuer entrichten, gelten insoweit die Absätze 1 bis 4 nicht.
+(4d) Für nicht im Gemeinschaftsgebiet ansässige Unternehmer, die vor dem 1. Juli 2021 im Inland im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) als Steuerschuldner Umsätze nach § 3a Absatz 5 erbringen und diese Umsätze in einem anderen Mitgliedstaat erklären sowie die darauf entfallende Steuer entrichten, gelten insoweit die Absätze 1 bis 4 nicht.
 
-(4e) Ein im übrigen Gemeinschaftsgebiet ansässiger Unternehmer (§ 13b Absatz 7 Satz 2), der als Steuerschuldner Umsätze nach § 3a Absatz 5 im Inland erbringt, kann abweichend von den Absätzen 1 bis 4 für jeden Besteuerungszeitraum (§ 16 Absatz 1b Satz 1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bis zum 20. Tag nach Ablauf jedes Besteuerungszeitraums übermitteln, in der er die Steuer für die vorgenannten Umsätze selbst zu berechnen hat; dies gilt nur, wenn der Unternehmer im Inland, auf der Insel Helgoland und in einem der in § 1 Absatz 3 bezeichneten Gebiete weder seinen Sitz, seine Geschäftsleitung noch eine Betriebsstätte hat. Die Steuererklärung ist der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union zu übermitteln, in dem der Unternehmer ansässig ist; diese Steuererklärung ist ab dem Zeitpunkt eine Steueranmeldung im Sinne des § 150 Absatz 1 Satz 3 und des § 168 der Abgabenordnung, zu dem die in ihr enthaltenen Daten von der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union, an die der Unternehmer die Steuererklärung übermittelt hat, dem Bundeszentralamt für Steuern übermittelt und dort in bearbeitbarer Weise aufgezeichnet wurden. Satz 2 gilt für die Berichtigung einer Steuererklärung entsprechend. Die Steuer ist am 20. Tag nach Ablauf des Besteuerungszeitraums fällig. Die Ausübung des Wahlrechts nach Satz 1 hat der Unternehmer in dem amtlich vorgeschriebenen, elektronisch zu übermittelnden Dokument der Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, vor Beginn des Besteuerungszeitraums anzuzeigen, ab dessen Beginn er von dem Wahlrecht Gebrauch macht. Das Wahlrecht kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber der Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, auf elektronischem Weg zu erklären. Kommt der Unternehmer seinen Verpflichtungen nach den Sätzen 1 bis 5 oder § 22 Absatz 1 wiederholt nicht oder nicht rechtzeitig nach, schließt ihn die zuständige Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, von dem Besteuerungsverfahren nach Satz 1 aus. Der Ausschluss gilt ab dem Besteuerungszeitraum, der nach dem Zeitpunkt der Bekanntgabe des Ausschlusses gegenüber dem Unternehmer beginnt. Die Steuererklärung nach Satz 1 gilt als fristgemäß übermittelt, wenn sie bis zum 20. Tag nach Ablauf des Besteuerungszeitraums (§ 16 Absatz 1b Satz 1) der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union übermittelt worden ist, in dem der Unternehmer ansässig ist, und dort in bearbeitbarer Weise aufgezeichnet wurde. Die Entrichtung der Steuer erfolgt entsprechend Satz 4 fristgemäß, wenn die Zahlung bis zum 20. Tag nach Ablauf des Besteuerungszeitraums (§ 16 Absatz 1b Satz 1) bei der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, eingegangen ist. § 240 der Abgabenordnung ist mit der Maßgabe anzuwenden, dass eine Säumnis frühestens mit Ablauf des 10. Tages nach Ablauf des auf den Besteuerungszeitraum (§ 16 Absatz 1b Satz 1) folgenden übernächsten Monats eintritt.
+(4e) Ein im übrigen Gemeinschaftsgebiet ansässiger Unternehmer (§ 13b Absatz 7 Satz 2), der vor dem 1. Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im Inland erbringt, kann abweichend von den Absätzen 1 bis 4 für jeden Besteuerungszeitraum (§ 16 Absatz 1b Satz 1) eine Steuererklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung bis zum 20. Tag nach Ablauf jedes Besteuerungszeitraums übermitteln, in der er die Steuer für die vorgenannten Umsätze selbst zu berechnen hat; dies gilt nur, wenn der Unternehmer im Inland, auf der Insel Helgoland und in einem der in § 1 Absatz 3 bezeichneten Gebiete weder seinen Sitz, seine Geschäftsleitung noch eine Betriebsstätte hat. Die Steuererklärung ist der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union zu übermitteln, in dem der Unternehmer ansässig ist; diese Steuererklärung ist ab dem Zeitpunkt eine Steueranmeldung im Sinne des § 150 Absatz 1 Satz 3 und des § 168 der Abgabenordnung, zu dem die in ihr enthaltenen Daten von der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union, an die der Unternehmer die Steuererklärung übermittelt hat, dem Bundeszentralamt für Steuern übermittelt und dort in bearbeitbarer Weise aufgezeichnet wurden. Satz 2 gilt für die Berichtigung einer Steuererklärung entsprechend. Die Steuer ist am 20. Tag nach Ablauf des Besteuerungszeitraums fällig und bis dahin vom Unternehmer zu entrichten. Die Ausübung des Wahlrechts nach Satz 1 hat der Unternehmer in dem amtlich vorgeschriebenen, elektronisch zu übermittelnden Dokument der Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, vor Beginn des Besteuerungszeitraums anzuzeigen, ab dessen Beginn er von dem Wahlrecht Gebrauch macht. Das Wahlrecht kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber der Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, auf elektronischem Weg zu erklären. Kommt der Unternehmer seinen Verpflichtungen nach den Sätzen 1 bis 5 oder § 22 Absatz 1 wiederholt nicht oder nicht rechtzeitig nach, schließt ihn die zuständige Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, von dem Besteuerungsverfahren nach Satz 1 aus. Der Ausschluss gilt ab dem Besteuerungszeitraum, der nach dem Zeitpunkt der Bekanntgabe des Ausschlusses gegenüber dem Unternehmer beginnt. Die Steuererklärung nach Satz 1 gilt als fristgemäß übermittelt, wenn sie bis zum 20. Tag nach Ablauf des Besteuerungszeitraums (§ 16 Absatz 1b Satz 1) der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union übermittelt worden ist, in dem der Unternehmer ansässig ist, und dort in bearbeitbarer Weise aufgezeichnet wurde. Die Entrichtung der Steuer erfolgt entsprechend Satz 4 fristgemäß, wenn die Zahlung bis zum 20. Tag nach Ablauf des Besteuerungszeitraums (§ 16 Absatz 1b Satz 1) bei der zuständigen Steuerbehörde des Mitgliedstaates der Europäischen Union, in dem der Unternehmer ansässig ist, eingegangen ist. § 240 der Abgabenordnung ist mit der Maßgabe anzuwenden, dass eine Säumnis frühestens mit Ablauf des 10. Tages nach Ablauf des auf den Besteuerungszeitraum (§ 16 Absatz 1b Satz 1) folgenden übernächsten Monats eintritt.
 
-(4f) Soweit Organisationseinheiten der Gebietskörperschaften Bund und Länder durch ihr Handeln eine Erklärungspflicht begründen, obliegen der jeweiligen Organisationseinheit für die Umsatzbesteuerung alle steuerlichen Rechte und Pflichten. In den in § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung genannten Verfahren tritt die Organisationseinheit insoweit an die Stelle der Gebietskörperschaft. § 2 Absatz 1 Satz 2 bleibt unberührt. Die Organisationseinheiten können jeweils für ihren Geschäftsbereich durch Organisationsentscheidungen weitere untergeordnete Organisationseinheiten mit Wirkung für die Zukunft bilden. Einer Organisationseinheit übergeordnete Organisationseinheiten können durch Organisationsentscheidungen mit Wirkung für die Zukunft die in Satz 1 genannten Rechte und Pflichten der untergeordneten Organisationseinheit wahrnehmen oder mehrere Organisationseinheiten zu einer Organisationseinheit zusammenschließen. Die in § 1a Absatz 3 Nummer 2, § 2b Absatz 2 Nummer 1, § 3a Absatz 5 Satz 3, § 18 Absatz 2 Satz 2, § 18a Absatz 1 Satz 2, § 19 Absatz 1 und § 20 Absatz 1 Satz 1 Nummer 1 genannten Betragsgrenzen gelten für Organisationseinheiten stets als überschritten. Wahlrechte, deren Rechtsfolgen das gesamte Unternehmen der Gebietskörperschaft erfassen, können nur einheitlich ausgeübt werden. Die Gebietskörperschaft kann gegenüber dem für sie zuständigen Finanzamt mit Wirkung für die Zukunft erklären, dass die Sätze 1 bis 5 nicht zur Anwendung kommen sollen; ein Widerruf ist nur mit Wirkung für die Zukunft möglich.
+(4f) Soweit Organisationseinheiten der Gebietskörperschaften Bund und Länder durch ihr Handeln eine Erklärungspflicht begründen, obliegen der jeweiligen Organisationseinheit für die Umsatzbesteuerung alle steuerlichen Rechte und Pflichten. In den in § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung genannten Verfahren tritt die Organisationseinheit insoweit an die Stelle der Gebietskörperschaft. § 2 Absatz 1 Satz 2 bleibt unberührt. Die Organisationseinheiten können jeweils für ihren Geschäftsbereich durch Organisationsentscheidungen weitere untergeordnete Organisationseinheiten mit Wirkung für die Zukunft bilden. Einer Organisationseinheit übergeordnete Organisationseinheiten können durch Organisationsentscheidungen mit Wirkung für die Zukunft die in Satz 1 genannten Rechte und Pflichten der untergeordneten Organisationseinheit wahrnehmen oder mehrere Organisationseinheiten zu einer Organisationseinheit zusammenschließen. Die in § 1a Absatz 3 Nummer 2, § 2b Absatz 2 Nummer 1, § 3a Absatz 5 Satz 3, § 3c Absatz 4 Satz 1, § 18 Absatz 2 Satz 2, § 18a Absatz 1 Satz 2, § 19 Absatz 1 und § 20 Absatz 1 Satz 1 Nummer 1 genannten Betragsgrenzen gelten für Organisationseinheiten stets als überschritten. Wahlrechte, deren Rechtsfolgen das gesamte Unternehmen der Gebietskörperschaft erfassen, können nur einheitlich ausgeübt werden. Die Gebietskörperschaft kann gegenüber dem für sie zuständigen Finanzamt mit Wirkung für die Zukunft erklären, dass die Sätze 1 bis 5 nicht zur Anwendung kommen sollen; ein Widerruf ist nur mit Wirkung für die Zukunft möglich.
 
 (4g) Die oberste Landesfinanzbehörde oder die von ihr beauftragte Landesfinanzbehörde kann anordnen, dass eine andere als die nach § 21 Absatz 1 der Abgabenordnung örtlich zuständige Finanzbehörde die Besteuerung einer Organisationseinheit des jeweiligen Landes übernimmt. Die oberste Landesfinanzbehörde oder die von ihr beauftragte Landesfinanzbehörde kann mit der obersten Finanzbehörde eines anderen Landes oder einer von dieser beauftragten Landesfinanzbehörde vereinbaren, dass eine andere als die nach § 21 Absatz 1 der Abgabenordnung zuständige Finanzbehörde die Besteuerung einer Organisationseinheit des Landes der zuständigen Finanzbehörde übernimmt. Die Senatsverwaltung für Finanzen von Berlin oder eine von ihr beauftragte Landesfinanzbehörde kann mit der obersten Finanzbehörde eines anderen Landes oder mit einer von dieser beauftragten Landesfinanzbehörde vereinbaren, dass eine andere als die nach § 21 Absatz 1 der Abgabenordnung zuständige Finanzbehörde die Besteuerung für eine Organisationseinheit der Gebietskörperschaft Bund übernimmt.
 
@@ -2102,7 +2134,7 @@ Für die Besteuerungszeiträume 2021 bis 2026 ist abweichend von Satz 4 in den F
 
 3. Der Beförderer hat bei der zuständigen Zolldienststelle, bei der er die Grenze zum Drittlandsgebiet überschreitet, eine weitere Steuererklärung in zwei Stücken abzugeben, wenn sich die Zahl der Personenkilometer (§ 10 Abs. 6 Satz 2), von der bei der Steuerfestsetzung nach Nummer 2 ausgegangen worden ist, geändert hat. Die Zolldienststelle setzt die Steuer neu fest. Gleichzeitig ist ein Unterschiedsbetrag zugunsten des Finanzamts zu entrichten oder ein Unterschiedsbetrag zugunsten des Beförderers zu erstatten. Die Sätze 2 und 3 sind nicht anzuwenden, wenn der Unterschiedsbetrag weniger als 2,50 Euro beträgt. Die Zolldienststelle kann in diesen Fällen auf eine schriftliche Steuererklärung verzichten.
 
-(5a) In den Fällen der Fahrzeugeinzelbesteuerung (§ 16 Abs. 5a) hat der Erwerber, abweichend von den Absätzen 1 bis 4, spätestens bis zum 10. Tag nach Ablauf des Tages, an dem die Steuer entstanden ist, eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben, in der er die zu entrichtende Steuer selbst zu berechnen hat (Steueranmeldung). Die Steueranmeldung muss vom Erwerber eigenhändig unterschrieben sein. Gibt der Erwerber die Steueranmeldung nicht ab oder hat er die Steuer nicht richtig berechnet, so kann das Finanzamt die Steuer festsetzen. Die Steuer ist am 10. Tag nach Ablauf des Tages fällig, an dem sie entstanden ist.
+(5a) In den Fällen der Fahrzeugeinzelbesteuerung (§ 16 Abs. 5a) hat der Erwerber, abweichend von den Absätzen 1 bis 4, spätestens bis zum 10. Tag nach Ablauf des Tages, an dem die Steuer entstanden ist, eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben, in der er die zu entrichtende Steuer selbst zu berechnen hat (Steueranmeldung). Die Steueranmeldung muss vom Erwerber eigenhändig unterschrieben sein. Gibt der Erwerber die Steueranmeldung nicht ab oder hat er die Steuer nicht richtig berechnet, so kann das Finanzamt die Steuer festsetzen. Die Steuer ist am zehnten Tag nach Ablauf des Tages fällig, an dem sie entstanden ist, und ist bis dahin vom Erwerber zu entrichten.
 
 (5b) In den Fällen des § 16 Abs. 5b ist das Besteuerungsverfahren nach den Absätzen 3 und 4 durchzuführen. Die bei der Beförderungseinzelbesteuerung (§ 16 Abs. 5) entrichtete Steuer ist auf die nach Absatz 3 Satz 1 zu entrichtende Steuer anzurechnen.
 
@@ -2126,7 +2158,7 @@ Für die Besteuerungszeiträume 2021 bis 2026 ist abweichend von Satz 4 in den F
 
 6. wie und in welchem Umfang der zu vergütende Betrag zu verzinsen ist.
 
-Sind die durch die Rechtsverordnung nach den Sätzen 1 und 2 geregelten Voraussetzungen des besonderen Verfahrens erfüllt und schuldet der im Ausland ansässige Unternehmer ausschließlich Steuer nach § 13a Absatz 1 Nummer 1 in Verbindung mit § 14c Absatz 1 oder § 13a Absatz 1 Nummer 4, kann die Vergütung der Vorsteuerbeträge nur in dem besonderen Verfahren durchgeführt werden. Einem Unternehmer, der im Gemeinschaftsgebiet ansässig ist und Umsätze ausführt, die zum Teil den Vorsteuerabzug ausschließen, wird die Vorsteuer höchstens in der Höhe vergütet, in der er in dem Mitgliedstaat, in dem er ansässig ist, bei Anwendung eines Pro-rata-Satzes zum Vorsteuerabzug berechtigt wäre. Einem Unternehmer, der nicht im Gemeinschaftsgebiet ansässig ist, wird die Vorsteuer nur vergütet, wenn in dem Land, in dem der Unternehmer seinen Sitz hat, keine Umsatzsteuer oder ähnliche Steuer erhoben oder im Fall der Erhebung im Inland ansässigen Unternehmern vergütet wird. Von der Vergütung ausgeschlossen sind bei Unternehmern, die nicht im Gemeinschaftsgebiet ansässig sind, die Vorsteuerbeträge, die auf den Bezug von Kraftstoffen entfallen. Die Sätze 5 und 6 gelten nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind, soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) als Steuerschuldner Umsätze nach § 3a Absatz 5 im Gemeinschaftsgebiet erbracht und für diese Umsätze von § 18 Absatz 4c Gebrauch gemacht haben oder diese Umsätze in einem anderen Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet haben; Voraussetzung ist, dass die Vorsteuerbeträge im Zusammenhang mit Umsätzen nach § 3a Absatz 5 stehen.
+Sind die durch die Rechtsverordnung nach den Sätzen 1 und 2 geregelten Voraussetzungen des besonderen Verfahrens erfüllt und schuldet der im Ausland ansässige Unternehmer ausschließlich Steuer nach § 13a Absatz 1 Nummer 1 in Verbindung mit § 14c Absatz 1 oder § 13a Absatz 1 Nummer 4, kann die Vergütung der Vorsteuerbeträge nur in dem besonderen Verfahren durchgeführt werden. Einem Unternehmer, der im Gemeinschaftsgebiet ansässig ist und Umsätze ausführt, die zum Teil den Vorsteuerabzug ausschließen, wird die Vorsteuer höchstens in der Höhe vergütet, in der er in dem Mitgliedstaat, in dem er ansässig ist, bei Anwendung eines Pro-rata-Satzes zum Vorsteuerabzug berechtigt wäre. Einem Unternehmer, der nicht im Gemeinschaftsgebiet ansässig ist, wird die Vorsteuer nur vergütet, wenn in dem Land, in dem der Unternehmer seinen Sitz hat, keine Umsatzsteuer oder ähnliche Steuer erhoben oder im Fall der Erhebung im Inland ansässigen Unternehmern vergütet wird. Von der Vergütung ausgeschlossen sind bei Unternehmern, die nicht im Gemeinschaftsgebiet ansässig sind, die Vorsteuerbeträge, die auf den Bezug von Kraftstoffen entfallen. Die Sätze 5 und 6 gelten nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind, soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) vor dem 1. Juli 2021 als Steuerschuldner Umsätze nach § 3a Absatz 5 im Gemeinschaftsgebiet erbracht und für diese Umsätze von § 18 Absatz 4c Gebrauch gemacht haben oder diese Umsätze in einem anderen Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet haben; Voraussetzung ist, dass die Vorsteuerbeträge im Zusammenhang mit Umsätzen nach § 3a Absatz 5 stehen. Die Sätze 5 und 6 gelten auch nicht für Unternehmer, die nicht im Gemeinschaftsgebiet ansässig sind, soweit sie im Besteuerungszeitraum (§ 16 Absatz 1 Satz 2) nach dem 30. Juni 2021 als Steuerschuldner Lieferungen nach § 3 Absatz 3a Satz 1 innerhalb eines Mitgliedstaates, Fernverkäufe nach § 3 Absatz 3a Satz 2, innergemeinschaftliche Fernverkäufe nach § 3c Absatz 1 Satz 2 und 3, Fernverkäufe nach § 3c Absatz 2 oder 3 oder sonstige Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 im Gemeinschaftsgebiet erbracht und für diese Umsätze von den §§ 18i, 18j oder 18k Gebrauch gemacht haben; Voraussetzung ist, dass die Vorsteuerbeträge mit Lieferungen nach § 3 Absatz 3a Satz 1 innerhalb eines Mitgliedstaates, Fernverkäufen nach § 3 Absatz 3a Satz 2, innergemeinschaftlichen Fernverkäufen nach § 3c Absatz 1 Satz 2 und 3, Fernverkäufen nach § 3c Absatz 2 oder 3 oder sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 im Zusammenhang stehen.
 
 (10) Zur Sicherung des Steueranspruchs in den Fällen des innergemeinschaftlichen Erwerbs neuer motorbetriebener Landfahrzeuge und neuer Luftfahrzeuge (§ 1b Abs. 2 und 3) gilt folgendes:
 
@@ -2331,7 +2363,9 @@ Das Bundeszentralamt für Steuern bestätigt auf Anfrage
 
 1. dem Unternehmer im Sinne des § 2 die Gültigkeit einer Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift der Person, der die Umsatzsteuer-Identifikationsnummer von einem anderen Mitgliedstaat erteilt wurde;
 
-2. dem Lagerhalter im Sinne des § 4 Nr. 4a die Gültigkeit der inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift des Auslagerers oder dessen Fiskalvertreters.
+2. dem Lagerhalter im Sinne des § 4 Nr. 4a die Gültigkeit der inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift des Auslagerers oder dessen Fiskalvertreters;
+
+3. dem Betreiber im Sinne des § 25e Absatz 1 die Gültigkeit einer inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift des liefernden Unternehmers im Sinne des § 25e Absatz 2 Satz 1.
 
 # § 18f – Sicherheitsleistung
 
@@ -2345,7 +2379,7 @@ Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuer
 
 # § 18h – Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
 
-(1) Ein im Inland ansässiger Unternehmer, der in einem anderen Mitgliedstaat der Europäischen Union Umsätze nach § 3a Absatz 5 erbringt, für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat, hat gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung anzuzeigen, wenn er an dem besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 3 der Richtlinie 2006/112/EG des Rates in der Fassung des Artikels 5 Nummer 15 der Richtlinie 2008/8/EG des Rates vom 12. Februar 2008 zur Änderung der Richtlinie 2006/112/EG bezüglich des Ortes der Dienstleistung (ABl. L 44 vom 20.2.2008, S. 11) teilnimmt. Eine Teilnahme im Sinne des Satzes 1 ist dem Unternehmer nur einheitlich für alle Mitgliedstaaten der Europäischen Union möglich, in denen er weder einen Sitz noch eine Betriebsstätte hat. Die Anzeige nach Satz 1 hat vor Beginn des Besteuerungszeitraums zu erfolgen, ab dessen Beginn der Unternehmer von dem besonderen Besteuerungsverfahren Gebrauch macht. Die Anwendung des besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz auf elektronischem Weg zu erklären.
+(1) Ein im Inland ansässiger Unternehmer, der vor dem 1. Juli 2021 in einem anderen Mitgliedstaat der Europäischen Union Umsätze nach § 3a Absatz 5 erbringt, für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat, hat gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung anzuzeigen, wenn er an dem besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 3 der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 5 Nummer 15 der Richtlinie 2008/8/EG des Rates vom 12. Februar 2008 zur Änderung der Richtlinie 2006/112/EG bezüglich des Ortes der Dienstleistung (ABl. L 44 vom 20.2.2008, S. 23) teilnimmt. Eine Teilnahme im Sinne des Satzes 1 ist dem Unternehmer nur einheitlich für alle Mitgliedstaaten der Europäischen Union möglich, in denen er weder einen Sitz noch eine Betriebsstätte hat. Die Anzeige nach Satz 1 hat vor Beginn des Besteuerungszeitraums zu erfolgen, ab dessen Beginn der Unternehmer von dem besonderen Besteuerungsverfahren Gebrauch macht. Die Anwendung des besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz auf elektronischem Weg zu erklären.
 
 (2) Erfüllt der Unternehmer die Voraussetzungen für die Teilnahme an dem besonderen Besteuerungsverfahren nach Absatz 1 nicht, stellt das Bundeszentralamt für Steuern dies durch Verwaltungsakt gegenüber dem Unternehmer fest.
 
@@ -2359,7 +2393,7 @@ Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuer
 
 (7) § 18 Absatz 4f ist entsprechend anzuwenden.
 
-(+++ § 18h Abs. 3 u. 4: Zur Anwendung vgl. § 27 Abs. 20 +++)
+(+++ § 18h: Zur Anwendung vgl. § 27 +++)
 
 # § 18i – Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
 
@@ -2467,9 +2501,47 @@ die Steuer nicht nach den vereinbarten Entgelten (§ 16 Abs. 1 Satz 1), sondern 
 
 (5) Die Absätze 2 bis 4 gelten entsprechend für Gegenstände, die nicht Waren im Sinne des Zollrechts sind und für die keine Zollvorschriften bestehen.
 
+# § 21a – Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro
+
+(1) Bei der Einfuhr von Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro aus dem Drittlandsgebiet, für die eine Steuerbefreiung nach § 5 Absatz 1 Nummer 7 nicht in Anspruch genommen wird, kann die Person, die die Gegenstände im Inland für Rechnung der Person, für die die Gegenstände bestimmt sind (Sendungsempfänger), bei einer Zollstelle gestellt (gestellende Person), auf Antrag die Sonderregelung nach den Absätzen 2 bis 6 in Anspruch nehmen, sofern
+
+1. die Voraussetzungen für die Bewilligung eines Zahlungsaufschubs gemäß Artikel 110 Buchstabe b des Zollkodex der Union erfüllt sind,
+
+2. die Beförderung oder Versendung im Inland endet und
+
+3. die Sendung keine verbrauchsteuerpflichtigen Waren enthält.
+
+Der Antrag ist zusammen mit der Anmeldung zur Überlassung in den freien Verkehr zu stellen.
+
+(2) Die gestellende Person hat die Waren nach Maßgabe des Artikels 63d Unterabsatz 2 der Verordnung (EU) Nr. 282/2011 zur Festlegung von Durchführungsvorschriften zur Richtlinie 2006/112/EG über das gemeinsame Mehrwertsteuersystem (ABl. L 77 vom 23.3.2011, S. 1) in der jeweils geltenden Fassung für Rechnung des Sendungsempfängers, zur Überlassung in den zollrechtlich freien Verkehr anzumelden. Für die Anmeldung ist entweder eine Standard-Zollanmeldung zu verwenden oder, soweit zulässig, eine Zollanmeldung für Sendungen von geringem Wert gemäß Artikel 143a der Delegierten Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1) in der jeweils geltenden Fassung.
+
+(3) Die entstandene Einfuhrumsatzsteuer wird in entsprechender Anwendung von Artikel 110 Buchstabe b des Zollkodex der Union aufgeschoben und dem Aufschubkonto der gestellenden Person belastet. Eine Sicherheitsleistung ist nicht erforderlich, wenn die gestellende Person Zugelassener Wirtschaftsbeteiligter für zollrechtliche Vereinfachungen gemäß Artikel 38 Absatz 2 Buchstabe a des Zollkodex der Union ist oder die Voraussetzungen erfüllt für die Reduzierung einer Gesamtsicherheit gemäß Artikel 95 Absatz 2 des Zollkodex der Union in Verbindung mit Artikel 84 Absatz 1 der Delegierten Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union.
+
+(4) Bei der Auslieferung hat der Sendungsempfänger die Einfuhrumsatzsteuer an die gestellende Person zu entrichten. Die gestellende Person, sofern sie nicht bereits Steuerschuldner ist, haftet für die Einfuhrumsatzsteuer, die auf Sendungen lastet, die ausgeliefert werden, ohne dass die Einfuhrumsatzsteuer vom Sendungsempfänger erhoben wurde. Dies gilt entsprechend für die Einfuhrumsatzsteuer auf Sendungen, deren Verbleib die gestellende Person nicht nachweisen kann (abhandengekommene Sendungen).
+
+(5) Bis zum zehnten Tag des auf die Einfuhr folgenden Monats teilt die gestellende Person der zuständigen Zollstelle nach amtlich vorgeschriebenem Datensatz auf elektronischem Weg und unter Angabe der Registriernummern der jeweiligen Zollanmeldungen mit,
+
+1. welche Sendungen im abgelaufenen Kalendermonat an die jeweiligen Sendungsempfänger ausgeliefert wurden (ausgelieferte Sendungen),
+
+2. die je Sendung vereinnahmten Beträge an Einfuhrumsatzsteuer,
+
+3. den Gesamtbetrag der vereinnahmten Einfuhrumsatzsteuer,
+
+4. welche Sendungen, die im abgelaufenen Kalendermonat und gegebenenfalls davor eingeführt wurden, bis zum Ende des abgelaufenen Kalendermonats nicht ausgeliefert werden konnten und sich noch in der Verfügungsgewalt der gestellenden Person befinden (noch nicht zugestellte Sendungen),
+
+5. welche Sendungen, bei denen es nicht möglich war, sie dem Sendungsempfänger zu übergeben, im abgelaufenen Kalendermonat wiederausgeführt oder unter zollamtlicher Überwachung zerstört oder anderweitig verwertet wurden (nicht zustellbare Sendungen), sowie
+
+6. welche Sendungen abhandengekommen sind und die darauf lastende Einfuhrumsatzsteuer.
+
+Auf Verlangen der zuständigen Zollbehörden hat die gestellende Person den Verbleib der Sendungen nachzuweisen. Die Mitteilung nach Satz 1 hat die Wirkung einer Steueranmeldung nach § 168 der Abgabenordnung, wobei die gestellende Person hinsichtlich des Gesamtbetrages nach Satz 1 Nummer 3 als Steuerschuldner gilt. Dieser ist zu dem für den Zahlungsaufschub gemäß Artikel 110 Buchstabe b des Zollkodex der Union geltenden Termin fällig und durch die gestellende Person an die Zollverwaltung zu entrichten.
+
+(6) Einfuhrumsatzsteuer für noch nicht zugestellte Sendungen bleibt dem Aufschubkonto belastet und wird in den folgenden Aufschubzeitraum vorgetragen. Einfuhrumsatzsteuer für nicht zustellbare Sendungen gilt als nicht entstanden und wird aus dem Aufschubkonto ausgebucht, wenn ausgeschlossen ist, dass die Waren im Inland in den Wirtschaftskreislauf eingehen. Einfuhrumsatzsteuer, die auf abhandengekommenen Sendungen lastet, wird ebenfalls aus dem Aufschubkonto ausgebucht und vom zuständigen Hauptzollamt per Haftungsbescheid gegenüber der gestellenden Person geltend gemacht. Für Einfuhrumsatzsteuer, die auf ausgelieferten Sendungen lastet, ohne dass Einfuhrumsatzsteuer vom Sendungsempfänger der Sendung erhoben wurde, gilt Satz 3 entsprechend.
+
+(+++ § 21a: Zur Anwendung vgl. § 27 +++)
+
 # § 22 – Aufzeichnungspflichten
 
-(1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu machen. Diese Verpflichtung gilt in den Fällen des § 13a Abs. 1 Nr. 2 und 5, des § 13b Absatz 5 und des § 14c Abs. 2 auch für Personen, die nicht Unternehmer sind. Ist ein land- und forstwirtschaftlicher Betrieb nach § 24 Abs. 3 als gesondert geführter Betrieb zu behandeln, so hat der Unternehmer Aufzeichnungspflichten für diesen Betrieb gesondert zu erfüllen. In den Fällen des § 18 Abs. 4c und 4d sind die erforderlichen Aufzeichnungen auf Anfrage des Bundeszentralamtes für Steuern auf elektronischem Weg zur Verfügung zu stellen; in den Fällen des § 18 Absatz 4e sind die erforderlichen Aufzeichnungen auf Anfrage der für das Besteuerungsverfahren zuständigen Finanzbehörde auf elektronischem Weg zur Verfügung zu stellen.
+(1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu machen. Diese Verpflichtung gilt in den Fällen des § 13a Absatz 1 Nummer 2 und 5, des § 13b Absatz 5 und des § 14c Absatz 2 auch für Personen, die nicht Unternehmer sind, in den Fällen des § 18k auch für den im Auftrag handelnden Vertreter und in den Fällen des § 21a für die gestellende Person. Ist ein land- und forstwirtschaftlicher Betrieb nach § 24 Absatz 3 als gesondert geführter Betrieb zu behandeln, hat der Unternehmer Aufzeichnungspflichten für diesen Betrieb gesondert zu erfüllen. In den Fällen des § 18 Absatz 4c und 4d sind die erforderlichen Aufzeichnungen vom Ende des Jahres an, in dem der Umsatz bewirkt wurde, zehn Jahre lang aufzubewahren und auf Anfrage des Bundeszentralamtes für Steuern auf elektronischem Weg zur Verfügung zu stellen; in den Fällen des § 18 Absatz 4e sind die erforderlichen Aufzeichnungen vom Ende des Jahres an, in dem der Umsatz bewirkt wurde, zehn Jahre lang aufzubewahren und auf Anfrage der für das Besteuerungsverfahren zuständigen Finanzbehörde auf elektronischem Weg zur Verfügung zu stellen; in den Fällen der §§ 18i, 18j, 18k und 21a sind die erforderlichen Aufzeichnungen vom Ende des Jahres an, in dem der Umsatz oder Geschäftsvorgang bewirkt wurde, zehn Jahre lang aufzubewahren und auf Anfrage der im Inland oder im übrigen Gemeinschaftsgebiet für das besondere Besteuerungsverfahren oder für die Sonderregelung zuständigen Finanzbehörde auf elektronischem Weg zur Verfügung zu stellen.
 
 (2) Aus den Aufzeichnungen müssen zu ersehen sein:
 
@@ -2491,7 +2563,9 @@ Nummer 1 Satz 4 gilt entsprechend;
 
 8. in den Fällen des § 13b Absatz 1 bis 5 beim Leistungsempfänger die Angaben entsprechend den Nummern 1 und 2. Der Leistende hat die Angaben nach den Nummern 1 und 2 gesondert aufzuzeichnen;
 
-9. die Bemessungsgrundlage für Umsätze im Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 sowie die hierauf entfallenden Steuerbeträge.
+9. die Bemessungsgrundlage für Umsätze im Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 sowie die hierauf entfallenden Steuerbeträge;
+
+10. in den Fällen des § 21a Namen und Anschriften der Versender und der Sendungsempfänger, die Bemessungsgrundlagen für die Einfuhr von Gegenständen (§ 11), die hierzu von den Versendern, Sendungsempfängern und Dritten erhaltenen Informationen, sowie die Sendungen, die im abgelaufenen Kalendermonat an die jeweiligen Sendungsempfänger ausgeliefert wurden, die je Sendung vereinnahmten Beträge an Einfuhrumsatzsteuer, die Sendungen, die noch nicht ausgeliefert werden konnten und sich noch in der Verfügungsgewalt der gestellenden Person befinden, sowie die Sendungen, die wiederausgeführt oder unter zollamtlicher Überwachung zerstört oder anderweitig verwertet wurden.
 
 (3) Die Aufzeichnungspflichten nach Absatz 2 Nr. 5 und 6 entfallen, wenn der Vorsteuerabzug ausgeschlossen ist (§ 15 Abs. 2 und 3). Ist der Unternehmer nur teilweise zum Vorsteuerabzug berechtigt, so müssen aus den Aufzeichnungen die Vorsteuerbeträge eindeutig und leicht nachprüfbar zu ersehen sein, die den zum Vorsteuerabzug berechtigenden Umsätzen ganz oder teilweise zuzurechnen sind. Außerdem hat der Unternehmer in diesen Fällen die Bemessungsgrundlagen für die Umsätze, die nach § 15 Abs. 2 und 3 den Vorsteuerabzug ausschließen, getrennt von den Bemessungsgrundlagen der übrigen Umsätze, ausgenommen die Einfuhren und die innergemeinschaftlichen Erwerbe, aufzuzeichnen. Die Verpflichtung zur Trennung der Bemessungsgrundlagen nach Absatz 2 Nr. 1 Satz 2, Nr. 2 Satz 2 und Nr. 3 Satz 2 bleibt unberührt.
 
@@ -2575,6 +2649,8 @@ Wenn der Inhaber des Lagers, in das der Gegenstand im Sinne des § 6b Absatz 1 N
 
 2. Unternehmer im Sinne des Absatzes 5 von der Führung des Steuerhefts befreien, sofern sich die Grundlagen der Besteuerung aus anderen Unterlagen ergeben, und diese Befreiung an Auflagen knüpfen.
 
+(+++ § 22: Zur Anwendung vgl. § 27 +++)
+
 # § 22a – Fiskalvertretung
 
 (1) Ein Unternehmer, der weder im Inland noch in einem der in § 1 Abs. 3 genannten Gebiete seinen Wohnsitz, seinen Sitz, seine Geschäftsleitung oder eine Zweigniederlassung hat und im Inland ausschließlich steuerfreie Umsätze ausführt und keine Vorsteuerbeträge abziehen kann, kann sich im Inland durch einen Fiskalvertreter vertreten lassen.
@@ -2617,27 +2693,39 @@ Die Rechnung hat folgende Angaben zu enthalten:
 
 (2) Für den vorläufigen Rechtsschutz gegen die Untersagung gelten § 361 Abs. 4 der Abgabenordnung und § 69 Abs. 5 der Finanzgerichtsordnung.
 
-# § 22f – Besondere Pflichten für Betreiber eines elektronischen Marktplatzes
+# § 22f – Besondere Pflichten für Betreiber einer elektronischen Schnittstelle
 
-(1) Der Betreiber eines elektronischen Marktplatzes im Sinne des § 25e Absatz 5 und 6 hat für Lieferungen eines Unternehmers, die auf dem von ihm bereitgestellten Marktplatz rechtlich begründet worden sind und bei denen die Beförderung oder Versendung im Inland beginnt oder endet, Folgendes aufzuzeichnen:
+(1) In den Fällen des § 25e Absatz 1 hat der Betreiber für Lieferungen eines Unternehmers, bei denen die Beförderung oder Versendung im Inland beginnt oder endet, Folgendes aufzuzeichnen:
 
 1. den vollständigen Namen und die vollständige Anschrift des liefernden Unternehmers,
 
-2. die dem liefernden Unternehmer von dem nach § 21 der Abgabenordnung zuständigen Finanzamt erteilte Steuernummer und soweit vorhanden die ihm vom Bundeszentralamt für Steuern erteilte Umsatzsteuer-Identifikationsnummer,
+2. die elektronische Adresse oder Website des liefernden Unternehmers,
 
-3. das Beginn- und Enddatum der Gültigkeit der Bescheinigung nach Satz 2,
+3. die dem liefernden Unternehmer vom Bundeszentralamt für Steuern nach § 27a erteilte Umsatzsteuer-Identifikationsnummer,
 
-4. den Ort des Beginns der Beförderung oder Versendung sowie den Bestimmungsort und
+4. soweit bekannt, die dem liefernden Unternehmer von dem nach § 21 der Abgabenordnung zuständigen Finanzamt erteilte Steuernummer,
 
-5. den Zeitpunkt und die Höhe des Umsatzes.
+5. soweit bekannt, die Bankverbindung oder Nummer des virtuellen Kontos des Lieferers,
 
-Der Nachweis über die Angaben nach Satz 1 Nummer 1 bis 3 ist vom Betreiber durch eine im Zeitpunkt der Lieferung des Unternehmers gültige, auf längstens drei Jahre befristete Bescheinigung über die steuerliche Erfassung des für den liefernden Unternehmer zuständigen Finanzamts zu führen. Die Bescheinigung wird auf Antrag des liefernden Unternehmers vom zuständigen Finanzamt erteilt. Unternehmer ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland, einem anderen Mitgliedstaat der Europäischen Union oder in einem Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, haben spätestens mit der Antragstellung nach Satz 3 einen Empfangsbevollmächtigten im Inland (§ 123 der Abgabenordnung) zu benennen. § 123 Satz 4 der Abgabenordnung gilt nicht. Die für den liefernden Unternehmer örtlich zuständige Finanzbehörde speichert die Daten nach Satz 1 Nummer 1 bis 3 und stellt diese zum Datenabruf bereit. Der Antragsteller ist über die Verarbeitung der in Satz 1 Nummer 1 bis 3 genannten Daten durch die Finanzbehörde nach Satz 6 zu informieren.
+6. den Ort des Beginns der Beförderung oder Versendung sowie den Bestimmungsort,
 
-(2) Erfolgt die Registrierung auf dem elektronischen Marktplatz des Betreibers nicht als Unternehmer, gilt Absatz 1 Satz 1 Nummer 1, 4 und 5 entsprechend. Zusätzlich ist das Geburtsdatum aufzuzeichnen.
+7. den Zeitpunkt und die Höhe des Umsatzes,
 
-(3) Der Betreiber hat die Unterlagen nach den Absätzen 1 und 2 auf Anforderung des Finanzamts elektronisch zu übermitteln. Stellt die Finanzbehörde ein Sammelauskunftsersuchen (§ 93 Absatz 1a Satz 1 der Abgabenordnung), findet § 93 Absatz 1a Satz 2 der Abgabenordnung keine Anwendung.
+8. eine Beschreibung der Gegenstände und
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Ausgestaltung des Datenabrufverfahrens nach Absatz 1 Satz 6, zur Verarbeitung und Weiterverarbeitung der in diesem Verfahren erhobenen Daten sowie zum Datenübermittlungsverfahren nach Absatz 3 zu erlassen.
+9. soweit bekannt, die Bestellnummer oder die eindeutige Transaktionsnummer.
+
+Unternehmer ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder in einem Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, haben mit der Antragstellung auf steuerliche Erfassung einen Empfangsbevollmächtigten im Inland zu benennen. § 123 Satz 2 und 3 der Abgabenordnung bleibt unberührt.
+
+(2) Erfolgt die Registrierung auf der elektronischen Schnittstelle nicht als Unternehmer, gilt Absatz 1 Satz 1 Nummer 1 und 6 bis 9 entsprechend. Zusätzlich ist das Geburtsdatum aufzuzeichnen.
+
+(3) Wer mittels einer elektronischen Schnittstelle die Erbringung einer sonstigen Leistung an einen Empfänger nach § 3a Absatz 5 Satz 1 unterstützt, hat Aufzeichnungen nach Artikel 54c der Durchführungsverordnung (EU) Nr. 282/2011 des Rates vom 15. März 2011 (ABl. L 77 vom 23.3.2011, S. 1) zu führen. Das Gleiche gilt in den Fällen des § 3 Absatz 3a.
+
+(4) Die nach den Absätzen 1 bis 3 vorzuhaltenden Aufzeichnungen sind vom Ende des Jahres an, in dem der Umsatz bewirkt wurde, zehn Jahre lang aufzubewahren und auf Anforderung des Finanzamtes elektronisch zu übermitteln. Stellt die Finanzbehörde ein Sammelauskunftsersuchen (§ 93 Absatz 1a Satz 1 der Abgabenordnung), findet § 93 Absatz 1a Satz 2 der Abgabenordnung keine Anwendung.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zum Datenübermittlungsverfahren nach Absatz 4 Satz 1 zu erlassen.
+
+(+++ § 22f: Zur Anwendung vgl. § 27 +++)
 
 # § 23 – Allgemeine Durchschnittsätze
 
@@ -2827,29 +2915,43 @@ Beim ersten Abnehmer, der eine Umsatzsteuer-Identifikationsnummer eines anderen 
 
 # § 25d – (weggefallen)
 
-# § 25e – Haftung beim Handel auf einem elektronischen Marktplatz
+# § 25e – Haftung beim Handel über eine elektronische Schnittstelle
 
-(1) Der Betreiber eines elektronischen Marktplatzes (Betreiber) haftet für die nicht entrichtete Steuer aus der Lieferung eines Unternehmers, die auf dem von ihm bereitgestellten Marktplatz rechtlich begründet worden ist.
+(1) Wer mittels einer elektronischen Schnittstelle die Lieferung eines Gegenstandes unterstützt (Betreiber), haftet für die nicht entrichtete Steuer aus dieser Lieferung; dies gilt nicht in den Fällen des § 3 Absatz 3a.
 
-(2) Der Betreiber haftet nicht nach Absatz 1, wenn er eine Bescheinigung nach § 22f Absatz 1 Satz 2 oder eine elektronische Bestätigung nach § 22f Absatz 1 Satz 6 vorlegt. Dies gilt nicht, wenn er Kenntnis davon hatte oder nach der Sorgfalt eines ordentlichen Kaufmanns hätte haben müssen, dass der liefernde Unternehmer seinen steuerlichen Verpflichtungen nicht oder nicht im vollen Umfang nachkommt.
+(2) Der Betreiber haftet nicht nach Absatz 1, wenn der liefernde Unternehmer im Sinne von § 22f Absatz 1 Satz 1 Nummer 3 im Zeitpunkt der Lieferung über eine gültige, ihm vom Bundeszentralamt für Steuern nach § 27a erteilte Umsatzsteuer-Identifikationsnummer verfügt. Dies gilt nicht, wenn er Kenntnis davon hatte oder nach der Sorgfalt eines ordentlichen Kaufmanns hätte haben müssen, dass der liefernde Unternehmer seinen steuerlichen Verpflichtungen nicht oder nicht im vollen Umfang nachkommt.
 
-(3) Der Betreiber haftet des Weiteren nicht nach Absatz 1, wenn die Registrierung auf dem elektronischen Marktplatz des Betreibers nicht als Unternehmer erfolgt ist und der Betreiber die Anforderungen nach § 22f Absatz 2 erfüllt. Dies gilt nicht, wenn nach Art, Menge oder Höhe der erzielten Umsätze davon auszugehen ist, dass der Betreiber Kenntnis davon hatte oder nach der Sorgfalt eines ordentlichen Kaufmanns hätte haben müssen, dass die Umsätze im Rahmen eines Unternehmens erbracht werden.
+(3) Der Betreiber haftet des Weiteren nicht nach Absatz 1, wenn die Registrierung auf der elektronischen Schnittstelle des Betreibers nicht als Unternehmer erfolgt ist und der Betreiber die Anforderungen nach § 22f Absatz 2 erfüllt. Dies gilt nicht, wenn nach Art, Menge oder Höhe der erzielten Umsätze davon auszugehen ist, dass der Betreiber Kenntnis davon hatte oder nach der Sorgfalt eines ordentlichen Kaufmanns hätte haben müssen, dass die Umsätze im Rahmen eines Unternehmens erbracht werden.
 
-(4) Kommt der liefernde Unternehmer seinen steuerlichen Pflichten nicht oder nicht in wesentlichem Umfang nach, ist das für den liefernden Unternehmer zuständige Finanzamt berechtigt, dies dem Betreiber mitzuteilen, wenn andere Maßnahmen keinen unmittelbaren Erfolg versprechen. Nach Zugang der Mitteilung haftet der Betreiber in den Fällen des Absatzes 2 für die Steuer auf Umsätze im Sinne des Absatzes 1, soweit das dem Umsatz zugrunde liegende Rechtsgeschäft nach dem Zugang der Mitteilung abgeschlossen worden ist. Eine Inanspruchnahme des Betreibers nach Satz 2 erfolgt nicht, wenn der Betreiber innerhalb einer vom Finanzamt im Rahmen der Mitteilung nach Satz 1 gesetzten Frist nachweist, dass der liefernde Unternehmer über seinen elektronischen Marktplatz keine Waren mehr anbieten kann. Die Sätze 1 bis 3 sind in den Fällen des Absatzes 3 entsprechend anzuwenden.
+(4) Kommt der liefernde Unternehmer seinen steuerlichen Pflichten nicht oder nicht in wesentlichem Umfang nach, ist das für den liefernden Unternehmer zuständige Finanzamt berechtigt, dies dem Betreiber mitzuteilen, wenn andere Maßnahmen keinen unmittelbaren Erfolg versprechen. Nach Zugang der Mitteilung haftet der Betreiber in den Fällen des Absatzes 2 für die Steuer auf Umsätze im Sinne des Absatzes 1, soweit das dem Umsatz zugrunde liegende Rechtsgeschäft nach dem Zugang der Mitteilung abgeschlossen worden ist. Eine Inanspruchnahme des Betreibers nach Satz 2 erfolgt nicht, wenn der Betreiber innerhalb einer vom Finanzamt im Rahmen der Mitteilung nach Satz 1 gesetzten Frist nachweist, dass der liefernde Unternehmer über seine elektronische Schnittstelle keine Waren mehr anbieten kann. Die Sätze 1 bis 3 sind in den Fällen des Absatzes 3 entsprechend anzuwenden.
 
-(5) Ein elektronischer Marktplatz im Sinne dieser Vorschrift ist eine Website oder jedes andere Instrument, mit dessen Hilfe Informationen über das Internet zur Verfügung gestellt werden, die es einem Dritten, der nicht Betreiber des Marktplatzes ist, ermöglicht, Umsätze auszuführen.
+(5) Eine elektronische Schnittstelle im Sinne dieser Vorschrift ist ein elektronischer Marktplatz, eine elektronische Plattform, ein elektronisches Portal oder Ähnliches.
 
-(6) Betreiber im Sinne dieser Vorschrift ist, wer einen elektronischen Marktplatz unterhält und es Dritten ermöglicht, auf diesem Marktplatz Umsätze auszuführen.
+(6) Unterstützen im Sinne dieser Vorschrift bezeichnet die Nutzung einer elektronischen Schnittstelle, um es einem Leistungsempfänger und einem liefernden Unternehmer, der über eine elektronische Schnittstelle Gegenstände zum Verkauf anbietet, zu ermöglichen, in Kontakt zu treten, woraus eine Lieferung von Gegenständen an diesen Leistungsempfänger resultiert. Der Betreiber einer elektronischen Schnittstelle unterstützt die Lieferung von Gegenständen jedoch dann nicht im Sinne dieser Vorschrift, wenn er weder unmittelbar noch mittelbar
+
+1. irgendeine der Bedingungen für die Lieferung der Gegenstände festlegt,
+
+2. an der Autorisierung der Abrechnung mit dem Leistungsempfänger bezüglich der getätigten Zahlungen beteiligt ist und
+
+3. an der Bestellung oder Lieferung der Gegenstände beteiligt ist.
+
+Ein Unterstützen im Sinne dieser Vorschrift liegt auch dann nicht vor, wenn der Betreiber der elektronischen Schnittstelle lediglich eine der folgenden Leistungen anbietet:
+
+1. die Verarbeitung von Zahlungen im Zusammenhang mit der Lieferung von Gegenständen,
+
+2. die Auflistung von Gegenständen oder die Werbung für diese, oder
+
+3. die Weiterleitung oder Vermittlung von Leistungsempfängern an andere elektronische Schnittstellen, über die Gegenstände zum Verkauf angeboten werden, ohne dass eine weitere Einbindung in die Lieferung besteht.
 
 (7) Örtlich zuständig für den Erlass des Haftungsbescheides ist das Finanzamt, das für die Besteuerung des liefernden Unternehmers zuständig ist.
 
 (8) Hat der liefernde Unternehmer keinen Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland, einem anderen Mitgliedstaat der Europäischen Union oder in einem Staat, auf den das Abkommen über den europäischen Wirtschaftsraum anzuwenden ist, ist § 219 der Abgabenordnung nicht anzuwenden.
 
-(+++ § 25e Abs. 1 bis 4: Zur Anwendung vgl. § 27 Abs. 25 Satz 4 +++)
+(+++ § 25e: Zur Anwendung vgl. § 27 +++)
 
 # § 25f – Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
 
-(1) Sofern der Unternehmer wusste oder hätte wissen müssen, dass er sich mit der von ihm erbrachten Leistung oder seinem Leistungsbezug an einem Umsatz beteiligt, bei dem der Leistende oder ein anderer Beteiligter auf einer vorhergehenden oder nachfolgenden Umsatzstufe in eine begangene Hinterziehung von Umsatzsteuer oder Erlangung eines nicht gerechtfertigten Vorsteuerabzugs im Sinne des § 370 der Abgabenordnung oder in eine Schädigung des Umsatzsteueraufkommens im Sinne der §§ 26b, 26c einbezogen war, ist Folgendes zu versagen:
+(1) Sofern der Unternehmer wusste oder hätte wissen müssen, dass er sich mit der von ihm erbrachten Leistung oder seinem Leistungsbezug an einem Umsatz beteiligt, bei dem der Leistende oder ein anderer Beteiligter auf einer vorhergehenden oder nachfolgenden Umsatzstufe in eine begangene Hinterziehung von Umsatzsteuer oder Erlangung eines nicht gerechtfertigten Vorsteuerabzugs im Sinne des § 370 der Abgabenordnung oder in eine Schädigung des Umsatzsteueraufkommens im Sinne der §§ 26a, 26c einbezogen war, ist Folgendes zu versagen:
 
 1. die Steuerbefreiung nach § 4 Nummer 1 Buchstabe b in Verbindung mit § 6a,
 
@@ -2897,7 +2999,9 @@ Satz 1 gilt entsprechend für die von einem Konsortium nach § 13b Absatz 5 gesc
 
 # § 26a – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
+(1) Ordnungswidrig handelt, wer entgegen § 18 Absatz 1 Satz 4, Absatz 4 Satz 1 oder 2, Absatz 4c Satz 2, Absatz 4e Satz 4 oder Absatz 5a Satz 4, § 18i Absatz 3 Satz 3, § 18j Absatz 4 Satz 3 oder § 18k Absatz 4 Satz 3 eine Vorauszahlung, einen Unterschiedsbetrag oder eine festgesetzte Steuer nicht, nicht vollständig oder nicht rechtzeitig entrichtet.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
 1. entgegen § 14 Abs. 2 Satz 1 Nr. 1 oder 2 Satz 2 eine Rechnung nicht oder nicht rechtzeitig ausstellt,
 
@@ -2913,19 +3017,15 @@ Satz 1 gilt entsprechend für die von einem Konsortium nach § 13b Absatz 5 gesc
 
 7. entgegen § 18d Satz 3 die dort bezeichneten Unterlagen nicht, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 3 mit einer Geldbuße bis zu fünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nummer 3 mit einer Geldbuße bis zu tausend Euro, in den übrigen Fällen des Absatzes 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 5 und 6 das Bundeszentralamt für Steuern.
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2 Nummer 5 und 6 das Bundeszentralamt für Steuern.
 
-# § 26b – Schädigung des Umsatzsteueraufkommens
+# § 26b – (weggefallen)
 
-(1) Ordnungswidrig handelt, wer die in einer Rechnung im Sinne von § 14 ausgewiesene Umsatzsteuer zu einem in § 18 Absatz 1 Satz 4 oder Abs. 4 Satz 1 oder 2 genannten Fälligkeitszeitpunkt nicht oder nicht vollständig entrichtet.
+# § 26c – Strafvorschriften
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
-# § 26c – Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens
-
-Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer in den Fällen des § 26b gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Handlungen verbunden hat, handelt.
+Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer in den Fällen des § 26a Absatz 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Handlungen verbunden hat, handelt.
 
 # § 27 – Allgemeine Übergangsvorschriften
 
@@ -2997,7 +3097,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (24) § 3a Absatz 5 Satz 3 bis 5 und § 14 Absatz 7 Satz 3 in der Fassung des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) sind auf Umsätze anzuwenden, die nach dem 31. Dezember 2018 ausgeführt werden. § 18 Absatz 4c Satz 1 und Absatz 4d in der Fassung des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist auf Besteuerungszeiträume anzuwenden, die nach dem 31. Dezember 2018 enden.
 
-(25) Das Bundesministerium der Finanzen teilt den Beginn des Datenabrufverfahrens nach § 22f Absatz 1 Satz 6 durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben mit. Gleiches gilt für die Festlegung des Kalenderjahres, ab dem Daten nach § 22f Absatz 3 auf Anforderung zu übermitteln sind. Bis zur Einführung des Datenabrufverfahrens nach § 22f Absatz 1 Satz 6 ist die Bescheinigung dem liefernden Unternehmer in Papierform zu erteilen. § 25e Absatz 1 bis Absatz 4 in der Fassung des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist für die in § 22f Absatz 1 Satz 4 in der am 1. Januar 2019 geltenden Fassung genannten Unternehmer ab 1. März 2019 und für andere als die in § 22f Absatz 1 Satz 4 in der am 1. Januar 2019 geltenden Fassung genannten Unternehmer ab 1. Oktober 2019 anzuwenden.
+(25) Das Bundesministerium der Finanzen teilt den Beginn, ab dem Daten nach § 22f Absatz 5 auf Anforderung zu übermitteln sind, durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben mit. Gleiches gilt für die Festlegung des Kalenderjahres, ab dem Daten nach § 22f Absatz 3 auf Anforderung zu übermitteln sind. § 25e Absatz 1 bis Absatz 4 in der Fassung des Artikels 9 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist für die in § 22f Absatz 1 Satz 4 in der am 1. Januar 2019 geltenden Fassung genannten Unternehmer ab 1. März 2019 und für andere als die in § 22f Absatz 1 Satz 4 in der am 1. Januar 2019 geltenden Fassung genannten Unternehmer ab 1. Oktober 2019 anzuwenden.
 
 (26) § 25 Absatz 3 in der Fassung des Artikels 11 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals auf Umsätze anzuwenden, die nach dem 31. Dezember 2021 bewirkt werden.
 
@@ -3013,7 +3113,9 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (32) § 24 Absatz 1 in der Fassung des Artikels 11 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist erstmals auf Umsätze anzuwenden, die nach dem 31. Dezember 2021 bewirkt werden.
 
-(33) § 18i Absatz 3 und 6, § 18j Absatz 4 und 7, § 18k Absatz 4 und 7 in der Fassung des Artikels 13 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22 beziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des vorgenannten Gesetzes.
+(33) § 18i Absatz 3 und 6, § 18j Absatz 4 und 7, § 18k Absatz 4 und 7 in der Fassung des Artikels 13 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22 be-ziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des vorgenannten Gesetzes.
+
+(34) Die §§ 3 und 3a Absatz 5, die §§ 3c, 4, 5, 11, 13 Absatz 1 Nummer 1 Buchstabe f bis i, § 14a Absatz 2, § 16 Absatz 1c bis 1e, § 18 Absatz 1, 3 und 9, die §§ 21a, 22, 22f und 25e in der Fassung des Artikels 14 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze und Einfuhren anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. § 13 Absatz 1 Nummer 1 Buchstabe d und e, § 16 Absatz 1a und 1b, § 18 Absatz 4c bis 4e und § 18h sind letztmalig auf Umsätze anzuwenden, die vor dem 1. Juli 2021 ausgeführt werden.
 
 # § 27a – Umsatzsteuer-Identifikationsnummer
 

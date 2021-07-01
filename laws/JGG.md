@@ -2841,7 +2841,7 @@ durch welche das Opfer seelisch oder körperlich schwer geschädigt oder einer s
 
 (4) Unter den übrigen Voraussetzungen des Absatzes 3 Satz 2 kann das Gericht einen solchen Vorbehalt auch aussprechen, wenn
 
-1. die Verurteilung wegen eines oder mehrerer Vergehen nach § 176 des Strafgesetzbuches erfolgt,
+1. die Verurteilung wegen eines oder mehrerer Vergehen nach den §§ 176a und 176b des Strafgesetzbuches erfolgt,
 
 2. die übrigen Voraussetzungen des § 66 Absatz 3 des Strafgesetzbuches erfüllt sind, soweit dieser nicht auf § 66 Absatz 1 Satz 1 Nummer 4 des Strafgesetzbuches verweist, und
 

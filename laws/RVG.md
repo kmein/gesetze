@@ -3472,7 +3472,7 @@ Verfahrensgebühr bei Einziehung und verwandten Maßnahmen .....................
 
 4143
 
-Verfahrensgebühr für das erstinstanzliche Verfahren über vermögensrechtliche Ansprüche des Verletzten oder seines Erben .........
+Verfahrensgebühr für das erstinstanzliche Verfahren über vermögensrechtliche Ansprüche (§ 403 StPO) .........
 
 2,0
 
@@ -3488,7 +3488,7 @@ Verfahrensgebühr für das erstinstanzliche Verfahren über vermögensrechtliche
 
 4144
 
-Verfahrensgebühr im Berufungs- und Revisionsverfahren über vermögensrechtliche Ansprüche des Verletzten oder seines Erben .........
+Verfahrensgebühr im Berufungs- und Revisionsverfahren über vermögensrechtliche Ansprüche (§ 403 StPO) .........
 
 2,5
 

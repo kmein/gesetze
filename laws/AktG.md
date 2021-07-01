@@ -1731,6 +1731,8 @@ Ist die Gesellschaft Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs)
 
 (2) Der Vorstand hat geeignete Maßnahmen zu treffen, insbesondere ein Überwachungssystem einzurichten, damit den Fortbestand der Gesellschaft gefährdende Entwicklungen früh erkannt werden.
 
+(3) Der Vorstand einer börsennotierten Gesellschaft hat darüber hinaus ein im Hinblick auf den Umfang der Geschäftstätigkeit und die Risikolage des Unternehmens angemessenes und wirksames internes Kontrollsystem und Risikomanagementsystem einzurichten.
+
 # § 92 – Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit
 
 (1) Ergibt sich bei Aufstellung der Jahresbilanz oder einer Zwischenbilanz oder ist bei pflichtmäßigem Ermessen anzunehmen, daß ein Verlust in Höhe der Hälfte des Grundkapitals besteht, so hat der Vorstand unverzüglich die Hauptversammlung einzuberufen und ihr dies anzuzeigen.
@@ -1879,7 +1881,7 @@ Auf die Höchstzahl nach Satz 1 Nr. 1 sind bis zu fünf Aufsichtsratssitze nicht
 
 (4) Die Satzung kann persönliche Voraussetzungen nur für Aufsichtsratsmitglieder fordern, die von der Hauptversammlung ohne Bindung an Wahlvorschläge gewählt oder auf Grund der Satzung in den Aufsichtsrat entsandt werden.
 
-(5) Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, sind, muss mindestens ein Mitglied des Aufsichtsrats über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen; die Mitglieder müssen in ihrer Gesamtheit mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sein.
+(5) Bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, muss mindestens ein Mitglied des Aufsichtsrats über Sachverstand auf dem Gebiet Rechnungslegung und mindestens ein weiteres Mitglied des Aufsichtsrats über Sachverstand auf dem Gebiet Abschlussprüfung verfügen; die Mitglieder müssen in ihrer Gesamtheit mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sein.
 
 # § 101 – Bestellung der Aufsichtsratsmitglieder
 
@@ -1959,9 +1961,9 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (2) Über die Sitzungen des Aufsichtsrats ist eine Niederschrift anzufertigen, die der Vorsitzende zu unterzeichnen hat. In der Niederschrift sind der Ort und der Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, der wesentliche Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats anzugeben. Ein Verstoß gegen Satz 1 oder Satz 2 macht einen Beschluß nicht unwirksam. Jedem Mitglied des Aufsichtsrats ist auf Verlangen eine Abschrift der Sitzungsniederschrift auszuhändigen.
 
-(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Der Aufsichtsrat der börsennotierten Gesellschaft kann außerdem einen Ausschuss bestellen, der über die Zustimmung nach § 111b Absatz 1 beschließt. An dem Geschäft beteiligte nahestehende Personen im Sinne des § 111a Absatz 1 Satz 2 können nicht Mitglieder des Ausschusses sein. Er muss mehrheitlich aus Mitgliedern zusammengesetzt sein, bei denen keine Besorgnis eines Interessenkonfliktes auf Grund ihrer Beziehungen zu einer nahestehenden Person besteht. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
+(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers, der Qualität der Abschlussprüfung und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Der Aufsichtsrat der börsennotierten Gesellschaft kann außerdem einen Ausschuss bestellen, der über die Zustimmung nach § 111b Absatz 1 beschließt. An dem Geschäft beteiligte nahestehende Personen im Sinne des § 111a Absatz 1 Satz 2 können nicht Mitglieder des Ausschusses sein. Er muss mehrheitlich aus Mitgliedern zusammengesetzt sein, bei denen keine Besorgnis eines Interessenkonfliktes auf Grund ihrer Beziehungen zu einer nahestehenden Person besteht. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
 
-(4) Richtet der Aufsichtsrat einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG ist, einen Prüfungsausschuss im Sinn des Absatzes 3 Satz 2 ein, so müssen die Voraussetzungen des § 100 Absatz 5 erfüllt sein.
+(4) Der Aufsichtsrat einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, hat einen Prüfungsausschuss im Sinne des Absatzes 3 Satz 2 einzurichten. Besteht der Aufsichtsrat nur aus drei Mitgliedern, ist dieser auch der Prüfungsausschuss. Der Prüfungsausschuss muss die Voraussetzungen des § 100 Absatz 5 erfüllen. Jedes Mitglied des Prüfungsausschusses kann über den Ausschussvorsitzenden unmittelbar bei den Leitern derjenigen Zentralbereiche der Gesellschaft, die in der Gesellschaft für die Aufgaben zuständig sind, die den Prüfungsausschuss nach Absatz 3 Satz 2 betreffen, Auskünfte einholen. Der Ausschussvorsitzende hat die eingeholte Auskunft allen Mitgliedern des Prüfungsausschusses mitzuteilen. Werden Auskünfte nach Satz 4 eingeholt, ist der Vorstand hierüber unverzüglich zu unterrichten.
 
 # § 108 – Beschlußfassung des Aufsichtsrats
 
@@ -1975,7 +1977,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 # § 109 – Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse
 
-(1) An den Sitzungen des Aufsichtsrats und seiner Ausschüsse sollen Personen, die weder dem Aufsichtsrat noch dem Vorstand angehören, nicht teilnehmen. Sachverständige und Auskunftspersonen können zur Beratung über einzelne Gegenstände zugezogen werden.
+(1) An den Sitzungen des Aufsichtsrats und seiner Ausschüsse sollen Personen, die weder dem Aufsichtsrat noch dem Vorstand angehören, nicht teilnehmen. Sachverständige und Auskunftspersonen können zur Beratung über einzelne Gegenstände zugezogen werden. Wird der Abschlussprüfer als Sachverständiger zugezogen, nimmt der Vorstand an dieser Sitzung nicht teil, es sei denn, der Aufsichtsrat oder der Ausschuss erachtet seine Teilnahme für erforderlich.
 
 (2) Aufsichtsratsmitglieder, die dem Ausschuß nicht angehören, können an den Ausschußsitzungen teilnehmen, wenn der Vorsitzende des Aufsichtsrats nichts anderes bestimmt.
 
@@ -2239,7 +2241,7 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 Soll die Hauptversammlung über eine Satzungsänderung, das Vergütungssystem für die Vorstandsmitglieder, die Vergütung des Aufsichtsrats nach § 113 Absatz 3, den Vergütungsbericht oder über einen Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung wirksam wird, so ist bei einer Satzungsänderung der Wortlaut der Satzungsänderung, bei einem vorbezeichneten Vertrag dessen wesentlicher Inhalt, im Übrigen der vollständige Inhalt der Unterlagen zu den jeweiligen Beschlussgegenständen bekanntzumachen. Satz 3 gilt auch im Fall des § 120a Absatz 5.
 
-(3) Zu jedem Gegenstand der Tagesordnung, über den die Hauptversammlung beschließen soll, haben der Vorstand und der Aufsichtsrat, zur Beschlussfassung nach § 120a Absatz 1 Satz 1 und zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung zu machen. Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG sind, ist der Vorschlag des Aufsichtsrats zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von Aufsichtsratsmitgliedern oder Prüfern hat deren Namen, ausgeübten Beruf und Wohnort anzugeben. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Aktionäre; § 8 des Montan-Mitbestimmungsgesetzes bleibt unberührt.
+(3) Zu jedem Gegenstand der Tagesordnung, über den die Hauptversammlung beschließen soll, haben der Vorstand und der Aufsichtsrat, zur Beschlussfassung nach § 120a Absatz 1 Satz 1 und zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung zu machen. Bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, ist der Vorschlag des Aufsichtsrats zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von Aufsichtsratsmitgliedern oder Prüfern hat deren Namen, ausgeübten Beruf und Wohnort anzugeben. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Aktionäre; § 8 des Montan-Mitbestimmungsgesetzes bleibt unberührt.
 
 (4) Über Gegenstände der Tagesordnung, die nicht ordnungsgemäß bekanntgemacht sind, dürfen keine Beschlüsse gefaßt werden. Zur Beschlußfassung über den in der Versammlung gestellten Antrag auf Einberufung einer Hauptversammlung, zu Anträgen, die zu Gegenständen der Tagesordnung gestellt werden, und zu Verhandlungen ohne Beschlußfassung bedarf es keiner Bekanntmachung.
 
@@ -2629,7 +2631,7 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 2. Prüfungsgesellschaften, von deren gesetzlichen Vertretern mindestens einer in der Buchführung ausreichend vorgebildet und erfahren ist.
 
-(2) Sonderprüfer darf nicht sein, wer nach § 319 Abs. 2, 3, § 319a Abs. 1, § 319b des Handelsgesetzbuchs nicht Abschlußprüfer sein darf oder während der Zeit, in der sich der zu prüfende Vorgang ereignet hat, hätte sein dürfen. Eine Prüfungsgesellschaft darf nicht Sonderprüfer sein, wenn sie nach § 319 Abs. 2, 4, § 319a Abs. 1, § 319b des Handelsgesetzbuchs nicht Abschlußprüfer sein darf oder während der Zeit, in der sich der zu prüfende Vorgang ereignet hat, hätte sein dürfen.
+(2) Sonderprüfer darf nicht sein, wer nach § 319 Absatz 2, 3, § 319b des Handelsgesetzbuchs nicht Abschlussprüfer sein darf oder während der Zeit, in der sich der zu prüfende Vorgang ereignet hat, hätte sein dürfen. Eine Prüfungsgesellschaft darf nicht Sonderprüfer sein, wenn sie nach § 319 Absatz 2, 4, § 319b des Handelsgesetzbuchs nicht Abschlussprüfer sein darf oder während der Zeit, in der sich der zu prüfende Vorgang ereignet hat, hätte sein dürfen. Bei einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, darf Sonderprüfer auch nicht sein, wer Nichtprüfungsleistungen nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) erbringt oder während der Zeit, in der sich der zu prüfende Vorgang ereignet hat, erbracht hat.
 
 (3) (weggefallen)
 
@@ -3246,9 +3248,9 @@ Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach denen au
 
 (3) Die Bilanz muß durch einen Abschlußprüfer darauf geprüft werden, ob sie den §§ 150, 152 dieses Gesetzes, §§ 242 bis 256a, 264 bis 274a des Handelsgesetzbuchs entspricht. Sie muß mit einem uneingeschränkten Bestätigungsvermerk versehen sein.
 
-(4) Wenn die Hauptversammlung keinen anderen Prüfer wählt, gilt der Prüfer als gewählt, der für die Prüfung des letzten Jahresabschlusses von der Hauptversammlung gewählt oder vom Gericht bestellt worden ist. Soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, sind auf die Prüfung § 318 Abs. 1 Satz 3 und 4, § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1, 2, §§ 321, 322 Abs. 7 und § 323 des Handelsgesetzbuchs entsprechend anzuwenden.
+(4) Wenn die Hauptversammlung keinen anderen Prüfer wählt, gilt der Prüfer als gewählt, der für die Prüfung des letzten Jahresabschlusses von der Hauptversammlung gewählt oder vom Gericht bestellt worden ist. Soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, sind auf die Prüfung § 318 Abs. 1 Satz 3 und 4, § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1, 2, §§ 321, 322 Abs. 7 und § 323 des Handelsgesetzbuchs sowie bei einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, auch Artikel 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 entsprechend anzuwenden.
 
-(5) Bei Versicherungsgesellschaften wird der Prüfer vom Aufsichtsrat bestimmt; Absatz 4 Satz 1 gilt sinngemäß. Soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, ist auf die Prüfung § 341k des Handelsgesetzbuchs anzuwenden.
+(5) Soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt, ist auf die Prüfung der Bilanz von Versicherungsgesellschaften § 341k des Handelsgesetzbuchs anzuwenden.
 
 (6) Im Fall der Absätze 2 bis 5 gilt für das Zugänglichmachen der Bilanz und für die Erteilung von Abschriften § 175 Abs. 2 sinngemäß.
 
@@ -3660,11 +3662,9 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 a) Verstoß gegen § 319 Absatz 2, 3 oder 4 des Handelsgesetzbuchs,
 
-b) Verstoß gegen § 319a Absatz 1 oder 3 des Handelsgesetzbuchs,
+b) Verstoß gegen § 319b Absatz 1 des Handelsgesetzbuchs,
 
-c) Verstoß gegen § 319b Absatz 1 des Handelsgesetzbuchs,
-
-d) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66),
+c) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66),
 
 4. bei seiner Feststellung die Bestimmungen des Gesetzes oder der Satzung über die Einstellung von Beträgen in Kapital- oder Gewinnrücklagen oder über die Entnahme von Beträgen aus Kapital- oder Gewinnrücklagen verletzt worden sind.
 
@@ -3716,7 +3716,7 @@ so hat das Gericht auf Antrag Sonderprüfer zu bestellen. Die Sonderprüfer habe
 
 (3) Vor der Bestellung hat das Gericht den Vorstand, den Aufsichtsrat und den Abschlußprüfer zu hören. Gegen die Entscheidung ist die Beschwerde zulässig. Über den Antrag gemäß Absatz 1 entscheidet das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
-(4) Sonderprüfer nach Absatz 1 können nur Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Für die Auswahl gelten § 319 Abs. 2 bis 4, § 319a Abs. 1 und § 319b Abs. 1 des Handelsgesetzbuchs sinngemäß. Der Abschlußprüfer der Gesellschaft und Personen, die in den letzten drei Jahren vor der Bestellung Abschlußprüfer der Gesellschaft waren, können nicht Sonderprüfer nach Absatz 1 sein.
+(4) Sonderprüfer nach Absatz 1 können nur Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Für die Auswahl gelten § 319 Absatz 2 bis 4 und § 319b Absatz 1 des Handelsgesetzbuchs und bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, auch Artikel 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 sinngemäß. Der Abschlußprüfer der Gesellschaft und Personen, die in den letzten drei Jahren vor der Bestellung Abschlußprüfer der Gesellschaft waren, können nicht Sonderprüfer nach Absatz 1 sein.
 
 (5) § 142 Abs. 6 über den Ersatz angemessener barer Auslagen und die Vergütung gerichtlich bestellter Sonderprüfer, § 145 Abs. 1 bis 3 über die Rechte der Sonderprüfer, § 146 über die Kosten der Sonderprüfung und § 323 des Handelsgesetzbuchs über die Verantwortlichkeit des Abschlußprüfers gelten sinngemäß. Die Sonderprüfer nach Absatz 1 haben die Rechte nach § 145 Abs. 2 auch gegenüber dem Abschlußprüfer der Gesellschaft.
 
@@ -4150,7 +4150,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 # § 293d – Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer
 
-(1) Für die Auswahl und das Auskunftsrecht der Vertragsprüfer gelten § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Das Auskunftsrecht besteht gegenüber den vertragschließenden Unternehmen und gegenüber einem Konzernunternehmen sowie einem abhängigen und einem herrschenden Unternehmen.
+(1) Für die Auswahl und das Auskunftsrecht der Vertragsprüfer gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Bei einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, gilt für die Auswahl des Vertragsprüfers neben Satz 1 auch Artikel 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 entsprechend mit der Maßgabe, dass an die Stelle der in Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe a und b der Verordnung (EU) Nr. 537/2014 genannten Zeiträume der Zeitraum zwischen dem Beginn des Geschäftsjahres, welches dem Geschäftsjahr vorausgeht, in dem der Unternehmensvertrag geschlossen wurde, und dem Zeitpunkt, in dem der Vertragsprüfer den Prüfungsbericht nach § 293e erstattet hat, tritt. Das Auskunftsrecht besteht gegenüber den vertragschließenden Unternehmen und gegenüber einem Konzernunternehmen sowie einem abhängigen und einem herrschenden Unternehmen.
 
 (2) Für die Verantwortlichkeit der Vertragsprüfer, ihrer Gehilfen und der bei der Prüfung mitwirkenden gesetzlichen Vertreter einer Prüfungsgesellschaft gilt § 323 des Handelsgesetzbuchs entsprechend. Die Verantwortlichkeit besteht gegenüber den vertragschließenden Unternehmen und deren Anteilsinhabern.
 
@@ -4697,17 +4697,17 @@ bekanntgeworden ist, unbefugt offenbart; im Falle der Nummer 2 jedoch nur, wenn 
 
 # § 404a – Verletzung der Pflichten bei Abschlussprüfungen
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Prüfungsausschusses einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist,
 
 1. eine in § 405 Absatz 3b bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
 2. eine in § 405 Absatz 3b bezeichnete Handlung beharrlich wiederholt.
 
-(2) Ebenso wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+(2) Ebenso wird bestraft, wer als Mitglied des Aufsichtsrats einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist,
 
-1. eine in § 405 Absatz 3c oder 3d bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+1. eine in § 405 Absatz 3c bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
-2. eine in § 405 Absatz 3c oder 3d bezeichnete Handlung beharrlich wiederholt.
+2. eine in § 405 Absatz 3c bezeichnete Handlung beharrlich wiederholt.
 
 # § 405 – Ordnungswidrigkeiten
 
@@ -4779,31 +4779,25 @@ c) die zur Vorbereitung der Beschlußfassung über die Einziehung eigener Aktien
 
 2. entgegen § 124a Angaben nicht, nicht richtig oder nicht vollständig zugänglich macht.
 
-(3b) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+(3b) Ordnungswidrig handelt, wer als Mitglied des Prüfungsausschusses einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist,
 
 1. die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
 
-2. eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes beruht und
+2. dem Aufsichtsrat eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
 
-a) die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
+(3c) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, der Hauptversammlung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-b) der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
-
-(3c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, der Hauptversammlung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
-
-(3d) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss bestellt hat, einer in Absatz 3c genannten Gesellschaft der Hauptversammlung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
-
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2a Nummer 6 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen der Absätze 3b bis 3d mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2a Nummer 6 sowie der Absätze 3b und 3c mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Satz 1 des Gesetzes über Ordnungswidrigkeiten ist
 
-1. die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen
+1. die Bundesanstalt für Finanzdienstleistungsaufsicht
 
-a) des Absatzes 2a Nummer 6, soweit die Handlung ein Geschäft nach § 111c Absatz 1 Satz 1 in Verbindung mit Absatz 3 Satz 1 betrifft, und
+a) in den Fällen des Absatzes 2a Nummer 6, soweit die Handlung ein Geschäft nach § 111c Absatz 1 Satz 1 in Verbindung mit Absatz 3 Satz 1 betrifft, und
 
-b) der Absätze 3b bis 3d bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, und bei Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG,
+b) in den Fällen der Absätze 3b und 3c bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 2 und 3 des Handelsgesetzbuchs sind,
 
-2. das Bundesamt für Justiz in den übrigen Fällen der Absätze 1 bis 3d.
+2. das Bundesamt für Justiz in den Fällen der Absätze 3b und 3c, in denen nicht die Bundesanstalt für Finanzdienstleistungsaufsicht nach Nummer 1 Buchstabe b Verwaltungsbehörde ist.
 
 # § 406 – (weggefallen)
 
@@ -4811,13 +4805,13 @@ b) der Absätze 3b bis 3d bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d S
 
 # § 407 – Zwangsgelder
 
-(1) Vorstandsmitglieder oder Abwickler, die § 52 Abs. 2 Satz 2 bis 4, § 71c, § 73 Abs. 3 Satz 2, §§ 80, 90, 104 Abs. 1, § 111 Abs. 2, § 145, §§ 170, 171 Abs. 3 oder Abs. 4 Satz 1 in Verbindung mit Abs. 3, §§ 175, 179a Abs. 2 Satz 1 bis 3, 214 Abs. 1, § 246 Abs. 4, §§ 248a, 259 Abs. 5, § 268 Abs. 4, § 270 Abs. 1, § 273 Abs. 2, §§ 293f, 293g Abs. 1, § 312 Abs. 1, § 313 Abs. 1, § 314 Abs. 1 nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
+(1) Vorstandsmitglieder oder Abwickler, die § 52 Abs. 2 Satz 2 bis 4, § 71c, § 73 Abs. 3 Satz 2, §§ 80, 90, 104 Abs. 1, § 111 Abs. 2, § 145, §§ 170, 171 Abs. 3 oder Abs. 4 Satz 1 in Verbindung mit Abs. 3, §§ 175, 179a Abs. 2 Satz 1 bis 3, 214 Abs. 1, § 246 Abs. 4, §§ 248a, 259 Abs. 5, § 268 Abs. 4, § 270 Abs. 1, § 273 Abs. 2, §§ 293f, 293g Abs. 1, § 312 Abs. 1, § 313 Abs. 1, § 314 Abs. 1 nicht befolgen, sowie Aufsichtsratsmitglieder, die § 107 Absatz 4 Satz 1 nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
 (2) Die Anmeldungen zum Handelsregister nach den §§ 36, 45, 52, 181 Abs. 1, §§ 184, 188, 195, 210, 223, 237 Abs. 4, §§ 274, 294 Abs. 1, § 319 Abs. 3 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
 
 # § 407a – Mitteilungen an die Abschlussprüferaufsichtsstelle
 
-(1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 405 Absatz 3b bis 3d.
+(1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 405 Absatz 3b und 3c.
 
 (2) In Strafverfahren, die eine Straftat nach § 404a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 

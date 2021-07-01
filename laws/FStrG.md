@@ -259,6 +259,8 @@ Die Zustimmungsbedürftigkeit nach Satz 1 gilt entsprechend für bauliche Anlage
 
 2. den beteiligten Trägern der Straßenbaulast zur Last, die die Änderung verlangen oder hätten verlangen müssen, und zwar im Verhältnis der Fahrbahnbreiten der an der Kreuzung beteiligten Straßenäste nach der Änderung.
 
+Bei Kreuzungen mit einer kommunalen Straße sind die Vorteile, die dem Träger der Straßenbaulast der Bundesfernstraße durch die Änderung nach Satz 1 entstehen, auszugleichen.
+
 (3a) Wird eine höhengleiche Kreuzung geändert, so gilt für die dadurch entstehenden Kosten der Änderung Absatz 2. Beträgt der durchschnittliche tägliche Verkehr mit Kraftfahrzeugen auf einem der an der Kreuzung beteiligten Straßenäste nicht mehr als 20 vom Hundert des Verkehrs auf anderen beteiligten Straßenästen, so haben die Träger der Straßenbaulast der verkehrsstärkeren Straßenäste im Verhältnis der Fahrbahnbreiten den Anteil der Änderungskosten mitzutragen, der auf den Träger der Straßenbaulast des verkehrsschwächeren Straßenastes entfallen würde.
 
 (4) Über die Errichtung neuer sowie die wesentliche Änderung bestehender Kreuzungen zwischen Bundesfernstraßen und anderen öffentlichen Straßen wird durch die Planfeststellung entschieden. Diese soll zugleich die Aufteilung der Kosten regeln.
@@ -486,6 +488,8 @@ auf Vorschlag oder mit Zustimmung des Vorhabenträgers beauftragen. § 73 Absatz
 (6a) Ein Rechtsbehelf gegen eine vorzeitige Besitzeinweisung hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 (7) Die Absätze 1 bis 6a gelten entsprechend für Grundstücke, die für die in § 17f genannten Anlagen oder für Unterhaltungsmaßnahmen benötigt werden. Bei Unterhaltungsmaßnahmen bedarf es nicht der vorherigen Planfeststellung oder Plangenehmigung.
+
+(8) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
 # § 19 – Enteignung
 

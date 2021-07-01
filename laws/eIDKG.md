@@ -137,6 +137,8 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 2. für das Führen einer Sperrliste nach § 9 Absatz 3 ist der Sperrlistenbetreiber nach § 3 Absatz 3 Nummer 3.
 
+(4) Für das elektronisch beantragte Neusetzen der Geheimnummer ist der Kartenhersteller zuständig.
+
 # § 7 – Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk die antragstellende Person oder der Karteninhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Ist die Person nicht meldepflichtig, ist die eID-Karte-Behörde zuständig, in deren Bezirk die Person im Zeitpunkt der Antragstellung oder des die behördliche Tätigkeit auslösenden Ereignisses wohnt.
@@ -197,6 +199,8 @@ Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung
 
 (3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten aus dem Chip der eID-Karte. Für die Einzelheiten der Datenübermittlung gilt § 18 Absatz 2 Satz 2, Absatz 3, 4 und 5 des Personalausweisgesetzes entsprechend.
 
+(4) eID-Karte-Behörden dürfen im Rahmen der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes einen elektronischen Identitätsnachweis durchführen und hierzu ein hoheitliches Berechtigungszertifikat verwenden.
+
 # § 13 – Vor-Ort-Auslesen
 
 (1) Der Karteninhaber kann seine eID-Karte ferner dazu verwenden, die im Chip gespeicherten Daten zum Zwecke der medienbruchfreien Übernahme von Formulardaten unter Anwesenden zu übermitteln.
@@ -206,6 +210,12 @@ Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung
 # § 14 – Speicherung im Rahmen des elektronischen Identitätsnachweises
 
 Für die Speicherung von Daten im Rahmen des elektronischen Identitätsnachweises, auch durch Identifizierungsdiensteanbieter, gelten die §§ 19 und 19a des Personalausweisgesetzes entsprechend.
+
+# § 14a – Hoheitliche Berechtigungszertifikate
+
+(1) eID-Karte-Behörden und der Kartenhersteller erhalten hoheitliche Berechtigungszertifikate. Umfang und Inhalt der in Satz 1 genannten hoheitlichen Berechtigungszertifikate bestimmen sich durch die aufgrund dieses Gesetzes den eID-Karte-Behörden und dem Kartenhersteller jeweils zugewiesenen Zuständigkeiten.
+
+(2) Das Bundesamt für Sicherheit in der Informationstechnik erhält hoheitliche Berechtigungszertifikate zur Qualitätssicherung anhand von Testausweisen.
 
 # § 15 – Berechtigungen für Diensteanbieter
 

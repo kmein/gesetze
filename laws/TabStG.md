@@ -700,7 +700,7 @@ d) zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch der 
 
 3. zur Durchführung
 
-a) des Artikels 35 der Systemrichtlinie das Verfahren bei der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat unter Verwendung des Begleitdokuments nach Artikel 34 der Systemrichtlinie und den dazu ergangenen Verordnungen in den jeweils geltenden Fassungen zu regeln und vorzusehen, dass durch bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden kann,
+a) der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19. Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) das Verfahren bei der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs und des Versandhandels näher zu regeln und dabei auch zuzulassen, dass durch bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden kann,
 
 b) der Artikel 14 und 41 der Systemrichtlinie Tabakwaren, die zum unmittelbaren Verbrauch an Bord als Schiffs- und Flugzeugbedarf an die Besatzung und an Reisende abgegeben werden, von der Steuer zu befreien und die notwendigen Verfahrensvorschriften zu erlassen und zur Sicherung des Steueraufkommens anzuordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht;
 

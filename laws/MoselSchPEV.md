@@ -41,7 +41,7 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 Nr. 2 der Verordnung vom 26. Febr
 
 (6) Zuständige Behörde für die Zulassung von Baumustern von Signalleuchten nach § 3.02 Nr. 2 der Anlage ist das Bundesamt für Seeschiffahrt und Hydrographie.
 
-(7) Zuständige Behörden für die Entgegennahme der Meldungen nach § 9.05 Nummer 3 Satz 1 der Anlage sind die Revierzentralen der Generaldirektion Wasserstraßen und Schifffahrt in Duisburg und Oberwesel.
+(7) Zuständige Behörde für die Entgegennahme der Meldungen nach § 9.05 Nummer 3 Satz 1 der Anlage ist die Revierzentrale der Generaldirektion Wasserstraßen und Schifffahrt in Oberwesel.
 
 (8) Zuständige Behörde für die Zulassung einer Annahmestelle nach § 11.05 Nummer 2 Satz 1 der Anlage ist die nach Landesrecht bestimmte Behörde.
 
@@ -311,7 +311,7 @@ d) die Wache oder Aufsicht nach § 7.08 Nummer 1, Nummer 1 Buchstabe a in Verbin
 
 e) die Höchstabmessungen der Fahrzeuge, Schubverbände oder Schleppverbände nach § 8.01 Nummer 1,
 
-f) die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 Nummer 4 bis 6 oder Nummer 8 oder
+f) die Meldepflicht nach § 9.05 Nummer 1 in Verbindung mit Nummer 2, Nummer 3 Satz 2, Nummer 4 bis 9, Nummer 11 oder Nummer 12 oder
 
 g) die Aufbewahrung des Ölkontrollbuches nach § 11.05 Nummer 1 Satz 2 oder 3 oder der Entladebescheinigung nach § 11.08 Nummer 2 Satz 2
 

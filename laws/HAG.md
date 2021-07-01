@@ -61,11 +61,7 @@ c) Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder nach
 
 (2) Der Heimarbeitsausschuß besteht aus je drei Beisitzern aus Kreisen der Auftraggeber und Beschäftigten seines Zuständigkeitsbereichs und einem von der zuständigen Arbeitsbehörde bestimmten Vorsitzenden. Weitere sachkundige Personen können zugezogen werden; sie haben kein Stimmrecht. Die Beisitzer haben Stellvertreter, für die Satz 1 entsprechend gilt.
 
-(3) Der Heimarbeitsausschuß ist beschlußfähig, wenn außer dem Vorsitzenden mindestens mehr als die Hälfte der Beisitzer anwesend sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der Vorsitzende sein Stimmrecht aus. Die Teilnahme an Sitzungen des Heimarbeitsausschusses sowie die Beschlussfassung können aus Anlass der COVID-19-Pandemie auf Vorschlag des Vorsitzenden mittels einer Video- oder Telefonkonferenz erfolgen, wenn
-
-1. kein Beisitzer diesem Verfahren unverzüglich widerspricht und
-
-2. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+(3) Der Heimarbeitsausschuß ist beschlußfähig, wenn außer dem Vorsitzenden mindestens mehr als die Hälfte der Beisitzer anwesend sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der Vorsitzende sein Stimmrecht aus.
 
 (4) Der Heimarbeitsausschuß kann sonstige Bestimmungen über die Geschäftsführung in einer schriftlichen Geschäftsordnung treffen. Für die Beschlußfassung über die Geschäftsordnung gilt Absatz 3.
 

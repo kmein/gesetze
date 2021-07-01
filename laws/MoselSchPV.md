@@ -931,6 +931,7 @@ Anstrich und Außenreinigung der Fahrzeuge
 | Anlage 9:  | (ohne Inhalt)                                                                                                                                         |
 | Anlage 10: | Muster für das Ölkontrollbuch                                                                                                                         |
 | Anlage 11  | Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf dem Fahrzeug |
+| Anlage 12  | Verzeichnis der Fahrzeug- und Verbandsarten                                                                                                           |
 
 # § 1.01 – Begriffsbestimmungen
 
@@ -3700,73 +3701,126 @@ Solange ihnen diese Brückenöffnung und diese Schleusenkammer nicht zugewiesen 
 
 # § 9.05 – Meldepflicht
 
-1. Die Schiffsführer von Fahrzeugen und Verbänden, die dem ADN unterliegen, Tankschiffen, Kabinenschiffe, Seeschiffen und Sondertransporten nach § 1.21 müssen sich vor der Einfahrt in die Moselstrecke zwischen der Schleuse Metz (km 296,88) und der Mündung in den Rhein oder bei Antritt der Fahrt innerhalb dieser Strecke auf dem von der zuständigen Behörde bekannt gegebenen Kanal melden und folgende Angaben machen:
+1. Die Schiffsführer der Verbände und der nachfolgend aufgeführten Fahrzeuge müssen sich vor der Einfahrt in die unter Nummer 11 genannten Strecken oder bei Antritt der Fahrt innerhalb dieser Strecken auf dem bekannt gegebenen Kanal über Sprechfunk melden:
 
-a) Schiffsgattung;
+a) Fahrzeuge, die Güter an Bord haben, deren Beförderung dem ADN unterliegt;
 
-b) Schiffsname;
+b) Tankschiffe, ausgenommen Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN bei - gefügten Verordnung;
 
-c) Standort, Fahrtrichtung;
+c) Fahrzeuge, die Container befördern;
 
-d) einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Nummer;
+d) Fahrzeuge mit einer Länge über 110 m;
 
-e) Tragfähigkeit;
+e) Kabinenschiffe;
 
-f) Länge und Breite des Fahrzeugs;
+f) Seeschiffe;
 
-g) Art, Länge und Breite des Verbandes;
+g) Fahrzeuge, die ein LNG-System an Bord haben;
 
-h) Tiefgang (nur auf besondere Aufforderung);
+h) Sondertransporte nach § 1.21.
 
-i) Fahrtroute;
+2. Im Rahmen der Meldung nach Nummer 1 sind anzugeben:
 
-j) Beladehafen;
+a) Schiffsname des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
-k) Entladehafen;
+b) einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Nummer des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
-l) bei Gefahrgütern nach ADN:
+c) Art des Fahrzeugs oder Verbands und bei Verbänden, Art aller Fahrzeuge gemäß Anlage 12;
 
-  
-die UN-Nummer oder Stoffnummer,
+d) Tragfähigkeit des Fahrzeugs und bei Verbänden aller Fahrzeuge im Verband;
 
-die offizielle Benennung für die Beförderung, sofern zutreffend ergänzt durch die technische Bezeichnung,
+e) Länge und Breite des Fahrzeugs und bei Verbänden Länge und Breite des Verbands und aller Fahrzeuge im Verband;
 
-die Klasse, der Klassifizierungscode und gegebenenfalls die Verpackungsgruppe,
+f) Vorhandensein eines LNG-Systems an Bord;
 
-die Gesamtmenge der gefährlichen Güter, für die diese Angaben gelten;
-
-bei anderen Gütern:
-
-  
-die Art der Ladung (Stoffname, Stoffmenge);
-
-m) 0, 1, 2, 3 blaue Lichter/Kegel;
-
-n) Anzahl der an Bord befindlichen Personen.
-
-2. Unbeschadet der Verpflichtung nach Nummer 1 müssen sich die Schiffsführer aller Fahrzeuge und Verbände, ausgenommen Fähren und Kleinfahrzeuge, vor der Einfahrt in die Moselstrecke zwischen km 233,00 (Stauhaltung Stadtbredimus/Palzem) und der Mündung in den Rhein oder bei Antritt der Fahrt innerhalb dieser Strecke auf dem von der zuständigen Behörde bekannt gegebenen Kanal melden und die Angaben nach Nummer 1 Buchstabe a bis h sowie zusätzlich folgende Angaben machen:
-
-a) Beladungszustand (leer oder beladen);
-
-b) voraussichtliche Ankunft an der Eingangsschleuse:
+g) bei Fahrzeugen, die Güter an Bord haben, deren Beförderung dem ADN unterliegt:
 
 aa)  
-Talfahrer an der Schleuse Stadtbredimus/Palzem,
+die UN-Nummer oder Nummer des Gefahrguts;
 
 bb)  
-Bergfahrer an der Schleuse Koblenz.
+die offizielle Benennung für die Beförderung des Gefahrguts;
 
-3. Die unter Nummer 1, ausgenommen Buchstabe c, h und n, und unter Nummer 2 genannten Angaben können auch von anderen Stellen oder Personen schriftlich, mündlich oder elektronisch der zuständigen Behörde rechtzeitig mitgeteilt werden. Für Transporte von mehr als zwei verschiedenen Gefahrgütern muss die Meldung schriftlich oder elektronisch abgegeben werden. In jedem Fall muss der Schiffsführer melden, wenn er mit seinem Fahrzeug oder Verband in eine der meldepflichtigen Strecken einfährt, diese wieder verlässt und innerhalb der Strecke einen weiteren Meldepunkt in seiner Fahrtrichtung passiert.
+cc) die Klasse, den Klassifizierungscode und gegebenenfalls die Verpackungsgruppe des Gefahrguts;
 
-4. Unterbricht ein Fahrzeug die Fahrt für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung melden.
+dd)  
+die Gesamtmenge der gefährlichen Güter, für die diese Angaben gelten;
 
-5. Ändern sich die Angaben nach Nummer 1 während der Fahrt in der meldepflichtigen Strecke, ist dies der nächsten Schleuse unverzüglich mitzuteilen.
+ee)  
+die Anzahl blauer Lichter/blauer Kegel;
 
-6. Alle Fahrzeuge, die eine vollständige Meldung nach Nummer 1 oder 2 abgegeben haben, sowie Fahrzeuge die auf dem Rhein bereits eine Meldung nach § 12.01 der Rheinschifffahrtspolizeiverordnung abgegeben haben und in die Mosel einfahren, müssen an den weiteren Meldepunkten in ihrer Fahrtrichtung nur noch die Angaben nach Nummer 1 Buchstabe a bis d wiederholen.
+h) bei Fahrzeugen, die Güter an Bord haben, deren Beförderung nicht dem ADN unterliegt und die nicht in einem Container befördert werden: Art und Menge der Ladung;
 
-7. Die meldepflichtige Moselstrecke nach Nummer 1 sowie die Meldepunkte in der jeweiligen Fahrtrichtung vor den Schleusen innerhalb der Moselstrecke nach Nummer 2 sind mit dem Tafelzeichen B.11 (Anlage 7) und einer Zusatztafel "Meldepflicht" gekennzeichnet.
+i) Anzahl der an Bord befindlichen Container entsprechend ihrer Größe, ihres Types und ihres Beladungszustandes (beladen oder unbeladen) und die jeweilige Stauplanposition der Container;
 
-8. Die zuständige Behörde kann für Tagesausflugsschiffe eine Meldepflicht und deren Umfang festlegen.
+j) Containernummer der Gefahrgutcontainer;
+
+k) Anzahl der an Bord befindlichen Personen;
+
+l) Standort, Fahrtrichtung;
+
+m) Tiefgang (nur auf besondere Aufforderung);
+
+n) Fahrtroute mit Angabe von Start- und Zielhafen;
+
+o) Beladehafen;
+
+p) Entladehafen.
+
+3. Die unter Nummer 2 genannten Angaben mit Ausnahme von Buchstabe l und m können auch von anderen Stellen oder Personen schriftlich, telefonisch oder auf elektronischem Wege der zuständigen Behörde mitgeteilt werden. In jedem Fall muss der Schiffsführer seiner Meldepflicht nach Nummer 1 genügen.
+
+4. Sofern sich der Schiffsführer oder eine andere Stelle oder Person auf elektronischem Wege meldet,
+
+a) muss die Meldung gemäß dem Standard für elektronische Meldungen in der Binnenschifffahrt in der jeweils geltenden Fassung der Zentralkommission für die Rheinschifffahrt erfolgen,
+
+b) ist abweichend von Nummer 2 Buchstabe c der Typ des Fahrzeugs oder Verbands gemäß dem in Buchstabe a genannten Standard anzugeben.
+
+5. Die Meldung nach Nummer 2 mit Ausnahme der Angaben von Buchstabe l und m muss bei folgenden Fahrzeugen auf elektronischem Wege erfolgen:
+
+a) Verbänden und Fahrzeugen, die Container an Bord haben,
+
+b) Verbänden und Fahrzeugen, bei denen mindestens ein Fahrzeug zur Güterbeförderung in festverbundenen Tanks bestimmt ist, ausgenommen Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN beigefügten Verordnung.
+
+6. Unterbricht ein Verband oder ein Fahrzeug nach Nummer 1 die Fahrt für mehr als zwei Stunden, hat der Schiffsführer dies der zuständigen Behörde nach Nummer 11 unverzüglich zu Beginn und am Ende der Unterbrechung über Sprechfunk mitzuteilen.
+
+7. Ändern sich die Angaben nach Nummer 2 während der Fahrt in der Strecke, wo die Meldepflicht gilt, ist dies der zuständigen Behörde nach Nummer 11 unverzüglich mitzuteilen. Die Änderung der Angaben ist über Sprechfunk, schriftlich oder auf elektronischem Wege zu übermitteln.
+
+8. Folgende Fahrzeuge oder Verbände, die in die Mosel einfahren, müssen an den weiteren Meldepunkten in ihrer Fahrtrichtung nur noch die Angaben nach Nummer 2 Buchstabe a bis c wiederholen:
+
+a) Fahrzeuge oder Verbände, die bereits eine vollständige Meldung nach Nummer 2 abgegeben haben,
+
+b) Fahrzeuge oder Verbände, die bereits auf dem Rhein eine Meldung nach § 12.01 der Rheinschifffahrtspolizeiverordnung abgegeben haben,
+
+c) Fahrzeuge oder Verbände, die bereits auf der Saar eine Meldung nach § 20.15 der Binnenschifffahrtsstraßen-Ordnung abgegeben haben.
+
+  
+Bei Verbänden müssen diese Angaben nur für das Fahrzeug mitgeteilt werden, das die Hauptantriebskraft stellt.
+
+9. Unabhängig der Verpflichtung nach Nummer 1 müssen sich die Schiffsführer aller Fahrzeuge und Verbände, ausgenommen Fähren und Kleinfahrzeuge, auf dem von der zuständigen Behörde bekannt gegebenen Kanal bei Vorbeifahrt am Tafelzeichen B.11 in ihrer Fahrtrichtung melden und die Angaben nach Nummer 2 Buchstabe a bis c machen. Bei Verbänden müssen diese Angaben nur für das Fahrzeug mitgeteilt werden, das die Hauptantriebskraft stellt.
+
+10. Die meldepflichtige Moselstrecke nach Nummer 1 sowie die Meldepunkte innerhalb dieser Strecke sind mit dem Tafelzeichen B.11 (Anlage 7) und einer Zusatztafel „Meldepflicht“ gekennzeichnet.
+
+11. Auf den Strecken
+
+a) Moselmündung (km 0) bis Sauermündung (km 205,87),
+
+b) Sauermündung (km 205,87) bis Apach (km 242,21) und
+
+c) Apach (km 242,21) bis zur Schleuse Metz (km 296,88),
+
+  
+die mit dem Tafelzeichen B.11 und einer Zusatztafel „Meldepflicht“ gekennzeichnet sind, gilt die Meldepflicht nach Nummer 1 mit folgenden Maßgaben:
+
+\-  
+auf der Strecke nach Buchstabe a sind die Angaben nach Nummer 2 vom Schiffsführer an die Revierzentrale Oberwesel zu übermitteln,
+
+\-  
+auf der Strecke nach Buchstabe b sind die Angaben nach Nummer 2 vom Schiffsführer an die jeweiligen Schleusen zu übermitteln,
+
+\-  
+auf der Strecke nach Buchstabe c sind die Angaben nach Nummer 2 vom Schiffsführer an die Leitzentrale Kœnigsmacker zu übermitteln.
+
+12. Die zuständige Behörde kann für Bunkerboote und Bilgenentölungsboote im Sinne des Abschnitts 1.2.1 der dem ADN beigefügten Verordnung sowie Tagesausflugsschiffe eine Meldepflicht und deren Umfang festlegen.
 
 # § 10.01 – Hochwassermarken
 
@@ -5962,6 +6016,6 @@ Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m 
 |        ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2015/j1020_0020.JPG)        |
 | Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband |
 
-# Anlage 12
+# Anlage 12 – Verzeichnis der Fahrzeug- und Verbandsarten
 
-(weggefallen)
+(Fundstelle: BGBl. II Nr. 8, S. 356 - 357)

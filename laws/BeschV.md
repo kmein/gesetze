@@ -515,7 +515,7 @@ Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialge
 
 # Anlage – (zu § 38)
 
-(Fundstelle: BGBl I 2013, 3903 u. 3904)
+(Fundstelle: BGBl I 2021, 1253)
 
 1. Afghanistan (Islamische Republik Afghanistan),
 
@@ -529,104 +529,84 @@ Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialge
 
 6. Benin (Republik),
 
-7. Bhutan (Königreich Bhutan),
+7. Burkina Faso,
 
-8. Burkina Faso,
+8. Burundi (Republik),
 
-9. Burundi (Republik),
+9. Côte d'Ivoire (Republik),
 
 10. Dschibuti (Republik),
 
-11. El Salvador (Republik),
+11. Eritrea (Staat),
 
-12. Elfenbeinküste (Republik Côte d´Ivoire),
+12. Gabun (Gabunische Republik),
 
-13. Eritrea (Staat Eritrea),
+13. Gambia (Republik),
 
-14. Gambia (Republik),
+14. Ghana (Republik),
 
-15. Ghana (Republik),
+15. Guinea (Republik),
 
-16. Guinea (Republik),
+16. Guinea-Bissau (Republik),
 
-17. Guinea-Bissau (Republik),
+17. Haiti (Republik),
 
-18. Haiti (Republik),
+18. Jemen (Republik),
 
-19. Honduras (Republik),
+19. Kamerun (Republik),
 
-20. Indien (Republik),
+20. Kiribati (Republik),
 
-21. Indonesien (Republik),
+21. Kongo (Demokratische Republik),
 
-22. Irak (Republik),
+22. Kongo (Republik),
 
-23. Jemen (Republik),
+23. Lesotho (Königreich Lesotho),
 
-24. Kambodscha (Königreich Kambodscha),
+24. Liberia (Republik),
 
-25. Kamerun (Republik),
+25. Madagaskar (Republik),
 
-26. Kenia (Republik),
+26. Malawi (Republik),
 
-27. Komoren (Union der Komoren),
+27. Mali (Republik),
 
-28. Kongo (Demokratische Republik),
+28. Mauretanien (Islamische Republik Mauretanien),
 
-29. Kongo (Republik),
+29. Mikronesien (Föderierte Staaten von Mikronesien),
 
-30. Laos (Demokratische Volksrepublik Laos),
+30. Mosambik (Republik),
 
-31. Lesotho (Königreich Lesotho),
+31. Nepal,
 
-32. Liberia (Republik),
+32. Niger (Republik),
 
-33. Madagaskar (Republik),
+33. Nigeria (Bundesrepublik),
 
-34. Malawi (Republik),
+34. Pakistan (Islamische Republik Pakistan),
 
-35. Mali (Republik),
+35. Papua-Neuguinea (Unabhängiger Staat Papua-Neuguinea),
 
-36. Marokko (Königreich Marokko),
+36. Salomonen,
 
-37. Mauretanien (Islamische Republik Mauretanien),
+37. Senegal (Republik),
 
-38. Mozambik (Republik),
+38. Sierra Leone (Republik),
 
-39. Myanmar (Union Myanmar),
+39. Somalia (Bundesrepublik),
 
-40. Nepal (Königreich Nepal),
+40. Sudan (Republik),
 
-41. Nicaragua (Republik),
+41. Südsudan (Republik),
 
-42. Niger (Republik),
+42. Tansania (Vereinigte Republik Tansania),
 
-43. Nigeria (Bundesrepublik),
+43. Togo (Republik),
 
-44. Pakistan (Islamische Republik Pakistan),
+44. Tschad (Republik),
 
-45. Papua-Neuguinea (Unabhängiger Staat Papua-Neuguinea),
+45. Uganda (Republik),
 
-46. Peru (Republik),
+46. Vanuatu (Republik),
 
-47. Ruanda (Republik),
-
-48. Sambia (Republik),
-
-49. Senegal (Republik),
-
-50. Sierra Leone (Republik),
-
-51. Simbabwe (Republik),
-
-52. Somalia (Demokratische Republik Somalia),
-
-53. Tansania (Vereinigte Republik Tansania),
-
-54. Togo (Togolesische Republik),
-
-55. Tschad (Republik),
-
-56. Uganda (Republik),
-
-57. Zentralafrikanische Republik.
+47. Zentralafrikanische Republik.

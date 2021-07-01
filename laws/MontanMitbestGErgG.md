@@ -23,7 +23,7 @@ Soweit Konzernunternehmen und abhängige Unternehmen Umsätze erzielen, die nich
 
 # § 4
 
-(1) Das nach § 3 maßgebliche Umsatzverhältnis hat der Abschlußprüfer des herrschenden Unternehmens zu ermitteln. Ist der Jahresabschluß des herrschenden Unternehmens nicht auf Grund gesetzlicher Vorschriften durch Abschlußprüfer zu prüfen, so wird das Umsatzverhältnis von einem in entsprechender Anwendung der §§ 318, 319 Abs. 1 bis 4, § 319a Abs. 1 und § 319b des Handelsgesetzbuchs zu bestellenden Prüfer ermittelt.
+(1) Das nach § 3 maßgebliche Umsatzverhältnis hat der Abschlußprüfer des herrschenden Unternehmens zu ermitteln. Ist der Jahresabschluß des herrschenden Unternehmens nicht auf Grund gesetzlicher Vorschriften durch Abschlußprüfer zu prüfen, so wird das Umsatzverhältnis von einem in entsprechender Anwendung der §§ 318, 319 Absatz 1 bis 4 und § 319b des Handelsgesetzbuchs sowie des Artikels 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) zu bestellenden Prüfer ermittelt.
 
 (2) Der Prüfer hat für jedes Geschäftsjahr vor Ablauf von fünf Monaten nach dessen Ende über das Ergebnis seiner Ermittlungen schriftlich zu berichten. Der Bericht ist den Verwaltungsträgern des herrschenden Unternehmens vorzulegen.
 

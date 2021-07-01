@@ -931,7 +931,7 @@ Ist der Verschmelzungsvertrag unter einer Bedingung geschlossen worden und ist d
 
 # § 11 – Stellung und Verantwortlichkeit der Verschmelzungsprüfer
 
-(1) Für die Auswahl und das Auskunftsrecht der Verschmelzungsprüfer gelten § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Soweit Rechtsträger betroffen sind, für die keine Pflicht zur Prüfung des Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei findet § 267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung der Größenklassen entsprechende Anwendung. Das Auskunftsrecht besteht gegenüber allen an der Verschmelzung beteiligten Rechtsträgern und gegenüber einem Konzernunternehmen sowie einem abhängigen und einem herrschenden Unternehmen.
+(1) Für die Auswahl und das Auskunftsrecht der Verschmelzungsprüfer gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Soweit Rechtsträger betroffen sind, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, gilt für die Auswahl der Verschmelzungsprüfer neben Satz 1 auch Artikel 5 Absatz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) entsprechend mit der Maßgabe, dass an die Stelle der in Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe a und b der Verordnung (EU) Nr. 537/2014 genannten Zeiträume der Zeitraum zwischen dem Beginn des Geschäftsjahres, welches dem Geschäftsjahr vorausgeht, in dem der Verschmelzungsvertrag geschlossen wurde, und dem Zeitpunkt, in dem der Verschmelzungsprüfer den Prüfungsbericht nach § 12 erstattet hat, tritt. Soweit Rechtsträger betroffen sind, für die keine Pflicht zur Prüfung des Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei findet § 267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung der Größenklassen entsprechende Anwendung. Das Auskunftsrecht besteht gegenüber allen an der Verschmelzung beteiligten Rechtsträgern und gegenüber einem Konzernunternehmen sowie einem abhängigen und einem herrschenden Unternehmen.
 
 (2) Für die Verantwortlichkeit der Verschmelzungsprüfer, ihrer Gehilfen und der bei der Prüfung mitwirkenden gesetzlichen Vertreter einer Prüfungsgesellschaft gilt § 323 des Handelsgesetzbuchs entsprechend. Die Verantwortlichkeit besteht gegenüber den an der Verschmelzung beteiligten Rechtsträgern und deren Anteilsinhabern.
 
@@ -3061,13 +3061,15 @@ Auf später fällig werdende und vor Inkrafttreten des Gesetzes zur zeitlichen B
 
 \-
 
-# § 321 – Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie und zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes
+# § 321 – Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz
 
 (1) Im Fall des § 15 Abs. 2 Satz 1 bleibt es für die Zeit vor dem 1. September 2009 bei dem bis dahin geltenden Zinssatz.
 
 (2) § 16 Abs. 3 Satz 3 Nr. 2 in der Fassung des Gesetzes zur Umsetzung der Aktionärsrechterichtlinie vom 30. Juli 2009 (BGBl. I S. 2479) ist nicht auf Freigabeverfahren und Beschwerdeverfahren anzuwenden, die vor dem 1. September 2009 anhängig waren.
 
 (3) § 62 Absatz 4 und 5, § 63 Absatz 2 Satz 5 bis 7, § 64 Absatz 1 sowie § 143 in der Fassung des Dritten Gesetzes zur Änderung des Umwandlungsgesetzes vom 11. Juli 2011 (BGBl. I S. 1338) sind erstmals auf Umwandlungen anzuwenden, bei denen der Verschmelzungs- oder Spaltungsvertrag nach dem 14. Juli 2011 geschlossen worden ist.
+
+(4) § 11 in der ab 1. Juli 2021 geltenden Fassung ist erstmals auf die Prüfung von Verschmelzungen anzuwenden, deren Verschmelzungsvertrag nach dem 31. Dezember 2021 geschlossen wurde. § 11 in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals auf die Prüfung von Verschmelzungen anzuwenden, deren Verschmelzungsvertrag vor dem 1. Januar 2022 geschlossen wurde.
 
 # § 322 – Gemeinsamer Betrieb
 

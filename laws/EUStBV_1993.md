@@ -7,7 +7,7 @@ Auf Grund des Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes
 
 # § 1 – Allgemeines
 
-(1) Einfuhrumsatzsteuerfrei ist, vorbehaltlich der §§ 1a bis 10, die Einfuhr von Gegenständen, die nach Kapitel I und III der Verordnung (EWG) Nr. 918/83 des Rates vom 28. März 1983 über das gemeinschaftliche System der Zollbefreiungen (ABl. EG Nr. L 105 S. 1, Nr. L 274 S. 40, 1984 Nr. L 308 S. 64, 1985 Nr. L 256 S. 47, 1986 Nr. L 271 S. 31), die zuletzt durch die Verordnung (EG) Nr. 274/2008 vom 17. März 2008 (ABl. EU Nr. L 85 S. 1) geändert worden ist, zollfrei eingeführt werden können, in entsprechender Anwendung dieser Vorschriften sowie der Durchführungsvorschriften dazu; ausgenommen sind die Artikel 29 bis 31, 45, 52 bis 59b, 63a und 63b der Verordnung (EWG) Nr. 918/83.
+(1) Einfuhrumsatzsteuerfrei ist, vorbehaltlich der §§ 2 bis 10, die Einfuhr von Gegenständen, die nach Kapitel I und III der Verordnung (EWG) Nr. 918/83 des Rates vom 28. März 1983 über das gemeinschaftliche System der Zollbefreiungen (ABl. EG Nr. L 105 S. 1, Nr. L 274 S. 40, 1984 Nr. L 308 S. 64, 1985 Nr. L 256 S. 47, 1986 Nr. L 271 S. 31), die zuletzt durch die Verordnung (EG) Nr. 274/2008 vom 17. März 2008 (ABl. EU Nr. L 85 S. 1) geändert worden ist, zollfrei eingeführt werden können, in entsprechender Anwendung dieser Vorschriften sowie der Durchführungsvorschriften dazu; ausgenommen sind die Artikel 27 bis 31, 45, 52 bis 59b, 63a und 63b der Verordnung (EWG) Nr. 918/83.
 
 (1a) Im Sinne dieser Verordnung gilt als Zollkodex die Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1, 1993 Nr. L 79 S. 84, 1996 Nr. L 97 S. 387), zuletzt geändert durch die Verordnung (EG) Nr. 2700/2000 des Europäischen Parlaments und des Rates vom 16. November 2000 (ABl. EG Nr. L 311 S. 17), in der jeweils geltenden Fassung. Im Sinne dieser Verordnung gilt als Durchführungsverordnung zum Zollkodex die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 253 S. 1, 1994 Nr. L 268 S. 32, 1996 Nr. L 180 S. 34, 1997 Nr. L 156 S. 59, 1999 Nr. L 111 S. 88), zuletzt geändert durch die Verordnung (EG) Nr. 1335/2003 der Kommission vom 25. Juli 2003 (ABl. EU Nr. L 187 S. 16), in der jeweils geltenden Fassung.
 
@@ -23,9 +23,7 @@ in sinngemäßer Anwendung der genannten Vorschriften sowie der Durchführungsvo
 
 (3) Einfuhrumsatzsteuerfrei ist ferner die Einfuhr der Gegenstände, die nach den §§ 12, 14 bis 22 der Zollverordnung vom 23. Dezember 1993 (BGBl. I S. 2449) in der jeweils geltenden Fassung frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
-# § 1a – Sendungen von geringem Wert
-
-Die Einfuhrumsatzsteuerfreiheit für Sendungen von Waren mit geringem Wert im Sinne des Artikels 27 der Verordnung (EWG) Nr. 918/83 ist auf Waren beschränkt, deren Gesamtwert 22 Euro je Sendung nicht übersteigt.
+# § 1a – (weggefallen)
 
 # § 2 – Investitionsgüter und andere Ausrüstungsgegenstände
 

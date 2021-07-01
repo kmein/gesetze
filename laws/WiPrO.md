@@ -949,7 +949,7 @@ Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüfe
 
 § 134a
 
-(weggefallen)
+Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
 § 135
 
@@ -1598,7 +1598,7 @@ Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer, die aufgr
 
 (2) Berufsangehörige haben sich jeder Tätigkeit zu enthalten, die mit ihrem Beruf oder mit dem Ansehen des Berufs unvereinbar ist. Sie haben sich der besonderen Berufspflichten bewusst zu sein, die ihnen aus der Befugnis erwachsen, gesetzlich vorgeschriebene Bestätigungsvermerke zu erteilen. Sie haben sich auch außerhalb der Berufstätigkeit des Vertrauens und der Achtung würdig zu erweisen, die der Beruf erfordert. Sie sind verpflichtet, sich fortzubilden.
 
-(3) Wer Abschlussprüfer eines Unternehmens von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs war oder wer als verantwortlicher Prüfungspartner im Sinne des § 319a Absatz 1 Satz 4 und Absatz 2 Satz 2 des Handelsgesetzbuchs bei der Abschlussprüfung eines solchen Unternehmens tätig war, darf dort innerhalb von zwei Jahren nach der Beendigung der Prüfungstätigkeit keine wichtige Führungstätigkeit ausüben und nicht Mitglied des Aufsichtsrats, des Prüfungsausschusses des Aufsichtsrats oder des Verwaltungsrats sein. Satz 1 gilt mit der Maßgabe, dass die Frist ein Jahr beträgt, entsprechend für
+(3) Wer Abschlussprüfer eines Unternehmens von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs war oder wer als verantwortlicher Prüfungspartner im Sinne der Sätze 3 oder 4 bei der Abschlussprüfung eines solchen Unternehmens tätig war, darf dort innerhalb von zwei Jahren nach der Beendigung der Prüfungstätigkeit keine wichtige Führungstätigkeit ausüben und nicht Mitglied des Aufsichtsrats, des Prüfungsausschusses des Aufsichtsrats oder des Verwaltungsrats sein. Satz 1 gilt mit der Maßgabe, dass die Frist ein Jahr beträgt, entsprechend für
 
 1. Personen, die als Abschlussprüfer oder verantwortliche Prüfungspartner gesetzliche Abschlussprüfungen eines sonstigen Unternehmens durchgeführt haben,
 
@@ -1606,7 +1606,19 @@ Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer, die aufgr
 
 3. alle anderen Berufsangehörigen, vereidigten Buchprüfer oder EU- oder EWR-Abschlussprüfer, deren Leistungen der Abschlussprüfer des Unternehmens in Anspruch nehmen oder kontrollieren kann und die unmittelbar am Prüfungsauftrag beteiligt waren.
 
-(4) Berufsangehörige haben während der gesamten Prüfung eine kritische Grundhaltung zu wahren. Dazu gehört es, Angaben zu hinterfragen, auf Gegebenheiten zu achten, die auf eine falsche Darstellung hindeuten könnten, und die Prüfungsnachweise kritisch zu beurteilen.
+Verantwortlicher Prüfungspartner ist, wer den Bestätigungsvermerk nach § 322 des Handelsgesetzbuchs unterzeichnet oder als Wirtschaftsprüfer von einer Wirtschaftsprüfungsgesellschaft als für die Durchführung einer Abschlussprüfung vorrangig verantwortlich bestimmt worden ist. Als verantwortlicher Prüfungspartner gilt auf Konzernebene auch, wer als Wirtschaftsprüfer auf der Ebene bedeutender Tochterunternehmen als für die Durchführung von deren Abschlussprüfung vorrangig verantwortlich bestimmt worden ist.
+
+(4) Berufsangehörige haben während der gesamten Prüfung eine kritische Grundhaltung zu wahren. Dazu gehört es,
+
+1. Angaben zu hinterfragen,
+
+2. ungeachtet ihrer bisherigen Erfahrung mit der Aufrichtigkeit und Integrität des Führungspersonals des geprüften Unternehmens und der mit der Unternehmensüberwachung betrauten Personen die Möglichkeit in Betracht zu ziehen, dass es auf Grund von Sachverhalten oder Verhaltensweisen, die auf Unregelmäßigkeiten wie Betrug oder Unrichtigkeiten hindeuten, zu einer wesentlichen falschen Darstellung gekommen sein könnte,
+
+3. auf Gegebenheiten zu achten, die auf eine falsche Darstellung hindeuten könnten, und
+
+4. die Prüfungsnachweise kritisch zu beurteilen.
+
+Ihre kritische Grundhaltung haben Berufsangehörige insbesondere bei der Beurteilung der Schätzungen des Unternehmens in Bezug auf Zeitwertangaben, Wertminderungen von Vermögensgegenständen, Rückstellungen und künftige Cashflows, die für die Beurteilung der Fähigkeit des Unternehmens zur Fortführung der Unternehmenstätigkeit von Bedeutung sind, beizubehalten.
 
 (5) Berufsangehörige haben bei der Durchführung von Abschlussprüfungen ausreichend Zeit für den Auftrag aufzuwenden und die zur angemessenen Wahrnehmung der Aufgaben erforderlichen Mittel, insbesondere – soweit erforderlich – Personal mit den notwendigen Kenntnissen und Fähigkeiten, einzusetzen.
 
@@ -1617,6 +1629,8 @@ Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer, die aufgr
 2. dem verantwortlichen Prüfungspartner die zur angemessenen Wahrnehmung der Aufgaben erforderlichen Mittel, insbesondere Personal mit den notwendigen Kenntnissen und Fähigkeiten, zur Verfügung zu stellen und
 
 3. den verantwortlichen Prüfungspartner aktiv an der Durchführung der Abschlussprüfung zu beteiligen.
+
+Die für die Durchführung einer gesetzlichen Abschlussprüfung bei einem Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs verantwortlichen Prüfungspartner beenden ihre Teilnahme an der Abschlussprüfung des geprüften Unternehmens abweichend von Artikel 17 Absatz 7 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) spätestens fünf Jahre nach dem Datum ihrer Bestellung.
 
 # § 43a – Regeln der Berufsausübung
 
@@ -1780,15 +1794,15 @@ Wirtschaftsprüfer und vereidigte Buchprüfer sind verpflichtet, die in dem Bera
 
 (4) Handakten im Sinne der Absätze 2 und 3 sind nur solche Schriftstücke, die Berufsangehörige aus Anlass ihrer beruflichen Tätigkeit von ihren Auftraggebern oder für diese erhalten haben, nicht aber die Briefwechsel zwischen den Berufsangehörigen und ihren Auftraggebern, die Schriftstücke, die die Auftraggeber bereits in Urschrift oder Abschrift erhalten haben, sowie die zu internen Zwecken gefertigten Arbeitspapiere.
 
-(5) Bei gesetzlichen Abschlussprüfungen nach § 316 des Handelsgesetzbuchs ist für jede Abschlussprüfung eine Handakte nach Absatz 1 (Prüfungsakte) anzulegen, die spätestens 60 Tage nach Unterzeichnung des Bestätigungsvermerks im Sinne der §§ 322 und 322a des Handelsgesetzbuchs zu schließen ist. Berufsangehörige haben in der Prüfungsakte auch zu dokumentieren,
+(5) Bei gesetzlichen Abschlussprüfungen nach § 316 des Handelsgesetzbuchs ist für jede Abschlussprüfung eine Handakte nach Absatz 1 (Prüfungsakte) anzulegen, die spätestens 60 Tage nach Unterzeichnung des Bestätigungsvermerks im Sinne des § 322 des Handelsgesetzbuchs zu schließen ist. Berufsangehörige haben in der Prüfungsakte auch zu dokumentieren,
 
-1. ob sie die Anforderungen an ihre Unabhängigkeit im Sinne des § 319 Absatz 2 bis 5 und des § 319a des Handelsgesetzbuchs erfüllen, ob ihre Unabhängigkeit gefährdende Umstände vorliegen und welche Schutzmaßnahmen sie gegebenenfalls zur Verminderung dieser Gefahren ergriffen haben,
+1. ob sie die Anforderungen an ihre Unabhängigkeit im Sinne des § 319 Absatz 2 bis 5 des Handelsgesetzbuchs erfüllen, ob ihre Unabhängigkeit gefährdende Umstände vorliegen und welche Schutzmaßnahmen sie gegebenenfalls zur Verminderung dieser Gefahren ergriffen haben,
 
 2. ob sie über die Zeit, das Personal und die sonstigen Mittel verfügen, die nach § 43 Absatz 5 zur angemessenen Durchführung der Abschlussprüfung erforderlich sind,
 
 3. wenn sie den Rat externer Sachverständiger einholen, die entsprechenden Anfragen und die erhaltenen Antworten.
 
-Wirtschaftsprüfungsgesellschaften haben darüber hinaus den verantwortlichen Prüfungspartner zu benennen und zu dokumentieren, dass dieser nach dem Zweiten oder Neunten Teil zugelassen ist. Die Berufsangehörigen haben alle Informationen und Unterlagen aufzubewahren, die zur Begründung des Bestätigungsvermerks im Sinne der §§ 322 und 322a des Handelsgesetzbuchs, des Prüfungsberichts im Sinne des § 321 des Handelsgesetzbuchs oder zur Kontrolle der Einhaltung von Berufspflichten von Bedeutung sind oder die schriftliche Beschwerden über die Durchführung der Abschlussprüfungen beinhalten. Die Dokumentationspflichten nach den Artikeln 6 bis 8 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77) in der jeweils geltenden Fassung und die Aufbewahrungspflicht nach Artikel 15 der Verordnung (EU) Nr. 537/2014 bleiben unberührt.
+Wirtschaftsprüfungsgesellschaften haben darüber hinaus den verantwortlichen Prüfungspartner zu benennen und zu dokumentieren, dass dieser nach dem Zweiten oder Neunten Teil zugelassen ist. Die Berufsangehörigen haben alle Informationen und Unterlagen aufzubewahren, die zur Begründung des Bestätigungsvermerks im Sinne des § 322 des Handelsgesetzbuchs, des Prüfungsberichts im Sinne des § 321 des Handelsgesetzbuchs oder zur Kontrolle der Einhaltung von Berufspflichten von Bedeutung sind oder die schriftliche Beschwerden über die Durchführung der Abschlussprüfungen beinhalten. Die Dokumentationspflichten nach den Artikeln 6 bis 8 der Verordnung (EU) Nr. 537/2014 in der jeweils geltenden Fassung und die Aufbewahrungspflicht nach Artikel 15 der Verordnung (EU) Nr. 537/2014 bleiben unberührt.
 
 (6) Berufsangehörige, die eine Konzernabschlussprüfung durchführen, haben der Wirtschaftsprüferkammer auf deren schriftliche oder elektronische Aufforderung die Unterlagen über die Arbeit von Drittstaatsprüfern und Drittstaatsprüfungsgesellschaften, die in den Konzernabschluss einbezogene Tochterunternehmen prüfen, zu übergeben, soweit diese nicht gemäß § 134 Absatz 1 eingetragen sind und keine Vereinbarung zur Zusammenarbeit gemäß § 57 Absatz 9 Satz 5 Nummer 3 besteht. Erhalten Berufsangehörige keinen Zugang zu den Unterlagen über die Arbeit von Drittstaatsprüfern und Drittstaatsprüfungsgesellschaften, so haben sie den Versuch ihrer Erlangung und die Hindernisse zu dokumentieren und der Wirtschaftsprüferkammer auf deren schriftliche oder elektronische Aufforderung die Gründe dafür mitzuteilen.
 
@@ -1836,7 +1850,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 4. Ersatzansprüche wegen Verletzung oder Nichtbeachtung des Rechts von Drittstaaten, soweit die Ansprüche nicht bei der das Abgabenrecht dieser Staaten betreffenden geschäftsmäßigen Hilfeleistung in Steuersachen entstehen und soweit das den Ersatzansprüchen zugrunde liegende Auftragsverhältnis zwischen Versicherungsnehmer und Auftraggeber nicht deutschem Recht unterliegt.
 
-(4) Die Mindestversicherungssumme für den einzelnen Versicherungsfall muss den in § 323 Absatz 2 Satz 1 des Handelsgesetzbuchs bezeichneten Umfang betragen. Die Vereinbarung eines Selbstbehalts bis zur Höhe von 1 Prozent der Mindestversicherungssumme ist zulässig. Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die Wirtschaftsprüferkammer.
+(4) Die Mindestversicherungssumme für den einzelnen Versicherungsfall beträgt 1 Million Euro. Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können bei Berufsangehörigen auf den vierfachen Betrag der Mindestversicherungssumme begrenzt werden. Bei Wirtschaftsprüfungsgesellschaften können die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden auf den Betrag der Mindestversicherungssumme, vervielfacht mit der Zahl der Gesellschafter, der Partner und der Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden, wobei sich die Jahreshöchstleistung jedoch mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen muss. Die Vereinbarung eines Selbstbehalts bis zur Höhe von 1 Prozent der Mindestversicherungssumme ist zulässig. Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die Wirtschaftsprüferkammer.
 
 (5) Die Wirtschaftsprüferkammer erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen, die Adresse und die Versicherungsnummer der Berufshaftpflichtversicherung der Berufsangehörigen, der Wirtschaftsprüfungsgesellschaften oder der Partnerschaften mit beschränkter Berufshaftung, soweit diese kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft haben.
 
@@ -1890,7 +1904,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 2. Vorkehrungen zum Einsatz angemessener und wirksamer Systeme und Verfahren sowie der zur angemessenen Wahrnehmung der Aufgaben erforderlichen Mittel und des dafür erforderlichen Personals,
 
-3. Grundsätze und Verfahren, die die Einhaltung der Anforderungen an die Eigenverantwortlichkeit des verantwortlichen Abschlussprüfers nach § 44 Absatz 1 Satz 3 dieses Gesetzes und an die Unabhängigkeit nach den §§ 319 bis 319b des Handelsgesetzbuchs gewährleisten,
+3. Grundsätze und Verfahren, die die Einhaltung der Anforderungen an die Eigenverantwortlichkeit des verantwortlichen Abschlussprüfers nach § 44 Absatz 1 Satz 3 dieses Gesetzes und an die Unabhängigkeit nach den §§ 319 und 319b des Handelsgesetzbuchs sowie nach den Artikeln 4 und 5 der Verordnung (EU) Nr. 537/2014 gewährleisten,
 
 4. Grundsätze und Verfahren, die sicherstellen, dass Mitarbeiter sowie sonstige unmittelbar an den Prüfungstätigkeiten beteiligte Personen über angemessene Kenntnisse und Erfahrungen für die ihnen zugewiesenen Aufgaben verfügen sowie fortgebildet, angeleitet und kontrolliert werden,
 
@@ -2114,7 +2128,7 @@ Die Registrierung einer als Prüfer für Qualitätskontrolle registrierten Wirts
 
 Zum Inhalt und zur Vereinheitlichung des Aufbaus des Qualitätskontrollberichts nach § 57c Absatz 2 Nummer 6 getroffene weitere Bestimmungen sind zu beachten. Sind von den Prüfern für Qualitätskontrolle keine wesentlichen Mängel im Qualitätssicherungssystem festgestellt worden, haben sie zu erklären, dass ihnen keine Sachverhalte bekannt geworden sind, die gegen die Annahme sprechen, dass das Qualitätssicherungssystem der Praxis in Einklang mit den gesetzlichen oder satzungsmäßigen Anforderungen steht und mit hinreichender Sicherheit eine ordnungsgemäße Abwicklung von Abschlussprüfungen nach § 316 des Handelsgesetzbuchs und von betriebswirtschaftlichen Prüfungen, die von der Bundesanstalt für Finanzdienstleistungsaufsicht beauftragt werden, gewährleistet. Sind Mängel im Qualitätssicherungssystem oder Prüfungshemmnisse festgestellt worden, so haben die Prüfer für Qualitätskontrolle diese zu benennen, Empfehlungen zur Beseitigung der Mängel zu geben und, sofern die festgestellten Mängel wesentlich sind, ihre Erklärung nach Satz 4 einzuschränken oder zu versagen. Eine Einschränkung oder Versagung ist zu begründen.
 
-(5a) Bei Berufsangehörigen, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs durchführen, sind im Rahmen der Qualitätskontrolle die Ergebnisse der Inspektion nach Artikel 26 der Verordnung (EU) Nr. 537/2014 zu berücksichtigen. Die Qualitätskontrolle und der Qualitätskontrollbericht haben nicht die in Artikel 26 Absatz 6 der Verordnung (EU) Nr. 537/2014 genannten Bereiche zu betreffen. Auf der Grundlage des aktuellen Inspektionsberichts beurteilen die Prüfer für Qualitätskontrolle ausschließlich die Wirksamkeit des Qualitätssicherungssystems bei gesetzlich vorgeschriebenen Abschlussprüfungen von Unternehmen, die nicht von öffentlichem Interesse im Sinne des § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs sind, und bei betriebswirtschaftlichen Prüfungen, die von der Bundesanstalt für Finanzdienstleistungsaufsicht beauftragt werden, und benennen gegebenenfalls festgestellte Mängel in Bezug auf diese Prüfungen. Der Qualitätskontrollbericht ist der Kommission für Qualitätskontrolle, den Geprüften und der Abschlussprüferaufsichtsstelle zu übermitteln. Im Übrigen gilt Absatz 5 entsprechend.
+(5a) Bei Berufsangehörigen, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs durchführen, sind im Rahmen der Qualitätskontrolle die Ergebnisse der Inspektion nach Artikel 26 der Verordnung (EU) Nr. 537/2014 zu berücksichtigen. Die Qualitätskontrolle und der Qualitätskontrollbericht haben nicht die in Artikel 26 Absatz 6 der Verordnung (EU) Nr. 537/2014 genannten Bereiche zu betreffen. Auf der Grundlage des aktuellen Inspektionsberichts beurteilen die Prüfer für Qualitätskontrolle ausschließlich die Wirksamkeit des Qualitätssicherungssystems bei gesetzlich vorgeschriebenen Abschlussprüfungen von Unternehmen, die nicht von öffentlichem Interesse im Sinne des § 316a Satz 2 des Handelsgesetzbuchs sind, und bei betriebswirtschaftlichen Prüfungen, die von der Bundesanstalt für Finanzdienstleistungsaufsicht beauftragt werden, und benennen gegebenenfalls festgestellte Mängel in Bezug auf diese Prüfungen. Der Qualitätskontrollbericht ist der Kommission für Qualitätskontrolle, den Geprüften und der Abschlussprüferaufsichtsstelle zu übermitteln. Im Übrigen gilt Absatz 5 entsprechend.
 
 (5b) Die Qualitätskontrolle muss im Hinblick auf den Umfang und die Komplexität der Tätigkeit der Geprüften geeignet und angemessen sein. Dies ist insbesondere bei der gesetzlichen Abschlussprüfung von mittleren und kleinen Unternehmen nach § 267 Absatz 1 und 2 des Handelsgesetzbuchs zu berücksichtigen, wobei der Art, der Anzahl der Mandate und der Größe der Praxis des Geprüften besondere Bedeutung zukommt.
 
@@ -2196,7 +2210,7 @@ Wirtschaftsprüfer in eigener Praxis, Wirtschaftsprüfungsgesellschaften sowie d
 
 Die Kommission für Qualitätskontrolle kann im Einvernehmen mit der Abschlussprüferaufsichtsstelle an Qualitätskontrollen teilnehmen und sich Arbeitsunterlagen des Prüfers für Qualitätskontrolle vorlegen lassen.
 
-(2) Liegen bei Berufsangehörigen in eigener Praxis oder bei Wirtschaftsprüfungsgesellschaften Mängel vor, wurden Verletzungen von Berufsrecht, die auf Mängeln des Qualitätssicherungssystems beruhen, festgestellt oder wurde die Qualitätskontrolle nicht nach Maßgabe der §§ 57a bis 57d und der Satzung für Qualitätskontrolle durchgeführt, kann die Kommission für Qualitätskontrolle Auflagen zur Beseitigung der Mängel erteilen oder eine Sonderprüfung anordnen. Werden Auflagen erteilt, haben die Geprüften diese in einer von der Kommission für Qualitätskontrolle vorgegebenen Frist umzusetzen und hierüber unverzüglich einen Bericht vorzulegen. Die Kommission für Qualitätskontrolle kann bestimmen, dass mit der Sonderprüfung ein anderer Prüfer für Qualitätskontrolle beauftragt wird. Sind die Voraussetzungen des § 57a Absatz 6a Satz 2 gegeben, entscheidet die Kommission für Qualitätskontrolle über die Löschung der Eintragung. Die Berufsangehörigen oder Wirtschaftsprüfungsgesellschaften sind vor dem Erlass der Maßnahmen nach den Sätzen 1 bis 4 anzuhören. Beabsichtigt die Wirtschaftsprüferkammer, eine Eintragung nach § 57a Absatz 6a Satz 2 zu löschen, hat sie den Vorgang zuvor der Abschlussprüferaufsichtsstelle vorzulegen. Für Maßnahmen nach den Sätzen 1 bis 4 gegenüber Berufsangehörigen, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs durchführen, bleibt die Zuständigkeit der Abschlussprüferaufsichtsstelle nach § 66a Absatz 6 unberührt.
+(2) Liegen bei Berufsangehörigen in eigener Praxis oder bei Wirtschaftsprüfungsgesellschaften Mängel vor, wurden Verletzungen von Berufsrecht, die auf Mängeln des Qualitätssicherungssystems beruhen, festgestellt oder wurde die Qualitätskontrolle nicht nach Maßgabe der §§ 57a bis 57d und der Satzung für Qualitätskontrolle durchgeführt, kann die Kommission für Qualitätskontrolle Auflagen zur Beseitigung der Mängel erteilen oder eine Sonderprüfung anordnen. Werden Auflagen erteilt, haben die Geprüften diese in einer von der Kommission für Qualitätskontrolle vorgegebenen Frist umzusetzen und hierüber unverzüglich einen Bericht vorzulegen. Die Kommission für Qualitätskontrolle kann bestimmen, dass mit der Sonderprüfung ein anderer Prüfer für Qualitätskontrolle beauftragt wird. Sind die Voraussetzungen des § 57a Absatz 6a Satz 2 gegeben, entscheidet die Kommission für Qualitätskontrolle über die Löschung der Eintragung. Die Berufsangehörigen oder Wirtschaftsprüfungsgesellschaften sind vor dem Erlass der Maßnahmen nach den Sätzen 1 bis 4 anzuhören. Beabsichtigt die Wirtschaftsprüferkammer, eine Eintragung nach § 57a Absatz 6a Satz 2 zu löschen, hat sie den Vorgang zuvor der Abschlussprüferaufsichtsstelle vorzulegen. Für Maßnahmen nach den Sätzen 1 bis 4 gegenüber Berufsangehörigen, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs durchführen, bleibt die Zuständigkeit der Abschlussprüferaufsichtsstelle nach § 66a Absatz 6 unberührt.
 
 (3) Befolgen Berufsangehörige oder Wirtschaftsprüfungsgesellschaften Maßnahmen nach Absatz 2 nicht, kann die Kommission für Qualitätskontrolle ein Zwangsgeld bis zu 25 000 Euro verhängen. Werden trotz wiederholter Festsetzung eines Zwangsgeldes Auflagen und sonstige Maßnahmen nach Absatz 2 nicht fristgerecht oder nicht vollständig umgesetzt, ist die Eintragung der Anzeige nach § 38 Nummer 1 Buchstabe h oder Nummer 2 Buchstabe f zu löschen.
 
@@ -2224,7 +2238,7 @@ Die Kommission für Qualitätskontrolle kann im Einvernehmen mit der Abschlusspr
 
 (2) Prüfer für Qualitätskontrolle können im Falle des Absatzes 1 auch Prüfungsstellen der Sparkassen- und Giroverbände sein. Eine Prüfungsstelle ist auf Antrag nach § 57a Abs. 3 zu registrieren, wenn der Leiter der Prüfungsstelle nach § 57a Abs. 3 Satz 2 registriert ist und die Prüfungsstelle die Voraussetzung nach § 57a Abs. 3 Satz 3 erfüllt. Wird einer Prüfungsstelle eines Sparkassen- und Giroverbandes der Auftrag zur Durchführung einer Qualitätskontrolle erteilt, so muss die für die Qualitätskontrolle nach § 57a Abs. 3 Satz 5 verantwortliche berufsangehörige Person der Leiter oder die Leiterin der Prüfungsstelle des Sparkassen- und Giroverbandes sein und nach § 57a Abs. 3 Satz 2 registriert sein.
 
-(3) Artikel 26 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung auf die Prüfungsstellen der Sparkassen- und Giroverbände, soweit Landesrecht nichts anderes vorsieht. Gehört die zu prüfende Sparkasse zu den in § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs genannten Unternehmen und hat sie eine Bilanzsumme von mehr als 3 Milliarden Euro, hat, soweit Landesrecht nichts anderes vorsieht, in entsprechender Anwendung des Artikels 8 der Verordnung (EU) Nr. 537/2014 eine prüfungsbegleitende Qualitätssicherung stattzufinden. Die prüfungsbegleitende Qualitätssicherung darf nur von solchen fachlich und persönlich geeigneten Personen wahrgenommen werden, die an der Durchführung der Prüfung nicht beteiligt sind.
+(3) Artikel 26 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung auf die Prüfungsstellen der Sparkassen- und Giroverbände, soweit Landesrecht nichts anderes vorsieht. Gehört die zu prüfende Sparkasse zu den in § 316a Satz 2 des Handelsgesetzbuchs genannten Unternehmen und hat sie eine Bilanzsumme von mehr als 3 Milliarden Euro, hat, soweit Landesrecht nichts anderes vorsieht, in entsprechender Anwendung des Artikels 8 der Verordnung (EU) Nr. 537/2014 eine prüfungsbegleitende Qualitätssicherung stattzufinden. Die prüfungsbegleitende Qualitätssicherung darf nur von solchen fachlich und persönlich geeigneten Personen wahrgenommen werden, die an der Durchführung der Prüfung nicht beteiligt sind.
 
 # § 58 – Mitgliedschaft
 
@@ -2318,7 +2332,7 @@ Für die Berufsaufsicht ist unbeschadet des § 66a die Wirtschaftsprüferkammer 
 
 # § 62b – Inspektionen
 
-(1) Berufsangehörige in eigener Praxis und Wirtschaftsprüfungsgesellschaften sind verpflichtet, sich einer Inspektion durch die Abschlussprüferaufsichtsstelle nach Artikel 26 der Verordnung (EU) Nr. 537/2014 zu unterziehen, wenn sie gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs oder Abschlussprüfungen im Sinne von § 134 Absatz 1 dieses Gesetzes durchführen. Im Fall von Beanstandungen können in die Inspektionen andere gesetzlich vorgeschriebene Abschlussprüfungen einbezogen werden. Wird im Zusammenhang mit einer Anfrage zur internationalen Zusammenarbeit gemäß § 66c eine Inspektion durchgeführt, können andere Prüfungen bei den in § 57 Absatz 9 Satz 5 Nummer 1 genannten Unternehmen in die Inspektion nach Satz 1 einbezogen werden.
+(1) Berufsangehörige in eigener Praxis und Wirtschaftsprüfungsgesellschaften sind verpflichtet, sich einer Inspektion durch die Abschlussprüferaufsichtsstelle nach Artikel 26 der Verordnung (EU) Nr. 537/2014 zu unterziehen, wenn sie gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs oder Abschlussprüfungen im Sinne von § 134 Absatz 1 dieses Gesetzes durchführen. Im Fall von Beanstandungen können in die Inspektionen andere gesetzlich vorgeschriebene Abschlussprüfungen einbezogen werden. Wird im Zusammenhang mit einer Anfrage zur internationalen Zusammenarbeit gemäß § 66c eine Inspektion durchgeführt, können andere Prüfungen bei den in § 57 Absatz 9 Satz 5 Nummer 1 genannten Unternehmen in die Inspektion nach Satz 1 einbezogen werden.
 
 (2) Soweit Artikel 26 der Verordnung (EU) Nr. 537/2014 nichts anderes regelt, gelten § 62 Absatz 1 bis 5 und § 62a entsprechend.
 
@@ -2334,9 +2348,11 @@ Für die Berufsaufsicht ist unbeschadet des § 66a die Wirtschaftsprüferkammer 
 
 (3) Die Genehmigung erteilt der Vorstand der Wirtschaftsprüferkammer nach pflichtmäßigem Ermessen. Die Genehmigung soll nur versagt werden, wenn Rücksichten auf die Stellung oder die Aufgaben der Wirtschaftsprüferkammer oder berechtigte Belange der Personen, über welche die Tatsachen bekanntgeworden sind, es unabweisbar erfordern. § 28 Abs. 2 des Gesetzes über das Bundesverfassungsgericht bleibt unberührt.
 
-(4) Zur Durchführung von Ermittlungen in Aufsichts- und Beschwerdesachen sowie in Widerrufsverfahren sind die in Absatz 1 genannten ehren- und hauptamtlich für die Wirtschaftsprüferkammer tätigen Personen berechtigt, Nichtkammerangehörige um Auskunft zu bitten. Nichtkammerangehörige sind nicht zur Auskunft verpflichtet, es sei denn, die Auskunft bezieht sich auf gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs und die Nichtkammerangehörigen fallen unter Artikel 23 Absatz 3 Unterabsatz 2 Buchstabe b bis e der Verordnung (EU) Nr. 537/2014.
+(4) Zur Durchführung von Ermittlungen in Aufsichts- und Beschwerdesachen sowie in Widerrufsverfahren sind die in Absatz 1 genannten ehren- und hauptamtlich für die Wirtschaftsprüferkammer tätigen Personen berechtigt, Nichtkammerangehörige um Auskunft zu bitten. Nichtkammerangehörige sind nicht zur Auskunft verpflichtet, es sei denn, die Auskunft bezieht sich auf gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs und die Nichtkammerangehörigen fallen unter Artikel 23 Absatz 3 Unterabsatz 2 Buchstabe b bis e der Verordnung (EU) Nr. 537/2014.
 
 (5) Wurde im Rahmen eines Vertretungsverhältnisses eine Berufspflichtverletzung begangen, dürfen die in Absatz 1 bezeichneten Personen den Vertretenen über ein gegen ein Mitglied der Wirtschaftsprüferkammer geführtes berufsaufsichtliches Verfahren unterrichten.
+
+(6) Abweichend von Absatz 1 dürfen die in Absatz 1 bezeichneten Personen in Fällen von öffentlichem Interesse, die mögliche Pflichtverletzungen im Zusammenhang mit gesetzlichen Abschlussprüfungen betreffen, auf Anfrage darüber Auskunft geben, ob berufsaufsichtliche Verfahren eingeleitet wurden und ob diese noch andauern oder bereits abgeschlossen wurden. Die Auskunft darf keine personenbezogenen Daten enthalten. Die Absätze 4 und 5 sowie § 69 bleiben unberührt.
 
 # § 65 – Unterrichtung der Staatsanwaltschaft
 
@@ -2362,7 +2378,7 @@ Für die Berufsaufsicht ist unbeschadet des § 66a die Wirtschaftsprüferkammer 
 
 (5) Die Wirtschaftsprüferkammer ist verpflichtet, auf Anforderung der Abschlussprüferaufsichtsstelle im Einzelfall oder von sich aus aufgrund genereller von der Abschlussprüferaufsichtsstelle festgelegter Kriterien über einzelne aufsichtsrelevante Vorgänge nach Sachverhaltsaufklärung zeitnah und in angemessener Form zu berichten. Aufsichtsrelevant ist ein Vorgang insbesondere dann, wenn er von der Wirtschaftsprüferkammer abschließend bearbeitet wurde und eine Entscheidung mit unmittelbarer Rechtswirkung nach außen ergehen soll. Ein unmittelbarer oder mittelbarer Bezug zur Durchführung einer gesetzlich vorgeschriebenen Abschlussprüfung ist nicht erforderlich.
 
-(6) Die Abschlussprüferaufsichtsstelle ermittelt bei Berufsangehörigen und Wirtschaftsprüfungsgesellschaften, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs durchgeführt haben,
+(6) Die Abschlussprüferaufsichtsstelle ermittelt bei Berufsangehörigen und Wirtschaftsprüfungsgesellschaften, die gesetzlich vorgeschriebene Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs durchgeführt haben,
 
 1. ohne besonderen Anlass gemäß Artikel 26 der Verordnung (EU) Nr. 537/2014,
 
@@ -2372,7 +2388,7 @@ Für die Berufsaufsicht ist unbeschadet des § 66a die Wirtschaftsprüferkammer 
 
 Werden bei den Ermittlungen nach Satz 1 Verletzungen von Berufsrecht festgestellt, kann die Abschlussprüferaufsichtsstelle Auflagen zur Beseitigung der Mängel erteilen oder eine Sonderprüfung anordnen; § 57e Absatz 2, 3 und 5 gilt entsprechend. Die Abschlussprüferaufsichtsstelle entscheidet auch über die Verhängung von berufsaufsichtlichen Maßnahmen, Untersagungsverfügungen sowie vorläufigen Untersagungsverfügungen; die §§ 67 bis 68a, 68b Satz 1, 3 und 4, die §§ 68c sowie 69a bis 71 gelten entsprechend, § 68 Absatz 7 mit der Maßgabe, dass die Geldbußen, die nicht berufsgerichtlich überprüft werden, dem Bundeshaushalt zufließen, § 68c Absatz 3 in Verbindung mit § 62a Absatz 4 Satz 1 mit der Maßgabe, dass die Ordnungsgelder dem Bundeshaushalt zufließen.
 
-(7) Soweit Artikel 23 Absatz 3 und Artikel 26 der Verordnung (EU) Nr. 537/2014 nichts anderes regeln, gelten die §§ 62 und 62a im Inspektions- und Berufsaufsichtsverfahren entsprechend, § 62a Absatz 4 mit der Maßgabe, dass die Zwangsgelder dem Bundeshaushalt zufließen. Ermittlungsmaßnahmen in Bezug auf Abschlussprüfungen von Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs dürfen auch gegenüber den in Artikel 23 Absatz 3 Unterabsatz 2 Buchstabe b bis e der Verordnung (EU) Nr. 537/2014 Genannten ausgeübt werden. Die Abschlussprüferaufsichtsstelle kann unbeschadet des Artikels 26 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 bei Tätigkeiten nach diesem Gesetz Überprüfungen oder Untersuchungen durch solche Sachverständige vornehmen lassen, die in die Entscheidungsprozesse der Abschlussprüferaufsichtsstelle nicht eingebunden sind.
+(7) Soweit Artikel 23 Absatz 3 und Artikel 26 der Verordnung (EU) Nr. 537/2014 nichts anderes regeln, gelten die §§ 62 und 62a im Inspektions- und Berufsaufsichtsverfahren entsprechend, § 62a Absatz 4 mit der Maßgabe, dass die Zwangsgelder dem Bundeshaushalt zufließen. Ermittlungsmaßnahmen in Bezug auf Abschlussprüfungen von Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs dürfen auch gegenüber den in Artikel 23 Absatz 3 Unterabsatz 2 Buchstabe b bis e der Verordnung (EU) Nr. 537/2014 Genannten ausgeübt werden. Die Abschlussprüferaufsichtsstelle kann unbeschadet des Artikels 26 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 bei Tätigkeiten nach diesem Gesetz Überprüfungen oder Untersuchungen durch solche Sachverständige vornehmen lassen, die in die Entscheidungsprozesse der Abschlussprüferaufsichtsstelle nicht eingebunden sind.
 
 (8) Die Abschlussprüferaufsichtsstelle veröffentlicht jährlich ein Arbeitsprogramm und einen Tätigkeitsbericht.
 
@@ -2438,11 +2454,11 @@ An die in Satz 1 Nummer 1 genannte Stelle übermittelt die Abschlussprüferaufsi
 
 1. Rüge,
 
-2. Geldbuße bis zu 500 000 Euro,
+2. Geldbuße bis zu 500 000 Euro, bei einer berufsaufsichtlichen Maßnahme gegen eine Wirtschaftsprüfungsgesellschaft bis zu einer Million Euro,
 
 3. Verbot, auf bestimmten Tätigkeitsgebieten für die Dauer von einem Jahr bis zu fünf Jahren tätig zu werden,
 
-4. Verbot, bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs für die Dauer von einem Jahr bis zu drei Jahren tätig zu werden,
+4. Verbot, bei Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs für die Dauer von einem Jahr bis zu drei Jahren tätig zu werden,
 
 5. Berufsverbot von einem Jahr bis zu fünf Jahren,
 
@@ -2480,27 +2496,27 @@ Wird gegen Berufsangehörige eine Untersagungsverfügung nach § 68a erlassen, s
 
 # § 69 – Bekanntmachung von Maßnahmen, Bußgeldentscheidungen und strafrechtlichen Verurteilungen
 
-(1) Die Wirtschaftsprüferkammer und die Abschlussprüferaufsichtsstelle sollen jede ihrer unanfechtbaren berufsaufsichtlichen Maßnahmen unverzüglich auf ihren Internetseiten öffentlich bekannt machen und dabei auch Informationen zu Art und Charakter des Verstoßes mitteilen. Die Bekanntmachung darf keine personenbezogenen Daten enthalten.
+(1) Die Wirtschaftsprüferkammer und die Abschlussprüferaufsichtsstelle machen jede ihrer unanfechtbaren berufsaufsichtlichen Maßnahmen unverzüglich auf ihren Internetseiten öffentlich bekannt und teilen dabei auch Informationen zu Art und Charakter des Verstoßes mit. Bei berufsaufsichtlichen Maßnahmen nach § 68 Absatz 1 Satz 2 Nummer 2 bis 7 gegen Berufsangehörige ist in der Bekanntmachung der Name des Berufsangehörigen und die Wirtschaftsprüfungsgesellschaft zu nennen, für die der Berufsangehörige bei der Verwirklichung der Berufspflichtverletzung gehandelt hat. Bei berufsaufsichtlichen Maßnahmen nach § 68 Absatz 1 Satz 2 Nummer 1 bis 7 gegen eine Wirtschaftsprüfungsgesellschaft ist die Wirtschaftsprüfungsgesellschaft in der Bekanntmachung zu nennen. Wenn der Berufsangehörige oder die Wirtschaftsprüfungsgesellschaft eine Stellungnahme zu der unanfechtbaren berufsaufsichtlichen Maßnahme abgegeben hat, ist diese in der Bekanntmachung mit zu veröffentlichen. Darüber hinausgehende personenbezogene Daten darf die Bekanntmachung nicht enthalten.
 
 (1a) Die Abschlussprüferaufsichtsstelle soll neben der Bekanntmachung nach Absatz 1 unverzüglich auf ihrer Internetseite öffentlich bekannt machen:
 
-1. jede rechtskräftige Bußgeldentscheidung nach § 334 Absatz 2 und 2a, § 340n Absatz 2 und 2a und § 341n Absatz 2 und 2a des Handelsgesetzbuchs, § 20 Absatz 2a bis 2c des Publizitätsgesetzes, § 405 Absatz 3b bis 3d des Aktiengesetzes, § 87 Absatz 1 bis 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 152 Absatz 1a des Genossenschaftsgesetzes und § 332 Absatz 4a des Versicherungsaufsichtsgesetzes sowie
+1. jede rechtskräftige Bußgeldentscheidung nach § 334 Absatz 2 und 2a, § 340n Absatz 2 und 2a und § 341n Absatz 2 und 2a des Handelsgesetzbuchs, § 20 Absatz 2 bis 2c des Publizitätsgesetzes, § 405 Absatz 3b und 3c des Aktiengesetzes, § 87 Absatz 1 bis 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 152 Absatz 1a des Genossenschaftsgesetzes und § 332 Absatz 4a und 4b des Versicherungsaufsichtsgesetzes sowie
 
-2. jede rechtskräftige Verurteilung wegen einer Straftat nach den §§ 333a, 340m Absatz 2 und nach § 341m Absatz 2 des Handelsgesetzbuchs, § 19a des Publizitätsgesetzes, § 404a des Aktiengesetzes, § 86 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 151a des Genossenschaftsgesetzes und § 331 Absatz 2a des Versicherungsaufsichtsgesetzes.
+2. jede rechtskräftige Verurteilung wegen einer Straftat nach den §§ 332, 333, jeweils auch in Verbindung mit § 340m Absatz 1 Satz 1 oder § 341m Absatz 1 Satz 1, nach den §§ 333a, 340m Absatz 2 und nach § 341m Absatz 2 des Handelsgesetzbuchs, nach den §§ 18 bis 19a des Publizitätsgesetzes, § 404a des Aktiengesetzes, § 86 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 151a des Genossenschaftsgesetzes und § 331 Absatz 2a des Versicherungsaufsichtsgesetzes.
 
-Bei der Bekanntmachung nach Satz 1 sollen auch Informationen zu Art und Charakter des Verstoßes mitgeteilt werden. Absatz 1 Satz 2 gilt entsprechend.
+Bei der Bekanntmachung nach Satz 1 sollen auch Informationen zu Art und Charakter des Verstoßes mitgeteilt werden. Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
-(2) Maßnahmen, Bußgeldentscheidungen und strafrechtliche Verurteilungen werden anonymisiert bekannt gemacht, wenn im Fall einer Bekanntmachung nach Absatz 1 oder Absatz 1a die Stabilität der Finanzmärkte oder laufende strafrechtliche Ermittlungen gefährdet oder den Beteiligten ein unverhältnismäßig großer Schaden zugefügt würde.
+(2) Maßnahmen, Bußgeldentscheidungen und strafrechtliche Verurteilungen werden anonymisiert bekannt gemacht, wenn im Fall einer Bekanntmachung nach Absatz 1 oder Absatz 1a die Stabilität der Finanzmärkte oder laufende strafrechtliche Ermittlungen erheblich gefährdet oder den Beteiligten ein unverhältnismäßig großer Schaden zugefügt würde. Gegen Berufsangehörige verhängte Maßnahmen sowie Bußgeldentscheidungen und strafrechtliche Verurteilungen werden anonymisiert bekannt gemacht, wenn eine öffentliche Bekanntmachung der personenbezogenen Daten unverhältnismäßig wäre.
 
-(3) Maßnahmen, Bußgeldentscheidungen und strafrechtliche Verurteilungen sollen für fünf Jahre ab Unanfechtbarkeit oder Rechtskraft veröffentlicht bleiben.
+(3) Eine Bekanntmachung nach den Absätzen 1 und 1a ist fünf Jahre nach ihrer Veröffentlichung zu löschen.
 
 (4) Die Abschlussprüferaufsichtsstelle unterrichtet den Ausschuss der Aufsichtsstellen (Artikel 30 der Verordnung (EU) Nr. 537/2014) unverzüglich über alle berufsaufsichtlichen Maßnahmen nach § 68 Absatz 1 Satz 2 Nummer 3 bis 6. Die Abschlussprüferaufsichtsstelle übermittelt dem Ausschuss der Aufsichtsstellen jährlich aggregierte Informationen über
 
 1. alle berufsaufsichtlichen Maßnahmen,
 
-2. alle Bußgeldentscheidungen nach § 334 Absatz 2 und 2a, § 340n Absatz 2 und 2a und § 341n Absatz 2 und 2a des Handelsgesetzbuchs, § 20 Absatz 2a bis 2c des Publizitätsgesetzes, § 405 Absatz 3b bis 3d des Aktiengesetzes, § 87 Absatz 1 bis 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 152 Absatz 1a des Genossenschaftsgesetzes und § 332 Absatz 4a des Versicherungsaufsichtsgesetzes sowie
+2. alle Bußgeldentscheidungen nach § 334 Absatz 2 und 2a, § 340n Absatz 2 und 2a und § 341n Absatz 2 und 2a des Handelsgesetzbuchs, § 20 Absatz 2 bis 2c des Publizitätsgesetzes, § 405 Absatz 3b und 3c des Aktiengesetzes, § 87 Absatz 1 bis 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 152 Absatz 1a des Genossenschaftsgesetzes und § 332 Absatz 4a und 4b des Versicherungsaufsichtsgesetzes sowie
 
-3. alle Verurteilungen wegen einer Straftat nach den §§ 333a, 340m Absatz 2 und nach § 341m Absatz 2 des Handelsgesetzbuchs, § 19a des Publizitätsgesetzes, § 404a des Aktiengesetzes, § 86 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 151a des Genossenschaftsgesetzes und § 331 Absatz 2a des Versicherungsaufsichtsgesetzes.
+3. alle Verurteilungen wegen einer Straftat nach den §§ 333a, 340m Absatz 2 und nach § 341m Absatz 2 des Handelsgesetzbuchs, § 19a des Publizitätsgesetzes, § 404a des Aktiengesetzes, § 86 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 151a des Genossenschaftsgesetzes und § 331 Absatz 2a und 2b des Versicherungsaufsichtsgesetzes.
 
 (5) Wird in einem Beschwerdeverfahren eine Maßnahme nach § 68 Absatz 1 verhängt und nach Absatz 1 veröffentlicht, so ist dies dem Beschwerdeführer mitzuteilen. Die Mitteilung ist nicht anfechtbar.
 
@@ -2534,11 +2550,11 @@ Bei der Bekanntmachung nach Satz 1 sollen auch Informationen zu Art und Charakte
 
 3. als Generalbevollmächtigter oder in leitender Stellung als Prokurist oder Handlungsbevollmächtigter der Wirtschaftsprüfungsgesellschaft,
 
-4. als verantwortlicher Prüfungspartner nach § 319a Absatz 1 Satz 4 des Handelsgesetzbuchs oder
+4. als verantwortlicher Prüfungspartner nach § 43 Absatz 3 Satz 3 und 4 oder
 
 5. als sonstige Person, die für die Leitung der Wirtschaftsprüfungsgesellschaft verantwortlich handelt, wozu auch die Überwachung der Geschäftsführung oder die sonstige Ausübung von Kontrollbefugnissen in leitender Stellung gehört,
 
-Berufspflichten der Wirtschaftsprüfungsgesellschaft betreffend die Durchführung von gesetzlichen Abschlussprüfungen verletzt hat. Bei der Entscheidung, ob berufsaufsichtliche Maßnahmen gegen eine Wirtschaftsprüfungsgesellschaft verhängt werden und ob diese zusätzlich zu berufsaufsichtlichen Maßnahmen gegen die die Gesellschaft vertretenden Berufsangehörigen verhängt werden, hat der Vorstand der Wirtschaftsprüferkammer alle relevanten Umstände zu berücksichtigen. Dazu gehören neben dem allgemeinen Verhältnismäßigkeitsgrundsatz und den in § 68 Absatz 3 genannten Kriterien insbesondere die Gleichförmigkeit und Häufigkeit von Pflichtverletzungen innerhalb der Gesellschaft und der Schwerpunkt der Vorwerfbarkeit. § 68 Absatz 1 Satz 2 Nummer 4 und 6 findet keine Anwendung.
+Berufspflichten der Wirtschaftsprüfungsgesellschaft betreffend die Durchführung von gesetzlichen Abschlussprüfungen verletzt hat. Bei der Entscheidung, ob berufsaufsichtliche Maßnahmen gegen eine Wirtschaftsprüfungsgesellschaft verhängt werden und ob diese zusätzlich zu berufsaufsichtlichen Maßnahmen gegen die die Gesellschaft vertretenden Berufsangehörigen verhängt werden, hat der Vorstand der Wirtschaftsprüferkammer alle relevanten Umstände zu berücksichtigen. § 68 Absatz 1 Satz 2 Nummer 4 und 6 findet keine Anwendung.
 
 # § 71a – Antrag auf berufsgerichtliche Entscheidung
 
@@ -2956,7 +2972,7 @@ Für die Berufsgerichtsbarkeit sind ergänzend das Gerichtsverfassungsgesetz und
 
 # § 131 – Prüfungstätigkeit von EU- und EWR-Abschlussprüfungsgesellschaften
 
-Eine EU- oder EWR-Abschlussprüfungsgesellschaft darf unter der Berufsbezeichnung ihres Herkunftsstaats Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchführen, wenn der für die jeweilige Prüfung verantwortliche Prüfungspartner im Sinne des § 319a Absatz 1 Satz 4 und Absatz 2 Satz 2 des Handelsgesetzbuchs gemäß den Vorgaben des Zweiten Abschnitts des Zweiten Teils oder dem Neunten Teil zugelassen ist. Entsprechendes gilt für sonstige Tätigkeiten nach § 2 Absatz 1 und 3 und Aufgaben, die Wirtschaftsprüfern oder Buchprüfern vorbehalten sind. Die EU- oder EWR-Abschlussprüfungsgesellschaft ist verpflichtet, sich nach § 131a registrieren zu lassen; soweit Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchgeführt werden, ist sie auch verpflichtet, ihre Tätigkeit nach § 57a Absatz 1 Satz 2 anzuzeigen.
+Eine EU- oder EWR-Abschlussprüfungsgesellschaft darf unter der Berufsbezeichnung ihres Herkunftsstaats Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchführen, wenn der für die jeweilige Prüfung verantwortliche Prüfungspartner im Sinne des § 43 Absatz 3 Satz 3 und 4 gemäß den Vorgaben des Zweiten Abschnitts des Zweiten Teils oder dem Neunten Teil zugelassen ist. Entsprechendes gilt für sonstige Tätigkeiten nach § 2 Absatz 1 und 3 und Aufgaben, die Wirtschaftsprüfern oder Buchprüfern vorbehalten sind. Die EU- oder EWR-Abschlussprüfungsgesellschaft ist verpflichtet, sich nach § 131a registrieren zu lassen; soweit Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchgeführt werden, ist sie auch verpflichtet, ihre Tätigkeit nach § 57a Absatz 1 Satz 2 anzuzeigen.
 
 # § 131a – Registrierungsverfahren
 
@@ -3110,7 +3126,9 @@ Entsprechendes gilt für Drittstaatsprüfer, wenn die Voraussetzungen entspreche
 
 (4) (weggefallen)
 
-# § 135 – (weggefallen)
+# § 135 – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+§ 54 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 54 in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 # § 136 – Übergangsregelung für § 57a
 

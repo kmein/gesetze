@@ -195,7 +195,7 @@
 | § 68  | Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie                                                                                      |
 | § 69  | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten                                                                          |
 | § 70  | Einmalzahlung aus Anlass der COVID-19-Pandemie                                                                                                           |
-| § 71  | (weggefallen)                                                                                                                                            |
+| § 71  | Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie                                                                                |
 | § 72  | (weggefallen)                                                                                                                                            |
 | § 73  | (weggefallen)                                                                                                                                            |
 | § 74  | (weggefallen)                                                                                                                                            |
@@ -525,7 +525,9 @@ vollendet wird von</th></tr></thead><tbody><tr class="odd"><td style="text-align
 
 2. die Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
 
-3. die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz.
+3. die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
+
+4. Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs kalenderjährlich bis zu dem in § 3 Nummer 26 Satz 1 des Einkommensteuergesetzes genannten Betrag.
 
 (2) Entschädigungen, die wegen eines Schadens, der kein Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet werden, sind nicht als Einkommen zu berücksichtigen.
 
@@ -543,7 +545,7 @@ b) für das vierte und jedes weitere Pflegekind vollständig,
 
 4. die Berufsausbildungsbeihilfe nach dem Dritten Buch mit Ausnahme der Bedarfe nach § 64 Absatz 3 Satz 1 des Dritten Buches sowie
 
-5. Reisekosten zur Teilhabe am Arbeitsleben nach § 127 Absatz 1 Satz 1 des Dritten Buches in Verbindung mit § 53 des Neunten Buches.
+5. Reisekosten zur Teilhabe am Arbeitsleben nach § 127 Absatz 1 Satz 1 des Dritten Buches in Verbindung mit § 73 des Neunten Buches.
 
 (4) Zuwendungen der freien Wohlfahrtspflege sind nicht als Einkommen zu berücksichtigen, soweit sie die Lage der Empfängerinnen und Empfänger nicht so günstig beeinflussen, dass daneben Leistungen nach diesem Buch nicht gerechtfertigt wären.
 
@@ -553,7 +555,7 @@ b) für das vierte und jedes weitere Pflegekind vollständig,
 
 2. sie die Lage der Leistungsberechtigten nicht so günstig beeinflussen, dass daneben Leistungen nach diesem Buch nicht gerechtfertigt wären.
 
-(6) Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder vergleichbare Leistungen nach landesrechtlichen Regelungen sind nicht als Einkommen zu berücksichtigen, soweit sie den Bedarf der leistungsberechtigten Person für 28 Tage übersteigen. Die Berücksichtigung des als Einkommen verbleibenden Teils der in Satz 1 bezeichneten Leistungen richtet sich nach § 11 Absatz 3.
+(6) Überbrückungsgeld nach § 51 des Strafvollzugsgesetzes oder vergleichbare Leistungen nach landesrechtlichen Regelungen sind nicht als Einkommen zu berücksichtigen.
 
 # § 11b – Absetzbeträge
 
@@ -583,21 +585,21 @@ soweit die Beiträge nicht nach § 26 bezuschusst werden,
 
 Bei der Verteilung einer einmaligen Einnahme nach § 11 Absatz 3 Satz 4 sind die auf die einmalige Einnahme im Zuflussmonat entfallenden Beträge nach den Nummern 1, 2, 5 und 6 vorweg abzusetzen.
 
-(2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 100 Euro monatlich von dem Einkommen aus Erwerbstätigkeit abzusetzen. Beträgt das monatliche Einkommen aus Erwerbstätigkeit mehr als 400 Euro, gilt Satz 1 nicht, wenn die oder der erwerbsfähige Leistungsberechtigte nachweist, dass die Summe der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 den Betrag von 100 Euro übersteigt. Erhält eine leistungsberechtigte Person mindestens aus einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a oder 26b des Einkommensteuergesetzes steuerfrei sind, gelten die Sätze 1 und 2 mit den Maßgaben, dass jeweils an die Stelle des Betrages von
+(2) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist anstelle der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 100 Euro monatlich von dem Einkommen aus Erwerbstätigkeit abzusetzen. Beträgt das monatliche Einkommen aus Erwerbstätigkeit mehr als 400 Euro, gilt Satz 1 nicht, wenn die oder der erwerbsfähige Leistungsberechtigte nachweist, dass die Summe der Beträge nach Absatz 1 Satz 1 Nummer 3 bis 5 den Betrag von 100 Euro übersteigt. Erhält eine leistungsberechtigte Person mindestens aus einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26 oder 26a des Einkommensteuergesetzes steuerfrei sind, gelten die Sätze 1 und 2 mit den Maßgaben, dass jeweils an die Stelle des Betrages von
 
 1. 100 Euro monatlich der Betrag von 250 Euro monatlich, höchstens jedoch der Betrag, der sich aus der Summe von 100 Euro und dem Betrag der steuerfreien Bezüge oder Einnahmen ergibt, und
 
 2. 400 Euro der Betrag, der sich nach Nummer 1 ergibt,
 
-tritt. § 11a Absatz 3 bleibt unberührt. Von den in § 11a Absatz 3 Satz 2 Nummer 3 bis 5 genannten Leistungen, von dem Ausbildungsgeld nach dem Dritten Buch sowie von dem erhaltenen Unterhaltsbeitrag nach § 10 Absatz 2 des Aufstiegsfortbildungsförderungsgesetzes sind für die Absetzbeträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 mindestens 100 Euro abzusetzen, wenn die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt. Von dem Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder § 2 Absatz 1 Nummer 3 des Jugendfreiwilligendienstegesetzes ist anstelle der Beträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 250 Euro monatlich abzusetzen, soweit die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt.
+tritt. § 11a Absatz 3 bleibt unberührt. Von den in § 11a Absatz 3 Satz 2 Nummer 3 bis 5 genannten Leistungen, von dem Ausbildungsgeld nach dem Dritten Buch sowie von dem erhaltenen Unterhaltsbeitrag nach § 10 Absatz 2 des Aufstiegsfortbildungsförderungsgesetzes sind für die Absetzbeträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 mindestens 100 Euro abzusetzen, wenn die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt. Von dem Taschengeld nach § 2 Nummer 4 des Bundesfreiwilligendienstgesetzes oder § 2 Absatz 1 Nummer 4 des Jugendfreiwilligendienstegesetzes ist anstelle der Beträge nach § 11b Absatz 1 Satz 1 Nummer 3 bis 5 ein Betrag von insgesamt 250 Euro monatlich abzusetzen, soweit die Absetzung nicht bereits nach den Sätzen 1 bis 3 erfolgt.
 
 (2a) § 82a des Zwölften Buches gilt entsprechend.
 
 (3) Bei erwerbsfähigen Leistungsberechtigten, die erwerbstätig sind, ist von dem monatlichen Einkommen aus Erwerbstätigkeit ein weiterer Betrag abzusetzen. Dieser beläuft sich
 
-1. für den Teil des monatlichen Einkommens, das 100 Euro übersteigt und nicht mehr als 1 000 Euro beträgt, auf 20 Prozent und
+1. für den Teil des monatlichen Einkommens, der 100 Euro übersteigt und nicht mehr als 1 000 Euro beträgt, auf 20 Prozent und
 
-2. für den Teil des monatlichen Einkommens, das 1 000 Euro übersteigt und nicht mehr als 1 200 Euro beträgt, auf 10 Prozent.
+2. für den Teil des monatlichen Einkommens, der 1 000 Euro übersteigt und nicht mehr als 1 200 Euro beträgt, auf 10 Prozent.
 
 Anstelle des Betrages von 1 200 Euro tritt für erwerbsfähige Leistungsberechtigte, die entweder mit mindestens einem minderjährigen Kind in Bedarfsgemeinschaft leben oder die mindestens ein minderjähriges Kind haben, ein Betrag von 1 500 Euro.
 
@@ -2165,9 +2167,11 @@ Abweichend von § 28 Absatz 6 Satz 1 kommt es im Zeitraum vom 1. März 2020 bis 
 
 Leistungsberechtigte, die für den Monat Mai 2021 Anspruch auf Arbeitslosengeld II oder Sozialgeld haben und deren Bedarf sich nach Regelbedarfsstufe 1 oder 2 richtet, erhalten für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro. Satz 1 gilt auch für Leistungsberechtigte, deren Bedarf sich nach Regelbedarfsstufe 3 richtet, sofern bei ihnen kein Kindergeld als Einkommen berücksichtigt wird.
 
-# § 71 – (weggefallen)
+# § 71 – Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie
 
-\-
+(1) Abweichend von § 37 Absatz 1 Satz 2 gilt der Antrag auf Leistungen nach § 28 Absatz 5 in der Zeit vom 1. Juli 2021 bis zum Ablauf des 31. Dezember 2023 als von dem Antrag auf Leistungen zur Sicherung des Lebensunterhalts mit umfasst. Dies gilt für ab dem 1. Juli 2021 entstehende Lernförderungsbedarfe auch dann, wenn die jeweiligen Bewilligungszeiträume nur teilweise in den in Satz 1 genannten Zeitraum fallen, weil sie entweder bereits vor dem 1. Juli 2021 begonnen haben oder erst nach dem 31. Dezember 2023 enden.
+
+(2) Leistungsberechtigte, die für den Monat August 2021 Anspruch auf Arbeitslosengeld II oder Sozialgeld und das 18. Lebensjahr noch nicht vollendet haben, erhalten eine Einmalzahlung in Höhe von 100 Euro. Satz 1 gilt nicht für Leistungsberechtigte, für die im Monat August 2021 Kinderzuschlag nach § 6a des Bundeskindergeldgesetzes gezahlt wird. Eines gesonderten Antrags bedarf es nicht. Erhält die leistungsberechtigte Person Arbeitslosengeld II oder Sozialgeld in zwei Bedarfsgemeinschaften, wird die Leistung nach Satz 1 in der Bedarfsgemeinschaft erbracht, in der das Kindergeld für die leistungsberechtigte Person berücksichtigt wird.
 
 # §§ 72 und 73 – (weggefallen)
 

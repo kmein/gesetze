@@ -699,7 +699,7 @@ ist § 10 des Arzneimittelgesetzes anzuwenden. Soweit für sie eine Zulassung na
 
 11. Opioide in transdermaler und in transmucosaler Darreichungsform.
 
-(3) Der Leiter einer krankenhausversorgenden Apotheke muß die zur Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der Patienten des Krankenhauses notwendigen Arzneimittel und, soweit nach dem Versorgungsvertrag vorgesehen, Medizinprodukte in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entspricht. Diese Arzneimittel und Medizinprodukte sind aufzulisten.
+(3) Der Leiter einer krankenhausversorgenden Apotheke muß die zur Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der Patienten des Krankenhauses notwendigen Arzneimittel und, soweit nach dem Versorgungsvertrag vorgesehen, Medizinprodukte in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entspricht. Abweichend von Satz 1 muss der Leiter einer krankenhausversorgenden Apotheke parenteral anzuwendende Arzneimittel zur intensivmedizinischen Versorgung in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses für vier Wochen entspricht. Diese Arzneimittel und Medizinprodukte sind aufzulisten.
 
 # § 16 – Lagerung
 
@@ -1029,7 +1029,7 @@ Der Leiter der Krankenhausapotheke ist Mitglied der Arzneimittelkommission des K
 
 # § 30 – Vorratshaltung in der Krankenhausapotheke
 
-Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen Medizinprodukte müssen in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen muß. Diese Arzneimittel und apothekenpflichtigen Medizinprodukte sind aufzulisten.
+Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen Medizinprodukte müssen in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen muß. Abweichend von Satz 1 müssen parenteral anzuwendende Arzneimittel zur intensivmedizinischen Versorgung in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses für vier Wochen entsprechen muss. Diese Arzneimittel und apothekenpflichtigen Medizinprodukte sind aufzulisten.
 
 # § 31 – Abgabe in der Krankenhausapotheke
 

@@ -13,11 +13,11 @@ Auf Grund des § 494 Abs. 4 der Strafprozessordnung in der Fassung der Bekanntma
 
 # § 2 – Inhalt und Zweck des Registers
 
-In dem Register werden die in § 4 bezeichneten Daten zu in der Bundesrepublik Deutschland geführten Strafverfahren einschließlich steuerstrafrechtlicher Verfahren zu dem Zweck gespeichert, die Durchführung von Strafverfahren effektiver zu gestalten, insbesondere die Ermittlung überörtlich handelnder Täter und Mehrfachtäter zu erleichtern, das frühzeitige Erkennen von Tat- und Täterverbindungen zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
+In dem Register werden die in § 4 bezeichneten Daten zu in der Bundesrepublik Deutschland geführten Strafverfahren einschließlich steuerstrafrechtlicher Verfahren sowie Verfahren der Behörden der Zollverwaltung nach § 14a Absatz 1 und § 14b Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes zu dem Zweck gespeichert, die Durchführung von Strafverfahren effektiver zu gestalten, insbesondere die Ermittlung überörtlich handelnder Täter und Mehrfachtäter zu erleichtern, das frühzeitige Erkennen von Tat- und Täterverbindungen zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
 
 # § 3 – Übermittlung von Daten an das Register
 
-(1) Die Staatsanwaltschaften und die diesen in steuerstrafrechtlichen Angelegenheiten nach § 386 Abs. 2 und § 399 der Abgabenordnung gleichgestellten Finanzbehörden (mitteilende Stellen) übermitteln, sobald ein Strafverfahren bei ihnen anhängig wird, die in § 4 bezeichneten Daten in einer den Regelungen nach § 10 Abs. 1 entsprechenden standardisierten Form im Wege der Datenfernübertragung an die Registerbehörde. Unrichtigkeiten und Änderungen der Daten sind der Registerbehörde unverzüglich mitzuteilen; dies gilt auch für Verfahrensabgaben, -übernahmen, -verbindungen und -abtrennungen.
+(1) Die Staatsanwaltschaften, die diesen in steuerstrafrechtlichen Angelegenheiten nach § 386 Abs. 2 und § 399 der Abgabenordnung gleichgestellten Finanzbehörden und die Behörden der Zollverwaltung nach § 14a Absatz 1 und § 14b Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes (mitteilende Stellen) übermitteln, sobald ein Strafverfahren bei ihnen anhängig wird, die in § 4 bezeichneten Daten in einer den Regelungen nach § 10 Abs. 1 entsprechenden standardisierten Form im Wege der Datenfernübertragung an die Registerbehörde. Unrichtigkeiten und Änderungen der Daten sind der Registerbehörde unverzüglich mitzuteilen; dies gilt auch für Verfahrensabgaben, -übernahmen, -verbindungen und -abtrennungen.
 
 (2) Die Übermittlung kann mit der Maßgabe erfolgen, dass wegen besonderer Geheimhaltungsbedürftigkeit des Strafverfahrens Auskünfte über die übermittelten Daten an eine andere als die mitteilende Stelle ganz oder teilweise zu unterbleiben haben.
 
@@ -97,23 +97,29 @@ Die Berichtigung, Löschung und Einschränkung der Verarbeitung der gespeicherte
 
 (1) Auf Ersuchen erhalten Auskunft über die in § 4 genannten Daten
 
-1. die mitteilenden Stellen; bei Mitteilung eines neuen Verfahrens erhalten sie auch ohne Ersuchen Auskunft über die zu der beschuldigten Person bereits gespeicherten Daten,
+1. die mitteilenden Stellen im Sinne des § 3 Absatz 1 Satz 1; bei Mitteilung eines neuen Verfahrens erhalten sie auch ohne Ersuchen Auskunft über die zu der beschuldigten Person bereits gespeicherten Daten,
 
 2. die Polizei- und Sonderpolizeibehörden, soweit sie im Einzelfall strafverfolgend tätig sind,
+
+2a. das Bundeskriminalamt,
+
+a) nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 39 des Bundeskriminalamtgesetzes, soweit dies im Einzelfall zur Erfüllung seiner Aufgaben nach § 5 Absatz 1 des Bundeskriminalamtgesetzes erforderlich ist, oder
+
+b) nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 9 Absatz 2 und 5 des Bundeskriminalamtgesetzes, soweit dies im Einzelfall zur Erfüllung seiner Aufgaben nach § 6 Absatz 1 oder § 7 Absatz 1 oder Absatz 2 des Bundeskriminalamtgesetzes erforderlich ist,
 
 3. die Finanzbehörden in steuerstrafrechtlichen Ermittlungsverfahren der Staatsanwaltschaft (§ 402 der Abgabenordnung),
 
 4. die Steuer- und Zollfahndungsdienststellen, soweit sie im Einzelfall strafverfolgend tätig sind,
 
-5. die Waffenbehörden nach Maßgabe des § 492 Abs. 3 Satz 3 der Strafprozessordnung und des § 5 Abs. 5 Satz 1 Nr. 2 und Satz 2 des Waffengesetzes,
+5. die Waffenbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 5 Absatz 5 Satz 1 Nummer 2 und Satz 2 des Waffengesetzes,
 
-5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3 des Sprengstoffgesetzes,
+5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3 des Sprengstoffgesetzes,
 
-5b. die an Sicherheitsüberprüfungen mitwirkenden Behörde nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+5b. die an Sicherheitsüberprüfungen mitwirkenden Behörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes,
 
-5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 31 Absatz 4a des Geldwäschegesetzes,
+5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 31 Absatz 4a des Geldwäschegesetzes,
 
-5d. die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes,
+5d. die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes,
 
 6. das nationale Mitglied von Eurojust nach § 5 Absatz 1 Nummer 2 des Eurojust-Gesetzes.
 

@@ -111,9 +111,12 @@ aa)
 eine Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien entsprechend dem Zulassungsbereich 35.11.6 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung in der Fassung der Bekanntmachung vom 12. September 2002 (BGBl. I S. 3654), die zuletzt durch Artikel 65 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist,
 
 bb)  
-eine Zulassung für den Bereich Elektrizitätserzeugung aus Wasserkraft entsprechend dem Zulassungsbereich 35.11.7 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung oder
+eine Zulassung für den Bereich Elektrizitätserzeugung aus Wasserkraft entsprechend dem Zulassungsbereich 35.11.7 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung
 
-cc) eine Zulassung für den Bereich Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung entsprechend dem Zulassungsbereich 38 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung, sowie
+cc) eine Zulassung für den Bereich Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung entsprechend dem Zulassungsbereich 38 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung, oder
+
+dd)  
+eine Zulassung für den Bereich Wärmeversorgung entsprechend dem Zulassungsbereich 35.30.6 nach dem Anhang zur UAG-Zulassungsverfahrensverordnung, sowie
 
 b) ein Umweltgutachter oder eine Umweltgutachterorganisation, der oder die
 
@@ -285,7 +288,7 @@ Bei Umweltgutachterorganisationen sind darüber hinaus der Name und die Adresse 
 
 4. für die erzeugte Strommenge aus erneuerbaren Energien bisher weder ein Herkunftsnachweis und noch ein sonstiger Nachweis, der der Stromkennzeichnung oder einem anderen Verfahren zum Ausweis einer Stromlieferung im Inland oder Ausland zumindest auch dient, ausgestellt worden ist,
 
-5. für die Strommenge, die in Kraft-Wärme-Kopplung erzeugt worden ist, von der zuständigen Stelle noch kein Herkunftsnachweis nach § 31 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt durch Artikel 3 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2532) geändert worden ist, ausgestellt worden ist für den Betreiber von hocheffizienten KWK-Anlagen im Sinne des § 2 Nummer 8 des Kraft-Wärme-Kopplungsgesetzes,
+5. (weggefallen)
 
 6. für die erzeugte Strommenge aus erneuerbaren Energien keine Zahlung nach § 19 oder nach § 50 des Erneuerbare-Energien-Gesetzes in Anspruch genommen worden ist,
 
@@ -305,6 +308,30 @@ ein Umweltgutachter oder eine Umweltgutachterorganisation vor der Ausstellung be
 
 Eine Gefährdung im Sinne des Satzes 1 Nummer 10 ist in der Regel gegeben, wenn in der Person des Antragstellers ein Grund für die Kontosperrung nach § 49 oder für den Ausschluss von der Teilnahme am Herkunftsnachweisregister nach § 51 vorliegt.
 
+(1a) Auf Antrag des Anlagenbetreibers enthält der Herkunftsnachweis zusätzlich die Angabe, dass der Strom in einer hocheffizienten KWK-Anlage erzeugt wurde. Bei Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt muss hierfür ein Umweltgutachter oder eine Umweltgutachterorganisation vor der Ausstellung die Erzeugung des Stroms in hocheffizienten KWK-Anlagen sowie die folgenden Angaben bestätigt haben:
+
+1. die Nutzung der Wärme,
+
+2. den unteren Heizwert,
+
+3. die prozentuale Primärenergieeinsparung,
+
+4. die absolute Primärenergieeinsparung,
+
+5. die Gesamtprimärenergieeinsparung,
+
+6. die erzeugten CO<sub>2</sub>-Emissionen,
+
+7. die absoluten CO<sub>2</sub>-Emissionseinsparungen,
+
+8. die Nutzwärme aus Kraftwärmekopplung,
+
+9. den elektrischen Wirkungsgrad und
+
+10. den thermischen Wirkungsgrad.
+
+Die Registerverwaltung kann für die Nachweisführung nach Satz 2 in den Nutzungsbedingungen nach § 52 Satz 1 vereinfachte Vorgaben treffen. Im Fall der nicht fristgerechten Erfüllung der Pflichten nach § 42a Absatz 1 gelten diese Strommengen nicht als in hocheffizienter Kraft-Wärme-Kopplung produzierte Strommengen.
+
 (2) Der Antrag auf Ausstellung eines Herkunftsnachweises kann vor der Erzeugung der Strommengen gestellt werden.
 
 (3) Der Anlagenbetreiber hat bei seinem Antrag auf Ausstellung der Herkunftsnachweise anzugeben, ob und auf welche Weise die Strommenge, für die Herkunftsnachweise beantragt werden, staatlich gefördert wurde.
@@ -313,7 +340,7 @@ Eine Gefährdung im Sinne des Satzes 1 Nummer 10 ist in der Regel gegeben, wenn 
 
 1. für die eine Zahlung nach § 19 Absatz 1 oder nach § 50 Absatz 1 des Erneuerbare-Energien-Gesetzes in Anspruch genommen worden ist,
 
-2. für die ein Herkunftsnachweis nach § 31 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes oder ein anderer Nachweis zum Ausweis einer Stromlieferung aus erneuerbaren Energien im Inland oder Ausland ausgestellt worden ist,
+2. für die ein anderer Nachweis zum Ausweis einer Stromlieferung aus erneuerbaren Energien im Inland oder Ausland ausgestellt worden ist,
 
 3. die nicht aus erneuerbaren Energien in einer Anlage nach deren Registrierung erzeugt wurde oder
 
@@ -369,13 +396,15 @@ b) der Summe der Strommengen aller in den Speicher einspeisenden Anlagen.
 
 # § 16 – Inhalte des Herkunftsnachweises
 
-(1) Ein von der Registerverwaltung ausgestellter Herkunftsnachweis enthält neben den Angaben nach § 9 der Erneuerbare-Energien-Verordnung vom 17. Februar 2015 (BGBl. I S. 146), die zuletzt durch Artikel 3 der Verordnung vom 10. August 2017 (BGBl. I S. 3102) geändert worden ist,
+(1) Ein von der Registerverwaltung ausgestellter Herkunftsnachweis enthält neben den Angaben nach § 9 Absatz 1 der Erneuerbare-Energien-Verordnung vom 17. Februar 2015 (BGBl. I S. 146), die zuletzt durch Artikel 3 der Verordnung vom 10. August 2017 (BGBl. I S. 3102) geändert worden ist,
 
 1. die Bezeichnung der Registerverwaltung als ausstellende Stelle,
 
 2. die von der Registerverwaltung vergebene Kennnummer der Anlage und
 
 3. die Bezeichnung der Anlage.
+
+Herkunftsnachweise mit der zusätzlichen Angabe, dass der Strom in hocheffizienten KWK-Anlagen erzeugt worden ist, enthalten zusätzlich die Angaben nach § 9 Absatz 2 der Erneuerbare-Energien-Verordnung.
 
 (2) Auf Antrag des Anlagenbetreibers kann der Herkunftsnachweis zusätzlich Angaben zu der Art und Weise der Stromerzeugung in der Anlage enthalten (Qualitätsmerkmale). Die Qualitätsmerkmale werden in den Herkunftsnachweis nur aufgenommen, wenn ihre Richtigkeit durch einen Umweltgutachter oder eine Umweltgutachterorganisation bestätigt worden ist. Die Bestätigung nach Satz 2 erfolgt
 
@@ -527,6 +556,8 @@ b) die Adresse; bei Anlagen, die nicht über eine eigene Adresse verfügen, ist 
 
 17. die Angabe, ob ein Fall des § 22 Absatz 1 Nummer 2 vorliegt.
 
+(1a) Bei hocheffizienten KWK-Anlagen muss der Anlagenbetreiber darüber hinaus die thermische Leistung der Anlage übermitteln.
+
 (2) Bei Grenzkraftwerken muss der Anlagenbetreiber darüber hinaus folgende Daten übermitteln:
 
 1. wenn das Grenzkraftwerk keine inländische Adresse hat, die ausländische Adresse, gegebenenfalls die nächstgelegene ausländische Adresse,
@@ -553,7 +584,9 @@ a) eine Marktprämie, eine Einspeisevergütung oder einen Mieterstromzuschlag na
 
 b) zum Zweck der Verringerung der EEG-Umlage nach § 39 des Erneuerbare-Energien-Gesetzes in der am 31. Juli 2014 geltenden Fassung durch ein Elektrizitätsversorgungsunternehmen direkt vermarktet wurde.
 
-(2) Die nach Absatz 1 erforderliche Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation erstreckt sich für Daten, deren Richtigkeit bereits durch einen Umweltgutachter oder eine Umweltgutachterorganisation innerhalb der letzten fünf Jahre vor Beantragung der Registrierung bestätigt worden ist, nur auf den Umstand, dass die Richtigkeit dieser Daten bereits bestätigt worden ist.
+(1a) Hocheffiziente KWK-Anlagen mit einer installierten Leistung über 100 Kilowatt werden erst registriert, wenn der Anlagenbetreiber die Richtigkeit der nach § 21 Absatz 1 Satz 2 und Absatz 1a übermittelten Daten durch einen Umweltgutachter oder eine Umweltgutachterorganisation bestätigen lassen hat und diese Bestätigung der Registerverwaltung vorliegt.
+
+(2) Die nach Absatz 1 und Absatz 1a erforderliche Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation erstreckt sich für Daten, deren Richtigkeit bereits durch einen Umweltgutachter oder eine Umweltgutachterorganisation innerhalb der letzten fünf Jahre vor Beantragung der Registrierung bestätigt worden ist, nur auf den Umstand, dass die Richtigkeit dieser Daten bereits bestätigt worden ist.
 
 # § 23 – Anlagenregistrierung im Regionalnachweisregister
 
@@ -583,9 +616,9 @@ b) zum Zweck der Verringerung der EEG-Umlage nach § 39 des Erneuerbare-Energien
 
 # § 24 – Änderung von Anlagendaten
 
-(1) Ändern sich die nach § 21 Absatz 1 Satz 2 oder Absatz 2 Satz 1 oder nach § 23 Absatz 1 Satz 2 mitgeteilten Daten, ist der Anlagenbetreiber verpflichtet, die geänderten Daten sowie den Stichtag, an dem die Änderungen wirksam werden, vollständig und unverzüglich der Registerverwaltung zu übermitteln. Eine Änderung der Postleitzahl am Standort des physikalischen Zählpunkts der Anlage wird durch die Registerverwaltung erst mit Beginn des auf die Änderung folgenden Kalenderjahres berücksichtigt.
+(1) Ändern sich die nach § 21 Absatz 1 Satz 2, Absatz 1a oder Absatz 2 Satz 1 oder nach § 23 Absatz 1 Satz 2 mitgeteilten Daten, ist der Anlagenbetreiber verpflichtet, die geänderten Daten sowie den Stichtag, an dem die Änderungen wirksam werden, vollständig und unverzüglich der Registerverwaltung zu übermitteln. Eine Änderung der Postleitzahl am Standort des physikalischen Zählpunkts der Anlage wird durch die Registerverwaltung erst mit Beginn des auf die Änderung folgenden Kalenderjahres berücksichtigt.
 
-(2) Bei Anlagen mit einer installierten Leistung über 100 Kilowatt, die im Herkunftsnachweisregister registriert sind, hat der Anlagenbetreiber die Richtigkeit der geänderten Daten nach § 21 Absatz 1 Satz 2 Nummer 4, 5, 8 und 9, Absatz 2 Satz 1 Nummer 2 und 3 und Absatz 3 durch eine Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation nachzuweisen. Ein solcher Nachweis ist nicht erforderlich, wenn der zuständige Betreiber des Elektrizitätsversorgungsnetzes die geänderten Daten der Registerverwaltung übermittelt. Vor dem Eingang der Bestätigung nach Satz 1 oder der Datenübermittlung nach Satz 2 bei der Registerverwaltung werden keine Herkunftsnachweise für die in der betreffenden Anlage erzeugte Strommenge ausgestellt.
+(2) Bei Anlagen mit einer installierten Leistung über 100 Kilowatt, die im Herkunftsnachweisregister registriert sind, hat der Anlagenbetreiber die Richtigkeit der geänderten Daten nach § 21 Absatz 1 Satz 2 Nummer 4, 5, 8 und 9, Absatz 1a, Absatz 2 Satz 1 Nummer 2 und 3 und Absatz 3 durch eine Bestätigung des Umweltgutachters oder der Umweltgutachterorganisation nachzuweisen. Ein solcher Nachweis ist nicht erforderlich, wenn der zuständige Betreiber des Elektrizitätsversorgungsnetzes die geänderten Daten der Registerverwaltung übermittelt. Vor dem Eingang der Bestätigung nach Satz 1 oder der Datenübermittlung nach Satz 2 bei der Registerverwaltung werden keine Herkunftsnachweise für die in der betreffenden Anlage erzeugte Strommenge ausgestellt.
 
 # § 25 – Registrierung von Gesamtanlagen
 
@@ -733,7 +766,7 @@ Für die Löschung von Regionalnachweisen sind die Vorschriften des § 32 über 
 
 # § 34 – Verfall von Herkunftsnachweisen
 
-Die Registerverwaltung erklärt Herkunftsnachweise für verfallen, wenn sie nicht spätestens zwölf Kalendermonate nach dem Ende des Erzeugungszeitraums entwertet worden sind. Eine Verwendung der verfallenen Herkunftsnachweise ist untersagt.
+Die Registerverwaltung erklärt Herkunftsnachweise für verfallen, wenn sie nicht spätestens 18 Kalendermonate nach dem Ende des Erzeugungszeitraums entwertet worden sind. Eine Verwendung der verfallenen Herkunftsnachweise ist untersagt.
 
 # § 35 – Verfall von Regionalnachweisen
 
@@ -741,7 +774,7 @@ Die Registerverwaltung erklärt Regionalnachweise für verfallen, wenn sie nicht
 
 # § 36 – Anerkennung von Herkunftsnachweisen von ausländischen registerführenden Stellen
 
-(1) Die Registerverwaltung erkennt auf Antrag der in das Inland übertragenden registerführenden Stelle einen Herkunftsnachweis für Strom aus erneuerbaren Energien aus Mitgliedstaaten der Europäischen Union, aus anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, aus Vertragsparteien des Vertrags zur Gründung der Energiegemeinschaft oder aus der Schweiz an, wenn keine begründeten Zweifel an der Richtigkeit, der Zuverlässigkeit oder der Wahrhaftigkeit des Herkunftsnachweises bestehen. Begründete Zweifel bestehen in der Regel nicht, wenn
+(1) Die Registerverwaltung erkennt auf Antrag der in das Inland übertragenden registerführenden Stelle einen Herkunftsnachweis für Strom aus erneuerbaren Energien aus Mitgliedstaaten der Europäischen Union, aus anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, aus Vertragsparteien des Vertrags zur Gründung der Energiegemeinschaft oder aus Drittländern, wenn die Europäische Union mit diesem Drittland ein Abkommen über die gegenseitige Anerkennung von in der Europäischen Union ausgestellten Herkunftsnachweisen und in diesem Drittland eingerichteten kompatiblen Herkunftsnachweissystemen geschlossen hat, und Energie direkt ein- oder ausgeführt wird und wenn keine begründeten Zweifel an der Richtigkeit, der Zuverlässigkeit oder der Wahrhaftigkeit des Herkunftsnachweises bestehen. Begründete Zweifel bestehen in der Regel nicht, wenn
 
 1. der Kalendermonat, in dem das Ende des Erzeugungszeitraums der im Herkunftsnachweis ausgewiesenen Strommenge liegt, bei Antragstellung nicht mehr als zwölf Kalendermonate zurückliegt,
 
@@ -849,9 +882,15 @@ Der Netzbetreiber, an dessen Netz eine im Regionalnachweisregister registrierte 
 
 (4) Die Ermittlung der Anteile erneuerbarer Energien an den eingesetzten Brennstoffen nach Absatz 1 kann unterjährig unter Nutzung der vorgelegten erforderlichen Nachweise nach Absatz 2 ortsunabhängig erfolgen, sofern die Ermittlung und Bestätigung der Anteile erneuerbarer Energien an den eingesetzten Brennstoffen dadurch nicht gefährdet wird. § 24 Absatz 2 bleibt unberührt. Die Registerverwaltung kann prüfen, ob die Strommengen, für die die Ausstellung von Herkunftsnachweisen beantragt wurde, aus erneuerbaren Energien erzeugt worden sind. § 44 ist für diese Prüfung entsprechend anzuwenden.
 
+# § 42a – Begutachtungspflichten bei im Herkunftsnachweisregister registrierten hocheffizienten KWK-Anlagen
+
+(1) Betreiber von Anlagen nach § 12 Absatz 1a Satz 2, die die Ausstellung von Herkunftsnachweisen mit der zusätzlichen Angabe, dass der Strom in hocheffizienten KWK-Anlagen erzeugt worden ist, beantragen, müssen vor der Ausstellung mindestens einmal im Kalenderjahr die Angaben nach § 12 Absatz 1a Satz 2 durch einen Umweltgutachter oder eine Umweltgutachterorganisation ermitteln und der Registerverwaltung übermitteln lassen. Die Registerverwaltung kann prüfen, ob die Strommengen, für die die Ausstellung von Herkunftsnachweisen mit der Zusatzangabe nach § 12 Absatz 1a beantragt worden ist, in hocheffizienten KWK-Anlagen erzeugt worden sind.
+
+(2) Die Pflichten nach § 42 bleiben hiervon unberührt.
+
 # § 43 – Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen
 
-(1) Ein Umweltgutachter oder eine Umweltgutachterorganisation hat die Angaben, die ihm oder ihr vom Kontoinhaber nach § 13 Absatz 3 und 4, § 16 Absatz 2 und 5, § 22 Absatz 1 und 2, § 24 Absatz 2, § 42 Absatz 1 und 3 übermittelt werden, zu prüfen und im Fall ihrer Richtigkeit zu bestätigen und die Bestätigung nach § 12 Absatz 1 Satz 1 Nummer 8 und 9 vorzunehmen. Der Umweltgutachter oder die Umweltgutachterorganisation ist zur Abgabe dieser Bestätigung und sonstiger Erklärungen jeweils nur im Rahmen seines oder ihres Zulassungsbereichs nach § 2 Nummer 11 Buchstabe a befugt; Umweltgutachter und Umweltorganisationen mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien können Bestätigungen und Erklärungen auch zu Anlagen im Sinne des § 12 Absatz 1 Satz 1 Nummer 8 abgeben.
+(1) Ein Umweltgutachter oder eine Umweltgutachterorganisation hat die Angaben, die ihm oder ihr vom Kontoinhaber nach § 13 Absatz 3 und 4, § 16 Absatz 2 und 5, § 22 Absatz 1, 1a und 2, § 24 Absatz 2, § 42 Absatz 1 und 3 übermittelt werden, zu prüfen und im Fall ihrer Richtigkeit zu bestätigen und die Bestätigung nach § 12 Absatz 1 Satz 1 Nummer 8 und 9 und Absatz 1a vorzunehmen. Der Umweltgutachter oder die Umweltgutachterorganisation ist zur Abgabe dieser Bestätigung und sonstiger Erklärungen jeweils nur im Rahmen seines oder ihres Zulassungsbereichs nach § 2 Nummer 11 Buchstabe a befugt; Umweltgutachter und Umweltorganisationen mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien können Bestätigungen und Erklärungen auch zu Anlagen im Sinne des § 12 Absatz 1 Satz 1 Nummer 8 abgeben.
 
 (2) Der Umweltgutachter oder die Umweltgutachterorganisation hat für die Bestätigung nach Absatz 1 Satz 1 unverzüglich nach der Prüfung der übermittelten Angaben die wesentlichen Erkenntnisse und Schlussfolgerungen sowie die Grundlagen dieser Erkenntnisse und Schlussfolgerungen schriftlich oder elektronisch in einem Gutachten niederzulegen. Das Gutachten hat in nachvollziehbarer Weise Inhalt und Ergebnis der Prüfung erkennen zu lassen. Der Umweltgutachter oder die Umweltgutachterorganisation hat die Bestätigung der Angaben in die von der Registerverwaltung zur Verfügung gestellten Formularvorlagen einzugeben und gemeinsam mit dem Gutachten an die Registerverwaltung zu übermitteln.
 

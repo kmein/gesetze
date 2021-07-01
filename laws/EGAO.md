@@ -623,6 +623,30 @@ In den Fällen von Satz 1 Nummer 2 ist die Fallgestaltung im Bericht abstrakt zu
 
 (2) Abweichend von § 233a Absatz 2 Satz 1 der Abgabenordnung in der am 19. Februar 2021 geltenden Fassung beginnt der Zinslauf für den Besteuerungszeitraum 2019 am 1. Oktober 2021. In den Fällen des § 233a Absatz 2 Satz 2 der Abgabenordnung in der am 19. Februar 2021 geltenden Fassung beginnt der Zinslauf für den Besteuerungszeitraum 2019 am 1. Mai 2022.
 
+(3) Für den Besteuerungszeitraum 2020 sind die §§ 109, 149, 152 und 233a der Abgabenordnung in der am 1. Juli 2021 geltenden Fassung mit folgenden Maßgaben anzuwenden:
+
+1. In § 109 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung tritt an die Stelle des letzten Tags des Monats Februar 2022 der 31. Mai 2022.
+
+2. In § 109 Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle des 31. Juli 2022 der 31. Oktober 2022.
+
+3. In § 149 Absatz 2 Satz 1 der Abgabenordnung tritt jeweils an die Stelle der Angabe „sieben Monate“ die Angabe „zehn Monate“.
+
+4. In § 149 Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle der Angabe „des siebten Monats“ die Angabe „des zehnten Monats“.
+
+5. In § 149 Absatz 3 der Abgabenordnung tritt an die Stelle des letzten Tags des Monats Februar 2022 der 31. Mai 2022 und an die Stelle des 31. Juli 2022 der 31. Oktober 2022.
+
+6. In § 149 Absatz 4 Satz 1 und 3 der Abgabenordnung tritt jeweils an die Stelle des letzten Tags des Monats Februar 2022 der 31. Mai 2022.
+
+7. In § 149 Absatz 4 Satz 5 der Abgabenordnung tritt an die Stelle des 31. Juli 2022 der 31. Oktober 2022.
+
+8. In § 152 Absatz 2 Nummer 1 der Abgabenordnung tritt jeweils an die Stelle der Angabe „14 Monaten“ die Angabe „17 Monaten“.
+
+9. In § 152 Absatz 2 Nummer 2 der Abgabenordnung tritt jeweils an die Stelle der Angabe „19 Monaten“ die Angabe „22 Monaten“.
+
+10. In § 233a Absatz 2 Satz 1 der Abgabenordnung tritt an die Stelle der Angabe „15 Monate“ die Angabe „18 Monate“.
+
+11. In § 233a Absatz 2 Satz 2 der Abgabenordnung tritt an die Stelle der Angabe „23 Monate“ die Angabe „26 Monate“.
+
 # § 1 – Zuständigkeit
 
 (1) Für vor dem 1. Januar 1991 nach dem Recht der Bundesrepublik Deutschland oder der Deutschen Demokratischen Republik entstandene Besitz- und Verkehrsteuern, Zulagen und Prämien, auf die Abgabenrecht Anwendung findet, und dazugehörige steuerliche Nebenleistungen, bleiben die nach den bisher geltenden Vorschriften einschließlich der Vorschriften der Einzelsteuergesetze örtlich zuständigen Finanzbehörden weiterhin zuständig. Dies gilt auch für das Rechtsbehelfsverfahren.

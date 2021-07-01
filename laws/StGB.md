@@ -2377,19 +2377,31 @@ Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreu
 
 § 176
 
-Sexueller Mißbrauch von Kindern
+Sexueller Missbrauch von Kindern
 
  
 
 § 176a
 
-Schwerer sexueller Mißbrauch von Kindern
+Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind
 
  
 
 § 176b
 
-Sexueller Mißbrauch von Kindern mit Todesfolge
+Vorbereitung des sexuellen Missbrauchs von Kindern
+
+ 
+
+§ 176c
+
+Schwerer sexueller Missbrauch von Kindern
+
+ 
+
+§ 176d
+
+Sexueller Missbrauch von Kindern mit Todesfolge
 
  
 
@@ -2534,6 +2546,12 @@ Straftaten aus Gruppen
 § 184k
 
 Verletzung des Intimbereichs durch Bildaufnahmen
+
+ 
+
+§ 184l
+
+Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild
 
  
 
@@ -5060,7 +5078,7 @@ Für die Einordnung als Straftat im Sinne von Satz 1 Nummer 1 Buchstabe b gilt �
 
 (2) Hat jemand drei Straftaten der in Absatz 1 Satz 1 Nummer 1 genannten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens einem Jahr verwirkt hat, und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter der in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzung neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen.
 
-(3) Wird jemand wegen eines die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder b erfüllenden Verbrechens oder wegen einer Straftat nach § 89a Absatz 1 bis 3, § 89c Absatz 1 bis 3, § 129a Absatz 5 Satz 1 erste Alternative, auch in Verbindung mit § 129b Absatz 1, den §§ 174 bis 174c, 176, 177 Absatz 2 Nummer 1, Absatz 3 und 6, §§ 180, 182, 224, 225 Abs. 1 oder 2 oder wegen einer vorsätzlichen Straftat nach § 323a, soweit die im Rausch begangene Tat eine der vorgenannten rechtswidrigen Taten ist, zu Freiheitsstrafe von mindestens zwei Jahren verurteilt, so kann das Gericht neben der Strafe die Sicherungsverwahrung anordnen, wenn der Täter wegen einer oder mehrerer solcher Straftaten, die er vor der neuen Tat begangen hat, schon einmal zu Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist und die in Absatz 1 Satz 1 Nummer 3 und 4 genannten Voraussetzungen erfüllt sind. Hat jemand zwei Straftaten der in Satz 1 bezeichneten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens zwei Jahren verwirkt hat und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter den in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzungen neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen. Die Absätze 1 und 2 bleiben unberührt.
+(3) Wird jemand wegen eines die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder b erfüllenden Verbrechens oder wegen einer Straftat nach § 89a Absatz 1 bis 3, § 89c Absatz 1 bis 3, § 129a Absatz 5 Satz 1 erste Alternative, auch in Verbindung mit § 129b Absatz 1, den §§ 174 bis 174c, 176a, 176b, 177 Absatz 2 Nummer 1, Absatz 3 und 6, §§ 180, 182, 224, 225 Abs. 1 oder 2 oder wegen einer vorsätzlichen Straftat nach § 323a, soweit die im Rausch begangene Tat eine der vorgenannten rechtswidrigen Taten ist, zu Freiheitsstrafe von mindestens zwei Jahren verurteilt, so kann das Gericht neben der Strafe die Sicherungsverwahrung anordnen, wenn der Täter wegen einer oder mehrerer solcher Straftaten, die er vor der neuen Tat begangen hat, schon einmal zu Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist und die in Absatz 1 Satz 1 Nummer 3 und 4 genannten Voraussetzungen erfüllt sind. Hat jemand zwei Straftaten der in Satz 1 bezeichneten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens zwei Jahren verwirkt hat und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter den in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzungen neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen. Die Absätze 1 und 2 bleiben unberührt.
 
 (4) Im Sinne des Absatzes 1 Satz 1 Nummer 2 gilt eine Verurteilung zu Gesamtstrafe als eine einzige Verurteilung. Ist Untersuchungshaft oder eine andere Freiheitsentziehung auf Freiheitsstrafe angerechnet, so gilt sie als verbüßte Strafe im Sinne des Absatzes 1 Satz 1 Nummer 3. Eine frühere Tat bleibt außer Betracht, wenn zwischen ihr und der folgenden Tat mehr als fünf Jahre verstrichen sind; bei Straftaten gegen die sexuelle Selbstbestimmung beträgt die Frist fünfzehn Jahre. In die Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die außerhalb des räumlichen Geltungsbereichs dieses Gesetzes abgeurteilt worden ist, steht einer innerhalb dieses Bereichs abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine Straftat der in Absatz 1 Satz 1 Nummer 1, in den Fällen des Absatzes 3 der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
@@ -5803,7 +5821,7 @@ Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum Tatbestand ge
 
 (1) Die Verjährung ruht
 
-1. bis zur Vollendung des 30. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 178, 180 Absatz 3, §§ 182, 225, 226a und 237,
+1. bis zur Vollendung des 30. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 178, 182, 184b Absatz 1 Satz 1 Nummer 3, auch in Verbindung mit Absatz 2, §§ 225, 226a und 237,
 
 2. solange nach dem Gesetz die Verfolgung nicht begonnen oder nicht fortgesetzt werden kann; dies gilt nicht, wenn die Tat nur deshalb nicht verfolgt werden kann, weil Antrag, Ermächtigung oder Strafverlangen fehlen.
 
@@ -6997,7 +7015,7 @@ handelt. Unter denselben Voraussetzungen ist ein Rechtsanwalt, Verteidiger, Arzt
 
 # § 140 – Belohnung und Billigung von Straftaten
 
-Wer eine der in § 138 Absatz 1 Nummer 2 bis 4 und 5 letzte Alternative oder in § 126 Absatz 1 genannten rechtswidrigen Taten oder eine rechtswidrige Tat nach § 176 Absatz 3 oder nach den §§ 176a und 176b
+Wer eine der in § 138 Absatz 1 Nummer 2 bis 4 und 5 letzte Alternative oder in § 126 Absatz 1 genannten rechtswidrigen Taten oder eine rechtswidrige Tat nach § 176 Absatz 1 oder nach den §§ 176c und 176d
 
 1. belohnt, nachdem sie begangen oder in strafbarer Weise versucht worden ist, oder
 
@@ -7371,13 +7389,13 @@ Ebenso wird bestraft, wer mit einer dritten Person, die verheiratet ist oder ein
 
 (1) Wer sexuelle Handlungen
 
-1. an einer Person unter sechzehn Jahren, die ihm zur Erziehung, zur Ausbildung oder zur Betreuung in der Lebensführung anvertraut ist,
+1. an einer Person unter achtzehn Jahren, die ihm zur Erziehung oder zur Betreuung in der Lebensführung anvertraut ist,
 
-2. an einer Person unter achtzehn Jahren, die ihm zur Erziehung, zur Ausbildung oder zur Betreuung in der Lebensführung anvertraut oder im Rahmen eines Dienst- oder Arbeitsverhältnisses untergeordnet ist, unter Mißbrauch einer mit dem Erziehungs-, Ausbildungs-, Betreuungs-, Dienst- oder Arbeitsverhältnis verbundenen Abhängigkeit oder
+2. an einer Person unter achtzehn Jahren, die ihm im Rahmen eines Ausbildungs-, Dienst- oder Arbeitsverhältnisses untergeordnet ist, unter Missbrauch einer mit dem Ausbildungs-, Dienst- oder Arbeitsverhältnis verbundenen Abhängigkeit oder
 
 3. an einer Person unter achtzehn Jahren, die sein leiblicher oder rechtlicher Abkömmling ist oder der seines Ehegatten, seines Lebenspartners oder einer Person, mit der er in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebt,
 
-vornimmt oder an sich von dem Schutzbefohlenen vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+vornimmt oder an sich von dem Schutzbefohlenen vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ebenso wird bestraft, wer unter den Voraussetzungen des Satzes 1 den Schutzbefohlenen dazu bestimmt, dass er sexuelle Handlungen an oder vor einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt.
 
 (2) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird eine Person bestraft, der in einer dazu bestimmten Einrichtung die Erziehung, Ausbildung oder Betreuung in der Lebensführung von Personen unter achtzehn Jahren anvertraut ist, und die sexuelle Handlungen
 
@@ -7385,37 +7403,39 @@ vornimmt oder an sich von dem Schutzbefohlenen vornehmen läßt, wird mit Freihe
 
 2. unter Ausnutzung ihrer Stellung an einer Person unter achtzehn Jahren, die zu dieser Einrichtung in einem Rechtsverhältnis steht, das ihrer Erziehung, Ausbildung oder Betreuung in der Lebensführung dient, vornimmt oder an sich von ihr vornehmen lässt.
 
+Ebenso wird bestraft, wer unter den Voraussetzungen des Satzes 1 den Schutzbefohlenen dazu bestimmt, dass er sexuelle Handlungen an oder vor einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt.
+
 (3) Wer unter den Voraussetzungen des Absatzes 1 oder 2
 
-1. sexuelle Handlungen vor dem Schutzbefohlenen vornimmt oder
+1. sexuelle Handlungen vor dem Schutzbefohlenen vornimmt, um sich oder den Schutzbefohlenen hierdurch sexuell zu erregen, oder
 
 2. den Schutzbefohlenen dazu bestimmt, daß er sexuelle Handlungen vor ihm vornimmt,
 
-um sich oder den Schutzbefohlenen hierdurch sexuell zu erregen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (4) Der Versuch ist strafbar.
 
-(5) In den Fällen des Absatzes 1 Nummer 1, des Absatzes 2 Nummer 1 oder des Absatzes 3 in Verbindung mit Absatz 1 Nummer 1 oder mit Absatz 2 Nummer 1 kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen, wenn das Unrecht der Tat gering ist.
+(5) In den Fällen des Absatzes 1 Satz 1 Nummer 1, des Absatzes 2 Satz 1 Nummer 1 oder des Absatzes 3 in Verbindung mit Absatz 1 Satz 1 Nummer 1 oder mit Absatz 2 Satz 1 Nummer 1 kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen, wenn das Unrecht der Tat gering ist.
 
 # § 174a – Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen
 
-(1) Wer sexuelle Handlungen an einer gefangenen oder auf behördliche Anordnung verwahrten Person, die ihm zur Erziehung, Ausbildung, Beaufsichtigung oder Betreuung anvertraut ist, unter Mißbrauch seiner Stellung vornimmt oder an sich von der gefangenen oder verwahrten Person vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+(1) Wer sexuelle Handlungen an einer gefangenen oder auf behördliche Anordnung verwahrten Person, die ihm zur Erziehung, Ausbildung, Beaufsichtigung oder Betreuung anvertraut ist, unter Mißbrauch seiner Stellung vornimmt oder an sich von der gefangenen oder verwahrten Person vornehmen läßt oder die gefangene oder verwahrte Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
-(2) Ebenso wird bestraft, wer eine Person, die in einer Einrichtung für kranke oder hilfsbedürftige Menschen aufgenommen und ihm zur Beaufsichtigung oder Betreuung anvertraut ist, dadurch mißbraucht, daß er unter Ausnutzung der Krankheit oder Hilfsbedürftigkeit dieser Person sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt.
+(2) Ebenso wird bestraft, wer eine Person, die in einer Einrichtung für kranke oder hilfsbedürftige Menschen aufgenommen und ihm zur Beaufsichtigung oder Betreuung anvertraut ist, dadurch mißbraucht, daß er unter Ausnutzung der Krankheit oder Hilfsbedürftigkeit dieser Person sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt.
 
 (3) Der Versuch ist strafbar.
 
 # § 174b – Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung
 
-(1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren oder an einem Verfahren zur Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung oder einer behördlichen Verwahrung berufen ist, unter Mißbrauch der durch das Verfahren begründeten Abhängigkeit sexuelle Handlungen an demjenigen, gegen den sich das Verfahren richtet, vornimmt oder an sich von dem anderen vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+(1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren oder an einem Verfahren zur Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung oder einer behördlichen Verwahrung berufen ist, unter Mißbrauch der durch das Verfahren begründeten Abhängigkeit sexuelle Handlungen an demjenigen, gegen den sich das Verfahren richtet, vornimmt oder an sich von dem anderen vornehmen läßt oder die Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
 
 # § 174c – Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses
 
-(1) Wer sexuelle Handlungen an einer Person, die ihm wegen einer geistigen oder seelischen Krankheit oder Behinderung einschließlich einer Suchtkrankheit oder wegen einer körperlichen Krankheit oder Behinderung zur Beratung, Behandlung oder Betreuung anvertraut ist, unter Mißbrauch des Beratungs-, Behandlungs- oder Betreuungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+(1) Wer sexuelle Handlungen an einer Person, die ihm wegen einer geistigen oder seelischen Krankheit oder Behinderung einschließlich einer Suchtkrankheit oder wegen einer körperlichen Krankheit oder Behinderung zur Beratung, Behandlung oder Betreuung anvertraut ist, unter Mißbrauch des Beratungs-, Behandlungs- oder Betreuungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
-(2) Ebenso wird bestraft, wer sexuelle Handlungen an einer Person, die ihm zur psychotherapeutischen Behandlung anvertraut ist, unter Mißbrauch des Behandlungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt.
+(2) Ebenso wird bestraft, wer sexuelle Handlungen an einer Person, die ihm zur psychotherapeutischen Behandlung anvertraut ist, unter Mißbrauch des Behandlungsverhältnisses vornimmt oder an sich von ihr vornehmen läßt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einer dritten Person bestimmt.
 
 (3) Der Versuch ist strafbar.
 
@@ -7423,55 +7443,69 @@ um sich oder den Schutzbefohlenen hierdurch sexuell zu erregen, wird mit Freihei
 
 \-
 
-# § 176 – Sexueller Mißbrauch von Kindern
+# § 176 – Sexueller Missbrauch von Kindern
 
-(1) Wer sexuelle Handlungen an einer Person unter vierzehn Jahren (Kind) vornimmt oder an sich von dem Kind vornehmen läßt, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.
+(1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
-(2) Ebenso wird bestraft, wer ein Kind dazu bestimmt, daß es sexuelle Handlungen an einem Dritten vornimmt oder von einem Dritten an sich vornehmen läßt.
+1. sexuelle Handlungen an einer Person unter vierzehn Jahren (Kind) vornimmt oder an sich von dem Kind vornehmen lässt,
 
-(3) In besonders schweren Fällen ist auf Freiheitsstrafe nicht unter einem Jahr zu erkennen.
+2. ein Kind dazu bestimmt, dass es sexuelle Handlungen an einer dritten Person vornimmt oder von einer dritten Person an sich vornehmen lässt,
 
-(4) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer
+3. ein Kind für eine Tat nach Nummer 1 oder Nummer 2 anbietet oder nachzuweisen verspricht.
 
-1. sexuelle Handlungen vor einem Kind vornimmt,
+(2) In den Fällen des Absatzes 1 Nummer 1 kann das Gericht von Strafe nach dieser Vorschrift absehen, wenn zwischen Täter und Kind die sexuelle Handlung einvernehmlich erfolgt und der Unterschied sowohl im Alter als auch im Entwicklungsstand oder Reifegrad gering ist, es sei denn, der Täter nutzt die fehlende Fähigkeit des Kindes zur sexuellen Selbstbestimmung aus.
 
-2. ein Kind dazu bestimmt, dass es sexuelle Handlungen vornimmt, soweit die Tat nicht nach Absatz 1 oder Absatz 2 mit Strafe bedroht ist,
+# § 176a – Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind
 
-3. auf ein Kind mittels eines Inhalts (§ 11 Absatz 3) einwirkt, um
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer
 
-a) das Kind zu sexuellen Handlungen zu bringen, die es an oder vor dem Täter oder einer dritten Person vornehmen oder von dem Täter oder einer dritten Person an sich vornehmen lassen soll, oder
+1. sexuelle Handlungen vor einem Kind vornimmt oder vor einem Kind von einer dritten Person an sich vornehmen lässt,
 
-b) eine Tat nach § 184b Absatz 1 Nummer 3 oder nach § 184b Absatz 3 zu begehen, oder
+2. ein Kind dazu bestimmt, dass es sexuelle Handlungen vornimmt, soweit die Tat nicht nach § 176 Absatz 1 Nummer 1 oder Nummer 2 mit Strafe bedroht ist, oder
 
-4. auf ein Kind mittels eines pornographischen Inhalts (§ 11 Absatz 3) oder durch entsprechende Reden einwirkt.
+3. auf ein Kind durch einen pornographischen Inhalt (§ 11 Absatz 3) oder durch entsprechende Reden einwirkt.
 
-(5) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer ein Kind für eine Tat nach den Absätzen 1 bis 4 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.
+(2) Ebenso wird bestraft, wer ein Kind für eine Tat nach Absatz 1 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.
 
-(6) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 4 Nummer 4 und Absatz 5. Bei Taten nach Absatz 4 Nummer 3 ist der Versuch nur in den Fällen strafbar, in denen eine Vollendung der Tat allein daran scheitert, dass der Täter irrig annimmt, sein Einwirken beziehe sich auf ein Kind.
+(3) Der Versuch ist in den Fällen des Absatzes 1 Nummer 1 und 2 strafbar. Bei Taten nach Absatz 1 Nummer 3 ist der Versuch in den Fällen strafbar, in denen eine Vollendung der Tat allein daran scheitert, dass der Täter irrig annimmt, sein Einwirken beziehe sich auf ein Kind.
 
-# § 176a – Schwerer sexueller Mißbrauch von Kindern
+# § 176b – Vorbereitung des sexuellen Missbrauchs von Kindern
 
-(1) Der sexuelle Missbrauch von Kindern wird in den Fällen des § 176 Abs. 1 und 2 mit Freiheitsstrafe nicht unter einem Jahr bestraft, wenn der Täter innerhalb der letzten fünf Jahre wegen einer solchen Straftat rechtskräftig verurteilt worden ist.
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer auf ein Kind durch einen Inhalt (§ 11 Absatz 3) einwirkt, um
 
-(2) Der sexuelle Missbrauch von Kindern wird in den Fällen des § 176 Abs. 1 und 2 mit Freiheitsstrafe nicht unter zwei Jahren bestraft, wenn
+1. das Kind zu sexuellen Handlungen zu bringen, die es an oder vor dem Täter oder an oder vor einer dritten Person vornehmen oder von dem Täter oder einer dritten Person an sich vornehmen lassen soll, oder
 
-1. eine Person über achtzehn Jahren mit dem Kind den Beischlaf vollzieht oder ähnliche sexuelle Handlungen an ihm vornimmt oder an sich von ihm vornehmen lässt, die mit einem Eindringen in den Körper verbunden sind,
+2. eine Tat nach § 184b Absatz 1 Satz 1 Nummer 3 oder nach § 184b Absatz 3 zu begehen.
 
-2. die Tat von mehreren gemeinschaftlich begangen wird oder
+(2) Ebenso wird bestraft, wer ein Kind für eine Tat nach Absatz 1 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.
 
-3. der Täter das Kind durch die Tat in die Gefahr einer schweren Gesundheitsschädigung oder einer erheblichen Schädigung der körperlichen oder seelischen Entwicklung bringt.
+(3) Bei Taten nach Absatz 1 ist der Versuch in den Fällen strafbar, in denen eine Vollendung der Tat allein daran scheitert, dass der Täter irrig annimmt, sein Einwirken beziehe sich auf ein Kind.
 
-(3) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen des § 176 Abs. 1 bis 3, 4 Nr. 1 oder Nr. 2, jeweils auch in Verbindung mit § 176 Absatz 6 Satz 1, als Täter oder anderer Beteiligter in der Absicht handelt, die Tat zum Gegenstand eines pornographischen Inhalts (§ 11 Absatz 3) zu machen, der nach § 184b Absatz 1 oder 2 verbreitet werden soll.
+# § 176c – Schwerer sexueller Missbrauch von Kindern
 
-(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
+(1) Der sexuelle Missbrauch von Kindern wird in den Fällen des § 176 Absatz 1 Nummer 1 und 2 mit Freiheitsstrafe nicht unter zwei Jahren bestraft, wenn
 
-(5) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer das Kind in den Fällen des § 176 Abs. 1 bis 3 bei der Tat körperlich schwer misshandelt oder durch die Tat in die Gefahr des Todes bringt.
+1. der Täter innerhalb der letzten fünf Jahre wegen einer solchen Straftat rechtskräftig verurteilt worden ist,
 
-(6) In die in Absatz 1 bezeichnete Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die im Ausland abgeurteilt worden ist, steht in den Fällen des Absatzes 1 einer im Inland abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine solche nach § 176 Abs. 1 oder 2 wäre.
+2. der Täter mindestens achtzehn Jahre alt ist und
 
-# § 176b – Sexueller Mißbrauch von Kindern mit Todesfolge
+a) mit dem Kind den Beischlaf vollzieht oder ähnliche sexuelle Handlungen an ihm vornimmt oder an sich von ihm vornehmen lässt, die mit einem Eindringen in den Körper verbunden sind, oder
 
-Verursacht der Täter durch den sexuellen Mißbrauch (§§ 176 und 176a) wenigstens leichtfertig den Tod des Kindes, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
+b) das Kind dazu bestimmt, den Beischlaf mit einem Dritten zu vollziehen oder ähnliche sexuelle Handlungen, die mit einem Eindringen in den Körper verbunden sind, an dem Dritten vorzunehmen oder von diesem an sich vornehmen zu lassen,
+
+3. die Tat von mehreren gemeinschaftlich begangen wird oder
+
+4. der Täter das Kind durch die Tat in die Gefahr einer schweren Gesundheitsschädigung oder einer erheblichen Schädigung der körperlichen oder seelischen Entwicklung bringt.
+
+(2) Ebenso wird bestraft, wer in den Fällen des § 176 Absatz 1 Nummer 1 oder Nummer 2, des § 176a Absatz 1 Nummer 1 oder Nummer 2 oder Absatz 3 Satz 1 als Täter oder anderer Beteiligter in der Absicht handelt, die Tat zum Gegenstand eines pornographischen Inhalts (§ 11 Absatz 3) zu machen, der nach § 184b Absatz 1 oder 2 verbreitet werden soll.
+
+(3) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer das Kind in den Fällen des § 176 Absatz 1 Nummer 1 oder Nummer 2 bei der Tat körperlich schwer misshandelt oder durch die Tat in die Gefahr des Todes bringt.
+
+(4) In die in Absatz 1 Nummer 1 bezeichnete Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die im Ausland abgeurteilt worden ist, steht in den Fällen des Absatzes 1 Nummer 1 einer im Inland abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine solche nach § 176 Absatz 1 Nummer 1 oder Nummer 2 wäre.
+
+# § 176d – Sexueller Missbrauch von Kindern mit Todesfolge
+
+Verursacht der Täter durch den sexuellen Missbrauch (§§ 176 bis 176c) mindestens leichtfertig den Tod eines Kindes, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
 # § 177 – Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
 
@@ -7545,9 +7579,7 @@ Vorschub leistet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstraf
 
 (2) Wer eine Person unter achtzehn Jahren bestimmt, sexuelle Handlungen gegen Entgelt an oder vor einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen, oder wer solchen Handlungen durch seine Vermittlung Vorschub leistet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-(3) Wer eine Person unter achtzehn Jahren, die ihm zur Erziehung, zur Ausbildung oder zur Betreuung in der Lebensführung anvertraut oder im Rahmen eines Dienst- oder Arbeitsverhältnisses untergeordnet ist, unter Mißbrauch einer mit dem Erziehungs-, Ausbildungs-, Betreuungs-, Dienst- oder Arbeitsverhältnis verbundenen Abhängigkeit bestimmt, sexuelle Handlungen an oder vor einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
-
-(4) In den Fällen der Absätze 2 und 3 ist der Versuch strafbar.
+(3) Im Fall des Absatzes 2 ist der Versuch strafbar.
 
 # § 180a – Ausbeutung von Prostituierten
 
@@ -7577,7 +7609,7 @@ und im Hinblick darauf Beziehungen zu ihr unterhält, die über den Einzelfall h
 
 # § 181b – Führungsaufsicht
 
-In den Fällen der §§ 174 bis 174c, 176 bis 180, 181a und 182 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+In den Fällen der §§ 174 bis 174c, 176 bis 180, 181a, 182 und 184b kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 # § 182 – Sexueller Mißbrauch von Jugendlichen
 
@@ -7617,7 +7649,7 @@ und dabei die ihr gegenüber fehlende Fähigkeit des Opfers zur sexuellen Selbst
 
 1. nach einer anderen Vorschrift, die im Höchstmaß Freiheitsstrafe bis zu einem Jahr oder Geldstrafe androht, oder
 
-2. nach § 174 Absatz 3 Nummer 1 oder § 176 Abs. 4 Nr. 1
+2. nach § 174 Absatz 3 Nummer 1 oder § 176a Absatz 1 Nummer 1
 
 bestraft wird.
 
@@ -7669,7 +7701,7 @@ In den Fällen des Satzes 1 Nummer 1 ist der Versuch strafbar.
 
 # § 184b – Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
 
-(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer
+(1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer
 
 1. einen kinderpornographischen Inhalt verbreitet oder der Öffentlichkeit zugänglich macht; kinderpornographisch ist ein pornographischer Inhalt (§ 11 Absatz 3), wenn er zum Gegenstand hat:
 
@@ -7683,29 +7715,31 @@ c) die sexuell aufreizende Wiedergabe der unbekleideten Genitalien oder des unbe
 
 3. einen kinderpornographischen Inhalt, der ein tatsächliches Geschehen wiedergibt, herstellt oder
 
-4. einen kinderpornographischen Inhalt herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diesen ein- oder auszuführen, um ihn im Sinne der Nummer 1 oder 2 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen, soweit die Tat nicht nach Nummer 3 mit Strafe bedroht ist.
+4. einen kinderpornographischen Inhalt herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diesen ein- oder auszuführen, um ihn im Sinne der Nummer 1 oder der Nummer 2 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen, soweit die Tat nicht nach Nummer 3 mit Strafe bedroht ist.
 
-(2) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und gibt der Inhalt in den Fällen des Absatzes 1 Nummer 1, 2 und 4 ein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen.
+Gibt der kinderpornographische Inhalt in den Fällen von Absatz 1 Satz 1 Nummer 1 und 4 kein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen.
 
-(3) Wer es unternimmt, einen kinderpornographischen Inhalt, der ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, abzurufen oder sich den Besitz an einem solchen Inhalt zu verschaffen, oder wer einen solchen Inhalt besitzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(2) Handelt der Täter in den Fällen des Absatzes 1 Satz 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und gibt der Inhalt in den Fällen des Absatzes 1 Satz 1 Nummer 1, 2 und 4 ein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
 
-(4) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 1 Nummer 2 und 4 sowie Absatz 3.
+(3) Wer es unternimmt, einen kinderpornographischen Inhalt, der ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, abzurufen oder sich den Besitz an einem solchen Inhalt zu verschaffen oder wer einen solchen Inhalt besitzt, wird mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren bestraft.
 
-(5) Absatz 1 Nummer 2 und Absatz 3 gelten nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
+(4) Der Versuch ist in den Fällen des Absatzes 1 Satz 2 in Verbindung mit Satz 1 Nummer 1 strafbar.
 
-1. staatliche Aufgaben,
+(5) Absatz 1 Satz 1 Nummer 2 und Absatz 3 gelten nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
+
+1. staatlichen Aufgaben,
 
 2. Aufgaben, die sich aus Vereinbarungen mit einer zuständigen staatlichen Stelle ergeben, oder
 
-3. dienstliche oder berufliche Pflichten.
+3. dienstlichen oder beruflichen Pflichten.
 
-Absatz 1 Nummer 1 und 4 gilt nicht für dienstliche Handlungen im Rahmen von strafrechtlichen Ermittlungsverfahren, wenn
+(6) Absatz 1 Satz 1 Nummer 1, 2 und 4 und Satz 2 gilt nicht für dienstliche Handlungen im Rahmen von strafrechtlichen Ermittlungsverfahren, wenn
 
 1. die Handlung sich auf einen kinderpornographischen Inhalt bezieht, der kein tatsächliches Geschehen wiedergibt und auch nicht unter Verwendung einer Bildaufnahme eines Kindes oder Jugendlichen hergestellt worden ist, und
 
 2. die Aufklärung des Sachverhalts auf andere Weise aussichtslos oder wesentlich erschwert wäre.
 
-(6) Gegenstände, auf die sich eine Straftat nach Absatz 1 Nummer 2 oder 3 oder Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
+(7) Gegenstände, auf die sich eine Straftat nach Absatz 1 Satz 1 Nummer 2 oder 3 oder Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
 
 # § 184c – Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
 
@@ -7733,7 +7767,7 @@ c) die sexuell aufreizende Wiedergabe der unbekleideten Genitalien oder des unbe
 
 (5) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 1 Nummer 2 und 4 sowie Absatz 3.
 
-(6) § 184b Absatz 5 und 6 gilt entsprechend.
+(6) § 184b Absatz 5 bis 7 gilt entsprechend.
 
 # § 184d – (weggefallen)
 
@@ -7796,6 +7830,26 @@ Wer eine Straftat dadurch fördert, dass er sich an einer Personengruppe beteili
 (3) Absatz 1 gilt nicht für Handlungen, die in Wahrnehmung überwiegender berechtigter Interessen erfolgen, namentlich der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dienen.
 
 (4) Die Bildträger sowie Bildaufnahmegeräte oder andere technische Mittel, die der Täter oder Teilnehmer verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
+
+# § 184l – Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild1
+
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer
+
+1. eine körperliche Nachbildung eines Kindes oder eines Körperteiles eines Kindes, die nach ihrer Beschaffenheit zur Vornahme sexueller Handlungen bestimmt ist, herstellt, anbietet oder bewirbt oder
+
+2. mit einer in Nummer 1 beschriebenen Nachbildung Handel treibt oder sie hierzu in oder durch den räumlichen Geltungsbereich dieses Gesetzes verbringt oder
+
+3. ohne Handel zu treiben, eine in Nummer 1 beschriebene Nachbildung veräußert, abgibt oder sonst in Verkehr bringt.
+
+Satz 1 gilt nicht, wenn die Tat nach § 184b mit schwererer Strafe bedroht ist.
+
+(2) Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer eine in Absatz 1 Satz 1 Nummer 1 beschriebene Nachbildung erwirbt, besitzt oder in oder durch den räumlichen Geltungsbereich dieses Gesetzes verbringt. Absatz 1 Satz 2 gilt entsprechend.
+
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 und 3 ist der Versuch strafbar.
+
+(4) Absatz 1 Satz 1 Nummer 3 und Absatz 2 gelten nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung staatlicher Aufgaben oder dienstlicher oder beruflicher Pflichten dienen.
+
+(5) Gegenstände, auf die sich die Straftat bezieht, werden eingezogen. § 74a ist anzuwenden.
 
 # § 185 – Beleidigung
 

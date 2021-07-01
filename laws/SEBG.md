@@ -611,14 +611,6 @@ Bußgeldvorschriften
 
 Geltung nationalen Rechts
 
-§ 48
-
- 
-
- 
-
-Sonderregelung aus Anlass der COVID-19-Pandemie
-
 # § 1 – Zielsetzung des Gesetzes
 
 (1) Das Gesetz regelt die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft (SE), die Gegenstand der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (ABl. EG Nr. L 294 S. 1) ist. Ziel des Gesetzes ist, in einer SE die erworbenen Rechte der Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) auf Beteiligung an Unternehmensentscheidungen zu sichern. Maßgeblich für die Ausgestaltung der Beteiligungsrechte der Arbeitnehmer in der SE sind die bestehenden Beteiligungsrechte in den Gesellschaften, die die SE gründen.
@@ -1158,7 +1150,3 @@ Niemand darf
 2. der Regelung des Europäische Betriebsräte-Gesetzes, es sei denn, das besondere Verhandlungsgremium hat einen Beschluss nach § 16 gefasst.
 
 (2) Regelungen und Strukturen über die Arbeitnehmervertretungen einer beteiligten Gesellschaft mit Sitz im Inland, die durch die Gründung der SE als eigenständige juristische Person erlischt, bestehen nach Eintragung der SE fort. Die Leitung der SE stellt sicher, dass diese Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
-
-# § 48 – Sonderregelung aus Anlass der COVID-19-Pandemie
-
-Im Rahmen der Unterrichtung und Anhörung können die Teilnahme an Sitzungen eines SE-Betriebsrats oder einer Arbeitnehmervertretung nach § 21 Absatz 2 sowie die Beschlussfassung mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.

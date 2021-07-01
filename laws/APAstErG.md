@@ -37,13 +37,15 @@
 
 (5) Die Mitglieder des Fachbeirats erhalten Ersatz ihrer Reisekosten. Das Bundesreisekostengesetz findet entsprechende Anwendung.
 
-# § 4 – Gebühren; Verordnungsermächtigung
+# § 4 – Gebühren; Verordnungsermächtigung; Geschäftsordnung
 
 (1) Die Abschlussprüferaufsichtsstelle erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe dieses Gesetzes und der Gebührenverordnung nach Absatz 3.
 
 (2) Die §§ 3 bis 7 und 9 bis 21 des Bundesgebührengesetzes sind entsprechend anzuwenden.
 
 (3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Höhe der Gebühren und Auslagen sowie die Stelle, die die Gebühren und Auslagen einzieht, festzulegen. Die Gebühren sind regelmäßig, mindestens alle fünf Jahre, zu überprüfen und soweit erforderlich anzupassen. Bei einer Anpassung gelten für eine individuell zurechenbare öffentliche Leistung, die bereits beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, die bisherigen Vorschriften fort.
+
+(4) Das Bundesministerium für Wirtschaft und Energie erlässt eine Geschäftsordnung der Abschlussprüferaufsichtsstelle. Die Geschäftsordnung regelt insbesondere das Verfahren der Beschlusskammern sowie des Fachbeirats in der Abschlussprüferaufsichtsstelle und die Unabhängigkeit und Integrität der Beschäftigten der Abschlussprüferaufsichtsstelle. Das schließt insbesondere auch Vorkehrungen und Maßnahmen mit Bezug zu privaten Finanzgeschäften der Beschäftigten ein.
 
 # § 5 – Übergang der im Bereich der Aufsicht über die Prüfer von Unternehmen von öffentlichem Interesse tätigen Wirtschaftsprüfer
 
