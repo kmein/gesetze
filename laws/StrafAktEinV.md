@@ -65,10 +65,10 @@ Die Person, der Akteneinsicht gewährt wird, ist darüber zu belehren, dass
 
 (2) Die technischen Anforderungen können mit einer Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.
