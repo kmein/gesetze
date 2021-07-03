@@ -1,13 +1,158 @@
 % Gesetz über das Inverkehrbringen, die Rücknahme und die hochwertige Verwertung von Verpackungen  (Verpackungsgesetz - VerpackG)
 % Ausfertigungsdatum: 05.07.2017
  
+# Inhaltsübersicht
+
+ 
+
+§  1  
+Abfallwirtschaftliche Ziele
+
+§  2  
+Anwendungsbereich
+
+§  3  
+Begriffsbestimmungen
+
+§  4  
+Allgemeine Anforderungen an Verpackungen
+
+§  5  
+Beschränkungen des Inverkehrbringens
+
+§  6  
+Kennzeichnung zur Identifizierung des Verpackungsmaterials
+
+ 
+
+ 
+
+§  7  
+Systembeteiligungspflicht
+
+§  8  
+Branchenlösung
+
+§  9  
+Registrierung
+
+§ 10  
+Datenmeldung
+
+§ 11  
+Vollständigkeitserklärung
+
+§ 12  
+Ausnahmen
+
+ 
+
+ 
+
+§ 13  
+Getrennte Sammlung
+
+§ 14  
+Pflichten der Systeme zur Sammlung, Verwertung und Information
+
+§ 15  
+Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
+
+§ 16  
+Anforderungen an die Verwertung
+
+§ 17  
+Nachweispflichten
+
+ 
+
+§ 18  
+Genehmigung und Organisation
+
+§ 19  
+Gemeinsame Stelle
+
+§ 20  
+Meldepflichten
+
+§ 21  
+Ökologische Gestaltung der Beteiligungsentgelte
+
+§ 22  
+Abstimmung
+
+§ 23  
+Vergabe von Sammelleistungen
+
+ 
+
+§ 24  
+Errichtung und Rechtsform; Stiftungssatzung
+
+§ 25  
+Finanzierung
+
+§ 26  
+Aufgaben
+
+§ 27  
+Registrierung von Sachverständigen und sonstigen Prüfern
+
+§ 28  
+Organisation
+
+§ 29  
+Aufsicht und Finanzkontrolle
+
+§ 30  
+Teilweiser Ausschluss des Wiederspruchsverfahrens und der aufschiebenden Wirkung der Anfechtungsklage; Widerspruchsbehörde
+
+ 
+
+ 
+
+§ 30a  
+Mindestrezyklatanteil bei bestimmten Einwegkunststoffgetränkeflaschen
+
+§ 31  
+Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen
+
+§ 32  
+Hinweispflichten
+
+ 
+
+ 
+
+§ 33  
+Mehrwegalternative für Einwegkunststofflebensmittelverpackungen und Einweggetränkebecher
+
+§ 34  
+Erleichterungen für kleine Unternehmen und Verkaufsautomaten
+
+ 
+
+ 
+
+§ 35  
+Beauftragung Dritter und Bevollmächtigung
+
+§ 36  
+Bußgeldvorschriften
+
+§ 37  
+Einziehung
+
+§ 38  
+Übergangsvorschriften
+
 # § 1 – Abfallwirtschaftliche Ziele
 
 (1) Dieses Gesetz legt Anforderungen an die Produktverantwortung nach § 23 des Kreislaufwirtschaftsgesetzes für Verpackungen fest. Es bezweckt, die Auswirkungen von Verpackungsabfällen auf die Umwelt zu vermeiden oder zu verringern. Um dieses Ziel zu erreichen, soll das Gesetz das Verhalten der Verpflichteten so regeln, dass Verpackungsabfälle vorrangig vermieden und darüber hinaus einer Vorbereitung zur Wiederverwendung oder dem Recycling zugeführt werden. Dabei sollen die Marktteilnehmer vor unlauterem Wettbewerb geschützt werden.
 
 (2) Durch eine gemeinsame haushaltsnahe Sammlung von Verpackungsabfällen und weiteren stoffgleichen Haushaltsabfällen sollen zusätzliche Wertstoffe für ein hochwertiges Recycling gewonnen werden.
 
-(3) Der Anteil der in Mehrweggetränkeverpackungen abgefüllten Getränke soll mit dem Ziel der Abfallvermeidung gestärkt und das Recycling von Getränkeverpackungen in geschlossenen Kreisläufen gefördert werden. Zur Überprüfung der Wirksamkeit der in diesem Gesetz vorgesehenen Mehrwegförderung ermittelt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit jährlich den Anteil der in Mehrweggetränkeverpackungen abgefüllten Getränke und gibt die Ergebnisse bekannt. Ziel ist es, einen Anteil von in Mehrweggetränkeverpackungen abgefüllten Getränken in Höhe von mindestens 70 Prozent zu erreichen.
+(3) Der Anteil der in Mehrweggetränkeverpackungen abgefüllten Getränke soll mit dem Ziel der Abfallvermeidung gestärkt und das Recycling von Getränkeverpackungen in geschlossenen Kreisläufen gefördert werden. Zur Überprüfung der Wirksamkeit der in diesem Gesetz vorgesehenen Mehrwegförderung ermittelt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit jährlich den Anteil der in Mehrweggetränkeverpackungen abgefüllten Getränke und gibt die Ergebnisse bekannt. Ziel ist es, einen Anteil von in Mehrweggetränkeverpackungen abgefüllten Getränken in Höhe von mindestens 70 Prozent zu erreichen. Von den kalenderjährlich erstmals in Verkehr gebrachten Einwegkunststoffgetränkeflaschen sind ab dem 1. Januar 2025 mindestens 77 Masseprozent und ab dem 1. Januar 2029 mindestens 90 Masseprozent zum Zweck des Recyclings getrennt zu sammeln; ausgenommen davon sind Einwegkunststoffgetränkeflaschen nach § 30a Absatz 3.
 
 (4) Mit diesem Gesetz soll außerdem das Erreichen der europarechtlichen Zielvorgaben der Richtlinie 94/62/EG über Verpackungen und Verpackungsabfälle sichergestellt werden. Danach sind von den im Geltungsbereich dieses Gesetzes anfallenden Verpackungsabfällen jährlich mindestens 65 Masseprozent zu verwerten und mindestens 55 Masseprozent zu recyceln. Dabei muss das Recycling der einzelnen Verpackungsmaterialien mindestens für Holz 15, für Kunststoffe 22,5, für Metalle 50 und für Glas sowie Papier und Karton 60 Masseprozent erreichen, wobei bei Kunststoffen nur Material berücksichtigt wird, das durch Recycling wieder zu Kunststoff wird. Bis spätestens 31. Dezember 2025 sind von den im Geltungsbereich dieses Gesetzes anfallenden Verpackungsabfällen jährlich mindestens 65 Masseprozent zu recyceln, bis spätestens 31. Dezember 2030 mindestens 70 Masseprozent. Dabei muss das Recycling der einzelnen Verpackungsmaterialien bis spätestens 31. Dezember 2025 mindestens für Holz 25, für Aluminium und Kunststoffe 50, für Eisenmetalle und Glas 70 sowie für Papier und Karton 75 Masseprozent erreichen; bis spätestens 31. Dezember 2030 mindestens für Holz 30, für Kunststoffe 55, für Aluminium 60, für Glas 75, für Eisenmetalle 80 sowie für Papier und Karton 85 Masseprozent. Zum Nachweis des Erreichens der Zielvorgaben nach den Sätzen 2 bis 5 führt die Bundesregierung die notwendigen Erhebungen durch und veranlasst die Information der Öffentlichkeit und der Marktteilnehmer.
 
@@ -15,7 +160,7 @@
 
 (1) Dieses Gesetz gilt für alle Verpackungen.
 
-(2) Soweit dieses Gesetz keine abweichenden Vorschriften enthält, sind das Kreislaufwirtschaftsgesetz, mit Ausnahme von § 54, und die auf der Grundlage des Kreislaufwirtschaftsgesetzes oder des bis zum 31. Mai 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung anzuwenden. § 17 Absatz 2 und 3, § 27, § 47 Absatz 1 bis 6, § 50 Absatz 3, § 60 Absatz 1 Satz 2 Nummer 2 und die §§ 62 und 66 des Kreislaufwirtschaftsgesetzes gelten entsprechend.
+(2) Soweit dieses Gesetz keine abweichenden Vorschriften enthält, sind das Kreislaufwirtschaftsgesetz, mit Ausnahme von § 54, und die auf der Grundlage des Kreislaufwirtschaftsgesetzes oder des bis zum 31. Mai 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung anzuwenden. § 17 Absatz 2 und 3, § 19 Absatz 2, § 27, § 47 Absatz 1 bis 6, § 50 Absatz 3, § 60 Absatz 1 Satz 2 Nummer 2 und die §§ 62 und 66 des Kreislaufwirtschaftsgesetzes gelten entsprechend.
 
 (3) Soweit auf Grund anderer Rechtsvorschriften besondere Anforderungen an Verpackungen, an die Entsorgung von Verpackungsabfällen oder an die Beförderung von verpackten Waren oder von Verpackungsabfällen bestehen, bleiben diese Anforderungen unberührt.
 
@@ -39,11 +184,25 @@ b) den Versand von Waren an den Endverbraucher zu ermöglichen oder zu unterstü
 
 Die Begriffsbestimmung für Verpackungen wird durch die in der Anlage 1 genannten Kriterien ergänzt; die dort aufgeführten Gegenstände sind Beispiele für die Anwendung dieser Kriterien.
 
-(2) Getränkeverpackungen sind geschlossene oder überwiegend geschlossene Verkaufsverpackungen für flüssige Lebensmittel im Sinne von Artikel 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, die zum Verzehr als Getränk bestimmt sind.
+(2) Getränkeverpackungen sind geschlossene oder überwiegend geschlossene Verkaufsverpackungen für flüssige Lebensmittel im Sinne von Artikel 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, die zum Verzehr als Getränk bestimmt sind.
 
 (3) Mehrwegverpackungen sind Verpackungen, die dazu konzipiert und bestimmt sind, nach dem Gebrauch mehrfach zum gleichen Zweck wiederverwendet zu werden und deren tatsächliche Rückgabe und Wiederverwendung durch eine ausreichende Logistik ermöglicht sowie durch geeignete Anreizsysteme, in der Regel durch ein Pfand, gefördert wird.
 
 (4) Einwegverpackungen sind Verpackungen, die keine Mehrwegverpackungen sind.
+
+(4a) Einwegkunststoffverpackungen sind Einwegverpackungen, die ganz oder teilweise aus Kunststoff bestehen.
+
+(4b) Einwegkunststofflebensmittelverpackungen sind Einwegkunststoffverpackungen, also Behältnisse wie Boxen mit oder ohne Deckel, für Lebensmittel, die
+
+1. dazu bestimmt sind, unmittelbar verzehrt zu werden, entweder vor Ort oder als Mitnahme-Gericht,
+
+2. in der Regel aus der Verpackung heraus verzehrt werden und
+
+3. ohne weitere Zubereitung wie Kochen, Sieden oder Erhitzen verzehrt werden können;
+
+keine Einwegkunststofflebensmittelverpackungen in diesem Sinne sind Getränkeverpackungen, Getränkebecher, Teller sowie Tüten und Folienverpackungen, wie Wrappers, mit Lebensmittelinhalt.
+
+(4c) Einwegkunststoffgetränkeflaschen sind Getränkeverpackungen in Flaschenform, einschließlich ihrer Verschlüsse und Deckel, mit einem Füllvolumen von bis zu 3,0 Litern, die zugleich die Voraussetzungen einer Einwegkunststoffverpackung erfüllen.
 
 (5) Verbundverpackungen sind Verpackungen, die aus zwei oder mehr unterschiedlichen Materialarten bestehen, die nicht von Hand getrennt werden können.
 
@@ -64,6 +223,8 @@ Die Begriffsbestimmung für Verpackungen wird durch die in der Anlage 1 genannte
 (13) Letztvertreiber ist derjenige Vertreiber, der Verpackungen an den Endverbraucher abgibt.
 
 (14) Hersteller ist derjenige Vertreiber, der Verpackungen erstmals gewerbsmäßig in Verkehr bringt. Als Hersteller gilt auch derjenige, der Verpackungen gewerbsmäßig in den Geltungsbereich dieses Gesetzes einführt.
+
+(14a) Bevollmächtigter ist jede im Geltungsbereich dieses Gesetzes niedergelassene natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die ein Hersteller ohne Niederlassung im Geltungsbereich dieses Gesetzes beauftragt hat, in eigenem Namen sämtliche Aufgaben wahrzunehmen, um die Herstellerpflichten nach diesem Gesetz zu erfüllen.
 
 (15) Registrierter Sachverständiger ist, wer
 
@@ -87,9 +248,11 @@ und von der Zentralen Stelle in dem Prüferregister nach § 27 geführt wird.
 
 (20) Wertstoffhof ist eine zentrale Sammelstelle zur getrennten Erfassung von Abfällen verschiedener Materialien, die typischerweise bei privaten Endverbrauchern anfallen.
 
+(21) Kunststoff ist ein Werkstoff bestehend aus einem Polymer nach Artikel 3 Nummer 5 der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2021/57 (ABl. L 24 vom 26.1.2021, S. 19) geändert worden ist, in der jeweils geltenden Fassung, dem möglicherweise Zusatzstoffe oder andere Stoffe zugesetzt wurden und der als Hauptstrukturbestandteil von Endprodukten fungieren kann; ausgenommen sind Werkstoffe aus natürlichen Polymeren, die nicht chemisch modifiziert wurden.
+
 # § 4 – Allgemeine Anforderungen an Verpackungen
 
-Verpackungen sind so herzustellen und zu vertreiben, dass
+Verpackungen sind so zu entwickeln, herzustellen und zu vertreiben, dass
 
 1. Verpackungsvolumen und -masse auf das Mindestmaß begrenzt werden, das zur Gewährleistung der erforderlichen Sicherheit und Hygiene der zu verpackenden Ware und zu deren Akzeptanz durch den Verbraucher angemessen ist;
 
@@ -113,13 +276,15 @@ Verpackungen sind so herzustellen und zu vertreiben, dass
 
 (2) Letztvertreibern ist ab dem 1. Januar 2022 das Inverkehrbringen von Kunststofftragetaschen, mit oder ohne Tragegriff, mit einer Wandstärke von weniger als 50 Mikrometern, die dazu bestimmt sind, in der Verkaufsstelle mit Waren gefüllt zu werden, verboten. Satz 1 gilt nicht für Kunststofftragetaschen mit einer Wandstärke von weniger als 15 Mikrometern, sofern diese die übrigen Voraussetzungen nach Artikel 3 Nummer 1d der Richtlinie 94/62/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994 über Verpackungen und Verpackungsabfälle (ABl. L 365 vom 31.12.1994, S. 10), die zuletzt durch die Richtlinie (EU) 2018/852 (ABl. L 150 vom 14.6.2018, S. 141) geändert worden ist, erfüllen.
 
+(3) Beschränkungen des Inverkehrbringens von Verpackungen nach § 3 der Einwegkunststoffverbotsverordnung vom 20. Januar 2021 (BGBl. I S. 95) in der jeweils geltenden Fassung bleiben unberührt.
+
 # § 6 – Kennzeichnung zur Identifizierung des Verpackungsmaterials
 
 Verpackungen können zur Identifizierung des Materials, aus dem sie hergestellt sind, mit den in der Anlage 5 festgelegten Nummern und Abkürzungen gekennzeichnet werden. Die Verwendung von anderen als den in der Anlage 5 festgelegten Nummern und Abkürzungen zur Kennzeichnung der gleichen Materialien ist nicht zulässig.
 
 # § 7 – Systembeteiligungspflicht
 
-(1) Hersteller von systembeteiligungspflichtigen Verpackungen haben sich mit diesen Verpackungen zur Gewährleistung der flächendeckenden Rücknahme an einem oder mehreren Systemen zu beteiligen. Dabei haben sie Materialart und Masse der zu beteiligenden Verpackungen sowie die Registrierungsnummer nach § 9 Absatz 3 Satz 2 anzugeben. Die Systeme haben den Herstellern eine erfolgte Beteiligung unter Angabe von Materialart und Masse der beteiligten Verpackungen unverzüglich schriftlich oder elektronisch zu bestätigen; dies gilt auch, wenn die Beteiligung durch einen beauftragten Dritten nach § 33 vermittelt wurde. Das gewerbsmäßige Inverkehrbringen von systembeteiligungspflichtigen Verpackungen, die der Hersteller nicht an einem System beteiligt hat, ist verboten.
+(1) Hersteller von systembeteiligungspflichtigen Verpackungen haben sich mit diesen Verpackungen zur Gewährleistung der flächendeckenden Rücknahme vor dem Inverkehrbringen an einem oder mehreren Systemen zu beteiligen. Dabei haben sie Materialart und Masse der zu beteiligenden Verpackungen sowie die Registrierungsnummer nach § 9 Absatz 3 Satz 2 anzugeben. Die Systeme haben den Herstellern eine erfolgte Beteiligung unter Angabe von Materialart und Masse der beteiligten Verpackungen unverzüglich schriftlich oder elektronisch zu bestätigen; dies gilt auch, wenn die Beteiligung durch einen beauftragten Dritten nach § 33 vermittelt wurde.
 
 (2) Abweichend von Absatz 1 Satz 1 kann ein Hersteller von systembeteiligungspflichtigen Serviceverpackungen von den Vorvertreibern dieser Serviceverpackungen verlangen, dass sie sich hinsichtlich der von ihnen gelieferten unbefüllten Serviceverpackungen an einem oder mehreren Systemen beteiligen. Der ursprünglich nach Absatz 1 Satz 1 verpflichtete Hersteller kann von demjenigen Vorvertreiber, auf den die Systembeteiligungspflicht übergeht, eine Bestätigung über die erfolgte Systembeteiligung verlangen. Mit der Übertragung der Systembeteiligungspflicht gehen auch die Herstellerpflichten nach den §§ 9 bis 11 insoweit auf den verpflichteten Vorvertreiber über.
 
@@ -155,9 +320,11 @@ Ein Zusammenwirken mehrerer Hersteller aus einer Branche, die gleichartige Waren
 
 Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die nach Satz 2 beizufügenden Unterlagen auf die geänderten Umstände beziehen.
 
-(3) Der Hersteller oder im Fall des Zusammenwirkens nach Absatz 1 Satz 3 der Träger der Branchenlösung hat die Rücknahme und Verwertung entsprechend den Vorgaben des § 17 Absatz 1 und 2 in nachprüfbarer Form zu dokumentieren und durch einen registrierten Sachverständigen prüfen und bestätigen zu lassen. In dem Mengenstromnachweis sind zusätzlich die Anfallstellen nach Absatz 1 Satz 1 adressgenau zu bezeichnen; außerdem sind dem Mengenstromnachweis schriftliche Nachweise aller Anfallstellen nach Absatz 1 Satz 1 über die bei ihnen angelieferten Mengen an systembeteiligungspflichtigen Verpackungen des jeweiligen Herstellers beizufügen. Der Mengenstromnachweis ist spätestens bis zum 1. Juni des auf den Berichtszeitraum folgenden Kalenderjahres schriftlich der Zentralen Stelle vorzulegen.
+(3) Der Hersteller oder im Fall des Zusammenwirkens nach Absatz 1 Satz 3 der Träger der Branchenlösung hat die Rücknahme und Verwertung entsprechend den Vorgaben des § 17 Absatz 1 und 2 in nachprüfbarer Form zu dokumentieren und durch einen registrierten Sachverständigen prüfen und bestätigen zu lassen. In dem Mengenstromnachweis sind zusätzlich die Anfallstellen nach Absatz 1 Satz 1 adressgenau zu bezeichnen; außerdem sind dem Mengenstromnachweis schriftliche Nachweise aller Anfallstellen nach Absatz 1 Satz 1 über die bei ihnen angelieferten Mengen an systembeteiligungspflichtigen Verpackungen des jeweiligen Herstellers beizufügen. Der Mengenstromnachweis ist spätestens bis zum 1. Juni des auf den Berichtszeitraum folgenden Kalenderjahres schriftlich bei der Zentralen Stelle zu hinterlegen.
 
-(4) Die Zentrale Stelle kann von dem Hersteller oder im Fall des Zusammenwirkens nach Absatz 1 Satz 3 von dem Träger der Branchenlösung die Leistung einer Sicherheit entsprechend § 18 Absatz 4 verlangen.
+(4) Die Pflichten nach § 15 Absatz 4 gelten für die eine Branchenlösung betreibenden Hersteller entsprechend.
+
+(5) Die Zentrale Stelle kann von dem Hersteller oder im Fall des Zusammenwirkens nach Absatz 1 Satz 3 von dem Träger der Branchenlösung die Leistung einer Sicherheit entsprechend § 18 Absatz 4 verlangen.
 
 (+++ § 8: Zur Nichtanwendung vgl. § 12 +++)
 
@@ -167,21 +334,27 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 (2) Bei der Registrierung nach Absatz 1 Satz 1 sind die folgenden Angaben zu machen:
 
-1. Name, Anschrift und Kontaktdaten des Herstellers (insbesondere Postleitzahl und Ort, Straße und Hausnummer, Land, Telefon- und Faxnummer sowie E-Mail-Adresse);
+1. Name, Anschrift und Kontaktdaten des Herstellers (insbesondere Postleitzahl und Ort, Straße und Hausnummer, Land, Telefonnummer sowie die europäische oder nationale Steuernummer);
 
-2. Angabe einer vertretungsberechtigten natürlichen Person;
+2. im Falle einer Bevollmächtigung nach § 35 Absatz 2:
 
-3. nationale Kennnummer des Herstellers, einschließlich der europäischen oder nationalen Steuernummer des Herstellers;
+a) Name, Anschrift und Kontaktdaten des Bevollmächtigten entsprechend Nummer 1 sowie
 
-4. Markennamen, unter denen der Hersteller seine systembeteiligungspflichtigen Verpackungen in Verkehr bringt;
+b) die schriftliche Beauftragung durch den Hersteller;
 
-5. Erklärung, dass der Hersteller seine Rücknahmepflichten durch Beteiligung an einem oder mehreren Systemen oder durch eine oder mehrere Branchenlösungen erfüllt;
+3. Angabe einer vertretungsberechtigten natürlichen Person;
 
-6. Erklärung, dass die Angaben der Wahrheit entsprechen.
+4. nationale Kennnummer und E-Mail-Adresse des Herstellers; im Falle einer Bevollmächtigung die gleichen Angaben zum Bevollmächtigten;
+
+5. Markennamen, unter denen der Hersteller seine systembeteiligungspflichtigen Verpackungen in Verkehr bringt;
+
+6. Erklärung, dass der Hersteller seine Rücknahmepflichten durch Beteiligung an einem oder mehreren Systemen oder durch eine oder mehrere Branchenlösungen erfüllt;
+
+7. Erklärung, dass die Angaben der Wahrheit entsprechen.
 
 (3) Die erstmalige Registrierung sowie Änderungsmitteilungen haben über das auf der Internetseite der Zentralen Stelle zur Verfügung gestellte elektronische Datenverarbeitungssystem zu erfolgen. Die Zentrale Stelle bestätigt die Registrierung und teilt dem Hersteller seine Registrierungsnummer mit. Sie kann nähere Anweisungen zum elektronischen Registrierungsverfahren erteilen sowie für die sonstige Kommunikation mit den Herstellern die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente vorschreiben.
 
-(4) Die Zentrale Stelle veröffentlicht die registrierten Hersteller mit den in Absatz 2 Nummer 1 und 4 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum im Internet. Bei Herstellern, deren Registrierung beendet ist, ist zusätzlich das Datum des Marktaustritts anzugeben. Die im Internet veröffentlichten Daten sind dort drei Jahre nach Ablauf des Jahres, in dem die Registrierung des Herstellers endet, zu löschen.
+(4) Die Zentrale Stelle veröffentlicht die registrierten Hersteller mit den in Absatz 2 Nummer 1, 2 Buchstabe a und Nummer 5 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum im Internet. Bei Herstellern, deren Registrierung beendet ist, ist zusätzlich das Datum des Marktaustritts anzugeben. Die im Internet veröffentlichten Daten sind dort drei Jahre nach Ablauf des Jahres, in dem die Registrierung des Herstellers endet, zu löschen.
 
 (5) Hersteller dürfen systembeteiligungspflichtige Verpackungen nicht in Verkehr bringen, wenn sie nicht oder nicht ordnungsgemäß nach Absatz 1 registriert sind. Vertreiber dürfen systembeteiligungspflichtige Verpackungen nicht zum Verkauf anbieten, wenn die Hersteller dieser Verpackungen entgegen Absatz 1 nicht oder nicht ordnungsgemäß registriert sind.
 
@@ -199,7 +372,7 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 4. Zeitraum, für den die Systembeteiligung vorgenommen wurde.
 
-Änderungen der Angaben sowie eventuelle Rücknahmen gemäß § 7 Absatz 3 Satz 1 sind der Zentralen Stelle entsprechend zu melden.
+Änderungen der Angaben sowie eventuelle Rücknahmen gemäß § 7 Absatz 3 Satz 1 sind der Zentralen Stelle entsprechend zu melden. Die Angaben nach Satz 1 Nummer 2 sind nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen. Verbundverpackungen, die gemäß § 16 Absatz 3 Satz 4 verwertet werden, sind der entsprechenden Hauptmaterialart zuzuordnen.
 
 (2) Die Zentrale Stelle kann für die Datenmeldung nach Absatz 1 einheitliche elektronische Formulare zur Verfügung stellen und nähere Verfahrensanweisungen erteilen.
 
@@ -227,9 +400,9 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 7. zur Erfüllung der Verwertungsanforderungen hinsichtlich der im vorangegangenen Kalenderjahr gemäß § 7 Absatz 3 zurückgenommenen Verpackungen.
 
-Die Angaben nach Satz 1 sind nach den in § 16 Absatz 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen.
+Die Angaben nach Satz 1 sind nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen. Verbundverpackungen, die gemäß § 16 Absatz 3 Satz 4 verwertet wurden, sind der entsprechenden Hauptmaterialart zuzuordnen.
 
-(3) Die Vollständigkeitserklärung ist zusammen mit den zugehörigen Prüfberichten elektronisch bei der Zentralen Stelle zu hinterlegen. Die Bestätigung nach Absatz 1 Satz 2 ist mit einer qualifizierten elektronischen Signatur gemäß § 2 des Signaturgesetzes zu versehen. Die Zentrale Stelle kann nähere Anweisungen zum elektronischen Hinterlegungsverfahren erteilen sowie für die sonstige Kommunikation mit den Hinterlegungspflichtigen die Verwendung bestimmter elektronischer Formulare und Eingabemasken, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente vorschreiben. Die Zentrale Stelle kann zusätzlich die Hinterlegung der Systembeteiligungsbestätigungen nach § 7 Absatz 1 Satz 3 und der Dokumente nach § 7 Absatz 3 Satz 2 verlangen. Bei Vorliegen von Anhaltspunkten für eine Unrichtigkeit oder Unvollständigkeit der hinterlegten Vollständigkeitserklärung kann sie vom Hersteller die Hinterlegung weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen.
+(3) Die Vollständigkeitserklärung ist zusammen mit den zugehörigen Prüfberichten elektronisch bei der Zentralen Stelle zu hinterlegen. Die Bestätigung nach Absatz 1 Satz 2 ist mit einer qualifizierten elektronischen Signatur zu versehen. Die Zentrale Stelle kann nähere Anweisungen zum elektronischen Hinterlegungsverfahren erteilen sowie für die sonstige Kommunikation mit den Hinterlegungspflichtigen die Verwendung bestimmter elektronischer Formulare und Eingabemasken, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente vorschreiben. Die Zentrale Stelle kann zusätzlich die Hinterlegung der Systembeteiligungsbestätigungen nach § 7 Absatz 1 Satz 3 und der Dokumente nach § 7 Absatz 3 Satz 2 verlangen. Bei Vorliegen von Anhaltspunkten für eine Unrichtigkeit oder Unvollständigkeit der hinterlegten Vollständigkeitserklärung kann sie vom Hersteller die Hinterlegung weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen.
 
 (4) Von der Pflicht nach Absatz 1 Satz 1 ist befreit, wer systembeteiligungspflichtige Verpackungen der Materialarten Glas von weniger als 80 000 Kilogramm, Papier, Pappe und Karton von weniger als 50 000 Kilogramm sowie der übrigen in § 16 Absatz 2 genannten Materialarten von weniger als 30 000 Kilogramm im vorangegangenen Kalenderjahr erstmals in Verkehr gebracht hat. Die Zentrale Stelle oder die zuständige Landesbehörde kann auch bei Unterschreiten der Schwellenwerte nach Satz 1 jederzeit verlangen, dass eine Vollständigkeitserklärung gemäß den Vorgaben der Absätze 1 bis 3 zu hinterlegen ist.
 
@@ -257,7 +430,13 @@ Beim privaten Endverbraucher als Abfall anfallende restentleerte Verpackungen si
 
 (2) Die von den Systemen erfassten Abfälle sind einer Verwertung gemäß den Anforderungen des § 16 Absatz 1 Satz 1, Absatz 2 und Absatz 4 Satz 1 zuzuführen.
 
-(3) Unbeschadet der Regelung in § 22 Absatz 9 sind die Systeme verpflichtet, die privaten Endverbraucher in angemessenem Umfang über Sinn und Zweck der getrennten Sammlung von Verpackungsabfällen, die hierzu eingerichteten Sammelsysteme und die erzielten Verwertungsergebnisse zu informieren. Die Information hat in regelmäßigen Zeitabständen zu erfolgen und soll sowohl lokale als auch überregionale Maßnahmen beinhalten. Bei der Vorbereitung der Informationsmaßnahmen sind die Einrichtungen der kommunalen Abfallberatung und Verbraucherschutzorganisationen zu beteiligen.
+(3) Unbeschadet der Regelung in § 22 Absatz 9 sind die Systeme verpflichtet, die privaten Endverbraucher in angemessenem Umfang über Sinn und Zweck der getrennten Sammlung von Verpackungsabfällen, die hierzu eingerichteten Sammelsysteme und die erzielten Verwertungsergebnisse zu informieren. Im Hinblick auf Einwegkunststoffverpackungen müssen die Systeme darüber hinaus über Folgendes informieren:
+
+1. über die Auswirkungen einer Vermüllung auf die Umwelt, insbesondere auf die Meeresumwelt, sowie
+
+2. über Maßnahmen zur Vermeidung dieser Vermüllung, insbesondere über die Verfügbarkeit von Mehrwegverpackungen als Alternative zu den in Teil G des Anhangs der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1) genannten Einwegkunststoffverpackungen.
+
+Die Information hat in regelmäßigen Zeitabständen zu erfolgen und soll sowohl lokale als auch überregionale Maßnahmen beinhalten. Bei der Vorbereitung der Informationsmaßnahmen sind die Einrichtungen der kommunalen Abfallberatung und Verbraucherschutzorganisationen zu beteiligen.
 
 # § 15 – Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
 
@@ -267,17 +446,21 @@ Beim privaten Endverbraucher als Abfall anfallende restentleerte Verpackungen si
 
 2. Verkaufs- und Umverpackungen, die nach Gebrauch typischerweise nicht bei privaten Endverbrauchern als Abfall anfallen,
 
-3. Verkaufs- und Umverpackungen, für die wegen Systemunverträglichkeit nach § 7 Absatz 5 eine Systembeteiligung nicht möglich ist, und
+3. Verkaufs- und Umverpackungen, für die wegen Systemunverträglichkeit nach § 7 Absatz 5 eine Systembeteiligung nicht möglich ist,
 
-4. Verkaufsverpackungen schadstoffhaltiger Füllgüter
+4. Verkaufsverpackungen schadstoffhaltiger Füllgüter oder
 
-sind verpflichtet, gebrauchte, restentleerte Verpackungen der gleichen Art, Form und Größe wie die von ihnen in Verkehr gebrachten am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe unentgeltlich zurückzunehmen. Für Letztvertreiber beschränkt sich die Rücknahmepflicht nach Satz 1 auf Verpackungen, die von solchen Waren stammen, die der Vertreiber in seinem Sortiment führt. Im Rahmen wiederkehrender Belieferungen kann die Rücknahme auch bei einer der nächsten Anlieferungen erfolgen. Hersteller und in der Lieferkette nachfolgende Vertreiber können untereinander sowie mit den Endverbrauchern, sofern es sich bei diesen nicht um private Haushaltungen handelt, abweichende Vereinbarungen über den Ort der Rückgabe und die Kostenregelung treffen.
+5. Mehrwegverpackungen
+
+sind verpflichtet, gebrauchte, restentleerte Verpackungen der gleichen Art, Form und Größe wie die von ihnen in Verkehr gebrachten am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe unentgeltlich zurückzunehmen. Für Letztvertreiber beschränkt sich die Rücknahmepflicht nach Satz 1 auf Verpackungen, die von solchen Waren stammen, die der Vertreiber in seinem Sortiment führt. Im Rahmen wiederkehrender Belieferungen kann die Rücknahme auch bei einer der nächsten Anlieferungen erfolgen. Hersteller und in der Lieferkette nachfolgende Vertreiber können untereinander sowie mit den Endverbrauchern, sofern es sich bei diesen nicht um private Haushaltungen handelt, abweichende Vereinbarungen über den Ort der Rückgabe und die Kostenregelung treffen. Letztvertreiber von Verpackungen nach Satz 1 müssen die Endverbraucher durch geeignete Maßnahmen in angemessenem Umfang über die Rückgabemöglichkeit und deren Sinn und Zweck informieren.
 
 (2) Ist einem Hersteller oder in der Lieferkette nachfolgenden Vertreiber von Verpackungen nach Absatz 1 Satz 1 Nummer 3 und 4 eine umwelt- und gesundheitsverträgliche Rücknahme am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe nicht möglich, kann die Rücknahme auch in einer zentralen Annahmestelle erfolgen, wenn diese in einer für den Rückgabeberechtigten zumutbaren Entfernung zum Ort der tatsächlichen Übergabe liegt und zu den geschäftsüblichen Öffnungszeiten des Vertreibers zugänglich ist. Letztvertreiber von Verpackungen nach Absatz 1 Satz 1 Nummer 3 und 4 müssen die Endverbraucher durch deutlich erkennbare und lesbare Schrifttafeln in der Verkaufsstelle und im Versandhandel durch andere geeignete Maßnahmen auf die Rückgabemöglichkeit hinweisen.
 
-(3) Hersteller und in der Lieferkette nachfolgende Vertreiber, die Verpackungen nach Absatz 1 Satz 1 zurücknehmen, sind verpflichtet, diese einer Wiederverwendung oder einer Verwertung gemäß den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen nach Satz 1 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Sofern es sich bei den zurückgenommenen Verpackungen um solche nach Absatz 1 Satz 1 Nummer 3 und 4 handelt, ist über die Erfüllung der Rücknahme- und Verwertungsanforderungen Nachweis zu führen. Hierzu sind jährlich bis zum 15. Mai die im vorangegangenen Kalenderjahr in Verkehr gebrachten sowie zurückgenommenen und verwerteten Verpackungen in nachprüfbarer Form zu dokumentieren. Die Dokumentation ist aufgeschlüsselt nach Materialart und Masse zu erstellen. Sie ist der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
+(3) Hersteller und in der Lieferkette nachfolgende Vertreiber, die Verpackungen nach Absatz 1 Satz 1 zurücknehmen, sind verpflichtet, diese einer Wiederverwendung oder einer Verwertung gemäß den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen nach Satz 1 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Sofern es sich bei den zurückgenommenen Verpackungen um solche nach Absatz 1 Satz 1 Nummer 3 und 4 handelt, ist über die Erfüllung der Rücknahme- und Verwertungsanforderungen Nachweis zu führen. Hierzu sind jährlich bis zum 15. Mai die im vorangegangenen Kalenderjahr in Verkehr gebrachten sowie zurückgenommenen und verwerteten Verpackungen in nachprüfbarer Form zu dokumentieren. Die Dokumentation ist aufgeschlüsselt nach Materialart und Masse zu erstellen. Die Dokumentation ist der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
 
-(4) Falls kein System eingerichtet ist, gelten die Rücknahmepflicht nach Absatz 1 Satz 1 und die Hinweispflicht nach Absatz 2 Satz 2 in Bezug auf systembeteiligungspflichtige Verpackungen entsprechend. Für Letztvertreiber mit einer Verkaufsfläche von weniger als 200 Quadratmetern beschränkt sich die Rücknahmepflicht nach Satz 1 auf Verpackungen der Marken, die der Vertreiber in seinem Sortiment führt; im Versandhandel gelten als Verkaufsfläche alle Lager- und Versandflächen. Die nach den Sätzen 1 und 2 zurückgenommenen Verpackungen sind einer Wiederverwendung oder einer Verwertung entsprechend den Anforderungen des § 16 Absatz 1 bis 3 zuzuführen. Die Anforderungen nach Satz 3 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Über die Erfüllung der Rücknahme- und Verwertungsanforderungen ist ein Nachweis entsprechend den Vorgaben in Absatz 3 Satz 4 bis 5 zu führen und der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
+(4) Hersteller und in der Lieferkette nachfolgende Vertreiber von Verpackungen nach Absatz 1 Satz 1 sind verpflichtet, die finanziellen und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach dieser Vorschrift nachzukommen. Sie haben zur Bewertung ihrer Finanzverwaltung geeignete Mechanismen zur Selbstkontrolle einzurichten.
+
+(5) Falls kein System eingerichtet ist, gelten die Rücknahmepflicht nach Absatz 1 Satz 1, die Hinweispflicht nach Absatz 2 Satz 2 sowie die Pflichten nach Absatz 4 in Bezug auf systembeteiligungspflichtige Verpackungen entsprechend. Für Letztvertreiber mit einer Verkaufsfläche von weniger als 200 Quadratmetern beschränkt sich die Rücknahmepflicht nach Satz 1 auf Verpackungen der Marken, die der Vertreiber in seinem Sortiment führt; im Versandhandel gelten als Verkaufsfläche alle Lager- und Versandflächen. Die nach den Sätzen 1 und 2 zurückgenommenen Verpackungen sind einer Wiederverwendung oder einer Verwertung entsprechend den Anforderungen des § 16 Absatz 1 bis 3 zuzuführen. Die Anforderungen nach Satz 3 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Über die Erfüllung der Rücknahme- und Verwertungsanforderungen ist ein Nachweis entsprechend den Vorgaben in Absatz 3 Satz 4 bis 6 zu führen und der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
 
 (+++ § 15 Abs. 1 Satz 4: Zur Anwendung vgl. § 31 Abs. 3 +++)
 
@@ -301,25 +484,25 @@ sind verpflichtet, gebrauchte, restentleerte Verpackungen der gleichen Art, Form
 
 Kunststoffe sind zu mindestens 90 Masseprozent einer Verwertung zuzuführen. Dabei sind mindestens 65 Prozent und ab dem 1. Januar 2022 70 Prozent dieser Verwertungsquote durch werkstoffliche Verwertung sicherzustellen.
 
-(3) Bei Verbundverpackungen nach Absatz 2 Satz 1 Nummer 5 und 6 ist insbesondere das Recycling der Hauptmaterialkomponente sicherzustellen, soweit nicht das Recycling einer anderen Materialkomponente den Zielen der Kreislaufwirtschaft besser entspricht. Soweit Verbundverpackungen einem eigenen Verwertungsweg zugeführt werden, ist ein eigenständiger Nachweis der Quoten nach Absatz 2 Satz 1 Nummer 5 und 6 zulässig. Für Verbundverpackungen, die im Strom einer der in Absatz 2 Satz 1 und 2 genannten Hauptmaterialarten erfasst und einer Verwertung zugeführt werden, sind die Quoten nach Absatz 2 Satz 1 Nummer 5 und 6 durch geeignete Stichprobenerhebungen nachzuweisen. Wenn die Hauptmaterialkomponente einen Masseanteil von 95 Prozent an der Verbundverpackung überschreitet, kann die nach Satz 3 einer Verwertung zugeführte Verbundverpackung vollständig auf die Quote der Hauptmaterialart angerechnet werden.
+(3) Bei Verbundverpackungen nach Absatz 2 Satz 1 Nummer 5 und 6 ist insbesondere das Recycling der Hauptmaterialkomponente sicherzustellen, soweit nicht das Recycling einer anderen Materialkomponente den Zielen der Kreislaufwirtschaft besser entspricht. Soweit Verbundverpackungen einem eigenen Verwertungsweg zugeführt werden, ist ein eigenständiger Nachweis der Quoten nach Absatz 2 Satz 1 Nummer 5 und 6 zulässig. Für Verbundverpackungen, die im Strom einer der in Absatz 2 Satz 1 und 2 genannten Hauptmaterialarten erfasst und einer Verwertung zugeführt werden, sind die Quoten nach Absatz 2 Satz 1 Nummer 5 und 6 durch geeignete Stichprobenerhebungen nachzuweisen. Wenn die Hauptmaterialkomponente einen Masseanteil von 95 Prozent an der Verbundverpackung überschreitet, ist die nach Satz 3 einer Verwertung zugeführte Verbundverpackung vollständig auf die Quote der Hauptmaterialart anzurechnen.
 
 (4) Die Systeme sind verpflichtet, im Jahresmittel mindestens 50 Masseprozent der im Rahmen der Sammlung der restentleerten Kunststoff-, Metall- und Verbundverpackungen nach § 14 Absatz 1 insgesamt erfassten Abfälle dem Recycling zuzuführen. Im Falle einer einheitlichen Wertstoffsammlung im Sinne des § 22 Absatz 5 bezieht sich die Recyclingquote auf den Anteil des Sammelgemisches, der entsprechend dem Verhältnis der Kunststoff-, Metall- und Verbundverpackungen zu den stoffgleichen Nichtverpackungen in der einheitlichen Wertstoffsammlung den Systemen zur Verwertung zuzuordnen ist.
 
 (5) Die gemäß § 15 Absatz 1 Satz 1 zurückgenommenen Verpackungen sind nach Maßgabe des § 8 Absatz 1 des Kreislaufwirtschaftsgesetzes vorrangig einer Vorbereitung zur Wiederverwendung oder dem Recycling zuzuführen.
 
-(6) Verpackungsabfälle, die im Einklang mit der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1), der Verordnung (EG) Nr. 1420/1999 des Rates vom 29. April 1999 zur Festlegung gemeinsamer Regeln und Verfahren für die Verbringung bestimmter Arten von Abfällen in bestimmte nicht der OECD angehörende Länder (ABl. L 166 vom 1.7.1999, S. 6) und der Verordnung (EG) Nr. 1547/1999 der Kommission vom 12. Juli 1999 zur Festlegung der bei der Verbringung bestimmter Arten von Abfällen in bestimmte Länder, für die der OECD-Beschluss C(92)39 endg. nicht gilt, anzuwendenden Kontrollverfahren gemäß der Verordnung (EWG) Nr. 259/93 des Rates (ABl. L 185 vom 17.7.1999, S. 1) aus der Europäischen Union ausgeführt werden, dürfen für die Erfüllung der Anforderungen nach den Absätzen 1 bis 5 und der Zielvorgaben nach § 1 Absatz 4 Satz 2 und 3 nur berücksichtigt werden, wenn nachprüfbare Beweise vorliegen, dass die Verwertung unter Bedingungen erfolgt ist, die im Wesentlichen denen entsprechen, die in den einschlägigen europäischen Vorschriften vorgesehen sind.
+(6) Verpackungsabfälle, die im Einklang mit der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1), die zuletzt durch die Verordnung (EU) 2020/2174 (ABl. L 433 vom 22.12.2020, S. 11) geändert worden ist, in der jeweils geltenden Fassung und mit der Verordnung (EG) Nr. 1418/2007 der Kommission vom 29. November 2007 über die Ausfuhr von bestimmten in Anhang III oder IIIA der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates aufgeführten Abfällen, die zur Verwertung bestimmt sind, in bestimmte Staaten, für die der OECD-Beschluss über die Kontrolle der grenzüberschreitenden Verbringung von Abfällen nicht gilt (ABl. L 316 vom 4.12.2007, S. 6), die zuletzt durch die Verordnung (EU) Nr. 733/2014 (ABl. L 197 vom 4.7.2014, S. 10) geändert worden ist, in der jeweils geltenden Fassung aus der Europäischen Union ausgeführt werden, dürfen für die Erfüllung der Anforderungen nach den Absätzen 1 bis 5 und der Zielvorgaben nach § 1 Absatz 4 Satz 2 und 3 nur berücksichtigt werden, wenn nachprüfbare Beweise vorliegen, dass die Verwertung unter Bedingungen erfolgt ist, die im Wesentlichen denen entsprechen, die in den einschlägigen europäischen Vorschriften vorgesehen sind.
 
 (7) Die Bundesregierung überprüft innerhalb von drei Jahren nach dem 1. Januar 2022 die Verwertungsergebnisse mit dem Ziel einer weiteren Erhöhung der materialspezifischen Verwertungsquoten in Absatz 2 Satz 1 und 2 und der Recyclingquote in Absatz 4 Satz 1.
 
 # § 17 – Nachweispflichten
 
-(1) Die Systeme haben die Verwertung der durch die Sammlung nach § 14 Absatz 1 Satz 1 erfassten restentleerten Verpackungen kalenderjährlich in nachprüfbarer Form zu dokumentieren (Mengenstromnachweis). Grundlage des Mengenstromnachweises sind die an einem System beteiligten Mengen an Verpackungen sowie vollständig dokumentierte Angaben über die erfassten und über die der Vorbereitung zur Wiederverwendung, dem Recycling, der werkstofflichen oder der energetischen Verwertung zugeführten Mengen. Die dem Mengenstromnachweis zugrunde liegenden Entsorgungsnachweise müssen mindestens den Auftraggeber, das beauftragte Entsorgungsunternehmen sowie die Masse der entsorgten Abfälle unter Angabe des Abfallschlüssels und der Abfallbezeichnung nach der Anlage zur Abfallverzeichnis-Verordnung enthalten. Der Mengenstromnachweis ist nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen. Dabei ist außerdem darzustellen, welche Mengen in den einzelnen Ländern erfasst wurden.
+(1) Die Systeme haben die Verwertung der durch die Sammlung nach § 14 Absatz 1 Satz 1 erfassten restentleerten Verpackungen kalenderjährlich in nachprüfbarer Form zu dokumentieren (Mengenstromnachweis). Grundlage des Mengenstromnachweises sind die an einem System beteiligten Mengen an Verpackungen sowie vollständig dokumentierte Angaben über die erfassten und über die der Vorbereitung zur Wiederverwendung, dem Recycling, der werkstofflichen oder der energetischen Verwertung zugeführten Mengen. Die dem Mengenstromnachweis zugrunde liegenden Entsorgungsnachweise müssen mindestens den Auftraggeber, das beauftragte Entsorgungsunternehmen sowie die Masse der entsorgten Abfälle unter Angabe des Abfallschlüssels und der Abfallbezeichnung nach der Anlage zur Abfallverzeichnis-Verordnung enthalten. Der Mengenstromnachweis ist nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen. Verbundverpackungen, die gemäß § 16 Absatz 3 Satz 4 verwertet wurden, sind der entsprechenden Hauptmaterialart zuzuordnen. Im Mengenstromnachweis ist außerdem darzustellen, welche Mengen in den einzelnen Ländern erfasst wurden. Zur Bewertung der Richtigkeit und Vollständigkeit des Mengenstromnachweises haben die Systeme geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
 (2) Der Mengenstromnachweis ist durch einen registrierten Sachverständigen zu prüfen und zu bestätigen. Die Prüfung des Mengenstromnachweises umfasst insbesondere auch die Überprüfung der den Angaben nach Absatz 1 Satz 2 zugrunde liegenden Dokumente.
 
-(3) Die Systeme haben den Mengenstromnachweis der Zentralen Stelle spätestens bis zum 1. Juni des auf den Berichtszeitraum folgenden Kalenderjahres schriftlich vorzulegen. Die zugehörigen Dokumente sind auf Verlangen der Zentralen Stelle im Original nachzureichen.
+(3) Die Systeme haben den Mengenstromnachweis spätestens bis zum 1. Juni des auf den Berichtszeitraum folgenden Kalenderjahres elektronisch bei der Zentralen Stelle zu hinterlegen. Die Bestätigung nach Absatz 2 Satz 1 ist mit einer qualifizierten elektronischen Signatur zu versehen. Die Zentrale Stelle kann für die Hinterlegung die Verwendung bestimmter elektronischer Formulare und Eingabemasken sowie eine bestimmte Verschlüsselung vorschreiben. Die zugehörigen Dokumente sind auf Verlangen der Zentralen Stelle im Original nachzureichen.
 
-# § 18 – Genehmigung
+# § 18 – Genehmigung und Organisation
 
 (1) Der Betrieb eines Systems bedarf der Genehmigung durch die zuständige Landesbehörde. Die Genehmigung wird auf Antrag erteilt, wenn ein System
 
@@ -327,17 +510,35 @@ Kunststoffe sind zu mindestens 90 Masseprozent einer Verwertung zuzuführen. Dab
 
 2. mit allen öffentlich-rechtlichen Entsorgungsträgern in dem betreffenden Land Abstimmungsvereinbarungen nach § 22 Absatz 1 abgeschlossen hat oder sich bestehenden Abstimmungsvereinbarungen unterworfen hat,
 
-3. über die notwendigen Sortier- und Verwertungskapazitäten verfügt und
+3. über die notwendigen Sortier- und Verwertungskapazitäten verfügt,
 
-4. mit der Zentralen Stelle eine Finanzierungsvereinbarung nach § 25 Absatz 1 Satz 2 abgeschlossen hat.
+4. finanziell leistungsfähig ist und
+
+5. mit der Zentralen Stelle eine Finanzierungsvereinbarung nach § 25 Absatz 1 Satz 2 abgeschlossen hat.
 
 Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentlichen Bekanntgabe an wirksam.
+
+(1a) Die Anforderungen an die finanzielle Leistungsfähigkeit nach Absatz 1 Satz 2 Nummer 4 sind erfüllt, wenn das System nachweist, dass es alle bestehenden und voraussichtlichen Verpflichtungen unter realistischen Annahmen über einen Zeitraum von zwölf Monaten erfüllen kann. Die finanzielle Leistungsfähigkeit eines Systems ist nicht gegeben, wenn ein Insolvenzverfahren über dieses System eröffnet worden ist oder in erheblichem Umfang oder wiederholt Rückstände an Steuern oder Sozialversicherungsbeiträgen bestehen, die aus der Unternehmenstätigkeit resultieren. Die Behörde nach Absatz 1 Satz 1 prüft die finanzielle Leistungsfähigkeit insbesondere anhand des handelsrechtlichen Jahresabschlusses oder, falls ein System keinen handelsrechtlichen Jahresabschluss vorlegen kann, anhand einer Vermögensübersicht sowie in beiden Fällen zusätzlich anhand eines handelsrechtlichen Prüfungsberichts. Jedes System hat dabei mindestens die folgenden Angaben zu machen:
+
+1. verfügbare Finanzmittel einschließlich Bankguthaben sowie zugesagte Überziehungskredite und Darlehen,
+
+2. als Sicherheit verfügbare Mittel und Vermögensgegenstände,
+
+3. Betriebskapital,
+
+4. Belastungen des Betriebsvermögens,
+
+5. Steuern und Sozialversicherungsbeiträge.
+
+Die Behörde nach Absatz 1 Satz 1 kann von dem System die Übermittlung weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen, insbesondere die Vorlage geeigneter Unterlagen einer Bank, einer öffentlichen Sparkasse, eines Wirtschaftsprüfers oder eines vereidigten Buchprüfers. Die Behörde nach Absatz 1 Satz 1 übermittelt der Zentralen Stelle die Unterlagen zum Nachweis der finanziellen Leistungsfähigkeit des Systems und kann dabei von der Zentralen Stelle eine Einschätzung zur finanziellen Leistungsfähigkeit des Systems anfordern.
 
 (2) Die Genehmigung kann auch nachträglich mit Nebenbestimmungen versehen werden, die erforderlich sind, um die beim Erlass der Genehmigung vorliegenden Voraussetzungen auch während des Systembetriebs dauerhaft sicherzustellen.
 
 (3) Die Behörde nach Absatz 1 Satz 1 kann die Genehmigung ganz oder teilweise widerrufen, wenn sie feststellt, dass ein System seinen Pflichten nach § 14 Absatz 1 und 2 nicht nachkommt oder dass eine der in Absatz 1 Satz 2 genannten Voraussetzungen nicht mehr vorliegt. Die Genehmigung ist zu widerrufen, wenn die Behörde feststellt, dass der Betrieb des Systems eingestellt wurde. Der Widerruf ist öffentlich bekannt zu geben.
 
-(4) Die Behörde nach Absatz 1 Satz 1 kann jederzeit verlangen, dass ein System eine angemessene, insolvenzfeste Sicherheit für den Fall leistet, dass es oder die von ihm beauftragten Dritten Pflichten nach diesem Gesetz, aus der Abstimmungsvereinbarung nach § 22 Absatz 1 oder aus den Vorgaben nach § 22 Absatz 2 nicht, nicht vollständig oder nicht ordnungsgemäß erfüllen und den öffentlich-rechtlichen Entsorgungsträgern oder den zuständigen Behörden dadurch zusätzliche Kosten oder finanzielle Verluste entstehen.
+(4) Die Behörde nach Absatz 1 Satz 1 soll verlangen, dass ein System eine angemessene, insolvenzfeste Sicherheit für den Fall leistet, dass es oder die von ihm beauftragten Dritten Pflichten nach diesem Gesetz, aus der Abstimmungsvereinbarung nach § 22 Absatz 1 oder aus den Vorgaben nach § 22 Absatz 2 nicht, nicht vollständig oder nicht ordnungsgemäß erfüllen und den öffentlich-rechtlichen Entsorgungsträgern oder den zuständigen Behörden dadurch zusätzliche Kosten oder finanzielle Verluste entstehen. Angemessen im Sinne von Satz 1 ist die Sicherheitsleistung in der Regel, wenn der abzusichernde Zeitraum drei Monate nicht überschreitet. Ein Überschreiten des Regelzeitraumes bedarf einer gesonderten Begründung.
+
+(5) Die Systeme sind verpflichtet, die organisatorischen Mittel vorzuhalten, um ihren Pflichten nach diesem Gesetz nachzukommen. Sie haben zur Bewertung ihrer Finanzverwaltung geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
 # § 19 – Gemeinsame Stelle
 
@@ -353,19 +554,23 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 4. Festlegung der Einzelheiten zur elektronischen Ausschreibungsplattform und zum Ausschreibungsverfahren gemäß § 23 Absatz 10;
 
-5. Benennung der Systemprüfer gemäß § 20 Absatz 4;
+5. Benennung der gemeinsamen Vertreter gemäß § 22 Absatz 7 Satz 1;
 
-6. wettbewerbsneutrale Koordination der Informationsmaßnahmen nach § 14 Absatz 3 und Aufteilung der Kosten dieser Maßnahmen auf Grundlage der von der Zentralen Stelle gemäß § 26 Absatz 1 Satz 2 Nummer 14 und 15 festgestellten Marktanteile.
+6. Benennung der Systemprüfer gemäß § 20 Absatz 4;
+
+7. wettbewerbsneutrale Koordination der Informationsmaßnahmen nach § 14 Absatz 3 und Aufteilung der Kosten dieser Maßnahmen auf Grundlage der von der Zentralen Stelle gemäß § 26 Absatz 1 Satz 2 Nummer 14 und 15 festgestellten Marktanteile.
 
 (3) Die Gemeinsame Stelle muss gewährleisten, dass sie für alle Systeme zu gleichen Bedingungen zugänglich ist und die Vorschriften zum Schutz personenbezogener Daten sowie von Betriebs- und Geschäftsgeheimnissen eingehalten werden. Bei Entscheidungen, die die öffentlich-rechtlichen Entsorgungsträger betreffen, hört die Gemeinsame Stelle die kommunalen Spitzenverbände an.
 
 # § 20 – Meldepflichten
 
-(1) Systeme sind verpflichtet, die folgenden Informationen über die bei ihnen vorgenommenen oder erwarteten Beteiligungen nach § 7 Absatz 1 Satz 1 und über eventuelle Abzüge von Verpackungsmengen aufgrund von Entgelterstattungen nach § 7 Absatz 3, jeweils aufgeschlüsselt nach Materialart und Masse der Verpackungen sowie zugeordnet nach Herstellern unter Angabe der jeweiligen Registrierungsnummer, elektronisch an die Zentrale Stelle zu melden:
+(1) Systeme sind verpflichtet, die folgenden Informationen über die bei ihnen vorgenommenen oder erwarteten Beteiligungen nach § 7 Absatz 1 Satz 1 und über eventuelle Abzüge von Verpackungsmengen aufgrund von Entgelterstattungen nach § 7 Absatz 3, jeweils aufgeschlüsselt nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten und der Masse der Verpackungen sowie zugeordnet nach Herstellern unter Angabe der jeweiligen Registrierungsnummer, elektronisch an die Zentrale Stelle zu melden:
 
 1. bis zum 15. Kalendertag des letzten Monats des jeweils laufenden Quartals die für das folgende Quartal erwartete Masse an beteiligten Verpackungen (Zwischenmeldung);
 
 2. bis zum 1. Juni eines jeden Jahres die Masse der für das vorangegangene Kalenderjahr tatsächlich beteiligten Verpackungen (Jahresmeldung).
+
+Verbundverpackungen, die gemäß § 16 Absatz 3 Satz 4 verwertet werden, sind der entsprechenden Hauptmaterialart zuzuordnen.
 
 (2) Die Meldungen nach Absatz 1 sind der Zentralen Stelle in einer von einem Systemprüfer geprüften und bestätigten Fassung zu übermitteln. Die Zentrale Stelle kann für die Übermittlung die Verwendung bestimmter elektronischer Formulare und Eingabemasken sowie eine bestimmte Verschlüsselung vorschreiben. Bei Vorliegen von Anhaltspunkten für eine Unrichtigkeit oder Unvollständigkeit der übermittelten Meldungen kann die Zentrale Stelle von den betroffenen Systemen die Übermittlung weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen. Bei Vorliegen der Voraussetzungen nach Satz 3 kann die Zentrale Stelle außerdem im Einzelfall vorübergehend einen abweichenden Meldezeitraum bezüglich der Zwischenmeldungen festlegen. Sofern ein System keine Zwischen- oder Jahresmeldung übermittelt oder die Anhaltspunkte nach Satz 3 nicht zur Überzeugung der Zentralen Stelle ausräumen kann, ist die Zentrale Stelle befugt, die Menge der beteiligten Verpackungen des betreffenden Systems auf Grundlage der ihr vorliegenden Informationen zu schätzen.
 
@@ -373,19 +578,21 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 (4) Die Systeme benennen einvernehmlich für einen Zeitraum von höchstens fünf Jahren vier Systemprüfer. Einigen sich die Systeme nicht innerhalb von sechs Monaten nach Ablauf des Benennungszeitraums eines Systemprüfers auf die Benennung eines Nachfolgers, entscheidet die Zentrale Stelle über die Benennung des Systemprüfers.
 
+(5) Jedes System ist verpflichtet, bis zum 1. Juli des auf das jeweilige Geschäftsjahr folgenden Kalenderjahres seinen handelsrechtlichen Jahresabschluss oder, falls ein System keinen handelsrechtlichen Jahresabschluss vorlegen kann, eine Vermögensübersicht sowie in beiden Fällen zusätzlich einen handelsrechtlichen Prüfungsbericht elektronisch an die Zentrale Stelle zu melden. Jedes System hat dabei mindestens die in § 18 Absatz 1a Satz 4 genannten Angaben zu machen. § 18 Absatz 1a Satz 1 und 2 gelten entsprechend. Bei Vorliegen von Anhaltspunkten für eine fehlende finanzielle Leistungsfähigkeit oder für die Unvollständigkeit der übermittelten Meldungen kann die Zentrale Stelle von den betroffenen Systemen die elektronische Übermittlung weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen, insbesondere die Vorlage geeigneter Unterlagen einer Bank, einer öffentlichen Sparkasse, eines Wirtschaftsprüfers oder eines vereidigten Buchprüfers.
+
 # § 21 – Ökologische Gestaltung der Beteiligungsentgelte
 
 (1) Systeme sind verpflichtet, im Rahmen der Bemessung der Beteiligungsentgelte Anreize zu schaffen, um bei der Herstellung von systembeteiligungspflichtigen Verpackungen
 
 1. die Verwendung von Materialien und Materialkombinationen zu fördern, die unter Berücksichtigung der Praxis der Sortierung und Verwertung zu einem möglichst hohen Prozentsatz recycelt werden können, und
 
-2. die Verwendung von Recyclaten sowie von nachwachsenden Rohstoffen zu fördern.
+2. die Verwendung von Rezyklaten sowie von nachwachsenden Rohstoffen zu fördern.
 
-(2) Jedes System hat der Zentralen Stelle und dem Umweltbundesamt jährlich bis zum 1. Juni zu berichten, wie es die Vorgaben nach Absatz 1 bei der Bemessung der Beteiligungsentgelte umgesetzt hat. Dabei ist auch anzugeben, welcher Anteil der beteiligten Verpackungen je Materialart einem hochwertigen Recycling zugeführt wurde. Die Zentrale Stelle überprüft die Berichte der Systeme auf Plausibilität. Sofern sich aus der Prüfung keine Beanstandungen ergeben, erteilt die Zentrale Stelle im Einvernehmen mit dem Umweltbundesamt dem jeweiligen System die Erlaubnis, den Bericht zu veröffentlichen.
+(2) Jedes System hat der Zentralen Stelle und dem Umweltbundesamt jährlich bis zum 1. Juni zu berichten, wie es die Vorgaben nach Absatz 1 bei der Bemessung der Beteiligungsentgelte im vorangegangenen Kalenderjahr umgesetzt hat. Dabei ist auch anzugeben, welcher Anteil der beteiligten Verpackungen je Materialart einem hochwertigen Recycling zugeführt wurde. Die Zentrale Stelle überprüft die Berichte der Systeme auf Plausibilität. Sie kann im Einvernehmen mit dem Umweltbundesamt verbindliche Vorgaben hinsichtlich der Form der Berichte beschließen und veröffentlichen. Sofern sich aus der Prüfung keine Beanstandungen ergeben, erteilt die Zentrale Stelle im Einvernehmen mit dem Umweltbundesamt dem jeweiligen System die Erlaubnis, den Bericht zu veröffentlichen.
 
 (3) Die Zentrale Stelle veröffentlicht im Einvernehmen mit dem Umweltbundesamt jährlich bis zum 1. September einen Mindeststandard für die Bemessung der Recyclingfähigkeit von systembeteiligungspflichtigen Verpackungen unter Berücksichtigung der einzelnen Verwertungswege und der jeweiligen Materialart.
 
-(4) Die Bundesregierung entscheidet bis zum 1. Januar 2022 auf der Grundlage der Berichte nach Absatz 2 und unter Berücksichtigung der nach Absatz 3 veröffentlichten Mindeststandards über weiter gehende Anforderungen an die Bemessung der Beteiligungsentgelte zur Förderung der werkstofflichen Verwertbarkeit von systembeteiligungspflichtigen Verpackungen sowie zur Förderung der Verwendung von Recyclaten und nachwachsenden Rohstoffen unter Berücksichtigung der gesamtökologischen Auswirkungen.
+(4) Die Bundesregierung entscheidet bis zum 1. Januar 2022 auf der Grundlage der Berichte nach Absatz 2 und unter Berücksichtigung der nach Absatz 3 veröffentlichten Mindeststandards über weiter gehende Anforderungen an die Bemessung der Beteiligungsentgelte zur Förderung der werkstofflichen Verwertbarkeit von systembeteiligungspflichtigen Verpackungen sowie zur Förderung der Verwendung von Rezyklaten und nachwachsenden Rohstoffen unter Berücksichtigung der gesamtökologischen Auswirkungen.
 
 # § 22 – Abstimmung
 
@@ -459,6 +666,8 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (3) Änderungen der Stiftungssatzung sind dem Kuratorium vorbehalten. Das Kuratorium entscheidet über Satzungsänderungen mit einer Mehrheit von mindestens zwei Dritteln der abgegebenen Stimmen. Jede Satzungsänderung bedarf der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
+(4) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann das Einvernehmen nach Absatz 2 Satz 1 und die Zustimmung nach Absatz 3 Satz 3, auch nachdem sie unanfechtbar geworden sind, mit Wirkung für die Zukunft widerrufen, wenn die tatsächlichen Verhältnisse nicht mehr den Anforderungen des Absatzes 2 Satz 2 Nummer 2 bis 5 entsprechen. Es wird unwiderleglich vermutet, dass die tatsächlichen Verhältnisse nicht mehr den Anforderungen des Absatzes 2 Satz 2 Nummer 3 entsprechen, wenn der Anteil der in einem Kalenderjahr von den Mitgliedsunternehmen der im Kuratorium vertretenen Verbände an Systemen beteiligten oder über Branchenlösungen zurückgenommenen Verpackungen auf unter 75 Prozent der insgesamt in dem jeweils gleichen Kalenderjahr an Systemen beteiligten oder über Branchenlösungen zurückgenommenen Verpackungen sinkt.
+
 # § 25 – Finanzierung
 
 (1) Die Systeme und Betreiber von Branchenlösungen sind verpflichtet, sich gemäß ihrem jeweiligen Marktanteil an der Finanzierung der Zentralen Stelle einschließlich der erforderlichen Errichtungskosten zu beteiligen. Zu diesem Zweck schließen sie mit der Zentralen Stelle vertragliche Vereinbarungen, welche die Einzelheiten der Finanzierung unter Berücksichtigung der Vorgaben der nachfolgenden Absätze regeln (Finanzierungsvereinbarungen).
@@ -469,7 +678,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (4) Kostenüber- und Kostenunterdeckungen werden durch eine Nachkalkulation für den dem laufenden Kalkulationszeitraum vorangehenden Kalkulationszeitraum ermittelt. Kostenüber- und Kostenunterdeckungen sind innerhalb von zwei Kalkulationszeiträumen nach Absatz 2 Satz 2 auszugleichen.
 
-(5) Die Bemessung des Umlageaufkommens nach Absatz 2 sowie dessen Nachkalkulation nach Absatz 4 sind durch das Umweltbundesamt im Rahmen der Rechts- und Fachaufsicht zu genehmigen. Voraussetzung der Genehmigung ist jeweils eine von der Zentralen Stelle vorzulegende Bescheinigung eines Wirtschaftsprüfers über die ordnungsgemäße Ermittlung der voraussichtlichen Kosten sowie der abzurechnenden Kosten nach Absatz 3.
+(5) Die Bemessung des Umlageaufkommens nach Absatz 2 sowie dessen Nachkalkulation nach Absatz 4 sind durch das Umweltbundesamt im Rahmen der Rechts- und Fachaufsicht zu genehmigen. Voraussetzung der Genehmigung ist jeweils eine von der Zentralen Stelle vorzulegende Bescheinigung eines Wirtschaftsprüfers über die ordnungsgemäße Ermittlung der voraussichtlichen Kosten sowie der abzurechnenden Kosten nach Absatz 3. Das Umweltbundesamt kann Auskünfte sowie die Vorlage weiterer Unterlagen und sonstiger Daten von der Zentralen Stelle verlangen, soweit dies für die Prüfung der Bescheinigungen nach Satz 2, der Dokumentation der zugrunde liegenden Methode der Bemessung des Umlageaufkommens, der Durchführung der Nachkalkulation oder deren Anwendung durch die Zentrale Stelle oder für die Prüfung der Angemessenheit der Höhe des Umlageaufkommens, einschließlich der Nachkalkulation, erforderlich ist.
 
 (6) Die nach Absatz 1 Satz 1 Verpflichteten leisten auf Verlangen der Zentralen Stelle eine angemessene insolvenzfeste Sicherheit bis zu einer Höhe von drei Monatsumlagen.
 
@@ -483,19 +692,25 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 3. kann den Systemen gemäß § 10 Absatz 3 die Möglichkeit einräumen, die sich auf ihr System beziehenden Datenmeldungen elektronisch abzurufen,
 
-4. prüft die gemäß § 11 Absatz 3 hinterlegten Vollständigkeitserklärungen, insbesondere im Hinblick auf ihre Übereinstimmung mit den Datenmeldungen nach § 10 und den Jahresmeldungen nach § 20 Absatz 1 Nummer 2, kann erforderlichenfalls Anordnungen nach § 11 Absatz 3 Satz 4 und 5 erteilen und informiert im Falle von nicht aufklärbaren Unregelmäßigkeiten die zuständigen Landesbehörden über das Ergebnis ihrer Prüfung,
+4. prüft die gemäß § 11 Absatz 3 hinterlegten Vollständigkeitserklärungen, insbesondere im Hinblick auf ihre Übereinstimmung mit den Registerangaben nach § 9, den Datenmeldungen nach § 10 und den Jahresmeldungen nach § 20 Absatz 1 Nummer 2, kann erforderlichenfalls Anordnungen nach § 11 Absatz 3 Satz 4 und 5 erteilen und informiert im Falle von nicht aufklärbaren Unregelmäßigkeiten die zuständigen Landesbehörden über das Ergebnis ihrer Prüfung,
 
 5. kann gemäß § 11 Absatz 4 Satz 2 die Hinterlegung einer Vollständigkeitserklärung anordnen,
 
 6. veröffentlicht im Internet eine Liste der Hersteller, die eine Vollständigkeitserklärung gemäß § 11 Absatz 1 Satz 1 hinterlegt haben,
 
-7. prüft die von den Systemen gemäß § 17 Absatz 3 Satz 1 vorgelegten Mengenstromnachweise, kann gemäß § 17 Absatz 3 Satz 2 die Vorlage der zugehörigen Prüfdokumente verlangen und informiert die zuständigen Landesbehörden über das Ergebnis ihrer Prüfung,
+7. prüft die von den Systemen gemäß § 17 Absatz 3 Satz 1 hinterlegten Mengenstromnachweise, kann gemäß § 17 Absatz 3 Satz 4 die Vorlage der zugehörigen Prüfdokumente verlangen und informiert die zuständigen Landesbehörden und die Systeme über das Ergebnis ihrer Prüfung,
+
+7a. prüft auf Anforderung der zuständigen Landesbehörden die gemäß § 18 Absatz 1a Satz 6 übermittelten Unterlagen und teilt den zuständigen Landesbehörden ihre Einschätzung zur finanziellen Leistungsfähigkeit des Systems mit,
 
 8. prüft die gemäß § 20 Absatz 1 übermittelten Meldungen der Systeme, kann erforderlichenfalls Anordnungen nach § 20 Absatz 2 Satz 3 und 4 erteilen, nimmt erforderlichenfalls Schätzungen nach § 20 Absatz 2 Satz 5 vor und informiert im letztgenannten Falle hierüber unverzüglich die zuständigen Landesbehörden,
+
+8a. prüft die gemäß § 20 Absatz 5 Satz 1 übermittelten Meldungen der Systeme, kann erforderlichenfalls Anordnungen nach § 20 Absatz 5 Satz 4 erteilen und informiert unverzüglich die zuständigen Landesbehörden, wenn ein System keine Meldung nach § 20 Absatz 5 Satz 1 übermittelt hat oder die Anhaltspunkte nach § 20 Absatz 5 Satz 4 nicht zur Überzeugung der Zentralen Stelle ausräumen kann,
 
 9. benennt erforderlichenfalls Systemprüfer gemäß § 20 Absatz 4 Satz 2,
 
 10. nimmt die Berichte der Systeme nach § 21 Absatz 2 entgegen, prüft diese auf Plausibilität und erteilt, sofern sich aus der Prüfung keine Beanstandungen ergeben, im Einvernehmen mit dem Umweltbundesamt dem jeweiligen System die Erlaubnis, den Bericht zu veröffentlichen,
+
+10a. kann gemäß § 21 Absatz 2 Satz 3 im Einvernehmen mit dem Umweltbundesamt verbindliche Vorgaben hinsichtlich der Form der Berichte nach § 21 Absatz 2 Satz 1 beschließen und veröffentlichen,
 
 11. entwickelt und veröffentlicht gemäß § 21 Absatz 3 im Einvernehmen mit dem Umweltbundesamt einen Mindeststandard für die Bemessung der Recyclingfähigkeit von systembeteiligungspflichtigen Verpackungen,
 
@@ -513,15 +728,15 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 18. prüft Anzeigen nach § 8 Absatz 2 sowie Mengenstromnachweise nach § 8 Absatz 3 und trifft die zur Überwachung einer Branchenlösung im Einzelfall erforderlichen Anordnungen,
 
-19. kann die Leistung von Sicherheiten nach § 8 Absatz 4 und § 25 Absatz 6 verlangen,
+19. kann die Leistung von Sicherheiten nach § 8 Absatz 5 und § 25 Absatz 6 verlangen,
 
 20. gewährt den zuständigen Landesbehörden auf deren Verlangen Einsicht in die bei ihr hinterlegten Datenmeldungen nach § 10, Vollständigkeitserklärungen nach § 11, Mengenstromnachweise nach § 17 und Meldungen der Systeme nach § 20 Absatz 1 und erteilt ihnen auf der Grundlage der §§ 4 bis 8 des Verwaltungsverfahrensgesetzes die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte,
 
-21. informiert die zuständigen Landesbehörden unverzüglich, wenn ihr konkrete Anhaltspunkte für die Begehung einer Ordnungswidrigkeit nach § 34 vorliegen, und fügt vorhandene Beweisdokumente bei,
+21. informiert die zuständigen Landesbehörden unverzüglich, wenn ihr konkrete Anhaltspunkte für die Begehung einer Ordnungswidrigkeit nach § 36 vorliegen, und fügt vorhandene Beweisdokumente bei,
 
-22. kann nähere Verfahrensanweisungen für die Registrierung nach § 9 Absatz 3 Satz 3, die Datenmeldungen nach § 10 Absatz 2, die Hinterlegung der Vollständigkeitserklärungen nach § 11 Absatz 3 Satz 3 und die Übermittlung der Zwischen- und Jahresmeldungen nach § 20 Absatz 2 Satz 2 erteilen und veröffentlichen,
+22. kann nähere Verfahrensanweisungen für die Registrierung nach § 9 Absatz 3 Satz 3, die Datenmeldungen nach § 10 Absatz 2, die Hinterlegung der Vollständigkeitserklärungen nach § 11 Absatz 3 Satz 3, die Hinterlegung der Mengenstromnachweise nach § 17 Absatz 3 Satz 3 und die Übermittlung der Zwischen- und Jahresmeldungen nach § 20 Absatz 2 Satz 2 erteilen und veröffentlichen,
 
-23. entscheidet auf Antrag durch Verwaltungsakt über die Einordnung einer Verpackung als systembeteiligungspflichtig im Sinne von § 3 Absatz 8,
+23. entscheidet auf Antrag durch Verwaltungsakt über die Einordnung einer Verpackung als systembeteiligungspflichtig im Sinne von § 3 Absatz 8; sie kann hierzu Verwaltungsvorschriften erlassen,
 
 24. entscheidet auf Antrag durch Verwaltungsakt über die Einordnung einer Verpackung als Mehrwegverpackung im Sinne von § 3 Absatz 3,
 
@@ -643,9 +858,21 @@ Das Kuratorium trifft Entscheidungen mit der Mehrheit der abgegebenen Stimmen. �
 
 (2) Soweit ein Widerspruchsverfahren stattfindet, entscheidet über den Widerspruch gegen einen Verwaltungsakt der Zentralen Stelle das Umweltbundesamt.
 
+# § 30a – Mindestrezyklatanteil bei bestimmten Einwegkunststoffgetränkeflaschen
+
+(1) Hersteller von Einwegkunststoffgetränkeflaschen, die hauptsächlich aus Polyethylenterephthalat bestehen, dürfen diese Flaschen ab dem 1. Januar 2025 nur in Verkehr bringen, wenn sie jeweils zu mindestens 25 Masseprozent aus Kunststoffrezyklaten bestehen. Ab dem 1. Januar 2030 dürfen Hersteller von sämtlichen Einwegkunststoffgetränkeflaschen diese Flaschen nur in Verkehr bringen, wenn sie jeweils zu mindestens 30 Masseprozent aus Kunststoffrezyklaten bestehen.
+
+(2) Ein Hersteller von Einwegkunststoffgetränkeflaschen kann die Vorgaben nach Absatz 1 auch dadurch erfüllen, dass die Gesamtmasse der von ihm in einem Kalenderjahr in Verkehr gebrachten Einwegkunststoffgetränkeflaschen einen entsprechenden Kunststoffrezyklatanteil aufweist. In diesem Fall hat er Art und Masse der von ihm für die Flaschenproduktion eingesetzten Kunststoffrezyklate sowie der insgesamt für die Flaschenproduktion verwendeten Kunststoffe in nachprüfbarer Form zu dokumentieren. Die Dokumentation ist der zuständigen Landesbehörde, auf deren Gebiet der Hersteller ansässig ist, auf Verlangen vorzulegen.
+
+(3) Die Absätze 1 und 2 finden keine Anwendung auf Einwegkunststoffgetränkeflaschen,
+
+1. bei denen der Flaschenkörper aus Glas oder Metall besteht und lediglich die Verschlüsse, Deckel, Etiketten, Aufkleber oder Umhüllungen aus Kunststoff sind;
+
+2. die für flüssige Lebensmittel für besondere medizinische Zwecke gemäß Artikel 2 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder, Lebensmittel für besondere medizinische Zwecke und Tagesrationen für gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie 92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181 vom 29.6.2013, S. 35), die zuletzt durch die Verordnung (EU) 2017/1091 (ABl. L 158 vom 21.6.2017, S. 5) geändert worden ist, bestimmt sind und dafür verwendet werden.
+
 # § 31 – Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen
 
-(1) Hersteller von mit Getränken befüllten Einweggetränkeverpackungen sind verpflichtet, von ihren Abnehmern ein Pfand in Höhe von mindestens 0,25 Euro einschließlich Umsatzsteuer je Verpackung zu erheben. Das Pfand ist von jedem weiteren Vertreiber auf allen Handelsstufen bis zur Abgabe an den Endverbraucher zu erheben. Die Einweggetränkeverpackungen sind vor dem Inverkehrbringen dauerhaft, deutlich lesbar und an gut sichtbarer Stelle als pfandpflichtig zu kennzeichnen. Die Hersteller nach Satz 1 sind verpflichtet, sich an einem bundesweit tätigen, einheitlichen Pfandsystem zu beteiligen, das den Teilnehmern die Abwicklung von Pfanderstattungsansprüchen untereinander ermöglicht.
+(1) Hersteller von mit Getränken befüllten Einweggetränkeverpackungen sind verpflichtet, von ihren Abnehmern ein Pfand in Höhe von mindestens 0,25 Euro einschließlich Umsatzsteuer je Verpackung zu erheben. Das Pfand ist von jedem weiteren Vertreiber auf allen Handelsstufen bis zur Abgabe an den Endverbraucher zu erheben. Die Einweggetränkeverpackungen sind vor dem Inverkehrbringen dauerhaft, deutlich lesbar und an gut sichtbarer Stelle als pfandpflichtig zu kennzeichnen. Die Hersteller nach Satz 1 sind verpflichtet, sich an einem bundesweit tätigen, einheitlichen Pfandsystem zu beteiligen, das den Teilnehmern die Abwicklung von Pfanderstattungsansprüchen untereinander ermöglicht und auf einer Internetseite in geeignetem Umfang Informationen für den Endverbraucher zum Rücknahme- und Sammelsystem für pfandpflichtige Einweggetränkeverpackungen und zur Verwertung der zurückgenommenen Verpackungen veröffentlicht.
 
 (2) Vertreiber von mit Getränken befüllten Einweggetränkeverpackungen sind verpflichtet, restentleerte Einweggetränkeverpackungen am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe zu den geschäftsüblichen Öffnungszeiten unentgeltlich zurückzunehmen und das Pfand zu erstatten. Ohne eine Rücknahme der Verpackung darf das Pfand nicht erstattet werden. Die Rücknahmepflicht nach Satz 1 beschränkt sich auf Einweggetränkeverpackungen der jeweiligen Materialarten Glas, Metall, Papier/Pappe/Karton und Kunststoff einschließlich sämtlicher Verbundverpackungen aus diesen Hauptmaterialarten, die der rücknahmepflichtige Vertreiber in seinem Sortiment führt. Für Vertreiber mit einer Verkaufsfläche von weniger als 200 Quadratmetern beschränkt sich die Rücknahmepflicht nach Satz 1 auf Einweggetränkeverpackungen der Marken, die der Vertreiber in seinem Sortiment führt; im Versandhandel gelten als Verkaufsfläche alle Lager- und Versandflächen. Beim Verkauf aus Automaten hat der Letztvertreiber die Rücknahme durch geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zu den Verkaufsautomaten zu gewährleisten. Im Versandhandel hat der Letztvertreiber die Rücknahme durch geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zum Endverbraucher zu gewährleisten.
 
@@ -687,6 +914,8 @@ i) Fruchtnektare ohne Kohlensäure und Gemüsenektare ohne Kohlensäure;
 
 j) diätetische Getränke im Sinne des § 1 Absatz 2 Nummer 1 Buchstabe c der Diätverordnung in der Fassung der Bekanntmachung vom 28. April 2005 (BGBl. I S. 1161), die zuletzt durch Artikel 60 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung, die ausschließlich für Säuglinge oder Kleinkinder angeboten werden.
 
+(5) Hersteller nach Absatz 1 Satz 1 sowie Vertreiber nach Absatz 2 Satz 1 sind verpflichtet, die finanziellen und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach diesem Gesetz nachzukommen. Zur Bewertung ihrer Finanzverwaltung zur ordnungsgemäßen Erfüllung ihrer Pflichten nach diesem Gesetz haben sie geeignete Mechanismen zur Selbstkontrolle einzurichten.
+
 # § 32 – Hinweispflichten
 
 (1) Letztvertreiber von mit Getränken befüllten Einweggetränkeverpackungen, die gemäß § 31 Absatz 1 Satz 1 der Pfandpflicht unterliegen, sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare, in unmittelbarer Nähe zu den Einweggetränkeverpackungen befindliche Informationstafeln oder -schilder mit dem Schriftzeichen „EINWEG“ darauf hinzuweisen, dass diese Verpackungen nach der Rückgabe nicht wiederverwendet werden.
@@ -697,13 +926,31 @@ j) diätetische Getränke im Sinne des § 1 Absatz 2 Nummer 1 Buchstabe c der Di
 
 (4) Die nach den Absätzen 1 bis 3 vorgeschriebenen Hinweise müssen in Gestalt und Schriftgröße mindestens der Preisauszeichnung für das jeweilige Produkt entsprechen.
 
-(5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 11 des Gesetzes vom 11. März 2016 (BGBl. I S. 396) geändert worden ist, bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
+(5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 5 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2394) geändert worden ist, in der jeweils geltenden Fassung bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
 
-# § 33 – Beauftragung Dritter
+# § 33 – Mehrwegalternative für Einwegkunststofflebensmittelverpackungen und Einweggetränkebecher
 
-Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Satz 1 gilt nicht für die Registrierung nach § 9 und nicht für die Abgabe von Datenmeldungen nach § 10.
+(1) Letztvertreiber von Einwegkunststofflebensmittelverpackungen und von Einweggetränkebechern, die jeweils erst beim Letztvertreiber mit Waren befüllt werden, sind ab dem 1. Januar 2023 verpflichtet, die in diesen Einwegverpackungen angebotenen Waren am Ort des Inverkehrbringens jeweils auch in Mehrwegverpackungen zum Verkauf anzubieten. Die Letztvertreiber dürfen dabei die Verkaufseinheit aus Ware und Mehrwegverpackung nicht zu einem höheren Preis oder zu schlechteren Bedingungen anbieten als die Verkaufseinheit aus der gleichen Ware und einer Einwegverpackung. Satz 1 und 2 gelten nicht für den Vertrieb durch Verkaufsautomaten, die in Betrieben zur Versorgung der Mitarbeiter nicht öffentlich zugänglich aufgestellt sind.
 
-# § 34 – Bußgeldvorschriften
+(2) Letztvertreiber nach Absatz 1 Satz 1 sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare Informationstafeln oder -schilder auf die Möglichkeit, die Waren in Mehrwegverpackungen zu erhalten, hinzuweisen. Im Fall einer Lieferung von Waren ist dieser Hinweis in den jeweils verwendeten Darstellungsmedien entsprechend zu geben.
+
+(3) Abweichend von § 15 Absatz 1 Satz 2 beschränkt sich die Rücknahmepflicht für Letztvertreiber nach Absatz 1 Satz 1 auf diejenigen Mehrwegverpackungen, die sie in Verkehr gebracht haben.
+
+# § 34 – Erleichterungen für kleine Unternehmen und Verkaufsautomaten
+
+(1) Letztvertreiber nach § 33 Absatz 1 Satz 1 mit insgesamt nicht mehr als fünf Beschäftigten, deren Verkaufsfläche 80 Quadratmeter nicht überschreitet, können die Pflicht nach § 33 Absatz 1 Satz 1 auch erfüllen, indem sie dem Endverbraucher anbieten, die Waren in von diesem zur Verfügung gestellte Mehrwegbehältnisse abzufüllen; im Fall einer Lieferung von Waren gelten als Verkaufsfläche zusätzlich alle Lager- und Versandflächen. Bei der Feststellung der Zahl der Beschäftigten sind Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und von nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen. § 33 Absatz 1 Satz 2 gilt entsprechend.
+
+(2) Beim Vertrieb durch Verkaufsautomaten können Letztvertreiber die Pflicht nach § 33 Absatz 1 Satz 1 auch erfüllen, indem sie dem Endverbraucher anbieten, die Waren in von diesem zur Verfügung gestellte Mehrwegbehältnisse abzufüllen. § 33 Absatz 1 Satz 2 gilt entsprechend.
+
+(3) Letztvertreiber, welche die Erleichterung nach Absatz 1 oder 2 in Anspruch nehmen, sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare Informationstafeln oder -schilder auf das Angebot, die Waren in vom Endverbraucher zur Verfügung gestellte Mehrwegbehältnisse abzufüllen, hinzuweisen. Im Falle einer Lieferung von Waren ist dieser Hinweis in den jeweils verwendeten Darstellungsmedien entsprechend zu geben.
+
+# § 35 – Beauftragung Dritter und Bevollmächtigung
+
+(1) Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Satz 1 gilt nicht für die Registrierung nach § 9 und nicht für die Abgabe von Datenmeldungen nach § 10.
+
+(2) Hersteller, die keine Niederlassung im Geltungsbereich dieses Gesetzes haben, können einen Bevollmächtigten mit der Wahrnehmung ihrer Verpflichtungen nach diesem Gesetz, mit Ausnahme der Registrierung nach § 9, beauftragen. Der Bevollmächtigte gilt im Hinblick auf diese Verpflichtungen als Hersteller im Sinne dieses Gesetzes. Die Aufgabenerfüllung durch den Bevollmächtigten erfolgt im eigenen Namen. Jeder Hersteller darf nur einen Bevollmächtigten beauftragen. Die Beauftragung nach Satz 1 hat schriftlich und in deutscher Sprache zu erfolgen.
+
+# § 36 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -717,7 +964,7 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 
 5. entgegen § 8 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-6. entgegen § 8 Absatz 3 Satz 3 oder § 17 Absatz 3 Satz 1 einen Mengenstromnachweis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
+6. entgegen § 8 Absatz 3 Satz 3 oder § 17 Absatz 3 Satz 1 einen Mengenstromnachweis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig hinterlegt,
 
 7. entgegen § 9 Absatz 1 Satz 1 sich nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig registrieren lässt,
 
@@ -733,19 +980,21 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 
 13. entgegen § 14 Absatz 2 dort genannte Abfälle einer Verwertung nicht richtig zuführt,
 
-14. entgegen § 15 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4 Satz 1, eine dort genannte Verpackung nicht zurücknimmt,
+14. entgegen § 15 Absatz 1 Satz 1, auch in Verbindung mit Absatz 5 Satz 1, eine dort genannte Verpackung nicht zurücknimmt,
 
-15. entgegen § 15 Absatz 2 Satz 2, auch in Verbindung mit Absatz 4 Satz 1, einen Hinweis nicht, nicht richtig oder nicht vollständig gibt,
+15. entgegen § 15 Absatz 2 Satz 2, auch in Verbindung mit Absatz 5 Satz 1, einen Hinweis nicht, nicht richtig oder nicht vollständig gibt,
 
-16. entgegen § 15 Absatz 3 Satz 1 oder Absatz 4 Satz 3 eine dort genannte Verpackung einer Wiederverwendung oder Verwertung nicht richtig zuführt,
+16. entgegen § 15 Absatz 3 Satz 1 oder Absatz 5 Satz 3 eine dort genannte Verpackung einer Wiederverwendung oder Verwertung nicht richtig zuführt,
 
-17. entgegen § 15 Absatz 3 Satz 3 oder Absatz 4 Satz 5, jeweils auch in Verbindung mit Absatz 3 Satz 4 oder 5, einen Nachweis nicht, nicht richtig oder nicht vollständig führt,
+17. entgegen § 15 Absatz 3 Satz 3, auch in Verbindung mit § 31 Absatz 3 Satz 3, oder § 15 Absatz 5 Satz 5 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt,
 
 18. ohne Genehmigung nach § 18 Absatz 1 Satz 1 ein System betreibt,
 
 19. entgegen § 20 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 20. entgegen § 21 Absatz 2 Satz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+20a. entgegen § 30a Absatz 1 eine Einwegkunststoffgetränkeflasche in Verkehr bringt,
 
 21. entgegen § 31 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, ein Pfand nicht erhebt,
 
@@ -757,15 +1006,31 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 
 25. entgegen § 31 Absatz 3 Satz 1 eine zurückgenommene Einweggetränkeverpackung einer Verwertung nicht richtig zuführt,
 
-26. entgegen § 31 Absatz 1 Satz 4 sich an einem bundesweiten Pfandsystem nicht beteiligt oder
+26. entgegen § 31 Absatz 1 Satz 4 sich an einem bundesweiten Pfandsystem nicht beteiligt,
 
-27. entgegen § 32 Absatz 1 oder 2 Satz 1, jeweils auch in Verbindung mit Absatz 3, einen Hinweis nicht oder nicht richtig gibt.
+27. entgegen § 32 Absatz 1 oder 2 Satz 1, jeweils auch in Verbindung mit Absatz 3, einen Hinweis nicht oder nicht richtig gibt,
+
+28. entgegen § 33 Absatz 1 Satz 1 eine Ware in einer Mehrwegverpackung nicht anbietet,
+
+29. entgegen § 33 Absatz 1 Satz 2, auch in Verbindung mit § 34 Absatz 1 Satz 3 oder Absatz 2 Satz 2, eine Verkaufseinheit zu einem höheren Preis oder zu schlechteren Bedingungen anbietet oder
+
+30. entgegen § 33 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, oder § 34 Absatz 3 Satz 1, auch in Verbindung mit Satz 2, einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgegebenen Weise gibt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3, 4, 12, 13 und 18 mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 1, 5, 6, 7, 9, 11, 14, 15, 16, 17, 19, 20, 21, 22, 23, 25 und 26 mit einer Geldbuße bis zu hunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die nach Landesrecht zuständige Behörde.
 
-# § 35 – Übergangsvorschriften
+# § 37 – Einziehung
+
+Ist eine Ordnungswidrigkeit nach § 36 Absatz 1 begangen worden, so können
+
+1. Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, oder
+
+2. Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind,
+
+eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+
+# § 38 – Übergangsvorschriften
 
 (1) Systeme, die zum 1. Januar 2019 gemäß § 6 Absatz 5 Satz 1 der Verpackungsverordnung bereits wirksam festgestellt sind, gelten auch im Sinne des § 18 Absatz 1 als genehmigt, wenn sie bis zum 1. Januar 2019 mit der Zentralen Stelle eine Finanzierungsvereinbarung, die den Vorgaben des § 25 entspricht, abgeschlossen und der für die Erteilung der Genehmigung zuständigen Landesbehörde vorgelegt haben.
 
@@ -776,6 +1041,10 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 (4) Die Vertreter der Hersteller und Vertreiber im ersten Kuratorium der Zentralen Stelle (Gründungskuratorium) werden ausschließlich von den Stiftern benannt. Die Amtszeit des Gründungskuratoriums darf einen Zeitraum von drei Jahren ab dem Datum der Gründung der Stiftung nicht überschreiten.
 
 (5) Die in § 10 Absatz 5 Satz 6 der Verpackungsverordnung in der Fassung vom 17. Juli 2014 (BGBl. I S. 1061) genannte Stelle übergibt der Zentralen Stelle die bis zum 1. Januar 2019 dort hinterlegten Datensätze.
+
+(6) Systeme, denen bis zum Ablauf des 3. Juli 2021 eine Genehmigung nach § 18 Absatz 1 Satz 1 erteilt worden ist, gelten so lange als finanziell leistungsfähig nach § 18 Absatz 1 Satz 2 Nummer 4, bis die Zentrale Stelle nach § 26 Absatz 1 Satz 2 Nummer 8a die gemäß § 20 Absatz 5 Satz 1 bis zum 1. Juli 2022 zu übermittelnden Meldungen der Systeme geprüft hat. Die Zentrale Stelle stellt der zuständigen Landesbehörde die Meldungen nach Satz 1 zur Verfügung.
+
+(7) Einwegkunststoffgetränkeflaschen und Getränkedosen, die ab dem 1. Januar 2022 erstmals der Pfandpflicht für Einweggetränkeverpackungen gemäß § 31 Absatz 1 Satz 1 unterliegen und die bereits vor dem 1. Januar 2022 vom Hersteller in Verkehr gebracht wurden, dürfen noch bis zum 1. Juli 2022 von jedem weiteren Vertreiber auf allen Handelsstufen bis an den Endverbraucher abgegeben werden, ohne dass ein Pfand erhoben werden muss.
 
 # Anlage 1 – (zu § 3 Absatz 1)Verpackungskriterien und -beispiele
 
@@ -957,9 +1226,9 @@ RFID-Tags für die Funkfrequenzkennzeichnung
 
 1. Stoffe und Gemische, die bei einem Vertrieb im Einzelhandel dem Selbstbedienungsverbot nach § 4 Absatz 1 der Chemikalienverbotsverordnung in der Fassung der Bekanntmachung vom 13. Juni 2003 (BGBl. I S. 867), die zuletzt durch Artikel 5 Absatz 40 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, unterliegen würden,
 
-2. Pflanzenschutzmittel, die nur für die Anwendung durch berufliche Anwender nach dem Pflanzenschutzgesetz vom 6. Februar 2012 (BGBl. I S. 148, 1281), das zuletzt durch Artikel 4 Absatz 84 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist, zugelassen sind,
+2. Pflanzenschutzmittel, die nur für die Anwendung durch berufliche Anwender nach dem Pflanzenschutzgesetz vom 6. Februar 2012 (BGBl. I S. 148, 1281), das zuletzt durch Artikel 278 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, zugelassen sind,
 
-3. Gemische von Diphenylmethan-4,4'-diisocyanat (MDI), soweit diese nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) 2015/1221 (ABl. L 197 vom 25.7.2015, S. 10) geändert worden ist, als atemwegssensibilisierend der Kategorie 1 (Resp. Sens. 1) einzustufen sowie mit dem H-Satz H334 zu kennzeichnen sind und in Druckgaspackungen in Verkehr gebracht werden, sowie
+3. Gemische von Diphenylmethan-4,4'-diisocyanat (MDI), soweit diese nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) 2020/1677 (ABl. L 379 vom 13.11.2020, S. 3) geändert worden ist, als atemwegssensibilisierend der Kategorie 1 (Resp. Sens. 1) einzustufen sowie mit dem H-Satz H334 zu kennzeichnen sind und in Druckgaspackungen in Verkehr gebracht werden, sowie
 
 4. Öle, flüssige Brennstoffe und sonstige ölbürtige Produkte, die als Abfall unter die Abfallschlüssel 12 01 06, 12 01 07, 12 01 10, 16 01 13 oder 16 01 14 oder unter Kapitel 13 der Anlage zur Abfallverzeichnis-Verordnung fallen würden.
 
