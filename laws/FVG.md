@@ -71,6 +71,8 @@ die Finanzämter.
 
 2. die Erstattung von Kapitalertragsteuer und von im Wege des Steuerabzugs nach § 50a des Einkommensteuergesetzes erhobener Steuer an beschränkt Steuerpflichtige, soweit die Einkommensteuer oder die Körperschaftsteuer mit dem Steuerabzug abgegolten ist und die beschränkte Steuerpflicht nicht auf § 2 Nummer 2 des Körperschaftsteuergesetzes beruht;
 
+2a. die Entgegennahme der Anträge nach § 1a Absatz 1 Satz 4 des Körperschaftsteuergesetzes und Berücksichtigung des Status der optierenden Gesellschaft in den Verfahren zur Entlastung von deutschen Abzugsteuern (Erstattungen und Freistellungen) auf Grund von Abkommen zur Vermeidung der Doppelbesteuerung;
+
 3. die Entlastung bei deutschen Besitz- oder Verkehrsteuern gegenüber internationalen Organisationen, amtlichen zwischenstaatlichen Einrichtungen, ausländischen Missionen, berufskonsularischen Vertretungen und deren Mitgliedern auf Grund völkerrechtlicher Vereinbarung oder besonderer gesetzlicher Regelung nach näherer Weisung des Bundesministeriums der Finanzen;
 
 4. die Besteuerung von Investmentfonds und Spezial-Investmentfonds sowie die Feststellung der Besteuerungsgrundlagen von Spezial-Investmentfonds, soweit es nach § 4 Absatz 2 Nummer 2 des Investmentsteuergesetzes zuständig ist. Daneben stellt das Bundeszentralamt für Steuern auf Anforderung den für die Besteuerung von Investmentfonds, Spezial-Investmentfonds oder deren Anlegern zuständigen Landesfinanzbehörden seine Erkenntnisse über ausländische Rechtsformen und ausländisches Recht zur Verfügung;

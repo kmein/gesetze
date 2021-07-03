@@ -1997,6 +1997,8 @@
 - [EWGV1016/68DV](laws/EWGV1016_68DV.md) Verordnung zur Durchführung der Verordnung Nr. 117/66/EWG und der Verordnung (EWG) Nr. 1016/68 und des Übereinkommens über die Personenbeförderung im grenzüberschreitenden Gelegenheitsverkehr mit Kraftomnibussen (ASOR)
 - [EWGVtr](laws/EWGVtr.md) Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft
 - [EWIVAG](laws/EWIVAG.md) Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung
+- [EWKKennzV](laws/EWKKennzV.md) Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten
+- [EWKVerbotsV](laws/EWKVerbotsV.md) Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff*
 - [EWO](laws/EWO.md) Übereinkommen zur Gründung einer Europäischen Weltraumorganisation
 - [eWpG](laws/eWpG.md) Gesetz über elektronische Wertpapiere
 - [EWRAbkAG](laws/EWRAbkAG.md) Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
@@ -4928,6 +4930,7 @@
 - [SeeSchIntÜbk1974Anl](laws/SeeSchIntÜbk1974Anl.md) Anlage zum Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See
 - [SeeSchIntÜbk1974Prot](laws/SeeSchIntÜbk1974Prot.md) Protokoll von 1978 zu dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See
 - [SeeSchIntÜbk1974V](laws/SeeSchIntÜbk1974V.md) Verordnung über die Inkraftsetzung des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See
+- [SeeSchLStEVerlGAnwBek](laws/SeeSchLStEVerlGAnwBek.md) Bekanntmachung über die Anwendung des Gesetzes zur Verlängerung des erhöhten Lohnsteuereinbehalts in der Seeschifffahrt
 - [SeeSchMeldPortalG](laws/SeeSchMeldPortalG.md) Gesetz über das Verfahren für die elektronische Abgabe von Meldungen für Schiffe im Seeverkehr über das Zentrale Meldeportal des Bundes
 - [SeeSchSiÜbk](laws/SeeSchSiÜbk.md) Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschiffahrt
 - [SeeSchSiÜbkG](laws/SeeSchSiÜbkG.md) Gesetz zu dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschiffahrt und zum Protokoll vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden
@@ -5342,7 +5345,6 @@
 - [StVUnfStatG](laws/StVUnfStatG.md) Gesetz über die Statistik der Straßenverkehrsunfälle
 - [StVUnfStatG1990V](laws/StVUnfStatG1990V.md) Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes
 - [StVZO](laws/StVZO.md) Straßenverkehrs-Zulassungs-Ordnung
-- [StVZO2012AusnV 55](laws/StVZO2012AusnV_55.md) Fünfundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 - [StVZOAusnV 15](laws/StVZOAusnV_15.md) Fünfzehnte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 - [StVZOAusnV 23](laws/StVZOAusnV_23.md) Dreiundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 - [StVZOAusnV 25](laws/StVZOAusnV_25.md) Fünfundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung

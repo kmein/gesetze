@@ -87,15 +87,15 @@ a) nach dem Lebensmittel- und Futtermittelgesetzbuch in der Fassung der Bekanntm
 
 b) nach dem Tabakerzeugnisgesetz vom 4. April 2016 (BGBl. I S. 569) in der jeweils geltenden Fassung,
 
-c) nach dem Milch- und Margarinegesetz vom 25. Juli 1990 (BGBl. I S. 1471), das zuletzt durch Artikel 22 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung,
+c) nach dem Milch- und Margarinegesetz vom 25. Juli 1990 (BGBl. I S. 1471), das zuletzt durch Artikel 2 des Gesetzes vom 18. Januar 2019 (BGBl. I S. 33) geändert worden ist, in der jeweils geltenden Fassung,
 
 d) nach dem Tiergesundheitsgesetz vom 22. Mai 2013 (BGBl. I S. 1324),
 
-e) nach dem Pflanzenschutzgesetz in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), das zuletzt durch Artikel 14 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung sowie
+e) nach dem Pflanzenschutzgesetz in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), das zuletzt durch Artikel 278 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung sowie
 
 f) nach den auf Grund der in den Buchstaben a bis e genannten Gesetze erlassenen Rechtsverordnungen,
 
-2. tierische Nebenprodukte, soweit diese nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 19 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, mit Ausnahme derjenigen tierischen Nebenprodukte, die zur Verbrennung, Lagerung auf einer Deponie oder Verwendung in einer Biogas- oder Kompostieranlage bestimmt sind,
+2. tierische Nebenprodukte, soweit diese nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 279 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung, oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, mit Ausnahme derjenigen tierischen Nebenprodukte, die zur Verbrennung, Lagerung auf einer Deponie oder Verwendung in einer Biogas- oder Kompostieranlage bestimmt sind,
 
 3. Stoffe, die
 
@@ -109,7 +109,7 @@ b) weder aus tierischen Nebenprodukten bestehen noch tierische Nebenprodukte ent
 
 6. Kernbrennstoffe und sonstige radioaktive Stoffe im Sinne des Atomgesetzes oder des Strahlenschutzgesetzes,
 
-7. Abfälle, die unmittelbar beim Aufsuchen, Gewinnen und Aufbereiten sowie bei der damit zusammenhängenden Lagerung von Bodenschätzen in Betrieben anfallen, die der Bergaufsicht unterstehen und die nach dem Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 15a des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist, in der jeweils geltenden Fassung und den auf Grund des Bundesberggesetzes erlassenen Rechtsverordnungen unter Bergaufsicht entsorgt werden,
+7. Abfälle, die unmittelbar beim Aufsuchen, Gewinnen und Aufbereiten sowie bei der damit zusammenhängenden Lagerung von Bodenschätzen in Betrieben anfallen, die der Bergaufsicht unterstehen und die nach dem Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 237 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung und den auf Grund des Bundesberggesetzes erlassenen Rechtsverordnungen unter Bergaufsicht entsorgt werden,
 
 8. gasförmige Stoffe, die nicht in Behältern gefasst sind,
 
@@ -945,7 +945,9 @@ c) der Notwendigkeit neuer Sammelsysteme,
 
 a) die Menge des anfallenden Abfalls und seine Behandlung und
 
-b) die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden.
+b) die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden,
+
+10. Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU) 2019/904 getroffen wurden.
 
 (7) Abfallwirtschaftspläne können weiterhin enthalten
 
@@ -1021,9 +1023,11 @@ j) die Reduzierung der Entstehung von Abfällen, insbesondere von Abfällen, die
 
 k) die Ermittlung von Produkten, die Hauptquellen der Vermüllung insbesondere der Natur und der Meeresumwelt sind, und die Durchführung geeigneter Maßnahmen zur Vermeidung und Reduzierung des durch diese Produkte verursachten Müllaufkommens,
 
-l) die Vermeidung und deutliche Reduzierung von Meeresmüll als Beitrag zu dem Ziel der Vereinten Nationen für nachhaltige Entwicklung, jegliche Formen der Meeresverschmutzung zu vermeiden und deutlich zu reduzieren sowie
+l) die Vermeidung und deutliche Reduzierung von Meeresmüll als Beitrag zu dem Ziel der Vereinten Nationen für nachhaltige Entwicklung, jegliche Formen der Meeresverschmutzung zu vermeiden und deutlich zu reduzieren,
 
-m) die Entwicklung und Unterstützung von Informationskampagnen, in deren Rahmen für Abfallvermeidung und Vermüllung sensibilisiert wird,
+m) die Entwicklung und Unterstützung von Informationskampagnen, in deren Rahmen für Abfallvermeidung und Vermüllung sensibilisiert wird, sowie
+
+n) Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU) 2019/904 getroffen wurden,
 
 3. legt, soweit erforderlich, weitere Abfallvermeidungsmaßnahmen fest und
 
@@ -1265,9 +1269,19 @@ Die Pflicht des Satzes 1 gilt, soweit die Erzeugnisse für den vorgesehenen Verw
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20 sind im Rahmen der ihnen übertragenen Aufgaben in Selbstverwaltung zur Information und Beratung über Möglichkeiten der Vermeidung, Verwertung und Beseitigung von Abfällen verpflichtet. Zur Beratung verpflichtet sind auch die Industrie- und Handelskammern, Handwerkskammern und Landwirtschaftskammern.
 
-(2) Für die Beratung über Möglichkeiten der Abfallvermeidung sind insbesondere die in § 33 Absatz 3 Nummer 2 genannten Vermeidungsmaßnahmen und die Festlegungen des geltenden Abfallvermeidungsprogramms des Bundes und des jeweiligen Landes zugrunde zu legen. Bei der Beratung ist insbesondere auf Einrichtungen des öffentlich-rechtlichen Entsorgungsträgers und so weit wie möglich sonstiger natürlicher oder juristischer Personen hinzuweisen, durch die Erzeugnisse, die kein Abfall sind, erfasst und einer Wiederverwendung zugeführt werden.
+(2) Für die Beratung über Möglichkeiten der Abfallvermeidung sind insbesondere die in § 33 Absatz 3 Nummer 2 genannten Vermeidungsmaßnahmen und die Festlegungen des geltenden Abfallvermeidungsprogramms des Bundes und des jeweiligen Landes zugrunde zu legen. Bei der Beratung ist insbesondere hinzuweisen auf
 
-(3) Im Rahmen der Beratung über die Abfallverwertung ist insbesondere auf die Pflicht zur getrennten Sammlung von Abfällen und die Rücknahmepflichten hinzuweisen. Die Beratung umfasst auch die Beratung über die möglichst ressourcenschonende Bereitstellung von Sperrmüll sowie über Maßnahmen zur Vermeidung der Vermüllung der Umwelt.
+1. die Einrichtungen des öffentlich-rechtlichen Entsorgungsträgers und, soweit möglich, auf die Einrichtungen sonstiger natürlicher oder juristischer Personen, durch die Erzeugnisse, die kein Abfall sind, erfasst und einer Wiederverwendung zugeführt werden, und
+
+2. die Verfügbarkeit von Mehrwegprodukten, insbesondere als Alternative zu den Einwegkunststoffprodukten nach Artikel 3 Nummer 2 der Richtlinie (EU) 2019/904.
+
+(3) Im Rahmen der Beratung über die Abfallverwertung ist insbesondere auf die Pflicht zur getrennten Sammlung von Abfällen und die Rücknahmepflichten hinzuweisen. Die Beratung umfasst auch
+
+1. die Beratung über die möglichst ressourcenschonende Bereitstellung von Sperrmüll,
+
+2. die Information über die Auswirkungen einer Vermüllung oder einer sonstigen nicht ordnungsgemäßen Verwertung und Beseitigung von Abfällen auf die Umwelt, insbesondere die Meeresumwelt, und die Beratung über Maßnahmen zur Vermeidung dieser Vermüllung sowie
+
+3. die Information über die Auswirkungen einer nicht ordnungsgemäßen Verwertung und Beseitigung von Abfällen auf Abwasseranlagen.
 
 (4) Die zuständige Behörde hat den nach diesem Gesetz zur Beseitigung Verpflichteten Auskunft über geeignete Abfallbeseitigungsanlagen zu erteilen.
 
@@ -1613,7 +1627,7 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwalt
 
 3. ohne Planfeststellungsbeschluss nach § 35 Absatz 2 Satz 1 oder ohne Plangenehmigung nach § 35 Absatz 3 Satz 1 eine Deponie errichtet oder wesentlich ändert,
 
-4. einer vollziehbaren Auflage nach § 36 Absatz 4 Satz 1 oder Satz 3, § 39 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 53 Absatz 3 Satz 2 oder § 54 Absatz 2 zuwiderhandelt,
+4. einer vollziehbaren Auflage nach § 36 Absatz 4 Satz 1 oder Satz 3, § 39 Absatz 1 Satz 1 oder Absatz 2 Satz 1, § 53 Absatz 3 Satz 1 oder § 54 Absatz 2 zuwiderhandelt,
 
 5. einer mit einer Zulassung nach § 37 Absatz 1 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
@@ -1631,7 +1645,7 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwalt
 
 3. entgegen § 41 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 41 Absatz 2 Satz 1 eine Emissionserklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ergänzt,
 
-4. entgegen § 47 Absatz 3 Satz 1 eine Auskunft nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
+4. entgegen § 47 Absatz 3 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
 5. entgegen § 47 Absatz 3 Satz 2 oder Satz 3 das Betreten eines Grundstücks oder eines Wohn-, Geschäfts- oder Betriebsraumes, die Einsicht in eine Unterlage oder die Vornahme einer technischen Ermittlung oder Prüfung nicht gestattet,
 
@@ -1677,7 +1691,7 @@ Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen Regelungen d
 
 (1) Pflichtenübertragungen nach § 16 Absatz 2, § 17 Absatz 3 oder § 18 Absatz 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, gelten fort. Die zuständige Behörde kann bestehende Pflichtenübertragungen nach Maßgabe des § 13 Absatz 2 und der §§ 16 bis 18 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, verlängern.
 
-(2) Für Verfahren zur Aufstellung von Abfallwirtschaftsplänen, die bis zum Ablauf des 5. Juli 2020 eingeleitet worden sind, ist § 30 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212) in der bis zum 28. Oktober 2020 geltenden Fassung anzuwenden.
+(2) Für Verfahren zur Aufstellung von Abfallwirtschaftsplänen, die bis zum Ablauf des 5. Juli 2020 eingeleitet worden sind, ist § 30 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212) in der bis zum 28. Oktober 2020 geltenden Fassung anzuwenden. Für Verfahren zur Aufstellung von Abfallwirtschaftsplänen, die bis zum Ablauf des 3. Juli 2021 eingeleitet worden sind, ist § 30 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212) in der bis zum Ablauf des 3. Juli 2021 geltenden Fassung anzuwenden.
 
 (3) Eine Transportgenehmigung nach § 49 Absatz 1 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, auch in Verbindung mit § 1 der Transportgenehmigungsverordnung vom 10. September 1996 (BGBl. I S. 1411; 1997 I S. 2861), die zuletzt durch Artikel 5 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, gilt bis zum Ende ihrer Befristung als Erlaubnis nach § 54 Absatz 1 fort.
 

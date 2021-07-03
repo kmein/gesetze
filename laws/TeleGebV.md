@@ -7,7 +7,7 @@ Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der
 
 # § 1 – Gebührenerhebung; Entstehung der Gebührenschuld
 
-(1) Die Gesellschaft für Telematik erhebt für von ihr erbrachte individuell zurechenbare öffentliche Leistungen nach § 291b Absatz 1a bis 1c und 1e des Fünften Buches Sozialgesetzbuch Gebühren und Auslagen nach den folgenden Vorschriften.
+(1) Die Gesellschaft für Telematik erhebt für von ihr erbrachte individuell zurechenbare öffentliche Leistungen nach den §§ 324, 325, auch in Verbindung mit § 311 Absatz 6 Satz 5, und § 327 des Fünften Buches Sozialgesetzbuch Gebühren und Auslagen nach den folgenden Vorschriften.
 
 (2) Die Gebührenschuld für eine individuell zurechenbare öffentliche Leistung nach Absatz 1 sowie die Verpflichtung zur Erstattung von Auslagen nach § 6 entsteht mit der Bekanntgabe des Bescheides über die beantragte Zulassung oder Bestätigung.
 
@@ -31,37 +31,46 @@ Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der
 
 1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Zulassung von<br />
 Komponenten nach<br />
-§ 291b Absatz 1a<br />
+§ 325<br />
 des Fünften Buches<br />
 Sozialgesetzbuch</td><td style="text-align: right;">7 900 bis 135 000 Euro,</td></tr></tbody></table>
 
 2. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Zulassung von<br />
 Diensten nach<br />
-§ 291b Absatz 1a und 1e<br />
+§ 325, auch in Verbindung mit § 311 Absatz 6 Satz 5<br />
 des Fünften Buches<br />
 Sozialgesetzbuch</td><td style="text-align: right;">3 500 bis 62 000 Euro,</td></tr></tbody></table>
 
 3. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Zulassung von<br />
-Anbietern operativer<br />
+Anbietern von<br />
 Betriebsleistungen nach<br />
-§ 291b Absatz 1c<br />
+§ 324<br />
 des Fünften Buches<br />
 Sozialgesetzbuch</td><td style="text-align: right;">10 600 bis 16 500 Euro,</td></tr></tbody></table>
 
 4. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Bestätigung<br />
-weiterer elektronischer<br />
+weiterer<br />
 Anwendungen nach<br />
-§ 291b Absatz 1b<br />
+§ 327<br />
 des Fünften Buches<br />
-Sozialgesetzbuch</td><td style="text-align: right;">1 500 bis 6 100 Euro.</td></tr></tbody></table>
+Sozialgesetzbuch</td><td style="text-align: right;">1 500 bis 6 100 Euro,</td></tr></tbody></table>
+
+5. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Bestätigung<br />
+informationstechnischer<br />
+Systeme nach<br />
+§ 373 Absatz 5<br />
+des Fünften Buches<br />
+Sozialgesetzbuch</td><td style="text-align: right;">1 100 bis 3 500 Euro.</td></tr></tbody></table>
 
 Für die Bemessung der konkreten Gebühr gilt § 9 Absatz 1 des Bundesgebührengesetzes entsprechend.
 
-(2) Die Zulassung nach Absatz 1 Satz 1 Nummer 1 und 2 sowie die Bestätigung nach Absatz 1 Satz 1 Nummer 4 erfordern grundsätzlich jeweils einen erfolgreichen Testdurchlauf. Für jeden gescheiterten Testdurchlauf kann entsprechend dem angefallenen Prüfaufwand eine Gebühr von bis zu 70 Prozent des für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Höchstsatzes erhoben werden.
+(2) Die Zulassung nach Absatz 1 Satz 1 Nummer 1 und 2 sowie die Bestätigung nach Absatz 1 Satz 1 Nummer 4 und 5 erfordern grundsätzlich jeweils einen erfolgreichen Testdurchlauf. Für jeden gescheiterten Testdurchlauf kann entsprechend dem angefallenen Prüfaufwand eine Gebühr von bis zu 70 Prozent des für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Höchstsatzes erhoben werden.
 
 (3) Die Gebühr kann aus Gründen der Billigkeit bis auf 25 Prozent des für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Mindestsatzes ermäßigt werden.
 
 (4) Den Gebühren und Auslagen ist die gesetzliche Umsatzsteuer hinzuzurechnen.
+
+(5) Die Höhe der in dieser Verordnung festgelegten Gebühren wird regelmäßig, mindestens jedoch alle zwei Jahre, vom Bundesministerium für Gesundheit überprüft und, soweit erforderlich, angepasst.
 
 # § 4 – Gebührenbefreiung und Gebührenermäßigung
 
@@ -87,9 +96,9 @@ Als Auslagen werden die Kosten gesondert in der tatsächlich entstandenen Höhe 
 
 Die §§ 14, 16 bis 19 und 21 des Bundesgebührengesetzes zur Fälligkeit, zum Säumniszuschlag, zur Stundung, zur Niederschlagung, zum Erlass, zur Verjährung und zur Erstattung sind entsprechend anzuwenden.
 
-# § 8 – Übergangsregelung
+# § 8 – Übergangsregelung für die Bestätigung informationstechnischer Systeme nach § 373 Absatz 5 des Fünften Buches Sozialgesetzbuch
 
-Für individuell zurechenbare öffentliche Leistungen, die vor Inkrafttreten dieser Verordnung vorgenommen worden sind, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden, sofern bei diesen Leistungen unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine Festsetzung von Gebühren und Auslagen ausdrücklich vorbehalten und der Antragsteller über die voraussichtliche Höhe der Gebühren und Auslagen informiert worden ist. Bei individuell zurechenbaren öffentlichen Leistungen, die vor dem 29. Dezember 2015 beantragt worden sind, dürfen die Gebühren und Auslagen die in dem am 28. Dezember 2015 geltenden Entgeltkatalog der Gesellschaft für Telematik für diese Leistungen vorgesehenen Beträge nicht übersteigen.
+Für Bestätigungen nach § 373 Absatz 5 des Fünften Buches Sozialgesetzbuch, die seit dem 9. Juni 2021 beantragt worden sind, werden Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben. Für Bestätigungen im Sinne des Satzes 1, die vor dem 9. Juni 2021 beantragt worden sind, werden keine Gebühren und Auslagen erhoben.
 
 # § 9 – Inkrafttreten
 
