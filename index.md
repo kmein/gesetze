@@ -2947,7 +2947,6 @@
 - [ItalKultInstVorRNotW](laws/ItalKultInstVorRNotW.md) Notenwechsel über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute
 - [ItalKultInstVorRV](laws/ItalKultInstVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute
 - [ITFG](laws/ITFG.md) Gesetz zur Errichtung eines Sondervermögens „Investitions- und Tilgungsfonds“
-- [ITSABV](laws/ITSABV.md) Verordnung zur Erhöhung der Bevorratung mit Arzneimitteln zur intensivmedizinischen Versorgung
 - [ITSEAusbV](laws/ITSEAusbV.md) Verordnung über die Berufsausbildung zum IT-System-Elektroniker und zur IT-System-Elektronikerin*
 - [ITSManKflAusbV](laws/ITSManKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management*
 - [ITZBundG](laws/ITZBundG.md) Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts
