@@ -647,7 +647,7 @@ Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb eines Au
 
 (1) Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen hat eine gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
 
-1. Gruppe Kredit- und Finanzdienstleistungsinstitute: Kreditinstitute, Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a Satz 2 Nummer 5 bis 7 und 9 bis 11 oder Satz 3 des Kreditwesengesetzes und die nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, soweit die Finanzdienstleistungsinstitute und Unternehmen nicht ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder 10 des Kreditwesengesetzes erbringen, Wertpapierinstitute, Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und die nach § 42 des Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen sowie die Kreditanstalt für Wiederaufbau, wobei
+1. Gruppe Kredit- und Finanzdienstleistungsinstitute: Kreditinstitute, Finanzdienstleistungsinstitute mit einer Erlaubnis nach § 1 Absatz 1a Satz 2 Nummer 1 bis 11 des Kreditwesengesetzes und die nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, soweit die Finanzdienstleistungsinstitute und Unternehmen nicht ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder 10 des Kreditwesengesetzes erbringen, Wertpapierinstitute, Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und die nach § 42 des Zahlungsdiensteaufsichtsgesetzes tätigen Unternehmen sowie die Kreditanstalt für Wiederaufbau, wobei
 
 a) Kreditinstitute und entsprechend nach § 53 des Kreditwesengesetzes tätige Unternehmen, die Bankgeschäfte betreiben und gleichzeitig das E-Geld-Geschäft betreiben oder Zahlungsdienste erbringen, ausschließlich als Kreditinstitute und
 
@@ -1223,5 +1223,7 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 (10) § 16e Absatz 1 und 3, § 16f Absatz 1, § 16g Absatz 1, § 16i Absatz 1 und 2, § 16j Absatz 5 bis 7 sind erstmals auf das Umlagejahr 2018 anzuwenden.
 
 (11) § 16e Absatz 1 Satz 1 Nummer 1 und § 16g Absatz 1 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa und Buchstabe c Doppelbuchstabe aa in der ab dem 1. Januar 2020 geltenden Fassung sind erstmals auf die Umlageerhebung für das Umlagejahr 2020 anzuwenden.
+
+(12) § 16e Absatz 1 Satz 1 Nummer 1 und § 16g Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa und Buchstabe c Doppelbuchstabe aa in der ab dem 10. Juni 2021 geltenden Fassung sind erstmals auf die Umlageerhebung für das Umlagejahr 2021 anzuwenden.
 
 (12) Die §§ 16, 16b, 16e, 16f, 16g und 16j in der ab dem 26. Juni 2021 geltenden Fassung sind erstmals auf das Umlagejahr 2021 anzuwenden.

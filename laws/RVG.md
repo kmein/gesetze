@@ -2756,7 +2756,7 @@ Beschwerde, Nichtzulassungsbeschwerde und Erinnerung
   
 Vorbemerkung 3.5:  
   
-Die Gebühren nach diesem Abschnitt entstehen nicht in den in Vorbemerkung 3.1 Abs. 2 und in den Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren.
+Die Gebühren nach diesem Abschnitt entstehen nicht in den in den Vorbemerkungen 3.2.1 und 3.2.2 genannten Beschwerdeverfahren.
 
  
 

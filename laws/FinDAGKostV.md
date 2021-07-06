@@ -711,13 +711,13 @@ Erteilung einer Erlaubnis zur Erbringung von einzelnen, mehreren oder sämtliche
 
 1.1.13.1.2.1
 
-§ 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2, 3, 6 oder 11 KWG, wenn dem Institut nicht die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen und dem Institut nicht erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 1 Absatz 1a Satz 2 Nummer 5, 7, 9 und 10 KWG, sofern nicht Nummer 1.1.13.1.1 anwendbar ist
+§ 1 Absatz 1a Satz 2 Nummer 1 bis 1d, 2, 3, 6, 8 oder 11 KWG, wenn dem Institut nicht die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen und dem Institut nicht erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 1 Absatz 1a Satz 2 Nummer 5, 7, 9 und 10 KWG, sofern nicht Nummer 1.1.13.1.1 anwendbar ist
 
 5 045
 
 1.1.13.1.2.2
 
-§ 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2, 3, 6 oder 11 KWG, wenn dem Institut in diesen Fällen die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen oder es dem Institut erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 1 Absatz 1a Satz 2 Nummer 4 KWG, sowie, sofern nicht Nummer 1.1.13.1.1 anwendbar ist, im Sinne von § 1 Absatz 1a Satz 2 Nummer 5, 7, 9 und 10 KWG
+§ 1 Absatz 1a Satz 2 Nummer 1 bis 1d, 2, 3, 6, 8 oder 11 KWG, wenn dem Institut in diesen Fällen die Befugnis eingeräumt ist, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen oder es dem Institut erlaubt ist, auf eigene Rechnung zu handeln, sowie im Sinne von § 1 Absatz 1a Satz 2 Nummer 4 KWG, sowie, sofern nicht Nummer 1.1.13.1.1 anwendbar ist, im Sinne von § 1 Absatz 1a Satz 2 Nummer 5, 7, 9 und 10 KWG
 
 10 725
 

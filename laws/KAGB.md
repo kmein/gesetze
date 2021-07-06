@@ -2832,11 +2832,25 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 
 (+++ § 94: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-# § 95 – Anteilscheine
+# § 95 – Anteilscheine; Verordnungsermächtigung
 
-(1) Die Anteile an Sondervermögen werden in Anteilscheinen verbrieft. Die Anteilscheine können auf den Inhaber oder auf Namen lauten. Lauten sie auf den Inhaber, sind sie in einer Sammelurkunde zu verbriefen und ist der Anspruch auf Einzelverbriefung auszuschließen; lauten sie auf den Namen, so gelten für sie die §§ 67 und 68 des Aktiengesetzes entsprechend. Die Anteilscheine können über einen oder mehrere Anteile desselben Sondervermögens ausgestellt werden. Die Anteilscheine sind von der Kapitalverwaltungsgesellschaft und von der Verwahrstelle zu unterzeichnen. Die Unterzeichnung kann durch mechanische Vervielfältigung geschehen.
+(1) Die Anteile an Sondervermögen werden in Anteilscheinen verbrieft oder als elektronische Anteilscheine begeben. Die Anteilscheine können auf den Inhaber oder, soweit sie nicht elektronisch begeben werden, auf den Namen lauten.
 
-(2) Stehen die zum Sondervermögen gehörenden Gegenstände den Anlegern gemeinschaftlich zu, so geht mit der Übertragung der in dem Anteilschein verbrieften Ansprüche auch der Anteil des Veräußerers an den zum Sondervermögen gehörenden Gegenständen auf den Erwerber über. Entsprechendes gilt für sonstige rechtsgeschäftliche Verfügungen sowie für Verfügungen, die im Wege der Zwangsvollstreckung oder Arrestvollziehung erfolgen. Über den Anteil an den zum Sondervermögen gehörenden Gegenständen kann in keiner anderen Weise verfügt werden.
+(2) Lauten verbriefte Anteilscheine auf den Inhaber, sind sie in einer Sammelurkunde zu verbriefen und ist der Anspruch auf Einzelverbriefung auszuschließen. Lauten verbriefte Anteilscheine auf den Namen, so gelten für sie die §§ 67 und 68 des Aktiengesetzes entsprechend. Die Anteilscheine können über einen oder mehrere Anteile desselben Sondervermögens ausgestellt werden. Die Anteilscheine sind von der Kapitalverwaltungsgesellschaft und von der Verwahrstelle zu unterzeichnen. Die Unterzeichnung kann durch mechanische Vervielfältigung erfolgen.
+
+(3) Auf elektronische Anteilscheine im Sinne von Absatz 1 sind § 2 Absatz 1 Satz 2, Absatz 2 und 3, die §§ 3 und 4 Absatz 1 Nummer 1, Absatz 2, 4 bis 6, 8 bis 10, die §§ 6 bis 8 Absatz 1, Abschnitt 4, § 31 Absatz 2 Nummer 1 bis 12, Absatz 3 und 4 und § 33 sowie die §§ 9 bis 15 mit Ausnahme von § 13 Absatz 1 Nummer 2 und 3 des Gesetzes über elektronische Wertpapiere mit der Maßgabe entsprechend anzuwenden, dass
+
+1. an die Stelle des elektronischen Wertpapiers der elektronische Anteilschein tritt,
+
+2. an die Stelle der Emissionsbedingungen die Anlagebedingungen treten,
+
+3. an die Stelle des Berechtigten der Anleger tritt.
+
+Satz 1 gilt nicht, soweit sich aus den Vorschriften dieses Gesetzes etwas anderes ergibt.
+
+(4) Stehen die zum Sondervermögen gehörenden Gegenstände den Anlegern gemeinschaftlich zu, so geht mit der Übertragung der durch den Anteilschein vermittelten Ansprüche auch der Anteil des Veräußerers an den zum Sondervermögen gehörenden Gegenständen auf den Erwerber über. Entsprechendes gilt für sonstige rechtsgeschäftliche Verfügungen sowie für Verfügungen, die im Wege der Zwangsvollstreckung oder Arrestvollziehung erfolgen. Über den Anteil an den zum Sondervermögen gehörenden Gegenständen kann in keiner anderen Weise verfügt werden.
+
+(5) Das Bundesministerium der Finanzen und das Bundesministerium der Justiz und für Verbraucherschutz können durch gemeinsame Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die entsprechende oder teilweise entsprechende Anwendung von § 4 Absatz 11, § 8 Absatz 2, den §§ 16 bis 23 mit Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie den §§ 30 und 31 Absatz 1 und 2 Nummer 13 bis 15 des Gesetzes über elektronische Wertpapiere auf elektronische Anteilscheine im Sinne von Absatz 1 bestimmen. Soweit dies aufgrund der Besonderheiten bei elektronischen Anteilscheinen erforderlich ist, können in der Rechtsverordnung nach Satz 1 auch Abweichungen von den vorgenannten Regelungen bestimmt werden, insbesondere für die Regelungen betreffend die Verwahrstelle.
 
 (+++ § 95: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
@@ -8228,13 +8242,13 @@ Die §§ 45 und 48 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17
 
 erloschen ist und das Immobilien-Sondervermögen gemäß § 39 Absatz 2 des Investmentgesetzes abgewickelt und an die Anleger verteilt wird, sofern der Übergang des Immobilien-Sondervermögens auf die Verwahrstelle erst ab dem 31. Dezember 2015 erfolgt ist.
 
-# § 358 – Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1
+# § 358 – Übergangsvorschriften zu § 95 Absatz 2 und § 97 Absatz 1
 
 (1) Für in Sammelverwahrung befindliche Inhaberanteilscheine und noch nicht fällige Gewinnanteilscheine kann eine Auslieferung einzelner Wertpapiere auf Grund der §§ 7 und 8 des Depotgesetzes nicht verlangt werden.
 
 (2) Inhaber von vor dem 1. Januar 2017 fällig gewordenen Gewinnanteilscheinen können die aus diesen resultierenden Zahlungsansprüche gegen Vorlage dieser Gewinnanteilscheine bei der Verwahrstelle des betreffenden Sondervermögens geltend machen. Werden die Gewinnanteilscheine bei der Verwahrstelle eingelöst, darf sie den Auszahlungsbetrag nur an ein inländisches Kreditinstitut zur Weiterleitung auf ein für den Einreicher geführtes Konto leisten. Sofern ein Kreditinstitut die Gewinnanteilscheine zur Einlösung annimmt, darf es den Auszahlungsbetrag nur über ein für den Einreicher bei ihm im Inland geführtes Konto leisten.
 
-(3) Inhaberanteilscheine, die sich mit Ablauf des 31. Dezember 2016 nicht in Sammelverwahrung bei einer der in § 97 Absatz 1 Satz 2 genannten Stellen befinden, werden mit Ablauf des 31. Dezember 2016 kraftlos. Sind Gewinnanteilscheine auf den Inhaber ausgegeben, so erstreckt sich die Kraftlosigkeit auch auf die noch nicht fälligen Gewinnanteilscheine. Die in den Inhaberanteilscheinen nach Satz 1 und den Gewinnanteilscheinen nach Satz 2 verbrieften Rechte sind zum 1. Januar 2017 stattdessen gemäß § 95 Absatz 1 zu verbriefen. Die bisherigen Eigentümer der kraftlosen Anteilscheine werden ihren Anteilen entsprechend Miteigentümer an der Sammelurkunde. Die Sammelurkunde ist gemäß § 97 Absatz 1 Satz 2 zu verwahren. Die Miteigentumsanteile an dem Sammelbestand werden auf einem gesonderten Depot der Verwahrstelle gutgeschrieben.
+(3) Inhaberanteilscheine, die sich mit Ablauf des 31. Dezember 2016 nicht in Sammelverwahrung bei einer der in § 97 Absatz 1 Satz 2 genannten Stellen befinden, werden mit Ablauf des 31. Dezember 2016 kraftlos. Sind Gewinnanteilscheine auf den Inhaber ausgegeben, so erstreckt sich die Kraftlosigkeit auch auf die noch nicht fälligen Gewinnanteilscheine. Die in den Inhaberanteilscheinen nach Satz 1 und den Gewinnanteilscheinen nach Satz 2 verbrieften Rechte sind zum 1. Januar 2017 stattdessen gemäß § 95 Absatz 2 zu verbriefen. Die bisherigen Eigentümer der kraftlosen Anteilscheine werden ihren Anteilen entsprechend Miteigentümer an der Sammelurkunde. Die Sammelurkunde ist gemäß § 97 Absatz 1 Satz 2 zu verwahren. Die Miteigentumsanteile an dem Sammelbestand werden auf einem gesonderten Depot der Verwahrstelle gutgeschrieben.
 
 (4) Nur mit der Einreichung eines kraftlosen Inhaberanteilscheins bei der Verwahrstelle kann der Einreicher die Gutschrift eines entsprechenden Miteigentumsanteils an dem Sammelbestand auf ein von ihm zu benennendes und für ihn geführtes Depotkonto verlangen. Die Kraftlosigkeit des Inhaberanteilscheins nach Absatz 3 steht einer Kraftloserklärung der Urkunde nach § 799 des Bürgerlichen Gesetzbuchs nicht entgegen. Zahlungen darf die Verwahrstelle nur auf ein von ihr für den Einreicher geführtes Konto oder an ein anderes Kreditinstitut zur Weiterleitung auf ein für den Einreicher von diesem geführtes Konto leisten; diese Zahlungen sind von der Verwahrstelle nicht zu verzinsen.
 

@@ -970,6 +970,14 @@ Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a S
 
 (3) Über wesentliche Vorkommnisse, insbesondere bei der Ausgabe und Rücknahme von Anteilen eines Investmentvermögens, bei aufgetretenen Interessenkollisionen gemäß § 70 des Kapitalanlagegesetzbuchs, bei der Ausübung der Kontrollfunktion gemäß § 76 des Kapitalanlagegesetzbuchs und bei der Belastung der Investmentvermögen mit Vergütungen und Aufwendungsersatz gemäß § 79 des Kapitalanlagegesetzbuchs ist zu berichten. Sofern durch Anleger gegenüber der Verwahrstelle oder durch die Verwahrstelle gegenüber einer Kapitalverwaltungsgesellschaft Ansprüche nach § 78 des Kapitalanlagegesetzbuchs geltend gemacht wurden, ist auch hierüber zu berichten.
 
+# § 69a – Prüfung der registerführenden Stelle gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere
+
+Bei Instituten, die ein zentrales Register gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere führen, hat der Prüfer einmal jährlich die Einhaltung der §§ 7, 10, 12 und 13 des Gesetzes über elektronische Wertpapiere in Verbindung mit der nach § 15 des Gesetzes über elektronische Wertpapiere erlassenen Rechtsverordnung zu prüfen.
+
+# § 69b – Prüfung der registerführenden Stelle gemäß § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere
+
+Bei Instituten, die die Kryptowertpapierregisterführung gemäß § 1 Absatz 1a Satz 2 Nummer 8 des Kreditwesengesetzes erbringen, hat der Prüfer einmal jährlich die Einhaltung der §§ 7, 10, 16, 17 und 19 bis 21 des Gesetzes über elektronische Wertpapiere in Verbindung mit der nach § 23 des Gesetzes über elektronische Wertpapiere erlassenen Rechtsverordnung zu prüfen.
+
 # § 70 – Datenübersicht
 
 Die auf das jeweilige Institut anwendbaren Formblätter in den Anlagen 1 bis 4 sind auszufüllen und dem Prüfungsbericht beizufügen. Die Formblätter in den Anlagen 1 bis 3 sind um die entsprechenden Vorjahresdaten zu ergänzen.
