@@ -67,13 +67,13 @@ Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1 genannten
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt oder ihr zugewiesen sind, durch Rechtsverordnung
 
-1. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen nach Maßgabe des § 26 Abs. 1 Nr. 1 des Bundesbeamtengesetzes die Laufbahnen beim Bundeseisenbahnvermögen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
+1. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen nach Maßgabe des § 26 Absatz 1 des Bundesbeamtengesetzes die Laufbahnen beim Bundeseisenbahnvermögen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
 
 2. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat für die zugewiesenen Beamten besondere Arbeitszeitvorschriften zu erlassen und dabei von § 88 des Bundesbeamtengesetzes abweichende Regelungen über die Verpflichtung der Beamten, über die regelmäßige wöchentliche Arbeitszeit hinaus Dienst zu tun, sowie über den Ausgleich von Mehrarbeit zu treffen,
 
 soweit es durch die Eigenart des Eisenbahnbetriebes dieser Gesellschaft begründet ist.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4 genannten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) in sinngemäßer Anwendung des § 26 Abs. 1 Nr. 2 des Bundesbeamtengesetzes zu erlassen.
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4 genannten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste in sinngemäßer Anwendung des § 26 Abs. 2 des Bundesbeamtengesetzes zu erlassen.
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann auf Vorschlag des Präsidenten des Bundeseisenbahnvermögens im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen ergänzende Bestimmungen über die Reise- und Umzugskosten der Beamten, die der Deutsche Bahn Aktiengesellschaft gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es erfordert.
 

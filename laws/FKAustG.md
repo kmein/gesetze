@@ -51,6 +51,14 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Finanzve
 
 2. in dem das Konto aufgelöst wird, soweit die Unterlagen nach Satz 1 für die weitere Erfüllung der Pflichten nach Absatz 1 benötigt werden.
 
+# § 3a – Pflichten der Kontoinhaber und der Antragsteller
+
+(1) Natürliche Personen und Rechtsträger, die bei einem meldenden Finanzinstitut entweder für sich selbst oder zugunsten oder für Rechnung einer anderen Person die Eröffnung eines Finanzkontos beantragen, sowie Kontoinhaber haben die nachfolgenden Pflichten zu beachten.
+
+(2) Hat nach diesem Gesetz ein meldendes Finanzinstitut Selbstauskünfte oder Belege einzuholen, so sind diese Informationen oder Unterlagen vollständig und richtig zu erteilen oder herauszugeben.
+
+(3) Wer einem meldenden Finanzinstitut eine Selbstauskunft erteilt hat, muss dem Finanzinstitut bei einer Änderung der Gegebenheiten die neu zutreffenden Angaben bis zum letzten Tag des maßgeblichen Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder 90 Kalendertage nach dem Eintritt der Änderung der Gegebenheiten, je nachdem, welches Datum später ist, mit einer Selbstauskunft richtig und vollständig mitteilen.
+
 # § 4 – Zuständige Behörde
 
 Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Finanzen, soweit nicht die Zuständigkeit des Bundeszentralamts für Steuern nach § 5 Absatz 1 Nummer 5b des Finanzverwaltungsgesetzes gegeben ist.
@@ -235,6 +243,14 @@ Zusätzlich zur Suche in elektronischen Datensätzen und Papierunterlagen, wie i
 
 (2) Bei Neukonten natürlicher Personen muss das meldende Finanzinstitut bei Kontoeröffnung eine Selbstauskunft beschaffen, die Bestandteil der Kontoeröffnungsunterlagen sein kann und anhand derer das meldende Finanzinstitut die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers feststellen kann, sowie die Plausibilität dieser Selbstauskunft anhand der vom meldenden Finanzinstitut bei Kontoeröffnung beschafften Informationen, einschließlich der aufgrund von Verfahren zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC – Anti-Money Laundering/Know-your-Customer) erfassten Unterlagen, bestätigen.
 
+(2a) Abweichend von Absatz 2 kann die Beschaffung der Selbstauskunft oder die Bestätigung ihrer Plausibilität auch unverzüglich nach der Kontoeröffnung erfolgen, wenn das meldende Finanzinstitut nachweisen kann, dass
+
+1. die Beschaffung der Selbstauskunft bei Kontoeröffnung aus rechtlichen oder tatsächlichen Gründen unmöglich ist; oder
+
+2. die Bestätigung der Plausibilität bei Kontoeröffnung in begründeten Ausnahmefällen unzumutbar ist.
+
+Im Fall des Satzes 1 muss sichergestellt sein, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben mitteilen.
+
 (3) Geht aus der Selbstauskunft nach Absatz 2 hervor, dass der Kontoinhaber in einem meldepflichtigen Staat steuerlich ansässig ist, so muss das meldende Finanzinstitut das Konto als meldepflichtiges Konto betrachten und die Selbstauskunft auch die Steueridentifikationsnummer des Kontoinhabers in dem meldepflichtigen Staat vorbehaltlich des § 8 Absatz 3 sowie das Geburtsdatum enthalten.
 
 (4) Tritt bei einem Neukonto natürlicher Personen eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die ursprüngliche Selbstauskunft nicht zutreffend oder unglaubwürdig ist, so darf es sich nicht auf die ursprüngliche Selbstauskunft verlassen und muss eine gültige Selbstauskunft beschaffen, aus der die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers hervorgeht oder hervorgehen.
@@ -297,6 +313,14 @@ b) enthält die Selbstauskunft Hinweise darauf, dass der Kontoinhaber in einem m
 Zur Feststellung, ob der Rechtsträger ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt, ist Folgendes zu beachten: Bei einem Kontoinhaber eines Neukontos von Rechtsträgern einschließlich eines Rechtsträgers, der eine meldepflichtige Person ist, muss das meldende Finanzinstitut feststellen, ob der Kontoinhaber ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Handelt es sich bei einer beherrschenden Person eines passiven NFE um eine meldepflichtige Person, so ist das Konto als meldepflichtiges Konto zu betrachten. Bei diesen Feststellungen soll das meldende Finanzinstitut die in Nummer 2, in Absatz 3 und in Absatz 4 aufgeführten Leitlinien in der jeweils geeignetsten Reihenfolge befolgen.
 
 2. Zur Feststellung, ob der Kontoinhaber ein passiver NFE ist, muss sich das meldende Finanzinstitut auf eine Selbstauskunft des Kontoinhabers zum Nachweis seines Status verlassen, es sei denn, das meldende Finanzinstitut kann anhand von in seinem Besitz befindlichen oder öffentlich verfügbaren Informationen in vertretbarer Weise feststellen, dass der Kontoinhaber ein aktiver NFE ist oder ein anderes Finanzinstitut als ein unter § 19 Nummer 6 Buchstabe b beschriebenes Investmentunternehmen, bei dem es sich nicht um ein Finanzinstitut eines teilnehmenden Staates handelt.
+
+(2a) Abweichend von Absatz 2 Nummer 1 Buchstabe a kann die Beschaffung der Selbstauskunft oder die Bestätigung ihrer Plausibilität auch unverzüglich nach der Kontoeröffnung erfolgen, wenn das meldende Finanzinstitut nachweisen kann, dass
+
+1. die Beschaffung der Selbstauskunft bei Kontoeröffnung aus rechtlichen oder tatsächlichen Gründen unmöglich ist; oder
+
+2. die Bestätigung der Plausibilität bei Kontoeröffnung in begründeten Ausnahmefällen unzumutbar ist.
+
+Im Fall des Satzes 1 muss sichergestellt sein, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben mitteilen.
 
 (3) Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC – Anti-Money Laundering/Know-your-Customer) erhobenen und verwahrten Informationen verlassen.
 
@@ -815,6 +839,14 @@ Gemäß § 20 Nummer 6 Buchstabe c müssen amtliche Dokumente in Bezug auf einen
 
 # § 28 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
+
+1. entgegen § 3a Absatz 2 eine Selbstauskunft oder einen Beleg nicht richtig oder nicht vollständig erteilt;
+
+2. entgegen § 3a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht; oder
+
+3. entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(1a) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundeszentralamt für Steuern.

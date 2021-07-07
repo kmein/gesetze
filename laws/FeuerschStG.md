@@ -134,11 +134,11 @@ Zuständig ist das Bundeszentralamt für Steuern.
 
 (2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der Feuerschutzsteuer sind nach den folgenden Zerlegungsmaßstäben zu ermitteln:
 
-1. zu 35 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung aller Wirtschaftsbereiche abzüglich der Wertschöpfung der Wirtschaftsbereiche Land- und Forstwirtschaft, Fischerei, öffentliche und sonstige Dienstleister, Erziehung und Gesundheit sowie private Haushalte;
+1. zu 30 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung aller Wirtschaftsbereiche abzüglich der Wertschöpfung der Wirtschaftsbereiche Land- und Forstwirtschaft, Fischerei, öffentliche und sonstige Dienstleister, Erziehung und Gesundheit sowie private Haushalte;
 
 2. zu 5 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung des Wirtschaftsbereiches Land- und Forstwirtschaft, Fischerei;
 
-3. zu 40 vom Hundert entsprechend den Anteilen an der Wohnbevölkerung zu 40 vom Hundert und den Anteilen am Bestand an Wohngebäuden zu 60 vom Hundert;
+3. zu 45 vom Hundert entsprechend den Anteilen an der Wohnbevölkerung zu 40 vom Hundert und den Anteilen am Bestand an Wohngebäuden zu 60 vom Hundert;
 
 4. zu 20 vom Hundert entsprechend den Anteilen an den Privathaushalten.
 

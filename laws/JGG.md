@@ -1030,7 +1030,7 @@ Privatklage und Nebenklage
 
  
 
-Entschädigung des Verletzten
+Adhäsionsverfahren
 
 § 81
 
@@ -1984,11 +1984,11 @@ Im Übrigen beschließt die große Jugendkammer eine Besetzung mit zwei Richtern
 
 (1) Die Schöffen der Jugendgerichte (Jugendschöffen) werden auf Vorschlag des Jugendhilfeausschusses für die Dauer von fünf Geschäftsjahren von dem in § 40 des Gerichtsverfassungsgesetzes vorgesehenen Ausschuß gewählt. Dieser soll eine gleiche Anzahl von Männern und Frauen wählen.
 
-(2) Der Jugendhilfeausschuß soll ebensoviele Männer wie Frauen und muss mindestens die doppelte Anzahl von Personen vorschlagen, die als Jugendschöffen und -hilfsschöffen benötigt werden. Die Vorgeschlagenen sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein.
+(2) Der Jugendhilfeausschuß soll ebensoviele Männer wie Frauen und muss mindestens die doppelte Anzahl von Personen vorschlagen, die als Jugendschöffen und Jugendersatzschöffen benötigt werden. Die Vorgeschlagenen sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein.
 
 (3) Die Vorschlagsliste des Jugendhilfeausschusses gilt als Vorschlagsliste im Sinne des § 36 des Gerichtsverfassungsgesetzes. Für die Aufnahme in die Liste ist die Zustimmung von zwei Dritteln der anwesenden stimmberechtigten Mitglieder, mindestens jedoch der Hälfte aller stimmberechtigten Mitglieder des Jugendhilfeausschusses erforderlich. Die Vorschlagsliste ist im Jugendamt eine Woche lang zu jedermanns Einsicht aufzulegen. Der Zeitpunkt der Auflegung ist vorher öffentlich bekanntzumachen.
 
-(4) Bei der Entscheidung über Einsprüche gegen die Vorschlagsliste des Jugendhilfeausschusses und bei der Wahl der Jugendschöffen und -hilfsschöffen führt der Jugendrichter den Vorsitz in dem Schöffenwahlausschuß.
+(4) Bei der Entscheidung über Einsprüche gegen die Vorschlagsliste des Jugendhilfeausschusses und bei der Wahl der Jugendschöffen und Jugendersatzschöffen führt der Jugendrichter den Vorsitz in dem Schöffenwahlausschuß.
 
 (5) Die Jugendschöffen werden in besondere für Männer und Frauen getrennt zu führende Schöffenlisten aufgenommen.
 
@@ -2563,9 +2563,9 @@ Der Staatsanwalt kann bei dem Jugendrichter schriftlich oder mündlich beantrage
 
 Im Übrigen gelten § 395 Absatz 2 Nummer 1, Absatz 4 und 5 und §§ 396 bis 402 der Strafprozessordnung entsprechend.
 
-# § 81 – Entschädigung des Verletzten
+# § 81 – Adhäsionsverfahren
 
-Die Vorschriften der Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis 406c der Strafprozeßordnung) werden im Verfahren gegen einen Jugendlichen nicht angewendet.
+Die Vorschriften der Strafprozeßordnung über das Adhäsionsverfahren (§§ 403 bis 406c der Strafprozeßordnung) werden im Verfahren gegen einen Jugendlichen nicht angewendet.
 
 # § 81a – Verfahren und Entscheidung
 
@@ -2875,7 +2875,7 @@ Von den Vorschriften über die Jugendgerichtsverfassung gelten die §§ 33 bis 3
 
 (1) Von den Vorschriften über das Jugendstrafverfahren (§§ 43 bis 81a) sind im Verfahren gegen einen Heranwachsenden die §§ 43, 46a, 47a, 50 Absatz 3 und 4, die §§ 51a, 68 Nummer 1, 4 und 5, die §§ 68a, 68b, 70 Absatz 2 und 3, die §§ 70a, 70b Absatz 1 Satz 1 und Absatz 2, die §§ 70c, 72a bis 73 und 81a entsprechend anzuwenden. Die Bestimmungen des § 70a sind nur insoweit anzuwenden, als sich die Unterrichtung auf Vorschriften bezieht, die nach dem für die Heranwachsenden geltenden Recht nicht ausgeschlossen sind. Die Jugendgerichtshilfe und in geeigneten Fällen auch die Schule werden von der Einleitung und dem Ausgang des Verfahrens unterrichtet. Sie benachrichtigen den Staatsanwalt, wenn ihnen bekannt wird, daß gegen den Beschuldigten noch ein anderes Strafverfahren anhängig ist. Die Öffentlichkeit kann ausgeschlossen werden, wenn dies im Interesse des Heranwachsenden geboten ist.
 
-(2) Wendet der Richter Jugendstrafrecht an (§ 105), so gelten auch die §§ 45, 47 Abs. 1 Satz 1 Nr. 1, 2 und 3, Abs. 2, 3, §§ 52, 52a, 54 Abs. 1, §§ 55 bis 66, 74 und 79 Abs. 1 entsprechend. § 66 ist auch dann anzuwenden, wenn die einheitliche Festsetzung von Maßnahmen oder Jugendstrafe nach § 105 Abs. 2 unterblieben ist. § 55 Abs. 1 und 2 ist nicht anzuwenden, wenn die Entscheidung im beschleunigten Verfahren des allgemeinen Verfahrensrechts ergangen ist. § 74 ist im Rahmen einer Entscheidung über die Auslagen des Verletzten nach § 472a der Strafprozessordnung nicht anzuwenden.
+(2) Wendet der Richter Jugendstrafrecht an (§ 105), so gelten auch die §§ 45, 47 Abs. 1 Satz 1 Nr. 1, 2 und 3, Abs. 2, 3, §§ 52, 52a, 54 Abs. 1, §§ 55 bis 66, 74 und 79 Abs. 1 entsprechend. § 66 ist auch dann anzuwenden, wenn die einheitliche Festsetzung von Maßnahmen oder Jugendstrafe nach § 105 Abs. 2 unterblieben ist. § 55 Abs. 1 und 2 ist nicht anzuwenden, wenn die Entscheidung im beschleunigten Verfahren des allgemeinen Verfahrensrechts ergangen ist. § 74 ist im Rahmen einer Entscheidung über die Auslagen des Antragstellers nach § 472a der Strafprozessordnung nicht anzuwenden.
 
 (3) In einem Verfahren gegen einen Heranwachsenden findet § 407 Abs. 2 Satz 2 der Strafprozeßordnung keine Anwendung.
 

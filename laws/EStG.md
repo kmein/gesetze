@@ -7071,7 +7071,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (9) Die Absätze 1 bis 7 gelten für die Steuerfestsetzung für den Veranlagungszeitraum 2020 und die Berücksichtigung des Verlustrücktrags für 2021 entsprechend.
 
-(+++ § 110: Zur Anwendung vgl. § 52 +++)
+(+++ § 111: Zur Anwendung vgl. § 52 +++)
 
 # Anlage 1 – (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
 

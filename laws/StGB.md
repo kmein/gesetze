@@ -5881,7 +5881,7 @@ Lässt sich das Datum des Zugangs des Ersuchens beim ausländischen Staat nicht 
 
 Im Sicherungsverfahren und im selbständigen Verfahren wird die Verjährung durch die dem Satz 1 entsprechenden Handlungen zur Durchführung des Sicherungsverfahrens oder des selbständigen Verfahrens unterbrochen.
 
-(2) Die Verjährung ist bei einer schriftlichen Anordnung oder Entscheidung in dem Zeitpunkt unterbrochen, in dem die Anordnung oder Entscheidung unterzeichnet wird. Ist das Dokument nicht alsbald nach der Unterzeichnung in den Geschäftsgang gelangt, so ist der Zeitpunkt maßgebend, in dem es tatsächlich in den Geschäftsgang gegeben worden ist.
+(2) Die Verjährung ist bei einer schriftlichen Anordnung oder Entscheidung in dem Zeitpunkt unterbrochen, in dem die Anordnung oder Entscheidung abgefasst wird. Ist das Dokument nicht alsbald nach der Abfassung in den Geschäftsgang gelangt, so ist der Zeitpunkt maßgebend, in dem es tatsächlich in den Geschäftsgang gegeben worden ist.
 
 (3) Nach jeder Unterbrechung beginnt die Verjährung von neuem. Die Verfolgung ist jedoch spätestens verjährt, wenn seit dem in § 78a bezeichneten Zeitpunkt das Doppelte der gesetzlichen Verjährungsfrist und, wenn die Verjährungsfrist nach besonderen Gesetzen kürzer ist als drei Jahre, mindestens drei Jahre verstrichen sind. § 78b bleibt unberührt.
 
@@ -6787,7 +6787,7 @@ Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche Werkzeuge ve
 
 (4) Der Versuch, eine in Absatz 1 Satz 1 und Absatz 2 bezeichnete Vereinigung zu gründen, ist strafbar.
 
-(5) In besonders schweren Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter zu den Rädelsführern oder Hintermännern der Vereinigung gehört. In den Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Zweck oder die Tätigkeit der Vereinigung darauf gerichtet ist, in § 100b Absatz 2 Nummer 1 Buchstabe a, c, d, e und g bis m, Nummer 2 bis 5 und 7 der Strafprozessordnung genannte Straftaten mit Ausnahme der in § 100b Absatz 2 Nummer 1 Buchstabe g der Strafprozessordnung genannten Straftaten nach den §§ 239a und 239b des Strafgesetzbuches zu begehen.
+(5) In besonders schweren Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter zu den Rädelsführern oder Hintermännern der Vereinigung gehört. In den Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Zweck oder die Tätigkeit der Vereinigung darauf gerichtet ist, in § 100b Absatz 2 Nummer 1 Buchstabe a, c, d, e und g bis n, Nummer 2 bis 8 und 10 der Strafprozessordnung genannte Straftaten mit Ausnahme der in § 100b Absatz 2 Nummer 1 Buchstabe g der Strafprozessordnung genannten Straftaten nach den §§ 239a und 239b des Strafgesetzbuches zu begehen.
 
 (6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, von einer Bestrafung nach den Absätzen 1 und 4 absehen.
 
@@ -10855,7 +10855,7 @@ a) in einem Verwaltungsverfahren, einem Rechnungsprüfungsverfahren oder einem g
 
 b) in einem Strafverfahren wegen einer Steuerstraftat oder in einem Bußgeldverfahren wegen einer Steuerordnungswidrigkeit,
 
-c) aus anderem Anlass durch Mitteilung einer Finanzbehörde oder durch die gesetzlich vorgeschriebene Vorlage eines Steuerbescheids oder einer Bescheinigung über die bei der Besteuerung getroffenen Feststellungen
+c) im Rahmen einer Weiterverarbeitung nach § 29c Absatz 1 Satz 1 Nummer 4, 5 oder 6 der Abgabenordnung oder aus anderem dienstlichen Anlass, insbesondere durch Mitteilung einer Finanzbehörde oder durch die gesetzlich vorgeschriebene Vorlage eines Steuerbescheids oder einer Bescheinigung über die bei der Besteuerung getroffenen Feststellungen
 
 bekannt geworden sind, oder
 

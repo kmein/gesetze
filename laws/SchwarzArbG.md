@@ -819,9 +819,9 @@ Für die Auskunft an die betroffene Person gilt § 83 des Zehnten Buches Sozialg
 
 Die Daten im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit und die dazugehörigen Verfahrensakten in Papierform sind nach den Bestimmungen des § 489 der Strafprozessordnung, des § 49c des Gesetzes über Ordnungswidrigkeiten und des § 84 des Zehnten Buches Sozialgesetzbuch zu löschen und zu vernichten, spätestens jedoch
 
-1. ein Jahr nach Ablauf des Kalenderjahres, in dem eine Prüfung nach § 2 ohne Einleitung eines Ermittlungsverfahrens abgeschlossen worden ist,
+1. ein Jahr nach Ablauf des Kalenderjahres, in dem eine Prüfung nach § 2 ohne Einleitung eines Straf- oder Bußgeldverfahrens abgeschlossen worden ist,
 
-2. fünf Jahre nach Ablauf des Kalenderjahres, in dem ein Ermittlungsverfahren rechtskräftig abgeschlossen worden ist, oder
+2. fünf Jahre nach Ablauf des Kalenderjahres, in dem ein Straf- oder Bußgeldverfahren rechtskräftig abgeschlossen worden ist, oder
 
 3. zwei Jahre nach Ablauf des Kalenderjahres, in dem ein Strafverfahren abgeschlossen worden ist, wenn
 

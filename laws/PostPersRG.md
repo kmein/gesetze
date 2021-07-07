@@ -327,7 +327,7 @@ Umwandlung und Auflösung
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung oder auf Vorschlag des Vorstands, soweit die Eigenart des jeweiligen Dienstes oder die Aufrechterhaltung der Dienstleistungen des Postnachfolgeunternehmens es erfordern, durch Rechtsverordnung für die bei dem Postnachfolgeunternehmen beschäftigten Beamten
 
-1. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat in sinngemäßer Anwendung des § 26 Abs. 1 Nr. 1 des Bundesbeamtengesetzes die Laufbahnen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
+1. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat in sinngemäßer Anwendung des § 26 Absatz 1 des Bundesbeamtengesetzes die Laufbahnen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
 
 2. nach Maßgabe des § 87 Abs. 3 des Bundesbeamtengesetzes besondere Arbeitszeitvorschriften zu erlassen, Vorschriften über die regelmäßige wöchentliche Arbeitszeit jedoch nur im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat,
 
@@ -337,7 +337,7 @@ Umwandlung und Auflösung
 
 Die Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates.
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung oder auf Vorschlag des Vorstands durch Rechtsverordnung für die bei dem Postnachfolgeunternehmen beschäftigten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen in sinngemäßer Anwendung des § 26 Abs. 1 Nr. 2 des Bundesbeamtengesetzes zu erlassen. Absatz 3 Satz 2 gilt entsprechend.
+(4) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung oder auf Vorschlag des Vorstands durch Rechtsverordnung für die bei dem Postnachfolgeunternehmen beschäftigten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen in sinngemäßer Anwendung des § 26 Absatz 2 des Bundesbeamtengesetzes zu erlassen. Absatz 3 Satz 2 gilt entsprechend.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung oder auf Vorschlag des Vorstands durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nach Maßgabe des § 84 des Bundesbeamtengesetzes für die bei den Postnachfolgeunternehmen beschäftigten Beamten besondere Vorschriften zur Gewährung einer Jubiläumszuwendung als Entgelt, Sachbezug oder in Form anderer Vergünstigungen zu erlassen, die den von den Postnachfolgeunternehmen für die Arbeitnehmer in Betriebsvereinbarungen mit dem Gesamtbetriebsrat oder dem Konzernbetriebsrat oder in Tarifverträgen getroffenen Regelungen entsprechen.
 
