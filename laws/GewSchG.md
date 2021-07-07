@@ -3,7 +3,7 @@
  
 # § 1 – Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
 
-(1) Hat eine Person vorsätzlich den Körper, die Gesundheit oder die Freiheit einer anderen Person widerrechtlich verletzt, hat das Gericht auf Antrag der verletzten Person die zur Abwendung weiterer Verletzungen erforderlichen Maßnahmen zu treffen. Die Anordnungen sollen befristet werden; die Frist kann verlängert werden. Das Gericht kann insbesondere anordnen, dass der Täter es unterlässt,
+(1) Hat eine Person vorsätzlich den Körper, die Gesundheit, die Freiheit oder die sexuelle Selbstbestimmung einer anderen Person widerrechtlich verletzt, hat das Gericht auf Antrag der verletzten Person die zur Abwendung weiterer Verletzungen erforderlichen Maßnahmen zu treffen. Die Anordnungen sollen befristet werden; die Frist kann verlängert werden. Das Gericht kann insbesondere anordnen, dass der Täter es unterlässt,
 
 1. die Wohnung der verletzten Person zu betreten,
 
@@ -19,7 +19,7 @@ soweit dies nicht zur Wahrnehmung berechtigter Interessen erforderlich ist.
 
 (2) Absatz 1 gilt entsprechend, wenn
 
-1. eine Person einer anderen mit einer Verletzung des Lebens, des Körpers, der Gesundheit oder der Freiheit widerrechtlich gedroht hat oder
+1. eine Person einer anderen mit einer Verletzung des Lebens, des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung widerrechtlich gedroht hat oder
 
 2. eine Person widerrechtlich und vorsätzlich
 

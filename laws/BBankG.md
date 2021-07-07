@@ -212,7 +212,7 @@ Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11 Abs. 3 Ur
 
 1. dass für die Beamten der Deutschen Bundesbank von folgenden Vorschriften des Bundesbeamtenrechts abgewichen wird:
 
-a) von den §§ 19, 22 Abs. 6, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und von § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes;
+a) von den §§ 19, 22 Absatz 5, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs. 1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und von § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes;
 
 b) von den §§ 42 bis 49 des Bundesbesoldungsgesetzes in ihrer jeweils geltenden Fassung, soweit eine widerrufliche, nicht ruhegehaltfähige Bankzulage für eine Verwendung in der Zentrale bis zur Höhe von 9 vom Hundert des Grundgehalts und für eine Verwendung in den Hauptverwaltungen bis zur Höhe von 5 vom Hundert sowie in der Zentrale, den Hauptverwaltungen und Filialen eine Zuwendung für besondere Leistungen in Form einer Zulage oder einer Einmalzahlung gewährt werden;
 

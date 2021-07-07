@@ -505,6 +505,8 @@ Wird eine Steueranmeldung nach einem vom Bundesministerium der Finanzen im Einve
 
 (3) § 147a Absatz 2 der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung ist erstmals auf Besteuerungszeiträume anzuwenden, die nach dem 31. Dezember 2017 beginnen.
 
+(4) § 3 Absatz 4 Nummer 3, § 90 Absatz 2, § 147a Absatz 1 Satz 6, § 162 Absatz 2 Satz 3 und Absatz 4a sowie § 193 Absatz 2 Nummer 3 der Abgabenordnung in der ab 1. Juli 2021 geltenden Fassung sind erstmals auf Besteuerungszeiträume anzuwenden, die nach dem 31. Dezember 2021 beginnen.
+
 # § 23 – Verfolgungsverjährung
 
 § 376 der Abgabenordnung in der Fassung des Artikels 10 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht abgelaufenen Verjährungsfristen.

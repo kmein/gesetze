@@ -1062,7 +1062,7 @@ Abweichend von den Nummern 1 und 2 ist in die wirtschaftliche Einheit des belast
 
 # § 95 – Begriff des Betriebsvermögens
 
-(1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im Sinne des § 15 Abs. 1 und 2 des Einkommensteuergesetzes, die bei der steuerlichen Gewinnermittlung zum Betriebsvermögen gehören.
+(1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der steuerlichen Gewinnermittlung zum Betriebsvermögen gehören. Als Gewerbebetrieb im Sinne des Satzes 1 gilt auch der Betrieb von Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht nicht als juristische Person zu behandeln sind, wenn dem Grunde nach eine Tätigkeit im Sinne des § 15 Absatz 1 und Absatz 2 des Einkommensteuergesetzes vorliegt.
 
 (2) Als Gewerbebetrieb gilt unbeschadet des § 97 nicht die Land- und Forstwirtschaft, wenn sie den Hauptzweck des Unternehmens bildet.
 

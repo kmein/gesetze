@@ -7,7 +7,7 @@ Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straße
 
 # § 1
 
-(1) Abweichend von § 32 Absatz 1 Nummer 1 der Straßenverkehrs-Zulassungs-Ordnung darf bei land- oder forstwirtschaftlichen Zugmaschinen und ihren Anhängern die Breite über alles bis zu 3,00 m betragen, wenn sich die größere Breite allein aus der Ausrüstung dieser Fahrzeuge ergibt
+(1) Abweichend von § 32 Absatz 1 Nummer 1 der Straßenverkehrs-Zulassungs-Ordnung darf bei land- oder forstwirtschaftlichen Zugmaschinen und ihren Anhängern die Breite über alles bis zu 3,00 m betragen, wenn die Fahrten ausschließlich dem land- oder forstwirtschaftlichen Zweck gemäß § 6 Absatz 5 Fahrerlaubnis-Verordnung dienen und sich die größere Breite allein aus der Ausrüstung dieser Fahrzeuge ergibt
 
 1. mit Doppelbereifung oder
 

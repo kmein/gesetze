@@ -29,15 +29,17 @@ anordnen und wenn nötig mehrere solcher Anordnungen treffen.
 
 # § 19 – Erteilung und Wirksamkeit der Betriebserlaubnis
 
-(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr und digitale Infrastruktur und den Vorschriften der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) Nr. 1266/2009 (ABl. L 339 vom 22.12.2009, S. 3) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrichtlinien in ihrer jeweils geltenden Fassung erfüllt, die
+(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr und digitale Infrastruktur und den Vorschriften der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1; L 93 vom 9.4.2015, S. 103; L 246 vom 23.9.2015, S. 11), die durch die Verordnung (EU) 2020/1054 (ABl. L 249 vom 31.7.2020, S. 1) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrechtsakte und Einzelregelungen in ihrer jeweils geltenden Fassung erfüllt, die
 
-1. in Anhang IV der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 371/2010 (ABl. L 110 vom 1.5.2010, S. 1) geändert worden ist, oder
+1. in Anhang IV der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2019/543 (ABl. L 95 vom 4.4.2019, S. 1) geändert worden ist, in der bis zum Ablauf des 31. August 2020 geltenden Fassung, oder
 
-2. in Anhang II Kapitel B der Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG (ABl. L 171 vom 9.7.2003, S. 1), die zuletzt durch die Richtlinie 2010/62/EU (ABl. L 238 vom 9.9.2010, S. 7) geändert worden ist, oder
+2. in Anhang II der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1), oder
 
-3. in Anhang I der Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist,
+3. in Anhang I der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/1694 (ABl. L 381 vom 13.11.2020, S. 4) geändert worden ist, oder
 
-in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Richtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 2 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 3 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich. Gehört ein Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
+4. in Anhang II der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52; L 77 vom 23.3.2016, S. 65; L 64 vom 10.3.2017, S. 116), die zuletzt durch die Verordnung (EU) 2020/1694 (ABl. L 381 vom 13.11.2020, S. 4) geändert worden ist,
+
+in ihrer jeweils geltenden Fassung genannt sind. Die in Satz 2 genannten Einzelrechtsakte und Einzelregelungen sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich. Gehört ein Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
 
 (2) Die Betriebserlaubnis des Fahrzeugs bleibt, wenn sie nicht ausdrücklich entzogen wird, bis zu seiner endgültigen Außerbetriebsetzung wirksam. Sie erlischt, wenn Änderungen vorgenommen werden, durch die
 
@@ -47,7 +49,7 @@ in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anh
 
 3. das Abgas- oder Geräuschverhalten verschlechtert wird.
 
-Sie erlischt ferner für Fahrzeuge der Bundeswehr, für die § 20 Absatz 3b oder § 21 Absatz 6 angewendet worden ist, sobald die Fahrzeuge nicht mehr für die Bundeswehr zugelassen sind. Für die Erteilung einer neuen Betriebserlaubnis gilt § 21 entsprechend. Besteht Anlass zur Annahme, dass die Betriebserlaubnis erloschen ist, kann die Verwaltungsbehörde zur Vorbereitung einer Entscheidung
+Fahrzeughersteller, Importeure oder Gewerbetreibende dürfen keine Änderungen vornehmen oder vornehmen lassen, die nach Satz 2 zum Erlöschen der Betriebserlaubnis führen. Satz 3 gilt nicht, wenn unverzüglich eine Betriebserlaubnis nach § 21 für das Gesamtfahrzeug eingeholt wird. Sie erlischt ferner für Fahrzeuge der Bundeswehr, für die § 20 Absatz 3b oder § 21 Absatz 6 angewendet worden ist, sobald die Fahrzeuge nicht mehr für die Bundeswehr zugelassen sind. Für die Erteilung einer neuen Betriebserlaubnis gilt § 21 entsprechend. Besteht Anlass zur Annahme, dass die Betriebserlaubnis erloschen ist, kann die Verwaltungsbehörde zur Vorbereitung einer Entscheidung
 
 1. die Beibringung eines Gutachtens eines amtlich anerkannten Sachverständigen, Prüfers für den Kraftfahrzeugverkehr oder eines Prüfingenieurs darüber, ob das Fahrzeug den Vorschriften dieser Verordnung entspricht, oder
 
@@ -220,11 +222,11 @@ f) Verbindungseinrichtungen an Anbaugeräten, die an land- oder forstwirtschaftl
 
 10. Nebelscheinwerfer (§ 52 Absatz 1);
 
-11. Kennleuchten für blaues Blinklicht (§ 52 Absatz 3);
+11. Warnleuchten für blaues Blinklicht (§ 52 Absatz 3);
 
-11a. nach vorn wirkende Kennleuchten für rotes Blinklicht mit nur einer Hauptausstrahlrichtung (Anhaltesignal) (§ 52 Absatz 3a);
+11a. nach vorn wirkende Warnleuchten für rotes Blinklicht mit nur einer Hauptausstrahlrichtung (Anhaltesignal) (§ 52 Absatz 3a);
 
-12. Kennleuchten für gelbes Blinklicht (§ 52 Absatz 4);
+12. Warnleuchten für gelbes Blinklicht (§ 52 Absatz 4);
 
 12a. Rückfahrscheinwerfer (§ 52a);
 
@@ -276,7 +278,7 @@ f) Verbindungseinrichtungen an Anbaugeräten, die an land- oder forstwirtschaftl
 
 2. Einrichtungen – ausgenommen lichttechnische Einrichtungen für Fahrräder und Lichtquellen für Scheinwerfer –, die in den Geltungsbereich dieser Verordnung verbracht worden sind, an Fahrzeugen verwendet werden, die außerhalb des Geltungsbereichs dieser Verordnung gebaut worden sind, und in ihrer Wirkung etwa den nach Absatz 1 geprüften Einrichtungen gleicher Art entsprechen und als solche erkennbar sind,
 
-3. Einrichtungen, die an Fahrzeugen verwendet werden, deren Zulassung auf Grund eines Verwaltungsverfahrens erfolgt, in welchem ein Mitgliedstaat der Europäischen Union bestätigt, dass der Typ eines Fahrzeugs, eines Systems, eines Bauteils oder einer selbstständigen technischen Einheit die einschlägigen technischen Anforderungen der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. L 42 vom 23.2.1970, S. 1), die zuletzt durch die Richtlinie 2004/104/EG (ABl. L 337 vom 13.11.2004, S. 13) geändert worden ist, der Richtlinie 92/61/EWG des Rates vom 30. Juni 1992 über die Betriebserlaubnis für zweirädrige oder dreirädrige Kraftfahrzeuge (ABl. L 225 vom 10.8.1992, S. 72), die durch die Richtlinie 2000/7/EG (ABl. L 106 vom 3.5.2000, S. 1) geändert worden ist, oder der Richtlinie 2007/46/EG oder der Richtlinie 2002/24/EG oder der Richtlinie 2003/37/EG in ihrer jeweils geltenden Fassung oder einer Einzelrichtlinie erfüllt.
+3. Einrichtungen, die an Fahrzeugen verwendet werden, deren Zulassung auf Grund eines Verwaltungsverfahrens erfolgt, in welchem ein Mitgliedstaat der Europäischen Union bestätigt, dass der Typ eines Fahrzeugs, eines Systems, eines Bauteils oder einer selbstständigen technischen Einheit die einschlägigen technischen Anforderungen der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. L 42 vom 23.2.1970, S. 1), die zuletzt durch die Richtlinie 2004/104/EG (ABl. L 337 vom 13.11.2004, S. 13) geändert worden ist, der Richtlinie 92/61/EWG des Rates vom 30. Juni 1992 über die Betriebserlaubnis für zweirädrige oder dreirädrige Kraftfahrzeuge (ABl. L 225 vom 10.8.1992, S. 72), die durch die Richtlinie 2000/7/EG (ABl. L 106 vom 3.5.2000, S. 1) geändert worden ist, oder der Richtlinie 2007/46/EG oder der Richtlinie 2002/24/EG oder der Richtlinie 2003/37/EG oder der Verordnung (EU) Nr. 167/2013 oder der Verordnung (EU) Nr. 168/2013 oder der Verordnung (EU) 2018/858 in ihrer jeweils geltenden Fassung oder eines Einzelrechtsaktes oder einer Einzelregelung erfüllt.
 
 (4) Absatz 2 ist nicht anzuwenden auf Einrichtungen, für die eine Einzelgenehmigung im Sinne der Fahrzeugteileverordnung erteilt worden ist. Werden solche Einrichtungen im Verkehr verwendet, so ist die Urkunde über die Genehmigung mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen; dies gilt nicht, wenn die Genehmigung aus dem Fahrzeugschein, aus dem Nachweis nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung oder aus dem statt der Zulassungsbescheinigung Teil II mitgeführten Anhängerverzeichnis hervorgeht.
 
@@ -332,13 +334,7 @@ vermerkt werden.
 
 (9) Der für die Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen Verantwortliche hat für Hauptuntersuchungen einen Untersuchungsbericht und für Sicherheitsprüfungen ein Prüfprotokoll nach Maßgabe der Anlage VIII zu erstellen und dem Fahrzeughalter oder seinem Beauftragten auszuhändigen.
 
-(10) Der Halter hat den Untersuchungsbericht mindestens bis zur nächsten Hauptuntersuchung und das Prüfprotokoll mindestens bis zur nächsten Sicherheitsprüfung aufzubewahren. Der Halter oder sein Beauftragter hat den Untersuchungsbericht, bei Fahrzeugen nach Absatz 11 zusammen mit dem Prüfprotokoll und dem Prüfbuch, zuständigen Personen und der nach Landesrecht zuständigen Behörde auf deren Anforderung hin auszuhändigen. Kann der letzte Untersuchungsbericht oder das letzte Prüfprotokoll nicht ausgehändigt werden, hat der Halter auf seine Kosten Zweitschriften von den prüfenden Stellen zu beschaffen oder eine Hauptuntersuchung oder eine Sicherheitsprüfung durchführen zu lassen. Die Sätze 2 und 3 gelten nicht für den Hauptuntersuchungsbericht bei der Fahrzeugzulassung, wenn die Fälligkeit der nächsten Hauptuntersuchung für die Zulassungsbehörde aus einem anderen amtlichen Dokument ersichtlich ist.
-
-(11) Halter von Fahrzeugen, an denen nach Nummer 2.1 der Anlage VIII Sicherheitsprüfungen durchzuführen sind, haben ab dem Tag der Zulassung Prüfbücher nach einem im Verkehrsblatt mit Zustimmung der zuständigen obersten Landesbehörden bekannt gemachten Muster zu führen. Untersuchungsberichte und Prüfprotokolle müssen mindestens für die Dauer ihrer Aufbewahrungspflicht nach Absatz 10 in den Prüfbüchern abgeheftet werden.
-
-(12) Der für die Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen Verantwortliche hat ihre Durchführung unter Angabe des Datums, bei Kraftfahrzeugen zusätzlich unter Angabe des Kilometerstandes, im Prüfbuch einzutragen.
-
-(13) Prüfbücher sind bis zur endgültigen Außerbetriebsetzung des jeweiligen Fahrzeugs von dem Halter des Fahrzeugs aufzubewahren.
+(10) Der Halter hat den Untersuchungsbericht mindestens bis zur nächsten Hauptuntersuchung und das Prüfprotokoll mindestens bis zur nächsten Sicherheitsprüfung aufzubewahren. Der Halter oder sein Beauftragter hat den Untersuchungsbericht, bei Fahrzeugen, bei denen nach Nummer 2.1 Anlage VIII eine Sicherheitsprüfung durchzuführen ist, zusammen mit dem Prüfprotokoll, zuständigen Personen und der nach Landesrecht zuständigen Behörde auf deren Anforderung hin, auszuhändigen. Kann der letzte Untersuchungsbericht oder das letzte Prüfprotokoll nicht ausgehändigt werden, hat der Halter auf seine Kosten Zweitschriften von den prüfenden Stellen zu beschaffen oder eine Hauptuntersuchung oder eine Sicherheitsprüfung durchführen zu lassen. Die Sätze 2 und 3 gelten nicht für den Hauptuntersuchungsbericht bei der Fahrzeugzulassung, wenn die Fälligkeit der nächsten Hauptuntersuchung für die Zulassungsbehörde aus einem anderen amtlichen Dokument ersichtlich ist.
 
 (+++ § 29: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1 +++)
 
@@ -366,15 +362,15 @@ zu erfolgen.
 
 (3) Für die Verkehrs- oder Betriebssicherheit wichtige Fahrzeugteile, die besonders leicht abgenutzt oder beschädigt werden können, müssen einfach zu überprüfen und leicht auswechselbar sein.
 
-(4) Anstelle der Vorschriften dieser Verordnung können die Einzelrichtlinien in ihrer jeweils geltenden Fassung angewendet werden, die
+(4) Anstelle der Vorschriften dieser Verordnung können die Einzelrechtsakte und Einzelregelungen in ihrer jeweils geltenden Fassung angewendet werden, die
 
-1. in Anhang IV der Richtlinie 2007/46/EG oder
+1. in Anhang IV der Richtlinie 2007/46/EG oder in Anhang II der Verordnung (EU) 2018/858 oder
 
-2. in Anhang II Kapitel B der Richtlinie 2003/37/EG oder
+2. in Anhang  I der Verordnung (EU) Nr. 167/2013 oder
 
-3. in Anhang I der Richtlinie 2002/24/EG
+3. in Anhang  II der Verordnung (EU) Nr. 168/2013
 
-in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Typgenehmigungsrichtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 1 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 2 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich.
+in ihrer jeweils geltenden Fassung genannt sind. Die in Satz 1 genannten Einzelrechtsakte und Einzelregelungen sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten.
 
 # § 30a – Durch die Bauart bestimmte Höchstgeschwindigkeit sowie maximales Drehmoment und maximale Nutzleistung des Motors
 
@@ -491,7 +487,7 @@ Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der Nummer 3.
 
 <table style="border: none;"><colgroup><col style="width: 4%" /><col style="width: 77%" /><col style="width: 18%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1.</td><td>allgemein</td><td style="text-align: right;">2,55 m,<br />
 <br />
-</td></tr><tr class="even"><td style="text-align: left;">2.</td><td>bei land- oder forstwirtschaftlichen Arbeitsgeräten und bei Zugmaschinen und Sonderfahrzeugen mit auswechselbaren land- oder forstwirtschaftlichen Anbaugeräten sowie bei Fahrzeugen mit angebauten Geräten für die Straßenunterhaltung</td><td style="text-align: right;"><br />
+</td></tr><tr class="even"><td style="text-align: left;">2.</td><td>bei land- oder forstwirtschaftlichen Arbeitsgeräten, bei selbstfahrenden land- oder forstwirtschaftlichen Arbeitsmaschinen und bei Zugmaschinen und Sonderfahrzeugen mit auswechselbaren land- oder forstwirtschaftlichen Anbaugeräten, wenn sie für land- oder forstwirtschaftliche Zwecke gemäß §  6 Absatz  5 der Fahrerlaubnis-Verordnung eingesetzt werden</td><td style="text-align: right;"><br />
 <br />
 <br />
 3,00 m,<br />
@@ -503,40 +499,58 @@ Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der Nummer 3.
 <br />
 2,60 m,<br />
 <br />
-</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td>bei Personenkraftwagen</td><td style="text-align: right;">2,50 m.<br />
+</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td>bei Personenkraftwagen</td><td style="text-align: right;">2,50 m,<br />
 <br />
-</td></tr></tbody></table>
+</td></tr><tr class="even"><td style="text-align: left;">6.</td><td>bei Fahrzeugen mit angebauten Geräten für die Straßenunterhaltung</td><td style="text-align: right;">3,00 m.</td></tr></tbody></table>
 
-Die Fahrzeugbreite ist nach der ISO-Norm 612-1978, Definition Nummer 6.2 zu ermitteln. Abweichend von dieser Norm sind bei der Messung der Fahrzeugbreite die folgenden Einrichtungen nicht zu berücksichtigen:  
+  
+  
+Die Fahrzeugbreite ist nach der ISO-Norm 612-1978, Definition Nummer 6.2 zu ermitteln. Abweichend von dieser Norm sind bei der Messung der Fahrzeugbreite die folgenden Einrichtungen nicht zu berücksichtigen:
 
-1. Befestigungs- und Schutzeinrichtungen für Zollplomben,
+1. Einrichtungen für indirekte Sicht,
 
-2. Einrichtungen zur Sicherung der Plane und Schutzvorrichtungen hierfür,
+2. der am Aufstandspunkt auf der Fahrbahnoberfläche liegende Teil der Ausbauchung der Reifenwände,
 
-3. vorstehende flexible Teile eines Spritzschutzsystems im Sinne der Richtlinie 91/226/EWG des Rates vom 27. März 1991 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Spritzschutzsysteme an bestimmten Klassen von Kraftfahrzeugen und Kraftfahrzeuganhängern (ABl. L 103 vom 23.4.1991, S. 5), die zuletzt durch die Richtlinie 2010/19/EU (ABl. L 72 vom 20.3.2010, S. 17) geändert worden ist,
+3. Reifenschadensanzeiger,
 
-4. lichttechnische Einrichtungen,
+4. Reifendruckanzeiger,
 
-5. Ladebrücken in Fahrtstellung, Hubladebühnen und vergleichbare Einrichtungen in Fahrtstellung, sofern sie nicht mehr als 10 mm seitlich über das Fahrzeug hinausragen und die nach vorne oder nach hinten liegenden Ecken der Ladebrücken mit einem Radius von mindestens 5 mm abgerundet sind; die Kanten sind mit einem Radius von mindestens 2,5 mm abzurunden,
+5. lichttechnische Einrichtungen,
 
-6. Spiegel und andere Systeme für indirekte Sicht,
+6. von Fahrzeugen beförderte klimatisierte Container oder Wechselaufbauten in einem Bereich von bis zu 5 cm über der nach Absatz 1 Satz 1 Nummer 1 allgemein zulässigen Breite von 2,55 m,
 
-7. Reifenschadenanzeiger,
+7. Ladebrücken, Hubladebühnen und vergleichbare Einrichtungen in nicht betriebsbereitem Zustand, die höchstens 10 mm seitlich des Fahrzeugs hervorragen und deren nach vorne oder nach hinten liegende Ecken mit einem Radius von mindestens 5 mm und deren Kanten mit einem Radius von mindestens 2,5 mm abgerundet sind,
 
-8. Reifendruckanzeiger,
+8. einziehbare Spurführungseinrichtungen, die für die Verwendung in Spurbussystemen gedacht sind, in nicht eingezogener Stellung,
 
-9. ausziehbare oder ausklappbare Stufen in Fahrtstellung und
+9. einziehbare Stufen, sofern betriebsbereit und bei Fahrzeugstillstand,
 
-10. die über dem Aufstandspunkt befindliche Ausbauchung der Reifenwände.
+10. Sichthilfen und Ortungseinrichtungen einschließlich Radargeräten,
 
-Gemessen wird bei geschlossenen Türen und Fenstern und bei Geradeausstellung der Räder.
+11. aerodynamische Luftleiteinrichtungen und Ausrüstungen, die gemäß Verordnung (EU) Nr. 1230/2012 der Kommission vom 12. Dezember 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern bezüglich ihrer Massen und Abmessungen und zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates (ABl. L 353 vom 21.12.2012, S. 31; L 130 vom 15.5.2013, S. 60; L 28 vom 4.2.2016, S. 18), die zuletzt durch die Verordnung (EU) 2019/1892 vom 31. Oktober 2019 (ABl. L 291 vom 12.11.2019, S. 17) geändert worden ist, typgenehmigt sind, sofern die Fahrzeugbreite inklusive eines klimatisierten Aufbaus mit isolierten Wänden einschließlich der gemessenen vorstehenden Teile höchstens 2 600 mm beträgt, wobei die Einrichtungen und Ausrüstungen sowohl in der eingezogenen beziehungsweise eingeklappten Stellung als auch in der Gebrauchsstellung arretiert sein müssen,
+
+12. Befestigungs- und Schutzeinrichtungen für Zollplomben,
+
+13. Einrichtungen zur Sicherung der Plane und Schutzvorrichtungen hierfür, die bei einer Höhe von höchstens 2,0 m über dem Boden höchstens 20 mm und bei einer Höhe von mehr als 2,0 m über dem Boden höchstens 50 mm hervorragen dürfen und deren Kanten mit einem Radius von mindestens 2,5 mm abgerundet sind,
+
+14. vorstehende flexible Teile eines Spritzschutzsystems gemäß Verordnung (EU) Nr. 109/2011 der Kommission vom 27. Januar 2011 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung bestimmter Klassen von Kraftfahrzeugen und ihrer Anhänger hinsichtlich der Spritzschutzsysteme (ABl. L 34 vom 9.2.2011, S. 2; L 234 vom 10.9.2012, S. 48), die durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist,
+
+15. flexible Radabdeckungen, die nicht unter Nummer 14 fallen,
+
+16. Schneeketten,
+
+17. Sicherheitsgeländer auf Fahrzeugtransportern, die für den Transport von mindestens zwei Fahrzeugen ausgelegt und gebaut sind und deren Sicherheitsgeländer sich mindestens 2,0 m und höchstens 3,70 m über dem Boden befinden und höchstens 50 mm vom äußersten Punkt der Fahrzeugseite hinausragen und wenn die Fahrzeugbreite höchstens 2 650 mm beträgt,
+
+18. Antennen für die Kommunikation zwischen Fahrzeugen beziehungsweise zwischen Fahrzeugen und Infrastrukturen und
+
+19. Schläuche der Reifendrucküberwachungssysteme, sofern sie an den beiden Seiten des Fahrzeugs höchstens 70 mm über die größte Breite des Fahrzeugs hinausragen.
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 73%" /><col style="width: 27%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">(2) Bei Kraftfahrzeugen, Fahrzeugkombinationen und Anhängern einschließlich mitgeführter austauschbarer Ladungsträger (§ 42 Absatz 3) darf die höchstzulässige Höhe über alles folgendes Maß nicht überschreiten:</td><td style="text-align: right;">4,00 m.<br />
 </td></tr></tbody></table>
 
 Die Fahrzeughöhe ist nach der ISO-Norm 612-1978, Definition Nummer 6.3 zu ermitteln. Abweichend von dieser Norm sind bei der Messung der Fahrzeughöhe die folgenden Einrichtungen nicht zu berücksichtigen:  
 
-1. nachgiebige Antennen und
+1. Antennen für Rundfunk, Navigation, die Kommunikation zwischen Fahrzeugen beziehungsweise zwischen Fahrzeugen und Infrastrukturen und
 
 2. Scheren- oder Stangenstromabnehmer in gehobener Stellung. 
 Bei Fahrzeugen mit Achshubeinrichtung ist die Auswirkung dieser Einrichtung zu berücksichtigen.
@@ -561,6 +575,8 @@ Bei Fahrzeugen mit Achshubeinrichtung ist die Auswirkung dieser Einrichtung zu b
 18,75 m.<br />
 <br />
 </td></tr></tbody></table>
+
+Abweichend von Satz 1 Nummer 1 darf die höchstzulässige Länge von 12,00 m überschritten werden, wenn die Überschreitung ausschließlich durch das verlängerte Führerhaus gemäß Verordnung (EU) Nr. 1230/2012 erfolgt.
 
 (4) Bei Fahrzeugkombinationen einschließlich mitgeführter austauschbarer Ladungsträger und aller im Betrieb mitgeführter Ausrüstungsteile (§ 42 Absatz 3) darf die höchstzulässige Länge, unter Beachtung der Vorschriften in Absatz 3 Nummer 1, folgende Maße nicht überschreiten:  
   
@@ -680,42 +696,57 @@ Bei Fahrzeugen mit Aufbau – bei Lastkraftwagen jedoch ohne Führerhaus – gel
 <br />
 </td></tr></tbody></table>
 
+(4b) Abweichend von Absatz 4 darf die höchstzulässige Länge von Fahrzeugkombinationen überschritten werden, wenn die Überschreitung ausschließlich durch das verlängerte Führerhaus bei Kraftfahrzeugen nach Absatz 3 Satz 2 erfolgt.
+
+(4c) Bei Sattelkraftfahrzeugen nach § 34 Absatz 6 Nummer 6 mit einer höchstzulässigen Teillänge nach Absatz 4 Nummer 2 Buchstabe b darf die höchstzulässige Länge der Fahrzeugkombination und die höchstzulässige Teillänge nach Absatz 4 Nummer 2 Buchstabe a beim Transport eines Containers oder Wechselaufbaus von 45 Fuß Länge um 15 cm überschritten werden.
+
 (5) Die Länge oder Teillänge eines Einzelfahrzeugs oder einer Fahrzeugkombination – mit Ausnahme der in Absatz 7 genannten Fahrzeugkombinationen und deren Einzelfahrzeuge – ist die Länge, die bei voll nach vorn oder hinten ausgezogenen, ausgeschobenen oder ausgeklappten Ladestützen, Ladepritschen, Aufbauwänden oder Teilen davon einschließlich aller im Betrieb mitgeführter Ausrüstungsteile (§ 42 Absatz 3) gemessen wird; dabei müssen bei Fahrzeugkombinationen die Längsmittellinien des Kraftfahrzeugs und seines Anhängers bzw. seiner Anhänger eine gerade Linie bilden. Bei Fahrzeugkombinationen mit nicht selbsttätig längenveränderlichen Zugeinrichtungen ist dabei die Position zugrunde zu legen, in der § 32d (Kurvenlaufeigenschaften) ohne weiteres Tätigwerden des Fahrzeugführers oder anderer Personen erfüllt ist. Soweit selbsttätig längenveränderliche Zugeinrichtungen verwendet werden, müssen diese nach Beendigung der Kurvenfahrt die Ausgangslänge ohne Zeitverzug wiederherstellen.
 
-(6) Die Längen und Teillängen eines Einzelfahrzeugs oder einer Fahrzeugkombination sind nach der ISO-Norm 612-1978, Definition Nummer 6.1 zu ermitteln. Abweichend von dieser Norm sind bei der Messung der Länge oder Teillänge die folgenden Einrichtungen nicht zu berücksichtigen:  
-  
+(6) Die Längen und Teillängen eines Einzelfahrzeugs oder einer Fahrzeugkombination sind nach der ISO-Norm 612-1978, Definition Nummer 6.1 zu ermitteln. Abweichend von dieser Norm sind bei der Messung der Länge oder Teillänge die folgenden Einrichtungen nicht zu berücksichtigen:
 
-1. Wischer- und Waschereinrichtungen,
+1. Einrichtungen für indirekte Sicht,
 
-2. vordere und hintere Kennzeichenschilder,
+2. Wischer- und Wascheinrichtungen,
 
-3. Befestigungs- und Schutzeinrichtungen für Zollplomben,
+3. äußere Sonnenblenden,
 
-4. Einrichtungen zur Sicherung der Plane und ihre Schutzvorrichtungen,
+4. Frontschutzsysteme, die gemäß Verordnung (EG) Nr. 78/2009 des Europäischen Parlaments und des Rates vom 14. Januar 2009 über die Typgenehmigung von Kraftfahrzeugen im Hinblick auf den Schutz von Fußgängern und anderen ungeschützten Verkehrsteilnehmern, zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinien 2003/102/EG und 2005/66/EG (ABl. L 35 vom 4.2.2009, S. 1), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, typgenehmigt sind,
 
-5. lichttechnische Einrichtungen,
+5. Trittstufen und Handgriffe,
 
-6. Spiegel und andere Systeme für indirekte Sicht,
+6. mechanische Verbindungseinrichtungen an Kraftfahrzeugen,
 
-7. Sichthilfen,
+7. zusätzliche abnehmbare Verbindungseinrichtung an der Hinterseite eines Anhängers,
 
-8. Luftansaugleitungen,
+8. abnehmbare oder einklappbare Fahrradträger,
 
-9. Längsanschläge für Wechselaufbauten,
+9. Hubladebühnen, Ladebrücken und vergleichbare Einrichtungen in nicht betriebsbereitem Zustand, die höchstens 300 mm hervorragen und die Ladekapazität des Fahrzeugs nicht erhöhen,
 
-10. Trittstufen und Handgriffe,
+10. Sichthilfen und Ortungseinrichtungen einschließlich Radargeräten,
 
-11. Stoßfängergummis und ähnliche Vorrichtungen,
+11. elastische Stoßdämpfer und vergleichbare Einrichtungen,
 
-12. Hubladebühnen, Ladebrücken und vergleichbare Einrichtungen in Fahrtstellung,
+12. Befestigungs- und Schutzeinrichtungen für Zollplomben,
 
-13. Verbindungseinrichtungen bei Kraftfahrzeugen,
+13. Einrichtungen zur Sicherung der Plane und Schutzvorrichtungen hierfür,
 
-14. bei anderen Fahrzeugen als Sattelkraftfahrzeugen Kühl- und andere Nebenaggregate, die sich vor der Ladefläche befinden,
+14. Längsanschläge für Wechselaufbauten,
 
-15. Stangenstromabnehmer von Elektrofahrzeugen sowie
+15. Stangenstromabnehmer von Elektrofahrzeugen,
 
-16. äußere Sonnenblenden.   
+16. vordere oder hintere Kennzeichenschilder,
+
+17. zulässige Leuchten gemäß der Begriffsbestimmung von Nummer 2 der Regelung Nr. 48 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 135 vom 23.5.2008, S. 1),
+
+18. aerodynamische Luftleiteinrichtungen und Ausrüstungen, die gemäß Verordnung (EU) Nr. 1230/2012 typgenehmigt sind,
+
+19. Antennen für die Kommunikation zwischen Fahrzeugen beziehungsweise zwischen Fahrzeugen und Infrastrukturen,
+
+20. Luftansaugleitungen,
+
+21. Stoßfängergummis und ähnliche Vorrichtungen und
+
+22. bei anderen Fahrzeugen als Sattelkraftfahrzeugen Kühl- und andere Nebenaggregate, die sich vor der Ladefläche befinden.
 
 Dies gilt jedoch nur, wenn durch die genannten Einrichtungen die Ladefläche weder direkt noch indirekt verlängert wird. Einrichtungen, die bei Fahrzeugkombinationen hinten am Zugfahrzeug oder vorn am Anhänger angebracht sind, sind dagegen bei den Längen oder Teillängen von Fahrzeugkombinationen mit zu berücksichtigen; sie dürfen diesen Längen nicht zugeschlagen werden.
 
@@ -764,7 +795,7 @@ Länge:
 
 # § 32a – Mitführen von Anhängern
 
-Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförderung (Omnibusanhänger), mitgeführt werden. Es dürfen jedoch hinter Zugmaschinen zwei Anhänger mitgeführt werden, wenn die für Züge mit einem Anhänger zulässige Länge nicht überschritten wird. Hinter Sattelkraftfahrzeugen darf kein Anhänger mitgeführt werden. Hinter Kraftomnibussen darf nur ein lediglich für die Gepäckbeförderung bestimmter Anhänger mitgeführt werden.
+Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförderung (Omnibusanhänger), mitgeführt werden. Es dürfen jedoch hinter Zugmaschinen zwei Anhänger mitgeführt werden, wenn die für Züge mit einem Anhänger zulässige Länge nicht überschritten wird. Hinter Sattelkraftfahrzeugen darf kein Anhänger mitgeführt werden. Hinter Kraftomnibussen darf nur ein lediglich für die Gepäckbeförderung bestimmter Anhänger mitgeführt werden. Hinter selbstfahrenden Arbeitsmaschinen dürfen keine Anhänger zum Zwecke der Güter- oder Personenbeförderung mitgeführt werden, mit Ausnahme von Beförderungen, die ausschließlich der Zweckbestimmung der selbstfahrenden Arbeitsmaschine dienen.
 
 # § 32b – Unterfahrschutz
 
@@ -818,6 +849,22 @@ Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförde
 
 (3) Bei Kraftomnibussen ist bei stehendem Fahrzeug auf dem Boden eine Linie entlang der senkrechten Ebene zu ziehen, die die zur Außenseite des Kreises gerichtete Fahrzeugseite tangiert. Bei Kraftomnibussen, die als Gelenkfahrzeug ausgebildet sind, müssen die zwei starren Teile parallel zu dieser Ebene ausgerichtet sein. Fährt das Fahrzeug aus einer Geradeausbewegung in die in Absatz 1 beschriebene Kreisringfläche ein, so darf kein Teil mehr als 0,60 m über die senkrechte Ebene hinausragen.
 
+# § 32e – Schutzstrukturen an land- oder forstwirtschaftlichen Zugmaschinen
+
+(1) Land- oder forstwirtschaftliche Zugmaschinen müssen mit Überrollschutzstrukturen ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen, wenn sie hinsichtlich ihrer Merkmale den Fahrzeugen folgender Klassen gemäß Anlage XXIX entsprechen
+
+1. T1, T4.2,
+
+2. T2, T3 mit einer Leermasse größer als 400 kg,
+
+3. T4.3 mit einer Leermasse größer als 400 kg,
+
+4. C1, C2, C3, C4.1, C4.2 und C4.3 mit einer Leermasse größer als 600 kg.
+
+(2) Land- oder forstwirtschaftliche Zugmaschinen, die hinsichtlich ihrer Merkmale den Fahrzeugen der Klassen T1, T2, T3, T4.1, T4.2, T4.3, C1, C2, C3, C4.1, C4.2 und C4.3 gemäß Anlage XXIX entsprechen, können mit Schutzaufbauten gegen herabfallende Gegenstände ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
+
+(3) Zum Nachweis der Erfüllung der in Absatz 1 und 2 genannten Anforderungen werden Prüfberichte nach Artikel 9 der Durchführungsverordnung (EU) 2015/504 der Kommission vom 11. März 2015 zur Durchführung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Verwaltungsvorschriften für die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 85 vom 28.3.2015, S. 1; L 300 vom 8.11.2016, S. 26), die zuletzt durch die Durchführungsverordnung (EU) 2018/986 (ABl. L 182 vom 18.7.2018, S. 16) geändert worden ist, anerkannt. Alternativ werden auch Prüfberichte nach Maßgabe von Anhang II der Delegierten Verordnung (EU) Nr. 1322/2014 der Kommission vom 19. September 2014 zur Ergänzung und Änderung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Bauweise von Fahrzeugen und der allgemeinen Anforderungen im Zusammenhang mit der Typgenehmigung von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 364 vom 18.12.2014, S. 1; L 300 vom 8.11.2016, S. 29; L 209 vom 12.8.2017, S. 59; L 13 vom 18.1.2018, S. 27), die zuletzt durch die Delegierte Verordnung (EU) 2018/830 (ABl. L 140 vom 6.6.2018, S. 15) geändert worden ist, anerkannt.
+
 # § 33 – Schleppen von Fahrzeugen
 
 Fahrzeuge, die nach ihrer Bauart zum Betrieb als Kraftfahrzeug bestimmt sind, dürfen nicht als Anhänger betrieben werden.
@@ -829,7 +876,7 @@ Fahrzeuge, die nach ihrer Bauart zum Betrieb als Kraftfahrzeug bestimmt sind, d�
 (2) Die technisch zulässige Achslast ist die Achslast, die unter Berücksichtigung der Werkstoffbeanspruchung und nachstehender Vorschriften nicht überschritten werden darf:  
   
 
-<table style="border: none;"><colgroup><col style="width: 37%" /><col style="width: 63%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">§ 36</td><td>(Bereifung und Laufflächen);<br />
+<table width="100%" style="border: none;"><colgroup><col style="width: 37%" /><col style="width: 63%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">§ 36</td><td>(Bereifung und Laufflächen);<br />
 <br />
 </td></tr><tr class="even"><td style="text-align: left;">§ 41 Absatz 11</td><td>(Bremsen an einachsigen Anhängern und zweiachsigen Anhängern mit einem Achsabstand von weniger als 1,0 m).<br />
 <br />
@@ -838,7 +885,7 @@ Fahrzeuge, die nach ihrer Bauart zum Betrieb als Kraftfahrzeug bestimmt sind, d�
 Das technisch zulässige Gesamtgewicht ist das Gewicht, das unter Berücksichtigung der Werkstoffbeanspruchung und nachstehender Vorschriften nicht überschritten werden darf:  
   
 
-<table style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">§ 35</td><td style="text-align: left;">(Motorleistung);<br />
+<table width="100%" style="border: none;"><colgroup><col style="width: 49%" /><col style="width: 51%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">§ 35</td><td style="text-align: left;">(Motorleistung);<br />
 <br />
 </td></tr><tr class="even"><td style="text-align: left;">§ 41 Absatz 10 und 18</td><td style="text-align: left;">(Auflaufbremse);<br />
 <br />
@@ -910,7 +957,7 @@ Achsabstand 1,3 m bis weniger als 1,8 m
 
 d)
 
-Achsabstand 1,3 m bis weniger als 1,8 m, wenn die Antriebsachse mit Doppelbereifung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung ausgerüstet ist und dabei die höchstzulässige Achslast von 9,50 t je Achse nicht überschritten wird,
+Achsabstand 1,3 m bis weniger als 1,8 m, wenn die Antriebsachse mit Doppelbereifung und Luftfederung oder einer als gleichwertig anerkannten Federung nach Anlage XII ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung und Luftfederung ausgerüstet ist und dabei die höchstzulässige Achslast von 9,50 t je Achse nicht überschritten wird,
 
 19,00 t  
 
@@ -1084,6 +1131,8 @@ Kraftfahrzeuge mit mehr als vier Achsen unter Beachtung der Vorschriften in Numm
 
 (5a) Abweichend von Absatz 5 gelten für die zulässigen Gewichte von Kraftfahrzeugen nach § 30a Absatz 3 die im Anhang zu dieser Vorschrift genannten Bestimmungen.
 
+(5b) Abweichend von Absatz 5 Nummer 1 Buchstabe a sowie Nummer 2 Buchstabe a, b und d darf das zulässige Gesamtgewicht des jeweiligen Kraftfahrzeugs unter Beachtung der Achslasten um bis zu 1,00 t überschritten werden, wenn es sich um ein Kraftfahrzeug mit alternativem Antrieb im Sinne der Artikel 1 und 2 der Richtlinie 96/53/EG des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Straßenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr (ABl. L 235 vom 17.9.1996, S. 59), die zuletzt durch die Verordnung (EU) 2019/1242 (ABl. L 198 vom 25.7.2019, S. 202) geändert worden ist, handelt und wenn das Mehrgewicht durch den alternativen Antrieb begründet ist. Abweichend von Absatz 5 Nummer 1 Buchstabe a sowie Nummer 2 Buchstabe a, b und d darf das zulässige Gesamtgewicht des jeweiligen Kraftfahrzeugs unter Beachtung der Achslasten um bis zu 2,00 t überschritten werden, wenn es sich um ein emissionsfreies Fahrzeug im Sinne der Artikel 1 und 2 der Richtlinie 96/53/EG handelt und wenn das Mehrgewicht durch die emissionsfreie Technologie begründet ist.
+
 (6) Bei Fahrzeugkombinationen (Züge und Sattelkraftfahrzeuge) darf das zulässige Gesamtgewicht unter Beachtung der Vorschriften für Achslasten, Anhängelasten und Einzelfahrzeuge folgende Werte nicht übersteigen:  
   
 
@@ -1159,16 +1208,42 @@ mit Kraftfahrzeug nach Absatz 5 Nummer 2 Buchstabe b
 
 5\.
 
-Fahrzeugkombinationen mit mehr als vier Achsen
+Fahrzeugkombinationen mit mehr als vier Achsen oder mit Gleiskettenfahrzeugen
 
 40,00 t;  
   
 
 6\.
 
-Sattelkraftfahrzeug, bestehend aus dreiachsiger Sattelzugmaschine mit zwei- oder dreiachsigem Sattelanhänger, das im kombinierten Verkehr im Sinne der Richtlinie 92/106/EWG des Rates vom 7. Dezember 1992 über die Festlegung gemeinsamer Regeln für bestimmte Beförderungen im kombinierten Güterverkehr zwischen Mitgliedstaaten (ABl. L 368 vom 17.12.1992, S. 38), die durch die Richtlinie 2006/103/EG (ABl. L 363 vom 20.12.2006, S. 344) geändert worden ist, einen ISO-Container von 40 Fuß befördert
+Sattelkraftfahrzeug im Rahmen intermodaler Beförderungsvorgänge im Sinne des Artikels 2 der Richtlinie 96/53/EG, bestehend aus
+
+ 
+
+ 
+
+a)
+
+zweiachsigem Kraftfahrzeug mit dreiachsigem Sattelanhänger, das einen oder mehrere Container oder Wechselaufbauten mit einer maximalen Gesamtlänge von bis zu 45 Fuß befördert
+
+42,00 t,
+
+ 
+
+b)
+
+dreiachsigem Kraftfahrzeug mit zwei- oder dreiachsigem Sattelanhänger, das einen oder mehrere Container oder Wechselaufbauten mit einer maximalen Gesamtlänge von bis zu 45 Fuß befördert
 
 44,00 t.
+
+ 
+
+ 
+
+ 
+
+Bei intermodalen Beförderungsvorgängen mit Nutzung des Schiffsverkehrs gilt Satz 1 Nummer 6 nur, sofern die Streckenlänge des Vor- oder Nachlaufs auf der Straße nicht 150 km im Gebiet der Europäischen Union überschreitet.
+
+(6a) Abweichend von Absatz 6 darf das zulässige Gesamtgewicht der jeweiligen Fahrzeugkombinationen unter Beachtung der Achslasten um bis zu 1,00 t überschritten werden, wenn die Fahrzeugkombination ein Kraftfahrzeug gemäß Absatz 5b Satz 1 umfasst und wenn das Mehrgewicht durch den alternativen Antrieb begründet ist. Abweichend von Absatz 6 darf das zulässige Gesamtgewicht der jeweiligen Fahrzeugkombinationen unter Beachtung der Achslasten um bis zu 2,00 t überschritten werden, wenn die Fahrzeugkombination ein Kraftfahrzeug gemäß Absatz 5b Satz 2 umfasst und wenn das Mehrgewicht durch die emissionsfreie Technologie begründet ist.
 
 (7) Das nach Absatz 6 zulässige Gesamtgewicht errechnet sich
 
@@ -1193,7 +1268,7 @@ bei gleichen Werten um diesen Wert.
 Ergibt sich danach ein höherer Wert als  
   
 
-<table style="border: none;"><colgroup><col style="width: 14%" /><col style="width: 86%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">28,00 t</td><td style="text-align: left;">(Absatz 6 Nummer 1),<br />
+<table width="100%" style="border: none;"><colgroup><col style="width: 14%" /><col style="width: 86%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">28,00 t</td><td style="text-align: left;">(Absatz 6 Nummer 1),<br />
 <br />
 </td></tr><tr class="even"><td style="text-align: left;">36,00 t</td><td style="text-align: left;">(Absatz 6 Nummer 2 und 3 Buchstabe a und Nummer 4 Buchstabe b),<br />
 <br />
@@ -1247,7 +1322,7 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (4b) Der Fahrzeughalter hat der Zulassungsbehörde unverzüglich über den vorschriftsgemäßen Einbau oder die vorschriftsgemäße Änderung eines Rollstuhlstellplatzes, Rollstuhl-Rückhaltesystems, Rollstuhlnutzer-Rückhaltesystems sowie deren Verankerungen und Sicherheitsgurte ein Gutachten gemäß § 19 Absatz 2 Satz 5 Nummer 1 in Verbindung mit § 21 Absatz 1 oder einen Nachweis gemäß § 19 Absatz 3 Nummer 1 bis 4 vorzulegen. Auf der Grundlage des Gutachtens oder des Nachweises vermerkt die Zulassungsbehörde in der Zulassungsbescheinigung Teil I das Datum des Einbaus oder der letzten Änderung.
 
-(5) Die Absätze 2 bis 4 gelten für Kraftfahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h, die hinsichtlich des Insassenraumes und des Fahrgestells den Baumerkmalen der in Absatz 2 genannten Kraftfahrzeuge gleichzusetzen sind, entsprechend. Bei Wohnmobilen mit einer zulässigen Gesamtmasse von mehr als 2,5 t genügt für die hinteren Sitze die Ausrüstung mit Verankerungen zur Anbringung von Beckengurten und mit Beckengurten.
+(5) Die Absätze 2 bis 4 gelten für Kraftfahrzeuge, ausgenommen land- oder forstwirtschaftliche Zugmaschinen, mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h, die hinsichtlich des Insassenraumes und des Fahrgestells den Baumerkmalen der in Absatz 2 genannten Kraftfahrzeuge gleichzusetzen sind, entsprechend. Bei Wohnmobilen mit einer zulässigen Gesamtmasse von mehr als 2,5 t genügt für die hinteren Sitze die Ausrüstung mit Verankerungen zur Anbringung von Beckengurten und mit Beckengurten.
 
 (5a) Die Absätze 2 bis 4 gelten nur für diejenigen Sitze, die zum üblichen Gebrauch während der Fahrt bestimmt sind. Sitze, die nicht benutzt werden dürfen, während das Fahrzeug im öffentlichen Straßenverkehr betrieben wird, sind durch ein Bilderschriftzeichen oder ein Schild mit entsprechendem Text zu kennzeichnen.
 
@@ -1259,13 +1334,19 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (9) Krafträder, auf denen ein Beifahrer befördert wird, müssen mit einem Sitz für den Beifahrer ausgerüstet sein. Dies gilt nicht bei der Mitnahme eines Kindes unter sieben Jahren, wenn für das Kind ein besonderer Sitz vorhanden und durch Radverkleidungen oder gleich wirksame Einrichtungen dafür gesorgt ist, dass die Füße des Kindes nicht in die Speichen geraten können.
 
-(10) Sitze, ihre Lehnen und ihre Befestigungen in und an Fahrzeugen, die nicht unter die Vorschriften der Absätze 2 und 5 fallen, müssen sicheren Halt bieten und allen im Betrieb auftretenden Beanspruchungen standhalten. Klappbare Sitze und Rückenlehnen, hinter denen sich weitere Sitze befinden und die auch hinten nicht durch eine Wand von anderen Sitzen getrennt sind, müssen sich in normaler Fahr- oder Gebrauchsstellung selbsttätig verriegeln. Die Entriegelungseinrichtung muss von dem dahinterliegenden Sitz aus leicht zugänglich und bei geöffneter Tür auch von außen einfach zu betätigen sein. Rückenlehnen müssen so beschaffen sein, dass für die Insassen Verletzungen nicht zu erwarten sind.
+(10) Sitze, ihre Lehnen und ihre Befestigungen in und an Fahrzeugen, ausgenommen land- oder forstwirtschaftliche Zugmaschinen, die nicht unter die Vorschriften der Absätze 2 und 5 fallen, müssen sicheren Halt bieten und allen im Betrieb auftretenden Beanspruchungen standhalten. Klappbare Sitze und Rückenlehnen, hinter denen sich weitere Sitze befinden und die auch hinten nicht durch eine Wand von anderen Sitzen getrennt sind, müssen sich in normaler Fahr- oder Gebrauchsstellung selbsttätig verriegeln. Die Entriegelungseinrichtung muss von dem dahinterliegenden Sitz aus leicht zugänglich und bei geöffneter Tür auch von außen einfach zu betätigen sein. Rückenlehnen müssen so beschaffen sein, dass für die Insassen Verletzungen nicht zu erwarten sind.
 
 (11) Abweichend von den Absätzen 2 bis 5 gelten für Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen nach § 30a Absatz 3 die im Anhang zu dieser Vorschrift genannten Bestimmungen.
 
 (12) In Kraftfahrzeugen integrierte Rückhalteeinrichtungen für Kinder müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
 (13) Rückhalteeinrichtungen für Kinder bis zu einem Lebensalter von 15 Monaten, die der im Anhang zu dieser Vorschrift genannten Bestimmung entsprechen, dürfen entsprechend ihrem Verwendungszweck nur nach hinten oder seitlich gerichtet angebracht sein.
+
+(14) Land- oder forstwirtschaftliche Zugmaschinen, die gemäß § 32e Absatz 1 mit Überrollschutzstrukturen ausgerüstet sind, müssen entsprechend den im Anhang zu dieser Vorschrift genannten Bestimmungen mit Verankerungen zum Anbringen von Sicherheitsgurten und Sicherheitsgurten ausgerüstet sein.
+
+(15) Land- oder forstwirtschaftliche Zugmaschinen müssen mit einem Fahrersitz entsprechend den im Anhang zu dieser Vorschrift genannten Bestimmungen ausgerüstet sein. Sind ein oder mehrere Beifahrersitze vorhanden, so müssen diese den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
+
+(16) Zum Nachweis der Erfüllung der in Absatz 1 genannten Anforderungen werden Prüfberichte nach Artikel 9 der Durchführungsverordnung (EU) 2015/504 anerkannt. Alternativ werden auch Prüfberichte nach Maßgabe von Anhang II der Delegierten Verordnung (EU) Nr. 1322/2014 anerkannt.
 
 (+++ § 35a Abs. 4a iVm Abs. 4b: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1b Satz 2 +++)
 
@@ -1283,9 +1364,11 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (3) Während der Fahrt dürfen mit Flüssiggas (LPG) betriebene Heizanlagen in Kraftfahrzeugen und Anhängern, deren Verbrennungsheizgeräte und Gasversorgungssysteme ausschließlich für den Betrieb bei stillstehendem Fahrzeug bestimmt sind, nicht in Betrieb sein und die Ventile der Flüssiggasflaschen müssen geschlossen sein.
 
-# § 35d – Einrichtungen zum Auf- und Absteigen an Fahrzeugen
+# § 35d – Einrichtungen zum Auf- und Absteigen an Fahrzeugen und Betätigungsraum
 
-Die Beschaffenheit der Fahrzeuge muss sicheres Auf- und Absteigen ermöglichen.
+(1) Die Beschaffenheit der Fahrzeuge muss sicheres Auf- und Absteigen ermöglichen.
+
+(2) Der Betätigungsraum und der Zugang zum Fahrerplatz bei land- oder forstwirtschaftlichen Zugmaschinen muss den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
 # § 35e – Türen
 
@@ -1420,6 +1503,8 @@ e) für land- oder forstwirtschaftliche Arbeitsgeräte und für Fahrzeuge zur Be
 3. wenn die Laufrollen ungefedert sind und die Gleisketten außen vollständig aus Gummiband bestehen, die Geschwindigkeit auf 30 km/h
 
 beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen die Gleisketten außen vollständig aus Gummiband und sind die Laufrollen mit 40 mm hohen Gummireifen versehen oder besonders abgefedert, so ist die Geschwindigkeit nicht beschränkt.
+
+(11) Absatz 5 gilt entsprechend für solche Luftreifen, die die in Nummer 2.29 der Regelung Nummer 75 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Luftreifen für Krafträder und Mopeds (ABl. L 84 vom 30.3.2011, S. 46) beschriebenen Eigenschaften erfüllen (M+S Reifen), sofern diese Luftreifen an Fahrzeugen der Klasse L verwendet werden.
 
 # § 36a – Radabdeckungen, Ersatzräder
 
@@ -1607,7 +1692,11 @@ Unterlegkeile müssen sicher zu handhaben und ausreichend wirksam sein. Sie müs
 
 1. verflüssigtem Gas (LPG) oder
 
-2. komprimiertem Erdgas (CNG)
+2. komprimiertem Erdgas (CNG) oder
+
+3. Flüssigerdgas (LNG) oder
+
+4. Wasserstoff
 
 in ihrem Antriebssystem ausgestattet sind, müssen hinsichtlich des Einbaus dieser Ausrüstungen oder Bauteile nach den im Anhang zu dieser Vorschrift genannten Bestimmungen genehmigt sein.
 
@@ -1615,7 +1704,11 @@ in ihrem Antriebssystem ausgestattet sind, müssen hinsichtlich des Einbaus dies
 
 1. verflüssigtem Gas (LPG) oder
 
-2. komprimiertem Erdgas (CNG)
+2. komprimiertem Erdgas (CNG) oder
+
+3. Flüssigerdgas (LNG) oder
+
+4. Wasserstoff
 
 im Antriebssystem eines Kraftfahrzeugs müssen hinsichtlich ihrer Ausführung nach der im Anhang zu dieser Vorschrift genannten Bestimmung genehmigt sein.
 
@@ -1623,7 +1716,11 @@ im Antriebssystem eines Kraftfahrzeugs müssen hinsichtlich ihrer Ausführung na
 
 1. verflüssigtem Gas (LPG) oder
 
-2. komprimiertem Erdgas (CNG)
+2. komprimiertem Erdgas (CNG) oder
+
+3. Flüssigerdgas (LNG) oder
+
+4. Wasserstoff
 
 im Antriebssystem eines Kraftfahrzeugs müssen hinsichtlich ihrer Ausführung nach der im Anhang zu dieser Vorschrift genannten Bestimmung genehmigt sein. Ferner müssen für den Einbau die Bedingungen der im Anhang zu dieser Vorschrift genannten Bestimmung erfüllt werden.
 
@@ -1795,15 +1892,9 @@ entsprechen, gelten als schadstoffarm.
 
 stoßen im praktischen Fahrbetrieb weniger als 270 Milligramm Stickoxid pro Kilometer aus, wenn sie über ein Stickoxid-Minderungssystem mit hoher Minderungsleistung verfügen, das die in der Anlage XXII festgelegten Anforderungen erfüllt.
 
-(4) Personenkraftwagen sowie Wohnmobile mit einer zulässigen Gesamtmasse von nicht mehr als 2 800 kg mit Fremd- oder Selbstzündungsmotoren, die den Vorschriften der Anlage XXIV entsprechen, gelten als bedingt schadstoffarm. Eine erstmalige Anerkennung als bedingt schadstoffarm ist ab 1. November 1993 nicht mehr zulässig.
+(4) (weggefallen)
 
-(5) Personenkraftwagen und Wohnmobile mit Fremd- oder Selbstzündungsmotoren,
-
-1. die den Vorschriften der Anlage XXV oder
-
-2. mit einem Hubraum von weniger als 1 400 Kubikzentimetern, die der Richtlinie 70/220/EWG in der Fassung der Richtlinie 89/458/EWG des Rates vom 18. Juli 1989 (ABl. L 226 vom 3.8.1989, S. 1)
-
-entsprechen, gelten als schadstoffarm.
+(5) (weggefallen)
 
 (6) Fahrzeuge oder Motoren für Fahrzeuge, die in den Anwendungsbereich der Richtlinie 88/77/EWG des Rates vom 3. Dezember 1987 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. L 36 vom 9.2.1988, S. 33), die zuletzt durch die Richtlinie 2001/27/EG (ABl. L 107 vom 18.4.2001, S. 10) geändert worden ist, fallen, müssen hinsichtlich ihres Abgasverhaltens den Vorschriften dieser Richtlinie entsprechen.
 
@@ -1902,7 +1993,7 @@ gekennzeichnet sind. Satz 1 gilt nicht für
 
 # § 49a – Lichttechnische Einrichtungen, allgemeine Grundsätze
 
-(1) An Kraftfahrzeugen und ihren Anhängern dürfen nur die vorgeschriebenen und die für zulässig erklärten lichttechnischen Einrichtungen angebracht sein. Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel. Die lichttechnischen Einrichtungen müssen vorschriftsmäßig und fest angebracht sowie ständig betriebsfertig sein. Lichttechnische Einrichtungen an Kraftfahrzeugen und Anhängern, auf die sich die Richtlinie 76/756/EWG des Rates vom 27. Juli 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den Anbau der Beleuchtungs- und Lichtsignaleinrichtungen für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. L 262 vom 27.9.1976, S. 1), die zuletzt durch die Richtlinie 2008/89/EG (ABl. L 257 vom 24.9.2008, S. 14) geändert worden ist, bezieht, müssen den technischen Vorschriften der Absätze 2, 5 und 6 und der Anhänge 3 bis 11 der ECE-Regelung Nr. 48 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung der Fahrzeuge hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 323 vom 6.12.2011, S. 46) entsprechen.
+(1) An Kraftfahrzeugen und ihren Anhängern dürfen nur die vorgeschriebenen und die für zulässig erklärten lichttechnischen Einrichtungen angebracht sein. Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel sowie außenwirksame Anlagen zur variablen oder dynamischen optischen Anzeige, wenn diese selbst leuchten oder von hinten beleuchtet sind. Die lichttechnischen Einrichtungen müssen vorschriftsmäßig und fest angebracht sowie ständig betriebsfertig sein. Lichttechnische Einrichtungen an Kraftfahrzeugen und Anhängern im Anwendungsbereich der Regelung Nummer 48 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) (ABl. L 14 vom 16.1.2019, S. 42) müssen hinsichtlich des Anbaus und der Genehmigung lichttechnischer Einrichtungen der Regelung in der jeweils geltenden Fassung entsprechen.
 
 (2) Scheinwerfer dürfen abdeckbar oder versenkbar sein, wenn ihre ständige Betriebsfertigkeit dadurch nicht beeinträchtigt wird.
 
@@ -2040,7 +2131,7 @@ ausgerüstet sein.
 
 (5) Ringförmig zusammenhängende retroreflektierende weiße Streifen an den Reifen von Krafträdern und Krankenfahrstühlen sind zulässig.
 
-(6) Fahrzeuge mit einer Länge von mehr als 6,0 m – ausgenommen Fahrgestelle mit Führerhaus, land- oder forstwirtschaftliche Zug- und Arbeitsmaschinen und deren Anhänger sowie Arbeitsmaschinen und Stapler, die hinsichtlich der Baumerkmale ihres Fahrgestells nicht den Lastkraftwagen und Zugmaschinen gleichzusetzen sind, – müssen an den Längsseiten mit nach der Seite wirkenden gelben Seitenmarkierungsleuchten nach der Richtlinie 76/756/EWG ausgerüstet sein. Für andere mehrspurige Fahrzeuge ist die entsprechende Anbringung von Seitenmarkierungsleuchten zulässig. Ist die hintere Seitenmarkierungsleuchte mit der Schlussleuchte, Umrissleuchte, Nebelschlussleuchte oder Bremsleuchte zusammengebaut, kombiniert oder ineinandergebaut oder bildet sie den Teil einer gemeinsam leuchtenden Fläche mit dem Rückstrahler, so darf sie auch rot sein.
+(6) Fahrzeuge mit einer Länge von mehr als 6,0 m – ausgenommen Fahrgestelle mit Führerhaus, land- oder forstwirtschaftliche Zug- und Arbeitsmaschinen und deren Anhänger sowie Arbeitsmaschinen und Stapler, die hinsichtlich der Baumerkmale ihres Fahrgestells nicht den Lastkraftwagen und Zugmaschinen gleichzusetzen sind, – müssen an den Längsseiten mit nach der Seite wirkenden gelben Seitenmarkierungsleuchten nach der Richtlinie 76/756/EWG ausgerüstet sein. Für andere Fahrzeuge ist die entsprechende Anbringung von Seitenmarkierungsleuchten zulässig. Ist die hintere Seitenmarkierungsleuchte mit der Schlussleuchte, Umrissleuchte, Nebelschlussleuchte oder Bremsleuchte zusammengebaut, kombiniert oder ineinandergebaut oder bildet sie den Teil einer gemeinsam leuchtenden Fläche mit dem Rückstrahler, so darf sie auch rot sein.
 
 (7) Zusätzlich zu den nach Absatz 1 vorgeschriebenen Einrichtungen sind Fahrzeugkombinationen mit Nachläufern zum Transport von Langmaterial über ihre gesamte Länge (einschließlich Ladung) durch gelbes retroreflektierendes Material, das mindestens dem Typ 2 des Normblattes DIN 67 520 Teil 2, Ausgabe Juni 1994, entsprechen muss, seitlich kenntlich zu machen in Form von Streifen, Bändern, Schlauch- oder Kabelumhüllungen oder in ähnlicher Ausführung. Kurze Unterbrechungen, die durch die Art der Ladung oder die Konstruktion der Fahrzeuge bedingt sind, sind zulässig. Die Einrichtungen sind so tief anzubringen, wie es die konstruktive Beschaffenheit der Fahrzeuge und der Ladung zulässt. Abweichend von Absatz 6 sind an Nachläufern von Fahrzeugkombinationen zum Transport von Langmaterial an den Längsseiten soweit wie möglich vorne und hinten jeweils eine Seitenmarkierungsleuchte anzubringen.
 
@@ -2090,19 +2181,19 @@ An Fahrzeugen, die nicht breiter als 2 000 mm und nicht länger als 6 000 mm s
 
 (2) Ein Suchscheinwerfer für weißes Licht ist zulässig. Die Leistungsaufnahme darf nicht mehr als 35 W betragen. Er darf nur zugleich mit den Schlussleuchten und der Kennzeichenbeleuchtung einschaltbar sein.
 
-(3) Mit einer oder mehreren Kennleuchten für blaues Blinklicht – Rundumlicht – dürfen ausgerüstet sein:
+(3) Mit einer oder, wenn die horizontale und vertikale Sichtbarkeit (geometrische Sichtbarkeit) es für die Rundumwirkung erfordert, mehreren Warnleuchten für blaues Blinklicht dürfen ausgerüstet sein:
 
-1. Kraftfahrzeuge, die dem Vollzugsdienst der Polizei, der Militärpolizei, der Bundespolizei, des Zolldienstes, des Bundesamtes für Güterverkehr oder der Bundesstelle für Flugunfalluntersuchung dienen, insbesondere Kommando-, Streifen-, Mannschaftstransport-, Verkehrsunfall-, Mordkommissionsfahrzeuge,
+1. Kraftfahrzeuge sowie Anhänger, die dem Vollzugsdienst der Polizei, der Militärpolizei, der Bundespolizei, des Zolldienstes, des Bundesamtes für Güterverkehr oder der Bundesstelle für Flugunfalluntersuchung dienen, insbesondere Kommando-, Streifen-, Mannschaftstransport-, Verkehrsunfall-, Mordkommissionsfahrzeuge,
 
-2. Einsatz- und Kommando-Kraftfahrzeuge der Feuerwehren und der anderen Einheiten und Einrichtungen des Katastrophenschutzes und des Rettungsdienstes,
+2. Einsatz- und Kommando-Kraftfahrzeuge sowie Anhänger der Feuerwehren und der anderen Einheiten und Einrichtungen des Zivil- und Katastrophenschutzes und des Rettungsdienstes, falls sie als solche außen deutlich sichtbar gekennzeichnet sind,
 
-3. Kraftfahrzeuge, die nach dem Fahrzeugschein als Unfallhilfswagen öffentlicher Verkehrsbetriebe mit spurgeführten Fahrzeugen, einschließlich Oberleitungsomnibussen, anerkannt sind,
+3. Kraftfahrzeuge, die nach dem Fahrzeugschein als Unfallhilfswagen öffentlicher Verkehrsbetriebe mit spurgeführten Fahrzeugen, einschließlich Oberleitungsomnibussen, anerkannt sind, falls sie als solche außen deutlich sichtbar gekennzeichnet sind,
 
-4. Kraftfahrzeuge des Rettungsdienstes, die für Krankentransport oder Notfallrettung besonders eingerichtet und nach dem Fahrzeugschein als Krankenkraftwagen anerkannt sind.
+4. Kraftfahrzeuge des Rettungsdienstes, die für Krankentransport oder Notfallrettung besonders eingerichtet und nach dem Fahrzeugschein als Krankenkraftwagen anerkannt sind, falls sie als solche außen deutlich sichtbar gekennzeichnet sind.
 
-Kennleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung nach vorne oder nach hinten sind an Kraftfahrzeugen nach Satz 1 zulässig, jedoch bei mehrspurigen Fahrzeugen nur in Verbindung mit Kennleuchten für blaues Blinklicht – Rundumlicht –.
+Je ein Paar Warnleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung nach vorne oder nach hinten sind an Kraftfahrzeugen nach Satz 1 zulässig, jedoch bei mehrspurigen Fahrzeugen nur in Verbindung mit Warnleuchten für blaues Blinklicht.
 
-(3a) Kraftfahrzeuge des Vollzugsdienstes der Militärpolizei, der Polizeien des Bundes und der Länder sowie des Zollfahndungsdienstes dürfen folgende Kennleuchten und Signalgeber haben:
+(3a) Kraftfahrzeuge des Vollzugsdienstes der Militärpolizei, der Polizeien des Bundes und der Länder sowie des Zollfahndungsdienstes dürfen folgende Warnleuchten und Signalgeber haben:
 
 1. Anhaltesignal,
 
@@ -2110,17 +2201,19 @@ Kennleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung nach vorne o
 
 3. nach hinten wirkende Signalgeber für rote oder gelbe Lichtschrift.
 
-Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen mit einem nach hinten wirkenden Signalgeber für rote Lichtschrift ausgerüstet sein. Die Kennleuchten für rotes Blinklicht und blaues Blinklicht dürfen nicht gemeinsam betrieben werden können. Ergänzend zu den Signalgebern dürfen fluoreszierende oder retroreflektierende Folien verwendet werden.
+Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen mit einem nach hinten wirkenden Signalgeber für rote Lichtschrift ausgerüstet sein. Die Warnleuchten für rotes Blinklicht und blaues Blinklicht dürfen nicht gemeinsam betrieben werden können. Ergänzend zu den Signalgebern dürfen fluoreszierende oder retroreflektierende Folien verwendet werden.
 
-(4) Mit einer oder, wenn die horizontale und vertikale Sichtbarkeit (geometrische Sichtbarkeit) es erfordert, mehreren Kennleuchten für gelbes Blinklicht – Rundumlicht – dürfen ausgerüstet sein:
+(4) Mit einer oder, wenn die horizontale und vertikale Sichtbarkeit es erfordert, mehreren Warnleuchten für gelbes Blinklicht – Rundumlicht – dürfen ausgerüstet sein:
 
 1. Fahrzeuge, die dem Bau, der Unterhaltung oder Reinigung von Straßen oder von Anlagen im Straßenraum oder die der Müllabfuhr dienen und durch rot-weiße Warnmarkierungen (Sicherheitskennzeichnung), die dem Normblatt DIN 30 710, Ausgabe März 1990, entsprechen müssen, gekennzeichnet sind,
 
 2. Kraftfahrzeuge, die nach ihrer Bauart oder Einrichtung zur Pannenhilfe geeignet und nach dem Fahrzeugschein als Pannenhilfsfahrzeug anerkannt sind. Die Zulassungsbehörde kann zur Vorbereitung ihrer Entscheidung die Beibringung des Gutachtens eines amtlich anerkannten Sachverständigen oder Prüfers für den Kraftfahrzeugverkehr darüber anordnen, ob das Kraftfahrzeug nach seiner Bauart oder Einrichtung zur Pannenhilfe geeignet ist. Die Anerkennung ist nur zulässig für Fahrzeuge von Betrieben, die gewerblich oder innerbetrieblich Pannenhilfe leisten, von Automobilclubs und von Verbänden des Verkehrsgewerbes und der Autoversicherer,
 
-3. Fahrzeuge mit ungewöhnlicher Breite oder Länge oder mit ungewöhnlich breiter oder langer Ladung, sofern die genehmigende Behörde die Führung der Kennleuchten vorgeschrieben hat,
+3. Fahrzeuge mit ungewöhnlicher Breite oder Länge oder mit ungewöhnlich breiter oder langer Ladung, sofern die genehmigende Behörde die Führung der Warnleuchten vorgeschrieben hat,
 
-4. Fahrzeuge, die aufgrund ihrer Ausrüstung als Schwer- oder Großraumtransport-Begleitfahrzeuge ausgerüstet und nach dem Fahrzeugschein anerkannt sind. Andere Begleitfahrzeuge dürfen mit abnehmbaren Kennleuchten ausgerüstet sein, sofern die genehmigende Behörde die Führung der Kennleuchten vorgeschrieben hat.
+4. Fahrzeuge, die aufgrund ihrer Ausrüstung als Schwer- oder Großraumtransport-Begleitfahrzeuge ausgerüstet und nach dem Fahrzeugschein anerkannt sind. Andere Begleitfahrzeuge dürfen mit abnehmbaren Warnleuchten ausgerüstet sein, sofern die genehmigende Behörde die Führung der Warnleuchten vorgeschrieben hat,
+
+5. Fahrzeuge der Bodendienste von Flugplätzen oder der behördlichen Luftaufsicht.
 
 (5) Krankenkraftwagen (Absatz 3 Nummer 4) dürfen mit einer nur nach vorn wirkenden besonderen Beleuchtungseinrichtung (zum Beispiel Rot-Kreuz-Leuchte) ausgerüstet sein, um den Verwendungszweck des Fahrzeugs kenntlich zu machen. Die Beleuchtungseinrichtung darf keine Scheinwerferwirkung haben.
 
@@ -2134,9 +2227,9 @@ Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen m
 
 (10) Kraftfahrzeuge nach Absatz 3 Nummer 4 dürfen mit horizontal umlaufenden Streifen in leuchtrot nach DIN 6164, Teil 1, Ausgabe Februar 1980, ausgerüstet sein.
 
-(11) Kraftfahrzeuge nach Absatz 3 Satz 1 Nummer 1, 2 und 4 dürfen zusätzlich zu Kennleuchten für blaues Blinklicht – Rundumlicht – und Kennleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung nach vorne mit einem Heckwarnsystem bestehend aus höchstens drei Paar horizontal nach hinten wirkenden Leuchten für gelbes Blinklicht ausgerüstet sein. Die Kennleuchten für gelbes Blinklicht mit einer Hauptabstrahlrichtung müssen
+(11) Kraftfahrzeuge nach Absatz 3 Satz 1 Nummer 1, 2 und 4 dürfen zusätzlich zu Warnleuchten für blaues Blinklicht – Rundumlicht – und Warnleuchten für blaues Blinklicht mit einer Hauptabstrahlrichtung nach vorne mit einem Heckwarnsystem bestehend aus höchstens drei Paar horizontal nach hinten wirkenden Leuchten für gelbes Blinklicht ausgerüstet sein. Die Warnleuchten für gelbes Blinklicht mit einer Hauptabstrahlrichtung müssen
 
-1. nach der Kategorie X der Nummer 1.1.2 der ECE-Regelung Nr. 65 über einheitliche Bedingungen für die Genehmigung von Kennleuchten für Blinklicht für Kraftfahrzeuge und ihre Anhänger (BGBl. 1994 II S. 108) bauartgenehmigt sein,
+1. nach der Kategorie X der Nummer 1.1.2 der ECE-Regelung Nr. 65 über einheitliche Bedingungen für die Genehmigung von Warnleuchten für Blinklicht für Kraftfahrzeuge und ihre Anhänger (BGBl. 1994 II S. 108) bauartgenehmigt sein,
 
 2. synchron blinken und
 
@@ -2218,7 +2311,7 @@ mit Rückstrahlern ausgerüstet sein, wie sie nach Absatz 4 Satz 1 und 8 für Kr
 
 3. Fahrzeugen der Klassen M<sub>2</sub>, M<sub>3</sub>, O<sub>2</sub> und Fahrgestellen mit Fahrerhaus, unvollständigen Fahrzeugen, Sattelzugmaschinen und Fahrzeuge der Klasse N<sub>2</sub> mit einer Höchstmasse von nicht mehr als 7,5 t sowie Fahrzeuge der Klassen N, O<sub>3</sub> und O<sub>4</sub> mit einer Breite von nicht mehr als 2 100 mm oder mit einer Länge von nicht mehr als 6 000 mm mit weißen oder gelben auffälligen Markierungen an der Seite, mit roten oder gelben auffälligen Markierungen hinten, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen, und
 
-4. Kraftfahrzeugen, die nach § 52 Absatz 3 mit Kennleuchten für blaues Blinklicht in Form eines Rundumlichts ausgerüstet sind, mit retroreflektierenden Materialien, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen,
+4. Kraftfahrzeugen, die nach § 52 Absatz 3 mit Warnleuchten für blaues Blinklicht in Form eines Rundumlichts ausgerüstet sind, mit retroreflektierenden Materialien, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen,
 
 ist zulässig. An Fahrzeugen der Klassen N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> und O<sub>4</sub>, die in Satz 1 Nummer 3 nicht genannt sind, müssen seitlich weiße oder gelbe, hinten rote oder gelbe auffällige Markierungen, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen, angebracht werden. Bei den in Satz 1 Nummer 3 und Satz 2 genannten Fahrzeugen ist in Verbindung mit der Konturmarkierung Werbung auch aus andersfarbigen retroreflektierenden Materialien auf den Seitenflächen der Fahrzeuge zulässig, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
@@ -2261,7 +2354,7 @@ eine Warnweste.
 
 (4) Ist beim Mitführen von Anbaugeräten eine Beeinträchtigung der Wirkung lichttechnischer Einrichtungen nicht vermeidbar, so müssen während der Dauer der Beeinträchtigung zusätzlich angebrachte lichttechnische Einrichtungen (zum Beispiel auf einem Leuchtenträger nach § 49a Absatz 9 oder 10) gleicher Art ihre Funktion übernehmen.
 
-(5) Hubladebühnen und ähnliche Einrichtungen, außer solchen an Kraftomnibussen, müssen während ihres Betriebs durch zwei Blinkleuchten für gelbes Licht mit einer Lichtstärke von nicht weniger als 50 cd und nicht mehr als 200 cd und mit gut sichtbaren rot-weißen Warnmarkierungen kenntlich gemacht werden. Die Blinkleuchten und die Warnmarkierungen müssen – bezogen auf die Arbeitsstellung der Einrichtung – möglichst am hinteren Ende und soweit außen wie möglich angebracht sein. Die Blinkleuchten müssen in Arbeitsstellung der Einrichtung mindestens in den Winkelbereichen sichtbar sein, die für hinten an Fahrzeugen angeordnete Fahrtrichtungsanzeiger in § 49a Absatz 1 Satz 4 gefordert werden. Die Blinkleuchten müssen eine flache Abböschung haben. Die Blinkleuchten müssen während des Betriebs der Einrichtung selbsttätig und unabhängig von der übrigen Fahrzeugbeleuchtung Warnblinklicht abstrahlen. Die rot-weißen Warnmarkierungen müssen retroreflektierend sein und brauchen nur nach hinten zu wirken. Bei Fahrzeugen, bei denen fest angebaute Blinkleuchten mit dem Verwendungszweck oder der Bauweise der Hubladebühne unvereinbar sind und bei Fahrzeugen, bei denen eine Nachrüstung mit zumutbarem Aufwand nicht möglich ist, muss mindestens eine tragbare Blinkleuchte als Sicherungseinrichtung von Hubladebühnen oder ähnlichen Einrichtungen mitgeführt, aufgestellt und zweckentsprechend betrieben werden.
+(5) Hubladebühnen und ähnliche Einrichtungen, außer solchen an Kraftomnibussen, müssen während ihres Betriebs durch zwei Blinkleuchten für gelbes Licht mit einer Lichtstärke von nicht weniger als 50 cd und nicht mehr als 500 cd und mit gut sichtbaren rot-weißen Warnmarkierungen kenntlich gemacht werden. Die Blinkleuchten und die Warnmarkierungen müssen – bezogen auf die Arbeitsstellung der Einrichtung – möglichst am hinteren Ende und soweit außen wie möglich angebracht sein. Die Blinkleuchten müssen in Arbeitsstellung der Einrichtung mindestens in den Winkelbereichen nach oben, hinten und zur Seite sichtbar sein, die für hinten an Fahrzeugen angeordnete Fahrtrichtungsanzeiger in § 49a Absatz 1 Satz 4 gefordert werden. Die Blinkleuchten müssen eine flache Abböschung haben. Die Blinkleuchten müssen während des Betriebs der Einrichtung selbsttätig und unabhängig von der übrigen Fahrzeugbeleuchtung Warnblinklicht abstrahlen. Die rot-weißen Warnmarkierungen müssen retroreflektierend sein und brauchen nur nach hinten zu wirken. Bei Fahrzeugen, bei denen fest angebaute Blinkleuchten mit dem Verwendungszweck oder der Bauweise der Hubladebühne unvereinbar sind und bei Fahrzeugen, bei denen eine Nachrüstung mit zumutbarem Aufwand nicht möglich ist, muss mindestens eine tragbare Blinkleuchte als Sicherungseinrichtung von Hubladebühnen oder ähnlichen Einrichtungen mitgeführt, aufgestellt und zweckentsprechend betrieben werden.
 
 # § 53c – Tarnleuchten
 
@@ -2353,11 +2446,13 @@ In Kraftomnibussen muss außer den nach § 53a Absatz 1 erforderlichen Warneinri
 
 (2a) Abweichend von den Absätzen 1 und 2 müssen Kraftfahrzeuge nach § 30a Absatz 3 Einrichtungen für Schallzeichen haben, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-(3) Kraftfahrzeuge, die auf Grund des § 52 Absatz 3 Kennleuchten für blaues Blinklicht führen, müssen mit mindestens einer Warneinrichtung mit einer Folge von Klängen verschiedener Grundfrequenz (Einsatzhorn) ausgerüstet sein. Ist mehr als ein Einsatzhorn angebracht, so muss sichergestellt sein, dass jeweils nur eines betätigt werden kann.
+(3) Kraftfahrzeuge, die auf Grund des § 52 Absatz 3 Warnleuchten für blaues Blinklicht führen, müssen mit mindestens einer Warneinrichtung mit einer Folge von Klängen verschiedener Grundfrequenz (Einsatzhorn) ausgerüstet sein. Ist mehr als ein Einsatzhorn angebracht, so muss sichergestellt sein, dass jeweils nur eines betätigt werden kann.
 
 (3a) Kraftfahrzeuge, die auf Grund des § 52 Absatz 3a mit Anhaltesignal und mit Signalgebern für rote Lichtschrift ausgerüstet sind, dürfen neben der in Absatz 3 vorgeschriebenen Warneinrichtung, dem Einsatzhorn, mit einer zusätzlichen Warneinrichtung, dem Anhaltehorn, ausgerüstet sein. Es muss sichergestellt sein, dass das Anhaltehorn nur in Verbindung mit dem Anhaltesignal und dem Signalgeber für rote Lichtschrift aktiviert werden kann. Es darf nicht möglich sein, die Warneinrichtungen gemeinsam zu betreiben.
 
-(4) Ausschließlich die in den Absätzen 1 bis 3a beschriebenen Einrichtungen für Schallzeichen sowie Sirenen dürfen an Kraftfahrzeugen, mit Ausnahme von Kraftfahrzeugen nach Absatz 3a Satz 1, angebracht sein. Nur die in Satz 1 der Absätze 3 und 3a genannten Kraftfahrzeuge dürfen mit dem Einsatzhorn oder zusätzlich mit dem Anhaltehorn ausgerüstet sein.
+(3b) Kraftfahrzeuge im Anwendungsbereich der Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG (ABl. L 158 vom 27.5.2014, S. 131; L 360, S. 111), die zuletzt durch die Delegierte Verordnung (EU) 2019/839 (ABl. L 138 vom 24.5.2019, S. 70) geändert worden ist, die über ein akustisches Fahrzeug-Warnsystem (Acoustic Vehicle Alerting System – AVAS) verfügen dürfen, das den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht, gelten auch im Falle einer Nachrüstung als übereinstimmend mit diesem Paragraphen.
+
+(4) Ausschließlich die in den Absätzen 1 bis 3b beschriebenen Einrichtungen für Schallzeichen sowie Sirenen dürfen an Kraftfahrzeugen, mit Ausnahme von Kraftfahrzeugen nach Absatz 3a Satz 1, angebracht sein. Nur die in Satz 1 der Absätze 3 und 3a genannten Kraftfahrzeuge dürfen mit dem Einsatzhorn oder zusätzlich mit dem Anhaltehorn ausgerüstet sein.
 
 (5) Absatz 1 gilt nicht für eisenbereifte Kraftfahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 8 km/h und für einachsige Zug- oder Arbeitsmaschinen, die von Fußgängern an Holmen geführt werden.
 
@@ -2405,25 +2500,7 @@ die vorgeschriebenen sowie vorhandenen gemäß Anhang III Nummer 2.1.1 der im An
 
 # § 57a – Fahrtschreiber und Kontrollgerät
 
-(1) Mit einem nach dem Mess- und Eichgesetz in Verkehr gebrachten Fahrtschreiber sind auszurüsten
-
-1. Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von 7,5 t und darüber,
-
-2. Zugmaschinen mit einer Motorleistung von 40 kW und darüber, die nicht ausschließlich für land- oder forstwirtschaftliche Zwecke eingesetzt werden,
-
-3. zur Beförderung von Personen bestimmte Kraftfahrzeuge mit mehr als acht Fahrgastplätzen.
-
-Dies gilt nicht für
-
-1. Kraftfahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h,
-
-2. Kraftfahrzeuge der Bundeswehr, es sei denn, dass es sich um Kraftfahrzeuge der Bundeswehrverwaltung oder um Kraftomnibusse handelt,
-
-3. Kraftfahrzeuge der Feuerwehren und der anderen Einheiten und Einrichtungen des Katastrophenschutzes,
-
-4. Fahrzeuge, die in § 18 Absatz 1 der Fahrpersonalverordnung vom 27. Juni 2005 (BGBl. I S. 1882), die zuletzt durch die Artikel 1, 4 und 5 der Verordnung vom 22. Januar 2008 (BGBl. I S. 54) geändert worden ist, genannt sind,
-
-5. Fahrzeuge, die in Artikel 3 Buchstabe d bis g und i der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 (ABl. L 102 vom 11.4.2006, S. 1), die durch die Verordnung (EG) Nr. 1073/2009 (ABl. L 300 vom 14.11.2009, S. 88) geändert worden ist, genannt sind.
+(1) (weggefallen)
 
 (1a) Der Fahrtschreiber sowie alle lösbaren Verbindungen der Übertragungseinrichtungen müssen plombiert sein.
 
@@ -2435,15 +2512,23 @@ Dies gilt nicht für
 
 (+++ § 57a Abs. 1: Zur Anwendung vgl. § 72 Abs. 2 Nr. 6a F. 10.5.2012 +++)
 
-# § 57b – Prüfung der Fahrtschreiber und Kontrollgeräte
+# § 57b – Prüfung der Fahrtenschreiber und Kontrollgeräte
 
-(1) Halter, deren Kraftfahrzeuge mit einem Fahrtschreiber nach § 57a Absatz 1 oder mit einem Kontrollgerät nach der Verordnung (EWG) Nr. 3821/85 ausgerüstet sein müssen, haben auf ihre Kosten die Fahrtschreiber oder die Kontrollgeräte nach Maßgabe des Absatzes 2 und der Anlagen XVIII und XVIIIa darauf prüfen zu lassen, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise vorschriftsmäßig sind. Bestehen keine Bedenken gegen die Vorschriftsmäßigkeit, so hat der Hersteller oder die Werkstatt auf oder neben dem Fahrtschreiber oder dem Kontrollgerät gut sichtbar und dauerhaft ein Einbauschild anzubringen. Das Einbauschild muss plombiert sein, es sei denn, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt. Der Halter hat dafür zu sorgen, dass das Einbauschild die vorgeschriebenen Angaben enthält, plombiert sowie vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist.
+(1) Halter, deren Kraftfahrzeuge mit einem Fahrtenschreiber nach der Verordnung (EU) Nr. 165/2014 ausgerüstet sein müssen, haben auf ihre Kosten die Fahrtenschreiber nach Maßgabe des Absatzes 2 und der Anlagen XVIII und XVIIIa darauf prüfen zu lassen, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise vorschriftsmäßig sind. Bestehen keine Bedenken gegen die Vorschriftsmäßigkeit, so hat der Hersteller oder die Werkstatt auf oder neben dem Fahrtenschreiber oder an der B-Säule der Fahrerseite gut sichtbar und dauerhaft ein Einbauschild anzubringen. Bei Fahrzeugen ohne B-Säule ist, sofern möglich, das Einbauschild am Türrahmen der Fahrerseite des Fahrzeugs gut sichtbar und dauerhaft anzubringen und muss in jedem Fall deutlich sichtbar sein. Das Einbauschild muss plombiert sein, es sei denn, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt. Der Halter hat dafür zu sorgen, dass das Einbauschild die vorgeschriebenen Angaben enthält, plombiert sowie vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist.
 
-(2) Die Prüfungen sind mindestens einmal innerhalb von zwei Jahren seit der letzten Prüfung durchzuführen. Dabei endet die Frist für die Überprüfung erst mit Ablauf des Monats, in dem vor zwei Jahren die letzte Überprüfung erfolgte. Außerdem müssen die Prüfungen nach jedem Einbau, jeder Reparatur der Fahrtschreiber- oder Kontrollgeräteanlage, jeder Änderung der Wegdrehzahl oder Wegimpulszahl und nach jeder Änderung des wirksamen Reifenumfanges des Kraftfahrzeugs sowie bei Kontrollgeräten nach Anhang I B der Verordnung (EWG) Nr. 3821/85 auch dann, wenn die UTC-Zeit von der korrekten Zeit um mehr als 20 Minuten abweicht oder wenn sich das amtliche Kennzeichen des Kraftfahrzeuges geändert hat, durchgeführt werden.
+(2) Die Prüfungen sind mindestens einmal innerhalb von 24 Monaten seit der letzten Prüfung durchzuführen. Außerdem müssen die Prüfungen nach jedem Einbau, jeder Reparatur der Fahrtenschreiberanlage, jeder Änderung der Wegdrehzahl oder Wegimpulszahl und nach jeder Änderung des wirksamen Reifenumfanges des Kraftfahrzeugs, die sich aus einer Änderung der Reifengröße ergibt, und wenn eine Plombierung gemäß Artikel 22 der Verordnung (EU) Nr. 165/2014 ersetzt wird, durchgeführt werden.
 
-(3) Die Prüfungen dürfen nur durch einen nach Maßgabe der Anlage XVIIIc hierfür amtlich anerkannten Fahrtschreiber- oder Kontrollgerätehersteller durch von diesen beauftragte Kraftfahrzeugwerkstätten und durch nach Maßgabe der Anlage XVIIId anerkannte Kraftfahrzeugwerkstätten durchgeführt werden. Die Prüfungen dürfen nur an Prüfstellen vorgenommen werden, die den in Anlage XVIIIb festgelegten Anforderungen entsprechen.
+Bei Fahrtenschreibern nach den Anhängen I B der Verordnung (EU) Nr. 165/2014 und I C der Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1; L 146 vom 3.6.2016, S. 31; L 27 vom 1.2.2017, S. 169), die zuletzt durch die Durchführungsverordnung (EU) 2020/158 (ABl. L 34 vom 6.2.2020, S. 20) geändert worden ist, ist die Prüfung auch dann durchzuführen, wenn die koordinierte Weltzeit (Coordinated Universal Time – UTC) von der korrekten Zeit um mehr als 20 Minuten abweicht und wenn sich das amtliche Kennzeichen des Kraftfahrzeugs geändert hat.
 
-(4) Wird der Fahrtschreiber oder das Kontrollgerät vom Fahrzeughersteller eingebaut, so hat dieser, sofern er hierfür nach Anlage XVIIIc amtlich anerkannt ist, die Einbauprüfung nach Maßgabe der Anlage XVIIIa durchzuführen und das Gerät zu kalibrieren. Die Einbauprüfung und Kalibrierung kann abweichend von Satz 1 auch durch einen hierfür anerkannten Fahrzeugimporteur durchgeführt werden. Die Einbauprüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
+(3) Die Prüfungen dürfen nur durchgeführt werden durch
+
+1. einen nach Maßgabe der Anlage XVIIIc hierfür amtlich anerkannten Fahrtenschreiberhersteller,
+
+2. von diesen nach Maßgabe der Anlage XVIIId beauftragten Kraftfahrzeugwerkstätten oder
+
+3. die in den gemäß Artikel 24 Absatz 5 der Verordnung (EU) Nr. 165/2014 von der Kommission veröffentlichten Verzeichnissen aufgeführten zugelassenen Einbaubetrieben und Werkstätten.
+
+(4) Wird der Fahrtenschreiber vom Fahrzeughersteller eingebaut, so kann dieser, sofern er hierfür nach Anlage XVIIIc amtlich anerkannt ist, die Einbauprüfung nach Maßgabe der Anlage XVIIIa durchführen und das Gerät kalibrieren. Die Einbauprüfung und Kalibrierung kann abweichend von Satz 1 auch durch einen hierfür anerkannten Fahrzeugimporteur durchgeführt werden. Die Einbauprüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
 
 # § 57c – Ausrüstung von Kraftfahrzeugen mit Geschwindigkeitsbegrenzern und ihre Benutzung
 
@@ -2619,11 +2704,13 @@ Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen müssen s
 
 Die Vorschriften über Abmessungen, Achslast, Gesamtgewicht und Bereifung von Kraftfahrzeugen und ihren Anhängern (§§ 32, 34, 36 Absatz 1) gelten für andere Straßenfahrzeuge entsprechend. Für die Nachprüfung der Achslasten gilt § 31c mit der Abweichung, dass der Umweg zur Waage nicht mehr als 2 km betragen darf.
 
-# § 63a – Beschreibung von Fahrrädern
+# § 63a – Fahrräder und Fahrradanhänger
 
 (1) Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit Hilfe von Pedalen oder Handkurbeln angetrieben wird.
 
 (2) Als Fahrrad gilt auch ein Fahrzeug im Sinne des Absatzes 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
+
+(3) Fahrräder und Fahrradanhänger dürfen nur dann im öffentlichen Straßenverkehr in Betrieb genommen werden, wenn sie den Vorschriften dieser Verordnung, den zu ihrer Ausführung amtlich veröffentlichten Bekanntmachungen sowie dem Stand der Technik zum Zeitpunkt der Herstellung entsprechen.
 
 # § 64 – Lenkeinrichtung, sonstige Ausrüstung und Bespannung
 
@@ -2775,7 +2862,9 @@ ausgerüstet werden.
 
 1. entgegen § 17 Absatz 1 einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwiderhandelt oder Beschränkungen nicht beachtet,
 
-1a. entgegen § 19 Absatz 5 Satz 1 ein Fahrzeug in Betrieb nimmt oder als Halter dessen Inbetriebnahme anordnet oder zulässt,
+1a. entgegen § 19 Absatz 2 Satz 3 eine Änderung vornimmt oder vornehmen lässt,
+
+1b. entgegen § 19 Absatz 5 Satz 1 ein Fahrzeug in Betrieb nimmt oder als Halter dessen Inbetriebnahme anordnet oder zulässt,
 
 2. einer vollziehbaren Anordnung oder Auflage nach § 29 Absatz 7 Satz 5 in Verbindung mit Satz 4 zuwiderhandelt,
 
@@ -2805,7 +2894,7 @@ verstößt,
 
 16. einer Vorschrift des § 29 Absatz 10 Satz 1 oder 2 über die Aufbewahrungs- und Aushändigungspflicht für Untersuchungsberichte oder Prüfprotokolle zuwiderhandelt,
 
-17. einer Vorschrift des § 29 Absatz 11 oder 13 über das Führen oder Aufbewahren von Prüfbüchern zuwiderhandelt,
+17. (weggefallen)
 
 18. einer Vorschrift des § 29 Absatz 1 Satz 1 in Verbindung mit Nummer 3.1.4.2 Satz 2 Halbsatz 2 der Anlage VIII über die Behebung der geringen Mängel oder Nummer 3.1.4.3 Satz 2 Halbsatz 2 über die Behebung der erheblichen Mängel oder die Wiedervorführung zur Nachprüfung der Mängelbeseitigung zuwiderhandelt,
 
@@ -2847,7 +2936,7 @@ verstößt,
 
 7d. des § 35i Absatz 1 Satz 1 oder 2, dieser in Verbindung mit Nummer 2 Satz 2, 4, 8 oder 9, Nummer 3.1 Satz 1, Nummer 3.2 Satz 1 oder 2, Nummer 3.3, 3.4 Satz 1 oder 2 oder Nummer 3.5 Satz 2, 3 oder 4 der Anlage X, über Gänge oder die Anordnung von Fahrgastsitzen in Kraftomnibussen oder des § 35i Absatz 2 Satz 1 über die Beförderung liegender Fahrgäste ohne geeignete Rückhalteeinrichtungen;
 
-8. des § 36 Absatz 1 Satz 1 oder 3 bis 4, Absatz 3 Satz 1 oder 3 bis 5, Absatz 5 Satz 1 oder Absatz 6 oder 2 über Bereifung, des § 36 Absatz 10 Satz 1 bis 4 über Gleisketten von Gleiskettenfahrzeugen oder Satz 6 über deren zulässige Höchstgeschwindigkeit, des § 36a Absatz 1 über Radabdeckungen oder Absatz 3 über die Sicherung von außen am Fahrzeug mitgeführten Ersatzrädern oder des § 37 Absatz 1 Satz 1 über Gleitschutzeinrichtungen oder Absatz 2 über Schneeketten;
+8. des § 36 Absatz 1 Satz 1 oder 3 bis 4, Absatz 3 Satz 1 oder 3 bis 5, Absatz 5 Satz 1 oder Absatz 6 Satz 1 oder 2 über Bereifung, des § 36 Absatz 10 Satz 1 bis 4 über Gleisketten von Gleiskettenfahrzeugen oder Satz 6 über deren zulässige Höchstgeschwindigkeit, des § 36a Absatz 1 über Radabdeckungen oder Absatz 3 über die Sicherung von außen am Fahrzeug mitgeführten Ersatzrädern oder des § 37 Absatz 1 Satz 1 über Gleitschutzeinrichtungen oder Absatz 2 über Schneeketten;
 
 9. des § 38 über Lenkeinrichtungen;
 
@@ -3025,13 +3114,13 @@ f) Bestätigung, dass die unter Buchstabe d aufgeführten Fahrzeuge sich in Deut
 
 (1a) Genehmigen die zuständigen obersten Landesbehörden oder die von ihnen bestimmten Stellen Ausnahmen von den Vorschriften der §§ 32, 32d Absatz 1 oder § 34 für Fahrzeuge oder Fahrzeugkombinationen, die auf neuen Technologien oder Konzepten beruhen und während eines Versuchszeitraums in bestimmten örtlichen Bereichen eingesetzt werden, so unterrichten diese Stellen das Bundesministerium für Verkehr und digitale Infrastruktur im Hinblick auf Artikel 4 Absatz 5 Satz 2 der Richtlinie 96/53/EG mit einer Abschrift der Ausnahmegenehmigung.
 
-(2) Vor der Genehmigung einer Ausnahme von den §§ 32, 32d, 33, 34 und 36 und einer allgemeinen Ausnahme von § 65 sind die obersten Straßenbaubehörden der Länder und, wo noch nötig, die Träger der Straßenbaulast zu hören.
+(2) Vor der Genehmigung einer Ausnahme von den §§ 32, 32d, 33, 34, 34b und 36 und einer allgemeinen Ausnahme von § 65 sind die obersten Straßenbaubehörden der Länder und, wo noch nötig, die Träger der Straßenbaulast zu hören.
 
 (3) Der örtliche Geltungsbereich jeder Ausnahme ist festzulegen.
 
 (3a) Durch Verwaltungsakt für ein Fahrzeug genehmigte Ausnahmen von den Bau- oder Betriebsvorschriften sind vom Fahrzeugführer durch eine Urkunde nachzuweisen, die bei Fahrten mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen ist. Bei einachsigen Zugmaschinen und Anhängern in land- oder forstwirtschaftlichen Betrieben sowie land- oder forstwirtschaftlichen Arbeitsgeräten und hinter land- oder forstwirtschaftlichen einachsigen Zug- oder Arbeitsmaschinen mitgeführten Sitzkarren, wenn sie nur für land- oder forstwirtschaftliche Zwecke verwendet werden, und von der Zulassungspflicht befreiten Elektrokarren genügt es, dass der Halter eine solche Urkunde aufbewahrt; er hat sie zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
-(4) Die Bundeswehr, die Polizei, die Bundespolizei, die Feuerwehr und die anderen Einheiten und Einrichtungen des Katastrophenschutzes sowie der Zolldienst sind von den Vorschriften dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist. Abweichungen von den Vorschriften über die Ausrüstung mit Kennleuchten, über Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz (Einsatzhorn) und über Sirenen sind nicht zulässig.
+(4) Die Bundeswehr, die Polizei, die Bundespolizei, die Feuerwehr und die anderen Einheiten und Einrichtungen des Katastrophenschutzes sowie der Zolldienst sind von den Vorschriften dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist. Abweichungen von den Vorschriften über die Ausrüstung mit Warnleuchten, über Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz (Einsatzhorn) und über Sirenen sind nicht zulässig.
 
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass abweichend von Absatz 1 Nummer 1 anstelle der höheren Verwaltungsbehörden und abweichend von Absatz 2 anstelle der obersten Straßenbaubehörden andere Behörden zuständig sind. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
@@ -3041,137 +3130,35 @@ Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Au
 
 # § 72 – Übergangsbestimmungen
 
-(1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge, die vor dem 5. Mai 2012 erstmals in den Verkehr gekommen sind, gelten die zum Zeitpunkt ihrer Zulassung geltenden Vorschriften einschließlich der für diese Fahrzeuge erlassenen Nachrüstvorschriften fort.
+(1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge, die vor dem 3. Juli 2021 erstmals in den Verkehr gekommen sind, gelten die zum Zeitpunkt ihrer Zulassung geltenden Vorschriften einschließlich der für diese Fahrzeuge erlassenen Nachrüstvorschriften fort.
 
-(2) Zu den nachstehend bezeichneten Vorschriften gelten folgende Bestimmungen:
+(2) § 32, Anlage VIII und Anlage VIIIc in der bis zum Ablauf des 2. Juli 2021 geltenden Fassung können bis zum Ablauf des 2. Juli 2022 alternativ angewendet werden.
 
-1. § 29 (Untersuchung der Kraftfahrzeuge und Anhänger)
+(3) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, ist § 32e in der vor dem 3. Juli 2021 geltenden Fassung weiter anzuwenden.
 
-ist anzuwenden ab dem 1. Juli 2012. Bis zu diesem Datum gilt § 29 in der vor dem 1. Juli 2012 geltenden Fassung. Anlässlich von Hauptuntersuchungen sind die auf den vorderen Kennzeichen nach den bis einschließlich 31. Dezember 2009 geltenden Vorschriften des § 47a Absatz 3 und 5 angebrachten Plaketten von den die Hauptuntersuchung durchführenden Personen zu entfernen.
+(4) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, ist § 35a in der vor dem 3. Juli 2021 geltenden Fassung weiter anzuwenden.
 
-1a. § 33 (Schleppen von Fahrzeugen)
+(5) § 35d Absatz 2 ist für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 3. Juli 2021 erstmals in den Verkehr gekommen sind, wahlweise anwendbar.
 
-Vor dem 1. August 2013 erteilte Ausnahmegenehmigungen gelten bis zu ihrer Befristung weiter.
+(6) § 47 Absatz 1a ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012, entsprechend der in der Verordnung (EG) Nr. 692/2008 in Anhang I, Anlage 6, Tabelle 1, Spalte 7 unter „Einführungszeitpunkt Neufahrzeuge“ genannten Termine anzuwenden.
 
-1b. § 35a Absatz 2, 3, 4 und 5a (Sitzverankerungen, Sitze, Kopfstützen, Verankerungen für Sicherheitsgurte sowie Sicherheitsgurte oder Rückhaltesysteme)
+(7) § 47 Absatz 6b ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden und es gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der Schwellenwerte für die Eigensystemüberwachung (OBD) für NO<sub>x</sub> und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1 unter „Letztes Zulassungsdatum“ genannten Termine.
 
-Für Kraftfahrzeuge, die vor dem 1. November 2013 eine nationale Typgenehmigung oder Einzelgenehmigung erhalten haben und vor dem 1. Januar 2014 erstmals in den Verkehr kommen, bleibt § 35a Absatz 2, 3 und 4 in der bisher geltenden Fassung anwendbar. § 35a Absatz 4a in Verbindung mit Absatz 4b ist ab dem 1. September 2016 für alle Personenkraftwagen anzuwenden, bei denen ein Einbau, Umbau oder eine Nachrüstung mit Rollstuhlstellplätzen, Rollstuhl-Rückhaltesystemen oder Rollstuhlnutzer-Rückhaltesystemen erfolgt. 35a Absatz 4a Satz 7 in Verbindung mit Absatz 4b ist bis einschließlich 31. August 2017 abweichend erfüllt, wenn ersatzweise zur DIN-Norm 75078-2:2015-04 die DIN-Norm 75078-2:1999 angewendet wird.
+(8) § 47 Absatz 8c ist für Fahrzeuge, die mit einer Einzelgenehmigung erstmals in den Verkehr kommen, wie folgt anzuwenden:
 
-1c. § 35c Absatz 2 (Heizanlagen in Fahrzeugen der Klassen M, N und O)
+1. spätestens ab den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen; derweil wird bei Fahrzeugen, die mit Motoren ausgerüstet sind, deren Herstellungsdatum vor den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen liegt, für jede Kategorie der Zeitpunkt für erstmals in den Verkehr kommende Fahrzeuge um zwei Jahre verlängert;
 
-gilt spätestens für Fahrzeuge und ihre Heizanlagen, die ab dem 1. August 2013 genehmigt werden. Für Fahrzeuge und ihre Heizanlagen, die vor dem 1. August 2013 genehmigt wurden, bleibt § 35c in der bisher geltenden Fassung anwendbar.
+2. spätestens ab dem 1. Juni 2012 entsprechend der Termine, die in Artikel 4 Absatz 2 und 3 der Richtlinie 2000/25/EG in der bis zum 1. Januar 2007 geltenden durch die Richtlinie 2005/13/EG geänderten Fassung genannt sind, vorbehaltlich einer Verlängerung um zwei Jahre nach Artikel 4 Absatz 5 und 6 der Richtlinie 2000/25/EG in der bis zum 1. Januar 2007 geltenden durch die Richtlinie 2005/13/EG geänderten Fassung; für land- oder forstwirtschaftliche Zugmaschinen, die vor den genannten Terminen erstmals in den Verkehr kamen, bleibt § 47 Absatz 8c in der vor dem 1. Juni 2012 geltenden Fassung anwendbar.
 
-1d. § 36 Absatz 4a tritt am 1. Oktober 2024 außer Kraft.
+(9) § 47e ist wie folgt anzuwenden:
 
-1e. § 45 Absatz 1a (Einbau des Kraftstoffbehälters)
+a) in Fahrzeuge, für die eine Typgenehmigung ab dem 1. Januar 2011 erteilt wurde, darf ab dem 1. Juni 2012 eine Klimaanlage, die darauf ausgelegt ist, fluorierte Treibhausgase mit einem global warming potential-Wert (GWP-Wert) über 150 zu enthalten, nicht mehr nachträglich eingebaut werden;
 
-gilt nicht für den serienmäßigen Einbau in reihenweise gefertigte Fahrzeuge, für die eine Allgemeine Betriebserlaubnis erteilt worden ist und die vor dem 1. Januar 1990 erstmals in den Verkehr gekommen sind.
+b) Klimaanlagen, die in Fahrzeuge eingebaut sind, für die ab dem 1. Januar 2011 eine Typgenehmigung erteilt wurde, dürfen nicht mit fluorierten Treibhausgasen mit einem GWP-Wert von über 150 befüllt werden und mit Wirkung vom 1. Januar 2017 dürfen Klimaanlagen in sämtlichen Fahrzeugen nicht mehr mit fluorierten Treibhausgasen mit einem GWP-Wert über 150 befüllt werden; hiervon ausgenommen ist das Nachfüllen von diese Gase enthaltenden Klimaanlagen, die vor diesem Zeitpunkt in Fahrzeuge eingebaut worden sind;
 
-2. § 47 Absatz 1a (Abgasemissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6))
+c) Fahrzeuge mit einer Einzelgenehmigung, die ab dem 1. Januar 2017 erstmals in den Verkehr gebracht werden sollen, ist die Zulassung zu verweigern, wenn deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind.
 
-ist hinsichtlich der Vorschriften der Verordnungen (EG) Nr. 715/2007 und der Verordnung (EG) Nr. 692/2008 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012 entsprechend der in der Verordnung (EG) Nr. 692/2008 in Anhang I, Anlage 6, Tabelle 1, Spalte 7 („Einführungszeitpunkt Neufahrzeuge“) genannten Termine anzuwenden.
-
-3. § 47 Absatz 6a (Abgasemissionen schwerer Nutzfahrzeuge nach Richtlinie 2005/55/EG)
-
-ist hinsichtlich der Vorschriften der Richtlinien 2005/55/EG und 2005/78/EG für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Juni 2012 entsprechend den in Artikel 2 Absatz 6 und 8 genannten Terminen anzuwenden. Des Weiteren gelten für diese Fahrzeuge:
-
-a) Die Anforderungen zur Gewährleistung der vollen Wirkung der Vorkehrungen für die Minderung der NO<sub>x</sub>-Emissionen, gemäß der Nummern 6.5.3, 6.5.4 und 6.5.5 der Richtlinie 2006/51/EG, sind ab dem 1. Juni 2012 für von diesem Tage an erstmals in den Verkehr kommende Fahrzeuge anzuwenden.
-
-b) Die Änderungen der Richtlinie 2008/74/EG sind ab dem 1. Juni 2012 für von diesem Tage an erstmals in den Verkehr kommende Fahrzeuge anzuwenden.
-
-3a. § 47 Absatz 6b (Abgasemissionen schwerer Nutzfahrzeuge, Euro VI) ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden. Des Weiteren gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der OBD-Schwellenwerte für NO<sub>x</sub> und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1, unter „Letztes Zulassungsdatum“ genannten Termine.
-
-4. § 47 Absatz 8c (Abgasemissionen von land- oder forstwirtschaftlichen Zugmaschinen)
-
-ist für Fahrzeuge, die mit einer Einzelgenehmigung erstmals in den Verkehr kommen, wie folgt anzuwenden:
-
-a) Spätestens ab den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen. Bei Fahrzeugen, die mit Motoren ausgerüstet sind, deren Herstellungsdatum vor den in Artikel 4 Absatz 3 der Richtlinie 2000/25/EG genannten Terminen liegt, wird für jede Kategorie der Zeitpunkt für erstmals in den Verkehr kommende Fahrzeuge um zwei Jahre verlängert. Diese Verlängerung der Termine gilt für Fahrzeuge mit einer Einzelgenehmigung, Allgemeinen Betriebserlaubnis oder EG-Typgenehmigung.
-
-b) Spätestens ab dem 1. Juni 2012 entsprechend der in Artikel 4 Absatz 2 und 3 der Richtlinie 2000/25/EG in der Fassung der Richtlinie 2005/13/EG genannten Termine. Die in Artikel 4 Absatz 5 und 6 der Richtlinie 2000/25/EG in der Fassung der Richtlinie 2005/13/EG genannten Verlängerungen der Termine um zwei Jahre gelten für Fahrzeuge mit einer Einzelgenehmigung, Allgemeinen Betriebserlaubnis oder EG-Typgenehmigung.
-
-Für land- und forstwirtschaftliche Zugmaschinen, die vor den genannten Terminen erstmals in den Verkehr kamen, bleibt § 47 Absatz 8c in der vor dem 1. Juni 2012 geltenden Fassung anwendbar.
-
-5. § 47d (Kohlendioxidemissionen, Kraftstoffverbrauch, Reichweite, Stromverbrauch)
-
-ist für Fahrzeuge, die mit einer Einzelgenehmigung erstmals in den Verkehr kommen, anzuwenden. Für Fahrzeuge, die vor dem 1. Juni 2012 erstmals in den Verkehr gekommen sind, ist § 47d einschließlich der Übergangsbestimmungen in § 72 Absatz 2 in der vor dem 1. Juni 2012 geltenden Fassung anzuwenden. Die Vorschriften der Richtlinie 2004/3/EG treten am 17. Mai 2012 in Kraft. Die Vorschriften der Richtlinie 80/1268/EWG, geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen der Buchstaben a bis e, treten mit Wirkung vom 2. Januar 2013 außer Kraft.
-
-6. § 47e (Genehmigung, Nachrüstung und Nachfüllen von Klimaanlagen)
-
-ist wie folgt anzuwenden:
-
-a) In Fahrzeuge, für die eine Typgenehmigung ab dem 1. Januar 2011 erteilt wurde, darf ab dem 1. Juni 2012 eine Klimaanlage, die darauf ausgelegt ist, fluorierte Treibhausgase mit einem global warming potential-Wert (GWP-Wert)<span id="FnR.f776594_02"></span><a href="#f776594_02" class="FnR">*)</a></sup> über 150 zu enthalten, nicht mehr nachträglich eingebaut werden.
-
-b) Klimaanlagen, die in Fahrzeuge eingebaut sind, für die ab dem 1. Januar 2011 eine Typgenehmigung erteilt wurde, dürfen nicht mit fluorierten Treibhausgasen mit einem GWP-Wert von über 150 befüllt werden. Mit Wirkung vom 1. Januar 2017 dürfen Klimaanlagen in sämtlichen Fahrzeugen nicht mehr mit fluorierten Treibhausgasen mit einem GWP-Wert über 150 befüllt werden; hiervon ausgenommen ist das Nachfüllen von diese Gase enthaltenden Klimaanlagen, die vor diesem Zeitpunkt in Fahrzeuge eingebaut worden sind.
-
-c) Fahrzeuge mit einer Einzelgenehmigung, die ab dem 1. Januar 2017 erstmals in den Verkehr gebracht werden sollen, ist die Zulassung zu verweigern, wenn deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind. Bei Fahrzeugen mit einer Einzelgenehmigung, die vor dem 1. Januar 2017 erstmals in den Verkehr kommen sollen und deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind, findet der Nachweis der Leckagerate gemäß Artikel 7 der Verordnung (EG) Nr. 706/2007 keine Anwendung.
-
-6a. § 49a Absatz 1 Satz 4 (geometrische Sichtbarkeit)
-
-tritt in Kraft am 1. November 2013 für die von diesem Tage an erstmals in den Verkehr kommenden Fahrzeuge. Fahrzeuge, die vor diesem Termin erstmals in den Verkehr gekommen sind, dürfen § 49a Absatz 1 Satz 4 in der vor dem 1. August 2013 geltenden Fassung entsprechen.
-
-6b. § 53 Absatz 10 Satz 1 Nummer 3 (Kennzeichnung von Fahrzeugen mit Konturmarkierungen)
-
-Auf Fahrzeuge, die bis zum 1. November 2013 gekennzeichnet werden, bleibt § 53 Absatz 10 Satz 1 Nummer 3 in der bisher geltenden Fassung anwendbar.
-
-6c. § 53 Absatz 10 Satz 2 (auffällige Markierungen)
-
-Für Fahrzeuge, die vor dem 10. Juli 2011 erstmals in den Verkehr gekommen sind, kann Absatz 10 Satz 1 Nummer 3 mit der zugehörigen Übergangsvorschrift angewendet werden.
-
-6d. § 53a Absatz 2 Nummer 3 (Warnwesten)
-
-ist spätestens ab dem 1. Juli 2014 anzuwenden.
-
-6e. § 57a Absatz 1 (Fahrtschreiber)
-
-tritt außer Kraft am 1. Januar 2013 für erstmals in den Verkehr kommende Kraftfahrzeuge.
-
-7. Anlage VIII (Untersuchung der Fahrzeuge) ist ab dem 1. Juli 2012 anzuwenden. Abweichend von Satz 1
-
-a) können Fahrzeughalter, die bis zum 1. Juni 1998 nach Nummer 4.1 in Verbindung mit Nummer 6 der Anlage VIII in der vor diesem Zeitpunkt geltenden Fassung
-
-aa)  
-von der Pflicht zur Vorführung ihrer Fahrzeuge zu Hauptuntersuchungen bei einem Sachverständigen oder Prüfer befreit waren und diese selbst durchführten, auch weiterhin entsprechend diesen Vorschriften Hauptuntersuchungen an ihren Fahrzeugen im eigenen Betrieb durchführen. Für das Anerkennungsverfahren und die Aufsicht gilt Nummer 6 der Anlage VIII in der vor dem 1. Juni 1998 geltenden Fassung, oder
-
-bb)  
-Zwischenuntersuchungen und Bremsensonderuntersuchungen bis zum 1. Dezember 1999 und ab diesem Datum Sicherheitsprüfungen an ihren Fahrzeugen im eigenen Betrieb durchführen, wenn sie hierfür nach Anlage VIIIc anerkannt sind,
-
-b) können Untersuchungen durch Kraftfahrzeugwerkstätten, die bis zum 1. Juni 1998 nach den Vorschriften von Nummer 4.3 in Verbindung mit Nummer 6 der Anlage VIII in der vor diesem Zeitpunkt geltenden Fassung anerkannt waren, auch weiterhin entsprechend diesen Vorschriften durchgeführt werden. Für das Anerkennungsverfahren und die Aufsicht gilt Nummer 6 der Anlage VIII in der vor dem 1. Juni 1998 geltenden Fassung,
-
-c) ist bei der Durchführung der Sicherheitsprüfungen an Fahrzeugen, die ab dem 1. April 2006 erstmals in den Verkehr kamen, ab dem 1. Juli 2012 die Einhaltung der Vorgaben in der Form von Systemdaten und
-
-aa)  
-für Fahrzeuge der Klasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> entsprechend Anlage XXIX, die ab dem 1. Januar 2014 erstmals in den Verkehr kommen und
-
-bb)  
-für Fahrzeuge der Klasse O<sub>4</sub> entsprechend Anlage XXIX, die ab dem 1. Januar 2015 erstmals in den Verkehr kommen,
-
-die Einhaltung der Vorgaben nach Nummer 2 Anlage VIIIe zu prüfen.
-
-8. Anlage VIIIa (Durchführung der Hauptuntersuchung)
-
-ist ab dem 1. Juli 2012 anzuwenden. Ausgenommen von den Vorschriften der Nummer 1 Satz 4 und der Nummer 2 und 3 gilt für Fahrzeuge, die
-
-a) vor dem 1. April 2006 erstmals in den Verkehr kamen, Anlage VIIIa in der bis zu diesem Datum geltenden Fassung,
-
-b) vom 1. April 2006 bis zum 30. Juni 2012 erstmals in den Verkehr kommen, Anlage VIIIa in der vor dem 1. Juli 2012 geltenden Fassung.
-
-Abweichend von Satz 1 sind die Vorschriften
-
-a) von Nummer 4.3 und 4.4 für Fahrzeuge der Klasse M<sub>1</sub> und N<sub>1</sub> sowie von Nummer 4.1 für Fahrzeuge der Klasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> entsprechend Anlage XXIX, die ab dem 1. Januar 2013 erstmals in den Verkehr kommen, ab diesem Datum,
-
-b) von Nummer 4.2 für Fahrzeuge der Klasse M<sub>1</sub> und N<sub>1</sub> sowie von Nummer 4.3 und 4.4 für Fahrzeuge der Klasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> entsprechend Anlage XXIX, die ab dem 1. Januar 2014 erstmals in den Verkehr kommen, ab diesem Datum und
-
-c) von Nummer 4.2 für Fahrzeuge der Klasse M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> sowie von den Nummern 4.1 bis 4.4 für Fahrzeuge der Klasse O entsprechend Anlage XXIX, die ab dem 1. Januar 2015 erstmals in den Verkehr kommen, ab diesem Datum
-
-jeweils spätestens anzuwenden.
-
-9. Anlage VIIId (Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen)
-
-ist ab dem 1. Juli 2012 anzuwenden. Bis zu diesem Datum gilt Anlage VIIId in der vor dem 1. Juli 2012 geltenden Fassung. Abweichend von Satz 1 ist eine Ausstattung mit Einrichtung zur Prüfung über die elektronische Fahrzeugschnittstelle nach Nummer 25 der Tabelle zu Nummer 3 der Anlage VIIId ab dem 1. Januar 2013 vorzunehmen.
-
-10. Anlage VIIIe (Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen)
-
-ist ab dem 1. Juli 2012 anzuwenden.
+(10) Für land- oder forstwirtschaftliche Zugmaschinen, die vor dem 1. November 2021 erstmals in den Verkehr gekommen sind, kann die im Anhang zu § 56 Absatz 2 Nummer 4 genannte Vorschrift in der vor dem 3. Juli 2021 geltenden Fassung weiter angewendet werden.
 
 # § 73 – Technische Festlegungen
 
@@ -3601,11 +3588,11 @@ Hauptuntersuchungen
 3.1.1  
 Hauptuntersuchungen sind von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr (im Folgenden als aaSoP bezeichnet) oder von einer amtlich anerkannten Überwachungsorganisation nach Anlage VIIIb durch einen von ihr betrauten Prüfingenieur (im Folgenden als PI bezeichnet) durchführen zu lassen.
 
-3.1.1.1  
-Die Untersuchung des Motormanagement-/Abgasreinigungssystems der Kraftfahrzeuge nach Nummer 1.2.1.1 in Verbindung mit Nummer 6.8.2 der Anlage VIIIa kann als eigenständiger Teil der Hauptuntersuchungen von einer dafür nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstatt durchgeführt werden; die Durchführung ist auf einem mit fälschungserschwerenden Merkmalen zu versehenden Nachweis, der dem vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster entspricht, zu bescheinigen. Diese Untersuchung darf frühestens zwei Monate vor der Durchführung der Hauptuntersuchung durchgeführt werden. Der Nachweis ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 1 genannten Kraftfahrzeugwerkstatt sowie gegebenenfalls die Mängelnummer nach Nummer 3.1.4.6 in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
+3.1.1.1   
+Abweichend von Nummer 3.1.1 darf die Untersuchung des Motormanagements-/Abgasreinigungssystems (Inspektion im Sinne der DIN EN ISO/IEC 17020:2012) der Kraftfahrzeuge nach Nummer 1.2.1.1 in Verbindung mit Nummer 6.8.2 der Anlage VIIIa als eigenständiger Teil der Hauptuntersuchung vom amtlich anerkannten Sachverständigen oder Prüfer, von einer akkreditierten Inspektionsstelle gemäß DIN EN ISO/IEC 17020:2012 nach Anlage VIIIb oder vom Bundesinnungsverband des Kraftfahrzeughandwerks (BIV) bescheinigt werden. Diese Untersuchung darf frühestens einen Monat vor der Durchführung der Hauptuntersuchung durchgeführt werden. Der BIV darf die Bescheinigung nur ausstellen, wenn dieser gegenüber der Deutschen Akkreditierungsstelle nachgewiesen hat, dass er alle Anforderungen der DIN EN ISO/IEC 17020:2012 erfüllt. Die Anerkennung nach Landesrecht bleibt unberührt. Der BIV ist befugt, für diese Prüfungen Personal und Ausrüstung der nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten einzusetzen. Diese Befugnis schließt die gesetzliche Erlaubnis gemäß DIN EN ISO/IEC 17020:2012, A.3 Anforderungen an Inspektionsstellen (Typ C), Abschnitt b ein, dass verantwortliche Personen der nach Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten (Inspektoren im Sinne der DIN EN ISO/IEC 17020:2012) an Entwicklung, Herstellung, Vertrieb, Errichtung, Kundendienst oder Instandhaltung desselben Inspektionsgegenstandes beteiligt sein können, sofern dadurch die Inspektionsergebnisse nicht beeinträchtigt werden. Der Nachweis, dass die Inspektionsergebnisse nicht beeinträchtigt werden, ist durch geeignete Überwachungsmaßnahmen für das Vorhandensein von Objektivität durch die akkreditierte Inspektionsstelle zu erbringen. Eine Unterbrechung der Inspektion zum Zwecke der Beseitigung von festgestellten Mängeln ist unzulässig. Die Ausführung von Tätigkeiten am Fahrzeug, wie zum Beispiel Reparatur, Instandsetzung und Wartung, nach Beginn der Inspektion führt zur Wiederholungspflicht der Inspektion. Die Durchführung ist gemäß Nummer 7.1.6 DIN EN ISO/IEC 17020:2012 auf einem mit fälschungserschwerenden Merkmalen zu versehenden Nachweis, der dem vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster entspricht, zu bescheinigen. Der Nachweis ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 3 genannten Kraftfahrzeugwerkstatt sowie gegebenenfalls die Mängelnummer nach Nummer 3.1.4.6 in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
 
-3.1.1.2  
-Die Untersuchung der Gasanlagen für Antriebssysteme von Kraftfahrzeugen nach Nummer 1.2.1 in Verbindung mit Anlage VIIIa Nummer 6.8.5 kann als eigenständiger Teil der Hauptuntersuchung von einer dafür nach Anlage XVIIa anerkannten Kraftfahrzeugwerkstatt durchgeführt werden (wiederkehrende Gasanlagenprüfung). Die Durchführung der Untersuchung ist auf einem Nachweis nach Nummer 2.4 der Anlage XVII zu bescheinigen. Die Untersuchung darf höchstens zwölf Monate vor dem durch die Prüfplakette angegebenen Monat für die nächste vorgeschriebene Hauptuntersuchung durchgeführt werden. Wurde innerhalb dieses Zeitraums eine Gassystemeinbauprüfung nach § 41a Absatz 5 oder eine Gasanlagenprüfung nach § 41a Absatz 6 durchgeführt, tritt diese an die Stelle der Untersuchung nach Satz 1. Der Nachweis über die durchgeführte Untersuchung oder Prüfung ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 1 genannten Kraftfahrzeugwerkstatt in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
+3.1.1.2   
+Abweichend von Nummer 3.1.1 darf die Untersuchung der Gasanlagen für Antriebssysteme von Kraftfahrzeugen (Inspektion im Sinne der DIN EN ISO/IEC 17020:2012) nach Nummer 1.2.1 in Verbindung mit Anlage VIIIa Nummer 6.8.5 als eigenständiger Teil der Hauptuntersuchung vom amtlich anerkannten Sachverständigen oder Prüfer, von einer akkreditierten Inspektionsstelle gemäß DIN EN ISO/IEC 17020:2012 nach Anlage VIIIb oder vom Bundesinnungsverband des Kraftfahrzeughandwerks (BIV) bescheinigt werden. Diese Untersuchung darf frühestens einen Monat vor der Durchführung der Hauptuntersuchung durchgeführt werden. Wurde innerhalb dieses Zeitraums eine Gassystemeinbauprüfung nach § 41a Absatz 5 oder eine Gasanlagenprüfung nach § 41a Absatz 6 durchgeführt, tritt diese an die Stelle der Untersuchung nach Satz 1. Der BIV darf die Bescheinigung nur ausstellen, wenn dieser gegenüber der Deutschen Akkreditierungsstelle nachgewiesen hat, dass er alle Anforderungen der DIN EN ISO/IEC 17020:2012 erfüllt. Die Anerkennung nach Landesrecht bleibt unberührt. Der BIV ist befugt, für diese Prüfungen Personal und Ausrüstung der nach Anlage XVIIa anerkannten Kraftfahrzeugwerkstätten einzusetzen (wiederkehrende Gasanlagenprüfung). Diese Befugnis schließt die gesetzliche Erlaubnis gemäß DIN EN ISO/IEC 17020:2012, A.3 Anforderungen an Inspektionsstellen (Typ C), Abschnitt b ein, dass verantwortliche Personen der nach Anlage XVIIa anerkannten Kraftfahrzeugwerkstätten (Inspektoren im Sinne der DIN EN ISO/IEC 17020:2012) an Entwicklung, Herstellung, Vertrieb, Errichtung, Kundendienst oder Instandhaltung desselben Inspektionsgegenstandes beteiligt sein können, sofern dadurch die Inspektionsergebnisse nicht beeinträchtigt werden. Der Nachweis, dass die Inspektionsergebnisse nicht beeinträchtigt werden, ist durch geeignete Überwachungsmaßnahmen für das Vorhandensein von Objektivität durch die akkreditierte Inspektionsstelle zu erbringen. Die Durchführung der Untersuchung ist auf einem Nachweis nach Nummer 2.4 der Anlage XVII zu bescheinigen. Eine Unterbrechung der Inspektion zum Zwecke der Beseitigung von festgestellten Mängeln ist unzulässig. Die Ausführung von Tätigkeiten am Fahrzeug, wie zum Beispiel Reparatur, Instandsetzung und Wartung, nach Beginn der Inspektion führt zur Wiederholungspflicht der Inspektion. Der Nachweis über die durchgeführte Untersuchung oder Prüfung ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 3 genannten Kraftfahrzeugwerkstatt in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
 
 3.1.2  
 Der Halter oder sein Beauftragter haben das Fahrzeug spätestens bis zum Ablauf des Monats, der durch die Prüfplakette nach Maßgabe des § 29 Absatz 2 und die Eintragungen im Fahrzeugschein oder im Nachweis nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung sowie im Untersuchungsbericht nachgewiesen ist, beim aaSoP oder PI zur Hauptuntersuchung vorzuführen.
@@ -3614,7 +3601,7 @@ Der Halter oder sein Beauftragter haben das Fahrzeug spätestens bis zum Ablauf 
 Kann bei der Vorführung zur Hauptuntersuchung eine nach Nummer 2.1 vorgeschriebene Sicherheitsprüfung nicht nachgewiesen werden, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
 
 3.1.4  
-Stellt der aaSoP oder PI bei der Hauptuntersuchung oder bei einer Nachprüfung nach Nummer 3.1.4.3 Satz 2
+Stellt der aaSoP oder PI bei der Hauptuntersuchung oder bei einer Nachprüfung nach Nummer 3.1.4.3 Satz 2, 3.1.4.4 Satz 5 oder 3.1.4.5 Satz 6
 
 3.1.4.1  
 keine Mängel fest, so hat er für das Fahrzeug eine Prüfplakette nach § 29 Absatz 3 zuzuteilen,
@@ -3626,13 +3613,19 @@ geringe Mängel fest, so sind diese im Untersuchungsbericht einzutragen. Er kann
 erhebliche Mängel fest, so sind diese im Untersuchungsbericht einzutragen. Er darf für das Fahrzeug keine Prüfplakette zuteilen; der Halter hat alle Mängel unverzüglich beheben zu lassen und das Fahrzeug zur Nachprüfung der Mängelbeseitigung unter Vorlage des Untersuchungsberichts spätestens bis zum Ablauf von einem Monat nach dem Tag der Hauptuntersuchung wieder vorzuführen. Sind bei der Nachprüfung nicht alle Mängel behoben oder werden zusätzliche Mängel festgestellt, darf die Prüfplakette nicht zugeteilt werden und das Fahrzeug ist innerhalb der in Satz 2 genannten Frist erneut zur Nachprüfung vorzuführen; der aaSoP oder PI hat die nicht behobenen oder die zusätzlich festgestellten Mängel im Untersuchungsbericht zu vermerken. Wird bei der Nachprüfung der Untersuchungsbericht nicht vorgelegt oder wird das Fahrzeug später als ein Monat nach dem Tag der Hauptuntersuchung wieder vorgeführt, so hat der aaSoP oder PI statt der Nachprüfung der Mängelbeseitigung eine neue Hauptuntersuchung durchzuführen. Dabei ist eine bis zu zwei Monate zuvor durchgeführte Abgasuntersuchung nach Nummer 6.8.2 der Anlage VIIIa zu berücksichtigen.
 
 3.1.4.4  
-Mängel fest, die das Fahrzeug verkehrsunsicher machen, so sind diese im Untersuchungsbericht einzutragen; er hat die vorhandene Prüfplakette zu entfernen und unverzüglich die Zulassungsbehörde zu benachrichtigen; § 5 Absatz 3 der Fahrzeug-Zulassungsverordnung ist anzuwenden,
+gefährliche Mängel fest, so sind diese im Untersuchungsbericht einzutragen. Gefährliche Mängel sind solche nach Nummer 3.1.4.3, die eine direkte und unmittelbare Verkehrsgefährdung darstellen oder die Umwelt beeinträchtigen, ohne eine unmittelbare Untersagung des Betriebs des Fahrzeugs auf öffentlichen Straßen zu rechtfertigen. Er darf für das Fahrzeug keine Prüfplakette zuteilen. Der Halter ist zusätzlich im Untersuchungsbericht auf diesen Gefährdungstatbestand hinzuweisen. Der Halter hat alle Mängel unverzüglich beheben zu lassen und das Fahrzeug zur Nachprüfung oder erneuten Nachprüfung der Mängelbeseitigung unter Vorlage des Untersuchungsberichts spätestens bis zum Ablauf eines Monats ab dem Tag der Hauptuntersuchung wieder vorzuführen.
 
 3.1.4.5  
-Mängel fest, die vor Abschluss der Untersuchung, längstens während eines Kalendertages beseitigt werden, so sind diese unter Angabe der Uhrzeit ebenfalls im Untersuchungsbericht einzutragen. Die sofortige Mängelbeseitigung ist durch die Bezeichnung der Mängel in Verbindung mit einer eindeutigen Bestätigung der untersuchenden Person unter Angabe der Uhrzeit zu bescheinigen. Die Vorschriften über die Zuteilung einer Prüfplakette nach § 29 Absatz 3 bleiben hiervon unberührt.
+Mängel, die das Fahrzeug verkehrsunsicher machen, fest, so sind diese im Untersuchungsbericht einzutragen. Das Fahrzeug wird verkehrsunsicher durch gefährliche Mängel, die eine direkte und unmittelbare Verkehrsgefährdung darstellen oder die Umwelt beeinträchtigen und eine unmittelbare Untersagung des Betriebs des Fahrzeugs auf öffentlichen Straßen rechtfertigen. Die vorhandene Prüfplakette ist zu entfernen und es hat die unverzügliche Benachrichtigung der nach § 46 der Fahrzeug-Zulassungsverordnung zuständigen Zulassungsbehörde zu erfolgen. Der Fahrzeugführer ist darauf hinzuweisen, dass er das Fahrzeug auf öffentlichen Straßen nicht mehr in Betrieb setzen darf. Der Halter ist im Untersuchungsbericht auf diesen Gefährdungstatbestand hinzuweisen. Eine Nachprüfung ist erforderlich. Es erfolgt keine Zuteilung einer Prüfplakette.
 
 3.1.4.6  
+Mängel fest, die vor Abschluss der Untersuchung, längstens während eines Kalendertages beseitigt werden, so sind diese unter Angabe der Uhrzeit ebenfalls im Untersuchungsbericht einzutragen. Die sofortige Mängelbeseitigung ist durch die Bezeichnung der Mängel in Verbindung mit einer eindeutigen Bestätigung der untersuchenden Person unter Angabe der Uhrzeit zu bescheinigen. Die Vorschriften über die Zuteilung einer Prüfplakette nach § 29 Absatz 3 bleiben hiervon unberührt.
+
+3.1.4.7  
 Mängel nicht selbst fest, sondern werden in nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten bei der Durchführung der Untersuchung des Motormanagement-/Abgasreinigungssystems im Rahmen des eigenständigen Teils der Hauptuntersuchung nach Nummer 3.1.1.1 Mängel festgestellt, die vor Abschluss der Untersuchung des Motormanagement-/Abgasreinigungssystems, längstens innerhalb eines Kalendertages beseitigt werden, so sind diese in Form einer Mängelnummer auf dem Nachweis einzutragen und vom aaSoP oder PI im Untersuchungsbericht zu übernehmen. Die sofortige Mängelbeseitigung ist in Verbindung mit einer eindeutigen Bestätigung der verantwortlichen Person zu bescheinigen. Die Vorschriften über die Zuteilung einer Prüfplakette nach § 29 Absatz 3 bleiben hiervon unberührt.
+
+3.1.4.8  
+bei der Eintragung der Laufleistung des Fahrzeugs nach dem Stand des Wegstreckenzählers in den Untersuchungsbericht durch Vergleich mit der in dem Untersuchungsbericht der zuletzt durchgeführten Hauptuntersuchung dokumentierten oder nach § 39 Absatz 5b der Fahrzeug-Zulassungsverordnung übermittelten Laufleistung des Fahrzeugs fest, dass der durch den Wegstreckenzähler angezeigte Stand niedriger ist als der auf dem Untersuchungsbericht oder Prüfprotokoll dokumentierte Stand, der bei der zuletzt durchgeführten Hauptuntersuchung oder Sicherheitsprüfung festgestellt wurde, und der Einbau eines anderen Wegstreckenzählers in das Kraftfahrzeug nicht nachgewiesen werden kann, so ist der Stand des Wegstreckenzählers nicht plausibel und hat er das Ergebnis der Prüfung des Wegstreckenzählers unverzüglich den zuständigen Zulassungsbehörden auf elektronischem Weg über das Kraftfahrt-Bundesamt unter Benennung der fahrzeugidentifizierenden Merkmale mitzuteilen und die fehlende Plausibilität auf dem Untersuchungsbericht oder Prüfprotokoll zu vermerken.
 
 3.1.5  
 Untersuchungsberichte über Hauptuntersuchungen sind fälschungserschwerend auszuführen oder müssen einen HU-Code aufweisen.
@@ -3719,7 +3712,7 @@ Im Untersuchungsbericht können auch Hinweise der aaSoP oder PI aufgenommen werd
 Sicherheitsprüfungen
 
 3.2.1  
-Sicherheitsprüfungen sind von hierfür nach Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten oder von aaSoP oder PI durchführen zu lassen.
+Die Durchführung der Sicherheitsprüfung (Inspektion im Sinne der DIN EN ISO/IEC 17020:2012) kann von einem amtlich anerkannten Sachverständigen oder Prüfer, einer akkreditierten Inspektionsstelle gemäß DIN EN ISO/IEC 17020:2012 nach Anlage VIIIb oder vom BIV bescheinigt werden. Der BIV darf die Bescheinigung nur ausstellen, wenn gegenüber der Deutschen Akkreditierungsstelle nachgewiesen wurde, dass er alle Anforderungen der DIN EN ISO/IEC 17020:2012 erfüllt. Die Anerkennung nach Landesrecht bleibt unberührt. Der BIV ist befugt, für diese Prüfungen Personal und Ausrüstung der nach Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten einzusetzen. Diese Befugnis schließt die gesetzliche Erlaubnis gemäß DIN EN ISO/IEC 17020:2012, A.3 Anforderungen an Inspektionsstellen (Typ C), Abschnitt b ein, dass verantwortliche Personen der nach Anlage VIIIc anerkannten Kraftfahrzeugwerkstätten (Inspektoren im Sinne der DIN EN ISO/IEC 17020:2012) an Entwicklung, Herstellung, Vertrieb, Errichtung, Kundendienst oder Instandhaltung desselben Inspektionsgegenstandes beteiligt sein können, sofern dadurch die Inspektionsergebnisse nicht beeinträchtigt werden. Der Nachweis, dass die Inspektionsergebnisse nicht beeinträchtigt werden, ist durch geeignete Überwachungsmaßnahmen für das Vorhandensein von Objektivität durch die akkreditierte Inspektionsstelle zu erbringen. Eine Unterbrechung der Inspektion zum Zwecke der Beseitigung von festgestellten Mängeln ist unzulässig. Die Ausführung von Tätigkeiten am Fahrzeug, wie zum Beispiel Reparatur, Instandsetzung und Wartung, nach Beginn der Inspektion führt zur Wiederholungspflicht der Inspektion.
 
 3.2.2  
 Der Halter hat das Fahrzeug nach Maßgabe der Nummern 2.1 und 2.2 in Verbindung mit Nummer 2.4 spätestens bis zum Ablauf der dort angegebenen Fristen in einer hierfür anerkannten Kraftfahrzeugwerkstatt oder beim aaSoP oder PI zur Sicherheitsprüfung vorzuführen.
@@ -4435,7 +4428,7 @@ die Überwachungsorganisation eine geeignete Stelle im Anerkennungsgebiet unterh
 die Prüfingenieure, die in der Überwachungsorganisation tätig werden sollen, von keiner anderen Überwachungsorganisation betraut sind,
 
 2.1b  
-sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; die Anerkennungsbehörde kann bis zum 31. Dezember 2020 von den Nummern 6.2.6 und 6.2.7 DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden; soweit eine Überwachungsorganisation von diesen abweichenden Anforderungen Gebrauch macht, weist sie die Einhaltung dieser abweichenden sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
+sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist (Inspektionsstelle Typ A); die Anerkennungsbehörde kann bis zum 30. Juni 2022 von den Nummern 6.2.6, 6.2.7, 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden, die zu den Nummern 6.3 und 7.1.6 der DIN EN ISO/IEC 17020:2012 durch die Vorschriften dieser Verordnung in der vor dem 3. Juli 2021 geltenden Fassung hierzu ersetzt werden; soweit eine Überwachungsorganisation von den abweichenden Anforderungen zu den Nummern 6.2.6 und 6.2.7 der DIN EN ISO/IEC 17020:2012 Gebrauch macht, weist sie die Einhaltung dieser abweichenden Anforderungen sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
 
 2.2  
 die nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen persönlich zuverlässig sind,
@@ -4543,7 +4536,7 @@ Im Rahmen der Innenrevision hat die Überwachungsorganisation insbesondere siche
 Zur Vermeidung von Interessenkollisionen dürfen die Überwachungsorganisationen, ihre Inhaber, ihre Gesellschafter und ihre nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen sowie die mit der Durchführung von HU, SP oder Abnahmen betrauten PI weder direkt noch indirekt mit Herstellung, Handel, Leasing, Wartung und Reparatur von Fahrzeugen und Fahrzeugteilen befasst sein.
 
 6.7  
-Die von der Überwachungsorganisation zur Durchführung von HU und SP erhobenen personenbezogenen Daten dürfen nur zum Zwecke des Nachweises einer ordnungsgemäßen Untersuchung und Prüfung im Sinne der Nummer 2.4 verarbeitet oder genutzt werden. Eine Verarbeitung oder Nutzung für andere Zwecke ist nur mit schriftlicher Einwilligung des Betroffenen zulässig. Wird die Einwilligungserklärung zusammen mit anderen Erklärungen abgegeben, ist sie besonders hervorzuheben. Der Betroffene ist bei der Erteilung der Einwilligung darauf hinzuweisen, dass er sie jederzeit mit Wirkung für die Zukunft widerrufen kann.
+Die von der Überwachungsorganisation zur Durchführung von HU, SP oder Abnahmen erhobenen personenbezogenen Daten dürfen von ihr zum Zwecke des Nachweises einer ordnungsgemäßen Untersuchung und Prüfung im Sinne von Nummer 2.4 erhoben, gespeichert und verwendet werden.
 
 7  
 Übergangsvorschriften  
@@ -4755,13 +4748,25 @@ der Antragsteller oder die für die Durchführung der SP und/oder der AU und/ode
 der Antragsteller nachweist, dass alle von ihm benannten Untersuchungsstellen den Anforderungen der Anlage VIIId entsprechen,
 
 2.8  
-der Antragsteller nachweist, dass für alle von ihm benannten Untersuchungsstellen Dokumentationen der Betriebsorganisationen erstellt sind, die interne Regeln enthalten, nach denen eine ordnungsgemäße Durchführung der SP und/oder der AU und/oder der AUK sichergestellt ist. Die Dokumentationen müssen mindestens den Anforderungen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen,
+der Antragsteller nachweist, dass für die von ihm benannte Betriebsstätte eine laufend fortzusetzende Dokumentation der Betriebsorganisation erstellt ist, die interne Regeln enthält, nach der eine ordnungsgemäße Durchführung und Nachweisführung über die Ergebnisse jeder durchgeführten SP und/oder der AU und/oder der AUK und die vorgeschriebenen Kalibrierungen der Mess-und Prüfgeräte in dieser Betriebsstätte sichergestellt sind, die Teil des Qualitätsmanagementsystems nach Nummer 2.11 ist und mindestens den Anforderungen der nach Nummer 1.2 bekannt gemachten Richtlinie entsprechen muss,
 
 2.9  
-der Antragsteller bestätigt, dass für die mit der Durchführung der SP und/oder der AU und/oder der AUK betrauten verantwortliche(n) Person(en) und Fachkräfte eine ausreichende Haftpflichtversicherung zur Deckung aller im Zusammenhang mit den SP und/oder den AU und/oder den AUK entstehenden Ansprüchen besteht, dies auf Verlangen nachweist und erklärt, dass er diese Versicherung aufrechterhalten wird,
+der Antragsteller bestätigt, dass für die mit der Durchführung der SP und/oder der AU und/oder der AUK betrauten verantwortliche(n) Person(en) und Fachkräfte eine ausreichende Haftpflichtversicherung zur Deckung aller im Zusammenhang mit den SP und/oder den AU und/oder den AUK entstehenden Ansprüchen besteht, dies auf Verlangen nachweist und erklärt, dass er diese Versicherung aufrechterhalten wird; ist der Antragsteller eine Einrichtung des Bundes, entfällt diese Anforderung,
 
 2.10  
-der Antragsteller sowie die im Anerkennungsverfahren beteiligten Stellen nach Nummer 1.1 Satz 2 das Land, in dem er tätig wird und für das der Antragsteller anerkannt ist, von allen Ansprüchen Dritter wegen Schäden freistellt, die im Zusammenhang mit den SP und/oder den AU und/oder den AUK von ihm oder den von ihm beauftragten verantwortlichen Personen und Fachkräften verursacht werden, und dafür den Abschluss einer entsprechenden Versicherung bestätigt, dies auf Verlangen nachweist und erklärt, dass er diese Versicherung aufrechterhalten wird.
+der Antragsteller sowie die im Anerkennungsverfahren beteiligten Stellen nach Nummer 1.1 Satz 2 das Land, in dem er tätig wird und für das der Antragsteller anerkannt ist, von allen Ansprüchen Dritter wegen Schäden freistellt, die im Zusammenhang mit den SP und/oder den AU und/oder den AUK von ihm oder den von ihm beauftragten verantwortlichen Personen und Fachkräften verursacht werden, und dafür den Abschluss einer entsprechenden Versicherung bestätigt, dies auf Verlangen nachweist und erklärt, dass er diese Versicherung aufrechterhalten wird; ist der Antragsteller eine Einrichtung des Bundes, entfällt diese Anforderung,
+
+2.11  
+der Antragsteller nachweist, dass
+
+2.11.1  
+die von ihm benannte Betriebsstätte in ein unabhängiges Qualitätsmanagementsystem seines Unternehmens eingegliedert ist, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, dessen Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist, oder
+
+2.11.2  
+die von ihm benannte Betriebsstätte die Anforderungen des BIV erfüllt. Der BIV muss ein Qualitätsmanagementsystem unterhalten, das mindestens den Anforderungen der DIN EN ISO/IEC 17020:2012 entspricht, dessen Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; ist der Antragsteller eine Einrichtung des Bundes, entfällt diese Anforderung.
+
+2.12  
+Zur Vermeidung von Interessenkollisionen dürfen der BIV oder die anerkannte Werkstatt, ihre Inhaber, ihre Gesellschafter und ihre nach Gesetz, Vertrag oder Satzung zur Vertretung der anerkannten Werkstatt verantwortlichen Personen sowie ihre Mitarbeiter nicht mit der Durchführung von hoheitlichen Untersuchungen im Sinne dieser Verordnung, insbesondere mit der Hauptuntersuchung zur Beurteilung des Fahrzeugzustandes, befasst sein. Die Untersuchung des Motormanagement-/Abgasreinigungssystems und die Prüfung der Gasanlagen für Antriebssysteme von Kraftfahrzeugen sind hiervon ausgenommen, ebenso die Sicherheitsprüfung sowie die Untersuchungen nach §§ 57b und 57d. Darüber hinausgehende Untersuchungen sind nicht zulässig.
 
 3  
 Nebenbestimmungen
@@ -4788,15 +4793,65 @@ Die Anerkennung ist zu widerrufen, wenn nachträglich eine der Voraussetzungen n
 Aufsicht über anerkannte Kraftfahrzeugwerkstätten
 
 6.1  
-Die Anerkennungsstelle übt die Aufsicht aus. Sie kann selbst prüfen oder prüfen lassen,
-
-6.1.1  
-ob die SP und/oder die AU und/oder die AUK ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen sind sowie die sich sonst aus der Anerkennung ergebenden Pflichten erfüllt werden,
-
-6.1.2  
-in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist.
+Die Anerkennungsstellen nach Nummer 1.1 üben die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Die Anerkennungsstellen können selbst prüfen oder prüfen lassen, ob die SP und/oder die AU und/oder die AUK ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen sind sowie die sich sonst aus der Anerkennung ergebenden Pflichten von den anerkannten Kraftfahrzeugwerkstätten erfüllt werden.
 
 6.2  
+Die Anerkennungsstellen unterhalten ein Qualitätsmanagementsystem im Sinne der DIN EN ISO/IEC 17020:2012, bei dem die Anerkennung von Kraftfahrzeugwerkstätten nach Nummer 1.1 ein Teil des Qualitätsmanagementsystems nach Nummer 2.11 ist. In dem System müssen zusätzlich die folgenden Prozesse und Zuständigkeiten dokumentiert sein:
+
+6.2.1  
+System zur Erhebung und Speicherung von Daten
+
+Zu jeder anerkannten Kraftfahrzeugwerkstatt sind von der zuständigen Anerkennungsstelle Name, Anschrift, Datum der Anerkennung und Anerkennungsnummer zu erheben und zu speichern. Darüber hinaus sind für einen Zeitraum von längstens sechs Jahren ab dem jeweiligen Datum der Anerkennung folgende Daten zu erheben und unter Beachtung der einschlägigen Datenschutzvorschriften zu speichern:
+
+6.2.1.1  
+Datum und Ergebnis mindestens der letzten zwei Überprüfungen,
+
+6.2.1.2  
+Name, Funktion, Qualifikation und Datum der bei der jeweiligen Überprüfung aktuellen Erst- oder Wiederholungsschulung aller verantwortlichen Personen und Fachkräfte,
+
+6.2.1.3  
+zu allen für die jeweilige Anerkennung vorgeschriebenen Prüfmitteln:
+
+–  
+Hersteller, Typ und gegebenenfalls Inventarnummer,
+
+–  
+bei genehmigungspflichtigen Prüfmitteln, Datum und Nummer der Genehmigung,
+
+–  
+Datum und Ergebnis der letzten zwei vorgeschriebenen Eichungen, Stückprüfungen oder Kalibrierungen.
+
+–  
+Nachweise/Kalibrierscheine der letzten zwei durchgeführten Eichungen, Stückprüfungen oder Kalibrierungen.
+
+6.2.2  
+System zur Auskunftserteilung und Übermittlung der Daten nach Nummer 6.2.1.
+
+6.2.2.1  
+Alle Daten nach Nummer 6.2.1 sind der nach Landesrecht zuständigen Stelle von der Anerkennungsstelle durch
+
+a) Erteilung einer Auskunft oder
+
+b) Übermittlung
+
+kostenfrei zugänglich zu machen, soweit dies zu ihrer Überwachung anerkannter Kraftfahrzeugwerkstätten jeweils erforderlich ist.
+
+6.2.2.2  
+Jede Anerkennung, jede Rücknahme, jeder Widerruf und jede Einschränkung der Anerkennung sowie die Daten nach Nummer 6.2.1 sind der zuständigen obersten Landesbehörde oder der nach Landesrecht zuständigen Stelle und dem Bundesinnungsverband des Kraftfahrzeughandwerks unmittelbar zu melden, soweit dies für die Überprüfung der Rechtmäßigkeit einer Prüfbescheinigung jeweils erforderlich ist.
+
+6.2.2.3  
+Alle Daten nach Nummer 6.2.1.3 sind den Prüfingenieuren der amtlich anerkannten Überwachungsorganisationen oder den amtlich anerkannten Sachverständigen oder Prüfern der Technischen Prüfstellen für den Kraftfahrzeugverkehr von der Anerkennungsstelle durch
+
+a) Erteilung einer Auskunft oder
+
+b) Übermittlung
+
+kostenfrei zugänglich zu machen, soweit dies zur Durchführung der HU und/oder der SP und/oder der AU und/oder der AUK im Einzelfall oder für das Qualitätsmanagementsystem der amtlich anerkannten Überwachungsorganisationen oder der Technischen Prüfstellen im Einzelfall jeweils erforderlich ist.
+
+6.3  
+Die in 6.2.1 Satz 1 und 6.2.1.1 bis 6.2.1.3 genannten Daten sind von der Anerkennungsstelle nach dem Ablauf, der Rücknahme, dem Widerruf oder der sonstigen Beendigung der Gültigkeit der Anerkennung, längstens aber nach sechs Jahren ab dem jeweiligen Datum der Anerkennung unverzüglich zu löschen.
+
+6.4  
 Nummer 8.1.1 findet Anwendung.
 
 7  
@@ -4907,7 +4962,7 @@ Ausstattung und bauliche Gegebenheiten von Untersuchungsstellen, Mess- und Prüf
 Die Mindestanforderungen an Untersuchungsstellen ergeben sich aus der Tabelle am Ende dieser Anlage.
 
 3.2  
-Die Einhaltung der für die eingesetzten Mess-/Prüfgeräte geltenden Vorschriften oder Herstellervorgaben für die Kalibrierung sind von der Inhaberin oder vom Inhaber oder von der Nutzerin oder vom Nutzer der Untersuchungsstelle sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von HU, SP, AU, AUK und GWP bis zur Wiederherstellung des ordnungsgemäßen Zustandes unzulässig.
+Die Einhaltung der für die eingesetzten Mess-/Prüfgeräte geltenden gesetzlichen Vorschriften und Herstellervorgaben für die Kalibrierung sind sicherzustellen. Werden die Vorschriften nicht eingehalten, ist die Durchführung von HU, SP, AU, AUK und GWP bis zur Wiederherstellung des ordnungsgemäßen Zustandes der Untersuchungsstelle unzulässig. Die in Anhang III einschließlich Tabelle 1 der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhägern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2014, S. 51; L 334 vom 22.12.2015, S. 66) genannten Mindestanforderungen an die Einrichtungen und Geräte für die Technische Überwachung sind ab dem 20. Mai 2023 einzuhalten. Der Kalibrierstatus der eingesetzten Mess-/Prüfgeräte ist anhand eines Kalibrierscheins, der dem amtlichen Muster der Deutschen Akkreditierungsstelle entspricht, zu beurteilen. Die Inspektionsstelle oder das akkreditierte Kalibrierlaboratorium ist verpflichtet, für den Ergebnisbericht das amtliche Muster bei Kalibrierungen im Anwendungsbereich dieser Verordnung zu nutzen. Das amtliche Muster des Kalibrierscheins wird auf der Website der Deutschen Akkreditierungsstelle zum Download bereitgestellt.
 
 3.3  
 Die Messgeräte nach den Nummern 20, 21 und 22 der Tabelle müssen über Einrichtungen verfügen oder mit Einrichtungen verbunden sein, die die zur Identifizierung erforderlichen Daten der zu untersuchenden Kraftfahrzeuge nach den Nummern 6.8.2.1 und 6.8.2.2 der Anlage VIIIa einschließlich der ermittelten Messwerte aufnehmen, speichern und bei Untersuchungen nach Nummer 3.1.1.1 der Anlage VIII in Form eines Nachweises ausdrucken. Die eingesetzte Softwareversion der Messgeräte muss zu Prüfungszwecken angezeigt werden können.
@@ -5084,77 +5139,7 @@ Die Zentrale Stelle bereitet die Vorgaben, Prüfhinweise und Angaben über Hoch-
 Die Technischen Prüfstellen und amtlich anerkannten Überwachungsorganisationen übermitteln die nach Nummer 3.2 der Anlage VIIIa getroffenen Feststellungen mit dem Bezug zur vollständigen Fahrzeug-Identifizierungsnummer, jedoch ohne Angaben zum Fahrzeughalter, zum Kennzeichen der Fahrzeuge und zur untersuchenden Person halbjährlich an die Zentrale Stelle, die diese auswertet und erforderlichenfalls die nach Nummer 8.2 bereitzustellenden Angaben aktualisiert.
 
 8.4  
-Übermittlung bestimmter Angaben an das Kraftfahrt-Bundesamt und Bereitstellung der Angaben für andere Stellen
-
-8.4.1  
-Angaben zur Erstellung einer Fahrleistungsstatistik
-
-8.4.1.1  
-Zur Erstellung einer Fahrleistungsstatistik für Deutschland übermittelt die Zentrale Stelle die bei den HU festgestellten und nachfolgend aufgeführten Daten der einzelnen Fahrzeuge halbjährlich dem Kraftfahrt-Bundesamt:
-
-8.4.1.1.1  
-vierstellige KBA-Herstellerschlüsselnummer,
-
-8.4.1.1.2  
-dreistellige KBA-Typschlüsselnummer,
-
-8.4.1.1.3  
-drei- oder fünfstellige Versionsvariantenschlüsselnummer,
-
-8.4.1.1.4  
-vierstellige Fahrzeugklasse und -aufbauart,
-
-8.4.1.1.5  
-Monat und Jahr der Erstzulassung,
-
-8.4.1.1.6  
-Monat und Jahr der HU,
-
-8.4.1.1.7  
-Stand des Wegstreckenzählers bei Kraftfahrzeugen und, soweit vorhanden, bei Anhängern.
-
-8.4.1.2  
-Soweit technische Daten zum vorgeführten Fahrzeug aus den Schlüsselnummern nicht abgeleitet werden können, dürfen durch die Zentrale Stelle folgende zusätzliche Angaben übermittelt werden:
-
-8.4.1.2.1  
-zulässige Gesamtmasse (kg),
-
-8.4.1.2.2  
-Nennleistung (kW),
-
-8.4.1.2.3  
-Hubvolumen (cm³),
-
-8.4.1.2.4  
-Höchstgeschwindigkeit (km/h),
-
-8.4.1.2.5  
-Energie- und Antriebsart,
-
-8.4.1.2.6  
-Emissionsklasse.
-
-Darüber hinaus übermittelt die Zentrale Stelle an das Kraftfahrt-Bundesamt zu jedem einzelnen Fahrzeug die seit der vorangegangenen HU verstrichene Zeit in Tagen sowie die in dieser Zeit gefahrenen Kilometer.
-
-8.4.2  
-Angaben zur Erstellung einer Mängelstatistik und Veröffentlichung der Statistik
-
-Zur Erstellung einer Statistik über die bei den HU festgestellten Mängel nach Nummer 3.1.4 der Anlage VIII übermittelt die Zentrale Stelle dem Kraftfahrt-Bundesamt halbjährlich zusätzlich zu den Angaben nach Nummer 8.4.1 die Mängelfeststellungen bezogen auf die in den Nummern 6.1 bis 6.10 der Anlage VIIIa aufgeführten Hauptgruppen der in den Fahrzeugen verbauten Bauteile und Systeme in nicht personenbezogener Form.
-
-Zusätzlich übermittelt die Zentrale Stelle die Bezeichnungen der Untersuchungsstellen nach Nummer 2 der Anlage VIIId, in denen die HU durchgeführt wurden, sowie die Namen der Bundesländer, in denen die Untersuchungsstellen ihren Sitz haben.
-
-Das Kraftfahrt-Bundesamt erstellt aus den vorstehenden Angaben eine Statistik mit der Zuordnung zu den in den Nummern 2.1.1 bis 2.1.6 der Anlage VIII genannten Fahrzeugarten und veröffentlicht diese in nicht personenbezogener Form jährlich.
-
-8.4.3  
-Übermittlung an andere Stellen
-
-Das Kraftfahrt-Bundesamt übermittelt die nach Nummer 8.4.2 zu erstellende Statistik in nicht personenbezogener Form
-
-8.4.3.1  
-halbjährlich dem „Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE), der diese auswertet und erforderlichenfalls Vorschläge zur Änderung der maßgeblichen Vorschriften erarbeitet,
-
-8.4.3.2  
-auf Anfrage dem Bundesministerium für Verkehr und digitale Infrastruktur zur Fortschreibung der maßgeblichen Vorschriften und halbjährlich den zuständigen obersten Landesbehörden zur Wahrnehmung ihrer Aufsichtspflichten über Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen.
+(weggefallen)
 
 8.5  
 Übermittlung von Angaben zur Entwicklung von Fahrzeugen
@@ -5952,11 +5937,11 @@ Zur Schadstoffklasse S 1 gehören Kraftfahrzeuge, die
 
 6. in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/77/EG fallen, den Vorschriften der Richtlinie entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die für die Gruppen II und III vorgeschriebenen Grenzwerte der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder
 
-7. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. L 59 vom 27.2.1998, S. 1) entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
+7. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. L 59 vom 27.2.1998, S. 1) entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.1.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
 
 8. mit Motoren ausgerüstet sind, die der ECE-Regelung Nummer 96, in Kraft gesetzt durch die Verordnung vom 11. Oktober 1996 (BGBl. 1996 II S. 2555), zuletzt geändert durch die Änderung 1 – Verordnung vom 16. Oktober 1998 – (BGBl. 1998 II S. 2738) über einheitliche Bedingungen für die Genehmigung der Motoren mit Selbstzündung für land- und forstwirtschaftliche Zugmaschinen hinsichtlich der Emissionen von Schadstoffen aus dem Motor entsprechen oder
 
-9. mit Motoren ausgerüstet sind, die der Richtlinie 2000/25/EG entsprechen und die bei den Emissionen die in der Tabelle im Abschnitt 4.2.1 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
+9. mit Motoren ausgerüstet sind, die der Richtlinie 2000/25/EG entsprechen und die bei den Emissionen die in der Tabelle im Abschnitt 4.1.2.1 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
 Der Anwendungsbereich und die Anforderungen der in Nummer 1 genannten Richtlinie können auf alle Kraftfahrzeuge nach Nummer 1 (Anwendungsbereich) ausgedehnt werden.
 
@@ -5980,7 +5965,7 @@ Zur Schadstoffklasse S 2 gehören Kraftfahrzeuge, die
 
 7. in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die für die Gruppen II und III vorgeschriebenen Grenzwerte unter A (2 000) der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder
 
-8. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.2.3 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
+8. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.1.2.3 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
 
 9. in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 1999/102/EG fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die für die Gruppen II und III vorgeschriebenen Grenzwerte unter A (2 000) der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder
 
@@ -5988,7 +5973,7 @@ Zur Schadstoffklasse S 2 gehören Kraftfahrzeuge, die
 
 11. in den Anwendungsbereich der Richtlinie 70/220/EWG in der Fassung der Richtlinie 2001/100/EG fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die für die Gruppen II und III vorgeschriebenen Grenzwerte unter A (2 000) der Tabelle im Abschnitt 5.3.1.4 des Anhangs I der Richtlinie nicht überschreiten oder
 
-12. mit Motoren ausgerüstet sind, die der Richtlinie 2000/25/EG entsprechen und die bei den Emissionen die in der Tabelle im Abschnitt 4.2.3 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
+12. mit Motoren ausgerüstet sind, die der Richtlinie 2000/25/EG entsprechen und die bei den Emissionen die in der Tabelle im Abschnitt 4.1.2.3 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
 Der Anwendungsbereich und die Anforderungen der in Nummer 1 genannten Richtlinie können auf alle Kraftfahrzeuge nach Nummer 1 (Anwendungsbereich) ausgedehnt werden.   
 
@@ -6020,7 +6005,13 @@ Zur Schadstoffklasse S 3 gehören Fahrzeuge, die
 
 10. in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 2001/27/EG (ABl. L 107 vom 18.4.2001, S. 10) fallen, den Vorschriften der Richtlinie entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2 000) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
 
-11. in den Anwendungsbereich der Richtlinie 2005/55/EG oder deren jeweils danach geänderten und im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassungen fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten.
+11. in den Anwendungsbereich der Richtlinie 2005/55/EG oder deren jeweils danach geänderten und im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassungen fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter A (2000) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
+
+12. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG entsprechen und deren Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.1.2.4 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten, oder
+
+13. mit Motoren ausgerüstet sind, die der Regelung Nummer 96 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Motoren mit Selbstzündung für land- und forstwirtschaftliche Zugmaschinen und nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, hinsichtlich der Emissionen von Schadstoffen aus dem Motor (ABl. L 107 vom 17.4.2019, S. 1) entsprechen und deren Emissionen die in der Tabelle in Abschnitt 5.2.1 genannten Grenzwerte der Leistungsbereiche H, I, J und K nicht überschreiten, oder
+
+14. mit Motoren ausgerüstet sind, die der Delegierten Verordnung (EU) 2015/96 der Kommission vom 1. Oktober 2014 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates in Bezug auf die Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 16 vom 23.1.2015, S. 1) in der bis zum Ablauf des 20. Juli 2018 geltenden Fassung entsprechen und deren Emissionen die in der Tabelle im Abschnitt 4.1.2.4 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
 Fahrzeuge, die die Anforderungen der Schadstoffklasse S 3 erfüllen, erfüllen auch die Anforderungen der Schadstoffklasse S 2.
 
@@ -6042,7 +6033,13 @@ Zur Schadstoffklasse S 4 gehören Fahrzeuge, die
 
 6. in den Anwendungsbereich der Richtlinie 88/77/EWG in der Fassung der Richtlinie 2001/27/EG (ABl. L 107 vom 18.4.2001, S. 10) fallen, den Vorschriften der Richtlinie entsprechen und die bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter B 1 (2 005) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
 
-7. in den Anwendungsbereich der Richtlinie 2005/55/EG oder deren jeweils danach geänderten und im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassungen fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter B 1 (2005) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten.
+7. in den Anwendungsbereich der Richtlinie 2005/55/EG oder deren jeweils danach geänderten und im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassungen fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter B 1 (2005) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
+
+8. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG entsprechen und deren Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.1.2.5 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten, oder
+
+9. mit Motoren ausgerüstet sind, die der Regelung Nummer 96 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) entsprechen und deren Emissionen die in der Tabelle in Abschnitt 5.2.1 genannten Grenzwerte der Leistungsbereiche L, M, N und P nicht überschreiten, oder
+
+10. mit Motoren ausgerüstet sind, die der Delegierten Verordnung (EU) 2015/96 entsprechen und deren Emissionen die in der Tabelle im Abschnitt 4.1.2.5 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
 Fahrzeuge, die die Anforderungen der Schadstoffklasse S 4 erfüllen, erfüllen auch die Anforderungen der Schadstoffklasse S 3.
 
@@ -6058,7 +6055,13 @@ Zur Schadstoffklasse S 5 gehören Fahrzeuge, die
 
 3. in den Anwendungsbereich der Richtlinie 2005/55/EG oder deren jeweils danach geänderten und im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassungen fallen, den Vorschriften der Richtlinie entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die unter B 2 (2008) der Tabellen 1 und 2 im Abschnitt 6.2.1 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten oder
 
-4. in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle 1 im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten.
+4. in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle 1 im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten oder
+
+5. mit Motoren ausgerüstet sind, die der Richtlinie 97/68/EG entsprechen und deren Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle im Abschnitt 4.1.2.6 des Anhangs I der Richtlinie genannten Grenzwerte nicht überschreiten, oder
+
+6. mit Motoren ausgerüstet sind, die der Regelung Nummer 96 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) entsprechen und deren Emissionen die in der Tabelle in Abschnitt 5.2.1 genannten Grenzwerte der Leistungsbereiche Q und R nicht überschreiten, oder
+
+7. mit Motoren ausgerüstet sind, die der Delegierten Verordnung (EU) 2015/96 entsprechen und deren Emissionen die in der Tabelle im Abschnitt 4.1.2.6 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
 Fahrzeuge, die die Anforderungen der Schadstoffklasse S 5 erfüllen, erfüllen auch die Anforderungen der Schadstoffklasse S 4.
 
@@ -6070,7 +6073,11 @@ Zur Schadstoffklasse S 6 gehören Fahrzeuge, die
 
 1. in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) und der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 (ABl. L 199 vom 28.7.2008, S. 1) fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in der Tabelle 2 im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten oder
 
-2. in den Anwendungsbereich der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/76/EG (ABl. L 188 vom 18.7.2009, S. 1) fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten.
+2. in den Anwendungsbereich der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/76/EG (ABl. L 188 vom 18.7.2009, S. 1) fallen, den Vorschriften der Verordnung entsprechen und bei den Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die im Anhang I der Verordnung genannten Grenzwerte nicht überschreiten oder
+
+3. mit Motoren ausgerüstet sind, die der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Straßenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG (ABl. L 252 vom 16.9.2016, S. 53; L 231 vom 6.9.2019, S. 29), die durch die Verordnung (EU) 2020/1040 (ABl. L 231 vom 17.7.2020, S. 1) geändert wurde, entsprechen und deren Emissionen der gasförmigen Schadstoffe und luftverunreinigenden Partikel die in den Tabellen II-1 und II-4 des Anhangs II der Verordnung (EU) 2016/1628 genannten Grenzwerte nicht überschreiten, oder
+
+4. mit Motoren ausgerüstet sind, die der Delegierten Verordnung (EU) 2018/985 der Kommission vom 12. Februar 2018 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates in Bezug auf die Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit land- und forstwirtschaftlicher Fahrzeuge und ihrer Motoren und zur Aufhebung der Delegierten Verordnung (EU) 2015/96 der Kommission (ABl. L 182 vom 18.7.2018, S. 1; L 325 vom 20.12.2018, S. 53), die durch die Delegierte Verordnung (EU) 2020/1564 (ABl. L 358 vom 28.10.2020, S. 1) geändert worden ist, entsprechen und deren Emissionen die in den Tabellen II-1 und II-4 des Anhangs II der Verordnung (EU) 2016/1628 genannten Grenzwerte nicht überschreiten.
 
 Fahrzeuge, die die Anforderungen der Schadstoffklasse S 6 erfüllen, erfüllen auch die Anforderungen der Schadstoffklasse S 5.
 
@@ -13857,123 +13864,1122 @@ Mobilkrane: Fahrzeuge mit besonderer Zweckbestimmung der Klasse N<sub>3</sub>, d
 5.7  
 Sonstige Fahrzeuge mit besonderer Zweckbestimmung: Fahrzeuge im Sinne der Nummer 5 mit Ausnahme von Fahrzeugen nach den Nummern 5.1 bis 5.6.
 
-<table width="100%" style="border: none;"><colgroup><col style="width: 12%" /><col style="width: 88%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Klasse L1e:</td><td style="text-align: left;">zweirädrige Kleinkrafträder mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm³ im Falle von Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren;<br />
-<br />
-</td></tr><tr class="even"><td style="text-align: left;">Klasse L2e:</td><td style="text-align: left;">dreirädrige Kleinkrafträder mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm³ im Falle von Fremdzündungsmotoren oder einer maximalen Nutzleistung von bis zu 4 kW im Falle anderer Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren;<br />
-<br />
-</td></tr><tr class="odd"><td style="text-align: left;">Klasse L3e:</td><td style="text-align: left;">Krafträder, das heißt zweirädrige Kraftfahrzeuge ohne Beiwagen mit einem Hubraum von mehr als 50 cm³ im Falle von Verbrennungsmotoren und/oder einer bauartbedingten Höchstgeschwindigkeit von mehr als 45 km/h;<br />
-<br />
-</td></tr><tr class="even"><td style="text-align: left;">Klasse L4e:</td><td style="text-align: left;">Krafträder mit Beiwagen;<br />
-<br />
-</td></tr><tr class="odd"><td style="text-align: left;">Klasse L5e:</td><td style="text-align: left;">dreirädrige Kraftfahrzeuge, das heißt mit drei symmetrisch angeordneten Rädern ausgestattete Kraftfahrzeuge mit einem Hubraum von mehr als 50 cm³ im Falle von Verbrennungsmotoren und/oder einer bauartbedingten Höchstgeschwindigkeit von mehr als 45 km/h;<br />
-<br />
-</td></tr><tr class="even"><td style="text-align: left;">Klasse L6e:</td><td style="text-align: left;">vierrädrige Leichtkraftfahrzeuge mit einer Leermasse von bis zu 350 kg, ohne Masse der Batterien im Falle von Elektrofahrzeugen, mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 45 km/h und einem Hubraum von bis zu 50 cm³ im Falle von Fremdzündungsmotoren oder einer maximalen Nutzleistung von bis zu 4 kW im Falle anderer Verbrennungsmotoren oder einer maximalen Nenndauerleistung von bis zu 4 kW im Falle von Elektromotoren. Diese Fahrzeuge müssen den technischen Anforderungen für dreirädrige Kleinkrafträder der Klasse L2e genügen, sofern in den Einzelrichtlinien nichts anderes vorgesehen ist;<br />
-<br />
-</td></tr><tr class="odd"><td style="text-align: left;">Klasse L7e:</td><td style="text-align: left;">vierrädrige Kraftfahrzeuge, die nicht unter Klasse L6e fallen, mit einer Leermasse von bis zu 400 kg (550 kg im Falle von Fahrzeugen zur Güterbeförderung), ohne Masse der Batterien im Falle von Elektrofahrzeugen, und mit einer maximalen Nutzleistung von bis zu 15 kW. Diese Fahrzeuge gelten als dreirädrige Kraftfahrzeuge und müssen den technischen Anforderungen für dreirädrige Kraftfahrzeuge der Klasse L5e genügen, sofern in den Einzelrichtlinien nichts anderes vorgesehen ist.</td></tr></tbody></table>
+Klassen
 
-Diese Einteilung gilt nicht für die nachstehend genannten Fahrzeuge:
+Bezeichnung der Klasse
 
-1. Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 6 km/h;
+Gemeinsame Einstufungskriterien
 
-2. durch Fußgänger geführte Fahrzeuge;
+L1e - L7e
 
-3. Fahrzeuge, die zur Benutzung durch körperlich behinderte Personen bestimmt sind;
+Alle Fahrzeuge der Klasse L
 
-4. Fahrzeuge, die für den sportlichen Wettbewerb auf der Straße oder im Gelände bestimmt sind;
+(1)
 
-5. land- oder forstwirtschaftliche Zugmaschinen;
+Länge ≤ 4 000 mm oder ≤ 3 000 mm für ein L6e-B-Fahrzeug oder ≤ 3 700 mm für ein L7e-C-Fahrzeug und
 
-6. selbstfahrende Arbeitsmaschinen;
+ 
 
-7. für Freizeitzwecke konzipierte Geländefahrzeuge mit drei symmetrisch angeordneten Rädern (ein Vorderrad und zwei Hinterräder);
+ 
 
-8. Fahrräder mit Trethilfe, die mit einem elektromotorischen Hilfsantrieb mit einer maximalen Nenndauerleistung von 0,25 kW ausgestattet sind, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder früher, wenn der Fahrer im Treten einhält, unterbrochen wird.
+(2)
 
-1  
-Klasse T:  
-|                         |
-|:------------------------|
-| Zugmaschinen auf Rädern |
+Breite ≤ 2 000 mm oder ≤ 1 000 mm für ein L1e-Fahrzeug oder ≤ 1 500 mm für ein L6e-B- oder ein L7e-C-Fahrzeug und
 
-Klasse T1:  
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h, einer Spurweite der dem Fahrer am nächsten liegenden Achse – bei Zugmaschinen mit umkehrbarem Fahrerplatz (Sitz und Lenkrad sind umkehrbar) gilt die Achse, die mit den Reifen mit dem größten Durchmesser ausgerüstet ist, als dem Fahrer am nächsten liegende Achse – von mindestens 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 1 000 mm. |
+ 
 
-Klasse T2:  
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h, einer Mindestspurweite von weniger als 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 600 mm. Beträgt der Quotient aus der Höhe des Schwerpunkts der Zugmaschine (nach ISO-Norm 789-6:1982) über dem Boden und der mittleren Mindestspurweite der Achsen jedoch mehr als 0,90, so ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt. |
+ 
 
-Klasse T3:  
-|                                                                                                                                             |
-|:--------------------------------------------------------------------------------------------------------------------------------------------|
-| Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h und einer Leermasse in fahrbereitem Zustand bis 600 kg. |
+(3)
 
-Klasse T4:  
-|                                                                                                                                                                                                                                |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zugmaschinen auf Rädern mit besonderer Zweckbestimmung mit einer bauartbedingten Höchstgeschwindigkeit bis 40 km/h (T4.1: Stelzradzugmaschinen, T4.2: überbreite Zugmaschinen, T4.3: Zugmaschinen mit geringer Bodenfreiheit). |
+Höhe ≤ 2 500 mm und
 
-Klasse T5:  
-|                                                                                       |
-|:--------------------------------------------------------------------------------------|
-| Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h. |
+Klasse
 
-2  
-Klasse C:  
-|                                                                                                                                                                   |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zugmaschinen auf Gleisketten                                                                                                                                      |
-| Zugmaschinen auf Gleisketten, die über die Gleisketten angetrieben und gelenkt werden und deren Klassen C1 bis C5 analog zu den Klassen T1 bis T5 definiert sind. |
+Bezeichnung der Klasse
 
-3  
-Klasse R:  
-Anhänger
+Gemeinsame Einstufungskriterien
 
-Klasse R1:  
+L1e
+
+Leichtes zweirädriges Kraftfahrzeug
+
+(4)
+
+zwei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+ein Hubvolumen von ≤ 50 cm³, falls ein PI-Verbrennungsmotor Teil der Antriebskonfiguration des Fahrzeugs ist, und
+
+ 
+
+ 
+
+(6)
+
+bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 45 km/h und
+
+ 
+
+ 
+
+(7)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W und
+
+ 
+
+ 
+
+(8)
+
+Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers und
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L1e-A
+
+Fahrrad mit Antriebssystem
+
+(9)
+
+Räder, die für den Pedalantrieb ausgelegt und mit einem Hilfsantrieb ausgerüstet sind, dessen Hauptzweck die Unterstützung der Pedalfunktion ist, und
+
+ 
+
+ 
+
+(10)
+
+die Leistung des Hilfsantriebs wird beim Erreichen einer Fahrzeuggeschwindigkeit von 25 km/h unterbrochen und
+
+ 
+
+ 
+
+(11)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 1 000 W und
+
+ 
+
+ 
+
+(12)
+
+ein drei- oder vierrädriges Fahrrad, das mit den zusätzlichen spezifischen Kriterien 9 bis 11 für die Einstufung als Unterklasse übereinstimmt, gilt als technisch gleichwertig in Bezug auf ein zweirädriges L1e-A-Fahrzeug
+
+L1e-B
+
+Zweirädriges Kleinkraftrad
+
+(9)
+
+ein sonstiges Fahrzeug der Klasse L1e, das anhand der Kriterien 9 bis 12 nicht als L1e-A-Fahrzeug eingestuft werden kann
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L2e
+
+Dreirädriges Kleinkraftrad
+
+(4)
+
+drei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+ein Hubvolumen von ≤ 50 cm³, falls ein PI-Motor mit Innenverbrennung oder ein Hubvolumen von ≤ 500 cm³, falls ein CI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, und
+
+ 
+
+ 
+
+(6)
+
+bauartbedingte Höchstgeschwindigkeit ≤ 45 km/h und
+
+ 
+
+ 
+
+(7)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W und
+
+ 
+
+ 
+
+(8)
+
+Masse in fahrbereitem Zustand ≤ 270 kg und
+
+ 
+
+ 
+
+(9)
+
+ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L2e-P
+
+Dreirädriges Kleinkraftrad für Personenbeförderung
+
+(10)
+
+ein L2e-Fahrzeug außer jenen, die mit den spezifischen Einstufungskriterien für ein L2e-U-Fahrzeug übereinstimmen
+
+L2e-U
+
+Dreirädriges Kleinkraftrad für Güterbeförderung
+
+(10)
+
+ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt:
+
+ 
+
+ 
+
+ 
+
+a) Länge Ladefläche x Breite Ladefläche ≥ 0,3 x Länge Fahrzeug x größte Breite Fahrzeug oder
+
+b) eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, und
+
+c) ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, und
+
+d) die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L3e
+
+Zweirädriges Kraftrad
+
+(4)
+
+zwei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers und
+
+ 
+
+ 
+
+(6)
+
+zweirädriges Fahrzeug, das nicht in die Klasse L1e eingestuft werden kann
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L3e-A1
+
+Kraftrad mit niedriger Leistung
+
+(7)
+
+Hubvolumen ≤ 125 cm³ und
+
+ 
+
+(8)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 11 kW und
+
+ 
+
+(9)
+
+Verhältnis von Leistung/Gewicht ≤ 0,1 kW/kg
+
+L3e-A2
+
+Kraftrad mit mittlerer Leistung
+
+(7)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 35 kW und
+
+ 
+
+ 
+
+(8)
+
+Verhältnis Leistung/Gewicht ≤ 0,2 kW/kg und
+
+ 
+
+ 
+
+(9)
+
+nicht abgewandelt von einem Fahrzeug, dessen Motorleistung mehr als doppelt so hoch ist, und
+
+ 
+
+ 
+
+(10)
+
+ein L3e-Fahrzeug, das nicht nach den zusätzlichen Kriterien 7, 8 und 9 für die Unterklassen eines L3e-A1-Fahrzeugs eingestuft werden kann
+
+L3e-A3
+
+Kraftrad mit hoher Leistung
+
+(7)
+
+jedes sonstige L3e-Fahrzeug, das nicht mittels der Klassifizierungskriterien eines L3e-A1- oder L3e-A2-Fahrzeugs eingestuft werden kann
+
+Unter-  
+Unterklassen
+
+Bezeichnung  
+der Unter-Unterklasse
+
+Kriterien für die Einstufung in Unter-Unterklassen  
+zusätzlich zu den Kriterien für die Einstufung  
+von L3e-A1-, L3e-A2- oder L3e-A3-Fahrzeugen
+
+L3e-AxE  
+(x = 1, 2 oder 3)
+
+Enduro-Kraftrad
+
+ 
+
+a) Sitzhöhe ≥ 900 mm und
+
+b) Bodenfreiheit ≥ 310 mm und
+
+c) Gesamtübersetzung im höchsten Gang (Primärübersetzung x Getriebeübersetzung im höchsten Gang x Endantriebsübersetzung) ≥ 6,0 und
+
+d) Masse in fahrbereitem Zustand zuzüglich der Masse der Antriebsbatterie im Falle eines Elektroantriebs oder eines Hybrid-Elektroantriebs ≤ 140 kg und
+
+e) kein Beifahrersitz
+
+L3e-AxT  
+(x = 1, 2 oder 3)
+
+Trial-Kraftrad
+
+ 
+
+a) Sitzhöhe ≤ 700 mm und
+
+b) Bodenfreiheit ≥ 280 mm und
+
+c) Fassungsvermögen des Kraftstofftanks ≤ 4 l und
+
+d) Gesamtübersetzung im höchsten Gang (Primärübersetzung x Getriebeübersetzung im höchsten Gang x Endantriebsübersetzung) ≥ 7,5 und
+
+e) Masse in fahrbereitem Zustand ≤ 100 kg und
+
+f) kein Beifahrersitz
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L4e
+
+Zweirädriges Kraftrad mit Beiwagen
+
+(4)
+
+Basisfahrzeug mit Antriebssystem, das mit den Einstufungskriterien hinsichtlich der Klasse und Unterklasse für ein L3e-Fahrzeug übereinstimmt und
+
+ 
+
+ 
+
+(5)
+
+Basisfahrzeug mit Antriebssystem und einem Beiwagen und
+
+ 
+
+ 
+
+(6)
+
+mit höchstens vier Sitzplätzen einschließlich des Fahrersitzes auf dem Kraftrad mit Beiwagen und
+
+ 
+
+ 
+
+(7)
+
+mit höchstens zwei Beifahrersitzen im Beiwagen und
+
+ 
+
+ 
+
+(8)
+
+Gesamtmasse = technisch zulässige Masse nach Angabe des Herstellers
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L5e
+
+Dreirädriges Kraftfahrzeug
+
+(4)
+
+drei Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+Masse in fahrbereitem Zustand ≤ 1 000 kg und
+
+ 
+
+ 
+
+(6)
+
+dreirädriges Fahrzeug, das nicht als L2e-Fahrzeug eingestuft werden kann und
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L5e-A
+
+Dreirädriges Kraftfahrzeug
+
+(7)
+
+ein L5e-Fahrzeug außer jenen, die mit den spezifischen Einstufungskriterien für ein L5e-B-Fahrzeug übereinstimmen, und
+
+ 
+
+ 
+
+(8)
+
+mit höchstens fünf Sitzplätzen, einschließlich des Fahrersitzes
+
+L5e-B
+
+Dreirädriges Fahrzeug zur gewerblichen Nutzung
+
+(7)
+
+als Nutzfahrzeug ausgelegtes Fahrzeug mit geschlossenem, von höchstens drei Seiten zugänglichem Fahrer- und Fahrgastraum, und
+
+ 
+
+ 
+
+(8)
+
+ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und
+
+ 
+
+ 
+
+(9)
+
+ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt:
+
+ 
+
+ 
+
+ 
+
+a) Länge Ladefläche x Breite Ladefläche ≥ 0,3 x Länge Fahrzeug x Breite Fahrzeug oder
+
+b) eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, und
+
+c) ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, und
+
+d) die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L6e
+
+Leichtes vierrädriges Kraftfahrzeug
+
+(4)
+
+vier Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 45 km/h und
+
+ 
+
+ 
+
+(6)
+
+Masse in fahrbereitem Zustand ≤ 425 kg und
+
+ 
+
+ 
+
+(7)
+
+ein Hubvolumen von ≤ 50 cm³, falls ein PI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, oder ein Hubvolumen von ≤ 500 cm³, falls ein CI-Motor Teil der Antriebskonfiguration des Fahrzeugs ist, und
+
+ 
+
+ 
+
+(8)
+
+ausgerüstet mit höchstens zwei Sitzplätzen, einschließlich des Fahrersitzes, und
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L6e-A
+
+Leichtes Straßen-Quad
+
+(9)
+
+Fahrzeug der Klasse L6e, das nicht mit den spezifischen Einstufungskriterien für ein Fahrzeug der Unterklasse L6e-B übereinstimmt, und
+
+ 
+
+ 
+
+(10)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 4 000 W
+
+L6e-B
+
+Leichtes Vierradmobil
+
+(9)
+
+geschlossener, höchstens von drei Seiten zugänglicher Fahrer- und Fahrgastraum und
+
+ 
+
+ 
+
+(10)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 6 000 W und
+
+Unter-  
+Unterklassen
+
+Bezeichnung  
+der Unter-Unterklasse
+
+Kriterien für die Einstufung in Unter-Unterklassen  
+zusätzlich zu den Kriterien für die Einstufung eines L6e-B-Fahrzeugs
+
+L6e-BP
+
+Leichtes Vierradmobil für Personenbeförderung
+
+(11)
+
+hauptsächlich für die Beförderung von Personen ausgelegtes L6e-B-Fahrzeug und
+
+ 
+
+(12)
+
+L6e-B-Fahrzeug, das nicht dem spezifischen Einstufungskriterium für ein L6e-BU-Fahrzeug entspricht
+
+L6e-BU
+
+Leichtes Vierradmobil für Güterbeförderung
+
+(11)
+
+ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt:
+
+ 
+
+ 
+
+ 
+
+a) Länge Ladefläche x Breite Ladefläche &gt; 0,3 x Länge Fahrzeug x Breite Fahrzeug oder
+
+b) eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, und
+
+c) ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, und
+
+d) die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht
+
+Klasse
+
+Bezeichnung der Klasse
+
+Gemeinsame Einstufungskriterien
+
+L7e
+
+Schweres vierrädriges Kraftfahrzeug
+
+(4)
+
+vier Räder und eine der unter Artikel 4 Absatz 3 der Verordnung (EU) Nr. 168/2013 genannten Antriebsformen und
+
+ 
+
+ 
+
+(5)
+
+Masse in fahrbereitem Zustand:
+
+ 
+
+ 
+
+ 
+
+a) ≤ 450 kg für die Beförderung von Personen
+
+b) ≤ 600 kg für die Beförderung von Gütern und
+
+ 
+
+ 
+
+(6)
+
+L7e-Fahrzeug, das nicht als L6e-Fahrzeug eingestuft werden kann und
+
+Unterklasse
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L7e-A
+
+Schweres Straßen-Quad
+
+(7)
+
+L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-B- oder ein L7e-C-Fahrzeug übereinstimmt und
+
+ 
+
+ 
+
+(8)
+
+ausschließlich für die Beförderung von Personen ausgelegtes Fahrzeug und
+
+ 
+
+ 
+
+(9)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und
+
+Unter-  
+Unterklassen
+
+Bezeichnung  
+der Unter-Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L7e-A1
+
+A1 schweres Straßen-Quad
+
+(10)
+
+höchstens zwei Sattelsitzplätze, einschließlich des Fahrersitzes, und
+
+ 
+
+ 
+
+(11)
+
+Lenkung mittels Lenkstange
+
+L7e-A2
+
+A2 schweres Straßen-Quad
+
+(10)
+
+L7e-A-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-A1-Fahrzeug übereinstimmt, und
+
+ 
+
+ 
+
+(11)
+
+höchstens zwei nicht sattelförmige Sitzplätze, einschließlich des Fahrersitzes
+
+Unterklassen
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L7e-B
+
+Schweres Gelände-Quad
+
+(7)
+
+L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-C-Fahrzeug übereinstimmt, und
+
+ 
+
+ 
+
+(8)
+
+Bodenfreiheit ≥ 180 mm und
+
+Unter-  
+Unterklassen
+
+Bezeichnung  
+der Unter-Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L7e-B1
+
+Gelände-Quad
+
+(9)
+
+höchstens zwei Sattelsitzplätze, einschließlich des Fahrersitzes, und
+
+ 
+
+ 
+
+(10)
+
+für die Lenkung mit einer Lenkstange ausgerüstet und
+
+ 
+
+ 
+
+(11)
+
+bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 90 km/h und
+
+ 
+
+ 
+
+(12)
+
+Verhältnis Radstand zu Bodenfreiheit ≤ 6
+
+L7e-B2
+
+Side-by-Side-Buggy
+
+(9)
+
+anderes L7e-B-Fahrzeug als ein L7e-B1-Fahrzeug und
+
+ 
+
+ 
+
+(10)
+
+höchstens drei nicht sattelförmige Sitzplätze, von denen zwei nebeneinander angeordnet sind, einschließlich des Fahrersitzes, und
+
+ 
+
+ 
+
+(11)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und
+
+ 
+
+ 
+
+(12)
+
+Verhältnis Radstand zu Bodenfreiheit ≤ 8
+
+Unterklasse
+
+Bezeichnung  
+der Unterklasse
+
+Zusätzliche Kriterien für die Einstufung hinsichtlich der Unterklasse
+
+L7e-C
+
+Schweres Vierradmobil
+
+(7)
+
+L7e-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-B-Fahrzeug übereinstimmt, und
+
+ 
+
+ 
+
+(8)
+
+maximale Nenndauerleistung oder Nutzleistung ≤ 15 kW und
+
+ 
+
+ 
+
+(9)
+
+bauartbedingte Höchstgeschwindigkeit des Fahrzeugs ≤ 90 km/h und
+
+ 
+
+ 
+
+(10)
+
+geschlossener, höchstens von drei Seiten zugänglicher Fahrer- und Fahrgastraum und
+
+Unter-  
+Unterklassen
+
+Bezeichnung  
+der Unter-Unterklasse
+
+Kriterien für die Einstufung in Unter-Unterklassen  
+zusätzlich zu den Kriterien  
+für die Unterklasse L7e-C schwere Vierradmobile
+
+L7e-CP
+
+Schweres Vierradmobil für Personenbeförderung
+
+(11)
+
+L7e-C-Fahrzeug, das nicht mit den spezifischen Einstufungskriterien für ein L7e-CU-Fahrzeug übereinstimmt, und
+
+ 
+
+(12)
+
+höchstens vier nicht sattelförmige Sitze, einschließlich des Fahrersitzes
+
+L7e-CU
+
+Schweres Vierradmobil für Güterbeförderung
+
+(11)
+
+ausschließlich für die Beförderung von Gütern ausgelegtes Fahrzeug mit offener oder geschlossener, nahezu ebener und horizontaler Ladefläche, das die folgenden Kriterien erfüllt:
+
+ 
+
+ 
+
+ 
+
+a) Länge Ladefläche x Breite Ladefläche &gt; 0,3 x Länge Fahrzeug x Breite Fahrzeug oder
+
+b) eine gleichwertige Ladefläche gemäß voranstehender Definition, die zur Montage von Maschinen und/oder Geräten bestimmt ist, und
+
+c) ausgelegt mit einer Ladefläche, die durch eine feste Trennwand eindeutig von dem den Fahrzeuginsassen vorbehaltenen Raum abgetrennt ist, und
+
+d) die Ladefläche ist in der Lage, ein Mindestvolumen aufzunehmen, das einem Würfel mit einer Kantenlänge von 600 mm entspricht, und
+
+ 
+
+ 
+
+(12)
+
+höchstens zwei nicht sattelförmige Sitze, einschließlich des Fahrersitzes
+
+Diese Einteilung gilt nicht für die nachstehenden Fahrzeuge:
+
+a) Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von bis zu 6 km/h;
+
+b) Fahrzeuge, die ausschließlich zur Benutzung durch körperbehinderte Personen bestimmt sind;
+
+c) ausschließlich fußgängergeführte Fahrzeuge;
+
+d) Fahrzeuge, die ausschließlich für die Benutzung im sportlichen Wettbewerb bestimmt sind;
+
+e) Fahrzeuge, die zur Benutzung durch die Streitkräfte, den Katastrophenschutz, die Feuerwehr, die für die Aufrechterhaltung der öffentlichen Ordnung zuständigen Kräfte und die medizinischen Notdienste ausgelegt und gebaut sind;
+
+f) land- und forstwirtschaftliche Fahrzeuge gemäß der Verordnung (EU) Nr. 167/2013, Maschinen gemäß der Richtlinie 97/68/EG und der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG (ABl. L 157 vom 9.6.2006, S. 24; L 76 vom 16.3.2007, S. 35), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, sowie Kraftfahrzeuge gemäß der Richtlinie 2007/46/EG;
+
+g) Fahrzeuge, die in erster Linie für die Benutzung im Gelände bestimmt und für das Befahren unbefestigter Flächen ausgelegt sind;
+
+h) Fahrräder mit Pedalantrieb mit Trethilfe, die mit einem elektromotorischen Hilfsantrieb mit einer maximalen Nenndauerleistung von bis zu 250 W ausgestattet sind, dessen Unterstützung unterbrochen wird, wenn der Fahrer im Treten einhält, und dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und unterbrochen wird, bevor die Geschwindigkeit des Fahrzeugs 25 km/h erreicht;
+
+i) selbstbalancierende Fahrzeuge;
+
+j) Fahrzeuge, die nicht mindestens einen Sitzplatz haben;
+
+k) Fahrzeuge, bei denen sich der R-Punkt in einer Sitzposition des Fahrers bei den Klassen L1e, L3e und L4e in einer Höhe von ≤ 540 mm oder bei den Klassen L2e, L5e, L6e und L7e in einer Höhe von ≤ 400 mm befindet.
+
+Grundlage der in Abschnitt 2 genannten Leistungsgrenzen ist die maximale Nenndauerleistung bei Fahrzeugen mit Elektroantrieb und die maximale Nutzleistung bei Fahrzeugen, die von einem Verbrennungsmotor angetrieben werden. Das Gewicht eines Fahrzeugs wird als identisch mit seiner Masse in fahrbereitem Zustand betrachtet.   
+Die Einstufung eines L3e-Fahrzeugs als Unterklasse je nachdem, ob seine bauartbedingte Höchstgeschwindigkeit weniger, gleich oder mehr als 130 km/h beträgt, ist unabhängig von seiner Einstufung in die Antriebsleistungsklassen L3e-A1, L3e-A2 oder L3e-A3.
+
+ 
+
+1
+
+Klasse T:
+
+alle Zugmaschinen auf Rädern; jeder Klasse von Zugmaschinen auf Rädern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
+
+ 
+
+ 
+
+a)
+
+a für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
+
+ 
+
+ 
+
+b)
+
+b für Zugmaschinen auf Rädern mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+
+ 
+
+Klasse T1:
+
+Zugmaschinen auf Rädern mit einer Spurweite der dem Fahrer am nächsten liegenden Achse von mindestens 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg und einer Bodenfreiheit bis 1 000 mm.
+
+ 
+
+Klasse T2:
+
+Zugmaschinen auf Rädern mit einer Mindestspurweite von weniger als 1 150 mm, einer Leermasse in fahrbereitem Zustand von mehr als 600 kg, einer Bodenfreiheit bis 600 mm; wenn der Quotient aus der Höhe des Schwerpunkts der Zugmaschine über dem Boden und der mittleren Mindestspurweite der Achsen mehr als 0,90 beträgt, ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt.
+
+ 
+
+Klasse T3:
+
+Zugmaschinen auf Rädern mit einer Leermasse in fahrbereitem Zustand bis 600 kg.
+
+ 
+
+Klasse T4:
+
+Zugmaschinen auf Rädern mit besonderer Zweckbestimmung.
+
+ 
+
+Klasse T4.1:
+
+(Stelzradzugmaschinen):  
+Zugmaschinen, die für den Einsatz in hohen Reihenkulturen, zum Beispiel Rebkulturen, ausgelegt sind. Sie sind durch ein überhöhtes Fahrgestell oder einen überhöhten Fahrgestellteil gekennzeichnet, so dass sie parallel zu den Pflanzenreihen über diese hinweg fahren und dabei eine oder mehrere Reihen zwischen ihre Räder nehmen können. Sie sind zur Beförderung oder zum Antrieb von Geräten konzipiert, die vorn, zwischen Achsen, hinten oder auf einer Plattform angebracht sind. Befindet sich die Zugmaschine in Arbeitsposition, ist die Bodenfreiheit, gemessen in der Vertikalen der Pflanzenreihen, größer als 1 000 mm. Beträgt der Quotient aus der Höhe des Schwerpunkts der Zugmaschine über dem Boden (bei normaler Bereifung) und der mittleren Mindestspurweite der Achsen mehr als 0,90, so ist die bauartbedingte Höchstgeschwindigkeit auf 30 km/h begrenzt.
+
+ 
+
+Klasse T4.2:
+
+(überbreite Zugmaschinen):  
+Zugmaschinen, die durch ihre großen Abmessungen gekennzeichnet und speziell zur Bearbeitung großer landwirtschaftlicher Flächen bestimmt sind.
+
+ 
+
+Klasse T4.3:
+
+(Zugmaschinen mit geringer Bodenfreiheit):  
+Zugmaschinen mit Vierradantrieb, deren auswechselbare Geräte für den Einsatz in der Land- und Forstwirtschaft bestimmt sind, mit einem Tragrahmen, einer oder mehreren Zapfwellen, einer technisch zulässigen Masse von höchstens 10 t und einem Verhältnis technisch zulässige Masse/maximale Leermasse in fahrbereitem Zustand unter 2,5 sowie mit einem Schwerpunkt (bei normaler Bereifung) von weniger als 850 mm über dem Boden.
+
+2
+
+Klasse C:
+
+Zugmaschinen auf Gleisketten, die über die Gleisketten oder über eine Kombination von Rädern und Gleisketten angetrieben werden (Definition der Unterklassen analog zu der Klasse T).
+
+3
+
+Klasse R:
+
+Anhänger; jeder Klasse von Anhängern wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
+
+ 
+
+ 
+
+a)
+
+a für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
+
+ 
+
+ 
+
+b)
+
+b für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+
+ 
+
+Klasse R1:
+
 Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 1 500 kg beträgt.
 
-Klasse R2:  
+ 
+
+Klasse R2:
+
 Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 1 500 kg und bis zu 3 500 kg beträgt.
 
-Klasse R3:  
+ 
+
+Klasse R3:
+
 Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg beträgt.
 
-Klasse R4:  
+ 
+
+Klasse R4:
+
 Anhänger, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 21 000 kg beträgt.
 
-Ferner wird jede Klasse von Anhängern je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben „a“ oder „b“ gekennzeichnet:
+4
 
-–  
-Buchstabe „a“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h;
+Klasse S:
 
-–  
-Buchstabe „b“ für Anhänger mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+gezogene auswechselbare Geräte.
 
-Beispiel: Bei einem Anhänger der Klasse Rb3 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg und bis zu 21 000 kg, und er ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
+ 
 
-4  
-Klasse S:  
-Gezogene auswechselbare Maschinen
+ 
 
-Klasse S1:  
-Gezogene auswechselbare Maschinen für den Einsatz in der Land- oder Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt.
+Jeder Klasse von gezogenen auswechselbaren Geräten wird je nach ihrer Auslegungsgeschwindigkeit am Ende ein Index a oder b hinzugefügt:
 
-Klasse S2:  
-Gezogene auswechselbare Maschinen für den Einsatz in der Land- und Forstwirtschaft, bei denen die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg beträgt.
+ 
 
-Ferner wird jede Klasse von gezogenen auswechselbaren Maschinen je nach der Höchstgeschwindigkeit, für die sie ausgelegt ist, mit dem Buchstaben „a“ oder „b“ gekennzeichnet:
+ 
 
-–  
-Buchstabe „a“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit kleiner oder gleich 40 km/h,
+a)
 
-–  
-Buchstabe „b“ für gezogene auswechselbare Maschinen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+a für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 40 km/h,
 
-Beispiel: Bei einer gezogenen auswechselbaren Maschine der Klasse Sb2 beträgt die Summe der technisch zulässigen Massen je Achse mehr als 3 500 kg, und sie ist für die Beförderung durch eine Zugmaschine der Klasse T5 ausgelegt.
+ 
 
-Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden.
+ 
+
+b)
+
+b für gezogene auswechselbare Geräte mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.
+
+ 
+
+Klasse S1:
+
+gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse bis zu 3 500 kg beträgt.
+
+ 
+
+Klasse S2:
+
+gezogene auswechselbare Geräte, bei denen die Summe der technisch zulässigen Massen je Achse über 3 500 kg beträgt.
+
+ 
+
+ 
+
+Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001 und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden.
 
 # Anhang
 

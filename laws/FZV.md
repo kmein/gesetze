@@ -63,7 +63,7 @@ mit Verbrennungsmotor, dessen Hubraum nicht mehr als 50 cm³ beträgt, oder mit 
 b) dreirädrige Kleinkrafträder:  
 mit Fremdzündungsmotor, dessen Hubraum nicht mehr als 50 cm³ beträgt, mit einem anderen Verbrennungsmotor, dessen maximale Nutzleistung nicht mehr als 4 kW beträgt, oder mit einem Elektromotor, dessen maximale Nenndauerleistung nicht mehr als 4 kW beträgt;
 
-12. vierrädrige Leichtkraftfahrzeuge: vierrädrige Kraftfahrzeuge mit einer Leermasse von nicht mehr als 350 kg, ohne Masse der Batterien bei Elektrofahrzeugen, mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 45 km/h, mit Fremdzündungsmotor, dessen Hubraum nicht mehr als 50 cm³ beträgt, oder mit einem anderen Verbrennungsmotor, dessen maximale Nennleistung nicht mehr als 4 kW beträgt, oder mit einem Elektromotor, dessen maximale Nennleistung nicht mehr als 4 kW beträgt;
+12. leichte vierrädrige Kraftfahrzeuge: leichte vierrädrige Kraftfahrzeuge im Sinne des Artikels 4 Absatz 2 Buchstabe f in Verbindung mit dem Anhang I der Verordnung (EU) Nr. 168/2013 in der jeweils geltenden Fassung;
 
 13. motorisierte Krankenfahrstühle: einsitzige, nach der Bauart zum Gebrauch durch körperlich behinderte Personen bestimmte Kraftfahrzeuge mit Elektroantrieb, einer Leermasse von nicht mehr als 300 kg einschließlich Batterien jedoch ohne Fahrer, einer zulässigen Gesamtmasse von nicht mehr als 500 kg, einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 15 km/h und einer Breite über alles von maximal 110 cm;
 
@@ -109,7 +109,7 @@ d) zwei- oder dreirädrige Kleinkrafträder,
 
 e) motorisierte Krankenfahrstühle,
 
-f) vierrädrige Leichtkraftfahrzeuge,
+f) leichte vierrädrige Kraftfahrzeuge,
 
 g) Elektrokleinstfahrzeuge im Sinne des § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung vom 6. Juni 2019 (BGBl. I S. 756) in der jeweils geltenden Fassung,
 
@@ -282,7 +282,7 @@ l) Standgeräusch in dB (A) mit Drehzahl bei min-1</sup> und Fahrgeräusch in dB
 
 # § 7 – Zulassung im Inland nach vorheriger Zulassung in einem anderen Staat
 
-(1) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die bereits in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Betrieb waren, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen, wenn bei Anwendung der Anlage VIII Abschnitt 2 der Straßenverkehrs-Zulassungs-Ordnung zwischenzeitlich eine Untersuchung hätte stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im Sinne der Richtlinie 2009/40/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die technische Überwachung der Kraftfahrzeuge und Kraftfahrzeuganhänger (Neufassung) (ABl. L 141 vom 6.6.2009, S. 12) in der jeweils geltenden Fassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem das Fahrzeug in Betrieb war, nachgewiesen wird. Hinsichtlich der Frist für die nächste Hauptuntersuchung gilt Abschnitt 2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung. Der Antragsteller hat nachzuweisen, wann das Fahrzeug in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erstmals in Betrieb genommen worden ist. Kann dieser Nachweis nicht erbracht werden, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
+(1) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die bereits in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Betrieb waren, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen, wenn bei Anwendung der Anlage VIII Abschnitt 2 der Straßenverkehrs-Zulassungs-Ordnung zwischenzeitlich eine Untersuchung hätte stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im Sinne der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2012, S. 51; L 334 vom 22.12.2015, S. 66; L 219 vom 22.8.2019, S. 25) in der jeweils geltenden Fassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem das Fahrzeug in Betrieb war, nachgewiesen wird. Hinsichtlich der Frist für die nächste Hauptuntersuchung gilt Abschnitt 2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung. Der Antragsteller hat nachzuweisen, wann das Fahrzeug in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erstmals in Betrieb genommen worden ist. Kann dieser Nachweis nicht erbracht werden, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
 
 (2) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung einzuziehen und mindestens sechs Monate aufzubewahren. Sie hat das Kraftfahrt-Bundesamt über die Einziehung umgehend, mindestens jedoch innerhalb eines Monats, elektronisch zu unterrichten. Ausführungsregelungen zur Datenübermittlung gibt das Kraftfahrt-Bundesamt in entsprechenden Standards im Verkehrsblatt bekannt. Auf Verlangen der zuständigen ausländischen Behörde ist die eingezogene Zulassungsbescheinigung über das Kraftfahrt-Bundesamt zurückzusenden. Sofern die ausländische Zulassungsbescheinigung aus zwei Teilen besteht, kann bei Fehlen des Teils II das Fahrzeug nur zugelassen werden, wenn über das Kraftfahrt-Bundesamt die Bestätigung der zuständigen ausländischen Behörde über die frühere Zulassung eingeholt wurde. Die Nummer der ausländischen Zulassungsbescheinigung oder die Nummern von deren Teilen I und II sind zur Speicherung im Zentralen Fahrzeugregister mit dem Antrag auf Zulassung nachzuweisen.
 
@@ -895,7 +895,7 @@ nach dem Verfahren des Unterabschnitts 1 in Verbindung mit § 15i nach Maßgabe 
 
 (2) Rote Kennzeichen und besondere Fahrzeugscheinhefte für Fahrzeuge mit roten Kennzeichen nach Anlage 9 können durch die örtlich zuständige Zulassungsbehörde zuverlässigen Kraftfahrzeugherstellern, Kraftfahrzeugteileherstellern, Kraftfahrzeugwerkstätten und Kraftfahrzeughändlern befristet oder widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an unterschiedlichen Fahrzeugen, zugeteilt werden. Ein rotes Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „06“. Für jedes Fahrzeug ist eine gesonderte Seite des Fahrzeugscheinheftes zu dessen Beschreibung zu verwenden; die Angaben zum Fahrzeug sind vollständig und in dauerhafter Schrift vor Antritt der ersten Fahrt einzutragen. Das Fahrzeugscheinheft ist bei jeder Fahrt mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Über jede Prüfungs-, Probe- oder Überführungsfahrt sind fortlaufende Aufzeichnungen zu führen, aus denen das verwendete Kennzeichen, das Datum der Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift, die Fahrzeugklasse und der Hersteller des Fahrzeugs, die Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind. Die Aufzeichnungen sind ein Jahr lang aufzubewahren; sie sind zuständigen Personen auf Verlangen jederzeit zur Prüfung auszuhändigen. Nach Ablauf der Frist, für die das Kennzeichen zugeteilt worden ist, ist das Kennzeichen mit dem dazugehörigen Fahrzeugscheinheft der Zulassungsbehörde unverzüglich zurückzugeben.
 
-(3) Rote Kennzeichen können durch die örtlich zuständige Zulassungsbehörde auch Technischen Prüfstellen sowie anerkannten Überwachungsorganisationen nach Anlage VIIIb der Straßenverkehrs-Zulassungs-Ordnung für die Durchführung von Prüfungsfahrten im Rahmen der Hauptuntersuchungen, Sicherheitsprüfungen, Begutachtungen nach § 23 der Straßenverkehrs-Zulassungs-Ordnung und Untersuchungen oder Begutachtungen im Rahmen des § 5 widerruflich zur wiederkehrenden betrieblichen Verwendung an unterschiedlichen Fahrzeugen zugeteilt werden. Das rote Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „05“.
+(3) Rote Kennzeichen und besondere Fahrzeugscheinhefte für Fahrzeuge mit roten Kennzeichen nach Anlage 9 können durch die örtlich zuständige Zulassungsbehörde auch Technischen Prüfstellen, nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse benannten Technischen Diensten sowie anerkannten Überwachungsorganisationen nach Anlage VIIIb der Straßenverkehrs-Zulassungs-Ordnung für die Durchführung von Prüfungsfahrten im Rahmen von Untersuchungen, Prüfungen und Begutachtungen nach der Straßenverkehrs-Zulassungs-Ordnung, nach der EG-Fahrzeuggenehmigungsverordnung oder nach § 5 widerruflich zur wiederkehrenden betrieblichen Verwendung an unterschiedlichen Fahrzeugen zugeteilt werden. Das rote Kennzeichen besteht aus einem Unterscheidungszeichen und einer Erkennungsnummer jeweils nach § 8 Absatz 1, jedoch besteht die Erkennungsnummer nur aus Ziffern und beginnt mit „05“. Absatz 2 Satz 3 bis 7 gilt entsprechend.
 
 (4) Mit dem Antrag auf Zuteilung eines roten Kennzeichens sind vom Antragsteller zum Zwecke der Speicherung in den Fahrzeugregistern seine in § 6 Absatz 1 Satz 2 bezeichneten Daten und die in § 6 Absatz 4 Nummer 3 bezeichneten Daten zur Kraftfahrzeug-Haftpflichtversicherung mitzuteilen und auf Verlangen nachzuweisen.
 
@@ -1663,9 +1663,11 @@ In den Fahrzeugregistern ist ferner das Datum der Änderung der Halterdaten zu s
 
 15. Ergebnis
 
-a) der Hauptuntersuchung mit der Angabe „ohne festgestellte Mängel“, „geringe Mängel“, „erhebliche Mängel“ oder „verkehrsunsicher“ oder
+a) der Hauptuntersuchung mit der Angabe „ohne festgestellte Mängel“, „geringe Mängel“, „erhebliche Mängel“, „gefährliche Mängel“ oder „verkehrsunsicher“ oder
 
-b) der Sicherheitsprüfung mit der Angabe „ohne festgestellte Mängel“, „Mängel“ oder „unmittelbar verkehrsgefährdende Mängel“.
+b) der Sicherheitsprüfung mit der Angabe „ohne festgestellte Mängel“, „Mängel“ oder „unmittelbar verkehrsgefährdende Mängel“,
+
+16. Stand des Wegstreckenzählers bei Kraftfahrzeugen und, soweit vorhanden, bei Anhängern.
 
 Die Übermittlung der Daten durch die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen an das Kraftfahrt-Bundesamt erfolgt nach Maßgabe des § 15a Absatz 3. Soweit nach Satz 1 Nummer 15 als Ergebnis der Hauptuntersuchung die Angabe „verkehrsunsicher“ oder der Sicherheitsprüfung die Angabe „unmittelbar verkehrsgefährdende Mängel“ übermittelt wird und dem Fahrzeug ein Kennzeichen zugeteilt ist, teilt das Kraftfahrt-Bundesamt dies der Zulassungsbehörde mit.
 
@@ -1679,7 +1681,7 @@ Die Übermittlung der Daten durch die zur Durchführung von Hauptuntersuchungen 
 
 4. Variante und Version oder Ausführung einschließlich ihrer Codes oder Schlüsselnummern,
 
-5. Stand des Wegstreckenzählers bei Kraftfahrzeugen und, soweit vorhanden, bei Anhängern,
+5. fehlende Plausibilität des Standes des Wegstreckenzählers, sofern festgestellt,
 
 6. für das Fahrzeug in Deutschland zulässige Gesamtmasse,
 
@@ -2083,6 +2085,8 @@ bereitgehalten werden. Die §§ 40 und 41 gelten entsprechend.
 
 (8) Die Zulassungsbehörden sind befugt, unter Verwendung der Fahrzeug-Identifizierungsnummer die Daten nach Absatz 2 zur Erfüllung ihrer Aufgaben für die in Absatz 1 Nummer 1 und 2 genannten Zwecke automatisiert abzurufen und sie in den Fahrzeugregistern zu speichern und zu verwenden.
 
+(9) Die von einem Hersteller übermittelten und gespeicherten Daten dürfen diesem zur Beseitigung von Fehlern und zur Vervollständigung der Daten vom Kraftfahrt-Bundesamt übermittelt und zu diesen Zwecken verwendet werden. Soweit dies für die Zwecke nach Absatz 1 erforderlich ist, darf das Kraftfahrt-Bundesamt dem Hersteller von zugelassenen Fahrzeugen, für die er noch keine Daten im Sinne des Absatzes 4 oder 5 übermittelt hat, deren Fahrzeug-Identifizierungsnummern zum Zweck der Ergänzung der fehlenden Daten übermitteln.
+
 # § 46 – Zuständigkeiten
 
 (1) Diese Verordnung wird von den nach Landesrecht zuständigen unteren Verwaltungsbehörden ausgeführt. Die zuständigen obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Stellen können den Verwaltungsbehörden Weisungen auch für den Einzelfall erteilen oder die erforderlichen Maßnahmen selbst treffen.
@@ -2183,6 +2187,8 @@ ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lässt,
 
 (1) Fahrzeuge, die nach § 18 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung in der bis zum 28. Februar 2007 geltenden Fassung der Zulassungspflicht oder dem Zulassungsverfahren nicht unterworfen waren und die vor dem 1. März 2007 erstmals in Verkehr kamen, bleiben weiterhin zulassungsfrei, war für diese Fahrzeuge auch keine Betriebserlaubnis erforderlich, bedürfen sie keiner Genehmigung nach § 2 Nummer 4 bis 6.
 
+(1a) Krafträdern, die vor dem 1. Januar 1959 erstmals in den Verkehr gekommen sind und deren Hubraum 50 cm³ übersteigt, sind verkleinerte zweizeilige Kennzeichen nach Nummer 1 Satz 1 Buchstabe d der Anlage 4 zuzuteilen, es sei denn, der Halter stellt einen abweichenden Antrag.
+
 (2) Kennzeichen, die vor dem 1. März 2007 nach Maßgabe der Straßenverkehrs-Zulassungs-Ordnung zugeteilt worden sind, bleiben gültig.
 
 (2a) Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 1 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gelten als beantragt und festgelegt im Sinne des § 8 Absatz 2 Satz 1 und 5. Unterscheidungszeichen nach Maßgabe der Anlage 1 Nummer 2 in der bis zum 31. Oktober 2012 geltenden Fassung dieser Verordnung gelten als aufgehoben im Sinne des § 8 Absatz 2 Satz 1 und 5. Abweichend von § 8 Absatz 2 Satz 4 darf ein neues Unterscheidungszeichen auf Antrag für einen am 1. November 2012 bestehenden Verwaltungsbezirk festgelegt werden, wenn für diesen bis zum Ablauf des 25. Oktober 2012 noch kein den gesamten Verwaltungsbezirk umfassendes Unterscheidungszeichen vergeben worden ist.
@@ -2239,9 +2245,9 @@ d) den Mustern 2a und 2b der Straßenverkehrs-Zulassungs-Ordnung in der Fassung 
 
 (7) § 47 Absatz 1 Nummer 2 ist ab dem 1. September 2008 anzuwenden.
 
-(8) (weggefallen)
+(8) Fahrzeuge, die nach der bis zum 2. Juli 2021 gültigen Fassung dieser Verordnung als zulassungspflichtig zugelassen worden sind und die die Voraussetzungen nach § 2 Nummer 12 erfüllen, gelten ab dem 3. Juli 2021 als nach § 3 Absatz 3 zugelassen.
 
-(9) (weggefallen)
+(9) Technische Prüfstellen sowie anerkannte Überwachungsorganisationen nach Anlage VIIIb der Straßenverkehrs-Zulassungs-Ordnung, denen bis zum 2. Juli 2021 ein rotes Kennzeichen zugeteilt worden ist, haben bei der Zulassungsbehörde bis zum 31. Dezember 2021 die Ausgabe eines Fahrzeugscheinheftes für das ihnen zugeteilte rote Kennzeichen zu beantragen. Ab Erhalt des Fahrzeugscheinheftes gilt für sie § 16 Absatz 3 Satz 3.
 
 (10) § 9a und Anlage 3a sind mit Ablauf des 31. Dezember 2026 nicht mehr anzuwenden.
 
@@ -2463,7 +2469,7 @@ verkleinertes zweizeiliges Kennzeichen
 
 4. Ergänzungsbestimmungen
 
-Mehr als acht Stellen (Buchstaben und Ziffern) auf einem Kennzeichen sind unzulässig. Für einzeilige Kennzeichen oder zweizeilige Kennzeichen nach Nummer 1 Satz 1 Buchstabe b ist die Mittelschrift zu verwenden, es sei denn, die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und/oder für die Buchstaben der Erkennungsnummer und/oder die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Das Kennzeichen darf nicht größer sein als die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle dies zulässt. In keinem Fall dürfen die zu den einzelnen Kennzeichenarten angegebenen Größtmaße überschritten werden. Ist es der Zulassungsbehörde nicht möglich, für ein Fahrzeug ein Kennzeichen zuzuteilen, das an der am Fahrzeug vorgesehenen Stelle angebracht werden kann, so hat der Halter Veränderungen am Fahrzeug vorzunehmen, die die Anbringung eines vorschriftsmäßigen Kennzeichens ermöglichen, sofern die Veränderungen nicht unverhältnismäßigen Aufwand erfordern; in Zweifelsfällen kann die Zulassungsbehörde die Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr verlangen. Stellt ein amtlich anerkannter Sachverständiger für den Kraftfahrzeugverkehr fest, dass an einem Kraftfahrzeug die Anbringung eines vorschriftsmäßigen hinteren Kennzeichens nach Nummer 1 Satz 1 Buchstabe a, b oder c einen unverhältnismäßigen Aufwand erfordert oder technisch nicht möglich ist, kann die Zulassungsbehörde eine Ausnahme zum Führen eines verkleinerten zweizeiligen Kennzeichens nach Nummer 1 Satz 1 Buchstabe d genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen oder den Anbau von Zubehör die Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich ist.
+Mehr als acht Stellen (Buchstaben und Ziffern) auf einem Kennzeichen sind unzulässig. Für einzeilige Kennzeichen oder zweizeilige Kennzeichen nach Nummer 1 Satz 1 Buchstabe b ist die Mittelschrift zu verwenden, es sei denn, die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung des Verwaltungsbezirks und/oder für die Buchstaben der Erkennungsnummer und/oder die Zahlen der Erkennungsnummer jeweils die Engschrift verwendet werden. Das Kennzeichen darf nicht größer sein als die etwa vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle dies zulässt. In keinem Fall dürfen die zu den einzelnen Kennzeichenarten angegebenen Größtmaße überschritten werden. Ist es der Zulassungsbehörde nicht möglich, für ein Fahrzeug ein Kennzeichen zuzuteilen, das an der am Fahrzeug vorgesehenen Stelle angebracht werden kann, so hat der Halter Veränderungen am Fahrzeug vorzunehmen, die die Anbringung eines vorschriftsmäßigen Kennzeichens ermöglichen, sofern die Veränderungen nicht unverhältnismäßigen Aufwand erfordern; in Zweifelsfällen kann die Zulassungsbehörde die Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder eines nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse benannten Technischen Dienstes verlangen. Wird in einem solchen Gutachten festgestellt, dass an einem Kraftfahrzeug die Anbringung eines vorschriftsmäßigen hinteren Kennzeichens nach Nummer 1 Satz 1 Buchstabe a, b oder c einen unverhältnismäßigen Aufwand erfordert oder technisch nicht möglich ist, kann die Zulassungsbehörde eine Ausnahme zum Führen eines verkleinerten zweizeiligen Kennzeichens nach Nummer 1 Satz 1 Buchstabe d genehmigen; dies gilt nicht, wenn durch nachträgliche Änderungen oder den Anbau von Zubehör die Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich ist.
 
 5. Anerkennung von Prüfungen aus anderen Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraumes
 
@@ -3452,7 +3458,7 @@ Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für auslä
   
 Die Bestätigung enthält die Daten zur Kraftfahrzeug-Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des Versicherungsschutzes.
 
-# Anlage 12 – (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
+# Anlage 12 – (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
 
 (Fundstelle: BGBl. I 2011, 219 - 220)
 

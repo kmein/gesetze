@@ -808,6 +808,8 @@ Der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angri
 
 3. Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr. 1 des Steuerberatungsgesetzes handeln, in Abgabenangelegenheiten,
 
+3a. Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte Buchprüfer, Personen und Vereinigungen im Sinn des § 3a des Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nummer 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nummer 1 des Steuerberatungsgesetzes handeln, in Angelegenheiten finanzieller Hilfeleistungen im Rahmen staatlicher Hilfsprogramme zur Abmilderung der Folgen der COVID-19-Pandemie, wenn und soweit diese Hilfsprogramme eine Einbeziehung der Genannten als prüfende Dritte vorsehen,
+
 4. berufsständische Vereinigungen der Landwirtschaft für ihre Mitglieder,
 
 5. Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände für ihre Mitglieder oder für andere Verbände oder Zusammenschlüsse mit vergleichbarer Ausrichtung und deren Mitglieder,
@@ -1702,7 +1704,7 @@ Wird der Rechtsstreit durch Vergleich erledigt und haben die Beteiligten keine B
 
 (1) Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Beteiligten einschließlich der Kosten des Vorverfahrens.
 
-(2) Die Gebühren und Auslagen eines Rechtsanwalts oder eines Rechtsbeistands, in Abgabenangelegenheiten auch einer der in § 67 Abs. 2 Satz 2 Nr. 3 genannten Personen, sind stets erstattungsfähig. Soweit ein Vorverfahren geschwebt hat, sind Gebühren und Auslagen erstattungsfähig, wenn das Gericht die Zuziehung eines Bevollmächtigten für das Vorverfahren für notwendig erklärt. Juristische Personen des öffentlichen Rechts und Behörden können an Stelle ihrer tatsächlichen notwendigen Aufwendungen für Post- und Telekommunikationsdienstleistungen den in Nummer 7002 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz bestimmten Höchstsatz der Pauschale fordern.
+(2) Die Gebühren und Auslagen eines Rechtsanwalts oder eines Rechtsbeistands, in den in § 67 Absatz 2 Satz 2 Nummer 3 und 3a genannten Angelegenheiten auch einer der dort genannten Personen, sind stets erstattungsfähig. Soweit ein Vorverfahren geschwebt hat, sind Gebühren und Auslagen erstattungsfähig, wenn das Gericht die Zuziehung eines Bevollmächtigten für das Vorverfahren für notwendig erklärt. Juristische Personen des öffentlichen Rechts und Behörden können an Stelle ihrer tatsächlichen notwendigen Aufwendungen für Post- und Telekommunikationsdienstleistungen den in Nummer 7002 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz bestimmten Höchstsatz der Pauschale fordern.
 
 (3) Die außergerichtlichen Kosten des Beigeladenen sind nur erstattungsfähig, wenn sie das Gericht aus Billigkeit der unterliegenden Partei oder der Staatskasse auferlegt.
 
