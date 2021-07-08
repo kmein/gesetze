@@ -13,7 +13,7 @@
 
 3. Berufssoldaten, die nach § 46 Absatz 3 des Soldatengesetzes entlassen worden sind,
 
-wenn zum Zeitpunkt der Entlassung zwingende dienstliche Gründe nicht entgegenstehen und sie vor Beendigung des Dienstverhältnisses eine Erklärung gegenüber dem Dienstherrn abgegeben haben, anstelle der Nachversicherung in der gesetzlichen Rentenversicherung das Altersgeld in Anspruch nehmen zu wollen.
+wenn zum Zeitpunkt der Entlassung dringende dienstliche Gründe nicht entgegenstehen, nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch eine Nachversicherung vorzunehmen wäre und sie vor Beendigung des Dienstverhältnisses eine Erklärung gegenüber dem Dienstherrn abgegeben haben, anstelle der Nachversicherung in der gesetzlichen Rentenversicherung das Altersgeld in Anspruch nehmen zu wollen.
 
 (2) Das Altersgeld wird auf der Grundlage der altersgeldfähigen Dienstbezüge und der altersgeldfähigen Dienstzeit berechnet.
 
@@ -103,7 +103,7 @@ Bei den Dienstbezügen nach Satz 1 Nummer 1 und 2 sind die Dienstbezüge maßgeb
 
 2. gilt bei Berufssoldaten auch die Zeit nach § 64 Absatz 1 Satz 1 Nummer 1 und 4 des Soldatenversorgungsgesetzes.
 
-(4) Die Absätze 1 bis 3 gelten nicht für Zeiten, für die bereits Ansprüche auf Altersgeld oder altersgeldähnliche Ansprüche erworben wurden oder für die eine Nachversicherung in der gesetzlichen Rentenversicherung oder in einer berufsständischen Versorgungseinrichtung durchgeführt worden ist.
+(4) Die Absätze 1 bis 3 gelten nicht für Zeiten, für die bereits Ansprüche auf Altersgeld oder altersgeldähnliche Ansprüche erworben wurden oder für die eine Nachversicherung in der gesetzlichen Rentenversicherung, sofern auch die allgemeine Wartezeit für eine Rente der gesetzlichen Rentenversicherung erfüllt ist, oder in einer berufsständischen Versorgungseinrichtung durchgeführt worden ist.
 
 (5) Die §§ 12a, 12b und 13 Absatz 3 des Beamtenversorgungsgesetzes gelten entsprechend.
 

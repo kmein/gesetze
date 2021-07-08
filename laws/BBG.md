@@ -73,6 +73,8 @@ besitzt,
 
 b) die erforderliche Befähigung durch Lebens- und Berufserfahrung erworben hat.
 
+In das Beamtenverhältnis darf nicht berufen werden, wer unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der Erfüllung der Pflichten nach § 61 Absatz 2 nicht vereinbar sind.
+
 (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein Beamtenverhältnis berufen werden.
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat kann Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung der Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis besteht.
@@ -109,7 +111,7 @@ Die Auswahl der Bewerberinnen und Bewerber richtet sich nach Eignung, Befähigun
 
 (3) Mit der Begründung eines Beamtenverhältnisses auf Probe, auf Lebenszeit und auf Zeit wird gleichzeitig ein Amt verliehen.
 
-# § 11 – Voraussetzungen der Ernennung auf Lebenszeit
+# § 11 – Voraussetzungen der Ernennung auf Lebenszeit; Verordnungsermächtigung
 
 (1) Zur Beamtin auf Lebenszeit oder zum Beamten auf Lebenszeit darf nur ernannt werden, wer
 
@@ -117,7 +119,13 @@ Die Auswahl der Bewerberinnen und Bewerber richtet sich nach Eignung, Befähigun
 
 2. sich in einer Probezeit in vollem Umfang bewährt hat.
 
-Für die Feststellung der Bewährung gilt ein strenger Maßstab. Die Probezeit dauert mindestens drei Jahre. Die Anrechnung einer gleichwertigen Tätigkeit kann bis zu einer Mindestprobezeit von einem Jahr vorgesehen werden. Die Bundesregierung regelt durch Rechtsverordnung die Einzelheiten, insbesondere die Kriterien und das Verfahren der Bewährungsfeststellung, die Anrechnung von Zeiten sowie Ausnahmen von der Probezeit einschließlich der Mindestprobezeit.
+Für die Feststellung der Bewährung gilt ein strenger Maßstab. Die Probezeit dauert mindestens drei Jahre. Die Anrechnung einer gleichwertigen Tätigkeit kann bis zu einer Mindestprobezeit von einem Jahr vorgesehen werden. Die Bundesregierung regelt durch Rechtsverordnung die Einzelheiten, insbesondere regelt sie
+
+1. die Kriterien und das Verfahren der Bewährungsfeststellung,
+
+2. die Mindestprobezeit sowie Ausnahmen von der Mindestprobezeit,
+
+3. die Verlängerung der Probezeit und die Anrechnung von Zeiten gleichwertiger Tätigkeiten auf die Probezeit.
 
 (2) Ein Beamtenverhältnis auf Probe ist spätestens nach fünf Jahren in ein solches auf Lebenszeit umzuwandeln, wenn die beamtenrechtlichen Voraussetzungen hierfür erfüllt sind. Die Frist verlängert sich um die Zeit, um die sich die Probezeit wegen Elternzeit oder einer Beurlaubung unter Wegfall der Besoldung verlängert.
 
@@ -149,7 +157,7 @@ Für die Feststellung der Bewährung gilt ein strenger Maßstab. Die Probezeit d
 
 3. zum Zeitpunkt der Ernennung
 
-a) nach § 7 Abs. 1 Nr. 1 keine Ernennung erfolgen durfte und keine Ausnahme nach § 7 Abs. 3 zugelassen war oder
+a) nach § 7 Absatz 1 Satz 1 Nummer 1 keine Ernennung erfolgen durfte und keine Ausnahme nach § 7 Abs. 3 zugelassen war oder
 
 b) die Fähigkeit zur Wahrnehmung öffentlicher Ämter nicht vorlag.
 
@@ -167,13 +175,13 @@ b) die Fähigkeit zur Wahrnehmung öffentlicher Ämter nicht vorlag.
 
 1. sie durch Zwang, arglistige Täuschung oder Bestechung herbeigeführt wurde,
 
-2. dem Dienstherrn nicht bekannt war, dass die ernannte Person wegen einer Straftat rechtskräftig verurteilt ist und deswegen für die Berufung in das Beamtenverhältnis als unwürdig erscheint, oder
+2. dem Dienstherrn zum Zeitpunkt der Ernennung nicht bekannt war, dass die ernannte Person vor ihrer Ernennung ein Verbrechen oder ein Vergehen begangen hat, aufgrund dessen sie vor oder nach ihrer Ernennung rechtskräftig zu einer Strafe verurteilt worden ist und das sie für die Berufung in das Beamtenverhältnis als unwürdig erscheinen lässt, oder
 
 3. die Ernennung nach § 7 Abs. 2 nicht erfolgen durfte und eine Ausnahme nach § 7 Abs. 3 nicht zugelassen war und eine Ausnahme nicht nachträglich zugelassen wird.
 
-(2) Die Ernennung soll zurückgenommen werden, wenn dem Dienstherrn nicht bekannt war, dass gegen die ernannte Person in einem Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder auf Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch, wenn die Entscheidung gegen eine Beamtin oder einen Beamten der Europäischen Union oder eines Staates nach § 7 Abs. 1 Nr. 1 ergangen ist.
+(2) Die Ernennung soll zurückgenommen werden, wenn dem Dienstherrn nicht bekannt war, dass gegen die ernannte Person in einem Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder auf Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch, wenn die Entscheidung gegen eine Beamtin oder einen Beamten der Europäischen Union oder eines Staates nach § 7 Absatz 1 Satz 1 Nummer 1 ergangen ist.
 
-(3) Die oberste Dienstbehörde nimmt die Ernennung innerhalb von sechs Monaten zurück, nachdem sie von ihr und dem Grund der Rücknahme Kenntnis erlangt hat. Der Rücknahmebescheid wird der Beamtin oder dem Beamten zugestellt.
+(3) Die oberste Dienstbehörde nimmt die Ernennung innerhalb von sechs Monaten zurück, nachdem sie von ihr und dem Grund der Rücknahme Kenntnis erlangt hat. Der Rücknahmebescheid wird der Beamtin oder dem Beamten zugestellt. Die oberste Dienstbehörde kann die Aufgaben nach den Sätzen 1 und 2 auf unmittelbar nachgeordnete Behörden übertragen.
 
 # § 15 – Rechtsfolgen nichtiger oder zurückgenommener Ernennungen
 
@@ -267,7 +275,7 @@ c) eine hauptberufliche Tätigkeit.
 
 2. eines mit einem Drittstaat geschlossenen Vertrages, in dem die Bundesrepublik Deutschland und die Europäische Union einen entsprechenden Anspruch auf Anerkennung der Berufsqualifikationen eingeräumt haben, oder
 
-3. einer auf eine Tätigkeit in einer öffentlichen Verwaltung vorbereitenden Berufsqualifikation, die in einem von § 7 Absatz 1 Nummer 1 Buchstabe c nicht erfassten Drittstaat erworben worden ist,
+3. einer auf eine Tätigkeit in einer öffentlichen Verwaltung vorbereitenden Berufsqualifikation, die in einem von § 7 Absatz 1 Satz 1 Nummer 1 Buchstabe c nicht erfassten Drittstaat erworben worden ist,
 
 anerkannt werden.
 
@@ -285,9 +293,25 @@ Der Bundespersonalausschuss oder ein von ihm bestimmter unabhängiger Ausschuss 
 
 Die Einstellung in ein höheres Amt als das Eingangsamt der Laufbahn ist zulässig bei entsprechenden beruflichen Erfahrungen oder sonstigen Qualifikationen, die zusätzlich zu den Abschlüssen und beruflichen Erfahrungen, die für die Anerkennung der Laufbahnbefähigung erforderlich sind, erworben wurden. Das Nähere regelt die Bundesregierung durch Rechtsverordnung.
 
-# § 21 – Dienstliche Beurteilung
+# § 21 – Dienstliche Beurteilung; Verordnungsermächtigung
 
-Eignung, Befähigung und fachliche Leistung der Beamtinnen und Beamten sind regelmäßig zu beurteilen. Ausnahmen von der Beurteilungspflicht kann die Bundesregierung durch Rechtsverordnung regeln.
+(1) Eignung, Befähigung und fachliche Leistung der Beamtinnen und Beamten sind regelmäßig, mindestens jedoch alle drei Jahre, zu beurteilen. Sie sind zusätzlich zu beurteilen, wenn es die dienstlichen oder persönlichen Verhältnisse erfordern.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Grundsätze für dienstliche Beurteilungen sowie für das Beurteilungsverfahren zu regeln, insbesondere über
+
+1. den Inhalt der Beurteilung, beispielsweise die Festlegung von zu beurteilenden Merkmalen von Eignung, Befähigung und fachlicher Leistung,
+
+2. ein Bewertungssystem für die Beurteilung,
+
+3. die Ausgestaltung des Beurteilungsmaßstabs, beispielsweise die konkrete Festlegung von Richtwerten oder die Möglichkeit, von den Richtwerten aus Gründen der Einzelfallgerechtigkeit abzuweichen,
+
+4. die Festlegung von Mindestanforderungen an die an der Beurteilung mitwirkenden Personen,
+
+5. die Bekanntgabe des Ergebnisses eines Beurteilungsdurchgangs,
+
+6. die Voraussetzungen und das Verfahren einer fiktiven Fortschreibung von Beurteilungen und
+
+7. Ausnahmen von der Beurteilungspflicht.
 
 # § 22 – Beförderungen
 
@@ -307,9 +331,25 @@ b) seit der letzten Beförderung,
 
 es sei denn, das bisherige Amt musste nicht regelmäßig durchlaufen werden.
 
-(5) Vor dem Wechsel in ein Amt einer höheren Laufbahngruppe ist eine entsprechende Qualifikation durch eine Prüfung nachzuweisen. Die Voraussetzungen und das Verfahren regelt die Bundesregierung durch Rechtsverordnung.
+(5) Der Bundespersonalausschuss kann Ausnahmen von den Absätzen 2 bis 4 zulassen, wenn sie die Bundesregierung nicht durch Rechtsverordnung regelt.
 
-(6) Der Bundespersonalausschuss kann Ausnahmen von den Absätzen 2 bis 4 zulassen, wenn sie die Bundesregierung nicht durch Rechtsverordnung regelt.
+# § 22a – Aufstieg; Verordnungsermächtigung
+
+(1) Vor dem Wechsel in ein Amt einer höheren Laufbahngruppe (Aufstieg) ist die erforderliche Qualifikation durch eine Prüfung nachzuweisen.
+
+(2) Die Bundesregierung regelt durch Rechtsverordnung die Einzelheiten zu den Voraussetzungen und zum Verfahren des Aufstiegs, insbesondere
+
+1. legt sie Aufstiegsverfahren für die verschiedenen Laufbahngruppen fest,
+
+2. gestaltet sie die Auswahlverfahren für den Aufstieg aus,
+
+3. legt sie Altersgrenzen für die Zulassung zum Auswahlverfahren fest,
+
+4. gestaltet sie die Aufstiegsverfahren aus,
+
+5. legt sie die Voraussetzungen für die Übertragung des Amtes der neuen Laufbahn fest und
+
+6. legt sie die Voraussetzungen für die Erstattung von Kosten einer Aufstiegsausbildung im Fall einer Entlassung fest.
 
 # § 23 – Beförderungssperre zwischen zwei Mandaten
 
@@ -339,17 +379,37 @@ Mit der Ernennung ruhen für die Dauer der Probezeit die Rechte und Pflichten au
 
 Schwangerschaft, Mutterschutz und Elternzeit dürfen sich bei der Einstellung und dem beruflichen Fortkommen nicht nachteilig auswirken. Dies gilt auch für Teilzeit, Telearbeit und familienbedingte Beurlaubung, wenn nicht zwingende sachliche Gründe vorliegen.
 
-# § 26 – Rechtsverordnung über Laufbahnen
+# § 26 – Ermächtigung zum Erlass von Laufbahn- und Vorbereitungsdienstverordnungen
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach Maßgabe der §§ 16 bis 25
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach Maßgabe der §§ 16 bis 25 allgemeine Vorschriften für die Laufbahnen und die Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
 
-1. allgemeine Vorschriften über die Laufbahnen und Vorbereitungsdienste der Beamtinnen und Beamten und
+1. die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu durchlaufenden Ämter,
 
-2. besondere Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste
+2. den Erwerb und die Anerkennung der Laufbahnbefähigung, einschließlich der Festlegung gleichwertiger Abschlüsse,
 
-zu erlassen.
+3. die Rahmenregelungen für Auswahlverfahren für die Einstellung in einen Vorbereitungsdienst,
 
-(2) Die Bundesregierung kann die Befugnis nach Absatz 1 Nr. 2 durch Rechtsverordnung obersten Dienstbehörden übertragen.
+4. die Anrechnung von Zeiten auf den Vorbereitungsdienst und die Voraussetzungen für eine Verkürzung des Vorbereitungsdienstes,
+
+5. die Einstellungsvoraussetzungen für andere Bewerberinnen und andere Bewerber,
+
+6. die Festlegung von Altersgrenzen,
+
+7. die Voraussetzungen für den Laufbahnwechsel und
+
+8. die Voraussetzungen für Beförderungen.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach Maßgabe der §§ 16 bis 25 besondere Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
+
+1. das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
+
+2. den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte und Dauer,
+
+3. die Prüfung und das Prüfungsverfahren, einschließlich der Prüfungsnoten, sowie
+
+4. die Folgen der Nichtteilnahme an Prüfungen und die Folgen von Ordnungsverstößen.
+
+Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung obersten Dienstbehörden übertragen.
 
 # § 27 – Abordnung
 
@@ -413,7 +473,7 @@ Das Beamtenverhältnis endet durch
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
-1. die Voraussetzungen des § 7 Abs. 1 Nr. 1 nicht mehr vorliegen und eine Ausnahme nach § 7 Abs. 3 auch nachträglich nicht zugelassen wird,
+1. die Voraussetzungen des § 7 Absatz 1 Satz 1 Nummer 1 nicht mehr vorliegen und eine Ausnahme nach § 7 Abs. 3 auch nachträglich nicht zugelassen wird,
 
 2. sie in ein öffentlich-rechtliches Dienst- oder Amtsverhältnis zu einem anderen Dienstherrn oder zu einer Einrichtung ohne Dienstherrnfähigkeit nach deutschem Recht treten oder zur Berufssoldatin, zum Berufssoldaten, zur Soldatin auf Zeit oder zum Soldaten auf Zeit ernannt werden, sofern gesetzlich nichts anderes bestimmt ist oder
 
@@ -447,7 +507,7 @@ Satz 1 Nummer 2 gilt nicht, wenn
 
 # § 34 – Entlassung von Beamtinnen auf Probe und Beamten auf Probe
 
-(1) Beamtinnen auf Probe und Beamte auf Probe im Sinne des § 6 Abs. 3 Satz 1 können außerdem entlassen werden, wenn einer der folgenden Entlassungsgründe vorliegt:
+(1) Beamtinnen auf Probe und Beamte auf Probe im Sinne des § 6 Absatz 3 Nummer 1 können außerdem entlassen werden, wenn einer der folgenden Entlassungsgründe vorliegt:
 
 1. ein Verhalten, das im Beamtenverhältnis auf Lebenszeit mindestens eine Kürzung der Dienstbezüge zur Folge hätte,
 
@@ -1218,11 +1278,13 @@ Die Versetzung in den Ruhestand wird von der für die Ernennung zuständigen Ste
 
 (2) Beamtinnen und Beamte haben bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Pflichten ihres Amtes ergeben.
 
-# § 61 – Wahrnehmung der Aufgaben, Verhalten
+# § 61 – Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
 
-(1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem Beruf zu widmen. Sie haben das ihnen übertragene Amt uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten innerhalb und außerhalb des Dienstes muss der Achtung und dem Vertrauen gerecht werden, die ihr Beruf erfordert. Sie dürfen ihr Gesicht bei Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug nicht verhüllen, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
+(1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem Beruf zu widmen. Sie haben das ihnen übertragene Amt uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten innerhalb und außerhalb des Dienstes muss der Achtung und dem Vertrauen gerecht werden, die ihr Beruf erfordert.
 
-(2) Beamtinnen und Beamte sind verpflichtet, an Maßnahmen der dienstlichen Qualifizierung zur Erhaltung oder Fortentwicklung ihrer Kenntnisse und Fähigkeiten teilzunehmen.
+(2) Beamtinnen und Beamte haben bei Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich ihres Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte Vertrauen zu nehmen. Insbesondere das Tragen von bestimmten Kleidungsstücken, Schmuck, Symbolen und Tätowierungen im sichtbaren Bereich sowie die Art der Haar- und Barttracht können von der obersten Dienstbehörde eingeschränkt oder untersagt werden, soweit die Funktionsfähigkeit der Verwaltung oder die Pflicht zum achtungs- und vertrauenswürdigen Verhalten dies erfordert. Das ist insbesondere dann der Fall, wenn Merkmale des Erscheinungsbilds nach Satz 2 durch ihre über das übliche Maß hinausgehende besonders individualisierende Art geeignet sind, die amtliche Funktion der Beamtin oder des Beamten in den Hintergrund zu drängen. Religiös oder weltanschaulich konnotierte Merkmale des Erscheinungsbilds nach Satz 2 können nur dann eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind, das Vertrauen in die neutrale Amtsführung der Beamtin oder des Beamten zu beeinträchtigen. Das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Finanzen sowie das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, jeweils für ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei der Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
+
+(3) Beamtinnen und Beamte sind verpflichtet, an Maßnahmen der dienstlichen Qualifizierung zur Erhaltung oder Fortentwicklung ihrer Kenntnisse und Fähigkeiten teilzunehmen.
 
 # § 62 – Folgepflicht
 
@@ -1246,7 +1308,7 @@ Die Versetzung in den Ruhestand wird von der für die Ernennung zuständigen Ste
 
 (3) Lehnt eine Beamtin oder ein Beamter aus Glaubens- oder Gewissensgründen die Ablegung des vorgeschriebenen Eides ab, können an Stelle der Worte „Ich schwöre“ die Worte „Ich gelobe“ oder eine andere Beteuerungsformel gesprochen werden.
 
-(4) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Abs. 1 Nr. 1 zugelassen worden ist, kann von einer Eidesleistung abgesehen werden. Sofern gesetzlich nichts anderes bestimmt ist, hat die Beamtin oder der Beamte in diesen Fällen zu geloben, ihre oder seine Amtspflichten gewissenhaft zu erfüllen.
+(4) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Absatz 1 Satz 1 Nummer 1 zugelassen worden ist, kann von einer Eidesleistung abgesehen werden. Sofern gesetzlich nichts anderes bestimmt ist, hat die Beamtin oder der Beamte in diesen Fällen zu geloben, ihre oder seine Amtspflichten gewissenhaft zu erfüllen.
 
 # § 65 – Befreiung von Amtshandlungen
 
@@ -1920,9 +1982,13 @@ Die Personalvertretung der Beamtinnen und Beamten ist zu gewährleisten. Das Nä
 
 Die Spitzenorganisationen der zuständigen Gewerkschaften sind bei der Vorbereitung allgemeiner Regelungen der beamtenrechtlichen Verhältnisse zu beteiligen.
 
-# § 119 – Aufgaben
+# § 119 – Aufgaben; Verordnungsermächtigung
 
-(1) Der Bundespersonalausschuss dient der einheitlichen Handhabung beamtenrechtlicher Ausnahmevorschriften. Weitere als die in diesem Gesetz vorgesehenen Aufgaben können ihm durch Rechtsverordnung der Bundesregierung übertragen werden.
+(1) Der Bundespersonalausschuss dient der einheitlichen Handhabung beamtenrechtlicher Ausnahmevorschriften. Weitere als die in diesem Gesetz vorgesehenen Aufgaben kann die Bundesregierung dem Bundespersonalausschuss durch Rechtsverordnung übertragen, insbesondere
+
+1. die Feststellung des erfolgreichen Abschlusses von Aufstiegsverfahren,
+
+2. der Erlass von Regelungen über die Feststellungsverfahren nach Nummer 1 und § 19.
 
 (2) Der Bundespersonalausschuss übt seine Tätigkeit unabhängig und in eigener Verantwortung aus.
 
@@ -2096,7 +2162,7 @@ Handelt es sich in den Fällen des Satzes 3 Nummer 2 um ein Beamtenverhältnis a
 
 1. Nach Erreichen der Regelaltersgrenze können Ehrenbeamtinnen und Ehrenbeamte verabschiedet werden. Sie sind zu verabschieden, wenn die sonstigen Voraussetzungen für die Versetzung einer Beamtin oder eines Beamten in den Ruhestand gegeben sind.
 
-2. Nicht anzuwenden sind die §§ 28, 53 Abs. 2, §§ 72, 76, 87, 88, 97 bis 101 und 104, auf Honorarkonsularbeamtinnen und Honorarkonsularbeamte, außerdem § 7 Abs. 1 Nr. 1.
+2. Nicht anzuwenden sind die §§ 28, 53 Abs. 2, §§ 72, 76, 87, 88, 97 bis 101 und 104, auf Honorarkonsularbeamtinnen und Honorarkonsularbeamte, außerdem § 7 Absatz 1 Satz 1 Nummer 1.
 
 (2) Die Unfallfürsorge für Ehrenbeamtinnen und Ehrenbeamte und ihre Hinterbliebenen richtet sich nach § 68 des Beamtenversorgungsgesetzes.
 
