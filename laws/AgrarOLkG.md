@@ -1,4 +1,4 @@
-% Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich  (Agrarmarktstrukturgesetz - AgrarMSG)
+% Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich  (Agrarorganisationen-und-Lieferketten-Gesetz - AgrarOLkG)
 % Ausfertigungsdatum: 20.04.2013
  
 # Inhaltsübersicht

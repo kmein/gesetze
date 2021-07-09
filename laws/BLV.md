@@ -705,11 +705,9 @@ Die dienstliche Qualifizierung wird durch zentral organisierte Fortbildungsmaßn
 
 (5) Beamtinnen und Beamte, die durch Qualifizierung ihre Fähigkeiten und fachlichen Kenntnisse nachweislich wesentlich gesteigert haben, sollen gefördert werden. Vor allem ist ihnen nach Möglichkeit Gelegenheit zu geben, in Abstimmung mit der Dienstbehörde ihre Fachkenntnisse in höher bewerteten Dienstgeschäften anzuwenden und hierbei ihre besondere fachliche Eignung nachzuweisen.
 
-# § 48 – Regelbeurteilung, Anlassbeurteilung
+# § 48 – Ausnahmen von der regelmäßigen Beurteilung
 
-(1) Eignung, Befähigung und fachliche Leistung der Beamtin oder des Beamten sind regelmäßig spätestens alle drei Jahre oder wenn es die dienstlichen oder persönlichen Verhältnisse erfordern zu beurteilen.
-
-(2) Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist insbesondere während der laufbahnrechtlichen Probezeit und in herausgehobenen Führungsfunktionen der Fall. Die §§ 28 bis 31 bleiben unberührt.
+Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist insbesondere während der laufbahnrechtlichen Probezeit und in herausgehobenen Führungsfunktionen der Fall. Die §§ 28 bis 31 bleiben unberührt.
 
 # § 49 – Inhalt der dienstlichen Beurteilung
 

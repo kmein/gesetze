@@ -57,7 +57,7 @@ Die Gebühr beträgt 400 bis 10 000 Euro für eine Entscheidung nach § 6 Absa
 
 (3) Die Gebühr für die Prüfung der Anwendung der Klassifizierungsregeln des Anhangs VIII Kapitel III der Verordnung (EU) 2017/745 für klinische Prüfungen von Produkten der Klasse I oder von nicht invasiven Produkten der Klasse IIa nach § 39 Absatz 3 in Verbindung mit § 31 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes beträgt 500 bis 2 500 Euro.
 
-(4) Die Gebühr für die Bewertung einer Meldung nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 beträgt bis zu 250 Euro. Die Summe der einzelnen Gebühren für die Bearbeitung von Meldungen schwerwiegender unerwünschter Ereignisse nach Artikel 80 Absatz 2 Buchstabe a der Verordnung (EU) 2017/745, auch in Verbindung mit Absatz 3 dieser Vorschrift, darf je klinische Prüfung einen Betrag von 2 000 Euro pro Monat nicht überschreiten.
+(4) Die Gebühr für die Bewertung einer Meldung nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 beträgt 25 bis 250 Euro. Die Summe der einzelnen Gebühren für die Bearbeitung von Meldungen schwerwiegender unerwünschter Ereignisse nach Artikel 80 Absatz 2 Buchstabe a der Verordnung (EU) 2017/745, auch in Verbindung mit Absatz 3 dieser Vorschrift, darf je klinische Prüfung einen Betrag von 2 000 Euro pro Monat nicht überschreiten.
 
 (5) Die Gebühr für die Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung nach Artikel 77 Absatz 1 der Verordnung (EU) 2017/745 beträgt 600 bis 2 000 Euro.
 

@@ -23,17 +23,23 @@
 
 # § 2 – Dienstreisen
 
-(1) Dienstreisen sind Reisen zur Erledigung von Dienstgeschäften außerhalb der Dienststätte. Sie müssen, mit Ausnahme von Dienstreisen am Dienst- oder Wohnort, schriftlich oder elektronisch angeordnet oder genehmigt worden sein, es sei denn, dass eine Anordnung oder Genehmigung nach dem Amt der Dienstreisenden oder dem Wesen des Dienstgeschäfts nicht in Betracht kommt. Dienstreisen sollen nur durchgeführt werden, wenn sie aus dienstlichen Gründen notwendig sind. Dienstreisen sind auch Reisen aus Anlass der Versetzung, Abordnung oder Kommandierung.
+(1) Dienstreisen sind Reisen zur Erledigung von Dienstgeschäften außerhalb der Dienststätte. Sie müssen, mit Ausnahme von Dienstreisen am Dienst- oder Wohnort, schriftlich oder elektronisch angeordnet oder genehmigt worden sein, es sei denn, dass eine Anordnung oder Genehmigung nach dem Amt der Dienstreisenden oder dem Wesen des Dienstgeschäfts nicht in Betracht kommt. Dienstreisen sollen nur durchgeführt werden, wenn sie aus dienstlichen Gründen notwendig sind. Dienstreisen dürfen nur angeordnet oder genehmigt werden, wenn das Dienstgeschäft nicht auf andere Weise, insbesondere durch Einsatz digitaler Kommunikationsmittel, erledigt werden kann. Dienstreisen sind auch Reisen aus Anlass der Versetzung, Abordnung oder Kommandierung.
 
 (2) Die Dauer der Dienstreise bestimmt sich nach der Abreise und Ankunft an der Wohnung, es sei denn, die Dienstreise beginnt oder endet an der Dienststätte.
 
 # § 3 – Anspruch auf Reisekostenvergütung
 
-(1) Dienstreisende erhalten auf Antrag eine Vergütung der dienstlich veranlassten notwendigen Reisekosten. Der Anspruch auf Reisekostenvergütung erlischt, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Beendigung der Dienstreise schriftlich oder elektronisch beantragt wird. Die zuständigen Stellen können bis zum Ablauf von sechs Monaten nach Antragstellung die Vorlage der maßgeblichen Kostenbelege verlangen. Werden diese Belege auf Anforderung nicht innerhalb von drei Monaten vorgelegt, kann der Vergütungsantrag insoweit abgelehnt werden.
+(1) Dienstreisenden werden auf Antrag die dienstlich veranlassten notwendigen Reisekosten vergütet. Werden Dienstreisen umweltverträglich und nachhaltig durchgeführt, sind die dadurch entstehenden notwendigen Kosten zu erstatten, soweit sie in angemessenem Verhältnis zu den Zielen der Umweltverträglichkeit und Nachhaltigkeit stehen.
 
-(2) Leistungen, die Dienstreisende ihres Amtes wegen von dritter Seite aus Anlass einer Dienstreise erhalten, sind auf die Reisekostenvergütung anzurechnen.
+(2) Der Anspruch auf Reisekostenvergütung erlischt, wenn sie nicht innerhalb einer Ausschlussfrist von sechs Monaten nach Beendigung der Dienstreise schriftlich oder elektronisch beantragt wird. Die zuständigen Stellen können bis zum Ablauf von sechs Monaten nach Antragstellung die Vorlage der maßgeblichen Kostenbelege verlangen. Werden diese Belege auf Anforderung nicht innerhalb von drei Monaten vorgelegt, kann der Vergütungsantrag insoweit abgelehnt werden.
 
-(3) Bei Dienstreisen für eine auf Veranlassung der zuständigen Behörde ausgeübte Nebentätigkeit haben Dienstreisende nur Anspruch auf Reisekostenvergütung, die nicht von anderer Stelle zu übernehmen ist. Das gilt auch dann, wenn Dienstreisende auf ihren Anspruch gegen diese Stelle verzichtet haben.
+(3) Leistungen, die Dienstreisende ihres Amtes wegen von dritter Seite aus Anlass einer Dienstreise erhalten, sind auf die Reisekostenvergütung anzurechnen.
+
+(4) Bei Dienstreisen für eine auf Veranlassung der zuständigen Behörde ausgeübte Nebentätigkeit haben Dienstreisende nur Anspruch auf Reisekostenvergütung, die nicht von anderer Stelle zu übernehmen ist. Das gilt auch dann, wenn Dienstreisende auf ihren Anspruch gegen diese Stelle verzichtet haben.
+
+# § 3a – Vollständig automatisierter Erlass des Bescheides über die Reisekostenvergütung
+
+Der Bescheid über die Reisekostenvergütung kann vollständig durch automatische Einrichtungen erlassen werden.
 
 # § 4 – Fahrt- und Flugkostenerstattung
 
@@ -93,7 +99,7 @@ Dauert der dienstlich veranlasste Aufenthalt an demselben auswärtigen Geschäft
 
 (1) Zur Erledigung des Dienstgeschäfts notwendige Auslagen, die nicht nach den §§ 4 bis 9 zu erstatten sind, werden als Nebenkosten erstattet.
 
-(2) Entfällt eine Dienstreise aus einem von der oder dem Bediensteten nicht zu vertretenden Grund, werden durch die Vorbereitung entstandene, nach diesem Gesetz abzugeltende Auslagen erstattet.
+(2) Entfällt eine Dienstreise aus einem von der oder dem Bediensteten nicht zu vertretenden Grund, werden durch die Vorbereitung entstandene, nach diesem Gesetz abzugeltende Auslagen erstattet. Dies gilt auch für Kosten nach § 3 Absatz 1 Satz 2.
 
 # § 11 – Bemessung der Reisekostenvergütung in besonderen Fällen
 

@@ -6291,31 +6291,31 @@ Hat der Reisende vom Reiseveranstalter bereits Schadensersatz erhalten oder ist 
 
 2. der Reisende im Hinblick auf erbrachte Reiseleistungen Zahlungsaufforderungen von Leistungserbringern nachkommt, deren Entgeltforderungen der Reiseveranstalter nicht erfüllt hat.
 
-Umfasst der Vertrag auch die Beförderung des Reisenden, hat der Reiseveranstalter zudem die vereinbarte Rückbeförderung und die Beherbergung bis zum Zeitpunkt der Rückbeförderung sicherzustellen. Der Zahlungsunfähigkeit stehen die Eröffnung des Insolvenzverfahrens über das Vermögen des Reiseveranstalters und die Abweisung eines Eröffnungsantrags mangels Masse gleich.
+Umfasst der Vertrag auch die Beförderung des Reisenden, hat der Reiseveranstalter zudem die vereinbarte Rückbeförderung und die Beherbergung des Reisenden bis zum Zeitpunkt der Rückbeförderung sicherzustellen. Der Zahlungsunfähigkeit des Reiseveranstalters stehen die Eröffnung des Insolvenzverfahrens über sein Vermögen und die Abweisung eines Eröffnungsantrags mangels Masse gleich.
 
-(2) Die Verpflichtungen nach Absatz 1 kann der Reiseveranstalter nur erfüllen
+(2) Die Verpflichtungen nach Absatz 1 kann der Reiseveranstalter vorbehaltlich des Satzes 2 ab dem 1. November 2021 nur durch einen Absicherungsvertrag mit einem nach dem Reisesicherungsfondsgesetz zum Geschäftsbetrieb befugten Reisesicherungsfonds erfüllen. Reiseveranstalter, die im letzten abgeschlossenen Geschäftsjahr einen Umsatz im Sinne des § 1 Nummer 2 Buchstabe a des Reisesicherungsfondsgesetzes von weniger als 10 Millionen Euro erzielt haben, können im jeweils darauffolgenden Geschäftsjahr die Verpflichtungen nach Absatz 1 auch erfüllen
 
 1. durch eine Versicherung bei einem im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Versicherungsunternehmen oder
 
 2. durch ein Zahlungsversprechen eines im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts.
 
-Der Reiseveranstalter muss ohne Rücksicht auf den Wohnsitz des Reisenden, den Ort der Abreise und den Ort des Vertragsschlusses Sicherheit leisten.
+Der Reiseveranstalter muss die Verpflichtungen nach Absatz 1 ohne Rücksicht auf den Wohnsitz des Reisenden, den Ort der Abreise und den Ort des Vertragsschlusses erfüllen.
 
-(3) Der Versicherer oder das Kreditinstitut (Kundengeldabsicherer) kann dem Reisenden die Fortsetzung der Pauschalreise anbieten. Verlangt der Reisende eine Erstattung nach Absatz 1, hat der Kundengeldabsicherer den Anspruch unverzüglich zu erfüllen. Er kann seine Haftung für die von ihm in einem Geschäftsjahr insgesamt nach diesem Gesetz zu erstattenden Beträge auf 110 Millionen Euro begrenzen. Übersteigen die in einem Geschäftsjahr von einem Kundengeldabsicherer insgesamt nach diesem Gesetz zu erstattenden Beträge den in Satz 3 genannten Höchstbetrag, so verringern sich die einzelnen Erstattungsansprüche in dem Verhältnis, in dem ihr Gesamtbetrag zum Höchstbetrag steht.
+(3) Der Reisesicherungsfonds, der Versicherer oder das Kreditinstitut (Absicherer) kann dem Reisenden die Fortsetzung der Pauschalreise anbieten. Verlangt der Reisende eine Erstattung nach Absatz 1, hat der Absicherer diesen Anspruch unverzüglich zu erfüllen. Versicherer und Kreditinstitute können ihre aus Verträgen nach Absatz 2 Satz 2 Nummer 1 und 2 folgende Einstandspflicht für jede Insolvenz eines Reiseveranstalters, der im letzten abgeschlossenen Geschäftsjahr einen Umsatz im Sinne des § 1 Nummer 2 Buchstabe a des Reisesicherungsfondsgesetzes von weniger als 3 Millionen Euro erzielt hat, auf 1 Million Euro begrenzen. Übersteigen in diesem Fall die zu erbringenden Leistungen den vereinbarten Höchstbetrag, so verringern sich die einzelnen Leistungsansprüche der Reisenden in dem Verhältnis, in dem ihr Gesamtbetrag zum Höchstbetrag steht.
 
-(4) Zur Erfüllung seiner Verpflichtungen nach Absatz 1 hat der Reiseveranstalter dem Reisenden einen unmittelbaren Anspruch gegen den Kundengeldabsicherer zu verschaffen und durch eine von diesem oder auf dessen Veranlassung gemäß Artikel 252 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ausgestellte Bestätigung (Sicherungsschein) nachzuweisen. Der im Vertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannte Kundengeldabsicherer kann sich gegenüber dem Reisenden weder auf Einwendungen aus dem Kundengeldabsicherungsvertrag noch auf dessen Beendigung berufen, wenn die Beendigung nach Abschluss des Pauschalreisevertrags erfolgt ist. In den Fällen des Satzes 2 geht der Anspruch des Reisenden gegen den Reiseveranstalter auf den Kundengeldabsicherer über, soweit dieser den Reisenden befriedigt.
+(4) Zur Erfüllung seiner Verpflichtungen nach Absatz 1 hat der Reiseveranstalter dem Reisenden einen unmittelbaren Anspruch gegen den Absicherer zu verschaffen und durch eine von diesem oder auf dessen Veranlassung gemäß Artikel 252 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ausgestellte Bestätigung (Sicherungsschein) nachzuweisen. Der im Vertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannte Absicherer kann sich gegenüber dem Reisenden weder auf Einwendungen aus dem Absicherungsvertrag berufen noch auf dessen Beendigung, wenn die Beendigung nach Abschluss des Pauschalreisevertrags erfolgt ist. In den Fällen des Satzes 2 geht der Anspruch des Reisenden gegen den Reiseveranstalter auf den Absicherer über, soweit dieser den Reisenden befriedigt.
 
 # § 651s – Insolvenzsicherung der im Europäischen Wirtschaftsraum niedergelassenen Reiseveranstalter
 
 Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung in einem anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, so genügt er seiner Verpflichtung zur Insolvenzsicherung auch dann, wenn er dem Reisenden Sicherheit in Übereinstimmung mit den Vorschriften dieses anderen Staates zur Umsetzung des Artikels 17 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1) leistet.
 
-# § 651t – Vorauszahlungen
+# § 651t – Rückbeförderung; Vorauszahlungen
 
-Der Reiseveranstalter darf Zahlungen des Reisenden auf den Reisepreis vor Beendigung der Pauschalreise nur fordern oder annehmen, wenn
+Der Reiseveranstalter darf eine Rückbeförderung des Reisenden nur vereinbaren und Zahlungen des Reisenden auf den Reisepreis vor Beendigung der Pauschalreise nur fordern oder annehmen, wenn
 
-1. ein wirksamer Kundengeldabsicherungsvertrag besteht oder, in den Fällen des § 651s, der Reiseveranstalter nach § 651s Sicherheit leistet und
+1. ein wirksamer Absicherungsvertrag besteht oder, in den Fällen des § 651s, der Reiseveranstalter nach § 651s Sicherheit leistet und
 
-2. dem Reisenden klar, verständlich und in hervorgehobener Weise Name und Kontaktdaten des Kundengeldabsicherers oder, in den Fällen des § 651s, Name und Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, sowie gegebenenfalls der Name und die Kontaktdaten der von dem betreffenden Staat benannten zuständigen Behörde zur Verfügung gestellt wurden.
+2. dem Reisenden klar, verständlich und in hervorgehobener Weise Name und Kontaktdaten des Absicherers oder, in den Fällen des § 651s, Name und Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, sowie gegebenenfalls der Name und die Kontaktdaten der von dem betreffenden Staat benannten zuständigen Behörde zur Verfügung gestellt wurden.
 
 # § 651u – Gastschulaufenthalte
 

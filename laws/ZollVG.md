@@ -299,7 +299,7 @@ verbracht werden, die Barmittel oder gleichgestellten Zahlungsmittel sowie die z
 
 4. die Kenntnis der Daten von Bedeutung sein kann für die Durchführung eines Verwaltungsverfahrens wegen unerlaubter Finanztransferdienstleistungen.
 
-Die Zollbehörden haben die Daten nach den Sätzen 1 und 2 an die zuständigen Strafverfolgungsbehörden, Finanzbehörden, Verwaltungsbehörden, Sozialleistungsträger, die Zentralstelle für Finanztransaktionsuntersuchungen sowie die Bundesanstalt für Finanzdienstleistungsaufsicht zu übermitteln. Die Übermittlung an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 10 des MAD-Gesetzes und § 23 des BND-Gesetzes sowie den landesrechtlichen Vorschriften.
+Die Zollbehörden haben die Daten nach den Sätzen 1 und 2 an die zuständigen Strafverfolgungsbehörden, Finanzbehörden, Verwaltungsbehörden, Sozialleistungsträger, die Zentralstelle für Finanztransaktionsuntersuchungen sowie die Bundesanstalt für Finanzdienstleistungsaufsicht zu übermitteln. Die Übermittlung an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 10 des MAD-Gesetzes und § 10 des BND-Gesetzes sowie den landesrechtlichen Vorschriften.
 
 # § 12b – Befugnisse des Zollfahndungsdienstes bei der Verfolgung der internationalen organisierten Geldwäsche
 

@@ -119,7 +119,7 @@ Bei der Ermittlung der Mieteigenbelastung nach § 54 Absatz 1 sind die Dienstbez
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung bei Altersteilzeit nach § 93 des Bundesbeamtengesetzes sowie nach entsprechenden Bestimmungen für Richter die Gewährung eines nichtruhegehaltfähigen Zuschlags zur Besoldung zu regeln. Zuschlag und Besoldung dürfen zusammen 83 Prozent der Nettobesoldung nicht überschreiten, die nach der bisherigen Arbeitszeit, die für die Bemessung der ermäßigten Arbeitszeit während der Altersteilzeit zugrunde gelegt worden ist, zustehen würde; § 6a ist zu berücksichtigen. Abweichend von Satz 2 dürfen Zuschlag und Besoldung im Geschäftsbereich des Bundesministeriums der Verteidigung zusammen 88 Prozent betragen, wenn Dienstposten infolge von Strukturmaßnahmen auf Grund der Neuausrichtung der Bundeswehr wegfallen. Für den Fall der vorzeitigen Beendigung der Altersteilzeit ist ein Ausgleich zu regeln. Absatz 1a Satz 1 und 2 gilt entsprechend.
 
-(3) Abweichend von Absatz 2 sowie den §§ 1 und 2 der Altersteilzeitzuschlagsverordnung wird in den Fällen des § 93 Absatz 3 und 4 des Bundesbeamtengesetzes zusätzlich zur Besoldung nach Absatz 1 ein nicht ruhegehaltfähiger Zuschlag in Höhe von 20 Prozent der Dienstbezüge gewährt, die entsprechend der während der Altersteilzeit ermäßigten Arbeitszeit zustehen; § 6a ist zu berücksichtigen. Dienstbezüge im Sinne des Satzes 1 sind das Grundgehalt, der Familienzuschlag, Amtszulagen, Stellenzulagen, Zuschüsse zum Grundgehalt für Professoren an Hochschulen, die bei der Deutschen Bundesbank gewährte Bankzulage, Überleitungszulagen und Ausgleichszulagen, die wegen des Wegfalls oder der Verminderung solcher Bezüge zustehen. Bezüge, die nicht der anteiligen Kürzung nach Absatz 1 unterliegen, bleiben unberücksichtigt. Absatz 1a Satz 1 und 2 gilt entsprechend. Für den Fall, dass die Altersteilzeit vorzeitig beendet wird, ist § 2a der Altersteilzeitzuschlagsverordnung entsprechend anzuwenden.
+(3) Abweichend von Absatz 2 sowie den §§ 1 und 2 der Altersteilzeitzuschlagsverordnung wird in den Fällen des § 93 Absatz 3 und 4 des Bundesbeamtengesetzes zusätzlich zur Besoldung nach Absatz 1 ein nicht ruhegehaltfähiger Zuschlag in Höhe von 20 Prozent der Dienstbezüge gewährt, die entsprechend der während der Altersteilzeit ermäßigten Arbeitszeit zustehen; § 6a ist zu berücksichtigen. Dienstbezüge im Sinne des Satzes 1 sind das Grundgehalt, der Familienzuschlag, Amtszulagen, Stellenzulagen, Zuschüsse zum Grundgehalt für Professoren an Hochschulen, die bei der Deutschen Bundesbank gewährte Bankzulage, Überleitungszulagen und Ausgleichszulagen, die wegen des Wegfalls oder der Verminderung solcher Bezüge zustehen. Bezüge, die nicht der anteiligen Kürzung nach Absatz 1 unterliegen, bleiben unberücksichtigt; dies gilt nicht für Stellenzulagen im Sinne von Absatz 1a Satz 1 Nummer 3. Absatz 1a Satz 1 und 2 gilt entsprechend. Für den Fall, dass die Altersteilzeit vorzeitig beendet wird, ist § 2a der Altersteilzeitzuschlagsverordnung entsprechend anzuwenden.
 
 (4) Im Fall des § 53 Absatz 4 des Bundesbeamtengesetzes wird zusätzlich zur Besoldung nach Absatz 1 ein nicht ruhegehaltfähiger Zuschlag in Höhe von 50 Prozent desjenigen nicht um einen Versorgungsabschlag geminderten Ruhegehaltes gewährt, das bei einer Versetzung in den Ruhestand am Tag vor dem Beginn der Teilzeitbeschäftigung zustünde.
 
@@ -129,9 +129,7 @@ Bei der Ermittlung der Mieteigenbelastung nach § 54 Absatz 1 sind die Dienstbez
 
 (2) Begrenzt Dienstfähige erhalten zusätzlich zu den Dienstbezügen nach Absatz 1 einen nicht ruhegehaltfähigen Zuschlag. Der Zuschlag beträgt 50 Prozent des Unterschiedsbetrages zwischen den nach Absatz 1 gekürzten Dienstbezügen und den Dienstbezügen, die bei einer Vollzeitbeschäftigung zustünden.
 
-(3) Wird die Arbeitszeit auf Grund einer Teilzeitbeschäftigung zusätzlich reduziert, verringert sich der Zuschlag nach Absatz 2 entsprechend dem Verhältnis zwischen der wegen begrenzter Dienstfähigkeit verringerten Arbeitszeit und der insgesamt reduzierten Arbeitszeit.
-
-(4) Dienstbezüge im Sinne des Absatzes 1 sind
+(3) In die Zuschlagsberechnung nach Absatz 2 sind einzubeziehen:
 
 1. das Grundgehalt,
 
@@ -141,7 +139,9 @@ Bei der Ermittlung der Mieteigenbelastung nach § 54 Absatz 1 sind die Dienstbez
 
 4. Überleitungs- und Ausgleichszulagen,
 
-5. Zuschüsse und Leistungsbezüge für Professoren sowie hauptberufliche Leiter an Hochschulen und Mitglieder von Leitungsgremien an Hochschulen.
+5. Zuschüsse und Leistungsbezüge für Professoren sowie hauptamtliche Leiter an Hochschulen und für Mitglieder von Leitungsgremien an Hochschulen.
+
+(4) Wird die Arbeitszeit auf Grund einer Teilzeitbeschäftigung zusätzlich reduziert, verringert sich der Zuschlag nach Absatz 2 entsprechend dem Verhältnis zwischen der wegen begrenzter Dienstfähigkeit verringerten Arbeitszeit und der insgesamt reduzierten Arbeitszeit.
 
 (5) Der Zuschlag nach Absatz 2 wird nicht gewährt neben einem Zuschlag
 
@@ -151,9 +151,11 @@ Bei der Ermittlung der Mieteigenbelastung nach § 54 Absatz 1 sind die Dienstbez
 
 3. nach § 7a,
 
-4. nach § 2 der Telekom-Beamtenaltersteilzeitverordnung oder
+4. nach § 2 der Telekom-Beamtenaltersteilzeitverordnung,
 
-5. nach § 2 der Postbeamtenaltersteilzeitverordnung.
+5. nach § 2 der Postbeamtenaltersteilzeitverordnung oder
+
+6. nach § 2 der Deutsche-Bank-Beamtenaltersteilzeitverordnung.
 
 # § 7 – Vorschuss während der Familienpflegezeit und Pflegezeit, Verordnungsermächtigung
 
@@ -829,6 +831,8 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 4. für Dienst im Bereitschaftsfall.
 
+(4) Neben der Vergütung nach Absatz 1 wird keine Vergütung nach den §§ 50 und 50b gewährt.
+
 # § 50b – Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen die Gewährung einer Vergütung für Beamte und Soldaten im Sanitätsdienst in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A zu regeln für Zeiten
@@ -866,11 +870,11 @@ Andere als die in diesem Abschnitt geregelten Zulagen und Vergütungen dürfen n
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Beamte, Richter oder Soldat für einen Zeitraum von mehr als drei Monaten vom Inland ins Ausland oder im Ausland abgeordnet oder kommandiert ist. Der Abordnung kann eine Verwendung im Ausland nach § 29 des Bundesbeamtengesetzes gleichgestellt werden. Absatz 1 Satz 1 gilt nicht
 
-1. bei einer Abordnung oder Kommandierung vom Ausland in das Inland für mehr als drei Monate,
+1. bei einer Umsetzung, Abordnung oder Kommandierung vom Ausland in das Inland für mehr als drei Monate,
 
-2. bei einer Abordnung oder Kommandierung vom Ausland in das Inland für bis zu drei Monate, wenn die Voraussetzungen des Satzes 1 nicht erfüllt sind,
+2. bei einer Umsetzung, Abordnung oder Kommandierung vom Ausland in das Inland für bis zu drei Monate, wenn die Voraussetzungen des Satzes 1 nicht erfüllt sind,
 
-3. wenn der Besoldungsempfänger nach der Abordnung oder Kommandierung vom Ausland in das Inland nicht mehr in das Ausland zurückkehrt.
+3. wenn der Besoldungsempfänger nach der Umsetzung, Abordnung oder Kommandierung vom Ausland in das Inland nicht mehr in das Ausland zurückkehrt.
 
 Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat Ausnahmen von den Sätzen 1 und 2 zulassen.
 
@@ -1006,7 +1010,7 @@ Sie wird nicht neben einer Zulage nach § 45 gewährt.
 
 (2) Zu den Anwärterbezügen gehören der Anwärtergrundbetrag, der Anwärtererhöhungsbetrag und die Anwärtersonderzuschläge. Daneben werden der Familienzuschlag und die vermögenswirksamen Leistungen gewährt. Zulagen und Vergütungen werden nur gewährt, wenn dies gesetzlich besonders bestimmt ist.
 
-(3) Anwärter mit dienstlichem Wohnsitz im Ausland erhalten zusätzlich Bezüge entsprechend der Auslandsbesoldung. Der Berechnung des Mietzuschusses sind der Anwärtergrundbetrag, der Familienzuschlag der Stufe 1, der Anwärtererhöhungsbetrag und der Anwärtersonderzuschlag zugrunde zu legen.
+(3) Anwärter mit dienstlichem Wohnsitz im Ausland erhalten zusätzlich Bezüge entsprechend der Auslandsbesoldung. Der Berechnung des Mietzuschusses sind der Anwärtergrundbetrag, der Familienzuschlag der Stufe 1, der Anwärtererhöhungsbetrag und der Anwärtersonderzuschlag zugrunde zu legen. Der Auslandszuschlag bemisst sich nach dem Anwärtergrundbetrag, dem Anwärtererhöhungsbetrag und dem Anwärtersonderzuschlag.
 
 (4) Absatz 3 gilt nicht für Anwärter, die bei einer von ihnen selbst gewählten Stelle im Ausland ausgebildet werden. § 55 gilt mit der Maßgabe, dass mindestens die Bezüge nach Absatz 2 verbleiben.
 
@@ -1160,13 +1164,21 @@ Das Nähere regelt das Bundesministerium des Innern, für Bau und Heimat in Anle
 
 (2) Allgemeine Verwaltungsvorschriften erlässt das Bundesministerium des Innern, für Bau und Heimat, wenn gesetzlich nichts anderes bestimmt ist. Soweit die Besoldung der Richter und Staatsanwälte berührt ist, erlässt sie das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Soweit die Besoldung der Soldaten berührt ist, erlässt sie das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Verteidigung.
 
-# § 72 – Übergangsregelung zu den §§ 43, 43b und 44
+# § 72 – Übergangsregelungen zu den §§ 6, 43, 43b und 44
 
-(1) § 43 Absatz 6 und 7 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Personalgewinnungszuschläge, die nach § 43 bis zum 31. Dezember 2019 gewährt wurden, weiterhin anzuwenden.
+(1) § 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist weiterhin anzuwenden, wenn der Beamte, Richter oder Soldat
 
-(2) § 43b Absatz 4 in der bis zum 31. Dezember 2019 geltenden Fassung ist bei Soldaten, die eine Verpflichtungsprämie nach § 43b bis zum 31. Dezember 2019 erhalten haben, weiterhin anzuwenden.
+1. vor dem 31. Dezember 2019 eine Teilzeitbeschäftigung nach § 9 der Arbeitszeitverordnung oder nach § 9 der Soldatinnen- und Soldatenteilzeitbeschäftigungsverordnung oder eine Altersteilzeit im Blockmodell begonnen und
 
-(3) § 44 Absatz 5 und 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Personalbindungszuschläge, die nach § 44 bis zum 31. Dezember 2019 gewährt wurden, weiterhin anzuwenden.
+2. sich am 1. Januar 2020 bereits in der Freistellungsphase befunden hat.
+
+Stellenzulagen im Sinne von § 6 Absatz 1a Satz 1 Nummer 3, die erstmals ab dem 1. Januar 2020 gewährt werden, bleiben unberücksichtigt. Befand sich der Beamte, Richter oder Soldat am 1. Januar 2020 noch in der Arbeitsphase eines in Satz 1 bezeichneten Teilzeitmodells, besteht für die Zeit von Beginn des Teilzeitmodells bis zum 31. Dezember 2019 Anspruch auf Bezüge nach Maßgabe des § 6 Absatz 1a. § 6 Absatz 3 Satz 3 gilt entsprechend.
+
+(2) § 43 Absatz 6 und 7 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Personalgewinnungszuschläge, die nach § 43 bis zum 31. Dezember 2019 gewährt wurden, weiterhin anzuwenden.
+
+(3) § 43b Absatz 4 in der bis zum 31. Dezember 2019 geltenden Fassung ist bei Soldaten, die eine Verpflichtungsprämie nach § 43b bis zum 31. Dezember 2019 erhalten haben, weiterhin anzuwenden.
+
+(4) § 44 Absatz 5 und 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Personalbindungszuschläge, die nach § 44 bis zum 31. Dezember 2019 gewährt wurden, weiterhin anzuwenden.
 
 # § 73 – Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
@@ -1323,7 +1335,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 Die Grundamtsbezeichnungen „Rat“, „Oberrat“, „Direktor“, „Leitender Direktor“, „Direktor und Professor“, „Erster Direktor“, „Oberdirektor“, „Präsident“ und „Präsident und Professor“ dürfen nur in Verbindung mit einem Zusatz nach Satz 2 verliehen werden.
 
-(3) Über die Beifügung der Zusätze zu den Grundamtsbezeichnungen entscheidet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen. Das Bundesministerium des Innern, für Bau und Heimat macht die Zusätze zu den Grundamtsbezeichnungen jährlich zum 1. März im Gemeinsamen Ministerialblatt bekannt.
+(3) Über die Beifügung der Zusätze zu den Grundamtsbezeichnungen der Bundesbesoldungsordnung B entscheidet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen. Das Bundesministerium des Innern, für Bau und Heimat macht die Zusätze zu den Grundamtsbezeichnungen der Bundesbesoldungsordnung B jährlich zum 1. März im Gemeinsamen Ministerialblatt bekannt.
 
 (4) Die Regelungen in der Bundesbesoldungsordnung A für Ämter des mittleren, gehobenen und höheren Polizeivollzugsdienstes – mit Ausnahme des kriminalpolizeilichen Vollzugsdienstes – gelten auch für die Polizeivollzugsbeamten beim Deutschen Bundestag. Diese führen die Amtsbezeichnungen des Polizeivollzugsdienstes mit dem Zusatz „beim Deutschen Bundestag“.
 
@@ -1368,7 +1380,7 @@ Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die d
 
 4. Zulage für militärische Führungsfunktionen
 
-(1) Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 14 in einer Verwendung
+(1) Eine Stellenzulage nach Anlage IX erhalten Soldaten in Besoldungsgruppen bis A 14
 
 1. als Kompaniechef oder in vergleichbarer Führungs- oder Ausbildungsfunktion,
 
@@ -1382,7 +1394,7 @@ Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die d
 
 (2) Sofern mehrere Voraussetzungen des Absatzes 1 gleichzeitig erfüllt sind, wird nur die höhere Zulage gewährt.
 
-(3) Die Zulage nach Absatz 1 wird neben einer anderen Stellenzulage nur gewährt, soweit sie diese übersteigt.
+(3) Die Zulage nach Absatz 1 wird neben einer anderen Stellenzulage nur gewährt, soweit sie diese übersteigt. Neben einer Amtszulage in der Besoldungsgruppe A 13 wird die Zulage nach Absatz 1 nicht gewährt.
 
 (4) Das Nähere regelt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch allgemeine Verwaltungsvorschrift.
 
@@ -1588,7 +1600,7 @@ Sind gleichzeitig mehrere Tatbestände nach Satz 1 Nummer 1 bis 3 erfüllt, wird
 
 3. Taucher für den maritimen Einsatz.
 
-(4) Die Stellenzulage wird neben einer anderen Stellenzulage, mit Ausnahme der Stellenzulage nach Nummer 4a oder Nummer 9, nur gewährt, soweit sie diese übersteigt.
+(4) Die Stellenzulage wird neben einer anderen Stellenzulage, mit Ausnahme der Stellenzulage nach Nummer 4a, Nummer 8a oder Nummer 9, nur gewährt, soweit sie diese übersteigt.
 
 (5) Das Nähere kann die oberste Bundesbehörde durch allgemeine Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen regeln.
 
@@ -1618,7 +1630,9 @@ b) die Weiterbildung zum Gebietsarzt erfolgreich abgeschlossen haben und in dies
 
 (2) Bei gleichzeitigem Vorliegen der Voraussetzungen nach Absatz 1 Nummer 2 Buchstabe a und b wird die Stellenzulage nur einmal gewährt.
 
-(3) Den Erwerb und die Erhaltung der Zusatzqualifikation Rettungsmedizin regelt das Bundesministerium der Verteidigung durch allgemeine Verwaltungsvorschrift.
+(3) Die Zulage nach Absatz 1 Nummer 2 wird um den Betrag nach Anlage IX erhöht, wenn der Soldat als Angehöriger einer Besatzung in Dienst gestellter seegehender Schiffe der Marine oder anderer Seestreitkräfte verwendet wird. Erfüllt der Soldat entsprechende Aufgaben auf einem solchen Schiff auf Grund einer Kommandierung, ohne zur Besatzung zu gehören, erhält er diesen Betrag anteilig für die Dauer der Kommandierung.
+
+(4) Den Erwerb und die Erhaltung der Zusatzqualifikation Rettungsmedizin regelt das Bundesministerium der Verteidigung durch allgemeine Verwaltungsvorschrift.
 
 12. Zulage für Beamte mit Meisterprüfung oder Abschlussprüfung als staatlich geprüfter Techniker
 
@@ -1700,23 +1714,23 @@ Beamte, die in der Zentrale der Bundesagentur für Arbeit verwendet werden, erha
 
 Hauptamtsgehilfe
 
-Oberaufseher<span id="FnR.FnA1-f809527_01"></span><a href="#FnA1-f809527_01" class="FnR">1</a></sup>
+Oberaufseher<span id="FnR.FnA1-F816618_01"></span><a href="#FnA1-F816618_01" class="FnR">1</a></sup>
 
-Oberschaffner<a href="#FnA1-f809527_01" class="FnR">1</a></sup>
+Oberschaffner<a href="#FnA1-F816618_01" class="FnR">1</a></sup>
 
-Oberwachtmeister<a href="#FnA1-f809527_01" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-f809527_02"></span><a href="#FnA1-f809527_02" class="FnR">2</a></sup>
+Oberwachtmeister<a href="#FnA1-F816618_01" class="FnR">1</a></sup> ,</sup><span id="FnR.FnA1-F816618_02"></span><a href="#FnA1-F816618_02" class="FnR">2</a></sup>
 
 Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose
 
-Gefreiter<span id="FnR.FnA1-f809527_03"></span><a href="#FnA1-f809527_03" class="FnR">3</a></sup>
+Gefreiter<span id="FnR.FnA1-F816618_03"></span><a href="#FnA1-F816618_03" class="FnR">3</a></sup>
 
-<span id="FnA1-f809527_01"></span><a href="#FnR.FnA1-f809527_01" class="Footnote">1</a>  
+<span id="FnA1-F816618_01"></span><a href="#FnR.FnA1-F816618_01" class="Footnote">1</a>  
 Erhält eine Amtszulage nach Anlage IX.
 
-<span id="FnA1-f809527_02"></span><a href="#FnR.FnA1-f809527_02" class="Footnote">2</a>  
-Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach Fußnote 1 nicht zu.
+<span id="FnA1-F816618_02"></span><a href="#FnR.FnA1-F816618_02" class="Footnote">2</a>  
+Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
 
-<span id="FnA1-f809527_03"></span><a href="#FnR.FnA1-f809527_03" class="Footnote">3</a>  
+<span id="FnA1-F816618_03"></span><a href="#FnR.FnA1-F816618_03" class="Footnote">3</a>  
 Erhält eine Amtszulage nach Anlage IX.
 
 Amtsmeister
@@ -1815,11 +1829,11 @@ Oberfähnrich<a href="#FnA6-f780997_25" class="FnR">1</a></sup>
 
 Oberfähnrich zur See<a href="#FnA6-f780997_25" class="FnR">1</a></sup>
 
-Amtsinspektor<span id="FnR.FnA7-f780997_26"></span><a href="#FnA7-f780997_26" class="FnR">1</a></sup>
+Amtsinspektor<span id="FnR.FnA7-bjnr011740975bjne025047116_stern"></span><a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
-Betriebsinspektor<a href="#FnA7-f780997_26" class="FnR">1</a></sup>
+Betriebsinspektor<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
-Hauptbrandmeister<a href="#FnA7-f780997_26" class="FnR">1</a></sup>
+Hauptbrandmeister<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
 Inspektor
 
@@ -1829,7 +1843,7 @@ Konsulatssekretär
 
 Kriminalkommissar
 
-Polizeihauptmeister<a href="#FnA7-f780997_26" class="FnR">1</a></sup>
+Polizeihauptmeister<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
 Polizeikommissar
 
@@ -1837,9 +1851,9 @@ Stabsfeldwebel
 
 Stabsbootsmann
 
-Oberstabsfeldwebel<span id="FnR.FnA7-bjnr011740975bjne025047116_stern"></span><a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">*</a></sup>
+Oberstabsfeldwebel<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
-Oberstabsbootsmann<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">*</a></sup>
+Oberstabsbootsmann<a href="#FnA7-bjnr011740975bjne025047116_stern" class="FnR">1</a></sup>
 
 Leutnant
 
@@ -1909,6 +1923,8 @@ Kustos
 
 Legationsrat
 
+Militärrabbiner<span id="FnR.FnA11-f780997_40"></span><a href="#FnA11-f780997_40" class="FnR">5</a></sup>
+
 Oberamtsrat
 
 Oberrechnungsrat
@@ -1916,7 +1932,7 @@ Oberrechnungsrat
 –  
 als Prüfungsbeamter beim Bundesrechnungshof –
 
-Pfarrer<span id="FnR.FnA11-f780997_40"></span><a href="#FnA11-f780997_40" class="FnR">5</a></sup>
+Pfarrer<a href="#FnA11-f780997_40" class="FnR">5</a></sup>
 
 Rat
 
@@ -1952,11 +1968,13 @@ Konsul Erster Klasse
 
 Legationsrat Erster Klasse<span id="FnR.FnA12-f780997_47"></span><a href="#FnA12-f780997_47" class="FnR">2</a></sup>
 
+Militärrabbiner<span id="FnR.FnA12-f780997_49"></span><a href="#FnA12-f780997_49" class="FnR">4</a></sup>
+
 Oberkustos
 
 Oberrat
 
-Pfarrer<span id="FnR.FnA12-f780997_49"></span><a href="#FnA12-f780997_49" class="FnR">4</a></sup>
+Pfarrer<a href="#FnA12-f780997_49" class="FnR">4</a></sup>
 
 Fachschuldirektor
 
@@ -2011,6 +2029,8 @@ Generalkonsul<span id="FnR.FnA13-f780997_57"></span><a href="#FnA13-f780997_57" 
 Gesandter<a href="#FnA13-f780997_57" class="FnR">4</a></sup>
 
 Hauptkustos
+
+Koordinierender Militärrabbiner
 
 Museumsdirektor und Professor
 
@@ -2072,6 +2092,8 @@ Leitender Akademischer Direktor
 Leitender Dekan
 
 Leitender Direktor<span id="FnR.FnA14-f809527_09"></span><a href="#FnA14-f809527_09" class="FnR">6</a></sup>
+
+Leitender Militärrabbiner
 
 Ministerialrat
 
@@ -2170,7 +2192,7 @@ Abteilungsdirektor bei der Deutschen Rentenversicherung Knappschaft-Bahn-See
 –  
 als Leiter einer besonders großen und besonders bedeutenden Abteilung –
 
-Abteilungspräsident beim Bundesversicherungsamt
+Abteilungspräsident beim Bundesamt für Soziale Sicherung
 
 –  
 als Leiter einer besonders großen und besonders bedeutenden Abteilung –
@@ -2198,7 +2220,7 @@ bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost –
 bei der Deutschen Post AG –
 
 –  
-bei der DB Privat- und Firmenkundenbank AG –
+bei der Deutschen Bank AG –
 
 –  
 bei der Deutschen Telekom AG –
@@ -2352,6 +2374,8 @@ Generaldirektor der Deutschen Nationalbibliothek
 Generalkonsul<span id="FnR.FnA20-f809527_44"></span><a href="#FnA20-f809527_44" class="FnR">6</a></sup>
 
 Gesandter<a href="#FnA20-f809527_44" class="FnR">6</a></sup>
+
+Leiter des Militärrabbinats
 
 Militärgeneraldekan
 

@@ -11,9 +11,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # Art 2 bis 20c – Änderungsvorschriften
 
-# Art 21 – Übergangsregelung zur Verwendung der Identifikationsnummer nach § 139b der Abgabenordnung für die Pilotierung des Datencockpits
+# Art 21 – Übergangsregelung zur Verwendung der Identifikationsnummer nach § 139b der Abgabenordnung für die Pilotierung des Datenschutzcockpits
 
-Bis zum Inkrafttreten der Artikel 1, 3 Nummer 1 Buchstabe a, von Artikel 4 Nummer 1 Buchstabe a, Nummer 4 und 5 und von Artikel 5 Nummer 3 und 4 darf die Identifikationsnummer nach § 139b der Abgabenordnung zur Pilotierung des Datencockpits regional begrenzt als zusätzliches Ordnungsmerkmal von den jeweils zuständigen Behörden in folgenden Registern gespeichert werden:
+Bis zum Inkrafttreten der Artikel 1, 3 Nummer 1 Buchstabe a, von Artikel 4 Nummer 1 Buchstabe a, Nummer 4 und 5 und von Artikel 5 Nummer 3 und 4 darf die Identifikationsnummer nach § 139b der Abgabenordnung zur Pilotierung des Datenschutzcockpits regional begrenzt als zusätzliches Ordnungsmerkmal von den jeweils zuständigen Behörden in folgenden Registern gespeichert werden:
 
 1. Personenstandsregister
 
@@ -21,7 +21,7 @@ Bis zum Inkrafttreten der Artikel 1, 3 Nummer 1 Buchstabe a, von Artikel 4 Numme
 
 3. personenbezogene Datenbestände der Elterngeldstellen zu Leistungsempfängern nach § 12 des Bundeselterngeld- und Elternzeitgesetzes.
 
-Die bei der Bewilligung von Elterngeld sowie bei der Anzeige der Geburt und Namensbestimmung jeweils beteiligten Behörden dürfen die Identifikationsnummer nach § 139b der Abgabenordnung in Verfahren zur Bewilligung von Elterngeld sowie zur Anzeige der Geburt und Namensbestimmung verarbeiten. Bis zum Inkrafttreten von Artikel 1 § 3 dürfen die Meldebehörden die Identifikationsnummer nach § 139b der Abgabenordnung an die bei der Bewilligung von Elterngeld sowie bei der Anzeige der Geburt und Namensbestimmung beteiligten Behörden auf deren Ersuchen übermitteln. Die Datenübermittlungen zwischen den an der Bewilligung von Elterngeld sowie der Anzeige der Geburt und Namensbestimmung beteiligten Behörden unter Nutzung der Identifikationsnummer nach § 139b der Abgabenordnung werden protokolliert. Die Protokolldaten dürfen dem Datencockpit zum Zweck der Anzeige übermittelt werden. Die datenschutzrechtliche Verantwortung des einzelnen Abrufs der Identifikationsnummer bei den Meldebehörden trägt die jeweils abrufende Stelle.
+Die bei der Bewilligung von Elterngeld sowie bei der Anzeige der Geburt und Namensbestimmung jeweils beteiligten Behörden dürfen die Identifikationsnummer nach § 139b der Abgabenordnung in Verfahren zur Bewilligung von Elterngeld sowie zur Anzeige der Geburt und Namensbestimmung verarbeiten. Bis zum Inkrafttreten von Artikel 1 § 3 dürfen die Meldebehörden die Identifikationsnummer nach § 139b der Abgabenordnung an die bei der Bewilligung von Elterngeld sowie bei der Anzeige der Geburt und Namensbestimmung beteiligten Behörden auf deren Ersuchen übermitteln. Die Datenübermittlungen zwischen den an der Bewilligung von Elterngeld sowie der Anzeige der Geburt und Namensbestimmung beteiligten Behörden unter Nutzung der Identifikationsnummer nach § 139b der Abgabenordnung werden protokolliert. Die Protokolldaten dürfen dem Datenschutzcockpit zum Zweck der Anzeige übermittelt werden. Die datenschutzrechtliche Verantwortung des einzelnen Abrufs der Identifikationsnummer bei den Meldebehörden trägt die jeweils abrufende Stelle.
 
 # Art 22 – Inkrafttreten
 

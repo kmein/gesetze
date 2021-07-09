@@ -8833,31 +8833,31 @@ In den Fällen anderer Zinssätze der Gutachterausschüsse ist der Abzinsungsfak
 
 # Anlage 27 – (zu § 237 Absatz 2) Landwirtschaftliche Nutzung
 
-(Fundstelle: BGBl. I 2019, 1815)
+(Fundstelle: BGBl. I 2021, 2291)
 
 # Anlage 28 – (zu § 237 Absatz 3) Forstwirtschaftliche Nutzung
 
-(Fundstelle: BGBl. I 2019, 1816 – 1818)
+(Fundstelle: BGBl. I 2021, 2292 – 2294)
 
 # Anlage 29 – (zu § 237 Absatz 4) Weinbauliche Nutzung
 
-(Fundstelle: BGBl. I 2019, 1819)
+(Fundstelle: BGBl. I 2021, 2295)
 
 # Anlage 30 – (zu § 237 Absatz 5) Gärtnerische Nutzung
 
-(Fundstelle: BGBl. I 2019, 1820)
+(Fundstelle: BGBl. I 2021, 2296)
 
 # Anlage 31 – (zu § 237 Absatz 6 und 7) Übrige land- und forstwirtschaftliche Nutzungen sowie Abbauland, Geringstland und Unland
 
-(Fundstelle: BGBl. I 2019, 1821)
+(Fundstelle: BGBl. I 2021, 2297)
 
 # Anlage 32 – (zu § 237 Absatz 8) Nutzungsart Hofstelle
 
-(Fundstelle: BGBl. I 2019, 1822)
+(Fundstelle: BGBl. I 2021, 2298)
 
 # Anlage 33 – (zu § 238 Absatz 2) Weitere den Ertragswert erhöhende Umstände
 
-(Fundstelle: BGBl. I 2019, 1823)
+(Fundstelle: BGBl. I 2021, 2299)
 
 # Anlage 34 – (zu § 241 Absatz 5) Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE) nach dem Futterbedarf
 

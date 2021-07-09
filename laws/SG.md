@@ -673,7 +673,9 @@ Satz 1 gilt nicht, wenn der Soldat die Schädigung vorsätzlich oder grob fahrl�
 
 (3) Der Bundespräsident setzt, soweit gesetzlich nichts anderes bestimmt ist, die Dienstgradbezeichnungen der Soldaten fest. Er erlässt die Bestimmungen über die Uniform der Soldaten und bestimmt die Kleidungsstücke, die mit der Uniform getragen werden dürfen, ohne Uniformteile zu sein. Er kann die Ausübung dieser Befugnisse auf andere Stellen übertragen.
 
-(4) Legt ein Soldat sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erneut um einen Sitz im Deutschen Bundestag oder im Europäischen Parlament, so ist die Verleihung eines höheren Dienstgrades nicht zulässig. Satz 1 gilt sinngemäß für Soldaten, die in die gesetzgebende Körperschaft eines Landes gewählt worden sind, und zwar auch für die Zeit zwischen zwei Wahlperioden. Die Verleihung eines höheren Dienstgrades ist auch nicht zulässig, wenn ein Berufssoldat oder Soldat auf Zeit, dessen Rechte und Pflichten auf Grund der §§ 5, 6, 8 und 36 des Abgeordnetengesetzes oder entsprechender Rechtsvorschriften ruhen, einen Dienst nach § 51 Abs. 6 oder § 54 Abs. 4 leistet.
+(4) Unbeschadet der Vorgaben des Absatzes 3 Satz 2 können die weiteren Vorgaben zum Erscheinungsbild der Soldaten bei der Ausübung des Dienstes und bei einer Tätigkeit mit unmittelbarem Dienstbezug durch Rechtsverordnung geregelt werden. Insbesondere das Tragen von bestimmten Kleidungsstücken, Schmuck, Symbolen, Tätowierungen und sonstigen Modifikationen des Erscheinungsbilds im sichtbaren Bereich sowie die Art der Haar- und Barttracht können eingeschränkt oder untersagt werden, soweit die Funktionsfähigkeit der Streitkräfte oder die Pflicht zum achtungs- und vertrauenswürdigen Verhalten dies erfordert. Soweit Frauen in den Streitkräften unterrepräsentiert sind, können die Vorgaben zum Erscheinungsbild von Soldatinnen, insbesondere zur Haartracht und zum Tragen von Schmuck, als eine zulässige Maßnahme zur Förderung von Frauen in der Bundeswehr von den Vorgaben für Soldaten abweichend geregelt werden. Religiös oder weltanschaulich konnotierte Merkmale des Erscheinungsbilds nach Satz 2 können nur dann eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind, das Vertrauen in die Erfüllung der Dienstpflichten zu beeinträchtigen oder wenn zwingende Besonderheiten des soldatischen Dienstes dies erfordern. Die Verhüllung des Gesichts bei der Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug ist zu untersagen, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
+
+(5) Legt ein Soldat sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erneut um einen Sitz im Deutschen Bundestag oder im Europäischen Parlament, so ist die Verleihung eines höheren Dienstgrades nicht zulässig. Satz 1 gilt sinngemäß für Soldaten, die in die gesetzgebende Körperschaft eines Landes gewählt worden sind, und zwar auch für die Zeit zwischen zwei Wahlperioden. Die Verleihung eines höheren Dienstgrades ist auch nicht zulässig, wenn ein Berufssoldat oder Soldat auf Zeit, dessen Rechte und Pflichten auf Grund der §§ 5, 6, 8 und 36 des Abgeordnetengesetzes oder entsprechender Rechtsvorschriften ruhen, einen Dienst nach § 51 Abs. 6 oder § 54 Abs. 4 leistet.
 
 # § 4a – (weggefallen)
 
@@ -1290,7 +1292,9 @@ Der Soldat hat einen Anspruch auf Seelsorge und ungestörte Religionsausübung. 
 
 2. Gewähr dafür bietet, dass er jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes eintritt,
 
-3. die charakterliche, geistige und körperliche Eignung besitzt, die zur Erfüllung seiner Aufgaben als Soldat erforderlich ist.
+3. die charakterliche, geistige und körperliche Eignung besitzt, die zur Erfüllung seiner Aufgaben als Soldat erforderlich ist,
+
+4. keine unveränderlichen Merkmale des Erscheinungsbilds aufweist, die mit den Vorgaben der Rechtsverordnung nach § 4 Absatz 4 nicht vereinbar sind.
 
 (2) Das Bundesministerium der Verteidigung kann in Einzelfällen Ausnahmen von Absatz 1 Nr. 1 zulassen, wenn dafür ein dienstliches Bedürfnis besteht.
 
@@ -1814,7 +1818,7 @@ Zu Dienstleistungen wird nicht herangezogen, wer dienstunfähig ist.
 
 # § 65 – Ausschluss von Dienstleistungen
 
-Von Dienstleistungen ist derjenige ausgeschlossen, gegen den durch ein deutsches Gericht auf die in § 38 Abs. 1 bezeichneten Strafen, Maßregeln oder Nebenfolgen erkannt worden ist.
+Von Dienstleistungen ist derjenige ausgeschlossen, gegen den durch ein deutsches Gericht auf die in § 38 Abs. 1 bezeichneten Strafen, Maßregeln oder Nebenfolgen erkannt worden ist. Gleiches gilt für den, der unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit den Vorgaben der Rechtsverordnung nach § 4 Absatz 4 nicht vereinbar sind.
 
 # § 66 – Befreiung von Dienstleistungen
 
@@ -2186,17 +2190,19 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 1. die Regelung des Vorgesetztenverhältnisses nach § 1 Absatz 3,
 
-2. die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Absatz 7,
+2. die Vorgaben zum Erscheinungsbild der Soldaten nach § 4 Absatz 4,
 
-3. die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
+3. die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Absatz 7,
 
-4. die regelmäßige Arbeitszeit und die Maßnahmen zur Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes bei besonderen Tätigkeiten nach § 30c Absatz 5,
+4. die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
 
-5. die Nichtanwendung des § 30c Absatz 1 bis 3 und 5 nach § 30c Absatz 6,
+5. die regelmäßige Arbeitszeit und die Maßnahmen zur Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes bei besonderen Tätigkeiten nach § 30c Absatz 5,
 
-6. die Anhebung der höchstzulässigen durchschnittlichen wöchentlichen Arbeitszeit nach § 30d Absatz 1 Satz 1 und die Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes nach § 30d Absatz 2,
+6. die Nichtanwendung des § 30c Absatz 1 bis 3 und 5 nach § 30c Absatz 6,
 
-7. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
+7. die Anhebung der höchstzulässigen durchschnittlichen wöchentlichen Arbeitszeit nach § 30d Absatz 1 Satz 1 und die Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes nach § 30d Absatz 2,
+
+8. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
 
 (3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen die Rechtsverordnungen über
 

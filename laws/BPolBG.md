@@ -11,7 +11,7 @@
 
 Auf die Polizeivollzugsbeamten finden die für Bundesbeamte allgemein geltenden Vorschriften Anwendung, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
-# § 3 – Laufbahnen
+# § 3 – Laufbahnen; Verordnungsermächtigung
 
 (1) Für die in § 1 bezeichneten Polizeivollzugsbeamten bestehen folgende Laufbahnen:
 
@@ -37,21 +37,29 @@ b) die Laufbahn des gehobenen Polizeivollzugsdienstes,
 
 c) die Laufbahn des höheren Polizeivollzugsdienstes.
 
-(2) Die Bundesregierung wird ermächtigt, die allgemeinen Vorschriften über die Laufbahnen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu erlassen. Insbesondere soll Folgendes geregelt werden:
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates allgemeine Vorschriften für die Laufbahnen zu erlassen, insbesondere Vorschriften über
 
 1. die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu durchlaufenden Ämter,
 
-2. der Erwerb der Laufbahnbefähigung,
+2. die Festlegung von Altersgrenzen,
 
-3. Altersgrenzen für die Einstellung in einen Vorbereitungsdienst,
+3. den Erwerb der Laufbahnbefähigung,
 
-4. die Voraussetzungen und das Verfahren für den Aufstieg,
+4. die Grundsätze der Fortbildung,
 
-5. die Voraussetzungen für den Laufbahnwechsel,
+5. die Voraussetzungen und das Verfahren für den Aufstieg und
 
-6. Grundsätze der Fortbildung.
+6. die Voraussetzungen für den Laufbahnwechsel.
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die besonderen Vorschriften für die in Absatz 1 Nr. 1 und 2 genannten Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) zu erlassen.
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
+
+1. das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
+
+2. den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte und Dauer,
+
+3. die Prüfung und das Prüfungsverfahren, einschließlich der Prüfungsnoten, sowie
+
+4. die Folgen der Nichtteilnahme an Prüfungen und die Folgen von Ordnungsverstößen.
 
 # § 4 – Polizeidienstunfähigkeit
 
@@ -61,7 +69,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (3) Die Bundesregierung kann jährlich bestimmen, in welchem Umfang für die nach § 44 Abs. 2 bis 5 des Bundesbeamtengesetzes anderweitig zu verwendenden Polizeivollzugsbeamten freie, frei werdende und neu geschaffene Planstellen für Beamte des mittleren, des gehobenen und des höheren Dienstes beim Bund und bei den bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts vorbehalten werden.
 
-# § 5
+# § 5 – Ruhestand wegen Erreichens der Altersgrenze
 
 (1) Polizeivollzugsbeamte auf Lebenszeit treten mit dem Ende des Monats in den Ruhestand, in dem sie das 62. Lebensjahr vollenden.
 

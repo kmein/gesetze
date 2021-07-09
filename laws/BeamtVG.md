@@ -595,6 +595,10 @@ Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtl
 
 Befristete Ausnahme für Verwendungseinkommen
 
+§  107e
+
+Sonderregelungen zur Bewältigung der COVID-19-Pandemie
+
 §  108
 
 Anwendungsbereich in den Ländern
@@ -1603,7 +1607,7 @@ Die Verminderung darf den Betrag, der sich aus dem hälftigen Prozentsatz nach �
 
 8. Bezüge nach den §§ 52 bis 56 des Bundesbesoldungsgesetzes, wenn ein Versorgungsberechtigter auf Grund seiner Verwendung außerhalb des Geltungsbereiches des Grundgesetzes ein Einkommen nach Absatz 8 bezieht.
 
-Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Erwerbseinkommen wird in den Monaten des Zusammentreffens mit Versorgungsbezügen mit einem Zwölftel des im Kalenderjahr erzielten Einkommens angerechnet. Erwerbsersatzeinkommen werden im Zuflussmonat angerechnet.
+Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Erwerbs- und Erwerbsersatzeinkommen werden in den Monaten des Zusammentreffens mit Versorgungsbezügen mit einem Zwölftel des im Kalenderjahr erzielten Einkommens angerechnet.
 
 (8) Nach Ablauf des Monats, in dem der Versorgungsberechtigte die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht, gelten die Absätze 1 bis 7 nur für Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst (Verwendungseinkommen). Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände; ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht gleich die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen zutreffen, entscheidet auf Antrag der zuständigen Stelle oder des Versorgungsberechtigten das Bundesministerium des Innern, für Bau und Heimat.
 
@@ -1843,7 +1847,7 @@ Soweit entsprechende Daten nicht vorliegen, können bei anderen als den in Satz 
 
 # § 63 – Gleichstellungen
 
-Für die Anwendung des dieses Abschnitts gelten
+Für die Anwendung dieses Abschnitts gelten
 
 1. ein Unterhaltsbeitrag nach § 15 als Ruhegehalt,
 
@@ -2155,7 +2159,9 @@ b) der Antrag nach § 6a Absatz 4 Satz 1 bis zum 31. Januar 2022 gestellt werden
 
 Die Zeit einer vor dem 1. Juli 2020 bereits beendeten Verwendung im Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung ist ungeachtet des § 6a ruhegehaltfähig, sofern die für diese Zeit zustehende Alterssicherungsleistung im Sinne des § 6a Absatz 2 bereits vor dem 1. Juli 2020 an den Dienstherrn abgeführt worden ist.
 
-(2) Für am 30. Juni 2020 vorhandene Versorgungsempfänger gilt vorbehaltlich von Satz 2 die bisherige Rechtslage weiter, insbesondere sind § 6 Absatz 3 Nummer 4, § 7 Satz 1 Nummer 1 Buchstabe b, § 55 Absatz 1 Satz 8 und 9, die §§ 56, 69c Absatz 5 sowie § 85 Absatz 6 Satz 2 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung weiter anzuwenden; dabei bleiben § 69 Absatz 1 Nummer 2 Satz 2, Nummer 4 Satz 1, Nummer 6 Satz 1, Absatz 4 Satz 2, § 69a Nummer 3 Satz 2, Nummer 5 Satz 3 und § 69e Absatz 1 Nummer 3 Satz 1 unberührt. Versorgungsempfänger nach Satz 1, deren Ruhensbetrag mittels Höchstgrenzenberechnung nach § 56 Absatz 1 Satz 1 in Verbindung mit Absatz 2 in einer ab dem 1. Oktober 1994 anzuwendenden Fassung bestimmt wird, können einmalig für die Zukunft beantragen, dass ihr Ruhegehalt in Höhe von 1,79375 Prozent der ruhegehaltfähigen Dienstbezüge für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung ruht; der Unterschiedsbetrag nach § 50 Absatz 1 ruht für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung in Höhe von 2,5 Prozent. Bei der Anwendung von Satz 2 ist § 69c Absatz 5 Satz 1 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung vorrangig zu berücksichtigen. Dienstzeiten, die über volle Jahre hinausgehen, sind einzubeziehen; § 14 Absatz 1 Satz 2 und 3 gilt entsprechend. Zeiten ab Beginn des Ruhestandes sind nicht zu berücksichtigen, es sei denn, sie führen zu einer Erhöhung des Ruhegehaltssatzes. Die zuständige Behörde erteilt auf schriftlichen oder elektronischen Antrag Auskunft zur Höhe des Ruhensbetrages nach Satz 2 zu dem nach Satz 7 oder 8 maßgeblichen Zeitpunkt. Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum 1. Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Vor dem Änderungszeitpunkt entstandene Ruhensbeträge bleiben unberührt. Die Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines vor dem 1. Juli 2020 vorhandenen Ruhestandsbeamten.
+(2) Für am 30. Juni 2020 vorhandene Versorgungsempfänger gilt vorbehaltlich von Satz 2 die bisherige Rechtslage weiter, insbesondere sind § 6 Absatz 3 Nummer 4, § 7 Satz 1 Nummer 1 Buchstabe b, § 55 Absatz 1 Satz 8 und 9, die §§ 56, 69c Absatz 5 sowie § 85 Absatz 6 Satz 2 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung weiter anzuwenden; dabei bleiben § 69 Absatz 1 Nummer 2 Satz 2, Nummer 4 Satz 1, Nummer 6 Satz 1, Absatz 4 Satz 2, § 69a Nummer 3 Satz 2, Nummer 5 Satz 3 und § 69e Absatz 1 Nummer 3 Satz 1 unberührt. Versorgungsempfänger nach Satz 1, deren Ruhensbetrag mittels Höchstgrenzenberechnung nach § 56 Absatz 1 Satz 1 in Verbindung mit Absatz 2 in einer zwischen dem 1. Oktober 1994 und dem 30. Juni 2020 anzuwendenden Fassung bestimmt wird, können einmalig für die Zukunft beantragen, dass ihr Ruhegehalt in Höhe von 1,79375 Prozent der ruhegehaltfähigen Dienstbezüge für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung ruht; der Unterschiedsbetrag nach § 50 Absatz 1 ruht für jedes Jahr einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung in Höhe von 2,5 Prozent. Bei der Anwendung von Satz 2 ist § 69c Absatz 5 Satz 1 bis 4 in der bis zum 30. Juni 2020 geltenden Fassung vorrangig zu berücksichtigen. Dienstzeiten, die über volle Jahre hinausgehen, sind einzubeziehen; § 14 Absatz 1 Satz 2 und 3 gilt entsprechend. Zeiten ab Beginn des Ruhestandes sind nicht zu berücksichtigen, es sei denn, sie führen zu einer Erhöhung des Ruhegehaltssatzes. Die zuständige Behörde erteilt auf schriftlichen oder elektronischen Antrag Auskunft zur Höhe des Ruhensbetrages nach Satz 2 zu dem nach Satz 7 oder 8 maßgeblichen Zeitpunkt. Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum 1. Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Vor dem Änderungszeitpunkt entstandene Ruhensbeträge bleiben unberührt. Die Sätze 1 bis 9 gelten entsprechend für künftige Hinterbliebene eines vor dem 1. Juli 2020 vorhandenen Ruhestandsbeamten.
+
+(2a) Versorgungsempfänger nach Absatz 2 Satz 1, bei denen sich der Ruhensbetrag nach § 56 in einer bis zum 30. September 1994 geltenden Fassung bestimmt, können einmalig für die Zukunft beantragen, dass bei der Ermittlung des Ruhensbetrages Zeiten ab Beginn des Ruhestandes nicht zu berücksichtigen sind. Dies gilt nicht, wenn die Zeiten nach Beginn des Ruhestandes zu einer Erhöhung des Ruhegehaltssatzes führen. Absatz 2 Satz 4 und 6 bis 9 gilt entsprechend.
 
 (3) Für am 31. August 2020 vorhandene Ruhestandsbeamte, bei denen eine ruhegehaltfähige Zeit nach § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung berücksichtigt worden ist, ist § 50a auf schriftlichen oder elektronischen Antrag anzuwenden. Dem Antrag ist stattzugeben, wenn am 1. September 2020 das Ruhegehalt ohne Zeiten nach § 85 Absatz 7 Satz 1 in der bis zum 31. August 2020 geltenden Fassung zusammen mit dem Kindererziehungszuschlag nach § 50a Absatz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1 sowie Absatz 5 und 6 dieses Gesetzes das Ruhegehalt übersteigt, das sich unter Berücksichtigung des § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ergibt. Anträge, die innerhalb von drei Monaten ab dem 1. September 2020 gestellt werden, gelten als zum 1. September 2020 gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, tritt die Änderung mit Beginn des Antragsmonats ein. Wurde dem Antrag stattgegeben, ist § 85 Absatz 7 in der bis zum 31. August 2020 geltenden Fassung ab dem Zeitpunkt der Gewährung eines Kindererziehungszuschlags nach § 50a nicht mehr anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für vor dem 1. September 2020 vorhandene Hinterbliebene.
 
@@ -2231,7 +2237,7 @@ Für am 1. Januar 1977 vorhandene Beamte können zum Ausgleich von Härten Zeite
 
 (10) Einem öffentlich-rechtlichen Dienstverhältnis steht ein Beschäftigungsverhältnis im Sinne des § 5 Abs. 1 Nr. 2 und des § 6 Abs. 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch gleich.
 
-(11) Für den nach den Absätzen 1 bis 4 ermittelten Ruhegehaltssatz sowie die in Absatz 6 Satz 2 genannten Prozentsätze gilt § 69e Abs. 4 entsprechend.
+(11) Für den nach den Absätzen 1 bis 4 ermittelten Ruhegehaltssatz gilt § 69e Abs. 4 entsprechend.
 
 (12) Die §§ 12a und 12b sind anzuwenden.
 
@@ -2350,6 +2356,16 @@ Für Ruhestandsbeamte, die ein Verwendungseinkommen aus einer Beschäftigung erz
 2. der Durchführung von migrationsspezifischen Sicherheitsaufgaben im Ausland dient,
 
 beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zum 31. Dezember 2023 120 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Absatz 1. Satz 1 gilt für Beamte, die wegen Dienstunfähigkeit oder nach § 52 des Bundesbeamtengesetzes in den Ruhestand versetzt worden sind, erst nach Ablauf des Monats, in dem sie die Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht haben.
+
+# § 107e – Sonderregelungen zur Bewältigung der COVID-19-Pandemie
+
+(1) Für Ruhestandsbeamte, die ein Erwerbseinkommen aus einer Beschäftigung erzielen, die in unmittelbarem Zusammenhang mit der Bewältigung der Auswirkungen der COVID-19-Pandemie steht, beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zum 31. Dezember 2021 150 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Absatz 1. § 53 Absatz 5 Satz 2 und 3 ist nicht anzuwenden. Die Sätze 1 und 2 gelten nicht für Beamte, die wegen Dienstunfähigkeit oder nach § 52 Absatz 1 oder 2 des Bundesbeamtengesetzes in den Ruhestand versetzt worden sind.
+
+(2) Anspruch auf Waisengeld besteht auch dann, wenn wegen der COVID-19-Pandemie
+
+1. eine Schul- oder Berufsausbildung oder ein freiwilliger Dienst im Sinne des § 61 Absatz 2 Satz 1 Nummer 1 Buchstabe a oder Buchstabe c nicht angetreten werden kann oder
+
+2. die Übergangszeit nach § 61 Absatz 2 Satz 1 Nummer 1 Buchstabe b überschritten wird.
 
 # § 108 – Anwendungsbereich in den Ländern
 

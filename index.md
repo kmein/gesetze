@@ -103,8 +103,8 @@
 - [AgrarAbsFDG](laws/AgrarAbsFDG.md) Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für Agrarerzeugnisse
 - [AgrarAusbStEignV](laws/AgrarAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice
 - [AgrarAusbV](laws/AgrarAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft Agrarservice*)
-- [AgrarMSG](laws/AgrarMSG.md) Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich
 - [AgrarMSV](laws/AgrarMSV.md) Verordnung zur Weiterentwicklung der Marktstruktur im Agrarbereich
+- [AgrarOLkG](laws/AgrarOLkG.md) Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich
 - [AgrarservMeistPrV](laws/AgrarservMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin
 - [AgrarZahlVerpflG](laws/AgrarZahlVerpflG.md) Gesetz zur Regelung der Einhaltung von Anforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
 - [AgrarZahlVerpflV](laws/AgrarZahlVerpflV.md) Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen
@@ -471,6 +471,7 @@
 - [BASIG](laws/BASIG.md) Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
 - [BaslÜbk](laws/BaslÜbk.md) Basler Übereinkommen über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
 - [BaslÜbkG](laws/BaslÜbkG.md) Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
+- [BASPOErmV](laws/BASPOErmV.md) Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung
 - [BAStrlSchG](laws/BAStrlSchG.md) Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
 - [BattG](laws/BattG.md) Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren
 - [BATZV](laws/BATZV.md) Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes
@@ -713,6 +714,7 @@
 - [BewAufnÜbkHaag](laws/BewAufnÜbkHaag.md) Haager Übereinkommen über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 - [BewG](laws/BewG.md) Bewertungsgesetz
 - [BewGÄndG](laws/BewGÄndG.md) Gesetz zur Änderung des Bewertungsgesetzes
+- [BewGAnl27bis33NeufV](laws/BewGAnl27bis33NeufV.md) Verordnung zur Neufassung der Anlagen 27 bis 33 des Bewertungsgesetzes
 - [BewG§122Abs3DV](laws/BewG§122Abs3DV.md) Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes
 - [BewG§39DV 1](laws/BewG§39DV_1.md) Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
 - [BewG§39DV 2](laws/BewG§39DV_2.md) Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
@@ -4675,6 +4677,7 @@
 - [RRG](laws/RRG.md) Gesetz zur weiteren Reform der gesetzlichen Rentenversicherungen und über die Fünfzehnte Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [RRHErl](laws/RRHErl.md) Erlaß über die Ernennung der Beamten und die Beendigung des Beamtenverhältnisses im Geschäftsbereich des Rechnungshofs des Deutschen Reichs
 - [RSAV](laws/RSAV.md) Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen Krankenversicherung
+- [RSFV](laws/RSFV.md) Verordnung über die Geschäftsorganisation des Reisesicherungsfonds und die Voraussetzungen der Erteilung der Erlaubnis
 - [RSG](laws/RSG.md) Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds
 - [RSiedlG](laws/RSiedlG.md) Reichssiedlungsgesetz
 - [RSiedlGABest](laws/RSiedlGABest.md) Ausführungsbestimmungen zum Reichssiedlungsgesetz
@@ -6144,10 +6147,8 @@
 - [WpÜG](laws/WpÜG.md) Wertpapiererwerbs- und Übernahmegesetz
 - [WpÜGAngebV](laws/WpÜGAngebV.md) Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 - [WpÜGAnwendV](laws/WpÜGAnwendV.md) Verordnung über die Anwendbarkeit von Vorschriften betreffend Angebote im Sinne des § 1 Abs. 2 und 3 des Wertpapiererwerbs- und Übernahmegesetzes
-- [WpÜGBeirV](laws/WpÜGBeirV.md) Verordnung über die Zusammensetzung, die Bestellung der Mitglieder und das Verfahren des Beirats bei der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [WpÜGBMV](laws/WpÜGBMV.md) Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes
 - [WpÜGGebV](laws/WpÜGGebV.md) Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz
-- [WpÜGWidV](laws/WpÜGWidV.md) Verordnung über die Zusammensetzung und das Verfahren des Widerspruchsausschusses bei der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [WrackBKostDG](laws/WrackBKostDG.md) Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks
 - [WrackBKostDGAnwBek](laws/WrackBKostDGAnwBek.md) Bekanntmachung über die Anwendbarkeit des Wrackbeseitigungskostendurchsetzungsgesetzes
 - [WRegG](laws/WRegG.md) Gesetz zur Einrichtung und zum Betrieb eines Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen

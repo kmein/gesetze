@@ -1259,7 +1259,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 (+++ § 49 Abs. 2: Zur Anwendung vgl. § 51 Abs. 2 +++)
 
-# § 50 – Postbeschlagnahme
+# § 50 – Postbeschlagnahme und Auskunftsverlangen
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person Postsendungen und Telegramme beschlagnahmen, die sich im Gewahrsam von Personen oder Unternehmen befinden, die geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder daran mitwirken und die an eine Person gerichtet sind,
 
@@ -1273,39 +1273,57 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 und die Abwehr der Gefahr oder Verhütung der Straftaten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
 
-(2) Maßnahmen nach Absatz 1 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung getroffen werden. In diesem Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Soweit diese Anordnung nicht binnen drei Tagen durch das Gericht bestätigt wird, tritt sie außer Kraft, auch wenn sie eine Auslieferung noch nicht zur Folge gehabt hat.
+(2) Unter den Voraussetzungen des Absatzes 1 ist es auch zulässig, von Personen oder Unternehmen, die geschäftsmäßig Postdienste erbringen oder daran mitwirken, Auskunft über Postsendungen zu verlangen, die an eine Person nach Absatz 1 Nummer 1 bis 4 gerichtet sind. Die Auskunft umfasst ausschließlich die aufgrund von Rechtsvorschriften außerhalb dieses Gesetzes erhobenen Daten, sofern sie Folgendes betreffen:
 
-(3) Im Antrag sind anzugeben:
+1. Namen und Anschriften von Absendern, Empfängern und, soweit abweichend, von denjenigen Personen, welche die jeweilige Postsendung eingeliefert oder entgegengenommen haben,
+
+2. Art des in Anspruch genommenen Postdienstes,
+
+3. Maße und Gewicht der jeweiligen Postsendung,
+
+4. die vom Postdienstleister zugeteilte Sendungsnummer der jeweiligen Postsendung sowie, sofern der Empfänger eine Abholstation mit Selbstbedienungs-Schließfächern nutzt, dessen persönliche Postnummer,
+
+5. Zeit- und Ortsangaben zum jeweiligen Postsendungsverlauf sowie
+
+6. zu Zwecken der Erbringung der Postdienstleistung erstellte Bildaufnahmen von der Postsendung.
+
+Auskunft über den Inhalt der Postsendung darf darüber hinaus nur verlangt werden, wenn die Personen oder Unternehmen, die geschäftsmäßig Postdienste erbringen oder daran mitwirken, davon auf rechtmäßige Weise Kenntnis erlangt haben. Auskunft nach den Sätzen 2 und 3 müssen sie auch über solche Postsendungen erteilen, die sich noch nicht oder nicht mehr in ihrem Gewahrsam befinden.
+
+(3) Maßnahmen nach den Absätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung getroffen werden. In diesem Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Soweit diese Anordnung nicht binnen drei Tagen durch das Gericht bestätigt wird, tritt sie außer Kraft, auch wenn sie eine Auslieferung nach Absatz 1 oder eine Auskunftserteilung nach Absatz 2 noch nicht zur Folge gehabt hat.
+
+(4) Im Antrag sind anzugeben:
 
 1. die Person, gegen die sich die Maßnahme richtet, soweit möglich, mit Name und Anschrift,
 
-2. eine möglichst genaue Bezeichnung der Postsendungen, die der Beschlagnahme unterliegen sollen,
+2. eine möglichst genaue Bezeichnung der Postsendungen, die der Beschlagnahme unterliegen sollen, oder zu der die Auskunft erteilt werden soll,
 
-3. Art, Umfang und Dauer der Maßnahme,
+3. Art, Umfang und Dauer der Maßnahme und im Fall eines Auskunftsverlangens die Daten nach Absatz 2 Satz 2, zu denen Auskunft erteilt werden soll,
 
 4. der Sachverhalt sowie
 
 5. eine Begründung.
 
-(4) Die Anordnung ergeht schriftlich. In ihr sind anzugeben:
+(5) Die Anordnung ergeht schriftlich. In ihr sind anzugeben:
 
 1. die Person, gegen die sich die Maßnahme richtet, soweit möglich, mit Name und Anschrift,
 
 2. Dauer der Maßnahme unter Benennung des Endzeitpunktes,
 
-3. eine möglichst genaue Bezeichnung der der Beschlagnahme unterliegenden Postsendungen sowie
+3. eine möglichst genaue Bezeichnung der Postsendung, die der Beschlagnahme unterliegt, oder zu der Auskunft erteilt werden soll,
 
-4. die wesentlichen Gründe.
+4. im Fall des Auskunftsverlangens nach Absatz 2 die Daten nach Absatz 2 Satz 2, zu der die Auskunft zu erteilen ist, sowie
+
+5. die wesentlichen Gründe.
 
 Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei weitere Monate ist zulässig, soweit die Voraussetzungen der Anordnung unter Berücksichtigung der gewonnenen Erkenntnisse fortbestehen. Liegen die Voraussetzungen der Anordnung nicht mehr vor, ist die Maßnahme unverzüglich zu beenden.
 
-(5) Die Öffnung der ausgelieferten Postsendung und die Entscheidung über die Verwertbarkeit der erlangten Erkenntnisse stehen dem Gericht zu. Es kann die Befugnis zur Öffnung sowie die Entscheidung über die Verwertbarkeit auf die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder auf ihre oder seine Vertretung übertragen, soweit dies erforderlich ist, um die Abwehr der Gefahr nicht durch Verzögerung zu gefährden. In diesen Fällen hat die Entscheidung über die Verwertbarkeit im Benehmen mit der oder dem Datenschutzbeauftragten des Bundeskriminalamtes zu erfolgen. Die gerichtliche Entscheidung nach Satz 1 ist unverzüglich nachzuholen. Die Übertragung kann jederzeit widerrufen werden.
+(6) Die Öffnung der ausgelieferten Postsendung und die Entscheidung über die Verwertbarkeit der erlangten Erkenntnisse stehen dem Gericht zu. Es kann die Befugnis zur Öffnung sowie die Entscheidung über die Verwertbarkeit auf die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder auf ihre oder seine Vertretung übertragen, soweit dies erforderlich ist, um die Abwehr der Gefahr nicht durch Verzögerung zu gefährden. In diesen Fällen hat die Entscheidung über die Verwertbarkeit im Benehmen mit der oder dem Datenschutzbeauftragten des Bundeskriminalamtes zu erfolgen. Die gerichtliche Entscheidung nach Satz 1 ist unverzüglich nachzuholen. Die Übertragung kann jederzeit widerrufen werden.
 
-(6) Ist eine Übertragung nach Absatz 5 nicht erfolgt, legt das Bundeskriminalamt die ausgelieferten Postsendungen unverzüglich und, soweit sie verschlossen sind, ungeöffnet dem Gericht vor. Das Gericht entscheidet unverzüglich über die Öffnung.
+(7) Ist eine Übertragung nach Absatz 6 nicht erfolgt, legt das Bundeskriminalamt die ausgelieferten Postsendungen unverzüglich und, soweit sie verschlossen sind, ungeöffnet dem Gericht vor. Das Gericht entscheidet unverzüglich über die Öffnung.
 
-(7) § 100 Absatz 5 und 6 der Strafprozessordnung gilt entsprechend.
+(8) § 100 Absatz 5 und 6 der Strafprozessordnung gilt entsprechend.
 
-(8) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch die Maßnahme allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung dürfen nicht verwertet werden.
+(9) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch die Maßnahme allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung dürfen nicht verwertet werden.
 
 # § 51 – Überwachung der Telekommunikation
 

@@ -1441,7 +1441,7 @@ c) die Person nach Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit Absa
 
 4. über das Ergebnis der durchgeführten Maßnahme.
 
-(7) In Fällen der Absätze 1, 2 und 4 gilt § 2 des Artikel 10-Gesetzes entsprechend.
+(7) In Fällen der Absätze 1, 2 und 4 gilt § 2 des Artikel 10-Gesetzes mit Ausnahme des Absatzes 1a Satz 1 Nummer 3, soweit die Verpflichtung zur Zugangsgewährung betroffen ist, und mit Ausnahme des Absatzes 1a Satz 1 Nummer 4 entsprechend.
 
 # § 73 – Kernbereich privater Lebensgestaltung
 
@@ -1597,7 +1597,7 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 (3) § 74 gilt entsprechend mit der Maßgabe, dass sich die Maßnahme nur gegen Personen im Sinne des § 72 Absatz 1, 2 oder Absatz 4 richten darf. Abweichend von § 74 Absatz 3 Nummer 2 und Absatz 5 Satz 2 Nummer 2 genügt eine räumlich und zeitlich hinreichend bestimmte Bezeichnung der Telekommunikation, wenn die Erreichung des Zwecks der Maßnahme auf andere Weise aussichtslos oder wesentlich erschwert wäre.
 
-(4) § 2 Absatz 1 Satz 3 und 5 des Artikel 10-Gesetzes, § 75 Absatz 3 bis 5 sowie § 76 gelten entsprechend.
+(4) § 2 Absatz 1a Satz 1 Nummer 1 und Satz 2 des Artikel 10-Gesetzes, § 75 Absatz 3 bis 5 sowie § 76 gelten entsprechend.
 
 # § 78 – Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten
 
@@ -1969,11 +1969,13 @@ eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig er
 
 3. einer vollziehbaren Anordnung nach
 
-a) § 72 Absatz 7 in Verbindung mit § 2 Absatz 1 Satz 1 des Artikel 10-Gesetzes,
+a) § 72 Absatz 7 in Verbindung mit § 2 Absatz 1 Satz 1 oder Absatz 1a Satz 1 Nummer 2 des Artikel 10-Gesetzes,
 
-b) § 72 Absatz 7 oder § 77 Absatz 4, jeweils in Verbindung mit § 2 Absatz 1 Satz 3 des Artikel 10-Gesetzes, oder
+b) § 72 Absatz 7 in Verbindung mit § 2 Absatz 1a Satz 1 Nummer 3 über das Ermöglichen der Überwachung oder Aufzeichnung der Telekommunikation,
 
-c) § 78 Absatz 4
+c) § 72 Absatz 7 oder § 77 Absatz 4, jeweils in Verbindung mit § 2 Absatz 1a Satz 1 Nummer 1 des Artikel 10-Gesetzes,, oder
+
+d) § 78 Absatz 4
 
 zuwiderhandelt,
 

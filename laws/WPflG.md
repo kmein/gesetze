@@ -516,7 +516,9 @@ Vom Wehrdienst ist ausgeschlossen,
 
 2. wer infolge Richterspruchs die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt,
 
-3. wer einer Maßregel der Besserung und Sicherung nach den §§ 64, 66, 66a oder 66b des Strafgesetzbuches unterworfen ist, solange die Maßregel nicht erledigt ist.
+3. wer einer Maßregel der Besserung und Sicherung nach den §§ 64, 66, 66a oder 66b des Strafgesetzbuches unterworfen ist, solange die Maßregel nicht erledigt ist,
+
+4. wer unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit den Vorgaben der Rechtsverordnung nach § 4 Absatz 4 des Soldatengesetzes nicht vereinbar sind.
 
 # § 11 – Befreiung vom Wehrdienst
 

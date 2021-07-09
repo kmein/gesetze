@@ -157,6 +157,6 @@ Daten im Sinne des Satzes 2 Nummern 1 und 2 dürfen mit Einwilligung des Nutzers
 
 # § 10 – (bedingt zukünftig Inkraft)
 
-# § 11 – Übergangsregelung zum Einsatz des Datencockpits
+# § 11 – Übergangsregelung zum Einsatz des Datenschutzcockpits
 
-Bis zum Inkrafttreten des § 10 darf ein Datencockpit mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat in Pilotverfahren angewendet werden, in denen der Nutzer einen Antrag auf eine oder mehrere Verwaltungsleistungen stellt und dabei einwilligt, dass erforderliche Nachweise durch einen automatisierten Datenaustausch beigebracht werden.
+Bis zum Inkrafttreten des § 10 darf ein Datenschutzcockpit mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat in Pilotverfahren angewendet werden, in denen der Nutzer einen Antrag auf eine oder mehrere Verwaltungsleistungen stellt und dabei einwilligt, dass erforderliche Nachweise durch einen automatisierten Datenaustausch beigebracht werden.
