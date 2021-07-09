@@ -4111,7 +4111,7 @@ i) Näheres zur Seriennummer und zur maschinenlesbaren Personaldatenseite,
 
 j) die Pflichten von Ausländern, die sich im Bundesgebiet aufhalten, hinsichtlich der Ausstellung, Neubeantragung und Verlängerung, des Verlustes und Wiederauffindens sowie der Vorlage und Abgabe von Dokumenten nach § 78.
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des Prüfverfahrens entsprechend § 34 Nummer 4 des Personalausweisgesetzes und Einzelheiten zum elektronischen Identitätsnachweis entsprechend § 34 Nummer 5 bis 7 des Personalausweisgesetzes festzulegen.
+Das Bundesministerium des Innern, für Bau und Heimat wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des Prüfverfahrens entsprechend § 34 Satz 1 Nummer 4 des Personalausweisgesetzes und Einzelheiten zum elektronischen Identitätsnachweis entsprechend § 34 Satz 1 Nummer 5 bis 8a und Satz 3 des Personalausweisgesetzes festzulegen.
 
 14. zu bestimmen, dass die
 

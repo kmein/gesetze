@@ -53,9 +53,15 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (1) Die Präsidentin oder der Präsident führt die Geschäfte der Bundesanstalt in eigener Verantwortung nach Maßgabe dieses Gesetzes und der Satzung. Sie oder er vollzieht die Beschlüsse des Verwaltungsrats und vertritt die Bundesanstalt gerichtlich und außergerichtlich.
 
-(2) Die Präsidentin oder der Präsident wird für die Dauer von fünf Jahren zur Beamtin auf Zeit oder zum Beamten auf Zeit ernannt. Wiederholte Ernennungen sind möglich.
+(2) Die Präsidentin oder der Präsident wird für die Dauer von fünf Jahren zur Bundesbeamtin auf Zeit oder zum Bundesbeamten auf Zeit ernannt. Wiederholte Ernennungen sind möglich. Die Präsidentin oder der Präsident tritt mit Erreichen der Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes in den Ruhestand.
 
-(3) Die Präsidentin oder der Präsident hat eine ständige Vertreterin (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident).
+(3) Ist eine Bundesbeamtin oder ein Bundesbeamter auf Lebenszeit oder eine Bundesrichterin oder ein Bundesrichter auf Lebenszeit zur Präsidentin oder zum Präsidenten ernannt worden, ruhen für die Dauer der Amtszeit die Rechte und Pflichten aus dem zuletzt im Beamten- oder Richterverhältnis auf Lebenszeit übertragenen Amt. Satz 1 gilt weder für die Pflicht zur Verschwiegenheit noch für das Verbot, Belohnungen, Geschenke und sonstige Vorteile anzunehmen.
+
+(4) Ist eine Landesbeamtin oder ein Landesbeamter auf Lebenszeit oder eine Landesrichterin oder ein Landesrichter auf Lebenszeit zur Präsidentin oder zum Präsidenten ernannt worden, ist § 15a Absatz 4 des Beamtenversorgungsgesetzes entsprechend anzuwenden, wenn im Beamtenverhältnis auf Zeit die Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreicht wird.
+
+(5) Ist die Präsidentin oder der Präsident nicht aus einem Beamten- oder Richterverhältnis auf Lebenszeit ernannt worden, ist § 66 Absatz 1 des Beamtenversorgungsgesetzes mit der Maßgabe anzuwenden, dass ein Anspruch auf Ruhegehalt aus dem Beamtenverhältnis auf Zeit mit Ablauf des Monats der Vollendung der für Bundesbeamtinnen und Bundesbeamte geltenden Regelaltersgrenze (§ 51 Absatz 1 Satz 2 des Bundesbeamtengesetzes) entsteht.
+
+(6) Die Präsidentin oder der Präsident hat eine ständige Vertreterin (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident).
 
 # § 5 – Verwaltungsrat
 
