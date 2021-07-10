@@ -725,6 +725,8 @@ d) über die Form und die Einzelheiten für das Verfahren der Übermittlung säm
 
 8. die Einzelheiten zur Nutzung des elektronischen Identitätsnachweises und des Vor-Ort-Auslesens zu regeln,
 
+8a. die Einzelheiten zur Einrichtung und zur Nutzung des elektronischen Identitätsnachweises mit einem mobilen Endgerät, sowie zu den technischen Anforderungen an mobile Endgeräte nach § 2 Absatz 13 zu regeln,
+
 9. die Einzelheiten
 
 a) der Geheimnummer, einschließlich des Verfahrens des Neusetzens der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag,
@@ -741,7 +743,7 @@ festzulegen,
 
 12. die Einzelheiten zur Durchführung von automatisierten Abrufen nach § 25 sowie zur Form und zum Inhalt der zu übermittelnden Daten zu regeln.
 
-Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Energie.
+Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Energie. In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
 
 # § 35 – Übergangsvorschrift
 

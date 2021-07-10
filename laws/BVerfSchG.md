@@ -59,7 +59,7 @@ b) Bestrebungen gegen die Sicherheit des Bundes oder eines Landes solche politis
 
 c) Bestrebungen gegen die freiheitliche demokratische Grundordnung solche politisch bestimmten, ziel- und zweckgerichteten Verhaltensweisen in einem oder für einen Personenzusammenschluß, der darauf gerichtet ist, einen der in Absatz 2 genannten Verfassungsgrundsätze zu beseitigen oder außer Geltung zu setzen.
 
-Für einen Personenzusammenschluß handelt, wer ihn in seinen Bestrebungen nachdrücklich unterstützt. Voraussetzung für die Sammlung und Auswertung von Informationen im Sinne des § 3 Abs. 1 ist das Vorliegen tatsächlicher Anhaltspunkte. Verhaltensweisen von Einzelpersonen, die nicht in einem oder für einen Personenzusammenschluß handeln, sind Bestrebungen im Sinne dieses Gesetzes, wenn sie auf Anwendung von Gewalt gerichtet sind oder aufgrund ihrer Wirkungsweise geeignet sind, ein Schutzgut dieses Gesetzes erheblich zu beschädigen.
+Für einen Personenzusammenschluß handelt, wer ihn in seinen Bestrebungen nachdrücklich unterstützt. Bestrebungen im Sinne des § 3 Absatz 1 können auch von Einzelpersonen ausgehen, die nicht in einem oder für einen Personenzusammenschluss handeln. In diesem Fall gilt Satz 1 mit der Maßgabe, dass die Verhaltensweise der Einzelperson darauf gerichtet sein muss, die dort genannten Ziele zu verwirklichen. Voraussetzung für die Sammlung und Auswertung von Informationen im Sinne des § 3 Abs. 1 ist das Vorliegen tatsächlicher Anhaltspunkte.
 
 (2) Zur freiheitlichen demokratischen Grundordnung im Sinne dieses Gesetzes zählen:
 
@@ -129,7 +129,7 @@ ein.
 
 (1) Die Landesbehörden für Verfassungsschutz und das Bundesamt für Verfassungsschutz übermitteln sich unverzüglich die für ihre Aufgaben relevanten Informationen, einschließlich der Erkenntnisse ihrer Auswertungen. Wenn eine übermittelnde Behörde sich dies vorbehält, dürfen die übermittelten Daten nur mit ihrer Zustimmung an Stellen außerhalb der Behörden für Verfassungsschutz übermittelt werden.
 
-(2) Die Verfassungsschutzbehörden sind verpflichtet, beim Bundesamt für Verfassungsschutz zur Erfüllung der Unterrichtungspflichten nach Absatz 1 gemeinsame Dateien zu führen, die sie im automatisierten Verfahren nutzen. Die Speicherung personenbezogener Daten ist nur unter den Voraussetzungen der §§ 10 und 11 zulässig. Der Abruf im automatisierten Verfahren durch andere Stellen ist nicht zulässig; § 3 Absatz 3 Satz 2 des MAD-Gesetzes bleibt unberührt. Die Verantwortung einer speichernden Stelle im Sinne der allgemeinen Vorschriften des Datenschutzrechts trägt jede Verfassungsschutzbehörde nur für die von ihr eingegebenen Daten; nur sie darf diese Daten verändern, die Verarbeitung einschränken oder löschen. Die eingebende Stelle muss feststellbar sein. Eine Abfrage von Daten ist nur zulässig, soweit dies zur Erfüllung von Aufgaben, mit denen der Abfragende unmittelbar betraut ist, erforderlich ist. Die Zugriffsberechtigung auf Daten, die nicht zum Auffinden von Akten und der dazu notwendigen Identifizierung von Personen erforderlich sind, ist auf Personen zu beschränken, die mit der Erfassung von Daten oder Analysen betraut sind. Die Zugriffsberechtigung auf Unterlagen, die gespeicherte Angaben belegen, ist zudem auf Personen zu beschränken, die unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind.
+(2) Die Verfassungsschutzbehörden verarbeiten zur Erfüllung ihrer Unterrichtungspflichten nach Absatz 1 Informationen im gemeinsamen nachrichtendienstlichen Informationssystem. Der Militärische Abschirmdienst kann zur Erfüllung der Unterrichtungspflichten nach § 3 Absatz 3 Satz 1 des MAD-Gesetzes am nachrichtendienstlichen Informationssystem teilnehmen. Der Abruf von Daten aus dem nachrichtendienstlichen Informationssystem im automatisierten Verfahren ist im Übrigen nur entsprechend den §§ 22a und 22b zulässig. Für die Verarbeitung personenbezogener Daten im nachrichtendienstlichen Informationssystem gelten die §§ 10 und 11. Die Verantwortung einer speichernden Stelle im Sinne der allgemeinen Vorschriften des Datenschutzrechts trägt jede Verfassungsschutzbehörde nur für die von ihr eingegebenen Daten; nur sie darf diese Daten verändern, die Verarbeitung einschränken oder löschen. Die eingebende Stelle muss feststellbar sein. Eine Abfrage von Daten ist nur zulässig, soweit dies zur Erfüllung von Aufgaben, mit denen der Abfragende unmittelbar betraut ist, erforderlich ist. Die Zugriffsberechtigung auf Daten, die nicht zum Auffinden von Akten und der dazu notwendigen Identifizierung von Personen erforderlich sind, ist auf Personen zu beschränken, die mit der Erfassung von Daten oder Analysen betraut sind. Die Zugriffsberechtigung auf Unterlagen, die gespeicherte Angaben belegen, ist zudem auf Personen zu beschränken, die unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind.
 
 (3) Das Bundesamt für Verfassungsschutz trifft für die gemeinsamen Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. Es hat bei jedem Zugriff für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung der abgefragten Datensätze ermöglichen, sowie die abfragende Stelle zu protokollieren. Die Auswertung der Protokolldaten ist nach dem Stand der Technik zu gewährleisten. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
 
@@ -191,7 +191,13 @@ a) bei Auskünften nach Absatz 1 Satz 1 Nummer 1, 2 und 5 sowie nach Absatz 2, d
 
 b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach Nummer 1 bestimmte oder von ihr herrührende Mitteilungen entgegennehmen oder weitergeben, oder dass eine Person nach Nummer 1 ihren Anschluss benutzt.
 
-(4) bis (9) (weggefallen)
+(4) Auskunft nach den Absätzen 1 und 2 darf bei Unternehmen eingeholt werden, die in Deutschland
+
+1. eine Niederlassung haben oder
+
+2. Leistungen erbringen oder hieran nach Absatz 2 Satz 1 Nummer 4 oder Nummer 5 mitwirken.
+
+(5) bis (9) (weggefallen)
 
 (+++ Änderung durch Art. 7 Abs. 22 G v. 12.5.2021 I 990 wurde aufgrund offensichtlich unrichtiger Bezeichnung des Änderungsbefehls in § 8a Abs. 1 Satz 1 Nr. 2 ausgeführt +++)
 
@@ -209,7 +215,7 @@ b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach
 
 (6) Die in § 8a Absatz 1 Satz 1 genannten Stellen sind verpflichtet, die Auskunft unverzüglich und vollständig und in dem Format zu erteilen, das durch die auf Grund von Absatz 8 Satz 1 bis 3 erlassene Rechtsverordnung oder in den in Absatz 8 Satz 4 und 5 bezeichneten Rechtsvorschriften vorgeschrieben ist.
 
-(7) Für Anordnungen nach § 8a findet § 12 Absatz 1 des Artikel 10-Gesetzes entsprechende Anwendung, mit der Maßgabe, dass § 12 Absatz 1 Satz 5 des Artikel 10-Gesetzes nur für Maßnahmen nach § 8a Absatz 1 und 2 Satz 1 Nummer 4 und 5 Anwendung findet. Wurden personenbezogene Daten an eine andere Stelle übermittelt, erfolgt die Mitteilung im Benehmen mit dieser.
+(7) Für Anordnungen nach § 8a findet § 12 Absatz 1 des Artikel 10-Gesetzes entsprechende Anwendung, mit der Maßgabe, dass § 12 Absatz 1 Satz 5 des Artikel 10-Gesetzes nur für Maßnahmen nach § 8a Absatz 1 Satz 1 Nummer 4 und 5 Anwendung findet. Wurden personenbezogene Daten an eine andere Stelle übermittelt, erfolgt die Mitteilung im Benehmen mit dieser.
 
 (8) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Verteidigung ohne Zustimmung des Bundesrates zu bestimmen, dass Auskünfte nach § 8a Absatz 1 mit Ausnahme der Auskünfte nach § 8a Absatz 1 Satz 1 Nummer 4, auch soweit andere Vorschriften hierauf verweisen, ganz oder teilweise auf maschinell verwertbaren Datenträgern oder durch Datenfernübertragung übermittelt werden müssen. Dabei können insbesondere geregelt werden
 
@@ -231,9 +237,7 @@ Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentl
 
 (10) Die Befugnisse nach § 8a Absatz 1 Satz 1 Nummer 4 und 5 stehen den Verfassungsschutzbehörden der Länder nur dann zu, wenn das Verfahren sowie die Beteiligung der G 10-Kommission, die Verarbeitung der erhobenen Daten und die Mitteilung an den Betroffenen gleichwertig wie in Absatz 2 und ferner eine Absatz 3 gleichwertige parlamentarische Kontrolle sowie eine Verpflichtung zur Berichterstattung über die durchgeführten Maßnahmen an das Parlamentarische Kontrollgremium des Bundes unter entsprechender Anwendung des Absatzes 3 Satz 1 zweiter Halbsatz für dessen Berichte nach Absatz 3 Satz 2 durch den Landesgesetzgeber geregelt ist. Die Verpflichtungen zur gleichwertigen parlamentarischen Kontrolle nach Absatz 3 gelten auch für die Befugnisse nach § 8a Absatz 1 Satz 1 Nummer 1 und 2. Landesrecht kann für Auskünfte an die jeweilige Verfassungsschutzbehörde des Landes Regelungen vorsehen, die dem Absatz 5 entsprechen, und die auf Grund von Absatz 8 Satz 1 bis 3 erlassene Rechtsverordnung sowie die Vorgaben nach Absatz 8 Satz 4 und 5 für solche Auskünfte für anwendbar erklären.
 
-# § 8c – Einschränkungen eines Grundrechts
-
-Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird nach Maßgabe des § 8a Absatz 1 Satz 1 Nummer 4 und 5 und Absatz 3 sowie des § 8b Absatz 1, 2, 4 bis 8 und 10 eingeschränkt.
+# § 8c – (weggefallen)
 
 # § 8d – Besondere Auskunftsverlangen zu Bestandsdaten
 
@@ -271,7 +275,7 @@ Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 
 Die Erhebung nach Satz 1 ist unzulässig, wenn die Erforschung des Sachverhalts auf andere, den Betroffenen weniger beeinträchtigende Weise möglich ist; eine geringere Beeinträchtigung ist in der Regel anzunehmen, wenn die Information aus allgemein zugänglichen Quellen oder durch eine Auskunft nach § 18 Abs. 3 gewonnen werden kann. Die Anwendung eines Mittels gemäß § 8 Abs. 2 darf nicht erkennbar außer Verhältnis zur Bedeutung des aufzuklärenden Sachverhaltes stehen. Die Maßnahme ist unverzüglich zu beenden, wenn ihr Zweck erreicht ist oder sich Anhaltspunkte dafür ergeben, daß er nicht oder nicht auf diese Weise erreicht werden kann.
 
-(2) Das in einer Wohnung nicht öffentlich gesprochene Wort darf mit technischen Mitteln nur heimlich mitgehört oder aufgezeichnet werden, wenn es im Einzelfall zur Abwehr einer gegenwärtigen gemeinen Gefahr oder einer gegenwärtigen Lebensgefahr für einzelne Personen unerläßlich ist und geeignete polizeiliche Hilfe für das bedrohte Rechtsgut nicht rechtzeitig erlangt werden kann. Satz 1 gilt entsprechend für einen verdeckten Einsatz technischer Mittel zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen. Maßnahmen nach den Sätzen 1 und 2 werden durch den Präsidenten des Bundesamtes für Verfassungsschutz oder seinen Vertreter angeordnet, wenn eine richterliche Entscheidung nicht rechtzeitig herbeigeführt werden kann. Die richterliche Entscheidung ist unverzüglich nachzuholen. Zuständig ist das Amtsgericht, in dessen Bezirk das Bundesamt für Verfassungsschutz seinen Sitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Die erhobenen Informationen dürfen nur nach Maßgabe des § 4 Abs. 4 des Artikel 10-Gesetzes verwendet werden. § 4 Abs. 6 des Artikel 10-Gesetzes gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+(2) Das in einer Wohnung nicht öffentlich gesprochene Wort darf mit technischen Mitteln nur heimlich mitgehört oder aufgezeichnet werden, wenn es im Einzelfall zur Abwehr einer gegenwärtigen gemeinen Gefahr oder einer gegenwärtigen Lebensgefahr für einzelne Personen unerläßlich ist und geeignete polizeiliche Hilfe für das bedrohte Rechtsgut nicht rechtzeitig erlangt werden kann. Satz 1 gilt entsprechend für einen verdeckten Einsatz technischer Mittel zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen. Maßnahmen nach den Sätzen 1 und 2 werden durch den Präsidenten des Bundesamtes für Verfassungsschutz oder seinen Vertreter angeordnet, wenn eine richterliche Entscheidung nicht rechtzeitig herbeigeführt werden kann. Die richterliche Entscheidung ist unverzüglich nachzuholen. Zuständig ist das Amtsgericht, in dessen Bezirk das Bundesamt für Verfassungsschutz seinen Sitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Die erhobenen Informationen dürfen nur nach Maßgabe des § 4 Abs. 4 des Artikel 10-Gesetzes verwendet werden. § 4 Abs. 6 des Artikel 10-Gesetzes gilt entsprechend.
 
 (3) Bei Erhebungen nach Absatz 2 und solchen nach Absatz 1, die in ihrer Art und Schwere einer Beschränkung des Brief-, Post- und Fernmeldegeheimnisses gleichkommen, wozu insbesondere das Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes mit dem verdeckten Einsatz technischer Mittel gehören, ist
 
@@ -359,7 +363,7 @@ Der Behördenleiter kann eine Ausnahme von Nummer 5 zulassen, wenn die Verurteil
 
 (3) Eine Akte ist zu vernichten, wenn sie insgesamt zur Erfüllung der Aufgaben des Bundesamtes für Verfassungsschutz nicht oder nicht mehr erforderlich ist. Die Erforderlichkeit ist bei der Einzelfallbearbeitung und nach festgesetzten Fristen, spätestens nach fünf Jahren, zu prüfen. Für die Vernichtung einer Akte, die zu einer Person im Sinne des § 10 Absatz 1 Nummer 1 geführt wird, gilt § 12 Absatz 3 Satz 2 entsprechend. Eine Vernichtung unterbleibt, wenn Grund zu der Annahme besteht, dass durch sie schutzwürdige Interessen des Betroffenen beeinträchtigt würden. In diesem Fall ist die Verarbeitung der in der Akte gespeicherten personenbezogenen Daten einzuschränken und mit einem entsprechenden Vermerk zu versehen. Sie dürfen nur für die Interessen nach Satz 4 verarbeitet werden oder wenn es zur Abwehr einer erheblichen Gefahr unerlässlich ist. Eine Vernichtung der Akte erfolgt nicht, wenn sie nach den Vorschriften des Bundesarchivgesetzes dem Bundesarchiv zur Übernahme anzubieten und zu übergeben ist.
 
-(4) Akten oder Auszüge aus Akten dürfen auch in elektronischer Form geführt werden. Insoweit kommen die Regelungen über die Verwendung und Berichtigung personenbezogener Daten in Akten zur Anwendung. Eine Abfrage personenbezogener Daten ist insoweit nur zulässig, wenn die Voraussetzungen des § 10 Absatz 1 Nummer 1 und 2 oder § 11 Absatz 1 Satz 3 vorliegen. Der automatisierte Abgleich dieser personenbezogenen Daten ist nur beschränkt auf Akten eng umgrenzter Anwendungsgebiete zulässig. Bei jeder Abfrage sind für Zwecke der Datenschutzkontrolle der Zeitpunkt, die Angaben, die die Feststellung der abgefragten Daten ermöglichen, sowie Angaben zur Feststellung des Abfragenden zu protokollieren. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
+(4) Akten oder Auszüge aus Akten dürfen auch in elektronischer Form geführt werden. Insoweit kommen die Regelungen über die Verwendung und Berichtigung personenbezogener Daten in Akten zur Anwendung. Eine Abfrage personenbezogener Daten ist insoweit nur zulässig, wenn die Voraussetzungen des § 10 Absatz 1 Nummer 1 oder Nummer 2 vorliegen und die Person das 14. Lebensjahr vollendet hat. Der automatisierte Abgleich dieser personenbezogenen Daten ist nur beschränkt auf Akten eng umgrenzter Anwendungsgebiete zulässig. Bei jeder Abfrage sind für Zwecke der Datenschutzkontrolle der Zeitpunkt, die Angaben, die die Feststellung der abgefragten Daten ermöglichen, sowie Angaben zur Feststellung des Abfragenden zu protokollieren. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
 
 # § 14 – Dateianordnungen
 
@@ -491,7 +495,7 @@ Für die Übermittlung von Informationen einschließlich personenbezogener Daten
 
 (2) Für die Eingabe personenbezogener Daten in die gemeinsame Datei gelten die jeweiligen Übermittlungsvorschriften zugunsten der an der Zusammenarbeit beteiligten Behörden entsprechend mit der Maßgabe, dass die Eingabe nur zulässig ist, wenn die Daten allen an der projektbezogenen Zusammenarbeit teilnehmenden Behörden übermittelt werden dürfen. Eine Eingabe ist ferner nur zulässig, wenn die Behörde, die die Daten eingegeben hat, die Daten auch in eigene Dateien speichern darf. Die Behörde, die die Daten eingegeben hat, hat die Daten zu kennzeichnen.
 
-(3) Für die Führung einer projektbezogenen gemeinsamen Datei gelten § 6 Absatz 2 Satz 4 und 5 und Absatz 3 Satz 1 und § 14 Abs. 2 entsprechend. § 15 ist mit der Maßgabe anzuwenden, dass das Bundesamt für Verfassungsschutz die Auskunft im Einvernehmen mit der Behörde erteilt, die die datenschutzrechtliche Verantwortung nach Satz 1 trägt und die beteiligte Behörde die Zulässigkeit der Auskunftserteilung nach den für sie geltenden Bestimmungen prüft.
+(3) Für die Führung einer projektbezogenen gemeinsamen Datei gelten § 6 Absatz 2 Satz 5 und 6 und Absatz 3 Satz 1 und § 14 Abs. 2 entsprechend. § 15 ist mit der Maßgabe anzuwenden, dass das Bundesamt für Verfassungsschutz die Auskunft im Einvernehmen mit der Behörde erteilt, die die datenschutzrechtliche Verantwortung nach Satz 1 trägt und die beteiligte Behörde die Zulässigkeit der Auskunftserteilung nach den für sie geltenden Bestimmungen prüft.
 
 (4) Die gemeinsame Datei nach Absatz 1 ist auf höchstens zwei Jahre zu befristen. Die Frist kann um zwei Jahre und danach um ein weiteres Jahr verlängert werden, wenn das Ziel der projektbezogenen Zusammenarbeit bei Projektende noch nicht erreicht worden ist und die Datei weiterhin für die Erreichung des Ziels erforderlich ist.
 
@@ -517,7 +521,7 @@ Für die Übermittlung von Informationen einschließlich personenbezogener Daten
 
 9. die Zuständigkeit des Bundesamtes für Verfassungsschutz für Schadensersatzansprüche des Betroffenen entsprechend § 83 des Bundesdatenschutzgesetzes.
 
-Die Dateianordnung bedarf der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat sowie der für die Fachaufsicht über die beteiligten Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 6 gilt entsprechend.
+Die Dateianordnung bedarf der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat sowie der für die Fachaufsicht über die beteiligten Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 7 gilt entsprechend.
 
 # § 22b – Errichtung gemeinsamer Dateien mit ausländischen Nachrichtendiensten
 
@@ -553,9 +557,9 @@ b) Auskunft über die Verwendung der Daten zu geben, die vom Auskunft erbittende
 
 § 14 gilt mit der Maßgabe, dass die Festlegungen auf das Bundesamt für Verfassungsschutz beschränkt sind und der Dateianordnung die Festlegung nach Satz 1 als Anlage beizufügen ist.
 
-(6) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten in der gemeinsamen Datei entsprechend § 10 Absatz 1 und 3, § 11 Absatz 1 eingeben, wenn es die Daten allen teilnehmenden ausländischen Nachrichtendiensten übermitteln darf. Für die vom Bundesamt für Verfassungsschutz eingegebenen Daten gelten für die Veränderung und Nutzung § 10 Absatz 1 und § 11 Absatz 1 und für die Überprüfung, Berichtigung, Löschung und Sperrung § 11 Absatz 2 und § 12 Absatz 1 bis 3 entsprechend. Für die Verantwortung des an der Datei teilnehmenden Nachrichtendienstes gilt § 6 Absatz 2 Satz 4 und 5 entsprechend.
+(6) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten in der gemeinsamen Datei entsprechend § 10 Absatz 1 und 3, § 11 Absatz 1 eingeben, wenn es die Daten allen teilnehmenden ausländischen Nachrichtendiensten übermitteln darf. Für die vom Bundesamt für Verfassungsschutz eingegebenen Daten gelten für die Veränderung und Nutzung § 10 Absatz 1 und § 11 Absatz 1 und für die Überprüfung, Berichtigung, Löschung und Sperrung § 11 Absatz 2 und § 12 Absatz 1 bis 3 entsprechend. Für die Verantwortung des an der Datei teilnehmenden Nachrichtendienstes gilt § 6 Absatz 2 Satz 5 und 6 entsprechend.
 
-(7) Das Bundesamt für Verfassungsschutz trifft für die Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. § 6 Absatz 3 Satz 2 bis 5 und § 26a gelten nur für die vom Bundesamt für Verfassungsschutz eingegebenen Daten sowie dessen Abrufe. Das Bundesamt für Verfassungsschutz erteilt dem Betroffenen entsprechend § 15 Auskunft nur zu den vom Bundesamt für Verfassungsschutz eingegebenen Daten.
+(7) Das Bundesamt für Verfassungsschutz trifft für die Dateien die technischen und organisatorischen Maßnahmen entsprechend § 64 des Bundesdatenschutzgesetzes. § 6 Absatz 3 Satz 2 bis 5 und § 28 gelten nur für die vom Bundesamt für Verfassungsschutz eingegebenen Daten sowie dessen Abrufe. Das Bundesamt für Verfassungsschutz erteilt dem Betroffenen entsprechend § 15 Auskunft nur zu den vom Bundesamt für Verfassungsschutz eingegebenen Daten.
 
 # § 22c – Teilnahme an gemeinsamen Dateien mit ausländischen Nachrichtendiensten
 
@@ -593,7 +597,15 @@ Der Empfänger prüft, ob die nach den Vorschriften dieses Gesetzes übermittelt
 
 Erweisen sich personenbezogene Daten nach ihrer Übermittlung nach den Vorschriften dieses Gesetzes als unvollständig oder unrichtig, so sind sie unverzüglich gegenüber dem Empfänger zu berichtigen, es sei denn, daß dies für die Beurteilung eines Sachverhalts ohne Bedeutung ist.
 
-# § 26a – Unabhängige Datenschutzkontrolle
+# § 27 – Anwendung des Bundesdatenschutzgesetzes
+
+Bei der Erfüllung der Aufgaben nach § 3 durch das Bundesamt für Verfassungsschutz findet das Bundesdatenschutzgesetz wie folgt Anwendung:
+
+1. § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4 und die §§ 17 bis 21 sowie § 85 finden keine Anwendung,
+
+2. die §§ 46, 51 Absatz 1 bis 4 und die §§ 52 bis 54, 62, 64, 83, 84 sind entsprechend anzuwenden.
+
+# § 28 – Unabhängige Datenschutzkontrolle
 
 (1) Jedermann kann sich an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit wenden, wenn er der Ansicht ist, bei der Verarbeitung seiner personenbezogenen Daten durch das Bundesamt für Verfassungsschutz in seinen Rechten verletzt worden zu sein.
 
@@ -609,10 +621,6 @@ Dies gilt nicht, soweit das Bundesministerium des Innern, für Bau und Heimat im
 
 (4) Die Absätze 1 bis 3 gelten ohne Beschränkung auf die Erfüllung der Aufgaben nach § 3. Sie gelten entsprechend für die Verarbeitung personenbezogener Daten durch andere Stellen, wenn diese der Erfüllung der Aufgaben von Verfassungsschutzbehörden nach § 3 dient. § 16 Absatz 1 und 4 des Bundesdatenschutzgesetzes findet keine Anwendung.
 
-# § 27 – Anwendung des Bundesdatenschutzgesetzes
+# § 29 – Einschränkung von Grundrechten
 
-Bei der Erfüllung der Aufgaben nach § 3 durch das Bundesamt für Verfassungsschutz findet das Bundesdatenschutzgesetz wie folgt Anwendung:
-
-1. § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4 und die §§ 17 bis 21 sowie § 85 finden keine Anwendung,
-
-2. die §§ 46, 51 Absatz 1 bis 4 und die §§ 52 bis 54, 62, 64, 83, 84 sind entsprechend anzuwenden.
+Die Grundrechte der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.

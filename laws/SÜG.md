@@ -241,7 +241,19 @@ erheblich gefährden kann. Sicherheitsempfindliche Stelle ist die kleinste selbs
 
 # § 2 – Betroffener Personenkreis
 
-(1) Eine Person, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden soll (betroffene Person), ist vorher einer Sicherheitsüberprüfung zu unterziehen. Die Sicherheitsüberprüfung bedarf der Zustimmung der betroffenen Person, soweit gesetzlich nichts anderes bestimmt ist. Die Zustimmung ist schriftlich zu erteilen. Eine sicherheitsempfindliche Tätigkeit darf erst nach Vollendung des 16. Lebensjahres übertragen werden. Auf eine Sicherheitsüberprüfung kann verzichtet werden, wenn für die betroffene Person bereits vor weniger als fünf Jahren eine gleich- oder höherwertige Überprüfung abgeschlossen wurde, ohne dass ein Sicherheitsrisiko festgestellt worden ist.
+(1) Eine Person, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden soll (betroffene Person), ist vorher einer Sicherheitsüberprüfung zu unterziehen. Die Sicherheitsüberprüfung bedarf der Zustimmung der betroffenen Person, soweit gesetzlich nichts anderes bestimmt ist. Die Zustimmung ist schriftlich oder nach Maßgabe von § 3a des Verwaltungsverfahrensgesetzes oder unter Verwendung einer fortgeschrittenen elektronischen Signatur im Sinne von Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) zu erteilen. Eine sicherheitsempfindliche Tätigkeit darf erst nach Vollendung des 16. Lebensjahres übertragen werden.
+
+(1a) Auf eine Sicherheitsüberprüfung kann verzichtet werden, wenn
+
+1. für die betroffene Person bereits vor weniger als fünf Jahren eine gleich- oder höherwertige Überprüfung abgeschlossen wurde, ohne dass ein Sicherheitsrisiko festgestellt worden ist, oder
+
+2. dies im Einzelfall erforderlich ist zur Abwehr einer gegenwärtigen und erheblichen Gefahr für
+
+a) eine Einrichtung nach § 1 Absatz 5 Satz 1 oder Satz 2 oder
+
+b) eine Anlage nach § 4 Absatz 2 oder § 12 Absatz 2 des Satellitendatensicherheitsgesetzes.
+
+Die Entscheidung nach Satz 1 Nummer 2 trifft im öffentlichen Bereich die nach § 3 Absatz 1 zuständige Stelle und im nichtöffentlichen Bereich die nach § 25 Absatz 3 zuständige Stelle. Die nach Satz 2 zuständige Stelle bestimmt die im Fall von Satz 1 Nummer 2 zum Schutz der Verschlusssachen, der sicherheitsempfindlichen Stelle oder der Anlagen nach § 4 Absatz 2 und § 12 Absatz 2 des Satellitendatensicherheitsgesetzes erforderlichen Maßnahmen.
 
 (2) In die Sicherheitsüberprüfung nach § 9 Absatz 1 Nummer 1 oder Nummer 2 oder nach § 10 soll einbezogen werden:
 
@@ -251,7 +263,7 @@ erheblich gefährden kann. Sicherheitsempfindliche Stelle ist die kleinste selbs
 
 3. die volljährige Partnerin oder der volljährige Partner, mit der oder dem die betroffene Person in einer auf Dauer angelegten Gemeinschaft lebt (Lebensgefährtin oder Lebensgefährte).
 
-Über Ausnahmen entscheidet die zuständige Stelle. Die Einbeziehung bedarf der Zustimmung dieser Person. Die Zustimmung ist schriftlich zu erteilen. Sofern die Person im Sinne des Satzes 1 in die Sicherheitsüberprüfung einbezogen wird, ist sie mitbetroffene Person. Geht die betroffene Person die Ehe während oder nach der Sicherheitsüberprüfung ein oder begründet sie die Lebenspartnerschaft oder die auf Dauer angelegte Gemeinschaft während oder nach der Sicherheitsüberprüfung, so hat die betroffene Person die zuständige Stelle unverzüglich zu unterrichten. Das gleiche gilt, wenn die Volljährigkeit der Ehegattin, des Ehegatten, der Lebensgefährtin oder des Lebensgefährten während oder nach der Sicherheitsüberprüfung eintritt.
+Über Ausnahmen entscheidet die zuständige Stelle. Die Einbeziehung bedarf der Zustimmung dieser Person. Die Zustimmung ist schriftlich oder nach Maßgabe von § 3a des Verwaltungsverfahrensgesetzes oder unter Verwendung einer fortgeschrittenen elektronischen Signatur im Sinne von Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014 zu erteilen. Sofern die Person im Sinne des Satzes 1 in die Sicherheitsüberprüfung einbezogen wird, ist sie mitbetroffene Person. Geht die betroffene Person die Ehe während oder nach der Sicherheitsüberprüfung ein oder begründet sie die auf Dauer angelegte Gemeinschaft während oder nach der Sicherheitsüberprüfung, so hat die betroffene Person die zuständige Stelle unverzüglich zu unterrichten. Das gleiche gilt, wenn die Volljährigkeit der Ehegattin, des Ehegatten, der Lebensgefährtin oder des Lebensgefährten während oder nach der Sicherheitsüberprüfung eintritt.
 
 (3) Eine Sicherheitsüberprüfung ist nicht durchzuführen für
 
@@ -379,7 +391,7 @@ Ein Sicherheitsrisiko kann auch auf Grund tatsächlicher Anhaltspunkte nach Satz
 
 durchgeführt.
 
-(2) Ergeben sich bei der Sicherheitsüberprüfung sicherheitserhebliche Erkenntnisse, die nur durch Maßnahmen der nächsthöheren Art der Sicherheitsüberprüfung geklärt werden können, kann die zuständige Stelle mit Zustimmung der betroffenen Person die nächsthöhere Art der Sicherheitsüberprüfung anordnen. § 2 Absatz 2 Satz 1 bis 5 gilt entsprechend; § 12 Absatz 5 bleibt unberührt.
+(2) Ergeben sich bei der Sicherheitsüberprüfung sicherheitserhebliche Erkenntnisse, die nur durch Maßnahmen der nächsthöheren Art der Sicherheitsüberprüfung geklärt werden können, kann die zuständige Stelle mit Zustimmung der betroffenen Person die nächsthöhere Art der Sicherheitsüberprüfung anordnen. § 2 Absatz 2 Satz 1 bis 6 gilt entsprechend; § 12 Absatz 5 bleibt unberührt.
 
 # § 8 – Einfache Sicherheitsüberprüfung
 
@@ -403,7 +415,7 @@ d) das Bundesministerium des Innern, für Bau und Heimat dem zugestimmt hat,
 
 2. in den Fällen des Absatzes 1 Nummer 2 Art oder Dauer der Tätigkeit dies zulassen.
 
-§ 2 Absatz 1 Satz 5 bleibt unberührt.
+§ 2 Absatz 1a bleibt unberührt.
 
 # § 9 – Erweiterte Sicherheitsüberprüfung
 
@@ -499,7 +511,7 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 
 (3a) Bei der Sicherheitsüberprüfung nach den §§ 8, 9 und 10 kann zu der betroffenen Person in erforderlichem Maße Einsicht in öffentlich sichtbare Internetseiten genommen werden mit Ausnahme des öffentlich sichtbaren Teils sozialer Netzwerke. Bei der Sicherheitsüberprüfung nach den §§ 9 und 10 kann zu der betroffenen Person zusätzlich in erforderlichem Maße in den öffentlich sichtbaren Teil sozialer Netzwerke Einsicht genommen werden. Satz 2 gilt auch bei der Sicherheitsüberprüfung nach § 8, soweit die betroffene Person dem Geschäftsbereich des Bundesministeriums der Verteidigung angehört.
 
-(4) Die zuständige Stelle fragt zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit der betroffenen Person oder der mitbetroffenen Person für den Staatssicherheitsdienst der Deutschen Demokratischen Republik bei dem Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der Deutschen Demokratischen Republik an, wenn die betroffene Person oder die mitbetroffene Person vor dem 1. Januar 1970 geboren wurde und in dem Gebiet der Deutschen Demokratischen Republik wohnhaft war oder Anhaltspunkte für eine Tätigkeit für den Staatssicherheitsdienst der Deutschen Demokratischen Republik vorliegen. Die Anfrage bezieht sich auch auf Hinweise über frühere Verbindungen zu einem ausländischen Nachrichtendienst. Ergibt die Anfrage sicherheitserhebliche Erkenntnisse, übermittelt sie die zuständige Stelle zur Bewertung an die mitwirkende Behörde. Die Regelung gilt nicht für die Sicherheitsüberprüfung nach § 9 Absatz 1 Nummer 3, es sei denn, die Überprüfung betrifft Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung.
+(4) Die zuständige Stelle fragt zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit der betroffenen Person oder der mitbetroffenen Person für den Staatssicherheitsdienst der Deutschen Demokratischen Republik bei dem Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik an, wenn die betroffene Person oder die mitbetroffene Person vor dem 1. Januar 1970 geboren wurde und in dem Gebiet der Deutschen Demokratischen Republik wohnhaft war oder Anhaltspunkte für eine Tätigkeit für den Staatssicherheitsdienst der Deutschen Demokratischen Republik vorliegen. Die Anfrage bezieht sich auch auf Hinweise über frühere Verbindungen zu einem ausländischen Nachrichtendienst. Ergibt die Anfrage sicherheitserhebliche Erkenntnisse, übermittelt sie die zuständige Stelle zur Bewertung an die mitwirkende Behörde. Die Regelung gilt nicht für die Sicherheitsüberprüfung nach § 9 Absatz 1 Nummer 3, es sei denn, die Überprüfung betrifft Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung.
 
 (5) Soweit es eine sicherheitserhebliche Erkenntnis erfordert, können die betroffene und die mitbetroffene Person selbst befragt werden. Reicht diese Befragung nicht aus, stehen ihr schutzwürdige Interessen entgegen oder erfordert es die Prüfung der Identität, kann die mitwirkende Behörde neben den Maßnahmen nach den Absätzen 1 bis 3 weitere geeignete Auskunftspersonen oder andere geeignete Stellen befragen oder Einzelmaßnahmen der nächsthöheren Art der Sicherheitsüberprüfung durchführen. Ferner kann die betroffene Person aufgefordert werden, für die Aufklärung der sicherheitserheblichen Erkenntnis geeignete Unterlagen beizubringen. Zusätzlich können von öffentlichen Stellen Akten beigezogen werden, von Gerichten, Staatsanwaltschaften oder Finanzbehörden auch über Strafverfahren wegen einer Steuerstraftat im Sinne des § 369 der Abgabenordnung.
 
@@ -513,7 +525,7 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 
 2. Geburtsdatum-, -ort,
 
-2a. Geschlecht,
+2a. Geschlechtseintrag,
 
 3  
 Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
@@ -526,9 +538,9 @@ Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
 
 7. Arbeitgeber und dessen Anschrift,
 
-8. private und berufliche telefonische oder elektronische Erreichbarkeit,
+8. telefonische und elektronische Erreichbarkeit,
 
-9. im Haushalt lebende Personen über 18 Jahre (Namen, auch frühere, Vornamen, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Geschlecht und Verhältnis zu dieser Person),
+9. im Haushalt lebende Personen über 18 Jahre (Namen, auch frühere, Vornamen, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Geschlechtseintrag und Verhältnis zu dieser Person),
 
 10. Eltern, Stief- oder Pflegeeltern (Namen, auch frühere, Vornamen, Geburtsdatum, Geburtsort, Staatsangehörigkeit und Wohnsitz),
 
@@ -548,11 +560,13 @@ Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
 
 17. Wohnsitze, Aufenthalte, Reisen, nahe Angehörige und sonstige Beziehungen in und zu Staaten, in denen nach Feststellung des Bundesministeriums des Innern, für Bau und Heimat besondere Sicherheitsrisiken für die mit sicherheitsempfindlicher Tätigkeit befassten Personen zu besorgen sind,
 
-18. drei Referenzpersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Geschlecht, Beruf, berufliche und private Anschrift und telefonische oder elektronische Erreichbarkeit sowie zeitlicher Beginn der Bekanntschaft) nur bei einer Sicherheitsüberprüfung nach § 10,
+18. drei Referenzpersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Geschlechtseintrag, Beruf, berufliche und private Anschrift und telefonische und elektronische Erreichbarkeit sowie zeitlicher Beginn der Bekanntschaft) nur bei einer Sicherheitsüberprüfung nach § 10,
 
 19. frühere Sicherheitsüberprüfungen und Zuverlässigkeitsüberprüfungen,
 
 20. die Adressen eigener Internetseiten und die Mitgliedschaften in sozialen Netzwerken im Internet nur bei einer Sicherheitsüberprüfung nach den §§ 9, 10 und bei einer Sicherheitsüberprüfung nach § 8 für Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung.
+
+Der Sicherheitserklärung sind zwei aktuelle Lichtbilder der betroffenen Person mit der Angabe des Jahres der Aufnahme beizufügen. Die Lichtbilder können in elektronischer Form verlangt werden. Die Lichtbilder dürfen nicht für einen automatisierten Abgleich mit Datenbanken genutzt werden.
 
 (2) Bei der Sicherheitsüberprüfung nach § 8 entfallen die Angaben zu Absatz 1 Nummer 11 und 12; Angaben zu Absatz 1 Nummer 12 dürfen nachträglich erhoben werden, soweit Maßnahmen nach § 12 Absatz 1 Nummer 4 zu treffen sind. Angaben zu Absatz 1 Nummer 10 entfallen, soweit die dort genannten Personen nicht in einem Haushalt mit der betroffenen Person leben. Zur Person der Ehegattin, des Ehegatten, der Lebenspartnerin, des Lebenspartners, der Lebensgefährtin oder des Lebensgefährten sind mit deren Einverständnis die in Absatz 1 Nummer 1 bis 4, 14 und 15 genannten Daten anzugeben.
 
@@ -572,11 +586,9 @@ Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
 
 5. alle Kontakte zu ausländischen Nachrichtendiensten oder zu Nachrichtendiensten der Deutschen Demokratischen Republik,
 
-6. zwei Auskunftspersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Anschrift, telefonische oder elektronische Erreichbarkeit und Verhältnis zur Person) zur Identitätsprüfung der betroffenen Person,
+6. zwei Auskunftspersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Anschrift, telefonische und elektronische Erreichbarkeit und Verhältnis zur Person) zur Identitätsprüfung der betroffenen Person,
 
-7. im Falle des Vorhandenseins einer mitbetroffenen Person zwei Auskunftspersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Anschrift, telefonische oder elektronische Erreichbarkeit und Verhältnis zur Person) zu deren Identitätsprüfung.
-
-Außerdem sind zwei aktuelle Lichtbilder der betroffenen Person mit der Angabe des Jahres der Aufnahme beizufügen.
+7. im Falle des Vorhandenseins einer mitbetroffenen Person zwei Auskunftspersonen (Namen, Vornamen, Geburtsdatum, Geburtsort, Anschrift, telefonische und elektronische Erreichbarkeit und Verhältnis zur Person) zu deren Identitätsprüfung.
 
 (4a) Von Angehörigen des Geschäftsbereichs des Bundesministeriums der Verteidigung sowie von Angehörigen der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes sind zusätzlich die Anzahl der Kinder anzugeben.
 
@@ -602,7 +614,7 @@ Außerdem sind zwei aktuelle Lichtbilder der betroffenen Person mit der Angabe d
 
 2. in Bezug auf den in § 12 Absatz 6 genannten Zeitraum nicht überprüfbar ist.
 
-Ohne eine abgeschlossene Sicherheitsüberprüfung, die zum Ergebnis hat, dass kein Sicherheitsrisiko vorliegt, darf die betroffene Person nicht mit einer sicherheitsempfindlichen Tätigkeit betraut werden. § 2 Absatz 1 Satz 5, § 8 Absatz 2, § 9 Absatz 2 und 3 und § 15 bleiben unberührt.
+Ohne eine abgeschlossene Sicherheitsüberprüfung, die zum Ergebnis hat, dass kein Sicherheitsrisiko vorliegt, darf die betroffene Person nicht mit einer sicherheitsempfindlichen Tätigkeit betraut werden. § 2 Absatz 1a, § 8 Absatz 2, § 9 Absatz 2 und 3 und § 15 bleiben unberührt.
 
 # § 15 – Vorläufige Zuweisung einer sicherheitsempfindlichen Tätigkeit
 
@@ -620,7 +632,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 1. Umsetzung, Abordnung, Versetzung und Ausscheiden aus dem Dienst,
 
-2. Änderungen des Familienstandes, des Namens, eines Wohnsitzes und der Staatsangehörigkeit,
+2. Änderungen des Familienstandes, des Namens, des Vornamens, des Geschlechtseintrages, eines Wohnsitzes und der Staatsangehörigkeit,
 
 3. Anhaltspunkte für Überschuldung, insbesondere Pfändungs- und Überweisungsbeschlüsse, Mitteilungen über abgeschlossene Insolvenzverfahren sowie Beschlüsse zur Eröffnung eines Insolvenzverfahrens und zur Restschuldbefreiung,
 
@@ -662,7 +674,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 2. Umsetzung, Abordnung, Versetzung und Ausscheiden,
 
-3. Änderungen des Namens, eines Wohnsitzes und der Staatsangehörigkeit,
+3. Änderungen des Namens, des Vornamens, des Geschlechtseintrages, eines Wohnsitzes und der Staatsangehörigkeit,
 
 4. Beginn oder Ende einer Ehe, einer Lebenspartnerschaft oder einer auf Dauer angelegten Gemeinschaft,
 
@@ -670,7 +682,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 6. Strafverfahren und Disziplinarsachen sowie dienst- und arbeitsrechtliche Maßnahmen.
 
-(3) Die Sicherheitsakte ist keine Personalakte. Sie ist gesondert zu führen und darf weder der personalverwaltenden Stelle noch der betroffenen Person zugänglich gemacht werden; § 23 Abs. 6 bleibt unberührt. Im Falle des Wechsels der Dienststelle oder des Dienstherrn ist die Sicherheitsakte nach dorthin abzugeben, wenn auch dort eine sicherheitsempfindliche Tätigkeit ausgeübt werden soll. Zum Zwecke der Prüfung nach § 2 Absatz 1 Satz 5 kann der anfordernden Stelle die Sicherheitsakte zur Einsichtnahme übersandt werden.
+(3) Die Sicherheitsakte ist keine Personalakte. Sie ist gesondert zu führen und darf weder der personalverwaltenden Stelle noch der betroffenen Person zugänglich gemacht werden; § 23 Abs. 6 bleibt unberührt. Im Falle des Wechsels der Dienststelle oder des Dienstherrn ist die Sicherheitsakte nach dorthin abzugeben, wenn auch dort eine sicherheitsempfindliche Tätigkeit ausgeübt werden soll. Zum Zwecke der Prüfung nach § 2 Absatz 1a Satz 1 Nummer 1 kann der anfordernden Stelle die Sicherheitsakte zur Einsichtnahme übersandt werden.
 
 (3a) Im Geschäftsbereich des Bundesministeriums der Verteidigung ist im Falle des Wechsels der Dienststelle die Sicherheitsakte stets an die neue Dienststelle abzugeben. Die neue Dienststelle darf den Inhalt der Sicherheitsakte nur dann zur Kenntnis nehmen, wenn die betroffene Person dort mit einer sicherheitsempfindlichen Tätigkeit betraut werden soll. Sofern keine Betrauung mit einer sicherheitsempfindlichen Tätigkeit erfolgen soll, ist die Sicherheitsakte dort bis zur Vernichtung aufzubewahren.
 
@@ -680,7 +692,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 2. das Ausscheiden aus oder die Nichtaufnahme der sicherheitsempfindlichen Tätigkeit,
 
-3. Änderungen des Namens, eines Wohnsitzes und der Staatsangehörigkeit,
+3. Änderungen des Namens, des Vornamens, des Geschlechtseintrages, eines Wohnsitzes und der Staatsangehörigkeit,
 
 4. Beginn oder Ende einer Ehe, einer Lebenspartnerschaft oder einer auf Dauer angelegten Gemeinschaft.
 
@@ -716,17 +728,17 @@ Im Falle des Satzes 3 Nummer 4 ist die Verarbeitung der Daten einzuschränken; d
 
 # § 20 – Speichern, Verändern und Nutzen personenbezogener Daten in Dateien
 
-(1) Die zuständige Stelle darf zur Erfüllung ihrer Aufgaben nach diesem Gesetz die in § 13 Abs. 1 Nr. 1 bis 6 genannten personenbezogenen Daten, ihre Aktenfundstelle und die der mitwirkenden Behörde sowie die Beschäftigungsstelle, Verfügungen zur Bearbeitung des Vorganges und beteiligte Behörden in Dateien speichern, verändern und nutzen.
+(1) Die zuständige Stelle darf zur Erfüllung ihrer Aufgaben nach diesem Gesetz die in § 13 Absatz 1 Satz 1 Nummer 1 bis 6 und Absatz 4 Nummer 1 genannten personenbezogenen Daten der betroffenen Person und der mitbetroffenen Person, ihre Aktenfundstelle und die der mitwirkenden Behörde sowie die Beschäftigungsstelle, Verfügungen zur Bearbeitung des Vorganges und beteiligte Behörden in Dateien speichern, verändern und nutzen.
 
 (2) Die mitwirkende Behörde darf zur Erfüllung ihrer Aufgaben
 
-1. die in § 13 Abs. 1 Nr. 1 bis 6 genannten personenbezogenen Daten der betroffenen Person und der mitbetroffenen Person und die Aktenfundstelle,
+1. die in § 13 Absatz 1 Satz 1 Nummer 1 bis 6 und Absatz 4 Nummer 1 genannten personenbezogenen Daten der betroffenen Person und der mitbetroffenen Person und die Aktenfundstelle,
 
 2. Verfügungen zur Bearbeitung des Vorgangs sowie
 
 3. sicherheitserhebliche Erkenntnisse und Erkenntnisse, die ein Sicherheitsrisiko begründen,
 
-in Dateien speichern, verändern und nutzen. Die Daten nach Nummer 1 dürfen auch in die nach § 6 Absatz 2 des Bundesverfassungsschutzgesetzes zulässigen Verbunddateien gespeichert werden.
+in Dateien speichern, verändern und nutzen. Die Daten nach Satz 1 Nummer 1 dürfen auch in die nach § 6 Absatz 2 des Bundesverfassungsschutzgesetzes zulässigen Verbunddateien gespeichert werden.
 
 # § 21 – Übermittlung und Zweckbindung
 
@@ -868,13 +880,13 @@ Erkenntnisse, die die Ablehnung oder Aufhebung der Ermächtigung zur sicherheits
 
 1. das Ausscheiden aus oder die Nichtaufnahme der sicherheitsempfindlichen Tätigkeit,
 
-2. Änderungen des Namens, eines Wohnsitzes oder der Staatsangehörigkeit,
+2. Änderungen des Namens, des Vornamens, des Geschlechtseintrages, eines Wohnsitzes oder der Staatsangehörigkeit,
 
 3. Beginn oder Ende einer Ehe, einer Lebenspartnerschaft oder einer auf Dauer angelegten Gemeinschaft und
 
 4. auf Anfrage der zuständigen Stelle weitere bei der nichtöffentlichen Stelle vorhandene Informationen zur Aufklärung sicherheitserheblicher Erkenntnisse.
 
-(2) § 2 Absatz 2 Satz 6 und 7, § 14 Absatz 4 Satz 1 und § 15a gelten mit der Maßgabe, dass an die Stelle der zuständigen Stelle die nichtöffentliche Stelle tritt. Für Sicherheitsüberprüfungen nach § 9 Absatz 1 Nummer 3 gilt die Unterrichtungspflicht nach § 15a nur für Veränderungen nach § 15a Satz 2 Nummer 1, 2, 4 und 6.
+(2) § 2 Absatz 2 Satz 7 und 8, § 14 Absatz 4 Satz 1 und § 15a gelten mit der Maßgabe, dass an die Stelle der zuständigen Stelle die nichtöffentliche Stelle tritt. Für Sicherheitsüberprüfungen nach § 9 Absatz 1 Nummer 3 gilt die Unterrichtungspflicht nach § 15a nur für Veränderungen nach § 15a Satz 2 Nummer 1, 2, 4 und 6.
 
 # § 30 – Sicherheitsakte der nicht-öffentlichen Stelle
 

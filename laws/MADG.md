@@ -53,7 +53,7 @@ Die Befugnisse des Militärischen Abschirmdienstes bei der Mitwirkung nach Satz 
 
 (2) Zur Fortführung von Aufgaben nach § 3 Abs. 1 des Bundesverfassungsschutzgesetzes kann eine Verfassungsschutzbehörde, soweit es im Einzelfall zwingend erforderlich ist, im Benehmen mit dem Militärischen Abschirmdienst Maßnahmen auf Personen erstrecken, die dem Geschäftsbereich des Bundesministeriums der Verteidigung angehören oder in ihm tätig sind und der Zuständigkeit des Militärischen Abschirmdienstes unterliegen. Dies ist nur zulässig gegenüber Personen, bei denen tatsächliche Anhaltspunkte dafür bestehen, daß sie mit einer Person aus dem Zuständigkeitsbereich der Verfassungsschutzbehörden bei Bestrebungen oder Tätigkeiten nach § 3 Abs. 1 des Bundesverfassungsschutzgesetzes zusammenarbeiten, und wenn anderenfalls die weitere Erforschung des Sachverhalts gefährdet oder nur mit übermäßigem Aufwand möglich wäre.
 
-(3) Der Militärische Abschirmdienst und die Verfassungsschutzbehörden unterrichten einander über alle Angelegenheiten, deren Kenntnis für die Erfüllung ihrer Aufgaben erforderlich ist. Dem Militärischen Abschirmdienst kann der automatisierte Abruf von Daten aus den beim Bundesamt für Verfassungsschutz gemäß § 6 des Bundesverfassungsschutzgesetzes geführten Dateien ermöglicht werden. Dem Bundesamt für Verfassungsschutz und den Landesbehörden für Verfassungsschutz kann der automatisierte Abruf von Daten aus der beim Militärischen Abschirmdienst geführten zentralen Hinweisdatei ermöglicht werden. Der Abruf ist nur zulässig zur Aufklärung von sicherheitsgefährdenden oder geheimdienstlichen Tätigkeiten für eine fremde Macht, von rechtsextremistischen Bestrebungen oder von Bestrebungen, die darauf gerichtet sind, Gewalt anzuwenden oder Gewaltanwendung vorzubereiten, und zur Mitwirkung bei der Sicherheitsüberprüfung. Bei einer Abfrage zur Sicherheitsüberprüfung wird im Fall eines Treffers die speichernde Stelle automatisiert durch Übermittlung aller Anfragedaten über die Abfrage und die abfragende Stelle nur über die speichernde Stelle unterrichtet.
+(3) Der Militärische Abschirmdienst und die Verfassungsschutzbehörden unterrichten einander über alle Angelegenheiten, deren Kenntnis für die Erfüllung ihrer Aufgaben erforderlich ist. Die Erfüllung der Unterrichtungspflichten nach Satz 1 kann durch gemeinsame Dateien erfolgen, insbesondere durch Teilnahme des Militärischen Abschirmdienstes am nachrichtendienstlichen Informationssystem der Verfassungsschutzbehörden nach § 6 Absatz 2 des Bundesverfassungsschutzgesetzes und Teilnahme der Verfassungsschutzbehörden an Dateien des Militärischen Abschirmdienstes. § 6 Absatz 2 Satz 4 bis 9 des Bundesverfassungsschutzgesetzes ist entsprechend anzuwenden.
 
 # § 4 – Befugnisse des Militärischen Abschirmdienstes
 
@@ -63,7 +63,7 @@ Die Befugnisse des Militärischen Abschirmdienstes bei der Mitwirkung nach Satz 
 
 # § 4a – Besondere Auskunftsverlangen
 
-Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der schwerwiegenden Gefahren für die in § 3 Absatz 1 des Bundesverfassungsschutzgesetzes genannten Schutzgüter schwerwiegende Gefahren für die in § 1 Absatz 1 genannten Schutzgüter und an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundesministerium der Verteidigung treten. Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt.
+Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der schwerwiegenden Gefahren für die in § 3 Absatz 1 des Bundesverfassungsschutzgesetzes genannten Schutzgüter schwerwiegende Gefahren für die in § 1 Absatz 1 genannten Schutzgüter und an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundesministerium der Verteidigung treten.
 
 # § 4b – Besondere Auskunftsverlangen zu Bestandsdaten
 
@@ -90,6 +90,8 @@ Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 (6) Der Militärische Abschirmdienst hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
 (7) Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe des Absatzes 2 Satz 1 eingeschränkt.
+
+(+++ Hinweis: Änderungsbefehl durch Art. 2 Nr. 3 G v. 5.7.2021 I 2274 ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
 
 # § 5 – Besondere Formen der Datenerhebung
 
@@ -139,7 +141,7 @@ Der Militärische Abschirmdienst erteilt dem Betroffenen über zu seiner Person 
 
 6. die Protokollierung aller Abrufe und die Kontrolle durch die behördliche Datenschutzbeauftragte oder den behördlichen Datenschutzbeauftragten.
 
-Der Bundesbeauftragte für den Datenschutz ist vor Erlass und vor Änderung der Dienstvorschrift anzuhören.
+Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass und vor Änderung der Dienstvorschrift anzuhören.
 
 (3) Würde durch die Übermittlung nach Absatz 2 Satz 1 der Zweck der Maßnahme gefährdet oder der Betroffene unverhältnismäßig beeinträchtigt, darf der Militärische Abschirmdienst bei der Wahrnehmung der Aufgaben nach § 1 Abs. 1 Satz 1 Nr. 2 und Satz 2 amtliche Register einsehen. Diese Einsichtnahme bedarf der Zustimmung des Behördenleiters oder seines Vertreters.
 
@@ -159,10 +161,6 @@ Für die Übermittlung von Informationen nach diesem Gesetz finden die §§ 23 b
 
 (+++ § 12: Gemäß Art. 18 V v. 19.6.2020 I 1328 wird jeweils das Wort "Innern" durch die Wörter "Innern, für Bau und Heimat" mWv 27.6.2020 ersetzt. Aufgrund textlicher Unstimmigkeit ist die Änderungsanweisung unausführbar! +++)
 
-# § 12a – Unabhängige Datenschutzkontrolle
-
-§ 26a des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern das Bundesministerium der Verteidigung tritt.
-
 # § 13 – Anwendung des Bundesdatenschutzgesetzes
 
 Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und 14 durch den Militärischen Abschirmdienst findet das Bundesdatenschutzgesetz wie folgt Anwendung:
@@ -170,6 +168,10 @@ Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und 14 durc
 1. § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4 und die §§ 17 bis 21 sowie § 85 finden keine Anwendung,
 
 2. die §§ 46, 51 Absatz 1 bis 4 und die §§ 52 bis 54, 62, 64, 83, 84 sind entsprechend anzuwenden.
+
+# § 13a – Unabhängige Datenschutzkontrolle
+
+§ 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern das Bundesministerium der Verteidigung tritt.
 
 # § 14 – Besondere Auslandsverwendungen
 
@@ -186,3 +188,7 @@ Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und 14 durc
 (6) Die Unterrichtung nach § 10 Abs. 1 erstreckt sich auf alle Informationen, die für die Aufgaben des Militärischen Abschirmdienstes nach den Absätzen 1 bis 3 erforderlich sind. Zur Erfüllung der Aufgaben nach den Absätzen 1 bis 3 arbeiten der Militärische Abschirmdienst und der Bundesnachrichtendienst im Rahmen ihrer gesetzlichen Befugnisse zusammen. Der Militärische Abschirmdienst und der Bundesnachrichtendienst unterrichten einander über alle Angelegenheiten, deren Kenntnis zur Erfüllung ihrer Aufgaben erforderlich ist. Die Einzelheiten der Zusammenarbeit des Militärischen Abschirmdienstes und des Bundesnachrichtendienstes bei besonderen Auslandsverwendungen der Bundeswehr oder bei humanitären Maßnahmen sind für jeden Einsatz in einer Vereinbarung zwischen dem Militärischen Abschirmdienst und dem Bundesnachrichtendienst zu regeln, die der Zustimmung des Chefs des Bundeskanzleramtes und des Bundesministers der Verteidigung bedarf und über die das Parlamentarische Kontrollgremium zu unterrichten ist.
 
 (7) Die Bundesregierung unterrichtet das Parlamentarische Kontrollgremium vor Beginn des Einsatzes des Militärischen Abschirmdienstes im Ausland.
+
+# § 15 – Einschränkung von Grundrechten
+
+Die Grundrechte der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.

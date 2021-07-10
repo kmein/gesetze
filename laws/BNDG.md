@@ -542,7 +542,7 @@ Für die Übermittlung von Informationen nach den §§ 23 und 24 sind die §§ 2
 
 # § 32 – Unabhängige Datenschutzkontrolle
 
-§ 26a des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
+§ 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
 
 # § 32a – Anwendung des Bundesdatenschutzgesetzes
 

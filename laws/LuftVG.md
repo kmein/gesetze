@@ -539,7 +539,7 @@ sind Absatz 1 Satz 1, 2 Nummer 1 bis 3 und Absatz 3 entsprechend anzuwenden. Vor
 
 # § 9
 
-(1) § 75 Absatz 1 des Verwaltungsverfahrensgesetzes gilt nicht für Entscheidungen des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 27d Absatz 1 und 4 und Entscheidungen der Baugenehmigungsbehörden auf Grund des Baurechts.
+(1) § 75 Absatz 1 des Verwaltungsverfahrensgesetzes gilt nicht für Entscheidungen des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 27d Absatz 1, 1a und 4 und Entscheidungen der Baugenehmigungsbehörden auf Grund des Baurechts.
 
 (2) Wird der Plan nicht innerhalb von fünf Jahren nach Rechtskraft durchgeführt, so können die vom Plan betroffenen Grundstückseigentümer verlangen, dass der Unternehmer ihre Grundstücke und Rechte insoweit erwirbt, als nach § 28 die Enteignung zulässig ist. Kommt keine Einigung zustande, so können sie die Durchführung des Enteignungsverfahrens bei der Enteignungsbehörde beantragen. Im Übrigen gilt § 28.
 
@@ -953,9 +953,13 @@ sowie die Verkehrsflussregelung, die Steuerung der Luftraumnutzung und die Flugv
 
 (5) Flugsicherungsorganisationen sowie Unterstützungsdienstleister, die Dienste nach Absatz 2 erbringen, bedürfen eines Befähigungsnachweises nach Maßgabe von Artikel 7 der Verordnung (EG) Nr. 550/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 über die Erbringung von Flugsicherungsdiensten im einheitlichen europäischen Luftraum („Flugsicherungsdienste-Verordnung“) (ABl. L 96 vom 31.3.2004, S. 10).
 
-# § 27d
+# § 27d – Flugsicherungsdienste, Verordnungsermächtigung
 
 (1) Flugsicherungsdienste und die dazu erforderlichen flugsicherungstechnischen Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr und digitale Infrastruktur einen Bedarf aus Gründen der Sicherheit und aus verkehrspolitischen Interessen anerkennt.
+
+(1a) Flugsicherungsdienste und die dazu erforderlichen flugsicherungstechnischen Einrichtungen werden auch an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr und digitale Infrastruktur dafür die Notwendigkeit anerkennt nach Artikel 3a der Durchführungsverordnung (EU) 2017/373 der Kommission vom 1. März 2017 zur Festlegung gemeinsamer Anforderungen an Flugverkehrsmanagementanbieter und Anbieter von Flugsicherungsdiensten sowie sonstiger Funktionen des Flugverkehrsmanagementnetzes und die Aufsicht hierüber sowie zur Aufhebung der Verordnung (EG) Nr. 482/2008, der Durchführungsverordnungen (EU) Nr. 1034/2011, (EU) Nr. 1035/2011 und (EU) 2016/1377 und zur Änderung der Verordnung (EU) Nr. 677/2011 (ABl. L 62 vom 8.3.2017, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2020/469 (ABl. L 104 vom 3.4.2020, S. 1) geändert worden ist.
+
+(1b) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die von den Absätzen 1 und 1a erfassten Flugplätze sowie die Art des dort jeweils notwendigen Flugsicherungsdienstes zu bestimmen.
 
 (2) Die Flugplatzunternehmer sind auf Verlangen der Flugsicherungsorganisation im erforderlichen Umfang verpflichtet,
 
@@ -969,7 +973,7 @@ Außerhalb der Flugplätze gilt dies nur, soweit die Anlagen und Einrichtungen d
 
 (3) Die sich aus der Erfüllung der Pflichten nach Absatz 2 ergebenden Selbstkosten werden den Flugplatzunternehmern von der Flugsicherungsorganisation erstattet. Einzelheiten der Kostenerstattung nach Satz 1 können vertraglich zwischen der Flugsicherungsorganisation und dem Flugplatzunternehmen geregelt werden.
 
-(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 vom Bundesministerium für Verkehr und digitale Infrastruktur nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange der Flugsicherung nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Absatz 2 ist anzuwenden.
+(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 oder eine Notwendigkeit nach Absatz 1a vom Bundesministerium für Verkehr und digitale Infrastruktur nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange der Flugsicherung nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Absatz 2 ist anzuwenden.
 
 # § 27e
 
@@ -1275,9 +1279,9 @@ Satz 1 findet Anwendung auf Segelflugzeuge, sofern das betreffende Land für sei
 
 Im Falle der Staatshaftung wegen Ansprüchen Dritter können die Beauftragten nach den §§ 31a bis 31c und 31f bei Vorliegen von Vorsatz oder grober Fahrlässigkeit vom Bund bis zu einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen festgelegten Höchstbetrag in Rückgriff genommen werden. Wird der Bund von einem Dritten wegen eines Schadens in Anspruch genommen, den ein auf der Grundlage einer Rechtsverordnung nach § 30a Beauftragter durch vorsätzliches oder grob fahrlässiges Handeln verursacht hat, so kann der Bund bei dem Beauftragten Rückgriff bis zu einem vom Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium der Finanzen festgelegten Höchstbetrag nehmen. Gegenüber Organen und Personal der Beauftragten nach den §§ 30a, 31a bis 31c und 31f richtet sich der Rückgriff des Beauftragten nach den allgemeinen Vorschriften.
 
-# § 31f
+# § 31f – Beauftragung einer Flugsicherungsorganisation, Verordnungsermächtigung
 
-(1) An Flugplätzen, bei denen nach § 27d Absatz 4 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden sollen, kann das Bundesministerium für Verkehr und digitale Infrastruktur durch Verwaltungsakt neben einer Flugsicherungsorganisation nach § 31b Absatz 1 auch eine andere Flugsicherungsorganisation mit der Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 beauftragen.
+(1) An Flugplätzen, bei denen nach § 27d Absatz 1a oder 4 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden sollen, kann das Bundesministerium für Verkehr und digitale Infrastruktur durch Verwaltungsakt neben einer Flugsicherungsorganisation nach § 31b Absatz 1 auch eine andere Flugsicherungsorganisation mit der Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 beauftragen.
 
 (2) Die Beauftragung nach Absatz 1 ist nur zulässig, wenn die zu beauftragende Flugsicherungsorganisation
 
@@ -1290,6 +1294,22 @@ Im Falle der Staatshaftung wegen Ansprüchen Dritter können die Beauftragten na
 Die Beauftragung einer Flugsicherungsorganisation mit Sitz oder Niederlassung im Ausland setzt über Absatz 2 Satz 1 hinaus den Bestand einer völkerrechtlichen Übereinkunft des Bundesministeriums für Verkehr und digitale Infrastruktur oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates voraus, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der beauftragten Flugsicherungsorganisation geregelt sind.
 
 (3) Ein Rechtsanspruch auf Übertragung von Aufgaben nach Absatz 1 oder auf Fortsetzung der Tätigkeit nach Absatz 1 besteht nicht. Das Bundesministerium für Verkehr und digitale Infrastruktur macht seine Entscheidung nach Absatz 1 im Bundesanzeiger bekannt.
+
+(3a) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten des Verfahrens, durch das im Fall des § 27d Absatz 1a eine Flugsicherungsorganisation beauftragt wird, zu bestimmen, insbesondere die Einzelheiten
+
+1. des Auswahlverfahrens der Flugsicherungsorganisation,
+
+2. des Nachweises der Kosten,
+
+3. der Erforderlichkeit der Aufwendungen,
+
+4. der Rechnungslegung durch die Flugsicherungsorganisation und
+
+5. der Erstattung des Differenzbetrages für den Fall, dass die Einnahmen der Flugsicherungsorganisation aus Gebühren und Auslagen für Amtshandlungen zur Durchführung der Flugsicherung die Kosten, die vom Bundesaufsichtsamt für Flugsicherung anerkannt werden, überschreiten.
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Ermächtigung zum Erlass dieser Verordnungen dem Bundesaufsichtsamt für Flugsicherung übertragen.
+
+(3b) Am 1. September 2021 bereits bestehende Beauftragungen von Flugsicherungsorganisationen gelten fort. Bis zu einer Neuregelung der Vertragsbeziehungen zwischen der Flugsicherungsorganisation und dem Flugplatzunternehmen ist die Flugsicherungsorganisation verpflichtet, das vereinbarte und bereits eingenommene Entgelt bis zur Höhe der eingenommenen Gebühren und der erhaltenen Erstattung aus Haushaltsmitteln nach Absatz 2a Satz 2 an das Flugplatzunternehmen herauszugeben.
 
 (4) Bei der Wahrnehmung von Aufgaben nach Absatz 1 unterliegt die Flugsicherungsorganisation der Rechts- und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Dieses kann sich zur Wahrnehmung seiner Aufsichtstätigkeit insbesondere jederzeit über die Angelegenheiten der Flugsicherungsorganisation, insbesondere durch Einholung von Auskünften, Berichten und der Vorlage von Aufzeichnungen aller Art, unterrichten, rechtswidrige oder zweckwidrige Maßnahmen beanstanden sowie entsprechende Abhilfe verlangen. Kommt die nach Absatz 1 beauftragte Flugsicherungsorganisation den Weisungen des Bundesaufsichtsamtes für Flugsicherung nicht oder nicht fristgerecht nach, kann es die erforderlichen Maßnahmen anstelle und auf Kosten der Flugsicherungsorganisation selbst durchführen oder durch einen anderen durchführen lassen.
 
