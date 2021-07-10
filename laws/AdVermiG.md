@@ -41,7 +41,7 @@ Die in Satz 1 genannten Stellen müssen von der zentralen Adoptionsstelle des La
 
 1. die zentrale Adoptionsstelle des Landesjugendamtes;
 
-2. eine anerkannte Auslandsvermittlungsstelle nach § 4 Absatz 2 im Rahmen der ihr erteilten Zulassung;
+2. eine anerkannte Auslandsvermittlungsstelle nach § 4 Absatz 2 im Rahmen der ihr erteilten Zulassung.
 
 (5) Zur Koordination der internationalen Adoptionsvermittlung arbeiten die in Absatz 4 genannten Stellen mit dem Bundesamt für Justiz als Bundeszentralstelle für Auslandsadoption (Bundeszentralstelle) zusammen. Die Bundeszentralstelle kann hierzu mit allen zuständigen Stellen im In- und Ausland unmittelbar verkehren.
 
@@ -117,7 +117,7 @@ Die Adoptionsvermittlungsstelle hat den Kindervorschlag der Fachstelle des Heima
 
 Die Adoptionsvermittlung darf nicht Gegenstand eines steuerpflichtigen wirtschaftlichen Geschäftsbetriebs sein.
 
-(2) Zur Ausübung der internationalen Adoptionsvermittlung bedarf eine Adoptionsvermittlungsstelle im Sinne des § 2 Absatz 3 der besonderen Zulassung durch die zentrale Adoptionsstelle des Landesjugendamtes, in deren Bereich die Adoptionsvermittlungsstelle ihren Sitz hat. Die Zulassung wird für die Vermittlung von Kindern aus einem oder mehreren bestimmten ausländischen Staaten (Heimatstaaten) erteilt. Die Zulassung berechtigt dazu, die Bezeichnung "anerkannte Auslandsvermittlungsstelle" zu führen; ohne die Zulassung darf diese Bezeichnung nicht geführt werden. Die Zulassung kann erteilt werden, wenn der Nachweis erbracht wird, dass die Stelle die Anerkennungsvoraussetzungen nach Absatz 1 in dem für die Arbeit auf dem Gebiet der internationalen Adoption erforderlichen besonderen Maße erfüllt; sie ist zu versagen, wenn ihr überwiegende Belange der Zusammenarbeit mit dem betreffenden Heimatstaat entgegenstehen. Die zentrale Adoptionsstelle des Landesjugendamtes und die Bundeszentralstelle unterrichten einander über Erkenntnisse, die die in Absatz 1 genannten Verhältnisse der anerkannten Auslandsvermittlungsstelle betreffen.
+(2) Zur Ausübung der internationalen Adoptionsvermittlung bedarf eine Adoptionsvermittlungsstelle im Sinne des § 2 Absatz 3 der besonderen Zulassung durch die zentrale Adoptionsstelle des Landesjugendamtes, in deren Bereich die Adoptionsvermittlungsstelle ihren Sitz hat. Die Zulassung wird für die Vermittlung von Kindern aus einem oder mehreren bestimmten ausländischen Staaten (Heimatstaaten) erteilt. Die Zulassung berechtigt dazu, die Bezeichnung „anerkannte Auslandsvermittlungsstelle“ zu führen; ohne die Zulassung darf diese Bezeichnung nicht geführt werden. Die Zulassung kann erteilt werden, wenn der Nachweis erbracht wird, dass die Stelle die Anerkennungsvoraussetzungen nach Absatz 1 in dem für die Arbeit auf dem Gebiet der internationalen Adoption erforderlichen besonderen Maße erfüllt; sie ist zu versagen, wenn ihr überwiegende Belange der Zusammenarbeit mit dem betreffenden Heimatstaat entgegenstehen. Die zentrale Adoptionsstelle des Landesjugendamtes und die Bundeszentralstelle unterrichten einander über Erkenntnisse, die die in Absatz 1 genannten Verhältnisse der anerkannten Auslandsvermittlungsstelle betreffen.
 
 (3) Die Anerkennung nach Absatz 1 oder die Zulassung nach Absatz 2 sind zurückzunehmen, wenn die Voraussetzungen für ihre Erteilung nicht vorgelegen haben. Sie sind zu widerrufen, wenn die Voraussetzungen nachträglich weggefallen sind. Nebenbestimmungen zu einer Anerkennung oder Zulassung sowie die Folgen des Verstoßes gegen eine Auflage unterliegen den allgemeinen Vorschriften.
 
@@ -227,7 +227,7 @@ Den Adoptionsbewerbern obliegt es, die erforderlichen Angaben zu machen und geei
 
 1. die Eignungsprüfung (§ 7 und § 7b Absatz 1 und 2),
 
-2. die sachdienlichen Ermittlungen (§ 7a Absatz 1 und 2),
+2. die sachdienlichen Ermittlungen (§ 7a Absatz 1 und 2),
 
 3. die länderspezifische Eignungsprüfung (§ 7c Absatz 1 und 2),
 
@@ -319,7 +319,7 @@ Mit Zustimmung einer anderen Adoptionsvermittlungsstelle (§ 2 Absatz 1 und 3, �
 
 4. es sich um den abgebenden Elternteil handelt und dieser seinen gewöhnlichen Aufenthalt im Ausland hat.
 
-(4) Die Beratungspflicht nach Absatz 1 besteht nicht, wenn der annehmende Elternteil zum Zeitpunkt der Geburt des Kindes mit dem Elternteil des Kindes verheiratet ist. Die Beratungspflicht des annehmenden und des verbleibenden Elternteils bleibt bestehen, wenn das Kind im Ausland geboren wurde und der abgebende Elternteil seinen gewöhnlichen Aufenthalt im Ausland hat.
+(4) Die Beratungspflicht nach Absatz 1 besteht nicht, wenn der annehmende Elternteil zum Zeitpunkt der Geburt des Kindes mit dem Elternteil des Kindes verheiratet ist. Die Beratungspflicht des annehmenden und des verbleibenden Elternteils bleibt bestehen, wenn das Kind im Ausland geboren wurde und der abgebende Elternteil seinen gewöhnlichen Aufenthalt im Ausland hat.
 
 (5) In den Fällen des § 1766a des Bürgerlichen Gesetzbuchs gelten die Absätze 1 bis 4 entsprechend.
 
@@ -379,8 +379,6 @@ In den Fällen des Satzes 1 Nummer 6 dürfen die betroffenen Personen nicht kont
 
 (4) Bei der Übermittlung an eine ausländische Stelle oder an eine inländische nicht öffentliche Stelle weist die Bundeszentralstelle darauf hin, dass die Daten nur für den Zweck verarbeitet werden dürfen, zu dem sie übermittelt werden.
 
-(5) (weggefallen)
-
 # § 10 – Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
 
 (1) Die Adoptionsvermittlungsstelle hat die zentrale Adoptionsstelle des Landesjugendamtes zu unterrichten, wenn ein Kind nicht innerhalb von drei Monaten nach Abschluss der bei ihm durchgeführten Ermittlungen Adoptionsbewerbern mit dem Ziel der Adoption in Pflege gegeben werden kann. Die Unterrichtung ist nicht erforderlich, wenn bei Fristablauf sichergestellt ist, dass das Kind in Adoptionspflege gegeben wird.
@@ -418,8 +416,6 @@ Ersatzmutter ist eine Frau, die auf Grund einer Vereinbarung bereit ist,
 2. einen nicht von ihr stammenden Embryo auf sich übertragen zu lassen oder sonst auszutragen
 
 und das Kind nach der Geburt Dritten zur Adoption oder zur sonstigen Aufnahme auf Dauer zu überlassen.
-
-§ 13a Schlusssatz (Kursivdruck): Müsste richtig "Kind" lauten, vgl. Art. 1 Nr. 6 G v. 27.11.1989 I 2014
 
 # § 13b – Ersatzmuttervermittlung
 
@@ -478,5 +474,3 @@ Vom Zeitpunkt des Inkrafttretens einer Änderung dieses Gesetzes an richtet sich
 # § 16 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 30. September 2026 einen Bericht über die Auswirkungen der §§ 2a, 2b, 2c, 2d, 8a, 8b und 9a sowie über die gegebenenfalls notwendigen Anpassungen dieser Vorschriften vor. Der Bericht darf keine personenbezogenen Daten enthalten.
-
-# §§ 17 bis 22 – (weggefallen)

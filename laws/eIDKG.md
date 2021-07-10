@@ -351,6 +351,8 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Beneh
 
 8. die Einzelheiten zur Nutzung des elektronischen Identitätsnachweises und des Vor-Ort-Auslesens zu regeln,
 
+8a. die Einzelheiten zur Einrichtung und zur Nutzung des elektronischen Identitätsnachweises mit einem mobilen Endgerät, sowie zu den technischen Anforderungen an mobile Endgeräte nach § 2 Absatz 11 zu regeln,
+
 9. die Einzelheiten
 
 a) der Geheimnummer, einschließlich des Verfahrens des Neusetzens der Geheimnummer durch den Kartenhersteller nach elektronisch gestelltem Antrag,
@@ -364,6 +366,8 @@ festzulegen,
 10. die sicherheitstechnischen Rahmenbedingungen festzulegen, die vorliegen müssen, damit öffentliche und private Stellen ein Benutzerkonto nach § 14 in Verbindung mit § 19 Absatz 5 des Personalausweisgesetzes anlegen und betreiben dürfen,
 
 11. die Einzelheiten der Vergabe der Berechtigungen und der Berechtigungszertifikate festzulegen.
+
+In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
 
 # § 26 – Übergangsvorschrift
 
