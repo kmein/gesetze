@@ -5068,6 +5068,8 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 (10) ¹Das Bundeszentralamt für Steuern speichert die nach den Absätzen 4 bis 6 und 9 übermittelten Daten zur Ermittlung der auf die Kapitalerträge einbehaltenen und abgeführten Kapitalertragsteuer und analysiert diese im Hinblick auf missbräuchliche Steuergestaltungsmodelle, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit erheblicher Bedeutung zum Gegenstand haben. ²Es darf dazu auch ihm nach Maßgabe dieser Absätze übermittelte personenbezogene Daten verarbeiten, soweit dies zur Erfüllung der Aufgabe nach Satz 1 erforderlich ist.
 
+(+++ § 45b: Zur Anwendung vgl. § 52 +++)
+
 # § 45c – Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer
 
 (1) ¹Die die Kapitalerträge auszahlende Stelle hat dem Bundeszentralamt für Steuern bis zum 31. Juli des auf den Zufluss der Kapitalerträge folgenden Kalenderjahres folgende Daten zu übermitteln:
@@ -5508,7 +5510,7 @@ c) in den Fällen des § 46 Absatz 2 Nummer 2, 5 und 5a;
 
 (5) ¹Der Freistellungsantrag und der Erstattungsantrag sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. ²Der Antragsteller hat durch eine Bestätigung der für ihn zuständigen Steuerbehörde des anderen Staates nachzuweisen, dass er dort ansässig ist oder in den Fällen des § 43b Absatz 1 Satz 1 zweite Alternative oder des § 50g Absatz 1 Satz 1 letzte Alternative dort eine Betriebsstätte hat. ³Zur Vermeidung unbilliger Härten kann das Bundeszentralamt für Steuern auf Antrag auf eine Übermittlung gemäß Satz 1 verzichten; in diesem Fall ist der Freistellungsantrag oder der Erstattungsantrag nach amtlich vorgeschriebenem Vordruck zu stellen. ⁴Die Entscheidung über einen Freistellungsantrag und die Entscheidung über einen Erstattungsantrag werden zum Datenabruf über die amtlich bestimmte Schnittstelle bereitgestellt, es sei denn, der Antrag war nach amtlich vorgeschriebenem Vordruck zu stellen; § 122a Absatz 3 und 4 der Abgabenordnung ist entsprechend anzuwenden.
 
-(+++ § 50c: Zur Anwendung vgl. § 52 +++)
+(+++ § 50c: Zur Anwendung vgl. §§ 44a u. 52 +++)
 
 # § 50d – Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
 
@@ -5560,7 +5562,7 @@ c) in den Fällen des § 46 Absatz 2 Nummer 2, 5 und 5a;
 
 (13) Werden Aktien einer Gesellschaft mit Sitz oder Geschäftsleitung im Inland mit Dividendenberechtigung erworben, aber ohne Dividendenanspruch geliefert, sind vom Erwerber an Stelle von Dividenden erhaltene sonstige Bezüge für Zwecke der Anwendung eines Abkommens zur Vermeidung der Doppelbesteuerung den Dividenden, die von dieser Gesellschaft gezahlt werden, gleichgestellt.
 
-(+++ § 50d: Zur Anwendung vgl. § 52 +++)
+(+++ § 50d: Zur Anwendung vgl. §§ 44a u. 52 +++)
 
 # § 50e – Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten
 
@@ -5587,6 +5589,8 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundeszentralamt für Steuern.
 
 (6) ¹Liegen die Voraussetzungen des § 40a Absatz 2 vor, werden Steuerstraftaten (§§ 369 bis 376 der Abgabenordnung) als solche nicht verfolgt, wenn der Arbeitgeber in den Fällen des § 8a des Vierten Buches Sozialgesetzbuch entgegen § 41a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 2 und 3 und § 51a, und § 40a Absatz 6 Satz 3 dieses Gesetzes in Verbindung mit § 28a Absatz 7 Satz 1 des Vierten Buches Sozialgesetzbuch für das Arbeitsentgelt die Lohnsteuer-Anmeldung und die Anmeldung der einheitlichen Pauschsteuer nicht oder nicht rechtzeitig durchführt und dadurch Steuern verkürzt oder für sich oder einen anderen nicht gerechtfertigte Steuervorteile erlangt. ²Die Freistellung von der Verfolgung nach Satz 1 gilt auch für den Arbeitnehmer einer in Satz 1 genannten Beschäftigung, der die Finanzbehörde pflichtwidrig über steuerlich erhebliche Tatsachen aus dieser Beschäftigung in Unkenntnis lässt. ³Die Bußgeldvorschriften der §§ 377 bis 384 der Abgabenordnung bleiben mit der Maßgabe anwendbar, dass § 378 der Abgabenordnung auch bei vorsätzlichem Handeln anwendbar ist.
+
+(+++ § 50e: Zur Anwendung vgl. § 52 +++)
 
 # § 50f – Bußgeldvorschriften
 
@@ -5956,7 +5960,7 @@ und die Muster der Bescheinigungen für den Lohnsteuerabzug nach § 39 Absatz 3 
 
 2. den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum und in neuer Paragraphenfolge bekannt zu machen und dabei Unstimmigkeiten im Wortlaut zu beseitigen.
 
-(+++ § 51: Zur Anwendung vgl. § 52 Abs. 59e F. 26.6.2013 +++)  
+(+++ § 51: Zur Anwendung vgl. § 52 +++)  
 § 51 Abs. 1 Nr. 2 Buchst. w Satz 1 bis 3: Änderung gem. Art. 8 Nr. 34 Buchst. a DBuchst. aa G v. 20.12.1996 I 2049 mWv 28.12.1996 mit GG nach Maßgabe der Entscheidungsformel vereinbar gem. BVerfGE v. 3.12.1997, 1998 I 725 - 2 BvR 882/97 -
 
 # § 51a – Festsetzung und Erhebung von Zuschlagsteuern

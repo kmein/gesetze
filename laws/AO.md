@@ -4528,7 +4528,8 @@ Die Rechte und Pflichten der für die Besteuerung des Steuerpflichtigen zuständ
 
 4. Datenübermittlungspflichten ausländischer öffentlicher Stellen.
 
-(+++ § 93c: Zur Anwendung vgl. Art. 97 §§ 1 u. 27 AOEG 1977 +++)
+(+++ § 93c: Zur Anwendung vgl. Art. 97 §§ 1 u. 27 AOEG 1977 +++)  
+(+++ § 93c Abs. 3: Zur Anwendung vgl. § 45b Abs. 8 Nr. 1 EStG +++)
 
 # § 93d – Verordnungsermächtigung
 
@@ -4964,7 +4965,8 @@ so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfe
 
 (5) Entscheidet sich die Finanzbehörde, den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Datenabruf bereitzustellen, gelten abweichend von § 9 Absatz 1 Satz 3 bis 6 des Onlinezugangsgesetzes die Regelungen des Absatzes 4.
 
-(+++ § 122a: Zur Anwendung vgl. Art. 97 §§ 1 u. 28 AOEG 1977 +++)
+(+++ § 122a: Zur Anwendung vgl. Art. 97 §§ 1 u. 28 AOEG 1977 +++)  
+(+++ § 122a Abs. 3 u. 4: Zur Anwendung vgl. § 50c Abs. 5 EStG +++)
 
 # § 123 – Bestellung eines Empfangsbevollmächtigten
 
@@ -6500,7 +6502,8 @@ beginnt die Festsetzungsfrist frühestens mit Ablauf des Kalenderjahres, in dem 
 (15) Soweit ein Dritter Steuern für Rechnung des Steuerschuldners einzubehalten und abzuführen oder für Rechnung des Steuerschuldners zu entrichten hat, endet die Festsetzungsfrist gegenüber dem Steuerschuldner nicht vor Ablauf der gegenüber dem Steuerentrichtungspflichtigen geltenden Festsetzungsfrist.
 
 (+++ § 171: Zur Anwendung vgl. Art. 97 §§ 1 u. 27 AOEG 1977 +++)  
-(+++ § 171: Zur Geltung vgl. Art. 97 §§ 10 u. 11a AOEG 1977 +++)
+(+++ § 171: Zur Geltung vgl. Art. 97 §§ 10 u. 11a AOEG 1977 +++)  
+(+++ § 171 Abs. 10a: Zur Anwendung vgl. § 45b Abs. 8 Nr. 2 EStG +++)
 
 # § 172 – Aufhebung und Änderung von Steuerbescheiden
 
