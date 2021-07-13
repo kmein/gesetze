@@ -990,6 +990,8 @@ Die erste Fortschreibung des Wohngeldes erfolgt zum 1. Januar 2022.
 
 (Fundstelle: BGBl. I 2019, 1881)
 
+(+++ Hinweis: Höchstbeträge für Miete und Belastung für die Zeit ab 1.1.2022 vgl. Art. 1 Nr. 2 V v. 3.6.2021 I 1369 (1. WoGFV) +++)
+
 # Anlage 2 – (zu § 19 Absatz 1)
 
 (Fundstelle: BGBl. I 2019, 1882)
@@ -1029,6 +1031,8 @@ mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
   
   
+
+(+++ Hinweis: Werte für "b" und "c" für die Zeit ab 1.1.2022 vgl. Art. 1 Nr. 2 V v. 3.6.2021 I 1369 (1. WoGFV) +++)
 
 # Anlage 3 – (zu § 19 Absatz 2)
 
