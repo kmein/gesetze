@@ -103,6 +103,8 @@ f) Vor- und Nachname sowie die Kontaktdaten der mit der Registrierung betrauten 
 
 (5) Die Registerbehörde macht weitere Vorgaben zu dem Verfahren, das für die Übermittlung von Angaben und Erklärungen zur Registrierung und die Mitteilung nachträglich eingetretener Änderungen nach Absatz 4 einzuhalten ist. Dazu gehören insbesondere Vorgaben zur Nutzung eines sicheren Verfahrens nach § 1 Absatz 2 und 3. Die Registerbehörde kann Vorgaben zu dem für die Anmeldung am Portal zu verwendenden Authentifizierungsmittel und zu den mit der Portalnutzung verbundenen Pflichten machen.
 
+(+++ § 2: Zur Anwendung vgl. § 3 Abs. 2 +++)
+
 # § 3 – Nutzung der amtlichen Schnittstelle
 
 (1) Hat die Registerbehörde eine amtliche Schnittstelle nach § 1 Absatz 3 Nummer 2 eingerichtet, kann die Registerbehörde diese mitteilungspflichtigen Behörden, öffentlichen Auftraggebern im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und amtlichen Verzeichnisstellen zur Nutzung zur Verfügung stellen.

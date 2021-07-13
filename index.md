@@ -4342,6 +4342,7 @@
 - [PflegeStatV](laws/PflegeStatV.md) Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege
 - [PflegeVG](laws/PflegeVG.md) Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit
 - [PflegeZG](laws/PflegeZG.md) Gesetz über die Pflegezeit
+- [PflGesG](laws/PflGesG.md) Gesetz zur Durchführung der Verordnung (EU) 2016/2031 und der Verordnung (EU) 2017/625 im Bereich Pflanzengesundheit
 - [PflKartV 1986](laws/PflKartV_1986.md) Pflanzkartoffelverordnung
 - [PflNV](laws/PflNV.md) Verordnung zur Neuordnung des Pflegesatzrechts
 - [PflSchAbk](laws/PflSchAbk.md) Internationales Pflanzenschutzabkommen
@@ -4589,7 +4590,7 @@
 - [RegMoG](laws/RegMoG.md) Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung und zur Änderung weiterer Gesetze
 - [RegZensErpG](laws/RegZensErpG.md) Gesetz zur Erprobung von Verfahren eines Registerzensus
 - [RehaErstV](laws/RehaErstV.md) Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation
-- [ReifKennzV](laws/ReifKennzV.md) Verordnung zur Durchführung der Kennzeichnung der Kraftstoffeffizienz, des Rollgeräuschs und der Nasshaftungsklasse von Reifen
+- [ReifKennzV](laws/ReifKennzV.md) Verordnung zur Durchführung der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter
 - [ReiseKfmAusbV 2011](laws/ReiseKfmAusbV_2011.md) Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)*)
 - [REITG](laws/REITG.md) Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen
 - [RennwLottG](laws/RennwLottG.md) Rennwett- und Lotteriegesetz

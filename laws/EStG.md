@@ -2591,6 +2591,8 @@ In den Fällen des Satzes 1 sind für die zu besteuernden Arbeitslöhne § 34 Ab
 
 (6) Der nach Absatz 1 nicht besteuerte gemeine Wert der Vermögensbeteiligung und die übrigen Angaben des nach den vorstehenden Absätzen durchgeführten Besteuerungsverfahrens sind vom Arbeitgeber im Lohnkonto aufzuzeichnen. Die Aufbewahrungsfrist nach § 41 Absatz 1 Satz 9 endet insoweit nicht vor Ablauf von sechs Jahren nach der Besteuerung im Sinne des Absatzes 4 Satz 1.
 
+(+++ § 19a: Zur Anwendung vgl. § 52 +++)
+
 # § 20
 
 (1) Zu den Einkünften aus Kapitalvermögen gehören
@@ -3659,7 +3661,8 @@ Prozent des Gesamtbetrags der Einkünfte.
 
 (3) ¹Sind in dem zu versteuernden Einkommen außerordentliche Einkünfte im Sinne des Absatzes 2 Nummer 1 enthalten, so kann auf Antrag abweichend von Absatz 1 die auf den Teil dieser außerordentlichen Einkünfte, der den Betrag von insgesamt 5 Millionen Euro nicht übersteigt, entfallende Einkommensteuer nach einem ermäßigten Steuersatz bemessen werden, wenn der Steuerpflichtige das 55. Lebensjahr vollendet hat oder wenn er im sozialversicherungsrechtlichen Sinne dauernd berufsunfähig ist. ²Der ermäßigte Steuersatz beträgt 56 Prozent des durchschnittlichen Steuersatzes, der sich ergäbe, wenn die tarifliche Einkommensteuer nach dem gesamten zu versteuernden Einkommen zuzüglich der dem Progressionsvorbehalt unterliegenden Einkünfte zu bemessen wäre, mindestens jedoch 14 Prozent. ³Auf das um die in Satz 1 genannten Einkünfte verminderte zu versteuernde Einkommen (verbleibendes zu versteuerndes Einkommen) sind vorbehaltlich des Absatzes 1 die allgemeinen Tarifvorschriften anzuwenden. ⁴Die Ermäßigung nach den Sätzen 1 bis 3 kann der Steuerpflichtige nur einmal im Leben in Anspruch nehmen. ⁵Erzielt der Steuerpflichtige in einem Veranlagungszeitraum mehr als einen Veräußerungs- oder Aufgabegewinn im Sinne des Satzes 1, kann er die Ermäßigung nach den Sätzen 1 bis 3 nur für einen Veräußerungs- oder Aufgabegewinn beantragen. ⁶Absatz 1 Satz 4 ist entsprechend anzuwenden.
 
-(+++ § 34: Zur Anwendung vgl. §§ 22, 52 +++)
+(+++ § 34: Zur Anwendung vgl. §§ 22, 52 +++)  
+(+++ § 34 Abs. 1: Zur Anwendung vgl. § 19a +++)
 
 # § 34a – Begünstigung der nicht entnommenen Gewinne
 
@@ -4270,7 +4273,9 @@ ergibt den zu versteuernden Jahresbetrag. ⁶Für den zu versteuernden Jahresbet
 
 (6) ¹Das Bundesministerium der Finanzen hat im Einvernehmen mit den obersten Finanzbehörden der Länder auf der Grundlage der Absätze 2 und 3 einen Programmablaufplan für die maschinelle Berechnung der Lohnsteuer aufzustellen und bekannt zu machen. ²Im Programmablaufplan kann von den Regelungen in den Absätzen 2 und 3 abgewichen werden, wenn sich das Ergebnis der maschinellen Berechnung der Lohnsteuer an das Ergebnis einer Veranlagung zur Einkommensteuer anlehnt.
 
+(+++ § 39b: Zur Anwendung vgl. § 52 +++)  
 (+++ § 39b Abs. 2 S 5 (FG. 2015-07-23): Zur Anwendung vgl. §§ 52 Abs. 37b Satz 1 u. 2 (F. 2015-07-16) +++)  
+(+++ § 39b Abs. 3 Satz 9 u. 10: Zur Anwendung vgl. § 19a +++)  
 § 39b Abs. 2 Satz 5 Nr. 3 Schlusssatz Halbsatz 1 (Kursivdruck): Vor dem Wort "Entschädigungen" wurde die Satzbezeichnung abweichend vom Bundesgesetzblatt entfernt
 
 # § 39c – Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale
@@ -6204,7 +6209,7 @@ entstehen; Nummer 1 gilt nur bei Schiffen, deren Anschaffungs- oder Herstellungs
 
 (53) § 111 in der Fassung des Artikels 1 des Gesetzes vom 10. März 2021 (BGBl. I S. 330) ist für die Veranlagungszeiträume 2019 und 2020 anzuwenden.
 
-§ 52 Abs. 28 Satz 22 Kursivdruck: Schreibung des Wortes "Markpreis" in "Marktpreis" korrigiert
+§ 52 Abs. 28 Satz 24 (früher Satz 22) Kursivdruck: Schreibung des Wortes "Markpreis" in "Marktpreis" korrigiert
 
 # § 52a – (weggefallen)
 
