@@ -1743,6 +1743,8 @@ Das Zollkriminalamt hat insbesondere den Zeitpunkt, die Angaben, die die Festste
 
 (2) Die nach § 76 des Bundesdatenschutzgesetzes und unter Beachtung des Absatzes 1 generierten Protokolldaten sind nach zwölf Monaten zu löschen.
 
+(+++ § 91: Zur Anwendung vgl. § 21 Abs. 5 Satz 3 +++)
+
 # § 92 – Dokumentation bei verdeckten Maßnahmen
 
 (1) Bei der Erhebung von Daten nach den §§ 47, 62, 72, 77 und 78 sind zu dokumentieren:

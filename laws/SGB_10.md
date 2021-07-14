@@ -1920,7 +1920,7 @@ Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur Erfüllung der 
 
 11. zur Erfüllung der Aufgaben der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt,
 
-12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes,
+12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes sowie nach § 7 des Registerzensuserprobungsgesetzes zum Zwecke der Entwicklung von Verfahren für die zuverlässige Zuordnung von Personendatensätzen aus ihren Datenbeständen und von Verfahren der Qualitätssicherung eines Registerzensus,
 
 13. nach § 69a des Erneuerbare-Energien-Gesetzes zur Berechnung der Bruttowertschöpfung im Verfahren zur Begrenzung der EEG-Umlage,
 

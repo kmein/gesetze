@@ -1131,10 +1131,6 @@ Das Erfordernis der Prüfungstätigkeit ist erfüllt, wenn die Bewerbenden nachw
 
 # §§ 10, 10a und 11 – (weggefallen)
 
-# § 11a
-
-(weggefallen)
-
 # § 12 – Prüfungskommission und Gliederung der Prüfung
 
 (1) Die Prüfung wird vor der Prüfungskommission abgelegt.
@@ -1180,8 +1176,6 @@ Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 Für alle Zulassungs- und Prüfungsverfahren und für erfolglose Widerspruchsverfahren sind Gebühren an die Wirtschaftsprüferkammer zu zahlen; die Wirtschaftsprüferkammer kann die Erhebung der Gebühren sowie deren Höhe und Fälligkeit bestimmen. Näheres regelt die Gebührenordnung der Wirtschaftsprüferkammer (§ 61 Abs. 2).
 
 (+++ § 14a: Zur Anwendung vgl. § 135 (F 2003-12-01) +++)
-
-# §§ 14b und 14c – (weggefallen)
 
 # § 15 – Bestellungsbehörde
 
@@ -1286,9 +1280,7 @@ Im Verfahren wegen des Widerrufs der Bestellung nach § 20 Abs. 2 Nr. 3 ist § 1
 
 Über die Rücknahme und den Widerruf der Bestellung entscheidet die Wirtschaftsprüferkammer.
 
-# § 22
-
-(weggefallen)
+# § 22 – (weggefallen)
 
 # § 23 – Wiederbestellung
 
@@ -1304,17 +1296,11 @@ Im Verfahren wegen des Widerrufs der Bestellung nach § 20 Abs. 2 Nr. 3 ist § 1
 
 (3) Die Wiederbestellung ist zu versagen, wenn die Voraussetzungen für die Wiederbestellung unter sinngemäßer Anwendung des § 16 nicht vorliegen.
 
-# § 24
+# § 24 – (weggefallen)
 
-(weggefallen)
+# § 25 – (weggefallen)
 
-# § 25
-
-(weggefallen)
-
-# § 26
-
-(weggefallen)
+# § 26 – (weggefallen)
 
 # § 27 – Rechtsform
 
@@ -1404,13 +1390,9 @@ Erteilen Wirtschaftsprüfungsgesellschaften gesetzlich vorgeschriebene Bestätig
 
 (3) Über die Rücknahme und den Widerruf der Anerkennung entscheidet die Wirtschaftsprüferkammer.
 
-# § 35
+# § 35 – (weggefallen)
 
-(weggefallen)
-
-# § 36
-
-(weggefallen)
+# § 36 – (weggefallen)
 
 # § 36a – Untersuchungsgrundsatz, Mitwirkungspflicht, Datenübermittlung
 
@@ -1588,9 +1570,7 @@ Erkennt die Wirtschaftsprüferkammer, dass die Eintragung zu löschen ist, so is
 
 Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer, die aufgrund von Vorschriften des Dritten und Fünften Abschnitts des Zweiten Teils und § 134a Abs. 1 und 2 dieses Gesetzes erlassen worden sind, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
-# § 42
-
-(weggefallen)
+# § 42 – (weggefallen)
 
 # § 43 – Allgemeine Berufspflichten
 
@@ -2712,9 +2692,7 @@ Die Hauptverhandlung kann gegen Berufsangehörige, die nicht erschienen sind, du
 
 (2) Zu nichtöffentlichen Verhandlungen ist Vertretern der Landesjustizverwaltung, dem Präsidenten des Oberlandesgerichts oder seinem Beauftragten, den Beamten der Staatsanwaltschaft bei dem Oberlandesgericht, Vertretern des Bundesministeriums für Wirtschaft und Energie, Vertretern der Abschlussprüferaufsichtsstelle, Vertretern der Wirtschaftsprüferkammer und den Wirtschaftsprüfern der Zutritt gestattet. Die Kammer für Wirtschaftsprüfersachen kann nach Anhörung der Beteiligten auch andere Personen als Zuhörer zulassen.
 
-# § 100
-
-(weggefallen)
+# § 100 – (weggefallen)
 
 # § 101 – Beweisaufnahme durch einen ersuchten Richter
 
@@ -3028,10 +3006,6 @@ Soweit es für die Entscheidung über die Bestellung als Wirtschaftsprüfer der 
 
 des Herkunftsmitgliedstaats bedarf, genügt eine Bescheinigung oder Urkunde im Sinne des Artikels 50 Absatz 1 in Verbindung mit Anhang VII Nummer 1 Buchstabe d und e der Richtlinie 2005/36/EG.
 
-# § 131n
-
-(weggefallen)
-
 # § 132 – Verbot verwechslungsfähiger Berufsbezeichnungen; Siegelimitate
 
 (1) Untersagt ist
@@ -3128,7 +3102,7 @@ Entsprechendes gilt für Drittstaatsprüfer, wenn die Voraussetzungen entspreche
 
 # § 135 – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
-§ 54 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 54 in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+§ 43 Absatz 6 Satz 2 und § 54 in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 54 in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 # § 136 – Übergangsregelung für § 57a
 

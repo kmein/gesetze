@@ -1348,6 +1348,7 @@
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
+- [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
 - [CoronaPflegeVVerlV](laws/CoronaPflegeVVerlV.md) Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
@@ -1577,7 +1578,7 @@
 - [DüV](laws/DüV.md) Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen 2
 - [DVLStHV](laws/DVLStHV.md) Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine
 - [DVO-JuSchG](laws/DVO-JuSchG.md) Verordnung zur Durchführung des Jugendschutzgesetzes
-- [DVStB](laws/DVStB.md) Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+- [DVStB](laws/DVStB.md) Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften*)
 - [DVSUG](laws/DVSUG.md) Verordnung zur Durchführung des Seesicherheits-Untersuchungs-Gesetzes
 - [DW-SVV](laws/DW-SVV.md) Verordnung über den Zeitpunkt der Verlegung des Sitzes der Rundfunkanstalt des Bundesrechts Deutsche Welle von Köln nach Bonn
 - [DWDG](laws/DWDG.md) Gesetz über den Deutschen Wetterdienst
@@ -5239,7 +5240,7 @@
 - [StBerFAngEignV](laws/StBerFAngEignV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten im Bereich der Steuerberatung
 - [StBerG](laws/StBerG.md) Steuerberatungsgesetz
 - [StBerGÄndG 3](laws/StBerGÄndG_3.md) Drittes Gesetz zur Änderung des Steuerberatungsgesetzes
-- [StBVV](laws/StBVV.md) Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+- [StBVV](laws/StBVV.md) Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften*)
 - [STCW-Code](laws/STCW-Code.md) Entschließung 2 zu den Änderungen der Anlage des Internationalen Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 - [StDAV](laws/StDAV.md) Verordnung über den automatisierten Abruf von Steuerdaten
 - [SteinKAGSaarG](laws/SteinKAGSaarG.md) Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft

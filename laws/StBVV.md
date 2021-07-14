@@ -1,4 +1,4 @@
-% Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften  (Steuerberatervergütungsverordnung - StBVV)
+% Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften*)  (Steuerberatervergütungsverordnung - StBVV)
 % Ausfertigungsdatum: 17.12.1981
  
 # Eingangsformel

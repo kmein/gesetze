@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften  (DVStB)
+% Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften*)  (DVStB)
 % Ausfertigungsdatum: 12.11.1979
  
 # Eingangsformel
