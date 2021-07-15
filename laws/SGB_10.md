@@ -1948,7 +1948,7 @@ d) durch die Jugendämter für die Entscheidung über den weiteren Aufenthalt od
 
 3. für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j des Aufenthaltsgesetzes bezeichneten Mitteilungspflichten, wenn die Mitteilung die Erteilung, den Widerruf oder Beschränkungen der Zustimmung nach § 4 Absatz 2 Satz 1, § 16a Absatz 1 Satz 1 und § 18 Absatz 2 Nummer 2 des Aufenthaltsgesetzes oder eines Versicherungsschutzes oder die Gewährung von Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch betrifft,
 
-4. für die Erfüllung der in § 6 Absatz 1 Nummer 8 des Gesetzes über das Ausländerzentralregister bezeichneten Mitteilungspflichten,
+4. für die Erfüllung der in § 6 Absatz 1 Nummer 8 in Verbindung mit Absatz 2 Nummer 6 des Gesetzes über das Ausländerzentralregister bezeichneten Mitteilungspflichten,
 
 5. für die Erfüllung der in § 32 Absatz 1 Satz 1 und 2 des Staatsangehörigkeitsgesetzes bezeichneten Mitteilungspflichten oder
 
