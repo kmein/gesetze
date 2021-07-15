@@ -23,7 +23,7 @@ Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im rechts
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat verwaltet das Sondervermögen. Die Verwaltung der Mittel des Sondervermögens wird der Deutschen Bundesbank übertragen. Für die Verwaltung der Mittel werden keine Kosten erstattet.
 
-(2) Die dem Sondervermögen zufließenden Mittel einschließlich der Erträge werden unter Wahrung der Anlagegrundsätze Sicherheit, Liquidität und Rendite nach Maßgabe der Rechtsverordnung nach § 217 Satz 1 Nummer 6 des Versicherungsaufsichtsgesetzes in der Regel in handelbaren Schuldverschreibungen und in Aktien angelegt. Der Anteil an Aktien darf 20 Prozent des Sondervermögens nicht übersteigen. Änderungen der Marktpreise können vorübergehend zu einem höheren Anteil an Aktien führen.
+(2) Die dem Sondervermögen zufließenden Mittel einschließlich der Erträge werden unter Wahrung der Anlagegrundsätze Sicherheit, Liquidität und Rendite nach Maßgabe der Rechtsverordnung nach § 217 Satz 1 Nummer 6 des Versicherungsaufsichtsgesetzes in der Regel in handelbaren Schuldverschreibungen und in Aktien angelegt. Der Anteil an Aktien darf 30 Prozent des Sondervermögens nicht übersteigen. Änderungen der Marktpreise können vorübergehend zu einem höheren Anteil an Aktien führen.
 
 # § 5a – Anlagerichtlinien und Anlageausschuss
 

@@ -1,13 +1,13 @@
-% Gesetz über die Conterganstiftung für behinderte Menschen  (Conterganstiftungsgesetz - ContStifG)
+% Gesetz über die Conterganstiftung  (Conterganstiftungsgesetz - ContStifG)
 % Ausfertigungsdatum: 13.10.2005
  
 # § 1 – Name der Stiftung
 
-Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S. 2045) (im Folgenden: Errichtungsgesetz), zuletzt geändert durch Artikel 19 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022), errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen "Conterganstiftung für behinderte Menschen".
+Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S. 2045) (im Folgenden: Errichtungsgesetz), zuletzt geändert durch Artikel 19 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022), errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen "Conterganstiftung".
 
 # § 2 – Stiftungszweck
 
-Zweck der Stiftung ist es, behinderten Menschen, deren Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen (früher Chemie Grünenthal GmbH in Stolberg), durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können,
+Zweck der Stiftung ist es, Menschen mit Behinderung, deren Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen (früher Chemie Grünenthal GmbH in Stolberg), durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können,
 
 1. Leistungen zu erbringen und
 
@@ -27,9 +27,13 @@ Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke 
 
 3. einer Zuwendung von 50 Millionen Euro der Grünenthal GmbH, die am 15. Juli 2009 zu leisten ist;
 
-4. den Mitteln in Höhe von 51 129 000 Euro, die der Bund nach § 4 Abs. 1 Nr. 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+4. den Mitteln in Höhe von 51 129 000 Euro, die der Bund nach § 4 Abs. 1 Nr. 1 des Errichtungsgesetzes zur Verfügung gestellt hat, sowie aus den Mitteln, die der Bund für bis zum Ablauf des 30. Juni 2022 noch nicht rechtskräftig beschiedene Anträge gemäß § 13 Absatz 4 Satz 4 zur Verfügung stellt;
 
-5. den Zuwendungen nach Absatz 2
+5. dem Kapitalstock in Höhe von 1,5 Millionen Euro, die der Bund nach § 4 Absatz 1 Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+
+6. Mitteln in Höhe von 5 Millionen Euro, die der Bund nach § 4 Absatz 1 Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+
+7. den Zuwendungen nach Absatz 2
 
 und dem daraus erwirtschafteten Vermögen.
 
@@ -111,11 +115,11 @@ b) die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und die d
 
 # § 12 – Leistungsberechtigte Personen
 
-(1) Leistungen wegen Fehlbildungen, die mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen, durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können, werden an die behinderten Menschen gewährt, die bei Inkrafttreten des Errichtungsgesetzes lebten, und nach Maßgabe des § 13 Abs. 5 Satz 2 an deren Erbinnen und Erben.
+(1) Leistungen wegen Fehlbildungen, die mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen, durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können, werden an die Leistungsberechtigten gewährt, die bei Inkrafttreten des Errichtungsgesetzes lebten, und nach Maßgabe des § 13 Abs. 5 Satz 2 an deren Erbinnen und Erben.
 
 (2) Wurden Leistungen nach § 13 des Errichtungsgesetzes nicht innerhalb der dort vorgesehenen Frist geltend gemacht, können die Conterganrente und eine Kapitalentschädigung für die Zeit ab 1. Juli 2009 beantragt werden.
 
-# § 13 – Art und Umfang der Leistungen an behinderte Menschen
+# § 13 – Art und Umfang der Leistungen
 
 (1) Den in § 12 genannten leistungsberechtigten Personen stehen als Leistungen zu:
 
@@ -125,9 +129,9 @@ b) die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und die d
 
 3. jährliche Leistungen zur Deckung spezifischer Bedarfe und
 
-4. eine jährliche Sonderzahlung, die erstmals für das Jahr 2009 gewährt wird.
+4. eine jährliche Sonderzahlung, die erstmals für das Jahr 2009 und letztmalig für das Jahr 2022 gewährt wird.
 
-Die jährlichen Leistungen zur Deckung spezifischer Bedarfe, zur Förderung multidisziplinärer medizinischer Kompetenzzentren und die jährlichen Sonderzahlungen werden nur geleistet, soweit dafür Mittel nach § 11 Satz 2 Nummer 1 und 2 im Stiftungsvermögen vorhanden sind.
+Die jährlichen Leistungen zur Deckung spezifischer Bedarfe, zur Förderung multidisziplinärer medizinischer Kompetenzzentren und die jährlichen Sonderzahlungen werden nur geleistet, soweit dafür Mittel nach § 11 Satz 2 Nummer 1 und 2 im Stiftungsvermögen vorhanden sind. Als jährliche Sonderzahlung werden im Jahr 2022 die gemäß § 11 Satz 2 Nummer 1 insgesamt für die jährlichen Sonderzahlungen zur Verfügung stehenden Mittel bis einschließlich 30. Juni 2022 an die leistungsberechtigten Personen ausgezahlt.
 
 (2) Die Höhe der in Absatz 1 genannten Leistungen richtet sich nach der Schwere des Körperschadens und der hierdurch hervorgerufenen Körperfunktionsstörungen und liegt
 
@@ -139,9 +143,9 @@ Die jährlichen Leistungen zur Deckung spezifischer Bedarfe, zur Förderung mult
 
 In leichten Fällen sind die Leistungen auf die Kapitalentschädigung zu beschränken. Die Höhe der Conterganrente wird durch das Bundesministerium für Familie, Senioren, Frauen und Jugend jeweils entsprechend dem Prozentsatz angepasst, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Die Anpassung nach Satz 4 erfolgt jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
-(3) Auf Antrag ist die Conterganrente zu kapitalisieren, soweit der Betrag zum Erwerb oder zur wirtschaftlichen Stärkung eigenen Grundbesitzes zu eigenen Wohnzwecken verwendet wird. Die §§ 72, 73, 74 Abs. 3 Satz 1, §§ 75, 76 und 77 Abs. 1 Satz 3 und Abs. 3 des Bundesversorgungsgesetzes finden entsprechende Anwendung. § 75 Abs. 1 Satz 2 des Bundesversorgungsgesetzes findet mit der Maßgabe Anwendung, dass die Veräußerung und Belastung des mit der Kapitalabfindung erworbenen oder wirtschaftlich gestärkten Grundstücks, Erbbaurechts, Wohnungseigentums oder Wohnungserbbaurechts innerhalb der Frist, für die die Conterganrente kapitalisiert wurde, nur mit Genehmigung der Stiftung zulässig sind. Die Kosten der Eintragung einer Verfügungsbeschränkung gemäß § 75 Abs. 1 Satz 2 bis 4 des Bundesversorgungsgesetzes in das Grundbuch trägt die leistungsberechtigte Person. Darüber hinaus ist die Conterganrente auf Antrag zu kapitalisieren, wenn dies im berechtigten wirtschaftlichen Interesse des behinderten Menschen liegt. Im Übrigen kann die Conterganrente auf Antrag teilweise kapitalisiert werden, wenn dies im Interesse des behinderten Menschen liegt. Die Kapitalisierung ist auf die für einen Zeitraum von höchstens zehn Jahren zustehende Conterganrente beschränkt. Der Anspruch auf Conterganrente, an deren Stelle die Kapitalabfindung tritt, erlischt für die Dauer des Zeitraumes, für den die Kapitalabfindung gewährt wird, mit Ablauf des Monats, der auf den Monat der Auszahlung der Abfindung folgt.
+(3) Auf Antrag ist die Conterganrente zu kapitalisieren, soweit der Betrag zum Erwerb oder zur wirtschaftlichen Stärkung eigenen Grundbesitzes zu eigenen Wohnzwecken verwendet wird. Die §§ 72, 73, 74 Abs. 3 Satz 1, §§ 75, 76 und 77 Abs. 1 Satz 3 und Abs. 3 des Bundesversorgungsgesetzes finden entsprechende Anwendung. § 75 Abs. 1 Satz 2 des Bundesversorgungsgesetzes findet mit der Maßgabe Anwendung, dass die Veräußerung und Belastung des mit der Kapitalabfindung erworbenen oder wirtschaftlich gestärkten Grundstücks, Erbbaurechts, Wohnungseigentums oder Wohnungserbbaurechts innerhalb der Frist, für die die Conterganrente kapitalisiert wurde, nur mit Genehmigung der Stiftung zulässig sind. Die Kosten der Eintragung einer Verfügungsbeschränkung gemäß § 75 Abs. 1 Satz 2 bis 4 des Bundesversorgungsgesetzes in das Grundbuch trägt die leistungsberechtigte Person. Darüber hinaus ist die Conterganrente auf Antrag zu kapitalisieren, wenn dies im berechtigten wirtschaftlichen Interesse der leistungsberechtigten Person liegt. Im Übrigen kann die Conterganrente auf Antrag teilweise kapitalisiert werden, wenn dies im Interesse der leistungsberechtigten Person liegt. Die Kapitalisierung ist auf die für einen Zeitraum von höchstens zehn Jahren zustehende Conterganrente beschränkt. Der Anspruch auf Conterganrente, an deren Stelle die Kapitalabfindung tritt, erlischt für die Dauer des Zeitraumes, für den die Kapitalabfindung gewährt wird, mit Ablauf des Monats, der auf den Monat der Auszahlung der Abfindung folgt.
 
-(4) Die Zahlungen der Conterganrente beginnen frühestens mit dem Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem Inkrafttreten des Errichtungsgesetzes gestellt, so wird die Conterganrente vom Zeitpunkt des Inkrafttretens an gewährt. Die jährlichen Sonderzahlungen beginnen nach Maßgabe des Absatzes 1 Satz 1 mit dem Jahr, in dem der Antrag auf Conterganrente gestellt worden ist. Die Zahlung der jährlichen Leistungen zur Deckung spezifischer Bedarfe nach Absatz 1 Satz 1 Nummer 3 beginnt ab dem 1. Januar 2017.
+(4) Die Zahlungen der Conterganrente beginnen frühestens mit dem Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem Inkrafttreten des Errichtungsgesetzes gestellt, so wird die Conterganrente vom Zeitpunkt des Inkrafttretens an gewährt. Die jährlichen Sonderzahlungen beginnen nach Maßgabe des Absatzes 1 Satz 1 mit dem Jahr, in dem der Antrag auf Conterganrente gestellt worden ist. Für die Auszahlung der Mittel für die jährlichen Sonderzahlungen nach Absatz 1 Satz 3 werden Anträge auf Leistungen nach diesem Gesetz oder Anträge auf Erhöhung der Leistungen nach diesem Gesetz berücksichtigt, die bis einschließlich 31. Dezember 2021 gestellt worden sind. Die Zahlung der jährlichen Leistungen zur Deckung spezifischer Bedarfe nach Absatz 1 Satz 1 Nummer 3 beginnt ab dem 1. Januar 2017.
 
 (5) Die Ansprüche auf die in Absatz 1 genannten Leistungen können nicht übertragen, verpfändet oder gepfändet werden. Vererblich sind lediglich Ansprüche auf Kapitalentschädigung, auf Conterganrente und auf die jährliche Sonderzahlung, die im Zeitpunkt des Todes der leistungsberechtigten Person bereits fällig geworden sind, und zwar nur dann, wenn die Person von ihrem Ehegatten, ihrer Lebenspartnerin oder ihrem Lebenspartner, ihren Kindern oder ihren Eltern beerbt wird.
 
@@ -163,7 +167,7 @@ Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2 Prozent 
 
 # § 16 – Gang des Verfahrens
 
-(1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die Ansprüche auf vorsätzlich unrichtigen oder vorsätzlich unvollständigen Angaben der leistungsberechtigten Person beruhen. Die Anrechnung von Zahlungen gemäß § 15 Absatz 2 bleibt unberührt. Die jährlichen Sonderzahlungen und die jährlichen Leistungen zur Deckung spezifischer Bedarfe werden auch ohne Antrag an die Personen geleistet, die eine Conterganrente erhalten.
+(1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die Ansprüche auf vorsätzlich unrichtigen oder vorsätzlich unvollständigen Angaben der leistungsberechtigten Person beruhen. Das Gleiche gilt für die Aberkennung von Schadenspunkten, die gemäß Anlage 2 zu den Richtlinien für die Gewährung von Leistungen wegen Conterganschadensfällen anerkannt wurden. Die Anrechnung von Zahlungen gemäß § 15 Absatz 2 bleibt unberührt. Die jährlichen Sonderzahlungen und die jährlichen Leistungen zur Deckung spezifischer Bedarfe werden auch ohne Antrag an die Personen geleistet, die eine Conterganrente erhalten.
 
 (2) Eine aus mindestens fünf Mitgliedern bestehende Kommission, die beim Stiftungsvorstand einzurichten ist, entscheidet darüber, ob ein Schadensfall nach diesem Abschnitt vorliegt und bewertet den Schaden nach Maßgabe der Richtlinien.
 
@@ -189,9 +193,11 @@ Leistungen nach diesem Abschnitt sind einkommensteuerfrei. Ansprüche auf solche
 
 Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
-1. die Erträge aus den Mitteln nach § 4 Abs. 1 Nr. 3, die nicht unter § 11 Satz 2 Nr. 1 fallen;
+1. die Erträge aus den Mitteln nach § 4 Absatz 1 Nummer 5;
 
-2. Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende etwas anderes bestimmt hat.
+2. die Mittel nach § 4 Absatz 1 Nummer 6 und die daraus erzielten Erträge;
+
+3. Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende etwas anderes bestimmt hat.
 
 # § 20 – Förderungsmaßnahmen
 
@@ -225,4 +231,4 @@ werden diese auf Leistungen nach § 13 Absatz 1 Satz 1 Nummer 3 angerechnet.
 
 # § 25 – Bericht
 
-Die Bundesregierung legt dem Deutschen Bundestag erstmalig nach zwei Jahren einen Bericht über die Auswirkungen dieses Gesetzes sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften, soweit möglich unter Nachweis der Verwendung der Mittel für spezifische Bedarfe durch die Betroffenen, vor. Der Bericht soll insbesondere auch eine Evaluation über die Struktur der Stiftung beinhalten. Danach erfolgt eine Berichtsvorlage im Abstand von vier Jahren. Der Bericht darf keine personenbezogenen Daten enthalten.
+Die Bundesregierung legt dem Deutschen Bundestag im Abstand von vier Jahren einen Bericht über die Auswirkungen dieses Gesetzes sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften vor. Der Bericht darf keine personenbezogenen Daten enthalten.

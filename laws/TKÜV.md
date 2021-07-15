@@ -147,7 +147,7 @@ das vom Verpflichteten zu vergebende eindeutige, auch nichtnumerische Zuordnungs
 
 Satz 1 Nummer 1 und 5 gilt nicht für Netzknoten, die der Vermittlung eines öffentlich zugänglichen Telefondienstes ins Ausland dienen. Satz 1 Nummer 1 und 2 gilt nicht im Hinblick auf Vorkehrungen zur Erfüllung der Verpflichtung aus § 110 Absatz 1 Satz 1 Nummer 1a des Telekommunikationsgesetzes.
 
-(3) § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 2 Absatz 1 Satz 3 des Artikel 10-Gesetzes, § 72 Absatz 7 des Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes sowie die Vorschriften des Landesrechts über Maßnahmen zur Überwachung der Telekommunikation bleiben von den Absätzen 1 und 2 unberührt.
+(3) § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 2 Absatz 1a Satz 1 Nummer 1 bis 3 des Artikel 10-Gesetzes, § 72 Absatz 7 des Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes sowie die Vorschriften des Landesrechts über Maßnahmen zur Überwachung der Telekommunikation bleiben von den Absätzen 1 und 2 unberührt.
 
 # § 4 – Grenzen des Anwendungsbereichs
 
