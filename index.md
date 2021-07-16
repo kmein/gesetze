@@ -3729,6 +3729,7 @@
 - [MTBG](laws/MTBG.md) Gesetz über die Berufe in der medizinischen Technologie
 - [MtDFmEloAufklVDV](laws/MtDFmEloAufklVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
 - [MTSKraftV](laws/MTSKraftV.md) Verordnung zur Markttransparenzstelle für Kraftstoffe
+- [MüG](laws/MüG.md) Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten
 - [MühGetreiWiTechAusbV](laws/MühGetreiWiTechAusbV.md) Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft*
 - [MüMstrV](laws/MüMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Müller-Handwerk
 - [MündelPfandBrV](laws/MündelPfandBrV.md) Verordnung über die Mündelsicherheit der Pfandbriefe und verwandten Schuldverschreibungen
@@ -5230,7 +5231,7 @@
 - [StaRUG](laws/StaRUG.md) Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen
 - [StatRegG](laws/StatRegG.md) Gesetz über den Aufbau und die Führung eines Statistikregisters
 - [StAuskV](laws/StAuskV.md) Verordnung zur Durchführung von § 89 Abs. 2 der Abgabenordnung
-- [StBAG](laws/StBAG.md) Steuerbeamten-Ausbildungsgesetz
+- [StBAG](laws/StBAG.md) Steuerbeamtenausbildungsgesetz
 - [StBAPO](laws/StBAPO.md) Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten
 - [StBDVÄndV 2](laws/StBDVÄndV_2.md) Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 - [StBefrAbk HRV](laws/StBefrAbk_HRV.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen Verkehr
