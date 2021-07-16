@@ -182,25 +182,23 @@ Die Impfzentren einschließlich der mobilen Impfteams sind wirtschaftlich zu bet
 
 # § 8 – Großhandelsvergütung für Impfstoffe
 
-(1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler für den Zeitraum vom 1. April 2021 bis zum Ablauf des 30. Mai 2021 eine Vergütung je abgegebene kühlpflichtige Durchstechflasche in Höhe von 9,65 Euro zuzüglich Umsatzsteuer und je abgegebene ultra- oder tiefkühlpflichtige Durchstechflasche in Höhe von 11,55 Euro zuzüglich Umsatzsteuer. Für den Zeitraum vom 31. Mai 2021 bis 30. Juni 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffs eine Vergütung in Höhe von 8,60 Euro zuzüglich Umsatzsteuer. Ab dem 1. Juli 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffs eine Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer.
+(1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler für den Zeitraum vom 1. April 2021 bis zum Ablauf des 30. Mai 2021 eine Vergütung je abgegebene kühlpflichtige Durchstechflasche in Höhe von 9,65 Euro zuzüglich Umsatzsteuer und je abgegebene ultra- oder tiefkühlpflichtige Durchstechflasche in Höhe von 11,55 Euro zuzüglich Umsatzsteuer. Für den Zeitraum vom 31. Mai 2021 bis 18. Juli 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffs eine Vergütung in Höhe von 8,60 Euro zuzüglich Umsatzsteuer. Ab dem 19. Juli 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffs eine Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer.
 
 (2) Für die Abgabe von durch den Großhändler selbst beschafftem Impfbesteck und -zubehör an Apotheken erhält der Großhändler zusätzlich eine Vergütung in Höhe von 1,65 Euro zuzüglich Umsatzsteuer je abgegebene Durchstechflasche.
 
 (3) Die Vergütung nach den Absätzen 1 und 2 wird von den Apotheken unter Angabe der BUND-Pharmazentralnummer für den Großhandel nach § 10 abgerechnet.
 
-(4) Der Bundesverband des pharmazeutischen Großhandels e. V. hat dem Bundesministerium für Gesundheit bis zum 15. Juni 2021 eine Aufstellung der tatsächlichen Aufwände nach den Absätzen 1 und 2 zu übermitteln. Die Vergütung nach den Absätzen 1 und 2 kann aufgrund der Aufstellung angepasst werden.
-
 # § 9 – Apothekenvergütung
 
-(1) Für den den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die in § 3 Absatz 1 Satz 1 Nummer 2 und 3 genannten Leistungserbringer entstehenden Aufwand, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 6,58 Euro zuzüglich Umsatzsteuer. Die Bundesvereinigung Deutscher Apothekerverbände e. V. hat dem Bundesministerium für Gesundheit bis zum 17. Mai 2021 eine Aufstellung des tatsächlichen Aufwandes nach Satz 1 zu übermitteln. Die Vergütung kann aufgrund der Aufstellung angepasst werden.
+(1) Für den den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die in § 3 Absatz 1 Satz 1 Nummer 2 und 3 genannten Leistungserbringer entstehenden Aufwand, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 7,58 Euro zuzüglich Umsatzsteuer.
 
 (2) Für den den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die in § 3 Absatz 1 Satz 1 Nummer 4 genannten Leistungserbringer entstehenden Aufwand, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken je Leistungserbringer eine Vergütung je abgegebene Durchstechflasche in Höhe von
 
-1. 6,58 Euro zuzüglich Umsatzsteuer für die Abgabe der 1. bis 100. Durchstechflasche innerhalb eines Kalendermonats,
+1. 7,58 Euro zuzüglich Umsatzsteuer für die Abgabe der 1. bis 100. Durchstechflasche innerhalb eines Kalendermonats,
 
-2. 4,28 Euro zuzüglich Umsatzsteuer für die Abgabe der 101. bis 150. Durchstechflasche innerhalb eines Kalendermonats und
+2. 4,92 Euro zuzüglich Umsatzsteuer für die Abgabe der 101. bis 150. Durchstechflasche innerhalb eines Kalendermonats und
 
-3. 2,19 Euro zuzüglich Umsatzsteuer für die Abgabe jeder weiteren Durchstechflasche innerhalb eines Kalendermonats.
+3. 2,52 Euro zuzüglich Umsatzsteuer für die Abgabe jeder weiteren Durchstechflasche innerhalb eines Kalendermonats.
 
 (3) Für den den Apotheken im Zusammenhang mit der nachträglichen Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22 Absatz 5 des Infektionsschutzgesetzes entstehenden Aufwand erhalten die Apotheken je Erstellung eine Vergütung in Höhe von 6 Euro. Ein Anspruch auf die Vergütung nach Satz 1 besteht nur dann, wenn das COVID-19-Impfzertifikat anlässlich eines unmittelbaren persönlichen Kontakts zwischen der Apotheke und der geimpften Person, einem für eine geschäftsunfähige oder beschränkt geschäftsfähige geimpfte Person für diesen Aufgabenkreis bestellten Betreuer, einem Elternteil oder einem Sorgeberechtigten einer minderjährigen geimpften Person erstellt wird.
 

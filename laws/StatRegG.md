@@ -25,13 +25,13 @@
 
 Die genannten Angaben dürfen auch zu administrativen Einheiten gespeichert werden. Zu Unternehmen darf über die in Satz 2 genannten Angaben hinaus die Kennzeichnung der bestimmenden rechtlichen Einheit im Unternehmen gespeichert werden. Zu Unternehmensgruppen darf auch die Kennzeichnung der deutschen Entscheidungseinheit in der Unternehmensgruppe gespeichert werden. Für jede Einheit wird eine Kennnummer vergeben.
 
-(2) Die in den §§ 2 bis 6 genannten Stellen übermitteln den statistischen Ämtern der Länder und dem Statistischen Bundesamt jeweils für deren Zuständigkeitsbereich, soweit dies nicht in den §§ 2 und 6 abweichend geregelt ist, jährlich auf Anforderung ohne Erstattung der Kosten aus den vorhandenen Unterlagen Angaben zur Pflege und Führung des Statistikregisters. Die Maßnahmen zur technischen Abwicklung der Übermittlungen nach Satz 1 werden von den beteiligten Stellen einvernehmlich festgelegt. Für die Geheimhaltung der nach Satz 1 übermittelten Einzelangaben über persönliche und sachliche Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
+(2) Die in den §§ 2 bis 6 genannten Stellen übermitteln den statistischen Ämtern der Länder und dem Statistischen Bundesamt jeweils für deren Zuständigkeitsbereich, soweit dies nicht in den §§ 2, 4a und 6 abweichend geregelt ist, jährlich auf Anforderung ohne Erstattung der Kosten aus den vorhandenen Unterlagen Angaben zur Pflege und Führung des Statistikregisters. Die Maßnahmen zur technischen Abwicklung der Übermittlungen nach Satz 1 werden von den beteiligten Stellen einvernehmlich festgelegt. Für die Geheimhaltung der nach Satz 1 übermittelten Einzelangaben über persönliche und sachliche Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
 
-(3) Zur Pflege und Führung des Statistikregisters dürfen auch nach dem Verwaltungsdatenverwendungsgesetz übermittelte Angaben, Angaben aus Wirtschafts- und Umweltstatistiken sowie Angaben aus allgemein zugänglichen Quellen verwendet werden.
+(3) Zur Pflege und Führung des Statistikregisters dürfen auch nach dem Verwaltungsdatenverwendungsgesetz übermittelte Angaben, Angaben aus Wirtschafts- und Umweltstatistiken, Unternehmensbasisdaten aus dem Register über Unternehmensbasisdaten sowie Angaben aus allgemein zugänglichen Quellen verwendet werden.
 
 # § 2
 
-(1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Abs. 1 bis 3 und § 5 Nr. 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Umsatzsteuerpflichtigen verwendet werden:
+(1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Umsatzsteuerpflichtigen verwendet werden:
 
 1. Dauer der Steuerpflicht,
 
@@ -55,13 +55,13 @@ Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zu
 
 3. Umsatzsteuer-Identifikationsnummer.
 
-(2) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Abs. 1 bis 3 und § 5 Nr. 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Steuerpflichtigen mit Lieferungen, sonstigen Leistungen und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes verwendet werden:
+(2) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz 1 bis 3 und § 5 Nummer 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Steuerpflichtigen mit Lieferungen, sonstigen Leistungen und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes verwendet werden:
 
 1. Einkünfte aus Gewerbebetrieb,
 
 2. Einkünfte aus selbständiger Arbeit,
 
-3. die Angaben nach Absatz 1 Satz 1 Nr. 1 bis 4, 6 und 7.
+3. die Angaben nach Absatz 1 Satz 1 Nummer 1 bis 4, 6 und 7.
 
 Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zusätzlich für Zwecke des Statistikregisters folgende Angaben von Steuerpflichtigen mit Lieferungen, sonstigen Leistungen und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes:
 
@@ -69,11 +69,11 @@ Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zu
 
 2. Anschrift.
 
-(3) Die Übermittlungen nach den Absätzen 1 und 2 erfolgen abweichend von § 1 Abs. 1 Satz 1 in dem durch das Gesetz über Steuerstatistiken in seiner jeweils gültigen Fassung vorgegebenen Zeitrahmen.
+(3) Die Übermittlungen nach den Absätzen 1 und 2 erfolgen abweichend von § 1 Absatz 2 Satz 1 in dem durch das Gesetz über Steuerstatistiken in seiner jeweils gültigen Fassung vorgegebenen Zeitrahmen.
 
 # § 2a
 
-Das Bundeszentralamt für Steuern übermittelt an das Statistische Bundesamt für Organgesellschaften und Organträger nach § 2 Abs. 2 Nr. 2 des Umsatzsteuergesetzes folgende Angaben:
+Das Bundeszentralamt für Steuern übermittelt an das Statistische Bundesamt für Organgesellschaften und Organträger nach § 2 Absatz 2 Nummer 2 des Umsatzsteuergesetzes folgende Angaben:
 
 1. Steuernummer einschließlich Nummer des Finanzamts, bei Änderung auch die bisherige Steuernummer,
 
@@ -101,7 +101,7 @@ Das Statistische Bundesamt übermittelt die Angaben an die statistischen Ämter 
 
 4. Kennzeichen zur Identifikation (Betriebsnummer), bei Änderung auch das zuletzt übermittelte Kennzeichen.
 
-(2) Die statistischen Ämter der Länder und das Statistische Bundesamt übermitteln jährlich jeweils zu einem durch die beteiligten Stellen festzulegenden Stichtag die Angaben zu Absatz 1 Nr. 2 und 4 aus dem Statistikregister ausschließlich für statistische Zwecke in den abgeschotteten Bereich der Bundesagentur für Arbeit, soweit die Angaben zum Wirtschaftszweig im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nr. 2 abweichen. Soweit die Angaben zu Name oder Bezeichnung sowie Anschrift einschließlich Gemeindeschlüssel im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nr. 1 abweichen, wird ein Kennzeichen, das auf eine Abweichung hinweist, zusammen mit der Angabe zu Absatz 1 Nr. 4 mitgeteilt.
+(2) Die statistischen Ämter der Länder und das Statistische Bundesamt übermitteln jährlich jeweils zu einem durch die beteiligten Stellen festzulegenden Stichtag die Angaben zu Absatz 1 Nummer 2 und 4 aus dem Statistikregister ausschließlich für statistische Zwecke in den abgeschotteten Bereich der Bundesagentur für Arbeit, soweit die Angaben zum Wirtschaftszweig im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nummer 2 abweichen. Soweit die Angaben zu Name oder Bezeichnung sowie Anschrift einschließlich Gemeindeschlüssel im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nummer 1 abweichen, wird ein Kennzeichen, das auf eine Abweichung hinweist, zusammen mit der Angabe zu Absatz 1 Nummer 4 mitgeteilt.
 
 # § 4
 
@@ -125,9 +125,9 @@ Die Industrie- und Handelskammern übermitteln von den Kammerzugehörigen ihres 
 
 # § 4a
 
-(1) Die Landesjustizverwaltungen übermitteln von den elektronischen Handels-, Genossenschafts- und Partnerschaftsregistern die Daten über die eingetragenen Unternehmen, die sie nach § 8b Abs. 3 Satz 2 des Handelsgesetzbuchs an das Unternehmensregister übermitteln.
+(1) Die Landesjustizverwaltungen übermitteln von den elektronischen Handels-, Genossenschafts- und Partnerschaftsregistern die Daten über die eingetragenen Unternehmen, die sie nach § 8b Absatz 3 Satz 2 des Handelsgesetzbuchs an das Unternehmensregister übermitteln.
 
-(2) Auf Anforderung erfolgt die Übermittlung nach Absatz 1 abweichend von § 1 Abs. 1 Satz 1 mehrmals jährlich.
+(2) Auf Anforderung erfolgt die Übermittlung nach Absatz 1 abweichend von § 1 Absatz 2 Satz 1 mehrmals jährlich.
 
 # § 5
 
@@ -143,7 +143,7 @@ Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres Bezirks folge
 
 5. Zeitpunkt der Löschung in der Handwerksrolle oder in dem Verzeichnis der Inhaber eines Betriebes eines zulassungsfreien Handwerks oder eines handwerksähnlichen Gewerbes,
 
-6. für Handwerksbetriebe nach § 1 und § 18 Abs. 2 Satz 1 der Handwerksordnung: zu betreibendes Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke; für Betriebe eines handwerksähnlichen Gewerbes gemäß § 18 Abs. 2 Satz 2 der Handwerksordnung: zu betreibendes handwerksähnliches Gewerbe oder bei Ausübung mehrerer handwerksähnlicher Gewerbe diese Gewerbe,
+6. für Handwerksbetriebe nach § 1 und § 18 Absatz 2 Satz 1 der Handwerksordnung: zu betreibendes Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke; für Betriebe eines handwerksähnlichen Gewerbes gemäß § 18 Absatz 2 Satz 2 der Handwerksordnung: zu betreibendes handwerksähnliches Gewerbe oder bei Ausübung mehrerer handwerksähnlicher Gewerbe diese Gewerbe,
 
 7. Nummer des Finanzamts und Steuernummer,
 
@@ -151,7 +151,7 @@ Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres Bezirks folge
 
 # § 6
 
-Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich ist, übermitteln Berufsverbände und nicht in den §§ 4 und 5 genannte Kammern von ihren Mitgliedern und deren Einheiten abweichend von § 1 Abs. 1 Satz 1 auf Anforderung einmalig oder in mehrjährigen Abständen folgende Angaben:
+Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich ist, übermitteln Berufsverbände und nicht in den §§ 4 und 5 genannte Kammern von ihren Mitgliedern und deren Einheiten abweichend von § 1 Absatz 2 Satz 1 auf Anforderung einmalig oder in mehrjährigen Abständen folgende Angaben:
 
 1. Name oder Firma sowie Anschrift einschließlich Gemeindeschlüssel,
 
@@ -161,7 +161,7 @@ Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich i
 
 # § 7
 
-(1) Die statistischen Ämter der Länder und das Statistische Bundesamt erheben zum Aufbau und zur Führung des Statistikregisters Angaben zu Name, Anschrift und Rechtsform sowie die Kennzeichen nach § 2 Abs. 1 Satz 1 Nr. 6 und Satz 2 Nr. 3, § 3 Abs. 1 Nr. 4, § 4 Nr. 6 sowie § 5 Nr. 8, soweit die von den in den §§ 2 bis 6 genannten Stellen übermittelten Angaben einer Einheit nicht eindeutig zugeordnet werden können.
+(1) Die statistischen Ämter der Länder und das Statistische Bundesamt erheben zum Aufbau und zur Führung des Statistikregisters Angaben zu Name, Anschrift und Rechtsform sowie die Kennzeichen nach § 2 Absatz 1 Satz 1 Nummer 6 und Satz 2 Nummer 3, § 3 Absatz 1 Nummer 4, § 4 Nummer 6 sowie § 5 Nummer 8, soweit die von den in den §§ 2 bis 6 genannten Stellen übermittelten Angaben einer Einheit nicht eindeutig zugeordnet werden können.
 
 (2) Soweit Angaben nach § 1 Absatz 1 nicht vorliegen, nicht eindeutig sind oder nicht eindeutig zugeordnet werden können, dürfen die zur Klärung der Unstimmigkeit erforderlichen Angaben von den statistischen Ämtern des Bundes und der Länder erhoben werden.
 
@@ -175,7 +175,7 @@ Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich i
 
 # § 9
 
-Die statistischen Ämter des Bundes und der Länder dürfen den für statistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, die die Voraussetzungen des § 16 Abs. 5 Satz 2 des Bundesstatistikgesetzes erfüllen, auf Anforderung für ausschließlich statistische Zwecke Angaben aus dem Statistikregister zu folgenden Merkmalen für örtliche Einheiten (Betriebe, Arbeitsstätten) in ihrem Zuständigkeitsbereich übermitteln:
+Die statistischen Ämter des Bundes und der Länder dürfen den für statistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, die die Voraussetzungen des § 16 Absatz 5 Satz 2 des Bundesstatistikgesetzes erfüllen, auf Anforderung für ausschließlich statistische Zwecke Angaben aus dem Statistikregister zu folgenden Merkmalen für örtliche Einheiten (Betriebe, Arbeitsstätten) in ihrem Zuständigkeitsbereich übermitteln:
 
 1. wirtschaftliche Haupt- und Nebentätigkeiten (Wirtschaftszweige),
 
@@ -183,7 +183,7 @@ Die statistischen Ämter des Bundes und der Länder dürfen den für statistisch
 
 3. Gemeindeschlüssel, Straße und Hausnummer.
 
-Die Angaben zu Straße und Hausnummer nach Satz 1 Nr. 3 dürfen nur zur Zuordnung der örtlichen Einheiten zu kleinräumigen Gliederungen verwendet werden. Sie sind zum frühestmöglichen Zeitpunkt zu löschen.
+Die Angaben zu Straße und Hausnummer nach Satz 1 Nummer 3 dürfen nur zur Zuordnung der örtlichen Einheiten zu kleinräumigen Gliederungen verwendet werden. Sie sind zum frühestmöglichen Zeitpunkt zu löschen.
 
 # § 10
 

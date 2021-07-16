@@ -1451,7 +1451,7 @@ Dies gilt nicht, soweit die jeweilige Verhaltensweise sachlich gerechtfertigt is
 
 (1) § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt auch für Unternehmen und Vereinigungen von Unternehmen, soweit von ihnen andere Unternehmen als Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen in der Weise abhängig sind, dass ausreichende und zumutbare Möglichkeiten, auf dritte Unternehmen auszuweichen, nicht bestehen und ein deutliches Ungleichgewicht zur Gegenmacht der anderen Unternehmen besteht (relative Marktmacht). § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt ferner auch für Unternehmen, die als Vermittler auf mehrseitigen Märkten tätig sind, soweit andere Unternehmen mit Blick auf den Zugang zu Beschaffungs- und Absatzmärkten von ihrer Vermittlungsleistung in der Weise abhängig sind, dass ausreichende und zumutbare Ausweichmöglichkeiten nicht bestehen. Es wird vermutet, dass ein Anbieter einer bestimmten Art von Waren oder gewerblichen Leistungen von einem Nachfrager abhängig im Sinne des Satzes 1 ist, wenn dieser Nachfrager bei ihm zusätzlich zu den verkehrsüblichen Preisnachlässen oder sonstigen Leistungsentgelten regelmäßig besondere Vergünstigungen erlangt, die gleichartigen Nachfragern nicht gewährt werden.
 
-(1a) Eine Abhängigkeit nach Absatz 1 kann sich auch daraus ergeben, dass ein Unternehmen für die eigene Tätigkeit auf den Zugang zu Daten angewiesen ist, die von einem anderen Unternehmen kontrolliert werden. Die Verweigerung des Zugangs zu solchen Daten gegen angemessenes Entgelt kann eine unbillige Behinderung nach Absatz 1 in Verbindung mit § 19 Absatz 2 Nummer 1 darstellen. Dies gilt auch dann, wenn ein Geschäftsverkehr für diese Daten bislang nicht eröffnet ist.
+(1a) Eine Abhängigkeit nach Absatz 1 kann sich auch daraus ergeben, dass ein Unternehmen für die eigene Tätigkeit auf den Zugang zu Daten angewiesen ist, die von einem anderen Unternehmen kontrolliert werden. Die Verweigerung des Zugangs zu solchen Daten gegen angemessenes Entgelt kann eine unbillige Behinderung nach Absatz 1 in Verbindung mit § 19 Absatz 1, Absatz 2 Nummer 1 darstellen. Dies gilt auch dann, wenn ein Geschäftsverkehr für diese Daten bislang nicht eröffnet ist.
 
 (2) § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 5 gilt auch für Unternehmen und Vereinigungen von Unternehmen im Verhältnis zu den von ihnen abhängigen Unternehmen.
 
@@ -1677,7 +1677,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (2) Die Kartellbehörde erlässt Verfügungen nach diesem Gesetz, die die öffentliche Versorgung mit Wasser über feste Leitungswege betreffen, im Benehmen mit der Fachaufsichtsbehörde.
 
-(3) Die Kartellbehörde kann in Fällen des Missbrauchs nach § 31 Absatz 3
+(3) Die Kartellbehörde kann in Fällen des Missbrauchs nach § 31 Absatz 4
 
 1. die beteiligten Unternehmen verpflichten, einen beanstandeten Missbrauch abzustellen,
 
@@ -1795,7 +1795,7 @@ Wird wegen eines Verstoßes gegen eine Vorschrift dieses Teils oder gegen Artike
 
 # § 33c – Schadensabwälzung
 
-(1) Wird eine Ware oder Dienstleistung zu einem überteuerten Preis bezogen (Preisaufschlag), so ist der Schaden nicht deshalb ausgeschlossen, weil die Ware oder Dienstleistung weiterveräußert wurde. Der Schaden des Abnehmers ist ausgeglichen, soweit der Abnehmer einen Preisaufschlag, der durch einen Verstoß nach § 33a Absatz 1 verursacht worden ist, an seine Abnehmer (mittelbare Abnehmer) weitergegeben hat (Schadensabwälzung). Davon unberührt bleibt der Anspruch des Geschädigten auf Ersatz seines entgangenen Gewinns nach § 252 des Bürgerlichen Gesetzbuchs, soweit der entgangene Gewinn durch die Weitergabe des Preisaufschlags verursacht worden ist.
+(1) Wird eine Ware oder Dienstleistung zu einem überteuerten Preis bezogen (Preisaufschlag), so ist der Schaden nicht deshalb ausgeschlossen, weil die Ware oder Dienstleistung weiterveräußert wurde. Der Schaden des Abnehmers ist ausgeglichen, soweit der Abnehmer einen Preisaufschlag, der durch einen Verstoß nach § 33 Absatz 1 verursacht worden ist, an seine Abnehmer (mittelbare Abnehmer) weitergegeben hat (Schadensabwälzung). Davon unberührt bleibt der Anspruch des Geschädigten auf Ersatz seines entgangenen Gewinns nach § 252 des Bürgerlichen Gesetzbuchs, soweit der entgangene Gewinn durch die Weitergabe des Preisaufschlags verursacht worden ist.
 
 (2) Dem Grunde nach wird zugunsten eines mittelbaren Abnehmers vermutet, dass der Preisaufschlag auf ihn abgewälzt wurde, wenn
 
@@ -2089,17 +2089,7 @@ des Kapitals oder der Stimmrechte des anderen Unternehmens erreichen. Zu den Ant
 
 # § 39 – Anmelde- und Anzeigepflicht
 
-(1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind zulässig über:
-
-1. die vom Bundeskartellamt eingerichtete zentrale De-Mail-Adresse im Sinne des De-Mail-Gesetzes,
-
-2. die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für Dokumente mit qualifizierter elektronischer Signatur,
-
-3. das besondere elektronische Behördenpostfach sowie
-
-4. eine hierfür bestimmte Internetplattform.
-
-Die beiden Zugänge sind über die Internetseite des Bundeskartellamts erreichbar.
+(1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß den Absätzen 2 und 3 anzumelden. Die beiden Zugänge sind über die Internetseite des Bundeskartellamts erreichbar.
 
 (2) Zur Anmeldung sind verpflichtet:
 
@@ -2631,7 +2621,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 # § 50b – Zustellung im Netzwerk der europäischen Wettbewerbsbehörden
 
-(1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union stellt das Bundeskartellamt in deren Namen einem im Inland ansässigen Unternehmen oder einer im Inland ansässigen Unternehmensvereinigung folgende Unterlagen zu:
+(1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union stellt das Bundeskartellamt in deren Namen einem Unternehmen, einer Unternehmensvereinigung oder einer natürlichen Person im Inland folgende Unterlagen zu:
 
 1. jede Art vorläufiger Beschwerdepunkte zu mutmaßlichen Verstößen gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union;
 
@@ -2735,7 +2725,7 @@ Vertrauliche Angaben, einschließlich Betriebs- und Geschäftsgeheimnisse, aus V
 
 Die Sätze 2 und 3 Nummer 1 lassen die Regelungen des Wertpapiererwerbs- und Übernahmegesetzes sowie des Gesetzes über den Wertpapierhandel über die Zusammenarbeit mit anderen Behörden unberührt.
 
-(3) Das Bundeskartellamt kann Angaben der an einem Zusammenschluss beteiligten Unternehmen, die ihm nach § 39 Absatz 3 gemacht worden sind, an andere Behörden übermitteln, soweit dies zur Verfolgung der in § 4 Absatz 1 Nummer 1 und § 5 Absatz 2 des Außenwirtschaftsgesetzes genannten Zwecke erforderlich ist. Bei Zusammenschlüssen mit gemeinschaftsweiter Bedeutung im Sinne des Artikels 1 Absatz 1 der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen in ihrer jeweils geltenden Fassung steht dem Bundeskartellamt die Befugnis nach Satz 1 nur hinsichtlich solcher Angaben zu, welche von der Europäischen Kommission nach Artikel 4 Absatz 3 dieser Verordnung veröffentlicht worden sind.
+(3) Das Bundeskartellamt kann Angaben der an einem Zusammenschluss beteiligten Unternehmen, die ihm nach § 39 Absatz 3 gemacht worden sind, an andere Behörden übermitteln, soweit dies zur Verfolgung der in § 4 Absatz 1 Nummer 1 bzw. Nummern 4, 4a und § 5 Absatz 2, 3 des Außenwirtschaftsgesetzes genannten Zwecke erforderlich ist. Bei Zusammenschlüssen mit gemeinschaftsweiter Bedeutung im Sinne des Artikels 1 Absatz 1 der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen in ihrer jeweils geltenden Fassung steht dem Bundeskartellamt die Befugnis nach Satz 1 nur hinsichtlich solcher Angaben zu, welche von der Europäischen Kommission nach Artikel 4 Absatz 3 dieser Verordnung veröffentlicht worden sind.
 
 # § 51 – Sitz, Organisation
 
@@ -3093,7 +3083,7 @@ Soweit nichts anderes bestimmt ist, gelten entsprechend
 
 (5) Der Bundesgerichtshof entscheidet als Beschwerdegericht im ersten und letzten Rechtszug über sämtliche Streitigkeiten gegen Verfügungen des Bundeskartellamts
 
-1. nach § 19a, auch in Verbindung mit § 32 Absatz 2 und 3,
+1. nach § 19a, auch in Verbindung mit §§ 19, 20 und Artikel 102 des Vertrages über die Arbeitsweise der Europäischen Union sowie § 32 Absatz 1, 2 und 3,
 
 2. nach den §§ 32a und 32b, soweit diese Vorschriften auf Sachverhalte im Sinne des § 19a angewendet werden,
 
@@ -3101,11 +3091,11 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 # § 74 – Frist und Form
 
-(1) Die Beschwerde ist binnen einer Frist von einem Monat bei der Kartellbehörde, deren Verfügung angefochten wird, schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Verfügung der Kartellbehörde. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
+(1) Die Beschwerde ist binnen einer Frist von einem Monat bei der Kartellbehörde, deren Verfügung angefochten wird, schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Verfügung der Kartellbehörde. Wird in den Fällen des § 36 Absatz 1 Antrag auf Erteilung einer Erlaubnis nach § 42 gestellt, so beginnt die Frist für die Beschwerde gegen die Verfügung des Bundeskartellamts mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Energie. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
 (2) Ergeht entsprechend § 73 Absatz 3 Satz 2 auf einen Antrag keine Verfügung, so ist die Beschwerde an keine Frist gebunden.
 
-(3) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung der angefochtenen Verfügung zu begründen. Im Fall des Absatzes 2 beträgt die Frist einen Monat; sie beginnt mit der Einlegung der Beschwerde. Die Frist kann auf Antrag von dem oder der Vorsitzenden des Beschwerdegerichts verlängert werden.
+(3) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung der angefochtenen Verfügung zu begründen. Im Fall des Absatzes 1 Satz 3 beginnt die Frist mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Energie. Wird diese Verfügung angefochten, beginnt die Frist zu dem Zeitpunkt, zu dem die Untersagung unanfechtbar wird. Im Fall des Absatzes 2 beträgt die Frist einen Monat; sie beginnt mit der Einlegung der Beschwerde. Die Frist kann auf Antrag von dem oder der Vorsitzenden des Beschwerdegerichts verlängert werden.
 
 (4) Die Beschwerdebegründung muss enthalten:
 
@@ -3123,7 +3113,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 (3) Das Beschwerdegericht kann den Beteiligten aufgeben, sich innerhalb einer zu bestimmenden Frist über aufklärungsbedürftige Punkte zu äußern, Beweismittel zu bezeichnen und in ihren Händen befindliche Urkunden sowie andere Beweismittel vorzulegen. Bei Versäumung der Frist kann nach Lage der Sache ohne Berücksichtigung der nicht beigebrachten Beweismittel entschieden werden.
 
-(4) Wird die Anforderung nach § 59 Absatz 5 oder die Anordnung nach § 59a Absatz 4 mit der Beschwerde angefochten, hat die Kartellbehörde die tatsächlichen Anhaltspunkte glaubhaft zu machen. § 294 Absatz 1 der Zivilprozessordnung findet Anwendung. Eine Glaubhaftmachung ist nicht erforderlich, soweit § 20 voraussetzt, dass Unternehmen von Unternehmen in der Weise abhängig sind, dass ausreichende und zumutbare Ausweichmöglichkeiten nicht bestehen.
+(4) Wird die Anforderung nach § 59 Absatz 5 oder die Anordnung nach § 59a Absatz 5 mit der Beschwerde angefochten, hat die Kartellbehörde die tatsächlichen Anhaltspunkte glaubhaft zu machen. § 294 Absatz 1 der Zivilprozessordnung findet Anwendung. Eine Glaubhaftmachung ist nicht erforderlich, soweit § 20 voraussetzt, dass Unternehmen von Unternehmen in der Weise abhängig sind, dass ausreichende und zumutbare Ausweichmöglichkeiten nicht bestehen.
 
 (5) Der Bundesgerichtshof kann in Verfahren nach § 73 Absatz 5 eine Stellungnahme der Monopolkommission einholen.
 
@@ -3197,7 +3187,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 # § 80 – Rechtsbeschwerdeentscheidung
 
-(1) Der Bundesgerichtshof entscheidet durch Beschluss nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung.
+(1) Der Bundesgerichtshof entscheidet durch Beschluss.
 
 (2) Ist die Rechtsbeschwerde unzulässig, so verwirft sie der Bundesgerichtshof.
 
@@ -3247,7 +3237,7 @@ d) § 47d Absatz 1 Satz 5 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 5a. einer Rechtsverordnung nach § 47f Nummer 3 Buchstabe a, b oder c oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-5b. entgegen § 47k Absatz 2 Satz 1, auch in Verbindung mit Satz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 47k Absatz 8 Satz 1 Nummer 1 oder Nummer 2, eine dort genannte Änderung oder Angabe der Mengenabgabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+5b. entgegen § 47k Absatz 2 Satz 1, auch in Verbindung mit Satz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 47k Absatz 8 Satz 1 Nummer 1 oder Nummer 2, eine dort genannte Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 6. entgegen § 59 Absatz 2 oder Absatz 4, auch in Verbindung mit § 47d Absatz 1 Satz 1, § 47k Absatz 7 oder § 82b Absatz 1, ein Auskunftsverlangen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beantwortet oder Unterlagen nicht, nicht vollständig oder nicht rechtzeitig herausgibt,
 

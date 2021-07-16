@@ -221,7 +221,7 @@ b) vorzuschreiben, dass Pflanzen oder Pflanzenerzeugnisse nur in bestimmter Art 
 
 Sie können durch Rechtsverordnung diese Befugnis auf oberste Landesbehörden übertragen und dabei bestimmen, dass diese ihre Befugnis durch Rechtsverordnung auf nachgeordnete oder ihrer Aufsicht unterstehende Behörden weiter übertragen können.
 
-(4) Über die Begriffsbestimmung des Artikels 3 Nummer 7 der Verordnung (EG) Nr. 1107/2009 hinaus sind Schadorganismen im Sinne des Absatzes 1 und der §§ 7, 8, 57, 59, 60 und 62 Tiere, Pflanzen und Mikroorganismen in allen Entwicklungsstadien, die Schäden an Pflanzen und Pflanzenerzeugnisse verursachen können; Viren und ähnliche Krankheitserreger werden den Mikroorganismen, nicht durch Schadorganismen verursachte Krankheiten werden den Schadorganismen gleichgestellt.
+(4) Über die Begriffsbestimmung des Artikels 3 Nummer 7 der Verordnung (EG) Nr. 1107/2009 hinaus sind Schadorganismen im Sinne des Absatzes 1 und der §§ 8, 57, 59, 60 und 62 Tiere, Pflanzen und Mikroorganismen in allen Entwicklungsstadien, die Schäden an Pflanzen und Pflanzenerzeugnisse verursachen können; Viren und ähnliche Krankheitserreger werden den Mikroorganismen, nicht durch Schadorganismen verursachte Krankheiten werden den Schadorganismen gleichgestellt.
 
 (5) Es ist verboten, Schadorganismen zu verbreiten und dadurch
 
@@ -233,59 +233,11 @@ Sie können durch Rechtsverordnung diese Befugnis auf oberste Landesbehörden ü
 
 zu gefährden.
 
-# § 7 – Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von Schadorganismen
-
-(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, soweit es
-
-1. zum Schutz gegen die Gefahr
-
-a) der Einschleppung oder Ansiedlung von Schadorganismen in die Mitgliedstaaten,
-
-b) der Verschleppung von Schadorganismen innerhalb der Europäischen Union oder in ein Drittland oder
-
-2. zum Schutz bestimmter Gebiete vor Schadorganismen und Befallsgegenständen
-
-erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates das Befördern, das Inverkehrbringen, die Einfuhr, das innergemeinschaftliche Verbringen sowie das Verbringen im Inland oder das Verbringen in einen anderen Mitgliedstaat und die Ausfuhr von Schadorganismen und Befallsgegenständen zu verbieten oder zu beschränken. Es kann dabei insbesondere
-
-1. das Befördern, das Inverkehrbringen, das innergemeinschaftliche Verbringen einschließlich des Verbringens im Inland oder in einen anderen Mitgliedstaat, die Einfuhr und die Ausfuhr von Schadorganismen und Befallsgegenständen abhängig machen
-
-a) von einer Genehmigung oder Anzeige,
-
-b) von einer Untersuchung oder vom Nachweis einer durchgeführten Entseuchung, Entwesung oder anderen Behandlung,
-
-c) von der Begleitung durch bestimmte Bescheinigungen,
-
-d) von einer bestimmten Verpackung oder Kennzeichnung,
-
-e) von einer Zulassung oder Registrierung des Betriebes, der die Pflanzen erzeugt oder angebaut hat oder der die Pflanzen, Pflanzenerzeugnisse, Kultursubstrate oder andere Befallsgegenstände in den Verkehr bringt, einführt oder lagert;
-
-2. Vorschriften erlassen über
-
-a) die Durchführung von Untersuchungen einschließlich der Probenahme,
-
-b) die Beobachtung, Verwendung oder Behandlung einschließlich der Vernichtung der Befallsgegenstände sowie die Untersuchung von technischen Vorrichtungen zur Behandlung von Befallsgegenständen und die Übertragung dieser Untersuchungen auf Sachverständige,
-
-c) die Verpflichtung zu Aufzeichnungen, insbesondere über durchgeführte Untersuchungen, über das Auftreten von Schadorganismen, über deren Bekämpfung sowie über den Verbleib von Befallsgegenständen,
-
-d) Inhalt, Form und Ausstellung der Bescheinigungen nach Nummer 1 Buchstabe c,
-
-e) die Schließung von Packungen und Behältnissen sowie die Verschlusssicherung,
-
-f) die Aufbewahrung von Bescheinigungen und Aufzeichnungen sowie deren Vorlage bei der zuständigen Behörde,
-
-g) die Voraussetzungen und das Verfahren für die Zulassung oder Registrierung der Betriebe nach Nummer 1 Buchstabe e einschließlich des Ruhens oder der Löschung der Zulassung oder Registrierung, von Beschränkungen für zugelassene oder registrierte Betriebe bei der Pflanzenerzeugung, beim Pflanzenanbau und beim Befördern, Inverkehrbringen oder Lagern von Befallsgegenständen sowie der Verarbeitung und Nutzung der in dem Verfahren erhobenen Daten,
-
-h) die Voraussetzungen und das Verfahren für die Zulassung von Einrichtungen, die Pflanzen, Pflanzenerzeugnisse oder Kultursubstrate auf den Befall mit Schadorganismen untersuchen, einschließlich der Voraussetzungen für die Anerkennung einer Einrichtung als nationales Referenzlabor und der Mindestanforderungen für diese Einrichtungen, des Ruhens der Zulassung oder von Beschränkungen der Untersuchungstätigkeit sowie der Verarbeitung und Nutzung der in dem Verfahren erhobenen Daten.
-
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-
-1. Vorschriften über das Verfahren und die Durchführung von Risikoanalysen durch das Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen (Julius Kühn-Institut) hinsichtlich der Gefahr der Einschleppung von Schadorganismen in die Europäische Union, der Verschleppung von Schadorganismen innerhalb der Europäischen Union oder der Einschleppung in ein Drittland sowie über die Ausstellung entsprechender Bescheinigungen über die durchgeführten Analysen und ihre Ergebnisse zu erlassen,
-
-2. soweit es zur Erfüllung der in § 1 Nummer 1, 2 und 4 genannten Zwecke erforderlich ist, dem Julius Kühn-Institut die Funktion eines gemeinschaftlichen oder nationalen Referenzlabors mit den dazugehörigen Aufgaben zuzuweisen.
+# § 7 – (weggefallen)
 
 # § 8 – Anordnungen der zuständigen Behörden
 
-Die zuständige Behörde kann zur Bekämpfung von Schadorganismen oder zur Verhütung der Ein- oder Verschleppung sowie der Ansiedlung von Schadorganismen Maßnahmen nach § 6 Absatz 1 und § 7 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 1 Buchstabe a bis d und Nummer 2 Buchstabe a bis f anordnen, soweit eine Regelung durch Rechtsverordnung nach § 6 Absatz 1 oder 3 oder § 7 Absatz 1 Satz 1 nicht getroffen ist oder eine durch Rechtsverordnung nach § 6 Absatz 1 oder 3 oder § 7 Absatz 1 Satz 1 getroffene Regelung nicht entgegensteht.
+Die zuständige Behörde kann zur Bekämpfung von Schadorganismen oder zur Verhütung der Ein- oder Verschleppung sowie der Ansiedlung von Schadorganismen Maßnahmen nach § 6 Absatz 1 anordnen, soweit eine Regelung durch Rechtsverordnung nach § 6 Absatz 1 oder 3 nicht getroffen ist oder eine durch Rechtsverordnung nach § 6 Absatz 1 oder 3 getroffene Regelung nicht entgegensteht.
 
 # § 9 – Persönliche Anforderungen
 
@@ -371,7 +323,7 @@ Wer Pflanzenschutzmittel für andere – außer gelegentlicher Nachbarschaftshil
 
 (4) Eine Zulassung ist nicht erforderlich für die Anwendung von
 
-1. Pflanzenschutzmitteln, deren Anwendung nach § 6 Absatz 1 Nummer 3, 5 und 14 oder nach § 7 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 Buchstabe b, jeweils in Verbindung mit § 8, angeordnet worden ist,
+1. Pflanzenschutzmitteln, deren Anwendung nach § 6 Absatz 1 Nummer 3, 5 und 14 oder nach § 4 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 Buchstabe b des Pflanzengesundheitsgesetzes vom 5. Juli 2021 (BGBl. I S. 2354), jeweils in Verbindung mit § 8 dieses Gesetzes, angeordnet worden ist,
 
 2. Stoffen oder Gemischen, die ausschließlich genehmigte Grundstoffe im Sinne des Artikels 23 der Verordnung (EG) Nr. 1107/2009 enthalten,
 
@@ -429,9 +381,11 @@ genehmigen. Eine Ausnahme nach Satz 1 darf nur genehmigt werden, soweit zumutbar
 
 1. die Einfuhr, das Inverkehrbringen, das innergemeinschaftliche Verbringen und die Anwendung bestimmter Pflanzenschutzmittel oder von Pflanzenschutzmitteln mit bestimmten Stoffen,
 
-a) zu verbieten, zu beschränken oder von einer Genehmigung abhängig zu machen,
+a) zu verbieten,
 
-b) von einer Anzeige abhängig zu machen,
+b) zu beschränken oder von einer Genehmigung abhängig zu machen,
+
+c) von einer Anzeige abhängig zu machen,
 
 2. die Anwendung von Pflanzenschutzmitteln unter Verwendung bestimmter Geräte oder Verfahren zu verbieten, zu beschränken oder von einer Genehmigung oder Anzeige abhängig zu machen,
 
@@ -1303,7 +1257,7 @@ Unterrichtung und Beratung des Bundesministeriums für Ernährung und Landwirtsc
 
 (2) Als Pflanzenschutzdienst haben die zuständigen Behörden insbesondere folgende Aufgaben:
 
-1. die Überwachung der Pflanzenbestände sowie der Vorräte von Pflanzen und Pflanzenerzeugnissen auf das Auftreten von Schadorganismen sowie die Überwachung von Einrichtungen nach § 7 Absatz 1 Satz 2 Nummer 2 Buchstabe h,
+1. die Überwachung der Pflanzenbestände sowie der Vorräte von Pflanzen und Pflanzenerzeugnissen auf das Auftreten von Schadorganismen,
 
 2. die Überwachung des Beförderns, des Inverkehrbringens, des Lagerns, der Einfuhr, des innergemeinschaftlichen Verbringens und der Ausfuhr von Pflanzen, Pflanzenerzeugnissen und Kultursubstraten im Rahmen des Pflanzenschutzes sowie die Ausstellung der für diese Tätigkeiten erforderlichen Bescheinigungen,
 
@@ -1319,8 +1273,6 @@ Unterrichtung und Beratung des Bundesministeriums für Ernährung und Landwirtsc
 
 8. die Überwachung des Inverkehrbringens, des innergemeinschaftlichen Verbringens sowie des Verbringens im Inland und der Anwendung von Pflanzenschutzmitteln, Pflanzenstärkungsmitteln und Zusatzstoffen.
 
-(3) Die Landesregierungen werden ermächtigt, die Durchführung von Untersuchungen auf Befall mit einem Schadorganismus auf Einrichtungen zu übertragen, wenn diese die Voraussetzungen einer nach § 7 Absatz 1 Satz 2 Nummer 2 Buchstabe h erlassenen Rechtsverordnung erfüllen.
-
 # § 60 – Behördliche Anordnungen
 
 Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen notwendig sind. Sie kann insbesondere untersagen:
@@ -1333,7 +1285,7 @@ Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Bes
 
 # § 61 – Mitwirkung von Zolldienststellen
 
-(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zolldienststellen wirken bei der Überwachung der Einfuhr, Durchfuhr und Ausfuhr von Schadorganismen und Befallsgegenständen sowie der Überführung in den freien Verkehr von Pflanzenschutzmitteln sowie von Saatgut, Pflanzgut und Kultursubstrat, die Pflanzenschutzmittel enthalten oder denen Pflanzenschutzmittel anhaften, sowie Wirkstoffen, die zur Herstellung von Pflanzenschutzmitteln oder zur Verwendung als Pflanzenschutzmittel geeignet sind, mit. Die Zusammenarbeit der Zolldienststellen mit dem in § 59 Absatz 1 genannten Behörden bei der Überwachung der in Satz 1 genannten Gegenstände, mit Ausnahme der Schadorganismen und Befallsgegenstände, erfolgt gemäß den Artikeln 27 bis 29 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30).Die Zolldienststellen wirken auch bei der Überwachung des innergemeinschaftlichen Verbringens von Pflanzenschutzmitteln mit.
+(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zolldienststellen wirken bei der Überführung in den freien Verkehr von Pflanzenschutzmitteln sowie von Saatgut, Pflanzgut und Kultursubstrat, die Pflanzenschutzmittel enthalten oder denen Pflanzenschutzmittel anhaften, sowie Wirkstoffen, die zur Herstellung von Pflanzenschutzmitteln oder zur Verwendung als Pflanzenschutzmittel geeignet sind, mit. Die Zusammenarbeit der Zolldienststellen mit dem in § 59 Absatz 1 genannten Behörden bei der Überwachung der in Satz 1 genannten Gegenstände, mit Ausnahme der Schadorganismen und Befallsgegenstände, erfolgt gemäß den Artikeln 27 bis 29 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30).Die Zolldienststellen wirken auch bei der Überwachung des innergemeinschaftlichen Verbringens von Pflanzenschutzmitteln mit.
 
 (2) Die Zolldienststellen können
 
@@ -1343,13 +1295,9 @@ Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Bes
 
 3. in den Fällen der Nummer 2 anordnen, dass die Sendungen der in Absatz 1 Satz 1 genannten Art auf Kosten und Gefahr des Verfügungsberechtigten einer Behörde im Sinne des § 59 Absatz 1 vorgeführt werden. Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe von Satz 1 eingeschränkt.
 
-# § 62 – Befugte Zollstellen
+# § 62 – Befugte Zolldienststellen
 
-Das Bundesministerium für Ernährung und Landwirtschaft gibt im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen
-
-1. Sendungen von Schadorganismen sowie Befallsgegenstände zur Einfuhr oder Ausfuhr abgefertigt werden, wenn die Einfuhr oder Ausfuhr durch Rechtsverordnung nach § 7 geregelt ist, oder
-
-2. Pflanzenschutzmittel zur Überführung in den zollrechtlich freien Verkehr oder zur Ausfuhr abgefertigt werden, wenn dies durch Rechtsverordnung nach § 40 Absatz 2 geregelt ist.
+Das Bundesministerium für Ernährung und Landwirtschaft gibt im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen Pflanzenschutzmittel zur Überführung in den zollrechtlich freien Verkehr oder zur Ausfuhr abgefertigt werden, wenn dies durch Rechtsverordnung nach § 40 Absatz 2 geregelt ist.
 
 # § 63 – Auskunftspflicht
 
@@ -1427,14 +1375,7 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europ
 
 2. entgegen § 3 Absatz 3 ein Tier oder eine Pflanze verwendet,
 
-3. einer Rechtsverordnung nach
-
-a) § 6 Absatz 1 Nummer 1 bis 3, 5 bis 15 oder Nummer 16 oder Absatz 3 Satz 1, § 7 Absatz 1 Satz 1 oder Satz 2 Nummer 1 oder Nummer 2 Buchstabe a, b, e, g oder Buchstabe h, § 14 Absatz 1 Nummer 1 Buchstabe b, Nummer 2, 3, 4 oder 5, Absatz 2 oder Absatz 4 Satz 1, § 16 Absatz 4 Satz 1 Nummer 1, auch in Verbindung mit § 16 Absatz 5 Satz 1 oder Satz 2, § 16 Absatz 4 Satz 1 Nummer 2, § 25 Absatz 3, § 31 Absatz 6 Nummer 4 oder Nummer 5, § 32 Absatz 4 oder § 40 Absatz 2 oder
-
-b) § 7 Absatz 1 Satz 2 Nummer 2 Buchstabe c, d oder Buchstabe f oder Absatz 2 Nummer 1 oder
-
-  
-einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+3. einer Rechtsverordnung nach § 6 Absatz 1 Nummer 1 bis 3, 5 bis 15 oder 16 oder Absatz 3 Satz 1, § 14 Absatz 1 Nummer 1 Buchstabe b oder c, Nummer 2, 3, 4 oder 5, Absatz 2 oder 4 Satz 1, § 16 Absatz 4 Satz 1 Nummer 1, auch in Verbindung mit § 16 Absatz 5 Satz 1 oder 2, § 16 Absatz 4 Satz 1 Nummer 2, § 25 Absatz 3, § 31 Absatz 6 Nummer 4 oder 5, § 32 Absatz 4 oder § 40 Absatz 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 4. entgegen § 9 Absatz 1 ein Pflanzenschutzmittel anwendet, über den Pflanzenschutz berät, eine Person anleitet oder beaufsichtigt oder ein Pflanzenschutzmittel gewerbsmäßig oder über das Internet in Verkehr bringt,
 
@@ -1508,7 +1449,7 @@ einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderha
 
 39. entgegen § 64 Absatz 1 Satz 1, 2 oder Satz 3, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 64 Absatz 2, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-(2) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11. 2009, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+(2) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 28 Absatz 1 ein Pflanzenschutzmittel in Verkehr bringt,
 
@@ -1518,9 +1459,9 @@ einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderha
 
 4. entgegen Artikel 67 Absatz 1 Satz 1 oder Satz 2 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht für die vorgeschriebene Dauer führt.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 2, 3 Buchstabe a, Nummer 4, 6, 7, 9 bis 12, 17, 23 bis 25 und 29 und des Absatzes 2 Nummer 1 bis 3 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro, geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 2, 3, 4, 6, 7, 9 bis 12, 17, 23 bis 25 und 29 und des Absatzes 2 Nummer 1 bis 3 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro, geahndet werden.
 
-(4) Pflanzen, Pflanzenerzeugnisse, Kultursubstrate, Pflanzenschutzmittel, Pflanzenstärkungsmittel und Zusatzstoffe, auf die sich eine Ordnungswidrigkeit nach Absatz 1 Nummer 3 Buchstabe a, Nummer 7, 13, 21 bis 28 oder Absatz 2 Nummer 1 bezieht, können eingezogen werden.
+(4) Pflanzen, Pflanzenerzeugnisse, Kultursubstrate, Pflanzenschutzmittel, Pflanzenstärkungsmittel und Zusatzstoffe, auf die sich eine Ordnungswidrigkeit nach Absatz 1 Nummer 3, 7, 13, 21 bis 28 oder Absatz 2 Nummer 1 bezieht, können eingezogen werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 31 bis 35 und 39 und des Absatzes 2 Nummer 2 das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
@@ -1578,7 +1519,7 @@ Durch Rechtsverordnung des Bundesministeriums für Ernährung und Landwirtschaft
 
 # § 72 – Eilverordnungen
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei Gefahr im Verzug Rechtsverordnungen nach § 7 Absatz 1 und 2, § 8 Absatz 1, § 14 Absatz 1, § 19 Absatz 2, § 25 Absatz 3 oder § 32 Absatz 4, in den Fällen des § 6 Absatz 1 und 2 und des § 7 Absatz 1 auch wenn es zur unverzüglichen Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates und ohne Einvernehmen der jeweils zu beteiligenden Bundesministerien erlassen.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei Gefahr im Verzug Rechtsverordnungen nach § 8 Absatz 1, § 14 Absatz 1, § 19 Absatz 2, § 25 Absatz 3 oder § 32 Absatz 4, in den Fällen des § 6 Absatz 1 und 2 auch wenn es zur unverzüglichen Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates und ohne Einvernehmen der jeweils zu beteiligenden Bundesministerien erlassen.
 
 (2) Rechtsverordnungen nach Absatz 1 treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
