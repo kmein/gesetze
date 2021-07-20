@@ -25,3 +25,5 @@ Anschrift der Geschäftsstelle am Sitz von Bundestag und Bundesregierung.
 (4) Die Eintragung in die Liste begründet keinen Anspruch auf Anhörung oder Ausstellung eines Hausausweises.
 
 (5) Die Liste ist vom Präsidenten jährlich im Bundesanzeiger zu veröffentlichen.
+
+(6) Diese Anlage tritt am 1. März 2022 außer Kraft.

@@ -364,6 +364,7 @@
 - [AuslfVtr YUG](laws/AuslfVtr_YUG.md) Vertrag zwischen der Bundesrepublik Deutschland und der Sozialistischen Föderativen Republik Jugoslawien über die Auslieferung
 - [AuslGrdBesStBefrV](laws/AuslGrdBesStBefrV.md) Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz ausländischer Staaten, der für Wohnzwecke des Personals diplomatischer Missionen und konsularischer Vertretungen benutzt wird
 - [AuslInvG](laws/AuslInvG.md) Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft
+- [AuslPflKrGewQSG](laws/AuslPflKrGewQSG.md) Gesetz zur Sicherung der Qualität der Gewinnung von Pflegekräften aus dem Ausland
 - [AuslPflVG](laws/AuslPflVG.md) Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger
 - [AuslSchuldAbk](laws/AuslSchuldAbk.md) Abkommen über deutsche Auslandsschulden
 - [AuslSchuldAbkAG](laws/AuslSchuldAbkAG.md) Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
