@@ -27,7 +27,7 @@ Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen 
 
 # II. – Die Einreichung der Fragen
 
-6. Die Fragen sind dem Präsidenten (Parlamentssekretariat) in vierfacher Ausfertigung einzureichen.
+6. Die Fragen sind dem Präsidenten (Parlamentssekretariat) einzureichen.
 
 7. Fragen werden erst in die Drucksache zur Fragestunde aufgenommen, wenn sie der Nummer 1 Abs. 3 und Nummer 2 Abs. 1 entsprechen.
 
