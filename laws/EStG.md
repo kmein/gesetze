@@ -5796,28 +5796,7 @@ d) über die Veranlagung, die Anwendung der Tarifvorschriften und die Regelung d
 
 e) über die Besteuerung der beschränkt Steuerpflichtigen einschließlich eines Steuerabzugs;
 
-f) in Fällen, in denen ein Sachverhalt zu ermitteln und steuerrechtlich zu beurteilen ist, der sich auf Vorgänge außerhalb des Geltungsbereichs dieses Gesetzes bezieht, und außerhalb des Geltungsbereichs dieses Gesetzes ansässige Beteiligte oder andere Personen nicht wie bei Vorgängen innerhalb des Geltungsbereichs dieses Gesetzes zur Mitwirkung bei der Ermittlung des Sachverhalts herangezogen werden können, zu bestimmen,
-
-aa)  
-in welchem Umfang Aufwendungen im Sinne des § 4 Absatz 4 oder des § 9 den Gewinn oder den Überschuss der Einnahmen über die Werbungskosten nur unter Erfüllung besonderer Mitwirkungs- und Nachweispflichten mindern dürfen. ²Die besonderen Mitwirkungs- und Nachweispflichten können sich erstrecken auf
-
-aaa)  
-die Angemessenheit der zwischen nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes in ihren Geschäftsbeziehungen vereinbarten Bedingungen,
-
-bbb)  
-die Angemessenheit der Gewinnabgrenzung zwischen unselbständigen Unternehmensteilen,
-
-ccc) die Pflicht zur Einhaltung von für nahestehende Personen geltenden Dokumentations- und Nachweispflichten auch bei Geschäftsbeziehungen zwischen nicht nahestehenden Personen,
-
-ddd)  
-die Bevollmächtigung der Finanzbehörde durch den Steuerpflichtigen, in seinem Namen mögliche Auskunftsansprüche gegenüber den von der Finanzbehörde benannten Kreditinstituten außergerichtlich und gerichtlich geltend zu machen;
-
-bb)  
-dass eine ausländische Gesellschaft ungeachtet des § 50d Absatz 3 nur dann einen Anspruch auf völlige oder teilweise Entlastung vom Steuerabzug nach § 50c Absatz 2 oder 3 oder § 44a Absatz 9 hat, soweit sie die Ansässigkeit der an ihr unmittelbar oder mittelbar beteiligten natürlichen Personen, deren Anteil unmittelbar oder mittelbar 10 Prozent übersteigt, darlegt und nachweisen kann;
-
-cc) dass § 2 Absatz 5b Satz 1, § 32d Absatz 1 und § 43 Absatz 5 in Bezug auf Einkünfte im Sinne des § 20 Absatz 1 Nummer 1 und die steuerfreien Einnahmen nach § 3 Nummer 40 Satz 1 und 2 nur dann anzuwenden sind, wenn die Finanzbehörde bevollmächtigt wird, im Namen des Steuerpflichtigen mögliche Auskunftsansprüche gegenüber den von der Finanzbehörde benannten Kreditinstituten außergerichtlich und gerichtlich geltend zu machen.
-
-²Die besonderen Nachweis- und Mitwirkungspflichten auf Grund dieses Buchstabens gelten nicht, wenn die außerhalb des Geltungsbereichs dieses Gesetzes ansässigen Beteiligten oder andere Personen in einem Staat oder Gebiet ansässig sind, mit dem ein Abkommen besteht, das die Erteilung von Auskünften entsprechend Artikel 26 des Musterabkommens der OECD zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen in der Fassung von 2005 vorsieht oder der Staat oder das Gebiet Auskünfte in einem vergleichbaren Umfang erteilt oder die Bereitschaft zu einer entsprechenden Auskunftserteilung besteht;
+f) (weggefallen)
 
 2. Vorschriften durch Rechtsverordnung zu erlassen
 

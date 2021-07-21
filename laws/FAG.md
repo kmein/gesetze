@@ -102,7 +102,7 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 2. aus seinem Anteil an der Gewerbesteuerumlage nach § 6 des Gemeindefinanzreformgesetzes;
 
-3. aus der Vermögensteuer, der Erbschaftsteuer, der Biersteuer, der Rennwett- und Lotteriesteuer sowie der Steuer für Sportwetten mit Ausnahme der Totalisatorsteuer, der Feuerschutzsteuer und der Spielbankabgabe mit Ausnahme der Sonderabgabe und der Troncabgabe;
+3. aus der Vermögensteuer, der Erbschaftsteuer, der Biersteuer, der Steuern nach dem Rennwett- und Lotteriegesetz mit Ausnahme der Totalisatorsteuer, der Feuerschutzsteuer und der Spielbankabgabe mit Ausnahme der Sonderabgabe und der Troncabgabe;
 
 4. nach dem Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund.
 

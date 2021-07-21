@@ -4596,8 +4596,8 @@
 - [ReifKennzV](laws/ReifKennzV.md) Verordnung zur Durchführung der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter
 - [ReiseKfmAusbV 2011](laws/ReiseKfmAusbV_2011.md) Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)*)
 - [REITG](laws/REITG.md) Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen
+- [RennwLottDV](laws/RennwLottDV.md) Verordnung zur Durchführung des Rennwett- und Lotteriegesetzes
 - [RennwLottG](laws/RennwLottG.md) Rennwett- und Lotteriegesetz
-- [RennwLottGABest](laws/RennwLottGABest.md) Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz
 - [ReNoPatAusb-FachEigV](laws/ReNoPatAusb-FachEigV.md) Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten in Rechtsanwalt- und Patentanwaltschaft, Notariat und bei Rechtsbeiständen
 - [ReNoPatAusbV](laws/ReNoPatAusbV.md) Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten*
 - [RentBkGrSchG RP](laws/RentBkGrSchG_RP.md) Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz
