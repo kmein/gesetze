@@ -17,10 +17,10 @@ Auf Grund des § 152 des Elften Buches Sozialgesetzbuch, der durch Artikel 4 Num
 
 (5) Der Zeitraum nach § 150 Absatz 6 Satz 2 des Elften Buches Sozialgesetzbuch wird bis einschließlich 31. Dezember 2021 verlängert.
 
-# Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
 # § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
+
+# Schlussformel
+
+Der Bundesrat hat zugestimmt.

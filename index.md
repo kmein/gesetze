@@ -4370,7 +4370,6 @@
 - [PfPTrStatZProt](laws/PfPTrStatZProt.md) Zusatzprotokoll zu dem Übereinkommen vom 19. Juni 1995 zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen
 - [PfWirtAusbStEignV 2011](laws/PfWirtAusbStEignV_2011.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt und zur Pferdewirtin
 - [PfWirtAusbV 2010](laws/PfWirtAusbV_2010.md) Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin*)
-- [PfZLpV](laws/PfZLpV.md) Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Pferden
 - [PharmAusbErprobV](laws/PharmAusbErprobV.md) Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 - [PharmAusbV 2009](laws/PharmAusbV_2009.md) Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin *)
 - [PharmIndMstrFortbV](laws/PharmIndMstrFortbV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie
@@ -4660,7 +4659,6 @@
 - [RindHKlV](laws/RindHKlV.md) Verordnung über gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
 - [RindSalmV](laws/RindSalmV.md) Verordnung zum Schutz gegen die Salmonellose der Rinder
 - [RindTbV](laws/RindTbV.md) Verordnung zum Schutz gegen die Tuberkulose des Rindes
-- [RindZLpV](laws/RindZLpV.md) Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Rindern
 - [RIP](laws/RIP.md) Ordnung für die internationale Eisenbahnbeförderung von Privatwagen (Anlage II zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF)
 - [RiRegDG](laws/RiRegDG.md) Gesetz über die Verwendung der zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Kennzeichnung und Registrierung von Rindern erhobenen Daten
 - [RiWG](laws/RiWG.md) Richterwahlgesetz
@@ -4764,7 +4762,6 @@
 - [SachvPrüfV](laws/SachvPrüfV.md) Verordnung über die Prüfung des Jahresabschlusses und des Lageberichts von Versicherungsunternehmen durch einen unabhängigen Sachverständigen
 - [SachvRatG](laws/SachvRatG.md) Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 - [SAG](laws/SAG.md) Gesetz zur Sanierung und Abwicklung von Instituten und Finanzgruppen
-- [SamEnV](laws/SamEnV.md) Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren*)
 - [SanDVergV](laws/SanDVergV.md) Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
 - [SanG](laws/SanG.md) Sanierungshilfengesetz
 - [SanOAAusbGV](laws/SanOAAusbGV.md) Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und -Anwärter
@@ -4789,7 +4786,6 @@
 - [SchadRegProtAG](laws/SchadRegProtAG.md) Gesetz zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006
 - [SchädlBekAusbV](laws/SchädlBekAusbV.md) Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
 - [SchaEVZG](laws/SchaEVZG.md) Gesetz über eine staatliche Vorauszahlung an durch Straftaten geschädigte Bürger
-- [Schaf/ZiegeZLpV](laws/Schaf_ZiegeZLpV.md) Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schafen und Ziegen
 - [SchAnpG 2](laws/SchAnpG_2.md) Zweites Gesetz zur Anpassung bestimmter Bedingungen in der Seeschifffahrt an den internationalen Standard
 - [SchAnpGArt11Abs2aBek](laws/SchAnpGArt11Abs2aBek.md) Bekanntmachung nach Artikel 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
 - [ScharkaV](laws/ScharkaV.md) Verordnung zur Bekämpfung der Scharkakrankheit
@@ -4887,7 +4883,6 @@
 - [SchwPestMonV](laws/SchwPestMonV.md) Verordnung zur Durchführung eines Monitorings auf das Virus der Klassischen und der Afrikanischen Schweinepest bei Wild- und Hausschweinen
 - [SchwPestV 1988](laws/SchwPestV_1988.md) Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest *
 - [SchwSalmoV](laws/SchwSalmoV.md) Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine
-- [SchwZLpV](laws/SchwZLpV.md) Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schweinen
 - [SchZusStrZustÜbk](laws/SchZusStrZustÜbk.md) Internationales Übereinkommen zur Vereinheitlichung von Regeln über die strafgerichtliche Zuständigkeit bei Schiffszusammenstößen und anderen mit der Führung eines Seeschiffes zusammenhängenden Ereignissen
 - [SchZusZZustÜbk](laws/SchZusZZustÜbk.md) Internationales Übereinkommen zur Vereinheitlichung von Regeln über die zivilgerichtliche Zuständigkeit bei Schiffszusammenstößen
 - [SDLWindV](laws/SDLWindV.md) Verordnung zu Systemdienstleistungen durch Windenergieanlagen
@@ -5520,9 +5515,8 @@
 - [TierSeuchErV](laws/TierSeuchErV.md) Verordnung über das Arbeiten mit Tierseuchenerregern
 - [TierSeuchSchNOKanV](laws/TierSeuchSchNOKanV.md) Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal
 - [TierwMeistPrV](laws/TierwMeistPrV.md) Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister und Tierwirtschaftsmeisterin
+- [TierZDV](laws/TierZDV.md) Verordnung zur Durchführung des Tierzuchtgesetzes 1 , 2
 - [TierZG](laws/TierZG.md) Tierzuchtgesetz
-- [TierZG1989LehrgV](laws/TierZG1989LehrgV.md) Verordnung über Lehrgänge nach dem Tierzuchtgesetz
-- [TierZOV](laws/TierZOV.md) Verordnung über Zuchtorganisationen*)
 - [TIRÜbk 1975](laws/TIRÜbk_1975.md) Zollübereinkommen über den internationalen Warentransport mit Carnets TIR
 - [TIRÜbk1975G](laws/TIRÜbk1975G.md) Gesetz zu dem Zollübereinkommen vom 14. November 1975 über den internationalen Warentransport mit Carnets TIR (TIR-Übereinkommen 19/5)
 - [TischlAusbV 2006](laws/TischlAusbV_2006.md) Verordnung über die Berufsausbildung zum Tischler/zur Tischlerin
