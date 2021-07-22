@@ -187,27 +187,7 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (5) Ein Arbeitsverhältnis im Sinne des Arbeitsrechts und ein Beschäftigungsverhältnis im Sinne der gesetzlichen Kranken- und Rentenversicherung werden nicht begründet. § 61 Abs. 1 des Asylgesetzes sowie asyl- und ausländerrechtliche Auflagen über das Verbot und die Beschränkung einer Erwerbstätigkeit stehen einer Tätigkeit nach den Absätzen 1 bis 4 nicht entgegen. Die Vorschriften über den Arbeitsschutz sowie die Grundsätze der Beschränkung der Arbeitnehmerhaftung finden entsprechende Anwendung.
 
-# § 5a – Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen
-
-(1) Arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr vollendet haben und nicht der Vollzeitschulpflicht unterliegen, können von den nach diesem Gesetz zuständigen Behörden zu ihrer Aktivierung in Arbeitsgelegenheiten zugewiesen werden, die im Rahmen des von der Bundesagentur für Arbeit (Bundesagentur) durchgeführten Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen gegen Mehraufwandsentschädigung bereitgestellt werden (Flüchtlingsintegrationsmaßnahme). Satz 1 findet keine Anwendung auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, die aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammen, sowie auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5.
-
-(2) Leistungsberechtigte nach Absatz 1 Satz 1 sind zur Wahrnehmung einer für sie zumutbaren Flüchtlingsintegrationsmaßnahme, der sie nach Absatz 1 zugewiesen wurden, verpflichtet; § 11 Absatz 4 des Zwölften Buches Sozialgesetzbuch gilt für die Beurteilung der Zumutbarkeit entsprechend. Ein sonstiger wichtiger Grund im Sinne von § 11 Absatz 4 Satz 1 Nummer 3 des Zwölften Buches Sozialgesetzbuch kann insbesondere auch dann vorliegen, wenn die leistungsberechtigte Person eine Beschäftigung auf dem allgemeinen Arbeitsmarkt, eine Berufsausbildung oder ein Studium aufnimmt oder aufgenommen hat.
-
-(3) Leistungsberechtigte, die sich entgegen ihrer Verpflichtung nach Absatz 2 trotz schriftlicher Belehrung über die Rechtsfolgen weigern, eine für sie zumutbare Flüchtlingsintegrationsmaßnahme aufzunehmen oder fortzuführen oder die die Anbahnung einer für sie zumutbaren Flüchtlingsintegrationsmaßnahme durch ihr Verhalten verhindern, haben nur Anspruch auf Leistungen entsprechend § 1a Absatz 1. Satz 1 gilt nicht, wenn der Leistungsberechtigte einen wichtigen Grund für sein Verhalten darlegt und nachweist.
-
-(4) Die Auswahl geeigneter Teilnehmerinnen und Teilnehmer soll vor einer Entscheidung über die Zuweisung nach Absatz 1 Satz 1 mit den Trägern der Flüchtlingsintegrationsmaßnahme (Maßnahmeträgern) abgestimmt werden. Hierzu übermitteln die nach diesem Gesetz zuständigen Behörden den Maßnahmeträgern auf deren Ersuchen hin die erforderlichen Daten über Leistungsberechtigte, die für die Teilnahme an einer Flüchtlingsintegrationsmaßnahme in Betracht kommen.
-
-(5) Die nach diesem Gesetz zuständigen Behörden dürfen die für die Erfüllung ihrer Aufgaben nach den Absätzen 1, 3 und 4 erforderlichen personenbezogenen Daten von Leistungsberechtigten verarbeiten, einschließlich Angaben
-
-1. zum Bildungsstand, zur beruflichen Qualifikation und zum Vorliegen einer Beschäftigung,
-
-2. zu Sprachkenntnissen und
-
-3. zur Durchführung eines Integrationskurses nach § 43 des Aufenthaltsgesetzes oder einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes.
-
-Die nach diesem Gesetz zuständigen Behörden dürfen den Maßnahmeträgern die in Satz 1 genannten Daten übermitteln, soweit dies für die Erfüllung ihrer Aufgaben nach den Absätzen 1, 3 und 4 erforderlich ist.
-
-(6) Die Maßnahmeträger dürfen die ihnen nach Absatz 5 Satz 2 übermittelten Daten zu den Zwecken verarbeiten, zu denen sie ihnen übermittelt wurden. Maßnahmeträger dürfen den nach diesem Gesetz zuständigen Behörden die in Absatz 5 Satz 1 genannten Daten übermitteln, soweit dies für die Auswahl der Teilnehmerinnen und Teilnehmer, die Erteilung einer Zuweisung in die Maßnahme, die Feststellung der ordnungsgemäßen Teilnahme oder die Bescheinigung der erfolgreichen Teilnahme erforderlich ist. Maßnahmeträger haben den nach diesem Gesetz zuständigen Behörden unverzüglich Auskünfte über Tatsachen zu erteilen, die Anlass für eine Leistungsabsenkung nach Absatz 3 geben könnten und die deshalb für die Leistungen nach diesem Gesetz erheblich sind.
+# § 5a – (weggefallen)
 
 # § 5b – Sonstige Maßnahmen zur Integration
 

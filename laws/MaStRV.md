@@ -87,7 +87,7 @@ f) Stromverbrauchseinheit,
 
 3. Bilanzkreisverantwortliche,
 
-4. Messstellenbetreiber, mit Ausnahme der Messstellenbetreiber im Sinne des § 10a Satz 2 des Erneuerbare-Energien-Gesetzes und des § 14 Satz 3 des Kraft-Wärme-Kopplungsgesetzes,
+4. Messstellenbetreiber, mit Ausnahme der Messstellenbetreiber im Sinne des § 10a Satz 2 des Erneuerbare-Energien-Gesetzes und des § 14 Absatz 1 Satz 3 des Kraft-Wärme-Kopplungsgesetzes,
 
 5. Netzbetreiber einschließlich der Betreiber von geschlossenen Verteilernetzen,
 
@@ -123,7 +123,7 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 # § 5 – Registrierung von Einheiten und von EEG- und KWK-Anlagen
 
-(1) Betreiber müssen ihre Einheiten, ihre EEG- und KWK-Anlagen bei deren Inbetriebnahme im Marktstammdatenregister registrieren. Einheiten von Solaranlagen, die von demselben Betreiber am selben Standort gleichzeitig in Betrieb genommen werden, sind summarisch als eine Einheit zu registrieren; § 38b Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden.
+(1) Betreiber müssen ihre Einheiten, ihre EEG- und KWK-Anlagen im Marktstammdatenregister registrieren. Einheiten von Solaranlagen, die von demselben Betreiber am selben Standort gleichzeitig in Betrieb genommen werden, sind summarisch als eine Einheit zu registrieren; § 38b Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden.
 
 (2) Die Pflicht zur Registrierung nach den Absätzen 1, 3 und 4 Satz 1 entfällt
 
@@ -139,9 +139,9 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 (3) Betreiber müssen den Beginn von vorläufigen und endgültigen Stilllegungen sowie das Ende von vorläufigen Stilllegungen ihrer Einheiten gemäß Absatz 5 Satz 1 registrieren.
 
-(4) Betreiber müssen ihre Projekte im Marktstammdatenregister gemäß Absatz 5 registrieren, wenn die Errichtung oder der Betrieb der Stromerzeugungseinheit einer Zulassung nach dem Bundes-Immissionsschutzgesetz, dem Windenergie-auf-See-Gesetz oder sonstigem Bundesrecht bedarf. Jedes registrierungspflichtige Projekt muss zusammen mit der erteilten Zulassung registriert werden.
+(4) Betreiber müssen ihre Projekte im Marktstammdatenregister gemäß Absatz 5 registrieren, wenn die Errichtung oder der Betrieb der Stromerzeugungseinheit einer Zulassung nach dem Bundes-Immissionsschutzgesetz, dem Windenergie-auf-See-Gesetz oder sonstigem Bundesrecht bedarf und die Zulassung erteilt wurde.
 
-(5) Die Registrierungen nach den Absätzen 1, 3 und 4 Satz 1 müssen innerhalb eines Monats nach dem Eintreten des jeweiligen Ereignisses erfolgen. Für Registrierungen nach Absatz 4 Satz 1 ist das Ereignis die Bekanntgabe der Zulassung.
+(5) Registrierungen nach Absatz 1 Satz 1 müssen im Fall von Einheiten und EEG-Anlagen innerhalb eines Monats nach der Inbetriebnahme erfolgen, im Fall von KWK-Anlagen innerhalb eines Monats nach der Aufnahme des Dauerbetriebs oder im Fall einer Modernisierung von KWK-Anlagen nach der Wiederaufnahme des Dauerbetriebs erfolgen. Abweichend von Satz 1 müssen Registrierungen von Einheiten, EEG- und KWK-Anlagen, die vor dem 1. Juli 2017 in Betrieb genommen wurden oder den Dauerbetrieb aufgenommen oder im Fall einer Modernisierung wiederaufgenommen haben, bis zum 30. September 2021 erfolgen. Die Registrierungen nach den Absätzen 3 und 4 müssen innerhalb eines Monats nach dem Eintreten des jeweiligen Ereignisses erfolgen. Für Registrierungen nach Absatz 4 Satz 1 ist das Ereignis die Bekanntgabe der Zulassung.
 
 (6) EEG-Anlagen und KWK-Anlagen, die außerhalb des Bundesgebiets errichtet werden, stehen EEG-Anlagen und KWK-Anlagen im Sinn dieser Verordnung gleich, soweit die Pflicht zur Registrierung in einer Rechtsverordnung nach § 88a des Erneuerbare-Energien-Gesetzes oder nach § 33a Absatz 2 des Kraft-Wärme-Kopplungsgesetzes und in einer darauf geschlossenen völkerrechtlichen Vereinbarung bestimmt worden ist.
 
@@ -237,7 +237,7 @@ Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor dem 1. Jul
 
 (3) Die Bundesnetzagentur kennzeichnet die erfolgte Überprüfung der Daten durch den Netzbetreiber im Marktstammdatenregister.
 
-(4) (weggefallen)
+(4) Die Netzbetreiber übermitteln der Bundesnetzagentur auf Anforderung bei ihnen vorhandene Stammdaten zu Marktakteuren, Einheiten, EEG- und KWK-Anlagen, auch wenn diese Daten nicht im Register erfasst sind, wenn diese Daten im Einzelfall für die Registerführung erforderlich sind.
 
 (5) (weggefallen)
 
@@ -329,9 +329,9 @@ Datenzugang nach Satz 1 ist entsprechend den zuständigen Übertragungsnetzbetre
 
 (1) Betreiber von EEG-Anlagen, für die erstmals die Flexibilitätsprämie nach § 50b des Erneuerbare-Energien-Gesetzes in Anspruch genommen werden soll, müssen die geplante Inanspruchnahme im Marktstammdatenregister eintragen. Die Eintragung darf frühestens drei Monate vor der geplanten Inanspruchnahme der Flexibilitätsprämie erfolgen. Diese Frist ist abweichend von § 7 Absatz 1 auch anzuwenden auf die Registrierung einer Erhöhung der installierten Leistung der Anlage, wenn die Leistung zur Inanspruchnahme der Flexibilitätsprämie erhöht wird.
 
-(2) Betreiber von EEG-Anlagen, in denen erstmals ausschließlich Biomethan zur Stromerzeugung eingesetzt wird, um eine Förderung nach den Bestimmungen des Erneuerbare-Energien-Gesetzes in der Fassung, die für die Anlage nach § 100 Absatz 2 Satz 1 Nummer 4 oder Nummer 10 und Absatz 3 Satz 2 des Erneuerbare-Energien-Gesetzes maßgeblich ist, in Anspruch zu nehmen, müssen die Umstellung als EEG-Anlage innerhalb eines Monats nach der Umstellung im Marktstammdatenregister eintragen.
+(2) Betreiber von EEG-Anlagen, in denen erstmals ausschließlich Biomethan zur Stromerzeugung eingesetzt wird, um eine Förderung nach den Bestimmungen des Erneuerbare-Energien-Gesetzes in der Fassung, die für die Anlage nach § 100 Absatz 2 Satz 1 Nummer 4 oder Nummer 10 und Absatz 3 Satz 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung maßgeblich ist, in Anspruch zu nehmen, müssen die Umstellung als EEG-Anlage innerhalb eines Monats nach der Umstellung im Marktstammdatenregister eintragen.
 
-(3) Wird eine EEG-Anlage, die ausschließlich mit Biomethan betrieben wurde, endgültig stillgelegt, so muss der Anlagenbetreiber bei der Registrierung der Stilllegung erklären, ob er der Nutzung der frei gewordenen Kapazität im Sinn des § 100 Absatz 3 des Erneuerbare-Energien-Gesetzes widerspricht.
+(3) Wird eine EEG-Anlage, die ausschließlich mit Biomethan betrieben wurde, endgültig stillgelegt, so muss der Anlagenbetreiber bei der Registrierung der Stilllegung erklären, ob er der Nutzung der frei gewordenen Kapazität im Sinn des § 100 Absatz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung widerspricht.
 
 (4) Ein Betreiber, der die frei gewordene Kapazität einer stillgelegten Anlage, die ausschließlich mit Biomethan betrieben wurde, nutzen möchte, muss
 
@@ -341,7 +341,7 @@ Datenzugang nach Satz 1 ist entsprechend den zuständigen Übertragungsnetzbetre
 
 Der Netzbetreiber muss der Bundesnetzagentur die Nutzung der Kapazität unverzüglich mitteilen.
 
-(5) Die Eintragung der Angabe nach § 23b Absatz 2 Nummer 1 des Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese Angabe nicht anzuwenden.
+(5) Die Eintragung der Angabe nach § 23c Absatz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes kann frühestens im Rahmen der Registrierung nach § 5 Absatz 1 erfolgen. § 7 Absatz 1 ist für diese Angabe nicht anzuwenden.
 
 (6) Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
 
@@ -363,7 +363,7 @@ der Brutto-Zubau von Solaranlagen, deren anzulegender Wert durch Ausschreibungen
 
 c) den Brutto-Zubau von Biomasseanlagen im jeweils vorangegangenen Kalendermonat; hierbei ist gesondert auszuweisen der Brutto-Zubau von Biomasseanlagen, deren anzulegender Wert nicht durch Ausschreibung ermittelt worden ist, und
 
-d) die Summe der flexibel bereitgestellten zusätzlich installierten Leistung zur Erlangung der Flexibilitätsprämie und
+d) die Summe der installierten Leistung der Biomasseanlagen, die die Geltendmachung des verlängerten Zahlungsanspruchs nach § 12a der Erneuerbare-Energien-Verordnung mitgeteilt haben, und
 
 2. spätestens zum letzten Kalendertag des auf einen Bezugszeitraum nach § 49 Absatz 4 des Erneuerbare-Energien-Gesetzes folgenden Kalendermonats
 
@@ -371,7 +371,7 @@ a) den annualisierten Brutto-Zubau von Solaranlagen in dem Bezugszeitraum und
 
 b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerbare-Energien-Gesetzes für Solaranlagen ergeben.
 
-(2) Zur Umsetzung des § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes hat die Bundesnetzagentur die Stilllegungen nach § 18 Absatz 3 gesondert auf ihrer Internetseite zu veröffentlichen, soweit der Nutzung der freigewordenen Kapazität nicht widersprochen wurde. Dabei veröffentlicht sie auch die Höhe der installierten Leistung der jeweiligen Anlage, die für den Nachweis nach § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes herangezogen werden kann. Die Veröffentlichung muss aktualisiert werden, sobald eine Stilllegung eingetragen worden ist oder ein Netzbetreiber die geplante Nutzung der Kapazität im Sinn des § 18 Absatz 4 angezeigt hat.
+(2) Zur Umsetzung des § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung hat die Bundesnetzagentur die Stilllegungen nach § 18 Absatz 3 gesondert auf ihrer Internetseite zu veröffentlichen, soweit der Nutzung der freigewordenen Kapazität nicht widersprochen wurde. Dabei veröffentlicht sie auch die Höhe der installierten Leistung der jeweiligen Anlage, die für den Nachweis nach § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2020 geltenden Fassung herangezogen werden kann. Die Veröffentlichung muss aktualisiert werden, sobald eine Stilllegung eingetragen worden ist oder ein Netzbetreiber die geplante Nutzung der Kapazität im Sinn des § 18 Absatz 4 angezeigt hat.
 
 # § 20 – Nutzungsbestimmungen
 
@@ -409,55 +409,15 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 # § 23 – Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz
 
-(1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie Ansprüche auf Zahlungen nach dem Kraft-Wärme-Kopplungsgesetz werden erst fällig, wenn die Betreiber die Einheiten registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Betriebs nach ihrer Modernisierung registriert haben. Dies gilt entsprechend für Abschlagszahlungen auf diese Zahlungen.
+(1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie Ansprüche auf Zahlungen nach dem Kraft-Wärme-Kopplungsgesetz werden erst fällig, wenn die Betreiber die Einheiten registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Betriebs nach ihrer Modernisierung registriert haben. Dies gilt entsprechend für Abschlagszahlungen auf diese Zahlungen. Die Sätze 1 und 2 sind auf Einheiten und EEG-Anlagen, die vor dem 1. Februar 2019 in Betrieb genommen wurden, und auf KWK-Anlagen, die vor dem 1. Februar 2019 den Dauerbetrieb aufgenommen oder nach einer erfolgten Modernisierung wieder aufgenommen haben, ab dem 1. Oktober 2021 und mit der Maßgabe anzuwenden, dass die Fälligkeit nur dann nicht eintritt, wenn der Netzbetreiber von der Nichtregistrierung Kenntnis erlangt hat oder erlangt haben müsste.
 
 (2) § 52 des Erneuerbare-Energien-Gesetzes und § 13a des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
 
 (+++ § 23: Zur Anwendung vgl. § 25 Abs. 7 +++)
 
-# § 24 – Berichterstattung
+# § 24 – Übergangsbestimmungen
 
-Die Bundesregierung berichtet dem Bundestag im Monitoring-Prozess „Energie der Zukunft“ jährlich über Erfahrungen mit dem Marktstammdatenregister und seiner Entwicklung.
-
-# § 25 – Übergangsbestimmungen
-
-(1) Die Bundesnetzagentur gibt den Start des Webportals zum Marktstammdatenregister auf ihrer Internetseite und im Amtsblatt der Bundesnetzagentur bekannt. § 8 Absatz 1 Satz 1 ist erst ab diesem Zeitpunkt anzuwenden.
-
-(2) Registrierungen von Marktakteuren, Einheiten, EEG- und KWK-Anlagen und Projekten, die innerhalb von 24 Monaten nach dem Start des Webportals vorgenommen werden, gelten abweichend von § 3 Absatz 2 und von § 5 Absatz 5 als rechtzeitig. Hiervon ausgenommen sind die Registrierungen von
-
-1. Netzbetreibern,
-
-2. EEG- und KWK-Anlagen und den dazugehörigen Einheiten,
-
-a) die nach dem 30. Juni 2017 in Betrieb genommen werden, oder
-
-b) die bereits registrierungspflichtig waren, aber nicht registriert worden sind, nach
-
-aa)  
-§ 16 Absatz 2 Satz 2 des Erneuerbare-Energien-Gesetzes in der bis zum 31. Dezember 2011 geltenden Fassung,
-
-bb)  
-§ 17 Absatz 2 Nummer 1 des Erneuerbare-Energien-Gesetzes in der bis zum 31. Juli 2014 geltenden Fassung oder
-
-cc) § 3 der Anlagenregisterverordnung
-
-und deren Betreibern,
-
-3. sonstigen Einheiten, die nach dem 30. Juni 2017 in Betrieb genommen werden, und deren Betreibern,
-
-4. Einheiten und Anlagen, deren installierte Leistung nach dem 30. Juni 2017 erhöht oder verringert wird, und deren Betreibern,
-
-5. Projekten, sofern die Zulassung ab dem 1. Juli 2017 bekanntgegeben wird, und deren Betreibern.
-
-Für Registrierungen nach den Nummern 1 und 2 sind die Fristen gemäß § 3 Absatz 2 und § 5 Absatz 5 anzuwenden; Registrierungen nach den Nummern 3 bis 5 gelten als rechtzeitig, wenn sie innerhalb von sechs Monaten nach dem Start des Webportals vorgenommen werden. Projekte, deren Zulassung vor dem 1. Juli 2017 bekanntgegeben wurde, sind entgegen § 5 Absatz 4 nicht zu registrieren.
-
-(3) Abweichend von § 13 Absatz 2 und § 14 Absatz 2 betragen die Fristen für die Übermittlungen der Prüfergebnisse und die Eintragungen der Daten zu den technischen Lokationen sechs Monate nach der Aufforderung durch die Bundesnetzagentur, wenn die Aufforderung innerhalb der ersten 24 Monate nach dem Start des Webportals erfolgt. Hiervon ausgenommen sind Prüfungen von Daten zu Anlagen, die Zahlungen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz erhalten, deren Höhe durch Ausschreibungen ermittelt wird.
-
-(4) Netzbetreiber müssen Betreiber von EEG-Anlagen und KWK-Anlagen, die an ihr Netz angeschlossen sind, vor dem Start des Webportals in Betrieb genommen worden sind und Zahlungen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz erhalten oder erhalten haben und noch nicht im Marktstammdatenregister registriert sind, schriftlich darüber informieren, dass die Betreiber sich und ihre Einheiten und Anlagen im Marktstammdatenregister registrieren müssen; dabei ist auf die Rechtsfolgen des § 23 Absatz 1 hinzuweisen. Die Informationen und Hinweise sind innerhalb von 18 Monaten nach dem Start des Webportals zu übermitteln.Sie sollen mittels von der Bundesnetzagentur bereitgestellten Formularen erfolgen. Die Bundesnetzagentur stellt die entsprechenden Formulare bereit und veröffentlicht sie im Internet.
-
-(5) Das Recht auf Verweigerung der Datenübermittlung nach § 16 Absatz 6 darf frühestens 24 Monate nach dem Start des Webportals geltend gemacht werden.
-
-(6) § 23 Absatz 1 ist auf Einheiten, die vor dem 1. Februar 2019 in Betrieb genommen wurden, bis zum Ablauf von 24 Monaten nach dem Start des Webportals nicht und danach mit der Maßgabe anzuwenden, dass die Ansprüche nicht fällig werden, solange die Betreiber die Einheiten nicht registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Dauerbetriebs nach ihrer Modernisierung nicht registriert haben und der Netzbetreiber Kenntnis von der Nichtregistrierung erlangt hat oder erlangt haben müsste.
+Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5.
 
 # Anlage – Im Marktstammregister zu erfassende Daten
 
