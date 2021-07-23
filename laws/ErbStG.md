@@ -342,7 +342,9 @@ der Zweck des Vereins ausschließlich darauf gerichtet ist, durch Teilnahme mit 
 bb)  
 der Verein auf Bundes-, Landes- oder Kommunalebene bei der jeweils letzten Wahl wenigstens ein Mandat errungen oder der zuständigen Wahlbehörde oder dem zuständigen Wahlorgan angezeigt hat, dass er mit eigenen Wahlvorschlägen auf Bundes-, Landes- oder Kommunalebene an der jeweils nächsten Wahl teilnehmen will.
 
-Die Steuerbefreiung fällt mit Wirkung für die Vergangenheit weg, wenn der Verein an der jeweils nächsten Wahl nach der Zuwendung nicht teilnimmt, es sei denn, dass der Verein sich ernsthaft um eine Teilnahme bemüht hat.
+Die Steuerbefreiung fällt mit Wirkung für die Vergangenheit weg, wenn der Verein an der jeweils nächsten Wahl nach der Zuwendung nicht teilnimmt, es sei denn, dass der Verein sich ernsthaft um eine Teilnahme bemüht hat;
+
+19. Leistungen von Religionsgemeinschaften, juristischen Personen des öffentlichen Rechts, Körperschaften, Personenvereinigungen oder Vermögensmassen an Personen in Ansehung der Beeinträchtigung ihrer körperlichen oder seelischen Unversehrtheit, insbesondere aufgrund sexuellen Missbrauchs, durch Handlungen von Personen, die für die Religionsgemeinschaft, juristische Person des öffentlichen Rechts, Körperschaft, Personenvereinigung oder Vermögensmasse oder für eine ihr über-, neben- oder nachgeordnete Einrichtung tätig sind oder waren, wenn die Leistungen in einem geordneten Verfahren gewährt werden, das allen betroffenen Personen offensteht. § 30 Absatz 1 und 2 sind mit der Maßgabe anzuwenden, dass eine Anzeigepflicht ausschließlich für den Leistenden besteht. Die Anzeige ist mit einer Bestätigung des Leistenden über das Vorliegen der Voraussetzungen nach Satz 1 zu verbinden.
 
 (2) Angemessen im Sinne des Absatzes 1 Nr. 5 und 12 ist eine Zuwendung, die den Vermögensverhältnissen und der Lebensstellung des Bedachten entspricht. Eine dieses Maß übersteigende Zuwendung ist in vollem Umfang steuerpflichtig.
 
@@ -1055,6 +1057,8 @@ e) die Anzeige-, Mitteilungs- und Übersendungspflichten der Gerichte, Behörden
 (17) Auf Erwerbe, für die die Steuer vor dem Zeitpunkt entstanden ist, ab dem das Vereinigte Königreich Großbritannien und Nordirland nicht mehr Mitgliedstaat der Europäischen Union ist und auch nicht wie ein solcher zu behandeln ist, ist dieses Gesetz mit der Maßgabe anzuwenden, dass das Vereinigte Königreich Großbritannien und Nordirland weiterhin als Mitgliedstaat der Europäischen Union gilt.
 
 (18) § 3 Absatz 2 Nummer 5, § 5 Absatz 1 Satz 6, § 10 Absatz 1 Satz 3 sowie Absatz 6 und 8, § 13 Absatz 1 Nummer 9a, § 13a Absatz 9a, § 13b Absatz 10 Satz 1, § 14 Absatz 2, § 29 Absatz 1 Nummer 4 Satz 2, § 30 Absatz 5, § 31 Absatz 1 sowie § 35 Absatz 1, 4 und 5 in der am 29. Dezember 2020 geltenden Fassung sind auf Erwerbe anzuwenden, für die die Steuer nach dem 28. Dezember 2020 entsteht.
+
+(19) § 13 Absatz 1 Nummer 19 in der Fassung des Artikels 6 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) ist in allen Fällen anzuwenden, soweit die Steuerbescheide noch nicht bestandskräftig sind.
 
 # § 37a – Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
 

@@ -745,6 +745,7 @@
 - [BfNKostV](laws/BfNKostV.md) Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz
 - [BFöV](laws/BFöV.md) Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
+- [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
 - [BFStrMG](laws/BFStrMG.md) Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 - [BFStrSonGebV](laws/BFStrSonGebV.md) Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes
 - [BGA-NachfG](laws/BGA-NachfG.md) Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes
@@ -1522,6 +1523,7 @@
 - [DMBilG](laws/DMBilG.md) Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung
 - [DmMV](laws/DmMV.md) Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln
 - [DNBG](laws/DNBG.md) Gesetz über die Deutsche Nationalbibliothek
+- [DNG](laws/DNG.md) Gesetz für die Nutzung von Daten des öffentlichen Sektors
 - [DöKVAG](laws/DöKVAG.md) Ausführungsgesetz zum deutsch-österreichischen Konkursvertrag
 - [DokErstÜbV](laws/DokErstÜbV.md) Verordnung über die Standards für die Erstellung elektronischer Dokumente und für deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten
 - [DollBBerAbk 2](laws/DollBBerAbk_2.md) Zweites Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben
@@ -2299,6 +2301,8 @@
 - [GaFG](laws/GaFG.md) Gesetz zur Errichtung des Sondervermögens „Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
 - [GAKG](laws/GAKG.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
 - [GalvMstrV](laws/GalvMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Galvaniseur-Handwerk
+- [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
+- [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
 - [GarBBAnO](laws/GarBBAnO.md) Anordnung über den Bau und Betrieb von Garagen
 - [GArchDVDV](laws/GArchDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes
 - [GartAusbStEignV](laws/GartAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin
@@ -2957,7 +2961,6 @@
 - [IUCNVorV](laws/IUCNVorV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen
 - [IVD-AMG-V](laws/IVD-AMG-V.md) Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz
 - [IVSG](laws/IVSG.md) Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern 1
-- [IWG](laws/IWG.md) Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen
 - [IZÜV](laws/IZÜV.md) Verordnung zur Regelung des Verfahrens bei Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen
 - [JAbschlVUV](laws/JAbschlVUV.md) Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen
 - [JAbschlWUV](laws/JAbschlWUV.md) Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
@@ -3334,6 +3337,7 @@
 - [LiqV](laws/LiqV.md) Verordnung über die Liquidität der Institute
 - [LJG-NRW](laws/LJG-NRW.md) Landesjagdgesetz Nordrhein-Westfalen
 - [LKonV](laws/LKonV.md) Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure
+- [LkSG](laws/LkSG.md) Gesetz über die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten
 - [LKV](laws/LKV.md) Los-Kennzeichnungs-Verordnung
 - [Lkw-MautV](laws/Lkw-MautV.md) Verordnung zur Erhebung, zum Nachweis der ordnungsgemäßen Entrichtung und zur Erstattung der Maut
 - [LKWÜberlStVAusnV](laws/LKWÜberlStVAusnV.md) Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge *)
@@ -4212,6 +4216,7 @@
 - [OrgErl1998](laws/OrgErl1998.md) Organisationserlass des Bundeskanzlers
 - [OrgHbMstrV](laws/OrgHbMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orgel- und Harmoniumbauer-Handwerk
 - [ORheinLotsOEV](laws/ORheinLotsOEV.md) Verordnung zur Einführung der Lotsenordnung für den Oberrhein
+- [OrtedtDGStiftG](laws/OrtedtDGStiftG.md) Gesetz zur Errichtung einer „Stiftung Orte der deutschen Demokratiegeschichte“
 - [OrthAusbVO](laws/OrthAusbVO.md) Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin*
 - [OrthBandMstrV](laws/OrthBandMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orthopädiemechaniker- und Bandagisten-Handwerk
 - [OrthopschuhmAusbV](laws/OrthopschuhmAusbV.md) Verordnung über die Berufsausbildung zum Orthopädieschuhmacher und zur Orthopädieschuhmacherin*
@@ -5049,6 +5054,7 @@
 - [SokaSiG2](laws/SokaSiG2.md) Gesetz zur Sicherung der tarifvertraglichen Sozialkassenverfahren*
 - [SoldErnAnO 2015](laws/SoldErnAnO_2015.md) Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten
 - [SoldGG](laws/SoldGG.md) Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten
+- [SoldRehaHomG](laws/SoldRehaHomG.md) Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten Soldatinnen und Soldaten
 - [SolingenV](laws/SolingenV.md) Verordnung zum Schutz des Namens Solingen
 - [SolvV](laws/SolvV.md) Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen 1
 - [SolZG](laws/SolZG.md) Solidaritätszuschlaggesetz
@@ -5258,6 +5264,7 @@
 - [StiftBTG](laws/StiftBTG.md) Gesetz über die Bildung und Tätigkeit von Stiftungen
 - [StiftEinsatzMedBWErl](laws/StiftEinsatzMedBWErl.md) Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
 - [StiftKStBegV](laws/StiftKStBegV.md) Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von Familienfideikommissen getreten sind
+- [StiftRG](laws/StiftRG.md) Stiftungsregistergesetz
 - [StIKoVetV](laws/StIKoVetV.md) Verordnung über die Ständige Impfkommission Veterinärmedizin
 - [StimmRMV](laws/StimmRMV.md) Verordnung zur Mitteilung der Stimmrechte aus Aktien und anderen Instrumenten nach dem Wertpapierhandelsgesetz
 - [StImmÜbkG](laws/StImmÜbkG.md) Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität

@@ -11,7 +11,8 @@
 |         | Bund        | Länder      | Gemeinden   |
 | ab 2020 | 52,81398351 | 45,19007254 | 1,99594395. |
 
-(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:
+(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1:  
+  
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 17%" /><col style="width: 28%" /><col style="width: 28%" /><col style="width: 28%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Kalender-<br />
 jahr</th><th style="text-align: left;">Bund</th><th style="text-align: left;">Länder</th><th style="text-align: left;">Gemeinden</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">2020</td><td style="text-align: left;">minus<br />
@@ -21,11 +22,11 @@ Euro</td><td style="text-align: left;"><br />
 Euro</td><td style="text-align: left;"><br />
 4 674 782 557<br />
 Euro</td></tr><tr class="even"><td style="text-align: left;">2021</td><td style="text-align: left;">minus<br />
-12 181 407 683<br />
+17 142 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-8 506 407 683<br />
+12 988 407 683<br />
 Euro</td><td style="text-align: left;"><br />
-3 675 000 000<br />
+4 154 000 000<br />
 Euro</td></tr><tr class="odd"><td style="text-align: left;">2022</td><td style="text-align: left;">minus<br />
 9 706 407 683<br />
 Euro</td><td style="text-align: left;"><br />
@@ -69,6 +70,8 @@ Euro.</td></tr></tbody></table>
 (4) (weggefallen)
 
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696) verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2020 um 993 Millionen Euro und in den Jahren 2021 und 2022 um jeweils 1993 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993 Millionen Euro und in den Jahren 2021 und 2022 um jeweils 1993 Millionen Euro.
+
+(6) Um den finanziellen Lasten der Länder, die ihnen aus der Umsetzung des Aktionsprogramms „Aufholen nach Corona für Kinder und Jugendliche für die Jahre 2021 und 2022“ im eigenen Zuständigkeitsbereich entstehen, Rechnung zu tragen, verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2021 um weitere 430 Millionen Euro und im Jahr 2022 um weitere 860 Millionen Euro.
 
 # § 2 – Verteilung der Umsatzsteuer unter den Ländern
 

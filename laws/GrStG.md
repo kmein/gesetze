@@ -144,17 +144,19 @@ Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl 0,55 Pro
 
 2. für bebaute Grundstücke
 
-a) im Sinne des § 249 Absatz 1 Nummer 1 bis 4 des Bewertungsgesetzes 0,34 Promille,
+a) im Sinne des § 249 Absatz 1 Nummer 1 bis 4 des Bewertungsgesetzes 0,31 Promille,
 
 b) im Sinne des § 249 Absatz 1 Nummer 5 bis 8 des Bewertungsgesetzes 0,34 Promille.
 
 (2) Die Steuermesszahl nach Absatz 1 Nummer 2 Buchstabe a wird um 25 Prozent ermäßigt, wenn
 
-1. für das Grundstück nach § 13 Absatz 3 des Wohnraumförderungsgesetzes vom 13. September 2001 (BGBl. I S. 2376), das zuletzt durch Artikel 3 des Gesetzes vom 2. Oktober 2015 (BGBl. I S. 1610) geändert worden ist, eine Förderzusage durch schriftlichen Verwaltungsakt erteilt wurde und
+1. für das Grundstück nach § 13 Absatz 3 des Wohnraumförderungsgesetzes vom 13. September 2001 (BGBl. I S. 2376), das zuletzt durch Artikel 3 des Gesetzes vom 2. Oktober 2015 (BGBl. I S. 1610) geändert worden ist, eine Förderzusage erteilt wurde und
 
-2. die sich aus der Förderzusage ergebenden Bestimmungen im Sinne des § 13 Absatz 2 des Wohnraumförderungsgesetzes für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums eingehalten werden.
+2. die sich aus der Förderzusage im Sinne des § 13 Absatz 2 des Wohnraumförderungsgesetzes ergebenden Bindungen für jeden Erhebungszeitraum innerhalb des Hauptveranlagungszeitraums bestehen.
 
-(3) Für nach Wohnraumförderungsgesetzen der Länder geförderte Grundstücke gilt Absatz 2 entsprechend.
+Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für Teile eines Gebäudes vor, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
+
+(3) Absatz 2 gilt entsprechend für Grundstücke, für die nach dem Ersten Wohnungsbaugesetz vom 24. April 1950 (BGBl. S. 83) in der bis zum 31. Dezember 1987 geltenden Fassung, nach dem Zweiten Wohnungsbaugesetz vom 27. Juni 1956 (BGBl. I S. 523) in der bis zum 31. Dezember 2001 geltenden Fassung oder nach den Wohnraumförderungsgesetzen der Länder eine Förderzusage erteilt wurde.
 
 (4) Liegen für ein Grundstück weder die Voraussetzungen des Absatzes 2 noch des Absatzes 3 vor, wird die Steuermesszahl nach Absatz 1 Nummer 2 Buchstabe a um 25 Prozent ermäßigt, wenn das jeweilige Grundstück
 
@@ -214,7 +216,7 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
 
-(2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 4 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
+(2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
 
 # § 20 – Aufhebung des Steuermeßbetrags
 
