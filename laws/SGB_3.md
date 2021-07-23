@@ -3069,7 +3069,7 @@ vorgesehen ist,
 
 2. sie den Arbeitgeber bei Beginn der Arbeitsvermittlung über die Erstattungspflicht unterrichtet hat.
 
-(3) Die Agentur für Arbeit kann von einem Arbeitgeber, der die Auslandsvermittlung auf Grund zwischenstaatlicher Vereinbarungen oder Vermittlungsabsprachen der Bundesagentur mit ausländischen Arbeitsverwaltungen in Anspruch nimmt, eine Gebühr (Vermittlungsgebühr) erheben. Die Vorschriften des Verwaltungskostengesetzes sind anzuwenden.
+(3) Die Agentur für Arbeit kann von einem Arbeitgeber, der die Auslandsvermittlung auf Grund zwischenstaatlicher Vereinbarungen oder Vermittlungsabsprachen der Bundesagentur mit ausländischen Arbeitsverwaltungen in Anspruch nimmt, eine Gebühr (Vermittlungsgebühr) erheben. Die Vorschriften des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden Fassung sind anzuwenden.
 
 (4) Der Arbeitgeber darf sich den Aufwendungsersatz oder die Vermittlungsgebühr weder ganz noch teilweise von der vermittelten Arbeitnehmerin oder dem vermittelten Arbeitnehmer oder einem Dritten erstatten lassen.
 
@@ -5443,7 +5443,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung die gebührenpflichtigen Tat
 
 (3) Der Arbeitgeber darf sich die Gebühr nach den Absätzen 1 und 2 weder ganz noch teilweise erstatten lassen.
 
-(4) Im Übrigen sind die Vorschriften des Verwaltungskostengesetzes anzuwenden.
+(4) Im Übrigen sind die Vorschriften des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden Fassung anzuwenden.
 
 # § 288 – Verordnungsermächtigung und Weisungsrecht
 

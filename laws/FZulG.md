@@ -25,7 +25,7 @@
 
 3. als Kooperation von einem Anspruchsberechtigten in Zusammenarbeit mit einer oder mehreren Einrichtungen für Forschung und Wissensverbreitung.
 
-(5) Werden Forschungs- und Entwicklungsvorhaben im Sinne des Absatzes 1 in Auftrag gegeben, sind diese nur dann begünstigt, wenn der Auftragnehmer seinen Sitz in einem Mitgliedstaat der Europäischen Union hat oder in einem anderen Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) Anwendung findet und der aufgrund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leistet, der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
+(5) Werden Forschungs- und Entwicklungsvorhaben im Sinne des Absatzes 1 in Auftrag gegeben, sind diese nur dann begünstigt, wenn der Auftragnehmer seine Geschäftsleitung in einem Mitgliedstaat der Europäischen Union hat oder in einem anderen Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) Anwendung findet und der aufgrund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leistet, der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
 
 # § 3 – Förderfähige Aufwendungen und Bemessungsgrundlage
 
@@ -39,7 +39,11 @@
 
 (5) Bemessungsgrundlage sind die im Wirtschaftsjahr entstandenen förderfähigen Aufwendungen des Anspruchsberechtigten im Sinne der Absätze 1 bis 4, maximal 2 000 000 Euro. Für nach dem 30. Juni 2020 und vor dem 1. Juli 2026 entstandene förderfähige Aufwendungen des Anspruchsberechtigten im Sinne der Absätze 1 bis 4 beträgt die Bemessungsgrundlage maximal 4 000 000 Euro.
 
-(6) Für Anspruchsberechtigte, die mit anderen Unternehmen im Sinne des § 15 des Aktiengesetzes verbunden sind, gilt die Grenze im Sinne des Absatzes 5 für die verbundenen Unternehmen insgesamt.
+(6) Für Anspruchsberechtigte, die am Ende des Wirtschaftsjahres, für das die Forschungszulage beantragt wird, mit anderen Unternehmen verbunden sind, gilt die Grenze im Sinne des Absatzes 5 für die verbundenen Unternehmen insgesamt. In diesem Sinne gelten zwei oder mehr Unternehmen als miteinander verbunden, wenn ein Unternehmen auf ein anderes Unternehmen einen beherrschenden Einfluss im Sinne des § 290 Absatz 2 bis 4 des Handelsgesetzbuchs ausübt. Maßgeblich ist die Bemessungsgrundlage eines Kalenderjahres. Ein Bescheid über die Festsetzung von Forschungszulage für ein verbundenes Unternehmen kann auch, nachdem er bestandskräftig ist, noch geändert werden, wenn
+
+1. ein Bescheid über die Festsetzung von Forschungszulage für dasselbe Kalenderjahr eines mit ihm verbundenen Unternehmens aufgehoben, geändert oder berichtigt wird und
+
+2. diese Änderung Einfluss auf die Aufteilung des Höchstbetrages zwischen den verbundenen Unternehmen hat. Das die Änderung begehrende Unternehmen kann insoweit weitere förderfähige Aufwendungen geltend machen, wenn hierauf bisher aufgrund der Begrenzung des Höchstbetrages für verbundene Unternehmen verzichtet wurde.
 
 (7) Für Kooperationsvorhaben im Sinne des § 2 Absatz 4 Nummer 2 und 3 gilt für jeden am Vorhaben beteiligten Anspruchsberechtigten die Bemessungsgrundlage im Sinne des Absatzes 5, soweit nicht die Voraussetzungen des Absatzes 6 vorliegen.
 
@@ -51,11 +55,13 @@
 
 # § 5 – Antrag auf Forschungszulage
 
-(1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz 3 und 4 förderfähigen Aufwendungen entstanden sind, einen Antrag auf Forschungszulage nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle bei dem für die Besteuerung des Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu stellen. Ist eine Mitunternehmerschaft Anspruchsberechtigter, so ist der Antrag bei dem Finanzamt zu stellen, das für die einheitliche und gesonderte Feststellung der Einkünfte zuständig ist.
+(1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz 3 und 4 förderfähigen Aufwendungen entstanden sind, einen Antrag auf Forschungszulage nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle bei dem für die Besteuerung des Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu stellen. Dies gilt auch in Fällen, in denen die Einkünfte nach § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe b der Abgabenordnung gesondert festgestellt werden. Ist eine Mitunternehmerschaft Anspruchsberechtigter, so ist der Antrag bei dem Finanzamt zu stellen, das für die einheitliche und gesonderte Feststellung der Einkünfte zuständig ist.
 
-(2) In dem Antrag nach Absatz 1 sind die Forschungs- und Entwicklungsvorhaben, für die eine Forschungszulage beantragt wird, sowie die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 bis 4 so genau zu bezeichnen, dass eine Überprüfung möglich ist.
+(2) In dem Antrag nach Absatz 1 sind die Forschungs- und Entwicklungsvorhaben, für die eine Forschungszulage beantragt wird, sowie die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 bis 4 so genau zu bezeichnen, dass eine Überprüfung möglich ist. Die Verteilung der für verbundene Unternehmen maximal förderfähigen Bemessungsgrundlage nach § 3 Absatz 5 ist von jedem verbundenen Unternehmen im Antrag nach Absatz 1 anzugeben.
 
-(3) Dem Antrag ist die Bescheinigung nach § 6 für die im Antrag aufgeführten Forschungs- und Entwicklungsvorhaben beizufügen. Der Anspruchsberechtigte hat im Antrag zu versichern, dass sich die im Rahmen des Bescheinigungsverfahrens nach § 6 erklärten und der Bescheinigung zu Grunde gelegten Sachverhalte nicht verändert haben.
+(3) Für den Antrag ist eine Bescheinigung nach § 6 für die im Antrag aufgeführten Forschungs- und Entwicklungsvorhaben erforderlich. Der Anspruchsberechtigte hat im Antrag zu versichern, dass sich die im Rahmen des Bescheinigungsverfahrens nach § 6 erklärten und der Bescheinigung zu Grunde gelegten Sachverhalte nicht verändert haben.
+
+(4) In den Fällen des Absatzes 1 Satz 2 stellt das für die gesonderte Feststellung der Einkünfte zuständige Finanzamt die für diesen Betrieb nach § 3 Absatz 1 bis 4 förderfähigen Aufwendungen gesondert fest.
 
 # § 6 – Bescheinigung
 

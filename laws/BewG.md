@@ -2129,7 +2129,9 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 # § 177 – Bewertung
 
-Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu Grunde zu legen.
+(1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu Grunde zu legen.
+
+(2) Die für die Wertermittlung erforderlichen Daten des Gutachterausschusses im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs sind bei den Bewertungen nach den §§ 182 bis 196 für längstens zwei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als zwei Jahre hinaus angewendet werden.
 
 # § 178 – Begriff der unbebauten Grundstücke
 
@@ -2139,7 +2141,7 @@ Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu
 
 # § 179 – Bewertung der unbebauten Grundstücke
 
-Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
+Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
 
 (+++ § 179: Zur Anwendung vgl. § 265 Abs. 3 +++)
 
@@ -2211,7 +2213,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (1) Bei Anwendung des Vergleichswertverfahrens sind Kaufpreise von Grundstücken heranzuziehen, die hinsichtlich der ihren Wert beeinflussenden Merkmale mit dem zu bewertenden Grundstück hinreichend übereinstimmen (Vergleichsgrundstücke). Grundlage sind vorrangig die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs mitgeteilten Vergleichspreise.
 
-(2) Anstelle von Preisen für Vergleichsgrundstücke können von den Gutachterausschüssen für geeignete Bezugseinheiten, insbesondere Flächeneinheiten des Gebäudes, ermittelte und mitgeteilte Vergleichsfaktoren herangezogen werden. Bei Verwendung von Vergleichsfaktoren, die sich nur auf das Gebäude beziehen, ist der Bodenwert nach § 179 gesondert zu berücksichtigen.
+(2) Anstelle von Preisen für Vergleichsgrundstücke können von den Gutachterausschüssen für geeignete Bezugseinheiten, insbesondere Flächeneinheiten des Gebäudes, ermittelte und mitgeteilte Vergleichsfaktoren herangezogen werden. Bei Verwendung von Vergleichsfaktoren, die sich nur auf das Gebäude beziehen, ist der Bodenwert nach § 179 gesondert zu berücksichtigen. Anzuwenden sind die Vergleichsfaktoren, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt.
 
 (3) Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, werden im Vergleichswertverfahren nach den Absätzen 1 und 2 nicht berücksichtigt.
 
@@ -2247,13 +2249,13 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (1) Bewirtschaftungskosten sind die bei gewöhnlicher Bewirtschaftung nachhaltig entstehenden Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis; durch Umlagen gedeckte Betriebskosten bleiben unberücksichtigt.
 
-(2) Die Bewirtschaftungskosten sind nach Erfahrungssätzen anzusetzen. Soweit von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs keine geeigneten Erfahrungssätze zur Verfügung stehen, ist von den pauschalierten Bewirtschaftungskosten nach Anlage 23 auszugehen.
+(2) Die Bewirtschaftungskosten sind nach Erfahrungssätzen anzusetzen. Anzuwenden sind die Erfahrungssätze, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von den Gutachterausschüssen keine geeigneten Erfahrungssätze zur Verfügung stehen, ist von den pauschalierten Bewirtschaftungskosten nach Anlage 23 auszugehen.
 
 # § 188 – Liegenschaftszinssatz
 
 (1) Der Liegenschaftszinssatz ist der Zinssatz, mit dem der Verkehrswert von Grundstücken im Durchschnitt marktüblich verzinst wird.
 
-(2) Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten örtlichen Liegenschaftszinssätze. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
+(2) Anzuwenden sind die Liegenschaftszinssätze, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
 
 1. 5 Prozent für Mietwohngrundstücke,
 
@@ -2285,7 +2287,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 # § 191 – Wertzahlen
 
-(1) Als Wertzahlen im Sinne des § 189 Abs. 3 sind die Sachwertfaktoren anzuwenden, die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs für das Sachwertverfahren bei der Verkehrswertermittlung abgeleitet wurden.
+(1) Als Wertzahlen im Sinne des § 189 Abs. 3 sind die Sachwertfaktoren anzuwenden, die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs für das Sachwertverfahren bei der Verkehrswertermittlung abgeleitet wurden. Anzuwenden sind die Sachwertfaktoren, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt.
 
 (2) Soweit von den Gutachterausschüssen keine geeigneten Sachwertfaktoren zur Verfügung stehen, sind die in der Anlage 25 bestimmten Wertzahlen zu verwenden.
 
@@ -2309,7 +2311,7 @@ Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirt
 
 Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren.
 
-(4) Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks ergibt sich durch Anwendung des Liegenschaftszinssatzes, der von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelt wurde, auf den Bodenwert nach § 179. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
+(4) Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks ergibt sich durch Anwendung des Liegenschaftszinssatzes im Sinne des § 188 Absatz 2 Satz 1 auf den Bodenwert nach § 179. Soweit von den Gutachterausschüssen keine geeigneten Liegenschaftszinssätze zur Verfügung stehen, gelten die folgenden Zinssätze:
 
 1. 3 Prozent für Ein- und Zweifamilienhäuser und Wohnungseigentum, das wie Ein- und Zweifamilienhäuser gestaltet ist,
 
@@ -2355,7 +2357,11 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 
 # § 198 – Nachweis des niedrigeren gemeinen Werts
 
-Weist der Steuerpflichtige nach, dass der gemeine Wert der wirtschaftlichen Einheit am Bewertungsstichtag niedriger ist als der nach den §§ 179, 182 bis 196 ermittelte Wert, so ist dieser Wert anzusetzen. Für den Nachweis des niedrigeren gemeinen Werts gelten grundsätzlich die auf Grund des § 199 Abs. 1 des Baugesetzbuchs erlassenen Vorschriften.
+(1) Weist der Steuerpflichtige nach, dass der gemeine Wert der wirtschaftlichen Einheit am Bewertungsstichtag niedriger ist als der nach den §§ 179, 182 bis 196 ermittelte Wert, so ist dieser Wert anzusetzen. Für den Nachweis des niedrigeren gemeinen Werts gelten grundsätzlich die auf Grund des § 199 Abs. 1 des Baugesetzbuchs erlassenen Vorschriften.
+
+(2) Als Nachweis des niedrigeren gemeinen Werts kann regelmäßig ein Gutachten des zuständigen Gutachterausschusses im Sinne der §§ 192 ff. des Baugesetzbuchs oder von Personen, die von einer staatlichen, staatlich anerkannten oder nach DIN EN ISO/IEC 17024 akkreditierten Stelle als Sachverständige oder Gutachter für die Wertermittlung von Grundstücken bestellt oder zertifiziert worden sind, dienen.
+
+(3) Als Nachweis des niedrigeren gemeinen Werts kann ein im gewöhnlichen Geschäftsverkehr innerhalb eines Jahres vor oder nach dem Bewertungsstichtag zustande gekommener Kaufpreis über das zu bewertende Grundstück dienen, wenn die maßgeblichen Verhältnisse hierfür gegenüber den Verhältnissen am Bewertungsstichtag unverändert sind.
 
 # § 199 – Anwendung des vereinfachten Ertragswertverfahrens
 
@@ -3090,7 +3096,7 @@ Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und Boden sowi
 
 In der jeweiligen Rechtsverordnung kann das Bundesministerium der Finanzen zur Sicherstellung der Gleichmäßigkeit der Besteuerung, insbesondere zur Sicherstellung einer relations- und realitätsgerechten Abbildung der Grundsteuerwerte, anordnen, dass ab dem nächsten Feststellungszeitpunkt Grundsteuerwerte unter Berücksichtigung der tatsächlichen Verhältnisse und der geänderten Wertverhältnisse durch Anwendung der jeweils angepassten Anlagen 27 bis 43 festgestellt werden.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und Abschläge nach § 254 in Verbindung mit Anlage 39 Teil II auf der Grundlage der Einordnung nach § 12 des Wohngeldgesetzes in Verbindung mit § 1 Absatz 3 und der Anlage der Wohngeldverordnung für steuerliche Zwecke herzuleiten.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und Abschläge nach § 254 in Verbindung mit Anlage 39 Teil II auf der Grundlage der Einordnung nach § 12 des Wohngeldgesetzes in Verbindung mit § 1 Absatz 3 und der Anlage der Wohngeldverordnung für steuerliche Zwecke herzuleiten und den dafür maßgeblichen Gebietsstand festzulegen.
 
 §§ 218 bis 263: Baden-Württemberg – Abweichung durch das Gesetz zur Regelung einer Landesgrundsteuer (Landesgrundsteuergesetz – LGrStG) v. 4.11.2020 GBl. BW 2020, S. 974 mWv 14.11.2020 (vgl. BGBl. I 2020, 2565)
 
@@ -3122,6 +3128,8 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (11) § 203 in der Fassung des Artikels 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) ist auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
 
+(12) § 177 Absatz 1 und 2, § 179 Satz 3, § 183 Absatz 2 Satz 3, § 187 Absatz 2 Satz 2 und 3, § 188 Absatz 2 Satz 1, § 191 Absatz 1 Satz 2, § 193 Absatz 4 Satz 1 und § 198 Absatz 1 bis 3 in der Fassung des Artikels 1 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) sind auf Bewertungsstichtage nach dem 22. Juli 2021 anzuwenden.
+
 # § 266 – Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
 
 (1) Die erste Hauptfeststellung für die Grundsteuerwerte nach § 221 wird auf den 1. Januar 2022 für die Hauptveranlagung auf den 1. Januar 2025 durchgeführt.
@@ -3130,7 +3138,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (3) Werden der Finanzbehörde durch eine Erklärung im Sinne des § 228 auf den 1. Januar 2022 für die Bewertung eines Betriebs der Land- und Forstwirtschaft oder eines Grundstücks vor dem 1. Januar 2022 eingetretene Änderungen der tatsächlichen Verhältnisse erstmals bekannt, sind diese bei Fortschreibungen nach § 22 und Nachfeststellungen nach § 23 auf Feststellungszeitpunkte vor dem 1. Januar 2022 nicht zu berücksichtigen.
 
-(4) Einheitswertbescheide, Grundsteuermessbescheide und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, werden kraft Gesetzes zum 31. Dezember 2024 mit Wirkung für die Zukunft aufgehoben, soweit sie auf den §§ 19 bis 23, 27, 76, 79 Absatz 5, § 93 Absatz 1 Satz 2 des Bewertungsgesetzes in Verbindung mit Artikel 2 Absatz 1 Satz 1 und 3 des Gesetzes zur Änderung des Bewertungsgesetzes in der Fassung des Artikels 2 des Gesetzes vom 22. Juli 1970 (BGBl. I S. 1118) beruhen. Für die Bewertung des inländischen Grundbesitzes (§ 19 Absatz 1 in der Fassung vom 31. Dezember 2024) für Zwecke der Grundsteuer bis einschließlich zum Kalenderjahr 2024 ist das Bewertungsgesetz in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) geändert worden ist, weiter anzuwenden.
+(4) Einheitswertbescheide, Grundsteuermessbescheide und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, werden kraft Gesetzes zum 31. Dezember 2024 mit Wirkung für die Zukunft aufgehoben, soweit sie auf den §§ 19 bis 23, 27, 76, 79 Absatz 5, § 93 Absatz 1 Satz 2 des Bewertungsgesetzes in Verbindung mit Artikel 2 Absatz 1 Satz 1 und 3 des Gesetzes zur Änderung des Bewertungsgesetzes in der Fassung des Artikels 2 des Gesetzes vom 22. Juli 1970 (BGBl. I S. 1118) beruhen. Gleiches gilt für Einheitswertbescheide, Grundsteuermessbescheide und Grundsteuerbescheide, die vor dem 1. Januar 2025 erlassen wurden, soweit sie auf den §§ 33, 34, 125, 129 des Bewertungsgesetzes in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) und § 42 des Grundsteuergesetzes vom 7. August 1973 (BGBl. I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, beruhen. Für die Bewertung des inländischen Grundbesitzes (§ 19 Absatz 1 in der Fassung vom 31. Dezember 2024) für Zwecke der Grundsteuer bis einschließlich zum Kalenderjahr 2024 ist das Bewertungsgesetz in der Fassung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) geändert worden ist, weiter anzuwenden.
 
 (5) Bestehende wirtschaftliche Einheiten, die für Zwecke der Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
@@ -8945,43 +8953,33 @@ Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdaue
 
 # Anlage 39 – (zu § 254) Ermittlung des Rohertrags
 
-(Fundstelle: BGBl. I 2019, 1835 – 1839)
+(Fundstelle: BGBl. I 2021, 2932 – 2936)
 
-I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche\*\*  
-(Wertverhältnisse/Stand: 1. Januar 2022)
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche  
+(Wertverhältnisse/Stand: 1. Januar 2022)  
+  
 
 Land
 
-<span id="FnA1-f809323_01"></span><a href="#FnR.FnA1-f809323_01" class="Footnote">*</a>  
-Für Wohnungseigentum gelten die Nettokaltmieten für Mietwohngrundstücke.
-
-<span id="FnA1-f809323_02"></span><a href="#FnR.FnA1-f809323_02" class="Footnote">**</a>  
-Flächen, die zu anderen als Wohnzwecken genutzt werden, gelten als Wohnfläche. Für diese Flächen ist bei Mietwohngrundstücken die für Wohnungen mit einer Fläche unter 60 m² geltende monatliche Nettokaltmiete in Euro je Quadratmeter Nutzfläche (ohne Zubehörräume) anzusetzen. Bei Ein- und Zweifamilienhäusern sind diese Flächen zu der jeweiligen Wohnfläche zu addieren.
-
-|                                                                                   |              |
-|:----------------------------------------------------------------------------------|:------------:|
-| Nettokaltmiete – Festwert – für einen Garagenstellplatz (Einzelgarage/Tiefgarage) | 35 EUR/Monat |
-
-II\.
-
-Mietniveaustufen
+II. Mietniveaustufen
 
 Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder Zuschläge anzupassen:  
   
 
-|                             |           |
-|:----------------------------|:---------:|
-| Mietniveaustufe 1           | – 22,5 %  |
-| Mietniveaustufe 2           | – 10,0 %  |
-| Mietniveaustufe 3           | +/–  0 %  |
-| Mietniveaustufe 4           | \+ 10,0 % |
-| Mietniveaustufe 5           | \+ 20,0 % |
-| Mietniveaustufe 6 und höher | \+ 32,5 % |
+|                   |           |
+|:------------------|:---------:|
+| Mietniveaustufe 1 | – 20,0 %  |
+| Mietniveaustufe 2 | – 10,0 %  |
+| Mietniveaustufe 3 |  +/– 0 %  |
+| Mietniveaustufe 4 | \+ 10,0 % |
+| Mietniveaustufe 5 | \+ 20,0 % |
+| Mietniveaustufe 6 | \+ 30,0 % |
+| Mietniveaustufe 7 | \+ 40,0 % |
 
   
   
 
-Die gemeindebezogene Einordnung in die Mietniveaustufen ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
+Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
 
 # Anlage 40 – (zu § 255)  Bewirtschaftungskosten
 

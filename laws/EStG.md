@@ -255,7 +255,19 @@ b) die der Verbesserung der Beschäftigungsfähigkeit des Arbeitnehmers dienen.
 
 22. (weggefallen)
 
-23. die Leistungen nach dem Häftlingshilfegesetz, dem Strafrechtlichen Rehabilitierungsgesetz, dem Verwaltungsrechtlichen Rehabilitierungsgesetz, dem Beruflichen Rehabilitierungsgesetz und dem Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen;
+23. Leistungen nach
+
+a) dem Häftlingshilfegesetz,
+
+b) dem Strafrechtlichen Rehabilitierungsgesetz,
+
+c) dem Verwaltungsrechtlichen Rehabilitierungsgesetz,
+
+d) dem Beruflichen Rehabilitierungsgesetz,
+
+e) dem Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen und
+
+f) dem Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten Soldatinnen und Soldaten;
 
 24. Leistungen, die auf Grund des Bundeskindergeldgesetzes gewährt werden;
 

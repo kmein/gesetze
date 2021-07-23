@@ -21,7 +21,7 @@ Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen P
 
 # § 5 – Finanzierung und Verteilung
 
-(1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für jedes Jahr ein Betrag zu.
+(1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für jedes Jahr ein Betrag zu. Damit leistet der Bund einen Finanzierungsbeitrag zu dieser Länderaufgabe. Die Länder leisten im Rahmen ihrer Haushaltsautonomie jedes Jahr angemessene eigene Beiträge zur Finanzierung des öffentlichen Personennahverkehrs.
 
 (2) Für das Jahr 2016 wird der Betrag auf 8 Milliarden Euro festgesetzt.
 
@@ -57,7 +57,7 @@ Ab dem Jahr 2024 steigt der Betrag bis 2031 jährlich um 1,8 vom Hundert des Bet
 
 # § 6 – Verwendung
 
-(1) Mit den Beträgen nach § 5 ist insbesondere der Schienenpersonennahverkehr zu finanzieren.
+(1) Mit den Beträgen nach § 5 ist insbesondere der Schienenpersonennahverkehr zu finanzieren. Die Mittel dürfen nicht dazu verwendet werden, um in Vorjahren für den öffentlichen Personennahverkehr geleistete eigene Finanzierungsbeiträge der Länder, Aufgabenträger und Kommunen nachträglich zu erstatten.
 
 (2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016, die Verwendung der Mittel nach Maßgabe der Anlage 4 bis zum 30. September des jeweiligen Folgejahres nach. Die Bundesregierung erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
@@ -65,7 +65,8 @@ Ab dem Jahr 2024 steigt der Betrag bis 2031 jährlich um 1,8 vom Hundert des Bet
 
 (1) Den Ländern steht im Jahr 2020 für den Ausgleich der durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 2 500 000 000 Euro festgesetzt.
 
-<table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Der Betrag nach Absatz 1 wird wie folgt auf die Länder verteilt:<br />
+<table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">(2) Der Betrag nach Absatz 1 wird wie folgt auf die Länder verteilt:<br />
+<br />
 Baden-Württemberg</td><td style="text-align: right;">278 253 658,54 Euro<br />
 </td></tr></tbody></table>
 
@@ -117,11 +118,49 @@ Baden-Württemberg</td><td style="text-align: right;">278 253 658,54 Euro<br /
 
 (3) Der Betrag nach Absatz 1 wird nach Inkrafttreten des § 7, spätestens zum 15. Tag des Folgemonats ausgezahlt.
 
-(4) Der Betrag nach Absatz 1 ist zum Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr im Geltungsbereich der Bundesrepublik Deutschland im Zusammenhang mit dem Ausbruch von COVID-19 zu verwenden.
+(4) Den Ländern steht für den Ausgleich der im Jahr 2021 durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 1 000 000 000,00 Euro festgesetzt.
 
-(5) Die Länder passen einvernehmlich die in Absatz 2 festgelegte Verteilung in einer Endabrechnung an die im Jahr 2020 tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
+(5) Der Betrag nach Absatz 4 wird wie folgt auf die Länder verteilt:  
+  
 
-(6) Die Länder sind für die zweckentsprechende Verwendung des Betrags nach Absatz 1 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 5 bis zum 31. Dezember 2021 nach. Nicht zweckentsprechend verwendete Mittel sind dem Bund zurückzuüberweisen. Die Bundesregierung erstellt aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
+|                        |                     |
+|:-----------------------|--------------------:|
+| Baden-Württemberg      | 103 300 000,00 Euro |
+| Bayern                 | 203 600 000,00 Euro |
+| Berlin                 |  70 800 000,00 Euro |
+| Brandenburg            |  27 800 000,00 Euro |
+| Bremen                 |   7 500 000,00 Euro |
+| Hamburg                |  50 400 000,00 Euro |
+| Hessen                 |  91 400 000,00 Euro |
+| Mecklenburg-Vorpommern |  21 100 000,00 Euro |
+| Niedersachsen          |  79 900 000,00 Euro |
+| Nordrhein-Westfalen    | 185 400 000,00 Euro |
+| Rheinland-Pfalz        |  31 500 000,00 Euro |
+| Saarland               |   7 600 000,00 Euro |
+| Sachsen                |  36 400 000,00 Euro |
+| Sachsen-Anhalt         |  23 700 000,00 Euro |
+| Schleswig-Holstein     |  35 400 000,00 Euro |
+| Thüringen              |  24 200 000,00 Euro |
+
+(6) Die Beträge nach den Absätzen 1 und 4 sind zum Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr im Geltungsbereich der Bundesrepublik Deutschland im Zusammenhang mit dem Ausbruch von COVID-19 in den Jahren 2020 und 2021 zu verwenden. Mit diesen Beträgen beteiligt sich der Bund zur Hälfte an der Finanzierung der erwarteten finanziellen Nachteile des ÖPNV-Sektors der Jahre 2020 und 2021. Eine Nachschusspflicht besteht nicht. Ermäßigt sich der erwartete finanzielle Nachteil des ÖPNV-Sektors, ermäßigt sich der hälftige Finanzierungsbeitrag des Bundes anteilig. Dies gilt auch, wenn andere Deckungsmittel hinzutreten, die die Finanzierungslasten des Landes reduzieren. Eine Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie Verrechnungen, die dies bewirken, sind nicht gestattet.
+
+(7) Die Länder passen einvernehmlich die in den Absätzen 2 und 5 festgelegte Verteilung in einer Endabrechnung an die in den Jahren 2020 und 2021 tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
+
+(8) Der Betrag nach den Absätzen 4 und 5 wird zur Hälfte ausgezahlt, sobald das betreffende Land gegenüber dem Bund in einer Bedarfsmeldung nach Absatz 9 Satz 1 Nummer 1 betragsmäßig nachgewiesen hat, dass es die im Jahr 2020 erhaltenen Bundesmittel sowie eigene Mittel in gleichem Umfang zum Ausgleich von finanziellen Nachteilen des ÖPNV-Sektors bereits verwendet hat. Die Schlusszahlung leistet der Bund auf der Grundlage des vom Land vorgelegten abschließenden Nachweises nach Absatz 9 Satz 1 Nummer 4, mit der die zweckgerechte Verwendung der Mittel nachgewiesen wird.
+
+(9) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach den Absätzen 1 und 4 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 5 wie folgt nach:
+
+1. als Bedarfsmeldung je Land nach Absatz 8 Satz 1 unter Berücksichtigung der bereits erfolgten Mittelumverteilungen der Länder;
+
+2. bis zum 31. Dezember 2021 erfolgt je Land der Nachweis der Verwendung der Mittel nach Absatz 1 unter Berücksichtigung von bereits erfolgten Mittelumverteilungen der Länder;
+
+3. bis zum 31. Dezember 2022 erfolgt je Land eine Zusammenstellung aller finanziellen Nachteile der Jahre 2020 und 2021, die ausgeglichen worden sind bzw. noch ausgeglichen werden sollen;
+
+4. bis zum 30. Juni 2023 erfolgt je Land ein Nachweis der gemäß den nach Landesrecht erlassenen Maßgaben geprüften finanziellen Nachteile der Jahre 2020 und 2021 und eine Darlegung, mit welchen Mitteln diese gedeckt wurden.
+
+Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
+
+(10) Die Bundesregierung berichtet dem Deutschen Bundestag jeweils zum Ende des Jahres 2021 und 2022 über den aktuellen Sachstand. Darüber hinaus erstellt die Bundesregierung aus den von den Ländern gemäß Absatz 9 Satz 1 Nummer 4 vorgelegten Nachweisen einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 # Anlage 1 (zu § 5 Absatz 4 und 9) – Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
 
@@ -1130,115 +1169,6 @@ Die Übersicht der Verträge ist als gesonderte Anlage zu übersenden. Dabei sin
 <span id="FnA1-F7_796380"></span><a href="#FnR.FnA1-F7_796380" class="Footnote">7</a>  
 Angaben zur Höhe und geplanter Verwendung.
 
-# Anlage 5 – (zu § 7 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1
+# Anlage 5 – (zu § 7 Absatz 9)Bedarfsmeldung/Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1 und 4
 
-(Fundstelle: BGBl. I 2020, 1686)
-
-Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel
-
-für das Bundesland
-
-im Jahr:
-
- 
-
- 
-
-Bereich
-
-Veranschlagt  
-im Landes-  
-haushalt bei
-
-Verwendungszweck
-
-Berichts-  
-jahr
-
-Vorjahr  
-IST
-
-Kap./Tit.
-
-1
-
-Verfügbare Mittel
-
- 
-
-Zuweisung nach § 7 RegG
-
- 
-
- 
-
- 
-
-Minderung/Aufstockung aufgrund Länderausgleich
-
- 
-
- 
-
- 
-
-verfügbare Mittel gesamt
-
- 
-
- 
-
-2
-
-Ausgleich von finanziellen Nachteilen  
-im öffentlichen  
-Personennahverkehr
-
- 
-
-aufgrund geringerer Ausgleichsleistungen
-
- 
-
- 
-
- 
-
-aufgrund des Rückgangs von Fahrgeldeinnahmen
-
- 
-
- 
-
- 
-
-aufgrund des Rückgangs von Ausgleichszahlungen aus allgemeinen Vorschriften
-
- 
-
- 
-
- 
-
-aufgrund erhöhter Aufwendungen für Infektionsschutz
-
- 
-
- 
-
- 
-
-Summe
-
- 
-
- 
-
-3
-
-Differenz verfügbare  
-Mittel/Ausgaben"<span id="FnR.F812478_01"></span><a href="#F812478_01" class="FnR">1</a></sup>
-
- 
-
- 
+(Fundstelle: BGBl. I 2021, 3012)

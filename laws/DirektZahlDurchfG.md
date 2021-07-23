@@ -39,6 +39,8 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 (3) 6 Prozent der für das Kalenderjahr 2021 für Deutschland anzuwendenden nationalen Obergrenze nach Anhang II der Verordnung (EU) Nr. 1307/2013 werden als zusätzliche, im Haushaltsjahr 2022 aus dem ELER finanzierte Förderung bereitgestellt, soweit die Verordnung (EU) Nr. 1307/2013 nicht entgegensteht.
 
+(4) 8 Prozent der für das Kalenderjahr 2022 für Deutschland anzuwendenden nationalen Obergrenze nach Anhang II der Verordnung (EU) Nr. 1307/2013 werden als zusätzliche, im Haushaltsjahr 2023 aus dem ELER finanzierte Förderung bereitgestellt.
+
 # § 6 – Aufstockung der nationalen Obergrenze für die Basisprämienregelung
 
 (1) Die nationale Obergrenze für die Basisprämienregelung wird ab dem Jahr 2015 für jedes Jahr um einen Betrag in Höhe von 0,5 Prozent des in Artikel 22 Absatz 2 der Verordnung (EU) Nr. 1307/2013 bestimmten Betrags aufgestockt.
@@ -155,7 +157,7 @@ Der Antrag auf Aufhebung der Bestimmung einer Fläche als umweltsensibel ist zus
 
 # § 16 – Beibehaltung des Dauergrünlandanteils
 
-(1) Die Beibehaltung des Anteils des Dauergrünlands an der gesamten landwirtschaftlichen Fläche (Dauergrünlandanteil) nach Artikel 45 Absatz 2 der Verordnung (EU) Nr. 1307/2013 wird nach Maßgabe von Rechtsverordnungen auf Grund des Absatzes 2 und des § 17 auf regionaler Ebene sichergestellt. Region ist das Gebiet jedes Landes. Abweichend von Satz 2 ist das Gebiet der Länder Brandenburg und Berlin, Niedersachsen und Bremen sowie Schleswig-Holstein und Hamburg jeweils eine Region, solange die jeweiligen Länder die Direktzahlungen über jeweils eine gemeinsame Zahlstelle durchführen.
+(1) Die Beibehaltung des Anteils des Dauergrünlands an der gesamten landwirtschaftlichen Fläche (Dauergrünlandanteil) nach Artikel 45 Absatz 2 der Verordnung (EU) Nr. 1307/2013 wird nach Maßgabe von Rechtsverordnungen auf Grund des Absatzes 2 und des § 17 auf regionaler Ebene sichergestellt. Region ist das Gebiet jedes Landes. Abweichend von Satz 2 ist das Gebiet der Länder Brandenburg und Berlin, Niedersachsen und Bremen sowie Schleswig-Holstein und Hamburg jeweils eine Region.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates die genaue Methode zur Bestimmung des Dauergrünlandanteils, der nach den in § 1 Absatz 1 genannten Rechtsakten beizubehalten ist, sowie zur Bestimmung oder Anpassung des in Artikel 45 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 1307/2013 bezeichneten Referenzanteils zu bestimmen. Die zuständigen Behörden machen den maßgeblichen Referenzanteil im Bundesanzeiger bekannt.
 
