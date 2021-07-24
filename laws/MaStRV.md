@@ -105,8 +105,6 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 (3) Marktakteure, die nicht zur Registrierung verpflichtet sind, und andere Personen können sich im Marktstammdatenregister freiwillig registrieren.
 
-(+++ § 3 Abs. 2: Zur Anwendung vgl. § 25 Abs. 2 Satz 2 +++)
-
 # § 4 – Registrierung von Behörden
 
 (1) Folgende Behörden müssen sich im Marktstammdatenregister registrieren:
@@ -144,8 +142,6 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 (5) Registrierungen nach Absatz 1 Satz 1 müssen im Fall von Einheiten und EEG-Anlagen innerhalb eines Monats nach der Inbetriebnahme erfolgen, im Fall von KWK-Anlagen innerhalb eines Monats nach der Aufnahme des Dauerbetriebs oder im Fall einer Modernisierung von KWK-Anlagen nach der Wiederaufnahme des Dauerbetriebs erfolgen. Abweichend von Satz 1 müssen Registrierungen von Einheiten, EEG- und KWK-Anlagen, die vor dem 1. Juli 2017 in Betrieb genommen wurden oder den Dauerbetrieb aufgenommen oder im Fall einer Modernisierung wiederaufgenommen haben, bis zum 30. September 2021 erfolgen. Die Registrierungen nach den Absätzen 3 und 4 müssen innerhalb eines Monats nach dem Eintreten des jeweiligen Ereignisses erfolgen. Für Registrierungen nach Absatz 4 Satz 1 ist das Ereignis die Bekanntgabe der Zulassung.
 
 (6) EEG-Anlagen und KWK-Anlagen, die außerhalb des Bundesgebiets errichtet werden, stehen EEG-Anlagen und KWK-Anlagen im Sinn dieser Verordnung gleich, soweit die Pflicht zur Registrierung in einer Rechtsverordnung nach § 88a des Erneuerbare-Energien-Gesetzes oder nach § 33a Absatz 2 des Kraft-Wärme-Kopplungsgesetzes und in einer darauf geschlossenen völkerrechtlichen Vereinbarung bestimmt worden ist.
-
-(+++ § 5 Abs. 2: Zur Anwendung vgl. § 25 Abs. 2 Satz 2 +++)
 
 # § 6 – Erforderliche Daten zur Registrierung
 
@@ -309,8 +305,6 @@ Die Bundesnetzagentur muss jeden Zugang, den sie nach Satz 1 eröffnet, im Inter
 
 (7) Die Übermittlung von Daten an Drittländer und internationale Organisationen richtet sich nach Kapitel V der Verordnung (EU) 2016/679 und nach den sonstigen allgemeinen datenschutzrechtlichen Vorschriften.
 
-§ 16 Abs. 3 Satz 1 Eingangssatz Kursivdruck: IdF d. Art. 1 Nr. 14 Buchst. d V v. 15.11.2018 I 1891 mWv 21.11.2018 (bezeichnet als Abs. 3 Satz 1; an Stelle der Wörter "personenbezogenen Daten und Daten, die nach der Anlage zu dieser Verordnung als vertraulich eingestuft sind" wurden aufgrund offensichtlicher Unrichtigkeit die Wörter "personenbezogenen Daten oder zu Daten, die nach der Anlage zu dieser Verordnung als vertraulich eingestuft sind" durch die Wörter "Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten" ersetzt)
-
 # § 17 – Verwendung der Daten durch Netzbetreiber und andere Marktakteure
 
 (1) Die Bundesnetzagentur gewährt Netzbetreibern Zugang zu Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten, soweit
@@ -412,8 +406,6 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 (1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie Ansprüche auf Zahlungen nach dem Kraft-Wärme-Kopplungsgesetz werden erst fällig, wenn die Betreiber die Einheiten registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Betriebs nach ihrer Modernisierung registriert haben. Dies gilt entsprechend für Abschlagszahlungen auf diese Zahlungen. Die Sätze 1 und 2 sind auf Einheiten und EEG-Anlagen, die vor dem 1. Februar 2019 in Betrieb genommen wurden, und auf KWK-Anlagen, die vor dem 1. Februar 2019 den Dauerbetrieb aufgenommen oder nach einer erfolgten Modernisierung wieder aufgenommen haben, ab dem 1. Oktober 2021 und mit der Maßgabe anzuwenden, dass die Fälligkeit nur dann nicht eintritt, wenn der Netzbetreiber von der Nichtregistrierung Kenntnis erlangt hat oder erlangt haben müsste.
 
 (2) § 52 des Erneuerbare-Energien-Gesetzes und § 13a des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
-
-(+++ § 23: Zur Anwendung vgl. § 25 Abs. 7 +++)
 
 # § 24 – Übergangsbestimmungen
 
