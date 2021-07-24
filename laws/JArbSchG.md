@@ -1159,7 +1159,7 @@ beschäftigt werden.
 
 (6) Jugendliche dürfen in Betrieben, in denen die Beschäftigten in außergewöhnlichem Grade der Einwirkung von Hitze ausgesetzt sind, in der warmen Jahreszeit ab 5 Uhr beschäftigt werden. Die Jugendlichen sind berechtigt, sich vor Beginn der Beschäftigung und danach in regelmäßigen Zeitabständen arbeitsmedizinisch untersuchen zu lassen. Die Kosten der Untersuchungen hat der Arbeitgeber zu tragen, sofern er diese nicht kostenlos durch einen Betriebsarzt oder einen überbetrieblichen Dienst von Betriebsärzten anbietet.
 
-(7) Jugendliche dürfen bei Musikaufführungen, Theatervorstellungen und anderen Aufführungen, bei Aufnahmen im Rundfunk (Hörfunk und Fernsehen), auf Ton- und Bildträger sowie bei Film- und Fotoaufnahmen bis 23 Uhr gestaltend mitwirken. Eine Mitwirkung ist nicht zulässig bei Veranstaltungen, Schaustellungen oder Darbietungen, bei denen die Anwesenheit Jugendlicher nach den Vorschriften des Jugendschutzgesetzes verboten ist. Nach Beendigung der Tätigkeit dürfen Jugendliche nicht vor Ablauf einer ununterbrochenen Freizeit von mindestens 14 Stunden beschäftigt werden.
+(7) Jugendliche dürfen bei Musikaufführungen, Theatervorstellungen und anderen Aufführungen, bei Aufnahmen im Rundfunk (Hörfunk und Fernsehen), auf Ton- und Bildträger sowie bei Film- und Fotoaufnahmen bis 23 Uhr gestaltend mitwirken. Eine Mitwirkung ist nicht zulässig bei Veranstaltungen, Schaustellungen oder Darbietungen, bei denen die Anwesenheit Jugendlicher nach den Vorschriften des Jugendschutzgesetzes verboten ist. Nach Beendigung der Tätigkeit dürfen Jugendliche nicht vor Ablauf einer ununterbrochenen Freizeit von mindestens 14 Stunden beschäftigt werden. Die Sätze 1 bis 3 gelten entsprechend auch für die Tätigkeit von Jugendlichen als Sportler im Rahmen von Sportveranstaltungen.
 
 # § 15 – Fünf-Tage-Woche
 
@@ -1643,7 +1643,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 # § 55 – Bildung des Landesausschusses für Jugendarbeitsschutz
 
-(1) Bei der von der Landesregierung bestimmten obersten Landesbehörde wird ein Landesausschuß für Jugendarbeitsschutz gebildet.
+(1) Bei der von der Landesregierung bestimmten obersten Landesbehörde kann ein Landesausschuss für Jugendarbeitsschutz gebildet werden.
 
 (2) Dem Landesausschuß gehören als Mitglieder an:
 
@@ -1669,7 +1669,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 # § 56 – Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde
 
-(1) Bei der Aufsichtsbehörde wird ein Ausschuß für Jugendarbeitsschutz gebildet. In Städten, in denen mehrere Aufsichtsbehörden ihren Sitz haben, wird ein gemeinsamer Ausschuß für Jugendarbeitsschutz gebildet. In Ländern, in denen nicht mehr als zwei Aufsichtsbehörden eingerichtet sind, übernimmt der Landesausschuß für Jugendarbeitsschutz die Aufgaben dieses Ausschusses.
+(1) Bei der Aufsichtsbehörde kann ein Ausschuss für Jugendarbeitsschutz gebildet werden. In Städten, in denen mehrere Aufsichtsbehörden ihren Sitz haben, kann ein gemeinsamer Ausschuss für Jugendarbeitsschutz gebildet werden. In Ländern, in denen nicht mehr als zwei Aufsichtsbehörden eingerichtet sind, kann der Landesausschuss für Jugendarbeitsschutz die Aufgaben dieses Ausschusses übernehmen.
 
 (2) Dem Ausschuß gehören als Mitglieder an:
 

@@ -339,7 +339,9 @@ Für die Verjährung der Ansprüche auf Künstlersozialabgabe gilt § 25 des Vie
 
 # § 34a
 
-(weggefallen)
+(1) Der Bund leistet im Haushaltsjahr 2022 einen Entlastungszuschuss in Höhe von 84 558 000 Euro an die Künstlersozialkasse.
+
+(2) Der Entlastungszuschuss wird bei der Bestimmung des Prozentsatzes der Künstlersozialabgabe für das Kalenderjahr 2022 neben den in § 26 Absatz 2 Nummer 1 bis 3 genannten Berechnungsgrundlagen berücksichtigt.
 
 # § 35
 
@@ -493,7 +495,13 @@ Die Künstlersozialkasse hat die Versicherten und die zur Künstlersozialabgabe 
 
 (2) Selbständige Künstler und Publizisten können durch schriftliche Erklärung gegenüber der Künstlersozialkasse auf die Versicherungsfreiheit verzichten; der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der künstlerischen oder publizistischen Tätigkeit bindend.
 
-# §§ 52a bis 54 – (weggefallen)
+# § 54 – (weggefallen)
+
+# § 52a – (weggefallen)
+
+# § 53
+
+Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum vom 23. Juli 2021 bis zum Ablauf des 31. Dezember 2021 erst dann versicherungsfrei, wer eine nicht unter § 2 fallende selbstständige Tätigkeit erwerbsmäßig ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich 1 300 Euro im Monat übersteigt, wenn eine Versicherungsfreiheit in der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist oder eintritt.
 
 # § 55
 
