@@ -63,7 +63,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 23. der Höhe der Deckungssumme der vom Hersteller für Personenschäden abgeschlossenen Haftpflichtversicherung,
 
-24. den tatsächlichen Preisen nach § 134 Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch und
+24. den tatsächlichen Preisen nach § 134 Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch,
 
 25. den für die Nutzung der digitalen Gesundheitsanwendung vom Hersteller für erforderlich gehaltenen Tätigkeiten der Heilmittelerbringer oder Hebammen, sofern zutreffend, und
 

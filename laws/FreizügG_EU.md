@@ -355,7 +355,7 @@ Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates zur Europäisc
 
 # § 14 – Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 11 Abs. 1 in Verbindung mit § 87 Absatz 1, 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden. Dies gilt nicht im Hinblick auf Verfahren im Zusammenhang mit Aufenthaltsrechten nach § 3a und mit den in den §§ 12a und 16 geregelten Aufenthaltsrechten.
+Von den in § 11 Abs. 1 in Verbindung mit § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden. Dies gilt nicht im Hinblick auf Verfahren im Zusammenhang mit Aufenthaltsrechten nach § 3a und mit den in den §§ 12a und 16 geregelten Aufenthaltsrechten.
 
 # § 15 – Übergangsregelung
 

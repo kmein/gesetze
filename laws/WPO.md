@@ -1,4 +1,4 @@
-% Gesetz über eine Berufsordnung der Wirtschaftsprüfer  (Wirtschaftsprüferordnung)
+% Gesetz über eine Berufsordnung der Wirtschaftsprüfer  (Wirtschaftsprüferordnung - WPO)
 % Ausfertigungsdatum: 24.07.1961
  
 # Inhaltsübersicht
@@ -2950,7 +2950,7 @@ Für die Berufsgerichtsbarkeit sind ergänzend das Gerichtsverfassungsgesetz und
 
 # § 131 – Prüfungstätigkeit von EU- und EWR-Abschlussprüfungsgesellschaften
 
-Eine EU- oder EWR-Abschlussprüfungsgesellschaft darf unter der Berufsbezeichnung ihres Herkunftsstaats Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchführen, wenn der für die jeweilige Prüfung verantwortliche Prüfungspartner im Sinne des § 43 Absatz 3 Satz 3 und 4 gemäß den Vorgaben des Zweiten Abschnitts des Zweiten Teils oder dem Neunten Teil zugelassen ist. Entsprechendes gilt für sonstige Tätigkeiten nach § 2 Absatz 1 und 3 und Aufgaben, die Wirtschaftsprüfern oder Buchprüfern vorbehalten sind. Die EU- oder EWR-Abschlussprüfungsgesellschaft ist verpflichtet, sich nach § 131a registrieren zu lassen; soweit Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchgeführt werden, ist sie auch verpflichtet, ihre Tätigkeit nach § 57a Absatz 1 Satz 2 anzuzeigen.
+Eine EU- oder EWR-Abschlussprüfungsgesellschaft darf unter der Berufsbezeichnung ihres Herkunftsstaats Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchführen, wenn der für die jeweilige Prüfung verantwortliche Prüfungspartner im Sinne des § 43 Absatz 3 Satz 3 und 4 gemäß den Vorgaben des Zweiten Abschnitts des Zweiten Teils oder dem Neunten Teil zugelassen ist. Entsprechendes gilt für sonstige Tätigkeiten nach § 2 Absatz 1 und 3 und Aufgaben, die Wirtschaftsprüfern oder Buchprüfern vorbehalten sind. Die EU- der EWR-Abschlussprüfungsgesellschaft ist verpflichtet, sich nach § 131a registrieren zu lassen; soweit Abschlussprüfungen nach § 316 des Handelsgesetzbuchs durchgeführt werden, ist sie auch verpflichtet, ihre Tätigkeit nach § 57a Absatz 1 Satz 2 anzuzeigen.
 
 # § 131a – Registrierungsverfahren
 
