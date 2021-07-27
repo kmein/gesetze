@@ -1,4 +1,4 @@
-% Beurkundungsgesetz
+% Beurkundungsgesetz  (BeurkG)
 % Ausfertigungsdatum: 28.08.1969
  
 # § 1 – Geltungsbereich

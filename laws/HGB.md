@@ -3208,8 +3208,6 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 # § 319a – (weggefallen)
 
-(+++ § 319a: Zur Anwendung vgl. § 31 Abs. 2 Satz 4 iVm Satz 1 KVBG +++)
-
 # § 319b – Netzwerk
 
 (1) Ein Abschlussprüfer ist von der Abschlussprüfung ausgeschlossen, wenn ein Mitglied seines Netzwerks einen Ausschlussgrund nach § 319 Abs. 2, 3 Satz 1 Nr. 1, 2 oder Nr. 4, Abs. 3 Satz 2 oder Abs. 4 erfüllt, es sei denn, dass das Netzwerkmitglied auf das Ergebnis der Abschlussprüfung keinen Einfluss nehmen kann. Er ist ausgeschlossen, wenn ein Mitglied seines Netzwerks einen Ausschlussgrund nach § 319 Abs. 3 Satz 1 Nr. 3 erfüllt. Ein Netzwerk liegt vor, wenn Personen bei ihrer Berufsausübung zur Verfolgung gemeinsamer wirtschaftlicher Interessen für eine gewisse Dauer zusammenwirken.

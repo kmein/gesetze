@@ -1384,23 +1384,7 @@ für die Verlängerung einer Mobiler-ICT-Karte
 
 70 Euro.
 
-# § 45a – Gebühren für den elektronischen Identitätsnachweis
-
-(1) Für die Einschaltung des elektronischen Identitätsnachweises in einem Dokument nach § 78 des Aufenthaltsgesetzes ist eine Gebühr von 6 Euro zu erheben. Dies gilt nicht, wenn der elektronische Identitätsnachweis bei Aushändigung des Dokuments erstmals eingeschaltet wird.
-
-(2) Für die Einleitung der Neusetzung der Geheimnummer ist eine Gebühr von 6 Euro zu erheben. Sie ist nicht zu erheben, wenn die Einleitung der Neusetzung mit einer gebührenpflichtigen Amtshandlung nach Absatz 1 zusammenfällt.
-
-(3) Für die Entsperrung des elektronischen Identitätsnachweises in einem Dokument nach § 78 des Aufenthaltsgesetzes ist eine Gebühr von 6 Euro zu erheben.
-
-(4) Gebührenfrei sind
-
-1. die erstmalige Einschaltung des elektronischen Identitätsnachweises nach Vollendung des 16. Lebensjahres,
-
-2. die Ausschaltung des elektronischen Identitätsnachweises,
-
-3. die Sperrung des elektronischen Identitätsnachweises und
-
-4. die Änderung der Anschrift im elektronischen Speicher- und Verarbeitungsmedium sowie das Aufbringen eines Aufklebers zur Anschriftenänderung.
+# § 45a – (weggefallen)
 
 # § 45b – Gebühren für Aufenthaltstitel in Ausnahmefällen
 
@@ -1791,7 +1775,7 @@ Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, §
 
 (1) Ehegatten, Lebenspartner und minderjährige ledige Kinder Deutscher sowie die Eltern minderjähriger Deutscher sind von den Gebühren für die Erteilung eines nationalen Visums befreit.
 
-(2) Bei Staatsangehörigen der Schweiz ermäßigt sich die Gebühr nach § 45 für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die auf Antrag als Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes ausgestellt wird, auf 28,80 Euro. Wird die Aufenthaltserlaubnis für eine Person ausgestellt, die zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist, ermäßigt sich die Gebühr auf 22,80 Euro. Die Gebühren nach den Sätzen 1 und 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltserlaubnis aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Die Gebühr für die Ausstellung oder Verlängerung einer Grenzgängerkarte nach § 48 Absatz 1 Satz 1 Nummer 3 und 4 ermäßigt sich bei Staatsangehörigen der Schweiz auf 8 Euro. Die Gebühren nach § 47 Absatz 1 Nummer 8 für die Ausstellung einer Fiktionsbescheinigung und nach § 49 Absatz 2 für die Bearbeitung von Anträgen auf Vornahme der in den Sätzen 1 bis 5 genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
+(2) Bei Staatsangehörigen der Schweiz entspricht die Gebühr nach § 45 für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die auf Antrag als Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes ausgestellt wird, der Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr. Wird die Aufenthaltserlaubnis für eine Person ausgestellt, die zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für die Ausstellung von Personalausweisen an Deutsche dieses Alters erhoben wird. Die Gebühren nach den Sätzen 1 und 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltserlaubnis aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Die Gebühr für die Ausstellung oder Verlängerung einer Grenzgängerkarte nach § 48 Absatz 1 Satz 1 Nummer 3 und 4 ermäßigt sich bei Staatsangehörigen der Schweiz auf 8 Euro. Die Gebühren nach § 47 Absatz 1 Nummer 8 für die Ausstellung einer Fiktionsbescheinigung und nach § 49 Absatz 2 für die Bearbeitung von Anträgen auf Vornahme der in den Sätzen 1 bis 5 genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
 
 (3) Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge oder subsidiär Schutzberechtigter im Sinne des § 4 Absatz 1 des Asylgesetzes genießen, sind von den Gebühren nach
 
@@ -1841,25 +1825,7 @@ befreit. Satz 1 Nr. 1 gilt auch für die Ehegatten oder Lebenspartner und minder
 
 (1) Assoziationsberechtigte im Sinne dieser Vorschrift sind Ausländer, für die das Assoziationsrecht EU-Türkei auf Grund des Abkommens vom 12. September 1963 zur Gründung einer Assoziation zwischen der Europäischen Wirtschaftsgemeinschaft und der Türkei (BGBl. 1964 II S. 509, 510) Anwendung findet.
 
-(2) Für Assoziationsberechtigte sind die §§ 44 bis 50 mit folgenden Maßgaben anzuwenden. Die Gebühr beträgt:
-
-1. für Aufenthaltstitel nach den §§ 44 bis 45, 45c Absatz 1 und § 48 Absatz 1 Satz 1 Nummer 15,
-
-a) <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die für eine Person ausgestellt<br />
-werden, die zum Zeitpunkt<br />
-der Antragstellung 24 Jahre<br />
-oder älter ist,</td><td style="text-align: right;">28,80 Euro,</td></tr></tbody></table>
-
-b) <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die für eine Person ausgestellt<br />
-werden, die zum Zeitpunkt<br />
-der Antragstellung noch nicht<br />
-24 Jahre alt ist, wobei § 50<br />
-Absatz 1 nicht anzuwenden ist,</td><td style="text-align: right;">22,80 Euro,</td></tr></tbody></table>
-
-2. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">in den Fällen des § 45b Absatz 2<br />
-und des § 47 Absatz 1 Nummer 11<br />
-jeweils in Verbindung mit § 44<br />
-oder mit § 44a</td><td style="text-align: right;">8 Euro.</td></tr></tbody></table>
+(2) Für Assoziationsberechtigte sind die §§ 44 bis 50 mit der Maßgabe anzuwenden, dass für Aufenthaltstitel nach den §§ 44 bis 45, 45c Absatz 1 und § 48 Absatz 1 Satz 1 Nummer 15 jeweils eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr zu erheben ist. Wird der Aufenthaltstitel für eine Person ausgestellt, die noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für die Ausstellung von Personalausweisen an Deutsche dieses Alters erhoben wird. In den Fällen des § 45b Absatz 2 und des § 47 Absatz 1 Nummer 11 jeweils in Verbindung mit § 44 oder mit § 44a beträgt die Gebühr 8 Euro.
 
 (3) Von folgenden Gebühren sind die in Absatz 1 genannten Ausländer befreit:
 
@@ -2305,7 +2271,7 @@ z) Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes m
 
 (1) In der Ausländerdatei A sind die Daten eines Ausländers zu löschen, wenn sie nach § 67 Abs. 1 in die Ausländerdatei B übernommen werden. Die nur aus Anlass der Zustimmung zur Visumerteilung aufgenommenen Daten eines Ausländers sind zu löschen, wenn der Ausländer nicht innerhalb von zwei Jahren nach Ablauf der Geltungsdauer der Zustimmung eingereist ist.
 
-(2) Die Daten eines Ausländers, der ausgewiesen, zurückgeschoben oder abgeschoben wurde, sind in der Ausländerdatei B zu löschen, wenn die Unterlagen über die Ausweisung und die Abschiebung nach § 91 Abs. 1 des Aufenthaltsgesetzes zu vernichten sind. Im Übrigen sind die Daten eines Ausländers in der Ausländerdatei B zehn Jahre nach Übernahme der Daten zu löschen. Im Fall des § 67 Absatz 1 Nummer 1 und 3 sollen die Daten fünf Jahre nach Übernahme des Datensatzes gelöscht werden.
+(2) Die Daten eines Ausländers, der ausgewiesen, zurückgeschoben oder abgeschoben wurde, sind in der Ausländerdatei B zu löschen, wenn die Unterlagen über die Ausweisung und die Abschiebung nach § 91 Abs. 1 des Aufenthaltsgesetzes zu vernichten sind. Im Übrigen sind die Daten eines Ausländers in der Ausländerdatei B zehn Jahre nach Übernahme der Daten zu löschen. Im Fall des § 67 Absatz 1 Nummer 1 sollen die Daten fünf Jahre nach Übernahme des Datensatzes gelöscht werden.
 
 # § 69 – Visadateien der Auslandsvertretungen
 

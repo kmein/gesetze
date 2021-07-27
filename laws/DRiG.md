@@ -1,4 +1,4 @@
-% Deutsches Richtergesetz
+% Deutsches Richtergesetz  (DRiG)
 % Ausfertigungsdatum: 08.09.1961
  
 # Inhaltsübersicht

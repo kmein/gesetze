@@ -3421,19 +3421,31 @@ Die mit der Ausführung dieses Gesetzes betrauten Behörden dürfen zum Zweck de
 
 # § 86a – Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration
 
-(1) Die Ausländerbehörden und alle sonstigen öffentlichen Stellen sowie privaten Träger, die staatlich finanzierte rückkehr- und reintegrationsfördernde Maßnahmen selbst oder im Auftrag der öffentlichen Hand durchführen oder den dafür erforderlichen Antrag entgegennehmen, erheben personenbezogene Daten, soweit diese Daten erforderlich sind, zum Zweck der Durchführung der rückkehr- und reintegrationsfördernden Maßnahmen, der Koordinierung der Programme zur Förderung der freiwilligen Rückkehr durch das Bundesamt für Migration und Flüchtlinge sowie zur Sicherstellung einer zweckgemäßen Verwendung der Förderung und erforderlichenfalls zu deren Rückforderung. Dabei handelt es sich um folgende Daten:
+(1) Die Ausländerbehörden und alle sonstigen öffentlichen Stellen sowie privaten Träger, die staatlich finanzierte rückkehr- und reintegrationsfördernde Maßnahmen selbst oder im Auftrag der öffentlichen Hand durchführen oder den dafür erforderlichen Antrag entgegennehmen, erheben personenbezogene Daten, soweit diese Daten zur Erfüllung der Zwecke nach Satz 2 erforderlich sind. Die Datenerhebung erfolgt zum Zweck
 
-1. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Familienstand, Geburtsdatum, Geburtsort und -bezirk, Geschlecht, Staatsangehörigkeiten,
+1. der Durchführung der rückkehr- und reintegrationsfördernden Maßnahmen,
 
-2. Angaben zum Zielstaat,
+2. der Koordinierung der Programme zur Förderung der freiwilligen Rückkehr durch das Bundesamt für Migration und Flüchtlinge sowie
 
-3. Angaben zur Art der Förderung und
+3. der Sicherstellung einer zweckgemäßen Verwendung der Förderung und erforderlichenfalls zu deren Rückforderung.
 
-4. Angaben, ob die Person freiwillig ausgereist ist oder abgeschoben wurde.
+Dabei handelt es sich um die folgenden Daten:
 
-Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben werden.
+–  
+Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Familienstand, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlecht, Doktorgrad, Staatsangehörigkeiten,
 
-(2) Die Ausländerbehörden und die mit grenzpolizeilichen Aufgaben betrauten Behörden erheben zur Feststellung der Wirksamkeit der Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat der Ausreise und zum Zielstaat.
+–  
+Angaben zum Zielstaat der Fördermaßnahme,
+
+–  
+Angaben zur Art der Förderung und
+
+–  
+Angaben, ob die Person freiwillig ausgereist ist, abgeschoben oder zurückgeschoben wurde, sowie Angaben, ob die Person ausgewiesen wurde.
+
+Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben werden. Die Daten sind spätestens nach zehn Jahren zu löschen.
+
+(2) Die Ausländerbehörden und die mit grenzpolizeilichen Aufgaben betrauten Behörden erheben zur Feststellung der Wirksamkeit der Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat der Ausreise und zum der Ausreise.
 
 # § 87 – Übermittlungen an Ausländerbehörden
 
@@ -3455,7 +3467,7 @@ in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer H
 
 (3) Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration ist nach den Absätzen 1 und 2 zu Mitteilungen über einen diesem Personenkreis angehörenden Ausländer nur verpflichtet, soweit dadurch die Erfüllung der eigenen Aufgaben nicht gefährdet wird. Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Ausländerbeauftragte des Landes und Ausländerbeauftragte von Gemeinden nach den Absätzen 1 und 2 zu Mitteilungen über einen Ausländer, der sich rechtmäßig in dem Land oder der Gemeinde aufhält oder der sich bis zum Erlass eines die Rechtmäßigkeit des Aufenthalts beendenden Verwaltungsaktes rechtmäßig dort aufgehalten hat, nur nach Maßgabe des Satzes 1 verpflichtet sind.
 
-(4) Die für die Einleitung und Durchführung eines Straf- oder eines Bußgeldverfahrens zuständigen Stellen haben die zuständige Ausländerbehörde unverzüglich über die Einleitung des Strafverfahrens sowie die Erledigung des Straf- oder Bußgeldverfahrens bei der Staatsanwaltschaft, bei Gericht oder bei der für die Verfolgung und Ahndung der Ordnungswidrigkeit zuständigen Verwaltungsbehörde unter Angabe der gesetzlichen Vorschriften zu unterrichten. Satz 1 gilt entsprechend für die Einleitung eines Auslieferungsverfahrens gegen einen Ausländer. Satz 1 gilt nicht für Verfahren wegen einer Ordnungswidrigkeit, die nur mit einer Geldbuße bis zu eintausend Euro geahndet werden kann, sowie für Verfahren wegen einer Zuwiderhandlung im Sinne des § 24 des Straßenverkehrsgesetzes oder wegen einer fahrlässigen Zuwiderhandlung im Sinne des § 24a des Straßenverkehrsgesetzes. Die Zeugenschutzdienststelle unterrichtet die zuständige Ausländerbehörde unverzüglich über Beginn und Ende des Zeugenschutzes für einen Ausländer.
+(4) Die für die Einleitung und Durchführung eines Straf- oder eines Bußgeldverfahrens zuständigen Stellen haben die zuständige Ausländerbehörde unverzüglich über die Einleitung des Strafverfahrens sowie die Erledigung des Straf- oder Bußgeldverfahrens bei der Staatsanwaltschaft, bei Gericht oder bei der für die Verfolgung und Ahndung der Ordnungswidrigkeit zuständigen Verwaltungsbehörde unter Angabe der gesetzlichen Vorschriften zu unterrichten. Satz 1 gilt entsprechend bei Strafverfahren für die Erhebung der öffentlichen Klage sowie den Erlass und die Aufhebung eines Haftbefehls, solange dies nicht den Untersuchungszweck gefährdet. Satz 1 gilt entsprechend für die Einleitung eines Auslieferungsverfahrens gegen einen Ausländer. Satz 1 gilt nicht für Verfahren wegen einer Ordnungswidrigkeit, die nur mit einer Geldbuße bis zu eintausend Euro geahndet werden kann, sowie für Verfahren wegen einer Zuwiderhandlung im Sinne des § 24 des Straßenverkehrsgesetzes oder wegen einer fahrlässigen Zuwiderhandlung im Sinne des § 24a des Straßenverkehrsgesetzes. Die Zeugenschutzdienststelle unterrichtet die zuständige Ausländerbehörde unverzüglich über Beginn und Ende des Zeugenschutzes für einen Ausländer.
 
 (5) Die nach § 72 Abs. 6 zu beteiligenden Stellen haben den Ausländerbehörden
 
@@ -3463,7 +3475,7 @@ in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer H
 
 2. von Amts wegen Angaben zur zuständigen Stelle oder zum Übergang der Zuständigkeit mitzuteilen, sofern in einem Strafverfahren eine Beteiligung nach § 72 Abs. 6 erfolgte oder eine Mitteilung nach Nummer 1 gemacht wurde.
 
-(6) Öffentliche Stellen sowie private Träger, die staatlich finanzierte rückkehr- und reintegrationsfördernde Maßnahmen selbst oder im Auftrag der öffentlichen Hand durchführen oder den hierfür erforderlichen Antrag entgegennehmen, haben nach § 86a Absatz 1 erhobene Daten an die zuständige Ausländerbehörde zu übermitteln, soweit dies für die in § 86a genannten Zwecke erforderlich ist.
+(6) Öffentliche Stellen sowie private Träger, die über staatlich finanzierte rückkehr- und reintegrationsfördernde Maßnahmen entscheiden, haben nach § 86a Absatz 1 erhobene Daten an die zuständige Ausländerbehörde zu übermitteln, soweit dies für die in § 86a genannten Zwecke erforderlich ist.
 
 # § 88 – Übermittlungen bei besonderen gesetzlichen Verarbeitungsregelungen
 
@@ -3488,6 +3500,18 @@ in den Fällen der Nummern 1 und 2 und sonstiger nach diesem Gesetz strafbarer H
 (2) Bedient sich das Bundesamt für Migration und Flüchtlinge gemäß § 75 Nummer 9 privater oder öffentlicher Träger, um ein migrationsspezifisches Beratungsangebot durchzuführen, ist eine Übermittlung von aggregierten Daten über das Beratungsgeschehen von den Trägern an das Bundesamt für Migration und Flüchtlinge zulässig.
 
 (3) Bei der Durchführung von Maßnahmen der berufsbezogenen Deutschsprachförderung nach § 45a ist eine Übermittlung teilnehmerbezogener Daten über die Anmeldung, die Dauer der Teilnahme und die Art des Abschlusses der Maßnahme durch die Ausländerbehörde, die Bundesagentur für Arbeit, den Träger der Grundsicherung für Arbeitsuchende, das Bundesverwaltungsamt und die mit der Durchführung der Maßnahmen betrauten privaten und öffentlichen Träger an das Bundesamt für Migration und Flüchtlinge zulässig, soweit dies für die Erteilung einer Zulassung zur Maßnahme, die Feststellung und Bescheinigung der ordnungsgemäßen Teilnahme oder die Durchführung und Abrechnung der Maßnahme erforderlich ist. Das Bundesamt für Migration und Flüchtlinge darf die nach Satz 1 übermittelten Daten auf Ersuchen den Ausländerbehörden, der Bundesagentur für Arbeit, den Trägern der Grundsicherung für Arbeitsuchende und den Staatsangehörigkeitsbehörden übermitteln, soweit dies für die Erteilung einer Zulassung oder Berechtigung zur Maßnahme, zur Kontrolle der ordnungsgemäßen Teilnahme, für die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU, zur Überwachung der Eingliederungsvereinbarung, zur Integration in den Arbeitsmarkt oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Die mit der Durchführung der berufsbezogenen Deutschsprachförderung betrauten privaten und öffentlichen Träger dürfen die zuständige Ausländerbehörde, die Bundesagentur für Arbeit oder den zuständigen Träger der Grundsicherung für Arbeitsuchende über eine nicht ordnungsgemäße Teilnahme informieren.
+
+(4) Das Bundesamt für Migration und Flüchtlinge darf teilnehmerbezogene Daten über die Anmeldung, die Dauer der Teilnahme und die Art des Abschlusses der Maßnahme nach Absatz 3 Satz 1, die Art des Kurses nach § 12 Absatz 1 oder § 13 Absatz 1 sowie die nach § 26 Absatz 1 Nummer 1 bis 5, 7, 9 und 10 der Deutschsprachförderverordnung übermittelten Daten an staatliche oder staatlich anerkannte Hochschulen und andere Forschungseinrichtungen, deren Tätigkeit überwiegend aus öffentlichen Mittel finanziert wird, übermitteln, soweit
+
+1. dies für die Durchführung eines wissenschaftlichen Forschungsvorhabens über Integrationsfragen erforderlich ist,
+
+2. eine Verwendung anonymisierter Daten zu diesem Zweck nicht möglich oder die Anonymisierung mit einem unverhältnismäßigen Aufwand verbunden ist,
+
+3. die schutzwürdigen Interessen der Betroffenen nicht beeinträchtigt werden oder das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Interessen der Betroffenen erheblich überwiegt und der Forschungszweck nicht auf andere Weise erreicht werden kann und
+
+4. das Bundesministerium für Arbeit und Soziales der Übermittlung zustimmt.
+
+Bei der Abwägung nach Satz 1 Nummer 3 ist im Rahmen des öffentlichen Interesses das wissenschaftliche Interesse an dem Forschungsvorhaben besonders zu berücksichtigen. Eine Übermittlung ohne Einwilligung der betroffenen Person ist nicht zulässig. Angaben über den Namen und Vornamen, die Anschrift, die Telefonnummer, die E-Mail-Adresse sowie die für die Einleitung eines Vorhabens nach Satz 1 zwingend erforderlichen Strukturmerkmale der betroffenen Person können ohne Einwilligung übermittelt werden, wenn dies zur Einholung der Einwilligung erforderlich ist; die Erforderlichkeit ist gegenüber dem Bundesamt für Migration und Flüchtlinge schriftlich zu begründen. Personenbezogene Daten nach Satz 1 sind zu pseudonymisieren, soweit dies nach dem Forschungszweck möglich ist und keinen im Verhältnis zu dem angestrebten Schutzzweck unverhältnismäßigen Aufwand erfordert. Die Merkmale, mit denen ein Personenbezug hergestellt werden kann, sind gesondert zu speichern. Sie dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der Forschungszweck dies erfordert. Die Merkmale, mit denen ein Personenbezug hergestellt werden kann, sind zu löschen, sobald der Forschungszweck dies erlaubt, spätestens mit der Beendigung des Forschungsvorhabens, sofern ausnahmsweise eine frühere Löschung der Daten noch nicht in Betracht kommt. Die Daten sind zu anonymisieren, sobald der Forschungszweck dies erlaubt. Die Forschungseinrichtung, an die die Daten übermittelt wurden, darf diese nur zum Zweck der Durchführung des Forschungsvorhabens verarbeiten. Die Daten sind gegen unbefugte Kenntnisnahme durch Dritte zu schützen. Die Forschungseinrichtung hat dafür zu sorgen, dass die Verwendung der personenbezogenen Daten räumlich und organisatorisch getrennt von der Erfüllung solcher Verwaltungsaufgaben oder Geschäftszwecke erfolgt, für die diese Daten gleichfalls von Bedeutung sein können. Das Bundesamt für Migration und Flüchtlinge soll zudem Forschungseinrichtungen auf Antrag oder Ersuchen anonymisierte Daten, die für die Durchführung eines wissenschaftlichen Forschungsvorhabens über Integrationsfragen erforderlich sind, übermitteln.
 
 # § 89 – Verfahren bei identitätsüberprüfenden, -feststellenden und -sichernden Maßnahmen
 
@@ -3569,7 +3593,7 @@ Die Ausländerbehörde unterrichtet die zuständige Meldebehörde über die Erte
 
 # § 90b – Datenabgleich zwischen Ausländer- und Meldebehörden
 
-Die Ausländer- und Meldebehörden übermitteln einander jährlich die in § 90a Abs. 2 genannten Daten zum Zweck der Datenpflege, soweit sie denselben örtlichen Zuständigkeitsbereich haben. Die empfangende Behörde gleicht die übermittelten Daten mit den bei ihr gespeicherten Daten ab, ein automatisierter Abgleich ist zulässig. Die übermittelten Daten dürfen nur für die Durchführung des Abgleichs sowie die Datenpflege verwendet werden und sind sodann unverzüglich zu löschen; überlassene Datenträger sind unverzüglich zurückzugeben oder zu vernichten.
+Die Ausländer- und Meldebehörden übermitteln einander jährlich die in § 90a Abs. 2 genannten Daten zum Zweck der Datenpflege, soweit sie denselben örtlichen Zuständigkeitsbereich haben. Die empfangende Behörde gleicht die übermittelten Daten mit den bei ihr gespeicherten Daten ab, ein automatisierter Abgleich ist zulässig. Die übermittelten Daten dürfen nur für die Durchführung des Abgleichs sowie die Datenpflege verwendet werden und sind sodann unverzüglich zu löschen; überlassene Datenträger sind unverzüglich zurückzugeben oder zu vernichten. Die Ausländerbehörden übermitteln die im Rahmen des Datenabgleichs erfolgten Änderungen unverzüglich an die Registerbehörde des Ausländerzentralregisters. Andere gesetzliche Vorschriften zum Datenabgleich bleiben unberührt.
 
 # § 90c – Datenübermittlungen im Visumverfahren über das Auswärtige Amt
 
@@ -3973,7 +3997,7 @@ Informationen zum konkreten Ablauf einer Abschiebung, insbesondere Informationen
 
 5a. einer räumlichen Beschränkung nach § 56 Absatz 2 oder § 61 Absatz 1 Satz 1 zuwiderhandelt,
 
-5b. entgegen § 60b Absatz 1 Satz 2 nicht alle zumutbaren Handlungen vornimmt, um einen anerkannten und gültigen Pass oder Passersatz zu erlangen,
+5b. entgegen § 60b Absatz 2 Satz 1 nicht alle zumutbaren Handlungen vornimmt, um einen anerkannten und gültigen Pass oder Passersatz zu erlangen,
 
 6. entgegen § 80 Abs. 4 einen der dort genannten Anträge nicht stellt oder
 
@@ -4297,7 +4321,7 @@ Einem minderjährigen ledigen Kind kann im Fall der Ausreise seiner Eltern oder 
 
 # § 105a – Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 2 und 4 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4 und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Absatz 1, 2 Satz 1 und 2, Absatz 4 Satz 1, 3 und 5 und Absatz 5, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, § 99 Absatz 1 bis 4 und § 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 Absatz 1 bis 4 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 # § 105b – Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 

@@ -1,4 +1,4 @@
-% Bundesrechtsanwaltsordnung
+% Bundesrechtsanwaltsordnung  (BRAO)
 % Ausfertigungsdatum: 01.08.1959
  
 # Inhaltsübersicht
