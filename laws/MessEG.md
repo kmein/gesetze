@@ -249,7 +249,7 @@ Wenn in den nachfolgenden Abschnitten Regelungen für Messgeräte oder Produkte 
 
 so wird vermutet, dass das Messgerät die wesentlichen Anforderungen des § 6 Absatz 2 erfüllt, soweit diese von den in den Nummern 1 bis 3 genannten harmonisierten Normen, normativen Dokumenten, technischen Spezifikationen oder Regeln jeweils abgedeckt sind. Satz 1 ist auch für Teile der harmonisierten Norm, des normativen Dokuments, der technischen Spezifikation oder Regel im Sinne des Satzes 1 Nummer 1 bis 3 anzuwenden.
 
-(2) Ist die Marktüberwachungsbehörde der Auffassung, dass eine harmonisierte Norm oder ein normatives Dokument den von ihr oder ihm abgedeckten wesentlichen Anforderungen nach § 6 Absatz 2 nicht entspricht, so informiert sie hierüber unter Angabe der Gründe die Physikalisch-Technische Bundesanstalt. Die Physikalisch-Technische Bundesanstalt überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit; sie beteiligt den Ausschuss nach § 46 und leitet die Meldungen der Europäischen Kommission zu.
+(2) Ist die Marktüberwachungsbehörde der Auffassung, dass eine harmonisierte Norm oder ein normatives Dokument den von ihr oder ihm abgedeckten wesentlichen Anforderungen nach § 6 Absatz 2 nicht entspricht, so informiert sie hierüber unter Angabe der Gründe die Physikalisch-Technische Bundesanstalt. Die Physikalisch-Technische Bundesanstalt überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit und beteiligt den Ausschuss nach § 46. Sie leitet die Meldungen mit einer Stellungnahme, aus der auch die Stellungnahme des Ausschusses nach § 46 ersichtlich ist, dem zuständigen Bundesministerium zu.
 
 # § 8 – Konformitätserklärung
 
@@ -335,7 +335,7 @@ Die Anerkennung nach Satz 1 oder die Nachweise nach Satz 2 hat der Antragsteller
 
 # § 15 – Anforderungen an die Konformitätsbewertungsstelle
 
-(1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit besitzen.
+(1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit besitzen und nach dem Recht eines Mitgliedstaates gegründet sein.
 
 (2) Bei der Konformitätsbewertungsstelle muss es sich um einen unabhängigen Dritten handeln, der mit der Einrichtung oder dem Messgerät, die oder das er bewerten will, in keinerlei Verbindung steht. Die Anforderung nach Satz 1 kann auch von einer Konformitätsbewertungsstelle erfüllt werden, die einem Wirtschaftsverband oder einem Fachverband angehört und die Messgeräte bewerten will, an deren Entwurf, Herstellung, Bereitstellung, Montage, Gebrauch oder Wartung Unternehmen beteiligt sind, die von diesem Verband vertreten werden, wenn die Konformitätsbewertungsstelle nachweist, dass sich aus dieser Verbandsmitgliedschaft keine Interessenkonflikte im Hinblick auf ihre Konformitätsbewertungstätigkeiten ergeben.
 
@@ -411,7 +411,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (4) Werden keine Korrekturmaßnahmen ergriffen oder genügen diese nicht, um die Erfüllung der Anforderungen sicherzustellen, schränkt die anerkannte Konformitätsbewertungsstelle alle betreffenden Konformitätsbescheinigungen ein, setzt sie aus oder zieht sie zurück.
 
-(5) Die anerkannte Konformitätsbewertungsstelle hat in einem Ausschuss der Konformitätsbewertungsstellen mitzuwirken, der der Vereinheitlichung der Konformitätsbewertungspraxis und der fachlichen Fortbildung der Stellen dient. Der Ausschuss wird unter der Leitung der Physikalisch-Technischen Bundesanstalt gebildet.
+(5) Die anerkannte Konformitätsbewertungsstelle hat in einem Ausschuss der Konformitätsbewertungsstellen mitzuwirken, der der Vereinheitlichung der Konformitätsbewertungspraxis und der fachlichen Fortbildung der Stellen dient. Der Ausschuss wird unter der Leitung der Physikalisch-Technischen Bundesanstalt gebildet. Eine Konformitätsbewertungsstelle, die nach § 17 Absatz 1 oder Absatz 2 notifiziert ist, hat sich an der europäischen Koordinierungsgruppe der notifizierten Stellen zu beteiligen. Sie kann diese Aufgabe auf einen oder mehrere gemeinsame Vertreter der Konformitätsbewertungsstellen übertragen. Der oder die Vertreter nach Satz 4 werden vom Ausschuss der Konformitätsbewertungsstellen benannt und vom Bundesministerium für Wirtschaft und Energie notifiziert. Das Bundesministerium für Wirtschaft und Energie kann diese Aufgabe auf eine nachgeordnete Behörde übertragen.
 
 (6) Die anerkannte Konformitätsbewertungsstelle hat auf den von ihr erstellten Konformitätsbescheinigungen die ihr von der Europäischen Kommission zugeteilte Kennnummer anzubringen. Ist die Konformitätsbewertungsstelle ausschließlich für die Bewertung solcher Messgeräte anerkannt, für die die Zuteilung einer Kennnummer durch die Europäische Kommission nicht vorgesehen ist, bringt sie die ihr von der anerkennenden Stelle zugewiesene Kennnummer an.
 
@@ -439,6 +439,22 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (4) Die anerkannte Konformitätsbewertungsstelle hält die einschlägigen Unterlagen über die Begutachtung der Qualifikation des Unterauftragnehmers oder des Zweigunternehmens und über die von ihm im Rahmen des Konformitätsbewertungsverfahrens ausgeführten Arbeiten für die anerkennende Stelle bereit.
 
+# § 21a – Akkreditierte interne Stelle
+
+(1) Eine akkreditierte interne Stelle kann bei Konformitätsbewertungstätigkeiten für das Unternehmen, dem sie angehört, für die Zwecke der Durchführung der Konformitätsbewertungsverfahren nach dem in Anlage 4 der Mess- und Eichverordnung genannten Modul A2 oder Modul C2 tätig werden, wenn
+
+1. sie nach der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) akkreditiert ist,
+
+2. sie ihre Leistungen ausschließlich für das Unternehmen erbringt, dem sie angehört,
+
+3. sie von dem Unternehmen, dem sie angehört, organisatorisch unterscheidbar ist und über Berichtsverfahren verfügt, die ihre Unparteilichkeit gewährleisten, die sie gegenüber der nationalen Akkreditierungsstelle nachweist,
+
+4. sie nicht an Entwurf, Produktion, Lieferung, Installierung, Verwendung oder Wartung der durch sie bewerteten Messgeräte beteiligt ist und
+
+5. ihre Mitarbeiter nicht für Konstruktion, Herstellung, Lieferung, Installation, Betrieb oder Wartung der von ihnen zu bewertenden Messgeräte verantwortlich sind und keiner Tätigkeit nachgehen, die der Unabhängigkeit ihres Urteils oder ihrer Integrität im Zusammenhang mit den Bewertungsaufgaben schaden können.
+
+(2) Ein Unternehmen, das ein in Absatz 1 bezeichnetes Verfahren anwendet, hat der notifizierenden Behörde auf deren Verlangen Informationen über die Akkreditierung der akkreditierten internen Stelle oder von der nationalen Akkreditierungsstelle zu übermitteln.
+
 # § 22 – Widerruf der Anerkennung
 
 (1) Stellt die anerkennende Stelle fest oder wird sie darüber informiert, dass eine nach § 13 Absatz 1 anerkannte Konformitätsbewertungsstelle die in § 15 genannten Anforderungen nicht mehr erfüllt oder dass sie ihren Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die Anerkennung. Sie informiert unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union darüber, soweit die Anerkennung das Recht zur Bewertung von Messgeräten betrifft, die von Rechtsvorschriften der Europäischen Union erfasst sind.
@@ -457,7 +473,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (5) Soweit es zur Beurteilung der Funktionsfähigkeit eines Messgeräts zweckmäßig ist, prüft der Hersteller auf dem Markt bereitgestellte Messgeräte mittels Stichproben. Werden bei einem Messgerätemodell Qualitätsmängel bekannt, führt er ein Verzeichnis der Beschwerden, der als nichtkonform erkannten Messgeräte und der erfolgten Rückrufe. Er informiert die Händler über den aktuellen Stand der Dinge.
 
-(6) Hat der Hersteller berechtigten Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Messgerät oder ein sonstiges Messgerät nicht die gesetzlichen Anforderungen erfüllt, hat er unverzüglich Maßnahmen zu ergreifen, durch die die Konformität des Messgeräts hergestellt wird. Wenn dies nicht möglich ist, muss er die Messgeräte vom Markt nehmen oder zurückrufen. Sind mit dem Messgerät auf Grund messtechnischer Eigenschaften Gefahren verbunden, informiert er die nach Landesrecht zuständige Behörde unverzüglich über die Nichtkonformität und über die bereits ergriffenen Maßnahmen.
+(6) Hat der Hersteller berechtigten Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Messgerät oder ein sonstiges Messgerät nicht die gesetzlichen Anforderungen erfüllt, hat er unverzüglich Maßnahmen zu ergreifen, durch die die Konformität des Messgeräts hergestellt wird. Wenn dies nicht möglich ist, muss er die Messgeräte vom Markt nehmen oder zurückrufen. Sind mit dem Messgerät auf Grund messtechnischer Eigenschaften Gefahren verbunden, informiert er die nach Landesrecht zuständige Behörde sowie die zuständigen nationalen Behörden der Mitgliedstaaten, in denen er das Messgerät auf dem Markt bereitgestellt hat unverzüglich über die Nichtkonformität und über die bereits ergriffenen Maßnahmen.
 
 (+++ § 23 Abs. 3 bis 6: Zur Anwendung vgl. § 29 +++)
 
@@ -467,7 +483,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (2) Der Bevollmächtigte nimmt die ihm vom Hersteller übertragenen Aufgaben für diesen wahr. Ein Hersteller, der einen Bevollmächtigten einsetzt, muss diesem mindestens die folgenden Aufgaben übertragen:
 
-1. Bereithaltung der EG-Konformitätserklärung und der technischen Unterlagen für die Marktüberwachungsbehörden über einen Zeitraum von zehn Jahren ab dem Inverkehrbringen des Messgeräts,
+1. Bereithaltung der Konformitätserklärung und der technischen Unterlagen für die Marktüberwachungsbehörden über einen Zeitraum von zehn Jahren ab dem Inverkehrbringen des Messgeräts,
 
 2. zum Nachweis der Konformität eines Messgeräts Aushändigung aller erforderlichen Informationen und Unterlagen an eine zuständige Marktüberwachungsbehörde auf deren begründetes Verlangen und
 
@@ -481,7 +497,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (1) Der Einführer darf nur konforme Messgeräte in Verkehr bringen oder für eigene Zwecke in Betrieb nehmen.
 
-(2) Bevor der Einführer ein Messgerät in den Verkehr bringt, muss er sicherstellen, dass
+(2) Bevor der Einführer ein Messgerät in den Verkehr bringt oder für eigene Zwecke in Betrieb nimmt, muss er sicherstellen, dass
 
 1. der Hersteller ein geeignetes Verfahren zur Konformitätsbewertung durchgeführt und die technischen Unterlagen erstellt hat,
 
@@ -535,9 +551,9 @@ Satz 1 Nummer 1 ist auch bei sonstigen Messgeräten anzuwenden.
 
 dürfen auch im Geltungsbereich dieses Gesetzes in Verkehr gebracht werden, wenn die Messrichtigkeit, Messbeständigkeit und Prüfbarkeit bei diesen Messgeräten in gleichwertiger Weise gewährleistet sind wie bei Messgeräten, die nach diesem Gesetz in Verkehr gebracht worden sind.
 
-(2) Die nach Landesrecht zuständigen Behörden haben bei einer Prüfung der Gleichwertigkeit von Messgeräten im Sinne des Absatzes 1 die Vorschriften des Kapitels 2 der Verordnung (EG) Nr. 764/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 (ABl. L 218 vom 13.8.2008, S. 21) zu beachten.
+(2) Die nach Landesrecht zuständigen Behörden haben bei einer Prüfung der Gleichwertigkeit von Messgeräten im Sinne des Absatzes 1 die Vorschriften der Verordnung (EU) 2019/515 des Europäischen Parlaments und des Rates vom 19. März 2019 über die gegenseitige Anerkennung von Waren, die in einem anderen Mitgliedstaat rechtmäßig in Verkehr gebracht worden sind und zur Aufhebung der Verordnung (EG) Nr. 764/2008 (ABl. L 91 vom 29.3.2019, S. 1) zu beachten.
 
-(3) Auf Antrag eines Wirtschaftsakteurs oder auf ein Ersuchen der nach Landesrecht zuständigen Behörde trifft die Physikalisch-Technische Bundesanstalt eine Entscheidung über die Gleichwertigkeit nach Absatz 1. Diese Entscheidung ist für die nach Landesrecht zuständigen Behörden verbindlich.
+(3) (weggefallen)
 
 # § 29 – Pflichten der Wirtschaftsakteure in den Fällen der §§ 27 und 28
 
@@ -567,11 +583,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 1. die wesentlichen Anforderungen an das Messgerät nach § 6 Absatz 2 während der gesamten Zeit, in der das Messgerät verwendet wird, und bei der Zusammenschaltung mit anderen Geräten erfüllt sind, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die Verkehrsfehlergrenzen einzuhalten sind,
 
-2. die in einer Rechtsverordnung nach § 41 Nummer 3 enthaltenen Vorschriften über das Verwenden öffentlicher Messgeräte beachtet werden, wenn das Messgerät dazu verwendet wird, Messungen für jedermann vorzunehmen (öffentliches Messgerät),
+2. die in einer Rechtsverordnung nach § 41 Absatz 1 Nummer 3 enthaltenen Vorschriften über das Verwenden öffentlicher Messgeräte beachtet werden, wenn das Messgerät dazu verwendet wird, Messungen für jedermann vorzunehmen (öffentliches Messgerät),
 
 3. das Messgerät nach § 37 Absatz 1 nicht ungeeicht verwendet wird,
 
-4. Nachweise über erfolgte Wartungen, Reparaturen oder sonstige Eingriffe am Messgerät, einschließlich solcher durch elektronisch vorgenommene Maßnahmen, für einen Zeitraum von bis zu drei Monaten nach Ablauf der nach § 41 Nummer 6 bestimmten Eichfrist, längstens für fünf Jahre, aufbewahrt werden.
+4. Nachweise über erfolgte Wartungen, Reparaturen oder sonstige Eingriffe am Messgerät, einschließlich solcher durch elektronisch vorgenommene Maßnahmen, für einen Zeitraum von bis zu drei Monaten nach Ablauf der nach § 41 Absatz 1 Nummer 6 bestimmten Eichfrist, längstens für fünf Jahre, aufbewahrt werden.
 
 # § 32 – Anzeigepflicht
 
@@ -599,7 +615,7 @@ Satz 1 ist nicht auf Maßverkörperungen oder Zusatzeinrichtungen und nicht auf 
 
 # § 33 – Anforderungen an das Verwenden von Messwerten
 
-(1) Werte für Messgrößen dürfen im geschäftlichen oder amtlichen Verkehr oder bei Messungen im öffentlichen Interesse nur dann angegeben oder verwendet werden, wenn zu ihrer Bestimmung ein Messgerät bestimmungsgemäß verwendet wurde und die Werte auf das jeweilige Messergebnis zurückzuführen sind, soweit in der Rechtsverordnung nach § 41 Nummer 2 nichts anderes bestimmt ist. Andere bundesrechtliche Regelungen, die vergleichbaren Schutzzwecken dienen, sind weiterhin anzuwenden.
+(1) Werte für Messgrößen dürfen im geschäftlichen oder amtlichen Verkehr oder bei Messungen im öffentlichen Interesse nur dann angegeben oder verwendet werden, wenn zu ihrer Bestimmung ein Messgerät bestimmungsgemäß verwendet wurde und die Werte auf das jeweilige Messergebnis zurückzuführen sind, soweit in der Rechtsverordnung nach § 41 Absatz 1 Nummer 2 nichts anderes bestimmt ist. Andere bundesrechtliche Regelungen, die vergleichbaren Schutzzwecken dienen, sind weiterhin anzuwenden.
 
 (2) Wer Messwerte verwendet, hat sich im Rahmen seiner Möglichkeiten zu vergewissern, dass das Messgerät die gesetzlichen Anforderungen erfüllt und hat sich von der Person, die das Messgerät verwendet, bestätigen zu lassen, dass sie ihre Verpflichtungen erfüllt.
 
@@ -641,7 +657,7 @@ Soweit der Verpflichtete Maßnahmen ergriffen hat, die von Regeln, technischen S
 
 # § 36 – Ausnahmen für bestimmte Verwendungen
 
-Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in der Rechtsverordnung nach § 41 Nummer 5 Ausnahmen für einzelne Verwendungen bestimmt sind. Ausnahmen können bestimmt werden, wenn das Schutzbedürfnis der von der Messung Betroffenen dies rechtfertigt. Dies ist insbesondere der Fall, wenn
+Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in der Rechtsverordnung nach § 41 Absatz 1 Nummer 5 Ausnahmen für einzelne Verwendungen bestimmt sind. Ausnahmen können bestimmt werden, wenn das Schutzbedürfnis der von der Messung Betroffenen dies rechtfertigt. Dies ist insbesondere der Fall, wenn
 
 1. davon ausgegangen werden kann, dass die von der Messung unmittelbar Betroffenen wirtschaftlich gleichwertig sind und über die erforderliche Kompetenz zur Durchführung von Messungen und zur Bewertung der Messergebnisse verfügen,
 
@@ -653,7 +669,7 @@ Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in der Rechts
 
 (1) Messgeräte dürfen nicht ungeeicht verwendet werden,
 
-1. nachdem die in der Rechtsverordnung nach § 41 Nummer 6 bestimmte Eichfrist abgelaufen ist oder
+1. nachdem die in der Rechtsverordnung nach § 41 Absatz 1 Nummer 6 bestimmte Eichfrist abgelaufen ist oder
 
 2. wenn die Eichfrist nach Absatz 2 vorzeitig endet.
 
@@ -661,13 +677,13 @@ Für Messgeräte, die nach den Vorschriften des Abschnitts 2 in Verkehr gebracht
 
 (2) Die Eichfrist endet vorzeitig, wenn
 
-1. das Messgerät die wesentlichen Anforderungen im Sinne des § 6 Absatz 2 nicht erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind,
+1. das Messgerät die wesentlichen Anforderungen im Sinne des § 6 Absatz 2 nicht erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Absatz 1 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind,
 
 2. ein Eingriff vorgenommen wird, der Einfluss auf die messtechnischen Eigenschaften des Messgeräts haben kann oder dessen Verwendungsbereich erweitert oder beschränkt,
 
 3. die vorgeschriebene Bezeichnung des Messgeräts geändert oder eine unzulässige Bezeichnung, Aufschrift, Messgröße, Einteilung oder Hervorhebung einer Einteilung angebracht wird,
 
-4. die in einer Rechtsverordnung nach § 30 Nummer 4 oder § 41 Nummer 6 vorgeschriebenen Kennzeichen unkenntlich, entwertet oder vom Messgerät entfernt sind; dies ist nicht anzuwenden, wenn
+4. die in einer Rechtsverordnung nach § 30 Nummer 4 oder § 41 Absatz 1 Nummer 6 vorgeschriebenen Kennzeichen unkenntlich, entwertet oder vom Messgerät entfernt sind; dies ist nicht anzuwenden, wenn
 
 a) die Unkenntlichmachung, Entwertung oder Entfernung unter Aufsicht einer nach § 40 zuständigen Stelle durchgeführt werden und
 
@@ -681,11 +697,11 @@ b) die unkenntlich gemachten, entwerteten oder entfernten Kennzeichen durch geei
 
 (5) Absatz 2 Nummer 1, 2 und 4 gilt nicht für instand gesetzte Messgeräte, wenn
 
-1. das Messgerät nach der Instandsetzung die wesentlichen Anforderungen nach § 6 Absatz 2 erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind,
+1. das Messgerät nach der Instandsetzung die wesentlichen Anforderungen nach § 6 Absatz 2 erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Absatz 1 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind,
 
 2. die erneute Eichung unverzüglich beantragt wird,
 
-3. die Instandsetzung durch ein in der Rechtsverordnung nach § 41 Nummer 7 bestimmtes Zeichen des Instandsetzers kenntlich gemacht ist und
+3. die Instandsetzung durch ein in der Rechtsverordnung nach § 41 Absatz 1 Nummer 7 bestimmtes Zeichen des Instandsetzers kenntlich gemacht ist und
 
 4. der Instandsetzer die zuständige Behörde unverzüglich über die erfolgte Instandsetzung in Kenntnis gesetzt hat.
 
@@ -707,7 +723,7 @@ Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der Eichfrist be
 
 # § 39 – Befundprüfung
 
-(1) Wer ein begründetes Interesse an der Messrichtigkeit darlegt, kann bei der Behörde nach § 40 Absatz 1 beantragen festzustellen, ob ein Messgerät die wesentlichen Anforderungen nach § 6 Absatz 2 erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind (Befundprüfung).
+(1) Wer ein begründetes Interesse an der Messrichtigkeit darlegt, kann bei der Behörde nach § 40 Absatz 1 beantragen festzustellen, ob ein Messgerät die wesentlichen Anforderungen nach § 6 Absatz 2 erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Absatz 1 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind (Befundprüfung).
 
 (2) Für ein Messgerät oder eine damit verbundene Zusatzeinrichtung, das oder die bei der Ermittlung des Verbrauchs an Elektrizität, Gas, Wärme oder Wasser eingesetzt wird, kann die Feststellung nach Absatz 1 auch bei einer staatlich anerkannten Prüfstelle nach § 40 Absatz 3 beantragt werden.
 
@@ -717,7 +733,7 @@ Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der Eichfrist be
 
 (2) Wird von einem Verwender oder von einem Beauftragten für verschiedene Verwender die Eichung mehrerer Messgeräte am Aufstellort oder die Genehmigung zur Aktualisierung von Software beantragt, koordiniert die zuständige Behörde die Verfahren mit dem Ziel einer möglichst kostengünstigen Abfolge der Prüfverfahren. Sind Messgeräte an Aufstellorten in verschiedenen Bundesländern betroffen, kooperieren die zuständigen Behörden im Rahmen ihrer Möglichkeiten. Ein bei der örtlich zuständigen Behörde am Hauptsitz des Verwenders gestellter Antrag, der weitere Aufstellungsorte umfasst, wird von Amts wegen an die zuständigen Behörden weitergeleitet. Ist der Zeitpunkt der Antragstellung maßgeblich, so gilt der Antrag als zu dem Zeitpunkt gestellt, zu dem er bei der zuständigen Behörde am Hauptsitz des Verwenders eingegangen ist.
 
-(3) Zur Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und damit verbundenen Zusatzeinrichtungen können Prüfstellen durch die nach Landesrecht zuständigen Behörden nach Maßgabe einer Rechtsverordnung nach § 41 Nummer 9 staatlich anerkannt werden. Die Prüfstelle muss über eine Haftpflichtversicherung verfügen. Der Leiter und der Stellvertreter der Prüfstelle sind von der zuständigen Behörde öffentlich zu bestellen und zu verpflichten. Widerrufen werden können außer nach den Vorschriften des Verwaltungsverfahrensgesetzes
+(3) Zur Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und damit verbundenen Zusatzeinrichtungen können Prüfstellen durch die nach Landesrecht zuständigen Behörden nach Maßgabe einer Rechtsverordnung nach § 41 Absatz 1 Nummer 9 staatlich anerkannt werden. Die Prüfstelle muss über eine Haftpflichtversicherung verfügen. Der Leiter und der Stellvertreter der Prüfstelle sind von der zuständigen Behörde öffentlich zu bestellen und zu verpflichten. Widerrufen werden können außer nach den Vorschriften des Verwaltungsverfahrensgesetzes
 
 1. die Anerkennung der Prüfstelle, wenn inhaltliche Beschränkungen der Anerkennung nicht beachtet werden,
 
@@ -729,7 +745,7 @@ Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der Eichfrist be
 
 # § 41 – Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
 
 1. zur Konkretisierung der sich aus § 31 ergebenden Pflichten; dabei können insbesondere Anzeige-, Dokumentations-, Prüf- und Aufbewahrungspflichten sowie Verkehrsfehlergrenzen bestimmt werden,
 
@@ -772,6 +788,8 @@ b) der öffentlichen Bestellung und Verpflichtung des Prüfstellenpersonals sowi
 c) des Betriebs der Prüfstelle, einschließlich der dafür erforderlichen Dokumentationspflichten der Prüfstelle,
 
 10. zu den besonderen Anforderungen an die Verwendung von Maßverkörperungen, die zum gewerbsmäßigen Ausschank von Getränken gegen Entgelt bestimmt sind (Ausschankmaße), einschließlich der Festlegung bestimmter, von Ausschankmaßen einzuhaltender Maßvolumina.
+
+(2) Die Bundesregierung kann die Ermächtigung nach Absatz 1 Nummer 2 durch Rechtsverordnung auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen, soweit Ausnahmen von den sich aus § 33 Absatz 1 ergebenden Pflichten für den Bereich der Versorgungsleistungen mit Elektrizität und Gas geregelt werden.
 
 # § 42 – Begriffsbestimmungen für Fertigpackungen und andere Verkaufseinheiten
 
@@ -935,13 +953,51 @@ b) die erwirken, dass ein dem Endverbraucher schon bereits bereitgestelltes Prod
 
 (5) Werden die Marktüberwachungsbehörden von einer vorläufigen Marktüberwachungsmaßnahme eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, der Schweiz oder der Türkei unterrichtet, prüfen sie innerhalb von drei Monaten, ob sie einen Einwand gegen diese Maßnahme erheben und begründen diesen gegebenenfalls. Wird kein Einwand erhoben, so gilt die Maßnahme als gerechtfertigt und die Marktüberwachungsbehörden ergreifen unverzüglich geeignete Maßnahmen hinsichtlich des betreffenden Messgeräts.
 
-(6) Die Marktüberwachungsbehörden informieren und unterstützen sich gegenseitig bei Marktüberwachungsmaßnahmen entsprechend den Absätzen 1 bis 3, und zwar in dem Umfang, der für die jeweilige Aufgabenerfüllung im Einzelfall erforderlich ist.
+(6) Hält die Europäische Kommission eine Maßnahme einer Marktüberwachungsbehörde nicht für gerechtfertigt und hat einen entsprechenden Beschluss an die Bundesrepublik Deutschland gerichtet, haben die Marktüberwachungsbehörden diese Maßnahme zurückzunehmen.
+
+(7) Die Marktüberwachungsbehörden informieren und unterstützen sich gegenseitig bei Marktüberwachungsmaßnahmen entsprechend den Absätzen 1 bis 3, und zwar in dem Umfang, der für die jeweilige Aufgabenerfüllung im Einzelfall erforderlich ist.
+
+# § 50a – Formale Nichtkonformität
+
+(1) Die Marktüberwachungsbehörde hat den betreffenden Wirtschaftsakteur aufzufordern, die Nichtkonformität zu korrigieren, wenn sie feststellt, dass
+
+1. die Konformitätskennzeichnung oder die zusätzliche Metrologie-Kennzeichnung nach einer Rechtsverordnung nach § 30 Nummer 4 nicht angebracht wurde,
+
+2. die Konformitätskennzeichnung oder die zusätzliche Metrologie-Kennzeichnung nach einer Rechtsverordnung nach § 30 Nummer 4 unter Nichteinhaltung von § 6 Absatz 4 angebracht wurde,
+
+3. die Kennnummer der Konformitätsbewertungsstelle unter Nichteinhaltung von § 6 Absatz 4 und 5 angebracht wurde oder nicht angebracht wurde,
+
+4. die Konformitätserklärung nicht ordnungsgemäß ausgestellt wurde,
+
+5. die Konformitätserklärung dem Messgerät nicht beigefügt ist,
+
+6. die technischen Unterlagen nicht verfügbar oder nicht vollständig sind,
+
+7. die in § 6 Absatz 5, § 23 Absatz 2 bis 4 oder § 25 Absatz 2 bis 4 genannten Angaben fehlen, falsch oder unvollständig sind oder
+
+8. eine andere Anforderung nach § 23 oder § 25 nicht erfüllt ist.
+
+Satz 1 Nummer 5 gilt nicht für nicht selbsttätige Waagen.
+
+(2) Besteht die Nichtkonformität weiter, so hat die Marktüberwachungsbehörde die erforderlichen Maßnahmen zu treffen, um die Bereitstellung des Messgeräts auf dem Markt zu beschränken oder zu untersagen oder um dafür zu sorgen, dass es zurückgerufen oder zurückgenommen wird.
+
+# § 50b – Risiko durch konforme Messgeräte
+
+(1) Stellt eine Marktüberwachungsbehörde fest, dass ein Messgerät oder ein sonstiges Messgerät ein Risiko für öffentliche Interessen darstellt, obwohl es mit diesem Gesetz und den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen übereinstimmt, hat sie den betreffenden Wirtschaftsakteur aufzufordern, die erforderlichen Maßnahmen zu ergreifen, um dafür zu sorgen, dass das betreffende Messgerät bei seinem Inverkehrbringen dieses Risiko nicht mehr aufweist oder dass es innerhalb einer der Art des Risikos angemessenen Frist zurückgenommen oder zurückgerufen wird.
+
+(2) Der Wirtschaftsakteur hat zu gewährleisten, dass die Korrekturmaßnahmen, die er ergreift, sich auf sämtliche betroffenen Messgeräte erstrecken, die er in der Union auf dem Markt bereitgestellt hat.
+
+(3) Die Marktüberwachungsbehörde hat die Europäische Kommission und die übrigen Mitgliedstaaten unverzüglich über ergriffene Maßnahmen nach Absatz 1 zu unterrichten. Die Unterrichtung hat insbesondere Informationen zu enthalten über die Daten für die Identifizierung des betreffenden Messgeräts, seine Herkunft, seine Lieferkette, die Art des Risikos sowie die Art und Dauer der ergriffenen nationalen Maßnahmen.
+
+(4) Die Marktüberwachungsbehörden und betroffene Wirtschaftakteure haben die Beschlüsse der Europäischen Kommission zu einer Maßnahme nach Absatz 1 unverzüglich umzusetzen.
 
 # § 51 – Adressaten der Marktüberwachungsmaßnahmen
 
 (1) Die Maßnahmen der Marktüberwachungsbehörden sind gegen den jeweils betroffenen Wirtschaftsakteur gerichtet. Maßnahmen gegen jede andere Person sind, unbeschadet der Maßnahmen im Rahmen der Verwendungsüberwachung, nur zulässig, solange ein bestehendes ernstes Risiko nicht auf andere Weise abgewehrt werden kann.
 
 (2) Der nach Absatz 1 betroffene Wirtschaftsakteur ist vor Erlass einer Maßnahme nach § 50 Absatz 2 gemäß § 28 des Verwaltungsverfahrensgesetzes mit der Maßgabe anzuhören, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur gehört wurde, wird ihm so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
+
+(3) Der Wirtschaftsakteur hat zu gewährleisten, dass alle Korrekturmaßnahmen, die er ergreift, sich auf sämtliche betroffenen Messgeräte erstrecken, die er in der Union auf dem Markt bereitgestellt hat.
 
 # § 52 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Marktüberwachung
 
@@ -967,7 +1023,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 2. mit Anbietern solcher Leistungen unternehmerisch verbunden sind.
 
-(4) Die Marktüberwachungsbehörden können von Konformitätsbewertungsstellen nach den §§ 13 und 14 Absatz 1 sowie von deren mit der Leitung und der Durchführung der Fachaufgaben beauftragtem Personal die Auskünfte und Unterlagen verlangen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Werden sie nach Satz 1 tätig, haben sie die anerkennende Stelle zu informieren.
+(4) Die Marktüberwachungsbehörden können von Konformitätsbewertungsstellen nach den §§ 13 und 14 Absatz 1 und von internen akkreditierten Stellen nach § 21a sowie von deren mit der Leitung und der Durchführung der Fachaufgaben beauftragtem Personal die Auskünfte und Unterlagen verlangen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Werden sie nach Satz 1 tätig, haben sie die anerkennende Stelle zu informieren.
 
 (5) Der betroffene Wirtschaftsakteur hat die Maßnahmen nach den Absätzen 1 und 2 zu dulden und die Marktüberwachungsbehörden sowie deren Beauftragte zu unterstützen, insbesondere ihnen auf Verlangen Räume und Unterlagen zu bezeichnen sowie Räume und Behältnisse zu öffnen. Er hat auf Verlangen Informationen über diejenigen vorzulegen, von denen er in den letzten zehn Jahren Messgeräte bezogen oder an die er Messgeräte abgegeben hat. Er ist verpflichtet, den Marktüberwachungsbehörden auf Verlangen die Auskünfte zu erteilen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Er kann die Auskunft über Fragen verweigern, deren Beantwortung den Verpflichteten oder einen seiner in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr aussetzen würde, wegen einer Straftat oder Ordnungswidrigkeit verfolgt zu werden. Er ist über sein Recht zur Auskunftsverweigerung zu belehren.
 
@@ -999,7 +1055,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (2) Die Behörden verbinden die Aufgabe der Verwendungsüberwachung, soweit möglich, mit der Durchführung von Eichungen nach § 37.
 
-(3) Die Behörden haben eine wirksame Überwachung auf der Grundlage eines Verwendungsüberwachungskonzepts zu gewährleisten. Die Regelungen des § 49 sind für die Zwecke der Verwendungsüberwachung entsprechend anzuwenden.
+(3) Die Behörden haben eine wirksame Überwachung zu gewährleisten.
 
 # § 55 – Maßnahmen der Verwendungsüberwachung
 
@@ -1109,11 +1165,11 @@ nicht sicherstellt, dass ein Messgerät oder ein sonstiges Messgerät nur unter 
 
 14. entgegen § 31 Absatz 1 Satz 1 ein Messgerät oder ein sonstiges Messgerät verwendet,
 
-15. entgegen § 31 Absatz 2 Nummer 1 in Verbindung mit einer Rechtsverordnung nach § 41 Nummer 1 nicht sicherstellt, dass die wesentlichen Anforderungen erfüllt sind,
+15. entgegen § 31 Absatz 2 Nummer 1 in Verbindung mit einer Rechtsverordnung nach § 41 Absatz 1 Nummer 1 nicht sicherstellt, dass die wesentlichen Anforderungen erfüllt sind,
 
-16. entgegen § 31 Absatz 2 Nummer 2 in Verbindung mit einer Rechtsverordnung nach § 41 Nummer 3 nicht sicherstellt, dass die dort genannten Vorschriften beachtet werden,
+16. entgegen § 31 Absatz 2 Nummer 2 in Verbindung mit einer Rechtsverordnung nach § 41 Absatz 1 Nummer 3 nicht sicherstellt, dass die dort genannten Vorschriften beachtet werden,
 
-17. entgegen § 31 Absatz 2 Nummer 4 in Verbindung mit einer Rechtsverordnung nach § 41 Nummer 1 nicht sicherstellt, dass die dort genannten Nachweise aufbewahrt werden,
+17. entgegen § 31 Absatz 2 Nummer 4 in Verbindung mit einer Rechtsverordnung nach § 41 Absatz 1 Nummer 1 nicht sicherstellt, dass die dort genannten Nachweise aufbewahrt werden,
 
 18. entgegen § 32 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
@@ -1131,7 +1187,7 @@ nicht sicherstellt, dass ein Messgerät oder ein sonstiges Messgerät nur unter 
 
 25. entgegen § 52 Absatz 5 Satz 3 oder § 56 Absatz 3 Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-26. einer Rechtsverordnung nach § 41 Nummer 4, 6, 7, 8 oder Nummer 10 oder § 44 Absatz 2 in Verbindung mit § 44 Absatz 1 Nummer 1, 2, 6, 7, 9 oder Nummer 11 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
+26. einer Rechtsverordnung nach § 41 Absatz 1 Nummer 4, 6, 7, 8 oder Nummer 10 oder § 44 Absatz 2 in Verbindung mit § 44 Absatz 1 Nummer 1, 2, 6, 7, 9 oder Nummer 11 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
 
 27. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die inhaltlich
 
