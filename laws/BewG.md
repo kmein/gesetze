@@ -1084,7 +1084,7 @@ Dem Gewerbebetrieb steht die Ausübung eines freien Berufs im Sinne des § 18 Ab
 
 4. Kreditanstalten des öffentlichen Rechts;
 
-5. Gesellschaften im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 und Absatz 3 oder § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes. Zum Gewerbebetrieb einer solchen Gesellschaft gehören auch die Wirtschaftsgüter, die im Eigentum eines Gesellschafters, mehrerer oder aller Gesellschafter stehen, und Schulden eines Gesellschafters, mehrerer oder aller Gesellschafter, soweit die Wirtschaftsgüter und Schulden bei der steuerlichen Gewinnermittlung zum Betriebsvermögen der Gesellschaft gehören (§ 95); diese Zurechnung geht anderen Zurechnungen vor.
+5. Gesellschaften im Sinne des § 15 Absatz 1 Satz 1 Nummer 2, des § 15 Absatz 3, des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes und, wenn sie ihrer Tätigkeit nach einer Gesellschaft im Sinne des § 15 Absatz 1 Satz 1 Nummer 2, des § 15 Absatz 3 oder des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes entsprechen, Gesellschaften im Sinne des § 1a Absatz 1 des Körperschaftsteuergesetzes und Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht als Personengesellschaft zu behandeln sind. Zum Gewerbebetrieb einer solchen Gesellschaft gehören auch die Wirtschaftsgüter, die im Eigentum eines Gesellschafters, mehrerer oder aller Gesellschafter stehen, und Schulden eines Gesellschafters, mehrerer oder aller Gesellschafter, soweit die Wirtschaftsgüter und Schulden bei der steuerlichen Gewinnermittlung zum Betriebsvermögen der Gesellschaft gehören (§ 95); diese Zurechnung geht anderen Zurechnungen vor.
 
 § 34 Abs. 6a und § 51a bleiben unberührt.
 

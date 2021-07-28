@@ -184,7 +184,7 @@ wird. Wenn nötig, kann die Zulassungsbehörde mehrere solcher Anordnungen treff
 (1) Die Zulassung eines Fahrzeugs ist bei der nach § 46 örtlich zuständigen Zulassungsbehörde zu beantragen. Im Antrag sind zur Speicherung in den Fahrzeugregistern folgende Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes anzugeben und auf Verlangen nachzuweisen:
 
 1. bei natürlichen Personen:  
-Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Datum und Ort der Geburt, Geschlecht und Anschrift des Halters;
+Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Datum und Ort oder, wenn dieser nicht bekannt ist, Staat der Geburt, Geschlecht und Anschrift des Halters;
 
 2. bei juristischen Personen und Behörden:  
 Name oder Bezeichnung und Anschrift;
@@ -282,11 +282,13 @@ l) Standgeräusch in dB (A) mit Drehzahl bei min-1</sup> und Fahrgeräusch in dB
 
 # § 7 – Zulassung im Inland nach vorheriger Zulassung in einem anderen Staat
 
-(1) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die bereits in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Betrieb waren, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen, wenn bei Anwendung der Anlage VIII Abschnitt 2 der Straßenverkehrs-Zulassungs-Ordnung zwischenzeitlich eine Untersuchung hätte stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im Sinne der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2012, S. 51; L 334 vom 22.12.2015, S. 66; L 219 vom 22.8.2019, S. 25) in der jeweils geltenden Fassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem das Fahrzeug in Betrieb war, nachgewiesen wird. Hinsichtlich der Frist für die nächste Hauptuntersuchung gilt Abschnitt 2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung. Der Antragsteller hat nachzuweisen, wann das Fahrzeug in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erstmals in Betrieb genommen worden ist. Kann dieser Nachweis nicht erbracht werden, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
+(1) Die Zulassungsbehörde ist befugt, unter Übermittlung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer oder weiterer Fahrzeugdaten Auskünfte aus ausländischen Registern, auch über nationale Kontaktstellen, oder von ausländischen Stellen einzuholen, soweit dies im Rahmen der Zulassung eines Fahrzeugs, zur Prüfung einer vorherigen oder anderen Zulassung, der Identität oder der Rechtslage hinsichtlich dieses Fahrzeugs erforderlich ist. Sofern die ausländische Zulassungsbescheinigung aus zwei Teilen besteht, kann bei Fehlen des Teils II das Fahrzeug nur zugelassen werden, wenn über das Kraftfahrt-Bundesamt die Bestätigung der zuständigen ausländischen Behörde über die frühere Zulassung eingeholt wurde. Die Nummer der ausländischen Zulassungsbescheinigung oder die Nummern von deren Teilen I und II sind zur Speicherung im Zentralen Fahrzeugregister mit dem Antrag auf Zulassung nachzuweisen.
 
-(2) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung einzuziehen und mindestens sechs Monate aufzubewahren. Sie hat das Kraftfahrt-Bundesamt über die Einziehung umgehend, mindestens jedoch innerhalb eines Monats, elektronisch zu unterrichten. Ausführungsregelungen zur Datenübermittlung gibt das Kraftfahrt-Bundesamt in entsprechenden Standards im Verkehrsblatt bekannt. Auf Verlangen der zuständigen ausländischen Behörde ist die eingezogene Zulassungsbescheinigung über das Kraftfahrt-Bundesamt zurückzusenden. Sofern die ausländische Zulassungsbescheinigung aus zwei Teilen besteht, kann bei Fehlen des Teils II das Fahrzeug nur zugelassen werden, wenn über das Kraftfahrt-Bundesamt die Bestätigung der zuständigen ausländischen Behörde über die frühere Zulassung eingeholt wurde. Die Nummer der ausländischen Zulassungsbescheinigung oder die Nummern von deren Teilen I und II sind zur Speicherung im Zentralen Fahrzeugregister mit dem Antrag auf Zulassung nachzuweisen.
+(2) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die bereits in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Betrieb waren, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen, wenn bei Anwendung der Anlage VIII Abschnitt 2 der Straßenverkehrs-Zulassungs-Ordnung zwischenzeitlich eine Untersuchung hätte stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im Sinne der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2012, S. 51; L 334 vom 22.12.2015, S. 66; L 219 vom 22.8.2019, S. 25) in der jeweils geltenden Fassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem das Fahrzeug in Betrieb war, nachgewiesen wird. Hinsichtlich der Frist für die nächste Hauptuntersuchung gilt Abschnitt 2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung. Der Antragsteller hat nachzuweisen, wann das Fahrzeug in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erstmals in Betrieb genommen worden ist. Kann dieser Nachweis nicht erbracht werden, ist vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
 
 (3) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die in einem Staat außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums in Betrieb waren, ist vor der Zulassung in jedem Fall eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen.
+
+(4) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung einzuziehen und mindestens sechs Monate aufzubewahren. Sie hat das Kraftfahrt-Bundesamt über die Einziehung umgehend, mindestens jedoch innerhalb eines Monats, elektronisch zu unterrichten. Ausführungsregelungen zur Datenübermittlung gibt das Kraftfahrt-Bundesamt in entsprechenden Standards im Verkehrsblatt bekannt. Auf Verlangen der zuständigen ausländischen Behörde ist die eingezogene Zulassungsbescheinigung über das Kraftfahrt-Bundesamt zurückzusenden.
 
 # § 8 – Zuteilung von Kennzeichen
 
@@ -1121,7 +1123,7 @@ Das zulässige Datenformat wird vom Kraftfahrt-Bundesamt im Bundesanzeiger sowie
 
 (2) Das Versicherungskennzeichen besteht aus einem Schild, das eine zur eindeutigen Identifizierung des Kraftfahrzeugs geeignete Erkennungsnummer und das Zeichen des zuständigen Verbandes der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Zeichen des Versicherers trägt sowie das Verkehrsjahr angibt, für welches das Versicherungskennzeichen gelten soll. Die Erkennungsnummer setzt sich aus nicht mehr als drei Ziffern und nicht mehr als drei Buchstaben zusammen. Die Ziffern sind in einer Zeile über den Buchstaben anzugeben. Das Verkehrsjahr ist durch die Angabe des Kalenderjahrs zu bezeichnen, in welchem es beginnt. Der zuständige Verband der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Kraftfahrt-Bundesamt teilt mit Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur den Versicherern die Erkennungsnummern zu.
 
-(3) Der Versicherer hat dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes und die in § 30 Absatz 4 genannten Fahrzeugdaten unverzüglich mitzuteilen. Die Mitteilung kann auch über eine Gemeinschaftseinrichtung der Versicherer erfolgen. Ausführungsregeln zur Datenübermittlung gibt das Kraftfahrt-Bundesamt in entsprechenden Standards im Bundesanzeiger sowie zusätzlich im Verkehrsblatt bekannt.
+(3) Der Versicherer hat dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes und die in § 30 Absatz 4 genannten Fahrzeugdaten sowie Änderungen der Daten unverzüglich mitzuteilen. Die Mitteilung kann auch über eine Gemeinschaftseinrichtung der Versicherer erfolgen. Ausführungsregeln zur Datenübermittlung gibt das Kraftfahrt-Bundesamt in entsprechenden Standards im Bundesanzeiger sowie zusätzlich im Verkehrsblatt bekannt.
 
 # § 27 – Ausgestaltung und Anbringung des Versicherungskennzeichens
 
@@ -1613,7 +1615,7 @@ In den Fahrzeugregistern ist ferner das Datum der Änderung der Halterdaten zu s
 
 # § 33 – Übermittlung von Daten an das Kraftfahrt-Bundesamt
 
-(1) Die Zulassungsbehörde hat dem Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister die nach § 30 zu speichernden Fahrzeugdaten sowie die nach § 32 zu speichernden Halterdaten zu übermitteln. Außerdem hat die Zulassungsbehörde dem Kraftfahrt-Bundesamt zur Aktualisierung des Zentralen Fahrzeugregisters jede Änderung der Daten und das Datum der Änderung sowie die Löschung der Daten und das Datum der Löschung im örtlichen Fahrzeugregister zu übermitteln.
+(1) Die Zulassungsbehörde hat dem Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister die nach § 30 zu speichernden Fahrzeugdaten sowie die nach § 32 zu speichernden Halterdaten zu übermitteln. Außerdem hat die Zulassungsbehörde dem Kraftfahrt-Bundesamt zur Aktualisierung des Zentralen Fahrzeugregisters jede Änderung oder Korrektur der Daten und das Datum der Änderung sowie die Löschung der Daten und das Datum der Löschung im örtlichen Fahrzeugregister zu übermitteln.
 
 (2) Nimmt eine andere als die für das Kennzeichen zuständige Zulassungsbehörde die Außerbetriebsetzung des Fahrzeugs vor, so hat sie dem Kraftfahrt-Bundesamt die Außerbetriebsetzung anzuzeigen und außerdem zur Aktualisierung des Zentralen Fahrzeugregisters zu übermitteln:
 
@@ -1853,7 +1855,7 @@ a) das Kennzeichen und
 
 b) das Datum, seit wann das Kennzeichen bei der neu zuständigen Zulassungsbehörde weitergeführt wird.
 
-(2) Ist ein Fahrzeug außer Betrieb gesetzt, so übermittelt das Kraftfahrt-Bundesamt, wenn dieser Umstand im Zentralen Fahrzeugregister vermerkt ist, der zuständigen Zulassungsbehörde zur Aktualisierung des örtlichen Registers diesen Vermerk.
+(2) Ist ein Fahrzeug von einer Zulassungsbehörde außer Betrieb gesetzt worden, die nicht auch für die Zuteilung des geführten Kennzeichens zuständig ist, übermittelt das Kraftfahrt-Bundesamt der für die Zuteilung des Kennzeichens zuständigen Zulassungsbehörde und, sofern das Kennzeichen im Sinne des § 13 Absatz 3 Satz 1 Nummer 2 oder des § 13 Absatz 4 Satz 4 von einer anderen Zulassungsbehörde weitergeführt wurde, auch dieser anderen Zulassungsbehörde den Vermerk über die Außerbetriebsetzung.
 
 (3) Das Kraftfahrt-Bundesamt übermittelt ferner an die jeweils zuständige Zulassungsbehörde die im Zentralen Fahrzeugregister enthaltenen Angaben über Diebstahl oder sonstiges Abhandenkommen von Fahrzeugen, Kennzeichen, ausgefertigten Zulassungsbescheinigungen Teil II und gespeicherten ausländischen Zulassungsbescheinigungen sowie über das Wiederauffinden solcher Fahrzeuge, Kennzeichen und Zulassungsbescheinigungen, es sei denn, dem Kraftfahrt-Bundesamt ist bekannt, dass die Zulassungsbehörde hierüber unterrichtet ist.
 
@@ -2001,9 +2003,9 @@ Bei Verwendung der Schlüsselzahlen 8 bis 0 ist ein auf den bestimmten Anlass be
 
 Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem Zentralen Fahrzeugregister nach § 37a des Straßenverkehrsgesetzes unter Verwendung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer dürfen:
 
-1. für Verwaltungsmaßnahmen nach § 37 Absatz 1 Buchstabe a des Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe a genannten Daten und
+1. für Verwaltungsmaßnahmen nach § 37 Absatz 1 Nummer 1 des Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe a genannten Daten und
 
-2. für Maßnahmen wegen Zuwiderhandlungen und Straftaten, zur Abwehr von Gefahren für die öffentliche Sicherheit sowie zur Überwachung des Versicherungsschutzes nach § 37 Absatz 1 Buchstabe b bis d und Absatz 1a des Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe a und b genannten Daten
+2. für Maßnahmen wegen Zuwiderhandlungen und Straftaten, zur Abwehr von Gefahren für die öffentliche Sicherheit sowie zur Überwachung des Versicherungsschutzes nach § 37 Absatz 1 Nummer 2 bis 4 und Absatz 1a des Straßenverkehrsgesetzes die in § 39 Absatz 2 Nummer 1 Buchstabe a und b genannten Daten
 
 bereitgehalten werden. Die §§ 40 und 41 gelten entsprechend.
 
@@ -2011,9 +2013,9 @@ bereitgehalten werden. Die §§ 40 und 41 gelten entsprechend.
 
 (1) Übermittlungssperren gegenüber Dritten nach § 41 des Straßenverkehrsgesetzes dürfen nur durch die für die Zulassungsbehörde zuständige oberste Landesbehörde oder die von ihr bestimmten oder nach Landesrecht zuständigen Stellen angeordnet werden; die Zulassungsbehörde vermerkt die Sperre unverzüglich im örtlichen Fahrzeugregister. Das Gleiche gilt für eine Änderung der Sperre. Wird die Sperre aufgehoben, ist der Sperrvermerk von der Zulassungsbehörde unverzüglich zu löschen.
 
-(2) Übermittlungssperren gegenüber Dritten sind von der sperrenden Behörde oder der Zulassungsbehörde dem Kraftfahrt-Bundesamt mitzuteilen. Das Kraftfahrt-Bundesamt vermerkt die Sperre unverzüglich im Zentralen Fahrzeugregister. Die Änderung oder Aufhebung der Sperre ist von der sperrenden Behörde oder der Zulassungsbehörde dem Kraftfahrt-Bundesamt mitzuteilen. Für die Änderung der Sperre gilt Satz 2 entsprechend. Wird die Aufhebung der Sperre dem Kraftfahrt-Bundesamt gemeldet, so ist der Sperrvermerk unverzüglich zu löschen.
+(2) Übermittlungssperren gegenüber Dritten sind von der sperrenden Behörde oder der Zulassungsbehörde dem Kraftfahrt-Bundesamt mitzuteilen. Das Kraftfahrt-Bundesamt vermerkt die Sperre und die sperrende Behörde unverzüglich im Zentralen Fahrzeugregister. Die Änderung oder Aufhebung der Sperre ist von der sperrenden Behörde oder der Zulassungsbehörde dem Kraftfahrt-Bundesamt mitzuteilen. Für die Änderung der Sperre gilt Satz 2 entsprechend. Wird die Aufhebung der Sperre dem Kraftfahrt-Bundesamt gemeldet, so ist der Sperrvermerk unverzüglich zu löschen.
 
-(3) Übermittlungsersuchen, die sich auf gesperrte Daten beziehen, sind von der Zulassungsbehörde oder vom Kraftfahrt-Bundesamt an die Behörde weiterzuleiten, die die Sperre angeordnet hat. Die Zulassungsbehörde erteilt die Auskunft, wenn die für die Anordnung der Sperre zuständige Behörde ihr mitteilt, dass die Sperre für dieses Übermittlungsersuchen aufgehoben wird.
+(3) Übermittlungsersuchen, die sich auf gesperrte Daten beziehen, sind von der Zulassungsbehörde oder vom Kraftfahrt-Bundesamt an die sperrende Behörde weiterzuleiten.
 
 # § 44 – Löschung der Daten im Zentralen Fahrzeugregister
 
@@ -2107,7 +2109,7 @@ bereitgehalten werden. Die §§ 40 und 41 gelten entsprechend.
 
 # § 48 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen
 

@@ -173,7 +173,7 @@ Elektrokleinstfahrzeuge unterfallen der Lichtzeichenregelung des § 37 Absatz 2 
 
 # § 14 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 2 Absatz 1 Satz 1 oder Absatz 3 Satz 2 ein Elektrokleinstfahrzeug in Betrieb setzt,
 

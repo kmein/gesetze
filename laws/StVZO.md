@@ -2858,7 +2858,7 @@ ausgerüstet werden.
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 47f Absatz 1, auch in Verbindung mit Absatz 2 Satz 1, oder entgegen § 47f Absatz 2 Satz 2 ein Kraftfahrzeug betreibt.
 
-(2) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 17 Absatz 1 einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwiderhandelt oder Beschränkungen nicht beachtet,
 
@@ -2870,7 +2870,7 @@ ausgerüstet werden.
 
 3. bis 6. (weggefallen)
 
-7. entgegen § 22a Absatz 2 Satz 1 oder Absatz 6 ein Fahrzeugteil ohne amtlich vorgeschriebenes und zugeteiltes Prüfzeichen zur Verwendung feilbietet, veräußert, erwirbt oder verwendet, sofern nicht schon eine Ordnungswidrigkeit nach § 23 des Straßenverkehrsgesetzes vorliegt,
+7. entgegen § 22a Absatz 2 Satz 1 oder Absatz 6 ein Fahrzeugteil ohne amtlich vorgeschriebenes und zugeteiltes Prüfzeichen zur Verwendung feilbietet, veräußert, erwirbt oder verwendet,
 
 8. gegen eine Vorschrift des § 21a Absatz 3 Satz 1 oder § 22a Absatz 5 Satz 1 oder Absatz 6 über die Kennzeichnung von Ausrüstungsgegenständen oder Fahrzeugteilen mit Prüfzeichen oder gegen ein Verbot nach § 21a Absatz 3 Satz 2 oder § 22a Absatz 5 Satz 2 oder Absatz 6 über die Anbringung von verwechslungsfähigen Zeichen verstößt,
 
@@ -2900,7 +2900,7 @@ verstößt,
 
 19. entgegen § 29 Absatz 1 Satz 1 in Verbindung mit Nummer 4.3 Satz 5 der Anlage VIII, Nummer 8.1.1 Satz 2 oder Nummer 8.2.1 Satz 2 der Anlage VIIIc die Maßnahmen nicht duldet oder die vorgeschriebenen Aufzeichnungen nicht vorlegt.
 
-(3) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig ein Kraftfahrzeug oder ein Kraftfahrzeug mit Anhänger (Fahrzeugkombination) unter Verstoß gegen eine der folgenden Vorschriften in Betrieb nimmt:
+(3) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig ein Kraftfahrzeug oder ein Kraftfahrzeug mit Anhänger (Fahrzeugkombination) unter Verstoß gegen eine der folgenden Vorschriften in Betrieb nimmt:
 
 1. des § 30 über allgemeine Beschaffenheit von Fahrzeugen;
 
@@ -3014,7 +3014,7 @@ verstößt,
 
 28. des § 62 über die Beschaffenheit von elektrischen Einrichtungen der elektrisch angetriebenen Kraftfahrzeuge.
 
-(4) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig ein anderes Straßenfahrzeug als ein Kraftfahrzeug oder einen Kraftfahrzeuganhänger oder wer vorsätzlich oder fahrlässig eine Kombination solcher Fahrzeuge unter Verstoß gegen eine der folgenden Vorschriften in Betrieb nimmt:
+(4) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig ein anderes Straßenfahrzeug als ein Kraftfahrzeug oder einen Kraftfahrzeuganhänger oder wer vorsätzlich oder fahrlässig eine Kombination solcher Fahrzeuge unter Verstoß gegen eine der folgenden Vorschriften in Betrieb nimmt:
 
 1. des § 30 über allgemeine Beschaffenheit von Fahrzeugen;
 
@@ -3036,7 +3036,7 @@ verstößt,
 
 9. des § 67a über lichttechnische Einrichtungen an Fahrradanhängern.
 
-(5) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt schließlich, wer vorsätzlich oder fahrlässig
+(5) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt schließlich, wer vorsätzlich oder fahrlässig
 
 1. als Inhaber einer Allgemeinen Betriebserlaubnis für Fahrzeuge gegen eine Vorschrift des § 20 Absatz 3 Satz 3 über die Ausfüllung von Fahrzeugbriefen verstößt,
 
@@ -3565,10 +3565,10 @@ mit einer zulässigen Gesamtmasse &gt; 7,5 t
 Wenn untersuchungspflichtige Fahrzeuge ohne Gestellung eines Fahrers gewerbsmäßig vermietet werden, ohne dass sie für den Mieter zugelassen sind, beträgt die Frist für die Hauptuntersuchung in allen Fällen zwölf Monate; davon ausgenommen beträgt die Frist für die Hauptuntersuchung an Personenkraftwagen nach Nummer 2.1.2.1 und an Lastkraftwagen mit einer zulässigen Gesamtmasse ≤ 3,5 t nach Nummer 2.1.4.1 24 Monate, wenn diese für eine Mindestdauer von 36 Monaten von einem Mieter gemietet werden. An Kraftfahrzeugen nach Nummer 2.1.3 sind Sicherheitsprüfungen in Zeitabständen von drei, sechs und neun Monaten und an Kraftfahrzeugen, selbstfahrenden Arbeitsmaschinen, Zugmaschinen und Wohnmobilen nach den Nummern 2.1.4.3, 2.1.4.4 und 2.1.6.3 sowie Anhängern, einschließlich angehängten Arbeitsmaschinen nach Nummer 2.1.5.4, in einem Abstand von sechs Monaten nach der letzten Hauptuntersuchung durchführen zu lassen.
 
 2.3  
-Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Bei Fahrzeugen, die erstmals in den Verkehr kommen, beginnt die Frist für die nächste Hauptuntersuchung mit dem Monat und Jahr der Zuteilung eines amtlichen Kennzeichens, jedoch nicht bei der Zuteilung eines Kurzzeitkennzeichens. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21 oder einer Hauptuntersuchung (§ 14 Absatz 2 Fahrzeug-Zulassungsverordnung). Sie endet mit Ablauf des durch die Prüfplakette nachgewiesenen Monats und Jahres. Bei Fahrzeugen mit einer EG-Typgenehmigung, die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 1 der Fahrzeug-Zulassungsverordnung anzuwenden.
+Die Frist für die nächste Hauptuntersuchung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Bei Fahrzeugen, die erstmals in den Verkehr kommen, beginnt die Frist für die nächste Hauptuntersuchung mit dem Monat und Jahr der Zuteilung eines amtlichen Kennzeichens, jedoch nicht bei der Zuteilung eines Kurzzeitkennzeichens. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21 oder einer Hauptuntersuchung (§ 14 Absatz 2 Fahrzeug-Zulassungsverordnung). Sie endet mit Ablauf des durch die Prüfplakette nachgewiesenen Monats und Jahres. Bei Fahrzeugen mit einer EG-Typgenehmigung, die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 2 der Fahrzeug-Zulassungsverordnung anzuwenden.
 
 2.4  
-Die Frist für die Durchführung der Sicherheitsprüfung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Die Sicherheitsprüfung darf in dem unmittelbar vor dem durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesenen Monat durchgeführt werden, ohne dass sich die nach Nummer 2.1 oder Nummer 2.2 vorgeschriebenen Zeitabstände für die nächste vorgeschriebene Sicherheitsprüfung ändern. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21. Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 1 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden. Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um höchstens einen Monat überschritten werden, wenn die mit der Prüfung beauftragte Stelle trotz rechtzeitig erteilten Auftrags die Sicherheitsprüfung nicht bis zum Ablauf der Frist nach Satz 5 durchführen konnte und dies in dem Prüfprotokoll bestätigt. Wird die Frist zur Durchführung einer Sicherheitsprüfung überschritten und liegt keine Bestätigung nach Satz 6 vor, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
+Die Frist für die Durchführung der Sicherheitsprüfung beginnt mit dem Monat und Jahr der letzten Hauptuntersuchung. Die Sicherheitsprüfung darf in dem unmittelbar vor dem durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesenen Monat durchgeführt werden, ohne dass sich die nach Nummer 2.1 oder Nummer 2.2 vorgeschriebenen Zeitabstände für die nächste vorgeschriebene Sicherheitsprüfung ändern. Bei Fahrzeugen, die wieder zum Verkehr zugelassen werden oder die vorher außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, beginnt die Frist mit dem Monat und Jahr der Begutachtung nach § 21. Bei Fahrzeugen mit einer EG-Typgenehmigung, die außerhalb des Geltungsbereichs dieser Verordnung zum Verkehr zugelassen waren, ist § 7 Absatz 2 der Fahrzeug-Zulassungsverordnung entsprechend anzuwenden. Die Frist endet mit Ablauf des durch die Prüfmarke in Verbindung mit dem SP-Schild nachgewiesenen Monats und Jahres. Diese Frist darf um höchstens einen Monat überschritten werden, wenn die mit der Prüfung beauftragte Stelle trotz rechtzeitig erteilten Auftrags die Sicherheitsprüfung nicht bis zum Ablauf der Frist nach Satz 5 durchführen konnte und dies in dem Prüfprotokoll bestätigt. Wird die Frist zur Durchführung einer Sicherheitsprüfung überschritten und liegt keine Bestätigung nach Satz 6 vor, ist eine Hauptuntersuchung verbunden mit einer Sicherheitsprüfung im Umfang von Nummer 2.3 der Anlage VIIIa durchzuführen.
 
 2.5  
 Wird bei einer Hauptuntersuchung festgestellt, dass der durch die Prüfmarke in Verbindung mit dem SP-Schild ausgewiesene Monat zur Vorführung des Fahrzeugs zur Sicherheitsprüfung nicht den Fristen der Nummern 2.1 und 2.2 in Verbindung mit Nummer 2.4 entspricht, ist eine neue Prüfmarke zuzuteilen und dies im Untersuchungsbericht zu vermerken.
