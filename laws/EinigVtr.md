@@ -11781,7 +11781,7 @@ mit folgender Maßgabe:
 
 Der Bundesminister für Verkehr ist ermächtigt, die Anordnung aufzuheben.
 
-# Anlage II Kap XI B III – Anlage II Kapitel XI  Sachgebiet B - Straßenverkehr  Abschnitt III
+# Anlage II Kap XI B III – Anlage II Kapitel XISachgebiet B - StraßenverkehrAbschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11809,21 +11809,7 @@ mit folgender Maßgabe:
 
 Sie gelten bis zum 31. Dezember 1992.
 
-4. Straßenverkehrs-Ordnung - StVO - vom 26. Mai 1977 (GBl. I Nr. 20 S. 257), zuletzt geändert durch die Fünfte Verordnung vom 9. September 1986 (GBl. I Nr. 31 S. 417),
-
-mit folgenden Maßgaben:
-
-a) Die Verordnung gilt bis zum 31. Dezember 1990 fort.
-
-b) § 7 Abs. 2 in Verbindung mit § 47 Abs. 1 bis 3 gilt über den 31. Dezember 1990 fort.
-
-c) § 12 Abs. 2 Buchstabe b gilt für die in § 3 Abs. 3 Nr. 2 Buchstaben a und c der Straßenverkehrs-Ordnung vom 16. November 1970 (BGBl. I S. 1565, 1971 S. 38), zuletzt geändert durch Verordnung vom 9. November 1989 (BGBl. I S. 1976), bezeichneten Kraftfahrzeuge bis zum 31. Dezember 1992.
-
-d) § 12 Abs. 2 Buchstabe c gilt für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einem zulässigen Gesamtgewicht bis 2,8 t bis zum 31. Dezember 1991.
-
-e) Die Verkehrszeichen der Anlage 2 Bilder 215 (Wendeverbot), 419 (nicht gültig für abgebildete Fahrzeugart), 421 (nicht gültig für Schwerst-Gehbehinderte mit Ausnahmegenehmigung) und 422 (gültig bei Nässe) behalten ihre bisherige Bedeutung.
-
-f) Zuwiderhandlungen gegen die in den Buchstaben a bis d genannten Vorschriften und Zuwiderhandlungen gegen das mit Bild 215 angeordnete Verbot sowie gegen eine jeweils zusammen mit Bild 422 angeordnete Beschränkung stehen Ordnungswidrigkeiten im Sinne des § 24 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz vom 28. Januar 1987 (BGBl. I S. 486), gleich.
+4. (nicht mehr anzuwenden)
 
 5. Straßenverkehrs-Zulassung-Ordnung - StVZO - vom 26. November 1981 (GBl. I 1982 Nr. 1 S. 6)
 

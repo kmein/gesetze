@@ -5341,7 +5341,6 @@
 - [StVG](laws/StVG.md) Straßenverkehrsgesetz
 - [StVGHBetrÄndV](laws/StVGHBetrÄndV.md) Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz
 - [StVO](laws/StVO.md) Straßenverkehrs-Ordnung
-- [StVO DDR](laws/StVO_DDR.md) Verordnung über das Verhalten im Straßenverkehr
 - [StVOAusnV 12](laws/StVOAusnV_12.md) Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
 - [StVOAusnV 4](laws/StVOAusnV_4.md) Vierte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung
 - [StVOAusnV 5](laws/StVOAusnV_5.md) Fünfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung

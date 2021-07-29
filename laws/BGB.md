@@ -4360,7 +4360,7 @@ Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2
 
 (+++ § 556d: Zur Nichtanwendung vgl. § 556f +++)  
 (+++ § 556d: Zur Anwendung vgl. §§ 557a, 557b +++)  
-(+++ § 556d: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+(+++ § 556d: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)
 
 # § 556e – Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
 
@@ -4370,14 +4370,14 @@ Eine Rechtsverordnung nach Satz 1 muss spätestens mit Ablauf des 31. Dezember 2
 
 (+++ § 556e: Zur Nichtanwendung vgl. § 556f +++)  
 (+++ § 556e: Zur Anwendung vgl. §§ 557a, 557b +++)  
-(+++ § 556e: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+(+++ § 556e: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)
 
 # § 556f – Ausnahmen
 
 § 556d ist nicht anzuwenden auf eine Wohnung, die nach dem 1. Oktober 2014 erstmals genutzt und vermietet wird. Die §§ 556d und 556e sind nicht anzuwenden auf die erste Vermietung nach umfassender Modernisierung.
 
 (+++ § 556f: Zur Anwendung vgl. §§ 557a, 557b +++)  
-(+++ § 556f: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+(+++ § 556f: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)
 
 # § 556g – Rechtsfolgen; Auskunft über die Miete
 
@@ -4402,7 +4402,7 @@ Soweit der Vermieter die Auskunft nicht erteilt hat, kann er sich nicht auf eine
 (4) Sämtliche Erklärungen nach den Absätzen 1a bis 3 bedürfen der Textform.
 
 (+++ § 556g: Zur Anwendung vgl. §§ 557a, 557b +++)  
-(+++ § 556g: Zur Nichtanwendung vgl. § 35 BGBEG +++)  
+(+++ § 556g: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)  
 (+++ § 556g: Zur Anwendung vgl. Art. 229 § 49 Abs. 2 BGBEG u. Art. 229 § 51 BGBEG +++)
 
 # § 557 – Mieterhöhungen nach Vereinbarung oder Gesetz
@@ -4430,7 +4430,7 @@ Soweit der Vermieter die Auskunft nicht erteilt hat, kann er sich nicht auf eine
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
 (+++ § 557a Abs. 1 bis 3, 5: Zur Anwendung vgl. § 578 Abs. 3 Satz 1 +++)  
-(+++ § 557a Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+(+++ § 557a Abs. 4: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)
 
 # § 557b – Indexmiete
 
@@ -4445,7 +4445,7 @@ Soweit der Vermieter die Auskunft nicht erteilt hat, kann er sich nicht auf eine
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
 (+++ § 557b Abs. 1 bis 3, 5: Zur Anwendung vgl. § 578 Abs. 3 Satz 1 +++)  
-(+++ § 557b Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+(+++ § 557b Abs. 4: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG +++)
 
 # § 558 – Mieterhöhung bis zur ortsüblichen Vergleichsmiete
 

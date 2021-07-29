@@ -543,25 +543,25 @@ Zwölftes Kapitel
 
 Interoperabilitätsverzeichnis .......
 
-§§ 384 bis 393
+§§ 384 bis 395
 
 Dreizehntes Kapitel
 
 Straf- und Bußgeldvorschriften .......
 
-§§ 394 bis 397
+§§ 396 bis 399
 
 Vierzehntes Kapitel
 
 Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands .......
 
-§§ 398 bis 400
+§§ 400 bis 402
 
 Fünfzehntes Kapitel
 
 Weitere Übergangsvorschriften .......
 
-§§ 401 bis 417
+§§ 403 bis 417
 
 Inhaltsübersicht: IdF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
@@ -11873,9 +11873,7 @@ Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung ges
 
 2. keine Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab dem Zeitpunkt, zu dem der Arbeitgeber mit Zustimmung der Teilnehmerin oder des Teilnehmers Beiträge zahlt.
 
-# § 417 – Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
-
-Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.
+# § 417 – (weggefallen)
 
 # Anlage – (zu § 307 Absatz 1 Satz 3 SGB V)Datenschutz-Folgenabschätzung
 
