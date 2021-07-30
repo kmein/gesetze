@@ -59,7 +59,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung
 
 # § 2 – Fahrerlaubnis und Führerschein
 
-(1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der Erlaubnis (Fahrerlaubnis) der zuständigen Behörde (Fahrerlaubnisbehörde). Die Fahrerlaubnis wird in bestimmten Klassen erteilt. Sie ist durch eine amtliche Bescheinigung (Führerschein) nachzuweisen. Nach näherer Bestimmung durch Rechtsverordnung auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe b und x kann die Gültigkeitsdauer der Führerscheine festgelegt werden.
+(1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der Erlaubnis (Fahrerlaubnis) der zuständigen Behörde (Fahrerlaubnisbehörde). Die Fahrerlaubnis wird in bestimmten Klassen erteilt. Sie ist durch eine amtliche Bescheinigung (Führerschein) nachzuweisen. Nach näherer Bestimmung durch Rechtsverordnung auf Grund des § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und Absatz 3 Nummer 2 kann die Gültigkeitsdauer der Führerscheine festgelegt werden.
 
 (2) Die Fahrerlaubnis ist für die jeweilige Klasse zu erteilen, wenn der Bewerber
 
@@ -77,9 +77,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung
 
 7. keine in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilte Fahrerlaubnis dieser Klasse besitzt.
 
-Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe g können als weitere Voraussetzungen der Vorbesitz anderer Klassen oder Fahrpraxis in einer anderen Klasse festgelegt werden. Die Fahrerlaubnis kann für die Klassen C und D sowie ihre Unterklassen und Anhängerklassen befristet erteilt werden. Sie ist auf Antrag zu verlängern, wenn der Bewerber zum Führen von Kraftfahrzeugen geeignet ist und kein Anlass zur Annahme besteht, dass eine der aus den Sätzen 1 und 2 ersichtlichen sonstigen Voraussetzungen fehlt.
+Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe b können als weitere Voraussetzungen der Vorbesitz anderer Klassen oder Fahrpraxis in einer anderen Klasse festgelegt werden. Die Fahrerlaubnis kann für die Klassen C und D sowie ihre Unterklassen und Anhängerklassen befristet erteilt werden. Sie ist auf Antrag zu verlängern, wenn der Bewerber zum Führen von Kraftfahrzeugen geeignet ist und kein Anlass zur Annahme besteht, dass eine der aus den Sätzen 1 und 2 ersichtlichen sonstigen Voraussetzungen fehlt.
 
-(3) Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe b und g kann für die Personenbeförderung in anderen Fahrzeugen als Kraftomnibussen zusätzlich zur Fahrerlaubnis nach Absatz 1 eine besondere Erlaubnis verlangt werden. Die Erlaubnis wird befristet erteilt. Für die Erteilung und Verlängerung können dieselben Voraussetzungen bestimmt werden, die für die Fahrerlaubnis zum Führen von Kraftomnibussen gelten. Außerdem können Ortskenntnisse verlangt werden. Im Übrigen gelten die Bestimmungen für Fahrerlaubnisse entsprechend, soweit gesetzlich nichts anderes bestimmt ist.
+(3) Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und b kann für die Personenbeförderung in anderen Fahrzeugen als Kraftomnibussen zusätzlich zur Fahrerlaubnis nach Absatz 1 eine besondere Erlaubnis verlangt werden. Die Erlaubnis wird befristet erteilt. Für die Erteilung und Verlängerung können dieselben Voraussetzungen bestimmt werden, die für die Fahrerlaubnis zum Führen von Kraftomnibussen gelten. Außerdem können Ortskenntnisse verlangt werden. Im Übrigen gelten die Bestimmungen für Fahrerlaubnisse entsprechend, soweit gesetzlich nichts anderes bestimmt ist.
 
 (4) Geeignet zum Führen von Kraftfahrzeugen ist, wer die notwendigen körperlichen und geistigen Anforderungen erfüllt und nicht erheblich oder nicht wiederholt gegen verkehrsrechtliche Vorschriften oder gegen Strafgesetze verstoßen hat. Ist der Bewerber auf Grund körperlicher oder geistiger Mängel nur bedingt zum Führen von Kraftfahrzeugen geeignet, so erteilt die Fahrerlaubnisbehörde die Fahrerlaubnis mit Beschränkungen oder unter Auflagen, wenn dadurch das sichere Führen von Kraftfahrzeugen gewährleistet ist.
 
@@ -93,7 +93,7 @@ Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchst
 
 4. über ausreichende Kenntnisse einer umweltbewussten und energiesparenden Fahrweise verfügt und zu ihrer praktischen Anwendung in der Lage ist.
 
-(6) Wer die Erteilung, Erweiterung, Verlängerung oder Änderung einer Fahrerlaubnis oder einer besonderen Erlaubnis nach Absatz 3, die Aufhebung einer Beschränkung oder Auflage oder die Ausfertigung oder Änderung eines Führerscheins beantragt, hat der Fahrerlaubnisbehörde nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe h mitzuteilen und nachzuweisen
+(6) Wer die Erteilung, Erweiterung, Verlängerung oder Änderung einer Fahrerlaubnis oder einer besonderen Erlaubnis nach Absatz 3, die Aufhebung einer Beschränkung oder Auflage oder die Ausfertigung oder Änderung eines Führerscheins beantragt, hat der Fahrerlaubnisbehörde nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 und Absatz 3 Nummer 1 mitzuteilen und nachzuweisen
 
 1. Familiennamen, Geburtsnamen, sonstige frühere Namen, Vornamen, Ordens- oder Künstlernamen, Doktorgrad, Geschlecht, Tag und Ort der Geburt, Anschrift, Staatsangehörigkeit, Art des Ausweisdokumentes und
 
@@ -103,7 +103,15 @@ sowie ein Lichtbild abzugeben. Außerdem hat der Antragsteller eine Erklärung d
 
 (7) Die Fahrerlaubnisbehörde hat zu ermitteln, ob der Antragsteller zum Führen von Kraftfahrzeugen, gegebenenfalls mit Anhänger, geeignet und befähigt ist und ob er bereits eine in- oder ausländische Fahrerlaubnis oder einen entsprechenden Führerschein besitzt. Sie hat dazu Auskünfte aus dem Fahreignungsregister und dem Zentralen Fahrerlaubnisregister nach den Vorschriften dieses Gesetzes einzuholen. Sie kann außerdem insbesondere entsprechende Auskünfte aus ausländischen Registern oder von ausländischen Stellen einholen sowie die Beibringung eines Führungszeugnisses zur Vorlage bei der Verwaltungsbehörde nach den Vorschriften des Bundeszentralregistergesetzes verlangen.
 
-(8) Werden Tatsachen bekannt, die Bedenken gegen die Eignung oder Befähigung des Bewerbers begründen, so kann die Fahrerlaubnisbehörde anordnen, dass der Antragsteller ein Gutachten oder Zeugnis eines Facharztes oder Amtsarztes, ein Gutachten einer amtlich anerkannten Begutachtungsstelle für Fahreignung oder eines amtlichen anerkannten Sachverständigen oder Prüfers für den Kraftfahrzeugverkehr innerhalb einer angemessenen Frist beibringt.
+(8) Werden Tatsachen bekannt, die Bedenken gegen die Eignung oder Befähigung des Bewerbers begründen, so kann die Fahrerlaubnisbehörde anordnen, dass der Antragsteller ein Gutachten oder Zeugnis eines Facharztes oder Amtsarztes, ein Gutachten einer amtlich anerkannten Begutachtungsstelle für Fahreignung oder eines amtlichen anerkannten Sachverständigen oder Prüfers für den Kraftfahrzeugverkehr innerhalb einer angemessenen Frist beibringt. Anstelle eines erneuten Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung genügt zum Nachweis der Wiederherstellung der Eignung in der Regel die Vorlage einer Bescheinigung über die Teilnahme an einem amtlich anerkannten Kurs zur Wiederherstellung der Kraftfahreignung, wenn
+
+1. auf Grund eines Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung die Teilnahme des Betroffenen an dieser Art von Kursen als geeignete Maßnahme angesehen wird, bestehende Eignungsmängel zu beseitigen,
+
+2. der Betroffene nicht Inhaber einer Fahrerlaubnis ist und
+
+3. die Fahrerlaubnisbehörde der Kursteilnahme zugestimmt hat.
+
+Satz 2 gilt nicht, wenn die Beibringung eines Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung nach § 4 Absatz 10 Satz 4 oder wegen erheblichen oder wiederholten Verstoßes gegen verkehrsrechtliche Vorschriften oder gegen Strafgesetze angeordnet wird.
 
 (9) Die Registerauskünfte, Führungszeugnisse, Gutachten und Gesundheitszeugnisse dürfen nur zur Feststellung oder Überprüfung der Eignung oder Befähigung verwendet werden. Sie sind nach spätestens zehn Jahren zu vernichten, es sei denn, mit ihnen im Zusammenhang stehende Eintragungen im Fahreignungsregister oder im Zentralen Fahrerlaubnisregister sind nach den Bestimmungen für diese Register zu einem früheren oder späteren Zeitpunkt zu tilgen oder zu löschen. In diesem Fall ist für die Vernichtung oder Löschung der frühere oder spätere Zeitpunkt maßgeblich. Die Zehnjahresfrist nach Satz 2 beginnt mit der rechts- oder bestandskräftigen Entscheidung oder mit der Rücknahme des Antrags durch den Antragsteller. Die Sätze 1 bis 4 gelten auch für entsprechende Unterlagen, die der Antragsteller nach Absatz 6 Satz 1 Nr. 2 beibringt. Anstelle einer Vernichtung der Unterlagen ist die Verarbeitung der darin enthaltenen Daten einzuschränken, wenn die Vernichtung wegen der besonderen Art der Führung der Akten nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
 
@@ -119,13 +127,13 @@ sowie ein Lichtbild abzugeben. Außerdem hat der Antragsteller eine Erklärung d
 
 Die Fahrberechtigung gilt im gesamten Hoheitsgebiet der Bundesrepublik Deutschland zur Aufgabenerfüllung der in Satz 1 genannten Organisationen oder Einrichtungen. Die Sätze 1 bis 3 gelten entsprechend für den Erwerb der Fahrberechtigung zum Führen von Einsatzfahrzeugen bis zu einer zulässigen Gesamtmasse von 7,5 t – auch mit Anhängern, sofern die zulässige Gesamtmasse der Kombination 7,5 t nicht übersteigt.
 
-(11) Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe j berechtigen auch ausländische Fahrerlaubnisse zum Führen von Kraftfahrzeugen im Inland.
+(11) Nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Absatz 3 Nummer 1 und 2 berechtigen auch ausländische Fahrerlaubnisse zum Führen von Kraftfahrzeugen im Inland.
 
 (12) Die Polizei hat Informationen über Tatsachen, die auf nicht nur vorübergehende Mängel hinsichtlich der Eignung oder auf Mängel hinsichtlich der Befähigung einer Person zum Führen von Kraftfahrzeugen schließen lassen, den Fahrerlaubnisbehörden zu übermitteln, soweit dies für die Überprüfung der Eignung oder Befähigung aus der Sicht der übermittelnden Stelle erforderlich ist. Soweit die mitgeteilten Informationen für die Beurteilung der Eignung oder Befähigung nicht erforderlich sind, sind die Unterlagen unverzüglich zu vernichten.
 
-(13) Stellen oder Personen, die die Eignung oder Befähigung zur Teilnahme am Straßenverkehr oder Ortskenntnisse zwecks Vorbereitung einer verwaltungsbehördlichen Entscheidung beurteilen oder prüfen oder die in Erster Hilfe (§ 2 Abs. 2 Satz 1 Nr. 6) ausbilden, müssen für diese Aufgaben gesetzlich oder amtlich anerkannt oder beauftragt sein. Personen, die die Befähigung zum Führen von Kraftfahrzeugen nach § 2 Abs. 5 prüfen, müssen darüber hinaus einer Technischen Prüfstelle für den Kraftfahrzeugverkehr nach § 10 des Kraftfahrsachverständigengesetzes angehören. Voraussetzungen, Inhalt, Umfang und Verfahren für die Anerkennung oder Beauftragung und die Aufsicht werden - soweit nicht bereits im Kraftfahrsachverständigengesetz oder in auf ihm beruhenden Rechtsvorschriften geregelt - durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe k näher bestimmt. Abweichend von den Sätzen 1 bis 3 sind Personen, die die Voraussetzungen des Absatzes 16 für die Begleitung erfüllen, berechtigt, die Befähigung zum Führen von Einsatzfahrzeugen der in Absatz 10a Satz 1 genannten Organisationen oder Einrichtungen zu prüfen.
+(13) Stellen oder Personen, die die Eignung oder Befähigung zur Teilnahme am Straßenverkehr oder Ortskenntnisse zwecks Vorbereitung einer verwaltungsbehördlichen Entscheidung beurteilen oder prüfen oder die in Erster Hilfe (§ 2 Abs. 2 Satz 1 Nr. 6) ausbilden, müssen für diese Aufgaben gesetzlich oder amtlich anerkannt oder beauftragt sein. Personen, die die Befähigung zum Führen von Kraftfahrzeugen nach § 2 Abs. 5 prüfen, müssen darüber hinaus einer Technischen Prüfstelle für den Kraftfahrzeugverkehr nach § 10 des Kraftfahrsachverständigengesetzes angehören. Voraussetzungen, Inhalt, Umfang und Verfahren für die Anerkennung oder Beauftragung und die Aufsicht werden - soweit nicht bereits im Kraftfahrsachverständigengesetz oder in auf ihm beruhenden Rechtsvorschriften geregelt - durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe c und d in Verbindung mit Absatz 3 Nummer 3 näher bestimmt. Abweichend von den Sätzen 1 bis 3 sind Personen, die die Voraussetzungen des Absatzes 16 für die Begleitung erfüllen, berechtigt, die Befähigung zum Führen von Einsatzfahrzeugen der in Absatz 10a Satz 1 genannten Organisationen oder Einrichtungen zu prüfen.
 
-(14) Die Fahrerlaubnisbehörden dürfen den in Absatz 13 Satz 1 genannten Stellen und Personen die Daten übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen. Die betreffenden Stellen und Personen dürfen diese Daten und nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe k die bei der Erfüllung ihrer Aufgaben anfallenden Daten verarbeiten.
+(14) Die Fahrerlaubnisbehörden dürfen den in Absatz 13 Satz 1 genannten Stellen und Personen die Daten übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen. Die betreffenden Stellen und Personen dürfen diese Daten und nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe c und d in Verbindung mit Absatz 3 Nummer 3 die bei der Erfüllung ihrer Aufgaben anfallenden Daten verarbeiten.
 
 (15) Wer zur Ausbildung, zur Ablegung der Prüfung oder zur Begutachtung der Eignung oder Befähigung ein Kraftfahrzeug auf öffentlichen Straßen führt, muss dabei von einem Fahrlehrer oder einem Fahrlehreranwärter im Sinne des Fahrlehrergesetzes begleitet werden. Bei den Fahrten nach Satz 1 sowie bei der Hin- und Rückfahrt zu oder von einer Prüfung oder einer Begutachtung gilt im Sinne dieses Gesetzes der Fahrlehrer oder der Fahrlehreranwärter als Führer des Kraftfahrzeugs, wenn der Kraftfahrzeugführer keine entsprechende Fahrerlaubnis besitzt.
 
@@ -175,13 +183,13 @@ oder wurde die Fahrerlaubnis nach § 6e Absatz 2 widerrufen, so darf eine neue F
 
 2. über den Abschluss eines Hochschulstudiums als Diplom-Psychologe oder eines gleichwertigen Masterabschlusses in Psychologie verfügt und
 
-3. eine Ausbildung und Erfahrungen in der Verkehrspsychologie nach näherer Bestimmung durch Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe u nachweist.
+3. eine Ausbildung und Erfahrungen in der Verkehrspsychologie nach näherer Bestimmung durch Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und c in Verbindung mit Absatz 3 Nummer 3 nachweist.
 
 # § 2b – Aufbauseminar bei Zuwiderhandlungen innerhalb der Probezeit
 
 (1) Die Teilnehmer an Aufbauseminaren sollen durch Mitwirkung an Gruppengesprächen und an einer Fahrprobe veranlasst werden, eine risikobewusstere Einstellung im Straßenverkehr zu entwickeln und sich dort sicher und rücksichtsvoll zu verhalten. Auf Antrag kann die anordnende Behörde der betroffenen Person die Teilnahme an einem Einzelseminar gestatten.
 
-(2) Die Aufbauseminare dürfen nur von Fahrlehrern durchgeführt werden, die Inhaber einer entsprechenden Erlaubnis nach dem Fahrlehrergesetz sind. Besondere Aufbauseminare für Inhaber einer Fahrerlaubnis auf Probe, die unter dem Einfluss von Alkohol oder anderer berauschender Mittel am Verkehr teilgenommen haben, werden nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Abs. 1 Nr. 1 Buchstabe n von hierfür amtlich anerkannten anderen Seminarleitern durchgeführt.
+(2) Die Aufbauseminare dürfen nur von Fahrlehrern durchgeführt werden, die Inhaber einer entsprechenden Erlaubnis nach dem Fahrlehrergesetz sind. Besondere Aufbauseminare für Inhaber einer Fahrerlaubnis auf Probe, die unter dem Einfluss von Alkohol oder anderer berauschender Mittel am Verkehr teilgenommen haben, werden nach näherer Bestimmung durch Rechtsverordnung gemäß § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und c und Absatz 3 Nummer 3 von hierfür amtlich anerkannten anderen Seminarleitern durchgeführt.
 
 (3) Ist der Teilnehmer an einem Aufbauseminar nicht Inhaber einer Fahrerlaubnis oder unterliegt er einem rechtskräftig angeordneten Fahrverbot, so gilt hinsichtlich der Fahrprobe § 2 Abs. 15 entsprechend.
 
@@ -203,7 +211,7 @@ Das Kraftfahrt-Bundesamt hat die zuständige Behörde zu unterrichten, wenn übe
 
 (6) Für die Erteilung des Rechts, nach vorangegangener Entziehung oder vorangegangenem Verzicht von einer ausländischen Fahrerlaubnis im Inland wieder Gebrauch zu machen, an Personen mit ordentlichem Wohnsitz im Ausland gelten die Vorschriften über die Neuerteilung einer Fahrerlaubnis nach vorangegangener Entziehung oder vorangegangenem Verzicht entsprechend.
 
-(7) Durch Rechtsverordnung auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe r können Fristen und Voraussetzungen
+(7) Durch Rechtsverordnung auf Grund des § 6 Absatz 1 Satz 1 Nummer 1 können Fristen und Voraussetzungen
 
 1. für die Erteilung einer neuen Fahrerlaubnis nach vorangegangener Entziehung oder nach vorangegangenem Verzicht oder
 
@@ -219,9 +227,9 @@ bestimmt werden.
 
 2. zivilrechtlicher Ansprüche Unfallbeteiligter
 
-dienen. Das Fahreignungs-Bewertungssystem ist nicht anzuwenden, wenn sich die Notwendigkeit früherer oder anderer die Fahreignung betreffender Maßnahmen nach den Vorschriften über die Entziehung der Fahrerlaubnis nach § 3 Absatz 1 oder einer auf Grund § 6 Absatz 1 Nummer 1 erlassenen Rechtsverordnung ergibt. Das Fahreignungs-Bewertungssystem und die Regelungen über die Fahrerlaubnis auf Probe sind nebeneinander anzuwenden.
+dienen. Das Fahreignungs-Bewertungssystem ist nicht anzuwenden, wenn sich die Notwendigkeit früherer oder anderer die Fahreignung betreffender Maßnahmen nach den Vorschriften über die Entziehung der Fahrerlaubnis nach § 3 Absatz 1 oder einer auf Grund § 6 Absatz 1 Satz 1 Nummer 1 erlassenen Rechtsverordnung ergibt. Das Fahreignungs-Bewertungssystem und die Regelungen über die Fahrerlaubnis auf Probe sind nebeneinander anzuwenden.
 
-(2) Für die Anwendung des Fahreignungs-Bewertungssystems sind die in einer Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s bezeichneten Straftaten und Ordnungswidrigkeiten maßgeblich. Sie werden nach Maßgabe der in Satz 1 genannten Rechtsverordnung wie folgt bewertet:
+(2) Für die Anwendung des Fahreignungs-Bewertungssystems sind die in einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 Buchstabe b bezeichneten Straftaten und Ordnungswidrigkeiten maßgeblich. Sie werden nach Maßgabe der in Satz 1 genannten Rechtsverordnung wie folgt bewertet:
 
 1. Straftaten mit Bezug auf die Verkehrssicherheit oder gleichgestellte Straftaten, sofern in der Entscheidung über die Straftat die Entziehung der Fahrerlaubnis nach den §§ 69 und 69b des Strafgesetzbuches oder eine Sperre nach § 69a Absatz 1 Satz 3 des Strafgesetzbuches angeordnet worden ist, mit drei Punkten,
 
@@ -389,267 +397,199 @@ f) die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleite
 
 (6) Können Verkehrszeichen oder Verkehrseinrichtungen aus technischen Gründen oder wegen der Sicherheit und Leichtigkeit des Straßenverkehrs nicht auf der Straße angebracht werden, haben die Eigentümer der Anliegergrundstücke das Anbringen zu dulden. Schäden, die durch das Anbringen oder Entfernen der Verkehrszeichen oder Verkehrseinrichtungen entstehen, sind zu beseitigen. Wird die Benutzung eines Grundstücks oder sein Wert durch die Verkehrszeichen oder Verkehrseinrichtungen nicht unerheblich beeinträchtigt oder können Schäden, die durch das Anbringen oder Entfernen der Verkehrszeichen oder Verkehrseinrichtungen entstanden sind, nicht beseitigt werden, so ist eine angemessene Entschädigung in Geld zu leisten. Zur Schadensbeseitigung und zur Entschädigungsleistung ist derjenige verpflichtet, der die Kosten für die Verkehrszeichen und Verkehrseinrichtungen zu tragen hat. Kommt eine Einigung nicht zustande, so entscheidet die höhere Verwaltungsbehörde. Vor der Entscheidung sind die Beteiligten zu hören. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige Behörde abweichend von Satz 5 zu bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-# § 6 – Ausführungsvorschriften
+# § 6 – Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen über
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen mit Zustimmung des Bundesrates über Folgendes zu erlassen:
 
 1. die Zulassung von Personen zum Straßenverkehr, insbesondere über
 
-a) Ausnahmen von der Fahrerlaubnispflicht nach § 2 Abs. 1 Satz 1, Anforderungen für das Führen fahrerlaubnisfreier Kraftfahrzeuge, Ausnahmen von einzelnen Erteilungsvoraussetzungen nach § 2 Abs. 2 Satz 1 und vom Erfordernis der Begleitung und Beaufsichtigung durch einen Fahrlehrer nach § 2 Abs. 15 Satz 1,
+a) den Inhalt und die Gültigkeitsdauer von Fahrerlaubnissen, insbesondere unterschieden nach Fahrerlaubnisklassen, über die Probezeit sowie über Auflagen und Beschränkungen zu Fahrerlaubnissen,
 
-b) den Inhalt der Fahrerlaubnisklassen nach § 2 Abs. 1 Satz 2 und der besonderen Erlaubnis nach § 2 Abs. 3, die Gültigkeitsdauer der Fahrerlaubnis der Klassen C und D, ihrer Unterklassen und Anhängerklassen, die Gültigkeitsdauer der Führerscheine und der besonderen Erlaubnis nach § 2 Abs. 3 sowie Auflagen und Beschränkungen zur Fahrerlaubnis und der besonderen Erlaubnis nach § 2 Abs. 3,
+b) die erforderliche Befähigung und Eignung von Personen für ihre Teilnahme am Straßenverkehr, das Mindestalter und die sonstigen Anforderungen und Voraussetzungen zur Teilnahme am Straßenverkehr,
 
-c) die Anforderungen an die Eignung zum Führen von Kraftfahrzeugen, die Beurteilung der Eignung durch Gutachten sowie die Feststellung und Überprüfung der Eignung durch die Fahrerlaubnisbehörde nach § 2 Abs. 2 Satz 1 Nr. 3 in Verbindung mit Abs. 4, 7 und 8,
+c) die Ausbildung und die Fortbildung von Personen zur Herstellung und zum Erhalt der Voraussetzungen nach Buchstabe b und die sonstigen Maßnahmen, um die sichere Teilnahme von Personen am Straßenverkehr zu gewährleisten, insbesondere hinsichtlich Personen, die nur bedingt geeignet oder ungeeignet oder nicht befähigt zur Teilnahme am Straßenverkehr sind,
 
-d) die Maßnahmen zur Beseitigung von Eignungsmängeln, insbesondere Inhalt und Dauer entsprechender Kurse, die Teilnahme an solchen Kursen, die Anforderungen an die Kursleiter sowie die Zertifizierung der Qualitätssicherung, deren Inhalt einschließlich der hierfür erforderlichen Verarbeitung personenbezogener Daten und die Begutachtung, einschließlich der verfahrensmäßigen und fachwissenschaftlichen Anforderungen, der für die Qualitätssicherung Verantwortlichen durch die Bundesanstalt für Straßenwesen, um die ordnungsgemäße Durchführung der Kurse zu gewährleisten, wobei ein Erfahrungsaustausch unter Leitung der Bundesanstalt für Straßenwesen vorgeschrieben werden kann,
+d) die Prüfung und Beurteilung des Erfüllens der Voraussetzungen nach den Buchstaben b und c,
 
-e) die Prüfung der Befähigung zum Führen von Kraftfahrzeugen, insbesondere über die Zulassung zur Prüfung sowie über Inhalt, Gliederung, Verfahren, Bewertung, Entscheidung und Wiederholung der Prüfung nach § 2 Abs. 2 Satz 1 Nr. 5 in Verbindung mit Abs. 5, 7 und 8 sowie die Erprobung neuer Prüfungsverfahren,
+e) Ausnahmen von einzelnen Anforderungen und Inhalten der Zulassung von Personen, insbesondere von der Fahrerlaubnispflicht und von einzelnen Erteilungsvoraussetzungen,
 
-f) die Prüfung der umweltbewussten und energiesparenden Fahrweise nach § 2 Abs. 2 Satz 1 Nr. 5 in Verbindung mit Abs. 5 Nr. 4,
+2. das Verhalten im Verkehr, auch im ruhenden Verkehr,
 
-g) die nähere Bestimmung der sonstigen Voraussetzungen nach § 2 Abs. 2 Satz 1 und 2 für die Erteilung der Fahrerlaubnis und die Voraussetzungen der Erteilung der besonderen Erlaubnis nach § 2 Abs. 3,
-
-h) den Nachweis der Personendaten, die E-Mail-Adresse, soweit vom Antragsteller angegeben, das Lichtbild sowie die Mitteilung und die Nachweise über das Vorliegen der Voraussetzungen im Antragsverfahren nach § 2 Abs. 6,
-
-i) die Sonderbestimmungen bei Dienstfahrerlaubnissen nach § 2 Abs. 10 und die Erteilung von allgemeinen Fahrerlaubnissen auf Grund von Dienstfahrerlaubnissen,
-
-j) die Zulassung und Registrierung von Inhabern ausländischer Fahrerlaubnisse und die Behandlung abgelieferter ausländischer Führerscheine nach § 2 Abs. 11 und § 3 Abs. 2,
-
-k) die Anerkennung oder Beauftragung von Stellen oder Personen nach § 2 Abs. 13, die Aufsicht über sie, die Übertragung dieser Aufsicht auf andere Einrichtungen, die Zertifizierung der Qualitätssicherung, deren Inhalt einschließlich der hierfür erforderlichen Verarbeitung personenbezogener Daten und die Begutachtung, einschließlich der verfahrensmäßigen und fachwissenschaftlichen Anforderungen, der für die Qualitätssicherung verantwortlichen Stellen oder Personen durch die Bundesanstalt für Straßenwesen, um die ordnungsgemäße und gleichmäßige Durchführung der Beurteilung, Prüfung oder Ausbildung nach § 2 Abs. 13 zu gewährleisten, wobei ein Erfahrungsaustausch unter Leitung der Bundesanstalt für Straßenwesen vorgeschrieben werden kann, sowie die Verarbeitung personenbezogener Daten für die mit der Anerkennung oder Beauftragung bezweckte Aufgabenerfüllung nach § 2 Abs. 14,
-
-l) Ausnahmen von der Probezeit, die Anrechnung von Probezeiten bei der Erteilung einer allgemeinen Fahrerlaubnis an Inhaber von Dienstfahrerlaubnissen nach § 2a Abs. 1, den Vermerk über die Probezeit im Führerschein,
-
-m) die Einstufung der im Fahreignungsregister gespeicherten Entscheidungen über Straftaten und Ordnungswidrigkeiten als schwerwiegend oder weniger schwerwiegend für die Maßnahmen nach den Regelungen der Fahrerlaubnis auf Probe gemäß § 2a Abs. 2,
-
-n) die Anforderungen an die Aufbauseminare, besonderen Aufbauseminare und Fahreignungsseminare, insbesondere an Inhalt, Methoden und Dauer, einschließlich der Befugnis der nach Landesrecht zuständigen Behörde zur Feststellung der Gleichwertigkeit anderer Inhalte und Methoden, die Teilnahme an den Seminaren nach § 2b Absatz 1 und 2, die Anforderungen an die Seminarleiter und deren Anerkennung nach § 2b Absatz 2 Satz 2 oder deren Seminarerlaubnis nach § 4a Absatz 2, die Anforderungen an die Qualitätssicherung, deren Inhalt und Methoden einschließlich der hierfür erforderlichen Verarbeitung personenbezogener Daten, die Anforderungen an die Begutachtung und die Überwachung der Einhaltung der Anforderungen sowie Ausnahmen von der Überwachung einschließlich der Befugnis der nach Landesrecht zuständigen Behörde zur Genehmigung eines Qualitätssicherungssystems, wobei eine Bewertung des Qualitätssicherungssystems durch die Bundesanstalt für Straßenwesen und ein Erfahrungsaustausch unter Leitung der Bundesanstalt für Straßenwesen vorgeschrieben werden können,
-
-o) die Übermittlung der Daten nach § 2c, insbesondere über den Umfang der zu übermittelnden Daten und die Art der Übermittlung,
-
-p) Maßnahmen zur Erzielung einer verantwortungsbewussteren Einstellung im Straßenverkehr und damit zur Senkung der besonderen Unfallrisiken von Fahranfängern
-
-\-  
-durch eine Ausbildung, die schulische Verkehrserziehung mit der Ausbildung nach den Vorschriften des Fahrlehrergesetzes verknüpft, als Voraussetzung für die Erteilung der Fahrerlaubnis im Sinne des § 2 Abs. 2 Satz 1 Nr. 4 und
-
-\-  
-durch die freiwillige Fortbildung in geeigneten Seminaren nach Erwerb der Fahrerlaubnis mit der Möglichkeit der Abkürzung der Probezeit, insbesondere über Inhalt und Dauer der Seminare, die Anforderungen an die Seminarleiter und die Personen, die im Rahmen der Seminare praktische Fahrübungen auf hierfür geeigneten Flächen durchführen, die Anerkennung und die Aufsicht über sie, die Qualitätssicherung, deren Inhalt und die wissenschaftliche Begleitung einschließlich der hierfür erforderlichen Verarbeitung personenbezogener Daten sowie über die, auch zunächst nur zur modellhaften Erprobung befristete, Einführung in den Ländern durch die obersten Landesbehörden, die von ihr bestimmten oder nach Landesrecht zuständigen Stellen,
-
-q) die Maßnahmen bei bedingt geeigneten oder ungeeigneten oder bei nicht befähigten Fahrerlaubnisinhabern oder bei Zweifeln an der Eignung oder Befähigung nach § 3 Abs. 1 sowie die Ablieferung, die Vorlage und die weitere Behandlung der Führerscheine nach § 3 Abs. 2,
-
-r) die Neuerteilung der Fahrerlaubnis nach vorangegangener Entziehung oder vorangegangenem Verzicht und die Erteilung des Rechts, nach vorangegangener Entziehung oder vorangegangenem Verzicht von einer ausländischen Fahrerlaubnis wieder Gebrauch zu machen, nach § 3 Absatz 7,
-
-s) die Bezeichnung der Straftaten und Ordnungswidrigkeiten, auch soweit sie gefahrgutrechtliche Vorschriften oder im Sinne des § 4 Absatz 1 Satz 2 gleichgestellte Vorschriften betreffen, die als Entscheidungen im Rahmen des Fahreignungs-Bewertungssystems zugrunde zu legen sind und die Bewertung dieser
-
-aa)  
-Straftaten mit Bezug auf die Verkehrssicherheit,
-
-aaa)  
-sofern in der Entscheidung über die Straftat die Entziehung der Fahrerlaubnis nach den §§ 69 und 69b des Strafgesetzbuches oder eine Sperre nach § 69a Absatz 1 Satz 3 des Strafgesetzbuches angeordnet worden ist, mit drei Punkten oder
-
-bbb)  
-in den übrigen Fällen mit zwei Punkten,
-
-bb)  
-Ordnungswidrigkeiten als
-
-aaa)  
-besonders verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeit mit zwei Punkten oder
-
-bbb)  
-verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeit mit einem Punkt;
-
-der Bezeichnung der Straftaten ist deren Bedeutung für die Sicherheit im Straßenverkehr zugrunde zu legen, der Bezeichnung und der Bewertung der Ordnungswidrigkeiten sind deren jeweilige Bedeutung für die Sicherheit des Straßenverkehrs und die Höhe des angedrohten Regelsatzes der Geldbuße zugrunde zu legen,
-
-t) (weggefallen)
-
-u) die Anforderungen an die verkehrspsychologische Beratung, insbesondere über Inhalt und Dauer der Beratung, die Teilnahme an der Beratung sowie die Anforderungen an die Berater und ihre Anerkennung nach § 2a Absatz 7,
-
-v) die Herstellung, Lieferung und Gestaltung des Musters des Führerscheins und dessen Ausfertigung sowie die Bestimmung, wer die Herstellung und Lieferung durchführt, nach § 2 Abs. 1 Satz 3,
-
-w) die Zuständigkeit und das Verfahren bei Verwaltungsmaßnahmen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsvorschriften sowie die Befugnis der nach Landesrecht zuständigen Stellen, Ausnahmen von § 2 Abs. 1 Satz 3, Abs. 2 Satz 1 und 2, Abs. 15, § 2a Absatz 2 Satz 1 Nummer 1 bis 3 und Absatz 7 Satz 7 Nummer 3, § 2b Abs. 1, § 4 Absatz 5 Satz 1 Nummer 3, Absatz 10 sowie Ausnahmen von den auf diesem Gesetz beruhenden Rechtsvorschriften zuzulassen,
-
-x) den Inhalt und die Gültigkeit bisher erteilter Fahrerlaubnisse, den Umtausch von Führerscheinen, deren Muster nicht mehr ausgefertigt werden, sowie die Neuausstellung von Führerscheinen, deren Gültigkeitsdauer abgelaufen ist, und die Regelungen des Besitzstandes im Falle des Umtausches oder der Neuausstellung,
-
-y) Maßnahmen, um die sichere Teilnahme sonstiger Personen am Straßenverkehr zu gewährleisten, sowie die Maßnahmen, wenn sie bedingt geeignet oder ungeeignet oder nicht befähigt zur Teilnahme am Straßenverkehr sind;
-
-1a. (weggefallen)
-
-2. die Zulassung von Fahrzeugen zum Straßenverkehr einschließlich Ausnahmen von der Zulassung, die Beschaffenheit, Ausrüstung und Prüfung der Fahrzeuge, insbesondere über
-
-a) Voraussetzungen für die Zulassung von Kraftfahrzeugen und deren Anhänger, vor allem über Bau, Beschaffenheit, Abnahme, Ausrüstung und Betrieb, Begutachtung und Prüfung, Betriebserlaubnis und Genehmigung sowie Kennzeichnung der Fahrzeuge und Fahrzeugteile, um deren Verkehrssicherheit zu gewährleisten und um die Insassen und andere Verkehrsteilnehmer bei einem Verkehrsunfall vor Verletzungen zu schützen oder deren Ausmaß oder Folgen zu mildern (Schutz von Verkehrsteilnehmern),
-
-b) Anforderungen an zulassungsfreie Kraftfahrzeuge und Anhänger, um deren Verkehrssicherheit und den Schutz der Verkehrsteilnehmer zu gewährleisten, Ausnahmen von der Zulassungspflicht für Kraftfahrzeuge und Anhänger nach § 1 Abs. 1 sowie die Kennzeichnung zulassungsfreier Fahrzeuge und Fahrzeugteile zum Nachweis des Zeitpunktes ihrer Abgabe an den Endverbraucher,
-
-c) Art und Inhalt von Zulassung, Bau, Beschaffenheit, Ausrüstung und Betrieb der Fahrzeuge und Fahrzeugteile, deren Begutachtung und Prüfung, Betriebserlaubnis und Genehmigung sowie Kennzeichnung,
-
-d) den Nachweis der Zulassung durch Fahrzeugdokumente, die Gestaltung der Muster der Fahrzeugdokumente und deren Herstellung, Lieferung und Ausfertigung sowie die Bestimmung, wer die Herstellung und Lieferung durchführen darf,
-
-e) das Herstellen, Feilbieten, Veräußern, Erwerben und Verwenden von Fahrzeugteilen, die in einer amtlich genehmigten Bauart ausgeführt sein müssen,
-
-f) die Allgemeine Betriebserlaubnis oder Bauartgenehmigung, Typgenehmigung oder vergleichbare Gutachten von Fahrzeugen und Fahrzeugteilen einschließlich Art, Inhalt, Nachweis und Kennzeichnung sowie Typbegutachtung und Typprüfung,
-
-g) die Konformität der Produkte mit dem genehmigten, begutachteten oder geprüften Typ einschließlich der Anforderungen z. B. an Produktionsverfahren, Prüfungen und Zertifizierungen sowie Nachweise hierfür,
-
-h) das Erfordernis von Qualitätssicherungssystemen einschließlich der Anforderungen, Prüfungen, Zertifizierungen und Nachweise hierfür sowie sonstige Pflichten des Inhabers der Erlaubnis oder Genehmigung,
-
-i) die Anerkennung von
-
-aa)  
-Stellen zur Prüfung und Begutachtung von Fahrzeugen und Fahrzeugteilen und
-
-bb)  
-Stellen zur Prüfung und Zertifizierung von Qualitätssicherungssystemen einschließlich der Voraussetzungen hierfür sowie
-
-die Änderung und Beendigung von Anerkennung und Zertifizierung einschließlich der hierfür erforderlichen Voraussetzungen für die Änderung und Beendigung und das Verfahren; die Stellen zur Prüfung und Begutachtung von Fahrzeugen und Fahrzeugteilen müssen zur Anerkennung die Gewähr dafür bieten, dass für die beantragte Zuständigkeit die ordnungsgemäße Wahrnehmung der Prüfaufgaben nach den allgemeinen Kriterien zum Betreiben von Prüflaboratorien und nach den erforderlichen kraftfahrzeugspezifischen Kriterien an Personal- und Sachausstattung erfolgen wird,
-
-j) die Anerkennung ausländischer Erlaubnisse und Genehmigungen sowie ausländischer Begutachtungen, Prüfungen und Kennzeichnungen für Fahrzeuge und Fahrzeugteile,
-
-k) die Änderung und Beendigung von Zulassung und Betrieb, Erlaubnis und Genehmigung sowie Kennzeichnung der Fahrzeuge und Fahrzeugteile,
-
-l) Art, Umfang, Inhalt, Ort und Zeitabstände der regelmäßigen Untersuchungen und Prüfungen, um die Verkehrssicherheit der Fahrzeuge und den Schutz der Verkehrsteilnehmer zu gewährleisten sowie Anforderungen an Untersuchungsstellen und Fachpersonal zur Durchführung von Untersuchungen und Prüfungen, einschließlich den Anforderungen an eine zentrale Stelle, die von Trägern der Technischen Prüfstellen und von amtlich anerkannten Überwachungsorganisationen gebildet und getragen wird, zur Überprüfung der Praxistauglichkeit von Prüfvorgaben oder deren Erarbeitung, sowie Abnahmen von Fahrzeugen und Fahrzeugteilen einschließlich der hierfür notwendigen Räume und Geräte, Schulungen, Schulungsstätten und -institutionen,
-
-m) den Nachweis der regelmäßigen Untersuchungen und Prüfungen sowie Abnahmen von Fahrzeugen und Fahrzeugteilen einschließlich der Bewertung der bei den Untersuchungen und Prüfungen festgestellten Mängel und die Weitergabe der festgestellten Mängel an die jeweiligen Hersteller von Fahrzeugen und Fahrzeugteilen sowie das Kraftfahrt-Bundesamt; dabei ist die Weitergabe personenbezogener Daten nicht zulässig,
-
-n) die Bestätigung der amtlichen Anerkennung von Überwachungsorganisationen, soweit sie vor dem 18. Dezember 2007 anerkannt waren, sowie die Anerkennung von Überwachungsorganisationen zur Vornahme von regelmäßigen Untersuchungen und Prüfungen sowie von Abnahmen, die organisatorischen, personellen und technischen Voraussetzungen für die Anerkennungen einschließlich der Qualifikation und der Anforderungen an das Fachpersonal und die Geräte sowie die mit den Anerkennungen verbundenen Bedingungen und Auflagen, um ordnungsgemäße und gleichmäßige Untersuchungen, Prüfungen und Abnahmen durch leistungsfähige Organisationen sicherzustellen,
-
-o) die notwendige Haftpflichtversicherung anerkannter Überwachungsorganisationen zur Deckung aller im Zusammenhang mit Untersuchungen, Prüfungen und Abnahmen entstehenden Ansprüche sowie die Freistellung des für die Anerkennung und Aufsicht verantwortlichen Landes von Ansprüchen Dritter wegen Schäden, die die Organisation verursacht,
-
-p) die amtliche Anerkennung von Herstellern von Fahrzeugen oder Fahrzeugteilen zur Vornahme der Prüfungen von Geschwindigkeitsbegrenzern, Fahrtschreibern und Kontrollgeräten, die amtliche Anerkennung von Kraftfahrzeugwerkstätten zur Vornahme von regelmäßigen Prüfungen an diesen Einrichtungen, zur Durchführung von Abgasuntersuchungen und Gasanlagenprüfungen an Kraftfahrzeugen und zur Durchführung von Sicherheitsprüfungen an Nutzfahrzeugen sowie die mit den Anerkennungen verbundenen Bedingungen und Auflagen, um ordnungsgemäße und gleichmäßige technische Prüfungen sicherzustellen, die organisatorischen, personellen und technischen Voraussetzungen für die Anerkennung einschließlich der Qualifikation und Anforderungen an das Fachpersonal und die Geräte sowie die Verarbeitung personenbezogener Daten des Inhabers der Anerkennungen, dessen Vertreters und der mit der Vornahme der Prüfungen betrauten Personen durch die für die Anerkennung und Aufsicht zuständigen Behörden, um ordnungsgemäße und gleichmäßige technische Prüfungen sicherzustellen,
-
-q) die notwendige Haftpflichtversicherung amtlich anerkannter Hersteller von Fahrzeugen oder Fahrzeugteilen und von Kraftfahrzeugwerkstätten zur Deckung aller im Zusammenhang mit den Prüfungen nach Buchstabe p entstehenden Ansprüche sowie die Freistellung des für die Anerkennung und Aufsicht verantwortlichen Landes von Ansprüchen Dritter wegen Schäden, die die Werkstatt oder der Hersteller verursacht,
-
-r) Maßnahmen der mit der Durchführung der regelmäßigen Untersuchungen und Prüfungen sowie Abnahmen und Begutachtungen von Fahrzeugen und Fahrzeugteilen befassten Stellen und Personen zur Qualitätssicherung, deren Inhalt einschließlich der hierfür erforderlichen Verarbeitung personenbezogener Daten, um ordnungsgemäße, nach gleichen Maßstäben durchgeführte Untersuchungen, Prüfungen, Abnahmen und Begutachtungen an Fahrzeugen und Fahrzeugteilen zu gewährleisten,
-
-s) die Verantwortung und die Pflichten und Rechte des Halters im Rahmen der Zulassung und des Betriebs der auf ihn zugelassenen Fahrzeuge sowie des Halters nicht zulassungspflichtiger Fahrzeuge,
-
-t) die Zuständigkeit und das Verfahren bei Verwaltungsmaßnahmen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsvorschriften für Zulassung, Begutachtung, Prüfung, Abnahme, regelmäßige Untersuchungen und Prüfungen, Betriebserlaubnis, Genehmigung und Kennzeichnung,
-
-u) Ausnahmen von § 1 Abs. 1 Satz 2 und 3 sowie Ausnahmen von auf Grund dieses Gesetzes erlassenen Rechtsvorschriften und die Zuständigkeiten hierfür,
-
-v) die Zulassung von ausländischen Kraftfahrzeugen und Anhängern, die Voraussetzungen hierfür, die Anerkennung ausländischer Zulassungspapiere und Kennzeichen, Maßnahmen bei Verstößen gegen die auf Grund des Straßenverkehrsgesetzes erlassenen Vorschriften,
-
-w) Maßnahmen und Anforderungen, um eine sichere Teilnahme von nicht motorisierten Fahrzeugen am Straßenverkehr zu gewährleisten,
-
-x) abweichende Voraussetzungen für die Erteilung einer Betriebserlaubnis für Einzelfahrzeuge und Fahrzeugkombinationen des Großraum- und Schwerverkehrs sowie für Arbeitsmaschinen, soweit diese Voraussetzungen durch den Einsatzzweck gerechtfertigt sind und ohne Beeinträchtigung der Fahrzeugsicherheit standardisiert werden können, die Begutachtung der Fahrzeuge und die Bestätigung der Einhaltung der Voraussetzungen durch einen amtlich anerkannten Sachverständigen;
-
-3. die sonstigen zur Erhaltung der Sicherheit und Ordnung auf den öffentlichen Straßen, für Zwecke der Verteidigung, zur Verhütung einer über das verkehrsübliche Maß hinausgehenden Abnutzung der Straßen oder zur Verhütung von Belästigungen erforderlichen Maßnahmen über den Straßenverkehr, und zwar hierzu unter anderem
-
-a) (weggefallen)
-
-b) (weggefallen)
-
-c) über das Mindestalter der Führer von Fahrzeugen und ihr Verhalten,
-
-d) über den Schutz der Wohnbevölkerung und Erholungssuchenden gegen Lärm und Abgas durch den Kraftfahrzeugverkehr und über Beschränkungen des Verkehrs an Sonn- und Feiertagen,
-
-e) über das innerhalb geschlossener Ortschaften, mit Ausnahme von entsprechend ausgewiesenen Parkplätzen sowie von Industrie- und Gewerbegebieten, anzuordnende Verbot, Kraftfahrzeuganhänger und Kraftfahrzeuge mit einem zulässigen Gesamtgewicht über 7,5 Tonnen in der Zeit von 22 Uhr bis 6 Uhr und an Sonn- und Feiertagen, regelmäßig zu parken,
-
-f) über Ortstafeln und Wegweiser,
-
-g) über das Verbot von Werbung und Propaganda durch Bildwerk, Schrift, Beleuchtung oder Ton, soweit sie geeignet sind, außerhalb geschlossener Ortschaften die Aufmerksamkeit der Verkehrsteilnehmer in einer die Sicherheit des Verkehrs gefährdenden Weise abzulenken oder die Leichtigkeit des Verkehrs zu beeinträchtigen,
-
-h) über die Beschränkung des Straßenverkehrs zum Schutz von kulturellen Veranstaltungen, die außerhalb des Straßenraums stattfinden, wenn dies im öffentlichen Interesse liegt,
-
-i) über das Verbot zur Verwendung technischer Einrichtungen am oder im Kraftfahrzeug, die dafür bestimmt sind, die Verkehrsüberwachung zu beeinträchtigen;
-
-4. (weggefallen)
-
-4a. das Verhalten der Beteiligten nach einem Verkehrsunfall, das geboten ist, um
+3. das Verhalten der Beteiligten nach einem Verkehrsunfall, das geboten ist, um
 
 a) den Verkehr zu sichern und Verletzten zu helfen,
 
-b) zur Klärung und Sicherung zivilrechtlicher Ansprüche die Art der Beteiligung festzustellen und
+b) Feststellungen zu ermöglichen, die zur Geltendmachung oder Abwehr von zivilrechtlichen Schadensersatzansprüchen erforderlich sind, insbesondere Feststellungen zur Person der Beteiligten, zur Art ihrer Beteiligung, zum Unfallhergang und zum Versicherer der unfallbeteiligten Fahrzeuge,
 
-c) Haftpflichtansprüche geltend machen zu können;
+4. die Bezeichnung von im Fahreignungsregister zu speichernden Straftaten und Ordnungswidrigkeiten
 
-5. (weggefallen)
+a) für die Maßnahmen nach den Regelungen der Fahrerlaubnis auf Probe nebst der Bewertung dieser Straftaten und Ordnungswidrigkeiten als schwerwiegend oder weniger schwerwiegend,
 
-5a. Bau, Beschaffenheit, Ausrüstung und Betrieb, Begutachtung, Prüfung, Abnahme, Betriebserlaubnis, Genehmigung und Kennzeichnung der Fahrzeuge und Fahrzeugteile sowie über das Verhalten im Straßenverkehr zum Schutz vor den von Fahrzeugen ausgehenden schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes; dabei können Emissionsgrenzwerte unter Berücksichtigung der technischen Entwicklung auch für einen Zeitpunkt nach Inkrafttreten der Rechtsverordnung festgesetzt werden;
+b) für die Maßnahmen des Fahreignungsbewertungssystems, wobei
 
-5b. das Verbot des Kraftfahrzeugverkehrs in den nach § 40 des Bundes-Immissionsschutzgesetzes festgelegten Gebieten nach Bekanntgabe austauscharmer Wetterlagen;
+aa)  
+bei der Bezeichnung von Straftaten deren Bedeutung für die Sicherheit im Straßenverkehr zugrunde zu legen ist,
 
-5c. den Nachweis über die Entsorgung oder den sonstigen Verbleib der Fahrzeuge nach ihrer Außerbetriebsetzung, um die umweltverträgliche Entsorgung von Fahrzeugen und Fahrzeugteilen sicherzustellen;
+bb)  
+Ordnungswidrigkeiten mit Punkten bewertet werden und bei der Bezeichnung und Bewertung von Ordnungswidrigkeiten deren jeweilige Bedeutung für die Sicherheit des Straßenverkehrs und die Höhe des angedrohten Regelsatzes der Geldbuße oder eines Regelfahrverbotes zugrunde zu legen sind,
 
-6. Art, Umfang, Inhalt, Zeitabstände und Ort einschließlich der Anforderungen an die hierfür notwendigen Räume und Geräte, Schulungen, Schulungsstätten und -institutionen sowie den Nachweis der regelmäßigen Prüfungen von Fahrzeugen und Fahrzeugteilen einschließlich der Bewertung der bei den Prüfungen festgestellten Mängel sowie die amtliche Anerkennung von Überwachungsorganisationen und Kraftfahrzeugwerkstätten nach Nummer 2 Buchstabe n und p und Maßnahmen zur Qualitätssicherung nach Nummer 2 Buchstabe r zum Schutz vor von Fahrzeugen ausgehenden schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes;
+5. die Anforderungen an
 
-7. die in den Nummern 1 bis 6 vorgesehenen Maßnahmen, soweit sie zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder von bindenden Beschlüssen der Europäischen Gemeinschaften notwendig sind;
+a) Bau, Einrichtung, Ausrüstung, Beschaffenheit, Prüfung und Betrieb von Fahrzeugen,
 
-8. die Beschaffenheit, Anbringung und Prüfung sowie die Herstellung, den Vertrieb, die Ausgabe, die Verwahrung und die Einziehung von Kennzeichen (einschließlich solcher Vorprodukte, bei denen nur noch die Beschriftung fehlt) für Fahrzeuge, um die unzulässige Verwendung von Kennzeichen oder die Begehung von Straftaten mit Hilfe von Fahrzeugen oder Kennzeichen zu bekämpfen;
+b) die in oder auf Fahrzeugen einzubauenden oder zu verwendenden Fahrzeugteile, insbesondere Anlagen, Bauteile, Instrumente, Geräte und sonstige Ausrüstungsgegenstände, einschließlich deren Prüfung,
 
-9. die Beschaffenheit, Herstellung, Vertrieb, Verwendung und Verwahrung von Führerscheinen und Fahrzeugpapieren einschließlich ihrer Vordrucke sowie von auf Grund dieses Gesetzes oder der auf ihm beruhenden Rechtsvorschriften zu verwendenden Plaketten, Prüffolien und Stempel, um deren Diebstahl oder deren Missbrauch bei der Begehung von Straftaten zu bekämpfen;
+6. die Zulassung von Fahrzeugen zum Straßenverkehr, insbesondere über
 
-10. Bau, Beschaffenheit, Ausrüstung und Betrieb, Begutachtung, Prüfung, Abnahme und regelmäßige Untersuchungen, Betriebserlaubnis und Genehmigung sowie Kennzeichnung von Fahrzeugen und Fahrzeugteilen, um den Diebstahl der Fahrzeuge zu bekämpfen;
+a) die Voraussetzungen für die Zulassung, die Vorgaben für das Inbetriebsetzen zulassungspflichtiger und zulassungsfreier Fahrzeuge, die regelmäßige Untersuchung der Fahrzeuge sowie über die Verantwortung, die Pflichten und die Rechte der Halter,
 
-11. die Ermittlung, Auffindung und Sicherstellung von gestohlenen, verloren gegangenen oder sonst abhanden gekommenen Fahrzeugen, Fahrzeugkennzeichen sowie Führerscheinen und Fahrzeugpapieren einschließlich ihrer Vordrucke, soweit nicht die Strafverfolgungsbehörden hierfür zuständig sind;
+b) Ausnahmen von der Pflicht zur Zulassung sowie Ausnahmen von einzelnen Anforderungen nach Buchstabe a,
 
-12. die Überwachung der gewerbsmäßigen Vermietung von Kraftfahrzeugen und Anhängern an Selbstfahrer
+7. die Einrichtung einer zentralen Stelle zur Erarbeitung und Evaluierung von verbindlichen Prüfvorgaben bei regelmäßigen Fahrzeuguntersuchungen,
 
-a) zur Bekämpfung der Begehung von Straftaten mit gemieteten Fahrzeugen oder
+8. die zur Verhütung von Belästigungen anderer, zur Verhütung von schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes oder zur Unterstützung einer geordneten städtebaulichen Entwicklung erforderlichen Maßnahmen,
 
-b) zur Erhaltung der Ordnung und Sicherheit im Straßenverkehr;
+9. die Maßnahmen
 
-13. die Einrichtung gebührenpflichtiger Parkplätze bei Großveranstaltungen im Interesse der Ordnung und Sicherheit des Verkehrs;
+a) über den Straßenverkehr, die zur Erhaltung der öffentlichen Sicherheit oder zu Verteidigungszwecken erforderlich sind,
 
-14. die Beschränkung des Haltens und Parkens zugunsten der Bewohner städtischer Quartiere mit erheblichem Parkraummangel sowie die Schaffung von Parkmöglichkeiten für schwerbehinderte Menschen mit außergewöhnlicher Gehbehinderung, mit beidseitiger Amelie oder Phokomelie oder vergleichbaren Funktionseinschränkungen sowie für blinde Menschen, insbesondere in unmittelbarer Nähe ihrer Wohnung oder Arbeitsstätte;
+b) zur Durchführung von Großraum- und Schwertransporten,
 
-14a. die Einrichtung und die mit Zustimmung des Verfügungsberechtigten Nutzung von fahrerlosen Parksystemen im niedrigen Geschwindigkeitsbereich auf Parkflächen, die durch bauliche oder sonstige Einrichtungen vom übrigen öffentlichen Straßenraum getrennt sind und nur über besondere Zu- und Abfahrten erreicht und verlassen werden können,
+c) im Übrigen, die zur Erhaltung der Sicherheit und Ordnung auf öffentlichen Straßen oder zur Verhütung einer über das verkehrsübliche Maß hinausgehenden Abnutzung der Straßen erforderlich sind, insbesondere bei Großveranstaltungen,
 
-15. die Kennzeichnung von Fußgängerbereichen und verkehrsberuhigten Bereichen und die Beschränkungen oder Verbote des Fahrzeugverkehrs zur Erhaltung der Ordnung und Sicherheit in diesen Bereichen, zum Schutz der Bevölkerung vor Lärm und Abgasen und zur Unterstützung einer geordneten städtebaulichen Entwicklung;
+10. das Anbieten zum Verkauf, das Veräußern, das Verwenden, das Erwerben oder das sonstige Inverkehrbringen von Fahrzeugen und Fahrzeugteilen,
 
-16. die Beschränkung des Straßenverkehrs zur Erforschung des Unfallgeschehens, des Verkehrsverhaltens, der Verkehrsabläufe sowie zur Erprobung geplanter verkehrssichernder oder verkehrsregelnder Regelungen und Maßnahmen;
+11. die Kennzeichnung und die Anforderungen an die Kennzeichnung von Fahrzeugen und Fahrzeugteilen,
 
-17. die zur Erhaltung der öffentlichen Sicherheit erforderlichen Maßnahmen über den Straßenverkehr;
+12. den Nachweis über die Entsorgung oder den sonstigen Verbleib von Fahrzeugen und Fahrzeugteilen, auch nach ihrer Außerbetriebsetzung,
 
-18. die Einrichtung von Sonderfahrspuren für Linienomnibusse und Taxen;
+13. die Ermittlung, das Auffinden und die Sicherstellung von gestohlenen, verlorengegangenen oder sonst abhanden gekommenen Fahrzeugen, Fahrzeugkennzeichen sowie Führerscheinen und Fahrzeugpapieren einschließlich ihrer Vordrucke, soweit nicht die Strafverfolgungsbehörden hierfür zuständig sind,
 
-19. Maßnahmen, die zur Umsetzung der Richtlinie 92/59/EWG des Rates vom 29. Juni 1992 über die allgemeine Produktsicherheit (ABl. EG Nr. L 228 S. 24) erforderlich sind;
+14. die Überwachung der gewerbsmäßigen Vermietung von Kraftfahrzeugen und Anhängern an Selbstfahrer,
 
-20. Maßnahmen über die technische Unterwegskontrolle von Nutzfahrzeugen, die am Straßenverkehr teilnehmen, und daran die Mitwirkung amtlich anerkannter Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr einer technischen Prüfstelle, von amtlich anerkannten Überwachungsorganisationen betraute Prüfingenieure sowie die für die Durchführung von Sicherheitsprüfungen anerkannten Kraftfahrzeugwerkstätten.
+15. die Beschränkung des Straßenverkehrs einschließlich des ruhenden Verkehrs
 
-(2) Rechtsverordnungen nach Absatz 1 Nr. 8, 9, 10, 11 und 12 Buchstabe a werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium des Innern, für Bau und Heimat erlassen.
+a) zugunsten schwerbehinderter Menschen mit außergewöhnlicher Gehbehinderung, mit beidseitiger Amelie oder Phokomelie oder vergleichbaren Funktionseinschränkungen sowie zugunsten blinder Menschen,
 
-(2a) Rechtsverordnungen nach Absatz 1 Nr. 1 Buchstabe f, Nr. 3 Buchstabe d, e, Nr. 5a, 5b, 5c, 6 und 15 sowie solche nach Nr. 7, soweit sie sich auf Maßnahmen nach Nr. 1 Buchstabe f, Nr. 5a, 5b, 5c und 6 beziehen, werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen.
+b) zugunsten der Bewohner städtischer Quartiere mit erheblichem Parkraummangel,
 
-(3) Abweichend von den Absätzen 1 bis 2a bedürfen Rechtsverordnungen zur Durchführung der Vorschriften über die Beschaffenheit, den Bau, die Ausrüstung und die Prüfung von Fahrzeugen und Fahrzeugteilen sowie Rechtsverordnungen über allgemeine Ausnahmen von den auf diesem Gesetz beruhenden Rechtsvorschriften nicht der Zustimmung des Bundesrates; vor ihrem Erlass sind die zuständigen obersten Landesbehörden zu hören.
+c) zur Erforschung des Unfallgeschehens, des Verkehrsverhaltens, der Verkehrsabläufe oder zur Erprobung geplanter verkehrssichernder oder verkehrsregelnder Maßnahmen,
 
-(3a) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das gewerbsmäßige Feilbieten, gewerbsmäßige Veräußern und das gewerbsmäßige Inverkehrbringen von Fahrzeugen, Fahrzeugteilen und Ausrüstungen zu erlassen.
+16. die Einrichtung von Sonderfahrspuren für Linienomnibusse und Taxen,
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit den beteiligten Bundesministerien, soweit Verordnungen nach diesem Gesetz geändert oder abgelöst werden, Verweisungen in Gesetzen und Rechtsverordnungen auf die geänderten oder abgelösten Vorschriften durch Verweisungen auf die jeweils inhaltsgleichen neuen Vorschriften zu ersetzen.
+17. die Einrichtung und Nutzung von fahrzeugführerlosen Parksystemen im niedrigen Geschwindigkeitsbereich auf Parkflächen,
 
-(4a) Rechtsverordnungen auf Grund des Absatzes 1 Nummer 1, 2 oder 3 können auch erlassen werden, soweit dies erforderlich ist, um den besonderen Anforderungen der Teilnahme von Kraftfahrzeugen mit hoch- oder vollautomatisierter Fahrfunktion am Straßenverkehr Rechnung zu tragen.
+18. allgemeine Ausnahmen von den Verkehrsvorschriften nach Abschnitt I oder von auf Grund dieser Verkehrsvorschriften erlassener Rechtsverordnungen zur Durchführung von Versuchen, die eine Weiterentwicklung dieser Rechtsnormen zum Gegenstand haben.
 
-(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung besondere Bestimmungen über das Erteilen einschließlich der Einweisung und die Prüfung für Fahrberechtigungen zum Führen von Einsatzfahrzeugen der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und des Katastrophenschutzes auf öffentlichen Straßen nach § 2 Absatz 10a zu erlassen. Bei der näheren Ausgestaltung sind die Besonderheiten der unterschiedlichen Gewichtsklassen der Fahrberechtigung nach § 2 Absatz 10a Satz 1 und 4 zu berücksichtigen. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
+Rechtsverordnungen nach Satz 1 Nummer 18 über allgemeine Ausnahmen von Verkehrsvorschriften nach diesem Gesetz sind für die Dauer von längstens fünf Jahren zu befristen; eine einmalige Verlängerung der Geltungsdauer um längstens fünf Jahre ist zulässig. Rechtsverordnungen können nicht nach Satz 1 erlassen werden über solche Regelungsgegenstände, über die Rechtsverordnungen nach Absatz 2 erlassen werden dürfen. Die Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen nach Satz 1 umfasst auch den straßenverkehrsrechtlichen Schutz von Maßnahmen zur Rettung aus Gefahren für Leib und Leben von Menschen oder den Schutz zivilrechtlicher Schadensersatzansprüche Unfallbeteiligter.
 
-(5a) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Mindestalter für die Klasse AM auf 15 Jahre herabzusetzen. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen. Die Fahrerlaubnis ist bis zur Vollendung des 16. Lebensjahres auf das Gebiet der Länder beschränkt, die von der Ermächtigung nach Satz 1 Gebrauch gemacht haben. Die zuständigen obersten Landesbehörden geben im Bundesanzeiger den Erlass einer Rechtsverordnung nach Satz 1 auch in Verbindung mit Satz 2 ihres Landes bekannt.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen ohne Zustimmung des Bundesrates über Folgendes zu erlassen:
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Landesregierungen zu ermächtigen, Ausnahmen von den auf Grundlage des § 6 Absatz 1 Nummer 2 Buchstabe c, d, k, m, r, s, t und v erlassenen Rechtsverordnungen für die Dauer von drei Jahren zur Erprobung eines Zulassungsverfahrens unter Einsatz von Informations- und Kommunikationstechnik durch Rechtsverordnung zu regeln.
+1. die Typgenehmigung von Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, sofern sie unionsrechtlichen Vorgaben unterliegt, über die Fahrzeugeinzelgenehmigung, sofern ihr nach Unionrecht eine Geltung in allen Mitgliedstaaten der Europäischen Union zukommt, sowie über das Anbieten zum Verkauf, das Inverkehrbringen, die Inbetriebnahme, das Veräußern oder die Einfuhr von derart genehmigten oder genehmigungspflichtigen Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, insbesondere über
 
-(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Vorschriften zu erlassen, um den nach Landesrecht zuständigen Behörden zur Durchführung von Großraum- und Schwertransporten zu ermöglichen,
+a) die Systematisierung von Fahrzeugen,
 
-1. natürlichen oder juristischen Personen des Privatrechts bestimmte Aufgaben zu übertragen (Beleihung) oder
+b) die technischen und baulichen Anforderungen an Fahrzeuge, Systeme, Bauteile und selbstständige technische Einheiten, einschließlich der durchzuführenden Prüfverfahren zur Feststellung der Konformität,
 
-2. natürliche oder juristische Personen des Privatrechts zu beauftragen, bei der Erfüllung bestimmter Aufgaben zu helfen (Verwaltungshilfe).
+c) die Sicherstellung der Übereinstimmung von Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge mit einem genehmigten Typ bei ihrer Herstellung,
 
-Personen im Sinne des Satzes 1 müssen fachlich geeignet, zuverlässig, auch hinsichtlich ihrer Finanzen, und im Falle der Beleihung unabhängig von den Interessen der sonstigen Beteiligten sein. In Rechtsverordnungen nach Satz 1 können ferner
+d) den Zugang zu technischen Informationen sowie zu Reparatur- und Wartungsinformationen,
 
-1. die Aufgaben und deren Erledigung bestimmt werden,
+e) die Bewertung, Benennung und Überwachung von technischen Diensten,
 
-a) mit denen Personen beliehen oder
+f) die Kennzeichnung und Verpackung von Systemen, Bauteilen und selbstständigen technischen Einheiten für Fahrzeuge oder
 
-b) zu deren hilfsweisen Erfüllung Personen beauftragt
+g) die Zulassung von Teilen und Ausrüstungen, von denen eine ernste Gefahr für das einwandfreie Funktionieren wesentlicher Systeme von Fahrzeugen ausgehen kann,
 
-werden können,
+2. die Marktüberwachung von Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge,
 
-2. die näheren Anforderungen an Personen im Sinne des Satzes 1 festgelegt werden, einschließlich deren Überwachung, des Verfahrens und des Zusammenwirkens der zuständigen Behörden bei der Überwachung,
+3. die Pflichten der Hersteller und ihrer Bevollmächtigten, der Einführer sowie der Händler im Rahmen
 
-3. die notwendige Haftpflichtversicherung der beliehenen oder beauftragten Person zur Deckung aller im Zusammenhang mit der Wahrnehmung der übertragenen Aufgabe oder der Hilfe zur Erfüllung der Aufgabe entstandenen Schäden sowie die Freistellung der für Übertragung oder Beauftragung und Aufsicht zuständigen Landesbehörde von Ansprüchen Dritter wegen etwaiger Schäden, die die beliehene oder beauftragte Person verursacht, geregelt werden.
+a) des Typgenehmigungsverfahrens im Sinne der Nummer 1,
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Ermächtigung nach Satz 1 in Verbindung mit Satz 3 ganz oder teilweise auf die Landesregierungen zu übertragen. Die Landesregierungen können die Ermächtigung auf Grund einer Rechtsverordnung nach Satz 4 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
+b) des Fahrzeugeinzelgenehmigungsverfahrens im Sinne der Nummer 1 oder
+
+c) des Anbietens zum Verkauf, des Inverkehrbringens, der Inbetriebnahme, des Veräußerns, der Einfuhr sowie der Marktüberwachung von Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge oder
+
+4. die Technologien, Strategien und andere Mittel, für die festgestellt ist, dass
+
+a) sie die Leistungen der Fahrzeuge, Systeme, Bauteile oder selbstständigen technischen Einheiten für Fahrzeuge bei Prüfverfahren unter ordnungsgemäßen Betriebsbedingungen verfälschen oder
+
+b) ihre Verwendung im Rahmen des Typgenehmigungsverfahrens oder des Fahrzeugeinzelgenehmigungsverfahrens im Sinne der Nummer 1 aus anderen Gründen nicht zulässig ist.
+
+(3) In Rechtsverordnungen nach Absatz 1 oder Absatz 2 können hinsichtlich der dort genannten Gegenstände jeweils auch geregelt werden:
+
+1. die Erteilung, Beschränkung oder Entziehung von Rechten, die sonstigen Maßnahmen zur Anordnung oder Umsetzung, die Anerkennung ausländischer Berechtigungen oder Maßnahmen, die Verwaltungsverfahren einschließlich der erforderlichen Nachweise sowie die Zuständigkeiten und die Ausnahmebefugnisse der vollziehenden Behörden im Einzelfall,
+
+2. Art, Inhalt, Herstellung, Gestaltung, Lieferung, Ausfertigung, Beschaffenheit und Gültigkeit von Kennzeichen, Plaketten, Urkunden, insbesondere von Führerscheinen, und sonstigen Bescheinigungen,
+
+3. die Anerkennung, Zulassung, Registrierung, Akkreditierung, Begutachtung, Beaufsichtigung oder Überwachung von natürlichen oder juristischen Personen des Privatrechts oder von sonstigen Einrichtungen im Hinblick auf ihre Tätigkeiten
+
+a) der Prüfung, Untersuchung, Beurteilung und Begutachtung von Personen, Fahrzeugen oder Fahrzeugteilen sowie der Herstellung und Lieferung nach Nummer 2,
+
+b) des Anbietens von Maßnahmen zur Herstellung oder zum Erhalt der Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe b oder
+
+c) der Prüfung und Zertifizierung von Qualitätssicherungssystemen,
+
+einschließlich der jeweiligen Voraussetzungen, insbesondere der Anforderungen an die natürlichen oder juristischen Personen des Privatrechts oder an die Einrichtungen, an ihre Träger und an ihre verantwortlichen oder ausführenden Personen, einschließlich der Vorgabe eines Erfahrungsaustausches sowie einschließlich der Verarbeitung von personenbezogenen Daten über die die Tätigkeiten ausführenden oder hieran teilnehmenden Personen durch die zuständigen Behörden, durch die natürlichen oder juristischen Personen des Privatrechts oder durch die Einrichtungen in dem Umfang, der für ihre jeweilige Tätigkeit und deren Qualitätssicherung erforderlich ist,
+
+4. Emissionsgrenzwerte unter Berücksichtigung der technischen Entwicklung zum Zeitpunkt des Erlasses der jeweiligen Rechtsverordnung,
+
+5. die Mitwirkung natürlicher oder juristischer Personen des Privatrechts bei der Aufgabenwahrnehmung in Form ihrer Beauftragung, bei der Durchführung von bestimmten Aufgaben zu helfen (Verwaltungshilfe), oder in Form der Übertragung bestimmter Aufgaben nach Absatz 1 Satz 1 Nummer 1, 5, 6, 7 oder 9 Buchstabe b oder Absatz 2 auf diese Personen (Beleihung), insbesondere
+
+a) die Bestimmung der Aufgaben und die Art und Weise der Aufgabenerledigung,
+
+b) die Anforderungen an diese Personen und ihre Überwachung einschließlich des Verfahrens und des Zusammenwirkens der zuständigen Behörden bei der Überwachung oder
+
+c) die Verarbeitung von personenbezogenen Daten durch diese Personen, insbesondere die Übermittlung solcher Daten an die zuständige Behörde,
+
+6. die Übertragung der Wahrnehmung von einzelnen Aufgaben auf die Bundesanstalt für Straßenwesen oder das Kraftfahrt-Bundesamt oder
+
+7. die notwendige Versicherung der natürlichen oder juristischen Personen des Privatrechts oder der sonstigen Einrichtungen in den Fällen der Nummer 3 oder Nummer 5 zur Deckung aller im Zusammenhang mit den dort genannten Tätigkeiten entstehenden Ansprüche sowie die Freistellung der für die Anerkennung, Zulassung, Registrierung, Akkreditierung, Begutachtung, Beaufsichtigung, Überwachung, Beauftragung oder Aufgabenübertragung zuständigen Bundes- oder Landesbehörde von Ansprüchen Dritter wegen Schäden, die diese Personen oder Einrichtungen verursachen.
+
+(4) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 und 8 oder Absatz 2, jeweils auch in Verbindung mit Absatz 3, können auch erlassen werden
+
+1. zur Abwehr von Gefahren, die vom Verkehr auf öffentlichen Straßen ausgehen,
+
+2. zum Schutz vor schädlichen Umwelteinwirkungen, die von Fahrzeugen ausgehen, oder
+
+3. zum Schutz der Verbraucher.
+
+Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 und 8, auch in Verbindung mit Absatz 3, können auch erlassen werden
+
+1. zum Schutz der Bevölkerung in Fußgängerbereichen oder verkehrsberuhigten Bereichen, der Wohnbevölkerung oder der Erholungssuchenden vor Emissionen, die vom Verkehr auf öffentlichen Straßen ausgehen, insbesondere zum Schutz vor Lärm oder vor Abgasen,
+
+2. für Sonderregelungen an Sonn- und Feiertagen oder
+
+3. für Sonderregelungen über das Parken in der Zeit von 22 Uhr bis 6 Uhr.
+
+(5) Rechtsverordnungen nach Absatz 1 oder 2 können auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union und zur Durchführung von zwischenstaatlichen Vereinbarungen im Anwendungsbereich dieses Gesetzes erlassen werden.
+
+(6) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 2 oder Satz 2 Nummer 1 erlassen werden, oder Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 12 werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 11, 13 oder 14 oder nach Absatz 3 Nummer 2 in Verbindung mit Absatz 1 Nummer 1 oder 6 können auch zum Zweck der Bekämpfung von Straftaten erlassen werden. Im Fall des Satzes 2 werden diese Rechtsverordnungen vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium des Innern, für Bau und Heimat gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 3 erlassen werden, werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium der Justiz und für Verbraucherschutz gemeinsam erlassen.
+
+(7) Keiner Zustimmung des Bundesrates bedürfen Rechtsverordnungen
+
+1. zur Durchführung der Vorschriften nach Absatz 1 Satz 1 Nummer 5 in Verbindung mit Absatz 3 oder
+
+2. über allgemeine Ausnahmen nach Absatz 1 Satz 1 Nummer 18, auch in Verbindung mit den Absätzen 3 bis 6.
+
+Vor ihrem Erlass sind die zuständigen obersten Landesbehörden zu hören.
+
+(8) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, jedoch unbeschadet des Absatzes 6,
+
+1. sofern Verordnungen nach diesem Gesetz geändert oder abgelöst werden, Verweisungen in Gesetzen und Rechtsverordnungen auf diese geänderten oder abgelösten Vorschriften durch Verweisungen auf die jeweils inhaltsgleichen neuen Vorschriften zu ersetzen,
+
+2. in den auf Grund des Absatzes 1 oder 2, jeweils auch in Verbindung mit den Absätzen 3 bis 7 erlassenen Rechtsverordnungen enthaltene Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zu ändern, soweit es zur Anpassung an Änderungen jener Vorschriften erforderlich ist, oder
+
+3. Vorschriften der auf Grund des Absatzes 1 oder 2, jeweils auch in Verbindung mit den Absätzen 3 bis 7 erlassenen Rechtsverordnungen zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, sofern diese Vorschriften durch den Erlass entsprechender Vorschriften in unmittelbar im Anwendungsbereich dieses Gesetzes geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union unanwendbar geworden oder in ihrem Anwendungsbereich beschränkt worden sind.
+
+(9) In den Rechtsverordnungen nach Absatz 1, jeweils auch in Verbindung mit den Absätzen 3 bis 6, kann mit Zustimmung des Bundesrates die jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen werden, um besonderen regionalen Bedürfnissen angemessen Rechnung zu tragen. Soweit eine nach Satz 1 erlassene Rechtsverordnung die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, sind diese befugt, die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Landesbehörden zu übertragen.
 
 # § 6a – Gebühren
 
 (1) Kosten (Gebühren und Auslagen) werden erhoben
 
-1. für Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten - und Registerauskünften
+1. für Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften
 
 a) nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften,
 
@@ -665,7 +605,7 @@ e) nach dem Berufskraftfahrerqualifikationsgesetz und den darauf beruhenden Rech
 
 3. für Maßnahmen im Zusammenhang mit der Außerbetriebsetzung von Kraftfahrzeugen und Kraftfahrzeuganhängern.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die gebührenpflichtigen Amtshandlungen sowie die Gebührensätze für die einzelnen Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten - und Registerauskünften im Sinne des Absatzes 1 durch Rechtsverordnung zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten - und Registerauskünften verbundene Personal- und Sachaufwand gedeckt wird; der Sachaufwand kann den Aufwand für eine externe Begutachtung umfassen; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Im Bereich der Gebühren der Landesbehörden übt das Bundesministerium für Verkehr und digitale Infrastruktur die Ermächtigung auf der Grundlage eines Antrags oder einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium für Verkehr und digitale Infrastruktur aus. Der Antrag oder die Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands zu begründen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die übrigen Länder ebenfalls zur Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die gebührenpflichtigen Amtshandlungen sowie die Gebührensätze für die einzelnen Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften im Sinne des Absatzes 1 durch Rechtsverordnung zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften verbundene Personal- und Sachaufwand gedeckt wird; der Sachaufwand kann den Aufwand für eine externe Begutachtung umfassen; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Im Bereich der Gebühren der Landesbehörden übt das Bundesministerium für Verkehr und digitale Infrastruktur die Ermächtigung auf der Grundlage eines Antrags oder einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium für Verkehr und digitale Infrastruktur aus. Der Antrag oder die Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands zu begründen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die übrigen Länder ebenfalls zur Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
 
 (3) Im Übrigen findet das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung Anwendung. In den Rechtsverordnungen nach Absatz 2 können jedoch die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden.
 
@@ -677,7 +617,7 @@ e) nach dem Berufskraftfahrerqualifikationsgesetz und den darauf beruhenden Rech
 
 (6) Für das Parken auf öffentlichen Wegen und Plätzen können in Ortsdurchfahrten die Gemeinden, im Übrigen die Träger der Straßenbaulast, Gebühren erheben. Für die Festsetzung der Gebühren werden die Landesregierungen ermächtigt, Gebührenordnungen zu erlassen. In diesen kann auch ein Höchstsatz festgelegt werden. Die Ermächtigung kann durch Rechtsverordnung weiter übertragen werden.
 
-(7) Die Regelung des Absatzes 6 Satz 2 bis 4 ist auf die Erhebung von Gebühren für die Benutzung gebührenpflichtiger Parkplätze im Sinne des § 6 Abs. 1 Nr. 13 entsprechend anzuwenden.
+(7) Die Regelung des Absatzes 6 Satz 2 bis 4 ist auf die Erhebung von Gebühren für die Benutzung von bei Großveranstaltungen im Interesse der Ordnung und Sicherheit des Verkehrs eingerichteter gebührenpflichtiger Parkplätze entsprechend anzuwenden.
 
 (8) Die Zulassung eines Fahrzeugs oder die Zuteilung eines Kennzeichens für ein zulassungsfreies Fahrzeug kann durch Rechtsvorschriften davon abhängig gemacht werden, dass die nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 für die Zulassung des Fahrzeugs oder Zuteilung des Kennzeichens vorgesehenen Gebühren und Auslagen, einschließlich rückständiger Gebühren und Auslagen aus vorausgegangenen Zulassungsvorgängen, entrichtet sind. Eine solche Regelung darf
 
@@ -693,7 +633,7 @@ getroffen werden.
 
 (2) (weggefallen)
 
-(3) Über die Herstellung, den Vertrieb und die Ausgabe von Kennzeichen sind nach näherer Bestimmung (§ 6 Abs. 1 Nr. 8) Einzelnachweise zu führen, aufzubewahren und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
+(3) Über die Herstellung, den Vertrieb und die Ausgabe von Kennzeichen sind nach näherer Bestimmung (§ 6 Absatz 1 Satz 1 Nummer 6 in Verbindung mit Absatz 3 Nummer 2) Einzelnachweise zu führen, aufzubewahren und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
 (4) Die Herstellung, der Vertrieb oder die Ausgabe von Kennzeichen ist zu untersagen, wenn diese ohne die vorherige Anzeige hergestellt, vertrieben oder ausgegeben werden.
 
@@ -705,7 +645,7 @@ getroffen werden.
 
 # § 6c – Herstellung, Vertrieb und Ausgabe von Kennzeichenvorprodukten
 
-§ 6b Abs. 1, 3, 4 Nr. 1 sowie Abs. 5 gilt entsprechend für die Herstellung, den Vertrieb oder die Ausgabe von bestimmten - nach näherer Bestimmung durch das Bundesministerium für Verkehr und digitale Infrastruktur festzulegenden (§ 6 Abs. 1 Nr. 8, Abs. 2) - Kennzeichenvorprodukten, bei denen nur noch die Beschriftung fehlt.
+§ 6b Abs. 1, 3, 4 Nr. 1 sowie Abs. 5 gilt entsprechend für die Herstellung, den Vertrieb oder die Ausgabe von bestimmten - nach näherer Bestimmung durch das Bundesministerium für Verkehr und digitale Infrastruktur festzulegenden (§ 6 Absatz 1 Satz 1 Nummer 6 in Verbindung mit Absatz 3 Nummer 2) - Kennzeichenvorprodukten, bei denen nur noch die Beschriftung fehlt.
 
 # § 6d – Auskunft und Prüfung
 
@@ -1030,21 +970,57 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 (3) Gegenstände, auf die sich die Straftat nach Absatz 1 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden.
 
-# § 23 – Feilbieten nicht genehmigter Fahrzeuge, Fahrzeugteile und Ausrüstungen
+# § 23 – (weggefallen)
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Fahrzeugteile, die in einer vom Kraftfahrt-Bundesamt genehmigten Bauart ausgeführt sein müssen, gewerbsmäßig feilbietet, obwohl sie nicht mit einem amtlich vorgeschriebenen und zugeteilten Prüfzeichen gekennzeichnet sind.
+# § 24 – Bußgeldvorschriften
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Vorschrift einer auf Grund des § 6 Abs. 3a erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a bis c oder d, Nummer 2, 3, 5, 6 Buchstabe a, Nummer 8 bis 16 oder 17, jeweils auch in Verbindung mit § 6 Absatz 3 Nummer 1 bis 5 oder 7, nach § 6e Absatz 1 Nummer 1 bis 5 oder 7 oder nach § 6g Absatz 4 Satz 1 Nummer 3, 5, 7 oder 9 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-(4) Fahrzeuge, Fahrzeugteile und Ausrüstungen, auf die sich die Ordnungswidrigkeit bezieht, können eingezogen werden.
+1. einer Rechtsverordnung nach § 6 Absatz 2
 
-# § 24 – Verkehrsordnungswidrigkeit
+a) Nummer 1 Buchstabe a bis e oder g,
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Vorschrift einer auf Grund des § 6 Absatz 1, des § 6e Absatz 1 oder des § 6g Absatz 4 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung ergangenen Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist. Die Verweisung ist nicht erforderlich, soweit die Vorschrift der Rechtsverordnung vor dem 1. Januar 1969 erlassen worden ist.
+b) Nummer 1 Buchstabe f, Nummer 2 oder 3 Buchstabe b,
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
+c) Nummer 3 Buchstabe a oder c oder
+
+d) Nummer 4,
+
+jeweils auch in Verbindung mit § 6 Absatz 3 Nummer 1, 2, 3 Buchstabe a oder c, Nummer 4, 5 oder 7 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
+
+2. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 1
+
+a) Buchstabe a,
+
+b) Buchstabe b,
+
+c) Buchstabe c oder
+
+d) Buchstabe d
+
+genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Satz 1 Nummer 2 geahndet werden können.
+
+(3) Die Ordnungswidrigkeit kann in den Fällen
+
+1. des Absatzes 2 Satz 1 Nummer 1 Buchstabe d und Nummer 2 Buchstabe d mit einer Geldbuße bis zu fünfhunderttausend Euro,
+
+2. des Absatzes 2 Satz 1 Nummer 1 Buchstabe c und Nummer 2 Buchstabe c mit einer Geldbuße bis zu dreihunderttausend Euro,
+
+3. des Absatzes 2 Satz 1 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a mit einer Geldbuße bis zu hunderttausend Euro,
+
+4. des Absatzes 2 Satz 1 Nummer 1 Buchstabe b und Nummer 2 Buchstabe b mit einer Geldbuße bis zu fünfzigtausend Euro,
+
+5. des Absatzes 1 mit einer Geldbuße bis zu zweitausend Euro
+
+geahndet werden.
+
+(4) In den Fällen des Absatzes 3 Nummer 1 und 2 ist § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten anzuwenden.
+
+(5) Fahrzeuge, Fahrzeugteile und Ausrüstungen, auf die sich eine Ordnungswidrigkeit nach Absatz 1 in Verbindung mit § 6 Absatz 1 Satz 1 Nummer 5 oder 10 oder eine Ordnungswidrigkeit nach Absatz 2 Satz 1 bezieht, können eingezogen werden.
 
 § 24: Mit dem GG vereinbar gem. BVerfGE v. 16.7.1969 I 1444 - 2 BvL 2/69 -;
 
@@ -1060,11 +1036,7 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium der Justiz und für Verbraucherschutz mit Zustimmung des Bundesrates die Liste der berauschenden Mittel und Substanzen in der Anlage zu dieser Vorschrift zu ändern oder zu ergänzen, wenn dies nach wissenschaftlicher Erkenntnis im Hinblick auf die Sicherheit des Straßenverkehrs erforderlich ist.
 
-# § 24b – Mangelnde Nachweise für Herstellung, Vertrieb und Ausgabe von Kennzeichen
-
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Vorschrift einer auf Grund des § 6 Abs. 1 Nr. 8 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
+# § 24b – (weggefallen)
 
 # § 24c – Alkoholverbot für Fahranfänger und Fahranfängerinnen
 
@@ -1076,7 +1048,7 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 # § 25 – Fahrverbot
 
-(1) Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24, die sie unter grober oder beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers begangen hat, eine Geldbuße festgesetzt, so kann ihr die Verwaltungsbehörde oder das Gericht in der Bußgeldentscheidung für die Dauer von einem Monat bis zu drei Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24a eine Geldbuße festgesetzt, so ist in der Regel auch ein Fahrverbot anzuordnen.
+(1) Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24 Absatz 1, die sie unter grober oder beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers begangen hat, eine Geldbuße festgesetzt, so kann ihr die Verwaltungsbehörde oder das Gericht in der Bußgeldentscheidung für die Dauer von einem Monat bis zu drei Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit nach § 24a eine Geldbuße festgesetzt, so ist in der Regel auch ein Fahrverbot anzuordnen.
 
 (2) Das Fahrverbot wird mit der Rechtskraft der Bußgeldentscheidung wirksam. Für seine Dauer werden von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine amtlich verwahrt. Dies gilt auch, wenn der Führerschein von einer Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist, sofern der Inhaber seinen ordentlichen Wohnsitz im Inland hat. Wird er nicht freiwillig herausgegeben, so ist er zu beschlagnahmen.
 
@@ -1098,9 +1070,9 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 § 25 Abs. 1 Satz 1: Mit dem GG vereinbar, BVerfGE v. 16.7.1969 I 1444 - 2 BvL 11/69 -; IdF d. Art. 137 Nr. 6 Buchst. a DBuchst. aa G v. 20.11.2019 I 1626 mWv 26.11.2019
 
-# § 25a – Kostentragungspflicht des Halters eines Kraftfahrzeugs
+# § 25a – Kostentragungspflicht des Halters
 
-(1) Kann in einem Bußgeldverfahren wegen eines Halt- oder Parkverstoßes der Führer des Kraftfahrzeugs, der den Verstoß begangen hat, nicht vor Eintritt der Verfolgungsverjährung ermittelt werden oder würde seine Ermittlung einen unangemessenen Aufwand erfordern, so werden dem Halter des Kraftfahrzeugs oder seinem Beauftragten die Kosten des Verfahrens auferlegt; er hat dann auch seine Auslagen zu tragen. Von einer Entscheidung nach Satz 1 wird abgesehen, wenn es unbillig wäre, den Halter des Kraftfahrzeugs oder seinen Beauftragten mit den Kosten zu belasten.
+(1) Kann in einem Bußgeldverfahren wegen eines Halt- oder Parkverstoßes der Führer des Kraftfahrzeugs, der den Verstoß begangen hat, nicht vor Eintritt der Verfolgungsverjährung ermittelt werden oder würde seine Ermittlung einen unangemessenen Aufwand erfordern, so werden dem Halter des Kraftfahrzeugs oder seinem Beauftragten die Kosten des Verfahrens auferlegt; er hat dann auch seine Auslagen zu tragen. Entsprechendes gilt für den Halter eines Kraftfahrzeuganhängers, wenn mit diesem Kraftfahrzeuganhänger, ohne dass dieser an ein Kraftfahrzeug angehängt ist, ein Halt- oder Parkverstoß begangen wurde und derjenige, der den Verstoß begangen hat, nicht vor Eintritt der Verfolgungsverjährung ermittelt werden kann oder seine Ermittlung einen unangemessenen Aufwand erfordern würde. Von einer Entscheidung nach Satz 1 oder 2 wird abgesehen, wenn es unbillig wäre, den Halter oder seinen Beauftragten mit den Kosten zu belasten.
 
 (2) Die Kostenentscheidung ergeht mit der Entscheidung, die das Verfahren abschließt; vor der Entscheidung ist derjenige zu hören, dem die Kosten auferlegt werden sollen.
 
@@ -1110,11 +1082,15 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 # § 26 – Zuständige Verwaltungsbehörde; Verjährung
 
-(1) Bei Ordnungswidrigkeiten nach den §§ 23 bis 24a und 24c ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die Behörde oder Dienststelle der Polizei, die von der Landesregierung durch Rechtsverordnung näher bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
+(1) Bei Ordnungswidrigkeiten nach den § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2 ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die Behörde oder Dienststelle der Polizei, die von der Landesregierung durch Rechtsverordnung näher bestimmt wird. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
-(2) Abweichend von Absatz 1 ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten bei Ordnungswidrigkeiten nach den §§ 23 und 24 das Kraftfahrt-Bundesamt, soweit es für den Vollzug der bewehrten Vorschriften zuständig ist.
+(2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Kraftfahrt-Bundesamt
 
-(3) Die Frist der Verfolgungsverjährung beträgt bei Ordnungswidrigkeiten nach § 24 drei Monate, solange wegen der Handlung weder ein Bußgeldbescheid ergangen noch öffentliche Klage erhoben ist, danach sechs Monate.
+1. abweichend von Absatz 1 bei Ordnungswidrigkeiten nach § 24 Absatz 1, soweit es für den Vollzug der bewehrten Vorschriften zuständig ist, oder
+
+2. bei Ordnungswidrigkeiten nach § 24 Absatz 2 Satz 1.
+
+(3) Die Frist der Verfolgungsverjährung beträgt bei Ordnungswidrigkeiten nach § 24 Absatz 1 drei Monate, solange wegen der Handlung weder ein Bußgeldbescheid ergangen ist noch öffentliche Klage erhoben worden ist, danach sechs Monate. Abweichend von Satz 1 beträgt die Frist der Verfolgungsverjährung bei Ordnungswidrigkeiten nach § 24 Absatz 1 in Verbindung mit § 6 Absatz 1 Satz 1 Nummer 5 oder 10 zwei Jahre, soweit diese Ordnungswidrigkeiten Zuwiderhandlungen gegen Vorschriften mit Anforderungen an Fahrzeuge oder Fahrzeugteile betreffen, die der Genehmigung ihrer Bauart bedürfen. Die Frist der Verfolgungsverjährung beträgt bei Ordnungswidrigkeiten nach § 24 Absatz 2 Satz 1 Nummer 1 Buchstabe c und d und Nummer 2 Buchstabe c und d fünf Jahre.
 
 § 26 Abs. 1 Satz 1: Mit dem GG vereinbar, BVerfGE v. 16.7.1969 I 1444 - 2 BvL 2/69 -
 
@@ -1122,9 +1098,9 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
-1. die Erteilung einer Verwarnung (§ 56 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 24,
+1. die Erteilung einer Verwarnung (§ 56 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 24 Absatz 1,
 
-2. Regelsätze für Geldbußen wegen einer Ordnungswidrigkeit nach den §§ 24, 24a und § 24c,
+2. Regelsätze für Geldbußen wegen einer Ordnungswidrigkeit nach den § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2,
 
 3. die Anordnung des Fahrverbots nach § 25.
 
@@ -1152,13 +1128,13 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 (3) Im Fahreignungsregister werden Daten gespeichert über
 
-1. rechtskräftige Entscheidungen der Strafgerichte wegen einer Straftat, die in der Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s bezeichnet ist, soweit sie auf Strafe, Verwarnung mit Strafvorbehalt erkennen oder einen Schuldspruch enthalten,
+1. rechtskräftige Entscheidungen der Strafgerichte wegen einer Straftat, die in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist, soweit sie auf Strafe, Verwarnung mit Strafvorbehalt erkennen oder einen Schuldspruch enthalten,
 
 2. rechtskräftige Entscheidungen der Strafgerichte, die die Entziehung der Fahrerlaubnis, eine isolierte Sperre oder ein Fahrverbot anordnen, sofern sie nicht von Nummer 1 erfasst sind, sowie Entscheidungen der Strafgerichte, die die vorläufige Entziehung der Fahrerlaubnis anordnen,
 
 3. rechtskräftige Entscheidungen wegen einer Ordnungswidrigkeit
 
-a) nach den §§ 24, 24a oder § 24c, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s bezeichnet ist und gegen die betroffene Person
+a) nach den § 24 Absatz 1, § 24a oder § 24c, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist und gegen die betroffene Person
 
 aa)  
 ein Fahrverbot nach § 25 angeordnet worden ist oder
@@ -1166,9 +1142,9 @@ ein Fahrverbot nach § 25 angeordnet worden ist oder
 bb)  
 eine Geldbuße von mindestens sechzig Euro festgesetzt worden ist und § 28a nichts anderes bestimmt,
 
-b) nach den §§ 24, 24a oder § 24c, soweit kein Fall des Buchstaben a vorliegt und ein Fahrverbot angeordnet worden ist,
+b) nach den § 24 Absatz 1, § 24a oder § 24c, soweit kein Fall des Buchstaben a vorliegt und ein Fahrverbot angeordnet worden ist,
 
-c) nach § 10 des Gefahrgutbeförderungsgesetzes, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s bezeichnet ist,
+c) nach § 10 des Gefahrgutbeförderungsgesetzes, soweit sie in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 bezeichnet ist,
 
 4. unanfechtbare oder sofort vollziehbare Verbote oder Beschränkungen, ein fahrerlaubnisfreies Fahrzeug zu führen,
 
@@ -1204,7 +1180,7 @@ b) Feststellungen über die fehlende Berechtigung, von einer ausländischen Fahr
 
 # § 28a – Eintragung beim Abweichen vom Bußgeldkatalog
 
-Wird die Geldbuße wegen einer Ordnungswidrigkeit nach den §§ 24, 24a und § 24c lediglich mit Rücksicht auf die wirtschaftlichen Verhältnisse der betroffenen Person abweichend von dem Regelsatz der Geldbuße festgesetzt, der für die zugrunde liegende Ordnungswidrigkeit im Bußgeldkatalog (§ 26a) vorgesehen ist, so ist in der Entscheidung dieser Paragraph bei den angewendeten Bußgeldvorschriften aufzuführen, wenn der Regelsatz der Geldbuße
+Wird die Geldbuße wegen einer Ordnungswidrigkeit nach den § 24 Absatz 1, § 24a und § 24c lediglich mit Rücksicht auf die wirtschaftlichen Verhältnisse der betroffenen Person abweichend von dem Regelsatz der Geldbuße festgesetzt, der für die zugrunde liegende Ordnungswidrigkeit im Bußgeldkatalog (§ 26a) vorgesehen ist, so ist in der Entscheidung dieser Paragraph bei den angewendeten Bußgeldvorschriften aufzuführen, wenn der Regelsatz der Geldbuße
 
 1. sechzig Euro oder mehr beträgt und eine geringere Geldbuße festgesetzt wird oder
 
@@ -1224,7 +1200,7 @@ In diesen Fällen ist für die Eintragung in das Fahreignungsregister der im Bu�
 
 bei Entscheidungen über eine Ordnungswidrigkeit,
 
-a) die in der Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s Doppelbuchstabe bb Dreifachbuchstabe bbb als verkehrssicherheitsbeeinträchtigende oder gleichgestellte Ordnungswidrigkeit mit einem Punkt bewertet ist oder
+a) die in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 Buchstabe b als verkehrssicherheitsbeeinträchtigende oder gleichgestellte Ordnungswidrigkeit mit einem Punkt bewertet ist oder
 
 b) soweit weder ein Fall des Buchstaben a noch der Nummer 2 Buchstabe b vorliegt und in der Entscheidung ein Fahrverbot angeordnet worden ist,
 
@@ -1232,7 +1208,7 @@ b) soweit weder ein Fall des Buchstaben a noch der Nummer 2 Buchstabe b vorliegt
 
 a) bei Entscheidungen über eine Straftat, vorbehaltlich der Nummer 3 Buchstabe a,
 
-b) bei Entscheidungen über eine Ordnungswidrigkeit, die in der Rechtsverordnung nach § 6 Absatz 1 Nummer 1 Buchstabe s Doppelbuchstabe bb Dreifachbuchstabe aaa als besonders verkehrssicherheitsbeeinträchtigende oder gleichgestellte Ordnungswidrigkeit mit zwei Punkten bewertet ist,
+b) bei Entscheidungen über eine Ordnungswidrigkeit, die in der Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 4 Buchstabe b als besonders verkehrssicherheitsbeeinträchtigende oder gleichgestellte Ordnungswidrigkeit mit zwei Punkten bewertet ist,
 
 c) bei von der nach Landesrecht zuständigen Behörde verhängten Verboten oder Beschränkungen, ein fahrerlaubnisfreies Fahrzeug zu führen,
 
@@ -1272,21 +1248,23 @@ Eintragungen über Maßnahmen der nach Landesrecht zuständigen Behörde nach §
 
 (6) Nach Eintritt der Tilgungsreife wird eine Eintragung vorbehaltlich der Sätze 2 und 4 gelöscht. Eine Eintragung nach § 28 Absatz 3 Nummer 1 oder 3 Buchstabe a oder c wird nach Eintritt der Tilgungsreife erst nach einer Überliegefrist von einem Jahr gelöscht. Während dieser Überliegefrist darf der Inhalt dieser Eintragung nur noch zu folgenden Zwecken übermittelt, verwendet oder über ihn eine Auskunft erteilt werden:
 
-1. an die nach Landesrecht zuständige Behörde zur Anordnung von Maßnahmen im Rahmen der Fahrerlaubnis auf Probe nach § 2a,
+1. zur Übermittlung an die nach Landesrecht zuständige Behörde zur dortigen Verwendung zur Anordnung von Maßnahmen im Rahmen der Fahrerlaubnis auf Probe nach § 2a,
 
-2. an die nach Landesrecht zuständige Behörde zur Ergreifung von Maßnahmen nach dem Fahreignungs-Bewertungssystem nach § 4 Absatz 5,
+2. zur Übermittlung an die nach Landesrecht zuständige Behörde zur dortigen Verwendung zum Ergreifen von Maßnahmen nach dem Fahreignungs-Bewertungssystem nach § 4 Absatz 5,
 
-3. zur Auskunftserteilung an die betroffene Person nach § 30 Absatz 8.
+3. zur Auskunftserteilung an die betroffene Person nach § 30 Absatz 8,
 
-Die Löschung einer Eintragung nach § 28 Absatz 3 Nummer 3 Buchstabe a oder c unterbleibt in jedem Fall so lange, wie die betroffene Person im Zentralen Fahrerlaubnisregister als Inhaber einer Fahrerlaubnis auf Probe gespeichert ist.
+4. zur Verwendung für die Durchführung anderer als der in den Nummern 1 oder 2 genannten Verfahren zur Erteilung oder Entziehung einer Fahrerlaubnis, wenn die Tat als Grundlage in einer noch gespeicherten Maßnahme nach § 28 Absatz 3 Nummer 5, 6 oder 8 genannt ist.
 
-(7) Ist eine Eintragung im Fahreignungsregister gelöscht, dürfen die Tat und die Entscheidung der betroffenen Person für die Zwecke des § 28 Absatz 2 nicht mehr vorgehalten und nicht zu ihrem Nachteil verwertet werden. Unterliegt eine Eintragung im Fahreignungsregister über eine gerichtliche Entscheidung nach Absatz 1 Satz 2 Nummer 3 Buchstabe a einer zehnjährigen Tilgungsfrist, darf sie nach Ablauf eines Zeitraums, der einer fünfjährigen Tilgungsfrist nach den vorstehenden Vorschriften entspricht, nur noch für folgende Zwecke an die nach Landesrecht zuständige Behörde übermittelt und dort verwendet werden:
+Die Löschung einer Eintragung nach § 28 Absatz 3 Nummer 3 Buchstabe a oder c unterbleibt in jedem Fall so lange, wie die betroffene Person im Zentralen Fahrerlaubnisregister als Inhaber einer Fahrerlaubnis auf Probe gespeichert ist; während dieser Zeit gilt Satz 3 Nummer 1, 3 und 4 nach Ablauf der Überliegefrist entsprechend.
+
+(7) Ist eine Eintragung im Fahreignungsregister gelöscht, dürfen die Tat und die Entscheidung der betroffenen Person für die Zwecke des § 28 Absatz 2 nicht mehr vorgehalten und nicht zu ihrem Nachteil verwertet werden. Abweichend von Satz 1 darf eine Tat und die hierauf bezogene Entscheidung trotz ihrer Löschung aus dem Fahreignungsregister für die Durchführung anderer als der in Absatz 6 Satz 3 Nummer 4 genannten Verfahren zur Erteilung oder Entziehung einer Fahrerlaubnis verwendet werden, solange die Tat als Grundlage in einer noch gespeicherten Maßnahme nach § 28 Absatz 3 Nummer 5, 6 oder 8 genannt ist. Unterliegt eine Eintragung im Fahreignungsregister über eine gerichtliche Entscheidung nach Absatz 1 Satz 2 Nummer 3 Buchstabe a einer zehnjährigen Tilgungsfrist, darf sie nach Ablauf eines Zeitraums, der einer fünfjährigen Tilgungsfrist nach den vorstehenden Vorschriften entspricht, nur noch für folgende Zwecke an die nach Landesrecht zuständige Behörde übermittelt und dort verwendet werden:
 
 1. zur Durchführung von Verfahren, die eine Erteilung oder Entziehung einer Fahrerlaubnis zum Gegenstand haben,
 
 2. zum Ergreifen von Maßnahmen nach dem Fahreignungs-Bewertungssystem nach § 4 Absatz 5.
 
-Außerdem dürfen für die Prüfung der Berechtigung zum Führen von Kraftfahrzeugen Entscheidungen der Gerichte nach den §§ 69 bis 69b des Strafgesetzbuches an die nach Landesrecht zuständige Behörde übermittelt und dort verwendet werden. Die Sätze 1 und 2 gelten nicht für Eintragungen wegen strafgerichtlicher Entscheidungen, die für die Ahndung von Straftaten herangezogen werden. Insoweit gelten die Regelungen des Bundeszentralregistergesetzes.
+Außerdem dürfen für die Prüfung der Berechtigung zum Führen von Kraftfahrzeugen Entscheidungen der Gerichte nach den §§ 69 bis 69b des Strafgesetzbuches an die nach Landesrecht zuständige Behörde übermittelt und dort verwendet werden. Die Sätze 1 bis 3 gelten nicht für Eintragungen wegen strafgerichtlicher Entscheidungen, die für die Ahndung von Straftaten herangezogen werden. Insoweit gelten die Regelungen des Bundeszentralregistergesetzes.
 
 # § 30 – Übermittlung
 
@@ -1324,9 +1302,9 @@ zuständig sind, übermittelt werden, soweit dies für die Erfüllung der diesen
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt werden. Die Übermittlung unterbleibt, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.
 
-(8) Der betroffenen Person wird auf Antrag schriftlich über den sie betreffenden Inhalt des Fahreignungsregisters und über die Anzahl der Punkte unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird. Hinsichtlich der Protokollierung gilt § 30a Absatz 3 entsprechend.
+(8) Der betroffenen Person wird auf Antrag schriftlich über den sie betreffenden Inhalt des Fahreignungsregisters und über die Anzahl der Punkte unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen und den Antrag, wenn er schriftlich gestellt wird, eigenhändig zu unterschreiben. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird. Hinsichtlich der Protokollierung gilt § 30a Absatz 3 entsprechend.
 
-(9) Übermittlungen von Daten aus dem Fahreignungsregister sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
+(9) Übermittlungen von Daten aus dem Fahreignungsregister sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht. Begründet sich der besondere Anlass nach Satz 4 in Zweifeln an der Identität einer Person, auf die sich ein Ersuchen auf Datenübermittlung bezieht, gilt § 28 Absatz 5 Satz 1 bis 3 entsprechend.
 
 (10) Die Eintragungen über rechtskräftige oder unanfechtbare Entscheidungen nach § 28 Absatz 3 Nummer 1 bis 3 und 6, in denen Inhabern ausländischer Fahrerlaubnisse die Fahrerlaubnis entzogen oder ein Fahrverbot angeordnet wird oder die fehlende Berechtigung von der Fahrerlaubnis im Inland Gebrauch zu machen festgestellt wird, werden vom Kraftfahrt-Bundesamt an die zuständigen Stellen der Mitgliedstaaten der Europäischen Union übermittelt, um ihnen die Einleitung eigener Maßnahmen zu ermöglichen. Der Umfang der zu übermittelnden Daten wird durch Rechtsverordnung bestimmt (§ 30c Absatz 1 Nummer 3).
 
@@ -1392,7 +1370,7 @@ Die Absätze 2 und 3 sowie Absatz 4 wegen des Anlasses der Abrufe sind entsprech
 
 (3) Das Kraftfahrt-Bundesamt als übermittelnde Behörde hat Aufzeichnungen zu führen, die die übermittelten Daten, den Zeitpunkt der Übermittlung, den Empfänger der Daten und den vom Empfänger angegebenen Zweck enthalten. § 30a Abs. 3 Satz 3 und 4 gilt entsprechend.
 
-# § 30c – Ermächtigungsgrundlagen, Ausführungsvorschriften
+# § 30c – Verordnungsermächtigungen, Ausführungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen über
 
@@ -1418,7 +1396,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen si
 
 (1) Die Zulassungsbehörden führen ein Register über die Fahrzeuge, für die ein Kennzeichen ihres Bezirks zugeteilt oder ausgegeben wurde (örtliches Fahrzeugregister der Zulassungsbehörden).
 
-(2) Das Kraftfahrt-Bundesamt führt ein Register über die Fahrzeuge, für die im Geltungsbereich dieses Gesetzes ein Kennzeichen zugeteilt oder ausgegeben wurde oder die nach Maßgabe von Vorschriften auf Grund des § 6 Absatz 1 Nummer 2 regelmäßig untersucht oder geprüft wurden (Zentrales Fahrzeugregister des Kraftfahrt-Bundesamtes).
+(2) Das Kraftfahrt-Bundesamt führt ein Register über die Fahrzeuge, für die im Geltungsbereich dieses Gesetzes ein Kennzeichen zugeteilt oder ausgegeben wurde oder die nach Maßgabe von Vorschriften auf Grund des § 6 Absatz 1 Satz 1 Nummer 6 regelmäßig untersucht oder geprüft wurden (Zentrales Fahrzeugregister des Kraftfahrt-Bundesamtes).
 
 (3) Soweit die Dienststellen der Bundeswehr, der Polizeien des Bundes und der Länder, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes eigene Register für die jeweils von ihnen zugelassenen Fahrzeuge führen, finden die Vorschriften dieses Abschnitts keine Anwendung. Satz 1 gilt entsprechend für Fahrzeuge, die von den Nachfolgeunternehmen der Deutschen Bundespost zugelassen sind.
 
@@ -1438,9 +1416,11 @@ Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen si
 
 6. für Maßnahmen zur Durchführung des Altfahrzeugrechts,
 
-7. für Maßnahmen zur Durchführung des Infrastrukturabgabenrechts und
+7. für Maßnahmen zur Durchführung des Infrastrukturabgabenrechts,
 
-8. für Maßnahmen zur Durchführung der Datenverarbeitung bei Kraftfahrzeugen mit hoch-oder vollautomatisierter Fahrfunktion nach diesem Gesetz oder nach den auf diesem Gesetz beruhenden Rechtsvorschriften.
+8. für Maßnahmen zur Durchführung der Datenverarbeitung bei Kraftfahrzeugen mit hoch-oder vollautomatisierter Fahrfunktion nach diesem Gesetz oder nach den auf diesem Gesetz beruhenden Rechtsvorschriften und
+
+9. für Maßnahmen nach oder zur Umsetzung von unionsrechtlichen Vorschriften, soweit diese die Verwendung von in den Fahrzeugregistern gespeicherten Daten erfordern.
 
 (2) Die Fahrzeugregister werden außerdem geführt zur Speicherung von Daten für die Erteilung von Auskünften, um
 
@@ -1452,6 +1432,14 @@ Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen si
 
 festzustellen oder zu bestimmen.
 
+(3) Das Zentrale Fahrzeugregister wird außerdem geführt zur Verwendung und Übermittlung der nach § 33 Absatz 1 gespeicherten Daten, um im Einzelfall Halter von Fahrzeugen zu informieren über fahrzeugbezogene Maßnahmen,
+
+1. die für ihre Fahrzeuge in Betracht kommen und
+
+2. die dem Schutz der Verkehrssicherheit, der Gesundheit von Personen oder der Umwelt dienen.
+
+Fahrzeugbezogene Maßnahmen können insbesondere auf die Verbesserung von Fahrzeugeigenschaften, insbesondere auf die Verbesserung des Abgasverhaltens, des Geräuschverhaltens, des Kraftstoffverbrauchs oder des Fahrverhaltens abzielen.
+
 # § 33 – Inhalt der Fahrzeugregister
 
 (1) Im örtlichen und im Zentralen Fahrzeugregister werden, soweit dies zur Erfüllung der in § 32 genannten Aufgaben jeweils erforderlich ist, gespeichert
@@ -1462,7 +1450,7 @@ festzustellen oder zu bestimmen.
 
 a) bei natürlichen Personen:
 
-Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
+Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung oder die Ausgabe des Kennzeichens angegebener Ordens- oder Künstlername, Tag sowie Staat und Ort der Geburt, Geschlecht, Anschrift; bei Fahrzeugen mit Versicherungskennzeichen entfällt die Speicherung von Geburtsnamen, Ort der Geburt und Geschlecht des Halters,
 
 b) bei juristischen Personen und Behörden:
 
@@ -1505,7 +1493,7 @@ benannter Vertreter mit den Angaben nach Buchstabe a und gegebenenfalls Name der
 
 2. die nach § 33 Abs. 1 Satz 1 Nr. 2 zu speichernden Halterdaten
 
-mitzuteilen und auf Verlangen nachzuweisen. Zur Mitteilung und zum Nachweis der Daten über die Haftpflichtversicherung ist auch der jeweilige Versicherer befugt. Die Zulassungsbehörde kann durch Einholung von Auskünften aus dem Melderegister die Richtigkeit und Vollständigkeit der vom Antragsteller mitgeteilten Daten überprüfen.
+mitzuteilen und auf Verlangen nachzuweisen. Zur Mitteilung und zum Nachweis der Daten über die Haftpflichtversicherung ist gegenüber der Zulassungsbehörde auch der jeweilige Versicherer befugt. Die Zulassungsbehörde kann durch Einholung von Auskünften aus dem Melderegister die Richtigkeit und Vollständigkeit der vom Antragsteller mitgeteilten Daten überprüfen.
 
 (2) Wer die Zuteilung eines amtlichen Kennzeichens für ein Fahrzeug beantragt, hat der Zulassungsbehörde außerdem die Daten über Beruf oder Gewerbe (Wirtschaftszweig) mitzuteilen, soweit sie nach § 33 Abs. 2 zu speichern sind.
 
@@ -1513,7 +1501,13 @@ mitzuteilen und auf Verlangen nachzuweisen. Zur Mitteilung und zum Nachweis der 
 
 (4) Der Halter und der Eigentümer, wenn dieser nicht zugleich Halter ist, haben der Zulassungsbehörde jede Änderung der Daten mitzuteilen, die nach Absatz 1 erhoben wurden; dies gilt nicht für die Fahrzeuge, die ein Versicherungskennzeichen führen müssen.
 
-(5) Die Versicherer dürfen der zuständigen Zulassungsbehörde das Nichtbestehen oder die Beendigung des Versicherungsverhältnisses über die vorgeschriebene Haftpflichtversicherung für das betreffende Fahrzeug mitteilen. Die Versicherer haben dem Kraftfahrt-Bundesamt im Rahmen der Zulassung von Fahrzeugen mit Versicherungskennzeichen die erforderlichen Fahrzeugdaten nach näherer Bestimmung durch Rechtsverordnung (§ 47 Nummer 2) und die Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 mitzuteilen.
+(5) Die Versicherer dürfen der zuständigen Zulassungsbehörde Folgendes mitteilen:
+
+1. das Nichtbestehen oder die Beendigung des Versicherungsverhältnisses über die vorgeschriebene Haftpflichtversicherung für das betreffende Fahrzeug oder
+
+2. die Halterdaten, sofern die Zulassungsbehörde dem Versicherer gegenüber dargelegt hat, dass sie die Mitteilung dieser Daten zur Erfüllung ihrer gesetzlichen Aufgaben für erforderlich hält.
+
+Die Versicherer haben dem Kraftfahrt-Bundesamt im Rahmen der Zulassung von Fahrzeugen mit Versicherungskennzeichen die erforderlichen Fahrzeugdaten nach näherer Bestimmung durch Rechtsverordnung (§ 47 Nummer 2) und die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer 2 sowie jede Änderung dieser Daten mitzuteilen.
 
 (6) Die Technischen Prüfstellen, amtlich anerkannten Überwachungsorganisationen und anerkannten Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen, haben dem Kraftfahrt-Bundesamt nach näherer Bestimmung durch Rechtsverordnung auf Grund des § 47 Nummer 1a die nach § 33 Absatz 1 Satz 1 Nummer 1 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten über Prüfungen und Untersuchungen einschließlich der durchführenden Stellen und Kennungen zur Feststellung der für die Durchführung der Prüfung oder Untersuchung Verantwortlichen zu übermitteln. Im Fall der anerkannten Kraftfahrzeugwerkstätten erfolgt die Übermittlung über Kopfstellen; im Fall der Technischen Prüfstellen und anerkannten Überwachungsorganisationen kann die Übermittlung über Kopfstellen erfolgen. Eine Speicherung der nach Satz 2 zur Übermittlung an das Kraftfahrt-Bundesamt erhaltenen Daten bei den Kopfstellen erfolgt ausschließlich zu diesem Zweck. Nach erfolgter Übermittlung haben die Kopfstellen die nach Satz 3 gespeicherten Daten unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
@@ -1567,17 +1561,23 @@ c) kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des
 
 (1a) Die nach § 33 Absatz 1 Nummer 1 gespeicherten Daten über Beschaffenheit, Ausrüstung und Identifizierungsmerkmale von Fahrzeugen dürfen den Zentralen Leitstellen für Brandschutz, Katastrophenschutz und Rettungsdienst, wenn dies für Zwecke nach § 32 Absatz 2 Nummer 3 erforderlich ist, zur Rettung von Unfallopfern übermittelt werden.
 
-(2) Die nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten dürfen, wenn dies für die Zwecke nach § 32 Abs. 2 jeweils erforderlich ist,
+(2) Die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten dürfen, soweit dies jeweils erforderlich ist, übermittelt werden
 
-1. an Inhaber von Betriebserlaubnissen für Fahrzeuge oder an Fahrzeughersteller für Rückrufmaßnahmen zur Beseitigung von erheblichen Mängeln für die Verkehrssicherheit oder für die Umwelt an bereits ausgelieferten Fahrzeugen (§ 32 Abs. 1 Nr. 1) sowie bis zum 31. Dezember 1995 für staatlich geförderte Maßnahmen zur Verbesserung des Schutzes vor schädlichen Umwelteinwirkungen durch bereits ausgelieferte Fahrzeuge,
+1. für die Zwecke des § 32 Absatz 1 Nummer 1 an Inhaber von Betriebserlaubnissen für Fahrzeuge, an Fahrzeughersteller oder an für den Mangel verantwortliche Teilehersteller, Werkstätten oder sonstige Produktverantwortliche, um Folgendes zu ermöglichen:
 
-1a. an Fahrzeughersteller und Importeure von Fahrzeugen sowie an deren Rechtsnachfolger zur Überprüfung der Angaben über die Verwertung des Fahrzeugs nach dem Altfahrzeugrecht,
+a) Rückrufmaßnahmen zur Beseitigung von sicherheitsgefährdenden Mängeln an bereits ausgelieferten Fahrzeugen,
 
-2. an Versicherer zur Gewährleistung des vorgeschriebenen Versicherungsschutzes (§ 32 Abs. 1 Nr. 2) und
+b) Rückrufmaßnahmen zur Beseitigung von für die Umwelt erheblichen Mängeln an bereits ausgelieferten Fahrzeugen oder
 
-3. unmittelbar oder über Kopfstellen an Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen sowie über Kopfstellen an anerkannte Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen, für die Durchführung der regelmäßigen Untersuchungen und Prüfungen, um die Verkehrssicherheit der Fahrzeuge und den Schutz der Verkehrsteilnehmer zu gewährleisten,
+c) Rückrufmaßnahmen, die die Typgenehmigungsbehörde oder die Marktüberwachungsbehörde zur Beseitigung von sonstigen Unvorschriftsmäßigkeiten an bereits ausgelieferten Fahrzeugen für erforderlich erachtet,
 
-übermittelt werden. Bei Übermittlungen nach Satz 1 Nummer 3 erfolgt eine Speicherung der Daten bei den Kopfstellen ausschließlich zum Zweck der Übermittlung an Technische Prüfstellen, amtlich anerkannte Überwachungsorganisationen und anerkannte Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen. Nach erfolgter Übermittlung haben die Kopfstellen die nach Satz 2 gespeicherten Daten unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
+2. für die Zwecke des § 32 Absatz 1 Nummer 6 an Fahrzeughersteller und Importeure von Fahrzeugen sowie an deren Rechtsnachfolger zur Überprüfung der Angaben über die Verwertung des Fahrzeugs nach dem Altfahrzeugrecht,
+
+3. für die Zwecke des § 32 Absatz 1 Nummer 2 an Versicherer zur Gewährleistung des vorgeschriebenen Versicherungsschutzes oder
+
+4. für die Zwecke des § 32 Absatz 1 Nummer 1 unmittelbar oder über Kopfstellen an Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen sowie über Kopfstellen an anerkannte Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen, für die Durchführung der regelmäßigen Untersuchungen und Prüfungen, um die Verkehrssicherheit der Fahrzeuge und den Schutz der Verkehrsteilnehmer zu gewährleisten; § 34 Absatz 6 Satz 3 und 4 gilt entsprechend.
+
+Bei Übermittlungen nach Satz 1 Nummer 3 erfolgt eine Speicherung der Daten bei den Kopfstellen ausschließlich zum Zweck der Übermittlung an Technische Prüfstellen, amtlich anerkannte Überwachungsorganisationen und anerkannte Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen. Nach erfolgter Übermittlung haben die Kopfstellen die nach Satz 2 gespeicherten Daten unverzüglich, bei elektronischer Speicherung automatisiert, zu löschen.
 
 (2a) Die nach § 33 Absatz 3 gespeicherten Daten über die Fahrtenbuchauflagen dürfen
 
@@ -1585,7 +1585,7 @@ c) kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des
 
 2. dem Kraftfahrt-Bundesamt in entsprechender Anwendung des Absatzes 5 Nummer 1 für die Unterstützung der Zulassungsbehörden im Rahmen der Überwachung der Fahrtenbuchauflage oder
 
-3. den hierfür zuständigen Behörden oder Gerichten zur Verfolgung von Straftaten oder von Ordnungswidrigkeiten nach §§ 24, 24a oder § 24c
+3. den hierfür zuständigen Behörden oder Gerichten zur Verfolgung von Straftaten oder von Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a oder § 24c
 
 jeweils im Einzelfall übermittelt werden.
 
@@ -1661,7 +1661,7 @@ c) zur Verfolgung von Straftaten oder zur Vollstreckung oder zum Vollzug von Str
 
 d) zur Abwehr von Gefahren für die öffentliche Sicherheit,
 
-1a. an die Verwaltungsbehörden im Sinne des § 26 Abs. 1 für die Verfolgung von Ordnungswidrigkeiten nach §§ 24, 24a oder § 24c,
+1a. an die Verwaltungsbehörden im Sinne des § 26 Abs. 1 für die Verfolgung von Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a oder § 24c,
 
 2. an die Zollfahndungsdienststellen zur Verhütung oder Verfolgung von Steuer- und Wirtschaftsstraftaten sowie an die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden zur Verhütung oder Verfolgung von Steuerstraftaten,
 
@@ -1689,7 +1689,7 @@ Satz 1 gilt entsprechend für den Abruf der örtlich zuständigen Polizeidiensts
 
 (2e) Die Übermittlung nach § 35 Absatz 1 Nummer 15 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren an den Gerichtsvollzieher erfolgen.
 
-(2f) Die Übermittlung aus dem Zentralen Fahrzeugregister nach § 35 Absatz 2 Satz 1 Nummer 3 darf durch Abruf im automatisierten Verfahren erfolgen.
+(2f) Die Übermittlung aus dem Zentralen Fahrzeugregister nach § 35 Absatz 2 Satz 1 Nummer 4 darf durch Abruf im automatisierten Verfahren erfolgen.
 
 (2g) Die Übermittlung nach § 35 Absatz 2a darf durch Abruf im automatisierten Verfahren erfolgen.
 
@@ -1743,41 +1743,51 @@ Die Übermittlung der Daten aus dem Zentralen Fahrzeugregister nach den §§ 35 
 
 # § 37 – Übermittlung von Fahrzeugdaten und Halterdaten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes
 
-(1) Die nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten dürfen von den Registerbehörden an die zuständigen Stellen anderer Staaten übermittelt werden, soweit dies
+(1) Die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten dürfen vom Kraftfahrt-Bundesamt an die zuständigen Stellen anderer Staaten übermittelt werden, soweit dies nach unionsrechtlichen Vorschriften vorgeschrieben ist oder soweit dies
 
-a) für Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs,
+1. für Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs,
 
-b) zur Überwachung des Versicherungsschutzes im Rahmen der Kraftfahrzeughaftpflichtversicherung,
+2. zur Überwachung des Versicherungsschutzes im Rahmen der Kraftfahrzeughaftpflichtversicherung,
 
-c) zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder
+3. zur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder
 
-d) zur Verfolgung von Straftaten, die im Zusammenhang mit dem Straßenverkehr oder sonst mit Kraftfahrzeugen, Anhängern, Kennzeichen oder Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,
+4. zur Verfolgung von Straftaten, die im Zusammenhang mit dem Straßenverkehr oder sonst mit Kraftfahrzeugen, Anhängern, Kennzeichen oder Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,
 
-erforderlich ist.
+erforderlich ist und keine Anhaltspunkte für Zweifel an der Gegenseitigkeit einer solchen Auskunftserteilung hinsichtlich des jeweiligen Anfragegrundes nach den Nummern 1 bis 4 und hinsichtlich der den Anfragegrund begründenden Sachverhalte durch den anderen Staat gegeben sind.
 
-(1a) Nach Maßgabe völkerrechtlicher Verträge zwischen Mitgliedstaaten der Europäischen Union oder mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, die der Mitwirkung der gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 des Grundgesetzes bedürfen, sowie nach Artikel 12 des Beschlusses des Rates 2008/615/JI vom 23. Juni 2008 (ABl. L 210 vom 6.8.2008, S. 1, dürfen die nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten von den Registerbehörden an die zuständigen Stellen dieser Staaten auch übermittelt werden, soweit dies erforderlich ist
+(1a) Nach Maßgabe völkerrechtlicher Verträge zwischen Mitgliedstaaten der Europäischen Union oder mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, die der Mitwirkung der gesetzgebenden Körperschaften nach Artikel 59 Absatz 2 des Grundgesetzes bedürfen, sowie nach Artikel 12 des Beschlusses des Rates 2008/615/JI vom 23. Juni 2008 (ABl. L 210 vom 6.8.2008, S. 1) dürfen die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten vom Kraftfahrt-Bundesamt an die zuständigen Stellen dieser Staaten auch übermittelt werden, soweit dies erforderlich ist
 
-a) zur Verfolgung von Ordnungswidrigkeiten, die nicht von Absatz 1 Buchstabe c erfasst werden,
+1. zur Verfolgung von Ordnungswidrigkeiten, die nicht von Absatz 1 Nummer 3 erfasst werden,
 
-b) zur Verfolgung von Straftaten, die nicht von Absatz 1 Buchstabe d erfasst werden, oder
+2. zur Verfolgung von Straftaten, die nicht von Absatz 1 Nummer 4 erfasst werden, oder
 
-c) zur Abwehr von Gefahren für die öffentliche Sicherheit.
+3. zur Abwehr von Gefahren für die öffentliche Sicherheit.
 
 (2) Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verwendet werden dürfen, zu dessen Erfüllung sie ihm übermittelt werden.
 
 (3) Die Übermittlung unterbleibt, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere, wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.
 
+(4) Die Übermittlung unterbleibt, wenn die Übermittlung bei entsprechender Anfrage auf Grund von § 37a erfolgen könnte. Die Übermittlung kann ferner unterbleiben, wenn das Kraftfahrt-Bundesamt den Aufwand für die Bearbeitung der Anfragen als nicht vertretbar beurteilt.
+
 # § 37a – Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes
 
-(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrzeugregister für die in § 37 Abs. 1 und 1a genannten Maßnahmen an die hierfür zuständigen öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum die zu deren Aufgabenerfüllung erforderlichen Daten nach näherer Bestimmung durch Rechtsverordnung nach § 47 Nummer 5a übermittelt werden.
+(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrzeugregister für die in § 37 Abs. 1 und 1a genannten Maßnahmen an die hierfür zuständigen öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum die zu deren Aufgabenerfüllung erforderlichen Daten nach näherer Bestimmung durch Rechtsverordnung nach § 47 Nummer 5b und 5c durch das Kraftfahrt-Bundesamt übermittelt werden. Dieses automatisierte Verfahren setzt jedoch voraus, dass das Europäische Fahrzeug- und Führerschein-Informationssystem oder ein anderes informationstechnisches Verfahren genutzt wird, das vom Kraftfahrt-Bundesamt als mit vertretbarem Aufwand betreibbar beurteilt wird
 
-(2) Der Abruf darf nur unter Verwendung von Fahrzeugdaten, bei Abrufen für die in § 37 Abs. 1a genannten Zwecke nur unter Verwendung der vollständigen Fahrzeug-Identifizierungsnummer oder des vollständigen Kennzeichens, erfolgen und sich nur auf ein bestimmtes Fahrzeug oder einen bestimmten Halter richten.
+(2) Der Abruf darf nur unter Verwendung von Fahrzeugdaten, bei Abrufen für die in § 37 Abs. 1a genannten Zwecke nur unter Verwendung der vollständigen Fahrzeug-Identifizierungsnummer oder des vollständigen Kennzeichens, erfolgen und sich nur auf ein bestimmtes Fahrzeug oder einen bestimmten Halter richten. Ein unionsrechtlich vorgeschriebener Abruf darf ergänzend zu Satz 1
+
+1. auch unter Verwendung von Halterdaten erfolgen oder
+
+2. sich auf mehrere Fahrzeuge eines bestimmten Halters oder auf alle aktuellen oder früheren Halter eines bestimmten Fahrzeugs richten,
+
+soweit dies unionsrechtlich vorgesehen ist.
 
 (3) Der Abruf ist nur zulässig, wenn
 
-1. diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und
+1. diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist,
 
-2. der Empfängerstaat die Verordnung (EU) 2016/679 anwendet.
+2. der Empfängerstaat die Verordnung (EU) 2016/679 anwendet und
+
+3. die Gegenseitigkeit der Auskunftserteilung im Sinne von § 37 Absatz 1 durch geeignete Mittel sichergestellt ist.
 
 § 36 Abs. 5 und 6 sowie Abs. 7 wegen des Anlasses der Abrufe ist entsprechend anzuwenden.
 
@@ -1911,7 +1921,7 @@ durch die Zulassungsbehörde oder durch das Kraftfahrt-Bundesamt zu übermitteln
 
 (2) Weitere Fahrzeugdaten und Halterdaten als die nach Absatz 1 zulässigen sind zu übermitteln, wenn der Empfänger unter Angabe von Fahrzeugdaten oder Personalien des Halters glaubhaft macht, dass er
 
-1. die Daten zur Geltendmachung, Sicherung oder Vollstreckung, zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr, dem Diebstahl, dem sonstigen Abhandenkommen des Fahrzeugs oder zur Erhebung einer Privatklage wegen im Straßenverkehr begangener Verstöße benötigt,
+1. die Daten zur Geltendmachung, Sicherung oder Vollstreckung, zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr, dem Diebstahl, dem sonstigen Abhandenkommen des Fahrzeugs oder zur Erhebung einer Privatklage wegen im Straßenverkehr begangener Verstöße benötigt und
 
 2. (weggefallen)
 
@@ -1933,6 +1943,26 @@ in Höhe von jeweils mindestens 500 Euro benötigt,
 
 § 35 Abs. 3 Satz 2 und 3 gilt entsprechend. Die Aufzeichnungen dürfen nur zur Kontrolle der Zulässigkeit der Übermittlungen verwendet werden.
 
+(4) Ist der Empfänger eine öffentlich-rechtliche Stelle mit Sitz im Ausland oder handelt er im Namen oder im Auftrag einer solchen Stelle, ist für den Antrag und die Auskunft nur das Kraftfahrt-Bundesamt zuständig.
+
+# § 39a – Auskunft über Daten
+
+(1) Einer Person wird auf Antrag schriftlich über die zu ihrer Person im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Daten und über die zu ihr als Halter gespeicherten Fahrzeugdaten unentgeltlich Auskunft erteilt. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird; in diesen Fällen gilt abweichend von § 35 Absatz 6 Satz 4 hinsichtlich der Protokollierung § 36 Absatz 6 entsprechend.
+
+(2) Einer Person darf auf Antrag schriftlich über die zu einem Dritten als Halter im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Fahrzeugdaten unentgeltlich Auskunft erteilt werden, wenn
+
+1. der Antragsteller
+
+a) nachweist, dass die Verfügungsbefugnis des Halters über dessen Fahrzeuge gesetzlich oder in Folge gerichtlicher Anordnung auf den Antragsteller übergegangen ist oder auch vom Antragsteller ausgeübt werden kann, und
+
+b) glaubhaft macht, dass er die Daten zur Wahrnehmung straßenverkehrsrechtlicher Angelegenheiten des Halters benötigt,
+
+2. der Antragsteller die Daten auf andere Weise entweder nicht oder nur mit unverhältnismäßigem Aufwand erlangen könnte und
+
+3. kein Grund zu der Annahme besteht, dass durch die Auskunft schutzwürdige Interessen des Halters beeinträchtigt werden.
+
+Für die sichere Identifizierung bei der Antragstellung und für die elektronische Auskunftserteilung gilt § 30 Absatz 8 Satz 2 und 3 entsprechend; abweichend von § 35 Absatz 6 Satz 4 gilt hinsichtlich der Protokollierung § 36 Absatz 6 entsprechend.
+
 # § 40 – Übermittlung sonstiger Daten
 
 Die nach § 33 Abs. 2 gespeicherten Daten über Beruf und Gewerbe (Wirtschaftszweig) dürfen nur für die Zwecke nach § 32 Abs. 1 Nr. 4 und 5 an die hierfür zuständigen Behörden übermittelt werden. Außerdem dürfen diese Daten für Zwecke der Statistik (§ 38a Abs. 1) übermittelt werden; die Zulässigkeit und die Durchführung von statistischen Vorhaben richten sich nach § 38a.
@@ -1943,21 +1973,23 @@ Die nach § 33 Abs. 2 gespeicherten Daten über Beruf und Gewerbe (Wirtschaftszw
 
 (2) Außerdem sind Übermittlungssperren auf Antrag der betroffenen Person anzuordnen, wenn sie glaubhaft macht, dass durch die Übermittlung ihre schutzwürdigen Interessen beeinträchtigt würden.
 
-(3) Die Übermittlung trotz bestehender Sperre ist im Einzelfall zulässig, wenn an der Kenntnis der gesperrten Daten ein überwiegendes öffentliches Interesse, insbesondere an der Verfolgung von Straftaten besteht. Über die Aufhebung entscheidet die für die Anordnung der Sperre zuständige Stelle. Will diese an der Sperre festhalten, weil sie das die Sperre begründende öffentliche Interesse (Absatz 1) für überwiegend hält oder weil sie die Beeinträchtigung schutzwürdiger Interessen der betroffenen Person (Absatz 2) als vorrangig ansieht, so führt sie die Entscheidung der obersten Landesbehörde herbei. Vor der Übermittlung ist der betroffenen Person Gelegenheit zur Stellungnahme zu geben, es sei denn, die Anhörung würde dem Zweck der Übermittlung zuwiderlaufen.
+(3) Die Übermittlung trotz bestehender Sperre ist im Einzelfall zulässig, wenn an der Kenntnis der gesperrten Daten ein überwiegendes öffentliches Interesse, insbesondere an der Verfolgung von Straftaten besteht. Vor der Übermittlung ist der betroffenen Person Gelegenheit zur Stellungnahme zu geben, es sei denn, die Anhörung würde dem Zweck der Übermittlung zuwiderlaufen.
 
-(4) Die Übermittlung trotz bestehender Sperre ist im Einzelfall außerdem zulässig, wenn die Geltendmachung, Sicherung oder Vollstreckung oder die Befriedigung oder Abwehr von Rechtsansprüchen im Sinne des § 39 Abs. 1 und 2 sonst nicht möglich wäre. Vor der Übermittlung ist der betroffenen Person Gelegenheit zur Stellungnahme zu geben. Absatz 3 Satz 2 und 3 ist entsprechend anzuwenden.
+(4) Die Übermittlung trotz bestehender Sperre ist im Einzelfall außerdem zulässig, wenn die Geltendmachung, Sicherung oder Vollstreckung oder die Befriedigung oder Abwehr von Rechtsansprüchen im Sinne des § 39 Abs. 1 und 2 sonst nicht möglich wäre. Vor der Übermittlung ist der betroffenen Person Gelegenheit zur Stellungnahme zu geben.
+
+(5) Über die Aufhebung im Einzelfall nach den Absätzen 3 und 4 entscheidet die für die Anordnung der Sperre zuständige Behörde (sperrende Behörde). Will diese an der Sperre festhalten, weil sie das die Sperre begründende öffentliche Interesse im Sinne des Absatzes 1 für überwiegend hält oder weil sie die Beeinträchtigung schutzwürdiger Interessen der betroffenen Person im Sinne des Absatzes 2 als vorrangig ansieht, führt sie die Entscheidung der nach Landesrecht hierfür zuständigen Behörde oder, wenn eine solche Regelung nicht getroffen ist, der obersten Landesbehörde herbei. Im Fall der Aufhebung im Einzelfall wird die Übermittlung der für das Ersuchen erforderlichen Fahrzeug- und Halterdaten durch die sperrende Behörde vorgenommen. Hierfür dürfen der sperrenden Behörde bei von ihr festgestellter Erforderlichkeit auf ihr Verlangen die Fahrzeug- und Halterdaten von den Registerbehörden übermittelt werden. Die sperrende Behörde hat diese übermittelten Daten nach Abschluss des Verfahrens unverzüglich zu löschen.
 
 # § 42 – Datenabgleich zur Beseitigung von Fehlern
 
 (1) Bei Zweifeln an der Identität eines eingetragenen Halters mit dem Halter, auf den sich eine neue Mitteilung bezieht, dürfen die Datenbestände des Fahreignungsregisters und des Zentralen Fahrerlaubnisregisters zur Identifizierung dieser Halter verwendet werden. Ist die Feststellung der Identität der betreffenden Halter auf diese Weise nicht möglich, dürfen die auf Anfrage aus den Melderegistern übermittelten Daten zur Behebung der Zweifel verwendet werden. Die Zulässigkeit der Übermittlung durch die Meldebehörden richtet sich nach den Meldegesetzen der Länder. Können die Zweifel an der Identität der betreffenden Halter nicht ausgeräumt werden, werden die Eintragungen über beide Halter mit einem Hinweis auf die Zweifel an deren Identität versehen.
 
-(2) Die nach § 33 im Zentralen Fahrzeugregister gespeicherten Daten dürfen den Zulassungsbehörden übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen in deren Register festzustellen und zu beseitigen und um diese örtlichen Register zu vervollständigen. Die nach § 33 im örtlichen Fahrzeugregister gespeicherten Daten dürfen dem Kraftfahrt-Bundesamt übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen im Zentralen Fahrzeugregister festzustellen und zu beseitigen sowie das Zentrale Fahrzeugregister zu vervollständigen. Die Übermittlung nach Satz 1 oder 2 ist nur zulässig, wenn Anlass zu der Annahme besteht, dass die Register unrichtig oder unvollständig sind.
+(2) Die nach § 33 im Zentralen Fahrzeugregister gespeicherten Daten dürfen den Zulassungsbehörden übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen in deren Register festzustellen und zu beseitigen und um diese örtlichen Register zu vervollständigen. Die nach § 33 im örtlichen Fahrzeugregister gespeicherten Daten dürfen dem Kraftfahrt-Bundesamt übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen im Zentralen Fahrzeugregister festzustellen und zu beseitigen sowie das Zentrale Fahrzeugregister zu vervollständigen. Die nach § 33 im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Daten dürfen an die Versicherer im Sinne des § 34 Absatz 5 übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen im örtlichen oder im Zentralen Fahrzeugregister festzustellen und zu beseitigen sowie um diese Register zu vervollständigen. Die nach § 33 im Zentralen Fahrzeugregister gespeicherten Daten dürfen an die Technischen Prüfstellen, die amtlich anerkannten Überwachungsorganisationen und die anerkannten Kraftfahrzeugwerkstätten, soweit diese Werkstätten Sicherheitsprüfungen durchführen, sowie an ihre jeweiligen Kopfstellen im Sinne des § 34 Absatz 6 übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen im Zentralen Fahrzeugregister festzustellen und zu beseitigen sowie um dieses Register zu vervollständigen. Die Übermittlung nach den Sätzen 1 bis 4 ist nur zulässig, wenn Anlass zu der Annahme besteht, dass die Register unrichtig oder unvollständig sind.
 
 (3) Die nach § 33 im Zentralen Fahrzeugregister oder im zuständigen örtlichen Fahrzeugregister gespeicherten Halter- und Fahrzeugdaten dürfen der für die Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörde übermittelt werden, soweit dies für Maßnahmen zur Durchführung des Kraftfahrzeugsteuerrechts erforderlich ist, um Fehler und Abweichungen in den Datenbeständen der für die Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörden festzustellen und zu beseitigen und um diese Datenbestände zu vervollständigen. Die Übermittlung nach Satz 1 ist nur zulässig, wenn Anlass zu der Annahme besteht, dass die Datenbestände unrichtig oder unvollständig sind.
 
 # § 43 – Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger
 
-(1) Übermittlungen von Daten aus den Fahrzeugregistern sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
+(1) Übermittlungen von Daten aus den Fahrzeugregistern sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht. Begründet sich der besondere Anlass nach Satz 4 in Zweifeln an der Identität einer Person, auf die sich ein Ersuchen auf Datenübermittlung bezieht, gilt § 42 Absatz 1 Satz 1 bis 3 entsprechend.
 
 (2) Der Empfänger darf die übermittelten Daten nur zu dem Zweck verarbeiten, zu dessen Erfüllung sie ihm übermittelt worden sind. Der Empfänger darf die übermittelten Daten auch für andere Zwecke verarbeiten, soweit sie ihm auch für diese Zwecke hätten übermittelt werden dürfen. Ist der Empfänger eine nichtöffentliche Stelle, hat die übermittelnde Stelle ihn darauf hinzuweisen. Eine Verarbeitung für andere Zwecke durch nichtöffentliche Stellen bedarf der Zustimmung der übermittelnden Stelle.
 
@@ -1975,7 +2007,7 @@ Auf die Verarbeitung von Daten, die keinen Bezug zu einer bestimmten oder bestim
 
 (weggefallen)
 
-# § 47 – Ermächtigungsgrundlagen, Ausführungsvorschriften
+# § 47 – Verordnungsermächtigungen, Ausführungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen
 
@@ -2137,7 +2169,7 @@ Für die Übermittlung und Verwendung der nach § 50 gespeicherten Daten für wi
 
 # § 58 – Auskunft über eigene Daten aus den Registern
 
-Einer Privatperson wird auf Antrag schriftlich über den sie betreffenden Inhalt des örtlichen oder des Zentralen Fahrerlaubnisregisters unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird. Hinsichtlich der Protokollierung gilt § 53 Absatz 3 entsprechend.
+Einer Privatperson wird auf Antrag schriftlich über den sie betreffenden Inhalt des örtlichen oder des Zentralen Fahrerlaubnisregisters unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen und den Antrag, wenn er schriftlich gestellt wird, eigenhändig zu unterschreiben. Die Auskunft kann elektronisch erteilt werden, wenn der Antrag unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes gestellt wird. Hinsichtlich der Protokollierung gilt § 53 Absatz 3 entsprechend.
 
 # § 59 – Datenabgleich zur Beseitigung von Fehlern
 
@@ -2149,7 +2181,7 @@ Einer Privatperson wird auf Antrag schriftlich über den sie betreffenden Inhalt
 
 # § 60 – Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger
 
-(1) Übermittlungen von Daten aus den Fahrerlaubnisregistern sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
+(1) Übermittlungen von Daten aus den Fahrerlaubnisregistern sind nur auf Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift wird bestimmt, dass die Registerbehörde bestimmte Daten von Amts wegen zu übermitteln hat. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Empfängers, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht. Begründet sich der besondere Anlass nach Satz 4 in Zweifeln an der Identität einer Person, auf die sich ein Ersuchen auf Datenübermittlung bezieht, gilt § 59 Absatz 1 Satz 1 bis 3 entsprechend.
 
 (2) Für die Verarbeitung der Daten durch den Empfänger gilt § 43 Abs. 2.
 
@@ -2185,7 +2217,7 @@ Auskunft erteilt werden.
 
 (4) Im Übrigen finden die Vorschriften dieses Abschnitts mit Ausnahme der §§ 53 und 56 sinngemäß Anwendung. Durch Rechtsverordnung gemäß § 63 Nummer 9 können Abweichungen von den Vorschriften dieses Abschnitts zugelassen werden, soweit dies zur Erfüllung der hoheitlichen Aufgaben erforderlich ist.
 
-# § 63 – Ermächtigungsgrundlagen, Ausführungsvorschriften
+# § 63 – Verordnungsermächtigungen, Ausführungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen
 
@@ -2223,7 +2255,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (5) Im Zusammenhang mit einem in § 7 Absatz 1 geregelten Ereignis können die gemäß Absatz 1 gespeicherten Daten in anonymisierter Form zu Zwecken der Unfallforschung an Dritte übermittelt werden.
 
-# § 63b – Ermächtigungsgrundlagen
+# § 63b – Verordnungsermächtigungen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Benehmen mit der Beauftragten für den Datenschutz und die Informationsfreiheit, zur Durchführung von § 63a Rechtsverordnungen zu erlassen über
 
@@ -2265,6 +2297,108 @@ Alle Daten sind von der in Absatz 1 genannten Behörde, sofern sie nach den vorg
 
 (6) Sonstige Regelungen über die Überprüfung der Einhaltung des Straßenverkehrsrechts, insbesondere des Landesrechts, bleiben unberührt.
 
+# § 63d – Informationen an die Halter
+
+Das Kraftfahrt-Bundesamt darf die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur zu den in § 32 Absatz 3 genannten Zwecken verwenden und im Einzelfall schriftliche Informationen an die Fahrzeughalter übermitteln, um sie über Maßnahmen im Sinne des § 32 Absatz 3 zu informieren. Das Bundesministerium für Verkehr und digitale Infrastruktur erteilt sein Einvernehmen nach Satz 1, wenn es die jeweilige Maßnahme für geeignet hält, die in § 32 Absatz 3 Nummer 2 genannten Zwecke unter Berücksichtigung der Umstände des Einzelfalls und unter Abwägung dieser Zwecke mit den Interessen der betroffenen Fahrzeughalter angemessen zu fördern. Die Eignung der angemessenen Zweckförderung wird bei staatlich geförderten Maßnahmen vermutet, so dass das Einvernehmen ohne nähere Prüfung erteilt werden darf.
+
+# § 63e – Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement
+
+(1) Der jeweils zuständige Straßenbaulastträger oder die abweichend hiervon nach Landesrecht für das Verkehrsmanagement zuständige Behörde darf folgende Daten, soweit sie von Kraftfahrzeugen regelmäßig oder ereignisbezogen auf elektronischem Weg erhoben werden und soweit sie aus diesen Fahrzeugen an andere Kraftfahrzeuge oder an die informationstechnische Straßeninfrastruktur automatisiert versenden werden, zum Zweck des Verkehrsmanagements erheben, speichern und verwenden:
+
+1. Position des Fahrzeugs,
+
+2. Zeitangabe,
+
+3. Fahrtrichtung,
+
+4. Geschwindigkeit,
+
+5. Beschleunigung oder Verzögerung,
+
+6. Lenkwinkel,
+
+7. Lenkradwinkel,
+
+8. Fahrzeugbreite,
+
+9. Fahrzeuglänge,
+
+10. Status der Fahrzeugbeleuchtungseinrichtungen und der Scheibenwischer,
+
+11. Drehbewegung um die Fahrzeughochachse,
+
+12. Fahrzeugcharakteristik: Pkw, Lkw, Krad, öffentliches Verkehrsmittel, Fahrzeug mit Sonderrechten oder Fahrzeug des öffentlichen Personennahverkehrs,
+
+13. plötzlich eintretende Ereignisse mit Sicherheitsrelevanz, auf Grund derer ereignisbasierte Fahrzeugmeldungen generiert werden: Stauende, Notbremsung, vorübergehend rutschige Fahrbahn, Tiere, Personen, Hindernisse, Gegenstände auf der Fahrbahn, ungesicherte Unfallstellen, Kurzzeitbaustellen, eingeschränkte Sicht, Falschfahrer, nicht ausgeschilderte Straßenblockierungen oder außergewöhnliche Witterungsbedingungen, sowie
+
+14. ZertifikatsID der in den Nummern 1 bis 13 genannten Daten.
+
+(2) Verkehrsmanagement im Sinne dieser Vorschrift ist
+
+1. die Erfassung der Verkehrsstärke und der sonstigen Verkehrssituation einschließlich sicherheitsrelevanter Umfeldsituationen anhand
+
+a) der Anzahl der Fahrzeuge,
+
+b) der Fahrzeuggeschwindigkeit,
+
+c) der Art und Maße des Fahrzeugs,
+
+d) der Lenkung, des Beleuchtungs- und des Scheibenwischerstatus des Fahrzeugs,
+
+e) der zum Durchfahren eines bestimmten Abschnitts erforderlichen Zeit (Reisezeit),
+
+f) abrupter Fahrzeugverzögerungen und
+
+g) des Liegenbleibens von Fahrzeugen auf der Fahrbahn sowie
+
+2. die unverzügliche statistische Auswertung der erfassten Daten zum Zwecke der Verkehrslenkung sowie der Verbesserung des Verkehrsflusses und der Verkehrssicherheit.
+
+Die Verarbeitung der Daten zu anderen Zwecken ist unzulässig.
+
+(3) Der jeweils für das Verkehrsmanagement zuständige Straßenbaulastträger oder die abweichend hiervon nach Landesrecht für das Verkehrsmanagement zuständige Behörde hat die in Absatz 1 genannten Daten zu dem in Absatz 2 genannten Zweck
+
+1. unverzüglich hinsichtlich Vollständigkeit und Mehrfachempfang zu prüfen und unbrauchbar unvollständige Datensätze oder mehr als einmal empfangene Datensätze bis auf den zuerst empfangenen Datensatz vor Beginn der Auswertung automatisiert zu löschen,
+
+2. vor Beginn der Auswertung durch unverzügliche Löschung des Datums nach Absatz 1 Nummer 14 zu anonymisieren, dies gilt nicht im Fall der Auswertung von Reisezeiten zur Optimierung der Netzsteuerung, und
+
+3. nach vollzogener Anonymisierung gemäß Nummer 2 unverzüglich auszuwerten.
+
+(4) Nach der Auswertung sind die in Absatz 1 genannten Daten unverzüglich zu löschen. Das Erstellen von Verkehrsstatistiken gilt als Auswertung.
+
+# § 63f – Verkehrsunfallforschung, Verordnungsermächtigung
+
+(1) Die Bundesanstalt für Straßenwesen darf zum Zweck der Verkehrsunfallforschung die folgenden personenbezogenen Daten der Unfallbeteiligten, der Mitfahrer zum Unfallzeitpunkt und der sonstigen Verletzten nach Maßgabe der Absätze 2 und 3 sowie nach näherer Bestimmung durch Rechtsverordnung nach Absatz 4 Nummer 2 erheben, übermitteln, speichern und verwenden:
+
+1. Vornamen, Name, Anschrift, Telefonnummern, Geburtsdatum, Erreichbarkeit in einer medizinischen Versorgungseinrichtung,
+
+2. Geschlecht, Familienstand, Nationalität,
+
+3. folgende Gesundheitsdaten der Verletzten, soweit sie unfallrelevant sind: Körpergröße, Körpergewicht, Statur und Medikation zum Unfallzeitpunkt, Vorerkrankungen, Art und Schwere der erlittenen Einzelverletzungen und deren Folgen, Art und Durchführung der Behandlung,
+
+4. Einfluss von Medikamenten, Alkohol und anderen berauschenden Mitteln auf Unfallbeteiligte zum Unfallzeitpunkt,
+
+5. Art der Verkehrsbeteiligung, Position im oder auf dem Fahrzeug, Bekleidung, Körpergröße, Körpergewicht und Statur zum Unfallzeitpunkt,
+
+6. amtliches Kennzeichen und Fahrzeugidentifikationsnummer der beteiligten Fahrzeuge,
+
+7. polizeiliche Verkehrsunfallanzeigen, Unfallgutachten von Sachverständigen.
+
+(2) Eine Erhebung, Übermittlung, Speicherung und Verwendung personenbezogener Straßenverkehrs- und Unfalldaten nach Absatz 1 ist nur zulässig,
+
+1. soweit dies zur Erfüllung des in Absatz 1 genannten Zwecks erforderlich ist und
+
+2. soweit eine Einwilligung der betroffenen Person gemäß Artikel 4 Nummer 11 der Verordnung (EU) 2016/679 vorliegt.
+
+Die Bundesanstalt für Straßenwesen darf die personenbezogenen Daten nach Absatz 1 Nummer 1 der jeweils betroffenen Person und die amtlichen Kennzeichen der beteiligten Fahrzeuge zunächst ohne Einwilligung bei der Stelle, die den Unfall aufgenommen hat, erheben sowie die erhobenen Daten speichern und verwenden, um die Einwilligung nach Satz 1 Nummer 2 einzuholen. Wird die Einwilligung nicht innerhalb von drei Monaten erteilt oder wird die Einwilligung verweigert, so hat die Bundesanstalt für Straßenwesen die personenbezogenen Daten der betroffenen Person unverzüglich zu löschen.
+
+(3) Die personenbezogenen Daten nach Absatz 1 dürfen von der Bundesanstalt für Straßenwesen ausschließlich für den in Absatz 1 genannten Zweck verarbeitet werden und nur zum Zweck der Erhebung weiterer Daten nach Absatz 1 übermittelt werden. Sie sind unverzüglich nach Erreichen des Erhebungsumfangs in der Unfallakte oder nach sonstiger Beendigung der Erhebung zu anonymisieren. Eine Verarbeitung der personenbezogenen Daten durch Dritte zu anderen Zwecken oder eine Beschlagnahme dieser Daten bei der Bundesanstalt für Straßenwesen nach anderen Rechtsvorschriften ist unzulässig.
+
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen zu erlassen über die Verarbeitung von Straßenverkehrs- und Unfalldaten durch die Bundesanstalt für Straßenwesen zum Zweck der Verkehrsunfallforschung, insbesondere über
+
+1. die Art und den Umfang der zu verarbeitenden nichtpersonenbezogenen Daten und
+
+2. die näheren technischen Bestimmungen der Art und Weise der Erhebung und der sonstigen Verarbeitung der personenbezogenen Daten nach Absatz 1.
+
 # § 64 – Gemeinsame Vorschriften
 
 (1) Die Meldebehörden haben dem Kraftfahrt-Bundesamt bei der Änderung des Geburtsnamens oder des Vornamens einer Person, die das 14. Lebensjahr vollendet hat, für den in Satz 2 genannten Zweck neben dem bisherigen Namen folgende weitere Daten zu übermitteln:
@@ -2288,6 +2422,8 @@ Alle Daten sind von der in Absatz 1 genannten Behörde, sofern sie nach den vorg
 Enthält das Fahreignungsregister oder das Zentrale Fahrerlaubnisregister eine Eintragung über diese Person, so ist der neue Name bei der Eintragung zu vermerken. Eine Mitteilung nach Satz 1 darf nur für den in Satz 2 genannten Zweck verwendet werden. Enthalten die Register keine Eintragung über diese Person, ist die Mitteilung vom Kraftfahrt-Bundesamt unverzüglich zu vernichten.
 
 (2) Unbeschadet anderer landesrechtlicher Regelungen können durch Landesrecht Aufgaben der Zulassung von Kraftfahrzeugen auf die für das Meldewesen zuständigen Behörden übertragen werden, sofern kein neues Kennzeichen erteilt werden muss oder sich die technischen Daten des Fahrzeugs nicht ändern.
+
+(3) Die Vorschriften der Abschnitte IV bis VI sind für den Zugang zu amtlichen Informationen abschließend.
 
 # § 65 – Übergangsbestimmungen
 
@@ -2315,7 +2451,7 @@ a) für die Berechnung der Tilgungsfrist § 29 Absatz 1 bis 5 in der ab dem 1. M
 
 b) für die Löschung § 29 Absatz 6 in der ab dem 1. Mai 2014 anwendbaren Fassung.
 
-3. Auf Entscheidungen, die bis zum Ablauf des 30. April 2014 begangene Zuwiderhandlungen ahnden und erst ab dem 1. Mai 2014 im Fahreignungsregister gespeichert werden, sind dieses Gesetz und die auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s erlassenen Rechtsverordnungen in der ab dem 1. Mai 2014 geltenden Fassung anzuwenden. Dabei sind § 28 Absatz 3 Nummer 3 Buchstabe a Doppelbuchstabe bb und § 28a in der ab dem 1. Mai 2014 geltenden Fassung mit der Maßgabe anzuwenden, dass jeweils anstelle der dortigen Grenze von sechzig Euro die Grenze von vierzig Euro gilt.
+3. Auf Entscheidungen, die bis zum Ablauf des 30. April 2014 begangene Zuwiderhandlungen ahnden und erst ab dem 1. Mai 2014 im Fahreignungsregister gespeichert werden, sind dieses Gesetz und die auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s in der bis zum 27. Juli 2021 geltenden Fassung erlassenen Rechtsverordnungen in der ab dem 1. Mai 2014 geltenden Fassung anzuwenden. Dabei sind § 28 Absatz 3 Nummer 3 Buchstabe a Doppelbuchstabe bb und § 28a in der ab dem 1. Mai 2014 geltenden Fassung mit der Maßgabe anzuwenden, dass jeweils anstelle der dortigen Grenze von sechzig Euro die Grenze von vierzig Euro gilt.
 
 4. Personen, zu denen bis zum Ablauf des 30. April 2014 im Verkehrszentralregister eine oder mehrere Entscheidungen nach § 28 Absatz 3 Satz 1 Nummer 1 bis 3 in der bis zum Ablauf des 30. April 2014 anwendbaren Fassung gespeichert worden sind, sind wie folgt in das Fahreignungs-Bewertungssystem einzuordnen:
 
@@ -2344,6 +2480,8 @@ e) Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt unverz
 (5) Bis zum Erlass einer Rechtsverordnung nach § 6f Absatz 2, längstens bis zum Ablauf des 31. Juli 2018, gelten die in den Gebührennummern 451 bis 455 der Anlage der Gebührenordnung für Maßnahmen im Straßenverkehr vom 25. Januar 2011 (BGBl. I S. 98), die zuletzt durch Artikel 3 der Verordnung vom 15. September 2015 (BGBl. I S. 1573) geändert worden ist, in der am 6. Dezember 2016 geltenden Fassung festgesetzten Gebühren als Entgelte im Sinne des § 6f Absatz 1. Die Gebührennummern 403 und 451 bis 455 der Anlage der Gebührenordnung für Maßnahmen im Straßenverkehr sind nicht mehr anzuwenden.
 
 (6) Die durch das Gesetz zur Haftung bei Unfällen mit Anhängern und Gespannen im Straßenverkehr vom 10. Juli 2020 (BGBl. I S. 1653) geänderten Vorschriften des Straßenverkehrsgesetzes sind nicht anzuwenden, sofern der Unfall vor dem 17. Juli 2020 eingetreten ist.
+
+(7) Ordnungswidrigkeiten nach § 23 in der bis zum Ablauf des 27. Juli 2021 geltenden Fassung können abweichend von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden Bestimmungen geahndet werden.
 
 # § 66 – Verkündung von Rechtsverordnungen
 

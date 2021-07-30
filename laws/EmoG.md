@@ -59,7 +59,7 @@ verfügt,
 
 4. im Hinblick auf das Erheben von Gebühren für das Parken auf öffentlichen Straßen oder Wegen.
 
-(5) In Rechtsverordnungen nach § 6 Absatz 1 des Straßenverkehrsgesetzes können
+(5) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können
 
 1. die Bevorrechtigungen näher bestimmt werden,
 
@@ -67,7 +67,7 @@ verfügt,
 
 3. die erforderlichen straßenverkehrsrechtlichen Anordnungen, insbesondere Verkehrszeichen und Verkehrseinrichtungen, bestimmt werden.
 
-Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 3 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
+Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
 
 (6) In Rechtsverordnungen nach § 6a Absatz 6 Satz 2, auch in Verbindung mit Satz 4, des Straßenverkehrsgesetzes können als Bevorrechtigungen Ermäßigungen der Gebühren oder Befreiungen von der Gebührenpflicht vorgesehen werden.
 
@@ -75,7 +75,7 @@ Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium fü
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt werden, die mit einer deutlich sichtbaren Kennzeichnung versehen sind.
 
-(2) In Rechtsverordnungen nach § 6 Absatz 1 Nummer 2 des Straßenverkehrsgesetzes können die Art und Weise der Kennzeichnung im Sinne des Absatzes 1 näher bestimmt werden, insbesondere können
+(2) In Rechtsverordnungen nach § 6 Absatz 1 Satz 1 Nummer 6 oder 11 des Straßenverkehrsgesetzes können die Art und Weise der Kennzeichnung im Sinne des Absatzes 1 näher bestimmt werden, insbesondere können
 
 1. die für das Erteilen der Kennzeichnung erforderlichen Angaben,
 
@@ -83,7 +83,7 @@ Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium fü
 
 3. das Verfahren für das Erteilen der Kennzeichnung
 
-geregelt werden. In Rechtsverordnungen nach Satz 1 kann die Kennzeichnung im Inland gehaltener Fahrzeuge durch das Zuteilen eines für den Betrieb des Fahrzeuges auf öffentlichen Straßen erforderlichen Kennzeichens geregelt werden. Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 3 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen mit Regelungen nach Satz 1 nicht anzuwenden.
+geregelt werden. In Rechtsverordnungen nach Satz 1 kann die Kennzeichnung im Inland gehaltener Fahrzeuge durch das Zuteilen eines für den Betrieb des Fahrzeuges auf öffentlichen Straßen erforderlichen Kennzeichens geregelt werden. Rechtsverordnungen mit Regelungen nach Satz 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen mit Regelungen nach Satz 1 nicht anzuwenden.
 
 (3) Für individuell zurechenbare öffentliche Leistungen nach Absatz 1 in Verbindung mit Rechtsverordnungen nach Absatz 2 werden Gebühren und Auslagen erhoben. § 6a Absatz 2 bis 5 und 8 des Straßenverkehrsgesetzes gilt entsprechend.
 

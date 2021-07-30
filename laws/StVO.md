@@ -1219,7 +1219,7 @@ Wer Verkehrsvorschriften nicht beachtet, ist auf Vorladung der Straßenverkehrsb
 
 # § 49 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig gegen eine Vorschrift über
+(1) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig gegen eine Vorschrift über
 
 1. das allgemeine Verhalten im Straßenverkehr nach § 1 Absatz 2,
 
@@ -1297,7 +1297,7 @@ c) auf Brücken nach § 27 Absatz 6,
 
 verstößt.
 
-(2) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt auch, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt auch, wer vorsätzlich oder fahrlässig
 
 1. als Führer eines geschlossenen Verbandes entgegen § 27 Absatz 5 nicht dafür sorgt, dass die für geschlossene Verbände geltenden Vorschriften befolgt werden,
 
@@ -1315,7 +1315,7 @@ verstößt.
 
 7. entgegen § 29 Absatz 3 ein dort genanntes Fahrzeug oder einen Zug führt.
 
-(3) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig
+(3) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt ferner, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 36 Absatz 1 bis 4 ein Zeichen oder eine Weisung oder entgegen Absatz 5 Satz 4 ein Haltgebot oder eine Anweisung eines Polizeibeamten nicht befolgt,
 
@@ -1331,7 +1331,7 @@ verstößt.
 
 7. einer den Verkehr verbietenden oder beschränkenden Anordnung, die nach § 45 Absatz 4 zweiter Halbsatz bekannt gegeben worden ist, zuwiderhandelt.
 
-(4) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt schließlich, wer vorsätzlich oder fahrlässig
+(4) Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt schließlich, wer vorsätzlich oder fahrlässig
 
 1. dem Verbot des § 35 Absatz 6 Satz 1, 2 oder 3 über die Reinigung von Gehwegen zuwiderhandelt,
 

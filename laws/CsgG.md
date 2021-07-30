@@ -27,7 +27,7 @@ Im Sinne dieses Gesetzes ist
 
 2. im Hinblick auf das Erheben von Gebühren für das Parken auf öffentlichen Straßen oder Wegen.
 
-(3) In Rechtsverordnungen nach § 6 Absatz 1 des Straßenverkehrsgesetzes können
+(3) In Rechtsverordnungen nach § 6 Absatz 1, auch in Verbindung mit Absatz 3, des Straßenverkehrsgesetzes können
 
 1. die Bevorrechtigungen näher bestimmt werden,
 
@@ -37,7 +37,7 @@ Im Sinne dieses Gesetzes ist
 
 4. die Einzelheiten zur Regelung des Verkehrs zu Gunsten von Fahrzeugen eines oder mehrerer bestimmter Carsharinganbieter, die ein stationsbasiertes Angebot zur Verfügung stellen, festgelegt werden, soweit der jeweilige Carsharinganbieter im Rahmen der wegerechtlichen Vorschriften zur Sondernutzung des öffentlichen Straßenraums berechtigt ist.
 
-Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 3 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
+Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf eine Rechtsverordnung mit Regelungen nach Satz 1 nicht anzuwenden.
 
 (4) In Rechtsverordnungen nach § 6a Absatz 6 Satz 2, auch in Verbindung mit Satz 4, des Straßenverkehrsgesetzes können als Bevorrechtigungen Ermäßigungen oder Befreiungen von der Gebührenpflicht vorgesehen werden.
 
@@ -45,7 +45,7 @@ Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesminis
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt werden, die mit einer deutlich sichtbaren Kennzeichnung als Carsharingfahrzeug versehen sind.
 
-(2) In einer Rechtsverordnung nach § 6 Absatz 1 Nummer 3 des Straßenverkehrsgesetzes können das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam
+(2) In einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 2 oder 9 Buchstabe c des Straßenverkehrsgesetzes können das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam
 
 1. die Art und Weise der Kennzeichnung im Sinne des Absatzes 1,
 
@@ -53,7 +53,7 @@ Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesminis
 
 3. das Verfahren für das Erteilen der Kennzeichnung
 
-näher bestimmen. Das Verfahren kann auch über eine einheitliche Stelle nach § 71a des Verwaltungsverfahrensgesetzes abgewickelt werden. § 6 Absatz 3 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen nach Satz 1 nicht anzuwenden.
+näher bestimmen. Das Verfahren kann auch über eine einheitliche Stelle nach § 71a des Verwaltungsverfahrensgesetzes abgewickelt werden. § 6 Absatz 7 des Straßenverkehrsgesetzes ist auf Rechtsverordnungen nach Satz 1 nicht anzuwenden.
 
 (3) Für individuell zurechenbare öffentliche Leistungen nach Absatz 1 in Verbindung mit Rechtsverordnungen nach Absatz 2 werden Gebühren und Auslagen erhoben. § 6a Absatz 2 bis 5 und 8 des Straßenverkehrsgesetzes gilt entsprechend.
 

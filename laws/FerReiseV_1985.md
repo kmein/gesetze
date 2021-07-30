@@ -110,7 +110,7 @@ d) leichtverderblichem Obst und Gemüse,
 
 # § 5
 
-Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 ein Kraftfahrzeug führt oder das Führen eines Kraftfahrzeugs zuläßt oder
 
