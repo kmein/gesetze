@@ -101,6 +101,8 @@ Eingangsformel Kursivdruck: Müsste richtig "(BGBl. I S. 1336), von denen § 6a"
 
 (6) Die für die Erhebung der Gebühren zuständige Stelle kann Körperbehinderten aus Billigkeitsgründen Gebührenermäßigung oder Gebührenbefreiung für Amtshandlungen, Prüfungen oder Untersuchungen gewähren, die wegen der Behinderung erforderlich werden.
 
+(7) Von der Zahlung der Gebühren nach der Nummer 141 des Gebührentarifs sind Stellen außerhalb des Geltungsbereichs des Straßenverkehrsgesetzes befreit, soweit sie eine Auskunft auf der Grundlage von § 37 bis § 37c des Straßenverkehrsgesetzes erhalten.
+
 # § 6 – Übergangs- und Anwendungsbestimmungen
 
 (1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung, die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der Kostengläubiger- und Kostenschuldnerschaft enthalten.

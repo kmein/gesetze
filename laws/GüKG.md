@@ -541,7 +541,7 @@ Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 2c. (weggefallen)
 
-3. § 24 des Straßenverkehrsgesetzes, die nach dem auf Grund des § 26a des Straßenverkehrsgesetzes erlassenen Bußgeldkatalog in der Regel mit Geldbußen von mindestens sechzig Euro geahndet werden,
+3. § 24 Absatz 1 des Straßenverkehrsgesetzes, die nach dem auf Grund des § 26a des Straßenverkehrsgesetzes erlassenen Bußgeldkatalog in der Regel mit Geldbußen von mindestens sechzig Euro geahndet werden,
 
 4. § 24a oder § 24c des Straßenverkehrsgesetzes,
 

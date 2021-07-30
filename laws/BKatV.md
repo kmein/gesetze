@@ -7,7 +7,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 # § 1 – Bußgeldkatalog
 
-(1) Bei Ordnungswidrigkeiten nach den §§ 24, 24a und 24c des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
 
 (2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des Bußgeldkatalogs von fahrlässiger und in Abschnitt II des Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
@@ -15,7 +15,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 (1) Die Verwarnung muss mit einem Hinweis auf die Verkehrszuwiderhandlung verbunden sein.
 
-(2) Bei unbedeutenden Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes kommt eine Verwarnung ohne Verwarnungsgeld in Betracht.
+(2) Bei unbedeutenden Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes kommt eine Verwarnung ohne Verwarnungsgeld in Betracht.
 
 (3) Das Verwarnungsgeld wird in Höhe von 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 und 55 Euro erhoben.
 
@@ -57,11 +57,11 @@ des Bußgeldkatalogs anordnet oder zulässt.
 
 (5) Werden durch eine Handlung mehrere Tatbestände des Bußgeldkatalogs verwirklicht, die jeweils einen Bußgeldregelsatz von mehr als 55 Euro vorsehen, so ist nur ein Regelsatz anzuwenden; bei unterschiedlichen Regelsätzen ist der höchste anzuwenden. Der Regelsatz kann angemessen erhöht werden.
 
-(6) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
+(6) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
 
 # § 4 – Regelfahrverbot
 
-(1) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25 Absatz 1 Satz 1 des Straßenverkehrsgesetzes) wegen grober Verletzung der Pflichten eines Kraftfahrzeugführers in der Regel in Betracht, wenn ein Tatbestand
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25 Absatz 1 Satz 1 des Straßenverkehrsgesetzes) wegen grober Verletzung der Pflichten eines Kraftfahrzeugführers in der Regel in Betracht, wenn ein Tatbestand
 
 1. der Nummern 9.1 bis 9.3, der Nummern 11.1 bis 11.3, jeweils in Verbindung mit Tabelle 1 des Anhangs,
 
