@@ -57,6 +57,268 @@ Der Hersteller eines solchen Kraftfahrzeugs hat in der Systembeschreibung verbin
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen in Artikel 1 des Gesetzes vom 16. Juni 2017 (BGBl. I S. 1648) nach Ablauf des Jahres 2019 auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
+# § 1d – Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
+
+(1) Ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist ein Kraftfahrzeug, das
+
+1. die Fahraufgabe ohne eine fahrzeugführende Person selbstständig in einem festgelegten Betriebsbereich erfüllen kann und
+
+2. über eine technische Ausrüstung gemäß § 1e Absatz 2 verfügt.
+
+(2) Ein festgelegter Betriebsbereich im Sinne dieses Gesetzes bezeichnet den örtlich und räumlich bestimmten öffentlichen Straßenraum, in dem ein Kraftfahrzeug mit autonomer Fahrfunktion bei Vorliegen der Voraussetzungen gemäß § 1e Absatz 1 betrieben werden darf.
+
+(3) Technische Aufsicht eines Kraftfahrzeugs mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist diejenige natürliche Person, die dieses Kraftfahrzeug während des Betriebs gemäß § 1e Absatz 2 Nummer 8 deaktivieren und für dieses Kraftfahrzeug gemäß § 1e Absatz 2 Nummer 4 und Absatz 3 Fahrmanöver freigeben kann.
+
+(4) Risikominimaler Zustand im Sinne dieses Gesetzes ist ein Zustand, in dem sich das Kraftfahrzeug mit autonomer Fahrfunktion auf eigene Veranlassung oder auf Veranlassung der Technischen Aufsicht an einer möglichst sicheren Stelle in den Stillstand versetzt und die Warnblinkanlage aktiviert, um unter angemessener Beachtung der Verkehrssituation die größtmögliche Sicherheit für die Fahrzeuginsassen, andere Verkehrsteilnehmende und Dritte zu gewährleisten.
+
+# § 1e – Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion; Widerspruch und Anfechtungsklage
+
+(1) Der Betrieb eines Kraftfahrzeugs mittels autonomer Fahrfunktion ist zulässig, wenn
+
+1. das Kraftfahrzeug den technischen Voraussetzungen gemäß Absatz 2 entspricht,
+
+2. für das Kraftfahrzeug eine Betriebserlaubnis nach Absatz 4 erteilt worden ist,
+
+3. das Kraftfahrzeug in einem von der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, von der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes genehmigten, festgelegten Betriebsbereich eingesetzt wird und
+
+4. das Kraftfahrzeug zur Teilnahme am öffentlichen Straßenverkehr gemäß § 1 Absatz 1 zugelassen ist.
+
+Ein Betrieb eines Kraftfahrzeugs gemäß § 1h und die Zulassung im Übrigen gemäß § 1 Absatz 1 bleiben hiervon unberührt.
+
+(2) Kraftfahrzeuge mit autonomer Fahrfunktion müssen über eine technische Ausrüstung verfügen, die in der Lage ist,
+
+1. die Fahraufgabe innerhalb des jeweiligen festgelegten Betriebsbereichs selbstständig zu bewältigen, ohne dass eine fahrzeugführende Person in die Steuerung eingreift oder die Fahrt des Kraftfahrzeugs permanent von der Technischen Aufsicht überwacht wird,
+
+2. selbstständig den an die Fahrzeugführung gerichteten Verkehrsvorschriften zu entsprechen und die über ein System der Unfallvermeidung verfügt, das
+
+a) auf Schadensvermeidung und Schadensreduzierung ausgelegt ist,
+
+b) bei einer unvermeidbaren alternativen Schädigung unterschiedlicher Rechtsgüter die Bedeutung der Rechtsgüter berücksichtigt, wobei der Schutz menschlichen Lebens die höchste Priorität besitzt, und
+
+c) für den Fall einer unvermeidbaren alternativen Gefährdung von Menschenleben keine weitere Gewichtung anhand persönlicher Merkmale vorsieht,
+
+3. das Kraftfahrzeug selbstständig in einen risikominimalen Zustand zu versetzen, wenn die Fortsetzung der Fahrt nur durch eine Verletzung des Straßenverkehrsrechts möglich wäre,
+
+4. im Fall der Nummer 3 der Technischen Aufsicht selbstständig
+
+a) mögliche Fahrmanöver zur Fortsetzung der Fahrt vorzuschlagen sowie
+
+b) Daten zur Beurteilung der Situation zu liefern, damit die Technische Aufsicht über eine Freigabe des vorgeschlagenen Fahrmanövers entscheiden kann,
+
+5. ein von der Technischen Aufsicht vorgegebenes Fahrmanöver zu überprüfen und dieses nicht auszuführen, sondern das Kraftfahrzeug selbstständig in einen risikominimalen Zustand zu versetzen, wenn das Fahrmanöver am Verkehr teilnehmende oder unbeteiligte Personen gefährden würde,
+
+6. eine Beeinträchtigung ihrer Funktionalität der Technischen Aufsicht unverzüglich anzuzeigen,
+
+7. ihre Systemgrenzen zu erkennen und beim Erreichen einer Systemgrenze, beim Auftreten einer technischen Störung, die die Ausübung der autonomen Fahrfunktion beeinträchtigt, oder beim Erreichen der Grenzen des festgelegten Betriebsbereichs das Kraftfahrzeug selbstständig in einen risikominimalen Zustand zu versetzen,
+
+8. jederzeit durch die Technische Aufsicht oder durch Fahrzeuginsassen deaktiviert zu werden und im Falle einer Deaktivierung das Kraftfahrzeug selbstständig in den risikominimalen Zustand zu versetzen,
+
+9. der Technischen Aufsicht das Erfordernis der Freischaltung eines alternativen Fahrmanövers, der Deaktivierung mit ausreichender Zeitreserve sowie Signale zum eigenen Funktionsstatus optisch, akustisch oder sonst wahrnehmbar anzuzeigen und
+
+10. ausreichend stabile und vor unautorisierten Eingriffen geschützte Funkverbindungen, insbesondere zur Technischen Aufsicht, sicherzustellen und das Kraftfahrzeug selbstständig in einen risikominimalen Zustand zu versetzen, wenn diese Funkverbindung abbricht oder darauf unerlaubt zugegriffen wird.
+
+(3) Zur Erfüllung der Anforderungen nach Absatz 2 Nummer 1 bis 4 ist es im Falle sonstiger Beeinträchtigungen, die dazu führen, dass die technische Ausrüstung die Fahraufgabe nicht selbstständig bewältigen kann, auch ausreichend, wenn
+
+1. die technische Ausrüstung in der Lage ist sicherzustellen, dass alternative Fahrmanöver durch die Technische Aufsicht vorgegeben werden können,
+
+2. die alternativen Fahrmanöver gemäß Nummer 1 durch die technische Ausrüstung selbstständig ausgeführt werden und
+
+3. die technische Ausrüstung in der Lage ist, die Technische Aufsicht mit ausreichender Zeitreserve optisch, akustisch oder sonst wahrnehmbar zur Vorgabe eines Fahrmanövers aufzufordern.
+
+(4) Liegen die technischen Voraussetzungen gemäß Absatz 2 und die Erklärung des Herstellers nach § 1f Absatz 3 Nummer 4 vor, erteilt das Kraftfahrt-Bundesamt auf Antrag des Herstellers eine Betriebserlaubnis für ein Kraftfahrzeug mit autonomer Fahrfunktion. Laufende Genehmigungsverfahren, die sachlich unter § 1d bis § 1g fallen und in denen der Antrag auf Erteilung einer Betriebserlaubnis inklusive einer Ausnahmegenehmigung bereits gestellt worden ist, bleiben unberührt.
+
+(5) Widerspruch und Anfechtungsklage gegen den Widerruf oder die Rücknahme einer Betriebserlaubnis für ein Kraftfahrzeug mit autonomer Fahrfunktion haben keine aufschiebende Wirkung.
+
+(6) Widerspruch und Anfechtungsklage gegen den Widerruf oder die Rücknahme einer Genehmigung eines festgelegten Betriebsbereichs haben keine aufschiebende Wirkung.
+
+# § 1f – Pflichten der Beteiligten beim Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion
+
+(1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist zur Erhaltung der Verkehrssicherheit und der Umweltverträglichkeit des Kraftfahrzeugs verpflichtet und hat die hierfür erforderlichen Vorkehrungen zu treffen. Er hat
+
+1. die regelmäßige Wartung der für die autonome Fahrfunktion erforderlichen Systeme sicherzustellen,
+
+2. Vorkehrungen zu treffen, dass die sonstigen, nicht an die Fahrzeugführung gerichteten Verkehrsvorschriften eingehalten werden und
+
+3. zu gewährleisten, dass die Aufgaben der Technischen Aufsicht erfüllt werden.
+
+(2) Die Technische Aufsicht über ein Kraftfahrzeug mit autonomer Fahrfunktion ist verpflichtet,
+
+1. ein alternatives Fahrmanöver nach § 1e Absatz 2 Nummer 4 und Absatz 3 zu bewerten und das Kraftfahrzeug hierfür freizuschalten, sobald ihr ein solches optisch, akustisch oder sonst wahrnehmbar durch das Fahrzeugsystem angezeigt wird, die vom Fahrzeugsystem bereitgestellten Daten ihr eine Beurteilung der Situation ermöglichen und die Durchführung des alternativen Fahrmanövers nicht die Verkehrssicherheit gefährdet,
+
+2. die autonome Fahrfunktion unverzüglich zu deaktivieren, sobald dies optisch, akustisch oder sonst wahrnehmbar durch das Fahrzeugsystem angezeigt wird,
+
+3. Signale der technischen Ausrüstung zum eigenen Funktionsstatus zu bewerten und gegebenenfalls erforderliche Maßnahmen zur Verkehrssicherung einzuleiten und
+
+4. unverzüglich Kontakt mit den Insassen des Kraftfahrzeugs herzustellen und die zur Verkehrssicherung notwendigen Maßnahmen einzuleiten, wenn das Kraftfahrzeug in den risikominimalen Zustand versetzt wird.
+
+(3) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat
+
+1. über den gesamten Entwicklungs- und Betriebszeitraum des Kraftfahrzeugs gegenüber dem Kraftfahrt-Bundesamt und der zuständigen Behörde nachzuweisen, dass die elektronische und elektrische Architektur des Kraftfahrzeugs und die mit dem Kraftfahrzeug in Verbindung stehende elektronische und elektrische Architektur vor Angriffen gesichert ist,
+
+2. eine Risikobeurteilung für das Kraftfahrzeug vorzunehmen und gegenüber dem Kraftfahrt-Bundesamt und der zuständigen Behörde nachzuweisen, wie die Risikobeurteilung durchgeführt wurde und dass kritische Elemente des Kraftfahrzeugs gegen Gefahren, die im Rahmen der Risikobeurteilung festgestellt wurden, geschützt werden,
+
+3. eine für das autonome Fahren ausreichend sichere Funkverbindung nachzuweisen,
+
+4. für jedes Kraftfahrzeug eine Systembeschreibung vorzunehmen, ein Betriebshandbuch zu erstellen und gegenüber dem Kraftfahrt-Bundesamt und im Betriebshandbuch verbindlich zu erklären, dass das Kraftfahrzeug die Voraussetzungen nach § 1e Absatz 2, auch in Verbindung mit Absatz 3, erfüllt,
+
+5. für das Kraftfahrzeug eine Schulung für die am Betrieb beteiligten Personen anzubieten, in der die technische Funktionsweise insbesondere im Hinblick auf die Fahrfunktionen und die Aufgabenwahrnehmung der Technischen Aufsicht vermittelt werden, und
+
+6. sobald er Manipulationen am Kraftfahrzeug oder an dessen elektronischer oder elektrischer Architektur oder an der mit dem Kraftfahrzeug in Verbindung stehenden elektronischen oder elektrischen Architektur erkennt, insbesondere bei einem unerlaubten Zugriff auf die Funkverbindungen des Kraftfahrzeugs, diese unverzüglich dem Kraftfahrt-Bundesamt und der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes mitzuteilen und erforderliche Maßnahmen einzuleiten.
+
+# § 1g – Datenverarbeitung
+
+(1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist verpflichtet, folgende Daten beim Betrieb des Kraftfahrzeugs zu speichern:
+
+1. Fahrzeugidentifizierungsnummer,
+
+2. Positionsdaten,
+
+3. Anzahl und Zeiten der Nutzung sowie der Aktivierung und der Deaktivierung der autonomen Fahrfunktion,
+
+4. Anzahl und Zeiten der Freigabe von alternativen Fahrmanövern,
+
+5. Systemüberwachungsdaten einschließlich Daten zum Softwarestand,
+
+6. Umwelt- und Wetterbedingungen,
+
+7. Vernetzungsparameter wie beispielsweise Übertragungslatenz und verfügbare Bandbreite,
+
+8. Name der aktivierten und deaktivierten passiven und aktiven Sicherheitssysteme, Daten zum Zustand dieser Sicherheitssysteme sowie die Instanz, die das Sicherheitssystem ausgelöst hat,
+
+9. Fahrzeugbeschleunigung in Längs- und Querrichtung,
+
+10. Geschwindigkeit,
+
+11. Status der lichttechnischen Einrichtungen,
+
+12. Spannungsversorgung des Kraftfahrzeugs mit autonomer Fahrfunktion,
+
+13. von extern an das Kraftfahrzeug gesendete Befehle und Informationen.
+
+Der Halter ist verpflichtet, dem Kraftfahrt-Bundesamt und der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes auf Verlangen die Daten nach Satz 1 zu übermitteln, soweit dies erforderlich ist
+
+1. bezüglich des Kraftfahrt-Bundesamts für dessen Aufgabenerfüllung nach den Absätzen 4 und 5 und
+
+2. bezüglich der nach Bundes- oder Landesrecht zuständigen Behörde oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes für deren Aufgabenerfüllung nach Absatz 6.
+
+(2) Die Daten gemäß Absatz 1 sind bei den folgenden Anlässen zu speichern:
+
+1. bei Eingriffen durch die Technische Aufsicht,
+
+2. bei Konfliktszenarien, insbesondere bei Unfällen und Fast-Unfall-Szenarien,
+
+3. bei nicht planmäßigem Spurwechsel oder Ausweichen,
+
+4. bei Störungen im Betriebsablauf.
+
+(3) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat das Fahrzeug so auszustatten, dass die Speicherung der Daten gemäß Absatz 1 und 2 dem Halter tatsächlich möglich ist. Der Hersteller muss den Halter präzise, klar und in leichter Sprache über die Einstellungsmöglichkeiten zur Privatsphäre und zur Verarbeitung der Daten, die beim Betrieb des Kraftfahrzeugs in der autonomen Fahrfunktion verarbeitet werden, informieren. Die diesbezügliche Software des Kraftfahrzeugs muss Wahlmöglichkeiten zur Art und Weise der Speicherung und der Übermittlung der in der autonomen Fahrfunktion verarbeiteten Daten vorsehen und dem Halter entsprechende Einstellungen ermöglichen.
+
+(4) Das Kraftfahrt-Bundesamt ist berechtigt, folgende Daten beim Halter zu erheben, zu speichern und zu verwenden, soweit dies für die Überwachung des sicheren Betriebs des Kraftfahrzeugs mit autonomer Fahrfunktion erforderlich ist:
+
+1. Daten nach Absatz 1 und
+
+2. Vor- und Nachname der als Technische Aufsicht eingesetzten Person sowie Nachweise über ihre fachliche Qualifikation.
+
+Setzt der Halter seinerseits Beschäftigte gemäß § 26 des Bundesdatenschutzgesetzes als Technische Aufsicht ein, findet § 26 des Bundesdatenschutzgesetzes Anwendung. Das Kraftfahrt-Bundesamt hat die Daten unverzüglich zu löschen, sobald sie für die Zwecke nach Satz 1 nicht mehr erforderlich sind, spätestens nach Ablauf von drei Jahren nach Einstellung des Betriebs des entsprechenden Kraftfahrzeugs.
+
+(5) Sofern es sich nicht um ein Kraftfahrzeug im Sinne des § 1k handelt, ist das Kraftfahrt-Bundesamt berechtigt, die nach Absatz 4 Nummer 1 in Verbindung mit Absatz 1 beim Halter erhobenen nicht personenbezogenen Daten für verkehrsbezogene Gemeinwohlzwecke, insbesondere zum Zweck der wissenschaftlichen Forschung im Bereich der Digitalisierung, Automatisierung und Vernetzung sowie zum Zweck der Unfallforschung im Straßenverkehr, folgenden Stellen zugänglich zu machen:
+
+1. Hochschulen und Universitäten,
+
+2. außeruniversitäre Forschungseinrichtungen,
+
+3. Bundes-, Landes- und Kommunalbehörden mit Forschungs-, Entwicklungs-, Verkehrsplanungs- oder Stadtplanungsaufgaben.
+
+Die in Satz 1 genannten Stellen dürfen die Daten ausschließlich für die in Satz 1 genannten Zwecke verwenden. Absatz 4 Satz 2 gilt entsprechend. Allgemeine Übermittlungsvorschriften bleiben unberührt.
+
+(6) Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder Landesrecht zuständigen Behörden oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes sind berechtigt, folgende Daten beim Halter zu erheben, zu speichern und zu verwenden, soweit dies für die Prüfung und Überwachung erforderlich ist, ob der festgelegte Betriebsbereich für den Betrieb des Kraftfahrzeugs mit autonomer Fahrfunktion geeignet ist, insbesondere für die Überprüfung und Überwachung, ob die Voraussetzungen der jeweiligen Genehmigung vorliegen und die damit verbundenen Auflagen eingehalten werden:
+
+1. Daten nach Absatz 1 und
+
+2. Vor- und Nachname der als Technische Aufsicht eingesetzten Person sowie Nachweise über ihre fachliche Qualifikation.
+
+Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder Landesrecht zuständigen Behörden oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes haben diese Daten unverzüglich zu löschen, sobald sie für die Zwecke nach Satz 1 nicht mehr erforderlich sind, spätestens nach Ablauf von drei Jahren nach Einstellung des Betriebs des entsprechenden Kraftfahrzeugs.
+
+(7) Unbeschadet der Absätze 1 bis 6 können Dritte vom Halter Auskunft über die gemäß Absatz 1 und 2 gespeicherten Daten verlangen, soweit diese Daten zur Geltendmachung, Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit einem in § 7 Absatz 1 geregelten Ereignis erforderlich sind und das entsprechende Kraftfahrzeug mit autonomer Fahrfunktion an diesem Ereignis beteiligt war. Die Dritten haben die Daten unverzüglich zu löschen, sobald sie zur Geltendmachung von Rechtsansprüchen nicht mehr erforderlich sind, spätestens mit Verjährung der Ansprüche, für deren Geltendmachung, Befriedigung oder Abwehr die Daten erhoben wurden. Eine Verwendung dieser Daten durch die Dritten ist nur zu den in Satz 1 genannten Zwecken zulässig.
+
+# § 1h – Nachträgliche Aktivierung von automatisierten und autonomen Fahrfunktionen
+
+(1) Ist in einem Kraftfahrzeug eine automatisierte oder autonome Fahrfunktion verbaut, die in internationalen, im Geltungsbereich dieses Gesetzes anzuwendenden Vorschriften nicht beschrieben ist, so ist die Erteilung einer Genehmigung für den Betrieb dieses Kraftfahrzeugs nach den einschlägigen Genehmigungsvorschriften unter Außerachtlassung der automatisierten oder autonomen Fahrfunktion nur zulässig, wenn bei Deaktivierung der automatisierten oder autonomen Fahrfunktion die Einflussnahme dieser Fahrfunktionen auf die genehmigten Systeme ausgeschlossen ist.
+
+(2) Die Aktivierung einer automatisierten oder autonomen Fahrfunktion im Sinne des Absatzes 1 in einem zugelassenen Kraftfahrzeug für den Betrieb dieser Funktionen im öffentlichen Straßenverkehr im Geltungsbereich dieses Gesetzes darf nur auf der Grundlage einer besonderen durch das Kraftfahrt-Bundesamt erteilten Genehmigung erfolgen. Diese Genehmigung darf nur erteilt werden, sofern die Fahrfunktion genehmigungsfähig gemäß § 1a Absatz 3, § 1e Absatz 2 oder anderer einschlägiger Genehmigungsvorschriften ist. Das Kraftfahrt-Bundesamt veröffentlicht die insofern zu beachtenden technischen Anforderungen.
+
+# § 1i – Erprobung von automatisierten und autonomen Fahrfunktionen
+
+(1) Kraftfahrzeuge, die zur Erprobung von Entwicklungsstufen für die Entwicklung automatisierter oder autonomer Fahrfunktionen dienen, dürfen auf öffentlichen Straßen nur betrieben werden, wenn
+
+1. für das Kraftfahrzeug eine Erprobungsgenehmigung durch das Kraftfahrt-Bundesamt nach Absatz 2 erteilt worden ist,
+
+2. das Kraftfahrzeug nach § 1 Absatz 1 zugelassen ist,
+
+3. das Kraftfahrzeug ausschließlich zur Erprobung betrieben wird und
+
+4. das Kraftfahrzeug im Betrieb wie folgt permanent überwacht wird:
+
+a) bei automatisierten Fahrfunktionen erfolgt die Überwachung durch einen in Bezug auf technische Entwicklungen für den Kraftfahrzeugverkehr zuverlässigen Fahrzeugführer,
+
+b) bei autonomen Fahrfunktionen erfolgt die Überwachung durch eine vor Ort anwesende, in Bezug auf technische Entwicklungen für den Kraftfahrzeugverkehr zuverlässige Technische Aufsicht.
+
+(2) Eine Erprobungsgenehmigung gemäß Absatz 1 Nummer 1 wird vom Kraftfahrt-Bundesamt auf Antrag des Halters erteilt. Das Kraftfahrt-Bundesamt kann die Erprobungsgenehmigung jederzeit mit Nebenbestimmungen versehen, die den sicheren Betrieb des Fahrzeugs sicherstellen. Zu Nebenbestimmungen, die den Betrieb auf einen bestimmten Betriebsbereich beschränken, ist die nach Landesrecht zuständige Behörde des örtlich betroffenen Landes anzuhören. Die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes ist anzuhören, soweit der Betriebsbereich Bundesautobahnen oder Bundesstraßen in Bundesverwaltung umfasst oder dies vorgesehen ist.
+
+(3) Das Kraftfahrt-Bundesamt beteiligt das Bundesamt für Sicherheit in der Informationstechnik zu Fragen der Sicherheit in der Informationstechnik bei der Erstellung, Umsetzung und bei der Weiterentwicklung und Bewertung technischer Anforderungen.
+
+(4) Bis sechs Monate nach Inkrafttreten der Regelungen in der auf Grundlage von § 1j Absatz 1 Nummer 7 erlassenen Verordnung gelten die bisherigen straßenverkehrsrechtlichen Vorschriften zur Erprobung, auch für Entwicklungsstufen automatisierter oder autonomer Fahrfunktionen, unverändert fort, sofern nicht bereits von den Regelungen in der auf Grundlage von § 1j Absatz 1 Nummer 7 erlassenen Verordnung Gebrauch gemacht wird.
+
+# § 1j – Verordnungsermächtigung
+
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Zulassung und des Betriebs von Kraftfahrzeugen mit autonomer Fahrfunktion auf öffentlichen Straßen nach den §§ 1d bis 1i zu regeln betreffend
+
+1. die technischen Anforderungen und das Verfahren zur Erteilung einer Betriebserlaubnis gemäß § 1e Absatz 2 bis 4 durch das Kraftfahrt-Bundesamt, einschließlich
+
+a) der vom Hersteller zu beachtenden technischen Anforderungen an den Bau, die Beschaffenheit und die technische Ausrüstung des Kraftfahrzeugs, der vom Hersteller zu beachtenden Anforderungen an die Datenspeicherung, die Sicherheit der eingesetzten Informationstechnik und die funktionale Sicherheit des Kraftfahrzeugs, der vom Hersteller zu beachtenden Anforderungen an die Erklärung gemäß § 1f Absatz 3 Nummer 4 sowie der vom Hersteller zu beachtenden Dokumentationspflichten,
+
+b) der Anforderungen an die Prüfung und Validierung des Kraftfahrzeugs durch das Kraftfahrt-Bundesamt,
+
+c) der Anforderungen an den Betrieb des Kraftfahrzeugs,
+
+d) der Anforderungen an die Begutachtung des Kraftfahrzeugs durch das Kraftfahrt-Bundesamt,
+
+e) der Marktüberwachung einschließlich Vorgaben zur Beteiligung weiterer Behörden bei der Bewertung der informationstechnischen Sicherheit von Kraftfahrzeugen und Fahrzeugteilen sowie der Regelung von Mitwirkungspflichten für Hersteller und Halter von Kraftfahrzeugen mit autonomer Fahrfunktion und
+
+f) der Anerkennung und Bewertung der Wirkungsgleichheit von Erlaubnissen und Genehmigungen von automatisierten und autonomen Kraftfahrzeugen, die in einem anderen Mitgliedstaat der Europäischen Union auf Grundlage der jeweils geltenden nationalen Bestimmungen erteilt worden sind,
+
+2. die Eignung von Betriebsbereichen und das Verfahren für die Bewertung und die Genehmigung von festgelegten Betriebsbereichen durch die nach Bundes- oder Landesrecht zuständigen Behörden oder auf Bundesfernstraßen, soweit dem Bund die Verwaltung zusteht, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes,
+
+3. Besonderheiten des Verfahrens der Zulassung, einschließlich der Kennzeichnung der Kraftfahrzeuge und Fahrzeugteile, um deren Betriebsweisen kenntlich zu machen und um die Verkehrssicherheit zu gewährleisten,
+
+4. Anforderungen an und Pflichten für Hersteller, Halter und die Technische Aufsicht zur Gewährleistung der Verkehrssicherheit und eines sicheren Betriebs, einschließlich von
+
+a) Anforderungen zur Freigabe von Fahrmanövern und zur Deaktivierung eines Kraftfahrzeugs durch die Technische Aufsicht gemäß § 1f Absatz 2 Nummer 1 und 2,
+
+b) technischen und organisatorischen Anforderungen an den Halter und
+
+c) Anforderungen an die fachliche Qualifikation und die Zuverlässigkeit der am Betrieb eines Kraftfahrzeugs mit autonomer Fahrfunktion beteiligten Personen einschließlich der hierfür erforderlichen Nachweise,
+
+5. die technischen Einzelheiten der Speicherung der beim Betrieb des Kraftfahrzeugs mittels der autonomen Fahrfunktion erzeugten Daten nach § 1g Absatz 1, insbesondere über die genauen Zeitpunkte der Datenspeicherungen, die Parameter der Datenkategorien und die Datenformate,
+
+6. das Verfahren zur Erteilung einer Genehmigung bei der nachträglichen Aktivierung von automatisierten und autonomen Fahrfunktionen nach § 1h einschließlich technischer Anforderungen an die Erteilung einer Betriebserlaubnis,
+
+7. die Anforderungen und das Verfahren zur Erteilung einer Erprobungsgenehmigung nach § 1i Absatz 2 durch das Kraftfahrt-Bundesamt, einschließlich weiterer Pflichten des Halters, Ausnahmen von Anforderungen nach diesem Gesetz zu Erprobungszwecken sowie die Befugnis des Kraftfahrt-Bundesamts, Daten, die zur Schaffung einer Datenbasis zur Beurteilung der Sicherheit im Straßenverkehr und des technischen Fortschritts sowie zur evidenzbasierten Entwicklung der Regulierung von Entwicklungsstufen automatisierter oder autonomer Fahrfunktionen erforderlich sind, in anonymisierter Form zu erheben, zu speichern und zu verwenden,
+
+8. Abweichungen von den §§ 1d bis 1i in Bezug auf Kraftfahrzeuge der Bundeswehr, der Bundespolizei, des Bundeskriminalamts, des Bundesnachrichtendienstes, des Zollkriminalamts, des Bundesamts für Verfassungsschutz, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes, der Landespolizei, der Landeskriminalämter, der Landesämter für Verfassungsschutz, des Zivil- und Katastrophenschutzes, der Feuerwehren, der Rettungsdienste und der Straßenbauverwaltungen.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den auf Grundlage des Absatzes 1 erlassenen Rechtsverordnungen zur Erprobung neuartiger Fahrzeugsteuerungseinrichtungen zu regeln. Es wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates diese Ermächtigung auf das Kraftfahrt-Bundesamt zu übertragen.
+
+# § 1k – Ausnahmen
+
+(1) Für Kraftfahrzeuge mit autonomer Fahrfunktion gemäß § 1d Absatz 1, die für militärische, nachrichtendienstliche oder polizeiliche Zwecke, für Zwecke der Zollfahndung, des Zivil- oder Katastrophenschutzes, der Brandbekämpfung, der Straßenbauverwaltung oder der Rettungsdienste bestimmt sind, können das Bundesministerium der Finanzen, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Verteidigung, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundeskanzleramt und die nach Landesrecht zuständigen Behörden Dienststellen in ihren jeweiligen Geschäftsbereichen, das Bundesministerium der Verteidigung Dienststellen der Bundeswehr bestimmen, die die Aufgaben des Kraftfahrt-Bundesamts an dessen Stelle für den jeweiligen Geschäftsbereich wahrnehmen.
+
+(2) Kraftfahrzeuge mit autonomer Fahrfunktion, die in der Bundeswehr, in der Bundespolizei, im Bundeskriminalamt, im Bundesnachrichtendienst, im Bundesamt für Verfassungsschutz, im Zollkriminalamt, in der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes, in der Landespolizei, in den Landeskriminalämtern, in den Landesämtern für Verfassungsschutz, im Zivil- und Katastrophenschutz, in den Feuerwehren, in den Rettungsdiensten oder in den Straßenbauverwaltungen eingesetzt werden, dürfen von den technischen Vorgaben, von Regelungen zur Festlegung von Betriebsbereichen und von Betriebsvorschriften sowie von den gemäß § 1j Absatz 1 erlassenen Verordnungen abweichen, wenn die Kraftfahrzeuge zur Erfüllung hoheitlicher Aufgaben bestimmt, für diese Zwecke gebaut oder ausgerüstet sind und wenn gewährleistet ist, dass die Kraftfahrzeuge unter gebührender Berücksichtigung der öffentlichen Sicherheit eingesetzt werden. Technische Voraussetzungen, Regelungen zur Festlegung von Betriebsbereichen und Betriebsvorschriften sind dabei sinngemäß anzuwenden, sofern es der jeweilige Zweck nach Absatz 1 zulässt; Abweichungen sind auf das zwingend erforderliche Maß zu beschränken.
+
+# § 1l – Evaluierung
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3108) nach Ablauf des Jahres 2023 insbesondere im Hinblick auf die Auswirkungen auf die Entwicklung des autonomen Fahrens, die Vereinbarkeit mit Datenschutzvorschriften sowie die aufgrund von Erprobungsgenehmigungen im Sinne des § 1i Absatz 2 gewonnenen Erkenntnisse auf wissenschaftlicher Grundlage in nicht personenbezogener Form evaluieren und den Deutschen Bundestag über die Ergebnisse der Evaluierung unterrichten. Sofern erforderlich, soll das Bundesministerium für Verkehr und digitale Infrastruktur die Evaluierung zu einem von ihm festzulegenden Zeitpunkt bis zum Jahr 2030 erneut durchführen.
+
 # § 2 – Fahrerlaubnis und Führerschein
 
 (1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der Erlaubnis (Fahrerlaubnis) der zuständigen Behörde (Fahrerlaubnisbehörde). Die Fahrerlaubnis wird in bestimmten Klassen erteilt. Sie ist durch eine amtliche Bescheinigung (Führerschein) nachzuweisen. Nach näherer Bestimmung durch Rechtsverordnung auf Grund des § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und Absatz 3 Nummer 2 kann die Gültigkeitsdauer der Führerscheine festgelegt werden.
@@ -777,7 +1039,7 @@ Das in Satz 1 Nummer 9 vorgesehene Dateisystem darf weder mit dem Zentralen Fahr
 
 Die Vorschriften des § 7 gelten nicht,
 
-1. wenn der Unfall durch ein Kraftfahrzeug verursacht wurde, das auf ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der Stunde fahren kann,
+1. wenn der Unfall durch ein Kraftfahrzeug verursacht wurde, das auf ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der Stunde fahren kann, es sei denn, es handelt sich um ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne des § 1d Absatz 1 und 2, das sich im autonomen Betrieb befindet,
 
 2. wenn der Verletzte bei dem Betrieb des Kraftfahrzeugs tätig war oder
 
@@ -807,9 +1069,9 @@ Im Fall der Verletzung des Körpers oder der Gesundheit ist der Schadensersatz d
 
 (1) Der Ersatzpflichtige haftet
 
-1. im Fall der Tötung oder Verletzung eines oder mehrerer Menschen durch dasselbe Ereignis nur bis zu einem Betrag von insgesamt fünf Millionen Euro, bei Verursachung des Schadens auf Grund der Verwendung einer hoch- oder vollautomatisierten Fahrfunktion gemäß § 1a nur bis zu einem Betrag von insgesamt zehn Millionen Euro; im Fall einer entgeltlichen, geschäftsmäßigen Personenbeförderung erhöht sich für den ersatzpflichtigen Halter des befördernden Kraftfahrzeugs bei der Tötung oder Verletzung von mehr als acht beförderten Personen dieser Betrag um 600 000 Euro für jede weitere getötete oder verletzte beförderte Person;
+1. im Fall der Tötung oder Verletzung eines oder mehrerer Menschen durch dasselbe Ereignis nur bis zu einem Betrag von insgesamt fünf Millionen Euro, bei Verursachung des Schadens auf Grund der Verwendung einer hoch- oder vollautomatisierten Fahrfunktion gemäß § 1a oder beim Betrieb einer autonomen Fahrfunktion gemäß § 1e nur bis zu einem Betrag von insgesamt zehn Millionen Euro; im Fall einer entgeltlichen, geschäftsmäßigen Personenbeförderung erhöht sich für den ersatzpflichtigen Halter des befördernden Kraftfahrzeugs bei der Tötung oder Verletzung von mehr als acht beförderten Personen dieser Betrag um 600 000 Euro für jede weitere getötete oder verletzte beförderte Person;
 
-2. im Fall der Sachbeschädigung, auch wenn durch dasselbe Ereignis mehrere Sachen beschädigt werden, nur bis zu einem Betrag von insgesamt einer Million Euro, bei Verursachung des Schadens auf Grund der Verwendung einer hoch- oder vollautomatisierten Fahrfunktion gemäß § 1a, nur bis zu einem Betrag von insgesamt zwei Millionen Euro.
+2. im Fall der Sachbeschädigung, auch wenn durch dasselbe Ereignis mehrere Sachen beschädigt werden, nur bis zu einem Betrag von insgesamt einer Million Euro, bei Verursachung des Schadens auf Grund der Verwendung einer hoch- oder vollautomatisierten Fahrfunktion gemäß § 1a oder beim Betrieb einer autonomen Fahrfunktion gemäß § 1e, nur bis zu einem Betrag von insgesamt zwei Millionen Euro.
 
 Die Höchstbeträge nach Satz 1 Nr. 1 gelten auch für den Kapitalwert einer als Schadensersatz zu leistenden Rente.
 
@@ -877,7 +1139,7 @@ Unberührt bleiben die bundesrechtlichen Vorschriften, nach welchen der Fahrzeug
 
 # § 19 – Haftung des Halters bei Unfällen mit Anhängern und Gespannen
 
-(1) Wird bei dem Betrieb eines Anhängers, der dazu bestimmt ist, von einem Kraftfahrzeug (Zugfahrzeug) gezogen zu werden, ein Mensch getötet, der Körper oder die Gesundheit eines Menschen verletzt oder eine Sache beschädigt, ist der Halter des Anhängers verpflichtet, dem Verletzten den daraus entstehenden Schaden zu ersetzen. Die Regelungen zur Haftung des Halters eines Kraftfahrzeugs nach § 7 Absatz 2 und 3, § 8 Nummer 2 und 3 sowie den §§ 8a bis 16 gelten entsprechend. Die Sätze 1 und 2 gelten nicht, wenn der Unfall durch einen Anhänger verursacht wurde, der im Unfallzeitpunkt mit einem Kraftfahrzeug verbunden war, das auf ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der Stunde fahren kann.
+(1) Wird bei dem Betrieb eines Anhängers, der dazu bestimmt ist, von einem Kraftfahrzeug (Zugfahrzeug) gezogen zu werden, ein Mensch getötet, der Körper oder die Gesundheit eines Menschen verletzt oder eine Sache beschädigt, ist der Halter des Anhängers verpflichtet, dem Verletzten den daraus entstehenden Schaden zu ersetzen. Die Regelungen zur Haftung des Halters eines Kraftfahrzeugs nach § 7 Absatz 2 und 3, § 8 Nummer 2 und 3 sowie den §§ 8a bis 16 gelten entsprechend. Die Sätze 1 und 2 gelten nicht, wenn der Unfall durch einen Anhänger verursacht wurde, der im Unfallzeitpunkt mit einem Kraftfahrzeug verbunden war, das auf ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der Stunde fahren kann, es sei denn, es handelt sich um ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne des § 1d Absatz 1 und 2, das sich im autonomen Betrieb befindet.
 
 (2) Wird der Schaden eines anderen durch ein Zugfahrzeug mit Anhänger (Gespann) verursacht, haftet der Halter jedes dieser Fahrzeuge dem anderen für die Betriebsgefahr des gesamten Gespanns als Gesamtschuldner. Die Ersatzpflicht des gesamtschuldnerisch haftenden Halters ist auf die Höchstbeträge der §§ 12 und 12a beschränkt.
 
@@ -974,7 +1236,7 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 # § 24 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a bis c oder d, Nummer 2, 3, 5, 6 Buchstabe a, Nummer 8 bis 16 oder 17, jeweils auch in Verbindung mit § 6 Absatz 3 Nummer 1 bis 5 oder 7, nach § 6e Absatz 1 Nummer 1 bis 5 oder 7 oder nach § 6g Absatz 4 Satz 1 Nummer 3, 5, 7 oder 9 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach § 1j Absatz 1 Nummer 1, 2, 4, 5 oder 6, § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a bis c oder d, Nummer 2, 3, 5, 6 Buchstabe a, Nummer 8 bis 16 oder 17, jeweils auch in Verbindung mit § 6 Absatz 3 Nummer 1 bis 5 oder 7, nach § 6e Absatz 1 Nummer 1 bis 5 oder 7 oder nach § 6g Absatz 4 Satz 1 Nummer 3, 5, 7 oder 9 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

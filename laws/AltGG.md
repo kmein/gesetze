@@ -33,7 +33,23 @@ wenn zum Zeitpunkt der Entlassung dringende dienstliche Gründe nicht entgegenst
 
 # § 3 – Anspruch
 
-(1) Ein Anspruch auf Altersgeld und auf Hinterbliebenenaltersgeld besteht, wenn eine altersgeldfähige Dienstzeit nach § 6 Absatz 1 bis 4 von mindestens sieben Jahren, davon wenigstens fünf Jahre im Bundesdienst, zurückgelegt worden ist. Zeiten einer Teilzeitbeschäftigung sind insoweit in vollem Umfang zu berücksichtigen.
+(1) Ein Anspruch auf Altersgeld und auf Hinterbliebenenaltersgeld besteht nur, wenn eine altersgeldfähige Dienstzeit nach § 6 Absatz 1 bis 4 von mindestens fünf Jahren, davon mindestens vier Jahre im Bundesdienst, abgeleistet worden ist. Die Dienstzeit wird nur berücksichtigt, sofern sie altersgeldfähig ist; § 6 Absatz 1 Satz 4 ist insoweit nicht anzuwenden. Nicht zu berücksichtigen sind für die Erfüllung der nach Satz 1 erforderlichen
+
+1. fünf Jahre Dienstzeit
+
+a) Zeiten einer Ausbildung oder eines Studiums,
+
+b) Zeiten in einem Beamtenverhältnis auf Widerruf,
+
+2. vier Jahre Dienstzeit im Bundesdienst
+
+a) Zeiten nach Nummer 1,
+
+b) Zeiten einer Abordnung zu einem Dienstherrn nach § 2 des Beamtenstatusgesetzes,
+
+c) Zeiten einer Beurlaubung ohne Dienstbezüge, wenn diese Zeiten nach beamtenversorgungsrechtlichen Bestimmungen nicht ruhegehaltfähig sind.
+
+Bei Versetzung einer Beamtin oder eines Beamten von einem anderen Dienstherrn in den Dienst des Bundes beginnt die nach Satz 1 erforderliche Zeit von vier Jahren im Bundesdienst mit Wirksamwerden der Versetzung.
 
 (2) Der Anspruch auf Altersgeld entsteht mit Ablauf des Tages, an dem das Dienstverhältnis endet.
 

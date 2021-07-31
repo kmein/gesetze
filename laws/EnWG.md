@@ -3424,7 +3424,7 @@ Die Regulierungsbehörde hat dem Antragsteller den Eingang des Antrags zu bestä
 
 7. die gemäß § 21a Absatz 5 ermittelten unternehmensindividuellen Effizienzwerte sowie die hierbei erhobenen, geprüften und verwendeten Parameter zur Abbildung struktureller Unterschiede und die Aufwandsparameter,
 
-8. das in den Entscheidungen nach § 21a ermittelte Ausgangsniveau, die bei der Ermittlung der kalkulatorischen Eigenkapitalverzinsung eingeflossenen Bilanzpositionen sowie die bei der Ermittlung der kalkulatorischen Gewerbesteuer verwendete Messzahl sowie den Hebesatz, dabei ist gleiches anzuwenden für die in das Ausgangsniveau nach § 21a eingeflossenen Kosten oder Kostenbestandteile, die aufgrund einer Überlassung betriebsnotweniger Anlagegüter durch Dritte anfallen,
+8. das in den Entscheidungen nach § 21a ermittelte Ausgangsniveau, die bei der Ermittlung der kalkulatorischen Eigenkapitalverzinsung eingeflossenen Bilanzpositionen sowie die bei der Ermittlung der kalkulatorischen Gewerbesteuer verwendete Messzahl sowie den Hebesatz, dabei ist gleiches anzuwenden für die in das Ausgangsniveau nach § 21a eingeflossenen Kosten oder Kostenbestandteile, die aufgrund einer Überlassung betriebsnotwendiger Anlagegüter durch Dritte anfallen,
 
 9. jährliche tatsächliche Kosten der genehmigten Investitionsmaßnahmen für die Erweiterung und Umstrukturierung in die Transportnetze jeweils als Summenwert,
 
@@ -3451,6 +3451,8 @@ Von einer Veröffentlichung der Daten nach Satz 1 Nummer 7, 8 und 12 ist abzuseh
 (2) Sonstige Befugnisse der Regulierungsbehörde, Informationen und Daten zu veröffentlichen sowie im Einzelfall oder durch Festlegung nach § 29 Absatz 1 die Veröffentlichung von Informationen und Daten anzuordnen, bleiben unberührt.
 
 (3) Die Regulierungsbehörde kann die Betreiber von Energieversorgungsnetzen durch Festlegungen nach § 29 Absatz 1 verpflichten, die Daten nach Absatz 1 an sie zu übermitteln sowie Vorgaben zu Umfang, Zeitpunkt und Form der mitzuteilenden Daten, insbesondere zu den zulässigen Datenformaten, Datenträgern und Übertragungswegen treffen.
+
+§ 23 Abs. 1 Satz 1 Nr. 8 Kursivdruck: Fehlschreibung des Wortes "betriebsnotweniger" in "betriebsnotwendiger" korrigiert
 
 # § 23c – Veröffentlichungspflichten der Netzbetreiber
 

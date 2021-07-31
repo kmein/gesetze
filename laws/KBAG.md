@@ -76,7 +76,7 @@ c) auf dem Gebiet des Kraftfahrsachverständigenwesens über die bei Hauptunters
 
 4. die Veröffentlichung der bei der Erteilung von Typgenehmigungen festgestellten Abgas- und Geräuschemissions- sowie Kraftstoffverbrauchswerte der Fahrzeuge einschließlich Statistiken über diese Werte,
 
-5. (weggefallen)
+5. die Durchführung des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146) für alle Produkte im Sinne von § 2 Nummer 21 und 25 des Produktsicherheitsgesetzes, soweit sie dem Regelungsbereich des Straßenverkehrsgesetzes unterliegen,
 
 5a. die Marktüberwachung von auf dem Markt bereitgestellten Verbrennungsmotoren für Schienenfahrzeuge, die
 

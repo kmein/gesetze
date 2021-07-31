@@ -7,7 +7,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 1
 
-Der Halter eines Kraftfahrzeugs oder Anhängers mit regelmäßigem Standort im Inland ist verpflichtet, für sich, den Eigentümer und den Fahrer eine Haftpflichtversicherung zur Deckung der durch den Gebrauch des Fahrzeugs verursachten Personenschäden, Sachschäden und sonstigen Vermögensschäden nach den folgenden Vorschriften abzuschließen und aufrechtzuerhalten, wenn das Fahrzeug auf öffentlichen Wegen oder Plätzen (§ 1 des Straßenverkehrsgesetzes) verwendet wird.
+Der Halter eines Kraftfahrzeugs oder Anhängers mit regelmäßigem Standort im Inland ist verpflichtet, für sich, den Eigentümer und den Fahrer eine Haftpflichtversicherung zur Deckung der durch den Gebrauch des Fahrzeugs verursachten Personenschäden, Sachschäden und sonstigen Vermögensschäden nach den folgenden Vorschriften abzuschließen und aufrechtzuerhalten, wenn das Fahrzeug auf öffentlichen Wegen oder Plätzen (§ 1 des Straßenverkehrsgesetzes) verwendet wird. Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion im Sinne des § 1d des Straßenverkehrsgesetzes ist verpflichtet, eine Haftpflichtversicherung gemäß Satz 1 auch für eine Person der Technischen Aufsicht abzuschließen und aufrechtzuerhalten.
 
 # § 2
 
