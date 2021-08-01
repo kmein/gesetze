@@ -1799,11 +1799,11 @@ i) die Kreditanstalt für Wiederaufbau,
 
 2. für Versicherungsunternehmen nach § 2 Absatz 1 Nummer 7 die jeweils zuständige Aufsichtsbehörde für das Versicherungswesen,
 
-3. für Rechtsanwälte und Kammerrechtsbeistände nach § 2 Absatz 1 Nummer 10 die jeweils örtlich zuständige Rechtsanwaltskammer (§§ 60, 61, 163 Satz 4 der Bundesrechtsanwaltsordnung),
+3. für Rechtsanwälte und Kammerrechtsbeistände nach § 2 Absatz 1 Nummer 10 die jeweils örtlich zuständige Rechtsanwaltskammer (§§ 60, 163 Satz 4 der Bundesrechtsanwaltsordnung),
 
 4. für Patentanwälte nach § 2 Absatz 1 Nummer 10 die Patentanwaltskammer (§ 53 der Patentanwaltsordnung),
 
-5. für Notare nach § 2 Absatz 1 Nummer 10 der jeweilige Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Nummer 1 der Bundesnotarordnung),
+5. für Notare nach § 2 Absatz 1 Nummer 10 der jeweilige Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Absatz 1 Nummer 1 der Bundesnotarordnung),
 
 6. für Wirtschaftsprüfer und vereidigte Buchprüfer nach § 2 Absatz 1 Nummer 12 die Wirtschaftsprüferkammer (§ 57 Absatz 2 Nummer 17 der Wirtschaftsprüferordnung),
 

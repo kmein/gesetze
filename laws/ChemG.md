@@ -409,6 +409,84 @@ b) der Meldung und behördlichen Prüfung von Experimenten und Versuchen nach Ar
 
 3. dass und in welcher Form Personen, die bei der Behandlung oder Beurteilung akuter und chronischer Vergiftungsfälle von Nicht-Zielorganismen durch Biozid-Produkte hinzugezogen wurden, der Bundesstelle für Chemikalien oder einer anderen geeigneten Bundesoberbehörde derartige Fälle zu melden haben.
 
+# § 12i – Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014
+
+(1) Es ist verboten,
+
+1. Erzeugnisse und Einrichtungen, die unter Verstoß gegen Artikel 11 Absatz 1 in Verbindung mit Anhang III der Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006 (ABl. L 150 vom 20.5.2014, S. 195) in Verkehr gebracht wurden, für Dritte bereitzustellen, an Dritte abzugeben oder zu erwerben, oder
+
+2. Behälter, die dem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang III Nummer 1 der Verordnung (EU) Nr. 517/2014 unterliegen, zu lagern oder zu entleeren.
+
+Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen.
+
+(2) Wer Erzeugnisse oder Einrichtungen, die einem Verbot nach Artikel 11 Absatz 1 in Verbindung mit Anhang III der Verordnung (EU) Nr. 517/2014 nicht unterliegen, weil sie bereits vor dem in Anhang III der Verordnung (EU) Nr. 517/2014 genannten Verbotsdatum in den Verkehr gebracht wurden, an Dritte abgibt, hat bei der Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
+
+1. Name und Anschrift des Abgebenden,
+
+2. eine Bestätigung, dass das Erzeugnis oder die Einrichtung bereits vor dem in Anhang III der Verordnung (EU) Nr. 517/2014 genannten Verbotsdatum erstmals in den Verkehr gebracht wurde, und
+
+3. Identifikationsmerkmale des Erzeugnisses oder der Einrichtung, die eine eindeutige Zuordnung des Erzeugnisses oder der Einrichtung zu der Erklärung ermöglichen.
+
+(3) Absatz 2 gilt nicht, wenn aufgrund der Umstände, insbesondere aufgrund
+
+1. der Bauart und des Zustandes des Erzeugnisses oder der Einrichtung oder
+
+2. von Herstellerkennzeichnungen auf dem Erzeugnis oder der Einrichtung,
+
+offensichtlich ist, dass das erstmalige Inverkehrbringen vor dem Verbotsdatum erfolgte.
+
+(4) Die Erklärung nach Absatz 2 ist vom Abgebenden und vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
+
+(5) Die Vorlage der Erklärung nach Absatz 2 gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Absatz 1 Satz 1 vorliegt.
+
+(6) Wer Erzeugnisse oder Einrichtungen, die einer Kennzeichnungspflicht nach Artikel 12 der Verordnung (EU) Nr. 517/2014 unterliegen, erneut für Dritte bereitstellt oder an Dritte abgibt, hat sicherzustellen, dass die nach Artikel 12 der Verordnung (EU) Nr. 517/2014 beim Inverkehrbringen anzubringende Kennzeichnung erhalten geblieben ist oder neu angebracht wird, wenn er nicht bereits aufgrund anderer Rechtsvorschriften zur Anbringung einer derartigen Kennzeichnung verpflichtet ist.
+
+# § 12j – Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014
+
+(1) Es ist verboten, teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014, die unter Verstoß gegen die Anforderungen des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 517/2014 in den Verkehr gebracht wurden, für Dritte bereitzustellen, an Dritte abzugeben oder zu erwerben. Satz 1 gilt nicht, wenn die betreffenden Handlungen zur Rückgabe oder Entsorgung erfolgen. Liegt ein Verstoß gegen Satz 1 vor, soll die zuständige Behörde die Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
+
+(2) Wer als Hersteller oder Einführer teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014 an Dritte abgibt, hat bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung mit folgenden Angaben zu übermitteln:
+
+1. der Name und die Anschrift des Herstellers oder Einführers,
+
+2. eine Bestätigung,
+
+a) dass und für welches Kalenderjahr oder welche Kalenderjahre ihm für die gelieferten Stoffe oder Gemische nach Artikel 16 oder 18 der Verordnung (EU) Nr. 517/2014 eine Quote für das Inverkehrbringen zugeteilt oder übertragen wurde,
+
+b) dass für die Stoffe oder Gemische eine konkret anzugebende Ausnahme von der Quotenpflicht für das Inverkehrbringen nach Artikel 15 Absatz 2 oder 4 der Verordnung (EU) Nr. 517/2014 vorliegt oder
+
+c) dass die Stoffe oder Gemische bereits vor dem 1. Januar 2015 in den Verkehr gebracht wurden und
+
+3. Identifikationsmerkmale, die eine eindeutige Zuordnung der Stoffe, Gemische oder ihrer Behälter zu der Erklärung ermöglichen.
+
+(3) Wer teilfluorierte Kohlenwasserstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014 zur eigenen Verwendung oder zur Abgabe an Dritte von einem Lieferanten aus einem anderen Mitgliedstaat der Europäischen Union bezieht, ohne von diesem eine Erklärung nach Absatz 2 zu erhalten, hat die in Absatz 2 genannten Angaben zu ermitteln. Bei Abgabe an Dritte hat er bei jeder Lieferung schriftlich oder elektronisch dem Erwerber eine Erklärung zu übermitteln, aus der sich die in Absatz 2 genannten Angaben sowie sein eigener Name und seine eigene Anschrift ergibt. Können Angaben nach Absatz 2 nicht ermittelt werden, gilt Satz 2 mit den folgenden Maßgaben: In der Erklärung
+
+1. ist für jede nicht ermittelbare Angabe glaubhaft darzulegen, warum diese nicht ermittelt werden konnte;
+
+2. sind anstelle einer nicht ermittelbaren Angabe nach Absatz 2 Nummer 1 Name und Anschrift des Lieferanten aus dem anderen Mitgliedstaat der Europäischen Union anzugeben.
+
+(4) Bei jeder weiteren Abgabe des Stoffes oder Gemisches in der Lieferkette hat der jeweilige Abgebende die die Lieferung betreffenden Angaben nach Absatz 2 Nummer 2 und 3 oder Absatz 3 sowie seinen eigenen Namen und seine eigene Anschrift schriftlich oder elektronisch dem Erwerber zu übermitteln.
+
+(5) Die Absätze 2 bis 4 gelten nicht für die Abgabe zur Rückgabe oder Entsorgung sowie die Abgabe aufgearbeiteter oder recycelter Stoffe oder Gemische, die mit den Angaben nach Artikel 12 Absatz 6 der Verordnung (EU) Nr. 517/2014 gekennzeichnet sind. Für die Abgabe von Gemischen, die aus aufgearbeiteten oder recycelten Stoffen oder Gemischen sowie ungebrauchten Stoffen oder Gemischen bestehen, gelten die Absätze 2 bis 4 mit den folgenden Maßgaben:
+
+1. für die ungebrauchten Anteile des Gemisches sind die Angaben nach den Absätzen 2 bis 4 zu übermitteln;
+
+2. für die aufgearbeiteten oder recycelten Anteile des Gemisches genügen die Angaben nach Artikel 12 Absatz 6 der Verordnung (EU) Nr. 517/2014.
+
+(6) Die Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, sind sowohl vom Abgebenden als auch vom Erwerber für einen Zeitraum von mindestens fünf Jahren nach Übermittlung aufzubewahren.
+
+(7) Die Vorlage der Angaben nach den Absätzen 2 bis 4, jeweils auch in Verbindung mit Absatz 5, gegenüber der zuständigen Behörde begründet die Vermutung, dass kein Verstoß gegen Absatz 1 vorliegt. Wenn die Angaben nicht vorgelegt werden und auch nicht anderweitig glaubhaft gemacht wird, dass beim Inverkehrbringen des Stoffes oder Gemisches die Anforderungen des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 517/2014 beachtet wurden, soll die zuständige Behörde die weitere Abgabe oder Verwendung des Stoffes oder Gemisches untersagen und kann die Vernichtung des Stoffes oder Gemisches anordnen.
+
+# § 12k – Verordnungsermächtigungen
+
+Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig, durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+1. nähere Regelungen zu Inhalt, Form und Übermittlung der Erklärung und der Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 sowie zur Aufbewahrung nach § 12i Absatz 4 und § 12j Absatz 6 zu treffen,
+
+2. vorzusehen, dass, von wem und in welcher Form die Angaben nach § 12i Absatz 2 und § 12j Absatz 2 und 3 ganz oder teilweise als Kennzeichnung auf Behältnissen, Erzeugnissen oder Einrichtungen angebracht werden müssen,
+
+3. die Herstellung von fluorierten Treibhausgasen, für die Reduktionspflichten nach dem Montrealer Protokoll vom 16. September 1987 über Stoffe, die zum Abbau der Ozonschicht führen (BGBl. 1988 II S. 1014, 1015; 2002 II S. 921, 923; 2017 II S. 1138, 1139) bestehen, mengenmäßig zu begrenzen, soweit dies erforderlich ist, um die Einhaltung der Reduktionspflichten sicherzustellen.
+
 # § 13 – Einstufungs-, Kennzeichnungs- und Verpackungspflichten
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008.
@@ -697,6 +775,8 @@ Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht vorgelegt
 
 3. eine Bestätigung des Bundesinstitutes für Risikobewertung, dass eine Prüfeinrichtung, die in einem Staat gelegen ist, der nicht Mitgliedstaat der Europäischen Union ist und die gegenseitige Anerkennung von GLP-Bescheinigungen nicht gewährleistet, nach den dem Bundesinstitut für Risikobewertung vorliegenden Erkenntnissen Prüfungen nach den Grundsätzen der Guten Laborpraxis durchführt.
 
+(3) Stellt eine zuständige Behörde bei einem Inspektionsverfahren nach Absatz 1 Satz 1 oder im Rahmen der Überwachung nach § 21 Absatz 1 fest, dass jemand zu Unrecht behauptet, die Grundsätze der Guten Laborpraxis nach Anhang 1 zu befolgen, so dass die Korrektheit oder Zuverlässigkeit der von ihm durchgeführten Prüfungen und Phasen von Prüfungen nach Absatz 1 infrage gestellt werden könnte, so unterrichtet sie hierüber unter Angabe der von dieser Prüfeinrichtung durchgeführten Prüfungen das Bundesinstitut für Risikobewertung.
+
 # § 19c – Berichterstattung
 
 (1) Die Bundesregierung erstattet jährlich bis zum 31. März für das vergangene Kalenderjahr der Europäischen Kommission Bericht über die Anwendung der Grundsätze der Guten Laborpraxis im Geltungsbereich dieses Gesetzes. Der Bericht enthält ein Verzeichnis der inspizierten Prüfeinrichtungen und Prüfstandorte, eine Angabe der Zeitpunkte, zu denen Inspektionen durchgeführt wurden und eine Zusammenfassung der Ergebnisse der Inspektionen. Die obersten Landesbehörden wirken bei der Erstellung des Berichts mit und übersenden ihre Beiträge bis zum 15. Februar für das vergangene Kalenderjahr dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
@@ -723,7 +803,9 @@ e) die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis,
 
 3. fachliche Beratung der Bundesregierung im Rahmen von Konsultationsverfahren mit der Europäischen Kommission und anderer Mitgliedstaaten der Europäischen Union,
 
-4. Mitwirkung bei dem Vollzug von Vereinbarungen über die Gute Laborpraxis mit Staaten, die nicht Mitglied der Europäischen Union sind.
+4. Mitwirkung bei dem Vollzug von Vereinbarungen über die Gute Laborpraxis mit Staaten, die nicht Mitglied der Europäischen Union sind,
+
+5. die Weiterleitung von Informationen nach § 19b Absatz 3 an die Europäische Kommission gemäß Artikel 5 Absatz 2 der Richtlinie 2004/9/EG.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Weiterentwicklung der Guten Laborpraxis die Anhänge 1 und 2 zu ändern.
 
@@ -861,6 +943,18 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 4. einer vollziehbaren Anordnung nach § 12g Absatz 1 Satz 1 zuwiderhandelt,
 
+4a. entgegen § 12i Absatz 1 Satz 1 Nummer 1 oder § 12j Absatz 1 Satz 1 eine Einrichtung, ein Erzeugnis oder einen teilfluorierten Kohlenwasserstoff für Dritte bereitstellt, an Dritte abgibt oder erwirbt,
+
+4b. entgegen § 12i Absatz 1 Satz 1 Nummer 2 einen dort genannten Behälter lagert oder entleert,
+
+4c. entgegen § 12i Absatz 2 oder § 12j Absatz 2, Absatz 3 Satz 2, auch in Verbindung mit Satz 3, oder Absatz 4, jeweils auch in Verbindung mit Absatz 5 Satz 2, eine dort genannte Erklärung oder Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+
+4d. entgegen § 12i Absatz 4 oder § 12j Absatz 6 eine dort genannte Erklärung oder Angabe nicht oder nicht mindestens fünf Jahre aufbewahrt,
+
+4e. entgegen § 12i Absatz 6 nicht sicherstellt, dass eine Kennzeichnung erhalten geblieben ist oder neu angebracht wird,
+
+4f. einer vollziehbaren Anordnung nach § 12j Absatz 1 Satz 3 oder Absatz 7 Satz 2 zuwiderhandelt,
+
 5. a) entgegen § 13 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 1, 2 oder Nummer 3 Buchstabe c, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einstuft,
 
 b) entgegen § 13 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, d oder Buchstabe e, jeweils auch in Verbindung mit § 14 Absatz 3, einen Stoff oder ein Gemisch nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet oder nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig verpackt oder
@@ -909,7 +1003,7 @@ zuwiderhandelt,
 
 11. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union zuwiderhandelt, die Sachbereiche dieses Gesetzes betrifft, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist und die Zuwiderhandlung nicht nach § 27 Absatz 1 Nummer 3 oder Absatz 2 als Straftat geahndet werden kann. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die einzelnen Tatbestände der Rechtsakte, die nach Satz 1 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können, zu bezeichnen, soweit dies zur Durchführung der Rechtsakte erforderlich ist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 7 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b, Nummer 10 und 11 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 4a, 4b und 7 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, 4c, 4f, 5, 6, 7 Buchstabe a, Nummer 8 Buchstabe b, Nummer 10 und 11 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
@@ -1098,6 +1192,8 @@ Satz 1 gilt nicht für Gemische, die nicht in eine der Gefahrenklassen nach Anha
 2. im Falle sonstiger Gemische dem Institut für Arbeitsschutz der Deutschen Gesetzlichen Unfallversicherung ein jeweils aktuelles Sicherheitsdatenblatt nach Artikel 31 der Verordnung (EG) Nr. 1907/2006.
 
 Mitteilungen nach Satz 2 oder § 28 Absatz 12 dieses Gesetzes in der bis zum 31. Dezember 2019 geltenden Fassung gelten nicht als frühere Informationen im Sinne des Anhangs VIII Teil A Abschnitt 1.4 der Verordnung (EG) Nr. 1272/2008.
+
+(13) § 12j Absatz 2 bis 7 gilt nicht für Stoffe und Gemische, die vom Hersteller oder Einführer oder von demjenigen, der sie aus einem anderen Mitgliedstaat der Europäischen Union bezieht, bereits vor dem 1. August 2021 an einen Dritten abgegeben worden sind.
 
 # § 29 – (Außerkrafttreten)
 

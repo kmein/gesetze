@@ -29,7 +29,7 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 4. Notariatsabwickler (§ 114 Absatz 4 der Bundesnotarordnung).
 
-(2) In das Notarverzeichnis können zum Zweck der Urkundensuche zudem Personen eingetragen werden, die
+(2) In das Notarverzeichnis können zudem Personen eingetragen werden, die
 
 1. im Sinne des Absatzes 1 bestellt waren,
 
@@ -79,7 +79,7 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 (3) Darf die Amtsperson die amtliche Tätigkeit im Fall des § 8 Absatz 1 Satz 2 der Bundesnotarordnung nicht persönlich ausüben, ist dies bei der amtlichen Tätigkeit zu vermerken.
 
-(4) Zum Zweck der Urkundensuche sind die Verwahrzuständigkeiten für die bei der amtlichen Tätigkeit errichteten Urkunden einzutragen. Dies gilt nicht für Verwahrungen nach § 45 Absatz 1 der Bundesnotarordnung. Die Abgabe von Notariatsakten an ein Staatsarchiv (§ 51 Absatz 5 der Bundesnotarordnung) lässt die Verwahrzuständigkeit im Sinne des Satzes 1 unberührt.
+(4) Für die bei der amtlichen Tätigkeit errichteten Urkunden ist die Verwahrzuständigkeit einzutragen. Die Abgabe von Notariatsakten an ein Staatsarchiv (§ 51 Absatz 5 der Bundesnotarordnung) lässt die Verwahrzuständigkeit im Sinne des Satzes 1 unberührt.
 
 (+++ § 3 Abs. 1 Nr. 2 u. 3: Zur Geltung vgl. § 5 Satz 2 +++)
 
@@ -87,15 +87,15 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind, werden nur die Angaben nach § 78l Absatz 3 Satz 1 Nummer 2, 3 und 5 der Bundesnotarordnung sowie die Angaben nach § 2 Absatz 1 bis 4 und § 3 Absatz 1 Nummer 1 bis 3 und Absatz 4 dieser Verordnung eingetragen.
 
-# § 5 – Notarvertreter
+# § 5 – Notarvertretung
 
-Die Bestellung eines Notarvertreters ist bei derjenigen amtlichen Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz 2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
+Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz 2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
 
 # § 6 – Eintragungen
 
 (1) Die Notarkammern nehmen die ihnen obliegenden Eintragungen in das Notarverzeichnis unverzüglich vor, nachdem sie von den einzutragenden Inhalten Kenntnis erhalten haben. Die Bundesnotarkammer stellt ihnen hierfür eine Webanwendung zur Verfügung.
 
-(2) Die Eintragungen sind von den Mitarbeitern der Notarkammern im Notarverzeichnis qualifiziert elektronisch zu signieren, soweit die Webanwendung dies vorsieht. Hierbei sind von einem qualifizierten Vertrauensdiensteanbieter ausgestellte qualifizierte Zertifikate mit einem Attribut zu verwenden, das die Inhaber als für die Notarkammer handelnd ausweist. Die Sätze 1 und 2 gelten auch im Fall eines automatisierten Abrufs nach § 78l Absatz 5 der Bundesnotarordnung.
+(2) Die Eintragungen sind von den Mitarbeitern der Notarkammern im Notarverzeichnis qualifiziert elektronisch zu signieren, soweit die Webanwendung dies vorsieht. Hierbei sind von einem qualifizierten Vertrauensdiensteanbieter ausgestellte qualifizierte Zertifikate mit einem Attribut zu verwenden, das die Inhaber als für die Notarkammer handelnd ausweist. Die Sätze 1 und 2 gelten auch im Fall eines automatisierten Abrufs nach § 78l Absatz 4 der Bundesnotarordnung.
 
 (3) In Ausnahmefällen, insbesondere bei technischen Störungen, können die Notarkammern die Bundesnotarkammer schriftlich beauftragen, einzelne Eintragungen für sie vorzunehmen.
 
@@ -123,7 +123,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Eintragungen zu Entscheidungen nach § 8 Absatz 1 Satz 2 der Bundesnotarordnung und zu einer vorläufigen Amtsenthebung sind nach dem Ende der Wirksamkeit der Entscheidung oder der vorläufigen Amtsenthebung nicht mehr einsehbar.
 
-(4) Die Angaben zu einem Notarvertreter sind nur einsehbar, wenn und solange dieser für eine Amtsperson bestellt ist, die rechtlich an der Wahrnehmung ihres Amtes gehindert ist.
+(4) Die Angaben zu einer Notarvertretung sind nur einsehbar, wenn und solange dieser für eine Amtsperson bestellt ist, die rechtlich an der Wahrnehmung ihres Amtes gehindert ist.
 
 # § 10 – Suchfunktion
 
@@ -175,9 +175,9 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (1) Die Bundesnotarkammer richtet für jede ausgeübte amtliche Tätigkeit eines Notars oder Notariatsverwalters ein besonderes elektronisches Notarpostfach ein. Sie gewährleistet, dass das Postfach unverzüglich nach Eintragung der amtlichen Tätigkeit in das Notarverzeichnis zur Aktivierung bereitsteht und nicht vor dem Beginn der amtlichen Tätigkeit aktiviert werden kann.
 
-(2) Die Aktivierung des besonderen elektronischen Notarpostfachs durch die Amtsperson oder den Notarvertreter erfolgt mittels eines Authentisierungszertifikats, das auf einer qualifizierten elektronischen Signaturerstellungseinheit nach dem Anhang II der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) gespeichert ist.
+(2) Die Aktivierung des besonderen elektronischen Notarpostfachs durch den Postfachinhaber erfolgt mittels eines kryptografischen Schlüssels, der auf einer kryptografischen Hardwarekomponente gespeichert ist.
 
-(3) Die Bundesnotarkammer hat zu gewährleisten, dass die Aktivierung des besonderen elektronischen Notarpostfachs nur möglich ist, wenn der Inhaber des zur Aktivierung verwendeten Zertifikats mit demjenigen, für den das Postfach eingerichtet ist, identisch ist.
+(3) Die Bundesnotarkammer hat durch geeignete technische und organisatorische Maßnahmen sicherzustellen, dass der zur Aktivierung bestimmte kryptografische Schlüssel des Postfachinhabers nur durch diesen verwendet werden kann.
 
 # § 15 – Weitere Zugangsberechtigungen zum Postfach
 
@@ -189,7 +189,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 # § 16 – Zugang zum Postfach
 
-(1) Die Anmeldung am besonderen elektronischen Notarpostfach erfolgt mit mindestens zwei voneinander unabhängigen Sicherungsmitteln. Zugangsdaten, die einzelnen Personen allein zugewiesen sind, dürfen anderen Personen nicht bekanntgegeben werden. Bei einem Versand nicht-qualifiziert elektronisch signierter Dokumente auf einem sicheren Übermittlungsweg muss der Postfachinhaber mittels eines Authentisierungszertifikats im Sinne des § 14 Absatz 2 an seinem Postfach angemeldet sein.
+(1) Die Anmeldung am besonderen elektronischen Notarpostfach erfolgt mit mindestens zwei voneinander unabhängigen Sicherungsmitteln. Zugangsdaten, die einzelnen Personen allein zugewiesen sind, dürfen anderen Personen nicht bekanntgegeben werden. Bei einem Versand nicht-qualifiziert elektronisch signierter Dokumente auf einem sicheren Übermittlungsweg muss der Postfachinhaber mittels eines kryptografischen Schlüssels im Sinne des § 14 Absatz 2 an seinem Postfach angemeldet sein.
 
 (2) Hat die angemeldete Person die Nutzung des besonderen elektronischen Notarpostfachs beendet, hat sie sich abzumelden. Die Bundesnotarkammer hat für den Fall, dass das Postfach nach erfolgter Anmeldung für eine bestimmte Zeitdauer nicht genutzt wird, eine automatische Abmeldung der Person durch das System vorzusehen. Bei der Bemessung der Zeitdauer sind die Belange des Datenschutzes gegen den Aufwand für die erneute Anmeldung abzuwägen.
 

@@ -483,11 +483,11 @@ zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte Ausbildu
 
 # § 18a – Einkommensabhängige Rückzahlung
 
-(1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1 260 Euro nicht um mindestens 42 Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
+(1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1 330 Euro nicht um mindestens 42 Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
 
-1. Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 630 Euro,
+1. Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 665 Euro,
 
-2. jedes Kind der Darlehensnehmenden um 570 Euro,
+2. jedes Kind der Darlehensnehmenden um 605 Euro,
 
 wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann. Die Beträge nach Satz 2 mindern sich um das Einkommen der Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner und Kinder. Als Kinder gelten insoweit außer eigenen Kindern der Darlehensnehmenden die in § 25 Absatz 5 Nummer 1 bis 3 bezeichneten Personen. § 47 Absatz 4 und 5 gilt entsprechend.
 
@@ -679,9 +679,9 @@ Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 27 des B
 
 1. für den Auszubildenden selbst 290 Euro,
 
-2. für den Ehegatten oder Lebenspartner des Auszubildenden 630 Euro,
+2. für den Ehegatten oder Lebenspartner des Auszubildenden 665 Euro,
 
-3. für jedes Kind des Auszubildenden 570 Euro.
+3. für jedes Kind des Auszubildenden 605 Euro.
 
 Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner und Kinder, die in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann.
 
@@ -691,7 +691,7 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 (4) Abweichend von Absatz 1 werden
 
-1. von der Waisenrente und dem Waisengeld der Auszubildenden, deren Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 200 Euro, anderer Auszubildender 145 Euro monatlich nicht angerechnet,
+1. von der Waisenrente und dem Waisengeld der Auszubildenden, deren Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 210 Euro, anderer Auszubildender 150 Euro monatlich nicht angerechnet,
 
 2. Ausbildungsbeihilfen und gleichartige Leistungen aus öffentlichen Mitteln oder von Förderungseinrichtungen, die hierfür öffentliche Mittel erhalten, sowie Förderungsleistungen ausländischer Staaten voll auf den Bedarf angerechnet; zu diesem Zweck werden Ausbildungsbeihilfen und gleichartige Leistungen, die zugleich aus öffentlichen und privaten Mitteln finanziert und dem Empfänger insgesamt als eine Leistung zugewendet werden, als einheitlich aus öffentlichen Mitteln erbracht behandelt. Voll angerechnet wird auch Einkommen, das aus öffentlichen Mitteln zum Zweck der Ausbildung bezogen wird,
 
@@ -699,7 +699,7 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 4. Unterhaltsleistungen des geschiedenen oder dauernd getrennt lebenden Ehegatten voll auf den Bedarf angerechnet; dasselbe gilt für Unterhaltsleistungen des Lebenspartners nach Aufhebung der Lebenspartnerschaft oder des dauernd getrennt lebenden Lebenspartners.
 
-(5) Zur Vermeidung unbilliger Härten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den Absätzen 1 und 4 ein weiterer Teil des Einkommens des Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 285 Euro monatlich.
+(5) Zur Vermeidung unbilliger Härten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den Absätzen 1 und 4 ein weiterer Teil des Einkommens des Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 305 Euro monatlich.
 
 # § 24 – Berechnungszeitraum für das Einkommen der Eltern und des Ehegatten oder Lebenspartners
 
@@ -715,17 +715,17 @@ Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner un
 
 (1) Es bleiben monatlich anrechnungsfrei
 
-1. vom Einkommen der miteinander verheirateten oder in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd getrennt leben, 1 890 Euro,
+1. vom Einkommen der miteinander verheirateten oder in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd getrennt leben, 2 000 Euro,
 
-2. vom Einkommen jedes Elternteils in sonstigen Fällen sowie vom Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1 260 Euro.
+2. vom Einkommen jedes Elternteils in sonstigen Fällen sowie vom Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1 330 Euro.
 
 (2) (weggefallen)
 
 (3) Die Freibeträge des Absatzes 1 erhöhen sich
 
-1. für den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden Ehegatten oder Lebenspartner des Einkommensbeziehers um 630 Euro,
+1. für den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden Ehegatten oder Lebenspartner des Einkommensbeziehers um 665 Euro,
 
-2. für Kinder des Einkommensbeziehers sowie für weitere dem Einkommensbezieher gegenüber nach dem bürgerlichen Recht Unterhaltsberechtigte um je 570 Euro,
+2. für Kinder des Einkommensbeziehers sowie für weitere dem Einkommensbezieher gegenüber nach dem bürgerlichen Recht Unterhaltsberechtigte um je 605 Euro,
 
 wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann. Die Freibeträge nach Satz 1 mindern sich um das Einkommen des Ehegatten oder Lebenspartners, des Kindes oder des sonstigen Unterhaltsberechtigten.
 
@@ -1061,7 +1061,7 @@ Satz 1 gilt nicht, wenn der Antrag auf Ausbildungsförderung dem Grunde nach abg
 
 # § 51 – Zahlweise
 
-(1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen. Die Auszahlung der Bankdarlehen nach § 18c erfolgt durch die Kreditanstalt für Wiederaufbau.
+(1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen.
 
 (2) Können bei der erstmaligen Antragstellung in einem Ausbildungsabschnitt oder nach einer Unterbrechung der Ausbildung die zur Entscheidung über den Antrag erforderlichen Feststellungen nicht binnen sechs Kalenderwochen getroffen oder Zahlungen nicht binnen zehn Kalenderwochen geleistet werden, so wird für vier Monate Ausbildungsförderung bis zur Höhe von monatlich vier Fünfteln des für die zu fördernde Ausbildung nach § 12 Absatz 1 und 2, § 13 Absatz 1 und 2 sowie nach den §§ 13a und 14b voraussichtlich zustehenden Bedarfs unter dem Vorbehalt der Rückforderung geleistet.
 
@@ -1206,6 +1206,8 @@ werden durch dieses Gesetz nicht berührt.
 (8a) § 21 Absatz 4 Nummer 5 ist ab dem ersten Tag des Monats nicht mehr anzuwenden, der auf den Monat folgt, in dem die Aufhebung der vom Deutschen Bundestag festgestellten epidemischen Lage von nationaler Tragweite infolge der COVID-19-Pandemie nach § 5 Absatz 1 Satz 3 des Infektionsschutzgesetzes bekannt gemacht wird. Der nach Satz 1 maßgebliche Tag ist vom Bundesministerium für Bildung und Forschung im Bundesgesetzblatt bekannt zu machen.
 
 (9) Für Bewilligungszeiträume, die vor dem 1. August 2020 begonnen haben, sind die §§ 12, 13, 14b Absatz 1 Satz 1, die §§ 23, 25 und 29 in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2020 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2020 begonnen haben.
+
+(10) Für Bewilligungszeiträume, die vor dem 1. August 2021 begonnen haben, sind die §§ 23 und 25 in der bis zum 31. Juli 2021 anzuwendenden Fassung weiter anzuwenden. Ab dem 1. Oktober 2021 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2021 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2021 begonnen haben.
 
 # § 66b – Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft
 

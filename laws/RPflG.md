@@ -433,7 +433,7 @@ c) die Änderung und die Aufhebung der Bewilligung der Prozesskostenhilfe nach d
 
 12. die Erteilung der vollstreckbaren Ausfertigungen in den Fällen des § 726 Absatz 1, der §§ 727 bis 729, 733, 738, 742, 744, 745 Absatz 2 sowie des § 749 der Zivilprozessordnung;
 
-13. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden und die Entscheidung über den Antrag auf Erteilung weiterer vollstreckbarer Ausfertigungen notarieller Urkunden nach § 797 Absatz 3 der Zivilprozessordnung und § 60 Satz 3 Nummer 2 des Achten Buches Sozialgesetzbuch;
+13. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden und die Entscheidung über den Antrag auf Erteilung weiterer vollstreckbarer Ausfertigungen notarieller Urkunden nach § 797 Absatz 2 Nummer 2 Buchstabe c der Zivilprozessordnung und die Entscheidung über die Erteilung weiterer vollstreckbarer Ausfertigungen nach § 60 Satz 3 Nummer 2 des Achten Buches Sozialgesetzbuch;
 
 14. die Anordnung, dass die Partei, welche einen Arrestbefehl oder eine einstweilige Verfügung erwirkt hat, binnen einer zu bestimmenden Frist Klage zu erheben habe (§ 926 Absatz 1, § 936 der Zivilprozessordnung);
 
@@ -485,7 +485,7 @@ Von den gerichtlichen Geschäften in Straf- und Bußgeldverfahren wird dem Recht
 
 9. die Erteilung der vollstreckbaren Ausfertigungen in den Fällen des § 20 Nummer 12 dieses Gesetzes in Verbindung mit § 99 Absatz 1 des Patentgesetzes, § 18 Absatz 2 des Gebrauchsmustergesetzes, § 4 Absatz 4 Satz 3 des Halbleiterschutzgesetzes, § 82 Absatz 1 des Markengesetzes, § 23 Absatz 4 Satz 4 des Designgesetzes;
 
-10. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden nach § 797 Absatz 3 der Zivilprozessordnung in Verbindung mit § 99 Absatz 1 des Patentgesetzes, § 18 Absatz 2 des Gebrauchsmustergesetzes, § 4 Absatz 4 Satz 3 des Halbleiterschutzgesetzes, § 82 Absatz 1 des Markengesetzes, § 23 Absatz 4 Satz 4 des Designgesetzes;
+10. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden nach § 797 Absatz 2 Nummer 1 der Zivilprozessordnung in Verbindung mit § 99 Absatz 1 des Patentgesetzes, § 18 Absatz 2 des Gebrauchsmustergesetzes, § 4 Absatz 4 Satz 3 des Halbleiterschutzgesetzes, § 82 Absatz 1 des Markengesetzes, § 23 Absatz 4 Satz 4 des Designgesetzes;
 
 11. die Entscheidung über Anträge auf Gewährung von Akteneinsicht an dritte Personen, sofern kein Beteiligter Einwendungen erhebt und es sich nicht um Akten von Patentanmeldungen, Patenten, Gebrauchsmusteranmeldungen, Gebrauchsmustern, angemeldeter oder eingetragener Topographien handelt, für die jede Bekanntmachung unterbleibt (§§ 50, 99 Absatz 3 des Patentgesetzes, §§ 9, 18 Absatz 2 des Gebrauchsmustergesetzes, § 4 Absatz 4 Satz 3 des Halbleiterschutzgesetzes, § 82 Absatz 3 des Markengesetzes, § 23 Absatz 4 Satz 4 des Designgesetzes);
 
@@ -701,7 +701,7 @@ In der Freien und Hansestadt Hamburg gilt § 24 Absatz 2 mit der Maßgabe, dass 
 
 3. die Erteilung einer weiteren vollstreckbaren Ausfertigung in den Fällen des § 733 der Zivilprozessordnung (§ 20 Nummer 12);
 
-4. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden nach § 797 Absatz 3 der Zivilprozessordnung (§ 20 Nummer 13);
+4. die Erteilung von weiteren vollstreckbaren Ausfertigungen gerichtlicher Urkunden nach § 797 Absatz 2 Nummer 1 der Zivilprozessordnung (§ 20 Nummer 13);
 
 5. die der Staatsanwaltschaft als Vollstreckungsbehörde in Straf- und Bußgeldsachen obliegenden Geschäfte bei der Vollstreckung von Geldstrafen und Geldbußen (§ 31 Absatz 2); hierzu gehört nicht die Vollstreckung von Ersatzfreiheitsstrafen.
 

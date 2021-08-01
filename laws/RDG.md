@@ -161,7 +161,7 @@ b) die Person eine Tätigkeit ausübt, die mit der beantragten Tätigkeit nicht 
 
 c) die Vermögensverhältnisse der Person ungeordnet sind,
 
-d) einer der in § 7 Nummer 1, 2 oder 6 der Bundesrechtsanwaltsordnung genannten Gründe vorliegt oder
+d) einer der in § 7 Satz 1 Nummer 1, 2 oder 6 der Bundesrechtsanwaltsordnung genannten Gründe vorliegt oder
 
 e) die Person in den letzten drei Jahren vor der Antragstellung
 
@@ -235,7 +235,7 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 (1) Ist eine als Rentenberater registrierte Person (§ 10 Absatz 1 Satz 1 Nummer 2) verstorben oder wurde ihre Registrierung zurückgenommen oder widerrufen, so kann die für die Registrierung zuständige Behörde einen Abwickler für ihre Praxis bestellen. Der Abwickler muss Rechtsanwalt sein oder eine Registrierung für denselben Bereich besitzen wie die registrierte Person, deren Praxis abzuwickeln ist.
 
-(2) Für die Bestellung und Durchführung der Abwicklung gelten § 53 Absatz 5 Satz 3, Absatz 9 und 10 Satz 1 bis 6 sowie § 55 Absatz 1 Satz 4 und 5, Absatz 2 Satz 1 und 4, Absatz 3 Satz 2 und Absatz 4 der Bundesrechtsanwaltsordnung entsprechend mit der Maßgabe, dass an die Stelle des Vorstands der Rechtsanwaltskammer die Behörde tritt, die den Abwickler bestellt hat.
+(2) Für die Bestellung und Durchführung der Abwicklung gelten § 53 Absatz 4 Satz 3, § 54 Absatz 1 Satz 2 und 3, Absatz 3 und 4 Satz 1 bis 3 sowie § 55 Absatz 1 Satz 4 und 5, Absatz 2 Satz 1 und 4, Absatz 3 Satz 2 und Absatz 4 der Bundesrechtsanwaltsordnung entsprechend mit der Maßgabe, dass an die Stelle des Vorstands der Rechtsanwaltskammer die Behörde tritt, die den Abwickler bestellt hat.
 
 # § 15 – Vorübergehende Rechtsdienstleistungen
 

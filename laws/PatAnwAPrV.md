@@ -515,7 +515,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (1) Das Deutsche Patent- und Markenamt hat möglichst bis zum 31. Juli eines Jahres die Monate zu bestimmen und zu veröffentlichen, in denen im Folgejahr die Patentanwaltsprüfung abgelegt werden kann (Prüfungstermine). Jährlich sollen mindestens zwei Prüfungstermine stattfinden. Die Veröffentlichung hat im Blatt für Patent-, Muster- und Zeichenwesen sowie auf der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
 
-(2) Das Deutsche Patent- und Markenamt hat die Tage zu bestimmen und zu veröffentlichen, an denen der schriftliche Teil der Patentanwaltsprüfung abzulegen ist (Prüfungstage). Es hat zudem den voraussichtlichen Zeitraum für den mündlichen Teil der Patentanwaltsprüfung anzukündigen. Die Veröffentlichung und die Ankündigung nach den Sätzen 1 und 2 haben auf der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
+(2) Das Deutsche Patent- und Markenamt hat die Tage zu bestimmen und zu veröffentlichen, an denen der schriftliche Teil der Patentanwaltsprüfung abzulegen ist (Prüfungstage). Wenn die schriftliche Prüfung elektronisch durchgeführt werden soll, ist darauf bei der Veröffentlichung der Prüfungstage hinzuweisen. Das Deutsche Patent- und Markenamt hat zudem den voraussichtlichen Zeitraum für den mündlichen Teil der Patentanwaltsprüfung anzukündigen. Die Veröffentlichung und die Ankündigung nach den Sätzen 1 und 3 haben auf der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
 
 (+++ § 35: Zur Anwendung vgl. § 67 +++)
 
@@ -787,9 +787,7 @@ c) die Zeiten des Verlassens des Prüfungssaals durch die Prüflinge während de
 
 d) gerügte Mängel und verlängerte Bearbeitungszeiten nach § 53 Absatz 1 sowie
 
-e) besondere Vorkommnisse,
-
-4. hat die Klausuren nach Abgabe aller Klausuren in einem von ihr zu versiegelnden Umschlag zu verschließen.
+e) besondere Vorkommnisse.
 
 (+++ § 48: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 

@@ -5,6 +5,26 @@
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
+
+|      |                                               |
+|:-----|:----------------------------------------------|
+| §  1 | Staatliche Anerkennung des Ausbildungsberufes |
+| §  2 | Dauer der Berufsausbildung                    |
+| §  3 | Struktur der Berufsausbildung                 |
+| §  4 | Ausbildungsrahmenplan, Ausbildungsberufsbild  |
+| §  5 | Durchführung der Berufsausbildung             |
+| §  6 | Gesellenprüfung                               |
+| §  7 | Teil 1 der Gesellenprüfung                    |
+| §  8 | Teil 2 der Gesellenprüfung                    |
+| §  9 | Gewichtungs- und Bestehensregelung            |
+| § 10 | Bestehende Berufsausbildungsverhältnisse      |
+| § 11 | Inkrafttreten, Außerkrafttreten               |
+
+|         |                                                                          |
+|:--------|:-------------------------------------------------------------------------|
+| Anlage: | Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin |
+
 # § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1 der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure, der Anlage A der Handwerksordnung staatlich anerkannt.
@@ -90,27 +110,25 @@ Abschnitt B
   
 Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten:
 
-1. Pflegende Kosmetik/Visagistik,
+1. Visagistik,
 
 2. Langhaarfrisuren,
 
-3. Nageldesign/-modellage,
+3. Haarersatz,
 
-4. Haarersatz,
-
-5. Coloration;
+4. Coloration;
 
 Abschnitt C  
   
 Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1. Berufsbildung, Arbeits- und Tarifrecht,
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+3. Umweltschutz und Nachhaltigkeit,
 
-4. Umweltschutz.
+4. digitalisierte Arbeitswelt.
 
 # § 5 – Durchführung der Berufsausbildung
 
@@ -118,7 +136,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
+(3) (weggefallen)
 
 # § 6 – Gesellenprüfung
 
@@ -132,15 +150,15 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage 2 für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Klassische Friseurarbeit.
+(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Basisfriseurarbeiten.
 
-(4) Für den Prüfungsbereich Klassische Friseurarbeit bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Basisfriseurarbeiten bestehen folgende Vorgaben:
 
 1. Der Prüfling soll nachweisen, dass er
 
 a) Haar und Kopfhaut beurteilen, reinigen und pflegen,
 
-b) Kopfhaut mit verschiedenen Techniken massieren,
+b) Augenbrauen färben und formen,
 
 c) Haare mit klassischen Techniken schneiden,
 
@@ -160,19 +178,19 @@ a) Ausführen einer klassischen Friseurarbeit an der Dame mit dauerhafter Umform
 
 b) Ausführen einer klassischen Friseurarbeit am Herren einschließlich Föhnen.
 
-3. Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe mit situativem Fachgespräch und schriftlichen Aufgabenstellungen durchführen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück erstellen.
+3. Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe durchführen und Aufgaben schriftlich lösen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück erstellen.
 
-4. Die Prüfungszeit beträgt insgesamt 270 Minuten. Innerhalb dieser Zeit soll die Arbeitsaufgabe in 210 Minuten einschließlich 10 Minuten situatives Fachgespräch und 60 Minuten schriftliche Aufgabenstellungen durchgeführt werden. Das Prüfungsstück soll einen zeitlichen Umfang von 60 Minuten haben.
+4. Die Prüfungszeit beträgt für die Arbeitsaufgabe 210 Minuten und für die schriftliche Arbeit 60 Minuten. Das Prüfungsstück soll einen zeitlichen Umfang von 60 Minuten haben.
 
-5. Die Arbeitsaufgabe einschließlich des situativen Fachgespräches und der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
+5. Die Arbeitsaufgabe einschließlich der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
 # § 8 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Gesellenprüfung besteht aus den Prüfungsbereichen:
+(2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
-1. Friseur- und Kosmetikdienstleistungen,
+1. Friseur- und dekorative Kosmetikdienstleistungen,
 
 2. Friseurtechniken,
 
@@ -180,7 +198,7 @@ b) Ausführen einer klassischen Friseurarbeit am Herren einschließlich Föhnen.
 
 4. Wirtschafts- und Sozialkunde.
 
-(3) Für den Prüfungsbereich Friseur- und Kosmetikdienstleistungen bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen bestehen folgende Vorgaben:
 
 1. Der Prüfling soll nachweisen, dass er
 
@@ -206,9 +224,9 @@ kann.
 
 2. Dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-a) Ausführen einer modernen Friseurarbeit an der Dame zu einem besonderen Anlass mit einem darauf abgestimmten Make-up und
+a) Ausführen einer aktuell modischen Friseurarbeit an der Dame zu einem besonderen Anlass mit einem darauf abgestimmten Make-up und
 
-b) Ausführen einer modernen Friseurarbeit am Herren.
+b) Ausführen einer aktuell modischen Friseurarbeit am Herren.
 
 3. Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe durchführen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück anfertigen. Der Prüfling soll im Rahmen der Arbeitsaufgabe die praktische Aufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie eine Gesprächssimulation in Form eines Kundenberatungsgespräches durchführen. Bei der Arbeitsaufgabe sind die in der Wahlqualifikation nach § 3 Nr. 2 erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten zu berücksichtigen.
 
@@ -262,8 +280,8 @@ kann.
   
 
 <table width="100%" style="border-collapse: collapse;"><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;">Prüfungsbereich<br />
-Klassische Friseurarbeit</td><td style="text-align: left;">25 Prozent,</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">Prüfungsbereich<br />
-Friseur- und Kosmetikdienstleistungen</td><td style="text-align: left;">45 Prozent,</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">Prüfungsbereich Friseurtechniken</td><td style="text-align: left;">10 Prozent,</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">Prüfungsbereich<br />
+Basisfriseurarbeiten</td><td style="text-align: left;">25 Prozent,</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">Prüfungsbereich<br />
+Friseur- und dekorative Kosmetikdienstleistungen</td><td style="text-align: left;">45 Prozent,</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">Prüfungsbereich Friseurtechniken</td><td style="text-align: left;">10 Prozent,</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">Prüfungsbereich<br />
 Betriebsorganisation</td><td style="text-align: left;">10 Prozent,</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td style="text-align: left;">Prüfungsbereich<br />
 Wirtschafts- und Sozialkunde</td><td style="text-align: left;">10 Prozent.<br />
 </td></tr></tbody></table>
@@ -275,7 +293,7 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">10 Prozent.<br />
 
 2. im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
-3. im Prüfungsbereich Friseur- und Kosmetikdienstleistungen mit mindestens „ausreichend“,
+3. im Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen mit mindestens „ausreichend“,
 
 4. in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
 

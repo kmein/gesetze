@@ -1729,7 +1729,7 @@ Abschnitt 2 Beratung
 
 Hauptabschnitt 5 Sonstige Geschäfte
 
-Abschnitt 1 Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a des Beurkundungsgesetzes)
+Abschnitt 1 Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a BeurkG)
 
 Abschnitt 2 Andere Bescheinigungen und sonstige Geschäfte
 
@@ -4269,13 +4269,13 @@ nach § 34 GNotKG
 – Tabelle B
 
 Vorbemerkung 2:  
- (1) In den Fällen, in denen es für die Gebührenberechnung maßgeblich ist, dass ein bestimmter Notar eine Tätigkeit vorgenommen hat, steht diesem Notar der Aktenverwahrer gemäß § 51 BNotO, der Notariatsverwalter gemäß § 56 BNotO oder ein anderer Notar, mit dem der Notar am Ort seines Amtssitzes zur gemeinsamen Berufsausübung verbunden ist oder mit dem er dort gemeinsame Geschäftsräume unterhält, gleich.  (2) Bundes- oder landesrechtliche Vorschriften, die Gebühren- oder Auslagenbefreiung gewähren, sind nicht auf den Notar anzuwenden. Außer in den Fällen der Kostenerstattung zwischen den Trägern der Sozialhilfe gilt die in § 64 Abs. 2 Satz 3 Nr. 2 SGB X bestimmte Gebührenfreiheit auch für den Notar.  (3) Beurkundungen nach § 67 Abs. 1 des Beurkundungsgesetzes und die Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland sind gebührenfrei.
+ (1) In den Fällen, in denen es für die Gebührenberechnung maßgeblich ist, dass ein bestimmter Notar eine Tätigkeit vorgenommen hat, steht diesem Notar der Aktenverwahrer gemäß § 51 BNotO, der Notariatsverwalter gemäß § 56 BNotO oder ein anderer Notar, mit dem der Notar am Ort seines Amtssitzes zur gemeinsamen Berufsausübung verbunden ist oder mit dem er dort gemeinsame Geschäftsräume unterhält, gleich.  (2) Bundes- oder landesrechtliche Vorschriften, die Gebühren- oder Auslagenbefreiung gewähren, sind nicht auf den Notar anzuwenden. Außer in den Fällen der Kostenerstattung zwischen den Trägern der Sozialhilfe gilt die in § 64 Abs. 2 Satz 3 Nr. 2 SGB X bestimmte Gebührenfreiheit auch für den Notar.  (3) Beurkundungen nach § 67 Abs. 1 BeurkG und die Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland sind gebührenfrei.
 
 Hauptabschnitt 1  
 Beurkundungsverfahren
 
 Vorbemerkung 2.1:  
- (1) Die Gebühr für das Beurkundungsverfahren entsteht für die Vorbereitung und Durchführung der Beurkundung in Form einer Niederschrift (§§ 8 und 36 des Beurkundungsgesetzes) einschließlich der Beschaffung der Information.  (2) Durch die Gebühren dieses Hauptabschnitts werden auch abgegolten  
+ (1) Die Gebühr für das Beurkundungsverfahren entsteht für die Vorbereitung und Durchführung der Beurkundung in Form einer Niederschrift (§§ 8 und 36 BeurkG) einschließlich der Beschaffung der Information.  (2) Durch die Gebühren dieses Hauptabschnitts werden auch abgegolten  
 1. die Übermittlung von Anträgen und Erklärungen an ein Gericht oder eine Behörde,  
 2. die Stellung von Anträgen im Namen der Beteiligten bei einem Gericht oder einer Behörde,  
 3. die Erledigung von Beanstandungen einschließlich des Beschwerdeverfahrens und  
@@ -4810,7 +4810,7 @@ Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintr
 
 23804
 
-Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 797 Abs. 3, § 733 ZPO)  .......... Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.
+Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 797 Abs. 2, § 733 ZPO)  .......... Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.
 
   
 22,00 €
@@ -4969,7 +4969,7 @@ Hauptabschnitt 5
 Sonstige Geschäfte
 
 Abschnitt 1  
-Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a des Beurkundungsgesetzes)
+Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a BeurkG)
 
 25100
 
@@ -5003,7 +5003,7 @@ Die Gebühr 25100 beträgt  .......... 
 Beglaubigung von Dokumenten  ..........   
  (1) Neben der Gebühr wird keine Dokumentenpauschale erhoben.  (2) Die Gebühr wird nicht erhoben für die Erteilung  
 1. beglaubigter Kopien oder Ausdrucke der vom Notar aufgenommenen oder entworfenen oder in Urschrift in seiner dauernden Verwahrung befindlichen Urkunden und  
-2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 des Beurkundungsgesetzes).  (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich.
+2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 BeurkG).  (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich.
 
 1,00 €  
 für jede  
@@ -5020,7 +5020,7 @@ Sicherstellung der Zeit, zu der eine Privaturkunde ausgestellt ist, einschließl
 
 25104
 
-Erteilung von Bescheinigungen über Tatsachen oder Verhältnisse, die urkundlich nachgewiesen oder offenkundig sind, einschließlich der Identitätsfeststellung, wenn sie über die §§ 10 und 40 Abs. 4 des Beurkundungsgesetzes hinaus selbständige Bedeutung hat  ..........   
+Erteilung von Bescheinigungen über Tatsachen oder Verhältnisse, die urkundlich nachgewiesen oder offenkundig sind, einschließlich der Identitätsfeststellung, wenn sie über die §§ 10 und 40 Abs. 4 BeurkG hinaus selbständige Bedeutung hat  ..........   
  Die Gebühr entsteht nicht, wenn die Erteilung der Bescheinigung eine Betreuungstätigkeit nach Nummer 22200 darstellt.
 
   
@@ -5224,7 +5224,7 @@ zu erhebenden Gebühr
 26001
 
 Abgabe der zu beurkundenden Erklärung eines Beteiligten in einer fremden Sprache ohne Hinzuziehung eines Dolmetschers sowie Beurkundung, Beglaubigung oder Bescheinigung in einer fremden Sprache oder Übersetzung einer Erklärung in eine andere Sprache  ..........   
- Mit der Gebühr ist auch die Erteilung einer Bescheinigung gemäß § 50 des Beurkundungsgesetzes abgegolten.
+ Mit der Gebühr ist auch die Erteilung einer Bescheinigung gemäß § 50 BeurkG abgegolten.
 
   
   

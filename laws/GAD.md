@@ -255,9 +255,11 @@ Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von Aufgaben de
 
 (2) Wirkt der Ehegatte des ins Ausland entsandten Beamten bei der Erfüllung von Aufgaben der Auslandsvertretung oder des Beamten mit und erleidet er dabei einen Unfall, der bei dem Beamten selbst ein Dienstunfall im Sinne des § 31 Abs. 1 des Beamtenversorgungsgesetzes wäre, so wird dem Beamten dafür ein Ausgleich gewährt.
 
-(3) Der Ausgleich erfolgt in sinngemäßer Anwendung der §§ 32 bis 34 Abs. 1, des § 35 und der §§ 43 bis 46 des Beamtenversorgungsgesetzes, soweit nicht der Beamte, der Familienangehörige oder die andere zur häuslichen Gemeinschaft gehörende Person einen Ausgleich von anderer Seite erhält. Im übrigen wird dem Beamten wegen der gesundheitlichen und wirtschaftlichen Folgen auf Antrag eine Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes gewährt.
+(3) Der Ausgleich erfolgt in sinngemäßer Anwendung der §§ 32 bis 34, 35, 43 bis 46 des Beamtenversorgungsgesetzes, soweit nicht der Beamte, der Familienangehörige oder die andere zur häuslichen Gemeinschaft gehörende Person einen Ausgleich von anderer Seite erhält. Im übrigen wird dem Beamten wegen der gesundheitlichen und wirtschaftlichen Folgen auf Antrag eine Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes gewährt.
 
 (4) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen erläßt.
+
+(+++ § 22 Abs. 3 Satz 1: IdF d. Art. 14 Abs. 4 G v. 28.6.2021 I 2250 mWv 1.8.2021 (die Änderung wurde hinsichtlich der Leerzeichen sinngemäß konsolidiert) +++)
 
 # § 23 – Reisebeihilfen in besonderen Fällen
 

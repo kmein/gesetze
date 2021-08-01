@@ -424,7 +424,7 @@ Der ehrenamtliche Richter und der Vertrauensmann (§ 26) erhalten eine Entschäd
 
 # § 37
 
-(1) Der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht und seine hauptamtlichen Mitarbeiter des höheren Dienstes müssen die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen.
+(1) Der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht und seine hauptamtlichen Mitarbeiter des höheren Dienstes müssen die Befähigung zum Richteramt haben.
 
 (2) Der Vertreter des öffentlichen Interesses bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht muß die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben; § 174 bleibt unberührt.
 

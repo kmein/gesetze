@@ -1221,7 +1221,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (3) Das Gericht entscheidet über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung.
 
-(4) Ein Ersuchen nach Absatz 1 oder 2 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt.
+(4) Ein Ersuchen nach Absatz 1 oder 2 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat.
 
 # § 23 – Glaubhaftmachung, Versicherung an Eides statt
 
@@ -1229,7 +1229,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (2) Die Behörde darf bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt nur verlangen und abnehmen, wenn die Abnahme der Versicherung über den betreffenden Gegenstand und in dem betreffenden Verfahren durch Gesetz oder Rechtsverordnung vorgesehen und die Behörde durch Rechtsvorschrift für zuständig erklärt worden ist. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis geführt haben oder einen unverhältnismäßigen Aufwand erfordern. Von eidesunfähigen Personen im Sinne des § 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.
 
-(3) Wird die Versicherung an Eides statt von einer Behörde zur Niederschrift aufgenommen, sind zur Aufnahme nur der Behördenleiter, sein allgemeiner Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
+(3) Wird die Versicherung an Eides statt von einer Behörde zur Niederschrift aufgenommen, sind zur Aufnahme nur der Behördenleiter, sein allgemeiner Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
 
 (4) Die Versicherung besteht darin, dass der Versichernde die Richtigkeit seiner Erklärung über den betreffenden Gegenstand bestätigt und erklärt: "Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe." Bevollmächtigte und Beistände sind berechtigt, an der Aufnahme der Versicherung an Eides statt teilzunehmen.
 
@@ -1704,7 +1704,7 @@ Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht 
 
 # § 60 – Unterwerfung unter die sofortige Vollstreckung
 
-(1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 53 Abs. 1 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt, vertreten werden.
+(1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 53 Abs. 1 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat, vertreten werden.
 
 (2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist § 66 entsprechend anzuwenden. Will eine natürliche oder juristische Person des Privatrechts oder eine nichtrechtsfähige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde, ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
@@ -1970,7 +1970,7 @@ Daten über die Gesundheit eines Ausländers dürfen nur übermittelt werden,
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie im Einzelfall für die rechtmäßige Erfüllung der in der Zuständigkeit der Behörden für Verfassungsschutz, des Bundesnachrichtendienstes, des Militärischen Abschirmdienstes und des Bundeskriminalamtes liegenden Aufgaben erforderlich ist. Die Übermittlung ist auf Angaben über Name und Vorname sowie früher geführte Namen, Geburtsdatum, Geburtsort, derzeitige und frühere Anschriften der betroffenen Person sowie Namen und Anschriften ihrer derzeitigen und früheren Arbeitgeber beschränkt.
 
-(2) Über die Erforderlichkeit des Übermittlungsersuchens entscheidet eine von dem Leiter oder der Leiterin der ersuchenden Stelle bestimmte beauftragte Person, die die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen soll. Wenn eine oberste Bundes- oder Landesbehörde für die Aufsicht über die ersuchende Stelle zuständig ist, ist sie über die gestellten Übermittlungsersuchen zu unterrichten. Bei der ersuchten Stelle entscheidet über das Übermittlungsersuchen der Behördenleiter oder die Behördenleiterin oder dessen oder deren allgemeiner Stellvertreter oder allgemeine Stellvertreterin.
+(2) Über die Erforderlichkeit des Übermittlungsersuchens entscheidet eine von dem Leiter oder der Leiterin der ersuchenden Stelle bestimmte beauftragte Person, die die Befähigung zum Richteramt haben soll. Wenn eine oberste Bundes- oder Landesbehörde für die Aufsicht über die ersuchende Stelle zuständig ist, ist sie über die gestellten Übermittlungsersuchen zu unterrichten. Bei der ersuchten Stelle entscheidet über das Übermittlungsersuchen der Behördenleiter oder die Behördenleiterin oder dessen oder deren allgemeiner Stellvertreter oder allgemeine Stellvertreterin.
 
 # § 73 – Übermittlung für die Durchführung eines Strafverfahrens
 

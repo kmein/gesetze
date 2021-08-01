@@ -115,11 +115,11 @@ Sonstige Angaben nach den Sätzen 1 und 2, die der Registerbehörde elektronisch
 
 (2) Ist oder wird bekannt, dass die Zuständigkeit für die Verwahrung einer erbfolgerelevanten Urkunde von den Verwahrangaben im Zentralen Testamentsregister abweicht, etwa weil das Gericht aufgelöst oder der Notar aus dem Amt geschieden ist, sendet die Registerbehörde die Benachrichtigung nach Absatz 1 an die nun zuständige Stelle. Hilfsweise ist das Amtsgericht zu benachrichtigen, in dessen Bezirk die aufgehobene Verwahrstelle lag.
 
-(3) Sind im Zentralen Testamentsregister Verwahrangaben registriert, teilt die Registerbehörde dem nach § 343 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständigen Nachlassgericht mit, welche Verwahrangaben im Zentralen Testamentsregister enthalten sind und welche Verwahrstelle sie benachrichtigt hat, und übersendet die Sterbefallmitteilung. Lässt sich das zuständige Nachlassgericht mithilfe der Sterbefallmitteilung (§ 6) nicht eindeutig bestimmen, wird vermutet, dass das zu benachrichtigende Nachlassgericht dasjenige ist, das für den letzten inländischen Wohnsitz des Erblassers örtlich zuständig ist. Wenn die Sterbefallmitteilung keinen inländischen Wohnsitz nennt, wird als zu benachrichtigendes Nachlassgericht das Amtsgericht Schöneberg in Berlin vermutet. Ist im Zentralen Testamentsregister neben einer Verwahrangabe eine Mitteilung nach § 78d Absatz 1 Satz 1 Nummer 2 der Bundesnotarordnung gespeichert, teilt die Registerbehörde auch diese Daten mit. Sind im Zentralen Testamentsregister Verwahrangaben nicht registriert, übersendet die Registerbehörde die Sterbefallmitteilung oder vorhandene Mitteilungen nach § 78d Absatz 1 Satz 1 Nummer 2 der Bundesnotarordnung nur auf Antrag. Die Landesjustizverwaltungen können gegenüber der Registerbehörde erklären, dass eine Benachrichtigung und Übermittlung nach Satz 5 in jedem Sterbefall erfolgen soll.
+(3) Sind im Zentralen Testamentsregister Verwahrangaben registriert, teilt die Registerbehörde dem nach § 343 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständigen Nachlassgericht mit, welche Verwahrangaben im Zentralen Testamentsregister enthalten sind und welche Verwahrstelle sie benachrichtigt hat, und übersendet die Sterbefallmitteilung. Lässt sich das zuständige Nachlassgericht mithilfe der Sterbefallmitteilung (§ 6) nicht eindeutig bestimmen, wird vermutet, dass das zu benachrichtigende Nachlassgericht dasjenige ist, das für den letzten inländischen Wohnsitz des Erblassers örtlich zuständig ist. Wenn die Sterbefallmitteilung keinen inländischen Wohnsitz nennt, wird als zu benachrichtigendes Nachlassgericht das Amtsgericht Schöneberg in Berlin vermutet. Ist im Zentralen Testamentsregister neben einer Verwahrangabe eine Mitteilung nach § 78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung gespeichert, teilt die Registerbehörde auch diese Daten mit. Sind im Zentralen Testamentsregister Verwahrangaben nicht registriert, übersendet die Registerbehörde die Sterbefallmitteilung oder vorhandene Mitteilungen nach § 78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung nur auf Antrag. Die Landesjustizverwaltungen können gegenüber der Registerbehörde erklären, dass eine Benachrichtigung und Übermittlung nach Satz 5 in jedem Sterbefall erfolgen soll.
 
 (4) Das Nachlassgericht bestätigt der Registerbehörde den Eingang einer erbfolgerelevanten Urkunde unter Angabe des Datums des Eingangs der Urkunde und des Aktenzeichens des Nachlassverfahrens. Die Registerbehörde ergänzt den Ort der Verwahrung der erbfolgerelevanten Urkunde in den betroffenen Verwahrdatensätzen.
 
-(5) Die vorstehenden Absätze gelten für Mitteilungen, die von der Registerbehörde nach § 4 des Testamentsverzeichnis-Überführungsgesetzes zu bearbeiten sind, entsprechend.
+(5) (weggefallen)
 
 # § 8 – Registerauskünfte
 
@@ -131,9 +131,19 @@ Sonstige Angaben nach den Sätzen 1 und 2, die der Registerbehörde elektronisch
 
 Das Vorliegen der Voraussetzungen des § 78f Absatz 1 Satz 2 und 3 der Bundesnotarordnung prüft die Registerbehörde nur, wenn sie dazu nach den Umständen des Einzelfalls Anlass hat.
 
-(2) Für die Kontrolle der Zulässigkeit der Ersuchen und für die Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert die Registerbehörde bei allen nach Absatz 1 erteilten Auskünften elektronisch die ersuchende Stelle, deren Angaben nach Absatz 1 Satz 1, den Zeitpunkt des Ersuchens, die betroffenen Registereinträge sowie die übermittelten Daten.
+(1a) Die Registerbehörde erteilt nach § 78f Absatz 1a der Bundesnotarordnung Auskunft aus dem Zentralen Testamentsregister, wenn die ersuchende Stelle
 
-(3) Die Protokolldaten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung und der Sicherstellung eines ordnungsgemäßen Registerbetriebs verwendet werden. Sie sind gegen zweckfremde Verwendung besonders zu schützen und fünf Jahre nach Ablauf des Kalenderjahres der Auskunftserteilung zu löschen.
+1. ihr Geschäftszeichen und zur Person des Erblassers mindestens seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort angibt,
+
+2. das Sterbedatum und den Sterbeort des Erblassers angibt oder die Einwilligung des Erblassers nach § 78f Absatz 1 Satz 3 der Bundesnotarordnung vorlegt und
+
+3. erklärt, dass die in § 78f Absatz 1a der Bundesnotarordnung genannten Voraussetzungen vorliegen.
+
+Absatz 1 Satz 2 gilt entsprechend.
+
+(2) Für die Kontrolle der Zulässigkeit der Ersuchen und für die Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert die Registerbehörde bei allen nach Absatz 1 erteilten Auskünften elektronisch die ersuchende Stelle, deren Angaben nach Absatz 1 Satz 1, den Zeitpunkt des Ersuchens, die betroffenen Registereinträge sowie die übermittelten Daten. Die ein Auskunftsverfahren nach Absatz 1a betreffenden Dokumente hat die Registerbehörde in Papierform aufzubewahren oder elektronisch zu speichern.
+
+(3) Die Protokolldaten und die nach Absatz 2 Satz 2 aufbewahrten Dokumente dürfen nur für die Sicherstellung eines ordnungsgemäßen Registerbetriebs, einschließlich der Datenschutzkontrolle und der Datensicherheit, verwendet werden. Sie sind gegen zweckfremde Verwendung besonders zu schützen. Fünf Jahre nach Ablauf des Kalenderjahres der Auskunftserteilung oder der anderweitigen Erledigung der Angelegenheit sind die Protokolldaten und die nach Absatz 2 Satz 2 elektronisch gespeicherten Dokumente zu löschen sowie die nach Absatz 2 Satz 2 in Papierform aufbewahrten Dokumente zu vernichten.
 
 (4) Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte erbfolgerelevante Urkunden betreffen (§ 78f Absatz 2 der Bundesnotarordnung), und das Recht des Erblassers auf Auskunft nach den datenschutzrechtlichen Vorschriften bleiben unberührt.
 
@@ -147,9 +157,11 @@ Das Vorliegen der Voraussetzungen des § 78f Absatz 1 Satz 2 und 3 der Bundesnot
 
 1. im Zusammenhang mit nach § 78d Absatz 4 der Bundesnotarordnung zu registrierenden Vergleichen und mit von Konsularbeamten aufgenommenen erbfolgerelevanten Urkunden,
 
-2. bei Benachrichtigungen nach § 7, außer nach § 7 Absatz 3 für den Fall, dass keine Verwahrangaben registriert sind, oder
+2. bei Benachrichtigungen nach § 7, außer nach § 7 Absatz 3 für den Fall, dass keine Verwahrangaben registriert sind,
 
-3. bei technischen Störungen.
+3. bei Auskünften an Stellen nach § 78f Absatz 1a der Bundesnotarordnung oder
+
+4. bei technischen Störungen.
 
 (4) § 63 Absatz 1 und 3 der Personenstandsverordnung bleibt unberührt.
 
@@ -157,11 +169,11 @@ Das Vorliegen der Voraussetzungen des § 78f Absatz 1 Satz 2 und 3 der Bundesnot
 
 (1) Die Registerbehörde bewahrt die Verwahrangaben betreffenden Dokumente und Sterbefallmitteilungen nur in elektronischer Form auf.
 
-(2) Daten zu Sterbefallmitteilungen, die nicht nach § 6 Absatz 2 Satz 3 gelöscht werden, sind sechs Monate nach Eingang bei der Registerbehörde zu löschen, wenn keine die Sterbefallmitteilung betreffenden Verwahrangaben im Zentralen Testamentsregister registriert sind. In allen übrigen Fällen gilt für die Löschung von Sterbefallmitteilungen und der Daten, die Verwahrangaben gemäß § 1 betreffen, § 78d Absatz 1 Satz 2 der Bundesnotarordnung entsprechend. § 8 Absatz 3 Satz 2 bleibt unberührt.
+(2) Daten zu Sterbefallmitteilungen, die nicht nach § 6 Absatz 2 Satz 3 gelöscht werden, sind sechs Monate nach Eingang bei der Registerbehörde zu löschen, wenn keine die Sterbefallmitteilung betreffenden Verwahrangaben im Zentralen Testamentsregister registriert sind. In allen übrigen Fällen gilt für die Löschung von Sterbefallmitteilungen und der Daten, die Verwahrangaben gemäß § 1 betreffen, § 78d Absatz 1 Satz 3 der Bundesnotarordnung entsprechend. § 8 Absatz 3 Satz 3 bleibt unberührt.
 
 # § 11 – Nacherfassungen
 
-Wird festgestellt, dass eine verwahrte erbfolgerelevante Urkunde nicht im Zentralen Testamentsregister registriert ist, obwohl dies nach dem jeweiligen Stand der Testamentsverzeichnisüberführung nach dem Testamentsverzeichnis-Überführungsgesetz zu erwarten wäre, ist die entsprechende Meldung von der Verwahrstelle nachzuholen.
+Wird festgestellt, dass eine verwahrte erbfolgerelevante Urkunde nicht im Zentralen Testamentsregister registriert ist, obwohl dies nach dem Testamentsverzeichnis-Überführungsgesetz vorgesehen war, ist die entsprechende Meldung von der Verwahrstelle nachzuholen.
 
 # § 12 – Datenschutz und Datensicherheit
 

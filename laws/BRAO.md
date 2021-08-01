@@ -49,7 +49,7 @@ Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
 2. wenn die antragstellende Person infolge strafgerichtlicher Verurteilung die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt;
 
-3. wenn die antragstellende Person durch rechtskräftiges Urteil aus der Rechtsanwaltschaft ausgeschlossen ist und seit Rechtskraft des Urteils noch nicht acht Jahre verstrichen sind, Nummer 5 bleibt unberührt;
+3. wenn die antragstellende Person durch rechtskräftiges Urteil aus der Rechtsanwaltschaft ausgeschlossen ist;
 
 4. wenn gegen die antragstellende Person im Verfahren über die Richteranklage auf Entlassung oder im Disziplinarverfahren auf Entfernung aus dem Dienst in der Rechtspflege rechtskräftig erkannt worden ist;
 
@@ -61,9 +61,11 @@ Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
 8. wenn die antragstellende Person eine Tätigkeit ausübt, die mit dem Beruf des Rechtsanwalts, insbesondere seiner Stellung als unabhängiges Organ der Rechtspflege nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann;
 
-9. wenn die antragstellende Person sich im Vermögensverfall befindet; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen der antragstellenden Person eröffnet oder die antragstellende Person in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozeßordnung) eingetragen ist;
+9. wenn die antragstellende Person sich im Vermögensverfall befindet; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen der antragstellenden Person eröffnet oder die antragstellende Person in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist;
 
 10. wenn die antragstellende Person Richter, Beamter, Berufssoldat oder Soldat auf Zeit ist, es sei denn, dass sie die ihr übertragenen Aufgaben ehrenamtlich wahrnimmt oder dass ihre Rechte und Pflichten auf Grund der §§ 5, 6, 8 und 36 des Abgeordnetengesetzes oder entsprechender Rechtsvorschriften ruhen.
+
+Satz 1 Nummer 3 und 4 gilt nur, wenn seit Rechtskraft der Entscheidung noch keine acht Jahre verstrichen sind. Ein Fristablauf nach Satz 2 lässt die Anwendbarkeit des Satzes 1 Nummer 5 unberührt.
 
 # § 8 – (weggefallen)
 
@@ -71,11 +73,7 @@ Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
 # § 10 – Aussetzung des Zulassungsverfahrens
 
-(1) Die Entscheidung über den Antrag auf Zulassung zur Rechtsanwaltschaft kann ausgesetzt werden, wenn gegen die antragstellende Person wegen des Verdachts einer Straftat ein Ermittlungsverfahren oder ein strafgerichtliches Verfahren schwebt.
-
-(2) Die Entscheidung über den Antrag ist auszusetzen, wenn gegen die antragstellende Person die öffentliche Klage wegen einer Straftat, welche die Unfähigkeit zur Bekleidung öffentlicher Ämter zur Folge haben kann, erhoben ist.
-
-(3) Über den Antrag auf Zulassung zur Rechtsanwaltschaft ist jedoch zu entscheiden, wenn er bereits unbeschadet des Ergebnisses des Ermittlungsverfahrens oder des Ausganges des strafgerichtlichen Verfahrens abzulehnen ist.
+Die Entscheidung über den Antrag auf Zulassung zur Rechtsanwaltschaft kann ausgesetzt werden, wenn gegen die antragstellende Person ein Verfahren wegen des Verdachts einer Straftat anhängig ist, in dem der Tatvorwurf eine Verurteilung erwarten lässt, die eine Versagung der Zulassung zur Folge haben würde.
 
 # § 11 – (weggefallen)
 
@@ -89,7 +87,7 @@ Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
 2. den Abschluss der Berufshaftpflichtversicherung nachgewiesen oder eine vorläufige Deckungszusage vorgelegt hat.
 
-(3) Mit der Zulassung wird die Bewerberin oder der Bewerber Mitglied der zulassenden Rechtsanwaltskammer.
+(3) Mit der Zulassung wird der Rechtsanwalt Mitglied der zulassenden Rechtsanwaltskammer.
 
 (4) Nach der Zulassung darf die Tätigkeit unter der Berufsbezeichnung "Rechtsanwältin" oder "Rechtsanwalt" ausgeübt werden.
 
@@ -107,7 +105,9 @@ Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
 (5) Leistet eine Bewerberin den Eid nach Absatz 1 oder das Gelöbnis nach Absatz 4, so treten an die Stelle der Wörter "eines Rechtsanwalts" die Wörter "einer Rechtsanwältin".
 
-(6) Über die Vereidigung ist ein Protokoll aufzunehmen, das auch den Wortlaut des Eides oder des Gelöbnisses zu enthalten hat. Das Protokoll ist von dem Rechtsanwalt und einem Mitglied des Vorstands der Rechtsanwaltskammer zu unterschreiben. Es ist zu den Personalakten des Rechtsanwalts zu nehmen.
+(6) Über die Vereidigung ist ein Protokoll aufzunehmen, das auch den Wortlaut des Eides, der anderen Beteuerungsformel oder des Gelöbnisses zu enthalten hat. Das Protokoll ist von dem Rechtsanwalt und einem Mitglied des Vorstands der Rechtsanwaltskammer zu unterschreiben. Es ist zu der Mitgliederakte des Rechtsanwalts zu nehmen.
+
+(7) Hat der Bewerber schon einmal den Eid nach Absatz 1 oder das Gelöbnis nach Absatz 4 geleistet, so genügt es in der Regel, wenn er auf den früheren Eid oder das frühere Gelöbnis hingewiesen wird.
 
 # § 13 – Erlöschen der Zulassung
 
@@ -131,7 +131,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 6. (weggefallen)
 
-7. wenn der Rechtsanwalt in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Rechtsuchenden nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Rechtsanwalts eröffnet oder der Rechtsanwalt in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozeßordnung) eingetragen ist;
+7. wenn der Rechtsanwalt in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Rechtsuchenden nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Rechtsanwalts eröffnet oder der Rechtsanwalt in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist;
 
 8. wenn der Rechtsanwalt eine Tätigkeit ausübt, die mit seinem Beruf, insbesondere seiner Stellung als unabhängiges Organ der Rechtspflege nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann; dies gilt nicht, wenn der Widerruf für ihn eine unzumutbare Härte bedeuten würde;
 
@@ -143,7 +143,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 2. nicht binnen drei Monaten eine ihm bei der Befreiung nach § 29 Abs. 1 oder § 29a Abs. 2 gemachte Auflage erfüllt;
 
-3. nicht binnen drei Monaten, nachdem er von der Pflicht, eine Kanzlei zu unterhalten, befreit worden (§ 29 Abs. 1, § 29a Abs. 2) oder der bisherige Zustellungsbevollmächtigte weggefallen ist, einen Zustellungsbevollmächtigten bestellt;
+3. nicht binnen drei Monaten, nachdem er von der Pflicht, eine Kanzlei zu unterhalten, befreit worden (§ 29 Abs. 1, § 29a Abs. 2) oder der bisherige Zustellungsbevollmächtigte weggefallen ist, einen Zustellungsbevollmächtigten benennt;
 
 4. seine Kanzlei aufgibt, ohne dass er von der Pflicht des § 27 Abs. 1 befreit worden ist.
 
@@ -151,11 +151,11 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 # § 15 – Ärztliches Gutachten bei Versagung und Widerruf der Zulassung
 
-(1) Wenn es zur Entscheidung über den Versagungsgrund des § 7 Nr. 7 oder den Widerrufsgrund des § 14 Abs. 2 Nr. 3 erforderlich ist, gibt die Rechtsanwaltskammer dem Betroffenen auf, innerhalb einer von ihr zu bestimmenden angemessenen Frist das Gutachten eines von ihr zu bestimmenden Arztes über seinen Gesundheitszustand vorzulegen. Das Gutachten muss auf einer Untersuchung und, wenn dies ein Amtsarzt für notwendig hält, auch auf einer klinischen Beobachtung des Betroffenen beruhen. Die Kosten des Gutachtens hat der Betroffene zu tragen.
+(1) Wenn dies zur Entscheidung über den Versagungsgrund des § 7 Satz 1 Nummer 7 oder über den Widerrufsgrund des § 14 Absatz 2 Nummer 3 erforderlich ist, hat die Rechtsanwaltskammer der betroffenen Person aufzugeben, ein ärztliches Gutachten über ihren Gesundheitszustand vorzulegen. Die Rechtsanwaltskammer hat eine angemessene Frist für die Vorlage des Gutachtens sowie den Arzt zu bestimmen, der das Gutachten erstatten soll. Das Gutachten muss auf einer Untersuchung und, wenn dies amtsärztlich als notwendig erachtet wird, auch auf einer klinischen Beobachtung der betroffenen Person beruhen. Die Kosten des Gutachtens sind von der betroffenen Person zu tragen.
 
 (2) Anordnungen nach Absatz 1 sind mit Gründen zu versehen und zuzustellen. Gegen sie können die Rechtsbehelfe gegen belastende Verwaltungsakte eingelegt werden. Sie haben keine aufschiebende Wirkung.
 
-(3) Wird das Gutachten ohne zureichenden Grund nicht innerhalb der von der Rechtsanwaltskammer gesetzten Frist vorgelegt, so wird vermutet, dass der Betroffene aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, den Beruf eines Rechtsanwalts ordnungsgemäß auszuüben. Der Betroffene ist auf diese Folgen bei der Fristsetzung hinzuweisen.
+(3) Wird das Gutachten ohne zureichenden Grund nicht innerhalb der von der Rechtsanwaltskammer gesetzten Frist vorgelegt, so wird vermutet, dass die betroffene Person aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, den Beruf eines Rechtsanwalts ordnungsgemäß auszuüben. Die betroffene Person ist auf diese Folge bei der Fristsetzung hinzuweisen.
 
 # § 16 – (weggefallen)
 
@@ -163,9 +163,13 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 (1) Mit dem Erlöschen der Zulassung zur Rechtsanwaltschaft (§ 13) endet die Befugnis, die Berufsbezeichnung "Rechtsanwalt" oder "Rechtsanwältin" zu führen. Die Bezeichnung darf auch nicht mit einem Zusatz, der auf die frühere Berechtigung hinweist, geführt werden.
 
-(2) Die Rechtsanwaltskammer kann einem Rechtsanwalt, der wegen hohen Alters oder wegen körperlicher Leiden auf die Rechte aus der Zulassung zur Rechtsanwaltschaft verzichtet, die Erlaubnis erteilen, sich weiterhin Rechtsanwalt zu nennen.
+(2) Die Rechtsanwaltskammer kann einem Rechtsanwalt, der wegen hohen Alters oder aus gesundheitlichen Gründen auf die Rechte aus der Zulassung zur Rechtsanwaltschaft verzichtet, die Erlaubnis erteilen, seine Berufsbezeichnung mit dem Zusatz „im Ruhestand“ weiterzuführen, der auch „i. R.“ abgekürzt werden kann.
 
-(3) Die Rechtsanwaltskammer kann eine Erlaubnis, die sie nach Absatz 2 erteilt hat, widerrufen, wenn nachträglich Umstände eintreten, die bei einem Rechtsanwalt das Erlöschen der Zulassung zur Rechtsanwaltschaft nach sich ziehen würden.
+(3) Die Rechtsanwaltskammer kann eine nach Absatz 2 erteilte Erlaubnis
+
+1. zurücknehmen, wenn nachträglich Umstände bekanntwerden, die zur Versagung der Erlaubnis geführt hätten, oder
+
+2. widerrufen, wenn nachträglich Umstände eintreten, die bei einem Rechtsanwalt das Erlöschen oder nach § 14 Absatz 2 Nummer 1 oder 2 den Widerruf der Zulassung nach sich ziehen würden.
 
 # § 18 – (weggefallen)
 
@@ -209,11 +213,11 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 # § 30 – Zustellungsbevollmächtigter
 
-(1) Ist der Rechtsanwalt von der Pflicht befreit, eine Kanzlei zu unterhalten, so hat er der Rechtsanwaltskammer einen Zustellungsbevollmächtigten zu benennen, der im Inland wohnt oder dort einen Geschäftsraum hat.
+(1) Ist der Rechtsanwalt von der Pflicht befreit, eine Kanzlei zu unterhalten, so hat er der Rechtsanwaltskammer einen Zustellungsbevollmächtigten zu benennen, der im Inland wohnt oder dort einen Geschäftsraum hat. Der Rechtsanwalt hat dem Zustellungsbevollmächtigten einen Zugang zu seinem besonderen elektronischen Anwaltspostfach einzuräumen. Der Zustellungsbevollmächtigte muss zumindest befugt sein, Posteingänge zur Kenntnis zu nehmen und elektronische Empfangsbekenntnisse abzugeben.
 
-(2) An den Zustellungsbevollmächtigten kann auch von Anwalt zu Anwalt (§§ 174, 195 der Zivilprozessordnung) wie an den Rechtsanwalt selbst zugestellt werden.
+(2) An den Zustellungsbevollmächtigten kann, auch von Anwalt zu Anwalt, wie an den Rechtsanwalt selbst zugestellt werden (§§ 174 und 195 der Zivilprozessordnung).
 
-(3) Ist ein Zustellungsbevollmächtigter entgegen Absatz 1 nicht bestellt, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung). Das Gleiche gilt, wenn eine Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
+(3) Ist ein Zustellungsbevollmächtigter entgegen Absatz 1 nicht benannt, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung). Das Gleiche gilt, wenn eine Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 
 # § 31 – Verzeichnisse der Rechtsanwaltskammern und Gesamtverzeichnis der Bundesrechtsanwaltskammer
 
@@ -237,7 +241,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 7. bestehende Berufs-, Berufsausübungs- und Vertretungsverbote sowie bestehende, sofort vollziehbare Rücknahmen und Widerrufe der Zulassung;
 
-8. die Bestellung eines Vertreters oder Abwicklers sowie die Benennung eines Zustellungsbevollmächtigten unter Angabe von Familienname, Vorname oder Vornamen und Anschrift des Vertreters, Abwicklers oder Zustellungsbevollmächtigten;
+8. die durch die Rechtsanwaltskammer erfolgte Bestellung einer Vertretung oder eines Abwicklers sowie die nach § 30 erfolgte Benennung eines Zustellungsbevollmächtigten unter Angabe von Familienname, Vorname oder Vornamen und Anschrift der Vertretung, des Abwicklers oder des Zustellungsbevollmächtigten;
 
 9. in den Fällen des § 29 Absatz 1 oder des § 29a Absatz 2 den Inhalt der Befreiung;
 
@@ -253,7 +257,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 (2) Zum Zweck der Einrichtung des besonderen elektronischen Anwaltspostfachs übermittelt die Rechtsanwaltskammer den Familiennamen und den oder die Vornamen sowie eine zustellfähige Anschrift der Personen, die einen Antrag auf Aufnahme in die Rechtsanwaltskammer gestellt haben, an die Bundesrechtsanwaltskammer. Bei Syndikusrechtsanwälten ist zusätzlich mitzuteilen, ob die Tätigkeit im Rahmen mehrerer Arbeitsverhältnisse erfolgt. Die übermittelten Angaben sind zu löschen, wenn der Antrag zurückgenommen oder die Aufnahme in die Rechtsanwaltskammer unanfechtbar versagt wurde.
 
-(3) Die Bundesrechtsanwaltskammer hat sicherzustellen, dass der Zugang zu dem besonderen elektronischen Anwaltspostfach nur durch ein sicheres Verfahren mit zwei voneinander unabhängigen Sicherungsmitteln möglich ist. Sie hat auch Vertretern, Abwicklern und Zustellungsbevollmächtigten die Nutzung des besonderen elektronischen Anwaltspostfachs zu ermöglichen; Absatz 2 gilt sinngemäß. Die Bundesrechtsanwaltskammer kann unterschiedlich ausgestaltete Zugangsberechtigungen für Kammermitglieder und andere Personen vorsehen. Sie ist berechtigt, die in dem besonderen elektronischen Anwaltspostfach gespeicherten Nachrichten nach angemessener Zeit zu löschen. Das besondere elektronische Anwaltspostfach soll barrierefrei ausgestaltet sein.
+(3) Die Bundesrechtsanwaltskammer hat sicherzustellen, dass der Zugang zu dem besonderen elektronischen Anwaltspostfach nur durch ein sicheres Verfahren mit zwei voneinander unabhängigen Sicherungsmitteln möglich ist. Sie kann auch Vertretungen, Abwicklern und Zustellungsbevollmächtigten die Nutzung des besonderen elektronischen Anwaltspostfachs ermöglichen; Absatz 2 gilt sinngemäß. Die Bundesrechtsanwaltskammer kann unterschiedlich ausgestaltete Zugangsberechtigungen für Kammermitglieder und andere Personen vorsehen. Sie ist berechtigt, die in dem besonderen elektronischen Anwaltspostfach gespeicherten Nachrichten nach angemessener Zeit zu löschen. Das besondere elektronische Anwaltspostfach soll barrierefrei ausgestaltet sein.
 
 (4) Sobald die Mitgliedschaft in einer Rechtsanwaltskammer aus anderen Gründen als dem Wechsel der Rechtsanwaltskammer erlischt, hebt die Bundesrechtsanwaltskammer die Zugangsberechtigung zu dem besonderen elektronischen Anwaltspostfach auf. Sie löscht dieses, sobald es nicht mehr benötigt wird.
 
@@ -337,7 +341,11 @@ Informationen über die Höhe rückständiger Steuerschulden können entgegen §
 
 (4) Gehört der Rechtsanwalt zugleich einer Notarkammer an und endet seine Mitgliedschaft in einer Rechtsanwaltskammer anders als durch Tod, so teilt die Kammer dies der Landesjustizverwaltung und der Notarkammer unverzüglich mit.
 
-# §§ 37 bis 42 – (weggefallen)
+# § 37 – Ersetzung der Schriftform
+
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Anwaltspostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden.
+
+# §§ 38 bis 42 – (weggefallen)
 
 # § 43 – Allgemeine Berufspflicht
 
@@ -347,7 +355,7 @@ Der Rechtsanwalt hat seinen Beruf gewissenhaft auszuüben. Er hat sich innerhalb
 
 (1) Der Rechtsanwalt darf keine Bindungen eingehen, die seine berufliche Unabhängigkeit gefährden.
 
-(2) Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Der Rechtsanwalt hat die von ihm beschäftigten Personen in schriftlicher Form zur Verschwiegenheit zu verpflichten und sie dabei über die strafrechtlichen Folgen einer Pflichtverletzung zu belehren. Zudem hat er bei ihnen in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den von dem Rechtsanwalt beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Satz 4 gilt nicht für Referendare und angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen wie der Rechtsanwalt unterliegen. Hat sich ein Rechtsanwalt mit anderen Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den Beschäftigten ein einheitliches Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine andere dieser Personen die Verpflichtung nach Satz 4 vorgenommen hat.
+(2) Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Der Rechtsanwalt hat die von ihm beschäftigten Personen in Textform zur Verschwiegenheit zu verpflichten und sie dabei über die strafrechtlichen Folgen einer Pflichtverletzung zu belehren. Zudem hat er bei ihnen in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den von dem Rechtsanwalt beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Satz 4 gilt nicht für Referendare und angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen wie der Rechtsanwalt unterliegen. Hat sich ein Rechtsanwalt mit anderen Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den Beschäftigten ein einheitliches Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine andere dieser Personen die Verpflichtung nach Satz 4 vorgenommen hat.
 
 (3) Der Rechtsanwalt darf sich bei seiner Berufsausübung nicht unsachlich verhalten. Unsachlich ist insbesondere ein Verhalten, bei dem es sich um die bewußte Verbreitung von Unwahrheiten oder solche herabsetzenden Äußerungen handelt, zu denen andere Beteiligte oder der Verfahrensverlauf keinen Anlaß gegeben haben.
 
@@ -367,7 +375,7 @@ Werbung ist dem Rechtsanwalt nur erlaubt, soweit sie über die berufliche Tätig
 
 (2) Über den Antrag des Rechtsanwalts auf Erteilung der Erlaubnis entscheidet der Vorstand der Rechtsanwaltskammer, nachdem ein Ausschuß der Kammer die von dem Rechtsanwalt vorzulegenden Nachweise über den Erwerb der besonderen Kenntnisse und Erfahrungen geprüft hat.
 
-(3) Der Vorstand der Rechtsanwaltskammer bildet für jedes Fachgebiet einen Ausschuß und bestellt dessen Mitglieder. Einem Ausschuß gehören mindestens drei Rechtsanwälte an; diese können Mitglieder mehrerer Ausschüsse sein. Die §§ 75 und 76 sind entsprechend anzuwenden. Mehrere Rechtsanwaltskammern können gemeinsame Ausschüsse bilden.
+(3) Der Vorstand der Rechtsanwaltskammer bildet für jedes Fachgebiet einen Ausschuß und bestellt dessen Mitglieder. Einem Ausschuß gehören mindestens drei Rechtsanwälte an; diese können Mitglieder mehrerer Ausschüsse sein. Die §§ 75 und 76 Absatz 1 und 2 sind entsprechend anzuwenden. Mehrere Rechtsanwaltskammern können gemeinsame Ausschüsse bilden.
 
 (4) Die Erlaubnis zum Führen der Fachanwaltsbezeichnung kann mit Wirkung für die Zukunft von dem Vorstand der Rechtsanwaltskammer zurückgenommen werden, wenn Tatsachen nachträglich bekanntwerden, bei deren Kenntnis die Erlaubnis hätte versagt werden müssen. Sie kann widerrufen werden, wenn eine in der Berufsordnung vorgeschriebene Fortbildung unterlassen wird.
 
@@ -429,9 +437,9 @@ Der Rechtsanwalt, der in seinem Beruf in Anspruch genommen wird und den Auftrag 
 
 (1) Der Rechtsanwalt darf nicht tätig werden:
 
-1. wenn er in derselben Rechtssache als Richter, Schiedsrichter, Staatsanwalt, Angehöriger des öffentlichen Dienstes, Notar, Notarvertreter oder Notariatsverwalter bereits tätig geworden ist;
+1. wenn er in derselben Rechtssache als Richter, Schiedsrichter, Staatsanwalt, Angehöriger des öffentlichen Dienstes, Notar, Notarvertretung oder Notariatsverwalter bereits tätig geworden ist;
 
-2. wenn er als Notar, Notarvertreter oder Notariatsverwalter eine Urkunde aufgenommen hat und deren Rechtsbestand oder Auslegung streitig ist oder die Vollstreckung aus ihr betrieben wird;
+2. wenn er als Notar, Notarvertretung oder Notariatsverwalter eine Urkunde aufgenommen hat und deren Rechtsbestand oder Auslegung streitig ist oder die Vollstreckung aus ihr betrieben wird;
 
 3. wenn er gegen den Träger des von ihm verwalteten Vermögens vorgehen soll in Angelegenheiten, mit denen er als Insolvenzverwalter, Nachlaßverwalter, Testamentsvollstrecker, Betreuer oder in ähnlicher Funktion bereits befaßt war;
 
@@ -491,7 +499,7 @@ Die Zulassung nach Satz 1 kann für mehrere Arbeitsverhältnisse erteilt werden.
 
 1. abweichend von § 12 Absatz 2 der Nachweis des Abschlusses einer Berufshaftpflichtversicherung oder die Vorlage einer vorläufigen Deckungszusage nicht erforderlich ist;
 
-2. abweichend von § 12 Absatz 3 die Bewerberin oder der Bewerber unbeschadet des § 12 Absatz 1, 2 Nummer 1 und Absatz 4 mit der Zulassung rückwirkend zu dem Zeitpunkt Mitglied der Rechtsanwaltskammer wird, zu dem der Antrag auf Zulassung dort eingegangen ist, sofern nicht die Tätigkeit, für die die Zulassung erfolgt, erst nach der Antragstellung begonnen hat; in diesem Fall wird die Mitgliedschaft erst mit dem Zeitpunkt des Beginns der Tätigkeit begründet;
+2. abweichend von § 12 Absatz 3 der Syndikusrechtsanwalt unbeschadet des § 12 Absatz 1, 2 Nummer 1 und Absatz 4 mit der Zulassung rückwirkend zu dem Zeitpunkt Mitglied der Rechtsanwaltskammer wird, zu dem der Antrag auf Zulassung dort eingegangen ist, sofern nicht die Tätigkeit, für die die Zulassung erfolgt, erst nach der Antragstellung begonnen hat; in diesem Fall wird die Mitgliedschaft erst mit dem Zeitpunkt des Beginns der Tätigkeit begründet;
 
 3. abweichend von § 12 Absatz 4 die Tätigkeit unter der Berufsbezeichnung „Rechtsanwältin (Syndikusrechtsanwältin)“ oder „Rechtsanwalt (Syndikusrechtsanwalt)“ auszuüben ist.
 
@@ -523,17 +531,19 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine öffen
 
 In Straf- oder Bußgeldverfahren, die sich gegen den Arbeitgeber oder dessen Mitarbeiter richten, dürfen Syndikusrechtsanwälte nicht als deren Verteidiger oder Vertreter tätig werden; dies gilt, wenn Gegenstand des Straf- oder Bußgeldverfahrens ein unternehmensbezogener Tatvorwurf ist, auch in Bezug auf eine Tätigkeit als Rechtsanwalt im Sinne des § 4.
 
-(3) Auf die Tätigkeit von Syndikusrechtsanwälten finden die §§ 44, 48 bis 49a und 50 Absatz 2 und 3 sowie die §§ 51 und 52 keine Anwendung.
+(3) Auf die Tätigkeit von Syndikusrechtsanwälten finden die §§ 44, 48 bis 49a und 50 Absatz 2 und 3 sowie die §§ 51 bis 55 keine Anwendung.
 
 (4) § 27 findet auf Syndikusrechtsanwälte mit der Maßgabe Anwendung, dass die regelmäßige Arbeitsstätte als Kanzlei gilt. Ist der Syndikusrechtsanwalt zugleich als Rechtsanwalt gemäß § 4 zugelassen oder ist er im Rahmen mehrerer Arbeitsverhältnisse als Syndikusrechtsanwalt tätig, ist für jede Tätigkeit eine weitere Kanzlei zu errichten und zu unterhalten, wovon nur eine im Bezirk der Rechtsanwaltskammer belegen sein muss, deren Mitglied er ist.
 
 (5) In die Verzeichnisse nach § 31 ist ergänzend zu den in § 31 Absatz 3 genannten Angaben aufzunehmen, dass die Zulassung zur Rechtsanwaltschaft als Syndikusrechtsanwalt erfolgt ist. Ist der Syndikusrechtsanwalt zugleich als Rechtsanwalt gemäß § 4 zugelassen oder ist er im Rahmen mehrerer Arbeitsverhältnisse als Syndikusrechtsanwalt tätig, hat eine gesonderte Eintragung für jede der Tätigkeiten zu erfolgen.
 
+(6) Der Syndikusrechtsanwalt hat einen Zustellungsbevollmächtigten zu benennen, wenn er länger als eine Woche daran gehindert ist, seinen Beruf auszuüben. § 30 gilt entsprechend.
+
 # § 47 – Rechtsanwälte im öffentlichen Dienst
 
-(1) Rechtsanwälte, die als Richter oder Beamte verwendet werden, ohne auf Lebenszeit ernannt zu sein, die in das Dienstverhältnis eines Soldaten auf Zeit berufen werden oder die vorübergehend als Angestellte im öffentlichen Dienst tätig sind, dürfen ihren Beruf als Rechtsanwalt nicht ausüben, es sei denn, daß sie die ihnen übertragenen Aufgaben ehrenamtlich wahrnehmen. Die Rechtsanwaltskammer kann jedoch dem Rechtsanwalt auf seinen Antrag einen Vertreter bestellen oder ihm gestatten, seinen Beruf selbst auszuüben, wenn die Interessen der Rechtspflege dadurch nicht gefährdet werden.
+(1) Rechtsanwälte, die als Richter oder Beamte verwendet werden, ohne auf Lebenszeit ernannt zu sein, die in das Dienstverhältnis eines Soldaten auf Zeit berufen werden oder die vorübergehend als Angestellte im öffentlichen Dienst tätig sind, dürfen ihren Beruf als Rechtsanwalt nicht ausüben, es sei denn, daß sie die ihnen übertragenen Aufgaben ehrenamtlich wahrnehmen. Die Rechtsanwaltskammer kann jedoch dem Rechtsanwalt auf seinen Antrag eine Vertretung bestellen oder ihm gestatten, seinen Beruf selbst auszuüben, wenn die Interessen der Rechtspflege dadurch nicht gefährdet werden.
 
-(2) Bekleidet ein Rechtsanwalt ein öffentliches Amt, ohne in das Beamtenverhältnis berufen zu sein, und darf er nach den für das Amt maßgebenden Vorschriften den Beruf als Rechtsanwalt nicht selbst ausüben, so kann die Rechtsanwaltskammer ihm auf seinen Antrag einen Vertreter bestellen.
+(2) Bekleidet ein Rechtsanwalt ein öffentliches Amt, ohne in das Beamtenverhältnis berufen zu sein, und darf er nach den für das Amt maßgebenden Vorschriften den Beruf als Rechtsanwalt nicht selbst ausüben, so kann die Rechtsanwaltskammer ihm auf seinen Antrag eine Vertretung bestellen.
 
 (3) (weggefallen)
 
@@ -637,33 +647,31 @@ Für Berufsausübungsgemeinschaften gilt Satz 1 entsprechend.
 
 (2) Die Mitglieder einer Sozietät haften aus dem zwischen ihr und dem Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche Haftung auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer Sozietät, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
 
-# § 53 – Bestellung eines Vertreters
+# § 53 – Bestellung einer Vertretung
 
-(1) Der Rechtsanwalt muß für seine Vertretung sorgen,
+(1) Der Rechtsanwalt muss für seine Vertretung sorgen, wenn er
 
-1. wenn er länger als eine Woche daran gehindert ist, seinen Beruf auszuüben;
+1. länger als eine Woche daran gehindert ist, seinen Beruf auszuüben, oder
 
-2. wenn er sich länger als eine Woche von seiner Kanzlei entfernen will.
+2. sich länger als zwei Wochen von seiner Kanzlei entfernen will.
 
-(2) Der Rechtsanwalt kann den Vertreter selbst bestellen, wenn die Vertretung von einem derselben Rechtsanwaltskammer angehörenden Rechtsanwalt übernommen wird. Ein Vertreter kann auch von Vornherein für alle Verhinderungsfälle, die während eines Kalenderjahres eintreten können, bestellt werden. In anderen Fällen kann ein Vertreter nur auf Antrag des Rechtsanwalts von der Rechtsanwaltskammer bestellt werden.
+(2) Die Vertretung soll einem anderen Rechtsanwalt übertragen werden. Sie kann auch durch Personen erfolgen, die die Befähigung zum Richteramt erworben oder mindestens zwölf Monate des Vorbereitungsdienstes nach § 5b des Deutschen Richtergesetzes absolviert haben. In den Fällen des Satzes 2 gilt § 7 entsprechend.
 
-(3) (weggefallen)
+(3) Soll die Vertretung einem anderen Rechtsanwalt übertragen werden, so soll der Rechtsanwalt diesen selbst bestellen. Soll die Vertretung durch eine andere Person erfolgen oder findet der Rechtsanwalt keine Vertretung, so ist die Vertretung auf Antrag des Rechtsanwalts von der Rechtsanwaltskammer zu bestellen.
 
-(4) Die Rechtsanwaltskammer soll die Vertretung einem Rechtsanwalt übertragen. Sie kann auch andere Personen, welche die Befähigung zum Richteramt erlangt haben, oder Referendare, die seit mindestens zwölf Monaten im Vorbereitungsdienst beschäftigt sind, zu Vertretern bestellen. § 7 gilt entsprechend.
+(4) Hat es ein Rechtsanwalt in den Fällen des Absatzes 1 unterlassen, eine Vertretung zu bestellen oder deren Bestellung zu beantragen, so soll die Rechtsanwaltskammer eine Vertretung von Amts wegen bestellen. Zuvor soll sie den Rechtsanwalt auffordern, die Vertretung selbst zu bestellen oder deren Bestellung zu beantragen. Ein Rechtsanwalt, der von Amts wegen als Vertretung bestellt wird, kann die Vertretung nur aus wichtigem Grund ablehnen.
 
-(5) In den Fällen des Absatzes 1 kann die Rechtsanwaltskammer den Vertreter von Amts wegen bestellen, wenn der Rechtsanwalt es unterlassen hat, eine Maßnahme nach Absatz 2 Satz 1 zu treffen oder die Bestellung eines Vertreters nach Absatz 2 Satz 3 zu beantragen. Der Vertreter soll jedoch erst bestellt werden, wenn der Rechtsanwalt vorher aufgefordert worden ist, den Vertreter selbst zu bestellen oder einen Antrag nach Absatz 2 Satz 3 einzureichen, und die ihm hierfür gesetzte Frist fruchtlos verstrichen ist. Der Rechtsanwalt, der von Amts wegen als Vertreter bestellt wird, kann die Vertretung nur aus einem wichtigen Grund ablehnen.
+(5) Die Bestellung kann jederzeit widerrufen werden.
 
-(6) Der Rechtsanwalt hat die Bestellung des Vertreters in den Fällen des Absatzes 2 Satz 1 und 2 der Rechtsanwaltskammer anzuzeigen.
+# § 54 – Befugnisse der Vertretung
 
-(7) Dem Vertreter stehen die anwaltlichen Befugnisse des Rechtsanwalts zu, den er vertritt.
+(1) Der Vertretung stehen die anwaltlichen Befugnisse des Rechtsanwalts zu, den sie vertritt. Sie wird in eigener Verantwortung, jedoch im Interesse, für Rechnung und auf Kosten des Vertretenen tätig. Die §§ 666, 667 und 670 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-(8) Die Bestellung kann widerrufen werden.
+(2) Der Vertretene hat der von ihm selbst bestellten Vertretung einen Zugang zu seinem besonderen elektronischen Anwaltspostfach einzuräumen. Die Vertretung muss zumindest befugt sein, Posteingänge zur Kenntnis zu nehmen und elektronische Empfangsbekenntnisse abzugeben.
 
-(9) Der Vertreter wird in eigener Verantwortung, jedoch im Interesse, für Rechnung und auf Kosten des Vertretenen tätig. Die §§ 666, 667 und 670 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+(3) Die von Amts wegen bestellte Vertretung ist berechtigt, die Kanzleiräume des Vertretenen zu betreten und die zur Kanzlei gehörenden Gegenstände einschließlich des der anwaltlichen Verwahrung unterliegenden Treugutes in Besitz zu nehmen, herauszuverlangen und hierüber zu verfügen. An Weisungen des Vertretenen ist sie nicht gebunden. Der Vertretene darf die Tätigkeit der Vertretung nicht beeinträchtigen.
 
-(10) Der von Amts wegen bestellte Vertreter ist berechtigt, die Kanzleiräume zu betreten und die zur Kanzlei gehörenden Gegenstände einschließlich des der anwaltlichen Verwahrung unterliegenden Treugutes in Besitz zu nehmen, herauszuverlangen und hierüber zu verfügen. An Weisungen des Vertretenen ist er nicht gebunden. Der Vertretene darf die Tätigkeit des Vertreters nicht beeinträchtigen. Er hat dem von Amts wegen bestellten Vertreter eine angemessene Vergütung zu zahlen, für die Sicherheit zu leisten ist, wenn die Umstände es erfordern. Können sich die Beteiligten über die Höhe der Vergütung oder über die Sicherheit nicht einigen oder wird die geschuldete Sicherheit nicht geleistet, setzt der Vorstand der Rechtsanwaltskammer auf Antrag des Vertretenen oder des Vertreters die Vergütung fest. Der Vertreter ist befugt, Vorschüsse auf die vereinbarte oder festgesetzte Vergütung zu entnehmen. Für die festgesetzte Vergütung haftet die Rechtsanwaltskammer wie ein Bürge.
-
-# § 54 – (weggefallen)
+(4) Der Vertretene hat der von Amts wegen bestellten Vertretung eine angemessene Vergütung zu zahlen, für die Sicherheit zu leisten ist, wenn die Umstände es erfordern. Können sich die Beteiligten über die Höhe der Vergütung oder über die Sicherheit nicht einigen oder wird die geschuldete Sicherheit nicht geleistet, so setzt der Vorstand der Rechtsanwaltskammer auf Antrag eines Beteiligten die Vergütung fest. Die Vertretung ist befugt, Vorschüsse auf die vereinbarte oder festgesetzte Vergütung zu entnehmen. Für die festgesetzte Vergütung haftet die Rechtsanwaltskammer wie ein Bürge.
 
 # § 55 – Bestellung eines Abwicklers der Kanzlei
 
@@ -671,7 +679,7 @@ Für Berufsausübungsgemeinschaften gilt Satz 1 entsprechend.
 
 (2) Dem Abwickler obliegt es, die schwebenden Angelegenheiten abzuwickeln. Er führt die laufenden Aufträge fort; innerhalb der ersten sechs Monate ist er auch berechtigt, neue Aufträge anzunehmen. Ihm stehen die anwaltlichen Befugnisse zu, die der verstorbene Rechtsanwalt hatte. Der Abwickler gilt für die schwebenden Angelegenheiten als von der Partei bevollmächtigt, sofern diese nicht für die Wahrnehmung ihrer Rechte in anderer Weise gesorgt hat.
 
-(3) § 53 Abs. 5 Satz 3, Abs. 9 und 10 gilt entsprechend. Der Abwickler ist berechtigt, jedoch außer im Rahmen eines Kostenfestsetzungsverfahrens nicht verpflichtet, Kostenforderungen des verstorbenen Rechtsanwalts im eigenen Namen für Rechnung der Erben geltend zu machen.
+(3) § 53 Absatz 4 Satz 3 und § 54 Absatz 1 Satz 2 und 3, Absatz 3 und 4 gelten entsprechend. Der Abwickler ist berechtigt, jedoch außer im Rahmen eines Kostenfestsetzungsverfahrens nicht verpflichtet, Kostenforderungen des verstorbenen Rechtsanwalts im eigenen Namen für Rechnung der Erben geltend zu machen.
 
 (4) Die Bestellung kann widerrufen werden.
 
@@ -703,13 +711,19 @@ Dem Vorstand der Rechtsanwaltskammer sind auf Verlangen die Unterlagen über ein
 
 (4) Das Zwangsgeld fließt der Rechtsanwaltskammer zu. Es wird auf Grund einer von dem Schatzmeister erteilten, mit der Bescheinigung der Vollstreckbarkeit versehenen beglaubigten Abschrift des Festsetzungsbescheides nach den Vorschriften beigetrieben, die für die Vollstreckung von Urteilen in bürgerlichen Rechtsstreitigkeiten gelten. § 767 der Zivilprozessordnung gilt mit der Maßgabe, dass Einwendungen, die den Anspruch selbst betreffen, nur insoweit zulässig sind, als sie nicht in dem Verfahren nach Absatz 3 geltend gemacht werden konnten. Solche Einwendungen sind im Wege der Klage bei dem in § 797 Absatz 5 der Zivilprozessordnung bezeichneten Gericht geltend zu machen.
 
-# § 58 – Einsicht in die Personalakten
+# § 58 – Mitgliederakten
 
-(1) Der Rechtsanwalt hat das Recht, die über ihn geführten Personalakten einzusehen.
+(1) Die Rechtsanwaltskammern führen zur Erfüllung ihrer Aufgaben Akten über ihre Mitglieder (§ 60 Absatz 2). Mitgliederakten können teilweise oder vollständig elektronisch geführt werden. Zu den Mitgliederakten sind insbesondere die Dokumente zu nehmen, die im Zusammenhang mit der Zulassung, der Mitgliedschaft oder der Qualifikation des Mitglieds stehen oder die in Bezug auf das Mitglied geführte berufsaufsichtliche Verfahren betreffen.
 
-(2) Der Rechtsanwalt kann das Recht auf Einsicht in seine Personalakten nur persönlich oder durch einen anderen bevollmächtigten Rechtsanwalt ausüben.
+(2) Die Mitglieder der Rechtsanwaltskammern haben das Recht, die über sie geführten Akten einzusehen. Bei einer Einsichtnahme dürfen Aufzeichnungen über den Inhalt der Akten oder Kopien der Dokumente gefertigt werden. Bei einer elektronischen Aktenführung hat die Rechtsanwaltskammer den Inhalt elektronisch oder durch Ausdrucke zugänglich zu machen. Die Akteneinsicht kann verweigert werden, solange die in § 29 Absatz 1 Satz 2 und Absatz 2 des Verwaltungsverfahrensgesetzes und § 147 Absatz 2 Satz 1 der Strafprozessordnung genannten Gründe vorliegen.
 
-(3) Bei der Einsichtnahme darf der Rechtsanwalt oder der von ihm bevollmächtigte Vertreter sich eine Aufzeichnung über den Inhalt der Akten oder Kopien einzelner Dokumente fertigen.
+(3) Beantragt ein Mitglied die Aufnahme in eine andere Rechtsanwaltskammer, übersendet die abgebende Kammer der anderen Kammer dessen Mitgliederakte. Ist die Aufnahme in die andere Kammer erfolgt, löscht die abgebende Kammer alle personenbezogenen Daten des Mitglieds mit Ausnahme des Hinweises auf den Wechsel und eventueller weiterer zu ihrer Aufgabenerfüllung noch erforderlicher Daten.
+
+(4) Mitgliederakten sind dreißig Jahre nach dem Ende des Jahres, in dem die Mitgliedschaft in der Rechtsanwaltskammer erloschen war, zu vernichten. Davon abweichende Pflichten, Aktenbestandteile früher zu vernichten, bleiben unberührt. Satz 1 gilt nicht, wenn das Mitglied in eine längere Aufbewahrung eingewilligt hat oder die Akte einem öffentlichen Archiv angeboten wird. Wurde die Zulassung des Mitglieds wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit zurückgenommen oder widerrufen oder wurde das Mitglied aus der Rechtsanwaltschaft ausgeschlossen, darf die Akte nicht vernichtet werden, bevor die entsprechende Eintragung im Bundeszentralregister entfernt wurde. Satz 4 gilt auch, wenn das Mitglied während eines Rücknahme- oder Widerrufsverfahrens wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit auf die Zulassung verzichtet hat. Bei einer elektronischen Aktenführung tritt an die Stelle der Vernichtung der Akten die Löschung der Daten.
+
+(5) Nach dem Tod eines Mitglieds kann die Rechtsanwaltskammer zu Zwecken wissenschaftlicher Forschung Einsicht in die Mitgliederakte gewähren, soweit das wissenschaftliche Interesse die Persönlichkeitsrechte und Interessen der von einer Einsicht betroffenen Personen überwiegt und der Zweck der Forschung auf andere Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden kann.
+
+(6) Auf Personen, die einen Antrag auf Zulassung zur Rechtsanwaltschaft oder als Rechtsanwaltsgesellschaft gestellt haben, sind die Absätze 1, 2, 4 und 5 entsprechend anzuwenden. Absatz 2 gilt auch für frühere Mitglieder.
 
 # § 59 – Ausbildung von Referendaren
 
@@ -781,7 +795,7 @@ c) Tragen der Berufstracht;
 
 7. die besonderen Berufspflichten bei der Vereinbarung und Abrechnung der anwaltlichen Gebühren und bei deren Beitreibung;
 
-8. die besonderen Berufspflichten gegenüber der Rechtsanwaltskammer in Fragen der Aufsicht, das berufliche Verhalten gegenüber anderen Mitgliedern der Rechtsanwaltskammer, die Pflichten bei der Zustellung von Anwalt zu Anwalt, die Pflichten bei beruflicher Zusammenarbeit, die Pflichten im Zusammenhang mit der Beschäftigung von Rechtsanwälten und der Ausbildung sowie Beschäftigung anderer Mitarbeiter;
+8. die besonderen Berufspflichten gegenüber der Rechtsanwaltskammer in Fragen der Aufsicht, das berufliche Verhalten gegenüber anderen Mitgliedern der Rechtsanwaltskammer, die Pflichten bei der Zustellung von Anwalt zu Anwalt, die Pflichten bei beruflicher Zusammenarbeit, die Pflichten im Zusammenhang mit der Beschäftigung von Rechtsanwälten und der Ausbildung sowie Beschäftigung anderer Personen;
 
 9. die besonderen Berufspflichten im grenzüberschreitenden Rechtsverkehr.
 
@@ -853,7 +867,7 @@ Die Zulassung ist zu erteilen, wenn
 
 (5) Bei Rücknahme oder Widerruf der Zulassung ist § 14 Abs. 4 entsprechend anzuwenden.
 
-(6) Hat die Gesellschaft die Zulassung verloren, kann für sie ein Abwickler bestellt werden, wenn die zur gesetzlichen Vertretung bestellten Personen keine hinreichende Gewähr zur ordnungsgemäßen Abwicklung der schwebenden Angelegenheiten bieten. § 55 ist entsprechend anzuwenden. Für die festgesetzte Vergütung des Abwicklers haften die Gesellschafter als Gesamtschuldner. § 53 Abs. 10 Satz 7 bleibt unberührt.
+(6) Hat die Gesellschaft die Zulassung verloren, kann für sie ein Abwickler bestellt werden, wenn die zur gesetzlichen Vertretung bestellten Personen keine hinreichende Gewähr zur ordnungsgemäßen Abwicklung der schwebenden Angelegenheiten bieten. § 55 ist entsprechend anzuwenden. Für die festgesetzte Vergütung des Abwicklers haften die Gesellschafter als Gesamtschuldner. § 54 Absatz 4 Satz 4 bleibt unberührt.
 
 # § 59i – Kanzlei
 
@@ -905,11 +919,7 @@ Die Rechtsanwaltsgesellschaft kann als Prozeß- oder Verfahrensbevollmächtigte 
 
 3. in den Fällen des Absatzes 2 Nummer 3, wenn bei der Rechtsanwaltsgesellschaft die Voraussetzungen der Nummer 2 vorliegen, gegen den Geschäftsführer eine bestandskräftige Entscheidung im Sinne des § 115c Satz 2 ergangen ist oder die Geschäftsführungstätigkeit für die Rechtsanwaltsgesellschaft beendet ist.
 
-# § 61 – Bildung einer weiteren Rechtsanwaltskammer
-
-(1) Die Landesjustizverwaltung kann in dem Bezirk eines Oberlandesgerichts eine weitere Rechtsanwaltskammer errichten, wenn in dem Bezirk mehr als fünfhundert Rechtsanwälte oder Rechtsanwaltsgesellschaften zugelassen sind. Bevor die weitere Rechtsanwaltskammer errichtet wird, ist der Vorstand der Rechtsanwaltskammer zu hören. Die Landesjustizverwaltung ordnet die Mitglieder den Kammern zu.
-
-(2) Die Landesjustizverwaltung bestimmt den Sitz und den Bezirk der weiteren Kammer.
+# § 61 – (weggefallen)
 
 # § 62 – Stellung der Rechtsanwaltskammer
 
@@ -988,13 +998,13 @@ Die Wahl zum Mitglied des Vorstandes kann ablehnen,
 
 (1) Der Vorstand wird durch den Präsidenten einberufen.
 
-(2) Der Präsident muß eine Sitzung anberaumen, wenn drei Mitglieder des Vorstandes es schriftlich beantragen und hierbei den Gegenstand angeben, der behandelt werden soll.
+(2) Der Präsident muß eine Sitzung anberaumen, wenn ein Viertel der Mitglieder des Vorstandes es schriftlich beantragen und hierbei den Gegenstand angeben, der behandelt werden soll.
 
 (3) Das Nähere regelt die Geschäftsordnung des Vorstandes.
 
 # § 71 – Beschlussfähigkeit des Vorstandes
 
-Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist oder sich an einer schriftlichen Abstimmung beteiligt.
+Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 
 # § 72 – Beschlüsse des Vorstandes
 
@@ -1004,7 +1014,7 @@ Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder 
 
 (3) Über die Beschlüsse des Vorstandes und über die Ergebnisse von Wahlen ist ein Protokoll aufzunehmen, das von dem Vorsitzenden und dem Schriftführer zu unterzeichnen ist.
 
-(4) Beschlüsse des Vorstandes können in schriftlicher Abstimmung gefaßt werden, wenn kein Mitglied des Vorstandes widerspricht.
+(4) Beschlüsse des Vorstandes können auch ohne Zusammenkunft gefasst werden, wenn kein Vorstandsmitglied widerspricht und sich mindestens die Hälfte der Vorstandsmitglieder an der Abstimmung beteiligt. Abstimmungen sind schriftlich durchzuführen.
 
 # § 73 – Aufgaben des Vorstandes
 
@@ -1028,11 +1038,9 @@ Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder 
 
 8. Gutachten zu erstatten, die eine Landesjustizverwaltung, ein Gericht oder eine Verwaltungsbehörde des Landes anfordert;
 
-9. bei der Ausbildung und Prüfung der Studierenden und der Referendare mitzuwirken, insbesondere qualifizierte Arbeitsgemeinschaftsleiter und Prüfer vorzuschlagen;
+9. bei der Ausbildung und Prüfung der Studierenden und der Referendare mitzuwirken, insbesondere qualifizierte Arbeitsgemeinschaftsleiter und die anwaltlichen Mitglieder der juristischen Prüfungsausschüsse vorzuschlagen.
 
-10. die anwaltlichen Mitglieder der juristischen Prüfungsausschüsse vorzuschlagen.
-
-(3) In Beschwerdeverfahren setzt der Vorstand den Beschwerdeführer von seiner Entscheidung in Kenntnis. Die Mitteilung erfolgt nach Abschluss des Verfahrens einschließlich des Einspruchsverfahrens und ist mit einer kurzen Darstellung der wesentlichen Gründe für die Entscheidung zu versehen. § 76 bleibt unberührt. Die Mitteilung ist nicht anfechtbar.
+(3) In Beschwerdeverfahren setzt der Vorstand die Person, die die Beschwerde erhoben hatte von seiner Entscheidung in Kenntnis. Die Mitteilung erfolgt nach Abschluss des Verfahrens einschließlich des Einspruchsverfahrens und ist mit einer kurzen Darstellung der wesentlichen Gründe für die Entscheidung zu versehen. § 76 Absatz 1 bleibt unberührt. Die Mitteilung ist nicht anfechtbar.
 
 (4) Der Vorstand kann die in Absatz 1 Satz 2, Absatz 2 Nr. 1 bis 3 und Absatz 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstandes übertragen.
 
@@ -1084,21 +1092,31 @@ Die Länder können durch Gesetz den Rechtsanwaltskammern allein oder gemeinsam 
 
 # § 75 – Ehrenamtliche Tätigkeit des Vorstandes
 
-Die Mitglieder des Vorstandes üben ihre Tätigkeit unentgeltlich aus. Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung.
+Die Mitglieder des Vorstandes üben ihre Tätigkeit unentgeltlich aus. Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung. Die Sätze 1 und 2 gelten auch für Rechtsanwälte, die zur Mitarbeit in der Rechtsanwaltskammer herangezogen werden.
 
-# § 76 – Pflicht der Vorstandsmitglieder zur Verschwiegenheit
+# § 76 – Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
 
-(1) Die Mitglieder des Vorstandes haben - auch nach dem Ausscheiden aus dem Vorstand - über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Rechtsanwälte und andere Personen bekannt werden, Verschwiegenheit gegen jedermann zu bewahren. Das gleiche gilt für Rechtsanwälte, die zur Mitarbeit herangezogen werden, und für Angestellte der Rechtsanwaltskammer.
+(1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Rechtsanwälte und andere Personen bekannt werden, Verschwiegenheit zu bewahren. Dies gilt auch nach ihrem Ausscheiden aus dem Vorstand. Die Verschwiegenheitspflicht gilt nicht für Tatsachen,
 
-(2) In gerichtlichen Verfahren dürfen die in Absatz 1 bezeichneten Personen über solche Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Rechtsanwälte und andere Personen bekannt geworden sind, ohne Genehmigung nicht aussagen.
+1. deren Weitergabe zur Erfüllung ihrer Aufgaben erforderlich ist,
 
-(3) Die Genehmigung zur Aussage erteilt der Vorstand der Rechtsanwaltskammer nach pflichtmäßigem Ermessen. Die Genehmigung soll nur versagt werden, wenn Rücksichten auf die Stellung oder die Aufgaben der Rechtsanwaltskammer oder berechtigte Belange der Personen, über welche die Tatsachen bekannt geworden sind, es unabweisbar erfordern. § 28 Abs. 2 des Gesetzes über das Bundesverfassungsgericht bleibt unberührt.
+2. in deren Weitergabe die Betroffenen eingewilligt haben,
+
+3. die offenkundig sind oder
+
+4. die ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+
+Die Sätze 1 bis 3 gelten auch für Angestellte der Rechtsanwaltskammern und für Personen, die von den Rechtsanwaltskammern oder den Mitgliedern ihres Vorstands zur Mitarbeit herangezogen werden. Die in Satz 4 genannten Personen sind in Textform über ihre Verschwiegenheitspflicht zu belehren.
+
+(2) In Verfahren vor Gerichten und Behörden dürfen die in Absatz 1 genannten Personen über Angelegenheiten, die ihrer Verschwiegenheitspflicht unterliegen, ohne Genehmigung nicht aussagen. Die Genehmigung zur Aussage erteilt der Vorstand der Rechtsanwaltskammer nach pflichtgemäßem Ermessen. Die Genehmigung soll nur versagt werden, wenn dies mit Rücksicht auf die Stellung oder die Aufgaben der Rechtsanwaltskammer oder berechtigte Belange der Personen, über welche die Tatsachen bekannt geworden sind, unabweisbar erforderlich ist. § 28 Absatz 2 des Bundesverfassungsgerichtsgesetzes bleibt unberührt.
+
+(3) Für die Inanspruchnahme von Dienstleistungen durch Rechtsanwaltskammern gilt in Bezug auf Angelegenheiten, die der Verschwiegenheitspflicht des Rechtsanwalts nach § 43a Absatz 2 unterliegen, § 43e Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 # § 77 – Abteilungen des Vorstandes
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Geschäftsordnung der Kammer es zuläßt. Er überträgt den Abteilungen die Geschäfte, die sie selbständig führen.
 
-(2) Jede Abteilung muß aus mindestens drei Mitgliedern des Vorstandes bestehen. Die Mitglieder der Abteilung wählen aus ihren Reihen einen Abteilungsvorsitzenden, einen Abteilungsschriftführer und deren Stellvertreter.
+(2) Jede Abteilung muß aus mindestens drei Mitgliedern des Vorstandes bestehen. Die Mitglieder der Abteilung wählen aus ihren Reihen eine Person, die den Abteilungsvorsitz führt, eine Person, die die Protokolle der Abteilungssitzungen führt, sowie je eine Person als deren jeweilige Vertretung.
 
 (3) Vor Beginn des Kalenderjahres setzt der Vorstand die Zahl der Abteilungen und ihrer Mitglieder fest, überträgt den Abteilungen die Geschäfte und bestimmt die Mitglieder der einzelnen Abteilungen. Jedes Mitglied des Vorstandes kann mehreren Abteilungen angehören. Die Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
@@ -1145,7 +1163,7 @@ Die Mitglieder des Vorstandes üben ihre Tätigkeit unentgeltlich aus. Sie erhal
 
 # § 81 – Berichte über die Tätigkeit der Kammer und über Wahlergebnisse
 
-(1) Der Präsident erstattet der Landesjustizverwaltung jährlich einen schriftlichen Bericht über die Tätigkeit der Kammer und des Vorstandes.
+(1) Der Präsident erstattet der Landesjustizverwaltung jährlich Bericht über die Tätigkeit der Kammer und des Vorstandes.
 
 (2) Der Präsident zeigt das Ergebnis der Wahlen zum Vorstand und zum Präsidium alsbald der Landesjustizverwaltung und der Bundesrechtsanwaltskammer an.
 
@@ -1177,11 +1195,7 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstandes und d
 
 # § 86 – Einladung und Einberufungsfrist
 
-(1) Der Präsident beruft die Kammerversammlung schriftlich oder durch öffentliche Einladung in den Blättern ein, die durch die Geschäftsordnung der Kammer bestimmt sind.
-
-(2) Die Kammerversammlung ist mindestens zwei Wochen vor dem Tage, an dem sie stattfinden soll, einzuberufen. Der Tag, an dem die Einberufung abgesandt oder veröffentlicht ist, und der Tag der Kammerversammlung sind hierbei nicht mitzurechnen.
-
-(3) In dringenden Fällen kann der Präsident die Kammerversammlung mit kürzerer Frist einberufen.
+Die Kammerversammlung ist mindestens zwei Wochen vorher durch schriftliche Einladung einzuberufen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
 
 # § 87 – Ankündigung der Tagesordnung
 
@@ -1215,11 +1229,13 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstandes und d
 
 4. die Mittel zu bewilligen, die erforderlich sind, um den Aufwand für die gemeinschaftlichen Angelegenheiten zu bestreiten;
 
-5. Richtlinien für die Aufwandsentschädigung und die Reisekostenvergütung der Mitglieder des Vorstandes und des Anwaltsgerichts sowie der Protokollführer in der Hauptverhandlung des Anwaltsgerichts aufzustellen;
+5. Richtlinien für die Aufwandsentschädigung und die Reisekostenvergütung aufzustellen, die
+
+a) den in § 43c Absatz 3 und den §§ 75, 95, 140 und 191b genannten Personen zu gewähren ist;
+
+b) nach Maßgabe des § 40 Absatz 6 und des § 77 Absatz 3 des Berufsbildungsgesetzes für die dort genannten Tätigkeiten zu gewähren ist;
 
 6. die Abrechnung des Vorstandes über die Einnahmen und Ausgaben der Kammer sowie über die Verwaltung des Vermögens zu prüfen und über die Entlastung zu beschließen.
-
-(3) (weggefallen)
 
 # §§ 90 und 91 – (weggefallen)
 
@@ -1252,8 +1268,6 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstandes und d
 3. einem anderen Gericht der Anwaltsgerichtsbarkeit angehören.
 
 (4) Die Mitglieder des Anwaltsgerichts werden für die Dauer von fünf Jahren ernannt; sie können nach Ablauf ihrer Amtszeit wieder berufen werden.
-
-(5) § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
 # § 95 – Rechtsstellung der Mitglieder des Anwaltsgerichts
 
@@ -1327,15 +1341,15 @@ Für die Geschäftsverteilung bei dem Anwaltsgericht gelten die Vorschriften des
 
 # § 103 – Ernennung von Rechtsanwälten zu Mitgliedern des Anwaltsgerichtshofes
 
-(1) Diejenigen Mitglieder des Anwaltsgerichtshofes, die Rechtsanwälte sind, werden von der Landesjustizverwaltung für die Dauer von fünf Jahren ernannt.
+(1) Die anwaltlichen Mitglieder des Anwaltsgerichtshofes werden von der Landesjustizverwaltung für die Dauer von fünf Jahren ernannt.
 
-(2) Für die Ernennung von Rechtsanwälten zu Mitgliedern des Anwaltsgerichtshofes und für die Stellung der anwaltlichen Mitglieder des Anwaltsgerichtshofes gelten die §§ 94 und 95 Abs. 1 entsprechend.
+(2) Für die Ernennung der anwaltlichen Mitglieder des Anwaltsgerichtshofes und deren Stellung gelten die §§ 94 und 95 Absatz 1 entsprechend.
 
-(3) Für das Ende des Amtes eines Mitglieds des Anwaltsgerichtshofes gilt § 95 Abs. 1a Satz 1 und 2 entsprechend mit der Maßgabe, dass keine Mitgliedschaft mehr in einer der Rechtsanwaltskammern im Bezirk der Oberlandesgerichte besteht, für deren Bezirke der Anwaltsgerichtshof errichtet ist.
+(3) Für das Ende des Amtes eines anwaltlichen Mitglieds des Anwaltsgerichtshofes gilt § 95 Abs. 1a Satz 1 und 2 entsprechend mit der Maßgabe, dass keine Mitgliedschaft mehr in einer der Rechtsanwaltskammern im Bezirk der Oberlandesgerichte besteht, für deren Bezirke der Anwaltsgerichtshof errichtet ist.
 
-(4) Für die Amtsenthebung und die Entlassung aus dem Amt ist § 95 Abs. 1a Satz 3, Abs. 2 und 3 mit der Maßgabe anzuwenden, dass über die Amtsenthebung ein Senat des Anwaltsgerichtshofes entscheidet, dem der ehrenamtliche Richter nicht angehört.
+(4) Für die Amtsenthebung und die Entlassung aus dem Amt ist § 95 Abs. 1a Satz 3, Abs. 2 und 3 mit der Maßgabe anzuwenden, dass über die Amtsenthebung ein Senat des Anwaltsgerichtshofes entscheidet, dem das anwaltliche Mitglied nicht angehört.
 
-(5) In den Fällen des § 61 und des § 100 Abs. 2 soll die jeweilige Zahl der anwaltlichen Mitglieder verhältnismäßig der Mitgliederzahl der einzelnen Rechtsanwaltskammern entsprechen. Die Mitglieder eines gemeinsamen Anwaltsgerichtshofes, die Rechtsanwälte sind, werden aus den Mitgliedern der in den beteiligten Ländern bestehenden Rechtsanwaltskammern nach Maßgabe der von den Ländern getroffenen Vereinbarung (§ 100 Abs. 4) ernannt.
+(5) Im Fall des § 100 Absatz 2 soll die jeweilige Zahl der anwaltlichen Mitglieder verhältnismäßig der Mitgliederzahl der einzelnen Rechtsanwaltskammern entsprechen. Die anwaltlichen Mitglieder eines gemeinsamen Anwaltsgerichtshofes, werden aus den Mitgliedern der in den beteiligten Ländern bestehenden Rechtsanwaltskammern nach Maßgabe der von den Ländern getroffenen Vereinbarung (§ 100 Abs. 4) ernannt.
 
 (6) Die anwaltlichen Mitglieder erhalten aus der Staatskasse für den mit ihrer Tätigkeit verbundenen Aufwand eine Entschädigung, die sich auf das Eineinhalbfache des in Nummer 7005 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz genannten höchsten Betrages beläuft. Außerdem haben die anwaltlichen Mitglieder Anspruch auf Ersatz ihrer Fahrt- und Übernachtungskosten nach Maßgabe der Nummern 7003, 7004 und 7006 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz.
 
@@ -1359,7 +1373,7 @@ Die Senate des Anwaltsgerichtshofes entscheiden in der Besetzung von fünf Mitgl
 
 (1) Die Beisitzer aus den Reihen der Rechtsanwälte werden von dem Bundesministerium der Justiz und für Verbraucherschutz auf die Dauer von fünf Jahren berufen. Sie können nach Ablauf ihrer Amtszeit wieder berufen werden.
 
-(2) Die anwaltlichen Beisitzer werden der Vorschlagsliste entnommen, die das Präsidium der Bundesrechtsanwaltskammer auf Grund von Vorschlägen der Rechtsanwaltskammern dem Bundesministerium der Justiz und für Verbraucherschutz einreicht. Im übrigen gilt § 94 Abs. 2 Satz 3, Abs. 5 entsprechend. Die Vorschlagsliste soll mindestens die doppelte Zahl von Rechtsanwälten enthalten.
+(2) Die anwaltlichen Beisitzer werden der Vorschlagsliste entnommen, die das Präsidium der Bundesrechtsanwaltskammer auf Grund von Vorschlägen der Rechtsanwaltskammern dem Bundesministerium der Justiz und für Verbraucherschutz einreicht. Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt nach Anhörung der Bundesrechtsanwaltskammer, welche Zahl von Mitgliedern erforderlich ist. Die Vorschlagsliste soll mindestens die doppelte Zahl von Rechtsanwälten enthalten.
 
 (3) Scheidet ein anwaltlicher Beisitzer vorzeitig aus, so wird für den Rest seiner Amtszeit ein Nachfolger berufen.
 
@@ -1383,7 +1397,7 @@ Die Senate des Anwaltsgerichtshofes entscheiden in der Besetzung von fünf Mitgl
 
 (1) Die Rechtsanwälte sind ehrenamtliche Richter. Sie haben in der Sitzung, zu der sie als Beisitzer herangezogen werden, die Stellung eines Berufsrichters.
 
-(2) Die Rechtsanwälte haben über Angelegenheiten, die ihnen bei ihrer Tätigkeit als Beisitzer bekannt werden, Verschwiegenheit gegen jedermann zu bewahren. § 76 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Präsident des Bundesgerichtshofes.
+(2) Die Rechtsanwälte haben über Angelegenheiten, die ihnen bei ihrer Tätigkeit als Beisitzer bekannt werden, Verschwiegenheit zu bewahren. § 76 Absatz 1 und 2 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Präsident des Bundesgerichtshofes.
 
 # § 111 – Reihenfolge der Teilnahme an den Sitzungen
 
@@ -1657,11 +1671,11 @@ Das Anwaltsgericht kann eines seiner Mitglieder beauftragen, Zeugen oder Sachver
 
 # § 140 – Protokollführer
 
-(1) In der Hauptverhandlung vor dem Anwaltsgericht werden die Aufgaben des Protokollführers von einem Rechtsanwalt wahrgenommen. Der Protokollführer wird von dem Vorsitzenden oder, bei einem Anwaltsgericht mit mehreren Kammern, von dem geschäftsleitenden Vorsitzenden bestellt. Er ist verpflichtet, der Bestellung Folge zu leisten.
+(1) In der Hauptverhandlung vor dem Anwaltsgericht werden die Aufgaben des Protokollführers von einem Rechtsanwalt wahrgenommen. Der Protokollführer wird von dem Vorsitzenden oder, bei einem Anwaltsgericht mit mehreren Kammern, von dem geschäftsleitenden Vorsitzenden bestellt. Er ist verpflichtet, der Bestellung Folge zu leisten. § 75 gilt entsprechend.
 
 (2) Der Vorsitzende der Kammer des Anwaltsgerichts verpflichtet den Protokollführer vor der ersten Dienstleistung durch Handschlag auf die gewissenhafte Erfüllung der Obliegenheiten eines Protokollführers.
 
-(3) Der Protokollführer hat über die Angelegenheiten, die ihm bei seiner Tätigkeit bekannt werden, Verschwiegenheit gegen jedermann zu bewahren. § 76 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Vorsitzende der Kammer des Anwaltsgerichts.
+(3) Der Protokollführer hat über die Angelegenheiten, die ihm bei seiner Tätigkeit bekannt werden, Verschwiegenheit zu bewahren. § 76 Absatz 1 und 2 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Vorsitzende der Kammer des Anwaltsgerichts.
 
 # § 141 – Ausfertigung der Entscheidungen
 
@@ -1727,7 +1741,7 @@ Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem Bundesgerichtshof w
 
 (2) Zeugen sind, soweit nicht Ausnahmen vorgeschrieben oder zugelassen sind, eidlich zu vernehmen.
 
-(3) Die Staatsanwaltschaft und der frühere Rechtsanwalt sind an dem Verfahren zu beteiligen. Ein Anspruch auf Benachrichtigung von den Terminen, die zum Zwecke der Beweissicherung anberaumt werden, steht dem früheren Rechtsanwalt nur zu, wenn er sich in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aufhält und seine Anschrift dem Anwaltsgericht angezeigt hat.
+(3) Die Staatsanwaltschaft und der frühere Rechtsanwalt sind an dem Verfahren zu beteiligen. Ein Anspruch auf Benachrichtigung über die Termine, die zum Zwecke der Beweissicherung anberaumt werden, steht dem früheren Rechtsanwalt nur zu, wenn dem Gericht eine zustellungsfähige Anschrift in einem Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz bekannt ist.
 
 (4) (weggefallen)
 
@@ -1829,13 +1843,11 @@ Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
 (2) Tritt das Berufs- oder Vertretungsverbot außer Kraft oder wird es aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
 
-# § 161 – Bestellung eines Vertreters
+# § 161 – Bestellung einer Vertretung
 
-(1) Für den Rechtsanwalt, gegen den ein Berufs- oder Vertretungsverbot verhängt ist, wird im Fall des Bedürfnisses von der Rechtsanwaltskammer ein Vertreter bestellt. Vor der Bestellung ist der Rechtsanwalt zu hören. Der Rechtsanwalt kann einen geeigneten Vertreter vorschlagen.
+(1) Für einen Rechtsanwalt, gegen den ein Berufs- oder Vertretungsverbot verhängt ist, wird von der Rechtsanwaltskammer eine Vertretung bestellt, wenn hierfür ein Bedürfnis besteht. Vor der Bestellung ist der Rechtsanwalt zu hören. Er kann eine Vertretung vorschlagen.
 
-(2) § 53 Abs. 4, Abs. 5 Satz 3, Abs. 7 bis 10 ist entsprechend anzuwenden.
-
-(3) bis (5) (weggefallen)
+(2) § 53 Absatz 2, Absatz 4 Satz 3 und Absatz 5 sowie § 54 Absatz 1, 3 und 4 sind entsprechend anzuwenden.
 
 # § 161a – Gegenständlich beschränktes Vertretungsverbot
 
@@ -1849,7 +1861,7 @@ Für die Rechtsanwaltschaft bei dem Bundesgerichtshof gelten der Erste bis Siebe
 
 # § 163 – Sachliche Zuständigkeit
 
-Von den Aufgaben, die nach den Vorschriften des Ersten bis Siebenten Teils dieses Gesetzes der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die die Zulassung zur Rechtsanwaltschaft und ihr Erlöschen, die Kanzlei sowie die Bestellung eines Vertreters oder Abwicklers betreffen. Das Bundesministerium der Justiz und für Verbraucherschutz ist die zuständige Stelle nach § 51 Absatz 7. Es nimmt auch die Aufgaben wahr, die der Landesjustizverwaltung zugewiesen sind. Die Wahrnehmung der übrigen Aufgaben obliegt der Rechtsanwaltskammer bei dem Bundesgerichtshof. An die Stelle des Anwaltsgerichts und des Anwaltsgerichtshofes tritt in Verfahren zur Ahndung von Pflichtverletzungen der Bundesgerichtshof. Der Generalbundesanwalt beim Bundesgerichtshof nimmt die Aufgaben der Staatsanwaltschaft wahr.
+Von den Aufgaben, die nach den Vorschriften des Ersten bis Siebenten Teils dieses Gesetzes der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die die Zulassung zur Rechtsanwaltschaft und ihr Erlöschen, die Kanzlei sowie die Bestellung einer Vertretung oder eines Abwicklers betreffen. Das Bundesministerium der Justiz und für Verbraucherschutz ist die zuständige Stelle nach § 51 Absatz 7. Es nimmt auch die Aufgaben wahr, die der Landesjustizverwaltung zugewiesen sind. Die Wahrnehmung der übrigen Aufgaben obliegt der Rechtsanwaltskammer bei dem Bundesgerichtshof. An die Stelle des Anwaltsgerichts und des Anwaltsgerichtshofes tritt in Verfahren zur Ahndung von Pflichtverletzungen der Bundesgerichtshof. Der Generalbundesanwalt beim Bundesgerichtshof nimmt die Aufgaben der Staatsanwaltschaft wahr.
 
 § 163 Satz 1 Kursivdruck: Das Wort "zugewiesenen" wurde wegen offensichtlicher Unrichtigkeit in "zugewiesen" geändert
 
@@ -1894,7 +1906,7 @@ Bei dem Bundesgerichtshof kann als Rechtsanwalt nur zugelassen werden, wer durch
 
 (2) Die persönlichen, beruflichen und wirtschaftlichen Verhältnisse des Rechtsanwalts werden in einem gesonderten Bericht dargestellt, den der Rechtsanwalt einsehen kann.
 
-(3) § 58 Abs. 2 und 3 ist entsprechend anzuwenden.
+(3) § 58 Absatz 2 ist entsprechend anzuwenden.
 
 # § 168 – Entscheidung des Wahlausschusses
 
@@ -1914,7 +1926,7 @@ Bei dem Bundesgerichtshof kann als Rechtsanwalt nur zugelassen werden, wer durch
 
 (1) Über den Antrag auf Zulassung als Rechtsanwalt bei dem Bundesgerichtshof entscheidet das Bundesministerium der Justiz und für Verbraucherschutz. Die Zulassung kann aufschiebend befristet werden. Die Frist soll drei Monate nicht überschreiten.
 
-(2) Die Entscheidung über den Antrag auf Zulassung kann ausgesetzt werden, wenn einer der in § 10 Abs. 1 bezeichneten Gründe vorliegt.
+(2) Die Entscheidung über den Antrag auf Zulassung kann aus den in § 10 genannten Gründen ausgesetzt werden.
 
 (3) Der Vorstand der Rechtsanwaltskammer bei dem Bundesgerichtshof ist nur dann zu hören, wenn gegen die Zulassung Bedenken bestehen.
 
@@ -1936,13 +1948,13 @@ Rechtsanwälte, die beim Bundesgerichtshof zugelassen sind, dürfen nur unterein
 
 Der beim Bundesgerichtshof zugelassene Rechtsanwalt hat seine Kanzlei am Sitz des Bundesgerichtshofes einzurichten und zu unterhalten. § 14 Abs. 3 gilt mit der Maßgabe, dass die Zulassung als Rechtsanwalt bei dem Bundesgerichtshof widerrufen werden kann.
 
-# § 173 – Bestellung eines Vertreters und eines Abwicklers der Kanzlei
+# § 173 – Bestellung einer Vertretung und eines Abwicklers der Kanzlei
 
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz soll zum Vertreter einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt bestellen. Es kann auch einen Rechtsanwalt bestellen, der das fünfunddreißigste Lebensjahr vollendet hat und den Beruf seit mindestens fünf Jahren ohne Unterbrechung ausübt.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz soll als Vertretung einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt bestellen. Es kann auch einen Rechtsanwalt bestellen, der das fünfunddreißigste Lebensjahr vollendet hat und den Beruf seit mindestens fünf Jahren ohne Unterbrechung ausübt.
 
 (2) Absatz 1 gilt entsprechend für die Bestellung eines Abwicklers der Kanzlei (§ 55). Weist die Rechtsanwaltskammer bei dem Bundesgerichtshof nach, dass für die Erledigung der laufenden Aufträge in einer Weise gesorgt ist, die den Rechtsuchenden nicht schlechter stellt als die Anwendung des § 55, unterbleibt die Bestellung eines Abwicklers.
 
-(3) Für die Bestellung eines Vertreters (§ 47 Absatz 2, § 53 Absatz 2 Satz 3, Absatz 5, § 161 Absatz 1 Satz 1, § 163 Satz 1) wird eine Gebühr von 25 Euro erhoben. Die Gebühr wird mit der Beendigung der Amtshandlung fällig. Sie kann schon vorher eingefordert werden. § 192 Abs. 2 gilt entsprechend.
+(3) Für die Bestellung einer Vertretung (§ 47 Absatz 2, § 53 Absatz 3 Satz 2, Absatz 4, § 161 Absatz 1 Satz 1, § 163 Satz 1) wird eine Gebühr von 25 Euro erhoben. Die Gebühr wird mit der Beendigung der Amtshandlung fällig. Sie kann schon vorher eingefordert werden.
 
 # § 174 – Zusammensetzung und Vorstand
 
@@ -2040,9 +2052,11 @@ Der Rechtsanwalt hat die Erklärung, daß er das Amt niederlege, dem Präsidium 
 
 Die Mitglieder des Präsidiums üben ihre Tätigkeit unentgeltlich aus. Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung.
 
-# § 184 – Pflicht zur Verschwiegenheit
+# § 184 – Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
 
-Für die Pflicht der Mitglieder des Präsidiums und der Angestellten der Bundesrechtsanwaltskammer zur Verschwiegenheit ist § 76 entsprechend anzuwenden.
+(1) Für die Verschwiegenheitspflicht der Mitglieder des Präsidiums und der Angestellten der Bundesrechtsanwaltskammer sowie der Personen, die von der Bundesrechtsanwaltskammer oder den Mitgliedern ihres Präsidiums zur Mitarbeit herangezogen werden, gilt § 76 Absatz 1 und 2 entsprechend.
+
+(2) Für die Inanspruchnahme von Dienstleistungen durch die Bundesrechtsanwaltskammer gilt in Bezug auf Angelegenheiten, die der Verschwiegenheitspflicht des Rechtsanwalts nach § 43a Absatz 2 unterliegen, § 43e Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 # § 185 – Aufgaben des Präsidenten
 
@@ -2052,9 +2066,9 @@ Für die Pflicht der Mitglieder des Präsidiums und der Angestellten der Bundesr
 
 (3) Der Präsident führt in den Sitzungen des Präsidiums und in der Hauptversammlung den Vorsitz.
 
-(4) Der Präsident erstattet dem Bundesministerium der Justiz und für Verbraucherschutz jährlich einen schriftlichen Bericht über die Tätigkeit der Bundesrechtsanwaltskammer und des Präsidiums. Er zeigt ihm ferner das Ergebnis der Wahlen zum Präsidium an.
+(4) Der Präsident erstattet dem Bundesministerium der Justiz und für Verbraucherschutz jährlich Bericht über die Tätigkeit der Bundesrechtsanwaltskammer und des Präsidiums. Er zeigt ihm ferner das Ergebnis der Wahlen zum Präsidium an.
 
-(5) Durch die Satzung der Kammer können dem Präsidenten weitere Aufgaben übertragen werden.
+(5) Durch die Satzung der Bundesrechtsanwaltskammer können dem Präsidenten weitere Aufgaben übertragen werden.
 
 # § 186 – Aufgaben des Schatzmeisters
 
@@ -2066,7 +2080,7 @@ Für die Pflicht der Mitglieder des Präsidiums und der Angestellten der Bundesr
 
 Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlungen ihrer Mitglieder (Hauptversammlungen).
 
-# § 188 – Vertreter der Rechtsanwaltskammern in der Hauptversammlung
+# § 188 – Vertretung der Rechtsanwaltskammern in der Hauptversammlung
 
 (1) Die Rechtsanwaltskammern werden in der Hauptversammlung durch ihre Präsidenten vertreten.
 
@@ -2080,7 +2094,7 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 (3) Die Hauptversammlung ist mindestens drei Wochen vor dem Tage, an dem sie zusammentreten soll, einzuberufen. Der Tag, an dem die Einberufung abgesandt ist, und der Tag der Hauptversammlung sind hierbei nicht mitzurechnen.
 
-(4) In dringenden Fällen kann der Präsident die Hauptversammlung mit kürzerer Frist einberufen. Die Vorschrift des Absatzes 2 braucht hierbei nicht eingehalten zu werden.
+(4) In dringenden Fällen kann der Präsident die Hauptversammlung mit kürzerer Frist einberufen.
 
 # § 190 – Beschlüsse der Hauptversammlung
 
@@ -2116,13 +2130,13 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 (2) Die stimmberechtigten Mitglieder der Satzungsversammlung werden von den Mitgliedern der Rechtsanwaltskammern aus dem Kreis der vorgeschlagenen Mitglieder in geheimer und unmittelbarer Wahl durch Briefwahl gewählt. Die Wahl kann auch als elektronische Wahl durchgeführt werden. Die Wahlvorschläge müssen von mindestens zehn Kammermitgliedern unterzeichnet sein; Wahlvorschläge bezüglich der Mitglieder der Rechtsanwaltskammer bei dem Bundesgerichtshof von mindestens drei Kammermitgliedern. Gewählt sind die Bewerberinnen oder Bewerber, die die meisten Stimmen auf sich vereinigen.
 
-(3) Die §§ 65, 66, 67, 68 Abs. 1, § 69 Abs. 1, 2 und 4, §§ 75, 76 gelten entsprechend. Scheidet ein stimmberechtigtes Mitglied der Satzungsversammlung aus, so tritt das nicht gewählte Kammermitglied mit der nächsthöheren Stimmenzahl in die Satzungsversammlung ein.
+(3) Die §§ 65 bis 68 Absatz 1, § 69 Absatz 1, 2 und 4 sowie die §§ 75 und 76 Absatz 1 und 2 gelten entsprechend. Scheidet ein stimmberechtigtes Mitglied der Satzungsversammlung aus, so tritt das nicht gewählte Kammermitglied mit der nächsthöheren Stimmenzahl in die Satzungsversammlung ein.
 
 # § 191c – Einberufung und Stimmrecht
 
 (1) Die Satzungsversammlung wird durch den Präsidenten der Bundesrechtsanwaltskammer schriftlich einberufen.
 
-(2) Der Präsident der Bundesrechtsanwaltskammer muß die Satzungsversammlung einberufen, wenn mindestens fünf Rechtsanwaltskammern oder ein Viertel der stimmberechtigten Mitglieder der Satzungsversammlung es schriftlich beantragen und hierbei den Gegenstand angeben, der in der Satzungsversammlung behandelt werden soll. Für das weitere Verfahren gilt § 189 entsprechend.
+(2) Der Präsident der Bundesrechtsanwaltskammer muß die Satzungsversammlung einberufen, wenn mindestens fünf Rechtsanwaltskammern oder ein Viertel der stimmberechtigten Mitglieder der Satzungsversammlung es schriftlich beantragen und hierbei den Gegenstand angeben, der in der Satzungsversammlung behandelt werden soll. Im Übrigen gilt § 189 Absatz 2 bis 4 entsprechend.
 
 # § 191d – Leitung der Versammlung und Beschlussfassung
 
@@ -2142,7 +2156,7 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz hat zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm der Vorsitzende der Satzungsversammlung die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer die Satzungsversammlung die Beschlüsse zur Berufsordnung als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat.
 
-(3) Die von der Satzungsversammlung gefassten Beschlüsse sind in den für die Verlautbarungen der Bundesrechtsanwaltskammer bestimmten Presseorganen zu veröffentlichen, sofern sie nicht der Aufhebung unterfallen. Sie treten am ersten Tag des dritten auf die Veröffentlichung folgenden Monats in Kraft.
+(3) Die von der Satzungsversammlung gefassten Beschlüsse sind unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Bundesrechtsanwaltskammer zu veröffentlichen, sofern sie nicht der Aufhebung unterfallen. Sie treten am ersten Tag des dritten auf die Veröffentlichung folgenden Monats in Kraft.
 
 # § 191f – Schlichtungsstelle der Rechtsanwaltschaft
 
@@ -2150,7 +2164,7 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 (2) Der Präsident der Bundesrechtsanwaltskammer bestellt einen oder mehrere Schlichter, die allein oder als Kollegialorgan tätig werden. Zum Schlichter, der allein tätig wird, darf nur bestellt werden, wer die Befähigung zum Richteramt besitzt, weder Rechtsanwalt ist noch in den letzten drei Jahren vor Amtsantritt war und weder im Haupt- noch im Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig ist oder in den letzten drei Jahren vor Amtsantritt tätig war. Erfolgt die Schlichtung durch ein Kollegialorgan, muss mindestens einer der Schlichter die Befähigung zum Richteramt besitzen; höchstens die Hälfte seiner Mitglieder dürfen Rechtsanwälte sein. Nichtanwaltliches Mitglied des Kollegialorgans darf nur sein, wer in den letzten drei Jahren vor Amtsantritt nicht Rechtsanwalt war und weder im Haupt- noch im Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig ist oder in den letzten drei Jahren vor Amtsantritt tätig war. Anwaltliche Mitglieder des Kollegialorgans dürfen nicht dem Vorstand einer Rechtsanwaltskammer oder eines Verbandes der Rechtsanwaltschaft angehören oder im Haupt- oder Nebenberuf bei der Bundesrechtsanwaltskammer, einer Rechtsanwaltskammer oder einem Verband der Rechtsanwaltschaft tätig sein.
 
-(3) Es wird ein Beirat errichtet, dem Vertreter der Bundesrechtsanwaltskammer, von Rechtsanwaltskammern, Verbänden der Rechtsanwaltschaft und Verbänden der Verbraucher angehören müssen. Andere Personen können in den Beirat berufen werden. Höchstens die Hälfte der Mitglieder des Beirats dürfen Rechtsanwälte sein. Dem Beirat ist vor der Bestellung von Schlichtern und vor Erlass und Änderung der Satzung Gelegenheit zur Stellungnahme zu geben. Er kann eigene Vorschläge für die Bestellung von Schlichtern und die Ausgestaltung der Satzung unterbreiten.
+(3) Es wird ein Beirat errichtet, in dem die Bundesrechtsanwaltskammer, die Rechtsanwaltskammern, die Verbände der Rechtsanwaltschaft und die Verbraucherverbände vertreten sein müssen. Andere Personen können in den Beirat berufen werden. Höchstens die Hälfte der Mitglieder des Beirats dürfen Rechtsanwälte sein. Dem Beirat ist vor der Bestellung von Schlichtern und vor Erlass und Änderung der Satzung Gelegenheit zur Stellungnahme zu geben. Er kann eigene Vorschläge für die Bestellung von Schlichtern und die Ausgestaltung der Satzung unterbreiten.
 
 (4) Die Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S. 254), das durch Artikel 1 des Gesetzes vom 30. November 2019 (BGBl. I S. 1942) geändert worden ist. Das Verbraucherstreitbeilegungsgesetz ist anzuwenden, soweit dieses Gesetz keine Regelungen zur Schlichtung von Streitigkeiten nach Absatz 1 Satz 1 enthält. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die Angaben nach § 32 Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt die Evaluationsberichte der Schlichtungsstelle an die Zentrale Anlaufstelle für Verbraucherschlichtung; § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
 
@@ -2164,7 +2178,7 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 # § 192 – Erhebung von Gebühren und Auslagen
 
-Die Rechtsanwaltskammer kann für Amtshandlungen nach diesem Gesetz, insbesondere für die Bearbeitung von Anträgen auf Zulassung zur Rechtsanwaltschaft und auf Bestellung eines Vertreters sowie für die Prüfung von Anträgen auf Erteilung der Erlaubnis zur Führung einer Fachanwaltsbezeichnung, zur Deckung des Verwaltungsaufwands Gebühren nach festen Sätzen und Auslagen erheben. Das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung findet mit der Maßgabe Anwendung, dass die allgemeinen Grundsätze für Kostenverordnungen (§§ 2 bis 7 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung) beim Erlass von Satzungen auf Grund des § 89 Absatz 2 Nummer 2 entsprechend gelten.
+Die Rechtsanwaltskammer kann für Amtshandlungen nach diesem Gesetz, insbesondere für die Bearbeitung von Anträgen auf Zulassung zur Rechtsanwaltschaft und auf Bestellung einer Vertretung sowie für die Prüfung von Anträgen auf Erteilung der Erlaubnis zur Führung einer Fachanwaltsbezeichnung, zur Deckung des Verwaltungsaufwands Gebühren nach festen Sätzen und Auslagen erheben. Das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung findet mit der Maßgabe Anwendung, dass die allgemeinen Grundsätze für Kostenverordnungen (§§ 2 bis 7 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung) beim Erlass von Satzungen auf Grund des § 89 Absatz 2 Nummer 2 entsprechend gelten.
 
 # § 193 – Gerichtskosten
 
@@ -2268,9 +2282,9 @@ d) strafgerichtlichen Verurteilungen und anderen Entscheidungen in Verfahren weg
 
 # § 206 – Niederlassung
 
-(1) Ein Angehöriger eines Mitgliedstaates der Welthandelsorganisation, der einen Beruf ausübt, der in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entspricht, ist berechtigt, sich unter der Berufsbezeichnung des Herkunftsstaates zur Rechtsbesorgung auf den Gebieten des Rechts des Herkunftsstaates und des Völkerrechts in Deutschland niederzulassen, wenn er auf Antrag in die für den Ort seiner Niederlassung zuständige Rechtsanwaltskammer aufgenommen ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Berufe zu bestimmen, die in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechen.
+(1) Personen, die in einem Mitgliedstaat der Welthandelsorganisation einen Beruf ausüben, der in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entspricht, sind berechtigt, sich in der Bundesrepublik Deutschland unter der Berufsbezeichnung des Herkunftsstaates zur Rechtsbesorgung auf den Gebieten des Rechts des Herkunftsstaates und des Völkerrechts niederzulassen, wenn sie auf Antrag in die für den Ort ihrer Niederlassung zuständige Rechtsanwaltskammer aufgenommen sind. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Berufe zu bestimmen, die in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechen.
 
-(2) Für die Angehörigen anderer Staaten, die einen in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechenden Beruf ausüben, gilt Absatz 1 mit der Maßgabe, daß die Befugnis zur Rechtsbesorgung auf das Recht des Herkunftsstaates beschränkt ist, entsprechend, wenn die Gegenseitigkeit mit dem Herkunftsstaat verbürgt ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Staaten, für deren Angehörige dies gilt, und die Berufe zu bestimmen.
+(2) Personen, die in anderen Staaten einen in der Ausbildung und den Befugnissen dem Beruf des Rechtsanwalts nach diesem Gesetz entsprechenden Beruf ausüben, gilt Absatz 1 mit der Maßgabe, daß die Befugnis zur Rechtsbesorgung auf das Recht des Herkunftsstaates beschränkt ist, entsprechend, wenn die Gegenseitigkeit mit dem Herkunftsstaat verbürgt ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Staaten, für deren Angehörige dies gilt, und die Berufe zu bestimmen.
 
 # § 207 – Aufnahmeverfahren und berufliche Stellung
 
@@ -2280,11 +2294,11 @@ d) strafgerichtlichen Verurteilungen und anderen Entscheidungen in Verfahren weg
 
 (3) Der niedergelassene ausländische Rechtsanwalt hat bei der Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache anzugeben. Wurde er als Syndikusrechtsanwalt in die Rechtsanwaltskammer aufgenommen, hat er seiner Berufsbezeichnung zudem die Bezeichnung „Syndikus“ in Klammern nachzustellen. Der niedergelassene ausländische Rechtsanwalt ist berechtigt, im beruflichen Verkehr zugleich die Bezeichnung „Mitglied der Rechtsanwaltskammer“ zu verwenden.
 
-(4) Für die Anwendung der Vorschriften des Strafgesetzbuches über die Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Absatz 3 Satz 2), über die Gebührenüberhebung (§ 352) und über den Parteiverrat (§ 356) stehen niedergelassene ausländische Rechtsanwälte den Rechtsanwälten und Anwälten gleich.
+(4) Für die Anwendung der Vorschriften des Strafgesetzbuches über die Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Absatz 3 Satz 2), Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3 bis 6, §§ 204, 205), über die Gebührenüberhebung (§ 352) und über den Parteiverrat (§ 356) stehen niedergelassene ausländische Rechtsanwälte den Rechtsanwälten und Anwälten gleich.
 
 # § 208 – Landesrechtliche Beschränkungen der Parteivertretung und Beistandschaft
 
-Ist durch Landesgesetz im Verfahren vor dem Schiedsmann oder vor anderen Güte- oder Sühnestellen der Ausschluss von Bevollmächtigten oder Beiständen vorgesehen, so kann er auch auf Rechtsanwälte erstreckt werden. Auf Grund von landesrechtlichen Vorschriften können Rechtsanwälte nicht als Bevollmächtigte oder Beistände zurückgewiesen werden.
+Ist durch Landesgesetz in Verfahren vor Schiedspersonen oder vor anderen Güte- oder Sühnestellen der Ausschluss von Bevollmächtigten oder Beiständen vorgesehen, so kann er auch auf Rechtsanwälte erstreckt werden. Auf Grund von landesrechtlichen Vorschriften können Rechtsanwälte nicht als Bevollmächtigte oder Beistände zurückgewiesen werden.
 
 # § 209 – Kammermitgliedschaft von Inhabern einer Erlaubnis nach dem Rechtsberatungsgesetz
 
@@ -2421,7 +2435,7 @@ Verfahren mit Urteil bei Verhängung einer oder mehrerer der folgenden Maßnahme
 
 1111
 
-Verfahren mit Urteil bei Verhängung eines Vertretungs- und Beistandsverbots nach § 114 Abs. 1 Nr. 4 der Bundesrechtsanwaltsordnung
+Verfahren mit Urteil bei Verhängung eines Vertretungs- und Beistandsverbots nach § 114 Abs. 1 Nr. 4 BRAO
 
 360,00 EUR
 
@@ -2437,7 +2451,7 @@ Antrag auf gerichtliche Entscheidung über die Rüge
 
 1120
 
-Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 der Bundesrechtsanwaltsordnung:  
+Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 BRAO:  
 Der Antrag wird verworfen oder zurückgewiesen.....
 
 160,00 EUR
@@ -2498,7 +2512,7 @@ Androhung oder die Festsetzung eines Zwangsgelds
 
 1230
 
-Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 der Bundesrechtsanwaltsordnung:  
+Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 BRAO:  
 Der Antrag wird verworfen oder zurückgewiesen.....
 
 200,00 EUR
@@ -2520,13 +2534,13 @@ Revision
 
 1310
 
-Revisionsverfahren mit Urteil oder mit Beschluss nach § 146 Abs. 3 Satz 1 der Bundesrechtsanwaltsordnung i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
+Revisionsverfahren mit Urteil oder mit Beschluss nach § 146 Abs. 3 Satz 1 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
 
 2,0
 
 1311
 
-Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 146 Abs. 3 Satz 1 der Bundesrechtsanwaltsordnung i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
+Erledigung des Revisionsverfahrens ohne Urteil und ohne Beschluss nach § 146 Abs. 3 Satz 1 BRAO i. V. m. § 349 Abs. 2 oder Abs. 4 StPO
 
 1,0
 
@@ -2573,14 +2587,14 @@ Anwaltsgerichtliches Verfahren mit Urteil bei Verhängung einer Maßnahme
 
 1331
 
-Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 i. V. m. § 163 Satz 2 der Bundesrechtsanwaltsordnung:  
+Verfahren über den Antrag auf gerichtliche Entscheidung über die Androhung oder die Festsetzung eines Zwangsgelds nach § 57 Abs. 3 i. V. m. § 163 Satz 2 BRAO:  
 Der Antrag wird verworfen oder zurückgewiesen.....
 
 240,00 EUR
 
 1332
 
-Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 i. V. m. § 163 Satz 2 der Bundesrechtsanwaltsordnung:  
+Verfahren über den Antrag auf gerichtliche Entscheidung über die Rüge nach § 74a Abs. 1 i. V. m. § 163 Satz 2 BRAO:  
 Der Antrag wird verworfen oder zurückgewiesen
 
 240,00 EUR

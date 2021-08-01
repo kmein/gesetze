@@ -675,11 +675,11 @@ Der Tätigkeit im Dienst eines öffentlich-rechtlichen Dienstherrn steht die Tä
 
 2. einer praktischen hauptberuflichen Tätigkeit, die für die Übernahme in das Soldatenverhältnis vorgeschrieben ist,
 
-als ruhegehaltfähig berücksichtigt werden, die Zeit einer Fachschulausbildung einschließlich der Prüfungszeit bis zu 1 095 Tagen und die Zeit einer Hochschulausbildung einschließlich der Prüfungszeit bis zu 855 Tagen, insgesamt höchstens bis zu 1 095 Tagen. Wird die allgemeine Schulbildung durch eine andere Art der Ausbildung ersetzt, so steht diese der Schulbildung gleich. Zum Zeitpunkt des Ruhestandseintritts ist das Ruhegehalt unter Berücksichtigung von Hochschulausbildungszeiten nach Satz 1 zu berechnen.
+als ruhegehaltfähig berücksichtigt werden, die Zeit einer Fachschulausbildung einschließlich der Prüfungszeit bis zu 1 095 Tagen und die Zeit einer Hochschulausbildung einschließlich der Prüfungszeit bis zu 855 Tagen, insgesamt höchstens bis zu 1 095 Tagen. Wird die allgemeine Schulbildung durch eine andere Art der Ausbildung ersetzt, so steht diese der Schulbildung gleich. Zum Zeitpunkt des Ruhestandseintritts ist das Ruhegehalt unter Berücksichtigung von Hochschulausbildungszeiten nach Satz 1 zu berechnen. Auf eine praktische Tätigkeit nach Satz 1 Nummer 2 ist § 20 Absatz 1 Satz 3 anzuwenden.
 
 (1a) Ergibt eine Berechnung des Ruhegehalts unter Berücksichtigung von Hochschulausbildungszeiten nach Absatz 1 Satz 1 in der bis zum 11. Februar 2009 geltenden Fassung gegenüber der Ruhegehaltsberechnung nach Absatz 1 Satz 3 einen Differenzbetrag, der größer ist als der Rentenbetrag, der sich durch Vervielfältigung des aktuellen Rentenwertes mit dem Faktor 2,25 ergibt, bleibt es bei der Berechnung des Ruhegehalts unter Berücksichtigung von Hochschulausbildungszeiten nach Absatz 1 Satz 1 in der bis zum 11. Februar 2009 geltenden Fassung, soweit dadurch mit Ausnahme der Fälle des § 27 der Höchstruhegehaltssatz im Sinne des § 26 Absatz 1 Satz 1 und Absatz 2 Satz 2 nicht überschritten wird. Die der Berechnung nach Satz 1 zugrunde gelegten Hochschulausbildungszeiten sind um die Hochschulausbildungszeiten zu vermindern, die dem Rentenbetrag entsprechen, der sich durch Vervielfältigung des aktuellen Rentenwertes mit dem Faktor 2,25 ergibt.
 
-(2) An Stelle einer Berücksichtigung nach Absatz 1 können einem Berufssoldaten verbrachte Zeiten einer praktischen Ausbildung und einer praktischen hauptberuflichen Tätigkeit bis zu einer Gesamtzeit von fünf Jahren als ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn sie für die Wahrnehmung der ihm als Soldat auf Zeit oder Berufssoldat übertragenen Aufgaben förderlich sind. Absatz 1 Satz 2 gilt entsprechend.
+(2) An Stelle einer Berücksichtigung nach Absatz 1 können einem Berufssoldaten verbrachte Zeiten einer praktischen Ausbildung und einer praktischen hauptberuflichen Tätigkeit bis zu einer Gesamtzeit von fünf Jahren als ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn sie für die Wahrnehmung der ihm als Soldat auf Zeit oder Berufssoldat übertragenen Aufgaben förderlich sind. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
 (3) Hat der Berufssoldat sein Studium nach der Festsetzung von Regelstudienzeiten in dem jeweiligen Studiengang begonnen, kann die tatsächliche Studiendauer nur insoweit berücksichtigt werden, als die Regelstudienzeit einschließlich der Prüfungszeit nicht überschritten ist.
 
@@ -785,7 +785,17 @@ Die Erhöhung ist kaufmännisch auf zwei Dezimalstellen zu runden; der erhöhte 
 
 3. Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme der Berufssoldat gemäß § 20 Absatz 7 des Soldatengesetzes in Verbindung mit § 98 des Bundesbeamtengesetzes verpflichtet ist oder Nebentätigkeiten, deren Wahrnehmung von ihm im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern der Berufssoldat hierbei nicht in der gesetzlichen Unfallversicherung versichert ist (§ 2 des Siebten Buches Sozialgesetzbuch).
 
-(3) Als Dienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges nach und von der Dienststelle; hat der Berufssoldat wegen der Entfernung seiner ständigen Familienwohnung vom Dienstort an diesem oder in dessen Nähe eine Unterkunft, so gilt Halbsatz 1 auch für den Weg von und nach der Familienwohnung; der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn der Berufssoldat von dem unmittelbaren Wege zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht, weil sein eigenes dem Grunde nach kindergeldberechtigendes Kind wegen seiner oder seines Ehegatten beruflichen Tätigkeit fremder Obhut anvertraut wird oder weil er mit anderen Soldaten oder mit berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg nach und von der Dienststelle benutzt. Ein Unfall, den der Verletzte bei der Gewährung der unentgeltlichen truppenärztlichen Versorgung oder auf einem hierzu notwendigen Wege erleidet, gilt als Folge eines Dienstunfalles. Satz 2 gilt entsprechend, wenn der Verletzte dem Verlangen einer zuständigen Behörde oder eines Gerichts, wegen der Dienstunfallversorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
+(3) Als Dienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges zu und von der Dienststelle. Hat der Berufssoldat wegen der Entfernung seiner ständigen Familienwohnung vom Dienstort an diesem oder in dessen Nähe eine Unterkunft, so gilt Satz 1 auch für den Weg zwischen der Familienwohnung und der Dienststelle. Der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn der Berufssoldat
+
+1. von dem unmittelbaren Weg zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht,
+
+a) um ein eigenes Kind, für das ihm dem Grunde nach Kindergeld zusteht, wegen seiner eigenen Berufstätigkeit oder der Berufstätigkeit seines Ehegatten in fremde Obhut zu geben oder aus fremder Obhut abzuholen oder
+
+b) weil er mit anderen berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg zu und von der Dienststelle benutzt, oder
+
+2. in seiner Wohnung Dienst leistet und Wege zurücklegt, um ein Kind im Sinne des Satzes 3 Nummer 1 Buchstabe a in fremde Obhut zu geben oder aus fremder Obhut abzuholen.
+
+Ein Unfall, den der Verletzte bei der Gewährung der unentgeltlichen truppenärztlichen Versorgung oder auf einem hierzu notwendigen Wege erleidet, gilt als Folge eines Dienstunfalles. Satz 4 gilt entsprechend, wenn der Verletzte dem Verlangen einer zuständigen Behörde oder eines Gerichts, wegen der Dienstunfallversorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
 
 (4) Erkrankt ein Berufssoldat, der wegen der Art seiner dienstlichen Verrichtungen der Gefahr der Erkrankung an einer bestimmten Krankheit besonders ausgesetzt ist, an dieser Krankheit, so gilt die Erkrankung als Dienstunfall, es sei denn, dass der Berufssoldat sich die Krankheit außerhalb des Dienstes zugezogen hat. Die Erkrankung gilt jedoch stets als Dienstunfall, wenn sie durch gesundheitsschädigende Verhältnisse verursacht worden ist, denen der Berufssoldat am Ort seines dienstlich angeordneten Aufenthalts im Ausland besonders ausgesetzt war. Als Krankheiten im Sinne des Satzes 1 kommen die in der Anlage 1 zur Berufskrankheiten-Verordnung vom 31. Oktober 1997 (BGBl. I S. 2623) in der jeweils geltenden Fassung genannten Krankheiten mit den dort bezeichneten Maßgaben in Betracht. Für die Feststellung einer Krankheit als Dienstunfall sind auch den Versicherungsschutz nach § 2, § 3 oder § 6 des Siebten Buches Sozialgesetzbuch begründende Tätigkeiten zu berücksichtigen, wenn sie ihrer Art nach geeignet waren, die Krankheit zu verursachen, und die schädigende Einwirkung überwiegend durch dienstliche Verrichtungen nach Satz 1 verursacht worden ist.
 
@@ -1013,7 +1023,7 @@ Satz 1 Nummer 3 gilt auch bei Weiterzahlung an die Hinterbliebenen (§ 11 Absatz
 
 (7) Beträge von weniger als 5 Euro sind nur auf Verlangen des Empfangsberechtigten auszuzahlen.
 
-(8) Die zuständige Dienstbehörde hat dem Berufssoldaten auf schriftlichen oder elektronischen Antrag eine Auskunft zum Anspruch auf Versorgungsbezüge nach der Sach- und Rechtslage zum Zeitpunkt der Antragstellung zu erteilen. Die Auskunft steht unter dem Vorbehalt künftiger Sach- und Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der zugrunde liegenden Daten.
+(8) Die zuständige Dienstbehörde hat dem Berufssoldaten auf schriftlichen oder elektronischen Antrag eine Auskunft zum Anspruch auf Versorgungsbezüge nach der Sach- und Rechtslage zum Zeitpunkt der Auskunftserteilung zu erteilen. Die Auskunft steht unter dem Vorbehalt künftiger Sach- und Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der zugrunde liegenden Daten.
 
 # § 47 – Familienzuschlag und Ausgleichsbetrag
 
@@ -1141,6 +1151,8 @@ Ist bei einem an der Ruhensregelung nach Satz 1 Nummer 1 oder 2 beteiligten Vers
 
 (4) Erwirbt ein Soldat im Ruhestand einen Anspruch auf Witwergeld, Witwengeld oder eine ähnliche Versorgung, so erhält er daneben sein Ruhegehalt zuzüglich des Unterschiedsbetrages nach § 47 Absatz 1 nur bis zum Erreichen der in Absatz 2 Satz 1 Nummer 3 und Satz 3 und 5 bezeichneten Höchstgrenze. Beruht das Witwergeld, das Witwengeld oder die ähnliche Versorgung auf dem Recht eines anderen Dienstherrn und gewährt dieser eine einmalige Sonderzahlung, so ist die monatliche Höchstgrenze um ein Zwölftel der tatsächlich an die Witwe oder den Witwer gewährten Sonderzahlung zu erhöhen. Die Gesamtbezüge dürfen nicht hinter seinem Ruhegehalt zuzüglich des Unterschiedsbetrages nach § 47 Absatz 1 sowie eines Betrages in Höhe von 20 Prozent des neuen Versorgungsbezuges zurückbleiben.
 
+(4a) Ist ein an der Ruhensregelung beteiligter Versorgungsbezug auf Grund eines Versorgungsausgleichs zu kürzen, bleibt die Kürzung bei der Anwendung der Absätze 1 bis 4 unberücksichtigt. § 55c ist auf den nach Anwendung der Absätze 1 bis 4 verbleibenden Versorgungsbezug anzuwenden.
+
 (5) Auf Empfänger von Übergangsgebührnissen und ihre Hinterbliebenen sind die Absätze 1 bis 4 mit der Maßgabe anzuwenden, dass an die Stelle der Höchstgrenzen des Absatzes 2 die Dienstbezüge treten, aus denen die Übergangsgebührnisse berechnet sind, zuzüglich des Unterschiedsbetrages nach § 47 Absatz 1.
 
 # § 55a – Zusammentreffen von Versorgungsbezügen und Renten
@@ -1155,7 +1167,7 @@ Ist bei einem an der Ruhensregelung nach Satz 1 Nummer 1 oder 2 beteiligten Vers
 
 4. Leistungen aus einer berufsständischen Versorgungseinrichtung oder aus einer befreienden Lebensversicherung, zu denen der Arbeitgeber auf Grund eines Beschäftigungsverhältnisses im öffentlichen Dienst mindestens die Hälfte der Beiträge oder Zuschüsse in dieser Höhe geleistet hat.
 
-Wird eine Rente im Sinne des Satzes 2 nicht beantragt oder auf sie verzichtet oder wird an deren Stelle eine Kapitalleistung gezahlt, so tritt an die Stelle der Rente der Betrag, der vom Leistungsträger ansonsten zu zahlen wäre. Erfolgt die Zahlung eines Kapitalbetrages, weil kein Anspruch auf eine laufende Rente besteht, so ist der Betrag zugrunde zu legen, der sich bei einer Verrentung der einmaligen Zahlung ergibt. Dies gilt nicht, wenn der Soldat im Ruhestand innerhalb von drei Monaten nach Zufluss den Kapitalbetrag zuzüglich der hierauf gewährten Zinsen an den Bund abführt. Zu den Renten und den Leistungen nach Nummer 4 rechnet nicht der Kinderzuschuss. Renten, Rentenerhöhungen und Rentenminderungen, die auf § 1587b des Bürgerlichen Gesetzbuchs oder § 1 des Gesetzes zur Regelung von Härten im Versorgungsausgleich, jeweils in der bis zum 31. August 2009 geltenden Fassung, beruhen, sowie übertragene Anrechte nach Maßgabe des Versorgungsausgleichsgesetzes und Zuschläge oder Abschläge beim Rentensplitting unter Ehegatten nach § 76c des Sechsten Buches Sozialgesetzbuch bleiben unberücksichtigt. Der Verrentungsbetrag nach Satz 4 berechnet sich nach folgender Formel:  
+Wird eine Rente im Sinne des Satzes 2 nicht beantragt oder auf sie verzichtet oder wird an deren Stelle ein Kapitalbetrag gezahlt, so tritt an die Stelle der Rente der Betrag, der vom Leistungsträger ansonsten zu zahlen wäre. Erfolgt die Zahlung eines Kapitalbetrages, weil kein Anspruch auf eine laufende Rente besteht, so ist der Betrag zugrunde zu legen, der sich bei einer Verrentung der einmaligen Zahlung ergibt. Die Sätze 3 und 4 gelten nicht, wenn der Soldat im Ruhestand innerhalb von drei Monaten nach Zufluss den Kapitalbetrag zuzüglich der hierauf gewährten Zinsen an den Dienstherrn abführt. Zu den Renten und den Leistungen nach Nummer 4 rechnet nicht der Kinderzuschuss. Renten, Rentenerhöhungen und Rentenminderungen, die auf § 1587b des Bürgerlichen Gesetzbuchs oder § 1 des Gesetzes zur Regelung von Härten im Versorgungsausgleich, jeweils in der bis zum 31. August 2009 geltenden Fassung, beruhen, sowie übertragene Anrechte nach Maßgabe des Versorgungsausgleichsgesetzes und Zuschläge oder Abschläge beim Rentensplitting unter Ehegatten nach § 76c des Sechsten Buches Sozialgesetzbuch bleiben unberücksichtigt. Der Verrentungsbetrag nach Satz 4 berechnet sich nach folgender Formel:  
   
 
 |                 |
@@ -1196,7 +1208,9 @@ Ist bei einem an der Ruhensregelung beteiligten Versorgungsbezug das Ruhegehalt 
 
 1. dem Verhältnis der Versicherungsjahre auf Grund freiwilliger Weiterversicherung oder Selbstversicherung zu den gesamten Versicherungsjahren oder, wenn sich die Rente nach Werteinheiten berechnet, dem Verhältnis der Werteinheiten für freiwillige Beiträge zu der Summe der Werteinheiten für freiwillige Beiträge, Pflichtbeiträge, Ersatzzeiten und Ausfallzeiten oder, wenn sich die Rente nach Entgeltpunkten berechnet, dem Verhältnis der Entgeltpunkte für freiwillige Beiträge zu der Summe der Entgeltpunkte für freiwillige Beiträge, Pflichtbeiträge, Ersatzzeiten, Zurechnungszeiten und Anrechnungszeiten entspricht,
 
-2. auf einer Höherversicherung beruht.
+2. auf einer Höherversicherung beruht,
+
+3. auf Entgeltpunkten beruht, die auf Zeiten einer Verwendung bei einer Einrichtung im Sinne des § 20a zurückzuführen sind, sofern diese Zeiten nicht als ruhegehaltfähige Dienstzeiten nach § 20a berücksichtigt werden.
 
 Dies gilt nicht, soweit der Arbeitgeber mindestens die Hälfte der Beiträge oder Zuschüsse in dieser Höhe geleistet hat.
 
@@ -1256,13 +1270,21 @@ Für die Ansprüche von ausgleichsberechtigten Personen und deren Hinterbliebene
 
 # § 55f – Abzug für Pflegeleistungen
 
-Die zu zahlenden Versorgungsbezüge vermindern sich um den hälftigen Prozentsatz nach § 55 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch. Versorgungsbezüge nach Satz 1 sind
+Die zu zahlenden Versorgungsbezüge vermindern sich um den hälftigen Prozentsatz nach § 55 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch, sofern eine Beihilfeberechtigung nach § 2 der Bundesbeihilfeverordnung besteht. Versorgungsbezüge nach Satz 1 sind
 
 1. Ruhegehalt, Witwengeld, Waisengeld, Unterhaltsbeitrag zuzüglich des Unterschiedsbetrages nach § 47 Absatz 1 Satz 2 bis 4,
 
 2. Leistungen nach § 4 Absatz 2 Nummer 3 bis 7 des Gesetzes über die Gewährung einer jährlichen Sonderzuwendung in der Fassung der Bekanntmachung vom 15. Dezember 1998 (BGBl. I S. 3642), das zuletzt durch Artikel 18 des Gesetzes vom 10. September 2003 (BGBl. I S. 1798) geändert worden ist.
 
 Die Verminderung darf den Betrag, der sich aus dem hälftigen Prozentsatz nach § 55 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch des zwölften Teils der jährlichen Beitragsbemessungsgrenze in der Pflegeversicherung (§ 55 Absatz 2 des Elften Buches Sozialgesetzbuch) errechnet, nicht übersteigen.
+
+# § 55g – Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen
+
+(1) Neben einer nach Landesrecht gezahlten ergänzenden Versorgungsabfindung wird das Ruhegehalt nur bis zum Erreichen der in Absatz 2 genannten Höchstgrenzen gezahlt. Auf die ergänzende Versorgungsabfindung sind dabei die Vorgaben des § 55a Absatz 1 Satz 4, 8 und 9 anzuwenden. Dies gilt nicht, wenn der Berufssoldat den erhaltenen Betrag innerhalb eines Jahres nach Berufung in den Dienst des Bundes an den Dienstherrn abführt; § 20a Absatz 3 findet entsprechende Anwendung.
+
+(2) Als Höchstgrenzen gelten die in § 55a Absatz 2 Satz 1 Nummer 1 bezeichneten Höchstgrenzen sinngemäß.
+
+(3) § 55a Absatz 3 gilt entsprechend.
 
 # § 56 – Erlöschen der Versorgungsbezüge wegen Verurteilung
 
@@ -1294,7 +1316,7 @@ Kommt ein Soldat im Ruhestand entgegen den Vorschriften des § 50 Absatz 2 des S
 
 Die §§ 5 und 52 des Soldatengesetzes gelten entsprechend.
 
-(2) Waisengeld wird nach Vollendung des 18. Lebensjahres auf Antrag gewährt, wenn die Waise
+(2) Waisengeld wird nach Vollendung des 18. Lebensjahres auf Antrag gewährt, solange die Waise
 
 1. das 27. Lebensjahr noch nicht vollendet hat und
 
@@ -1764,13 +1786,17 @@ b) bei der Durchführung einer der unter Buchstabe a aufgeführten Maßnahmen er
 
 2. das Zurücklegen des mit dem Wehrdienst zusammenhängenden Weges nach und von der Dienststelle.
 
-Der Zusammenhang mit dem Wehrdienst gilt als nicht unterbrochen, wenn der Soldat von dem unmittelbaren Wege zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht, weil
+Der Zusammenhang mit dem Wehrdienst gilt als nicht unterbrochen, wenn der Soldat
 
-a) sein dem Grunde nach kindergeldberechtigendes Kind, das mit ihm in einem Haushalt lebt, wegen des Wehrdienstes oder wegen der beruflichen Tätigkeit seines Ehegatten fremder Obhut anvertraut wird,
+1. von dem unmittelbaren Wege zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht,
 
-b) er mit anderen Soldaten oder mit berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg nach und von der Dienststelle benutzt.
+a) um ein eigenes Kind, für das ihm dem Grunde nach Kindergeld zusteht, wegen seiner eigenen Berufstätigkeit oder der Berufstätigkeit seines Ehegatten in fremde Obhut zu geben oder aus fremder Obhut abzuholen oder
 
-Hat der Soldat wegen der Entfernung seiner ständigen Familienwohnung vom Dienstort oder wegen der Kasernierungspflicht am Dienstort oder in dessen Nähe eine Unterkunft, so gelten Satz 1 Nummer 2 und Satz 2 auch für den Weg von und nach der Familienwohnung.
+b) weil er mit anderen berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg zu und von der Dienststelle benutzt, oder
+
+2. in seiner Wohnung Dienst leistet und Wege zurücklegt, um ein Kind im Sinne des Satzes 2 Nummer 1 Buchstabe a in fremde Obhut zu geben oder aus fremder Obhut abzuholen.
+
+Hat der Soldat wegen der Entfernung seiner ständigen Familienwohnung vom Dienstort oder wegen der Kasernierungspflicht am Dienstort oder in dessen Nähe eine Unterkunft, so gelten Satz 1 Nummer 2 und Satz 2 auch für den Weg zu und von der Familienwohnung.
 
 (5) Einer gesundheitlichen Schädigung im Sinne des Absatzes 1 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 

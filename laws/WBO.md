@@ -238,7 +238,7 @@ Für die Entscheidungen des Generalinspekteurs der Bundeswehr über weitere Besc
 
 (4) Die Rechtsbeschwerde ist bei dem Truppendienstgericht, dessen Beschluss angefochten wird, innerhalb eines Monats nach Zustellung des Beschlusses schriftlich einzulegen und innerhalb von zwei Monaten nach Zustellung des Beschlusses schriftlich zu begründen.
 
-(5) Der Beschwerdeführer muss sich im Rechtsbeschwerdeverfahren, soweit er einen Antrag stellt, durch einen Rechtsanwalt oder durch eine Person vertreten lassen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz hat oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllt. § 21 Absatz 2 und 3 Satz 2 gilt entsprechend.
+(5) Der Beschwerdeführer muss sich im Rechtsbeschwerdeverfahren, soweit er einen Antrag stellt, durch einen Rechtsanwalt oder durch eine Person vertreten lassen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz hat. § 21 Absatz 2 und 3 Satz 2 gilt entsprechend.
 
 (6) Über die Rechtsbeschwerde entscheidet das Bundesverwaltungsgericht durch Beschluss. Ist die Rechtsbeschwerde begründet, kann das Bundesverwaltungsgericht in der Sache selbst entscheiden oder den angefochtenen Beschluss aufheben und die Sache an das Truppendienstgericht zur anderweitigen Verhandlung und Entscheidung zurückverweisen.
 

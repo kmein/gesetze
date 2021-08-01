@@ -3684,6 +3684,8 @@ Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem Stiftungs
 
 (6) Liegen bis zum Zeitpunkt des Erlasses des erstmaligen Körperschaftsteuerbescheids oder Freistellungsbescheids bereits Erkenntnisse vor, dass die tatsächliche Geschäftsführung gegen die satzungsmäßigen Voraussetzungen verstößt, ist die Feststellung der Einhaltung der satzungsmäßigen Voraussetzungen nach Absatz 1 Satz 1 abzulehnen. Satz 1 gilt entsprechend für die Aufhebung bestehender Feststellungen nach § 60a.
 
+(7) Auf Anfrage der registerführenden Stelle nach § 18 Absatz 2 des Geldwäschegesetzes kann das für die Feststellung nach Absatz 1 zuständige Finanzamt der registerführenden Stelle bestätigen, dass eine Vereinigung, die einen Antrag nach § 24 Absatz 1 Satz 2 des Geldwäschegesetzes gestellt hat, die nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke verfolgt. Hierzu hat die registerführende Stelle dem zuständigen Finanzamt zu bestätigen, dass das Einverständnis der Vereinigung auf Auskunftserteilung nach § 24 Absatz 1 Satz 3 des Geldwäschegesetzes vorliegt.
+
 # § 61 – Satzungsmäßige Vermögensbindung
 
 (1) Eine steuerlich ausreichende Vermögensbindung (§ 55 Abs. 1 Nr. 4) liegt vor, wenn der Zweck, für den das Vermögen bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall ihres bisherigen Zwecks verwendet werden soll, in der Satzung so genau bestimmt ist, dass auf Grund der Satzung geprüft werden kann, ob der Verwendungszweck steuerbegünstigt ist.
@@ -4549,7 +4551,7 @@ Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit Zustimmung de
 
 (1) Die Finanzbehörde kann den Beteiligten auffordern, dass er die Richtigkeit von Tatsachen, die er behauptet, an Eides statt versichert. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis geführt haben oder einen unverhältnismäßigen Aufwand erfordern. Von eidesunfähigen Personen im Sinne des § 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.
 
-(2) Die Versicherung an Eides statt wird von der Finanzbehörde zur Niederschrift aufgenommen. Zur Aufnahme sind der Behördenleiter, sein ständiger Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein ständiger Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
+(2) Die Versicherung an Eides statt wird von der Finanzbehörde zur Niederschrift aufgenommen. Zur Aufnahme sind der Behördenleiter, sein ständiger Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein ständiger Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
 
 (3) Die Angaben, deren Richtigkeit versichert werden soll, sind schriftlich festzustellen und dem Beteiligten mindestens eine Woche vor Aufnahme der Versicherung mitzuteilen. Die Versicherung besteht darin, dass der Beteiligte unter Wiederholung der behaupteten Tatsachen erklärt: "Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe". Bevollmächtigte und Beistände des Beteiligten sind berechtigt, an der Aufnahme der Versicherung an Eides statt teilzunehmen.
 

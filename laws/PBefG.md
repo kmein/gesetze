@@ -5,13 +5,25 @@
 
 (1) Den Vorschriften dieses Gesetzes unterliegt die entgeltliche oder geschäftsmäßige Beförderung von Personen mit Straßenbahnen, mit Oberleitungsomnibussen (Obussen) und mit Kraftfahrzeugen. Als Entgelt sind auch wirtschaftliche Vorteile anzusehen, die mittelbar für die Wirtschaftlichkeit einer auf diese Weise geförderten Erwerbstätigkeit erstrebt werden.
 
+(1a) Eine Beförderung von Personen im Sinne von Absatz 1 Satz 1 liegt auch vor, wenn die Vermittlung und Durchführung der Beförderung organisatorisch und vertraglich verantwortlich kontrolliert wird.
+
 (2) Diesem Gesetz unterliegen nicht Beförderungen
 
-1. mit Personenkraftwagen, wenn diese unentgeltlich sind oder das Gesamtentgelt die Betriebskosten der Fahrt nicht übersteigt;
+1. mit Personenkraftwagen, wenn
+
+a) die Beförderung unentgeltlich erfolgt oder
+
+b) das Gesamtentgelt je Kilometer zurückgelegter Strecke den in § 5 Absatz 2 Satz 1 des Bundesreisekostengesetzes genannten Betrag nicht übersteigt;
 
 2. mit Krankenkraftwagen, wenn damit kranke, verletzte oder sonstige hilfsbedürftige Personen befördert werden, die während der Fahrt einer medizinisch fachlichen Betreuung oder der besonderen Einrichtung des Krankenkraftwagens bedürfen oder bei denen solches auf Grund ihres Zustandes zu erwarten ist.
 
 Satz 1 Nummer 1 gilt auch, wenn die Beförderungen geschäftsmäßig sind.
+
+(3) Den Vorschriften dieses Gesetzes unterliegt außerdem die Vermittlung von Beförderungen gemäß Absatz 1. Vermittlung im Sinne von Satz 1 ist die Tätigkeit von Betreibern von Mobilitätsplattformen, deren Hauptgeschäftszweck auf den Abschluss eines Vertrages über eine gemäß § 2 genehmigungspflichtige Beförderung ausgerichtet ist, und die nicht selbst Beförderer nach Absatz 1 Satz 1 sind.
+
+# § 1a – Klimaschutz und Nachhaltigkeit
+
+Bei Anwendung dieses Gesetzes sind die Ziele des Klimaschutzes und der Nachhaltigkeit zu berücksichtigen.
 
 # § 2 – Genehmigungspflicht
 
@@ -21,11 +33,15 @@ Satz 1 Nummer 1 gilt auch, wenn die Beförderungen geschäftsmäßig sind.
 
 2. mit Obussen,
 
-3. mit Kraftfahrzeugen im Linienverkehr (§§ 42 und 43) oder
+3. mit Kraftfahrzeugen im Linienverkehr (§§ 42, 42a, 43 und 44) oder
 
 4. mit Kraftfahrzeugen im Gelegenheitsverkehr (§ 46)
 
 Personen befördert, muß im Besitz einer Genehmigung sein. Er ist Unternehmer im Sinne dieses Gesetzes.
+
+(1a) Wer als Nachunternehmer im Auftrag des Unternehmers eine entgeltliche Beförderung von Personen mit Kraftomnibussen durchführt, muss eine Genehmigung nach diesem Gesetz besitzen, die die eingesetzten Fahrzeuge umfasst. Dies gilt nicht, wenn die Voraussetzungen nach Artikel 1 Absatz 4 Buchstabe b oder c der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, erfüllt sind oder der Nachunternehmer ausschließlich innerstaatliche Beförderungen im Sinne des Artikels 1 Absatz 5 der Verordnung (EG) Nr. 1071/2009 durchführt.
+
+(1b) Wer im Sinne des § 1 Absatz 3 eine Beförderung vermittelt, muss nicht im Besitz einer Genehmigung sein. Er ist Vermittler im Sinne dieses Gesetzes.
 
 (2) Der Genehmigung bedarf auch
 
@@ -45,7 +61,7 @@ Personen befördert, muß im Besitz einer Genehmigung sein. Er ist Unternehmer i
 
 (6) Anstelle der Ablehnung einer Genehmigung kann im Fall einer Beförderung, die nicht alle Merkmale einer Verkehrsart oder Verkehrsform erfüllt, eine Genehmigung nach denjenigen Vorschriften dieses Gesetzes erteilt werden, denen diese Beförderung am meisten entspricht, soweit öffentliche Verkehrsinteressen nicht entgegenstehen.
 
-(7) Zur praktischen Erprobung neuer Verkehrsarten oder Verkehrsmittel kann die Genehmigungsbehörde auf Antrag im Einzelfall Abweichungen von Vorschriften dieses Gesetzes oder von auf Grund dieses Gesetzes erlassenen Vorschriften für die Dauer von höchstens vier Jahren genehmigen, soweit öffentliche Verkehrsinteressen nicht entgegenstehen.
+(7) Zur praktischen Erprobung neuer Verkehrsarten oder Verkehrsmittel kann die Genehmigungsbehörde auf Antrag im Einzelfall Abweichungen von Vorschriften dieses Gesetzes oder von auf Grund dieses Gesetzes erlassenen Vorschriften für die Dauer von höchstens fünf Jahren genehmigen, soweit öffentliche Verkehrsinteressen nicht entgegenstehen.
 
 # § 3 – Unternehmer
 
@@ -54,6 +70,108 @@ Personen befördert, muß im Besitz einer Genehmigung sein. Er ist Unternehmer i
 (2) Der Unternehmer oder derjenige, auf den die Betriebsführung übertragen worden ist, muß den Verkehr im eigenen Namen, unter eigener Verantwortung und für eigene Rechnung betreiben. Die von der Landesregierung bestimmte Behörde kann in Einzelfällen Ausnahmen zulassen.
 
 (3) Sollen Straßenbahnbetriebsanlagen von einem anderen als dem Unternehmer gebaut werden, kann die Genehmigung für ihren Bau und für die Linienführung (§ 9 Abs. 1 Nr. 1) dem anderen erteilt werden; die für den Unternehmer geltenden Vorschriften des Gesetzes und der auf Grund des Gesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
+
+# § 3a – Bereitstellung von Mobilitätsdaten
+
+(1) Der Unternehmer und der Vermittler sind verpflichtet, die folgenden statischen und dynamischen Daten sowie die entsprechenden Metadaten, die im Zusammenhang mit der Beförderung von Personen im Linienverkehr nach den §§ 42, 42a und 44 sowie im Gelegenheitsverkehr nach den §§ 47, 49 und 50 entstehen, nach Maßgabe der nach § 57 Absatz 1 Nummer 12 zu erlassenden Rechtsverordnung über den Nationalen Zugangspunkt nach § 2 Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013 (BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juni 2017 (BGBl. I S. 2690) geändert worden ist, bereitzustellen:
+
+1. Daten im Zusammenhang mit der Beförderung von Personen im Linienverkehr:
+
+a) Name und Kontaktdaten des Anbieters, Fahrpläne, Routen, Preise oder Tarifstruktur, Buchungs- und Bezahlmöglichkeiten sowie Daten zur Barrierefreiheit und zum Umweltstandard der eingesetzten Fahrzeuge;
+
+b) Ausfälle, Störungen sowie Verspätungen und die voraussichtliche Abfahrts- und Ankunftszeit sowie die tatsächliche oder prognostizierte Auslastung des Verkehrsmittels;
+
+c) Bahnhöfe, Haltestellen und andere Zugangsknoten sowie Daten zu deren Barrierefreiheit; hierunter fallen auch Daten zur vorhandenen Infrastruktur an den Zugangsknoten wie Plattformen, Verkaufsstellen, Treppenhäuser, Rolltreppen und Aufzügen sowie
+
+d) aktueller Betriebsstatus der unter Buchstabe c genannten Zugangsknoten und der dort vorhandenen Infrastruktur;
+
+2. Daten im Zusammenhang mit der Beförderung von Personen im Gelegenheitsverkehr:
+
+a) Name und Kontaktdaten des Anbieters, Bediengebiet und -zeiten, Standorte und Stationen einschließlich ihrer Anzahl, Preise, Buchungs- und Bezahlmöglichkeiten, Daten zur Barrierefreiheit sowie zum Umweltstandard der eingesetzten Fahrzeuge;
+
+b) Daten zur Verfügbarkeit von Fahrzeugen an Stationen und im Verkehr inklusive deren Auslastung in Echtzeit sowie Daten zu den tatsächlich abgerechneten Kosten.
+
+(2) Die Bereitstellung der in Absatz 1 Nummer 1 Buchstabe a und c sowie in Nummer 2 Buchstabe a genannten Daten hat einmalig, die Bereitstellung der in Absatz 1 Nummer 1 Buchstabe b und d und Nummer 2 Buchstabe b genannten Daten hat fortlaufend in Echtzeit zu erfolgen. Die Daten sind in einem maschinenlesbaren Format bereitzustellen. Näheres bestimmt die nach § 57 Absatz 1 Nummer 12 zu erlassende Rechtsverordnung. Unternehmer und Vermittler müssen die in Absatz 1 Nummer 1 Buchstabe a und c und Nummer 2 Buchstabe a genannten Daten aktualisieren, soweit sich in ihrem Geschäftsbetrieb Änderungen ergeben.
+
+(3) Natürliche oder juristische Personen, die als Einzelunternehmer firmieren, sind von der Bereitstellungspflicht nach Absatz 1 ausgenommen. Die freiwillige Bereitstellung von Daten nach Absatz 1 bleibt hiervon unberührt.
+
+(4) Unternehmer und Vermittler können sich bei der Erfüllung ihrer Bereitstellungspflicht eines Erfüllungsgehilfen bedienen.
+
+(5) Stehen für die nach Absatz 1 Nummer 1 bereitzustellenden Daten auf Länderebene Systeme zur Verfügung, die dem Zweck der landeseinheitlichen Zusammenführung von Daten dienen, so sind die Daten vorrangig an diese Systeme zu liefern. Die Landessysteme garantieren, dass die bereitgestellten Daten und Metadaten umgehend an den Nationalen Zugangspunkt weitergeleitet werden. Dynamische Daten sind in Echtzeit weiterzuleiten. Hierzu müssen die Landessysteme mit dem Nationalen Zugangspunkt über eine funktionsfähige Schnittstelle verbunden sein. Die technischen Vorgaben des Nationalen Zugangspunktes sind einzuhalten.
+
+§ 3a Abs. 1 Kursivdruck: zukünftig in Kraft
+
+# § 3b – Datenverarbeitung
+
+(1) Der Nationale Zugangspunkt ist befugt, die Daten nach § 3a Absatz 1 zu erheben, zu speichern, zu verwenden und auf Anfrage nach Maßgabe der nach § 57 Absatz 1 Nummer 12 zu erlassenden Rechtsverordnung an die folgenden Empfänger zu übermitteln:
+
+1. Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a und c und Nummer 2 Buchstabe a an Behörden nach dem § 8 Absatz 3 sowie den §§ 11 und 29 zur Überprüfung von Maßgaben nach den §§ 40, 41, 49 Absatz 4, § 50 Absatz 3 und 4 sowie den §§ 51 und 51a und Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b an Behörden nach § 8 Absatz 3 und § 11 zur Überwachung von Maßgaben nach § 49 Absatz 4, § 50 Absatz 3 und 4 sowie zur Überwachung von Maßgaben nach § 51a Absatz 1, 2 und 4;
+
+2. Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a und c und Nummer 2 Buchstabe a sowie Daten im Sinne von § 3a Absatz 1 Nummer 2 Buchstabe b in anonymisierter Form an Länder, Behörden nach § 8 Absatz 3 und Kommunen zur Durchführung von Verkehrsuntersuchungen, zur Ausgestaltung von Maßnahmen zur effizienten Verkehrsplanung und Verkehrslenkung oder zur Durchführung von Maßnahmen im Bereich des Klimaschutzes oder zur Fortentwicklung der Barrierefreiheit nach § 50 Absatz 3 und §§ 64b und 64c;
+
+3. Daten im Sinne von § 3a Absatz 1 Nummer 1 und 2 an Dritte zur Erbringung bedarfsgesteuerter Mobilitätsdienstleistungen oder multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2 Nummer 12 der Delegierten Verordnung (EU) 2017/1926 der Kommission vom 31. Mai 2017 zur Ergänzung der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates hinsichtlich der Bereitstellung EU-weiter multimodaler Reiseinformationsdienste (ABl. L 272 vom 21.10.2017, S. 1; L 125 vom 14.5.2019, S. 24); Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b dürfen vom Nationalen Zugangspunkt nicht übermittelt werden, wenn er Kenntnis davon erlangt, dass auf Grund der besonderen Umstände des Einzelfalls die Gefahr besteht, dass mit diesen Daten Bewegungen oder Standorte individualisierbarer Personen nachvollzogen werden können und diese Personen nicht in die Übermittlung eingewilligt haben;
+
+4. Daten im Sinne von § 3a Absatz 1 Nummer 1 und 2 Buchstabe a an das Bundesministerium für Verkehr und digitale Infrastruktur zur Erfüllung seiner Aufgaben, insbesondere seiner Berichtspflichten nach § 66, sowie zur Fortentwicklung von Maßnahmen im Zusammenhang mit der Entwicklung intelligenter Verkehrssysteme nach § 4 des Intelligente Verkehrssysteme Gesetzes sowie zur Erfüllung der Berichtspflicht aus Artikel 10 Absatz 2 der Delegierten Verordnung (EU) 2017/1926;
+
+5. Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a, b und c an das Statistische Bundesamt und die jeweiligen Landesämter für Statistik zur Erfüllung von Aufgaben nach § 1 Nummer 7 des Verkehrsstatistikgesetzes.
+
+(2) Der Nationale Zugangspunkt darf Daten nach § 3a Absatz 1 in anonymisierter Form ferner zur Verfügung stellen
+
+1. den Bundesministerien für eigene oder in deren Auftrag durchzuführende wissenschaftliche Studien sowie
+
+2. den Ländern und Kommunen für hoheitliche Zwecke, wie etwa die Verkehrslenkung oder den Klimaschutz,
+
+wenn die Daten zur Erreichung dieser Zwecke erforderlich sind. Die Bundesministerien dürfen die nach Satz 1 erhaltenen Daten auch Dritten zur Durchführung wissenschaftlicher Studien zur Verfügung stellen, wenn die Dritten ihnen gegenüber die Fachkunde nachgewiesen und die vertrauliche Behandlung der Daten zugesichert haben.
+
+(3) Behörden nach § 8 Absatz 3 sowie §§ 11 und 29 sind befugt,
+
+1. Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2 Buchstabe a zu erheben, zu speichern und zu verwenden, soweit dies zur Überprüfung von Maßgaben nach den §§ 40, 41, 49 Absatz 4, § 50 Absatz 3 und 4 sowie §§ 51 und 51a erforderlich ist, und
+
+2. Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b zu erheben, zu speichern und zu verwenden, soweit dies zur Überwachung von Maßgaben nach § 49 Absatz 4, § 50 Absatz 3 und 4 sowie § 51a Absatz 4 erforderlich ist.
+
+(4) Erbringer bedarfsgesteuerter Mobilitätsdienstleistungen oder multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2 Nummer 12 der Delegierten Verordnung (EU) 2017/1926 sind befugt, Daten nach § 3a Absatz 1 zu erheben, zu speichern und zu verwenden, soweit dies zur Erbringung ihrer Dienste gegenüber Endnutzern erforderlich ist.
+
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur ist befugt, Daten nach § 3a Absatz 1 Nummer 1 und 2 Buchstabe a zu erheben, zu speichern und zu verwenden, soweit dies jeweils erforderlich ist
+
+1. zur Erfüllung der Berichtspflichten nach § 66,
+
+2. zur Fortentwicklung von Maßnahmen im Zusammenhang mit der Entwicklung intelligenter Verkehrssysteme nach § 4 des Intelligente Verkehrssysteme Gesetzes oder
+
+3. zur Erfüllung der Berichtspflicht aus Artikel 10 Absatz 2 der Delegierten Verordnung (EU) 2017/1926.
+
+(6) Das Statistische Bundesamt und die Landesämter für Statistik sind befugt, Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a, b und c zu erheben, zu speichern und zu verwenden, soweit dies zur Erstellung der Personenverkehrsstatistik nach § 1 Nummer 7 des Verkehrsstatistikgesetzes erforderlich ist.
+
+# § 3c – Datenlöschung
+
+(1) Der Nationale Zugangspunkt und Behörden nach § 8 Absatz 3 sowie §§ 11 und 29 haben personenbezogene Daten unverzüglich zu löschen, wenn sie für die in § 3b Absatz 1 oder 3 genannten Zwecke nicht mehr erforderlich sind, spätestens jedoch
+
+1. sobald der jeweilige Empfänger
+
+a) im Fall von Adressdaten des Unternehmers Kenntnis über den Widerruf, die Rücknahme oder das Erlöschen der Genehmigung oder über den Ablauf der Geltungsdauer erlangt hat,
+
+b) im Fall von Adressdaten des Vermittlers Kenntnis über die Geschäftsaufgabe erlangt hat und
+
+2. im Fall von Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b, soweit die Daten nicht durch Überschreiben gelöscht wurden, drei Monate nach deren Übermittlung.
+
+Der Nationale Zugangspunkt hat dynamische Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b, bei denen er davon Kenntnis erlangt, dass auf Grund der besonderen Umstände des Einzelfalls die Gefahr besteht, dass mit diesen Daten Bewegungen und Standorte individualisierbarer Personen nachvollzogen werden können und diese Personen nicht in die Übermittlung eingewilligt haben, unverzüglich zu löschen.
+
+(2) Erbringer bedarfsgesteuerter Mobilitätsdienstleistungen oder multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2 Nummer 12 der Delegierten Verordnung (EU) 2017/1926 haben personenbezogene Daten unverzüglich zu löschen, wenn sie für die in § 3b Absatz 4 genannten Zwecke nicht mehr erforderlich sind, spätestens jedoch wenn
+
+1. im Fall von Adressdaten des Unternehmers Kenntnis über den Widerruf, die Rücknahme oder das Erlöschen der Genehmigung oder über den Ablauf der Geltungsdauer erlangt wurde,
+
+2. im Fall von Adressdaten des Vermittlers Kenntnis über die Geschäftsaufgabe erlangt wurde,
+
+3. im Fall von Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b eine Reiseinformation an Endnutzer übermittelt wurde oder
+
+4. ihnen durch den Nationalen Zugangspunkt die Zulassung zur Datenverarbeitung entzogen wurde.
+
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur hat personenbezogene Daten zu löschen, wenn diese nicht mehr für die in § 3b Absatz 5 genannten Zwecke erforderlich sind, spätestens jedoch
+
+1. ein Jahr nach Erfüllung der jeweiligen Berichtspflicht oder
+
+2. ein Jahr nach Inkrafttreten einer Maßnahme nach § 4 des Intelligente Verkehrssysteme Gesetzes.
+
+(4) Das Statistische Bundesamt und die Landesämter für Statistik haben personenbezogene Daten zu löschen, wenn diese nicht mehr für die in § 3b Absatz 6 genannten Zwecke erforderlich sind, spätestens jedoch ein Jahr nach Erstellung der jeweiligen Statistik.
 
 # § 4 – Straßenbahnen, Obusse, Kraftfahrzeuge
 
@@ -83,7 +201,7 @@ und ausschließlich oder überwiegend der Beförderung von Personen im Orts- ode
 
 # § 5 – Dokumente
 
-Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen oder deren Widerruf nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder Allgemeinen Verwaltungsvorschrift sind schriftlich zu erteilen. Die elektronische Form ist ausgeschlossen. Abweichend von Satz 1 kann in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften vorgesehen werden, dass Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen auch in elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Abs. 4 des Verwaltungsverfahrensgesetzes erteilt werden können.
+Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen oder deren Widerruf nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder Allgemeinen Verwaltungsvorschrift sind schriftlich oder in elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Absatz 4 des Verwaltungsverfahrensgesetzes zu erteilen.
 
 # § 6 – Umgehungsverbot
 
@@ -101,9 +219,9 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 (2) Öffentlicher Personennahverkehr ist auch der Verkehr mit Taxen oder Mietwagen, der eine der in Absatz 1 genannten Verkehrsarten ersetzt, ergänzt oder verdichtet.
 
-(3) Für die Sicherstellung einer ausreichenden Bedienung der Bevölkerung mit Verkehrsleistungen im öffentlichen Personennahverkehr sind die von den Ländern benannten Behörden (Aufgabenträger) zuständig. Der Aufgabenträger definiert dazu die Anforderungen an Umfang und Qualität des Verkehrsangebotes, dessen Umweltqualität sowie die Vorgaben für die verkehrsmittelübergreifende Integration der Verkehrsleistungen in der Regel in einem Nahverkehrsplan. Der Nahverkehrsplan hat die Belange der in ihrer Mobilität oder sensorisch eingeschränkten Menschen mit dem Ziel zu berücksichtigen, für die Nutzung des öffentlichen Personennahverkehrs bis zum 1. Januar 2022 eine vollständige Barrierefreiheit zu erreichen. Die in Satz 3 genannte Frist gilt nicht, sofern in dem Nahverkehrsplan Ausnahmen konkret benannt und begründet werden. Im Nahverkehrsplan werden Aussagen über zeitliche Vorgaben und erforderliche Maßnahmen getroffen. Bei der Aufstellung des Nahverkehrsplans sind die vorhandenen Unternehmer frühzeitig zu beteiligen; soweit vorhanden sind Behindertenbeauftragte oder Behindertenbeiräte, Verbände der in ihrer Mobilität oder sensorisch eingeschränkten Fahrgäste und Fahrgastverbände anzuhören. Ihre Interessen sind angemessen und diskriminierungsfrei zu berücksichtigen. Der Nahverkehrsplan bildet den Rahmen für die Entwicklung des öffentlichen Personennahverkehrs. Die Länder können weitere Einzelheiten über die Aufstellung und den Inhalt der Nahverkehrspläne regeln.
+(3) Für die Sicherstellung einer ausreichenden den Grundsätzen des Klimaschutzes und der Nachhaltigkeit entsprechenden Bedienung der Bevölkerung mit Verkehrsleistungen im öffentlichen Personennahverkehr sind die von den Ländern benannten Behörden (Aufgabenträger) zuständig. Der Aufgabenträger definiert dazu die Anforderungen an Umfang und Qualität des Verkehrsangebotes, dessen Umweltqualität sowie die Vorgaben für die verkehrsmittelübergreifende Integration der Verkehrsleistungen in der Regel in einem Nahverkehrsplan. Der Nahverkehrsplan hat die Belange der in ihrer Mobilität oder sensorisch eingeschränkten Menschen mit dem Ziel zu berücksichtigen, für die Nutzung des öffentlichen Personennahverkehrs bis zum 1. Januar 2022 eine vollständige Barrierefreiheit zu erreichen. Die in Satz 3 genannte Frist gilt nicht, sofern in dem Nahverkehrsplan Ausnahmen konkret benannt und begründet werden. Im Nahverkehrsplan werden Aussagen über zeitliche Vorgaben und erforderliche Maßnahmen getroffen. Bei der Aufstellung des Nahverkehrsplans sind die vorhandenen Unternehmer frühzeitig zu beteiligen; soweit vorhanden sind Behindertenbeauftragte oder Behindertenbeiräte, Verbände der in ihrer Mobilität oder sensorisch eingeschränkten Fahrgäste und Fahrgastverbände anzuhören. Ihre Interessen sind angemessen und diskriminierungsfrei zu berücksichtigen. Der Nahverkehrsplan bildet den Rahmen für die Entwicklung des öffentlichen Personennahverkehrs. Die Länder können weitere Einzelheiten über die Aufstellung und den Inhalt der Nahverkehrspläne regeln.
 
-(3a) Die Genehmigungsbehörde wirkt im Rahmen ihrer Befugnisse nach diesem Gesetz und unter Beachtung des Interesses an einer wirtschaftlichen Verkehrsgestaltung an der Erfüllung der dem Aufgabenträger nach Absatz 3 Satz 1 obliegenden Aufgabe mit. Sie hat hierbei einen Nahverkehrsplan zu berücksichtigen, der unter den Voraussetzungen des Absatzes 3 Satz 6 zustande gekommen ist und vorhandene Verkehrsstrukturen beachtet.
+(3a) Die Genehmigungsbehörde wirkt im Rahmen ihrer Befugnisse nach diesem Gesetz und unter Beachtung des Interesses an einer wirtschaftlichen, den Klimaschutz und die Nachhaltigkeit sowie die Gleichwertigkeit der Lebensverhältnisse berücksichtigenden Verkehrsgestaltung an der Erfüllung der dem Aufgabenträger nach Absatz 3 Satz 1 obliegenden Aufgabe mit. Sie hat hierbei einen Nahverkehrsplan zu berücksichtigen, der unter den Voraussetzungen des Absatzes 3 Satz 6 zustande gekommen ist und vorhandene Verkehrsstrukturen beachtet.
 
 (3b) Für Vereinbarungen von Verkehrsunternehmen und für Beschlüsse und Empfehlungen von Vereinigungen dieser Unternehmen gilt § 1 des Gesetzes gegen Wettbewerbsbeschränkungen nicht, soweit sie dem Ziel dienen, für eine Integration der Nahverkehrsbedienung, insbesondere für Verkehrskooperationen, für die Abstimmung oder den Verbund der Beförderungsentgelte und für die Abstimmung der Fahrpläne, zu sorgen. Sie bedürfen zu ihrer Wirksamkeit der Anmeldung bei der Genehmigungsbehörde. Für Vereinigungen von Unternehmen, die Vereinbarungen, Beschlüsse und Empfehlungen im Sinne von Satz 1 treffen, gilt § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend. Verfügungen der Kartellbehörde, die solche Vereinbarungen, Beschlüsse oder Empfehlungen betreffen, ergehen im Benehmen mit der zuständigen Genehmigungsbehörde.
 
@@ -147,7 +265,7 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 (5) Werden Unteraufträge zugelassen, kann vorgegeben werden, dass die Übertragung von Unteraufträgen nach wettbewerblichen Grundsätzen vorzunehmen ist.
 
-(6) Das Vergabeverfahren ist vom Beginn fortlaufend zu dokumentieren. Alle wesentlichen Entscheidungen sind zu begründen.
+(6) Das Vergabeverfahren ist von Beginn an fortlaufend zu dokumentieren. Alle wesentlichen Entscheidungen sind zu begründen.
 
 (7) Der Aufgabenträger hat die nicht berücksichtigten Bieter über den Namen des ausgewählten Unternehmens, über die Gründe für ihre Nichtberücksichtigung und über den frühesten Zeitpunkt der Beauftragung unverzüglich zu informieren. Die §§ 134 und 135 des Gesetzes gegen Wettbewerbsbeschränkungen gelten entsprechend.
 
@@ -161,9 +279,11 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 3. bei einem Linienverkehr mit Kraftfahrzeugen für die Einrichtung, die Linienführung und den Betrieb,
 
+3a. bei einem Linienbedarfsverkehr mit Kraftfahrzeugen abweichend von Nummer 3 für die Einrichtung, das Gebiet, in dem der Verkehr durchgeführt wird, und den Betrieb,
+
 4. bei einem Gelegenheitsverkehr mit Kraftomnibussen für den Betrieb,
 
-5. bei einem Gelegenheitsverkehr mit Personenkraftwagen für die Form des Gelegenheitsverkehrs und den Betrieb mit bestimmten Kraftfahrzeugen unter Angabe ihrer amtlichen Kennzeichen.
+5. bei einem Gelegenheitsverkehr mit Personenkraftwagen für die Form des Gelegenheitsverkehrs und den Betrieb mit bestimmten Kraftfahrzeugen unter Angabe ihrer amtlichen Kennzeichen und ergänzend bei einem gebündelten Bedarfsverkehr für das Gebiet, in dem der Verkehr durchgeführt wird.
 
 (2) Soweit es die Zielsetzung des § 8 erfordert, kann in den Fällen des Absatzes 1 Nr. 1 bis 3 die Genehmigung für eine Linie oder für mehrere Linien gebündelt erteilt werden.
 
@@ -185,9 +305,9 @@ Entstehen Zweifel darüber, ob eine Personenbeförderung den Vorschriften dieses
 
 2. bei einem Gelegenheitsverkehr mit Kraftfahrzeugen die Genehmigungsbehörde, in deren Bezirk der Unternehmer seinen Sitz oder seine Niederlassung im Sinne des Handelsrechts hat.
 
-(3) Soll ein Straßenbahn-, Obusverkehr oder ein Linienverkehr mit Kraftfahrzeugen in den Bezirken mehrerer Genehmigungsbehörden desselben Landes betrieben werden, so ist die Genehmigungsbehörde zuständig, in deren Bezirk die Linie ihren Ausgangspunkt hat. Bestehen Zweifel über die Zuständigkeit, so wird die zuständige Genehmigungsbehörde von der von der Landesregierung bestimmten Behörde benannt. Die zuständige Genehmigungsbehörde trifft ihre Entscheidung im Einvernehmen mit den an der Linienführung beteiligten Genehmigungsbehörden; Genehmigungsbehörden, deren Bezirke im Transit durchfahren werden, sind nicht zu beteiligen. Kommt ein Einvernehmen nicht zustande, so entscheidet die von der Landesregierung bestimmte Behörde.
+(3) Soll ein Straßenbahn-, Obusverkehr oder ein Linienverkehr mit Kraftfahrzeugen in den Bezirken mehrerer Genehmigungsbehörden desselben Landes betrieben werden, so ist die Genehmigungsbehörde zuständig, in deren Bezirk die Linie ihren Ausgangspunkt hat. Wird eine Genehmigung gemäß § 9 Absatz 2 für mehrere Linien gebündelt erteilt, ist die Genehmigungsbehörde zuständig, in deren Bezirk die Mehrzahl der Linien betrieben werden soll. Bestehen Zweifel über die Zuständigkeit, so wird die zuständige Genehmigungsbehörde von der von der Landesregierung bestimmten Behörde benannt. Die zuständige Genehmigungsbehörde trifft ihre Entscheidung im Einvernehmen mit den an der Linienführung beteiligten Genehmigungsbehörden; Genehmigungsbehörden, deren Bezirke im Transit durchfahren werden, sind nicht zu beteiligen. Kommt ein Einvernehmen nicht zustande, so entscheidet die von der Landesregierung bestimmte Behörde.
 
-(4) Soll ein Straßenbahn-, Obusverkehr oder Linienverkehr mit Kraftfahrzeugen in mehreren Ländern betrieben werden, so ist Absatz 3 Satz 1 und 3 entsprechend anzuwenden. Bestehen zwischen den beteiligten Ländern Zweifel über die Zuständigkeit und kommt eine Einigung der obersten Landesverkehrsbehörden darüber nicht zustande, so entscheidet auf Antrag einer beteiligten obersten Landesverkehrsbehörde das Bundesministerium für Verkehr und digitale Infrastruktur. Das gleiche gilt, wenn über die Entscheidung eines Genehmigungsantrags zwischen den Genehmigungsbehörden der beteiligten Länder ein Einvernehmen nicht hergestellt und auch ein Einvernehmen zwischen den obersten Landesverkehrsbehörden darüber nicht erzielt werden kann.
+(4) Soll ein Straßenbahn-, Obus- oder Linienverkehr mit Kraftfahrzeugen in mehreren Ländern betrieben werden, so ist Absatz 3 Satz 1, 2 und 4 entsprechend anzuwenden. Bestehen zwischen den beteiligten Ländern Zweifel über die Zuständigkeit und kommt eine Einigung der obersten Landesverkehrsbehörden darüber nicht zustande, so entscheidet auf Antrag einer beteiligten obersten Landesverkehrsbehörde das Bundesministerium für Verkehr und digitale Infrastruktur. Das gleiche gilt, wenn über die Entscheidung eines Genehmigungsantrags zwischen den Genehmigungsbehörden der beteiligten Länder ein Einvernehmen nicht hergestellt und auch ein Einvernehmen zwischen den obersten Landesverkehrsbehörden darüber nicht erzielt werden kann.
 
 # § 12 – Antragstellung
 
@@ -199,7 +319,7 @@ a) Namen sowie Wohn- und Betriebssitz des Antragstellers, bei natürlichen Perso
 
 b) Angaben darüber, ob der Antragsteller bereits eine Genehmigung für eine Verkehrsart besitzt oder besessen hat,
 
-c) eine Darstellung der Maßnahmen zur Erreichung der möglichst weitreichenden barrierefreien Nutzung des beantragten Verkehrs entsprechend den Aussagen im Nahverkehrsplan (§ 8 Abs. 3 Satz 3),
+c) eine Darstellung der Maßnahmen zur Erreichung des Ziels der vollständigen Barrierefreiheit des beantragten Verkehrs entsprechend den Aussagen im Nahverkehrsplan (§ 8 Absatz 3 Satz 3),
 
 d) Beginn und Ende der beantragten Geltungsdauer,
 
@@ -223,19 +343,29 @@ c) Angaben über die Zahl, die Art und das Fassungsvermögen (Sitz- und Stehplä
 
 d) Beförderungsentgelte und Fahrplan;
 
+3a. bei einem Linienbedarfsverkehr mit Kraftfahrzeugen abweichend von Nummer 3
+
+a) eine Übersichtskarte, in der das beantragte Gebiet und alle in dem Gebiet bereits vorhandenen Verkehre entsprechend den Vorgaben in Nummer 2 Buchstabe a eingezeichnet sind,
+
+b) Angaben über die Anzahl, die Art und das Fassungsvermögen der zu verwendenden Fahrzeuge und
+
+c) Beförderungsentgelte und Bedienzeiten;
+
 4. bei einem Gelegenheitsverkehr mit Kraftfahrzeugen
 
 a) Verkehrsform des Gelegenheitsverkehrs (§ 46),
 
-b) Angaben über die Zahl, die Art und das Fassungsvermögen (Sitzplätze) der zu verwendenden Fahrzeuge.
+b) Angaben über die Zahl, die Art und das Fassungsvermögen (Sitzplätze) der zu verwendenden Fahrzeuge,
 
-Bei einem Personenfernverkehr (§ 42a Satz 1) genügt abweichend von Satz 1 Nummer 3 Buchstabe a eine Übersichtskarte, in der die beantragte Strecke mit Haltestellen eingezeichnet ist und abweichend von Satz 1 Nummer 3 Buchstabe d der Fahrplan.
+c) und ergänzend bei einem gebündelten Bedarfsverkehr eine Übersichtskarte, in der das Gebiet, in dem der Verkehr durchgeführt werden soll, eingezeichnet ist.
+
+Bei einem Personenfernverkehr (§ 42a Satz 1) genügt abweichend von Satz 1 Nummer 3 Buchstabe a eine Übersichtskarte, in der die beantragte Strecke mit Haltestellen eingezeichnet ist und abweichend von Satz 1 Nummer 3 Buchstabe d der Fahrplan. Der Antrag auf Erteilung der Genehmigung sowie die dafür notwendigen Dokumente können in elektronischer Form eingereicht werden.
 
 (1a) Um bestimmte Standards des beantragten Verkehrs verbindlich zuzusichern, kann der Antragsteller dem Genehmigungsantrag weitere Bestandteile hinzufügen, die als verbindliche Zusicherungen zu bezeichnen sind.
 
 (2) Dem Antrag sind Unterlagen beizufügen, die ein Urteil über die Zuverlässigkeit des Antragstellers und die Sicherheit und Leistungsfähigkeit des Betriebs ermöglichen.
 
-(3) Die Genehmigungsbehörde kann weitere Angaben und Unterlagen, insbesondere Vorlage eines polizeilichen Führungszeugnisses, verlangen. Sie hat bei einem Antrag auf Erteilung der Genehmigung von Linien- oder Gelegenheitsverkehr mit Kraftfahrzeugen das Kraftfahrt-Bundesamt um Auskunft über den Antragsteller zu ersuchen.
+(3) Die Genehmigungsbehörde kann weitere Angaben und Unterlagen, insbesondere Vorlage eines polizeilichen Führungszeugnisses, verlangen. Sie hat bei einem Antrag auf Erteilung der Genehmigung von Linien- oder Gelegenheitsverkehr mit Kraftfahrzeugen das Kraftfahrt-Bundesamt um Auskunft über den Antragsteller zu ersuchen. Bei einem Personenfernverkehr kann sie geeignete Unterlagen verlangen, aus denen sich ergibt, dass die zuständigen Stellen vor Ort den beantragten Haltestellen zugestimmt haben.
 
 (4) Das Genehmigungsverfahren soll im Falle des § 3 Abs. 3 erst dann eingeleitet werden, wenn auch der Antrag auf Erteilung der Genehmigung für den Betrieb vorliegt. Die Verfahren sind nach Möglichkeit miteinander zu verbinden.
 
@@ -311,6 +441,14 @@ Zur Feststellung der Auswirkungen früher erteilter Genehmigungen auf die öffen
 
 Einem Antragsteller darf jeweils nur eine Genehmigung erteilt werden, sofern nicht mehr Genehmigungen erteilt werden können, als Antragsteller vorhanden sind. Die Genehmigung ist Neubewerbern für die Dauer von zwei Jahren zu erteilen; die aus der Genehmigung erwachsenden Rechte und Pflichten dürfen während dieses Zeitraums nicht übertragen werden.
 
+(5a) Bei einem gebündelten Bedarfsverkehr kann die Genehmigung versagt werden, wenn die öffentlichen Verkehrsinteressen dadurch beeinträchtigt werden, dass durch die Ausübung des beantragten Verkehrs die Verkehrseffizienz im beantragten Bediengebiet nicht mehr sichergestellt ist. Hierbei sind für den Bezirk der Genehmigungsbehörde von dieser zu berücksichtigen:
+
+1. die Festsetzung der zulässigen Höchstzahl der genehmigungsfähigen Fahrzeuge der zuständigen Behörde und
+
+2. die Anzahl der bereits genehmigten Fahrzeuge im gebündelten Bedarfsverkehr.
+
+(5b) Beim Verkehr mit Taxen, Mietwagen sowie beim gebündelten Bedarfsverkehr kann die Genehmigung versagt werden, wenn die mit dem Verkehr beantragten Fahrzeuge nicht die Anforderungen der Emissionsvorgaben im Sinne von § 64b erfüllen. Beim Verkehr mit Taxen und im gebündelten Bedarfsverkehr kann die Genehmigung darüber hinaus versagt werden, wenn die mit dem Verkehr beantragten Fahrzeuge nicht die Vorgaben zur Barrierefreiheit im Sinne von § 64c erfüllen.
+
 (6) Bei juristischen Personen des öffentlichen Rechts gelten die Genehmigungsvoraussetzungen nach Absatz 1 als gegeben.
 
 (7) Bei der Genehmigung in den Fällen des § 2 Abs. 2 Nr. 2 und 3 sind die Absätze 2, 4 und 5 Satz 1, 2, 4 und 5 nicht anzuwenden.
@@ -335,7 +473,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (4) Die in den Absätzen 1 und 2 genannten Personen und Stellen können sich zu dem Antrag schriftlich gegenüber der Genehmigungsbehörde äußern. Stellungnahmen sind zu berücksichtigen, wenn diese binnen zwei Wochen, nachdem die Behörde die Vorgenannten über den Antrag in Kenntnis gesetzt hat, bei der Behörde eingehen.
 
-(5) Bei Anträgen auf Erteilung einer Genehmigung für grenzüberschreitende Gelegenheitsverkehre oder für Transitverkehre sind die Absätze 1 bis 4 nicht anzuwenden. Bei Anträgen auf Erteilung einer Genehmigung für einen Personenfernverkehr (§ 42a Satz 1) sind nach Absatz 1 Satz 1 Nummer 1 nur die Unternehmer zu hören, deren Rechte nach § 13 Absatz 2 berührt sein können; Absatz 1 Satz 1 Nummer 3 ist nicht anzuwenden.
+(5) Bei Anträgen auf Erteilung einer Genehmigung für grenzüberschreitende Gelegenheitsverkehre oder für Transitverkehre sind die Absätze 1 bis 4 nicht anzuwenden. Bei Anträgen auf Erteilung einer Genehmigung für einen Personenfernverkehr (§ 42a Satz 1) sind nach Absatz 1 Satz 1 Nummer 1 nur die Unternehmer zu hören, deren Rechte nach § 42a Satz 3 berührt sein können; Absatz 1 Satz 1 Nummer 3 ist nicht anzuwenden.
 
 # § 15 – Erteilung und Versagung der Genehmigung
 
@@ -375,21 +513,21 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 6. bei Straßenbahn- oder Obusverkehr die Linienführung und im Falle des § 28 Abs. 4 einen Hinweis auf den Vorbehalt,
 
-7. bei Linienverkehr mit Kraftfahrzeugen die Linienführung,
+7. bei Linienverkehr mit Kraftfahrzeugen die Linienführung oder bei Linienbedarfsverkehr das Gebiet, in dem der Verkehr betrieben wird,
 
-8. bei Gelegenheitsverkehr mit Personenkraftwagen die amtlichen Kennzeichen der einzusetzenden Kraftfahrzeuge.
+8. bei Gelegenheitsverkehr mit Personenkraftwagen die amtlichen Kennzeichen der einzusetzenden Kraftfahrzeuge und ergänzend bei einem gebündelten Bedarfsverkehr das Gebiet, in dem der Verkehr durchgeführt wird.
 
 (2) Im Falle eines Austausches von Kraftfahrzeugen im Gelegenheitsverkehr mit Personenkraftwagen hat der Unternehmer die Genehmigungsurkunde der Genehmigungsbehörde zur Ergänzung vorzulegen. Das gleiche gilt, wenn der Unternehmer ein Kraftfahrzeug nicht mehr im Gelegenheitsverkehr mit Personenkraftwagen einsetzt.
 
 (3) Die Erteilung der Genehmigung kann nur durch die Genehmigungsurkunde oder eine amtliche Ausfertigung oder im Falle des Gelegenheitsverkehrs mit Kraftomnibussen durch eine beglaubigte Kopie der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006 (ABl. L 300 vom 14.11.2009, S. 88) und die den Zusatz "Gilt auch als Genehmigung für die Beförderung im innerdeutschen Gelegenheitsverkehr" enthält, nachgewiesen werden.
 
-(4) Im Gelegenheitsverkehr mit Kraftfahrzeugen ist die Genehmigungsurkunde oder eine gekürzte amtliche Ausfertigung oder eine beglaubigte Kopie der Gemeinschaftslizenz während der Fahrt mitzuführen und auf Verlangen den zuständigen Personen zur Prüfung auszuhändigen. Im Linienverkehr mit Kraftfahrzeugen gilt Satz 1 nur, wenn die Genehmigungsurkunde eine entsprechende Auflage enthält.
+(4) Im Gelegenheitsverkehr mit Kraftfahrzeugen ist die Genehmigungsurkunde oder eine gekürzte amtliche Ausfertigung oder eine beglaubigte Kopie der Gemeinschaftslizenz schriftlich oder in elektronischer Form während der Fahrt mitzuführen und auf Verlangen den zuständigen Personen zur Prüfung auszuhändigen. Im Linienverkehr mit Kraftfahrzeugen gilt Satz 1 nur, wenn die Genehmigungsurkunde eine entsprechende Auflage enthält.
 
 (5) Ist eine Genehmigung anders als durch Fristablauf ungültig geworden, ist die Genehmigungsurkunde unverzüglich einzuziehen. Ist dies nicht möglich, ist sie auf Kosten des Unternehmers für kraftlos zu erklären.
 
 # § 18 – Informationspflicht der Genehmigungsbehörde
 
-(1) Die Genehmigungsbehörde hat ein Verzeichnis aller Genehmigungen, die im öffentlichen Personennahverkehr für den Verkehr mit Straßenbahnen, Obussen oder Kraftfahrzeugen im Linienverkehr bestehen, am Ende jedes Kalenderjahres im Amtsblatt der Europäischen Union bekannt zu machen. Die Bekanntmachung muss folgende Angaben enthalten:
+(1) Die Genehmigungsbehörde hat ein Verzeichnis aller Genehmigungen, die im öffentlichen Personennahverkehr für den Verkehr mit Straßenbahnen, Obussen oder Kraftfahrzeugen im Linienverkehr bestehen, am Ende jedes Kalenderjahres auf der Internetseite der zuständigen Genehmigungsbehörde bekannt zu machen. Die Bekanntmachung muss folgende Angaben enthalten:
 
 1. die Linienführung,
 
@@ -411,7 +549,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 # § 20 – Einstweilige Erlaubnis
 
-(1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche Änderung eines Linienverkehrs mit Kraftfahrzeugen im öffentlichen Verkehrsinteresse liegt, kann die Genehmigungsbehörde, in deren Bezirk der Verkehr betrieben werden soll, dem Antragsteller eine widerrufliche einstweilige Erlaubnis erteilen; die Voraussetzungen des § 13 Abs. 1 oder Absatz 1a müssen vorliegen. Die Erteilung ist auch den in § 14 Abs. 1 Nr. 1 genannten Unternehmern bekanntzugeben.
+(1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche Änderung eines Straßenbahn-, Obusverkehrs oder Linienverkehrs mit Kraftfahrzeugen im öffentlichen Verkehrsinteresse liegt, kann die Genehmigungsbehörde, in deren Bezirk der Verkehr betrieben werden soll, dem Antragsteller eine widerrufliche einstweilige Erlaubnis erteilen; die Voraussetzungen des § 13 Abs. 1 oder Absatz 1a müssen vorliegen. Die Erteilung ist auch den in § 14 Abs. 1 Nr. 1 genannten Unternehmern bekanntzugeben.
 
 (2) Die einstweilige Erlaubnis wird schriftlich erteilt. Sie muß enthalten
 
@@ -423,7 +561,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 4. etwaige Bedingungen und Auflagen,
 
-5. Linienführung.
+5. Linienführung oder beim Linienbedarfsverkehr das Gebiet, in dem der Verkehr betrieben wird.
 
 (3) Die einstweilige Erlaubnis erlischt nach sechs Monaten, soweit sie nicht vorher widerrufen wird. In den Fällen des Artikels 5 Absatz 5 der Verordnung (EG) Nr. 1370/2007 kann die einstweilige Erlaubnis auf bis zu zwei Jahre befristet werden. Sie begründet keinen Anspruch auf Erteilung einer Genehmigung. § 15 Abs. 3 und 5 gilt entsprechend.
 
@@ -457,7 +595,11 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
 # § 23 – Haftung für Sachschäden
 
-Der Unternehmer kann die Haftung für Sachschäden gegenüber jeder beförderten Person nur insoweit ausschließen, als der Schaden 1.000 Euro übersteigt und nicht auf Vorsatz oder grober Fahrlässigkeit beruht.
+(1) Der Unternehmer kann die Haftung für Sachschäden gegenüber jeder beförderten Person nur insoweit ausschließen, als der Schaden 1 000 Euro übersteigt und nicht auf Vorsatz oder grober Fahrlässigkeit beruht.
+
+(2) Abweichend von Absatz 1 kann der Unternehmer im Falle eines Unfalls mit einem Kraftomnibus, den er im Linienverkehr mit einer Wegstrecke von mindestens 250 Kilometern oder im Gelegenheitsverkehr einsetzt, die Haftung auf höchstens 1 200 Euro je Gepäckstück beschränken, soweit der Schaden nicht auf Vorsatz oder grober Fahrlässigkeit beruht.
+
+(3) Im Linien- und Gelegenheitsverkehr mit Kraftomnibussen ist ein Haftungsausschluss für beschädigte oder abhandengekommene Mobilitätshilfen nicht zulässig.
 
 # § 24
 
@@ -517,7 +659,7 @@ Das Verwaltungszwangsverfahren richtet sich, soweit dieses Gesetz von Behörden 
 
 4. die Errichtung von Schallschutzwänden zur Lärmsanierung.
 
-Für die in Satz 1 genannten Einzelmaßnahmen ist keine weitere baurechtliche Zulassung erforderlich; landesrechtliche Regelungen bleiben unberührt. Werden durch das Vorhaben private oder öffentliche Belange einschließlich der Belange der Umwelt berührt, kann der Unternehmer die Feststellung des Planes nach Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der Unternehmer vor Durchführung einer Einzelmaßnahme im Sinne des Satzes 1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur, Umweltschutz und Dienstleitungen der Bundeswehr vor der Durchführung bestätigen zu lassen, dass keine militärischen Belange entgegenstehen. Kann für das Vorhaben die Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung bestehen, hat der Unternehmer bei der Planfeststellungsbehörde den Antrag nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung zu stellen. Satz 1 Nummer 1 und 2 ist nur anzuwenden, wenn die zuständige Behörde feststellt, dass Vorgaben über die Errichtung und über wesentliche Änderungen von Anlagen eingehalten sind, die in einer elektrische, magnetische oder elektromagnetische Felder betreffenden und aufgrund von § 23 Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung mit § 48b des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26. September 2002 erlassenen Rechtsverordnung enthalten sind.
+Für die in Satz 1 genannten Einzelmaßnahmen ist keine weitere baurechtliche Zulassung erforderlich; landesrechtliche Regelungen bleiben unberührt. Werden durch das Vorhaben private oder öffentliche Belange einschließlich der Belange der Umwelt berührt, kann der Unternehmer die Feststellung des Planes nach Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der Unternehmer vor Durchführung einer Einzelmaßnahme im Sinne des Satzes 1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr vor der Durchführung bestätigen zu lassen, dass keine militärischen Belange entgegenstehen. Kann für das Vorhaben die Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung bestehen, hat der Unternehmer bei der Planfeststellungsbehörde den Antrag nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung zu stellen. Satz 1 Nummer 1 und 2 ist nur anzuwenden, wenn die zuständige Behörde feststellt, dass Vorgaben über die Errichtung und über wesentliche Änderungen von Anlagen eingehalten sind, die in einer elektrische, magnetische oder elektromagnetische Felder betreffenden und aufgrund von § 23 Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung mit § 48b des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26. September 2002 erlassenen Rechtsverordnung enthalten sind.
 
 (2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 29 Absatz 1a Satz 1 gilt entsprechend. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3 Anwendung.
 
@@ -635,7 +777,7 @@ Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines Planfeststellun
 
 # § 31 – Benutzung öffentlicher Straßen
 
-(1) Der Unternehmer hat die Zustimmung des Trägers der der Straßenbaulast beizubringen, wenn
+(1) Der Unternehmer hat die Zustimmung des Trägers der Straßenbaulast beizubringen, wenn
 
 1. eine öffentliche Straße von der Straßenbahn benutzt werden soll,
 
@@ -701,7 +843,7 @@ Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmi
 
 (5) Eine Erhöhung der Beförderungsentgelte tritt frühestens am siebenten Tage nach der Veröffentlichung in Kraft.
 
-(6) Die Beförderungsbedingungen sind vor ihrer Einführung der Genehmigungsbehörde zur Zustimmung vorzulegen, soweit sie von den Allgemeinen Beförderungsbedingungen (§ 57 Abs. 1 Nr. 5) für das Unternehmen im Einzelfalle abweichen (Besondere Beförderungsbedingungen). Das gleiche gilt für Änderungen der Besonderen Beförderungsbedingungen. Absatz 1 Satz 3 und Absatz 2 Satz 2 gelten entsprechend. Die Genehmigungsbehörde kann eine Änderung der Beförderungsbedingungen verlangen, wenn die für ihre Festsetzung maßgebenden Umstände sich wesentlich geändert haben oder sich für die bessere Ausgestaltung des Verkehrs in einem Gebiet neue Gesichtspunkte ergeben, denen durch eine Änderung der Besonderen Beförderungsbedingungen Rechnung getragen werden kann.
+(6) Die Beförderungsbedingungen sind vor ihrer Einführung der Genehmigungsbehörde zur Zustimmung vorzulegen, soweit sie von den Allgemeinen Beförderungsbedingungen (§ 57 Abs. 1 Nr. 5) für das Unternehmen im Einzelfalle abweichen (Besondere Beförderungsbedingungen). Das gleiche gilt für Änderungen der Besonderen Beförderungsbedingungen. Absatz 1 Satz 3 und Absatz 2 Satz 2 gelten entsprechend. Die Genehmigungsbehörde kann eine Änderung der Beförderungsbedingungen verlangen, wenn die für ihre Festsetzung maßgebenden Umstände sich wesentlich geändert haben oder sich für die bessere Ausgestaltung des Verkehrs in einem Gebiet neue Gesichtspunkte ergeben, denen durch eine Änderung der Besonderen Beförderungsbedingungen Rechnung getragen werden kann. Zuständig ist die Genehmigungsbehörde, in deren Bezirk der Unternehmer seinen Betriebssitz hat.
 
 (7) Die Beförderungsentgelte und die Besonderen Beförderungsbedingungen sind vom Unternehmer vor ihrer Einführung ortsüblich bekanntzumachen; die Bekanntmachung ist in den zum Aufenthalt der Fahrgäste bestimmten Räumen auszuhängen.
 
@@ -709,17 +851,17 @@ Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmi
 
 (1) Der Fahrplan muß die Führung der Linie, ihren Ausgangs- und Endpunkt sowie die Haltestellen und Fahrzeiten enthalten.
 
-(2) Fahrpläne und deren Änderungen bedürfen der Zustimmung der Genehmigungsbehörde. Ausgenommen sind Fahrplanänderungen, die wegen vorübergehender Störungen des Betriebs oder aus besonderen Anlässen vorgenommen werden und für einen Zeitraum von nicht länger als einen Monat gelten, sowie andere geringfügige Fahrplanänderungen. Werden durch Fahrplanänderungen die Interessen anderer Verkehrsunternehmen berührt, so sind diese vor der Zustimmung zu hören. Die in Satz 2 genannten Fahrplanänderungen sind der Genehmigungsbehörde anzuzeigen. Die Genehmigungsbehörde kann den angezeigten Fahrplanänderungen innerhalb einer Frist von zwei Wochen widersprechen, wenn die Voraussetzungen des Satzes 2 nicht vorliegen; die Fahrplanänderungen dürfen dann nicht in Kraft treten. Soweit die Fahrpläne Gegenstand eines öffentlichen Dienstleistungsauftrages sind, hat die zuständige Behörde diese der Genehmigungsbehörde anzuzeigen. In diesem Fall gilt die Zustimmung als erteilt.
+(2) Fahrpläne und deren Änderungen bedürfen der Zustimmung der Genehmigungsbehörde. Ausgenommen sind Fahrplanänderungen, die wegen vorübergehender Störungen des Betriebs oder aus besonderen Anlässen vorgenommen werden und für einen Zeitraum von nicht länger als einen Monat gelten, sowie andere geringfügige Fahrplanänderungen. Als geringfügig sind auch Fahrplanänderungen anzusehen, die durch Baustellen verursacht werden und nicht länger als sechs Monate gelten. Werden durch Fahrplanänderungen die Interessen anderer Verkehrsunternehmen berührt, so sind diese vor der Zustimmung zu hören. Die in Satz 2 genannten Fahrplanänderungen sind der Genehmigungsbehörde anzuzeigen. Die Genehmigungsbehörde kann den angezeigten Fahrplanänderungen innerhalb einer Frist von zwei Wochen widersprechen, wenn die Voraussetzungen des Satzes 2 nicht vorliegen; die Fahrplanänderungen dürfen dann nicht in Kraft treten. Soweit die Fahrpläne Gegenstand eines öffentlichen Dienstleistungsauftrages sind, hat die zuständige Behörde diese der Genehmigungsbehörde anzuzeigen. In diesem Fall gilt die Zustimmung als erteilt.
 
 (2a) Die Zustimmung zu einer Fahrplanänderung wird in der Regel nicht erteilt, wenn diese einer verbindlichen Zusicherung nach § 12 Absatz 1a widerspricht.
 
 (3) Die Genehmigungsbehörde kann für einen eigenwirtschaftlichen Verkehr Änderungen des Fahrplans verlangen, wenn die maßgebenden Umstände sich wesentlich geändert haben oder sich für die bessere Ausgestaltung des Verkehrs in einem Gebiet neue Gesichtspunkte ergeben, denen durch eine Änderung des Fahrplans Rechnung getragen werden kann. Die Genehmigungsbehörde hat hiervon abzusehen, wenn die Änderungen dem Unternehmer unter Berücksichtigung seiner wirtschaftlichen Lage, einer ausreichenden Verzinsung und Tilgung des Anlagekapitals und der notwendigen technischen Entwicklung nicht zugemutet werden können.
 
-(4) Fahrpläne und Fahrplanänderungen sind vom Unternehmer ortsüblich bekanntzumachen. Ferner sind die gültigen Fahrpläne in den zum Aufenthalt der Fahrgäste bestimmten Räumen anzubringen. An den Haltestellen sind mindestens die Abfahrtszeiten anzuzeigen. Der Unternehmer ist verpflichtet, der Genehmigungsbehörde auf deren Anforderung die Fahrplandaten in einem geeigneten elektronischen Format zur Kontrolle der Einhaltung der Fahrplanpflichten sowie zur Nutzung in unternehmensübergreifenden Auskunftssystemen zeitgerecht und unentgeltlich bereitzustellen.
+(4) Fahrpläne und Fahrplanänderungen sind vom Unternehmer ortsüblich bekanntzumachen. Ferner sind die gültigen Fahrpläne in den zum Aufenthalt der Fahrgäste bestimmten Räumen anzubringen. An den Haltestellen sind mindestens die Abfahrtszeiten anzuzeigen.
 
 # § 41 – Entsprechend anwendbare Vorschriften
 
-(1) Die Vorschriften der §§ 28 bis 30 und der §§ 32 bis 37 sind auf die Errichtung von Bau- und Betriebsanlagen für den Obusverkehr entsprechend anzuwenden.
+(1) Die Vorschriften der §§ 28 bis 30a und der §§ 32 bis 37 sind auf die Errichtung von Bau- und Betriebsanlagen für den Obusverkehr entsprechend anzuwenden.
 
 (2) Zur Errichtung von Bau- und Betriebsanlagen auf öffentlichen Straßen bedarf der Unternehmer der Zustimmung des Trägers der Straßenbaulast; § 31 Abs. 1, 2, 4 bis 6 ist entsprechend anzuwenden.
 
@@ -731,7 +873,7 @@ Linienverkehr ist eine zwischen bestimmten Ausgangs- und Endpunkten eingerichtet
 
 # § 42a – Personenfernverkehr
 
-Personenfernverkehr ist der Linienverkehr mit Kraftfahrzeugen, der nicht zum öffentlichen Personennahverkehr im Sinne des § 8 Absatz 1 und nicht zu den Sonderformen des Linienverkehrs nach § 43 gehört. Die Beförderung von Personen zwischen zwei Haltestellen ist unzulässig, wenn
+Personenfernverkehr ist der Linienverkehr mit Kraftfahrzeugen, der nicht zum öffentlichen Personennahverkehr im Sinne des § 8 Absatz 1 und nicht zu den Sonderformen des Linienverkehrs nach § 43 oder zum Linienbedarfsverkehr nach § 44 gehört. Die Beförderung von Personen zwischen zwei Haltestellen ist unzulässig, wenn
 
 1. der Abstand zwischen diesen Haltestellen nicht mehr als 50 km beträgt oder
 
@@ -745,7 +887,17 @@ In der Genehmigung sind auf Antrag für einzelne Teilstrecken Ausnahmen zu gewä
 
 # § 42b – Technische Anforderungen
 
-Kraftomnibusse, die im Personenfernverkehr eingesetzt werden, müssen den Vorschriften des Anhangs VII der Richtlinie 2001/85/EG des Europäischen Parlaments und des Rates vom 20. November 2001 über besondere Vorschriften für Fahrzeuge zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz und zur Änderung der Richtlinien 70/156/EWG und 97/27/EG (ABl. L 42 vom 13.2.2002, S. 1) in der jeweils zum Zeitpunkt der Erstzulassung des jeweiligen Kraftomnibusses geltenden Fassung entsprechen und mit mindestens zwei Stellplätzen für Rollstuhlnutzer ausgerüstet sein.
+Im innerdeutschen Personenfernverkehr dürfen nur Kraftomnibusse eingesetzt werden, die
+
+1. einer der folgenden Vorschriften entsprechen:
+
+a) Anhang VII zu der Richtlinie 2001/85/EG des Europäischen Parlaments und des Rates vom 20. November 2001 über besondere Vorschriften für Fahrzeuge zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz und zur Änderung der Richtlinien 70/156/EWG und 97/27/EG (ABl. L 42 vom 13.2.2002, S. 1; L 125 vom 21.5.2003, S. 14) in der jeweils zum Zeitpunkt der Erstzulassung des jeweiligen Kraftomnibusses geltenden Fassung oder
+
+b) Anhang 8 der Regelung Nr. 107 der Wirtschaftskommission für Europa der Vereinten Nationen (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klassen M2 oder M3 hinsichtlich ihrer allgemeinen Konstruktionsmerkmale (ABl. L 255 vom 29.9.2010, S. 1) in der jeweils zum Zeitpunkt der Erstzulassung des jeweiligen Kraftomnibusses geltenden Fassung
+
+und
+
+2. mit mindestens zwei Stellplätzen für Rollstuhlnutzer ausgerüstet sind.
 
 # § 43 – Sonderformen des Linienverkehrs
 
@@ -761,9 +913,9 @@ Als Linienverkehr gilt, unabhängig davon, wer den Ablauf der Fahrten bestimmt, 
 
 dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf der Fahrten wechselnden Bedürfnissen der Beteiligten angepaßt wird.
 
-# § 44
+# § 44 – Linienbedarfsverkehr
 
-(weggefallen)
+Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß § 8 Absatz 1 ist, gilt auch der Verkehr, der der Beförderung von Fahrgästen auf vorherige Bestellung ohne festen Linienweg zwischen bestimmten Einstiegs- und Ausstiegspunkten innerhalb eines festgelegten Gebietes und festgelegter Bedienzeiten dient (Linienbedarfsverkehr). Es kommen ausschließlich Beförderungsentgelte und -bedingungen im Rahmen der Vorgaben des Aufgabenträgers im Nahverkehrsplan, im öffentlichen Dienstleistungsauftrag oder der Vorabbekanntmachung zur Anwendung. Für Beförderungen im Linienbedarfsverkehr können Zuschläge nur nach Maßgabe von Satz 2 erhoben werden.
 
 # § 45 – Sonstige Vorschriften
 
@@ -773,7 +925,9 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf d
 
 1. § 39 Absatz 1 bis 5 und 7 gilt nicht für den Personenfernverkehr,
 
-2. § 40 Absatz 3 gilt nicht für den Personenfernverkehr; abweichend von § 40 Absatz 2 Satz 1 genügt bei Fahrplanänderungen im Personenfernverkehr eine Anzeige bei der Genehmigungsbehörde; sofern die Genehmigungsbehörde den angezeigten Fahrplanänderungen innerhalb von einem Monat widerspricht, dürfen diese nicht in Kraft treten.
+2. § 40 Absatz 3 gilt nicht für den Personenfernverkehr; abweichend von § 40 Absatz 2 Satz 1 genügt bei Fahrplanänderungen im Personenfernverkehr eine Anzeige bei der Genehmigungsbehörde; sofern die Genehmigungsbehörde den angezeigten Fahrplanänderungen innerhalb von einem Monat widerspricht, dürfen diese nicht in Kraft treten,
+
+3. § 40 gilt nicht für den Linienbedarfsverkehr.
 
 (3) Die Genehmigungsbehörde kann bei den Verkehrsformen nach § 43 auf die Einhaltung der Vorschriften über die Betriebspflicht (§ 21), die Beförderungspflicht (§ 22), die Beförderungsentgelte und -bedingungen (§ 39) sowie über die Fahrpläne (§ 40) ganz oder teilweise verzichten. Bei den Sonderformen des Linienverkehrs (§ 43) ist § 13 Absatz 2 Satz 1 Nummer 2 und 3 so anzuwenden, daß insbesondere den Belangen von Berufstätigen und Arbeitgebern sowie von Schülern und Lehranstalten Rechnung getragen wird.
 
@@ -795,7 +949,7 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf d
 
 # § 46 – Formen des Gelegenheitsverkehrs
 
-(1) Gelegenheitsverkehr ist die Beförderung von Personen mit Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42, 42a und 43 ist.
+(1) Gelegenheitsverkehr ist die Beförderung von Personen mit Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42, 42a, 43 und 44 ist.
 
 (2) Als Formen des Gelegenheitsverkehrs sind nur zulässig
 
@@ -803,15 +957,17 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf d
 
 2. Ausflugsfahrten und Ferienziel-Reisen (§ 48),
 
-3. Verkehr mit Mietomnibussen und mit Mietwagen (§ 49).
+3. Verkehr mit Mietomnibussen und mit Mietwagen (§ 49),
 
-(3) In Orten mit mehr als 50 000 Einwohnern oder in den von der höheren Verwaltungsbehörde bestimmten Orten unter 50 000 Einwohnern darf eine Genehmigung für den Taxenverkehr und den Mietwagenverkehr nicht für denselben Personenkraftwagen erteilt werden.
+4. gebündelter Bedarfsverkehr (§ 50).
+
+(3) In Orten mit mehr als 50 000 Einwohnern oder in den von der höheren Verwaltungsbehörde bestimmten Orten unter 50 000 Einwohnern darf eine Genehmigung für den Taxenverkehr, den Mietwagenverkehr oder den gebündelten Bedarfsverkehr nicht für denselben Personenkraftwagen erteilt werden.
 
 # § 47 – Verkehr mit Taxen
 
 (1) Verkehr mit Taxen ist die Beförderung von Personen mit Personenkraftwagen, die der Unternehmer an behördlich zugelassenen Stellen bereithält und mit denen er Fahrten zu einem vom Fahrgast bestimmten Ziel ausführt. Der Unternehmer kann Beförderungsaufträge auch während einer Fahrt oder am Betriebssitz entgegennehmen.
 
-(2) Taxen dürfen nur in der Gemeinde bereitgehalten werden, in der der Unternehmer seinen Betriebssitz hat. Fahrten auf vorherige Bestellung dürfen auch von anderen Gemeinden aus durchgeführt werden. Die Genehmigungsbehörde kann im Einvernehmen mit anderen Genehmigungsbehörden das Bereithalten an behördlich zugelassenen Stellen außerhalb der Betriebssitzgemeinde gestatten und einen größeren Bezirk festsetzen.
+(2) Taxen dürfen nur an behördlich zugelassenen Stellen und in der Gemeinde bereitgehalten werden, in der der Unternehmer seinen Betriebssitz hat. Fahrten auf vorherige Bestellung dürfen auch von anderen Gemeinden aus durchgeführt werden. Die Genehmigungsbehörde kann im Einvernehmen mit anderen Genehmigungsbehörden das Bereithalten an behördlich zugelassenen Stellen außerhalb der Betriebssitzgemeinde gestatten und einen größeren Bezirk festsetzen.
 
 (3) Die Landesregierung wird ermächtigt, durch Rechtsverordnung den Umfang der Betriebspflicht, die Ordnung auf Taxenständen sowie Einzelheiten des Dienstbetriebs zu regeln. Sie kann die Ermächtigung durch Rechtsverordnung übertragen. In der Rechtsverordnung können insbesondere Regelungen getroffen werden über
 
@@ -847,21 +1003,45 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf d
 
 (3) Die Vorschriften der §§ 21 und 22 sind nicht anzuwenden.
 
-(4) Verkehr mit Mietwagen ist die Beförderung von Personen mit Personenkraftwagen, die nur im ganzen zur Beförderung gemietet werden und mit denen der Unternehmer Fahrten ausführt, deren Zweck, Ziel und Ablauf der Mieter bestimmt und die nicht Verkehr mit Taxen nach § 47 sind. Mit Mietwagen dürfen nur Beförderungsaufträge ausgeführt werden, die am Betriebssitz oder in der Wohnung des Unternehmers eingegangen sind. Nach Ausführung des Beförderungsauftrags hat der Mietwagen unverzüglich zum Betriebssitz zurückzukehren, es sei denn, er hat vor der Fahrt von seinem Betriebssitz oder der Wohnung oder während der Fahrt fernmündlich einen neuen Beförderungsauftrages erhalten. Der Eingang des Beförderungsauftrages am Betriebssitz oder in der Wohnung hat der Mietwagenunternehmer buchmäßig zu erfassen und die Aufzeichnung ein Jahr aufzubewahren. Annahme, Vermittlung und Ausführung von Beförderungsaufträgen, das Bereithalten des Mietwagens sowie Werbung für Mietwagenverkehr dürfen weder allein noch in ihrer Verbindung geeignet sein, zur Verwechslung mit dem Taxenverkehr zu führen. Den Taxen vorbehaltene Zeichen und Merkmale dürfen für Mietwagen nicht verwendet werden. Die §§ 21 und 22 sind nicht anzuwenden.
+(4) Verkehr mit Mietwagen ist die Beförderung von Personen mit Personenkraftwagen, die nur im ganzen zur Beförderung gemietet werden und mit denen der Unternehmer Fahrten ausführt, deren Zweck, Ziel und Ablauf der Mieter bestimmt und die nicht Verkehr mit Taxen nach § 47 und nicht gebündelter Bedarfsverkehr nach § 50 sind. Mit Mietwagen dürfen nur Beförderungsaufträge ausgeführt werden, die am Betriebssitz oder in der Wohnung des Unternehmers eingegangen sind. Nach Ausführung des Beförderungsauftrags hat der Mietwagen unverzüglich zum Betriebssitz zurückzukehren, es sei denn, er hat vor der Fahrt von seinem Betriebssitz oder der Wohnung oder während der Fahrt einen neuen Beförderungsauftrag erhalten. Den Eingang des Beförderungsauftrages am Betriebssitz oder in der Wohnung hat der Mietwagenunternehmer buchmäßig oder elektronisch (auch mittels appbasierten Systems) zu erfassen und die Aufzeichnung ein Jahr aufzubewahren. Annahme, Vermittlung und Ausführung von Beförderungsaufträgen, das Bereithalten des Mietwagens sowie Werbung für Mietwagenverkehr dürfen weder allein noch in ihrer Verbindung geeignet sein, zur Verwechslung mit dem Taxenverkehr oder dem gebündelten Bedarfsverkehr zu führen. Den Taxen und dem gebündelten Bedarfsverkehr vorbehaltene Zeichen und Merkmale dürfen für Mietwagen nicht verwendet werden. In Städten mit mehr als 100 000 Einwohnern kann die Genehmigungsbehörde zum Schutz der öffentlichen Verkehrsinteressen die in ihrem Bezirk geltenden Regelungen für den gebündelten Bedarfsverkehr auch auf den in ihrem Bezirk betriebenen Verkehr mit Mietwagen anwenden, wenn per App vermittelter Verkehr mit Mietwagen einen Marktanteil von 25 Prozent am Fahrtaufkommen im Gelegenheitsverkehr mit Taxen, Mietwagen und gebündelten Bedarfsverkehr überschreitet. Die §§ 21 und 22 sind nicht anzuwenden.
+
+(5) Die Genehmigungsbehörde kann für Gemeinden mit großer Flächenausdehnung Einzelheiten für die Genehmigung von Ausnahmen von der Pflicht zur Rückkehr an den Betriebssitz ohne neuen Beförderungsauftrag an einen anderen Abstellort als den Betriebssitz festlegen. Hierbei ist eine Mindestwegstrecke von 15 Kilometern zwischen Hauptsitz und Abstellort oder bei mehreren Abstellorten zwischen diesen zu Grunde zu legen. Die Genehmigungsbehörde kann insbesondere Regelungen treffen über
+
+1. die Anforderungen an den Abstellort und
+
+2. die zulässige Anzahl von Abstellorten.
 
 § 49 Abs. 4 Satz 3: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar, BVerfGE v. 14.11.1989; 1990 I 108 - 1 BvL 14/85, 1 BvR 1276/84 -  
 § 49 Abs. 4 Satz 4: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar, BVerfGE v. 14.11.1989; 1990 I 108 - 1 BvL 14/85, 1 BvR 1276/84 -  
 § 49 Abs. 4 Satz 5: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar, BVerfGE v. 8.11.1983; 1984 I 105 - 1 BvL 8/81 -
 
-# § 50
+# § 50 – Gebündelter Bedarfsverkehr
 
-(weggefallen)
+(1) Gebündelter Bedarfsverkehr ist die Beförderung von Personen mit Personenkraftwagen, bei der mehrere Beförderungsaufträge entlang ähnlicher Wegstrecken gebündelt ausgeführt werden. Der Unternehmer darf die Aufträge ausschließlich auf vorherige Bestellung ausführen. Die Genehmigungsbehörde kann, soweit öffentliche Verkehrsinteressen dies erfordern, bestimmen, dass Fahrzeuge des gebündelten Bedarfsverkehrs nach Ausführung der Beförderungsaufträge unverzüglich zum Betriebssitz oder zu einem anderen geeigneten Abstellort zurückkehren müssen, es sei denn, die Fahrer haben vor oder während der Fahrt neue Beförderungsaufträge erhalten. Die Annahme, die Vermittlung und die Ausführung von Beförderungsaufträgen, das Bereithalten gebündelter Bedarfsverkehre sowie Werbung für gebündelte Bedarfsverkehre dürfen weder allein noch in ihrer Verbindung geeignet sein, zur Verwechslung mit dem Taxen- oder dem Mietwagenverkehr zu führen. Den Taxen und Mietwagen vorbehaltene Zeichen und Merkmale dürfen für den gebündelten Bedarfsverkehr nicht verwendet werden. Die §§ 21 und 22 sind nicht anzuwenden.
+
+(2) Im gebündelten Bedarfsverkehr dürfen Personen nur innerhalb der Gemeinde befördert werden, in der der Unternehmer seinen Betriebssitz hat. Die Genehmigungsbehörde kann die Beförderung von Personen im gebündelten Bedarfsverkehr zeitlich oder räumlich beschränken, soweit öffentliche Verkehrsinteressen dies erfordern. Sie kann im Einvernehmen mit anderen Genehmigungsbehörden und dem Aufgabenträger die Beförderung außerhalb der Betriebssitzgemeinde gestatten und einen größeren Bezirk festsetzen.
+
+(3) Im Stadt- und im Vorortverkehr ist von der Genehmigungsbehörde im Einvernehmen mit dem Aufgabenträger eine Quote für den Anteil an gebündelten Beförderungsaufträgen festzulegen, der in einem bestimmten Zeitraum innerhalb des Gebietes zu erreichen ist, in dem der Verkehr durchgeführt wird (Bündelungsquote). Grundlage für die Berechnung der Bündelungsquote ist die Beförderungsleistung im Verhältnis der zurückgelegten Personenkilometer zu den zurückgelegten Fahrzeugkilometern. Der Aufgabenträger führt gemeinsam mit der Genehmigungsbehörde zur Feststellung der Auswirkungen der Bündelungsquote auf die öffentlichen Verkehrsinteressen und auf Klimaschutz und Nachhaltigkeit ein Monitoring durch. Der Beobachtungszeitraum beträgt höchstens fünf Jahre nach erteilter Genehmigung.
+
+(4) Die Genehmigungsbehörde kann zum Schutz der öffentlichen Verkehrsinteressen Einzelheiten zur Rückkehrpflicht und weitere Anforderungen an den gebündelten Bedarfsverkehr in Bezug auf die Festsetzung von Bündelungsquoten, Barrierefreiheit und Emissionsvorgaben regeln. Es können Regelungen getroffen werden über
+
+1. die Pflicht zur unverzüglichen Rückkehr zum Betriebssitz oder zu einem anderen Abstellort,
+
+2. die Anforderungen an den Abstellort,
+
+3. eine zu erreichende Bündelungsquote außerhalb des Stadt- und Vorortverkehrs,
+
+4. Vorgaben zur Barrierefreiheit sowie
+
+5. Emissionsstandards von Fahrzeugen und den Einsatz lokal emissionsfreier Fahrzeuge.
+
+Die Genehmigungsbehörde kann unter den Voraussetzungen des Satzes 1 darüber hinaus Vorgaben zu Sozialstandards, wie zum Beispiel Regelungen zu Arbeitszeiten, Entlohnung und Pausen, im gebündelten Bedarfsverkehr festlegen.
 
 # § 51 – Beförderungsentgelte und -bedingungen im Taxenverkehr
 
 (1) Die Landesregierung wird ermächtigt, durch Rechtsverordnung Beförderungsentgelte und -bedingungen für den Taxenverkehr festzusetzen. Die Rechtsverordnung kann insbesondere Regelungen vorsehen über
 
-1. Grundpreise, Kilometerpreise und Zeitpreise,
+1. Grundpreise, Kilometerpreise und Zeitpreise sowie Festpreise für bestimmte Wegstrecken,
 
 2. Zuschläge,
 
@@ -873,7 +1053,7 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf d
 
 6. die Zulässigkeit von Sondervereinbarungen für den Pflichtfahrbereich.
 
-Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen.
+Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. Für Fahrten auf vorherige Bestellung können Festpreise bestimmt oder Regelungen über Mindest- und Höchstpreise getroffen werden, innerhalb derer das Beförderungsentgelt vor Fahrtantritt frei zu vereinbaren ist.
 
 (2) Sondervereinbarungen für den Pflichtfahrbereich sind nur zulässig, wenn
 
@@ -891,9 +1071,19 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen.
 
 (5) Für die Anwendung der Beförderungsentgelte und -bedingungen gilt § 39 Abs. 3 entsprechend.
 
-# § 51a
+# § 51a – Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr
 
-\-
+(1) Die Genehmigungsbehörde kann zum Schutz der öffentlichen Verkehrsinteressen für den Verkehr mit Mietwagen, der in ihrem Bezirk betrieben wird, tarifbezogene Regelungen, insbesondere Mindestbeförderungsentgelte festlegen.
+
+(2) Die Genehmigungsbehörde muss für den gebündelten Bedarfsverkehr Regelungen über Mindestbeförderungsentgelte vorsehen, die einen hinreichenden Abstand zu den Beförderungsentgelten des jeweiligen öffentlichen Personennahverkehrs sicherstellen. Sie kann darüber hinaus Folgendes festlegen:
+
+1. Höchstbeförderungsentgelte sowie
+
+2. den Zeitpunkt, zu dem die behördlich festgelegten Entgelte zur Anwendung kommen sollen.
+
+(3) Die Genehmigungsbehörde hat vor der Festsetzung von Mindestbeförderungsentgelten nach Absatz 2 Satz 1 die jeweiligen Aufgabenträger, die im Bezirk der Genehmigungsbehörde tätig werdenden Unternehmen des gebündelten Bedarfsverkehrs und die Industrie- und Handelskammern anzuhören. Bei der Festsetzung von Höchstbeförderungsentgelten nach Absatz 2 Satz 2 Nummer 1 ist § 39 Absatz 2 entsprechend anzuwenden.
+
+(4) Für die Anwendung der Beförderungsentgelte durch den Unternehmer gilt § 39 Absatz 3 entsprechend mit der Maßgabe, dass Mindestbeförderungsentgelte nicht unterschritten und Höchstbeförderungsentgelte nicht überschritten werden dürfen.
 
 # § 52 – Grenzüberschreitender Verkehr
 
@@ -913,9 +1103,11 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen.
 
 (1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr mit Kraftfahrzeugen, der das Gebiet des Geltungsbereichs dieses Gesetzes unter Ausschluß innerdeutschen Zwischenverkehrs berührt, gelten, soweit nichts anderes bestimmt ist, die Vorschriften dieses Gesetzes und die hierzu erlassenen Rechtsverordnungen. Nicht anzuwenden sind
 
-1. § 13 Absatz 1 Satz 1 Nummer 4 und
+1. § 13 Absatz 1 Satz 1 Nummer 4,
 
-2. § 13 Absatz 1a, soweit Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1071/2009 einzuhalten ist.
+2. § 13 Absatz 1a, soweit Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1071/2009 einzuhalten ist und
+
+3. § 42b.
 
 (2) Die Genehmigung eines Transitlinienverkehrs erteilt die von der Landesregierung bestimmte Behörde, in deren Gebiet der erste Grenzübergang bei der Einfahrt stattfindet, im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur. § 11 Abs. 3 und 4 ist entsprechend anzuwenden.
 
@@ -989,7 +1181,23 @@ b) die Sicherheit und Ordnung des Betriebs;
 
 10. die die gebührenpflichtigen Tatbestände im Linienverkehr und im Gelegenheitsverkehr näher bestimmen und feste Gebührensätze oder Rahmensätze festlegen. Die Gebühren dürfen im Linienverkehr 2 500 Euro, im Gelegenheitsverkehr 1 500 Euro nicht überschreiten;
 
-11. zur Bezeichnung der Tatbestände, die als Ordnungswidrigkeit nach § 61 Abs. 1 Nr. 5 geahndet werden können.
+11. zur Bezeichnung der Tatbestände, die als Ordnungswidrigkeit nach § 61 Abs. 1 Nr. 5 geahndet werden können;
+
+12. über die in § 3a genannte Verpflichtung zur Bereitstellung dort genannter Daten durch den Unternehmer und den Vermittler sowie zu deren Verwendung hinsichtlich
+
+a) Art und Inhalt der bereitzustellenden Daten und Datenformate,
+
+b) Art und Weise der Erfüllung,
+
+c) technischen Anforderungen und Interoperabilität,
+
+d) Zulassung von Dritten zur Bereitstellung und Nutzung des Nationalen Zugangspunktes,
+
+e) Nutzungsbedingungen und
+
+f) Regelungen zur Weiterverwendung der Daten durch Dritte zur Bereitstellung multimodaler Mobilitäts- und Reiseinformationsdienste
+
+näher auszugestalten. Hierbei ist das Bundesamt für Sicherheit in der Informationstechnik anzuhören, soweit die Sicherheit informationstechnischer Systeme betroffen ist.
 
 (2) Rechtsverordnungen nach Absatz 1 Nr. 1 können auch Vorschriften zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes enthalten; dabei können Immissionsgrenzwerte unter Berücksichtigung der technischen Entwicklung auch für einen Zeitpunkt nach Inkrafttreten der Rechtsverordnung festgesetzt werden. Vorschriften nach Satz 1 werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen. Die Ermächtigung nach Satz 1 gilt nicht, soweit § 43 des Bundes-Immissionsschutzgesetzes Anwendung findet.
 
@@ -1027,11 +1235,13 @@ c) die Einhaltung der Beförderungspflicht (§ 22) oder der Beförderungsentgelt
 
 d) die Bekanntmachung der Beförderungsentgelte, der Besonderen Beförderungsbedingungen und der gültigen Fahrpläne (§ 39 Abs. 7, § 40 Abs. 4, § 41 Abs. 3, § 45 Abs. 3),
 
-e) den Verkehr mit Taxen (§ 47 Abs. 2 Satz 1 oder Abs. 5),
+e) die technischen Anforderungen für Kraftomnibusse, die im innerdeutschen Personenfernverkehr eingesetzt werden (§ 42b),
 
-f) Ausflugsfahrten und Ferienziel-Reisen (§ 48 Abs. 1 bis 3) oder
+f) den Verkehr mit Taxen (§ 47 Abs. 2 Satz 1 oder Abs. 5),
 
-g) den Verkehr mit Mietomnibussen und Mietwagen (§ 49 Abs. 2 Satz 2 und Abs. 4)
+g) Ausflugsfahrten und Ferienziel-Reisen (§ 48 Abs. 1 bis 3) oder
+
+h) den Verkehr mit Mietomnibussen und Mietwagen (§ 49 Abs. 2 Satz 2 und Abs. 4)
 
 zuwiderhandelt;
 
@@ -1099,22 +1309,42 @@ Die Länder können mit Wirkung ab dem 1. Januar 2007 § 45a und § 57 Abs. 1 Nr
 
 # § 64b – Landesrecht im Bereich des Gelegenheitsverkehrs
 
-Dieses Gesetz oder auf Grundlage dieses Gesetzes erlassene Rechtsverordnungen steht oder stehen Vorschriften der Länder nicht entgegen, die den Betrieb des Verkehrs mit Taxen oder mit Mietwagen in Bezug auf Fahrzeugemissionen regeln.
+Dieses Gesetz oder auf Grundlage dieses Gesetzes erlassene Rechtsverordnungen steht oder stehen Vorschriften der Länder nicht entgegen, die den Betrieb des Verkehrs mit Taxen oder mit Mietwagen oder den Betrieb gebündelten Bedarfsverkehrs in Bezug auf Fahrzeugemissionen regeln.
+
+# § 64c – Barrierefreiheit
+
+(1) Beim Verkehr mit Taxen und beim gebündelten Bedarfsverkehr sollen die Aufgabenträger die Belange der in ihrer Mobilität oder sensorisch eingeschränkten Menschen mit dem Ziel berücksichtigen, eine möglichst weitgehende Barrierefreiheit zu erreichen. Hierfür ist ab einer Anzahl von 20 Fahrzeugen eine Mindestverfügbarkeit von barrierefreien Fahrzeugen je Unternehmer vorzusehen, für die ein bundesweiter Richtwert von 5 Prozent bezogen auf die Anzahl der von dem Unternehmer betriebenen Fahrzeuge gilt. Die Maßgaben des § 35a Absatz 4a der Straßenverkehrs-Zulassungs-Ordnung vom 26. April 2012 (BGBl. I S. 679), die zuletzt durch Artikel 1 der Verordnung vom 26. November 2019 (BGBl. I S. 2015) geändert worden ist, an barrierefreie Fahrzeuge finden Anwendung.
+
+(2) Die Genehmigungsbehörde kann Einzelheiten zur Herstellung einer weitgehenden Barrierefreiheit im Hinblick auf die Mindestanzahl vorzuhaltender barrierefreier Fahrzeuge beim Verkehr mit Taxen und beim gebündelten Bedarfsverkehr festlegen, soweit dies keine unzumutbare wirtschaftliche Härte gegenüber dem Unternehmer darstellt. Sie kann darüber hinaus Ausnahmen im Hinblick auf die Mindestanzahl vorzuhaltender barrierefreier Fahrzeuge bestimmen, die eine Einschränkung der Barrierefreiheit rechtfertigen, soweit dies nachweislich aus technischen oder wirtschaftlichen Gründen unumgänglich ist.
 
 # § 65 – Ausnahmen für Straßenbahnen
 
-Für Straßenbahnen im Sinne von § 4 Absatz 1 und 2 gelten nachfolgende Richtlinien nicht:
+Vorschriften, mit denen nachfolgende Richtlinien umgesetzt werden, gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
 
-1. Richtlinie 95/18/EG des Rates vom 19. Juni 1995 über die Erteilung von Genehmigungen an Eisenbahnunternehmen (ABl. L 143 vom 27.6.1995, S. 70);
+1. Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums (ABl. L 343 vom 14.12.2012, S. 32; L 67 vom 12.3.2015, S. 32), die zuletzt durch den Delegierten Beschluss (EU) 2017/2075 (ABl. L 295 vom 14.11.2017, S. 69) geändert worden ist;
 
-2. Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums (ABl. L 343 vom 14.12.2012, S. 32);
+2. Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (ABl. L 138 vom 26.5.2016, S. 102; L 59 vom 7.3.2017, S. 41; L 110 vom 30.4.2018, S. 141; L 317 vom 9.12.2019, S. 114), die zuletzt durch die Verordnung (EU) 2020/1530 (ABl. L 352 vom 22.10.2020, S. 1) geändert worden ist;
 
-3. Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“) (ABl. L 164 vom 30.4.2004, S. 44), die zuletzt durch die Richtlinie 2009/149/EG (ABl. L 313 vom 28.11.2009, S. 65) geändert worden ist;
+3. Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Verordnung (EU) 2019/554 (ABl. L 97 vom 8.4.2019, S. 1) geändert worden ist;
 
-4. Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom 3.12.2007, S. 51);
+4. Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (ABl. L 138 vom 26.5.2016, S. 44), die zuletzt durch die Richtlinie (EU) 2020/700 (ABl. L 165 vom 27.5.2020, S. 27) geändert worden ist.
 
-5. Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (Neufassung) (ABl. L 191 vom 18.7.2008, S. 1), die zuletzt durch die Richtlinie 2011/18/EU (ABl. L 57 vom 2.3.2011, S. 21) geändert worden ist.
+# § 66 – Berichtspflichten
 
-# § 66 – Berichtspflicht
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur Modernisierung des Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form vor:
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur legt bis zum 1. Januar 2017 dem Deutschen Bundestag einen Bericht darüber vor, ob die mit dem Gesetz zur Änderung personenbeförderungsrechtlicher Vorschriften vom 14. Dezember 2012 (BGBl. I S. 2598) verfolgten Ziele erfüllt wurden und wie sich die Marktöffnung im straßengebundenen Personenfernverkehr auswirkt, auch hinsichtlich der Sozial- und Arbeitsbedingungen für das Fahrpersonal.
+1. zur Umsetzung der nach § 57 Absatz 1 Nummer 12 erlassenen Verordnung, insbesondere
+
+a) zur Vollständigkeit und Zugänglichkeit der nach § 3a bereitzustellenden Daten, auch im Hinblick auf die regelmäßige Öffnung von Schnittstellen zur Verknüpfung von Informationssystemen;
+
+b) zur Anzahl der Dienstleistungsangebote, die sich nach der umfassenden Bereitstellung von Mobilitätsdaten entwickelt haben oder sich in der Entwicklung befinden;
+
+c) zu Marktbarrieren im Hinblick auf die Weiterverwendungsmöglichkeit von Daten nach § 3b und
+
+d) zu Vorschlägen hinsichtlich der Verbesserung der Nutzung von Daten;
+
+2. zur Umsetzung der in § 64c Absatz 1 und 2 niedergelegten Vorgaben und deren Wirksamkeit.
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann insbesondere Vorschläge zur Verbesserung der Nutzung der Daten unterbreiten. Den Ländern, Kommunen, den Verbraucherschutzverbänden, Verbänden für Menschen mit Behinderungen, dem oder der Beauftragten der Bundesregierung für Menschen mit Behinderungen, dem oder der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie den betroffenen Wirtschaftskreisen wird Gelegenheit zur Stellungnahme gegeben.
+
+(2) Die Bundesregierung legt mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur Modernisierung des Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form zu den mit der Einführung der neuen Verkehrsformen verfolgten Zielen und deren Auswirkungen auf Klimaschutz und Nachhaltigkeit vor. Absatz 1 Satz 2 gilt entsprechend.

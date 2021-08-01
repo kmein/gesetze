@@ -9,7 +9,7 @@
 
 # § 2 – Begriffsbestimmungen
 
-Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im Linienverkehr, die überwiegend dazu bestimmt sind, die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt.
+Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im Linienverkehr, die überwiegend dazu bestimmt sind, die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt. Der Verkehr mit Taxen ist öffentlicher Personennahverkehr im Sinne dieses Gesetzes, wenn er die in Satz 1 genannte Verkehrsnachfrage zur Beseitigung einer räumlichen oder zeitlichen Unterversorgung befriedigt.
 
 # § 3 – Regionalisierung
 

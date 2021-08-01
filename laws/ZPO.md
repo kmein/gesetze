@@ -10678,17 +10678,55 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 # § 797 – Verfahren bei vollstreckbaren Urkunden
 
-(1) Die vollstreckbare Ausfertigung gerichtlicher Urkunden wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts erteilt, das die Urkunde verwahrt.
+(1) Die vollsteckbare Ausfertigung wird erteilt bei
 
-(2) Die vollstreckbare Ausfertigung notarieller Urkunden wird von dem Notar erteilt, der die Urkunde verwahrt. Befindet sich die Urkunde in der Verwahrung einer Behörde, so hat diese die vollstreckbare Ausfertigung zu erteilen.
+1. gerichtlichen Urkunden von dem Urkundsbeamten der Geschäftsstelle des die Urkunde verwahrenden Gerichts,
 
-(3) Die Entscheidung über Einwendungen, welche die Zulässigkeit der Vollstreckungsklausel und die Zulässigkeit der Erteilung einer weiteren vollstreckbaren Ausfertigung betreffen, wird bei gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht, bei notariellen Urkunden von dem Amtsgericht getroffen, in dessen Bezirk der die Urkunde verwahrende Notar oder die verwahrende Behörde den Amtssitz hat. Die Entscheidung über die Erteilung einer weiteren vollstreckbaren Ausfertigung wird bei gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht getroffen, bei einer notariellen Urkunde von dem die Urkunde verwahrenden Notar oder, wenn die Urkunde von einer Behörde verwahrt wird, von dem Amtsgericht, in dessen Bezirk diese Behörde ihren Amtssitz hat.
+2. notariellen Urkunden von
 
-(4) Auf die Geltendmachung von Einwendungen, die den Anspruch selbst betreffen, ist die beschränkende Vorschrift des § 767 Abs. 2 nicht anzuwenden.
+a) dem die Urkunde verwahrenden Notar,
 
-(5) Für Klagen auf Erteilung der Vollstreckungsklausel sowie für Klagen, durch welche die den Anspruch selbst betreffenden Einwendungen geltend gemacht werden oder der bei der Erteilung der Vollstreckungsklausel als bewiesen angenommene Eintritt der Voraussetzung für die Erteilung der Vollstreckungsklausel bestritten wird, ist das Gericht, bei dem der Schuldner im Inland seinen allgemeinen Gerichtsstand hat, und sonst das Gericht zuständig, bei dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
+b) der die Urkunde verwahrenden Notarkammer oder
 
-(6) Auf Beschlüsse nach § 796c sind die Absätze 2 bis 5 entsprechend anzuwenden.
+c) dem die Urkunde verwahrenden Amtsgericht.
+
+(2) Die Entscheidung über die Erteilung einer weiteren vollstreckbaren Ausfertigung wird getroffen bei
+
+1. gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht,
+
+2. notariellen Urkunden von
+
+a) dem die Urkunde verwahrenden Notar,
+
+b) der die Urkunde verwahrenden Notarkammer oder
+
+c) dem die Urkunde verwahrenden Amtsgericht.
+
+(3) Die Entscheidung über Einwendungen, welche die Zulässigkeit der Vollstreckungsklausel und die Zulässigkeit der Erteilung einer weiteren vollstreckbaren Ausfertigung betreffen, wird getroffen bei
+
+1. gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht,
+
+2. notariellen Urkunden von dem Amtsgericht,
+
+a) in dessen Bezirk der die Urkunde verwahrende Notar seinen Amtssitz hat,
+
+b) in dessen Bezirk die die Urkunde verwahrende Notarkammer ihren Sitz hat oder
+
+c) das die Urkunde verwahrt.
+
+(4) Auf die Geltendmachung von Einwendungen, die den Anspruch selbst betreffen, ist § 767 Absatz 2 nicht anzuwenden.
+
+(5) Das Gericht, bei dem der Schuldner im Inland seinen allgemeinen Gerichtsstand hat, ist zuständig für
+
+1. Klagen auf Erteilung der Vollstreckungsklausel,
+
+2. Klagen, durch welche die den Anspruch selbst betreffenden Einwendungen geltend gemacht werden, und
+
+3. Klagen, durch welche der bei der Erteilung der Vollstreckungsklausel als bewiesen angenommene Eintritt der Voraussetzung für die Erteilung der Vollstreckungsklausel bestritten wird.
+
+Hat der Schuldner im Inland keinen allgemeinen Gerichtsstand, so ist das Gericht zuständig, bei dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
+
+(6) Auf Beschlüsse nach § 796c sind die Absätze 1 bis 5 entsprechend anzuwenden.
 
 # § 797a – Verfahren bei Gütestellenvergleichen
 

@@ -11,7 +11,7 @@
 
 (3a) bis (3c) (weggefallen)
 
-(4) Der Verkehr mit Barmitteln und gleichgestellten Zahlungsmitteln in den, aus dem und durch den Geltungsbereich dieses Gesetzes wird unbeschadet der Absätze 1 bis 3 und 6, der §§ 10 bis 12 und der §§ 209 bis 211 der Abgabenordnung zollamtlich überwacht. Unbeschadet von Satz 1 erfolgt die Überwachung von Barmitteln, die von natürlichen Personen über die Außengrenzen der Europäischen Union in den oder aus dem Geltungsbereich dieses Gesetzes verbracht werden, gemäß der Verordnung (EG) Nr. 1889/2005 des Europäischen Parlaments und des Rates vom 26. Oktober 2005 über die Überwachung von Barmitteln, die in die Gemeinschaft oder aus der Gemeinschaft verbracht werden (ABl. L 309 vom 25.11.2005, S. 9). Barmittel im Sinne des Satzes 1 sind die in Artikel 2 Nummer 2 Buchstabe a und b der Verordnung (EG) Nr. 1889/2005 genannten Zahlungsinstrumente. Gleichgestellte Zahlungsmittel im Sinne des Satzes 1 sind Edelmetalle, Edelsteine, E-Geld im Sinne des § 1a Absatz 3 des Zahlungsdiensteaufsichtsgesetzes, Wertpapiere im Sinne des § 1 des Depotgesetzes und § 808 des Bürgerlichen Gesetzbuchs, soweit es sich bei diesen nicht bereits um Barmittel nach Satz 3 handelt.
+(4) Der Verkehr mit Barmitteln und gleichgestellten Zahlungsmitteln in den, aus dem und durch den Geltungsbereich dieses Gesetzes wird unbeschadet der Absätze 1 bis 3 und 6, der §§ 10 bis 12 und der §§ 209 bis 211 der Abgabenordnung zollamtlich überwacht. Unbeschadet von Satz 1 erfolgt die Überwachung von begleiteten und unbegleiteten Barmitteln über die Außengrenzen der Europäischen Union in den oder aus dem Geltungsbereich dieses Gesetzes gemäß der Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden (ABl. L 284 vom 12.11.2018, S. 6). Barmittel im Sinne des Satzes 1 sind die in Artikel 2 Absatz 1 Buchstabe a der Verordnung (EU) 2018/1672 genannten Zahlungsinstrumente. Gleichgestellte Zahlungsmittel im Sinne des Satzes 1 sind Edelmetalle, Edelsteine, Wertpapiere im Sinne des § 1 des Depotgesetzes und des § 808 des Bürgerlichen Gesetzbuchs, soweit es sich bei diesen nicht bereits um Barmittel nach Satz 3 handelt.
 
 (5) Die Behörden des Zollfahndungsdienstes erforschen und verfolgen die Geldwäsche, sofern diese im Zusammenhang steht mit
 
@@ -263,11 +263,11 @@ Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhalt
 
 # § 12a – Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln
 
-(1) Die nach Artikel 3 der Verordnung (EG) Nr. 1889/2005 des Europäischen Parlaments und des Rates vom 26. Oktober 2005 über die Überwachung von Barmitteln, die in die oder aus der Gemeinschaft verbracht werden (ABl. EU Nr. L 309 S. 9), erforderliche Anmeldung muss schriftlich im Zeitpunkt der Ein- oder Ausreise erfolgen. Die §§ 2 und 4 gelten entsprechend.
+(1) Auf Verlangen der Zollbediensteten müssen natürliche Personen Barmittel und gleichgestellte Zahlungsmittel im Gesamtwert von 10 000 Euro oder mehr, die sie in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbringen, nach Art, Zahl und Wert anzeigen sowie die Herkunft, den wirtschaftlich Berechtigten und den Verwendungszweck dieser Barmittel und gleichgestellter Zahlungsmittel darlegen. Gesamtwert im Sinne des Satzes 1 ist die Summe der Barmittel und gleichgestellten Zahlungsmittel.
 
-(2) Auf Verlangen der Zollbediensteten müssen natürliche Personen unbeschadet des Absatzes 1 Barmittel und gleichgestellte Zahlungsmittel im Gesamtwert von 10 000 Euro oder mehr, die sie in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbringen, nach Art, Zahl und Wert anzeigen sowie die Herkunft, den wirtschaftlich Berechtigten und den Verwendungszweck dieser Barmittel und gleichgestellter Zahlungsmittel darlegen. Gesamtwert im Sinne des Satzes 1 ist die Summe der Barmittel und gleichgestellten Zahlungsmittel.
+(2) Werden unbegleitete Barmittel und gleichgestellte Zahlungsmittel im Gesamtwert von 10 000 Euro oder mehr in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht, können die Zollbediensteten den Absender, den Empfänger oder einen Vertreter dieser Personen auffordern, binnen einer Frist von 30 Tagen eine Offenlegungserklärung abzugeben. Für den Inhalt der Offenlegungserklärung gilt Artikel 4 Absatz 2 Verordnung (EU) 2018/1672 entsprechend. Bis zur Vorlage der Offenlegungserklärung können die Barmittel oder gleichgestellten Zahlungsmittel sichergestellt werden.
 
-(3) Beauftragte von Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 9 des Geldwäschegesetzes sind von den Verpflichtungen nach Absatz 2 ausgenommen, sofern der Transport von Barmitteln oder gleichgestellten Zahlungsmitteln ausschließlich zwischen diesen Verpflichteten erfolgt. Auf Verlangen der Zollbediensteten müssen die Beauftragten nachweisen, dass die Voraussetzungen für die Befreiung von der Anzeigepflicht nach Absatz 2 vorliegen.
+(3) Beauftragte von Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 9 des Geldwäschegesetzes sind von den Verpflichtungen nach Absatz 1 ausgenommen, sofern der Transport von Barmitteln oder gleichgestellten Zahlungsmitteln ausschließlich zwischen diesen Verpflichteten erfolgt. Auf Verlangen der Zollbediensteten müssen die Beauftragten nachweisen, dass die Voraussetzungen für die Befreiung von der Anzeigepflicht nach Absatz 2 vorliegen.
 
 (4) Zur Überprüfung der Einhaltung der Vorgaben der Absätze 1 bis 3 haben die Zollbediensteten die Befugnisse nach § 10. Im Bereich der Grenzen zu anderen Mitgliedstaaten der Europäischen Union ist § 10 Absatz 1 entsprechend anzuwenden.
 
@@ -275,21 +275,25 @@ Ergeben sich bei der zollamtlichen Überwachung zureichende tatsächliche Anhalt
 
 (6) Ist es zum Nachweis der Herkunft, des wirtschaftlich Berechtigten oder des Verwendungszwecks der Barmittel oder gleichgestellten Zahlungsmittel erforderlich, dürfen die Zollbehörden personenbezogene Daten bei nicht öffentlichen Stellen erheben, soweit die Sachverhaltsaufklärung durch den Betroffenen nicht zum Ziel führt oder keinen Erfolg verspricht. Es können Auskunftsersuchen gegenüber Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 6 des Geldwäschegesetzes gestellt werden. Die nicht öffentlichen Stellen müssen den Zollbehörden die zur Aufklärung des Sachverhalts erforderlichen Auskünfte auf Verlangen innerhalb von drei Werktagen erteilen. Die §§ 102 und 103 der Abgabenordnung gelten entsprechend.
 
-(7) Die Zollbediensteten können, wenn Grund zu der Annahme besteht, dass im grenzüberschreitenden Verkehr beförderte Barmittel oder gleichgestellte Zahlungsmittel zum Zwecke
+(7) Werden Barmittel oder gleichgestellte Zahlungsmittel sowie die zugehörigen Behältnisse und Umschließungen in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht, können die Zollbediensteten diese bis zu 30 Tage nach dem Auffinden sicherstellen und in zollamtliche Verwahrung nehmen, um die Herkunft oder den Verwendungszweck aufzuklären, wenn
 
-1. der Geldwäsche nach § 261 des Strafgesetzbuchs,
+1. die Anmeldepflicht für begleitete Barmittel nach Artikel 3 oder die Offenlegungspflicht für unbegleitete Barmittel nach Artikel 4 der Verordnung (EU) 2018/1672 nicht eingehalten wird,
 
-2. der Terrorismusfinanzierung nach § 89a Absatz 2a, § 89c des Strafgesetzbuchs,
+2. die Anzeigepflicht für begleitete Barmittel nach Absatz 1 oder die Offenlegungspflicht für unbegleitete Barmittel nach Absatz 2 nicht eingehalten wird oder
 
-3. der Finanzierung einer terroristischen Vereinigung nach § 129a, auch in Verbindung mit § 129b des Strafgesetzbuchs,
+3. Grund zu der Annahme besteht, dass die Barmittel oder gleichgestellten Zahlungsmittel
 
-4. der Aufrechterhaltung des organisatorischen Zusammenhalts eines verbotenen Vereins oder einer verbotenen Partei nach § 20 Absatz 1 des Vereinsgesetzes oder
+a) zum Zweck der Geldwäsche nach § 261 des Strafgesetzbuchs,
 
-5. der verbotenen Bereitstellung oder verbotswidrigen Verfügung nach § 18 Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes
+b) zum Zweck der Terrorismusfinanzierung nach § 89a Absatz 2a, § 89c des Strafgesetzbuchs,
 
-verbracht werden, die Barmittel oder gleichgestellten Zahlungsmittel sowie die zugehörigen Behältnisse und Umschließungen bis zum Ablauf des fünften Werktages nach dem Auffinden sicherstellen und in zollamtliche Verwahrung nehmen, um die Herkunft oder den Verwendungszweck aufzuklären. Diese Frist kann durch Entscheidung des Gerichts einmalig bis zu drei Monate verlängert werden. Zur Bekanntmachung der Entscheidung genügt eine formlose Mitteilung. Zuständig ist das Amtsgericht, in dessen Bezirk die Sicherstellung erfolgt ist. Der Widerspruch gegen die Sicherstellung nach Satz 1 hat keine aufschiebende Wirkung. Sobald die Voraussetzungen für die Sicherstellung weggefallen sind, sind die Barmittel oder gleichgestellten Zahlungsmittel an denjenigen herauszugeben, bei dem sie sichergestellt worden sind. Ist die Herausgabe an ihn nicht möglich, können sie an einen anderen herausgegeben werden, der seine Berechtigung glaubhaft macht.
+c) zum Zweck der Finanzierung einer terroristischen Vereinigung nach § 129a, auch in Verbindung mit § 129b des Strafgesetzbuchs oder
 
-(8) Die Zollbehörden dürfen, soweit dies zur Erfüllung ihrer Aufgaben nach § 1 Absatz 4 und 5 und nach den Absätzen 1 bis 7 erforderlich ist, personenbezogene Daten verarbeiten. Die Verarbeitung weiterer Daten, die nicht unmittelbar im Zusammenhang mit dem grenzüberschreitenden Verkehr von Barmitteln oder gleichgestellten Zahlungsmitteln stehen, ist nur zulässig, wenn
+d) im Zusammenhang mit einer kriminellen Tätigkeit nach Artikel 3 Nummer 4 der Richtlinie (EU) 2015/849
+
+verbracht werden. Diese Frist kann durch Entscheidung des Gerichts einmalig auf 90 Tage verlängert werden. Zur Bekanntmachung der Entscheidung genügt eine formlose Mitteilung. Zuständig ist das Amtsgericht, in dessen Bezirk die Sicherstellung erfolgt ist. Der Widerspruch und die Anfechtungsklage gegen die Sicherstellung nach Satz 1 haben keine aufschiebende Wirkung. Sobald die Voraussetzungen für die Sicherstellung weggefallen sind, sind die Barmittel oder gleichgestellten Zahlungsmittel an denjenigen herauszugeben, bei dem sie sichergestellt worden sind. Ist die Herausgabe an ihn nicht möglich, können sie an einen anderen herausgegeben werden, der seine Berechtigung glaubhaft macht.
+
+(8) Die Zollbehörden dürfen, soweit dies zur Erfüllung ihrer Aufgaben nach § 1 Absatz 4 und 5 und nach den Absätzen 1 bis 7 erforderlich ist, personenbezogene Daten verarbeiten. Die Verarbeitung weiterer Daten, die nicht unmittelbar im Zusammenhang mit dem Verbringen von Barmitteln oder gleichgestellten Zahlungsmitteln in den, aus dem oder durch den Geltungsbereich dieses Gesetzes stehen, ist nur zulässig, wenn
 
 1. es zur Verfolgung von Straftaten oder Ordnungswidrigkeiten erforderlich ist,
 
@@ -521,21 +525,27 @@ eine Postsendung oder ein dort genanntes Dokument nicht oder nicht rechtzeitig v
 
 a) § 5 Absatz 1 Satz 1 oder
 
-b) § 12a Absatz 2 Satz 1
+b) § 12a Absatz 1 Satz 1
 
 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 3. entgegen § 10 Absatz 4 Satz 1 Zutritt nicht gewährt,
 
-4. entgegen § 12a Absatz 6 Satz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
+4. einer vollziehbaren Anordnung nach § 12a Absatz 2 Satz 1 zuwiderhandelt,
 
-5. entgegen § 12e Absatz 2 Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt.
+5. entgegen § 12a Absatz 6 Satz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 Satz 1 in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1889/2005 des Europäischen Parlaments und des Rates vom 26. Oktober 2005 über die Überwachung von Barmitteln, die in die Gemeinschaft oder aus der Gemeinschaft verbracht werden (ABl. L 309 vom 25.11.2005, S. 9) in Verbindung mit § 12a Absatz 1 Satz 1 einen dort genannten Betrag nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anmeldet.
+6. entgegen § 12e Absatz 2 Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt.
 
-(3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 139 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1) in Verbindung mit § 4 Absatz 1 eine dort genannte Ware nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gestellt.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 139 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1) in Verbindung mit § 4 Absatz 1 eine dort genannte Ware nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gestellt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 Buchstabe b und des Absatzes 2 mit einer Geldbuße bis zu einer Million Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b und Nummer 5 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6; L 435 vom 23.12.2018, S. 79) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 3 Absatz 1 Satz 1 einen dort genannten Bargeldbetrag nicht oder nicht bis zum Zeitpunkt der Ein- oder Ausreise anmeldet oder Barmittel nicht oder nicht zum Zeitpunkt der Kontrolle zur Verfügung stellt oder
+
+2. einer vollziehbaren Anordnung nach Artikel 4 Absatz 1 Satz 1 zuwiderhandelt.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 Buchstabe b und des Absatzes 3 mit einer Geldbuße bis zu einer Million Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b und Nummer 6 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
 
