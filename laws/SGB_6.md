@@ -3801,11 +3801,13 @@ Wird die Zahlung widerrufen, werden die Beiträge zurückgezahlt. Der Anspruch a
 
 1. Rentenanwartschaften, die um einen Abschlag an Entgeltpunkten gemindert worden sind, ganz oder teilweise wieder aufzufüllen,
 
-2. auf Grund
+2. Rentenanwartschaften zu begründen aufgrund
 
-a) einer Entscheidung des Familiengerichts zum Ausgleich von Anrechten durch externe Teilung (§ 15 des Versorgungsausgleichsgesetzes) oder
+a) einer Entscheidung des Familiengerichts zum Ausgleich von Anrechten durch externe Teilung (§ 15 des Versorgungsausgleichsgesetzes),
 
-b) einer wirksamen Vereinbarung nach § 6 des Versorgungsausgleichsgesetzes Rentenanwartschaften zu begründen,
+b) einer wirksamen Vereinbarung nach § 6 des Versorgungsausgleichsgesetzes oder
+
+c) einer Abfindung nach § 23 des Versorgungsausgleichsgesetzes,
 
 3. die Erstattungspflicht für die Begründung von Rentenanwartschaften zugunsten des Ausgleichsberechtigten abzulösen (§ 225 Abs. 2).
 
@@ -3813,7 +3815,7 @@ b) einer wirksamen Vereinbarung nach § 6 des Versorgungsausgleichsgesetzes Rent
 
 (3) Für je einen Entgeltpunkt ist der Betrag zu zahlen, der sich ergibt, wenn der zum Zeitpunkt der Beitragszahlung geltende Beitragssatz auf das für das Kalenderjahr der Beitragszahlung bestimmte vorläufige Durchschnittsentgelt angewendet wird. Der Zahlbetrag wird nach den Rechengrößen zur Durchführung des Versorgungsausgleichs ermittelt, die das Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt macht. Die Rechengrößen enthalten Faktoren zur Umrechnung von Entgeltpunkten in Beiträge und umgekehrt sowie zur Umrechnung von Kapitalwerten in Entgeltpunkte; dabei können Rundungsvorschriften der Berechnungsgrundsätze unberücksichtigt bleiben, um genauere Ergebnisse zu erzielen.
 
-(3a) Entgeltpunkte aus der Zahlung von Beiträgen nach Absatz 1 Nr. 1 oder Nr. 2 Buchstabe b werden ermittelt, indem die Beiträge mit dem zum Zeitpunkt der Zahlung maßgebenden Faktor nach Absatz 3 vervielfältigt werden.
+(3a) Entgeltpunkte aus der Zahlung von Beiträgen nach Absatz 1 Nr. 1 oder Nr. 2 Buchstabe b oder c werden ermittelt, indem die Beiträge mit dem zum Zeitpunkt der Zahlung maßgebenden Faktor nach Absatz 3 vervielfältigt werden.
 
 (4) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Beitragszahlung zur Wiederauffüllung oder Begründung von Rentenanwartschaften nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 

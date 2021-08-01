@@ -1,1241 +1,1390 @@
-% Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe
-% Ausfertigungsdatum: 03.07.2003
+% Verordnung über die Berufsausbildung zum Maler und Lackierer und zur Malerin und Lackiererin  (Maler- und Lackiererausbildungsverordnung - MalerLackAusbV)
+% Ausfertigungsdatum: 29.06.2021
  
 # Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), von dem Absatz 1 durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2, 3 und 4 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), § 25 Absatz 1 Satz 1 zuletzt geändert durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) und § 26 Absatz 1 Satz 1 zuletzt geändert durch Artikel 2 Nummer 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522), verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-# § 1 – Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
+# Inhaltsübersicht
 
-Der Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin sowie der darauf aufbauende Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin werden gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nr. 13, Maler und Lackierer, der Anlage A der Handwerksordnung staatlich anerkannt.
+ 
 
-# § 2 – Ausbildungsdauer
+ 
 
-(1) Die Stufenausbildung im Maler- und Lackierergewerbe dauert insgesamt 36 Monate.
+ 
 
-(2) Die Ausbildung zum Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin dauert 36 Monate.
+ 
 
-(3) Es kann zwischen den Fachrichtungen
+ 
 
-1. Gestaltung und Instandhaltung,
+ 
 
-2. Kirchenmalerei und Denkmalpflege und
+ 
 
-3. Bauten- und Korrosionsschutz
+ 
 
-gewählt werden.
+ 
 
-(4) Wird die Ausbildung als Stufenausbildung durchgeführt, dauert die Ausbildung in der ersten Stufe zum Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin 24 Monate. In der darauf aufbauenden zweiten Stufe zum Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin dauert die Ausbildung weitere zwölf Monate.
+ 
 
-(5) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
+ 
 
-# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+ 
 
-(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
+ 
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 10 bis 15 nachzuweisen.
+ 
 
-# § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
+ 
 
-Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlagen 1 und 2) während einer Dauer von acht Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
+ 
 
-1. im ersten Ausbildungsjahr der Berufsausbildung in zwei Wochen Fertigkeiten und Kenntnisse aus der Anlage 1 im Abschnitt I, laufende Nummern 9 bis 12,
+ 
 
-2. im zweiten Ausbildungsjahr der Berufsausbildung in drei Wochen Fertigkeiten und Kenntnisse aus der Anlage 1 im Abschnitt II, laufende Nummern 7 und 8,
+ 
 
-3. im dritten Ausbildungsjahr der Berufsausbildung in drei Wochen Fertigkeiten und Kenntnisse
+ 
 
-a) aus der Anlage 2 der Fachrichtung A Gestaltung und Instandhaltung die laufenden Nummern 3 bis 6,
+ 
 
-b) aus der Anlage 2 der Fachrichtung B Kirchenmalerei und Denkmalpflege die laufenden Nummern 4 bis 6,
+ 
 
-c) aus der Anlage 2 der Fachrichtung C Bauten- und Korrosionsschutz die laufenden Nummern 3, 5 und 6.
+ 
 
-# § 5 – Ausbildungsberufsbild Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin
+ 
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+ 
 
-1. Berufsbildung, Arbeitsrecht und Tarifrecht,
+ 
 
-2. Aufbau und Organisation des Ausbildungsbetriebes,
+ 
 
-3. Sicherheit und Gesundheitsschutz bei der Arbeit,
+ 
 
-4. Umweltschutz,
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
-5. Kundenorientierung,
+Der Ausbildungsberuf mit der Berufsbezeichnung „Maler und Lackierer“ oder „Malerin und Lackiererin“ wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 10, Maler und Lackierer, der Handwerksordnung staatlich anerkannt.
 
-6. Umgang mit Informations- und Kommunikationstechniken,
+# § 2 – Dauer der Berufsausbildung
 
-7. Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, Arbeiten im Team,
+Die Berufsausbildung dauert drei Jahre.
 
-8. Einrichten von Arbeitsplätzen,
+# § 3 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
 
-9. Bedienen und in Stand halten von Geräten, Werkzeugen, Maschinen und Anlagen,
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden oder von den Ausbildern und Ausbilderinnen, abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-10. Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteilen,
+(2) Die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten sind so zu vermitteln, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren im eigenen Arbeitsbereich ein.
 
-11. Prüfen, Bewerten und Vorbereiten von Untergründen,
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
-12. Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen,
+(1) Die Berufsausbildung gliedert sich in:
 
-13. Durchführen von qualitätssichernden Maßnahmen.
+1. fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
-# § 6 – Ausbildungsberufsbild Maler und Lackierer/Malerin und Lackiererin
+2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Fachrichtungen
 
-Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+a) Gestaltung und Instandhaltung,
 
-1. in der Fachrichtung Gestaltung und Instandhaltung:
+b) Energieeffizienz- und Gestaltungstechnik,
 
-a) Berufsbildung, Arbeitsrecht und Tarifrecht,
+c) Kirchenmalerei und Denkmalpflege,
 
-b) Aufbau und Organisation des Ausbildungsbetriebes,
+d) Bauten- und Korrosionsschutz oder
 
-c) Sicherheit und Gesundheitsschutz bei der Arbeit,
+e) Ausbautechnik und Oberflächengestaltung sowie
 
-d) Umweltschutz,
+3. fachrichtungsübergreifende integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-e) Kundenorientierung,
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-f) Umgang mit Informations- und Kommunikationstechniken,
+(2) Die Berufsbildpositionen der fachrichtungsübergreifenden, berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-g) Entwerfen und Ausführen von Gestaltungsarbeiten,
+1. Gestalten von kundenorientierten Arbeitsprozessen,
 
-h) Herstellen von Beschriftungen und Kommunikationsmitteln,
+2. Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-i) Durchführen von Maßnahmen zum Holz- und Bautenschutz,
+3. Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
-k) Durchführen von Energiesparmaßnahmen, Ausbau- und Montagearbeiten,
+4. Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen,
 
-l) Durchführen von qualitätssichernden Maßnahmen;
+5. Be- und Verarbeiten von Werk- und Hilfsstoffen sowie Bearbeiten von Bauteilen,
 
-2. in der Fachrichtung Kirchenmalerei und Denkmalpflege:
+6. Prüfen, Bewerten und Vorbereiten von Untergründen,
 
-a) Berufsbildung, Arbeitsrecht und Tarifrecht,
+7. Herstellen, Bearbeiten, Beschichten, Bekleiden, Gestalten und Instandhalten von Oberflächen,
 
-b) Aufbau und Organisation des Ausbildungsbetriebes,
+8. Durchführen von Putz-, Dämm- und Trockenbauarbeiten sowie
 
-c) Sicherheit und Gesundheitsschutz bei der Arbeit,
+9. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-d) Umweltschutz,
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung sind:
 
-e) Kundenorientierung,
+1. Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen, sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-f) Umgang mit Informations- und Kommunikationstechniken,
+2. Entwerfen und Umsetzen von Konzepten für die Raum- und Fassadengestaltung,
 
-g) Herstellen von Werk- und Beschichtungsstoffen nach historischen Rezepturen,
+3. Gestalten von Oberflächen mit Mustern, mit durch Werkzeuge oder Geräte hergestellten Strukturen (Werkzeugstrukturen) und Beschichtungsstoffen,
 
-h) Ausführen von historischen und gestalterischen Arbeitstechniken,
+4. Verlegen von Wand-, Decken- und Bodenbelägen sowie Bekleiden von Decken und Wänden,
 
-i) Durchführen von Instandsetzungsmaßnahmen im Rahmen der Denkmalpflege,
+5. Herstellen von Beschriftungen und Kommunikationsmitteln,
 
-k) Ausführen von Reproduktionen und Rekonstruktionen nach historischen Vorlagen,
+6. Durchführen von Maßnahmen zum Holz- und Bautenschutz sowie zum Brandschutz,
 
-l) Durchführen von qualitätssichernden Maßnahmen;
+7. Durchführen von Energieeffizienzmaßnahmen an Decken-, Wand- und Bodenflächen sowie
 
-3. in der Fachrichtung Bauten- und Korrosionsschutz:
+8. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-a) Berufsbildung, Arbeitsrecht und Tarifrecht,
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 2 und 4 bis 7 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-b) Aufbau und Organisation des Ausbildungsbetriebes,
+(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Energieeffizienz- und Gestaltungstechnik sind:
 
-c) Sicherheit und Gesundheitsschutz bei der Arbeit,
+1. Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-d) Umweltschutz,
+2. Prüfen, Bewerten und Vorbereiten von Untergründen für Energieeffizienzmaßnahmen im Innen- und Außenbereich,
 
-e) Kundenorientierung,
+3. Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Erstellen von Wärmedämm-Verbundsystemen,
 
-f) Umgang mit Informations- und Kommunikationstechniken,
+4. Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Auftragen von Wärmedämmputzen,
 
-g) Einrichten von Baustellen, Bedienen und in Stand halten von Geräten, Maschinen und Anlagen,
+5. Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Montieren von System- und Fertigelementen,
 
-h) In Stand halten und in Stand setzen von Bauwerken und Anlagen,
+6. Durchführen von Energieeffizienzmaßnahmen an Innenflächen,
 
-i) Durchführen von Korrosionsschutzmaßnahmen,
+7. Gestalten der Oberflächen von Fassaden und Räumen sowie
 
-k) Durchführen von Schutz- und Instandsetzungsmaßnahmen an Bauwerken und Bauteilen aus Beton,
+8. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-l) Herstellen von Kommunikationsmitteln für Sicherheits- und Leitfunktionen,
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 3 bis 7 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-m) Durchführen von qualitätssichernden Maßnahmen.
+(5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege sind:
 
-# § 7 – Ausbildungsrahmenpläne
+1. Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 1 für die berufliche Grundbildung und für die berufliche Fachbildung und die in § 6 genannten Fertigkeiten und Kenntnisse nach der in der Anlage 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von den Ausbildungsrahmenplänen innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
+2. Herstellen von Werk- und Beschichtungsstoffen nach historischen Rezepturen,
 
-# § 8 – Ausbildungsplan
+3. Ausführen von historischen und gestalterischen Arbeitstechniken,
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
+4. Durchführen von Instandsetzungsmaßnahmen im Rahmen der Denkmalpflege,
 
-# § 9 – Berichtsheft
+5. Ausführen von Reproduktionen von historischen Objekten und Rekonstruktionen an historischen Räumen und Objekten, unter Berücksichtigung von Untergründen, nach historischen Vorlagen sowie
 
-Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
+6. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-# § 10 – Zwischenprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
+(6) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Bauten- und Korrosionsschutz sind:
 
-(1) Während der Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin ist zur Ermittlung des Ausbildungsstandes eine Zwischenprüfung durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres stattfinden.
+1. Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 Abschnitt I für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+2. Einrichten von Baustellen sowie Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen,
 
-(3) Der Prüfling soll in insgesamt höchstens acht Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und innerhalb dieser Zeit in insgesamt höchstens zehn Minuten hierüber ein Fachgespräch führen. Weiter soll er in insgesamt höchstens 180 Minuten Aufgaben, die im Zusammenhang mit der Arbeitsaufgabe stehen, schriftlich lösen. Für die Arbeitsaufgabe kommt insbesondere das Beschichten von Oberflächen unter Berücksichtigung von Gestaltungsgrundsätzen in Betracht.
+3. Durchführen von Instandhaltungsarbeiten an und in Bauwerken sowie an zu beschichtenden Anlagen, auch jeweils deren Bestandteilen,
 
-(4) Hierbei soll der Prüfling zeigen, dass er die Arbeitsaufgabe planen, notwendige Werkstoffe und Werkzeuge festlegen, den Arbeitsplatz einrichten, den Unfallschutz, den Gesundheitsschutz bei der Arbeit und den Umweltschutz beachten kann.
+4. Durchführen von Korrosionsschutzmaßnahmen an Metallen,
 
-# § 11 – Abschlussprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
+5. Durchführen von Schutz- und Instandsetzungsmaßnahmen von Bauwerken und Bauteilen aus Beton,
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 in den Abschnitten I und II aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+6. Aufbringen von Sicherheitskennzeichnungen und Straßenmarkierungen sowie
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Beschichten, Bekleiden, Applizieren und in Stand setzen eines Objektes. Dabei soll der Prüfling zeigen, dass er den Arbeitsablauf unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+7. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-(3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Oberflächentechnik, Instandsetzung sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Oberflächentechnik und Instandsetzung sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen.
+(7) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Ausbautechnik und Oberflächengestaltung sind:
 
-1. Für den Prüfungsbereich Oberflächentechnik kommt insbesondere in Betracht:
+1. Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
-Beschreiben der Vorgehensweise zur Herstellung von Oberflächen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte für die Ausführung des Kundenauftrages planen, Applikations-, Putz- und Klebetechniken anwenden, Werk-, Hilfs- und Beschichtungsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter ökologischen, ökonomischen und gestaltungstechnischen Gesichtspunkten einsetzen und Flächen-, Kosten- und Mengenberechnungen durchführen kann.
+2. Ausführen von Ausbau- und Montagearbeiten,
 
-2. Für den Prüfungsbereich Instandsetzung kommt insbesondere in Betracht:
+3. Montieren und Gestalten von Systemelementen und Fertigteilen, einschließlich Unterkonstruktionen,
 
-Beschreiben der Vorgehensweise zur Vorbereitung und Instandsetzung von Untergründen und Oberflächen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte für die Ausführung des Kundenauftrages planen, Befestigungs-, Armierungs- und Beschichtungssysteme, Dämm- und Trockenbausysteme auswählen, Werkzeuge und Geräte einsetzen sowie Material- und Zeitbedarf ermitteln kann.
+4. Verarbeiten von Dämm- und Isolierstoffen,
 
-3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+5. Vorbereiten und Herstellen von Untergründen und Oberflächen, insbesondere Putzoberflächen, für die weitere Gestaltung,
 
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+6. Ausführen von Raum- und Fassadengestaltungen sowie
 
-(4) Für Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+7. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
-|     |                                                 |              |
-|:----|:------------------------------------------------|-------------:|
-| 1\. | im Prüfungsbereich Oberflächentechnik           | 150 Minuten, |
-| 2\. | im Prüfungsbereich Instandsetzung               | 150 Minuten, |
-| 3\. | im Prüfungsbereich Wirtschafts- und Sozialkunde |  60 Minuten. |
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 2 bis 6 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-(5) Der Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(8) Die Berufsbildpositionen, die im Zusammenhang mit den in Absätzen 2 bis 7 genannten Fertigkeiten, Kenntnissen und Fähigkeiten zu vermitteln sind, sind:
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:  
+1. Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
-|     |                                              |             |
-|:----|:---------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Oberflächentechnik           | 40 Prozent, |
-| 2\. | Prüfungsbereich Instandsetzung               | 40 Prozent, |
-| 3\. | Prüfungsbereich Wirtschafts- und Sozialkunde | 20 Prozent. |
+2. Sicherheit und Gesundheit bei der Arbeit,
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+3. Umweltschutz und Nachhaltigkeit sowie
 
-# § 12 – Zwischenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin
+4. digitalisierte Arbeitswelt.
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
+# § 5 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-(2) Für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin nach § 6 Nr. 1 bis 3 dieser Verordnung gilt die Abschlussprüfung im Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin als Zwischenprüfung im Sinne des § 39 der Handwerksordnung. Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 1 ergeben sich aus § 11 Abs. 1 bis 4 dieser Verordnung.
+(1) Die Berufsausbildung zum Maler und Lackierer und zur Malerin und Lackiererin ist in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu ergänzen und zu vertiefen:
 
-# § 13 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Gestaltung und Instandhaltung
+1. im ersten Ausbildungsjahr der Berufsausbildung in zwei Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
 
-(1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+a) Nummer 4 Buchstabe a und c,
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 20 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Gestalten und Bearbeiten eines Objektes unter Anwendung von Beschichtungs-, Bekleidungs-, Applikations- und Instandhaltungstechniken. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+b) Nummer 5 Buchstabe a und b sowie f bis h,
 
-(3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Gestaltung, Instandhaltung und Bautenschutz sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Gestaltung sowie Instandhaltung und Bautenschutz sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs-, Beschichtungsstoffen und Bauteilen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann.
+c) Nummer 6 Buchstabe b, c und e und
 
-1. Für den Prüfungsbereich Gestaltung kommt insbesondere in Betracht:
+d) Nummer 7 Buchstabe a bis e,
 
-Beschreiben der Vorgehensweise bei der Durchführung von Fassaden-, Raum- oder Objektgestaltungen; Umsetzen von dekorativen und kommunikativen Gestaltungen; Anwenden von Übertragungstechniken. Dabei soll der Prüfling zeigen, dass er die Ausführung des Kundenauftrages planen, Farbentwürfe und Materialpläne erstellen, dabei Oberflächen- und Materialstrukturen, Oberflächeneffekte und Kontraste einbeziehen, Farbordnungssysteme auswählen sowie Produktinformationen nutzen, Stilepochen und -merkmale erkennen sowie Präsentationstechniken einsetzen kann.
+2. im zweiten Ausbildungsjahr der Berufsausbildung in drei Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
 
-2. Für den Prüfungsbereich Instandhaltung und Bautenschutz kommt insbesondere in Betracht:
+a) Nummer 2 Buchstabe n,
 
-Beschreiben der Vorgehensweise bei der Instandsetzung, Instandhaltung und dem Schutz von Bauten, Bauteilen, Räumen und Objekten einschließlich der Ermittlung und Eingrenzung von Schäden und Fehlern und deren Beseitigung. Dabei soll der Prüfling zeigen, dass er die Ausführung des Kundenauftrages unter Beachtung von Merkblättern, technischen Richtlinien und Normen planen sowie Flächen, Kosten und Mengen berechnen kann.
+b) Nummer 6 Buchstabe k und l,
 
-3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+c) Nummer 7 Buchstabe f bis i und
 
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+d) Nummer 8,
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+3. im dritten Ausbildungsjahr der Berufsausbildung in drei Wochen
 
-|     |                                                    |              |
-|:----|:---------------------------------------------------|-------------:|
-| 1\. | im Prüfungsbereich Gestaltung                      | 120 Minuten, |
-| 2\. | im Prüfungsbereich Instandhaltung und Bautenschutz | 180 Minuten, |
-| 3\. | im Prüfungsbereich Wirtschafts- und Sozialkunde    |  60 Minuten. |
+a) in der Fachrichtung Gestaltung und Instandhaltung Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt B
 
-(5) Der Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+aa)  
+Nummer 2 Buchstabe d bis h,
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:  
+bb)  
+Nummer 3 Buchstabe c und d,
 
-|     |                                                 |             |
-|:----|:------------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Gestaltung                      | 35 Prozent, |
-| 2\. | Prüfungsbereich Instandhaltung und Bautenschutz | 45 Prozent, |
-| 3\. | Prüfungsbereich Wirtschafts- und Sozialkunde    | 20 Prozent. |
+cc) Nummer 4 Buchstabe b bis e,
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+dd)  
+Nummer 5 Buchstabe a und c,
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+ee)  
+Nummer 6 Buchstabe c und g sowie
 
-# § 14 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Kirchenmalerei und Denkmalpflege
+ff)  
+Nummer 7 Buchstabe a,
 
-(1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+b) in der Fachrichtung Energieeffizienz- und Gestaltungstechnik Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt C
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 24 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Instandsetzen und Gestalten eines Objektes unter Anwendung von historischen und gestalterischen Arbeitstechniken einschließlich Reproduktion nach historischen Vorlagen. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+aa)  
+Nummer 3 Buchstabe a, c, e, g und h,
 
-(3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Gestaltung, Instandsetzung und Reproduktion sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Gestaltung sowie Instandsetzung und Reproduktion sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs-, Beschichtungsstoffen und Bauteilen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann.
+bb)  
+Nummer 4 Buchstabe a bis c,
 
-1. Für den Prüfungsbereich Gestaltung kommt insbesondere in Betracht:
+cc) Nummer 5 Buchstabe b,
 
-Beschreiben der Vorgehensweise bei der Gestaltung von Bauwerken, Räumen und Objekten. Dabei soll der Prüfling zeigen, dass er für die Ausführung des Kundenauftrages Ornamente entwickeln und übertragen, Entwürfe farbig gestalten, dekorative und historische Mal-, Schrift- und Arbeitstechniken auswählen und zuordnen kann. Dabei sollen Stilepochen und Farbordnungen berücksichtigt werden.
+dd)  
+Nummer 6 Buchstabe a und
 
-2. Für den Prüfungsbereich Instandsetzung und Reproduktion kommt insbesondere in Betracht:
+ee)  
+Nummer 7 Buchstabe e und f,
 
-Beschreiben der Vorgehensweise bei der Konservierung, Instandsetzung und Instandhaltung von historischen Oberflächen und Untergründen. Dabei soll der Prüfling zeigen, dass er die Ausführung des Kundenauftrages unter Beachtung von Richtlinien zur Denkmalpflege planen, Befunde analysieren, historische Arbeitstechniken und Rezepturen für Werk- und Beschichtungsstoffe unter Beachtung von Merkblättern, technischen Richtlinien und Normen berücksichtigen sowie Flächen, Kosten und Mengen berechnen kann.
+c) in der Fachrichtung Kirchenmalerei und Denkmalpflege Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt D
 
-3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+aa)  
+Nummer 3 Buchstabe b bis k,
 
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+bb)  
+Nummer 4 Buchstabe a bis e, h bis j und l sowie
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+cc) Nummer 5 Buchstabe b bis e,
 
-|     |                                                    |              |
-|:----|:---------------------------------------------------|-------------:|
-| 1\. | im Prüfungsbereich Gestaltung                      | 120 Minuten, |
-| 2\. | im Prüfungsbereich Instandsetzung und Reproduktion | 180 Minuten, |
-| 3\. | im Prüfungsbereich Wirtschafts- und Sozialkunde    |  60 Minuten. |
+d) in der Fachrichtung Bauten- und Korrosionsschutz Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt E
 
-(5) Der Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+aa)  
+Nummer 2 Buchstabe a, b und d,
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:  
+bb)  
+Nummer 4 Buchstabe c bis f und
 
-|     |                                                 |             |
-|:----|:------------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Gestaltung                      | 35 Prozent, |
-| 2\. | Prüfungsbereich Instandsetzung und Reproduktion | 45 Prozent, |
-| 3\. | Prüfungsbereich Wirtschafts- und Sozialkunde    | 20 Prozent. |
+cc) Nummer 5 Buchstabe c bis g sowie
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+e) in der Fachrichtung Ausbautechnik und Oberflächengestaltung Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt F
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+aa)  
+Nummer 2 Buchstabe c, e bis i,
 
-# § 15 – Gesellenprüfung für die Berufsausbildung Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Bauten- und Korrosionsschutz
+bb)  
+Nummer 3 Buchstabe e bis i,
 
-(1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+cc) Nummer 4 Buchstabe c bis d,
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 20 Stunden zwei Arbeitsaufgaben, die Kundenaufträgen entsprechen, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten über eine der Arbeitsaufgaben ein Fachgespräch führen. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
+dd)  
+Nummer 5 Buchstabe a, b, d und e sowie
 
-1. Instandsetzen oder Beschichten eines Objektes aus Metall unter Anwendung von Techniken zur Oberflächenvorbereitung und
+ee)  
+Nummer 6 Buchstabe c.
 
-2. Instandsetzen oder Beschichten eines Objektes aus Beton oder mineralischen Baustoffen unter Anwendung von Techniken zur Oberflächenvorbereitung und Bauwerkserhaltung.
+(2) Auf Antrag des Ausbildungsbetriebes lässt die zuständige Stelle zu, dass abweichend von Absatz 1 Satz 1 die zu ergänzenden und zu vertiefenden Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsbetrieb vermittelt werden, wenn der Ausbildungsbetrieb dazu in gleicher inhaltlicher und zeitlicher Ausgestaltung wie in der überbetrieblichen Ausbildung in der Lage ist.
 
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+# § 6 – Ausbildungsplan
 
-(3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Korrosionsschutz, Bautenschutz sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Korrosionsschutz und Bautenschutz sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs-, Beschichtungsstoffen und Bauteilen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-1. Für den Prüfungsbereich Korrosionsschutz kommt insbesondere in Betracht:
+# § 8 – Inhalt des Teiles 1
 
-Beschreiben der Vorgehensweise bei der Durchführung von Korrosionsschutzmaßnahmen an Objekten aus Metall und an Stahlbauwerken. Dabei soll der Prüfling zeigen, dass er die Ausführung des Kundenauftrages planen, Korrosionsschutzsysteme entsprechend der Belastung von Objekten und Bauwerken sowie erforderliche Entrostungsverfahren, Maßnahmen zur Oberflächenvorbereitung, Beschichtungssysteme und metallische Überzüge auswählen und beschreiben, den Einsatz von Anlagen und Geräten, Gerüsten und Maßnahmen zum Schutz der Umwelt unter Beachtung von Normen, technischen Richtlinien und Merkblättern einbeziehen, sowie Flächen, Kosten und Mengen berechnen kann.
+Teil 1 der Gesellenprüfung erstreckt sich auf
 
-2. Für den Prüfungsbereich Bautenschutz kommt insbesondere in Betracht:
+1. die in Anlage Abschnitt A genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-Beschreiben der Vorgehensweise bei der Instandsetzung und Beschichtung von Bauteilen und Bauwerken aus Beton. Dabei soll der Prüfling zeigen, dass er die Ausführung des Kundenauftrages planen, die Ermittlung und Diagnose von Schäden durchführen, Instandsetzungs-, Untergrundvorbereitungsverfahren und Materialien unter Beachtung von Normen, technischen Regeln und Merkblättern auswählen und beschreiben sowie Flächen, Kosten und Mengen berechnen kann.
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-3. Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+# § 9 – Prüfungsbereich des Teiles 1
 
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
+(1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Herstellen von Oberflächen und Durchführen von Instandsetzungsmaßnahmen statt.
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+(2) Im Prüfungsbereich Herstellen von Oberflächen und Durchführen von Instandsetzungsmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-|     |                                                 |              |
-|:----|:------------------------------------------------|-------------:|
-| 1\. | im Prüfungsbereich Korrosionsschutz             | 180 Minuten, |
-| 2\. | im Prüfungsbereich Bautenschutz                 | 120 Minuten, |
-| 3\. | im Prüfungsbereich Wirtschafts- und Sozialkunde |  60 Minuten. |
+1. Aufträge zu erfassen sowie Arbeitsabläufe unter Beachtung technischer, wirtschaftlicher und organisatorischer Vorgaben zu planen,
 
-(5) Der Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+2. Arbeitsplätze einzurichten, zu unterhalten und zu räumen,
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:  
+3. Arbeitsschritte für die Ausführung des Kundenauftrages zu planen,
 
-|     |                                              |             |
-|:----|:---------------------------------------------|------------:|
-| 1\. | Prüfungsbereich Korrosionsschutz             | 45 Prozent, |
-| 2\. | Prüfungsbereich Bautenschutz                 | 35 Prozent, |
-| 3\. | Prüfungsbereich Wirtschafts- und Sozialkunde | 20 Prozent. |
+4. Farb- und Materialpläne zu erstellen,
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+5. Untergründe zu prüfen und vorzubereiten,
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+6. Vorgehensweisen zur Vorbereitung, Herstellung und Instandsetzung von Untergründen und Oberflächen zu unterscheiden,
 
-# § 16 – Übergangsregelung
+7. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen, ökonomischen als auch gestaltungstechnischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
-(1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+8. Oberflächen nach Farb- und Materialplänen durch mindestens zwei sach- und fachgerechte Beschichtungstechniken herzustellen,
 
-(2) Ist ein Berufsgrundbildungsjahr nach den Vorschriften der Berufsgrundbildungsjahr-Anrechnungs-Verordnung anzurechnen, sind die bisherigen Vorschriften auf die Ausbildungsverhältnisse, die vor dem 1. August 2004 beginnen, weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
+9. Applikationstechniken zu beschreiben,
 
-(3) Auf Berufsausbildungsverhältnisse, die in der Zeit vom 1. August 2003 bis zum 31. Juli 2004 beginnen, sind die Vorschriften der in § 17 Satz 2 genannten Verordnung weiter anzuwenden, wenn für die Ausbildung in diesen Ausbildungsberufen nach Landesrecht der Besuch eines schulischen Berufsgrundbildungsjahres vorgesehen ist.
+10. Schriften, Symbole und Ornamente zu unterscheiden, herzustellen und aufzubringen,
 
-# § 17 – Inkrafttreten, Außerkrafttreten
+11. Muster oder Werkzeugstrukturen zu unterscheiden und auszuwählen,
 
-Diese Verordnung tritt am 1. August 2003 in Kraft.
+12. mit arbeitsspezifischen Gefahrstoffen umzugehen,
 
-# Anlage 1 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
+13. Techniken zur Übertragung von kommunikativen und dekorativen Gestaltungselementen aus Vorlagen anzuwenden,
 
-(Fundstelle: BGBl. I 2003, 1071 - 1076)  
+14. Dämm- und Trockenbautechniken zu unterscheiden und anzuwenden,
+
+15. Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen mit festen, pastösen und flüssigen Stoffen herzustellen,
+
+16. den Flächen-, Material- und Zeitbedarf für die Aufgabenstellung nach Absatz 3 ermitteln und dazu die Kostenberechnung durchzuführen,
+
+17. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz durchzuführen und
+
+18. die Vorgehensweise bei der Erstellung des Prüfungsproduktes zu beschreiben.
+
+(3) In der Prüfung soll der Prüfling ein Prüfungsprodukt erstellen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Nach der Fertigung des Prüfungsproduktes mit der dazugehörigen Dokumentation wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Weiterhin soll er Aufgaben schriftlich bearbeiten. Die Prüfungszeit für das Prüfungsprodukt und die Dokumentation beträgt 14 Stunden. Die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens 10 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
+
+# § 10 – Inhalte des Teiles 2
+
+(1) Teil 2 der Gesellenprüfung in der Fachrichtung Gestaltung und Instandhaltung erstreckt sich auf
+
+1. die in der Anlage Abschnitt A, B und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+(2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
+
+# § 11 – Prüfungsbereiche des Teiles 2
+
+Teil 2 der Gesellenprüfung findet in der Fachrichtung Gestaltung und Instandhaltung in den folgenden Prüfungsbereichen statt:
+
+1. Ausführen eines Kundenauftrags,
+
+2. Durchführen von Fassaden-, Raum- und Objektgestaltungen,
+
+3. Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen sowie
+
+4. Wirtschafts- und Sozialkunde.
+
+# § 12 – Prüfungsbereich Ausführen eines Kundenauftrags
+
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+
+2. Gestaltungskonzepte zu erstellen,
+
+3. Untergründe zu beurteilen und vorzubereiten,
+
+4. Oberflächen unter Berücksichtigung des Farb- und Gestaltungskonzepts herzustellen,
+
+5. Entwürfe für kommunikative und dekorative Gestaltungen anzufertigen und umzusetzen,
+
+6. Oberflächen mit Mustern und Werkzeugstrukturen zu gestalten und zu gliedern,
+
+7. Oberflächen instand zu halten,
+
+8. Maßnahmen zur Qualitätssicherung durchzuführen,
+
+9. Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
+
+10. die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu begründen.
+
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+
+# § 13 – Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen
+
+(1) Im Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Fassaden-, Raum- oder Objektgestaltungen zu unterscheiden,
+
+2. Arbeitsprozesse kundenorientiert zu gestalten,
+
+3. die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+
+4. Stilepochen und -merkmale zu unterscheiden,
+
+5. Farbordnungssysteme auszuwählen,
+
+6. Gestaltungsgrundlagen zu unterscheiden und bei der Erstellung von Gestaltungskonzepten zu berücksichtigen und
+
+7. Dekorationen und Kommunikationsmittel zu entwerfen und deren Aufbringung zu beschreiben.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 14 – Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen
+
+(1) Im Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei Instandhaltung und dem Schutz von Bauten, Bauteilen, Räumen und Objekten zu unterscheiden,
+
+2. Prüfverfahren für Untergründe auszuwählen und Ergebnisse der Prüfung zu bewerten und zu dokumentieren,
+
+3. Schäden zu ermitteln, Ursachen der Schäden zu beschreiben und Maßnahmen zur Schadensbeseitigung darzustellen,
+
+4. Aufmaße normgerecht aus Plänen zu erstellen,
+
+5. Verlegepläne für Decken-, Wand- und Bodenbeläge zu erstellen,
+
+6. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
+
+7. die Verarbeitung von in Nummer 5 genannten Belägen darzustellen,
+
+8. Maßnahmen zum Holz- und Bauten- sowie zum Brandschutz zu beschreiben und
+
+9. die Instandsetzung von Flächen, auch unter Berücksichtigung der Energieeffizienz, zu erläutern.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
+
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
+
+1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Herstellen von Oberflächen sowie<br />
+Durchführen von<br />
+Instandsetzungsmaßnahmen</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbody></table>
+
+2. |                                |                 |
+|:-------------------------------|----------------:|
+| Ausführen eines Kundenauftrags | mit 40 Prozent, |
+
+3. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von Fassaden-,<br />
+Raum- und Objektgestaltungen</td><td style="text-align: right;">mit 10 Prozent,</td></tr></tbody></table>
+
+4. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von<br />
+Instandhaltungs- und<br />
+Bautenschutzmaßnahmen</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbody></table>
+
+5. |                              |                 |
+|:-----------------------------|----------------:|
+| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+
+(2) Die Gesellenprüfung in der Fachrichtung Gestaltung und Instandhaltung ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
+
+4. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+# § 17 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) Durchführen von Fassaden-, Raum- und Objektgestaltungen,
+
+b) Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen oder
+
+c) Wirtschafts- und Sozialkunde,
+
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+# § 18 – Inhalt des Teiles 2
+
+Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und Gestaltungstechnik erstreckt sich auf
+
+1. die in Anlage Abschnitt A, C und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+# § 19 – Prüfungsbereiche des Teiles 2
+
+Die Gesellenprüfung findet in der Fachrichtung Energieeffizienz- und Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
+
+1. Ausführen eines Kundenauftrags,
+
+2. Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen,
+
+3. Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen sowie
+
+4. Wirtschafts- und Sozialkunde.
+
+# § 20 – Prüfungsbereich Ausführen eines Kundenauftrags
+
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl technischer, gestalterischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+
+2. Untergründe für Energieeffizienzmaßnahmen zu prüfen, zu bewerten und vorzubereiten,
+
+3. Energieeffizienzmaßnahmen durchzuführen,
+
+4. Anschlüsse zu anderen Bauteilen auszubilden,
+
+5. Flächen unter Berücksichtigung der Gesamtwirkung zu gestalten,
+
+6. Oberflächen und Systeme instand zu halten,
+
+7. Maßnahmen zur Qualitätssicherung durchzuführen,
+
+8. Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
+
+9. die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu begründen.
+
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
+
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+
+# § 21 – Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen
+
+(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen und deren jeweiligen Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen zu unterscheiden,
+
+2. Arbeitsprozesse kundenorientiert zu gestalten,
+
+3. Auswahl und Anwendung von Prüfverfahren für Untergründe im Außenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+
+4. die Prüfung baulicher Gegebenheiten im Außenbereich zu beschreiben,
+
+5. die Anwendung von Gestaltungsprinzipien im Außenbereich zu beschreiben,
+
+6. Aufmaße normgerecht aus Plänen zu erstellen,
+
+7. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an Außenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
+
+8. Energieeffizienzmaßnahmen entsprechend der Windlastzonen, Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen darzustellen und Befestigungstechniken zu beschreiben,
+
+9. Regeln des Brandschutzes einzuhalten und
+
+10. Ursachen von Qualitätsabweichungen im Außenbereich darzulegen und Maßnahmen zur Behebung zu beschreiben.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 22 – Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen
+
+(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen zu unterscheiden,
+
+2. die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+
+3. Auswahl und Anwendung von Prüfverfahren für Untergründe im Innenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+
+4. die Prüfung baulicher Gegebenheiten im Innenbereich zu beschreiben,
+
+5. die Anwendung von Gestaltungsprinzipien im Innenbereich zu beschreiben,
+
+6. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an Innenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
+
+7. Regeln des Schallschutzes darzulegen und
+
+8. Ursachen von Qualitätsabweichungen im Innenbereich darzulegen und Maßnahmen zur Behebung zu beschreiben.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 23 – Prüfungsbereich Wirtschafts- und Sozialkunde
+
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 24 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Energieeffizienz- und Gestaltungstechnik wie folgt zu gewichten:
+
+1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Herstellen von Oberflächen sowie<br />
+Durchführen von<br />
+Instandsetzungsmaßnahmen</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbody></table>
+
+2. |                                |                 |
+|:-------------------------------|----------------:|
+| Ausführen eines Kundenauftrags | mit 40 Prozent, |
+
+3. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von<br />
+Energieeffizienzmaßnahmen<br />
+an Außenflächen von<br />
+Bauten oder Anlagen und deren<br />
+jeweiligen Bestandteilen</td><td style="text-align: right;">mit 10 Prozent,</td></tr></tbody></table>
+
+4. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von<br />
+Energieeffizienzmaßnahmen<br />
+an Innenflächen von<br />
+Bauten oder Anlagen und<br />
+deren Bestandteilen</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbody></table>
+
+5. |                              |                 |
+|:-----------------------------|----------------:|
+| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+
+(2) Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und Gestaltungstechnik ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 25 wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
+
+4. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+# § 25 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen und deren jeweiligen Bestandteilen,
+
+b) Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen oder
+
+c) Wirtschafts- und Sozialkunde,
+
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+# § 26 – Inhalt des Teiles 2
+
+Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und Denkmalpflege erstreckt sich auf
+
+1. die in Anlage Abschnitt A, D und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+# § 27 – Prüfungsbereiche des Teiles 2
+
+Die Gesellenprüfung findet in der Fachrichtung Kirchenmalerei und Denkmalpflege in den folgenden Prüfungsbereichen statt:
+
+1. Ausführen eines Kundenauftrags,
+
+2. Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten,
+
+3. Durchführen von Maßnahmen zur Reproduktion an historischen Objekten sowie
+
+4. Wirtschafts- und Sozialkunde.
+
+# § 28 – Prüfungsbereich Ausführen eines Kundenauftrags
+
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, denkmalpflegerischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+
+2. Gestaltungskonzepte entsprechend der Stilepochen und vorgegebener Befunde zu erstellen,
+
+3. Untergründe zu beurteilen und vorzubereiten,
+
+4. Werkstoff- und Technikproben anzufertigen und Muster zu erstellen,
+
+5. historische und gestalterische Arbeitstechniken durchzuführen und Farben nachzumischen,
+
+6. historische Oberflächen instand zu halten,
+
+7. Maßnahmen zur Qualitätssicherung durchzuführen,
+
+8. Kunden über Instandhaltungsintervalle zu informieren und
+
+9. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
+
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+
+# § 29 – Prüfungsbereich Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten
+
+(1) Im Prüfungsbereich Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Instandhaltung und Rekonstruktion von historischen Oberflächen und Untergründen zu unterscheiden,
+
+2. Arbeitsprozesse kundenorientiert zu gestalten,
+
+3. vorgegebene Befunde zur Instandhaltung und Rekonstruktion zu analysieren,
+
+4. Gestaltungskonzepte zur Instandhaltung und Rekonstruktion entsprechend der Stilepochen und -merkmale zu erstellen,
+
+5. Auswahl und Anwendung von Prüfverfahren für Untergründe zu beschreiben, vorgegebene Ergebnisse einer Prüfung zu bewerten und das Prüfen baulicher Gegebenheiten zu beschreiben,
+
+6. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen, ökonomischen, denkmalpflegerischen als auch historischen Gesichtspunkten zu unterscheiden und auszuwählen,
+
+7. Aufmaße normgerecht aus Plänen zu erstellen,
+
+8. Gefahrenpotentiale von historischen Werk- und Hilfsstoffen zu erkennen und den Umgang mit arbeitsspezifischen Gefahrstoffen zu beschreiben,
+
+9. Ornamente zu entwickeln und die Übertragung zu erläutern,
+
+10. dekorative Mal-, Schrift- und Arbeitstechniken zu unterscheiden und auszuwählen,
+
+11. historische Mal-, Schrift- und Arbeitstechniken zu unterscheiden und auszuwählen,
+
+12. Übertragungstechniken an historischen Oberflächen darzustellen.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 30 – Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
+
+(1) Im Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Reproduktion von historischen Oberflächen und Untergründen zu unterscheiden,
+
+2. die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen sowie Vorgaben der Denkmalpflege bei der Reproduktion zu planen,
+
+3. vorgegebene Befunde zur Reproduktion zu analysieren,
+
+4. Gestaltungskonzepte zur Reproduktion entsprechend der Stilepochen und -merkmale zu erstellen,
+
+5. Auswahl und Anwendung von Prüfverfahren für Reproduktionen zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+
+6. die Herstellung von Reproduktions- und Beschichtungsstoffen auch nach historischen Rezepturen zu beschreiben und
+
+7. Übertragungstechniken an historischen Reproduktionsobjekten darzustellen.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 31 – Prüfungsbereich Wirtschafts- und Sozialkunde
+
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 32 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
+
+1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Herstellen von Oberflächen sowie<br />
+Durchführen von<br />
+Instandsetzungsmaßnahmen</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbody></table>
+
+2. |                                |                 |
+|:-------------------------------|----------------:|
+| Ausführen eines Kundenauftrags | mit 40 Prozent, |
+
+3. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von Maßnahmen<br />
+zur Instandhaltung und<br />
+Rekonstruktion an<br />
+historischen Objekten</td><td style="text-align: right;">mit 10 Prozent</td></tr></tbody></table>
+
+4. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von Maßnahmen<br />
+zur Reproduktion an<br />
+historischen Objekten</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbody></table>
+
+5. |                              |                 |
+|:-----------------------------|----------------:|
+| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+
+(2) Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und Denkmalpflege ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 33 wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
+
+4. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+# § 33 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten,
+
+b) Durchführen von Maßnahmen zur Reproduktion an historischen Objekten oder
+
+c) Wirtschafts- und Sozialkunde,
+
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+# § 34 – Inhalt des Teiles 2
+
+Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz erstreckt sich auf
+
+1. die in Anlage Abschnitt A, E und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+# § 35 – Prüfungsbereiche des Teiles 2
+
+Die Gesellenprüfung findet in der Fachrichtung Bauten- und Korrosionsschutz in den folgenden Prüfungsbereichen statt:
+
+1. Ausführen eines Kundenauftrags,
+
+2. Durchführen von Bautenschutzmaßnahmen,
+
+3. Durchführen von Korrosionsschutzmaßnahmen sowie
+
+4. Wirtschafts- und Sozialkunde.
+
+# § 36 – Prüfungsbereich Ausführen eines Kundenauftrags
+
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+
+2. Untergründe zu prüfen, zu bewerten und vorzubereiten,
+
+3. Beschichtungs- und Materialpläne zu erstellen,
+
+4. Sanierungen durchzuführen,
+
+5. Schichtdickenmessungen sowie objektbezogene Witterungs- und klimatische Messungen durchzuführen und zu dokumentieren,
+
+6. Maßnahmen zur Qualitätssicherung durchzuführen,
+
+7. Kunden über Instandhaltungsintervalle zu informieren,
+
+8. baubegleitende Dokumentationen zu erstellen und
+
+9. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
+
+(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
+
+1. Instandsetzen eines Objektes aus Metall unter Anwendung von Techniken zur Oberflächenvorbereitung und
+
+2. Instandsetzen eines Objektes aus Beton unter Anwendung von Techniken zur Oberflächenvorbereitung und zur Bauwerkserhaltung.
+
+(3) Der Prüfling soll zwei Arbeitsaufgaben durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm über jede Arbeitsaufgabe ein situatives Fachgespräch geführt.
+
+(4) Die Prüfungszeit für die beiden Arbeitsaufgaben, für die jeweiligen Dokumentationen und für die situativen Fachgespräche beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauern die situativen Fachgespräche insgesamt höchstens 15 Minuten.
+
+# § 37 – Prüfungsbereich Durchführen von Bautenschutzmaßnahmen
+
+(1) Im Prüfungsbereich Durchführen von Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Bautenschutzmaßnahmen an Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
+
+2. Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen und Bauwerken aus Beton und mineralischen Untergründen zu unterscheiden,
+
+3. Arbeitsprozesse kundenorientiert zu gestalten,
+
+4. Auswahl und Anwendung von Prüfverfahren für Untergründe aus Beton und mineralische Untergründe zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+
+5. das Diagnostizieren von Schäden und Fehlern zu beschreiben,
+
+6. Untergrundvorbereitungs- und Instandsetzungsverfahren auszuwählen und deren Anwendung zu beschreiben,
+
+7. Aufmaße normgerecht aus Plänen zu erstellen,
+
+8. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Bautenschutzmaßnahmen sowohl unter technischen, ökologischen als auch ökonomischen Gesichtspunkten zu unterscheiden und auszuwählen,
+
+9. den Umgang mit arbeitsspezifischen Gefahrstoffen darzustellen,
+
+10. die Vorbereitung von Oberflächen für Bautenschutzmaßnahmen zu beschreiben,
+
+11. den Einsatz von Geräten und Gerüsten unter Beachtung von Normen, technischen Richtlinien und Herstellerinformationen zu beschreiben.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 38 – Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen
+
+(1) Im Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Korrosionsschutzmaßnahmen an Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
+
+2. Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen und Bauwerken aus metallischen Untergründen zu unterscheiden,
+
+3. Auswahl und Anwendung von Prüfverfahren für metallische Untergründe zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+
+4. das Diagnostizieren von Schäden und Fehlern an metallischen Untergründen zu beschreiben,
+
+5. Untergrundvorbereitungs- und Instandsetzungsverfahren für Korrosionsschutzmaßnahmen auszuwählen und deren Anwendung zu beschreiben,
+
+6. die Einrichtung, die Unterhaltung und die Räumung von Baustellen zu beschreiben,
+
+7. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Korrosionsschutzmaßnahmen sowohl unter technischen, ökologischen als auch ökonomischen Gesichtspunkten zu unterscheiden und auszuwählen,
+
+8. Korrosionsschutzsysteme entsprechend der Belastung und Beanspruchung von Objekten, Anlagen und Bauwerken zu unterscheiden und auszuwählen,
+
+9. Maßnahmen zur Vorbereitung von Oberflächen für Korrosionsschutzmaßnahmen, insbesondere Entrostungsverfahren, zu beschreiben,
+
+10. Beschichtungssysteme entsprechend der geforderten Schutzdauer auszuwählen und die Aufbringung zu beschreiben und
+
+11. metallische Überzüge auszuwählen und ihre Aufbringung zu beschreiben.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 39 – Prüfungsbereich Wirtschafts- und Sozialkunde
+
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 40 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
+
+1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Herstellen von Oberflächen sowie<br />
+Durchführen von<br />
+Instandsetzungsmaßnahmen</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbody></table>
+
+2. |                                |                 |
+|:-------------------------------|----------------:|
+| Ausführen eines Kundenauftrags | mit 40 Prozent, |
+
+3. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von<br />
+Bautenschutzmaßnahmen</td><td style="text-align: right;">mit 10 Prozent,</td></tr></tbody></table>
+
+4. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Durchführen von<br />
+Korrosionsschutzmaßnahmen</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbody></table>
+
+5. |                              |                 |
+|:-----------------------------|----------------:|
+| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+
+(2) Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 41 wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
+
+4. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+# § 41 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) Durchführen von Bautenschutzmaßnahmen,
+
+b) Durchführen von Korrosionsschutzmaßnahmen oder
+
+c) Wirtschafts- und Sozialkunde,
+
+2. wenn der benannte Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+# § 42 – Inhalt des Teiles 2
+
+Die Gesellenprüfung in der Fachrichtung Ausbautechnik und Oberflächengestaltung erstreckt sich auf
+
+1. die in Anlage Abschnitt A, F und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
+
+# § 43 – Prüfungsbereiche des Teiles 2
+
+Die Gesellenprüfung findet in der Fachrichtung Ausbautechnik und Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
+
+1. Ausführen eines Kundenauftrags,
+
+2. Ausführen von Ausbauarbeiten,
+
+3. Ausführen von Dämmarbeiten sowie
+
+4. Wirtschafts- und Sozialkunde.
+
+# § 44 – Prüfungsbereich Ausführen eines Kundenauftrags
+
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl technischer, wirtschaftlicher, organisatorischer als auch gestalterischer Vorgaben zu planen und zu dokumentieren,
+
+2. Untergründe für die Montagearbeiten zu beurteilen und vorzubereiten,
+
+3. Unterkonstruktionen zur Befestigung von Systemelementen und Fertigteilen zu erstellen,
+
+4. sowohl Unterdecken, Deckenbekleidungen als auch Wände herzustellen und zu montieren,
+
+5. Anschlüsse zu anderen Bauteilen auszubilden,
+
+6. sowohl Beschichtungs-, Putz- als auch Spachtelarbeiten durchzuführen,
+
+7. Oberflächen unter Berücksichtigung der Gesamtwirkung zu gestalten,
+
+8. dekorative Gestaltungselemente sowohl an Decken als auch an Wänden einzusetzen,
+
+9. Maßnahmen zur Qualitätssicherung durchzuführen,
+
+10. Arbeitsergebnisse zu kontrollieren, zu beurteilen und zu dokumentieren,
+
+11. Abnahmen durchzuführen und Abnahmeprotokolle zu erstellen,
+
+12. Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
+
+13. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
+
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+
+# § 45 – Prüfungsbereich Ausführen von Ausbauarbeiten
+
+(1) Im Prüfungsbereich Ausführen von Ausbauarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Ausbauarbeiten zu unterscheiden,
+
+2. Arbeitsprozesse kundenorientiert zu gestalten,
+
+3. die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+
+4. Verlegepläne für Decken-, Wand- und Bodenelemente zu erstellen,
+
+5. die Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes zu erläutern,
+
+6. die Prüfung der Gegebenheiten für Ausbauarbeiten zu beschreiben,
+
+7. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Ausbauarbeiten sowohl unter technischen, ökologischen, ökonomischen als auch gestalterischen Gesichtspunkten zu unterscheiden und auszuwählen,
+
+8. den Umgang mit arbeitsspezifischen Gefahrstoffen zu beschreiben,
+
+9. Konstruktionen für technische und gestalterische Anforderungen für Ausbauarbeiten zu unterscheiden und auszuwählen,
+
+10. die manuelle und maschinelle Verarbeitung von Funktionsputzen zu beschreiben,
+
+11. die Gestaltung von Oberflächen durch Beschichtungs-, Putz-, Stuck- und Spachtelarbeiten zu beschreiben und
+
+12. die Montage von Stuckelementen und von Dekorelementen zu erläutern.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 46 – Prüfungsbereich Ausführen von Dämmarbeiten
+
+(1) Im Prüfungsbereich Ausführen von Dämmarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
+
+1. Vorgehensweisen bei der Durchführung von Dämmarbeiten zu unterscheiden,
+
+2. die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+
+3. Aufmaße normgerecht aus Plänen zu erstellen,
+
+4. Auswahl und Anwendung von Prüfverfahren für Untergründe zu beschreiben und vorgegebene Situationen auszuwerten und zu bewerten,
+
+5. vorgegebene bauliche Gegebenheiten zu bewerten,
+
+6. Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Dämmarbeiten sowohl unter technischen, ökologischen, ökonomischen als auch gestalterischen Gesichtspunkten zu unterscheiden und auszuwählen,
+
+7. den Einbau von Dämm- und Trennschichten zu erläutern,
+
+8. Unterdeckenbekleidungen, Deckenbekleidungen sowie Wände zu unterscheiden und auszuwählen,
+
+9. Konstruktionen für technische und gestalterische Anforderungen für Dämmarbeiten zu unterscheiden, auszuwählen sowie deren Herstellung und Einbau zu erklären,
+
+10. Brand- und Schallschutzkonstruktionen einschließlich der Anschlüsse zu unterscheiden, auszuwählen und deren Herstellung zu erklären,
+
+11. den Einsatz von Entkopplungsmaterialien und Putzträgern zur Überbrückung unterschiedlicher Bauteile darzustellen und
+
+12. die Montage von Stuck- und Dekorelementen darzustellen.
+
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 75 Minuten.
+
+# § 47 – Prüfungsbereich Wirtschafts- und Sozialkunde
+
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
+
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
+
+(3) Die Prüfungszeit beträgt 60 Minuten.
+
+# § 48 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Ausbautechnik und Oberflächengestaltung wie folgt zu gewichten:
+
+1. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Herstellen von Oberflächen sowie<br />
+Durchführen von<br />
+Instandsetzungsmaßnahmen</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbody></table>
+
+2. |                                |                 |
+|:-------------------------------|----------------:|
+| Ausführen eines Kundenauftrags | mit 40 Prozent, |
+
+3. |                              |                 |
+|:-----------------------------|----------------:|
+| Ausführen von Ausbauarbeiten | mit 10 Prozent, |
+
+4. |                            |                      |
+|:---------------------------|---------------------:|
+| Ausführen von Dämmarbeiten | mit 10 Prozent sowie |
+
+5. |                              |                 |
+|:-----------------------------|----------------:|
+| Wirtschafts- und Sozialkunde | mit 10 Prozent. |
+
+(2) Die Gesellenprüfung in der Fachrichtung Ausbautechnik und Oberflächengestaltung ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 49 wie folgt bewertet worden sind:
+
+1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+2. im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+3. im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
+
+4. in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
+
+5. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+# § 49 – Mündliche Ergänzungsprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1. wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+a) Ausführen von Ausbauarbeiten
+
+b) Ausführen von Dämmarbeiten oder
+
+c) Wirtschafts- und Sozialkunde,
+
+2. wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
+
+3. wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
+
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+# § 50 – Fortsetzung der Berufsausbildung
+
+Wer die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten- und Objektbeschichterin nach der Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) erfolgreich abgeschlossen hat, kann eine Ausbildung zum Maler und Lackierer oder zur Malerin und Lackiererin nach dieser Verordnung fortsetzen, soweit dies in einem – auch neuen – Berufsausbildungsvertrag vereinbart ist. Im Falle des Satzes 1 ist die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten- und Objektbeschichterin auf die ersten zwei Ausbildungsjahre nach dieser Verordnung anzurechnen und ersetzt Teil 1 der Gesellenprüfung nach § 7.
+
+# § 51 – Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) außer Kraft.
+
+# Anlage – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer und zur Malerin und Lackiererin
+
+(Fundstelle: BGBl. I 2021, 2314 - 2333)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abschnitt G: Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Lfd. Nr.
+
+Teil des  
+Ausbildungsberufsbildes
+
+Zu vermittelnde  
+Fertigkeiten, Kenntnisse und Fähigkeiten
+
+Zeitliche Richtwerte  
+in Wochen
+
+1
+
+2
+
+3
+
+4
+
+1
+
+Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht  
+(§ 4 Absatz 8 Nummer 1)
+
+a) den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
+
+b) Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
+
+c) die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
+
+d) die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
+
+e) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
+
+f) Beziehungen des Ausbildungsbetriebs und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+g) Positionen der eigenen Entgeltabrechnung erläutern
+
+ 
+
+ 
+
+ 
+
+h) wesentliche Inhalte von Arbeitsverträgen erläutern
+
+i) Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
+
+ 
+
+2
+
+Sicherheit und Gesundheit bei der Arbeit  
+(§ 4 Absatz 8 Nummer 2)
+
+a) Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+
+b) Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
+
+c) sicheres und gesundheitsgerechtes Arbeiten erläutern
+
+d) technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
+
+e) ergonomische Arbeitsweisen beachten und anwenden
+
+f) Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
+
+g) betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
+
+während  
+der gesamten  
+Ausbildung
+
+3
+
+Umweltschutz und Nachhaltigkeit  
+(§ 4 Absatz 8 Nummer 3)
+
+a) Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
+
+b) bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
+
+c) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
+
+d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
+
+e) Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
+
+f) unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
+
+4
+
+Digitalisierte Arbeitswelt  
+(§ 4 Absatz 8 Nummer 4)
+
+a) mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
+
+b) Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
+
+c) ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
+
+d) Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
+
+ 
+
+ 
+
+ 
+
+e) Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
+
+f) Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
+
+g) Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
+
+h) Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
+
+ 
 
   
 
- 
-
-I. Berufliche Grundbildung - 1. Ausbildungsjahr
-
-Lfd. Nr.
-
-Teil des Ausbildungsberufsbildes
-
-Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
-
-Zeitlicher Richtwert in Wochen im 1. Ausbildungsjahr
-
-1
-
-2
-
-3
-
-4
-
-1
-
-Berufsbildung, Arbeits- und Tarifrecht  
-(§ 5 Nr. 1)
-
-a) Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
-
-b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
-
-c) Möglichkeiten der beruflichen Fortbildung nennen
-
-d) wesentliche Teile des Arbeitsvertrages nennen
-
-e) wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
-
-während der gesamten Ausbildung zu vermitteln
-
-2
-
-Aufbau und Organisation des Ausbildungsbetriebes  
-(§ 5 Nr. 2)
-
-a) Aufbau und Aufgaben des ausbildenden Betriebes erläutern
-
-b) Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
-
-c) Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
-
-d) Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
-
-3
-
-Sicherheit und Gesundheitsschutz bei der Arbeit  
-(§ 5 Nr. 3)
-
-a) Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
-
-b) berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
-
-c) Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
-
-d) Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
-
-4
-
-Umweltschutz  
-(§ 5 Nr. 4)
-
-Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
-
-a) mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
-
-b) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
-
-c) Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
-
-d) Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
-
-5
-
-Kundenorientierung  
-(§ 5 Nr. 5)
-
-a) Arbeiten kundenorientiert durchführen
-
-b) Wünsche und Einwände von Kunden entgegennahmen und weiterleiten
-
-c) Gespräche kundenorientiert führen
-
-d) Kunden auf Pflegeanleitungen hinweisen
-
-3\*)
-
-6
-
-Umgang mit Informations- und Kommunikationstechniken  
-(§ 5 Nr. 6)
-
-a) Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen
-
-b) Daten sichern
-
-c) Datenschutz anwenden
-
-2\*)
-
-7
-
-Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, Arbeiten im Team  
-(§ 5 Nr. 7)
-
-a) Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
-
-b) Skizzen anfertigen und anwenden
-
-c) Farbmuster erstellen und Farbwirkungen erkennen
-
-d) Informationen beschaffen und nutzen, insbesondere technische Merkblätter und Gebrauchsanleitungen
-
-e) technische Unterlagen anwenden, insbesondere Materiallisten, Betriebsanleitungen, Herstellerangaben, Normen, Sicherheitsregeln und Arbeitsanweisungen
-
-f) Pläne und Zeichnungen lesen und anwenden
-
-g) Mengen ermitteln, insbesondere anhand von Zeichnungen und Plänen
-
-h) Arbeitsschritte planen und Arbeitsmittel festlegen
-
-i) Arbeitsaufgaben mit betrieblich beteiligten Personen durchführen
-
-6\*)
-
-8
-
-Einrichten von Arbeitsplätzen  
-(§ 5 Nr. 8)
-
-a) Arbeitsplatz einrichten, sichern, unterhalten und auflösen, ergonomische Gesichtspunkte berücksichtigen
-
-b) persönliche Schutzausrüstung verwenden
-
-c) Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung veranlassen
-
-d) Leitern und Gerüste auswählen, auf Verwendbarkeit prüfen sowie auf- und abbauen
-
-e) Wasser- und Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen
-
-3\*)
-
-9
-
-Bedienen und in Stand halten von Geräten, Werkzeugen, Maschinen und Anlagen  
-(§ 5 Nr. 9)
-
-a) Werkzeuge und Geräte auswählen, handhaben und in Stand halten
-
-b) Geräte, Maschinen und Anlagen einrichten und unter Verwendung der Schutzeinrichtungen bedienen
-
-c) Störungen an Geräten, Maschinen und Anlagen erkennen, Störungsbeseitigung veranlassen
-
-d) Transportgeräte bedienen
-
-4
-
-10
-
-Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteilen  
-(§ 5 Nr. 10)
-
-a) Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile nach Arten und Eigenschaften unterscheiden und dem Arbeitsauftrag zuordnen
-
-b) Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile für die Bearbeitung auswählen und auf Fehler prüfen
-
-c) Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile transportieren und umweltgerecht lagern
-
-d) Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile für die Bearbeitung am Arbeitsplatz bereitstellen und zwischenlagern
-
-e) Werk- und Hilfsstoffe sowie Bauteile von Hand formgebend be- und verarbeiten sowie Verbindungen herstellen
-
-8
-
-11
-
-Prüfen, Bewerten und Vorbereiten von Untergründen  
-(§ 5 Nr. 11)
-
-a) Untergründe durch Sichtprüfung beurteilen
-
-b) Schutzmaßnahmen für nicht zu bearbeitende Flächen, Bauteile und Objekte ausführen
-
-c) Verfahren für die Entschichtung von Untergründen anwenden
-
-d) Untergründe für nachfolgende Bearbeitungen reinigen
-
-e) Grundierungen für Schutz- und Festigungsmaßnahmen auftragen
-
-f) Unebenheiten ausgleichen
-
-8
-
-12
-
-Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen  
-(§ 5 Nr. 12)
-
-a) Beschichtungsstoffe auftragsbezogen auswählen und vorbereiten
-
-b) Farbtöne mischen und nachmischen
-
-c) Beschichtungen ausführen, insbesondere durch Streichen, Rollen und Spritzen
-
-d) Oberflächen in unterschiedlichen Techniken gestalten
-
-e) Dämmmaterialien verarbeiten
-
-f) Klebearbeiten ausführen
-
-g) Vorlagen für kommunikative und dekorative Gestaltungselemente herstellen, maßstabsgerecht übertragen und anwenden
-
-16
-
-13
-
-Durchführen von qualitätssichernden Maßnahmen  
-(§ 5 Nr. 13)
-
-a) Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele erläutern
-
-b) eigene Arbeiten anhand von Vorgaben prüfen
-
-c) Arbeitsberichte erstellen
-
-2\*)
-
- 
-
-II\. Berufliche Fachbildung - 2. Ausbildungsjahr
-
-Lfd. Nr.
-
-Teil des Ausbildungsberufsbildes
-
-Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
-
-Zeitlicher Richtwert in Wochen im 2. Ausbildungsjahr
-
-1
-
-2
-
-3
-
-4
-
-1
-
-Kundenorientierung  
-(§ 5 Nr. 5)
-
-a) Kunden informieren
-
-b) fertiggestellte Arbeiten übergeben
-
-c) Kundenwünsche in die Auftragsausführung einbeziehen und dokumentieren
-
-d) Überholungs- und Erneuerungsintervalle erläutern
-
-e) Serviceleistungen einordnen und darstellen
-
-2\*)
-
-2
-
-Umgang mit Informations- und Kommunikationstechniken  
-(§ 5 Nr. 6)
-
-a) Informationen erfassen, aufbereiten, bewerten und dokumentieren
-
-b) Datensysteme nutzen
-
-c) fremdsprachliche Fachbegriffe auftragsbezogen anwenden
-
-2\*)
-
-3
-
-Auftragsübernahme, Planung, Vorbereitung und Organisation von Arbeitsaufgaben, Arbeiten im Team  
-(§ 5 Nr. 7)
-
-a) Zeichnungen und Farbpläne erstellen
-
-b) technische Regelwerke, Herstellerrichtlinien, berufsspezifische Vorschriften, Verordnungen und Gesetze anwenden
-
-c) örtliche Gegebenheiten als Voraussetzung für den Arbeitsbeginn prüfen
-
-d) Witterungs- und Klimabedingungen für die Durchführung von Arbeiten berücksichtigen
-
-e) Messungen durchführen
-
-f) Arbeitsabläufe unter Berücksichtigung ergonomischer und ökologischer Gesichtspunkte festlegen und vorbereiten
-
-g) Materialien bereitstellen
-
-h) Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen durchführen
-
-3\*)
-
-4
-
-Einrichten von Arbeitsplätzen  
-(§ 5 Nr. 8)
-
-a) Baustellensicherungsmaßnahmen durchführen, Sicherheits- und Gesundheitspläne beachten
-
-b) Abplanungen und Einhausungen herstellen
-
-c) Betriebssicherheit von Arbeitshilfen beurteilen, insbesondere Gerüste, fahrbare Arbeitsbühnen und Hubarbeitsbühnen
-
-d) bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
-
-e) Materialien, Geräte und Maschinen vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern und für den Abtransport vorbereiten
-
-f) Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen, umweltgerecht lagern und Entsorgen veranlassen
-
-g) Abfallstoffe lagern und Entsorgung veranlassen
-
-h) geräumten Arbeitsplatz übergeben
-
-3\*)
-
-5
-
-Bedienen und in Stand halten von Geräten, Werkzeugen, Maschinen und Anlagen  
-(§ 5 Nr. 9)
-
-a) Mess- und Prüfgeräte auswählen, handhaben und in Stand halten
-
-b) Arbeitshilfen einrichten und bedienen, insbesondere Hubarbeitsbühnen und Steighilfen
-
-c) Funktionskontrolle bei Geräten, Maschinen und Anlagen durchführen und dokumentieren
-
-d) Geräte, Maschinen und Anlagen, insbesondere zur Untergrunderstellung und -vorbereitung, Reinigung, Ent- und Beschichtung, auswählen, einrichten und bedienen
-
-e) Geräte, Maschinen und Anlagen, insbesondere zur Herstellung und Gestaltung von Oberflächen, auswählen, einrichten und bedienen
-
-f) Anlagen zur Klimatisierung auswählen, einrichten und bedienen
-
-g) Geräte, Maschinen und Anlagen warten
-
-5
-
-6
-
-Be- und Verarbeiten von Werk-, Hilfs- und Beschichtungsstoffen sowie von Bauteilen  
-(§ 5 Nr. 10)
-
-a) Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile auftragsbezogen auswählen, für Be- und Verarbeitung vorbereiten und bereitstellen
-
-b) Beschichtungsstoffe nach Eigenschaften, Zusammensetzung und Verträglichkeit auswählen, für die Verarbeitung zubereiten, bereitstellen und aufbringen
-
-c) Werk- und Hilfsstoffe sowie Bauteile, insbesondere unter Einsatz von Geräten und Maschinen formgebend be- und verarbeiten
-
-d) Werkstoffe und Bauteile befestigen und lösen
-
-e) Ausbau- und Montagearbeiten ausführen, insbesondere Systemelemente und Bauteile ein- und ausbauen
-
-10
-
-7
-
-Prüfen, Bewerten und Vorbereiten von Untergründen  
-(§ 5 Nr. 11)
-
-a) Untergründe und Oberflächen auf Haftfestigkeit und auf Eignung als Träger für nachfolgende Bearbeitungstechniken beurteilen
-
-b) Untergründe auf ihre Beanspruchung und zur Befestigung von Konstruktionen, Baugruppen und -teile beurteilen
-
-c) Untergründe und Oberflächen mit mechanischen, thermischen, physikalischen und chemischen Bearbeitungsverfahren vorbereiten
-
-d) Untergründe, insbesondere durch Aufbringen von Putzen, Spachtel- und Ausgleichsmassen sowie durch Einsatz von Trockenbau-Baustoffen, vorbereiten
-
-e) Maßnahmen für den vorbeugenden Holz- und Bautenschutz durchführen
-
-f) Dämm- und Isolierstoffe verarbeiten
-
-g) Baufugen in unterschiedlichen Techniken ausbilden und abdichten
-
-12
-
-8
-
-Herstellen, Bearbeiten, Behandeln und Gestalten von Oberflächen  
-(§ 5 Nr. 12)
-
-a) Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen mit festen, pastosen oder flüssigen Stoffen herstellen
-
-b) Oberflächen mit Mustern, Werkzeugstrukturen und durch Beschichtungsstoffe gestalten
-
-c) Schriften und Symbole nach Vorgabe umsetzen
-
-d) metallische Applikationen herstellen
-
-e) Oberflächen pflegen und konservieren
-
-f) Instandhaltungs- und Instandsetzungarbeiten durchführen
-
-13
-
-9
-
-Durchführen von qualitätssichernden Maßnahmen  
-(§ 5 Nr. 13)
-
-a) Tätigkeitsnachweise erstellen, Zeitaufwand und Materialverbrauch erfassen
-
-b) zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
-
-c) Mess- und Prüfergebnisse dokumentieren
-
-d) Arbeits- und Zwischenergebnisse kontrollieren, bewerten und dokumentieren
-
-2\*)
-
-\*)  
-Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
-
-# Anlage 2 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
-
-(Fundstelle: BGBl. I 2003, 1077 - 1082)  
-
-  
-
- 
-
-A. Fachrichtung Gestaltung und Instandhaltung
-
-Lfd. Nr.
-
-Teil des Ausbildungsberufsbildes
-
-Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
-
-Zeitlicher Richtwert in Wochen im 3. Ausbildungsjahr
-
-1
-
-2
-
-3
-
-4
-
-1
-
-Kundenorientierung  
-(§ 6 Nr. 1 Buchstabe e)
-
-a) Kundenberatung durchführen
-
-b) Instandhaltungsvorschläge unterbreiten
-
-c) Instandsetzungsintervalle erläutern
-
-d) Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
-
-2\*)
-
-2
-
-Umgang mit Informations- und Kommunikationstechniken  
-(§ 6 Nr. 1 Buchstabe f)
-
-a) branchenspezifische Software einsetzen
-
-b) Aufmaß nach Normen und Richtlinien erstellen
-
-c) Informationen zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen beschaffen, beurteilen und umsetzen
-
-d) Fachbegriffe für technische und gestalterische Arbeitsaufgaben anwenden
-
-2\*)
-
-3
-
-Entwerfen und Ausführen von Gestaltungsarbeiten  
-(§ 6 Nr. 1 Buchstabe g)
-
-a) Raumkonzepte und Fassadengestaltungen entwerfen
-
-b) Flächen bekleiden, insbesondere Tapezier-, Klebe- und Spannarbeiten durchführen
-
-c) Räume und Flächen mit Beschichtungsstoffen sowie mit Decken-, Wand- und Bodenbelägen gestalten
-
-d) Oberflächeneffekte mit Beschichtungsstoffen, Lasuren, Applikationen, Bronzetechniken und Blattmetallauflagen herstellen
-
-e) Formen, Abgüsse und Dekorelemente modellieren sowie montieren
-
-f) Dekorations- und Restaurierungsarbeiten unter Beachtung der Stilepochen durchführen, insbesondere in Räumen und an Fassaden
-
-g) Putz- und Stuckoberflächen nach Gestaltungsvorgaben herstellen
-
-13
-
-4
-
-Herstellen von Beschriftungen und Kommunikationsmitteln  
-(§ 6 Nr. 1 Buchstabe h)
-
-a) Entwürfe für kommunikative und dekorative Gestaltungen anfertigen und umsetzen, insbesondere Schriften, Zeichen, bildliche Darstellungen und Ornamente
-
-b) Werbeträger herstellen
-
-c) Siebdruckverfahren und digitale Medien anwenden
-
-d) Sicherheitskennzeichnungen und Straßenmarkierungsarbeiten durchführen
-
-10
-
-5
-
-Durchführen von Maßnahmen zum Holz- und Bautenschutz  
-(§ 6 Nr. 1 Buchstabe i)
-
-a) vorbeugende Holz- und Bautenschutzmaßnahmen durchführen, insbesondere mit Hydrophobierungs-, Imprägnierungs- und Festigungsmitteln
-
-b) Schäden durch holzzerstörende Pilze und Insekten an Holzkonstruktionen und -bauteilen beseitigen
-
-c) Abdichtungsarbeiten an Bauwerken und Bauteilen durchführen
-
-d) Spezialbeschichtungen und Versiegelungen durchführen, insbesondere Kunstharzbeläge
-
-e) vorbeugenden Brandschutz an Holz- und Stahlbauteilen durchführen
-
-f) Schutz- und Instandhaltungsbeschichtungen auf Metalloberflächen durchführen
-
-g) Schutz- und Instandhaltungsbeschichtungen auf Beton- und Porenbetonoberflächen aufbringen
-
-h) Natursteine, Sichtmauerwerk und Betonoberflächen reinigen
-
-i) Flächen aus Faserzement unter Berücksichtigung der gesundheitsgefährdenden Eigenschaften versiegeln
-
-k) gerissene Putzoberflächen in Stand setzen
-
-12
-
-6
-
-Durchführen von Energiesparmaßnahmen, Ausbau- und Montagearbeiten  
-(§ 6 Nr. 1 Buchstabe k)
-
-a) Systemelemente und Bauteile sowie Fertigteile und -elemente, einschließlich Unterkonstruktionen, montieren
-
-b) Bau- und Reparaturverglasungsarbeiten durchführen
-
-c) Dämmungen und Trennschichten einbauen
-
-d) Beschichtungs- und Montagetechniken zur Reduktion von Wärmeverlusten anwenden
-
-e) Wärmedämm-Verbundsysteme erstellen
-
-f) Kälte- und Feuchteschutzsysteme auswählen und einsetzen
-
-11
-
-7
-
-Durchführen von qualitätssichernden Maßnahmen  
-(§ 6 Nr. 1 Buchstabe l)
-
-a) Mess- und Prüfergebnisse bewerten
-
-b) Witterungs- und klimatische Messungen objektbezogen dokumentieren und bewerten
-
-c) betriebliches Qualitätsmanagement anwenden
-
-2\*)
-
- 
-
-B. Fachrichtung Kirchenmalerei und Denkmalpflege
-
-1
-
-Kundenorientierung  
-(§ 6 Nr. 2 Buchstabe e)
-
-a) Kundenberatung durchführen
-
-b) Instandhaltungsvorschläge unterbreiten
-
-c) Instandsetzungsintervalle erläutern
-
-d) Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
-
-2\*)
-
-2
-
-Umgang mit Informations- und Kommunikationserstellentechniken  
-(§ 6 Nr. 2 Buchstabe f)
-
-a) branchenspezifische Software einsetzen
-
-b) Aufmaß nach Normen und Richtlinien
-
-c) Informationen zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen des Arbeitsauftrages beschaffen, beurteilen und anwenden
-
-d) Fachbegriffe für kunsthistorische und restauratorische Arbeitsaufgaben anwenden
-
-e) fotografische Dokumentationen von Objekten erstellen
-
-2\*)
-
-3
-
-Herstellen von Werk- und Beschichtungsstoffen nach historischen Rezepturen  
-(§ 6 Nr. 2 Buchstabe g)
-
-a) Pigmente, Farb- und Füllstoffe unter Berücksichtigung der Farbtonveränderung, Alterung und Metamerie auswählen
-
-b) Reinigungs- und Lösemittelgemische sowie Reinigungs- und Lösemittelgele herstellen
-
-c) Bindemittel vorbereiten, insbesondere Leime, Öle, Harze und Wachse
-
-d) Beschichtungsstoffe zubereiten, insbesondere Kalk-, Kasein- und Emulsionsfarben
-
-e) Überzugsmittel herstellen
-
-f) Kreidegründe und Polimente herstellen
-
-g) Putzmörtel, Stuck- und Steinersatzmassen herstellen
-
-8
-
-4
-
-Ausführen von historischen und gestalterischen Arbeitstechniken  
-(§ 6 Nr. 2 Buchstabe h)
-
-a) Fresco- und Seccomalerei lasierend und deckend ausführen
-
-b) Pinsel-, Spritz- und Spachteltechniken ausführen
-
-c) Fassmalerei mit wässrigen und öligen Bindemitteln sowie Lackbindemitteln ausführen
-
-d) Imitationstechniken nach Vorlage ausführen, insbesondere Maserierung, Marmorierung und Brokatmalerei
-
-e) Illusionsmalerei nach Vorlage ausführen, insbesondere Graumalerei
-
-f) Blattmetall-, Bronze- und Verzierungstechniken auf Poliment, Öl, Leim und Wachs ausführen
-
-g) Gestaltungstechniken in Putz und Stuck ausführen
-
-h) Handdrucktechniken ausführen
-
-i) historische Schriftformen zuordnen und als Pinselschrift ausführen
-
-15
-
-5
-
-Durchführen von Instandsetzungsmaßnahmen im Rahmen der Denkmalpflege  
-(§ 6 Nr. 2 Buchstabe i)
-
-a) Ausstattungsgegenstände objektgerecht demontieren, einlagern, sichern und montieren
-
-b) Verankerungsmöglichkeiten von Gerüsten und Arbeitsbühnen prüfen und beurteilen, insbesondere im Hinblick auf die Bewahrung erhaltenswerter Substanz
-
-c) Befunduntersuchungen, -protokolle und -berichte entsprechend den Richtlinien der Denkmalschutzbehörden erstellen
-
-d) mechanische, chemische und physikalische Reinigungsverfahren im Hinblick auf die Bewahrung erhaltenswerter Substanz auswählen und anwenden
-
-e) Fassungen und Fassungsträger sichern, festigen und konservieren
-
-f) Maßnahmen zur Instandsetzung von Untergründen unter Berücksichtigung historischer Anforderungen durchführen
-
-g) Schadstellen gemäß den Anforderungen der Denkmalpflege beurteilen und ausbessern; Ausbesserungen begrenzen und angleichen
-
-h) Abnahme von Fassungen und Übermalungen nach Vorgabe durchführen
-
-i) Arbeitsproben und Konzepte für Arbeitsabläufe erstellen, unter Berücksichtigung von Voruntersuchungen, Messdaten und Materialeigenschaften
-
-14
-
-6
-
-Ausführen von Reproduktionen und Rekonstruktionen Berücksichtigung von Untergründen, nach historischen Vorlagen  
-(§ 6 Nr. 2 Buchstabe k)
-
-a) historische Räume und Objekte erfassen und darstellen
-
-b) historische Arbeitstechniken unter Materialien und Werkzeugen analysieren, zeitlich einordnen und rekonstruieren
-
-c) Beschichtungsaufbau und Materialien von historischen Fassungen bestimmen und rekonstruieren
-
-d) Ornamente aus Form und Elementen europäischer Stilepochen entwickeln und konstruieren
-
-e) Abformungen und Abgüsse herstellen
-
-9
-
-7
-
-Durchführen von qualitätssichernden Maßnahmen  
-(§ 6 Nr. 2 Buchstabe l)
-
-a) Mess- und Prüfergebnisse dokumentieren und bewerten
-
-b) Witterungs- und klimatische Messungen objektbezogen dokumentieren und bewerten
-
-c) betriebliches Qualitätsmanagement anwenden
-
-d) Instandsetzungs-, Instandhaltungs-, Wartungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
-
-2\*)
-
- 
-
-C. Fachrichtung Bauten- und Korrosionsschutz
-
-1
-
-Kundenorientierung  
-(§ 6 Nr. 3 Buchstabe e)
-
-a) Instandsetzungsintervalle erläutern
-
-b) Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigen
-
-2\*)
-
-2
-
-Umgang mit Informations- und Kommunikationstechniken  
-(§ 6 Nr. 3 Buchstabe f)
-
-a) branchenspezifische Software einsetzen
-
-b) Aufmaß nach Normen und Richtlinien erstellen
-
-c) Informationen zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen des Arbeitsauftrages beschaffen, beurteilen und umsetzen
-
-d) Fotodokumentationen erstellen
-
-2\*)
-
-3
-
-Einrichten von Baustellen, Bedienen und in Stand halten von Geräten, Maschinen und Anlagen  
-(§ 6 Nr. 3 Buchstabe g)
-
-a) Anlagen und Geräte zur Klimatisierung und technischen Belüftung einrichten, bedienen und warten
-
-b) Abplanungen und Einhausungen zum Schutz gegen Witterungseinflüsse und zur Vermeidung von Beeinträchtigungen der Umwelt durch Immissionen, Emissionen und Beschädigungen auswählen, auf-, um- und abbauen
-
-c) Arbeitssicherheit und Einsatzmöglichkeiten von Gerüsten und Arbeitsplattformen beurteilen, insbesondere Fahr-, Trag-, Hänge- und Auslegergerüste
-
-d) Strahlanlagen einrichten, bedienen und warten
-
-e) Förder- und Transporteinrichtungen montieren, bedienen und in Stand halten
-
-8
-
-4
-
-In Stand halten und in Stand setzen von Bauwerken und Anlagen  
-(§ 6 Nr. 3 Buchstabe h)
-
-a) Bauwerksabdichtungen durchführen, insbesondere mit bituminösen, zement- und kunststoffgebundenen Abdichtungsmitteln, Dichtungsbahnen und Dichtstoffen
-
-b) Verfahren zur Trockenlegung von Bauwerken und Bauteilen durchführen
-
-c) Verfahren zur Austrocknung von Bauwerken und Bauteilen durchführen
-
-d) Bauteil-, Dehnungs- und Anschlussfugen in Stand halten und sanieren sowie Glasversiegelung durchführen
-
-e) Spezialbeschichtungen ausführen, insbesondere zum Schutz gegen Durchfeuchtung, chemische Beanspruchung und aggressive Medien
-
-f) Beschichtungstechniken für den vorbeugenden Brandschutz ausführen
-
-8
-
-5
-
-Durchführen von Korrosionsschutzmaßnahmen  
-(§ 6 Nr. 3 Buchstabe i)
-
-a) Schadensdiagnose durchführen, Korrosionsart und -grad bestimmen
-
-b) Korrosionsschutzverfahren entsprechend der Beanspruchung von Objekten und Anlagen auswählen, Entrostungsverfahren festlegen
-
-c) Oberflächen für Korrosionsschutzmaßnahmen vorbereiten, insbesondere durch Strahlverfahren
-
-d) Beschichtungen entsprechend der Korrosivitätskategorien aufbringen
-
-e) metallische Überzüge herstellen, insbesondere Metallspritzen und Duplexverfahren
-
-f) Metallverbindungstechniken anwenden, insbesondere Kleben
-
-g) Behälter und Objekte auskleiden
-
-h) Rohre und Rohrleitungen umhüllen
-
-12
-
-6
-
-Durchführen von Schutz- und Instandsetzungsmaßnahmen an Bauwerken und Bauteilen aus Beton  
-(§ 6 Nr. 3 Buchstabe k)
-
-a) Schadensdiagnose durchführen, Schadensumfang und -art unter Beachtung statischer Auswirkungen berücksichtigen
-
-b) Schutz- und Instandsetzungsverfahren entsprechend der Beanspruchung der Betonbauwerke und -bauteile auswählen
-
-c) Verfahren für die Vorbereitung von Betonuntergründen auswählen und anwenden
-
-d) Korrosionsschutzmaßnahmen an frei liegenden Bewehrungsstählen durchführen
-
-e) Betonoberflächen mit Betonspachtelmassen in Stand setzen, insbesondere Fehl- und Ausbruchstellen ausspachteln und ausgießen sowie Flächen reprofilieren
-
-f) Imprägnierungen, Beschichtungen sowie Versiegelungen als Betonoberflächenschutz aufbringen
-
-g) Kunstharzbeläge und -estriche auf Betonoberflächen aufbringen
-
-h) Risse an Betonbauwerken und -bauteilen sanieren, insbesondere durch Injektionen und Armierungen
-
-12
-
-7
-
-Herstellen von Kommunikationsmitteln für Sicherheits- und Leitfunktionen  
-(§ 6 Nr. 3 Buchstabe l)
-
-a) Sicherheitskonzepte erstellen und umsetzen
-
-b) Sicherheitskennzeichnungen herstellen
-
-c) Straßenmarkierungen ausführen
-
-4
-
-8
-
-Durchführen von qualitätssichernden Maßnahmen  
-(§ 6 Nr. 3 Buchstabe m)
-
-a) Mess- und Prüfergebnisse dokumentieren und bewerten
-
-b) Witterungs- und klimatische Messungen objektbezogen dokumentieren und bewerten
-
-c) Kontrollflächen anlegen
-
-d) Rückstellmuster anfertigen
-
-e) betriebliches Qualitätsmanagement anwenden
-
-4\*)
-
-\*)  
-Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
+Abschnitt E Überschrift Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die Wörter "Bauten- und Korrosionschutzg" durch die Wörter "Bauten- und Korrosionschutz" ersetzt

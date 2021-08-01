@@ -1233,7 +1233,7 @@ nicht anzuwenden.
 
 6. in den Fällen des § 78 Abs. 3 der Zivilprozessordnung sowie
 
-7. für den Antrag auf Durchführung des Versorgungsausgleichs nach § 3 Abs. 3 des Versorgungsausgleichsgesetzes und die Erklärungen zum Wahlrecht nach § 15 Abs. 1 und 3 des Versorgungsausgleichsgesetzes.
+7. für den Antrag auf Durchführung des Versorgungsausgleichs nach § 3 Abs. 3 des Versorgungsausgleichsgesetzes und die Erklärungen zum Wahlrecht nach § 15 Abs. 1 und 3 sowie nach § 19 Absatz 2 Nummer 5 des Versorgungsausgleichsgesetzes.
 
 (5) Der Bevollmächtigte in Ehesachen bedarf einer besonderen auf das Verfahren gerichteten Vollmacht. Die Vollmacht für die Scheidungssache erstreckt sich auch auf die Folgesachen.
 
@@ -2229,7 +2229,7 @@ Zu beteiligen sind
 
 # § 222 – Durchführung der externen Teilung
 
-(1) Die Wahlrechte nach § 14 Abs. 2 und § 15 Abs. 1 des Versorgungsausgleichsgesetzes sind in den vom Gericht zu setzenden Fristen auszuüben.
+(1) Die Wahlrechte nach § 14 Absatz 2, § 15 Absatz 1 und § 19 Absatz 2 Nummer 5 des Versorgungsausgleichsgesetzes sind in den vom Gericht zu setzenden Fristen auszuüben.
 
 (2) Übt die ausgleichsberechtigte Person ihr Wahlrecht nach § 15 Abs. 1 des Versorgungsausgleichsgesetzes aus, so hat sie in der nach Absatz 1 gesetzten Frist zugleich nachzuweisen, dass der ausgewählte Versorgungsträger mit der vorgesehenen Teilung einverstanden ist.
 
@@ -2267,7 +2267,7 @@ Zu beteiligen sind
 
 (1) Antragsberechtigt sind die Ehegatten, ihre Hinterbliebenen und die von der Abänderung betroffenen Versorgungsträger.
 
-(2) Der Antrag ist frühestens sechs Monate vor dem Zeitpunkt zulässig, ab dem ein Ehegatte voraussichtlich eine laufende Versorgung aus dem abzuändernden Anrecht bezieht oder dies auf Grund der Abänderung zu erwarten ist.
+(2) Der Antrag ist frühestens zwölf Monate vor dem Zeitpunkt zulässig, ab dem ein Ehegatte voraussichtlich eine laufende Versorgung aus dem abzuändernden Anrecht bezieht oder dies auf Grund der Abänderung zu erwarten ist.
 
 (3) § 27 des Versorgungsausgleichsgesetzes gilt entsprechend.
 
@@ -3481,11 +3481,11 @@ Das Gericht kann alle Übrigen, deren Recht durch das Verfahren unmittelbar betr
 
 (3) Wird eine in die besondere amtliche Verwahrung genommene Verfügung von Todes wegen aus der besonderen amtlichen Verwahrung zurückgegeben, teilt das verwahrende Gericht dies der Registerbehörde mit.
 
-(4) Die bei den Standesämtern und beim Amtsgericht Schöneberg in Berlin bestehenden Verzeichnisse über die in amtlicher Verwahrung befindlichen Verfügungen von Todes wegen werden bis zur Überführung in das Zentrale Testamentsregister nach dem Testamentsverzeichnis-Überführungsgesetz von diesen Stellen weitergeführt. Erhält die das Testamentsverzeichnis führende Stelle Nachricht vom Tod des Erblassers, teilt sie dies der Stelle mit, von der die Verwahrungsnachricht stammt, soweit nicht die das Zentrale Testamentsregister führende Registerbehörde die Mitteilungen über Sterbefälle nach § 4 Absatz 1 des Testamentsverzeichnis-Überführungsgesetzes bearbeitet. Die Landesregierungen erlassen durch Rechtsverordnung Vorschriften über Art und Umfang der Mitteilungen nach Satz 2, über den Inhalt der Testamentsverzeichnisse sowie die Löschung der in den Testamentsverzeichnissen gespeicherten Daten. Die Verwendung der Daten ist auf das für die Wiederauffindung der Verfügung von Todes wegen unumgänglich Notwendige zu beschränken. Die Fristen für die Löschung der Daten dürfen die Dauer von fünf Jahren seit dem Tod des Erblassers nicht überschreiten; ist der Erblasser für tot erklärt oder der Todeszeitpunkt gerichtlich festgelegt worden, sind die Daten spätestens nach 30 Jahren zu löschen.
+(4) (weggefallen)
 
-(5) Die Mitteilungen nach Absatz 4 Satz 2 können elektronisch erfolgen. Die Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von dem an Mitteilungen in ihrem Bereich elektronisch erteilt und eingereicht werden können, sowie die für die Bearbeitung der Dokumente geeignete Form.
+(5) (weggefallen)
 
-(6) Die Landesregierungen können die Ermächtigungen nach Absatz 4 Satz 3 und Absatz 5 Satz 2 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(6) (weggefallen)
 
 # § 348 – Eröffnung von Verfügungen von Todes wegen durch das Nachlassgericht
 

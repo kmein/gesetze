@@ -419,7 +419,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (1) Die Behörde darf bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt nur verlangen und abnehmen, wenn die Abnahme der Versicherung über den betreffenden Gegenstand und in dem betreffenden Verfahren durch Gesetz oder Rechtsverordnung vorgesehen und die Behörde durch Rechtsvorschrift für zuständig erklärt worden ist. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis geführt haben oder einen unverhältnismäßigen Aufwand erfordern. Von eidesunfähigen Personen im Sinne des § 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.
 
-(2) Wird die Versicherung an Eides statt von einer Behörde zur Niederschrift aufgenommen, so sind zur Aufnahme nur der Behördenleiter, sein allgemeiner Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
+(2) Wird die Versicherung an Eides statt von einer Behörde zur Niederschrift aufgenommen, so sind zur Aufnahme nur der Behördenleiter, sein allgemeiner Vertreter sowie Angehörige des öffentlichen Dienstes befugt, welche die Befähigung zum Richteramt haben. Andere Angehörige des öffentlichen Dienstes kann der Behördenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich ermächtigen.
 
 (3) Die Versicherung besteht darin, dass der Versichernde die Richtigkeit seiner Erklärung über den betreffenden Gegenstand bestätigt und erklärt: "Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe." Bevollmächtigte und Beistände sind berechtigt, an der Aufnahme der Versicherung an Eides statt teilzunehmen.
 
@@ -881,7 +881,7 @@ Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht 
 
 # § 61 – Unterwerfung unter die sofortige Vollstreckung
 
-(1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 54 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt, vertreten werden.
+(1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 54 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat, vertreten werden.
 
 (2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist das Verwaltungs-Vollstreckungsgesetz des Bundes entsprechend anzuwenden, wenn Vertragschließender eine Behörde im Sinne des § 1 Abs. 1 Nr. 1 ist. Will eine natürliche oder juristische Person des Privatrechts oder eine nichtrechtsfähige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde im Sinne des § 1 Abs. 1 Nr. 2, so ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
@@ -911,7 +911,7 @@ Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist er schrift
 
 (4) Das Gericht entscheidet über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung.
 
-(5) Ein Ersuchen nach Absatz 2 oder 3 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt.
+(5) Ein Ersuchen nach Absatz 2 oder 3 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat.
 
 # § 66 – Verpflichtung zur Anhörung von Beteiligten
 

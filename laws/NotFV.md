@@ -9,9 +9,9 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 # § 1 – Leitung des Prüfungsamtes
 
-(1) Die Leiterin oder der Leiter des Prüfungsamtes sorgt für den ordnungsgemäßen Geschäftsbetrieb des Prüfungsamtes.
+(1) Die Leitung des Prüfungsamtes sorgt für den ordnungsgemäßen Geschäftsbetrieb des Prüfungsamtes.
 
-(2) Die Leitung des Prüfungsamtes schlägt im Einvernehmen mit dem Verwaltungsrat den Haushalt des Prüfungsamtes der Vertreterversammlung der Bundesnotarkammer zur Beschlussfassung vor.
+(2) Die Leitung des Prüfungsamtes schlägt im Einvernehmen mit dem Verwaltungsrat den Haushalt des Prüfungsamtes der Generalversammlung der Bundesnotarkammer zur Beschlussfassung vor.
 
 (3) Dauerhaft Beschäftigte des Prüfungsamtes sind von der Leitung des Prüfungsamtes im Einvernehmen mit dem Verwaltungsrat heranzuziehen.
 
@@ -27,7 +27,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (4) Der Verwaltungsrat fasst seine Beschlüsse mit der Mehrheit der Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
 
-(5) Die Mitglieder des Verwaltungsrates sind ehrenamtlich tätig. Sie erhalten für den Aufwand, der mit ihrer Teilnahme an den Sitzungen des Verwaltungsrates und an sonstigen Sitzungen und Tagungen verbunden ist, eine Entschädigung sowie Ersatz ihrer notwendigen Auslagen. Die Bundesnotarkammer bestimmt Voraussetzungen und Höhe der Zahlungen nach Satz 2 durch Satzung, die der Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz bedarf.
+(5) (weggefallen)
 
 # § 3 – Aufgabenkommission
 
@@ -43,11 +43,11 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (6) Die Mitglieder der Aufgabenkommission sind verpflichtet, dem Verwaltungsrat auf Anforderung Auskunft zu erteilen und Akteneinsicht zu gewähren.
 
-# § 4 – Prüferinnen und Prüfer
+# § 4 – Prüfende
 
-(1) Das Prüfungsamt bestellt die erforderliche Anzahl von Prüferinnen und Prüfern, um eine ordnungsgemäße Durchführung der Prüfungen zu gewährleisten.
+(1) Das Prüfungsamt bestellt die erforderliche Anzahl von Prüfenden, um eine ordnungsgemäße Durchführung der Prüfungen zu gewährleisten.
 
-(2) Die Prüferinnen und Prüfer haben über die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen Verschwiegenheit zu bewahren. Sie sind bei ihrer erstmaligen Berufung von der Leitung des Prüfungsamtes zur gewissenhaften Erfüllung ihrer Obliegenheiten zu verpflichten.
+(2) Die Prüfenden haben über die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen Verschwiegenheit zu bewahren. Sie sind bei ihrer erstmaligen Berufung von der Leitung des Prüfungsamtes zur gewissenhaften Erfüllung ihrer Obliegenheiten zu verpflichten.
 
 # § 5 – Prüfungsgebiete
 
@@ -73,11 +73,11 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (1) Es sollen mindestens zwei Prüfungstermine im Kalenderjahr angeboten werden.
 
-(2) Die Prüfungstermine sind von der Leitung des Prüfungsamtes festzulegen. Sie sind spätestens vier Monate vor Beginn der schriftlichen Prüfung in der Deutschen Notar-Zeitschrift bekannt zu geben. Daneben soll eine Bekanntgabe auf der Internetseite des Prüfungsamtes erfolgen.
+(2) Die Prüfungstermine sind von der Leitung des Prüfungsamtes festzulegen. Sie sind spätestens vier Monate vor Beginn der schriftlichen Prüfung in der Deutschen Notar-Zeitschrift bekannt zu geben. Daneben soll eine Bekanntgabe auf der Internetseite des Prüfungsamtes erfolgen. Wenn die schriftliche Prüfung elektronisch durchgeführt werden soll, ist darauf bei der Bekanntgabe der Prüfungstermine hinzuweisen.
 
 # § 7 – Prüfungsorte
 
-(1) Prüfungen sollen an verschiedenen Orten im Gebiet des Anwaltsnotariats durchgeführt werden. Das Prüfungsamt wählt die Prüfungsorte nach pflichtgemäßem Ermessen aus. Bei der Auswahl soll das Prüfungsamt die Notarkammern aus dem Bereich des Anwaltsnotariats einbeziehen.
+(1) Prüfungen sollen an verschiedenen Orten im Gebiet des Anwaltsnotariats durchgeführt werden. Das Prüfungsamt wählt die Prüfungsorte nach pflichtgemäßem Ermessen aus. Bei der Auswahl soll das Prüfungsamt die Notarkammern aus dem Bereich des Anwaltsnotariats einbeziehen. Satz 1 gilt nicht für schriftliche Prüfungen, die elektronisch durchgeführt werden.
 
 (2) Ein Anspruch, die Prüfung an einem bestimmten Ort abzulegen, besteht nicht.
 
@@ -111,7 +111,7 @@ Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstriche
 
 (2) Für jeden Prüfungsort überträgt die Leitung des Prüfungsamtes für jeden Prüfungstermin einer Person mit Befähigung zum Richteramt die örtliche Prüfungsleitung. Diese hat im Auftrag der Leitung des Prüfungsamtes für die ordnungsgemäße Durchführung der schriftlichen Prüfung an dem jeweiligen Prüfungsort Sorge zu tragen und die erforderlichen Aufsichtspersonen auszuwählen und bereitzustellen.
 
-(3) Das Prüfungsamt bestimmt vor Beginn der Prüfung, welche Prüferinnen und Prüfer die Aufsichtsarbeiten bewerten. Gleichzeitig sind für den Fall der Verhinderung der eingeteilten Personen Ersatzprüferinnen und Ersatzprüfer zu bestimmen.
+(3) Das Prüfungsamt bestimmt vor Beginn der Prüfung, welche Prüfenden die Aufsichtsarbeiten bewerten. Gleichzeitig sind für den Fall der Verhinderung der eingeteilten Personen Ersatzprüfende zu bestimmen.
 
 # § 11 – Anfertigung der Aufsichtsarbeiten
 
@@ -129,7 +129,7 @@ Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstriche
 
 # § 12 – Bewertung der Aufsichtsarbeiten
 
-Das Prüfungsamt leitet die Aufsichtsarbeiten unverzüglich den für die Bewertung bestimmten Prüferinnen und Prüfern zu. Es ermittelt die Bewertungen der einzelnen Aufsichtsarbeiten nach Maßgabe des § 7b Absatz 2 Satz 4 der Bundesnotarordnung und führt die Einigung sowie bei Bedarf den Stichentscheid gemäß § 7b Absatz 2 Satz 5 der Bundesnotarordnung herbei.
+Das Prüfungsamt leitet die Aufsichtsarbeiten unverzüglich den für die Bewertung bestimmten Prüfenden zu. Es ermittelt die Bewertungen der einzelnen Aufsichtsarbeiten nach Maßgabe des § 7b Absatz 2 Satz 4 der Bundesnotarordnung und führt die Einigung sowie bei Bedarf den Stichentscheid gemäß § 7b Absatz 2 Satz 5 der Bundesnotarordnung herbei.
 
 # § 13 – Ladung zur mündlichen Prüfung
 
@@ -159,7 +159,7 @@ Die Leitung des Prüfungsamtes kann behinderten Prüflingen die Bearbeitungszeit
 
 # § 17 – Einsicht in Prüfungsunterlagen
 
-Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen Prüfungsarbeiten einschließlich der Gutachten der Prüferinnen und Prüfer zu gestatten. Der Antrag ist binnen eines Monats nach Bekanntgabe der Prüfungsgesamtnote bei dem Prüfungsamt zu stellen. Die Einsicht erfolgt in den Räumen des Prüfungsamtes.
+Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen Prüfungsarbeiten einschließlich der Gutachten der Prüfenden zu gestatten. Der Antrag ist binnen eines Monats nach Bekanntgabe der Prüfungsgesamtnote bei dem Prüfungsamt zu stellen. Die Einsicht erfolgt in den Räumen des Prüfungsamtes.
 
 # § 18 – Mängel im Prüfungsverfahren
 
@@ -177,13 +177,13 @@ Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen Prüfungsarbeit
 
 # § 20 – Widerspruchsverfahren
 
-Die Leiterin oder der Leiter des Prüfungsamtes holt Stellungnahmen der beteiligten Prüferinnen und Prüfer ein, bevor über einen Widerspruch gegen einen Bescheid entschieden wird, dem eine Bewertung von Prüfungsleistungen zugrunde liegt. Eine Stellungnahme der Aufgabenkommission kann eingeholt werden, wenn dies für die Entscheidung über den Widerspruch erforderlich ist.
+Die Leitung des Prüfungsamtes holt Stellungnahmen der beteiligten Prüfenden ein, bevor über einen Widerspruch gegen einen Bescheid entschieden wird, dem eine Bewertung von Prüfungsleistungen zugrunde liegt. Eine Stellungnahme der Aufgabenkommission kann eingeholt werden, wenn dies für die Entscheidung über den Widerspruch erforderlich ist.
 
 # § 21 – Aufbewahrungsfristen
 
 (1) Zeugnisse und Bescheide über das Ergebnis der notariellen Fachprüfung sowie die zugehörigen Zustellungsnachweise sind 50 Jahre aufzubewahren und anschließend zu vernichten. Gleiches gilt für die dem Prüfungsamt übermittelten Ausfertigungen oder Abschriften gerichtlicher Entscheidungen, die Bescheide über das Ergebnis der notariellen Fachprüfung betreffen.
 
-(2) Sonstige Prüfungsunterlagen sind fünf Jahre aufzubewahren und anschließend zu vernichten, sofern nicht im Einzelfall eine längere Aufbewahrungsdauer erforderlich ist. Gleiches gilt für die zu Mitgliedern der Aufgabenkommission, Prüferinnen und Prüfern, Prüfungsleitungen sowie Aufsichtspersonen geführten Akten.
+(2) Sonstige Prüfungsunterlagen sind fünf Jahre aufzubewahren und anschließend zu vernichten, sofern nicht im Einzelfall eine längere Aufbewahrungsdauer erforderlich ist. Gleiches gilt für die zu Mitgliedern der Aufgabenkommission, Prüfenden, Prüfungsleitungen sowie Aufsichtspersonen geführten Akten.
 
 (3) Die Frist beginnt in den Fällen des Absatzes 1 und des Absatzes 2 Satz 1 mit dem Ablauf des Jahres, in dem das Prüfungsergebnis dem Prüfling bekanntgegeben worden ist. In den Fällen des Absatzes 2 Satz 2 beginnt die Frist mit dem Ablauf des Jahres, in dem die Person aus dem Amt ausgeschieden ist.
 

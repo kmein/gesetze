@@ -127,7 +127,7 @@ Der Versorgungsträger kann die bei der internen Teilung entstehenden Kosten jew
 
 1. die ausgleichsberechtigte Person und der Versorgungsträger der ausgleichspflichtigen Person eine externe Teilung vereinbaren oder
 
-2. der Versorgungsträger der ausgleichspflichtigen Person eine externe Teilung verlangt und der Ausgleichswert am Ende der Ehezeit bei einem Rentenbetrag als maßgeblicher Bezugsgröße höchstens 2 Prozent, in allen anderen Fällen als Kapitalwert höchstens 240 Prozent der monatlichen Bezugsgröße nach § 18 Abs. 1 des Vierten Buches Sozialgesetzbuch beträgt.
+2. der Versorgungsträger der ausgleichspflichtigen Person eine externe Teilung verlangt und der Ausgleichswert am Ende der Ehezeit bei einem Rentenbetrag als maßgeblicher Bezugsgröße höchstens 2 Prozent, in allen anderen Fällen als Kapitalwert höchstens 240 Prozent der monatlichen Bezugsgröße nach § 18 Abs. 1 des Vierten Buches Sozialgesetzbuch beträgt; sind mehrere Anrechte im Sinne des Betriebsrentengesetzes bei einem Versorgungsträger auszugleichen, so ist die Summe der Ausgleichswerte der Anrechte maßgeblich, deren externe Teilung der Versorgungsträger verlangt.
 
 (3) § 10 Abs. 3 gilt entsprechend.
 
@@ -179,9 +179,11 @@ Ist ein Anrecht im Sinne des Betriebsrentengesetzes aus einer Direktzusage oder 
 
 2. soweit es auf eine abzuschmelzende Leistung gerichtet ist,
 
-3. soweit sein Ausgleich für die ausgleichsberechtigte Person unwirtschaftlich wäre oder
+3. soweit sein Ausgleich für die ausgleichsberechtigte Person unwirtschaftlich wäre,
 
-4. wenn es bei einem ausländischen, zwischenstaatlichen oder überstaatlichen Versorgungsträger besteht.
+4. wenn es bei einem ausländischen, zwischenstaatlichen oder überstaatlichen Versorgungsträger besteht oder
+
+5. wenn sich bei einem Anrecht aus der betrieblichen Altersversorgung oder der privaten Altersvorsorge nach dem Ende der Ehezeit der Kapitalwert als maßgebliche Bezugsgröße und damit der Ausgleichswert verändert hat, weil die ausgleichspflichtige Person innerhalb der bisher bestehenden Leistungspflicht eine Versorgung aus dem Anrecht bezogen hat, und die ausgleichsberechtigte Person verlangt, dass das Anrecht vom Wertausgleich bei der Scheidung ausgenommen wird.
 
 (3) Hat ein Ehegatte nicht ausgleichsreife Anrechte nach Absatz 2 Nr. 4 erworben, so findet ein Wertausgleich bei der Scheidung auch in Bezug auf die sonstigen Anrechte der Ehegatten nicht statt, soweit dies für den anderen Ehegatten unbillig wäre.
 
@@ -265,7 +267,7 @@ Bis zum wirksamen Abschluss eines Verfahrens über den Versorgungsausgleich ist 
 
 # § 30 – Schutz des Versorgungsträgers
 
-(1) Entscheidet das Familiengericht rechtskräftig über den Ausgleich und leistet der Versorgungsträger innerhalb einer bisher bestehenden Leistungspflicht an die bisher berechtigte Person, so ist er für eine Übergangszeit gegenüber der nunmehr auch berechtigten Person von der Leistungspflicht befreit. Satz 1 gilt für Leistungen des Versorgungsträgers an die Witwe oder den Witwer entsprechend.
+(1) Entscheidet das Familiengericht rechtskräftig über den Ausgleich und leistet der Versorgungsträger innerhalb einer bisher bestehenden Leistungspflicht an die bisher berechtigte Person, so ist er für eine Übergangszeit gegenüber der nunmehr auch berechtigten Person im Umfang der Überzahlung von der Leistungspflicht befreit. Satz 1 gilt für Leistungen des Versorgungsträgers an die Witwe oder den Witwer entsprechend.
 
 (2) Die Übergangszeit dauert bis zum letzten Tag des Monats, der dem Monat folgt, in dem der Versorgungsträger von der Rechtskraft der Entscheidung Kenntnis erlangt hat.
 

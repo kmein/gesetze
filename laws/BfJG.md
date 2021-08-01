@@ -25,7 +25,9 @@ b) auf dem Gebiet der Auslieferung, der Vollstreckungshilfe und sonstigen Rechts
 
 c) im Rahmen der Aufgaben als nationale Kontaktstelle im Bereich der internationalen Rechtshilfe in Strafsachen, insbesondere als eine der nationalen Kontaktstellen des Europäischen Justiziellen Netzes,
 
-d) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
+d) als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetzes gilt entsprechend,
+
+e) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
 4. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention.
 

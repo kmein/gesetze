@@ -317,7 +317,7 @@ Die Vorschriften dieses Gesetzes, die sich auf das Bestehen oder das frühere Be
 
 (1) Die Funktionen der Beamten und Soldaten sind nach den mit ihnen verbundenen Anforderungen sachgerecht zu bewerten und Ämtern zuzuordnen. Eine Funktion kann bis zu drei Ämtern einer Laufbahngruppe, in obersten Bundesbehörden allen Ämtern einer Laufbahngruppe zugeordnet werden. Bei Soldaten gilt dies in der Laufbahngruppe der Mannschaften für alle Dienstgrade und in der Laufbahngruppe der Unteroffiziere für bis zu vier Dienstgrade.
 
-(2) Abweichend von Absatz 1 Satz 1 und 2 kann in der Bundesbesoldungsordnung B jede Funktion nur einem Amt zugeordnet werden. Für die Zuordnung zu einem Amt, das eine Grundamtsbezeichnung trägt, bedarf die zuständige oberste Bundesbehörde des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen.
+(2) Abweichend von Absatz 1 Satz 1 und 2 kann in der Bundesbesoldungsordnung B jede Funktion nur einem Amt zugeordnet werden. Für die Zuordnung zu einem Amt der Bundesbesoldungsordnung B, das eine Grundamtsbezeichnung trägt, bedarf die zuständige oberste Bundesbehörde des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen.
 
 § 18 Abs. 1 Satz 2 (früher Satz 2): Mit dem GG vereinbar gem. BVerfGE v. 16.12.2015, 2016 I 244 (2 BvR 1958/13)
 
@@ -1284,11 +1284,7 @@ Beamten und Soldaten, die am 31. Mai 2017 eine Vergütung nach § 50a oder Ausla
 
 Soweit durch das Versorgungsreformgesetz 1998 die Ruhegehaltfähigkeit von Zulagen wegfällt oder Zulagen, die der Berechtigte bezogen hat, nicht mehr zu den ruhegehaltfähigen Dienstbezügen gehören, sind für Empfänger von Dienstbezügen, die bis zum 31. Dezember 2007 in den Ruhestand treten oder versetzt werden, die bisherigen Vorschriften über die Ruhegehaltfähigkeit in der bis zum 31. Dezember 1998 geltenden Fassung weiter anzuwenden, für Empfänger von Dienstbezügen der Besoldungsgruppen A 1 bis A 9 bei einer Zurruhesetzung bis zum 31. Dezember 2010. Dies gilt nicht, wenn die Zulage nach dem 1. Januar 1999 erstmals gewährt wird.
 
-# § 82 – Übergangsregelungen aus Anlass des Siebten Besoldungsänderungsgesetzes
-
-(1) Die am 31. Dezember 2015 vorhandenen Beamten und Soldaten setzen ihren Stufenaufstieg ab dem 1. Januar 2016 mit ihrer bis dahin erworbenen Stufe und der darin erbrachten Erfahrungszeit fort. Hat ein Soldat am 31. Dezember 2015 die für die jeweilige Stufe nach § 27 Absatz 3 Satz 1 erforderliche Erfahrungszeit erbracht, erreicht er am 1. Januar 2016 die jeweils nächsthöhere Erfahrungsstufe. Abweichend von Satz 1 werden die darüber hinausgehenden, in der bisherigen Stufe erbrachten Erfahrungszeiten nicht angerechnet.
-
-(2) Für Soldaten, die sich am 31. Dezember 2015 in Stufe 1 oder Stufe 2 befinden, beträgt die maßgebliche Erfahrungszeit in Stufe 2 abweichend von § 27 Absatz 3 Satz 1 zwei Jahre und drei Monate.
+# § 82 – (weggefallen)
 
 # § 83 – Übergangsregelung für Ausgleichszulagen
 

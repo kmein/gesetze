@@ -127,6 +127,8 @@ Die Verarbeitung von personenbezogenen Daten in den Fällen von Satz 1 Nummer 3 
 
 (2) Das Bundeskriminalamt ist die zentrale nationale Stelle für den Informationsaustausch nach Artikel 39 Absatz 3 und Artikel 46 Absatz 2 des Schengener Durchführungsübereinkommens, für den Betrieb des nationalen Teils des Schengener Informationssystems und das SIRENE-Büro für den Austausch von Zusatzinformationen.
 
+(2a) Das Bundeskriminalamt ist Vermögensabschöpfungsstelle nach Artikel 1 des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007 über die Zusammenarbeit zwischen den Vermögensabschöpfungsstellen der Mitgliedstaaten auf dem Gebiet des Aufspürens und der Ermittlung von Erträgen aus Straftaten oder anderen Vermögensgegenständen im Zusammenhang mit Straftaten (ABl. L 332 vom 18.12.2007, S. 103). Das Bundeskriminalamt nimmt im Rahmen der bestehenden Zuständigkeiten seine Aufgaben auch als benannte Behörde nach Artikel 3 Absatz 1 und 2 der Richtlinie (EU) 2019/1153 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur Erleichterung der Nutzung von Finanz- und sonstigen Informationen für die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates (ABl. L 186 vom 11.7.2019, S. 122) wahr.
+
 (3) Der zur Verhütung oder Verfolgung von Straftaten erforderliche Dienstverkehr der Polizeien des Bundes und der Länder mit den Polizei- und Justizbehörden sowie sonstigen insoweit zuständigen öffentlichen Stellen anderer Staaten und mit für die Verhütung oder Verfolgung von Straftaten zuständigen zwischen- und überstaatlichen Stellen obliegt dem Bundeskriminalamt. Unberührt hiervon bleiben
 
 1. besondere bundesgesetzliche Vorschriften, insbesondere die Vorschriften über die internationale Rechtshilfe in Strafsachen,
@@ -262,6 +264,8 @@ In anhängigen Strafverfahren steht dem Bundeskriminalamt diese Befugnis nur im 
 (4) Öffentliche Stellen können von sich aus dem Bundeskriminalamt Informationen einschließlich personenbezogener Daten übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung für die Erfüllung der Aufgaben des Bundeskriminalamtes erforderlich ist. Die Vorschriften der Strafprozessordnung, des Artikel 10-Gesetzes, des Bundesverfassungsschutzgesetzes, des BND-Gesetzes und des MAD-Gesetzes bleiben unberührt. Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Bundeskriminalamtes, trägt dieses die Verantwortung.
 
 (5) Eine Übermittlungspflicht besteht, wenn die Informationen zur Abwehr einer Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder Leib, Leben oder Freiheit einer Person oder einer Sache von bedeutendem Wert, deren Erhaltung im öffentlichen Interesse liegt, erforderlich sind.
+
+(6) Das Bundeskriminalamt als Vermögensabschöpfungsstelle kann die in § 24c Absatz 1 des Kreditwesengesetzes bezeichneten Kontoinformationen automatisiert abrufen, soweit dies im Einzelfall für die Wahrnehmung seiner Aufgaben nach § 3 Absatz 2a zur Verhütung und Verfolgung einer schweren Straftat oder zur Unterstützung einer strafrechtlichen Ermittlung im Zusammenhang mit einer schweren Straftat im Rahmen seiner Zuständigkeiten erforderlich ist, einschließlich der Ermittlung, Rückverfolgung und Sicherstellung der mit dieser Ermittlung zusammenhängenden Vermögenswerte. Als schwere Straftat im Sinne von Satz 1 gelten die in Anhang I der Verordnung (EU) 2016/794 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI des Rates genannten Straftaten. Das Bundeskriminalamt trägt die Verantwortung dafür, dass die Voraussetzungen des Satzes 1 vorliegen. Automatisierte Abrufe von Kontoinformationen dürfen nur durch Personen vorgenommen werden, die dazu besonders ermächtigt und entweder Amtsträger im Sinne des § 11 Absatz 1 Nummer 2 des Strafgesetzbuchs oder nach dem Verpflichtungsgesetz förmlich verpflichtet sind.
 
 (+++ § 9 Abs. 2 u. 3: Zur Anwendung vgl. § 39 Abs. 3 +++)
 
@@ -785,9 +789,11 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 4. mit der Wahrnehmung grenzpolizeilicher Aufgaben betraute Behörden der Zollverwaltung,
 
-5. die Zollfahndungsämter und
+5. die Zollfahndungsämter,
 
-6. das Zollkriminalamt.
+6. das Zollkriminalamt und
+
+7. die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden.
 
 Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, Daten zur Erfüllung der Verpflichtung nach § 32 im automatisierten Verfahren einzugeben und, soweit dies zur jeweiligen Aufgabenerfüllung erforderlich ist, abzurufen.
 
@@ -1962,6 +1968,18 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 (2) Absatz 1 gilt für Zugriffe der Teilnehmer am polizeilichen Informationsverbund entsprechend. Das Bundeskriminalamt hat insbesondere den Zeitpunkt, die Angaben, die die Feststellung der aufgerufenen Datensätze ermöglichen, sowie die für den Zugriff verantwortliche Dienststelle zu protokollieren.
 
 (3) Die nach § 76 des Bundesdatenschutzgesetzes und unter Beachtung der Absätze 1 und 2 generierten Protokolldaten sind nach zwölf Monaten zu löschen.
+
+(4) Bei eingehenden Ersuchen um Finanzinformationen oder Finanzanalysen nach Artikel 2 Nummer 5 und 11 der Richtlinie (EU) 2019/1153 werden protokolliert:
+
+1. Der Name und die Kontaktdaten der Organisation und des Mitarbeiters, der die Informationen anfordert, sowie nach Möglichkeit des Empfängers der Ergebnisse der Abfrage oder Suche,
+
+2. die Bezugnahme auf den nationalen Fall der ersuchenden zentralen Meldestelle, hinsichtlich dessen die Informationen angefordert werden,
+
+3. der Gegenstand der Ersuchen und
+
+4. alle Maßnahmen, die getroffen wurden, um diesen Ersuchen nachzukommen.
+
+Abweichend von Absatz 3 sind die Protokolldaten nach fünf Jahren zu löschen. Sie dürfen ausschließlich zur Überprüfung der Rechtmäßigkeit der Verarbeitung personenbezogener Daten verwendet werden und sind der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit auf Anforderung zur Verfügung zu stellen. Außerdem erhebt das Bundeskriminalamt die Dauer der Bearbeitung von Ersuchen im Sinne des Satzes 1 und übermittelt sie auf Anforderung an das Bundesministerium des Innern, für Bau und Heimat.
 
 (+++ § 81 Abs. 2: Zur Anwendung vgl. § 17 Abs. 3 +++)  
 (+++ § 81 Abs. 2: Zur Anwendung vgl. § 25 Abs. 7 +++)

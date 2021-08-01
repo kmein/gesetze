@@ -33,9 +33,9 @@ Eine Beurkundung ist nicht deshalb unwirksam, weil der Notar sie außerhalb sein
 
 8. Angelegenheiten einer Person, die den Notar in derselben Angelegenheit bevollmächtigt hat oder zu der der Notar oder eine Person im Sinne der Nummer 4 in einem ständigen Dienst- oder ähnlichen ständigen Geschäftsverhältnis steht, oder
 
-9. Angelegenheiten einer Gesellschaft, an der der Notar mit mehr als fünf vom Hundert der Stimmrechte oder mit einem anteiligen Betrag des Haftkapitals von mehr als 2.500 Euro beteiligt ist.
+9. Angelegenheiten einer Gesellschaft, an der der Notar mit mehr als fünf vom Hundert der Stimmrechte oder mit einem anteiligen Betrag des Haftkapitals von mehr als 2 500 Euro beteiligt ist.
 
-Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne der Nummer 7 zu fragen und in der Urkunde die Antwort zu vermerken.
+Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne des Satzes 1 Nummer 7 zu fragen und in der Urkunde die Antwort zu vermerken.
 
 (2) Handelt es sich um eine Angelegenheit mehrerer Personen und ist der Notar früher in dieser Angelegenheit als gesetzlicher Vertreter oder Bevollmächtigter tätig gewesen oder ist er für eine dieser Personen in anderer Sache als Bevollmächtigter tätig, so soll er vor der Beurkundung darauf hinweisen und fragen, ob er die Beurkundung gleichwohl vornehmen soll. In der Urkunde soll er vermerken, daß dies geschehen ist.
 
@@ -47,7 +47,7 @@ Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne der Nummer 7 
 
 3. Angelegenheiten einer als Körperschaft des öffentlichen Rechts anerkannten Religions- oder Weltanschauungsgemeinschaft oder einer als Körperschaft des öffentlichen Rechts anerkannten Teilorganisation einer solchen Gemeinschaft, deren Organ der Notar angehört.
 
-In den Fällen der Nummern 2 und 3 ist Absatz 1 Nr. 6 nicht anwendbar.
+In den Fällen des Satzes 1 Nummer 2 und 3 ist Absatz 1 Satz 1 Nummer 6 nicht anwendbar.
 
 # § 4 – Ablehnung der Beurkundung
 
@@ -169,7 +169,7 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 
 (2) Bestehen Zweifel, ob das Geschäft dem Gesetz oder dem wahren Willen der Beteiligten entspricht, so sollen die Bedenken mit den Beteiligten erörtert werden. Zweifelt der Notar an der Wirksamkeit des Geschäfts und bestehen die Beteiligten auf der Beurkundung, so soll er die Belehrung und die dazu abgegebenen Erklärungen der Beteiligten in der Niederschrift vermerken.
 
-(2a) Der Notar soll das Beurkundungsverfahren so gestalten, daß die Einhaltung der Pflichten nach den Absätzen 1 und 2 gewährleistet ist. Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass
+(2a) Der Notar soll das Beurkundungsverfahren so gestalten, daß die Einhaltung der Amtspflichten nach den Absätzen 1 und 2 gewährleistet ist. Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass
 
 1. die rechtsgeschäftlichen Erklärungen des Verbrauchers von diesem persönlich oder durch eine Vertrauensperson vor dem Notar abgegeben werden und
 
@@ -323,7 +323,7 @@ Bei der Beglaubigung einer Unterschrift oder eines Handzeichens oder der Zeichnu
 
 # § 39a – Einfache elektronische Zeugnisse
 
-(1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können elektronisch errichtet werden. Das hierzu erstellte Dokument muss mit einer qualifizierten elektronischen Signatur versehen werden. Diese soll auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Der Notar muss die Signatur selbst erzeugen und die elektronischen Signaturerstellungsdaten selbst verwalten.
+(1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können elektronisch errichtet werden. Das hierzu erstellte Dokument muss mit einer qualifizierten elektronischen Signatur versehen werden. Diese soll auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Der Notar muss die qualifizierte elektronische Signatur selbst erzeugen. § 33 Absatz 3 der Bundesnotarordnung gilt entsprechend.
 
 (2) Mit dem Zeugnis muss eine Bestätigung der Notareigenschaft durch die zuständige Stelle verbunden werden. Das Zeugnis soll Ort und Tag der Ausstellung angeben.
 
@@ -355,7 +355,7 @@ Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur Aufbewahrun
 
 (3) Enthält die Abschrift nur den Auszug aus einer Urkunde, so soll in dem Beglaubigungsvermerk der Gegenstand des Auszugs angegeben und bezeugt werden, daß die Urkunde über diesen Gegenstand keine weiteren Bestimmungen enthält.
 
-(4) Bei der Beglaubigung eines Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden.
+(4) Bei der Beglaubigung eines Ausdrucks oder einer Abschrift eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden.
 
 # § 43 – Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
 
@@ -381,7 +381,7 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 # § 46 – Ersetzung der Urschrift
 
-(1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so kann auf einer noch vorhandenen Ausfertigung oder beglaubigten Abschrift oder einer davon gefertigten beglaubigten Abschrift vermerkt werden, daß sie an die Stelle der Urschrift tritt. Der Vermerk kann mit dem Beglaubigungsvermerk verbunden werden. Er soll Ort und Zeit der Ausstellung angeben und muß unterschrieben werden.
+(1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so kann auf einer noch vorhandenen Ausfertigung oder beglaubigten Abschrift oder einer davon gefertigten beglaubigten Abschrift vermerkt werden, daß sie an die Stelle der Urschrift tritt. Der Vermerk kann mit dem Beglaubigungsvermerk verbunden werden. Er soll Ort und Tag der Ausstellung angeben und muß unterschrieben werden.
 
 (2) Die Urschrift wird von der Stelle ersetzt, die für die Erteilung einer Ausfertigung zuständig ist.
 
@@ -429,7 +429,7 @@ sowie die Rechtsnachfolger dieser Personen.
 
 (3) Wer Ausfertigungen verlangen kann, ist auch berechtigt, einfache oder beglaubigte Abschriften zu verlangen und die Urschrift einzusehen.
 
-(4) Mitteilungspflichten, die auf Grund von Rechtsvorschriften gegenüber Gerichten oder Behörden bestehen, bleiben unberührt.
+(4) Mitteilungspflichten, die auf Grund von Rechtsvorschriften gegenüber Gerichten oder Behörden bestehen, sowie das Recht auf Zugang zu Forschungszwecken nach § 18a der Bundesnotarordnung bleiben unberührt.
 
 # § 52 – Vollstreckbare Ausfertigungen
 
@@ -481,7 +481,7 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 (4) Die Verwahrungsanweisung sowie deren Änderung, Ergänzung oder Widerruf bedürfen der Schriftform.
 
-(5) Auf der Verwahrungsanweisung hat der Notar die Annahme mit Datum und Unterschrift zu vermerken, sofern die Verwahrungsanweisung nicht Gegenstand einer Niederschrift (§§ 8, 36) ist, die er selbst oder sein amtlich bestellter Vertreter aufgenommen hat.
+(5) Auf der Verwahrungsanweisung hat der Notar die Annahme mit Datum und Unterschrift zu vermerken, sofern die Verwahrungsanweisung nicht Gegenstand einer Niederschrift (§§ 8, 36) ist, die er selbst oder seine Notarvertretung aufgenommen hat.
 
 (6) Die Absätze 3 bis 5 gelten entsprechend für Treuhandaufträge, die dem Notar im Zusammenhang mit dem Vollzug des der Verwahrung zugrundeliegenden Geschäfts von Personen erteilt werden, die an diesem nicht beteiligt sind.
 
@@ -491,7 +491,7 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 (2) Das Notaranderkonto muß bei einem im Inland zum Geschäftsbetrieb befugten Kreditinstitut oder der Deutschen Bundesbank eingerichtet sein. Die Anderkonten sollen bei Kreditinstituten in dem Amtsbereich des Notars oder den unmittelbar angrenzenden Amtsgerichtsbezirken desselben Oberlandesgerichtsbezirks eingerichtet werden, sofern in der Anweisung nicht ausdrücklich etwas anderes vorgesehen wird oder eine andere Handhabung sachlich geboten ist. Für jede Verwahrungsmasse muß ein gesondertes Anderkonto geführt werden, Sammelanderkonten sind nicht zulässig.
 
-(3) Über das Notaranderkonto darf nur der Notar persönlich, dessen amtlich bestellter Vertreter oder der Notariatsverwalter verfügen. Satz 1 gilt für den mit der Aktenverwahrung gemäß § 51 Abs. 1 Satz 2 betrauten Notar entsprechend, soweit ihm die Verfügungsbefugnis über Anderkonten übertragen worden ist. Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Verfügungen auch durch einen entsprechend bevollmächtigten anderen Notar oder im Land Baden-Württemberg durch Notariatsabwickler erfolgen dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich dem Empfangsberechtigten oder einem von diesem schriftlich benannten Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen Zahlungsverkehr durchzuführen, sofern nicht besondere berechtigte Interessen der Beteiligten die Auszahlung in bar oder mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe für eine Bar- oder Scheckauszahlung sind von dem Notar zu vermerken. Die Bar- oder Scheckauszahlung ist durch den berechtigten Empfänger oder einen von ihm schriftlich Beauftragten nach Feststellung der Person zu quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt und dem Kostenschuldner zugegangen ist und Auszahlungsreife des verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
+(3) Über das Notaranderkonto dürfen nur der Notar persönlich, die Notarvertretung, der Notariatsverwalter oder der nach § 51 Absatz 1 Satz 2 der Bundesnotarordnung mit der Aktenverwahrung betraute Notar verfügen. Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Verfügungen auch durch einen entsprechend bevollmächtigten anderen Notar oder im Land Baden-Württemberg durch Notariatsabwickler erfolgen dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich dem Empfangsberechtigten oder einem von diesem schriftlich benannten Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen Zahlungsverkehr durchzuführen, sofern nicht besondere berechtigte Interessen der Beteiligten die Auszahlung in bar oder mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe für eine Bar- oder Scheckauszahlung sind von dem Notar zu vermerken. Die Bar- oder Scheckauszahlung ist durch den berechtigten Empfänger oder einen von ihm schriftlich Beauftragten nach Feststellung der Person zu quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt und dem Kostenschuldner zugegangen ist und Auszahlungsreife des verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
 
 (4) Eine Verwahrung soll nur dann über mehrere Anderkonten durchgeführt werden, wenn dies sachlich geboten ist und in der Anweisung ausdrücklich bestimmt ist.
 
@@ -631,9 +631,7 @@ Die bundes- oder landesrechtlich vorgeschriebene Beidrückung des Dienstsiegels 
 
 Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz aufgehobenen oder abgeänderten Vorschriften verwiesen ist, treten die entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
-# § 75
-
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
+# § 75 – (weggefallen)
 
 # § 76
 

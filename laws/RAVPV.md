@@ -49,7 +49,7 @@ Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezi
 
 (7) Vollziehbare Berufs-, Berufsausübungs- und Vertretungsverbote sind unter Angabe des Zeitpunkts des Beginns sowie der Dauer des Verbots einzutragen. Betrifft das Verbot nur einen Teilbereich der beruflichen Tätigkeit, ist auch der Umfang des Verbots einzutragen. Bei der Eintragung eines Berufsausübungsverbots ist zu vermerken, dass dieses für die Dauer einer Tätigkeit im öffentlichen Dienst oder einer Übernahme eines öffentlichen Amtes besteht. Wurde nach § 14 Absatz 4 Satz 1 der Bundesrechtsanwaltsordnung die sofortige Vollziehung der Rücknahme oder des Widerrufs der Zulassung angeordnet, so ist auch diese Maßnahme unter Angabe des Zeitpunkts des Beginns einzutragen; Absatz 6 Satz 4 gilt entsprechend.
 
-(8) Die Eintragung eines Vertreters muss den Zeitraum erkennen lassen, für den dieser bestellt ist. Ist der Vertreter nach § 53 Absatz 2 Satz 2 der Bundesrechtsanwaltsordnung allgemein für alle Vertretungsfälle eines Kalenderjahres bestellt, muss dies erkennbar sein.
+(8) Die Eintragung einer Vertretung muss den Zeitraum erkennen lassen, für den dieser bestellt ist.
 
 (9) Im Fall der Befreiung von der Kanzleipflicht sind auch der Zeitpunkt des Beginns der Befreiung und bestehende Auflagen einzutragen.
 
@@ -138,7 +138,7 @@ Das Gesamtverzeichnis enthält zu den einzutragenden Personen
 
 (1) Sofern die Rechtsanwaltskammern die in ihren Verzeichnissen enthaltenen Angaben im automatisierten Verfahren in das Gesamtverzeichnis eingeben, sind die zu übertragenden Daten zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.
 
-(2) Die Bundesrechtsanwaltskammer trägt zu den eingetragenen Personen die Bezeichnung ihres besonderen elektronischen Anwaltspostfachs in das Gesamtverzeichnis ein. Wurde für einen Vertreter, Abwickler oder Zustellungsbevollmächtigten ein besonderes elektronisches Anwaltspostfach eingerichtet, ist auch dessen Bezeichnung bei der eingetragenen Person einzutragen.
+(2) Die Bundesrechtsanwaltskammer trägt zu den eingetragenen Personen die Bezeichnung ihres besonderen elektronischen Anwaltspostfachs in das Gesamtverzeichnis ein. Wurde für eine Vertretung, einen Abwickler oder einen Zustellungsbevollmächtigten ein besonderes elektronisches Anwaltspostfach eingerichtet, ist auch dessen Bezeichnung bei der eingetragenen Person einzutragen.
 
 (3) Die Bundesrechtsanwaltskammer ermöglicht den in § 16 Satz 2 genannten Personen durch geeignete technische Vorkehrungen für die Zwecke der Suche nach diesen Angaben über das Europäische Rechtsanwaltsverzeichnis die Eintragung von Sprachkenntnissen und Tätigkeitsschwerpunkten in das Gesamtverzeichnis. Dabei sind nur folgende Tätigkeitsschwerpunkte eintragungsfähig:
 
@@ -248,7 +248,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (3) Die Bundesrechtsanwaltskammer hat den Mitgliedern der Rechtsanwaltskammern, den Rechtsanwaltskammern und sich selbst zum Zweck des Versendens von Nachrichten über das besondere elektronische Anwaltspostfach die elektronische Suche nach allen Personen und Stellen zu ermöglichen, die über das Postfach erreichbar sind. Die Bundesrechtsanwaltskammer hat zudem die Daten, die eine Suche im Sinne des Satzes 1 ermöglichen, auch den Gerichten zugänglich zu machen. Sie kann sie auch anderen Personen und Stellen zugänglich machen, mit denen sie nach Absatz 2 eine Kommunikation ermöglicht.
 
-(4) Vertreter, Abwickler und Zustellungsbevollmächtigte, die nicht bereits von Absatz 1 Satz 1 erfasst sind, sowie nach § 1 Satz 2 Nummer 4 eingetragene Personen stehen den Mitgliedern der Rechtsanwaltskammern nach den Absätzen 1 bis 3 gleich.
+(4) Vertretungen, Abwickler und Zustellungsbevollmächtigte, die nicht bereits von Absatz 1 Satz 1 erfasst sind, sowie nach § 1 Satz 2 Nummer 4 eingetragene Personen stehen den Mitgliedern der Rechtsanwaltskammern nach den Absätzen 1 bis 3 gleich.
 
 # § 20 – Führung der besonderen elektronischen Postfächer
 
@@ -294,7 +294,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (2) Der Postfachinhaber kann auch anderen Personen Zugang zu seinem besonderen elektronischen Anwaltspostfach gewähren. Verfügen die anderen Personen nicht über ein eigenes besonderes elektronisches Anwaltspostfach, hat der Postfachinhaber für sie ein Zugangskonto anzulegen. Der Zugang der anderen Personen über ihr Zugangskonto erfolgt unter Verwendung eines ihnen zugeordneten Zertifikats und einer zugehörigen Zertifikats-PIN. Der Postfachinhaber kann hierzu mit einem auf einer Hardwarekomponente gespeicherten Zertifikat weitere Zertifikate berechtigen, anderen Personen Zugang zu seinem Postfach zu gewähren. Für diese Zertifikate gilt Absatz 1 Satz 2 bis 4 entsprechend.
 
-(3) Der Postfachinhaber kann, wenn er mit einem auf einer Hardwarekomponente gespeicherten Zertifikat angemeldet ist, anderen Personen unterschiedlich weit reichende Zugangsberechtigungen zu seinem besonderen elektronischen Anwaltspostfach erteilen. Er kann anderen Personen, deren Zertifikat auf einer Hardwarekomponente gespeichert ist, auch die Befugnis einräumen, weitere Zugangsberechtigungen zu erteilen. Für die Erteilung weiterer Zugangsberechtigungen durch entsprechend ermächtigte andere Personen gelten die Absätze 1 und 2 entsprechend. Der Postfachinhaber kann anderen Personen zudem die Befugnis einräumen, Nachrichten zu versenden. Das Recht, nicht-qualifiziert elektronisch signierte Dokumente auf einem sicheren Übermittlungsweg zu versenden, kann er jedoch nicht auf andere Personen übertragen.
+(3) Der Postfachinhaber kann, wenn er mit einem auf einer Hardwarekomponente gespeicherten Zertifikat angemeldet ist, anderen Personen unterschiedlich weit reichende Zugangsberechtigungen zu seinem besonderen elektronischen Anwaltspostfach erteilen. Er kann anderen Personen, deren Zertifikat auf einer Hardwarekomponente gespeichert ist, auch die Befugnis einräumen, weitere Zugangsberechtigungen zu erteilen. Für die Erteilung weiterer Zugangsberechtigungen durch entsprechend ermächtigte andere Personen gelten die Absätze 1 und 2 entsprechend. Der Postfachinhaber kann anderen Personen zudem die Befugnis einräumen, Nachrichten zu versenden. Das Recht, nicht-qualifiziert elektronisch signierte Dokumente auf einem sicheren Übermittlungsweg zu versenden, kann er jedoch nicht auf andere Personen übertragen. Satz 5 gilt nicht für die Befugnis von Vertretungen und Zustellungsbevollmächtigten, elektronische Empfangsbekenntnisse abzugeben.
 
 (4) Der Postfachinhaber und die von ihm entsprechend ermächtigten anderen Personen können erteilte Zugangsberechtigungen jederzeit ändern und widerrufen.
 
@@ -304,15 +304,15 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (2) Die Anmeldung anderer Personen an einem besonderen elektronischen Anwaltspostfach erfolgt mit einem ihnen zugeordneten Zertifikat und der zugehörigen Zertifikats-PIN; Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-# § 25 – Vertreter, Abwickler und Zustellungsbevollmächtigte
+# § 25 – Vertretungen, Abwickler und Zustellungsbevollmächtigte
 
-(1) Verfügt eine Person, die für eine im Gesamtverzeichnis eingetragene Person als Vertreter oder Abwickler bestellt oder von ihr als Zustellungsbevollmächtigte benannt wird, nicht über ein besonderes elektronisches Anwaltspostfach, unterrichtet die für die eingetragene Person zuständige Rechtsanwaltskammer die Bundesrechtsanwaltskammer über deren Bestellung oder Benennung. Sie übermittelt hierzu die Angaben zur Identität der eingetragenen Person sowie den Familiennamen, die Vornamen und eine zustellfähige Anschrift der Person, für die das Postfach einzurichten ist. Die Bundesrechtsanwaltskammer richtet daraufhin für die bestellte oder benannte Person für die Dauer ihrer Tätigkeit ein besonderes elektronisches Anwaltspostfach ein.
+(1) Verfügt eine Person, die für eine im Gesamtverzeichnis eingetragene Person von der Rechtsanwaltskammer als Vertretung oder Abwickler bestellt wird, nicht über ein besonderes elektronisches Anwaltspostfach, unterrichtet die für die eingetragene Person zuständige Rechtsanwaltskammer die Bundesrechtsanwaltskammer über deren Bestellung oder Benennung. Sie übermittelt hierzu die Angaben zur Identität der eingetragenen Person sowie den Familiennamen, die Vornamen und eine zustellfähige Anschrift der Person, für die das Postfach einzurichten ist. Die Bundesrechtsanwaltskammer richtet daraufhin für die bestellte oder benannte Person für die Dauer ihrer Tätigkeit ein besonderes elektronisches Anwaltspostfach ein.
 
 (2) Die Rechtsanwaltskammern teilen der Bundesrechtsanwaltskammer mit, wenn aufgrund veränderter Umstände die Voraussetzungen für die Einrichtung eines besonderen elektronischen Anwaltspostfachs im Sinne des Absatzes 1 entfallen sind.
 
-(3) Wird ein Vertreter oder Abwickler bestellt oder ein Zustellungsbevollmächtigter benannt, so räumt die Bundesrechtsanwaltskammer diesem für die Dauer seiner Bestellung einen auf die Übersicht der eingegangenen Nachrichten beschränkten Zugang zum besonderen elektronischen Anwaltspostfach der Person ein, für die er bestellt oder benannt wurde. Dabei müssen für den Vertreter, Abwickler oder Zustellungsbevollmächtigten der Absender und der Eingangszeitpunkt der Nachricht einsehbar sein; der Betreff, der Text und die Anhänge der Nachricht dürfen nicht einsehbar sein. Die zur Einräumung des Zugangs erforderliche Übermittlung von Daten durch die Rechtsanwaltskammer an die Bundesrechtsanwaltskammer erfolgt im automatisierten Verfahren. Zu diesem Zweck zu übertragende Daten sind zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.
+(3) Bestellt die Rechtsanwaltskammer eine Vertretung oder einen Abwickler, so räumt die Bundesrechtsanwaltskammer dieser Person für die Dauer ihrer Bestellung einen auf die Übersicht der eingegangenen Nachrichten beschränkten Zugang zum besonderen elektronischen Anwaltspostfach der Person ein, für die sie bestellt wurde. Dabei müssen für die Vertretung oder den Abwickler der Absender und der Eingangszeitpunkt der Nachricht einsehbar sein; der Betreff, der Text und die Anhänge der Nachricht dürfen nicht einsehbar sein. Die zur Einräumung des Zugangs erforderliche Übermittlung von Daten durch die Rechtsanwaltskammer an die Bundesrechtsanwaltskammer erfolgt im automatisierten Verfahren. Zu diesem Zweck zu übertragende Daten sind zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.
 
-(4) Im Übrigen haben Vertreter und Zustellungsbevollmächtigte Berechtigungen am besonderen elektronischen Anwaltspostfach der Person, für die sie bestellt oder von der sie benannt wurden, nur, soweit sie hierzu nach § 23 Absatz 2 bis 4 berechtigt wurden.
+(4) Hat es ein Rechtsanwalt in den Fällen des § 30, des § 46c Absatz 6 oder des § 54 Absatz 2 der Bundesrechtsanwaltsordnung unterlassen, einem von ihm benannten Zustellungsbevollmächtigten oder einer von ihm bestellten Vertretung einen Zugang zu seinem besonderen elektronischen Anwaltspostfach einzuräumen, so kann die Bundesrechtsanwaltskammer dieser Person für die Dauer ihrer Benennung oder Bestellung einen auf die Übersicht der eingegangenen Nachrichten beschränkten Zugang zum besonderen elektronischen Anwaltspostfach des Rechtsanwalts einräumen, für den sie benannt oder bestellt wurde. Absatz 3 Satz 2 bis 4 gilt entsprechend. Der Antrag auf Einräumung eines Zugangs nach Satz 1 ist bei der Rechtsanwaltskammer zu stellen.
 
 # § 26 – Datensicherheit
 
@@ -348,7 +348,7 @@ Gesperrte besondere elektronische Anwaltspostfächer werden einschließlich der 
 
 # § 30 – Die Rechtsanwaltschaft bei dem Bundesgerichtshof
 
-Von den Aufgaben, die nach dieser Verordnung der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die mit der Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof, dem Erlöschen dieser Zulassung und der Bestellung eines Vertreters oder Abwicklers für einen Rechtsanwalt bei dem Bundesgerichtshof verbunden sind.
+Von den Aufgaben, die nach dieser Verordnung der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die mit der Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof, dem Erlöschen dieser Zulassung und der Bestellung einer Vertretung oder eines Abwicklers für einen Rechtsanwalt bei dem Bundesgerichtshof verbunden sind.
 
 # § 31 – (weggefallen)
 

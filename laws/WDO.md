@@ -2112,13 +2112,15 @@ c) in einem früheren, dieselbe Sache betreffenden Beschwerdeverfahren, Verfahre
 
 # § 81 – Organisation und Aufgaben
 
-(1) Das Bundesministerium der Verteidigung bestellt bei den Truppendienstgerichten Beamte für die Dauer ihres Hauptamtes als Wehrdisziplinaranwälte. Sie müssen die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen.
+(1) Das Bundesministerium der Verteidigung bestellt bei den Truppendienstgerichten Beamte für die Dauer ihres Hauptamtes als Wehrdisziplinaranwälte. Sie müssen die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben.
 
 (2) Die Wehrdisziplinaranwälte vertreten die dem Bundesminister der Verteidigung nachgeordneten Einleitungsbehörden im gerichtlichen Disziplinarverfahren. Sie vertreten auch den Bundesminister der Verteidigung, wenn er selbst Einleitungsbehörde ist. Sie haben den Ersuchen der Einleitungsbehörde zu entsprechen. Ihnen obliegt die Vollstreckung von Disziplinarmaßnahmen, die im gerichtlichen Disziplinarverfahren verhängt worden sind.
 
 (3) Bei dem Bundesverwaltungsgericht wird ein Bundeswehrdisziplinaranwalt bestellt; er vertritt die oberste Dienstbehörde und die anderen Einleitungsbehörden in jeder Lage des Verfahrens vor diesem Gericht. Der Bundeswehrdisziplinaranwalt untersteht dem Bundesminister der Verteidigung und ist nur an dessen Weisungen gebunden. Für ihn und seine hauptamtlichen Mitarbeiter des höheren Dienstes gilt Absatz 1 Satz 2. Dem Bundeswehrdisziplinaranwalt unterstehen die Wehrdisziplinaranwälte.
 
 (4) Die Einleitungsbehörde hat auf Verlangen des Bundeswehrdisziplinaranwalts ein gerichtliches Disziplinarverfahren einzuleiten, wenn im Verfahren voraussichtlich auf Entfernung aus dem Dienstverhältnis, auf Aberkennung des Ruhegehalts, auf Aberkennung des Dienstgrades oder auf Dienstgradherabsetzung erkannt werden wird und die Einleitungsbehörde die Einleitung des Verfahrens zuvor entgegen einem Vorschlag des Wehrdisziplinaranwalts abgelehnt hat. Auf sein Ersuchen sind dem Bundeswehrdisziplinaranwalt die Akten, die für die Beurteilung eines Dienstvergehens von Bedeutung sein können, sowie die Personalakten vorzulegen. Absatz 3 Satz 2 und § 98 Abs. 1 und 2 bleiben unberührt.
+
+(+++ § 81 Abs. 1 Satz 2: Aufgrund offensichtlicher Unrichtigkeit wurden gem. Art. 24 Abs. 2 G v. 25.6.2021 I 2154 anstelle der Wörter "oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen" die Wörter "oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen" gestrichen +++)
 
 # § 82 – Verfahren gegen frühere Soldaten
 
@@ -2178,9 +2180,11 @@ Soldaten werden zur Hauptverhandlung sowie zu sonstigen Vernehmungen dienstlich 
 
 (1) Der Soldat kann sich in jeder Lage des Verfahrens des Beistands eines Verteidigers bedienen. Der Vorsitzende der Truppendienstkammer bestellt dem Soldaten, der noch keinen Verteidiger gewählt hat, auf Antrag oder von Amts wegen einen Verteidiger, wenn die Mitwirkung eines Verteidigers geboten erscheint. Ist der Soldat verhandlungsunfähig, durch Abwesenheit an der Wahrnehmung seiner Rechte gehindert oder minderjährig, ist ihm in jedem Fall ein Verteidiger zu bestellen.
 
-(2) Verteidiger vor dem Truppendienstgericht können Rechtsanwälte und andere Personen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen, sowie Soldaten sein. Als Verteidiger vor dem Bundesverwaltungsgericht sind nur Personen zugelassen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen.
+(2) Verteidiger vor dem Truppendienstgericht können Rechtsanwälte und andere Personen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben, sowie Soldaten sein. Als Verteidiger vor dem Bundesverwaltungsgericht sind nur Personen zugelassen, welche die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben.
 
 (3) Dem Verteidiger steht das Recht, Einsicht in die Akten zu nehmen, in gleichem Umfang zu wie dem Soldaten.
+
+(+++ § 90 Abs. 2 Satz 1 u. 2: Aufgrund offensichtlicher Unrichtigkeit wurden gem. Art. 24 Abs. 2 G v. 25.6.2021 I 2154 anstelle der Wörter "oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen" die Wörter "oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen" gestrichen +++)
 
 # § 91 – Ergänzende Vorschriften
 

@@ -1114,7 +1114,7 @@ Als Entschädigung werden geleistet
 
 # § 30
 
-(1) Umfang und Erfüllung des Anspruchs auf ein Heilverfahren richten sich nach den Vorschriften über die Unfallfürsorge der Bundesbeamten. Die §§ 33, 34 Abs. 1 und § 51 des Beamtenversorgungsgesetzes und die Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes (Heilverfahrensverordnung) sind entsprechend anzuwenden.
+(1) Umfang und Erfüllung des Anspruchs auf ein Heilverfahren richten sich nach den Vorschriften über die Unfallfürsorge der Bundesbeamten. Die §§ 33, 34, 51 des Beamtenversorgungsgesetzes und die Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes (Heilverfahrensverordnung) sind entsprechend anzuwenden.
 
 (2) Der Anspruch wird nicht dadurch ausgeschlossen, daß das Heilverfahren vor Inkrafttreten dieses Gesetzes durchgeführt worden ist.
 

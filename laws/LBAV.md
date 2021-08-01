@@ -9,7 +9,7 @@ Auf Grund des § 18 Absatz 4 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl
 
 # § 1 – Geltungsbereich
 
-Diese Verordnung gilt für Deutsche im Sinne des Artikels 116 des Grundgesetzes und für Angehörige der in § 7 Absatz 1 Nummer 1 des Bundesbeamtengesetzes genannten Staaten, die die Anerkennung ihrer Berufsqualifikation als Befähigung für eine Laufbahn im Bundesdienst auf Grund der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, anstreben, wenn ihre Berufsqualifikation in einem dieser Staaten erworben oder anerkannt worden ist (Qualifikationsstaat) und dort für den unmittelbaren Zugang zu einer Tätigkeit im öffentlichen Dienst erforderlich ist, die der angestrebten Laufbahn vergleichbar ist.
+Diese Verordnung gilt für Deutsche im Sinne des Artikels 116 des Grundgesetzes und für Angehörige der in § 7 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes genannten Staaten, die die Anerkennung ihrer Berufsqualifikation als Befähigung für eine Laufbahn im Bundesdienst auf Grund der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, anstreben, wenn ihre Berufsqualifikation in einem dieser Staaten erworben oder anerkannt worden ist (Qualifikationsstaat) und dort für den unmittelbaren Zugang zu einer Tätigkeit im öffentlichen Dienst erforderlich ist, die der angestrebten Laufbahn vergleichbar ist.
 
 # § 2 – Anerkennungsvoraussetzungen
 
@@ -31,7 +31,7 @@ Diese Verordnung gilt für Deutsche im Sinne des Artikels 116 des Grundgesetzes 
 
 (3) Einer Qualifikation nach Absatz 1 sind gleichgestellt:
 
-1. eine Qualifikation, die in einem in § 7 Absatz 1 Nummer 1 des Bundesbeamtengesetzes nicht genannten Staat erworben worden ist, sofern die Antragstellerin oder der Antragsteller durch eine vom Qualifikationsstaat ausgestellte Bescheinigung nachweist, dass sie oder er den betreffenden Beruf drei Jahre lang im Qualifikationsstaat ausgeübt hat, sowie
+1. eine Qualifikation, die in einem in § 7 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes nicht genannten Staat erworben worden ist, sofern die Antragstellerin oder der Antragsteller durch eine vom Qualifikationsstaat ausgestellte Bescheinigung nachweist, dass sie oder er den betreffenden Beruf drei Jahre lang im Qualifikationsstaat ausgeübt hat, sowie
 
 2. eine in Artikel 12 der Richtlinie 2005/36/EG aufgeführte Qualifikation.
 
@@ -173,7 +173,7 @@ Das Bundesverwaltungsamt arbeitet mit den zuständigen Behörden der Qualifikati
 
 (1) Das Bundesverwaltungsamt stellt den in § 10 genannten Stellen auf Ersuchen die erforderlichen Angaben über die Voraussetzungen der Anerkennung der Qualifikationen als Laufbahnbefähigung zur Verfügung, wenn die Antragstellerin oder der Antragsteller nicht in der Lage ist, den in § 10 genannten Stellen entsprechende Angaben zu machen.
 
-(2) Beantragt eine Beamtin oder ein Beamter die Anerkennung ihrer oder seiner Qualifikation in einem der in § 7 Absatz 1 Nummer 1 des Bundesbeamtengesetzes genannten Staaten, unterrichtet die Dienstbehörde nach Anhörung der oder des Betroffenen die zuständige Behörde des Staates, in dem der Antrag gestellt worden ist, über Dienstvergehen, Straftaten, Ordnungswidrigkeiten, die sich auf die Zulässigkeit der Ausübung der Tätigkeit auswirken können. Dienstvergehen, Straftaten und Ordnungswidrigkeiten dürfen nur mitgeteilt werden, wenn sie unanfechtbar festgestellt worden sind und der empfangende Staat zusichert,
+(2) Beantragt eine Beamtin oder ein Beamter die Anerkennung ihrer oder seiner Qualifikation in einem der in § 7 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes genannten Staaten, unterrichtet die Dienstbehörde nach Anhörung der oder des Betroffenen die zuständige Behörde des Staates, in dem der Antrag gestellt worden ist, über Dienstvergehen, Straftaten, Ordnungswidrigkeiten, die sich auf die Zulässigkeit der Ausübung der Tätigkeit auswirken können. Dienstvergehen, Straftaten und Ordnungswidrigkeiten dürfen nur mitgeteilt werden, wenn sie unanfechtbar festgestellt worden sind und der empfangende Staat zusichert,
 
 1. die Angaben nur für die Entscheidung über die Anerkennung der Berufsqualifikation zu verwenden und
 

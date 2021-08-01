@@ -3381,7 +3381,7 @@ Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des Bundesausbildun
 
 2. § 22 Absatz 1 des Bundesausbildungsförderungsgesetzes ist das Einkommen der oder des Auszubildenden maßgebend, das zum Zeitpunkt der Antragstellung absehbar ist; Änderungen bis zum Zeitpunkt der Entscheidung sind zu berücksichtigen;
 
-3. § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 66 Euro der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des Bundesausbildungsförderungsgesetzes zusätzlich 669 Euro anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus nicht in angemessener Zeit erreicht werden kann;
+3. § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 62 Euro der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des Bundesausbildungsförderungsgesetzes zusätzlich 709 Euro anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus nicht in angemessener Zeit erreicht werden kann;
 
 4. § 23 Absatz 4 Nummer 2 des Bundesausbildungsförderungsgesetzes werden Leistungen Dritter, die zur Aufstockung der Berufsausbildungsbeihilfe erbracht werden, nicht angerechnet.
 
@@ -4357,9 +4357,9 @@ Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkst
 
 1. des behinderten Menschen aus Waisenrenten, Waisengeld oder aus Unterhaltsleistungen bis zu 277 Euro monatlich,
 
-2. der Eltern bis zu 3 431 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der behinderte Mensch lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 138 Euro monatlich und
+2. der Eltern bis zu 3 637 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der behinderte Mensch lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 266 Euro monatlich und
 
-3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 138 Euro monatlich.
+3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 266 Euro monatlich.
 
 (+++ § 126: Zur Anwendung vgl. §§ 445 u. 445a +++)
 

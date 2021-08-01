@@ -723,7 +723,7 @@ Eber dürfen nur in Haltungseinrichtungen gehalten werden, die so beschaffen sin
 
 (1) Wer Schweine hält, hat sicherzustellen, dass
 
-1. jedes Schwein jederzeit Zugang zu gesundheitlich unbedenklichem und in ausreichender Menge vorhandenem Beschäftigungsmaterial hat, das
+1. jedes Schwein jederzeit Zugang zu gesundheitlich unbedenklichem und in ausreichender Menge vorhandenem organischen und faserreichen Beschäftigungsmaterial hat, das
 
 a) das Schwein untersuchen und bewegen kann und
 
@@ -817,7 +817,7 @@ bis 10
 |          über 10 bis 20           |           0,2           |
 |              über 20              |          0,35.          |
 
-3. Bei rationierter Fütterung muss der Fressplatz so beschaffen sein, dass alle Absatzferkel gleichzeitig fressen können. Bei tagesrationierter Fütterung muss für jeweils höchstens zwei Absatzferkel eine Fressstelle vorhanden sein. Bei Fütterung zur freien Aufnahme muss für jeweils höchstens vier Absatzferkel eine Fressstelle vorhanden sein.
+3. Bei rationierter Fütterung muss der Fressplatz so beschaffen sein, dass alle Absatzferkel gleichzeitig fressen können. Bei Fütterung zur freien Aufnahme muss für jeweils höchstens vier Absatzferkel eine Fressstelle vorhanden sein.
 
 4. Nummer 3 gilt nicht für die Abruffütterung und die Fütterung mit Breifutterautomaten.
 

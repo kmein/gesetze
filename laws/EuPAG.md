@@ -107,7 +107,7 @@ Die Eignungsprüfung erstreckt sich auf folgende Fächer:
 
 (2) Die Prüfungskommission erlässt dem Prüfling auf Antrag einzelne Prüfungsleistungen ganz oder teilweise, wenn er nachweist, dass er durch seine berufliche Ausbildung oder anderweitig, insbesondere durch Berufspraxis oder Weiterbildungsmaßnahmen, in einem Prüfungsgebiet die für die Ausübung des Patentanwaltsberufs in Deutschland erforderlichen materiell-rechtlichen und verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat. Ein Antrag nach Satz 1 soll möglichst zusammen mit dem Antrag nach § 1 Absatz 1 gestellt werden. Die Prüfungskommission kann vor dem Erlass von Prüfungsleistungen eine Stellungnahme der Patentanwaltskammer einholen.
 
-(3) Die schriftliche Prüfung umfasst vier Klausuren. Der Schwerpunkt je einer Klausur hat auf je einem der in § 5 Nummer 1 bis 4 genannten Prüfungsfächer zu liegen.
+(3) Die schriftliche Prüfung, die auch elektronisch durchgeführt werden kann, umfasst vier Klausuren. Der Schwerpunkt je einer Klausur hat auf je einem der in § 5 Nummer 1 bis 4 genannten Prüfungsfächer zu liegen.
 
 (4) Der Prüfling wird zur mündlichen Prüfung nur zugelassen, wenn mindestens zwei Klausuren den Anforderungen genügen; anderenfalls gilt die Prüfung als nicht bestanden. Sofern dem Prüfling Klausuren nach Absatz 2 vollständig erlassen wurden, sind diese als den Anforderungen genügend im Sinne des Satzes 1 zu werten.
 
@@ -183,7 +183,7 @@ erforderlich sind, genügen Bescheinigungen des Heimat- oder Herkunftsstaates, d
 
 (2) Für die Erlangung der Bescheinigung nach § 2 Absatz 5 gelten die §§ 1 bis 11 mit der Maßgabe, dass sich insbesondere die nachzuweisenden Qualifikationen und Tätigkeiten, die Eignungsprüfung und die Feststellung der Gleichwertigkeit der Berufsqualifikation der Person jeweils nur auf die Rechtsgebiete erstrecken, auf denen die Person in dem anderen Mitgliedstaat tätig werden darf. Klausuren nach § 6 Absatz 3 entfallen dann, wenn die ihren Schwerpunkt bildenden Prüfungsfächer nach § 5 Nummer 1 bis 4 ausschließlich solche Gegenstände betreffen, die vom Tätigkeitsbereich der Person nicht umfasst sind.
 
-(3) Nach Absatz 1 partiell zugelassene Patentanwälte haben ihre patentanwaltliche Berufstätigkeit unter der in die deutsche Sprache übersetzten Berufsbezeichnung ihres Herkunftsstaates auszuüben. Sie haben ihre Mandantschaft vor ihrer Mandatierung über den Umfang ihres Tätigkeitsbereichs aufzuklären.
+(3) Nach Absatz 1 partiell zugelassene Patentanwälte haben ihre patentanwaltliche Berufstätigkeit unter der Berufsbezeichnung ihres Herkunftsstaates auszuüben. Sie haben ihre Mandantschaft vor ihrer Mandatierung über den Umfang ihres Tätigkeitsbereichs aufzuklären.
 
 # § 13 – Dienstleistender europäischer Patentanwalt
 
@@ -324,7 +324,3 @@ Auf die Erhebung und Beitreibung von Gebühren und Auslagen für Amtshandlungen 
 # § 29 – Anwendung von Vorschriften des Strafgesetzbuches
 
 Für die Anwendung der Vorschriften des Strafgesetzbuches über die Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3 bis 6, §§ 204 und 205), über die Gebührenüberhebung (§ 352) und über den Parteiverrat (§ 356) stehen dienstleistende europäische Patentanwälte und niedergelassene europäische Patentanwälte Patentanwälten und Anwälten gleich.
-
-# § 30 – Übergangsregelung
-
-Die §§ 5 und 6 sind erst ab dem 1. Juni 2018 anzuwenden. Bis zu diesem Zeitpunkt sind die §§ 5 und 6 des Gesetzes über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft in der bis zum 17. Mai 2017 geltenden Fassung weiter anzuwenden.

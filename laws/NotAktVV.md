@@ -65,7 +65,7 @@
 
 (1) Ist die Verwendung eines bestimmten Dateiformats oder eines bestimmten Systems nicht durch andere oder aufgrund anderer Rechtsvorschriften vorgeschrieben, so sind elektronische Akten und Verzeichnisse (elektronische Aufzeichnungen) in einem Dateiformat zu führen, das allgemein gebräuchlich ist. Elektronische Aufzeichnungen können auch in einem anderen Dateiformat geführt werden, wenn dieses ohne erheblichen zeitlichen oder finanziellen Aufwand in ein allgemein gebräuchliches Dateiformat überführt werden kann.
 
-(2) Geht die Zuständigkeit für die Verwahrung von Akten und Verzeichnissen auf eine andere Stelle über, so hat die bisher zuständige Stelle der künftig zuständigen Stelle elektronische Aufzeichnungen auf einem allgemein gebräuchlichen Datenträger zu übergeben. Handelt es sich um elektronische Aufzeichnungen, die im Elektronischen Urkundenarchiv oder im Elektronischen Notaraktenspeicher vorliegen, so hat die bisher zuständige Stelle an der Einräumung des Zugangs für die künftig zuständige Stelle mitzuwirken, soweit dies erforderlich ist.
+(2) Geht die Zuständigkeit für die Verwahrung von Akten und Verzeichnissen auf eine andere Stelle über, so hat die bisher zuständige Stelle der künftig zuständigen Stelle elektronische Aufzeichnungen auf einem allgemein gebräuchlichen Datenträger zu übergeben. Handelt es sich um elektronische Aufzeichnungen, die im Elektronischen Urkundenarchiv oder im Elektronischen Notariatsaktenspeicher vorliegen, so hat die bisher zuständige Stelle an der Einräumung des Zugangs für die künftig zuständige Stelle mitzuwirken, soweit dies erforderlich ist.
 
 (+++ § 4 Abs. 2: Zur Geltung vgl. § 48 S 2 +++)
 

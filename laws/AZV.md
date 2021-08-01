@@ -212,7 +212,3 @@ Soweit Besonderheiten bestimmter spezifischer Tätigkeiten, die dem Schutz der B
 # § 16 – Zuständigkeit
 
 Zuständige Behörde im Sinne dieser Verordnung ist die oberste Dienstbehörde, soweit nichts Abweichendes bestimmt ist. Die oberste Dienstbehörde kann ihre Befugnisse nach dieser Verordnung auf andere Behörden übertragen. Die für Teilzeitbeschäftigung notwendigen individuellen Festsetzungen trifft die Dienstbehörde.
-
-# § 17 – Übergangsvorschrift zu Langzeitkonten
-
-Für einen Übergangszeitraum bis zum 31. Juli 2021 können die Dienststellen den Beamtinnen und Beamten, die bereits ein Langzeitkonto eingerichtet haben, das Ansparen von Zeitguthaben auf der Grundlage des § 7a Absatz 2 der Arbeitszeitverordnung in der bis zum 31. Dezember 2020 geltenden Fassung gestatten.

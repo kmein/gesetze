@@ -3,176 +3,6 @@
  
 # Inhaltsübersicht
 
-Erster Teil:
-
- 
-
- 
-
-Richteramt in Bund und Ländern
-
- 
-
- 
-
- 
-
-Erster Abschnitt:
-
-Einleitende Vorschriften
-
-§§ 1 bis 4
-
- 
-
- 
-
-Zweiter Abschnitt:
-
-Befähigung zum Richteramt
-
-§§ 5 bis 7
-
- 
-
- 
-
-Dritter Abschnitt:
-
-Richterverhältnis
-
-§§ 8 bis 24
-
- 
-
- 
-
-Vierter Abschnitt:
-
-Unabhängigkeit des Richters
-
-§§ 25 bis 37
-
- 
-
- 
-
-Fünfter Abschnitt:
-
-Besondere Pflichten des Richters
-
-§§ 38 bis 43
-
- 
-
- 
-
-Sechster Abschnitt:
-
-Ehrenamtliche Richter
-
-§§ 44 und 45a
-
-Zweiter Teil:
-
- 
-
- 
-
-Richter im Bundesdienst
-
- 
-
- 
-
- 
-
-Erster Abschnitt:
-
-Allgemeine Vorschriften
-
-§§ 46 bis 48d
-
- 
-
- 
-
-Zweiter Abschnitt:
-
-Richtervertretungen
-
-§§ 49 bis 60
-
- 
-
- 
-
-Dritter Abschnitt:
-
-Dienstgericht des Bundes
-
-§§ 61 bis 68
-
- 
-
- 
-
-Vierter Abschnitt:
-
-Richter des Bundesverfassungsgerichts
-
-§§ 69 und 70
-
-Dritter Teil:
-
- 
-
- 
-
-Richter im Landesdienst
-
-§§ 71 bis 84
-
-Viertel Teil:
-
- 
-
- 
-
-Übergangs- und Schlußvorschriften
-
- 
-
- 
-
- 
-
-Erster Abschnitt:
-
-Änderung von Bundesrecht
-
-§§ 85 bis 104
-
- 
-
- 
-
-Zweiter Abschnitt:
-
-Überleitung von Rechtsverhältnissen
-
-§§ 105 bis 118
-
- 
-
- 
-
-Dritter Abschnitt:
-
-Schlußvorschriften
-
-§§ 119 bis 126
-
 # § 1 – Berufsrichter und ehrenamtliche Richter
 
 Die rechtsprechende Gewalt wird durch Berufsrichter und durch ehrenamtliche Richter ausgeübt.
@@ -247,9 +77,9 @@ sowie bei einer oder mehreren Wahlstationen, bei denen eine sachgerechte Ausbild
 
 (2) Das Nähere regelt das Landesrecht.
 
-# § 5d – Prüfungen
+# § 5d – Prüfungen; Verordnungsermächtigung
 
-(1) Staatliche und universitäre Prüfungen berücksichtigen die rechtsprechende, verwaltende und rechtsberatende Praxis einschließlich der hierfür erforderlichen Schlüsselqualifikationen nach § 5a Abs. 3 Satz 1; unbeschadet von § 5a Abs. 2 Satz 2 können die Prüfungen auch Fremdsprachenkompetenz berücksichtigen. Die Einheitlichkeit der Prüfungsanforderungen und der Leistungsbewertung ist zu gewährleisten. Der Bundesminister der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates eine Noten- und Punkteskala für die Einzel- und Gesamtnoten aller Prüfungen festzulegen.
+(1) Staatliche und universitäre Prüfungen berücksichtigen die rechtsprechende, verwaltende und rechtsberatende Praxis einschließlich der hierfür erforderlichen Schlüsselqualifikationen nach § 5a Abs. 3 Satz 1; unbeschadet von § 5a Abs. 2 Satz 2 können die Prüfungen auch Fremdsprachenkompetenz berücksichtigen. Die Einheitlichkeit der Prüfungsanforderungen und der Leistungsbewertung ist zu gewährleisten. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates eine Noten- und Punkteskala für die Einzel- und Gesamtnoten aller Prüfungen festzulegen.
 
 (2) Der Stoff der universitären Schwerpunktbereichsprüfung und der staatlichen Pflichtfachprüfung ist so zu bemessen, dass das Studium nach fünf Studienjahren abgeschlossen werden kann. In der universitären Schwerpunktbereichsprüfung ist mindestens eine schriftliche Leistung zu erbringen. In der staatlichen Pflichtfachprüfung sind schriftliche und mündliche Leistungen zu erbringen; das Landesrecht kann bestimmen, dass Prüfungsleistungen während des Studiums erbracht werden, jedoch nicht vor Ablauf von zweieinhalb Studienjahren. Das Zeugnis über die erste Prüfung weist die Ergebnisse der bestandenen universitären Schwerpunktbereichsprüfung und der bestandenen staatlichen Pflichtfachprüfung sowie zusätzlich eine Gesamtnote aus, in die das Ergebnis der bestandenen staatlichen Pflichtfachprüfung mit 70 vom Hundert und das Ergebnis der bestandenen universitären Schwerpunktbereichsprüfung mit 30 vom Hundert einfließt; es wird in dem Land erteilt, in dem die staatliche Pflichtfachprüfung bestanden wurde.
 
@@ -259,7 +89,7 @@ sowie bei einer oder mehreren Wahlstationen, bei denen eine sachgerechte Ausbild
 
 (5) Die staatliche Pflichtfachprüfung kann einmal wiederholt werden. Eine erfolglose staatliche Pflichtfachprüfung gilt als nicht unternommen, wenn der Bewerber sich frühzeitig zu dieser Prüfung gemeldet und die vorgesehenen Prüfungsleistungen vollständig erbracht hat. Das Nähere, insbesondere den Ablauf der Meldefrist, die Anrechnung von Zeiten des Auslandsstudiums, der Erkrankung und der Beurlaubung auf die Studiendauer sowie die Folgen einer Prüfungsunterbrechung regelt das Landesrecht. Das Landesrecht kann eine Wiederholung der staatlichen Prüfungen zur Notenverbesserung vorsehen.
 
-(6) Das Nähere regelt das Landesrecht.
+(6) Das Nähere regelt das Landesrecht. Es kann auch bestimmen, dass in den staatlichen Prüfungen schriftliche Leistungen elektronisch erbracht werden dürfen.
 
 # § 6 – Anerkennung von Prüfungen
 
@@ -354,7 +184,7 @@ Ein Richter auf Probe kann ohne seine Zustimmung nur bei einem Gericht, bei eine
 
 (4) Bei der Umwandlung eines Richterverhältnisses in ein Richterverhältnis anderer Art müssen in der Ernennungsurkunde die diese Art bestimmenden Worte nach Absatz 3 enthalten sein, bei der ersten Verleihung eines Amtes und bei der Verleihung eines anderen Amtes mit anderem Endgrundgehalt und anderer Amtsbezeichnung muß in der Ernennungsurkunde die Amtsbezeichnung dieses Amtes enthalten sein.
 
-# § 17a
+# § 17a – Niederlegung eines Mandats im Deutschen Bundestag
 
 Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erneut um einen Sitz im Deutschen Bundestag, so ist die Übertragung eines anderen Amtes mit höherem Endgrundgehalt nicht zulässig.
 
@@ -660,9 +490,9 @@ Die ehrenamtlichen Richter in der Strafgerichtsbarkeit führen die Bezeichnung "
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten für die Rechtsverhältnisse der Richter im Bundesdienst bis zu einer besonderen Regelung die Vorschriften für Bundesbeamte entsprechend.
 
-# § 47 – Bundespersonalausschuß in Angelegenheiten der Richter
+# § 47 – Bundespersonalausschuss in Angelegenheiten der Richter
 
-In Angelegenheiten der Richter im Bundesdienst wirkt im Bundespersonalausschuß als weiteres ständiges ordentliches Mitglied der Leiter der Personalabteilung des Bundesministeriums der Justiz und für Verbraucherschutz mit, dessen Stellvertreter ein anderer Beamter des Bundesministeriums der Justiz und für Verbraucherschutz ist. Nichtständige ordentliche Mitglieder sind vier Richter; sie und ihre Stellvertreter müssen Richter auf Lebenszeit im Bundesdienst sein. Der Beamte des Bundesministeriums der Justiz und für Verbraucherschutz und die Richter werden vom Bundesminister der Justiz und für Verbraucherschutz im Einvernehmen mit den beteiligten Bundesministern vorgeschlagen, davon drei Richter und ihre Stellvertreter auf Grund einer Benennung durch die Spitzenorganisationen der Berufsverbände der Richter.
+In Angelegenheiten der Richter im Bundesdienst wirkt im Bundespersonalausschuß als weiteres ständiges ordentliches Mitglied der Leiter der Personalabteilung des Bundesministeriums der Justiz und für Verbraucherschutz mit, dessen Stellvertreter ein anderer Beamter des Bundesministeriums der Justiz und für Verbraucherschutz ist. Nichtständige ordentliche Mitglieder sind vier Richter; sie und ihre Stellvertreter müssen Richter auf Lebenszeit im Bundesdienst sein. Der Beamte des Bundesministeriums der Justiz und für Verbraucherschutz und die Richter werden vom Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit den beteiligten Bundesministerien vorgeschlagen, davon drei Richter und ihre Stellvertreter auf Grund einer Benennung durch die Spitzenorganisationen der Berufsverbände der Richter.
 
 # § 48 – Eintritt in den Ruhestand
 
@@ -1359,19 +1189,7 @@ Das Landesrecht bestimmt, wieweit dieses Gesetz für die Mitglieder des Verfassu
 
 Soweit in anderen Gesetzen und Verordnungen auf Vorschriften oder Bezeichnungen verwiesen wird, die durch dieses Gesetz aufgehoben werden, treten an ihre Stelle die entsprechenden Vorschriften oder die Bezeichnungen dieses Gesetzes.
 
-# § 105 – Überleitungsvorschriften für Richter auf Lebenszeit und auf Zeit
-
-(1) Wer vor Inkrafttreten dieses Gesetzes in ein öffentlich-rechtliches Dienstverhältnis auf Lebenszeit oder auf Zeit berufen ist und ein Richteramt als Hauptamt innehat, erhält die Rechtsstellung eines Richters auf Lebenszeit oder auf Zeit im Sinne dieses Gesetzes.
-
-(2) Wer bei Inkrafttreten dieses Gesetzes die Befähigung zum Richteramt nicht besitzt, kann bei einem Gericht nur entsprechend den bis zum Inkrafttreten dieses Gesetzes geltenden Vorschriften weiterverwendet werden.
-
-(3) Wer nach dem 8. Mai 1945 aus Anlaß der Übertragung eines Richteramts einen Eid geleistet hat, ist von der Pflicht zur Leistung des Richtereides (§ 38) befreit.
-
-# § 106 – Überleitungsvorschriften für Richter auf Probe, Richter kraft Auftrags und abgeordnete Richter
-
-(1) Wer bei Inkrafttreten dieses Gesetzes in einem öffentlich-rechtlichen Dienstverhältnis auf Probe die Aufgaben eines Richters wahrnimmt, erhält die Rechtsstellung eines Richters auf Probe. Die Fristen in § 12 Abs. 2 und § 22 Abs. 1 und 2 rechnen von der Einstellung ab.
-
-(2) Ist ein Beamter auf Lebenszeit oder auf Zeit bei Inkrafttreten dieses Gesetzes mit der Wahrnehmung eines Richteramts beauftragt, so darf er dieses Amt bis zum Ablauf eines Jahres nach Inkrafttreten dieses Gesetzes führen. Danach kann er bei einem Gericht nur noch in einem Richterverhältnis nach den Vorschriften dieses Gesetzes verwendet werden.
+# §§ 105 und 106 – (weggefallen)
 
 # § 107 – (weggefallen)
 
@@ -1385,15 +1203,7 @@ Soweit in anderen Gesetzen und Verordnungen auf Vorschriften oder Bezeichnungen 
 
 Wer am 1. Juli 2003 zum Richteramt befähigt ist, behält diese Befähigung.
 
-# § 110 – Befähigung zum höheren Verwaltungsdienst
-
-Wer bis zum Inkrafttreten dieses Gesetzes nach mindestens dreijährigem Studium der Rechtswissenschaft an einer Universität und dreijähriger Ausbildung im öffentlichen Dienst durch Ablegen der gesetzlich vorgeschriebenen Prüfungen die Befähigung zum höheren Verwaltungsdienst erworben hat, kann auch nach Inkrafttreten dieses Gesetzes zum Richter in der Verfassungsgerichtsbarkeit, Verwaltungsgerichtsbarkeit und Sozialgerichtsbarkeit ernannt werden. § 19 Abs. 1 Nr. 1 gilt entsprechend.
-
-# § 111 – Vorsitzende der Arbeitsgerichte und Sozialgerichte
-
-(1) Zum Vorsitzenden eines Arbeitsgerichts oder eines Sozialgerichts kann bis zum Ablauf von zwei Jahren nach Inkrafttreten dieses Gesetzes auch ernannt werden, wer die Voraussetzungen des § 18 Abs. 3 des Arbeitsgerichtsgesetzes oder des § 9 Abs. 2 des Sozialgerichtsgesetzes in der bis zum Inkrafttreten dieses Gesetzes geltenden Fassung erfüllt; § 19 Abs. 1 Nr. 1 gilt entsprechend. Der Vorsitzende eines Arbeitsgerichts kann bis zu diesem Zeitpunkt auch zum Richter auf Zeit ernannt werden. Auf Richter auf Zeit sind § 18 Abs. 4 und § 19 des Arbeitsgerichtsgesetzes in der bis zum Inkrafttreten dieses Gesetzes geltenden Fassung anzuwenden.
-
-(2) Das gleiche gilt für die Ernennung zum Vorsitzenden auf Grund eines Landesgesetzes gemäß § 207 Abs. 1 des Sozialgerichtsgesetzes.
+# §§ 110 und 111 – (weggefallen)
 
 # § 112 – Anerkennung ausländischer Prüfungen und im Ausland erworbener Ausbildungsnachweise
 
@@ -1427,9 +1237,7 @@ Sofern die hinreichende Beherrschung eines der in Absatz 3 Satz 2 genannten Rech
 
 # §§ 113 bis 118 – (weggefallen)
 
-# § 119
-
-\-
+# § 119 – (weggefallen)
 
 # § 120 – Technische Mitglieder des Bundespatentgerichts
 
@@ -1451,13 +1259,13 @@ Für die Rechtsstellung der nach dem 1. Juni 1978 in die gesetzgebende Körpersc
 
 (3) Auf die Staatsanwälte ist § 41 entsprechend anzuwenden.
 
-(4) In gerichtlichen Disziplinarverfahren gegen Staatsanwälte entscheiden die Dienstgerichte für Richter. Die nichtständigen Beisitzer müssen auf Lebenszeit berufene Staatsanwälte sein. Der Bundesminister der Justiz und für Verbraucherschutz bestellt die nichtständigen Beisitzer beim Dienstgericht des Bundes. Die Bestellung der nichtständigen Beisitzer bei den Dienstgerichten der Länder regelt die Landesgesetzgebung.
+(4) In gerichtlichen Disziplinarverfahren gegen Staatsanwälte entscheiden die Dienstgerichte für Richter. Die nichtständigen Beisitzer müssen auf Lebenszeit berufene Staatsanwälte sein. Das Bundesministerium der Justiz und für Verbraucherschutz bestellt die nichtständigen Beisitzer beim Dienstgericht des Bundes. Die Bestellung der nichtständigen Beisitzer bei den Dienstgerichten der Länder regelt die Landesgesetzgebung.
 
-(5) Die Absätze 1 bis 4 und § 110 Satz 1 gelten entsprechend für den Vertreter des Bundesinteresses beim Bundesverwaltungsgericht, den Bundeswehrdisziplinaranwalt, die Staatsanwälte und die Landesanwälte bei den Gerichten der Verwaltungsgerichtsbarkeit der Länder; der Bundesminister der Justiz und für Verbraucherschutz bestellt die nichtständigen Beisitzer beim Dienstgericht des Bundes im Einvernehmen mit dem zuständigen Bundesminister.
+(5) Die Absätze 1 bis 4 gelten entsprechend für den Vertreter des Bundesinteresses beim Bundesverwaltungsgericht, den Bundeswehrdisziplinaranwalt, die Staatsanwälte und die Landesanwälte bei den Gerichten der Verwaltungsgerichtsbarkeit der Länder; das Bundesministerium der Justiz und für Verbraucherschutz bestellt die nichtständigen Beisitzer beim Dienstgericht des Bundes im Einvernehmen mit dem zuständigen Bundesministerium.
 
 # § 123 – Besetzung der Berufsgerichte für Rechtsanwälte
 
-§ 94 Abs. 1 und § 101 Abs. 3 der Bundesrechtsanwaltsordnung vom 1. August 1959 (Bundesgesetzblatt I S. 565) werden durch dieses Gesetz nicht berührt. Die Landesjustizverwaltung bestimmt das Gericht, vor dem die ehrenamtlichen Richter, die Vorsitzende eines Anwaltsgerichts oder eines Anwaltgerichtshofes sind, auf ihr Amt verpflichtet werden.
+§ 94 Abs. 1 und § 101 Abs. 3 der Bundesrechtsanwaltsordnung werden durch dieses Gesetz nicht berührt. Die Landesjustizverwaltung bestimmt das Gericht, vor dem die ehrenamtlichen Richter, die Vorsitzende eines Anwaltsgerichts oder eines Anwaltgerichtshofes sind, auf ihr Amt verpflichtet werden.
 
 # § 124 – Laufbahnwechsel
 

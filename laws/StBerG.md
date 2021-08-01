@@ -109,7 +109,7 @@ Die Meldung der Person muss enthalten:
 
 8. eine Information über Einzelheiten zur Berufshaftpflichtversicherung oder eines anderen individuellen oder kollektiven Schutzes in Bezug auf die Berufshaftpflicht.
 
-Die Meldung ist jährlich zu wiederholen, wenn die Person nach Ablauf eines Kalenderjahres erneut nach Absatz 1 geschäftsmäßig Hilfeleistung in Steuersachen im Inland erbringen will. In diesem Fall sind die Bescheinigung nach Satz 3 Nr. 5 und die Information nach Satz 3 Nr. 8 erneut vorzulegen. Die Meldung berechtigt die Person zur geschäftsmäßigen Hilfeleistung in Steuersachen nach Absatz 1 im gesamten Hoheitsgebiet der Bundesrepublik Deutschland.
+Die Meldung ist jährlich zu wiederholen, wenn die Person nach Ablauf eines Kalenderjahres erneut nach Absatz 1 geschäftsmäßig Hilfeleistung in Steuersachen im Inland erbringen will. In diesem Fall sind die Bescheinigung nach Satz 3 Nr. 5 und die Information nach Satz 3 Nr. 8 erneut vorzulegen. Die Meldung berechtigt die Person zur geschäftsmäßigen Hilfeleistung in Steuersachen nach Absatz 1 im gesamten Hoheitsgebiet der Bundesrepublik Deutschland. § 74a gilt entsprechend.
 
 (3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, veranlasst die zuständige Stelle eine vorübergehende Eintragung der Angaben nach Absatz 2 Satz 3 Nr. 1 bis 4 im Berufsregister oder ihre Verlängerung um ein Jahr. Die jeweilige Eintragung erfolgt unter Angabe der zuständigen Stelle und des Datums der Eintragung. Das Verfahren ist kostenfrei.
 
@@ -137,7 +137,7 @@ Die vorübergehende Eintragung im Berufsregister gemäß Absatz 3 Satz 1 wird ge
 
 3. Informationen, die im Falle von Beschwerden eines Dienstleistungsempfängers gegen einen Dienstleister für ein ordnungsgemäßes Beschwerdeverfahren erforderlich sind.
 
-Die zuständigen Stellen können bei berechtigten Zweifeln an der Rechtmäßigkeit der Niederlassung des Dienstleisters in einem anderen Staat, an seiner guten Führung oder daran, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, alle aus ihrer Sicht zur Beurteilung des Sachverhalts erforderlichen Informationen bei den zuständigen Stellen des anderen Staates anfordern. § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen den Sätzen 1 und 2 nicht entgegen.
+Die zuständigen Stellen können bei berechtigten Zweifeln an der Rechtmäßigkeit der Niederlassung des Dienstleisters in einem anderen Staat, an seiner guten Führung oder daran, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, alle aus ihrer Sicht zur Beurteilung des Sachverhalts erforderlichen Informationen bei den zuständigen Stellen des anderen Staates anfordern. § 30 der Abgabenordnung steht den Sätzen 1 und 2 nicht entgegen.
 
 # § 3b – Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen
 
@@ -221,7 +221,7 @@ soweit sie im Rahmen des Vertragsabschlusses, der Durchführung des Vertrages od
 
 (4) Werden den Finanzbehörden Tatsachen bekannt, die darauf hinweisen, dass Personen oder Vereinigungen die ihnen nach § 3a zustehende Befugnis zu vorübergehender und gelegentlicher geschäftsmäßiger Hilfeleistung in Steuersachen überschreiten, so haben die Finanzbehörden diese Tatsachen der zuständigen Steuerberaterkammer mitzuteilen.
 
-(5) § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen den Mitteilungen nach den Absätzen 2, 3 und 4 nicht entgegen.
+(5) § 30 der Abgabenordnung steht den Mitteilungen nach den Absätzen 2, 3 und 4 nicht entgegen.
 
 § 5 Abs. 1 Satz 1: IVm § 1 Abs. 2 Nr. 2, §§ 2 bis 4 StBerG mit Art. 12 Abs. 1 GG 100-1 unvereinbar, soweit die geschäftsmäßige Erledigung der laufenden Lohnbuchhaltung (Lohnbuchhaltung mit Ausnahme des Einrichtens der Lohnkonten u. der Abschlußarbeiten nach §§ 41b, 42b EStG 611-1) Personen untersagt wird, die eine kaufmännische Gehilfenprüfung bestanden haben, BVerfGE v. 27.1.1982 I 545 - 1 BvR 807/80 -
 
@@ -283,7 +283,7 @@ Die Abgabe oder Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile 
 
 # § 10 – Mitteilungen über Pflichtverletzungen und andere Informationen
 
-(1) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine der in den §§ 3, 3a oder § 4 Nr. 1 und 2 genannten Personen eine Berufspflicht verletzt hat, so teilen sie diese Tatsachen, soweit ihre Kenntnis aus der Sicht der übermittelnden Stelle für die Verwirklichung der Rechtsfolgen erforderlich ist, der zuständigen Stelle mit; § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
+(1) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine der in den §§ 3, 3a oder § 4 Nr. 1 und 2 genannten Personen eine Berufspflicht verletzt hat, so teilen sie diese Tatsachen, soweit ihre Kenntnis aus der Sicht der übermittelnden Stelle für die Verwirklichung der Rechtsfolgen erforderlich ist, der zuständigen Stelle mit; § 30 der Abgabenordnung steht dem nicht entgegen.
 
 (2) Gerichte und Behörden übermitteln Informationen über natürliche und juristische Personen, die aus der Sicht der übermittelnden Stelle
 
@@ -317,7 +317,7 @@ erforderlich sind, der für die Entscheidung zuständigen Stelle, soweit hierdur
 
 (2) Die Verarbeitung personenbezogener Daten durch Personen und Gesellschaften nach § 3 erfolgt unter Beachtung der für sie geltenden Berufspflichten weisungsfrei. Die Personen und Gesellschaften nach § 3 sind bei Verarbeitung sämtlicher personenbezogener Daten ihrer Mandanten Verantwortliche gemäß Artikel 4 Nummer 7 der Datenschutz-Grundverordnung (EU) 2016/679. Besondere Kategorien personenbezogener Daten gemäß Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 dürfen gemäß Artikel 9 Absatz 2 Buchstabe g der Datenschutz-Grundverordnung (EU) 2016/679 in diesem Rahmen verarbeitet werden.
 
-(3) § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
+(3) § 30 der Abgabenordnung steht dem nicht entgegen.
 
 # § 12 – Hilfeleistung im Abgabenrecht fremder Staaten
 
@@ -401,7 +401,7 @@ Der Verein ist verpflichtet, die Bezeichnung "Lohnsteuerhilfeverein" in den Name
 
 a) gegen Pflichten nach diesem Gesetz in nachhaltiger Weise verstoßen wurde oder
 
-b) der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 882b der Zivilprozessordnung) eingetragen ist.
+b) der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Vor der Rücknahme oder dem Widerruf ist der Lohnsteuerhilfeverein zu hören.
 
@@ -605,7 +605,7 @@ Die praktische Tätigkeit muss über einen Zeitraum von mindestens drei Jahren a
 
 (1) Mit der Prüfung hat der Bewerber darzutun, daß er in der Lage ist, den Beruf eines Steuerberaters ordnungsgemäß auszuüben.
 
-(2) Die Prüfung gliedert sich in einen schriftlichen Teil aus drei Aufsichtsarbeiten und eine mündliche Prüfung. Der Zeitpunkt der Durchführung des schriftlichen Teils der Prüfung, die Prüfungsaufgaben der Aufsichtsarbeiten, die Bearbeitungszeit und die zum schriftlichen Teil der Prüfung zugelassenen Hilfsmittel sollen von den für die Finanzverwaltung zuständigen obersten Finanzbehörden der Länder bundeseinheitlich bestimmt werden.
+(2) Die Prüfung gliedert sich in einen schriftlichen Teil aus drei Aufsichtsarbeiten und eine mündliche Prüfung. Die schriftliche Prüfung kann auch elektronisch durchgeführt werden. Der Zeitpunkt der Durchführung des schriftlichen Teils der Prüfung, die Prüfungsaufgaben der Aufsichtsarbeiten, die Bearbeitungszeit und die zum schriftlichen Teil der Prüfung zugelassenen Hilfsmittel sollen von den für die Finanzverwaltung zuständigen obersten Finanzbehörden der Länder bundeseinheitlich bestimmt werden.
 
 (3) Prüfungsgebiete der Steuerberaterprüfung sind
 
@@ -629,7 +629,7 @@ Nicht erforderlich ist, dass sämtliche Gebiete Gegenstand der Prüfung sind.
 
 # § 37a – Prüfung in Sonderfällen
 
-(1) Wirtschaftsprüfer und vereidigte Buchprüfer sowie Bewerber, die die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden haben, können auf Antrag die Steuerberaterprüfung in verkürzter Form ablegen. Dabei entfallen die in § 37 Abs. 3 Nr. 5 bis 7 genannten Prüfungsgebiete. Die Prüfung gliedert sich in einen schriftlichen Teil aus zwei Aufsichtsarbeiten und eine mündliche Prüfung.
+(1) Wirtschaftsprüfer und vereidigte Buchprüfer sowie Bewerber, die die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden haben, können auf Antrag die Steuerberaterprüfung in verkürzter Form ablegen. Dabei entfallen die in § 37 Absatz 3 Satz 1 Nummer 5 bis 7 genannten Prüfungsgebiete. Die Prüfung gliedert sich in einen schriftlichen Teil aus zwei Aufsichtsarbeiten und eine mündliche Prüfung.
 
 (2) Bewerber mit einem Befähigungs- oder Ausbildungsnachweis, der in einem anderen Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur selbständigen Hilfe in Steuersachen berechtigt, können auf Antrag eine Eignungsprüfung im Sinne des Artikels 14 Absatz 1 in Verbindung mit Absatz 3 der Richtlinie 2005/36/EG ablegen. Mit der erfolgreich abgelegten Eignungsprüfung werden dieselben Rechte erworben wie durch die erfolgreich abgelegte Steuerberaterprüfung.
 
@@ -647,7 +647,7 @@ Nachweisen nach Satz 2 gleichgestellt sind ferner solche, die Berufsqualifikatio
 
 (4) Bewerber mit den in Absatz 2 genannten Voraussetzungen sollen mit der Eignungsprüfung ihre Befähigung nachweisen, den Beruf eines Steuerberaters auch im Inland ordnungsgemäß ausüben zu können. Die Eignungsprüfung umfasst die zur Berufsausübung notwendigen Kenntnisse aus den in § 37 Abs. 3 genannten Gebieten. Die Eignungsprüfung gliedert sich in einen schriftlichen Teil aus höchstens zwei Aufsichtsarbeiten aus unterschiedlichen Prüfungsgebieten und eine mündliche Prüfung. Die Prüfung entfällt insgesamt oder in einem der in § 37 Absatz 3 genannten Prüfungsgebiete, soweit der Bewerber nachweist, dass er im Rahmen seiner bisherigen Ausbildung, durch Fortbildung oder im Rahmen seiner bisherigen Berufstätigkeit einen wesentlichen Teil der Kenntnisse, Fähigkeiten und Kompetenzen erlangt hat, die in der Prüfung insgesamt oder in einem der in § 37 Absatz 3 genannten Prüfungsgebiete gefordert werden und die von einer zuständigen Stelle formell anerkannt wurden. Der Nachweis der im Rahmen der bisherigen Ausbildung erworbenen Kenntnisse ist durch Diplome oder gleichwertige Prüfungszeugnisse einer staatlichen oder staatlich anerkannten Universität oder einer Hochschule oder einer anderen Ausbildungseinrichtung zu führen. Zum Nachweis der im Rahmen der bisherigen beruflichen Tätigkeit erworbenen Kenntnisse sind Falllisten vorzulegen, die regelmäßig folgende Angaben enthalten müssen: Akten- oder Geschäftszeichen, Gegenstand, Zeitraum, Art und Umfang der Tätigkeit, Sachstand. Ferner sind auf Verlangen der für die Prüfung zuständigen Stelle anonymisierte Arbeitsproben vorzulegen. Soweit die zuständige Behörde das Entfallen der Prüfung insgesamt oder das Entfallen bestimmter Prüfungsgebiete nach Satz 1 ablehnt, hat sie die Entscheidung zu begründen. Hinsichtlich der nicht entfallenen Prüfung oder der nicht entfallenden Prüfungsgebiete sind die wesentlichen Unterschiede zwischen der bisherigen Ausbildung des Bewerbers und der im Inland geforderten Ausbildung sowie die Gründe, aus denen diese Unterschiede nicht durch bereits beim Bewerber erworbene Kenntnisse, Fähigkeiten und Kompetenzen ausgeglichen werden können, mitzuteilen.
 
-(4a) Die zuständigen Behörden im Sinne von Absatz 3 arbeiten mit den zuständigen Behörden in anderen Mitgliedstaaten der Europäischen Union, in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz zusammen und tauschen Informationen über das Vorliegen von disziplinar- oder strafrechtlichen oder sonstigen schwerwiegenden Sachverhalten aus, wenn sie Auswirkungen auf die Berufsausübung der Betroffenen haben. § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
+(4a) Die zuständigen Behörden im Sinne von Absatz 3 arbeiten mit den zuständigen Behörden in anderen Mitgliedstaaten der Europäischen Union, in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz zusammen und tauschen Informationen über das Vorliegen von disziplinar- oder strafrechtlichen oder sonstigen schwerwiegenden Sachverhalten aus, wenn sie Auswirkungen auf die Berufsausübung der Betroffenen haben. § 30 der Abgabenordnung steht dem nicht entgegen.
 
 (5) Für die Prüfung in verkürzter Form und für die Eignungsprüfung gelten im Übrigen die Vorschriften für die Steuerberaterprüfung.
 
@@ -713,7 +713,7 @@ b) der gesetzgebenden Körperschaften, der Gerichte der Finanzgerichtsbarkeit so
 
 Erstrecken sich die Rücknahmegründe nach Satz 1 nur auf die Zulassung zur Prüfung, ist auch die Prüfungsentscheidung zurückzunehmen. Nach einer Rücknahme gemäß Satz 1 oder Satz 2 gilt die Steuerberaterprüfung als nicht bestanden.
 
-(2) Die für die Finanzverwaltung zuständigen obersten Landesbehörden und die Steuerberaterkammern haben Tatsachen im Sinne des Absatzes 1 Satz 1 Nr. 1 bis 3 der zuständigen Steuerberaterkammer unverzüglich mitzuteilen. § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen diesen Mitteilungen nicht entgegen. Werden Tatsachen nach Absatz 1 Satz 1 Nr. 1 bis 3 während des Bestellungsverfahrens der zuständigen Steuerberaterkammer bekannt, so ruht dieses bis zum Ausgang des Verfahrens.
+(2) Die für die Finanzverwaltung zuständigen obersten Landesbehörden und die Steuerberaterkammern haben Tatsachen im Sinne des Absatzes 1 Satz 1 Nr. 1 bis 3 der zuständigen Steuerberaterkammer unverzüglich mitzuteilen. § 30 der Abgabenordnung steht diesen Mitteilungen nicht entgegen. Werden Tatsachen nach Absatz 1 Satz 1 Nr. 1 bis 3 während des Bestellungsverfahrens der zuständigen Steuerberaterkammer bekannt, so ruht dieses bis zum Ausgang des Verfahrens.
 
 (3) Vor der Rücknahme ist der Betroffene zu hören.
 
@@ -739,17 +739,23 @@ Erstrecken sich die Rücknahmegründe nach Satz 1 nur auf die Zulassung zur Prü
 
 3. solange nicht die vorläufige Deckungszusage auf den Antrag zum Abschluss einer Berufshaftpflichtversicherung oder der Nachweis der Mitversicherung bei einem Arbeitgeber vorliegt.
 
-(4) Wenn es zur Entscheidung über den Versagungsgrund des Absatzes 2 Nr. 3 erforderlich ist, gibt die zuständige Steuerberaterkammer dem Bewerber schriftlich auf, innerhalb einer von ihr zu bestimmenden angemessenen Frist das Gutachten eines von ihr bestimmten Arztes über seinen Gesundheitszustand vorzulegen. Das Gutachten muss auf einer Untersuchung des Bewerbers und, wenn dies ein Arzt für notwendig hält, auch auf einer klinischen Beobachtung des Bewerbers beruhen. Die Kosten des Gutachtens hat der Bewerber zu tragen. Kommt der Bewerber ohne zureichenden Grund der Anordnung der Steuerberaterkammer innerhalb der gesetzten Frist nicht nach, gilt der Antrag auf Bestellung als zurückgenommen.
+(4) Wenn es zur Entscheidung über den Versagungsgrund des Absatzes 2 Satz 2 Nummer 3 erforderlich ist, gibt die zuständige Steuerberaterkammer dem Bewerber schriftlich auf, innerhalb einer von ihr zu bestimmenden angemessenen Frist das Gutachten eines von ihr bestimmten Arztes über seinen Gesundheitszustand vorzulegen. Das Gutachten muss auf einer Untersuchung des Bewerbers und, wenn dies ein Arzt für notwendig hält, auch auf einer klinischen Beobachtung des Bewerbers beruhen. Die Kosten des Gutachtens hat der Bewerber zu tragen. Kommt der Bewerber ohne zureichenden Grund der Anordnung der Steuerberaterkammer innerhalb der gesetzten Frist nicht nach, gilt der Antrag auf Bestellung als zurückgenommen.
 
 (5) Vor der Versagung der Bestellung ist der Bewerber zu hören. Wird die Bestellung versagt, so ist ein schriftlicher Bescheid zu erteilen.
 
 (6) Für die Bearbeitung des Antrags auf Bestellung hat der Bewerber eine Gebühr von fünfzig Euro an die zuständige Steuerberaterkammer zu zahlen, soweit nicht durch eine Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt ist.
 
-# § 41 – Berufsurkunde
+# § 40a – Aussetzung des Bestellungsverfahrens
 
-(1) Der Bewerber wird durch Aushändigung einer Urkunde als Steuerberater bestellt.
+Die Entscheidung über den Antrag auf Bestellung zum Steuerberater kann ausgesetzt werden, wenn gegen die antragstellende Person ein Verfahren wegen des Verdachts einer Straftat anhängig ist, in dem der Tatvorwurf eine Verurteilung erwarten lässt, die eine Versagung der Bestellung zur Folge haben würde.
 
-(2) Vor der Aushändigung der Urkunde hat der Bewerber vor der zuständigen Steuerberaterkammer die Versicherung abzugeben, daß er die Pflichten eines Steuerberaters gewissenhaft erfüllen wird.
+# § 41 – Bestellung
+
+(1) Die Bestellung zum Steuerberater wird mit der Aushändigung einer von der Steuerberaterkammer ausgestellten Urkunde wirksam.
+
+(2) Die Urkunde darf erst ausgehändigt werden, wenn der Bewerber gegenüber der Steuerberaterkammer die Versicherung abgegeben hat, dass er die insbesondere aus § 57 Absatz 1 bis 2a folgenden Pflichten eines Steuerberaters erfüllen wird.
+
+(3) Mit der Bestellung wird der Steuerberater Mitglied der bestellenden Steuerberaterkammer.
 
 # § 42 – Steuerbevollmächtigter
 
@@ -813,7 +819,7 @@ Der Verzicht nach Nummer 2 ist zu Protokoll oder schriftlich gegenüber der Steu
 
 3. nicht die vorgeschriebene Haftpflichtversicherung gegen die Haftpflichtgefahren aus seiner Berufstätigkeit unterhält;
 
-4. in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Auftraggeber nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Steuerberaters oder Steuerbevollmächtigten eröffnet oder der Steuerberater oder Steuerbevollmächtigte in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 882b der Zivilprozeßordnung) eingetragen ist;
+4. in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Auftraggeber nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Steuerberaters oder Steuerbevollmächtigten eröffnet oder der Steuerberater oder Steuerbevollmächtigte in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist;
 
 5. seine berufliche Niederlassung in das Ausland verlegt, ohne daß ein Zustellungsbevollmächtigter mit Wohnsitz im Inland benannt worden ist. Name und Anschrift sowie jede Änderung der Person oder der Anschrift des Zustellungsbevollmächtigten sind der zuständigen Steuerberaterkammer unverzüglich mitzuteilen. Der Steuerberater oder Steuerbevollmächtigte bleibt Mitglied der Steuerberaterkammer, der er bisher angehört hat;
 
@@ -831,17 +837,21 @@ Der Verzicht nach Nummer 2 ist zu Protokoll oder schriftlich gegenüber der Steu
 
 (1) Mit dem Erlöschen, der Rücknahme oder dem Widerruf der Bestellung erlischt die Befugnis, die Berufsbezeichnung "Steuerberater" oder "Steuerbevollmächtigter" zu führen. Die Bezeichnung darf auch nicht mit einem Zusatz, der auf die frühere Berechtigung hinweist, geführt werden.
 
-(2) Die zuständige Steuerberaterkammer kann einem Steuerberater oder Steuerbevollmächtigten, der wegen hohen Alters oder wegen körperlicher Leiden auf die Rechte aus der Bestellung verzichtet, auf Antrag die Erlaubnis erteilen, sich weiterhin Steuerberater oder Steuerbevollmächtigter zu nennen.
+(2) Die zuständige Steuerberaterkammer kann einem Steuerberater oder Steuerbevollmächtigten, der wegen hohen Alters oder aus gesundheitlichen Gründen auf die Rechte aus der Bestellung verzichtet, auf Antrag die Erlaubnis erteilen, seine Berufsbezeichnung mit dem Zusatz „im Ruhestand“ weiterzuführen, der auch „i. R.“ abgekürzt werden kann.
 
-(3) Die zuständige Steuerberaterkammer kann eine Erlaubnis, die sie nach Absatz 2 erteilt hat, zurücknehmen oder widerrufen, wenn nachträglich Umstände bekanntwerden oder eintreten, die bei einem Steuerberater oder Steuerbevollmächtigten das Erlöschen, die Rücknahme oder den Widerruf der Bestellung nach sich ziehen würden oder zur Ablehnung der Erlaubnis nach Absatz 2 Satz 1 hätten führen können. Vor der Rücknahme oder dem Widerruf der Erlaubnis ist der Betroffene zu hören.
+(3) Die Steuerberaterkammer kann eine nach Absatz 2 erteilte Erlaubnis
+
+1. zurücknehmen, wenn nachträglich Umstände bekanntwerden, die zur Versagung der Erlaubnis geführt hätten, oder
+
+2. widerrufen, wenn nachträglich Umstände eintreten, die bei einem Steuerberater oder Steuerbevollmächtigten das Erlöschen oder nach § 46 Absatz 2 Nummer 2 den Widerruf der Bestellung nach sich ziehen würden.
 
 # § 48 – Wiederbestellung
 
 (1) Ehemalige Steuerberater und Steuerbevollmächtigte können wiederbestellt werden,
 
-1. wenn die Bestellung nach § 45 Abs. 1 Nr. 2 erloschen ist; wurde auf die Bestellung nach Einleitung eines berufsgerichtlichen Verfahrens (§ 114) verzichtet, kann die Wiederbestellung nicht vor Ablauf von acht Jahren erfolgen, es sei denn, dass eine Ausschließung aus dem Beruf nicht zu erwarten war;
+1. wenn die Bestellung nach § 45 Absatz 1 Satz 1 Nummer 2 erloschen ist; wurde auf die Bestellung nach Einleitung eines berufsgerichtlichen Verfahrens (§ 114) verzichtet, kann die Wiederbestellung nicht vor Ablauf von acht Jahren erfolgen, es sei denn, dass eine Ausschließung aus dem Beruf nicht zu erwarten war;
 
-2. wenn im Falle des Erlöschens der Bestellung nach § 45 Abs. 1 Nr. 3 die rechtskräftige Ausschließung aus dem Beruf im Gnadenwege aufgehoben worden ist oder seit der rechtskräftigen Ausschließung mindestens acht Jahre verstrichen sind;
+2. wenn im Falle des Erlöschens der Bestellung nach § 45 Absatz 1 Satz 1 Nummer 3 die rechtskräftige Ausschließung aus dem Beruf im Gnadenwege aufgehoben worden ist oder seit der rechtskräftigen Ausschließung mindestens acht Jahre verstrichen sind;
 
 3. wenn die Bestellung nach § 46 widerrufen ist und die Gründe, die für den Widerruf maßgeblich gewesen sind, nicht mehr bestehen.
 
@@ -933,7 +943,7 @@ Die Gesellschaft ist verpflichtet, die Bezeichnung "Steuerberatungsgesellschaft"
 
 es sei denn, dass die Gesellschaft innerhalb einer angemessenen, von der zuständigen Steuerberaterkammer zu bestimmenden Frist den dem Gesetz entsprechenden Zustand herbeiführt. Die Frist beträgt bei Fortfall der in § 50a genannten Voraussetzungen wegen eines Erbfalls mindestens fünf Jahre.
 
-(2a) Die Anerkennung ist ferner zu widerrufen, wenn die Gesellschaft in Vermögensverfall geraten ist, es sei denn, dass dadurch die Interessen der Auftraggeber nicht gefährdet sind; der Vermögensverfall wird vermutet, wenn die Gesellschaft in das vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist.
+(2a) Die Anerkennung ist ferner zu widerrufen, wenn die Gesellschaft in Vermögensverfall geraten ist, es sei denn, dass dadurch die Interessen der Auftraggeber nicht gefährdet sind; der Vermögensverfall wird vermutet, wenn die Gesellschaft in das Schuldnerverzeichnis (§ 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Vor der Rücknahme oder dem Widerruf ist die Steuerberatungsgesellschaft zu hören.
 
@@ -1033,7 +1043,7 @@ Ehemalige Beamte und Angestellte der Finanzverwaltung dürfen während eines Zei
 
 # § 62 – Verschwiegenheitspflicht beschäftigter Personen
 
-Steuerberater und Steuerbevollmächtigte haben die von ihnen beschäftigten Personen in schriftlicher Form zur Verschwiegenheit zu verpflichten und sie dabei über die strafrechtlichen Folgen einer Pflichtverletzung zu belehren. Zudem haben sie bei ihnen in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den von dem Steuerberater oder Steuerbevollmächtigten beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Satz 1 gilt nicht für angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen wie der Steuerberater oder Steuerbevollmächtigte unterliegen. Hat sich ein Steuerberater oder Steuerbevollmächtigter mit anderen Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den beschäftigten Personen ein einheitliches Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine andere dieser Personen die Verpflichtung nach Satz 1 vorgenommen hat.
+Steuerberater und Steuerbevollmächtigte haben die von ihnen beschäftigten Personen in Textform zur Verschwiegenheit zu verpflichten und sie dabei über die strafrechtlichen Folgen einer Pflichtverletzung zu belehren. Zudem haben sie bei ihnen in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den von dem Steuerberater oder Steuerbevollmächtigten beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Satz 1 gilt nicht für angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen wie der Steuerberater oder Steuerbevollmächtigte unterliegen. Hat sich ein Steuerberater oder Steuerbevollmächtigter mit anderen Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den beschäftigten Personen ein einheitliches Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine andere dieser Personen die Verpflichtung nach Satz 1 vorgenommen hat.
 
 # § 62a – Inanspruchnahme von Dienstleistungen
 
@@ -1187,6 +1197,20 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (2) Mitglieder der Steuerberaterkammer sind außerdem, soweit sie nicht Steuerberater oder Steuerbevollmächtigte sind, die Mitglieder des Vorstandes, Geschäftsführer oder persönlich haftende Gesellschafter einer Steuerberatungsgesellschaft, die ihren Sitz im Kammerbezirk hat.
 
+# § 74a – Mitgliederakten
+
+(1) Die Steuerberaterkammern führen zur Erfüllung ihrer Aufgaben Akten über ihre Mitglieder (§ 74). Mitgliederakten können teilweise oder vollständig elektronisch geführt werden. Zu den Mitgliederakten sind insbesondere die Dokumente zu nehmen, die im Zusammenhang mit der Bestellung oder Anerkennung, der Mitgliedschaft oder der Qualifikation des Mitglieds stehen oder die in Bezug auf das Mitglied geführte berufsaufsichtliche Verfahren betreffen.
+
+(2) Die Mitglieder der Steuerberaterkammern haben das Recht, die über sie geführten Akten einzusehen. Bei einer Einsichtnahme dürfen Aufzeichnungen über den Inhalt der Akten oder Kopien der Dokumente gefertigt werden. Bei einer elektronischen Aktenführung hat die Steuerberaterkammer den Inhalt elektronisch oder durch Ausdrucke zugänglich zu machen. Die Akteneinsicht kann verweigert werden, solange die in § 29 Absatz 1 Satz 2 und Absatz 2 des Verwaltungsverfahrensgesetzes und § 147 Absatz 2 Satz 1 der Strafprozessordnung genannten Gründe vorliegen.
+
+(3) Wird die Mitgliedschaft in einer anderen Steuerberaterkammer begründet, übersendet die abgebende Kammer der anderen Kammer die Mitgliederakte. Hat die andere Kammer die Daten des Mitglieds erfasst, löscht die abgebende Kammer alle personenbezogenen Daten des Mitglieds mit Ausnahme des Hinweises auf den Wechsel und eventueller weiterer zu ihrer Aufgabenerfüllung noch erforderlicher Daten.
+
+(4) Mitgliederakten sind dreißig Jahre nach dem Ende des Jahres, in dem die Mitgliedschaft in der Steuerberaterkammer erloschen war, zu vernichten. Davon abweichende Pflichten, Aktenbestandteile früher zu vernichten, bleiben unberührt. Satz 1 gilt nicht, wenn das Mitglied in eine längere Aufbewahrung eingewilligt hat oder die Akte einem öffentlichen Archiv angeboten wird. Wurde die Bestellung des Mitglieds wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit zurückgenommen oder widerrufen oder wurde das Mitglied aus dem Beruf ausgeschlossen, darf die Akte nicht vernichtet werden, bevor die entsprechende Eintragung im Bundeszentralregister entfernt wurde. Satz 4 gilt auch, wenn das Mitglied während eines Rücknahme- oder Widerrufsverfahrens wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit auf die Bestellung verzichtet hat. Bei einer elektronischen Aktenführung tritt an die Stelle der Vernichtung der Akten die Löschung der Daten.
+
+(5) Nach dem Tod eines Mitglieds kann die Steuerberaterkammer zu Zwecken wissenschaftlicher Forschung Einsicht in die Mitgliederakte gewähren, soweit das wissenschaftliche Interesse die Persönlichkeitsrechte und Interessen der von einer Einsicht betroffenen Personen überwiegt und der Zweck der Forschung auf andere Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden kann.
+
+(6) Auf Personen, die einen Antrag auf Bestellung zum Steuerberater oder Steuerbevollmächtigten oder auf Anerkennung als Steuerberatungsgesellschaft gestellt haben, sind die Absätze 1, 2, 4 und 5 entsprechend anzuwenden. Absatz 2 gilt auch für frühere Mitglieder.
+
 # § 75 – Gemeinsame Steuerberaterkammer
 
 (1) Die Steuerberaterkammern können sich durch einen übereinstimmenden Beschluß der beteiligten Kammern für den Bereich eines oder mehrerer Kammerbezirke oder mehrerer Länder zu einer gemeinsamen Steuerberaterkammer zusammenschließen. Die einzelnen für den Kammerbezirk gebildeten Steuerberaterkammern werden damit aufgelöst.
@@ -1315,19 +1339,29 @@ Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung bedarf der G
 
 (5) Leitet die Staatsanwaltschaft wegen desselben Verhaltens, das der Vorstand der Steuerberaterkammer gerügt hat, ein berufsgerichtliches Verfahren gegen das Mitglied der Steuerberaterkammer ein, bevor die Entscheidung über den Antrag auf berufsgerichtliche Entscheidung gegen den Rügebescheid ergangen ist, so wird das Verfahren über den Antrag bis zum rechtskräftigen Abschluß des berufsgerichtlichen Verfahrens ausgesetzt. In den Fällen des § 91 Abs. 2 stellt das Landgericht nach Beendigung der Aussetzung fest, daß die Rüge unwirksam ist.
 
-# § 83 – Pflicht der Vorstandsmitglieder zur Verschwiegenheit
+# § 83 – Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
 
-(1) Die Mitglieder des Vorstandes haben - auch nach dem Ausscheiden aus dem Vorstand - über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Mitglieder der Steuerberaterkammer, Bewerber und andere Personen bekanntwerden, Verschwiegenheit gegen jedermann zu bewahren. Das gleiche gilt für Mitglieder, die zur Mitarbeit im Vorstand oder in den durch die Satzung bestimmten Organen herangezogen werden, und für Angestellte der Steuerberaterkammer.
+(1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Steuerberater, Steuerbevollmächtigte und andere Personen bekannt werden, Verschwiegenheit zu bewahren. Dies gilt auch nach ihrem Ausscheiden aus dem Vorstand. Die Verschwiegenheitspflicht gilt nicht für Tatsachen,
 
-(2) In Verfahren vor Gerichten oder Behörden dürfen die in Absatz 1 bezeichneten Personen über solche Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand oder in den durch die Satzung bestimmten Organen über Mitglieder der Steuerberaterkammer, Bewerber und andere Personen bekanntgeworden sind, nur aussagen oder Auskunft geben, wenn eine Aussage- oder Auskunftspflicht besteht und von der Verpflichtung zur Verschwiegenheit nach Absatz 3 entbunden worden ist. Sonstige Geheimhaltungspflichten und Zeugnisverweigerungsrechte bleiben unberührt.
+1. deren Weitergabe zur Erfüllung ihrer Aufgaben erforderlich ist,
 
-(3) Die Genehmigung erteilt der Vorstand der Steuerberaterkammer nach pflichtmäßigem Ermessen. Die Genehmigung soll nur versagt werden, wenn Rücksichten auf die Stellung oder die Aufgaben der Steuerberaterkammer oder berechtigte Belange der Personen, über welche die Tatsachen bekanntgeworden sind, es unabweisbar fordern. § 28 Abs. 2 des Gesetzes über das Bundesverfassungsgericht bleibt unberührt.
+2. in deren Weitergabe die Betroffenen eingewilligt haben,
+
+3. die offenkundig sind oder
+
+4. die ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+
+Die Sätze 1 bis 3 gelten auch für Angestellte der Steuerberaterkammern und für Personen, die von den Steuerberaterkammern oder den Mitgliedern ihres Vorstands zur Mitarbeit herangezogen werden. Die in Satz 4 genannten Personen sind in Textform über ihre Verschwiegenheitspflicht zu belehren.
+
+(2) In Verfahren vor Gerichten und Behörden dürfen die in Absatz 1 genannten Personen über Angelegenheiten, die ihrer Verschwiegenheitspflicht unterliegen, ohne Genehmigung nicht aussagen. Die Genehmigung zur Aussage erteilt der Vorstand der Steuerberaterkammer nach pflichtgemäßem Ermessen. Die Genehmigung soll nur versagt werden, wenn dies mit Rücksicht auf die Stellung oder die Aufgaben der Steuerberaterkammer oder berechtigte Belange der Personen, über welche die Tatsachen bekannt geworden sind, unabweisbar erforderlich ist. § 28 Absatz 2 des Bundesverfassungsgerichtsgesetzes bleibt unberührt.
+
+(3) Für die Inanspruchnahme von Dienstleistungen durch Steuerberaterkammern gilt in Bezug auf Angelegenheiten, die der Verschwiegenheitspflicht des Steuerberaters oder Steuerbevollmächtigten nach § 57 Absatz 1 unterliegen, § 62a Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 # § 84 – Arbeitsgemeinschaft
 
 (1) Mehrere Steuerberaterkammern können sich zu einer nicht rechtsfähigen Arbeitsgemeinschaft zusammenschließen, wenn die Satzungen der Kammern dies vorsehen. Der Arbeitsgemeinschaft können jedoch nicht Aufsichtsbefugnisse oder andere Aufgaben übertragen werden, für die gesetzlich die Zuständigkeit der einzelnen Steuerberaterkammern begründet ist.
 
-(2) Die in § 83 bezeichneten Personen verstoßen nicht gegen ihre Pflicht zur Verschwiegenheit, wenn sie der Arbeitsgemeinschaft Angelegenheiten mitteilen, die zum Aufgabengebiet der Arbeitsgemeinschaft gehören. § 83 Abs. 1 gilt sinngemäß für die Personen, die für die Arbeitsgemeinschaft tätig werden.
+(2) § 83 Absatz 1 und 2 gilt sinngemäß für die Personen, die für die Arbeitsgemeinschaft tätig werden.
 
 # § 85 – Bundessteuerberaterkammer
 
@@ -1337,9 +1371,11 @@ Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung bedarf der G
 
 (3) Der Vorstand der Bundessteuerberaterkammer wird von den Steuerberaterkammern gewählt. Im übrigen gibt sich die Bundessteuerberaterkammer ihre Satzung selbst. Die Satzung bedarf der Genehmigung der Aufsichtsbehörde.
 
-(4) Die Vorschrift des § 83 ist sinngemäß anzuwenden.
+(4) Für die Verschwiegenheitspflicht der Mitglieder des Präsidiums und der Angestellten der Bundessteuerberaterkammer sowie der Personen, die von der Bundessteuerberaterkammer oder den Mitgliedern ihres Präsidiums zur Mitarbeit herangezogen werden, gilt § 83 Absatz 1 und 2 entsprechend.
 
 (5) Die Mitglieder eines Organs oder eines Ausschusses der Bundessteuerberaterkammer üben ihre Tätigkeit ehrenamtlich aus. Sie können jedoch eine angemessene auch pauschalisierte Entschädigung für den mit diesen Tätigkeiten verbundenen Aufwand, auch für Zeitaufwand und Verdienstausfall, sowie eine Reisekostenvergütung erhalten.
+
+(6) Für die Inanspruchnahme von Dienstleistungen durch die Bundessteuerberaterkammer gilt in Bezug auf Angelegenheiten, die der Verschwiegenheitspflicht des Steuerberaters oder Steuerbevollmächtigten nach § 57 Absatz 1 unterliegen, § 62a Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 # § 86 – Aufgaben der Bundessteuerberaterkammer
 
@@ -1407,9 +1443,9 @@ Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung bedarf der G
 
 17. der Ausbildung von Steuerfachgehilfen.
 
-(5) Die Satzung im Sinne des Absatzes 2 Nummer 2 und deren Änderungen sind dem Bundesministerium der Finanzen zuzuleiten. Das Bundesministerium der Finanzen hat im Rahmen der Aufsicht zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm die Bundessteuerberaterkammer die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer die Satzungsversammlung die Satzung im Sinne des Absatzes 2 Nummer 2 oder deren Änderungen als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat. Soweit nicht das Bundesministerium der Finanzen die Satzung im Sinne des Absatzes 2 Nummer 2 oder deren Änderungen im Ganzen oder in Teilen binnen drei Monaten nach Übermittlung aufhebt, ist sie in dem Presseorgan zu veröffentlichen, das für die Verlautbarungen der Bundessteuerberaterkammer bestimmt ist.
+(5) Die Satzung im Sinne des Absatzes 2 Nummer 2 und deren Änderungen sind dem Bundesministerium der Finanzen zuzuleiten. Das Bundesministerium der Finanzen hat im Rahmen der Aufsicht zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm die Bundessteuerberaterkammer die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer die Satzungsversammlung die Satzung im Sinne des Absatzes 2 Nummer 2 oder deren Änderungen als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat. Soweit nicht das Bundesministerium der Finanzen die Satzung im Sinne des Absatzes 2 Nummer 2 oder deren Änderungen im Ganzen oder in Teilen binnen drei Monaten nach Übermittlung aufhebt, ist sie unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Bundessteuerberaterkammer zu veröffentlichen.
 
-(6) Die Satzung im Sinne des Absatzes 2 Nummer 2 und deren Änderungen treten am ersten Tag des Monats in Kraft, der auf die Veröffentlichung im Sinne des Absatzes 5 Satz 5 folgt. Stellt sich nach Inkrafttreten der Satzung heraus, dass sie ganz oder in Teilen höherrangigem Recht widerspricht, kann das Bundesministerium der Finanzen die Satzung insoweit aufheben. Beabsichtigt es eine Aufhebung, soll es der Bundessteuerberaterkammer zuvor Gelegenheit zur Stellungnahme geben. Aufhebungen sind in dem Presseorgan zu veröffentlichen, das für Verlautbarungen der Bundessteuerberaterkammer bestimmt ist.
+(6) Die Satzung im Sinne des Absatzes 2 Nummer 2 und deren Änderungen treten am ersten Tag des Monats in Kraft, der auf die Veröffentlichung im Sinne des Absatzes 5 Satz 5 folgt. Stellt sich nach Inkrafttreten der Satzung heraus, dass sie ganz oder in Teilen höherrangigem Recht widerspricht, kann das Bundesministerium der Finanzen die Satzung insoweit aufheben. Beabsichtigt es eine Aufhebung, soll es der Bundessteuerberaterkammer zuvor Gelegenheit zur Stellungnahme geben. Aufhebungen sind unter Angabe ihres Datums dauerhaft auf der Internetseite der Bundessteuerberaterkammer zu veröffentlichen.
 
 # § 86a – Zusammensetzung und Arbeitsweise der Satzungsversammlung
 
@@ -1545,11 +1581,9 @@ Ist durch ein Gericht oder eine Behörde eine Strafe, eine Disziplinarmaßnahme,
 
 (4) Scheidet ein ehrenamtlicher Richter vorzeitig aus, so wird für den Rest seiner Amtszeit ein Nachfolger berufen.
 
-(5) § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
+(5) Die Absätze 1 bis 4 finden auf die ehrenamtlichen Richter des Senats für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof mit der Maßgabe Anwendung, daß an Stelle der Steuerberaterkammern die Bundessteuerberaterkammer und an Stelle der Landesjustizverwaltung das Bundesministerium der Justiz und für Verbraucherschutz treten.
 
-(6) Die Absätze 1 bis 5 finden auf die ehrenamtlichen Richter des Senats für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof mit der Maßgabe Anwendung, daß an Stelle der Steuerberaterkammern die Bundessteuerberaterkammer und an Stelle der Landesjustizverwaltung das Bundesministerium der Justiz und für Verbraucherschutz treten.
-
-(7) Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den Landesjustizverwaltungen nach den Absätzen 2 und 3 zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(6) Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den Landesjustizverwaltungen nach den Absätzen 2 und 3 zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 # § 100 – Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
 
@@ -1583,7 +1617,7 @@ Ist durch ein Gericht oder eine Behörde eine Strafe, eine Disziplinarmaßnahme,
 
 (1) Die Steuerberater oder Steuerbevollmächtigten haben in der Sitzung, zu der sie als ehrenamtliche Richter herangezogen werden, die Stellung eines Berufsrichters.
 
-(2) Die Steuerberater und Steuerbevollmächtigten haben über Angelegenheiten, die ihnen bei ihrer Tätigkeit als ehrenamtliche Richter bekanntwerden, Verschwiegenheit gegen jedermann zu bewahren. § 83 Abs. 2 und 3 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Präsident des Gerichts.
+(2) Die Steuerberater und Steuerbevollmächtigten haben über Angelegenheiten, die ihnen bei ihrer Tätigkeit als ehrenamtliche Richter bekanntwerden, Verschwiegenheit zu bewahren. § 83 Absatz 1 und 2 ist entsprechend anzuwenden. Die Genehmigung zur Aussage erteilt der Präsident des Gerichts.
 
 # § 103 – Reihenfolge der Teilnahme an den Sitzungen
 
@@ -1947,11 +1981,11 @@ Für die Berufsgerichtsbarkeit sind ergänzend das Gerichtsverfassungsgesetz und
 
 (2) Vereinigungen im Sinne des Absatzes 1, die am 16. Juni 1989 befugt waren, die Bezeichnung "Landwirtschaftliche Buchstelle" zu führen, dürfen diese Bezeichnung als Zusatz zum Namen der Vereinigung weiter führen, wenn mindestens ein leitender Angestellter berechtigt ist, diese Bezeichnung als Zusatz zur Berufsbezeichnung zu führen.
 
-(3) Die in § 36 Abs. 1 Nr. 2 und Abs. 2 Nr. 1 bestimmte Reihenfolge der Vorbildungsvoraussetzungen gilt nicht für Tätigkeiten, die vor dem 16. Juni 1989 ausgeübt worden sind.
+(3) Die in § 36 Absatz 1 Satz 1 Nummer 2 und Absatz 2 Nummer 1 bestimmte Reihenfolge der Vorbildungsvoraussetzungen gilt nicht für Tätigkeiten, die vor dem 16. Juni 1989 ausgeübt worden sind.
 
 # § 156 – Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes
 
-§ 36 Abs. 1 Nr. 2 und Abs. 3 gilt für Bewerber, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet einen Fachschulabschluss erworben und mit der Fachschulausbildung vor dem 1. Januar 1991 begonnen haben, mit der Maßgabe, dass sie nach dem Fachschulabschluss vier Jahre praktisch tätig gewesen sind.
+§ 36 Absatz 1 Satz 1 Nummer 2 und Absatz 3 gilt für Bewerber, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet einen Fachschulabschluss erworben und mit der Fachschulausbildung vor dem 1. Januar 1991 begonnen haben, mit der Maßgabe, dass sie nach dem Fachschulabschluss vier Jahre praktisch tätig gewesen sind.
 
 # § 157 – Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater
 
@@ -2031,7 +2065,7 @@ Die Anwendung von Zwangsmitteln richtet sich nach der Abgabenordnung.
 
 (1) Ordnungswidrig handelt, wer
 
-1. entgegen § 14 Abs. 1 Nr. 8 eine Mitgliederversammlung oder eine Vertreterversammlung nicht durchführt,
+1. entgegen § 14 Absatz 1 Satz 1 Nummer 8 eine Mitgliederversammlung oder eine Vertreterversammlung nicht durchführt,
 
 2. entgegen § 15 Abs. 3 eine Satzungsänderung der zuständigen Aufsichtsbehörde nicht oder nicht rechtzeitig anzeigt,
 

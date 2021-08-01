@@ -503,7 +503,7 @@ Dieses Gesetz regelt für natürliche Personen, die berechtigt sind, als Rechtsa
 
 (1) Wer als europäischer Rechtsanwalt auf Antrag in die für den Ort seiner Niederlassung zuständige Rechtsanwaltskammer aufgenommen wurde, ist berechtigt, in Deutschland unter der Berufsbezeichnung des Herkunftsstaates die Tätigkeit eines Rechtsanwalts gemäß §§ 1 bis 3 der Bundesrechtsanwaltsordnung auszuüben (niedergelassener europäischer Rechtsanwalt).
 
-(2) Die Aufnahme in die Rechtsanwaltskammer setzt voraus, dass der Antragsteller bei der zuständigen Stelle des Herkunftsstaates als europäischer Rechtsanwalt eingetragen ist.
+(2) Die Aufnahme in die Rechtsanwaltskammer setzt voraus, dass die antragstellende Person bei der zuständigen Stelle des Herkunftsstaates als europäischer Rechtsanwalt eingetragen ist.
 
 # § 3 – Antrag
 
@@ -533,7 +533,7 @@ Dieses Gesetz regelt für natürliche Personen, die berechtigt sind, als Rechtsa
 
 (1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer gelten die Vorschriften des Dritten, Vierten, Sechsten, Siebenten, Neunten bis Elften und Dreizehnten Teils der Bundesrechtsanwaltsordnung.
 
-(2) Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie nach den §§ 150 und 161a der Bundesrechtsanwaltsordnung sind für das Bundesgebiet auszusprechen. An die Stelle der Ausschließung aus der Rechtsanwaltschaft nach § 114 Abs. 1 Nr. 5 der Bundesrechtsanwaltsordnung tritt das Verbot, in Deutschland fremde Rechtsangelegenheiten zu besorgen; mit der Rechtskraft dieser Entscheidung verliert der Verurteilte die Mitgliedschaft in der Rechtsanwaltskammer.
+(2) Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie nach den §§ 150 und 161a der Bundesrechtsanwaltsordnung sind für das Bundesgebiet auszusprechen. An die Stelle der Ausschließung aus der Rechtsanwaltschaft nach § 114 Abs. 1 Nr. 5 der Bundesrechtsanwaltsordnung tritt das Verbot, in Deutschland fremde Rechtsangelegenheiten zu besorgen; mit der Rechtskraft dieser Entscheidung endet die Mitgliedschaft der verurteilten Person in der Rechtsanwaltskammer.
 
 (3) Der niedergelassene europäische Rechtsanwalt hat seine Berufsausübung in Deutschland einzustellen, wenn ihm seitens der zuständigen Stelle des Herkunftsstaates die Berechtigung zur Ausübung seiner beruflichen Tätigkeit vorläufig, zeitweilig oder dauernd entzogen worden ist.
 
@@ -577,7 +577,7 @@ Mitteilungspflichtig ist das Gericht, das die mitzuteilende Entscheidung gefäll
 
 (3) Sind personenbezogene Daten, die nach Absatz 1 oder Absatz 2 übermittelt werden dürfen, mit weiteren personenbezogenen Daten des Betroffenen oder eines Dritten so verbunden, dass sie nicht oder nur mit unvertretbarem Aufwand getrennt werden können, ist auch die Übermittlung dieser Daten zulässig, soweit nicht berechtigte Interessen des Betroffenen oder des Dritten an deren Geheimhaltung offensichtlich überwiegen. Eine Verwendung dieser Daten ist unzulässig. Der Empfänger ist darauf hinzuweisen, dass eine Verwendung der Daten des Dritten unzulässig ist und die Daten des Betroffenen nur zu dem Zweck verwendet werden dürfen, der in den Absätzen 1 und 2 genannt ist.
 
-(4) In anwaltsgerichtlichen Verfahren hat das Gericht der zuständigen Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben. Zu nichtöffentlichen Verhandlungen ist Vertretern der zuständigen Stelle des Herkunftsstaates der Zutritt gestattet.
+(4) In anwaltsgerichtlichen Verfahren hat das Gericht der zuständigen Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben. Personen, die diese beauftragt hat, ist der Zutritt zu nichtöffentlichen Verhandlungen gestattet.
 
 # § 10 – Zustellungen
 
@@ -593,7 +593,7 @@ Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den §§ 56, 57, 74
 
 # § 12 – Nachweis der Tätigkeit
 
-(1) Der Antragsteller hat die Anzahl und die Art der von ihm im deutschen Recht bearbeiteten Rechtssachen sowie die Dauer seiner Tätigkeit nachzuweisen. Er erteilt der Rechtsanwaltskammer alle Auskünfte und übermittelt ihr alle Unterlagen, die für den Nachweis geeignet sind. Die Rechtsanwaltskammer kann den Antragsteller auffordern, seine Angaben und Unterlagen zu erläutern.
+(1) Die antragstellende Person hat die Anzahl und die Art der von ihr im deutschen Recht bearbeiteten Rechtssachen sowie die Dauer ihrer Tätigkeit nachzuweisen. Sie erteilt der Rechtsanwaltskammer alle Auskünfte und übermittelt ihr alle Unterlagen, die für den Nachweis geeignet sind. Die Rechtsanwaltskammer kann die antragstellende Person auffordern, ihre Angaben und Unterlagen zu erläutern.
 
 (2) Zum Nachweis der im deutschen Recht bearbeiteten Rechtssachen sind Falllisten vorzulegen, die regelmäßig folgende Angaben enthalten müssen: Aktenzeichen, Gegenstand, Zeitraum, Art und Umfang der Tätigkeit, Sachstand. Ferner sind auf Verlangen der Rechtsanwaltskammer anonymisierte Arbeitsproben vorzulegen.
 
@@ -605,11 +605,11 @@ Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den §§ 56, 57, 74
 
 # § 14 – Nachweise
 
-Der Antragsteller hat die Nachweise gemäß § 12 zu erbringen. Darüber hinaus hat er der Rechtsanwaltskammer alle Auskünfte zu erteilen und alle Unterlagen zu übermitteln, die als Nachweis für seine Kenntnisse und Berufserfahrungen im deutschen Recht geeignet sind.
+Die antragstellende Person hat die Nachweise gemäß § 12 zu erbringen. Darüber hinaus hat sie der Rechtsanwaltskammer alle Auskünfte zu erteilen und alle Unterlagen zu übermitteln, die als Nachweis für ihre Kenntnisse und Berufserfahrungen im deutschen Recht geeignet sind.
 
 # § 15 – Gespräch
 
-Die Rechtsanwaltskammer überprüft in einem Gespräch, ob der Antragsteller effektiv und regelmäßig als niedergelassener europäischer Rechtsanwalt in Deutschland auf dem Gebiet des deutschen Rechts tätig war und ob er imstande ist, diese Tätigkeit weiter auszuüben. Die Gegenstände des Gesprächs sind der nachgewiesenen beruflichen Praxis des Antragstellers und seinen sonstigen Erfahrungen im deutschen Recht zu entnehmen.
+Die Rechtsanwaltskammer überprüft in einem Gespräch, ob die antragstellende Person effektiv und regelmäßig als niedergelassener europäischer Rechtsanwalt in Deutschland auf dem Gebiet des deutschen Rechts tätig war und ob sie imstande ist, diese Tätigkeit weiter auszuüben. Die Gegenstände des Gesprächs sind der nachgewiesenen beruflichen Praxis der antragstellenden Person und ihren sonstigen Erfahrungen im deutschen Recht zu entnehmen.
 
 # § 16 – Antrag auf Feststellung einer gleichwertigen Berufsqualifikation
 
@@ -663,13 +663,13 @@ Die Auferlegung einer Eignungsprüfung gilt als Entscheidung nach Absatz 1 Satz 
 
 # § 17 – Zweck der Eignungsprüfung
 
-Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich die beruflichen Kenntnisse und Kompetenzen des Antragstellers betrifft und mit der seine Fähigkeit, den Beruf eines Rechtsanwalts in Deutschland auszuüben, beurteilt werden soll. Die Eignungsprüfung muss dem Umstand Rechnung tragen, dass der Antragsteller in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz über eine berufliche Qualifikation zur Ausübung eines Rechtsanwaltsberufes verfügt.
+Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich die beruflichen Kenntnisse und Kompetenzen der antragstellenden Person betrifft und mit der ihre Fähigkeit, den Beruf eines Rechtsanwalts in Deutschland auszuüben, beurteilt werden soll. Die Eignungsprüfung muss dem Umstand Rechnung tragen, dass die antragstellende Person in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz über eine berufliche Qualifikation zur Ausübung eines Rechtsanwaltsberufes verfügt.
 
 # § 18 – Prüfungsamt
 
 (1) Die Eignungsprüfung wird von dem Prüfungsamt durchgeführt, das für die zweite juristische Staatsprüfung zuständig ist.
 
-(2) Mehrere Länder können durch Vereinbarung ein gemeinsames Prüfungsamt bilden. Die Zuständigkeit eines Prüfungsamts kann durch Vereinbarung auf die Eignungsprüfung von Antragstellern aus einzelnen Herkunftsstaaten beschränkt werden.
+(2) Mehrere Länder können durch Vereinbarung ein gemeinsames Prüfungsamt bilden. Die Zuständigkeit eines Prüfungsamts kann durch Vereinbarung auf die Eignungsprüfung von antragstellenden Personen aus einzelnen Herkunftsstaaten beschränkt werden.
 
 (3) Soweit nicht in diesem Gesetz oder in einer auf der Grundlage dieses Gesetzes erlassenen Rechtsverordnung Abweichendes bestimmt ist, gelten für die Eignungsprüfung die Vorschriften für die zweite juristische Staatsprüfung desjenigen Landes entsprechend, in dem das Prüfungsamt eingerichtet ist.
 
@@ -681,13 +681,13 @@ Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich die beruf
 
 # § 20 – Prüfungsfächer
 
-(1) Prüfungsfächer sind das Pflichtfach Zivilrecht, zwei Wahlfächer und das Recht für das berufliche Verhalten der Rechtsanwälte. Der Antragsteller bestimmt je ein Wahlfach aus den beiden Wahlfachgruppen
+(1) Prüfungsfächer sind das Pflichtfach Zivilrecht, zwei Wahlfächer und das Recht für das berufliche Verhalten der Rechtsanwälte. Die antragstellende Person bestimmt je ein Wahlfach aus den beiden Wahlfachgruppen
 
 1. Öffentliches Recht oder Strafrecht,
 
 2. Handelsrecht, Arbeitsrecht, durch das Pflichtfach nicht abgedeckte weitere Bereiche des Zivilrechts, Öffentliches Recht oder Strafrecht.
 
-Der Antragsteller darf nicht dasselbe Wahlfach in beiden Wahlfachgruppen bestimmen.
+Die antragstellende Person darf nicht dasselbe Wahlfach in beiden Wahlfachgruppen bestimmen.
 
 (2) Prüfungsinhalte sind durch Rechtsverordnung näher zu bestimmende Bereiche des Pflichtfaches und der beiden Wahlfächer sowie das dazugehörige Verfahrensrecht einschließlich der Grundlagen im Gerichtsverfassungsrecht und die Grundzüge des Zwangsvollstreckungsrechts und des Insolvenzrechts.
 
@@ -697,23 +697,23 @@ Der Antragsteller darf nicht dasselbe Wahlfach in beiden Wahlfachgruppen bestimm
 
 (2) Das Prüfungsamt erlässt der antragstellenden Person auf Antrag einzelne Prüfungsleistungen ganz oder teilweise, wenn sie nachweist, dass sie durch ihre berufliche Ausbildung oder anderweitig, insbesondere durch Berufspraxis oder Weiterbildungsmaßnahmen, in einem Prüfungsgebiet die für die Ausübung des Rechtsanwaltsberufs in Deutschland erforderlichen materiell-rechtlichen und verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat. Ein Antrag nach Satz 1 soll möglichst zusammen mit dem Antrag nach § 16 Absatz 1 gestellt werden. Das Prüfungsamt kann vor dem Erlass von Prüfungsleistungen eine Stellungnahme der Rechtsanwaltskammer einholen, in deren Bezirk es gelegen ist.
 
-(3) Die schriftliche Prüfung umfasst zwei Aufsichtsarbeiten. Eine Aufsichtsarbeit bezieht sich auf das Pflichtfach, die andere auf das vom Antragsteller bestimmte Wahlfach.
+(3) Die schriftliche Prüfung, die auch elektronisch durchgeführt werden kann, umfasst zwei Aufsichtsarbeiten. Eine Aufsichtsarbeit bezieht sich auf das Pflichtfach, die andere auf das von der antragstellenden Person bestimmte Wahlfach.
 
-(4) Der Antragsteller wird zur mündlichen Prüfung nur zugelassen, wenn mindestens eine Aufsichtsarbeit den Anforderungen genügt; andernfalls gilt die Prüfung als nicht bestanden. Satz 1 gilt nicht, wenn der antragstellenden Person eine Aufsichtsarbeit nach Absatz 2 erlassen wurde.
+(4) Die antragstellende Person wird zur mündlichen Prüfung nur zugelassen, wenn mindestens eine Aufsichtsarbeit den Anforderungen genügt; andernfalls gilt die Prüfung als nicht bestanden. Satz 1 gilt nicht, wenn der antragstellenden Person eine Aufsichtsarbeit nach Absatz 2 erlassen wurde.
 
-(5) Die mündliche Prüfung besteht aus einem Kurzvortrag und einem Prüfungsgespräch. Sie hat zum Gegenstand das Recht für das berufliche Verhalten der Rechtsanwälte, das Wahlfach, in dem der Antragsteller keine Aufsichtsarbeit geschrieben hat, und, falls eine Aufsichtsarbeit den Anforderungen nicht genügt, zusätzlich das Fach dieser Arbeit.
+(5) Die mündliche Prüfung besteht aus einem Kurzvortrag und einem Prüfungsgespräch. Sie hat zum Gegenstand das Recht für das berufliche Verhalten der Rechtsanwälte, das Wahlfach, in dem die antragstellende Person keine Aufsichtsarbeit geschrieben hat, und, falls eine Aufsichtsarbeit den Anforderungen nicht genügt, zusätzlich das Fach dieser Arbeit.
 
 # § 22 – Prüfungsentscheidung
 
-Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der Leistungen in der schriftlichen und mündlichen Prüfung mit Stimmenmehrheit, ob der Antragsteller über die nach § 17 erforderlichen Kenntnisse verfügt.
+Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der Leistungen in der schriftlichen und mündlichen Prüfung mit Stimmenmehrheit, ob die antragstellende Person über die nach § 17 erforderlichen Kenntnisse verfügt.
 
 # § 23 – Einwendungen
 
-(1) Der Antragsteller kann schriftlich oder elektronisch Einwendungen gegen die Bewertung seiner Prüfungsleistungen erheben.
+(1) Die antragstellende Person kann schriftlich oder elektronisch Einwendungen gegen die Bewertung ihrer Prüfungsleistungen erheben.
 
-(2) Ist der Antragsteller zur mündlichen Prüfung zugelassen, so muss er die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung, die Einwendungen gegen die Bewertung der mündlichen Prüfung unverzüglich nach Bekanntgabe der Prüfungsentscheidung beim Prüfungsamt (§ 18) geltend machen. Die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten sind spätestens binnen zwei Monaten nach Bekanntgabe der Prüfungsentscheidung, die Einwendungen gegen die Bewertung der mündlichen Prüfung sind spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung im Einzelnen und nachvollziehbar zu begründen.
+(2) Ist die antragstellende Person zur mündlichen Prüfung zugelassen, so muss sie die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung, die Einwendungen gegen die Bewertung der mündlichen Prüfung unverzüglich nach Bekanntgabe der Prüfungsentscheidung beim Prüfungsamt (§ 18) geltend machen. Die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten sind spätestens binnen zwei Monaten nach Bekanntgabe der Prüfungsentscheidung, die Einwendungen gegen die Bewertung der mündlichen Prüfung sind spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung im Einzelnen und nachvollziehbar zu begründen.
 
-(3) Ist der Antragsteller nicht zur mündlichen Prüfung zugelassen, so muss er die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung beim Prüfungsamt geltend machen und binnen zwei Monaten nach deren Bekanntgabe im Einzelnen und nachvollziehbar schriftlich begründen.
+(3) Ist die antragstellende Person nicht zur mündlichen Prüfung zugelassen, so muss sie die Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten spätestens binnen eines Monats nach Bekanntgabe der Prüfungsentscheidung beim Prüfungsamt geltend machen und binnen zwei Monaten nach deren Bekanntgabe im Einzelnen und nachvollziehbar schriftlich begründen.
 
 (4) Entsprechen die Einwendungen nicht den Absätzen 1 bis 3, so werden sie vom Prüfungsamt zurückgewiesen. Im Übrigen werden die Einwendungen den jeweiligen Prüfern zur Überprüfung ihrer Bewertung zugeleitet.
 
@@ -727,7 +727,7 @@ Die Prüfung kann wiederholt werden.
 
 (2) Absatz 1 gilt nicht für europäische Rechtsanwälte, die den Beruf des Rechtsanwalts nicht ausüben dürfen, weil
 
-1. sie aus einem der Gründe nach § 7 Nr. 1, 2, 4 bis 6 der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zur Rechtsanwaltschaft nicht zugelassen sind oder ihre Zulassung aus einem dieser Gründe nach § 14 Abs. 1 der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zurückgenommen worden ist, solange der Grund für die Nichtzulassung oder die Rücknahme der Zulassung besteht,
+1. sie aus einem der Gründe nach § 7 Satz 1 Nummer 1, 2 oder 4 bis 6 der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zur Rechtsanwaltschaft nicht zugelassen sind oder ihre Zulassung aus einem dieser Gründe nach § 14 Abs. 1 der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zurückgenommen worden ist, solange der Grund für die Nichtzulassung oder die Rücknahme der Zulassung besteht,
 
 2. ihre Zulassung nach § 14 Abs. 2 Nr. 1 und 2 der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise widerrufen worden ist,
 
@@ -781,11 +781,11 @@ Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, § 132a d
 
 (2) Das Gericht oder die Behörde kann den Besuch ohne Begleitung oder den unmittelbaren schriftlichen Verkehr gestatten, wenn eine Gefährdung der Sicherheit nicht zu besorgen ist.
 
-(3) Die §§ 138a bis 138d, 146, 146a und 148 der Strafprozessordnung sowie §§ 26, 27 Abs. 3, § 29 Abs. 1 und § 31 Abs. 4 des Strafvollzugsgesetzes sind auf den Einvernehmensanwalt entsprechend anzuwenden.
+(3) Die §§ 138a bis 138d, 146, 146a und 148 der Strafprozessordnung sowie die im jeweiligen Fall für den Besuch von und den Schriftwechsel mit Verteidigern geltenden Vorschriften des Strafvollzugsgesetzes oder des Justizvollzugsgesetzes des Landes sind auf den Einvernehmensanwalt entsprechend anzuwenden.
 
 # § 31 – Zustellungen in behördlichen und gerichtlichen Verfahren
 
-(1) Der dienstleistende europäische Rechtsanwalt hat einen Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen Geschäftsraum hat, zu benennen, sobald er in Verfahren vor Gerichten oder Behörden tätig wird. Die Benennung erfolgt gegenüber der Behörde oder dem Gericht. Zustellungen, die für den dienstleistenden europäischen Rechtsanwalt bestimmt sind, sind an den Zustellungsbevollmächtigten zu bewirken. An ihn kann auch von Anwalt zu Anwalt (§§ 174 und 195 der Zivilprozessordnung) zugestellt werden.
+(1) Der dienstleistende europäische Rechtsanwalt hat einen Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen Geschäftsraum hat, zu benennen, sobald er in Verfahren vor Gerichten oder Behörden tätig wird. Die Benennung erfolgt gegenüber der Behörde oder dem Gericht. Zustellungen, die für den dienstleistenden europäischen Rechtsanwalt bestimmt sind, sind an den Zustellungsbevollmächtigten zu bewirken. An ihn kann, auch von Anwalt zu Anwalt, wie an einen Rechtsanwalt selbst zugestellt werden (§§ 174 und 195 der Zivilprozessordnung).
 
 (2) Ist ein Zustellungsbevollmächtigter nicht benannt, so gilt in den in § 28 Abs. 1 aufgeführten Verfahren der Einvernehmensanwalt als Zustellungsbevollmächtigter; kann nicht an einen Zustellungsbevollmächtigten im Geltungsbereich dieses Gesetzes zugestellt werden, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung).
 
@@ -809,13 +809,13 @@ Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, § 132a d
 
 (2) Der Vorstand kann die in Absatz 1 Nr. 1, 3 bis 6 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
 
-(3) Die §§ 56, 57 und 73 Absatz 3 sowie die §§ 74, 74a, 195, 197a bis 199, 205 und 205a der Bundesrechtsanwaltsordnung gelten entsprechend.
+(3) Die §§ 56 bis 58, 73 Absatz 3 sowie die §§ 74, 74a, 195, 197a bis 199, 205 und 205a der Bundesrechtsanwaltsordnung gelten entsprechend.
 
 (4) Die Zuständigkeit der Rechtsanwaltskammer für die Aufsicht nach Absatz 1 richtet sich nach dem Staat der Niederlassung des dienstleistenden europäischen Rechtsanwalts. Die Aufsicht wird ausgeübt für dienstleistende europäische Rechtsanwälte aus
 
 1. Belgien und den Niederlanden durch die Rechtsanwaltskammer Düsseldorf in Düsseldorf,
 
-2. Frankreich und Luxemburg durch die Rechtsanwaltskammer Koblenz in Koblenz,
+2. Frankreich und Luxemburg durch die Rechtsanwaltskammer für den Oberlandesgerichtsbezirk Koblenz in Koblenz,
 
 3. dem Vereinigten Königreich, Irland, Finnland und Schweden durch die Hanseatische Rechtsanwaltskammer in Hamburg,
 
@@ -823,13 +823,13 @@ Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, § 132a d
 
 5. Dänemark, Norwegen und Island durch die Schleswig-Holsteinische Rechtsanwaltskammer in Schleswig,
 
-6. Liechtenstein und der Schweiz durch die Rechtsanwaltskammer in Freiburg,
+6. Liechtenstein und der Schweiz durch die Rechtsanwaltskammer Freiburg in Freiburg,
 
-7. Griechenland und der Republik Zypern durch die Rechtsanwaltskammer in Celle,
+7. Griechenland und der Republik Zypern durch die Rechtsanwaltskammer für den Oberlandesgerichtsbezirk Celle in Celle,
 
 8. Spanien und Estland durch die Rechtsanwaltskammer Stuttgart in Stuttgart,
 
-9. Portugal durch die Rechtsanwaltskammer Oldenburg in Oldenburg,
+9. Portugal durch die Rechtsanwaltskammer für den Oberlandesgerichtsbezirk Oldenburg in Oldenburg,
 
 10. der Tschechischen Republik und der Slowakei durch die Rechtsanwaltskammer Sachsen in Dresden,
 
@@ -978,7 +978,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | \- in Irland:                     | Barrister/Solicitor                                                   |
 | \- in Island:                     | Lögmaur                                                               |
 | \- in Italien:                    | Avvocato                                                              |
-| \- in Kroatien:                   | Odvjetnik                                                             |
+| \- in Kroatien:                   | Odvjetnik/Odvjetnica                                                  |
 | \- in Lettland:                   | Zverinats advokats                                                    |
 | \- in Liechtenstein:              | Rechtsanwalt                                                          |
 | \- in Litauen:                    | Advokatas                                                             |

@@ -343,7 +343,7 @@ d) Umwandlungssteuerrecht;
 
 (1) Die Prüfung gliedert sich in vier Module, die jeweils ein Prüfungsgebiet nach § 4 Absatz 1 umfassen. In jedem Modul ist eine Prüfung (Modulprüfung) abzulegen. In einem Prüfungstermin nach § 2 Absatz 8 können eine oder mehrere Modulprüfungen abgelegt werden. Jede Modulprüfung besteht aus einer schriftlichen und einer mündlichen Prüfung. Jede schriftliche Modulprüfung besteht aus ein oder zwei unter Aufsicht anzufertigenden Arbeiten (Aufsichtsarbeiten).
 
-(2) Für jede Modulprüfung ist eine schriftliche oder elektronische Anmeldung bei der Prüfungsstelle erforderlich. Mit dem Antrag auf Zulassung nach § 1 muss die Anmeldung zu mindestens einer Modulprüfung erklärt werden. Zum Zeitpunkt der Anmeldung zu weiteren Modulprüfungen darf die Zulassung zur Prüfung nicht länger als sechs Jahre zurückliegen. Ein außerhalb der Frist des Satzes 3 liegender Prüfungstermin darf nur gewählt werden, wenn es sich um den nächstmöglichen handelt.
+(2) Für jede Modulprüfung ist eine schriftliche oder elektronische Anmeldung bei der Prüfungsstelle erforderlich. Mit dem Antrag auf Zulassung nach § 1 muss die Anmeldung zu mindestens einer Modulprüfung erklärt werden. Das Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht ist von einer Zulassung zur Prüfung nach § 9 Absatz 7 der Wirtschaftsprüferordnung ausgenommen. Zum Zeitpunkt der Anmeldung zu weiteren Modulprüfungen darf die Zulassung zur Prüfung nicht länger als sechs Jahre zurückliegen. Ein außerhalb der Frist des Satzes 3 liegender Prüfungstermin darf nur gewählt werden, wenn es sich um den nächstmöglichen handelt.
 
 # § 6 – Verkürzte Prüfung
 
@@ -467,7 +467,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (2) Hat die geprüfte Person in der Modulprüfung im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht in der zweiten Wiederholungsprüfung eine Modulgesamtnote von mindestens 4,30 erzielt und in allen weiteren Prüfungsgebieten die Modulprüfung bestanden, kann sie eine Ergänzungsprüfung auf diesem Gebiet ablegen. Dies gilt nicht, wenn keine der Aufsichtsarbeiten im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht mindestens mit der Note 4,00 bewertet worden ist. § 7 Absatz 3 und § 15 Absatz 1 Satz 1 gelten entsprechend. Das Prüfungsergebnis in der schriftlichen und mündlichen Ergänzungsprüfung ersetzt das Ergebnis der zweiten Wiederholungsprüfung.
 
-(3) Die geprüfte Person kann sich nur innerhalb eines Jahres nach dem Tag der Mitteilung des Prüfungsergebnisses zur Ablegung der Ergänzungsprüfung melden; § 5 Absatz 2 Satz 3 und 4 gilt sinngemäß.
+(3) Die geprüfte Person kann sich nur innerhalb eines Jahres nach dem Tag der Mitteilung des Prüfungsergebnisses zur Ablegung der Ergänzungsprüfung melden; § 5 Absatz 2 Satz 4 und 5 gilt sinngemäß.
 
 (4) Die geprüfte Person hat im Fall des Absatzes 1 unter Berücksichtigung der Ergänzungsprüfung oder im Fall des Absatzes 2 in der Ergänzungsprüfung eine mindestens mit der Gesamtnote 4,00 bewertete Leistung zu erbringen; andernfalls hat sie die Modulprüfung nicht bestanden.
 
@@ -501,7 +501,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 # § 22 – Wiederholung einer Modulprüfung und der Prüfung
 
-(1) Eine Modulprüfung kann zweimal wiederholt werden. Für die Wiederholung der Modulprüfung ist eine Anmeldung bei der Prüfungsstelle erforderlich; § 5 Absatz 2 Satz 3 und 4 gilt entsprechend.
+(1) Eine Modulprüfung kann zweimal wiederholt werden. Für die Wiederholung der Modulprüfung ist eine Anmeldung bei der Prüfungsstelle erforderlich; § 5 Absatz 2 Satz 4 und 5 gilt entsprechend.
 
 (2) Die Prüfung kann einmal wiederholt werden. Für die Wiederholung der Prüfung ist eine erneute Zulassung erforderlich. Wird der Antrag auf erneute Zulassung gestellt, sind nur die in § 1 Absatz 1 Satz 2 Nummer 1, 3 und 8 genannten Unterlagen und Erklärungen beizufügen; dies gilt nicht für Anträge nach dem 31. Dezember 2003, wenn die Zulassung zur vorhergehenden Prüfung bereits vor dem 1. Januar 2004 erfolgt ist.
 
