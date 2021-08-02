@@ -1173,29 +1173,7 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (5) Im Rahmen der Ermittlung des wirtschaftlichsten Angebotes ist die anhand der Informationen nach Absatz 3 oder der Ergebnisse einer Überprüfung nach Absatz 4 zu ermittelnde Energieeffizienz als Zuschlagskriterium angemessen zu berücksichtigen.
 
-# § 68 – Beschaffung von Straßenfahrzeugen
-
-(1) Der öffentliche Auftraggeber muss bei der Beschaffung von Straßenfahrzeugen Energieverbrauch und Umweltauswirkungen berücksichtigen. Zumindest müssen hierbei folgende Faktoren, jeweils bezogen auf die Gesamtkilometerleistung des Straßenfahrzeugs im Sinne der Tabelle 3 der Anlage 2, berücksichtigt werden:<span id="FnR.F793682_03"></span><a href="#F793682_03" class="FnR">3</a></sup>
-
-1. Energieverbrauch,
-
-2. Kohlendioxid-Emissionen,
-
-3. Emissionen von Stickoxiden,
-
-4. Emissionen von Nichtmethan-Kohlenwasserstoffen und
-
-5. partikelförmige Abgasbestandteile.
-
-(2) Der öffentliche Auftraggeber erfüllt die Verpflichtung nach Absatz 1 zur Berücksichtigung des Energieverbrauchs und der Umweltauswirkungen, indem er
-
-1. Vorgaben zu Energieverbrauch und Umweltauswirkungen in der Leistungsbeschreibung macht oder
-
-2. den Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen als Zuschlagskriterien berücksichtigt.
-
-(3) Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen finanziell bewertet werden, ist die in Anlage 3 definierte Methode anzuwenden. Soweit die Angaben in Anlage 2 dem öffentlichen Auftraggeber einen Spielraum bei der Beurteilung des Energiegehaltes oder der Emissionskosten einräumen, nutzt der öffentliche Auftraggeber diesen Spielraum entsprechend den lokalen Bedingungen am Einsatzort des Fahrzeugs.
-
-(4) Von der Anwendung der Absätze 1 bis 3 sind Straßenfahrzeuge ausgenommen, die für den Einsatz im Rahmen des hoheitlichen Auftrags der Streitkräfte, des Katastrophenschutzes, der Feuerwehren und der Polizeien des Bundes und der Länder konstruiert und gebaut sind (Einsatzfahrzeuge). Bei der Beschaffung von Einsatzfahrzeugen werden die Anforderungen nach den Absätzen 1 bis 3 berücksichtigt, soweit es der Stand der Technik zulässt und hierdurch die Einsatzfähigkeit der Einsatzfahrzeuge zur Erfüllung des in Satz 1 genannten hoheitlichen Auftrags nicht beeinträchtigt wird.
+# § 68 – (weggefallen)
 
 # § 69 – Anwendungsbereich
 
@@ -1334,33 +1312,3 @@ c) nationale Norm: Norm, die von einer nationalen Normungsorganisation angenomme
 4. „gemeinsame technische Spezifikationen“ sind technische Spezifikationen im Bereich der Informations- und Kommunikationstechnologie, die gemäß den Artikeln 13 und 14 der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12) festgelegt wurden;
 
 5. „technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
-
-# Anlage 2 – (zu § 68 Absatz 1 und 3)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
-
-(Fundstelle: BGBl. I 2016, 655)
-
-# Anlage 3 – (zu § 68 Absatz 3)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
-
-(Fundstelle: BGBl. I 2016, 656)
-
-1. Für die Zwecke von § 68 werden die über die Lebensdauer eines Straßenfahrzeugs durch dessen Betrieb verursachten Energieverbrauchs- und Emissionskosten (Betriebskosten) nach der im Folgenden beschriebenen Methode finanziell bewertet und berechnet:
-
-a) Die Energieverbrauchskosten, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden wie folgt berechnet:
-
-aa)  
-Der Kraftstoffverbrauch je Kilometer eines Straßenfahrzeugs gemäß Nummer 2 wird in Energieverbrauch je Kilometer (Megajoule/Kilometer, MJ/km) gerechnet. Soweit der Kraftstoffverbrauch in anderen Einheiten angegeben ist, wird er nach den Umrechnungsfaktoren in Tabelle 1 der Anlage 2 in MJ/km umgerechnet.
-
-bb)  
-Je Energieeinheit muss im Rahmen der Angebotswertung ein finanzieller Wert festgesetzt werden (€/MJ). Dieser finanzielle Wert wird nach einem Vergleich der Kosten je Energieeinheit von Ottokraftstoff oder Dieselkraftstoff vor Steuern bestimmt. Der jeweils günstigere Kraftstoff bestimmt den in der Angebotswertung zu berücksichtigenden finanziellen Wert je Energieeinheit (€/MJ).
-
-cc) Zur Berechnung der Energieverbrauchskosten, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), der Energieverbrauch je Kilometer (MJ/km) gemäß Doppelbuchstabe aa und die Kosten in Euro je Energieeinheit (€/MJ) gemäß Doppelbuchstabe bb miteinander multipliziert.
-
-b) Zur Berechnung der Kohlendioxid-Emissionen, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), die Kohlendioxid-Emissionen in Kilogramm je Kilometer (kg/km) gemäß Nummer 2 und die Emissionskosten je Kilogramm (€/kg) gemäß Tabelle 2 der Anlage 2 miteinander multipliziert.
-
-c) Zur Berechnung der in Tabelle 2 der Anlage 2 aufgeführten Kosten für Schadstoffemissionen, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Kosten für Emissionen von Stickoxiden, Nichtmethan-Kohlenwasserstoffen und partikelförmigen Abgasbestandteilen addiert. Zur Berechnung der über die Lebensdauer anfallenden Kosten für jeden einzelnen Schadstoff werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), die Emissionen in Gramm je Kilometer (g/km) gemäß Nummer 2 und die jeweiligen Kosten je Gramm (€/g) miteinander multipliziert.
-
-d) Auftraggeber dürfen bei der Berechnung der Emissionskosten nach den Buchstaben b und c höhere Werte zugrunde legen als diejenigen, die in Tabelle 2 der Anlage 2 angegeben sind, sofern die Werte in Tabelle 2 der Anlage 2 um nicht mehr als das Doppelte überschritten werden.
-
-2. Die Werte für den Kraftstoffverbrauch je Kilometer sowie für Kohlendioxid-Emissionen und Schadstoffemissionen je Kilometer basieren auf den genormten gemeinschaftlichen Testverfahren der Gemeinschaftsvorschriften über die Typgenehmigung. Für Straßenfahrzeuge, für die keine genormten gemeinschaftlichen Testverfahren bestehen, werden zur Gewährleistung der Vergleichbarkeit verschiedener Angebote allgemein anerkannte Testverfahren, die Ergebnisse von Prüfungen, die für den Auftraggeber durchgeführt wurden, oder die Angaben des Herstellers herangezogen.
-
-3. Die Gesamtkilometerleistung eines Fahrzeugs ist der Tabelle 3 der Anlage 2 zu entnehmen.

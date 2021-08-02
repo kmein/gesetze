@@ -507,15 +507,17 @@ h) Investmentanteile an inländischen und ausländischen Organismen für gemeins
 
 i) Spezial-Investmentanteile,
 
-j) Beteiligungen an ÖPP-Projektgesellschaften nach § 1 Absatz 19 Nummer 28 des Kapitalanlagegesetzbuchs, wenn der Verkehrswert dieser Beteiligungen ermittelt werden kann,
+j) Beteiligungen an ÖPP-Projektgesellschaften nach § 1 Absatz 19 Nummer 28 des Kapitalanlagegesetzbuchs und an Infrastruktur-Projektgesellschaften nach § 1 Absatz 19 Nummer 23a des Kapitalanlagegesetzbuchs, wenn der Verkehrswert dieser Beteiligung ermittelt werden kann,
 
 k) Edelmetalle,
 
-l) unverbriefte Darlehensforderungen und
+l) unverbriefte Darlehensforderungen,
 
-m) Beteiligungen an Kapitalgesellschaften, wenn der Verkehrswert dieser Beteiligungen ermittelt werden kann.
+m) Beteiligungen an Kapitalgesellschaften, wenn der Verkehrswert dieser Beteiligungen ermittelt werden kann,
 
-5. Höchstens 20 Prozent des Wertes des Investmentfonds werden in Beteiligungen an Kapitalgesellschaften investiert, die weder zum Handel an einer Börse zugelassen noch in einem anderen organisierten Markt zugelassen oder in diesen einbezogen sind. Investmentfonds, die nach ihren Anlagebedingungen mehr als 50 Prozent ihres Aktivvermögens in Immobilien oder Immobilien-Gesellschaften anlegen, dürfen bis zu 100 Prozent ihres Wertes in Immobilien-Gesellschaften investieren. Innerhalb der Grenzen des Satzes 1 dürfen auch Unternehmensbeteiligungen gehalten werden, die vor dem 28. November 2013 erworben wurden.
+n) Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes, wenn deren Verkehrswert ermittelt werden kann und es sich nicht um Wertpapiere im Sinne des § 193 des Kapitalanlagegesetzbuchs handelt.
+
+5. Höchstens 20 Prozent des Wertes des Investmentfonds werden in Beteiligungen an Kapitalgesellschaften investiert, die weder zum Handel an einer Börse zugelassen noch in einem anderen organisierten Markt zugelassen oder in diesen einbezogen sind. Investmentfonds, die nach ihren Anlagebedingungen das bei ihnen angelegte Geld in Immobilien, Immobilien-Gesellschaften oder in Infrastruktur-Projektgesellschaften anlegen, dürfen bis zu 100 Prozent ihres Wertes in Beteiligungen an Kapitalgesellschaften investieren, die die Voraussetzungen von Immobilien-Gesellschaften oder Infrastruktur-Projektgesellschaften erfüllen. Höchstens 20 Prozent des Wertes des Investmentfonds werden in Kryptowerte im Sinne von Nummer 4 Buchstabe n investiert.
 
 6. Die Höhe der unmittelbaren Beteiligung oder der mittelbaren Beteiligung über eine Personengesellschaft an einer Kapitalgesellschaft liegt unter 10 Prozent des Kapitals der Kapitalgesellschaft. Dies gilt nicht für Beteiligungen eines Investmentfonds an
 
@@ -525,7 +527,7 @@ b) ÖPP-Projektgesellschaften und
 
 c) Gesellschaften, deren Unternehmensgegenstand auf die Erzeugung erneuerbarer Energien nach § 5 Nummer 14 des Erneuerbare-Energien-Gesetzes gerichtet ist.
 
-7. Ein Kredit darf nur kurzfristig und nur bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds aufgenommen werden. Investmentfonds, die nach den Anlagebedingungen das bei ihnen eingelegte Geld in Immobilien anlegen, dürfen kurzfristige Kredite bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds und im Übrigen Kredite bis zu einer Höhe von 50 Prozent des Verkehrswertes der unmittelbar oder mittelbar gehaltenen Immobilien aufnehmen.
+7. Ein Kredit darf nur kurzfristig und nur bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds aufgenommen werden. Investmentfonds, die nach den Anlagebedingungen das bei ihnen eingelegte Geld in Immobilien anlegen, dürfen kurzfristige Kredite bis zu einer Höhe von 30 Prozent des Wertes des Investmentfonds und im Übrigen Kredite bis zu einer Höhe von 60 Prozent des Verkehrswertes der unmittelbar oder mittelbar gehaltenen Immobilien aufnehmen.
 
 8. An dem Investmentfonds dürfen sich unmittelbar und mittelbar über Personengesellschaften insgesamt nicht mehr als 100 Anleger beteiligen. Natürliche Personen dürfen nur beteiligt sein, wenn
 
@@ -1161,5 +1163,7 @@ in der Fassung des Artikels 17 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 24
 in der Fassung des Artikels 10 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096).
 
 (3) § 7 Absatz 4 Satz 3 und Absatz 5 Satz 1 sowie § 11 Absatz 1 Satz 3 und 4 in der Fassung des Artikels 3 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) sind ab dem 1. Juli 2021 anzuwenden. Bei Vorlage einer Statusbescheinigung, die nicht die Angaben nach § 7 Absatz 4 Satz 3 in der Fassung des Artikels 3 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) enthält, ist ab dem 1. Juli 2021 eine Erstattung nach § 7 Absatz 5 ausgeschlossen.
+
+(4) § 26 Nummer 4 Buchstabe j, Nummer 5 Satz 2 und Nummer 7 Satz 2 in der Fassung des Artikels 5 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1498) ist ab dem 2. August 2021 anzuwenden.
 
 (5) § 43 Absatz 2 in der am 30. Juni 2021 geltenden Fassung ist letztmals für den Veranlagungszeitraum 2021 anzuwenden.

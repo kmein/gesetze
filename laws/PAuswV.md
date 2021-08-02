@@ -433,44 +433,39 @@ Der Bundesrat hat zugestimmt.
 
 # Anhang 1 – Muster des Personalausweises
 
-(Fundstelle: BGBl. I 2010, 1469;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2020, 2753)
 
 Vorderseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j2585-1_0290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0010.jpg)
 
   
   
 Rückseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j1460-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0020.jpg)
 
   
   
-Muster des Aufklebers zur Anschriftenänderung des Personalausweises in der Ausgabeform ab 1. November 2010
+Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0070.jpg)
-
-  
-  
-Muster des Aufklebers zur Anschriftenänderung des Personalausweises in der Ausgabeform bis 31. Oktober 2010
-
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0080.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0030.jpg)
 
 # Anhang 2 – Muster des vorläufigen Personalausweises
 
-(Fundstelle: BGBl. I 2013, 342)
-
-Muster des vorläufigen Personalausweises
+(Fundstelle: BGBl. I 2020, 2754)
 
 Vorderseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0090.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0040.jpg)
 
 Rückseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0050.jpg)
+
+Muster des Aufklebers zur Anschriftenänderung des vorläufigen Personalausweises
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0060.jpg)
 
 # Anhang 2a – Muster des Ersatz-Personalausweises
 

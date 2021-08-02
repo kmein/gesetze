@@ -91,6 +91,8 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (3) Beanstandungen des Wechselgelds oder der vom Fahrpersonal ausgestellten Quittung müssen sofort vorgebracht werden.
 
+(4) Die besonderen Beförderungsbedingungen können vorsehen, dass das Verkehrsunternehmen nicht verpflichtet ist, an der Haltestelle oder im Fahrzeug einen Fahrausweiserwerb mit Bargeld zu ermöglichen, sofern auf andere Weise ein Fahrausweiserwerb angeboten wird.
+
 # § 8 – Ungültige Fahrausweise
 
 (1) Fahrausweise, die entgegen den Vorschriften der Beförderungsbedingungen oder des Beförderungstarifs benutzt werden, sind ungültig und werden eingezogen; dies gilt auch für Fahrausweise, die

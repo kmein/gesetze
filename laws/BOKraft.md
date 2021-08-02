@@ -227,7 +227,7 @@ Titel
 
  
 
-Taxen und Mietwagen
+Taxen, Mietwagen und gebündelter Bedarfsverkehr
 
  
 
@@ -255,6 +255,12 @@ Fahrpreisanzeiger
 
  
 
+§ 28a
+
+Navigationsgerät
+
+ 
+
 § 29
 
 Gepäck
@@ -269,7 +275,7 @@ Wegstreckenzähler
 
 § 31
 
-Fahrzeuge mit einer Genehmigung für den Taxen- und Mietwagenverkehr
+Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und den gebündelten Bedarfsverkehr
 
  
 
@@ -468,6 +474,18 @@ Anlage 2
 Anlage 3
 
 Abmessungen und Beschriftung des Ordnungsnummern-Schildes
+
+ 
+
+Anlage 3a
+
+Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
+
+ 
+
+Anlage 3b
+
+Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelten Bedarfsverkehr
 
  
 
@@ -741,9 +759,13 @@ Vorbehaltlich des Absatzes 2 ist jede andere als die nach dieser Verordnung vorg
 
 (2) Bei Taxen ist im Wageninnern an einer für den Fahrgast gut sichtbaren Stelle ein Schild mit Namen und Betriebssitz des Unternehmers anzubringen.
 
+(3) Bei Mietwagen ist an der rechten unteren Ecke der Heckscheibe ein nach außen und innen wirkendes Schild nach Anlage 3a mit der Ordnungsnummer, die die Genehmigungsbehörde erteilt hat, anzubringen.
+
+(4) Bei Fahrzeugen des gebündelten Bedarfsverkehrs nach § 50 des Personenbeförderungsgesetzes ist an der rechten unteren Ecke der Heckscheibe ein nach außen und innen wirkendes Schild nach Anlage 3b mit der Ordnungsnummer, die die Genehmigungsbehörde erteilt hat, anzubringen.
+
 # § 28 – Fahrpreisanzeiger
 
-(1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger ausgerüstet sein. Die Vorschriften des Eichrechts finden Anwendung.
+(1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger ausgerüstet sein. Abweichend von Satz 1 ist statt der Ausrüstung mit einem beleuchtbaren Fahrpreisanzeiger auch die Ausrüstung mit einem konformitätsbewerteten softwarebasierten System möglich. Die Vorschriften des Eichrechts finden Anwendung.
 
 (2) Der Fahrpreisanzeiger muß anzeigen
 
@@ -753,19 +775,33 @@ Vorbehaltlich des Absatzes 2 ist jede andere als die nach dieser Verordnung vorg
 
 Die Anzeige muß leicht ablesbar und bei Dunkelheit beleuchtet sein.
 
+# § 28a – Navigationsgerät
+
+Taxen müssen mit einem dem Stand der Technik entsprechenden Navigationsgerät ausgerüstet sein, welches mindestens nachfolgende Funktionen besitzen muss:
+
+1. echtzeitdatenbasierte Streckenführung,
+
+2. Echtzeit-Staumeldungen,
+
+3. Stau- und Sperrungsumfahrungen und
+
+4. umfassendes Sonderzieleverzeichnis.
+
+Als ein dem Stand der Technik entsprechendes Navigationsgerät gilt auch ein softwarebasiertes System mit den oben genannten Funktionen auf einem entsprechenden Endgerät.
+
 # § 29 – Gepäck
 
 Taxen müssen auch bei vollständiger Besetzung im Rahmen ihres zulässigen Gesamtgewichts mindestens 50 kg Gepäck befördern können.
 
 # § 30 – Wegstreckenzähler
 
-(1) In Mietwagen ist ein leicht ablesbarer Wegstreckenzähler anzubringen. Die Vorschriften des Eichrechts finden Anwendung.
+(1) In Mietwagen ist ein leicht ablesbarer Wegstreckenzähler anzubringen. Anstelle des Wegstreckenzählers ist die Ausrüstung mit einem konformitätsbewerteten softwarebasierten System möglich. Die Vorschriften des Eichrechts finden Anwendung.
 
 (2) Absatz 1 gilt auch für Mietomnibusse, wenn das Beförderungsentgelt nach den Angaben eines Wegstreckenzählers ermittelt wird.
 
-# § 31 – Fahrzeuge mit einer Genehmigung für den Taxen- und Mietwagenverkehr
+# § 31 – Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und gebündelten Bedarfsverkehr
 
-(1) Für Fahrzeuge, die für den Taxen- und Mietwagenverkehr genehmigt sind, gelten die §§ 25 bis 30. Wird Mietwagenverkehr ausgeführt, dürfen das Taxischild nach § 26 Abs. 1 Nr. 2 und die Ordnungsnummer nach § 27 Abs. 1 nicht gezeigt werden.
+(1) Für Fahrzeuge, die für den Taxenverkehr und mindestens einen weiteren Gelegenheitsverkehr nach § 49 Absatz 4 oder § 50 des Personenbeförderungsgesetzes genehmigt sind, gelten die §§ 25 bis 30. Für Fahrzeuge, die für den Mietwagenverkehr und gebündelten Bedarfsverkehr genehmigt sind, gelten die §§ 25, 27 Absatz 3 und 4 und § 30. Wird Mietwagen- oder gebündelter Bedarfsverkehr ausgeführt, darf das Taxischild nach § 26 Absatz 1 Nummer 2 nicht gezeigt werden.
 
 (2) Wird ein Fahrzeug nur in geringem Umfang für den Mietwagenverkehr verwendet, kann die Genehmigungsbehörde gestatten, daß das Fahrzeug nur mit einem Fahrpreisanzeiger ausgerüstet wird; in diesem Falle hat der Fahrzeugführer bei Durchführung von Mietwagenverkehr den Fahrgast auf das Fehlen eines besonderen Wegstreckenzählers und die Art der Berechnung des Beförderungsentgelts hinzuweisen.
 
@@ -807,7 +843,7 @@ Die §§ 32, 33 Abs. 1 bis 3 und § 35 gelten nicht für die Sonderformen des Li
 
 # § 37 – Beförderungsentgelte
 
-(1) Ein anderes als das vom Fahrpreisanzeiger angezeigte Beförderungsentgelt darf nicht gefordert werden.
+(1) Ein anderes als das vom Fahrpreisanzeiger angezeigte oder im Rahmen des Bestellvorgangs vereinbarte Beförderungsentgelt darf nicht gefordert werden.
 
 (2) Bei Versagen des Fahrpreisanzeigers wird das Beförderungsentgelt nach der durchfahrenen Strecke berechnet; der Fahrzeugführer hat den Fahrgast hierauf unverzüglich hinzuweisen. Nach Beendigung der Fahrt hat der Fahrzeugführer dem Unternehmer eine Störung des Fahrpreisanzeigers unverzüglich anzuzeigen; der Unternehmer hat die Störung unverzüglich zu beheben.
 
@@ -1065,6 +1101,46 @@ gelb
   
   
 (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
+
+# Anlage 3a – (zu § 27 Absatz 3) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
+
+(Fundstelle: BGBl. I 2021, 831)
+
+Breite
+
+150 mm
+
+Höhe
+
+70 mm
+
+Schrifthöhe
+
+50 mm
+
+Strichstärke
+
+6 mm
+
+Waagerechter Abstand der Ziffern  
+voneinander
+
+  
+5 mm
+
+Farbe der Schrift
+
+weiß
+
+Farbe des Untergrunds
+
+blau
+
+(Inhalt: nicht darstellbares Ordnungsnummern-Schild)
+
+# Anlage 3b – (zu § 27 Absatz 4) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre
+
+(Fundstelle: BGBl. I 2021, 832)
 
 # Anlage 4 – (§ 33 Abs. 4)
 
