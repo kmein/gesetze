@@ -923,27 +923,7 @@ Ein Vergabeverfahren kann ganz oder bei Losvergabe für einzelne Lose aufgehoben
 
 (2) Bei technischen Geräten und Ausrüstungen kann deren Energieverbrauch bei der Entscheidung über den Zuschlag berücksichtigt werden, bei Bauleistungen jedoch nur dann, wenn die Lieferung der technischen Geräte oder Ausrüstungen ein wesentlicher Bestandteil der Bauleistung ist.
 
-# § 59 – Beschaffung von Straßenfahrzeugen
-
-(1) Der Auftraggeber muss bei der Beschaffung von Straßenfahrzeugen Energieverbrauch und Umweltauswirkungen berücksichtigen. Zumindest müssen folgende Faktoren, jeweils bezogen auf die Gesamtkilometerleistung des Straßenfahrzeugs im Sinne der Tabelle 3 der Anlage 2, berücksichtigt werden:
-
-1. Energieverbrauch,
-
-2. Kohlendioxid-Emissionen,
-
-3. Emissionen von Stickoxiden,
-
-4. Emissionen von Nichtmethan-Kohlenwasserstoffen und
-
-5. partikelförmige Abgasbestandteile.
-
-(2) Der Auftraggeber erfüllt die Verpflichtung, indem er
-
-1. Vorgaben zu Energieverbrauch und Umweltauswirkungen in der Leistungsbeschreibung oder in den technischen Spezifikationen macht oder
-
-2. den Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen als Zuschlagskriterien berücksichtigt.
-
-Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen finanziell bewertet werden, ist die in Anlage 3 definierte Methode anzuwenden. Soweit die Angaben in Anlage 2 dem Auftraggeber einen Spielraum bei der Beurteilung des Energiegehaltes oder der Emissionskosten einräumen, nutzt er diesen Spielraum entsprechend den lokalen Bedingungen am Einsatzort des Fahrzeugs.
+# § 59 – (weggefallen)
 
 # § 60 – Anwendungsbereich
 
@@ -1012,35 +992,3 @@ c) nationale Norm: Norm, die von einer nationalen Normungsorganisation angenomme
 4. „gemeinsame technische Spezifikationen“ sind technische Spezifikationen im Bereich der Informations- und Kommunikationstechnologie, die gemäß den Artikeln 13 und 14 der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12) festgelegt wurden;
 
 5. „technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
-
-# Anlage 2 – (zu § 59)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
-
-(Fundstelle: BGBl. I 2016, 681)
-
-# Anlage 3 – (zu § 59 Absatz 2)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
-
-(Fundstelle: BGBl. I 2016, 682)
-
-1. Für die Zwecke von § 59 werden die über die Lebensdauer eines Straßenfahrzeugs durch dessen Betrieb verursachten Energieverbrauchs- und Emissionskosten (Betriebskosten) nach der im Folgenden beschriebenen Methode finanziell bewertet und berechnet:
-
-a) Die Energieverbrauchskosten, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden wie folgt berechnet:
-
-aa)  
-Der Kraftstoffverbrauch je Kilometer eines Straßenfahrzeugs gemäß Nummer 2 wird in Energieverbrauch je Kilometer (Megajoule/Kilometer, MJ/km) gerechnet. Soweit der Kraftstoffverbrauch in anderen Einheiten angegeben ist, wird er nach den Umrechnungsfaktoren in Tabelle 1 der Anlage 2 in MJ/km umgerechnet.
-
-bb)  
-Je Energieeinheit muss im Rahmen der Angebotswertung ein finanzieller Wert festgesetzt werden (€/MJ). Dieser finanzielle Wert wird nach einem Vergleich der Kosten je Energieeinheit von Ottokraftstoff oder Dieselkraftstoff vor Steuern bestimmt. Der jeweils günstigere Kraftstoff bestimmt den in der Angebotswertung zu berücksichtigenden finanziellen Wert je Energieeinheit (€/MJ).
-
-cc) Zur Berechnung der Energieverbrauchskosten, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), der Energieverbrauch je Kilometer (MJ/km) gemäß Doppelbuchstabe aa und die Kosten in Euro je Energieeinheit (€/MJ) gemäß Doppelbuchstabe bb miteinander multipliziert.
-
-b) Zur Berechnung der Kohlendioxid-Emissionen, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), die Kohlendioxid-Emissionen in Kilogramm je Kilometer (kg/km) gemäß Nummer 2 und die Emissionskosten je Kilogramm (€/kg) gemäß Tabelle 2 der Anlage 2 miteinander multipliziert.
-
-c) Zur Berechnung der in Tabelle 2 der Anlage 2 aufgeführten Kosten für Schadstoffemissionen, die für den Betrieb eines Straßenfahrzeugs über dessen Lebensdauer anfallen, werden die Kosten für Emissionen von Stickoxiden, Nichtmethan-Kohlenwasserstoffen und partikelförmigen Abgasbestandteilen addiert. Zur Berechnung der über die Lebensdauer anfallenden Kosten für jeden einzelnen Schadstoff werden die Gesamtkilometerleistung gemäß Nummer 3 (gegebenenfalls unter Berücksichtigung der bereits erbrachten Kilometerleistung), die Emissionen in Gramm je Kilometer (g/km) gemäß Nummer 2 und die jeweiligen Kosten je Gramm (€/g) miteinander multipliziert.
-
-d) Auftraggeber dürfen bei der Berechnung der Emissionskosten nach den Buchstaben b und c höhere Werte zugrunde legen als diejenigen, die in Tabelle 2 der Anlage 2 angegeben sind, sofern die Werte in Tabelle 2 der Anlage 2 um nicht mehr als das Doppelte überschritten werden.
-
-2. Die Werte für den Kraftstoffverbrauch je Kilometer sowie für Kohlendioxid-Emissionen und Schadstoffemissionen je Kilometer basieren auf den genormten gemeinschaftlichen Testverfahren der Gemeinschaftsvorschriften über die Typgenehmigung. Für Straßenfahrzeuge, für die keine genormten gemeinschaftlichen Testverfahren bestehen, werden zur Gewährleistung der Vergleichbarkeit verschiedener Angebote allgemein anerkannte Testverfahren, die Ergebnisse von Prüfungen, die für den Auftraggeber durchgeführt wurden, oder die Angaben des Herstellers herangezogen.
-
-3. Die Gesamtkilometerleistung eines Fahrzeugs ist der Tabelle 3 der Anlage 2 zu entnehmen.
-
-(+++ Anlage 3: Zur Anwendung vgl. § 59 Abs. 2 +++)

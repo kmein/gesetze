@@ -137,6 +137,8 @@ c) „IXD“ für Ersatz-Personalausweis der Bundesrepublik Deutschland,
 
 7. letzter Tag der Gültigkeitsdauer,
 
+7a. Versionsnummer des Ausweismusters,
+
 8. Prüfziffern und
 
 9. Leerstellen.
@@ -157,7 +159,7 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (8) Die Seriennummer, die Prüfziffern, das Sperrkennwort und Sperrmerkmale dürfen keine Daten über die Person des Ausweisinhabers oder Hinweise auf solche Daten enthalten.
 
-(9) Fingerabdrücke werden nur auf Antrag der antragstellenden Person gespeichert. Die Fingerabdrücke der antragstellenden Person werden in Form des flachen Abdrucks des linken und rechten Zeigefingers im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
+(9) Die auf Grund der Verordnung (EU) 2019/1157 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Erhöhung der Sicherheit der Personalausweise von Unionsbürgern und der Aufenthaltsdokumente, die Unionsbürgern und deren Familienangehörigen ausgestellt werden, die ihr Recht auf Freizügigkeit ausüben (ABl. L 188 vom 12.7.2019, S. 67), auf dem elektronischen Speichermedium zu speichernden zwei Fingerabdrücke der antragstellenden Person werden in Form des flachen Abdrucks des linken und rechten Zeigefingers im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
 
 (10) Die im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten ermöglichen auch die Funktion des elektronischen Identitätsnachweises nach § 18.
 
@@ -233,7 +235,7 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (2) Für Minderjährige, die noch nicht 16 Jahre alt sind, und für Personen, die geschäftsunfähig sind und sich nicht nach Absatz 1 Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur diejenige Person den Antrag stellen, die sorgeberechtigt ist oder als Betreuer ihren Aufenthalt bestimmen darf. Sie ist verpflichtet, für Jugendliche, die 16, aber noch nicht 18 Jahre alt sind, innerhalb von sechs Wochen, nachdem der Jugendliche 16 Jahre alt geworden ist, den Antrag auf Ausstellung eines Ausweises zu stellen, falls dies der Jugendliche unterlässt. Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
 
-(3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Antragstellers und seiner Eigenschaft als Deutscher notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und Künstlernamen sind freiwillig. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen. Sie hat bei Beantragung zu erklären, ob ihre Fingerabdrücke im Speicher- und Verarbeitungsmedium des Personalausweises gespeichert werden sollen. Entscheidet sich die antragstellende Person gegen die Aufnahme der Fingerabdrücke, so dürfen ihr daraus keine rechtlichen oder tatsächlichen Nachteile entstehen mit der Ausnahme, dass Verfahren zur Identitätsprüfung mit Fingerabdruckvergleich nicht genutzt werden können. Die antragstellende Person ist hierüber und über die Freiwilligkeit der Aufnahme der Fingerabdrücke zu informieren. Soweit in den Personalausweis Fingerabdrücke aufzunehmen sind, sind diese der antragstellenden Person abzunehmen und nach Maßgabe von § 5 Abs. 9 elektronisch zu erfassen. Fingerabdrücke von Kindern sind nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.
+(3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Antragstellers und seiner Eigenschaft als Deutscher notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und Künstlernamen sind freiwillig. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen. Fingerabdrücke von Kindern sind nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.
 
 (4) Bestehen Zweifel über die Person des Antragstellers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Personalausweisbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität der antragstellenden Person auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Die Vernichtung ist zu protokollieren.
 

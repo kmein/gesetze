@@ -41,7 +41,11 @@ h) der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates 
 
 i) der Verordnung (EU) 2015/2365 des Europäischen Parlaments und des Rates vom 25. November 2015 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015, S. 1), in der jeweils geltenden Fassung,
 
-j) der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1), in der jeweils geltenden Fassung.
+j) der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1), in der jeweils geltenden Fassung,
+
+k) der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
+
+l) der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben.
 
 (2) Soweit nicht abweichend geregelt, sind die Vorschriften des Abschnitts 11 sowie die §§ 54 bis 57 auch anzuwenden auf Handlungen und Unterlassungen, die im Ausland vorgenommen werden, sofern sie
 
@@ -561,7 +565,7 @@ für jeweils höchstens zehn aufeinander folgende Arbeitstage aussetzen oder geg
 
 (2d) Die Bundesanstalt kann den Vertrieb oder Verkauf von Finanzinstrumenten oder strukturierten Einlagen aussetzen, wenn ein Wertpapierdienstleistungsunternehmen kein wirksames Produktfreigabeverfahren nach § 80 Absatz 9 entwickelt hat oder anwendet oder in anderer Weise gegen § 80 Absatz 1 Satz 2 Nummer 2 oder Absatz 9 bis 11 verstoßen hat.
 
-(3) Die Bundesanstalt kann, um zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011 eingehalten werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 oder nach Artikel 42 der Verordnung (EU) Nr. 600/2014 vorliegen, von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen. Sie kann insbesondere folgende Angaben verlangen:
+(3) Die Bundesanstalt kann, um zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852 eingehalten werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 oder nach Artikel 42 der Verordnung (EU) Nr. 600/2014 vorliegen, von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen. Sie kann insbesondere folgende Angaben verlangen:
 
 1. über Veränderungen im Bestand in Finanzinstrumenten,
 
@@ -647,7 +651,7 @@ die sich im Besitz dieser Unternehmen befinden, verlangen, soweit dies auf Grund
 
 (2) Die Bundesanstalt kann für jedermann die Möglichkeit einschränken, eine Position in Warenderivaten einzugehen, soweit dies zur Durchsetzung der Verbote und Gebote der in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften erforderlich ist.
 
-# § 10 – Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014 und der Verordnung (EU) 2016/1011
+# § 10 – Besondere Befugnisse nach der Verordnung(EU) 1286/2014, der Verordnung(EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) Nr. 1286/2014 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission. Gegenüber einem Wertpapierdienstleistungsunternehmen, das über ein PRIIP berät, es verkauft oder Hersteller von PRIIP ist, kann sie Anordnungen treffen, die zur Durchsetzung der in Satz 1 genannten Verbote und Gebote geeignet und erforderlich sind. Insbesondere kann sie
 
@@ -676,6 +680,8 @@ b) bezüglich eines beaufsichtigten Unternehmens im Sinne des Artikels 3 Absatz 
 c) die Zulassung oder Registrierung eines Administrators entziehen oder aussetzen,
 
 d) einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben bei einem Administrator oder beaufsichtigten Kontributor untersagen, wenn die Person den Verstoß vorsätzlich oder grob fahrlässig begangen hat und dieses Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt.
+
+(3) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards der Europäischen Kommission. Gegenüber einem Wertpapierdienstleistungsunternehmen, das Anlageberatung oder Finanzportfolioverwaltung erbringt, kann sie die hierfür erforderlichen Maßnahmen treffen.
 
 # § 11 – Anzeige straftatbegründender Tatsachen
 
@@ -1595,7 +1601,7 @@ f) andere nicht komplexe Finanzinstrumente für Zwecke dieses Absatzes, die die 
 
 3. ob das Wertpapierdienstleistungsunternehmen dem Kunden regelmäßig eine Beurteilung der Geeignetheit der empfohlenen Finanzinstrumente zur Verfügung stellt.
 
-§ 63 Absatz 7 Satz 2 und bei Vorliegen der dort genannten Voraussetzungen die Ausnahme nach § 63 Absatz 8 gelten entsprechend.
+Satz 1 gilt entsprechend für Informationen nach Artikel 6 Absatz 2 der Verordnung (EU) 2019/2088. § 63 Absatz 7 Satz 2 und bei Vorliegen der dort genannten Voraussetzungen die Ausnahme nach § 63 Absatz 8 gelten entsprechend.
 
 (2) Im Falle einer Anlageberatung hat das Wertpapierdienstleistungsunternehmen einem Privatkunden rechtzeitig vor dem Abschluss eines Geschäfts über Finanzinstrumente, für die kein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 erstellt werden muss,
 
@@ -1669,7 +1675,9 @@ Ein Wertpapierdienstleistungsunternehmen darf einen auf seiner Unabhängigen Hon
 
 wenn diese Zuwendungen dem Kunden unmissverständlich offengelegt werden, bevor die betreffende Wertpapierdienstleistung oder Wertpapiernebendienstleistung für die Kunden erbracht wird. Die Offenlegung kann in Form einer generischen Beschreibung erfolgen. Monetäre Zuwendungen, die im Zusammenhang mit der Finanzportfolioverwaltung angenommen werden, sind so schnell wie nach vernünftigem Ermessen möglich nach Erhalt und in vollem Umfang an den Kunden auszukehren. Vorschriften über die Entrichtung von Steuern und Abgaben bleiben davon unberührt. Das Wertpapierdienstleistungsunternehmen muss den Kunden über die ausgekehrten monetären Zuwendungen unterrichten.
 
-(8) Erbringt ein Wertpapierdienstleistungsunternehmen Finanzportfolioverwaltung oder hat es den Kunden nach Absatz 1 Satz 1 Nummer 3 darüber informiert, dass es die Geeignetheit der empfohlenen Finanzinstrumente regelmäßig beurteilt, so müssen die regelmäßigen Berichte gegenüber Privatkunden nach § 63 Absatz 12 insbesondere eine Erklärung darüber enthalten, wie die Anlage den Präferenzen, den Anlagezielen und den sonstigen Merkmalen des Kunden entspricht.
+(7a) Erbringt ein Wertpapierdienstleistungsunternehmen Finanzportfolioverwaltung, muss es den Kunden zusätzlich zu den Informationen nach § 63 Absatz 7 rechtzeitig und in verständlicher Form Informationen nach Artikel 6 Absatz 1 und den Artikeln 7 bis 9 der Verordnung (EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 zur Verfügung stellen. § 63 Absatz 7 Satz 2 und Absatz 8 gilt entsprechend.
+
+(8) Erbringt ein Wertpapierdienstleistungsunternehmen Finanzportfolioverwaltung oder hat es den Kunden nach Absatz 1 Satz 1 Nummer 3 darüber informiert, dass es die Geeignetheit der empfohlenen Finanzinstrumente regelmäßig beurteilt, so müssen die regelmäßigen Berichte gegenüber Privatkunden nach § 63 Absatz 12 insbesondere eine Erklärung darüber enthalten, wie die Anlage den Präferenzen, den Anlagezielen und den sonstigen Merkmalen des Kunden entspricht. Erbringt ein Wertpapierdienstleistungsunternehmen Finanzportfolioverwaltung, müssen die regelmäßigen Berichte nach § 63 Absatz 12 auch die Erläuterungen und Informationen nach Artikel 11 Absatz 1 der Verordnung (EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 enthalten.
 
 (9) Nähere Bestimmungen zu den Absätzen 1, 3, 5 und 8 ergeben sich aus der Delegierten Verordnung (EU) 2017/565, insbesondere zu
 
@@ -2359,7 +2367,11 @@ c) der Delegierten Verordnung (EU) 2017/565,
 
 d) der Delegierten Verordnung (EU) 2017/567,
 
-e) § 29 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009
+e) § 29 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009,
+
+f) den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088,
+
+g) den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
 
 in der jeweils geltenden Fassung, auch ohne besonderen Anlass Prüfungen vornehmen bei den Wertpapierdienstleistungsunternehmen, den mit diesen verbundenen Unternehmen, den Zweigniederlassungen im Sinne des § 53b des Kreditwesengesetzes, den Unternehmen, mit denen eine Auslagerungsvereinbarung im Sinne des § 25b des Kreditwesengesetzes besteht oder bestand, und sonstigen zur Durchführung eingeschalteten dritten Personen oder Unternehmen.
 
@@ -2397,9 +2409,13 @@ c) der Delegierten Verordnung (EU) 2017/565,
 
 d) der Delegierten Verordnung (EU) 2017/567,
 
-e) § 29 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009
+e) § 29 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009,
 
-in der jeweils geltenden Fassung. Bei Kreditinstituten, die das Depotgeschäft im Sinne von § 1 Absatz 1 Satz 2 Nummer 5 des Kreditwesengesetzes betreiben, bei Wertpapierinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 2 Absatz 4 Nummer 1 des Wertpapierinstitutsgesetzes betreiben, und bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 des Kreditwesengesetzes erbringen, hat der Prüfer auch diese Geschäfte besonders zu prüfen; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung, mit Ausnahme der Prüfung der Einhaltung der Anforderungen nach § 84, auch in Verbindung mit einer Rechtsverordnung nach § 84 Abs. 5, ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte angezeigt ist. Das Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils spätestens zum Ablauf des Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
+f) den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088,
+
+g) den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
+
+in der jeweils geltenden Fassung. Bei Kreditinstituten, die das Depotgeschäft im Sinne von § 1 Absatz 1 Satz 2 Nummer 5 des Kreditwesengesetzes betreiben, bei Wertpapierinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 2 Absatz 4 Nummer 1 des Wertpapierinstitutsgesetzes betreiben, und bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 des Kreditwesengesetzes erbringen, hat der Prüfer auch diese Geschäfte besonders zu prüfen; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung, mit Ausnahme der Prüfung der Einhaltung der Anforderungen nach § 84, auch in Verbindung mit einer Rechtsverordnung nach § 84 Absatz 10, ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte angezeigt ist. Das Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils spätestens zum Ablauf des Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
 
 (2) Der Prüfer oder die Prüfungsverbände oder Prüfungsstellen, soweit Prüfungen nach Absatz 1 Satz 5 von genossenschaftlichen Prüfungsverbänden oder Prüfungsstellen von Sparkassen- und Giroverbänden durchgeführt werden, haben über die Prüfung nach Absatz 1 einen Prüfungsbericht zu erstellen und auf Anforderung der Bundesanstalt oder der Deutschen Bundesbank der Bundesanstalt und der Deutschen Bundesbank einzureichen. Die wesentlichen Prüfungsergebnisse sind in einem Fragebogen zusammenzufassen, der dem Prüfungsbericht beizufügen ist. Der Fragebogen ist auch dann bei der Bundesanstalt und der zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen, wenn ein Prüfungsbericht nach Satz 1 nicht angefordert wird. Der Prüfer hat den Fragebogen unverzüglich nach Beendigung der Prüfung einzureichen.
 
