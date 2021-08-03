@@ -2002,7 +2002,7 @@ Soweit sich aus diesem Gesetz nichts anderes ergibt, hat die Entschädigung zu l
 
 Ein Ausgleich nach § 52 Absatz 5 und § 78a Absatz 5 Satz 4 ist in Geld zu leisten. Im Übrigen gelten für einen Ausgleich nach Satz 1 § 96 Absatz 1 und 5 und § 97 entsprechend.
 
-§ 99 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster")[§ 104 Wassergesetz des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 99 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 104 Wassergesetz des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
 § 99 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 104 Landeswassergesetz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
 # § 99a – Vorkaufsrecht

@@ -1,4 +1,4 @@
-% Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht*  (BaFin-Verstoßmeldeverordnung - BaFinVerstMeldV)
+% Verordnung zum Umgang mit Hinweisgebern und zur Bearbeitung ihrer Hinweise durch die Bundesanstalt für Finanzdienstleistungsaufsicht*  (BaFin-Hinweisgeberverordnung - BaFinHwgebV)
 % Ausfertigungsdatum: 02.07.2016
  
 # Eingangsformel
@@ -65,7 +65,7 @@ b) Informationen über die Art und Weise, in der die Bundesanstalt eine meldende
 
 c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Ergebnis einer Verstoßmeldung an die meldende Person,
 
-3. Informationen über die für Verstoßmeldungen geltenden Vertraulichkeitsbestimmungen nach § 4d Absatz 3 bis 5 des Finanzdienstleistungsaufsichtsgesetzes, einschließlich einer detaillierten Beschreibung der Umstände, unter denen die vertraulichen Daten einer meldenden Person nach den Artikeln 27 bis 29 der Verordnung (EU) Nr. 596/2014 offengelegt werden könnten,
+3. Informationen über die für Verstoßmeldungen geltenden Vertraulichkeitsbestimmungen nach § 4d Absatz 3 bis 5 des Finanzdienstleistungsaufsichtsgesetzes, einschließlich einer detaillierten Beschreibung der Umstände, unter denen die vertraulichen Daten einer meldenden Person nach den Artikeln 27 bis 29 der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.06.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung (EU) 2019/2115 (ABl. L 320 vom 11.12.2019, S. 1) geändert worden ist, offengelegt werden könnten,
 
 4. Informationen über die Verfahren zum Schutz von Arbeitnehmern einschließlich Hinweisen zu Beratungsmöglichkeiten für meldende Personen zu dem verfügbaren Rechtsschutz vor Benachteiligung und
 
@@ -82,6 +82,12 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 1. sich die meldende Person ausdrücklich gegen eine Bestätigung ausgesprochen hat oder
 
 2. die Bundesanstalt Grund zu der Annahme hat, dass die Bestätigung den Schutz der Identität der meldenden Person beeinträchtigen würde.
+
+(3) Die Bundesanstalt gibt der meldenden Person innerhalb einer angemessenen Zeit eine Rückmeldung zum Bearbeitungsstand. Diese erfolgt spätestens nach drei Monaten. In Fällen, in denen die Bearbeitung besonders umfangreich ist, beträgt diese Frist sechs Monate. Die Gründe für die Verlängerung der Frist sind der meldenden Person mitzuteilen.
+
+(4) Die Bundesanstalt teilt der meldenden Person das Ergebnis der durch die Verstoßmeldung im Rahmen ihrer Zuständigkeit erfolgten Untersuchungen nach deren Abschluss mit.
+
+(5) Die Rückmeldung nach Absatz 3 und die Mitteilung nach Absatz 4 dürfen nur solche Angaben enthalten, die mit gesetzlichen Verschwiegenheits- oder Geheimhaltungspflichten, dem Schutz von Betriebs- und Geschäftsgeheimnissen sowie dem allgemeinen Persönlichkeitsrecht der durch die Meldung betroffenen Personen vereinbar sind.
 
 # § 5 – Dokumentation von Verstoßmeldungen
 
@@ -117,11 +123,23 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 (1) Die Bundesanstalt richtet angemessene Verfahren für die Übermittlung personenbezogener Daten der meldenden Person und der Person, die Gegenstand einer Meldung ist, ein.
 
-(2) Werden im Zusammenhang mit einer Verstoßmeldung innerhalb oder außerhalb der Bundesanstalt Daten weitergegeben, darf die Identität der meldenden Person oder der Person, die Gegenstand einer Verstoßmeldung ist, weder direkt noch indirekt offengelegt werden, es sei denn, eine derartige Offenlegung erfolgt nach § 4d Absatz 3 bis 5 und § 11 des Finanzdienstleistungsaufsichtsgesetzes oder nach den Artikeln 27 bis 29 der Verordnung (EU) Nr. 596/2014.
+(2) Werden im Zusammenhang mit einer Verstoßmeldung außerhalb der Bundesanstalt Daten weitergegeben, darf die Identität der meldenden Person oder der Person, die Gegenstand der Verstoßmeldung ist, weder unmittelbar noch mittelbar offengelegt werden, es sei denn, eine derartige Offenlegung erfolgt
+
+1. nach § 4d Absatz 3 Satz 3 oder § 53 Absatz 3 Satz 3 des Geldwäschegesetzes,
+
+2. nachdem die meldende Person in die Weitergabe der ihre Identität betreffender Daten eingewilligt hat oder
+
+3. nach den Artikeln 27 bis 29 der Verordnung (EU) Nr. 596/2014.
+
+Im Falle einer Weitergabe im Sinne des Satzes 1 Nummer 1 informiert die Bundesanstalt die meldende Person über die Weitergabe. Die Information der meldenden Person nach Satz 2 unterbleibt, wenn die Strafverfolgungsbehörde, die zuständige Behörde oder das Gericht der Bundesanstalt mitgeteilt haben, dass durch diese Information die entsprechenden Ermittlungen, Untersuchungen oder Gerichtsverfahren gefährdet würden. Der meldenden Person sind mit der Information zugleich die Gründe für die Weitergabe bekannt zu geben. Ist die Verstoßmeldung anonym erfolgt, steht dies einer Weitergabe der Verstoßmeldung nicht entgegen.
+
+(3) In Fällen, in denen die meldende Person beispielsweise aufgrund einer außergewöhnlichen Bedrohungslage besonders gefährdet ist, sollen die speziellen Beschäftigten im Sinne des § 1 geeignete Maßnahmen ergreifen, um die Identität der meldenden Person oder die Informationen, aus denen mittelbar oder unmittelbar die Identität abgeleitet werden kann, auch innerhalb der Bundesanstalt zu schützen.
 
 # § 8 – Zusammenarbeit mit anderen Behörden
 
-Die Bundesanstalt arbeitet im Rahmen von Verstoßmeldungen mit anderen Behörden zusammen, die daran beteiligt sind, Arbeitnehmer oder Personen, die Gegenstand einer Verstoßmeldung sind, vor Benachteiligung zu schützen. Dabei unterstützt die Bundesanstalt die meldende Person mit deren Zustimmung gegenüber der anderen Behörde insbesondere durch Bestätigung, dass die meldende Person gegenüber der Bundesanstalt als Informant aufgetreten ist.
+(1) Fällt der Hinweis der meldenden Person nicht in den Zuständigkeitsbereich der Bundesanstalt nach § 4d Absatz 1 des Finanzdienstleistungsaufsichtsgesetzes, so leitet die Bundesanstalt die Meldung innerhalb einer angemessenen Frist unter Wahrung der Vertraulichkeit der Identität der meldenden Person an die jeweilige für die weitere Bearbeitung des Verstoßes zuständige Stelle weiter. Die Wahrung der Vertraulichkeit der Identität der meldenden Person ist dann entbehrlich, wenn vor Weiterleitung die meldende Person in eine Offenlegung für den Fall der Weiterleitung an eine zuständige Behörde eingewilligt hat. Über die erfolgte Weiterleitung setzt die Bundesanstalt die meldende Person unverzüglich in Kenntnis. § 7 Absatz 2 Satz 3 gilt entsprechend. Ist die Meldung anonym erfolgt, steht dies einer Weitergabe der Meldung nicht entgegen.
+
+(2) Die Bundesanstalt arbeitet im Rahmen von Verstoßmeldungen mit anderen Behörden zusammen, die daran beteiligt sind, Arbeitnehmer oder Personen, die Gegenstand einer Verstoßmeldung sind, vor Benachteiligung zu schützen. Dabei unterstützt die Bundesanstalt die meldende Person mit deren Zustimmung gegenüber der anderen Behörde insbesondere durch Bestätigung, dass die meldende Person gegenüber der Bundesanstalt als Informant aufgetreten ist.
 
 # § 9 – Inkrafttreten
 
