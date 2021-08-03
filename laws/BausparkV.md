@@ -185,7 +185,7 @@ Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgele
 
 # § 9 – Großbausparverträge
 
-(1) Großbausparverträge sind Bausparverträge, bei denen die Bausparsumme den Betrag von 350 000 Euro übersteigt. Alle innerhalb von zwölf Monaten abgeschlossenen Bausparverträge eines Bausparers gelten dabei als ein Vertrag.
+(1) Großbausparverträge sind Bausparverträge, bei denen die Bausparsumme den Betrag von 700 000 Euro übersteigt. Alle innerhalb von zwölf Monaten abgeschlossenen Bausparverträge eines Bausparers gelten dabei als ein Vertrag.
 
 (2) Der Anteil der nicht zugeteilten Großbausparverträge am gesamten nicht zugeteilten Bausparsummenbestand der Bausparverträge einer Bausparkasse darf nicht höher als 15 Prozent sein.
 
@@ -205,7 +205,7 @@ Der Anteil der Darlehen, die der Finanzierung von Bauvorhaben mit gewerblichem C
 
 # § 12 – Darlehen gegen Verpflichtungserklärung, Blankodarlehen
 
-(1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung nach § 7 Absatz 4 Nummer 2 des Gesetzes über Bausparkassen dürfen im Einzelfall nur bis zu einem Betrag von 30 000 Euro gewährt werden.
+(1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung nach § 7 Absatz 4 Nummer 2 des Gesetzes über Bausparkassen dürfen im Einzelfall nur bis zu einem Betrag von 50 000 Euro gewährt werden.
 
 (2) Der Anteil aller Darlehen nach Absatz 1 darf insgesamt 30 Prozent des Gesamtbestandes der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 

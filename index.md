@@ -438,7 +438,7 @@
 - [BÄOuaÄndG 2004](laws/BÄOuaÄndG_2004.md) Gesetz zur Änderung der Bundesärzteordnung und anderer Gesetze
 - [BAFG](laws/BAFG.md) Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung
 - [BAFinBefugV](laws/BAFinBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
-- [BaFinVerstMeldV](laws/BaFinVerstMeldV.md) Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht*
+- [BaFinHwgebV](laws/BaFinHwgebV.md) Verordnung zum Umgang mit Hinweisgebern und zur Bearbeitung ihrer Hinweise durch die Bundesanstalt für Finanzdienstleistungsaufsicht*
 - [BAFlSBAÜbnG](laws/BAFlSBAÜbnG.md) Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
 - [BAföG](laws/BAföG.md) Bundesgesetz über individuelle Förderung der Ausbildung
 - [BAföG-AuslandszuschlagsV](laws/BAföG-AuslandszuschlagsV.md) Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz bei einer Ausbildung im Ausland
@@ -1350,7 +1350,6 @@
 - [ContStifG](laws/ContStifG.md) Gesetz über die Conterganstiftung
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
-- [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
 - [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
 - [CoronaPflegeVVerlV](laws/CoronaPflegeVVerlV.md) Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
