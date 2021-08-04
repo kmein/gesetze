@@ -11,7 +11,7 @@
 
 # § 2 – Marktüberwachung
 
-(1) Auf die Marktüberwachung sind die §§ 24, 25, 26 Absatz 2 bis 5, die §§ 27, 28 und 30 des Produktsicherheitsgesetzes entsprechend anzuwenden.
+(1) Auf die Marktüberwachung sind die §§ 4, 6, 7, 8 Absatz 2, 3 und 4, die §§ 9, 18 des Marktüberwachungsgesetzes entsprechend anzuwenden.
 
 (2) Die Marktüberwachungsbehörden leiten Mitteilungen zum Zweck der Unterrichtung der Europäischen Kommission nach Artikel 40 Absatz 2, 4 und 6, Artikel 41 Absatz 2 sowie Artikel 42 Absatz 3 der Verordnung (EU) 2016/424 über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin der Europäischen Kommission und den übrigen Mitgliedstaaten zu. Diese Mitteilungen sind zugleich dem Bundesministerium für Verkehr und digitale Infrastruktur zuzuleiten.
 

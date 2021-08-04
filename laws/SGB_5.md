@@ -11693,12 +11693,6 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (6) (weggefallen)
 
-# § 401 – Beitragszuschüsse für Beschäftigte
-
-(1) Versicherungsverträge, die den Standardtarif nach § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand haben, werden auf Antrag der Versicherten auf Versicherungsverträge nach dem Basistarif gemäß § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
-
-(2) Zur Gewährleistung der in § 257 Abs. 2a Satz 1 Nr. 2 und 2a bis 2c in der bis zum 31. Dezember 2008 geltenden Fassung genannten Begrenzung bleiben im Hinblick auf die ab 1. Januar 2009 weiterhin im Standardtarif Versicherten alle Versicherungsunternehmen, die die nach § 257 Abs. 2 zuschussberechtigte Krankenversicherung betreiben, verpflichtet, an einem finanziellen Spitzenausgleich teilzunehmen, dessen Ausgestaltung zusammen mit den Einzelheiten des Standardtarifs zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht und dem Verband der privaten Krankenversicherung mit Wirkung für die beteiligten Unternehmen zu vereinbaren ist und der eine gleichmäßige Belastung dieser Unternehmen bewirkt. Für in Absatz 2a Satz 1 Nr. 2c in der bis 31. Dezember 2008 geltenden Fassung genannte Personen, bei denen eine Behinderung nach § 4 Abs. 1 des Gesetzes zur Eingliederung Schwerbehinderter in Arbeit, Beruf und Gesellschaft festgestellt worden ist, wird ein fiktiver Zuschlag von 100 vom Hundert auf die Bruttoprämie angerechnet, der in den Ausgleich nach Satz 1 einbezogen wird.
-
 # § 401 – Leistungen
 
 (1) und (2) (weggefallen)
@@ -11706,28 +11700,6 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 (3) Die erforderlichen Untersuchungen gemäß § 30 Abs. 2 Satz 2 und Abs. 7 gelten für den Zeitraum der Jahre 1989 bis 1991 als in Anspruch genommen.
 
 (4) bis (11) (weggefallen)
-
-# § 402 – Standardtarif für Personen ohne Versicherungsschutz
-
-(1) Personen, die weder
-
-1. in der gesetzlichen Krankenversicherung versichert oder versicherungspflichtig sind,
-
-2. über eine private Krankheitsvollversicherung verfügen,
-
-3. einen Anspruch auf freie Heilfürsorge haben, beihilfeberechtigt sind oder vergleichbare Ansprüche haben,
-
-4. Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz haben noch
-
-5. Leistungen nach dem Dritten, Vierten, Sechsten und Siebten Kapitel des Zwölften Buches beziehen,
-
-können bis zum 31. Dezember 2008 Versicherungsschutz im Standardtarif gemäß § 257 Abs. 2a verlangen; in den Fällen der Nummern 4 und 5 begründen Zeiten einer Unterbrechung des Leistungsbezugs von weniger als einem Monat keinen entsprechenden Anspruch. Der Antrag darf nicht abgelehnt werden. Die in § 257 Abs. 2a Nr. 2b genannten Voraussetzungen gelten für Personen nach Satz 1 nicht; Risikozuschläge dürfen für sie nicht verlangt werden. Abweichend von Satz 1 Nr. 3 können auch Personen mit Anspruch auf Beihilfe nach beamtenrechtlichen Grundsätzen, die bisher nicht über eine auf Ergänzung der Beihilfe beschränkte private Krankenversicherung verfügen und auch nicht freiwillig in der gesetzlichen Krankenversicherung versichert sind, eine die Beihilfe ergänzende Absicherung im Standardtarif gemäß § 257 Abs. 2a Nr. 2b verlangen.
-
-(2) Der Beitrag von im Standardtarif nach Absatz 1 versicherten Personen darf den durchschnittlichen Höchstbeitrag der gesetzlichen Krankenversicherung gemäß § 257 Abs. 2a Satz 1 Nr. 2 nicht überschreiten; die dort für Ehegatten oder Lebenspartner vorgesehene besondere Beitragsbegrenzung gilt für nach Absatz 1 versicherte Personen nicht. § 152 Absatz 4 des Versicherungsaufsichtsgesetzes, § 26 Absatz 1 Satz 1 und Absatz 2 Satz 1 Nummer 2 des Zweiten Buches sowie § 32 Absatz 5 des Zwölften Buches gelten für nach Absatz 1 im Standardtarif versicherte Personen entsprechend.
-
-(3) Eine Risikoprüfung ist nur zulässig, soweit sie für Zwecke des finanziellen Spitzenausgleichs nach § 257 Abs. 2b oder für spätere Tarifwechsel erforderlich ist. Abweichend von § 257 Abs. 2b sind im finanziellen Spitzenausgleich des Standardtarifs für Versicherte nach Absatz 1 die Begrenzungen gemäß Absatz 2 sowie die durch das Verbot von Risikozuschlägen gemäß Absatz 1 Satz 3 auftretenden Mehraufwendungen zu berücksichtigen.
-
-(4) Die gemäß Absatz 1 abgeschlossenen Versicherungsverträge im Standardtarif werden zum 1. Januar 2009 auf Verträge im Basistarif nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
 
 # § 402 – Beziehungen der Krankenkassen zu den Leistungserbringern
 

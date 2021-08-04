@@ -42,19 +42,19 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
   
   
 
-|       |                                                                             |
-|:------|:----------------------------------------------------------------------------|
-| § 14  | Lieferantenwechsel                                                          |
-| § 15  | Engpassmanagement                                                           |
-| § 16  | Allgemeine Zusammenarbeitspflichten                                         |
-| § 17  | Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen |
-| § 18  | Messung                                                                     |
-| § 18a | (weggefallen)                                                               |
-| § 18b | (weggefallen)                                                               |
-| § 19  | (weggefallen)                                                               |
-| § 20  | (weggefallen)                                                               |
-| § 21  | (weggefallen)                                                               |
-| § 22  | (weggefallen)                                                               |
+|       |                                     |
+|:------|:------------------------------------|
+| § 14  | Lieferantenwechsel                  |
+| § 15  | Engpassmanagement                   |
+| § 16  | Allgemeine Zusammenarbeitspflichten |
+| § 17  | (weggefallen)                       |
+| § 18  | Messung                             |
+| § 18a | (weggefallen)                       |
+| § 18b | (weggefallen)                       |
+| § 19  | (weggefallen)                       |
+| § 20  | (weggefallen)                       |
+| § 21  | (weggefallen)                       |
+| § 22  | (weggefallen)                       |
 
   
   
@@ -82,7 +82,7 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
 |      |                      |
 |:-----|:---------------------|
 | § 29 | Ordnungswidrigkeiten |
-| § 30 | Übergangsregelungen  |
+| § 30 | (weggefallen)        |
 | § 31 | Inkrafttreten        |
 
 # § 1 – Anwendungsbereich
@@ -155,9 +155,7 @@ der Netzpunkt, an dem der Energiefluss zähltechnisch erfasst wird.
 
 # § 3 – Grundlagen des Netzzugangs
 
-(1) Netznutzungsvertrag oder Lieferantenrahmenvertrag vermitteln den Zugang zum gesamten Elektrizitätsversorgungsnetz. Der Anspruch auf Netznutzung wird begrenzt durch die jeweiligen Kapazitäten der Elektrizitätsversorgungsnetze. Betreiber von Elektrizitätsversorgungsnetzen werden durch Netznutzungs- und Lieferantenrahmenverträge nicht gehindert, Änderungen an der Ausgestaltung ihrer Netze vorzunehmen. Die §§ 14 und 17 bleiben unberührt.
-
-(2) Die Netznutzung durch die Letztverbraucher und Lieferanten setzt voraus, dass der Bilanzkreis in ein nach § 26 vertraglich begründetes Bilanzkreissystem einbezogen ist.
+Der Anspruch auf Netznutzung wird begrenzt durch die jeweiligen Kapazitäten der Elektrizitätsversorgungsnetze. Betreiber von Elektrizitätsversorgungsnetzen werden durch Netznutzungs- und Lieferantenrahmenverträge nicht gehindert, Änderungen an der Ausgestaltung ihrer Netze vorzunehmen. Die §§ 14 und 17 bleiben unberührt.
 
 # § 3a – Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
 
@@ -307,41 +305,7 @@ Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vol
 
 (2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, untereinander die zur effizienten Organisation des Netzzugangs erforderlichen Verträge abzuschließen und die notwendigen Daten unverzüglich auszutauschen.
 
-# § 17 – Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen
-
-(1) Betreiber von Übertragungsnetzen sind verpflichtet, folgende netzrelevanten Daten unverzüglich und in geeigneter Weise, zumindest auf ihrer Internetseite, zu veröffentlichen und zwei Jahre verfügbar zu halten:
-
-1. die Summe aller Stromabgaben aus dem Übertragungsnetz über direkt angeschlossene Transformatoren und Leitungen an Elektrizitätsverteilernetze und Letztverbraucher (vertikale Netzlast) stundenscharf in Megawattstunden pro Stunde,
-
-2. die Jahreshöchstlast und den Lastverlauf als viertelstündige Leistungsmessung,
-
-3. die Netzverluste,
-
-4. den viertelstündigen Regelzonensaldo in Megawattstunden pro Viertelstunde sowie die tatsächlich abgerufene Minutenreserve,
-
-5. die grenzüberschreitenden Lastflüsse zusammengefasst je Kuppelstelle inklusive einer Vorschau auf die Kapazitätsvergabe,
-
-6. die marktrelevanten Ausfälle und Planungen für Revisionen der Übertragungsnetze,
-
-7. die Mengen und Preise der Verlustenergie und
-
-8. Daten zur vorgesehenen Einspeisung von Windenergie auf Grundlage der Prognosen, die auch die Betreiber von Übertragungsnetzen verwenden, und zur tatsächlichen Einspeisung anhand der Daten, die die Betreiber von Übertragungsnetzen untereinander verrechnen (in Megawattstunden pro Stunde).
-
-(2) Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, folgende netzrelevanten Daten unverzüglich in geeigneter Weise, zumindest im Internet, zu veröffentlichen:
-
-1. die Jahreshöchstlast und den Lastverlauf als viertelstündige Leistungsmessung,
-
-2. die Netzverluste,
-
-3. die Summenlast der nicht leistungsgemessenen Kunden und die Summenlast der Netzverluste,
-
-4. die Summenlast der Fahrplanprognosen für Lastprofilkunden und die Restlastkurve der Lastprofilkunden bei Anwendung des analytischen Verfahrens,
-
-5. die Höchstentnahmelast und der Bezug aus der vorgelagerten Netzebene,
-
-6. die Summe aller Einspeisungen pro Spannungsebene und im zeitlichen Verlauf und
-
-7. die Mengen und Preise der Verlustenergie.
+# § 17 – (weggefallen)
 
 # § 18 – Messung
 
@@ -549,11 +513,7 @@ f) zu Übergangsbestimmungen.
 
 (2) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16, 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.
 
-# § 30 – Übergangsregelungen
-
-(1) § 11 ist erst ab dem 1. Oktober 2005 anzuwenden.
-
-(2) § 6 Abs. 1 ist für Minutenreserve erst ab dem 1. Januar 2006 und für die Primär- und Sekundärregelenergie erst ab dem 1. Juli 2006 anzuwenden.
+# § 30 – (weggefallen)
 
 # § 31 – Inkrafttreten
 

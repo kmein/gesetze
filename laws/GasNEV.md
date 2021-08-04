@@ -189,7 +189,7 @@ Pflichten der Netzbetreiber
 
 § 27
 
-Veröffentlichungspflichten
+(weggefallen)
 
  
 
@@ -259,7 +259,7 @@ Inkrafttreten
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der Entgelte für den Zugang zu den Gasfernleitungs- und Gasverteilernetzen (Netzentgelte).
+Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der Entgelte für den Zugang zu den Gasversorgungsnetzen (Netzentgelte).
 
 # § 2 – Begriffsbestimmungen
 
@@ -557,6 +557,8 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 
 (3) Die Vorgehensweise nach den Absätzen 1 und 2 ist vom Netzbetreiber in für sachkundige Dritte nachvollziehbarer Weise zu dokumentieren; die Dokumentation ist der Regulierungsbehörde auf Verlangen vorzulegen.
 
+(4) Werden individuelle Netzentgelte nach den Absätzen 1 und 2 gebildet, sind diese in die Veröffentlichung der Netzentgelte aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
+
 # § 20a
 
 Transportkunden von Biogas erhalten vom Netzbetreiber, in dessen Netz sie unmittelbar Biogas einspeisen, ein pauschales Entgelt in Höhe von 0,007 Euro je Kilowattstunde eingespeisten Biogases für vermiedene Netzkosten für zehn Jahre ab Inbetriebnahme des jeweiligen Netzanschlusses für die Einspeisung von Biogas. Dies gilt unabhängig von der Netzebene, in die eingespeist wird. Die Höhe des pauschalierten Entgelts wird im Zuge des Monitorings nach § 35 Absatz 1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
@@ -589,21 +591,7 @@ werden bundesweit umgelegt.
 
 # §§ 22 bis 26 – (weggefallen)
 
-# § 27 – Veröffentlichungspflichten
-
-(1) Betreiber von Gasversorgungsnetzen sind verpflichtet, die für ihr Netz geltenden Netzentgelte auf ihren Internetseiten zu veröffentlichen und auf Anfrage jedermann unverzüglich in Textform mitzuteilen. Werden individuelle Netzentgelte nach § 20 gebildet, sind diese in die Veröffentlichung der Netzentgelte aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
-
-(2) Betreiber von Gasversorgungsnetzen haben ferner jeweils zum 1. April eines Jahres folgende Strukturmerkmale ihres Netzes auf ihrer Internetseite zu veröffentlichen:
-
-1. die Länge des Gasleitungsnetzes jeweils getrennt für die Niederdruck-, Mitteldruck- und Hochdruckebene zum 31. Dezember des Vorjahres,
-
-2. die Länge des Gasleitungsnetzes in der Hochdruckebene nach Leitungsdurchmesserklassen,
-
-3. die im Vorjahr durch Weiterverteiler und Letztverbraucher entnommene Jahresarbeit in Kilowattstunden oder in Kubikmetern,
-
-4. die Anzahl der Ausspeisepunkte jeweils für alle Druckstufen und
-
-5. die zeitgleiche Jahreshöchstlast aller Entnahmen in Megawatt oder Kubikmetern pro Stunde und den Zeitpunkt des jeweiligen Auftretens.
+# § 27 – (weggefallen)
 
 # § 28 – Dokumentation
 
@@ -677,9 +665,9 @@ Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch Festlegung 
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 4 Abs. 4 Satz 4 oder 6, § 11 Satz 4 oder 7 oder § 16 Abs. 2 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise vornimmt,
+1. entgegen § 4 Abs. 4 Satz 4 oder 6, § 11 Satz 4 oder 7 oder § 16 Abs. 2 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise vornimmt oder
 
-2. entgegen § 27 Abs. 1 Satz 1 oder Abs. 2 dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht oder
+2. (weggefallen)
 
 3. entgegen § 28 Abs. 1 Satz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt.
 

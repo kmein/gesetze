@@ -23,7 +23,7 @@ Dieses Gesetz trifft Regelungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
-1. Anlagenbetreiber: der Betreiber von Erzeugungsanlagen nach dem Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das durch Artikel 2 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2498) geändert worden ist, oder dem Kraft-Wärme-Kopplungsgesetz vom 21. Dezember 2015 (BGBl. I S. 2498),
+1. Anlagenbetreiber: der Betreiber von Anlagen nach dem Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066) oder dem Kraft-Wärme-Kopplungsgesetz vom 21. Dezember 2015 (BGBl. I S. 2498) in der jeweils geltenden Fassung,
 
 2. Anschlussnehmer der Eigentümer oder Erbbauberechtigte eines Grundstücks oder Gebäudes, das an das Energieversorgungsnetz angeschlossen ist oder die natürliche oder juristische Person, in deren Auftrag ein Grundstück oder Gebäude an das Energieversorgungsnetz angeschlossen wird,
 
@@ -35,9 +35,9 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 6. Grundzuständigkeit für den Messstellenbetrieb für moderne Messeinrichtungen und intelligente Messsysteme: die Verpflichtung zur Wahrnehmung des Messstellenbetriebs mit modernen Messeinrichtungen und intelligenten Messsystemen im jeweiligen Netzgebiet für diejenigen Messstellen, die nach Maßgabe der §§ 29 bis 32 mit modernen Messeinrichtungen und intelligenten Messsystemen auszustatten sind und für die kein Dritter nach den §§ 5 und 6 den Messstellenbetrieb durchführt,
 
-7. intelligentes Messsystem: eine über ein Smart-Meter-Gateway in ein Kommunikationsnetz eingebundene moderne Messeinrichtung zur Erfassung elektrischer Energie, das den tatsächlichen Energieverbrauch und die tatsächliche Nutzungszeit widerspiegelt und den besonderen Anforderungen nach den §§ 21 und 22 genügt, die zur Gewährleistung des Datenschutzes, der Datensicherheit und Interoperabilität in Schutzprofilen und Technischen Richtlinien festgelegt werden können,
+7. intelligentes Messsystem: eine über ein Smart-Meter-Gateway in ein Kommunikationsnetz eingebundene moderne Messeinrichtung zur Erfassung elektrischer Energie, das den tatsächlichen Energieverbrauch und die tatsächliche Nutzungszeit widerspiegelt und über den Smart-Meter-Gateway-Administrator im Zusammenwirken mit den informationstechnischen Systemen weiterer Berechtigter aus § 49 Absatz 2 den besonderen Anforderungen nach den §§ 21 und 22 genügt, die zur Gewährleistung des Datenschutzes, der Datensicherheit und Interoperabilität in Schutzprofilen und Technischen Richtlinien festgelegt werden können,
 
-8. Letztverbraucher: natürliche oder juristische Personen, die Energie für den eigenen Verbrauch oder für den Betrieb von Ladepunkten zur Versorgung von Elektrofahrzeugnutzern beziehen,
+8. Letztverbraucher: natürliche oder juristische Personen, die Energie für den eigenen Verbrauch oder für den Betrieb von Ladepunkten zur Versorgung von Elektromobilnutzern beziehen,
 
 9. Mehrwertdienst: eine energieversorgungsfremde Dienstleistung, die als Kommunikationsinfrastruktur das Smart-Meter-Gateway benutzt,
 
@@ -283,6 +283,14 @@ Im Falle des Wechsels des bisherigen Anschlussnutzers ist der Dritte, der den Me
 
 Solange die Voraussetzungen des Satzes 1 vorliegen, bestehen für die jeweilige Messstelle die Pflichten nach § 29 nicht.
 
+(6) Intelligente Messsysteme, die aufgrund einer Feststellung des Bundesamtes für Sicherheit in der Informationstechnik nach § 30 Satz 1 eingebaut worden sind oder eingebaut werden, dürfen, wenn sich die Feststellung nachträglich als rechtswidrig oder nichtig erweist oder aufgehoben wird, weitergenutzt oder neu eingebaut werden, soweit das Bundesamt für Sicherheit in der Informationstechnik unverzüglich feststellt,
+
+1. dass eine Nutzung der betroffenen intelligenten Messsysteme nicht mit unverhältnismäßigen Gefahren verbunden ist und
+
+2. die betroffenen intelligenten Messsysteme entweder über gültige Zertifikate nach § 24 Absatz 4 verfügen oder zu erwarten ist, dass für die betroffenen intelligenten Messsysteme gültige Zertifikate nach § 24 Absatz 4 innerhalb von zwölf Monaten vorliegen werden.
+
+Sollten nach zwölf Monaten ab Feststellung nach Satz 1 Nummer 1 und 2 nicht alle Zertifikate gültig vorliegen, muss der weitere Einbau solange unterbleiben, bis alle gültigen Zertifikate vorliegen und das Bundesamt für Sicherheit in der Informationstechnik im erforderlichen Umfang eine neue Feststellung nach § 30 Satz 1 getroffen hat. Die Feststellung nach Satz 1 Nummer 1 und 2 stellt das Bundesamt für Sicherheit in der Informationstechnik auf seinen Internetseiten bereit<span id="FnR.F817393_02"></span><a href="#F817393_02" class="FnR">1</a></sup> .
+
 # § 20 – Anbindbarkeit von Messeinrichtungen für Gas an das Smart-Meter-Gateway
 
 (1) Neue Messeinrichtungen für Gas dürfen nur verbaut werden, wenn sie sicher mit einem Smart-Meter-Gateway verbunden werden können. Die Anbindung an das Smart-Meter-Gateway hat zur Gewährleistung von Datenschutz, Datensicherheit und Interoperabilität dem in Schutzprofilen und Technischen Richtlinien in der Anlage zu § 22 niedergelegten Stand der Technik zu entsprechen.
@@ -291,7 +299,7 @@ Solange die Voraussetzungen des Satzes 1 vorliegen, bestehen für die jeweilige 
 
 # § 21 – Mindestanforderungen an intelligente Messsysteme
 
-(1) Ein intelligentes Messsystem muss
+(1) Ein intelligentes Messsystem muss nach dem Stand der Technik nach Maßgabe des § 22
 
 1. die zuverlässige Verarbeitung, insbesondere Erhebung, Übermittlung, Protokollierung, Speicherung und Löschung, von aus Messeinrichtungen stammenden Messwerten gewährleisten, um
 
@@ -313,7 +321,7 @@ c) historische Energieverbrauchswerte entsprechend den Zeiträumen der Abrechnun
 
 d) historische tages-, wochen-, monats- und jahresbezogene Energieverbrauchswerte sowie die Zählerstandsgänge für die letzten 24 Monate zur Verfügung stellen zu können und
 
-e) die Informationen aus § 53 Absatz 1 Nummer 1 zur Verfügung zu stellen,
+e) die Informationen aus § 53 zur Verfügung zu stellen,
 
 3. sichere Verbindungen in Kommunikationsnetzen durchsetzen, um
 
@@ -327,7 +335,7 @@ d) eine gesicherte Anbindung von Erzeugungsanlagen, Anzeigeeinheiten und weitere
 
 4. ein Smart-Meter-Gateway beinhalten, das
 
-a) offen für weitere Anwendungen und Dienste ist und dabei über die Möglichkeit zur Priorisierung von bestimmten Anwendungen verfügt, wobei nach Anforderung der Netzbetreiber ausgewählte energiewirtschaftliche und in der Zuständigkeit der Netzbetreiber liegende Messungen und Schaltungen stets und vorrangig ermöglicht werden müssen,
+a) offen für weitere Anwendungen und Dienste ist und dabei über die Möglichkeit zur Priorisierung von bestimmten Anwendungen verfügt, wobei nach Anforderung der Netzbetreiber ausgewählte energiewirtschaftliche und in der Zuständigkeit der Netzbetreiber liegende Messungen und Schaltungen stets, vorrangig und ausschließlich durch den Smart-Meter-Gateway-Administrator über das Smart-Meter-Gateway ermöglicht werden müssen,
 
 b) ausschließlich durch den Smart-Meter-Gateway-Administrator konfigurierbar ist und
 
@@ -339,9 +347,11 @@ c) Software-Aktualisierungen empfangen und verarbeiten kann,
 
 (2) Die in Absatz 1 Nummer 1 Buchstabe b, c und d sowie Nummer 6 genannten Mindestanforderungen müssen nicht von intelligenten Messsystemen erfüllt werden, die bei Anschlussnutzern eingebaut worden sind oder eingebaut werden, bei denen keine der Voraussetzungen für eine Einbaupflicht von intelligenten Messsystemen nach § 29 gegeben ist.
 
-(3) Die in Absatz 1 genannten Mindestanforderungen müssen mit Ausnahme von Nummer 5 nicht von Messsystemen erfüllt werden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können.
+(3) Die in Absatz 1 genannten Mindestanforderungen müssen mit Ausnahme von Nummer 5 nicht von Messsystemen erfüllt werden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können, dabei ist § 19 Absatz 6 zu beachten.
 
 (4) Befinden sich an einem Netzanschluss mehrere Zählpunkte, können die Anforderungen nach Absatz 1 auch mit nur einem Smart-Meter-Gateway realisiert werden.
+
+(+++ Hinweis: Aufgrund offensichtlicher Unrichtigkeit wurde die Änderungsanweisung gem. Art. 9a Nr. 2 Buchst. a DBuchst. bb in § 21 Abs. 1 Nr. 2 Buchst. e ausgeführt +++)
 
 # § 22 – Mindestanforderungen an das Smart-Meter-Gateway durch Schutzprofile und Technische Richtlinien
 
@@ -355,7 +365,7 @@ c) Software-Aktualisierungen empfangen und verarbeiten kann,
 
 4. die Interoperabilität der intelligenten Messsysteme und Teile davon.
 
-(2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird vermutet, wenn die in der Anlage aufgeführten Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung eingehalten werden. Die jeweils geltende Fassung wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik<span id="FnR.f794956_02"></span><a href="#f794956_02" class="FnR">2</a></sup> bekannt gemacht.
+(2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird vermutet, wenn die in der Anlage aufgeführten Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit oder deren Weiterentwicklungen Informationstechnik in der jeweils in der geltenden Fassung eingehalten werden. Die jeweils geltende Fassung wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik<span id="FnR.f794956_02"></span><a href="#f794956_02" class="FnR">2</a></sup> bekannt gemacht.
 
 (3) Schutzprofile haben eine gültige Beschreibung von Bedrohungsmodellen und technische Vorgaben zur Gewährleistung von Datenschutz, Datensicherheit und Manipulationsresistenz zu enthalten und dazu Anforderungen an die Funktionalitäten eines Smart-Meter-Gateway zu beschreiben, die insbesondere folgende Mindestanforderungen enthalten
 
@@ -383,7 +393,7 @@ c) Software-Aktualisierungen empfangen und verarbeiten kann,
 
 Die Technischen Richtlinien haben darüber hinaus die Betriebsprozesse vorzugeben, deren zuverlässige Durchführung vom Smart-Meter-Gateway-Administrator gewährleistet werden muss. Auch haben sie organisatorische Mindestanforderungen an den Smart-Meter-Gateway-Administrator sowie ein entsprechendes Zertifizierungsverfahren zu bestimmen.
 
-(5) Absatz 1 ist nicht für Messsysteme anzuwenden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können.
+(5) Absatz 1 ist nicht für Messsysteme anzuwenden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können, dabei ist § 19 Absatz 6 zu beachten.
 
 # § 23 – Sichere Anbindung an das Smart-Meter-Gateway
 
@@ -399,7 +409,7 @@ Die Technischen Richtlinien haben darüber hinaus die Betriebsprozesse vorzugebe
 
 (2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird vermutet, wenn die Schutzprofile und Technischen Richtlinien nach § 22 Absatz 2 in der jeweils geltenden Fassung eingehalten werden.
 
-(3) Absatz 1 ist nicht für Messsysteme anzuwenden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können.
+(3) Absatz 1 ist nicht für Messsysteme anzuwenden, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können, dabei ist § 19 Absatz 6 zu beachten.
 
 # § 24 – Zertifizierung des Smart-Meter-Gateway
 
@@ -409,13 +419,13 @@ Die Technischen Richtlinien haben darüber hinaus die Betriebsprozesse vorzugebe
 
 (3) Das Bundesamt für Sicherheit in der Informationstechnik hat die Möglichkeit, Zertifikate nach Absatz 1 zeitlich zu befristen, zu beschränken und mit Auflagen zu versehen. Zertifikate ohne technologisch begründete zeitliche Befristung unterliegen einer kontinuierlichen Überwachung der Gültigkeit durch die ausstellende Stelle. Weitergehende Befugnisse nach Absatz 2 bleiben unberührt.
 
-(4) Ohne ein gültiges und gegenüber dem Smart-Meter-Gateway-Administrator nachgewiesenes Zertifikat nach Absatz 1 darf ein Smart-Meter-Gateway nicht als Bestandteil eines intelligenten Messsystems verwendet werden. Dies ist nicht anzuwenden für Messsysteme, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können.
+(4) Ohne ein oder mehrere gültige und gegenüber dem Smart-Meter-Gateway-Administrator nachgewiesene Zertifikate nach Absatz 1 darf ein Smart-Meter-Gateway nicht als Bestandteil eines intelligenten Messsystems verwendet werden. Dies ist nicht anzuwenden für Messsysteme, die nach Maßgabe von § 19 Absatz 5 Satz 1 eingebaut werden können, dabei ist § 19 Absatz 6 zu beachten.
 
 (+++ § 24 Abs. 2 u. 3: Zur Anwendung vgl. § 25 Abs. 5 +++)
 
 # § 25 – Smart-Meter-Gateway-Administrator; Zertifizierung
 
-(1) Der Smart-Meter-Gateway-Administrator muss einen zuverlässigen technischen Betrieb des intelligenten Messsystems gewährleisten und organisatorisch sicherstellen und ist zu diesem Zweck für die Installation, Inbetriebnahme, Konfiguration, Administration, Überwachung und Wartung des Smart-Meter-Gateways und der informationstechnischen Anbindung von Messgeräten und von anderen an das Smart-Meter-Gateway angebundenen technischen Einrichtungen verantwortlich. Soweit es technisch möglich und wirtschaftlich zumutbar ist, ermöglicht der Smart-Meter-Gateway-Administrator auch die Durchführung von weiteren Anwendungen und Diensten im Sinne von § 21 Absatz 1 Nummer 4 Buchstabe a. Der Smart-Meter-Gateway-Administrator darf ausschließlich Smart-Meter-Gateways mit gültigem Zertifikat nach § 24 Absatz 1 verwenden. Er hat Sicherheitsmängel und Änderungen von Tatsachen, die für die Erteilung des Zertifikats nach § 24 Absatz 1 wesentlich sind, dem Bundesamt für Sicherheit in der Informationstechnik unverzüglich mitzuteilen.
+(1) Der Smart-Meter-Gateway-Administrator muss einen zuverlässigen technischen Betrieb des intelligenten Messsystems gewährleisten und organisatorisch sicherstellen und ist zu diesem Zweck für die Installation, Inbetriebnahme, Konfiguration, Administration, Überwachung und Wartung des Smart-Meter-Gateways und der informationstechnischen Anbindung von Messgeräten und von anderen an das Smart-Meter-Gateway angebundenen technischen Einrichtungen verantwortlich. Soweit es technisch möglich und wirtschaftlich zumutbar ist, ermöglicht der Smart-Meter-Gateway-Administrator auch die Durchführung von weiteren Anwendungen und Diensten im Sinne von § 21 Absatz 1 Nummer 4 Buchstabe a. Der Smart-Meter-Gateway-Administrator darf ausschließlich Smart-Meter-Gateways mit gültigen Zertifikaten nach § 24 Absatz 1 verwenden. Er hat Sicherheitsmängel und Änderungen von Tatsachen, die für die Erteilung des Zertifikats nach § 24 Absatz 1 wesentlich sind, dem Bundesamt für Sicherheit in der Informationstechnik unverzüglich mitzuteilen.
 
 (2) Für den Betrieb eines intelligenten Messsystems muss die Stromentnahme im ungemessenen Bereich erfolgen und es muss eine zuverlässige und leistungsfähige Fernkommunikationstechnik verwendet werden, die Folgendes gewährleistet:
 
@@ -509,7 +519,7 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist Inhaber der Wurzelz
 
 # § 30 – Technische Möglichkeit des Einbaus von intelligenten Messsystemen
 
-Die Ausstattung von Messstellen mit einem intelligenten Messsystem nach § 29 ist technisch möglich, wenn mindestens drei voneinander unabhängige Unternehmen intelligente Messsysteme am Markt anbieten, die den am Einsatzbereich des Smart-Meter-Gateways orientierten Vorgaben des § 24 Absatz 1 genügen und das Bundesamt für Sicherheit in der Informationstechnik dies feststellt. Die Feststellung nach Satz 1 sowie erforderliche Marktanalysen stellt das Bundesamt für Sicherheit in der Informationstechnik auf seinen Internetseiten <span id="FnR.f794956_04"></span><a href="#f794956_04" class="FnR">4</a></sup> bereit.
+Die Ausstattung von Messstellen mit einem intelligenten Messsystem nach § 29 ist technisch möglich, wenn mindestens drei voneinander unabhängige Unternehmen intelligente Messsysteme am Markt anbieten, die den am Einsatzbereich des Smart-Meter-Gateways orientierten Vorgaben des § 24 Absatz 1 genügen und das Bundesamt für Sicherheit in der Informationstechnik dies insgesamt oder zeitversetzt für die jeweils in § 31 Absatz 1 Nummer 1 bis 6, Absatz 2 Nummer 1 bis 4 und Absatz 3 Satz 1 Nummer 1 bis 4 und Satz 2 genannten Einbaufallgruppen oder Untergruppen davon feststellt. Die Feststellung nach Satz 1 sowie erforderliche Marktanalysen stellt das Bundesamt für Sicherheit in der Informationstechnik auf seinen Internetseiten <span id="FnR.f794956_04"></span><a href="#f794956_04" class="FnR">4</a></sup> bereit.
 
 # § 31 – Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen; Preisobergrenzen
 
@@ -563,7 +573,7 @@ Die Ausstattung einer Messstelle mit einer modernen Messeinrichtung nach § 29 A
 
 # § 33 – Netzdienlicher und marktorientierter Einsatz
 
-(1) Soweit es nach § 30 technisch möglich ist, können Netzbetreiber, Direktvermarktungsunternehmer und Anlagenbetreiber auf eigene Kosten gegen angemessenes Entgelt vom grundzuständigen Messstellenbetreiber für moderne Messeinrichtungen und intelligente Messsysteme Folgendes verlangen:
+(1) Soweit es nach § 30 technisch möglich ist, können Energieversorgungsunternehmen, Direktvermarktungsunternehmer, Letztverbraucher und Anlagenbetreiber auf eigene Kosten gegen angemessenes Entgelt vom grundzuständigen Messstellenbetreiber für moderne Messeinrichtungen und intelligente Messsysteme Folgendes verlangen:
 
 1. die Ausstattung von Messstellen mit modernen Messeinrichtungen und Smart-Meter-Gateways,
 
@@ -587,7 +597,7 @@ Eine Anpassung einzelner oder aller Preisobergrenzen aus den §§ 31 und 32 ist 
 
 (1) Zur Ausstattung der Messstellen nach den §§ 29 bis 32 gehört als Standardleistung die Durchführung des Messstellenbetriebs im nach § 3 erforderlichen Umfang. Bei der Ausstattung von Messstellen mit intelligenten Messsystemen umfasst die Durchführung insbesondere
 
-1. die in § 60 benannten Prozesse einschließlich der Plausibilisierung und Ersatzwertbildung im Smart-Meter-Gateway und die standardmäßig erforderliche Datenkommunikation sowie
+1. die in § 60 benannten Prozesse einschließlich und, soweit nach § 60 Absatz 2 in Verbindung mit § 75 Nummer 4 festgelegt, der Plausibilisierung und Ersatzwertbildung im Smart-Meter-Gateway und die standardmäßig erforderliche Datenkommunikation sowie
 
 2. bei Letztverbrauchern mit einem Jahresstromverbrauch von höchstens 10 000 Kilowattstunden, soweit es der variable Stromtarif im Sinne von § 40 Absatz 5 des Energiewirtschaftsgesetzes erfordert, maximal die tägliche Bereitstellung von Zählerstandsgängen des Vortages gegenüber dem Energielieferanten und dem Netzbetreiber sowie
 
@@ -619,7 +629,7 @@ Der grundzuständige Messstellenbetreiber ist in keinem Fall berechtigt, für di
 
 # § 36 – Ausstattungspflichten und freie Wahl des Messstellenbetreibers
 
-(1) Die Verpflichtungen des grundzuständigen Messstellenbetreibers aus den §§ 29, 31, 32 und 33 gelten nicht, wenn ein nach § 5 beauftragter Dritter die jeweiligen Ausstattungsvorgaben bereits erfüllt hat; § 19 Absatz 5 ist zu beachten. Andernfalls endet das laufende Vertragsverhältnis des Anschlussnutzers mit dem Dritten entschädigungslos und wird ab Einbau des intelligenten Messsystems durch den Messstellenvertrag des grundzuständigen Messstellenbetreibers mit dem Anschlussnutzer nach § 9 abgelöst.
+(1) Die Verpflichtungen des grundzuständigen Messstellenbetreibers aus den §§ 29, 31, 32 und 33 gelten nicht, wenn ein nach § 5 beauftragter Dritter die jeweiligen Ausstattungsvorgaben bereits erfüllt hat; § 19 Absatz 5 und 6 ist zu beachten. Andernfalls endet das laufende Vertragsverhältnis des Anschlussnutzers mit dem Dritten entschädigungslos und wird ab Einbau des intelligenten Messsystems durch den Messstellenvertrag des grundzuständigen Messstellenbetreibers mit dem Anschlussnutzer nach § 9 abgelöst.
 
 (2) An die in den §§ 31 und 32 genannten Preisobergrenzen ist der nach § 5 beauftragte Dritte nicht gebunden.
 
@@ -683,7 +693,7 @@ Anlagenbetreiber, Anschlussnutzer und Anschlussnehmer haben nach vorheriger schr
 
 1. wenn er den Verpflichtungen nach § 29 Absatz 1 in nur unzureichendem Maße gemäß Absatz 2 nachkommt,
 
-2. wenn er zur Gewährleistung eines zuverlässigen technischen Betriebs von intelligenten Messsystemen nicht oder nicht mehr über ein nach § 25 erforderliches Zertifikat verfügt oder
+2. wenn er zur Gewährleistung eines zuverlässigen technischen Betriebs von intelligenten Messsystemen nicht oder nicht mehr über die nach § 25 erforderlichen Zertifikate verfügt oder
 
 3. wenn er nicht oder nicht mehr über die nach § 4 erforderliche Genehmigung verfügt.
 
@@ -869,9 +879,9 @@ Unbeschadet des Artikels 15 in Verbindung mit Artikel 12 Absatz 5 der Verordnung
 
 1. bei Letztverbrauchern mit einem Jahresstromverbrauch von über 100 000 Kilowattstunden durch eine Zählerstandsgangmessung oder, soweit erforderlich, durch eine viertelstündige registrierende Lastgangmessung,
 
-2. sobald Letztverbraucher mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung,
+2. sobald Letztverbraucher mit einem Jahresstromverbrauch bis einschließlich 100 000 Kilowattstunden mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung oder, soweit vorhanden, durch eine viertelstündige registrierte Lastgangmessung,
 
-3. sobald unterbrechbare Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung,
+3. sobald steuerbare Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes mit einem intelligenten Messsystem ausgestattet sind, durch eine Zählerstandsgangmessung,
 
 4. im Übrigen bei Letztverbrauchern durch Erfassung der entnommenen elektrischen Arbeit entsprechend den Anforderungen des im Stromliefervertrag vereinbarten Tarifes.
 
@@ -891,7 +901,7 @@ Unbeschadet des Artikels 15 in Verbindung mit Artikel 12 Absatz 5 der Verordnung
 
 1. an Anlagen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz,
 
-2. an unterbrechbaren Verbrauchseinrichtungen in Niederspannung nach § 14a des Energiewirtschaftsgesetzes oder
+2. an steuerbaren Verbrauchseinrichtungen in Niederspannung nach § 14a des Energiewirtschaftsgesetzes oder
 
 3. an Zählpunkten mit einem Jahresstromverbrauch von über 20 000 Kilowattstunden.
 
@@ -929,7 +939,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 (1) Der Messstellenbetreiber ist verpflichtet, die nach den §§ 55 bis 59 erhobenen Daten aufzubereiten und im erforderlichen Umfang an die nach § 49 berechtigten Stellen zu den Zeitpunkten zu übermitteln, die diese zur Erfüllung ihrer Aufgaben aus § 50 in Verbindung mit den §§ 61 bis 73 vorgeben.
 
-(2) Bei Messstellen mit intelligenten Messsystemen soll die Aufbereitung der Messwerte, insbesondere die Plausibilisierung und die Ersatzwertbildung im Smart-Meter-Gateway und die Datenübermittlung über das Smart-Meter-Gateway direkt an die berechtigten Stellen erfolgen. Die Bundesnetzagentur kann in einer Festlegung nach § 75 bestimmen, dass bis zum 31. Dezember 2019, für den Bereich Gas auch dauerhaft, die Aufbereitung und Übermittlung nach Satz 1 nicht vom Smart-Meter-Gateway, sondern von berechtigten Stellen nach § 49 Absatz 2 vorgenommen werden.
+(2) Bei Messstellen mit intelligenten Messsystemen sollen die Aufbereitung der Messwerte, insbesondere die Plausibilisierung und die Ersatzwertbildung im Smart-Meter-Gateway, und die Datenübermittlung über das Smart-Meter-Gateway direkt an die berechtigten Stellen erfolgen, soweit das Bundesamt für Sicherheit in der Informationstechnik dies als technisch möglich bewertet und die Bundesnetzagentur auf Basis dieser Bewertung eine Festlegung nach § 75 Nummer 4 trifft. Bis zu einer Festlegung der Bundesnetzagentur nach Satz 1 können auf Basis von Festlegungen der Bundesnetzagentur nach § 75 Nummer 4 Datenübermittlung und Aufbereitung der Messwerte durch den Messstellenbetreiber ganz oder teilweise, für den Bereich Gas durch berechtigte Stellen nach § 49 Absatz 2 und dauerhaft, außerhalb des Smart-Meter-Gateways erfolgen.
 
 (3) Zur Erfüllung seiner energiewirtschaftlichen Verpflichtungen nach Absatz 1 übermittelt der Messstellenbetreiber unter Beachtung der Anforderungen nach Absatz 2 standardmäßig
 
@@ -997,7 +1007,7 @@ in 15-minütiger Auflösung, im Übrigen jährlich Jahresarbeitswerte.
 
 4. historische tages-, wochen-, monats- und jahresbezogene Energieverbrauchswerte sowie, soweit vorhanden, Zählerstandsgänge jeweils für die letzten 24 Monate sowie
 
-5. die Informationen aus § 53 Absatz 1 Nummer 1.
+5. die Informationen aus § 53.
 
 (2) Zur Einsichtnahme nach Absatz 1 sind die Informationen, soweit dies technisch möglich und wirtschaftlich vertretbar ist, standardmäßig innerhalb von 24 Stunden direkt vom Smart-Meter-Gateway an eine lokale Anzeigeeinheit zu übermitteln. Alternativ und mit Einwilligung des Anschlussnutzers können die Informationen, insbesondere wenn eine direkte Kommunikation nach Satz 1 technisch nicht möglich oder wirtschaftlich nicht vertretbar ist, über eine Anwendung in einem Online-Portal, das einen geschützten individuellen Zugang ermöglicht, innerhalb des gleichen Zeitraums zur Verfügung gestellt werden.
 
@@ -1015,7 +1025,7 @@ in 15-minütiger Auflösung, im Übrigen jährlich Jahresarbeitswerte.
 
 4. Informationen über etwaige Einstellungen eines Schaltprofils,
 
-5. die Informationen aus § 53 Absatz 1 Nummer 1.
+5. die Informationen aus § 53.
 
 (2) Zur Einsichtnahme nach Absatz 1 sind die Informationen, soweit dies technisch möglich und wirtschaftlich vertretbar ist, standardmäßig innerhalb von 24 Stunden direkt vom Smart-Meter-Gateway an eine lokale Anzeigeeinheit zu übermitteln. Alternativ können die Informationen, insbesondere wenn eine direkte Kommunikation nach Satz 1 technisch nicht möglich oder wirtschaftlich nicht vertretbar ist, über eine Anwendung in einem Online-Portal, das einen geschützten individuellen Zugang ermöglicht, innerhalb des gleichen Zeitraums zur Verfügung gestellt werden.
 
@@ -1085,7 +1095,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 6. Aggregation der Last- und Einspeisegänge von Einzelzählpunkten an Messstellen, die mit intelligenten Messsystemen ausgestattet sind, zu Bilanzkreissummenzeitreihen je Bilanzkreis und Bilanzierungsgebiet für die Einbeziehung in die Bilanzkreisabrechnung,
 
-7. Bilanzkoordination,
+7. Bilanzkoordination einschließlich der Überwachung der Bilanzkreistreue und der ordnungsgemäßen Bilanzkreisbewirtschaftung zeitnah nach dem Erfüllungszeitpunkt,
 
 8. Erstattung von finanziellen Förderungen und Erhebung von vermiedenen Netzentgelten nach § 57 des Erneuerbare-Energien-Gesetzes,
 
@@ -1185,9 +1195,9 @@ Zur bundesweiten Vereinheitlichung der Bedingungen für den Messstellenbetrieb u
 
 2. zu den notwendigen Anforderungen an die Einhaltung der Transparenzvorgaben aus § 54, insbesondere Festlegungen zu einheitlichen Formaten und Formblättern,
 
-3. zu Anwendungsregeln für die Kapitel 2 und 3 Abschnitt 1 und 2, insbesondere zur Ausgestaltung der Pflichten der an der Datenkommunikation Beteiligten,
+3. zu den näheren Anforderungen nach Kapitel 2 und 3 Abschnitt 1 und 2, insbesondere zur Ausgestaltung der Pflichten der an der Datenkommunikation Beteiligten,
 
-4. zur Plausibilisierung von Messwerten, zur Bildung von Ersatzwerten bei Messfehlern sowie zur sternförmigen Kommunikation im Sinne von § 60 Absatz 2 und diesbezüglichen Übergangsregelungen zur Markteinführung vor und nach dem 31. Dezember 2019 sowie zu Sonderregelungen für den Bereich Gas,
+4. zur Plausibilisierung von Messwerten, zur Bildung von Ersatzwerten bei Messfehlern sowie zur sternförmigen Kommunikation im Sinne von § 60 Absatz 2 und zu diesbezüglichen Übergangsregelungen zur Markteinführung sowie ab 2026 auf Basis der Bewertung des Bundesamts für Sicherheit in der Informationstechnik nach § 60 Absatz 2 zur Plausibilisierung und Ersatzwertbildung im Smart-Meter-Gateway und zur Datenübermittlung über das Smart-Meter-Gateway direkt an die berechtigten Stellen sowie zu Sonderregelungen für den Bereich Gas,
 
 5. zu Regeln für die Marktkommunikation mit intelligenten Messsystemen,
 
@@ -1209,7 +1219,9 @@ Zur bundesweiten Vereinheitlichung der Bedingungen für den Messstellenbetrieb u
 
 (3) Soweit ein berechtigtes Interesse besteht, kann die Bundesnetzagentur auch eine Zuwiderhandlung feststellen, nachdem diese beendet ist.
 
-(4) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz und den auf Grund dieses Gesetzes ergangenen Rechtsverordnungen sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme des Abschnitts 6 entsprechend anzuwenden.
+(4) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz und den auf Grund dieses Gesetzes ergangenen Rechtsverordnungen sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme des § 91 sowie des Abschnitts 6 entsprechend anzuwenden.
+
+(5) Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach diesem Gesetz werden durch die Bundesnetzagentur Gebühren und Auslagen erhoben. Für Entscheidungen, die durch öffentliche Bekanntmachung zugestellt werden, werden keine Gebühren erhoben. Abweichend von Satz 2 kann eine Gebühr erhoben werden, wenn die Entscheidung zu einem überwiegenden Anteil an einen bestimmten Adressatenkreis gerichtet ist und die Bundesnetzagentur diesem die Entscheidung oder einen Hinweis auf die öffentliche Bekanntmachung förmlich zustellt.
 
 # § 77 – Bericht der Bundesnetzagentur
 

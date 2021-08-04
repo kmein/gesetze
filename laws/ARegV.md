@@ -9,6 +9,8 @@
 
 (2) Diese Rechtsverordnung findet auf einen Netzbetreiber, für den noch keine kalenderjährliche Erlösobergrenze nach § 4 Absatz 1 bestimmt worden ist, für eine Übergangszeit bis zum Ende der laufenden Regulierungsperiode keine Anwendung. Die Rechtsverordnung bleibt bis zum Abschluss der darauf folgenden Regulierungsperiode unangewendet, wenn bei der nächsten Kostenprüfung nach § 6 Absatz 1 für diesen Netzbetreiber noch keine hinreichenden Daten für das Basisjahr vorliegen.
 
+(3) Auf selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen im Sinne des § 3 Nummer 20a des Energiewirtschaftsgesetzes ist diese Rechtsverordnung nicht anzuwenden.
+
 # § 2 – Beginn des Verfahrens
 
 Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen eingeleitet.
@@ -21,7 +23,7 @@ Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen eingeleit
 
 # § 4 – Erlösobergrenzen
 
-(1) Die Obergrenzen der zulässigen Gesamterlöse eines Netzbetreibers aus den Netzentgelten (Erlösobergrenze) werden nach Maßgabe der §§ 5 bis 16, 19, 22, 24 und 25 bestimmt.
+(1) Die Erlösobergrenzen werden nach Maßgabe der §§ 5 bis 16, 19, 22, 24 und 25 bestimmt.
 
 (2) Die Erlösobergrenze ist für jedes Kalenderjahr der gesamten Regulierungsperiode zu bestimmen. Eine Anpassung der Erlösobergrenze während der laufenden Regulierungsperiode erfolgt nach Maßgabe der Absätze 3 bis 5.
 
@@ -29,7 +31,7 @@ Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen eingeleit
 
 1. des Verbraucherpreisgesamtindexes nach § 8,
 
-2. von nicht beeinflussbaren Kostenanteilen nach § 11 Absatz 2 Satz 1 bis 3; abzustellen ist dabei auf die jeweils im vorletzten Kalenderjahr entstandenen Kosten; bei Kostenanteilen nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6a, 8, 13 und 15 bis 17 ist auf das Kalenderjahr abzustellen, auf das die Erlösobergrenze anzuwenden sein soll,
+2. von nicht beeinflussbaren Kostenanteilen nach § 11 Absatz 2 Satz 1 bis 3; abzustellen ist dabei auf die jeweils im vorletzten Kalenderjahr entstandenen Kosten; bei Kostenanteilen nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6a, 8, 13 und 15 bis 18 ist auf das Kalenderjahr abzustellen, auf das die Erlösobergrenze anzuwenden sein soll,
 
 3. von volatilen Kostenanteilen nach § 11 Absatz 5; abzustellen ist dabei auf das Kalenderjahr, auf das die Erlösobergrenze Anwendung finden soll.
 
@@ -49,7 +51,7 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni de
 
 # § 5 – Regulierungskonto
 
-(1) Die Differenz zwischen den nach § 4 zulässigen Erlösen und den vom Netzbetreiber unter Berücksichtigung der tatsächlichen Mengenentwicklung erzielbaren Erlösen wird jährlich vom Netzbetreiber ermittelt und auf einem Regulierungskonto verbucht. Gleiches gilt für die Differenz zwischen den für das Kalenderjahr tatsächlich entstandenen Kosten nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6, 8, 13 und 15 bis 17 sowie den im jeweiligen Kalenderjahr entstandenen Kosten nach § 11 Absatz 5, soweit dies in einer Festlegung nach § 32 Absatz 1 Nummer 4a vorgesehen ist, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen. Einbezogen in das Regulierungskonto wird darüber hinaus die Differenz zwischen den für das Kalenderjahr bei effizienter Leistungserbringung entstehenden Kosten des Messstellenbetriebs, zu dem auch die Messung gehört, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen, soweit diese Differenz durch Änderungen der Zahl der Anschlussnutzer, bei denen der Messstellenbetrieb durch den Netzbetreiber durchgeführt wird, verursacht wird und soweit es sich nicht um Kosten für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen im Sinne des Messstellenbetriebsgesetzes handelt. In das Regulierungskonto wird auch die Differenz einbezogen, die durch Maßnahmen des Netzbetreibers im Zusammenhang mit § 40 Absatz 2 Satz 3, Absatz 3 Satz 1 und 2 des Energiewirtschaftsgesetzes in Verbindung mit § 55 Absatz 1 Nummer 4 oder Absatz 2 des Messstellenbetriebsgesetzes verursacht wird, soweit der Netzbetreiber für die Durchführung zuständig war. Das Regulierungskonto wird durch den Netzbetreiber geführt.
+(1) Die Differenz zwischen den nach § 4 zulässigen Erlösen und den vom Netzbetreiber unter Berücksichtigung der tatsächlichen Mengenentwicklung erzielbaren Erlösen wird jährlich vom Netzbetreiber ermittelt und auf einem Regulierungskonto verbucht. Gleiches gilt für die Differenz zwischen den für das Kalenderjahr tatsächlich entstandenen Kosten nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6, 8, 13 und 15 bis 18 sowie den im jeweiligen Kalenderjahr entstandenen Kosten nach § 11 Absatz 5, soweit dies in einer Festlegung nach § 32 Absatz 1 Nummer 4a vorgesehen ist, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen. Einbezogen in das Regulierungskonto wird darüber hinaus die Differenz zwischen den für das Kalenderjahr bei effizienter Leistungserbringung entstehenden Kosten des Messstellenbetriebs, zu dem auch die Messung gehört, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen, soweit diese Differenz durch Änderungen der Zahl der Anschlussnutzer, bei denen der Messstellenbetrieb durch den Netzbetreiber durchgeführt wird, verursacht wird und soweit es sich nicht um Kosten für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen im Sinne des Messstellenbetriebsgesetzes handelt. In das Regulierungskonto wird auch die Differenz einbezogen, die durch Maßnahmen des Netzbetreibers im Zusammenhang mit § 40 Absatz 2 Satz 3, Absatz 3 Satz 1 und 2 des Energiewirtschaftsgesetzes in Verbindung mit § 55 Absatz 1 Nummer 4 oder Absatz 2 des Messstellenbetriebsgesetzes verursacht wird, soweit der Netzbetreiber für die Durchführung zuständig war. Das Regulierungskonto wird durch den Netzbetreiber geführt.
 
 (1a) Der Netzbetreiber ermittelt bis zum 30. Juni des Jahres, das dem Kalenderjahr folgt, für das der Kapitalkostenaufschlag genehmigt wurde, die Differenz aus dem genehmigten Kapitalkostenaufschlag nach § 10a und dem Kapitalkostenaufschlag, wie er sich bei der Berücksichtigung der tatsächlich entstandenen Kapitalkosten ergibt. Die Differenz ist auf dem Regulierungskonto des Jahres, für das der Kapitalkostenaufschlag genehmigt wurde, zu verbuchen.
 
@@ -198,9 +200,11 @@ in der Höhe, in der die Kosten unter Berücksichtigung der Umlage nach § 20b d
 
 15. (weggefallen)
 
-16. den Vorschriften der Kapazitätsreserve nach § 13e Absatz 3 des Energiewirtschaftsgesetzes und der Rechtsverordnung nach § 13h des Energiewirtschaftsgesetzes, den Bestimmungen zur Stilllegung von Braunkohlekraftwerken nach § 13g des Energiewirtschaftsgesetzes sowie den Vorschriften zu besonderen netztechnischen Betriebsmitteln nach § 11 Absatz 3 des Energiewirtschaftsgesetzes,
+16. den Vorschriften der Kapazitätsreserve nach § 13e Absatz 3 des Energiewirtschaftsgesetzes und der Rechtsverordnung nach § 13h des Energiewirtschaftsgesetzes, den Bestimmungen zur Stilllegung von Braunkohlekraftwerken nach § 13g des Energiewirtschaftsgesetzes,
 
-17. Entschädigungen nach § 15 Absatz 1 des Erneuerbare-Energien-Gesetzes, die die Voraussetzungen des § 15 Absatz 2 des Erneuerbare-Energien-Gesetzes erfüllen.
+17. Entschädigungen nach § 15 Absatz 1 des Erneuerbare-Energien-Gesetzes, die die Voraussetzungen des § 15 Absatz 2 des Erneuerbare-Energien-Gesetzes erfüllen,
+
+18. Kosten aus der Erfüllung des Zahlungsanspruchs nach § 28g des Energiewirtschaftsgesetzes, wobei Erlöse aus der Erfüllung von Zahlungsansprüchen nach § 28h des Energiewirtschaftsgesetzes mit den Kosten aus der Erfüllung von Zahlungsansprüchen nach § 28g des Energiewirtschaftsgesetzes zu verrechnen sind, soweit diese Kosten im Sinne von Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54) enthalten.
 
 Als dauerhaft nicht beeinflussbare Kostenanteile gelten bei Stromversorgungsnetzen auch solche Kosten oder Erlöse, die sich aus Maßnahmen des Netzbetreibers ergeben, die einer wirksamen Verfahrensregulierung nach der Stromnetzzugangsverordnung oder der Verordnung (EG) Nr. 714/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Netzzugangsbedingungen für den grenzüberschreitenden Stromhandel und zur Aufhebung der Verordnung (EG) Nr. 1228/2003 (ABl. L 211 vom 14.8.2009, S. 15), die zuletzt durch die Verordnung (EU) Nr. 543/2013 (ABl. L 163 vom 15.6.2013, S. 1) geändert worden ist, unterliegen, insbesondere
 
@@ -217,6 +221,8 @@ Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch s
 (4) Als beeinflussbare Kostenanteile des jeweiligen Jahres der Regulierungsperiode gelten für Betreiber von Elektrizitäts- und Gasverteilernetzen die Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile des Ausgangsniveaus, nach Abzug des Kapitalkostenabzugs des jeweiligen Jahres der Regulierungsperiode und nach Abzug der vorübergehend nicht beeinflussbaren Kostenanteile nach Absatz 3. Abweichend von Satz 1 gelten als beeinflussbare Kostenanteile für Betreiber von Übertragungs- und Fernleitungsnetzen alle Kostenanteile, die nicht dauerhaft oder vorübergehend nicht beeinflussbare Kostenanteile nach Absatz 3 Satz 2 sind.
 
 (5) Als volatile Kostenanteile gelten Kosten für die Beschaffung von Treibenergie. Andere beeinflussbare oder vorübergehend nicht beeinflussbare Kostenanteile, insbesondere Kosten für die Beschaffung von Verlustenergie, deren Höhe sich in einem Kalenderjahr erheblich von der Höhe des jeweiligen Kostenanteils im vorhergehenden Kalenderjahr unterscheiden kann, gelten als volatile Kostenanteile, soweit die Regulierungsbehörde dies nach § 32 Absatz 1 Nummer 4a festgelegt hat. Kapitalkosten oder Fremdkapitalkosten gelten nicht als volatile Kostenanteile.
+
+(+++ § 11 Abs. 2 Satz 1 Nr. 16: Zur Anwendung vgl. § 34 Abs. 8a +++)
 
 # § 12 – Effizienzvergleich
 
@@ -496,33 +502,7 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 
 # § 31 – Veröffentlichung von Daten
 
-(1) Die Regulierungsbehörde veröffentlicht auf ihrer Internetseite netzbetreiberbezogen in nicht anonymisierter Form insbesondere
-
-1. den Wert der kalenderjährlichen Erlösobergrenzen nach § 4 Absatz 2 Satz 1,
-
-2. den nach § 4 Absatz 3 und 4 sowie nach § 26 angepassten Wert der kalenderjährlichen Erlösobergrenzen,
-
-3. den verzinsten Saldo des Regulierungskontos nach § 5 Absatz 1 und 2 sowie die Summe der Zu- und Abschläge aus der Auflösung des Saldos des Regulierungskontos nach § 5 Absatz 3,
-
-4. die nach den §§ 12, 13 bis 15 sowie nach § 22 ermittelten Effizienzwerte, die nach § 12 Absatz 4a und § 14 im Effizienzvergleich verwendeten Aufwandsparameter sowie die nach § 13 im Effizienzvergleich verwendeten Vergleichsparameter,
-
-5. die nach § 12a ermittelten Supereffizienzwerte sowie den Effizienzbonus,
-
-6. die verwendeten Parameterwerte und die jährlichen Anpassungsbeträge der Erlösobergrenze für den Erweiterungsfaktor nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10 als Summenwert,
-
-7. den jährlichen nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a ermittelten Kapitalkostenaufschlag als Summenwert,
-
-8. die dauerhaft nicht beeinflussbaren Kostenanteile nach § 11 Absatz 2 sowie deren jährliche Anpassung nach § 4 Absatz 3 Satz 1 Nummer 2 als Summenwert,
-
-9. die jährlichen tatsächlich entstandenen Kostenanteile nach § 11 Absatz 2 Satz 1 Nummer 6 als Summenwert,
-
-10. die jährlichen tatsächlich entstandenen Kostenanteile nach § 11 Absatz 2 Satz 1 Nummer 4 und 8 jeweils als Summenwert,
-
-11. die jährlichen volatilen Kostenanteile nach § 11 Absatz 5 als Summenwert sowie
-
-12. die ermittelten Kennzahlen zur Versorgungsqualität.
-
-(2) Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Internetseite den nach § 9 ermittelten generellen sektoralen Produktivitätsfaktor und den nach § 24 ermittelten gemittelten Effizienzwert.
+Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Internetseite den nach § 9 ermittelten generellen sektoralen Produktivitätsfaktor und den nach § 24 ermittelten gemittelten Effizienzwert.
 
 # § 32 – Festlegungen oder Genehmigungen der Regulierungsbehörde
 
@@ -584,19 +564,13 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 
 (2) Die Bundesnetzagentur soll den Bericht nach Absatz 1 unter Beteiligung der Länder, der Wissenschaft und der betroffenen Wirtschaftskreise erstellen sowie internationale Erfahrungen mit Anreizregulierungssystemen berücksichtigen. Sie gibt den betroffenen Wirtschaftskreisen Gelegenheit zur Stellungnahme und veröffentlicht die erhaltenen Stellungnahmen im Internet.
 
-(3) Zwei Jahre vor Beginn der zweiten Regulierungsperiode legt die Bundesnetzagentur einen Bericht zu Notwendigkeit, Zweckdienlichkeit, Inhalt und Umfang eines technisch-wirtschaftlichen Anlagenregisters nach § 32 Abs. 1 Nr. 5 vor. Ein Jahr vor Beginn der zweiten Regulierungsperiode legt sie einen Bericht zur Berücksichtigung von Kennzahlen nach § 20 Abs. 5 sowie von Kennzahlen zur Berücksichtigung der Vorsorge für eine langfristige Sicherung der Netzqualität im Rahmen des Qualitätselements vor. Sie hat zur Erstellung dieser Berichte die Vertreter von Wirtschaft und Verbrauchern zu hören sowie internationale Erfahrungen zu berücksichtigen.
+(3) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2023 einen Bericht zur Notwendigkeit der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden, unter Berücksichtigung der internationalen Entwicklung von Anreizregulierungssystemen, vor.
 
-(4) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2023 einen Bericht zur Notwendigkeit der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden, unter Berücksichtigung der internationalen Entwicklung von Anreizregulierungssystemen, vor.
+(4) Die Bundesnetzagentur beobachtet das Investitionsverhalten der Netzbetreiber. Hierzu entwickelt sie ein Modell für ein indikatorbasiertes Investitionsmonitoring. Sie veröffentlicht darüber hinaus in regelmäßigen Abständen aussagekräftige Kennzahlen über das Investitionsverhalten der Netzbetreiber.
 
-(5) Die Bundesnetzagentur beobachtet das Investitionsverhalten der Netzbetreiber. Hierzu entwickelt sie ein Modell für ein indikatorbasiertes Investitionsmonitoring. Sie veröffentlicht darüber hinaus in regelmäßigen Abständen aussagekräftige Kennzahlen über das Investitionsverhalten der Netzbetreiber.
+(5) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zum Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten bei Elektrizitätsverteilernetzen vor.
 
-(6) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zum Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten bei Elektrizitätsverteilernetzen vor.
-
-(7) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2019 einen Bericht mit Vorschlägen zur Ausgestaltung eines Qualitätselements zur Netzleistungsfähigkeit, insbesondere zu möglichen Referenzwerten und Kennzahlen sowie zur monetären Bewertung von Abweichungen von diesen Referenzwerten vor. Sie hat zur Erstellung des Berichts die Vertreter von Wirtschaft und Verbrauchern zu hören sowie internationale Erfahrungen zu berücksichtigen.
-
-(7a) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 30. September 2019 einen Bericht über die Redispatch- und Einspeisemanagementmaßnahmen bei Betreibern von Elektrizitätsversorgungsnetzen vor. Der Bericht stellt insbesondere die Kosten für Maßnahmen nach Satz 1 dar und bewertet, ob diese Kosten durch die Betreiber von Elektrizitätsversorgungsnetzen beeinflussbar sind. Darüber hinaus enthält der Bericht Vorschläge zur sachgerechten Einbeziehung der Kosten in die Anreizregulierung.
-
-(8) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zur Struktur und Effizienz von Elektrizitäts- und Gasverteilernetzbetreibern vor, die sich für das vereinfachte Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
+(6) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zur Struktur und Effizienz von Elektrizitäts- und Gasverteilernetzbetreibern vor, die sich für das vereinfachte Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
 
 # § 34 – Übergangsregelungen
 
@@ -604,7 +578,7 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 
 (1a) Absatz 1 gilt im vereinfachten Verfahren nach § 24 entsprechend.
 
-(1b) Abweichend von § 3 Abs. 2 beträgt die Dauer der ersten Regulierungsperiode für Gas vier Jahre. Die Netzentgelte der Gasnetzbetreiber werden unter anteiliger Berücksichtigung der Effizienzvorgaben für die erste Regulierungsperiode bestimmt.
+(1b) (weggefallen)
 
 (2) (weggefallen)
 
@@ -621,6 +595,8 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 (7a) Ab der dritten Regulierungsperiode ist § 23 nicht mehr anzuwenden auf Offshore-Anbindungsleitungen nach § 17d Absatz 1 und den §§ 17a und 17b des Energiewirtschaftsgesetzes sowie nach § 12b Absatz 1 Satz 3 Nummer 7 des Energiewirtschaftsgesetzes oder nach dem Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes. Die Wirksamkeit von Investitionsmaßnahmen, die über die zweite Regulierungsperiode hinaus genehmigt wurden, endet mit Ablauf der zweiten Regulierungsperiode. Die Sätze 1 und 2 sind nicht anzuwenden, soweit sich aus Absatz 14 etwas anderes ergibt.
 
 (8) Die Behandlung von Kosten des Einspeisemanagements als volatile Kosten tritt zum 1. Januar 2017 in Kraft. Für die bis dahin entstandenen Kosten aus Maßnahmen des Einspeisemanagements bleibt es bei der Regelung, diese als dauerhaft nicht beeinflussbare Kosten nach § 11 Absatz 2 Satz 1 Nummer 1 zu behandeln.
+
+(8a) Für besondere netztechnische Betriebsmittel, für die § 118 Absatz 33 des Energiewirtschaftsgesetzes anzuwenden ist, ist § 11 Absatz 2 Satz 1 Nummer 16 in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden.
 
 (9) Abweichend von § 24 Absatz 4 haben Netzbetreiber von Gasverteilernetzen, die in der dritten Regulierungsperiode am vereinfachten Verfahren teilnehmen wollen, dies bei der Regulierungsbehörde bis zum 15. Oktober 2016 zu beantragen.
 
