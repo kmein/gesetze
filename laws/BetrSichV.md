@@ -59,7 +59,7 @@ Diese Verordnung regelt hinsichtlich der in § 18 und in Anhang 2 genannten übe
 
 (12) Errichtung umfasst die Montage und Installation am Verwendungsort.
 
-(13) Überwachungsbedürftige Anlagen sind Anlagen nach § 2 Nummer 30 Satz 1 des Produktsicherheitsgesetzes, soweit sie nach dieser Verordnung in Anhang 2 genannt oder nach § 18 Absatz 1 erlaubnispflichtig sind. Zu den überwachungsbedürftigen Anlagen gehören auch Mess-, Steuer- und Regeleinrichtungen, die dem sicheren Betrieb dieser überwachungsbedürftigen Anlagen dienen.
+(13) Überwachungsbedürftige Anlagen sind die Anlagen, die in Anhang 2 genannt oder nach § 18 Absatz 1 erlaubnispflichtig sind. Zu den überwachungsbedürftigen Anlagen gehören auch Mess-, Steuer- und Regeleinrichtungen, die dem sicheren Betrieb dieser überwachungsbedürftigen Anlagen dienen.
 
 (14) Zugelassene Überwachungsstellen sind die in Anhang 2 Abschnitt 1 genannten Stellen.
 
@@ -477,6 +477,16 @@ Den Unterlagen ist ein Prüfbericht einer zugelassenen Überwachungsstelle beizu
 
 (5) Die zuständige Behörde hat über den Antrag innerhalb von drei Monaten, nachdem er bei ihr eingegangen ist, zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden. Die verlängerte Frist ist zusammen mit den Gründen für die Verlängerung dem Antragsteller mitzuteilen.
 
+(6) Die Erlaubnis erlischt, wenn
+
+1. der Inhaber innerhalb von zwei Jahren nach ihrer Erteilung nicht mit der Errichtung der Anlage begonnen hat,
+
+2. die Errichtung der Anlage zwei Jahre oder länger unterbrochen wurde oder
+
+3. die Anlage während eines Zeitraumes von drei Jahren nicht betrieben wurde.
+
+Die Erlaubnisbehörde kann die Fristen aus wichtigem Grund auf Antrag verlängern.
+
 (+++ § 18: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
 # § 19 – Mitteilungspflichten, behördliche Ausnahmen
@@ -523,7 +533,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 # § 20 – Sonderbestimmungen für überwachungsbedürftige Anlagen des Bundes
 
-(1) Aufsichtsbehörde für die in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei ist das zuständige Bundesministerium oder die von ihm bestimmte Behörde. Dies gilt auch für alle in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen auf den von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei genutzten Dienstliegenschaften. Für andere der Aufsicht der Bundesverwaltung unterliegende überwachungsbedürftige Anlagen nach Anhang 2 Abschnitt 2 bis 4 bestimmt sich die zuständige Aufsichtsbehörde nach § 38 Absatz 1 des Produktsicherheitsgesetzes.
+(1) Aufsichtsbehörde für die in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei ist das zuständige Bundesministerium oder die von ihm bestimmte Behörde. Dies gilt auch für alle in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen auf den von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei genutzten Dienstliegenschaften. Für andere der Aufsicht der Bundesverwaltung unterliegende überwachungsbedürftige Anlagen nach Anhang 2 Abschnitt 2 bis 4 bestimmt sich die zuständige Aufsichtsbehörde nach § 26 Absatz 1 des Gesetzes über überwachungsbedürftige Anlagen.
 
 (2) § 18 findet keine Anwendung auf die in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei.
 
@@ -545,7 +555,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 3. das Bundesministerium für Arbeit und Soziales in Fragen von Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln zu beraten und  
 
-4. die von den zugelassenen Überwachungsstellen nach § 37 Absatz 5 Nummer 8 des Produktsicherheitsgesetzes gewonnenen Erkenntnisse auszuwerten und bei den Aufgaben nach den Nummern 1 bis 3 zu berücksichtigen.
+4. die von den zugelassenen Überwachungsstellen nach § 13 Nummer 2 des Gesetzes über überwachungsbedürftige Anlagen gewonnenen Erkenntnisse auszuwerten und bei den Aufgaben nach den Nummern 1 bis 3 zu berücksichtigen.
 
 (6) Nach Prüfung kann das Bundesministerium für Arbeit und Soziales
 
@@ -627,7 +637,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 33. entgegen § 19 Absatz 3 eine Dokumentation, eine Information, einen Nachweis oder eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-(2) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 32 Absatz 1 Nummer 14 Buchstabe a des Gesetzes über überwachungsbedürftige Anlagen handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.1 Satz 1 nicht dafür sorgt, dass ein Kommunikationssystem wirksam ist,
 
@@ -651,13 +661,13 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 10. eine in Absatz 1 Nummer 9 oder Nummer 24 bezeichnete Handlung in Bezug auf eine überwachungsbedürftige Anlage nach § 2 Nummer 30 des Produktsicherheitsgesetzes begeht.
 
-(3) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 19 Absatz 1 bei einem Arbeitsmittel nach Anhang 2 Abschnitt 2 Nummer 2 Buchstabe a, Buchstabe b Satz 1 oder Buchstabe c, Abschnitt 3 Nummer 2 oder Abschnitt 4 Nummer 2.1, 2.2 oder 2.3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+(3) Ordnungswidrig im Sinne des § 32 Absatz 1 Nummer 14 Buchstabe b des Gesetzes über überwachungsbedürftige Anlagen handelt, wer vorsätzlich oder fahrlässig entgegen § 19 Absatz 1 bei einem Arbeitsmittel nach Anhang 2 Abschnitt 2 Nummer 2 Buchstabe a, Buchstabe b Satz 1 oder Buchstabe c, Abschnitt 3 Nummer 2 oder Abschnitt 4 Nummer 2.1, 2.2 oder 2.3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 # § 23 – Straftaten
 
 (1) Wer durch eine in § 22 Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
-(2) Wer eine in § 22 Absatz 2 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 40 des Produktsicherheitsgesetzes strafbar.
+(2) Wer eine in § 22 Absatz 2 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 33 des Gesetzes über überwachungsbedürftige Anlagen strafbar.
 
 # § 24 – Übergangsvorschriften
 
@@ -1055,7 +1065,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Zulassung von Überwachungsstellen
 
-Zugelassene Überwachungsstellen für die Prüfungen, die nach diesem Anhang vorgeschrieben oder angeordnet sind, sind Stellen nach § 37 Absatz 1 und 2 des Produktsicherheitsgesetzes. Über die Anforderungen des § 37 Absatz 5 des Produktsicherheitsgesetzes hinaus sind folgende Voraussetzungen für die Erteilung der Befugnis zu erfüllen:
+Zugelassene Überwachungsstellen für die Prüfungen, die nach diesem Anhang vorgeschrieben oder angeordnet sind, sind Stellen nach § 2 Nummer 4 des Gesetzes über überwachungsbedürftige Anlagen. Als Voraussetzung für die Zulassung als zugelassene Überwachungsstelle muss eine Prüfstelle über die Anforderungen der §§ 15 bis 17 und § 20 des Gesetzes über überwachungsbedürftige Anlagen hinaus folgende Voraussetzungen für die Zulassung erfüllen:
 
 Die zugelassene Überwachungsstelle muss
 
@@ -1073,19 +1083,7 @@ f) über ein Vergütungssystem verfügen, bei dem die Vergütung der mit den Pr�
 
 2. Zulassung von Prüfstellen von Unternehmen und Unternehmensgruppen
 
-Als zugelassene Überwachungsstellen dürfen Prüfstellen von Unternehmen und Unternehmensgruppen im Sinne von § 37 Absatz 5 Satz 3 des Produktsicherheitsgesetzes benannt werden, wenn dies sicherheitstechnisch angezeigt ist, die Voraussetzungen der Nummer 1 Satz 3 Buchstabe c bis f erfüllt sind und die Prüfstellen
-
-a) organisatorisch abgrenzbar sind,
-
-b) innerhalb des Unternehmens oder der Unternehmensgruppe über Berichtsverfahren verfügen, die ihre Unparteilichkeit sicherstellen und belegen,
-
-c) nicht für die Planung, die Herstellung, den Vertrieb, den Betrieb oder die Instandhaltung der überwachungsbedürftigen Anlage verantwortlich sind,
-
-d) keinen Tätigkeiten nachgehen, die mit der Unabhängigkeit ihrer Beurteilung und ihrer Zuverlässigkeit im Rahmen ihrer Prüftätigkeiten in Konflikt kommen können, und
-
-e) ausschließlich für das Unternehmen oder die Unternehmensgruppe arbeiten.
-
-Die Prüfstellen dürfen nur für Prüfungen an überwachungsbedürftigen Anlagen im Sinne der Abschnitte 3 und 4 benannt werden. Zu einer Unternehmensgruppe im Sinne von Satz 1 gehören Unternehmen nach den §§ 16 und 17 des Aktiengesetzes sowie Gemeinschaftsunternehmen, an denen das Unternehmen, welchem die Prüfstelle angehört, eine Beteiligung von über 50 Prozent hält.
+Prüfstellen von Unternehmen oder Unternehmensgruppen gemäß § 20 Absatz 1 des Gesetzes über überwachungsbedürftige Anlagen dürfen nur für Prüfungen an überwachungsbedürftigen Anlagen im Sinne der Abschnitte 3 und 4 zugelassen werden.
 
 1. Anwendungsbereich und Ziel
 

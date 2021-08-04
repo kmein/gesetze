@@ -29,6 +29,10 @@ Grundsätze der Entgeltbestimmung
 
 Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen
 
+§ 3b
+
+Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+
 Teil 2
 
  
@@ -263,7 +267,11 @@ Inkrafttreten
 
 # § 1 – Anwendungsbereich
 
-Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der Entgelte für den Zugang zu den Elektrizitätsübertragungs- und Elektrizitätsverteilernetzen (Netzentgelte) einschließlich der Ermittlung der Entgelte für dezentrale Einspeisungen. Diese Verordnung regelt zugleich die Ermittlung der Netzkosten für die Errichtung und den Betrieb von Offshore-Anbindungsleitungen, die nach § 17f Absatz 1 Satz 2 des Energiewirtschaftsgesetzes umlagefähig sind.
+Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der Entgelte für den Zugang zu den Elektrizitätsübertragungs- und Elektrizitätsverteilernetzen (Netzentgelte) einschließlich der Ermittlung der Entgelte für dezentrale Einspeisungen. Diese Verordnung regelt zugleich
+
+1. die Ermittlung der Netzkosten für die Errichtung und den Betrieb von Offshore-Anbindungsleitungen, die nach § 17f Absatz 1 Satz 2 des Energiewirtschaftsgesetzes umlagefähig sind, und
+
+2. die Ermittlung der Netzkosten für die Errichtung und den Betrieb von grenzüberschreitenden Elektrizitätsverbindungsleitungen eines selbstständigen Betreibers, die nach Teil 3 Abschnitt 3a des Energiewirtschaftsgesetzes reguliert werden.
 
 # § 2 – Begriffsbestimmungen
 
@@ -281,9 +289,7 @@ die Struktur und Menge der aus einer Netz- oder Umspannebene entnommenen elektri
 
 der Quotient aus pro Jahr entnommener oder eingespeister elektrischer Arbeit und der in diesem Jahr höchsten Last der Entnahme oder Einspeisung;
 
-3a. Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
-
-die Unternehmen 50Hertz Transmission GmbH, Amprion GmbH, TenneT TSO GmbH und TransnetBW GmbH sowie ihre Rechtsnachfolger;
+3a. (weggefallen)
 
 4. Bezugszeitreihe
 
@@ -356,6 +362,10 @@ die höchste zeitgleiche Summe der Leistungswerte einer Anzahl von Entnahmen aus
 (5) In die Einnahmen im Sinne des § 17f Absatz 4 des Energiewirtschaftsgesetzes fließen insbesondere die tatsächlichen Erlöse aufgrund der finanziellen Verrechnung zwischen den Übertragungsnetzbetreibern nach § 17f Absatz 1 Satz 2 des Energiewirtschaftsgesetzes sowie aus den vereinnahmten Aufschlägen auf die Netzentgelte für die Netzkosten nach § 17d Absatz 1 und den §§ 17a und 17b des Energiewirtschaftsgesetzes sowie für Kosten nach § 12b Absatz 1 Satz 3 Nummer 7 des Energiewirtschaftsgesetzes und des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes nach § 17f Absatz 5 Satz 1 und 2 des Energiewirtschaftsgesetzes ein.
 
 (6) Der Übertragungsnetzbetreiber ermittelt bis zum 30. Juni eines jeden Jahres den Saldo zwischen den zulässigen Einnahmen nach Absatz 5 und den tatsächlichen Ausgaben nach Absatz 4. Sofern bilanzielle oder kalkulatorische Netzkosten für die Ermittlung der tatsächlichen Ausgaben nach Absatz 4 in dem Folgejahr noch nicht vorliegen, sind diese Netzkosten in dem Jahr abzugleichen, in dem die für die Ermittlung der tatsächlichen Netzkosten vorliegenden Daten zur Verfügung stehen. Der Saldo einschließlich der Kosten für eine Zwischenfinanzierung wird gemäß § 17f des Energiewirtschaftsgesetzes im Folgejahr oder im Falle des Satzes 2 in einem der Folgejahre über den Belastungsausgleich ausgeglichen.
+
+# § 3b – Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+
+Die Ermittlung des Umfangs der Netzkosten, die nach § 28e des Energiewirtschaftsgesetzes anerkennungsfähig sind, für die Errichtung und den Betrieb von grenzüberschreitenden Elektrizitätsverbindungsleitungen erfolgt nach den §§ 4 bis 10. Bei der Ermittlung der Netzkosten ist im jeweiligen Kalenderjahr der Eigenkapitalzinssatz zugrunde zu legen, der nach § 7 Absatz 6 und 7 für die jeweilige Regulierungsperiode für Betreiber von Elektrizitätsversorgungsnetzen festgelegt ist.
 
 # § 4 – Grundsätze der Netzkostenermittlung
 
@@ -715,11 +725,13 @@ Netzbetreiber sind den Betreibern dezentraler Erzeugungsanlagen gleichzustellen,
 
 3. 10 Prozent des veröffentlichten Netzentgeltes, im Falle einer Benutzungsstundenzahl von mindestens 8 000 Stunden im Jahr.
 
-Die Bemessung des nach den Sätzen 2 und 3 gebildeten individuellen Netzentgeltes hat den Beitrag des Letztverbrauchers zu einer Senkung oder zu einer Vermeidung der Erhöhung der Kosten der Netz- oder Umspannebene, an die der Letztverbraucher angeschlossen ist, widerzuspiegeln. Die Vereinbarung individueller Netzentgelte nach den Sätzen 1 bis 4 bedarf der Genehmigung der Regulierungsbehörde. Die Genehmigung ist in der Regel bis zum Ende einer Regulierungsperiode im Sinne des § 3 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 4 der Verordnung vom 14. August 2013 (BGBl. I S. 3250) geändert worden ist, in der jeweils geltenden Fassung, zu befristen. Hat die Regulierungsbehörde durch Festlegung nach § 29 Absatz 1 des Energiewirtschaftsgesetzes die Kriterien der sachgerechten Ermittlung individueller Netzentgelte nach den Sätzen 1 bis 4 konkretisiert, genügt eine schriftliche Anzeige der getroffenen Vereinbarung eines individuellen Netzentgeltes gegenüber der Regulierungsbehörde. Ist im Falle von Satz 7 die gegenüber der Regulierungsbehörde angezeigte getroffene Vereinbarung individueller Netzentgelte rechtswidrig, insbesondere da sie nicht die Voraussetzungen der Sätze 1 bis 4 sowie der Festlegung der Regulierungsbehörde nach Satz 7 erfüllt oder im Hinblick auf ihre Rechtsfolgen von den Regelungen der Sätze 1 bis 4 abweicht, so kann die Regulierungsbehörde die angezeigte getroffene Vereinbarung individueller Netzentgelte untersagen. Die Regulierungsbehörde kann den Vertragsparteien alle Maßnahmen aufgeben, die erforderlich sind, um die festgestellten Zuwiderhandlungen wirksam abzustellen. § 33 des Energiewirtschaftsgesetzes ist anzuwenden. Die Antragstellung für die Erteilung der Genehmigung nach Satz 5 sowie die Anzeigeerstattung nach Satz 7 haben durch den Letztverbraucher zu erfolgen. Der Letztverbraucher hat der Regulierungsbehörde mit dem Antrag oder der Anzeige alle zur Beurteilung der Voraussetzungen der Sätze 1 bis 3 erforderlichen Unterlagen vorzulegen; der Netzbetreiber hat diese dem Letztverbraucher unverzüglich zur Verfügung zu stellen. Die Betreiber von Übertragungsnetzen haben entgangene Erlöse, die aus individuellen Netzentgelten nach den Sätzen 1 und 2 resultieren, nachgelagerten Betreibern von Elektrizitätsverteilnetzen zu erstatten. Sie haben diese Zahlungen sowie eigene entgangene Erlöse aus individuellen Netzentgelten nach den Sätzen 1 und 2 durch Verrechnung untereinander auszugleichen. Die Kosten nach den Sätzen 13 und 14 können als Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher umgelegt werden; die §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert worden ist, sind entsprechend anzuwenden mit der Maßgabe, dass sich das Netzentgelt für selbstverbrauchte Strombezüge, die über 1 Gigawattstunde hinausgehen, an dieser Abnahmestelle höchstens um 0,05 Cent je Kilowattstunde und für Unternehmen des produzierenden Gewerbes, deren Stromkosten für selbstverbrauchten Strom im vorangegangenen Geschäftsjahr 4 Prozent des Umsatzes im Sinne von § 277 Absatz 1 des Handelsgesetzbuches übersteigen, für die über 1 Gigawattstunde hinausgehenden selbstverbrauchten Strombezüge um höchstens 0,025 Cent je Kilowattstunde erhöhen. Die §§ 62a, 62b und 104 Absatz 10 und 11 des Erneuerbare-Energien-Gesetzes sind im Rahmen der Erhebung des Aufschlags nach Satz 15 entsprechend anzuwenden. Der Umlagemechanismus nach Satz 15 ist erstmalig zum 1. Januar 2012 anzuwenden. Die Vereinbarung eines individuellen Netzentgeltes erfolgt unter dem Vorbehalt, dass die jeweiligen Voraussetzungen nach den Sätzen 1 bis 4 tatsächlich erfüllt werden. Ist dies nicht der Fall, erfolgt die Abrechnung der Netznutzung nach den angesichts der tatsächlich eingetretenen Verhältnisse zulässigen Netzentgelten.
+Die Bemessung des nach den Sätzen 2 und 3 gebildeten individuellen Netzentgeltes hat den Beitrag des Letztverbrauchers zu einer Senkung oder zu einer Vermeidung der Erhöhung der Kosten der Netz- oder Umspannebene, an die der Letztverbraucher angeschlossen ist, widerzuspiegeln. Die Vereinbarung individueller Netzentgelte nach den Sätzen 1 bis 4 bedarf der Genehmigung der Regulierungsbehörde. Die Genehmigung ist in der Regel bis zum Ende einer Regulierungsperiode im Sinne des § 3 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 4 der Verordnung vom 14. August 2013 (BGBl. I S. 3250) geändert worden ist, in der jeweils geltenden Fassung, zu befristen. Hat die Regulierungsbehörde durch Festlegung nach § 29 Absatz 1 des Energiewirtschaftsgesetzes die Kriterien der sachgerechten Ermittlung individueller Netzentgelte nach den Sätzen 1 bis 4 konkretisiert, genügt eine schriftliche Anzeige der getroffenen Vereinbarung eines individuellen Netzentgeltes gegenüber der Regulierungsbehörde. Ist im Falle von Satz 7 die gegenüber der Regulierungsbehörde angezeigte getroffene Vereinbarung individueller Netzentgelte rechtswidrig, insbesondere da sie nicht die Voraussetzungen der Sätze 1 bis 4 sowie der Festlegung der Regulierungsbehörde nach Satz 7 erfüllt oder im Hinblick auf ihre Rechtsfolgen von den Regelungen der Sätze 1 bis 4 abweicht, so kann die Regulierungsbehörde die angezeigte getroffene Vereinbarung individueller Netzentgelte untersagen. Die Regulierungsbehörde kann den Vertragsparteien alle Maßnahmen aufgeben, die erforderlich sind, um die festgestellten Zuwiderhandlungen wirksam abzustellen. § 33 des Energiewirtschaftsgesetzes ist anzuwenden. Die Antragstellung für die Erteilung der Genehmigung nach Satz 5 sowie die Anzeigeerstattung nach Satz 7 haben durch den Letztverbraucher zu erfolgen. Der Letztverbraucher hat der Regulierungsbehörde mit dem Antrag oder der Anzeige alle zur Beurteilung der Voraussetzungen der Sätze 1 bis 3 erforderlichen Unterlagen vorzulegen; der Netzbetreiber hat diese dem Letztverbraucher unverzüglich zur Verfügung zu stellen. Die Betreiber von Übertragungsnetzen haben entgangene Erlöse, die aus individuellen Netzentgelten nach den Sätzen 1 und 2 resultieren, nachgelagerten Betreibern von Elektrizitätsverteilnetzen zu erstatten. Sie haben diese Zahlungen sowie eigene entgangene Erlöse aus individuellen Netzentgelten nach den Sätzen 1 und 2 durch Verrechnung untereinander auszugleichen. Die Kosten nach den Sätzen 13 und 14 können als Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher umgelegt werden; die §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert worden ist, sind entsprechend anzuwenden mit der Maßgabe, dass sich das Netzentgelt für selbstverbrauchte Strombezüge, die über 1 Gigawattstunde hinausgehen, an dieser Abnahmestelle höchstens um 0,05 Cent je Kilowattstunde und für Unternehmen des produzierenden Gewerbes, deren Stromkosten für selbstverbrauchten Strom im vorangegangenen Geschäftsjahr 4 Prozent des Umsatzes im Sinne von § 277 Absatz 1 des Handelsgesetzbuches übersteigen, für die über 1 Gigawattstunde hinausgehenden selbstverbrauchten Strombezüge um höchstens 0,025 Cent je Kilowattstunde erhöhen. Die §§ 62a, 62b und 104 Absatz 10 und 11 des Erneuerbare-Energien-Gesetzes sowie § 27b des Kraft-Wärme-Kopplungsgesetzes sind im Rahmen der Erhebung des Aufschlags nach Satz 15 entsprechend anzuwenden. Der Umlagemechanismus nach Satz 15 ist erstmalig zum 1. Januar 2012 anzuwenden. Die Vereinbarung eines individuellen Netzentgeltes erfolgt unter dem Vorbehalt, dass die jeweiligen Voraussetzungen nach den Sätzen 1 bis 4 tatsächlich erfüllt werden. Ist dies nicht der Fall, erfolgt die Abrechnung der Netznutzung nach den angesichts der tatsächlich eingetretenen Verhältnisse zulässigen Netzentgelten.
 
 (3) Sofern ein Netznutzer sämtliche in einer Netz- oder Umspannebene oberhalb der Umspannung von Mittel- zu Niederspannung von ihm genutzten Betriebsmittel ausschließlich selbst nutzt, ist zwischen dem Betreiber dieser Netz- oder Umspannebene und dem Netznutzer für diese singulär genutzten Betriebsmittel gesondert ein angemessenes Entgelt festzulegen. Das Entgelt orientiert sich an den individuell zurechenbaren Kosten der singulär genutzten Betriebsmittel dieser Netz- oder Umspannebene unter Beachtung der in § 4 dargelegten Grundsätze. Diese Kosten sind auf Verlangen des Netznutzers durch den Netzbetreiber nachzuweisen. Der Letztverbraucher ist bezüglich seines Entgelts im Übrigen so zu stellen, als sei er direkt an die vorgelagerte Netz- oder Umspannebene angeschlossen.
 
 (4) Betreiber von Elektrizitätsversorgungsnetzen haben Letztverbrauchern, die Strom dem Netz ausschließlich zur Speicherung in einem Stromspeicher entnehmen und den zurückgewonnenen Strom wieder in das Netz einspeisen, ein individuelles Netzentgelt anzubieten. Das Netzentgelt besteht abweichend von § 17 Absatz 2 nur aus einem Jahresleistungspreis in Euro pro Kilowatt, wobei der Netzbetreiber die Gleichzeitigkeitsfunktion des oberen Benutzungsdauerbereichs nach Anlage 4 anwendet und den Jahresleistungspreis auf den Anteil der entnommenen Strommenge reduziert, der nicht wieder in das Netz eingespeist wird. Der Anteil nach Satz 2 ist für jede Anlage in geeigneter Form nachzuweisen. Bei gleichzeitigem netzdienlichen Verhalten nach Absatz 2 Satz 1 darf das individuelle Netzentgelt für Letztverbraucher nach Satz 1 nicht weniger als 20 Prozent des nach Satz 2 ermittelten Jahresleistungspreises betragen.
+
+(5) Werden individuelle Netzentgelte nach den Absätzen 1 bis 4 gebildet, sind diese in die Veröffentlichung der Netzentgelte aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
 
 # § 20 – Verprobung
 
@@ -751,27 +763,9 @@ Die Bemessung des nach den Sätzen 2 und 3 gebildeten individuellen Netzentgelte
 
 # § 27 – Veröffentlichungspflichten
 
-(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, die für ihr Netz geltenden Netzentgelte auf ihren Internetseiten zu veröffentlichen und auf Anfrage jedermann unverzüglich in Textform mitzuteilen. Werden individuelle Netzentgelte nach § 19 gebildet, sind diese in die Veröffentlichung der Netzentgelte aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
+(1) (weggefallen)
 
-(2) Betreiber von Elektrizitätsversorgungsnetzen haben ferner jeweils zum 1. April eines Jahres folgende Strukturmerkmale ihres Netzes auf ihrer Internetseite zu veröffentlichen:
-
-1. die Stromkreislänge jeweils der Kabel- und Freileitungen in der Niederspannungs-, Mittelspannungs-, Hoch- und Höchstspannungsebene zum 31. Dezember des Vorjahres,
-
-2. die installierte Leistung der Umspannebenen zum 31. Dezember des Vorjahres,
-
-3. die im Vorjahr entnommene Jahresarbeit in Kilowattstunden pro Netz- und Umspannebene,
-
-4. die Anzahl der Entnahmestellen jeweils für alle Netz- und Umspannebenen,
-
-5. die Einwohnerzahl im Netzgebiet von Betreibern von Elektrizitätsversorgungsnetzen der Niederspannungsebene zum 31. Dezember des Vorjahres,
-
-6. die versorgte Fläche zum 31. Dezember des Vorjahres,
-
-7. die geographische Fläche des Netzgebietes zum 31. Dezember des Vorjahres,
-
-8. jeweils zum 31. Dezember des Vorjahres die Anzahl der Entnahmestellen mit einer viertelstündlichen registrierenden Leistungsmessung oder einer Zählerstandsgangmessung und die Anzahl der sonstigen Entnahmestellen sowie
-
-9. den Namen des grundzuständigen Messstellenbetreibers.
+(2) (weggefallen)
 
 (3) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung haben ab dem Jahr 2023 auf ihrer gemeinsamen Internetseite nach § 77 Absatz 2 des Erneuerbare-Energien-Gesetzes das gemeinsame bundeseinheitliche Preisblatt und die diesem Preisblatt zugrunde liegende gemeinsame Jahreshöchstlast zu veröffentlichen.
 
@@ -831,9 +825,13 @@ Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch Festlegung 
 
 6. zusätzliche Anforderungen an die Struktur und den Inhalt des Berichts nach § 28 und dessen Anhang,
 
-7. die Gewährleistung einer sachgerechten und einheitlichen Ermittlung von Entgelten für Netzreservekapazität und
+7. die Gewährleistung einer sachgerechten und einheitlichen Ermittlung von Entgelten für Netzreservekapazität,
 
-8. die Höhe der sich aus dem Belastungsausgleich nach den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert worden ist, je Kalenderjahr ergebenden Zuschläge.
+8. die Höhe der sich aus dem Belastungsausgleich nach den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert worden ist, je Kalenderjahr ergebenden Zuschläge,
+
+9. separate oder einheitliche betriebsgewöhnliche Nutzungsdauern für grenzüberschreitende Elektrizitätsverbindungsleitungen, die nach Teil 3 Abschnitt 3a des Energiewirtschaftsgesetzes reguliert werden und
+
+10. den Ansatz separater oder einheitlicher betriebsgewöhnlicher Nutzungsdauern bei Anlagegütern von Betreibern grenzüberschreitender Elektrizitätsverbindungsleitungen, die nach Teil 3 Abschnitt 3a des Energiewirtschaftsgesetzes reguliert werden.
 
 (2) Die Regulierungsbehörde kann ferner Festlegungen treffen zur Gewährleistung
 
@@ -859,7 +857,7 @@ Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch Festlegung 
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 4 Abs. 4 Satz 4 oder 6, § 9 Abs. 3, § 12 Satz 4 oder 7 oder § 20 Abs. 2 zuwiderhandelt,
+1. einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 4 Abs. 4 Satz 4 oder 6, § 9 Abs. 3, § 12 Satz 4 oder 7 oder § 20 Abs. 2 zuwiderhandelt oder
 
 2. (weggefallen)
 
@@ -867,7 +865,7 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 
 4. (weggefallen)
 
-5. einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 27 Abs. 1 Satz 1 oder Abs. 2 zuwiderhandelt oder
+5. (weggefallen)
 
 6. einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 28 Abs. 1 Satz 1 zuwiderhandelt.
 
@@ -909,9 +907,11 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 
 Die anteiligen Erlösobergrenzen nach Satz 1 der einzelnen Betreiber von Übertragungsnetzen mit Regelzonenverantwortung sind auf den gemeinsamen Kostenträgern nach § 14b Absatz 2 zusammenzuführen. Unter Verwendung der bundeseinheitlichen Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2 ist für die betroffene Netz- und Umspannebene jeweils der bundeseinheitlich gebildete Netzentgeltanteil zu bestimmen.
 
+(2a) Abweichend von Absatz 2 sind Kosten aus der Erfüllung des Zahlungsanspruchs nach § 28g des Energiewirtschaftsgesetzes bereits ab dem 27. Juli 2021 vollständig in den bundeseinheitlich gebildeten Anteil der Übertragungsnetzentgelte einzubeziehen.
+
 (3) Grundlage des unternehmensindividuell gebildeten Anteils nach Absatz 1 Satz 1 ist der jeweils verbleibende Anteil der Erlösobergrenzen nach § 14b Absatz 1, der nicht Grundlage des bundeseinheitlich gebildeten Anteils ist. Diese Kosten sind den unternehmensindividuellen Kostenträgern nach Anlage 3 zuzuordnen. Unter Verwendung der unternehmensindividuellen Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 1 ist für die Netz- und Umspannebene jeweils der unternehmensindividuell gebildete Netzentgeltanteil zu bestimmen.
 
-(4) Die Höhe des bundeseinheitlich gebildeten Netzentgeltanteils und die Höhe des unternehmensindividuell gebildeten Netzentgeltanteils sind in die Veröffentlichung der Übertragungsnetzentgelte nach § 27 Absatz 1 Satz 1 ergänzend aufzunehmen. Die Darstellung hat wie folgt zu erfolgen: Netzentgelt des Übertragungsnetzbetreibers ist gleich bundeseinheitlicher Anteil nach Absatz 2 Satz 3 zuzüglich unternehmensindividueller Anteil nach Absatz 3 Satz 3.
+(4) Die Höhe des bundeseinheitlich gebildeten Netzentgeltanteils und die Höhe des unternehmensindividuell gebildeten Netzentgeltanteils sind in die Veröffentlichung der Übertragungsnetzentgelte nach § 21 Absatz 3 Satz 1 des Energiewirtschaftsgesetzes ergänzend aufzunehmen. Die Darstellung hat wie folgt zu erfolgen: Netzentgelt des Übertragungsnetzbetreibers ist gleich bundeseinheitlicher Anteil nach Absatz 2 Satz 3 und Absatz 2a zuzüglich unternehmensindividueller Anteil nach Absatz 3 Satz 3.
 
 (5) Der Ausgleich von Mehr- und Mindereinnahmen, die sich aufgrund des bundeseinheitlich gebildeten Netzentgeltanteils ergeben, erfolgt nach dem Mechanismus des § 14c.
 

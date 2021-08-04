@@ -7,7 +7,7 @@ Die Notifizierungen von Konformitätsbewertungsstellen entsprechend Kapitel IV d
 
 # § 2 – Richtwert für Stichproben bei der Marktüberwachung
 
-Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob die Geräte und Ausrüstungen die Anforderungen der Verordnung (EU) 2016/426 erfüllen. Diese Stichproben bilden eine Teilmenge des Richtwerts nach § 26 Absatz 1 Satz 3 des Produktsicherheitsgesetzes.
+Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob die Geräte und Ausrüstungen die Anforderungen der Verordnung (EU) 2016/426 erfüllen. Diese Stichproben bilden eine Teilmenge des Richtwerts nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
 
 # § 3 – Unterrichtung bei Nichtkonformität eines Geräts oder einer Ausrüstung
 
@@ -29,9 +29,7 @@ Unterrichtungen nach Artikel 37 Absatz 2 und 4 Unterabsatz 2 der Verordnung (EU)
 
 Die Unterrichtung über die Feststellung, dass konforme Geräte oder Ausrüstungen ein Risiko für die Gesundheit von Personen, für Haus- oder Nutztiere oder für Güter darstellen, sowie die Unterrichtung über die getroffenen Korrekturmaßnahmen nach Artikel 39 Absatz 3 der Verordnung (EU) 2016/426 richtet die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin an die Europäische Kommission und an die übrigen Mitgliedstaaten der Europäischen Union.
 
-# § 6 – Kostenerhebung
-
-Hat die Kontrolle ergeben, dass ein Gerät oder eine Ausrüstung die Anforderungen der Verordnung (EU) 2016/426 nicht erfüllt, erheben die Marktüberwachungsbehörden die Kosten für die Besichtigungen und Prüfungen nach § 28 Absatz 1 Satz 2 und 3 des Produktsicherheitsgesetzes von denjenigen Personen, die das Gerät oder die Ausrüstung herstellen oder zum Zweck der Bereitstellung auf dem Markt einführen, lagern oder ausstellen.
+# § 6 – (weggefallen)
 
 # § 7 – Sprache der Gebrauchsanleitungen, der Sicherheitsinformationen und der EU-Konformitätserklärungen
 

@@ -573,43 +573,7 @@ Für diesen Verordnungsabschnitt sind die folgenden Begriffsbestimmungen anzuwen
 
 # § 40 – Veröffentlichungspflichten
 
-(1) Netzbetreiber sind verpflichtet, auf ihren Internetseiten regelmäßig, beginnend mit dem 1. Oktober 2011, folgende aktualisierte Angaben in einem gängigen Datenformat zu veröffentlichen:
-
-1. im Fernleitungsnetz eine unter Betreibern angrenzender Netze abgestimmte einheitliche Bezeichnung für Netzkopplungspunkte oder Ein- oder Ausspeisezonen, unter denen dort Kapazität gebucht werden kann,
-
-2. im Fernleitungsnetz mindestens einmal jährlich Angaben über Termine von Versteigerungen nach § 13 Absatz 1 Satz 1, mindestens für die nächsten fünf Jahre im Voraus,
-
-3. (weggefallen)
-
-4. im Fernleitungsnetz Angaben über die bei der Lastflusssimulation nach § 9 Absatz 2 verwendete Methode,
-
-5. im Fernleitungsnetz mindestens einmal jährlich eine Dokumentation der nach § 9 Absatz 3 durchgeführten kapazitätserhöhenden Maßnahmen und ihrer jeweiligen Kosten,
-
-6. im Fernleitungsnetz Angaben zu den Erlösen aus der Kapazitätsvergabe nach § 13 Absatz 1,
-
-7. im Verteilnetz die Gasbeschaffenheit bezüglich des Brennwerts „H<sub>s,n</sub>“ sowie am zehnten Werktag des Monats den Abrechnungsbrennwert des Vormonats an allen Ein- und Ausspeisepunkten,
-
-8. im Verteilnetz Regeln für den Anschluss anderer Anlagen und Netze an das vom Netzbetreiber betriebene Netz sowie den Zugang solcher Anlagen und Netze zu dem vom Netzbetreiber betriebenen Netz,
-
-9. im örtlichen Verteilnetz die zur Anwendung kommenden Standardlastprofile,
-
-10. die Zuordenbarkeit jeder Entnahmestelle zu einem oder mehreren Marktgebieten,
-
-11. die „Mindestanforderungen an die Allgemeinen Geschäftsbedingungen“ nach § 4 sowie die Vereinbarung nach § 8 Absatz 6 sowie
-
-12. Ansprechpartner im Unternehmen für Netzzugangsfragen.
-
-Diese Angaben sind bei Änderungen unverzüglich anzupassen, mindestens monatlich oder, falls es die Verfügbarkeit kurzfristiger Dienstleistungen erfordert, täglich. Die Veröffentlichungspflichten der Fernleitungsnetzbetreiber nach Anhang I zur Verordnung (EG) Nr. 715/2009 bleiben unberührt. Die Veröffentlichung der Angaben nach Satz 1 hat in einem gängigen Format zu erfolgen, das eine automatisierte Auslesung der veröffentlichten Daten von der Internetseite des Fernleitungsnetzbetreibers ermöglicht. Die Angaben werden in deutscher Sprache veröffentlicht. Fernleitungsnetzbetreiber veröffentlichen sie auf ihrer Internetseite zusätzlich in englischer Sprache. Örtliche Verteilnetzbetreiber stellen darüber hinaus auf ihrer Internetseite eine Karte bereit, auf der schematisch erkennbar ist, welche Bereiche in einem Gemeindegebiet an das örtliche Gasverteilernetz angeschlossen sind.
-
-(1a) Netzbetreiber müssen für den Netzanschluss nach § 33 und § 39b neben den in § 19 Absatz 2 des Energiewirtschaftsgesetzes aufgeführten Angaben auf ihrer Internetseite unter Wahrung von Betriebs- und Geschäftsgeheimnissen folgende Angaben machen:
-
-1. die für die Prüfung des Netzanschlussbegehrens mindestens erforderlichen Angaben,
-
-2. standardisierte Bedingungen für den Netzanschluss und
-
-3. eine laufend aktualisierte, übersichtliche Darstellung der Netzauslastung in ihrem gesamten Netz einschließlich der Kennzeichnung tatsächlicher oder zu erwartender Engpässe.
-
-(2) Marktgebietsverantwortliche veröffentlichen auf ihrer Internetseite:
+Marktgebietsverantwortliche veröffentlichen auf ihrer Internetseite:
 
 1. die Methoden, nach denen die Ausgleichs- und Regelenergieentgelte berechnet werden;
 
