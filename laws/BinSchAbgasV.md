@@ -67,7 +67,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige Behörde
 
 2. erteilt, ändert und entzieht die Typgenehmigung
 
-nach Maßgabe der Artikel 4 bis 6, 11 und 12 der Richtlinie. § 26 Absatz 2, § 27 Absatz 1 und § 28 Absatz 2 sowie § 31 des Produktsicherheitsgesetzes gelten entsprechend.
+nach Maßgabe der Artikel 4 bis 6, 11 und 12 der Richtlinie. § 7 Absatz 2, § 8 Absatz 2 Satz 1, § 9 Absatz 1 sowie § 19 des Marktüberwachungsgesetzes gelten entsprechend.
 
 # § 4 – Ordnungswidrigkeiten
 

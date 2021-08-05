@@ -1165,7 +1165,7 @@ Im Übrigen bleibt § 49 des Verwaltungsverfahrensgesetzes unberührt.
 
 # § 53 – Betriebsanleitung
 
-Erfüllt das Pflanzenschutzgerät besondere Anforderungen im Sinne des § 52 Absatz 1, ist der Hersteller oder Inverkehrbringer verpflichtet, in der Betriebsanleitung, ergänzend zu den durch die auf § 8 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178) beruhenden Verordnung über das Inverkehrbringen von Maschinen geforderten Angaben, auf diese Anforderungen und die jeweils einzuhaltenden Betriebsbedingungen hinzuweisen.
+Erfüllt das Pflanzenschutzgerät besondere Anforderungen im Sinne des § 52 Absatz 1, ist der Hersteller oder Inverkehrbringer verpflichtet, in der Betriebsanleitung, ergänzend zu den durch die auf § 8 des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146) beruhenden Verordnung über das Inverkehrbringen von Maschinen geforderten Angaben, auf diese Anforderungen und die jeweils einzuhaltenden Betriebsbedingungen hinzuweisen.
 
 # § 54 – Entschädigung
 
