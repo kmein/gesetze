@@ -1306,23 +1306,7 @@ Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen unterliegen der �
 
 (3) In den Fällen der Absätze 1 und 2 kann die zuständige Behörde die Beschäftigung einer verantwortlichen Person auch dem Inhaber eines Betriebes untersagen, der nach dem Gesetz oder auf Grund einer Rechtsverordnung nach § 4 ohne Erlaubnis den Umgang oder den Verkehr mit explosionsgefährlichen Stoffen betreiben darf. Die Untersagung nach Satz 1 ist auch zulässig, wenn die verantwortliche Person ihre Tätigkeit auf Grund einer Rechtsverordnung nach § 4 ohne Befähigungsschein ausüben darf.
 
-# § 33a – Bestimmungen des Europäischen Rechts über die Marktüberwachung; Unterrichtungen
-
-(1) Die Marktüberwachung richtet sich
-
-1. für Explosivstoffe nach Artikel 41 der Richtlinie 2014/28/EU und
-
-2. für pyrotechnische Gegenstände nach Artikel 38 der Richtlinie 2013/29/EU.
-
-(2) Die nach § 36 Absatz 4b bestimmte zentrale Stelle unterrichtet die Europäische Kommission jährlich über die Maßnahmen der Marktüberwachung von Explosivstoffen und pyrotechnischen Gegenständen, die im Geltungsbereich dieses Gesetzes durch die zuständigen Stellen der Länder durchgeführt worden sind.
-
-(3) Die nach § 36 Absatz 4b bestimmte zentrale Stelle unterrichtet bei mangelhaften Explosivstoffen oder pyrotechnischen Gegenständen
-
-1. die Europäische Kommission unverzüglich und unter Angabe der Gründe über die getroffenen Maßnahmen nach § 33b Absatz 1 bis 3 und
-
-2. die benannte Stelle, die für das Konformitätsbewertungsverfahren des betroffenen Explosivstoffes nach Artikel 20 der Richtlinie 2014/28/EU oder des betroffenen pyrotechnischen Gegenstandes nach Artikel 17 der Richtlinie 2013/29/EU verantwortlich ist.
-
-Die nach § 36 Absatz 4b bestimmte zentrale Stelle teilt der Europäischen Kommission insbesondere mit, ob der Mangel auf eine Nichteinhaltung der in einer Rechtsverordnung nach § 6 Absatz 1 Nummer 2 Buchstabe a genannten Anforderungen, auf eine falsche Anwendung harmonisierter Normen oder auf Mängel dieser harmonisierten Normen zurückzuführen ist.
+# § 33a – (weggefallen)
 
 # § 33b – Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör
 
@@ -1336,15 +1320,15 @@ Die nach § 36 Absatz 4b bestimmte zentrale Stelle teilt der Europäischen Kommi
 
 2. bei dem Wiedergewinnen, Aufbewahren, Verwenden, Vernichten oder Verbringen oder innerhalb der Betriebsstätte bei dem Transport, dem Überlassen oder der Empfangnahme eines explosionsgefährlichen Stoffes oder eines Sprengzubehörs ein Schadensereignis eingetreten ist und ein begründeter Verdacht besteht, dass dieses auf einen Mangel in der Beschaffenheit oder Funktionsweise des explosionsgefährlichen Stoffes oder des Sprengzubehörs zurückzuführen ist.
 
-Die Bundesanstalt für Materialforschung und -prüfung und die nach § 36 Absatz 4b bestimmte Stelle sind über die Maßnahmen nach Satz 1 und nach Absatz 2 unverzüglich zu unterrichten.
+Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen nach Satz 1 und nach Absatz 2 unverzüglich zu unterrichten.
 
-(4) Besteht der begründete Verdacht, dass ein Explosivstoff oder ein pyrotechnischer Gegenstand entgegen § 5 Absatz 1 Nummer 2 gekennzeichnet und in den Verkehr gebracht oder anderen überlassen worden ist, sind die Absätze 2 und 3 sowie § 33a Absatz 3 Satz 1 entsprechend anzuwenden.
+(4) Besteht der begründete Verdacht, dass ein Explosivstoff oder ein pyrotechnischer Gegenstand entgegen § 5 Absatz 1 Nummer 2 gekennzeichnet und in den Verkehr gebracht oder anderen überlassen worden ist, sind die Absätze 2 und 3 entsprechend anzuwenden.
 
 # § 33c – Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen
 
 (1) Wird die zuständige Behörde von Behörden anderer Mitgliedstaaten der Europäischen Union über deren Maßnahmen gegen nicht konforme oder sonst unsichere Explosivstoffe oder pyrotechnische Gegenstände informiert, trifft sie alle notwendigen Maßnahmen zum Schutz der Verbraucher oder Dritter.
 
-(2) Bestehen Einwände gegen die von den anderen Mitgliedstaaten der Europäischen Union getroffenen Maßnahmen, übermitteln die obersten Landesbehörden diese Einwände dem Bundesministerium des Innern, für Bau und Heimat und der nach § 36 Absatz 4b bestimmten zentralen Stelle. Diese unterrichtet im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Europäische Kommission und die anderen Mitgliedstaaten der Europäischen Union über die getroffenen Maßnahmen nach Satz 1 und die Einwände gegen die von den Behörden anderer Mitgliedstaaten der Europäischen Union getroffenen Maßnahmen.
+(2) Bestehen Einwände gegen die von den anderen Mitgliedstaaten der Europäischen Union getroffenen Maßnahmen, unterrichten die obersten Landesbehörden im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Europäische Kommission und die anderen Mitgliedstaaten der Europäischen Union über die getroffenen Maßnahmen nach Absatz 1 und die Einwände gegen die von den Behörden anderer Mitgliedstaaten der Europäischen Union getroffenen Maßnahmen.
 
 (3) Verlangt die Europäische Kommission auf der Grundlage des Artikels 43 der Richtlinie 2014/28/EU oder des Artikels 40 der Richtlinie 2013/29/EU die Aufhebung oder Änderung einer getroffenen Maßnahme, hat die zuständige Behörde den erlassenen Verwaltungsakt aufzuheben oder zu ändern.
 
@@ -1420,7 +1404,7 @@ Die Bundesanstalt für Materialforschung und -prüfung und die nach § 36 Absatz
 
 (4a) Zuständige Behörde für die Überprüfung der Zuverlässigkeit und der persönlichen Eignung der Angehörigen des Technischen Hilfswerks nach den §§ 8 bis 8c ist die Bundesschule des Technischen Hilfswerks.
 
-(4b) Die Länder können für die Unterrichtung der Europäischen Kommission nach § 33a Absatz 2 und 3 sowie § 33c Absatz 2 Satz 2 eine für den Vollzug von Aufgaben nach § 26 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), das zuletzt durch Artikel 435 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung einschließlich der damit zusammenhängenden Meldeverfahren der Marktüberwachungsbehörden bestimmte zentrale Stelle bestimmen.
+(4b) (weggefallen)
 
 (5) Soweit nicht durch dieses Gesetz oder auf Grund dieses Gesetzes Abweichendes bestimmt ist, werden die nach Absatz 1 für die Ausführung dieses Gesetzes zuständigen Bundesbehörden vom Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung bestimmt.
 

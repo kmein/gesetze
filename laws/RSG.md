@@ -229,6 +229,24 @@ Die Aufsichtsbehörde kann alle Maßnahmen treffen, die geeignet und erforderlic
 
 Änderungen des Gesellschaftsvertrags und der allgemeinen Absicherungsbedingungen bedürfen der Genehmigung der Aufsichtsbehörde.
 
+# § 22 – Staatliche Absicherung
+
+(1) Solange und soweit der Reisesicherungsfonds nicht über ausreichendes Fondsvermögen verfügt, um die in § 3 Nummer 1 und 2 genannten Ausgaben decken zu können, übernimmt die Bundesrepublik Deutschland bis zur Höhe der Differenz zwischen der Gesamtabdeckung nach Satz 3 Nummer 2 einerseits und dem vorhandenen Fondsvermögen sowie den Sicherheitsleistungen insolventer Reiseanbieter andererseits ab dem 1. November 2021 die Absicherung erforderlicher Kredite. Soweit die Staatskasse den Kreditgeber befriedigt, gehen die Forderungen des Kreditgebers gegen den Reisesicherungsfonds auf die Staatskasse über. Die staatliche Absicherung nach Satz 1 ist davon abhängig, dass
+
+1. die Höhe der von den Reiseanbietern zu stellenden Sicherheiten mindestens 5 Prozent des Umsatzes der Reiseanbieter beträgt und
+
+2. die Höhe der Entgelte mindestens 1 Prozent des Umsatzes der Reiseanbieter beträgt und ausreicht, um unter Berücksichtigung der Kosten, die für den Aufbau und die Verwaltung sowie infolge von Insolvenzfällen zu erwarten sind, ein Zielkapital zu bilden, das zusammen mit den Sicherheiten nach § 5 Absatz 4 eine Gesamtabdeckung von 750 Millionen Euro gewährleistet; dabei ist die Entgelthöhe abweichend von § 7 Absatz 2 so festzulegen, dass das Zielkapital bis zum 31. Oktober 2027 erreicht wird.
+
+(2) Die staatliche Absicherung nach Absatz 1 gilt nur bis zum Erreichen des Zielkapitals nach Absatz 1 Satz 3 Nummer 2, jedoch in keinem Fall länger als bis zum 31. Oktober 2027.
+
+(3) Für die Dauer der staatlichen Absicherung nach Absatz 1
+
+1. ist das Zielkapital abweichend von § 4 Absatz 2 Satz 1 vollständig aus den Entgelten der Reiseanbieter zu bilden,
+
+2. bedarf der nach § 20 Absatz 1 Nummer 2 vorzulegende Finanzierungsplan der Genehmigung durch die Aufsichtsbehörde.
+
+(4) Für die staatliche Absicherung nach Absatz 1 erhebt die Bundesrepublik Deutschland von dem Reisesicherungsfonds ein Entgelt.
+
 # § 23 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zu treffen über:
