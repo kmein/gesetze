@@ -8955,13 +8955,25 @@ Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdaue
 
 (Fundstelle: BGBl. I 2021, 2932 – 2936)
 
-I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche  
+I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche\*\*  
 (Wertverhältnisse/Stand: 1. Januar 2022)  
   
 
 Land
 
-II. Mietniveaustufen
+<span id="FnA1-f809323_01"></span><a href="#FnR.FnA1-f809323_01" class="Footnote">*</a>  
+Für Wohnungseigentum gelten die Nettokaltmieten für Mietwohngrundstücke.
+
+<span id="FnA1-f809323_02"></span><a href="#FnR.FnA1-f809323_02" class="Footnote">**</a>  
+Flächen, die zu anderen als Wohnzwecken genutzt werden, gelten als Wohnfläche. Für diese Flächen ist bei Mietwohngrundstücken die für Wohnungen mit einer Fläche unter 60 m² geltende monatliche Nettokaltmiete in Euro je Quadratmeter Nutzfläche (ohne Zubehörräume) anzusetzen. Bei Ein- und Zweifamilienhäusern sind diese Flächen zu der jeweiligen Wohnfläche zu addieren.
+
+|                                                                                   |              |
+|:----------------------------------------------------------------------------------|:------------:|
+| Nettokaltmiete – Festwert – für einen Garagenstellplatz (Einzelgarage/Tiefgarage) | 35 EUR/Monat |
+
+II\.
+
+Mietniveaustufen
 
 Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder Zuschläge anzupassen:  
   
