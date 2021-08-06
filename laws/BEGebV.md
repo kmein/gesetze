@@ -729,7 +729,8 @@ DM</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">50 000
 
 # Anlage 4 – (zu § 2 Abs. 1 i. V. m. § 7 Abs. 3)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2008, 594 - 610)
+(Fundstelle: BGBl. I 2008, 594 - 610;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1. Die Gebührenbemessung für die Nummern 2.1 bis 2.4 und 2.6 bis 2.10 richtet sich nach den Baukosten und den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen.
 
@@ -951,7 +952,8 @@ Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">25 0
 
 # Anlage 5 – (zu § 2 Abs. 1 i. V. m. § 7 Abs. 4)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2008, 611 - 627)
+(Fundstelle: BGBl. I 2008, 611 - 627;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (weggefallen)
 
@@ -1175,7 +1177,8 @@ Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">25 0
 
 # Anlage 6 – (zu § 2 Abs. 1 i. V. m. § 7 Abs. 5)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2008, 628 - 644)
+(Fundstelle: BGBl. I 2008, 628 - 644;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (weggefallen)
 
