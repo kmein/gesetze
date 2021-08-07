@@ -19,17 +19,17 @@ Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der durch Arti
 
 # § 2 – Risikogruppen
 
-(1) Die Zuordnung der Versicherten zu den Risikogruppen nach § 266 Absatz 2 des Fünften Buches Sozialgesetzbuch erfolgt mittels eines vom Bundesamt für Soziale Sicherung festgelegten Versichertenklassifikationsmodells, das auf Klassifikationsmodellen aufbaut, deren Einsatzfähigkeit in der gesetzlichen Krankenversicherung wissenschaftlich untersucht und bestätigt worden ist. Der Zuordnung der Versicherten zu Risikogruppen sind folgende Risikomerkmale zu Grunde zu legen:
+(1) Die Zuordnung der Versicherten zu den Risikogruppen nach § 266 Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch erfolgt mittels eines vom Bundesamt für Soziale Sicherung festgelegten Versichertenklassifikationsmodells, das auf Klassifikationsmodellen aufbaut, deren Einsatzfähigkeit in der gesetzlichen Krankenversicherung wissenschaftlich untersucht und bestätigt worden ist. Der Zuordnung der Versicherten zu Risikogruppen sind folgende Risikomerkmale zu Grunde zu legen:
 
 1. das Alter und das Geschlecht der Versicherten,
 
 2. die Morbidität der Versicherten auf der Grundlage von Diagnosen und Arzneimittelwirkstoffen,
 
-3. das Vorliegen eines Anspruchs auf Krankengeld nach den §§ 44 und 45 des Fünften Buches Sozialgesetzbuch, differenziert nach Alter und Geschlecht,
+3. das Vorliegen eines Anspruchs auf Krankengeld nach § 44 des Fünften Buches Sozialgesetzbuch, differenziert nach Alter und Geschlecht,
 
-4. regionale Merkmale, die insbesondere die regionale Morbiditäts- und Mortalitätsstruktur, die demografische Struktur, die Sozialstruktur, die Markt- und Wirtschaftsstruktur oder die Siedlungsstruktur am Wohnort des Versicherten abbilden.
+4. regionale Merkmale, die insbesondere die regionale Morbiditäts- und Mortalitätsstruktur, die demografische Struktur, die Sozialstruktur, die Markt- und Wirtschaftsstruktur oder die Siedlungsstruktur am Wohnort des Versicherten abbilden,
 
-Im Einvernehmen mit dem Spitzenverband Bund der Krankenkassen kann das Bundesamt für Soziale Sicherung die Risikogruppen nach Satz 2 Nummer 3 abweichend abgrenzen.
+5. der Wohnsitz oder gewöhnliche Aufenthalt der Versicherten außerhalb des Gebiets der Bundesrepublik Deutschland während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres.
 
 (2) Die Altersabstände nach Absatz 1 Satz 2 betragen ein Jahr. Dabei sind Versicherte dem vollendeten Lebensjahr zuzuordnen, das sich aus der Differenz zwischen Erhebungs- und Geburtsjahr errechnet. Versicherte mit einem Alter unter einem Jahr sind dem Alter null und Versicherte mit einem Alter über 90 Jahre dem Alter 90 Jahre zuzuordnen.
 
@@ -111,7 +111,7 @@ Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch Mitteilung
 
 # § 7 – Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
 
-(1) Unter Berücksichtigung der Vorgabe nach § 266 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch ergeben sich aus § 267 Absatz 1 Satz 1 und Absatz 2 des Fünften Buches Sozialgesetzbuch die folgenden versichertenbezogenen Datenübermittlungen der Krankenkassen für jedes Kalenderjahr (Berichtsjahr):
+(1) Unter Berücksichtigung der Vorgabe nach § 266 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch ergeben sich aus § 267 Absatz 1 Satz 1 und Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch die folgenden versichertenbezogenen Datenübermittlungen der Krankenkassen für jedes Kalenderjahr (Berichtsjahr):
 
 1. die Versichertentage unter Angabe von Geburtsjahr und Geschlecht,
 
@@ -127,19 +127,29 @@ Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch Mitteilung
 
 7. die berücksichtigungsfähigen Leistungsausgaben nach § 4, mit Ausnahme der Aufwendungen nach § 4 Absatz 1 Satz 1 Nummer 10 und 11,
 
-8. die Anzahl der Versichertentage mit Wohnsitz oder gewöhnlichem Aufenthalt außerhalb des Gebietes der Bundesrepublik Deutschland,
+8. die Anzahl der Versichertentage mit Wohnsitz oder gewöhnlichem Aufenthalt außerhalb des Gebietes der Bundesrepublik Deutschland einschließlich des Länderkennzeichens,
 
 9. die Anzahl der Versichertentage mit Wahl der Kostenerstattung für den Bereich der ärztlichen Versorgung, differenziert nach § 13 Absatz 2 des Fünften Buches Sozialgesetzbuch und § 53 Absatz 4 des Fünften Buches Sozialgesetzbuch,
 
 10. die Anzahl der Versichertentage mit Anspruch auf Krankengeld nach den §§ 44 und 45 des Fünften Buches Sozialgesetzbuch,
 
-11. der amtliche Gemeindeschlüssel des Wohnorts.
+11. der amtliche Gemeindeschlüssel des Wohnorts,
 
-Für die zeitliche Zuordnung der Angaben nach Satz 1 Nummer 4 ist das Verordnungsdatum, für die Zuordnung der Angaben nach Satz 1 Nummer 5 der Tag der Entlassung maßgeblich. Bei den Angaben nach Satz 1 Nummer 7 sind die Ausgaben für Arzneimittel einschließlich der Erstattungsbeträge nach § 130b des Fünften Buches Sozialgesetzbuch und der Rabatte und Abschläge nach den §§ 130, 130a und 130c des Fünften Buches Sozialgesetzbuch zu übermitteln. Satz 3 gilt nicht für die Übermittlung nach § 303b Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch. Bei der Verarbeitung der Daten nach Satz 3 stellen der Spitzenverband Bund der Krankenkassen und das Bundesamt für Soziale Sicherung sicher, dass Dritte keine Kenntnis erlangen können und die Verarbeitung nur für die Durchführung des Risikostrukturausgleichs sowie für die Durchführung der Aufgaben nach § 217f Absatz 7 des Fünften Buches Sozialgesetzbuch erfolgt. Für den Zweck der Datenverarbeitung nach § 217f Absatz 7 des Fünften Buches Sozialgesetzbuch übermitteln die Krankenkassen ergänzend zu den Angaben nach Satz 3 anonymisiert je Versicherten die Angaben nach Satz 1 Nummer 7 ohne Berücksichtigung der Beträge nach Satz 3 sowie nicht versichertenbezogen die Beträge nach Satz 3 an den Spitzenverband Bund der Krankenkassen, der sicherstellt, dass diese ohne Krankenkassenbezug verarbeitet werden.
+12. die beitragspflichtigen Einnahmen aus nichtselbständiger Tätigkeit gemäß der Jahresarbeitsentgeltmeldung nach § 28a Absatz 3 Satz 2 Nummer 2 Buchstabe b des Vierten Buches Sozialgesetzbuch sowie der Zeitraum, in dem diese Einnahmen erzielt wurden,
+
+13. die beitragspflichtigen Einnahmen aus selbständiger Tätigkeit sowie der Zeitraum, in dem diese Einnahmen erzielt wurden,
+
+14. die beitragspflichtigen Einnahmen aus selbständiger Tätigkeit von Künstlern und Publizisten nach § 95c Absatz 2 Nummer 2 des Vierten Buches Sozialgesetzbuch sowie der Zeitraum, in dem diese Einnahmen erzielt wurden,
+
+15. die beitragspflichtigen Einnahmen aus dem Bezug von Arbeitslosengeld nach § 136 des Dritten Buches Sozialgesetzbuch sowie die jeweiligen Bezugstage und
+
+16. die Leistungsausgaben für Krankengeld nach § 44 sowie das Datum des Beginns und des Endes des Krankengeldbezugs.
+
+Für die zeitliche Zuordnung der Angaben nach Satz 1 Nummer 4 ist das Verordnungsdatum, für die Zuordnung der Angaben nach Satz 1 Nummer 5 der Tag der Entlassung maßgeblich. Bei den Angaben nach Satz 1 Nummer 7 sind die Ausgaben für Arzneimittel einschließlich der Erstattungsbeträge nach § 130b des Fünften Buches Sozialgesetzbuch und der Rabatte und Abschläge nach den §§ 130, 130a und 130c des Fünften Buches Sozialgesetzbuch zu übermitteln. Satz 3 gilt nicht für die Übermittlung nach § 303b Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch. Bei der Verarbeitung der Daten nach Satz 3 stellen der Spitzenverband Bund der Krankenkassen und das Bundesamt für Soziale Sicherung sicher, dass Dritte keine Kenntnis erlangen können und die Verarbeitung nur für die Durchführung des Risikostrukturausgleichs sowie für die Durchführung der Aufgaben nach § 217f Absatz 7 des Fünften Buches Sozialgesetzbuch erfolgt. Für den Zweck der Datenverarbeitung nach § 217f Absatz 7 des Fünften Buches Sozialgesetzbuch übermitteln die Krankenkassen ergänzend zu den Angaben nach Satz 3 anonymisiert je Versicherten die Angaben nach Satz 1 Nummer 7 ohne Berücksichtigung der Beträge nach Satz 3 sowie nicht versichertenbezogen die Beträge nach Satz 3 an den Spitzenverband Bund der Krankenkassen, der sicherstellt, dass diese ohne Krankenkassenbezug verarbeitet werden. Bei den Angaben nach Satz 1 Nummer 8 ist das dem Versicherten in dem Berichtsjahr zuletzt zugeordnete Länderkennzeichen zu melden.
 
 (2) Das Bundesamt für Soziale Sicherung verarbeitet die Daten nach Absatz 1 Satz 1, soweit dies für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs, die Durchführung des Risikopools nach § 268 des Fünften Buches Sozialgesetzbuch und die Prüfung nach § 273 des Fünften Buches Sozialgesetzbuch erforderlich ist. Die Herstellung des Versichertenbezugs durch die Krankenkassen ist zulässig, soweit dies für die Prüfungen nach § 20 sowie zur Klärung doppelter Versicherungsverhältnisse nach Absatz 6 erforderlich ist. Für die Zwecke nach Satz 1 sind
 
-1. die Datenmeldungen nach § 267 Absatz 1 Satz 1 und Absatz 2 des Fünften Buches Sozialgesetzbuch,
+1. die Datenmeldungen nach § 267 Absatz 1 Satz 1 und Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 2 Satz 2 und Absatz 4, 5 Satz 1 des Fünften Buches Sozialgesetzbuch,
 
 2. die Korrekturmeldungen nach Absatz 4 Satz 2 einschließlich deren Dokumentation und
 
@@ -187,35 +197,33 @@ Werden dem Bundesamt für Soziale Sicherung Daten nicht termingerecht übermitte
 
 5. das Berechnungsverfahren zur Ermittlung der Risikozuschläge für das folgende Ausgleichsjahr
 
-nach Anhörung des Spitzenverbandes Bund der Krankenkassen bis zum 30. September fest und gibt diese in geeigneter Weise bekannt. Es berücksichtigt dabei die Empfehlungen des wissenschaftlichen Beirats nach Absatz 2 Nummer 1. Absatz 1 gilt entsprechend. Das Bundesamt für Soziale Sicherung legt die Anzahl der regionalen Merkmale, die in das Versichertenklassifikationsmodell nach § 2 Absatz 1 Satz 1 einbezogen werden, fest. Es wählt dabei insbesondere regionale Merkmale, die die Ausgabenstruktur der Regionen beeinflussen können. Regionale Merkmale, die sich auf die Angebotsstruktur beziehen, können dabei nicht ausgewählt werden. Für die Datengrundlage der regionalen Merkmale verwendet es öffentlich zugängliche, aktuelle, amtliche Daten und die Daten nach § 7 Absatz 1. Das Bundesamt für Soziale Sicherung kann im Berechnungsverfahren nach Satz 1 Nummer 5 nicht versichertenbezogen erfasste Leistungsausgaben der Krankenkassen gesondert berücksichtigen. Es kann nach Anhörung des Spitzenverbandes Bund der Krankenkassen die Festlegungen nach Satz 1 unterjährig anpassen, wenn die allgemein gültige Kodierung der Diagnosen, die Arzneimittelklassifikation oder das Gemeindeverzeichnis der statistischen Ämter des Bundes und der Länder aktualisiert wird. Die Anpassungen nach Satz 9 sind in geeigneter Weise bekannt zu geben. Die Datenmeldungen nach § 7 Absatz 1 für Versicherte im Sinne des Absatzes 5 Satz 1 bleiben beim Regressionsverfahren zur Ermittlung der Gewichtungsfaktoren und dem Berechnungsverfahren zur Ermittlung der Risikozuschläge nach Satz 1 unberücksichtigt. Das Bundesamt für Soziale Sicherung legt im Versichertenklassifikationsmodell das Verfahren der Umsetzung des § 266 Absatz 12 des Fünften Buches Sozialgesetzbuch im Jahresausgleich nach § 18 fest.
+nach Anhörung des Spitzenverbandes Bund der Krankenkassen bis zum 30. September fest und gibt diese in geeigneter Weise bekannt. Es berücksichtigt dabei die Empfehlungen des wissenschaftlichen Beirats nach Absatz 2 Nummer 1. Absatz 1 gilt entsprechend. Das Bundesamt für Soziale Sicherung legt die Anzahl der regionalen Merkmale, die in das Versichertenklassifikationsmodell einbezogen werden, fest. Es wählt dabei insbesondere regionale Merkmale, die die Ausgabenstruktur der Regionen beeinflussen können. Regionale Merkmale, die sich auf die Angebotsstruktur beziehen, können dabei nicht ausgewählt werden. Für die Datengrundlage der regionalen Merkmale verwendet es öffentlich zugängliche, aktuelle, amtliche Daten und die Daten nach § 267 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch. Das Bundesamt für Soziale Sicherung kann im Berechnungsverfahren nach Satz 1 Nummer 5 nicht versichertenbezogen erfasste Leistungsausgaben der Krankenkassen gesondert berücksichtigen. Es kann nach Anhörung des Spitzenverbandes Bund der Krankenkassen die Festlegungen nach Satz 1 unterjährig anpassen, wenn die allgemein gültige Kodierung der Diagnosen, die Arzneimittelklassifikation oder das Gemeindeverzeichnis der statistischen Ämter des Bundes und der Länder aktualisiert wird. Die Anpassungen nach Satz 9 sind in geeigneter Weise bekannt zu geben. Die Datenmeldungen nach § 7 Absatz 1 für Versicherte im Sinne des § 2 Absatz 1 Satz 2 Nummer 5 bleiben beim Regressionsverfahren zur Ermittlung der Gewichtungsfaktoren und dem Berechnungsverfahren zur Ermittlung der Risikozuschläge nach Satz 1 unberücksichtigt. Das Bundesamt für Soziale Sicherung legt im Versichertenklassifikationsmodell das Verfahren der Umsetzung des § 266 Absatz 12 des Fünften Buches Sozialgesetzbuch im Jahresausgleich nach § 18 fest.
 
-(5) Für Versicherte, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Gebietes der Bundesrepublik Deutschland hatten, sind gesonderte Risikogruppen nach Alter und Geschlecht zu bilden und Risikozuschläge anhand der durchschnittlichen Risikozuschläge für alle Versicherten der entsprechenden Alters- und Geschlechtsgruppen zu ermitteln. Bei Versicherten, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres Kostenerstattung für den Bereich der ärztlichen Versorgung nach § 13 Absatz 2 des Fünften Buches Sozialgesetzbuch oder § 53 Absatz 4 des Fünften Buches Sozialgesetzbuch gewählt haben, werden die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 durch eine gesonderte Risikogruppe ersetzt; das Regressionsverfahren zur Ermittlung der Gewichtungsfaktoren und das Berechnungsverfahren zur Ermittlung der Risikozuschläge nach Absatz 4 Satz 1 sind entsprechend anzuwenden. Im Einvernehmen mit dem Spitzenverband Bund der Krankenkassen kann das Bundesamt für Soziale Sicherung innerhalb der nach Satz 2 zu bildenden Risikogruppe weitere Differenzierungen vornehmen. Sofern Versicherte sowohl der Risikogruppe nach Satz 1 als auch der Risikogruppe nach Satz 2 zuzuordnen sind, ist die Risikogruppe nach Satz 1 maßgeblich. Als Leistungsausgaben für die Risikogruppen nach Satz 1 werden die von den Krankenkassen in der Jahresrechnung gebuchten Ausgaben für im Ausland erbrachte Leistungen zu Grunde gelegt; danach sind, entsprechend den Bestimmungen des Kontenrahmens, die Bereiche pauschalierter oder nach dem tatsächlichen Aufwand berechneter Erstattungen an ausländische Versicherungsträger sowie Erstattungen an Arbeitgeber nach § 17 des Fünften Buches Sozialgesetzbuch zu berücksichtigen. Der Spitzenverband Bund der Krankenkassen kann im Einvernehmen mit dem Bundesamt für Soziale Sicherung eine weitergehende oder abweichende Bestimmung der Bereiche, die Aufwendungen für Leistungen im Ausland betreffen, treffen.
+(5) Bei Versicherten, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres Kostenerstattung für den Bereich der ärztlichen Versorgung nach § 13 Absatz 2 des Fünften Buches Sozialgesetzbuch oder § 53 Absatz 4 des Fünften Buches Sozialgesetzbuch gewählt haben, werden die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 durch eine gesonderte Risikogruppe ersetzt; das Regressionsverfahren zur Ermittlung der Gewichtungsfaktoren und das Berechnungsverfahren zur Ermittlung der Risikozuschläge nach Absatz 4 Satz 1 sind entsprechend anzuwenden. Im Einvernehmen mit dem Spitzenverband Bund der Krankenkassen kann das Bundesamt für Soziale Sicherung innerhalb der nach Satz 2 zu bildenden Risikogruppe weitere Differenzierungen vornehmen. Sofern Versicherte sowohl der Risikogruppe nach § 2 Absatz 1 Satz 2 Nummer 5 als auch der Risikogruppe nach Satz 1 zuzuordnen sind, ist die Risikogruppe nach § 2 Absatz 1 Satz 2 Nummer 5 maßgeblich.
+
+(6) Das Bundesamt für Soziale Sicherung kann ab dem Ausgleichsjahr 2023 im Versichertenklassifikationsmodell bei den Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 5 länderübergreifende Risikogruppen bilden. Als abgerechnete Rechnungsbeträge eines Jahres nach § 269 Absatz 3 Satz 2 Nummer 2 des Fünften Buches Sozialgesetzbuch sind die im jeweiligen Berichtsjahr beim Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, eingegangenen Rechnungsbeträge zu berücksichtigen.
 
 # § 9 – Datenmeldungen für den monatlichen Ausgleich
 
-Die Krankenkassen übermitteln nach Maßgabe des Satzes 2 für den monatlichen Ausgleich nach § 16 Absatz 3 versichertenbezogen die Versicherungszeiten der Versicherten für die Zeiträume
+Die Krankenkassen übermitteln nach Maßgabe des Satzes 2 für den monatlichen Ausgleich nach § 16 Absatz 3 versichertenbezogen die Versicherungszeiten der Versicherten einschließlich des amtlichen Gemeindeschlüssels ihres Wohnorts für die Zeiträume
 
 1. Januar bis Juni und
 
 2. Januar bis Dezember
 
-(Berichtszeiträume). Die Krankenkassen legen die Versicherungszeiten nach Satz 1 für den Berichtszeitraum nach Satz 1 Nummer 1 bis zum 31. August des Berichtsjahres und für den Berichtszeitraum nach Satz 1 Nummer 2 bis zum 28. Februar des dem Berichtsjahr folgenden Jahres dem Bundesamt für Soziale Sicherung über den Spitzenverband Bund der Krankenkassen maschinenlesbar vor. § 7 Absatz 4 Satz 3 gilt entsprechend.
+(Berichtszeiträume). Die Krankenkassen legen die Daten nach Satz 1 für den Berichtszeitraum nach Satz 1 Nummer 1 bis zum 31. August des Berichtsjahres und für den Berichtszeitraum nach Satz 1 Nummer 2 bis zum 28. Februar des dem Berichtsjahr folgenden Jahres dem Bundesamt für Soziale Sicherung über den Spitzenverband Bund der Krankenkassen maschinenlesbar vor. Der Spitzenverband Bund der Krankenkassen bestimmt im Einvernehmen mit dem Bundesamt für Soziale Sicherung das Nähere zum Verfahren der Übermittlung und der zeitlichen Zuordnung der Daten nach Satz 1. § 7 Absatz 4 Satz 3 gilt entsprechend.
 
-# § 10 – Folgegutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte
+# § 10 – Gutachten des Wissenschaftlichen Beirates zu Zuweisungen für das Krankengeld
 
-(1) Das Bundesamt für Soziale Sicherung beauftragt Personen oder Personengruppen, die über besonderen Sachverstand in Bezug auf die Versichertenklassifikation nach § 8 Absatz 4 verfügen, mit der Erstellung von wissenschaftlichen Folgegutachten nach § 269 Absatz 3a des Fünften Buches Sozialgesetzbuch.
+Auf Grundlage der Daten nach § 7 Absatz 1 überprüft der Wissenschaftliche Beirat in seiner ersten Untersuchung nach § 266 Absatz 10 Satz 1 des Fünften Buches Sozialgesetzbuch Modelle zur Ermittlung der Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3. Dabei sind insbesondere Modelle zu überprüfen, bei denen die Zuweisungen nach Satz 1 ermittelt werden auf der Grundlage von
 
-(2) In den Gutachten nach Absatz 1 sollen insbesondere die in den Gutachten nach § 33 Absatz 2 in der am 31. März 2020 geltenden Fassung entwickelten Modelle zur zielgerichteteren Ermittlung der Zuweisungen zur Deckung der Aufwendungen für Krankengeld und zur Deckung der Aufwendungen für Versicherte, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Gebietes der Bundesrepublik Deutschland hatten (Auslandsversicherte), auf Basis von Daten aller am Risikostrukturausgleich teilnehmenden Krankenkassen überprüft und zur Umsetzungsreife weiterentwickelt werden. Die Vorgaben des § 266 Absatz 4 Satz 1 und Absatz 5 des Fünften Buches Sozialgesetzbuch sind bei der Überprüfung und Weiterentwicklung der Modelle zu beachten.
+1. standardisierten Krankengeldbezugszeiten und versichertenindividuell geschätzten Krankengeldzahlbeträgen sowie
 
-(3) Im Folgegutachten nach § 269 Absatz 3b des Fünften Buches Sozialgesetzbuch sollen insbesondere die im Gutachten nach § 33 Absatz 3 in der am 31. März 2020 geltenden Fassung enthaltenen Modelle überprüft und weiterentwickelt werden, bei denen die Zuweisungen für Versicherte mit Krankengeldanspruch nach § 44 des Fünften Buches Sozialgesetzbuch auf Grundlage standardisierter Krankengeldbezugszeiten und versichertenindividuell geschätzter Krankengeldzahlbeträge ermittelt werden; bei der Standardisierung der Krankengeldbezugszeiten sind Morbiditätskriterien einzubeziehen. Darüber hinaus ist zu überprüfen, ob und inwieweit die Einbeziehung von weiteren Angaben gemäß § 269 Absatz 3b Satz 2 des Fünften Buches Sozialgesetzbuch in das Modell umsetzbar ist, ob dies zu einer Verbesserung der Zielgenauigkeit des Modells führt und ob ergänzend eine Regelung entsprechend § 18 Absatz 1 Satz 3 oder einer alternativen anteiligen Berücksichtigung der tatsächlichen Aufwendungen der Krankenkassen für das Krankengeld nach § 44 des Fünften Buches Sozialgesetzbuch erforderlich ist. Zudem ist ein gesondertes Modell zu entwickeln, in dem für jede Krankenkasse die Zuweisungen für die Aufwendungen für das Krankengeld nach § 45 des Fünften Buches Sozialgesetzbuch auf Grundlage der diesbezüglich tatsächlichen Aufwendungen der Krankenkasse zu ermitteln sind.
-
-(4) Im Folgegutachten nach § 269 Absatz 3c des Fünften Buches Sozialgesetzbuch sollen Modelle zur landesspezifischen Differenzierung der Zuweisungen für Auslandsversicherte auf Grundlage der Erkenntnisse des Gutachtens nach § 33 Absatz 4 in der am 31. März 2020 geltenden Fassung geprüft und weiterentwickelt werden. Darüber hinaus ist zu überprüfen, ob und in welcher Form eine ergänzende Regelung entsprechend der Regelung in § 18 Absatz 1 Satz 2 erforderlich ist. Außerdem ist unter Beachtung von Absatz 2 Satz 2 zu prüfen, ob und wie alternativ ein Verfahren ausgestaltet werden kann, in dem die Zuweisungen für Auslandsversicherte für jede Krankenkasse auf der Grundlage der tatsächlichen Aufwendungen der Krankenkasse für diese Versicherten ermittelt werden.
-
-(5) Die Gutachten nach den Absätzen 3 und 4 sind dem Bundesamt für Soziale Sicherung jeweils bis zum 31. Dezember 2019 zu erstatten.
+2. standardisierten Krankengeldleistungsausgaben.
 
 # § 11 – Zuweisungen für das Krankengeld
 
-Für die Zuweisungen für das Krankengeld gelten die §§ 5 bis 7 und 10 in der am 31. März 2020 geltenden Fassung weiter.
+Für die Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3 gelten die §§ 5 bis 7 und 10 in der am 31. März 2020 geltenden Fassung weiter.
 
 # § 12 – Ermittlung der Höhe der Grundpauschale
 
@@ -335,7 +343,7 @@ die vorläufige Höhe der Zuweisungen nach Absatz 2 neu unter Berücksichtigung 
 
 3. die Werte nach § 13 Absatz 3 Satz 2 Nummer 2
 
-neu. Die Summe der Risikozuschläge nach § 8 Absatz 5 Satz 1 ist auf die Summe der Leistungsausgaben nach § 8 Absatz 5 Satz 5 und 6 zu begrenzen. Die Hälfte der Zuweisungen für die Versichertengruppen nach § 2 Absatz 1 Satz 2 Nummer 3 ist für jede Krankenkasse auf der Grundlage der Aufwendungen der Krankenkasse für Krankengeld zu ermitteln. Bei der Ermittlung der Risikozuschläge für die in § 2 Absatz 1 Satz 2 Nummer 2 genannten Risikomerkmale im Jahresausgleich sind nach Maßgabe des § 19 die Risikogruppen mit den höchsten Steigerungsraten der Versichertentage, die den Risikogruppen zugeordnet sind, auszuschließen. Bei der Ermittlung nach Satz 1 Nummer 1 sind die Leistungsausgaben, die im Risikopool ausgeglichen werden, nicht bei der Ermittlung der standardisierten Leistungsausgaben nach § 266 Absatz 3 des Fünften Buches Sozialgesetzbuch zu berücksichtigen.
+neu. Die Hälfte der Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3 ist für jede Krankenkasse auf der Grundlage der Leistungsausgaben der Krankenkasse für Krankengeld nach § 44 des Fünften Buches Sozialgesetzbuch zu ermitteln. Die Leistungsausgaben der Krankenkassen für Krankengeld nach § 45 des Fünften Buches Sozialgesetzbuch sind im Jahresausgleich vollständig auszugleichen. Bei der Ermittlung der Risikozuschläge für die in § 2 Absatz 1 Satz 2 Nummer 2 genannten Risikomerkmale im Jahresausgleich sind nach Maßgabe des § 19 die Risikogruppen mit den höchsten Steigerungsraten der Versichertentage, die den Risikogruppen zugeordnet sind, auszuschließen. Bei der Ermittlung nach Satz 1 Nummer 1 sind die Leistungsausgaben, die im Risikopool und nach Satz 3 ausgeglichen werden, nicht bei der Ermittlung der standardisierten Leistungsausgaben nach § 266 Absatz 3 des Fünften Buches Sozialgesetzbuch zu berücksichtigen.
 
 (2) Das Bundesamt für Soziale Sicherung ermittelt für jede Krankenkasse den Betrag, um den die Zuweisungen für jede Krankenkasse im Jahresausgleich nach Absatz 3 zu verändern sind, indem es von dem Wert nach § 17 Absatz 2
 
@@ -343,7 +351,7 @@ neu. Die Summe der Risikozuschläge nach § 8 Absatz 5 Satz 1 ist auf die Summe 
 
 2. die Höhe der standardisierten sonstigen Ausgaben nach § 270 Absatz 1 des Fünften Buches Sozialgesetzbuch und
 
-3. die Höhe der Zuweisungen nach § 270 Absatz 4 des Fünften Buches Sozialgesetzbuch und der Ausgleichsbeträge über den Risikopool nach § 268 des Fünften Buches Sozialgesetzbuch
+3. die Höhe der Zuweisungen nach § 270 Absatz 4 des Fünften Buches Sozialgesetzbuch und der Ausgleichsbeträge nach den §§ 268 und 269 Absatz 2 des Fünften Buches Sozialgesetzbuch
 
 abzieht und das Ergebnis durch die jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen teilt und für jede Krankenkasse mit der jahresdurchschnittlichen Zahl ihrer Mitglieder vervielfacht.
 
@@ -357,7 +365,7 @@ abzieht und das Ergebnis durch die jahresdurchschnittliche Zahl der Mitglieder a
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die nach § 18 Absatz 1 Satz 4 auszuschließenden Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 durch das Verfahren nach den Absätzen 2 bis 5. Es gibt die dem Ausschlussverfahren zugrunde liegenden Werte zum Jahresausgleich bekannt.
 
-(2) Das Bundesamt für Soziale Sicherung ermittelt die den Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 zugeordneten Versichertentage (Risikogruppenbesetzung) sowie die Zu- und Abschläge nach Absatz 1 Satz 1 Nummer 1 unter Außerachtlassung von § 18 Absatz 1 Satz 4.
+(2) Das Bundesamt für Soziale Sicherung ermittelt die den Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 zugeordneten Versichertentage (Risikogruppenbesetzung) sowie die Zu- und Abschläge nach § 18 Absatz 1 Satz 1 Nummer 1 unter Außerachtlassung von § 18 Absatz 1 Satz 4.
 
 (3) Es ermittelt die Risikogruppenbesetzung, die sich auf Grundlage der Daten ergibt, die den Festlegungen nach § 8 Absatz 4 Satz 1 für das Ausgleichsjahr des Jahresausgleichs zugrunde lagen.
 
@@ -375,7 +383,7 @@ abzieht und das Ergebnis durch die jahresdurchschnittliche Zahl der Mitglieder a
 
 1. die Angaben nach § 7 Absatz 1 Satz 1 Nummer 1, 10 und 11 aus der Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 3 und die Daten nach § 15 Absatz 6 Satz 1,
 
-2. die Angaben nach § 7 Absatz 1 Satz 1 Nummer 3 bis 6 mit Ausnahme des Arztgruppenschlüssels aus der Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 1 und die Angaben nach § 7 Absatz 1 Satz 1 Nummer 8 und 9 aus der Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 3.
+2. die Angaben nach § 7 Absatz 1 Satz 1 Nummer 3 bis 6 aus der Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 1 und die Angaben nach § 7 Absatz 1 Satz 1 Nummer 8 und 9 aus der Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 3.
 
 Die Stellen nach Satz 1 haben jährlich die Datenmeldung nach § 7 Absatz 4 Satz 2 Nummer 2 für Versicherte nach § 14 Absatz 2 Satz 1 des jeweiligen Berichtsjahres auf ihre Richtigkeit zu prüfen. Die Stellen nach Satz 1 legen im Einvernehmen mit dem Bundesamt für Soziale Sicherung die Prüfabstände nach Satz 1 fest.
 
@@ -504,6 +512,12 @@ Satz 1 gilt für sonstige Verträge mit Leistungserbringern zur Durchführung vo
 2. nicht die Angaben nach § 7 Absatz 1 Satz 1 Nummer 11 und § 15 Absatz 6 Satz 1 Nummer 2
 
 zu prüfen. Die Prüfung nach § 20 Absatz 1 Satz 2 ist für die Ausgleichsjahre 2019 und 2020 nicht durchzuführen.
+
+(3) Für die Ausgleichsjahre 2020 bis 2022 gelten nach Maßgabe des § 269 Absatz 6 des Fünften Buches Sozialgesetzbuch § 8 Absatz 5 Satz 1, 5 und 6 und § 18 Absatz 1 Satz 2 in der bis zum 19. Juli 2021 geltenden Fassung.
+
+(4) Der Zuordnung der Versicherten zu Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3 ist nach Maßgabe des § 269 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch für das Ausgleichsjahr 2020 das Vorliegen eines Anspruchs auf Krankengeld nach den §§ 44 und 45 des Fünften Buches Sozialgesetzbuch, differenziert nach Alter und Geschlecht sowie Minderung der Erwerbsfähigkeit zu Grunde zu legen. Bei der Zuordnung nach Satz 1 gilt § 18 Absatz 1 Satz 3 in der bis zum 19. Juli 2021 geltenden Fassung.
+
+(5) Zur Umsetzung der Vorgaben nach § 269 Absatz 2 des Fünften Buches Sozialgesetzbuch und nach § 18 Absatz 1 Satz 3 passt das Bundesamt für Soziale Sicherung unterjährig die Festlegungen nach § 8 Absatz 4 Satz 1 für das Ausgleichsjahr 2021 an.
 
 # Schlußformel
 

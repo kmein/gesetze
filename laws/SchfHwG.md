@@ -63,7 +63,7 @@ In einem Betrieb nach Satz 2 beschäftigte Personen dürfen auch ohne Begleitung
 
 1. Name und Anschrift des Betriebs,
 
-2. Vor- und Familienname sowie Geburtsdatum des Betriebsleiters oder der Betriebsleiterin,
+2. Vor- und Familienname des Betriebsleiters oder der Betriebsleiterin,
 
 3. Handwerkskammer, bei der der Inhaber oder die Inhaberin des Betriebs mit dem Schornsteinfegerhandwerk in die Handwerksrolle eingetragen ist, oder Behörde, bei der die Erbringung von Dienstleistungen angezeigt wurde,
 
@@ -363,7 +363,7 @@ Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten B
 
 (1) Die bevollmächtigten Bezirksschornsteinfeger unterstehen der Aufsicht der zuständigen Behörde. Die zuständige Behörde kann die bevollmächtigten Bezirksschornsteinfeger hinsichtlich der Wahrnehmung der ihnen übertragenen Aufgaben und Befugnisse und der Einhaltung ihrer Pflichten jederzeit überprüfen. Wenn bei der Überprüfung wesentliche Pflichtverletzungen festgestellt werden, tragen die jeweiligen bevollmächtigten Bezirksschornsteinfeger die Kosten der Überprüfung.
 
-(2) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde auf deren Anforderung das Kehrbuch und die für die Führung des Kehrbuchs erforderlichen Unterlagen kostenfrei zur Überprüfung vorzulegen. Er hat diese Dokumente nach Wahl der zuständigen Behörde in elektronischer Form sowie maschinell verwertbar und lesbar zu übermitteln oder Abschriften vorzulegen, soweit die vorzulegenden Dokumente in elektronischer Form geführt werden.
+(2) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde auf deren Anforderung das Kehrbuch und die für die Führung des Kehrbuchs erforderlichen Unterlagen kostenfrei zur Überprüfung vorzulegen. Er hat diese Dokumente nach Wahl der zuständigen Behörde in elektronischer Form sowie maschinell verwertbar und lesbar zu übermitteln oder Abschriften vorzulegen, soweit die vorzulegenden Dokumente in elektronischer Form geführt werden. Die vom bevollmächtigten Bezirksschornsteinfeger an die zuständige Behörde nach Satz 1 in Verbindung mit Satz 2 vorgelegten oder übermittelten Daten sind nur zum Zweck der Aufsicht von der zuständigen Behörde zu nutzen.
 
 (3) Wenn bevollmächtigte Bezirksschornsteinfeger die ihnen nach diesem Gesetz obliegenden Aufgaben und Pflichten nicht oder nicht ordnungsgemäß erfüllen, kann die zuständige Behörde als Aufsichtsmaßnahme insbesondere einen Verweis aussprechen oder ein Warnungsgeld von bis zu zwanzigtausend Euro verhängen.
 

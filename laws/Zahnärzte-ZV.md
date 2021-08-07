@@ -205,7 +205,9 @@ c) gegebenenfalls eine Erklärung nach § 19a Abs. 2 Satz 1, mit der der aus der
 
 4. eine Erklärung über im Zeitpunkt der Antragstellung bestehende Dienst- oder Beschäftigungsverhältnisse unter Angabe des frühestmöglichen Endes des Beschäftigungsverhältnisses,
 
-5. eine Erklärung des Zahnarztes, ob er drogen- oder alkoholabhängig ist oder innerhalb der letzten fünf Jahre gewesen ist, ob er sich innerhalb der letzten fünf Jahre einer Entziehungskur wegen Drogen- oder Alkoholabhängigkeit unterzogen hat und dass gesetzliche Hinderungsgründe der Ausübung des zahnärztlichen Berufs nicht entgegenstehen.
+5. eine Erklärung des Zahnarztes, ob er drogen- oder alkoholabhängig ist oder innerhalb der letzten fünf Jahre gewesen ist, ob er sich innerhalb der letzten fünf Jahre einer Entziehungskur wegen Drogen- oder Alkoholabhängigkeit unterzogen hat und dass gesetzliche Hinderungsgründe der Ausübung des zahnärztlichen Berufs nicht entgegenstehen,
+
+6. eine Versicherungsbescheinigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes, aus der sich das Bestehen eines ausreichenden Berufshaftpflichtversicherungsschutzes ergibt.
 
 (3) An Stelle von Urschriften können amtlich beglaubigte Abschriften beigefügt werden.
 
@@ -271,17 +273,23 @@ Es ist nicht erforderlich, dass die an weiteren Orten angebotenen Leistungen in 
 
 # § 26
 
-(1) Der Zulassungsausschuß hat das vollständige oder hälftige Ruhen der Zulassung eines Vertragszahnarztes zu beschließen, wenn die Voraussetzungen des § 95 Abs. 5 des Fünften Buches Sozialgesetzbuch erfüllt sind, und Gründe der Sicherstellung der vertragszahnärztlichen Versorgung nicht entgegenstehen.
+(1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung eines Vertragszahnarztes zu beschließen, wenn
+
+1. die Voraussetzungen des § 95 Absatz 5 des Fünften Buches Sozialgesetzbuch erfüllt sind und Gründe der Sicherstellung der vertragzahnsärztlichen Versorgung nicht entgegenstehen oder
+
+2. die Voraussetzungen des § 95e Absatz 4 des Fünften Buches Sozialgesetzbuch erfüllt sind.
+
+In den Fällen des Satzes 1 Nummer 1 kann auch das Ruhen der Hälfte der Zulassung angeordnet werden. In dem Beschluss nach Satz 1 Nummer 2 ist der Zeitpunkt des Ablaufs der Frist nach § 95e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch festzusetzen.
 
 (2) Tatsachen, die das Ruhen der Zulassung bedingen können, haben der Vertragszahnarzt, die Kassenzahnärztliche Vereinigung, die Krankenkassen und die Landesverbände der Krankenkassen dem Zulassungsausschuß mitzuteilen.
 
-(3) In dem Beschluß ist die Ruhenszeit festzusetzen.
+(3) In dem Beschluss nach Absatz 1 Satz 1 Nummer 1 und Satz 2 ist die Ruhenszeit festzusetzen.
 
 (4) Über die ruhenden Zulassungen führt die Kassenzahnärztliche Vereinigung (Registerstelle) ein besonderes Verzeichnis.
 
 # § 27
 
-Der Zulassungsausschuß hat von Amts wegen über die vollständige oder hälftige Entziehung der Zulassung zu beschließen, wenn die Voraussetzungen nach § 95 Abs. 6 des Fünften Buches Sozialgesetzbuch gegeben sind. Die Kassenzahnärztliche Vereinigung und die Landesverbände der Krankenkassen sowie die Ersatzkassen können die Entziehung der Zulassung beim Zulassungsausschuß unter Angabe der Gründe beantragen.
+Der Zulassungsausschuß hat von Amts wegen über die vollständige oder hälftige Entziehung der Zulassung zu beschließen, wenn die Voraussetzungen nach § 95 Abs. 6 des Fünften Buches Sozialgesetzbuch gegeben sind. Er beschließt auch von Amts wegen über die vollständige Entziehung der Zulassung, wenn die Voraussetzungen nach § 95e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch gegeben sind. Die Kassenzahnärztliche Vereinigung und die Landesverbände der Krankenkassen sowie die Ersatzkassen können die Entziehung der Zulassung beim Zulassungsausschuß unter Angabe der Gründe beantragen.
 
 # § 28
 
@@ -307,11 +315,11 @@ Der Zulassungsausschuß hat von Amts wegen über die vollständige oder hälftig
 
 (5) Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen haben im Bundesmantelvertrag Regelungen über die Ermächtigung von Zahnärzten zu treffen, die als Staatsangehörige eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, den zahnärztlichen Beruf im Inland zur vorübergehenden Erbringung von Dienstleistungen im Sinne des Artikels 50 des Vertrages zur Gründung der Europäischen Gemeinschaft oder des Artikels 37 des Abkommens über den Europäischen Wirtschaftsraum ausüben dürfen.
 
-(6) Der Antrag auf Ermächtigung ist schriftlich an den Zulassungsausschuß zu richten. Ihm sind die Approbationsurkunde sowie die in § 18 Absatz 2 Nummer 5 genannten Erklärungen beizufügen. § 18 Abs. 3 gilt entsprechend.
+(6) Der Antrag auf Ermächtigung ist schriftlich an den Zulassungsausschuß zu richten. Ihm sind die Approbationsurkunde sowie die in § 18 Absatz 2 Nummer 5 und 6 genannten Erklärungen und Bescheinigungen beizufügen. § 18 Abs. 3 gilt entsprechend.
 
 (7) Die Ermächtigung ist zeitlich, räumlich und ihrem Umfang nach zu bestimmen. Im Ermächtigungsbeschluß ist auch auszusprechen, ob der ermächtigte Zahnarzt unmittelbar oder auf Überweisung in Anspruch genommen werden kann.
 
-(8) Ein Zahnarzt darf nicht ermächtigt werden, wenn die in § 21 genannten Gründe ihn für die Teilnahme an der vertragszahnärztlichen Versorgung ungeeignet erscheinen lassen. Die Ermächtigung ist zurückzunehmen, wenn nachträglich bekannt wird, daß bei ihrer Erteilung Versagungsgründe im Sinne des Satzes 1 vorgelegen haben. Sie ist zu widerrufen, wenn nachträglich durch einen in der Person des Zahnarztes liegenden Grund der mit der Ermächtigung verfolgte Zweck nicht erreicht wird. Die Sätze 1 bis 3 gelten entsprechend, wenn zahnärztlich geleitete Einrichtungen ermächtigt werden.
+(8) Ein Zahnarzt darf nicht ermächtigt werden, wenn die in § 21 genannten Gründe ihn für die Teilnahme an der vertragszahnärztlichen Versorgung ungeeignet erscheinen lassen. Die Ermächtigung ist zurückzunehmen, wenn nachträglich bekannt wird, daß bei ihrer Erteilung Versagungsgründe im Sinne des Satzes 1 vorgelegen haben. Sie ist zu widerrufen, wenn nachträglich durch einen in der Person des Zahnarztes liegenden Grund der mit der Ermächtigung verfolgte Zweck nicht erreicht wird oder die Voraussetzungen des § 95e Absatz 5 in Verbindung mit Absatz 4 des Fünften Buches Sozialgesetzbuch erfüllt sind. Die Sätze 1 bis 3 gelten entsprechend, wenn zahnärztlich geleitete Einrichtungen ermächtigt werden.
 
 (9) (weggefallen)
 
@@ -401,15 +409,29 @@ Der ermächtigte Zahnarzt hat die in dem Ermächtigungsbeschluß bestimmte vertr
 
 # § 36
 
-(1) Der Zulassungsausschuß beschließt in Sitzungen. Zu den Sitzungen lädt der Vorsitzende unter Angabe der Tagesordnung ein.
+(1) Der Zulassungsausschuß beschließt in Sitzungen. Sitzungen sind im Regelfall als Präsenzsitzungen bei persönlicher Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer durchzuführen; unter den Voraussetzungen der Absätze 3 und 4 können sie mittels Videotechnik durchgeführt werden. Zu den Sitzungen lädt der Vorsitzende unter Angabe der Tagesordnung ein.
 
-(2) In den Fällen des § 140f Abs. 3 des Fünften Buches Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter unter Einhaltung einer Frist von zwei Wochen unter Angabe der Tagesordnung zu laden.
+(2) In den Fällen des § 140f Abs. 3 des Fünften Buches Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter und in den Fällen des § 96 Absatz 2a des Fünften Buches Sozialgesetzbuch ist die für die Sozialversicherung zuständige oberste Landesbehörde zur Wahrnehmung ihres Mitberatungsrechts unter Einhaltung einer Frist von zwei Wochen unter Angabe der Tagesordnung zu laden. Soll die Wahrnehmung des Mitberatungsrechts im Rahmen einer Sitzung mittels Videotechnik nach Absatz 4 erfolgen, sind sie in der Ladung oder im Fall einer späteren Entscheidung für diese Sitzungsform unverzüglich über den Ablauf und die technischen Voraussetzungen zu informieren.
+
+(3) Abweichend von Absatz 1 kann eine Sitzung aus Gründen des Gesundheitsschutzes oder aus anderen gewichtigen Gründen auch ohne die persönliche Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer mittels Videotechnik durchgeführt werden. Hierüber entscheidet der Zulassungsausschuss nach pflichtgemäßem Ermessen. Dabei entscheidet er auch, ob die Sitzung durchgeführt werden soll
+
+1. als kombinierte Präsenz- und Videositzung, an der sowohl Personen im Sitzungszimmer als auch mittels Videotechnik zugeschaltete Personen teilnehmen, oder
+
+2. als Videokonferenz, an der nur mittels Videotechnik zugeschaltete Personen teilnehmen.
+
+Die Entscheidung kann nur einstimmig getroffen werden. Der Zulassungsausschuss kann die Entscheidung ohne Präsenzsitzung in einer Video- oder Telefonkonferenz treffen. Die Gründe nach Satz 1 und die Bestätigung der Einstimmigkeit der Beschlussfassung durch den Vorsitzenden sind schriftlich zu dokumentieren und der Niederschrift nach § 42 beizufügen. Die Entscheidung nach den Sätzen 2 und 3 ist nicht isoliert anfechtbar. Wird eine Sitzung mittels Videotechnik durchgeführt, so ist sie über die gesamte Sitzungsdauer zeitgleich in Bild und Ton an alle Orte, an denen sich die Mitglieder oder Beteiligten aufhalten, zu übertragen. Es ist sicherzustellen, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung der Übertragung ist unzulässig.
+
+(4) Hat der Zulassungsausschuss gemäß Absatz 3 Satz 2 entschieden, eine Sitzung, bei der die Patientenvertreterinnen und -vertreter oder die für die Sozialversicherung zuständige oberste Landesbehörde ein Mitberatungsrecht haben, mittels Videotechnik durchzuführen, so können diese ihr Mitberatungsrecht wahrnehmen, indem sie mittels Videotechnik an der Sitzung teilnehmen.
+
+§ 36 Abs. 2 Satz 1 Kursivdruck: IdF d. Art. 13 Nr. 4a Buchst. b DBuchst. aa G v. 11.7.2021 I 2754 mWv 20.7.2021 (bezeichnet als Abs. 2 Satz 2; die Änderung wurde sinngemäß konsolidiert)
 
 # § 37
 
-(1) Über Zulassungen und über die Entziehung von Zulassungen beschließt der Zulassungsausschuß nach mündlicher Verhandlung. In allen anderen Fällen kann der Zulassungsausschuß eine mündliche Verhandlung anberaumen.
+(1) Über Zulassungen und über die Entziehung von Zulassungen beschließt der Zulassungsausschuß nach mündlicher Verhandlung. In allen anderen Fällen kann der Zulassungsausschuß eine mündliche Verhandlung anberaumen. Hat der Zulassungsausschuss gemäß § 36 Absatz 3 Satz 2 entschieden, eine Sitzung mittels Videotechnik durchzuführen, gilt für die im Rahmen dieser Sitzung durchgeführten mündlichen Verhandlungen § 36 Absatz 3 Satz 8 bis 10 entsprechend. Widerspricht ein am Verfahren beteiligter Zahnarzt der Durchführung der mündlichen Verhandlung mittels Videotechnik, ist die mündliche Verhandlung unter persönlicher Anwesenheit der Mitglieder des Zulassungsausschusses und des widersprechenden Zahnarztes im Sitzungszimmer durchzuführen; auf die Form der Teilnahme anderer Beteiligter hat der Widerspruch keinen Einfluss. Wird eine mündliche Verhandlung mittels Videotechnik durchgeführt, so stellt der Zulassungsausschuss auf Verlangen eines an dem Verfahren beteiligten Zahnarztes geeignete Räumlichkeiten mit der erforderlichen technischen Ausstattung für seine Teilnahme an der Sitzung zur Verfügung.
 
-(2) Die Kassenzahnärztliche Vereinigung, die Landesverbände der Krankenkassen und die Ersatzkassen sowie die an dem Verfahren beteiligten Zahnärzte sind unter Einhaltung einer Frist von zwei Wochen zur mündlichen Verhandlung zu laden; die Ladung ist zuzustellen. Es kann auch in Abwesenheit Beteiligter verhandelt werden, falls in der Ladung darauf hingewiesen ist.
+(2) Die Kassenzahnärztliche Vereinigung, die Landesverbände der Krankenkassen und die Ersatzkassen sowie die an dem Verfahren beteiligten Zahnärzte sind unter Einhaltung einer Frist von zwei Wochen zur mündlichen Verhandlung zu laden; die Ladung ist zuzustellen. Es kann auch in Abwesenheit Beteiligter verhandelt werden, falls in der Ladung darauf hingewiesen ist. Hat der Zulassungsausschuss gemäß § 36 Absatz 3 Satz 2 entschieden, eine Sitzung mittels Videotechnik durchzuführen, sind die Beteiligten nach Satz 1 im Fall einer im Rahmen dieser Sitzung durchgeführten mündlichen Verhandlung in der Ladung oder im Fall einer späteren Entscheidung für diese Sitzungsform unverzüglich über den Ablauf und die technischen Voraussetzungen zu informieren. Die beteiligten Zahnärzte sind auch über ihr Widerspruchsrecht nach Absatz 1 Satz 4 und die Möglichkeit der Teilnahme nach Absatz 1 Satz 5 zu informieren.
+
+(4) Der Zulassungsausschuss kann Beteiligten, Patientenvertreterinnen und -vertretern sowie der für die Sozialversicherung zuständigen obersten Landesbehörde auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. Er kann Zeugen oder Sachverständigen auf Antrag gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten, auch wenn Gründe nach § 36 Absatz 3 Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
 
 # § 38
 
@@ -430,6 +452,8 @@ Die Sitzung ist nicht öffentlich. Sie beginnt nach dem Aufruf der Sache mit der
 (1) Beratung und Beschlußfassung erfolgen in Abwesenheit der am Verfahren Beteiligten. Die Anwesenheit eines von der Kassenzahnärztlichen Vereinigung gestellten Schriftführers für den Zulassungsausschuß ist zulässig. In den Fällen des § 140f Abs. 3 des Fünften Buches Sozialgesetzbuch nehmen die Patientenvertreterinnen und -vertreter mit beratender Stimme an den Sitzungen teil; sie haben ein Recht auf Anwesenheit bei der Beschlussfassung.
 
 (2) Beschlüsse können nur bei vollständiger Besetzung des Zulassungsausschusses gefaßt werden. Stimmenthaltung ist unzulässig.
+
+(2a) Abstimmungen in Sitzungen, die mittels Videotechnik durchgeführt werden, erfolgen durch mündliche Erklärung der einzelnen Mitglieder. Der Vorsitzende fasst das Abstimmungsergebnis zusammen.
 
 (3) Über den Hergang der Beratungen und über des Stimmenverhältnis ist Stillschweigen zu bewahren.
 
@@ -474,12 +498,13 @@ Die Gebühren sind mit der Stellung des Antrags oder der Einlegung des Widerspru
 
 (2) Außer der Gebühr nach Absatz 1 werden als Verwaltungsgebühren erhoben:  
 
-|     |                                                                                                                                                                                                             |
-|:----|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| a) | nach unanfechtbar gewordener Zulassung ..                                                                                                                                                                   |
-| b) | nach erfolgter Eintragung einer auf § 31 Abs. 1 bis 3 oder § 31a Abs. 1beruhenden Ermächtigung in das Verzeichnis nach § 31 Abs. 10 .......                                                                 |
-| c) | nach erfolgter Genehmigung der Anstellung eines Zahnarztes bei einem Vertragszahnarzt oder in einem medizinischen Versorgungszentrum nach § 95 Abs. 2 des Fünften Buches Sozialgesetzbuch ................. |
-| d) | nach erfolgter Eintragung einer auf § 32b Abs. 2 beruhenden Genehmigung in das Verzeichnis nach § 32b Abs. 4 ....                                                                                           |
+|     |                                                                                                                                                                                                      |           |
+|:----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+| a) | nach unanfechtbar gewordener Zulassung ..........                                                                                                                                                    | 400 Euro  |
+| b) | nach erfolgter Eintragung einer auf § 31 Abs. 1 bis 3 oder § 31a Abs. 1beruhenden Ermächtigung in das Verzeichnis nach § 31 Abs. 10 ..........                                                       | 400 Euro  |
+| c) | nach erfolgter Genehmigung der Anstellung eines Zahnarztes bei einem Vertragszahnarzt oder in einem medizinischen Versorgungszentrum nach § 95 Abs. 2 des Fünften Buches Sozialgesetzbuch .......... | 400 Euro  |
+| d) | nach erfolgter Eintragung einer auf § 32b Abs. 2 beruhenden Genehmigung in das Verzeichnis nach § 32b Abs. 4 ..........                                                                              | 400 Euro  |
+| e) | nach Beschluss des Ruhens einer Zulassung nach § 26 Absatz 1 Satz 1 Nummer 2 ..........                                                                                                              | 400 Euro. |
 
 (3) Es sind zu zahlen
 

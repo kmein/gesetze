@@ -21,31 +21,36 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister für Wirtschaft
 
-# Anlage – (zu § 1)  Verzeichnis der verwandten Handwerke
+# Anlage – (zu § 1)Verzeichnis der verwandten Handwerke
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2952;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
   
 
-|  Nr. | Spalte I                | Spalte II                                                |
-|-----:|:------------------------|:---------------------------------------------------------|
-|  1\. | Bäcker                  | Konditoren                                               |
-|  2\. | Konditoren              | Bäcker                                                   |
-|  3\. | Informationstechniker   | Elektrotechniker                                         |
-|  4\. | Elektrotechniker        | Informationstechniker                                    |
-|  5\. | Elektrotechniker        | Elektromaschinenbauer                                    |
-|  6\. | Elektromaschinenbauer   | Elektrotechniker                                         |
-|  7\. | Kraftfahrzeugtechniker  | Zweiradmechaniker (Krafträder)                           |
-|  8\. | Zweiradmechaniker       | Kraftfahrzeugtechniker (Krafträder)                      |
-|  9\. | Landmaschinenmechaniker | Metallbauer                                              |
-| 10\. | Metallbauer             | Feinwerkmechaniker; Landmaschinenmechaniker              |
-| 11\. | Maler und lackierer     | Stukkateure                                              |
-| 12\. | Stukkateure             | Maler und Lackierer (Maler)                              |
-| 13\. | Dachdecker              | Klempner                                                 |
-| 14\. | Klempner                | Dachdecker                                               |
-| 15\. | Orthopädietechniker     | Orthopädieschuhmacher (diabetes-adaptierte Fußbettungen) |
-| 16\. | Orthopädieschuhmacher   | Orthopädietechniker (diabetes-adaptierte Fußbettungen)   |
+|  Nr. | Spalte I                            | Spalte II                                                               |
+|-----:|:------------------------------------|:------------------------------------------------------------------------|
+|  1\. | Bäcker                              | Konditoren                                                              |
+|  2\. | Konditoren                          | Bäcker                                                                  |
+|  3\. | Informationstechniker               | Elektrotechniker                                                        |
+|  4\. | Elektrotechniker                    | Informationstechniker                                                   |
+|  5\. | Elektrotechniker                    | Elektromaschinenbauer                                                   |
+|  6\. | Elektromaschinenbauer               | Elektrotechniker                                                        |
+|  7\. | Kraftfahrzeugtechniker              | Zweiradmechaniker (Krafträder)                                          |
+|  8\. | Zweiradmechaniker                   | Kraftfahrzeugtechniker (Krafträder)                                     |
+|  9\. | Land- und Baumaschinenmechatroniker | Metallbauer                                                             |
+| 10\. | Metallbauer                         | Feinwerkmechaniker; Land- und Baumaschinenmechatroniker                 |
+| 11\. | Maler und lackierer                 | Stukkateure                                                             |
+| 12\. | Stukkateure                         | Maler und Lackierer (Maler)                                             |
+| 13\. | Dachdecker                          | Klempner                                                                |
+| 14\. | Klempner                            | Dachdecker                                                              |
+| 15\. | Orthopädietechniker                 | Orthopädieschuhmacher (diabetes-adaptierte Fußbettungen)                |
+| 16\. | Orthopädieschuhmacher               | Orthopädietechniker (diabetes-adaptierte Fußbettungen)                  |
+| 17\. | Glaser                              | Glasveredler                                                            |
+| 18\. | Glasveredler                        | Glaser                                                                  |
+| 19\. | Maurer und Betonbauer               | Estrichleger                                                            |
+| 20\. | Tischler                            | Parkettleger                                                            |
+|      |                                     | Drechsler (Elfenbeinschnitzer) und Holzspielzeugmacher (Holzspielzeuge) |
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 998)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

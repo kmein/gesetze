@@ -8993,6 +8993,10 @@ Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Lande
 
 Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
 
+(+++ Anlage 39 Tabelle I Fußnote "
+
+quot;: Fehlender Bezug zum Text soll korrigiert werden +++)
+
 # Anlage 40 – (zu § 255)  Bewirtschaftungskosten
 
 (Fundstelle: BGBl. I 2019, 1840)
