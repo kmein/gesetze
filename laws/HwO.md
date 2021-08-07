@@ -3,320 +3,6 @@
  
 # Inhaltsübersicht
 
-Erster Teil: Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
-
- 
-
-Erster Abschnitt:
-
-Berechtigung zum selbständigen Betrieb eines zulassungspflichtigen Handwerks
-
-§§ 1 - 5b
-
-Zweiter Abschnitt:
-
-Handwerksrolle
-
-§§ 6 - 17
-
-Dritter Abschnitt:
-
-Zulassungsfreie Handwerke und handwerksähnliche Gewerbe
-
-§§ 18 - 20
-
-Zweiter Teil: Berufsbildung im Handwerk
-
- 
-
-Erster Abschnitt:
-
-Berechtigung zum Einstellen und Ausbilden
-
-§§ 21 - 24
-
-Zweiter Abschnitt:
-
-Ausbildungsordnung, Änderung der Ausbildungszeit
-
-§§ 25 - 27d
-
-Dritter Abschnitt:
-
-Verzeichnis der Berufsausbildungsverhältnisse
-
-§§ 28 - 30
-
-Vierter Abschnitt:
-
-Prüfungswesen
-
-§§ 31 - 40a
-
-Fünfter Abschnitt:
-
-Regelung und Überwachung der Berufsausbildung
-
-§§ 41 - 41a
-
-Sechster Abschnitt:
-
-Berufliche Fortbildung, berufliche Umschulung
-
-§§ 42 - 42r
-
-Siebenter Abschnitt:
-
-Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
-
-§§ 42p - 42v
-
-Achter Abschnitt:
-
-Berufsbildungsausschuss
-
-§§ 43 - 44b
-
-Dritter Teil: Meisterprüfung, Meistertitel
-
- 
-
-Erster Abschnitt:
-
-Meisterprüfung in einem zulassungspflichtigen Handwerk
-
-§§ 45 - 51
-
-Zweiter Abschnitt:
-
-Meisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe
-
-§§ 51a - 51e
-
-Vierter Teil: Organisation des Handwerks
-
- 
-
-Erster Abschnitt:
-
-Handwerksinnungen
-
-§§ 52 - 78
-
-Zweiter Abschnitt:
-
-Innungsverbände
-
-§§ 79 - 85
-
-Dritter Abschnitt:
-
-Kreishandwerkerschaften
-
-§§ 86 - 89
-
-Vierter Abschnitt:
-
-Handwerkskammern
-
-§§ 90 - 116
-
-Fünfter Teil: Bußgeld-, Übergangs- und Schlussvorschriften
-
- 
-
-Erster Abschnitt:
-
-Bußgeldvorschriften
-
-§§ 117 - 118a
-
-Zweiter Abschnitt:
-
-Übergangsvorschriften
-
-§§ 119 - 124c
-
-Dritter Abschnitt:
-
-Schlussvorschriften
-
-§§ 125 - 126
-
-Anlage A:
-
-Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können
-
-Nr. 1 - 41
-
-Anlage B:
-
-Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können
-
- 
-
- 
-
-Abschnitt 1
-
-Nr. 1 - 53
-
- 
-
-Abschnitt 2
-
-Nr. 1 - 57
-
-Anlage C:
-
-Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern
-
- 
-
- 
-
-Erster Abschnitt:
-
- 
-
- 
-
-Zeitpunkt der Wahl, Wahlleiter und Wahlausschuss
-
-§§ 1 - 2
-
- 
-
-Zweiter Abschnitt:
-
- 
-
- 
-
-Wahlbezirk
-
-§ 3
-
- 
-
-Dritter Abschnitt:
-
- 
-
- 
-
-Aufteilung der Mitglieder der Vollversammlung
-
-§ 4
-
- 
-
-Vierter Abschnitt:
-
- 
-
- 
-
-(weggefallen)
-
- 
-
- 
-
-Fünfter Abschnitt:
-
- 
-
- 
-
-Wahlvorschläge
-
-§§ 7 - 11
-
- 
-
-Sechster Abschnitt:
-
- 
-
- 
-
-Wahl
-
-§§ 12 - 18
-
- 
-
-Siebenter Abschnitt:
-
- 
-
- 
-
-(weggefallen)
-
- 
-
- 
-
-Achter Abschnitt:
-
- 
-
- 
-
-Wegfall der Wahlhandlung
-
-§ 20
-
- 
-
-Neunter Abschnitt:
-
- 
-
- 
-
-Beschwerdeverfahren, Kosten
-
-§§ 21 - 22
-
- 
-
-Anlage:
-
- 
-
- 
-
-Muster des Wahlberechtigungsscheins
-
- 
-
-Anlage D:
-
-Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
-
- 
-
-I.
-
-Handwerksrolle
-
- 
-
-II\.
-
-Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes
-
- 
-
-III\.
-
-Lehrlingsrolle
-
- 
-
 # § 1
 
 (1) Der selbständige Betrieb eines zulassungspflichtigen Handwerks als stehendes Gewerbe ist nur den in der Handwerksrolle eingetragenen natürlichen und juristischen Personen und Personengesellschaften gestattet. Personengesellschaften im Sinne dieses Gesetzes sind Personenhandelsgesellschaften und Gesellschaften des bürgerlichen Rechts.
@@ -405,7 +91,7 @@ Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetze
 
 (2a) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß in die Handwerksrolle einzutragen ist, wer in einem anderen Mitgliedstaat der Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum eine der Meisterprüfung für die Ausübung des zu betreibenden Gewerbes oder wesentlicher Tätigkeiten dieses Gewerbes gleichwertige Berechtigung zur Ausübung eines Gewerbes erworben hat.
 
-(3) In die Handwerksrolle wird ferner eingetragen, wer eine Ausnahmebewilligung nach § 8 oder § 9 Abs. 1 oder eine Gleichwertigkeitsfeststellung nach § 50b für das zu betreibende zulassungspflichtige Handwerk oder für ein diesem verwandtes zulassungspflichtiges Handwerk besitzt.
+(3) In die Handwerksrolle wird ferner eingetragen, wer eine Ausnahmebewilligung nach § 8 oder § 9 Abs. 1 oder eine Gleichwertigkeitsfeststellung nach § 50c für das zu betreibende zulassungspflichtige Handwerk oder für ein diesem verwandtes zulassungspflichtiges Handwerk besitzt.
 
 (4) bis (6) (weggefallen)
 
@@ -457,7 +143,7 @@ Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetze
 
 In den in Satz 1 Nr. 1 genannten Fällen bleibt § 8 Abs. 1 unberührt; § 8 Abs. 2 bis 4 gilt entsprechend. In den in Satz 1 Nr. 2 genannten Fällen ist § 1 Abs. 1 nicht anzuwenden.
 
-(2) In den Fällen des § 7 Abs. 2a und des § 50a findet § 1 Abs. 1 keine Anwendung, wenn der selbständige Betrieb im Inland keine Niederlassung unterhält.
+(2) In den Fällen des § 7 Abs. 2a und des § 50b findet § 1 Abs. 1 keine Anwendung, wenn der selbständige Betrieb im Inland keine Niederlassung unterhält.
 
 # § 10
 
@@ -497,7 +183,7 @@ Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle abgelehnt worde
 
 (1) Wer den Betrieb eines zulassungspflichtigen Handwerks nach § 1 anfängt, hat gleichzeitig mit der nach § 14 der Gewerbeordnung zu erstattenden Anzeige der hiernach zuständigen Behörde die über die Eintragung in die Handwerksrolle ausgestellte Handwerkskarte (§ 10 Abs. 2) vorzulegen. Der Inhaber eines Hauptbetriebs im Sinne des § 3 Abs. 3 hat der für die Entgegennahme der Anzeige nach § 14 der Gewerbeordnung zuständigen Behörde die Ausübung eines handwerklichen Neben- oder Hilfsbetriebs anzuzeigen.
 
-(2) Der Gewerbetreibende hat ferner der Handwerkskammer, in deren Bezirk seine gewerbliche Niederlassung liegt oder die nach § 6 Abs. 2 für seine Eintragung in die Handwerksrolle zuständig ist, unverzüglich den Beginn und die Beendigung seines Betriebs und in den Fällen des § 7 Abs. 1 die Bestellung und Abberufung des Betriebsleiters anzuzeigen; bei juristischen Personen sind auch die Namen der gesetzlichen Vertreter, bei Personengesellschaften die Namen der für die technische Leitung verantwortlichen und der vertretungsberechtigten Gesellschafter anzuzeigen.
+(2) Der Gewerbetreibende hat ferner der Handwerkskammer, in deren Bezirk seine gewerbliche Niederlassung liegt, unverzüglich den Beginn und die Beendigung seines Betriebs und in den Fällen des § 7 Abs. 1 die Bestellung und Abberufung des Betriebsleiters anzuzeigen; bei juristischen Personen sind auch die Namen der gesetzlichen Vertreter, bei Personengesellschaften die Namen der für die technische Leitung verantwortlichen und der vertretungsberechtigten Gesellschafter anzuzeigen.
 
 (3) Wird der selbständige Betrieb eines zulassungspflichtigen Handwerks als stehendes Gewerbe entgegen den Vorschriften dieses Gesetzes ausgeübt, so kann die nach Landesrecht zuständige Behörde die Fortsetzung des Betriebs untersagen. Die Untersagung ist nur zulässig, wenn die Handwerkskammer und die Industrie- und Handelskammer zuvor angehört worden sind und in einer gemeinsamen Erklärung mitgeteilt haben, dass sie die Voraussetzungen einer Untersagung als gegeben ansehen.
 
@@ -595,7 +281,7 @@ und den Teil IV der Meisterprüfung oder eine gleichwertige andere Prüfung, ins
 
 4. eine Abschlussprüfung an einer deutschen Hochschule in einer dem Ausbildungsberuf entsprechenden Fachrichtung bestanden hat oder
 
-5. eine Gleichwertigkeitsfeststellung nach § 51e oder einen Bildungsabschluss besitzt, dessen Gleichwertigkeit nach anderen rechtlichen Regelungen festgestellt worden ist
+5. eine Gleichwertigkeitsfeststellung nach § 51g oder einen Bildungsabschluss besitzt, dessen Gleichwertigkeit nach anderen rechtlichen Regelungen festgestellt worden ist
 
 und im Falle der Nummern 2 bis 5 eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. Der Abschlussprüfung an einer deutschen Hochschule gemäß Satz 1 Nr. 4 gleichgestellt sind Diplome nach § 7 Abs. 2 Satz 4. Für den Nachweis der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen Rechtsverordnungen Anwendung.
 
@@ -793,15 +479,15 @@ Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Ha
 
 (3) Die Arbeitgeber müssen in dem zulassungspflichtigen Handwerk, für das der Prüfungsausschuß errichtet ist, die Meisterprüfung abgelegt haben oder zum Ausbilden berechtigt sein. In dem zulassungsfreien Handwerk oder in dem handwerksähnlichen Gewerbe, für das der Prüfungsausschuss errichtet ist, müssen die Arbeitgeber oder die Beauftragten der Arbeitgeber die Gesellenprüfung oder eine entsprechende Abschlussprüfung in einem anerkannten Ausbildungsberuf nach § 4 des Berufsbildungsgesetzes bestanden haben und in diesem Handwerk oder in diesem Gewerbe tätig sein. Die Arbeitnehmer und die Beauftragten der Arbeitnehmer müssen die Gesellenprüfung in dem zulassungspflichtigen oder zulassungsfreien Handwerk oder in dem handwerksähnlichen Gewerbe, für das der Prüfungsausschuss errichtet ist, oder eine entsprechende Abschlussprüfung in einem anerkannten Ausbildungsberuf nach § 4 des Berufsbildungsgesetzes bestanden haben und in diesem Handwerk oder in diesem Gewerbe tätig sein. Arbeitnehmer, die eine entsprechende ausländische Befähigung erworben haben und handwerklich tätig sind, können in den Prüfungsausschuß berufen werden.
 
-(4) Die Mitglieder werden von der Handwerkskammer berufen. Die Arbeitnehmer und die Beauftragten der Arbeitnehmer der von der Handwerkskammer errichteten Prüfungsausschüsse werden auf Vorschlag der Mehrheit der Gesellenvertreter in der Vollversammlung der Handwerkskammer berufen. Die Lehrkraft einer berufsbildenden Schule wird im Einvernehmen mit der Schulaufsichtsbehörde oder der von ihr bestimmten Stelle berufen.
+(4) Die Mitglieder werden von der Handwerkskammer berufen. Die Arbeitnehmer und die Beauftragten der Arbeitnehmer der von der Handwerkskammer errichteten Prüfungsausschüsse werden auf Vorschlag der Mehrheit der Gesellenvertreter in der Vollversammlung der Handwerkskammer berufen. Vorschläge der im Bezirk der Handwerkskammer bestehenden Gewerkschaften und selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung sollen berücksichtigt werden. Die Lehrkraft einer berufsbildenden Schule wird im Einvernehmen mit der Schulaufsichtsbehörde oder der von ihr bestimmten Stelle berufen.
 
-(5) Für die mit Ermächtigung der Handwerkskammer von der Handwerksinnung errichteten Prüfungsausschüsse werden die Arbeitgeber und die Beauftragten der Arbeitgeber von der Innungsversammlung, die Arbeitnehmer und die Beauftragten der Arbeitnehmer von dem Gesellenausschuß gewählt. Die Lehrkraft einer berufsbildenden Schule wird im Einvernehmen mit der Schulaufsichtsbehörde oder der von ihr bestimmten Stelle nach Anhörung der Handwerksinnung von der Handwerkskammer berufen.
+(5) Für die mit Ermächtigung der Handwerkskammer von der Handwerksinnung errichteten Prüfungsausschüsse werden die Arbeitgeber und die Beauftragten der Arbeitgeber von der Innungsversammlung, die Arbeitnehmer und die Beauftragten der Arbeitnehmer von dem Gesellenausschuß gewählt. Vorschläge der im Bezirk der Handwerksinnung bestehenden Gewerkschaften und selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung sollen berücksichtigt werden. Die Lehrkraft einer berufsbildenden Schule wird im Einvernehmen mit der Schulaufsichtsbehörde oder der von ihr bestimmten Stelle nach Anhörung der Handwerksinnung von der Handwerkskammer berufen.
 
-(6) Die Mitglieder der Prüfungsausschüsse können nach Anhörung der an ihrer Berufung Beteiligten aus wichtigem Grund abberufen werden. Die Absätze 4 und 5 gelten für die Stellvertreter entsprechend.
+(6) Die Mitglieder der Prüfungsausschüsse können nach Anhörung der an ihrer Berufung Beteiligten aus wichtigem Grund abberufen werden. Satz 1 und die Absätze 4 und 5 gelten für die Stellvertreter entsprechend.
 
 (7) Die Handwerkskammer oder die nach § 33 Absatz 1 Satz 3 von der Handwerkskammer zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung kann weitere Prüfende für den Einsatz in Prüferdelegationen nach § 35a Absatz 2 berufen. Die Berufung weiterer Prüfender kann auf bestimmte Prüf- oder Fachgebiete beschränkt werden. Die Absätze 4 bis 6 sind entsprechend anzuwenden.
 
-(8) Die für die Berufung von Prüfungsausschussmitgliedern Vorschlagsberechtigten sind über die Anzahl und die Größe der einzurichtenden Prüfungsausschüsse sowie über die Zahl der von ihnen vorzuschlagenden weiteren Prüfenden zu unterrichten. Die Vorschlagsberechtigten werden von der Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 2 von der Innung darüber unterrichtet, welche der von ihnen vorgeschlagenen Mitglieder sowie Stellvertreter und Stellvertreterinnen und weiteren Prüfenden berufen wurden.
+(8) Die für die Berufung von Prüfungsausschussmitgliedern Vorschlagsberechtigten sind über die Anzahl und die Größe der einzurichtenden Prüfungsausschüsse sowie über die Zahl der von ihnen vorzuschlagenden weiteren Prüfenden zu unterrichten. Die Vorschlagsberechtigten werden von der Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 von der Innung darüber unterrichtet, welche der von ihnen vorgeschlagenen Mitglieder sowie Stellvertreter und Stellvertreterinnen und weiteren Prüfenden berufen wurden.
 
 (9) Die Tätigkeit im Prüfungsausschuss oder in einer Prüferdelegation ist ehrenamtlich. Für bare Auslagen und für Zeitversäumnis ist, soweit eine Entschädigung nicht von anderer Seite gewährt wird, eine angemessene Entschädigung zu zahlen, deren Höhe von der Handwerkskammer mit Genehmigung der obersten Landesbehörde festgesetzt wird. Die Entschädigung für Zeitversäumnis hat mindestens im Umfang von § 16 des Justizvergütungs- und -entschädigungsgesetzes in der jeweils geltenden Fassung zu erfolgen.
 
@@ -827,9 +513,9 @@ Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und dessen Ste
 
 3. das Bestehen oder Nichtbestehen der Gesellenprüfung.
 
-(2) Die zuständige Stelle kann im Einvernehmen mit den Mitgliedern des Prüfungsausschusses die Abnahme und abschließende Bewertung von Prüfungsleistungen auf Prüferdelegationen übertragen. Für die Zusammensetzung von Prüferdelegationen und für die Abstimmungen in der Prüferdelegation sind § 34 Absatz 1 bis 3 und § 35 Satz 3 bis 5 entsprechend anzuwenden. Mitglieder von Prüferdelegationen können die Mitglieder des Prüfungsausschusses, deren Stellvertreter und Stellvertreterinnen sowie weitere Prüfende sein, die durch die Handwerkskammer nach § 34 Absatz 7 berufen worden sind.
+(2) Die Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 die Handwerksinnung kann im Einvernehmen mit den Mitgliedern des Prüfungsausschusses die Abnahme und abschließende Bewertung von Prüfungsleistungen auf Prüferdelegationen übertragen. Für die Zusammensetzung von Prüferdelegationen und für die Abstimmungen in der Prüferdelegation sind § 34 Absatz 1 bis 3 und § 35 Satz 3 und 4 entsprechend anzuwenden. Mitglieder von Prüferdelegationen können die Mitglieder des Prüfungsausschusses, deren Stellvertreter und Stellvertreterinnen sowie weitere Prüfende sein, die durch die Handwerkskammer oder durch die nach § 33 Absatz 1 Satz 3 zur Errichtung von Prüfungsausschüssen ermächtigte Handwerksinnung nach § 34 Absatz 7 berufen worden sind.
 
-(3) Die zuständige Stelle hat vor Beginn der Prüfung über die Bildung von Prüferdelegationen, über deren Mitglieder sowie über deren Stellvertreter und Stellvertreterinnen zu entscheiden. Prüfende können Mitglieder mehrerer Prüferdelegationen sein. Sind verschiedene Prüfungsleistungen derart aufeinander bezogen, dass deren Beurteilung nur einheitlich erfolgen kann, so müssen diese Prüfungsleistungen von denselben Prüfenden abgenommen werden.
+(3) Die Handwerkskammer oder im Fall des § 33 Absatz 1 Satz 3 die Handwerksinnung hat vor Beginn der Prüfung über die Bildung von Prüferdelegationen, über deren Mitglieder sowie über deren Stellvertreter und Stellvertreterinnen zu entscheiden. Prüfende können Mitglieder mehrerer Prüferdelegationen sein. Sind verschiedene Prüfungsleistungen derart aufeinander bezogen, dass deren Beurteilung nur einheitlich erfolgen kann, so müssen diese Prüfungsleistungen von denselben Prüfenden abgenommen werden.
 
 (4) Nach § 38 Absatz 2 Satz 2 erstellte oder ausgewählte Antwort-Wahl-Aufgaben können automatisiert ausgewertet werden, wenn das Aufgabenerstellungs- oder Aufgabenauswahlgremium festgelegt hat, welche Antworten als zutreffend anerkannt werden. Die Ergebnisse sind vom Prüfungsausschuss zu übernehmen.
 
@@ -921,7 +607,7 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Gesellenprüfung zusammen m
 
 # § 40a
 
-Ausländische Ausbildungsnachweise stehen der Gesellenprüfung im Sinne dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen gleich, wenn ihre Gleichwertigkeit festgestellt wurde. § 50b Absatz 4 gilt entsprechend. Die Vorschriften des Berufsqualifikationsfeststellungsgesetzes für nicht reglementierte Berufe sowie § 17 sind anzuwenden.
+Ausländische Ausbildungsnachweise stehen der Gesellenprüfung im Sinne dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen gleich, wenn ihre Gleichwertigkeit festgestellt wurde. § 50c Absatz 4 gilt entsprechend. Die Vorschriften des Berufsqualifikationsfeststellungsgesetzes für nicht reglementierte Berufe sowie § 17 sind anzuwenden.
 
 # § 41
 
@@ -1253,37 +939,75 @@ Der Berufsbildungsausschuß gibt sich eine Geschäftsordnung. Sie kann die Bildu
 
 # § 46
 
-(1) Der Prüfling ist von der Ablegung einzelner Teile der Meisterprüfung befreit, wenn er eine dem jeweiligen Teil der Meisterprüfung vergleichbare Prüfung auf Grund einer nach § 42 oder § 51a Abs. 1 in Verbindung mit Abs. 2 dieses Gesetzes oder § 53 des Berufsbildungsgesetzes erlassenen Rechtsverordnung oder eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat. Er ist von der Ablegung der Teile III und IV befreit, wenn er die Meisterprüfung in einem anderen zulassungspflichtigen oder zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe bestanden hat.
+(1) Der Prüfling ist nach Maßgabe der folgenden Vorschriften von einzelnen Teilen der Meisterprüfung befreit, wenn er eine dem jeweiligen Teil der Meisterprüfung vergleichbare Prüfung auf Grund einer nach § 42 oder § 51a Abs. 1 in Verbindung mit Abs. 2 dieses Gesetzes oder § 53 des Berufsbildungsgesetzes erlassenen Rechtsverordnung oder eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat.
+
+(1a) Eine Befreiung nach Absatz 1 ist nur zulässig, wenn
+
+1. die befreiende Prüfung bezogen auf den jeweiligen Teil der Meisterprüfung die Befähigung zu vergleichbaren beruflichen Tätigkeiten in dem jeweiligen Handwerk belegt, und
+
+2. zwischen ihr und dem jeweiligen Teil der Meisterprüfung keine wesentlichen Unterschiede in Inhalt und zeitlichem Umfang bestehen.
+
+(1b) Einzelne Prüfungsleistungen einer befreienden Prüfung dürfen zur Feststellung der Vergleichbarkeit nicht für mehrere Teile der Meisterprüfung zugleich zu Grunde gelegt werden.
+
+(1c) Der Prüfling ist von den Teilen III und IV der Meisterprüfung auch befreit, wenn er die Meisterprüfung in einem anderen zulassungspflichtigen oder zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe bestanden hat. Der Prüfling ist vom Teil IV der Meisterprüfung ferner befreit, wenn er den auf Grund einer Rechtsverordnung nach § 22b Absatz 4 dieses Gesetzes oder nach § 30 Absatz 5 des Berufsbildungsgesetzes vorgeschriebenen Nachweis erbringt.
 
 (2) Prüflinge, die andere deutsche staatliche oder staatlich anerkannte Prüfungen mit Erfolg abgelegt haben, sind auf Antrag durch den Meisterprüfungsausschuss von einzelnen Teilen der Meisterprüfung zu befreien, wenn bei diesen Prüfungen mindestens die gleichen Anforderungen gestellt werden wie in der Meisterprüfung. Der Abschlussprüfung an einer deutschen Hochschule gleichgestellt sind Diplome nach § 7 Abs. 2 Satz 4.
 
-(3) Der Prüfling ist auf Antrag von der Ablegung der Prüfung in gleichartigen Prüfungsbereichen, Prüfungsfächern oder Handlungsfeldern durch den Meisterprüfungsausschuss zu befreien, wenn er die Meisterprüfung in einem anderen zulassungspflichtigen oder zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe bestanden hat oder eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat.
+(3) Der Prüfling ist auf Antrag von den Prüfungsleistungen in gleichartigen Prüfungsbereichen, Prüfungsfächern oder Handlungsfeldern durch den Meisterprüfungsausschuss zu befreien, wenn er die Meisterprüfung in einem anderen zulassungspflichtigen oder zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe bestanden hat oder eine andere vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss erfolgreich abgelegt hat.
 
 (4) Der Meisterprüfungsausschuss entscheidet auf Antrag des Prüflings auch über Befreiungen auf Grund ausländischer Bildungsabschlüsse.
 
+(5) Nähere Einzelheiten können in Rechtsverordnungen nach § 50a Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 7 geregelt werden.
+
 # § 47
 
-(1) Die Meisterprüfung wird durch Meisterprüfungsausschüsse abgenommen. Für die Handwerke werden Meisterprüfungsausschüsse als staatliche Prüfungsbehörden am Sitz der Handwerkskammer für ihren Bezirk errichtet. Die oberste Landesbehörde kann in besonderen Fällen die Errichtung eines Meisterprüfungsausschusses für mehrere Handwerkskammerbezirke anordnen und hiermit die für den Sitz des Meisterprüfungsausschusses zuständige höhere Verwaltungsbehörde beauftragen. Soll der Meisterprüfungsausschuß für Handwerkskammerbezirke mehrerer Länder zuständig sein, so bedarf es hierfür des Einvernehmens der beteiligten obersten Landesbehörden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß abweichend von Satz 3 an Stelle der obersten Landesbehörde die höhere Verwaltungsbehörde zuständig ist. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
+(1) Für die Handwerke werden zur Durchführung der Meisterprüfungen Meisterprüfungsausschüsse als staatliche Prüfungsbehörden am Sitz der Handwerkskammer für ihren Bezirk errichtet. Die oberste Landesbehörde kann in besonderen Fällen die Errichtung eines Meisterprüfungsausschusses für mehrere Handwerkskammerbezirke anordnen und mit der Errichtung die für den Sitz des Meisterprüfungsausschusses zuständige höhere Verwaltungsbehörde beauftragen. Soll der Meisterprüfungsausschuß für Handwerkskammerbezirke mehrerer Länder zuständig sein, so bedarf es hierfür des Einvernehmens der beteiligten obersten Landesbehörden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß abweichend von Satz 2 an Stelle der obersten Landesbehörde die höhere Verwaltungsbehörde zuständig ist. Die Landesregierungen können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-(2) Die höhere Verwaltungsbehörde errichtet die Meisterprüfungsausschüsse nach Anhörung der Handwerkskammer und ernennt auf Grund ihrer Vorschläge die Mitglieder und die Stellvertreter für längstens fünf Jahre. Die Geschäftsführung der Meisterprüfungsausschüsse liegt bei der Handwerkskammer.
+(2) Die höhere Verwaltungsbehörde errichtet die Meisterprüfungsausschüsse nach Anhörung der Handwerkskammer und ernennt auf Grund ihrer Vorschläge die Mitglieder und die Stellvertreter für längstens fünf Jahre. Über Vorschläge für Mitglieder nach § 48 Absatz 4 und deren Stellvertreter befindet in der Handwerkskammer die Mehrheit der Gesellenvertreter der Vollversammlung; die Gesellenvertreter sollen Vorschläge der im Bezirk der Handwerkskammer bestehenden Gewerkschaften und selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung berücksichtigen. Die Handwerkskammer hat die in Satz 2 genannten Gesellenvertreter und Organisationen zu unterrichten
+
+1. über die Errichtung von Meisterprüfungsausschüssen am Sitz der Handwerkskammer,
+
+2. über die Zahl der von den Gesellenvertretern vorzuschlagenden Mitglieder und Stellvertreter für die Meisterprüfungsausschüsse und
+
+3. über Personen, die auf Vorschlag der Gesellenvertreter zu Mitgliedern und Stellvertretern der Meisterprüfungsausschüsse berufen sind.
+
+(3) Die Handwerkskammer unterstützt die Meisterprüfungsausschüsse durch das Führen der laufenden Geschäfte.
 
 # § 48
 
-(1) Der Meisterprüfungsausschuß besteht aus fünf Mitgliedern; für die Mitglieder sind Stellvertreter zu berufen. Die Mitglieder und die Stellvertreter sollen das vierundzwanzigste Lebensjahr vollendet haben.
+(1) Der Meisterprüfungsausschuss besteht aus vier Mitgliedern. Die Mitglieder sollen das vierundzwanzigste Lebensjahr vollendet haben.
 
 (2) Der Vorsitzende braucht nicht in einem zulassungspflichtigen Handwerk tätig zu sein; er soll dem zulassungspflichtigen Handwerk, für welches der Meisterprüfungsausschuss errichtet ist, nicht angehören.
 
-(3) Zwei Beisitzer müssen das Handwerk, für das der Meisterprüfungsausschuß errichtet ist, mindestens seit einem Jahr selbständig als stehendes Gewerbe betreiben und in diesem Handwerk die Meisterprüfung abgelegt haben oder das Recht zum Ausbilden von Lehrlingen besitzen oder in dem zulassungspflichtigen Handwerk als Betriebsleiter, die in ihrer Person die Voraussetzungen zur Eintragung in die Handwerksrolle erfüllen, tätig sein.
+(3) Ein Beisitzer muss
 
-(4) Ein Beisitzer soll ein Geselle sein, der in dem zulassungspflichtigen Handwerk, für das der Meisterprüfungsausschuß errichtet ist, die Meisterprüfung abgelegt hat oder das Recht zum Ausbilden von Lehrlingen besitzt und in dem betreffenden zulassungspflichtigen Handwerk tätig ist.
+1. das Handwerk, für das der Meisterprüfungsausschuss errichtet ist, mindestens seit einem Jahr selbständig als stehendes Gewerbe betreiben und in diesem Handwerk
 
-(5) Für die Abnahme der Prüfung in der wirtschaftlichen Betriebsführung sowie in den kaufmännischen, rechtlichen und berufserzieherischen Kenntnissen soll ein Beisitzer bestellt werden, der in diesen Prüfungsgebieten besonders sachkundig ist und dem Handwerk nicht anzugehören braucht.
+a) die Meisterprüfung erfolgreich abgelegt haben oder
 
-(6) § 34 Absatz 6 Satz 1 und Absatz 9 ist entsprechend anzuwenden.
+b) das Recht zum Ausbilden von Lehrlingen besitzen oder
+
+2. in dem zulassungspflichtigen Handwerk mindestens seit einem Jahr als Betriebsleiter tätig sein und in seiner Person die Voraussetzungen für die Eintragung in die Handwerksrolle erfüllen.
+
+(4) Ein Beisitzer soll ein Geselle sein, der in dem zulassungspflichtigen Handwerk, für das der Meisterprüfungsausschuß errichtet ist, die Meisterprüfung erfolgreich abgelegt hat oder das Recht zum Ausbilden von Lehrlingen besitzt und in dem betreffenden zulassungspflichtigen Handwerk tätig ist.
+
+(5) Ein Beisitzer soll besonders sachkundig in der wirtschaftlichen Betriebsführung sowie in den kaufmännischen, rechtlichen und berufserzieherischen Kenntnissen sein; er braucht dem Handwerk nicht anzugehören.
+
+(6) § 34 Absatz 6 Satz 1, Absatz 9 und 9a ist entsprechend anzuwenden.
+
+(7) Für jedes Mitglied des Meisterprüfungsausschusses können bis zu zwei Stellvertreter für den Fall der Verhinderung des Mitgliedes berufen werden. Für Stellvertreter gelten die Anforderungen für die Berufung des Mitgliedes, als dessen Stellvertreter sie berufen werden. Für die Stellvertreter gilt Absatz 6 entsprechend.
+
+# § 48a
+
+(1) Die Abnahme und die abschließende Bewertung der einzelnen Prüfungsleistungen einer Meisterprüfung obliegen Prüfungskommissionen. Die Prüfungskommissionen werden von dem Meisterprüfungsausschuss gebildet.
+
+(2) Für den Einsatz in den Prüfungskommissionen beruft der Meisterprüfungsausschuss für die Dauer von jeweils längstens fünf Jahren prüfende Personen. Die Handwerkskammer hat hierfür eine Liste mit nicht bindenden Vorschlägen zu erstellen; § 47 Absatz 2 Satz 2 und 3 gilt entsprechend.
+
+(3) Jede prüfende Person muss die Voraussetzungen für eine Ernennung zum Mitglied des Meisterprüfungsausschusses erfüllen. § 34 Absatz 6 Satz 1, Absatz 9 und 9a gilt für sie entsprechend. Die Mitglieder des Meisterprüfungsausschusses und ihre Stellvertreter können zu prüfenden Personen berufen werden.
 
 # § 49
 
-(1) Zur Meisterprüfung ist zuzulassen, wer eine Gesellenprüfung in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, oder in einem damit verwandten zulassungspflichtigen Handwerk oder eine entsprechende Abschlussprüfung in einem anerkannten Ausbildungsberuf oder eine Prüfung auf Grund einer nach § 45 oder § 51a Abs. 1 in Verbindung mit Abs. 2 erlassenen Rechtsverordnung bestanden hat oder eine Gleichwertigkeitsfeststellung nach § 40a für das entsprechende zulassungspflichtige Handwerk oder für ein verwandtes zulassungspflichtiges Handwerk besitzt.
+(1) Zur Meisterprüfung ist zuzulassen, wer eine Gesellenprüfung in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, oder in einem damit verwandten zulassungspflichtigen Handwerk oder eine entsprechende Abschlussprüfung in einem anerkannten Ausbildungsberuf oder eine Prüfung auf Grund einer nach § 45 oder § 51a Abs. 1 in Verbindung mit Abs. 2 erlassenen Rechtsverordnung bestanden hat oder eine Gleichwertigkeitsfeststellung nach § 40a für das entsprechende zulassungspflichtige Handwerk oder für ein verwandtes zulassungspflichtiges Handwerk besitzt. Wer die Gesellenprüfung oder die Abschlussprüfung nach Satz 1 in einem Ausbildungsberuf bestanden hat, für den in der Ausbildungsordnung eine Ausbildungsdauer von weniger als drei Jahren festgelegt ist, muss in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mindestens einjährige Berufstätigkeit nachweisen.
 
 (2) Zur Meisterprüfung ist auch zuzulassen, wer eine andere Gesellenprüfung oder eine andere Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat und in dem zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen will, eine mehrjährige Berufstätigkeit ausgeübt hat. Für die Zeit der Berufstätigkeit dürfen nicht mehr als drei Jahre gefordert werden. Ferner ist der erfolgreiche Abschluss einer Fachschule bei einjährigen Fachschulen mit einem Jahr, bei mehrjährigen Fachschulen mit zwei Jahren auf die Berufstätigkeit anzurechnen.
 
@@ -1303,15 +1027,49 @@ Die Handwerkskammer kann eine Stellungnahme des Meisterprüfungsausschusses einh
 
 # § 50
 
-(1) Die durch die Abnahme der Meisterprüfung entstehenden Kosten trägt die Handwerkskammer. Das Zulassungsverfahren sowie das allgemeine Prüfungsverfahren werden durch eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Meisterprüfungsordnung geregelt.
-
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Zulassungsverfahren sowie das allgemeine Prüfungsverfahren nach Absatz 1 Satz 2 zu erlassen. Die Rechtsverordnung kann insbesondere die Zulassung zur Prüfung, das Bewertungssystem, die Erteilung der Prüfungszeugnisse, die Folgen von Verstößen gegen die Prüfungsvorschriften und die Wiederholungsprüfung regeln.
+Die durch die Durchführung der Meisterprüfung entstehenden Kosten trägt die Handwerkskammer.
 
 # § 50a
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
+
+1. die förmlichen Anforderungen an die Zulassung zur Meisterprüfung,
+
+2. die Durchführung der Prüfung,
+
+3. die Geschäftsverteilung und die Beschlussfassung innerhalb des Meisterprüfungsausschusses,
+
+4. die Bildung und die Zusammensetzung der Prüfungskommissionen, insbesondere hinsichtlich der Anzahl, der Qualifikation und der Gruppenzugehörigkeit ihrer Mitglieder,
+
+5. die Zuweisung der Abnahme und Bewertung der Prüfungsleistungen an die Prüfungskommissionen,
+
+6. die Bewertung von Prüfungsleistungen, einschließlich der Anwendung eines einheitlichen Bewertungsmaßstabes auf der Grundlage eines Punktesystems sowie eines Verfahrens zur Bestimmung der abschließenden Bewertung von Prüfungsleistungen bei voneinander abweichenden Einzelbewertungen durch die Mitglieder einer Prüfungskommission,
+
+7. die Anrechnung von einzelnen Prüfungsleistungen und die Befreiung von Prüfungsteilen oder Prüfungsleistungen,
+
+8. die Ermittlung und Bekanntgabe der Prüfungsergebnisse binnen einer bestimmten Frist, längstens eines Monats, sowie die Erteilung der Prüfungszeugnisse,
+
+9. der Nachteilsausgleich für Menschen mit Behinderungen,
+
+10. die Folgen von Verstößen gegen die Prüfungsvorschriften,
+
+11. die Zulässigkeit, der Umfang und die Häufigkeit von Wiederholungsprüfungen und
+
+12. die Niederschrift über die Meisterprüfung.
+
+(2) Die Rechtsverordnung nach Absatz 1 Satz 1 kann darüber hinaus Vorschriften enthalten
+
+1. zur Berufung der prüfenden Personen nach § 48a Absatz 2 und 3 sowie
+
+2. zum Nachteilsausgleich für Teilleistungsstörungen.
+
+(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 # § 50b
+
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+
+# § 50c
 
 (1) Die Gleichwertigkeit ist festzustellen,
 
@@ -1363,45 +1121,93 @@ Ausbildungsnachweise sind Prüfungszeugnisse und sonstige Befähigungsnachweise,
 
 (3) Durch die Meisterprüfung ist festzustellen, ob der Prüfling eine besondere Befähigung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe erworben hat und Lehrlinge ordnungsgemäß ausbilden kann. Zu diesem Zweck hat der Prüfling in vier selbständigen Prüfungsteilen nachzuweisen, dass er Tätigkeiten seines zulassungsfreien Handwerks oder seines handwerksähnlichen Gewerbes meisterhaft verrichten kann (Teil I), besondere fachtheoretische Kenntnisse (Teil II), besondere betriebswirtschaftliche, kaufmännische und rechtliche Kenntnisse (Teil III) sowie die erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV) besitzt. § 45 Absatz 2 Satz 2 ist entsprechend anzuwenden.
 
-(4) Zum Nachweis der Fertigkeiten und Kenntnisse führt die Handwerkskammer Prüfungen durch und errichtet zu diesem Zweck Prüfungsausschüsse. Die durch die Abnahme der Meisterprüfung entstehenden Kosten trägt die Handwerkskammer.
+(4) Zum Nachweis der Fertigkeiten und Kenntnisse führt die Handwerkskammer Prüfungen nach Maßgabe der folgenden Vorschriften durch. Die durch die Durchführung der Meisterprüfung entstehenden Kosten trägt die Handwerkskammer.
 
 (5) Zur Prüfung ist zuzulassen, wer eine Gesellenprüfung oder eine Abschlussprüfung in einem anerkannten Ausbildungsberuf bestanden hat oder eine Gleichwertigkeitsfeststellung nach § 40a besitzt. Die Handwerkskammer kann auf Antrag in Ausnahmefällen von der Zulassungsvoraussetzung befreien. Für die Ablegung des Teils III der Meisterprüfung entfällt die Zulassungsvoraussetzung.
 
-(6) Für Befreiungen gilt § 46 entsprechend.
-
-(7) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Zulassungsverfahren sowie das allgemeine Prüfungsverfahren erlassen. Die Rechtsverordnung kann insbesondere die Zulassung zur Prüfung, das Bewertungssystem, die Erteilung der Prüfungszeugnisse, die Folgen von Verstößen gegen die Prüfungsvorschriften und die Wiederholungsprüfung regeln.
+(6) Für Befreiungen gilt § 46 mit der Maßgabe entsprechend, dass im Fall des § 46 Absatz 5 an die Stelle des § 50a Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 7 der § 51d Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 7 tritt.
 
 # § 51b
 
 (1) Die Handwerkskammer errichtet an ihrem Sitz für ihren Bezirk Meisterprüfungsausschüsse. Mehrere Handwerkskammern können bei einer von ihnen gemeinsame Meisterprüfungsausschüsse errichten.
 
-(2) Der Meisterprüfungsausschuss besteht aus fünf Mitgliedern; für die Mitglieder sind Stellvertreter zu berufen. Sie werden für längstens fünf Jahre ernannt.
+(2) Der Meisterprüfungsausschuss besteht aus vier Mitgliedern; für jedes Mitglied können bis zu zwei Stellvertreter für den Fall der Verhinderung des Mitgliedes berufen werden. Mitglieder und Stellvertreter werden für längstens fünf Jahre ernannt. Mitglieder nach Absatz 5 und deren Stellvertreter werden auf Vorschlag der Mehrheit der Gesellenvertreter der Vollversammlung ernannt, die ihrerseits Vorschläge der im Bezirk der Handwerkskammer bestehenden Gewerkschaften und selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung berücksichtigen sollen; § 47 Absatz 2 Satz 3 gilt entsprechend.
 
 (3) Der Vorsitzende braucht nicht in einem zulassungsfreien Handwerk oder einem handwerksähnlichen Gewerbe tätig zu sein; er soll dem zulassungsfreien Handwerk oder dem handwerksähnlichen Gewerbe, für welches der Meisterprüfungsausschuss errichtet ist, nicht angehören.
 
-(4) Zwei Beisitzer müssen das zulassungsfreie Handwerk oder das handwerksähnliche Gewerbe, für das der Meisterprüfungsausschuss errichtet ist, mindestens seit einem Jahr selbständig als stehendes Gewerbe betreiben und in diesem zulassungsfreien Handwerk oder in diesem handwerksähnlichen Gewerbe die Meisterprüfung abgelegt haben oder das Recht zum Ausbilden von Lehrlingen besitzen.
+(4) Ein Beisitzer muss das zulassungsfreie Handwerk oder das handwerksähnliche Gewerbe, für das der Meisterprüfungsausschuss errichtet ist, mindestens seit einem Jahr selbständig als stehendes Gewerbe betreiben und in diesem zulassungsfreien Handwerk oder in diesem handwerksähnlichen Gewerbe
 
-(5) Ein Beisitzer soll ein Geselle sein, der in dem zulassungsfreien Handwerk oder in dem handwerksähnlichen Gewerbe, für das der Meisterprüfungsausschuss errichtet ist, die Meisterprüfung abgelegt hat oder das Recht zum Ausbilden von Lehrlingen besitzt und in dem betreffenden zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe tätig ist.
+1. die Meisterprüfung erfolgreich abgelegt haben oder
 
-(6) Für die Abnahme der Prüfung der betriebswirtschaftlichen, kaufmännischen und rechtlichen Kenntnisse sowie der berufs- und arbeitspädagogischen Kenntnisse soll ein Beisitzer bestellt werden, der in diesen Prüfungsgebieten besonders sachkundig ist und einem zulassungsfreien Handwerk oder einem handwerksähnlichen Gewerbe nicht anzugehören braucht.
+2. das Recht zum Ausbilden von Lehrlingen besitzen.
 
-(7) § 34 Absatz 6 Satz 1 und Absatz 9 ist entsprechend anzuwenden.
+(5) Ein Beisitzer soll ein Geselle sein, der in dem zulassungsfreien Handwerk oder in dem handwerksähnlichen Gewerbe, für das der Meisterprüfungsausschuss errichtet ist, die Meisterprüfung erfolgreich abgelegt hat oder das Recht zum Ausbilden von Lehrlingen besitzt und in dem betreffenden zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe tätig ist.
+
+(6) Ein Beisitzer soll besonders sachkundig in der wirtschaftlichen Betriebsführung sowie in den kaufmännischen, rechtlichen und berufserzieherischen Kenntnissen sein; er braucht dem Handwerk nicht anzugehören.
+
+(7) § 34 Absatz 6 Satz 1, Absatz 9 und 9a ist entsprechend anzuwenden.
+
+(8) Für Stellvertreter gelten die Anforderungen für die Berufung des Mitglieds, als dessen Stellvertreter sie berufen werden. Für die Stellvertreter gilt Absatz 7 entsprechend.
 
 # § 51c
 
-Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+(1) Die Abnahme und die abschließende Bewertung der einzelnen Prüfungsleistungen einer Meisterprüfung obliegen Prüfungskommissionen. Die Prüfungskommissionen werden von dem Meisterprüfungsausschuss gebildet.
+
+(2) Für den Einsatz in den Prüfungskommissionen beruft der Meisterprüfungsausschuss für die Dauer von jeweils längstens fünf Jahren prüfende Personen. Die Handwerkskammer hat hierfür eine Liste mit nicht bindenden Vorschlägen zu erstellen; § 47 Absatz 2 Satz 2 und 3 gilt entsprechend.
+
+(3) Jede prüfende Person muss die Voraussetzungen für eine Ernennung zum Mitglied des Meisterprüfungsausschusses erfüllen. § 34 Absatz 6 Satz 1, Absatz 9 und 9a gilt für sie entsprechend. Die Mitglieder des Meisterprüfungsausschusses und ihre Stellvertreter können zu prüfenden Personen berufen werden.
 
 # § 51d
 
-Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe darf nur führen, wer die Prüfung nach § 51a Abs. 3 in diesem Handwerk oder Gewerbe bestanden hat. § 51 Absatz 2 ist entsprechend anzuwenden.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Zulassungsverfahren und das allgemeine Prüfungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 sind insbesondere zu regeln
+
+1. die förmlichen Anforderungen an die Zulassung zur Meisterprüfung,
+
+2. die Durchführung der Prüfung,
+
+3. die Geschäftsverteilung und die Beschlussfassung innerhalb des Meisterprüfungsausschusses,
+
+4. die Bildung und die Zusammensetzung der Prüfungskommissionen, insbesondere hinsichtlich der Anzahl, der Qualifikation und der Gruppenzugehörigkeit ihrer Mitglieder,
+
+5. die Zuweisung der Abnahme und Bewertung der Prüfungsleistungen an die Prüfungskommissionen,
+
+6. die Bewertung von Prüfungsleistungen, einschließlich der Anwendung eines einheitlichen Bewertungsmaßstabes auf der Grundlage eines Punktesystems sowie eines Verfahrens zur Bestimmung der abschließenden Bewertung von Prüfungsleistungen bei voneinander abweichenden Einzelbewertungen durch die Mitglieder einer Prüfungskommission,
+
+7. die Anrechnung von einzelnen Prüfungsleistungen und die Befreiung von Prüfungsteilen oder Prüfungsleistungen,
+
+8. die Ermittlung und Bekanntgabe der Prüfungsergebnisse binnen einer bestimmten Frist, längstens eines Monats, sowie die Erteilung der Prüfungszeugnisse,
+
+9. der Nachteilsausgleich für Menschen mit Behinderungen,
+
+10. die Folgen von Verstößen gegen die Prüfungsvorschriften,
+
+11. die Zulässigkeit, der Umfang und die Häufigkeit von Wiederholungsprüfungen und
+
+12. die Niederschrift über die Meisterprüfung.
+
+(2) Die Rechtsverordnung nach Absatz 1 Satz 1 kann darüber hinaus Vorschriften enthalten
+
+1. zur Berufung der prüfenden Personen nach § 51c Absatz 2 und 3 sowie
+
+2. zum Nachteilsausgleich für Teilleistungsstörungen.
+
+(3) Soweit das Bundesministerium für Wirtschaft und Energie von seiner Befugnis nach Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Nummer 2, keinen Gebrauch macht, kann eine von der Handwerkskammer mit Genehmigung der obersten Landesbehörde zu erlassende Satzung das Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 # § 51e
 
-Im Fall der Gleichwertigkeit eines im Ausland erworbenen Ausbildungsnachweises mit der Meisterprüfung ist die Gleichwertigkeit festzustellen. § 50b gilt entsprechend.
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe gleichstellen, wenn an den Bildungsgang und in den Prüfungen gleichwertige Anforderungen gestellt werden. Die Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
+
+# § 51f
+
+Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe darf nur führen, wer die Prüfung nach § 51a Abs. 3 in diesem Handwerk oder Gewerbe bestanden hat. § 51 Absatz 2 ist entsprechend anzuwenden.
+
+# § 51g
+
+Im Fall der Gleichwertigkeit eines im Ausland erworbenen Ausbildungsnachweises mit der Meisterprüfung ist die Gleichwertigkeit festzustellen. § 50c gilt entsprechend.
 
 # § 52
 
-(1) Inhaber von Betrieben des gleichen zulassungspflichtigen Handwerks oder des gleichen zulassungsfreien Handwerks oder des gleichen handwerksähnlichen Gewerbes oder solcher Handwerke oder handwerksähnlicher Gewerbe, die sich fachlich oder wirtschaftlich nahe stehen, können zur Förderung ihrer gemeinsamen gewerblichen Interessen innerhalb eines bestimmten Bezirks zu einer Handwerksinnung zusammentreten. Voraussetzung ist, dass für das jeweilige Gewerbe eine Ausbildungsordnung erlassen worden ist. Für jedes Gewerbe kann in dem gleichen Bezirk nur eine Handwerksinnung gebildet werden; sie ist allein berechtigt, die Bezeichnung Innung in Verbindung mit dem Gewerbe zu führen, für das sie errichtet ist.
+(1) Inhaber von Betrieben des gleichen zulassungspflichtigen Handwerks oder des gleichen zulassungsfreien Handwerks oder des gleichen handwerksähnlichen Gewerbes oder solcher Handwerke oder handwerksähnlicher Gewerbe, die sich fachlich oder wirtschaftlich nahe stehen, können zur Förderung ihrer gemeinsamen gewerblichen Interessen, wozu in besonderem Maße der Abschluss von Tarifverträgen gehört, innerhalb eines bestimmten Bezirks zu einer Handwerksinnung zusammentreten. Voraussetzung ist, dass für das jeweilige Gewerbe eine Ausbildungsordnung erlassen worden ist. Für jedes Gewerbe kann in dem gleichen Bezirk nur eine Handwerksinnung gebildet werden; sie ist allein berechtigt, die Bezeichnung Innung in Verbindung mit dem Gewerbe zu führen, für das sie errichtet ist.
 
 (2) Der Innungsbezirk soll unter Berücksichtigung einheitlicher Wirtschaftsgebiete so abgegrenzt sein, daß die Zahl der Innungsmitglieder ausreicht, um die Handwerksinnung leistungsfähig zu gestalten, und daß die Mitglieder an dem Leben und den Einrichtungen der Handwerksinnung teilnehmen können. Der Innungsbezirk hat sich mindestens mit dem Gebiet einer kreisfreien Stadt oder eines Landkreises zu decken. Die Handwerkskammer kann unter den Voraussetzungen des Satzes 1 eine andere Abgrenzung zulassen.
 
@@ -1845,15 +1651,15 @@ Satz 1 gilt entsprechend auch für Personen, die ausbildungsvorbereitende Maßna
 
 5. Gesellenprüfungsordnungen für die einzelnen Handwerke zu erlassen (§ 38), Prüfungsausschüsse für die Abnahme der Gesellenprüfungen zu errichten oder Handwerksinnungen zu der Errichtung von Gesellenprüfungsausschüssen zu ermächtigen (§ 37) und die ordnungsmäßige Durchführung der Gesellenprüfungen zu überwachen,
 
-6. Meisterprüfungsordnungen für die einzelnen Handwerke zu erlassen (§ 50) und die Geschäfte des Meisterprüfungsausschusses (§ 47 Abs. 2) zu führen,
+6. die Geschäfte des Meisterprüfungsausschusses (§ 47 Abs. 2) zu führen,
 
-6a. die Gleichwertigkeit festzustellen (§§ 40a, 50b, 51e)
+6a. die Gleichwertigkeit festzustellen (§§ 40a, 50c, 51g)
 
 7. die technische und betriebswirtschaftliche Fortbildung der Meister und Gesellen zur Erhaltung und Steigerung der Leistungsfähigkeit des Handwerks in Zusammenarbeit mit den Innungsverbänden zu fördern, die erforderlichen Einrichtungen hierfür zu schaffen oder zu unterstützen und zu diesem Zweck eine Gewerbeförderungsstelle zu unterhalten,
 
 7a. Maßnahmen zur Förderung und Durchführung der Berufsbildung, insbesondere der Berufsausbildungsvorbereitung, Berufsausbildung, beruflichen Fortbildung und beruflichen Umschulung, sowie der technischen und betriebswirtschaftlichen Weiterbildung, insbesondere Sachkundenachweise und Sachkundeprüfungen nach gesetzlichen Vorschriften, nach Vorschriften der Unfallversicherungsträger oder nach technischen Normvorschriften in Zusammenarbeit mit den Innungsverbänden anzubieten,
 
-8. Sachverständige zur Erstattung von Gutachten über Waren, Leistungen und Preise von Handwerkern zu bestellen und zu vereidigen,
+8. Sachverständige zur Erstattung von Gutachten zu Leistungen und Tätigkeiten des Handwerks und deren Wert nach den §§ 36 und 36a der Gewerbeordnung öffentlich zu bestellen und zu vereidigen,
 
 9. die wirtschaftlichen Interessen des Handwerks und die ihnen dienenden Einrichtungen, insbesondere das Genossenschaftswesen zu fördern,
 
@@ -1863,13 +1669,17 @@ Satz 1 gilt entsprechend auch für Personen, die ausbildungsvorbereitende Maßna
 
 12. Ursprungszeugnisse über in Handwerksbetrieben gefertigte Erzeugnisse und andere dem Wirtschaftsverkehr dienende Bescheinigungen auszustellen, soweit nicht Rechtsvorschriften diese Aufgaben anderen Stellen zuweisen,
 
-13. die Maßnahmen zur Unterstützung notleidender Handwerker sowie Gesellen und anderer Arbeitnehmer mit einer abgeschlossenen Berufsausbildung zu treffen oder zu unterstützen.
+13. die Maßnahmen zur Unterstützung notleidender Handwerker sowie Gesellen und anderer Arbeitnehmer mit einer abgeschlossenen Berufsausbildung zu treffen oder zu unterstützen,
+
+14. die Zuständigkeit als Stelle nach § 340 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für die Betriebe der Handwerke nach den Nummern 33 bis 37 der Anlage A.
 
 (1a) Die Länder können durch Gesetz der Handwerkskammer die Aufgaben einer einheitlichen Stelle im Sinne des Verwaltungsverfahrensgesetzes übertragen. Das Gesetz regelt, welche Aufgabenbereiche von der Zuweisung erfasst sind. Dabei kann das Gesetz vorsehen, dass die Handwerkskammer auch für nicht Kammerzugehörige tätig wird. Das Gesetz regelt auch die Aufsicht.
 
 (2) Die Handwerkskammer kann gemeinsam mit der Industrie- und Handelskammer Prüfungsausschüsse errichten.
 
 (2a) Die Länder können durch Gesetz der Handwerkskammer ermöglichen, sich an einer Einrichtung zu beteiligen, die Aufgaben einer einheitlichen Stelle im Sinne des Verwaltungsverfahrensgesetzes erfüllt.
+
+(2b) Zur Förderung der beruflichen Bildung kann die Handwerkskammer sich an nationalen und internationalen Projekten, insbesondere an Maßnahmen der internationalen Entwicklungszusammenarbeit, beteiligen.
 
 (3) Die Handwerkskammer soll in allen wichtigen das Handwerk und das handwerksähnliche Gewerbe berührenden Angelegenheiten gehört werden.
 
@@ -2031,9 +1841,9 @@ Wählbar zum Vertreter der Arbeitnehmer in der Vollversammlung sind die wahlbere
 
 8. die Erstellung einer mittelfristigen Finanzplanung und deren Übermittlung an die Vollversammlung,
 
-9. die Aufstellung und Genehmigung des Haushaltsplans,
+9. die Festlegung der Haushaltsführung nach dem Verfahren der Kameralistik oder der Doppik sowie die Aufstellung und Genehmigung des Haushaltsplans oder des Wirtschaftsplans,
 
-10. die Aufstellung, Prüfung und Abnahme der Jahresrechnung sowie über die Übertragung der Prüfung auf eine unabhängige Stelle außerhalb der Handwerkskammer,
+10. die Aufstellung, Prüfung und Abnahme der Jahresrechnung oder des Jahresabschlusses mit Lagebericht einschließlich der Verwendung des Jahresergebnisses sowie über die Übertragung der Prüfung auf eine unabhängige Stelle außerhalb der Handwerkskammer,
 
 11. die Voraussetzungen und die Form einer Änderung der Satzung,
 
@@ -2053,13 +1863,13 @@ Wählbar zum Vertreter der Arbeitnehmer in der Vollversammlung sind die wahlbere
 
 3. die Wahl des Geschäftsführers, bei mehreren Geschäftsführern des Hauptgeschäftsführers und der Geschäftsführer,
 
-4. die Feststellung des Haushaltsplans einschließlich des Stellenplans, die Bewilligung von Ausgaben, die nicht im Haushaltsplan vorgesehen sind, die Ermächtigung zur Aufnahme von Krediten und die dingliche Belastung von Grundeigentum,
+4. die Feststellung des Haushaltsplans oder Wirtschaftsplans einschließlich des Stellenplans, die Bewilligung von Ausgaben und Aufwendungen, die nicht im Haushaltsplan oder Wirtschaftsplan vorgesehen sind, die Ermächtigung zur Aufnahme von Krediten und die dingliche Belastung von Grundeigentum,
 
 5. die Festsetzung der Beiträge zur Handwerkskammer und die Erhebung von Gebühren,
 
-6. der Erlaß einer Haushalts-, Kassen- und Rechnungslegungsordnung,
+6. der Erlaß einer Haushalts-, Kassen- und Rechnungslegungsordnung, Finanzordnung oder eines Finanzstatuts,
 
-7. die Prüfung und Abnahme der Jahresrechnung und die Entscheidung darüber, durch welche unabhängige Stelle die Jahresrechnung geprüft werden soll,
+7. die Prüfung und Abnahme der Jahresrechnung oder des Jahresabschlusses und die Entscheidung darüber, durch welche unabhängige Stelle die Jahresrechnung oder der Jahresabschluss geprüft werden soll,
 
 8. die Beteiligung an Gesellschaften des privaten und öffentlichen Rechts und die Aufrechterhaltung der Beteiligung,
 
@@ -2069,7 +1879,7 @@ Wählbar zum Vertreter der Arbeitnehmer in der Vollversammlung sind die wahlbere
 
 10. der Erlaß von Vorschriften über die Berufsausbildung, berufliche Fortbildung und berufliche Umschulung (§ 91 Abs. 1 Nr. 4 und 4a),
 
-11. der Erlaß der Gesellen- und Meisterprüfungsordnungen (§ 91 Abs. 1 Nr. 5 und 6),
+11. der Erlass der Gesellenprüfungsordnungen nach § 91 Absatz 1 Nummer 5 und Satzungen nach § 50a Absatz 3 oder § 51d Absatz 3,
 
 12. der Erlaß der Vorschriften über die öffentliche Bestellung und Vereidigung von Sachverständigen (§ 91 Abs. 1 Nr. 8),
 
@@ -2077,7 +1887,7 @@ Wählbar zum Vertreter der Arbeitnehmer in der Vollversammlung sind die wahlbere
 
 14. die Änderung der Satzung.
 
-(2) Die nach Absatz 1 Nr. 3 bis 7, 10 bis 12 und 14 gefaßten Beschlüsse bedürfen der Genehmigung durch die oberste Landesbehörde. Die Beschlüsse nach Absatz 1 Nr. 5, 10 bis 12 und 14 sind in den für die Bekanntmachungen der Handwerkskammern bestimmten Organen einschließlich der elektronischen Medien (§ 105 Abs. 2 Nr. 12) zu veröffentlichen.
+(2) Die nach Absatz 1 Nr. 3 bis 7, 10 bis 12 und 14 gefaßten Beschlüsse bedürfen der Genehmigung durch die oberste Landesbehörde. Die Beschlüsse nach Absatz 1 Nr. 5, 6, 10 bis 12 und 14 sind in den für die Bekanntmachungen der Handwerkskammern bestimmten Organen einschließlich der elektronischen Medien (§ 105 Abs. 2 Nr. 12) zu veröffentlichen.
 
 (3) Die Satzung nach Absatz 1 Nummer 12 und deren Änderungen müssen im Einklang mit den Vorgaben des auf sie anzuwendenden europäischen Rechts stehen. Insbesondere sind bei neuen oder zu ändernden Vorschriften, die dem Anwendungsbereich der Richtlinie 2005/36/EG in der jeweils geltenden Fassung unterfallen, die Vorgaben der Richtlinie (EU) 2018/958 des Europäischen Parlaments und des Rates vom 28. Juni 2018 über eine Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen (ABl. L 173 vom 9.7.2018, S. 25) in der jeweils geltenden Fassung einzuhalten.
 
@@ -2161,7 +1971,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige
 
 1. entgegen § 1 Abs. 1 Satz 1 ein dort genanntes Gewerbe als stehendes Gewerbe selbständig betreibt oder
 
-2. entgegen § 42b Absatz 4 Satz 3, § 42c Absatz 4 Satz 3, § 42d Absatz 4 Satz 3, § 42f Absatz 4 Satz 1, § 51 Absatz 1 oder § 51d Satz 1 eine dort genannte Abschluss- oder Ausbildungsbezeichnung führt.
+2. entgegen § 42b Absatz 4 Satz 3, § 42c Absatz 4 Satz 3, § 42d Absatz 4 Satz 3, § 42f Absatz 4 Satz 1, § 51 Absatz 1 oder § 51f Satz 1 eine dort genannte Abschluss- oder Ausbildungsbezeichnung führt.
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 2 kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
@@ -2199,7 +2009,7 @@ Die zuständige Behörde unterrichtet die zuständige Handwerkskammer über die 
 
 (4) Werden in der Anlage A zu diesem Gesetz aufgeführte Gewerbe durch Gesetz oder durch eine nach § 1 Abs. 3 erlassene Rechtsverordnung zusammengefaßt, so ist der selbständige Handwerker, der eines der zusammengefaßten Handwerke betreibt, mit dem durch die Zusammenfassung entstandenen Handwerk in die Handwerksrolle einzutragen.
 
-(5) Soweit durch Gesetz oder durch Rechtsverordnung nach § 1 Abs. 3 Handwerke oder handwerksähnliche Gewerbe zusammengefasst werden, gelten die vor dem Inkrafttreten der jeweiligen Änderungsvorschrift nach § 25 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes erlassenen Ausbildungsordnungen und die nach § 45 Abs. 1 oder § 51a Abs. 1 in Verbindung mit Abs. 2 sowie die nach § 50 Abs. 2 oder § 51a Abs. 7 dieses Gesetzes erlassenen Rechtsvorschriften bis zum Erlass neuer Rechtsverordnungen nach diesem Gesetz fort. Satz 1 gilt entsprechend für noch bestehende Vorschriften gemäß § 122 Abs. 2 und 4.
+(5) Soweit durch Gesetz oder durch Rechtsverordnung nach § 1 Abs. 3 Handwerke oder handwerksähnliche Gewerbe zusammengefasst werden, gelten die vor dem Inkrafttreten der jeweiligen Änderungsvorschrift nach § 25 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes erlassenen Ausbildungsordnungen und die nach § 45 Abs. 1 oder § 51a Abs. 1 in Verbindung mit Abs. 2 sowie die nach § 50a oder § 51d dieses Gesetzes erlassenen Rechtsvorschriften bis zum Erlass neuer Rechtsverordnungen nach diesem Gesetz fort. Satz 1 gilt entsprechend für noch bestehende Vorschriften gemäß § 122 Abs. 2 und 4.
 
 (6) Soweit durch Gesetz zulassungspflichtige Handwerke in die Anlage B überführt werden, gilt für die Ausbildungsordnungen Absatz 5 entsprechend. Die bis zum 31. Dezember 2003 begonnenen Meisterprüfungsverfahren sind auf Antrag des Prüflings nach den bis dahin geltenden Vorschriften von den vor dem 31. Dezember 2003 von der höheren Verwaltungsbehörde errichteten Meisterprüfungsausschüssen abzuschließen.
 
@@ -2211,6 +2021,8 @@ Die zuständige Behörde unterrichtet die zuständige Handwerkskammer über die 
 
 (2) Wer bis zum 31. März 1998 die Befugnis zur Ausbildung von Lehrlingen (Auszubildenden) in einem Gewerbe erworben hat, das in die Anlage A zu diesem Gesetz aufgenommen wird, gilt im Sinne des § 22b Abs. 1 als fachlich geeignet.
 
+(3) Personen, die am 13. Februar 2020 nach § 22b Absatz 1 und 3 fachlich zur Ausbildung von Lehrlingen (Auszubildenden) eines Handwerks geeignet waren, das in Anlage A Nummer 42 bis 53 aufgeführt ist, gelten im Sinne des § 22b Absatz 1 und 2 weiterhin als fachlich geeignet.
+
 # § 121
 
 Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der Gewerbeordnung bezeichneten Prüfungen gleichgestellt, sofern sie vor Inkrafttreten dieses Gesetzes abgelegt worden sind.
@@ -2219,17 +2031,29 @@ Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der Gewerbe
 
 (1) Werden zulassungspflichtige Handwerke durch Gesetz oder durch eine nach § 1 Abs. 3 erlassene Rechtsverordnung getrennt oder zusammengefasst, so können auch solche Personen als Beisitzer der Gesellen- oder Meisterprüfungsausschüsse der durch die Trennung oder Zusammenfassung entstandenen Handwerke oder handwerksähnlichen Gewerbe berufen werden, die in dem getrennten oder in einem der zusammengefassten Handwerke oder handwerksähnlichen Gewerbe die Gesellen- oder Meisterprüfung abgelegt haben oder das Recht zum Ausbilden von Lehrlingen besitzen und im Falle des § 48 Abs. 3 seit mindestens einem Jahr in dem Handwerk, für das der Meisterprüfungsausschuss errichtet ist, selbständig tätig sind.
 
-(2) Die für die einzelnen Handwerke oder handwerksähnlichen Gewerbe geltenden Gesellen-, Abschluss- und Meisterprüfungsvorschriften sind bis zum Inkrafttreten der nach § 25 Abs. 1 und § 38 sowie § 45 Abs. 1 Nr. 2 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes vorgesehenen Prüfungsverordnungen anzuwenden, soweit sie nicht mit diesem Gesetz im Widerspruch stehen. Dies gilt für die nach § 50 Abs. 1 Satz 2 erlassenen Meisterprüfungsordnungen sowie für die nach § 50 Abs. 2 erlassene Rechtsverordnung entsprechend.
+(2) Die für die einzelnen Handwerke oder handwerksähnlichen Gewerbe geltenden Gesellen-, Abschluss- und Meisterprüfungsvorschriften sind bis zum Inkrafttreten der nach § 25 Abs. 1 und § 38 sowie § 45 Abs. 1 Nr. 2 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes vorgesehenen Prüfungsverordnungen anzuwenden, soweit sie nicht mit diesem Gesetz im Widerspruch stehen.
 
 (3) Die für die einzelnen Handwerke oder handwerksähnlichen Gewerbe geltenden Berufsbilder oder Meisterprüfungsverordnungen sind bis zum Inkrafttreten von Rechtsverordnungen nach § 45 Abs. 1 und § 51a Abs. 1 in Verbindung mit Abs. 2 anzuwenden.
 
 (4) Die für die einzelnen Handwerke oder handwerksähnlichen Gewerbe geltenden fachlichen Vorschriften sind bis zum Inkrafttreten von Rechtsverordnungen nach § 25 Abs. 1, § 45 Abs. 1 und § 51a Abs. 1 in Verbindung mit Abs. 2 anzuwenden.
+
+(5) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Fälle der Absätze 2 bis 4 ergänzende Übergangsvorschriften zu erlassen, soweit dies für eine ordnungsgemäße Überleitung bestehender Lehrlingsverhältnisse oder sonstiger Ausbildungsverhältnisse oder begonnener Prüfungen oder Prüfungsteile sachdienlich ist. Dabei kann auch von den Absätzen 2 bis 4 abgewichen werden.
+
+# § 122a
+
+(1) Vorbehaltlich der Absätze 2 und 3 sind im Bereich des Dritten Teils dieses Gesetzes bis zum Ablauf des 30. Juni 2022 die am 30. Juni 2021 geltenden Vorschriften weiter anzuwenden. Endet die vorgesehene Dauer der Berufung eines Mitglieds oder eines stellvertretenden Mitglieds eines Meisterprüfungsausschusses binnen des sich aus Satz 1 ergebenden Zeitraums, so verlängert sich seine Berufung bis zum Ablauf des 30. Juni 2022.
+
+(2) Ein Meisterprüfungsausschuss, der am 30. Juni 2021 errichtet ist, bleibt zur Abnahme und Bewertung der bei ihm bis zum Ablauf des 30. Juni 2022 begonnenen Teile einer Meisterprüfung weiter bestehen; insoweit sind für die Durchführung der Prüfungen die in Absatz 1 bezeichneten Vorschriften auch über den dort genannten Zeitpunkt hinaus weiter anzuwenden.
+
+(3) Ein Meisterprüfungsausschuss, der am 30. Juni 2021 errichtet ist, nimmt unbeschadet des Absatzes 2 für die Dauer der Berufung seiner Mitglieder und stellvertretenden Mitglieder ab dem 1. Juli 2022 die Aufgaben eines nach den am 1. Juli 2021 geltenden Vorschriften zu errichtenden Meisterprüfungsausschusses wahr. Unbeschadet des Absatzes 1 ist ein Meisterprüfungsausschuss nach Satz 1 befugt, bereits vor dem 1. Juli 2022 alle erforderlichen Handlungen zur Vorbereitung der Aufgabenwahrnehmung im Sinne des Satzes 1 vorzunehmen, insbesondere solche nach §§ 48a, 51c, auch in Verbindung mit einer Rechtsverordnung nach § 50a oder § 51d.
 
 # § 123
 
 (1) Beantragt ein Gewerbetreibender, der bis zum 31. Dezember 2003 berechtigt ist, ein zulassungspflichtiges Handwerk als stehendes Gewerbe selbständig zu betreiben, in diesem Handwerk zur Meisterprüfung zugelassen zu werden, so gelten für die Zulassung zur Prüfung die Bestimmungen der §§ 49 und 50 entsprechend.
 
 (2) Absatz 1 gilt entsprechend für ein Gewerbe, das in die Anlage A aufgenommen wird.
+
+(3) § 49 Absatz 1 Satz 2 ist nicht anzuwenden auf Personen, die bis zum Ablauf des 30. Juni 2021 eine Gesellen- oder Abschlussprüfung bestanden und vor dem 14. Juni 2023 einen Antrag auf Zulassung zur Meisterprüfung gestellt haben.
 
 # § 124
 
@@ -2283,7 +2107,7 @@ c) der Beschluss mit der nach Gesetz oder der jeweiligen Satzung erforderlichen 
 
 (5) Die Absätze 1, 3 und 4 gelten für Meisterprüfungsausschüsse nach § 47 entsprechend.
 
-(6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2022 nicht mehr anzuwenden.
+(6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2023 nicht mehr anzuwenden.
 
 # § 125
 
@@ -2319,7 +2143,7 @@ c) der Beschluss mit der nach Gesetz oder der jeweiligen Satzung erforderlichen 
 
 Text siehe: HwWahlO
 
-# Anlage D – zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
+# Anlage D – zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes, in der Lehrlingsrolle sowie im Sachverständigenwesen
 
 (Fundstelle: BGBl. I 1998, 3110 - 3111;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2328,9 +2152,9 @@ I. In der Handwerksrolle sind folgende Daten zu speichern:
 
 1. bei natürlichen Personen
 
-a) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Absatz 2 oder im Falle des § 7 Absatz 1 Satz 1 der Handwerksordnung sind auch der Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internet-Adresse, Telefaxnummer oder Telefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Buchstabe e einzutragen;
+a) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Identifikationsnummer nach Identifikationsnummerngesetz und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, des Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der Name, Geburtsname, Vorname, Geschlecht des gesetzlichen Vertreters; im Falle des § 4 Absatz 2 oder im Falle des § 7 Absatz 1 Satz 1 der Handwerksordnung sind auch der Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer, oder Festnetz- oder Mobilfunktelefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Buchstabe e einzutragen;
 
-b) die Firma, wenn der selbständige Handwerker eine Firma führt, die sich auf den Handwerksbetrieb bezieht, die Webseite des Handwerksbetriebes sowie dessen Etablissementbezeichnung;
+b) die Firma, wenn der selbständige Handwerker eine Firma führt, die sich auf den Handwerksbetrieb bezieht, die Internetpräsenz des Handwerksbetriebes sowie dessen Etablissementbezeichnung;
 
 c) Ort und Straße der gewerblichen Niederlassung;
 
@@ -2344,21 +2168,23 @@ f) der Zeitpunkt der Eintragung in die Handwerksrolle;
 
 a) die Firma oder der Name der juristischen Person, deren Internetseite und Firmierung sowie Ort und Straße der gewerblichen Niederlassung;
 
-b) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, der gesetzlichen Vertreter;
+b) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Identifikationsnummer nach Identifikationsnummerngesetz und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz-oder Mobilfunktelefonnummer, der gesetzlichen Vertreter;
 
 c) das zu betreibende Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke;
 
-d) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+d) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Identifikationsnummer nach Identifikationsnummerngesetz und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 e) der Zeitpunkt der Eintragung in die Handwerksrolle;
 
+f) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Identifikationsnummer nach Identifikationsnummerngesetz und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, der Gesellschafter, Angaben über eine Vertretungsbefugnis und die für sie in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+
 3. bei Personengesellschaften
 
-a) bei Personenhandelsgesellschaften die Firma, bei Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk betreiben, deren Webseite und Firmierung sowie der Ort und die Straße der gewerblichen Niederlassung;
+a) bei Personenhandelsgesellschaften die Firma, bei Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk betreiben, deren Internetpräsenz und Firmierung sowie der Ort und die Straße der gewerblichen Niederlassung;
 
-b) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters oder im Falle des § 7 Absatz 1 Satz 1 des Betriebsleiters Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+b) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters oder im Falle des § 7 Absatz 1 Satz 1 des Betriebsleiters Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
-c) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, der übrigen Gesellschafter, Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+c) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, der übrigen Gesellschafter, Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 d) das zu betreibende Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke;
 
@@ -2374,11 +2200,11 @@ c) Bezeichnung oder Firma und Gegenstand sowie Ort und Straße der gewerblichen 
 
 d) Bezeichnung oder Firma, deren Internetseite und Firmierung sowie Ort und Straße der gewerblichen Niederlassung des Nebenbetriebs;
 
-e) Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Leiters des Nebenbetriebes und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+e) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift, Identifikationsnummer nach Identifikationsnummerngesetz und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, des Leiters des Nebenbetriebes und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 f) der Zeitpunkt der Eintragung in die Handwerksrolle.
 
-II. Abschnitt I gilt entsprechend für das Verzeichnis der Inhaber von Betrieben in zulassungsfreien Handwerken oder handwerksähnlichen Gewerben. Dieses Verzeichnis braucht nicht die gleichen Angaben wie die Handwerksrolle zu enthalten. Mindestinhalt sind die wesentlichen betrieblichen Verhältnisse einschließlich der wichtigsten persönlichen Daten des Betriebsinhabers.
+II. Abschnitt I gilt entsprechend für das Verzeichnis der Inhaber von Betrieben in zulassungsfreien Handwerken oder handwerksähnlichen Gewerben.
 
 III. In der Lehrlingsrolle sind folgende personenbezogene Daten zu speichern:
 
@@ -2394,13 +2220,13 @@ die der Eintragung nach Abschnitt I Nummer 1 Buchstabe a entsprechenden Daten mi
 
 2. bei den Ausbildern:
 
-Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Anschrift, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, Art der fachlichen Eignung;
+Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Anschrift, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer, Art der fachlichen Eignung;
 
 3. bei den Auszubildenden
 
 a) beim Lehrling:
 
-Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, vorherige Berufsausbildung sowie vorheriges Studium, Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach dem Berufsbildungsgesetz oder der Handwerksordnung einschließlich Ausbildungsberuf, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer;
+Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, vorherige Berufsausbildung sowie vorheriges Studium, Anschlussvertrag bei Anrechnung einer zuvor absolvierten dualen Berufsausbildung nach dem Berufsbildungsgesetz oder der Handwerksordnung einschließlich Ausbildungsberuf, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer;
 
 b) bei gesetzlichen Vertretern:
 
@@ -2411,6 +2237,16 @@ Name, Vorname und Anschrift der gesetzlichen Vertreter;
 Ausbildungsberuf einschließlich Fachrichtung, ausbildungsintegrierendes duales Studium, Tag, Monat und Jahr des Abschlusses des Ausbildungsvertrages, Ausbildungsdauer, Tag, Monat und Jahr des vertraglich vereinbarten Beginns und Endes der Berufsausbildung, Tag, Monat und Jahr einer vorzeitigen Auflösung des Ausbildungsverhältnisses, Dauer der Probezeit, Verkürzung der Ausbildungsdauer, Teilzeitberufsausbildung, die bei Vertragsabschluss vereinbarte Vergütung für jedes Ausbildungsjahr, Art der Förderung bei überwiegend öffentlich, insbesondere auf Grund des Dritten Buches Sozialgesetzbuch geförderten Berufsausbildungsverhältnissen, Anschrift und Amtlicher Gemeindeschlüssel der Ausbildungsstätte, Wirtschaftszweig, Betriebsnummer der Ausbildungsstätte nach § 18i Absatz 1 oder § 18k Absatz 1 des Vierten Buches Sozialgesetzbuch, Zugehörigkeit zum öffentlichen Dienst.
 
 IV. In das Verzeichnis der Unternehmer nach § 90 Abs. 3 und 4 der Handwerksordnung werden die Personen nach § 90 Abs. 3 und 4 der Handwerksordnung mit den nach Abschnitt I Nr. 1 Buchstabe a und c geforderten Angaben für natürliche Personen sowie der Zeitpunkt der Gewerbeanmeldung eingetragen.
+
+V. Über Personen, die von der Handwerkskammer als Sachverständige nach § 91 Absatz 1 Nummer 8 der Handwerksordnung öffentlich bestellt und vereidigt sind, sind folgende Daten zu verarbeiten, um sie insbesondere zum Zweck der Bekanntmachung und Vermittlung an Dritte zu nutzen:
+
+a) Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Wohnanschrift und elektronische Kontaktdaten – beispielsweise E-Mail-Adresse, Internetpräsenz, Telefaxnummer oder Festnetz- oder Mobilfunktelefonnummer;
+
+b) das Handwerk oder die Handwerke sowie das handwerksähnliche Gewerbe oder die handwerksähnlichen Gewerbe, für die eine öffentliche Bestellung und Vereidigung zum Sachverständigen besteht;
+
+c) die Stelle, die den Sachverständigen hinsichtlich seiner besonderen Sachkunde überprüft hat sowie Art, Ort und Zeitpunkt der Sachkundeprüfung;
+
+d) der Zeitpunkt der Bestellung.
 
 # Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 998)
 

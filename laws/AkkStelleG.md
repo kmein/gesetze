@@ -173,7 +173,7 @@ Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen zuverlä
 
 # § 12 – Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 3 Satz 1 zuwiderhandelt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 

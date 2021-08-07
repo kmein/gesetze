@@ -90,7 +90,7 @@ oo)
 Angaben zur Vermittlungsart durch und Kontaktart mit der Terminservicestelle nach § 87a Absatz 3 Satz 5 Nummer 3 bis 6 des Fünften Buches Sozialgesetzbuch, der Datumsangabe des Kontakts und der Arztgruppe des behandelnden Arztes,
 
 pp)  
-die Bewertung und die Vertragsnummer für Verträge im Rahmen der hausarztzentrierten Versorgung nach § 73b des Fünften Buches Sozialgesetzbuch und der integrierten Versorgung nach § 140a des Fünften Buches Sozialgesetzbuch und § 73c des Fünften Buches Sozialgesetzbuch in der bis zum 22. Juli 2015 geltenden Fassung,
+die Bewertung und die Vertragsnummer für Verträge im Rahmen von Modellvorhaben nach § 64e des Fünften Buches Sozialgesetzbuch und der hausarztzentrierten Versorgung nach § 73b des Fünften Buches Sozialgesetzbuch und der integrierten Versorgung nach § 140a des Fünften Buches Sozialgesetzbuch und § 73c des Fünften Buches Sozialgesetzbuch in der bis zum 22. Juli 2015 geltenden Fassung,
 
 b) nach § 300 des Fünften Buches Sozialgesetzbuch zur Abgabe von Arzneimitteln:
 

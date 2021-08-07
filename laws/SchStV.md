@@ -9,7 +9,7 @@ Auf Grund des § 129 Absatz 10 und des § 130b Absatz 6 des Fünften Buches Sozi
 
 (1) Mitglieder der Schiedsstelle sind ein unparteiischer Vorsitzender, zwei weitere unparteiische Mitglieder und die benannten Mitglieder nach Absatz 2. Jedes Mitglied hat zwei Stellvertreter.
 
-(2) Die Vertragsparteien nach § 129 Absatz 2 oder § 300 Absatz 3 des Fünften Buches Sozialgesetzbuch benennen jeweils fünf Vertreter und deren Stellvertreter. Die Vertragsparteien nach § 130b Absatz 1 des Fünften Buches Sozialgesetzbuch benennen jeweils zwei Vertreter und deren Stellvertreter.Benennungen nach den Sätzen 1 und 2 sind der Geschäftsstelle nach § 5 mitzuteilen.
+(2) Die Vertragsparteien nach § 129 Absatz 2 oder § 300 Absatz 3 des Fünften Buches Sozialgesetzbuch benennen jeweils fünf Vertreter und deren Stellvertreter. Die Vertragsparteien nach § 130b Absatz 1 des Fünften Buches Sozialgesetzbuch benennen jeweils zwei Vertreter und deren Stellvertreter. Die Vertragsparteien nach § 131 Absatz 1 des Fünften Buches Sozialgesetzbuch benennen jeweils sechs Vertreter und deren Stellvertreter. Benennungen nach den Sätzen 1 bis 3 sind der Geschäftsstelle nach § 5 mitzuteilen.
 
 (3) Der unparteiische Vorsitzende, die zwei weiteren unparteiischen Mitglieder und ihre Stellvertreter sind benannt, sobald sie sich den beteiligten Verbänden gegenüber zur Amtsübernahme bereit erklärt haben.
 
@@ -41,11 +41,11 @@ Die Geschäfte der Schiedsstelle werden beim Spitzenverband Bund der Krankenkass
 
 # § 6 – Einleitung des Schiedsverfahrens, Fristen
 
-(1) Kommt ein Vertrag nach § 129 Absatz 2, § 300 Absatz 3 oder § 130b Absatz 1 des Fünften Buches Sozialgesetzbuch ganz oder teilweise nicht zustande, beginnt das Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten Vertragspartei gestellten Antrag, eine Einigung über den Inhalt eines Vertrages herbeizuführen. Der Antrag ist schriftlich an den Vorsitzenden der Schiedsstelle zu richten. Der Antrag hat den Sachverhalt zu erläutern, ein zusammenfassendes Ergebnis der vorangegangenen Verhandlungen darzulegen sowie die Teile des Vertrages aufzuführen, über die eine Einigung nicht zustandegekommen ist.
+(1) Kommt ein Vertrag nach § 129 Absatz 2, § 130b Absatz 1, § 131 Absatz 3 Satz 1 oder § 300 Absatz 3 des Fünften Buches Sozialgesetzbuch ganz oder teilweise nicht zustande, beginnt das Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten Vertragspartei gestellten Antrag, eine Einigung über den Inhalt eines Vertrages herbeizuführen. Der Antrag ist schriftlich an den Vorsitzenden der Schiedsstelle zu richten. Der Antrag hat den Sachverhalt zu erläutern, ein zusammenfassendes Ergebnis der vorangegangenen Verhandlungen darzulegen sowie die Teile des Vertrages aufzuführen, über die eine Einigung nicht zustandegekommen ist.
 
 (2) Ist ein gekündigter Vertrag nach Absatz 1 Satz 1 nicht durch einen neuen Vertrag ersetzt worden, so beginnt das Schiedsverfahren mit dem auf den Ablauf der Kündigungsfrist folgenden Tag. Die Vertragspartei, die die Kündigung ausgesprochen hat, hat die Schiedsstelle schriftlich unter Darstellung des Sachverhalts zu benachrichtigen.
 
-(3) Kommt ein Vertrag nach Absatz 1 Satz 1 innerhalb einer vom Bundesministerium für Gesundheit nach § 129 Absatz 7, § 130b Absatz 9 Satz 6 oder § 300 Absatz 4 des Fünften Buches Sozialgesetzbuch gesetzten Frist nicht zustande, so beginnt das Schiedsverfahren mit dem auf den Ablauf der Frist folgenden Tag. Die Vertragsparteien haben der Schiedsstelle schriftlich den Fristablauf unter Darstellung des Sachverhalts anzuzeigen. Bei Ablauf der Frist nach § 129 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch beginnt das Schiedsverfahren mit dem darauf folgenden Tag; Satz 2 gilt entsprechend.
+(3) Kommt ein Vertrag nach Absatz 1 Satz 1 innerhalb einer vom Bundesministerium für Gesundheit nach § 129 Absatz 7, § 130b Absatz 9 Satz 6, § 131 Absatz 3 Satz 4 oder § 300 Absatz 4 des Fünften Buches Sozialgesetzbuch gesetzten Frist nicht zustande, so beginnt das Schiedsverfahren mit dem auf den Ablauf der Frist folgenden Tag. Die Vertragsparteien haben der Schiedsstelle schriftlich den Fristablauf unter Darstellung des Sachverhalts anzuzeigen. Bei Ablauf der Frist nach § 129 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch beginnt das Schiedsverfahren mit dem darauf folgenden Tag; Satz 2 gilt entsprechend.
 
 (4) Der Vorsitzende lädt die weiteren Mitglieder schriftlich mit einer Frist von mindestens zwei Wochen ein. Der Einladung sind Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 
@@ -59,7 +59,9 @@ Auf Verlangen der Schiedsstelle haben die Vertragsparteien der Schiedsstelle die
 
 1. nach § 129 Absatz 7 oder § 300 Absatz 4 des Fünften Buches Sozialgesetzbuch fünf weitere Mitglieder,
 
-2. nach § 130b Absatz 4 des Fünften Buches Sozialgesetzbuch zwei weitere Mitglieder.
+2. nach § 130b Absatz 4 des Fünften Buches Sozialgesetzbuch zwei weitere Mitglieder,
+
+3. nach § 131 Absatz 3 des Fünften Buches Sozialgesetzbuch sechs weitere Mitglieder.
 
 Sie entscheidet mit einfacher Stimmenmehrheit der anwesenden Mitglieder. Stimmenthaltung ist nicht zulässig. Ergibt sich keine Mehrheit, gibt die Stimme des Vorsitzenden den Ausschlag.
 
