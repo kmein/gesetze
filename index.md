@@ -624,7 +624,6 @@
 - [BEGDV1/2/3ÄndV 3](laws/BEGDV1_2_3ÄndV_3.md) Dritte Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [BEGDV2ÄndV 4](laws/BEGDV2ÄndV_4.md) Vierte Verordnung zur Änderung der Zweiten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 - [BEGDV3ÄndV 4](laws/BEGDV3ÄndV_4.md) Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
-- [BEGebV](laws/BEGebV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen der Eisenbahnverkehrsverwaltung des Bundes
 - [BegleitG](laws/BegleitG.md) Begleitgesetz zum Telekommunikationsgesetz
 - [BeglV](laws/BeglV.md) Verordnung über die zu Beglaubigungen befugten Behörden
 - [BEGSchlG](laws/BEGSchlG.md) Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes

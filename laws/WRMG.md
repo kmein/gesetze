@@ -9,7 +9,7 @@ Dieses Gesetz gilt für das Inverkehrbringen und die sonstige Bereitstellung auf
 
 (1) Wasch- und Reinigungsmittel im Sinne dieses Gesetzes sind die in Artikel 2 Nummer 1 der Verordnung (EG) Nr. 648/2004 genannten Stoffe, Gemische oder Produkte. Als Wasch- und Reinigungsmittel gelten auch
 
-1. tensidhaltige, zur Reinigung bestimmte kosmetische Mittel im Sinne des § 2 Absatz 5 des Lebensmittel- und Futtermittelgesetzbuches, die erfahrungsgemäß nach Gebrauch in Gewässer gelangen können,
+1. tensidhaltige, zur Reinigung bestimmte kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a auch in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, die erfahrungsgemäß nach Gebrauch in Gewässer gelangen können,
 
 2. von Satz 1 nicht erfasste Produkte, die bestimmungsgemäß den Reinigungsprozess unterstützen und erfahrungsgemäß nach Gebrauch in Gewässer gelangen können, sowie
 

@@ -23,7 +23,7 @@ Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen eingeleit
 
 # § 4 – Erlösobergrenzen
 
-(1) Die Erlösobergrenzen werden nach Maßgabe der §§ 5 bis 16, 19, 22, 24 und 25 bestimmt.
+(1) Die Erlösobergrenzen werden nach Maßgabe der §§ 5 bis 17, 19, 22 und 24 bestimmt.
 
 (2) Die Erlösobergrenze ist für jedes Kalenderjahr der gesamten Regulierungsperiode zu bestimmen. Eine Anpassung der Erlösobergrenze während der laufenden Regulierungsperiode erfolgt nach Maßgabe der Absätze 3 bis 5.
 
@@ -47,7 +47,7 @@ Einer erneuten Festlegung der Erlösobergrenze bedarf es in diesen Fällen nicht
 
 Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni des Kalenderjahres gestellt werden; die Anpassung erfolgt zum 1. Januar des folgenden Kalenderjahres. Der Antrag auf Anpassung nach Satz 1 Nummer 1a muss einmal jährlich zum 30. Juni des Kalenderjahres gestellt werden; die Anpassung erfolgt zum 1. Januar des folgenden Jahres.
 
-(5) Erfolgt eine Bestimmung des Qualitätselements nach Maßgabe des § 19, so hat die Regulierungsbehörde von Amts wegen die Erlösobergrenze entsprechend anzupassen. Die Anpassung nach Satz 1 erfolgt höchstens einmal jährlich zum 1. Januar des folgenden Kalenderjahres.
+(5) Erfolgt eine Bestimmung des Qualitätselements nach Maßgabe des § 19, so hat die Regulierungsbehörde von Amts wegen die Erlösobergrenze entsprechend anzupassen. Satz 1 ist auf den Zu- oder Abschlag nach § 17, der im auf das Geltungsjahr folgenden Kalenderjahr ermittelt wird, entsprechend anzuwenden. Die Anpassungen nach den Sätzen 1 und 2 erfolgen höchstens einmal jährlich zum 1. Januar des folgenden Kalenderjahres.
 
 # § 5 – Regulierungskonto
 
@@ -67,9 +67,9 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni de
 
 (2) Soweit Kosten dem Grunde oder der Höhe nach auf einer Besonderheit des Geschäftsjahres beruhen, auf das sich die Kostenprüfung bezieht, bleiben sie bei der Ermittlung des Ausgangsniveaus unberücksichtigt. § 3 Absatz 1 Satz 4 zweiter Halbsatz der Gasnetzentgeltverordnung sowie § 3 Absatz 1 Satz 5 zweiter Halbsatz der Stromnetzentgeltverordnung finden keine Anwendung.
 
-(3) Die Regulierungsbehörde ermittelt vor Beginn der Regulierungsperiode für jedes Jahr der Regulierungsperiode den Kapitalkostenabzug nach Maßgabe der Sätze 2 bis 5 und der Anlage 2a. Kapitalkosten im Sinne des Kapitalkostenabzugs nach Satz 1 sind die Summe der kalkulatorischen Abschreibungen, der kalkulatorischen Eigenkapitalverzinsung, der kalkulatorischen Gewerbesteuer und des Aufwandes für Fremdkapitalzinsen. Der Kapitalkostenabzug ergibt sich aus den im Ausgangsniveau nach den Absätzen 1 und 2 enthaltenen Kapitalkosten im Basisjahr abzüglich der fortgeführten Kapitalkosten im jeweiligen Jahr der Regulierungsperiode. Die fortgeführten Kapitalkosten werden unter Berücksichtigung der im Zeitablauf sinkenden kalkulatorischen Restbuchwerte der betriebsnotwendigen Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 sowie der im Zeitablauf sinkenden Werte der hierauf entfallenden Netzanschlusskostenbeiträge und Baukostenzuschüsse ermittelt. Bei der Bestimmung des jährlichen Kapitalkostenabzugs nach den Sätzen 1 bis 4 werden Kapitalkosten aus Investitionen nach dem Basisjahr nicht berücksichtigt.
+(3) Die Regulierungsbehörde ermittelt vor Beginn der Regulierungsperiode für jedes Jahr der Regulierungsperiode den Kapitalkostenabzug nach Maßgabe der Sätze 2 bis 5 und der Anlage 2a. Kapitalkosten im Sinne des Kapitalkostenabzugs nach Satz 1 sind die Summe der kalkulatorischen Abschreibungen, der kalkulatorischen Eigenkapitalverzinsung, der kalkulatorischen Gewerbesteuer und des Aufwandes für Fremdkapitalzinsen gemäß § 5 Absatz 2 der Stromnetzentgeltverordnung und § 5 Absatz 2 der Gasnetzentgeltverordnung. Der Kapitalkostenabzug ergibt sich aus den im Ausgangsniveau nach den Absätzen 1 und 2 enthaltenen Kapitalkosten im Basisjahr abzüglich der fortgeführten Kapitalkosten im jeweiligen Jahr der Regulierungsperiode. Die fortgeführten Kapitalkosten werden unter Berücksichtigung der im Zeitablauf sinkenden kalkulatorischen Restbuchwerte der betriebsnotwendigen Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 sowie der im Zeitablauf sinkenden Werte der hierauf entfallenden Netzanschlusskostenbeiträge und Baukostenzuschüsse ermittelt. Bei der Bestimmung des jährlichen Kapitalkostenabzugs nach den Sätzen 1 bis 4 werden Kapitalkosten aus Investitionen nach dem Basisjahr nicht berücksichtigt.
 
-(4) Absatz 3 ist nicht auf Betreiber von Übertragungs- und Fernleitungsnetzen anzuwenden.
+(4)(weggefallen)
 
 # § 7 – Regulierungsformel
 
@@ -137,13 +137,19 @@ Dabei ist bis einschließlich des letzten abgeschlossenen Kalenderjahres auf den
 
 Es ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand anzusetzen. Dabei ist bis einschließlich des letzten abgeschlossenen Kalenderjahres auf den tatsächlichen Bestand an Netzanschlusskostenbeiträgen und Baukostenzuschüssen abzustellen; im Übrigen ist bis einschließlich des Kalenderjahres, für das die Anpassung der Erlösobergrenze erfolgt, auf den zu erwartenden Bestand an Netzanschlusskostenbeiträgen und Baukostenzuschüssen abzustellen.
 
-(7) Der auf die nach den Absätzen 5 und 6 bestimmte kalkulatorische Verzinsungsbasis anzuwendende kalkulatorische Zinssatz bestimmt sich als gewichteter Mittelwert aus kalkulatorischem Eigenkapitalzinssatz und kalkulatorischem Fremdkapitalzinssatz, wobei der kalkulatorische Eigenkapitalzinssatz mit 40 Prozent und der kalkulatorische Fremdkapitalzinssatz mit 60 Prozent zu gewichten ist. Für den kalkulatorischen Eigenkapitalzinssatz sind die nach § 7 Absatz 6 der Stromnetzentgeltverordnung oder § 7 Absatz 6 der Gasnetzentgeltverordnung für die jeweilige Regulierungsperiode geltenden kalkulatorischen Eigenkapitalzinssätze für Neuanlagen anzusetzen. Für den kalkulatorischen Fremdkapitalzinssatz sind die nach § 7 Absatz 7 der Stromnetzentgeltverordnung oder § 7 Absatz 7 der Gasnetzentgeltverordnung für die jeweilige Regulierungsperiode geltenden Zinssätze anzusetzen.
+(7) Der auf die nach den Absätzen 5 und 6 bestimmte kalkulatorische Verzinsungsbasis anzuwendende kalkulatorische Zinssatz bestimmt sich als gewichteter Mittelwert aus kalkulatorischem Eigenkapitalzinssatz und kalkulatorischem Fremdkapitalzinssatz, wobei der kalkulatorische Eigenkapitalzinssatz mit 40 Prozent und der kalkulatorische Fremdkapitalzinssatz mit 60 Prozent zu gewichten ist. Für den kalkulatorischen Eigenkapitalzinssatz sind die nach § 7 Absatz 6 der Stromnetzentgeltverordnung oder § 7 Absatz 6 der Gasnetzentgeltverordnung für die jeweilige Regulierungsperiode geltenden kalkulatorischen Eigenkapitalzinssätze für Neuanlagen anzusetzen. Für den kalkulatorischen Fremdkapitalzinssatz bei Betreibern von Verteilernetzen sind die Zinssätze anzusetzen, die nach § 7 Absatz 7 der Stromnetzentgeltverordnung oder nach § 7 Absatz 7 der Gasnetzentgeltverordnung für die jeweilige Regulierungsperiode gelten. Bei der Bestimmung des kalkulatorischen Fremdkapitalzinssatzes für Betreiber von Übertragungs- und Fernleitungsnetzen ist für die kalkulatorische Verzinsungsbasis in dem nach Satz 1 bestimmten Umfang der sich nach Satz 5 für das jeweilige Anschaffungsjahr ergebende kalkulatorische Fremdkapitalzinssatz anzuwenden, der nach den sich aus den Sätzen 6 und 7 ergebenden Grundsätzen gewichtet wird. Für den kalkulatorischen Fremdkapitalzinssatz ist das arithmetische Mittel aus den folgenden von der Deutschen Bundesbank veröffentlichten Umlaufsrenditen oder Zinsreihen anzusetzen:
+
+1. Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen von Unternehmen und
+
+2. Kredite an nichtfinanzielle Kapitalgesellschaften über 1 Million Euro, bei einer anfänglichen Zinsbindung mit einer Laufzeit von über einem Jahr bis zu fünf Jahren.
+
+Als Anschaffungsjahr für bereits fertiggestellte Anlagen ist das Kalenderjahr maßgebend, in welchem das Anlagegut nach Fertigstellung erstmals aktiviert wurde; dabei bleiben bei der Bestimmung des zur Anwendung kommenden Fremdkapitalzinssatzes frühere Aktivierungen derselben Anlagen als Anlagen im Bau außer Betracht. Im Übrigen bleibt der kalkulatorische Fremdkapitalzinssatz für ein bestimmtes Anlagegut bei Kapitalkostenaufschlägen für spätere Kalenderjahre, in welchen dieses Anlagegut in der kalkulatorischen Verzinsungsbasis zu berücksichtigen ist, unverändert. Weitere Zuschläge werden nicht gewährt.
 
 (8) Für die Ermittlung der kalkulatorischen Gewerbesteuer ist das Produkt aus der mit 40 Prozent gewichteten kalkulatorischen Verzinsungsbasis nach den Absätzen 5 und 6 und dem kalkulatorischen Eigenkapitalzinssatz gemäß Absatz 7 Satz 2 heranzuziehen. Bei der Ermittlung der kalkulatorischen Gewerbesteuer sind die Gewerbesteuermesszahl und der Gewerbesteuerhebesatz im Basisjahr zu verwenden.
 
 (9) Der Antrag nach Absatz 1 muss die zur Berechnung des Kapitalkostenaufschlags nach den Absätzen 1 bis 8 notwendigen Angaben enthalten; insbesondere Angaben zu den Anschaffungs- und Herstellungskosten für die nach dem Basisjahr in Betrieb genommenen und geplanten betriebsnotwendigen Anlagegüter, die jeweils in Anwendung gebrachte betriebsgewöhnliche Nutzungsdauer nach Anlage 1 der Stromnetzentgeltverordnung oder nach Anlage 1 der Gasnetzentgeltverordnung sowie für die nach dem Basisjahr in Betrieb genommenen oder geplanten betriebsnotwendigen Anlagegüter von den Anschlussnehmern gezahlten oder zu erwartenden Netzanschlusskostenbeiträge und Baukostenzuschüsse nach § 7 Absatz 2 Satz 2 Nummer 4 der Stromnetzentgeltverordnung oder § 7 Absatz 2 Satz 2 Nummer 4 der Gasnetzentgeltverordnung.
 
-(10) Die Absätze 1 bis 9 sind nicht auf Betreiber von Übertragungs- und Fernleitungsnetzen anzuwenden.
+(10) (weggefallen)
 
 # § 11 – Beeinflussbare und nicht beeinflussbare Kostenanteile
 
@@ -169,18 +175,7 @@ Es ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand anzusetzen
 
 8. vermiedenen Netzentgelten im Sinne von § 18 der Stromnetzentgeltverordnung, § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes und § 6 Absatz 4 und § 13 Absatz 5 des Kraft-Wärme-Kopplungsgesetzes,
 
-8a. dem erweiterten Bilanzausgleich gemäß § 35 der Gasnetzzugangsverordnung vom 3. September 2010 (BGBl. I S. 1261) in der jeweils geltenden Fassung, abzüglich der vom Einspeiser von Biogas zu zahlenden Pauschale,
-
-–  
-erforderliche Maßnahmen des Netzbetreibers gemäß § 33 Absatz 10, § 34 Absatz 2 und § 36 Absatz 3 und 4 der Gasnetzzugangsverordnung,
-
-–  
-die Kosten für den effizienten Netzanschluss sowie für die Wartung gemäß § 33 Absatz 1 der Gasnetzzugangsverordnung,
-
-–  
-Entgelte für vermiedene Netzkosten, die vom Netzbetreiber gemäß § 20a der Gasnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S. 2197), die zuletzt durch Artikel 5 der Verordnung vom 3. September 2010 (BGBl. I S. 1261) geändert worden ist, in der jeweils geltenden Fassung, an den Transportkunden von Biogas zu zahlen sind,
-
-in der Höhe, in der die Kosten unter Berücksichtigung der Umlage nach § 20b der Gasnetzentgeltverordnung beim Netzbetreiber verbleiben.
+8a. (weggefallen)
 
 8b. Zahlungen an Städte oder Gemeinden nach Maßgabe von § 5 Absatz 4 der Stromnetzentgeltverordnung,
 
@@ -190,7 +185,7 @@ in der Höhe, in der die Kosten unter Berücksichtigung der Umlage nach § 20b d
 
 11. der Berufsausbildung und Weiterbildung im Unternehmen und von Betriebskindertagesstätten für Kinder der im Netzbereich beschäftigten Betriebsangehörigen,
 
-12. Entscheidungen über die grenzüberschreitende Kostenaufteilung nach Artikel 12 der Verordnung (EU) Nr. 347/2013 des Europäischen Parlaments und des Rates vom 17. April 2013 zu Leitlinien für die transeuropäische Energieinfrastruktur und zur Aufhebung der Entscheidung Nr. 1364/2006/EG und zur Änderung der Verordnungen (EG) Nr. 713/2009, (EG) Nr. 714/2009 und (EG) Nr. 715/2009 (ABl. L 115 vom 25.4.2013, S. 39), die zuletzt durch die Delegierte Verordnung (EU) 2016/89 (ABl. L 19 vom 27.1.2016, S. 1) geändert worden ist,
+12. Entscheidungen über die grenzüberschreitende Kostenaufteilung nach Artikel 12 der Verordnung (EU) Nr. 347/2013 des Europäischen Parlaments und des Rates vom 17. April 2013 zu Leitlinien für die transeuropäische Energieinfrastruktur und zur Aufhebung der Entscheidung Nr. 1364/2006/EG und zur Änderung der Verordnungen (EG) Nr. 713/2009, (EG) Nr. 714/2009 und (EG) Nr. 715/2009 (ABl. L 115 vom 25.4.2013, S. 39), die zuletzt durch die Delegierte Verordnung (EU) 2020/389 (ABl. L 74 vom 11.3.2020, S. 1) geändert worden ist,
 
 12a. Forschung und Entwicklung nach Maßgabe des § 25a,
 
@@ -206,21 +201,27 @@ in der Höhe, in der die Kosten unter Berücksichtigung der Umlage nach § 20b d
 
 18. Kosten aus der Erfüllung des Zahlungsanspruchs nach § 28g des Energiewirtschaftsgesetzes, wobei Erlöse aus der Erfüllung von Zahlungsansprüchen nach § 28h des Energiewirtschaftsgesetzes mit den Kosten aus der Erfüllung von Zahlungsansprüchen nach § 28g des Energiewirtschaftsgesetzes zu verrechnen sind, soweit diese Kosten im Sinne von Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54) enthalten.
 
-Als dauerhaft nicht beeinflussbare Kostenanteile gelten bei Stromversorgungsnetzen auch solche Kosten oder Erlöse, die sich aus Maßnahmen des Netzbetreibers ergeben, die einer wirksamen Verfahrensregulierung nach der Stromnetzzugangsverordnung oder der Verordnung (EG) Nr. 714/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Netzzugangsbedingungen für den grenzüberschreitenden Stromhandel und zur Aufhebung der Verordnung (EG) Nr. 1228/2003 (ABl. L 211 vom 14.8.2009, S. 15), die zuletzt durch die Verordnung (EU) Nr. 543/2013 (ABl. L 163 vom 15.6.2013, S. 1) geändert worden ist, unterliegen, insbesondere
+Als dauerhaft nicht beeinflussbare Kostenanteile gelten bei Stromversorgungsnetzen auch solche Kosten oder Erlöse, die sich aus Maßnahmen des Netzbetreibers ergeben, die einer wirksamen Verfahrensregulierung nach der Stromnetzzugangsverordnung oder der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54), unterliegen, insbesondere
 
-1. Kompensationszahlungen im Rahmen des Ausgleichsmechanismus nach Artikel 13 der Verordnung (EG) Nr. 714/2009,
+1. Kompensationszahlungen im Rahmen des Ausgleichsmechanismus nach Artikel 49 der Verordnung (EU) 2019/943,
 
-2. Erlöse aus dem Engpassmanagement nach Artikel 16 der Verordnung (EG) Nr. 714/2009 oder nach § 15 der Stromnetzzugangsverordnung, soweit diese entgeltmindernd nach Artikel 6 Absatz 6 Satz 2 der Verordnung (EG) Nr. 714/2009 oder nach § 15 Absatz 3 Satz 1 der Stromnetzzugangsverordnung geltend gemacht werden, und
+2. Erlöse aus dem Engpassmanagement nach Artikel 19 der Verordnung (EU) 2019/943 oder nach § 15 der Stromnetzzugangsverordnung, soweit diese entgeltmindernd nach Artikel 19 Absatz 2 und 3 der Verordnung (EU) 2019/943 oder nach § 15 Absatz 3 Satz 1 der Stromnetzzugangsverordnung geltend gemacht werden, und
 
 3. Kosten für die Beschaffung der Energie zur Erbringung von Ausgleichsleistungen, einschließlich der Kosten für die lastseitige Beschaffung.
 
-Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch solche Kosten oder Erlöse, die sich aus Maßnahmen des Netzbetreibers ergeben, die einer wirksamen Verfahrensregulierung nach der Gasnetzzugangsverordnung oder der Verordnung (EG) Nr. 1775/2005 des Europäischen Parlaments und des Rates vom 28. September 2005 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen (ABl. EU Nr. L 289 S. 1) unterliegen. Eine wirksame Verfahrensregulierung im Sinne der Sätze 2 und 3 liegt vor, soweit eine umfassende Regulierung des betreffenden Bereichs durch vollziehbare Entscheidungen der Regulierungsbehörden oder freiwillige Selbstverpflichtungen der Netzbetreiber erfolgt ist, die Regulierungsbehörde dies nach § 32 Abs. 1 Nr. 4 festgelegt hat und es sich nicht um volatile Kostenanteile nach § 11 Absatz 5 handelt.
+Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch solche Kosten oder Erlöse, die sich aus Maßnahmen des Netzbetreibers ergeben, die einer wirksamen Verfahrensregulierung nach der Gasnetzzugangsverordnung oder der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1775/2005, die zuletzt durch die Verordnung (EU) 2018/1999 (ABl. L 328 vom 21.12.2018, S. 1) geändert worden ist, unterliegen. Eine wirksame Verfahrensregulierung im Sinne der Sätze 2 und 3 liegt vor, soweit eine umfassende Regulierung des betreffenden Bereichs durch vollziehbare Entscheidungen der Regulierungsbehörden oder freiwillige Selbstverpflichtungen der Netzbetreiber erfolgt ist, die Regulierungsbehörde dies nach § 32 Abs. 1 Nr. 4 festgelegt hat und es sich nicht um volatile Kostenanteile nach § 11 Absatz 5 handelt.
 
-(3) Als vorübergehend nicht beeinflussbare Kostenanteile des jeweiligen Jahres der Regulierungsperiode gelten für Betreiber von Elektrizitäts- und Gasverteilernetzen die mit dem nach § 15 ermittelten bereinigten Effizienzwert multiplizierten Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile des Ausgangsniveaus und nach Abzug des Kapitalkostenabzugs des jeweiligen Jahres der Regulierungsperiode. Abweichend von Satz 1 gelten als vorübergehend nicht beeinflussbare Kostenanteile für Betreiber von Übertragungs- und Fernleitungsnetzen die mit dem nach § 15 ermittelten bereinigten Effizienzwert multiplizierten Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile. In den nach den Sätzen 1 oder 2 ermittelten vorübergehend nicht beeinflussbaren Kostenanteilen sind die auf nicht zurechenbare strukturelle Unterschiede der Versorgungsgebiete beruhenden Kostenanteile enthalten.
+(3) Als vorübergehend nicht beeinflussbare Kostenanteile des jeweiligen Jahres der Regulierungsperiode gelten die mit dem nach § 15 ermittelten bereinigten Effizienzwert multiplizierten Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile des Ausgangsniveaus und nach Abzug des Kapitalkostenabzugs des jeweiligen Jahres der Regulierungsperiode. In den nach Satz 1 ermittelten vorübergehend nicht beeinflussbaren Kostenanteilen sind die auf nicht zurechenbare strukturelle Unterschiede der Versorgungsgebiete beruhenden Kostenanteile enthalten.
 
-(4) Als beeinflussbare Kostenanteile des jeweiligen Jahres der Regulierungsperiode gelten für Betreiber von Elektrizitäts- und Gasverteilernetzen die Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile des Ausgangsniveaus, nach Abzug des Kapitalkostenabzugs des jeweiligen Jahres der Regulierungsperiode und nach Abzug der vorübergehend nicht beeinflussbaren Kostenanteile nach Absatz 3. Abweichend von Satz 1 gelten als beeinflussbare Kostenanteile für Betreiber von Übertragungs- und Fernleitungsnetzen alle Kostenanteile, die nicht dauerhaft oder vorübergehend nicht beeinflussbare Kostenanteile nach Absatz 3 Satz 2 sind.
+(4) Als beeinflussbare Kostenanteile des jeweiligen Jahres der Regulierungsperiode gelten die Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile des Ausgangsniveaus, nach Abzug des Kapitalkostenabzugs des jeweiligen Jahres der Regulierungsperiode und nach Abzug der vorübergehend nicht beeinflussbaren Kostenanteile nach Absatz 3.
 
-(5) Als volatile Kostenanteile gelten Kosten für die Beschaffung von Treibenergie. Andere beeinflussbare oder vorübergehend nicht beeinflussbare Kostenanteile, insbesondere Kosten für die Beschaffung von Verlustenergie, deren Höhe sich in einem Kalenderjahr erheblich von der Höhe des jeweiligen Kostenanteils im vorhergehenden Kalenderjahr unterscheiden kann, gelten als volatile Kostenanteile, soweit die Regulierungsbehörde dies nach § 32 Absatz 1 Nummer 4a festgelegt hat. Kapitalkosten oder Fremdkapitalkosten gelten nicht als volatile Kostenanteile.
+(5) Als volatile Kostenanteile sind folgende Kosten anzusehen:
+
+1. Kosten für die Beschaffung von Treibenergie und
+
+2. Kosten für Maßnahmen der Betreiber von Elektrizitätsverteilernetzen nach § 13 Absatz 1 Satz 1 Nummer 2 des Energiewirtschaftsgesetzes in Verbindung mit § 14 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes.
+
+Andere beeinflussbare oder vorübergehend nicht beeinflussbare Kostenanteile, insbesondere Kosten für die Beschaffung von Verlustenergie, deren Höhe sich in einem Kalenderjahr erheblich von der Höhe des jeweiligen Kostenanteils im vorhergehenden Kalenderjahr unterscheiden kann, gelten als volatile Kostenanteile, soweit die Regulierungsbehörde dies nach § 32 Absatz 1 Nummer 4a festgelegt hat. Kapitalkosten oder Fremdkapitalkosten gelten nicht als volatile Kostenanteile.
 
 (+++ § 11 Abs. 2 Satz 1 Nr. 16: Zur Anwendung vgl. § 34 Abs. 8a +++)
 
@@ -306,7 +307,13 @@ Bei der Bestimmung von Parametern zur Beschreibung geografischer, geologischer o
 
 (2) Soweit ein Netzbetreiber nachweist, dass er die für ihn festgelegte individuelle Effizienzvorgabe unter Nutzung aller ihm möglichen und zumutbaren Maßnahmen nicht erreichen und übertreffen kann, hat die Regulierungsbehörde die Effizienzvorgabe abweichend von Absatz 1 zu bestimmen. Bei der Bewertung der Zumutbarkeit ist zu berücksichtigen, inwieweit der Effizienzwert nach § 12 Abs. 4 angesetzt worden ist. Unzumutbar sind auch Maßnahmen, die dazu führen, dass die wesentlichen Arbeitsbedingungen, die in dem nach dem Energiewirtschaftsgesetz regulierten Bereich üblich sind, erheblich unterschritten werden. Eine Berücksichtigung struktureller Besonderheiten erfolgt ausschließlich nach Maßgabe des § 15 Abs. 1.
 
-# § 17 – (weggefallen)
+# § 17 – Anreizinstrument zur Verringerung von Engpassmanagementkosten der Übertragungsnetzbetreiber
+
+(1) Die Übertragungsnetzbetreiber berechnen den für sie gemeinsam geltenden Referenzwert jährlich zum 31. August für das folgende Kalenderjahr als Geltungsjahr mittels einer linearen Trendfunktion und teilen diesen Referenzwert der Bundesnetzagentur mit. Als Referenzwert nach Satz 1 ist der Wert maßgebend, der sich aus der linearen Trendfunktion für das der Berechnung vorangegangene Kalenderjahr ergibt. In die Berechnung der linearen Trendfunktion gehen die Engpassmanagementkosten nach Anlage 5 der jeweils letzten fünf vorangegangenen Kalenderjahre ein.
+
+(2) Die Übertragungsnetzbetreiber ermitteln gemeinsam im auf das Geltungsjahr folgenden Kalenderjahr die tatsächlich entstandenen Engpassmanagementkosten nach Anlage 5 für das Geltungsjahr. An der positiven oder negativen Differenz zwischen den Kosten nach Satz 1 und dem Referenzwert nach Absatz 1 für das entsprechende Geltungsjahr werden die Übertragungsnetzbetreiber gemeinsam in Höhe von 6 Prozent, jedoch höchstens in Höhe von jährlich 30 Millionen Euro, beteiligt. Die Höhe der auf die einzelnen Übertragungsnetzbetreiber entfallenden Beteiligung richtet sich grundsätzlich nach einem Aufteilungsschlüssel, der von den Übertragungsnetzbetreibern gemeinsam bestimmt wird. Wird ein Aufteilungsschlüssel nach Satz 3 nicht bestimmt, erfolgt die Aufteilung entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes.
+
+(3) Die auf jeden einzelnen Übertragungsnetzbetreiber entfallende Beteiligung wird im Falle einer negativen Differenz durch einen entsprechenden Zuschlag und im Falle einer positiven Differenz durch einen entsprechenden Abschlag auf die jährliche Erlösobergrenze des jeweiligen Übertragungsnetzbetreibers nach § 4 Absatz 5 berücksichtigt. Die Zu- und Abschläge nach Absatz 2 Satz 3 und 4 werden in der Regulierungsformel nach Anlage 1 berücksichtigt. Hierzu sind der Bundesnetzagentur bis zum 31. August des auf das Geltungsjahr folgenden Kalenderjahres die nach Absatz 2 Satz 2 ermittelte Differenz sowie der anzuwendende Aufteilungsschlüssel nach Absatz 2 Satz 3 oder der gesetzliche Aufteilungsschlüssel nach Absatz 2 Satz 4 mitzuteilen.
 
 # § 18 – Qualitätsvorgaben
 
@@ -330,7 +337,7 @@ Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten, leistungsf
 
 (4) Die Landesregulierungsbehörden können bei der Bestimmung von Qualitätselementen die von der Bundesnetzagentur ermittelten Kennzahlenvorgaben, deren Kombination, Gewichtung oder monetäre Bewertung verwenden.
 
-(5) Auch für die Bewertung der Netzleistungsfähigkeit können Kennzahlen herangezogen werden. Dies gilt nur, soweit der Regulierungsbehörde hierfür hinreichend belastbare Datenreihen vorliegen. Kennzahlen nach Satz 1 können insbesondere die Häufigkeit und Dauer von Maßnahmen zur Bewirtschaftung von Engpässen und die Häufigkeit und Dauer des Einspeisemanagements nach dem Erneuerbare-Energien-Gesetz sein. Die Absätze 1 bis 4 finden in diesem Fall entsprechende Anwendung, wobei bei Befragungen nach Absatz 3 nicht auf die Kunden, sondern auf die Netznutzer, die Energie einspeisen, abzustellen ist. Die Bundesnetzagentur nimmt eine Evaluierung nach § 33 Abs. 3 Satz 2 vor, inwieweit die Verwendung von Kennzahlen nach den Sätzen 1 und 3 der Erfüllung der unter § 1 des Energiewirtschaftsgesetzes genannten Zwecke dient.
+(5) Auch für die Bewertung der Netzleistungsfähigkeit können Kennzahlen herangezogen werden. Dies gilt nur, soweit der Regulierungsbehörde hierfür hinreichend belastbare Datenreihen vorliegen. Kennzahlen nach Satz 1 können insbesondere die Häufigkeit und Dauer von Maßnahmen zur Bewirtschaftung von Engpässen und die Häufigkeit und Dauer des Einspeisemanagements nach dem Erneuerbare-Energien-Gesetz sein. Die Absätze 1 bis 4 finden in diesem Fall entsprechende Anwendung, wobei bei Befragungen nach Absatz 3 nicht auf die Kunden, sondern auf die Netznutzer, die Energie einspeisen, abzustellen ist.
 
 # § 21 – Bericht zum Investitionsverhalten
 
@@ -354,7 +361,7 @@ Die Netzbetreiber sind verpflichtet, auf Anforderung der Regulierungsbehörde ei
 
 2. die Integration von Anlagen, die dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz unterfallen,
 
-3. den Ausbau von Verbindungskapazitäten nach Artikel 16 Absatz 6 Buchstabe b der Verordnung (EG) Nr. 714/2009 (ABl. L 211 vom 14.8.2009, S. 15),
+3. den Ausbau von Verbindungskapazitäten nach Artikel 19 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 2019/943,
 
 4. den Ausbau von Gastransportkapazitäten zwischen Marktgebieten, soweit dauerhaft technisch bedingte Engpässe vorliegen und diese nicht durch andere, wirtschaftlich zumutbare Maßnahmen beseitigt werden können,
 
@@ -372,7 +379,7 @@ Als Kosten einer genehmigten Investitionsmaßnahme können Betriebs- und Kapital
 
 (1a) Soweit die Bundesnetzagentur nicht gemäß § 32 Absatz 1 Nummer 8a etwas Abweichendes festgelegt hat, können ab dem Zeitpunkt der vollständigen Inbetriebnahme der Anlagegüter der Investitionsmaßnahme oder eines Teils der Investitionsmaßnahme bis zum Ende der Regulierungsperiode, in der die Genehmigung der Investitionsmaßnahme nach Absatz 1 gilt, als Betriebskosten für die Anlagegüter, die Gegenstand der Investitionsmaßnahme sind, jährlich pauschal 0,8 Prozent der für die Investitionsmaßnahme ansetzbaren Anschaffungs- und Herstellungskosten geltend gemacht werden, abzüglich des projektspezifischen oder des pauschal festgelegten Ersatzanteils. Für den Zeitraum bis zum Zeitpunkt einer Inbetriebnahme von Anlagegütern hat die Bundesnetzagentur eine Pauschale nach § 32 Absatz 1 Nummer 8c festzulegen.
 
-(2) Erlöse aus dem Engpassmanagement nach Artikel 16 der Verordnung (EG) Nr. 714/2009 oder nach § 15 der Stromnetzzugangsverordnung, soweit diese für Maßnahmen zur Beseitigung von Engpässen nach Artikel 16 Abs. 6 Buchstabe b der Verordnung (EG) Nr. 714/2009 oder § 15 Abs. 3 Satz 1 der Stromnetzzugangsverordnung verwendet werden, sind bei der Ermittlung der aus genehmigten Investitionsmaßnahmen resultierenden Kosten in Abzug zu bringen. Satz 1 gilt entsprechend für Erlöse aus dem Engpassmanagement nach Artikel 16 der Verordnung (EG) Nr. 715/2009 (ABl. L 211 vom 14.8.2009, S. 36) oder § 17 Absatz 4 der Gasnetzzugangsverordnung, soweit diese für Maßnahmen zur Beseitigung von Engpässen nach Artikel 16 der Verordnung (EG) Nr. 715/2009 (ABl. L 211 vom 14.8.2009, S. 36) oder § 17 Absatz 4 der Gasnetzzugangsverordnung verwendet werden.
+(2) Erlöse aus dem Engpassmanagement nach Artikel 19 der Verordnung (EU) Nr. 2019/943 oder nach § 15 der Stromnetzzugangsverordnung, soweit diese für Maßnahmen zur Beseitigung von Engpässen nach Artikel 19 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 2019/943 oder § 15 Abs. 3 Satz 1 der Stromnetzzugangsverordnung verwendet werden, sind bei der Ermittlung der aus genehmigten Investitionsmaßnahmen resultierenden Kosten in Abzug zu bringen. Satz 1 gilt entsprechend für Erlöse aus dem Engpassmanagement nach Artikel 16 der Verordnung (EG) Nr. 715/2009 (ABl. L 211 vom 14.8.2009, S. 36), die zuletzt durch die Verordnung (EU) 2018/1999 (ABl. L 328 vom 21.12.2018, S. 1) geändert worden ist, oder § 17 Absatz 4 der Gasnetzzugangsverordnung, soweit diese für Maßnahmen zur Beseitigung von Engpässen nach Artikel 16 der Verordnung (EG) Nr. 715/2009 (ABl. L 211 vom 14.8.2009, S. 36), die zuletzt durch die Verordnung (EU) 2018/1999 (ABl. L 328 vom 21.12.2018, S. 1) geändert worden ist, oder § 17 Absatz 4 der Gasnetzzugangsverordnung verwendet werden.
 
 (2a) Die in den letzten drei Jahren der Genehmigungsdauer der Investitionsmaßnahme entstandenen Betriebs- und Kapitalkosten, die auf Grund der Regelung nach § 4 Absatz 3 Satz 1 Nummer 2 sowohl im Rahmen der genehmigten Investitionsmaßnahme als auch in der Erlösobergrenze gemäß § 4 Absatz 1 der folgenden Regulierungsperiode berücksichtigt werden, sind als Abzugsbetrag zu berücksichtigen. Die Betriebs- und Kapitalkosten nach Satz 1 sind bis zum Ende der Genehmigungsdauer aufzuzinsen. Für die Verzinsung gilt § 5 Absatz 2 Satz 3 entsprechend. Die Auflösung des nach den Sätzen 1 bis 3 ermittelten Abzugsbetrags erfolgt gleichmäßig über 20 Jahre, beginnend mit dem Jahr nach Ablauf der Genehmigungsdauer der Investitionsmaßnahme.
 
@@ -402,11 +409,11 @@ Soweit die Bundesnetzagentur dies nach § 32 Absatz 1 Nummer 8 für Investitions
 
 # § 24 – Vereinfachtes Verfahren
 
-(1) Netzbetreiber, an deren Gasverteilernetz weniger als 15.000 Kunden oder an deren Elektrizitätsverteilernetz weniger als 30.000 Kunden unmittelbar oder mittelbar angeschlossen sind, können bezüglich des jeweiligen Netzes statt des Effizienzvergleichs zur Ermittlung von Effizienzwerten nach den §§ 12 bis 14 die Teilnahme an dem vereinfachten Verfahren nach Maßgabe des Absatzes 2 wählen.
+(1) Netzbetreiber, an deren Gasverteilernetz weniger als 15 000 Kunden oder an deren Elektrizitätsverteilernetz weniger als 30 000 Kunden unmittelbar oder mittelbar angeschlossen sind, können bezüglich des jeweiligen Netzes statt des Effizienzvergleichs zur Ermittlung von Effizienzwerten nach den §§ 12 bis 14 die Teilnahme an dem vereinfachten Verfahren nach Maßgabe des Absatzes 2 wählen.
 
-(2) Für die Teilnehmer am vereinfachten Verfahren beträgt der Effizienzwert in der ersten Regulierungsperiode 87,5 Prozent. Ab der zweiten Regulierungsperiode wird der Effizienzwert als gewichteter durchschnittlicher Wert aller in dem bundesweiten Effizienzvergleich nach den §§ 12, 13 und 14 für die vorangegangene Regulierungsperiode ermittelten und nach § 15 Abs. 1 bereinigten Effizienzwerte (gemittelter Effizienzwert) gebildet. Im vereinfachten Verfahren gelten 5 Prozent der nach § 14 Abs. 1 Nr. 1 ermittelten Gesamtkosten als dauerhaft nicht beeinflussbare Kostenanteile nach § 11 Absatz 2 Satz 1 Nummer 1 bis 3, 5 bis 7, 8a bis 16 und Satz 2 bis 4. Bei der Ermittlung der Gesamtkosten bleiben die Konzessionsabgabe und der Zuschlag aus dem Kraft-Wärme-Kopplungsgesetz unberücksichtigt. Die Bundesnetzagentur übermittelt den Landesregulierungsbehörden die von ihr nach Satz 2 ermittelten Werte. Die Landesregulierungsbehörden ermitteln einen gemittelten Effizienzwert nach Maßgabe des Satzes 2, soweit sie nicht die von der Bundesnetzagentur ermittelten Werte verwenden.
+(2) Für die Teilnehmer am vereinfachten Verfahren beträgt der Effizienzwert in der ersten Regulierungsperiode 87,5 Prozent. Ab der zweiten Regulierungsperiode wird der Effizienzwert als gewichteter durchschnittlicher Wert aller in dem bundesweiten Effizienzvergleich nach den §§ 12, 13 und 14 für die vorangegangene Regulierungsperiode ermittelten und nach § 15 Absatz 1 bereinigten Effizienzwerte (gemittelter Effizienzwert) gebildet. Im vereinfachten Verfahren gelten 5 Prozent der nach § 14 Absatz 1 Nr. 1 ermittelten Gesamtkosten als dauerhaft nicht beeinflussbare Kostenanteile nach § 11 Absatz 2 Satz 1 Nummer 1 bis 3, 5 bis 7, 8b bis 16 und Satz 2 bis 4. Bei der Ermittlung der Gesamtkosten bleiben die Konzessionsabgabe und der Zuschlag aus dem Kraft-Wärme-Kopplungsgesetz unberücksichtigt. Die Bundesnetzagentur übermittelt den Landesregulierungsbehörden die von ihr nach Satz 2 ermittelten Werte. Die Landesregulierungsbehörden ermitteln einen gemittelten Effizienzwert nach Maßgabe des Satzes 2, soweit sie nicht die von der Bundesnetzagentur ermittelten Werte verwenden.
 
-(3) § 4 Abs. 3 Satz 1 Nr. 2 mit Ausnahme von § 4 Abs. 3 Satz 1 Nr. 2 in Verbindung mit § 11 Abs. 2 Satz 1 Nr. 4, 5 und 8, § 15 Abs. 1 und 2 sowie die §§ 19, 21, 23 Abs. 6 und § 25 finden im vereinfachten Verfahren keine Anwendung.
+(3) § 4 Absatz 3 Satz 1 Nr. 2 mit Ausnahme von § 4 Absatz 3 Satz 1 Nr. 2 in Verbindung mit § 11 Absatz 2 Satz 1 Nr. 4, 5 und 8, § 15 Absatz 1 und 2 sowie die §§ 19, 21 und § 23 Absatz 6 finden im vereinfachten Verfahren keine Anwendung.
 
 (4) Netzbetreiber, die an dem vereinfachten Verfahren teilnehmen wollen, haben dies bei der Regulierungsbehörde jeweils bis zum 31. März des vorletzten der Regulierungsperiode vorangehenden Kalenderjahres zu beantragen; abweichend hiervon ist der Antrag für die erste Regulierungsperiode zum 15. Dezember 2007 zu stellen. Der Antrag nach Satz 1 muss die notwendigen Angaben zum Vorliegen der Voraussetzungen des Absatzes 1 enthalten. Die Regulierungsbehörde genehmigt die Teilnahme am vereinfachten Verfahren innerhalb von vier Wochen nach Eingang des vollständigen Antrags, wenn die Voraussetzungen des Absatzes 1 vorliegen. Der Netzbetreiber ist an das gewählte Verfahren für die Dauer einer Regulierungsperiode gebunden. Die Regulierungsbehörde veröffentlicht den von ihr nach Absatz 2 ermittelten gemittelten Effizienzwert spätestens zum 1. Januar des vorletzten der Regulierungsperiode vorangehenden Kalenderjahres. Die Bundesnetzagentur ist über die Entscheidung über den Antrag durch die Landesregulierungsbehörde zu unterrichten.
 
@@ -462,9 +469,13 @@ die Netzbetreiber sind insoweit zur Auskunft verpflichtet. Im Übrigen ermittelt
 
 3. zur Ermittlung der bereinigten Effizienzwerte nach § 15 und der individuellen Effizienzvorgaben nach § 16,
 
-4. zu den Anforderungen an die Berichte nach § 21 und
+4. zu den Anforderungen an die Berichte nach § 21,
 
-5. zur Genehmigung von Investitionsmaßnahmen nach § 23.
+5. zur Genehmigung von Investitionsmaßnahmen nach § 23,
+
+6. zur Festlegung nach § 32 Absatz 2 Satz 2 und
+
+7. zur Durchführung der Aufgaben nach § 17 sowie zur Festlegung nach § 32 Absatz 1 Nummer 5a.
 
 (2) Die Bundesnetzagentur kann darüber hinaus die zur Evaluierung des Anreizregulierungssystems, jährlich zur Beobachtung des Investitionsverhaltens der Netzbetreiber und zur Erstellung der Berichte nach § 33 notwendigen Daten erheben.
 
@@ -482,9 +493,9 @@ Die Netzbetreiber teilen der Regulierungsbehörde mit
 
 5. Abweichungen von den Kennzahlenvorgaben nach den §§ 19 und 20,
 
-6. Angaben dazu, inwieweit die den Investitionsmaßnahmen nach § 23 zugrunde liegenden Investitionen tatsächlich durchgeführt und kostenwirksam werden sollen, sowie die entsprechende Anpassung der Erlösobergrenze nach § 4 Absatz 3 Satz 1 Nummer 2 und inwieweit die den Investitionsmaßnahmen nach § 23 zugrunde liegenden Investitionen im Vorjahr tatsächlich durchgeführt wurden und kostenwirksam geworden sind, jeweils jährlich zum 1. Januar eines Kalenderjahres,
+6. Angaben dazu, inwieweit die den Investitionsmaßnahmen nach § 23 zugrunde liegenden Investitionen tatsächlich durchgeführt und kostenwirksam werden sollen, sowie die entsprechende Anpassung der Erlösobergrenze nach § 4 Absatz 3 Satz 1 Nummer 2 und inwieweit die den Investitionsmaßnahmen nach § 23 zugrunde liegenden Investitionen im Vorjahr tatsächlich durchgeführt wurden und kostenwirksam geworden sind, jeweils jährlich zum 1. Januar eines Kalenderjahres und
 
-7. die Differenz nach § 25 Abs. 3 Satz 1; außerdem eine für einen sachkundigen Dritten nachvollziehbare Darstellung der in der Regulierungsperiode zur Ausschöpfung des beantragten pauschalierten Investitionszuschlags tatsächlich erfolgten Investitionen und ihrer Kostenwirksamkeit und
+7. (weggefallen)
 
 8. den Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen nach § 26, insbesondere den Übergang oder die Addition von Erlösobergrenzen nach § 26 Abs. 1; die Netzbetreiber haben darüber hinaus unverzüglich den Übergang des Netzbetriebs anzuzeigen, soweit sich ein Wechsel des zuständigen Netzbetreibers ergeben hat.
 
@@ -500,9 +511,7 @@ Die Netzbetreiber haben darüber hinaus der Bundesnetzagentur sowie der zuständ
 
 Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesondere für die Anwendung der Regulierungsformel nach § 7 und zur Durchführung des Effizienzvergleichs nach den §§ 12 bis 14 notwendigen Daten vor Beginn der Regulierungsperiode nicht rechtzeitig vorliegen, können die Daten für das letzte verfügbare Kalenderjahr verwendet werden. Soweit keine oder offenkundig unzutreffende Daten vorliegen, kann die Regulierungsbehörde die fehlenden Daten durch Schätzung oder durch eine Referenznetzanalyse unter Verwendung von bei der Regulierungsbehörde vorhandenen oder ihr bekannten Daten bestimmen. § 12 Abs. 4 Satz 2 und § 14 Abs. 3 Satz 4 und 5 bleiben unberührt.
 
-# § 31 – Veröffentlichung von Daten
-
-Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Internetseite den nach § 9 ermittelten generellen sektoralen Produktivitätsfaktor und den nach § 24 ermittelten gemittelten Effizienzwert.
+# § 31 – (weggefallen)
 
 # § 32 – Festlegungen oder Genehmigungen der Regulierungsbehörde
 
@@ -526,6 +535,8 @@ Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Intern
 
 5. zur Durchführung einer Vergleichbarkeitsrechnung nach § 14 Abs. 1 Nr. 3,
 
+5a. zur Konkretisierung des Inhalts der Anlage 5,
+
 6. über den Beginn der Anwendung, die nähere Ausgestaltung und das Verfahren der Bestimmung des Qualitätselements nach den §§ 19 und 20,
 
 7. zu formeller Gestaltung, Inhalt und Struktur des Berichts zum Investitionsverhalten nach § 21,
@@ -546,11 +557,11 @@ Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Intern
 
 11. zu Umfang, Zeitpunkt und Form der nach den §§ 27 und 28 zu erhebenden und mitzuteilenden Daten, insbesondere zu den zulässigen Datenträgern und Übertragungswegen.
 
-(2) Die Bundesnetzagentur kann ferner Festlegungen treffen zur Durchführung, näheren Ausgestaltung und zu den Verfahren des Effizienzvergleichs und der relativen Referenznetzanalyse für Betreiber von Übertragungs- und Fernleitungsnetzen nach § 22.
+(2) Die Bundesnetzagentur kann ferner Festlegungen treffen zur Durchführung, näheren Ausgestaltung und zu den Verfahren des Effizienzvergleichs und der relativen Referenznetzanalyse für Betreiber von Übertragungs- und Fernleitungsnetzen nach § 22. Die Bundesnetzagentur kann Festlegungen zur angemessenen Berücksichtigung eines zeitlichen Versatzes zwischen der Errichtung von Anlagen nach dem Erneuerbare-Energien-Gesetz sowie dem entsprechenden und notwendigen Ausbau der Verteilernetze im Effizienzvergleich treffen, soweit ein solcher zeitlicher Versatz Kosten nach § 11 Absatz 5 Satz 1 Nummer 2 hervorruft und auf Gründen außerhalb der Einflusssphäre von Verteilernetzbetreibern beruht.
 
 # § 33 – Evaluierung und Berichte der Bundesnetzagentur
 
-(1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2023 einen Bericht mit einer Evaluierung und Vorschlägen zur weiteren Ausgestaltung der Anreizregulierung vor. Der Bericht enthält Angaben zur Entwicklung des Investitionsverhaltens der Netzbetreiber und zur Notwendigkeit weiterer Maßnahmen zur Vermeidung von Investitionshemmnissen. Sie kann im Rahmen der Evaluierung insbesondere Vorschläge machen
+(1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2024 einen Bericht mit einer Evaluierung und Vorschlägen zur weiteren Ausgestaltung der Anreizregulierung vor. Der Bericht enthält Angaben zur Entwicklung des Investitionsverhaltens der Netzbetreiber und zur Notwendigkeit weiterer Maßnahmen zur Vermeidung von Investitionshemmnissen. Sie kann im Rahmen der Evaluierung insbesondere Vorschläge machen
 
 1. zur Verwendung weiterer als der in Anlage 3 aufgeführten Vergleichsmethoden und zu ihrer sachgerechten Kombination,
 
@@ -564,13 +575,15 @@ Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Intern
 
 (2) Die Bundesnetzagentur soll den Bericht nach Absatz 1 unter Beteiligung der Länder, der Wissenschaft und der betroffenen Wirtschaftskreise erstellen sowie internationale Erfahrungen mit Anreizregulierungssystemen berücksichtigen. Sie gibt den betroffenen Wirtschaftskreisen Gelegenheit zur Stellungnahme und veröffentlicht die erhaltenen Stellungnahmen im Internet.
 
-(3) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2023 einen Bericht zur Notwendigkeit der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden, unter Berücksichtigung der internationalen Entwicklung von Anreizregulierungssystemen, vor.
+(3) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2024 einen Bericht zur Notwendigkeit der Weiterentwicklung der in Anlage 3 aufgeführten Vergleichsmethoden, unter Berücksichtigung der internationalen Entwicklung von Anreizregulierungssystemen, vor.
 
 (4) Die Bundesnetzagentur beobachtet das Investitionsverhalten der Netzbetreiber. Hierzu entwickelt sie ein Modell für ein indikatorbasiertes Investitionsmonitoring. Sie veröffentlicht darüber hinaus in regelmäßigen Abständen aussagekräftige Kennzahlen über das Investitionsverhalten der Netzbetreiber.
 
 (5) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zum Monitoring kurzer Versorgungsunterbrechungen unter drei Minuten bei Elektrizitätsverteilernetzen vor.
 
 (6) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zur Struktur und Effizienz von Elektrizitäts- und Gasverteilernetzbetreibern vor, die sich für das vereinfachte Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
+
+(7) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2027 einen Bericht mit einer Evaluierung des Anreizinstruments zur Verringerung von Engpassmanagementkosten der Übertragungsnetzbetreiber und mit Vorschlägen zur weiteren Ausgestaltung einer sachgerechten Einbeziehung von Kosten aus dem Engpassmanagement in die Anreizregulierung vor. Die Bundesnetzagentur hat zur Erstellung des Berichts die Vertreter von Wirtschaft und Verbrauchern zu hören.
 
 # § 34 – Übergangsregelungen
 
@@ -586,19 +599,37 @@ Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Intern
 
 (4) Netzbetreiber können den Antrag nach § 4 Absatz 4 Satz 1 Nummer 1a in Verbindung mit § 5 erstmals zum 30. Juni 2017 stellen. Bei der ersten Auflösung des Regulierungskontos nach Satz 1 umfasst die Auflösung des Regulierungskontos alle noch offenen Kalenderjahre. Abweichend von § 5 Absatz 3 Satz 1 wird der nach § 5 Absatz 1 und 1a in Verbindung mit Satz 1 ermittelte Saldo annuitätisch bis zum Ende der dritten Regulierungsperiode durch Zu- und Abschläge auf die Erlösobergrenze verteilt. § 5 Absatz 3 Satz 2 ist entsprechend anzuwenden.
 
-(5) § 6 Absatz 3 ist für die Dauer der dritten Regulierungsperiode nicht anzuwenden auf Kapitalkosten aus Investitionen von Verteilernetzbetreibern in betriebsnotwendige Anlagegüter, die im Zeitraum vom 1. Januar 2007 bis einschließlich 31. Dezember 2016 erstmals aktiviert wurden. Handelt es sich um Investitionen, für die eine Investitionsmaßnahme nach § 23 Absatz 6 oder Absatz 7 durch die Regulierungsbehörde genehmigt wurde, ist Satz 1 nicht anzuwenden. Für Verteilernetze ist § 23 Absatz 2a mit Beginn der dritten Regulierungsperiode nicht mehr anzuwenden.
+(5) § 6 Absatz 3 ist für die Dauer der dritten Regulierungsperiode nicht anzuwenden auf Kapitalkosten aus Investitionen sowie die hierauf entfallenden Baukostenzuschüsse, Netzanschlusskostenbeiträge und Sonderposten für Investitionszuschüsse von Verteilernetzbetreibern in betriebsnotwendige Anlagegüter, die im Zeitraum vom 1. Januar 2007 bis einschließlich 31. Dezember 2016 erstmals aktiviert wurden. Handelt es sich um Investitionen in Anlagen im Bau oder Investitionen, für die eine Investitionsmaßnahme nach § 23 Absatz 6 oder Absatz 7 durch die Regulierungsbehörde genehmigt wurde, ist Satz 1 nicht anzuwenden. Für Verteilernetze ist § 23 Absatz 2a mit Beginn der dritten Regulierungsperiode nicht mehr anzuwenden.
 
-(6) Betreiber von Gasverteilernetzen können den Antrag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a erstmals zum 30. Juni 2017 stellen. Betreiber von Elektrizitätsverteilernetzen können den Antrag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a erstmals zum 30. Juni 2018 stellen.
+(6) (weggefallen)
 
 (7) Ab der dritten Regulierungsperiode sind § 10 sowie § 23 Absatz 6 und 7 für Betreiber von Elektrizitäts- und Gasverteilernetzen nicht mehr anzuwenden. Die Wirksamkeit von über die zweite Regulierungsperiode hinaus nach § 23 Absatz 6 oder Absatz 7 genehmigten Investitionsmaßnahmen endet mit Ablauf der dritten Regulierungsperiode. Eine Neubescheidung erfolgt in diesen Fällen nicht. Für die der Investitionsmaßnahme zugrunde liegenden Anlagegüter darf für die Dauer der Genehmigung der Investitionsmaßnahme kein weiterer Kapitalkostenaufschlag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a genehmigt werden. Abweichend von den Sätzen 2 und 3 steht es Netzbetreibern frei, bis zum 30. Juni 2017 für Gasverteilernetze und bis zum 30. Juni 2018 für Stromverteilernetze einen Antrag auf Genehmigung eines Kapitalkostenaufschlags nach § 10a zu stellen. In diesem Fall endet die genehmigte Investitionsmaßnahme abweichend von Satz 2 mit Ablauf der zweiten Regulierungsperiode.
 
 (7a) Ab der dritten Regulierungsperiode ist § 23 nicht mehr anzuwenden auf Offshore-Anbindungsleitungen nach § 17d Absatz 1 und den §§ 17a und 17b des Energiewirtschaftsgesetzes sowie nach § 12b Absatz 1 Satz 3 Nummer 7 des Energiewirtschaftsgesetzes oder nach dem Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes. Die Wirksamkeit von Investitionsmaßnahmen, die über die zweite Regulierungsperiode hinaus genehmigt wurden, endet mit Ablauf der zweiten Regulierungsperiode. Die Sätze 1 und 2 sind nicht anzuwenden, soweit sich aus Absatz 14 etwas anderes ergibt.
 
-(8) Die Behandlung von Kosten des Einspeisemanagements als volatile Kosten tritt zum 1. Januar 2017 in Kraft. Für die bis dahin entstandenen Kosten aus Maßnahmen des Einspeisemanagements bleibt es bei der Regelung, diese als dauerhaft nicht beeinflussbare Kosten nach § 11 Absatz 2 Satz 1 Nummer 1 zu behandeln.
+(8) Bis zum Ende der dritten Regulierungsperiode gelten volatile Kosten im Sinne von § 11 Absatz 5 Satz 1 Nummer 2 als dauerhaft nicht beeinflussbare Kosten. Die volatilen Kosten nach § 11 Absatz 5 Satz 1 Nummer 2 werden erst dann und frühestens ab 2026 in den Effizienzvergleich nach § 12 einbezogen, wenn die Bundesnetzagentur eine Festlegung nach § 32 Absatz 2 Satz 2 getroffen hat.
 
 (8a) Für besondere netztechnische Betriebsmittel, für die § 118 Absatz 33 des Energiewirtschaftsgesetzes anzuwenden ist, ist § 11 Absatz 2 Satz 1 Nummer 16 in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden.
 
-(9) Abweichend von § 24 Absatz 4 haben Netzbetreiber von Gasverteilernetzen, die in der dritten Regulierungsperiode am vereinfachten Verfahren teilnehmen wollen, dies bei der Regulierungsbehörde bis zum 15. Oktober 2016 zu beantragen.
+(9) § 17 ist nach den Maßgaben der Sätze 2 und 3 anzuwenden. Bis zum 31. Dezember 2023 erfolgt die gemeinsame Beteiligung an der Differenz nach Absatz 2 Satz 2 in Höhe von 12 Prozent und nur dann, wenn die für das Geltungsjahr tatsächlich entstandenen Kosten unter dem für das Geltungsjahr bestimmten Referenzwert liegen. Die Höchstgrenze nach Absatz 2 Satz 2 ist nicht anzuwenden. Die nach § 17 Absatz 1 methodisch ermittelten Referenzwerte sind bis einschließlich 2031 wie folgt zu korrigieren:
+
+1. Erhöhung im Jahr 2022 um 60 Millionen Euro,
+
+2. Erhöhung im Jahr 2023 um 120 Millionen Euro,
+
+3. Erhöhung im Jahr 2024 um 144 Millionen Euro,
+
+4. Erhöhung im Jahr 2025 um 144 Millionen Euro,
+
+5. Erhöhung im Jahr 2026 um 132 Millionen Euro,
+
+6. Erhöhung im Jahr 2027 um 60 Millionen Euro,
+
+7. Reduzierung im Jahr 2029 um 24 Millionen Euro,
+
+8. Reduzierung im Jahr 2030 um 24 Millionen Euro,
+
+9. Reduzierung im Jahr 2031 um 12 Millionen Euro.
 
 (10) Im Fall von Netzübergängen nach § 26 Absatz 2 haben die beteiligten Netzbetreiber eine Aufnahme des Netzbetriebes im Sinne von § 26 Absatz 3 Satz 1 unverzüglich nach Inkrafttreten des § 26 in der Fassung vom 17. September 2016 nach § 28 Nummer 8 anzuzeigen, wenn zu diesem Zeitpunkt noch keine bestandskräftige Festlegung der Erlösobergrenze nach Maßgabe des § 26 Absatz 2 der Anreizregulierungsverordnung vom 29. Oktober 2007 in der Fassung von Artikel 2 Absatz 6 des Gesetzes vom 21. Dezember 2015 erfolgt ist. Die Frist des § 26 Absatz 3 Satz 1 beginnt in diesen Fällen zum Zeitpunkt des Inkrafttretens des § 26 in der Fassung vom 17. September 2016. Bei der Ermittlung des Anteils der Erlösobergrenze nach § 26 Absatz 3 bis 5 in Verbindung mit Anlage 4 ist § 6 Absatz 3 bis zum Beginn der dritten Regulierungsperiode nicht anzuwenden. Die Kapitalkosten des übergehenden Netzteils im jeweiligen Jahr der Regulierungsperiode sind in Höhe der Kapitalkosten des übergehenden Netzteils im Basisjahr anzuwenden.
 
@@ -606,7 +637,7 @@ Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Intern
 
 (12) Ab dem 22. März 2019 können bis zu der Festlegung der Pauschale nach § 23 Absatz 1a Satz 2 für den Zeitraum bis zu der vollständigen Inbetriebnahme der jeweiligen Anlagegüter als Betriebskosten für die Anlagegüter, die Gegenstand der Investitionsmaßnahme sind, jährlich pauschal 0,2 Prozent der für die Investitionsmaßnahme ansetzbaren Anschaffungs- und Herstellungskosten geltend gemacht werden. Der pauschale Wert nach Satz 1 kann durch Festlegung nach § 32 Absatz 1 Nummer 8c rückwirkend zum 22. März 2019 angepasst werden; eine Absenkung dieses pauschalen Wertes darf aber erst mit Wirkung ab dem Zeitpunkt dieser Festlegungsentscheidung erfolgen. Das Festlegungsverfahren der Bundesnetzagentur nach § 32 Absatz 1 Nummer 8c soll unverzüglich nach dem 22. März 2019 eingeleitet werden.
 
-(13) Auf Kapitalkosten von Übertragungsnetzbetreibern im Sinne des § 32b der Stromnetzentgeltverordnung sind ab dem 1. Januar 2019 die Vorschriften dieser Rechtsverordnung in der jeweils geltenden Fassung entsprechend anzuwenden, soweit
+(13) Auf Kapitalkosten von Übertragungsnetzbetreibern im Sinne des § 32b der Stromnetzentgeltverordnung sind ab dem 1. Januar 2019 die Vorschriften dieser Rechtsverordnung in der bis zum 31. Juli 2021 geltenden Fassung entsprechend anzuwenden, soweit
 
 1. in dieser Verordnung nichts anderes bestimmt und
 
@@ -616,7 +647,59 @@ Im Übrigen ist diese Verordnung nicht auf die Kosten von Offshore-Anbindungslei
 
 (14) Abweichend von Absatz 7a gelten bis zum 31. Dezember 2023 für die Kapitalkosten von Offshore-Anbindungsleitungen nach § 32b der Stromnetzentgeltverordnung, die in der Zeit vom 1. Januar 2017 bis zum 31. Dezember 2019 fertiggestellt und in Betrieb genommen worden sind, die Grundsätze für Investitionsmaßnahmen nach § 23. § 23 Absatz 1 Satz 2 Nummer 5 wird bis zum 31. Dezember 2023 in der bis zum 21. März 2019 geltenden Fassung auf diese Kapitalkosten angewendet; auf Betriebskosten ist die Regelung nicht anzuwenden.
 
-(15) Abweichend von § 5 Absatz 1 Satz 1 dürfen Netzbetreiber Kosten, die vor dem 1. Oktober 2021 durch die Vorbereitung der Umsetzung der Änderungen in den §§ 13, 13a und 14 Absatz 1c des Energiewirtschaftsgesetzes durch Artikel 1 Nummer 9, 10 und 13 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) entstehen, als zusätzliche zulässige Erlöse in das Regulierungskonto einbeziehen. Die sich daraus ergebende zusätzliche Differenz ist nach § 5 Absatz 3 Satz 1 zu genehmigen, wenn die zusätzlichen Kosten effizient sind und nicht bereits auf Grund anderer Regelungen dieser Verordnung in den zulässigen Erlösen nach § 4 berücksichtigt wurden.
+(15) Abweichend von § 5 Absatz 1 Satz 1 dürfen Netzbetreiber Kosten, die vor dem 1. Oktober 2021 durch die Vorbereitung der Umsetzung der Änderungen in den §§ 13, 13a und 14 Absatz 1c des Energiewirtschaftsgesetzes durch Artikel 1 Nummer 9, 10 und 13 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) entstehen, als zusätzliche zulässige Erlöse in das Regulierungskonto einbeziehen. Kosten ab dem 1. Oktober 2021, die erforderlich sind zur Implementierung, zur Weiterentwicklung und zum Betrieb der notwendigen Betriebsmittel zur Erfüllung der gemeinsamen Kooperationsverpflichtung der Netzbetreiber für den bundesweiten Datenaustausch nach § 11 Absatz 1 Satz 4, nach den §§ 13, 13a und § 14 Absatz 1c des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 1 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, dürfen als zusätzliche zulässige Erlöse in das Regulierungskonto einbezogen werden,
+
+1. wenn die mit ihnen verbundenen Dienstleistungen unentgeltlich und diskriminierungsfrei allen verpflichteten Netzbetreibern zur Verfügung gestellt werden und
+
+2. soweit sie vor dem 1. Januar 2024 entstanden sind.
+
+Die sich aus den Sätzen 1 und 2 ergebende zusätzliche Differenz ist nach § 5 Absatz 3 Satz 1 zu genehmigen, wenn die zusätzlichen Kosten effizient sind und nicht bereits auf Grund anderer Regelungen dieser Verordnung in den zulässigen Erlösen nach § 4 berücksichtigt wurden.
+
+# § 34a – Ergänzende Übergangsregelungen für Kapitalkosten der Betreiber von Energieverteilernetzen
+
+(1) Die Regulierungsbehörde genehmigt für die Dauer der vierten Regulierungsperiode auf Antrag eines Verteilernetzbetreibers eine Anpassung der Erlösobergrenze bei Nachweis einer besonderen Härte durch den Übergang auf den Kapitalkostenabgleich. Betreiber von Gasverteilernetzen können den Antrag nach Satz 1 bis zum 30. Juni 2022 stellen, Betreiber von Elektrizitätsverteilernetzen bis zum 30. Juni 2023.
+
+(2) Ein Verteilernetzbetreiber kann eine Anpassung seiner Erlösobergrenze nach Absatz 1 Satz 1 verlangen, wenn seine Investitionen der Jahre 2009 bis 2016 mindestens in einem Kalenderjahr größer waren als ein Fünfundzwanzigstel des Bruttoanlagevermögens zu Tagesneuwerten gemäß § 6a der Stromnetzentgeltverordnung oder § 6a der Gasnetzentgeltverordnung der jeweils korrespondierenden Jahre 2009 bis 2016. Netzübergänge nach § 26 sind bei der Bestimmung der Investitionen nach Satz 1 nicht zu berücksichtigen. Der aufnehmende Netzbetreiber hat sowohl die Investitionen, die in den Jahren 2009 bis 2016 in dem übergegangenen Netzgebiet getätigt worden sind, als auch die Anschaffungs- und Herstellungskosten der in diesem Zeitraum hinzugetretenen Netzteile vollständig aus den Berechnungen der Antragswerte zu eliminieren. Der abgebende Netzbetreiber hat sowohl die Investitionen, die in den Jahren 2009 bis 2016 in dem abgegebenen Netzgebiet getätigt worden sind, als auch die Anschaffungs- und Herstellungskosten der in diesem Zeitraum abgegebenen Netze vollständig aus den Berechnungen der Antragswerte zu eliminieren. Der Antrag ist mit allen erforderlichen Angaben und Nachweisen zu versehen, die einen sachkundigen Dritten in die Lage versetzen, das Vorliegen der Voraussetzungen ohne weitere Informationen nachzuvollziehen.
+
+(3) Stellt die Regulierungsbehörde das Vorliegen der Antragsvoraussetzungen gemäß Absatz 2 fest, ermittelt die Regulierungsbehörde in der vierten Regulierungsperiode jährlich eine Differenz zwischen dem Kapitalkostenabzug nach § 6 Absatz 3 und dem Kapitalkostenabzug in entsprechender Anwendung des § 34 Absatz 5. Die jährliche Differenz nach Satz 1 wird jeweils jährlich abgesenkt, nämlich
+
+1. im ersten Jahr der vierten Regulierungsperiode um 20 Prozent,
+
+2. im zweiten Jahr der vierten Regulierungsperiode um 40 Prozent,
+
+3. im dritten Jahr der vierten Regulierungsperiode um 60 Prozent,
+
+4. im vierten Jahr der vierten Regulierungsperiode um 80 Prozent,
+
+5. im fünften Jahr der vierten Regulierungsperiode um 100 Prozent.
+
+Der nach den Sätzen 1 und 2 ermittelte Betrag wird in der Erlösobergrenze berücksichtigt und diese entsprechend angepasst.
+
+# § 35 – Ergänzende Übergangsregelungen für Kapitalkosten der Betreibervon Übertragungs- und Fernleitungsnetzen
+
+(1) § 23 Absatz 1 bis 5 ist für Übertragungs- und Fernleitungsnetzbetreiber ab der fünften Regulierungsperiode nicht mehr anzuwenden.
+
+(2) Bis zum Ablauf der vierten Regulierungsperiode ist § 23 für die Übertragungs- und Fernleitungsnetzbetreiber nur noch nach Maßgabe der Absätze 3 bis 5 anzuwenden. Genehmigungen der Übertragungs- und Fernleitungsnetzbetreiber nach § 23 enden mit Ablauf der vierten Regulierungsperiode. Eine Neubescheidung erfolgt in diesen Fällen nicht.
+
+(3) Fernleitungsnetzbetreiber können Anträge nach § 23 nur noch bis zum Ablauf des 31. Juli 2021 stellen. Abweichend von Satz 1 können gestellt werden:
+
+1. Änderungsanträge zur Verlängerung einer bis zum Ende der dritten Regulierungsperiode befristeten Genehmigung von Fernleitungsnetzbetreibern bis zum 30. Juni 2022,
+
+2. sonstige Änderungsanträge zur Anpassung einer Genehmigung während ihrer Geltungsdauer bis zum Ablauf der vierten Regulierungsperiode.
+
+(4) Übertragungsnetzbetreiber können Anträge nach § 23 nur noch bis zum 31. März 2022 stellen. Abweichend von Satz 1 können gestellt werden:
+
+1. Änderungsanträge zur Verlängerung einer bis zum Ende der dritten Regulierungsperiode befristeten oder nach § 34 Absatz 11 Satz 3 endenden Genehmigung von Übertragungsnetzbetreibern bis zum 30. Juni 2023,
+
+2. sonstige Änderungsanträge zur Anpassung einer Genehmigung während ihrer Geltungsdauer bis zum Ablauf der vierten Regulierungsperiode.
+
+Im Falle der Verlängerung einer Genehmigung infolge eines Änderungsantrags nach Absatz 4 Satz 2 Nummer 1 können Übertragungsnetzbetreiber ab Beginn der vierten Regulierungsperiode für den Zeitraum bis zu der vollständigen Inbetriebnahme der jeweiligen Anlagegüter als Betriebskosten für die Anlagegüter, die Gegenstand der verlängerten Investitionsmaßnahme sind, abweichend von § 34 Absatz 11 Satz 2 jährlich pauschal 0,2 Prozent der für die Investitionsmaßnahme ansetzbaren Anschaffungs- und Herstellungskosten geltend machen.
+
+(5) § 23 Absatz 2a ist ab der vierten Regulierungsperiode nicht mehr anzuwenden. Die für den Zeitraum der dritten Regulierungsperiode nach § 23 Absatz 2a aufzulösenden Beträge sind, soweit bereits in der Erlösobergrenze kostenmindernd angesetzt, den jeweiligen Übertragungs- und Fernleitungsnetzbetreibern zu erstatten. Ausgenommen von einer Erstattung nach Satz 2 ist die Summe der für den gesamten Zeitraum der dritten Regulierungsperiode aufzulösenden Beträge nach § 23 Absatz 2a, soweit sie den anteilig im jeweiligen Abzugsbetrag enthaltenen jeweiligen Betriebskostenpauschalen zuzuordnen sind. Für die Erstattung nach den Sätzen 2 und 3 ist § 5 mit Ausnahme von Absatz 2 anzuwenden und Absatz 3 mit der Maßgabe, dass die Annuität ohne Verzinsung bestimmt wird. Eine Erstattung der für den Zeitraum der zweiten Regulierungsperiode nach § 23 Absatz 2a aufzulösenden Beträge ist ausgeschlossen.
+
+(6) Betreiber von Fernleitungsnetzen können einen Antrag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a erstmals zum 30. Juni 2022 stellen. Betreiber von Übertragungsnetzen können einen Antrag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a erstmals zum 30. Juni 2023 stellen. Für die der Investitionsmaßnahme zugrunde liegenden Anlagegüter darf bis zum Ablauf der Wirksamkeit der Genehmigung der Investitionsmaßnahme kein weiterer Kapitalkostenaufschlag nach § 4 Absatz 4 Satz 1 Nummer 1 in Verbindung mit § 10a genehmigt werden.
+
+(7) § 6 Absatz 3 ist bis zum Ablauf der dritten Regulierungsperiode nicht auf Übertragungs- und Fernleitungsnetzbetreiber anzuwenden. Darüber hinaus ist § 6 Absatz 3 bis zum Ablauf der vierten Regulierungsperiode nicht anzuwenden auf Kapitalkosten aus Investitionen sowie die hierauf entfallenden Baukostenzuschüsse, Netzanschlusskostenbeiträge und Sonderposten für Investitionszuschüsse von Übertragungs- und Fernleitungsnetzbetreibern in betriebsnotwendige Anlagegüter, die im Zeitraum vom 1. Januar 2007 bis einschließlich 31. Dezember 2021 erstmals aktiviert wurden. Satz 2 ist nicht anzuwenden, sofern es sich um Investitionen handelt, für die eine Investitionsmaßnahme nach § 23 Absatz 1 durch die Regulierungsbehörde genehmigt wurde.
 
 # Anlage 1 – (zu § 7)
 
@@ -633,9 +716,9 @@ EO<sub>t</sub> = KA<sub>dnb,t</sub> + (KA<sub>vnb,0</sub> + (1 – V<sub>t</sub>
 Dabei ist:  
   
 
-<table width="100%" style="border: none;"><colgroup><col style="width: 8%" /><col style="width: 92%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">EO<sub>t</sub></td><td style="text-align: left;">Erlösobergrenze aus Netzentgelten, die im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 4 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">Ab der dritten Regulierungsperiode erfolgt die Festsetzung der Erlösobergrenze nach den §§ 4 bis 16 für Betreiber von Elektrizitäts- und Gasverteilernetzen nach der folgenden Formel:<br />
+<table width="100%" style="border: none;"><colgroup><col style="width: 8%" /><col style="width: 92%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">EO<sub>t</sub></td><td style="text-align: left;">Erlösobergrenze aus Netzentgelten, die im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 4 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">Ab der dritten Regulierungsperiode erfolgt die Festsetzung der Erlösobergrenze nach den §§ 4 bis 17 für die Betreiber von Elektrizitäts- und Gasversorgungsnetzen nach der folgenden Formel:<br />
 <br />
-<img src="../normengrafiken/bgbl1_2016/j2147-1_0010.jpg" /></td></tr><tr class="odd"><td style="text-align: left;">KA<sub>dnb,t</sub></td><td style="text-align: left;">Dauerhaft nicht beeinflussbarer Kostenanteil nach § 11 Absatz 2, der für das Jahr t der jeweiligen Regulierungsperiode unter Berücksichtigung der Änderungen nach § 4 Absatz 3 Satz 1 Nummer 2 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">KA<sub>vnb,0</sub></td><td style="text-align: left;">Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3 im Basisjahr. KA<sub>vnb,t</sub> Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.</td></tr><tr class="odd"><td style="text-align: left;">V<sub>t</sub></td><td style="text-align: left;">Verteilungsfaktor für den Abbau der Ineffizienzen, der im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 16 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">KA<sub>b,0</sub></td><td style="text-align: left;">Beeinflussbarer Kostenanteil nach § 11 Absatz 4 im Basisjahr. Er entspricht den Ineffizienzen nach § 15 Absatz 3. KA<sub>b,t</sub> Beeinflussbarer Kostenanteil nach § 11 Absatz 4, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist. B<sub>0</sub> Bonus nach § 12a im Basisjahr. T Dauer der jeweiligen Regulierungsperiode in Jahren.</td></tr><tr class="odd"><td style="text-align: left;">VPI<sub>t</sub></td><td style="text-align: left;">Verbraucherpreisgesamtindex, der nach Maßgabe des § 8 Satz 2 für das Jahr t der jeweiligen Regulierungsperiode Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">VPI<sub>0</sub></td><td style="text-align: left;">Durch das Statistische Bundesamt veröffentlichter Verbraucherpreisgesamtindex für das Basisjahr.</td></tr><tr class="odd"><td style="text-align: left;">PF<sub>t</sub></td><td style="text-align: left;">Genereller sektoraler Produktivitätsfaktor nach Maßgabe des § 9, der die Veränderungen des generellen sektoralen Produktivitätsfaktors für das Jahr t der jeweiligen Regulierungsperiode im Verhältnis zum ersten Jahr der Regulierungsperiode wiedergibt. In Analogie zu dem Term VPI<sub>t</sub>/VPI<sub>0</sub> ist PF<sub>t</sub> dabei durch Multiplikation der einzelnen Jahreswerte einer Regulierungsperiode zu bilden. KKA<sub>t</sub> Kapitalkostenaufschlag nach § 10a, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.</td></tr><tr class="even"><td style="text-align: left;">EF<sub>t</sub></td><td style="text-align: left;">Erweiterungsfaktor nach Maßgabe des § 10 für das Jahr t der jeweiligen Regulierungsperiode.</td></tr><tr class="odd"><td style="text-align: left;">Q<sub>t</sub></td><td style="text-align: left;">Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 19 im Jahr t der jeweiligen Regulierungsperiode.</td></tr><tr class="even"><td style="text-align: left;">S<sub>t</sub></td><td style="text-align: left;">Summe der Zu- und Abschläge auf die Erlösobergrenze nach § 5 Absatz 3.</td></tr><tr class="odd"><td style="text-align: left;">VK<sub>t</sub></td><td style="text-align: left;">volatiler Kostenanteil, der nach § 11 Absatz 5 im Jahr t der jeweiligen Regulierungsperiode Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">VK<sub>0</sub></td><td style="text-align: left;">volatiler Kostenanteil nach § 11 Absatz 5 im Basisjahr.</td></tr></tbody></table>
+<img src="../normengrafiken/bgbl1_2016/j2147-1_0010.jpg" /></td></tr><tr class="odd"><td style="text-align: left;">KA<sub>dnb,t</sub></td><td style="text-align: left;">Dauerhaft nicht beeinflussbarer Kostenanteil nach § 11 Absatz 2, der für das Jahr t der jeweiligen Regulierungsperiode unter Berücksichtigung der Änderungen nach § 4 Absatz 3 Satz 1 Nummer 2 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">KA<sub>vnb,0</sub></td><td style="text-align: left;">Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3 im Basisjahr. KA<sub>vnb,t</sub> Vorübergehend nicht beeinflussbarer Kostenanteil nach § 11 Absatz 3, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.</td></tr><tr class="odd"><td style="text-align: left;">V<sub>t</sub></td><td style="text-align: left;">Verteilungsfaktor für den Abbau der Ineffizienzen, der im Jahr t der jeweiligen Regulierungsperiode nach Maßgabe des § 16 Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">KA<sub>b,0</sub></td><td style="text-align: left;">Beeinflussbarer Kostenanteil nach § 11 Absatz 4 im Basisjahr. Er entspricht den Ineffizienzen nach § 15 Absatz 3. KA<sub>b,t</sub> Beeinflussbarer Kostenanteil nach § 11 Absatz 4, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist. B<sub>0</sub> Bonus nach § 12a im Basisjahr. T Dauer der jeweiligen Regulierungsperiode in Jahren.</td></tr><tr class="odd"><td style="text-align: left;">VPI<sub>t</sub></td><td style="text-align: left;">Verbraucherpreisgesamtindex, der nach Maßgabe des § 8 Satz 2 für das Jahr t der jeweiligen Regulierungsperiode Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">VPI<sub>0</sub></td><td style="text-align: left;">Durch das Statistische Bundesamt veröffentlichter Verbraucherpreisgesamtindex für das Basisjahr.</td></tr><tr class="odd"><td style="text-align: left;">PF<sub>t</sub></td><td style="text-align: left;">Genereller sektoraler Produktivitätsfaktor nach Maßgabe des § 9, der die Veränderungen des generellen sektoralen Produktivitätsfaktors für das Jahr t der jeweiligen Regulierungsperiode im Verhältnis zum ersten Jahr der Regulierungsperiode wiedergibt. In Analogie zu dem Term VPI<sub>t</sub>/VPI<sub>0</sub> ist PF<sub>t</sub> dabei durch Multiplikation der einzelnen Jahreswerte einer Regulierungsperiode zu bilden. KKA<sub>t</sub> Kapitalkostenaufschlag nach § 10a, der für das Jahr t der jeweiligen Regulierungsperiode anzuwenden ist.</td></tr><tr class="even"><td style="text-align: left;">EF<sub>t</sub></td><td style="text-align: left;">Erweiterungsfaktor nach Maßgabe des § 10 für das Jahr t der jeweiligen Regulierungsperiode.</td></tr><tr class="odd"><td style="text-align: left;">Q<sub>t</sub></td><td style="text-align: left;">Bei Betreibern von Elektrizitäts- und Gasverteilernetzen die Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 19 im Jahr t der jeweiligen Regulierungsperiode; bei Betreibern von Übertragungsnetzen die Zu- und Abschläge auf die Erlösobergrenze nach Maßgabe des § 17 im Jahr t der jeweiligen Regulierungsperiode.</td></tr><tr class="even"><td style="text-align: left;">S<sub>t</sub></td><td style="text-align: left;">Summe der Zu- und Abschläge auf die Erlösobergrenze nach § 5 Absatz 3.</td></tr><tr class="odd"><td style="text-align: left;">VK<sub>t</sub></td><td style="text-align: left;">volatiler Kostenanteil, der nach § 11 Absatz 5 im Jahr t der jeweiligen Regulierungsperiode Anwendung findet.</td></tr><tr class="even"><td style="text-align: left;">VK<sub>0</sub></td><td style="text-align: left;">volatiler Kostenanteil nach § 11 Absatz 5 im Basisjahr.</td></tr></tbody></table>
 
   
   
@@ -686,7 +769,7 @@ Der Erweiterungsfaktor für das gesamte Netz ist der gewichtete Mittelwert über
 
 (Fundstelle: BGBl. I 2016, 2155)
 
-(1) Die Ermittlung des Kapitalkostenabzugs nach § 6 Absatz 3 eines Jahres der jeweiligen Regulierungsperiode erfolgt anhand der folgenden Formel:
+(1) Die Ermittlung des Kapitalkostenabzugs nach § 6 Absatz 3 eines Jahres der jeweiligen Regulierungsperiode erfolgt anhand der folgenden Formel; wobei der Kapitalkostenabzug keine Werte kleiner als null annehmen darf:
 
 |                                                    |
 |:--------------------------------------------------:|
@@ -737,7 +820,7 @@ FKZ<sub>0</sub>
 Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Basisjahr,
 
 FKZ<sub>t</sub>  
-Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Bestands betriebsnotwendiger Anlagegüter des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode.
+Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Inhalts des Ausgangsniveaus nach § 6 Absatz 1 und 2 im Jahr t der jeweiligen Regulierungsperiode.
 
 (4) Ferner sind von der Regulierungsbehörde bei der Ermittlung der fortgeführten Kapitalkosten die folgenden Grundsätze anzuwenden:
 
@@ -820,3 +903,31 @@ Die in der nach § 32 Absatz 1 Nummer 1 ursprünglich für den abgebenden Netzbe
 
 vorgNK<sub>t</sub>  
 Die in der nach § 32 Absatz 1 Nummer 1 ursprünglich für den abgebenden Netzbetreiber festgelegten Erlösobergrenze des Jahres t der Regulierungsperiode enthaltenen vorgelagerten Netzkosten nach § 11 Absatz 2 Satz 1 Nummer 4.
+
+# Anlage 5 – (zu § 17 Absatz 1 und 2)
+
+(Fundstelle: BGBl. I 2021, 3234)
+
+Als Kosten nach § 17 Absatz 1 und 2 sind folgende Kosten und Erlöse anzuwenden:
+
+1. Kosten und Erlöse aus dem Abruf von Marktkraftwerken zum Zwecke des Engpassmanagements inklusive Kosten für das Anfahren,
+
+2. Kosten und Erlöse aus Einspeisemanagementmaßnahmen,
+
+3. Kosten und Erlöse aus Handelsgeschäften zum energetischen Ausgleich,
+
+4. Kosten und Erlöse aus dem Abruf der Kapazitätsreserve zum Zwecke des Engpassmanagements,
+
+5. Kosten und Erlöse aus dem Abruf der Netzreserve zum Zwecke des Engpassmanagements inklusive Kosten für das Anfahren im sogenannten Week-ahead-planning-Prozess,
+
+6. Kosten und Erlöse aus dem Abruf besonderer netztechnischer Betriebsmittel nach § 11 Absatz 3 des Energiewirtschaftsgesetzes in der bis zum Ablauf des 26. Juli 2021 geltenden Fassung zum Zwecke des Engpassmanagements,
+
+7. Kosten und Erlöse aus dem Abruf abschaltbarer Lasten nach der Verordnung zu abschaltbaren Lasten zum Zwecke des Engpassmanagements,
+
+8. Kosten und Erlöse aus dem Abruf zuschaltbarer Lasten zum Zwecke des Engpassmanagements sowie
+
+9. Kosten und Erlöse aus grenzüberschreitendem Redispatch und Countertrading einschließlich der von deutschen Übertragungsnetzbetreibern zu tragenden Anteile im Rahmen der Capacity Allocation & Congestion Management-Methode nach Artikel 74 der Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement (ABl. L 1976 vom 25.7.2015, S. 24), die zuletzt durch die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.3.2021, S. 24) geändert worden ist, mit Ausnahme von
+
+a) Kosten aus dem trilateralen Redispatch Deutschland – Frankreich – Schweiz und
+
+b) Kostenanteilen für Überlastungen auf ausländischen Leitungen oder Netzbetriebsmitteln, die auf Ringflüsse zurückzuführen sind.

@@ -543,15 +543,13 @@ und unter Abzug des Abzugskapitals und des verzinslichen Fremdkapitals. Grundst�
 
 (6) Über die Eigenkapitalzinssätze nach § 21 Abs. 2 des Energiewirtschaftsgesetzes entscheidet die Regulierungsbehörde in Anwendung der Absätze 4 und 5 vor Beginn einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung, erstmals zum 1. Januar 2009, durch Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes. Die Festlegung nach Satz 1 erfolgt jeweils für die Dauer einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen 7,91 Prozent vor Steuern und bei Altanlagen 6,5 Prozent vor Steuern.
 
-(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als Mittelwert des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitts der folgenden von der Deutschen Bundesbank veröffentlichten Umlaufsrenditen:
+(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als gewichteter Durchschnitt des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitts der folgenden von der Deutschen Bundesbank veröffentlichten Umlaufsrenditen:
 
-1. Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten – Anleihen der öffentlichen Hand,
+1. Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen der öffentlichen Hand und
 
-2. Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten – Anleihen von Unternehmen (Nicht-MFIs) und
+2. Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen von Unternehmen (Nicht-MFIs).
 
-3. Umlaufsrendite inländischer Inhaberschuldverschreibungen – Hypothekenpfandbriefe.
-
-Weitere Zuschläge sind unzulässig.
+Bei der Bestimmung des gewichteten Durchschnitts wird der Durchschnitt der Umlaufsrenditen nach Satz 1 Nummer 1 einfach gewichtet und der Durchschnitt der Umlaufsrenditen nach Satz 1 Nummer 2 zweifach gewichtet. Weitere Zuschläge sind unzulässig.
 
 # § 8 – Kalkulatorische Steuern
 
@@ -891,6 +889,8 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 
 (10) Sofern eine Vereinbarung individueller Netzentgelte nach § 19 Absatz 2 Satz 2 bis 4 bis zum 30. September 2019 bei der Regulierungsbehörde angezeigt worden und die angezeigte Vereinbarung rechtmäßig ist, besteht für das Kalenderjahr 2020 ein Anspruch auf Weitergeltung der Vereinbarung individueller Netzentgelte, wenn die Voraussetzungen im Kalenderjahr 2019 erfüllt worden sind. Wird der Anspruch nach Satz 1 geltend gemacht, ist § 19 Absatz 2 Satz 18 mit der Maßgabe anzuwenden, dass bei der Vereinbarung nach § 19 Absatz 2 Satz 2 bis 4 für die tatsächliche Erfüllung der Voraussetzungen auf das Kalenderjahr 2019 abgestellt wird. Sollte bis zum Inkrafttreten dieser Verordnung eine beihilferechtliche Notifizierung der Übergangsregelung nach den Sätzen 1 und 2 erfolgt sein, dürfen die Sätze 1 und 2 erst nach einer beihilferechtlichen Genehmigung und nach Maßgabe einer solchen Genehmigung angewendet werden; das Bundesministerium für Wirtschaft und Energie macht den Tag einer beihilferechtlichen Notifizierung und einer Bekanntgabe einer beihilferechtlichen Genehmigung jeweils im Bundesanzeiger bekannt.
 
+(11) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach § 7 Absatz 1 Satz 5 bestimmt sich bis zum Ende der dritten Regulierungsperiode nach § 7 Absatz 7 in der bis zum 31. Juli 2021 geltenden Fassung.
+
 # § 32a – Übergangsregelung zur schrittweisen Vereinheitlichung der Übertragungsnetzentgelte
 
 (1) Die Regelungen zur Bildung bundeseinheitlicher Übertragungsnetzentgelte nach § 3 Absatz 3, den §§ 14a bis 14d, § 15 Absatz 2 Satz 2, § 16 Absatz 1 Satz 4 und Absatz 2 Satz 2 sowie § 17 Absatz 3, 4 Satz 2 und Absatz 5 Satz 2 sowie § 20 Absatz 1 Satz 2 und Absatz 2 Satz 2 sind in der Übergangszeit für die Bestimmung der Netzentgelte, die in dem Zeitraum vom 1. Januar 2019 bis zum 31. Dezember 2022 gelten, mit der Maßgabe anzuwenden, dass sich die Netzentgelte der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung aus der Addition eines nach Maßgabe des Absatzes 2 bundeseinheitlich sowie eines nach Maßgabe des Absatzes 3 unternehmensindividuell gebildeten Netzentgeltanteils zusammensetzen. Hierfür bilden diese Übertragungsnetzbetreiber nach § 16 Absatz 2 Satz 1 eine unternehmensindividuelle Gleichzeitigkeitsfunktion und nach § 16 Absatz 2 Satz 2 eine bundeseinheitliche Gleichzeitigkeitsfunktion.
@@ -917,7 +917,7 @@ Die anteiligen Erlösobergrenzen nach Satz 1 der einzelnen Betreiber von Übertr
 
 # § 32b – Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen
 
-Abweichend von § 3a Absatz 1 werden, soweit § 34 Absatz 13 und 14 der Anreizregulierungsverordnung dies regelt, auf die Ermittlung des Kapitalkostenanteils der Netzkosten von Offshore-Anbindungsleitungen ergänzend die Vorschriften der Anreizregulierungsverordnung in der jeweils geltenden Fassung angewendet, sofern
+Abweichend von § 3a Absatz 1 werden, soweit § 34 Absatz 13 und 14 der Anreizregulierungsverordnung dies regelt, auf die Ermittlung des Kapitalkostenanteils der Netzkosten von Offshore-Anbindungsleitungen ergänzend die Vorschriften der Anreizregulierungsverordnung in der bis zum 31. Juli 2021 geltenden Fassung angewendet, sofern
 
 1. die Offshore-Anbindungsleitungen bis zum 31. Dezember 2019 fertiggestellt und in Betrieb genommen worden sind und
 

@@ -1457,7 +1457,7 @@ Dies gilt nicht, soweit die jeweilige Verhaltensweise sachlich gerechtfertigt is
 
 (3) Unternehmen mit gegenüber kleinen und mittleren Wettbewerbern überlegener Marktmacht dürfen ihre Marktmacht nicht dazu ausnutzen, solche Wettbewerber unmittelbar oder mittelbar unbillig zu behindern. Eine unbillige Behinderung im Sinne des Satzes 1 liegt insbesondere vor, wenn ein Unternehmen
 
-1. Lebensmittel im Sinne des § 2 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches unter Einstandspreis oder
+1. Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, unter Einstandspreis oder
 
 2. andere Waren oder gewerbliche Leistungen nicht nur gelegentlich unter Einstandspreis oder
 
