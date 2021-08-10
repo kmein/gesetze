@@ -73,6 +73,8 @@ In Rechtsverordnungen nach Satz 1 kann auch bestimmt werden, daß bestimmte geog
 
 In der Rechtsverordnung nach Satz 1 kann vorgeschrieben werden, dass im Falle des Nichterfüllens bestimmter Anforderungen oder des nicht ausreichenden Nachweises der Sachkunde dem Verantwortlichen das Führen eines milchwirtschaftlichen Betriebes ganz oder teilweise untersagt oder nur unter Auflagen gestattet werden kann.
 
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann das Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel, mit der Durchführung von Aufgaben im Bereich dieses Gesetzes beauftragen. Zu diesen Aufgaben gehören insbesondere die Schaffung einheitlicher Sorten von Milch und Milcherzeugnissen sowie die Erhaltung und Förderung der Qualität von Milch und Milcherzeugnissen.
+
 # § 4 – Zulassung von Ausnahmen
 
 (1) Von den Vorschriften der auf Grund des § 3 Abs. 1 erlassenen Rechtsverordnungen können im Einzelfall auf Antrag Ausnahmen zugelassen werden

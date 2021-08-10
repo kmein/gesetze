@@ -423,15 +423,13 @@ und unter Abzug des Abzugskapitals und des verzinslichen Fremdkapitals. Grundst�
 
 (6) Über die Eigenkapitalzinssätze nach § 21 Abs. 2 des Energiewirtschaftsgesetzes entscheidet die Regulierungsbehörde in Anwendung der Absätze 4 und 5 vor Beginn einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung, erstmals zum 1. Januar 2009, durch Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes. Die Festlegung nach Satz 1 erfolgt jeweils für die Dauer einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen 9,21 Prozent vor Steuern und bei Altanlagen 7,8 Prozent vor Steuern.
 
-(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als Mittelwert des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitts der folgenden von der Deutschen Bundesbank veröffentlichten Umlaufsrenditen:
+(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als gewichteter Durchschnitt des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitts der folgenden von der Deutschen Bundesbank veröffentlichten Umlaufsrenditen:
 
-1. Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten – Anleihen der öffentlichen Hand,
+1. Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen der öffentlichen Hand und
 
-2. Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten – Anleihen von Unternehmen (Nicht-MFIs) und
+2. Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen von Unternehmen (Nicht-MFIs).
 
-3. Umlaufsrendite inländischer Inhaberschuldverschreibungen – Hypothekenpfandbriefe.
-
-Weitere Zuschläge sind unzulässig.
+Bei der Bestimmung des gewichteten Durchschnitts wird der Durchschnitt der Umlaufsrenditen nach Satz 1 Nummer 1 einfach gewichtet und der Durchschnitt der Umlaufsrenditen nach Satz 1 Nummer 2 zweifach gewichtet. Weitere Zuschläge sind unzulässig.
 
 # § 8 – Kalkulatorische Steuern
 
@@ -682,6 +680,8 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 (4) Die Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 erfolgt ab dem 1. Januar 2013 unter Anwendung der Indexreihen des Statistischen Bundesamtes gemäß § 6a.
 
 (5) Die Verzinsung des die Eigenkapitalquote im Sinne des § 7 Absatz 1 Satz 5 übersteigenden Anteils des Eigenkapitals erfolgt ab dem 1. Januar 2013 nach § 7 Absatz 7.
+
+(6) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil des Eigenkapitals nach § 7 Absatz 1 Satz 5 bestimmt sich bis zum Ende der dritten Regulierungsperiode nach § 7 Absatz 7 in der bis zum 31. Juli 2021 geltenden Fassung.
 
 # § 33 – Inkrafttreten
 

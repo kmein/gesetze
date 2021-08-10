@@ -7,7 +7,21 @@ Auf Grund des § 146a Absatz 3 Satz 1 der Abgabenordnung, der durch Artikel 1 Nu
 
 # § 1 – Elektronische Aufzeichnungssysteme
 
-Elektronische Aufzeichnungssysteme im Sinne des § 146a Absatz 1 Satz 1 der Abgabenordnung sind elektronische oder computergestützte Kassensysteme oder Registrierkassen. Fahrscheinautomaten, Fahrscheindrucker, elektronische Buchhaltungsprogramme, Waren- und Dienstleistungsautomaten, Geldautomaten, Taxameter und Wegstreckenzähler sowie Geld- und Warenspielgeräte gehören nicht dazu.
+Elektronische Aufzeichnungssysteme im Sinne des § 146a Absatz 1 Satz 1 der Abgabenordnung sind elektronische oder computergestützte Kassensysteme oder Registrierkassen. Nicht als elektronische Aufzeichnungssysteme gelten
+
+1. Fahrscheinautomaten und Fahrscheindrucker,
+
+2. Kassen- und Parkscheinautomaten der Parkraumbewirtschaftung sowie Ladepunkte für Elektro- oder Hybridfahrzeuge,
+
+3. elektronische Buchhaltungsprogramme,
+
+4. Waren- und Dienstleistungsautomaten,
+
+5. Taxameter und Wegstreckenzähler,
+
+6. Geldautomaten sowie
+
+7. Geld- und Warenspielgeräte.
 
 # § 2 – Protokollierung von digitalen Grundaufzeichnungen
 
@@ -43,11 +57,19 @@ Die Zeitpunkte nach Satz 2 Nummer 1 und 6, die Transaktionsnummer nach Satz 2 Nu
 
 # § 4 – Einheitliche digitale Schnittstelle
 
-Die einheitliche digitale Schnittstelle ist eine Datensatzbeschreibung für den standardisierten Datenexport aus dem Speichermedium nach § 3 Absatz 1 und dem elektronischen Aufbewahrungssystem zur Übergabe an den mit der Kassen-Nachschau oder Außenprüfung betrauten Amtsträger der Finanzbehörde. Sie stellt eine einheitliche Strukturierung und Bezeichnung der nach § 146a Absatz 1 der Abgabenordnung aufzuzeichnenden Daten in Datenschema und Datenfelderbeschreibung für die Protokollierung nach § 2 und die Speicherung nach § 3 sicher. Dies gilt unabhängig vom Programm des Herstellers.
+Die einheitliche digitale Schnittstelle ist eine Datensatzbeschreibung für den standardisierten Datenexport aus dem Speichermedium nach § 3 Absatz 1, der Anbindung an das elektronische Aufzeichnungssystem und dem elektronischen Aufbewahrungssystem zur Übergabe an den mit der Kassen-Nachschau oder Außenprüfung betrauten Amtsträger der Finanzbehörde. Sie stellt eine einheitliche Strukturierung und Bezeichnung der nach § 146a Absatz 1 der Abgabenordnung aufzuzeichnenden Daten in Datenschema und Datenfelderbeschreibung für die Protokollierung nach § 2 und die Speicherung nach § 3 sicher. Dies gilt unabhängig vom Programm des Herstellers. Die einheitliche digitale Schnittstelle für den standardisierten Export aus dem Speichermedium nach § 3 Absatz 1 und die einheitliche digitale Schnittstelle für den standardisierten Export aus dem elektronischen Aufzeichnungssystem können getrennt voneinander erstellt und veröffentlicht werden.
 
-# § 5 – Anforderungen an die technische Sicherungseinrichtung
+# § 5 – Anforderungen an die technische Sicherheitseinrichtung
 
-Das Bundesamt für Sicherheit in der Informationstechnik legt im Benehmen mit dem Bundesministerium der Finanzen in Technischen Richtlinien und Schutzprofilen die technischen Anforderungen an das Sicherheitsmodul, das Speichermedium und die einheitliche digitale Schnittstelle sowie die organisatorischen Anforderungen zur Vergabe der Seriennummer des elektronischen Aufzeichnungssystems fest. Die jeweils aktuellen Versionen werden im Bundessteuerblatt Teil I und auf der Internetseite des Bundesamts für Sicherheit in der Informationstechnik veröffentlicht.
+Das Bundesamt für Sicherheit in der Informationstechnik legt im Benehmen mit dem Bundesministerium der Finanzen in Technischen Richtlinien und Schutzprofilen die technischen Anforderungen fest an
+
+1. die digitale Schnittstelle, soweit diese den standardisierten Export aus dem Speichermedium und die Anbindung der zertifizierten technischen Sicherheitseinrichtung an das elektronische Aufzeichnungssystem betreffen,
+
+2. das Sicherheitsmodul und
+
+3. das Speichermedium.
+
+Die jeweils aktuellen Versionen werden im Bundessteuerblatt Teil I und auf der Internetseite des Bundesamts für Sicherheit in der Informationstechnik veröffentlicht.
 
 # § 6 – Anforderungen an den Beleg
 
@@ -65,13 +87,19 @@ Ein Beleg muss mindestens enthalten:
 
 6. die Seriennummer des elektronischen Aufzeichnungssystems oder die Seriennummer des Sicherheitsmoduls.
 
-Die Angaben auf einem Beleg müssen für jedermann ohne maschinelle Unterstützung lesbar sein. Ein Beleg kann in Papierform oder mit Zustimmung des Belegempfängers elektronisch in einem standardisierten Datenformat ausgegeben werden.
+Die Angaben nach Satz 1 müssen
+
+1. für jedermann ohne maschinelle Unterstützung lesbar oder
+
+2. aus einem QR-Code auslesbar sein.
+
+Der QR-Code nach Satz 2 Nummer 2 hat der digitalen Schnittstelle der Finanzverwaltung (DSFinV), die für die jeweils zugehörige Art des Aufzeichnungssystems vorgeschrieben ist, zu entsprechen. Die digitale Schnittstelle wird auf der Internetseite des Bundeszentralamtes für Steuern in der jeweils geltenden Fassung veröffentlicht. Ein Beleg kann in Papierform oder mit Zustimmung des Belegempfängers elektronisch in einem standardisierten Datenformat ausgegeben werden.
 
 # § 7 – Zertifizierung
 
 (1) Für die Zertifizierung technischer Sicherheitseinrichtungen gelten § 9 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und -Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung. Die Prüfung und Bewertung kann auch durch vom Bundesamt für Sicherheit in der Informationstechnik anerkannte sachverständige Stellen erfolgen, die zugleich gemäß der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung akkreditiert sind.
 
-(2) Die Kosten einer Zertifizierung trägt der Antragsteller. Die BSI-Kostenverordnung vom 3. März 2005 (BGBl. I S. 519), die durch Artikel 3 Absatz 1 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) aufgehoben wird, in der jeweils geltenden Fassung ist bis zu ihrem Außerkrafttreten anzuwenden.
+(2) Die Kosten einer Zertifizierung trägt der Antragsteller. Die Besondere Gebührenverordnung BMI vom 2. September 2019 (BGBl. I S. 1359) in der jeweils geltenden Fassung ist anzuwenden.
 
 # § 8 – Inkrafttreten
 

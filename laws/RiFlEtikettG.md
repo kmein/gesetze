@@ -19,7 +19,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 3a – Verarbeitung von Daten
 
-(1) Soweit es für die Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie für die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern und die damit im Zusammenhang stehende Rückverfolgung der Herkunft eines Rindes erforderlich ist, ist jeder Marktbeteiligte, ausgenommen Verbraucherinnen oder Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches, berechtigt, Daten
+(1) Soweit es für die Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie für die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern und die damit im Zusammenhang stehende Rückverfolgung der Herkunft eines Rindes erforderlich ist, ist jeder Marktbeteiligte, ausgenommen Endverbraucher im Sinne des Artikels 3 Nummer 18 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, berechtigt, Daten
 
 1. nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1, die die Kennzeichnung und Registrierung von Rindern regeln,
 

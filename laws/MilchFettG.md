@@ -61,7 +61,7 @@ Erstrecken sich Liefer- und Annahmebeziehungen zwischen Milcherzeugern und Molke
 
 # § 10 – Förderung und Erhaltung der Güte
 
-(1) Um die Güte von Milch einschließlich Trinkmilch (§ 11) und Milcherzeugnissen zu fördern und zu erhalten, kann das Bundesministerium durch Rechtsverordnung bestimmen, daß Milch und Milcherzeugnisse besonders geprüft und daß bei der Beförderung vom Erzeuger bis zum Verbraucher und beim Vertrieb bestimmte Schutzmaßnahmen getroffen werden.
+(1) Um die Güte von Milch einschließlich Trinkmilch (§ 11) und Milcherzeugnissen zu fördern und zu erhalten, kann das Bundesministerium durch Rechtsverordnung bestimmen, daß Milch und Milcherzeugnisse besonders geprüft und daß bei der Beförderung vom Erzeuger bis zum Verbraucher und beim Vertrieb bestimmte Schutzmaßnahmen getroffen werden. Hierbei kann auch das entsprechende Verwaltungsverfahren geregelt werden. Im Falle des Satzes 2 bedarf die Rechtsverordnung der Zustimmung des Bundesrates.
 
 (2) Soweit das Bundesministerium keine Vorschriften erläßt, können die Landesregierungen Vorschriften erlassen; diese können ihre Befugnis auf oberste Landesbehörden übertragen.
 
@@ -213,9 +213,9 @@ Wenn die nach Absatz 1 aufkommenden Mittel zur Erfüllung der in Nummern 1 bis 3
 
 (3) Für das Auskunftsverlangen und die Auskunftspflicht gelten die Bestimmungen der Verordnung über Auskunftspflicht mit Ausnahme des § 4 Abs. 2 und des § 6. Im übrigen können von den Be- und Verarbeitungsbetrieben von Milch und Milcherzeugnissen und Vorzugsmilchbetrieben ohne Entgelt Proben entnommen werden.
 
-# § 28
+# § 28 – Beauftragung des Max Rubner-Instituts
 
-\-
+Das Bundesministerium für Ernährung und Landwirtschaft kann das Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel, mit der Durchführung von Forschungsaufgaben im Bereich dieses Gesetzes beauftragen. Zu diesen Aufgaben gehören insbesondere die Erhaltung und Förderung der Güte von Milch und Milcherzeugnissen sowie die Einführung und Verwendung von Gütezeichen.
 
 # § 29 – Befugnisse der Länder
 

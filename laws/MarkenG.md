@@ -2774,7 +2774,7 @@ Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den Vorschrift
 
 (1) Die nach der Verordnung (EU) Nr. 1151/2012 und den zu ihrer Durchführung erlassenen Vorschriften erforderliche Überwachung und Kontrolle obliegt den nach Landesrecht zuständigen Stellen.
 
-(2) Soweit es zur Überwachung und Kontrolle im Sinn des Absatzes 1 erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Agrarerzeugnisse oder Lebensmittel in Verkehr bringen oder herstellen (§ 3 Nr. 1 und 2 des Lebensmittel- und Futtermittelgesetzbuchs) oder innergemeinschaftlich verbringen, einführen oder ausführen, während der Geschäfts- oder Betriebszeit
+(2) Soweit es zur Überwachung und Kontrolle im Sinn des Absatzes 1 erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Agrarerzeugnisse oder Lebensmittel in Verkehr bringen oder herstellen (§ 3 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuchs) oder innergemeinschaftlich verbringen, einführen oder ausführen, während der Geschäfts- oder Betriebszeit
 
 1. Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel betreten und dort Besichtigungen vornehmen,
 

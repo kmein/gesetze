@@ -13,7 +13,7 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 
 (1) Die Vorschriften des Dritten Abschnitts, die §§ 16e, 17 Abs. 1 Nr. 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für
 
-1. kosmetische Mittel im Sinne des Lebensmittel- und Futtermittelgesetzbuches und Tabakerzeugnisse und pflanzliche Raucherzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
+1. kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a auch in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, und Tabakerzeugnisse und pflanzliche Raucherzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
 2. Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach dem Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
 
@@ -25,11 +25,21 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 
 5. Abwasser im Sinne des Abwasserabgabengesetzes, soweit es in Gewässer oder Abwasseranlagen eingeleitet wird.
 
-(2) Die Vorschriften des Dritten und Vierten Abschnitts, § 17 Abs. 1 Nr. 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für Lebensmittel, Einzelfuttermittel, Mischfuttermittel und Futtermittel-Zusatzstoffe im Sinne des Lebensmittel- und Futtermittelgesetzbuches. Die Vorschriften des Dritten Abschnitts und § 16e gelten jedoch für
+(2) Die Vorschriften des Dritten und Vierten Abschnitts, § 17 Absatz 1 Nummer 2 Buchstabe a und b und § 23 Absatz 2 gelten nicht für
 
-1. Lebensmittel, die aufgrund ihrer stofflichen Eigenschaften in unveränderter Form nicht zum unmittelbaren menschlichen Verzehr durch die Verbraucherin oder den Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches bestimmt sind,
+1. Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist,
 
-2. Einzelfuttermittel und Mischfuttermittel, die dazu bestimmt sind, in zubereitetem, bearbeitetem oder verarbeitetem Zustand verfüttert zu werden, sowie für Futtermittel-Zusatzstoffe im Sinne des Lebensmittel- und Futtermittelgesetzbuches.
+2. Einzelfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe g der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1; L 192 vom 22.7.2011, S. 71; L 296 vom 15.11.2019, S. 64), die zuletzt durch die Verordnung (EU) 2018/1903 (ABl. L 310 vom 6.12.2018, S. 22) geändert worden ist,
+
+3. Mischfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 767/2009 und
+
+4. Futtermittelzusatzstoffe im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29; L 192 vom 29.5.2004, S. 34; L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist.
+
+Die Vorschriften des Dritten Abschnitts und § 16e gelten jedoch für
+
+1. Lebensmittel, die aufgrund ihrer stofflichen Eigenschaften in unveränderter Form nicht zum unmittelbaren menschlichen Verzehr durch den Endverbraucher im Sinne des Artikels 3 Nummer 18 der Verordnung (EG) Nr. 178/2002 bestimmt sind,
+
+2. Einzelfuttermittel und Mischfuttermittel, die dazu bestimmt sind, in zubereitetem bearbeitetem oder verarbeitetem Zustand verfüttert zu werden, sowie für Futtermittelzusatzstoffe.
 
 (3) Die §§ 16d und 23 Abs. 2 gelten nicht für Stoffe und Gemische,
 
