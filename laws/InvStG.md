@@ -543,7 +543,7 @@ Der Bestandsschutz nach Satz 2 Buchstabe c ist bei Beteiligungen, die ab dem 24.
 
 10. Die Anlagebestimmungen gehen aus den Anlagebedingungen hervor.
 
-(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 +++)
+(+++ § 26: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 Abs. 4 +++)
 
 # § 27 – Rechtsformen von inländischen Spezial-Investmentfonds
 

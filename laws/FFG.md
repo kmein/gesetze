@@ -1841,7 +1841,7 @@ Die Filmförderungsanstalt erstellt anhand der Angaben nach § 164 jährlich ein
 
 (4) Anträge auf Referenzfilmförderung können auch gestellt werden, wenn der Referenzfilm zwischen dem 1. Januar 2016 und dem 1. Januar 2017 erstaufgeführt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat. Anträge auf Referenzförderung für Kurzfilme und nicht programmfüllende Kinderfilme können auch gestellt werden, wenn der Film zwischen dem 1. Januar 2015 und dem 1. Januar 2017 fertiggestellt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat.
 
-(5) Eine am 31. Dezember 2016 bestehende Mitgliedschaft in der Unterkommission für die Förderung des Filmabspiels wird bei Bestellung für die Kommission für Kinoförderung im Rahmen der Prüfung nach § 24 Absatz 5 berücksichtigt.
+(5) Wurden Förderhilfen bis zum 31. Dezember 2020 bewilligt, ist für die Frage, ob ein Staat als Mitgliedstaat der Europäischen Union gilt, auf den Bewilligungszeitpunkt abzustellen.
 
 # § 171 – Beendigung der Filmförderung
 
