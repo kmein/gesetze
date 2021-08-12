@@ -87,7 +87,7 @@ Bei den in Satz 1 Nr. 1 bezeichneten Unternehmen kann die Satzung (der Gesellsch
 
 3. in einem Aufsichtsrat, dem zehn Aufsichtsratsmitglieder der Arbeitnehmer angehören, sieben Arbeitnehmer des Unternehmens und drei Vertreter von Gewerkschaften.
 
-(3) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1 Absatz 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein.
+(3) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1 Absatz 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Satz 1 gilt auch für ein nicht börsennotiertes Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung.
 
 (4) Die in Absatz 2 bezeichneten Arbeitnehmer des Unternehmens müssen das 18. Lebensjahr vollendet haben und ein Jahr dem Unternehmen angehören. Auf die einjährige Unternehmensangehörigkeit werden Zeiten der Angehörigkeit zu einem anderen Unternehmen, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen, angerechnet. Diese Zeiten müssen unmittelbar vor dem Zeitpunkt liegen, ab dem die Arbeitnehmer zur Wahl von Aufsichtsratsmitgliedern des Unternehmens berechtigt sind. Die weiteren Wählbarkeitsvoraussetzungen des § 8 Abs. 1 des Betriebsverfassungsgesetzes müssen erfüllt sein.
 
@@ -427,11 +427,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über 
 
 # § 40 – Übergangsregelung
 
-(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 abgeschlossen sind, ist das Mitbestimmungsgesetz vom 4. Mai 1976 (BGBl. I S. 1153) in der Fassung des Artikels 2 Absatz 113 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) anzuwenden.
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in der bis zum 11. August 2021 geltenden Fassung anzuwenden.
 
-(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 nicht abgeschlossen sind, ist im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes das Mitbestimmungsgesetz in der durch Artikel 7 des Gesetzes vom 24. April 2015 (BGBl. I S. 642) geänderten Fassung anzuwenden.
-
-(3) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach § 19 Satz 1 durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ erfolgt ist.
+(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach § 19 Satz 1 durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ erfolgt ist.
 
 # § 41 – Inkrafttreten
 

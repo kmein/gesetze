@@ -123,7 +123,7 @@ b) die katholische Kirche.
 
 Löst sich eine entsendende Organisation auf, geht das Recht der Benennung auf die rechtsnachfolgende Organisation über.
 
-(2) In den Fällen des Absatzes 1 Satz 2 Nummer 1, 3 bis 7 sowie 10 bis 14 muss jeweils mindestens eine Frau und jeweils mindestens ein Mann benannt werden. Für die Besetzung des Verwaltungsrats gilt § 5 Absatz 2 in Verbindung mit § 4 Absatz 1 Satz 1 bis 3 und Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
+(2) In den Fällen des Absatzes 1 Satz 2 Nummer 1, 3 bis 7 sowie 10 bis 14 muss jeweils mindestens eine Frau und jeweils mindestens ein Mann benannt werden. Für die Besetzung des Verwaltungsrats gilt § 4 Absatz 1 Satz 1 und 2 sowie Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
 
 (3) Für jedes Mitglied wird ein stellvertretendes Mitglied benannt.
 
@@ -211,7 +211,7 @@ f) von den Verbänden der öffentlich-rechtlichen Fernsehveranstalter,
 
 3. einem vom Verwaltungsrat mit der Mehrheit der Stimmen gewählten Mitglied aus dem Kreis der von der Arbeitsgemeinschaft Dokumentarfilm e. V., dem Bundesverband Regie e. V., der AG Kurzfilm e. V. und dem Verband Deutscher Drehbuchautoren e. V. für den Verwaltungsrat benannten Vertreterinnen und Vertreter auf gemeinsamen Vorschlag dieser Organisationen.
 
-Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Absatz 1 Satz 1 bis 3 und Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
+Für die Besetzung des Präsidiums gilt § 4 Absatz 1 Satz 3 und Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
 
 (3) Die Präsidiumsmitglieder werden jeweils für die Dauer ihrer Mitgliedschaft im Verwaltungsrat benannt oder gewählt.
 

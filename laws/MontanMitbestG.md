@@ -63,7 +63,7 @@ Die in § 4 Abs. 1 Buchstabe a bezeichneten Mitglieder des Aufsichtsrats werden 
 
 # § 5a
 
-Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrates eines in § 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein.
+Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrates eines in § 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Satz 1 gilt auch für ein nicht börsennotiertes Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung.
 
 # § 6
 

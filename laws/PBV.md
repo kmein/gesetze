@@ -140,7 +140,7 @@ Absatz 1 Satz 2 gilt entsprechend. Über eine Befreiung und ihre Versagung entsc
 
 # § 10 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung des Jahresabschlusses
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung des Jahresabschlusses
 
 1. entgegen § 8 Abs. 1 Satz 2
 

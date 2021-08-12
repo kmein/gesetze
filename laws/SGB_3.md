@@ -6437,7 +6437,7 @@ Die Gruppe der Arbeitnehmerinnen und Arbeitnehmer sowie die Gruppe der Arbeitgeb
 
 (1) Der Vorstand leitet die Bundesagentur und führt deren Geschäfte. Er vertritt die Bundesagentur gerichtlich und außergerichtlich.
 
-(2) Der Vorstand besteht aus einer oder einem Vorsitzenden und zwei weiteren Mitgliedern. Durch Satzung kann der Vorstand um ein weiteres Mitglied erweitert werden. Die oder der Vorsitzende führt die Amtsbezeichnung "Vorsitzende des Vorstands der Bundesagentur für Arbeit" oder "Vorsitzender des Vorstands der Bundesagentur für Arbeit", die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstands der Bundesagentur für Arbeit".
+(2) Der Vorstand besteht aus einer oder einem Vorsitzenden und zwei weiteren Mitgliedern. Durch Satzung kann der Vorstand um ein weiteres Mitglied erweitert werden. Der Vorstand muss mit mindestens einer Frau und mindestens einem Mann besetzt sein. Die oder der Vorsitzende führt die Amtsbezeichnung "Vorsitzende des Vorstands der Bundesagentur für Arbeit" oder "Vorsitzender des Vorstands der Bundesagentur für Arbeit", die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstands der Bundesagentur für Arbeit".
 
 (3) Die oder der Vorsitzende des Vorstands bestimmt die Richtlinien der Geschäftsführung und ist bei der Benennung der übrigen Vorstandsmitglieder zu hören. Innerhalb dieser Richtlinien nimmt jedes Vorstandsmitglied die Aufgaben seines Geschäftsbereiches selbständig wahr.
 

@@ -59,7 +59,7 @@ Bei Unternehmen mit einem Gesellschaftskapital von mehr als fünfundzwanzig Mill
 
 # § 5a
 
-Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein.
+Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Satz 1 gilt auch für ein nicht börsennotiertes Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung.
 
 # § 6
 
@@ -335,11 +335,9 @@ Im Fall des § 8 Abs. 3 Satz 4 des Montan-Mitbestimmungsgesetzes sind auf das Ve
 
 # § 22
 
-(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 abgeschlossen sind, ist das Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der Fassung des Artikels 34 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) anzuwenden.
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in der bis zum 11. August 2021 geltenden Fassung anzuwenden.
 
-(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 nicht abgeschlossen sind, ist im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes das Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der durch Artikel 6 des Gesetzes vom 24. April 2015 (BGBl. I S. 642) geänderten Fassung anzuwenden.
-
-(3) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach § 10g Satz 1 durch das zur gesetzlichen Vertretung des herrschenden Unternehmens befugte Organ erfolgt ist.
+(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach § 10g Satz 1 durch das zur gesetzlichen Vertretung des herrschenden Unternehmens befugte Organ erfolgt ist.
 
 # § 23
 
