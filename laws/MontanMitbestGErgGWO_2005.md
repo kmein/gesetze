@@ -2143,7 +2143,23 @@ Teil 4
 
  
 
-Erstmalige Anwendung, Berechnung von Fristen, Übergangsregelung
+Unternehmen mit Mehrheitsbeteiligung des Bundes
+
+§ 104a
+
+ 
+
+ 
+
+ 
+
+Geschlechteranteil in nicht börsennotierten Unternehmen
+
+Teil 5
+
+ 
+
+Übergangs- und Schlussvorschriften
 
 § 105
 
@@ -3707,6 +3723,10 @@ Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist ents
 
 5. Für die Abstimmungsniederschrift ist § 98 Satz 2 Nr. 1 und 2, 4, 5 und 7 entsprechend anzuwenden.
 
+# § 104a – Geschlechteranteil in nicht börsennotierten Unternehmen
+
+Für nicht börsennotierte Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung gelten die Regelungen dieser Wahlordnung zum Geschlechteranteil bei börsennotierten Unternehmen entsprechend.
+
 # § 105 – Erstmalige Anwendung des Gesetzes auf ein Unternehmen
 
 (1) Bei der erstmaligen Anwendung des Gesetzes auf ein Unternehmen hat das Unternehmen die in § 1 bezeichnete Bekanntmachung unverzüglich nach der in § 97 Abs. 1 des Aktiengesetzes bezeichneten Bekanntmachung über die Zusammensetzung des Aufsichtsrats zu erlassen.
@@ -3721,6 +3741,4 @@ Für die Berechnung der in dieser Verordnung bestimmten Fristen sind die §§ 18
 
 # § 107 – Übergangsregelung
 
-(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 abgeschlossen sind, ist die Wahlordnung zum Mitbestimmungsergänzungsgesetz vom 10. Oktober 2005 (BGBl. I S. 2927, 2932) anzuwenden.
-
-(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 nicht abgeschlossen sind, ist die Wahlordnung zum Mitbestimmungsergänzungsgesetz in der durch Artikel 1 der Verordnung vom 26. August 2015 (BGBl. I S. 1443) geänderten Fassung anzuwenden.
+Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung in der bis zum 11. August 2021 geltenden Fassung anzuwenden.

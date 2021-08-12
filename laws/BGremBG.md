@@ -7,7 +7,7 @@ Ziel des Gesetzes ist die paritätische Vertretung von Frauen und Männern in Gr
 
 # § 2 – Geltungsbereich
 
-Dieses Gesetz gilt für alle Gremien nach § 3 Nummer 1 und 2, für die der Bund Mitglieder bestimmen kann. Es gilt nicht für die Ernennung der Mitglieder der Bundesregierung, nicht für die Gerichtsbarkeit und nicht für Gremienmitglieder, die in Ausübung gesetzlich verbürgter Unabhängigkeit bestimmt werden.
+Dieses Gesetz gilt für Aufsichtsgremien und wesentliche Gremien, für die der Bund Mitglieder bestimmen kann. Es gilt nicht für die Ernennung der Mitglieder der Bundesregierung, nicht für die Gerichtsbarkeit und nicht für Gremienmitglieder, die in Ausübung gesetzlich verbürgter Unabhängigkeit bestimmt werden.
 
 # § 3 – Begriffsbestimmungen
 
@@ -15,9 +15,13 @@ Im Sinne dieses Gesetzes sind:
 
 1. Aufsichtsgremien: Aufsichts- und Verwaltungsräte sowie vergleichbare Aufsicht führende Organe ungeachtet ihrer Bezeichnung und Rechtsgrundlage, auch wenn deren Mitglieder durch Wahl bestimmt werden;
 
-2. wesentliche Gremien: Gremien, bei denen die Mitgliedschaft von mindestens einem seiner Mitglieder durch die Bundesregierung zu beschließen oder zur Kenntnis zu nehmen ist, oder Gremien, die als wesentlich bestimmt worden sind;
+2. wesentliche Gremien:
 
-3. Bund:
+a) Gremien, bei denen die Bundesregierung als Gesamtheit die Mitgliedschaft mindestens eines Mitglieds zu beschließen oder zur Kenntnis zu nehmen hat,
+
+b) Gremien, die wegen ihrer besonderen tatsächlichen, wissenschaftlichen oder zukunftsrelevanten Bedeutung von den Institutionen des Bundes nach Nummer 3 als wesentliche Gremien bestimmt worden sind;
+
+3. Institutionen des Bundes:
 
 a) die Bundesregierung als Gesamtheit,
 
@@ -29,36 +33,36 @@ d) die weiteren Beauftragten der Bundesregierung und die Bundesbeauftragten sowi
 
 e) die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne Recht auf Selbstverwaltung;
 
-4. durch den Bund zu bestimmende Mitglieder: Mitglieder, die der Bund in ein Aufsichts- oder wesentliches Gremium unmittelbar und rechtsverbindlich wählen, berufen, entsenden oder für ein solches Gremium vorschlagen kann; ein Mitglied ist nicht durch den Bund bestimmt, wenn ein Dritter gegenüber dem Bund ein Vorschlagsrecht für die Mitgliedschaft hat und von diesem Recht Gebrauch macht.
+4. vom Bund zu bestimmende Mitglieder: Mitglieder, die die Institutionen des Bundes einzeln oder gemeinsam in ein Aufsichtsgremium oder in ein wesentliches Gremium unmittelbar und rechtsverbindlich wählen, berufen, entsenden oder für ein solches Gremium vorschlagen können; ein Mitglied ist nicht vom Bund bestimmt, wenn ein Dritter gegenüber dem Bund ein Vorschlagsrecht für die Mitgliedschaft hat und von diesem Recht Gebrauch macht.
 
-# § 4 – Vorgaben für Aufsichtsgremien
+# § 4 – Besetzung der Aufsichtsgremien und der wesentlichen Gremien
 
-(1) In einem Aufsichtsgremium müssen ab dem 1. Januar 2016 mindestens 30 Prozent der durch den Bund zu bestimmenden Mitglieder Frauen und mindestens 30 Prozent Männer sein. Der Mindestanteil ist bei erforderlich werdenden Neuwahlen, Berufungen und Entsendungen zur Besetzung einzelner oder mehrerer Sitze zu beachten und sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden. Stehen dem Bund insgesamt höchstens zwei Gremiensitze zu, sind die Sätze 1 bis 3 nicht anzuwenden. Bestimmen mehrere Institutionen des Bundes nach § 3 Nummer 3 Mitglieder eines Gremiums, ist die Gesamtzahl der zu bestimmenden Mitglieder maßgeblich. Bei den Berechnungen ist zur nächsten vollen Personenzahl aufzurunden.
+(1) In jedem Aufsichtsgremium mit mindestens zwei vom Bund zu bestimmenden Mitgliedern sollen unter den vom Bund zu bestimmenden Mitgliedern Frauen und Männer zu gleichen Teilen vertreten sein. Steht dem Bund eine ungerade Anzahl an Sitzen zu, so darf das Ungleichgewicht zwischen Frauen und Männern nur einen Sitz betragen. Bei jedem wesentlichen Gremium haben die Institutionen des Bundes darauf hinzuwirken, dass eine paritätische Vertretung von Frauen und Männern nach den Sätzen 1 und 2 geschaffen oder erhalten wird.
 
-(2) Es ist das Ziel, ab dem 1. Januar 2018 die in Absatz 1 genannten Anteile auf 50 Prozent zu erhöhen. Steht dem Bund insgesamt eine ungerade Anzahl an Gremiensitzen zu, darf das Ungleichgewicht zwischen Frauen und Männern nur einen Sitz betragen.
+(2) Absatz 1 gilt für Neuwahlen, Berufungen und Entsendungen. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
 
-(3) Bei einer Unterschreitung der Vorgaben nach den Absätzen 1 und 2 ist das Bundesministerium für Familie, Senioren, Frauen und Jugend unverzüglich zu unterrichten; die Unterschreitung ist zu begründen.
+(3) Sind mehrere Institutionen des Bundes an der Besetzung eines Aufsichtsgremiums oder eines wesentlichen Gremiums beteiligt, so erfüllen sie die Vorgaben des Absatzes 1 gemeinsam unter besonderer Verantwortung der für das jeweilige Gremium federführenden Institution des Bundes. Droht bei einem Aufsichtsgremium oder einem wesentlichen Gremium, dessen Besetzung dem Bundeskabinett vorgelegt wird, eine Unterschreitung der Vorgaben des Absatzes 1, so hat die für dieses Gremium federführende Institution des Bundes unverzüglich das Bundesministerium für Familie, Senioren, Frauen und Jugend davon zu unterrichten. Die Gründe für die drohende Unterschreitung sind darzulegen.
 
-# § 5 – Vorgaben für wesentliche Gremien
+# § 5 – Statistik, Verordnungsermächtigung
 
-(1) Die Institutionen des Bundes nach § 3 Nummer 3 haben ein Gremium als wesentlich zu bestimmen, wenn es besondere tatsächliche, wissenschaftliche oder zukunftsrelevante Bedeutung hat.
+(1) Die Institutionen des Bundes erfassen jährlich zum 31. Dezember
 
-(2) Bei wesentlichen Gremien haben die Institutionen des Bundes darauf hinzuwirken, dass eine paritätische Vertretung von Frauen und Männern geschaffen oder erhalten wird. Dieses Ziel kann stufenweise entsprechend den Vorgaben in § 4 Absatz 1 und 2 erreicht werden.
+1. die Aufsichtsgremien und die wesentlichen Gremien, für die sie federführend zuständig sind,
 
-(3) § 4 Absatz 1 Satz 3 bis 6 und Absatz 2 Satz 2 gilt entsprechend.
+2. die Zahl der vom Bund für die jeweiligen in Nummer 1 genannten Gremien zu bestimmenden Mitglieder,
 
-# § 6 – Statistik, Verordnungsermächtigung
+3. die Anzahl der Frauen und Männer, die der Bund in den jeweiligen in Nummer 1 genannten Gremien bestimmt hat, und
 
-(1) Die Institutionen des Bundes nach § 3 Nummer 3 veröffentlichen auf ihrer Internetseite eine Aufstellung über ihre Aufsichts- und wesentlichen Gremien sowie über die Anzahl der in diesen jeweils durch den Bund zu bestimmenden Mitglieder. Die Veröffentlichung erfolgt erstmals bis zum 30. Juni 2015. Die Aufstellung nach Satz 1 ist regelmäßig zu aktualisieren.
+4. die Veränderungen nach den Nummern 1 bis 3 im Vergleich zum Vorjahr.
 
-(2) Die Institutionen des Bundes erfassen jährlich zum 31. Dezember unter Beachtung des Datenschutzes die Besetzung ihrer Gremien mit Frauen und Männern. Grundlage ist die Aufstellung nach Absatz 1 einschließlich der im Vergleich zum Vorjahr neu aufgenommenen und entfernten Gremien. Die Daten werden jeweils bis zum 31. März des Folgejahres auf den Internetseiten der Institutionen des Bundes nach § 3 Nummer 3 veröffentlicht und zeitgleich dem Statistischen Bundesamt gemeldet. Veröffentlichung und Meldung erfolgen erstmals bis zum 31. März 2017.
+(2) Bis zum 31. März des Folgejahres haben die Institutionen des Bundes die Daten nach Absatz 1 dem Statistischen Bundesamt zu melden. Gleichzeitig haben sie diese Daten in übersichtlicher Form unter Beachtung des Datenschutzes auf ihrer Internetseite zu veröffentlichen.
 
-(3) Das Statistische Bundesamt erstellt im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend alle zwei Jahre eine Statistik zu den nach Absatz 2 Satz 3 gemeldeten Daten. Die Statistik ist Bestandteil der Gleichstellungsstatistik nach § 38 Absatz 3 Nummer 1 des Bundesgleichstellungsgesetzes.
+(3) Das Statistische Bundesamt erstellt im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend jährlich eine Statistik zu den ihm nach Absatz 2 Satz 1 gemeldeten Daten.
 
-(4) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates die einzelnen Vorgaben für die Mitteilung der statistischen Daten nach Absatz 2 Satz 3.
+(4) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates die einzelnen Vorgaben für die Mitteilung der statistischen Daten nach Absatz 2 Satz 1.
 
-# § 7 – Bericht
+# § 6 – Bericht
 
-(1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre eine Zusammenstellung und Auswertung der Gremienbesetzungen durch den Bund vor.
+(1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre eine Zusammenstellung und Auswertung der vom Bund vorgenommenen Gremienbesetzungen vor.
 
-(2) Grundlage der Zusammenstellung und Auswertung sind die nach § 6 Absatz 2 Satz 3 gemeldeten Daten. Die obersten Bundesbehörden haben die für die Erstellung des Berichts erforderlichen Angaben zu machen.
+(2) Grundlage der Zusammenstellung und Auswertung sind die nach § 5 Absatz 2 Satz 1 gemeldeten Daten. Die obersten Bundesbehörden haben die für die Erstellung des Berichts erforderlichen Angaben zu machen.

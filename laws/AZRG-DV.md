@@ -283,11 +283,15 @@ b) Daten nach § 3 Absatz 1 Nr. 3 und 7 in Verbindung mit § 2 Abs. 2 Nr. 7 und 
 
 c) Daten nach § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 7 des AZR-Gesetzes,
 
+d) Daten zur Förderung der freiwilligen Ausreise und Reintegration nach § 3 Absatz 1 Nummer 6 des AZR-Gesetzes,
+
 3. nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 10, 10a und 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes,
 
-4. nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 des AZR-Gesetzes und Dokumente nach § 3 Absatz 3c in Verbindung mit § 2 Absatz 2b des AZR-Gesetzes.
+4. nach 18 Monaten Daten nach § 3 Absatz 1 Nummer 7 des AZR-Gesetzes und Dokumente nach § 3 Absatz 3c in Verbindung mit § 2 Absatz 2b des AZR-Gesetzes,
 
-Die Fristen beginnen mit Ablauf des Vierteljahres, in dem die Daten übermittelt worden sind.
+5. nach sechs Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 des AZR-Gesetzes und § 3 Absatz 3d in Verbindung mit § 2 Absatz 2c des AZR-Gesetzes.
+
+Die Fristen beginnen in den Fällen der Nummer 1 bis 4 mit Ablauf des Vierteljahres, in dem die Daten übermittelt worden sind.
 
 (4) Daten werden im Übrigen gelöscht, wenn die ihnen zugrunde liegenden Maßnahmen zurückgenommen, widerrufen, anderweitig aufgehoben oder durch Ablauf ihrer Befristung oder auf andere Weise erledigt sind. Bereits im Register gespeicherte Angaben zum aufenthaltsrechtlichen Status werden durch Speicherung weiterer Angaben zum aufenthaltsrechtlichen Status nicht gelöscht.
 
@@ -368,6 +372,8 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
  
 
  \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+
+ 
 
  
 

@@ -125,9 +125,9 @@ Abberufung
 
 46 - 49
 
-Teil 4 Schlussbestimmung
+Teil 4 Schlussbestimmung und Übergangsregelung
 
-50
+50 - 51
 
 # § 1 – Mitteilung des Unternehmens
 
@@ -193,6 +193,14 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 6. die Zahl der zu wählenden Arbeitnehmervertreter; soweit Arbeitnehmervertreter nach § 4 Abs. 2 des Gesetzes Arbeitnehmer des Unternehmens sein müssen, ist hierauf hinzuweisen;
 
+6a. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, ob zur Erreichung des Geschlechteranteils nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes oder § 77a Absatz 3 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung jeweils in Verbindung mit § 96 Absatz 2 Satz 1 des Aktiengesetzes für die Wahl die Gesamterfüllung oder die Getrennterfüllung gilt;
+
+6b. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im Fall der Gesamterfüllung die zur Erreichung des Geschlechteranteils nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes oder § 77a Absatz 3 Satz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung jeweils in Verbindung mit § 96 Absatz 2 Satz 1 und 4 des Aktiengesetzes erforderliche Anzahl an Frauen und Männern im Aufsichtsrat;
+
+6c. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im Fall der Getrennterfüllung die zur Erreichung des Geschlechteranteils nach § 4 Absatz 5 des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes erforderliche Anzahl an Frauen und Männern unter den Aufsichtsratsmitgliedern der Arbeitnehmer;
+
+6d. im Fall der Nummer 6c, wenn der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes bei der Wahl nicht erreicht wird, dass § 7a des Gesetzes anzuwenden ist und der Geschlechteranteil im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl hergestellt wird;
+
 7. dass die in § 105 Abs. 1 des Aktiengesetzes genannten Personen nicht Mitglied des Aufsichtsrats sein können;
 
 8. dass der Betriebsrat und die Arbeitnehmer innerhalb von zwei Wochen seit dem Erlass des Wahlausschreibens Wahlvorschläge einreichen können; der letzte Tag der Frist ist anzugeben;
@@ -202,6 +210,8 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 10. dass in jedem Wahlvorschlag für jeden Bewerber jeweils ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden kann;
 
 11. dass bei Wahl eines Aufsichtsratsmitglieds auch das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt ist;
+
+11a. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, dass das Nachrücken eines Ersatzmitglieds, dessen Wahl nach dem 31. März 2022 erfolgt ist, ausgeschlossen ist, wenn dadurch der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes nicht mehr eingehalten würde;
 
 12. dass die Stimmabgabe an die Wahlvorschläge gebunden ist und dass nur solche Wahlvorschläge berücksichtigt werden, die fristgerecht (Nummer 8) eingereicht sind;
 
@@ -359,9 +369,21 @@ Absatz 2 ist entsprechend anzuwenden.
 
 Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben. Muss der zu Wählende Arbeitnehmer des Unternehmens sein (§ 4 des Gesetzes), so sind die Bewerber gewählt, die diese Voraussetzung erfüllen und die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet jeweils das Los.
 
+# § 19a – Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Gesamterfüllung
+
+In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind im Fall der Gesamterfüllung die Bewerber gewählt, die die meisten Stimmen erhalten haben. § 19 Satz 2 und 3 ist anzuwenden.
+
+# § 19b – Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Getrennterfüllung
+
+(1) In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung stellt im Fall der Getrennterfüllung der Betriebswahlvorstand nach Auszählung der Stimmen fest, ob bei der Wahl der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes eingehalten wurde.
+
+(2) Wurde der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes bei der Wahl eingehalten, sind die Bewerber gewählt, die die meisten Stimmen erhalten haben. § 19 Satz 2 und 3 ist anzuwenden.
+
+(3) Wurde der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes bei der Wahl nicht eingehalten, sind nur diejenigen Bewerber gewählt, deren Wahl nicht nach § 7a Absatz 2 Satz 1 des Gesetzes unwirksam ist.
+
 # § 20 – Niederschrift des Wahlergebnisses
 
-Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer Niederschrift fest:
+(1) Nachdem ermittelt ist, wer gewählt ist, stellt der Betriebswahlvorstand in einer Niederschrift fest:
 
 1. die Zahl der insgesamt abgegebenen Stimmen;
 
@@ -377,11 +399,23 @@ Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer N
 
 7. besondere während der Wahl eingetretene Zwischenfälle oder sonstige Ereignisse.
 
+(2) Der Betriebswahlvorstand stellt bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
+
+1. ob der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes bei der Wahl erreicht wurde;
+
+2. die Anzahl der Sitze, die auf Grund des Nichterreichens des Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt wurden.
+
 # § 21 – Bekanntmachung des Wahlergebnisses und Benachrichtigung der Gewählten
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 
 (2) Gleichzeitig benachrichtigt der Betriebswahlvorstand die Gewählten schriftlich von ihrer Wahl und übermittelt das Wahlergebnis und die Namen der Gewählten dem Unternehmen.
+
+(3) Wurde bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im Fall der Getrennterfüllung der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes bei der Wahl nicht erreicht, informiert der Betriebswahlvorstand die Adressaten der Absätze 1 und 2 zusätzlich
+
+1. über die Anzahl der Sitze, die auf Grund des Nichterreichens des Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt wurden, und
+
+2. darüber, dass diese nicht besetzten Aufsichtsratssitze nach § 7a Absatz 2 des Gesetzes im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
 
 # § 22 – Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens
 
@@ -480,6 +514,12 @@ Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zw
 (3) Der zuständige Wahlvorstand ermittelt anhand der Niederschriften der Betriebswahlvorstände das Wahlergebnis und stellt es in einer Niederschrift fest. § 20 gilt entsprechend.
 
 (4) Der zuständige Wahlvorstand übermittelt das Wahlergebnis den Betriebswahlvorständen. Diese machen das Wahlergebnis unverzüglich für die Dauer von zwei Wochen bekannt. Gleichzeitig benachrichtigt der zuständige Wahlvorstand die Gewählten schriftlich von ihrer Wahl und übermittelt das Wahlergebnis und die Namen der Gewählten dem Unternehmen.
+
+(4a) Wurde bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im Fall der Getrennterfüllung der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes bei der Wahl nicht erreicht, informiert der zuständige Wahlvorstand die Adressaten des Absatzes 4 zusätzlich
+
+1. über die Anzahl der Sitze, die auf Grund des Nichterreichens des Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt wurden, und
+
+2. darüber, dass diese nicht besetzten Aufsichtsratssitze nach § 7a Absatz 2 des Gesetzes im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
 
 (5) Die Wahlvorstände übergeben ihre Wahlakten dem Unternehmen, in dessen Aufsichtsrat die Aufsichtsratsmitglieder der Arbeitnehmer gewählt worden sind. Das Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
@@ -648,3 +688,7 @@ Die Arbeitnehmer von Seebetrieben stimmen bei der Abberufung von Aufsichtsratsmi
 # § 50 – Berechnung der Fristen
 
 Für die Berechnung der in dieser Verordnung festgelegten Fristen finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
+
+# § 51 – Übergangsregelung
+
+Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung in der bis zum 11. August 2021 geltenden Fassung anzuwenden.
