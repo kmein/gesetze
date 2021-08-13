@@ -8953,7 +8953,8 @@ Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdaue
 
 # Anlage 39 – (zu § 254) Ermittlung des Rohertrags
 
-(Fundstelle: BGBl. I 2021, 2932 – 2936)
+(Fundstelle: BGBl. I 2021, 2932 – 2936;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 I. Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche\*\*  
 (Wertverhältnisse/Stand: 1. Januar 2022)  
@@ -8993,9 +8994,7 @@ Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Lande
 
 Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung.
 
-(+++ Anlage 39 Teil I Fußnote "
-
-quot;: Fehlender Bezug zum Text soll korrigiert werden +++)
+(+++ Anlage 39 Teil I Fußnote (\*): Fehlender Bezug zum Text soll korrigiert werden +++)
 
 # Anlage 40 – (zu § 255)  Bewirtschaftungskosten
 
