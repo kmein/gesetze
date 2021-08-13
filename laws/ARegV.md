@@ -703,7 +703,8 @@ Im Falle der Verlängerung einer Genehmigung infolge eines Änderungsantrags nac
 
 # Anlage 1 – (zu § 7)
 
-(Fundstelle: BGBl. I 2011, 3035)
+(Fundstelle: BGBl. I 2011, 3035;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Festsetzung der Erlösobergrenze nach den §§ 4 bis 16 erfolgt in der ersten Regulierungsperiode nach der folgenden Formel:
 
@@ -767,7 +768,8 @@ Der Erweiterungsfaktor für das gesamte Netz ist der gewichtete Mittelwert über
 
 # Anlage 2a – (zu § 6)
 
-(Fundstelle: BGBl. I 2016, 2155)
+(Fundstelle: BGBl. I 2016, 2155;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (1) Die Ermittlung des Kapitalkostenabzugs nach § 6 Absatz 3 eines Jahres der jeweiligen Regulierungsperiode erfolgt anhand der folgenden Formel; wobei der Kapitalkostenabzug keine Werte kleiner als null annehmen darf:
 
