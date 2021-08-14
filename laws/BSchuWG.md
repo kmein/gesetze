@@ -21,6 +21,30 @@ Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund od
 
 (4) Abweichende Regelungen der Zuständigkeit im Schuldenwesen des Bundes durch Gesetz bleiben unberührt.
 
+(5) Die Bundesrepublik Deutschland – Finanzagentur GmbH hat im Rahmen der Wahrnehmung der ihr nach Absatz 1 Satz 1 Nummern 1 und 4 übertragenen Aufgaben die zum Schutz des Vermögens des Bundes und seiner Sondervermögen erforderliche Maßnahmen zu treffen. Sie darf dazu die mit den an der Anbahnung oder dem Abschluss von Handelsgeschäften beteiligten Geschäfts- oder Verhandlungspartnern geführten Telefongespräche und die mit ihnen ausgetauschte elektronische Kommunikation, auch soweit sie über von Dritten betriebene Systeme geführt wird, aufzeichnen; dies gilt auch, wenn das Telefongespräch oder die elektronische Kommunikation nicht zum Abschluss eines Handelsgeschäfts führt. Zur Erfüllung dieser Aufgabe ist die Bundesrepublik Deutschland – Finanzagentur GmbH befugt, den Namen und die Kontaktdaten der an der Kommunikation Beteiligten, das Datum und die Uhrzeit sowie den Inhalt des Gesprächs zu erheben und zu speichern. Die Bundesrepublik Deutschland – Finanzagentur GmbH informiert ihre Mitarbeiter und die jeweiligen Geschäfts- und Verhandlungspartner vorab in geeigneter Weise über die Aufzeichnungen.
+
+(6) Die Aufzeichnungen nach Absatz 5 sind für fünf Jahre aufzubewahren und danach unverzüglich zu löschen. Sie sind vor Ablauf der in Satz 1 genannten Frist zu löschen, wenn feststeht, dass sie zum Schutz des Vermögens des Bundes und seiner Sondervermögen nicht erforderlich sind.
+
+(7) Die gespeicherten Aufzeichnungen sind durch geeignete technische und organisatorische Maßnahmen gegen nachträgliche Verfälschung, unberechtigten Zugriff und unbefugte Verwendung zu sichern. Sie dürfen durch die Bundesrepublik Deutschland – Finanzagentur GmbH nur für folgende Zwecke ausgewertet und verwendet werden:
+
+1. zur Aufklärung des Sachverhalts
+
+a) im Falle von Unklarheiten über das Zustandekommen eines Handelsgeschäfts oder über dessen Inhalt oder
+
+b) bei Anhaltspunkten für das Vorliegen strafbaren Verhaltens,
+
+2. soweit sich bei der Auswertung der Aufzeichnungen der Verdacht strafbaren Verhaltens bestätigt hat,
+
+a) zur Weitergabe zur Durchführung weiterer interner Untersuchungen und
+
+b) zur Weitergabe an die zuständigen Strafverfolgungsbehörden, sowie
+
+3. zu Beweiszwecken bei der Verfolgung und Durchsetzung zivilrechtlicher Ansprüche.
+
+Die Aufzeichnungen dürfen insbesondere nicht zur Überwachung der Mitarbeiter durch die Bundesrepublik Deutschland – Finanzagentur GmbH verwendet werden. Die Auswertung der Aufzeichnungen darf nur durch von der Bundesrepublik Deutschland – Finanzagentur GmbH gesondert zu benennende Mitarbeiter erfolgen. Anlass, Zweck, Datum und Uhrzeit, die durchführenden Mitarbeiter und die Ergebnisse der Auswertung sind zu dokumentieren.
+
+(8) Für die zur Dokumentation der Auswertung nach Absatz 7 Satz 5 erstellten Unterlagen gilt Absatz 7 Satz 1 und Satz 2 Nummern 2 und 3 entsprechend. Zum Zweck der Verfolgung und Durchsetzung zivilrechtlicher Ansprüche des Bundes dürfen die Unterlagen durch die Bundesrepublik Deutschland – Finanzagentur GmbH an die jeweils zuständigen öffentlichen Stellen des Bundes übermittelt und von diesen verarbeitet werden.
+
 # § 2 – Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH
 
 (1) Das Bundesministerium der Finanzen übt die Aufsicht über die recht- und zweckmäßige Wahrnehmung der übertragenen Aufgaben des Schuldenwesens durch die Bundesrepublik Deutschland - Finanzagentur GmbH aus.
@@ -53,7 +77,13 @@ Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund od
 
 # § 4a – Einführung von Umschuldungsklauseln
 
-Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln enthalten, die zum Zwecke der Umschuldung eine Änderung der Emissionsbedingungen durch Mehrheitsbeschluss der Gläubiger mit Zustimmung des Bundes ermöglichen (Umschuldungsklauseln). Die Umschuldungsklauseln können auch die Möglichkeit zur einheitlichen Beschlussfassung für Schuldverschreibungen verschiedener Anleihen vorsehen (anleiheübergreifende Änderung). Soweit Emissionsbedingungen nichts Abweichendes vorsehen, gelten für die Umschuldungsklauseln die §§ 4b bis 4k.
+Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln enthalten, die zum Zwecke der Umschuldung eine Änderung der Emissionsbedingungen durch Mehrheitsbeschluss der Gläubiger mit Zustimmung des Bundes ermöglichen (Umschuldungsklauseln). Die Umschuldungsklauseln können auch die Möglichkeit zur einheitlichen Beschlussfassung für Schuldverschreibungen verschiedener Anleihen vorsehen (anleiheübergreifende Änderung). Die Umschuldungsklauseln können folgende Formen von Mehrheitserfordernissen vorsehen:
+
+1. einen Mehrheitsbeschluss für alle betroffenen Anleihen gemeinsam (einstufiges Mehrheitserfordernis) oder
+
+2. neben einem Mehrheitsbeschluss für alle betroffenen Anleihen gemeinsam zusätzlich einen Mehrheitsbeschluss in jeder betroffenen Anleihe (zweistufiges Mehrheitserfordernis).
+
+Für die Umschuldung gelten die §§ 4b bis 4k. Die Emissionsbedingungen können von den §§ 4b bis 4d Absatz 1 bis 3 und §§ 4e bis 4k abweichende Regelungen vorsehen.
 
 # § 4b – Mehrheitsbeschlüsse der Gläubiger
 
@@ -63,33 +93,77 @@ Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer 
 
 2. die Verringerung der Hauptforderung, die Veränderung ihrer Fälligkeit oder die Veränderung des Verfahrens zu ihrer Berechnung;
 
-3. die Änderung der Währung der Schuldverschreibungen oder des Zahlungsortes;
+3. die Änderung der Währung der Schuldverschreibungen;
 
-4. die sonstige Änderung einer Zahlungsverpflichtung des Bundes;
+4. die Änderung des Zahlungsortes;
 
-5. die Freigabe oder die Änderung einer Garantie oder einer sonstigen Sicherheit, sofern die Freigabe oder die Änderung der Bedingungen nicht bereits ausdrücklich vertraglich vorgesehen sind;
+5. die sonstige Änderung einer Zahlungsverpflichtung des Bundes;
 
-6. die Änderung der Umstände, bei deren Vorliegen die Schuldverschreibungen vorzeitig gekündigt werden können;
+6. die Freigabe oder die Änderung einer Garantie oder einer sonstigen Sicherheit, sofern die Freigabe oder die Änderung der Bedingungen nicht bereits ausdrücklich vertraglich vorgesehen sind;
 
-7. die Änderung der Rangfolge der Forderungen aus den Schuldverschreibungen;
+7. die Änderung der Umstände, bei deren Vorliegen die Schuldverschreibungen vorzeitig gekündigt werden können;
 
-8. die Änderung des anwendbaren Rechts, sofern die Schuldverschreibungen nicht dem deutschen Recht unterliegen;
+8. die Änderung der Rangfolge der Forderungen aus den Schuldverschreibungen;
 
-9. die Änderung des Gerichtsstands, sofern in den Emissionsbedingungen ein ausländischer Gerichtsstand vereinbart wurde.
+9. die Änderung des anwendbaren Rechts, sofern die Schuldverschreibungen nicht dem deutschen Recht unterliegen;
+
+10. die Änderung des Gerichtsstands, sofern in den Emissionsbedingungen ein ausländischer Gerichtsstand vereinbart wurde.
 
 (2) Die Gläubiger beschließen entweder in einer Gläubigerversammlung oder im Wege einer schriftlichen Abstimmung.
 
-(3) Beschlüsse, die in einer Gläubigerversammlung gefasst werden, bedürfen einer Mehrheit von mindestens 50 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen. Wesentliche Beschlüsse, die in einer Gläubigerversammlung gefasst werden, bedürfen einer Mehrheit von mindestens 75 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen. Wesentliche Beschlüsse, die in einer Gläubigerversammlung gefasst werden und eine anleiheübergreifende Änderung betreffen, bedürfen einer Mehrheit von mindestens 75 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen sowie einer Mehrheit von mindestens 66 2/3 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich jeder einzelnen von der Änderung betroffenen Anleihe.
+(3) Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine einzelne Anleihe betreffen, bedürfen
 
-(4) Beschlüsse, die im Wege einer schriftlichen Abstimmung gefasst werden, bedürfen einer Mehrheit von mindestens 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen. Wesentliche Beschlüsse, die im Wege einer schriftlichen Abstimmung gefasst werden, bedürfen einer Mehrheit von mindestens 66 2/3 Prozent des Nennwertes der ausstehenden Schuldverschreibungen. Wesentliche Beschlüsse, die im Wege einer schriftlichen Abstimmung gefasst werden und eine anleiheübergreifende Änderung betreffen, bedürfen einer Mehrheit von mindestens 66 2/3 Prozent des Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen sowie einer Mehrheit von mindestens 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich jeder einzelnen von der Änderung betroffenen Anleihe.
+1. bei Beschlussfassung in einer Gläubigerversammlung, einer Mehrheit von mindestens 75 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen, und
+
+2. bei Beschlussfassung im Wege einer schriftlichen Abstimmung, einer Mehrheit von mindestens zwei Dritteln des Nennwertes der ausstehenden Schuldverschreibungen.
+
+Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine anleiheübergreifende Änderung im Sinne von § 4a Satz 2 betreffen und für die in den Emissionsbedingungen ein einstufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 vorgesehen ist, bedürfen einer Mehrheit von mindestens zwei Dritteln des Nennwerts der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen. Wesentliche Beschlüsse im Sinne des Absatzes 1, die eine anleiheübergreifende Änderung im Sinne von § 4a Satz 2 betreffen und für die in den Emissionsbedingungen ein zweistufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 2 vorgesehen ist, bedürfen
+
+1. bei Beschlussfassung in einer Gläubigerversammlung
+
+a) einer Mehrheit von mindestens 75 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen sowie
+
+b) jeweils einer Mehrheit von mindestens zwei Dritteln des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich jeder einzelnen von der Änderung betroffenen Anleihe und
+
+2. bei Beschlussfassung im Wege einer schriftlichen Abstimmung
+
+a) einer Mehrheit von mindestens zwei Dritteln des Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen sowie
+
+b) jeweils einer Mehrheit von mehr als 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen hinsichtlich jeder einzelnen von der Änderung betroffenen Anleihe.
+
+(4) Beschlüsse, die keine wesentlichen Beschlüsse im Sinne des § 4b Absatz 1 darstellen (einfache Beschlüsse) und eine einzelne Anleihe betreffen, bedürfen
+
+1. bei Beschlussfassung in einer Gläubigerversammlung einer Mehrheit von mehr als 50 Prozent des bei der Beschlussfassung vertretenen Nennwertes der ausstehenden Schuldverschreibungen,
+
+2. bei Beschlussfassung im Wege einer schriftlichen Abstimmung einer Mehrheit von mehr als 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen.
+
+Sofern nach den Bestimmungen der Emissionsbedingungen auch für einfache Beschlüsse anleiheübergreifende Änderungen mit einem einstufigen Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 herbeigeführt werden können, bedürfen diese Beschlüsse einer Mehrheit von mehr als 50 Prozent des Nennwerts der ausstehenden Schuldverschreibungen hinsichtlich aller von der Änderung betroffenen Anleihen.
 
 (5) Die Gläubiger können den Inhalt wesentlicher Beschlüsse und den für eine Mehrheit erforderlichen Nennwert der ausstehenden Schuldverschreibungen abweichend von den Absätzen 1, 3 und 4 festlegen; eine Beschlussfassung hierüber gilt als wesentlicher Beschluss.
 
-(6) Die Mehrheitsbeschlüsse der Gläubiger sind für alle Gläubiger derselben Anleihe und bei einer anleiheübergreifenden Änderung für alle Gläubiger der von der Änderung betroffenen Anleihen gleichermaßen verbindlich. Wesentliche Beschlüsse, die eine anleiheübergreifende Änderung betreffen und bei denen die erforderlichen Mehrheiten nur hinsichtlich einiger der von der Änderung betroffenen Anleihen erreicht werden, sind für die Gläubiger dieser Anleihen verbindlich, wenn der Bund die Voraussetzungen, die hierfür gegeben sein müssen, vor einem von ihm bestimmten Termin (Stichtag), der höchstens fünf Geschäftstage vor der Gläubigerversammlung oder dem Beginn der schriftlichen Abstimmung liegen darf, bekannt macht und wenn diese Voraussetzungen auch tatsächlich vorliegen.
+(6) Sehen die Emissionsbedingungen ein einstufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 1 vor, müssen anleiheübergreifende Änderungen einheitlich vorgenommen werden. Bei einer Änderung der Emissionsbedingungen oder einem Umtausch, einer Umwandlung oder einer Ersetzung der Schuldverschreibungen liegt eine einheitliche Änderung vor, wenn
 
-(7) Mehrheitsbeschlüsse der Gläubiger bedürfen stets der Zustimmung des Bundes.
+1. die Hauptforderung oder die Verzinsung in allen betroffenen Anleihen im selben Verhältnis verringert werden,
 
-(8) Der Bund hat die Beschlüsse der Gläubiger unverzüglich bekannt zu machen.
+2. der Fälligkeitstermin von Zahlungen in allen betroffenen Anleihen um denselben Zeitraum oder im selben Verhältnis verschoben wird,
+
+3. der Umtausch, die Umwandlung oder die Ersetzung
+
+a) für alle Gläubiger aller betroffenen Anleihen in dasselbe neue Instrument oder dieselbe neue sonstige Gegenleistung erfolgt oder
+
+b) in ein neues Instrument, in neue Instrumente oder in eine neue sonstige Gegenleistung nach Auswahl des Gläubigers aus einem allen Gläubigern aller betroffenen Anleihen angebotenen identischen Katalog verschiedener Instrumente oder sonstiger Gegenleistungen erfolgt,
+
+4. die Emissionsbedingungen aller betroffenen Anleihen so geändert werden, dass für die geänderten Schuldverschreibungen die gleichen Bestimmungen gelten mit Ausnahme derjenigen Bedingungen, die auf unterschiedlichen Ausgabewährungen beruhen, oder
+
+5. die Emissionsbedingungen aller betroffenen Anleihen in Bezug auf Änderungen gemäß Absatz 1 Nummer 4 und 6 bis 10 oder Absatz 5 so geändert werden, dass die geänderten Schuldverschreibungen nach Umsetzung der Änderungen Gegenstand einer identischen Änderung sind.
+
+Bei einem Umtausch, einer Umwandlung oder einer Ersetzung gemäß Satz 2 Nummer 3 Buchstabe a oder einer Änderung der Emissionsbedingungen gemäß Satz 2 Nummer 4 liegt eine einheitliche Änderung nur vor, wenn den Gläubigern aller betroffenen Anleihen eine Gegenleistung in gleicher Höhe je Nennwert, je aufgelaufenem und je überfälligem Zinsbetrag angeboten wird. Bei einem Umtausch, einer Umwandlung oder einer Ersetzung gemäß Satz 2 Nummer 3 Buchstabe b liegt eine einheitliche Änderung nur vor, wenn den Gläubigern aller betroffenen Anleihen für den Fall, dass sie dieselbe Auswahl treffen, eine Gegenleistung in gleicher Höhe je Nennwert, je aufgelaufenem und je überfälligem Zinsbetrag angeboten wird.
+
+(7) Die Mehrheitsbeschlüsse der Gläubiger sind für alle Gläubiger derselben Schuldverschreibung und bei einer anleiheübergreifenden Änderung für alle Gläubiger der von der Änderung betroffenen Anleihen gleichermaßen verbindlich. Soweit die Emissionsbedingungen ein zweistufiges Mehrheitserfordernis im Sinne von § 4a Satz 3 Nummer 2 vorsehen, sind wesentliche Beschlüsse, die eine anleiheübergreifende Änderung betreffen und bei denen die erforderlichen Mehrheiten nur hinsichtlich einiger der von der Änderung betroffenen Anleihen erreicht werden, für die Gläubiger dieser Schuldverschreibungen verbindlich, wenn der Bund die Voraussetzungen, die hierfür gegeben sein müssen, vor einem von ihm bestimmten Termin (Stichtag), der höchstens fünf Geschäftstage vor der Gläubigerversammlung oder dem Beginn der schriftlichen Abstimmung liegen darf, bekannt macht und wenn diese Voraussetzungen auch tatsächlich vorliegen.
+
+(8) Mehrheitsbeschlüsse der Gläubiger bedürfen stets der Zustimmung des Bundes.
+
+(9) Der Bund hat die Beschlüsse der Gläubiger unverzüglich bekannt zu machen.
 
 # § 4c – Stimmrecht
 
@@ -129,6 +203,10 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 (3) Die Angaben in der Bescheinigung nach Absatz 2 sind für alle Gläubiger und den Bund verbindlich, sofern nicht ein betroffener Gläubiger vor der Beschlussfassung der Gläubiger schriftlich und unter Mitteilung von Gründen der Richtigkeit der Angaben widerspricht und sofern nicht dieser Gläubiger einen Beschluss der Gläubiger, der auf einer unrichtigen Angabe beruht, binnen 15 Tagen nach Bekanntmachung des Beschlusses durch Klage nach Maßgabe des § 4i anficht.
 
+(4) Alle von der Berechnungsstelle getroffenen Feststellungen, dafür jeweils gegebenen oder eingeholten Auskünfte, Stellungnahmen, Bescheinigungen und Angebote, dafür vorgenommenen Berechnungen und getroffenen Entscheidungen sind für den Bund und die Gläubiger verbindlich, es sei denn, sie sind offensichtlich unrichtig.
+
+(5) Die Berechnungsstelle haftet gegenüber den Gläubigern und dem Bund nur für Vorsatz und grobe Fahrlässigkeit.
+
 # § 4e – Einberufung der Gläubigerversammlung
 
 (1) Eine Gläubigerversammlung kann jederzeit durch den Bund einberufen werden. Der Bund hat eine Gläubigerversammlung einzuberufen, sofern ein in den Emissionsbedingungen vorgesehener Fall der Nichterfüllung einer Zahlungsverpflichtung des Bundes eintritt und Gläubiger von mindestens 10 Prozent des Nennwertes der ausstehenden Schuldverschreibungen die Einberufung schriftlich verlangen. § 9 Absatz 2 und 4 des Schuldverschreibungsgesetzes ist entsprechend anzuwenden. Zuständig ist das Oberlandesgericht am Sitz der Deutschen Bundesbank. Die Vorschriften des ersten Buches des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend anzuwenden. Eine Entscheidung durch den Einzelrichter ist ausgeschlossen. Die Entscheidung des Oberlandesgerichts ist unanfechtbar.
@@ -139,7 +217,7 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 1. die Zeit und der Ort der Gläubigerversammlung,
 
-2. die Tagesordnung, die Vorschläge zur Beschlussfassung und die Voraussetzungen der Beschlussfähigkeit,
+2. die Tagesordnung, die Vorschläge zur Beschlussfassung, einschließlich der Angabe, ob eine anleiheübergreifende Änderung vorgeschlagen wird, und die Voraussetzungen der Beschlussfähigkeit,
 
 3. der Stichtag sowie die Bedingungen, von denen die Teilnahme an der Gläubigerversammlung abhängen,
 
@@ -149,15 +227,23 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 6. die Berechnungsstelle.
 
+Sind anleiheübergreifende Änderungen Gegenstand der Tagesordnung einer Gläubigerversammlung, sind die Angaben gemäß Satz 1 Nummer 2 um folgende weitere Angaben zu ergänzen:
+
+1. welche anderen betroffenen Anleihen Gegenstand der vorgeschlagenen anleiheübergreifenden Änderung sind,
+
+2. ob eine Zusammenfassung der Anleihen zu mehr als einer Gruppe von Anleihen vorgesehen ist, und wenn ja, ist zusätzlich eine Erläuterung beizufügen, aus der hervorgeht, wie die Bedingungen der Schuldverschreibungen jeder dieser Gruppen behandelt werden sollen.
+
 (4) Die Einberufung ist unverzüglich bekannt zu machen.
+
+(5) Gläubigerversammlungen können auch auf elektronische oder auf zum jeweiligen Zeitpunkt übliche sonstige Art und Weise durchgeführt werden.
 
 # § 4f – Vorsitz; Beschlussfähigkeit
 
 (1) Der Bund bestimmt den Vorsitzenden der Gläubigerversammlung. Sofern die vom Bund ernannte Person in der Versammlung nicht erscheint, können Gläubiger, die mehr als 50 Prozent des in der Versammlung vertretenen Nennwertes der ausstehenden Schuldverschreibungen halten, den Vorsitzenden der Gläubigerversammlung bestimmen.
 
-(2) Die Gläubigerversammlung ist beschlussfähig, wenn die Anwesenden mindestens 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten. Sollen wesentliche Beschlüsse gefasst werden, ist die Gläubigerversammlung beschlussfähig, wenn die Anwesenden mindestens 66 2/3 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten.
+(2) Die Gläubigerversammlung ist beschlussfähig, wenn die Anwesenden mindestens 50 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten. Sollen wesentliche Beschlüsse gefasst werden, ist die Gläubigerversammlung beschlussfähig, wenn die Anwesenden mindestens zwei Drittel des Nennwertes der ausstehenden Schuldverschreibungen vertreten. Die Regelungen der Sätze 1 und 2 finden für Beschlüsse gemäß § 4b Absatz 3 Satz 2 und Absatz 4 Satz 2 keine Anwendung.
 
-(3) Der Vorsitzende kann eine Gläubigerversammlung vertagen, wenn sie innerhalb von 30 Minuten nach Sitzungsbeginn nicht beschlussfähig ist. Die vertagte Versammlung ist beschlussfähig, wenn die Anwesenden mindestens 25 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten. Sollen wesentliche Beschlüsse gefasst werden, ist die vertagte Gläubigerversammlung beschlussfähig, wenn die Anwesenden mindestens 66 2/3 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten.
+(3) Der Vorsitzende kann eine Gläubigerversammlung vertagen, wenn sie innerhalb von 30 Minuten nach Sitzungsbeginn nicht beschlussfähig ist. Die vertagte Versammlung ist beschlussfähig, wenn die Anwesenden mindestens 25 Prozent des Nennwertes der ausstehenden Schuldverschreibungen vertreten. Sollen wesentliche Beschlüsse gefasst werden, ist die vertagte Gläubigerversammlung beschlussfähig, wenn die Anwesenden mindestens zwei Drittel des Nennwertes der ausstehenden Schuldverschreibungen vertreten.
 
 (4) Die Gläubiger können den für die Beschlussfähigkeit erforderlichen Nennwert der ausstehenden Schuldverschreibungen abweichend von den Absätzen 2 und 3 festlegen; eine Beschlussfassung hierüber gilt als wesentlicher Beschluss.
 
@@ -185,7 +271,7 @@ Beschlüsse der Gläubiger, durch welche der Inhalt der Emissionsbedingungen ge�
 
 # § 4k – Bekanntmachungen
 
-Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, § 4d Absatz 2 Satz 2, § 4e Absatz 4 und § 4j erfolgen im Bundesanzeiger und im Internet unter der Adresse der Bundesrepublik Deutschland – Finanzagentur GmbH sowie durch die Deutsche Bundesbank.
+Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c Absatz 4, § 4d Absatz 2 Satz 2, § 4e Absatz 4 und § 4j erfolgen im Bundesanzeiger und im Internet unter der Adresse der Bundesrepublik Deutschland – Finanzagentur GmbH sowie durch die Deutsche Bundesbank.
 
 # § 5 – Bundesschuldbuch
 

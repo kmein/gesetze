@@ -343,7 +343,7 @@ Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 1
 
 (2) Die Bundesanstalt stellt für die Postbeamtenversorgungskasse zum Schluss eines jeden Geschäftsjahres eine Haushaltsrechnung nach den Grundsätzen der Bundeshaushaltsordnung sowie eine Vermögensrechnung (Bilanz und Gewinn- und Verlustrechnung nach den für große Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs) auf. Sie sind der Haushaltsrechnung des Bundes als Anhang beizufügen.
 
-(3) Die Präsidentin oder der Präsident stellt für die Postbeamtenversorgungskasse einen Jahresabschluss und einen Lagebericht auf. Die §§ 21 und 22 gelten mit der Maßgabe entsprechend, dass die Entlastung der Präsidentin oder des Präsidenten erst nach der Entlastung der Bundesregierung (Artikel 114 Absatz 1 des Grundgesetzes) erfolgen darf.
+(3) Die Präsidentin oder der Präsident stellt für die Postbeamtenversorgungskasse einen Jahresabschluss und einen Lagebericht auf. § 21 Absatz 1 und 3 und § 22 gelten mit der Maßgabe entsprechend, dass die Entlastung der Präsidentin oder des Präsidenten erst nach der Entlastung der Bundesregierung (Artikel 114 Absatz 1 des Grundgesetzes) erfolgen darf.
 
 # § 11 – Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. V.
 
@@ -467,7 +467,11 @@ Die Einzelheiten regelt die Satzung.
 
 # § 21 – Rechnungslegung
 
-Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr innerhalb der ersten vier Monate des Folgejahres einen Jahresabschluss und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs auf. Der Jahresabschluss bedarf der Genehmigung nach § 7 Absatz 1. Das Publizitätsgesetz ist nicht anzuwenden.
+(1) Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr innerhalb der ersten vier Monate des Folgejahres einen Jahresabschluss und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs auf.
+
+(2) Für Zwecke der Bewertung von Rückstellungen für Altersversorgungsverpflichtungen gegenüber Arbeitnehmerinnen und Arbeitnehmern der Bundesanstalt sowie für Versorgungsaufwendungen und Beihilfen für die Ruhestandsbeamtinnen und Ruhestandsbeamten der Bundesanstalt wird abweichend von § 253 Absatz 2 des Handelsgesetzbuchs ein fester Rechnungszins zugrunde gelegt. Der Vorschlag für den zugrunde zu legenden Rechnungszins wird durch einen von der Bundesanstalt bestellten Aktuar ermittelt. Die Festlegung des Rechnungszinses erfolgt durch die Bundesanstalt. Der Rechnungszins muss die im Bestand befindlichen Vermögenswerte sowie den Ertrag künftiger Vermögenswerte angemessen berücksichtigen. Der Rechnungszins ist im Abstand von vier Jahren zu überprüfen. Führt die Überprüfung zu einer Abweichung des Rechnungszinses von mindestens 40 Basispunkten, ist der Rechnungszins anzupassen. Die Anpassung des Rechnungszinses ist in jährlich gleichmäßigen Schritten so vorzunehmen, dass die Abweichung nach vier Jahren ausgeglichen ist. § 246 Absatz 2 Satz 2 des Handelsgesetzbuchs ist nicht anzuwenden.
+
+(3) Der Jahresabschluss bedarf der Genehmigung nach § 7 Absatz 1. Das Publizitätsgesetz ist nicht anzuwenden.
 
 # § 22 – Prüfung und Entlastung der Präsidentin oder des Präsidenten
 
