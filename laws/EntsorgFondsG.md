@@ -17,6 +17,8 @@
 
 (3) Barmittel sind liquide Mittel.
 
+(4) Verwaltungskosten sind Ausgaben für sächliche Verwaltung, Personal, Baumaßnahmen sowie für den Erwerb beweglicher und unbeweglicher Sachen, soweit sie nicht zu Anlagezwecken erworben werden.
+
 # § 3 – Aufgaben und Organisation des Fonds
 
 (1) Zur Verwirklichung des Zwecks nach § 1 Absatz 2 erstattet der Fonds die dem Bund ab dem Übergang der Entsorgungsverpflichtung nach dem Entsorgungsübergangsgesetz entstehenden Kosten für die sichere Entsorgung der entstandenen und zukünftig noch entstehenden radioaktiven Abfälle aus der gewerblichen Nutzung der Kernenergie zur Erzeugung von Elektrizität in Deutschland und legt die dazu übertragenen Mittel an.
@@ -31,7 +33,7 @@
 
 (3) Die Anzahl der Mitglieder des Deutschen Bundestages ist die kleinstmögliche, bei der jede Fraktion zumindest ein Mitglied benennen kann, die Mehrheitsverhältnisse gewahrt werden und bei der die Zusammensetzung des Plenums widergespiegelt wird.
 
-(4) Die Anzahl der Vertreter des Deutschen Bundestages überschreitet nicht diejenige der Vertreter der Bundesregierung. Die Mitglieder des Kuratoriums werden für die Dauer einer Legislaturperiode von den in Absatz 2 genannten Bundesministerien beziehungsweise von dem Deutschen Bundestag bestellt. Für jedes der Mitglieder ist in gleicher Weise ein Vertreter zu bestellen. Wiederholte Bestellung ist zulässig.
+(4) Die Anzahl der Vertreter des Deutschen Bundestages überschreitet nicht diejenige der Vertreter der Bundesregierung. Die Mitglieder des Kuratoriums werden für die Dauer einer Legislaturperiode von den in Absatz 2 genannten Bundesministerien beziehungsweise von dem Deutschen Bundestag bestellt. Für jedes der Mitglieder ist in gleicher Weise ein Vertreter zu bestellen. Wiederholte Bestellung ist zulässig. Die Mitglieder des Kuratoriums bleiben nach Ablauf der Legislaturperiode des Deutschen Bundestages bis zur Bestellung ihrer Nachfolger im Amt. Bis zur Bestellung der Nachfolger im Amt dürfen grundsätzliche Fragen nur entschieden werden, sofern dies für die Tätigkeit des Fonds unabdingbar ist und die Entscheidung unverzüglich getroffen werden muss.
 
 (5) Das Kuratorium wählt einen Vorsitzenden und einen Stellvertreter. Es beschließt mit der einfachen Mehrheit seiner Mitglieder.
 
@@ -45,7 +47,7 @@
 
 (4) Der Vorstand legt dem Kuratorium auf Grundlage der allgemeinen Marktentwicklung die grundsätzliche Ausrichtung der Anlageentscheidungen zur Entscheidung vor. Der Vorstand schreibt die Anlagepolitik mindestens einmal im Jahr fort.
 
-(5) Die Bundesregierung kann konkrete Anlagevorhaben durch Weisung untersagen. Die Berichtspflichten des Fonds ergeben sich aus den §§ 11 und 12 sowie aus den Vorgaben der Satzung.
+(5) Die Bundesregierung kann konkrete Anlagevorhaben durch Weisung untersagen. Die Berichtspflichten des Fonds ergeben sich aus den §§ 11, 12 und 12a sowie aus den Vorgaben der Satzung.
 
 # § 6 – Satzung
 
@@ -67,7 +69,15 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (2) Hat der Einzahlende den Grundbetrag für ein Kernkraftwerk gemäß Anhang 2 vollständig eingezahlt, nicht aber den vollständigen Risikoaufschlag für dieses Kernkraftwerk, und drohen die dem Fonds zur Verfügung stehenden Mittel innerhalb der jeweils nächsten zehn Jahre nicht auszureichen, um die durch den Fonds nach § 10 zu erstattenden Kosten zu decken, so fordert das Bundesamt für Wirtschaft und Ausfuhrkontrolle von dem Einzahlenden die Einzahlung eines Nachschusses im erforderlichen Umfang. Der erforderliche Umfang ist zu ermitteln, indem die erwartete Unterdeckung des Fonds ins Verhältnis zum prozentualen Anteil des noch nicht eingezahlten Teils des jeweiligen Einzahlenden am gesamten Risikoaufschlag für alle Kernkraftwerke gemäß Anhang 2 gesetzt wird. Satz 1 gilt nicht, wenn der Einzahlende eine wirksame Ratenzahlungsvereinbarung nach § 7 Absatz 4 vereinbart und die erste Rate eingezahlt hat. Ein Nachschuss gemäß Satz 1 kann frühestens erstmals nach dem in § 7 Absatz 2 Satz 1 genannten Zeitpunkt gefordert werden.
 
-(3) Eine Kreditaufnahme des Fonds ist nicht zulässig. Um die Handlungsfähigkeit des Fonds von Beginn an zu gewährleisten, kann der Bund einmalig im Jahr 2017 dem Fonds unterjährig ein verzinsliches Liquiditätsdarlehen gewähren, das in demselben Jahr zurückzuzahlen ist. Weitere Einzahlungen in den Fonds aus dem Bundeshaushalt sind nicht zulässig.
+(3) Eine Kreditaufnahme des Fonds ist nicht zulässig. Einzahlungen in den Fonds aus dem Bundeshaushalt sind nicht zulässig.
+
+(4) Keine Kreditaufnahme des Fonds im Sinne von Absatz 3 stellt die Aufnahme von Krediten durch Dritte wie Zielfonds, Beteiligungsgesellschaften oder Zweckgesellschaften, an welchen der Fonds unmittelbar oder mittelbar beteiligt ist, dar, sofern
+
+1. der Fonds für die Dritten, an denen er beteiligt ist, keine Haftung über die investierten Mittel hinaus übernommen hat,
+
+2. die aufgenommenen Kreditmittel nicht dem Fonds zufließen und
+
+3. der Fonds den Schuldendienst nicht übernimmt.
 
 # § 9 – Anlage der Mittel
 
@@ -89,13 +99,25 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (1) Die Mittel des Fonds dürfen nur zur Erfüllung des Fondszwecks nach § 1 Absatz 2 und nach Maßgabe von § 3 Absatz 1 verwendet werden.
 
-(2) Der Fonds trägt seine Verwaltungskosten selbst. Als Verwaltungskosten gelten insbesondere Personalkosten, Kosten für die Finanz- und Wirtschaftsplanung nach § 11 sowie laufende Kosten des Kuratoriums und des Vorstands.
+(2) Der Fonds trägt seine Verwaltungskosten selbst.
 
 (3) Der Fonds trägt die Kosten, die dem Bundesamt für Wirtschaft und Ausfuhrkontrolle für die Erfüllung seiner Aufgaben nach diesem Gesetz sowie nach dem Gesetz zur Transparenz über die Kosten der Stilllegung und des Rückbaus der Kernkraftwerke sowie der Verpackung radioaktiver Abfälle entstehen.
 
-# § 11 – Finanz- und Wirtschaftsplanung
+# § 11 – Grundsätze der Wirtschaftsführung, Finanz- und Wirtschaftsplanung
 
-(1) Der Fonds erstellt für jedes Kalenderjahr einen Finanz- und Wirtschaftsplan. Der Finanz- und Wirtschaftsplan ist einmalig für die Jahre 2017 und 2018 zusammen zu erstellen. Er umfasst regelmäßig
+(1) Der Fonds ist in seiner Wirtschaftsführung selbständig. Er trifft seine Anlageentscheidungen nach kaufmännischen Grundsätzen.
+
+(2) Der Fonds führt ein kaufmännisches Rechnungswesen nach handelsrechtlichen Grundsätzen.
+
+(3) Es gelten die in § 105 Absatz 1 Nummer 1 und 2 der Bundeshaushaltsordnung genannten Vorschriften entsprechend, soweit dieses Gesetz nichts anderes bestimmt.
+
+(4) Im Hinblick auf die Verwaltungsaufwendungen des Fonds sind die §§ 37, 70 und 79 der Bundeshaushaltsordnung nicht anzuwenden; es gelten stattdessen § 11a Absatz 1, § 9 Absatz 1 und § 12 Absatz 1 und 2.
+
+(5) Für den Vermögensanlagebestand und dessen Wirtschaftsführung finden vorbehaltlich des Absatzes 6 Satz 1 die Vorschriften der Bundeshaushaltsordnung keine Anwendung. Der Vermögensanlagebestand wird in dem nach Absatz 7 Satz 5 erstellten Haushaltsplan mit einer Zuführung und einer Abführung dargestellt. Für die Wirtschaftsführung des Vermögensanlagebestandes gilt § 12 Absatz 1 und 2. Auf Anlageentscheidungen finden die §§ 11b und 11c Anwendung.
+
+(6) Der Fonds erstellt für jedes Kalenderjahr einen Wirtschaftsplan nach § 110 der Bundeshaushaltsordnung. Der Wirtschaftsplan dient der Planung der Deckung des Bedarfs an Finanzmitteln, die zur Erfüllung der Aufgaben des Fonds im jeweiligen Kalenderjahr voraussichtlich notwendig sind. Der Wirtschaftsplan bildet die verbindliche Grundlage für die Wirtschaftsführung des Fonds. Der Wirtschaftsplan ermächtigt den Fonds entsprechend der Ansätze Verpflichtungen einzugehen und Ausgaben zu leisten. Durch den Wirtschaftsplan werden Ansprüche oder Verbindlichkeiten weder begründet noch aufgehoben.
+
+(7) Der Wirtschaftsplan umfasst regelmäßig
 
 1. eine Kurzfristplanung für das jeweils folgende Kalenderjahr,
 
@@ -103,23 +125,65 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 3. eine Langfristplanung für die jeweils folgenden zehn Kalenderjahre.
 
-Der Finanz- und Wirtschaftsplan ist jährlich zu aktualisieren.
+Als Teil des Wirtschaftsplans sind ein Finanzplan und ein Personalplan sowie eine nach handelsrechtlichen Grundsätzen aufzustellende Plan-Gewinn-und-Verlust-Rechnung zu erstellen. Der Entwurf des Wirtschaftsplans ist insbesondere um eine auf der Grundlage der bisherigen und auf der Grundlage der zukünftigen Kosten- und Zinsentwicklung erstellte Kalkulation über die Angemessenheit der Finanzausstattung des Fonds zu ergänzen. Einzelheiten können in der Satzung geregelt werden. Auf Basis des Wirtschaftsplans ist eine Überleitungsrechnung auf einen kameralen Haushaltsplan, gegliedert nach dem Gruppierungsplan des Bundes, zu erstellen.
 
-(2) Für den gesamten absehbaren Anlage- und Finanzierungszeitraum sind Szenarien zu erstellen, die alle drei Jahre zu aktualisieren sind.
+(8) Für den gesamten Anlage- und Finanzierungszeitraum sind Szenarien zu erstellen, die alle drei Jahre zu aktualisieren sind.
 
-(3) Die Planungen nach Absatz 1 und 2 sind durch das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu genehmigen. Sie umfassen insbesondere eine auf der Grundlage der bisherigen und auf der Grundlage der zukünftigen Kosten- und Zinsentwicklung erstellte Kalkulation über die Angemessenheit der Finanzausstattung des Fonds.
+(9) Der Vorstand legt dem Kuratorium jährlich einen Entwurf des Wirtschaftsplans für das nächste Kalenderjahr vor. Der Wirtschaftsplan wird vom Kuratorium spätestens zwei Monate vor Ablauf des laufenden Kalenderjahres beschlossen und dem Bundesministerium für Wirtschaft und Energie umgehend zur Genehmigung vorgelegt. Das Bundesministerium für Wirtschaft und Energie entscheidet bis spätestens vier Wochen vor Ablauf des laufenden Kalenderjahres über die Genehmigung. Die Entscheidung ergeht im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
-(4) Der Bund unterrichtet den Fonds über die geplanten Kostenfolgen der zukünftigen Entsorgungsmaßnahmen so rechtzeitig, dass der Fonds darauf eine Planung der Anlage und zeitgerechten Liquidität der Fondsmittel gründen kann. Drei Monate vor Beginn eines jeden Kalenderjahres teilt der Bund dem Fonds auf der Grundlage der Planung für den Bundeshaushalt die für die nächsten drei Kalenderjahre geplanten Entsorgungsmaßnahmen und die zu erwartenden Kosten mit.
+(10) Hat das Kuratorium bis vier Wochen vor Ablauf des laufenden Kalenderjahres keinen Wirtschaftsplan beschlossen, so kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einen vorläufigen Wirtschaftsplan für das nächste Kalenderjahr beschließen. Erfolgt dieser Beschluss nicht rechtzeitig vor Ablauf des laufenden Kalenderjahres, so ist der Fonds berechtigt, wirksam begründete Verpflichtungen zu erfüllen.
 
-# § 12 – Rechnungslegung
+(11) Der Bund unterrichtet den Fonds über die geplanten Kostenfolgen der zukünftigen Entsorgungsmaßnahmen so rechtzeitig, dass der Fonds darauf eine Planung der Anlage und zeitgerechten Liquidität der Fondsmittel gründen kann. Drei Monate vor Beginn eines jeden Kalenderjahres teilt der Bund dem Fonds auf der Grundlage der Planung für den Bundeshaushalt die Entsorgungsmaßnahmen, die für die nächsten drei Kalenderjahre geplant sind, und die zu erwartenden Kosten mit. Bei unterjährigen Änderungen der Entsorgungskosten im Vergleich zur Vorjahresplanung von mehr als 10 Millionen Euro teilt der Bund dem Fonds soweit möglich mit, ob diese Änderungen den Gesamtrahmen der Kosten erhöhen werden oder ob es sich um zeitliche Verschiebungen handelt. Bei zeitlichen Verschiebungen von Entsorgungskosten teilt der Bund dem Fonds mit, in welche Jahre Kosten voraussichtlich verschoben werden. Dies gilt auch für Verschiebungen mit einem Zeithorizont, der größer als drei Jahre ist.
 
-(1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung des Fonds finden die für die Bundesverwaltung geltenden Bestimmungen entsprechende Anwendung.
+# § 11a – Ausführung und Änderung des Wirtschaftsplans
 
-(2) Der Fonds berichtet dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit regelmäßig über die aktuelle Geschäftsentwicklung und erstellt am Ende eines jeden Kalenderjahres eine Jahresrechnung.
+(1) Verwaltungsaufwendungen müssen durch Ansätze im Wirtschaftsplan gedeckt sein. Verwaltungsaufwendungen, für die die Ansätze im Wirtschaftsplan nicht genügen oder für die keine Ansätze vorhanden sind, bedürfen keiner Einwilligung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit diese unvorhergesehen und unabdingbar für die Tätigkeit des Fonds sind und die Deckungsfähigkeit im Wirtschaftsplan für das Kalenderjahr insgesamt gewährleistet ist.
 
-(3) In der Jahresrechnung sind die Entwicklung der nach § 9 erfolgten Vermögensanlagen, der Bestand des Fonds einschließlich der Forderungen und Verbindlichkeiten sowie die Einnahmen nach § 7 und Ausgaben nach § 10 nachzuweisen. Die Verpflichtungen des Fonds als bundesunmittelbare juristische Person des öffentlichen Rechts nach den §§ 108 und 109 der Bundeshaushaltsordnung bleiben unberührt.
+(2) Der Wirtschaftsplan ist zu ändern, wenn sich die Plan-Gewinn-und-Verlust-Rechnung oder der Finanzplan gegenüber dem ursprünglichen Wirtschaftsplan erheblich verändert. Eine erhebliche Veränderung liegt vor, wenn die Gesamtaufwendungen der Plan-Gewinn-und-Verlust-Rechnung oder die Gesamtausgaben des Finanzplans den jeweiligen Gesamtansatz um mehr als 20 Prozent überschreitet. Für die Änderung des Wirtschaftsplans gilt § 11 Absatz 6 bis 11 entsprechend.
 
-(4) Die Haushalts- und die Wirtschaftsführung des Fonds unterliegen der Prüfung durch den Bundesrechnungshof.
+# § 11b – Veränderungen von Verträgen und Ansprüchen, Vergleiche
+
+(1) Der Fonds darf in Bezug auf den Vermögensanlagebestand
+
+1. Verträge zum Nachteil des Fonds nur in besonders begründeten Ausnahmefällen aufheben oder ändern,
+
+2. einen Vergleich nur abschließen, wenn dies für den Fonds zweckmäßig und wirtschaftlich ist.
+
+(2) Der Fonds darf in Bezug auf den Vermögensanlagebestand Ansprüche nur
+
+1. stunden, wenn die sofortige Einziehung unwirtschaftlich wäre und der Anspruch durch die Stundung nicht gefährdet wird. Die Stundung soll gegen angemessene Verzinsung und in der Regel nur gegen Sicherheitsleistung gewährt werden;
+
+2. niederschlagen, wenn feststeht, dass die Einziehung keinen Erfolg haben wird oder wenn die Kosten der Einziehung außer Verhältnis zur Höhe des Anspruchs stehen;
+
+3. erlassen, wenn die Einziehung nach Lage des Einzelfalls unwirtschaftlich oder unzweckmäßig wäre. Das Gleiche gilt für die Freigabe von Sicherheiten.
+
+(3) Maßnahmen nach den Absätzen 1 und 2 bedürfen der vorherigen Zustimmung des Beauftragten für den Haushalt und eines Vorstandsbeschlusses sowie bei Überschreitung in der Satzung festzulegender Gegenstandswerte der Zustimmung des Kuratoriums, soweit dieses nicht auf seine Mitwirkungsbefugnis verzichtet. Näheres regelt die Satzung.
+
+# § 11c – Erwerb und Veräußerung von Vermögensgegenständen zu Anlagezwecken
+
+(1) Vermögensgegenstände dürfen zu Anlagezwecken nur erworben werden, soweit der Erwerb aufgrund der gemäß § 9 Absatz 2 Satz 1 dieses Gesetzes erlassenen Anlagerichtlinien des Fonds zulässig ist. Vermögensgegenstände dürfen nur zu Marktpreisen erworben und veräußert werden.
+
+(2) Dingliche Rechte an Grundstücken dürfen nur gegen angemessenes Entgelt bestellt werden. Beim Erwerb von Grundstücken können Hypotheken, Grund- und Rentenschulden unter Anrechnung auf den Kaufpreis ohne besondere Grundlage im Wirtschaftsplan übernommen werden.
+
+# § 12 – Buchführung, Rechnungslegung und Abschlussprüfung
+
+(1) Auf die Führung der Bücher des Fonds und die Pflichten zur Aufbewahrung findet der Erste und Dritte Unterabschnitt des Ersten Abschnitts des Dritten Buchs des Handelsgesetzbuchs in der jeweils geltenden Fassung entsprechende Anwendung.
+
+(2) Der Vorstand des Fonds hat einen Jahresabschluss und einen Lagebericht in entsprechender Anwendung des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs in der jeweils geltenden Fassung aufzustellen. Von größenabhängigen Erleichterungen darf kein Gebrauch gemacht werden. Der Lagebericht ist um eine Darstellung der Entwicklung der nach § 9 erfolgten Vermögensanlagen, des Bestands des Fonds einschließlich der Forderungen und Verbindlichkeiten sowie der Einnahmen nach § 7 und Ausgaben nach § 10 zu ergänzen. Daneben erstellt der Fonds eine Überleitungsrechnung entsprechend § 11 Absatz 7 Satz 5.
+
+(3) Der Jahresabschluss und der Lagebericht sind durch einen Abschlussprüfer in entsprechender Anwendung des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs zu prüfen, soweit nicht im Folgenden Abweichendes bestimmt ist. Das Kuratorium wählt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesrechnungshof den Abschlussprüfer und erteilt den Prüfauftrag. Die Prüfungsrechte des Bundesrechnungshofes bleiben unberührt.
+
+(4) Der Jahresabschluss ist vom Kuratorium festzustellen.
+
+(5) Der Jahresabschluss, der Lagebericht und der Prüfungsbericht sind dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unverzüglich vorzulegen; das Bundesministerium für Wirtschaft und Energie hat dem Bundesrechnungshof den Jahresabschluss, den Lagebericht und den Prüfungsbericht vorzulegen.
+
+# § 12a – Entlastung des Vorstands; sonstige Pflichten
+
+(1) Die Entlastung des Vorstands erteilt das Kuratorium. Die Entlastung bedarf der Genehmigung des Bundesministeriums für Wirtschaft und Energie. Die Entscheidung über die Genehmigung ergeht im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
+
+(2) Der Fonds berichtet dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz, und nukleare Sicherheit regelmäßig, mindestens vierteljährlich, über die aktuelle Geschäftsentwicklung.
+
+(3) Die Haushalts- und Wirtschaftsführung des Fonds unterliegt der Prüfung durch den Bundesrechnungshof gemäß § 111 der Bundeshaushaltsordnung.
 
 # § 13 – Aufsicht
 

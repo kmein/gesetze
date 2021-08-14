@@ -57,6 +57,10 @@ Grundlage für die Feststellung nach Satz 1 Nummer 1 sind die aufgrund von § 74
 
 (2) Der Dritte nach § 2 Absatz 1 Satz 1 erstellt nach Ende des Haushaltsjahres eine Jahresrechnung über die Einnahmen und Ausgaben. Er lässt die Jahresrechnung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft prüfen. Er übermittelt die Jahresrechnung und das Prüfungsergebnis jeweils zeitnah dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit prüft die Jahresrechnung und setzt den vom Fonds zu erstattenden Betrag durch Bescheid fest.
 
+# § 5 – Zahlungen für entsorgungskostenreduzierende Maßnahmen
+
+Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie den Fonds nach dem Entsorgungsfondsgesetz durch Bescheid verpflichten, Zahlungen für Kosten von Maßnahmen zu leisten, die dazu dienen, die Kosten für die sichere Entsorgung radioaktiver Abfälle nach § 2 Absatz 2 des Entsorgungsfondsgesetzes nicht nur unerheblich zu reduzieren. In dem Bescheid sind insbesondere der Zahlungsbetrag, die Zahlungsmodalitäten und der Zahlungsempfänger festzusetzen.
+
 # Anhang
 
 (Fundstelle: BGBl. I 2017, 123 - 124)
