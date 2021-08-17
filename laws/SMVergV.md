@@ -40,10 +40,10 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
 |     |                                        |             |
 |:----|:---------------------------------------|------------:|
-| 1\. | in den Besoldungsgruppen A 3 und A 4   | 13,45 Euro, |
-| 2\. | in den Besoldungsgruppen A 5 bis A 8   | 15,89 Euro, |
-| 3\. | in den Besoldungsgruppen A 9 bis A 12  | 21,83 Euro, |
-| 4\. | in den Besoldungsgruppen A 13 bis A 16 | 30,05 Euro. |
+| 1\. | in den Besoldungsgruppen A 3 und A 4   | 13,61 Euro, |
+| 2\. | in den Besoldungsgruppen A 5 bis A 8   | 16,08 Euro, |
+| 3\. | in den Besoldungsgruppen A 9 bis A 12  | 22,09 Euro, |
+| 4\. | in den Besoldungsgruppen A 13 bis A 16 | 30,41 Euro. |
 
 # § 4 – Höhe des Anspruchs bei Teilzeitbeschäftigung
 

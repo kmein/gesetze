@@ -4134,9 +4134,6 @@ Die Informationspflichten nach den Artikeln 246 und 246a des Einführungsgesetze
 
 (7) Stromlieferverträge dürfen keine vertraglichen Regelungen enthalten, die dem Letztverbraucher den Erwerb oder die Veräußerung von Stromdienstleistungen, die nicht Vertragsgegenstand sind, von einem anderen oder an ein anderes Elektrizitätsversorgungsunternehmen untersagen. Stromdienstleistungen nach Satz 1 umfassen auch vertragliche Vereinbarungen über eine Aggregierung. Letztverbraucher sind verpflichtet, ihren Stromlieferanten den Abschluss einer vertraglichen Vereinbarung mit einem Dritten über eine Aggregierung unverzüglich mitzuteilen.
 
-(+++ § 41 Abs. 1 bis 3: Zur Anwendung vgl. § 10 Abs. 1 MessbG +++)  
-§ 41 Abs. 5 Satz 1 Kursivdruck: IdF d. Art. 311 Nr. 5 V v. 31.8.2015 I 1474 mWv 8.9.2015 (aufgrund von offensichtlicher Unrichtigkeit wurden an Stelle der Wörter "Justiz und für Verbraucherschutz" die Wörter "Ernährung Landwirtschaft und Verbraucherschutz" ersetzt durch "der Justiz und für Verbraucherschutz")
-
 # § 41a – Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife
 
 (1) Stromlieferanten haben, soweit technisch machbar und wirtschaftlich zumutbar, für Letztverbraucher von Elektrizität einen Tarif anzubieten, der einen Anreiz zu Energieeinsparung oder Steuerung des Energieverbrauchs setzt. Tarife im Sinne von Satz 1 sind insbesondere lastvariable oder tageszeitabhängige Tarife. Stromlieferanten haben daneben für Haushaltskunden mindestens einen Tarif anzubieten, für den die Datenaufzeichnung und -übermittlung auf die Mitteilung der innerhalb eines bestimmten Zeitraums verbrauchten Gesamtstrommenge begrenzt bleibt.
@@ -5140,8 +5137,7 @@ Zusätzlich zu den Berichten nach Satz 1 veröffentlicht das Bundesministerium f
 (6) Die Bundesnetzagentur kann gegenüber Personen, die gegen Vorschriften der Verordnung (EU) Nr. 1227/2011 verstoßen, sämtliche Maßnahmen nach den Absätzen 1 bis 3 ergreifen, soweit sie zur Durchsetzung der Vorschriften der Verordnung (EU) Nr. 1227/2011 erforderlich sind.
 
 (+++ § 65: Zur Anwendung vgl. § 78 Abs. 1 WindSeeG, § 76 Abs. 4 MessbG u. § 61 Abs. 3 Satz 1 KVBG +++)  
-(+++ § 65 Abs. 2a: Zur Anwendung vgl. § 17d Abs. 8 +++)  
-§ 65 Abs. 2a Satz 1 Kursivdruck: Das Wort "ihn" müsste richtig "ihm" lauten
+(+++ § 65 Abs. 2a: Zur Anwendung vgl. § 17d Abs. 8 +++)
 
 # § 66 – Einleitung des Verfahrens, Beteiligte
 

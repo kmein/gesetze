@@ -10197,7 +10197,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (6) Die für die Aufgaben nach dem Zehnten und diesem Kapitel beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind diesem durch die Gesellschaft für Telematik pauschal in Höhe der Kosten für zehn Vollzeitäquivalente zu erstatten. Zusätzlich werden die Kosten des Bundesamts für Sicherheit in der Informationstechnik für erforderliche Unterstützungsleistungen Dritter durch die Gesellschaft für Telematik in Höhe der tatsächlich anfallenden Kosten erstattet. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung für Unterstützungsleistungen nach Satz 2 im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
-(+++ Elftes Kapitel (§§ 306 bis 383): Eingef. durch Art. 1 Nr. 31 G v. 14.10.2020 I 2115 mWv 20.10.2020 (§ 331 doppelt) +++)
+(+++ Elftes Kapitel (§§ 306 bis 383): Eingef. durch Art. 1 Nr. 31 G v. 14.10.2020 I 2115 mWv 20.10.2020 +++)
 
 # § 332 – Anforderungen an die Wartung von Diensten
 

@@ -719,6 +719,8 @@ Die Bundesanstalt kann Anordnungen nach Satz 2 Nummer 1 und 2 auch gegenüber ei
 
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1 und Artikel 42 der Verordnung (EU) Nr. 600/2014 haben keine aufschiebende Wirkung.
 
+(3) Bei der Durchführung von Prüfungen nach Artikel 42 der Verordnung (EU) Nr. 600/2014 und nach Absatz 1 hinsichtlich des Vorliegens der Voraussetzungen für eine Produktinterventionsmaßnahme, kann sich die Bundesanstalt externer Wirtschaftsprüfer und anderer sachverständiger Personen und Einrichtungen bedienen.
+
 # § 16 – Wertpapierrat
 
 (1) Bei der Bundesanstalt wird ein Wertpapierrat gebildet. Er besteht aus Vertretern der Länder. Die Mitgliedschaft ist nicht personengebunden. Jedes Land entsendet einen Vertreter. An den Sitzungen können Vertreter der Bundesministerien der Finanzen, der Justiz und für Verbraucherschutz und für Wirtschaft und Energie sowie der Deutschen Bundesbank teilnehmen. Der Wertpapierrat kann Sachverständige insbesondere aus dem Bereich der Börsen, der Marktteilnehmer, der Wirtschaft und der Wissenschaft anhören. Der Wertpapierrat gibt sich eine Geschäftsordnung.

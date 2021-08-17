@@ -227,21 +227,23 @@ Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese unter Ber�
 
 (1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen wirtschaftlichen und finanziellen Verhältnisse und unter Berücksichtigung der mit den Dienstaufgaben verbundenen Verantwortung durch Gesetz regelmäßig angepasst.
 
-(2) Ab 1. März 2020 gelten unter Berücksichtigung einer Erhöhung
+(2) Ab dem 1. April 2021 gelten unter Berücksichtigung einer Erhöhung
 
-1. des Grundgehaltes,
+1. des Grundgehalts,
 
-2. des Familienzuschlages mit Ausnahme der Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5,
+2. des Familienzuschlags mit Ausnahme der Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5,
 
-3. der Amtszulagen
+3. der Amtszulagen und
 
-um jeweils 1,06 Prozent die Monatsbeträge der Anlagen IV, V und IX dieses Gesetzes.
+4. der Anwärtergrundbeträge
 
-(3) Ab 1. März 2020 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
+um jeweils 1,2 Prozent die Monatsbeträge der Anlagen IV, V, VIII und IX dieses Gesetzes. Satz 1 Nummer 1 gilt nicht für die Besoldungsgruppen B 11 und R 10.
 
-1. der Ober- und Untergrenzen der Grundgehaltsspannen um 1,06 Prozent und
+(3) Ab 1. April 2021 gelten für den Auslandszuschlag unter Berücksichtigung einer Erhöhung
 
-2. der Monatsbeträge der Zonenstufen um 0,85 Prozent
+1. der Ober- und Untergrenzen der Grundgehaltsspannen um 1,2 Prozent und
+
+2. der Monatsbeträge der Zonenstufen um 0,96 Prozent
 
 die Monatsbeträge der Anlage VI.
 
@@ -908,7 +910,7 @@ diese Kinder sind auch beim Familienzuschlag zu berücksichtigen,
 
 (5) Begründet eine berücksichtigungsfähige Person im Sinne des Absatzes 4 Nummer 1 oder 3 erst später einen Wohnsitz am ausländischen Dienstort oder gibt sie ihn vorzeitig auf, werden ab dem Eintreffen rückwirkend bis zum Beginn der Verwendung des Beamten, Richters oder Soldaten oder ab dem Auszug aus der gemeinsamen Wohnung bis zum Ende der Verwendung 70 Prozent des für diese Person geltenden Satzes gewährt, längstens jedoch für sechs Monate. Stirbt eine im ausländischen Haushalt lebende berücksichtigungsfähige Person, wird sie beim Auslandszuschlag bis zum Ende der Verwendung weiter berücksichtigt, längstens jedoch für zwölf Monate.
 
-(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts, höchstens jedoch um bis zu 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt.
+(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts zuzüglich Amtszulagen, höchstens jedoch um 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt.
 
 (7) Das Auswärtige Amt regelt die Einzelheiten des Auslandszuschlags einschließlich dessen Erhöhung nach Absatz 6 Satz 3 sowie die Zuteilung der Dienstorte zu den Stufen des Auslandszuschlags durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium der Verteidigung.
 
@@ -1164,7 +1166,7 @@ Das Nähere regelt das Bundesministerium des Innern, für Bau und Heimat in Anle
 
 (2) Allgemeine Verwaltungsvorschriften erlässt das Bundesministerium des Innern, für Bau und Heimat, wenn gesetzlich nichts anderes bestimmt ist. Soweit die Besoldung der Richter und Staatsanwälte berührt ist, erlässt sie das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Soweit die Besoldung der Soldaten berührt ist, erlässt sie das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Verteidigung.
 
-# § 72 – Übergangsregelungen zu den §§ 6, 43, 43b und 44
+# § 72 – Übergangsregelung zu den §§ 6, 43, 43b, 44 und 63
 
 (1) § 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist weiterhin anzuwenden, wenn der Beamte, Richter oder Soldat
 
@@ -1179,6 +1181,8 @@ Stellenzulagen im Sinne von § 6 Absatz 1a Satz 1 Nummer 3, die erstmals ab dem 
 (3) § 43b Absatz 4 in der bis zum 31. Dezember 2019 geltenden Fassung ist bei Soldaten, die eine Verpflichtungsprämie nach § 43b bis zum 31. Dezember 2019 erhalten haben, weiterhin anzuwenden.
 
 (4) § 44 Absatz 5 und 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Personalbindungszuschläge, die nach § 44 bis zum 31. Dezember 2019 gewährt wurden, weiterhin anzuwenden.
+
+(5) § 63 Absatz 2 und 3 in der bis zum 31. Dezember 2019 geltenden Fassung ist auf Anwärtersonderzuschläge, die nach § 63 in der bis zum 31. Dezember 2019 geltenden Fassung gewährt wurden, weiterhin anzuwenden.
 
 # § 73 – Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
@@ -2701,9 +2705,9 @@ Präsident des Bundessozialgerichts
 
 Präsident des Bundesverwaltungsgerichts
 
-# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. März 2020
+# Anlage IV – (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2) Gültig ab 1. April 2021
 
-(Fundstelle: BGBl. I 2019, 2093 - 2094)
+(Fundstelle: BGBl. I 2021, 2449 - 2450)
 
 1\. Bundesbesoldungsordnung A
 
@@ -2732,257 +2736,258 @@ Stufe 8
 
 A 3 
 
-2 301,21
+2 328,82
 
-2 353,13
+2 381,37
 
-2 405,07
+2 433,93
 
-2 446,88
+2 476,24
 
-2 488,68
+2 518,54
 
-2 530,48
+2 560,85
 
-2 572,30
+2 603,17
 
-2 614,10
+2 645,47
 
 A 4 
 
-2 349,36
+2 377,55
 
-2 411,41
+2 440,35
 
-2 473,48
+2 503,16
 
-2 522,89
+2 553,16
 
-2 572,30
+2 603,17
 
-2 621,71
+2 653,17
 
-2 671,10
+2 703,15
 
-2 716,73
+2 749,33
 
 A 5 
 
-2 367,07
+2 395,47
 
-2 444,34
+2 473,67
 
-2 506,40
+2 536,48
 
-2 567,24
+2 598,05
 
-2 628,06
+2 659,60
 
-2 690,14
+2 722,42
 
-2 750,92
+2 783,93
 
-2 810,47
+2 844,20
 
 A 6 
 
-2 417,74
+2 446,75
 
-2 507,71
+2 537,80
 
-2 598,89
+2 630,08
 
-2 668,57
+2 700,59
 
-2 740,79
+2 773,68
 
-2 810,47
+2 844,20
 
-2 887,74
+2 922,39
 
-2 954,88
+2 990,34
 
 A 7 
 
-2 538,10
+2 568,56
 
-2 617,92
+2 649,34
 
-2 723,09
+2 755,77
 
-2 830,73
+2 864,70
 
-2 935,88
+2 971,11
 
-3 042,30
+3 078,81
 
-3 122,12
+3 159,59
 
-3 201,92
+3 240,34
 
 A 8 
 
-2 685,05
+2 717,27
 
-2 781,34
+2 814,72
 
-2 916,87
+2 951,87
 
-3 053,72
+3 090,36
 
-3 190,51
+3 228,80
 
-3 285,53
+3 324,96
 
-3 381,81
+3 422,39
 
-3 476,83
+3 518,55
 
 A 9 
 
-2 897,87
+2 932,64
 
-2 992,89
+3 028,80
 
-3 142,39
+3 180,10
 
-3 294,40
+3 333,93
 
-3 443,86
+3 485,19
 
-3 545,48
+3 588,03
 
-3 651,19
+3 695,00
 
-3 754,27
+3 799,32
 
 A 10
 
-3 101,83
+3 139,05
 
-3 232,31
+3 271,10
 
-3 421,09
+3 462,14
 
-3 610,70
+3 654,03
 
-3 803,84
+3 849,49
 
-3 938,26
+3 985,52
 
-4 072,64
+4 121,51
 
-4 207,09
+4 257,58
 
 A 11
 
-3 545,48
+3 588,03
 
-3 745,12
+3 790,06
 
-3 943,47
+3 990,79
 
-4 143,12
+4 192,84
 
-4 280,13
+4 331,49
 
-4 417,15
+4 470,16
 
-4 554,17
+4 608,82
 
-4 691,22
+4 747,51
 
 A 12
 
-3 801,25
+3 846,87
 
-4 037,44
+4 085,89
 
-4 274,93
+4 326,23
 
-4 511,11
+4 565,24
 
-4 675,53
+4 731,64
 
-4 837,33
+4 895,38
 
-5 000,45
+5 060,46
 
-5 166,19
+5 228,18
 
 A 13
 
-4 457,62
+4 511,11
 
-4 679,45
+4 735,60
 
-4 899,96
+4 958,76
 
-5 121,81
+5 183,27
 
-5 274,49
+5 337,78
 
-5 428,48
+5 493,62
 
-5 581,13
+5 648,10
 
-5 731,19
+5 799,96
 
 A 14
 
-4 584,18
+4 639,19
 
-4 869,95
+4 928,39
 
-5 157,05
+5 218,93
 
-5 442,81
+5 508,12
 
-5 639,84
+5 707,52
 
-5 838,22
+5 908,28
 
-6 035,24
+6 107,66
 
-6 233,61
+6 308,41
 
 A 15
 
-5 603,31
+5 670,55
 
-5 861,70
+5 932,04
 
-6 058,73
+6 131,43
 
-6 255,79
+6 330,86
 
-6 452,84
+6 530,27
 
-6 648,57
+6 728,35
 
-6 844,31
+6 926,44
 
-7 038,72
+7 123,18
 
 A 16
 
-6 181,40
+6 255,58
 
-6 481,55
+6 559,33
 
-6 708,59
+6 789,09
 
-6 935,65
+7 018,88
 
-7 161,40
+7 247,34
 
-7 389,78
+7 478,46
 
-7 616,82
+7 708,22
 
-7 841,28
+7 935,38
 
-Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10  
+Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
+
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6
 
 –  
@@ -2991,7 +2996,7 @@ für Beamte des mittleren Dienstes sowie
 –  
 für Soldaten in der Laufbahngruppe der Unteroffiziere sowie für Fahnenjunker und Seekadetten
 
-um 23,19 Euro.
+um 23,47 Euro.
 
 Es erhöht sich in den Besoldungsgruppen A 9 und A 10
 
@@ -3001,18 +3006,20 @@ für Beamte des gehobenen Dienstes sowie
 –  
 für Offiziere
 
-um 10,12 Euro.
+um 10,24 Euro.
 
 Beträge für die weggefallene Besoldungsgruppe A 2
 
 Die Beträge für die weggefallene Besoldungsgruppe A 2 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
 
-2\. Bundesbesoldungsordnung B
+2\. Bundesbesoldungsordnung B  
+  
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Besoldungsgruppe</th><th style="text-align: center;">Grundgehalt<br />
-(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 038,72</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 8 176,63</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 8 658,13</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;"> 9 161,83</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;"> 9 739,93</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">10 289,32</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">10 819,10</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">11 373,67</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">12 061,37</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">14 197,53</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">14 808,25</td></tr></tbody></table>
+(Monatsbetrag in Euro)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B 1 </td><td style="text-align: center;"> 7 123,18</td></tr><tr class="even"><td style="text-align: center;">B 2 </td><td style="text-align: center;"> 8 274,75</td></tr><tr class="odd"><td style="text-align: center;">B 3 </td><td style="text-align: center;"> 8 762,03</td></tr><tr class="even"><td style="text-align: center;">B 4 </td><td style="text-align: center;"> 9 271,77</td></tr><tr class="odd"><td style="text-align: center;">B 5 </td><td style="text-align: center;"> 9 856,81</td></tr><tr class="even"><td style="text-align: center;">B 6 </td><td style="text-align: center;">10 412,79</td></tr><tr class="odd"><td style="text-align: center;">B 7 </td><td style="text-align: center;">10 948,93</td></tr><tr class="even"><td style="text-align: center;">B 8 </td><td style="text-align: center;">11 510,15</td></tr><tr class="odd"><td style="text-align: center;">B 9 </td><td style="text-align: center;">12 206,11</td></tr><tr class="even"><td style="text-align: center;">B 10</td><td style="text-align: center;">14 367,90</td></tr><tr class="odd"><td style="text-align: center;">B 11</td><td style="text-align: center;">14 808,25</td></tr></tbody></table>
 
-3\. Bundesbesoldungsordnung W
+3\. Bundesbesoldungsordnung W  
+  
 
 Besoldungsgruppe
 
@@ -3021,7 +3028,7 @@ Grundgehalt
 
 W 1
 
-4 898,68
+4 957,46
 
  
 
@@ -3033,23 +3040,26 @@ Stufe 3
 
 W 2
 
-6 085,88
+6 158,91
 
-6 443,88
+6 521,21
 
-6 801,88
+6 883,50
 
 W 3
 
-6 801,88
+6 883,50
 
-7 279,20
+7 366,55
 
-7 756,53
+7 849,61
 
-4\. Bundesbesoldungsordnung R
+4\. Bundesbesoldungsordnung R  
+  
 
-Besoldungsgruppe
+Besol-  
+dungs-  
+gruppe
 
 Grundgehalt  
 (Monatsbetrag in Euro)
@@ -3072,30 +3082,30 @@ Stufe 8
 
 R 2 
 
- 5 416,70
+ 5 481,70
 
- 5 694,68
+5 763,02
 
- 5 971,33
+6 042,99
 
- 6 349,75
+6 425,95
 
- 6 730,76
+6 811,53
 
- 7 110,51
+7 195,84
 
- 7 491,56
+7 581,46
 
- 7 872,60
+7 967,07
 
 |      |           |
 |:----:|:---------:|
-| R 3  |  8 658,13 |
-| R 5  |  9 739,93 |
-| R 6  | 10 289,32 |
-| R 7  | 10 819,10 |
-| R 8  | 11 373,67 |
-| R 9  | 12 061,37 |
+| R 3  |  8 762,03 |
+| R 5  |  9 856,81 |
+| R 6  | 10 412,79 |
+| R 7  | 10 948,93 |
+| R 8  | 11 510,15 |
+| R 9  | 12 206,11 |
 | R 10 | 14 808,25 |
 
 Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
@@ -3104,39 +3114,878 @@ Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bund
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++)
 
-# Anlage V – (zu § 39 Absatz 1 Satz 1) Gültig ab 1. März 2020
+# Anlage V – (zu § 39 Absatz 1 Satz 1) Gültig ab 1. April 2021
 
-(Fundstelle: BGBl. I 2019, 2095)
+(Fundstelle: BGBl. I 2021, 2451)
 
-Der Familienzuschlag der Stufe 2 erhöht sich für das zweite zu berücksichtigende Kind um 127,66 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 397,74 Euro.
+Der Familienzuschlag erhöht sich
 
-Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5  
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 3 bis A 5 um 5,37 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
-– in der Besoldungsgruppe A 3 um 26,84 Euro,  
-– in der Besoldungsgruppe A 4 um 21,47 Euro und  
-– in der Besoldungsgruppe A 5 um 16,10 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+–  
+für das zweite zu berücksichtigende Kind um 129,19 Euro,
+
+–  
+für jedes weitere zu berücksichtigende Kind um 402,51 Euro.
+
+Erhöhungsbeträge für die Besoldungsgruppen A 3 bis A 5 und für Anwärter des einfachen Dienstes
+
+Für die Besoldungsgruppen A 3 bis A 5 und für Anwärter des einfachen Dienstes erhöht sich der Familienzuschlag wie folgt:
+
+1\.
+
+für das erste zu berücksichtigende Kind für die Besoldungsgruppen A 3 bis A 5 und für Anwärter des einfachen Dienstes um
+
+  
+5,37 Euro,
+
+2\.
+
+für jedes weitere zu berücksichtigende Kind
+
+ 
+
+ 
+
+–
+
+in der Besoldungsgruppe A 3 und für Anwärter des einfachen Dienstes um
+
+26,84 Euro,
+
+ 
+
+–
+
+in der Besoldungsgruppe A 4 um
+
+21,47 Euro,
+
+ 
+
+–
+
+in der Besoldungsgruppe A 5 um
+
+16,10 Euro.
+
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
 |                                   |             |
 |:----------------------------------|------------:|
-| – Besoldungsgruppen A 3 bis A 8:  | 125,82 Euro |
-| – Besoldungsgruppen A 9 bis A 12: | 133,56 Euro |
+| – Besoldungsgruppen A 3 bis A 8:  | 127,33 Euro |
+| – Besoldungsgruppen A 9 bis A 12: | 135,16 Euro |
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++)
 
-# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. März 2020
+# Anlage VI – (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4) Gültig ab 1. April 2021
 
-(Fundstelle: BGBl. I 2018, 1836)
+(Fundstelle: BGBl. I 2021, 2452)
 
-VI.1 (Monatsbetrag in Euro)VI.2
+VI.1 (Monatsbetrag in Euro)
 
-VI\. 2
+Grund-  
+gehalts-  
+spanne
 
-# Anlage VIII – (zu § 61)Gültig ab 1. August 2020
+1
 
-(Fundstelle: BGBl. I 2020, 2666)
+2
 
-# Anlage IX – (zu den Anlagen I und III) Gültig ab 1. März 2020
+3
 
-(Fundstelle: BGBl. I 2019, 2097 - 2100)
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+ 
+
+2 403,86
+
+2 707,84
+
+3 053,20
+
+3 445,60
+
+3 900,87
+
+4 422,69
+
+5 015,63
+
+5 689,29
+
+6 454,74
+
+7 324,49
+
+8 312,70
+
+ 9 435,48
+
+10 711,26
+
+ 
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+bis
+
+ab
+
+2 403,85
+
+2 707,83
+
+3 053,19
+
+3 445,59
+
+3 900,86
+
+4 422,68
+
+5 015,62
+
+5 689,28
+
+6 454,73
+
+7 324,48
+
+8 312,69
+
+9 435,47
+
+10 711,25
+
+12 160,83
+
+12 160,84
+
+Zonenstufe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 1
+
+  806,60
+
+  874,01
+
+  946,34
+
+1 027,24
+
+1 114,29
+
+1 211,11
+
+1 316,51
+
+1 432,99
+
+1 561,71
+
+1 705,12
+
+1 862,03
+
+1 928,22
+
+1 998,08
+
+2 072,87
+
+2 152,56
+
+ 2
+
+  897,28
+
+  969,61
+
+1 048,09
+
+1 133,89
+
+1 228,29
+
+1 332,49
+
+1 445,26
+
+1 570,30
+
+1 707,60
+
+1 859,55
+
+2 026,28
+
+2 102,28
+
+2 183,20
+
+2 269,00
+
+2 360,93
+
+ 3
+
+  986,79
+
+1 065,25
+
+1 149,81
+
+1 241,76
+
+1 343,52
+
+1 453,83
+
+1 575,20
+
+1 707,60
+
+1 853,45
+
+2 014,02
+
+2 189,35
+
+2 276,37
+
+2 368,30
+
+2 466,36
+
+2 569,32
+
+ 4
+
+1 076,26
+
+1 160,86
+
+1 251,58
+
+1 349,65
+
+1 457,49
+
+1 575,20
+
+1 703,89
+
+1 844,85
+
+1 999,32
+
+2 168,48
+
+2 353,57
+
+2 450,43
+
+2 553,41
+
+2 662,50
+
+2 777,70
+
+ 5
+
+1 167,00
+
+1 256,49
+
+1 353,33
+
+1 457,49
+
+1 571,51
+
+1 696,54
+
+1 832,61
+
+1 980,94
+
+2 143,97
+
+2 322,94
+
+2 517,84
+
+2 624,51
+
+2 738,50
+
+2 858,63
+
+2 987,32
+
+ 6
+
+1 256,49
+
+1 352,12
+
+1 453,83
+
+1 565,39
+
+1 686,74
+
+1 817,91
+
+1 961,32
+
+2 118,22
+
+2 289,85
+
+2 477,38
+
+2 682,10
+
+2 798,55
+
+2 923,62
+
+3 054,78
+
+3 195,75
+
+ 7
+
+1 347,19
+
+1 447,71
+
+1 555,58
+
+1 673,23
+
+1 800,75
+
+1 939,26
+
+2 091,26
+
+2 255,52
+
+2 435,71
+
+2 631,84
+
+2 846,37
+
+2 973,86
+
+3 108,69
+
+3 252,12
+
+3 404,12
+
+ 8
+
+1 436,66
+
+1 543,33
+
+1 657,34
+
+1 781,16
+
+1 914,73
+
+2 060,60
+
+2 220,00
+
+2 392,82
+
+2 580,36
+
+2 786,29
+
+3 010,63
+
+3 147,92
+
+3 293,79
+
+3 448,26
+
+3 612,50
+
+ 9
+
+1 527,35
+
+1 638,94
+
+1 759,05
+
+1 888,99
+
+2 029,98
+
+2 183,20
+
+2 348,68
+
+2 530,11
+
+2 726,21
+
+2 940,76
+
+3 174,87
+
+3 321,98
+
+3 478,89
+
+3 644,36
+
+3 820,90
+
+10
+
+1 616,85
+
+1 734,54
+
+1 860,79
+
+1 996,86
+
+2 143,97
+
+2 304,56
+
+2 477,38
+
+2 666,18
+
+2 872,09
+
+3 095,23
+
+3 337,93
+
+3 496,06
+
+3 662,77
+
+3 840,51
+
+4 029,29
+
+11
+
+1 706,38
+
+1 830,15
+
+1 961,32
+
+2 104,74
+
+2 259,19
+
+2 425,90
+
+2 607,34
+
+2 803,48
+
+3 016,77
+
+3 249,65
+
+3 502,20
+
+3 670,14
+
+3 847,85
+
+4 037,88
+
+4 238,92
+
+12
+
+1 797,06
+
+1 925,75
+
+2 063,09
+
+2 212,61
+
+2 373,18
+
+2 547,27
+
+2 736,04
+
+2 940,76
+
+3 162,62
+
+3 404,12
+
+3 666,45
+
+3 844,18
+
+4 032,95
+
+4 234,01
+
+4 447,30
+
+13
+
+1 886,56
+
+2 021,37
+
+2 164,78
+
+2 319,27
+
+2 487,20
+
+2 668,63
+
+2 864,78
+
+3 078,06
+
+3 308,51
+
+3 558,58
+
+3 830,69
+
+4 018,27
+
+4 218,07
+
+4 430,11
+
+4 655,71
+
+14
+
+1 977,26
+
+2 116,99
+
+2 266,55
+
+2 427,13
+
+2 602,43
+
+2 789,97
+
+2 993,46
+
+3 214,10
+
+3 453,17
+
+3 713,04
+
+3 994,97
+
+4 192,32
+
+4 403,17
+
+4 626,27
+
+4 864,07
+
+15
+
+2 066,74
+
+2 212,61
+
+2 367,09
+
+2 534,99
+
+2 716,43
+
+2 911,34
+
+3 123,40
+
+3 351,42
+
+3 599,04
+
+3 867,51
+
+4 159,23
+
+4 367,62
+
+4 588,24
+
+4 823,65
+
+5 072,46
+
+16
+
+2 156,22
+
+2 308,24
+
+2 468,80
+
+2 642,88
+
+2 830,43
+
+3 033,93
+
+3 252,12
+
+3 488,68
+
+3 744,88
+
+4 021,93
+
+4 322,27
+
+4 541,67
+
+4 773,37
+
+5 019,75
+
+5 280,87
+
+17
+
+2 246,94
+
+2 403,84
+
+2 570,55
+
+2 750,74
+
+2 945,66
+
+3 155,27
+
+3 380,83
+
+3 625,98
+
+3 890,78
+
+4 176,39
+
+4 486,52
+
+4 715,76
+
+4 958,45
+
+5 215,89
+
+5 490,48
+
+18
+
+2 336,44
+
+2 498,22
+
+2 672,29
+
+2 858,63
+
+3 059,65
+
+3 276,63
+
+3 510,76
+
+3 763,28
+
+4 035,42
+
+4 330,83
+
+4 650,79
+
+4 889,82
+
+5 143,57
+
+5 413,25
+
+5 698,88
+
+19
+
+2 427,13
+
+2 593,85
+
+2 774,03
+
+2 966,51
+
+3 173,64
+
+3 397,99
+
+3 639,47
+
+3 899,36
+
+4 181,32
+
+4 485,31
+
+4 815,07
+
+5 063,87
+
+5 328,67
+
+5 609,40
+
+5 907,26
+
+20
+
+2 516,61
+
+2 689,44
+
+2 874,54
+
+3 074,38
+
+3 288,89
+
+3 519,34
+
+3 768,18
+
+4 036,64
+
+4 327,18
+
+4 639,75
+
+4 979,31
+
+5 237,96
+
+5 513,76
+
+5 805,50
+
+6 115,64
+
+VI.2
+
+# Anlage VIII – (zu § 61) Gültig ab 1. April 2021
+
+(Fundstelle: BGBl. I 2021, 2453)
+
+# Anlage IX – (zu den Anlagen I und III) Gültig ab 1. April 2021
+
+(Fundstelle: BGBl. I 2021, 2454 - 2457)

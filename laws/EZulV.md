@@ -39,11 +39,11 @@ Bei Teilzeitbeschäftigung verringern sich die in § 3 Absatz 1 und 3 Satz 2 sow
 
 (1) Die Zulage beträgt für Dienst
 
-1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,50 Euro je Stunde,
+1. an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,57 Euro je Stunde,
 
-2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,30 Euro je Stunde sowie
+2. a) an den übrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,32 Euro je Stunde sowie
 
-b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,59 Euro je Stunde.
+b) im Übrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,62 Euro je Stunde.
 
 (2) Für Dienst über volle Stunden hinaus wird die Zulage anteilig gewährt.
 
@@ -436,6 +436,12 @@ b) infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorg
 (4) Eine Zulage nach Absatz 2 oder 3 erhält auch, wer die unmittelbare Aufsicht über die vorstehend genannten und ihm ständig unterstellten Beamten und Soldaten wahrnimmt und dessen ständiger Vertreter.
 
 (5) Sofern die Voraussetzungen nach den Absätzen 2 und 3 gleichzeitig erfüllt sind, wird nur die höhere Zulage gewährt.
+
+# § 21a – Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten
+
+(1) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage von monatlich 90 Euro, wenn sie in dafür dauerhaft oder zeitweise eingerichteten Behandlungseinheiten in kurativen Sanitätseinrichtungen überwiegend bei der Behandlung und Pflege von Patienten tätig sind, die an einer Krankheit nach § 6 Absatz 1 oder Absatz 2 des Infektionsschutzgesetzes in der am 23. Mai 2020 geltenden Fassung erkrankt sind.
+
+(2) Sofern neben den Voraussetzungen nach Absatz 1 auch die Voraussetzungen nach § 21 Absatz 2 oder 3 erfüllt sind, wird nur die höhere Zulage gewährt.
 
 # § 22 – Zulage für besondere Einsätze
 
