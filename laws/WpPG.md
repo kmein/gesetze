@@ -567,6 +567,4 @@ Für Ansprüche wegen fehlerhafter Prospekte, die nicht Grundlage für die Zulas
 
 # § 31 – (jetzt § 20)
 
-# § 32 – Auskunftspflicht von Wertpapierdienstleistungsunternehmen
-
-Vorbehaltlich der schriftlichen Einwilligung des jeweiligen Kunden haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes Emittenten oder Anbietern auf Anfrage unverzüglich ihre Einstufung dieses Kunden nach § 67 des Wertpapierhandelsgesetzes mitzuteilen.
+# § 32 – (weggefallen)

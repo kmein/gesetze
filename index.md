@@ -2932,7 +2932,6 @@
 - [IntZLuftAbkProtG](laws/IntZLuftAbkProtG.md) Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens über die Internationale Zivilluftfahrt)
 - [InVeKoSDG](laws/InVeKoSDG.md) Gesetz über die Verarbeitung von Daten im Rahmen des Integrierten Verwaltungs- und Kontrollsystems nach den unionsrechtlichen Vorschriften für Agrarzahlungen
 - [InVeKoSV](laws/InVeKoSV.md) Verordnung über die Durchführung von Stützungsregelungen und des Integrierten Verwaltungs- und Kontrollsystems
-- [InVeKoSV2015/TierSchNutztVÄndV](laws/InVeKoSV2015_TierSchNutztVÄndV.md) Verordnung zur Änderung der Verordnung über die Durchführung von Stützungsregelungen und des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS-Verordnung) und der Tierschutz-Nutztierhaltungsverordnung 1, 2
 - [InvestAusbV](laws/InvestAusbV.md) Verordnung über die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
 - [InvHSG](laws/InvHSG.md) Gesetz über den Abschluß der Investitionshilfe der gewerblichen Wirtschaft
 - [InvKG](laws/InvKG.md) Investitionsgesetz Kohleregionen
