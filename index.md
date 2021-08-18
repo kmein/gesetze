@@ -2305,6 +2305,7 @@
 - [GAKG](laws/GAKG.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
 - [GalvMstrV](laws/GalvMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Galvaniseur-Handwerk
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
+- [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
 - [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
 - [GarBBAnO](laws/GarBBAnO.md) Anordnung über den Bau und Betrieb von Garagen
 - [GArchDVDV](laws/GArchDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes
