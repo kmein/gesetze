@@ -1410,6 +1410,38 @@ Die Eintragungen zu Satz 1 Nummer 1 bis 5 sind von der jeweiligen Notarkammer, d
 
 (3) Die Rechtsbeschwerde ist nicht zulässig.
 
+# § 78p – Videokommunikationssystem für Urkundstätigkeiten; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer betreibt ein Videokommunikationssystem, das den Notaren die Vornahme von Urkundstätigkeiten mittels Videokommunikation nach den §§ 16a bis 16e und 40a des Beurkundungsgesetzes ermöglicht.
+
+(2) Der Betrieb des Videokommunikationssystems umfasst insbesondere auch
+
+1. die technische Abwicklung der Videokommunikation zwischen den Notaren und den Beteiligten,
+
+2. die technische Durchführung eines elektronischen Identitätsnachweises nach § 16c Satz 1 des Beurkundungsgesetzes,
+
+3. das Auslesen eines elektronischen Speicher- und Verarbeitungsmediums nach § 16c Satz 2 des Beurkundungsgesetzes und
+
+4. das Erstellen einer qualifizierten elektronischen Signatur und das Versehen der elektronischen Urkunde mit dieser.
+
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz hat im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die näheren Bestimmungen zu treffen über
+
+1. die technischen Anforderungen an das Videokommunikationssystem, die Videokommunikation und die elektronische Identifizierung,
+
+2. die Einzelheiten der Datensicherheit und
+
+3. die technische Ausgestaltung der Signaturerstellung.
+
+§ 78p Abs. 1 u. 2 Kursivdruck: Tritt gem. Art. 31 Abs. 1 G v. 5.7.2021 I 3338 mWv 1.8.2022 in Kraft
+
+# § 78q – Gebührenerhebung für das Videokommunikationssystem
+
+(1) Das Videokommunikationssystem wird durch Gebühren finanziert, zu deren Zahlung die Notare verpflichtet sind. Die Gebühren sind so zu bemessen, dass der mit der Einrichtung und dem Betrieb des Videokommunikationssystems verbundene Verwaltungsaufwand einschließlich der Personal- und Sachkosten gedeckt wird.
+
+(2) Die Bundesnotarkammer bestimmt die Gebühren nach Absatz 1 und die Art ihrer Erhebung durch eine Gebührensatzung. Die Gebührensatzung bedarf der Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+
+§ 78q Abs. 1 Kursivdruck: Tritt gem. Art. 31 Abs. 1 G v. 5.7.2021 I 3338 mWv 1.8.2022 in Kraft
+
 # § 79 – Organe
 
 Die Organe der Bundesnotarkammer sind das Präsidium und die Generalversammlung.

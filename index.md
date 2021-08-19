@@ -1673,7 +1673,6 @@
 - [EGTSEBußgeldV](laws/EGTSEBußgeldV.md) Verordnung zur Durchsetzung der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien
 - [EGV1333/2008Bek](laws/EGV1333_2008Bek.md) Bekanntmachung über anzuwendende Strafvorschriften bei Verstößen gegen die Verordnung Nr. 1333/2008 über Lebensmittelzusatzstoffe
 - [EGV1334/2008Bek](laws/EGV1334_2008Bek.md) Bekanntmachung über anzuwendende Strafvorschriften bei Verstößen gegen die Verordnung (EG) Nr. 1334/2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften
-- [EGV2006/2004ZÜV](laws/EGV2006_2004ZÜV.md) Verordnung zur Übertragung der Zuständigkeit für die Durchführung der Verordnung (EG) Nr. 2006/2004 auf das Bundesministerium der Justiz und für Verbraucherschutz
 - [EGVertrG](laws/EGVertrG.md) Gesetz zu dem Vertrag vom 8. April 1965 zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission der Europäischen Gemeinschaften
 - [EgVG](laws/EgVG.md) Gesetz zur Erstellung gesamtwirtschaftlicher Vorausschätzungen der Bundesregierung
 - [EgVV](laws/EgVV.md) Verordnung über die Erstellung der gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung

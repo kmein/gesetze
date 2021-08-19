@@ -91,7 +91,7 @@ Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 
 (7) Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe des Absatzes 2 Satz 1 eingeschränkt.
 
-(+++ Hinweis: Änderungsbefehl durch Art. 2 Nr. 3 G v. 5.7.2021 I 2274 ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
+(+++ Hinweis: Durch Art. 2 Nr. 3 G v. 5.7.2021 I 2274 wird § 4b Satz 3 mWv 9.7.2021 aufgehoben; der Änderungsbefehl ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
 
 # § 5 – Besondere Formen der Datenerhebung
 

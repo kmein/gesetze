@@ -1761,7 +1761,7 @@ Werden die Bedarfe für die Unterkunft und Heizung durch Direktzahlung an den Ve
 
 (5) Leben Leistungsberechtigte in einer Unterkunft nach § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3, sind Aufwendungen für Unterkunft und Heizung nach § 42a Absatz 5 und 6 anzuerkennen. Leben Leistungsberechtigte in einer sonstigen Unterkunft nach § 42a Absatz 2 Satz 1 Nummer 3 sind Aufwendungen für Unterkunft und Heizung nach § 42a Absatz 7 anzuerkennen.
 
-§ 35 Abs. 5 Satz 2 (früher Abs. 5) Kursivdruck: Gem. Art. 5 Nr. 3 G v. 22.12.2016 I 3159 wurden anstelle der Wörter "§ 42a Absatz 2 Nummer 2" die Wörter "§ 42a Absatz 2 Satz 1 Nummer 2" durch die Wörter "§ 42a Absatz 2 Nummer 3" mWv 1.1.2020 ersetzt; früher Abs. 5 einziger Text, jetzt Abs. 5 Satz 2 gem. Art. 3 Nr. 5 G v. 30.11.2019 I 1948 mWv 1.1.2020 (bezeichnet als Abs. 5 Satz 1)
+§ 35 Abs. 5 Satz 2 (früher Abs. 5) Kursivdruck: Gem. Art. 5 Nr. 3 G v. 22.12.2016 I 3159 wurden anstelle der Wörter "§ 42a Absatz 2 Nummer 2" die Wörter "§ 42a Absatz 2 Satz 1 Nummer 2" durch die Wörter "§ 42a Absatz 2 Nummer 3" mWv 1.1.2020 ersetzt; früher Abs. 5 einziger Text, jetzt Abs. 5 Satz 2 gem. Art. 3 Nr. 5 G v. 30.11.2019 I 1948 mWv 1.1.2020 (bezeichnet als Abs. 5 Satz 1); idF d. Art. 1 Nr. 4e G v. 2.6.2021 I 1387 mWv 1.7.2021
 
 # § 35a – Satzung
 
