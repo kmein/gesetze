@@ -11,7 +11,7 @@ Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des Postpersonalrechtsgesetzes, der 
 
 (2) Die Bundeslaufbahnverordnung gilt mit der Maßgabe, dass an die Stelle des Einvernehmens mit dem Bundesministerium des Innern, für Bau und Heimat das Einvernehmen mit dem Bundesministerium der Finanzen tritt.
 
-(3) § 3 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass Eignung, Befähigung und fachliche Leistung an den Anforderungen des jeweiligen Postnachfolgeunternehmens gemessen werden.
+(3) Eignung, Befähigung und fachliche Leistung sind an den Anforderungen des jeweiligen Postnachfolgeunternehmens zu messen.
 
 (4) Als dienstliche Gründe im Sinne der Bundeslaufbahnverordnung gelten auch betriebliche oder personalwirtschaftliche Gründe, die sich aus den organisatorischen oder personellen Strukturen der Postnachfolgeunternehmen ergeben.
 
@@ -59,7 +59,13 @@ Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche Qualifizierun
 
 # § 7 – Fachspezifische Qualifizierungen für den Aufstieg
 
-Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium der Finanzen die Dauer und die Inhalte der fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 der Bundeslaufbahnverordnung festlegen, wenn die Anforderungen der Laufbahnen dies rechtfertigen.
+Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen
+
+1. die Dauer der fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 Satz 1 der Bundeslaufbahnverordnung festlegen,
+
+2. abweichend von § 38 Absatz 2 Satz 2 der Bundeslaufbahnverordnung festlegen, dass die fachtheoretische Ausbildung auch für den Aufstieg in den mittleren Dienst zum Teil berufsbegleitend durchgeführt werden kann, und
+
+3. die Inhalte der fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 Satz 3 der Bundeslaufbahnverordnung festlegen.
 
 # § 8 – Überleitungs- und Übergangsvorschriften
 
