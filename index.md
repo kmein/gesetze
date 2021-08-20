@@ -3409,6 +3409,7 @@
 - [LuftVGÄndG 11](laws/LuftVGÄndG_11.md) Elftes Gesetz zur Änderung des Luftverkehrsgesetzes
 - [LuftVGBV](laws/LuftVGBV.md) Verordnung über die Beleihung juristischer Personen des privaten Rechts gemäß § 30a des Luftverkehrsgesetzes
 - [LuftVGewRAbk](laws/LuftVGewRAbk.md) Mehrseitiges Abkommen über gewerbliche Rechte im nichtplanmäßigen Luftverkehr in Europa
+- [LuftVGFSOrgEÜV](laws/LuftVGFSOrgEÜV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Luftverkehrsgesetz zur Beauftragung einer Flugsicherungsorganisation
 - [LuftvKflAusbV](laws/LuftvKflAusbV.md) Verordnung über die Berufsausbildung zum Luftverkehrskaufmann und zur Luftverkehrskauffrau*
 - [LuftVO](laws/LuftVO.md) Luftverkehrs-Ordnung
 - [LuftVODV 106](laws/LuftVODV_106.md) Einhundertsechste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Erfurt)
@@ -5226,7 +5227,6 @@
 - [StÄndG 1975](laws/StÄndG_1975.md) Gesetz zur Änderung des Einkommensteuergesetzes und des Investitionszulagengesetzes
 - [Stär/ZuckProdErstV](laws/Stär_ZuckProdErstV.md) Verordnung über die Gewährung von Produktionserstattungen für die Verwendung von Zucker
 - [StAG](laws/StAG.md) Staatsangehörigkeitsgesetz
-- [StAGebV](laws/StAGebV.md) Staatsangehörigkeits-Gebührenverordnung
 - [StandAG](laws/StandAG.md) Gesetz zur Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle
 - [StandOG](laws/StandOG.md) Gesetz zur Verbesserung der steuerlichen Bedingungen zur Sicherung des Wirtschaftsstandorts Deutschland im Europäischen Binnenmarkt
 - [StandRegV](laws/StandRegV.md) Verordnung über Standardregistrierungen von Arzneimitteln
