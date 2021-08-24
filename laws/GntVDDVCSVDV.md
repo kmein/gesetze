@@ -95,6 +95,10 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes –
 
 (2) Der Diplom-Studiengang „Digital Administration and Cyber Security“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Dienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“ erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit und im föderalen und europäischen Raum befähigen.
@@ -356,6 +360,12 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 Mitglieder der Auswahlkommission können auch vergleichbare Angestellte sein. Mindestens ein Mitglied der Auswahlkommission soll haupt- oder nebenamtliche Lehrkraft der Hochschule sein.
 
+(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern bestehen:
+
+1. einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes der Hochschule oder einer Ausbildungsbehörde als Vorsitzender oder Vorsitzendem und
+
+2. einer weiteren Beamtin oder einem Beamten oder zwei weiteren Beamtinnen oder Beamten des gehobenen oder höheren Dienstes der Hochschule oder einer Ausbildungsbehörde.
+
 (3) Die Behörde, die das Auswahlverfahren durchführt, bestellt die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern.
 
 (4) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
@@ -436,6 +446,8 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 4. eine Gruppendiskussion.
 
+(4) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
 # § 19 – Bestehen des mündlichen Teils
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturierten Interview und im Fall der Anwendung weiterer Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die Mindestpunktzahl erreicht worden ist.
@@ -459,6 +471,8 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 (1) Das Studium dauert in der Regel drei Jahre.
 
 (2) Das Studium umfasst 24 Monate Fachstudien an der Hochschule und zwölf Monate berufspraktische Studienzeiten.
+
+(2a) Bis zum 31. Dezember 2022 können in den Fachstudien und den berufspraktischen Studienzeiten für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester:
 
@@ -509,6 +523,14 @@ Berufspraktische Studienzeit II
 6\. Semester
 
 Hauptstudium II
+
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+
+1. die Studienabschnitte – abweichend von Absatz 3 – anders gegliedert werden und
+
+2. Lehrveranstaltungen der Studienabschnitte oder Teile der Lehrveranstaltungen in ein anderes Semester verschoben werden.
+
+Möglich ist die Verschiebung von Lehrveranstaltungen der Fachstudien oder Teile dieser Lehrveranstaltungen auch in ein Semester einer berufspraktischen Studienzeit.
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
@@ -880,6 +902,8 @@ Wird eine Prüfung oder ein Prüfungsteil von zwei Prüfenden bewertet, wird das
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
+(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
+
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie einen Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 
 # § 46 – Gegenstände der Zwischenprüfung
@@ -936,7 +960,7 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 (4) Bei der Wiederholung wird jede Modulprüfung von zwei Prüfenden bewertet. Für jede Modulprüfung bestellt das Prüfungsamt Erstprüfende und Zweitprüfende in ausreichender Zahl. Die Prüfenden sollen haupt- oder nebenamtliche Lehrkräfte der Hochschule sein.
 
-(5) Sind zwei Modulprüfungen der Zwischenprüfung endgültig nicht bestanden, ist das Studium beendet.
+(5) Sind drei Modulprüfungen der Zwischenprüfung endgültig nicht bestanden, ist das Studium beendet.
 
 # § 54 – Gegenstand der Modulprüfungen des Hauptstudiums
 

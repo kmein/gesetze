@@ -11,6 +11,10 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artik
 
 Das Diplomstudium „Gehobener nichttechnischer Zolldienst des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Zolldienst des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen Raum und im internationalen, insbesondere europäischen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den sich ständig wandelnden Herausforderungen an die Zollverwaltung gerecht zu werden. Die Studierenden sollen befähigt werden, sich eigenverantwortlich weiterzubilden.
@@ -252,6 +256,12 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Studienzeit gew
 
 In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je Auswahlkommission bestellt werden.
 
+(2a) Die Generalzolldirektion kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder zwei Beamten des gehobenen Dienstes
+
 (3) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig. Die Auswahlkommission soll paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen.
 
 (4) Die Mitglieder der Auswahlkommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
@@ -305,6 +315,8 @@ In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte od
 # § 15 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens auch Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die Dauer der Simulationsübungen einschließlich erforderlicher Vorbereitungszeiten und die Dauer des Interviews werden den Bewerberinnen und Bewerbern vor Beginn des mündlichen Teils mitgeteilt. Die Dauer der Simulationsübungen beträgt pro Bewerberin oder Bewerber höchstens 150 Minuten.
 
@@ -368,6 +380,8 @@ In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte od
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend. Die Studierenden sind zum Selbststudium verpflichtet.
 
+(4a) Die Hochschule kann im Einvernehmen mit dem Bundesministerium der Finanzen festlegen, dass bis zum 31. Dezember 2022 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
+
 (5) Für die fachtheoretische Studienzeit werden die Studierenden von den Ausbildungsbehörden der Hochschule zugewiesen. Die Praktika werden bei der Ausbildungsbehörde durchgeführt. Für die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Studienzeit werden die Studierenden an die Generalzolldirektion abgeordnet.
 
 # § 19 – Studienplan oder Modulhandbuch, Ausbildungsrahmenplan
@@ -412,17 +426,17 @@ In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte od
 
 1. einer Klausur,
 
-2. einer schriftlichen Ausarbeitung,
+2. einer schriftlichen Ausarbeitung oder
 
-3. eines Referats oder einer anderen mündlichen Leistung oder
+3. eines Referats oder einer anderen mündlichen Leistung.
 
-4. einer Anwendung in der Informationstechnik.
+(3) Klausuren und schriftliche Ausarbeitungen können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(3) Jeder Leistungstest muss mindestens eine Woche im Voraus angekündigt werden. Pro Tag darf von der oder dem Studierenden nur ein Leistungstest gefordert werden.
+(4) Jeder Leistungstest muss mindestens eine Woche im Voraus angekündigt werden. Pro Tag darf von der oder dem Studierenden nur ein Leistungstest gefordert werden.
 
-(4) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, den Leistungstest zu einem späteren Zeitpunkt des Studiums zu erbringen.
+(5) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, den Leistungstest zu einem späteren Zeitpunkt des Studiums zu erbringen.
 
-(5) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
+(6) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
 
 # § 23 – Klausuren
 
@@ -542,7 +556,9 @@ Das Studiengebiet nach § 25 Absatz 1 Nummer 6 kann bei der Aufgabenstellung ber
 
 (1) Während des Hauptstudiums haben die Studierenden einen Englischtest nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen abzulegen.
 
-(2) Über den Englischtest erhalten die Studierenden ein Zertifikat, aus dem ihr Leistungsstand hervorgeht. Der Einstellungsbehörde ist eine Ausfertigung zur Aufnahme in die Personalakte zu übersenden.
+(2) Der Englischtest kann mit Unterstützung durch Informationstechnik durchgeführt werden.
+
+(3) Über den Englischtest erhalten die Studierenden ein Zertifikat, aus dem ihr Leistungsstand hervorgeht. Der Einstellungsbehörde ist eine Ausfertigung zur Aufnahme in die Personalakte zu übersenden.
 
 # § 31 – Diplomarbeit
 
@@ -694,6 +710,14 @@ Abweichend von Satz 1 Nummer 2 und 3 können vergleichbare Tarifbeschäftigte zu
 
 Abweichend von Satz 1 Nummer 2 und 3 können vergleichbare Tarifbeschäftigte zu Beisitzenden bestellt werden. Zwei Mitglieder sollen Lehrende oder sonstige mit Lehraufgaben betraute Mitglieder der Hochschule sein, mindestens vier Mitglieder sollen dem nichttechnischen Zolldienst angehören. Die Prüfungskommissionen sollen paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen. Werden weibliche Studierende geprüft, muss mindestens ein Mitglied der Prüfungskommission weiblich sein. Jedes Kommissionsmitglied prüft als Fachprüferin oder Fachprüfer ein Studiengebiet nach § 26 Absatz 1 Nummer 1 bis 6.
 
+(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022 die Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem und
+
+2. mindestens zwei und höchstens vier Beamtinnen oder Beamten des höheren oder des gehobenen Dienstes als Beisitzenden.
+
+Soweit es erforderlich ist, prüfen die einzelnen Mitglieder als Fachprüferin oder Fachprüfer zwei der Studiengebiete nach § 26 Absatz 1 Nummer 1 bis 6.
+
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens zwei Drittel ihrer Mitglieder anwesend sind. Im Fall des Absatzes 5 Satz 6 ist die Prüfungskommission nur beschlussfähig, wenn mindestens ein weibliches Mitglied anwesend ist. Eine Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig. Beratungen der Prüfungskommissionen sind nicht öffentlich.
 
 # § 39 – Prüfungsgrundsätze
@@ -728,9 +752,11 @@ Abweichend von Satz 1 Nummer 2 und 3 können vergleichbare Tarifbeschäftigte zu
 
 Das Studiengebiet nach § 25 Absatz 1 Nummer 6 kann bei der Aufgabenstellung berücksichtigt werden.
 
-(3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+(3) Die Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(4) Die Zwischenprüfung ist bestanden, wenn
+(4) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+
+(5) Die Zwischenprüfung ist bestanden, wenn
 
 1. mindestens drei Klausuren jeweils mit mindestens fünf Rangpunkten bewertet worden sind und
 
@@ -738,7 +764,7 @@ Das Studiengebiet nach § 25 Absatz 1 Nummer 6 kann bei der Aufgabenstellung ber
 
 Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten, die in den vier Klausuren erzielt worden sind.
 
-(5) Die Studierende oder der Studierende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme ist § 37 Absatz 3 entsprechend anzuwenden.
+(6) Die Studierende oder der Studierende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme ist § 37 Absatz 3 entsprechend anzuwenden.
 
 # § 41 – Bescheid, Zwischenprüfungszeugnis
 
@@ -758,7 +784,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (2) Die Abschlussprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
 
-(3) Die schriftliche Abschlussprüfung soll spätestens zwei Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein. Die mündliche Prüfung ist bis zum Ende des Vorbereitungsdienstes abzuschließen.
+(3) Die schriftliche Abschlussprüfung soll spätestens zwei Wochen vor Beginn der mündlichen Abschlussprüfung abgeschlossen sein. Die mündliche Abschlussprüfung ist bis zum Ende des Vorbereitungsdienstes abzuschließen.
 
 # § 43 – Schriftliche Abschlussprüfung
 
@@ -778,9 +804,11 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 6. in den Studiengebieten nach § 26 Absatz 1 Nummer 6 und 7 gemeinsam.
 
-(3) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+(3) Die Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(4) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens vier Klausuren mit mindestens fünf Rangpunkten bewertet worden sind.
+(4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
+
+(5) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens vier Klausuren mit mindestens fünf Rangpunkten bewertet worden sind.
 
 # § 44 – Zulassung zur mündlichen Abschlussprüfung
 
@@ -797,6 +825,28 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 (1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den Studiengebieten nach § 26 Absatz 1 Nummer 1 bis 6 zu entnehmen. Die Fachprüferinnen oder Fachprüfer der genannten Studiengebiete wählen die Fragen aus.
 
 (2) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. Eine Gruppe soll aus höchstens sechs Studierenden bestehen. Die Dauer der Prüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten nicht überschreiten. Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung und stellt den ordnungsgemäßen Ablauf der Prüfung sicher. Die mündliche Prüfung wird durch mindestens eine Pause von angemessener Dauer unterbrochen.
+
+(2a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022
+
+1. für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen,
+
+2. die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird,
+
+3. auch für die Einzelprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete Einrichtungen zur Verfügung stehen, und
+
+4. die Dauer der mündlichen Abschlussprüfung 30 Minuten je Studierende oder Studierenden nicht unterschreiten darf.
+
+(2b) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 auf eine Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
+
+1. die technischen Einrichtungen für eine Nutzung von Videokonferenztechnik nicht zur Verfügung stehen und
+
+2. die Hochschule nicht gewährleisten kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn
+
+a) die mündliche Abschlussprüfung als Einzelprüfung durchgeführt würde,
+
+b) die Zahl der Mitglieder der Prüfungskommission reduziert würde und
+
+c) die Dauer der mündlichen Abschlussprüfung verkürzt würde.
 
 (3) Die mündliche Abschlussprüfung ist hochschulöffentlich, wenn die Studierenden dem nicht widersprechen. Mitglieder des Prüfungsamtes dürfen unabhängig vom Einverständnis der Studierenden anwesend sein. Das Prüfungsamt kann unabhängig vom Einverständnis der Studierenden folgenden Personen die Anwesenheit gestatten:
 
@@ -832,7 +882,29 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 5. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
 
+(1a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die Rangpunktzahl der Laufbahnprüfung der Quotient aus
+
+1. der Summe aus
+
+a) der 4-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
+
+b) der 32-fachen Durchschnittsrangpunktzahl des Hauptstudiums,
+
+c) der 7-fachen Durchschnittsrangpunktzahl der berufspraktischen Studienzeit und
+
+d) dem 7-fachen der Rangpunkte für jede der sechs Klausuren der schriftlichen Abschlussprüfung sowie
+
+2. der Zahl 85.
+
 (2) Die Laufbahnprüfung ist bestanden, wenn die mündliche Abschlussprüfung bestanden ist und in der Laufbahnprüfung eine Rangpunktzahl von mindestens 5 erreicht worden ist.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die mündliche Abschlussprüfung dennoch durchzuführen bei Studierenden, die
+
+1. die schriftliche Abschlussprüfung bestanden haben und
+
+2. eine Rangpunktzahl der Laufbahnprüfung von weniger als 5,00 erreicht haben.
+
+In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem die mündliche Abschlussprüfung durchgeführt wird. Ist die mündliche Abschlussprüfung durchgeführt worden, so wird die Rangpunktzahl der Laufbahnprüfung nach Absatz 1 Satz 2 ermittelt.
 
 (3) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Festsetzung der Abschlussnote kaufmännisch auf eine ganze Zahl gerundet.
 
@@ -855,6 +927,8 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 6. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung sowie
 
 7. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, und ist auch nach § 46 Absatz 2a keine mündliche Abschlussprüfung durchgeführt worden, so bleibt im Abschlusszeugnis das Feld zur Angabe der Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung frei. In diesem Fall ist im Abschlusszeugnis zu vermerken, dass die Laufbahnprüfung ohne mündliche Abschlussprüfung abgelegt worden ist, und die Rechtsgrundlage für diese Tatsache anzugeben.
 
 (3) Der Bescheid über die Laufbahnprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -892,9 +966,28 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (1) Für Studierende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1693), die zuletzt durch Artikel 3 Absatz 12 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass
 
-1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 und 3 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt und
+1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 und 3 der im einleitenden Satzteil genannten Verordnung § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt,
 
-2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1, § 35 Absatz 1 Satz 1 und § 39 Absatz 3 Satz 1 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind.
+2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1, § 35 Absatz 1 Satz 1 und § 39 Absatz 3 Satz 1 der im einleitenden Satzteil genannten Verordnung vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind,
+
+3. § 38 Absatz 5a, § 43 Absatz 3, § 45 Absatz 2a und 2b, § 46 Absatz 2a sowie § 47 Absatz 2a dieser Verordnung entsprechend gelten und
+
+4. im Fall der Festlegung, dass auf die mündliche Abschlussprüfung verzichtet wird, – abweichend von § 41 Absatz 1 Satz 2 der im einleitenden Satzteil genannten Verordnung – die Durchschnittspunktzahl der Laufbahnprüfung der Quotient ist aus
+
+a) der Summe aus
+
+aa)  
+der 2-fachen Durchschnittspunktzahl der Zwischenprüfung,
+
+bb)  
+der 12-fachen Durchschnittspunktzahl des Hauptstudiums,
+
+cc) der 9-fachen Durchschnittspunktzahl der berufspraktischen Studienzeiten und
+
+dd)  
+dem 9-fachen der Rangpunkte für jede der sechs schriftlichen Prüfungsarbeiten sowie
+
+b) der Zahl 77.
 
 (2) Auf Beamtinnen und Beamte, die bis zum 31. Dezember 2015 nach § 54 Absatz 2 Satz 1 der Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden Fassung erfolgreich an einer Vorauswahl für die Teilnahme an einem Auswahlverfahren für den Aufstieg teilgenommen haben oder zum Praxisaufstieg zugelassen worden sind, sind die §§ 27 bis 29 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1693), die zuletzt durch Artikel 3 Absatz 12 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 

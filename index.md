@@ -3694,7 +3694,7 @@
 - [MMilchPulvAbsV](laws/MMilchPulvAbsV.md) Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerhaltung zur Denaturierung, zur Verarbeitung zu Mischfutter und zur Ausfuhr sowie über die Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe
 - [MMilchPulvV](laws/MMilchPulvV.md) Verordnung zur Durchführung der öffentlichen Lagerhaltung von Magermilchpulver
 - [MNrVAL](laws/MNrVAL.md) Verordnung über Vergabe und Zusammensetzung der Mitgliedsnummer in der Alterssicherung der Landwirte
-- [MntDAIVAPrV](laws/MntDAIVAPrV.md) Verordnung über die Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes
+- [MntDAIVVDV](laws/MntDAIVVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes
 - [MntZollDVDV](laws/MntZollDVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes
 - [ModellBTechAusbV](laws/ModellBTechAusbV.md) Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin *)
 - [ModGAufhG](laws/ModGAufhG.md) Gesetz zur Aufhebung des Modulationsgesetzes

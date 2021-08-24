@@ -259,7 +259,7 @@ Verfahren auf Aufhebung oder Änderung
 
 § 35
 
-Schadensersatz wegen ungerechtfertigter Vollstreckung
+Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
 
  
 
@@ -277,7 +277,7 @@ Vollstreckungsabwehrklage
 
 § 36
 
-Vollstreckungsabwehrklage bei Titeln über Verfahrenskosten
+Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
 
 Abschnitt 6
 
@@ -526,7 +526,7 @@ ist das Familiengericht, in dessen Zuständigkeitsbereich zum Zeitpunkt der Antr
 
 (1) In Verfahren über eine in den §§ 10 und 11 bezeichnete Sache sowie in Verfahren über die Vollstreckbarerklärung nach Artikel 28 der Verordnung (EG) Nr. 2201/2003 entscheidet das Familiengericht, in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk dieses Oberlandesgerichts.
 
-(2) Im Bezirk des Kammergerichts entscheidet das Familiengericht Pankow/Weißensee.
+(2) Im Bezirk des Kammergerichts entscheidet das Familiengericht Pankow.
 
 (3) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch Rechtsverordnung einem anderen Familiengericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Familiengericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -574,7 +574,7 @@ Soweit nicht anders bestimmt, entscheidet das Familiengericht
 
 1. über eine in den §§ 10 und 12 bezeichnete Ehesache nach den hierfür geltenden Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
-2. über die übrigen in den §§ 10, 11, 12 und 47 bezeichneten Angelegenheiten als Familiensachen im Verfahren der freiwilligen Gerichtsbarkeit.
+2. über die übrigen in den §§ 10, 11, 12 und 47 bezeichneten Angelegenheiten nach den für Kindschaftssachen geltenden Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 # § 15 – Einstweilige Anordnungen
 
@@ -598,7 +598,11 @@ hierzu befugten Person bestätigt worden ist.
 
 (1) Hat die antragstellende Person in dem Antrag keinen Zustellungsbevollmächtigten im Sinne des § 184 Abs. 1 Satz 1 der Zivilprozessordnung benannt, so können bis zur nachträglichen Benennung alle Zustellungen an sie durch Aufgabe zur Post (§ 184 Abs. 1 Satz 2, Abs. 2 der Zivilprozessordnung) bewirkt werden.
 
-(2) Absatz 1 gilt nicht, wenn die antragstellende Person einen Verfahrensbevollmächtigten für das Verfahren bestellt hat, an den im Inland zugestellt werden kann.
+(2) Absatz 1 gilt nicht, wenn
+
+1. für die Zustellung unmittelbar anwendbare Regelungen der Europäischen Union im Sinne von § 183 Absatz 1 Satz 1 der Zivilprozessordnung maßgeblich sind oder
+
+2. die antragstellende Person einen Verfahrensbevollmächtigten für das Verfahren bestellt hat, an den im Inland zugestellt werden kann.
 
 # § 18 – Einseitiges Verfahren
 
@@ -624,7 +628,7 @@ Die Vollstreckbarerklärung eines Titels aus einem anderen Vertragsstaat des Eur
 
 (2) Der antragstellenden Person sind eine beglaubigte Abschrift des Beschlusses nach § 20, im Falle des § 20 Abs. 1 ferner eine Bescheinigung über die bewirkte Zustellung zu übersenden. Die mit der Vollstreckungsklausel versehene Ausfertigung des Titels ist der antragstellenden Person erst dann zu übersenden, wenn der Beschluss nach § 20 Abs. 1 wirksam geworden und die Vollstreckungsklausel erteilt ist.
 
-(3) In einem Verfahren, das die Vollstreckbarerklärung einer die elterliche Verantwortung betreffenden Entscheidung zum Gegenstand hat, sind Zustellungen auch an den gesetzlichen Vertreter des Kindes, an den Vertreter des Kindes im Verfahren, an das Kind selbst, soweit es das 14. Lebensjahr vollendet hat, an einen Elternteil, der nicht am Verfahren beteiligt war, sowie an das Jugendamt zu bewirken.
+(3) In einem Verfahren, das die Vollstreckbarerklärung einer die elterliche Verantwortung betreffenden Entscheidung zum Gegenstand hat, sind Zustellungen auch an den gesetzlichen Vertreter des Kindes, an den Vertreter des Kindes im Verfahren, an das Kind selbst, wenn es das 14. Lebensjahr vollendet hat und nicht geschäftsunfähig ist, an einen Elternteil, der nicht am Verfahren beteiligt war, sowie an das Jugendamt zu bewirken. Eine Begründung soll dem Kind nicht mitgeteilt werden, wenn Nachteile für dessen Entwicklung, Erziehung oder Gesundheit zu befürchten sind.
 
 (4) Handelt es sich bei der für vollstreckbar erklärten Maßnahme um eine Unterbringung, so ist der Beschluss auch dem Leiter der Einrichtung oder der Pflegefamilie bekannt zu machen, in der das Kind untergebracht werden soll.
 
@@ -688,7 +692,7 @@ Gegen den Beschluss des Oberlandesgerichts findet die Rechtsbeschwerde zum Bunde
 
 # § 29 – Einlegung und Begründung der Rechtsbeschwerde
 
-§ 575 Abs. 1 bis 4 der Zivilprozessordnung ist entsprechend anzuwenden. Soweit die Rechtsbeschwerde darauf gestützt wird, dass das Oberlandesgericht von einer Entscheidung des Gerichtshofs der Europäischen Gemeinschaften abgewichen sei, muss die Entscheidung, von der der angefochtene Beschluss abweicht, bezeichnet werden.
+§ 575 Abs. 1 bis 4 der Zivilprozessordnung ist entsprechend anzuwenden. Soweit die Rechtsbeschwerde darauf gestützt wird, dass das Oberlandesgericht von einer Entscheidung des Gerichtshofs der Europäischen Union abgewichen sei, muss die Entscheidung, von der der angefochtene Beschluss abweicht, bezeichnet werden.
 
 # § 30 – Verfahren und Entscheidung über die Rechtsbeschwerde
 
@@ -724,13 +728,13 @@ Auf das Verfahren über einen gesonderten Feststellungsantrag nach Artikel 21 Ab
 
 (5) Im Falle eines Titels über die Erstattung von Verfahrenskosten sind für die Einstellung der Zwangsvollstreckung und die Aufhebung bereits getroffener Vollstreckungsmaßregeln die §§ 769 und 770 der Zivilprozessordnung entsprechend anzuwenden. Die Aufhebung einer Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-# § 35 – Schadensersatz wegen ungerechtfertigter Vollstreckung
+# § 35 – Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
 
 (1) Wird die Zulassung der Zwangsvollstreckung aus einem Titel über die Erstattung von Verfahrenskosten auf die Rechtsbeschwerde aufgehoben oder abgeändert, so ist die berechtigte Person zum Ersatz des Schadens verpflichtet, welcher der verpflichteten Person durch die Vollstreckung des Titels oder durch eine Leistung zur Abwendung der Vollstreckung entstanden ist. Das Gleiche gilt, wenn die Zulassung der Zwangsvollstreckung nach § 34 aufgehoben oder abgeändert wird, sofern der zur Zwangsvollstreckung zugelassene Titel zum Zeitpunkt der Zulassung nach dem Recht des Staates, in dem er ergangen ist, noch mit einem ordentlichen Rechtsbehelf angefochten werden konnte.
 
-(2) Für die Geltendmachung des Anspruchs ist das Gericht ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
+(2) Für den Antrag, mit dem ein Anspruch nach Absatz 1 geltend gemacht wird, ist das Gericht ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den Titel mit der Vollstreckungsklausel zu versehen, entschieden hat. Es entscheidet nach den für sonstige Familiensachen im Sinne des § 266 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden Vorschriften.
 
-# § 36 – Vollstreckungsabwehrklage bei Titeln über Verfahrenskosten
+# § 36 – Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
 
 (1) Ist die Zwangsvollstreckung aus einem Titel über die Erstattung von Verfahrenskosten zugelassen, so kann die verpflichtete Person Einwendungen gegen den Anspruch selbst in einem Verfahren nach § 767 der Zivilprozessordnung nur geltend machen, wenn die Gründe, auf denen ihre Einwendungen beruhen, erst
 
@@ -768,15 +772,21 @@ Wird eine inländische Entscheidung nach Artikel 11 Abs. 6 der Verordnung (EG) N
 
 # § 41 – Bescheinigung über Widerrechtlichkeit
 
-Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des Zurückhaltens eines Kindes nach Artikel 15 Satz 1 des Haager Kindesentführungsübereinkommens festzustellen, entscheidet das Familiengericht,
+(1) Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des Zurückhaltens eines Kindes nach Artikel 15 Satz 1 des Haager Kindesentführungsübereinkommens festzustellen, entscheidet in folgender Rangfolge das Familiengericht, in dessen Zuständigkeitsbereich
 
-1. bei dem die Sorgerechtsangelegenheit oder Ehesache im ersten Rechtszug anhängig ist oder war, sonst
+1. die Sorgerechtsangelegenheit oder Ehesache im ersten Rechtszug anhängig ist oder war,
 
-2. in dessen Bezirk das Kind seinen letzten gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hatte, hilfsweise
+2. das Kind seinen letzten gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hatte,
 
-3. in dessen Bezirk das Bedürfnis der Fürsorge auftritt.
+3. das Bedürfnis der Fürsorge bekannt wird.
 
-Die Entscheidung ist zu begründen.
+§ 12 gilt entsprechend.
+
+(2) Der Antrag ist zu begründen; die für die Widerrechtlichkeit geltend gemachten Gründe sind glaubhaft zu machen.
+
+(3) Das Gericht kann im schriftlichen Verfahren und ohne Anhörung der Beteiligten entscheiden. Die Entscheidung ist zu begründen.
+
+(4) Der Beschluss ist mit der sofortigen Beschwerde in entsprechender Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar. Eine Rechtsbeschwerde findet nicht statt.
 
 # § 42 – Einreichung von Anträgen bei dem Amtsgericht
 

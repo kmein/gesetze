@@ -11,19 +11,17 @@ Deutscher im Sinne dieses Gesetzes ist, wer die deutsche Staatsangehörigkeit be
 
 # § 3
 
-(1) Die Staatsangehörigkeit wird erworben
+(1) Die deutsche Staatsangehörigkeit wird erworben
 
 1. durch Geburt (§ 4),
 
-2. durch Erklärung nach § 5,
+2. durch Erklärung (§ 5),
 
 3. durch Annahme als Kind (§ 6),
 
-4. durch Ausstellung der Bescheinigung gemäß § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes (§ 7),
+4. durch Ausstellung der Bescheinigung nach § 15 Absatz 1 oder 2 des Bundesvertriebenengesetzes (§ 7),
 
-4a. durch Überleitung als Deutscher ohne deutsche Staatsangehörigkeit im Sinne des Artikels 116 Abs. 1 des Grundgesetzes (§ 40a),
-
-5. für einen Ausländer durch Einbürgerung (§§ 8 bis 16, 40b und 40c).
+5. durch Einbürgerung (§§ 8 bis 16, 40b und 40c).
 
 (2) Die Staatsangehörigkeit erwirbt auch, wer seit zwölf Jahren von deutschen Stellen als deutscher Staatsangehöriger behandelt worden ist und dies nicht zu vertreten hat. Als deutscher Staatsangehöriger wird insbesondere behandelt, wem ein Staatsangehörigkeitsausweis, Reisepass oder Personalausweis ausgestellt wurde. Der Erwerb der Staatsangehörigkeit wirkt auf den Zeitpunkt zurück, zu dem bei Behandlung als Staatsangehöriger der Erwerb der Staatsangehörigkeit angenommen wurde. Er erstreckt sich auf Abkömmlinge, die seither ihre Staatsangehörigkeit von dem nach Satz 1 Begünstigten ableiten.
 
@@ -41,21 +39,41 @@ Deutscher im Sinne dieses Gesetzes ist, wer die deutsche Staatsangehörigkeit be
 
 Der Erwerb der deutschen Staatsangehörigkeit wird in dem Geburtenregister, in dem die Geburt des Kindes beurkundet ist, eingetragen. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften über das Verfahren zur Eintragung des Erwerbs der Staatsangehörigkeit nach Satz 1 zu erlassen.
 
-(4) Die deutsche Staatsangehörigkeit wird nicht nach Absatz 1 erworben bei Geburt im Ausland, wenn der deutsche Elternteil nach dem 31. Dezember 1999 im Ausland geboren wurde und dort seinen gewöhnlichen Aufenthalt hat, es sei denn, das Kind würde sonst staatenlos. Die Rechtsfolge nach Satz 1 tritt nicht ein, wenn innerhalb eines Jahres nach der Geburt des Kindes ein Antrag nach § 36 des Personenstandsgesetzes auf Beurkundung der Geburt im Geburtenregister gestellt wird; zur Fristwahrung genügt es auch, wenn der Antrag in dieser Frist bei der zuständigen Auslandsvertretung eingeht. Sind beide Elternteile deutsche Staatsangehörige, so tritt die Rechtsfolge des Satzes 1 nur ein, wenn beide die dort genannten Voraussetzungen erfüllen.
+(4) Die deutsche Staatsangehörigkeit wird nicht nach Absatz 1 erworben bei Geburt im Ausland, wenn der deutsche Elternteil nach dem 31. Dezember 1999 im Ausland geboren wurde und dort seinen gewöhnlichen Aufenthalt hat, es sei denn, das Kind würde sonst staatenlos. Die Rechtsfolge nach Satz 1 tritt nicht ein, wenn innerhalb eines Jahres nach der Geburt des Kindes ein Antrag nach § 36 des Personenstandsgesetzes auf Beurkundung der Geburt im Geburtenregister gestellt wird; zur Fristwahrung genügt es auch, wenn der Antrag in dieser Frist bei der zuständigen Auslandsvertretung eingeht. Sind beide Elternteile deutsche Staatsangehörige, so tritt die Rechtsfolge des Satzes 1 nur ein, wenn beide die dort genannten Voraussetzungen erfüllen. Für den Anspruch nach Artikel 116 Absatz 2 des Grundgesetzes und nach § 15 ist die Rechtsfolge nach Satz 1 unbeachtlich.
+
+(5) Absatz 4 Satz 1 gilt nicht
+
+1. für Abkömmlinge eines deutschen Staatsangehörigen, der die deutsche Staatsangehörigkeit nach Artikel 116 Absatz 2 des Grundgesetzes oder nach § 15 erworben hat, und
+
+2. für Abkömmlinge eines deutschen Staatsangehörigen, wenn dieser ohne den Erwerb der deutschen Staatsangehörigkeit einen Anspruch nach Artikel 116 Absatz 2 des Grundgesetzes oder nach § 15 gehabt hätte.
 
 # § 5
 
-Durch die Erklärung, deutscher Staatsangehöriger werden zu wollen, erwirbt das vor dem 1. Juli 1993 geborene Kind eines deutschen Vaters und einer ausländischen Mutter die deutsche Staatsangehörigkeit, wenn
+(1) Durch die Erklärung, deutsche Staatsangehörige werden zu wollen, erwerben die nach dem Inkrafttreten des Grundgesetzes geborenen
 
-1. eine nach den deutschen Gesetzen wirksame Anerkennung oder Feststellung der Vaterschaft erfolgt ist,
+1. Kinder eines deutschen Elternteils, die durch Geburt nicht die deutsche Staatsangehörigkeit erworben haben,
 
-2. das Kind seit drei Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im Bundesgebiet hat und
+2. Kinder einer Mutter, die vor der Kindesgeburt durch Eheschließung mit einem Ausländer die deutsche Staatsangehörigkeit verloren hat,
 
-3. die Erklärung vor der Vollendung des 23. Lebensjahres abgegeben wird.
+3. Kinder, die ihre durch Geburt erworbene deutsche Staatsangehörigkeit durch eine von einem Ausländer bewirkte und nach den deutschen Gesetzen wirksame Legitimation verloren haben, und
+
+4. Abkömmlinge der Kinder nach Nummer 1 bis 3
+
+die deutsche Staatsangehörigkeit, wenn sie handlungsfähig nach § 37 Absatz 1 Satz 1 oder gesetzlich vertreten sind, es sei denn, dass sie wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von zwei Jahren oder mehr verurteilt worden sind oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist oder ein Ausschlussgrund nach § 11 vorliegt. § 4 Absatz 1 Satz 2, § 12a Absatz 2 bis 4 und § 37 Absatz 2 gelten entsprechend. Das Erklärungsrecht nach Satz 1 besteht auch, wenn unter denselben Voraussetzungen die Rechtsstellung nach Artikel 116 Absatz 1 des Grundgesetzes nicht erworben worden oder verloren gegangen ist.
+
+(2) Erklärungsberechtigt nach Absatz 1 ist nicht, wer die deutsche Staatsangehörigkeit
+
+1. nach seiner Geburt oder nach deren Verlust auf Grund einer nach den deutschen Gesetzen wirksamen Legitimation durch einen Ausländer besessen, aber wieder aufgegeben oder verloren oder ausgeschlagen hat oder nach deren Aufgabe, Verlust oder Ausschlagung als dessen Abkömmling geboren oder als Kind angenommen worden ist, oder
+
+2. nach § 4 Absatz 4 Satz 2 in Verbindung mit Absatz 1 erwerben konnte, aber nicht erworben hat oder noch erwerben kann.
+
+(3) Das Erklärungsrecht nach Absatz 1 kann nur innerhalb von zehn Jahren nach Inkrafttreten dieses Gesetzes ausgeübt werden.
+
+(4) Über den Erwerb der deutschen Staatsangehörigkeit durch Erklärung wird eine Urkunde ausgestellt.
 
 # § 6
 
-Mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch einen Deutschen erwirbt das Kind, das im Zeitpunkt des Annahmeantrags das achtzehnte Lebensjahr noch nicht vollendet hat, die Staatsangehörigkeit. Der Erwerb der Staatsangehörigkeit erstreckt sich auf die Abkömmlinge des Kindes.
+Mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch einen Deutschen erwirbt das Kind, das im Zeitpunkt des Annahmeantrags das achtzehnte Lebensjahr noch nicht vollendet hat, die deutsche Staatsangehörigkeit. Der Erwerb der deutschen Staatsangehörigkeit erstreckt sich auf die Abkömmlinge des Kindes. Beruht die Annahme als Kind auf einer ausländischen Entscheidung, setzt der Erwerb der deutschen Staatsangehörigkeit voraus, dass das Eltern-Kind-Verhältnis des Kindes zu seinen bisherigen Eltern durch die Annahme erloschen ist und das Annahmeverhältnis einem nach den deutschen Sachvorschriften begründeten Annahmeverhältnis gleichsteht. Liegen die Voraussetzungen des Satzes 3 nicht vor und wird eine Umwandlung des Annahmeverhältnisses nach § 3 des Adoptionswirkungsgesetzes ausgesprochen, gilt Satz 1 entsprechend.
 
 # § 7
 
@@ -75,15 +93,13 @@ Spätaussiedler und die in den Aufnahmebescheid einbezogenen Familienangehörige
 
 seine Einordnung in die deutschen Lebensverhältnisse gewährleistet ist.
 
-(2) Von den Voraussetzungen des Absatzes 1 Satz 1 Nr. 2 und 4 kann aus Gründen des öffentlichen Interesses oder zur Vermeidung einer besonderen Härte abgesehen werden.
+(2) Von den Voraussetzungen des Absatzes 1 Nummer 2 und 4 kann aus Gründen des öffentlichen Interesses oder zur Vermeidung einer besonderen Härte abgesehen werden.
 
 # § 9
 
-(1) Ehegatten oder Lebenspartner Deutscher sollen unter den Voraussetzungen des § 8 eingebürgert werden, wenn sie ihre bisherige Staatsangehörigkeit verlieren oder aufgeben oder ein Grund für die Hinnahme von Mehrstaatigkeit nach Maßgabe von § 12 vorliegt, es sei denn, daß sie nicht über ausreichende Kenntnisse der deutschen Sprache verfügen (§ 10 Abs. 1 Satz 1 Nr. 6 und Abs. 4) und keinen Ausnahmegrund nach § 10 Abs. 6 erfüllen.
+(1) Ehegatten oder eingetragene Lebenspartner Deutscher sollen unter den Voraussetzungen des § 10 Absatz 1 eingebürgert werden, wenn sie seit drei Jahren ihren rechtmäßigen gewöhnlichen Aufenthalt im Inland haben und die Ehe oder eingetragene Lebenspartnerschaft seit zwei Jahren besteht. Die Aufenthaltsdauer nach Satz 1 kann aus Gründen des öffentlichen Interesses verkürzt werden, wenn die Ehe oder eingetragene Lebenspartnerschaft seit drei Jahren besteht. Minderjährige Kinder von Ehegatten oder eingetragenen Lebenspartnern Deutscher können unter den Voraussetzungen des § 10 Absatz 1 mit eingebürgert werden, auch wenn sie sich noch nicht seit drei Jahren rechtmäßig im Inland aufhalten. § 10 Absatz 3a, 4, 5 und 6 gilt entsprechend.
 
-(2) Die Regelung des Absatzes 1 gilt auch, wenn die Einbürgerung bis zum Ablauf eines Jahres nach dem Tod des deutschen Ehegatten oder nach Rechtskraft des die Ehe auflösenden Urteils beantragt wird und dem Antragsteller die Sorge für die Person eines Kindes aus der Ehe zusteht, das bereits die deutsche Staatsangehörigkeit besitzt.
-
-(3) (weggefallen)
+(2) Die Regelung des Absatzes 1 gilt auch, wenn die Einbürgerung bis zum Ablauf eines Jahres nach dem Tod des deutschen Ehegatten oder eingetragenen Lebenspartners oder nach der Rechtskraft des die Ehe oder eingetragene Lebenspartnerschaft beendenden Beschlusses beantragt wird und der Antragsteller als sorgeberechtigter Elternteil mit einem minderjährigen Kind aus der Ehe oder eingetragenen Lebenspartnerschaft in einer familiären Gemeinschaft lebt, das bereits die deutsche Staatsangehörigkeit besitzt.
 
 # § 10
 
@@ -99,7 +115,7 @@ c) durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen aus
 
 oder glaubhaft macht, dass er sich von der früheren Verfolgung oder Unterstützung derartiger Bestrebungen abgewandt hat,
 
-2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
+2. ein unbefristetes Aufenthaltsrecht oder als Staatsangehöriger der Schweiz oder dessen Familienangehöriger eine Aufenthaltserlaubnis auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die in den §§ 16a, 16b, 16d, 16e, 16f, 17, 18d, 18f, 19, 19b, 19e, 20, 22, 23 Absatz 1, den §§ 23a, 24, 25 Absatz 3 bis 5 des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 3. den Lebensunterhalt für sich und seine unterhaltsberechtigten Familienangehörigen ohne Inanspruchnahme von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch bestreiten kann oder deren Inanspruchnahme nicht zu vertreten hat,
 
@@ -113,11 +129,13 @@ oder glaubhaft macht, dass er sich von der früheren Verfolgung oder Unterstütz
 
 seine Einordnung in die deutschen Lebensverhältnisse gewährleistet, insbesondere er nicht gleichzeitig mit mehreren Ehegatten verheiratet ist. Die Voraussetzungen nach Satz 1 Nr. 1 und 7 müssen Ausländer nicht erfüllen, die nicht handlungsfähig nach § 37 Absatz 1 Satz 1 sind.
 
-(2) Der Ehegatte und die minderjährigen Kinder des Ausländers können nach Maßgabe des Absatzes 1 mit eingebürgert werden, auch wenn sie sich noch nicht seit acht Jahren rechtmäßig im Inland aufhalten.
+(2) Der Ehegatte oder eingetragene Lebenspartner und die minderjährigen Kinder des Ausländers können nach Maßgabe des Absatzes 1 mit eingebürgert werden, auch wenn sie sich noch nicht seit acht Jahren rechtmäßig im Inland aufhalten.
 
-(3) Weist ein Ausländer durch die Bescheinigung des Bundesamtes für Migration und Flüchtlinge die erfolgreiche Teilnahme an einem Integrationskurs nach, wird die Frist nach Absatz 1 auf sieben Jahre verkürzt. Bei Vorliegen besonderer Integrationsleistungen, insbesondere beim Nachweis von Sprachkenntnissen, die die Voraussetzungen des Absatzes 1 Satz 1 Nr. 6 übersteigen, kann sie auf sechs Jahre verkürzt werden.
+(3) Weist ein Ausländer durch die Bescheinigung des Bundesamtes für Migration und Flüchtlinge die erfolgreiche Teilnahme an einem Integrationskurs nach, wird die Frist nach Absatz 1 auf sieben Jahre verkürzt. Bei Vorliegen besonderer Integrationsleistungen, insbesondere beim Nachweis von Sprachkenntnissen, die die Voraussetzungen des Absatzes 1 Satz 1 Nummer 6 übersteigen, von besonders guten schulischen, berufsqualifizierenden oder beruflichen Leistungen oder von bürgerschaftlichem Engagement, kann sie auf bis zu sechs Jahre verkürzt werden.
 
-(4) Die Voraussetzungen des Absatzes 1 Satz 1 Nr. 6 liegen vor, wenn der Ausländer die Anforderungen der Sprachprüfung zum Zertifikat Deutsch (B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen) in mündlicher und schriftlicher Form erfüllt. Bei einem minderjährigen Kind, das im Zeitpunkt der Einbürgerung das 16. Lebensjahr noch nicht vollendet hat, sind die Voraussetzungen des Absatzes 1 Satz 1 Nr. 6 bei einer altersgemäßen Sprachentwicklung erfüllt.
+(3a) Lässt das Recht des ausländischen Staates das Ausscheiden aus dessen Staatsangehörigkeit erst nach der Einbürgerung oder nach dem Erreichen eines bestimmten Lebensalters zu, wird die Einbürgerung abweichend von Absatz 1 Satz 1 Nummer 4 unter vorübergehender Hinnahme von Mehrstaatigkeit vorgenommen und mit einer Auflage versehen, in der der Ausländer verpflichtet wird, die zum Ausscheiden aus der ausländischen Staatsangehörigkeit erforderlichen Handlungen unverzüglich nach der Einbürgerung oder nach Erreichen des maßgeblichen Lebensalters vorzunehmen. Die Auflage ist aufzuheben, wenn nach der Einbürgerung ein Grund nach § 12 für die dauernde Hinnahme von Mehrstaatigkeit entstanden ist.
+
+(4) Die Voraussetzungen des Absatzes 1 Satz 1 Nr. 6 liegen vor, wenn der Ausländer die Anforderungen einer Sprachprüfung der Stufe B 1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erfüllt. Bei einem minderjährigen Kind, das im Zeitpunkt der Einbürgerung das 16. Lebensjahr noch nicht vollendet hat, sind die Voraussetzungen des Absatzes 1 Satz 1 Nr. 6 bei einer altersgemäßen Sprachentwicklung erfüllt.
 
 (5) Die Voraussetzungen des Absatzes 1 Satz 1 Nr. 7 sind in der Regel durch einen erfolgreichen Einbürgerungstest nachgewiesen. Zur Vorbereitung darauf werden Einbürgerungskurse angeboten; die Teilnahme daran ist nicht verpflichtend.
 
@@ -165,7 +183,7 @@ Satz 1 Nr. 2 gilt entsprechend für Ausländer im Sinne des § 1 Abs. 2 des Aufe
 
 3. Verurteilungen zu Freiheitsstrafe bis zu drei Monaten, die zur Bewährung ausgesetzt und nach Ablauf der Bewährungszeit erlassen worden ist.
 
-Bei mehreren Verurteilungen zu Geld- oder Freiheitsstrafen im Sinne des Satzes 1 Nr. 2 und 3 sind diese zusammenzuzählen, es sei denn, es wird eine niedrigere Gesamtstrafe gebildet; treffen Geld- und Freiheitsstrafe zusammen, entspricht ein Tagessatz einem Tag Freiheitsstrafe. Übersteigt die Strafe oder die Summe der Strafen geringfügig den Rahmen nach den Sätzen 1 und 2, so wird im Einzelfall entschieden, ob diese außer Betracht bleiben kann. Ist eine Maßregel der Besserung und Sicherung nach § 61 Nr. 5 oder 6 des Strafgesetzbuches angeordnet worden, so wird im Einzelfall entschieden, ob die Maßregel der Besserung und Sicherung außer Betracht bleiben kann.
+Satz 1 findet keine Anwendung, wenn der Ausländer wegen einer rechtswidrigen antisemitischen, rassistischen, fremdenfeindlichen oder sonstigen menschenverachtenden Tat im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches zu einer Freiheits-, Geld- oder Jugendstrafe verurteilt und ein solcher Beweggrund im Rahmen des Urteils festgestellt worden ist. Bei mehreren Verurteilungen zu Geld- oder Freiheitsstrafen im Sinne des Satzes 1 Nr. 2 und 3 sind diese zusammenzuzählen, es sei denn, es wird eine niedrigere Gesamtstrafe gebildet; treffen Geld- und Freiheitsstrafe zusammen, entspricht ein Tagessatz einem Tag Freiheitsstrafe. Übersteigt die Strafe oder die Summe der Strafen geringfügig den Rahmen nach den Sätzen 1 und 3, so wird im Einzelfall entschieden, ob diese außer Betracht bleiben kann. Ist eine Maßregel der Besserung und Sicherung nach § 61 Nr. 5 oder 6 des Strafgesetzbuches angeordnet worden, so wird im Einzelfall entschieden, ob die Maßregel der Besserung und Sicherung außer Betracht bleiben kann.
 
 (2) Ausländische Verurteilungen zu Strafen sind zu berücksichtigen, wenn die Tat im Inland als strafbar anzusehen ist, die Verurteilung in einem rechtsstaatlichen Verfahren ausgesprochen worden ist und das Strafmaß verhältnismäßig ist. Eine solche Verurteilung kann nicht mehr berücksichtigt werden, wenn sie nach dem Bundeszentralregistergesetz zu tilgen wäre. Absatz 1 gilt entsprechend.
 
@@ -175,11 +193,11 @@ Bei mehreren Verurteilungen zu Geld- oder Freiheitsstrafen im Sinne des Satzes 1
 
 # § 12b
 
-(1) Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu sechs Monaten im Ausland nicht unterbrochen. Bei längeren Auslandsaufenthalten besteht er fort, wenn der Ausländer innerhalb der von der Ausländerbehörde bestimmten Frist wieder eingereist ist. Gleiches gilt, wenn die Frist lediglich wegen Erfüllung der gesetzlichen Wehrpflicht im Herkunftsstaat überschritten wird und der Ausländer innerhalb von drei Monaten nach der Entlassung aus dem Wehr- oder Ersatzdienst wieder einreist.
+(1) Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu sechs Monaten im Ausland nicht unterbrochen. Bei längeren Auslandsaufenthalten besteht er fort, wenn der Ausländer innerhalb der von der Ausländerbehörde bestimmten Frist wieder eingereist ist. Gleiches gilt, wenn die Frist lediglich wegen Erfüllung der gesetzlichen Wehrpflicht im Herkunftsstaat überschritten wird und der Ausländer innerhalb von drei Monaten nach der Entlassung aus dem Wehr- oder Ersatzdienst wieder einreist. Anstelle von Satz 1 bis 3 gilt für Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union, für Staatsangehörige der EWR-Staaten, für ihre jeweiligen Familienangehörigen und für die ihnen jeweils nahestehenden Personen mit einem Aufenthaltsrecht nach § 3a des Freizügigkeitsgesetzes/EU sowie für Personen, die ein unionsrechtliches Aufenthaltsrecht nach § 12a des Freizügigkeitsgesetzes/EU besitzen, und Personen mit einem in § 16 des Freizügigkeitsgesetzes/EU bezeichneten Aufenthaltsrecht, § 4a Absatz 6 des Freizügigkeitsgesetzes/EU entsprechend.
 
-(2) Hat der Ausländer sich aus einem seiner Natur nach nicht vorübergehenden Grund länger als sechs Monate im Ausland aufgehalten, kann die frühere Aufenthaltszeit im Inland bis zu fünf Jahren auf die für die Einbürgerung erforderliche Aufenthaltsdauer angerechnet werden.
+(2) Hat der Ausländer sich länger als sechs Monate im Ausland aufgehalten und liegt keine der Voraussetzungen des Absatzes 1 Satz 2 bis 4 vor, kann die frühere Aufenthaltszeit im Inland bis zu fünf Jahren auf die für die Einbürgerung erforderliche Aufenthaltsdauer angerechnet werden.
 
-(3) Unterbrechungen der Rechtmäßigkeit des Aufenthalts bleiben außer Betracht, wenn sie darauf beruhen, dass der Ausländer nicht rechtzeitig die erstmals erforderliche Erteilung oder die Verlängerung des Aufenthaltstitels beantragt hat.
+(3) Unterbrechungen der Rechtmäßigkeit des Aufenthalts bleiben außer Betracht, wenn sie darauf beruhen, dass der Ausländer nicht rechtzeitig die erstmals erforderliche Erteilung oder die Verlängerung des Aufenthaltstitels beantragt hat. Für Unterbrechungen der Rechtmäßigkeit des Aufenthalts aus anderen Gründen gilt Absatz 2 entsprechend.
 
 # § 13
 
@@ -187,11 +205,21 @@ Ein ehemaliger Deutscher und seine minderjährigen Kinder, die ihren gewöhnlich
 
 # § 14
 
-Ein Ausländer, der seinen gewöhnlichen Aufenthalt im Ausland hat, kann unter den sonstigen Voraussetzungen der §§ 8 und 9 eingebürgert werden, wenn Bindungen an Deutschland bestehen, die eine Einbürgerung rechtfertigen.
+Ein Ausländer, der seinen gewöhnlichen Aufenthalt im Ausland hat, kann unter den Voraussetzungen des § 8 eingebürgert werden, wenn Bindungen an Deutschland bestehen, die eine Einbürgerung rechtfertigen. Ist der Ausländer Ehegatte oder eingetragener Lebenspartner eines Deutschen, kann er nach Satz 1 auch eingebürgert werden, wenn der Auslandsaufenthalt eines der Ehegatten oder eingetragenen Lebenspartner im öffentlichen Interesse liegt.
 
 # § 15
 
-(weggefallen)
+Personen, die im Zusammenhang mit Verfolgungsmaßnahmen aus den in Artikel 116 Absatz 2 Satz 1 des Grundgesetzes aufgeführten Gründen in der Zeit vom 30. Januar 1933 bis zum 8. Mai 1945
+
+1. die deutsche Staatsangehörigkeit vor dem 26. Februar 1955 aufgegeben oder verloren haben,
+
+2. von einem gesetzlichen Erwerb der deutschen Staatsangehörigkeit durch Eheschließung, Legitimation oder Sammeleinbürgerung deutscher Volkszugehöriger ausgeschlossen waren,
+
+3. nach Antragstellung nicht eingebürgert worden sind oder allgemein von einer Einbürgerung, die bei einer Antragstellung sonst möglich gewesen wäre, ausgeschlossen waren oder
+
+4. ihren gewöhnlichen Aufenthalt in Deutschland, wenn dieser bereits vor dem 30. Januar 1933 oder als Kind auch nach diesem Zeitpunkt begründet worden war, aufgegeben oder verloren haben,
+
+und ihre Abkömmlinge sind auf Antrag einzubürgern, wenn sie handlungsfähig nach § 37 Absatz 1 Satz 1 oder gesetzlich vertreten sind, es sei denn, dass sie wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von zwei Jahren oder mehr verurteilt worden sind oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist; § 12a Absatz 1 findet keine Anwendung. Einbürgerungsberechtigt nach Satz 1 ist nicht, wer nach dem 8. Mai 1945 die deutsche Staatsangehörigkeit bereits erworben, aber wieder aufgegeben oder verloren hat, oder nach deren Aufgabe oder Verlust als dessen Abkömmling geboren oder als Kind angenommen worden ist. Dem Einbürgerungsanspruch steht der Verlust der nach dem 8. Mai 1945 erworbenen deutschen Staatsangehörigkeit nicht entgegen, wenn dieser durch die Eheschließung mit einem Ausländer oder eine nach den deutschen Gesetzen wirksame Legitimation durch einen Ausländer eingetreten ist.
 
 # § 16
 
@@ -221,7 +249,7 @@ Die Einbürgerung wird wirksam mit der Aushändigung der von der zuständigen Ve
 
 # § 18
 
-Ein Deutscher wird auf seinen Antrag aus der Staatsangehörigkeit entlassen, wenn er den Erwerb einer ausländischen Staatsangehörigkeit beantragt und ihm die zuständige Stelle die Verleihung zugesichert hat.
+Ein Deutscher wird auf seinen Antrag aus der deutschen Staatsangehörigkeit entlassen, wenn er den Erwerb einer ausländischen Staatsangehörigkeit beantragt und ihm die zuständige Stelle die Verleihung zugesichert hat.
 
 # § 19
 
@@ -271,7 +299,7 @@ Die Entlassung gilt als nicht erfolgt, wenn der Entlassene die ihm zugesicherte 
 
 # § 27
 
-Ein minderjähriger Deutscher verliert mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch einen Ausländer die Staatsangehörigkeit, wenn er dadurch die Staatsangehörigkeit des Annehmenden erwirbt. Der Verlust erstreckt sich auf seine Abkömmlinge, wenn auch der Erwerb der Staatsangehörigkeit durch den Angenommenen nach Satz 1 sich auf seine Abkömmlinge erstreckt. Der Verlust nach Satz 1 oder Satz 2 tritt nicht ein, wenn der Angenommene oder seine Abkömmlinge mit einem deutschen Elternteil verwandt bleiben.
+Ein minderjähriger Deutscher verliert mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch einen Ausländer die deutsche Staatsangehörigkeit, wenn er dadurch die Staatsangehörigkeit des Annehmenden erwirbt. Der Verlust erstreckt sich auf seine Abkömmlinge, wenn auch der Erwerb der Staatsangehörigkeit durch den Angenommenen nach Satz 1 sich auf seine Abkömmlinge erstreckt. Der Verlust nach Satz 1 oder Satz 2 tritt nicht ein, wenn der Angenommene oder seine Abkömmlinge mit einem deutschen Elternteil verwandt bleiben oder ihren gewöhnlichen Aufenthalt im Inland haben. § 25 Absatz 1 Satz 2 gilt entsprechend.
 
 # § 28
 
@@ -327,7 +355,7 @@ Als im Inland aufgewachsen nach Satz 1 gilt auch, wer im Einzelfall einen vergle
 
 # § 30
 
-(1) Das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit wird auf Antrag von der Staatsangehörigkeitsbehörde festgestellt. Die Feststellung ist in allen Angelegenheiten verbindlich, für die das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit rechtserheblich ist. Bei Vorliegen eines öffentlichen Interesses kann die Feststellung auch von Amts wegen erfolgen.
+(1) Das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit wird bei Glaubhaftmachung eines berechtigten Interesses auf Antrag von der Staatsangehörigkeitsbehörde festgestellt. Die Feststellung ist in allen Angelegenheiten verbindlich, für die das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit rechtserheblich ist. Bei Vorliegen eines öffentlichen Interesses kann die Feststellung auch von Amts wegen erfolgen.
 
 (2) Für die Feststellung des Bestehens der deutschen Staatsangehörigkeit ist es erforderlich, aber auch ausreichend, wenn durch Urkunden, Auszüge aus den Melderegistern oder andere schriftliche Beweismittel mit hinreichender Wahrscheinlichkeit nachgewiesen ist, dass die deutsche Staatsangehörigkeit erworben worden und danach nicht wieder verloren gegangen ist. § 3 Abs. 2 bleibt unberührt.
 
@@ -342,6 +370,10 @@ Staatsangehörigkeitsbehörden und Auslandsvertretungen dürfen personenbezogene
 (1) Öffentliche Stellen haben den in § 31 genannten Stellen auf Ersuchen personenbezogene Daten zu übermitteln, soweit die Kenntnis dieser Daten zur Erfüllung der in § 31 genannten Aufgaben erforderlich ist. Öffentliche Stellen haben der zuständigen Staatsangehörigkeitsbehörde diese Daten auch ohne Ersuchen zu übermitteln, soweit die Übermittlung aus Sicht der öffentlichen Stelle für die Entscheidung der Staatsangehörigkeitsbehörde über ein anhängiges Einbürgerungsverfahren oder den Verlust oder Nichterwerb der deutschen Staatsangehörigkeit erforderlich ist. Dies gilt bei Einbürgerungsverfahren insbesondere für die den Ausländerbehörden nach § 87 Absatz 4 des Aufenthaltsgesetzes bekannt gewordenen Daten über die Einleitung von Straf- und Auslieferungsverfahren sowie die Erledigung von Straf-, Bußgeld- und Auslieferungsverfahren. Die Daten nach Satz 3 sind unverzüglich an die zuständige Staatsangehörigkeitsbehörde zu übermitteln.
 
 (2) Die Übermittlung personenbezogener Daten nach Absatz 1 unterbleibt, soweit besondere gesetzliche Verarbeitungsregelungen entgegenstehen.
+
+# § 32a
+
+§ 88 Absatz 3 Satz 1 des Aufenthaltsgesetzes gilt für Einbürgerungsverfahren entsprechend.
 
 # § 33
 
@@ -447,21 +479,48 @@ Staatsangehörigkeitsbehörden und Auslandsvertretungen dürfen personenbezogene
 
 # § 38
 
-(1) Für Amtshandlungen in Staatsangehörigkeitsangelegenheiten werden, soweit gesetzlich nichts anderes bestimmt ist, Kosten (Gebühren und Auslagen) erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen in Staatsangehörigkeitsangelegenheiten werden, soweit gesetzlich nichts anderes bestimmt ist, Gebühren und Auslagen erhoben.
 
-(2) Die Gebühr für die Einbürgerung nach diesem Gesetz beträgt 255 Euro. Sie ermäßigt sich für ein minderjähriges Kind, das miteingebürgert wird und keine eigenen Einkünfte im Sinne des Einkommensteuergesetzes hat, auf 51 Euro. Der Erwerb der deutschen Staatsangehörigkeit nach § 5 und die Einbürgerung von ehemaligen Deutschen, die durch Eheschließung mit einem Ausländer die deutsche Staatsangehörigkeit verloren haben, ist gebührenfrei. Die Feststellung des Bestehens oder Nichtbestehens der deutschen Staatsangehörigkeit nach § 29 Abs. 6 und nach § 30 Abs. 1 Satz 3 sowie die Erteilung der Beibehaltungsgenehmigung nach § 29 Abs. 4 sind gebührenfrei. Von der Gebühr nach Satz 1 kann aus Gründen der Billigkeit oder des öffentlichen Interesses Gebührenermäßigung oder -befreiung gewährt werden.
+(2) Gebühren werden erhoben für:
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die weiteren gebührenpflichtigen Tatbestände zu bestimmen und die Gebührensätze sowie die Auslagenerstattung zu regeln. Die Gebühr darf für die Entlassung 51 Euro, für die Beibehaltungsgenehmigung 255 Euro, für die Staatsangehörigkeitsurkunde und für sonstige Bescheinigungen 51 Euro nicht übersteigen.
+<table style="border: none;"><colgroup><col style="width: 6%" /><col style="width: 69%" /><col style="width: 26%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;">die Einbürgerung in Höhe von</td><td style="text-align: right;">255 Euro</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">die Entlassung in Höhe von</td><td style="text-align: right;">51 Euro</td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">die Beibehaltungsgenehmigung in Höhe von</td><td style="text-align: right;"><br />
+255 Euro</td></tr><tr class="even"><td style="text-align: left;">4.</td><td style="text-align: left;">die Feststellung des Bestehens oder Nichtbestehens der deutschen Staatsangehörigkeit auf Antrag und in Höhe von</td><td style="text-align: right;"><br />
+<br />
+<br />
+51 Euro</td></tr><tr class="odd"><td style="text-align: left;">5.</td><td style="text-align: left;">die Ausstellung einer sonstigen Bescheinigung in Höhe von</td><td style="text-align: right;"><br />
+mindestens 5 Euro</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">und</td><td style="text-align: right;">höchstens 51 Euro.</td></tr></tbody></table>
+
+Die Gebühr ermäßigt sich für ein minderjähriges Kind, das miteingebürgert wird und das keine eigenen Einkünfte im Sinne des Einkommensteuergesetzes hat, auf 51 Euro. Für den Widerruf oder die Rücknahme einer beantragten Leistung nach Satz 1, soweit der Betroffene dazu Anlass gegeben hat, die Ablehnung oder die Rücknahme eines Antrages auf Vornahme einer solchen Leistung nach Beginn der sachlichen Bearbeitung sowie die Zurückweisung oder die Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung wird eine Gebühr in Höhe von 25 Euro bis zu dem Betrag erhoben, der als Gebühr für die Vornahme der beantragten Leistung vorgesehen ist oder zu erheben wäre.
+
+(3) Gebührenfrei sind:
+
+1. die Einbürgerung nach Artikel 116 Absatz 2 Satz 1 des Grundgesetzes sowie die Bescheinigung der Staatsangehörigkeit nach Artikel 116 Absatz 2 Satz 2 des Grundgesetzes,
+
+2. die Einbürgerung nach § 15,
+
+3. die Einbürgerung von ehemaligen Deutschen, die durch Eheschließung mit einem Ausländer die deutsche Staatsangehörigkeit verloren haben,
+
+4. der Erklärungserwerb nach § 5,
+
+5. der Verzicht,
+
+6. die Beibehaltungsgenehmigung nach § 29 Absatz 4 und
+
+7. die Feststellung des Bestehens oder Nichtbestehens der deutschen Staatsangehörigkeit von Amts wegen nach § 30 Absatz 1 Satz 3 und nach § 29 Absatz 5 Satz 1 und 6.
+
+(4) Von den Gebühren nach Absatz 2 kann aus Gründen der Billigkeit oder des öffentlichen Interesses Gebührenermäßigung oder -befreiung gewährt werden.
 
 # § 38a
 
 Eine Ausstellung von Urkunden in Staatsangehörigkeitssachen in elektronischer Form ist ausgeschlossen.
 
-# §§ 39 und 40 – (weggefallen)
+# § 39
 
-# § 40a
+Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen über die formalen Anforderungen an die Einbürgerungs-, Entlassungs- und Verzichtsurkunden, die Urkunde über den Erwerb der deutschen Staatsangehörigkeit durch Erklärung, dem Staatsangehörigkeitsausweis sowie der Beibehaltungsgenehmigung nach § 25 Absatz 2 und deren Gültigkeitsdauer.
 
-Wer am 1. August 1999 Deutscher im Sinne des Artikels 116 Abs. 1 des Grundgesetzes ist, ohne die deutsche Staatsangehörigkeit zu besitzen, erwirbt an diesem Tag die deutsche Staatsangehörigkeit. Für einen Spätaussiedler, seinen nichtdeutschen Ehegatten und seine Abkömmlinge im Sinne von § 4 des Bundesvertriebenengesetzes gilt dies nur dann, wenn ihnen vor diesem Zeitpunkt eine Bescheinigung gemäß § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes erteilt worden ist.
+# § 40 – (weggefallen)
+
+# § 40a – (weggefallen)
 
 # § 40b
 

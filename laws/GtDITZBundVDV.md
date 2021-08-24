@@ -54,6 +54,10 @@ verordnet das Bundesministerium der Finanzen:
 
 (2) Der Vorbereitungsdienst dauert in der Regel drei Jahre. Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheidet das Informationstechnikzentrum Bund im Benehmen mit der Universität.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziele des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten, die für die Erfüllung der Aufgaben des gehobenen technischen Verwaltungsdienstes im Informationstechnikzentrum Bund erforderlich sind.
@@ -268,6 +272,12 @@ Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten des Bac
 
 Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte sein, die über eine entsprechende Qualifikation verfügen.
 
+(2a) Das Informationstechnikzentrum Bund kann festlegen, dass bis zum 31. Dezember 2022 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren Dienstes des Bundes als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder zwei Beamten des gehobenen Dienstes des Bundes.
+
 (3) Das Informationstechnikzentrum Bund bestellt für jeden Einstellungsjahrgang die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern. Bei der Besetzung der Auswahlkommission sind Frauen und Männer in einem ausgewogenen Verhältnis zu berücksichtigen.
 
 (4) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
@@ -277,6 +287,8 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 # § 10 – Durchführung des Auswahlverfahrens, Täuschungen
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann ganz oder teilweise mit Unterstützung von Informationstechnik durchgeführt werden. Mit der Durchführung des schriftlichen Teils können Dritte betraut werden. Die Gesamtverantwortung für die Bewertung der Leistungen trägt die Auswahlkommission.
+
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Das Informationstechnikzentrum Bund legt die Dauer, die zu bearbeitenden Aufgaben und den Ablauf des Auswahlverfahrens, die Bewertungs- und Gewichtungssystematik sowie die für das Bestehen erforderlichen Mindestpunktzahlen in einem Auswahlkonzept fest.
 

@@ -7,6 +7,12 @@
 
 1. Art, Herkunft und Zahl der verwendeten Wirbeltiere oder Kopffüßer,
 
+1a. Art, Herkunft und Zahl der Tiere, einschließlich genetisch veränderter Tiere, die
+
+a) zur Verwendung in Tierversuchen nach § 7 Absatz 2 des Tierschutzgesetzes oder für wissenschaftliche Untersuchungen nach § 4 Absatz 3 des Tierschutzgesetzes gezüchtet und getötet worden sind sowie
+
+b) nicht in solchen Tierversuchen oder für solche wissenschaftlichen Untersuchungen verwendet worden sind,
+
 2. Zweck und Art der Tierversuche und
 
 3. den Schweregrad der Tierversuche nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere (ABl. L 276 vom 20.10.2010, S. 33)
@@ -17,7 +23,7 @@ nach Maßgabe des Absatzes 2 zu melden. Satz 1 Nummer 1 und 2 gilt entsprechend 
 
 # § 2 – Übermittlungsverfahren
 
-Die zuständige Behörde übermittelt alle in einem Land für ein Kalenderjahr gemachten Meldungen in anonymisierter Form jeweils bis zum 30. Juni des folgenden Jahres dem Bundesministerium für Ernährung und Landwirtschaft.
+Die zuständige Behörde übermittelt alle in einem Land für ein Kalenderjahr gemachten Meldungen in anonymisierter Form jeweils bis zum 30. Juni des folgenden Jahres dem Bundesinstitut für Risikobewertung.
 
 # § 3 – Ordnungswidrigkeiten
 
@@ -88,44 +94,49 @@ Spalte E:
 Es ist eine der folgenden Tierarten anzugeben:  
   
 
-|                                                                                                     |
-|:----------------------------------------------------------------------------------------------------|
-| (A1) Mäuse (Mus musculus)                                                                           |
-| (A2) Ratten (Rattus norvegicus)                                                                     |
-| (A3) Meerschweinchen (Cavia porcellus)                                                              |
-| (A4) Goldhamster (Mesocricetus auratus)                                                             |
-| (A5) Chinesischer Grauhamster (Cricetulus griseus)                                                  |
-| (A6) Mongolische Rennmäuse (Meriones unguiculatus)                                                  |
-| (A7) Andere Nager (andere Rodentia)                                                                 |
-| (A8) Kaninchen (Oryctolagus cuniculus)                                                              |
-| (A9) Katzen (Felis catus)                                                                           |
-| (A10) Hunde (Canis familiaris)                                                                      |
-| (A11) Frettchen (Mustela putorius furo)                                                             |
-| (A12) Andere Fleischfresser (andere Carnivora)                                                      |
-| (A13) Pferde, Esel und Kreuzungen (Equidae)                                                         |
-| (A14) Schweine (Sus scrofa domesticus)                                                              |
-| (A15) Ziegen (Capra aegagrus hircus)                                                                |
-| (A16) Schafe (Ovis aries)                                                                           |
-| (A17) Rinder (Bos primigenius)                                                                      |
-| (A18) Halbaffen (Prosimia)                                                                          |
-| (A19) Marmosetten und Tamarine (z. B. Callithrix jacchus)                                           |
-| (A20) Javaneraffen (Macaca fascicularis)                                                            |
-| (A21) Rhesusaffen (Macaca mulatta)                                                                  |
-| (A22) Grüne Meerkatzen (Chlorocebus spp. (in der Regel pygerythrus oder sabaeus))                   |
-| (A23) Paviane (Papio spp.)                                                                          |
-| (A24) Totenkopfaffen (z. B. Saimiri sciureus)                                                       |
-| (A25) Andere Arten von nicht menschlichen Primaten (andere Arten von Ceboidea und Cercopithecoidea) |
-| (A26) Menschenaffen (Hominoidea)                                                                    |
-| (A27) Andere Säugetiere (andere Mammalia)                                                           |
-| (A28) Haushühner (Gallus gallus domesticus)                                                         |
-| (A29) Andere Vögel (andere Aves)                                                                    |
-| (A30) Reptilien (Reptilia)                                                                          |
-| (A31) Frösche (Rana temporaria und Rana pipiens)                                                    |
-| (A32) Krallenfrösche (Xenopus laevis und Xenopus tropicalis)                                        |
-| (A33) Andere Amphibien (andere Amphibia)                                                            |
-| (A34) Zebrabärblinge (Danio rerio)                                                                  |
-| (A35) Andere Fische (andere Pisces)                                                                 |
-| (A36) Kopffüßer (Cephalopoda)                                                                       |
+|                                                                                   |
+|:----------------------------------------------------------------------------------|
+| (A1) Mäuse (Mus musculus)                                                         |
+| (A2) Ratten (Rattus norvegicus)                                                   |
+| (A3) Meerschweinchen (Cavia porcellus)                                            |
+| (A4) Goldhamster (Mesocricetus auratus)                                           |
+| (A5) Chinesischer Grauhamster (Cricetulus griseus)                                |
+| (A6) Mongolische Rennmäuse (Meriones unguiculatus)                                |
+| (A7) Andere Nager (andere Rodentia)                                               |
+| (A8) Kaninchen (Oryctolagus cuniculus)                                            |
+| (A9) Katzen (Felis catus)                                                         |
+| (A10) Hunde (Canis familiaris)                                                    |
+| (A11) Frettchen (Mustela putorius furo)                                           |
+| (A12) Andere Fleischfresser (andere Carnivora)                                    |
+| (A13) Pferde, Esel und Kreuzungen (Equidae)                                       |
+| (A14) Schweine (Sus scrofa domesticus)                                            |
+| (A15) Ziegen (Capra aegagrus hircus)                                              |
+| (A16) Schafe (Ovis aries)                                                         |
+| (A17) Rinder (Bos taurus)                                                         |
+| (A18) Halbaffen (Prosimia)                                                        |
+| (A19) Marmosetten und Tamarine (zum Beispiel Callithrix jacchus)                  |
+| (A20) Javaneraffen (Macaca fascicularis)                                          |
+| (A21) Rhesusaffen (Macaca mulatta)                                                |
+| (A22) Grüne Meerkatzen (Chlorocebus spp. (in der Regel pygerythrus oder sabaeus)) |
+| (A23) Paviane (Papio spp.)                                                        |
+| (A24) Totenkopfaffen (zum Beispiel Saimiri sciureus)                              |
+| (A25-1) Andere Arten von Altweltaffen (andere Arten von Cercopithecoidea)         |
+| (A25-2) Andere Arten von Neuweltaffen (andere Arten von Ceboidea)                 |
+| (A26) Menschenaffen (Hominoidea)                                                  |
+| (A27) Andere Säugetiere (andere Mammalia)                                         |
+| (A28) Haushühner (Gallus gallus domesticus)                                       |
+| (A29) Andere Vögel (andere Aves)                                                  |
+| (A30) Reptilien (Reptilia)                                                        |
+| (A31) Frösche (Rana temporaria und Rana pipiens)                                  |
+| (A32) Krallenfrösche (Xenopus laevis und Xenopus tropicalis)                      |
+| (A33) Andere Amphibien (andere Amphibia)                                          |
+| (A34) Zebrafische (Danio rerio)                                                   |
+| (A35) Andere Fische (andere Pisces)                                               |
+| (A36) Kopffüßer (Cephalopoda)                                                     |
+| (A37) Truthühner (Meleagris gallopavo)                                            |
+| (A38) Wolfsbarsch (Arten von Familien wie Serranidae, Moronidae)                  |
+| (A39) Lachse, Forellen, Saiblinge und Äschen (Salmonidae)                         |
+| (A40) Guppys, Schwertträger, Spitzmaulkärpflinge, Spiegelkärpflinge (Poeciliidae) |
 
   
   
@@ -155,12 +166,12 @@ Spalte I:
 
 Der Geburtsort der verwendeten Tiere, außer von Primaten, ist anzugeben. Der Geburtsort von erneut verwendeten Tieren ist nicht anzugeben.   
 
-|                                                                                 |
-|:--------------------------------------------------------------------------------|
-| (O1) In der EU in einem registrierten Zuchtbetrieb geborene Tiere               |
-| (O2) In der EU, jedoch nicht in einem registrierten Zuchtbetrieb geborene Tiere |
-| (O3) Im restlichen Europa geborene Tiere                                        |
-| (O4) In der restlichen Welt geborene Tiere                                      |
+|                                                                                               |
+|:----------------------------------------------------------------------------------------------|
+| (O1) In der Europäische Union in einem zugelassenen Zuchtbetrieb geborene Tiere               |
+| (O2) In der Europäische Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene Tiere |
+| (O3) Im restlichen Europa geborene Tiere                                                      |
+| (O4) In anderen Teilen der Welt geborene Tiere                                                |
 
   
   
@@ -168,31 +179,36 @@ Spalte J:
 
 Die Spalte ist nur bei der Verwendung von Primaten auszufüllen.   
 
-|                                                                      |
-|:---------------------------------------------------------------------|
-| (NHPO1) In der EU in einem registrierten Zuchtbetrieb geborene Tiere |
-| (NHPO2) Im restlichen Europa geborene Tiere                          |
-| (NHPO3) In Asien geborene Tiere                                      |
-| (NHPO4) In Amerika geborene Tiere                                    |
-| (NHPO5) In Afrika geborene Tiere                                     |
-| (NHPO6) In anderen Teilen der Welt geborene Tiere                    |
+|                                                                                                                        |
+|:-----------------------------------------------------------------------------------------------------------------------|
+| (NHPO1) In einem zugelassenen Zuchtbetrieb in der Union geborene NMP                                                   |
+| (NHPO2) In der Union, jedoch nicht in einem zugelassenen Zuchtbetrieb geborene sowie im restlichen Europa geborene NMP |
+| (NHPO3) In Asien geborene NMP                                                                                          |
+| (NHPO4) In Amerika geborene NMP                                                                                        |
+| (NHPO5) In Afrika geborene NMP                                                                                         |
+| (NHPO6) In anderen Teilen der Welt geborene NMP                                                                        |
 
   
   
 Spalte K:
 
-Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie nicht selbst erhält, sind in diese Kolonie hineingeborene Tiere nach ihrer von mütterlicher Seite hergeleiteten Generation unter F0, F1, F2 oder höher zu erfassen.   
-
-|                                  |
-|:---------------------------------|
-| (NHPG1) F0                       |
-| (NHPG2) F1                       |
-| (NHPG3) F2 oder höher            |
-| (NHPG4) Selbsterhaltende Kolonie |
+Die Spalte ist nur bei der Verwendung von Primaten auszufüllen. Es ist anzugeben, ob es sich bei der Zucht um eine „Selbsterhaltende Kolonie“ handelt (Ja/Nein).
 
   
   
 Spalte L:
+
+Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie nicht selbst erhält, sind in diese Kolonie hineingeborene Tiere nach ihrer von mütterlicher Seite hergeleiteten Generation unter F0, F1, F2 oder höher zu erfassen.   
+
+|                       |
+|:----------------------|
+| (NHPG1) F0            |
+| (NHPG2) F1            |
+| (NHPG3) F2 oder höher |
+
+  
+  
+Spalte M:
 
 Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe der Erläuterungen in Anhang II Buchstabe B Nummer 6 des Durchführungsbeschlusses 2012/707/EU anzugeben.   
 
@@ -204,97 +220,55 @@ Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe de
 
   
   
-Spalte M:
+Spalte N:
 
 Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der „Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.   
 
-Spalte N:  
+Spalte O:  
   
 
 Der Zweck der Verwendung ist anzugeben:  
   
 
-|                                                                                                                                                         |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (PB1) Grundlagenforschung/Onkologie                                                                                                                     |
-| (PB2) Grundlagenforschung/Kardiovaskuläres System (Blut- und Lymphgefäße)                                                                               |
-| (PB3) Grundlagenforschung/Nervensystem                                                                                                                  |
-| (PB4) Grundlagenforschung/Atmungssystem                                                                                                                 |
-| (PB5) Grundlagenforschung/Gastrointestinales System, einschließlich Leber                                                                               |
-| (PB6) Grundlagenforschung/Muskuloskelettales System                                                                                                     |
-| (PB7) Grundlagenforschung/Immunsystem                                                                                                                   |
-| (PB8) Grundlagenforschung/Urogenitales System/Fortpflanzungssystem                                                                                      |
-| (PB9) Grundlagenforschung/Sinnesorgane (Haut, Augen, Ohren)                                                                                             |
-| (PB10) Grundlagenforschung/Endokrines System/Stoffwechsel                                                                                               |
-| (PB11) Grundlagenforschung/Multisystemisch                                                                                                              |
-| (PB12) Grundlagenforschung/Ethologie, Tierverhalten, Tierbiologie                                                                                       |
-| (PB13) Grundlagenforschung/Andere                                                                                                                       |
-| (PT21) Translationale und angewandte Forschung/Krebserkrankungen des Menschen                                                                           |
-| (PT22) Translationale und angewandte Forschung/Infektionskrankheiten des Menschen                                                                       |
-| (PT23) Translationale und angewandte Forschung/Kardiovaskuläre Erkrankungen des Menschen                                                                |
-| (PT24) Translationale und angewandte Forschung/Nerven- und Geisteserkrankungen des Menschen                                                             |
-| (PT25) Translationale und angewandte Forschung/Atemwegserkrankungen des Menschen                                                                        |
-| (PT26) Translationale und angewandte Forschung/Gastrointestinale Erkrankungen des Menschen, einschließlich der Leber                                    |
-| (PT27) Translationale und angewandte Forschung/Muskuloskelettale Erkrankungen des Menschen                                                              |
-| (PT28) Translationale und angewandte Forschung/Immunerkrankungen des Menschen                                                                           |
-| (PT29) Translationale und angewandte Forschung/Erkrankungen des urogenitalen/des Fortpflanzungssystems des Menschen                                     |
-| (PT30) Translationale und angewandte Forschung/Erkrankungen der Sinnesorgane (Haut, Augen und Ohren) des Menschen                                       |
-| (PT31) Translationale und angewandte Forschung/Erkrankungen des endokrinen Systems/des Stoffwechselsystems des Menschen                                 |
-| (PT32) Translationale und angewandte Forschung/Andere Humanerkrankungen                                                                                 |
-| (PT33) Translationale und angewandte Forschung/Tierkrankheiten                                                                                          |
-| (PT34) Translationale und angewandte Forschung/Tierschutz                                                                                               |
-| (PT35) Translationale und angewandte Forschung/Krankheitsdiagnose                                                                                       |
-| (PT36) Translationale und angewandte Forschung/Pflanzenkrankheiten                                                                                      |
-| (PT37) Translationale und angewandte Forschung/Nicht regulatorische Toxikologie und Ökotoxikologie                                                      |
-| (PE40) Schutz der natürlichen Umwelt im Interesse der Gesundheit oder des Wohlbefindens von Menschen und Tieren                                         |
-| (PS41) Erhaltung der Art                                                                                                                                |
-| (PE42) Hochschulausbildung bzw. Schulung zum Erwerb, zur Erhaltung oder zur Verbesserung beruflicher Fähigkeiten                                        |
-| (PF43) Forensische Untersuchungen                                                                                                                       |
-| (PG43) Erhaltung von Kolonien etablierter genetisch veränderter Tiere, die nicht in anderen Verfahren verwendet werden                                  |
-| (PR51) Regulatorischer Zweck, Routineproduktion/Produkt auf Blutbasis                                                                                   |
-| (PR52) Regulatorischer Zweck, Routineproduktion/Monoklonale Antikörper                                                                                  |
-| (PR53) Regulatorischer Zweck, Routineproduktion/Andere                                                                                                  |
-| (PR61) Regulatorischer Zweck, Qualitätskontrolle/Chargenunbedenklichkeitsprüfung                                                                        |
-| (PR62) Regulatorischer Zweck, Qualitätskontrolle/Pyrogenitätsprüfung                                                                                    |
-| (PR63) Regulatorischer Zweck, Qualitätskontrolle/Chargenpotenzprüfung                                                                                   |
-| (PR64) Regulatorischer Zweck, Qualitätskontrolle/Andere Qualitätskontrolle                                                                              |
-| (PR71) Regulatorischer Zweck/Andere Wirksamkeits- und Toleranzprüfung                                                                                   |
-| (PR81) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten, Akute und subakute Toxizität/LD50, LC50                   |
-| (PR82) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Akute und subakute Toxizität/Andere letale Methoden        |
-| (PR83) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Akute und subakute Toxizität/Nichtletale Methoden          |
-| (PR84) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Hautreizung/-korrosion                                     |
-| (PR85) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Hautsensibilisierung                                       |
-| (PR86) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Augenreizung/-korrosion                                    |
-| (PR87) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/bis zu 28 Tagen |
-| (PR88) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/29 – 90 Tage    |
-| (PR89) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Toxizität – bei wiederholter Verabreichung/&gt; 90 Tage    |
-| (PR90) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Karzinogenität                                             |
-| (PR91) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Gentoxizität                                               |
-| (PR92) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Reproduktionstoxizität                                     |
-| (PR93) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Entwicklungstoxizität                                      |
-| (PR94) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Neurotoxizität                                             |
-| (PR95) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Kinetik (Pharmakokinetik, Toxikokinetik, Rückstandsabbau)  |
-| (PR96) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Pharmakodynamik (einschließlich Sicherheitspharmakologie)  |
-| (PR97) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Fototoxizität                                              |
-| (PR98) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Akute Toxizität                               |
-| (PR99) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Chronische Toxizität                          |
-| (PR100) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Reproduktionstoxizität                       |
-| (PR101) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Endokrine Wirkung                            |
-| (PR102) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Bioakkumulation                              |
-| (PR103) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Ökotoxizität/Andere                                       |
-| (PR104) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Unbedenklichkeitsprüfung von Nahrungs- und Futtermitteln  |
-| (PR105) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Unbedenklichkeit für Zieltiere                            |
-| (PR106) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/Andere                                                    |
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><tbody><tr class="odd"><td style="text-align: left;">(PB1) Grundlagenforschung/Onkologie</td></tr><tr class="even"><td style="text-align: left;">(PB2) Grundlagenforschung/Kardiovaskuläres System (Blut- und Lymphgefäße)</td></tr><tr class="odd"><td style="text-align: left;">(PB3) Grundlagenforschung/Nervensystem</td></tr><tr class="even"><td style="text-align: left;">(PB4) Grundlagenforschung/Atmungssystem</td></tr><tr class="odd"><td style="text-align: left;">(PB5) Grundlagenforschung/Gastrointestinales System, einschließlich Leber</td></tr><tr class="even"><td style="text-align: left;">(PB6) Grundlagenforschung/Muskuloskelettales System</td></tr><tr class="odd"><td style="text-align: left;">(PB7) Grundlagenforschung/Immunsystem</td></tr><tr class="even"><td style="text-align: left;">(PB8) Grundlagenforschung/Urogenitales System/Fortpflanzungssystem</td></tr><tr class="odd"><td style="text-align: left;">(PB9) Grundlagenforschung/Sinnesorgane (Haut, Augen, Ohren)</td></tr><tr class="even"><td style="text-align: left;">(PB10) Grundlagenforschung/Endokrines System/Stoffwechsel</td></tr><tr class="odd"><td style="text-align: left;">(PB14) Grundlagenforschung/Entwicklungsbiologie</td></tr><tr class="even"><td style="text-align: left;">(PB11) Grundlagenforschung/Multisystemisch</td></tr><tr class="odd"><td style="text-align: left;">(PB12) Grundlagenforschung/Ethologie, Tierverhalten, Tierbiologie</td></tr><tr class="even"><td style="text-align: left;">(PB13) Grundlagenforschung/Andere</td></tr><tr class="odd"><td style="text-align: left;">(PT21) Translationale und angewandte Forschung/Krebserkrankungen des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT22) Translationale und angewandte Forschung/Infektionskrankheiten des Menschen</td></tr><tr class="odd"><td style="text-align: left;">(PT23) Translationale und angewandte Forschung/Kardiovaskuläre Erkrankungen des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT24) Translationale und angewandte Forschung/Nerven- und Geisteserkrankungen des Menschen</td></tr><tr class="odd"><td style="text-align: left;">(PT25) Translationale und angewandte Forschung/Atemwegserkrankungen des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT26) Translationale und angewandte Forschung/Gastrointestinale Erkrankungen des Menschen, einschließlich der Leber</td></tr><tr class="odd"><td style="text-align: left;">(PT27) Translationale und angewandte Forschung/Muskuloskelettale Erkrankungen des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT28) Translationale und angewandte Forschung/Immunerkrankungen des Menschen</td></tr><tr class="odd"><td style="text-align: left;">(PT29) Translationale und angewandte Forschung/Erkrankungen des urogenitalen/des Fortpflanzungssystems des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT30) Translationale und angewandte Forschung/Erkrankungen der Sinnesorgane (Haut, Augen und Ohren) des Menschen</td></tr><tr class="odd"><td style="text-align: left;">(PT31) Translationale und angewandte Forschung/Erkrankungen des endokrinen Systems/<br />
+des Stoffwechselsystems des Menschen</td></tr><tr class="even"><td style="text-align: left;">(PT32) Translationale und angewandte Forschung/Andere Humanerkrankungen</td></tr><tr class="odd"><td style="text-align: left;">(PT33) Translationale und angewandte Forschung/Tiererkrankungen und -krankheiten</td></tr><tr class="even"><td style="text-align: left;">(PT38) Translationale und angewandte Forschung/Tierernährung</td></tr><tr class="odd"><td style="text-align: left;">(PT34) Translationale und angewandte Forschung/Tierschutz</td></tr><tr class="even"><td style="text-align: left;">(PT35) Translationale und angewandte Forschung/Krankheitsdiagnose</td></tr><tr class="odd"><td style="text-align: left;">(PT36) Translationale und angewandte Forschung/Pflanzenkrankheiten</td></tr><tr class="even"><td style="text-align: left;">(PT37) Translationale und angewandte Forschung/Nicht regulatorische Toxikologie und Ökotoxikologie</td></tr><tr class="odd"><td style="text-align: left;">(PE40) Schutz der natürlichen Umwelt im Interesse der Gesundheit oder des Wohlbefindens von Menschen und Tieren</td></tr><tr class="even"><td style="text-align: left;">(PS41) Erhaltung der Art</td></tr><tr class="odd"><td style="text-align: left;">(PE42-1) Hochschulausbildung</td></tr><tr class="even"><td style="text-align: left;">(PE42-2) Schulung zum Erwerb, zur Erhaltung oder zur Verbesserung beruflicher Fähigkeiten</td></tr><tr class="odd"><td style="text-align: left;">(PF43) Forensische Untersuchungen</td></tr><tr class="even"><td style="text-align: left;">(PG43) Erhaltung von Kolonien etablierter genetisch veränderter Tiere, die nicht in anderen Verfahren verwendet werden</td></tr><tr class="odd"><td style="text-align: left;">(PR51) Routineproduktion/Produkt auf Blutbasis</td></tr><tr class="even"><td style="text-align: left;">(PR52) Routineproduktion/Monoklonale Antikörper nur im Aszites-Verfahren</td></tr><tr class="odd"><td style="text-align: left;">(PR54) Routineproduktion/Monoklonale und polyklonale Antikörper (ausgenommen im Aszites-Verfahren)</td></tr><tr class="even"><td style="text-align: left;">(PR53) Routineproduktion/Andere Produkte</td></tr><tr class="odd"><td style="text-align: left;">(PR61) Regulatorischer Zweck, Qualitätskontrolle/Chargenunbedenklichkeitsprüfung</td></tr><tr class="even"><td style="text-align: left;">(PR62) Regulatorischer Zweck, Qualitätskontrolle/Pyrogenitätsprüfung</td></tr><tr class="odd"><td style="text-align: left;">(PR63) Regulatorischer Zweck, Qualitätskontrolle/Chargenpotenzprüfung</td></tr><tr class="even"><td style="text-align: left;">(PR64) Regulatorischer Zweck, Qualitätskontrolle/Andere Qualitätskontrolle</td></tr><tr class="odd"><td style="text-align: left;">(PR71) Regulatorischer Zweck/Andere Wirksamkeits- und Toleranzprüfung</td></tr><tr class="even"><td style="text-align: left;">(PR81) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Akute Toxizität/LD50, LC50</td></tr><tr class="odd"><td style="text-align: left;">(PR82) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Akute Toxizität/Andere letale Methoden</td></tr><tr class="even"><td style="text-align: left;">(PR83) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Akute Toxizität/Nichtletale Methoden</td></tr><tr class="odd"><td style="text-align: left;">(PR84) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Hautreizung/-verätzung</td></tr><tr class="even"><td style="text-align: left;">(PR85) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Hautsensibilisierung</td></tr><tr class="odd"><td style="text-align: left;">(PR86) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Augenreizung/-verätzung</td></tr><tr class="even"><td style="text-align: left;">(PR87) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Toxizität – bei wiederholter Verabreichung/bis zu 28 Tagen</td></tr><tr class="odd"><td style="text-align: left;">(PR88) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Toxizität – bei wiederholter Verabreichung/29–90 Tage</td></tr><tr class="even"><td style="text-align: left;">(PR89) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Toxizität – bei wiederholter Verabreichung/mehr als 90 Tage</td></tr><tr class="odd"><td style="text-align: left;">(PR90) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Karzinogenität</td></tr><tr class="even"><td style="text-align: left;">(PR91) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Gentoxizität</td></tr><tr class="odd"><td style="text-align: left;">(PR92) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Reproduktionstoxizität</td></tr><tr class="even"><td style="text-align: left;">(PR93) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Entwicklungstoxizität</td></tr><tr class="odd"><td style="text-align: left;">(PR94) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Neurotoxizität</td></tr><tr class="even"><td style="text-align: left;">(PR95) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Kinetik (Pharmakokinetik, Toxikokinetik, Rückstandsabbau)</td></tr><tr class="odd"><td style="text-align: left;">(PR96) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Pharmakodynamik (einschließlich Sicherheitspharmakologie)</td></tr><tr class="even"><td style="text-align: left;">(PR97) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfung, nach Prüfungsarten/<br />
+Fototoxizität</td></tr><tr class="odd"><td style="text-align: left;">(PR98) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Akute Toxizität (Ökotoxizität)</td></tr><tr class="even"><td style="text-align: left;">(PR99) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Chronische Toxizität (Ökotoxizität)</td></tr><tr class="odd"><td style="text-align: left;">(PR100) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Reproduktionstoxizität (Ökotoxizität)</td></tr><tr class="even"><td style="text-align: left;">(PR101) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Endokrine Wirkung (Ökotoxizität)</td></tr><tr class="odd"><td style="text-align: left;">(PR102) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Bioakkumulation (Ökotoxizität)</td></tr><tr class="even"><td style="text-align: left;">(PR103) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Ökotoxizität/Andere Ökotoxizität</td></tr><tr class="odd"><td style="text-align: left;">(PR104) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Unbedenklichkeitsprüfung von Nahrungs- und Futtermitteln</td></tr><tr class="even"><td style="text-align: left;">(PR105) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Unbedenklichkeit für Zieltiere</td></tr><tr class="odd"><td style="text-align: left;">(PR107) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Kombinierte Endpunkte</td></tr><tr class="even"><td style="text-align: left;">(PR106) Regulatorischer Zweck, Toxizitäts- und Unbedenklichkeitsprüfungen, nach Prüfungsarten/<br />
+Andere Toxizität oder Unbedenklichkeitsprüfung</td></tr></tbody></table>
 
   
   
-Spalte O:
+Spalte P:
 
 Falls die Option „Andere …“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.   
 
-Spalte P:
+Spalte Q:
 
-Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.   
+Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR61 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.   
 
 |                                                                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------------------|
@@ -307,15 +281,15 @@ Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ e
 | (LT7) Vorschriften für Lebensmittel, einschließlich Materialien, die mit Lebensmitteln in Berührung kommen                   |
 | (LT8) Vorschriften für Futtermittel, einschließlich Vorschriften für die Sicherheit von Zieltieren, Arbeitnehmern und Umwelt |
 | (LT9) Vorschriften für Kosmetikprodukte                                                                                      |
-| (LT10) Andere                                                                                                                |
+| (LT10) Andere Vorschriften                                                                                                   |
 
   
   
-Spalte Q:
+Spalte R:
 
 Falls unter Spalte P „Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.   
 
-Spalte R:
+Spalte S:
 
 Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss „Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.   
 
@@ -327,7 +301,7 @@ Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben 
 
   
   
-Spalte S:
+Spalte T:
 
 Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere durch die Verwendung ausgesetzt waren, ist anzugeben, nicht der im Genehmigungsantrag oder in der Anzeige angegebene Schweregrad. Bei einer Verwendung nach § 4 Absatz 3 des Tierschutzgesetzes ist diese Spalte nicht auszufüllen. Im Falle des § 25 Absatz 2 der Tierschutz-Versuchstierverordnung, der besonders belastende Tierversuche mit erheblichen Schmerzen oder Leiden, die länger anhalten und nicht gelindert werden können, zum Gegenstand hat, sollen in Spalte U Angaben zu einer Ausnahmegenehmigung, zu den Einzelheiten der Verwendung und den Gründen für das Erreichen dieser besonderen Belastungen gemacht werden.   
 
@@ -340,11 +314,11 @@ Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere 
 
   
   
-Spalte T:
+Spalte U:
 
 In diese Spalte ist die von der zuständigen Behörde im Rahmen des Genehmigungs- oder Anzeigeverfahrens vergebene Angabe zur eindeutigen Identifizierung des Versuchsvorhabens, z. B. Kennziffer oder Geschäftszeichen, einzutragen.   
 
-Spalte U:
+Spalte V:
 
 In diese Spalte können Anmerkungen eingetragen werden.
 

@@ -1,4 +1,4 @@
-% Verordnung über die Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (MntDAIVAPrV)
+% Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (MntDAIVVDV)
 % Ausfertigungsdatum: 18.07.2012
  
 # Eingangsformel
@@ -10,6 +10,10 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 # § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der fachspezifische Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes. Der Vorbereitungsdienst dauert in der Regel 24 Monate.
+
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele der Ausbildung
 
@@ -25,6 +29,8 @@ Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methode
 
 (1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den mittleren nichttechnischen Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer Auswahlkommission durchgeführt und besteht aus einem schriftlichen und einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann anstelle des Bundesverwaltungsamts eine andere Behörde über die Einstellung entscheiden.
 
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungsplätze, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden, jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen.
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind zurückzusenden oder zu vernichten.
@@ -38,6 +44,12 @@ Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methode
 3. einer Beamtin oder einem Beamten des gehobenen oder mittleren nichttechnischen Verwaltungsdienstes des Bundes.
 
 Je Auswahlkommission kann eine Tarifbeschäftigte oder ein Tarifbeschäftigter anstelle einer Beamtin oder eines Beamten zum Mitglied bestellt werden, wenn sie oder er über vergleichbare Kenntnisse verfügt. Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Einstellungsbehörde für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
+
+(4a) Die Einstellungsbehörde kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder des gehobenen nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder des mittleren nichttechnischen Verwaltungsdienstes des Bundes.
 
 (5) Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden.
 
@@ -145,6 +157,8 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 
 (1) Die Ausbildung gliedert sich in eng verzahnte fachtheoretische Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch Behörden des Bundes und der Kommunen unterstützt.
 
+(1a) Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
+
 (2) Die Ausbildung gliedert sich in folgende Abschnitte:  
   
 
@@ -157,9 +171,21 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 | 5   | Praktikum III        | Bundesbehörde        | 6 Monate |
 | 6   | Abschlusslehrgang    | Bundesverwaltungsamt | 5 Monate |
 
+(3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 das Praktikum II – abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.
+
+(4) Das Bundesverwaltungsamt kann mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat festlegen, dass bis zum 31. Dezember 2022 die Ausbildungsabschnitte – abweichend von Absatz 2 –
+
+1. anders gegliedert werden,
+
+2. in einer anderen Abfolge durchgeführt werden und
+
+3. eine andere Dauer haben.
+
 # § 8 – Inhalt der fachtheoretischen Ausbildung
 
 (1) Die fachtheoretische Ausbildung umfasst mindestens 1 090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den Einführungslehrgang, mindestens 320 Lehrstunden auf den Zwischenlehrgang und mindestens 540 Lehrstunden auf den Abschlusslehrgang.
+
+(1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 die Lehrstunden – abweichend von Absatz 1 Satz 2 – anders auf die Ausbildungsabschnitte verteilt werden.
 
 (2) Die fachtheoretische Ausbildung erstreckt sich auf folgende Fachgebiete:
 
@@ -225,6 +251,10 @@ b) zwei schriftliche oder mündliche Leistungstests.
 
 Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zwischenprüfung und in der Abschlussprüfung.
 
+(1a) Bis zum 31. Dezember 2022 können schriftliche Leistungstests mit Unterstützung durch Informationstechnik durchgeführt werden.
+
+(1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von Absatz 1 Satz 1 – weniger Leistungstests zu absolvieren sind.
+
 (2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
 
 (3) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§ 18) erbracht, gilt er als mit null Rangpunkten bewertet.
@@ -246,6 +276,8 @@ Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zw
 2. den Aufgaben der inneren Verwaltung des Bundes, die den Fachgebieten nach § 8 Absatz 2 Nummer 4 bis 8 zugeordnet werden können.
 
 (2) Während des Praktikums II erhalten die Anwärterinnen und Anwärter einen Überblick über die Verwaltungsaufgaben der Kommunalbehörde und werden mit den Besonderheiten bürgernaher Verwaltung vertraut gemacht.
+
+(2a) Ist festgelegt worden, dass das Praktikum II in einer Bundesbehörde absolviert wird, so sind die Anwärterinnen und Anwärter auch im Praktikum II mit den in Absatz 1 genannten Inhalten vertraut zu machen.
 
 (3) Während des Praktikums III werden die Anwärterinnen und Anwärter mit Fachaufgaben der Bundesverwaltung vertraut gemacht. Ihnen wird ein Überblick über Aufgaben und Arbeitsweise der Bundesbehörden sowie über ihr Zusammenwirken mit anderen Behörden vermittelt.
 
@@ -277,7 +309,7 @@ Für die Organisation und Durchführung der Zwischenprüfung und der Abschlusspr
 
 4. die bei den Prüfungen zulässigen Hilfsmittel festlegt,
 
-5. über Prüfungserleichterungen bei Beeinträchtigungen entscheidet,
+5. über die Gewährung eines Nachteilsausgleichs bei Anwärterinnen und Anwärtern mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, entscheidet,
 
 6. über die Zulassung zur schriftlichen und mündlichen Abschlussprüfung entscheidet,
 
@@ -335,6 +367,8 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (2) Die schriftliche Abschlussprüfung besteht aus fünf Klausuren. Die Aufgaben werden aus den Fachgebieten nach § 8 Absatz 2 ausgewählt.
 
+(2a) Die Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
+
 (3) Die Bearbeitungszeit für jede Klausur beträgt 240 Minuten. Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. Nach zwei Tagen wird ein freier Tag vorgesehen. Je Tag wird nur eine Klausur geschrieben.
 
 (4) Hat eine Anwärterin oder ein Anwärter die Klausur nicht oder nicht rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
@@ -344,6 +378,8 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 # § 19 – Mündliche Abschlussprüfung
 
 (1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen Kenntnisse nachzuweisen.
+
+(1a) Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31. Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt.
 
 (2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl von mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern wird rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen Abschlussprüfung zugelassen werden oder nicht.
 
@@ -390,6 +426,8 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 # § 23 – Bestehen der Laufbahnprüfung, Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von mindestens 5 erreicht worden ist.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller in der Ausbildung erbrachten Leistungen.
 
 (2) Die Rangpunktzahl der Laufbahnprüfung wird von der oder dem Vorsitzenden der Prüfungskommission im Anschluss an die mündliche Abschlussprüfung ermittelt. Sie wird aus den Durchschnittsrangpunktzahlen der Zwischenprüfung, der fachtheoretischen Ausbildung und der berufspraktischen Ausbildung sowie aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung und aus der Bewertung der mündlichen Abschlussprüfung errechnet; diese sind wie folgt zu gewichten:
 

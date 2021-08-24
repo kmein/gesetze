@@ -27,6 +27,10 @@
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziele der Ausbildung
 
 Die Ausbildung vermittelt das fachtheoretische Wissen und die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im mittleren nichttechnischen Zolldienst des Bundes erforderlich sind. Sie soll die Auszubildenden zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen Raum und im internationalen, insbesondere europäischen Raum. Die Auszubildenden sollen Kompetenzen entwickeln, um den sich ständig wandelnden Herausforderungen an die Zollverwaltung gerecht zu werden. Die Auszubildenden sollen befähigt werden, sich eigenverantwortlich weiterzubilden.
@@ -265,6 +269,12 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes nach Satz 1 Nummer 2 kann der Auswahlkommission auch eine Beamtin oder ein Beamter des mittleren Dienstes der Besoldungsgruppe A 9 (mittlerer Dienst) angehören. In begründeten Fällen kann höchstens eine vergleichbare Tarifbeschäftigte oder ein vergleichbarer Tarifbeschäftigter je Auswahlkommission bestellt werden.
 
+(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2021 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten, die oder der mindestens der Besoldungsgruppe A 13 angehört, als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder Beamten des gehobenen Dienstes.
+
 (3) Die Einstellungsbehörden bestellen die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Ersatzmitgliedern in der Regel für die Dauer von drei Jahren. Wiederbestellung ist zulässig. Die Auswahlkommission soll paritätisch mit weiblichen und männlichen Mitgliedern besetzt werden. Ist dies aus triftigen Gründen nicht möglich, sind die Gründe aktenkundig zu machen.
 
 (4) Die Mitglieder der Auswahlkommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
@@ -318,6 +328,8 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 # § 15 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Der mündliche Teil des Auswahlverfahrens darf pro Tag mit höchstens acht Bewerberinnen und Bewerbern durchgeführt werden. Die Dauer der Simulationsübungen einschließlich erforderlicher Vorbereitungszeiten und die Dauer des Interviews werden den Bewerberinnen und Bewerbern vor Beginn des mündlichen Teils mitgeteilt. Die Dauer der Simulationsübungen beträgt pro Bewerberin oder Bewerber höchstens 150 Minuten.
 
@@ -379,6 +391,8 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend. Die Auszubildenden sind zum Selbststudium verpflichtet.
 
+(3a) Die Generalzolldirektion kann mit Zustimmung des Bundesministeriums der Finanzen festlegen, dass bis zum 31. Dezember 2022 für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden können.
+
 (4) Für die fachtheoretische Ausbildung und für die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Ausbildung werden die Auszubildenden von den Ausbildungsbehörden an die Generalzolldirektion abgeordnet. Die Praktika werden bei der Ausbildungsbehörde durchgeführt.
 
 # § 19 – Lehrplan und Ausbildungsrahmenplan
@@ -421,17 +435,17 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 1. einer Klausur,
 
-2. einer schriftlichen Ausarbeitung,
+2. einer schriftlichen Ausarbeitung oder
 
-3. eines Referats oder einer anderen mündlichen Leistung oder
+3. eines Referats oder einer anderen mündlichen Leistung.
 
-4. einer Anwendung in der Informationstechnik.
+(3) Klausuren und schriftliche Ausarbeitungen können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(3) Jeder Leistungstest muss mindestens eine Woche im Voraus angekündigt werden. Pro Tag darf von den Auszubildenden nur ein Leistungstest gefordert werden.
+(4) Jeder Leistungstest muss mindestens eine Woche im Voraus angekündigt werden. Pro Tag darf von den Auszubildenden nur ein Leistungstest gefordert werden.
 
-(4) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, den Leistungstest zu einem späteren Zeitpunkt der Ausbildung zu erbringen.
+(5) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, den Leistungstest zu einem späteren Zeitpunkt der Ausbildung zu erbringen.
 
-(5) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
+(6) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
 
 # § 23 – Klausuren
 
@@ -645,6 +659,14 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 2. mindestens ein Mitglied der Prüfungskommission weiblich sein muss, wenn weibliche Auszubildende geprüft werden.
 
+(5a) Das Prüfungsamt kann festlegen, dass eine Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung bis zum 31. Dezember 2022 – abweichend von Absatz 5 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren Dienstes oder des gehobenen Dienstes, die oder der mindestens der Besoldungsgruppe A 12 angehört, als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten des gehobenen Dienstes als Beisitzender oder Beisitzendem oder zwei Beamtinnen oder Beamten des gehobenen Dienstes als Beisitzenden.
+
+Mindestens ein Mitglied soll dem nichttechnischen Zolldienst angehören.
+
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens drei Viertel ihrer Mitglieder anwesend sind. Im Falle des Absatzes 5 Satz 2 Nummer 2 ist die Prüfungskommission nur beschlussfähig, wenn mindestens ein weibliches Mitglied anwesend ist. Eine Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig. Beratungen der Prüfungskommissionen sind nicht öffentlich.
 
 # § 36 – Prüfungsgrundsätze
@@ -677,9 +699,11 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 4. in den Ausbildungsgebieten nach § 25 Absatz 1 Nummer 8 und 9 gemeinsam.
 
-(3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+(3) Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(4) Die Zwischenprüfung ist bestanden, wenn
+(4) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+
+(5) Die Zwischenprüfung ist bestanden, wenn
 
 1. mindestens zwei Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und
 
@@ -687,7 +711,7 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten, die in den vier Klausuren erzielt worden sind.
 
-(5) Die oder der Auszubildende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme gilt § 34 Absatz 3 entsprechend.
+(6) Die oder der Auszubildende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme gilt § 34 Absatz 3 entsprechend.
 
 # § 38 – Bescheid, Zwischenprüfungszeugnis
 
@@ -723,9 +747,11 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 4. in den Ausbildungsgebieten nach § 25 Absatz 1 Nummer 8 und 9 gemeinsam.
 
-(3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+(3) Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
 
-(4) Die schriftliche Abschlussprüfung ist bestanden, wenn
+(4) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
+
+(5) Die schriftliche Abschlussprüfung ist bestanden, wenn
 
 1. mindestens zwei Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und
 
@@ -745,9 +771,29 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 # § 42 – Mündliche Abschlussprüfung
 
-(1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den Ausbildungsgebieten nach § 25 Absatz 1 Nummer 2 bis 9 zu entnehmen. Die Ausbildungsgebiete werden dabei nach Maßgabe des § 40 Absatz 2 zusammen geprüft. Die Fachprüferinnen oder Fachprüfer der genannten Ausbildungsgebiete wählen die Fragen aus.
+(1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den Ausbildungsgebieten nach § 25 Absatz 1 Nummer 2 bis 9 zu entnehmen. Die Ausbildungsgebiete werden dabei nach Maßgabe des § 40 Absatz 2 Satz 2 Nummer 2 bis 4 gemeinsam geprüft. Die Fachprüferinnen oder Fachprüfer der genannten Ausbildungsgebiete wählen die Fragen aus.
 
 (2) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. Eine Gruppe soll aus nicht mehr als sechs Auszubildenden bestehen. Die Dauer der Prüfung darf je Auszubildende oder Auszubildenden 30 Minuten nicht unterschreiten und soll 40 Minuten nicht überschreiten. Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung und stellt den ordnungsgemäßen Ablauf der Prüfung sicher. Die mündliche Prüfung wird durch mindestens eine Pause von angemessener Dauer unterbrochen.
+
+(2a) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2022
+
+1. die mündliche Abschlussprüfung – abweichend von Absatz 2 Satz 1 – als Einzelprüfung durchgeführt wird,
+
+2. die Dauer der mündlichen Abschlussprüfung – abweichend von Absatz 2 Satz 3 – 20 Minuten je Auszubildende oder Auszubildenden nicht unterschreiten darf,
+
+3. für die Durchführung der mündlichen Abschlussprüfung Videokonferenztechnik genutzt wird, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
+(2b) Die Generalzolldirektion kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von § 39 Absatz 2 – auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn
+
+1. die technischen Einrichtungen für die Nutzung von Videokonferenztechnik nicht zur Verfügung stehen und
+
+2. die Generalzolldirektion nicht gewährleisten kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn
+
+a) die mündliche Abschlussprüfung als Einzelprüfung durchgeführt würde,
+
+b) die Zahl der Mitglieder der Prüfungskommission reduziert würde und
+
+c) die Dauer der mündlichen Abschlussprüfung verkürzt würde.
 
 (3) Die mündliche Abschlussprüfung ist nicht öffentlich. Mitglieder des Prüfungsamtes dürfen unabhängig vom Einverständnis der Auszubildenden anwesend sein. Das Prüfungsamt kann unabhängig vom Einverständnis der Auszubildenden folgenden Personen die Anwesenheit gestatten:
 
@@ -783,7 +829,29 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 5. die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung mit 25 Prozent.
 
+(1a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die Rangpunktzahl der Laufbahnprüfung der Quotient aus
+
+1. der Summe
+
+a) der 5-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
+
+b) der 10-fachen Durchschnittsrangpunktzahl der fachtheoretischen Ausbildung,
+
+c) der 10-fachen Durchschnittsrangpunktzahl der berufspraktischen Ausbildung und
+
+d) der 50-fachen Durchschnittsrangpunktzahl der schriftlichen Abschlussprüfung sowie
+
+2. der Zahl 75.
+
 (2) Die Laufbahnprüfung ist bestanden, wenn die mündliche Abschlussprüfung bestanden ist und eine Rangpunktzahl der Laufbahnprüfung von mindestens 5 erreicht worden ist.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so ist die mündliche Abschlussprüfung dennoch durchzuführen bei Auszubildenden, die
+
+1. die schriftliche Abschlussprüfung bestanden haben und
+
+2. eine Rangpunktzahl der Laufbahnprüfung von weniger als 5,00 erreicht haben.
+
+In diesem Fall wird der Vorbereitungsdienst bis zu dem Tag verlängert, an dem die mündliche Abschlussprüfung durchgeführt wird. Ist die mündliche Abschlussprüfung durchgeführt worden, so wird die Rangpunktzahl der Laufbahnprüfung nach Absatz 1 Satz 2 ermittelt.
 
 (3) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Festsetzung der Abschlussnote kaufmännisch auf eine ganze Zahl gerundet.
 
@@ -807,6 +875,8 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 7. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
 
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, und ist auch nach § 43 Absatz 2a keine mündliche Abschlussprüfung durchgeführt worden, so bleibt im Abschlusszeugnis das Feld zur Angabe der Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung frei. In diesem Fall ist im Abschlusszeugnis zu vermerken, dass die Laufbahnprüfung ohne mündliche Abschlussprüfung abgelegt worden ist, und die Rechtsgrundlage für diese Tatsache anzugeben.
+
 (3) Der Bescheid über die Laufbahnprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Eine Ausfertigung des Bescheides und des Abschlusszeugnisses ist der Einstellungsbehörde für die Personalakte zu übersenden.
@@ -829,8 +899,27 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (1) Für Auszubildende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1682), die zuletzt durch Artikel 3 Absatz 11 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass
 
-1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 der Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt und
+1. an die Stelle des § 3 Absatz 1 Satz 1 und Absatz 2 der im einleitenden Satzteil genannten Verordnung § 4 Absatz 1 Satz 1 und Absatz 2 dieser Verordnung tritt,
 
-2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1 Satz 1 und § 35 Absatz 1 Satz 1 der Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind.
+2. die in § 3 Absatz 1 Satz 2, § 32 Absatz 1 Satz 3, § 34 Absatz 1 Satz 1 und § 35 Absatz 1 Satz 1 der im einleitenden Satzteil genannten Verordnung vorgesehenen Beteiligungen des Bundesministeriums der Finanzen nicht erforderlich sind,
+
+3. § 35 Absatz 5a, § 40 Absatz 3, § 42 Absatz 2a und 2b, § 43 Absatz 2a sowie § 44 Absatz 2a dieser Verordnung entsprechend gelten und
+
+4. im Fall der Festlegung, dass auf die mündliche Abschlussprüfung verzichtet wird, – abweichend von § 41 Absatz 1 Satz 2 der im einleitenden Satzteil genannten Verordnung – die Durchschnittsrangpunktzahl der Laufbahnprüfung der Quotient ist aus
+
+a) der Summe
+
+aa)  
+der 3-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
+
+bb)  
+der 12-fachen Durchschnittsrangpunktzahl der fachtheoretischen Ausbildung,
+
+cc) der 10-fachen Durchschnittsrangpunktzahl der berufspraktischen Ausbildung und
+
+dd)  
+dem 12,5-fachen Rangpunkte für jede der vier schriftlichen Prüfungsarbeiten sowie
+
+b) der Zahl 75.
 
 (2) Auf Beamtinnen und Beamte, die bis zum 31. Dezember 2015 nach § 54 Absatz 2 Satz 1 der Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden Fassung erfolgreich an einer Vorauswahl für die Teilnahme an einem Auswahlverfahren für den Aufstieg teilgenommen haben oder zum Praxisaufstieg zugelassen worden sind, sind die §§ 27 bis 29 der Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1682), die zuletzt durch Artikel 3 Absatz 11 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiterhin anzuwenden.

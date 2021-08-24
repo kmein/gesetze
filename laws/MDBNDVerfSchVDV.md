@@ -69,6 +69,10 @@
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und für den mittleren Dienst im Verfassungsschutz des Bundes.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ausbildungsziele
 
 (1) Die Ausbildung vermittelt die fachtheoretischen Kenntnisse und Methoden sowie die berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im mittleren Dienst im Bundesnachrichtendienst und im mittleren Dienst im Verfassungsschutz des Bundes erforderlich sind.
@@ -330,6 +334,14 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 In begründeten Fällen können zwei Mitglieder der Auswahlkommission Tarifbeschäftigte oder Soldatinnen oder Soldaten sein, wenn sie über die erforderliche Qualifikation verfügen.
 
+(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission nur aus folgenden Mitgliedern bestehen:
+
+1. einer Beamtin oder einem Beamten des gehobenen oder höheren nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten des gehobenen oder mittleren nichttechnischen Verwaltungsdienstes des Bundes.
+
+Eines der Mitglieder kann Arbeitnehmerin oder Arbeitnehmer oder Soldatin oder Soldat sein, wenn sie oder er über die erforderliche Qualifikation verfügt.
+
 (3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
 
 (4) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
@@ -426,6 +438,8 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 (2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine berufspraktische Ausbildung.
 
+(2a) Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen, die keine als Verschlusssachen eingestuften Inhalte enthalten, digitale Lehrformate genutzt werden.
+
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei Abschnitte.
 
 (4) Die Abfolge und die Dauer der einzelnen Abschnitte sind wie folgt festgesetzt:  
@@ -478,7 +492,17 @@ Abschlusslehrgang
 
 vier Monate
 
+(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 die Abschnitte der fachtheoretischen und der berufspraktischen Ausbildung – abweichend von den Absätzen 3 und 4 –
+
+1. anders unterteilt werden,
+
+2. in einer anderen Abfolge durchgeführt werden,
+
+3. eine andere Dauer haben.
+
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt mindestens 900 Lehrstunden.
+
+(6) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 die Zahl der Lehrstunden um bis zu 10 Prozent verringert wird.
 
 # § 23 – Lehrplan
 
@@ -554,7 +578,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind, sowie
 
 # § 27 – Lehrgebiete
 
-Die Lehrgebiete der fachtheoretischen Ausbildung sind:
+(1) Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 1. operative Beschaffung und Observation,
 
@@ -572,6 +596,8 @@ Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 8. Haushalts-, Kassen- und Rechnungswesen.
 
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 eine Reduzierung der Lehrgebiete vorgenommen wird.
+
 # § 28 – Organisation und Durchführung
 
 Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das Zentrum für Nachrichtendienstliche Aus- und Fortbildung zuständig, soweit in diesem Abschnitt nichts anderes bestimmt ist.
@@ -579,6 +605,14 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 # § 29 – Leistungstests
 
 (1) In der fachtheoretischen Ausbildung sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
+
+(1a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 in der fachtheoretischen Ausbildung
+
+1. mehr als sechs Leistungstests in einer anderen Prüfungsform als der Klausur absolviert werden können,
+
+2. die Zahl der Leistungstests auf weniger als zwölf reduziert wird und
+
+3. vollständig auf die Leistungstests verzichtet wird.
 
 (2) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
 
@@ -658,7 +692,13 @@ c) in welcher Form die Leistungstests zu absolvieren sind.
 
 # § 37 – Leistungstests
 
-In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
+(1) In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
+
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 in den praxisbezogenen Lehrveranstaltungen
+
+1. die Leistungstests in einer anderen Form als der Klausur absolviert werden können oder
+
+2. die Zahl der zu absolvierenden Leistungstests auf einen reduziert wird und dieser Leistungstest in einer anderen Form als der Klausur absolviert werden kann.
 
 # § 38 – Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
 
@@ -708,9 +748,13 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 (2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen. Es können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen werden.
 
+(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 der Inhalt der Klausur mehr als einem Lehrgebiet entnommen wird.
+
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
 
 (4) Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen geschrieben.
+
+(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 die Klausuren nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden.
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -778,9 +822,21 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 3. aus zwei der Lehrgebiete nach § 27 Nummer 1, 2, 4 und 5 jeweils eine Klausur.
 
+(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022
+
+1. der Gegenstand der Klausuren den Lehrgebieten nach § 27 Absatz 1 Nummer 1 bis 6 auch anders zugeordnet wird und
+
+2. der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Lehrgebiete entnommen wird.
+
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
+
+(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022
+
+1. die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden oder
+
+2. nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 4 Satz 3 – mehr als ein freier Tag vorzusehen ist.
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -856,6 +912,8 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) In einer Gruppe dürfen höchstens fünf Anwärterinnen und Anwärter geprüft werden.
 
+(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2022 die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird.
+
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je Anwärterin oder Anwärter nicht überschreiten.
 
 # § 58 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
@@ -915,6 +973,8 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 5. die Rangpunktzahl der schriftlichen Abschlussprüfung mit 30 Prozent und
 
 6. die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
+
+(2a) Ist festgelegt worden, dass in der fachtheoretischen Ausbildung vollständig auf die Leistungstests verzichtet wird, so legen die Dienstbehörden einvernehmlich fest, durch welche anderen Bewertungen die Rangpunktzahl der Leistungstests der fachtheoretischen Ausbildung ersetzt wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung.
 
 (3) Die Laufbahnprüfung hat bestanden,
 

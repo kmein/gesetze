@@ -11,6 +11,10 @@ Diese Verordnung regelt
 
 2. die Ausbildung der Polizeivollzugsbeamtinnen und -beamten, die sich für den Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei nach § 15 der Bundespolizei-Laufbahnverordnung beworben haben und die Auswahl für die Ausbildung.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Diplomstudium
 
 Der Diplomstudiengang „Polizeivollzugsdienst in der Bundespolizei (Diplom-Verwaltungswirt)“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei.
@@ -53,7 +57,7 @@ b) einer Beamtin oder einem Beamten des höheren Dienstes oder
 
 c) einer Beamtin oder einem Beamten des gehobenen Dienstes mit mehrjähriger Erfahrung als Mitglied einer Auswahlkommission oder mit abgeschlossenem Hochschulstudium.
 
-Beamtinnen und Beamte dürfen nur dann zu Mitgliedern der Auswahlkommission nach Satz 1 Nummer 2 und 3 bestellt werden, wenn ihnen laufbahnrechtlich ein Amt der Besoldungsgruppe A 13 verliehen werden kann. Mindestens zwei Mitglieder sollen dem Polizeivollzugsdienst in der Bundespolizei angehören. Eine Angehörige oder ein Angehöriger des Fachbereichs Bundespolizei der Hochschule ist berechtigt, am Auswahlverfahren als stimmberechtigtes Mitglied der Auswahlkommission teilzunehmen.
+Höchstens ein Mitglied der Auswahlkommission kann eine vergleichbare Arbeitnehmerin oder ein vergleichbarer Arbeitnehmer sein. Beamtinnen und Beamte dürfen nur dann zu Mitgliedern der Auswahlkommission nach Satz 1 Nummer 2 und 3 bestellt werden, wenn ihnen laufbahnrechtlich ein Amt der Besoldungsgruppe A 13 verliehen werden kann. Mindestens zwei Mitglieder sollen dem Polizeivollzugsdienst in der Bundespolizei angehören. Eine Angehörige oder ein Angehöriger des Fachbereichs Bundespolizei der Hochschule ist berechtigt, am Auswahlverfahren als stimmberechtigtes Mitglied der Auswahlkommission teilzunehmen.
 
 (3) Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium für vier Jahre bestellt. Wiederbestellung ist zulässig.
 
@@ -142,6 +146,8 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 2. das Deutsche Schwimmabzeichen in Bronze der Deutschen Lebens-Rettungs-Gesellschaft e. V. oder einen vergleichbaren Nachweis besitzt.
 
 (3) Werden Ausnahmen von Absatz 2 zugelassen, so ist die Einstellung mit der Auflage zu versehen, dass die Befähigungsnachweise bis zum Abschluss des Grundstudiums vorzulegen sind. Studierende, die die in Absatz 2 genannten Befähigungsnachweise nicht bis zum Abschluss des Grundstudiums vorlegen, sind aus dem Beamtenverhältnis zu entlassen.
+
+(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise erst bis zum Abschluss des Vorbereitungsdienstes vorzulegen sind.
 
 (4) Die Bundespolizeiakademie entscheidet über die Einstellung der Bewerberinnen und Bewerber auf der Grundlage der Rangfolge nach § 12 Absatz 2.
 
@@ -321,6 +327,8 @@ Polizeitraining (während der Module 10 bis 18)
 # § 18 – Leistungstests
 
 (1) In den Modulen 1 bis 3, 8, 9, 11 bis 13, 15 und 17 sind Leistungstests durchzuführen.
+
+(1a) Bis zum 31. Dezember 2022 kann davon abgesehen werden, dass in allen der in Absatz 1 genannten Module Leistungstests zu absolvieren sind.
 
 (2) Ein Leistungstest kann durchgeführt werden in Form
 
@@ -568,6 +576,8 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (1) Die schriftlichen Prüfungen bestehen aus jeweils mindestens einer Klausur in den Modulen 10 und 14.
 
+(1a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 eine Klausur durch eine mündliche Prüfung ersetzt wird. Für die mündliche Prüfung gelten die Regelungen zur mündlichen Abschlussprüfung nach § 35 Absatz 2 bis 4 Satz 1 entsprechend. Das Ergebnis der mündlichen Prüfung tritt an die Stelle der entfallenen Klausur.
+
 (2) Die Bearbeitungszeit der Klausuren eines Moduls beträgt insgesamt mindestens 240 Minuten.
 
 (3) Die Hochschule reicht für jede Klausur Vorschläge für die Aufgaben beim Prüfungsamt ein. Das Prüfungsamt wählt die Aufgaben für die Klausuren aus.
@@ -591,6 +601,8 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 (2) In der praktischen Prüfung im Modul 16 ist eine Führungsleistung auf der Ebene einer Gruppenführerin oder eines Gruppenführers oder auf der Ebene einer Gruppenleiterin oder eines Gruppenleiters zu erbringen. Die Prüfung soll 60 Minuten dauern. Näheres regelt das Modulhandbuch.
 
 (3) In der praktischen Prüfung im Modul 20 wird die Handlungsfähigkeit bei polizeifachlichen Standardmaßnahmen geprüft. Die Prüfung soll 30 Minuten dauern. Näheres regelt das Modulhandbuch.
+
+(3a) Mit Zustimmung des Bundespolizeipräsidiums kann die Bundespolizeiakademie festlegen, dass bis zum 31. Dezember 2022 – abweichend von den Absätzen 1 und 3 – auf die praktische Leistungsabnahme im Modul 20 verzichtet wird.
 
 (4) Gruppenleistungen sind zulässig, wenn die Einzelbeiträge abgegrenzt werden können und eine Bewertung jedes Einzelbeitrags möglich ist.
 
@@ -676,6 +688,26 @@ der Diplomarbeit</td><td style="text-align: right;">mit 20 Prozent und</td></tr>
 7. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">die Rangpunktzahl der<br />
 mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.</td></tr></tbody></table>
 
+(1a) Ist festgelegt worden, dass auf die praktische Leistungsabnahme im Modul 20 verzichtet wird, so ist die abschließende Rangpunktzahl der Quotient aus
+
+1. der Summe aus
+
+a) der 10-fachen Durchschnittsrangpunktzahl der Leistungstests,
+
+b) der 10-fachen Durchschnittsrangpunktzahl der Zwischenprüfung,
+
+c) der 8-fachen Rangpunktzahl der Prüfung im Modul 10,
+
+d) der 8-fachen Rangpunktzahl der Prüfung im Modul 14,
+
+e) der 12-fachen Rangpunktzahl der praktischen Prüfung im Modul 16,
+
+f) der 20-fachen Rangpunktzahl der Diplomarbeit und
+
+g) der 24-fachen Rangpunktzahl der mündlichen Abschlussprüfung sowie
+
+2. der Zahl 92.
+
 (2) Die abschließende Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Gesamtnote zugeordnet.
 
 # § 38 – Abschlusszeugnis, akademischer Grad, Bescheid bei Nichtbestehen
@@ -725,6 +757,8 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 (3) Wird die Diplomarbeit wiederholt, erhält die oder der Studierende ein neues Thema. Die Wiederholung soll frühestens einen Monat nach Bekanntgabe des Ergebnisses erfolgen. Die Bearbeitungszeit beträgt in der Regel drei Monate. Soweit erforderlich, ist der Vorbereitungsdienst durch die Bundespolizeiakademie zu verlängern.
 
 (4) Werden schriftliche oder praktische Prüfungen der Laufbahnprüfung oder die mündliche Abschlussprüfung wiederholt, setzt das Prüfungsamt die Wiederholungstermine für alle Studierenden auf Vorschlag des Fachbereichs Bundespolizei der Hochschule fest. Die Wiederholung soll frühestens einen Monat nach Bekanntgabe des Ergebnisses erfolgen. Soweit erforderlich, ist der Vorbereitungsdienst durch die Bundespolizeiakademie zu verlängern.
+
+(4a) Bis zum 31. Dezember 2022 gilt für die Wiederholung schriftlicher Prüfungen der Laufbahnprüfung § 28 Absatz 1a entsprechend.
 
 (5) Die bei der Wiederholung erreichten Rangpunkte ersetzen die zuvor erreichten.
 
