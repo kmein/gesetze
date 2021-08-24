@@ -9,9 +9,13 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 
 # § 1 – Diplomstudium
 
-(1) Der Diplom-Studiengang „Verwaltungsmanagement“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
+(1) Der Diplom-Studiengang „Verwaltungsmanagement“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes.
 
 (2) Der Diplom-Studiengang wird als Präsenzstudiengang und als Fernstudiengang angeboten.
+
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Studiums
 
@@ -19,13 +23,15 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 # § 3 – Dienstbehörden; Freistellung
 
-(1) Im Präsenzstudiengang ist die Fachhochschule als Einstellungsbehörde der Studierenden für die dienstrechtlichen Entscheidungen zuständig. Während der berufspraktischen Studienzeiten in den Ausbildungsbehörden des Bundes unterstehen die Studierenden neben der Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule auch der Dienstaufsicht der Leitungen der Ausbildungsbehörden.
+(1) Im Präsenzstudiengang ist die Hochschule als Einstellungsbehörde der Studierenden für die dienstrechtlichen Entscheidungen zuständig. Während der berufspraktischen Studienzeiten in den Ausbildungsbehörden des Bundes unterstehen die Studierenden neben der Dienstaufsicht der Präsidentin oder des Präsidenten der Hochschule auch der Dienstaufsicht der Leitungen der Ausbildungsbehörden.
 
-(2) Im Fernstudiengang verbleiben die Studierenden bei ihren bisherigen Dienststellen. Sie sind für den Besuch der Präsenzveranstaltungen, für die Teilnahme an Prüfungen und im Rahmen weiterer Anwesenheitspflichten an der Fachhochschule von ihren sonstigen Dienstpflichten freizustellen. Für die Anfertigung der Diplomarbeit ist ihnen eine Dienstbefreiung im Umfang von sechs Wochen zu gewähren. Zum Fern- und Selbststudium ist ihnen eine Dienstbefreiung im Umfang von 47 Arbeitstagen pro Studienabschnitt zu gewähren, die gleichmäßig auf die Module verteilt werden soll.
+(2) Im Fernstudiengang verbleiben die Studierenden bei ihren bisherigen Dienststellen. Sie sind für den Besuch der Präsenzveranstaltungen, für die Teilnahme an Prüfungen und im Rahmen weiterer Anwesenheitspflichten an der Hochschule von ihren sonstigen Dienstpflichten freizustellen. Für die Anfertigung der Diplomarbeit ist ihnen eine Dienstbefreiung im Umfang von sechs Wochen zu gewähren. Zum Fern- und Selbststudium ist ihnen eine Dienstbefreiung im Umfang von 47 Arbeitstagen pro Studienabschnitt zu gewähren, die gleichmäßig auf die Module verteilt werden soll.
 
 # § 4 – Auswahlverfahren
 
-(1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Fachhochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Fachhochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern, für Bau und Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
+(1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Hochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Hochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern, für Bau und Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
+
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an Studienplätzen, kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an Studienplätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen. Das Nähere zu den Kriterien und zum Verfahren der Auswahl regelt die Auswahlverfahrensrichtlinie.
 
@@ -33,23 +39,31 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 (4) Die Auswahlkommission besteht aus:
 
-1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Fachhochschule als Vorsitzender oder Vorsitzendem,
+1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Hochschule als Vorsitzender oder Vorsitzendem,
 
 2. einer Beamtin oder eines Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes und
 
 3. zwei weiteren Beamtinnen und Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes.
 
-In begründeten Fällen kann auch eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Kommission zum Mitglied der Auswahlkommission bestellt werden, sofern sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Fachhochschule für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
+In begründeten Fällen kann auch eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Kommission zum Mitglied der Auswahlkommission bestellt werden, sofern sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Hochschule für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
+
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Auswahlkommission – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer Beamtin oder einem Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft als Vorsitzender oder Vorsitzendem und
+
+2. einer weiteren Beamtin oder einem weiteren Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer weiteren Beamtin oder einem weiteren Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes.
+
+Ist festgelegt worden, dass die Auswahlkommission nur aus zwei Personen besteht, so können die beiden Mitglieder und ihre Ersatzmitglieder – abweichend von Absatz 4 Satz 7 – für weniger als drei Jahre bestellt werden.
 
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In diesen Fällen ist sicherzustellen, dass gleiche Auswahlmaßstäbe angelegt werden.
 
 # § 5 – Urlaub
 
-Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholungsurlaubs. Er ist auf die Fachstudien und die berufspraktischen Studienzeiten gleichmäßig zu verteilen.
+Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des Erholungsurlaubs. Er ist auf die Fachstudien und die berufspraktischen Studienzeiten gleichmäßig zu verteilen.
 
 # § 6 – Dauer und Aufbau des Studiums
 
-(1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien an der Fachhochschule sowie berufspraktische Studienzeiten (Praktika) in Bundesbehörden. Praktika können auch im Ausland bei geeigneten Ausbildungsstätten absolviert werden. Das Nähere regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
+(1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien an der Hochschule sowie berufspraktische Studienzeiten (Praktika) in Bundesbehörden. Praktika können auch im Ausland bei geeigneten Ausbildungsstätten absolviert werden. Das Nähere regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
 (2) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 200 Lehrstunden.
 
@@ -73,7 +87,13 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 
 2. drei Fachstudienabschnitte und zwei hierzu parallel stattfindende Praktikumsabschnitte im Hauptstudium.
 
-(5) Je Semester im Präsenzstudiengang oder je Studienabschnitt im Fernstudiengang können die Studierenden bis zu 30 Leistungspunkte (Credit Points) nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen (ECTS) erwerben. Die Anzahl der Leistungspunkte, die für jedes erfolgreich absolvierte Modul erreicht werden können, ergibt sich aus dem Modulhandbuch in der jeweils bei Aufnahme des Studiums geltenden Fassung entsprechend § 7 Absatz 1 Satz 2.
+(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+
+1. Semester des Präsenzstudiengangs anders gegliedert werden als nach Absatz 3 und
+
+2. Studienabschnitte des Fernstudiengangs anders gegliedert werden als nach Absatz 4.
+
+(5) Je Semester im Präsenzstudiengang oder je Studienabschnitt im Fernstudiengang können die Studierenden bis zu 30 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen erwerben. Die Anzahl der Leistungspunkte, die für jedes erfolgreich absolvierte Modul erreicht werden können, ergibt sich aus dem Modulhandbuch in der jeweils bei Aufnahme des Studiums geltenden Fassung entsprechend § 7 Absatz 1 Satz 2.
 
 # § 7 – Studieninhalte, Module
 
@@ -107,13 +127,23 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 
 7. Interkulturelles Handeln in der Bundesverwaltung.
 
+(3a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von den Absätzen 2 und 3 – Lehrveranstaltungen zu den Kompetenzbereichen oder Teile der Lehrveranstaltungen in ein anderes Semester verschoben werden, und zwar auch in ein Semester einer berufspraktischen Studienzeit.
+
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+
+# § 7a – Nutzung digitaler Lehrformate
+
+Bis zum 31. Dezember 2022 können nach Entscheidung der Hochschule digitale Lehrformate genutzt werden
+
+1. für einzelne oder für alle Lehrveranstaltungen des Präsenzstudiengangs und
+
+2. auch für alle Lehrveranstaltungen des Fernstudiengangs.
 
 # § 8 – Berufspraktische Studienzeiten
 
-(1) Die Fachhochschule bestimmt und überwacht die Gestaltung und die Organisation der Praktika. Die Praktikumsstelle erstellt in Abstimmung mit der Fachhochschule für jede Studierende und jeden Studierenden einen Ausbildungsplan für das Praktikum und gibt ihn der oder dem Studierenden bekannt. Einzelheiten regelt die Praktikumsordnung der Fachhochschule.
+(1) Die Hochschule bestimmt und überwacht die Gestaltung und die Organisation der Praktika. Die Praktikumsstelle erstellt in Abstimmung mit der Hochschule für jede Studierende und jeden Studierenden einen Ausbildungsplan für das Praktikum und gibt ihn der oder dem Studierenden bekannt. Einzelheiten regelt die Praktikumsordnung der Hochschule.
 
-(2) Jede Ausbildungsbehörde bestellt im Benehmen mit der Fachhochschule eine Beamtin oder einen Beamten als Ausbildungsverantwortliche oder Ausbildungsverantwortlichen sowie eine Vertretung. Die Ausbildungsverantwortlichen sind für die ordnungsgemäße Durchführung der Praktika verantwortlich. Sie beraten die Studierenden und die Ausbildenden.
+(2) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule eine Beamtin oder einen Beamten als Ausbildungsverantwortliche oder Ausbildungsverantwortlichen sowie eine Vertretung. Die Ausbildungsverantwortlichen sind für die ordnungsgemäße Durchführung der Praktika verantwortlich. Sie beraten die Studierenden und die Ausbildenden.
 
 (3) Den Ausbildenden dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist. Die Ausbildenden informieren die Ausbildungsverantwortlichen regelmäßig über den Stand der Ausbildung.
 
@@ -135,7 +165,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 # § 10 – Prüfungsamt
 
-(1) Für die Organisation und Durchführung der Laufbahnprüfung richtet die Fachhochschule ein Prüfungsamt ein.
+(1) Für die Organisation und Durchführung der Laufbahnprüfung richtet die Hochschule ein Prüfungsamt ein.
 
 (2) Das Prüfungsamt hat sicherzustellen, dass die jeweils aufsichtführende Person bei den schriftlichen und mündlichen Prüfungen eine Niederschrift erstellt. In der Niederschrift über die mündliche Prüfung ist die Bewertung anhand der ausschlaggebenden Punkte zu begründen.
 
@@ -147,9 +177,9 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 (2) Werden für eine Prüfung oder einen Prüfungsteil zwei Prüfende bestellt, legt das Prüfungsamt fest, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin oder Zweitprüfer ist. Die Prüfenden bewerten unabhängig voneinander die Prüfung oder den Prüfungsteil. Die Zweitprüferin oder der Zweitprüfer darf Kenntnis von der Bewertung der Erstprüferin oder des Erstprüfers haben.
 
-(3) Zur Bewertung der Zwischenprüfung wird vom Prüfungsamt für jede Klausur eine Prüferin oder ein Prüfer bestellt. Für zu wiederholende Klausuren werden zwei Prüfende bestellt, von denen eine oder einer eine hauptamtliche Lehrkraft der Fachhochschule sein muss.
+(3) Zur Bewertung der Zwischenprüfung wird vom Prüfungsamt für jede Klausur eine Prüferin oder ein Prüfer bestellt. Für zu wiederholende Klausuren werden zwei Prüfende bestellt, von denen eine oder einer eine hauptamtliche Lehrkraft der Hochschule sein muss.
 
-(4) Zur Bewertung einer Modulprüfung wird vom Prüfungsamt im Benehmen mit dem Fachbereich eine Prüferin oder ein Prüfer bestellt. Zur Bewertung von Klausuren mit einer Bearbeitungszeit von 240 Minuten und zur Bewertung von zu wiederholenden Modulprüfungen werden jeweils zwei Prüfende bestellt, von denen eine oder einer eine hauptamtliche Lehrkraft der Fachhochschule sein muss.
+(4) Zur Bewertung einer Modulprüfung wird vom Prüfungsamt im Benehmen mit dem Fachbereich eine Prüferin oder ein Prüfer bestellt. Zur Bewertung von Klausuren mit einer Bearbeitungszeit von 240 Minuten und zur Bewertung von zu wiederholenden Modulprüfungen werden jeweils zwei Prüfende bestellt, von denen eine oder einer eine hauptamtliche Lehrkraft der Hochschule sein muss.
 
 (5) Für die Bewertung der Diplomarbeit werden vom Prüfungsamt zwei Prüfende bestellt, wobei
 
@@ -157,21 +187,29 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 2. die oder der andere Prüfende mindestens dem gehobenen nichttechnischen Verwaltungsdienst angehört und
 
-3. mindestens eine Prüfende oder ein Prüfender eine Lehrkraft der Fachhochschule ist.
+3. mindestens eine Prüfende oder ein Prüfender eine Lehrkraft der Hochschule ist.
 
 Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben worden ist.
 
 (6) Für die mündliche Abschlussprüfung richtet das Prüfungsamt eine Prüfungskommission ein. Diese besteht aus
 
-1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Fachhochschule als Vorsitzender oder Vorsitzendem,
+1. einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der Hochschule als Vorsitzender oder Vorsitzendem,
 
 2. einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzerin oder Beisitzer und Vertretung der oder des Vorsitzenden und
 
 3. drei weiteren Beamtinnen oder Beamten des gehobenen oder höheren Dienstes als Beisitzenden, von denen mindestens eine Beamtin oder ein Beamter dem gehobenen oder höheren nichttechnischen Verwaltungsdienst des Bundes angehört.
 
-Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entsprechende Qualifikation verfügen. Zwei Mitglieder der Prüfungskommission sollen Lehrkräfte der Fachhochschule sein.
+Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entsprechende Qualifikation verfügen. Zwei Mitglieder der Prüfungskommission sollen Lehrkräfte der Hochschule sein.
+
+(6a) Abweichend von Absatz 6 Satz 2 bis 4 können bis zum 31. Dezember 2022 von den fünf Mitgliedern der Prüfungskommission für die mündliche Abschlussprüfung höchstens vier Prüfende auch Lehrbeauftragte sein, die weder Beamtinnen oder Beamte noch Arbeitnehmerinnen oder Arbeitnehmer des Bundes sind, wenn sie
+
+1. über langjährige Erfahrungen als Lehrbeauftragte an der Hochschule verfügen und
+
+2. mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen.
 
 (7) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+
+(7a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 eine Prüfungskommission bereits beschlussfähig ist, wenn mindestens drei Mitglieder anwesend sind.
 
 (8) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
@@ -199,21 +237,37 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 7. ein Kurzvortrag.
 
+(4a) Bis zum 31. Dezember 2022 können
+
+1. die Leistungstests Klausur, Sprachtest und Lehrveranstaltungsprotokoll mit Unterstützung durch Informationstechnik durchgeführt werden, und
+
+2. die Präsentation, die mündliche Prüfung und der Kurzvortrag unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
 (5) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
 
 (6) Im Modul „Diplomarbeit“ stellt die Anfertigung der Diplomarbeit die Prüfung dar.
 
 (7) Modulprüfungen in den Praktika bestehen aus einem Praktikumsbericht und einem Rundgespräch. Daneben fließt in die Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
+(8) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Modulprüfung in einem Praktikum nur aus einem Praktikumsbericht besteht.
+
 # § 13 – Prüfungen im Grundstudium
 
 (1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
 
+(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung studiengangbegleitend durchgeführt werden.
+
 (2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen Modulen des Grundstudiums. Die Modulprüfungen werden als Klausuren mit einer Bearbeitungszeit von jeweils 180 Minuten durchgeführt. Die Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen.
 
-(3) Die Zwischenprüfung ist bestanden, wenn drei Klausuren mindestens mit der Note „ausreichend“ bewertet worden sind und wenn insgesamt in den vier Klausuren mindestens die Durchschnittsrangpunktzahl 5 erreicht worden ist.
+(2a) Bis zum 31. Dezember 2022 können höchstens zwei der vier Modulprüfungen der Zwischenprüfung – abweichend von Absatz 2 Satz 2 – als Hausarbeit durchgeführt werden. Das jeweilige Thema für die Hausarbeit wählt die Dekanin oder der Dekan des Zentralbereichs aus den Vorschlägen der Lehrkräfte aus.
 
-(4) Die Fachhochschule stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die erreichten Rangpunkte, die Noten und die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung endgültig nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid mit dem Vermerk über die nicht bestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der hervorgeht, welche Module absolviert wurden, wie sie bewertet wurden und wie viele Leistungspunkte erworben wurden.
+(3) Die Zwischenprüfung ist bestanden, wenn
+
+1. drei Modulprüfungen der Zwischenprüfung mindestens mit fünf Rangpunkten bewertet worden sind und
+
+2. in den vier Modulprüfungen der Zwischenprüfung eine Durchschnittsrangpunktzahl von mindestens 5,00 erreicht worden ist.
+
+(4) Die Hochschule stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die erreichten Rangpunkte, die Noten und die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung endgültig nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid mit dem Vermerk über die nicht bestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der hervorgeht, welche Module absolviert wurden, wie sie bewertet wurden und wie viele Leistungspunkte erworben wurden.
 
 (5) Für die Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
 
@@ -221,7 +275,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbstständig zu bearbeiten. Die Bearbeitungszeit beträgt acht Wochen. Die Studierenden werden zur Anfertigung der Diplomarbeit für sechs Wochen von der Teilnahme an Lehrveranstaltungen und von ihren sonstigen Dienstpflichten freigestellt.
 
-(2) Das Thema der Diplomarbeit wird vom Prüfungsamt auf Vorschlag einer hauptamtlichen Lehrkraft ausgegeben. Den Studierenden ist im Hauptstudium II die Gelegenheit zu geben, eigene Themenvorschläge zu unterbreiten. Abweichend von Satz 1 können aus dienstlichen Gründen auch Vorschläge von nebenamtlichen Lehrkräften der Fachhochschule sowie von Dienstbehörden zugelassen werden. Das Thema der Diplomarbeit kann nicht zurückgegeben werden; es kann nur im Ausnahmefall und in Abstimmung mit den Erst- und Zweitprüfenden durch das Prüfungsamt geändert werden. Das Thema der Diplomarbeit kann nicht zurückgegeben oder geändert werden.
+(2) Das Thema der Diplomarbeit wird vom Prüfungsamt auf Vorschlag einer hauptamtlichen Lehrkraft ausgegeben. Den Studierenden ist im Hauptstudium II die Gelegenheit zu geben, eigene Themenvorschläge zu unterbreiten. Abweichend von Satz 1 können aus dienstlichen Gründen auch Vorschläge von nebenamtlichen Lehrkräften der Hochschule sowie von Dienstbehörden zugelassen werden. Das Thema der Diplomarbeit kann nicht zurückgegeben werden; es kann nur im Ausnahmefall und in Abstimmung mit den Erst- und Zweitprüfenden durch das Prüfungsamt geändert werden. Das Thema der Diplomarbeit kann nicht zurückgegeben oder geändert werden.
 
 (3) Die Diplomarbeit ist formal und inhaltlich nach den Vorgaben des Fachbereichs Allgemeine Innere Verwaltung zu erstellen. Bei der Anfertigung der Diplomarbeit werden die Studierenden von der oder dem Erstprüfenden und der oder dem Zweitprüfenden betreut.
 
@@ -233,7 +287,31 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die Zwischenprüfung, die Modulprüfungen des Hauptstudiums und die Diplomarbeit bestanden hat.
 
-(2) Gegenstand der mündlichen Abschlussprüfung sollen gleichrangig die Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die mündliche Abschlussprüfung soll nicht länger als 40 Minuten dauern.
+(2) Gegenstand der mündlichen Abschlussprüfung sollen zu gleichen Teilen die Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die mündliche Abschlussprüfung soll nicht länger als 40 Minuten dauern.
+
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+
+1. für die mündliche Abschlussprüfung die folgenden Kompetenzbereiche zu dem Kompetenzbereich „rechtliches Handeln in der Bundesverwaltung“ zusammengefasst werden:
+
+a) verfassungsrechtliche und europarechtliche Rahmenbedingungen der Bundesverwaltung (§ 7 Absatz 3 Nummer 1),
+
+b) öffentlich-rechtliches Handeln in der Bundesverwaltung (§ 7 Absatz 3 Nummer 2),
+
+c) privatrechtliches Handeln in der Bundesverwaltung (§ 7 Absatz 3 Nummer 3) und
+
+d) Personal in der Bundesverwaltung (§ 7 Absatz 3 Nummer 6) und
+
+2. der Gegenstand der mündlichen Abschlussprüfung zu gleichen Teilen den folgenden Kompetenzbereichen zu entnehmen ist:
+
+a) rechtliches Handeln in der Bundesverwaltung,
+
+b) Betriebswirtschaft in der Bundesverwaltung (§ 7 Absatz 3 Nummer 4) und
+
+c) Finanzen in der Bundesverwaltung (§ 7 Absatz 3 Nummer 5).
+
+Ist festgelegt worden, dass die in Satz 1 Nummer 1 genannten Kompetenzbereiche zusammengefasst werden, so soll die mündliche Abschlussprüfung nicht länger als 30 Minuten dauern.
+
+(2b) Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann die Hochschule festlegen, dass bis zum 31. Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn von der Ausnahmemöglichkeit nach Absatz 2a Gebrauch gemacht würde.
 
 (3) In der interdisziplinären Prüfung sollen die Studierenden nachweisen, dass sie die Inhalte der absolvierten Module zueinander in Beziehung setzen können und dass ihre Kenntnisse und Fähigkeiten den Anforderungen an Beamtinnen und Beamte des gehobenen nichttechnischen Verwaltungsdienstes genügen. Die Prüfung soll als Gruppenprüfung durchgeführt werden. Eine Prüfungsgruppe soll aus höchstens fünf Studierenden bestehen.
 
@@ -343,7 +421,7 @@ nicht ausreichend
 
 (1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, von einer Modulprüfung oder von der mündlichen Abschlussprüfung ohne Genehmigung des Prüfungsamtes gilt die Prüfung als mit null Rangpunkten bewertet.
 
-(2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung kann die Genehmigung grundsätzlich nur erteilt werden, wenn unverzüglich ein ärztliches Zeugnis vorgelegt wird. Auf Verlangen des Prüfungsamtes oder der Fachbereichsleitung ist ein amtsärztliches Zeugnis oder das Zeugnis einer Ärztin oder eines Arztes vorzulegen, die oder der von der Fachhochschule beauftragt worden ist.
+(2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung kann die Genehmigung grundsätzlich nur erteilt werden, wenn unverzüglich ein ärztliches Zeugnis vorgelegt wird. Auf Verlangen des Prüfungsamtes oder der Fachbereichsleitung ist ein amtsärztliches Zeugnis oder das Zeugnis einer Ärztin oder eines Arztes vorzulegen, die oder der von der Hochschule beauftragt worden ist.
 
 (3) Für die Anfertigung der Diplomarbeit gilt Absatz 2 entsprechend. Soweit die Verhinderung die Bearbeitungszeit der Diplomarbeit nicht um die Hälfte übersteigt, verlängert das Prüfungsamt die Bearbeitungszeit auf Antrag der oder des Studierenden entsprechend. Sind Studierende länger als die Hälfte der Bearbeitungszeit verhindert, gilt die Diplomarbeit als nicht begonnen. Wird die Diplomarbeit nicht innerhalb der vorgesehenen Frist abgegeben, gilt sie als mit null Punkten bewertet.
 
@@ -422,6 +500,8 @@ Abschlussprüfung mit</td><td style="text-align: right;">20 Prozent.</td></tr></
   
 Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf eine ganze Zahl gerundet. Die Zuordnung der Gesamtnote erfolgt nach § 16 Absatz 2.
 
+(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der abschließenden Rangpunktzahl die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller im Studiengang erbrachten Leistungen.
+
 (3) Im Anschluss an die Beratung der Prüfungskommission zur mündlichen Abschlussprüfung teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
 # § 21 – Abschlusszeugnis
@@ -458,7 +538,7 @@ Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf ei
 
 5. eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung.
 
-Die Prüfungsakten werden von der Fachhochschule mindestens fünf und höchstens zehn Jahre aufbewahrt.
+Die Prüfungsakten werden von der Hochschule mindestens fünf und höchstens zehn Jahre aufbewahrt.
 
 (2) Die Beamtinnen und Beamten können Einsicht in ihre Prüfungsakten nehmen. Satz 1 gilt entsprechend, wenn die Laufbahnprüfung nicht bestanden ist oder wenn keine Übernahme in das Beamtenverhältnis erfolgt ist.
 

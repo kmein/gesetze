@@ -11,7 +11,11 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2
 
 (1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird ein Vorbereitungsdienst für den Verwaltungsinformatikdienst eingerichtet.
 
-(2) Der Diplomstudiengang „Verwaltungsinformatik“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes.
+(2) Der Diplomstudiengang „Verwaltungsinformatik“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes.
+
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 # § 2 – Ziele des Studiums
 
@@ -19,13 +23,15 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 # § 3 – Dienstbehörden
 
-(1) Einstellungsbehörden sind Einrichtungen der Bundesverwaltung, institutionelle Zuwendungsempfänger des Bundes und die Fachhochschule.
+(1) Einstellungsbehörden sind Einrichtungen der Bundesverwaltung, institutionelle Zuwendungsempfänger des Bundes und die Hochschule.
 
-(2) Die Studierenden unterstehen neben der Dienstaufsicht der Leitung der jeweiligen Einstellungsbehörde auch der Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule.
+(2) Die Studierenden unterstehen neben der Dienstaufsicht der Leitung der jeweiligen Einstellungsbehörde auch der Dienstaufsicht der Präsidentin oder des Präsidenten der Hochschule.
 
 # § 4 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
+
+(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, die der Einstellungsbehörde zur Verfügung stehen, kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze angeboten werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und ehemalige Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung bestimmten Voraussetzungen erfüllen.
 
@@ -45,17 +51,23 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 Mitglieder der Auswahlkommission können auch Tarifbeschäftigte sein, die über entsprechende Kenntnisse verfügen. Die Einstellungsbehörde beruft die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern.
 
+(2a) Die Einstellungsbehörde kann festlegen, dass bis zum 31. Dezember 2022 die Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht:
+
+1. einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes als Vorsitzender oder Vorsitzendem und
+
+2. einer Beamtin oder einem Beamten oder zwei Beamtinnen oder Beamten des gehobenen oder höheren Dienstes.
+
 (3) Die Mitglieder der Auswahlkommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
 (4) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
 # § 6 – Urlaub
 
-Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochschule und während der berufspraktischen Studien (Praktika) die Einstellungsbehörde.
+Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Hochschule und während der berufspraktischen Studien (Praktika) die Einstellungsbehörde.
 
 # § 7 – Dauer und Aufbau des Studiums
 
-(1) Das Studium dauert in der Regel drei Jahre. Es umfasst 24 Monate Fachstudien an der Fachhochschule und zwölf Monate Praktika.
+(1) Das Studium dauert in der Regel drei Jahre. Es umfasst 24 Monate Fachstudien an der Hochschule und zwölf Monate Praktika.
 
 (2) Das Studium gliedert sich in folgende Abschnitte:
 
@@ -73,7 +85,13 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochsc
 
 7. Hauptstudium III.
 
-(3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt die Fachhochschule in einem Modulhandbuch fest.
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die Studienabschnitte anders gegliedert werden.
+
+(3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt die Hochschule in einem Modulhandbuch fest.
+
+# § 7a – Nutzung digitaler Lehrformate
+
+Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.
 
 # § 8 – Fachstudien
 
@@ -101,7 +119,7 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochsc
 
 (1) Die Einstellungsbehörde bestimmt und überwacht die Gestaltung und die Organisation der Praktika. Sie erstellt für jede Studierende und jeden Studierenden einen Ausbildungsplan.
 
-(2) Jede Einstellungsbehörde bestellt im Benehmen mit der Fachhochschule eine Beamtin oder einen Beamten für die Leitung der Ausbildung und eine Vertretung. Die Ausbildungsleitung ist für die ordnungsgemäße Durchführung der Praktika verantwortlich. Sie bestellt Ausbildende und berät die Studierenden und die Ausbildenden.
+(2) Jede Einstellungsbehörde bestellt im Benehmen mit der Hochschule eine Beamtin oder einen Beamten für die Leitung der Ausbildung und eine Vertretung. Die Ausbildungsleitung ist für die ordnungsgemäße Durchführung der Praktika verantwortlich. Sie bestellt Ausbildende und berät die Studierenden und die Ausbildenden.
 
 (3) Mit der Ausbildung darf nur betraut werden, wer über die erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner Persönlichkeit hierzu geeignet ist. Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den Stand der Ausbildung. Den Ausbildenden dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist.
 
@@ -115,9 +133,9 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfun
 
 (1) Gestaltung, Organisation und Durchführung der Prüfungen obliegen
 
-1. dem Prüfungsamt am Zentralbereich der Fachhochschule für die dort durchgeführten Teile des Studiums,
+1. dem Prüfungsamt am Zentralbereich der Hochschule für die dort durchgeführten Teile des Studiums,
 
-2. dem Prüfungsamt am Fachbereich Finanzen der Fachhochschule für die übrigen Prüfungen.
+2. dem Prüfungsamt am Fachbereich Finanzen der Hochschule für die übrigen Prüfungen.
 
 (2) Studierenden mit vorübergehenden Beeinträchtigungen, die nicht in den Anwendungsbereich des Neunten Buches Sozialgesetzbuch fallen, gewährt das jeweils zuständige Prüfungsamt angemessene Erleichterungen. Die Erleichterungen dürfen jedoch nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
@@ -125,7 +143,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfun
 
 (1) Für die Bewertung der Prüfungen bestellt das jeweils zuständige Prüfungsamt Prüfende. Die Prüfenden sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
-(2) Für die Bewertung einer Zwischenprüfungsklausur, einer Modulprüfung oder eines Modulprüfungsteils wird eine Prüferin oder ein Prüfer bestellt. Für die Bewertung von Wiederholungen einer Zwischenprüfungsklausur, einer Modulprüfung oder eines Modulprüfungsteils werden zwei Prüfende bestellt. Die Prüfenden sollen Lehrkräfte der Fachhochschule sein.
+(2) Für die Bewertung einer Zwischenprüfungsklausur, einer Modulprüfung oder eines Modulprüfungsteils wird eine Prüferin oder ein Prüfer bestellt. Für die Bewertung von Wiederholungen einer Zwischenprüfungsklausur, einer Modulprüfung oder eines Modulprüfungsteils werden zwei Prüfende bestellt. Die Prüfenden sollen Lehrkräfte der Hochschule sein.
 
 (3) Für die Bewertung der Diplomarbeit werden zwei Prüfende bestellt, für die folgende Anforderungen gelten:
 
@@ -133,7 +151,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfun
 
 2. die oder der andere Prüfende gehört mindestens dem gehobenen Dienst an und
 
-3. eine oder einer ist eine Lehrkraft der Fachhochschule.
+3. eine oder einer ist eine Lehrkraft der Hochschule.
 
 Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben worden ist. Das Prüfungsamt kann Ersatzprüfende bestellen.
 
@@ -145,9 +163,21 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen. In der Zwischenprüfung haben die Studierenden nachzuweisen, dass sie einen Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
-(2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe „Basisqualifikationen“ und drei weiteren Klausuren. Näheres legt die Fachhochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen ausgewählt, die die Lehrkräfte einreichen. § 15 gilt entsprechend.
+(1a) Bis zum 31. Dezember 2022 kann die Zwischenprüfung auch studiengangbegleitend durchgeführt werden.
+
+(2) Die Zwischenprüfung besteht aus einer Klausur zur Modulgruppe „Basisqualifikationen“ und drei weiteren Klausuren. Näheres legt die Hochschule im Modulhandbuch fest. Die Klausuraufgaben werden von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen ausgewählt, die die Lehrkräfte einreichen.
+
+(2a) Bis zum 31. Dezember 2022 können eine oder zwei der vier Klausuren jeweils durch eine Hausarbeit ersetzt werden. Das Thema für die jeweilige Hausarbeit wird von der Dekanin oder dem Dekan am Zentralbereich aus den Vorschlägen der Lehrkräfte ausgewählt.
 
 (3) Die Zwischenprüfung ist bestanden, wenn die Klausur zur Modulgruppe „Basisqualifikationen“ und zwei weitere Klausuren mit mindestens fünf Rangpunkten bewertet worden sind und eine Durchschnittsrangpunktzahl von mindestens 5 erreicht worden ist.
+
+(3a) Sind eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt worden, so ist die Zwischenprüfung bestanden, wenn
+
+1. die Klausur oder die Hausarbeit zur Modulgruppe „Basisqualifikationen“ mit mindestens fünf Rangpunkten bewertet worden ist,
+
+2. zwei weitere Klausuren oder Hausarbeiten mit mindestens fünf Rangpunkten bewertet worden sind und
+
+3. aus allen Klausuren und Hausarbeiten eine Durchschnittsrangpunktzahl von mindestens 5,00 erreicht worden ist.
 
 (4) Das Prüfungsamt am Zentralbereich stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die Rangpunkte der einzelnen Klausuren sowie die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentralbereich einen schriftlichen Bescheid, aus dem das Ergebnis der Zwischenprüfung und die absolvierten Module hervorgehen. § 26 Absatz 3 gilt entsprechend.
 
@@ -159,17 +189,21 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 1. Klausuren, die vollständig oder teilweise aus Multiple-Choice-Aufgaben bestehen können,
 
-2. mündlichen Leistungen,
+2. Referaten oder anderen mündlichen Leistungen,
 
-3. IT-Anwendungen.
+3. IT-Anwendungen und
 
-Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls durchzuführen ist.
+4. Hausarbeiten.
 
-(3) Das Nähere legt die Fachhochschule im Modulhandbuch fest.
+Klausuren können mit Unterstützung durch Informationstechnik durchgeführt werden.
+
+(2a) Bis zum 31. Dezember 2020 kann für die Durchführung der Referate und der anderen mündlichen Leistungen Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
+(3) Das Nähere legt die Hochschule im Modulhandbuch fest.
 
 (4) Bei einer mehrteiligen Modulprüfung werden für jeden Prüfungsteil eigenständig nach § 19 oder § 20 die erreichten Rangpunkte festgestellt. Die Rangpunktzahl einer Modulprüfung wird aus der Gewichtung der einzelnen Prüfungsteile errechnet. Ist die Modulprüfung bestanden, wird die Rangpunktzahl bei Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten abgerundet.
 
-(5) Die Nachholung des letzten Prüfungsteils kann als mündliche Prüfung durchgeführt werden. In diesem Fall ist ein Protokoll über den Prüfungsverlauf anzufertigen und die erreichte Note im Protokoll zu begründen.
+(5) Die Nachholung einer Klausur, die Teil einer Modulprüfung ist, kann als mündliche Prüfung durchgeführt werden. In diesem Fall ist ein Protokoll über den Prüfungsverlauf anzufertigen und die erreichte Note im Protokoll zu begründen.
 
 # § 15 – Klausuren
 
@@ -183,7 +217,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 (1) Die Diplomarbeit besteht aus einer schriftlichen Ausarbeitung, einer Präsentation und einer Disputation.
 
-(2) Das Thema der Diplomarbeit wird vom Prüfungsamt am Fachbereich Finanzen in der Regel auf Vorschlag einer hauptamtlichen Lehrkraft während des Hauptstudiums II ausgegeben. Auch Vorschläge von nebenamtlichen Lehrkräften der Fachhochschule und von den Einstellungsbehörden können berücksichtigt werden. Den Studierenden ist im Hauptstudium II die Gelegenheit zu geben, eigene Themenvorschläge zu unterbreiten. Die Ausgabe des Themas ist in der Prüfungsakte zu vermerken. Das Thema der Diplomarbeit kann nur in besonderen Fällen und mit Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.
+(2) Das Thema der Diplomarbeit wird vom Prüfungsamt am Fachbereich Finanzen in der Regel auf Vorschlag einer hauptamtlichen Lehrkraft während des Hauptstudiums II ausgegeben. Auch Vorschläge von nebenamtlichen Lehrkräften der Hochschule und von den Einstellungsbehörden können berücksichtigt werden. Den Studierenden ist im Hauptstudium II die Gelegenheit zu geben, eigene Themenvorschläge zu unterbreiten. Die Ausgabe des Themas ist in der Prüfungsakte zu vermerken. Das Thema der Diplomarbeit kann nur in besonderen Fällen und mit Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.
 
 (3) In die Bewertung der Diplomarbeit gehen ein:
 
@@ -212,6 +246,8 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 (2) Mit der Präsentation und der Disputation sollen die Studierenden nachweisen, dass sie fundiertes Wissen auf dem bearbeiteten Themengebiet besitzen und dass sie fähig sind, die Wahl der angewendeten Methoden zu begründen, die erzielten Ergebnisse zu erläutern und sich mit Einwänden auseinanderzusetzen.
 
 (3) Präsentation und Disputation werden als Einzelprüfung durchgeführt. Die Präsentation dauert in der Regel 15 Minuten. Die sich daran anschließende Disputation soll mindestens 20 und höchstens 30 Minuten dauern.
+
+(3a) Bis zum 31. Dezember 2022 kann für die Durchführung der Präsentation und Disputation Videokonferenztechnik genutzt werden, wenn dafür entsprechende technische Einrichtungen zur Verfügung stehen.
 
 (4) Die Präsentation und die Disputation sind hochschulöffentlich, wenn die oder der Studierende oder ihre oder seine Einstellungsbehörde dem nicht widerspricht. Unabhängig von deren Einverständnis können Angehörige des Prüfungsamtes anwesend sein. Das Prüfungsamt kann allgemein oder im Einzelfall gestatten, dass darüber hinaus mit der Ausbildung befasste Personen bei der Präsentation und der Disputation anwesend sind. Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen anfertigen. Bei den Beratungen über die Bewertung der Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 
@@ -417,7 +453,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 # § 25 – Abschlusszeugnis
 
-(1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin – Schwerpunkt Verwaltungsinformatik (FH)“ oder „Diplom-Verwaltungswirt – Schwerpunkt Verwaltungsinformatik (FH)“. Auf Antrag stellt die Fachhochschule einen Nachweis über die Abschlussnote als Dezimalzahl nach dem Muster in der Anlage aus.
+(1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin – Schwerpunkt Verwaltungsinformatik (FH)“ oder „Diplom-Verwaltungswirt – Schwerpunkt Verwaltungsinformatik (FH)“. Auf Antrag stellt die Hochschule einen Nachweis über die Abschlussnote als Dezimalzahl nach dem Muster in der Anlage aus.
 
 (2) Das Abschlusszeugnis enthält:
 

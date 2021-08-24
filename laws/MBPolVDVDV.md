@@ -75,6 +75,10 @@ Auf Grund des § 3 Absatz 2 Satz 2 und 3 des Bundespolizeibeamtengesetzes, Satz 
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziele des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst hat insbesondere zum Ziel,
@@ -101,11 +105,11 @@ Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
 (2) Eine Auswahlkommission besteht aus
 
-1. einer Beamtin oder einem Beamten des gehobenen Dienstes, die oder der mindestens ein Amt der Besoldungsgruppe A 10 innehat und der oder dem laufbahnrechtlich ein Amt der Besoldungsgruppe A 13 (gehobener Dienst) verliehen werden kann, als Vorsitzender oder Vorsitzendem und
+1. einer Beamtin oder einem Beamten des gehobenen Dienstes, die oder der mindestens ein Amt der Besoldungsgruppe A 10 innehat, als Vorsitzender oder Vorsitzendem und
 
 2. zwei Beamtinnen oder zwei Beamten, die mindestens ein Amt der Besoldungsgruppe A 8 innehaben.
 
-Mindestens zwei Mitglieder der Auswahlkommission sollen dem Polizeivollzugsdienst in der Bundespolizei angehören.
+Höchstens ein Mitglied der Auswahlkommission kann eine vergleichbare Arbeitnehmerin oder ein vergleichbarer Arbeitnehmer sein. Der Beamtin oder dem Beamten nach Satz 1 Nummer 1 muss laufbahnrechtlich ein Amt der Besoldungsgruppe A 13 (gehobener Dienst) verliehen werden können. Mindestens zwei Mitglieder der Auswahlkommission sollen dem Polizeivollzugsdienst in der Bundespolizei angehören.
 
 (3) Die Mitglieder der Auswahlkommission werden auf Vorschlag der Bundespolizeiakademie vom Bundespolizeipräsidium bestellt. Die Bestellung erfolgt für vier Jahre. Wiederbestellung ist zulässig.
 
@@ -240,6 +244,8 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 2. das Deutsche Schwimmabzeichen in Bronze der Deutschen Lebens-Rettungs-Gesellschaft e. V. oder einen vergleichbaren Nachweis besitzt.
 
 (3) Werden Ausnahmen von Absatz 2 Nummer 1 zugelassen, so ist die Einstellung mit der Auflage zu versehen, dass der Befähigungsnachweis bis zum Abschluss des Vorbereitungsdienstes vorzulegen ist. Anwärterinnen und Anwärter, die den in Absatz 2 Nummer 1 genannten Befähigungsnachweis nicht bis zum Abschluss des Vorbereitungsdienstes vorlegen, werden nicht in ein Beamtenverhältnis auf Probe übernommen.
+
+(3a) Das Bundespolizeipräsidium kann vorsehen, dass bis zum 31. Dezember 2022 die Einstellung mit der Auflage versehen wird, dass die in Absatz 2 genannten Befähigungsnachweise auch noch nach Abschluss des Vorbereitungsdienstes vorgelegt werden können.
 
 (4) Über die Einstellung der Bewerberinnen und Bewerber entscheidet die Bundespolizeiakademie auf der Grundlage der Rangfolge, die anhand des im Auswahlverfahren erzielten Gesamtergebnisses festgelegt worden ist.
 
@@ -489,6 +495,8 @@ d) polizeispezifische Erste Hilfe sowie
 
 (4) In der Grundausbildung ist in jedem Fach der theoretischen und der praktischen Ausbildung mindestens ein Leistungstest durchzuführen.
 
+(4a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 davon abgesehen werden kann, in der Grundausbildung in jedem Fach der theoretischen und der praktischen Ausbildung mindestens einen Leistungstest durchzuführen.
+
 (5) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 # § 23 – Weitere Ausbildung
@@ -536,6 +544,8 @@ c) Polizeitechnik,
 1. in jedem der in Absatz 2 Nummer 1 genannten Fächer und
 
 2. in jedem der in Absatz 2 Nummer 2 genannten Fächer.
+
+(3a) Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 während der weiteren Ausbildung in den in Absatz 2 Nummer 1 Buchstabe c, d, g und h und Nummer 2 genannten Fächern auf einen Leistungstest verzichtet werden kann.
 
 (4) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
@@ -659,6 +669,8 @@ Die Zwischenprüfung besteht aus
 
 3. einer praktischen Prüfung.
 
+Die Bundespolizeiakademie kann mit Zustimmung des Bundespolizeipräsidiums festlegen, dass bis zum 31. Dezember 2022 in der Zwischenprüfung die praktische Prüfung entfällt.
+
 # § 34 – Gegenstand und Durchführung der schriftlichen Prüfung
 
 (1) Die schriftliche Prüfung der Zwischenprüfung besteht aus vier Klausuren.
@@ -712,6 +724,30 @@ Die schriftliche Prüfung der Zwischenprüfung hat bestanden, wer in mindestens 
 a) jeweils eine Fachrangpunktzahl von mindestens 5,00 erreicht hat oder
 
 b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfolgt, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
+
+(1a) Ist festgelegt worden, dass die praktische Prüfung der Zwischenprüfung entfällt, so ist zur mündlichen Prüfung der Zwischenprüfung zugelassen, wer
+
+1. die schriftliche Prüfung der Zwischenprüfung bestanden hat und
+
+2. in der Grundausbildung in den Fächern Polizeitraining und polizeispezifische Erste Hilfe
+
+a) jeweils eine Fachrangpunktzahl von mindestens 5,00 erreicht hat oder
+
+b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfolgt, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
+
+(1b) Ist festgelegt worden, dass in der Grundausbildung nur im Fach Polizeitraining oder nur im Fach polizeispezifische Erste Hilfe ein Leistungstest durchzuführen ist oder mehrere Leistungstests durchzuführen sind, so ist zur mündlichen und zur praktischen Prüfung der Zwischenprüfung zugelassen, wer
+
+1. die schriftliche Prüfung der Zwischenprüfung bestanden hat und
+
+2. in dem Fach, in dem ein Leistungstest durchgeführt worden ist oder mehrere Leistungstests durchgeführt worden sind,
+
+a) eine Fachrangpunktzahl von mindestens 5,00 erreicht hat oder
+
+b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfolgt, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
+
+Die Bundespolizeiakademie entscheidet mit Zustimmung des Bundespolizeipräsidiums, ob neben den in Satz 1 genannten Voraussetzungen weitere Zulassungsvoraussetzungen gefordert werden. Die Sätze 1 und 2 gelten auch für den Fall, dass festgelegt worden ist, dass die Zwischenprüfung nur aus einer schriftlichen und einer mündlichen Prüfung besteht.
+
+(1c) Ist festgelegt worden, dass in der Grundausbildung weder im Fach Polizeitraining noch im Fach polizeispezifische Erste Hilfe ein Leistungstest durchzuführen ist, so entscheidet die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums, ob für die Zulassung zur mündlichen und zur praktischen Prüfung der Zwischenprüfung neben dem Bestehen der schriftlichen Prüfung der Zwischenprüfung weitere Zulassungsvoraussetzungen gefordert werden. Satz 1 gilt auch für den Fall, dass festgelegt worden ist, dass die Zwischenprüfung nur aus einer schriftlichen und einer mündlichen Prüfung besteht.
 
 (2) Sind die Voraussetzungen für die Zulassung nicht erfüllt, so gilt die Zwischenprüfung als nicht bestanden.
 
@@ -815,6 +851,14 @@ Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 3. die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
 
+(1a) Ist festgelegt worden, dass in der Zwischenprüfung die praktische Prüfung vollständig entfällt, so ist die Zwischenprüfung bestanden, wenn
+
+1. die schriftliche und die mündliche Prüfung der Zwischenprüfung bestanden worden sind,
+
+2. in jedem Prüfungsfach, das sowohl in der schriftlichen als auch in der mündlichen Prüfung Prüfungsgegenstand gewesen ist, die Durchschnittsrangpunktzahl der schriftlichen und der mündlichen Prüfung für dieses Prüfungsfach mindestens 5,00 beträgt und
+
+3. die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
+
 (2) Bei der Berechnung der Rangpunktzahl der Zwischenprüfung wird wie folgt gewichtet:
 
 1. die Ausbildungsabschnittsrangpunktzahl der Grundausbildung mit 40 Prozent,
@@ -824,6 +868,18 @@ Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 3. die Rangpunktzahl der praktischen Prüfung mit 15 Prozent und
 
 4. die Rangpunktzahl der mündlichen Prüfung mit 15 Prozent.
+
+(2a) Ist festgelegt worden, dass die Zwischenprüfung nur aus einer schriftlichen und einer mündlichen Prüfung besteht, so ist die Rangpunktzahl der Zwischenprüfung der Quotient aus
+
+1. der Summe aus
+
+a) der 40-fachen Ausbildungsabschnittsrangpunktzahl der Grundausbildung,
+
+b) der 7,5-fachen Rangpunktzahl für jede der vier Klausuren der schriftlichen Prüfung,
+
+c) der 15-fachen Rangpunktzahl der mündlichen Prüfung sowie
+
+2. der Zahl 85.
 
 (3) Ist die Zwischenprüfung bestanden, wird die Rangpunktzahl kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet. Die zugeordnete Note ist die Note der Zwischenprüfung.
 
@@ -968,6 +1024,20 @@ Die schriftliche Prüfung der Laufbahnprüfung hat bestanden, wer in mindestens 
 a) jeweils eine Fachrangpunktzahl von mindestens 5,00 erreicht hat oder
 
 b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfolgt, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
+
+(1a) Ist festgelegt worden, dass während der weiteren Ausbildung nur im Fach Einsatzausbildung oder nur im Fach Polizeitraining ein Leistungstest durchzuführen ist oder mehrere Leistungstests durchzuführen sind, so ist zur mündlichen Prüfung der Laufbahnprüfung zugelassen, wer
+
+1. die schriftliche Prüfung der Laufbahnprüfung bestanden hat und
+
+2. von den beiden Fächern Einsatzausbildung und Polizeitraining nur in dem Fach, in dem ein Leistungstest durchgeführt worden ist oder mehrere Leistungstests durchgeführt worden sind,
+
+a) eine Fachrangpunktzahl von mindestens 5,00 erreicht hat oder
+
+b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfolgt, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
+
+Die Bundespolizeiakademie entscheidet mit Zustimmung des Bundespolizeipräsidiums, ob neben den in Satz 1 genannten Voraussetzungen weitere Zulassungsvoraussetzungen gefordert werden.
+
+(1b) Ist festgelegt worden, dass während der weiteren Ausbildung weder im Fach Einsatzausbildung noch im Fach Polizeitraining ein Leistungstest durchzuführen ist, so ist zur mündlichen Prüfung der Laufbahnprüfung zugelassen, wer die schriftliche Prüfung der Laufbahnprüfung bestanden hat. Die Bundespolizeiakademie entscheidet mit Zustimmung des Bundespolizeipräsidiums, ob neben der in Satz 1 genannten Voraussetzung weitere Zulassungsvoraussetzungen gefordert werden.
 
 (2) Sind die Voraussetzungen für die Zulassung nicht erfüllt, gilt die Laufbahnprüfung als nicht bestanden.
 
