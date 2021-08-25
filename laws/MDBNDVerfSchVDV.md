@@ -798,7 +798,7 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 # § 48 – Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Die Wiederholung findet frühestens zwei Monate und spätestens fünf Monate nach Abschluss des Grundlehrgangs statt.
 
@@ -986,7 +986,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 # § 63 – Wiederholung der Laufbahnprüfung
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Satz 1 und 3 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt,
 

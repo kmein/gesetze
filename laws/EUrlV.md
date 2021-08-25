@@ -53,7 +53,7 @@ um ein Zwölftel gekürzt.
 
 2. durch ein ärztliches Zeugnis nachgewiesene Dienstunfähigkeit infolge von Krankheit (§ 96 Absatz 1 Satz 2 des Bundesbeamtengesetzes),
 
-3. Beschäftigungsverbot nach § 3 Absatz 1 des Mutterschutzgesetzes in Verbindung mit § 1 Absatz 1 Satz 1 Nummer 2 der Mutterschutz- und Elternzeitverordnung,
+3. Beschäftigungsverbot nach § 16 Absatz 1 des Mutterschutzgesetzes in Verbindung mit § 2 Absatz 1 Satz 1 Nummer 5 der Mutterschutz- und Elternzeitverordnung.
 
 4. Dienstunfähigkeit nach § 44 des Bundesbeamtengesetzes,
 

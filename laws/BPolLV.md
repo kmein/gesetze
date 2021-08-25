@@ -193,7 +193,7 @@ Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung w
 
 1. über die Zulassung zum Aufstieg das Bundespolizeipräsidium entscheidet,
 
-2. im Falle des § 36 Absatz 4 Satz 7 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
+2. im Falle des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung in den gehobenen Polizeivollzugsdienst in der Bundespolizei dauert mindestens zwei Jahre. Die nach Absatz 1 Nummer 1 zugelassenen Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nehmen an Teilen des Vorbereitungsdienstes nach § 7 teil.
 
@@ -249,7 +249,7 @@ Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung w
 
 1. über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
-2. im Fall des § 36 Absatz 4 Satz 7 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
+2. im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung dauert sechs Monate. Sie umfasst eine theoretische und eine praktische Ausbildung. In der theoretischen Ausbildung können Fernlehrmethoden eingesetzt werden.
 
@@ -279,7 +279,7 @@ e) erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 1. über die Zulassung zum Aufstieg – abweichend von § 36 Absatz 6 Satz 1 der Bundeslaufbahnverordnung – das Bundespolizeipräsidium entscheidet,
 
-2. im Fall des § 36 Absatz 4 Satz 7 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
+2. im Fall des § 36 Absatz 4 Satz 8 der Bundeslaufbahnverordnung die Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch mehrfach wiederholt werden kann.
 
 (3) Die Aufstiegsausbildung dauert in der Regel zwölf Monate. Die Aufstiegsausbildung kann auf neun Monate verkürzt werden, soweit berufspraktische Kenntnisse durch die Wahrnehmung von Aufgaben des höheren Polizeivollzugsdienstes nachgewiesen sind. Die Aufstiegsausbildung umfasst eine theoretische und eine praktische Ausbildung. Die theoretische Ausbildung dauert vier Monate. In der theoretischen Ausbildung können Fernlehrmethoden eingesetzt werden.
 
