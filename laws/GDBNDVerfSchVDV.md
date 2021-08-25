@@ -828,7 +828,7 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 # § 48 – Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
+(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
 (2) Die Wiederholung findet frühestens einen Monat nach Bekanntgabe des Ergebnisses und spätestens fünf Monate nach Ende des Grundstudiums statt.
 

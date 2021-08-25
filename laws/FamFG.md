@@ -3481,12 +3481,6 @@ Das Gericht kann alle Übrigen, deren Recht durch das Verfahren unmittelbar betr
 
 (3) Wird eine in die besondere amtliche Verwahrung genommene Verfügung von Todes wegen aus der besonderen amtlichen Verwahrung zurückgegeben, teilt das verwahrende Gericht dies der Registerbehörde mit.
 
-(4) (weggefallen)
-
-(5) (weggefallen)
-
-(6) (weggefallen)
-
 # § 348 – Eröffnung von Verfügungen von Todes wegen durch das Nachlassgericht
 
 (1) Sobald das Gericht vom Tod des Erblassers Kenntnis erlangt hat, hat es eine in seiner Verwahrung befindliche Verfügung von Todes wegen zu eröffnen. Über die Eröffnung ist eine Niederschrift aufzunehmen. War die Verfügung von Todes wegen verschlossen, ist in der Niederschrift festzustellen, ob der Verschluss unversehrt war.

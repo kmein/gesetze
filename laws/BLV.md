@@ -29,13 +29,13 @@ Diese Verordnung gilt für die Beamtinnen und Beamten des Bundes, soweit nicht g
 
 (8) Beförderung ist die Verleihung eines anderen Amtes mit höherem Endgrundgehalt. Sie erfolgt in den Fällen, in denen die Amtsbezeichnung wechselt, durch Ernennung.
 
-# § 3 – Leistungsgrundsatz
+# § 3 – Mutterschutz
 
-Laufbahnrechtliche Entscheidungen sind nach Eignung, Befähigung und fachlicher Leistung unter Berücksichtigung des § 9 des Bundesbeamtengesetzes und des § 9 des Bundesgleichstellungsgesetzes zu treffen.
+Zeiten des Mutterschutzes sind auf Zeiten anzurechnen, die nach dieser Verordnung Voraussetzung für eine Einstellung oder für die berufliche Entwicklung sind. Die Verlängerung eines Vorbereitungsdienstes nach § 15 Absatz 1 Satz 1 Nummer 2 bleibt unberührt.
 
 # § 4 – Stellenausschreibungspflicht
 
-(1) Zu besetzende Stellen sind außer in den Fällen des Absatzes 2 auszuschreiben. Der Einstellung von Bewerberinnen und Bewerbern muss eine öffentliche Ausschreibung vorausgehen. § 6 des Bundesgleichstellungsgesetzes ist zu berücksichtigen.
+(1) Zu besetzende Stellen sind außer in den Fällen des Absatzes 2 auszuschreiben. Der Einstellung von Bewerberinnen und Bewerbern muss eine öffentliche Ausschreibung vorausgehen.
 
 (2) Die Pflicht zur Stellenausschreibung nach Absatz 1 gilt nicht
 
@@ -45,7 +45,7 @@ Laufbahnrechtliche Entscheidungen sind nach Eignung, Befähigung und fachlicher 
 
 3. für Stellen, die mit Beamtinnen und Beamten unmittelbar nach Abschluss ihres Vorbereitungsdienstes oder eines Aufstiegsverfahrens besetzt werden,
 
-4. für Stellen, die durch Versetzung nach vorangegangener Abordnung, nach Übertritt oder Übernahme von Beamtinnen und Beamten besetzt werden,
+4. für Stellen, die durch Versetzung nach vorangegangener Abordnung, nach Übertritt oder nach Übernahme von Beamtinnen und Beamten besetzt werden,
 
 5. für Stellen, die zur Vermeidung der Versetzung in den Ruhestand wegen Dienstunfähigkeit oder zur erneuten Berufung in das Beamtenverhältnis nach Wiederherstellung der Dienstfähigkeit besetzt werden,
 
@@ -61,7 +61,7 @@ Laufbahnrechtliche Entscheidungen sind nach Eignung, Befähigung und fachlicher 
 
 (1) Von schwerbehinderten Menschen darf nur das Mindestmaß an körperlicher Eignung verlangt werden.
 
-(2) In Prüfungsverfahren im Sinne dieser Verordnung sind für schwerbehinderte Menschen Erleichterungen vorzusehen, die ihrer Behinderung angemessen sind.
+(2) In Auswahlverfahren und in Prüfungsverfahren im Sinne dieser Verordnung sind für schwerbehinderte Menschen Erleichterungen vorzusehen, die ihrer Behinderung angemessen sind.
 
 (3) Bei der Beurteilung der Leistung schwerbehinderter Menschen ist eine etwaige Einschränkung der Arbeits- und Verwendungsfähigkeit wegen der Behinderung zu berücksichtigen.
 
@@ -91,15 +91,13 @@ Laufbahnrechtliche Entscheidungen sind nach Eignung, Befähigung und fachlicher 
 
 Bewerberinnen und Bewerber erlangen die Laufbahnbefähigung
 
-1. durch erfolgreichen Abschluss eines fachspezifischen Vorbereitungsdienstes oder eines Aufstiegsverfahrens des Bundes oder
+1. durch den erfolgreichen Abschluss eines fachspezifischen Vorbereitungsdienstes des Bundes oder eines Aufstiegsverfahrens des Bundes oder
 
-2. durch Anerkennung, wenn sie
+2. durch Anerkennung, wenn sie außerhalb eines Vorbereitungsdienstes des Bundes oder eines Aufstiegsverfahrens des Bundes Folgendes erworben haben:
 
 a) die für die entsprechende Laufbahn vorgeschriebene Vorbildung oder
 
-b) die erforderliche Befähigung durch Lebens- und Berufserfahrung
-
-außerhalb eines Vorbereitungsdienstes oder eines Aufstiegsverfahrens des Bundes erworben haben.
+b) die erforderliche Befähigung durch Lebens- und Berufserfahrung.
 
 # § 8 – Feststellung der Laufbahnbefähigung
 
@@ -120,6 +118,8 @@ außerhalb eines Vorbereitungsdienstes oder eines Aufstiegsverfahrens des Bundes
 (1) Die Befugnis nach § 26 Absatz 2 des Bundesbeamtengesetzes wird für die in Anlage 2 genannten fachspezifischen Vorbereitungsdienste den dort genannten obersten Dienstbehörden übertragen.
 
 (2) Die Rechtsverordnungen nach Absatz 1 müssen insbesondere Inhalt und Dauer der Vorbereitungsdienste sowie die Prüfung und das Prüfungsverfahren regeln. Die vorzusehenden Prüfungsnoten ergeben sich aus Anlage 3.
+
+(3) Die Rechtsverordnungen nach Absatz 1 können vorsehen, dass mit erfolgreichem Abschluss eines Vorbereitungsdienstes für den mittleren Dienst eine Berufsbezeichnung verliehen wird.
 
 # § 10a – Auswahlverfahren für die Einstellung in den Vorbereitungsdienst
 
@@ -143,7 +143,7 @@ außerhalb eines Vorbereitungsdienstes oder eines Aufstiegsverfahrens des Bundes
 
 5. biographischer Fragebogen.
 
-Bei besonderen Anforderungen einer Laufbahn kann der schriftliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der schriftliche Teil kann unterstützt durch Informationstechnologie durchgeführt werden.
+Bei besonderen Anforderungen einer Laufbahn kann der schriftliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der schriftliche Teil kann unterstützt durch Informationstechnologie durchgeführt werden. Bei Unterstützung durch Informationstechnologie ist für den Zeitraum bis zum Ablauf der Aufbewahrungsfrist sicherzustellen, dass die dabei anfallenden Daten unverwechselbar und dauerhaft der Bewerberin oder dem Bewerber zugeordnet werden können.
 
 (6) Für den mündlichen Teil ist eines oder eine Kombination der folgenden Auswahlinstrumente anzuwenden:
 
@@ -163,9 +163,11 @@ Bei besonderen Anforderungen einer Laufbahn kann der schriftliche Teil durch wei
 
 Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weitere Auswahlinstrumente ergänzt werden. Der mündliche Teil kann in einer Fremdsprache durchgeführt werden.
 
-(7) Die im Auswahlverfahren erbrachten Leistungen sind nach einem Punkte- oder Notensystem zu bewerten. Es ist eine Rangfolge der geeigneten Bewerberinnen und Bewerber festzulegen. Die Rangfolge ist für die Einstellung in den Vorbereitungsdienst maßgeblich.
+(6a) Bis zum 31. Dezember 2022 kann der mündliche Teil des Auswahlverfahrens unter Nutzung von Videokonferenztechnik durchgeführt werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen geboten ist und wenn geeignete technische Einrichtungen zur Verfügung stehen.
 
-(8) In den Rechtsverordnungen nach § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes ist zu regeln,
+(7) Die im Auswahlverfahren erbrachten Leistungen sind mit Punkten oder Noten zu bewerten. Es ist eine Rangfolge der geeigneten Bewerberinnen und Bewerber festzulegen. Die Rangfolge ist für die Einstellung in den Vorbereitungsdienst maßgeblich.
+
+(8) In den Rechtsverordnungen nach § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes ist zu regeln,
 
 1. welche wesentlichen Anforderungen an die Eignung und Befähigung der Bewerberinnen und Bewerber dem Auswahlverfahren zu Grunde liegen,
 
@@ -183,13 +185,17 @@ Bei besonderen Anforderungen einer Laufbahn kann der mündliche Teil durch weite
 
 Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als Dienstbezeichnung die Amtsbezeichnung des Eingangsamts ihrer Laufbahn mit dem Zusatz „Anwärterin“ oder „Anwärter“, in Laufbahnen des höheren Dienstes die Dienstbezeichnung „Referendarin“ oder „Referendar“. Die für die Gestaltung des Vorbereitungsdienstes zuständige oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat andere Dienstbezeichnungen festsetzen.
 
+# § 11a – Einfacher Dienst
+
+Ein Vorbereitungsdienst für den einfachen Dienst dauert mindestens sechs Monate.
+
 # § 12 – Mittlerer Dienst
 
 Ein Vorbereitungsdienst für den mittleren Dienst dauert mindestens ein Jahr, in der Regel jedoch zwei Jahre. Er besteht aus einer fachtheoretischen und einer berufspraktischen Ausbildung.
 
 # § 13 – Gehobener Dienst
 
-(1) Ein Vorbereitungsdienst für den gehobenen Dienst dauert in der Regel drei Jahre und besteht aus Fachstudien und berufspraktischen Studienzeiten. Er wird in einem Studiengang, der mit einem Bachelor oder einem Diplomgrad mit dem Zusatz „Fachhochschule“ abschließt, an der Hochschule des Bundes für öffentliche Verwaltung oder einer gleichstehenden Hochschuleinrichtung durchgeführt.
+(1) Ein Vorbereitungsdienst für den gehobenen Dienst dauert in der Regel drei Jahre und besteht aus Fachstudien und berufspraktischen Studienzeiten. Der Vorbereitungsdienst wird als Hochschulstudiengang, der mit einem Bachelor oder einem Diplomgrad mit dem Zusatz „Fachhochschule“ abschließt, durchgeführt.
 
 (2) Der Vorbereitungsdienst kann bis auf ein Jahr verkürzt werden, wenn die für die Laufbahnaufgaben erforderlichen wissenschaftlichen und methodischen Grundkenntnisse durch ein mit einem Bachelor abgeschlossenes Hochschulstudium oder durch einen gleichwertigen Abschluss nachgewiesen werden. Zum Erwerb erforderlicher Spezialkenntnisse sind Fachstudien oder Lehrgänge, zum Erwerb erforderlicher berufspraktischer Fähigkeiten und Kenntnisse berufspraktische Studienzeiten und ergänzende Lehrveranstaltungen vorzusehen. Eine Verkürzung lediglich auf Fachstudien oder Lehrgänge ist nicht zulässig.
 
@@ -219,15 +225,31 @@ unterbrochen wurde und durch die Verkürzung von Ausbildungsabschnitten die ziel
 
 # § 16 – Verkürzung der Vorbereitungsdienste
 
-(1) Der Vorbereitungsdienst kann verkürzt werden, wenn das Erreichen des Ausbildungsziels nicht gefährdet ist und nachgewiesen wird, dass die für die Laufbahnbefähigung erforderlichen Fähigkeiten, Kenntnisse und Fertigkeiten durch
+(1) Der Vorbereitungsdienst kann verkürzt werden, wenn
 
-1. eine geeignete, mit einer Prüfung abgeschlossene Berufsausbildung oder
+1. das Erreichen des Ausbildungsziels nicht gefährdet ist und
 
-2. gleichwertige, in den Laufbahnen des höheren Dienstes nach Bestehen der ersten Staats- oder Hochschulprüfung ausgeübte hauptberufliche Tätigkeiten
+2. nachgewiesen wird, dass die für die Laufbahnbefähigung erforderlichen Fähigkeiten, Kenntnisse und Fertigkeiten erworben worden sind durch
 
-erworben worden sind. Er dauert mindestens sechs Monate. § 15 Absatz 1 Satz 2 gilt entsprechend. Bildungsvoraussetzungen und sonstige Voraussetzungen nach § 17 Absatz 2 bis 5 des Bundesbeamtengesetzes können nicht berücksichtigt werden.
+a) eine geeignete, mit einer Prüfung abgeschlossene Berufsausbildung oder
 
-(2) Die Ausbildungs- und Prüfungsordnungen können vorsehen, dass ein erfolgreich abgeschlossener Vorbereitungsdienst für eine Laufbahn auf den Vorbereitungsdienst für die nächsthöhere Laufbahn bis zu sechs Monaten angerechnet werden kann.
+b) gleichwertige, in den Laufbahnen des höheren Dienstes nach Bestehen der ersten Staats- oder Hochschulprüfung ausgeübte hauptberufliche Tätigkeiten.
+
+(2) Auf einen Vorbereitungsdienst für den gehobenen Dienst können Studienleistungen, die an einer Hochschule erbracht worden sind, angerechnet werden, wenn
+
+1. die Bewerberinnen und Bewerber Studienabschnitte absolviert haben, die inhaltlich den Anforderungen eines Abschnitts dieses Vorbereitungsdienstes entsprechen, und
+
+2. die Studienleistungen durch bestandene Prüfungen nachgewiesen werden.
+
+Die Rechtsverordnungen nach § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes können die Anrechnung weiterer Studien- und Prüfungsleistungen regeln.
+
+(3) Der Vorbereitungsdienst dauert nach einer Verkürzung oder nach der Anrechnung von Studien- und Prüfungsleistungen mindestens sechs Monate.
+
+(4) Bei einer Verkürzung oder bei der Anrechnung von Studien- und Prüfungsleistungen können Abweichungen vom Ausbildungs-, Lehr- oder Studienplan zugelassen werden.
+
+(5) Bei einer Verkürzung oder für die Anrechnung von Studien- und Prüfungsleistungen können die Bildungsvoraussetzungen und sonstigen Voraussetzungen nach § 17 Absatz 2 bis 5 des Bundesbeamtengesetzes nicht berücksichtigt werden.
+
+(6) Rechtsverordnungen nach § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes können vorsehen, dass ein erfolgreich abgeschlossener Vorbereitungsdienst für eine Laufbahn auf den Vorbereitungsdienst für die nächsthöhere Laufbahn bis zu sechs Monaten angerechnet werden kann.
 
 # § 17 – Laufbahnprüfung
 
@@ -235,25 +257,45 @@ erworben worden sind. Er dauert mindestens sechs Monate. § 15 Absatz 1 Satz 2 g
 
 (2) Ist der Vorbereitungsdienst nach § 13 Absatz 2 Satz 1 oder nach § 16 verkürzt worden, sind die Ausbildungsinhalte des geleisteten Vorbereitungsdienstes Gegenstand der Laufbahnprüfung.
 
-(3) Die Laufbahnprüfung kann bei Nichtbestehen einmal wiederholt werden. Dies gilt auch für Modul-, Teil- und Zwischenprüfungen, deren Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist. Abweichend von den Sätzen 1 und 2 kann
+(3) Folgende Prüfungen können, wenn sie nicht bestanden worden sind, einmal wiederholt werden:
 
-1. in Vorbereitungsdiensten, die als Bachelorstudiengänge durchgeführt werden, jeweils in einem Pflichtmodul und in einem Wahlmodul eine nicht bestandene Modulprüfung ein zweites Mal wiederholt werden,
+1. die Laufbahnprüfung,
 
-2. in den anderen Vorbereitungsdiensten die oberste Dienstbehörde in begründeten Ausnahmefällen eine zweite Wiederholung der Laufbahnprüfung sowie von Modul-, Teil- und Zwischenprüfungen zulassen.
+2. die Zwischenprüfung, wenn deren Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist, sowie
 
-Die oberste Dienstbehörde kann die Befugnis nach Satz 3 auf unmittelbar nachgeordnete Behörden übertragen.
+3. Modul- und Teilprüfungen, wenn deren Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist.
+
+(4) Noch ein zweites Mal können folgende Prüfungen, wenn sie auch in der ersten Wiederholung nicht bestanden worden sind, wiederholt werden:
+
+1. in einem Vorbereitungsdienst, der als Bachelorstudiengang und nur mit Pflichtmodulen durchgeführt wird: zwei Modulprüfungen und
+
+2. in einem Vorbereitungsdienst, der als Bachelorstudiengang mit Wahl- und Pflichtmodulen durchgeführt wird:
+
+a) eine Modulprüfung in einem der Pflichtmodule und
+
+b) eine Modulprüfung in einem der Wahlmodule.
+
+(5) In anderen Vorbereitungsdiensten kann die oberste Dienstbehörde in begründeten Ausnahmefällen bei folgenden Prüfungen, wenn sie auch in der ersten Wiederholung nicht bestanden worden sind, noch eine zweite Wiederholung zulassen:
+
+1. bei der Laufbahnprüfung,
+
+2. bei der Zwischenprüfung, wenn deren Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist, und
+
+3. bei Modul- und Teilprüfungen, wenn deren Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist.
+
+Die Befugnis zur Zulassung einer zweiten Wiederholung kann von der obersten Dienstbehörde auf die unmittelbar nachgeordneten Behörden übertragen werden.
 
 # § 18 – Einfacher Dienst
 
-Die Anerkennung der Befähigung für eine Laufbahn des einfachen Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den Bildungsvoraussetzungen eine abgeschlossene Berufsausbildung voraus, die geeignet ist, die Befähigung für eine Laufbahn des einfachen Dienstes zu vermitteln.
+Die Anerkennung der Befähigung für eine Laufbahn des einfachen Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den Bildungsvoraussetzungen eine abgeschlossene Berufsausbildung voraus.
 
 # § 19 – Mittlerer Dienst
 
-(1) Die Anerkennung der Befähigung für eine Laufbahn des mittleren Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den Bildungsvoraussetzungen eine abgeschlossene Berufsausbildung voraus, die
+(1) Die Anerkennung der Befähigung für eine Laufbahn des mittleren Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den Bildungsvoraussetzungen Folgendes voraus:
 
-1. inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes entspricht oder
+1. eine abgeschlossene Berufsausbildung, die inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes entspricht, oder
 
-2. zusammen mit einer hauptberuflichen Tätigkeit von mindestens einem Jahr und sechs Monaten geeignet ist, die Befähigung für eine Laufbahn des mittleren Dienstes zu vermitteln.
+2. eine abgeschlossene Berufsausbildung und eine hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten.
 
 (2) Eine Ausbildung entspricht inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes, wenn
 
@@ -261,29 +303,67 @@ Die Anerkennung der Befähigung für eine Laufbahn des einfachen Dienstes nach �
 
 2. die abschließende Prüfung der entsprechenden Laufbahnprüfung gleichwertig ist.
 
-(3) Die hauptberufliche Tätigkeit muss nach Fachrichtung und Schwierigkeit der Tätigkeit einer Beamtin oder eines Beamten derselben Laufbahn entsprechen.
+(3) Die hauptberufliche Tätigkeit muss nach Fachrichtung und Schwierigkeit der Tätigkeit einer Beamtin oder eines Beamten derselben Laufbahn entsprechen. Erfüllt sie diese Voraussetzung, so darf sie von der nach § 8 Absatz 1 zuständigen Behörde nicht bei der Anerkennung der Befähigung ausgeschlossen werden. Bei einer hauptberuflichen Tätigkeit, die im öffentlichen Dienst ausgeübt worden ist, richtet sich die Bewertung der Schwierigkeit nach der besoldungsrechtlichen oder tarifrechtlichen Bewertung dieser Tätigkeit.
 
 (4) Ermäßigte und regelmäßige Arbeitszeiten sind gleich zu behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
 
+(5) Elternzeit gilt als hauptberufliche Tätigkeit, wenn vor Beginn der Elternzeit eine hauptberufliche Tätigkeit von insgesamt mindestens sechs Monaten ausgeübt worden ist. Ist die hauptberufliche Tätigkeit im öffentlichen Dienst ausgeübt worden, so gilt Elternzeit auch dann als ausgeübte hauptberufliche Tätigkeit, wenn die hauptberufliche Tätigkeit vor Beginn der Elternzeit weniger als sechs Monate ausgeübt worden ist.
+
 # § 20 – Gehobener Dienst
 
-Die Anerkennung der Befähigung für eine Laufbahn des gehobenen Dienstes nach § 7 Nummer 2 Buchstabe a setzt einen an einer Hochschule erworbenen Bachelor oder einen gleichwertigen Abschluss voraus, der
+(1) Die Anerkennung der Befähigung für eine Laufbahn des gehobenen Dienstes nach § 7 Nummer 2 Buchstabe a setzt Folgendes voraus:
 
-1. inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes entspricht oder
+1. einen an einer Hochschule erworbenen Bachelor oder einen gleichwertigen Abschluss, wenn die jeweilige Ausbildung inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes entsprochen hat, oder
 
-2. zusammen mit einer hauptberuflichen Tätigkeit von mindestens einem Jahr und sechs Monaten geeignet ist, die Befähigung für die entsprechende Laufbahn zu vermitteln.
+2. einen an einer Hochschule erworbenen Bachelor sowie eine hauptberufliche Tätigkeit oder einen Abschluss, der einem Bachelor gleichwertig ist, sowie eine hauptberufliche Tätigkeit.
 
-§ 19 Absatz 2 bis 4 gilt entsprechend.
+Die Regelstudiendauer des Studiengangs, mit dem der Bachelor oder der gleichwertige Abschluss nach Satz 1 abgeschlossen wurde, muss mindestens drei Jahre betragen haben. Die Dauer der hauptberuflichen Tätigkeit nach Satz 1 Nummer 2 beträgt mindestens ein Jahr und sechs Monate. § 19 Absatz 2 bis 5 gilt entsprechend.
+
+(2) Die Befähigung für den gehobenen technischen Verwaltungsdienst hat auch, wer einen der folgenden Vorbereitungsdienste abgeschlossen hat:
+
+1. den gehobenen Verwaltungsinformatikdienst des Bundes oder
+
+2. den gehobenen nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und IT-Sicherheit –.
 
 # § 21 – Höherer Dienst
 
-(1) Die Anerkennung der Befähigung für eine Laufbahn des höheren Dienstes nach § 7 Nummer 2 Buchstabe a setzt voraus:
+(1) Die Anerkennung der Befähigung für eine Laufbahn des höheren Dienstes nach § 7 Nummer 2 Buchstabe a setzt Folgendes voraus:
 
 1. eine inhaltlich den Anforderungen eines fachspezifischen Vorbereitungsdienstes entsprechende Ausbildung oder
 
-2. einen an einer Hochschule erworbenen Master oder einen gleichwertigen Abschluss, der zusammen mit einer hauptberuflichen Tätigkeit von mindestens zwei Jahren und sechs Monaten geeignet ist, die Befähigung für die entsprechende Laufbahn zu vermitteln.
+2. eine hauptberufliche Tätigkeit in der geforderten Dauer und einen der folgenden Ausbildungsabschlüsse:
 
-§ 19 Absatz 2 bis 4 gilt entsprechend.
+a) einen an einer Hochschule erworbenen Bachelor und einen an einer Hochschule erworbenen Master,
+
+b) einen Abschluss, der einem an einer Hochschule erworbenen Bachelor gleichwertig ist und einen an einer Hochschule erworbenen Master oder
+
+c) einen Abschluss, der einem an einer Hochschule erworbenen Master gleichwertig ist.
+
+Als Dauer der hauptberuflichen Tätigkeit nach Satz 1 Nummer 2 werden gefordert:
+
+1. mindestens zwei Jahre und sechs Monate, wenn
+
+a) mit den Studiengängen, die zum Bachelor und Master geführt haben, mindestens 300 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen erworben worden sind,
+
+b) die Regelstudiendauer des dem Bachelor gleichwertigen Abschlusses drei Jahre betragen hat und mit dem Studiengang, der zum Master geführt hat, mindestens 120 Leistungspunkte erworben worden sind,
+
+c) die Regelstudiendauer des dem Bachelor gleichwertigen Abschlusses vier Jahre betragen hat und mit dem Studiengang, der zum Master geführt hat, mindestens 60 Leistungspunkte erworben worden sind oder
+
+d) ein Abschluss nach Satz 1 Nummer 2 Buchstabe c vorliegt,
+
+2. mindestens drei Jahre, wenn
+
+a) mit den Studiengängen, die zum Bachelor und Master geführt haben, mindestens 270, aber weniger als 300 Leistungspunkte erworben worden sind, oder
+
+b) die Regelstudiendauer des dem Bachelor gleichwertigen Abschlusses drei Jahre betragen hat und mit dem Studiengang, der zum Master geführt hat, mindestens 90, aber weniger als 120 Leistungspunkte erworben worden sind, und
+
+3. mindestens drei Jahre und sechs Monate, wenn
+
+a) mit den Studiengängen, die zum Bachelor und zum Master geführt haben, mindestens 240, aber weniger als 270 Leistungspunkte erworben worden sind, oder
+
+b) die Regelstudiendauer des mit dem Bachelor gleichwertigen Abschlusses drei Jahre betragen hat und mit dem Studiengang, der zum Master geführt hat, mindestens 60, aber weniger als 90 Leistungspunkte erworben worden sind.
+
+§ 19 Absatz 2 bis 5 gilt entsprechend.
 
 (2) Die Laufbahnbefähigung für den höheren nichttechnischen Verwaltungsdienst hat auch, wer die Befähigung zum Richteramt hat.
 
@@ -301,9 +381,15 @@ Die Anerkennung der Befähigung für eine Laufbahn des gehobenen Dienstes nach �
 
 (1) Abweichend von § 17 Absatz 3 Nummer 1 Buchstabe a des Bundesbeamtengesetzes können Beamtinnen und Beamte, die einen Hauptschulabschluss oder einen als gleichwertig anerkannten Bildungsstand besitzen, für eine Laufbahn des mittleren Dienstes zugelassen werden, wenn die abgeschlossene Berufsausbildung und hauptberufliche Tätigkeit geeignet sind, die Befähigung für die Laufbahn des mittleren Dienstes zu vermitteln.
 
-(2) Abweichend von § 17 Absatz 4 Nummer 2 Buchstabe c des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes für eine Verwendung in der Aufsicht über die Flugsicherung anstelle eines mit einem Bachelor abgeschlossenen Hochschulstudiums auch eine abgeschlossene Ausbildung zur Fluglotsin oder zum Fluglotsen an der Flugsicherungsakademie der DFS Deutsche Flugsicherung GmbH berücksichtigt werden.
+(2) Bei Personen, die ein Hochschulstudium und eine hauptberufliche Tätigkeit, die für Beamtinnen und Beamte als Aufstiegsverfahren nach § 39 mit Hochschulstudium und berufspraktischer Einführung eingerichtet sind, absolviert haben, kann
 
-(3) Abweichend von § 17 Absatz 4 Nummer 2 Buchstabe c des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des gehobenen technischen Verwaltungsdienstes für eine Verwendung
+1. bei der Zulassung zu einer Laufbahn des gehobenen Dienstes abgesehen werden von der Voraussetzung der hauptberuflichen Tätigkeit nach § 17 Absatz 4 Nummer 2 Buchstabe c des Bundesbeamtengesetzes und
+
+2. bei der Zulassung zu einer Laufbahn des höheren Dienstes abgesehen werden von der Voraussetzung der hauptberuflichen Tätigkeit nach § 17 Absatz 5 Nummer 2 Buchstabe c des Bundesbeamtengesetzes.
+
+(3) Abweichend von § 17 Absatz 4 Nummer 2 Buchstabe c des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes für eine Verwendung in der Aufsicht über die Flugsicherung anstelle eines mit einem Bachelor abgeschlossenen Hochschulstudiums auch eine abgeschlossene Ausbildung zur Fluglotsin oder zum Fluglotsen an der Flugsicherungsakademie der DFS Deutsche Flugsicherung GmbH berücksichtigt werden.
+
+(4) Abweichend von § 17 Absatz 4 Nummer 1 und 2 Buchstabe c des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des gehobenen technischen Verwaltungsdienstes für eine Verwendung
 
 1. in der Überwachung der Flugtüchtigkeit von Luftfahrzeugen,
 
@@ -313,7 +399,7 @@ Die Anerkennung der Befähigung für eine Laufbahn des gehobenen Dienstes nach �
 
 anstelle eines mit einem Bachelor abgeschlossenen Hochschulstudiums auch der Erwerb einer Lizenz für Berufspilotinnen oder -piloten nach der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S. 1) in der jeweils geltenden Fassung berücksichtigt werden.
 
-(4) Abweichend von § 17 Absatz 5 Nummer 1 Buchstabe a des Bundesbeamtengesetzes kann für die Zulassung zu den Laufbahnen
+(5) Abweichend von § 17 Absatz 5 Nummer 1 Buchstabe a des Bundesbeamtengesetzes kann für die Zulassung zu den Laufbahnen
 
 1. des höheren technischen Verwaltungsdienstes,
 
@@ -323,9 +409,9 @@ anstelle eines mit einem Bachelor abgeschlossenen Hochschulstudiums auch der Erw
 
 4. des höheren ärztlichen und gesundheitswissenschaftlichen Dienstes
 
-anstelle eines an einer Hochschule erworbenen Masters ein an einer Hochschule erworbener Bachelor oder ein gleichwertiger Abschluss, jeweils in Verbindung mit einer Promotion oder einer hauptberuflichen Tätigkeit von mindestens zwei Jahren und sechs Monaten, berücksichtigt werden. Die hauptberufliche Tätigkeit muss nach Fachrichtung und Schwierigkeit der Tätigkeit einer Beamtin oder eines Beamten derselben Laufbahn entsprechen.
+anstelle eines an einer Hochschule erworbenen Masters ein an einer Hochschule erworbener Bachelor oder ein gleichwertiger Abschluss, jeweils in Verbindung mit einer Promotion oder einer hauptberuflichen Tätigkeit von mindestens zwei Jahren und sechs Monaten, berücksichtigt werden. Die hauptberufliche Tätigkeit muss nach Fachrichtung und Schwierigkeit der Tätigkeit einer Beamtin oder eines Beamten derselben Laufbahn entsprechen. Bei einer hauptberuflichen Tätigkeit, die im öffentlichen Dienst ausgeübt worden ist, richtet sich die Bewertung der Schwierigkeit nach der besoldungsrechtlichen oder tarifrechtlichen Bewertung dieser Tätigkeit.
 
-(5) Abweichend von § 17 Absatz 5 Nummer 1 Buchstabe a des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des höheren technischen Verwaltungsdienstes für eine Verwendung
+(6) Abweichend von § 17 Absatz 5 Nummer 1 Buchstabe a des Bundesbeamtengesetzes kann für die Zulassung zur Laufbahn des höheren technischen Verwaltungsdienstes für eine Verwendung
 
 1. in der Überwachung der Flugtüchtigkeit von Luftfahrzeugen,
 
@@ -335,29 +421,27 @@ anstelle eines an einer Hochschule erworbenen Masters ein an einer Hochschule er
 
 anstelle eines mit einem Master abgeschlossenen Hochschulstudiums auch der Erwerb einer Lizenz für Verkehrspilotinnen oder -piloten nach der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S. 1) in der jeweils geltenden Fassung berücksichtigt werden.
 
-(6) Abweichend von § 17 Absatz 4 Nummer 2 Buchstabe c und Absatz 5 Nummer 2 Buchstabe c des Bundesbeamtengesetzes können anstelle von Zeiten einer hauptberuflichen Tätigkeit
+(7) Abweichend von § 17 Absatz 4 Nummer 2 Buchstabe c und Absatz 5 Nummer 2 Buchstabe c des Bundesbeamtengesetzes können anstelle von Zeiten einer hauptberuflichen Tätigkeit folgende Zeiten anerkannt werden:
 
-1. bei Ärztinnen und Ärzten
+1. bei Ärztinnen und Ärzten:
 
-a) Zeiten einer als Pflicht- oder Medizinalassistentin, als Pflicht- oder Medizinalassistent und als Ärztin oder Arzt im Praktikum ausgeübten Tätigkeit oder
+a) Zeiten einer als Pflicht- oder Medizinalassistentin oder als Pflicht- oder Medizinalassistent und als Ärztin oder Arzt im Praktikum ausgeübten Tätigkeit oder
 
-b) Zeiten einer Weiterbildung zum Tropenmediziner,
+b) Zeiten einer Weiterbildung zur Tropenmedizinerin oder zum Tropenmediziner,
 
-2. bei Lebensmittelchemikerinnen und Lebensmittelchemikern Zeiten der zusätzlich vorgeschriebenen Ausbildung und
+2. bei Lebensmittelchemikerinnen und Lebensmittelchemikern: Zeiten der zusätzlich vorgeschriebenen Ausbildung und
 
-3. bei Wissenschaftlerinnen und Wissenschaftlern Zeiten einer Habilitation
+3. bei Wissenschaftlerinnen und Wissenschaftlern: Zeiten einer Habilitation.
 
-anerkannt werden.
-
-(7) Abweichend von § 17 Absatz 5 des Bundesbeamtengesetzes können Beamtinnen und Beamte, die die Voraussetzungen des § 17 Absatz 4 des Bundesbeamtengesetzes erfüllen,
+(8) Abweichend von § 17 Absatz 5 des Bundesbeamtengesetzes können Beamtinnen und Beamte, die die Voraussetzungen des § 17 Absatz 4 des Bundesbeamtengesetzes erfüllen,
 
 1. im Schulaufsichtsdienst der Bundeswehrfachschulen bis zur Besoldungsgruppe A 15 der Bundesbesoldungsordnung A und
 
 2. als Lehrerinnen und Lehrer an Bundeswehrfachschulen bis zur Besoldungsgruppe A 14 der Bundesbesoldungsordnung A
 
-für die Laufbahn des höheren sprach- und kulturwissenschaftlichen Dienstes zugelassen werden.
+für Laufbahnen des höheren Dienstes zugelassen werden.
 
-(8) Abweichend von § 17 des Bundesbeamtengesetzes können bei Personen, die berufsmäßigen Wehrdienst geleistet haben, anstelle des Vorbereitungsdienstes inhaltlich den Anforderungen eines Vorbereitungsdienstes entsprechende Qualifizierungen berücksichtigt werden.
+(9) Abweichend von § 17 des Bundesbeamtengesetzes können bei Personen, die berufsmäßigen Wehrdienst geleistet haben, anstelle des Vorbereitungsdienstes inhaltlich den Anforderungen eines Vorbereitungsdienstes entsprechende Qualifizierungen berücksichtigt werden.
 
 # § 24 – Zulassung zur höheren Laufbahn bei Besitz einer Berufsausbildung oder einer Hochschulausbildung
 
@@ -375,13 +459,35 @@ c) im höheren Dienst die sonstigen Voraussetzungen nach § 17 Absatz 5 Nummer 2
 
 2. sich nach Erlangung der Befähigung sechs Monate in der neuen Laufbahn bewährt haben.
 
+Die Zeit einer geforderten hauptberuflichen Tätigkeit und der Bewährung darf nicht wegen Elternzeit verlängert werden. Beträgt die Zeit, in der tatsächlich Dienst geleistet worden ist, wegen Elternzeit weniger als ein Jahr, muss eine Verlängerung erfolgen. Die Verlängerung erfolgt um denjenigen Zeitraum der erforderlich ist, damit ein Jahr tatsächlich Dienst geleistet wird.
+
 (3) Nach der Bewährung wird den Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt der höheren Laufbahn verliehen. Das erste Beförderungsamt darf frühestens nach Ablauf einer Dienstzeit von einem Jahr seit der ersten Verleihung eines Amtes der höheren Laufbahngruppe verliehen werden.
 
-# § 25 – Einstellung in ein höheres Amt als das Eingangsamt
+# § 25 – Einstellung in ein Beförderungsamt
 
-(1) Beamtinnen und Beamte können in ein höheres Amt als das Eingangsamt eingestellt werden, wenn die beruflichen Erfahrungen, die zusätzlich zu den Abschlüssen und beruflichen Erfahrungen, die für die Anerkennung der Laufbahnbefähigung erforderlich sind, ihrer Art und Bedeutung nach dem angestrebten Amt gleichwertig sind. Liegen gleichwertige berufliche Erfahrungen nicht vor, muss die besondere Befähigung für das angestrebte Amt der betreffenden Laufbahn durch förderliche Zusatzqualifikationen nachgewiesen werden. Das Beförderungsamt muss nach dem individuellen fiktiven Werdegang erreichbar sein.
+(1) Eine Bewerberin oder ein Bewerber kann in ein Beförderungsamt eingestellt werden, wenn sie oder er
 
-(2) Soweit Zeiten nach Absatz 1 auf den Vorbereitungsdienst angerechnet worden sind, können sie nicht berücksichtigt werden.
+1. das angestrebte Amt nach dem individuellen fiktiven Werdegang erreichen kann und
+
+2. für den Zeitraum des individuellen fiktiven Werdegangs hauptberufliche Tätigkeiten nachweist, die
+
+a) nach Fachrichtung und Schwierigkeit der Tätigkeit einer Beamtin oder eines Beamten in der angestrebten Laufbahn entsprochen haben und
+
+b) innerhalb dieses Zeitraums für eine Dauer von mindestens sechs Monaten nach ihrer Art und Bedeutung dem angestrebten Amt entsprochen haben.
+
+Liegt keine hauptberufliche Tätigkeit nach Satz 1 Nummer 2 vor, so ist die besondere Befähigung für das angestrebte Amt durch förderliche Zusatzqualifikationen nachzuweisen.
+
+(2) Der Zeitraum des individuellen fiktiven Werdegangs ist die Summe aus
+
+1. einem Zeitraum von drei Jahren, der an die Stelle der Probezeit tritt, die von einer Beamtin oder einem Beamten zu absolvieren ist, und
+
+2. einem Zeitraum von einem Jahr, der an die Stelle jeder Sperrfrist tritt, die bei einer Beamtin oder einem Beamten nach dem Erreichen des ersten Beförderungsamtes bis zum Erreichen des angestrebten Amtes einzuhalten ist.
+
+Wenn in der Dienstbehörde üblicherweise ein längerer Zeitraum als ein Jahr zwischen zwei Beförderungen liegt, so kann die Dienstbehörde abweichend von Satz 1 Nummer 2 diesen längeren Zeitraum festlegen.
+
+(3) § 19 Absatz 4 und 5 gilt entsprechend.
+
+(4) Soweit hauptberufliche Tätigkeiten bereits auf den Vorbereitungsdienst angerechnet worden sind, dürfen sie bei der Einstellung in ein Beförderungsamt nicht einbezogen werden.
 
 # § 26 – Übernahme von Richterinnen und Richtern
 
@@ -431,7 +537,7 @@ Die obersten Dienstbehörden können über die Anforderungen nach den Sätzen 1 
 
 (3) Die Beamtinnen und Beamten sind während der Probezeit in mindestens zwei Verwendungsbereichen einzusetzen, wenn nicht dienstliche Gründe entgegenstehen.
 
-(4) Eignung, Befähigung und fachliche Leistung der Beamtinnen und Beamten sind spätestens nach der Hälfte der Probezeit erstmals und vor Ablauf der Probezeit mindestens ein zweites Mal zu beurteilen. Auf besondere Eignungen und auf bestehende Mängel ist in der Beurteilung hinzuweisen.
+(4) Eignung, Befähigung und fachliche Leistung der Beamtinnen und Beamten sind spätestens nach der Hälfte der festgesetzten Probezeit erstmals und vor Ablauf der festgesetzten Probezeit mindestens ein zweites Mal zu beurteilen. Auf besondere Eignungen und auf bestehende Mängel ist in der Beurteilung hinzuweisen.
 
 (5) Kann die Bewährung wegen besonderer Umstände des Einzelfalls bis zum Ablauf der regelmäßigen Probezeit nicht abschließend festgestellt werden, kann die Probezeit verlängert werden.
 
@@ -443,45 +549,45 @@ Die obersten Dienstbehörden können über die Anforderungen nach den Sätzen 1 
 
 (2) Nicht anzurechnen sind hauptberufliche Tätigkeiten,
 
-1. die auf den Vorbereitungsdienst angerechnet worden sind,
+1. die auf den Vorbereitungsdienst angerechnet worden sind oder
 
-2. deren Ausübung Voraussetzung für die Zulassung zur Laufbahn ist oder
-
-3. die nach § 20 des Bundesbeamtengesetzes berücksichtigt worden sind.
+2. deren Ausübung Voraussetzung für die Zulassung zur Laufbahn ist.
 
 (3) § 19 Absatz 4 gilt entsprechend.
 
 # § 30 – Verlängerung der Probezeit
 
-(1) Die Probezeit verlängert sich um die Zeit einer Beurlaubung ohne Besoldung. Dies gilt nicht, wenn die Probezeit wegen einer dienstlichen oder öffentlichen Belangen dienenden Beurlaubung unterbrochen wurde und das Vorliegen dieser Voraussetzung bei Gewährung des Urlaubs von der obersten Dienstbehörde festgestellt worden ist. Die obersten Dienstbehörden bestimmen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, unter welchen Voraussetzungen dienstliche oder öffentliche Belange anerkannt werden können.
+(1) Die Probezeit verlängert sich um die Zeit einer Beurlaubung ohne Besoldung. Dies gilt nicht, wenn die oberste Dienstbehörde bei der Gewährung der Beurlaubung festgestellt hat, dass die Beurlaubung dienstlichen Interessen oder öffentlichen Belangen dient. Die obersten Dienstbehörden bestimmen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, unter welchen Voraussetzungen dienstliche oder öffentliche Belange anerkannt werden können.
 
 (2) Die Probezeit wird nicht verlängert durch Zeiten
 
-1. des Mutterschutzes,
+1. einer Teilzeitbeschäftigung,
 
-2. einer Teilzeitbeschäftigung,
+2. einer Kinderbetreuung bis zu drei Jahren pro Kind,
 
-3. einer Kinderbetreuung bis zu drei Jahren pro Kind,
+3. der tatsächlichen Pflege von nach ärztlichem Gutachten pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes bis zu drei Jahren pro Angehöriger oder Angehörigem sowie
 
-4. der tatsächlichen Pflege von nach ärztlichem Gutachten pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes bis zu drei Jahren pro Angehöriger oder Angehörigem sowie
-
-5. einer Beurlaubung nach § 24 Absatz 2 des Gesetzes über den Auswärtigen Dienst bis zu drei Jahren.
+4. einer Beurlaubung nach § 24 Absatz 2 des Gesetzes über den Auswärtigen Dienst bis zu drei Jahren.
 
 § 19 Absatz 4 gilt entsprechend.
 
 # § 31 – Mindestprobezeit
 
-(1) Unabhängig von den §§ 29 und 30 muss jede Beamtin oder jeder Beamte die Mindestprobezeit von einem Jahr leisten.
+(1) Die Probezeit muss mindestens ein Jahr dauern (Mindestprobezeit).
 
-(2) Die Probezeit einschließlich der Mindestprobezeit kann ganz oder teilweise entfallen, wenn die nach § 29 anrechenbare Tätigkeit
+(2) Auf die Mindestprobezeit können hauptberufliche Tätigkeiten nicht nach § 29 Absatz 1 angerechnet werden.
 
-1. im berufsmäßigen Wehrdienst,
+(3) Auf die Mindestprobezeit kann jedoch eine hauptberufliche Tätigkeit angerechnet werden, soweit die hauptberufliche Tätigkeit
 
-2. in der für die Bewährungsfeststellung zuständigen obersten Dienstbehörde oder deren Dienstbereich oder
+1. nach Art und Schwierigkeit mindestens der Tätigkeit in einem Amt der betreffenden Laufbahn entspricht und
 
-3. in einem Beamtenverhältnis der Besoldungsgruppe W oder C
+2. ausgeübt worden ist
 
-ausgeübt worden ist.
+a) im berufsmäßigen Wehrdienst,
+
+b) in der obersten Dienstbehörde, die für die Bewährungsfeststellung zuständig ist, oder in deren Dienstbereich oder
+
+c) in einem Beamtenverhältnis als Beamtin oder Beamter der Bundesbesoldungsordnung W oder C.
 
 # § 32 – Voraussetzungen einer Beförderung
 
@@ -495,7 +601,7 @@ Eine Beamtin oder ein Beamter kann befördert werden, wenn
 
 # § 33 – Auswahlentscheidungen
 
-(1) Feststellungen über Eignung, Befähigung und fachliche Leistung sind in der Regel auf der Grundlage aktueller dienstlicher Beurteilungen zu treffen. Frühere Beurteilungen sind zusätzlich zu berücksichtigen und vor Hilfskriterien heranzuziehen. Zur Überprüfung der Erfüllung von Anforderungen, zu denen die dienstlichen Beurteilungen keinen Aufschluss geben, können eignungsdiagnostische Instrumente eingesetzt werden. Die §§ 8 und 9 des Bundesgleichstellungsgesetzes sind zu beachten.
+(1) Feststellungen über Eignung, Befähigung und fachliche Leistung sind in der Regel auf der Grundlage aktueller dienstlicher Beurteilungen zu treffen. Frühere Beurteilungen sind zusätzlich zu berücksichtigen und vor Hilfskriterien heranzuziehen. Zur Überprüfung der Erfüllung von Anforderungen, zu denen die dienstlichen Beurteilungen keinen oder keinen hinreichenden Aufschluss geben, können eignungsdiagnostische Instrumente eingesetzt werden. Dies kann insbesondere der Fall sein, wenn erstmals Leitungs- oder Führungsaufgaben übertragen werden sollen. Die §§ 8 und 9 des Bundesgleichstellungsgesetzes sind zu beachten.
 
 (2) Erfolgreich absolvierte Tätigkeiten in einer öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtung, in der Verwaltung eines Mitgliedstaats der Europäischen Union oder in einer öffentlichen Einrichtung eines Mitgliedstaats der Europäischen Union während einer Beurlaubung nach § 6 Absatz 1 der Sonderurlaubsverordnung sind besonders zu berücksichtigen. Langjährige Leistungen, die wechselnden Anforderungen gleichmäßig gerecht geworden sind, sind angemessen zu berücksichtigen.
 
@@ -507,7 +613,7 @@ Eine Beamtin oder ein Beamter kann befördert werden, wenn
 
 2. bei Elternzeit mit vollständiger Freistellung von der dienstlichen Tätigkeit und
 
-3. bei Freistellungen von der dienstlichen Tätigkeit wegen einer Mitgliedschaft im Personalrat, als Vertrauensperson der schwerbehinderten Menschen oder als Gleichstellungsbeauftragte, wenn die dienstliche Tätigkeit weniger als 25 Prozent der Arbeitszeit beansprucht.
+3. bei Freistellungen von der dienstlichen Tätigkeit wegen einer Mitgliedschaft im Personalrat, als Vertrauensperson der schwerbehinderten Menschen oder bei Entlastungen als Gleichstellungsbeauftragte, wenn die dienstliche Tätigkeit jeweils weniger als 25 Prozent der Arbeitszeit beansprucht.
 
 In den Fällen des Satzes 1 Nummer 1 sollen für die fiktive Fortschreibung auch Beurteilungen der aufnehmenden Stelle herangezogen werden.
 
@@ -531,15 +637,23 @@ und auf Grund der Bewerbung eingestellt worden ist. Nicht auszugleichen sind Zei
 
 (3) Kann die Eignung nicht festgestellt werden, ist von der dauerhaften Übertragung des Dienstpostens abzusehen oder die Übertragung zu widerrufen.
 
-# § 35 – Aufstieg in die nächsthöhere Laufbahn
+# § 35 – Voraussetzungen für den Aufstieg
 
-(1) Der Aufstieg in die nächsthöhere Laufbahn erfolgt nach erfolgreichem Abschluss des Aufstiegsverfahrens. Dieser setzt neben der erfolgreichen Teilnahme an einem Auswahlverfahren Folgendes voraus:
+(1) Der Aufstieg setzt die erfolgreiche Teilnahme an einem Auswahlverfahren voraus. Weitere Voraussetzungen sind:
 
-1. beim Aufstieg in den mittleren Dienst: den erfolgreichen Abschluss eines fachspezifischen Vorbereitungsdienstes oder einer fachspezifischen Qualifizierung,
+1. für den Aufstieg in den mittleren Dienst: der erfolgreiche Abschluss eines fachspezifischen Vorbereitungsdienstes oder einer fachspezifischen Qualifizierung,
 
-2. beim Aufstieg in den gehobenen Dienst: den erfolgreichen Abschluss eines fachspezifischen Vorbereitungsdienstes, einer fachspezifischen Qualifizierung oder eines Hochschulstudiums sowie eine berufspraktische Einführung in die Laufbahn des gehobenen Dienstes und
+2. für den Aufstieg in den gehobenen Dienst:
 
-3. beim Aufstieg in den höheren Dienst: den erfolgreichen Abschluss eines fachspezifischen Vorbereitungsdienstes oder eines Hochschulstudiums sowie eine berufspraktische Einführung in die Laufbahn des höheren Dienstes.
+a) der erfolgreiche Abschluss eines fachspezifischen Vorbereitungsdienstes oder einer fachspezifischen Qualifizierung oder
+
+b) der erfolgreiche Abschluss eines Hochschulstudiums und eine berufspraktische Einführung in der nächsthöheren Laufbahn,
+
+3. für den Aufstieg in den höheren Dienst:
+
+a) der erfolgreiche Abschluss eines fachspezifischen Vorbereitungsdienstes oder
+
+b) der erfolgreiche Abschluss eines Hochschulstudiums und eine berufspraktische Einführung in der nächsthöheren Laufbahn.
 
 (2) Bei der Auswahl und Gestaltung der Aufstiegsverfahren sind die Benachteiligungsverbote des § 25 des Bundesbeamtengesetzes zu beachten. Berufsbegleitende und modularisierte Aufstiegsverfahren sind anzubieten, sofern dienstliche Gründe nicht entgegenstehen. Die Bundesakademie für öffentliche Verwaltung unterstützt die obersten Dienstbehörden bei der Ermittlung geeigneter Studiengänge und der Entwicklung familienfreundlicher Konzepte.
 
@@ -555,19 +669,19 @@ und auf Grund der Bewerbung eingestellt worden ist. Nicht auszugleichen sind Zei
 
 Ist das zweite Beförderungsamt das Endamt der Laufbahn, ist abweichend von Satz 2 Nummer 1 Voraussetzung für die Zulassung zum Auswahlverfahren, dass die Bewerberinnen und Bewerber bei Ablauf der Ausschreibungsfrist seit mindestens drei Jahren das erste Beförderungsamt erreicht haben. § 19 Absatz 4 gilt entsprechend.
 
-(3) Die obersten Dienstbehörden bestimmen Auswahlkommissionen, die die Auswahlverfahren durchführen. Sie können diese Befugnis auf unmittelbar nachgeordnete Behörden übertragen. Die Bundesakademie für öffentliche Verwaltung, die Hochschule des Bundes oder das Bundesverwaltungsamt können mit der Durchführung der Auswahlverfahren betraut werden. Die Auswahlkommissionen bestehen in der Regel aus vier Mitgliedern und sollen zu gleichen Teilen mit Frauen und Männern besetzt sein. Die Mitglieder müssen einer höheren Laufbahn als die Bewerberinnen und Bewerber angehören. Sie sind unabhängig und an Weisungen nicht gebunden.
+(3) Die obersten Dienstbehörden bestimmen Auswahlkommissionen, die die Auswahlverfahren durchführen. Sie können diese Befugnis auf unmittelbar nachgeordnete Behörden übertragen. Die Bundesakademie für öffentliche Verwaltung, die Hochschule des Bundes oder das Bundesverwaltungsamt können mit der Durchführung der Auswahlverfahren betraut werden. Die Auswahlkommissionen bestehen in der Regel aus vier Mitgliedern und sollen zu gleichen Teilen mit Frauen und Männern besetzt sein. Die Mitglieder müssen einer höheren Laufbahn als die Bewerberinnen und Bewerber angehören. Der Auswahlkommission können auch Arbeitnehmerinnen oder Arbeitnehmer angehören. Sie müssen bei Auswahlverfahren für den Aufstieg in Laufbahnen des mittleren Dienstes mindestens eine abgeschlossene Berufsausbildung oder eine gleichwertige Qualifikation, bei Auswahlverfahren für den Aufstieg in Laufbahnen des gehobenen Dienstes mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation und bei Auswahlverfahren für den Aufstieg in Laufbahnen des höheren Dienstes einen Master oder eine gleichwertige Qualifikation besitzen. Die Mitglieder der Auswahlkommission sind unabhängig und an Weisungen nicht gebunden.
 
-(4) In dem Auswahlverfahren wird, gemessen an den Anforderungen der künftigen Laufbahnaufgaben, die Eignung und Befähigung der Beamtinnen und Beamten überprüft. Sie sind mindestens in einer Vorstellung vor einer Auswahlkommission nachzuweisen. Beim Aufstieg in eine Laufbahn des gehobenen oder des höheren Dienstes sind auch schriftliche Aufgaben zu bearbeiten. Die Auswahlkommission bewertet die Ergebnisse. Sie kann die weitere Vorstellung vor der Auswahlkommission von den in den schriftlichen Aufgaben erzielten Ergebnissen abhängig machen. Für jedes Auswahlverfahren ist eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber festzulegen. Die Teilnahme ist erfolglos, wenn sie nicht mit ausreichendem Ergebnis abgeschlossen wurde.
+(4) In dem Auswahlverfahren wird, gemessen an den Anforderungen der künftigen Laufbahnaufgaben, die Eignung und Befähigung der Beamtinnen und Beamten überprüft. Sie sind mindestens in einer Vorstellung vor einer Auswahlkommission nachzuweisen. Beim Aufstieg in eine Laufbahn des gehobenen oder des höheren Dienstes sind auch schriftliche Aufgaben zu bearbeiten. Die Auswahlkommission bewertet die Ergebnisse. Sie kann die weitere Vorstellung vor der Auswahlkommission von den in den schriftlichen Aufgaben erzielten Ergebnissen abhängig machen. Für jedes Auswahlverfahren ist anhand der ermittelten Gesamtergebnisse eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber festzulegen. Die Rangfolge ist für die Entscheidung über die Zulassung zum Aufstiegsverfahren maßgeblich. Die Teilnahme ist erfolglos, wenn sie nicht mit ausreichendem Ergebnis abgeschlossen wurde.
 
 (5) Die zuständige Dienstbehörde kann auf der Grundlage der dienstlichen Beurteilungen und sonstiger Anforderungen eine Vorauswahl für die Teilnahme am Auswahlverfahren treffen.
 
-(6) Über die Zulassung zum Aufstieg entscheidet die oberste Dienstbehörde unter Berücksichtigung des Vorschlags der Auswahlkommission. Sie kann diese Befugnis auf eine andere Behörde übertragen.
+(6) Über die Zulassung zum Aufstiegsverfahren entscheidet die oberste Dienstbehörde unter Berücksichtigung des Vorschlags der Auswahlkommission. Sie kann diese Befugnis auf eine andere Behörde übertragen.
 
 # § 37 – Teilnahme an Vorbereitungsdiensten
 
-(1) Nehmen die Beamtinnen und Beamten nach erfolgreichem Auswahlverfahren an einem fachspezifischen Vorbereitungsdienst teil, sind die für die Referendarinnen, Referendare, Anwärterinnen und Anwärter im fachspezifischen Vorbereitungsdienst geltenden Bestimmungen zu Ausbildung und Prüfung entsprechend anzuwenden.
+(1) Nehmen die Beamtinnen und Beamten an einem fachspezifischen Vorbereitungsdienst teil, sind die für die Referendarinnen, Referendare, Anwärterinnen und Anwärter im fachspezifischen Vorbereitungsdienst geltenden Bestimmungen zu Ausbildung und Prüfung entsprechend anzuwenden.
 
-(2) Ist der Vorbereitungsdienst auf eine berufspraktische Studienzeit beschränkt, regeln die Ausbildungs- und Prüfungsordnungen die Voraussetzungen des Aufstiegs.
+(2) Ist der Vorbereitungsdienst auf eine berufspraktische Studienzeit beschränkt, regeln die Rechtsverordnungen über besondere Vorschriften für die einzelnen Laufbahnen und Vorbereitungsdienste nach § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes die Voraussetzungen des Aufstiegs.
 
 # § 38 – Fachspezifische Qualifizierungen
 
@@ -599,13 +713,13 @@ g) Aufgaben des öffentlichen Dienstes sowie
 
 h) wirtschaftliches Verwaltungshandeln.
 
-Die Teilnahme an der fachtheoretischen Ausbildung ist durch Leistungsnachweise zu belegen. Leistungsnachweise, die vor Beginn des Aufstiegsverfahrens erworben wurden, können auf Antrag angerechnet werden.
+Die Teilnahme an der fachtheoretischen Ausbildung ist durch Leistungstests zu belegen. Leistungstests, die vor Beginn des Aufstiegsverfahrens erworben wurden, können auf Antrag angerechnet werden. Hat eine Person einen Leistungstest endgültig nicht bestanden, so ist für sie das Aufstiegsverfahren beendet.
 
 (3) Während der berufspraktischen Einführung werden die Aufgaben der nächsthöheren Laufbahn wahrgenommen. Sie schließt mit einer dienstlichen Beurteilung ab, aus der hervorgeht, ob sich die Beamtin oder der Beamte in der nächsthöheren Laufbahn bewährt hat. Beim Aufstieg in den mittleren Dienst kann die berufspraktische Einführung um höchstens sechs Monate verkürzt werden, wenn die Beamtinnen und Beamten während ihrer bisherigen Tätigkeit hinreichende für die neue Laufbahn qualifizierende Kenntnisse erworben haben.
 
 (4) Der Bundespersonalausschuss oder ein von ihm beauftragter unabhängiger Ausschuss stellt nach einer Vorstellung der Beamtin oder des Beamten fest, ob die fachspezifische Qualifizierung erfolgreich abgeschlossen ist. Mit Zustimmung des Bundespersonalausschusses kann die oberste Dienstbehörde oder können von ihr bestimmte unmittelbar nachgeordnete Behörden das Feststellungsverfahren selbst regeln und durchführen. Das Feststellungsverfahren kann einmal wiederholt werden.
 
-# § 39 – Teilnahme an Hochschulausbildungen
+# § 39 – Hochschulstudium und berufspraktische Einführung
 
 (1) Die Aufstiegsausbildung kann auch außerhalb eines fachspezifischen Vorbereitungsdienstes in einem Studiengang an einer Hochschule erfolgen, wenn hierfür ein dienstliches Interesse besteht.
 
@@ -617,7 +731,7 @@ Die Teilnahme an der fachtheoretischen Ausbildung ist durch Leistungsnachweise z
 
 (5) Das Aufstiegsverfahren kann auf die berufspraktische Einführung von einem Jahr beschränkt werden, wenn die Beamtin oder der Beamte die in der Ausschreibung geforderte Hochschulausbildung und das Auswahlverfahren nach § 36 erfolgreich durchlaufen hat.
 
-(6) Die obersten Dienstbehörden können für den Aufstieg Studiengänge einrichten und für diese durch Rechtsverordnung besondere Vorschriften erlassen.
+(6) Für den Aufstieg können die obersten Dienstbehörden Studiengänge einrichten. Ihnen wird die in § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes enthaltene Ermächtigung übertragen, für den Aufstieg durch Rechtsverordnung besondere Vorschriften zu erlassen.
 
 # § 40 – Übertragung eines Amtes der neuen Laufbahn
 
@@ -643,25 +757,25 @@ nicht unterschreiten darf. Während der Qualifizierung müssen der Beamtin oder 
 
 # § 43 – Wechsel von Wissenschaftlerinnen und Wissenschaftlern
 
-Wenn sie die Befähigung für die vorgesehene Laufbahn besitzen, können Beamtinnen und Beamten der Besoldungsgruppe
+Wenn sie die Befähigung für die vorgesehene Laufbahn besitzen, kann Beamtinnen und Beamten, die seit mindestens sechs Monaten
 
-1. W 1 oder C 1 der Bundesbesoldungsordnungen W oder C Ämter der Besoldungsgruppe A 13 der Bundesbesoldungsordnung A,
+1. ein Amt der Besoldungsgruppe W 1 der Bundesbesoldungsordnung W oder C 1 der früheren Bundesbesoldungsordnung C innehaben, ein Amt der Besoldungsgruppe A 13 übertragen werden,
 
-2. W 2 oder C 2 der Bundesbesoldungsordnungen W oder C nach vier Jahren Ämter der Besoldungsgruppe A 14 der Bundesbesoldungsordnung A,
+2. ein Amt der Besoldungsgruppe W 2 der Bundesbesoldungsordnung W oder C 2 der früheren Bundesbesoldungsordnung C innehaben, nach vier Jahren in Ämtern der Bundesbesoldung W oder der früheren Bundesbesoldungsordnung C ein Amt der Besoldungsgruppe A 14 übertragen werden,
 
-3. W 2 oder C 2 der Bundesbesoldungsordnungen W oder C nach fünf Jahren Ämter der Besoldungsgruppe A 15 der Bundesbesoldungsordnung A,
+3. ein Amt der Besoldungsgruppe W 2 der Bundesbesoldungsordnung W oder C 2 der früheren Bundesbesoldungsordnung C innehaben, nach fünf Jahren in Ämtern der Bundesbesoldungsordnung W oder der früheren Bundesbesoldungsordnung C ein Amt der Besoldungsgruppe A 15 übertragen werden,
 
-4. W 2 oder C 3 der Bundesbesoldungsordnungen W oder C nach sechs Jahren Ämter der Besoldungsgruppen A 16 oder B 2 der Bundesbesoldungsordnungen A und B,
+4. ein Amt der Besoldungsgruppe W 2 der Bundesbesoldungsordnung W oder C 3 der früheren Bundesbesoldungsordnung C innehaben, nach sechs Jahren in Ämtern der Bundesbesoldungsordnung W oder der früheren Bundesbesoldungsordnung C ein Amt der Besoldungsgruppe A 16 oder B 3 übertragen werden,
 
-5. W 3 oder C 4 der Bundesbesoldungsordnungen W oder C nach sieben Jahren Ämter der Besoldungsgruppen B 3 oder B 4 der Bundesbesoldungsordnung B
+5. ein Amt der Besoldungsgruppe W 3 der Bundesbesoldungsordnung W oder C 4 der früheren Bundesbesoldungsordnung C innehaben, nach sieben Jahren in Ämtern der Bundesbesoldungsordnung W oder der früheren Bundesbesoldungsordnung C ein Amt der Besoldungsgruppe B 3 oder B 4
 
 übertragen werden.
 
 # § 44 – Wechsel von einem anderen Dienstherrn
 
-(1) Beim Wechsel von Beamtinnen und Beamten und früheren Beamtinnen und Beamten anderer Dienstherren in ein Beamtenverhältnis beim Bund sowie bei sonstigen bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sind die §§ 6 bis 9 und die §§ 18 bis 27 entsprechend anzuwenden.
+(1) Beim Wechsel von Beamtinnen und Beamten und früheren Beamtinnen und Beamten anderer Dienstherren in ein Beamtenverhältnis beim Bund sowie bei bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sind die §§ 6 bis 9 und die §§ 18 bis 26 sowie § 43 entsprechend anzuwenden.
 
-(2) Die Probezeit gilt als geleistet, soweit sich die Beamtin oder der Beamte bei anderen Dienstherren nach Erwerb der Laufbahnbefähigung in einer gleichwertigen Laufbahn bewährt hat.
+(2) Auf die Mindestprobezeit und auf die Probezeit sind die Zeiten anzurechnen, in denen sich die Beamtin oder der Beamte, nachdem sie oder er die Laufbahnbefähigung erworben hat, bei einem anderen Dienstherrn in einer gleichwertigen Laufbahn bewährt hat.
 
 # § 45 – Internationale Verwendungen
 
@@ -707,7 +821,7 @@ Die dienstliche Qualifizierung wird durch zentral organisierte Fortbildungsmaßn
 
 # § 48 – Ausnahmen von der regelmäßigen Beurteilung
 
-Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist insbesondere während der laufbahnrechtlichen Probezeit und in herausgehobenen Führungsfunktionen der Fall. Die §§ 28 bis 31 bleiben unberührt.
+Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist insbesondere in herausgehobenen Führungsfunktionen der Fall. Die §§ 28 bis 31 bleiben unberührt.
 
 # § 49 – Inhalt der dienstlichen Beurteilung
 
@@ -733,7 +847,7 @@ Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden, wenn ein
 
 (2) Beamtinnen und Beamte, die sich bei Inkrafttreten dieser Rechtsverordnung in Laufbahnen des Post- und Fernmeldedienstes oder der ehemaligen Bundesanstalt für Flugsicherung befinden, besitzen auch die Befähigung für eine in § 6 dieser Rechtsverordnung aufgeführte Laufbahn, die ihrer Fachrichtung entspricht.
 
-(3) Beamtinnen und Beamte, die sich am 26. Januar 2017 in den Laufbahnen des tierärztlichen Dienstes befinden, besitzen die Befähigung für die Laufbahn des agrar-, forst- und ernährungswissenschaftlichen sowie tierärztlichen Dienstes in ihrer bisherigen Laufbahngruppe.
+(3) Beamtinnen und Beamte, die sich am 26. Januar 2017 in einer der Laufbahnen des tierärztlichen Dienstes oder des agrar-, forst- und ernährungswissenschaftlichen Dienstes befunden haben, besitzen die Befähigung für die Laufbahn des agrar-, forst- und ernährungswissenschaftlichen sowie tierärztlichen Dienstes in ihrer bisherigen Laufbahngruppe.
 
 (4) Amtsbezeichnungen, die beim Inkrafttreten dieser Rechtsverordnung geführt werden, können bis zur Übertragung eines anderen Amtes weitergeführt werden.
 
@@ -785,24 +899,1078 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2013, 320 - 322;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-# Anlage 3 – (zu § 10 Absatz 2)
+# Anlage 3 – (zu § 10 Absatz 2 Satz 2)
 
 In den Rechtsverordnungen nach § 10 Absatz 1 sind folgende Prüfungsnoten vorzusehen:
 
-|                  |                                                                                                                                                                                             |
-|:-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| sehr gut (1)     | eine Leistung, die den Anforderungen in besonderem Maße entspricht;                                                                                                                         |
-| gut (2)          | eine Leistung, die den Anforderungen voll entspricht;                                                                                                                                       |
-| befriedigend (3) | eine Leistung, die im Allgemeinen den Anforderungen entspricht;                                                                                                                             |
-| ausreichend (4)  | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht;                                                                                                  |
-| mangelhaft (5)   | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden könnten; |
-| ungenügend (6)   | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden könnten.           |
+ 
+
+Note
+
+Notendefinition
+
+ 
+
+1
+
+2
+
+1
+
+sehr gut (1)
+
+eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+2
+
+gut (2)
+
+eine Leistung, die den Anforderungen voll entspricht
+
+3
+
+befriedigend (3)
+
+eine Leistung, die im Allgemeinen den Anforderungen entspricht
+
+4
+
+ausreichend (4)
+
+eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht
+
+5
+
+mangelhaft (5)
+
+eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können
+
+6
+
+ungenügend (6)
+
+eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können
 
 Zur Bildung der Prüfungsnoten können die Einzelleistungen und die Gesamtleistung der Prüfung nach einem System von Punktzahlen bewertet werden.
 
-Bei Vorbereitungsdiensten, die mit einem Bachelor abschließen, sind neben der Note zusätzlich die Leistungspunkte entsprechend des European Credit Transfer Systems (ECTS – Europäisches System zur Anrechnung von Studienleistungen) auszuweisen.
+Bei Vorbereitungsdiensten, die mit einem Bachelor abschließen, sind neben der Note zusätzlich die Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen auszuweisen.
 
 # Anlage 4 – (zu § 51 Absatz 1)
 
-(Fundstelle: BGBl. I 2009, 314 - 319;  
-bzgl. der einzelnen Änderungen vgl. Fußnote))
+Entsprechungstabelle zu den Laufbahnen nach Anlage 1 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist
+
+ 
+
+Laufbahn nach der BLV 2002
+
+Entsprechende Laufbahn
+
+ 
+
+1
+
+2
+
+ 1
+
+Ärztlicher Dienst
+
+Höherer ärztlicher und gesundheitswissenschaftlicher Dienst
+
+ 2
+
+Archäologischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+ 3
+
+Bibliotheksdienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+ 4
+
+Biologischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+ 5
+
+Chemischer Dienst einschließlich der Fachrichtungen physikalische Chemie, Bio- und Geochemie
+
+Höherer naturwissenschaftlicher Dienst
+
+ 6
+
+Ethnologischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+ 7
+
+Forst- und holzwirtschaftlicher Dienst
+
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+ 8
+
+Gartenbaulicher Dienst einschließlich der Fachrichtung Landespflege
+
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+ 9
+
+Geographischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+10
+
+Geologischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+11
+
+Geophysikalischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+12
+
+Gesellschafts- und sozialwissenschaftlicher Dienst
+
+Höherer nichttechnischer Verwaltungsdienst
+
+13
+
+Haus- und ernährungswissenschaftlicher Dienst
+
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+14
+
+Historischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+15
+
+Informationstechnischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+16
+
+Kryptologischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+17
+
+Kunsthistorischer Dienst
+
+Höherer kunstwissenschaftlicher Dienst
+
+18
+
+Landwirtschaftlicher Dienst
+
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+19
+
+Lebensmittelchemischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+20
+
+Mathematischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+21
+
+Medien- und kommunikationswissenschaftlicher Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+22
+
+Mineralogischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+23
+
+Musikwissenschaftlicher Dienst
+
+Höherer kunstwissenschaftlicher Dienst
+
+24
+
+Orientalischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+25
+
+Ozeanographischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+26
+
+Pharmazeutischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+27
+
+Physikalischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+28
+
+Raumordnungsdienst
+
+Bei Vorliegen der akademischen Grade Diplom-Betriebswirtin/Diplom-Betriebswirt, Diplom-Kauffrau/Diplom-Kaufmann,  
+Diplom-Soziologin/Diplom-Soziologe oder Diplom-Volkswirtin/  
+Diplom-Volkswirt:  
+höherer nichttechnischer Verwaltungsdienst  
+Bei Vorliegen der akademischen Grade Diplom-Agraringenieurin/ Diplom-Agraringenieur oder Diplom-Ingenieurin/Diplom-  
+Ingenieur:  
+höherer technischer Verwaltungsdienst  
+Bei Vorliegen der akademischen Grade Diplom-Geographin/Diplom-Geograph:  
+höherer naturwissenschaftlicher Dienst  
+Bei Vorliegen der akademischen Grade Diplom-Forstwirtin/  
+Diplom-Forstwirt:  
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+29
+
+Romanistischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+30
+
+Slawistischer Dienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+31
+
+Sprachendienst
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+32
+
+Statistischer Dienst
+
+Höherer naturwissenschaftlicher Dienst
+
+33
+
+Stenographischer Dienst in der  
+Parlamentsverwaltung
+
+Höherer nichttechnischer Verwaltungsdienst
+
+34
+
+Technischer Dienst nach Maßgabe des § 37
+
+Höherer technischer Verwaltungsdienst
+
+35
+
+Tierärztlicher Dienst
+
+Bis 26. Januar 2017:  
+höherer tierärztlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+36
+
+Wetterdienst
+
+Höherer naturwissenschaftlicher Dienst
+
+37
+
+Wirtschaftsverwaltungsdienst
+
+Höherer nichttechnischer Verwaltungsdienst
+
+38
+
+Zahnärztlicher Dienst
+
+Höherer ärztlicher und gesundheitswissenschaftlicher Dienst
+
+Entsprechungstabelle zu den Laufbahnen nach Anlage 2 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist
+
+ 
+
+Laufbahn nach der BLV 2002
+
+Entsprechende Laufbahn
+
+ 
+
+1
+
+2
+
+ 1
+
+Bibliotheksdienst
+
+Gehobener sprach- und kulturwissenschaftlicher Dienst
+
+ 2
+
+Dienst in der gesetzlichen Kranken-  
+versicherung, Krankenkassendienst
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+ 3
+
+Dienst in der gesetzlichen Unfall-  
+versicherung
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+ 4
+
+Dienst als Sozialarbeiterinnen und Sozialarbeiter und als Sozialpädagoginnen und Sozialpädagogen
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+ 5
+
+Dokumentationsdienst
+
+Gehobener sprach- und kulturwissenschaftlicher Dienst
+
+ 6
+
+Gartenbaulicher Dienst einschließlich  
+der Fachrichtung Landespflege
+
+Bis 26. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+ 7
+
+Informationstechnischer Dienst
+
+Gehobener naturwissenschaftlicher Dienst
+
+ 8
+
+Land- und forstwirtschaftlicher Dienst nach Maßgabe des § 37
+
+Bis 26. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+ 9
+
+Landwirtschaftlich-hauswirtschaftlicher Dienst
+
+Bis 26. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+10
+
+Nautischer Dienst
+
+Gehobener technischer Verwaltungsdienst
+
+11
+
+Raumordnungsdienst
+
+Gehobener technischer Verwaltungsdienst
+
+12
+
+Seevermessungstechnischer Dienst
+
+Gehobener technischer Verwaltungsdienst
+
+13
+
+Schiffsmaschinendienst
+
+Gehobener technischer Verwaltungsdienst
+
+14
+
+Technischer Dienst nach Maßgabe  
+des § 37
+
+Gehobener technischer Verwaltungsdienst
+
+15
+
+Weinbaulicher Dienst
+
+Bis 26. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+16
+
+Wirtschaftsverwaltungsdienst
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+Entsprechungstabelle zu den Laufbahnen nach Anlage 3 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist
+
+ 
+
+Laufbahn nach der BLV 2002
+
+Entsprechende Laufbahn
+
+ 
+
+1
+
+2
+
+1
+
+Technischer Dienst nach Maßgabe des § 35 Absatz 2 Satz 2 und 4 und des § 37 bei Abschluss der Berufsausbildung als:
+
+Mittlerer technischer Verwaltungsdienst
+
+ 
+
+–
+
+Technische Assistentinnen und Assistenten mit staatlicher Anerkennung
+
+ 
+
+ 
+
+–
+
+staatlich geprüfte Chemotechnikerinnen und Chemotechniker
+
+ 
+
+ 
+
+–
+
+Handwerksmeisterinnen, Handwerksmeister, Industriemeisterinnen und Industriemeister in ihrem jeweiligen Beruf
+
+ 
+
+ 
+
+–
+
+Kartographinnen und Kartographen
+
+ 
+
+ 
+
+–
+
+Laborantinnen und Laboranten
+
+ 
+
+ 
+
+–
+
+Landkartentechnikerinnen und Landkartentechniker
+
+ 
+
+ 
+
+–
+
+Operateurinnen und Operateure in Kernforschungseinrichtungen
+
+ 
+
+ 
+
+–
+
+staatlich geprüfte Technikerinnen und Techniker
+
+ 
+
+ 
+
+–
+
+Technikerinnen und Techniker mit staatlicher Anerkennung
+
+ 
+
+ 
+
+–
+
+Strahlenschutztechnikerinnen und Strahlenschutztechniker in Kernforschungseinrichtungen
+
+ 
+
+ 
+
+–
+
+Vermessungstechnikerinnen und Vermessungstechniker
+
+ 
+
+ 
+
+–
+
+Werkstoffprüferinnen und Werkstoffprüfer
+
+ 
+
+ 
+
+–
+
+Zeichnerinnen und Zeichner
+
+ 
+
+2
+
+Archivdienst bei Abschluss der Berufsausbildung als Fachangestellte für Medien- und Informationsdienste – Fachrichtung Archiv –
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+3
+
+Bibliotheksdienst bei Abschluss der Berufsausbildung als:
+
+Mittlerer sprach- und kulturwissenschaftlicher Dienst
+
+ 
+
+–
+
+Bibliotheksassistentinnen und Bibliotheksassistenten
+
+ 
+
+ 
+
+–
+
+Fachangestellte für Medien- und Informationsdienste – Fachrichtung Bibliothek, Information und Dokumentation, Bildagentur –
+
+ 
+
+4
+
+Nautischer Dienst
+
+Mittlerer technischer Verwaltungsdienst
+
+Entsprechungstabelle zu den Laufbahnen nach Anlage 5 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist
+
+ 
+
+Laufbahn nach der BLV 2002
+
+Entsprechende Laufbahn
+
+ 
+
+1
+
+2
+
+ 1
+
+Einfacher Zolldienst des Bundes
+
+Einfacher nichttechnischer Verwaltungsdienst
+
+ 2
+
+Einfacher nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes
+
+Einfacher nichttechnischer Verwaltungsdienst
+
+ 3
+
+Amtsgehilfendienst in der Bundeswehrverwaltung
+
+Einfacher nichttechnischer Verwaltungsdienst
+
+ 4
+
+Einfacher Lagerverwaltungsdienst in der Bundeswehrverwaltung
+
+Einfacher nichttechnischer Verwaltungsdienst
+
+ 5
+
+Einfacher technischer Dienst bei der Museumsstiftung Post und Telekommunikation
+
+Einfacher technischer Verwaltungsdienst
+
+ 6
+
+Einfacher technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+
+Einfacher technischer Verwaltungsdienst
+
+ 7
+
+Einfacher technischer Dienst bei der Unfallkasse Post und Telekom
+
+Einfacher technischer Verwaltungsdienst
+
+ 8
+
+Einfacher technischer Dienst bei der Unfallversicherung Bund und Bahn
+
+Einfacher technischer Verwaltungsdienst
+
+ 9
+
+Mittlerer Auswärtiger Dienst
+
+Mittlerer Auswärtiger Dienst
+
+10
+
+Mittlerer Dienst im Bundesnachrichtendienst
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+11
+
+Mittlerer nichttechnischer Dienst des Bundes in der Sozialversicherung
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+12
+
+Mittlerer Forstdienst in der Bundes-  
+verwaltung
+
+Bis 26. Januar 2017:  
+mittlerer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+mittlerer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+13
+
+Mittlerer nautischer und maschinen-  
+technischer Zolldienst des Bundes
+
+Mittlerer technischer Verwaltungsdienst
+
+14
+
+Mittlerer Zolldienst des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+15
+
+Mittlerer Steuerdienst des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+16
+
+Mittlerer Dienst an wissenschaftlichen Bibliotheken des Bundes
+
+Mittlerer sprach- und kulturwissenschaftlicher Dienst
+
+17
+
+Mittlerer Dienst im Verfassungsschutz des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+18
+
+Mittlerer nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+19
+
+Mittlerer nichttechnischer Dienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+20
+
+Mittlerer technischer Dienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Mittlerer technischer Verwaltungsdienst
+
+21
+
+Mittlerer Wetterdienst des Bundes
+
+Mittlerer naturwissenschaftlicher Dienst
+
+22
+
+Mittlerer Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+23
+
+Mittlerer feuerwehrtechnischer Dienst in der Bundeswehr
+
+Mittlerer technischer Verwaltungsdienst
+
+24
+
+Mittlerer nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung
+
+Mittlerer nichttechnischer Verwaltungsdienst
+
+25
+
+Mittlerer technischer Dienst in der Bundeswehrverwaltung  
+– Fachrichtung Wehrtechnik –
+
+Mittlerer technischer Verwaltungsdienst
+
+26
+
+Mittlerer technischer Dienst bei der Museumsstiftung Post und Telekommunikation
+
+Mittlerer technischer Verwaltungsdienst
+
+27
+
+Mittlerer technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+
+Mittlerer technischer Verwaltungsdienst
+
+28
+
+Mittlerer technischer Dienst bei der  
+Unfallkasse Post und Telekom
+
+Mittlerer technischer Verwaltungsdienst
+
+29
+
+Mittlerer technischer Dienst bei der  
+Unfallversicherung Bund und Bahn
+
+Mittlerer technischer Verwaltungsdienst
+
+30
+
+Gehobener Auswärtiger Dienst
+
+Gehobener Auswärtiger Dienst
+
+31
+
+Gehobener nichttechnischer Dienst in der Bundesagentur für Arbeit
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+32
+
+Gehobener Dienst im Bundesnachrichtendienst
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+33
+
+Gehobener nichttechnischer Dienst des Bundes in der Sozialversicherung
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+34
+
+Gehobener Forstdienst des Bundes
+
+Bis 26. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+gehobener agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+35
+
+Gehobener nichttechnischer Dienst der Bundesvermögensverwaltung
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+36
+
+Gehobener nichttechnischer Zolldienst des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+37
+
+Gehobener Steuerdienst des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+38
+
+Gehobener Archivdienst des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+39
+
+Gehobener Dienst im Verfassungsschutz des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+40
+
+Gehobener nichttechnischer Dienst in der allgemeinen und inneren Verwaltung des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+41
+
+Gehobener Schuldienst in der Bundespolizei
+
+Gehobener sprach- und kulturwissenschaftlicher Dienst
+
+42
+
+Gehobener bautechnischer Verwaltungsdienst des Bundes
+
+Gehobener technischer Verwaltungsdienst
+
+43
+
+Gehobener technischer Dienst  
+– Fachrichtung Bahnwesen –
+
+Gehobener technischer Verwaltungsdienst
+
+44
+
+Gehobener technischer Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+
+Gehobener technischer Verwaltungsdienst
+
+45
+
+Gehobener Wetterdienst des Bundes
+
+Gehobener naturwissenschaftlicher Dienst
+
+46
+
+Gehobener feuerwehrtechnischer Dienst in der Bundeswehr
+
+Gehobener technischer Verwaltungsdienst
+
+47
+
+Gehobener Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+48
+
+Gehobener Fachschuldienst an Bundeswehrfachschulen
+
+Gehobener sprach- und kulturwissenschaftlicher Dienst
+
+49
+
+Gehobener nichttechnischer Verwaltungsdienst in der Bundeswehrverwaltung
+
+Gehobener nichttechnischer Verwaltungsdienst
+
+50
+
+Gehobener technischer Dienst in der Bundeswehrverwaltung  
+– Fachrichtung Wehrtechnik –
+
+Gehobener technischer Verwaltungsdienst
+
+51
+
+Gehobener technischer Dienst bei der Museumsstiftung Post und Telekommunikation
+
+Gehobener technischer Verwaltungsdienst
+
+52
+
+Gehobener technischer Dienst bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+
+Gehobener technischer Verwaltungsdienst
+
+53
+
+Gehobener technischer Dienst bei der Unfallkasse Post und Telekom
+
+Gehobener technischer Verwaltungsdienst
+
+54
+
+Gehobener technischer Dienst bei der Unfallversicherung Bund und Bahn
+
+Gehobener technischer Verwaltungsdienst
+
+55
+
+Höherer Auswärtiger Dienst
+
+Höherer Auswärtiger Dienst
+
+56
+
+Höherer nichttechnischer Dienst in der Bundesagentur für Arbeit
+
+Höherer nichttechnischer Verwaltungsdienst
+
+57
+
+Höherer Dienst im Bundesnachrichtendienst
+
+Höherer nichttechnischer Verwaltungsdienst
+
+58
+
+Höherer Forstdienst des Bundes
+
+Bis 26. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher Dienst  
+Seit 27. Januar 2017:  
+höherer agrar-, forst- und ernährungswissenschaftlicher sowie tierärztlicher Dienst
+
+59
+
+Höherer Zolldienst des Bundes
+
+Höherer nichttechnischer Verwaltungsdienst
+
+60
+
+Höherer allgemeiner Verwaltungsdienst des Bundes
+
+Höherer nichttechnischer Verwaltungsdienst
+
+61
+
+Höherer Archivdienst des Bundes
+
+Höherer nichttechnischer Verwaltungsdienst
+
+62
+
+Höherer Dienst an wissenschaftlichen Bibliotheken des Bundes
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+63
+
+Höherer Dienst im Verfassungsschutz des Bundes
+
+Höherer nichttechnischer Verwaltungsdienst
+
+64
+
+Höherer Schuldienst in der Bundes-  
+polizei
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+65
+
+Höherer technischer Verwaltungsdienst des Bundes
+
+Höherer technischer Verwaltungsdienst
+
+66
+
+Höherer Fachschuldienst an Bundeswehrfachschulen
+
+Höherer sprach- und kulturwissenschaftlicher Dienst
+
+67
+
+Höherer technischer Dienst in der Bundeswehrverwaltung  
+– Fachrichtung Wehrtechnik –
+
+Höherer technischer Verwaltungsdienst
+
+68
+
+Höherer technischer Dienst bei der  
+Museumsstiftung Post und Telekommunikation
+
+Höherer technischer Verwaltungsdienst
+
+69
+
+Höherer technischer Dienst bei der  
+Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+
+Höherer technischer Verwaltungsdienst
+
+70
+
+Höherer technischer Dienst bei der  
+Unfallkasse Post und Telekom
+
+Höherer technischer Verwaltungsdienst
+
+71
+
+Höherer technischer Dienst bei der  
+Unfallversicherung Bund und Bahn
+
+Höherer technischer Verwaltungsdienst
