@@ -55,7 +55,7 @@ hat.
 
 5. der Tag der Rechtskraft,
 
-6. die rechtliche Bezeichnung der Tat, deren der Verurteilte schuldig gesprochen worden ist, unter Angabe der angewendeten Strafvorschriften,
+6. die rechtliche Bezeichnung der Tat, deren die verurteilte Person schuldig gesprochen worden ist, unter Angabe der angewendeten Strafvorschriften,
 
 7. die verhängten Strafen, die nach § 59 des Strafgesetzbuchs vorbehaltene Strafe sowie alle kraft Gesetzes eintretenden oder in der Entscheidung neben einer Strafe oder neben Freisprechung oder selbständig angeordneten oder vorbehaltenen Maßnahmen (§ 11 Abs. 1 Nr. 8 des Strafgesetzbuchs) und Nebenfolgen.
 
@@ -263,9 +263,21 @@ Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Trans
 
 (3) Eine Mitteilung nach Absatz 1 darf nur für die in Absatz 2, § 494 Absatz 1 der Strafprozeßordnung oder in § 153a Abs. 2 der Gewerbeordnung genannten Zwecke verwendet werden. Liegen diese Voraussetzungen nicht vor, so ist die Mitteilung von der Registerbehörde unverzüglich zu vernichten.
 
+# § 20b – Identifizierungsverfahren
+
+Soweit dies zur Durchführung der Aufgaben der Registerbehörde, insbesondere nach diesem Gesetz erforderlich ist, darf die Registerbehörde bei Zweifeln an der Identität einer Person, für die eine Eintragung im Bundeszentralregister gespeichert ist, ausschließlich zur Feststellung der Identität dieser Person, allein oder nebeneinander, insbesondere Auskünfte von den folgenden öffentlichen Stellen einholen:
+
+1. aus dem Melderegister,
+
+2. aus dem Ausländerzentralregister sowie
+
+3. von Ausländerbehörden und Standesämtern.
+
+Im Rahmen eines solchen Auskunftsersuchens darf die Registerbehörde den ersuchten öffentlichen Stellen die hierzu erforderlichen personenbezogenen Daten übermitteln. Die ersuchten öffentlichen Stellen haben die von der Registerbehörde übermittelten personenbezogenen Daten spätestens nach Erteilung der Auskunft unverzüglich zu löschen.
+
 # § 21 – Automatisiertes Auskunftsverfahren
 
-Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend; für Auskunftsersuchen der Verfassungsschutzbehörden des Bundes und der Länder, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes gelten darüber hinaus § 492 Absatz 4a der Strafprozessordnung und § 8 der Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
+Die Einrichtung eines automatisierten Anfrage- und Auskunftsverfahrens für die Übermittlung personenbezogener Daten ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend; für Auskunftsersuchen der Verfassungsschutzbehörden des Bundes und der Länder, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes gelten darüber hinaus § 492 Absatz 4a der Strafprozessordnung und § 8 der Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
 
 # § 21a – Protokollierungen
 
@@ -585,7 +597,7 @@ Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere
 
 (1) Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden, sowie Suchvermerke dürfen, unbeschadet der §§ 42 und 57, nur zur Kenntnis gegeben werden
 
-1. den Gerichten, Gerichtsvorständen, Staatsanwaltschaften, dem nationalen Mitglied nach Maßgabe des § 5 Absatz 1 Nummer 2 des Eurojust-Gesetzes sowie den Aufsichtsstellen nach § 68a des Strafgesetzbuchs für Zwecke der Rechtspflege sowie den Justizvollzugsbehörden für Zwecke des Strafvollzugs einschließlich der Überprüfung aller im Strafvollzug tätigen Personen,
+1. den Gerichten, Gerichtsvorständen, Staatsanwaltschaften, dem nationalen Mitglied nach Maßgabe des § 5 Absatz 1 Nummer 2 des Eurojust-Gesetzes, den Aufsichtsstellen nach § 68a des Strafgesetzbuchs sowie der Bewährungshilfe für Zwecke der Rechtspflege sowie den Justizvollzugsbehörden für Zwecke des Strafvollzugs einschließlich der Überprüfung aller im Strafvollzug tätigen Personen,
 
 2. den obersten Bundes- und Landesbehörden,
 
