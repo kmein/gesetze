@@ -1321,8 +1321,8 @@
 - [CCDSekrSitzAbkG](laws/CCDSekrSitzAbkG.md) Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats des Übereinkommens
 - [ChemBioLackAusbErprobV](laws/ChemBioLackAusbErprobV.md) Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
 - [ChemBioLackAusbV 2009](laws/ChemBioLackAusbV_2009.md) Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack *)
+- [ChemBiozidDV](laws/ChemBiozidDV.md) Verordnung über die Meldung und die Abgabe von Biozid-Produkten sowie zur Durchführung der Verordnung (EU) Nr. 528/2012
 - [ChemBiozidMeldeV](laws/ChemBiozidMeldeV.md) Verordnung über die Meldung von Biozid-Produkten nach dem Chemikaliengesetz*)
-- [ChemBiozidZulV](laws/ChemBiozidZulV.md) Verordnung über die Zulassung von Biozid-Produkten und sonstige chemikalienrechtliche Verfahren zu Biozid-Produkten und Biozid-Wirkstoffen
 - [ChemFachAusbV](laws/ChemFachAusbV.md) Verordnung über die Berufsausbildung zur Produktionsfachkraft Chemie
 - [ChemG](laws/ChemG.md) Gesetz zum Schutz vor gefährlichen Stoffen 1
 - [ChemGiftInfoV](laws/ChemGiftInfoV.md) Verordnung über die Mitteilungspflichten nach § 16e des Chemikaliengesetzes zur Vorbeugung und Information bei Vergiftungen
