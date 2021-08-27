@@ -43,7 +43,7 @@ Im Sinne dieses Abschnitts ist
 
 (1) In Verfahren über eine in den §§ 3 und 4 bezeichnete Sache ist das Familiengericht zuständig, in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk dieses Oberlandesgerichts.
 
-(2) Im Bezirk des Kammergerichts entscheidet das Familiengericht Pankow/Weißensee.
+(2) Im Bezirk des Kammergerichts entscheidet das Familiengericht Pankow.
 
 (3) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch Rechtsverordnungen einem anderen Familiengericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Familiengericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können die Ermächtigungen auf die Landesjustizverwaltungen übertragen.
 
@@ -181,7 +181,7 @@ Für die Zwangsvollstreckung ist das Familiengericht ausschließlich örtlich zu
 
 2. die Zwangsvollstreckung durchgeführt werden soll.
 
-Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow/Weißensee.
+Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 # § 20 – Anpassung eines ausländischen Titels
 

@@ -86,3 +86,5 @@ Personen, die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet ein rec
 # § 6 – Schutz der Berufsbezeichnung
 
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und registrierten Rechtsbeiständen geführt werden.
+
+# § 7 – (weggefallen)

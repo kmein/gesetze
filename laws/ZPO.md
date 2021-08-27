@@ -12898,7 +12898,7 @@ der Verordnung (EG) Nr. 805/2004 sind die Gerichte, Behörden oder Notare zustä
 
 # § 1080 – Entscheidung
 
-(1) Bestätigungen nach Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25 Abs. 1 und Artikel 6 Abs. 3 der Verordnung (EG) Nr. 805/2004 sind ohne Anhörung des Schuldners auszustellen. Eine Ausfertigung der Bestätigung ist dem Schuldner von Amts wegen zuzustellen.
+(1) Bestätigungen nach Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25 Abs. 1 und Artikel 6 Abs. 3 der Verordnung (EG) Nr. 805/2004 sind ohne Anhörung des Schuldners auszustellen. Eine Ausfertigung der Bestätigung ist dem Schuldner von Amts wegen zuzustellen. Das gilt nicht, wenn die antragstellende Person Übermittlung an sich zur Zustellung im Parteibetrieb beantragt hat.
 
 (2) Wird der Antrag auf Ausstellung einer Bestätigung zurückgewiesen, so sind die Vorschriften über die Anfechtung der Entscheidung über die Erteilung einer Vollstreckungsklausel entsprechend anzuwenden.
 
@@ -13086,7 +13086,7 @@ Für die Ausstellung der Bescheinigung nach den Artikeln 53 und 60 der Verordnun
 
 # § 1111 – Verfahren
 
-(1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den Fällen des § 726 Absatz 1 und der §§ 727 bis 729 kann der Schuldner vor der Ausstellung der Bescheinigung gehört werden. Eine Ausfertigung der Bescheinigung ist dem Schuldner von Amts wegen zuzustellen.
+(1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den Fällen des § 726 Absatz 1 und der §§ 727 bis 729 kann der Schuldner vor der Ausstellung der Bescheinigung gehört werden. Eine Ausfertigung der Bescheinigung ist dem Schuldner von Amts wegen zuzustellen. Das gilt nicht, wenn die antragstellende Person Übermittlung an sich zur Zustellung im Parteibetrieb beantragt hat.
 
 (2) Für die Anfechtbarkeit der Entscheidung über die Ausstellung der Bescheinigung nach Absatz 1 gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel entsprechend.
 
