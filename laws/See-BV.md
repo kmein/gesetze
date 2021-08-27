@@ -325,10 +325,6 @@ nachweist.
 
 5. hinsichtlich der Überprüfung der fachlichen Kenntnisse und Fähigkeiten der Bewerber sowie hinsichtlich der Befähigungsbewertung die Einhaltung der Regel I/6,
 
-6. (weggefallen)
-
-7. (weggefallen)
-
 (2) Die jeweiligen Anforderungen zur Gewährleistung des Schutzes des menschlichen Lebens auf See und der Meeresumwelt hinsichtlich der Ausbildung und Befähigung für den nautischen Schiffsdienst auf Fischereifahrzeugen gelten für die Erteilung von Befähigungszeugnissen im Sinne des § 2 Absatz 2 des Seeaufgabengesetzes als erfüllt, wenn keine konkret begründeten Beanstandungen entgegenstehen und die Einhaltung der entsprechenden Vorschriften dieser Verordnung und die sinngemäße Anwendung des Absatzes 1 gewährleistet sind.
 
 (3) Zur Prüfung der Anforderungen des Absatzes 1 Nummer 1, 2, 4 und 5 und des Absatzes 2 ist dem Bundesamt im Hinblick auf den Erlass und die Änderung von Studien- und Prüfungsordnungen sowie von Lehrplänen Gelegenheit zur Stellungnahme zu gewähren. Es ist befugt, Anmerkungen im Interesse einer vollständigen Umsetzung der jeweiligen Anforderungen des STCW-Übereinkommens abzugeben. Die Anforderungen des Absatzes 1 Nummer 1, 2, 4 und 5 und des Absatzes 2 gelten als erfüllt, wenn sie mit dem Bundesamt abgestimmt sind.
@@ -620,8 +616,6 @@ b) Nautischer Wachoffizier BKW mit der Befugnis zum Wachoffizier in der Kleinen 
 (3) Die Befugnisse eines Befähigungszeugnisses zum Kapitän höherer Ordnung schließen die Befugnisse eines Befähigungszeugnisses niedrigerer Ordnung ein. Das Befähigungszeugnis Nautischer Wachoffizier BGW schließt die Befugnisse des Befähigungszeugnisses Nautischer Wachoffizier BKW ein. Ergänzend zu Satz 1 schließt das Befähigungszeugnis Nautischer Wachoffizier BKW die Befugnisse des Befähigungszeugnisses zum Kapitän BKü ein, wenn die Voraussetzungen des § 6 erfüllt sind. Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen schließen die Befugnis zum Kapitän NK 100 ein. Für Inhaber eines Befähigungszeugnisses zum Kapitän BKü gilt Satz 4 nur, wenn der Inhaber eine Abschlussprüfung an einer nach Landesrecht eingerichteten Ausbildungsstätte bestanden hat und sein Zeugnis über die Abschlussprüfung mindestens ausreichende Leistungen in der Schiffsbetriebstechnik aufweist oder wenn im Abschlusszeugnis zum Fischwirt ausreichende Leistungen im Fach Motorenkunde bestätigt wurden.
 
 (4) Ein Inhaber des Befähigungszeugnisses zum Kapitän BKü, der seine Abschlussprüfung an einer nach Landesrecht eingerichteten Ausbildungsstätten bestanden hat und dessen Zeugnis über die Abschlussprüfung mindestens ausreichende Leistungen in der Schiffsbetriebstechnik aufweist, erhält auf Antrag folgenden Zusatz auf dem Befähigungszeugnis BKü: „Berechtigt auch zum Leiten von Antriebsanlagen mit einer Leistung bis einschließlich 300 Kilowatt auf Fischereifahrzeugen in der Küstenfischerei“.
-
-(5) (weggefallen)
 
 # § 34 – Voraussetzungen für den Erwerb der Befähigungszeugnisse
 

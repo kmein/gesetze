@@ -85,7 +85,7 @@ Wird die zentrale Behörde tätig, um Unterhaltsansprüche Minderjähriger und j
 
 # § 7 – Vorprüfung durch das Amtsgericht; Zuständigkeitskonzentration
 
-(1) Die Entgegennahme und Prüfung eines Antrages auf Unterstützung in Unterhaltssachen erfolgt durch das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow/Weißensee.
+(1) Die Entgegennahme und Prüfung eines Antrages auf Unterstützung in Unterhaltssachen erfolgt durch das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 (2) Das Vorprüfungsverfahren ist ein Justizverwaltungsverfahren.
 
@@ -243,7 +243,7 @@ Auf die Bewilligung von Verfahrenskostenhilfe ist § 113 Absatz 1 des Gesetzes �
 
 # § 21 – Zuständigkeit für Anträge auf Verfahrenskostenhilfe nach der Richtlinie 2003/8/EG
 
-(1) Abweichend von § 1077 Absatz 1 Satz 1 der Zivilprozessordnung erfolgt in Unterhaltssachen die Entgegennahme und Übermittlung von Anträgen natürlicher Personen auf grenzüberschreitende Verfahrenskostenhilfe nach § 1076 der Zivilprozessordnung durch das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow/Weißensee.
+(1) Abweichend von § 1077 Absatz 1 Satz 1 der Zivilprozessordnung erfolgt in Unterhaltssachen die Entgegennahme und Übermittlung von Anträgen natürlicher Personen auf grenzüberschreitende Verfahrenskostenhilfe nach § 1076 der Zivilprozessordnung durch das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 (2) Für eingehende Ersuchen gilt § 1078 Absatz 1 Satz 1 der Zivilprozessordnung.
 
@@ -303,13 +303,13 @@ In den Fällen des Satzes 1 Nummer 2 gilt für den Erlass einer einstweiligen An
 
 # § 27 – Örtliche Zuständigkeit für die Auffang- und Notzuständigkeit; Verordnungsermächtigung
 
-(1) Sind die deutschen Gerichte nach Artikel 6 oder Artikel 7 der Verordnung (EG) Nr. 4/2009 international zuständig, so entscheidet das Amtsgericht, das für den Sitz desjenigen Oberlandesgerichts zuständig ist, in dessen Bezirk die Beteiligten ihren letzten inländischen gemeinsamen Wohnsitz hatten oder an den der ausreichende Bezug zur Bundesrepublik Deutschland im Sinne des Artikels 7 der Verordnung (EG) Nr. 4/2009 angeknüpft werden kann. § 28 Absatz 1 Satz 2 ist entsprechend anzuwenden. Ergibt sich keine örtliche Zuständigkeit eines inländischen Gerichts nach Satz 1 oder Satz 2, so ist das Amtsgericht Pankow/Weißensee in Berlin örtlich zuständig.
+(1) Sind die deutschen Gerichte nach Artikel 6 oder Artikel 7 der Verordnung (EG) Nr. 4/2009 international zuständig, so entscheidet das Amtsgericht, das für den Sitz desjenigen Oberlandesgerichts zuständig ist, in dessen Bezirk die Beteiligten ihren letzten inländischen gemeinsamen Wohnsitz hatten oder an den der ausreichende Bezug zur Bundesrepublik Deutschland im Sinne des Artikels 7 der Verordnung (EG) Nr. 4/2009 angeknüpft werden kann. § 28 Absatz 1 Satz 2 ist entsprechend anzuwenden. Ergibt sich keine örtliche Zuständigkeit eines inländischen Gerichts nach Satz 1 oder Satz 2, so ist das Amtsgericht Pankow in Berlin örtlich zuständig.
 
 (2) Die Landesregierungen werden ermächtigt, die Zuständigkeit nach Absatz 1 durch Rechtsverordnung einem anderen Amtsgericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Amtsgericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 # § 28 – Zuständigkeitskonzentration; Verordnungsermächtigung
 
-(1) Wenn ein Beteiligter seinen gewöhnlichen Aufenthalt nicht im Inland hat, entscheidet über Anträge in Unterhaltssachen in den Fällen des Artikels 3 Buchstabe a und b der Verordnung (EG) Nr. 4/2009 das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsgegner oder der Berechtigte seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts ist das Amtsgericht Pankow/Weißensee zuständig.
+(1) Wenn ein Beteiligter seinen gewöhnlichen Aufenthalt nicht im Inland hat, entscheidet über Anträge in Unterhaltssachen in den Fällen des Artikels 3 Buchstabe a und b der Verordnung (EG) Nr. 4/2009 das für den Sitz des Oberlandesgerichts, in dessen Bezirk der Antragsgegner oder der Berechtigte seinen gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des Kammergerichts ist das Amtsgericht Pankow zuständig.
 
 (2) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch Rechtsverordnung einem anderen Amtsgericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Amtsgericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -361,7 +361,7 @@ Die Zwangsvollstreckung ist entsprechend § 775 Nummer 1 und 2 und § 776 der Zi
 
 2. die Vollstreckung durchgeführt werden soll.
 
-Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow/Weißensee.
+Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 (2) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch Rechtsverordnung einem anderen Amtsgericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Amtsgericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
