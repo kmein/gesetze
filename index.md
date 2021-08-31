@@ -2761,6 +2761,7 @@
 - [HwFwBAProKaufmMFV](laws/HwFwBAProKaufmMFV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung
 - [HWG](laws/HWG.md) Gesetz über die Werbung auf dem Gebiete des Heilwesens
 - [HWirtMeistPrV](laws/HWirtMeistPrV.md) Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Hauswirtschafter/Hauswirtschafterin
+- [HWKraftStAbV2021](laws/HWKraftStAbV2021.md) Verordnung zur Abgrenzung der Steuerpflicht nach dem Kraftfahrzeugsteuergesetz infolge der Hochwasserkatastrophe im Juli 2021
 - [HwO](laws/HwO.md) Gesetz zur Ordnung des Handwerks
 - [HwOuaÜG](laws/HwOuaÜG.md) Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften
 - [HwO§16V](laws/HwO§16V.md) Verordnung über das Schlichtungsverfahren nach § 16 der Handwerksordnung

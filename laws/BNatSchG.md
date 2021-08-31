@@ -1554,6 +1554,20 @@ Für die betroffenen Arten gelten die Artikel 31 und 32 der Verordnung (EU) Nr. 
 
 (4c) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Durchführung der amtlichen Kontrollen gemäß Artikel 15 der Verordnung (EU) Nr. 1143/2014 zu regeln.
 
+(4d) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit hat durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz von Tieren und Pflanzen wild lebender Arten vor nachteiligen Auswirkungen von Lichtimmissionen
+
+1. Grenzwerte für Lichtemissionen, die von Beleuchtungen im Sinne von § 41a Absatz 1 Satz 1 und 2 nicht überschritten werden dürfen, festzulegen,
+
+2. die durch Beleuchtungen im Sinne von § 41a Absatz 1 Satz 1 und 2 zu erfüllenden technischen Anforderungen sowie konstruktiven Anforderungen und Schutzmaßnahmen näher zu bestimmen,
+
+3. nähere Vorgaben zur Art und Weise der Erfüllung der Um- und Nachrüstungspflicht für Beleuchtungen an öffentlichen Straßen und Wegen nach § 41a Absatz 1 Satz 3 zu erlassen und den Zeitpunkt zu bestimmen, ab dem diese Pflicht zu erfüllen ist,
+
+4. zur Konkretisierung der Anzeigepflicht nach § 41a Absatz 3 Satz 1 insbesondere zu bestimmen,
+
+a) welche Beleuchtungen der Anzeigepflicht unterliegen,
+
+b) welche Informationen in der Anzeige gegenüber der zuständigen Behörde anzugeben sind.
+
 (5) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, soweit dies aus Gründen des Artenschutzes erforderlich ist und Rechtsakte der Europäischen Gemeinschaft dem nicht entgegenstehen, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1. die Haltung oder die Zucht von Tieren,
@@ -1586,7 +1600,7 @@ a) Tieren und Pflanzen der besonders geschützten Arten,
 
 b) Tieren und Pflanzen der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten Arten.
 
-(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach den Absätzen 4 und 4b bedürfen des Einvernehmens mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Rechtsverordnungen nach Absatz 4c bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen sowie dem Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch nur, soweit sie sich beziehen auf
+(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach den Absätzen 4, 4b und 4d bedürfen des Einvernehmens mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Rechtsverordnungen nach Absatz 4c bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen sowie dem Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch nur, soweit sie sich beziehen auf
 
 1. Tierarten, die dem Jagd- oder Fischereirecht unterliegen,
 
