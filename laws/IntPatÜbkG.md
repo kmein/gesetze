@@ -67,7 +67,7 @@ Soweit das europäische Patent für nichtig erklärt worden ist, gelten die Wirk
 
 (4) Im Falle des Absatzes 1 Satz 1 Nr. 5 ist nur der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens Berechtigte befugt, den Antrag zu stellen.
 
-# § 6a
+# § 6a – Ergänzende Schutzzertifikate
 
 Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach § 49a des Patentgesetzes auch für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent.
 

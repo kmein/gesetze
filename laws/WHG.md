@@ -249,6 +249,42 @@ wenn durch diese Benutzungen andere nicht oder nur geringfügig beeinträchtigt 
 
 (2) Die Bewilligung kann nur in einem Verfahren erteilt werden, in dem die Betroffenen und die beteiligten Behörden Einwendungen geltend machen können.
 
+# § 11a – Verfahren bei Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+
+(1) Die Absätze 2 bis 5 gelten für die Erteilung einer Erlaubnis oder Bewilligung ergänzend bei folgenden Vorhaben:
+
+1. Errichtung und Betrieb sowie Modernisierung von Anlagen zur Nutzung von Wasserkraft, ausgenommen Pumpspeicherkraftwerke,
+
+2. Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn ein bergrechtlicher Betriebsplan nicht erforderlich ist.
+
+Die Modernisierung im Sinne des Satzes 1 Nummer 1 umfasst Maßnahmen zur Steigerung der Effizienz oder der Kapazität der Anlage, insbesondere den vollständigen oder teilweisen Austausch der Anlage, eines Anlagenteils oder des Betriebssystems.
+
+(2) Auf Antrag des Trägers des Vorhabens werden das Erlaubnis- oder Bewilligungsverfahren sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+(3) Die einheitliche Stelle nach Absatz 2 stellt ein Verfahrenshandbuch für Träger von Vorhaben bereit und macht diese Informationen auch im Internet zugänglich. Dabei geht sie gesondert auch auf kleinere Vorhaben und Vorhaben zur Eigenversorgung mit Elektrizität ein. In den im Internet veröffentlichten Informationen weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach Absatz 1 Satz 1 zuständig sind.
+
+(4) Nach Eingang der vollständigen Antragsunterlagen erstellt die zuständige Behörde unverzüglich einen Zeitplan für das weitere Verfahren nach Absatz 1 Satz 1 und teilt diesen Zeitplan in den Fällen des Absatzes 2 der einheitlichen Stelle, andernfalls dem Träger des Vorhabens mit.
+
+(5) Die zuständige Behörde entscheidet über die Erteilung der Erlaubnis oder Bewilligung
+
+1. innerhalb eines Jahres bei
+
+a) Errichtung und Betrieb von Anlagen zur Nutzung von Wasserkraft mit einer Stromerzeugungskapazität von weniger als 150 Kilowatt,
+
+b) Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn das Vorhaben der Erzeugung von Strom mit einer Kapazität von weniger als 150 Kilowatt dient,
+
+c) der Modernisierung von Anlagen zur Nutzung von Wasserkraft,
+
+2. innerhalb von zwei Jahren bei
+
+a) Errichtung und Betrieb von Anlagen zur Nutzung von Wasserkraft mit einer Stromerzeugungskapazität von 150 Kilowatt oder mehr,
+
+b) Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn das Vorhaben der Erzeugung von Strom in einem Kraftwerk dient.
+
+Die zuständige Behörde kann die jeweilige Frist nach Satz 1 einmalig um bis zu 18 und längstens um 24 Monate verlängern, soweit die Prüfung von Anforderungen nach umweltrechtlichen Vorschriften, die der Umsetzung entsprechender Vorgaben der Europäischen Gemeinschaften oder der Europäischen Union dienen, insbesondere die Prüfung der Einhaltung der Bewirtschaftungsziele, mit einem erhöhten Zeitaufwand verbunden ist. Im Übrigen kann die zuständige Behörde die jeweilige Frist nach Satz 1 um bis zu ein Jahr verlängern, wenn außergewöhnliche Umstände vorliegen. Sie teilt die Fristverlängerung nach Satz 2 oder Satz 3 in den Fällen des Absatzes 2 der einheitlichen Stelle, andernfalls dem Träger des Vorhabens mit. Insgesamt beträgt die Höchstdauer der Fristverlängerung nach Satz 2 und Satz 3 18 und längstens 24 Monate. Die Frist nach Satz 1 beginnt mit Eingang der vollständigen Antragsunterlagen. Weitergehende bestehende Rechtsvorschriften der Länder, die kürzere Fristen vorsehen, bleiben unberührt.
+
+(6) Die Absätze 4 und 5 Satz 1 Nummer 1 Buchstabe b und Nummer 2 Buchstabe b gelten entsprechend für die Erteilung einer Erlaubnis oder Bewilligung bei Errichtung und Betrieb von Anlagen zur Gewinnung von Erdwärme, wenn ein bergrechtlicher Betriebsplan erforderlich ist.
+
 # § 12 – Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
 
 (1) Die Erlaubnis und die Bewilligung sind zu versagen, wenn
@@ -752,7 +788,7 @@ Die Länder können von den Sätzen 1 und 2 abweichende Regelungen erlassen.
 
 Zulässig sind Maßnahmen, die zur Gefahrenabwehr notwendig sind. Satz 2 Nummer 1 und 2 gilt nicht für Maßnahmen des Gewässerausbaus sowie der Gewässer- und Deichunterhaltung.
 
-(5) Die zuständige Behörde kann von einem Verbot nach Absatz 4 Satz 2 eine widerrufliche Befreiung erteilen, wenn überwiegende Gründe des Wohls der Allgemeinheit die Maßnahme erfordern oder das Verbot im Einzelfall zu einer unbilligen Härte führt. Die Befreiung kann aus Gründen des Wohls der Allgemeinheit auch nachträglich mit Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten, dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen erfüllt.
+(5) Die zuständige Behörde kann von einem Verbot nach Absatz 4 Satz 2 eine widerrufliche Befreiung erteilen, wenn überwiegende Gründe des Wohls der Allgemeinheit die Maßnahme erfordern oder das Verbot im Einzelfall zu einer unbilligen Härte führt. Die Befreiung kann aus Gründen des Wohls der Allgemeinheit auch nachträglich mit Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten, dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen erfüllt. Für die Erteilung der Befreiung gilt § 11a Absatz 4 und 5 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen erforderlich ist.
 
 § 38 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 21 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__21.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
 § 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
@@ -1121,7 +1157,7 @@ c) bestimmte Maßnahmen zu dulden, insbesondere die Beobachtung des Gewässers u
 
 3. Begünstigte verpflichtet werden, die nach Nummer 2 Buchstabe c zu duldenden Maßnahmen vorzunehmen.
 
-Die zuständige Behörde kann von Verboten, Beschränkungen sowie Duldungs- und Handlungspflichten nach Satz 1 eine Befreiung erteilen, wenn der Schutzzweck nicht gefährdet wird oder überwiegende Gründe des Wohls der Allgemeinheit dies erfordern. Sie hat eine Befreiung zu erteilen, soweit dies zur Vermeidung unzumutbarer Beschränkungen des Eigentums erforderlich ist und hierdurch der Schutzzweck nicht gefährdet wird.
+Die zuständige Behörde kann von Verboten, Beschränkungen sowie Duldungs- und Handlungspflichten nach Satz 1 eine Befreiung erteilen, wenn der Schutzzweck nicht gefährdet wird oder überwiegende Gründe des Wohls der Allgemeinheit dies erfordern. Sie hat eine Befreiung zu erteilen, soweit dies zur Vermeidung unzumutbarer Beschränkungen des Eigentums erforderlich ist und hierdurch der Schutzzweck nicht gefährdet wird. Für die Erteilung der Befreiung gilt § 11a Absatz 4 und 5 entsprechend, wenn die Befreiung für ein Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen erforderlich ist.
 
 (2) In einem als Wasserschutzgebiet vorgesehenen Gebiet können vorläufige Anordnungen nach Absatz 1 getroffen werden, wenn andernfalls der mit der Festsetzung des Wasserschutzgebiets verfolgte Zweck gefährdet wäre. Die vorläufige Anordnung tritt mit dem Inkrafttreten der Rechtsverordnung nach § 51 Absatz 1 außer Kraft, spätestens nach Ablauf von drei Jahren. Wenn besondere Umstände es erfordern, kann die Frist um höchstens ein weiteres Jahr verlängert werden. Die vorläufige Anordnung ist vor Ablauf der Frist nach Satz 2 oder Satz 3 außer Kraft zu setzen, sobald und soweit die Voraussetzungen für ihren Erlass weggefallen sind.
 
@@ -1461,7 +1497,7 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 # § 70 – Anwendbare Vorschriften, Verfahren
 
-(1) Für die Planfeststellung und die Plangenehmigung gelten § 13 Absatz 1 und § 14 Absatz 3 bis 6 entsprechend; im Übrigen gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes.
+(1) Für die Planfeststellung und die Plangenehmigung gelten § 13 Absatz 1 und § 14 Absatz 3 bis 6 entsprechend; im Übrigen gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes. Für die Erteilung von Planfeststellungen und Plangenehmigungen im Zusammenhang mit der Errichtung, dem Betrieb und der Modernisierung von Anlagen zur Nutzung von Wasserkraft, ausgenommen Pumpspeicherkraftwerke, gilt § 11a Absatz 1 Satz 2 und Absatz 2 bis 5 entsprechend; die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden.
 
 (2) Das Planfeststellungsverfahren für einen Gewässerausbau, für den nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht, muss den Anforderungen des Gesetzes über die Umweltverträglichkeitsprüfung entsprechen.
 
@@ -1472,9 +1508,9 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 § 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Hessen - Abweichung durch [§ 8 Abs. 1 u. § 43 Abs. 1 des Hessischen Wassergesetzes (HWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_he__8_43.html "Anzeige in neuem Fenster") v. 14.12.2010 GVBl. I S. 548 mWv 24.12.2010 (vgl. BGBl. I 2011, 607)  
 § 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 55 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__55.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
 § 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 (vgl. BGBl. I 2011, 1011, 1047)  
-§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 126 Abs. 1 Satz 1 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__126.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
-§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 107 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__107.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 84 Abs. 1 Satz 1 Landeswassergesetz (LWG SH) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
+§ 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 126 Abs. 1 Satz 1 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__126.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 107 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__107.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 70 Abs. 1 Satz 1 Halbsatz 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 84 Abs. 1 Satz 1 Landeswassergesetz (LWG SH) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
 # § 71 – Enteignungsrechtliche Regelungen
 
@@ -1646,7 +1682,7 @@ d) hochwasserangepasst ausgeführt wird oder
 
 2. die nachteiligen Auswirkungen durch Nebenbestimmungen ausgeglichen werden können.
 
-Bei der Prüfung der Voraussetzungen des Satzes 1 sind auch die Auswirkungen auf die Nachbarschaft zu berücksichtigen.
+Bei der Prüfung der Voraussetzungen des Satzes 1 sind auch die Auswirkungen auf die Nachbarschaft zu berücksichtigen. Für die Erteilung der Genehmigung gilt § 11a Absatz 4 und 5 entsprechend, wenn es sich um eine Anlage zur Erzeugung von Energie aus erneuerbaren Quellen handelt.
 
 (6) Bei der Festsetzung nach § 76 Absatz 2 kann die Errichtung oder Erweiterung baulicher Anlagen auch allgemein zugelassen werden, wenn sie
 
@@ -2190,6 +2226,10 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1 Satz 1 in 
 2. von ihrem Betreiber ein vollständiger Genehmigungsantrag gestellt wurde.
 
 Einleitungen aus bestehenden Anlagen nach Satz 1, die nicht von Anhang I der Richtlinie 2008/1/EG des Europäischen Parlaments und des Rates vom 15. Januar 2008 über die integrierte Vermeidung und Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8), die durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert worden ist, erfasst wurden, haben abweichend von Satz 1 die dort genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
+
+# § 108 – Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+
+Wurde vor dem 31. August 2021 ein Zulassungs- oder Befreiungsverfahren eingeleitet, auf das die Vorschriften des § 11a, auch in Verbindung mit § 38 Absatz 5 Satz 3, § 52 Absatz 1 Satz 4, § 70 Absatz 1 Satz 2 oder § 78 Absatz 5 Satz 3 Anwendung fänden, so führt die zuständige Behörde dieses Verfahren nach dem vor dem 31. August 2021 geltenden Recht fort.
 
 # Anlage 1 – (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
 
