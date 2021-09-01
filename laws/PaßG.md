@@ -521,6 +521,10 @@ Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungs
 
 Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften über das Ausstellen amtlicher Pässe.
 
+# § 27a – Regelungsbefugnisse der Länder
+
+Durch Landesrecht können zentrale Passregisterdatenbestände zur Speicherung des Lichtbilds und der Unterschrift für die Durchführung eines automatisierten Abrufs des Lichtbilds nach § 22a Absatz 2 Satz 1 und 5 sowie eines automatisierten Abrufs des Lichtbilds und der Unterschrift nach § 22a Absatz 2 Satz 6 eingerichtet werden. In diesem Fall gelten § 4 Absatz 3 Satz 3, § 21 Absatz 4 und § 22a Absatz 2 Satz 6 bis 9 entsprechend. Macht ein Land von der Regelungsbefugnis Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und Unterschriften vor unbefugtem Zugriff geschützt sind. Die Lichtbilder und Unterschriften dürfen nur so gespeichert werden, dass keine Verknüpfung mit anderen als für den automatisierten Abruf benötigten Daten ermöglicht wird.
+
 # § 28 – Übergangsregelungen
 
 (1) Als Pass im Sinne dieses Gesetzes gelten auch Kinderreisepässe, die vor dem 1. November 2007 auf Grund einer Rechtsverordnung nach § 2 Abs. 1 Nr. 2 als Passersatz ausgestellt worden sind, wenn diese maschinenlesbar und mit einem digitalen Lichtbild versehen sind. Abweichend von § 1 Abs. 3 ist der Besitz eines Kinderreisepasses im Sinne des Satzes 1 neben einem Reisepass zulässig, soweit der Reisepass vor Inkrafttreten dieses Gesetzes ausgestellt wurde.

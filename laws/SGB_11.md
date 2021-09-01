@@ -2771,7 +2771,7 @@ Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit 
 
 Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente, Arbeitsentgelt, Arbeitseinkommen oder Versorgungsbezüge erhält.
 
-(3) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von Mutterschafts-, Eltern- oder Betreuungsgeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
+(3) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von Mutterschafts- oder Elterngeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
 
 (4) Beitragsfrei sind auf Antrag Mitglieder, die sich auf nicht absehbare Dauer in stationärer Pflege befinden und bereits Leistungen nach § 35 Abs. 6 des Bundesversorgungsgesetzes, nach § 44 des Siebten Buches, nach § 34 des Beamtenversorgungsgesetzes oder nach den Gesetzen erhalten, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, wenn sie keine Familienangehörigen haben, für die eine Versicherung nach § 25 besteht.
 

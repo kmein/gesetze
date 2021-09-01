@@ -33,7 +33,7 @@ Andere Arbeitsschutzvorschriften bleiben unberührt.
 
 # § 3 – Besoldung bei Beschäftigungsverbot, Untersuchungen und Stillen
 
-(1) Durch die mutterschutzrechtlichen Beschäftigungsverbote wird die Zahlung der Dienst- und Anwärterbezüge, mit Ausnahme des Verbots der Mehrarbeit, nicht berührt (§§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes). Dies gilt auch für das Dienstversäumnis wegen ärztlicher Untersuchungen bei Schwangerschaft und Mutterschaft sowie während des Stillens (§ 7 des Mutterschutzgesetzes).
+(1) Durch die mutterschutzrechtlichen Beschäftigungsverbote mit Ausnahme des Verbots der Mehrarbeit wird die Zahlung der Dienst- und Anwärterbezüge nicht berührt (§§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes). Dies gilt auch für das Dienstversäumnis wegen ärztlicher Untersuchungen bei Schwangerschaft und Mutterschaft sowie während des Stillens (§ 7 des Mutterschutzgesetzes).
 
 (2) Im Fall der vorzeitigen Beendigung einer Elternzeit nach § 16 Absatz 3 Satz 3 des Bundeselterngeld- und Elternzeitgesetzes richtet sich die Höhe der Dienst- und Anwärterbezüge nach dem Beschäftigungsumfang vor der Elternzeit oder während der Elternzeit, wobei die höheren Bezüge maßgeblich sind.
 
@@ -57,7 +57,7 @@ Beamtinnen und Beamte haben Anspruch auf Elternzeit ohne Dienst- oder Anwärterb
 
 # § 7 – Teilzeitbeschäftigung während der Elternzeit
 
-(1) Während der Elternzeit ist Beamtinnen und Beamten, die Anspruch auf Dienst- oder Anwärterbezüge haben, auf Antrag eine Teilzeitbeschäftigung bei ihrem Dienstherrn bis zu 30 Wochenstunden im Durchschnitt eines Monats zu bewilligen, wenn zwingende dienstliche Belange nicht entgegenstehen.
+(1) Während der Elternzeit ist Beamtinnen und Beamten, die Anspruch auf Dienst- oder Anwärterbezüge haben, auf Antrag eine Teilzeitbeschäftigung bei ihrem Dienstherrn bis zu 32 Wochenstunden im Durchschnitt eines Monats zu bewilligen, wenn zwingende dienstliche Belange nicht entgegenstehen.
 
 (2) Mit Genehmigung der zuständigen Dienstbehörde darf während der Elternzeit auch eine Teilzeitbeschäftigung außerhalb des Beamtenverhältnisses in dem in Absatz 1 genannten Umfang ausgeübt werden. Die Genehmigung kann nur innerhalb von vier Wochen ab Antragstellung versagt werden, wenn dringende dienstliche Belange entgegenstehen. Sie ist zu versagen, wenn einer der in § 99 Absatz 2 Satz 2 Nummer 2 bis 6 des Bundesbeamtengesetzes genannten Gründe vorliegt.
 
@@ -73,7 +73,7 @@ Beamtinnen und Beamte haben Anspruch auf Elternzeit ohne Dienst- oder Anwärterb
 
 (1) Beamtinnen und Beamten werden für die Dauer der Elternzeit die Beiträge für ihre Kranken- und Pflegeversicherung bis zu monatlich 31 Euro erstattet, wenn ihre Dienst- oder Anwärterbezüge vor Beginn der Elternzeit die Versicherungspflichtgrenze in der gesetzlichen Krankenversicherung nicht überschritten haben oder überschritten hätten. Hierbei werden die mit Rücksicht auf den Familienstand gewährten Zuschläge sowie Leistungen nach Abschnitt 5 des Bundesbesoldungsgesetzes nicht berücksichtigt. Nehmen die Eltern gemeinsam Elternzeit, steht die Beitragserstattung nur dem Elternteil zu, bei dem das Kind im Familienzuschlag berücksichtigt wird oder berücksichtigt werden soll.
 
-(2) Für die Zeit, für die sie Elterngeld nach § 4 des Bundeselterngeld- und Elternzeitgesetzes beziehen, werden Beamtinnen und Beamten mit Dienstbezügen bis einschließlich der Besoldungsgruppe A 8 sowie Beamtinnen und Beamten mit Anwärterbezügen auf Antrag die Beiträge für die Kranken- und Pflegeversicherung über die Erstattung nach Absatz 1 hinaus in voller Höhe erstattet, soweit sie auf einen auf den Beihilfebemessungssatz abgestimmten Prozenttarif oder einen die jeweilige Beihilfe ergänzenden Tarif einschließlich etwaiger darin enthaltener Altersrückstellungen entfallen. Für andere Monate einer Elternzeit wird die Beitragserstattung nach Satz 1 weitergezahlt, solange keine Beschäftigung mit mindestens der Hälfte der regelmäßigen Arbeitszeit ausgeübt wird.
+(2) Für die Zeit, für die sie Elterngeld nach den §§ 4 und 4c des Bundeselterngeld- und Elternzeitgesetzes beziehen, werden Beamtinnen und Beamten mit Dienstbezügen bis einschließlich der Besoldungsgruppe A 8 sowie Beamtinnen und Beamten mit Anwärterbezügen auf Antrag die Beiträge für die Kranken- und Pflegeversicherung über die Erstattung nach Absatz 1 hinaus in voller Höhe erstattet, soweit sie auf einen auf den Beihilfebemessungssatz abgestimmten Prozenttarif oder einen die jeweilige Beihilfe ergänzenden Tarif einschließlich etwaiger darin enthaltener Altersrückstellungen entfallen. Für andere Monate einer Elternzeit wird die Beitragserstattung nach Satz 1 weitergezahlt, solange keine Beschäftigung mit mindestens der Hälfte der regelmäßigen Arbeitszeit ausgeübt wird.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für auf die Beamtin oder den Beamten entfallende Beiträge für die freiwillige gesetzliche Krankenversicherung und Pflegeversicherung.
 

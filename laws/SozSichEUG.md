@@ -31,7 +31,7 @@ Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Art
 
 # § 4 – Verbindungsstelle für Familienleistungen
 
-Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die Funktion der Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 987/2009 für die Familienleistungen nach Artikel 3 Absatz 1 Buchstabe j der Verordnung (EG) Nr. 883/2004 (Kindergeld nach dem Abschnitt X des Einkommensteuergesetzes, Kindergeld und Kinderzuschlag nach dem Bundeskindergeldgesetz, Elterngeld und Betreuungsgeld nach dem Bundeselterngeld- und Elternzeitgesetz sowie Landeserziehungsgeld nach den Rechtsvorschriften der Länder betreffend Erziehungsgeld) wahr. Zu ihren Aufgaben gehören insbesondere
+Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die Funktion der Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 987/2009 für die Familienleistungen nach Artikel 3 Absatz 1 Buchstabe j der Verordnung (EG) Nr. 883/2004 (Kindergeld nach dem Abschnitt X des Einkommensteuergesetzes, Kindergeld und Kinderzuschlag nach dem Bundeskindergeldgesetz, Elterngeld nach dem Bundeselterngeld- und Elternzeitgesetz sowie Landeserziehungsgeld nach den Rechtsvorschriften der Länder betreffend Erziehungsgeld) wahr. Zu ihren Aufgaben gehören insbesondere
 
 1. die Koordinierung der Verwaltungshilfe und des Datenaustauschs für den Bereich der Familienleistungen bei grenzüberschreitenden Sachverhalten,
 

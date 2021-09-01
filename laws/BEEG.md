@@ -19,27 +19,27 @@ Bei Mehrlingsgeburten besteht nur ein Anspruch auf Elterngeld.
 
 1. nach § 4 des Vierten Buches Sozialgesetzbuch dem deutschen Sozialversicherungsrecht unterliegt oder im Rahmen seines in Deutschland bestehenden öffentlich-rechtlichen Dienst- oder Amtsverhältnisses vorübergehend ins Ausland abgeordnet, versetzt oder kommandiert ist,
 
-2. Entwicklungshelfer oder Entwicklungshelferin im Sinne des § 1 des Entwicklungshelfer-Gesetzes ist oder als Missionar oder Missionarin der Missionswerke und -gesellschaften, die Mitglieder oder Vereinbarungspartner des Evangelischen Missionswerkes Hamburg, der Arbeitsgemeinschaft Evangelikaler Missionen e. V., des Deutschen katholischen Missionsrates oder der Arbeitsgemeinschaft pfingstlich-charismatischer Missionen sind, tätig ist oder
+2. Entwicklungshelfer oder Entwicklungshelferin im Sinne des § 1 des Entwicklungshelfer-Gesetzes ist oder als Missionar oder Missionarin der Missionswerke und -gesellschaften, die Mitglieder oder Vereinbarungspartner des Evangelischen Missionswerkes Hamburg, der Arbeitsgemeinschaft Evangelikaler Missionen e. V. oder der Arbeitsgemeinschaft pfingstlich-charismatischer Missionen sind, tätig ist oder
 
 3. die deutsche Staatsangehörigkeit besitzt und nur vorübergehend bei einer zwischen- oder überstaatlichen Einrichtung tätig ist, insbesondere nach den Entsenderichtlinien des Bundes beurlaubte Beamte und Beamtinnen, oder wer vorübergehend eine nach § 123a des Beamtenrechtsrahmengesetzes oder § 29 des Bundesbeamtengesetzes zugewiesene Tätigkeit im Ausland wahrnimmt.
 
-Dies gilt auch für mit der nach Satz 1 berechtigten Person in einem Haushalt lebende Ehegatten, Ehegattinnen, Lebenspartner oder Lebenspartnerinnen.
+Dies gilt auch für mit der nach Satz 1 berechtigten Person in einem Haushalt lebende Ehegatten oder Ehegattinnen.
 
 (3) Anspruch auf Elterngeld hat abweichend von Absatz 1 Satz 1 Nummer 2 auch, wer
 
 1. mit einem Kind in einem Haushalt lebt, das er mit dem Ziel der Annahme als Kind aufgenommen hat,
 
-2. ein Kind des Ehegatten, der Ehegattin, des Lebenspartners oder der Lebenspartnerin in seinen Haushalt aufgenommen hat oder
+2. ein Kind des Ehegatten oder der Ehegattin in seinen Haushalt aufgenommen hat oder
 
 3. mit einem Kind in einem Haushalt lebt und die von ihm erklärte Anerkennung der Vaterschaft nach § 1594 Absatz 2 des Bürgerlichen Gesetzbuchs noch nicht wirksam oder über die von ihm beantragte Vaterschaftsfeststellung nach § 1600d des Bürgerlichen Gesetzbuchs noch nicht entschieden ist.
 
 Für angenommene Kinder und Kinder im Sinne des Satzes 1 Nummer 1 sind die Vorschriften dieses Gesetzes mit der Maßgabe anzuwenden, dass statt des Zeitpunktes der Geburt der Zeitpunkt der Aufnahme des Kindes bei der berechtigten Person maßgeblich ist.
 
-(4) Können die Eltern wegen einer schweren Krankheit, Schwerbehinderung oder Tod der Eltern ihr Kind nicht betreuen, haben Verwandte bis zum dritten Grad und ihre Ehegatten, Ehegattinnen, Lebenspartner oder Lebenspartnerinnen Anspruch auf Elterngeld, wenn sie die übrigen Voraussetzungen nach Absatz 1 erfüllen und von anderen Berechtigten Elterngeld nicht in Anspruch genommen wird.
+(4) Können die Eltern wegen einer schweren Krankheit, Schwerbehinderung oder Todes der Eltern ihr Kind nicht betreuen, haben Verwandte bis zum dritten Grad und ihre Ehegatten oder Ehegattinnen Anspruch auf Elterngeld, wenn sie die übrigen Voraussetzungen nach Absatz 1 erfüllen und wenn von anderen Berechtigten Elterngeld nicht in Anspruch genommen wird.
 
 (5) Der Anspruch auf Elterngeld bleibt unberührt, wenn die Betreuung und Erziehung des Kindes aus einem wichtigen Grund nicht sofort aufgenommen werden kann oder wenn sie unterbrochen werden muss.
 
-(6) Eine Person ist nicht voll erwerbstätig, wenn ihre Arbeitszeit 30 Wochenstunden im Durchschnitt des Monats nicht übersteigt, sie eine Beschäftigung zur Berufsbildung ausübt oder sie eine geeignete Tagespflegeperson im Sinne des § 23 des Achten Buches Sozialgesetzbuch ist und nicht mehr als fünf Kinder in Tagespflege betreut.
+(6) Eine Person ist nicht voll erwerbstätig, wenn ihre Arbeitszeit 32 Wochenstunden im Durchschnitt des Lebensmonats nicht übersteigt, sie eine Beschäftigung zur Berufsbildung ausübt oder sie eine geeignete Tagespflegeperson im Sinne des § 23 des Achten Buches Sozialgesetzbuch ist und nicht mehr als fünf Kinder in Tagespflege betreut.
 
 (7) Ein nicht freizügigkeitsberechtigter Ausländer oder eine nicht freizügigkeitsberechtigte Ausländerin ist nur anspruchsberechtigt, wenn diese Person
 
@@ -61,21 +61,21 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 Abweichend von Satz 1 Nummer 3 erste Alternative ist ein minderjähriger nicht freizügigkeitsberechtigter Ausländer oder eine minderjährige nicht freizügigkeitsberechtigte Ausländerin unabhängig von einer Erwerbstätigkeit anspruchsberechtigt.
 
-(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 500 000 Euro beträgt.
+(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 300 000 Euro beträgt.
 
 # § 2 – Höhe des Elterngeldes
 
-(1) Elterngeld wird in Höhe von 67 Prozent des Einkommens aus Erwerbstätigkeit vor der Geburt des Kindes gewährt. Es wird bis zu einem Höchstbetrag von 1 800 Euro monatlich für volle Monate gezahlt, in denen die berechtigte Person kein Einkommen aus Erwerbstätigkeit hat. Das Einkommen aus Erwerbstätigkeit errechnet sich nach Maßgabe der §§ 2c bis 2f aus der um die Abzüge für Steuern und Sozialabgaben verminderten Summe der positiven Einkünfte aus
+(1) Elterngeld wird in Höhe von 67 Prozent des Einkommens aus Erwerbstätigkeit vor der Geburt des Kindes gewährt. Es wird bis zu einem Höchstbetrag von 1 800 Euro monatlich für volle Lebensmonate gezahlt, in denen die berechtigte Person kein Einkommen aus Erwerbstätigkeit hat. Das Einkommen aus Erwerbstätigkeit errechnet sich nach Maßgabe der §§ 2c bis 2f aus der um die Abzüge für Steuern und Sozialabgaben verminderten Summe der positiven Einkünfte aus
 
 1. nichtselbständiger Arbeit nach § 2 Absatz 1 Satz 1 Nummer 4 des Einkommensteuergesetzes sowie
 
 2. Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes,
 
-die im Inland zu versteuern sind und die die berechtigte Person durchschnittlich monatlich im Bemessungszeitraum nach § 2b oder in Monaten der Bezugszeit nach § 2 Absatz 3 hat.
+die im Inland zu versteuern sind und die die berechtigte Person durchschnittlich monatlich im Bemessungszeitraum nach § 2b oder in Lebensmonaten der Bezugszeit nach § 2 Absatz 3 hat.
 
 (2) In den Fällen, in denen das Einkommen aus Erwerbstätigkeit vor der Geburt geringer als 1 000 Euro war, erhöht sich der Prozentsatz von 67 Prozent um 0,1 Prozentpunkte für je 2 Euro, um die dieses Einkommen den Betrag von 1 000 Euro unterschreitet, auf bis zu 100 Prozent. In den Fällen, in denen das Einkommen aus Erwerbstätigkeit vor der Geburt höher als 1 200 Euro war, sinkt der Prozentsatz von 67 Prozent um 0,1 Prozentpunkte für je 2 Euro, um die dieses Einkommen den Betrag von 1 200 Euro überschreitet, auf bis zu 65 Prozent.
 
-(3) Für Monate nach der Geburt des Kindes, in denen die berechtigte Person ein Einkommen aus Erwerbstätigkeit hat, das durchschnittlich geringer ist als das Einkommen aus Erwerbstätigkeit vor der Geburt, wird Elterngeld in Höhe des nach Absatz 1 oder 2 maßgeblichen Prozentsatzes des Unterschiedsbetrages dieser Einkommen aus Erwerbstätigkeit gezahlt. Als Einkommen aus Erwerbstätigkeit vor der Geburt ist dabei höchstens der Betrag von 2 770 Euro anzusetzen. Der Unterschiedsbetrag nach Satz 1 ist für das Einkommen aus Erwerbstätigkeit in Monaten, in denen die berechtigte Person Elterngeld im Sinne des § 4 Absatz 2 Satz 2 in Anspruch nimmt, und in Monaten, in denen sie Elterngeld Plus im Sinne des § 4 Absatz 3 Satz 1 in Anspruch nimmt, getrennt zu berechnen.
+(3) Für Lebensmonate nach der Geburt des Kindes, in denen die berechtigte Person ein Einkommen aus Erwerbstätigkeit hat, das durchschnittlich geringer ist als das Einkommen aus Erwerbstätigkeit vor der Geburt, wird Elterngeld in Höhe des nach Absatz 1 oder 2 maßgeblichen Prozentsatzes des Unterschiedsbetrages dieser Einkommen aus Erwerbstätigkeit gezahlt. Als Einkommen aus Erwerbstätigkeit vor der Geburt ist dabei höchstens der Betrag von 2 770 Euro anzusetzen. Der Unterschiedsbetrag nach Satz 1 ist für das Einkommen aus Erwerbstätigkeit in Lebensmonaten, in denen die berechtigte Person Basiselterngeld in Anspruch nimmt, und in Lebensmonaten, in denen sie Elterngeld Plus im Sinne des § 4a Absatz 2 in Anspruch nimmt, getrennt zu berechnen.
 
 (4) Elterngeld wird mindestens in Höhe von 300 Euro gezahlt. Dies gilt auch, wenn die berechtigte Person vor der Geburt des Kindes kein Einkommen aus Erwerbstätigkeit hat.
 
@@ -97,9 +97,9 @@ wird das Elterngeld um 10 Prozent, mindestens jedoch um 75 Euro erhöht (Geschwi
 
 # § 2b – Bemessungszeitraum
 
-(1) Für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit im Sinne von § 2c vor der Geburt sind die zwölf Kalendermonate vor dem Monat der Geburt des Kindes maßgeblich. Bei der Bestimmung des Bemessungszeitraums nach Satz 1 bleiben Kalendermonate unberücksichtigt, in denen die berechtigte Person
+(1) Für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit im Sinne von § 2c vor der Geburt sind die zwölf Kalendermonate vor dem Kalendermonat der Geburt des Kindes maßgeblich. Bei der Bestimmung des Bemessungszeitraums nach Satz 1 bleiben Kalendermonate unberücksichtigt, in denen die berechtigte Person
 
-1. im Zeitraum nach § 4 Absatz 1 Satz 1 Elterngeld für ein älteres Kind bezogen hat,
+1. im Zeitraum nach § 4 Absatz 1 Satz 2 und 3 und Absatz 5 Satz 3 Nummer 2 Elterngeld für ein älteres Kind bezogen hat,
 
 2. während der Schutzfristen nach § 3 des Mutterschutzgesetzes nicht beschäftigt werden durfte oder Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte bezogen hat,
 
@@ -107,19 +107,27 @@ wird das Elterngeld um 10 Prozent, mindestens jedoch um 75 Euro erhöht (Geschwi
 
 4. Wehrdienst nach dem Wehrpflichtgesetz in der bis zum 31. Mai 2011 geltenden Fassung oder nach dem Vierten Abschnitt des Soldatengesetzes oder Zivildienst nach dem Zivildienstgesetz geleistet hat
 
-und in den Fällen der Nummern 3 und 4 dadurch ein geringeres Einkommen aus Erwerbstätigkeit hatte. Abweichend von Satz 2 bleiben auf Antrag bei der Ermittlung des Einkommens für die Zeit vom 1. März 2020 bis zum Ablauf des 31. Dezember 2021 auch solche Kalendermonate unberücksichtigt, in denen die berechtigte Person aufgrund der COVID-19-Pandemie ein geringeres Einkommen aus Erwerbstätigkeit hatte und dies glaubhaft machen kann. Satz 2 Nummer 1 gilt in den Fällen des § 27 Absatz 1 Satz 1 mit der Maßgabe, dass auf Antrag auch Kalendermonate mit Elterngeldbezug für ein älteres Kind nach Vollendung von dessen 14. Lebensmonat unberücksichtigt bleiben, soweit der Elterngeldbezug von der Zeit vor Vollendung des 14. Lebensmonats auf danach verschoben wurde.
+und in den Fällen der Nummern 3 und 4 dadurch ein geringeres Einkommen aus Erwerbstätigkeit hatte. Abweichend von Satz 2 sind Kalendermonate im Sinne des Satzes 2 Nummer 1 bis 4 auf Antrag der berechtigten Person zu berücksichtigen. Abweichend von Satz 2 bleiben auf Antrag bei der Ermittlung des Einkommens für die Zeit vom 1. März 2020 bis zum Ablauf des 31. Dezember 2021 auch solche Kalendermonate unberücksichtigt, in denen die berechtigte Person aufgrund der COVID-19-Pandemie ein geringeres Einkommen aus Erwerbstätigkeit hatte und dies glaubhaft machen kann. Satz 2 Nummer 1 gilt in den Fällen des § 27 Absatz 1 Satz 1 mit der Maßgabe, dass auf Antrag auch Kalendermonate mit Elterngeldbezug für ein älteres Kind nach Vollendung von dessen 14. Lebensmonat unberücksichtigt bleiben, soweit der Elterngeldbezug von der Zeit vor Vollendung des 14. Lebensmonats auf danach verschoben wurde.
 
 (2) Für die Ermittlung des Einkommens aus selbstständiger Erwerbstätigkeit im Sinne von § 2d vor der Geburt sind die jeweiligen steuerlichen Gewinnermittlungszeiträume maßgeblich, die dem letzten abgeschlossenen steuerlichen Veranlagungszeitraum vor der Geburt des Kindes zugrunde liegen. Haben in einem Gewinnermittlungszeitraum die Voraussetzungen des Absatzes 1 Satz 2 oder Satz 3 vorgelegen, sind auf Antrag die Gewinnermittlungszeiträume maßgeblich, die dem diesen Ereignissen vorangegangenen abgeschlossenen steuerlichen Veranlagungszeitraum zugrunde liegen.
 
-(3) Abweichend von Absatz 1 ist für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt der steuerliche Veranlagungszeitraum maßgeblich, der den Gewinnermittlungszeiträumen nach Absatz 2 zugrunde liegt, wenn die berechtigte Person in den Zeiträumen nach Absatz 1 oder Absatz 2 Einkommen aus selbstständiger Erwerbstätigkeit hatte. Haben im Bemessungszeitraum nach Satz 1 die Voraussetzungen des Absatzes 1 Satz 2 oder Satz 3 vorgelegen, ist Absatz 2 Satz 2 mit der zusätzlichen Maßgabe anzuwenden, dass für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt der vorangegangene steuerliche Veranlagungszeitraum maßgeblich ist.
+(3) Abweichend von Absatz 1 ist für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt der letzte abgeschlossene steuerliche Veranlagungszeitraum vor der Geburt maßgeblich, wenn die berechtigte Person in den Zeiträumen nach Absatz 1 oder Absatz 2 Einkommen aus selbstständiger Erwerbstätigkeit hatte. Haben im Bemessungszeitraum nach Satz 1 die Voraussetzungen des Absatzes 1 Satz 2 oder Satz 3 vorgelegen, ist Absatz 2 Satz 2 mit der zusätzlichen Maßgabe anzuwenden, dass für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt der vorangegangene steuerliche Veranlagungszeitraum maßgeblich ist.
+
+(4) Abweichend von Absatz 3 ist auf Antrag der berechtigten Person für die Ermittlung des Einkommens aus nichtselbstständiger Erwerbstätigkeit allein der Bemessungszeitraum nach Absatz 1 maßgeblich, wenn die zu berücksichtigende Summe der Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbstständiger Arbeit nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes
+
+1. in den jeweiligen steuerlichen Gewinnermittlungszeiträumen, die dem letzten abgeschlossenen steuerlichen Veranlagungszeitraum vor der Geburt des Kindes zugrunde liegen, durchschnittlich weniger als 35 Euro im Kalendermonat betrug und
+
+2. in den jeweiligen steuerlichen Gewinnermittlungszeiträumen, die dem steuerlichen Veranlagungszeitraum der Geburt des Kindes zugrunde liegen, bis einschließlich zum Kalendermonat vor der Geburt des Kindes durchschnittlich weniger als 35 Euro im Kalendermonat betrug.
+
+Abweichend von § 2 Absatz 1 Satz 3 Nummer 2 ist für die Berechnung des Elterngeldes im Fall des Satzes 1 allein das Einkommen aus nichtselbstständiger Erwerbstätigkeit maßgeblich. Die für die Entscheidung über den Antrag notwendige Ermittlung der Höhe der Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbstständiger Arbeit erfolgt für die Zeiträume nach Satz 1 Nummer 1 entsprechend § 2d Absatz 2; in Fällen, in denen zum Zeitpunkt der Entscheidung kein Einkommensteuerbescheid vorliegt, und für den Zeitraum nach Satz 1 Nummer 2 erfolgt die Ermittlung der Höhe der Einkünfte entsprechend § 2d Absatz 3. Die Entscheidung über den Antrag erfolgt abschließend auf der Grundlage der Höhe der Einkünfte, wie sie sich aus den gemäß Satz 3 vorgelegten Nachweisen ergibt.
 
 # § 2c – Einkommen aus nichtselbstständiger Erwerbstätigkeit
 
 (1) Der monatlich durchschnittlich zu berücksichtigende Überschuss der Einnahmen aus nichtselbstständiger Arbeit in Geld oder Geldeswert über ein Zwölftel des Arbeitnehmer-Pauschbetrags, vermindert um die Abzüge für Steuern und Sozialabgaben nach den §§ 2e und 2f, ergibt das Einkommen aus nichtselbstständiger Erwerbstätigkeit. Nicht berücksichtigt werden Einnahmen, die im Lohnsteuerabzugsverfahren nach den lohnsteuerlichen Vorgaben als sonstige Bezüge zu behandeln sind. Die zeitliche Zuordnung von Einnahmen erfolgt nach den lohnsteuerlichen Vorgaben für das Lohnsteuerabzugsverfahren. Maßgeblich ist der Arbeitnehmer-Pauschbetrag nach § 9a Satz 1 Nummer 1 Buchstabe a des Einkommensteuergesetzes in der am 1. Januar des Kalenderjahres vor der Geburt des Kindes für dieses Jahr geltenden Fassung.
 
-(2) Grundlage der Ermittlung der Einnahmen sind die Angaben in den für die maßgeblichen Monate erstellten Lohn- und Gehaltsbescheinigungen des Arbeitgebers. Die Richtigkeit und Vollständigkeit der Angaben in den maßgeblichen Lohn- und Gehaltsbescheinigungen wird vermutet.
+(2) Grundlage der Ermittlung der Einnahmen sind die Angaben in den für die maßgeblichen Kalendermonate erstellten Lohn- und Gehaltsbescheinigungen des Arbeitgebers. Die Richtigkeit und Vollständigkeit der Angaben in den maßgeblichen Lohn- und Gehaltsbescheinigungen wird vermutet.
 
-(3) Grundlage der Ermittlung der nach den §§ 2e und 2f erforderlichen Abzugsmerkmale für Steuern und Sozialabgaben sind die Angaben in der Lohn- und Gehaltsbescheinigung, die für den letzten Monat im Bemessungszeitraum mit Einnahmen nach Absatz 1 erstellt wurde. Soweit sich in den Lohn- und Gehaltsbescheinigungen des Bemessungszeitraums eine Angabe zu einem Abzugsmerkmal geändert hat, ist die von der Angabe nach Satz 1 abweichende Angabe maßgeblich, wenn sie in der überwiegenden Zahl der Monate des Bemessungszeitraums gegolten hat. § 2c Absatz 2 Satz 2 gilt entsprechend.
+(3) Grundlage der Ermittlung der nach den §§ 2e und 2f erforderlichen Abzugsmerkmale für Steuern und Sozialabgaben sind die Angaben in der Lohn- und Gehaltsbescheinigung, die für den letzten Kalendermonat im Bemessungszeitraum mit Einnahmen nach Absatz 1 erstellt wurde. Soweit sich in den Lohn- und Gehaltsbescheinigungen des Bemessungszeitraums eine Angabe zu einem Abzugsmerkmal geändert hat, ist die von der Angabe nach Satz 1 abweichende Angabe maßgeblich, wenn sie in der überwiegenden Zahl der Kalendermonate des Bemessungszeitraums gegolten hat. § 2c Absatz 2 Satz 2 gilt entsprechend.
 
 # § 2d – Einkommen aus selbstständiger Erwerbstätigkeit
 
@@ -183,7 +191,7 @@ b) in Form des Zuschusses zum Mutterschaftsgeld nach § 20 des Mutterschutzgeset
 
 2. Dienst- und Anwärterbezüge sowie Zuschüsse, die der berechtigten Person nach beamten- oder soldatenrechtlichen Vorschriften für die Zeit eines Beschäftigungsverbots ab dem Tag der Geburt des Kindes zustehen,
 
-3. dem Elterngeld oder dem Betreuungsgeld vergleichbare Leistungen, auf die eine nach § 1 berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat,
+3. dem Elterngeld vergleichbare Leistungen, auf die eine nach § 1 berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat,
 
 4. Elterngeld, das der berechtigten Person für ein älteres Kind zusteht, sowie
 
@@ -193,133 +201,161 @@ a) die nicht bereits für die Berechnung des Elterngeldes nach § 2 berücksicht
 
 b) bei deren Berechnung das Elterngeld nicht berücksichtigt wird.
 
-Stehen der berechtigten Person die Einnahmen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Elterngeldes anzurechnen. Für jeden Kalendermonat, in dem Einnahmen nach Satz 1 Nummer 4 oder Nummer 5 im Bemessungszeitraum bezogen worden sind, wird der Anrechnungsbetrag um ein Zwölftel gemindert.
+Stehen der berechtigten Person die Einnahmen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Elterngeldes anzurechnen. Für jeden Kalendermonat, in dem Einnahmen nach Satz 1 Nummer 4 oder Nummer 5 im Bemessungszeitraum bezogen worden sind, wird der Anrechnungsbetrag um ein Zwölftel gemindert. Beginnt der Bezug von Einnahmen nach Satz 1 Nummer 5 nach der Geburt des Kindes und berechnen sich die anzurechnenden Einnahmen auf der Grundlage eines Einkommens, das geringer ist als das Einkommen aus Erwerbstätigkeit im Bemessungszeitraum, so ist der Teil des Elterngeldes in Höhe des nach § 2 Absatz 1 oder 2 maßgeblichen Prozentsatzes des Unterschiedsbetrages zwischen dem durchschnittlichen monatlichen Einkommen aus Erwerbstätigkeit im Bemessungszeitraum und dem durchschnittlichen monatlichen Bemessungseinkommen der anzurechnenden Einnahmen von der Anrechnung freigestellt.
 
 (2) Bis zu einem Betrag von 300 Euro ist das Elterngeld von der Anrechnung nach Absatz 1 frei, soweit nicht Einnahmen nach Absatz 1 Satz 1 Nummer 1 bis 3 auf das Elterngeld anzurechnen sind. Dieser Betrag erhöht sich bei Mehrlingsgeburten um je 300 Euro für das zweite und jedes weitere Kind.
 
 (3) Solange kein Antrag auf die in Absatz 1 Satz 1 Nummer 3 genannten vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf Elterngeld bis zur möglichen Höhe der vergleichbaren Leistung.
 
-# § 4 – Art und Dauer des Bezugs
+# § 4 – Bezugsdauer, Anspruchsumfang
 
-(1) Elterngeld kann in der Zeit vom Tag der Geburt bis zur Vollendung des 14. Lebensmonats des Kindes bezogen werden. Abweichend von Satz 1 kann Elterngeld Plus nach Absatz 3 auch nach dem 14. Lebensmonat bezogen werden, solange es ab dem 15. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird. Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Elterngeld ab Aufnahme bei der berechtigten Person längstens bis zur Vollendung des achten Lebensjahres des Kindes bezogen werden.
+(1) Elterngeld wird als Basiselterngeld oder als Elterngeld Plus gewährt. Es kann ab dem Tag der Geburt bezogen werden. Basiselterngeld kann bis zur Vollendung des 14. Lebensmonats des Kindes bezogen werden. Elterngeld Plus kann bis zur Vollendung des 32. Lebensmonats bezogen werden, solange es ab dem 15. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird. Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Elterngeld ab Aufnahme bei der berechtigten Person längstens bis zur Vollendung des achten Lebensjahres des Kindes bezogen werden.
 
-(2) Elterngeld wird in Monatsbeträgen für Lebensmonate des Kindes gezahlt. Es wird allein nach den Vorgaben der §§ 2 bis 3 ermittelt (Basiselterngeld), soweit nicht Elterngeld nach Absatz 3 in Anspruch genommen wird. Der Anspruch endet mit dem Ablauf des Monats, in dem eine Anspruchsvoraussetzung entfallen ist. Die Eltern können die jeweiligen Monatsbeträge abwechselnd oder gleichzeitig beziehen.
+(2) Elterngeld wird in Monatsbeträgen für Lebensmonate des Kindes gezahlt. Der Anspruch endet mit dem Ablauf des Lebensmonats, in dem eine Anspruchsvoraussetzung entfallen ist. Die Eltern können die jeweiligen Monatsbeträge abwechselnd oder gleichzeitig beziehen.
 
-(3) Statt für einen Monat Elterngeld im Sinne des Absatzes 2 Satz 2 zu beanspruchen, kann die berechtigte Person jeweils zwei Monate lang ein Elterngeld beziehen, das nach den §§ 2 bis 3 und den zusätzlichen Vorgaben der Sätze 2 und 3 ermittelt wird (Elterngeld Plus). Das Elterngeld Plus beträgt monatlich höchstens die Hälfte des Elterngeldes nach Absatz 2 Satz 2, das der berechtigten Person zustünde, wenn sie während des Elterngeldbezugs keine Einnahmen im Sinne des § 2 oder des § 3 hätte oder hat. Für die Berechnung des Elterngeld Plus halbieren sich:
+(3) Die Eltern haben gemeinsam Anspruch auf zwölf Monatsbeträge Basiselterngeld. Ist das Einkommen aus Erwerbstätigkeit eines Elternteils in zwei Lebensmonaten gemindert, haben die Eltern gemeinsam Anspruch auf zwei weitere Monate Basiselterngeld (Partnermonate). Statt für einen Lebensmonat Basiselterngeld zu beanspruchen, kann die berechtigte Person jeweils zwei Lebensmonate Elterngeld Plus beziehen.
+
+(4) Ein Elternteil hat Anspruch auf höchstens zwölf Monatsbeträge Basiselterngeld zuzüglich der höchstens vier zustehenden Monatsbeträge Partnerschaftsbonus nach § 4b. Ein Elternteil hat nur Anspruch auf Elterngeld, wenn er es mindestens für zwei Lebensmonate bezieht. Lebensmonate des Kindes, in denen einem Elternteil nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 anzurechnende Leistungen oder nach § 192 Absatz 5 Satz 2 des Versicherungsvertragsgesetzes Versicherungsleistungen zustehen, gelten als Monate, für die dieser Elternteil Basiselterngeld nach § 4a Absatz 1 bezieht.
+
+(5) Abweichend von Absatz 3 Satz 1 beträgt der gemeinsame Anspruch der Eltern auf Basiselterngeld für ein Kind, das
+
+1. mindestens sechs Wochen vor dem voraussichtlichen Tag der Entbindung geboren wurde: 13 Monatsbeträge Basiselterngeld;
+
+2. mindestens acht Wochen vor dem voraussichtlichen Tag der Entbindung geboren wurde: 14 Monatsbeträge Basiselterngeld;
+
+3. mindestens zwölf Wochen vor dem voraussichtlichen Tag der Entbindung geboren wurde: 15 Monatsbeträge Basiselterngeld;
+
+4. mindestens 16 Wochen vor dem voraussichtlichen Tag der Entbindung geboren wurde: 16 Monatsbeträge Basiselterngeld.
+
+Für die Berechnung des Zeitraums zwischen dem voraussichtlichen Tag der Entbindung und dem tatsächlichen Tag der Geburt ist der voraussichtliche Tag der Entbindung maßgeblich, wie er sich aus dem ärztlichen Zeugnis oder dem Zeugnis einer Hebamme oder eines Entbindungspflegers ergibt. Im Fall von
+
+1. Satz 1 Nummer 1
+
+a) hat ein Elternteil abweichend von Absatz 4 Satz 1 Anspruch auf höchstens 13 Monatsbeträge Basiselterngeld zuzüglich der höchstens vier zustehenden Monatsbeträge Partnerschaftsbonus nach § 4b,
+
+b) kann Basiselterngeld abweichend von Absatz 1 Satz 3 bis zur Vollendung des 15. Lebensmonats des Kindes bezogen werden und
+
+c) kann Elterngeld Plus abweichend von Absatz 1 Satz 4 bis zur Vollendung des 32. Lebensmonats des Kindes bezogen werden, solange es ab dem 16. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird;
+
+2. Satz 1 Nummer 2
+
+a) hat ein Elternteil abweichend von Absatz 4 Satz 1 Anspruch auf höchstens 14 Monatsbeträge Basiselterngeld zuzüglich der höchstens vier zustehenden Monatsbeträge Partnerschaftsbonus nach § 4b,
+
+b) kann Basiselterngeld abweichend von Absatz 1 Satz 3 bis zur Vollendung des 16. Lebensmonats des Kindes bezogen werden und
+
+c) kann Elterngeld Plus abweichend von Absatz 1 Satz 4 bis zur Vollendung des 32. Lebensmonats des Kindes bezogen werden, solange es ab dem 17. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird;
+
+3. Satz 1 Nummer 3
+
+a) hat ein Elternteil abweichend von Absatz 4 Satz 1 Anspruch auf höchstens 15 Monatsbeträge Basiselterngeld zuzüglich der höchstens vier zustehenden Monatsbeträge Partnerschaftsbonus nach § 4b,
+
+b) kann Basiselterngeld abweichend von Absatz 1 Satz 3 bis zur Vollendung des 17. Lebensmonats des Kindes bezogen werden und
+
+c) kann Elterngeld Plus abweichend von Absatz 1 Satz 4 bis zur Vollendung des 32. Lebensmonats des Kindes bezogen werden, solange es ab dem 18. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird;
+
+4. Satz 1 Nummer 4
+
+a) hat ein Elternteil abweichend von Absatz 4 Satz 1 Anspruch auf höchstens 16 Monatsbeträge Basiselterngeld zuzüglich der höchstens vier zustehenden Monatsbeträge Partnerschaftsbonus nach § 4b,
+
+b) kann Basiselterngeld abweichend von Absatz 1 Satz 3 bis zur Vollendung des 18. Lebensmonats des Kindes bezogen werden und
+
+c) kann Elterngeld Plus abweichend von Absatz 1 Satz 4 bis zur Vollendung des 32. Lebensmonats des Kindes bezogen werden, solange es ab dem 19. Lebensmonat in aufeinander folgenden Lebensmonaten von zumindest einem Elternteil in Anspruch genommen wird.
+
+# § 4a – Berechnung von Basiselterngeld und Elterngeld Plus
+
+(1) Basiselterngeld wird allein nach den Vorgaben der §§ 2 bis 3 ermittelt.
+
+(2) Elterngeld Plus wird nach den Vorgaben der §§ 2 bis 3 und den zusätzlichen Vorgaben der Sätze 2 und 3 ermittelt. Das Elterngeld Plus beträgt monatlich höchstens die Hälfte des Basiselterngeldes, das der berechtigten Person zustünde, wenn sie während des Elterngeldbezugs keine Einnahmen im Sinne des § 2 oder des § 3 hätte oder hat. Für die Berechnung des Elterngeldes Plus halbieren sich:
 
 1. der Mindestbetrag für das Elterngeld nach § 2 Absatz 4 Satz 1,
 
-2. der Mindestgeschwisterbonus nach § 2a Absatz 1 Satz 1,
+2. der Mindestbetrag des Geschwisterbonus nach § 2a Absatz 1 Satz 1,
 
 3. der Mehrlingszuschlag nach § 2a Absatz 4 sowie
 
 4. die von der Anrechnung freigestellten Elterngeldbeträge nach § 3 Absatz 2.
 
-(4) Die Eltern haben gemeinsam Anspruch auf zwölf Monatsbeträge Elterngeld im Sinne des Absatzes 2 Satz 2. Erfolgt für zwei Monate eine Minderung des Einkommens aus Erwerbstätigkeit, können sie für zwei weitere Monate Elterngeld im Sinne des Absatzes 2 Satz 2 beanspruchen (Partnermonate). Wenn beide Elternteile in vier aufeinander folgenden Lebensmonaten gleichzeitig
+# § 4b – Partnerschaftsbonus
 
-1. nicht weniger als 25 und nicht mehr als 30 Wochenstunden im Durchschnitt des Monats erwerbstätig sind und
+(1) Wenn beide Elternteile
+
+1. nicht weniger als 24 und nicht mehr als 32 Wochenstunden im Durchschnitt des Lebensmonats erwerbstätig sind und
 
 2. die Voraussetzungen des § 1 erfüllen,
 
-hat jeder Elternteil für diese Monate Anspruch auf vier weitere Monatsbeträge Elterngeld Plus (Partnerschaftsbonus).
+hat jeder Elternteil für diesen Lebensmonat Anspruch auf einen zusätzlichen Monatsbetrag Elterngeld Plus (Partnerschaftsbonus).
 
-(5) Ein Elternteil kann höchstens zwölf Monatsbeträge Elterngeld im Sinne des Absatzes 2 Satz 2 zuzüglich der vier nach Absatz 4 Satz 3 zustehenden Monatsbeträge Elterngeld Plus beziehen. Er kann Elterngeld nur beziehen, wenn er es mindestens für zwei Monate in Anspruch nimmt. Lebensmonate des Kindes, in denen einem Elternteil nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 anzurechnende Leistungen oder nach § 192 Absatz 5 Satz 2 des Versicherungsvertragsgesetzes Versicherungsleistungen zustehen, gelten als Monate, für die dieser Elternteil Elterngeld im Sinne des Absatzes 2 Satz 2 bezieht.
+(2) Die Eltern haben je Elternteil Anspruch auf höchstens vier Monatsbeträge Partnerschaftsbonus. Sie können den Partnerschaftsbonus nur beziehen, wenn sie ihn jeweils für mindestens zwei Lebensmonate in Anspruch nehmen.
 
-(6) Ein Elternteil kann abweichend von Absatz 5 Satz 1 zusätzlich auch die weiteren Monatsbeträge Elterngeld nach Absatz 4 Satz 2 beziehen, wenn für zwei Monate eine Minderung des Einkommens aus Erwerbstätigkeit erfolgt und wenn
+(3) Die Eltern können den Partnerschaftsbonus nur gleichzeitig und in aufeinander folgenden Lebensmonaten beziehen.
 
-1. bei ihm die Voraussetzungen für den Entlastungsbetrag für Alleinerziehende nach § 24b Absatz 1 und 3 des Einkommensteuergesetzes vorliegen und der andere Elternteil weder mit ihm noch mit dem Kind in einer Wohnung lebt,
+(4) Treten während des Bezugs des Partnerschaftsbonus die Voraussetzungen für einen alleinigen Bezug nach § 4c Absatz 1 Nummer 1 bis 3 ein, so kann der Bezug durch einen Elternteil nach § 4c Absatz 2 fortgeführt werden.
+
+(5) Das Erfordernis des Bezugs in aufeinander folgenden Lebensmonaten nach Absatz 3 und § 4 Absatz 1 Satz 4 gilt auch dann als erfüllt, wenn sich während des Bezugs oder nach dem Ende des Bezugs herausstellt, dass die Voraussetzungen für den Partnerschaftsbonus nicht in allen Lebensmonaten, für die der Partnerschaftsbonus beantragt wurde, vorliegen oder vorlagen.
+
+# § 4c – Alleiniger Bezug durch einen Elternteil
+
+(1) Ein Elternteil kann abweichend von § 4 Absatz 4 Satz 1 zusätzlich auch das Elterngeld für die Partnermonate nach § 4 Absatz 3 Satz 3 beziehen, wenn das Einkommen aus Erwerbstätigkeit für zwei Lebensmonate gemindert ist und
+
+1. bei diesem Elternteil die Voraussetzungen für den Entlastungsbetrag für Alleinerziehende nach § 24b Absatz 1 und 3 des Einkommensteuergesetzes vorliegen und der andere Elternteil weder mit ihm noch mit dem Kind in einer Wohnung lebt,
 
 2. mit der Betreuung durch den anderen Elternteil eine Gefährdung des Kindeswohls im Sinne von § 1666 Absatz 1 und 2 des Bürgerlichen Gesetzbuchs verbunden wäre oder
 
-3. die Betreuung durch den anderen Elternteil unmöglich ist, insbesondere weil er wegen einer schweren Krankheit oder Schwerbehinderung sein Kind nicht betreuen kann; für die Feststellung der Unmöglichkeit der Betreuung bleiben wirtschaftliche Gründe und Gründe einer Verhinderung wegen anderweitiger Tätigkeiten außer Betracht.
+3. die Betreuung durch den anderen Elternteil unmöglich ist, insbesondere, weil er wegen einer schweren Krankheit oder einer Schwerbehinderung sein Kind nicht betreuen kann; für die Feststellung der Unmöglichkeit der Betreuung bleiben wirtschaftliche Gründe und Gründe einer Verhinderung wegen anderweitiger Tätigkeiten außer Betracht.
 
-Ist ein Elternteil im Sinne des Satzes 1 Nummer 1 bis 3 in vier aufeinander folgenden Lebensmonaten nicht weniger als 25 und nicht mehr als 30 Wochenstunden im Durchschnitt des Monats erwerbstätig, kann er für diese Monate abweichend von Absatz 5 Satz 1 vier weitere Monatsbeträge Elterngeld Plus beziehen.
+(2) Liegt eine der Voraussetzungen des Absatzes 1 Nummer 1 bis 3 vor, so hat ein Elternteil, der in mindestens zwei bis höchstens vier aufeinander folgenden Lebensmonaten nicht weniger als 24 und nicht mehr als 32 Wochenstunden im Durchschnitt des Lebensmonats erwerbstätig ist, für diese Lebensmonate Anspruch auf zusätzliche Monatsbeträge Elterngeld Plus.
 
-(7) Die Absätze 1 bis 6 gelten in den Fällen des § 1 Absatz 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 1 Absatz 3 Satz 1 Nummer 2 und 3 Elterngeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.
+# § 4d – Weitere Berechtigte
 
-# § 4a – Berechtigte
-
-(1) Anspruch auf Betreuungsgeld hat, wer
-
-1. die Voraussetzungen des § 1 Absatz 1 Nummer 1 bis 3, Absatz 2 bis 5, 7 und 8 erfüllt und
-
-2. für das Kind keine Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch nimmt.
-
-(2) Können die Eltern ihr Kind wegen einer schweren Krankheit, Schwerbehinderung oder Tod der Eltern nicht betreuen, haben Berechtigte im Sinne von Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 4 einen Anspruch auf Betreuungsgeld abweichend von Absatz 1 Nummer 2, wenn für das Kind nicht mehr als 20 Wochenstunden im Durchschnitt des Monats Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch genommen werden.
-
-§ 4a: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
-
-# § 4b – Höhe des Betreuungsgeldes
-
-Das Betreuungsgeld beträgt für jedes Kind 150 Euro pro Monat.
-
-§ 4b: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
-
-# § 4c – Anrechnung von anderen Leistungen
-
-Dem Betreuungsgeld oder dem Elterngeld vergleichbare Leistungen, auf die eine nach § 4a berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat, werden auf das Betreuungsgeld angerechnet, soweit sie den Betrag übersteigen, der für denselben Zeitraum nach § 3 Absatz 1 Satz 1 Nummer 3 auf das Elterngeld anzurechnen ist. Stehen der berechtigten Person die Leistungen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Betreuungsgeldes anzurechnen. Solange kein Antrag auf die in Satz 1 genannten vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf Betreuungsgeld bis zur möglichen Höhe der vergleichbaren Leistung.
-
-§ 4c: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
-
-# § 4d – Bezugszeitraum
-
-(1) Betreuungsgeld kann in der Zeit vom ersten Tag des 15. Lebensmonats bis zur Vollendung des 36. Lebensmonats des Kindes bezogen werden. Vor dem 15. Lebensmonat wird Betreuungsgeld nur gewährt, wenn die Eltern die Monatsbeträge des Elterngeldes, die ihnen für ihr Kind nach § 4 Absatz 4 Satz 1 und 2 und nach § 4 Absatz 6 Satz 1 zustehen, bereits bezogen haben. Für jedes Kind wird höchstens für 22 Lebensmonate Betreuungsgeld gezahlt.
-
-(2) Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Betreuungsgeld ab dem ersten Tag des 15. Monats nach Aufnahme bei der berechtigten Person längstens bis zur Vollendung des dritten Lebensjahres des Kindes bezogen werden. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
-
-(3) Für einen Lebensmonat eines Kindes kann nur ein Elternteil Betreuungsgeld beziehen. Lebensmonate des Kindes, in denen einem Elternteil nach § 4c anzurechnende Leistungen zustehen, gelten als Monate, für die dieser Elternteil Betreuungsgeld bezieht.
-
-(4) Der Anspruch endet mit dem Ablauf des Monats, in dem eine Anspruchsvoraussetzung entfallen ist.
-
-(5) Absatz 1 Satz 2 und Absatz 3 gelten in den Fällen des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.
-
-§ 4d: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
+Die §§ 4 bis 4c gelten in den Fällen des § 1 Absatz 3 und 4 entsprechend. Der Bezug von Elterngeld durch nicht sorgeberechtigte Elternteile und durch Personen, die nach § 1 Absatz 3 Satz 1 Nummer 2 und 3 Anspruch auf Elterngeld haben, bedarf der Zustimmung des sorgeberechtigten Elternteils.
 
 # § 5 – Zusammentreffen von Ansprüchen
 
-(1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen für Elterngeld oder Betreuungsgeld, bestimmen sie, wer von ihnen welche Monatsbeträge der jeweiligen Leistung in Anspruch nimmt.
+(1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen, bestimmen sie, wer von ihnen die Monatsbeträge für welche Lebensmonate des Kindes in Anspruch nimmt.
 
-(2) Beanspruchen beide Elternteile zusammen mehr als die ihnen nach § 4 Absatz 4 oder nach § 4 Absatz 4 in Verbindung mit § 4 Absatz 7 zustehenden Monatsbeträge Elterngeld oder mehr als die ihnen zustehenden 22 Monatsbeträge Betreuungsgeld, besteht der Anspruch eines Elternteils auf die jeweilige Leistung, der nicht über die Hälfte der Monatsbeträge hinausgeht, ungekürzt; der Anspruch des anderen Elternteils wird gekürzt auf die verbleibenden Monatsbeträge. Beanspruchen beide Elternteile mehr als die Hälfte der Monatsbeträge Elterngeld oder Betreuungsgeld, steht ihnen jeweils die Hälfte der Monatsbeträge der jeweiligen Leistung zu.
+(2) Beanspruchen beide Elternteile zusammen mehr als die ihnen nach § 4 Absatz 3 und § 4b oder nach § 4 Absatz 3 und § 4b in Verbindung mit § 4d zustehenden Monatsbeträge, so besteht der Anspruch eines Elternteils, der nicht über die Hälfte der zustehenden Monatsbeträge hinausgeht, ungekürzt; der Anspruch des anderen Elternteils wird gekürzt auf die vom Gesamtanspruch verbleibenden Monatsbeträge. Beansprucht jeder der beiden Elternteile mehr als die Hälfte der ihm zustehenden Monatsbeträge, steht jedem Elternteil die Hälfte des Gesamtanspruchs der Monatsbeträge zu.
 
-(3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Absatz 3 und 4 oder des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Wird eine Einigung mit einem nicht sorgeberechtigten Elternteil oder einer Person, die nach § 1 Absatz 3 Satz 1 Nummer 2 und 3 Elterngeld oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen kann, nicht erzielt, kommt es abweichend von Absatz 2 allein auf die Entscheidung des sorgeberechtigten Elternteils an.
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Absatz 3 und 4 entsprechend. Wird eine Einigung mit einem nicht sorgeberechtigten Elternteil oder einer Person, die nach § 1 Absatz 3 Satz 1 Nummer 2 und 3 Anspruch auf Elterngeld hat, nicht erzielt, so kommt es abweichend von Absatz 2 allein auf die Entscheidung des sorgeberechtigten Elternteils an.
 
 # § 6 – Auszahlung
 
-Elterngeld und Betreuungsgeld werden im Laufe des Monats gezahlt, für den sie bestimmt sind.
+Elterngeld wird im Laufe des Lebensmonats gezahlt, für den es bestimmt ist.
 
 # § 7 – Antragstellung
 
-(1) Elterngeld oder Betreuungsgeld ist schriftlich zu beantragen. Sie werden rückwirkend nur für die letzten drei Monate vor Beginn des Monats geleistet, in dem der Antrag auf die jeweilige Leistung eingegangen ist. In dem Antrag auf Elterngeld oder Betreuungsgeld ist anzugeben, für welche Monate Elterngeld im Sinne des § 4 Absatz 2 Satz 2, für welche Monate Elterngeld Plus oder für welche Monate Betreuungsgeld beantragt wird.
+(1) Elterngeld ist schriftlich zu beantragen. Es wird rückwirkend nur für die letzten drei Lebensmonate vor Beginn des Lebensmonats geleistet, in dem der Antrag auf Elterngeld eingegangen ist. Im Antrag ist anzugeben, für welche Lebensmonate Basiselterngeld, für welche Lebensmonate Elterngeld Plus oder für welche Lebensmonate Partnerschaftsbonus beantragt wird.
 
-(2) Die im Antrag getroffenen Entscheidungen können bis zum Ende des Bezugszeitraums geändert werden. Eine Änderung kann rückwirkend nur für die letzten drei Monate vor Beginn des Monats verlangt werden, in dem der Änderungsantrag eingegangen ist. Sie ist außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge bereits ausgezahlt sind. Abweichend von den Sätzen 2 und 3 kann für einen Monat, in dem bereits Elterngeld Plus bezogen wurde, nachträglich Elterngeld nach § 4 Absatz 2 Satz 2 beantragt werden. Im Übrigen finden die für die Antragstellung geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
+(2) Die im Antrag getroffenen Entscheidungen können bis zum Ende des Bezugszeitraums geändert werden. Eine Änderung kann rückwirkend nur für die letzten drei Lebensmonate vor Beginn des Lebensmonats verlangt werden, in dem der Änderungsantrag eingegangen ist. Sie ist außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge bereits ausgezahlt sind. Abweichend von den Sätzen 2 und 3 kann für einen Lebensmonat, in dem bereits Elterngeld Plus bezogen wurde, nachträglich Basiselterngeld beantragt werden. Im Übrigen finden die für die Antragstellung geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
 
-(3) Der Antrag ist außer in den Fällen des § 4 Absatz 6 und der Antragstellung durch eine allein sorgeberechtigte Person von der Person, die ihn stellt, und zur Bestätigung der Kenntnisnahme auch von der anderen berechtigten Person zu unterschreiben. Die andere berechtigte Person kann gleichzeitig einen Antrag auf das von ihr beanspruchte Elterngeld oder Betreuungsgeld stellen oder der Behörde anzeigen, wie viele Monatsbeträge sie für die jeweilige Leistung beansprucht, wenn mit ihrem Anspruch die Höchstgrenzen nach § 4 Absatz 4 überschritten würden. Liegt der Behörde weder ein Antrag auf Elterngeld oder Betreuungsgeld noch eine Anzeige der anderen berechtigten Person nach Satz 2 vor, erhält der Antragsteller oder die Antragstellerin die Monatsbeträge der jeweiligen Leistung ausgezahlt; die andere berechtigte Person kann bei einem späteren Antrag abweichend von § 5 Absatz 2 nur die unter Berücksichtigung von § 4 Absatz 4 oder § 4d Absatz 1 Satz 3 verbleibenden Monatsbeträge der jeweiligen Leistung erhalten.
+(3) Der Antrag ist, außer im Fall des § 4c und der Antragstellung durch eine allein sorgeberechtigte Person, zu unterschreiben von der Person, die ihn stellt, und zur Bestätigung der Kenntnisnahme auch von der anderen berechtigten Person. Die andere berechtigte Person kann gleichzeitig
+
+1. einen Antrag auf Elterngeld stellen oder
+
+2. der Behörde anzeigen, wie viele Monatsbeträge sie beansprucht, wenn mit ihrem Anspruch die Höchstgrenzen nach § 4 Absatz 3 in Verbindung mit § 4b überschritten würden.
+
+Liegt der Behörde von der anderen berechtigten Person weder ein Antrag auf Elterngeld noch eine Anzeige nach Satz 2 vor, so werden sämtliche Monatsbeträge der berechtigten Person ausgezahlt, die den Antrag gestellt hat; die andere berechtigte Person kann bei einem späteren Antrag abweichend von § 5 Absatz 2 nur die unter Berücksichtigung von § 4 Absatz 3 in Verbindung mit § 4b vom Gesamtanspruch verbleibenden Monatsbeträge erhalten.
 
 # § 8 – Auskunftspflicht, Nebenbestimmungen
 
-(1) Soweit im Antrag auf Elterngeld Angaben zum voraussichtlichen Einkommen aus Erwerbstätigkeit gemacht wurden, sind nach Ablauf des Bezugszeitraums für diese Zeit das tatsächliche Einkommen aus Erwerbstätigkeit und die Arbeitszeit nachzuweisen.
+(1) Soweit im Antrag auf Elterngeld Angaben zum voraussichtlichen Einkommen aus Erwerbstätigkeit gemacht wurden, ist nach Ablauf des Bezugszeitraums für diese Zeit das tatsächliche Einkommen aus Erwerbstätigkeit nachzuweisen.
 
 (1a) Die Mitwirkungspflichten nach § 60 des Ersten Buches Sozialgesetzbuch gelten
 
 1. im Falle des § 1 Absatz 8 Satz 2 auch für die andere Person im Sinne des § 1 Absatz 8 Satz 2 und
 
-2. im Falle des § 4 Absatz 4 Satz 3 oder des § 4 Absatz 4 Satz 3 in Verbindung mit § 4 Absatz 7 Satz 1 für beide Personen, die den Partnerschaftsbonus beantragt haben.
+2. im Falle des § 4b oder des § 4b in Verbindung mit § 4d Satz 1 für beide Personen, die den Partnerschaftsbonus beantragt haben.
 
 § 65 Absatz 1 und 3 des Ersten Buches Sozialgesetzbuch gilt entsprechend.
 
-(2) Elterngeld wird in den Fällen, in denen die berechtigte Person nach ihren Angaben im Antrag im Bezugszeitraum voraussichtlich kein Einkommen aus Erwerbstätigkeit haben wird, unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass sie entgegen ihren Angaben im Antrag Einkommen aus Erwerbstätigkeit hat. In den Fällen, in denen zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und nach den Angaben im Antrag auf Elterngeld oder Betreuungsgeld die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 voraussichtlich nicht überschritten werden, wird die jeweilige Leistung unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass entgegen den Angaben im Antrag auf die jeweilige Leistung die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 überschritten werden.
+(2) Elterngeld wird in den Fällen, in denen die berechtigte Person nach ihren Angaben im Antrag im Bezugszeitraum voraussichtlich kein Einkommen aus Erwerbstätigkeit haben wird, unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass sie entgegen ihren Angaben im Antrag Einkommen aus Erwerbstätigkeit hat. In den Fällen, in denen zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen steuerlichen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und nach den Angaben im Antrag die Beträge nach § 1 Absatz 8 voraussichtlich nicht überschritten werden, wird das Elterngeld unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass entgegen den Angaben im Antrag die Beträge nach § 1 Absatz 8 überschritten werden.
 
 (3) Das Elterngeld wird bis zum Nachweis der jeweils erforderlichen Angaben vorläufig unter Berücksichtigung der glaubhaft gemachten Angaben gezahlt, wenn
 
-1. zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und noch nicht angegeben werden kann, ob die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 überschritten werden,
+1. zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und noch nicht angegeben werden kann, ob die Beträge nach § 1 Absatz 8 überschritten werden,
 
-2. das Einkommen aus Erwerbstätigkeit vor der Geburt nicht ermittelt werden kann,
+2. das Einkommen aus Erwerbstätigkeit vor der Geburt nicht ermittelt werden kann oder
 
-3. die berechtigte Person nach den Angaben im Antrag auf Elterngeld im Bezugszeitraum voraussichtlich Einkommen aus Erwerbstätigkeit hat oder
-
-4. die berechtigte Person weitere Monatsbeträge Elterngeld Plus nach § 4 Absatz 4 Satz 3 oder nach § 4 Absatz 6 Satz 2 beantragt.
-
-Satz 1 Nummer 1 gilt entsprechend bei der Beantragung von Betreuungsgeld.
+3. die berechtigte Person nach den Angaben im Antrag auf Elterngeld im Bezugszeitraum voraussichtlich Einkommen aus Erwerbstätigkeit hat.
 
 # § 9 – Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers
 
@@ -329,25 +365,27 @@ Satz 1 Nummer 1 gilt entsprechend bei der Beantragung von Betreuungsgeld.
 
 # § 10 – Verhältnis zu anderen Sozialleistungen
 
-(1) Das Elterngeld, das Betreuungsgeld und jeweils vergleichbare Leistungen der Länder sowie die nach § 3 oder § 4c auf die jeweilige Leistung angerechneten Einnahmen oder Leistungen bleiben bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, bis zu einer Höhe von insgesamt 300 Euro im Monat als Einkommen unberücksichtigt.
+(1) Das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf die Leistung angerechneten Einnahmen oder Leistungen bleiben bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, bis zu einer Höhe von insgesamt 300 Euro im Monat als Einkommen unberücksichtigt.
 
-(2) Das Elterngeld, das Betreuungsgeld und jeweils vergleichbare Leistungen der Länder sowie die nach § 3 oder § 4c auf die jeweilige Leistung angerechneten Einnahmen oder Leistungen dürfen bis zu einer Höhe von insgesamt 300 Euro nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
+(2) Das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf die Leistung angerechneten Einnahmen oder Leistungen dürfen bis zu einer Höhe von insgesamt 300 Euro nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
 
 (3) Soweit die berechtigte Person Elterngeld Plus bezieht, bleibt das Elterngeld nur bis zur Hälfte des Anrechnungsfreibetrags, der nach Abzug der anderen nach Absatz 1 nicht zu berücksichtigenden Einnahmen für das Elterngeld verbleibt, als Einkommen unberücksichtigt und darf nur bis zu dieser Höhe nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
 
 (4) Die nach den Absätzen 1 bis 3 nicht zu berücksichtigenden oder nicht heranzuziehenden Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder.
 
-(5) Die Absätze 1 bis 4 gelten nicht bei Leistungen nach dem Zweiten Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch und § 6a des Bundeskindergeldgesetzes. Bei den in Satz 1 bezeichneten Leistungen bleiben das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen in Höhe des nach § 2 Absatz 1 berücksichtigten Einkommens aus Erwerbstätigkeit vor der Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. Soweit die berechtigte Person Elterngeld Plus bezieht, verringern sich die Beträge nach Satz 2 um die Hälfte.
+(5) Die Absätze 1 bis 4 gelten nicht bei Leistungen nach dem Zweiten Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch, § 6a des Bundeskindergeldgesetzes und dem Asylbewerberleistungsgesetz. Bei den in Satz 1 bezeichneten Leistungen bleiben das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen in Höhe des nach § 2 Absatz 1 berücksichtigten Einkommens aus Erwerbstätigkeit vor der Geburt bis zu 300 Euro im Monat als Einkommen unberücksichtigt. Soweit die berechtigte Person Elterngeld Plus bezieht, verringern sich die Beträge nach Satz 2 um die Hälfte.
 
 (6) Die Absätze 1 bis 4 gelten entsprechend, soweit für eine Sozialleistung ein Kostenbeitrag erhoben werden kann, der einkommensabhängig ist.
 
 # § 11 – Unterhaltspflichten
 
-Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes, des Betreuungsgeldes und jeweils vergleichbarer Leistungen der Länder nur insoweit berührt, als die Zahlung 300 Euro monatlich übersteigt. Soweit die berechtigte Person Elterngeld Plus bezieht, werden die Unterhaltspflichten insoweit berührt, als die Zahlung 150 Euro übersteigt. Die in den Sätzen 1 und 2 genannten Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder. Die Sätze 1 bis 3 gelten nicht in den Fällen des § 1361 Absatz 3, der §§ 1579, 1603 Absatz 2 und des § 1611 Absatz 1 des Bürgerlichen Gesetzbuchs.
+Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes und vergleichbarer Leistungen der Länder nur insoweit berührt, als die Zahlung 300 Euro monatlich übersteigt. Soweit die berechtigte Person Elterngeld Plus bezieht, werden die Unterhaltspflichten insoweit berührt, als die Zahlung 150 Euro übersteigt. Die in den Sätzen 1 und 2 genannten Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder. Die Sätze 1 bis 3 gelten nicht in den Fällen des § 1361 Absatz 3, der §§ 1579, 1603 Absatz 2 und des § 1611 Absatz 1 des Bürgerlichen Gesetzbuchs.
 
-# § 12 – Zuständigkeit; Aufbringung der Mittel
+# § 12 – Zuständigkeit; Bewirtschaftung der Mittel
 
-(1) Die Landesregierungen oder die von ihnen beauftragten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden. Diesen Behörden obliegt auch die Beratung zur Elternzeit. In den Fällen des § 1 Absatz 2 oder des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 2 ist die von den Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des Bezirks zuständig, in dem die berechtigte Person ihren letzten inländischen Wohnsitz hatte; hilfsweise ist die Behörde des Bezirks zuständig, in dem der entsendende Dienstherr oder Arbeitgeber der berechtigten Person oder der Arbeitgeber des Ehegatten, der Ehegattin, des Lebenspartners oder der Lebenspartnerin der berechtigten Person den inländischen Sitz hat.
+(1) Die Landesregierungen oder die von ihnen beauftragten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden. Zuständig ist die von den Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des Bezirks, in dem das Kind, für das Elterngeld beansprucht wird, zum Zeitpunkt der ersten Antragstellung seinen inländischen Wohnsitz hat. Hat das Kind, für das Elterngeld beansprucht wird, in den Fällen des § 1 Absatz 2 zum Zeitpunkt der ersten Antragstellung keinen inländischen Wohnsitz, so ist die von den Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des Bezirks zuständig, in dem die berechtigte Person ihren letzten inländischen Wohnsitz hatte; hilfsweise ist die Behörde des Bezirks zuständig, in dem der entsendende Dienstherr oder Arbeitgeber der berechtigten Person oder der Arbeitgeber des Ehegatten oder der Ehegattin der berechtigten Person den inländischen Sitz hat.
+
+(2) Den nach Absatz 1 zuständigen Behörden obliegt auch die Beratung zur Elternzeit.
 
 (2) Der Bund trägt die Ausgaben für das Elterngeld und das Betreuungsgeld.
 
@@ -373,7 +411,7 @@ Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes, des Betreuu
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße von bis zu zweitausend Euro geahndet werden.
 
-(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 12 Absatz 1 Satz 1 und 3 genannten Behörden.
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 12 Absatz 1 genannten Behörden.
 
 # § 15 – Anspruch auf Elternzeit
 
@@ -403,7 +441,7 @@ Der Anspruch besteht nur für Zeiten, in denen keiner der Elternteile des Kindes
 
 (3) Die Elternzeit kann, auch anteilig, von jedem Elternteil allein oder von beiden Elternteilen gemeinsam genommen werden. Satz 1 gilt in den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und c entsprechend.
 
-(4) Der Arbeitnehmer oder die Arbeitnehmerin darf während der Elternzeit nicht mehr als 30 Wochenstunden im Durchschnitt des Monats erwerbstätig sein. Eine im Sinne des § 23 des Achten Buches Sozialgesetzbuch geeignete Tagespflegeperson kann bis zu fünf Kinder in Tagespflege betreuen, auch wenn die wöchentliche Betreuungszeit 30 Stunden übersteigt. Teilzeitarbeit bei einem anderen Arbeitgeber oder selbstständige Tätigkeit nach Satz 1 bedürfen der Zustimmung des Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus dringenden betrieblichen Gründen schriftlich ablehnen.
+(4) Der Arbeitnehmer oder die Arbeitnehmerin darf während der Elternzeit nicht mehr als 32 Wochenstunden im Durchschnitt des Monats erwerbstätig sein. Eine im Sinne des § 23 des Achten Buches Sozialgesetzbuch geeignete Tagespflegeperson darf bis zu fünf Kinder in Tagespflege betreuen, auch wenn die wöchentliche Betreuungszeit 32 Stunden übersteigt. Teilzeitarbeit bei einem anderen Arbeitgeber oder selbstständige Tätigkeit nach Satz 1 bedürfen der Zustimmung des Arbeitgebers. Dieser kann sie nur innerhalb von vier Wochen aus dringenden betrieblichen Gründen schriftlich ablehnen.
 
 (5) Der Arbeitnehmer oder die Arbeitnehmerin kann eine Verringerung der Arbeitszeit und ihre Verteilung beantragen. Über den Antrag sollen sich der Arbeitgeber und der Arbeitnehmer oder die Arbeitnehmerin innerhalb von vier Wochen einigen. Der Antrag kann mit der schriftlichen Mitteilung nach Absatz 7 Satz 1 Nummer 5 verbunden werden. Unberührt bleibt das Recht, sowohl die vor der Elternzeit bestehende Teilzeitarbeit unverändert während der Elternzeit fortzusetzen, soweit Absatz 4 beachtet ist, als auch nach der Elternzeit zu der Arbeitszeit zurückzukehren, die vor Beginn der Elternzeit vereinbart war.
 
@@ -415,7 +453,7 @@ Der Anspruch besteht nur für Zeiten, in denen keiner der Elternteile des Kindes
 
 2. das Arbeitsverhältnis in demselben Betrieb oder Unternehmen besteht ohne Unterbrechung länger als sechs Monate,
 
-3. die vertraglich vereinbarte regelmäßige Arbeitszeit soll für mindestens zwei Monate auf einen Umfang von nicht weniger als 15 und nicht mehr als 30 Wochenstunden im Durchschnitt des Monats verringert werden,
+3. die vertraglich vereinbarte regelmäßige Arbeitszeit soll für mindestens zwei Monate auf einen Umfang von nicht weniger als 15 und nicht mehr als 32 Wochenstunden im Durchschnitt des Monats verringert werden,
 
 4. dem Anspruch stehen keine dringenden betrieblichen Gründe entgegen und
 
@@ -477,7 +515,7 @@ Während der Elternzeit darf der Arbeitgeber das Arbeitsverhältnis nicht kündi
 
 1. während der Elternzeit bei demselben Arbeitgeber Teilzeitarbeit leisten oder
 
-2. ohne Elternzeit in Anspruch zu nehmen, Teilzeitarbeit leisten und Anspruch auf Elterngeld nach § 1 während des Zeitraums nach § 4 Absatz 1 Satz 1 und 3 haben.
+2. ohne Elternzeit in Anspruch zu nehmen, Teilzeitarbeit leisten und Anspruch auf Elterngeld nach § 1 während des Zeitraums nach § 4 Absatz 1 Satz 2, 3 und 5 haben.
 
 # § 19 – Kündigung zum Ende der Elternzeit
 
@@ -485,7 +523,7 @@ Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis zum Ende de
 
 # § 20 – Zur Berufsbildung Beschäftigte, in Heimarbeit Beschäftigte
 
-(1) Die zu ihrer Berufsbildung Beschäftigten gelten als Arbeitnehmer oder Arbeitnehmerinnen im Sinne dieses Gesetzes. Die Elternzeit wird auf Berufsbildungszeiten nicht angerechnet.
+(1) Die zu ihrer Berufsbildung Beschäftigten gelten als Arbeitnehmer und Arbeitnehmerinnen im Sinne dieses Gesetzes. Die Elternzeit wird auf die Dauer einer Berufsausbildung nicht angerechnet, es sei denn, dass während der Elternzeit die Berufsausbildung nach § 7a des Berufsbildungsgesetzes oder § 27b der Handwerksordnung in Teilzeit durchgeführt wird. § 15 Absatz 4 Satz 1 bleibt unberührt.
 
 (2) Anspruch auf Elternzeit haben auch die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten (§ 1 Absatz 1 und 2 des Heimarbeitsgesetzes), soweit sie am Stück mitarbeiten. Für sie tritt an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister und an die Stelle des Arbeitsverhältnisses das Beschäftigungsverhältnis.
 
@@ -507,7 +545,7 @@ Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis zum Ende de
 
 # § 22 – Bundesstatistik
 
-(1) Zur Beurteilung der Auswirkungen dieses Gesetzes sowie zu seiner Fortentwicklung sind laufende Erhebungen zum Bezug von Elterngeld und Betreuungsgeld als Bundesstatistiken durchzuführen. Die Erhebungen erfolgen zentral beim Statistischen Bundesamt.
+(1) Zur Beurteilung der Auswirkungen dieses Gesetzes sowie zu seiner Fortentwicklung sind laufende Erhebungen zum Bezug von Elterngeld als Bundesstatistiken durchzuführen. Die Erhebungen erfolgen zentral beim Statistischen Bundesamt.
 
 (2) Die Statistik zum Bezug von Elterngeld erfasst vierteljährlich zum jeweils letzten Tag des aktuellen und der vorangegangenen zwei Kalendermonate für Personen, die in einem dieser Kalendermonate Elterngeld bezogen haben, für jedes den Anspruch auslösende Kind folgende Erhebungsmerkmale:
 
@@ -515,11 +553,11 @@ Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis zum Ende de
 
 2. Grundlagen der Berechnung des zustehenden Monatsbetrags nach Art und Höhe (§ 2 Absatz 1, 2, 3 oder 4, § 2a Absatz 1 oder 4, § 2c, die §§ 2d, 2e oder § 2f),
 
-3. Höhe und Art des zustehenden Monatsbetrags (§ 4 Absatz 2 Satz 2 und Absatz 3 Satz 1) ohne die Berücksichtigung der Einnahmen nach § 3,
+3. Höhe und Art des zustehenden Monatsbetrags (§ 4a Absatz 1 und 2 Satz 1) ohne die Berücksichtigung der Einnahmen nach § 3,
 
 4. Art und Höhe der Einnahmen nach § 3,
 
-5. Inanspruchnahme der als Partnerschaftsbonus gewährten Monatsbeträge nach § 4 Absatz 4 Satz 3 und der weiteren Monatsbeträge Elterngeld Plus nach § 4 Absatz 6 Satz 2,
+5. Inanspruchnahme der als Partnerschaftsbonus gewährten Monatsbeträge nach § 4b Absatz 1 und der weiteren Monatsbeträge Elterngeld Plus nach § 4c Absatz 2,
 
 6. Höhe des monatlichen Auszahlungsbetrags,
 
@@ -533,35 +571,15 @@ b) Staatsangehörigkeit,
 
 c) Wohnsitz oder gewöhnlicher Aufenthalt,
 
-d) Familienstand und unverheiratetes Zusammenleben mit dem anderen Elternteil und
+d) Familienstand und unverheiratetes Zusammenleben mit dem anderen Elternteil,
 
-e) Anzahl der im Haushalt lebenden Kinder.
+e) Vorliegen der Voraussetzungen nach § 4c Absatz 1 Nummer 1 und
+
+f) Anzahl der im Haushalt lebenden Kinder.
 
 Die Angaben nach den Nummern 2, 3, 5 und 6 sind für jeden Lebensmonat des Kindes bezogen auf den nach § 4 Absatz 1 möglichen Zeitraum des Leistungsbezugs zu melden.
 
-(3) Die Statistik zum Bezug von Betreuungsgeld erfasst vierteljährlich zum jeweils letzten Tag des aktuellen und der vorangegangenen zwei Kalendermonate erstmalig zum 30. September 2013 für Personen, die in einem dieser Kalendermonate Betreuungsgeld bezogen haben, für jedes den Anspruch auslösende Kind folgende Erhebungsmerkmale:
-
-1. Art der Berechtigung nach § 4a,
-
-2. Höhe des monatlichen Auszahlungsbetrags,
-
-3. Geburtstag des Kindes,
-
-4. für die Betreuungsgeld beziehende Person:
-
-a) Geschlecht, Geburtsjahr und -monat,
-
-b) Staatsangehörigkeit,
-
-c) Wohnsitz oder gewöhnlicher Aufenthalt,
-
-d) Familienstand und unverheiratetes Zusammenleben mit dem anderen Elternteil und
-
-e) Anzahl der im Haushalt lebenden Kinder.
-
-Die Angaben nach Nummer 2 sind für jeden Lebensmonat des Kindes bezogen auf den nach § 4d Absatz 1 möglichen Zeitraum des Leistungsbezugs zu melden.
-
-(4) Hilfsmerkmale sind:
+(3) Hilfsmerkmale sind:
 
 1. Name und Anschrift der zuständigen Behörde,
 
@@ -601,23 +619,23 @@ Beantragt eine Person Elterngeld, so darf das für die Entgegennahme der Anzeige
 
 # § 26 – Anwendung der Bücher des Sozialgesetzbuches
 
-(1) Soweit dieses Gesetz zum Elterngeld oder Betreuungsgeld keine ausdrückliche Regelung trifft, ist bei der Ausführung des Ersten, Zweiten und Dritten Abschnitts das Erste Kapitel des Zehnten Buches Sozialgesetzbuch anzuwenden.
+(1) Soweit dieses Gesetz zum Elterngeld keine ausdrückliche Regelung trifft, ist bei der Ausführung des Ersten, Zweiten und Dritten Abschnitts das Erste Kapitel des Zehnten Buches Sozialgesetzbuch anzuwenden.
 
 (2) § 328 Absatz 3 und § 331 des Dritten Buches Sozialgesetzbuch gelten entsprechend.
 
 # § 27 – Sonderregelung aus Anlass der COVID-19-Pandemie
 
-(1) Übt ein Elternteil eine systemrelevante Tätigkeit aus, so kann sein Bezug von Elterngeld auf Antrag für die Zeit vom 1. März 2020 bis 31. Dezember 2020 aufgeschoben werden. Der Bezug der verschobenen Lebensmonate ist spätestens bis zum 30. Juni 2021 anzutreten. Wird von der Möglichkeit des Aufschubs Gebrauch gemacht, so kann das Basiselterngeld abweichend von § 4 Absatz 1 Satz 1 auch noch nach Vollendung des 14. Lebensmonats bezogen werden. In der Zeit vom 1. März 2020 bis 30. Juni 2021 entstehende Lücken im Elterngeldbezug sind abweichend von § 4 Absatz 1 Satz 2 unschädlich.
+(1) Übt ein Elternteil eine systemrelevante Tätigkeit aus, so kann sein Bezug von Elterngeld auf Antrag für die Zeit vom 1. März 2020 bis 31. Dezember 2020 aufgeschoben werden. Der Bezug der verschobenen Lebensmonate ist spätestens bis zum 30. Juni 2021 anzutreten. Wird von der Möglichkeit des Aufschubs Gebrauch gemacht, so kann das Basiselterngeld abweichend von § 4 Absatz 1 Satz 2 und 3 auch noch nach Vollendung des 14. Lebensmonats bezogen werden. In der Zeit vom 1. März 2020 bis 30. Juni 2021 entstehende Lücken im Elterngeldbezug sind abweichend von § 4 Absatz 1 Satz 4 unschädlich.
 
 (2) Für ein Verschieben des Partnerschaftsbonus genügt es, wenn nur ein Elternteil einen systemrelevanten Beruf ausübt. Hat der Bezug des Partnerschaftsbonus bereits begonnen, so gelten allein die Bestimmungen des Absatzes 3.
 
 (3) Liegt der Bezug des Partnerschaftsbonus ganz oder teilweise vor dem Ablauf des 31. Dezember 2021 und kann die berechtigte Person die Voraussetzungen des Bezugs aufgrund der COVID-19-Pandemie nicht einhalten, gelten die Angaben zur Höhe des Einkommens und zum Umfang der Arbeitszeit, die bei der Beantragung des Partnerschaftsbonus glaubhaft gemacht worden sind.
 
-(4) Beginnt der Bezug von Einnahmen nach § 3 Absatz 1 Satz 1 Nummer 5 nach der Geburt des Kindes und berechnen sich die anzurechnenden Einnahmen auf der Grundlage eines Einkommens, das geringer ist als das Einkommen aus Erwerbstätigkeit im Bemessungszeitraum und das aufgrund der COVID-19-Pandemie weggefallen ist, so ist für die Zeit vom 1. März 2020 bis zum Ablauf des 31. Dezember 2021 der Teil des Elterngeldes in Höhe des nach § 2 Absatz 1 oder 2 maßgeblichen Prozentsatzes des Unterschiedsbetrages zwischen dem durchschnittlichen monatlichen Einkommen aus Erwerbstätigkeit im Bemessungszeitraum und dem Bemessungseinkommen der anzurechnenden Einnahmen von der Anrechnung freigestellt.
+(4) (weggefallen)
 
 # § 28 – Übergangsvorschrift
 
-(1) Für die vor dem 1. Januar 2015 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist § 1 in der bis zum 31. Dezember 2014 geltenden Fassung weiter anzuwenden. Für die vor dem 1. Juli 2015 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder sind die §§ 2 bis 22 in der bis zum 31. Dezember 2014 geltenden Fassung weiter anzuwenden. Satz 2 gilt nicht für § 2c Absatz 1 Satz 2 und § 22 Absatz 2 Satz 1 Nummer 2.
+(1) Für die vor dem 1. September 2021 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist dieses Gesetz in der bis zum 31. August 2021 geltenden Fassung weiter anzuwenden.
 
 (1a) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte entsprechend.
 

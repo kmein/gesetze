@@ -45,21 +45,23 @@
 
 2. die Übermittlung personen- und kartenbezogener Daten aus der eID-Karte anzufragen.
 
-(3) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung von eID-Karten dient.
+(3) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung des elektronischen Identitätsnachweises mit einer eID-Karte oder mit einem mobilen Endgerät dient.
 
 (4) Die Sperrsumme ist ein eindeutiges Merkmal, das aus dem Sperrkennwort, dem Familiennamen, den Vornamen und dem Tag der Geburt eines Karteninhabers errechnet wird. Es dient der Übermittlung einer Sperrung vom Sperrnotruf oder einer eID-Karte-Behörde an den Sperrlistenbetreiber. Mithilfe der Sperrsumme ermittelt der Sperrlistenbetreiber anhand der Referenzliste den Sperrschlüssel eines zu sperrenden elektronischen Identitätsnachweises.
 
-(5) Sperrmerkmale einer eID-Karte sind dienste- und kartenspezifische Zeichenfolgen, die ausschließlich der Erkennung abhandengekommener eID-Karten durch den Diensteanbieter dienen, für den sie errechnet wurden.
+(5) Sperrmerkmale eines elektronischen Identitätsnachweises mit einer eID-Karte oder mit einem mobilen Endgerät sind dienste- und kartenspezifische Zeichenfolgen, die ausschließlich der Erkennung abhandengekommener eID-Karten oder mobiler Endgeräte durch den Diensteanbieter dienen, für den sie errechnet wurden.
 
 (6) Die Seriennummer einer eID-Karte setzt sich aus einer vierstelligen Behördenkennzahl und einer fünfstelligen, zufällig vergebenen Nummer zusammen und kann Ziffern und Buchstaben enthalten.
 
-(7) Die Geheimnummer besteht aus einer sechsstelligen Ziffernfolge und dient der Freigabe der Datenübermittlung aus der eID-Karte im Rahmen des elektronischen Identitätsnachweises.
+(7) Die Geheimnummer besteht aus einer sechsstelligen Ziffernfolge und dient der Freigabe der Datenübermittlung aus der eID-Karte oder aus einem mobilen Endgerät im Rahmen des elektronischen Identitätsnachweises.
 
 (8) Die Zugangsnummer ist eine zufällig erzeugte, ausschließlich auf der Karte sichtbar aufgebrachte sechsstellige Ziffernfolge, die zur Absicherung gegen unberechtigten Zugriff auf die Kommunikation zwischen eID-Karte und Lesegeräten dient.
 
 (9) Die Entsperrnummer ist eine zufällig erzeugte Ziffernfolge, die die Freischaltung der Geheimnummer ermöglicht, wenn diese nach dreimaliger Fehleingabe gesperrt worden ist.
 
 (10) Karteninhaber ist die Person, für die die eID-Karte ausgestellt wurde.
+
+(11) Im Sinne dieses Gesetzes ist ein mobiles Endgerät ein solches Gerät, das dem Stand der Technik entspricht, um einen elektronischen Identitätsnachweis nach § 12 Absatz 3 Satz 1 Nummer 2 durchführen zu können.
 
 # § 3 – Besitz und Eigentum; Hersteller, Vergabestelle und Sperrlistenbetreiber
 
@@ -109,6 +111,8 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 9. letzter Tag der Gültigkeitsdauer.
 
+Zur Einrichtung eines elektronischen Identitätsnachweises nach § 8a Absatz 1 Satz 1 dürfen auf einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät die Daten nach Satz 1 gespeichert werden.
+
 (5) Die gespeicherten Daten sind gegen unbefugtes Verändern, Löschen und Auslesen zu sichern.
 
 # § 5 – Gültigkeitsdauer
@@ -139,6 +143,8 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 (4) Für das elektronisch beantragte Neusetzen der Geheimnummer ist der Kartenhersteller zuständig.
 
+(5) Für die Übermittlung von Daten nach § 4 Absatz 4 Satz 2 aus dem Chip der eID-Karte auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät nach § 8a Absatz 1 Satz 1 sowie für die Auskunft nach § 8a Absatz 5 ist der Kartenhersteller zuständig.
+
 # § 7 – Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk die antragstellende Person oder der Karteninhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Ist die Person nicht meldepflichtig, ist die eID-Karte-Behörde zuständig, in deren Bezirk die Person im Zeitpunkt der Antragstellung oder des die behördliche Tätigkeit auslösenden Ereignisses wohnt.
@@ -158,6 +164,18 @@ Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach
 (2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der antragstellenden Person notwendig sind. Die Angaben zu dem Doktorgrad und zu den Ordens- und Künstlernamen sind freigestellt. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen und sich unter Vorlage eines anerkannten und gültigen ausländischen Passes oder Personalausweises vor der ausgebenden Stelle persönlich zu identifizieren.
 
 (3) Bestehen Zweifel über die Identität der antragstellenden Person, so ist die Ausstellung einer eID-Karte abzulehnen.
+
+# § 8a – Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+
+(1) Auf elektronische Veranlassung durch den Karteninhaber übermittelt der Kartenhersteller die Daten nach § 4 Absatz 4 Satz 2 aus dem Chip der eID-Karte in einem sicheren Verfahren auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät. Der Karteninhaber weist seine Identität gegenüber dem Kartenhersteller mit einem elektronischen Identitätsnachweis nach § 12 nach. Ferner hat der Kartenhersteller Maßnahmen gegen eine missbräuchliche Verwendung der Daten im Anschluss an die Übermittlung der Daten auf das elektronische Speicher- und Verarbeitungsmedium in dem mobilen Endgerät vorzusehen. Der Karteninhaber ist auf seine Pflichten nach § 20 Absatz 2 sowie darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der in seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist.
+
+(2) Die Gültigkeitsdauer eines elektronischen Identitätsnachweises nach § 12 Absatz 3 Satz 1 Nummer 2 auf Grundlage einer Übermittlung der Daten nach Absatz 1 beträgt fünf Jahre. Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig. Durch Rechtsverordnung nach § 25 Nummer 8a kann eine kürzere Gültigkeitsdauer festgelegt werden. Eine Übermittlung nach Absatz 1 Satz 1 kann mehrfach durchgeführt werden.
+
+(3) Im Zuge der Übermittlung nach Absatz 1 Satz 1 erzeugt der Kartenhersteller einen neuen Sperrschlüssel und eine neue Sperrsumme und übermittelt diese an den Sperrlistenbetreiber. § 9 Absatz 2 Satz 1 gilt entsprechend. Der Karteninhaber kann die Daten auf dem mobilen Endgerät selbst löschen.
+
+(4) Werden die auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endgeräts übermittelten Daten nach Absatz 1 Satz 1 unrichtig, darf ein elektronischer Identitätsnachweis nach § 12 Absatz 3 Satz 1 Nummer 2 nicht durchgeführt werden. Zur weiteren Nutzung ist erneut eine Übermittlung nach Absatz 1 Satz 1 unter Verwendung des Chips der eID-Karte mit richtigen Angaben durchzuführen.
+
+(5) Auf elektronischen Antrag des Karteninhabers hat der Kartenhersteller diesem Auskunft zu erteilen darüber, jeweils zu welchem Datum und zu welcher Uhrzeit eine Übermittlung nach Absatz 1 Satz 1 der Daten der eID-Karte des Karteninhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät durchgeführt wurde, sowie über jeweils den letzten Tag der Gültigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Zur Identifizierung der antragstellenden Person hat der Kartenhersteller zur Person des Karteninhabers einen elektronischen Identitätsnachweis nach § 12 durchzuführen.
 
 # § 9 – Sperrung und Entsperrung
 
@@ -181,9 +199,9 @@ Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach
 
 # § 10 – Informationspflichten
 
-(1) Auf Verlangen des Karteninhabers hat die eID-Karte-Behörde ihm Einsicht in die im Chip gespeicherten auslesbaren Daten zu gewähren.
+(1) Auf Verlangen des Karteninhabers hat die eID-Karte-Behörde ihm Einsicht in die im Chip der eID-Karte gespeicherten auslesbaren Daten zu gewähren.
 
-(2) Die eID-Karte-Behörde hat die antragstellende Person bei Antragstellung über den elektronischen Identitätsnachweis nach § 12 und das Vor-Ort-Auslesen nach § 13 sowie über Maßnahmen zu unterrichten, die erforderlich sind, um die Sicherheit der Nutzung des elektronischen Identitätsnachweises zu gewährleisten. Sie hat Informationsmaterial bereitzustellen, in dem auch auf die Möglichkeit einer Sperrung hingewiesen wird. Die antragstellende Person ist auf das vorhandene Informationsmaterial hinzuweisen.
+(2) Die eID-Karte-Behörde hat die antragstellende Person bei Antragstellung über den elektronischen Identitätsnachweis nach § 12, einschließlich des elektronischen Identitätsnachweises mit einem mobilen Endgerät, und das Vor-Ort-Auslesen nach § 13 sowie über Maßnahmen zu unterrichten, die erforderlich sind, um die Sicherheit der Nutzung des elektronischen Identitätsnachweises zu gewährleisten. Sie hat Informationsmaterial bereitzustellen, in dem auch auf die Möglichkeit einer Sperrung hingewiesen wird. Die antragstellende Person ist auf das vorhandene Informationsmaterial hinzuweisen.
 
 (3) Eine eID-Karte-Behörde, die Kenntnis von dem Abhandenkommen einer eID-Karte erlangt, hat die zuständige eID-Karte-Behörde, die ausstellende eID-Karte-Behörde und eine Polizeibehörde unverzüglich in Kenntnis zu setzen; eine Polizeibehörde, die anderweitig Kenntnis vom Abhandenkommen einer eID-Karte erlangt, hat die zuständige und die ausstellende eID-Karte-Behörde unverzüglich zu unterrichten. Dabei sollen Angaben zum Familiennamen, den Vornamen, zur Seriennummer, zur ausstellenden eID-Karte-Behörde, zum Ausstellungsdatum und zur Gültigkeitsdauer der eID-Karte übermittelt werden. Die Polizeibehörde hat die Einstellung in die polizeiliche Sachfahndung vorzunehmen.
 
@@ -197,7 +215,13 @@ Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung
 
 (2) Die Nutzung des elektronischen Identitätsnachweises durch eine andere Person als den Karteninhaber ist unzulässig.
 
-(3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten aus dem Chip der eID-Karte. Für die Einzelheiten der Datenübermittlung gilt § 18 Absatz 2 Satz 2, Absatz 3, 4 und 5 des Personalausweisgesetzes entsprechend.
+(3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten
+
+1. aus dem Chip der eID-Karte oder
+
+2. aus einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät.
+
+Für die Einzelheiten der Datenübermittlung gilt § 18 Absatz 2 Satz 2, Absatz 3, 4 und 5 des Personalausweisgesetzes entsprechend.
 
 (4) eID-Karte-Behörden dürfen im Rahmen der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes einen elektronischen Identitätsnachweis durchführen und hierzu ein hoheitliches Berechtigungszertifikat verwenden.
 
@@ -281,7 +305,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 3. den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen.
 
-(2) Der Karteninhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf der eID-Karte vermerkt oder in anderer Weise zusammen mit dieser aufbewahrt werden. Ist dem Karteninhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen.
+(2) Der Karteninhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf der eID-Karte vermerkt oder in anderer Weise zusammen mit dieser aufbewahrt sowie im Fall des elektronischen Identitätsnachweises mit einem mobilen Endgerät nicht auf diesem gespeichert werden. Ist dem Karteninhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen. Satz 3 gilt entsprechend für den Fall, dass dem Karteninhaber bekannt wird, dass die Geheimnummer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät Dritten zur Kenntnis gelangt ist.
 
 (3) Der Karteninhaber soll durch technische und organisatorische Maßnahmen gewährleisten, dass der elektronische Identitätsnachweis nach § 12 nur in einer Umgebung eingesetzt wird, die nach dem jeweiligen Stand der Technik als sicher anzusehen ist. Dabei soll er insbesondere solche technischen Systeme und Bestandteile einsetzen, die vom Bundesamt für Sicherheit in der Informationstechnik als für diesen Einsatzzweck sicher bewertet werden.
 

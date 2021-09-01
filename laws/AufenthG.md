@@ -3149,11 +3149,21 @@ Die Seriennummer und die Prüfziffern dürfen keine Daten über den Inhaber oder
 
 5. den Geburtsnamen.
 
-Die gespeicherten Daten sind durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 gegen unbefugtes Verändern, Löschen und Auslesen zu sichern. Die Erfassung von Fingerabdrücken erfolgt ab Vollendung des sechsten Lebensjahres.
+Die gespeicherten Daten sind durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 gegen unbefugtes Verändern, Löschen und Auslesen zu sichern. Die Erfassung von Fingerabdrücken erfolgt ab Vollendung des sechsten Lebensjahres. In entsprechender Anwendung von § 10a Absatz 1 Satz 1 des Personalausweisgesetzes sind die folgenden Daten auf Veranlassung des Ausländers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät zu übermitteln und auch dort zu speichern:
+
+1. die Daten nach Absatz 1 Satz 3 Nummer 1, 2, 4, 5, 15 sowie nach Absatz 3 Satz 1 Nummer 5,
+
+2. die Dokumentenart,
+
+3. der letzte Tag der Gültigkeitsdauer des elektronischen Identitätsnachweises,
+
+4. die Abkürzung „D“ für die Bundesrepublik Deutschland und
+
+5. der im amtlichen Gemeindeverzeichnis verwendete eindeutige Gemeindeschlüssel.
 
 (4) Das elektronische Speicher- und Verarbeitungsmedium eines Dokuments nach Absatz 1 kann ausgestaltet werden als qualifizierte elektronische Signaturerstellungseinheit nach Artikel 3 Nummer 23 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73). Die Zertifizierung nach Artikel 30 der Verordnung (EU) Nr. 910/2014 erfolgt durch das Bundesamt für Sicherheit in der Informationstechnik. Die Vorschriften des Vertrauensdienstegesetzes bleiben unberührt.
 
-(5) Das elektronische Speicher- und Verarbeitungsmedium eines Dokuments nach Absatz 1 kann auch für die Zusatzfunktion eines elektronischen Identitätsnachweises genutzt werden. Insoweit sind § 2 Absatz 3 bis 7, 10 und 12, § 4 Absatz 3, § 7 Absatz 4 und 5, § 10 Absatz 1, 2 Satz 1, Absatz 3 bis 5, 6 Satz 1, Absatz 7, 8 Satz 1 und Absatz 9, § 11 Absatz 1 bis 5 und 7, § 12 Absatz 2 Satz 2, die §§ 13, 16, 18, 18a, 19 Absatz 1 und 3 bis 6, die §§ 19a, 20 Absatz 2 und 3, die §§ 21, 21a, 21b, 27 Absatz 2 und 3, § 32 Absatz 1 Nummer 5 und 6 mit Ausnahme des dort angeführten § 19 Absatz 2, Nummer 6a bis 8, Absatz 2 und 3 sowie § 33 Nummer 1, 2 und 4 des Personalausweisgesetzes mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt. Neben den in § 18 Absatz 3 Satz 2 des Personalausweisgesetzes aufgeführten Daten können im Rahmen des elektronischen Identitätsnachweises unter den Voraussetzungen des § 18 Absatz 4 des Personalausweisgesetzes auch die nach Absatz 3 Nummer 3 gespeicherten Nebenbestimmungen sowie die Abkürzung der Staatsangehörigkeit übermittelt werden. Für das Sperrkennwort und die Sperrmerkmale gilt Absatz 2 Satz 3 entsprechend.
+(5) Das elektronische Speicher- und Verarbeitungsmedium eines Dokuments nach Absatz 1 oder eines mobilen Endgeräts kann auch für die Zusatzfunktion eines elektronischen Identitätsnachweises genutzt werden. Insoweit sind § 2 Absatz 3 bis 7, 10, 12 und 13, § 4 Absatz 3, § 7 Absatz 3b, 4 und 5, § 10 Absatz 1 bis 5, 6 Satz 1, Absatz 7, 8 Satz 1 und Absatz 9, die §§ 10a, 11 Absatz 1 bis 5 und 7, § 12 Absatz 2 Satz 2, die §§ 13, 16, 18, 18a, 19 Absatz 1, 2 Satz 1 und 2 und Absatz 3 bis 6, die §§ 19a, 20 Absatz 2 und 3, die §§ 20a, 21, 21a, 21b, 27 Absatz 2 und 3, § 32 Absatz 1 Nummer 5 und 6 mit Ausnahme des dort angeführten § 19 Absatz 2 Nummer 6a bis 8, Absatz 2 und 3 sowie § 33 Nummer 1, 2 und 4 des Personalausweisgesetzes mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde und der Hersteller der Dokumente an die Stelle des Ausweisherstellers tritt. Neben den in § 18 Absatz 3 Satz 2 des Personalausweisgesetzes aufgeführten Daten können im Rahmen des elektronischen Identitätsnachweises unter den Voraussetzungen des § 18 Absatz 4 des Personalausweisgesetzes auch die nach Absatz 3 Nummer 3 gespeicherten Nebenbestimmungen sowie die Abkürzung der Staatsangehörigkeit übermittelt werden. Für das Sperrkennwort und die Sperrmerkmale gilt Absatz 2 Satz 3 entsprechend.
 
 (6) Die mit der Ausführung dieses Gesetzes betrauten oder zur hoheitlichen Identitätsfeststellung befugten Behörden dürfen die in der Zone für das automatische Lesen enthaltenen Daten zur Erfüllung ihrer gesetzlichen Aufgaben verarbeiten.
 

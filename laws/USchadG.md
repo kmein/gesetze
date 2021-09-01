@@ -11,11 +11,11 @@ Im Sinne dieses Gesetzes sind
 
 1. Umweltschaden:
 
-a) eine Schädigung von Arten und natürlichen Lebensräumen nach Maßgabe des § 19 des Bundesnaturschutzgesetzes,
+a) eine Schädigung von Arten und natürlichen Lebensräumen nach Maßgabe des § 19 des Bundesnaturschutzgesetzes,
 
 b) eine Schädigung der Gewässer nach Maßgabe des § 90 des Wasserhaushaltsgesetzes,
 
-c) eine Schädigung des Bodens durch eine Beeinträchtigung der Bodenfunktionen im Sinn des § 2 Abs. 2 des Bundes-Bodenschutzgesetzes, die durch eine direkte oder indirekte Einbringung von Stoffen, Zubereitungen, Organismen oder Mikroorganismen auf, in oder unter den Boden hervorgerufen wurde und Gefahren für die menschliche Gesundheit verursacht;
+c) eine Schädigung des Bodens durch eine Beeinträchtigung der Bodenfunktionen im Sinn des § 2 Absatz 2 des Bundes-Bodenschutzgesetzes, die durch eine direkte oder indirekte Einbringung von Stoffen, Zubereitungen, Organismen oder Mikroorganismen auf, in oder unter den Boden hervorgerufen wurde und Gefahren für die menschliche Gesundheit verursacht;
 
 2. Schaden oder Schädigung: eine direkt oder indirekt eintretende feststellbare nachteilige Veränderung einer natürlichen Ressource (Arten und natürliche Lebensräume, Gewässer und Boden) oder Beeinträchtigung der Funktion einer natürlichen Ressource;
 
@@ -103,15 +103,15 @@ Ist ein Umweltschaden eingetreten, hat der Verantwortliche
 
 # § 9 – Kosten der Vermeidungs- und Sanierungsmaßnahmen
 
-(1) Der Verantwortliche trägt vorbehaltlich von Ansprüchen gegen die Behörden oder Dritte die Kosten der Vermeidungs-, Schadensbegrenzungs- und Sanierungsmaßnahmen. Für die Ausführung dieses Gesetzes durch Landesbehörden erlassen die Länder die zur Umsetzung der Richtlinie 2004/35/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden (ABl. EU Nr. L 143 S. 56) notwendigen Kostenregelungen, Regelungen über Kostenbefreiungen und Kostenerstattungen; dabei können die Länder insbesondere vorsehen, dass der Verantwortliche unter den Voraussetzungen des Artikels 8 Abs. 4 der Richtlinie 2004/35/EG die Kosten der durchgeführten Sanierungsmaßnahmen nicht zu tragen hat. Dabei berücksichtigen die Länder die besondere Situation der Landwirtschaft bei der Anwendung von Pflanzenschutzmitteln. Die Behörde ist befugt, ein Verfahren zur Kostenerstattung bis zu fünf Jahre ab dem Zeitpunkt des Abschlusses der Maßnahme oder der Ermittlung des Kostenschuldners einzuleiten, wobei diese Frist ab dem jeweils späteren Zeitpunkt beginnt; Rechtsvorschriften der Länder, die längere oder keine Fristen vorsehen, bleiben unberührt.
+(1) Der Verantwortliche trägt vorbehaltlich von Ansprüchen gegen die Behörden oder Dritte die Kosten der Vermeidungs-, Schadensbegrenzungs- und Sanierungsmaßnahmen. Für die Ausführung dieses Gesetzes durch Landesbehörden erlassen die Länder die zur Umsetzung der Richtlinie 2004/35/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden (ABl. L 143 S. 56) notwendigen Kostenregelungen, Regelungen über Kostenbefreiungen und Kostenerstattungen; dabei können die Länder insbesondere vorsehen, dass der Verantwortliche unter den Voraussetzungen des Artikels 8 Absatz 4 der Richtlinie 2004/35/EG die Kosten der durchgeführten Sanierungsmaßnahmen nicht zu tragen hat. Dabei berücksichtigen die Länder die besondere Situation der Landwirtschaft bei der Anwendung von Pflanzenschutzmitteln. Die Behörde ist befugt, ein Verfahren zur Kostenerstattung bis zu fünf Jahre ab dem Zeitpunkt des Abschlusses der Maßnahme oder der Ermittlung des Kostenschuldners einzuleiten, wobei diese Frist ab dem jeweils späteren Zeitpunkt beginnt; Rechtsvorschriften der Länder, die längere oder keine Fristen vorsehen, bleiben unberührt.
 
-(2) Mehrere Verantwortliche haben unabhängig von ihrer Heranziehung untereinander einen Ausgleichsanspruch. Soweit nichts anderes vereinbart wird, hängt die Verpflichtung zum Ausgleich sowie der Umfang des zu leistenden Ausgleichs davon ab, inwieweit die Gefahr oder der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist; § 426 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung. Der Ausgleichsanspruch verjährt in drei Jahren; die §§ 438, 548 und 606 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden. Die Verjährung beginnt nach der Beitreibung der Kosten, wenn die zuständige Behörde selbst ausführt, im Übrigen nach der Beendigung der Maßnahmen durch den Verantwortlichen zu dem Zeitpunkt, zu dem der Verantwortliche von der Person des Ersatzpflichtigen Kenntnis erlangt. Der Ausgleichsanspruch verjährt ohne Rücksicht auf diese Kenntnis 30 Jahre nach Beendigung der Maßnahme. Für Streitigkeiten steht der Rechtsweg vor den ordentlichen Gerichten offen.
+(2) Mehrere Verantwortliche haben unabhängig von ihrer Heranziehung untereinander einen Ausgleichsanspruch. Soweit nichts anderes vereinbart wird, hängt die Verpflichtung zum Ausgleich sowie der Umfang des zu leistenden Ausgleichs davon ab, inwieweit die Gefahr oder der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist; § 426 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung. Der Ausgleichsanspruch verjährt in drei Jahren; die §§ 438, 548 und 606 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden. Die Verjährung beginnt nach der Beitreibung der Kosten, wenn die zuständige Behörde selbst ausführt, im Übrigen nach der Beendigung der Maßnahmen durch den Verantwortlichen zu dem Zeitpunkt, zu dem der Verantwortliche von der Person des Ersatzpflichtigen Kenntnis erlangt. Der Ausgleichsanspruch verjährt ohne Rücksicht auf diese Kenntnis 30 Jahre nach Beendigung der Maßnahme. Für Streitigkeiten steht der Rechtsweg vor den ordentlichen Gerichten offen.
 
 (3) Dieses Gesetz berührt nicht das Recht des Verantwortlichen, seine Haftung nach § 611 Absatz 1, 4 und 5, den §§ 612 bis 617 des Handelsgesetzbuchs oder nach den §§ 4 bis 5n des Binnenschifffahrtsgesetzes zu beschränken.
 
 # § 10 – Aufforderung zum Tätigwerden
 
-Die zuständige Behörde wird zur Durchsetzung der Sanierungspflichten nach diesem Gesetz von Amts wegen tätig oder, wenn ein Betroffener oder eine Vereinigung, die nach § 11 Abs. 2 Rechtsbehelfe einlegen kann, dies beantragt und die zur Begründung des Antrags vorgebrachten Tatsachen den Eintritt eines Umweltschadens glaubhaft erscheinen lassen.
+Die zuständige Behörde wird zur Durchsetzung der Sanierungspflichten nach diesem Gesetz von Amts wegen tätig oder, wenn ein von einem Umweltschaden Betroffener oder wahrscheinlich Betroffener oder eine Vereinigung, die nach § 11 Absatz 2 Rechtsbehelfe einlegen kann, dies beantragt und die zur Begründung des Antrags vorgebrachten Tatsachen den Eintritt eines Umweltschadens glaubhaft erscheinen lassen.
 
 # § 11 – Rechtsschutz
 
@@ -127,17 +127,33 @@ Die zuständige Behörde wird zur Durchsetzung der Sanierungspflichten nach dies
 
 (3) Stellt eine zuständige Behörde einen Umweltschaden fest, der nicht innerhalb des Geltungsbereichs dieses Gesetzes, sondern im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union verursacht wurde, so kann sie Empfehlungen für die Durchführung von Vermeidungs-, Schadensbegrenzungs- oder Sanierungsmaßnahmen geben und sich um die Erstattung der ihr im Zusammenhang mit der Durchführung dieser Maßnahmen angefallenen Kosten bemühen.
 
+# § 12a – Vorbereitung der Berichterstattung an die Europäische Kommission
+
+(1) Die zuständigen Behörden der Länder teilen dem für Umweltschutz zuständigen Bundesministerium erstmals bis zum 31. Dezember 2021 und sodann jährlich bis zum 31. Dezember des jeweiligen Jahres zu jedem Fall eines Umweltschadens im Sinne dieses Gesetzes in ihrem Zuständigkeitsbereich folgende Angaben mit:
+
+1. die Art des Umweltschadens im Sinne von § 2 Nummer 1 Buchstabe a bis c;
+
+2. den Ort des Umweltschadens oder die örtlich zuständige Behörde;
+
+3. das Datum des Eintretens oder der Aufdeckung des Umweltschadens;
+
+4. soweit einschlägig die Beschreibung der Tätigkeit oder Tätigkeiten nach Anlage 1, durch die der Umweltschaden verursacht wurde.
+
+(2) Sofern verfügbar, sind ebenfalls sonstige relevante Informationen über die bei der Durchführung dieses Gesetzes gewonnenen Erfahrungen mitzuteilen.
+
 # § 13 – Zeitliche Begrenzung der Anwendung
 
 (1) Dieses Gesetz gilt nicht für Schäden, die durch Emissionen, Ereignisse oder Vorfälle verursacht wurden, die vor dem 30. April 2007 stattgefunden haben, oder die auf eine bestimmte Tätigkeit zurückzuführen sind, die vor dem genannten Zeitpunkt geendet hat.
 
-(2) Dieses Gesetz gilt nicht für Schäden, die vor mehr als 30 Jahre verursacht wurden, wenn in dieser Zeit keine Behörde Maßnahmen gegen den Verantwortlichen ergriffen hat.
+(2) Dieses Gesetz gilt nicht für Schäden, die vor mehr als 30 Jahren verursacht wurden, wenn in dieser Zeit keine Behörde Maßnahmen gegen den Verantwortlichen ergriffen hat.
 
 # § 14 – Übergangsvorschrift zu Anlage 1
 
-Für Verbringungen von Abfällen, die Artikel 62 Abs. 1 der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen unterliegen, ist § 3 Abs. 1 in Verbindung mit Anlage 1 (zu § 3 Abs. 1) Nr. 12 in der Fassung von Artikel 1 des Gesetzes zur Umsetzung der Richtlinie des Europäischen Parlaments und des Rates über die Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden vom 10. Mai 2007 (BGBl. I S. 666) anzuwenden.
+Für Verbringungen von Abfällen, die Artikel 62 Absatz 1 der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen unterliegen, ist § 3 Absatz 1 in Verbindung mit Anlage 1 (zu § 3 Absatz 1) Nummer 12 in der Fassung von Artikel 1 des Gesetzes zur Umsetzung der Richtlinie des Europäischen Parlaments und des Rates über die Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden vom 10. Mai 2007 (BGBl. I S. 666) anzuwenden.
 
-# Anlage 1 – (zu § 3 Abs. 1)Berufliche Tätigkeiten
+# Anlage 1 – (zu § 3 Absatz 1)Berufliche Tätigkeiten
+
+(Fundstelle: BGBl. I 2021, 350)
 
 1. Betrieb von Anlagen, für den eine Genehmigung gemäß der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17) erforderlich ist. Dies umfasst alle in Anhang I der Richtlinie 2010/75/EU aufgeführten Tätigkeiten, mit Ausnahme von Anlagen oder Anlagenteilen, die für Zwecke der Forschung, Entwicklung und Prüfung neuer Erzeugnisse und Verfahren genutzt werden.
 
@@ -155,21 +171,21 @@ Diese Maßnahmen umfassen unter anderem den Betrieb von Deponien, die gemäß §
 
 7. Herstellung, Verwendung, Lagerung, Verarbeitung, Abfüllen, Freisetzung in die Umwelt und innerbetriebliche Beförderung von
 
-a) gefährlichen Stoffen im Sinn des § 3a Abs. 1 des Chemikaliengesetzes (ChemG);
+a) gefährlichen Stoffen im Sinne des § 3a Absatz 1 des Chemikaliengesetzes (ChemG);
 
-b) gefährlichen Zubereitungen im Sinn des § 3a Abs. 1 ChemG;
+b) gefährlichen Zubereitungen im Sinne des § 3a Absatz 1 ChemG;
 
-c) Pflanzenschutzmittel im Sinn des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1);
+c) Pflanzenschutzmittel im Sinne des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1);
 
 d) Biozid-Produkten im Sinn des Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1).
 
-8. Beförderung gefährlicher oder umweltschädlicher Güter auf der Straße, auf der Schiene, auf Binnengewässern, auf See oder in der Luft gemäß der Definition in § 2 Nr. 9 der Gefahrgutverordnung Straße und Eisenbahn oder der Definition in den Nummern 1.3 und 1.4 der Anlage zu § 1 Abs. 1 der Anlaufbedingungsverordnung.
+8. Beförderung gefährlicher oder umweltschädlicher Güter auf der Straße, auf der Schiene, auf Binnengewässern, auf See oder in der Luft gemäß der Definition in § 2 Nummer 7 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt oder der Definition in den Nummern 1.3 und 1.4 der Anlage zu § 1 Absatz 1 der Anlaufbedingungsverordnung.
 
 9. (weggefallen)
 
-10. Gentechnische Arbeiten gemäß der Definition in § 3 Nr. 2 des Gentechnikgesetzes (GenTG) an Mikroorganismen in gentechnischen Anlagen gemäß der Definition in § 3 Nr. 4 GenTG sowie der außerbetriebliche Transport gentechnisch veränderter Mikroorganismen.
+10. Gentechnische Arbeiten gemäß der Definition in § 3 Nummer 2 des Gentechnikgesetzes (GenTG) an Mikroorganismen in gentechnischen Anlagen gemäß der Definition in § 3 Nummer 4 GenTG sowie der außerbetriebliche Transport gentechnisch veränderter Mikroorganismen.
 
-11. Jede absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt gemäß der Definition in § 3 Nr. 5 erster Halbsatz GenTG sowie der Transport und das Inverkehrbringen gemäß der Definition in § 3 Nr. 6 GenTG dieser Organismen.
+11. Jede absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt gemäß der Definition in § 3 Nummer 5 erster Halbsatz GenTG sowie der Transport und das Inverkehrbringen gemäß der Definition in § 3 Nummer 6 GenTG dieser Organismen.
 
 12. Grenzüberschreitende Verbringung von Abfällen in der, in die oder aus der Europäischen Union, für die eine Zustimmungspflicht oder ein Verbot im Sinne der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen besteht.
 
@@ -177,7 +193,9 @@ d) Biozid-Produkten im Sinn des Artikel 3 Absatz 1 Buchstabe a der Verordnung (E
 
 14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-Speicherungsgesetzes.
 
-# Anlage 2 – (zu § 3 Abs. 3 Nr. 3)  Internationale Abkommen
+# Anlage 2 – (zu § 3 Absatz 3 Nummer 3)Internationale Abkommen
+
+(Fundstelle: BGBl. I 2021, 351)
 
 a) Internationales Übereinkommen vom 27. November 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (Haftungsübereinkommen von 1992, BGBl. 1996 II S. 670);
 
@@ -189,7 +207,9 @@ d) Internationales Übereinkommen vom 3. Mai 1996 über Haftung und Entschädigu
 
 e) Übereinkommen vom 10. Oktober 1989 über die zivilrechtliche Haftung für die während des Transports gefährlicher Güter auf dem Straßen-, Schienen- und Binnenschifffahrtsweg verursachten Schäden.
 
-# Anlage 3 – (zu § 3 Abs. 3 Nr. 5)  Internationale Übereinkünfte
+# Anlage 3 – (zu § 3 Absatz 3 Nummer 5)Internationale Übereinkünfte
+
+(Fundstelle: BGBl. I 2021, 352)
 
 a) Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie und Brüsseler Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie (BGBl. 1975 II S. 957);
 

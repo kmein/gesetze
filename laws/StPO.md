@@ -4009,8 +4009,6 @@ Kommen Auflagen oder Weisungen (§§ 56b, 56c, 59a Abs. 2 des Strafgesetzbuches)
 
 (3) Das Urteil soll am Schluß der Verhandlung verkündet werden. Es muß spätestens zwei Wochen danach verkündet werden, andernfalls mit der Hauptverhandlung von neuem zu beginnen ist. § 229 Absatz 3, 4 Satz 2 und Absatz 5 gilt entsprechend.
 
-(4) (weggefallen)
-
 # § 268a – Aussetzung der Vollstreckung von Strafen oder Maßregeln zur Bewährung
 
 (1) Wird in dem Urteil die Strafe zur Bewährung ausgesetzt oder der Angeklagte mit Strafvorbehalt verwarnt, so trifft das Gericht die in den §§ 56a bis 56d und 59a des Strafgesetzbuches bezeichneten Entscheidungen durch Beschluß; dieser ist mit dem Urteil zu verkünden.

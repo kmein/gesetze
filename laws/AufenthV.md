@@ -1993,6 +1993,8 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des Aufenthaltsgesetzes als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten, Aufenthaltsdokumente-GB und Aufenthaltsdokumente für Grenzgänger-GB, die nach § 11 Absatz 3 Satz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, richten sich nach der Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits auf Antrag als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt. Aufenthaltstitel nach § 78 Absatz 1 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 4 des Aufenthaltsgesetzes, die gemäß dem bis zum 1. Dezember 2013 zu verwendenden Muster der Anlage D14a ausgestellt wurden, behalten ihre Gültigkeit.
 
+(2a) Auf Antrag des Ausländers wird bei Dokumenten nach Absatz 2 Satz 1 und Satz 2 durch die zuständige Ausländerbehörde entweder bei Ausgabe des Dokuments oder zu einem späteren Zeitpunkt ein Aufkleber mit Brailleschrift nach Anlage D17 auf dem Dokument angebracht.
+
 (3) Die Muster für Vordrucke der Aufenthaltstitel nach § 4 Absatz 1 Nummer 2 bis 4 des Aufenthaltsgesetzes richten sich im Fall des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr. 1030/2002. Sie sind in Anlage D14 abgedruckt. Bei der Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt – EU, der Blauen Karte EU, der ICT-Karte, der Mobiler-ICT-Karte und der Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung maßgebliche Rechtsgrundlage einzutragen. Bei Inhabern der Blauen Karte EU ist bei Erteilung der Erlaubnis zum Daueraufenthalt – EU im Feld für Anmerkungen „Ehem. Inh. der Blauen Karte EU“ einzutragen. Für die Erlaubnis zum Daueraufenthalt – EU kann im Falle des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes der Vordruck der Anlage D14 mit der Bezeichnung „Daueraufenthalt-EG“ weiterverwendet werden.
 
 (4) In einer Aufenthaltserlaubnis, die nach § 18d Absatz 1 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Forscher“ eingetragen. In einer Aufenthaltserlaubnis, die nach § 18f des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach den Anlagen D11 und D11a oder in dem Trägervordruck nach der Anlage D1 wird der Vermerk „Forscher-Mobilität“ eingetragen.
@@ -2117,7 +2119,7 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 # § 61h – Anwendung der Personalausweisverordnung
 
-(1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78 Absatz 5 des Aufenthaltsgesetzes sind die §§ 1 bis 4, 5 Absatz 2, 3 und 4 Satz 1 bis 4, die §§ 10, 13 bis 17, 18 Absatz 1, 2 und 4, die §§ 20, 21, 22 Absatz 1 Satz 1, Absatz 2 Satz 1 und 4, Absatz 3, die §§ 23, 24, 25 Absatz 1, 2 Satz 1, Absatz 3, § 26 Absatz 1 und 3 sowie die §§ 27 bis 36 der Personalausweisverordnung mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt.
+(1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78 Absatz 5 des Aufenthaltsgesetzes sind die §§ 1, 2 mit Ausnahme von Satz 1 Nummer 2 Buchstabe e und f, die §§ 3 und 4, 5 Absatz 2, 3 und 4 Satz 1 bis 4, die §§ 10, 13 bis 17, 18 Absatz 1, 2 und 4, § 20 Absatz 1, 3 und 4 Satz 1, die §§ 21 bis 25 Absatz 1, 2 Satz 1, Absatz 3, die §§ 25a und 26 Absatz 1 und 3 sowie die §§ 26a bis 36a der Personalausweisverordnung mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt.
 
 (2) Die Nutzung des elektronischen Identitätsnachweises ist ausgeschlossen, wenn die Identität des Ausländers durch die Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 
@@ -3644,14 +3646,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 # Anlage D14 – Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz
 
-(Fundstelle: BGBl. I 2019, 2586 — 2588)
+(Fundstelle: BGBl. I 2019, 2586 — 2588;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Klebeetiketten –
 
 # Anlage D14a – Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
-(Fundstelle: BGBl. I 2019, 2588 - 2593;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2021, 3694 - 3703)
 
 – Vorderseite –
 
@@ -3693,13 +3695,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Rückseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0030.jpg)
+– Vorderseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0040.jpg)
+– Rückseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0050.jpg)
+– Vorderseite –
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0060.jpg)
+– Rückseite –
+
+– Vorderseite –
+
+– Rückseite –
+
+– Vorderseite –
+
+– Rückseite –
 
 # Anlage D15 – Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)
 
@@ -3716,3 +3726,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0210.jpg)
 
  
+
+# Anlage D17 – Muster für den Aufkleber mit Brailleschrift
+
+(Fundstelle: BGBl. I 2021, 3703)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0400.jpg)
