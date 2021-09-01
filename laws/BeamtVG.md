@@ -1897,8 +1897,6 @@ Für die Anwendung dieses Abschnitts gelten
 
 die Empfänger dieser Versorgungsbezüge gelten als Ruhestandsbeamte, Witwen oder Waisen.
 
-§ 63 Eingangssatz: IdF d. Art. 9 Nr. 41 Buchst. a G v. 9.12.2019 I 2053 mWv 1.1.2020 (Kursivdruck: Änderungsbefehl müsste lauten: 'In dem Satzteil vor Nummer 1 wird die Angabe "des Abschnitts VII ..."')
-
 # § 64 – Entzug von Hinterbliebenenversorgung
 
 (1) Die oberste Dienstbehörde kann Empfängern von Hinterbliebenenversorgung die Versorgungsbezüge auf Zeit teilweise oder ganz entziehen, wenn sie sich gegen die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes betätigt haben; § 41 gilt sinngemäß. Die diese Maßnahme rechtfertigenden Tatsachen sind in einem Untersuchungsverfahren festzustellen, in dem die eidliche Vernehmung von Zeugen und Sachverständigen zulässig und der Versorgungsberechtigte zu hören ist.

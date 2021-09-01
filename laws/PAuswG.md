@@ -39,23 +39,25 @@
 
 2. die Übermittlung personen- und ausweisbezogener Daten aus dem Personalausweis anzufragen.
 
-(5) Ein dienste- und kartenspezifisches Kennzeichen ist eine Zeichenfolge, die im Speicher- und Verarbeitungsmedium des Personalausweises berechnet wird. Es dient der eindeutigen elektronischen Wiedererkennung eines Personalausweises durch den Diensteanbieter, für den es errechnet wurde, ohne dass weitere personenbezogene Daten übermittelt werden müssen.
+(5) Ein dienste- und kartenspezifisches Kennzeichen ist eine Zeichenfolge, die im Speicher- und Verarbeitungsmedium des Personalausweises oder eines mobilen Endgeräts berechnet wird. Es dient der eindeutigen elektronischen Wiedererkennung eines elektronischen Identitätsnachweises mit dem Personalausweis oder mit einem mobilen Endgerät durch den Diensteanbieter, für den es errechnet wurde, ohne dass weitere personenbezogene Daten übermittelt werden müssen.
 
-(6) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung von Personalausweisen mit elektronischem Identitätsnachweis dient.
+(6) Das Sperrkennwort ist eine Zeichenfolge, die ausschließlich der Sperrung eines elektronischen Identitätsnachweises dient.
 
 (6a) Die Sperrsumme ist ein eindeutiges Merkmal, das aus dem Sperrkennwort, dem Familiennamen, den Vornamen und dem Tag der Geburt eines Ausweisinhabers errechnet wird. Es dient der Übermittlung einer Sperrung vom Sperrnotruf oder einer Personalausweisbehörde an den Sperrlistenbetreiber. Mithilfe der Sperrsumme ermittelt der Sperrlistenbetreiber anhand der Referenzliste den Sperrschlüssel eines zu sperrenden elektronischen Identitätsnachweises.
 
-(7) Sperrmerkmale eines Personalausweises sind dienste- und kartenspezifische Zeichenfolgen, die ausschließlich der Erkennung abhandengekommener Personalausweise durch den Diensteanbieter dienen, für den sie errechnet wurden.
+(7) Sperrmerkmale eines elektronischen Identitätsnachweises mit dem Personalausweis oder mit einem mobilen Endgerät sind dienste- und kartenspezifische Zeichenfolgen, die ausschließlich der Erkennung abhandengekommener Personalausweise oder mobiler Endgeräte durch den Diensteanbieter dienen, für den sie errechnet wurden.
 
 (8) Jeder Ausweis erhält eine neue Seriennummer. Die Seriennummer eines Personalausweises setzt sich aus einer vierstelligen Behördenkennzahl und einer fünfstelligen, zufällig vergebenen Nummer zusammen und kann Ziffern und Buchstaben enthalten. Die Seriennummer des vorläufigen Personalausweises und des Ersatz-Personalausweises besteht aus einem Buchstaben und sieben Ziffern.
 
 (9) Die Prüfziffern werden aus den Daten des maschinenlesbaren Bereichs errechnet und dienen zur Feststellung seiner Unversehrtheit.
 
-(10) Die Geheimnummer besteht aus einer sechsstelligen Ziffernfolge und dient der Freigabe der Datenübermittlung aus dem Personalausweis im Rahmen des elektronischen Identitätsnachweises.
+(10) Die Geheimnummer besteht aus einer sechsstelligen Ziffernfolge und dient der Freigabe der Datenübermittlung aus dem Personalausweis oder aus einem mobilen Endgerät im Rahmen des elektronischen Identitätsnachweises.
 
 (11) Die Zugangsnummer ist eine zufällig erzeugte, ausschließlich auf der Karte sichtbar aufgebrachte sechsstellige Ziffernfolge, die zur Absicherung gegen unberechtigten Zugriff auf die Kommunikation zwischen Personalausweis und Lesegeräten dient.
 
 (12) Die Entsperrnummer ist eine zufällig erzeugte Ziffernfolge, die die Freischaltung der Geheimnummer ermöglicht, wenn diese nach dreimaliger Fehleingabe gesperrt worden ist.
+
+(13) Im Sinne dieses Gesetzes ist ein mobiles Endgerät ein solches Gerät, das dem Stand der Technik entspricht, um einen elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 2 durchführen zu können.
 
 # § 3 – Vorläufiger Personalausweis
 
@@ -147,11 +149,25 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (5) Der Personalausweis enthält ein elektronisches Speicher- und Verarbeitungsmedium, auf dem folgende Daten gespeichert werden:
 
-1. die Daten nach Absatz 2 Nr. 1 bis 5, 9 und 12,
+1. die Daten nach Absatz 2 Nummer 1 bis 5, 9, 10 und 12,
+
+1a. der im amtlichen Gemeindeverzeichnis verwendete eindeutige Gemeindeschlüssel,
 
 2. die Daten des maschinenlesbaren Bereichs nach Absatz 4 Satz 2 und
 
 3. die Fingerabdrücke nach Absatz 9, die Bezeichnung der erfassten Finger, die Angaben zur Qualität der Abdrücke.
+
+(5a) Zur Einrichtung eines elektronischen Identitätsnachweises nach § 10a Absatz 1 Satz 1 dürfen auf einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät folgende Daten gespeichert werden:
+
+1. die Daten nach Absatz 2 Nummer 1 bis 4, 9, 10 und 12,
+
+2. die Dokumentenart,
+
+3. der letzte Tag der Gültigkeitsdauer des elektronischen Identitätsnachweises,
+
+4. die Abkürzung „D“ für Bundesrepublik Deutschland und
+
+5. der im amtlichen Gemeindeverzeichnis verwendete eindeutige Gemeindeschlüssel.
 
 (6) Die gespeicherten Daten sind gegen unbefugtes Verändern, Löschen und Auslesen zu sichern.
 
@@ -161,11 +177,11 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (9) Die auf Grund der Verordnung (EU) 2019/1157 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Erhöhung der Sicherheit der Personalausweise von Unionsbürgern und der Aufenthaltsdokumente, die Unionsbürgern und deren Familienangehörigen ausgestellt werden, die ihr Recht auf Freizügigkeit ausüben (ABl. L 188 vom 12.7.2019, S. 67), auf dem elektronischen Speichermedium zu speichernden zwei Fingerabdrücke der antragstellenden Person werden in Form des flachen Abdrucks des linken und rechten Zeigefingers im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
 
-(10) Die im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten ermöglichen auch die Funktion des elektronischen Identitätsnachweises nach § 18.
+(10) Die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder eines mobilen Endgeräts gespeicherten Daten ermöglichen auch die Funktion des elektronischen Identitätsnachweises nach § 18.
 
 (+++ Hinweis: Die Einfügung des Art. 6 Abs. 3 Nr. 2 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. b G v. 20.11.2019 I 1626 (Neuregelung des Inkrafttretens d. Art. 3 G v. 21.6.2019 I 846 zum 1.11.2019) ist nicht ausführbar, da Art. 3 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-# § 6 – Gültigkeitsdauer; vorzeitige Beantragung; räumliche Beschränkungen
+# § 6 – Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen
 
 (1) Personalausweise werden für eine Gültigkeitsdauer von zehn Jahren ausgestellt.
 
@@ -215,6 +231,8 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (3a) Für das elektronisch beantragte Neusetzen der Geheimnummer sowie für die elektronische Beantragung des nachträglichen Einschaltens der Funktion zum elektronischen Identitätsnachweis ist der Ausweishersteller zuständig.
 
+(3b) Für die Übermittlung von Daten nach § 5 Absatz 5a aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät nach § 10a Absatz 1 sowie für die Auskunft nach § 10a Absatz 5 ist der Ausweishersteller zuständig.
+
 (4) Für die Erteilung und Aufhebung von Berechtigungen nach § 21 ist die Vergabestelle für Berechtigungszertifikate nach § 4 Abs. 3 zuständig. Für das Führen einer Sperrliste nach § 10 Abs. 4 Satz 1 ist der Sperrlistenbetreiber nach § 4 Abs. 3 zuständig.
 
 (5) Für Diensteanbieter in Deutschland sind die für die Einhaltung der Vorgaben des Datenschutzes zuständigen Stellen zuständig. Haben Diensteanbieter ihren Wohn-, Geschäfts- oder Dienstsitz nicht in Deutschland, so ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zuständige Datenschutzaufsichtsbehörde im Sinne des § 21 Absatz 4 Satz 3.
@@ -243,7 +261,7 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (6) Für Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes werden nach Maßgabe des § 6a Ersatz-Personalausweise von Amts wegen ausgestellt. Absatz 1 Satz 2 bis 6, Absatz 2 Satz 3, Absatz 3 Satz 1 bis 3 sowie die Absätze 4 und 5 gelten entsprechend.
 
-# § 10 – Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises
+# § 10 – Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises mit dem Personalausweis
 
 (1) Der Personalausweis wird mit einer Funktion zum elektronischen Identitätsnachweis nach § 18 ausgegeben.
 
@@ -269,13 +287,25 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (9) Der Zeitpunkt der Meldung des Abhandenkommens eines Ausweises ist von der Personalausweisbehörde oder Polizeibehörde zu dokumentieren und der ausstellenden Personalausweisbehörde mitzuteilen.
 
+# § 10a – Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+
+(1) Auf elektronische Veranlassung durch den Ausweisinhaber übermittelt der Ausweishersteller die Daten nach § 5 Absatz 5a aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises in einem sicheren Verfahren auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät. Der Ausweisinhaber weist seine Identität gegenüber dem Ausweishersteller mit einem elektronischen Identitätsnachweis nach § 18 nach. Ferner hat der Ausweishersteller Maßnahmen gegen eine missbräuchliche Verwendung der Daten im Anschluss an die Übermittlung der Daten auf das elektronische Speicher- und Verarbeitungsmedium in dem mobilen Endgerät vorzusehen. Der Ausweisinhaber ist auf seine Pflichten nach § 27 Absatz 2 sowie darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der in seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist.
+
+(2) Die Gültigkeitsdauer eines elektronischen Identitätsnachweises nach § 18 Absatz 2 Satz 1 Nummer 2 auf Grundlage einer Übermittlung der Daten nach Absatz 1 beträgt fünf Jahre. Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig. Durch Rechtsverordnung nach § 34 Satz 1 Nummer 8a kann eine kürzere Gültigkeitsdauer festgelegt werden. Eine Übermittlung nach Absatz 1 Satz 1 kann mehrfach durchgeführt werden.
+
+(3) Im Zuge der Übermittlung nach Absatz 1 Satz 1 erzeugt der Ausweishersteller einen neuen Sperrschlüssel sowie eine neue Sperrsumme und übermittelt diese Daten sowie den letzten Tag der Gültigkeit an den Sperrlistenbetreiber. § 10 Absatz 4 und Absatz 6 Satz 1 gilt entsprechend. Der Ausweisinhaber kann die Daten auf dem mobilen Endgerät selbst löschen.
+
+(4) Werden die auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endgeräts übermittelten Daten nach Absatz 1 Satz 1 unrichtig, darf ein elektronischer Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 2 nicht durchgeführt werden. Vor einer weiteren Nutzung ist erneut eine Übermittlung nach Absatz 1 unter Verwendung des elektronischen Speicher- und Verarbeitungsmediums des Personalausweises mit den richtigen Daten durchzuführen.
+
+(5) Auf elektronischen Antrag des Ausweisinhabers hat der Ausweishersteller diesem Auskunft zu erteilen darüber, jeweils zu welchem Datum und zu welcher Uhrzeit eine Übermittlung nach Absatz 1 Satz 1 der Daten des Personalausweises des Ausweisinhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät durchgeführt wurde, sowie über jeweils den letzten Tag der Gültigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Zur Identifizierung der antragstellenden Person hat der Ausweishersteller zur Person des Ausweisinhabers einen elektronischen Identitätsnachweis nach § 18 durchzuführen.
+
 # § 11 – Informationspflichten
 
-(1) Auf Verlangen des Personalausweisinhabers hat die Personalausweisbehörde ihm Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium gespeicherten auslesbaren Daten zu gewähren.
+(1) Auf Verlangen des Personalausweisinhabers hat die Personalausweisbehörde ihm Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten auslesbaren Daten zu gewähren.
 
 (2) (weggefallen)
 
-(3) Die Personalausweisbehörde hat die antragstellende Person bei Antragstellung über den elektronischen Identitätsnachweis nach § 18 und das Vor-Ort-Auslesen nach § 18a sowie über Maßnahmen zu unterrichten, die erforderlich sind, um die Sicherheit der Nutzung des elektronischen Identitätsnachweises zu gewährleisten. Sie hat der antragstellenden Person die Übergabe von entsprechendem Informationsmaterial anzubieten, in dem auch auf die Möglichkeit einer Sperrung nach § 10 Absatz 6 hingewiesen wird.
+(3) Die Personalausweisbehörde hat die antragstellende Person bei Antragstellung über den elektronischen Identitätsnachweis nach § 18, einschließlich des elektronischen Identitätsnachweises mit einem mobilen Endgerät, und das Vor-Ort-Auslesen nach § 18a sowie über Maßnahmen zu unterrichten, die erforderlich sind, um die Sicherheit der Nutzung des elektronischen Identitätsnachweises zu gewährleisten. Sie hat der antragstellenden Person die Übergabe von entsprechendem Informationsmaterial anzubieten, in dem auch auf die Möglichkeit einer Sperrung nach § 10 Absatz 6 hingewiesen wird.
 
 (4) (weggefallen)
 
@@ -289,11 +319,11 @@ Bei einer Identitätsüberprüfung nach § 17 darf auch die aufgedruckte Zugangs
 
 (1) Die Datenübermittlung von den Personalausweisbehörden an den Ausweishersteller zum Zweck der Ausweisherstellung, insbesondere die Übermittlung sämtlicher Ausweisantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
-(2) Zur elektronischen Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke sowie zur Übermittlung der Ausweisdaten von der Personalausweisbehörde an den Ausweishersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach § 34 Nr. 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik gemäß der Rechtsverordnung nach § 34 Nr. 4 festzustellen.
+(2) Zur elektronischen Erfassung, Echtheitsbewertung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke sowie zur Übermittlung der Ausweisdaten von der Personalausweisbehörde an den Ausweishersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach § 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
 
 # § 13 – Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort
 
-Der Ausweishersteller übersendet antragstellenden Personen zum Zweck der Verwendung, Sperrung und Entsperrung des elektronischen Identitätsnachweises die Geheimnummer, die Entsperrnummer und das Sperrkennwort des Personalausweises. Die Geheimnummer wird auf einer von den sonstigen Unterlagen gesonderten Seite übermittelt. Soweit die antragstellende Person berechtigte Gründe darlegt, werden die Unterlagen nach Satz 1 an die Personalausweisbehörde übersandt, die den Personalausweis aushändigt. Diese stellt dem Ausweisinhaber die Unterlagen zur Verfügung. Die Personalausweisbehörde hat den Ausweisinhaber bei Antragstellung auf die Risiken dieses Verfahrens hinzuweisen.
+Der Ausweishersteller übersendet antragstellenden Personen zum Zweck der Verwendung, Sperrung und Entsperrung des elektronischen Identitätsnachweises mit dem Personalausweis die Geheimnummer, die Entsperrnummer und das Sperrkennwort. Die Geheimnummer wird auf einer von den sonstigen Unterlagen gesonderten Seite übermittelt. Soweit die antragstellende Person berechtigte Gründe darlegt, werden die Unterlagen nach Satz 1 an die Personalausweisbehörde übersandt, die den Personalausweis aushändigt. Diese stellt dem Ausweisinhaber die Unterlagen zur Verfügung. Die Personalausweisbehörde hat den Ausweisinhaber bei Antragstellung auf die Risiken dieses Verfahrens hinzuweisen.
 
 # § 14 – Erhebung und Verwendung personenbezogener Daten
 
@@ -325,11 +355,17 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 
 # § 18 – Elektronischer Identitätsnachweis
 
-(1) Der Personalausweisinhaber, der mindestens 16 Jahre alt ist, kann seinen Personalausweis dazu verwenden, seine Identität gegenüber öffentlichen und nichtöffentlichen Stellen elektronisch nachzuweisen. Dies gilt auch dann, wenn er für eine andere Person, ein Unternehmen oder eine Behörde handelt. Abweichend von Satz 1 ist der elektronische Identitätsnachweis ausgeschlossen, wenn die Voraussetzungen des § 3a Abs. 1 des Verwaltungsverfahrensgesetzes, des § 87a Abs. 1 Satz 1 der Abgabenordnung oder des § 36a Abs. 1 des Ersten Buches Sozialgesetzbuch nicht vorliegen.
+(1) Der Personalausweisinhaber, der mindestens 16 Jahre alt ist, kann den elektronischen Identitätsnachweis dazu verwenden, seine Identität gegenüber öffentlichen und nichtöffentlichen Stellen elektronisch nachzuweisen. Dies gilt auch dann, wenn er für eine andere Person, ein Unternehmen oder eine Behörde handelt. Abweichend von Satz 1 ist der elektronische Identitätsnachweis ausgeschlossen, wenn die Voraussetzungen des § 3a Abs. 1 des Verwaltungsverfahrensgesetzes, des § 87a Abs. 1 Satz 1 der Abgabenordnung oder des § 36a Abs. 1 des Ersten Buches Sozialgesetzbuch nicht vorliegen.
 
-(2) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises. Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten. Im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden. Die Nutzung des elektronischen Identitätsnachweises durch eine andere Person als den Personalausweisinhaber ist unzulässig.
+(2) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten
 
-(3) Das Sperrmerkmal und die Angabe, ob der Personalausweis gültig ist, sind zur Überprüfung, ob ein gesperrter oder abgelaufener Personalausweis vorliegt, immer zu übermitteln. Folgende weitere Daten können übermittelt werden:
+1. aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder
+
+2. aus einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endgerät.
+
+Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten. Im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden. Die Nutzung des elektronischen Identitätsnachweises durch eine andere Person als den Personalausweisinhaber ist unzulässig.
+
+(3) Das Sperrmerkmal und die Angabe, ob der elektronische Identitätsnachweis gültig ist, sind zur Überprüfung, ob ein gesperrter oder abgelaufener elektronischer Identitätsnachweis vorliegt, immer zu übermitteln. Folgende weitere Daten können übermittelt werden:
 
 1. Familienname,
 
@@ -345,7 +381,9 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 
 6. Anschrift,
 
-6a. Staatsangehörigkeit,
+6a. im amtlichen Gemeindeverzeichnis verwendeter eindeutiger Gemeindeschlüssel,
+
+6b. Staatsangehörigkeit,
 
 7. Dokumentenart,
 
@@ -361,7 +399,7 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 
 12. Ordensname, Künstlername.
 
-(4) Die Daten werden nur übermittelt, wenn der Diensteanbieter ein gültiges Berechtigungszertifikat an den Personalausweisinhaber übermittelt und dieser in der Folge seine Geheimnummer eingibt. Vor Eingabe der Geheimnummer durch den Personalausweisinhaber muss der Diensteanbieter dem Ausweisinhaber die Gelegenheit bieten, die folgenden Daten einzusehen:
+(4) Die Daten werden nur übermittelt, wenn der Diensteanbieter ein gültiges Berechtigungszertifikat an den Inhaber des elektronischen Identitätsnachweises übermittelt und dieser in der Folge seine Geheimnummer eingibt. Der Diensteanbieter muss dem Inhaber des elektronischen Identitätsnachweises vor dessen Eingabe der Geheimnummer die Gelegenheit bieten, die folgenden Daten einzusehen:
 
 1. Name, Anschrift und E-Mail-Adresse des Diensteanbieters,
 
@@ -391,7 +429,7 @@ Zur Identitätsfeststellung berechtigte Behörden dürfen die im elektronischen 
 
 2. vorübergehend beim Diensteanbieter zur Prüfung, ob der Personalausweis in den Sperrlisten nach § 10 Abs. 4 Satz 1 aufgeführt ist; die Daten sind nach der Prüfung unverzüglich zu löschen. Zur Ermöglichung auch wiederholter Prüfungen, ob der Personalausweis in den Sperrlisten nach § 10 Absatz 4 Satz 1 aufgeführt ist, erfolgt bei einem Diensteanbieter, der eine Identifizierung nach dem Geldwäschegesetz, der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73), dem Vertrauensdienstegesetz oder dem Telekommunikationsgesetz durchführt, abweichend hiervon die Löschung eines gespeicherten Sperrmerkmals erst nach Ablauf einer Frist von einer Woche ab dem Speicherbeginn.
 
-(2) Eine Speicherung des Sperrkennworts und der Sperrsumme ist ausschließlich im Personalausweisregister nach § 23 Abs. 3 Nr. 12 und im Melderegister zulässig.
+(2) Der Ausweishersteller speichert zur Durchführung des Auskunftsanspruchs nach § 10a Absatz 5 Satz 1 zu jeder Übermittlung nach § 10a Absatz 1 Satz 1 das dienste- und kartenspezifische Kennzeichen jeweils für das elektronische Speicher- und Verarbeitungsmedium des Personalausweises und des mobilen Endgeräts sowie das Datum und die Uhrzeit der Einrichtung, den letzten Tag der Gültigkeitsdauer, die Sperrsumme, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Die in Satz 1 genannten Daten sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer des elektronischen Identitätsnachweises mit einem mobilen Endgerät zu löschen. Im Übrigen ist eine Speicherung des Sperrkennworts und der Sperrsumme zum elektronischen Identitätsnachweis mit dem Personalausweis ausschließlich im Personalausweisregister nach § 23 Absatz 3 Nummer 12 und im Melderegister zulässig.
 
 (3) Eine zentrale, alle Sperrkennwörter oder alle Sperrmerkmale umfassende Speicherung ist unzulässig.
 
@@ -477,7 +515,7 @@ Um Ausweisdaten nach § 18a unter Anwesenden vor Ort auslesen zu dürfen, benöt
 
 1. durch technisch-organisatorische Maßnahmen die Einhaltung der in § 19a enthaltenen Vorgaben gewährleistet und
 
-2. die weiteren Anforderungen an Datenschutz und Datensicherheit nach der Rechtsverordnung nach § 34 Nummer 7 erfüllt.
+2. die weiteren Anforderungen an Datenschutz und Datensicherheit nach der Rechtsverordnung nach § 34 Satz 1 Nummer 7 erfüllt.
 
 Im Übrigen gilt § 21 entsprechend.
 
@@ -529,7 +567,7 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 16. Angaben zur Erklärungspflicht des Ausweisinhabers nach § 29 des Staatsangehörigkeitsgesetzes,
 
-17. die Tatsache, dass die Funktion des Personalausweises zum elektronischen Identitätsnachweis ausgeschaltet wurde oder der Personalausweis in die Sperrliste eingetragen ist,
+17. die Tatsache, dass die Funktion zum elektronischen Identitätsnachweis mit Personalausweis ausgeschaltet wurde oder in die Sperrliste eingetragen ist,
 
 18. Ordensname, Künstlername und
 
@@ -589,7 +627,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (2) Die bei der Personalausweisbehörde gespeicherten Fingerabdrücke sind spätestens nach Aushändigung des Personalausweises an die antragstellende Person zu löschen.
 
-(3) Eine zentrale, alle Seriennummern umfassende Speicherung darf nur bei dem Ausweishersteller und ausschließlich zum Nachweis des Verbleibs der Ausweise erfolgen. Die Speicherung sonstiger personenbezogener Daten der antragstellenden Person bei dem Ausweishersteller ist unzulässig, soweit sie nicht ausschließlich und vorübergehend der Herstellung des Ausweises dient; die Angaben sind anschließend zu löschen.
+(3) Eine zentrale, alle Seriennummern umfassende Speicherung darf nur bei dem Ausweishersteller und ausschließlich zum Nachweis des Verbleibs der Ausweise erfolgen. Abgesehen von der Sperrsumme und dem letzten Tag der Gültigkeit der jeweiligen elektronischen Identitätsnachweise sowie den weiteren in § 19 Absatz 2 genannten Daten ist die Speicherung sonstiger personenbezogener Daten der antragstellenden Person bei dem Ausweishersteller unzulässig, soweit sie nicht ausschließlich und vorübergehend der Herstellung des Ausweises dient; die Angaben sind anschließend zu löschen.
 
 (4) Eine bundesweite Datenbank der biometrischen Merkmale wird nicht errichtet.
 
@@ -607,7 +645,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 5. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
 
-(2) Der Personalausweisinhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf dem Personalausweis vermerkt oder in anderer Weise zusammen mit diesem aufbewahrt werden. Ist dem Personalausweisinhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen.
+(2) Der Personalausweisinhaber hat zumutbare Maßnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf dem Personalausweis vermerkt oder in anderer Weise zusammen mit diesem aufbewahrt sowie im Fall des elektronischen Identitätsnachweises mit einem mobilen Endgerät nicht auf diesem gespeichert werden. Ist dem Personalausweisinhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverzüglich ändern oder die Funktion des elektronischen Identitätsnachweises sperren lassen. Satz 3 gilt entsprechend für den Fall, dass dem Personalausweisinhaber bekannt wird, dass die Geheimnummer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät Dritten zur Kenntnis gelangt ist.
 
 (3) Der Personalausweisinhaber soll durch technische und organisatorische Maßnahmen gewährleisten, dass der elektronische Identitätsnachweis gemäß § 18 nur in einer Umgebung eingesetzt wird, die nach dem jeweiligen Stand der Technik als sicher anzusehen ist. Dabei soll er insbesondere solche technischen Systeme und Bestandteile einsetzen, die vom Bundesamt für Sicherheit in der Informationstechnik als für diesen Einsatzzweck sicher bewertet werden.
 
@@ -746,6 +784,10 @@ festzulegen,
 12. die Einzelheiten zur Durchführung von automatisierten Abrufen nach § 25 sowie zur Form und zum Inhalt der zu übermittelnden Daten zu regeln.
 
 Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Energie. In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
+
+# § 34a – Regelungsbefugnisse der Länder
+
+Durch Landesrecht können zentrale Personalausweisregisterdatenbestände zur Speicherung des Lichtbilds und der Unterschrift für die Durchführung eines automatisierten Abrufs des Lichtbilds nach § 25 Absatz 2 Satz 1 und 4 sowie eines automatisierten Abrufs des Lichtbilds und der Unterschrift nach § 25 Absatz 2 Satz 5 eingerichtet werden. In diesem Fall gelten § 23 Absatz 4, § 25 Absatz 2 Satz 5 bis 8 und § 26 Absatz 4 entsprechend. Macht ein Land von der Regelungsbefugnis Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und Unterschriften vor unbefugtem Zugriff geschützt sind. Die Lichtbilder und Unterschriften dürfen nur so gespeichert werden, dass keine Verknüpfung mit anderen als für den automatisierten Abruf benötigten Daten ermöglicht wird.
 
 # § 35 – Übergangsvorschrift
 

@@ -634,7 +634,7 @@ aufgeführt sind.
 
 1. nachteiligen Abweichungen, die geringer sind als die natürlichen Fluktuationen, die für den betreffenden Lebensraum oder die betreffende Art als normal gelten,
 
-2. nachteiligen Abweichungen, die auf natürliche Ursachen zurückzuführen sind oder aber auf eine äußere Einwirkung im Zusammenhang mit der Bewirtschaftung der betreffenden Gebiete, die den Aufzeichnungen über den Lebensraum oder den Dokumenten über die Erhaltungsziele zufolge als normal anzusehen ist oder der früheren Bewirtschaftungsweise der jeweiligen Eigentümer oder Betreiber entspricht,
+2. nachteiligen Abweichungen, die auf natürliche Ursachen zurückzuführen sind oder aber auf eine äußere Einwirkung im Zusammenhang mit der normalen Bewirtschaftung der betreffenden Gebiete, die den Aufzeichnungen über den Lebensraum oder den Dokumenten über die Erhaltungsziele oder der früheren Bewirtschaftungsweise der jeweiligen Eigentümer oder Betreiber entspricht,
 
 3. einer Schädigung von Arten oder Lebensräumen, die sich nachweislich ohne äußere Einwirkung in kurzer Zeit so weit regenerieren werden, dass entweder der Ausgangszustand erreicht wird oder aber allein auf Grund der Dynamik der betreffenden Art oder des Lebensraums ein Zustand erreicht wird, der im Vergleich zum Ausgangszustand als gleichwertig oder besser zu bewerten ist.
 

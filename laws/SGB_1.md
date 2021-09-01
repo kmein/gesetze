@@ -145,7 +145,7 @@ Versorgungsleistungen bei Gesundheitsschäden
 
 § 25
 
-Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
+Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
 
 § 26
 
@@ -728,11 +728,11 @@ e) Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung d
 
 (2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.
 
-# § 25 – Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
+# § 25 – Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
 
 (1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in Anspruch genommen werden, wenn nicht der Familienleistungsausgleich nach § 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem Bundeskindergeldgesetz können auch der Kinderzuschlag und Leistungen für Bildung und Teilhabe in Anspruch genommen werden.
 
-(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann Elterngeld und Betreuungsgeld in Anspruch genommen werden.
+(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann Elterngeld in Anspruch genommen werden.
 
 (3) Für die Ausführung des Absatzes 1 sind die nach § 7 des Bundeskindergeldgesetzes bestimmten Stellen und für die Ausführung des Absatzes 2 die nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten Stellen zuständig.
 
@@ -1088,7 +1088,7 @@ Der für eine Geldleistung zuständige Leistungsträger kann mit Ermächtigung e
 
 (3) Unpfändbar sind Ansprüche auf
 
-1. Elterngeld und Betreuungsgeld bis zur Höhe der nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Beträge sowie dem Erziehungsgeld vergleichbare Leistungen der Länder,
+1. Elterngeld bis zur Höhe der nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Beträge sowie dem Erziehungsgeld vergleichbare Leistungen der Länder,
 
 2. Mutterschaftsgeld nach § 19 Absatz 1 des Mutterschutzgesetzes, soweit das Mutterschaftsgeld nicht aus einer Teilzeitbeschäftigung während der Elternzeit herrührt, bis zur Höhe des Elterngeldes nach § 2 des Bundeselterngeld- und Elternzeitgesetzes, soweit es die anrechnungsfreien Beträge nach § 10 des Bundeselterngeld- und Elternzeitgesetzes nicht übersteigt,
 
@@ -1286,7 +1286,7 @@ die entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgeset
 
 14. das Unterhaltsvorschussgesetz,
 
-15. der Erste, Zweite und Dritte Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,
+15. der Erste und Zweite Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,
 
 16. das Altersteilzeitgesetz,
 
