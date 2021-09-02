@@ -67,8 +67,6 @@
 
 (2) Geht die Zuständigkeit für die Verwahrung von Akten und Verzeichnissen auf eine andere Stelle über, so hat die bisher zuständige Stelle der künftig zuständigen Stelle elektronische Aufzeichnungen auf einem allgemein gebräuchlichen Datenträger zu übergeben. Handelt es sich um elektronische Aufzeichnungen, die im Elektronischen Urkundenarchiv oder im Elektronischen Notariatsaktenspeicher vorliegen, so hat die bisher zuständige Stelle an der Einräumung des Zugangs für die künftig zuständige Stelle mitzuwirken, soweit dies erforderlich ist.
 
-(+++ § 4 Abs. 2: Zur Geltung vgl. § 48 S 2 +++)
-
 # § 5 – Sicherheit elektronischer Aufzeichnungen
 
 (1) Systeme, die zum Umgang mit elektronischen Aufzeichnungen verwendet werden, sind durch geeignete und dem Stand der Technik entsprechende Maßnahmen gegen unbefugten Zugang zu schützen.

@@ -1352,7 +1352,6 @@
 - [Corona-ArbSchV](laws/Corona-ArbSchV.md) SARS-CoV-2-Arbeitsschutzverordnung
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
-- [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
 - [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
 - [CoronaPflegeVVerlV](laws/CoronaPflegeVVerlV.md) Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
