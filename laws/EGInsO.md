@@ -379,7 +379,7 @@ Auf Insolvenzverfahren, die vor dem 31. Dezember 2020 beantragt worden sind, sin
 
 # Art 103m – Überleitungsvorschrift zum Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz
 
-Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
+Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. § 15b der Insolvenzordnung in der Fassung des Sanierungs- und Insolvenzrechtsfortentwicklungsgesetzes vom 22. Dezember 2020 (BGBl. I S. 3256) ist erstmals auf Zahlungen anzuwenden, die nach dem 31. Dezember 2020 vorgenommen worden sind. Auf Zahlungen, die vor dem 1. Januar 2021 vorgenommen worden sind, sind die bis zum 31. Dezember 2020 geltenden gesetzlichen Vorschriften weiterhin anzuwenden.
 
 # Art 104 – Anwendung des neuen Rechts
 
