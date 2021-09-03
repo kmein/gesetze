@@ -19,6 +19,8 @@ Steuergegenstand ist der inländische Grundbesitz im Sinne des Bewertungsgesetze
 
 2. die Grundstücke (§§ 243, 244 des Bewertungsgesetzes); diesen stehen die in § 218 Satz 3 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 
+§ 2 Nr. 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+
 # § 3 – Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
 
 (1) Von der Grundsteuer sind befreit
@@ -132,6 +134,8 @@ Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
 Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag auszugehen. Dieser ist durch Anwendung eines Promillesatzes (Steuermesszahl) auf den Grundsteuerwert oder seinen steuerpflichtigen Teil zu ermitteln, der nach dem Bewertungsgesetz im Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) für den Steuergegenstand maßgebend ist.
 
+§ 13 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+
 # § 14 – Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
 Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl 0,55 Promille.
@@ -170,6 +174,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
 
+§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+
 # § 16 – Hauptveranlagung
 
 (1) Die Steuermeßbeträge werden auf den Hauptfeststellungszeitpunkt (§ 221 Absatz 2 des Bewertungsgesetzes) allgemein festgesetzt (Hauptveranlagung). Dieser Zeitpunkt ist der Hauptveranlagungszeitpunkt.
@@ -177,6 +183,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 (2) Der bei der Hauptveranlagung festgesetzte Steuermeßbetrag gilt vorbehaltlich der §§ 17 und 20 von dem Kalenderjahr an, das zwei Jahre nach dem Hauptveranlagungszeitpunkt beginnt. Dieser Steuermeßbetrag bleibt unbeschadet der §§ 17 und 20 bis zu dem Zeitpunkt maßgebend, von dem an die Steuermeßbeträge der nächsten Hauptveranlagung wirksam werden. Der sich nach den Sätzen 1 und 2 ergebende Zeitraum ist der Hauptveranlagungszeitraum.
 
 (3) Ist die Festsetzungsfrist (§ 169 der Abgabenordnung) bereits abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der Verhältnisse vom Hauptveranlagungszeitpunkt mit Wirkung für einen späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist.
+
+§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
 
 # § 17 – Neuveranlagung
 
@@ -217,6 +225,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 (1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
 
 (2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
+
+§ 19 Abs. 1 Satz 2 u. Abs. 2 Satz 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
 
 # § 20 – Aufhebung des Steuermeßbetrags
 

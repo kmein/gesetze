@@ -1108,6 +1108,8 @@ Werden Privatgeheimnisse, die zugleich Daten im Sinne des § 29b Absatz 3 oder 6
 
 (5) Soldatinnen haben Anspruch auf Mutterschutz. Die Einzelheiten werden durch Rechtsverordnung geregelt. Dabei ist sicherzustellen, dass Soldatinnen hinsichtlich Inhalt, Art und Umfang der Schutz gewährleistet wird, wie er durch das Mutterschutzgesetz vorgesehen ist. Abweichungen sind nur insoweit zulässig, als sie mit Rücksicht auf die Eigenart des militärischen Dienstes erforderlich sind. Eine angemessene Kontrolle und Überwachung der Einhaltung der dem Gesundheitsschutz dienenden mutterschutzrechtlichen Vorschriften ist vorzusehen.
 
+(6) Der Dienstherr ermöglicht dem Soldaten die unentgeltliche Beförderung in öffentlichen Eisenbahnen, wenn der Soldat während der Beförderung Uniform trägt. Eine Rechtsverordnung bestimmt das Nähere über die Voraussetzungen und weitere Ausgestaltung des Anspruches.
+
 # § 30a – Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit
 
 (1) Einem Soldaten kann auf Antrag Teilzeitbeschäftigung im Umfang von mindestens der Hälfte der regelmäßigen Arbeitszeit nach § 30c Absatz 1 und bis zur jeweils beantragten Dauer, längstens für zwölf Jahre bewilligt werden, soweit dienstliche Gründe nicht entgegenstehen. Die Teilzeitbeschäftigung soll bewilligt werden, wenn er mindestens ein Kind unter 18 Jahren oder einen pflegebedürftigen sonstigen Angehörigen tatsächlich betreut oder pflegt und zwingende dienstliche Gründe nicht entgegenstehen. Die Pflegebedürftigkeit ist nachzuweisen durch ein ärztliches Gutachten oder durch eine Bescheinigung der Pflegekasse oder des Medizinischen Dienstes der Krankenversicherung oder durch eine entsprechende Bescheinigung einer privaten Pflegeversicherung. Soweit Anspruch auf Elternzeit nach § 28 Absatz 7 besteht, kann anstelle von Elternzeit eine Teilzeitbeschäftigung auch im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit bewilligt werden. Der Anspruch auf Elternzeit vermindert sich um die Zeit, in der diese Teilzeitbeschäftigung in Anspruch genommen wird.
@@ -2194,13 +2196,15 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 3. die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Absatz 7,
 
-4. die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
+4. ,die Regelungen zur Ermöglichung einer unentgeltlichen Beförderung nach § 30 Absatz 6,
 
-5. die regelmäßige Arbeitszeit und die Maßnahmen zur Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes bei besonderen Tätigkeiten nach § 30c Absatz 5,
+5. die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
 
-6. die Nichtanwendung des § 30c Absatz 1 bis 3 und 5 nach § 30c Absatz 6,
+6. die regelmäßige Arbeitszeit und die Maßnahmen zur Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes bei besonderen Tätigkeiten nach § 30c Absatz 5,
 
-7. die Anhebung der höchstzulässigen durchschnittlichen wöchentlichen Arbeitszeit nach § 30d Absatz 1 Satz 1 und die Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes nach § 30d Absatz 2,
+7. die Nichtanwendung des § 30c Absatz 1 bis 3 und 5 nach § 30c Absatz 6,
+
+8. die Anhebung der höchstzulässigen durchschnittlichen wöchentlichen Arbeitszeit nach § 30d Absatz 1 Satz 1 und die Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes nach § 30d Absatz 2,
 
 8. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
 

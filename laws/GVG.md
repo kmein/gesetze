@@ -463,8 +463,6 @@ c) bereits als ehrenamtliche Richter tätig sind;
 
 (4) In die Vorschlagslisten des Bezirks des Amtsgerichts sind mindestens doppelt so viele Personen aufzunehmen, wie als erforderliche Zahl von Haupt- und Ersatzschöffen nach § 43 bestimmt sind. Die Verteilung auf die Gemeinden des Bezirks erfolgt durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) in Anlehnung an die Einwohnerzahl der Gemeinden.
 
-(+++ § 36 Abs. 2: Zur Anwendung vgl. Art. 9 Abs. 9 G v. 9.12.1974 I 3393 (in dieser Fassung erstmals auf die Amtsperiode ab 1.1.1977 anzuwenden) +++)
-
 # § 37
 
 Gegen die Vorschlagsliste kann binnen einer Woche, gerechnet vom Ende der Auflegungsfrist, schriftlich oder zu Protokoll mit der Begründung Einspruch erhoben werden, daß in die Vorschlagsliste Personen aufgenommen sind, die nach § 32 nicht aufgenommen werden durften oder nach den §§ 33, 34 nicht aufgenommen werden sollten.
