@@ -33,9 +33,9 @@ b) eine andere der in den Artikeln 3, 5 bis 10 und 12 der Richtlinie (EU) 2017/5
 
 (3) Identifizierung im Sinne dieses Gesetzes besteht aus
 
-1. der Feststellung der Identität durch Erheben von Angaben und
+1. dem Erheben von Angaben zum Zweck der Identifizierung und
 
-2. der Überprüfung der Identität.
+2. der Überprüfung dieser Angaben zum Zweck der Identifizierung.
 
 (4) Geschäftsbeziehung im Sinne dieses Gesetzes ist jede Beziehung, die unmittelbar in Verbindung mit den gewerblichen oder beruflichen Aktivitäten der Verpflichteten steht und bei der beim Zustandekommen des Kontakts davon ausgegangen wird, dass sie von gewisser Dauer sein wird.
 
@@ -195,6 +195,22 @@ Holdinggesellschaften, die ausschließlich Beteiligungen an Unternehmen außerha
 
 (25) Mutterunternehmen im Sinne dieses Gesetzes ist ein Unternehmen, dem mindestens ein anderes Unternehmen nach Absatz 16 Nummer 2 bis 4 nachgeordnet ist, und dem kein anderes Unternehmen übergeordnet ist.
 
+(26) Finanzinformationen im Sinne dieses Gesetzes sind alle Arten von Informationen oder Daten, insbesondere Daten über finanzielle Vermögenswerte, Geldbewegungen oder finanzgeschäftliche Beziehungen, die bereits bei der Zentralstelle für Finanztransaktionsuntersuchungen oder anderen zentralen Meldestellen im Sinne des Artikels 32 der Richtlinie (EU) 2015/849 vorhanden sind, um Geldwäsche und Terrorismusfinanzierung zu verhüten, aufzudecken und zu bekämpfen.
+
+(27) Finanzanalyse im Sinne dieses Gesetzes ist das Ergebnis der von der Zentralstelle für Finanztransaktionsuntersuchungen oder einer anderen zentralen Meldestelle im Sinne des Artikel 32 der Richtlinie (EU) 2015/849 für die Erfüllung ihrer Aufgaben nach der Richtlinie (EU) 2015/849 bereits durchgeführten operativen und strategischen Analyse.
+
+(28) Die Bezeichnung
+
+1. Richtlinie (EU) 2015/849 bezeichnet die Richtlinie (EU) 2015/849 des Europäischen Parlamentes und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission, die zuletzt durch die Richtlinie (EU) 2018/843 des Europäischen Parlamentes und des Rates vom 30. Mai 2018 zur Änderung der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung und zur Änderung der Richtlinien 2009/138/EG und 2013/36/EU geändert worden ist.
+
+2. Richtlinie (EU) 2019/1153 bezeichnet die Richtlinie (EU) 2019/1153 des Europäischen Parlamentes und des Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur Erleichterung der Nutzung von Finanz- und sonstigen Informationen für die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates;
+
+3. Verordnung (EU) 2016/794 bezeichnet die Verordnung (EU) 2016/794 des Europäischen Parlamentes und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI.
+
+(29) Kryptowerte im Sinne dieses Gesetzes sind Kryptowerte nach § 1 Absatz 11 Satz 1 Nummer 10 in Verbindung mit Satz 4 und 5 des Kreditwesengesetzes.
+
+(30) Übertragung von Kryptowerten im Sinne dieses Gesetzes ist jeglicher Transfer von Kryptowerten zwischen natürlichen oder juristischen Personen im Rahmen der Erbringung von Finanzdienstleistungen oder dem Betreiben von Bankgeschäften im Sinne des Kreditwesengesetzes, der nicht ausschließlich die Kryptoverwahrung im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 des Kreditwesengesetzes darstellt.
+
 # § 2 – Verpflichtete, Verordnungsermächtigung
 
 (1) Verpflichtete im Sinne dieses Gesetzes sind, soweit sie in Ausübung ihres Gewerbes oder Berufs handeln,
@@ -265,7 +281,7 @@ c) Bereitstellung eines Sitzes, einer Geschäfts-, Verwaltungs- oder Postadresse
 
 d) Ausübung der Funktion eines Treuhänders für eine Rechtsgestaltung nach § 3 Absatz 3,
 
-e) Ausübung der Funktion eines nominellen Anteilseigners für eine andere Person, bei der es sich nicht um eine auf einem organisierten Markt notierte Gesellschaft nach § 2 Absatz 11 des Wertpapierhandelsgesetzes handelt, die den Gemeinschaftsrecht entsprechenden Transparenzanforderungen im Hinblick auf Stimmrechtsanteile oder gleichwertigen internationalen Standards unterliegt,
+e) Ausübung der Funktion eines nominellen Anteilseigners für eine andere Person, bei der es sich nicht um eine auf einem organisierten Markt notierte Gesellschaft nach § 2 Absatz 11 des Wertpapierhandelsgesetzes handelt, die dem Gemeinschaftsrecht entsprechenden Transparenzanforderungen im Hinblick auf Stimmrechtsanteile oder gleichwertigen internationalen Standards unterliegt,
 
 f) Schaffung der Möglichkeit für eine andere Person, die in den Buchstaben b, d und e genannten Funktionen auszuüben,
 
@@ -277,9 +293,9 @@ a) Betreiber von Geldspielgeräten nach § 33c der Gewerbeordnung,
 
 b) Vereine, die das Unternehmen eines Totalisatoren nach § 1 des Rennwett- und Lotteriegesetzes betreiben,
 
-c) Lotterien, die nicht im Internet veranstaltet werden und für die die Veranstalter und Vermittler über eine staatliche Erlaubnis der in Deutschland jeweils zuständigen Behörde verfügen,
+c) Lotterien, für die die Veranstalter und Vermittler über eine glücksspielrechtliche Erlaubnis der in Deutschland jeweils zuständigen Behörde verfügen, und
 
-d) Soziallotterien und
+d) (weggefallen)
 
 16. Güterhändler, Kunstvermittler und Kunstlagerhalter, soweit die Lagerhaltung in Zollfreigebieten erfolgt.
 
@@ -303,7 +319,7 @@ In diesem Fall hat es die Europäische Kommission zeitnah zu unterrichten.
 
 (1) Wirtschaftlich Berechtigter im Sinne dieses Gesetzes ist
 
-1. die natürliche Person, in deren Eigentum oder unter deren Kontrolle der Vertragspartner letztlich steht, oder
+1. die natürliche Person, in deren Eigentum oder unter deren Kontrolle eine juristische Person, sonstige Gesellschaft oder eine Rechtsgestaltung im Sinne des Absatzes 3 letztlich steht, oder
 
 2. die natürliche Person, auf deren Veranlassung eine Transaktion letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird.
 
@@ -331,12 +347,22 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
 
 5. jede natürliche Person, die auf sonstige Weise unmittelbar oder mittelbar beherrschenden Einfluss auf die Vermögensverwaltung oder Ertragsverteilung ausübt und
 
-6. jede natürliche Person, die unmittelbar oder mittelbar beherrschenden Einfluss auf eine Vereinigung ausüben kann, die Mitglied des Vorstands der Stiftung ist oder die als Begünstigte der Stiftung bestimmt worden ist.
+6. jede natürliche Person, die unmittelbar oder mittelbar beherrschenden Einfluss auf eine Vereinigung ausüben kann, die
+
+a) Mitglied des Vorstands der Stiftung ist oder die als Begünstigte der Stiftung bestimmt worden ist, oder
+
+b) als Treugeber (Settlor), Verwalter von Trusts (Trustee) oder Protektor handelt oder die als Begünstige der Rechtsgestaltung bestimmt worden ist.
 
 (4) Bei Handeln auf Veranlassung zählt zu den wirtschaftlich Berechtigten derjenige, auf dessen Veranlassung die Transaktion durchgeführt wird. Soweit der Vertragspartner als Treuhänder handelt, handelt er ebenfalls auf Veranlassung.
 
 (+++ § 3 Abs. 1 u. 2: Zur Anwendung vgl. § 19 Abs. 2 +++)  
 (+++ § 3 Abs 1 u. 3: Zur Anwendung vgl. § 19 Abs. 2 +++)
+
+# § 3a – Risikobasierter Ansatz, nationale Risikoanalyse
+
+(1) Die Verhinderung und Bekämpfung von Geldwäsche und Terrorismusfinanzierung nach den Anforderungen dieses Gesetzes folgt einem risikobasierten Ansatz. Die spezielleren Regelungen der nachfolgenden Abschnitte dieses Gesetzes bleiben hiervon unberührt.
+
+(2) Die für die Verhinderung und Bekämpfung von Geldwäsche und Terrorismusfinanzierung zuständigen Behörden des Bundes sowie die Länder wirken an der vom Bundesministerium der Finanzen koordinierten nationalen Risikoanalyse mit. Die Verpflichteten nach diesem Gesetz werden bei Erstellung der nationalen Risikoanalyse eingebunden und über die Ergebnisse unterrichtet. Die nationale Risikoanalyse berücksichtigt die Risikobewertung der Europäischen Kommission nach Artikel 6 der Richtlinie (EU) 2015/843 und wird regelmäßig aktualisiert. Nach Bedarf werden spezifische sektorale Risikoanalysen erstellt.
 
 # § 4 – Risikomanagement
 
@@ -350,7 +376,7 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
 
 1. bei der Vermittlung von Kaufverträgen und
 
-2. bei der Vermittlung von Miet- oder Pachtverträgen mit einer monatlichen Miete oder Pacht in Höhe von mindestens 10 000 Euro.
+2. bei der Vermittlung von Miet- oder Pachtverträgen mit einer monatlichen Nettokaltmiete oder Nettokaltpacht in Höhe von mindestens 10 000 Euro.
 
 (5) Verpflichtete nach § 2 Absatz 1 Nummer 16 müssen über ein wirksames Risikomanagement einschließlich gruppenweiter Verfahren verfügen:
 
@@ -458,17 +484,17 @@ Die Verpflichteten haben in ihrer Anzeige darzulegen, dass die Voraussetzungen f
 
 1. die im Rahmen der Erfüllung der Sorgfaltspflichten erhobenen Angaben und eingeholten Informationen
 
-a) über die Vertragspartner, die Vertragsparteien des Kaufgegenstandes nach § 11 Absatz 2 und gegebenenfalls über die für die Vertragspartner oder die Vertragsparteien des Kaufgegenstandes auftretenden Personen und wirtschaftlich Berechtigten,
+a) über die Vertragspartner, die Vertragsparteien des vermittelten Rechtsgeschäfts nach § 11 Absatz 2 und gegebenenfalls über die für die Vertragspartner oder die Vertragsparteien des vermittelten Rechtsgeschäfts auftretenden Personen und wirtschaftlich Berechtigten,
 
 b) über Geschäftsbeziehungen und Transaktionen, insbesondere Transaktionsbelege, soweit sie für die Untersuchung von Transaktionen erforderlich sein können,
 
-2. hinreichende Informationen über die Durchführung und über die Ergebnisse der Risikobewertung nach § 10 Absatz 2, § 14 Absatz 1 und § 15 Absatz 2 und über die Angemessenheit der auf Grundlage dieser Ergebnisse ergriffenen Maßnahmen,
+2. hinreichende Informationen über die Durchführung und über die Ergebnisse der Risikobewertung nach § 10 Absatz 2, § 14 Absatz 1 und § 15 Absatz 3 und über die Angemessenheit der auf Grundlage dieser Ergebnisse ergriffenen Maßnahmen,
 
-3. die Ergebnisse der Untersuchung nach § 15 Absatz 5 Nummer 1 und
+3. die Ergebnisse der Untersuchung nach § 15 Absatz 6 Nummer 1 und
 
 4. die Erwägungsgründe und eine nachvollziehbare Begründung des Bewertungsergebnisses eines Sachverhalts hinsichtlich der Meldepflicht nach § 43 Absatz 1.
 
-Die Aufzeichnungen nach Satz 1 Nummer 1 Buchstabe a schließen Aufzeichnungen über die getroffenen Maßnahmen zur Ermittlung des wirtschaftlich Berechtigten sowie die Dokumentation der Eigentums- und Kontrollstruktur nach § 11 Absatz 5a Satz 1 ein. Bei Personen, die nach § 3 Absatz 2 Satz 5 als wirtschaftlich Berechtigte gelten, sind zudem die Maßnahmen zur Überprüfung der Identität nach § 11 Absatz 5 und etwaige Schwierigkeiten, die während des Überprüfungsvorgangs aufgetreten sind, aufzuzeichnen.
+Die Aufzeichnungen nach Satz 1 Nummer 1 Buchstabe a schließen Aufzeichnungen über die getroffenen Maßnahmen zur Ermittlung des wirtschaftlich Berechtigten sowie die Dokumentation der Eigentums- und Kontrollstruktur nach § 12 Absatz 4 Satz 1 ein. Bei Personen, die nach § 3 Absatz 2 Satz 5 als wirtschaftlich Berechtigte gelten, sind zudem die Maßnahmen zur Überprüfung der Identität nach § 11 Absatz 5 und etwaige Schwierigkeiten, die während des Überprüfungsvorgangs aufgetreten sind, aufzuzeichnen.
 
 (2) Zur Erfüllung der Pflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a sind in den Fällen des § 12 Absatz 1 Satz 1 Nummer 1 auch die Art, die Nummer und die Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, aufzuzeichnen. Soweit zur Überprüfung der Identität einer natürlichen Person Dokumente nach § 12 Absatz 1 Satz 1 Nummer 1, 4 oder 5 oder zur Überprüfung der Identität einer juristischen Person Unterlagen nach § 12 Absatz 2 vorgelegt werden oder soweit Dokumente, die aufgrund einer Rechtsverordnung nach § 12 Absatz 3 bestimmt sind, vorgelegt oder herangezogen werden, haben die Verpflichteten das Recht und die Pflicht, Kopien dieser Dokumente oder Unterlagen anzufertigen oder sie optisch digitalisiert zu erfassen oder, bei einem Vor-Ort-Auslesen nach § 18a des Personalausweisgesetzes, nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes oder nach § 13 des eID-Karte-Gesetzes, das dienste- und kartenspezifische Kennzeichen sowie die Tatsache aufzuzeichnen, dass die Daten im Wege des Vor-Ort-Auslesens übernommen wurden. Diese gelten als Aufzeichnung im Sinne des Satzes 1. Die Aufzeichnungs- und Aufbewahrungspflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe a umfasst auch die zur Erfüllung geldwäscherechtlicher Sorgfaltspflichten angefertigten Aufzeichnungen von Video- und Tonaufnahmen. Wird nach § 11 Absatz 3 Satz 1 von einer erneuten Identifizierung abgesehen, so sind der Name des zu Identifizierenden und der Umstand, dass er bei früherer Gelegenheit identifiziert worden ist, aufzuzeichnen. Im Fall des § 12 Absatz 1 Satz 1 Nummer 2 ist anstelle der Art, der Nummer und der Behörde, die das zur Überprüfung der Identität vorgelegte Dokument ausgestellt hat, das dienste- und kartenspezifische Kennzeichen und die Tatsache, dass die Prüfung anhand eines elektronischen Identitätsnachweises erfolgt ist, aufzuzeichnen. Bei der Überprüfung der Identität anhand einer qualifizierten Signatur nach § 12 Absatz 1 Satz 1 Nummer 3 ist auch deren Validierung aufzuzeichnen. Bei Einholung von Angaben und Informationen durch Einsichtnahme in elektronisch geführte Register oder Verzeichnisse gemäß § 12 Absatz 2 gilt die Anfertigung eines Ausdrucks als Aufzeichnung der darin enthaltenen Angaben oder Informationen.
 
@@ -498,7 +524,7 @@ Die Aufzeichnungen nach Satz 1 Nummer 1 Buchstabe a schließen Aufzeichnungen ü
 
 4. die Schaffung von Vorkehrungen zum Schutz von personenbezogenen Daten.
 
-Sie haben sicherzustellen, dass die von ihnen getroffenen Maßnahmen nach Satz 2 Nummer 1, 3 und 4 von ihren Zweigstellen, Zweigniederlassungen und gruppenangehörigen Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4, soweit diese geldwäscherechtlichen Pflichten und dem beherrschenden Einfluss des Mutterunternehmens unterliegen, wirksam umgesetzt werden.
+Sie haben sicherzustellen, dass die von ihnen getroffenen Maßnahmen nach Satz 2 Nummer 1, 3 und 4 von ihren Zweigstellen, Zweigniederlassungen und gruppenangehörigen Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4, soweit diese geldwäscherechtlichen Pflichten und dem beherrschenden Einfluss des Mutterunternehmens unterliegen, wirksam umgesetzt werden. Für die Bestellung eines Geldwäschebeauftragten nach Satz 2 Nummer 2 gelten die Regelungen des § 7 Absatz 4 bis 7 entsprechend.
 
 (2) Verpflichtete, die Mutterunternehmen einer Gruppe sind, haben sicherzustellen, dass Zweigniederlassungen und gruppenangehörige Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4, die mehrheitlich in ihrem Besitz stehen und die in einem anderen Mitgliedstaat der Europäischen Union ansässig sind, nach dessen Recht sie Pflichten zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung unterliegen, die dort geltenden nationalen Rechtsvorschriften zur Umsetzung der Richtlinie (EU) 2015/849 einhalten.
 
@@ -516,7 +542,7 @@ Reichen die getroffenen Maßnahmen nicht aus, so ordnet die nach § 50 zuständi
 
 2. deren Mutterunternehmen weder nach Absatz 1 noch nach dem Recht des Staates, in dem es ansässig ist, gruppenweite Maßnahmen ergreifen muss.
 
-(5) Verpflichtete, die gruppenangehörige Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4 eines Mutterunternehmens im Sinne von Absatz 1 sind, haben die in Absatz 1 Satz 2 Nummer 1, 3 und 4 genannten Maßnahmen umzusetzen. Alle anderen gruppenangehörigen Verpflichteten müssen die für sie geltenden gruppenweiten Pflichten umsetzen, die insbesondere Verfahren für den Informationsaustausch innerhalb der Gruppe zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung sowie Vorkehrungen zum Schutz von personenbezogenen Daten umfassen müssen. Die Pflichten nach den Sätzen 1 und 2 gelten unbeschadet der von den Verpflichteten zu beachtenden eigenen gesetzlichen Verpflichtung zur Erfüllung sonstiger geldwäscherechtlicher Vorschriften.
+(5) Verpflichtete, die gruppenangehörige Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4 eines Mutterunternehmens im Sinne von Absatz 1 sind, haben die in Absatz 1 Satz 2 Nummer 1, 3 und 4 genannten Maßnahmen umzusetzen. Alle anderen gruppenangehörigen Verpflichteten müssen die in Absatz 1 Satz 2 Nummer 3 und 4 genannten Maßnahmen umsetzen. Die Pflichten nach den Sätzen 1 und 2 gelten unbeschadet der von den Verpflichteten zu beachtenden eigenen gesetzlichen Verpflichtung zur Erfüllung sonstiger geldwäscherechtlicher Vorschriften.
 
 # § 10 – Allgemeine Sorgfaltspflichten
 
@@ -524,7 +550,7 @@ Reichen die getroffenen Maßnahmen nicht aus, so ordnet die nach § 50 zuständi
 
 1. die Identifizierung des Vertragspartners und gegebenenfalls der für ihn auftretenden Person nach Maßgabe des § 11 Absatz 4 und des § 12 Absatz 1 und 2 sowie die Prüfung, ob die für den Vertragspartner auftretende Person hierzu berechtigt ist,
 
-2. die Abklärung, ob der Vertragspartner für einen wirtschaftlich Berechtigten handelt, und, soweit dies der Fall ist, die Identifizierung des wirtschaftlich Berechtigten nach Maßgabe des § 11 Absatz 5; dies umfasst in Fällen, in denen der Vertragspartner keine natürliche Person ist, die Pflicht, die Eigentums- und Kontrollstruktur des Vertragspartners mit angemessenen Mitteln in Erfahrung zu bringen,
+2. die Abklärung, ob der Vertragspartner für einen wirtschaftlich Berechtigten handelt, und, soweit dies der Fall ist, die Identifizierung des wirtschaftlich Berechtigten nach Maßgabe des § 11 Absatz 5 und des § 12 Absatz 3 und 4; dies umfasst in Fällen, in denen der Vertragspartner keine natürliche Person ist, die Pflicht, die Eigentums- und Kontrollstruktur des Vertragspartners mit angemessenen Mitteln in Erfahrung zu bringen,
 
 3. die Einholung und Bewertung von Informationen über den Zweck und über die angestrebte Art der Geschäftsbeziehung, soweit sich diese Informationen im Einzelfall nicht bereits zweifelsfrei aus der Geschäftsbeziehung ergeben,
 
@@ -558,6 +584,8 @@ a) Geldtransfers nach Artikel 3 Nummer 9 der Verordnung (EU) 2015/847 des Europ�
 
 b) die Durchführung einer sonstigen Transaktion im Wert von 15 000 Euro oder mehr,
 
+c) die Übertragung von Kryptowerten, die zum Zeitpunkt der Übertragung einem Gegenwert von 1 000 Euro oder mehr entspricht,
+
 3. ungeachtet etwaiger nach diesem Gesetz oder anderen Gesetzen bestehender Ausnahmeregelungen, Befreiungen oder Schwellenbeträge beim Vorliegen von Tatsachen, die darauf hindeuten, dass
 
 a) es sich bei Vermögensgegenständen, die mit einer Transaktion oder Geschäftsbeziehung im Zusammenhang stehen, um den Gegenstand von Geldwäsche handelt oder
@@ -582,7 +610,7 @@ b) die Vermögensgegenstände im Zusammenhang mit Terrorismusfinanzierung stehen
 
 1. bei der Vermittlung von Kaufverträgen und
 
-2. bei der Vermittlung von Miet- oder Pachtverträgen bei Transaktionen mit einer monatlichen Miete oder Pacht in Höhe von mindestens 10 000 Euro.
+2. bei der Vermittlung von Miet- oder Pachtverträgen bei Transaktionen mit einer monatlichen Nettokaltmiete oder Nettokaltpacht in Höhe von mindestens 10 000 Euro.
 
 (6a) Verpflichtete nach § 2 Absatz 1 Nummer 16 haben die allgemeinen Sorgfaltspflichten zu erfüllen:
 
@@ -602,21 +630,21 @@ c) Transaktionen über sonstige Güter, bei welchen sie Barzahlungen über minde
 
 (8a) Soweit ein Verpflichteter nach § 2 Absatz 1 Nummer 10 als Syndikusrechtsanwalt oder als Syndikuspatentanwalt oder ein Verpflichteter nach § 2 Absatz 1 Nummer 12 als Syndikussteuerberater für ein Unternehmen tätig wird, das selbst Verpflichteter nach § 2 Absatz 1 ist, obliegen die Verpflichtungen nach Absatz 1 diesem Unternehmen.
 
-(9) Ist der Verpflichtete nicht in der Lage, die allgemeinen Sorgfaltspflichten nach Absatz 1 Nummer 1 bis 4 zu erfüllen, so darf die Geschäftsbeziehung nicht begründet oder nicht fortgesetzt werden und darf keine Transaktion durchgeführt werden. Soweit eine Geschäftsbeziehung bereits besteht, ist sie vom Verpflichteten ungeachtet anderer gesetzlicher oder vertraglicher Bestimmungen durch Kündigung oder auf andere Weise zu beenden. Die Sätze 1 und 2 gelten für Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 nicht, wenn Tätigkeiten der Rechtsberatung oder Prozessvertretung erbracht werden sollen, es sei denn, der Verpflichtete weiß, dass die Rechtsberatung oder Prozessvertretung bewusst für den Zweck der Geldwäsche oder der Terrorismusfinanzierung genutzt wurde oder wird. Solange der Vertragspartner seiner Pflicht nach § 11 Absatz 5a Satz 1 oder eine Vereinigung mit Sitz im Ausland ihrer Mitteilungspflicht nach § 20 Absatz 1 Satz 2 und 3 nicht nachkommt, hat der Notar die Beurkundung abzulehnen; § 15 Absatz 2 der Bundesnotarordnung gilt insoweit entsprechend.
+(9) Ist der Verpflichtete nicht in der Lage, die allgemeinen Sorgfaltspflichten nach Absatz 1 Nummer 1 bis 4 zu erfüllen, so darf die Geschäftsbeziehung nicht begründet oder nicht fortgesetzt werden und darf keine Transaktion durchgeführt werden. Soweit eine Geschäftsbeziehung bereits besteht, ist sie vom Verpflichteten ungeachtet anderer gesetzlicher oder vertraglicher Bestimmungen durch Kündigung oder auf andere Weise zu beenden. Die Sätze 1 und 2 gelten für Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 nicht, wenn Tätigkeiten der Rechtsberatung oder Prozessvertretung erbracht werden sollen, es sei denn, der Verpflichtete weiß, dass die Rechtsberatung oder Prozessvertretung bewusst für den Zweck der Geldwäsche oder der Terrorismusfinanzierung genutzt wurde oder wird. Solange der Vertragspartner seiner Pflicht nach § 12 Absatz 4 Satz 1, eine Vereinigung mit Sitz im Ausland ihrer Mitteilungspflicht nach § 20 Absatz 1 Satz 2 und 3 oder ein Trustee, der außerhalb der Europäischen Union seinen Wohnsitz oder Sitz hat, seiner Mitteilungspflicht nach § 21 Absatz 1 Satz 2 Alternative 2 und Satz 3 nicht nachkommt, hat der Notar die Beurkundung abzulehnen; § 15 Absatz 2 der Bundesnotarordnung gilt insoweit entsprechend.
 
 (+++ § 10 Abs. 2 Satz 4: Zur Anwendung vgl. § 14 Abs. 1 +++)  
 (+++ § 10 Abs. 2 Satz 4: Zur Anwendung vgl. § 15 Abs. 2 +++)  
 (+++ § 10 Abs. 9: Zur Anwendung vgl. § 14 Abs. 3 +++)
 
-# § 11 – Identifizierung
+# § 11 – Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung
 
-(1) Verpflichtete haben Vertragspartner, gegebenenfalls für diese auftretende Personen und wirtschaftlich Berechtigte vor Begründung der Geschäftsbeziehung oder vor Durchführung der Transaktion zu identifizieren. Die Identifizierung kann auch noch während der Begründung der Geschäftsbeziehung unverzüglich abgeschlossen werden, wenn dies erforderlich ist, um den normalen Geschäftsablauf nicht zu unterbrechen, und wenn ein geringes Risiko der Geldwäsche und der Terrorismusfinanzierung besteht.
+(1) Verpflichtete haben Vertragspartner, gegebenenfalls für diese auftretende Personen und wirtschaftlich Berechtigte vor Begründung der Geschäftsbeziehung oder vor Durchführung der Transaktion zu identifizieren, indem sie die Angaben nach den Absätzen 4 und 5 erheben und diese nach § 12 überprüfen. Die Identifizierung kann auch noch während der Begründung der Geschäftsbeziehung unverzüglich abgeschlossen werden, wenn dies erforderlich ist, um den normalen Geschäftsablauf nicht zu unterbrechen, und wenn ein geringes Risiko der Geldwäsche und der Terrorismusfinanzierung besteht.
 
-(2) Abweichend von Absatz 1 haben Verpflichtete nach § 2 Absatz 1 Nummer 14 die Vertragsparteien des Kaufgegenstandes, gegebenenfalls für diese auftretende Personen und den wirtschaftlich Berechtigten zu identifizieren, sobald der Vertragspartner des Maklers ein ernsthaftes Interesse an der Durchführung des Immobilienkaufvertrages äußert und die Kaufvertragsparteien hinreichend bestimmt sind. Sind für beide Vertragsparteien des Kaufgegenstandes Verpflichtete nach § 2 Absatz 1 Nummer 14 tätig, so muss jeder Verpflichtete nur die Vertragspartei identifizieren, für die er handelt.
+(2) Abweichend von Absatz 1 haben Verpflichtete nach § 2 Absatz 1 Nummer 14 die Vertragsparteien des vermittelten Rechtsgeschäfts, gegebenenfalls für diese auftretende Personen und wirtschaftlich Berechtigte zu identifizieren, sobald ein ernsthaftes Interesse der Vertragsparteien an der Durchführung des vermittelten Rechtsgeschäfts besteht und die Vertragsparteien hinreichend bestimmt sind. Sind für beide Vertragsparteien des vermittelten Rechtsgeschäfts Verpflichtete nach § 2 Absatz 1 Nummer 14 tätig, so muss jeder Verpflichtete nur die Vertragspartei identifizieren, für die er handelt.
 
 (3) Von einer Identifizierung kann abgesehen werden, wenn der Verpflichtete die zu identifizierende Person bereits bei früherer Gelegenheit im Rahmen der Erfüllung seiner Sorgfaltspflichten identifiziert hat und die dabei erhobenen Angaben aufgezeichnet hat. Muss der Verpflichtete aufgrund der äußeren Umstände Zweifel hegen, ob die bei der früheren Identifizierung erhobenen Angaben weiterhin zutreffend sind, hat er eine erneute Identifizierung durchzuführen.
 
-(4) Bei der Identifizierung hat der Verpflichtete folgende Angaben zu erheben:
+(4) In Bezug auf Vertragspartner und gegebenenfalls für diese auftretende Personen hat der Verpflichtete zum Zweck der Identifizierung folgende Angaben zu erheben:
 
 1. bei einer natürlichen Person:
 
@@ -642,13 +670,13 @@ d) Anschrift des Sitzes oder der Hauptniederlassung und
 
 e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzlichen Vertreter und, sofern ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juristische Person ist, von dieser juristischen Person die Daten nach den Buchstaben a bis d.
 
-(5) Bei einem wirtschaftlich Berechtigten hat der Verpflichtete abweichend von Absatz 4 zur Feststellung der Identität zumindest dessen Name und, soweit dies in Ansehung des im Einzelfall bestehenden Risikos der Geldwäsche oder der Terrorismusfinanzierung angemessen ist, weitere Identifizierungsmerkmale zu erheben. Bei Begründung einer neuen Geschäftsbeziehung mit einer Vereinigung nach § 20 oder einer Rechtsgestaltung nach § 21 hat der Verpflichtete einen Nachweis der Registrierung nach § 20 Absatz 1 oder § 21 oder einen Auszug der über das Transparenzregister zugänglichen Daten einzuholen. Geburtsdatum, Geburtsort und Anschrift des wirtschaftlich Berechtigten dürfen unabhängig vom festgestellten Risiko erhoben werden. Der Verpflichtete hat sich durch risikoangemessene Maßnahmen zu vergewissern, dass die zur Identifizierung erhobenen Angaben zutreffend sind; dabei darf sich der Verpflichtete nicht ausschließlich auf die Angaben im Transparenzregister verlassen. Handelt es sich um eine Person, die nach § 3 Absatz 2 Satz 5 als wirtschaftlich Berechtigter gilt, so hat der Verpflichtete angemessene Maßnahmen für die Überprüfung der Identität dieser Person zu ergreifen. Werden bei Trusts oder anderen Rechtsgestaltungen nach § 21 die wirtschaftlich Berechtigten nach besonderen Merkmalen oder nach einer Kategorie bestimmt, so hat der Verpflichtete ausreichende Informationen über den wirtschaftlich Berechtigten einzuholen, um zum Zeitpunkt der Ausführung der Transaktion oder der Ausübung seiner Rechte die Identität des wirtschaftlich Berechtigten feststellen zu können.
+(5) In Bezug auf einen wirtschaftlich Berechtigten hat der Verpflichtete zum Zweck der Identifizierung zumindest dessen Vor- und Nachnamen und, soweit dies in Ansehung des im Einzelfall bestehenden Risikos der Geldwäsche oder der Terrorismusfinanzierung angemessen ist, weitere Identifizierungsmerkmale zu erheben. Geburtsdatum, Geburtsort und Anschrift des wirtschaftlich Berechtigten dürfen unabhängig vom festgestellten Risiko erhoben werden. Die Erhebung der Angaben hat beim Vertragspartner oder der gegebenenfalls für diesen auftretenden Personen zu erfolgen; eine Erhebung der Angaben aus dem Transparenzregister genügt zur Erfüllung der Pflicht zur Erhebung der Angaben nicht. Werden bei Trusts oder anderen Rechtsgestaltungen nach § 21 die wirtschaftlich Berechtigten nach besonderen Merkmalen oder nach einer Kategorie bestimmt, so hat der Verpflichtete ausreichende Informationen über den wirtschaftlich Berechtigten einzuholen, um zum Zeitpunkt der Ausführung der Transaktion oder der Ausübung seiner Rechte die Identität des wirtschaftlich Berechtigten feststellen zu können.
 
-(5a) Sofern der Vertragspartner bei einem Erwerbsvorgang nach § 1 des Grunderwerbsteuergesetzes für eine Rechtsform im Sinne von § 3 Absatz 2 oder 3 handelt, hat der beurkundende Notar vor der Beurkundung die Identität des wirtschaftlich Berechtigten anhand einer von dem jeweiligen Vertragspartner in Textform vorzulegenden Dokumentation der Eigentums- und Kontrollstruktur auf ihre Schlüssigkeit zu überprüfen. Die Dokumentation ist der Zentralstelle für Finanztransaktionsuntersuchungen sowie den Strafverfolgungsbehörden auf Verlangen zur Verfügung zu stellen.
+(5a) (weggefallen)
 
-(6) Der Vertragspartner eines Verpflichteten hat dem Verpflichteten die Informationen und Unterlagen zur Verfügung zu stellen, die zur Identifizierung erforderlich sind. Ergeben sich im Laufe der Geschäftsbeziehung Änderungen, hat er diese Änderungen unverzüglich dem Verpflichteten anzuzeigen. Der Vertragspartner hat gegenüber dem Verpflichteten offenzulegen, ob er die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich Berechtigten begründen, fortsetzen oder durchführen will. Mit der Offenlegung hat er dem Verpflichteten auch die Identität des wirtschaftlich Berechtigten nachzuweisen. Die Sätze 1 bis 4 gelten entsprechend für die Vertragsparteien des Kaufgegenstandes im Sinne des Absatzes 2, die nicht Vertragspartner des Verpflichteten nach § 2 Absatz 1 Nummer 14 sind.
+(6) Der Vertragspartner eines Verpflichteten hat dem Verpflichteten die Informationen und Unterlagen zur Verfügung zu stellen, die zur Identifizierung erforderlich sind. Ergeben sich im Laufe der Geschäftsbeziehung Änderungen, hat er diese Änderungen unverzüglich dem Verpflichteten anzuzeigen. Der Vertragspartner hat gegenüber dem Verpflichteten offenzulegen, ob er die Geschäftsbeziehung oder die Transaktion für einen wirtschaftlich Berechtigten begründen, fortsetzen oder durchführen will. Mit der Offenlegung hat er dem Verpflichteten auch die Identität des wirtschaftlich Berechtigten nachzuweisen. Die Sätze 1 bis 4 gelten entsprechend für die Vertragsparteien des vermittelten Rechtsgeschäfts im Sinne des Absatzes 2, die nicht Vertragspartner des Verpflichteten nach § 2 Absatz 1 Nummer 14 sind.
 
-(7) Verwalter von Trusts und anderen Rechtsgestaltungen nach § 21 haben dem Verpflichteten ihren Status offenzulegen und ihm die Angaben nach § 21 Absatz 1 und 2 unverzüglich zu übermitteln, wenn sie in dieser Position eine Geschäftsbeziehung aufnehmen oder eine Transaktion oberhalb der in § 10 Absatz 3 Nummer 2, Absatz 5, Absatz 6 oder Absatz 6a genannten Schwellenbeträge durchführen.
+(7) Verwalter von Rechtsgestaltungen im Sinne des § 3 Absatz 3 haben dem Verpflichteten ihre Verwaltereigenschaft offenzulegen und ihm unverzüglich die Angaben zu übermitteln, die nach Absatz 5 zur Identifizierung aller wirtschaftlich Berechtigten im Sinne des § 3 Absatz 3 erforderlich sind, wenn sie in dieser Position eine Geschäftsbeziehung aufnehmen oder eine Transaktion oberhalb der in § 10 Absatz 3 Nummer 2, Absatz 5, Absatz 6 oder Absatz 6a genannten Schwellenbeträge durchführen. Im Falle von Trusts und anderen Rechtsgestaltungen nach § 21 sind dem Verpflichteten die Angaben nach § 21 Absatz 1 und 2 unverzüglich zu übermitteln.
 
 # § 11a – Verarbeitung personenbezogener Daten durch Verpflichtete
 
@@ -660,7 +688,7 @@ e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzliche
 
 # § 12 – Identitätsüberprüfung, Verordnungsermächtigung
 
-(1) Die Identitätsüberprüfung hat in den Fällen des § 10 Absatz 1 Nummer 1 bei natürlichen Personen zu erfolgen anhand
+(1) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum Vertragspartner und gegebenenfalls für diesen auftretende Personen hat bei natürlichen Personen zu erfolgen anhand
 
 1. eines gültigen amtlichen Ausweises, der ein Lichtbild des Inhabers enthält und mit dem die Pass- und Ausweispflicht im Inland erfüllt wird, insbesondere anhand eines inländischen oder nach ausländerrechtlichen Bestimmungen anerkannten oder zugelassenen Passes, Personalausweises oder Pass- oder Ausweisersatzes,
 
@@ -680,7 +708,7 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 3. Drittstaat, in dem das Kreditinstitut Sorgfalts- und Aufbewahrungspflichten unterliegt, die den in der Richtlinie (EU) 2015/849 festgelegten Sorgfalts- und Aufbewahrungspflichten entsprechen und deren Einhaltung in einer mit Kapitel IV Abschnitt 2 der Richtlinie (EU) 2015/849 im Einklang stehenden Weise beaufsichtigt wird.
 
-(2) Die Identitätsüberprüfung hat in den Fällen des § 10 Absatz 1 Nummer 1 bei juristischen Personen oder bei Personengesellschaften zu erfolgen anhand
+(2) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum Vertragspartner und gegebenenfalls für diesen auftretende Personen hat bei juristischen Personen oder bei Personengesellschaften zu erfolgen anhand
 
 1. eines Auszuges aus dem Handels- oder Genossenschaftsregister oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
 
@@ -688,13 +716,17 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 3. einer eigenen dokumentierten Einsichtnahme des Verpflichteten in die Register- oder Verzeichnisdaten.
 
-(3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere Dokumente bestimmen, die zur Überprüfung der Identität geeignet sind.
+(3) Zur Überprüfung der nach § 11 Absatz 5 erhobenen Angaben zu den wirtschaftlich Berechtigten hat sich der Verpflichtete durch risikoangemessene Maßnahmen zu vergewissern, dass die Angaben zutreffend sind. Im Falle der Identifizierung anlässlich der Begründung einer neuen Geschäftsbeziehung mit einer Vereinigung nach § 20 oder einer Rechtsgestaltung nach § 21 hat der Verpflichtete einen Nachweis der Registrierung nach § 20 Absatz 1 oder § 21 oder einen Auszug der im Transparenzregister zugänglichen Daten einzuholen. Der Verpflichtete muss bei Geschäftsbeziehungen oder Transaktionen mit Vereinigungen nach § 20 oder Rechtsgestaltungen nach § 21 keine über die Einsicht in das Transparenzregister hinausgehenden Maßnahmen zur Erfüllung seiner Pflicht nach Satz 1 ergreifen, wenn die nach § 11 Absatz 5 erhobenen Angaben mit den Angaben zu den wirtschaftlich Berechtigten im Transparenzregister übereinstimmen und keine sonstigen Anhaltspunkte bestehen, die Zweifel an der Identität der wirtschaftlich Berechtigten, ihrer Stellung als wirtschaftlich Berechtigten oder der Richtigkeit sonstiger Angaben nach § 19 Absatz 1 begründen oder die auf ein höheres Risiko der Geldwäsche und der Terrorismusfinanzierung gemäß § 15 Absatz 2 hindeuten.
+
+(4) Sofern der Vertragspartner bei einem Erwerbsvorgang nach § 1 des Grunderwerbsteuergesetzes für eine Rechtsform im Sinne von § 3 Absatz 2 oder 3 handelt, hat der beurkundende Notar vor der Beurkundung die Identität des wirtschaftlich Berechtigten anhand einer von dem jeweiligen Vertragspartner in Textform vorzulegenden Dokumentation der Eigentums- und Kontrollstruktur auf ihre Schlüssigkeit zu überprüfen. Die Dokumentation ist der Zentralstelle für Finanztransaktionsuntersuchungen sowie den Strafverfolgungsbehörden auf Verlangen zur Verfügung zu stellen.
+
+(5) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere Dokumente bestimmen, die zur Überprüfung der Identität geeignet sind.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-# § 13 – Verfahren zur Identitätsüberprüfung, Verordnungsermächtigung
+# § 13 – Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung
 
-(1) Verpflichtete überprüfen die Identität der natürlichen Personen mit einem der folgenden Verfahren:
+(1) Verpflichtete überprüfen die zum Zweck der Identifizierung erhobenen Angaben bei natürlichen Personen mit einem der folgenden Verfahren:
 
 1. durch angemessene Prüfung des vor Ort vorgelegten Dokuments oder
 
@@ -702,9 +734,13 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 (2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
-1. Konkretisierungen oder weitere Anforderungen an das in Absatz 1 genannte Verfahren sowie an die sich dieses bedienenden Verpflichteten festlegen und
+1. Konkretisierungen oder weitere Anforderungen an das in Absatz 1 genannte Verfahren und an die sich dieses Verfahrens bedienenden Verpflichteten sowie die Aufzeichnungs- und Aufbewahrungspflichten bei Nutzung dieses Verfahrens festlegen,
 
-2. Verfahren bestimmen, die zur geldwäscherechtlichen Identifizierung nach Absatz 1 Nummer 2 geeignet sind.
+2. Verfahren bestimmen, die zur geldwäscherechtlichen Identifizierung nach Absatz 1 Nummer 2 geeignet sind und
+
+3. Verfahren bestimmen, deren Eignung zur geldwäscherechtlichen Überprüfung der Identität erprobt wird und bei denen zu ermitteln ist, ob sie ein Sicherheitsniveau aufweisen, das dem in Absatz 1 Nummer 1 genannten Verfahren gleichwertig ist.
+
+Bei Verfahren nach Nummer 3 können die Aufsichtsbehörden nach § 50 dazu ermächtigt werden, die Nutzung der Verfahren befristet, unter Vorbehalt eines Widerrufs und unter Auflagen zuzulassen. Eine Zulassung elektronischer Verfahren nach Nummer 3 erfolgt nur, wenn das Bundesamt für Sicherheit in der Informationstechnik bei einer vorherigen Überprüfung des Verfahrens das für die Erprobung notwendige Sicherheitsniveau festgestellt hat.
 
 # § 14 – Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung
 
@@ -714,7 +750,7 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 1. den Umfang der Maßnahmen, die zur Erfüllung der allgemeinen Sorgfaltspflichten zu treffen sind, angemessen reduzieren und
 
-2. insbesondere die Überprüfung der Identität abweichend von den §§ 12 und 13 auf der Grundlage von sonstigen Dokumenten, Daten oder Informationen durchführen, die von einer glaubwürdigen und unabhängigen Quelle stammen und für die Überprüfung geeignet sind.
+2. insbesondere die Überprüfung der zum Zweck der Identifizierung nach § 11 erhobenen Angaben abweichend von den §§ 12 und 13 auf der Grundlage von sonstigen Dokumenten, Daten oder Informationen durchführen, die von einer glaubwürdigen und unabhängigen Quelle stammen und für die Überprüfung geeignet sind.
 
 Die Verpflichteten müssen in jedem Fall die Überprüfung von Transaktionen und die Überwachung von Geschäftsbeziehungen in einem Umfang sicherstellen, der es ihnen ermöglicht, ungewöhnliche oder verdächtige Transaktionen zu erkennen und zu melden.
 
@@ -880,13 +916,13 @@ Bei der Transaktion hat der Verpflichtete den Verwendungszweck dahingehend zu sp
 
 1. Verpflichtete nach § 2 Absatz 1,
 
-2. Verpflichtete gemäß Artikel 2 Absatz 1 der Richtlinie (EU) 2015/849 in einem anderen Mitgliedstaat der Europäischen Union,
+2. Verpflichtete gemäß Artikel 2 Absatz 1 der Richtlinie (EU) 2015/849 in einem anderen Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum,
 
 3. Mitgliedsorganisationen oder Verbände von Verpflichteten nach Nummer 2 oder in einem Drittstaat ansässige Institute und Personen, sofern diese Sorgfalts- und Aufbewahrungspflichten unterliegen,
 
 a) die den in der Richtlinie (EU) 2015/849 festgelegten Sorgfalts- und Aufbewahrungspflichten entsprechen und
 
-b) deren Einhaltung in einer mit Kapitel IV Abschnitt 2 der Richtlinie (EU) 2015/849 im Einklang stehenden Weise beaufsichtigt wird.
+b) deren Einhaltung in einer mit Kapitel VI Abschnitt 2 der Richtlinie (EU) 2015/849 im Einklang stehenden Weise beaufsichtigt wird.
 
 Die Verantwortung für die Erfüllung der allgemeinen Sorgfaltspflichten bleibt bei dem Verpflichteten.
 
@@ -904,7 +940,7 @@ Die Verantwortung für die Erfüllung der allgemeinen Sorgfaltspflichten bleibt 
 
 3. ihm diese Informationen unverzüglich und unmittelbar übermitteln.
 
-Er hat zudem angemessene Schritte zu unternehmen, um zu gewährleisten, dass die Dritten ihm auf seine Anforderung hin unverzüglich Kopien derjenigen Dokumente, die maßgeblich zur Feststellung und Überprüfung der Identität des Vertragspartners, gegebenenfalls der für diesen auftretenden Personen und eines etwaigen wirtschaftlich Berechtigten sind, einschließlich Informationen, soweit diese verfügbar sind, die mittels elektronischer Mittel für die Identitätsfeststellung nach § 12 Absatz 1 Satz 1 Nummer 4 eingeholt wurden, sowie andere maßgebliche Unterlagen vorlegen. Die Dritten sind befugt, zu diesem Zweck Kopien von Ausweisdokumenten zu erstellen und weiterzuleiten.
+Er hat zudem angemessene Schritte zu unternehmen, um zu gewährleisten, dass die Dritten ihm auf seine Anforderung hin unverzüglich Kopien derjenigen Dokumente, die maßgeblich zur Feststellung und Überprüfung der Identität des Vertragspartners, gegebenenfalls der für diesen auftretenden Personen und eines etwaigen wirtschaftlich Berechtigten sind, einschließlich Informationen, soweit diese verfügbar sind, die mittels elektronischer Mittel nach § 12 Absatz 1 Satz 1 Nummer 4 eingeholt wurden, sowie andere maßgebliche Unterlagen vorlegen. Die Dritten sind befugt, zu diesem Zweck Kopien von Ausweisdokumenten zu erstellen und weiterzuleiten.
 
 (3a) Der Dritte kann zur Identifizierung des Vertragspartners, einer gegebenenfalls für ihn auftretenden Person und eines wirtschaftlich Berechtigten auch auf anlässlich einer zu einem früheren Zeitpunkt erfolgten Identifizierung dieser Person eingeholte Informationen nach Absatz 3 Satz 1 Nummer 2 zurückgreifen, sofern
 
@@ -960,7 +996,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 # § 19 – Angaben zum wirtschaftlich Berechtigten
 
-(1) Über das Transparenzregister sind im Hinblick auf Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 folgende Angaben zum wirtschaftlich Berechtigten nach Maßgabe des § 23 zugänglich:
+(1) Im Transparenzregister sind im Hinblick auf Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 folgende Angaben zum wirtschaftlich Berechtigten nach Maßgabe des § 23 zugänglich:
 
 1. Vor- und Nachname,
 
@@ -970,7 +1006,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 4. Art und Umfang des wirtschaftlichen Interesses und
 
-5. Staatsangehörigkeit.
+5. alle Staatsangehörigkeiten.
 
 (2) Für die Bestimmung des wirtschaftlich Berechtigten von Vereinigungen im Sinne des § 20 Absatz 1 Satz 1 mit Ausnahme der rechtsfähigen Stiftungen gilt § 3 Absatz 1 und 2 entsprechend. Für die Bestimmung des wirtschaftlich Berechtigten von Rechtsgestaltungen nach § 21 und rechtsfähigen Stiftungen gilt § 3 Absatz 1 und 3 entsprechend.
 
@@ -988,31 +1024,17 @@ c) der Funktion des gesetzlichen Vertreters, geschäftsführenden Gesellschafter
 
 # § 20 – Transparenzpflichten im Hinblick auf bestimmte Vereinigungen
 
-(1) Juristische Personen des Privatrechts und eingetragene Personengesellschaften haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten dieser Vereinigungen einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Vereinigungen mit Sitz im Ausland, wenn sie sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben. Die Pflicht nach Satz 1 gilt nicht für in Satz 2 genannte Vereinigungen, wenn sie die Angaben nach Artikel 1 Nummer 15 Buchstabe c der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt haben. Die Mitteilung hat elektronisch in einer Form zu erfolgen, die ihre elektronische Zugänglichmachung ermöglicht. Bei den Angaben zu Art und Umfang des wirtschaftlichen Interesses nach § 19 Absatz 1 Nummer 4 ist anzugeben, woraus nach § 19 Absatz 3 die Stellung als wirtschaftlich Berechtigter folgt, sofern nicht Absatz 2 Satz 2 einschlägig ist.
+(1) Juristische Personen des Privatrechts und eingetragene Personengesellschaften haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten dieser Vereinigungen einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Vereinigungen mit Sitz im Ausland, wenn sie sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben, wenn Anteile im Sinne des § 1 Absatz 3 des Grunderwerbsteuergesetzes sich bei ihr vereinigen oder auf sie übergehen, oder wenn sie im Sinne des § 1 Absatz 3a des Grunderwerbsteuergesetzes aufgrund eines Rechtsvorgangs eine wirtschaftliche Beteiligung innehaben. Die Pflicht nach Satz 1 gilt nicht für in Satz 2 genannte Vereinigungen, wenn sie die Angaben nach Artikel 1 Nummer 15 Buchstabe c der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt haben. Die Mitteilung hat elektronisch in einer Form zu erfolgen, die ihre elektronische Zugänglichmachung ermöglicht. Bei den Angaben zu Art und Umfang des wirtschaftlichen Interesses nach § 19 Absatz 1 Nummer 4 ist anzugeben, woraus nach § 19 Absatz 3 die Stellung als wirtschaftlich Berechtigter folgt.
 
-(1a) Eine juristische Person des Privatrechts oder eine eingetragene Personengesellschaft, die nach Absatz 1 Satz 1 mitteilungspflichtig ist und die nicht in einem der in Absatz 2 Satz 1 Nummer 1 bis 4 aufgeführten Register eingetragen ist, hat der registerführenden Stelle unverzüglich mitzuteilen, wenn
+(2) Eine juristische Person des Privatrechts oder eine eingetragene Personengesellschaft, die nach Absatz 1 Satz 1 mitteilungspflichtig ist und die nicht im Handelsregister, Genossenschaftsregister, Partnerschaftsregister oder Vereinsregister eingetragen ist, hat der registerführenden Stelle unverzüglich mitzuteilen, wenn
 
-1. sich ihre Bezeichnung geändert hat,
+1. sich ihre Bezeichnung oder ihr Sitz geändert hat,
 
 2. sie verschmolzen worden ist,
 
 3. sie aufgelöst worden ist oder
 
 4. ihre Rechtsform geändert wurde.
-
-(2) Die Pflicht zur Mitteilung an das Transparenzregister nach Absatz 1 Satz 1 gilt als erfüllt, wenn sich die in § 19 Absatz 1 Nummer 1 bis 4 aufgeführten Angaben zum wirtschaftlich Berechtigten bereits aus den in § 22 Absatz 1 aufgeführten Dokumenten und Eintragungen ergeben, die elektronisch abrufbar sind aus:
-
-1. dem Handelsregister (§ 8 des Handelsgesetzbuchs),
-
-2. dem Partnerschaftsregister (§ 5 des Partnerschaftsgesellschaftsgesetzes),
-
-3. dem Genossenschaftsregister (§ 10 des Genossenschaftsgesetzes),
-
-4. dem Vereinsregister (§ 55 des Bürgerlichen Gesetzbuchs) oder
-
-5. dem Unternehmensregister (§ 8b Absatz 2 des Handelsgesetzbuchs).
-
-Bei Gesellschaften, die an einem organisierten Markt nach § 2 Absatz 11 des Wertpapierhandelsgesetzes notiert sind oder dem Gemeinschaftsrecht entsprechenden Transparenzanforderungen im Hinblick auf Stimmrechtsanteile oder gleichwertigen internationalen Standards unterliegen, gilt die Pflicht zur Mitteilung an das Transparenzregister stets als erfüllt. Eine gesonderte Angabe im Hinblick auf Art und Umfang des wirtschaftlichen Interesses nach § 19 Absatz 1 Nummer 4 ist nicht erforderlich, wenn sich aus den in § 22 Absatz 1 aufgeführten Dokumenten und Eintragungen ergibt, woraus nach § 19 Absatz 3 die Stellung als wirtschaftlich Berechtigter folgt. Ist eine Mitteilung nach Absatz 1 Satz 1 an das Transparenzregister erfolgt und ändert sich danach der wirtschaftlich Berechtigte, so dass sich die Angaben zu ihm nun aus den in Satz 1 aufgeführten Registern ergeben, ist dies der registerführenden Stelle nach Absatz 1 Satz 1 unverzüglich zur Berücksichtigung im Transparenzregister mitzuteilen.
 
 (3) Wirtschaftlich Berechtigte von Vereinigungen nach Absatz 1 haben diesen Vereinigungen die zur Erfüllung der Pflichten nach Absatz 1 notwendigen Angaben mitzuteilen und jede Änderung dieser Angaben unverzüglich mitzuteilen. Anteilseigner, die wirtschaftlich Berechtigte sind oder die von dem wirtschaftlich Berechtigten unmittelbar kontrolliert werden, haben den Vereinigungen nach Absatz 1 die zur Erfüllung der Pflichten nach Absatz 1 notwendigen Angaben mitzuteilen und jede Änderung dieser Angaben unverzüglich mitzuteilen. Kontrolliert ein Mitglied eines Vereins oder einer Genossenschaft mehr als 25 Prozent der Stimmrechte, so trifft die Mitteilungspflicht nach Satz 1 dieses Mitglied. Bei Stiftungen trifft die Mitteilungspflicht nach Satz 1 die Personen nach § 3 Absatz 3.
 
@@ -1026,13 +1048,31 @@ Bei Gesellschaften, die an einem organisierten Markt nach § 2 Absatz 11 des Wer
 
 Der Anteilseigner hat die Mitteilung an die Vereinigung zu dokumentieren und aufzubewahren.
 
-(4) Die Angabepflicht nach Absatz 3 entfällt, wenn die Meldepflicht nach Absatz 1 gemäß Absatz 2 als erfüllt gilt oder wenn die Anteilseigner, Mitglieder und wirtschaftlich Berechtigten die erforderlichen Angaben bereits in anderer Form mitgeteilt haben.
+(4) Die Angabepflicht nach Absatz 3 entfällt, wenn die Anteilseigner, Mitglieder und wirtschaftlich Berechtigten die erforderlichen Angaben bereits in anderer Form mitgeteilt haben.
 
 (5) Die Zentralstelle für Finanztransaktionsuntersuchungen und die Aufsichtsbehörden können im Rahmen ihrer Aufgaben und Befugnisse die nach Absatz 1 aufbewahrten Angaben einsehen oder sich vorlegen lassen. Die Angaben sind ihnen unverzüglich zur Verfügung zu stellen.
 
+# § 20a – Automatische Eintragung für Vereine
+
+(1) Für eingetragene Vereine nach § 21 des Bürgerlichen Gesetzbuchs erstellt die registerführende Stelle anhand der im Vereinsregister eingetragenen Daten eine Eintragung in das Transparenzregister, ohne dass es hierfür einer Mitteilung nach § 20 Absatz 1 Satz 1 bedarf. Im Rahmen dieser Eintragung werden alle Mitglieder des Vorstands eines Vereins mit den Daten nach § 19 Absatz 1 als wirtschaftliche Berechtigte nach § 3 Absatz 2 Satz 5 im Transparenzregister erfasst. Soweit diese Daten nicht im Vereinsregister vorhanden sind, wird als Wohnsitzland Deutschland und als einzige Staatsangehörigkeit die deutsche Staatsangehörigkeit angenommen. Die nach Satz 1 eingetragenen Daten gelten als Angaben des Vereins, soweit der Verein der registerführenden Stelle keine abweichenden Angaben mitgeteilt hat.
+
+(2) Abweichend von § 20 Absatz 1 Satz 1 muss ein eingetragener Verein nach § 21 des Bürgerlichen Gesetzbuchs die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten der registerführenden Stelle nur dann zur Eintragung mitteilen, wenn
+
+1. eine Änderung des Vorstands nicht unverzüglich zur Eintragung in das Vereinsregister angemeldet worden ist,
+
+2. mindestens ein wirtschaftlich Berechtigter nach § 3 Absatz 2 Satz 1 bis 4 vorhanden ist oder
+
+3. die Annahmen nach Absatz 1 Satz 3 nicht zutreffen.
+
+Eine Eintragung durch die registerführende Stelle nach Absatz 1 wird nicht vorgenommen, wenn der Verein der registerführenden Stelle Angaben nach § 19 Absatz 1 zur Eintragung in das Transparenzregister mitgeteilt hat. Dies gilt nicht, wenn der Verein der registerführenden Stelle mitgeteilt hat, dass die mitgeteilten Angaben nach § 19 Absatz 1 nicht mehr gelten sollen. Die Mitteilung nach Satz 3 hat elektronisch über die Webseite des Transparenzregisters zu erfolgen.
+
+(3) Eine Eintragung nach Absatz 1 erfolgt erstmals spätestens zum 1. Januar 2023. Danach erfolgt die automatische Eintragung anlassbezogen.
+
+(4) Bei Eintragung nach Absatz 1 handelt die registerführende Stelle nach § 18 Absatz 2 im Rahmen der hoheitlichen Aufgaben des Bundes. Zu diesem Zweck ist die registerführende Stelle beim Abruf von Daten aus den Vereinsregistern von der Zahlung der Gebühren nach § 2 Absatz 1 des Justizverwaltungskostengesetzes befreit.
+
 # § 21 – Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen
 
-(1) Verwalter von Trusts (Trustees) mit Wohnsitz oder Sitz in Deutschland haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten des Trusts, den sie verwalten, und die Staatsangehörigkeit der wirtschaftlich Berechtigten einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Trustees, die außerhalb der Europäischen Union ihren Wohnsitz oder Sitz haben, wenn sie für den Trust eine Geschäftsbeziehung mit einem Vertragspartner mit Sitz in Deutschland aufnehmen oder sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben. Die Pflicht nach Satz 1 gilt nicht für die in Satz 2 genannten Trustees, wenn ein Trustee die Angaben nach Artikel 1 Nummer 16 Buchstabe a der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt hat und
+(1) Verwalter von Trusts (Trustees) mit Wohnsitz oder Sitz in Deutschland haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten des Trusts, den sie verwalten, einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Trustees, die außerhalb der Europäischen Union ihren Wohnsitz oder Sitz haben, wenn sie für den Trust eine Geschäftsbeziehung mit einem Vertragspartner mit Sitz in Deutschland aufnehmen oder sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben, wenn Anteile im Sinne des § 1 Absatz 3 des Grunderwerbsteuergesetzes sich bei ihr vereinigen oder auf sie übergehen, oder wenn sie im Sinne des § 1 Absatz 3a des Grunderwerbsteuergesetzes aufgrund eines Rechtsvorgangs eine wirtschaftliche Beteiligung innehaben. Die Pflicht nach Satz 1 gilt nicht für die in Satz 2 genannten Trustees, wenn ein Trustee die Angaben nach Artikel 1 Nummer 16 Buchstabe a der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt hat und
 
 1. der Trustee in diesem Mitgliedstaat der Europäischen Union ebenfalls einen Wohnsitz oder Sitz unterhält oder
 
@@ -1062,7 +1102,7 @@ Der Anteilseigner hat die Mitteilung an die Vereinigung zu dokumentieren und auf
 
 (1) Über die Internetseite des Transparenzregisters sind nach Maßgabe des § 23 zugänglich:
 
-1. Eintragungen im Transparenzregister zu Meldungen nach § 20 Absatz 1 Satz 1, Absatz 2 Satz 4 und nach § 21,
+1. Eintragungen im Transparenzregister zu Meldungen nach § 20 Absatz 1 Satz 1 und nach § 21,
 
 2. Bekanntmachungen des Bestehens einer Beteiligung nach § 20 Absatz 6 des Aktiengesetzes,
 
@@ -1078,7 +1118,7 @@ Der Anteilseigner hat die Mitteilung an die Vereinigung zu dokumentieren und auf
 
 8. Eintragungen im Vereinsregister.
 
-Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 8, die aus den in § 20 Absatz 2 Satz 1 genannten öffentlichen Registern elektronisch abrufbar sind.
+Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die Einsicht geregelten Umfang sind nur solche Dokumente und Eintragungen nach Satz 1 Nummer 2 bis 8, die aus dem Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Unternehmensregister oder Vereinsregister elektronisch abrufbar sind.
 
 (2) Um die Eröffnung des Zugangs zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 bis 8 über die Internetseite des Transparenzregisters zu ermöglichen, sind dem Transparenzregister die dafür erforderlichen Daten (Indexdaten) zu übermitteln. Der Betreiber des Unternehmensregisters übermittelt die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 2 und 3 dem Transparenzregister. Die Landesjustizverwaltungen übermitteln die Indexdaten zu den Originaldaten nach Absatz 1 Satz 1 Nummer 4 bis 8 dem Transparenzregister. Die Indexdaten dienen nur der Zugangsvermittlung und dürfen nicht zugänglich gemacht werden.
 
@@ -1108,15 +1148,15 @@ g) den Gerichten sowie
 
 h) den Stellen nach § 2 Absatz 4,
 
-2. den Verpflichteten, sofern sie der registerführenden Stelle darlegen, dass die Einsichtnahme zur Erfüllung ihrer Sorgfaltspflichten in einem der in § 10 Absatz 3 genannten Fälle erfolgt, und
+2. den Verpflichteten, sofern sie der registerführenden Stelle darlegen, dass die Einsichtnahme zur Erfüllung ihrer Sorgfaltspflichten in einem der in § 10 Absatz 3 und 3a genannten Fälle erfolgt, und
 
 3. allen Mitgliedern der Öffentlichkeit.
 
-Im Fall des Satzes 1 Nummer 3 sind neben den Angaben nach § 19 Absatz 1 Nummer 1 und 4 nur Monat und Jahr der Geburt des wirtschaftlich Berechtigten, sein Wohnsitzland und die Staatsangehörigkeit der Einsicht zugänglich, sofern sich nicht alle Angaben nach § 19 Absatz 1 bereits aus anderen öffentlichen Registern ergeben.
+In diesen Fällen ist die registerführende Stelle befugt, die zugänglichen Daten an den Einsichtnehmenden zu übermitteln. Im Fall des Satzes 1 Nummer 3 sind neben den Angaben nach § 19 Absatz 1 Nummer 1 und 4 nur Monat und Jahr der Geburt des wirtschaftlich Berechtigten, sein Wohnsitzland und alle Staatsangehörigkeiten der Einsichtnahme zugänglich und dürfen übermittelt werden.
 
-(2) Auf Antrag des wirtschaftlich Berechtigten beschränkt die registerführende Stelle die Einsichtnahme in das Transparenzregister vollständig oder teilweise, wenn ihr der wirtschaftlich Berechtigte darlegt, dass der Einsichtnahme unter Berücksichtigung aller Umstände des Einzelfalls überwiegende schutzwürdige Interessen des wirtschaftlich Berechtigten entgegenstehen. Schutzwürdige Interessen liegen vor, wenn
+(2) Auf Antrag des wirtschaftlich Berechtigten beschränkt die registerführende Stelle die Einsichtnahme in das Transparenzregister und die Übermittlung der Daten vollständig oder teilweise, wenn ihr der wirtschaftlich Berechtigte darlegt, dass der Einsichtnahme und der Übermittlung unter Berücksichtigung aller Umstände des Einzelfalls überwiegende schutzwürdige Interessen des wirtschaftlich Berechtigten entgegenstehen. Schutzwürdige Interessen liegen vor, wenn
 
-1. Tatsachen die Annahme rechtfertigen, dass die Einsichtnahme den wirtschaftlich Berechtigten der Gefahr aussetzen würde, Opfer einer der folgenden Straftaten zu werden:
+1. Tatsachen die Annahme rechtfertigen, dass die Einsichtnahme und Übermittlung den wirtschaftlich Berechtigten der Gefahr aussetzen würde, Opfer einer der folgenden Straftaten zu werden:
 
 a) eines Betrugs (§ 263 des Strafgesetzbuchs),
 
@@ -1134,15 +1174,19 @@ g) einer Bedrohung (§ 241 des Strafgesetzbuchs) oder
 
 2. der wirtschaftlich Berechtigte minderjährig oder geschäftsunfähig ist.
 
-Schutzwürdige Interessen des wirtschaftlich Berechtigten liegen nicht vor, wenn sich die Daten bereits aus den in § 22 Absatz 1 genannten Registern ergeben. Die Beschränkung der Einsichtnahme nach Satz 1 ist nicht möglich gegenüber den in Absatz 1 Satz 1 Nummer 1 aufgeführten Behörden und gegenüber Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 7 sowie gegenüber Notaren. Die registerführende Stelle hat jährlich eine Statistik über die Anzahl der bewilligten Beschränkungen und darüber, ob die Beschränkungen nach Satz 1 Nummer 1 oder 2 erfolgt sind, zu erstellen, auf ihrer Internetseite zu veröffentlichen und an die Europäische Kommission zu übermitteln.
+Schutzwürdige Interessen des wirtschaftlich Berechtigten liegen nicht vor, wenn sich die Daten bereits aus den in § 22 Absatz 1 genannten Registern ergeben. Die Beschränkung der Einsichtnahme und Übermittlung nach Satz 1 ist nicht möglich gegenüber den in Absatz 1 Satz 1 Nummer 1 aufgeführten Behörden und gegenüber Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 7 sowie gegenüber Notaren. Die registerführende Stelle hat jährlich eine Statistik über die Anzahl der bewilligten Beschränkungen und darüber, ob die Beschränkungen nach Satz 2 Nummer 1 oder 2 erfolgt sind, zu erstellen, auf ihrer Internetseite zu veröffentlichen und an die Europäische Kommission zu übermitteln.
 
-(3) Die Einsichtnahme ist nur nach vorheriger Online-Registrierung des Nutzers möglich und kann zum Zweck der Kontrolle, wer Einsicht genommen hat, protokolliert werden. Die registerführende Stelle ist nicht befugt, gegenüber Vereinigungen nach § 20 und Rechtsgestaltungen nach § 21 offenzulegen, wer Einsicht in die Angaben genommen hat, die die Vereinigungen und Rechtsgestaltungen zu ihren wirtschaftlich Berechtigten gemacht haben.
+(3) Die in § 23 Absatz 1 Satz 1 Nummer 1 genannten Behörden sowie diejenigen in § 23 Absatz 1 Satz 1 Nummer 2 genannten Verpflichteten, gegenüber denen die Beschränkung der Einsichtnahme und Übermittlung nach § 23 Absatz 2 Satz 4 nicht möglich ist, können die Einsichtnahme mittels eines durch die registerführende Stelle geschaffenen und nach ihren Vorgaben ausgestalteten automatisierten Einsichtnahmeverfahrens durchführen. Die registerführende Stelle ist befugt, den in Satz 1 genannten Stellen die nach Maßgabe des Absatzes 1 zugänglichen Daten im automatisierten Verfahren zu übermitteln. Bestehen Zweifel daran, dass die Einsichtnahme zur Erfüllung der gesetzlichen Aufgaben einer Behörde erforderlich ist oder zur Erfüllung der Sorgfaltspflicht eines Verpflichteten nach Satz 1 erfolgt, ist die registerführende Stelle berechtigt, die Verfahren nach den Sätzen 1 und 2 zu sperren. Sie kann die Behörde nach Satz 1 zur Bestätigung, dass die Einsichtnahme zur Erfüllung der gesetzlichen Aufgaben erforderlich ist, auffordern und den Verpflichteten nach Satz 1 dauerhaft auf das für alle Verpflichteten geltende Verfahren nach Absatz 1 verweisen. Die Bestätigung nach Satz 4 hat durch den Dienstvorgesetzten zu erfolgen. Die beteiligten Stellen haben zu gewährleisten, dass für Einsichtnahmen und Datenübermittlungen im automatisierten Verfahren die erforderlichen technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten.
 
-(4) Das Transparenzregister erlaubt die Suche nach Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 über alle eingestellten Daten sowie über sämtliche Indexdaten.
+(4) Die Einsichtnahme ist nur nach vorheriger Online-Registrierung des Nutzers möglich und kann zum Zweck der Kontrolle, wer Einsicht genommen hat, protokolliert werden. Die registerführende Stelle ist nicht befugt, gegenüber Vereinigungen nach § 20 und Rechtsgestaltungen nach § 21 offenzulegen, wer Einsicht in die Angaben genommen hat, die die Vereinigungen und Rechtsgestaltungen zu ihren wirtschaftlich Berechtigten gemacht haben.
 
-(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Einsichtnahme und Beschränkung, insbesondere der Online-Registrierung und der Protokollierung wie die zu protokollierenden Daten und die Löschungsfrist für die protokollierten Daten nach Absatz 3, der Darlegungsanforderungen für die Einsichtnahme nach Absatz 1 Satz 1 Nummer 2 und 3 und der Darlegungsanforderungen für die Beschränkung der Einsichtnahme nach Absatz 2 zu bestimmen.
+(5) Das Transparenzregister erlaubt die Suche nach Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 über alle eingestellten Daten sowie über sämtliche Indexdaten.
 
-(6) Auf Antrag ist dem wirtschaftlich Berechtigten durch die registerführende Stelle Auskunft über die nach § 23 Absatz 1 Satz 1 Nummer 3 erfolgten Einsichtnahmen zu erteilen. Der wirtschaftlich Berechtigte hat bei Antragstellung die Vereinigung nach § 20 oder die Rechtsgestaltung nach § 21 anzugeben, für die eine Auskunft beantragt wird. Die Auskunft beinhaltet folgende Informationen:
+(6) Die Einsichtnahme und Übermittlung der Daten aus dem Transparenzregister an einsichtnehmende Behörden erfolgt ausschließlich zu den in Absatz 1 Nummer 1 genannten Zwecken der Aufgabenerfüllung der jeweiligen Behörden. Die Einsichtnahme und Übermittlung der Daten aus dem Transparenzregister an einsichtnehmende Verpflichtete erfolgt ausschließlich zur Erfüllung der Sorgfaltspflichten des jeweiligen Verpflichteten.
+
+(7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Einsichtnahme, Datenübermittlung und Beschränkung, insbesondere der Online-Registrierung und der Protokollierung wie die zu protokollierenden Daten und die Löschungsfrist für die protokollierten Daten nach Absatz 3, der Darlegungsanforderungen für die Einsichtnahme und Übermittlung nach Absatz 1 Satz 1 Nummer 2 und 3 und der Darlegungsanforderungen für die Beschränkung der Einsichtnahme und Übermittlung nach Absatz 2 zu bestimmen.
+
+(8) Auf Antrag ist dem wirtschaftlich Berechtigten durch die registerführende Stelle Auskunft über die nach § 23 Absatz 1 Satz 1 Nummer 3 erfolgten Einsichtnahmen zu erteilen. Der wirtschaftlich Berechtigte hat bei Antragstellung die Vereinigung nach § 20 oder die Rechtsgestaltung nach § 21 anzugeben, für die eine Auskunft beantragt wird. Die Auskunft beinhaltet folgende Informationen:
 
 1. die beauskunfteten personenbezogenen Daten des wirtschaftlich Berechtigten,
 
@@ -1154,17 +1198,19 @@ Schutzwürdige Interessen des wirtschaftlich Berechtigten liegen nicht vor, wenn
 
 5. bei Einsichtnahme durch juristische Personen deren Bezeichnung.
 
-Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch einmal im Quartal zu erteilen. Der wirtschaftlich Berechtigte belegt im Rahmen der Antragstellung nach Satz 1 seine Identität und seine Stellung als wirtschaftlich Berechtigter der im Antrag in Bezug genommenen Vereinigung nach § 20 oder Rechtsgestaltung nach § 21 anhand geeigneter Nachweise. Geeignete Nachweise zur Feststellung der Identität sind solche nach § 12. Die Antragstellung und Auskunftserteilung nach diesem Absatz ist ausschließlich über die Internetseite des Transparenzregisters nach den Vorgaben der registerführenden Stelle möglich.
+Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch einmal im Quartal zu erteilen. Der wirtschaftlich Berechtigte belegt im Rahmen der Antragstellung nach Satz 1 seine Identität und seine Stellung als wirtschaftlich Berechtigter der im Antrag in Bezug genommenen Vereinigung nach § 20 oder Rechtsgestaltung nach § 21 anhand geeigneter Nachweise. Geeignete Nachweise sind solche nach § 12. Die Antragstellung und Auskunftserteilung nach diesem Absatz ist ausschließlich über die Internetseite des Transparenzregisters nach den Vorgaben der registerführenden Stelle möglich.
 
 (+++ § 23 Abs. 1 bis 3: Zur Anwendung vgl. § 26 Abs. 1 u. § 59 Abs. 3 +++)
 
 # § 23a – Meldung von Unstimmigkeiten an die registerführende Stelle
 
-(1) Verpflichtete nach § 23 Absatz 1 Satz 1 Nummer 2 haben der registerführenden Stelle Unstimmigkeiten unverzüglich zu melden, die sie zwischen den Angaben über die wirtschaftlich Berechtigten, die im Transparenzregister zugänglich sind, und den ihnen zur Verfügung stehenden Angaben und Erkenntnissen über die wirtschaftlich Berechtigten feststellen. § 43 Absatz 2 gilt entsprechend. Zuständige Behörden nach § 23 Absatz 1 Satz 1 Nummer 1 Buchstabe a und b trifft die Pflicht nach Satz 1, sofern dadurch die Aufgabenwahrnehmung der Behörden nicht beeinträchtigt wird. Eine Unstimmigkeit nach Satz 1 besteht, wenn Eintragungen nach § 20 Absatz 1 und 2 sowie nach § 21 Absatz 1 und 2 fehlen, einzelne Angaben zu den wirtschaftlich Berechtigten nach § 19 Absatz 1 abweichen oder wenn abweichende wirtschaftlich Berechtigte ermittelt wurden. Die der Unstimmigkeitsmeldung zugrunde liegende Ermittlung der wirtschaftlich Berechtigten hat nach den Vorgaben des § 3 zu erfolgen.
+(1) Verpflichtete nach § 23 Absatz 1 Satz 1 Nummer 2 haben der registerführenden Stelle Unstimmigkeiten unverzüglich zu melden, die sie zwischen den Angaben über die wirtschaftlich Berechtigten, die im Transparenzregister zugänglich sind, und den ihnen zur Verfügung stehenden Angaben und Erkenntnissen über die wirtschaftlich Berechtigten feststellen. § 43 Absatz 2 gilt entsprechend. Zuständige Behörden nach § 23 Absatz 1 Satz 1 Nummer 1 Buchstabe a und b trifft die Pflicht nach Satz 1, sofern dadurch die Aufgabenwahrnehmung der Behörden nicht beeinträchtigt wird. Eine Unstimmigkeit nach Satz 1 besteht, wenn Eintragungen nach § 20 Absatz 1 sowie nach § 21 Absatz 1 und 2 fehlen, einzelne Angaben zu den wirtschaftlich Berechtigten nach § 19 Absatz 1 abweichen oder wenn abweichende wirtschaftlich Berechtigte ermittelt wurden. Die der Unstimmigkeitsmeldung zugrunde liegende Ermittlung der wirtschaftlich Berechtigten hat nach den Vorgaben des § 3 zu erfolgen.
 
 (2) Die registerführende Stelle hat auf der Internetseite des Transparenzregisters deutlich sichtbar eine Vorkehrung einzurichten, über die Unstimmigkeitsmeldungen nach Absatz 1 abzugeben sind.
 
 (3) Die registerführende Stelle hat die Unstimmigkeitsmeldung nach Absatz 1 unverzüglich zu prüfen. Hierzu kann sie von dem Erstatter der Unstimmigkeitsmeldung, der betroffenen Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21 die zur Aufklärung erforderlichen Informationen und Unterlagen verlangen.
+
+(3a) Im Rahmen der Prüfung der Unstimmigkeitsmeldung erstellt die registerführende Stelle auf Basis der in den anderen Registern vorhandenen Informationen sowie der aufgrund von Nachfragen nach Absatz 3 erhaltenen Informationen und Unterlagen Eigentums- und Kontrollstrukturübersichten der betroffenen Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21, soweit dies im Einzelfall zur Prüfung der Unstimmigkeitsmeldung erforderlich ist. Sie hat diese Übersichten nach Abschluss der Prüfung zwei Jahre aufzubewahren und danach zu löschen. Die Eigentums- und Kontrollstrukturübersicht wird nicht Teil der Eintragung im Transparenzregister.
 
 (4) Die registerführende Stelle übergibt die Unstimmigkeitsmeldung mit allen erforderlichen Unterlagen der Behörde nach § 56 Absatz 5 Satz 2 im Rahmen ihrer Zuständigkeit für die Verfolgung von Ordnungswidrigkeiten nach § 56 Absatz 1 Satz 1 Nummer 54 bis 66, wenn
 
@@ -1172,15 +1218,15 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 2. sie die Prüfung der Unstimmigkeitsmeldung aufgrund unklarer Sachlage nicht abschließen konnte.
 
-(5) Nachdem das Verfahren zur Prüfung der Unstimmigkeitsmeldung abgeschlossen ist, ist der Erstatter der Unstimmigkeitsmeldung durch die registerführende Stelle über das Ergebnis der Prüfung unverzüglich zu informieren. Das Verfahren zur Prüfung der Unstimmigkeitsmeldung gilt als abgeschlossen, wenn die registerführende Stelle oder die Behörde nach § 56 Absatz 5 Satz 2 aufgrund der nach Absatz 3 erlangten Erkenntnisse oder aufgrund einer neuen Mitteilung der Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21, die Gegenstand der Unstimmigkeitsmeldung ist, zu dem Ergebnis gekommen ist, dass die Unstimmigkeit ausgeräumt ist.
+(5) Die registerführende Stelle hat dem Erstatter der Unstimmigkeitsmeldung die von ihr ermittelten Angaben zum wirtschaftlich Berechtigten im Sinne des § 19 Absatz 1 nach Abschluss der Prüfung unverzüglich zu übermitteln. Das Verfahren zur Prüfung der Unstimmigkeitsmeldung gilt als abgeschlossen, wenn die registerführende Stelle oder die Behörde nach § 56 Absatz 5 Satz 2 aufgrund der nach Absatz 3 erlangten Erkenntnisse oder aufgrund einer neuen oder berichtigenden Mitteilung der Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21, die Gegenstand der Unstimmigkeitsmeldung ist, zu dem Ergebnis gekommen ist, dass die Unstimmigkeit ausgeräumt ist.
 
 (6) Nach Eingang der Unstimmigkeitsmeldung nach Absatz 1 hat die registerführende Stelle auf dem Registerauszug sichtbar zu vermerken, dass die Angaben zu den wirtschaftlich Berechtigten der Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21 der Prüfung unterliegen. Der Abschluss des Verfahrens zur Prüfung der Unstimmigkeitsmeldung ist auf dem Registerauszug zu vermerken.
 
 # § 24 – Gebühren und Auslagen, Verordnungsermächtigung
 
-(1) Für die Führung des Transparenzregisters erhebt die registerführende Stelle von Vereinigungen nach § 20 und von Rechtsgestaltungen nach § 21 Gebühren. Dies gilt auf Antrag nicht für Vereinigungen nach § 20, die einen steuerbegünstigten Zweck im Sinne der §§ 52 bis 54 der Abgabenordnung verfolgen und dies mittels einer Bescheinigung des zuständigen Finanzamtes gegenüber der registerführenden Stelle nachweisen.
+(1) Für die Führung des Transparenzregisters erhebt die registerführende Stelle von Vereinigungen nach § 20 und von Rechtsgestaltungen nach § 21 Gebühren. Dies gilt auf Antrag nicht für Vereinigungen nach § 20, die einen steuerbegünstigten Zweck im Sinne der §§ 52 bis 54 der Abgabenordnung verfolgen und dies mittels einer Bescheinigung des zuständigen Finanzamtes gegenüber der registerführenden Stelle nachweisen. Ein Nachweis nach Satz 2 ist nicht erforderlich, wenn im Antrag die Verfolgung der nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke versichert und das Einverständnis darüber erklärt werden, dass die registerführende Stelle beim zuständigen Finanzamt eine Bestätigung der Verfolgung dieser steuerbegünstigten Zwecke einholen darf. Die registerführende Stelle erhebt keine Gebühren von Vereinigungen nach § 20, wenn sich die Verfolgung der nach den §§ 52 bis 54 der Abgabenordnung steuerbegünstigten Zwecke unmittelbar aus dem Zuwendungsempfängerregister nach § 60b der Abgabenordnung ergibt. Die durch die Gebührenbefreiung entstehenden Mindereinnahmen werden der registerführenden Stelle durch den Bund erstattet.
 
-(2) Für die Einsichtnahme in die dem Transparenzregister nach § 20 Absatz 1 und § 21 mitgeteilten Daten erhebt die registerführende Stelle zur Deckung des Verwaltungsaufwands Gebühren und Auslagen. Dasselbe gilt für die Erstellung von Ausdrucken, Bestätigungen und Beglaubigungen nach § 18 Absatz 4. Behörden und Gerichte nach § 23 Absatz 1 Satz 1 Nummer 1 und die Behörde nach § 56 Absatz 5 Satz 2 haben keine Gebühren und Auslagen nach den Sätzen 1 und 2 zu entrichten. § 8 Absatz 2 Satz 1 des Bundesgebührengesetzes ist nicht anzuwenden. Für Behörden gilt § 8 des Bundesgebührengesetzes.
+(2) Für die Einsichtnahme in die dem Transparenzregister nach § 20 Absatz 1 und § 21 mitgeteilten Daten und deren Übermittlung erhebt die registerführende Stelle zur Deckung des Verwaltungsaufwands Gebühren und Auslagen. Dasselbe gilt für die Erstellung von Ausdrucken, Bestätigungen und Beglaubigungen nach § 18 Absatz 4. Behörden und Gerichte nach § 23 Absatz 1 Satz 1 Nummer 1 und die Behörde nach § 56 Absatz 5 Satz 2 haben keine Gebühren und Auslagen nach den Sätzen 1 und 2 zu entrichten. § 8 Absatz 2 Satz 1 des Bundesgebührengesetzes ist nicht anzuwenden.
 
 (2a) Für die Registrierung und Identifizierung von wirtschaftlich Berechtigten im Zusammenhang mit einem Antrag nach § 23 Absatz 6 erhebt die registerführende Stelle zur Deckung des Verwaltungsaufwands Gebühren und Auslagen von den Antragstellern nach § 23 Absatz 6.
 
@@ -1214,7 +1260,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (4) Der Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bundesministerium der Finanzen zur Verfügung gestellt. Das kleine Bundessiegel darf ausschließlich zur Beglaubigung von Ausdrucken aus dem Transparenzregister und zu Bestätigungen nach § 18 Absatz 4 genutzt werden.
 
-(5) Der Beliehene ist befugt, die Gebühren nach § 24 zu erheben. Das Gebührenaufkommen steht ihm zu. In der Rechtsverordnung kann das Bundesministerium der Finanzen die Vollstreckung der Gebührenbescheide dem Beliehenen übertragen.
+(5) Der Beliehene ist befugt, die Gebühren nach § 24 zu erheben. Das Gebührenaufkommen steht ihm zu. In der Rechtsverordnung kann das Bundesministerium der Finanzen die Vollstreckung der Gebührenbescheide dem Beliehenen übertragen sowie die Ausgestaltung der Erstattung nach § 24 Absatz 1 Satz 5 näher regeln.
 
 (6) Der Beliehene untersteht der Rechts- und Fachaufsicht durch das Bundesverwaltungsamt. Das Bundesverwaltungsamt kann sich zur Wahrnehmung seiner Aufsichtstätigkeit jederzeit über die Angelegenheiten des Beliehenen unterrichten, insbesondere durch Einholung von Auskünften und Berichten sowie durch das Verlangen nach Vorlage von Aufzeichnungen aller Art, rechtswidrige Maßnahmen beanstanden sowie entsprechende Abhilfe verlangen. Der Beliehene ist verpflichtet, den Weisungen des Bundesverwaltungsamts nachzukommen. Dieses kann, wenn der Beliehene den Weisungen nicht oder nicht fristgerecht nachkommt, die erforderlichen Maßnahmen an Stelle und auf Kosten des Beliehenen selbst durchführen oder durch einen anderen durchführen lassen. Die Bediensteten und sonstigen Beauftragten des Bundesverwaltungsamts sind befugt, zu den Betriebs- und Geschäftszeiten Betriebsstätten, Geschäfts- und Betriebsräume des Beliehenen zu betreten, zu besichtigen und zu prüfen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Gegenstände oder geschäftliche Unterlagen können im erforderlichen Umfang eingesehen und in Verwahrung genommen werden.
 
@@ -1222,17 +1268,27 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 # § 26 – Europäisches System der Registervernetzung, Verordnungsermächtigung
 
-(1) Die in § 22 Absatz 1 Satz 1 aufgeführten Daten sind, sofern sie juristische Personen des Privatrechts und eingetragene Personengesellschaften nach § 20 sowie Rechtsgestaltungen nach § 21 betreffen, über die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts geschaffene zentrale Europäische Plattform zugänglich. § 23 Absatz 1 bis 3 gilt entsprechend. Zur Zugänglichmachung über die zentrale Europäische Plattform übermittelt die registerführende Stelle die dem Transparenzregister nach § 20 Absatz 1 und § 21 mitgeteilten Daten sowie die Indexdaten nach § 22 Absatz 2 an die zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 und Artikel 4a Absatz 1 der Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 48 Absatz 2 des Vertrags im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. L 258 vom 1.10.2009, S. 11), die zuletzt durch die Richtlinie 2013/24/EU (ABl. L 158 vom 10.6.2013, S. 365) geändert worden ist, sofern die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite der zentralen Europäischen Plattform erforderlich ist.
+(1) Die in § 22 Absatz 1 Satz 1 Nummer 1 aufgeführten Daten sind, sofern sie Vereinigungen nach § 20 sowie Rechtsgestaltungen nach § 21 betreffen, über die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts geschaffene zentrale Europäische Plattform zugänglich. § 23 Absatz 1 bis 3 gilt entsprechend. Zur Zugänglichmachung über die zentrale Europäische Plattform übermittelt die registerführende Stelle die dem Transparenzregister nach § 20 Absatz 1 und § 21 mitgeteilten Daten sowie die nach Maßgabe der von der Europäischen Kommission gemäß Artikel 31a der Richtlinie (EU) 2018/843 erlassenen Durchführungsakte erforderlichen Daten sowie die Indexdaten nach § 22 Absatz 2 an die zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 und Artikel 4a Absatz 1 der Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 48 Absatz 2 des Vertrags im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. L 258 vom 1.10.2009, S. 11), die zuletzt durch die Richtlinie 2013/24/EU (ABl. L 158 vom 10.6.2013, S. 365) geändert worden ist, sofern die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite der zentralen Europäischen Plattform erforderlich ist.
 
 (2) Das Transparenzregister ist mit den Registern anderer Mitgliedstaaten der Europäischen Union im Sinne von Artikel 22 Absatz 2 der Richtlinie (EU) 2017/1132 über die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 geschaffene zentrale Europäische Plattform zu vernetzen. Die Vernetzung der Register der Mitgliedstaaten über die Plattform erfolgt nach Maßgabe der technischen Spezifikationen und Verfahren, die durch von der Europäischen Kommission gemäß Artikel 24 der Richtlinie (EU) 2017/1132 und Artikel 1 Nummer 17 der Richtlinie (EU) 2018/843 erlassene Durchführungsrechtsakte festgelegt werden.
 
-(3) Daten nach § 22 Absatz 1 Satz 1, soweit sie juristische Personen des Privatrechts und eingetragene Personengesellschaften nach § 20 oder Rechtsgestaltungen nach § 21 betreffen, sind nach Abschluss der Abwicklung und, soweit sie registerlich geführt sind, nach Löschung im Register der juristischen Personen des Privatrechts, eingetragenen Personengesellschaften oder Rechtsgestaltungen noch für einen Zeitraum von mindestens fünf und höchstens zehn Jahren über das Transparenzregister und die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 geschaffene zentrale Europäische Plattform zugänglich.
+(3) Daten nach § 22 Absatz 1 Satz 1, soweit sie Vereinigungen nach § 20 oder Rechtsgestaltungen nach § 21 betreffen, sind nach Abschluss der Abwicklung und, soweit sie registerlich geführt sind, nach Löschung im Register der juristischen Personen des Privatrechts, eingetragenen Personengesellschaften oder Rechtsgestaltungen noch für einen Zeitraum von mindestens fünf und höchstens zehn Jahren über das Transparenzregister und die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 geschaffene zentrale Europäische Plattform zugänglich.
 
 (4) Das Bundesministerium der Finanzen wird im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die erforderlichen Bestimmungen über die Einzelheiten des elektronischen Datenverkehrs und seiner Abwicklung nach Absatz 1 einschließlich Vorgaben über Datenformate und Zahlungsmodalitäten zu treffen, soweit keine Regelungen in den von der Europäischen Kommission gemäß Artikel 24 der Richtlinie (EU) 2017/1132 und Artikel 31a der Richtlinie (EU) 2018/843 erlassenen Durchführungsrechtsakten enthalten sind.
 
-# § 26a – Abruf durch die Zentralstelle für Finanztransaktionsuntersuchungen und die Strafverfolgungsbehörden
+# § 26a – Abruf durch bestimmte Behörden
 
-(1) Die registerführende Stelle übermittelt der Zentralstelle für Finanztransaktionsuntersuchungen für Zwecke nach § 28 Absatz 1 Satz 2 Nummer 2, 4 und 8 und den Strafverfolgungsbehörden für ihre Aufgabenerfüllung die erforderlichen Informationen aus dem Transparenzregister.
+(1) Die registerführende Stelle übermittelt die erforderlichen Informationen aus dem Transparenzregister an
+
+1. die Zentralstelle für Finanztransaktionsuntersuchungen für Zwecke nach § 28 Absatz 1 Satz 2 Nummer 2, 4 und 8,
+
+2. die Strafverfolgungsbehörden für ihre Aufgabenerfüllung,
+
+3. die Aufsichtsbehörden, soweit dies im Einzelfall für die Erfüllung ihrer Aufgaben nach § 51 erforderlich ist,
+
+4. das Bundeszentralamt für Steuern und die örtlichen Finanzbehörden nach § 6 Absatz 2 Nummer 5 der Abgabenordnung, soweit dies im Einzelfall für die Erfüllung ihrer jeweiligen Aufgaben erforderlich ist, und
+
+5. die Verfassungsschutzbehörden des Bundes und der Länder, soweit dies im Einzelfall zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 (2) Die Übermittlung erfolgt im Wege des automatisierten Abrufs. Die registerführende Stelle richtet für Abfragen nach Absatz 1 einen nach den Vorgaben der registerführenden Stelle ausgestalteten automatisierten Zugriff auf die im Transparenzregister gespeicherten Daten ein, der auch die Suche nach wirtschaftlich Berechtigten einer Vereinigung nach § 20 oder einer Rechtsgestaltung nach § 21 über die Angaben Name und Vorname sowie zusätzlich Geburtsdatum, Wohnort oder Staatsangehörigkeit des wirtschaftlich Berechtigten erlaubt. § 23 bleibt hiervon unberührt.
 
@@ -1288,6 +1344,8 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten, die bei ihr vorhanden sind, zu Fortbildungszwecken oder zu statistischen Zwecken verarbeiten, soweit eine Verarbeitung anonymisierter Daten zu diesen Zwecken nicht möglich ist.
 
+(4) Die Zentralstelle für Finanztransaktionsuntersuchungen stellt durch Schulungen sicher, dass das eingesetzte Personal mit den geltenden europäischen und nationalen Datenschutzbestimmungen vertraut ist.
+
 # § 30 – Entgegennahme und Analyse von Meldungen
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat zur Erfüllung ihrer Aufgaben folgende Meldungen und Informationen entgegenzunehmen und zu verarbeiten:
@@ -1310,7 +1368,7 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 # § 31 – Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung
 
-(1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine Übermittlungsbeschränkungen entgegenstehen.
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben; zu den inländischen öffentlichen Stellen zählt auch die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine Übermittlungsbeschränkungen entgegenstehen.
 
 (2) Die Anfragen sind von der inländischen öffentlichen Stelle unverzüglich zu beantworten. Daten, die mit der Anfrage im Zusammenhang stehen, sind zur Verfügung zu stellen.
 
@@ -1338,7 +1396,7 @@ Bei Abrufen nach Satz 2 sind hinsichtlich natürlicher Personen der Vorname, der
 
 (5a) Wird von der Verordnungsermächtigung des § 22a des Grunderwerbsteuergesetzes zur elektronischen Übermittlung der Anzeige im Sinne des § 18 des Grunderwerbsteuergesetzes Gebrauch gemacht, darf die Zentralstelle für Finanztransaktionsuntersuchungen unter den Voraussetzungen des Absatzes 5 Satz 2 bei den Landesfinanzbehörden die dort hierzu eingegangenen Datensätze erheben und in sonstiger Weise verarbeiten, soweit Tatsachen die Annahme rechtfertigen, dass die Transaktion einen Zusammenhang mit einem nach § 18 Absatz 1 Satz 1 des Grunderwerbsteuergesetzes anzuzeigenden Vorgang aufweist. Absatz 5 Satz 3 bis 5, 7 und 10 gilt entsprechend.
 
-(6) Die Zentralstelle für Finanztransaktionsuntersuchungen darf zur Erfüllung ihrer Aufgaben bei den Kreditinstituten nach § 2 Absatz 1 Nummer 1 und bei den Instituten nach § 2 Absatz 1 Nummer 3 Daten aus den von ihnen nach § 24c Absatz 1 des Kreditwesengesetzes zu führenden Dateisystemen im automatisierten Verfahren abrufen. Für die Datenübermittlung gilt § 24c Absatz 4 bis 8 des Kreditwesengesetzes entsprechend.
+(6) Verpflichtete nach § 2 Absatz 1 Nummer 1 haben das nach § 24c Absatz 1 des Kreditwesengesetzes zu führende Dateisystem auch für Abrufe der Zentralstelle für Finanztransaktionsuntersuchungen zu führen. Entsprechendes gilt für Verpflichtete nach § 2 Absatz 1 Nummer 3 in Bezug auf das nach § 27 des Zahlungsdiensteaufsichtsgesetzes zu führende Dateisystem sowie für Verpflichtete nach § 2 Absatz 1 Nummer 9 in Bezug auf das nach § 28 des Kapitalanlagegesetzbuchs zu führende Dateisystem. Die Zentralstelle für Finanztransaktionen darf zur Erfüllung ihrer Aufgaben Daten aus diesen Dateisystemen im automatisierten Verfahren abrufen. § 24c Absatz 4 bis 8 des Kreditwesengesetzes gilt entsprechend.
 
 (7) Soweit zur Überprüfung der Personalien des Betroffenen erforderlich, darf die Zentralstelle für Finanztransaktionsuntersuchungen im automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus folgende Daten abrufen:
 
@@ -1354,13 +1412,13 @@ Bei Abrufen nach Satz 2 sind hinsichtlich natürlicher Personen der Vorname, der
 
 (2) Stellt die Zentralstelle für Finanztransaktionsuntersuchungen bei der operativen Analyse fest, dass ein Vermögensgegenstand mit Geldwäsche, mit Terrorismusfinanzierung oder mit einer sonstigen Straftat im Zusammenhang steht, übermittelt sie das Ergebnis ihrer Analyse sowie alle sachdienlichen Informationen unverzüglich an die zuständigen Strafverfolgungsbehörden. Die in Satz 1 genannten Informationen sind außerdem an den Bundesnachrichtendienst zu übermitteln, soweit tatsächliche Anhaltspunkte vorliegen, dass diese Übermittlung für die Erfüllung der Aufgaben des Bundesnachrichtendienstes erforderlich ist. Im Fall von Absatz 1 übermittelt die Zentralstelle für Finanztransaktionsuntersuchungen außerdem dem Bundesamt für Verfassungsschutz zu der zuvor übermittelten Meldung auch das entsprechende Ergebnis ihrer operativen Analyse sowie alle sachdienlichen Informationen.
 
-(3) Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt auf Ersuchen personenbezogene Daten an die Strafverfolgungsbehörden, das Bundesamt für Verfassungsschutz, den Bundesnachrichtendienst oder den Militärischen Abschirmdienst des Bundesministeriums der Verteidigung, soweit dies erforderlich ist für
+(3) Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt auf Ersuchen Daten aus Finanzinformationen und Finanzanalysen, auch soweit sie personenbezogene Daten enthalten, an die Strafverfolgungsbehörden, das Bundesamt für Verfassungsschutz, den Bundesnachrichtendienst oder den Militärischen Abschirmdienst des Bundesministeriums der Verteidigung, soweit dies erforderlich ist für
 
 1. die Aufklärung von Geldwäsche und Terrorismusfinanzierung oder die Durchführung von diesbezüglichen Strafverfahren oder
 
 2. die Aufklärung sonstiger Gefahren und die Durchführung von anderen, nicht von Nummer 1 erfassten Strafverfahren.
 
-Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt von Amts wegen oder auf Ersuchen personenbezogene Daten an andere als in Satz 1 benannte, zuständige inländische öffentliche Stellen, soweit dies erforderlich ist für
+Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt von Amts wegen oder auf Ersuchen Daten aus Finanzinformationen und Finanzanalysen, auch soweit sie personenbezogene Daten enthalten, an andere als in Satz 1 benannte, zuständige inländische öffentliche Stellen, soweit dies erforderlich ist für
 
 1. Besteuerungsverfahren,
 
@@ -1368,7 +1426,9 @@ Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt von Amts we
 
 3. die Aufgabenwahrnehmung der Aufsichtsbehörden.
 
-(4) In den Fällen des Absatzes 3 Satz 1 Nummer 1 und 2 sind die Strafverfolgungsbehörden und das Bundesamt für Verfassungsschutz berechtigt, die Daten zur Erfüllung ihrer Aufgaben automatisiert bei der Zentralstelle für Finanztransaktionsuntersuchungen abzurufen, soweit dem keine Übermittlungsbeschränkungen entgegenstehen. Zur Kontrolle der Zulässigkeit des automatisierten Abrufverfahrens haben die jeweiligen Strafverfolgungsbehörden und das Bundesamt für Verfassungsschutz schriftlich festzulegen:
+(3a) Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt auf Ersuchen unverzüglich Daten aus Finanzinformationen und Finanzanalysen, auch soweit sie personenbezogene Daten enthalten, an die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben bei der Verhinderung oder Verfolgung und Ahndung schwerer Straftaten im Sinne des Anhangs I der VO (EU) 2016/794 erforderlich ist.
+
+(4) In den Fällen des Absatzes 3 Satz 1 Nummer 1 und 2 sind die Strafverfolgungsbehörden und das Bundesamt für Verfassungsschutz sowie die inländische benannte Behörde im Sinne des Artikel 3 Absatz 2 der Richtlinie (EU) 2019/1153 berechtigt, die Daten zur Erfüllung ihrer Aufgaben automatisiert bei der Zentralstelle für Finanztransaktionsuntersuchungen abzurufen, soweit dem keine Übermittlungsbeschränkungen entgegenstehen. Zur Kontrolle der Zulässigkeit des automatisierten Abrufverfahrens hat die abrufende Behörde schriftlich festzulegen:
 
 1. den Anlass und den Zweck des Abrufverfahrens,
 
@@ -1378,23 +1438,41 @@ Die Zentralstelle für Finanztransaktionsuntersuchungen übermittelt von Amts we
 
 4. die technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes.
 
-(5) Die Übermittlung personenbezogener Daten nach Absatz 3 unterbleibt, soweit
+(5) Die Übermittlung nach Absatz 3 und 3a unterbleibt, soweit
 
-1. sich die Bereitstellung der Daten negativ auf den Erfolg laufender Ermittlungen der zuständigen inländischen öffentlichen Stellen auswirken könnte oder
+1. sich die Bereitstellung der Daten negativ auf den Erfolg laufender Ermittlungen oder Analysen der zuständigen inländischen öffentlichen Stellen auswirken könnte oder
 
 2. die Weitergabe der Daten unverhältnismäßig wäre.
 
-Soweit ein Abruf nach Absatz 4 zu Daten erfolgt, zu denen Übermittlungsbeschränkungen dem automatisierten Abruf grundsätzlich entgegenstehen, wird die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert durch Übermittlung aller Anfragedaten über die Abfrage unterrichtet. Ihr obliegt es in diesem Fall, unverzüglich mit der anfragenden Behörde Kontakt aufzunehmen, um im Einzelfall zu klären, ob Erkenntnisse nach Absatz 3 übermittelt werden können.
+In den Fällen des Absatzes 3a begründet die Zentralstelle für Finanztransaktionsuntersuchungen das Unterbleiben einer Übermittlung gegenüber der ersuchenden Stelle. Soweit ein Abruf nach Absatz 4 zu Daten erfolgt, zu denen Übermittlungsbeschränkungen dem automatisierten Abruf grundsätzlich entgegenstehen, wird die Zentralstelle für Finanztransaktionsuntersuchungen automatisiert durch Übermittlung aller Anfragedaten über die Abfrage unterrichtet. Ihr obliegt es in diesem Fall, unverzüglich mit der anfragenden Behörde Kontakt aufzunehmen, um im Einzelfall zu klären, ob Erkenntnisse nach Absatz 3 übermittelt werden können.
 
-(6) Falls die Strafverfolgungsbehörde ein Strafverfahren aufgrund eines nach Absatz 2 übermittelten Sachverhalts eingeleitet hat, teilt sie den Sachverhalt zusammen mit den zugrunde liegenden Tatsachen der zuständigen Finanzbehörde mit, wenn eine Transaktion festgestellt wird, die für die Finanzverwaltung für die Einleitung oder Durchführung von Besteuerungs-oder Steuerstrafverfahren Bedeutung haben könnte. Zieht die Strafverfolgungsbehörde im Strafverfahren Aufzeichnungen nach § 11 Absatz 1 heran, dürfen auch diese der Finanzbehörde übermittelt werden. Die Mitteilungen und Aufzeichnungen dürfen für Besteuerungsverfahren und für Strafverfahren wegen Steuerstraftaten verwendet werden.
+(6) Falls die Strafverfolgungsbehörde ein Strafverfahren aufgrund eines nach Absatz 2 übermittelten Sachverhalts eingeleitet hat, teilt sie den Sachverhalt zusammen mit den zugrunde liegenden Tatsachen der zuständigen Finanzbehörde mit, wenn eine Transaktion festgestellt wird, die für die Finanzverwaltung für die Einleitung oder Durchführung von Besteuerungs- oder Steuerstrafverfahren Bedeutung haben könnte. Zieht die Strafverfolgungsbehörde im Strafverfahren Aufzeichnungen nach § 11 Absatz 1 heran, dürfen auch diese der Finanzbehörde übermittelt werden. Die Mitteilungen und Aufzeichnungen dürfen für Besteuerungsverfahren und für Strafverfahren wegen Steuerstraftaten verwendet werden.
 
-(7) Der Empfänger darf die ihm übermittelten personenbezogenen Daten nur zu dem Zweck verwenden, zu dem sie ihm übermittelt worden sind. Eine Verwendung für andere Zwecke ist zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen.
+(7) Der Empfänger darf die ihm übermittelten personenbezogenen Daten nur zu dem Zweck verwenden, zu dem sie ihm übermittelt worden sind. Eine Verwendung für andere Zwecke ist zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen. Im Falle einer Übermittlung nach Absatz 3a ist eine Verwendung für andere Zwecke zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen und die Zentralstelle für Finanztransaktionsuntersuchungen dieser Verwendung zuvor zugestimmt hat.
+
+# § 32a – Datenübermittlung an Europol
+
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen ist befugt, auf ordnungsgemäß begründete Ersuchen von Europol Finanzinformationen und Finanzanalysen, auch soweit sie personenbezogene Daten enthalten, zu übermitteln, soweit dies in einem Einzelfall im Rahmen der Zuständigkeiten von Europol und zur Erfüllung der Aufgaben von Europol gemäß Artikel 4 der Verordnung (EU) 2016/794 erforderlich und nach Artikel 18 der Verordnung (EU) 2016/794 zulässig ist. Sie übermittelt diese Informationen zeitnah über das Bundeskriminalamt in seiner Aufgabe als nationale Stelle nach § 1 Nummer 1 des Europol-Gesetzes.
+
+(2) Die Übermittlung kann verweigert werden, soweit
+
+1. sich die Bereitstellung der Daten negativ auf den Erfolg laufender Ermittlungen oder Analysen der zuständigen inländischen öffentlichen Stellen auswirken könnte oder
+
+2. die Weitergabe der Daten unverhältnismäßig wäre oder
+
+3. die angeforderten Finanzinformationen und Finanzanalysen Daten enthalten, die von einer zentralen Meldestelle eines ausländischen Staates übermittelt wurden und diese einer Weiterübermittlung nicht zugestimmt hat, es sei denn, die Informationen stammen aus öffentlich zugänglichen Quellen.
+
+Sie unterbleibt darüber hinaus in den in Artikel 7 Absatz 7 der Verordnung (EU) 2016/794 genannten Fällen.
+
+(3) Die Zentralstelle für Finanztransaktionsuntersuchungen hat die Verweigerung einer Übermittlung gegenüber Europol zu begründen.
+
+(4) Die Übermittlung ist mit der Bedingung zu verbinden, dass Europol die ihm übermittelten personenbezogenen Daten nur zu dem Zweck verwenden darf, zu dem sie ihm übermittelt worden sind. Eine Verwendung zu anderen Zwecken bedarf der Zustimmung der Zentralstelle für Finanztransaktionsuntersuchungen.
 
 # § 33 – Datenaustausch mit Mitgliedstaaten der Europäischen Union
 
 (1) Der Datenaustausch mit den für die Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und von Terrorismusfinanzierung zuständigen zentralen Meldestellen anderer Mitgliedstaaten der Europäischen Union ist unabhängig von der Art der Vortat der Geldwäsche und auch dann, wenn die Art der Vortat nicht feststeht, zu gewährleisten. Insbesondere steht eine im Einzelfall abweichende Definition der Steuerstraftaten, die nach nationalem Recht eine taugliche Vortat zur Geldwäsche sein können, einem Informationsaustausch mit zentralen Meldestellen anderer Mitgliedstaaten der Europäischen Union nicht entgegen. Geht bei der Zentralstelle für Finanztransaktionsuntersuchungen eine Meldung nach § 43 Absatz 1 ein, die die Zuständigkeit eines anderen Mitgliedstaates betrifft, so leitet sie diese Meldung umgehend an die zentrale Meldestelle des betreffenden Mitgliedstaates weiter. Hierzu kann die Zentralstelle für Finanztransaktionsuntersuchungen mit den Zentralstellen anderer Mitgliedstaaten ein System zur verschlüsselten automatisierten Weiterleitung einrichten und betreiben.
 
-(2) Für die Übermittlung der Daten gelten die Vorschriften über die Datenübermittlung im internationalen Bereich nach § 35 Absatz 2 bis 6 entsprechend. § 35 Absatz 2 gilt mit der Maßgabe, dass die Zentralstelle für Finanztransaktionsuntersuchungen bei der Beantwortung eines Auskunftsersuchens die ihr nach diesem Gesetz zur Erhebung und Weiterleitung von Informationen zustehenden Befugnisse zu nutzen hat. Die Verantwortung für die Zulässigkeit der Datenübermittlung trägt die Zentralstelle für Finanztransaktionsuntersuchungen. Für den Datenaustausch mit zentralen Meldestellen anderer Mitgliedstaaten nutzt die Zentralstelle für Finanztransaktionsuntersuchungen gesicherte Kommunikationskanäle.
+(2) Für die Übermittlung der Daten gelten die Vorschriften über die Datenübermittlung im internationalen Bereich nach § 35 Absatz 2 bis 6 entsprechend. § 35 Absatz 2 gilt mit der Maßgabe, dass die Zentralstelle für Finanztransaktionsuntersuchungen bei der Beantwortung eines Auskunftsersuchens die ihr nach diesem Gesetz zur Erhebung und Weiterleitung von Informationen zustehenden Befugnisse zu nutzen hat. § 35 Absatz 2 Satz 4 gilt mit der Maßgabe, dass die Zentralstelle für Finanztransaktionsuntersuchungen die Anfrage zeitnah zu beantworten hat; richtet sich die Anfrage auf Finanzinformationen oder Finanzanalysen, die im Zusammenhang mit Terrorismus oder mit organisierter Kriminalität mit Bezug zu Terrorismus von Belang sein können, so hat sich die Zentralstelle für Finanztransaktionsuntersuchungen um eine umgehende Beantwortung zu bemühen. Die Verantwortung für die Zulässigkeit der Datenübermittlung trägt die Zentralstelle für Finanztransaktionsuntersuchungen. Für den Datenaustausch mit zentralen Meldestellen anderer Mitgliedstaaten nutzt die Zentralstelle für Finanztransaktionsuntersuchungen gesicherte Kommunikationskanäle.
 
 (3) Sind zusätzliche Informationen über einen in Deutschland tätigen Verpflichteten, der in einem anderen Mitgliedstaat der Europäischen Union in einem öffentlichen Register eingetragen ist, erforderlich, richtet die Zentralstelle für Finanztransaktionsuntersuchungen ihr Ersuchen an die zentrale Meldestelle dieses anderen Mitgliedstaates der Europäischen Union. Geht bei der Zentralstelle für Finanztransaktionsuntersuchungen ein Ersuchen einer zentralen Meldestelle eines anderen Mitgliedstaates um zusätzliche Informationen über einen in ihrem Hoheitsgebiet tätigen Verpflichteten ein, der in Deutschland eingetragen ist, so nutzt die Zentralstelle für Finanztransaktionsuntersuchen die ihr nach diesem Gesetz zur Erhebung und Weiterleitung von Informationen zustehenden Befugnisse. Die Übermittlung von Anfragen und Antworten nach den Sätzen 1 und 2 hat unverzüglich zu erfolgen.
 
@@ -1444,7 +1522,7 @@ b) im Zusammenhang steht mit einem Sachverhalt, der der zentralen Meldestelle de
 
 3. zur Erfüllung der Aufgaben einer anderen ausländischen öffentlichen Stelle, die der Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche oder von Vortaten der Geldwäsche oder von Terrorismusfinanzierung dient.
 
-Sie kann hierbei auf ihr vorliegende Informationen zurückgreifen. Enthalten diese Informationen auch Daten, die von anderen in- oder ausländischen Behörden erhoben oder von diesen übermittelt wurden, so ist eine Weitergabe dieser Daten nur mit Zustimmung dieser Behörden zulässig, es sei denn, die Informationen stammen aus öffentlich zugänglichen Quellen. Die Zentralstelle für Finanztransaktionsuntersuchungen kann nach Maßgabe der §§ 28, 30 und 31 andere inländische öffentliche Stellen um Auskunft ersuchen oder von Verpflichteten Auskunft verlangen. Ersuchen um Auskunft und Verlangen nach Auskunft sind zeitnah zu beantworten.
+Sie kann hierbei auf ihr vorliegende Informationen zurückgreifen. Enthalten diese Informationen auch Daten, die von anderen in- oder ausländischen Behörden erhoben oder von diesen übermittelt wurden, so ist eine Weitergabe dieser Daten nur mit Zustimmung dieser Behörden zulässig, es sei denn, die Informationen stammen aus öffentlich zugänglichen Quellen. Die Ersuchen einer zentralen Meldestelle eines anderen Staates sind in angemessener Zeit zu beantworten. Die Zentralstelle für Finanztransaktionsuntersuchungen kann nach Maßgabe der §§ 28, 30 und 31 andere inländische öffentliche Stellen um Auskunft ersuchen oder von Verpflichteten Auskunft verlangen.
 
 (3) Die Übermittlung personenbezogener Daten an eine zentrale Meldestelle eines anderen Staates ist nur zulässig, wenn das Ersuchen mindestens folgende Angaben enthält:
 
@@ -1542,9 +1620,27 @@ Die personenbezogenen Daten sind auch dann in der Verarbeitung einzuschränken, 
 
 In diesen Fällen schränkt die Zentralstelle für Finanztransaktionsuntersuchungen die Verarbeitung der Daten ein und versieht die Unterlagen mit einem Einschränkungsvermerk. Für die Einschränkung gilt § 37 Absatz 3 Satz 2 und 3 entsprechend.
 
-(5) Anstelle der Vernichtung nach Absatz 3 sind die Unterlagen an das zuständige Archiv abzugeben, sofern diesen Unterlagen ein bleibender Wert nach § 3 des Bundesarchivgesetzes in der Fassung der Bekanntmachung vom 6. Januar 1988 (BGBl. I S. 62), das zuletzt durch das Gesetz vom 13. März 1992 (BGBl. I S. 506) geändert worden ist, in der jeweils geltenden Fassung zukommt.
+(5) Anstelle der Vernichtung nach Absatz 3 sind die Unterlagen an das zuständige Archiv abzugeben, sofern diesen Unterlagen ein bleibender Wert nach § 3 des Bundesarchivgesetzes vom 10. März 2017 (BGBl. I S. 410), das zuletzt durch Artikel 1 des Gesetzes vom 9. April 2021 (BGBl. I S. 750) geändert worden ist, in der jeweils geltenden Fassung zukommt.
 
 (6) Für den Fall, dass unrichtige, zu löschende oder in der Verarbeitung einzuschränkende personenbezogene Daten übermittelt worden sind, gilt § 37 Absatz 7 entsprechend.
+
+# § 38a – Protokollierung von Informationsersuchen, Statistik, Verordnungsermächtigung
+
+(1) Die Zentralstelle für Finanztransaktionsuntersuchungen protokolliert Ersuchen um Auskunft in den Fällen des § 32 Absatz 3a, des § 32a, des § 33 Absatz 2 Satz 3 Halbsatz 2 sowie in den Fällen des § 31, wenn die Zentralstelle für Finanztransaktionsuntersuchungen Daten bei der inländischen benannten Behörde im Sinne des Artikels 3 Absatz 2 der Richtlinie (EU) 2019/1153 erhebt.
+
+(2) Die Protokolle enthalten mindestens folgende Angaben:
+
+1. Die Bezeichnung und Kontaktdaten derjenigen Behörde sowie den Namen derjenigen Person, die das Ersuchen an die Zentralstelle für Finanztransaktionsuntersuchungen gerichtet hat sowie – sofern bekannt – den Namen derjenigen Person, die das Ergebnis des Ersuchens empfängt;
+
+2. das Aktenzeichen des nationalen Falles, hinsichtlich dessen das Ersuchen an die Zentralstelle für Finanztransaktionsuntersuchungen gerichtet wird;
+
+3. den Gegenstand des Ersuchens und
+
+4. alle Maßnahmen, die getroffen werden, um dem Ersuchen nachzukommen.
+
+(3) Die Protokolle werden über einen Zeitraum von fünf Jahren nach ihrer Erstellung zugriffsgeschützt aufbewahrt. Sie dienen ausschließlich dem Zweck der Datenschutzkontrolle. Die Zentralstelle für Finanztransaktionsuntersuchungen stellt auf Anforderung der oder dem Bundesbeauftragten für den Datenschutz und die Informationssicherheit alle erforderlichen Protokolle zur Verfügung. Nach Ablauf der Aufbewahrungsfrist sind die Protokolle unverzüglich zu löschen, sofern sie nicht für laufende Kontrollverfahren erforderlich sind.
+
+(4) Die Zentralstelle für Finanztransaktionsuntersuchungen führt eine Statistik über Ersuchen um Auskunft in den Fällen des § 33 Absatz 2 Satz 3 Halbsatz 2. Sie erhebt hierfür die Zahl der Ersuchen sowie die Reaktionszeit sowie nach Möglichkeit die Kosten der Bearbeitung der Ersuchen und stellt die Daten dem Bundesministerium der Finanzen zur Verfügung. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zu den zu erhebenden Daten, deren Aufbereitung, Auswertung und Bereitstellung zu regeln.
 
 # § 39 – Errichtungsanordnung
 
@@ -1638,7 +1734,7 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen Vermögensgegenstandes oder der Transaktionshöhe unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen zu melden.
 
-(2) Abweichend von Absatz 1 sind Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 nicht zur Meldung verpflichtet, wenn sich der meldepflichtige Sachverhalt auf Informationen bezieht, die sie im Rahmen von Tätigkeiten der Rechtsberatung oder Prozessvertretung erhalten haben. Die Meldepflicht bleibt jedoch bestehen, wenn der Verpflichtete weiß, dass der Vertragspartner die Rechtsberatung oder Prozessvertretung für den Zweck der Geldwäsche, der Terrorismusfinanzierung oder einer anderen Straftat genutzt hat oder nutzt oder ein Fall des Absatzes 6 vorliegt.
+(2) Abweichend von Absatz 1 sind Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 nicht zur Meldung verpflichtet, wenn sich der meldepflichtige Sachverhalt auf Informationen bezieht, die sie im Rahmen von Tätigkeiten der Rechtsberatung oder Prozessvertretung erhalten haben. Die Meldepflicht bleibt jedoch bestehen, wenn der Verpflichtete weiß, dass der Vertragspartner die Rechtsberatung oder Prozessvertretung für den Zweck der Geldwäsche, der Terrorismusfinanzierung oder einer anderen Straftat genutzt hat oder nutzt, oder ein Fall des Absatzes 6 vorliegt.
 
 (3) Ein Mitglied der Führungsebene eines Verpflichteten hat eine Meldung nach Absatz 1 an die Zentralstelle für Finanztransaktionsuntersuchungen abzugeben, wenn
 
@@ -1657,7 +1753,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 # § 44 – Meldepflicht von Aufsichtsbehörden
 
-(1) Liegen Tatsachen vor, die darauf hindeuten, dass ein Vermögensgegenstand mit Geldwäsche oder mit Terrorismusfinanzierung im Zusammenhang steht, meldet die Aufsichtsbehörde diese Tatsachen unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen.
+(1) Liegen Tatsachen vor, die darauf hindeuten, dass ein Vermögensgegenstand mit Geldwäsche oder mit Terrorismusfinanzierung im Zusammenhang steht, meldet die Aufsichtsbehörde diese Tatsachen unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen. Dies gilt nicht, wenn Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 gemäß § 43 Absatz 2 nicht zur Meldung verpflichtet sind und daher von einer Meldung abgesehen haben.
 
 (2) Absatz 1 gilt entsprechend für Behörden, die für die Überwachung der Aktien-, Devisen- und Finanzderivatemärkte zuständig sind.
 
@@ -1751,7 +1847,7 @@ Die Informationen dürfen auch unter Verwendung von Datenbanken zur Kenntnis geg
 
 # § 48 – Freistellung von der Verantwortlichkeit
 
-(1) Wer Sachverhalte nach § 43 Absatz 1 meldet oder eine Strafanzeige nach § 158 der Strafprozessordnung erstattet, darf wegen dieser Meldung oder Strafanzeige nicht verantwortlich gemacht werden, es sei denn, die Meldung oder Strafanzeige ist vorsätzlich oder grob fahrlässig unwahr erstattet worden.
+(1) Wer Sachverhalte nach § 43 meldet oder eine Strafanzeige nach § 158 der Strafprozessordnung erstattet, darf deshalb nicht nach zivilrechtlichen oder strafrechtlichen Vorschriften verantwortlich gemacht oder disziplinarrechtlich verfolgt werden, es sei denn, die Meldung oder Strafanzeige ist vorsätzlich oder grob fahrlässig unwahr erstattet worden.
 
 (2) Absatz 1 gilt auch, wenn
 
@@ -2005,15 +2101,11 @@ e) an andere Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der A
 
 (5) In grenzüberschreitenden Fällen koordinieren die zusammenarbeitenden Aufsichtsbehörden und die in § 54 Absatz 3 genannten Stellen ihre Maßnahmen. Unterhält ein Verpflichteter, der seinen Sitz in einem anderen Mitgliedstaat der Europäischen Union hat, eine oder mehrere Zweigstellen oder Zweigniederlassungen in Deutschland, so arbeiten die in Satz 1 genannten Aufsichtsbehörden und Stellen mit den zuständigen Behörden des Mitgliedstaats zusammen, in dem der Verpflichtete seinen Hauptsitz hat.
 
-(6) Soweit die Aufsichtsbehörden die Aufsicht über die Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 ausüben, stellen sie den folgenden Behörden auf deren Verlangen alle Informationen zur Verfügung, die erforderlich sind zur Durchführung von deren Aufgaben aufgrund der Richtlinie (EU) 2015/849 sowie der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission, der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der Kommission und der Verordnung (EU) Nr. 1095/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Wertpapier- und Marktaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/77/EG der Kommission:
+(6) Soweit die Aufsichtsbehörden die Aufsicht über die Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 ausüben, stellen sie der Europäischen Bankenaufsichtsbehörde auf deren Verlangen alle Informationen zur Verfügung, die erforderlich sind zur Durchführung von ihren Aufgaben aufgrund der Richtlinie (EU) 2015/849 sowie der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12). Die Informationen sind zur Verfügung zu stellen nach Maßgabe des Artikels 35 der Verordnung (EU) Nr. 1093/2010.
 
-1. der Europäischen Bankenaufsichtsbehörde,
+(6a) Die zuständigen Aufsichtsbehörden unterrichten die Europäische Bankenaufsichtsbehörde über Fälle, in denen bei Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9, die Mutterunternehmen einer Gruppe sind, eine Umsetzung der in § 9 Absatz 1 Satz 2 Nummer 1, 3 und 4 genannten Maßnahmen nach dem Recht des Drittstaates nicht zulässig ist.
 
-2. der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung sowie
-
-3. der Europäischen Wertpapier- und Marktaufsichtsbehörde.
-
-Die Informationen sind zur Verfügung zu stellen nach Maßgabe des Artikels 35 der Verordnung (EU) Nr. 1093/2010, des Artikels 35 der Verordnung (EU) Nr. 1094/2010 und des Artikels 35 der Verordnung (EU) Nr. 1095/2010.
+(6b) Die Aufsichtsbehörde nach § 50 Nummer 1 dient in Kooperation mit den weiteren Aufsichtsbehörden nach § 50 Nummer 2 und 9 als Kontaktstelle für die Europäische Bankenaufsichtsbehörde hinsichtlich der Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9.
 
 (7) Dem Informationsaustausch mit den zuständigen Aufsichtsbehörden anderer Mitgliedstaaten der Europäischen Union stehen nicht entgegen:
 
@@ -2037,7 +2129,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 1. entgegen § 5 Absatz 1 Satz 1 Risiken nicht ermittelt oder nicht bewertet,
 
-2. entgegen § 5 Absatz 2 die Risikoanalyse nicht dokumentiert oder regelmäßig überprüft und gegebenenfalls aktualisiert,
+2. entgegen § 5 Absatz 2 Nummer 1 und Nummer 2 die Risikoanalyse nicht dokumentiert oder regelmäßig überprüft und gegebenenfalls aktualisiert,
 
 3. entgegen § 6 Absatz 1 keine angemessenen geschäfts- und kundenbezogenen internen Sicherungsmaßnahmen schafft oder entgegen § 6 Absatz 1 Satz 3 die Funktionsfähigkeit der Sicherungsmaßnahmen nicht überwacht oder wer geschäfts- und kundenbezogene interne Sicherungsmaßnahmen nicht regelmäßig oder nicht bei Bedarf aktualisiert,
 
@@ -2061,7 +2153,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 13. entgegen § 9 Absatz 5 Satz 1 die in Absatz 1 Satz 2 Nummer 1, 3 und 4 genannten Maßnahmen nicht umsetzt,
 
-14. entgegen § 9 Absatz 5 Satz 2 gruppenweite Pflichten nicht umsetzt,
+14. entgegen § 9 Absatz 5 Satz 2 die in Absatz 1 Satz 2 Nummer 3 und 4 genannten Maßnahmen nicht umsetzt.
 
 15. entgegen § 10 Absatz 1 Nummer 1 eine Identifizierung des Vertragspartners oder einer für den Vertragspartner auftretenden Person nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise vornimmt oder nicht prüft, ob die für den Vertragspartner auftretende Person hierzu berechtigt ist,
 
@@ -2079,7 +2171,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 22. entgegen § 10 Absatz 2 Satz 4 oder entgegen § 14 Absatz 1 Satz 2 nicht darlegt, dass der Umfang der von ihm getroffenen Maßnahmen im Hinblick auf die Risiken der Geldwäsche und der Terrorismusfinanzierung als angemessen anzusehen ist,
 
-23. entgegen § 10 Absatz 6 den Sorgfaltspflichten nicht nachkommt,
+23. entgegen § 10 Absatz 6 oder Absatz 6a den Sorgfaltspflichten nicht nachkommt,
 
 24. entgegen § 10 Absatz 8 keine Mitteilung macht,
 
@@ -2087,7 +2179,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 26. entgegen § 11 Absatz 1 Vertragspartner, für diese auftretenden Personen oder wirtschaftlich Berechtigte nicht rechtzeitig identifiziert,
 
-27. entgegen § 11 Absatz 2 die Vertragsparteien nicht rechtzeitig identifiziert,
+27. entgegen § 11 Absatz 2 die Vertragsparteien für diese auftretende Personen oder wirtschaftlich Berechtigte nicht oder nicht rechtzeitig identifiziert,
 
 28. entgegen § 11 Absatz 3 Satz 2 keine erneute Identifizierung durchführt,
 
@@ -2109,7 +2201,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 37. entgegen § 15 Absatz 5 Nummer 2 in Verbindung mit Absatz 3 Nummer 2 nicht die Zustimmung eines Mitglieds der Führungsebene einholt,
 
-38. entgegen § 15 Absatz 5 Nummer 3 in Verbindung mit Absatz 3 Nummer 2 nicht die Geschäftsbeziehung keiner verstärkten Überwachung unterzieht,
+38. entgegen § 15 Absatz 5 Nummer 3 in Verbindung mit Absatz 3 Nummer 2 die Geschäftsbeziehung nicht einer verstärkten Überwachung unterzieht,
 
 39. entgegen § 15 Absatz 6 Nummer 1 in Verbindung mit Absatz 3 Nummer 3 die Transaktion nicht untersucht,
 
@@ -2153,7 +2245,7 @@ c) nicht auf aktuellem Stand hält oder
 
 d) nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig der registerführenden Stelle mitteilt,
 
-56. entgegen § 20 Absatz 1a seine Mitteilungspflicht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
+56. entgegen § 20 Absatz 2 seine Mitteilungspflicht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
 
 57. ohne von der mitteilungspflichtigen Vereinigung dazu ermächtigt worden zu sein, der registerführenden Stelle Angaben zu den wirtschaftlich Berechtigten zur Eintragung in das Transparenzregister elektronisch mitteilt,
 
@@ -2161,7 +2253,7 @@ d) nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig der registerf
 
 59. entgegen § 20 Absatz 3a Satz 1 bis 3 oder Absatz 3b Satz 1 seine Mitteilungspflicht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
 
-60. entgegen § 20 Absatz 3a Satz 4 seiner Dokumentationspflicht nicht nachkommt,
+60. entgegen § 20 Absatz 3a Satz 4 oder Absatz 3b Satz 3 seiner Dokumentationspflicht nicht nachkommt,
 
 61. entgegen § 21 Absatz 1 oder 2 Angaben zu den wirtschaftlich Berechtigten
 
@@ -2173,11 +2265,11 @@ c) nicht auf aktuellem Stand hält oder
 
 d) nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig der registerführenden Stelle mitteilt,
 
-62. entgegen § 21 Absatz 1a oder 1b seine Mitteilungspflicht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
+62. entgegen § 21 Absatz 1b seine Mitteilungspflicht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt,
 
 63. eine unrichtige Mitteilung nach § 20 Absatz 1 oder § 21 Absatz 1 nicht berichtigt,
 
-64. die Einsichtnahme in das Transparenzregister entgegen § 23 Absatz 1 Satz 1 Nummer 2 oder Nummer 3 unter Vorspiegelung falscher Tatsachen erschleicht oder sich auf sonstige Weise widerrechtlich Zugriff auf das Transparenzregister verschafft,
+64. die Einsichtnahme in das Transparenzregister entgegen § 23 Absatz 1 Satz 1 Nummer 2 unter Vorspiegelung falscher Tatsachen erschleicht oder sich auf sonstige Weise widerrechtlich Zugriff auf das Transparenzregister verschafft,
 
 65. entgegen § 23a Absatz 1 Satz 1 seine Mitteilungspflicht nicht erfüllt,
 
@@ -2237,7 +2329,7 @@ wenn es sich um einen schwerwiegenden, wiederholten oder systematischen Verstoß
 
 Gegenüber Verpflichteten gemäß § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9, die natürliche Personen sind, kann über Satz 1 hinaus eine Geldbuße bis zu fünf Millionen Euro verhängt werden.
 
-(4) Gesamtumsatz im Sinne des Absatzes 2 Satz 4 Nummer 2 ist
+(4) Gesamtumsatz im Sinne des Absatzes 3 Satz 4 Nummer 2 ist
 
 1. bei Kreditinstituten, Zahlungsinstituten, Wertpapierinstituten und Finanzdienstleistungsinstituten nach § 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich ergibt aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Abschnitt B Nummer 1 bis 4 und 7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1), abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
 
@@ -2249,11 +2341,13 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 
 (5) Die jeweils nach § 50 Nummer 1 und 7a bis 9 zuständige Aufsichtsbehörde ist auch Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten. Für Ordnungswidrigkeiten nach Absatz 1 Satz 1 Nummer 54 bis 66 ist Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesverwaltungsamt.
 
+(5a) Soweit nach Absatz 5 Satz 1 die Finanzbehörde Verwaltungsbehörde ist, gelten § 387 Absatz 2, § 410 Absatz 1 Nummer 2, 6 bis 11, Absatz 2 und § 412 der Abgabenordnung sinngemäß.
+
 (6) Die zuständige Verwaltungsbehörde übermittelt, sofern sie nicht zugleich zuständige Aufsichtsbehörde ist, auf Ersuchen sämtliche Informationen einschließlich personenbezogener Daten an die zuständige Aufsichtsbehörde, soweit die Informationen für die Erfüllung der Aufgaben der Aufsichtsbehörde, insbesondere für die Vorhaltung der Statistik nach § 51 Absatz 9, erforderlich sind.
 
 (7) Die Aufsichtsbehörden überprüfen im Bundeszentralregister, ob eine einschlägige Verurteilung der betreffenden Person vorliegt.
 
-(8) Die zuständigen Aufsichtsbehörden nach § 50 Nummer 1, 2 und 9 informieren die jeweils zuständige Europäische Aufsichtsbehörde hinsichtlich der Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 über
+(8) Die zuständigen Aufsichtsbehörden nach § 50 Nummer 1, 2 und 9 informieren die Europäische Bankenaufsichtsbehörde hinsichtlich der Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 über
 
 1. die gegen diese Verpflichteten verhängten Geldbußen,
 
@@ -2287,13 +2381,35 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (2) Die Eröffnung des Zugangs zu Eintragungen im Vereinsregister, welche § 22 Absatz 1 Satz 1 Nummer 8 vorsieht, erfolgt ab dem 26. Juni 2018. Bis zum 25. Juni 2018 werden die technischen Voraussetzungen geschaffen, um diejenigen Indexdaten nach § 22 Absatz 2 zu übermitteln, welche für die Eröffnung des Zugangs zu den Originaldaten nach § 22 Absatz 1 Satz 1 Nummer 8 erforderlich sind. Für den Übergangszeitraum vom 26. Juni 2017 bis zum 25. Juni 2018 enthält das Transparenzregister stattdessen einen Link auf das gemeinsame Registerportal der Länder.
 
-(3) § 23 Absatz 1 bis 3 findet ab dem 27. Dezember 2017 Anwendung.
+(3) § 23 Absatz 3 findet ab dem 1. Januar 2023 Anwendung.
 
 (4) Gewährte Befreiungen der Aufsichtsbehörden nach § 50 Nummer 8 gegenüber Verpflichteten nach § 2 Absatz 1 Nummer 15, soweit sie Glücksspiele im Internet veranstalten oder vermitteln, bleiben in Abweichung zu § 16 bis zum 30. Juni 2018 wirksam.
 
 (5) Ist am 25. Juni 2015 ein Gerichtsverfahren betreffend die Verhinderung, Aufdeckung, Ermittlung oder Verfolgung von mutmaßlicher Geldwäsche oder Terrorismusfinanzierung anhängig gewesen und besitzt ein Verpflichteter Informationen oder Unterlagen im Zusammenhang mit diesem anhängigen Verfahren, so darf der Verpflichtete diese Informationen oder Unterlagen bis zum 25. Juni 2020 aufbewahren.
 
 (6) Die Pflicht zur Registrierung nach § 45 Absatz 1 Satz 2 besteht mit Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen, spätestens jedoch ab dem 1. Januar 2024. Das Bundesministerium der Finanzen gibt den Tag der Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen im Bundesgesetzblatt bekannt.
+
+(7) Bis zur technischen Umsetzung des Verfahrens nach § 31 Absatz 6, längstens jedoch bis zum 31. Dezember 2023, darf die Zentralstelle für Finanztransaktionsuntersuchungen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen (§ 93 Absatz 8 der Abgabenordnung). Bei einem Ersuchen nach Satz 1 gilt § 93 Absatz 8a bis 10 der Abgabenordnung entsprechend. Das Bundeszentralamt übermittelt der Zentralstelle für Finanztransaktionsuntersuchungen in Beantwortung des Ersuchens nur solche Daten, die die Zentralstelle nach § 31 Absatz 6 abrufen darf.
+
+(8) Juristische Personen des Privatrechts und eingetragene Personengesellschaften nach § 20 Absatz 1, deren Pflicht zur Mitteilung an das Transparenzregister am 31. Juli 2021 nach der bis einschließlich zum 31. Juli 2021 geltenden Fassung des § 20 Absatz 2 als erfüllt galt, haben die in § 19 Absatz 1 aufgeführten Angaben,
+
+1. sofern es sich um eine Aktiengesellschaft, SE, Kommanditgesellschaft auf Aktien handelt bis zum 31. März 2022,
+
+2. sofern es sich um eine Gesellschaft mit beschränkter Haftung, Genossenschaft, Europäische Genossenschaft oder Partnerschaft handelt bis zum 30. Juni 2022,
+
+3. in allen anderen Fällen bis spätestens zum 31. Dezember 2022
+
+der registerführenden Stelle zur Eintragung in das Transparenzregister mitzuteilen.
+
+(9) § 56 Absatz 1 Nummer 55 und 58 bis 60 sind nicht anwendbar auf juristische Personen des Privatrechts oder eingetragene Personengesellschaften nach § 20 Absatz 1, deren Pflicht zur Mitteilung an das Transparenzregister am 31. Juli 2021 nach der bis einschließlich zum 31. Juli 2021 geltenden Fassung des § 20 Absatz 2 als erfüllt galt,
+
+1. sofern es sich um eine Aktiengesellschaft, SE, Kommanditgesellschaft auf Aktien handelt bis zum 31. März 2023,
+
+2. sofern es sich um eine Gesellschaft mit beschränkter Haftung, Genossenschaft, Europäische Genossenschaft oder Partnerschaft handelt bis zum 30. Juni 2023,
+
+3. in allen anderen Fällen bis spätestens zum 31. Dezember 2023.
+
+(10) Abweichend von § 23a Absatz 1 sind Unstimmigkeitsmeldungen wegen des Fehlens einer Eintragung nach § 20 bis zum 1. April 2023 nicht abzugeben, wenn nach der bis einschließlich zum 31. Juli 2021 geltenden Fassung des § 23a Absatz 1 in Verbindung mit § 20 Absatz 2 keine Pflicht zur Abgabe einer Unstimmigkeitsmeldung an das Transparenzregister bestanden hätte.
 
 # Anlage 1 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko
 

@@ -5410,7 +5410,7 @@
 - [SvEV](laws/SvEV.md) Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt
 - [SVFAG](laws/SVFAG.md) Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung
 - [SVFAngAusbV 1997](laws/SVFAngAusbV_1997.md) Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
-- [SVG](laws/SVG.md) Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen
+- [SVG](laws/SVG.md) Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen* *
 - [SVG§63V](laws/SVG§63V.md) Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
 - [SVHV](laws/SVHV.md) Verordnung über das Haushaltswesen in der Sozialversicherung
 - [SVkAbk CHE](laws/SVkAbk_CHE.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge
