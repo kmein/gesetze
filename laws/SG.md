@@ -2196,7 +2196,7 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 3. die Unteroffizierprüfungen und die Offizierprüfungen nach § 27 Absatz 7,
 
-4. ,die Regelungen zur Ermöglichung einer unentgeltlichen Beförderung nach § 30 Absatz 6,
+4. die Regelungen zur Ermöglichung einer unentgeltlichen Beförderung nach § 30 Absatz 6,
 
 5. die Ausgestaltung der Teilzeitbeschäftigung nach § 30a,
 
