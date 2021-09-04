@@ -129,6 +129,8 @@ Dieses Gesetz gilt insbesondere nicht für
 
 (3) Der Diensteanbieter hat den Nutzer auf die gesetzlichen Erlaubnisse nach Absatz 1 in seinen Allgemeinen Geschäftsbedingungen hinzuweisen.
 
+(+++ § 5 Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 12 Abs. 1 Satz 2 +++)
+
 # § 6 – Erstreckung von Erlaubnissen
 
 (1) Ist dem Diensteanbieter die öffentliche Wiedergabe eines Werkes erlaubt, so wirkt diese Erlaubnis auch zugunsten des Nutzers, sofern dieser nicht kommerziell handelt oder keine erheblichen Einnahmen erzielt.
@@ -146,6 +148,8 @@ Dieses Gesetz gilt insbesondere nicht für
 (4) Startup-Diensteanbieter (§ 2 Absatz 2) sind nicht nach Absatz 1 verpflichtet, solange die durchschnittliche monatliche Anzahl unterschiedlicher Besucher der Internetseiten des Dienstes 5 Millionen nicht übersteigt.
 
 (5) Es wird widerleglich vermutet, dass kleine Diensteanbieter (§ 2 Absatz 3) im Hinblick auf den Grundsatz der Verhältnismäßigkeit nicht nach Absatz 1 verpflichtet sind.
+
+(+++ § 7 Abs. 2 Satz 1 und Abs. 3: Zur Anwendung vgl. § 8 Abs. 2 +++)
 
 # § 8 – Einfache Blockierung
 
@@ -171,6 +175,8 @@ wird widerleglich vermutet, dass ihre Nutzung nach § 5 gesetzlich erlaubt ist (
 
 (3) Der Diensteanbieter informiert den Rechtsinhaber sofort über die öffentliche Wiedergabe und weist ihn auf das Recht hin, nach § 14 Beschwerde einzulegen, um die Vermutung nach Absatz 2 überprüfen zu lassen.
 
+(+++ § 9: Zur Anwendung vgl. § 7 Abs. 2 Satz 2 +++)
+
 # § 10 – Geringfügige Nutzungen
 
 Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des § 9 Absatz 2 Satz 1 Nummer 3, sofern sie nicht zu kommerziellen Zwecken oder nur zur Erzielung unerheblicher Einnahmen dienen:
@@ -183,6 +189,8 @@ Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des 
 
 4. Nutzungen bis zu 125 Kilobyte je eines Lichtbildwerkes, Lichtbildes oder einer Grafik.
 
+(+++ § 10: Zur Anwendung vgl. § 7 Abs. 2 Satz 2 +++)
+
 # § 11 – Kennzeichnung als erlaubte Nutzung
 
 (1) Soll ein nutzergenerierter Inhalt beim Hochladen automatisiert blockiert werden und handelt es sich nicht um eine geringfügige Nutzung nach § 10, so ist der Diensteanbieter verpflichtet,
@@ -194,6 +202,8 @@ Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des 
 3. es dem Nutzer zu ermöglichen, die Nutzung als nach § 5 gesetzlich erlaubt zu kennzeichnen.
 
 (2) Soll ein nutzergenerierter Inhalt erst nach dem Hochladen automatisiert blockiert werden, so findet Absatz 1 mit der Maßgabe Anwendung, dass der Inhalt auch ohne Vorliegen einer Kennzeichnung nach Absatz 1 Nummer 3 für 48 Stunden als mutmaßlich erlaubt gilt.
+
+(+++ § 11: Zur Anwendung vgl. § 7 Abs. 2 Satz 2 +++)
 
 # § 12 – Vergütung durch Diensteanbieter; Verantwortlichkeit
 
@@ -242,6 +252,8 @@ Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im Sinne des 
 (1) Zur außergerichtlichen Beilegung von Streitigkeiten über die Blockierung und öffentliche Wiedergabe eines geschützten Werkes durch einen Diensteanbieter sowie über Auskunftsrechte (§ 19) können Rechtsinhaber und Nutzer eine privatrechtlich organisierte Schlichtungsstelle anrufen.
 
 (2) Die Vorschriften des Netzwerkdurchsetzungsgesetzes über privatrechtlich organisierte Schlichtungsstellen sind mit der Maßgabe anzuwenden, dass das Bundesamt für Justiz als zuständige Behörde die Entscheidung über die Anerkennung einer privatrechtlich organisierten Schlichtungsstelle im Einvernehmen mit dem Deutschen Patent- und Markenamt trifft.
+
+(+++ § 16 Abs. 1: Zur Anwendung vgl. § 17 Abs. 2 Satz 2 +++)
 
 # § 17 – Außergerichtliche Streitbeilegung durch die behördliche Schlichtungsstelle
 
