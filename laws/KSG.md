@@ -25,7 +25,7 @@
 
 # § 1 – Zweck des Gesetzes
 
-Zweck dieses Gesetzes ist es, zum Schutz vor den Auswirkungen des weltweiten Klimawandels die Erfüllung der nationalen Klimaschutzziele sowie die Einhaltung der europäischen Zielvorgaben zu gewährleisten. Die ökologischen, sozialen und ökonomischen Folgen werden berücksichtigt. Grundlage bildet die Verpflichtung nach dem Übereinkommen von Paris aufgrund der Klimarahmenkonvention der Vereinten Nationen, wonach der Anstieg der globalen Durchschnittstemperatur auf deutlich unter 2 Grad Celsius und möglichst auf 1,5 Grad Celsius gegenüber dem vorindustriellen Niveau zu begrenzen ist, um die Auswirkungen des weltweiten Klimawandels so gering wie möglich zu halten, sowie das Bekenntnis der Bundesrepublik Deutschland auf dem Klimagipfel der Vereinten Nationen am 23. September 2019 in New York, Treibhausgasneutralität bis 2050 als langfristiges Ziel zu verfolgen.
+Zweck dieses Gesetzes ist es, zum Schutz vor den Auswirkungen des weltweiten Klimawandels die Erfüllung der nationalen Klimaschutzziele sowie die Einhaltung der europäischen Zielvorgaben zu gewährleisten. Die ökologischen, sozialen und ökonomischen Folgen werden berücksichtigt. Grundlage bildet die Verpflichtung nach dem Übereinkommen von Paris aufgrund der Klimarahmenkonvention der Vereinten Nationen, wonach der Anstieg der globalen Durchschnittstemperatur auf deutlich unter 2 Grad Celsius und möglichst auf 1,5 Grad Celsius gegenüber dem vorindustriellen Niveau zu begrenzen ist, um die Auswirkungen des weltweiten Klimawandels so gering wie möglich zu halten.
 
 # § 2 – Begriffsbestimmungen
 
@@ -51,15 +51,45 @@ Im Sinne dieses Gesetz ist oder sind:
 
 # § 3 – Nationale Klimaschutzziele
 
-(1) Die Treibhausgasemissionen werden im Vergleich zum Jahr 1990 schrittweise gemindert. Bis zum Zieljahr 2030 gilt eine Minderungsquote von mindestens 55 Prozent.
+(1) Die Treibhausgasemissionen werden im Vergleich zum Jahr 1990 schrittweise wie folgt gemindert:
 
-(2) Die Möglichkeit, die nationalen Klimaschutzziele teilweise im Rahmen von staatenübergreifenden Mechanismen zur Minderung von Treibhausgasemissionen zu erreichen, bleibt unberührt.
+1. bis zum Jahr 2030 um mindestens 65 Prozent,
 
-(3) Sollten zur Erfüllung europäischer oder internationaler Klimaschutzziele höhere nationale Klimaschutzziele erforderlich werden, so leitet die Bundesregierung die zur Erhöhung der Zielwerte nach Absatz 1 notwendigen Schritte ein. Klimaschutzziele können erhöht, aber nicht abgesenkt werden.
+2. bis zum Jahr 2040 um mindestens 88 Prozent.
+
+(2) Bis zum Jahr 2045 werden die Treibhausgasemissionen so weit gemindert, dass Netto-Treibhausgasneutralität erreicht wird. Nach dem Jahr 2050 sollen negative Treibhausgasemissionen erreicht werden.
+
+(3) Die Möglichkeit, die nationalen Klimaschutzziele teilweise im Rahmen von staatenübergreifenden Mechanismen zur Minderung von Treibhausgasemissionen zu erreichen, bleibt unberührt.
+
+(4) Sollten zur Erfüllung europäischer oder internationaler Klimaschutzziele höhere nationale Klimaschutzziele erforderlich werden, so leitet die Bundesregierung die zur Erhöhung der Zielwerte nach Absatz 1 notwendigen Schritte ein. Klimaschutzziele können erhöht, aber nicht abgesenkt werden.
 
 § 3 Abs. 1 Satz 2: Nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 I 1720 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 3 Abs. 1 Satz 2 bleibt anwendbar.
 
-# § 4 – Zulässige Jahresemissionsmengen, Verordnungsermächtigung
+# § 3a – Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaf
+
+(1) Der Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft zum Klimaschutz soll gestärkt werden. Der Mittelwert der jährlichen Emissionsbilanzen des jeweiligen Zieljahres und der drei vorhergehenden Kalenderjahre des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft soll wie folgt verbessert werden:
+
+1. auf mindestens minus 25 Millionen Tonnen Kohlendioxidäquivalent bis zum Jahr 2030,
+
+2. auf mindestens minus 35 Millionen Tonnen Kohlendioxidäquivalent bis zum Jahr 2040,
+
+3. auf mindestens minus 40 Millionen Tonnen Kohlendioxidäquivalent bis zum Jahr 2045.
+
+Grundlage für die Emissionsbilanzen sind die Daten nach § 5 Absatz 2 Nummer 3.
+
+(2) Für die Einhaltung der Ziele nach Absatz 1 ist das aufgrund seines Geschäftsbereichs für den Sektor Landnutzung, Landnutzungsänderung und Forstwirtschaft überwiegend zuständige Bundesministerium verantwortlich. Es hat die Aufgabe, die für die Einhaltung der Ziele nach Absatz 1 erforderlichen nationalen Maßnahmen vorzulegen und umzusetzen. § 4 Absatz 4 Satz 3 und 4 gilt entsprechend.
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+
+1. die Anrechnung und Verbuchung gemäß unionsrechtlicher Vorgaben zu regeln,
+
+2. den Umgang mit und die Anrechenbarkeit von natürlichen Störungen zu regeln,
+
+3. nähere Bestimmungen zu den Methoden und Grundlagen für die umfassende Berichterstattung über Treibhausgasemissionen und den Abbau von Kohlendioxid im Sektor Landnutzung, Landnutzungsänderung und Forstwirtschaft, insbesondere zur Erstellung der jährlichen Emissionsbilanzen nach Absatz 1, zu erlassen, und
+
+4. nähere Bestimmungen zur Erhebung, Nutzung und Auswertung von Daten der Fernerkundung, insbesondere mittels satellitengestützter Systeme, für die Treibhausgas-Berichterstattung für den Sektor Landnutzung, Landnutzungsänderung und Forstwirtschaft zu erlassen.
+
+# § 4 – Zulässige Jahresemissionsmengen und jährliche Minderungsziele, Verordnungsermächtigung
 
 (1) Zur Erreichung der nationalen Klimaschutzziele nach § 3 Absatz 1 werden jährliche Minderungsziele durch die Vorgabe von Jahresemissionsmengen für die folgenden Sektoren festgelegt:
 
@@ -75,7 +105,7 @@ Im Sinne dieses Gesetz ist oder sind:
 
 6. Abfallwirtschaft und Sonstiges.
 
-Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich aus Anlage 1. Die Jahresemissionsmengen für den Zeitraum bis zum Jahr 2030 richten sich nach Anlage 2. Im Sektor Energiewirtschaft sinken die Treibhausgasemissionen zwischen den angegebenen Jahresemissionsmengen möglichst stetig. Für Zeiträume ab dem Jahr 2031 werden die jährlichen Minderungsziele durch Rechtsverordnung gemäß Absatz 6 fortgeschrieben. Die Jahresemissionsmengen sind verbindlich, soweit dieses Gesetz auf sie Bezug nimmt. Subjektive Rechte und klagbare Rechtspositionen werden durch dieses Gesetz oder aufgrund dieses Gesetzes nicht begründet.
+Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich aus Anlage 1. Die Jahresemissionsmengen für den Zeitraum bis zum Jahr 2030 richten sich nach Anlage 2. Im Sektor Energiewirtschaft sinken die Treibhausgasemissionen zwischen den angegebenen Jahresemissionsmengen möglichst stetig. Die Bundesregierung wird die in Anlage 2 festgelegten zulässigen Jahresemissionsmengen im Lichte möglicher Änderungen der Europäischen Klimaschutzverordnung und der Europäischen Emissionshandelsrichtlinie zur Umsetzung des erhöhten Klimaziels der Europäischen Union für das Jahr 2030 überprüfen und spätestens sechs Monate nach deren Inkrafttreten einen Gesetzgebungsvorschlag zur Anpassung der zulässigen Jahresemissionsmengen in Anlage 2 vorlegen, soweit dies erforderlich erscheint. Die jährlichen Minderungsziele für die Jahre 2031 bis 2040 richten sich nach Anlage 3. Spätestens im Jahr 2032 legt die Bundesregierung einen Gesetzgebungsvorschlag zur Festlegung der jährlichen Minderungsziele für die Jahre 2041 bis 2045 vor. Die Aufteilung der jährlichen Minderungsziele in zulässige Jahresemissionsmengen für die einzelnen Sektoren für die Jahre 2031 bis 2045 erfolgt durch Rechtsverordnung gemäß Absatz 6. Die Jahresemissionsmengen und jährlichen Minderungsziele sind verbindlich, soweit dieses Gesetz auf sie Bezug nimmt.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Zuordnung von Emissionsquellen zu den Sektoren in Anlage 1 zu ändern, sofern dies zur Sicherstellung der einheitlichen internationalen Berichterstattung über Treibhausgasemissionen erforderlich ist und unionsrechtliche Vorgaben nicht entgegenstehen.
 
@@ -85,7 +115,9 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Jahresemissionsmengen der Sektoren in Anlage 2 mit Wirkung zum Beginn des jeweils nächsten Kalenderjahres zu ändern. Diese Veränderungen müssen im Einklang mit der Erreichung der Klimaschutzziele dieses Gesetzes und mit den unionsrechtlichen Anforderungen stehen. Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
-(6) Im Jahr 2025 legt die Bundesregierung für weitere Zeiträume nach dem Jahr 2030 jährlich absinkende Emissionsmengen durch Rechtsverordnung fest. Diese müssen im Einklang mit der Erreichung der Klimaschutzziele dieses Gesetzes und mit den unionsrechtlichen Anforderungen stehen. Wenn jährlich absinkende Emissionsmengen für Zeiträume nach dem Jahr 2030 festgelegt werden, bedarf die Rechtsverordnung der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+(6) Durch Rechtsverordnung legt die Bundesregierung die jährlich in grundsätzlich gleichmäßigen Schritten absinkenden zulässigen Jahresemissionsmengen der einzelnen Sektoren im Jahr 2024 für die Jahre 2031 bis 2040 und im Jahr 2034 für die Jahre 2041 bis 2045 fest. Diese Jahresemissionsmengen müssen im Einklang stehen mit der Erreichung der nationalen Klimaschutzziele dieses Gesetzes, mit den jährlichen Minderungszielen gemäß Absatz 1 Satz 6 und 7 und den unionsrechtlichen Anforderungen. Dabei ist sicherzustellen, dass in jedem Sektor deutliche Reduzierungen der Treibhausgase erreicht werden. Die zulässigen Jahresemissionsmengen gelten, soweit nicht auf der Grundlage des § 4 Absatz 7 eine abweichende Reglung getroffen wird. Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+
+(7) Die Bundesregierung wird dem Deutschen Bundestag im Jahr 2028 einen Bericht zum Stand und zur weiteren Entwicklung der CO<sub>2</sub>-Bepreisung innerhalb der Europäischen Union sowie zu technischen Entwicklungen vorlegen. In dem Bericht wird die Bundesregierung auch untersuchen, ob in der Zeit ab dem Jahr 2031 im Lichte dieser Entwicklungen auf die Zuweisung von zulässigen Jahresemissionsmengen für einzelne Sektoren verzichtet werden kann. In diesem Fall legt die Bundesregierung einen entsprechenden Gesetzgebungsvorschlag vor.
 
 § 4 Abs. 1 Satz 3: IVm Anlage 2 nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 I 1720 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 4 Abs. 1 Satz 3 iVm mit Anlage 2 bleibt anwendbar.
 
@@ -147,15 +179,15 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 # § 9 – Klimaschutzprogramme
 
-(1) Die Bundesregierung beschließt mindestens nach jeder Fortschreibung des Klimaschutzplans ein Klimaschutzprogramm; darüber hinaus wird bei Zielverfehlungen eine Aktualisierung des bestehenden Klimaschutzprogramms um Maßnahmen nach § 8 Absatz 2 vorgenommen. In jedem Klimaschutzprogramm legt die Bundesregierung unter Berücksichtigung des jeweils aktuellen Klimaschutz-Projektionsberichts nach § 10 Absatz 2 fest, welche Maßnahmen sie zur Erreichung der nationalen Klimaschutzziele in den einzelnen Sektoren ergreifen wird. Maßgeblich für die Maßnahmen nach Satz 2 ist die Einhaltung der nach § 4 in Verbindung mit Anlage 2 festgelegten zulässigen Jahresemissionsmengen. Zudem legt die Bundesregierung fest, welche Maßnahmen sie zum Erhalt der Netto-Senke bei Landnutzung, Landnutzungsänderung und Forstwirtschaft ergreifen wird.
+(1) Die Bundesregierung beschließt mindestens nach jeder Fortschreibung des Klimaschutzplans ein Klimaschutzprogramm; darüber hinaus wird bei Zielverfehlungen eine Aktualisierung des bestehenden Klimaschutzprogramms um Maßnahmen nach § 8 Absatz 2 vorgenommen. In jedem Klimaschutzprogramm legt die Bundesregierung unter Berücksichtigung des jeweils aktuellen Klimaschutz-Projektionsberichts nach § 10 Absatz 2 fest, welche Maßnahmen sie zur Erreichung der nationalen Klimaschutzziele in den einzelnen Sektoren ergreifen wird. Maßgeblich für die Maßnahmen nach Satz 2 ist die Einhaltung der nach § 4 festgelegten zulässigen Jahresemissionsmengen. Zudem legt die Bundesregierung fest, welche Maßnahmen sie zur Erreichung der Ziele nach § 3a ergreifen wird.
 
-(2) Das Klimaschutzprogramm wird spätestens im Kalenderjahr nach der Fortschreibung des Klimaschutzplans beschlossen. Die nach § 4 Absatz 4 für die Sektoren zuständigen Bundesministerien schlagen innerhalb von sechs Monaten nach Fortschreibung des Klimaschutzplans Maßnahmen vor, die geeignet sind, die in den jeweiligen Sektoren erforderlichen zusätzlichen Treibhausgasminderungen zu erzielen. Die Maßnahmenvorschläge enthalten neben wissenschaftlichen Abschätzungen zu den voraussichtlichen Treibhausgasminderungswirkungen auch wissenschaftliche Abschätzungen zu möglichen ökonomischen, sozialen und weiteren ökologischen Folgen. Diese Abschätzungen schließen soweit möglich auch Auswirkungen auf die Effizienz des Einsatzes von natürlichen Ressourcen ein. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ermittelt in Abstimmung mit dem Bundesministerium für Wirtschaft und Energie die voraussichtliche Treibhausgasgesamtminderungswirkung der vorgeschlagenen Maßnahmen.
+(2) Das Klimaschutzprogramm wird spätestens im Kalenderjahr nach der Fortschreibung des Klimaschutzplans beschlossen. Die nach § 4 Absatz 4 für die Sektoren zuständigen Bundesministerien schlagen innerhalb von sechs Monaten nach Fortschreibung des Klimaschutzplans Maßnahmen vor, die geeignet sind, die in den jeweiligen Sektoren erforderlichen zusätzlichen Treibhausgasminderungen zu erzielen. Die Maßnahmenvorschläge enthalten neben wissenschaftlichen Abschätzungen zu den voraussichtlichen Treibhausgasminderungswirkungen auch wissenschaftliche Abschätzungen zu möglichen ökonomischen, sozialen und weiteren ökologischen Folgen. Diese Abschätzungen schließen soweit möglich auch Auswirkungen auf die Beschäftigungsentwicklung, die Wirtschaftsstruktur, die Gleichwertigkeit der Lebensverhältnisse auch im ländlichen Raum sowie die Effizienz des Einsatzes von natürlichen Ressourcen ein. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ermittelt in Abstimmung mit dem Bundesministerium für Wirtschaft und Energie die voraussichtliche Treibhausgasgesamtminderungswirkung der vorgeschlagenen Maßnahmen.
 
 (3) Für jedes Klimaschutzprogramm bezieht die Bundesregierung in einem öffentlichen Konsultationsverfahren Länder, Kommunen, Wirtschaftsverbände und zivilgesellschaftliche Verbände sowie die Wissenschaftsplattform Klimaschutz und wissenschaftliche Begleitgremien der Bundesregierung ein.
 
 # § 10 – Berichterstattung
 
-(1) Die Bundesregierung erstellt jährlich einen Klimaschutzbericht, der die Entwicklung der Treibhausgasemissionen in den verschiedenen Sektoren, den Stand der Umsetzung der Klimaschutzprogramme nach § 9 und der Sofortprogramme nach § 8 sowie eine Prognose der zu erwartenden Treibhausgasminderungswirkungen enthält. Die Bundesregierung leitet den Klimaschutzbericht für das jeweilige Vorjahr bis zum 30. Juni dem Deutschen Bundestag zu.
+(1) Die Bundesregierung erstellt jährlich einen Klimaschutzbericht, der die Entwicklung der Treibhausgasemissionen in den verschiedenen Sektoren, den Stand der Umsetzung der Klimaschutzprogramme nach § 9 und der Sofortprogramme nach § 8 sowie eine Prognose der zu erwartenden Treibhausgasminderungswirkungen enthält. Erstmals im Jahr 2024 und dann alle zwei Jahre enthält der Klimaschutzbericht eine Darstellung zum Stand und zur weiteren Entwicklung der CO<sub>2</sub>-Bepreisung innerhalb der Europäischen Union sowie zu technischen und internationalen Entwicklungen und zu ihrer Kompatibilität mit der nationalen CO<sub>2</sub>-Bepreisung sowie den nationalen Klimaschutzzielen einschließlich der Wirkung auf die Sektoren nach § 4 Absatz 1. Die Bundesregierung leitet den Klimaschutzbericht für das jeweilige Vorjahr bis zum 30. Juni dem Deutschen Bundestag zu.
 
 (2) Die Bundesregierung erstellt ab dem Jahr 2021 alle zwei Jahre einen Klimaschutz-Projektionsbericht nach den Vorgaben des Artikels 18 der Europäischen Governance-Verordnung, der die Projektionen von Treibhausgasemissionen, einschließlich der Quellen und Senken des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft, und die nationalen Politiken und Maßnahmen zu deren Minderung enthält. Die Bundesregierung leitet den Klimaschutz-Projektionsbericht bis zum 31. März des jeweiligen Jahres dem Deutschen Bundestag zu.
 
@@ -181,23 +213,23 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 (3) Die Bundesregierung holt zu folgenden Maßnahmen eine Stellungnahme des Expertenrats für Klimafragen im Hinblick auf die diesen zugrunde liegenden Annahmen zur Treibhausgasreduktion ein, bevor sie diese veranlasst:
 
-1. Änderungen der Jahresemissionsmengen durch Verordnung nach § 4 Absatz 5;
+1. Änderungen oder Festlegungen der Jahresemissionsmengen nach diesem Gesetz;
 
 2. Fortschreibung des Klimaschutzplans;
 
 3. Beschluss von Klimaschutzprogrammen nach § 9.
 
-Darüber hinaus können der Deutsche Bundestag oder die Bundesregierung durch Beschluss den Expertenrat für Klimafragen mit der Erstellung von Sondergutachten beauftragen.
+(4) Der Expertenrat für Klimafragen legt erstmals im Jahr 2022 und dann alle zwei Jahre dem Deutschen Bundestag und der Bundesregierung ein Gutachten zu bisherigen Entwicklungen der Treibhausgasemissionen, Trends bezüglich der Jahresemissionsmengen und Wirksamkeit von Maßnahmen mit Blick auf die Zielerreichung nach diesem Gesetz vor. Darüber hinaus können der Deutsche Bundestag oder die Bundesregierung durch Beschluss den Expertenrat für Klimafragen mit der Erstellung von Sondergutachten beauftragen.
 
-(4) Alle öffentlichen Stellen des Bundes im Sinne des § 2 Absatz 1 des Bundesdatenschutzgesetzes gewähren dem Expertenrat für Klimafragen Einsicht in die zur Wahrnehmung seiner Aufgaben benötigten Daten und stellen diese zur Verfügung. Die Bundesregierung stellt sicher, dass der Schutz von Betriebs- und Geschäftsgeheimnissen Dritter sowie personenbezogener Daten gewährleistet ist. Der Expertenrat für Klimafragen kann zu klimaschutzbezogenen Themen Behörden, sowie Sachverständige, insbesondere Vertreter und Vertreterinnen von Organisationen der Wirtschaft und der Umweltverbände, anhören und befragen.
+(5) Alle öffentlichen Stellen des Bundes im Sinne des § 2 Absatz 1 des Bundesdatenschutzgesetzes gewähren dem Expertenrat für Klimafragen Einsicht in die zur Wahrnehmung seiner Aufgaben benötigten Daten und stellen diese zur Verfügung. Die Bundesregierung stellt sicher, dass der Schutz von Betriebs- und Geschäftsgeheimnissen Dritter sowie personenbezogener Daten gewährleistet ist. Der Expertenrat für Klimafragen kann zu klimaschutzbezogenen Themen Behörden, sowie Sachverständige, insbesondere Vertreter und Vertreterinnen von Organisationen der Wirtschaft und der Umweltverbände, anhören und befragen.
 
 # § 13 – Berücksichtigungsgebot
 
-(1) Die Träger öffentlicher Aufgaben haben bei ihren Planungen und Entscheidungen den Zweck dieses Gesetzes und die zu seiner Erfüllung festgelegten Ziele zu berücksichtigen. Die Kompetenzen der Länder, Gemeinden und Gemeindeverbände, das Berücksichtigungsgebot innerhalb ihrer jeweiligen Verantwortungsbereiche auszugestalten, bleiben unberührt.
+(1) Die Träger öffentlicher Aufgaben haben bei ihren Planungen und Entscheidungen den Zweck dieses Gesetzes und die zu seiner Erfüllung festgelegten Ziele zu berücksichtigen. Die Kompetenzen der Länder, Gemeinden und Gemeindeverbände, das Berücksichtigungsgebot innerhalb ihrer jeweiligen Verantwortungsbereiche auszugestalten, bleiben unberührt. Bei der Planung, Auswahl und Durchführung von Investitionen und bei der Beschaffung auf Bundesebene ist für die Vermeidung oder Verursachung von Treibhausgasemissionen ein CO<sub>2</sub>-Preis, mindestens der nach § 10 Absatz 2 Brennstoff-Emissionshandelsgesetz gültige Mindestpreis oder Festpreis zugrunde zu legen.
 
-(2) Der Bund prüft bei der Planung, Auswahl und Durchführung von Investitionen und bei der Beschaffung, wie damit jeweils zum Erreichen der Klimaschutzziele nach § 3 beigetragen werden kann. Kommen mehrere Möglichkeiten bei der Planung, Auswahl und Durchführung von Investitionen und bei der Beschaffung in Frage, dann ist in Abwägung mit anderen relevanten Kriterien mit Bezug zum Zweck der Investition solchen der Vorzug zu geben, mit denen das Ziel der Minderung von Treibhausgasemissionen über die gesamte Nutzungsdauer des Investitionsguts oder Beschaffungsguts zu den geringsten Kosten erreicht werden kann. Mehraufwendungen bei der Investition oder Beschaffung sollen nicht außer Verhältnis zu ihrem Beitrag zur Treibhausgasminderung stehen. Soweit vergaberechtliche Bestimmungen anzuwenden sind, sind diese zu beachten.
+(2) Der Bund prüft bei der Planung, Auswahl und Durchführung von Investitionen und bei der Beschaffung, wie damit jeweils zum Erreichen der nationalen Klimaschutzziele nach § 3 beigetragen werden kann. Kommen mehrere Realisierungsmöglichkeiten in Frage, dann ist in Abwägung mit anderen relevanten Kriterien mit Bezug zum Ziel der jeweiligen Maßnahme solchen der Vorzug zu geben, mit denen das Ziel der Minderung von Treibhausgasemissionen über den gesamten Lebenszyklus der Maßnahme zu den geringsten Kosten erreicht werden kann. Mehraufwendungen sollen nicht außer Verhältnis zu ihrem Beitrag zur Treibhausgasminderung stehen. Soweit vergaberechtliche Bestimmungen anzuwenden sind, sind diese zu beachten.
 
-(3) Bei der Anwendung von Wirtschaftlichkeitskriterien sind bei vergleichenden Betrachtungen die Kosten und Einsparungen über die jeweilige gesamte Nutzungsdauer der Investition oder Beschaffung zugrunde zu legen. Die zu erwartenden volkswirtschaftlichen Kosten für den Klimaschutz sind auf geeignete Weise zu berücksichtigen.
+(3) Bei der Anwendung von Wirtschaftlichkeitskriterien sind bei vergleichenden Betrachtungen die dem Bund entstehenden Kosten und Einsparungen über den jeweiligen gesamten Lebenszyklus der Investition oder Beschaffung zugrunde zu legen.
 
 # § 14 – Bund-Länder-Zusammenarbeit
 
@@ -323,6 +355,10 @@ Wald, Acker, Grünland, Feuchtgebiete, Siedlungen; Holzprodukte; Änderungen zwi
 
 4
 
-# Anlage 2 – (zu § 4)Zulässige Jahresemissionsmengen
+# Anlage 2 – (zu § 4)Zulässige Jahresemissionsmengen für die Jahre 2020 bis 2030
 
-(Fundstelle: BGBl. I 2019, 2520)
+(Fundstelle: BGBl. I 2021, 3907)
+
+# Anlage 3 – (zu § 4)Jährliche Minderungsziele für die Jahre 2031 bis 2040
+
+(Fundstelle: BGBl. I 2021, 3907)
