@@ -225,6 +225,8 @@ Die Bewerberinnen und Bewerber sind darauf hinzuweisen, dass sich die Frist für
 
 Den in § 1 Absatz 1 Nummer 4 bis 6 genannten Soldatinnen und Soldaten wird der Dienstgrad vorläufig verliehen; er kann nach einem Wehrdienst von mindestens der in § 12 Absatz 2 Satz 1, § 22 Absatz 4 Satz 3 und § 48 Absatz 5 Satz 2 jeweils bestimmten Dauer endgültig verliehen werden. In den Fällen nach Satz 1 Nummer 2 kann der höhere Dienstgrad auch zeitweilig für die Dauer der Verwendung verliehen werden. Über die Verleihung der höheren Dienstgrade entscheidet das Bundesministerium der Verteidigung oder eine von ihm bestimmte Stelle. Die Laufbahn ist in der Entscheidung zu bezeichnen. Die Sätze 1 und 4 gelten entsprechend für die in § 1 Absatz 1 Nummer 7 genannten Soldatinnen und Soldaten; der höhere Dienstgrad darf nur für die Dauer der dienstlichen Veranstaltung verliehen werden.
 
+(+++ § 7 Abs. 2: Zur Nichtanwendung vgl. § 29 Abs. 3 Satz 3 +++)
+
 # § 8 – Dienstzeiterfordernisse
 
 Dienstzeit im Sinne dieser Verordnung ist die Wehrdienstzeit. Bei einer Einstellung mit einem höheren als dem niedrigsten Dienstgrad der Mannschaften gilt für Beförderungen die Dienstzeit als erfüllt, die nach dieser Verordnung für eine Beförderung zu dem Dienstgrad, mit dem die Soldatin oder der Soldat eingestellt worden ist, erforderlich ist.

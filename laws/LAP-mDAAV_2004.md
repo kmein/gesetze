@@ -17,6 +17,10 @@ Laufbahn und Ausbildung
 
 Laufbahnämter
 
+§ 1a
+
+Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
 § 2
 
 Ziel und Inhalt der Ausbildung
@@ -52,6 +56,10 @@ Dauer des Vorbereitungsdienstes
 § 10
 
 Gliederung des Vorbereitungsdienstes
+
+§ 10a
+
+Nutzung digitaler Formate
 
 § 11
 
@@ -185,6 +193,10 @@ Inkrafttreten, Außerkrafttreten
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
+# § 1a – Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
 # § 2 – Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat bei der Erfüllung ihrer Aufgaben vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Ihre Ausbildung führt zur Berufsbefähigung. Sie vermittelt ihnen die theoretischen und berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die sie zur Erfüllung der Aufgaben in ihrer Laufbahn benötigen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt und europarelevante Kenntnisse vermittelt. Auch die allgemeinen beruflichen Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und wirtschaftlichen Handeln sowie soziale und interkulturelle Kompetenz sind zu fördern. Auf den Praxisbezug der Ausbildung ist besonderer Wert zu legen.
@@ -243,6 +255,8 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 (2) Das Auswahlverfahren umfasst einen schriftlichen und einen mündlichen Teil und kann auch psychologische Eignungstests und Sprachtests umfassen. Das Auswahlverfahren wird von einem unabhängigen Ausschuss durchgeführt; dieser kann externe Beraterinnen oder Berater sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
+(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt werden, wenn dafür geeignete Einrichtungen zur Verfügung stehen.
+
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und Bewerber zugelassen, die nach den eingereichten Unterlagen die Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein Vorverfahren durchgeführt wird. Schwerbehinderte Menschen sowie ehemalige Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen, grundsätzlich zum Auswahlverfahren zugelassen. Frauen und Männer werden in einem ausgewogenen Verhältnis berücksichtigt.
 
 (4) Auf Grund der Ergebnisse des schriftlichen Verfahrens und gegebenenfalls der psychologischen Eignungstests entscheidet der Auswahlausschuss, wer zum mündlichen Teil des Auswahlverfahrens zugelassen wird.
@@ -261,6 +275,8 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 5. eine oder ein von der Leiterin oder dem Leiter der Zentralabteilung des Auswärtigen Amts bestellte Beamtin oder bestellter Beamter des mittleren Auswärtigen Dienstes.
 
+(6a) Bis zum 31. Dezember 2022 kann als Mitglied des Auswahlausschusses nach Absatz 6 Satz 4 Nummer 4 und 5 auch jeweils eine entsprechende Arbeitnehmerin oder ein entsprechender Arbeitnehmer bestellt werden.
+
 (7) Die Leiterin, der Leiter, die stellvertretende Leiterin oder der stellvertretende Leiter der Zentralabteilung des Auswärtigen Amts können als weitere stimmberechtigte Mitglieder am Auswahlverfahren teilnehmen. In der Regel führt die Leiterin oder der Leiter der Aus- und Fortbildungsstätte des Auswärtigen Amts den Vorsitz. Im Falle der Teilnahme der Leiterin oder des Leiters der Zentralabteilung führt diese oder dieser den Vorsitz. Die oder der Vorsitzende des Auswahlausschusses wird vertreten durch
 
 1. die stellvertretende Leiterin oder den stellvertretenden Leiter der Zentralabteilung des Auswärtigen Amts,
@@ -270,6 +286,8 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 3. die Ausbildungsleiterin oder den Ausbildungsleiter für den mittleren Auswärtigen Dienst.
 
 Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder dem Leiter der Zentralabteilung des Auswärtigen Amts für die Dauer von drei Jahren bestellt. Der Auswahlausschuss ist beschlussfähig, wenn die oder der Vorsitzende und mindestens zwei Mitglieder anwesend sind. Er entscheidet mit Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
+
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 der Auswahlausschuss – abweichend von Absatz 7 Satz 6 – schon dann beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres Mitglied anwesend sind.
 
 (8) Je ein Mitglied des Personalrats und der Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 
@@ -327,7 +345,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 # § 10 – Gliederung des Vorbereitungsdienstes
 
-Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktischen Ausbildung (Praktika) und wird in folgenden Abschnitten durchgeführt:  
+(1) Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktischen Ausbildung (Praktika) und wird in folgenden Abschnitten durchgeführt:  
 
 |     |                                                                                                                                                 |                  |
 |:----|:------------------------------------------------------------------------------------------------------------------------------------------------|-----------------:|
@@ -335,6 +353,16 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 | 2\. | Inlandspraktikum                                                                                                                                |  2 bis 3 Monate, |
 | 3\. | Auslandspraktikum                                                                                                                               | 8 bis 10 Monate, |
 | 4\. | Schlusslehrgang                                                                                                                                 |  6 bis 7 Monate. |
+
+(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 Ausbildungsabschnitte
+
+1. in einer anderen Abfolge durchgeführt werden als nach Absatz 1 und
+
+2. eine andere Dauer haben als nach Absatz 1.
+
+# § 10a – Nutzung digitaler Lehrformate
+
+Bis zum 31. Dezember 2022 können für einzelne oder alle Lehrveranstaltungen der Ausbildungsabschnitte digitale Lehrformate genutzt werden.
 
 # § 11 – Fachtheoretische Ausbildung
 
@@ -382,6 +410,12 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (2) Ferner sind im Einführungslehrgang eine Aufsichtsarbeit in der Hauptsprache und im Informationstechnik-Grundlagenkurs sowie im Schlusslehrgang je eine Aufsichtsarbeit in der Hauptsprache und in der Nebensprache anzufertigen.
 
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+
+1. einzelne oder alle Aufsichtsarbeiten im Einführungs- und im Schlusslehrgang mit Unterstützung durch Informationstechnik durchgeführt werden und
+
+2. die Zahl der nach den Absätzen 1 und 2 zu absolvierenden Aufsichtsarbeiten reduziert wird.
+
 (3) Für die Bewertung gilt § 24. Die Bewertung ist der Anwärterin oder dem Anwärter zu eröffnen und mit ihm oder ihr zu besprechen.
 
 (4) Wer an einem Leistungsnachweis nicht teilnehmen kann, erhält Gelegenheit, diesen zu einem späteren Zeitpunkt der Ausbildung zu erbringen. Ist der Leistungsnachweis aus einem von der Anwärterin oder dem Anwärter zu vertretenden Grunde nicht bis spätestens zehn Tage vor dem ersten Tag der Laufbahnprüfung erbracht, gilt er als mit "ungenügend" (Rangpunkt 0) bewertet.
@@ -399,6 +433,12 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 (2) Die Prüfung wird an den Lernzielen ausgerichtet; in ihr sollen die Anwärterinnen und Anwärter nachweisen, dass sie gründliche Fachkenntnisse erworben haben und fähig sind, auf dieser Grundlage zu arbeiten. Insoweit ist die Prüfung auch auf die Feststellung von Einzelkenntnissen gerichtet.
 
 (3) Die Prüfung besteht aus einer Sprachprüfung in der Hauptsprache (§ 19) und aus einer Fachprüfung (§ 20). Beide Prüfungen bestehen aus je einem schriftlichen und einem mündlichen Teil.
+
+(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 bei der Sprachprüfung und der Fachprüfung
+
+1. der schriftliche Teil jeweils mit Unterstützung durch Informationstechnik durchgeführt wird und
+
+2. der mündliche Teil unter Nutzung von Videokonferenztechnik durchgeführt wird, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
 
 (4) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die Prüfungskommission (§ 18). § 6 Abs. 8 gilt entsprechend.
 
@@ -423,6 +463,12 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 (1) Die schriftliche Sprachprüfung besteht aus zwei schriftlichen Aufsichtsarbeiten von je 30 Minuten Dauer. In der Nebensprache können die Anwärterinnen und Anwärter eine vergleichbare schriftliche Sprachprüfung ablegen, deren Ergebnis nicht in die Laufbahnprüfung einfließt. § 20 Abs. 3 bis 6 gilt entsprechend.
 
 (2) Die mündliche Sprachprüfung findet nach Beendigung der schriftlichen Sprachprüfung und vor der Fachprüfung statt. Sie wird vor der Prüfungskommission abgelegt, die mit einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem sowie einer Beamtin oder einem Beamten des gehobenen Dienstes als Beisitzerin oder Beisitzer und zwei Sprachlehrerinnen oder Sprachlehrern als Fachprüferinnen oder Fachprüfer besetzt ist. Die mündliche Sprachprüfung dauert nicht mehr als 15 Minuten und besteht aus dem Lesen und Übersetzen eines Textes aus der Fremdsprache und einer anschließenden kurzen Unterhaltung in der Fremdsprache. § 20 Abs. 10 bis 12 gilt entsprechend. In der Nebensprache können die Anwärterinnen und Anwärter eine vergleichbare mündliche Sprachprüfung ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
+
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 die Prüfungskommission nur besetzt ist mit
+
+1. einer Beamtin oder einem Beamten des gehobenen Dienstes als Vorsitzender oder Vorsitzendem und
+
+2. einer Sprachlehrerin oder einem Sprachlehrer oder zwei Sprachlehrerinnen oder zwei Sprachlehrern.
 
 # § 20 – Fachprüfung
 
@@ -454,6 +500,12 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 13. Liegenschaftsrecht.
 
+(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022 – abweichend von Absatz 1 Satz 1 –
+
+1. der Umfang der Aufsichtsarbeiten reduziert und die Bearbeitungszeit der Aufsichtsarbeiten verkürzt wird und
+
+2. die Zahl der Aufsichtsarbeiten auf drei oder zwei reduziert wird.
+
 (2) Die Aufsichtsarbeiten sollen an aufeinander folgenden Arbeitstagen gestellt werden. Nach zwei Arbeitstagen soll ein Studientag vorgesehen werden.
 
 (3) Prüfungsvorschläge und -aufgaben sind geheim zu halten.
@@ -466,13 +518,35 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (7) Anwärterinnen und Anwärter sind zur mündlichen Fachprüfung zugelassen, wenn mindestens drei schriftliche Aufsichtsarbeiten mindestens mit der Note "ausreichend" bewertet worden sind. Andernfalls ist die Laufbahnprüfung nicht bestanden.
 
+(7a) Ist festgelegt worden, dass die Zahl der Aufsichtsarbeiten auf zwei oder drei reduziert wird, so ist zur mündlichen Laufbahnprüfung zugelassen, wer in zwei Aufsichtsarbeiten jeweils mindestens die Note „ausreichend“ erreicht hat.
+
 (8) Die Zulassung oder Nichtzulassung wird den Anwärterinnen und Anwärtern rechtzeitig vor der mündlichen Prüfung bekannt gegeben. Dabei sollen zugelassenen Anwärterinnen und Anwärtern auch die von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mitgeteilt werden, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
-(9) Die mündliche Fachprüfung richtet sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für den mittleren Auswärtigen Dienst die Prüfungsfächer aus vier der in Absatz 1 Satz 2 genannten Fachgebiete aus. Es sollen nicht mehr als fünf Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für jeden Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
+(9) Die mündliche Fachprüfung richtet sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für den mittleren Auswärtigen Dienst vier der in Absatz 1 Satz 2 genannten Fachgebiete als Prüfungsfächer aus. Es sollen nicht mehr als fünf Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für jeden Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
+
+(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+
+1. der mündliche Teil der Fachprüfung als Einzelprüfung durchgeführt wird,
+
+2. für den mündlichen Teil der Fachprüfung weniger als vier der in Absatz 1 Satz 2 genannten Fachgebiete als Prüfungsfächer ausgewählt werden und
+
+3. auf die Durchführung des mündlichen Teils der Fachprüfung vollständig verzichtet wird, wenn
+
+a) geeignete technische Einrichtungen für eine Durchführung unter Nutzung von Videokonferenztechnik nicht zur Verfügung stehen und
+
+b) nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt, selbst wenn
+
+aa)  
+der mündliche Teil als Einzelprüfung durchgeführt würde und
+
+bb)  
+die Prüfungsfächer aus weniger als vier Fachgebieten ausgewählt würden.
 
 (10) Die oder der Vorsitzende der Prüfungskommission leitet die mündliche Fachprüfung und stellt sicher, dass die Anwärterinnen und Anwärter in geeigneter Weise geprüft werden.
 
 (11) Die Prüfungskommission bewertet die Leistungen nach § 24; die Fachprüferinnen und Fachprüfer schlagen jeweils die Bewertungen vor. Das Ergebnis der mündlichen Fachprüfung ist in einer Durchschnittspunktzahl auszudrücken, die sich aus der Summe der Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
+
+(11a) Ist festgelegt worden, dass auf den mündlichen Teil verzichtet wird, so ist das Ergebnis des mündlichen Teils der Fachprüfung das arithmetische Mittel aus den Bewertungen der absolvierten Aufsichtsarbeiten der fachtheoretischen Ausbildung (§ 15 Absatz 1 bis 2a).
 
 (12) Über den Ablauf der mündlichen Fachprüfung wird eine Niederschrift gefertigt, die die Mitglieder der Prüfungskommission unterschreiben.
 
@@ -503,6 +577,20 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 (2) Die Ergebnisse der schriftlichen und mündlichen Sprachprüfung werden mit insgesamt 13 Prozent berücksichtigt.
 
 (3) Die Ergebnisse der schriftlichen und mündlichen Fachprüfung werden mit insgesamt 56 Prozent berücksichtigt; jede schriftliche Aufsichtsarbeit geht dabei mit 9 Prozent und jedes mündliche Prüfungsfach mit 5 Prozent in das Ergebnis der Laufbahnprüfung ein.
+
+(4) Ist festgelegt worden, dass im schriftlichen Teil der Fachprüfung die Zahl der Aufsichtsarbeiten auf drei oder zwei reduziert wird, so geht in die Ergebnisse der schriftlichen und mündlichen Fachprüfung,
+
+1. wenn drei schriftliche Aufsichtsarbeiten zu absolvieren sind, jede schriftliche Aufsichtsarbeit mit 12 Prozent ein,
+
+2. wenn zwei schriftliche Aufsichtsarbeiten zu absolvieren sind, jede schriftliche Aufsichtsarbeit mit 18 Prozent ein.
+
+Ist festgelegt worden, dass im mündlichen Teil der Fachprüfung die Zahl der Prüfungsfächer reduziert wird, so geht in die Ergebnisse der schriftlichen und mündlichen Fachprüfung,
+
+1. wenn drei Fachgebiete zu prüfen sind, jedes mündliche Prüfungsfach mit 6,67 Prozent ein,
+
+2. wenn zwei Fachgebiete zu prüfen sind, jedes mündliche Prüfungsfach mit 10 Prozent ein,
+
+3. wenn ein Fachgebiet zu prüfen ist, das mündliche Prüfungsfach mit 20 Prozent ein.
 
 # § 24 – Noten, Rangpunkte
 

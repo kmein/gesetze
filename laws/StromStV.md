@@ -53,7 +53,7 @@ Antrag auf Erlaubnis
 
 § 3
 
-Erteilung und Erlöschen der Erlaubnis
+Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 § 4
 
@@ -75,7 +75,7 @@ Zu § 8 des Gesetzes
 
 § 5
 
-Anmeldung der Steuer
+Anmeldung der Steuer und Überprüfung
 
 § 6
 
@@ -95,7 +95,7 @@ Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme
 
 § 9
 
-Erteilung und Erlöschen der Erlaubnis
+Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 § 10
 
@@ -239,7 +239,7 @@ Schlussbestimmungen
 
 # § 1 – Zuständiges Hauptzollamt
 
-Soweit in dieser Verordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
+Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
 
 # § 1a – Versorger
 
@@ -343,11 +343,13 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 (4) Das Hauptzollamt kann vom Antragsteller weitere Angaben und Unterlagen verlangen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Es kann auf Angaben und Unterlagen verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-# § 3 – Erteilung und Erlöschen der Erlaubnis
+# § 3 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis schriftlich oder elektronisch und stellt Versorgern einen Erlaubnisschein als Nachweis über die erteilte Erlaubnis aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
 (2) In den Fällen des § 2 Absatz 3 gilt die Erlaubnis abweichend von Absatz 1 Satz 1 mit Eingang der ordnungsgemäßen Anzeige über die Aufnahme der Tätigkeit beim zuständigen Hauptzollamt als erteilt. Ein Erlaubnisschein wird nicht ausgestellt.
+
+(2a) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Erlaubnis eingehalten werden. Zudem überprüft es regelmäßig, ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
 (3) Die Erlaubnis erlischt durch
 
@@ -425,7 +427,7 @@ Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und 
 
 (5) Der Versorger hat den Erlaubnisschein dem zuständigen Hauptzollamt unverzüglich zurückzugeben, wenn die Erlaubnis erlischt oder die Leistung von Strom nicht nur vorübergehend eingestellt wird. Geht der Erlaubnisschein verloren, hat der Versorger dies dem Hauptzollamt unverzüglich anzuzeigen. Das Hauptzollamt stellt auf Antrag einen neuen Erlaubnisschein aus.
 
-(6) Der Versorger hat dem zuständigen Hauptzollamt für jedes Kalenderjahr bis zum 31. Mai des folgenden Kalenderjahres diejenigen Strommengen nach amtlich vorgeschriebenem Vordruck anzumelden, die steuerfrei nach § 9 Absatz 1 Nummer 3 Buchstabe b des Gesetzes entnommen worden sind. Darüber hinaus hat der Versorger auch die nach § 9 Absatz 1 Nummer 1 und 2 sowie Nummer 3 Buchstabe a des Gesetzes steuerfrei entnommenen Strommengen entsprechend Satz 1 nach amtlich vorgeschriebenem Vordruck anzumelden, soweit diese in ortsfesten Anlagen erzeugt worden sind.
+(6) Der Versorger hat dem zuständigen Hauptzollamt für jedes Kalenderjahr bis zum 31. Mai des folgenden Kalenderjahres diejenigen Strommengen nach amtlich vorgeschriebenem Vordruck anzumelden, die steuerfrei nach § 9 Absatz 1 Nummer 3 Buchstabe b des Gesetzes entnommen worden sind. Darüber hinaus hat der Versorger auch die nach § 9 Absatz 1 Nummer 1 und 2 sowie Nummer 3 Buchstabe a des Gesetzes steuerfrei entnommenen Strommengen entsprechend Satz 1 nach amtlich vorgeschriebenem Vordruck anzumelden, soweit diese in ortsfesten Anlagen erzeugt worden sind. Für die Überprüfung der Steueranmeldung gilt § 5 Absatz 2 entsprechend.
 
 (7) Der Versorger ist verpflichtet, in seinen Rechnungen über den an gewerbliche Letztverbraucher mit einem Stromverbrauch von mehr als 10 Megawattstunden pro Jahr geleisteten Strom die jeweiligen Steuerbegünstigungen nach § 9 des Gesetzes gesondert auszuweisen. Die Ausweisung hat deutlich sichtbar und in gut lesbarer Schrift zu erfolgen. Dabei sind die Strommengen in Kilowattstunden getrennt nach den jeweiligen Steuerbegünstigungen aufzuführen.
 
@@ -433,9 +435,11 @@ Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und 
 
 § 4 Abs. 4 Satz 1 (früher Abs. 4 einziger Text) Kursivdruck: Gem. Art. 3 Nr. 7 Buchst. c V v. 2.1.2018 I 84 wird mWv 1.1.2018 vor dem Wort "Hauptzollamt" das Wort "zuständigen" eingefügt. Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "zuständige" eingefügt.
 
-# § 5 – Anmeldung der Steuer
+# § 5 – Anmeldung der Steuer und Überprüfung
 
-Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+(1) Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+
+(2) Das Hauptzollamt überprüft die Steueranmeldung. Art und Umfang der Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung durch eine Verfahrensanweisung vorgegeben werden. Das Hauptzollamt kann von dem Steuerschuldner weitere Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung entsprechend.
 
 # § 6 – Vorauszahlungen
 
@@ -507,9 +511,11 @@ Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des Versorge
 
 Abweichend von § 99b der Energiesteuer-Durchführungsverordnung gilt der Nachweis für die Hocheffizienz für Anlagen mit einer elektrischen Nennleistung von weniger als 1 Megawatt als erbracht, wenn die erzeugte Wärme nach § 10 Absatz 2 der Energiesteuer-Durchführungsverordnung als genutzt gilt.
 
-# § 9 – Erteilung und Erlöschen der Erlaubnis
+# § 9 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 9 Absatz 4 des Gesetzes schriftlich oder elektronisch (förmliche Einzelerlaubnis) in dem vom Antragsteller beantragten zulässigen Umfang und stellt in den Fällen des § 9 Absatz 1 Nummer 2, Absatz 2 und 3 des Gesetzes als Nachweis der Bezugsberechtigung einen Erlaubnisschein aus. Sofern der Strom selbst erzeugt oder als Versorger bezogen wird, wird in den Fällen nach § 9 Absatz 1 Nummer 2 kein Erlaubnisschein ausgestellt. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+
+(1a) Für die Überprüfung der Erlaubnis gilt § 3 Absatz 2a entsprechend.
 
 (2) Für das Erlöschen der Erlaubnis gilt § 3 Absatz 3 bis 7 sinngemäß.
 
@@ -665,7 +671,9 @@ an ihre Mieter, Pächter oder an vergleichbare Vertragsparteien leisten. Der Erl
 
 (2) Das Hauptzollamt kann auf Antrag zulassen, dass Inhaber von Erlaubnissen zur steuerbegünstigten Entnahme von Strom steuerbegünstigt nach § 9 Absatz 2 des Gesetzes bezogenen Strom unter Versteuerung mit dem Unterschiedsbetrag der jeweils gültigen Steuersätze nach § 9 Absatz 2 und § 3 des Gesetzes für nicht steuerbegünstigte Zwecke entnehmen. § 9 Absatz 6 Satz 2 und 3 des Gesetzes gilt sinngemäß. Steuerschuldner für den Unterschiedsbetrag ist der Erlaubnisinhaber, dem die Zulassung nach Satz 1 erteilt wurde.
 
-(3) Der Steuerschuldner nach Absatz 1 oder Absatz 2 hat für Strom, für den die Steuer entstanden ist, beim zuständigen Hauptzollamt eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). § 8 Absatz 2 bis 7 und 10 des Gesetzes sowie § 4 Absatz 2 bis 4 gelten sinngemäß.
+(2a) Für die Überprüfung der Erlaubnis gilt § 3 Absatz 2a entsprechend.
+
+(3) Der Steuerschuldner nach Absatz 1 oder Absatz 2 hat für Strom, für den die Steuer entstanden ist, beim zuständigen Hauptzollamt eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). § 8 Absatz 2 bis 7 und 10 des Gesetzes sowie § 4 Absatz 2 bis 4 und § 5 Absatz 2 gelten sinngemäß.
 
 # § 14 – Wasserfahrzeuge und Schifffahrt
 

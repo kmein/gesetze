@@ -29,7 +29,8 @@ a) Hochschulen, Forschungseinrichtungen und Forschungsfördereinrichtungen,
 
 b) Forschende, wenn die Forschungsdaten nicht bereits durch andere durch dieses Gesetz verpflichtete Datenbereitsteller bereitgestellt wurden;
 
-4. dies gilt nicht, soweit berechtigte Geschäftsinteressen, Wissenstransfertätigkeiten oder bestehende Rechte Dritter an geistigem Eigentum entgegenstehen.
+  
+dies gilt nicht, soweit berechtigte Geschäftsinteressen, Wissenstransfertätigkeiten oder bestehende Rechte Dritter an geistigem Eigentum entgegenstehen.
 
 (3) Dieses Gesetz gilt nicht für
 

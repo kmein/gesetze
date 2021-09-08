@@ -508,7 +508,7 @@ Durch die Genehmigung wird die Zulässigkeit des Vorhabens im Hinblick auf alle 
 
 2. Vor einer vorbehaltenen Entscheidung kann von einer Bekanntmachung und Auslegung der nachgereichten Unterlagen abgesehen werden, wenn ihre Bekanntmachung und Auslegung keine weiteren Umstände offenbaren würde, die für die Belange Dritter erheblich sein können.
 
-3. Die Planfeststellung erstreckt sich nicht auf die Zulässigkeit des Vorhabens nach den Vorschriften des Berg- und Tiefspeicherrechts. Hierüber entscheidet die nach § 23d Absatz 1 Nummer 2 zuständige Behörde.
+3. Die Planfeststellung erstreckt sich nicht auf die Zulässigkeit des Vorhabens nach den Vorschriften des Berg- und Tiefspeicherrechts. Hierüber entscheidet die nach § 23d Satz 1 Nummer 3 zuständige Behörde.
 
 4. § 7b dieses Gesetzes sowie § 18 der Atomrechtlichen Verfahrensverordnung gelten entsprechend für Teilplanfeststellungsbeschlüsse für Anlagen des Bundes nach § 9a Absatz 3.
 
@@ -924,7 +924,7 @@ In den Fällen, in denen der Standort nach dem Standortauswahlgesetz durch Bunde
 
 # § 24 – Zuständigkeit der Landesbehörden
 
-(1) Die übrigen Verwaltungsaufgaben nach dem Zweiten Abschnitt und den hierzu ergehenden Rechtsverordnungen werden im Auftrage des Bundes durch die Länder ausgeführt. Die Beaufsichtigung der Beförderung radioaktiver Stoffe im Schienen- und Schiffsverkehr der Eisenbahnen sowie im Magnetschwebebahnverkehr obliegt dem Eisenbahn-Bundesamt; dies gilt nicht für die Beförderung radioaktiver Stoffe durch nichtbundeseigene Eisenbahnen, wenn die Verkehre ausschließlich über Schienenwege dieser Eisenbahnen führen. Satz 2 gilt auch für die Genehmigung solcher Beförderungen, soweit eine Zuständigkeit nach § 23d nicht gegeben ist.
+(1) Die übrigen Verwaltungsaufgaben nach diesem Gesetz und den hierzu ergehenden Rechtsverordnungen werden im Auftrage des Bundes durch die Länder ausgeführt. Die Beaufsichtigung der Beförderung radioaktiver Stoffe im Schienen- und Schiffsverkehr der Eisenbahnen sowie im Magnetschwebebahnverkehr obliegt dem Eisenbahn-Bundesamt; dies gilt nicht für die Beförderung radioaktiver Stoffe durch nichtbundeseigene Eisenbahnen, wenn die Verkehre ausschließlich über Schienenwege dieser Eisenbahnen führen. Satz 2 gilt auch für die Genehmigung solcher Beförderungen, soweit eine Zuständigkeit nach § 23d nicht gegeben ist.
 
 (2) Für Genehmigungen nach den §§ 7, 7a und 9 sowie deren Rücknahme und Widerruf sind die durch die Landesregierungen bestimmten obersten Landesbehörden zuständig. Diese Behörden üben die Aufsicht über Anlagen nach § 7 und die Verwendung von Kernbrennstoffen außerhalb dieser Anlagen aus. Sie können im Einzelfall nachgeordnete Behörden damit beauftragen. Über Beschwerden gegen deren Verfügungen entscheidet die oberste Landesbehörde. Soweit Vorschriften außerhalb dieses Gesetzes anderen Behörden Aufsichtsbefugnisse verleihen, bleiben diese Zuständigkeiten unberührt.
 
@@ -1158,7 +1158,33 @@ so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflic
 
 7. ob und inwieweit ein nuklearer Schaden in den Fällen des Artikels 9 des Pariser Übereinkommens ersetzt wird.
 
-# §§ 41 bis 44 – (weggefallen)
+# § 41 – Integriertes Sicherungs- und Schutzkonzept
+
+Das integrierte Sicherungs-und Schutzkonzept besteht aus Sicherungsmaßnahmen des Genehmigungsinhabers der kerntechnischen Anlage oder Tätigkeit (erforderlicher Schutz gegen Störmaßnahmen oder sonstige Einwirkungen Dritter) sowie Schutzmaßnahmen des Staates.Die Maßnahmen werden aufeinander abgestimmt.
+
+# § 42 – Schutzziele
+
+Ziele der Maßnahmen nach § 41 für den Schutz von kerntechnischen Anlagen und Tätigkeiten sind die Verhinderung
+
+1. der Freisetzung und der missbräuchlichen Nutzung der ionisierenden Strahlung von Kernbrennstoffen oder ihrer Folgeprodukte in erheblichen Mengen vor Ort,
+
+2. der einfachen oder wiederholten Entwendung von Kernbrennstoffen oder ihrer Folgeprodukte in erheblichen Mengen mit dem Ziel der Freisetzung oder der missbräuchlichen Nutzung ionisierender Strahlung an einem beliebigen Ort und
+
+3. der einfachen oder wiederholten Entwendung von Kernbrennstoffen in Mengen, die in der Summe zur Herstellung einer kritischen Anordnung ausreichen.
+
+# § 43 – Umfang des erforderlichen Schutzes gegen Störmaßnahmen oder sonstige Einwirkungen Dritter
+
+(1) Der Genehmigungsinhaber stellt den erforderlichen Schutz gegen Störmaßnahmen oder sonstige Einwirkungen Dritter nach § 4 Absatz 2 Nummer 5, § 6 Absatz 2 Nummer 4, § 6 Absatz 3 in Verbindung mit Absatz 2 Nummer 4, § 7 Absatz 2 Nummer 5, § 7 Absatz 3 Satz 2 in Verbindung mit Absatz 2 Nummer 5, § 9 Absatz 2 Nummer 5 und § 9b Absatz 1 in Verbindung mit Absatz 4 Satz 1 sowie § 9b Absatz 1a Satz 2, jeweils in Verbindung mit § 7 Absatz 2 Nummer 5, durch präventive und reaktive Maßnahmen sicher.Diese Maßnahmen umfassen bauliche und sonstige technische sowie personelle und organisatorische Maßnahmen.§ 7c Absatz 1 Satz 2 und Absatz 2 Nummer 1, 2 und 3 gilt entsprechend.
+
+(2) Maßnahmen der nuklearen Sicherheit und des erforderlichen Schutzes gegen Störmaßnahmen oder sonstige Einwirkungen Dritter sind aufeinander abzustimmen.
+
+# § 44 – Funktionsvorbehalt
+
+(1) Die zu unterstellenden Störmaßnahmen oder sonstigen Einwirkungen Dritter werden nach dem Stand der Erkenntnisse durch die zuständigen Behörden festgelegt (Lastannahmen). Grundlage für den Stand der Erkenntnisse nach Satz 1 sind die Erkenntnisse und die Bewertungen der Sicherheits-,Genehmigungs-und Aufsichtsbehörden des Bundes und der Länder.
+
+(2) Ausgehend von den Lastannahmen werden allgemeine sowie anlagentyp-und tätigkeitsspezifische Anforderungen und Maßnahmen für den erforderlichen Schutz der kerntechnischen Anlagen und Tätigkeiten in Richtlinien für den Schutz gegen Störmaßnahmen oder sonstige Einwirkungen Dritter (SEWD-Richtlinien) festgelegt.Der erforderliche Umfang der Anforderungen und Maßnahmen nach Satz 1 sowie deren Festlegung im Genehmigungsverfahren oder als nachträgliche Auflage wird unter Berücksichtigung des Gefahrenpotenzials der kerntechnischen Anlage oder Tätigkeit bestimmt.Bei der Festlegung von Anforderungen und Maßnahmen nach Satz 1 ist eine effektive Folgedosis von 100 Millisievert bis zum 70. Lebensjahr als Summe von Inhalation und sieben Tagen äußerer Bestrahlung als Richtwert zugrunde zu legen.Die Methode zur Berechnung dieser effektiven Folgedosis ist in einer Richtlinie nach Satz 1 festzulegen.
+
+(3) Der erforderliche Schutz gegen Störmaßnahmen oder sonstige Einwirkungen Dritter nach § 4 Absatz 2 Nummer 5, § 6 Absatz 2 Nummer 4, § 6 Absatz 3 in Verbindung mit Absatz 2 Nummer 4, § 7 Absatz 2 Nummer 5, § 7 Absatz 3 Satz 2 in Verbindung mit Absatz 2 Nummer 5, § 9 Absatz 2 Nummer 5 und § 9b Absatz 1 in Verbindung mit Absatz 4 Satz 1 sowie § 9b Absatz 1a Satz 2, jeweils in Verbindung mit § 7 Absatz 2 Nummer 5, ist gegeben, wenn der Schutz der kerntechnischen Anlage oder Tätigkeit nach der Bewertung der Genehmigungs-oder Aufsichtsbehörde durch die in der Genehmigung festgelegten Maßnahmen gegen die nach Absatz 1 zu unterstellenden Störmaßnahmen oder sonstigen Einwirkungen Dritter sichergestellt ist.
 
 # § 44b – Meldewesen für die Sicherheit in der Informationstechnik
 

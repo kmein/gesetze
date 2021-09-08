@@ -19,7 +19,7 @@ Zuständiges Hauptzollamt
 
  
 
-Zu den §§ 1 bis 3, 53 bis 53b und 55 des Gesetzes
+Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes
 
  
 
@@ -68,6 +68,10 @@ Pflichten des Inhabers des Kennzeichnungsbetriebs
 § 8
 
 Andere Energieerzeugnisse als Gasöle
+
+§ 8a
+
+Überprüfung und Erlöschen der Zulassung und der Bewilligung
 
  
 
@@ -159,7 +163,7 @@ Einrichtung des Herstellungsbetriebs
 
 § 14
 
-Erteilung und Erlöschen der Herstellererlaubnis
+Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis
 
 § 15
 
@@ -183,7 +187,7 @@ Einrichtung des Lagers
 
 § 18
 
-Erteilung und Erlöschen der Lagererlaubnis
+Erteilung, Überprüfung und Erlöschen der Lagererlaubnis
 
 § 19
 
@@ -224,6 +228,20 @@ Zu den §§ 8, 9, 9a, 14, 15, 16, 22 und 23 des Gesetzes
 § 23a
 
 Steueranmeldung
+
+ 
+
+Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4
+
+ 
+
+ 
+
+§ 23b
+
+Überprüfung der Steueranmeldung
+
+ 
 
  
 
@@ -477,7 +495,15 @@ Vermischungen bei der Abgabe aus Transportmitteln
 
 § 49
 
-Spülvorgänge und sonstige Vermischungen
+Spülvorgänge und sonstige Vermischungen, Steueranmeldung
+
+§ 49a
+
+Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
+
+§ 49b
+
+Nachweise für die Vorversteuerung
 
  
 
@@ -517,7 +543,7 @@ Erteilung der Erlaubnis
 
 § 54
 
-Erlöschen der Erlaubnis
+Überprüfung und Erlöschen der Erlaubnis
 
 § 55
 
@@ -597,7 +623,7 @@ Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer
 
 § 66
 
-Erteilung und Erlöschen der Erlaubnis
+Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 § 67
 
@@ -645,7 +671,7 @@ Antrag auf Erlaubnis als Kohleverwender
 
 § 73
 
-Erteilung und Erlöschen der Erlaubnis
+Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 § 74
 
@@ -729,7 +755,7 @@ Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler
 
 § 84
 
-Erteilung und Erlöschen der Erlaubnis
+Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 § 84a
 
@@ -1105,7 +1131,7 @@ Anlagen, in denen die Kennzeichnungslösung durch eine von einer Messeinrichtung
 
 4. wesentliche Bauteile von Kennzeichnungseinrichtungen:
 
-Regel- und Messeinrichtungen, Mengen- und Messwerterfassungssysteme, Sicherungseinrichtungen, Impfstellen und Behälter für Kennzeichnungslösung;
+Regel- und Messeinrichtungen, Mengen- und Messwerterfassungssysteme und Sicherungseinrichtungen;
 
 5. Kennzeichnungsbetriebe:
 
@@ -1161,7 +1187,7 @@ Die Begriffsbestimmung nach Satz 1 Nummer 1 gilt für § 21 Absatz 1 Satz 1 und 
 
 # § 1a – Zuständiges Hauptzollamt
 
-Soweit in dieser Verordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
+Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
 
 # § 1b – Ergänzende Begriffsbestimmungen zum Gesetz
 
@@ -1193,9 +1219,9 @@ b) rechnerisch auf der Grundlage von Analysen repräsentativer, durch mengenprop
 
 (3) Im Sinn des § 1a Satz 1 Nummer 14 des Gesetzes gelten nur solche gasförmigen Energieerzeugnisse als beim Kohleabbau aufgefangen, die aus aktiven oder stillgelegten Kohlebergwerken stammen.
 
-(4) Als andere vergleichbare Abfälle im Sinn des § 2 Absatz 4 Satz 2 des Gesetzes gelten Energieerzeugnisse, die gebraucht oder verunreinigt sind und somit nicht mehr ohne weitere Aufbereitung zu ihrem ursprünglichen Verwendungszweck eingesetzt werden können. Andere vergleichbare Abfälle nach § 2 Absatz 4 Satz 2 des Gesetzes sind auch Rückstände aus der Alkoholgewinnung und Alkoholrektifikation, die zu den in § 2 Absatz 3 des Gesetzes genannten Zwecken verwendet oder abgegeben werden.
+(4) Als andere vergleichbare Abfälle im Sinn des § 2 Absatz 4 Satz 5 des Gesetzes gelten Energieerzeugnisse, die gebraucht oder verunreinigt sind und somit nicht mehr ohne weitere Aufbereitung zu ihrem ursprünglichen Verwendungszweck eingesetzt werden können. Andere vergleichbare Abfälle nach § 2 Absatz 4 Satz 5 des Gesetzes sind auch Rückstände aus der Alkoholgewinnung und Alkoholrektifikation, die zu den in § 2 Absatz 3 des Gesetzes genannten Zwecken verwendet oder abgegeben werden.
 
-(5) Als gekoppelte Erzeugung von Kraft und Wärme (KWK) im Sinn der §§ 3 und 53 bis 53b des Gesetzes gilt die gleichzeitige Umwandlung von eingesetzter Energie in nutzbare mechanische oder elektrische Energie und nutzbare Wärme innerhalb eines thermodynamischen Prozesses.
+(5) Als gekoppelte Erzeugung von Kraft und Wärme (KWK) im Sinn der §§ 3 und 53 bis 53a des Gesetzes gilt die gleichzeitige Umwandlung von eingesetzter Energie in nutzbare mechanische oder elektrische Energie und nutzbare Wärme innerhalb eines thermodynamischen Prozesses.
 
 (6) Als akkreditierte Konformitätsbewertungsstelle im Sinn des § 55 Absatz 8 Nummer 2 des Gesetzes gelten Stellen, die Konformitätsbewertungen einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen durchführen und über eine Akkreditierung einer nationalen Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung verfügen.
 
@@ -1229,7 +1255,7 @@ Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei einem Schwe
 
 2. eine schematische Darstellung der Kennzeichnungseinrichtung oder der wesentlichen Bauteile.
 
-(3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie für die Zulassung erforderlich erscheinen.
+(3) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen für die Zulassung erforderlich erscheinen.
 
 # § 4 – Zulassung von Kennzeichnungseinrichtungen
 
@@ -1277,7 +1303,7 @@ Die Zulassung kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung
 
 7. gegebenenfalls eine Erklärung über die Bestellung eines Beauftragten nach § 214 der Abgabenordnung oder eines Betriebsleiters nach § 62 Abs. 1 des Gesetzes, in der dieser sein Einverständnis erklärt hat.
 
-(3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie für die Erteilung der Bewilligung erforderlich erscheinen. Das Hauptzollamt kann auf einzelne Anforderungen verzichten, wenn sie zur Darstellung des Ablaufs der Kennzeichnung nicht erforderlich sind oder wenn im Fall des Absatzes 2 Nr. 5 ein Gesamtplan schon vorliegt.
+(3) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen für die Erteilung der Bewilligung erforderlich erscheinen. Das Hauptzollamt kann auf einzelne Anforderungen verzichten, wenn sie zur Darstellung des Ablaufs der Kennzeichnung nicht erforderlich sind oder wenn im Fall des Absatzes 2 Nr. 5 ein Gesamtplan schon vorliegt.
 
 # § 6 – Bewilligung des Kennzeichnungsbetriebs
 
@@ -1301,7 +1327,7 @@ Die Bewilligung ist zu widerrufen, wenn eine der in Satz 1 Nr. 1 bis 5 genannten
 
 (1) Der Inhaber des Kennzeichnungsbetriebs hat eine ordnungsgemäße Kennzeichnung im Sinne von § 2 Abs. 1 vorzunehmen und zu überwachen. Die in § 2 Abs. 1 genannten Mengen an Kennzeichnungsstoffen dürfen dabei höchstens um 20 Prozent überschritten werden. Er hat dem Hauptzollamt unverzüglich anzuzeigen, wenn der zulässige Höchstgehalt überschritten wird. Das Hauptzollamt kann Ausnahmen von Satz 1 und 2 zulassen, wenn eine Gefährdung der Steuerbelange nicht zu befürchten ist oder wenn das leichte Heizöl unmittelbar an Verwender geliefert wird.
 
-(2) Der Inhaber des Kennzeichnungsbetriebs hat auf Verlangen des Hauptzollamts innerhalb von vorgegebenen Fristen Proben des leichten Heizöls zu entnehmen und sie auf die ordnungsgemäße Kennzeichnung zu untersuchen. Störungen in der Kennzeichnungsanlage, die zu einer fehlerhaften Kennzeichnung geführt haben, und Unterschreitungen des Mindestgehalts an Kennzeichnungsstoffen in nicht ordnungsgemäß gekennzeichnetem Gasöl hat er dem Hauptzollamt unverzüglich anzuzeigen. Zur Fortführung des Betriebs kann das Hauptzollamt in solchen Fällen zusätzliche Überwachungsmaßnahmen anordnen. Der Inhaber des Kennzeichnungsbetriebs darf amtliche Verschlüsse nur mit Zustimmung des Hauptzollamts entfernen. Das Hauptzollamt kann zulassen, dass Gasöl mit zu geringem Gehalt an Kennzeichnungsstoffen nachgekennzeichnet oder leichtem Heizöl beigemischt wird. Es kann auf eine Nachkennzeichnung verzichten und zulassen, dass das Gasöl unter Versteuerung nach dem Steuersatz des § 2 Abs. 3 Satz 1 Nr. 1 des Gesetzes zu den in § 2 Abs. 3 Satz 1, § 25 Abs. 1, § 26 oder § 27 Abs. 1 des Gesetzes genannten Zwecken abgegeben wird, wenn eine Nachkennzeichnung aus wirtschaftlichen Gründen nicht zumutbar ist und ungerechtfertigte Steuervorteile auszuschließen sind. Die Sätze 5 und 6 gelten sinngemäß auch für Fälle, in denen Gasöl vor Feststellung seiner fehlerhaften Kennzeichnung zu den in § 2 Abs. 3 Satz 1, § 25 Abs. 1, § 26 oder § 27 Abs. 1 des Gesetzes genannten Zwecken abgegeben worden ist.
+(2) Der Inhaber des Kennzeichnungsbetriebs hat auf Verlangen des Hauptzollamts innerhalb von vorgegebenen Fristen Proben des leichten Heizöls zu entnehmen und sie auf die ordnungsgemäße Kennzeichnung zu untersuchen. Störungen in der Kennzeichnungsanlage, die zu einer fehlerhaften Kennzeichnung geführt haben, und Unterschreitungen des Mindestgehalts an Kennzeichnungsstoffen in nicht ordnungsgemäß gekennzeichnetem Gasöl hat er dem Hauptzollamt unverzüglich anzuzeigen. Das Hauptzollamt kann auf eine Anzeige der Unterschreitung des Mindestgehalts an Kennzeichnungsstoffen verzichten, wenn eine Gefährdung der Steuerbelange nicht zu befürchten ist. Zur Fortführung des Betriebs kann das Hauptzollamt in den Fällen der Sätze 2 und 3 zusätzliche Überwachungsmaßnahmen anordnen. Der Inhaber des Kennzeichnungsbetriebs darf amtliche Verschlüsse nur mit Zustimmung des Hauptzollamts entfernen. Das Hauptzollamt kann zulassen, dass Gasöl mit zu geringem Gehalt an Kennzeichnungsstoffen nachgekennzeichnet oder leichtem Heizöl beigemischt wird. Es kann auf eine Nachkennzeichnung verzichten und zulassen, dass das Gasöl unter Versteuerung nach dem Steuersatz des § 2 Abs. 3 Satz 1 Nr. 1 des Gesetzes zu den in § 2 Abs. 3 Satz 1, § 25 Abs. 1, § 26 oder § 27 Abs. 1 des Gesetzes genannten Zwecken abgegeben wird, wenn eine Nachkennzeichnung aus wirtschaftlichen Gründen nicht zumutbar ist und ungerechtfertigte Steuervorteile auszuschließen sind. Die Sätze 6 und 7 gelten sinngemäß auch für Fälle, in denen Gasöl vor Feststellung seiner fehlerhaften Kennzeichnung zu den in § 2 Abs. 3 Satz 1, § 25 Abs. 1, § 26 oder § 27 Abs. 1 des Gesetzes genannten Zwecken abgegeben worden ist.
 
 (3) Der Inhaber des Kennzeichnungsbetriebs hat
 
@@ -1318,6 +1344,58 @@ zu erfassen.
 (1) Für andere Energieerzeugnisse als Gasöle, die nach § 2 Abs. 4 des Gesetzes einer ordnungsgemäßen Kennzeichnung bedürfen, gelten die §§ 2 bis 7 sinngemäß. Werden Energieerzeugnisse trotz des Verzichts auf eine Kennzeichnung (§ 2 Absatz 4 Satz 4 des Gesetzes) gekennzeichnet, sind sie ordnungsgemäß zu kennzeichnen; die §§ 2 bis 7 gelten sinngemäß.
 
 (2) Auf Antrag kann das Hauptzollamt zulassen, dass Heizöladditive der Position 3811 der Kombinierten Nomenklatur abweichend von § 2 Abs. 3 Satz 1 und Abs. 4 des Gesetzes nicht gekennzeichnet werden, wenn nach den Umständen eine Verwendung der Additive als Kraftstoff oder zur Herstellung oder Verbesserung von Kraftstoff nicht anzunehmen ist. Die Zulassung kann mit Nebenbestimmungen (§ 120 der Abgabenordnung) versehen werden.
+
+# § 8a – Überprüfung und Erlöschen der Zulassung und der Bewilligung
+
+(1) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Zulassung nach den §§ 4 und 8 und aus der Bewilligung nach § 6 eingehalten werden. Zudem überprüft es regelmäßig, ob der Inhaber der Zulassung oder der Bewilligung die Bedingungen und Voraussetzungen für die Zulassung oder Bewilligung weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
+
+(2) Die Zulassungen nach § 4 Absatz 1 und 4, die Bewilligung nach § 6 und die Zulassung nach § 8 Absatz 2 erlöschen durch
+
+1. Widerruf,
+
+2. Fristablauf,
+
+3. Verzicht,
+
+4. die Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse,
+
+5. die Übergabe des Unternehmens an Dritte nach Ablauf von drei Monaten nach der Übergabe,
+
+6. den Tod des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem Ableben,
+
+7. die Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Zulassung oder die Bewilligung erteilt worden ist,
+
+8. die Eröffnung des Insolvenzverfahrens über das Vermögen des Zulassungs- oder Bewilligungsinhabers nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
+
+9. die Änderung der Firma oder des Inhabers bei einer Personengesellschaft oder Personenvereinigung ohne Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
+
+soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
+
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Zulassung oder Bewilligung schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, so gilt die Zulassung oder Bewilligung für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
+
+(4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Zulassung oder Bewilligung
+
+1. die Erben,
+
+2. die Inhaber des neuen Unternehmens oder
+
+3. die Inhaber des Unternehmens, bei dem die Änderungen eingetreten sind,
+
+eine neue Zulassung oder Bewilligung, gilt die Zulassung oder Bewilligung des Rechtsvorgängers für die Antragsteller bis zur Bestandskraft der Entscheidung über den Antrag fort. Absatz 2 Nummer 1 bleibt hiervon unberührt. Wird die neue Zulassung oder Bewilligung beantragt, kann, soweit sich keine Änderungen ergeben haben, auf die Angaben und Unterlagen Bezug genommen werden, die dem zuständigen Hauptzollamt bereits auf Grund der bisherigen Zulassung oder Bewilligung vorliegen. Mit Zustimmung des zuständigen Hauptzollamtes kann bei der Antragstellung auf die Verwendung des amtlich vorgeschriebenen Vordruckes verzichtet werden.
+
+(5) Die fortgeltende Zulassung oder Bewilligung erlischt
+
+1. in den Fällen des Absatzes 3, wenn auf eine Fortführung verzichtet wird,
+
+2. in den Fällen des Absatzes 4, wenn keine neue Zulassung oder Bewilligung erteilt wird oder als erteilt gilt.
+
+(6) In den Fällen des Absatzes 2 Nummer 4 bis 8 haben dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen
+
+1. der neue Inhaber die Übergabe des Unternehmens,
+
+2. die Erben den Tod des Erlaubnisinhabers,
+
+3. die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des Insolvenzverfahrens oder deren Abweisung.
 
 # § 9 – Anlagenbegriff
 
@@ -1461,35 +1539,63 @@ die Betriebserklärung ist durch eine schematische Darstellung zu ergänzen, sow
 
 (4) Der Inhaber des Herstellungsbetriebs darf Energieerzeugnisse nur in den angemeldeten Betriebsanlagen herstellen, nur in den zugelassenen Lagerstätten lagern und nur an den zugelassenen Zapfstellen entnehmen.
 
-# § 14 – Erteilung und Erlöschen der Herstellererlaubnis
+# § 14 – Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des Antrags erteilen, wenn Sicherheit in Höhe der Steuer geleistet ist, die voraussichtlich entstehen wird. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden. In den Fällen des § 12 Absatz 3 wird die Erlaubnis erweitert.
 
-(1a) Mit der Erlaubnis werden nach einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für den Inhaber des Herstellungsbetriebs und für jeden Herstellungsbetrieb Verbrauchsteuernummern vergeben. Wurde dem Inhaber des Herstellungsbetriebs bereits eine Verbrauchsteuernummer als Inhaber eines Lagers für Energieerzeugnisse erteilt (§ 18 Absatz 1a), gilt diese Verbrauchsteuernummer auch für ihn als Inhaber des Herstellungsbetriebs.
+(1a) Mit der Erlaubnis werden für den Inhaber des Herstellungsbetriebs und für jeden Herstellungsbetrieb Verbrauchsteuernummern vergeben. Wurde dem Inhaber des Herstellungsbetriebs bereits eine Verbrauchsteuernummer als Inhaber eines Lagers für Energieerzeugnisse erteilt (§ 18 Absatz 1a), gilt diese Verbrauchsteuernummer auch für ihn als Inhaber des Herstellungsbetriebs.
 
-(2) Die Erlaubnis zur Herstellung erlischt
+(1b) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Erlaubnis eingehalten werden. Zudem überprüft es regelmäßig, ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
-1. durch Widerruf,
+(2) Die Erlaubnis zur Herstellung erlischt durch
 
-2. durch Verzicht,
+1. Widerruf,
 
-3. durch Fristablauf,
+2. Fristablauf,
 
-4. durch Übergabe des Herstellungsbetriebs an Dritte,
+3. Verzicht,
 
-5. durch Tod des Inhabers der Erlaubnis,
+4. die Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse,
 
-6. durch Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+5. die Übergabe des Unternehmens an Dritte nach Ablauf von drei Monaten nach der Übergabe,
 
-7. durch Eröffnung des Insolvenzverfahrens über das Vermögen des Inhabers der Erlaubnis oder durch Abweisung der Eröffnung mangels Masse
+6. den Tod des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem Ableben,
 
-im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts anderes bestimmen.
+7. die Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
 
-(3) Das Hauptzollamt kann beim Erlöschen der Erlaubnis eine angemessene Frist für die Räumung des Herstellungsbetriebs gewähren, wenn keine Anzeichen für eine Gefährdung der Steuer erkennbar sind.
+8. die Eröffnung des Insolvenzverfahrens über das Vermögen des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
-(4) Beantragen in den Fällen des Absatzes 2 Nr. 5 bis 7 die Erben, die Liquidatoren oder der Insolvenzverwalter innerhalb eines Monats nach dem maßgebenden Ereignis die Fortführung des Herstellungsbetriebs bis zur Erteilung der Erlaubnis für Erben oder einen Erwerber oder bis zur Abwicklung des Herstellungsbetriebs, gilt die Erlaubnis für die Antragsteller fort und erlischt nicht vor Ablauf einer angemessenen Frist, die das Hauptzollamt festsetzt.
+9. die Änderung der Firma oder des Inhabers bei einer Personengesellschaft oder Personenvereinigung ohne Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
-(5) Energieerzeugnisse, die sich im Zeitpunkt des Erlöschens der Erlaubnis im Betrieb befinden, gelten als im Zeitpunkt des Erlöschens in den steuerrechtlich freien Verkehr entnommen (§ 8 Abs. 1 Satz 1 des Gesetzes).
+soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
+
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlassverwalter, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
+
+(4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Erlaubnis
+
+1. die Erben,
+
+2. die Inhaber des neuen Unternehmens oder
+
+3. die Inhaber des Unternehmens, bei dem die Änderungen eingetreten sind,
+
+eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragsteller bis zur Bestandskraft der Entscheidung über den Antrag fort. Absatz 2 Nummer 1 bleibt hiervon unberührt. Wird die neue Erlaubnis beantragt, kann, soweit sich keine Änderungen ergeben haben, auf die Angaben und Unterlagen Bezug genommen werden, die dem zuständigen Hauptzollamt auf Grund der bisherigen Erlaubnis bereits vorliegen. Mit Zustimmung des zuständigen Hauptzollamtes kann bei der Antragstellung auf die Verwendung des amtlich vorgeschriebenen Vordruckes verzichtet werden.
+
+(5) Die fortgeltende Erlaubnis erlischt
+
+1. in den Fällen des Absatzes 3, wenn auf eine Fortführung verzichtet wird,
+
+2. in den Fällen des Absatzes 4, wenn keine neue Erlaubnis erteilt wird oder als erteilt gilt.
+
+(6) In den Fällen des Absatzes 2 Nummer 4 bis 8 haben dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen
+
+1. der neue Inhaber die Übergabe des Unternehmens,
+
+2. die Erben den Tod des Erlaubnisinhabers,
+
+3. die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des Insolvenzverfahrens oder deren Abweisung.
+
+(7) Das Hauptzollamt kann beim Erlöschen der Erlaubnis eine angemessene Frist für die Räumung des Herstellungsbetriebs gewähren, wenn keine Anzeichen für eine Gefährdung der Steuer erkennbar sind. Energieerzeugnisse, die sich zum Zeitpunkt des Erlöschens der Erlaubnis im Betrieb befinden, gelten als zum Zeitpunkt des Erlöschens in den steuerrechtlich freien Verkehr entnommen (§ 8 Absatz 1 Satz 1 des Gesetzes).
 
 # § 15 – Pflichten des Herstellers, Steueraufsicht
 
@@ -1499,7 +1605,7 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 (3) Der Inhaber des Herstellungsbetriebs hat dem Hauptzollamt auf Verlangen Zusammenstellungen über die Abgabe von steuerfreien Energieerzeugnissen vorzulegen. Er hat dem zuständigen Hauptzollamt bis zum 15. Februar jeden Jahres andere als die in § 28 des Gesetzes genannten Energieerzeugnisse anzumelden, die er im abgelaufenen Kalenderjahr zu den in der Anlage 1 aufgeführten steuerfreien Zwecken abgegeben hat.
 
-(4) Der Inhaber des Herstellungsbetriebs hat einmal im Kalenderjahr den Bestand an Energieerzeugnissen und anderen Stoffen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden. Er hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen.
+(4) Der Inhaber des Herstellungsbetriebs hat einmal im Kalenderjahr den Bestand an Energieerzeugnissen und anderen Stoffen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Er hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen.
 
 (5) Auf Anordnung des Hauptzollamts sind im Herstellungsbetrieb die Bestände an Energieerzeugnissen und anderen Stoffen amtlich festzustellen. Dazu hat der Inhaber des Herstellungsbetriebs das Herstellungsbuch oder die an seiner Stelle zugelassenen Aufzeichnungen aufzurechnen und auf Verlangen des Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck anzumelden. Der Inhaber des Herstellungsbetriebs hat auf Verlangen des Hauptzollamts auch andere Energieerzeugnisse, mit denen er handelt, die er lagert oder verwendet, in die Bestandsaufnahme oder Anmeldung einzubeziehen.
 
@@ -1511,7 +1617,7 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 (9) Beabsichtigt der Inhaber des Herstellungsbetriebs, die angemeldeten Räume, Anlagen, Lagerstätten oder Zapfstellen oder die in der Betriebserklärung dargestellten Verhältnisse zu ändern, hat er dies dem Hauptzollamt mindestens eine Woche vorher schriftlich anzuzeigen. Er darf die Änderung erst durchführen, wenn das Hauptzollamt zugestimmt hat. Das Hauptzollamt kann auf Antrag auf die Anzeige verzichten, wenn die Änderung auf andere Weise jederzeit erkennbar ist und der Inhaber des Herstellungsbetriebs sich verpflichtet, die Änderung unverzüglich rückgängig zu machen, wenn die nachträgliche Zustimmung des Hauptzollamts nicht erteilt wird. Das Hauptzollamt kann den Verzicht außerdem davon abhängig machen, dass über die An- und Abmeldung von Lagerstätten besondere Aufzeichnungen oder Verzeichnisse geführt werden. Der Inhaber des Herstellungsbetriebs hat auf Verlangen des Hauptzollamts die Unterlagen nach § 12 Absatz 1 Satz 2 neu zu erstellen, wenn sie unübersichtlich geworden sind.
 
-(10) Die Erben haben den Tod des Inhabers des Herstellungsbetriebs, die Liquidatoren haben den Auflösungsbeschluss, der Inhaber des Herstellungsbetriebs und der Insolvenzverwalter haben die Eröffnung des Insolvenzverfahrens jeweils dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
+(10) (weggefallen)
 
 (11) Der Inhaber des Herstellungsbetriebs hat dem Hauptzollamt die Einstellung des Betriebs unverzüglich, die Wiederaufnahme des Betriebs mindestens eine Woche vorher schriftlich anzuzeigen.
 
@@ -1541,11 +1647,11 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 (5) Für Lagerstätten nach § 7 Absatz 6 des Gesetzes ist Absatz 1 nicht anzuwenden. Absatz 2 gilt mit der Maßgabe, dass lediglich die Zapfstellen zur Entnahme von Energieerzeugnissen mit geeichten Messeinrichtungen versehen sein müssen.
 
-# § 18 – Erteilung und Erlöschen der Lagererlaubnis
+# § 18 – Erteilung, Überprüfung und Erlöschen der Lagererlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des Antrags erteilen, wenn Sicherheit in Höhe der Steuer geleistet ist, die voraussichtlich entstehen wird. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden. In den Fällen des § 16 Absatz 3 wird die Erlaubnis erweitert.
 
-(1a) Mit der Erlaubnis werden nach einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für den Inhaber des Lagers und für jedes Lager Verbrauchsteuernummern vergeben. Abweichend von Satz 1 erhalten keine Verbrauchsteuernummer:
+(1a) Mit der Erlaubnis werden für den Inhaber des Lagers und für jedes Lager Verbrauchsteuernummern vergeben. Abweichend von Satz 1 erhalten keine Verbrauchsteuernummer:
 
 1. der Inhaber eines Lagers, dem bereits eine Verbrauchsteuernummer als Inhaber eines Herstellungsbetriebs erteilt wurde (§ 14 Absatz 1a),
 
@@ -1553,7 +1659,7 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 3. der Inhaber eines Lagers, dem lediglich eine Erlaubnis nach § 7 Absatz 6 des Gesetzes erteilt wurde.
 
-(2) Für das Erlöschen der Erlaubnis gilt § 14 Abs. 2 bis 5 sinngemäß.
+(2) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 7 entsprechend.
 
 # § 19 – Pflichten des Lagerinhabers, Steueraufsicht
 
@@ -1563,7 +1669,7 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 (3) Der Inhaber des Lagers hat dem Hauptzollamt auf Verlangen Zusammenstellungen über die Abgabe von steuerfreien Energieerzeugnissen vorzulegen. Er hat dem zuständigen Hauptzollamt bis zum 15. Februar jeden Jahres andere als die in § 28 des Gesetzes genannten Energieerzeugnisse anzumelden, die er im abgelaufenen Kalenderjahr zu den in der Anlage 1 aufgeführten steuerfreien Zwecken abgegeben hat.
 
-(4) Der Inhaber des Lagers hat einmal im Kalenderjahr den Bestand an Energieerzeugnissen und anderen Stoffen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden. Der Inhaber des Lagers hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen. Die Sätze 1 bis 4 sind nicht anzuwenden auf Lagerstätten nach § 7 Absatz 6 des Gesetzes.
+(4) Der Inhaber des Lagers hat einmal im Kalenderjahr den Bestand an Energieerzeugnissen und anderen Stoffen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Der Inhaber des Lagers hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen. Die Sätze 1 bis 4 sind nicht anzuwenden auf Lagerstätten nach § 7 Absatz 6 des Gesetzes.
 
 (5) Auf Anordnung des Hauptzollamts sind im Lager die Bestände an Energieerzeugnissen und anderen Stoffen amtlich festzustellen. Dazu hat der Inhaber des Lagers das Lagerbuch oder die an seiner Stelle zugelassenen Aufzeichnungen aufzurechnen und auf Verlangen des Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck anzumelden. Der Inhaber des Lagers hat auf Verlangen des Hauptzollamts auch andere Energieerzeugnisse, mit denen er handelt, die er lagert oder verwendet, in die Bestandsaufnahme oder Anmeldung einzubeziehen. Die Sätze 1 bis 3 sind nicht anzuwenden auf Lagerstätten nach § 7 Absatz 6 des Gesetzes.
 
@@ -1575,7 +1681,7 @@ im Zeitpunkt des maßgebenden Ereignisses, soweit die folgenden Absätze nichts 
 
 (9) Beabsichtigt der Inhaber des Lagers, die angemeldeten Lagerstätten oder Zapfstellen oder die in der Betriebserklärung dargestellten Verhältnisse zu ändern, hat er dies dem Hauptzollamt mindestens eine Woche vorher schriftlich anzuzeigen. Er darf die Änderung erst durchführen, wenn das Hauptzollamt zugestimmt hat. Das Hauptzollamt kann auf Antrag auf die Anzeige verzichten, wenn die Änderung auf andere Weise jederzeit erkennbar ist und der Inhaber des Lagers sich verpflichtet, die Änderungen unverzüglich rückgängig zu machen, wenn die nachträgliche Zustimmung des Hauptzollamts nicht erteilt wird. Das Hauptzollamt kann den Verzicht außerdem davon abhängig machen, dass über die An- und Abmeldung von Lagerstätten besondere Aufzeichnungen oder Verzeichnisse geführt werden. Der Inhaber des Lagers hat auf Verlangen des Hauptzollamts die Unterlagen nach § 16 Absatz 1 Satz 2 neu zu erstellen, wenn sie unübersichtlich geworden sind.
 
-(10) Die Erben haben den Tod des Inhabers des Lagers, die Liquidatoren haben den Auflösungsbeschluss, der Inhaber des Lagers und der Insolvenzverwalter haben die Eröffnung des Insolvenzverfahrens jeweils dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
+(10) (weggefallen)
 
 # § 20 – Lagerbehandlung
 
@@ -1597,13 +1703,13 @@ dürfen im Lager verflüssigt werden. Der Lagerinhaber hat über die aufgefangen
 
 (1) Die Erlaubnis nach § 7 Abs. 4 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck bei dem Hauptzollamt zu beantragen, das die Erlaubnis für das Lager erteilt hat. Mit dem Antrag ist die schriftliche Zustimmung des Inhabers des Lagers zur Einlagerung vorzulegen. Der Antragsteller hat sich schriftlich damit einverstanden zu erklären, dass dem Inhaber des Lagers im Rahmen der Durchführung von Besteuerung, Außenprüfung und Steueraufsicht Sachverhalte, die für die ordnungsgemäße Besteuerung des Einlagerers erforderlich sind, bekannt werden. Im Übrigen gilt § 16 Absatz 1 Satz 2 und Absatz 2 sinngemäß; auf bereits beim Hauptzollamt vorliegende Unterlagen kann Bezug genommen werden. Das Hauptzollamt erteilt die Erlaubnis schriftlich oder elektronisch.
 
-(2) Für das Erlöschen der Erlaubnis gilt § 14 Abs. 2 und 4 sinngemäß. Daneben erlischt die Erlaubnis auch durch Erlöschen der Erlaubnis für das Lager.
+(2) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 entsprechend. Daneben erlischt die Erlaubnis auch durch Erlöschen der Erlaubnis für das Lager.
 
-(3) Der Einlagerer hat über die von ihm oder auf seine Veranlassung eingelagerten und aus dem Lager entnommenen Energieerzeugnisse Aufzeichnungen zu führen. Der Einlagerer hat auf Verlangen des Hauptzollamts weitere Aufzeichnungen zu führen. Mit Zustimmung des Hauptzollamts können die Aufzeichnungen auch vom Inhaber des Lagers geführt werden. § 19 Abs. 1, 8 und 10 gilt sinngemäß.
+(3) Der Einlagerer hat über die von ihm oder auf seine Veranlassung eingelagerten und aus dem Lager entnommenen Energieerzeugnisse Aufzeichnungen zu führen. Der Einlagerer hat auf Verlangen des Hauptzollamts weitere Aufzeichnungen zu führen. Mit Zustimmung des Hauptzollamts können die Aufzeichnungen auch vom Inhaber des Lagers geführt werden. § 19 Absatz 1 und 8 gilt entsprechend.
 
 # § 22 – Lager ohne Lagerstätten
 
-Für den Antrag, die Erteilung und das Erlöschen der Erlaubnis für ein Lager ohne Lagerstätten (§ 7 Abs. 5 des Gesetzes) gelten die §§ 16 und 18, für die Pflichten des Inhabers des Lagers gilt § 19 sinngemäß.
+Für den Antrag, die Erteilung, die Überprüfung und das Erlöschen der Erlaubnis für ein Lager ohne Lagerstätten (§ 7 Abs. 5 des Gesetzes) gelten die §§ 16 und 18, für die Pflichten des Inhabers des Lagers gilt § 19 sinngemäß.
 
 # § 23 – Entfernung und Entnahme von Energieerzeugnissen
 
@@ -1613,11 +1719,15 @@ Für den Antrag, die Erteilung und das Erlöschen der Erlaubnis für ein Lager o
 
 (3) In den Fällen des Absatzes 2 hat der Steuerlagerinhaber Aufzeichnungen über die entnommenen und wieder aufgenommenen Energieerzeugnisse zu führen und die Wiederaufnahme in geeigneter Weise nachzuweisen. Das zuständige Hauptzollamt kann dazu Anordnungen treffen. Der Steuerlagerinhaber hat die Aufzeichnungen und Nachweise dem zuständigen Hauptzollamt auf Verlangen vorzulegen.
 
-(4) In den Fällen des § 8 Absatz 7 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 34 und 37 sinngemäß.
+(4) In den Fällen des § 8 Absatz 7 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 34 und 37 sinngemäß. Die Frist nach § 8 Absatz 7 Satz 3 des Gesetzes beginnt mit der schriftlichen oder elektronischen Bekanntgabe der Feststellung der Unwirksamkeit gegenüber dem Steuerschuldner.
 
 # § 23a – Steueranmeldung
 
 Die Steueranmeldungen nach § 8 Absatz 3 und 4, § 9 Absatz 2, § 9a Absatz 5, § 14 Absatz 7 Satz 1, § 15 Absatz 5, § 16 Absatz 3, § 22 Absatz 2 Satz 3 und § 23 Absatz 6 des Gesetzes sind nach amtlich vorgeschriebenem Vordruck abzugeben.
+
+# § 23b – Überprüfung von Steueranmeldungen
+
+Das Hauptzollamt überprüft die Steueranmeldungen. Art und Umfang der Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung vorgegeben werden. Das Hauptzollamt kann von dem Steuerschuldner weitere Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung entsprechend.
 
 # § 24 – Herstellung außerhalb eines Herstellungsbetriebs
 
@@ -1659,9 +1769,11 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 4. eine Darstellung der Mengenermittlung, wenn die Energieerzeugnisse nach § 2 des Gesetzes versteuert werden sollen.
 
-(2) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als registrierter Empfänger. Mit der Erlaubnis wird nach einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für jeden Empfangsort eine Verbrauchsteuernummer vergeben. Für die Sicherheitsleistung gilt § 29 sinngemäß. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als registrierter Empfänger. Mit der Erlaubnis wird für jeden Empfangsort eine Verbrauchsteuernummer vergeben. Für die Sicherheitsleistung gilt § 29 sinngemäß. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+
+(3a) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend.
 
 (4) Der registrierte Empfänger hat Aufzeichnungen über die in seinen Betrieb aufgenommenen Energieerzeugnisse sowie ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen. Registrierte Empfänger, die die empfangenen Energieerzeugnisse im Rahmen einer förmlichen Einzelerlaubnis verwenden oder verteilen, haben den Empfang nur im Verwendungsbuch oder in den an seiner Stelle zugelassenen Aufzeichnungen nachzuweisen.
 
@@ -1669,7 +1781,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 (6) Beabsichtigt der registrierte Empfänger, die nach Absatz 1 angegebenen Verhältnisse zu ändern, hat er dies dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
 
-(7) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 und 4 sinngemäß.
+(7) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 entsprechend.
 
 (8) Wer als registrierter Empfänger im Einzelfall Energieerzeugnisse unter Steueraussetzung empfangen will (§ 9a Absatz 1 Satz 1 Nummer 2 des Gesetzes), hat die Erlaubnis nach § 9a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erteilung der Erlaubnis gilt Absatz 3 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Der registrierte Empfänger im Einzelfall hat auf Verlangen des Hauptzollamts Aufzeichnungen über die in seinen Betrieb aufgenommenen Energieerzeugnisse zu führen.
 
@@ -1683,9 +1795,11 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 3. eine Darstellung der Aufzeichnungen über den Versand und den Verbleib der Energieerzeugnisse.
 
-(2) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben nach Absatz 1 verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als registrierter Versender. Mit der Erlaubnis wird nach einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für den registrierten Versender eine Verbrauchsteuernummer vergeben. Für die Sicherheitsleistung gilt § 29 sinngemäß. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis als registrierter Versender. Mit der Erlaubnis wird für den registrierten Versender eine Verbrauchsteuernummer vergeben. Für die Sicherheitsleistung gilt § 29 sinngemäß. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
+
+(3a) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend.
 
 (4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte der Einfuhr, an denen die Energieerzeugnisse nach den Artikeln 263 bis 267 der Zollkodex-Durchführungsverordnung oder aus einem Zolllager des Typs D im Sinn des Artikels 525 Absatz 2 Buchstabe a der Zollkodex-Durchführungsverordnung in den zollrechtlich freien Verkehr überführt werden. Hiervon ausgenommen sind die Fälle, in denen das Hauptzollamt die Überlassung der Energieerzeugnisse zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten erklärt.
 
@@ -1693,7 +1807,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 (6) Beabsichtigt der registrierte Versender, die nach Absatz 1 angegebenen Verhältnisse zu ändern, hat er dies dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
 
-(7) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 und 4 sinngemäß.
+(7) Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 6 sinngemäß.
 
 # § 28 – Begünstigte, Freistellungsbescheinigung
 
@@ -1863,7 +1977,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (6) Das Ausfallverfahren gilt bis zur Übermittlung des elektronischen Verwaltungsdokuments durch das Hauptzollamt. Nach der Übermittlung tritt das elektronische Verwaltungsdokument an die Stelle des Ausfalldokuments.
 
-(7) Der mit dem elektronischen Verwaltungsdokument übermittelte eindeutige Referenzcode ist vom Versender auf der ersten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen. Ist die Beförderung noch nicht beendet, ist der Referenzcode dem Beförderer der Energieerzeugnisse mitzuteilen und von diesem auf der dritten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen, wenn ihm kein Ausdruck des elektronischen Verwaltungsdokuments übermittelt wurde. Die mit dem Referenzcode versehene dritte Ausfertigung des Ausfalldokuments gilt als Papier im Sinn des § 28b Absatz 3 Satz 1. Für die Eingangs- und Ausfuhrmeldung ist § 34 anzuwenden.
+(7) Der mit dem elektronischen Verwaltungsdokument übermittelte eindeutige Referenzcode ist vom Versender unverzüglich auf der ersten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen. Ist die Beförderung noch nicht beendet, ist der Referenzcode dem Beförderer der Energieerzeugnisse unverzüglich mitzuteilen und von diesem auf der dritten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen, wenn ihm kein Ausdruck des elektronischen Verwaltungsdokuments übermittelt wurde. Die mit dem Referenzcode versehene dritte Ausfertigung des Ausfalldokuments gilt als Nachweis im Sinn des § 28b Absatz 3 Satz 1. Für die Eingangs- und Ausfuhrmeldung ist § 34 anzuwenden.
 
 # § 36a – Annullierung im Ausfallverfahren
 
@@ -1985,19 +2099,7 @@ Energieerzeugnisse aus Drittländern und Drittgebieten sind in den Fällen des �
 
 Wer in § 4 des Gesetzes genannte Energieerzeugnisse des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten verbringen will, hat das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware verbracht werden. Der Lieferer hat die erste Ausfertigung des Begleitdokuments zu seinen Aufzeichnungen zu nehmen. Der Beförderer hat die zweite und dritte Ausfertigung des Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
 
-# § 45 – Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
-
-(1) Werden die in § 4 des Gesetzes genannten Energieerzeugnisse des steuerrechtlich freien Verkehrs durch das Gebiet eines anderen Mitgliedstaats an einen Empfänger im Steuergebiet befördert, hat der Versender das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware befördert werden. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis  
-  
-
-<table width="100%" style="border: none;"><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">„Transit/Energieerzeugnisse<br />
-des steuerrechtlich freien Verkehrs“</td></tr></tbody></table>
-
-anzubringen sowie die Anschrift des für ihn zuständigen Hauptzollamts zu vermerken.
-
-(2) Der Versender hat das vereinfachte Begleitdokument in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem für ihn zuständigen Hauptzollamt zu übermitteln. Der Beförderer hat während der Beförderung der Energieerzeugnisse die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments mitzuführen. Er hat die Energieerzeugnisse auf dem kürzesten zumutbaren Weg durch das Gebiet des anderen Mitgliedstaats (Transitmitgliedstaat) zu befördern. Nach Beendigung der Beförderung hat der Empfänger die Übernahme der Energieerzeugnisse auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und sie dem für den Versender zuständigen Hauptzollamt zu übermitteln.
-
-(3) Tritt während der Beförderung auf dem Gebiet des Transitmitgliedstaats eine Unregelmäßigkeit ein, hat der Beförderer die zuständige Steuerbehörde des Mitgliedstaats und das für den Versender zuständige Hauptzollamt unverzüglich zu unterrichten. § 18a Absatz 2 des Gesetzes gilt entsprechend.
+# § 45 – (weggefallen)
 
 # § 46 – Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
 
@@ -2055,19 +2157,33 @@ Das Beimischen der Restmenge zu dem bereits abgegebenen Energieerzeugnis ist nic
 
 # § 49 – Spülvorgänge und sonstige Vermischungen
 
-(1) Auf Antrag kann das Hauptzollamt zulassen, dass in Betrieben bei der Reinigung von Transportmitteln, Lagerbehältern und Rohrleitungen leichtes Heizöl und nicht gekennzeichnete Energieerzeugnisse in der notwendigen Menge miteinander vermischt werden. Die Generalzolldirektion legt im Verwaltungswege fest, mit welchen Auflagen und Nebenbestimmungen im Sinne des § 120 der Abgabenordnung die Zulassung zu versehen ist. Der Inhaber des Betriebs hat über die vermischten Energieerzeugnisse Aufzeichnungen zu führen. § 7 Abs. 2 Satz 5 und 6 gilt sinngemäß.
+(1) Auf Antrag kann das Hauptzollamt zulassen, dass in Betrieben bei der Reinigung von Transportmitteln, Lagerbehältern und Rohrleitungen leichtes Heizöl und nicht gekennzeichnete Energieerzeugnisse in der notwendigen Menge miteinander vermischt werden. Die Generalzolldirektion legt im Verwaltungswege fest, mit welchen Auflagen und Nebenbestimmungen im Sinne des § 120 der Abgabenordnung die Zulassung zu versehen ist. Der Inhaber des Betriebs hat über die vermischten Energieerzeugnisse Aufzeichnungen zu führen. § 7 Absatz 2 Satz 6 und 7 und § 14 Absatz 1b gelten entsprechend.
 
-(2) Auf Antrag des Verwenders kann das Hauptzollamt zulassen, dass leichtes Heizöl mit nicht gekennzeichneten Energieerzeugnissen oder Wasser vermischt wird, wenn das Gemisch zu Zwecken nach § 2 Abs. 3 Satz 1 des Gesetzes verwendet wird, die Vermischung im Hauptbehälter der jeweiligen Anlage erfolgt und eine andere Verwendung oder die Abgabe des Gemisches nicht zu befürchten ist.
+(2) Auf Antrag des Verwenders kann das Hauptzollamt zulassen, dass leichtes Heizöl mit nicht gekennzeichneten Energieerzeugnissen oder Wasser vermischt wird, wenn das Gemisch zu Zwecken nach § 2 Abs. 3 Satz 1 des Gesetzes verwendet wird, die Vermischung im Hauptbehälter der jeweiligen Anlage erfolgt und eine andere Verwendung oder die Abgabe des Gemisches nicht zu befürchten ist. § 14 Absatz 1b gilt entsprechend.
 
 (3) Heizöladditive der Position 3811 der Kombinierten Nomenklatur, auf deren Kennzeichnung verzichtet worden ist (§ 8 Abs. 2), dürfen mit leichtem Heizöl gemischt werden.
 
-(4) Ist leichtes Heizöl versehentlich mit nicht gekennzeichneten Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur vermischt worden, gilt § 7 Abs. 2 Satz 5 bis 7 sinngemäß.
+(4) Ist leichtes Heizöl versehentlich mit nicht gekennzeichneten Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur vermischt worden, gilt § 7 Absatz 2 Satz 6 bis 8 sinngemäß.
 
 (5) Die Absätze 1 bis 4 gelten sinngemäß für gekennzeichnete Energieerzeugnisse nach § 2 Abs. 4 des Gesetzes.
 
-# § 49a – Abgabe von sonstigen Energieerzeugnissen
+# § 49a – Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
 
-Andere als in § 4 des Gesetzes genannte Energieerzeugnisse gelten als erstmals im Steuergebiet als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben, wenn der Abgebende einen nach außen hin objektiv erkennbaren Willen offenbart, ein Energieerzeugnis zu den genannten Zwecken abzugeben.
+(1) Andere als in § 4 des Gesetzes genannte Energieerzeugnisse gelten als erstmals im Steuergebiet als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben, wenn der Abgebende einen nach außen hin objektiv erkennbaren Willen offenbart, ein Energieerzeugnis zu den genannten Zwecken abzugeben.
+
+(2) Auf Antrag kann das Hauptzollamt in den Fällen, in denen gasförmige Kohlenwasserstoffe, die
+
+1. aus dem biologisch abbaubaren Anteil von Abfällen gewonnen werden, oder
+
+2. bei der Lagerung von Abfällen oder bei der Abwasserreinigung anfallen
+
+und nicht nach § 26 oder § 28 des Gesetzes von der Steuer befreit sind, entgegen § 23 Absatz 6 Satz 2 des Gesetzes zulassen, dass für die in einem Kalenderjahr entstandene Steuer eine Steuererklärung abzugeben ist, sofern die monatliche Steuer 200 Euro nicht übersteigt.
+
+(3) Der Steuerschuldner hat die Steuererklärung nach Absatz 2 bis zum 15. Januar des folgenden Jahres abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Kalenderjahr entstanden ist, ist am 10. Februar des auf die Entstehung folgenden Kalenderjahres fällig.
+
+# § 49b – Nachweise für die Vorversteuerung
+
+Der Steuerschuldner hat den Nachweis nach § 23 Absatz 1b des Gesetzes durch geeignete Unterlagen zu führen. Geeignete Unterlagen sind insbesondere Zahlungsbelege, Frachtbriefe, Ladescheine, Lieferscheine oder Löschberichte. Auf Verlangen des Hauptzollamts hat der Steuerschuldner weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens erforderlich erscheint.
 
 # § 50 – Anzeige
 
@@ -2145,35 +2261,63 @@ d) die Lufttüchtigkeitszeugnisse der Luftfahrzeuge,
 
 Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 52 Abs. 1 oder Abs. 4 (förmliche Einzelerlaubnis) und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
-# § 54 – Erlöschen der Erlaubnis
+# § 54 – Überprüfung und Erlöschen der Erlaubnis
 
-(1) Die förmliche Einzelerlaubnis erlischt
+(1) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Erlaubnis eingehalten werden. Zudem überprüft es regelmäßig, ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
-1. durch Widerruf,
+(2) Die förmliche Einzelerlaubnis erlischt durch
 
-2. durch Verzicht,
+1. Widerruf,
 
-3. durch Fristablauf,
+2. Fristablauf,
 
-4. durch Übergabe des Betriebs an Dritte,
+3. Verzicht,
 
-5. durch Tod des Erlaubnisinhabers,
+4. die Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse,
 
-6. durch Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
+5. die Übergabe des Unternehmens an Dritte nach Ablauf von drei Monaten nach der Übergabe,
 
-7. durch Eröffnung des Insolvenzverfahrens über das Vermögen des Erlaubnisinhabers oder durch Abweisung der Eröffnung mangels Masse
+6. den Tod des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem Ableben,
 
-im Zeitpunkt des maßgebenden Ereignisses, soweit die Absätze 2, 3 und 5 nichts anderes bestimmen.
+7. die Auflösung der juristischen Person oder Personenvereinigung ohne Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
 
-(2) Beantragen in den Fällen des Absatzes 1 Nr. 5 bis 7 die Erben, die Liquidatoren oder der Insolvenzverwalter innerhalb von drei Monaten nach dem maßgebenden Ereignis die Fortführung des Betriebs bis zu seinem endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Betriebs, gilt die Erlaubnis für die Rechtsnachfolger oder die anderen Antragsteller entgegen Absatz 1 fort. Sie erlischt nicht vor Ablauf einer angemessenen Frist, die das Hauptzollamt festsetzt. Absatz 1 Nr. 1 bleibt unberührt.
+8. die Eröffnung des Insolvenzverfahrens über das Vermögen des Erlaubnisinhabers nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
-(3) Beantragen in den Fällen des Absatzes 1 Nr. 4 und 5 der neue Inhaber oder die Erben innerhalb von drei Monaten nach dem maßgebenden Ereignis eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragsteller entgegen Absatz 1 fort. Sie erlischt nicht vor Eintritt der Rechtskraft der Entscheidung über den Antrag. Absatz 1 Nr. 1 bleibt unberührt.
+9. die Änderung der Firma oder des Inhabers bei einer Personengesellschaft oder Personenvereinigung ohne Rechtspersönlichkeit, die Verlegung der Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
 
-(4) Macht der Erlaubnisinhaber innerhalb eines Zeitraums von zwei Jahren keinen Gebrauch von der Erlaubnis, ist die Erlaubnis zu widerrufen.
+soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
-(5) Soll im Fall des Absatzes 1 Nr. 3 ein beim Ablauf der Frist vorhandener Bestand an Energieerzeugnissen noch aufgebraucht werden, kann dafür das Hauptzollamt die Gültigkeitsfrist der Erlaubnis auf Antrag angemessen verlängern.
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
 
-(6) In den Fällen des Absatzes 1 Nr. 2 und 4 bis 7 haben der Erlaubnisinhaber den Nichtgebrauch, der neue Inhaber die Übergabe des Betriebs, die Erben den Tod des Erlaubnisinhabers, die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des Insolvenzverfahrens oder die Abweisung der Eröffnung des Insolvenzverfahrens dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
+(4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Erlaubnis
+
+1. die Erben,
+
+2. die Inhaber des neuen Unternehmens oder
+
+3. die Inhaber des Unternehmens, bei dem die Änderungen eingetreten sind,
+
+eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragsteller bis zur Bestandskraft der Entscheidung über den Antrag fort. Absatz 2 Nummer 1 bleibt hiervon unberührt. Wird die neue Erlaubnis beantragt, kann, soweit sich keine Änderungen ergeben haben, auf die Angaben und Unterlagen Bezug genommen werden, die dem zuständigen Hauptzollamt bereits auf Grund der bisherigen Erlaubnis vorliegen. Mit Zustimmung des zuständigen Hauptzollamtes kann bei Antragstellung auf die Verwendung des amtlich vorgeschriebenen Vordruckes verzichtet werden.
+
+(5) Die fortgeltende Erlaubnis erlischt
+
+1. in den Fällen des Absatzes 3, wenn auf eine Fortführung verzichtet wird,
+
+2. in den Fällen des Absatzes 4, wenn keine neue Erlaubnis erteilt wird oder als erteilt gilt.
+
+(6) Macht der Erlaubnisinhaber innerhalb eines Zeitraums von zwei Jahren keinen Gebrauch von der Erlaubnis, ist die Erlaubnis zu widerrufen.
+
+(7) Soll in Fällen, in denen die Erlaubnis nach § 120 Absatz 2 Nummer 1 der Abgabenordnung befristet ist, ein beim Ablauf der Frist vorhandener Bestand an Energieerzeugnissen noch aufgebraucht werden, kann das Hauptzollamt die Gültigkeitsfrist der Erlaubnis auf Antrag angemessen verlängern.
+
+(8) In den Fällen des Absatzes 2 Nummer 3 bis 8 haben dem zuständigen Hauptzollamt unverzüglich schriftlich anzuzeigen
+
+1. der Erlaubnisinhaber den Nichtgebrauch,
+
+2. der neue Inhaber die Übergabe des Unternehmens,
+
+3. die Erben den Tod des Erlaubnisinhabers,
+
+4. die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des Insolvenzverfahrens oder deren Abweisung.
 
 # § 55 – Allgemeine Erlaubnis
 
@@ -2199,7 +2343,7 @@ Unter Verzicht auf eine förmliche Einzelerlaubnis werden nach Maßgabe der Anla
 
 hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
-(6) Der Erlaubnisinhaber hat einmal im Kalenderjahr den Bestand an steuerfreien Energieerzeugnissen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden. Der Erlaubnisinhaber hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Bestandsaufnahme, die Anmeldung und die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen.
+(6) Der Erlaubnisinhaber hat einmal im Kalenderjahr den Bestand an steuerfreien Energieerzeugnissen aufzunehmen und ihn gleichzeitig mit dem Sollbestand dem Hauptzollamt spätestens sechs Wochen nach der Bestandsaufnahme nach amtlich vorgeschriebenem Vordruck anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Der Erlaubnisinhaber hat den Zeitpunkt der Bestandsaufnahme dem Hauptzollamt drei Wochen vorher anzuzeigen. Das Hauptzollamt kann auf die Bestandsaufnahme, die Anmeldung und die Anzeige verzichten, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Die mit der Steueraufsicht betrauten Amtsträger können an der Bestandsaufnahme teilnehmen.
 
 (7) Auf Anordnung des Hauptzollamts sind die Bestände amtlich festzustellen. Dazu hat der Erlaubnisinhaber das Verwendungsbuch oder die an seiner Stelle zugelassenen Aufzeichnungen aufzurechnen und auf Verlangen des Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck anzumelden. Der Erlaubnisinhaber hat auf Verlangen des Hauptzollamts auch andere Energieerzeugnisse, mit denen er handelt, die er lagert oder verwendet, oder auch andere Stoffe in die Bestandsaufnahme oder Anmeldung einzubeziehen.
 
@@ -2235,7 +2379,7 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 (7) Der Erlaubnisinhaber hat steuerfreie Energieerzeugnisse, die er in Besitz genommen hat, unverzüglich in das Verwendungsbuch einzutragen oder in den an seiner Stelle zugelassenen Aufzeichnungen zu erfassen. Mit der Inbesitznahme gelten die Energieerzeugnisse als in den Betrieb aufgenommen.
 
-(8) Das Hauptzollamt kann auf Antrag zulassen, dass steuerfreie Energieerzeugnisse zusammen mit anderen gleichartigen Energieerzeugnissen gelagert werden, wenn dafür ein Bedürfnis besteht, Steuerbelange nicht gefährdet werden und Steuervorteile nicht entstehen. Das Gemisch wird in diesem Fall so behandelt, als ob die Energieerzeugnisse getrennt gehalten worden wären. Die entnommenen Energieerzeugnisse werden je nach Wahl des Erlaubnisinhabers als aus einem der Gemischanteile stammend behandelt.
+(8) Das Hauptzollamt kann auf Antrag zulassen, dass steuerfreie Energieerzeugnisse zusammen mit anderen gleichartigen Energieerzeugnissen gelagert werden, wenn dafür ein Bedürfnis besteht, Steuerbelange nicht gefährdet werden und Steuervorteile nicht entstehen. Das Gemisch wird in diesem Fall so behandelt, als ob die Energieerzeugnisse getrennt gehalten worden wären. Die entnommenen Energieerzeugnisse werden je nach Wahl des Erlaubnisinhabers als aus einem der Gemischanteile stammend behandelt. § 14 Absatz 1b gilt entsprechend.
 
 (9) Für die Verteilung von steuerfreien Energieerzeugnissen gelten die Absätze 1 bis 4 sinngemäß.
 
@@ -2417,11 +2561,11 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 (3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-# § 66 – Erteilung und Erlöschen der Erlaubnis
+# § 66 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 31 Abs. 4 des Gesetzes und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
-(2) Für das Erlöschen der Erlaubnis gilt § 14 Abs. 2 bis 5 sinngemäß.
+(2) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 7 entsprechend.
 
 # § 67 – Pflichten des Erlaubnisinhabers
 
@@ -2505,11 +2649,11 @@ Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden
 
 (3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-# § 73 – Erteilung und Erlöschen der Erlaubnis
+# § 73 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 37 Abs. 1 des Gesetzes (förmliche Einzelerlaubnis) und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
-(2) Für das Erlöschen der Erlaubnis gilt § 54 sinngemäß.
+(2) Für die Überprüfung und das Erlöschen der Erlaubnis gilt § 54 sinngemäß.
 
 (3) Unbeschadet Absatz 2 ist die Erlaubnis zur steuerfreien Verwendung von Kohle nach § 37 Abs. 2 Satz 1 Nr. 4 in Verbindung mit § 51 Abs. 1 Nr. 1 des Gesetzes zu widerrufen, wenn das Unternehmen auf Grund der nach § 75 Abs. 2a jährlich vorzulegenden Beschreibung nicht dem Produzierenden Gewerbe zugeordnet werden kann. Legt der Erlaubnisinhaber die Beschreibung nach Satz 1 nicht oder nicht fristgerecht vor, kann das Hauptzollamt die Erlaubnis unmittelbar widerrufen.
 
@@ -2621,17 +2765,17 @@ b) die nach § 95 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Täti
 
 2. § 53 des Gesetzes die nach § 99 Absatz 3 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind;
 
-3. § 53a des Gesetzes
+3. § 53a Absatz 1 oder Absatz 4 des Gesetzes
 
-a) die nach § 99a Absatz 3 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
+a) die nach § 99a Absatz 4 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
+
+b) im Fall des § 53a Absatz 1 in Verbindung mit Absatz 3 des Gesetzes darüber hinaus sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt sowie die nach § 99a Absatz 5 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten bereits vorgelegt worden ist;
+
+4. § 53a Absatz 6 des Gesetzes
+
+a) die nach § 99a Absatz 4 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
 
 b) die Voraussetzungen der §§ 99b und 99c erfüllt sind;
-
-4. § 53b des Gesetzes
-
-a) die nach § 99d Absatz 4 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
-
-b) im Fall des § 53b Absatz 1 in Verbindung mit Absatz 3 des Gesetzes darüber hinaus sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt sowie die nach § 99d Absatz 5 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten bereits vorgelegt worden ist;
 
 5. § 54 des Gesetzes
 
@@ -2685,11 +2829,11 @@ Erdgas aus Drittländern und Drittgebieten ist in den Fällen des § 41 Absatz 1
 
 (4) Wer als Erlaubnisinhaber verflüssigtes Erdgas steuerfrei aus dem Steuergebiet verbringen oder ausführen will, hat die Erlaubnis nach § 44 Absatz 1a des Gesetzes, soweit sie nicht allgemein erteilt ist (§ 84a), schriftlich bei dem für ihn zuständigen Hauptzollamt zu beantragen.
 
-# § 84 – Erteilung und Erlöschen der Erlaubnis
+# § 84 – Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt die Erlaubnis nach § 44 Absatz 1 und 1a des Gesetzes schriftlich oder elektronisch (förmliche Einzelerlaubnis) und stellt auf Antrag als Nachweis der Bezugsberechtigung einen Erlaubnisschein aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
-(2) Für das Erlöschen der Erlaubnis gilt § 54 sinngemäß.
+(2) Für die Überprüfung und das Erlöschen der Erlaubnis gilt § 54 sinngemäß.
 
 # § 84a – Allgemeine Erlaubnis
 
@@ -3207,7 +3351,7 @@ c) die Übertragung der Betriebsführung nach § 2 Absatz 2 Nummer 3 des Persone
 
 1. entweder für alle Fahrzeuge, für die eine Entlastung beantragt wird, gemeinsam (Berechnungsbogen A) oder für jede Fahrzeuggruppe (Berechnungsbogen B) oder für jedes Fahrzeug einzeln (Berechnungsbogen C)
 
-a) die sich aus dem buchmäßigen Nachweis nach Absatz 4 ergebenden im Entlastungszeitraum insgesamt gefahrenen Kilometer und die im Rahmen von begünstigten Beförderungen zurückgelegten Kilometer,
+a) die sich aus dem buchmäßigen Nachweis nach Absatz 4 Satz 1 ergebenden im Entlastungszeitraum insgesamt gefahrenen Kilometer und die im Rahmen von begünstigten Beförderungen zurückgelegten Kilometer,
 
 b) die Menge des insgesamt getankten Kraftstoffs in Litern, in Kilogramm oder in Kilowattstunden; Bruchteile eines Liters, eines Kilogramms oder einer Kilowattstunde sind auf den nächsten vollen Liter, das nächste volle Kilogramm oder die nächste volle Kilowattstunde aufzurunden,
 
@@ -3431,7 +3575,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (1) Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
-1. entgegen § 4 Abs. 3 Satz 1, auch in Verbindung mit § 4 Abs. 4, entgegen § 7 Abs. 1 Satz 3, Abs. 2 Satz 2 oder Abs. 4 Satz 1, jeweils auch in Verbindung mit § 8 Abs. 1, entgegen § 11 Absatz 4, § 15 Abs. 2 Satz 3, Abs. 4 Satz 2, Abs. 8, 9 Satz 1, Abs. 10 oder Abs. 11, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, entgegen § 19 Abs. 2 Satz 3, Abs. 4 Satz 2 oder Abs. 9 Satz 1, jeweils auch in Verbindung mit § 22, entgegen § 19 Abs. 8 oder Abs. 10, jeweils auch in Verbindung mit § 21 Abs. 3 Satz 3 oder § 22, entgegen § 26 Absatz 6, § 27 Absatz 6, § 36 Absatz 4 Satz 1, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, § 37a, § 42 Absatz 4 Satz 4, § 42a Satz 1, § 51 Abs. 4, § 54 Abs. 6, auch in Verbindung mit § 73 Abs. 2 oder § 84 Abs. 2, § 56 Absatz 6 Satz 2 oder Absatz 8, jeweils auch in Verbindung mit § 85 Absatz 7, entgegen § 56 Absatz 10, § 61 Abs. 1 Satz 2, § 64 Abs. 5, § 67 Abs. 4, 6 oder Abs. 8 Satz 1, § 75 Abs. 4, 6 oder Abs. 8 Satz 1, § 79 Abs. 3 oder § 85 Abs. 4 oder Abs. 6 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+1. entgegen § 4 Abs. 3 Satz 1, auch in Verbindung mit § 4 Abs. 4, entgegen § 7 Abs. 1 Satz 3, Abs. 2 Satz 2 oder Abs. 4 Satz 1, jeweils auch in Verbindung mit § 8 Abs. 1, entgegen § 11 Absatz 4, § 15 Abs. 2 Satz 3, Abs. 4 Satz 2, Abs. 8, 9 Satz 1, Abs. 10 oder Abs. 11, jeweils auch in Verbindung mit § 109 Abs. 5 Satz 2, entgegen § 19 Abs. 2 Satz 3, Abs. 4 Satz 2 oder Abs. 9 Satz 1, jeweils auch in Verbindung mit § 22, entgegen § 19 Abs. 8 oder Abs. 10, jeweils auch in Verbindung mit § 21 Abs. 3 Satz 3 oder § 22, entgegen § 26 Absatz 6, § 27 Absatz 6, § 36 Absatz 4 Satz 1, auch in Verbindung mit § 36b Absatz 4 oder § 36c Absatz 4, § 37a, § 42 Absatz 4 Satz 4, § 42a Satz 1, § 51 Abs. 4, § 54 Absatz 8, auch in Verbindung mit § 73 Abs. 2 oder § 84 Abs. 2, § 56 Absatz 6 Satz 2 oder Absatz 8, jeweils auch in Verbindung mit § 85 Absatz 7, entgegen § 56 Absatz 10, § 61 Abs. 1 Satz 2, § 64 Abs. 5, § 67 Abs. 4, 6 oder Abs. 8 Satz 1, § 75 Abs. 4, 6 oder Abs. 8 Satz 1, § 79 Abs. 3 oder § 85 Abs. 4 oder Abs. 6 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
 2. entgegen § 7 Abs. 3, auch in Verbindung mit § 8 Abs. 1, § 15 Abs. 2 Satz 3, auch in Verbindung mit § 109 Abs. 5 Satz 2, § 19 Abs. 2 Satz 3, auch in Verbindung mit § 22, § 23 Absatz 3 Satz 1, § 26 Absatz 4 Satz 1 oder Absatz 8 Satz 4, § 27 Absatz 5 Satz 1, § 40 Abs. 1 Satz 4, § 48 Abs. 2, § 51 Abs. 2 Satz 1 oder Satz 3, § 64 Abs. 2 Satz 1 oder Satz 3, § 67 Abs. 2 Satz 1 oder Satz 3, § 75 Abs. 2 Satz 1 oder Satz 3, § 79 Abs. 2 Satz 1, § 85 Abs. 2 Satz 1 oder Satz 3, § 100a Absatz 4 Satz 1, auch in Verbindung mit § 101 Absatz 4, oder § 106 Satz 1 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
 
