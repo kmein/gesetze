@@ -246,14 +246,6 @@ Für konsularische Amtshandlungen werden Kosten (Gebühren und Auslagen) nach be
 
 (3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines dienstlichen Auftrags besondere, den Umständen nach erforderliche Auslagen, so kann er deren Erstattung beanspruchen.
 
-# § 26 – Gebühren und Auslagen der Honorarkonsularbeamten
-
-(1) Die Honorarkonsularbeamten beziehen die für ihre Amtshandlungen zu erhebenden Gebühren für sich. Sie dürfen sie nur nach Maßgabe derjenigen Bestimmungen herabsetzen oder erlassen, die allgemein für die Gebühren von amtlichen Auslandsvertretungen gelten.
-
-(2) Reichen die Gebühren zur Bestreitung der Verwaltungskosten nicht aus, so kann den Honorarkonsularbeamten ein pauschaler Zuschuß gewährt werden.
-
-(3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines dienstlichen Auftrags besondere, den Umständen nach erforderliche Auslagen, so kann er deren Erstattung beanspruchen.
-
 # § 27 – Begriffsbestimmung
 
 Der Begriff "Deutscher" bestimmt sich nach Artikel 116 Abs. 1 des Grundgesetzes.

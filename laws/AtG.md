@@ -380,58 +380,6 @@ Die organisatorischen Vorkehrungen des anlageninternen Notfallschutzes müssen d
 
 Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität hat entsprechend dem fortschreitenden Stand von Wissenschaft und Technik dafür zu sorgen, dass die Sicherheitsvorkehrungen verwirklicht werden, die jeweils entwickelt, geeignet und angemessen sind, um zusätzlich zu den Anforderungen des § 7 Absatz 2 Nummer 3 einen nicht nur geringfügigen Beitrag zur weiteren Vorsorge gegen Risiken für die Allgemeinheit zu leisten.
 
-# § 7e – Ausgleich für Investitionen
-
-(1) Wer als Eigentümer einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität oder als Inhaber einer Genehmigung zum Betrieb einer solchen Anlage nachweist, in der Zeit vom 28. Oktober 2010 bis zum 16. März 2011 im Vertrauen auf die durch das Elfte Gesetz zur Änderung des Atomgesetzes vom 8. Dezember 2010 (BGBl. I S. 1814) geschaffene Rechtslage zum Zweck der Erzeugung der für das Kernkraftwerk in Anlage 3 Spalte 4 zusätzlich zugewiesenen Elektrizitätsmengen im erforderlichen Umfang Investitionen in das Kernkraftwerk getätigt zu haben, hat Anspruch auf einen angemessenen Ausgleich in Geld, soweit die Investitionen allein auf Grund des Entzugs der zusätzlichen Elektrizitätsmengen durch das Dreizehnte Gesetz zur Änderung des Atomgesetzes vom 31. Juli 2011 (BGBl. I S. 1704) wertlos geworden sind.
-
-(2) Vermögensvorteile, die dem Ausgleichsberechtigten infolge des Entzugs der zusätzlichen Elektrizitätsmengen mit überwiegender Wahrscheinlichkeit erwachsen sind, sind auf einen Ausgleich anzurechnen. Solchen Vermögensvorteilen stehen Vermögensvorteile gleich, die der Ausgleichsberechtigte bei gehöriger Sorgfalt in zumutbarer Weise hätte ziehen können. § 254 des Bürgerlichen Gesetzbuchs gilt sinngemäß.
-
-(3) Auf den Ausgleich wird ein anderweitiger Ausgleich für wertlos gewordene Investitionen im Sinne von Absatz 1 angerechnet, der
-
-1. an den Ausgleichsberechtigten oder an ein Unternehmen, dem unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlich selbständigen Unternehmen zusteht, das Ausgleichsberechtigter ist, geleistet worden ist,
-
-2. an ein Unternehmen, dem zu einem früheren Zeitpunkt unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlich selbständigen Unternehmen zustand, das Ausgleichsberechtigter ist, oder an dessen Rechtsnachfolger geleistet worden ist,
-
-3. an ein Unternehmen, dem zu einem früheren Zeitpunkt unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlich selbständigen Unternehmen zustand, das Eigentümer oder Inhaber der Genehmigung zum Betrieb des Kernkraftwerks war, oder an dessen Rechtsnachfolger geleistet worden ist,
-
-4. an ein rechtlich selbständiges Unternehmen, das Eigentümer des Kernkraftwerks oder Inhaber der Genehmigung zum Betrieb des Kernkraftwerks war, oder an dessen Rechtsnachfolger geleistet worden ist.
-
-§ 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
-
-# § 7f – Ausgleich für Elektrizitätsmengen
-
-(1) Die Genehmigungsinhaber der Kernkraftwerke Brunsbüttel, Krümmel und Mülheim-Kärlich haben einen Anspruch auf angemessenen Ausgleich in Geld, soweit die diesen Kernkraftwerken nach Anlage 3 Spalte 2 ursprünglich zugewiesenen Elektrizitätsmengen bis zum Ablauf des 31. Dezember 2022 nicht erzeugt und nicht auf ein anderes Kernkraftwerk übertragen werden. Der Ausgleich ist begrenzt für das Kernkraftwerk Brunsbüttel auf zwei Drittel und für das Kernkraftwerk Krümmel auf die Hälfte der Elektrizitätsmengen nach Satz 1. Der Ausgleich setzt voraus, dass der Ausgleichsberechtigte nachweist, dass er sich unverzüglich nach dem 4. Juli 2018 bis zum Ablauf des 31. Dezember 2022 ernsthaft um eine Übertragung der ausgleichsfähigen Elektrizitätsmengen auf Grund von § 7 Absatz 1b zu angemessenen Bedingungen bemüht hat.
-
-(2) Die Ausgleichshöhe bestimmt sich nach dem durchschnittlichen marktüblichen Strompreis zwischen dem 6. August 2011 und dem 31. Dezember 2022, von dem die in diesem Zeitraum erwartbaren Kosten für die Stromerzeugung auch unter Berücksichtigung von Gemeinkosten abzuziehen sind. Entfallene Betriebsrisiken, Investitionsrisiken und Vermarktungsrisiken sind bei der Bestimmung der Ausgleichshöhe angemessen zu berücksichtigen. Hinsichtlich der erwartbaren Kosten dürfen einschlägige öffentlich verfügbare Kostenschätzungen als Bewertungsgrundlage verwendet werden.
-
-(3) Auf den Ausgleich wird ein anderweitiger Ausgleich für Elektrizitätsmengen nach Anlage 3 Spalte 2 angerechnet, der
-
-1. an den Ausgleichsberechtigten oder an ein Unternehmen, dem unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlich selbständigen Unternehmen zusteht, das Ausgleichsberechtigter ist, geleistet worden ist,
-
-2. an ein Unternehmen, dem zu einem früheren Zeitpunkt unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlichen selbständigen Unternehmen zustand, das Ausgleichsberechtigter ist, oder an dessen Rechtsnachfolger geleistet worden ist,
-
-3. an ein Unternehmen, dem zu einem früheren Zeitpunkt unmittelbar oder mittelbar mindestens die Hälfte der Anteile an dem rechtlich selbständigen Unternehmen zustand, das Genehmigungsinhaber des Kernkraftwerks Brunsbüttel, Krümmel oder Mülheim-Kärlich war, oder an dessen Rechtsnachfolger geleistet worden ist,
-
-4. an ein rechtlich selbständiges Unternehmen, das Genehmigungsinhaber des Kernkraftwerks Brunsbüttel, Krümmel oder Mülheim-Kärlich war, oder an dessen Rechtsnachfolger geleistet worden ist.
-
-§ 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
-
-# § 7g – Verwaltungsverfahren
-
-(1) Ein Ausgleich nach § 7e ist innerhalb eines Jahres ab dem 4. Juli 2018 schriftlich bei dem für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministerium zu beantragen. Wird der Ausgleich nicht innerhalb dieser Frist beantragt, verfällt der Anspruch. Der Ausgleichsberechtigte hat insbesondere Nachweise zu erbringen zu Vertragsschlüssen, Bestellungen, Kündigungen, Stornierungen, Zahlungen und Rückerstattungen von Zahlungen sowie Erklärungen zu gezogenen Steuervorteilen vorzulegen. Ein Ausgleich wird durch schriftlichen Bescheid des für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministeriums im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie festgesetzt.
-
-(2) Ein Ausgleich nach § 7f ist mit Ablauf des 31. Dezember 2022 innerhalb eines Jahres schriftlich bei dem für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministerium zu beantragen. Wird der Ausgleich nicht innerhalb dieser Frist beantragt, verfällt der Anspruch. In dem Antrag muss der Umfang der Elektrizitätsmengen, für den ein Ausgleich beantragt wird, in Kilowattstunden angegeben sein. Ein Ausgleich für Elektrizitätsmengen wird durch schriftlichen Bescheid des für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministeriums im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie festgesetzt.
-
-(3) Das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium kann einem Ausgleichsberechtigten unter Fristsetzung aufgeben, zu Umständen, die für die Ermittlung und Prüfung des angemessenen Ausgleichs nach § 7e oder § 7f wesentlich sind,
-
-1. Tatsachen anzugeben oder Beweismittel zu bezeichnen sowie
-
-2. Urkunden oder andere bewegliche Sachen vorzulegen sowie elektronische Dokumente zu übermitteln.
-
-§ 26 des Verwaltungsverfahrensgesetzes bleibt im Übrigen unberührt.
-
-§ 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
-
 # § 8 – Verhältnis zum Bundes-Immissionsschutzgesetz und zum Gesetz über überwachungsbedürftige Anlagen
 
 (1) Die Vorschriften des Bundes-Immissionsschutzgesetzes über genehmigungsbedürftige Anlagen sowie über die Untersagung der ferneren Benutzung solcher Anlagen finden auf genehmigungspflichtige Anlagen im Sinne des § 7 keine Anwendung, soweit es sich um den Schutz vor den Gefahren der Kernenergie oder der schädlichen Wirkung ionisierender Strahlen handelt.
