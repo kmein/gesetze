@@ -3224,8 +3224,6 @@ enthalten muß. Wesentliche Änderungen des Abbauplanes sind der zuständigen Be
 
 (5) Für bestimmte Arbeiten und Einrichtungen, die nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung einer besonderen Genehmigung bedürfen oder allgemein zuzulassen sind, kann in Haupt- und Sonderbetriebsplänen an Stelle der nach Absatz 4 Satz 1 erforderlichen Darstellung und Nachweise der Nachweis treten, daß die Genehmigung oder Zulassung vorliegt oder beantragt ist.
 
-(+++ § 52 Abs. 2a bis 2c: Zur Anwendung vgl. § 171a AtG +++)
-
 # § 53 – Betriebsplan für die Einstellung des Betriebes, Betriebschronik
 
 (1) Für die Einstellung eines Betriebes ist ein Abschlußbetriebsplan aufzustellen, der eine genaue Darstellung der technischen Durchführung und der Dauer der beabsichtigten Betriebseinstellung, den Nachweis, daß die in § 55 Abs. 1 Satz 1 Nr. 3 bis 13 und Absatz 2 bezeichneten Voraussetzungen erfüllt sind, und in anderen als den in § 55 Abs. 2 Satz 1 Nr. 3 genannten Fällen auch Angaben über eine Beseitigung der betrieblichen Anlagen und Einrichtungen oder über deren anderweitige Verwendung enthalten muß. Abschlußbetriebspläne können ergänzt und abgeändert werden.

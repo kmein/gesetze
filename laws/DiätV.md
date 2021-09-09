@@ -869,10 +869,6 @@ Die Vorschriften der Butterverordnung und der Honigverordnung bleiben unberührt
 
 Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden.
 
-# § 28 – (weggefallen)
-
-\-
-
 # § 28
 
 (1) Erzeugnisse, die dieser Verordnung in der bis zum 31. Dezember 2007 geltenden Fassung entsprechen, dürfen noch bis zum 31. Dezember 2009 in den Verkehr gebracht werden.
