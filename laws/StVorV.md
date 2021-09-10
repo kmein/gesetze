@@ -1,4 +1,4 @@
-% Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes  (Stellenvorbehaltsverordnung - StVorV)
+% Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes*  (Stellenvorbehaltsverordnung - StVorV)
 % Ausfertigungsdatum: 24.08.1999
  
 # Eingangsformel
