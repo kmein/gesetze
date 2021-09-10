@@ -763,7 +763,7 @@
 - [BGL 2003](laws/BGL_2003.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2003
 - [BGL 2004](laws/BGL_2004.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2004
 - [BGL 2007](laws/BGL_2007.md) Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2007
-- [BGleiG](laws/BGleiG.md) Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes
+- [BGleiG](laws/BGleiG.md) Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Gerichten des Bundes
 - [BGleiSV](laws/BGleiSV.md) Verordnung über die Schlichtungsstelle nach § 16 des Behindertengleichstellungsgesetzes und ihr Verfahren
 - [BGremBG](laws/BGremBG.md) Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien
 - [BGruVerkOlympG](laws/BGruVerkOlympG.md) Gesetz über den Verkauf von bundeseigenem Gelände in München zur Errichtung frei finanzierter Wohnungen, die während der Olympischen Spiele 1972 als Olympisches Dorf der Männer benutzt werden sollen
@@ -5353,7 +5353,7 @@
 - [StVollzG](laws/StVollzG.md) Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung
 - [StVollzGerAktÜbV](laws/StVollzGerAktÜbV.md) Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten in gerichtlichen Verfahren nach dem Strafvollzugsgesetz
 - [StVollzVergO](laws/StVollzVergO.md) Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbildungsbeihilfe nach dem Strafvollzugsgesetz
-- [StVorV](laws/StVorV.md) Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes
+- [StVorV](laws/StVorV.md) Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes*
 - [StVOuaVsAusnV 2](laws/StVOuaVsAusnV_2.md) Zweite Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
 - [StVOuaVsAusnV 3](laws/StVOuaVsAusnV_3.md) Dritte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
 - [StVRAusnV](laws/StVRAusnV.md) Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
@@ -5412,7 +5412,7 @@
 - [SVFAG](laws/SVFAG.md) Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung
 - [SVFAngAusbV 1997](laws/SVFAngAusbV_1997.md) Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
 - [SVG](laws/SVG.md) Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen*
-- [SVG§63V](laws/SVG§63V.md) Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
+- [SVG§63V](laws/SVG§63V.md) Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes*
 - [SVHV](laws/SVHV.md) Verordnung über das Haushaltswesen in der Sozialversicherung
 - [SVkAbk CHE](laws/SVkAbk_CHE.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge
 - [SVLFG-AltRückV](laws/SVLFG-AltRückV.md) Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau

@@ -2796,7 +2796,7 @@ Dem Geschädigten im Sinne von § 60 Abs. 1 bis 3 sind im Rahmen der Heilbehandl
 
 3. in dem Einrichtungen zur Betreuung von Kindern, Schulen oder Einrichtungen für Menschen mit Behinderungen vorübergehend geschlossen wurden, deren Betreten untersagt wurde, Schul- oder Betriebsferien angeordnet oder verlängert wurden, die Präsenzpflicht in einer Schule aufgehoben, der Zugang zum Kinderbetreuungsangebot eingeschränkt oder eine behördliche Empfehlung abgegeben wurde, vom Besuch einer Einrichtung zur Betreuung von Kindern, einer Schule oder einer Einrichtung für Menschen mit Behinderungen abzusehen.
 
-Verpflichtet zur Zahlung der Entschädigung nach § 65 ist das Land, in dem der Schaden verursacht worden ist.
+Ansprüche nach § 65 richten sich gegen das Land, in dem der Schaden verursacht worden ist.
 
 (2) Versorgung wegen eines Impfschadens nach den §§ 60 bis 63 ist zu gewähren
 

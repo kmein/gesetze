@@ -1,4 +1,4 @@
-% Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
+% Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes*
 % Ausfertigungsdatum: 15.05.1962
  
 # § 1 – Flugdienst
