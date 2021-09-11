@@ -859,7 +859,7 @@ Für die berufliche Fortbildung und die berufliche Umschulung behinderter Mensch
 
 # § 43
 
-(1) Die Handwerkskammer errichtet einen Berufsausbildungsausschuß. Ihm gehören sechs Arbeitgeber, sechs Arbeitnehmer und sechs Lehrkräfte an berufsbildenden Schulen an, die Lehrkräfte mit beratender Stimme.
+(1) Die Handwerkskammer errichtet einen Berufsbildungsausschuß. Ihm gehören sechs Arbeitgeber, sechs Arbeitnehmer und sechs Lehrkräfte an berufsbildenden Schulen an, die Lehrkräfte mit beratender Stimme.
 
 (2) Die Vertreter der Arbeitgeber werden von der Gruppe der Arbeitgeber, die Vertreter der Arbeitnehmer von der Gruppe der Vertreter der Gesellen und der anderen Arbeitnehmer mit einer abgeschlossenen Berufsausbildung in der Vollversammlung gewählt. Die Lehrkräfte an berufsbildenden Schulen werden von der nach Landesrecht zuständigen Behörde als Mitglieder berufen. Die Amtszeit der Mitglieder beträgt längstens fünf Jahre.
 

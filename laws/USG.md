@@ -45,7 +45,7 @@
 
 # § 2 – Teilzeit
 
-Bei Teilzeitbeschäftigung nach § 30a Absatz 1 des Soldatengesetzes werden Leistungen nach den §§ 5 bis 9, 11 und 14 anteilig gewährt. Die Leistungen nach den §§ 12 bis 17 und 23 Absatz 2 werden anteilig zur vollen Dienstzeit am jeweiligen Tag gewährt. Die Tage nach den §§ 12 und 13 werden bei Teilzeit anteilig gezählt.
+Bei Teilzeitbeschäftigung nach § 30a Absatz 1 des Soldatengesetzes werden Leistungen nach den §§ 5 bis 9, 11 und 14 anteilig gewährt. Die Leistungen nach den §§ 12 bis 17 und 23 Absatz 3 werden anteilig zur vollen Dienstzeit am jeweiligen Tag gewährt. Die Tage nach den §§ 12 und 13 werden bei Teilzeit anteilig gezählt.
 
 # § 3 – Härteausgleich
 
@@ -102,6 +102,12 @@ Die Leistungen nach den §§ 11 sowie 15 bis 19 unterliegen dem Kaufkraftausglei
 # § 11 – Prämie
 
 Reservistendienst Leistende erhalten für jeden Tag Reservistendienst eine Prämie nach Spalte 2 der Tabelle in Anlage 2.
+
+# § 11a – Prämie für besondere Einsatzbereitschaft
+
+(1) Reservistendienst Leistenden kann für ihre Verwendung bei der Herbeiführung eines im besonderen öffentlichen Interesse liegenden unaufschiebbaren und zeitgebundenen Ergebnisses im Inland eine Prämie gewährt werden. Voraussetzung ist eine Entscheidung nach § 42b Absatz 3 des Bundesbesoldungsgesetzes für die entsprechende Verwendung von Soldatinnen und Soldaten.
+
+(2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie für Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des Bundesbesoldungsgesetzes. § 42b Absatz 2 Satz 2 bis 4 des Bundesbesoldungsgesetzes gilt entsprechend.
 
 # § 12 – Zuschlag für längeren Dienst
 
@@ -193,9 +199,7 @@ Reservistendienst Leistenden werden die Dienstkleidung und die Ausrüstung unent
 
 (5) Bei dienstlichem Aufenthalt im Ausland unterliegt das nach Absatz 2 auszuzahlende Verpflegungsgeld dem Kaufkraftausgleich nach § 10.
 
-# § 24 – Zuständigkeit
-
-Für die Durchführung dieses Gesetzes mit Ausnahme von Kapitel 2 Abschnitt 3 ist das Bundesamt zuständig.
+# § 24 – (weggefallen)
 
 # § 25 – Antrag
 
