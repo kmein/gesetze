@@ -59,4 +59,8 @@ Das Versicherungsvertragsgesetz gilt nicht für die in § 190 des Gesetzes über
 
 Versicherungsnehmer, für die am 1. August 2013 das Ruhen der Leistungen gemäß § 193 Absatz 6 des Versicherungsvertragsgesetzes festgestellt ist, gelten ab diesem Zeitpunkt als im Notlagentarif § 153 des Versicherungsaufsichtsgesetzes versichert. Versicherungsnehmer gelten rückwirkend ab dem Zeitpunkt, zu dem die Leistungen aus dem Vertrag ruhend gestellt worden sind, als im Notlagentarif versichert, wenn die monatliche Prämie des Notlagentarifs niedriger ist als die in diesem Zeitpunkt geschuldete Prämie. Dies gilt unter der Maßgabe, dass die zum Zeitpunkt des Ruhendstellens aus dem Vertrag erworbenen Rechte und Alterungsrückstellungen erhalten bleiben und in Anspruch genommene Ruhensleistungen im Verhältnis zum Versicherungsnehmer als solche des Notlagentarifs gelten. Eine Anrechnung gebildeter Alterungsrückstellungen nach § 153 Absatz 2 Satz 6 des Versicherungsaufsichtsgesetzes auf die zu zahlende Prämie findet rückwirkend nicht statt. Der Versicherungsnehmer kann der rückwirkenden Versicherung nach Satz 2 widersprechen. Die Versicherer haben auf die Versicherung im Notlagentarif innerhalb von drei Monaten nach dem 1. August 2013 hinzuweisen und hierbei den Versicherungsnehmer über sein Widerspruchsrecht nach Satz 5 unter Hinweis auf die mit der rückwirkenden Versicherung verbundenen Folgen zu informieren; der Widerspruch muss innerhalb von sechs Monaten nach Zugang des Hinweises beim Versicherer eingehen.
 
-# Art 8 bis 15 – (weggefallen)
+# Art 9 bis 15 – (weggefallen)
+
+# Artikel 8 – Musterwiderrufsbelehrung
+
+Das Muster in der Anlage des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni 2021 geltenden Fassung kann noch bis zum Ablauf des 31. Dezember 2021 verwendet werden. In diesem Fall ist § 8 des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni 2021 geltenden Fassung anzuwenden.

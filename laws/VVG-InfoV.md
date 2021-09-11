@@ -11,13 +11,13 @@ Auf Grund des § 7 Abs. 2 und 3 des Versicherungsvertragsgesetzes vom 23. Novemb
 
 1. die Identität des Versicherers und der etwaigen Niederlassung, über die der Vertrag abgeschlossen werden soll; anzugeben ist auch das Handelsregister, bei dem der Rechtsträger eingetragen ist, und die zugehörige Registernummer;
 
-2. die Identität eines Vertreters des Versicherers in dem Mitgliedstaat der Europäischen Union, in dem der Versicherungsnehmer seinen Wohnsitz hat, wenn es einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Anbieter, wenn der Versicherungsnehmer mit dieser geschäftlich zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem Versicherungsnehmer tätig wird;
+2. die Identität eines Vertreters des Versicherers in dem Mitgliedstaat der Europäischen Union, in dem der Versicherungsnehmer seinen Wohnsitz hat, wenn es einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Versicherer, wenn der Versicherungsnehmer mit dieser geschäftlich zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem Versicherungsnehmer tätig wird;
 
 3. die ladungsfähige Anschrift des Versicherers und jede andere Anschrift, die für die Geschäftsbeziehung zwischen dem Versicherer, seinem Vertreter oder einer anderen gewerblich tätigen Person gemäß Nummer 2 und dem Versicherungsnehmer maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder -gruppen auch den Namen eines Vertretungsberechtigten;
 
 4. die Hauptgeschäftstätigkeit des Versicherers;
 
-5. Angaben über das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die nicht unter die Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme (ABl. EG Nr. L 135 S. 5) und die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. EG Nr. L 84 S. 22) fallen; Name und Anschrift des Garantiefonds sind anzugeben;
+5. gegebenenfalls Angaben über das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen; Name und Anschrift des Garantiefonds sind anzugeben;
 
 6. a) die für das Versicherungsverhältnis geltenden Allgemeinen Versicherungsbedingungen einschließlich der Tarifbestimmungen;
 
@@ -29,7 +29,7 @@ b) die wesentlichen Merkmale der Versicherungsleistung, insbesondere Angaben üb
 
 9. Einzelheiten hinsichtlich der Zahlung und der Erfüllung, insbesondere zur Zahlungsweise der Prämien;
 
-10. die Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises;
+10. gegebenenfalls die Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises;
 
 11. gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind, oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Versicherer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Beträge kein Indikator für künftige Erträge sind; die jeweiligen Umstände und Risiken sind zu bezeichnen;
 
@@ -39,11 +39,11 @@ b) die wesentlichen Merkmale der Versicherungsleistung, insbesondere Angaben üb
 
 14. Angaben zur Laufzeit und gegebenenfalls zur Mindestlaufzeit des Vertrages;
 
-15. Angaben zur Beendigung des Vertrages, insbesondere zu den vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen;
+15. Angaben zur Beendigung des Vertrages, gegebenenfalls insbesondere zu den vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen;
 
 16. die Mitgliedstaaten der Europäischen Union, deren Recht der Versicherer der Aufnahme von Beziehungen zum Versicherungsnehmer vor Abschluss des Versicherungsvertrages zugrunde legt;
 
-17. das auf den Vertrag anwendbare Recht, eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht;
+17. das auf den Vertrag anwendbare Recht, gegebenenfalls eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht;
 
 18. die Sprachen, in welchen die Vertragsbedingungen und die in dieser Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in welchen sich der Versicherer verpflichtet, mit Zustimmung des Versicherungsnehmers die Kommunikation während der Laufzeit dieses Vertrages zu führen;
 
@@ -107,23 +107,23 @@ Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzw
 
 3. Angaben über die Auswirkungen steigender Krankheitskosten auf die zukünftige Beitragsentwicklung;
 
-4. Hinweise auf die Möglichkeiten zur Beitragsbegrenzung im Alter, insbesondere auf die Möglichkeiten eines Wechsels in den Standardtarif oder Basistarif oder in andere Tarife gemäß § 204 des Versicherungsvertragsgesetzes und der Vereinbarung von Leistungsausschlüssen, sowie auf die Möglichkeit einer Prämienminderung gemäß § 152 Absatz 3 und 4 des Versicherungsaufsichtsgesetzes;
+4. Hinweise auf die Möglichkeiten zur Beitragsbegrenzung im Alter, insbesondere auf die Möglichkeiten eines Wechsels in den Basistarif oder in andere Tarife gemäß § 204 des Versicherungsvertragsgesetzes und der Vereinbarung von Leistungsausschlüssen, sowie auf die Möglichkeit einer Prämienminderung gemäß § 152 Absatz 3 und 4 des Versicherungsaufsichtsgesetzes;
 
 5. einen Hinweis, dass ein Wechsel von der privaten in die gesetzliche Krankenversicherung in fortgeschrittenem Alter in der Regel ausgeschlossen ist;
 
-6. einen Hinweis, dass ein Wechsel innerhalb der privaten Krankenversicherung in fortgeschrittenem Alter mit höheren Beiträgen verbunden sein kann und gegebenenfalls auf einen Wechsel in den Standardtarif oder Basistarif beschränkt ist;
+6. einen Hinweis, dass ein Wechsel innerhalb der privaten Krankenversicherung in fortgeschrittenem Alter mit höheren Beiträgen verbunden sein kann und gegebenenfalls auf einen Wechsel in den Basistarif beschränkt ist;
 
 7. eine Übersicht über die Beitragsentwicklung im Zeitraum der dem Angebot vorangehenden zehn Jahre; anzugeben ist, welcher monatliche Beitrag in den dem Angebot vorangehenden zehn Jahren jeweils zu entrichten gewesen wäre, wenn der Versicherungsvertrag zum damaligen Zeitpunkt von einer Person gleichen Geschlechts wie der Antragsteller mit Eintrittsalter von 35 Jahren abgeschlossen worden wäre; besteht der angebotene Tarif noch nicht seit zehn Jahren, so ist auf den Zeitpunkt der Einführung des Tarifs abzustellen, und es ist darauf hinzuweisen, dass die Aussagekraft der Übersicht wegen der kurzen Zeit, die seit der Einführung des Tarifs vergangen ist, begrenzt ist; ergänzend ist die Entwicklung eines vergleichbaren Tarifs, der bereits seit zehn Jahren besteht, darzustellen.
 
 (2) Die Angaben zu Absatz 1 Nr. 1, 2 und 7 haben in Euro zu erfolgen.
 
-# § 4 – Produktinformationsblatt
+# § 4 – Informationsblatt zu Versicherungsprodukten
 
-(1) Ist der Versicherungsnehmer ein Verbraucher, so hat der Versicherer ihm ein Produktinformationsblatt zur Verfügung zu stellen.
+(1) Ist der Versicherungsnehmer ein Verbraucher, so hat der Versicherer ihm ein Informationsblatt zu Versicherungsprodukten zur Verfügung zu stellen.
 
-(2) Das Produktinformationsblatt ist nach der Durchführungsverordnung (EU) 2017/1469 der Kommission vom 11. August 2017 zur Festlegung eines Standardformats für das Informationsblatt zu Versicherungsprodukten (ABl. L 209 vom 12.8.2017, S. 19) in ihrer jeweils geltenden Fassung zu erstellen; unter den Überschriften, die nach Artikel 4 Absatz 1 in Verbindung mit dem Anhang oder nach Absatz 4 der Durchführungsverordnung zu verwenden sind, sind die entsprechenden Informationen zu geben. Zusätzlich sind bei Versicherungsprodukten, die kein Versicherungsprodukt im Sinne des Anhangs I der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1) sind, die Prämie, die Abschluss- und Vertriebskosten und die Verwaltungskosten (§ 2 Absatz 1 Nummer 1) sowie die sonstigen Kosten (§ 2 Absatz 1 Nummer 2) jeweils in Euro gesondert auszuweisen; die Information ist unter der Überschrift „Prämie; Kosten“ als letzte Information zu geben.
+(2) Das Informationsblatt zu Versicherungsprodukten ist nach der Durchführungsverordnung (EU) 2017/1469 der Kommission vom 11. August 2017 zur Festlegung eines Standardformats für das Informationsblatt zu Versicherungsprodukten (ABl. L 209 vom 12.8.2017, S. 19) in ihrer jeweils geltenden Fassung zu erstellen; unter den Überschriften, die nach Artikel 4 Absatz 1 in Verbindung mit dem Anhang oder nach Absatz 4 der Durchführungsverordnung zu verwenden sind, sind die entsprechenden Informationen zu geben. Zusätzlich sind bei Versicherungsprodukten, die kein Versicherungsprodukt im Sinne des Anhangs I der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1) sind, die Prämie, die Abschluss- und Vertriebskosten und die Verwaltungskosten (§ 2 Absatz 1 Nummer 1) sowie die sonstigen Kosten (§ 2 Absatz 1 Nummer 2) jeweils in Euro gesondert auszuweisen; die Information ist unter der Überschrift „Prämie; Kosten“ als letzte Information zu geben.
 
-(3) Diese Regelung gilt nicht für Versicherungsanlageprodukte im Sinne der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die durch die Verordnung (EU) 2016/2340 (ABl. L 354 vom 23.12.2016, S. 35) geändert worden ist.
+(3) Diese Regelung gilt nicht für Versicherungsanlageprodukte im Sinne der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung (EU) 2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden ist, in der jeweils geltenden Fassung oder für Paneuropäische Private Pensionsprodukte im Sinne der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung.
 
 # § 5 – Informationspflichten bei Telefongesprächen
 

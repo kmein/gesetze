@@ -59,7 +59,7 @@
 
 # § 3 – Anwendung von Vorschriften des Bundesbesoldungsgesetzes
 
-(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12 und 17a des Bundesbesoldungsgesetzes gelten entsprechend.
+(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12, 17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
 
 (2) Sofern dieses Gesetz auf Leistungen nach dem Bundesbesoldungsgesetz Bezug nimmt und diese Leistungen nach Besoldungsgruppen differenziert sind, gilt folgende Zuordnung:
 

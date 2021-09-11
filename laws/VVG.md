@@ -149,7 +149,7 @@ Bei der Festlegung der Mitteilungen nach Satz 1 sind die vorgeschriebenen Angabe
 
 (4) Versicherer haben in den Fällen der Absätze 1 bis 3 die Wünsche und Bedürfnisse des Versicherungsnehmers im Zusammenhang mit den Versicherungsprodukten, die Teil des Pakets oder derselben Vereinbarung sind, zu ermitteln.
 
-(5) Wird eine Restschuldversicherung als Nebenprodukt oder als Teil eines Pakets oder derselben Vereinbarung angeboten, ist der Versicherungsnehmer eine Woche nach Abgabe seiner Vertragserklärung für das Versicherungsprodukt erneut in Textform über sein Widerrufsrecht zu belehren. Das Produktinformationsblatt ist dem Versicherungsnehmer mit dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt nicht vor Zugang dieser Unterlagen.
+(5) Wird eine Restschuldversicherung als Nebenprodukt oder als Teil eines Pakets oder derselben Vereinbarung angeboten, ist der Versicherungsnehmer eine Woche nach Abgabe seiner Vertragserklärung für das Versicherungsprodukt erneut in Textform über sein Widerrufsrecht zu belehren. Das Informationsblatt zu Versicherungsprodukten ist dem Versicherungsnehmer mit dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt nicht vor Zugang dieser Unterlagen.
 
 # § 7b – Information bei Versicherungsanlageprodukten
 
@@ -205,7 +205,7 @@ Hat der Versicherer dem Versicherungsnehmer mitgeteilt, dass er eine regelmäßi
 
 # § 7d – Beratung, Information und Widerruf bei bestimmten Gruppenversicherungen
 
-Der Versicherungsnehmer eines Gruppenversicherungsvertrags für Restschuldversicherungen hat gegenüber der versicherten Person die Beratungs- und Informationspflichten eines Versicherers. Die versicherte Person hat die Rechte eines Versicherungsnehmers, insbesondere das Widerrufsrecht. Über dieses Widerrufsrecht ist eine Woche nach Abgabe der Vertragserklärung erneut in Textform zu belehren. Das Produktinformationsblatt ist mit dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt nicht vor Zugang dieser Unterlagen.
+Der Versicherungsnehmer eines Gruppenversicherungsvertrags für Restschuldversicherungen hat gegenüber der versicherten Person die Beratungs- und Informationspflichten eines Versicherers. Die versicherte Person hat die Rechte eines Versicherungsnehmers, insbesondere das Widerrufsrecht. Über dieses Widerrufsrecht ist eine Woche nach Abgabe der Vertragserklärung erneut in Textform zu belehren. Das Informationsblatt zu Versicherungsprodukten ist mit dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt nicht vor Zugang dieser Unterlagen.
 
 # § 8 – Widerrufsrecht des Versicherungsnehmers
 
@@ -213,11 +213,11 @@ Der Versicherungsnehmer eines Gruppenversicherungsvertrags für Restschuldversic
 
 (2) Die Widerrufsfrist beginnt zu dem Zeitpunkt, zu dem folgende Unterlagen dem Versicherungsnehmer in Textform zugegangen sind:
 
-1. der Versicherungsschein und die Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen sowie die weiteren Informationen nach § 7 Abs. 1 und 2 und
+1. der Versicherungsschein und die Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen sowie die weiteren Informationen, die nach der VVG-Informationspflichtenverordnung mitzuteilen sind, und
 
 2. eine deutlich gestaltete Belehrung über das Widerrufsrecht und über die Rechtsfolgen des Widerrufs, die dem Versicherungsnehmer seine Rechte entsprechend den Erfordernissen des eingesetzten Kommunikationsmittels deutlich macht und die den Namen und die ladungsfähige Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, sowie einen Hinweis auf den Fristbeginn und auf die Regelungen des Absatzes 1 Satz 2 enthält.
 
-Der Nachweis über den Zugang der Unterlagen nach Satz 1 obliegt dem Versicherer.
+Bei Versicherungsprodukten, für die ein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung (EU) 2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden ist, in der jeweils geltenden Fassung oder für die ein PEPP-Basisinformationsblatt nach Artikel 26 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung zu erstellen ist, beginnt die Widerrufsfrist nicht, bevor auch das Basisinformationsblatt oder das PEPP-Basisinformationsblatt zur Verfügung gestellt worden ist. Der Nachweis über den Zugang der Unterlagen nach den Sätzen 1 und 2 obliegt dem Versicherer.
 
 (3) Das Widerrufsrecht besteht nicht
 
@@ -231,9 +231,7 @@ Der Nachweis über den Zugang der Unterlagen nach Satz 1 obliegt dem Versicherer
 
 Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt ist, bevor der Versicherungsnehmer sein Widerrufsrecht ausgeübt hat.
 
-(4) Im elektronischen Geschäftsverkehr beginnt die Widerrufsfrist abweichend von Absatz 2 Satz 1 nicht vor Erfüllung auch der in § 312i Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs geregelten Pflichten.
-
-(5) Die nach Absatz 2 Satz 1 Nr. 2 zu erteilende Belehrung genügt den dort genannten Anforderungen, wenn das Muster der Anlage zu diesem Gesetz in Textform verwendet wird. Der Versicherer darf unter Beachtung von Absatz 2 Satz 1 Nr. 2 in Format und Schriftgröße von dem Muster abweichen und Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringen.
+(4) Die nach Absatz 2 Satz 1 Nr. 2 zu erteilende Belehrung genügt den dort genannten Anforderungen, wenn das Muster der Anlage zu diesem Gesetz in Textform verwendet wird. Der Versicherer darf unter Beachtung von Absatz 2 Satz 1 Nr. 2 von dem Muster abweichen. Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 1 Nummer 2 auf Format und Schriftgröße oder darauf, dass der Versicherer Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringt, so ist Satz 1 anzuwenden.
 
 # § 9 – Rechtsfolgen des Widerrufs
 
@@ -1733,4 +1731,4 @@ Die Beteiligten können diese Schlichtungsstelle anrufen; das Recht, die Gericht
 
 Ist ein Versicherungsvertrag mit den bei Lloyd´s vereinigten Einzelversicherern nicht über eine Niederlassung im Geltungsbereich dieses Gesetzes abgeschlossen worden und ist ein inländischer Gerichtsstand gegeben, so können Ansprüche daraus gegen den bevollmächtigten Unterzeichner des im Versicherungsschein an erster Stelle aufgeführten Syndikats oder einen von diesem benannten Versicherer geltend gemacht werden; ein darüber erzielter Titel wirkt für und gegen alle an dem Versicherungsvertrag beteiligten Versicherer.
 
-# Anlage – (zu § 8 Abs. 5 Satz 1)
+# Anlage – (zu § 8 Absatz 4 Satz 1) Muster für die Widerrufsbelehrung
