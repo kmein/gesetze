@@ -63,9 +63,7 @@ Im Sinne dieses Gesetz ist oder sind:
 
 (4) Sollten zur Erfüllung europäischer oder internationaler Klimaschutzziele höhere nationale Klimaschutzziele erforderlich werden, so leitet die Bundesregierung die zur Erhöhung der Zielwerte nach Absatz 1 notwendigen Schritte ein. Klimaschutzziele können erhöht, aber nicht abgesenkt werden.
 
-§ 3 Abs. 1 Satz 2: Nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 I 1720 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 3 Abs. 1 Satz 2 bleibt anwendbar.
-
-# § 3a – Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaf
+# § 3a – Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft
 
 (1) Der Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft zum Klimaschutz soll gestärkt werden. Der Mittelwert der jährlichen Emissionsbilanzen des jeweiligen Zieljahres und der drei vorhergehenden Kalenderjahre des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft soll wie folgt verbessert werden:
 
@@ -120,8 +118,6 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 (6) Durch Rechtsverordnung legt die Bundesregierung die jährlich in grundsätzlich gleichmäßigen Schritten absinkenden zulässigen Jahresemissionsmengen der einzelnen Sektoren im Jahr 2024 für die Jahre 2031 bis 2040 und im Jahr 2034 für die Jahre 2041 bis 2045 fest. Diese Jahresemissionsmengen müssen im Einklang stehen mit der Erreichung der nationalen Klimaschutzziele dieses Gesetzes, mit den jährlichen Minderungszielen gemäß Absatz 1 Satz 6 und 7 und den unionsrechtlichen Anforderungen. Dabei ist sicherzustellen, dass in jedem Sektor deutliche Reduzierungen der Treibhausgase erreicht werden. Die zulässigen Jahresemissionsmengen gelten, soweit nicht auf der Grundlage des § 4 Absatz 7 eine abweichende Reglung getroffen wird. Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 (7) Die Bundesregierung wird dem Deutschen Bundestag im Jahr 2028 einen Bericht zum Stand und zur weiteren Entwicklung der CO<sub>2</sub>-Bepreisung innerhalb der Europäischen Union sowie zu technischen Entwicklungen vorlegen. In dem Bericht wird die Bundesregierung auch untersuchen, ob in der Zeit ab dem Jahr 2031 im Lichte dieser Entwicklungen auf die Zuweisung von zulässigen Jahresemissionsmengen für einzelne Sektoren verzichtet werden kann. In diesem Fall legt die Bundesregierung einen entsprechenden Gesetzgebungsvorschlag vor.
-
-§ 4 Abs. 1 Satz 3: IVm Anlage 2 nach Maßgabe der Gründe gem. Nr. 2 BVerfGE v. 24.3.2021 I 1720 - 1 BvR 2656/18 u.a. - mit den Grundrechten unvereinbar. Gem. Nr. 4 dieser BVerfGE ist der Gesetzgeber verpflichtet, spätestens bis zum 31. Dezember 2022 die Fortschreibung der Minderungsziele für Zeiträume ab dem Jahr 2031 nach Maßgabe der Gründe zu regeln. § 4 Abs. 1 Satz 3 iVm mit Anlage 2 bleibt anwendbar.
 
 # § 5 – Emissionsdaten, Verordnungsermächtigung
 

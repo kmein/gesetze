@@ -850,6 +850,7 @@ Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§ 21) hand
 
 (5) ¹Die einzelne Vorauszahlung ist auf den nächsten vollen Betrag in Euro nach unten abzurunden. ²Sie wird nur festgesetzt, wenn sie mindestens 50 Euro beträgt.
 
+(+++ § 19: Zur Anwendung vgl. § 36 +++)  
 (+++ § 19 Abs. 3 Satz 5: Zur erstmaligen Anwendung für den Erhebungszeitraum 2008 vgl. § 36 Abs. 9c F. 20.12.2008 +++)
 
 # § 20 – Abrechnung über die Vorauszahlungen
