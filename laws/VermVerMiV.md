@@ -33,7 +33,7 @@ b) seine Anschrift,
 
 a) die Bezeichnung und
 
-b) das Veröffentlichungsdatum des Verkaufsprospekts,
+b) das Datum der Aufstellung und das Datum der Veröffentlichung des Verkaufsprospekts,
 
 4. die zu veröffentlichende Tatsache gemäß § 11a Absatz 1 des Gesetzes,
 
@@ -105,7 +105,7 @@ Der Veröffentlichungspflichtige ist für technische Systemfehler im Verantwortu
 
 3. die Mitteilung die nach § 4 Absatz 4 und 5 erforderlichen Angaben enthält.
 
-(2) Ist die Mitteilung nicht ordnungsgemäß eingegangen, teilt die Bundesanstalt dem Emittenten oder dem Bevollmächtigten diesen Umstand spätestens am dritten Werktag nach Eingang mit.
+(2) Ist die Mitteilung nicht ordnungsgemäß eingegangen, teilt die Bundesanstalt dem Emittenten oder dem Bevollmächtigten diesen Umstand spätestens am dritten Arbeitstag nach Eingang mit.
 
 # § 6 – Inkrafttreten
 

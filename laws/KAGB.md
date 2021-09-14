@@ -841,7 +841,7 @@ zur Verfügung zu stellen.
 
 # § 14 – Auskünfte und Prüfungen
 
-Kapitalverwaltungsgesellschaften, extern verwaltete Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem Gesetz zulässigen Rechtsformen für Investmentvermögen, die an ihnen jeweils bedeutend beteiligten Inhaber und Verwahrstellen haben der Bundesanstalt Auskünfte entsprechend § 44 Absatz 1 und 6 und § 44b des Kreditwesengesetzes zu erteilen. Der Bundesanstalt stehen die in § 44 Absatz 1 und § 44b des Kreditwesengesetzes genannten Prüfungsbefugnisse entsprechend zu.
+Kapitalverwaltungsgesellschaften, extern verwaltete Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem Gesetz zulässigen Rechtsformen für Investmentvermögen, die an ihnen jeweils bedeutend beteiligten Inhaber und Verwahrstellen sowie Auslagerungsunternehmen haben der Bundesanstalt Auskünfte entsprechend § 44 Absatz 1 und 6 und § 44b des Kreditwesengesetzes zu erteilen. Der Bundesanstalt stehen die in § 44 Absatz 1 und § 44b des Kreditwesengesetzes genannten Prüfungsbefugnisse entsprechend zu.
 
 (+++ § 14: Zur Anwendung vgl. § 5 Abs. 5a, § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. 2, § 66 Abs. 4 Satz 1 u. § 353 Abs. 5 +++)
 
@@ -1478,7 +1478,7 @@ gelten die Absätze 1 bis 5 gemäß § 58 Absatz 11, § 317 Absatz 1 Nummer 3 un
 
 (10) Die Bundesanstalt kann durch Allgemeinverfügung nähere Bestimmungen über Art, Umfang, Form und Turnus der einzureichenden Meldungen nach Absatz 9 und über die zulässigen Datenträger, Datenstrukturen und Übertragungswege festlegen.
 
-# § 36 – Auslagerung
+# § 36 – Auslagerung; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft kann Aufgaben auf ein anderes Unternehmen (Auslagerungsunternehmen) unter den folgenden Bedingungen auslagern:
 
@@ -1522,6 +1522,8 @@ b) die potenziellen Interessenkonflikte ordnungsgemäß ermittelt, steuert, beob
 
 (5) Die Kapitalverwaltungsgesellschaft darf Aufgaben nicht in einem Umfang übertragen, der dazu führt, dass sie nicht länger als Verwaltungsgesellschaft angesehen werden kann und zu einer Briefkastenfirma wird.
 
+(5a) Die Bundesanstalt kann im Einzelfall unmittelbar gegenüber Auslagerungsunternehmen Anordnungen treffen, die geeignet und erforderlich sind, um die Ordnungsmäßigkeit der Tätigkeit der Kapitalverwaltungsgesellschaft zu gewährleisten, insbesondere um zu verhindern, dass die Kapitalverwaltungsgesellschaft zu einer Briefkastenfirma im Sinne des Absatzes 5 wird.
+
 (6) Das Auslagerungsunternehmen darf die auf ihn ausgelagerten Aufgaben unter den folgenden Bedingungen weiter übertragen (Unterauslagerung):
 
 1. die Kapitalverwaltungsgesellschaft hat der Unterauslagerung vorher zuzustimmen,
@@ -1539,6 +1541,16 @@ Satz 1 gilt entsprechend bei jeder weiteren Unterauslagerung.
 (9) Die Kapitalverwaltungsgesellschaft hat im Verkaufsprospekt nach § 165 oder § 269 die Aufgaben aufzulisten, die sie ausgelagert hat.
 
 (10) Im Hinblick auf AIF-Kapitalverwaltungsgesellschaften bestimmen sich die Bedingungen zur Erfüllung der Anforderungen nach den Absätzen 1 bis 3 und 6 und 7 sowie die Umstände, unter denen angenommen wird, dass die AIF-Kapitalverwaltungsgesellschaft im Sinne von Absatz 5 ihre Funktionen in einem Umfang übertragen hat, der sie zu einer Briefkastenfirma werden lässt, so dass sie nicht länger als Verwalter des AIF angesehen werden kann, nach den Artikeln 75 bis 82 der Delegierten Verordnung (EU) Nr. 231/2013. Für OGAW-Kapitalverwaltungsgesellschaften sind die Artikel 75 bis 82 der Delegierten Verordnung (EU) Nr. 231/2013 hinsichtlich der Bedingungen zur Erfüllung der Anforderungen nach den Absätzen 1 bis 3 und 6 und 7 sowie der Umstände, unter denen angenommen wird, dass die OGAW-Kapitalverwaltungsgesellschaft im Sinne von Absatz 5 ihre Funktionen in einem Umfang übertragen hat, der sie zu einer Briefkastenfirma werden lässt, so dass sie nicht länger als Verwalter des OGAW angesehen werden kann, entsprechend anzuwenden.
+
+(11) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über
+
+1. Art, Umfang, Zeitpunkt und Form der nach diesem Gesetz vorgesehenen Anzeigen und einzureichenden Unterlagen,
+
+2. die zulässigen Datenträger, Übertragungswege und Datenformate und
+
+3. zu verwendende und anzuzeigende Zusatzinformationen zu den Hauptinformationen, etwa besondere Rechtsträgerkennungen sowie Angaben zu deren Aktualität oder Validität.
+
+Das Bundesministerium der Finanzen wird weiterhin ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die bestehenden Anzeigepflichten durch die Verpflichtung zur Erstellung von Sammelanzeigen und zur Einreichung von Sammelaufstellungen zu ergänzen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der von den Kapitalverwaltungsgesellschaften durchgeführten Geschäften zu erhalten. In der Rechtsverordnung können ebenfalls nähere Bestimmungen erlassen werden für die Führung eines öffentlichen Registers durch die Bundesanstalt sowie über die Zugriffsmöglichkeiten auf dieses öffentliche Register und über die Zuweisung von Verantwortlichkeiten für die Richtigkeit und Aktualität des öffentlichen Registers. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 37 – Vergütungssysteme; Verordnungsermächtigung
 

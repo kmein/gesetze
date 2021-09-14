@@ -17,7 +17,7 @@ Diese Verordnung ist auf den Verkaufsprospekt für Vermögensanlagen im Sinne de
 
 (3) Der Verkaufsprospekt soll die nach dieser Verordnung erforderlichen Mindestangaben in der Reihenfolge ihrer Nennung in der Verordnung enthalten. Stimmt die Reihenfolge der Angaben in dem Prospekt nicht mit der dieser Verordnung überein, kann die Hinterlegungsstelle vor Gestattung der Veröffentlichung des Verkaufsprospekts von dem Anbieter eine Aufstellung verlangen, aus der hervorgeht, an welcher Stelle des Prospekts sich die verlangten Mindestangaben befinden.
 
-(4) Der Verkaufsprospekt ist mit dem Datum seiner Aufstellung zu versehen und vom Anbieter zu unterzeichnen.
+(4) Der Verkaufsprospekt ist mit dem Datum seiner Aufstellung und mit der Firma, der Handelsregisternummer und der Geschäftsanschrift des Anbieters zu versehen.
 
 (5) (weggefallen)
 
@@ -57,11 +57,13 @@ Der Verkaufsprospekt muss über die Vermögensanlagen angeben:
 
 13. an einer hervorgehobenen Stelle im Verkaufsprospekt die wesentlichen Grundlagen und Bedingungen der Verzinsung und Rückzahlung;
 
-14. die Laufzeit sowie die Kündigungsfrist nach Maßgabe des § 5a des Vermögensanlagengesetzes und
+14. die Laufzeit sowie die Kündigungsfrist nach Maßgabe des § 5a des Vermögensanlagengesetzes;
 
-15. die Anlegergruppe, auf die die Vermögensanlage abzielt, vor allem im Hinblick auf den Anlagehorizont des Anlegers und seine Fähigkeit, Verluste, die sich aus der Vermögensanlage ergeben können, zu tragen.
+15. die Anlegergruppe, auf die die Vermögensanlage abzielt, vor allem im Hinblick auf den Anlagehorizont des Anlegers und seine Fähigkeit, Verluste, die sich aus der Vermögensanlage ergeben können, zu tragen und
 
-Unbeschadet der Angaben zu den rechtlichen Verhältnissen sind bei Beteiligungen am Ergebnis eines Unternehmens im Sinne des § 1 Absatz 2 Nummer 1 des Vermögensanlagengesetzes der Gesellschaftsvertrag, die Satzung, der Beteiligungsvertrag oder der sonstige für das Anlageverhältnis maßgebliche Vertrag beizufügen; bei Treuhandvermögen im Sinne des § 1 Absatz 2 Nummer 2 des Vermögensanlagengesetzes ist der Treuhandvertrag als Teil des Prospekts beizufügen. Ebenso ist der Vertrag über die Mittelverwendungskontrolle beizufügen.
+16. an einer hervorgehobenen Stelle im Verkaufsprospekt, dass die Vermögensanlage ausschließlich im Wege der Anlagevermittlung oder Anlageberatung durch ein Wertpapierdienstleistungsunternehmen oder einen Finanzanlagenvermittler vertrieben wird.
+
+Unbeschadet der Angaben zu den rechtlichen Verhältnissen sind bei Beteiligungen am Ergebnis eines Unternehmens im Sinne des § 1 Absatz 2 Nummer 1 des Vermögensanlagengesetzes der Gesellschaftsvertrag, die Satzung, der Beteiligungsvertrag oder der sonstige für das Anlageverhältnis maßgebliche Vertrag beizufügen; bei Treuhandvermögen im Sinne des § 1 Absatz 2 Nummer 2 des Vermögensanlagengesetzes ist der Treuhandvertrag als Teil des Prospekts beizufügen. Ebenso sind der Vertrag über die Mittelverwendungskontrolle und der letzte für die konkrete Vermögensanlage nach § 5c Absatz 2 des Vermögensanlagengesetzes festgestellte und veröffentlichte Bericht des Mittelverwendungskontrolleurs beizufügen.
 
 # § 5 – Angaben über den Emittenten
 
@@ -77,7 +79,7 @@ Der Verkaufsprospekt muss über den Emittenten angeben:
 
 5. das für den Emittenten zuständige Registergericht und die Nummer, unter der er in das Register eingetragen ist;
 
-6. eine kurze Beschreibung des Konzerns und der Einordnung des Emittenten in ihn, falls der Emittent ein Konzernunternehmen ist.
+6. eine Beschreibung des Konzerns und der Einordnung des Emittenten in ihn, falls der Emittent ein Konzernunternehmen ist.
 
 # § 6 – Angaben über das Kapital des Emittenten
 
@@ -111,7 +113,7 @@ d) § 369 der Abgabenordnung
 
 in einem Führungszeugnis enthalten sind; das Führungszeugnis darf zum Zeitpunkt der Prospektaufstellung nicht älter als sechs Monate sein;
 
-5. jede ausländische Verurteilung wegen einer Straftat, die mit den in Nummer 4 genannten Straftaten vergleichbar ist, unter Angabe der Art und Höhe der Strafe, wenn zum Zeitpunkt der Prospektaufstellung der Gründungsgesellschafter oder der Gesellschafter zum Zeitpunkt der Prospektaufstellung nicht Deutscher war; dies gilt jedoch nur, wenn der Zeitraum zwischen dem Eintritt der Rechtskraft der Verurteilung und der Prospektaufstellung weniger als fünf Jahre beträgt;
+5. jede Verurteilung durch ein Gericht im Ausland wegen einer Straftat, die mit den in Nummer 4 genannten Straftaten vergleichbar ist, unter Angabe der Art und Höhe der Strafe; dies gilt jedoch nur, wenn der Zeitraum zwischen dem Eintritt der Rechtskraft der Verurteilung und der Prospektaufstellung weniger als fünf Jahre beträgt;
 
 6. Angaben darüber, ob
 
@@ -119,7 +121,7 @@ a) über das Vermögen eines Gründungsgesellschafters oder eines Gesellschafter
 
 b) ein Gründungsgesellschafter oder ein Gesellschafter zum Zeitpunkt der Prospektaufstellung innerhalb der letzten fünf Jahre in der Geschäftsführung einer Gesellschaft tätig war, über deren Vermögen ein Insolvenzverfahren eröffnet oder mangels Masse abgewiesen wurde;
 
-7. Angaben über frühere Aufhebungen einer Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen durch die Bundesanstalt.
+7. Angaben über frühere Aufhebungen einer Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen und über Untersagungen des öffentlichen Angebots gemäß § 18 Absatz 4 des Wertpapierprospektgesetzes oder § 18 des Vermögensanlagengesetzes durch die Bundesanstalt.
 
 Die Angaben nach Satz 1 in Bezug auf die Gründungsgesellschafter können entfallen, wenn der Emittent mehr als zehn Jahre vor Aufstellung des Verkaufsprospekts gegründet wurde.
 
@@ -189,17 +191,21 @@ Weiterhin sind die Möglichkeiten einer Änderung der Anlagestrategie oder Anlag
 
 8. in welchem Umfang Lieferungen und Leistungen durch Personen erbracht werden, die nach den §§ 3, 7 oder 12 zu nennen sind;
 
-9. die voraussichtlichen Gesamtkosten des Anlageobjekts in einer Aufgliederung, die insbesondere Anschaffungs- und Herstellungskosten sowie sonstige Kosten ausweist und die geplante Finanzierung in einer Gliederung, die Eigen- und Fremdmittel, untergliedert nach Zwischenfinanzierungs- und Endfinanzierungsmitteln, gesondert ausweist. Zu den Eigen- und Fremdmitteln sind die Konditionen und Fälligkeiten anzugeben und in welchem Umfang und von wem diese bereits verbindlich zugesagt sind. Darüber hinaus ist die angestrebte Fremdkapitalquote anzugeben und wie sich die Hebeleffekte auswirken.
+9. die voraussichtlichen Gesamtkosten des Anlageobjekts in einer Aufgliederung, die insbesondere Anschaffungs- und Herstellungskosten sowie sonstige Kosten ausweist und die geplante Finanzierung in einer Gliederung, die Eigen- und Fremdmittel, untergliedert nach Zwischenfinanzierungs- und Endfinanzierungsmitteln, gesondert ausweist. Zu den Eigen- und Fremdmitteln sind die Konditionen und Fälligkeiten anzugeben und in welchem Umfang und von wem diese bereits verbindlich zugesagt sind. Darüber hinaus ist die angestrebte Fremdkapitalquote anzugeben und wie sich die Hebeleffekte auswirken;
+
+10. das Nichtvorliegen eines Anlageobjekts im Sinne von § 5b Absatz 2 des Vermögensanlagengesetzes (Blindpool-Modell);
+
+11. die Gründe, warum die Bestellung eines Mittelverwendungskontrolleurs nach § 5c des Vermögensanlagengesetzes nicht erforderlich ist.
 
 # § 10 – Angaben über die Vermögens-, Finanz- und Ertragslage des Emittenten
 
 (1) Der Verkaufsprospekt muss über die Vermögens-, Finanz- und Ertragslage des Emittenten enthalten:
 
-1. den letzten nach den §§ 24 und 25 des Vermögensanlagengesetzes aufgestellten und geprüften Jahresabschluss und Lagebericht und,
+1. den letzten nach den §§ 24 und 25 des Vermögensanlagengesetzes aufgestellten und geprüften Jahresabschluss einschließlich des Datums seiner Feststellung sowie den letzten nach diesen Vorschriften aufgestellten und geprüften Lagebericht,
 
-2. eine Zwischenübersicht, deren Stichtag höchstens zwei Monate vor der Aufstellung des Verkaufsprospekts liegen darf.
+2. eine Zwischenübersicht, deren Stichtag höchstens zwei Monate vor der Aufstellung des Verkaufsprospekts liegen darf und
 
-3. (weggefallen)
+3. ausführliche Erläuterungen der Einzelpositionen der Zwischenübersicht.
 
 Der Stichtag des in Satz 1 Nummer 1 genannten Abschlusses darf höchstens 18 Monate vor der Aufstellung des Verkaufsprospekts liegen.
 
@@ -233,7 +239,7 @@ d) § 369 der Abgabenordnung
 
 in einem Führungszeugnis enthalten sind; das Führungszeugnis darf zum Zeitpunkt der Prospektaufstellung nicht älter als sechs Monate sein;
 
-4. jede ausländische Verurteilung wegen einer Straftat, die mit den in Nummer 3 genannten Straftaten vergleichbar ist, unter Angabe der Art und Höhe der Strafe, wenn zum Zeitpunkt der Prospektaufstellung das Mitglied der Geschäftsführung oder des Vorstands, eines Aufsichtsgremiums oder eines Beirats nicht Deutscher war; dies gilt jedoch nur, wenn der Zeitraum zwischen dem Eintritt der Rechtskraft der Verurteilung und der Prospektaufstellung weniger als fünf Jahre beträgt;
+4. jede Verurteilung durch ein ausländisches Gericht wegen einer Straftat, die mit den in Nummer 3 genannten Straftaten vergleichbar ist, unter Angabe der Art und Höhe der Strafe; dies gilt jedoch nur, wenn der Zeitraum zwischen dem Eintritt der Rechtskraft der Verurteilung und der Prospektaufstellung weniger als fünf Jahre beträgt;
 
 5. Angaben darüber, ob
 
@@ -241,7 +247,7 @@ a) über das Vermögen eines Mitglieds der Geschäftsführung oder des Vorstands
 
 b) ein Mitglied der Geschäftsführung oder des Vorstands, eines Aufsichtsgremiums oder eines Beirats innerhalb der letzten fünf Jahre in der Geschäftsführung einer Gesellschaft tätig war, über deren Vermögen ein Insolvenzverfahren eröffnet oder mangels Masse abgewiesen wurde;
 
-6. Angaben über frühere Aufhebungen einer Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen durch die Bundesanstalt.
+6. Angaben über frühere Aufhebungen einer Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen und über Untersagungen des öffentlichen Angebots gemäß § 18 Absatz 4 des Wertpapierprospektgesetzes oder § 18 des Vermögensanlagengesetzes durch die Bundesanstalt.
 
 (2) Der Verkaufsprospekt muss angeben, in welcher Art und Weise die Mitglieder der Geschäftsführung oder des Vorstands, der Aufsichtsgremien und der Beiräte des Emittenten auch tätig sind für
 
@@ -275,6 +281,8 @@ b) ein Mitglied der Geschäftsführung oder des Vorstands, eines Aufsichtsgremiu
 
 5. Umstände oder Beziehungen, die Interessenkonflikte begründen können.
 
+(5a) Die Angaben nach Absatz 5 sind entsprechend über den Mittelverwendungskontrolleur nach § 5c Absatz 1 bis 3 des Vermögensanlagengesetzes in den Verkaufsprospekt aufzunehmen. Zusätzlich muss im Falle der Bestellung eines Mittelverwendungskontrolleurs gemäß § 5c Absatz 1 des Vermögensanlagengesetzes dessen Geschäftstätigkeit benannt werden und eine Erklärung abgegeben werden, dass der Mittelverwendungskontrolleur unabhängig vom Emittenten tätig ist.
+
 (6) Der Verkaufsprospekt muss die Angaben nach den Absätzen 1 bis 4 auch für die Anbieter, die Prospektverantwortlichen, die Treuhänder und solche Personen enthalten, die nicht in den Kreis der nach dieser Verordnung angabepflichtigen Personen fallen, die jedoch die Herausgabe oder den Inhalt des Verkaufsprospekts oder die Abgabe oder den Inhalt des Angebots der Vermögensanlage wesentlich beeinflusst haben.
 
 # § 13 – Angaben über den jüngsten Geschäftsgang und die Geschäftsaussichten des Emittenten
@@ -287,7 +295,7 @@ Der Verkaufsprospekt muss an hervorgehobener Stelle eine ausführliche Darstellu
 
 # § 14 – Gewährleistete Vermögensanlagen
 
-Für das Angebot von Vermögensanlagen, für deren Verzinsung oder Rückzahlung eine juristische Person oder Gesellschaft die Gewährleistung übernommen hat, sind die Angaben nach den §§ 5 bis 13 auch über die Person oder Gesellschaft, welche die Gewährleistung übernommen hat, aufzunehmen.
+Für das Angebot von Vermögensanlagen, für deren Verzinsung oder Rückzahlung eine juristische Person oder Gesellschaft die Gewährleistung übernommen hat, sind die Angaben nach den §§ 5 bis 13a auch über die Person oder Gesellschaft, welche die Gewährleistung übernommen hat, aufzunehmen.
 
 # § 15 – Verringerte Prospektanforderungen
 
@@ -301,7 +309,7 @@ Für das Angebot von Vermögensanlagen, für deren Verzinsung oder Rückzahlung 
 
 4. Planzahlen des Emittenten, insbesondere zu Investitionen, Produktion, Umsatz und Ergebnis, mindestens für das laufende und die folgenden drei Geschäftsjahre.
 
-Zu den Angaben nach den Nummern 3 und 4 sind die zugrunde liegenden wesentlichen Annahmen und Wirkungszusammenhänge in geeigneter Form zu erläutern.
+Die Einzelpositionen der Zwischenübersicht nach der Nummer 2 sind zu erläutern. Zu den Angaben nach den Nummern 3 und 4 sind die zugrunde liegenden wesentlichen Annahmen und Wirkungszusammenhänge in geeigneter Form zu erläutern.
 
 (2) Von der Aufnahme einzelner Angaben in den Verkaufsprospekt kann abgesehen werden, wenn
 
