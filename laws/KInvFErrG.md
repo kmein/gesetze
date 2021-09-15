@@ -35,7 +35,7 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 # § 8 – Auflösung
 
-Das Sondervermögen ist nach Erfüllung seiner gesetzlichen Aufgaben, spätestens mit Ablauf des Jahres 2025 aufzulösen. Ein verbleibendes Vermögen fällt dem Bund zu. Die Einzelheiten der Abwicklung des Sondervermögens nach seiner Auflösung bestimmt die Bundesregierung in einer Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
+Das Sondervermögen ist nach Erfüllung seiner gesetzlichen Aufgaben, spätestens mit Ablauf des Jahres 2027 aufzulösen. Ein verbleibendes Vermögen fällt dem Bund zu. Die Einzelheiten der Abwicklung des Sondervermögens nach seiner Auflösung bestimmt die Bundesregierung in einer Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 # Anlage – Anlage zu Art 1 § 5 Absatz 1
 

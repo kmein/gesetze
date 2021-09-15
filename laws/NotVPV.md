@@ -81,8 +81,6 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 (4) Für die bei der amtlichen Tätigkeit errichteten Urkunden ist die Verwahrzuständigkeit einzutragen. Die Abgabe von Notariatsakten an ein Staatsarchiv (§ 51 Absatz 5 der Bundesnotarordnung) lässt die Verwahrzuständigkeit im Sinne des Satzes 1 unberührt.
 
-(+++ § 3 Abs. 1 Nr. 2 u. 3: Zur Geltung vgl. § 5 Satz 2 +++)
-
 # § 4 – Frühere Amtspersonen
 
 Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind, werden nur die Angaben nach § 78l Absatz 3 Satz 1 Nummer 2, 3 und 5 der Bundesnotarordnung sowie die Angaben nach § 2 Absatz 1 bis 4 und § 3 Absatz 1 Nummer 1 bis 3 und Absatz 4 dieser Verordnung eingetragen.
@@ -102,8 +100,6 @@ Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen Tätigkeit ein
 (4) Stellt die Bundesnotarkammer den Aufsichtsbehörden für Eintragungen in das Notarverzeichnis eine Webanwendung zur Verfügung, gelten die Absätze 2 und 3 entsprechend.
 
 (5) Die Bundesnotarkammer trägt die Bezeichnung des besonderen elektronischen Notarpostfachs unverzüglich ein, nachdem sie dieses eingerichtet hat. Sie stellt den Amtspersonen für die Mitteilung der in § 2 Absatz 5 und § 3 Absatz 2 bezeichneten Angaben eine Webanwendung zur Verfügung und nimmt die entsprechenden Eintragungen unverzüglich vor, nachdem ihr die Mitteilungen zugegangen sind.
-
-(+++ § 6 Abs. 1 Satz 2 u. Abs. 2 bis 4: Zur Geltung vgl. § 7 Satz 2 +++)
 
 # § 7 – Berichtigungen
 

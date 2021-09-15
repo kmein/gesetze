@@ -65,6 +65,8 @@ Euro</td><td style="text-align: left;"><br />
 2 400 000 000<br />
 Euro.</td></tr></tbody></table>
 
+(2a) Zur finanziellen Beteiligung der Länder an der Bekämpfung der durch die Starkregenfälle und das Hochwasser im Juli 2021 verursachten Schäden und dem Wiederaufbau erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050; die in Absatz 2 genannten Beträge für die Länder verringern sich entsprechend um jeweils 233 333 333 Euro in den Jahren von 2021 bis 2050.
+
 (3) Diese Aufteilung der Umsatzsteuer gilt jeweils für alle Beträge, die während der Geltungsdauer des Beteiligungsverhältnisses vereinnahmt oder erstattet werden.
 
 (4) (weggefallen)

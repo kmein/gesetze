@@ -69,9 +69,9 @@ Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durc
 
 # § 5 – Förderzeitraum
 
-(1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2015 begonnen werden. Vor dem 1. Juli 2015 begonnene Investitionen, aber noch nicht abgeschlossene Maßnahmen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2022 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2021 vollständig abgenommen wurden und die im Jahr 2022 vollständig abgerechnet werden.
+(1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2015 begonnen werden. Vor dem 1. Juli 2015 begonnene Investitionen, aber noch nicht abgeschlossene Maßnahmen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2024 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2023 vollständig abgenommen wurden und die im Jahr 2024 vollständig abgerechnet werden.
 
-(2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren – im Folgenden Vorabfinanzierungs-ÖPP (Öffentlich Private Partnerschaft) –, Fördermittel für derartige Vorabfinanzierungs-ÖPP können bis zum 31. Dezember 2022 beantragt werden, wenn bis zum 31. Dezember 2023 die Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
+(2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren – im Folgenden Vorabfinanzierungs-ÖPP (Öffentlich Private Partnerschaft) –, Fördermittel für derartige Vorabfinanzierungs-ÖPP können bis zum 31. Dezember 2024 beantragt werden, wenn bis zum 31. Dezember 2025 die Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
 
 # § 6 – Förderquote und Bewirtschaftung
 
@@ -89,9 +89,9 @@ Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durc
 
 # § 8 – Rückforderung
 
-(1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen der §§ 3 bis 6 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich von Absatz 2 Satz 1 dem Land erneut zur Verfügung gestellt werden.
+(1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen der §§ 3 bis 6 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich von Absatz 2 Satz 1 dem Land erneut zur Verfügung gestellt werden. Von den Ländern nach § 6 Absatz 2 zur Auszahlung angeordnete Bundesmittel für Maßnahmen, die aufgrund von durch den Starkregen oder das Hochwasser im Juli 2021 unmittelbar verursachten Schäden nicht innerhalb des Förderzeitraums nach § 5 abgeschlossen werden können, sind dem Bund nicht zurückzuzahlen. Dies ist vom Land gegenüber dem Bund nachzuweisen.
 
-(2) Nach dem 31. Dezember 2022 dürfen Bundesmittel nicht mehr zur Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 5 Absatz 2 nicht mehr nach dem 31. Dezember 2023. Der Rückforderungsanspruch nach Absatz 1 bleibt unberührt.
+(2) Nach dem 31. Dezember 2024 dürfen Bundesmittel nicht mehr zur Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 5 Absatz 2 nicht mehr nach dem 31. Dezember 2025. Der Rückforderungsanspruch nach Absatz 1 bleibt unberührt.
 
 (3) Nach Absatz 1 zurückzuzahlende Mittel sind zu verzinsen. Werden Mittel entgegen § 6 Absatz 2 Satz 2 und 3 zu früh angewiesen, so sind für die Zeit der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen zu zahlen.
 
@@ -145,9 +145,9 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 
 # § 13 – Förderzeitraum
 
-(1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2017 begonnen werden. Vor dem 1. Juli 2017 begonnene, aber noch nicht abgeschlossene Investitionen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2024 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2023 vollständig abgenommen wurden und die im Jahr 2024 vollständig abgerechnet werden.
+(1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2017 begonnen werden. Vor dem 1. Juli 2017 begonnene, aber noch nicht abgeschlossene Investitionen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2026 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2025 vollständig abgenommen wurden und die im Jahr 2026 vollständig abgerechnet werden.
 
-(2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren. Fördermittel für derartige Vorabfinanzierungen der Öffentlich-Privaten Partnerschaften können bis zum 31. Dezember 2024 beantragt werden, wenn bis zum 31. Dezember 2025 die Abnahme und Abrechnung des Investitionsvorhabens erfolgen.
+(2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren. Fördermittel für derartige Vorabfinanzierungen der Öffentlich-Privaten Partnerschaften können bis zum 31. Dezember 2026 beantragt werden, wenn bis zum 31. Dezember 2027 die Abnahme und Abrechnung des Investitionsvorhabens erfolgen.
 
 # § 14 – Förderquote, Bewirtschaftung und Prüfung der Mittelverwendung
 
@@ -155,9 +155,9 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 
 # § 15 – Rückforderung
 
-(1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen des § 4 Absatz 1 und 2, des § 6 Absatz 1 und 2, des § 11 Absatz 2 und des § 12 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich des Absatzes 2 Satz 1 dem Land erneut zur Verfügung gestellt werden.
+(1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen des § 4 Absatz 1 und 2, des § 6 Absatz 1 und 2, des § 11 Absatz 2 und des § 12 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich des Absatzes 2 Satz 1 dem Land erneut zur Verfügung gestellt werden. Von den Ländern nach § 14 in Verbindung mit § 6 Absatz 2 zur Auszahlung angeordnete Bundesmittel für Maßnahmen, die aufgrund von durch den Starkregen oder das Hochwasser im Juli 2021 unmittelbar verursachten Schäden nicht innerhalb des Förderzeitraums nach § 5 abgeschlossen werden können, sind dem Bund nicht zurückzuzahlen. Dies ist vom Land gegenüber dem Bund nachzuweisen.
 
-(2) Nach dem 31. Dezember 2024 dürfen Bundesmittel nicht mehr zur Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 5 Absatz 2 nicht mehr nach dem 31. Dezember 2025. Der Rückforderungsanspruch nach Absatz 1 bleibt unberührt.
+(2) Nach dem 31. Dezember 2026 dürfen Bundesmittel nicht mehr zur Auszahlung angeordnet werden, bei Investitionsvorhaben nach § 5 Absatz 2 nicht mehr nach dem 31. Dezember 2027. Der Rückforderungsanspruch nach Absatz 1 bleibt unberührt.
 
 (3) Nach Absatz 1 zurückzuzahlende Mittel sind zu verzinsen. Werden Mittel entgegen § 6 Absatz 2 Satz 2 und 3 zu früh angewiesen, so sind für die Zeit der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen zu zahlen.
 

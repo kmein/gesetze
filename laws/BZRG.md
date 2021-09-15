@@ -77,9 +77,7 @@ Wird aus mehreren Einzelstrafen nachträglich eine Gesamtstrafe gebildet oder ei
 
 # § 8 – (weggefallen)
 
-# § 9
-
-\-
+# § 9 – (weggefallen)
 
 # § 10 – Entscheidungen von Verwaltungsbehörden und Gerichten
 
@@ -1070,11 +1068,3 @@ Soweit in anderen Vorschriften auf das Gesetz über beschränkte Auskunft aus de
 (4) Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, die vor dem 1. Mai 2010 in das Zentralregister eingetragen wurden, werden nach den Vorschriften dieses Gesetzes in der ab 1. Mai 2010 geltenden Fassung behandelt.
 
 (5) § 21 Satz 2 in der ab dem 29. Juli 2017 geltenden Fassung ist erst ab dem 1. Mai 2018 anzuwenden. Bis zum 30. April 2018 ist § 21a Satz 2 in der am 20. November 2015 geltenden Fassung weiter anzuwenden.
-
-# § 70
-
-(weggefallen)
-
-# § 71
-
-(weggefallen)

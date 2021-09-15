@@ -27,8 +27,6 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (4) Der Verwaltungsrat fasst seine Beschlüsse mit der Mehrheit der Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
 
-(5) (weggefallen)
-
 # § 3 – Aufgabenkommission
 
 (1) Die Aufgabenkommission besteht aus mindestens acht und höchstens zehn Mitgliedern. Mindestens sechs der Mitglieder sollen Notarin oder Notar sein.
