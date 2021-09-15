@@ -149,7 +149,15 @@ Das Gleiche gilt, wenn die Parteien nicht in demselben Land wohnen oder ihren Si
 
 (9) Auf Anträge auf Bestimmung eines Termins zur Abnahme der eidesstattlichen Versicherung, die vor dem 1. Januar 1999 gestellt worden sind, finden die §§ 807, 899, 900 der Zivilprozessordnung und § 20 Nr. 17 des Rechtspflegergesetzes in der jeweils bis zum 1. Januar 1999 geltenden Fassung Anwendung.
 
-# § 23 – (weggefallen)
+# § 23 – Schutz von Hochwasser-Soforthilfen vor Pfändungen auf Pfändungsschutzkonten
+
+(1) Staatliche Soforthilfen, die als Billigkeitsleistungen zur Überbrückung von Notlagen von Bürgern oder zur Milderung von Schäden der Unternehmen der Land- und Forstwirtschaft und der gewerblichen Wirtschaft sowie der Angehörigen freier Berufe und Selbstständigen, in den von den Starkregen- und Hochwasserereignissen im Juli 2021 betroffenen Gebieten gewährt werden, werden den in § 850k Absatz 2 Satz 1 der Zivilprozessordnung genannten Beträgen und Geldleistungen, die nicht von der Pfändung erfasst werden, gleichgestellt.
+
+(2) Das Kreditinstitut ist dem Schuldner auch dann zur Leistung aus dem Guthaben für die nach Absatz 1 nicht von der Pfändung erfassten Soforthilfen im Rahmen des vertraglich Vereinbarten verpflichtet, wenn der Schuldner durch Vorlage des Bewilligungsbescheides oder eines Kontoauszuges nachweist, dass das Guthaben nicht von der Pfändung erfasst ist.
+
+(3) Das Guthaben auf Grund von Soforthilfen auf einem Pfändungsschutzkonto wird bis zum Ablauf des dritten Kalendermonats, der auf den Monat der Gutschrift folgt, nicht von der Pfändung erfasst.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Pfändungen wegen Rückforderungen von Soforthilfen im Sinne des Absatzes 1.
 
 # § 24
 

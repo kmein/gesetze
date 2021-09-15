@@ -300,6 +300,7 @@
 - [AÜGMeldstellV](laws/AÜGMeldstellV.md) Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes
 - [AÜKostV](laws/AÜKostV.md) Verordnung über die Kosten der Erlaubnis zur Arbeitnehmerüberlassung
 - [AufbauhfV](laws/AufbauhfV.md) Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes
+- [AufbhEG 2021](laws/AufbhEG_2021.md) Gesetz zur Errichtung eines Sondervermögens „Aufbauhilfe 2021“
 - [AufbhG](laws/AufbhG.md) Gesetz zur Errichtung eines Sondervermögens „Aufbauhilfe“
 - [AufbhV](laws/AufbhV.md) Verordnung über die Verteilung und Verwendung der Mittel des Fonds „Aufbauhilfe“
 - [AufenthG](laws/AufenthG.md) Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet 1)
@@ -1122,6 +1123,7 @@
 - [BPräsUnifAnO](laws/BPräsUnifAnO.md) Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldaten
 - [BPräsWahlG](laws/BPräsWahlG.md) Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
 - [BPräsWehrDGerKldgAnO](laws/BPräsWehrDGerKldgAnO.md) Anordnung des Bundespräsidenten über die Amtstracht bei den Wehrdienstgerichten
+- [BPrDGrUnifAnO](laws/BPrDGrUnifAnO.md) Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldatinnen und Soldaten
 - [BQFG](laws/BQFG.md) Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen
 - [BRAO](laws/BRAO.md) Bundesrechtsanwaltsordnung
 - [BRAO§206DV](laws/BRAO§206DV.md) Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung
@@ -2191,6 +2193,7 @@
 - [FlurbG](laws/FlurbG.md) Flurbereinigungsgesetz
 - [FluSiGebVbg](laws/FluSiGebVbg.md) Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren
 - [FlUStatV](laws/FlUStatV.md) Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung
+- [FluthilfeInsoAntrAussG 2021-07](laws/FluthilfeInsoAntrAussG_2021-07.md) Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht wegen Starkregenfällen und Hochwassern im Juli 2021
 - [FluthilfeMedErl](laws/FluthilfeMedErl.md) Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille "Fluthilfe 2002"
 - [FluthilfeMedErl 2013](laws/FluthilfeMedErl_2013.md) Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille „Fluthilfe 2013“
 - [FlUUG](laws/FlUUG.md) Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler Luftfahrzeuge
@@ -6171,6 +6174,7 @@
 - [WSF-KostV](laws/WSF-KostV.md) Verordnung über die Erstattung von Kosten, die im Rahmen der Durchführung von Maßnahmen des Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz entstehen
 - [WSF-ÜV](laws/WSF-ÜV.md) Verordnung zur Verwaltung des Wirtschaftsstabilisierungsfonds und zur Übertragung von Aufgaben auf die Kreditanstalt für Wiederaufbau nach § 20 des Stabilisierungsfondsgesetzes
 - [WSG](laws/WSG.md) Wehrsoldgesetz
+- [WSG2020§7Satz2Bek 2021](laws/WSG2020§7Satz2Bek_2021.md) Bekanntmachung zur Anpassung des Wehrsoldes nach § 7 Satz 2 des Wehrsoldgesetzes
 - [WStatG](laws/WStatG.md) Gesetz über die allgemeine und die repräsentative Wahlstatistik bei der Wahl zum Deutschen Bundestag und bei der Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
 - [WStBG](laws/WStBG.md) Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“
 - [WStG](laws/WStG.md) Wehrstrafgesetz
