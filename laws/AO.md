@@ -6536,9 +6536,9 @@ Dies gilt auch dann, wenn der Steuerbescheid durch Einspruchsentscheidung bestä
 
 (1) Steuerbescheide sind aufzuheben oder zu ändern,
 
-1. soweit Tatsachen oder Beweismittel nachträglich bekanntwerden, die zu einer höheren Steuer führen,
+1. soweit Tatsachen oder Beweismittel nachträglich bekannt werden, die zu einer höheren Steuer führen,
 
-2. soweit Tatsachen oder Beweismittel nachträglich bekanntwerden, die zu einer niedrigeren Steuer führen und den Steuerpflichtigen kein grobes Verschulden daran trifft, dass die Tatsachen oder Beweismittel erst nachträglich bekannt werden. Das Verschulden ist unbeachtlich, wenn die Tatsachen oder Beweismittel in einem unmittelbaren oder mittelbaren Zusammenhang mit Tatsachen oder Beweismitteln im Sinne der Nummer 1 stehen.
+2. soweit Tatsachen oder Beweismittel nachträglich bekannt werden, die zu einer niedrigeren Steuer führen und den Steuerpflichtigen kein grobes Verschulden daran trifft, dass die Tatsachen oder Beweismittel erst nachträglich bekannt werden. Das Verschulden ist unbeachtlich, wenn die Tatsachen oder Beweismittel in einem unmittelbaren oder mittelbaren Zusammenhang mit Tatsachen oder Beweismitteln im Sinne der Nummer 1 stehen.
 
 (2) Abweichend von Absatz 1 können Steuerbescheide, soweit sie auf Grund einer Außenprüfung ergangen sind, nur aufgehoben oder geändert werden, wenn eine Steuerhinterziehung oder eine leichtfertige Steuerverkürzung vorliegt. Dies gilt auch in den Fällen, in denen eine Mitteilung nach § 202 Abs. 1 Satz 3 ergangen ist.
 

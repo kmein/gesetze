@@ -485,7 +485,7 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 (13) Konzernangehörige Unternehmen im Sinne des § 290 des Handelsgesetzbuchs gelten als ein Vertragspartner.
 
-(14) Die Kapitalverwaltungsgesellschaft kann bei Nutzung eines organisierten Wertpapier-Darlehenssystems gemäß § 202 des Kapitalanlagegesetzbuches von Absatz 7 Satz 1 Nummer 5, 6 und 10 sowie Absatz 9 abweichen, wenn die Wahrung der Interessen der Anleger mittels einer entsprechenden Anwendung der Vorgaben durch System gewährleistet ist.
+(14) Die Kapitalverwaltungsgesellschaft kann bei Spezial-AIF im Falle der Nutzung eines organisierten Wertpapier-Darlehenssystems gemäß § 202 des Kapitalanlagegesetzbuches von Absatz 7 Satz 1 Nummer 5, 6 und 10 sowie Absatz 9 abweichen, wenn die Wahrung der Interessen der Anleger mittels einer entsprechenden Anwendung der Vorgaben durch das System gewährleistet ist.
 
 # § 28 – Allgemeine Vorschriften
 

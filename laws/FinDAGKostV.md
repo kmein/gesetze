@@ -157,6 +157,12 @@ Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnun
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) Nr. 346/2013
 
+ 
+
+4.5
+
+Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2015/760
+
 5\.
 
 Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierhandelsgesetzes (WpHG)
@@ -1983,10 +1989,9 @@ Maßnahmen bei Gefahr, je Maßnahme
 4.1.2.8
 
 Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertpapierhandelsgesetzes  
-(§ 38 Absatz 4 Satz 6 KAGB;  
-§ 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB)
+(§ 38 Absatz 4 Satz 5 KAGB; § 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB; § 54 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB)
 
-290
+280
 
 4.1.3
 
@@ -2130,9 +2135,10 @@ Genehmigung von Master-Feeder-Strukturen
 4.1.5.2.1
 
 Genehmigung der Anlage eines Feederfonds in einen Masterfonds  
-(§ 171 Absatz 1 und 5 KAGB)
+(§ 171 Absatz 1 und 5 KAGB oder § 272a Absatz 2 und 4 KAGB)
 
-3 235
+3 235  
+je Tatbestand
 
 4.1.5.2.2
 
@@ -2143,11 +2149,11 @@ Genehmigungen nach
 § 179 Absatz 2 Satz 1 und 2 Nummer 1 KAGB,  
 § 179 Absatz 2 Satz 1 und 2 Nummer 2 KAGB,  
 § 179 Absatz 2 Satz 1 und 2 Nummer 3 KAGB oder  
-§ 179 Absatz 2 Satz 1 und 2 Nummer 4, Absatz 4 KAGB
+§ 179 Absatz 2 Satz 1 und 2 Nummer 4, Absatz 4 KAGB  
+§ 272a Absatz 5, § 272g Absatz 2 KAGB
 
 1 010  
-je  
-Tatbestand
+je Tatbestand
 
 4.1.5.2.3
 
@@ -2251,8 +2257,7 @@ bis
 
 4.1.7.1.4
 
-Prüfung der Anzeige der Einstellung des Vertriebs nach § 311 Absatz 6 KAGB;  
-bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
+Prüfung der geänderten Angaben und Unterlagen bei Widerruf des Vertriebs hinsichtlich einzelner Teilinvestmentvermögen oder Anteilklassen nach § 295a Absatz 5 Satz 3 in Verbindung mit § 310 Absatz 4 Satz 1
 
 280
 
@@ -2295,7 +2300,12 @@ von Anteilen oder Aktien an inländischen Publikums-AIF im Inland nach § 316 Ab
 von Anteilen oder Aktien an EU-AIF oder ausländischen AIF nach § 320 Absatz 4 KAGB oder
 
 –  
-nach § 331 Absatz 7 in Verbindung mit § 321 Absatz 4 KAGB;
+nach § 331 Absatz 8 KAGB;
+
+1 000  
+bis  
+15 000  
+je Tatbestand
 
 der Aufnahme des Vertriebs nach
 
@@ -2314,13 +2324,9 @@ nach § 329 Absatz 4 in Verbindung mit § 321 Absatz 3 KAGB;
 –  
 nach § 330 Absatz 4 in Verbindung mit § 316 Absatz 3 KAGB;
 
-bei Umbrella-Konstruktionen je Teilinvestmentvermögen gesondert
+bei Umbrella-Konstruktionen je Teilinvestmentvermögen
 
-1 000  
-bis  
-15 000  
-je  
-Tatbestand
+ 
 
 4.1.7.2.2
 
@@ -2472,6 +2478,30 @@ Prüfung der Anzeige eines neuen Fonds für soziales Unternehmertum (EuSEF) nach
 4.4.3
 
 Untersagung des Vertriebs nach Artikel 19 Absatz 3 der Verordnung (EU) Nr. 346/2013
+
+1 000 bis 15 000
+
+4.5
+
+Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2015/760
+
+ 
+
+4.5.1
+
+Genehmigung zur Verwaltung eines europäischen langfristigen Investmentfonds (ELTIF) nach Artikel 5 der Verordnung (EU) 2015/760
+
+7 235
+
+4.5.2
+
+Prüfung der Anzeige nach Art. 31 der Verordnung (EU) 2015/760
+
+1 610
+
+4.5.3
+
+Untersagung des Vertriebs nach Artikel 31 Absatz 6 der Verordnung (EU) 2015/760
 
 1 000 bis 15 000
 

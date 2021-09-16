@@ -69,11 +69,14 @@ Bei der Prüfung ist den Grundsätzen der risikoorientierten Prüfung und der We
 
 (2) Wurde im Berichtszeitraum eine Prüfung gemäß § 14 des Kapitalanlagegesetzbuches in Verbindung mit § 44 Absatz 1 Satz 2 des Kreditwesengesetzes durchgeführt, so hat der Abschlussprüfer die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der Prüfung gemäß § 14 des Kapitalanlagegesetzbuches in Verbindung mit § 44 Absatz 1 Satz 2 des Kreditwesengesetzes waren, kann sich die aufsichtsrechtliche Berichterstattung auf Veränderungen bis zum Bilanzstichtag der Gesellschaft beschränken.
 
-(3) Soweit die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) im Einzelfall gegenüber der Kapitalverwaltungsgesellschaft Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen im Überblick und die insoweit vorgenommenen Feststellungen im Einzelnen darzustellen.
+(3) Soweit die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber der Kapitalverwaltungsgesellschaft Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen im Überblick und die insoweit vorgenommenen Feststellungen im Einzelnen darzustellen.
 
 (4) Der Umfang der Berichterstattung unterliegt, soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, dem pflichtgemäßen Ermessen des Abschlussprüfers und hat der Bedeutung der dargestellten Vorgänge zu entsprechen. Über bedeutsame Veränderungen gegenüber dem letzten Berichtszeitraum ist stets zu berichten.
 
-(5) Die Prüfungsberichte sind der Bundesanstalt in dreifacher Ausfertigung an den Dienstsitz in Frankfurt am Main einzureichen. Mindestens ein Exemplar ist vom Abschlussprüfer eigenhändig zu unterzeichnen und entsprechend zu kennzeichnen. Ein Exemplar ist in elektronischer Fassung einzureichen. Spezial-AIF müssen die Prüfungsberichte nach Satz 1 nur einreichen, wenn sie dazu von der Bundesanstalt aufgefordert werden.
+(5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit erschwerende Wasserzeichen oder ähnliches enthalten darf, ist der Bundesanstalt ausschließlich elektronisch über ein von ihr bereitgestelltes elektronisches Kommunikationsverfahren<span id="FnR.F816665_02"></span><a href="#F816665_02" class="FnR">*</a></sup> zu übermitteln. Berichte über die Prüfung von Spezial-AIF sind der Bundesanstalt nur einzureichen, wenn diese das verlangt.
+
+<span id="FnA1-F816665_01"></span><a href="#FnR.FnA1-F816665_01" class="Footnote">*</a>  
+Amtlicher Hinweis: Im Internet abrufbar unter https://portal.mvp.bafin.de/MvpPortalWeb/app/login.html
 
 # § 4 – Anlagen und Unzulässigkeit von Verweisungen
 
@@ -210,6 +213,16 @@ Die Darstellung nach Satz 1 Nummer 1 hat zu erfolgen, soweit sie zulässig ist n
 (4) Soweit die Besicherung gruppeninterner Transaktionen nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012 als nicht notwendig erachtet wurde, ist zu beurteilen, ob die Voraussetzungen für die Ausnahme von dieser Besicherungspflicht vorliegen. Wurde eine gruppeninterne Transaktion von der Besicherungspflicht durch die Bundesanstalt befreit, so ist zu beurteilen, ob die organisatorischen Maßnahmen angemessen sind zur Gewährleistung, dass die Voraussetzungen für diese Befreiung vorliegen, einschließlich der Veröffentlichungspflicht nach Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für indirekte Clearingvereinbarungen, die Clearingpflicht, das öffentliche Register, den Zugang zu einem Handelsplatz, nichtfinanzielle Gegenparteien und Risikominderungstechniken für nicht durch eine CCP geclearte OTC-Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11).
 
 (5) Darüber hinaus hat der Abschlussprüfer die Besicherung bilateraler Kontrakte darzustellen und zu beurteilen.
+
+# § 14a – Einhaltung der Pflichten nach der Verordnung (EU) 2019/2088 und nach der Verordnung (EU) 2020/852
+
+Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen
+
+1. nach den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, und
+
+2. nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13),
+
+zu beurteilen.
 
 # § 15 – Geschäftliche Entwicklung im Berichtsjahr
 
@@ -561,7 +574,7 @@ Im Prüfungsbericht ist zu beurteilen, ob die getroffenen organisatorischen Vork
 
 # § 44 – Anwendbare Vorschriften
 
-(1) Auf die Prüfung der Investmentaktiengesellschaft und der Investmentkommanditgesellschaft sind die §§ 5, 6, 10 bis 13 Absatz 1 bis 5, die §§ 14, 25 Absatz 3 sowie die §§ 26 bis 33 entsprechend anzuwenden, soweit sich aus den Vorschriften dieses Kapitels nichts anderes ergibt. Auf die intern verwaltete Investmentgesellschaft sind darüber hinaus § 8 Absatz 4 sowie in Bezug auf die für den Betrieb der Investmentgesellschaft notwendigen Vermögensgegenstände und Schulden (Investmentbetriebsvermögen) die §§ 15 bis 20 entsprechend anzuwenden; in Bezug auf die dem Sondervermögen vergleichbaren Vermögensgegenstände und Schulden (Investmentanlagevermögen) sind die §§ 21, 22 und 33 entsprechend anzuwenden.
+(1) Auf die Prüfung der Investmentaktiengesellschaft und der Investmentkommanditgesellschaft sind die §§ 5, 6, 14, 14a und 25 Absatz 3 sowie die §§ 26 bis 33 entsprechend anzuwenden, soweit sich aus den Vorschriften dieses Kapitels nichts anderes ergibt. Auf die intern verwaltete Investmentgesellschaft sind darüber hinaus § 8 Absatz 4, die §§ 10, 12, 13 und hinsichtlich des die Investmentgesellschaft betreffenden Anzeige- und Meldewesens § 11 anzuwenden. In Bezug auf die für den Betrieb der Investmentgesellschaft notwendigen Vermögensgegenstände und Schulden (Investmentbetriebsvermögen) sind die §§ 15 bis 20 entsprechend anzuwenden. In Bezug auf die dem Sondervermögen vergleichbaren Vermögensgegenstände und Schulden (Investmentanlagevermögen) sind die §§ 21, 22 und 33 entsprechend anzuwenden.
 
 (2) Die in Absatz 1 genannten Vorschriften sind bei der Investmentaktiengesellschaft mit folgenden Maßgaben entsprechend anzuwenden:
 
