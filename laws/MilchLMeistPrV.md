@@ -1,4 +1,4 @@
-% Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Molkereimeister – Bachelor Professional in Milchtechnologie und Molkereimeisterin – Bachelor Professional in Milchtechnologie  (Molkereimeister-Prüfungsverordnung - MolkMeistPrV)
+% Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Milchwirtschaftlicher Labormeister – Bachelor Professional im milchwirtschaftlichen Laborwesen und Milchwirtschaftliche Labormeisterin – Bachelor Professional im milchwirtschaftlichen Laborwesen  (Milchwirtschaftlicher-Labormeister-Prüfungsverordnung - MilchLMeistPrV)
 % Ausfertigungsdatum: 07.09.2021
  
 # Eingangsformel
@@ -49,71 +49,69 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3 Nummer 1 un
 
  
 
- 
-
 # § 1 – Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
 
-(1) Mit der Prüfung zum anerkannten Fortbildungsabschluss „Molkereimeister – Bachelor Professional in Milchtechnologie“ und „Molkereimeisterin – Bachelor Professional in Milchtechnologie“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
+(1) Mit der Prüfung zum anerkannten Fortbildungsabschluss „Milchwirtschaftlicher Labormeister – Bachelor Professional im milchwirtschaftlichen Laborwesen“ und „Milchwirtschaftliche Labormeisterin – Bachelor Professional im milchwirtschaftlichen Laborwesen“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
 (2) Die Prüfung wird von der zuständigen Stelle durchgeführt.
 
-(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Bachelor Professional in Milchtechnologie“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Molkereimeister“ oder „Molkereimeisterin“ vorangestellt.
+(3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Bachelor Professional im milchwirtschaftlichen Laborwesen“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Milchwirtschaftlicher Labormeister“ oder „Milchwirtschaftliche Labormeisterin“ vorangestellt.
 
 # § 2 – Qualifizierungsbereiche
 
 (1) Die Prüfung findet in folgenden Qualifizierungsbereichen statt:
 
-1. Milchtechnologie und Molkereiwirtschaft,
+1. Labormanagement,
 
 2. Betriebswirtschaft sowie
 
 3. Personal und Qualifizierung.
 
-Den Qualifizierungsbereichen sind die in Absatz 2 genannten Fach- und Führungsfunktionen zugeordnet. Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, diese Fach- und Führungsfunktionen in unterschiedlich strukturierten Unternehmen der Molkereiwirtschaft und in Behörden und Einrichtungen der Lebensmittelüberwachung zu übernehmen, in denen zu verantwortende Leitungsprozesse eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Der Molkereimeister oder die Molkereimeisterin soll auch die in Satz 3 bezeichneten Unternehmen, Behörden und Einrichtungen oder Teile von ihnen eigenverantwortlich führen sowie auf sich verändernde Anforderungen und Rahmenbedingungen reagieren können. Des Weiteren ist in der Prüfung festzustellen, ob die zu prüfende Person in der Lage ist, die Berufsausbildung im Beruf Milchtechnologe und Milchtechnologin durchzuführen.
+Den Qualifizierungsbereichen sind die in Absatz 2 genannten Fach- und Führungsfunktionen zugeordnet. Durch die Prüfung ist festzustellen, ob die zu prüfende Person in der Lage ist, diese Fach- und Führungsfunktionen in unterschiedlich strukturierten Unternehmen, in Behörden und in Einrichtungen der Lebensmitteluntersuchung und -überwachung zu übernehmen, in denen zu verantwortende Leitungsprozesse eigenständig gesteuert werden, eigenständig ausgeführt werden und dafür Mitarbeiter und Mitarbeiterinnen geführt werden. Der Milchwirtschaftliche Labormeister oder die Milchwirtschaftliche Labormeisterin soll auch die in Satz 3 bezeichneten Unternehmen, Behörden und Einrichtungen oder Teile von ihnen eigenverantwortlich führen sowie auf sich verändernde Anforderungen und Rahmenbedingungen reagieren können. Des Weiteren ist in der Prüfung festzustellen, ob die zu prüfende Person in der Lage ist, die Berufsausbildung im Beruf Milchwirtschaftlicher Laborant und Milchwirtschaftliche Laborantin durchzuführen.
 
 (2) Die Qualifizierungsbereiche umfassen die im Folgenden zugeordneten Fach- und Führungsfunktionen:
 
-1. Qualifizierungsbereich Milchtechnologie und Molkereiwirtschaft:
+1. Qualifizierungsbereich Labormanagement:
 
-a) Planen, Organisieren und Überwachen des Betriebsablaufs, der Be- und Verarbeitung von Milch sowie der Herstellung von Milchprodukten,
+a) Auswählen, Anwenden und Aktualisieren von chemischen, physikalischen, mikrobiologischen sowie sensorischen Untersuchungsmethoden,
 
-b) Überwachen und Steuern von Produktionsverfahren und Prozessen unter Berücksichtigung der chemischen, physikalischen und mikrobiologischen Eigenschaften von Milch und Milchprodukten,
+b) Erstellen, Verifizieren und Validieren von Untersuchungsmethoden und Prüfplänen,
 
-c) Beurteilen der Qualität der Roh-, Zusatz- und Hilfsstoffe in der Be- und Verarbeitung von Milch,
+c) Planen, Anwenden und Weiterentwickeln des Qualitätsmanagements,
 
-d) Entwickeln, Umsetzen und Kontrollieren betrieblicher Qualitätsmanagementsysteme und Hygienekonzepte,
+d) Dokumentieren und Bewerten von Untersuchungsergebnissen,
 
-e) Beurteilen und Ausrichten der milchwirtschaftlichen Produktion an Nachhaltigkeitsaspekten, insbesondere in Bezug auf Wasser, Abwasser und Energiebedarf,
+e) Nutzen von Möglichkeiten der Digitalisierung in betrieblichen Abläufen,
 
-f) Durchführen, Kontrollieren und Bewerten der betrieblichen Maßnahmen und Arbeiten unter Beachtung der Anforderungen des Arbeitsschutzes und der Unfallverhütung,
+f) Beurteilen und Ausrichten der milchwirtschaftlichen Laborarbeit und Produktion an Nachhaltigkeitsaspekten,
 
-g) Umsetzen der Anforderungen des Verbraucherschutzes und der Lebensmittelsicherheit,
+g) Durchführen, Kontrollieren und Bewerten der betrieblichen Maßnahmen und Arbeiten unter Beachtung der Anforderungen des Arbeitsschutzes und der Unfallverhütung,
 
-h) Entwickeln und Optimieren von Produkten und deren Einführung in Produktionsprozesse,
+h) Anwenden von Methoden des Reklamationsmanagements sowie
 
-i) Nutzen von Möglichkeiten der Digitalisierung in betrieblichen Abläufen;
+i) Umsetzen der Anforderungen des Verbraucherschutzes und der Lebensmittelsicherheit;
 
 2. Qualifizierungsbereich Betriebswirtschaft:
 
-a) Analysieren, Planen und Beurteilen von betrieblichen Abläufen und der Betriebsorganisation nach wirtschaftlichen Gesichtspunkten unter Beachtung rechtlicher Erfordernisse sowie der Prinzipien der Nachhaltigkeit,
+a) Analysieren, Planen und Beurteilen der betrieblichen Abläufe und der Labororganisation nach wirtschaftlichen Gesichtspunkten unter Beachtung rechtlicher Erfordernisse sowie der Prinzipien der Nachhaltigkeit,
 
-b) Anwenden der kaufmännischen Disposition beim Beschaffen von Betriebsmitteln und Dienstleistungen sowie beim Arbeitskräfte-, Material- und Maschineneinsatz,
+b) Anwenden der kaufmännischen Disposition beim Beschaffen von Betriebsmitteln und Dienstleistungen, beim Einsatz von Arbeitskräften, von Material und Geräten sowie bei der Vermarktung von Produkten und Dienstleistungen,
 
-c) Vermarkten von Produkten und Dienstleistungen, Umsetzen von Marketingkonzepten,
+c) Durchführen der ökonomischen Kontrolle der Untersuchungen und des Laborbereiches,
 
-d) Durchführen der ökonomischen Kontrolle und Steuerung der Betriebsteile und des Unternehmens,
+d) Planen, Kalkulieren und Beurteilen von Investitionen,
 
-e) Planen, Kalkulieren und Beurteilen von Investitionen,
+e) Zusammenarbeiten mit Verbänden, Behörden und Institutionen sowie mit Marktteilnehmern und anderen Betrieben,
 
-f) Zusammenarbeiten mit Verbänden, Behörden und Institutionen sowie mit Marktteilnehmern und anderen Betrieben,
+f) Nutzen von Information, Beratung und Förderung im Sinne der Laboroptimierung,
 
-g) Nutzen der Möglichkeiten von Information, Beratung und Förderung,
+g) Umsetzen der Vorschriften zum Datenschutz und zur Datensicherheit,
 
-h) Umsetzen von Vorschriften zum Datenschutz und zur Datensicherheit,
+h) Planen, Umsetzen und Beurteilen von Maßnahmen in Qualitätsmanagementsystemen,
 
-i) Prüfen und Umsetzen der Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse,
+i) Planen, Bewerten und Fortschreiben der Labor- und Arbeitsorganisation,
 
-j) Planen, Umsetzen und Beurteilen von Maßnahmen des Qualitätsmanagements,
+j) Prüfen und Umsetzen von Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse sowie
 
 k) Planen und Steuern von Betriebsentwicklung, Finanzierung und Liquidität;
 
@@ -151,13 +149,13 @@ m) Beachten von Vorschriften zum Datenschutz und zur Datensicherheit.
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
-1. eine erfolgreich abgelegte Abschlussprüfung in einem der anerkannten Ausbildungsberufe Milchtechnologe/Milchtechnologin oder Milchwirtschaftlicher Laborant und Milchwirtschaftliche Laborantin,
+1. eine erfolgreich abgelegte Abschlussprüfung in den anerkannten Ausbildungsberufen Milchwirtschaftlicher Laborant und Milchwirtschaftliche Laborantin oder Milchtechnologe/Milchtechnologin,
 
 2. eine erfolgreich abgelegte Abschlussprüfung in einem anderen anerkannten Ausbildungsberuf und eine auf die Berufsausbildung folgende, mindestens dreijährige Berufspraxis oder
 
 3. eine mindestens fünfjährige Berufspraxis.
 
-(2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss im Bereich der Molkereiwirtschaft nachgewiesen werden. Die Berufspraxis muss in Bezug auf die Tätigkeiten in der Molkereiwirtschaft einschlägig sein.
+(2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss in milchwirtschaftlichen Laboren oder in Laboren, die vergleichbare Technologien und Untersuchungsverfahren anwenden, nachgewiesen werden. Die Berufspraxis muss in Bezug auf milchwirtschaftliche Laborarbeiten einschlägig sein.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, eine berufliche Handlungsfähigkeit erworben zu haben, die die Zulassung zur Prüfung rechtfertigt.
 
@@ -165,9 +163,9 @@ m) Beachten von Vorschriften zum Datenschutz und zur Datensicherheit.
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
-1. Prozess- und Verfahrenstechnik,
+1. Untersuchungs- und Labortechnik,
 
-2. Betriebs- und Unternehmensführung und
+2. Labor- und Unternehmensführung und
 
 3. Berufsausbildung und Mitarbeiterführung.
 
@@ -177,61 +175,49 @@ Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1 dargestell
 
 # § 6 – Anforderungen und Prüfungsinhalte
 
-(1) Im Prüfungsteil Prozess- und Verfahrenstechnik hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
+(1) Im Prüfungsteil Untersuchungs- und Labortechnik hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
 
-1. chemische, physikalische und mikrobiologische Eigenschaften von Milch und Milchprodukten in Bearbeitungs- und Herstellungsprozessen zu beurteilen,
+1. Analysedaten zu beurteilen und dabei chemische, physikalische, mikrobiologische, sensorische und technologische Zusammenhänge zu beachten,
 
-2. Verfahrenstechnologien anzuwenden und zu optimieren,
+2. Untersuchungsverfahren auszuwählen, anzuwenden und anzupassen,
 
-3. Hygienemaßnahmen zu bestimmen, durchzusetzen und zu kontrollieren,
+3. Laborabläufe zu strukturieren und zu optimieren,
 
-4. Prozesse und Betriebsabläufe zu organisieren, umzusetzen und zu optimieren,
+4. Geräte, Verbrauchsmittel und Chemikalien auf ihre Eignung zu prüfen,
 
-5. Qualitätsmanagementsysteme zu erstellen, zu gestalten, umzusetzen und zu verifizieren,
+5. Prüfpläne zu erstellen,
 
-6. Energiesysteme zu beurteilen und nachhaltig zu nutzen,
+6. Validität der Ergebnisse von Analysen zu prüfen und sicherzustellen,
 
-7. Arbeitsplätze zu gestalten, Arbeitsschutz sicherzustellen und Maßnahmen der Unfallverhütung umzusetzen,
+7. Produktqualität zu sichern,
 
-8. Steuerungssysteme der Produktion zu parametrieren und anzuwenden,
+8. Qualitätsmanagementsysteme zu erarbeiten und anzuwenden sowie
 
-9. Wartung und Instandhaltung der Anlagen und Produktionsräume sicherzustellen,
+9. Hygienemaßnahmen festzulegen, umzusetzen und zu kontrollieren.
 
-10. Ergebnisse von Laboruntersuchungen zu bewerten und entsprechende Maßnahmen einzuleiten,
-
-11. betriebliche Dokumentationen durchzuführen und zu überwachen,
-
-12. Lebensmittelsicherheit zu gewährleisten,
-
-13. Produkte zu entwickeln und diese zu implementieren sowie
-
-14. Möglichkeiten der Digitalisierung zu nutzen.
-
-Die zu prüfende Person hat bei der Durchführung der Tätigkeiten nach Satz 1 außerdem nachzuweisen, dass sie in der Lage ist, den Einsatz von Arbeitskräften, Maschinen, Anlagen, Roh-, Zusatz- und Hilfsstoffen zu planen, zu organisieren, durchzuführen, zu kontrollieren und zu beurteilen.
-
-(2) Bei der Prüfung soll die zu prüfende Person auch zeigen, dass sie die Tätigkeiten nach Absatz 1 unter Beachtung der Erfordernisse des Gesundheits- und Verbraucherschutzes und der Nachhaltigkeit, der Anforderungen des Marktes und berufsbezogener Rechtsvorschriften als Führungskraft ausüben kann.
+(2) Bei der Prüfung soll die zu prüfende Person auch zeigen, dass sie die Tätigkeiten nach Absatz 1 unter Beachtung der Lebensmittelsicherheit, des Verbraucher- und Gesundheitsschutzes, der Arbeitssicherheit, berufsbezogener Rechtsvorschriften, der Wirtschaftlichkeit, der Anforderungen des Marktes, der Produktion, der Erfordernisse des Umweltschutzes, der Nachhaltigkeit sowie der Qualitätssicherung als Führungskraft durchführen kann.
 
 (3) Die Prüfung erstreckt sich auf folgende Inhalte:
 
-1. Steuern der Einflussfaktoren von biologischen, chemischen und physikalischen Prozessen bei der Bearbeitung von Milch und bei der Herstellung von Milchprodukten,
+1. Auswählen, Verifizieren und Validieren von chemischen, physikalischen, mikrobiologischen sowie sensorischen Untersuchungsmethoden,
 
-2. Beurteilen und Auswählen von Roh-, Zusatz- und Hilfsstoffen,
+2. Erstellen, Verifizieren und Validieren von Prüfplänen unter Berücksichtigung der milchwirtschaftlichen Produktionstechnologien,
 
-3. Planen und Durchführen von milchwirtschaftlichen Produktionsverfahren und Herstellungsprozessen unter Berücksichtigung von betrieblichen Zielen, Vorgaben und Kennzahlen,
+3. Planen, Anwenden und Weiterentwickeln des Qualitätsmanagements,
 
-4. Planen, Umsetzen und Bewerten des Arbeits- und Gesundheitsschutzes der Beschäftigten bei Produktionsprozessen,
+4. Bewerten von Untersuchungsergebnissen sowie Einleiten der daraus resultierenden Maßnahmen,
 
-5. Erarbeiten, Anwenden und Bewerten von Energiekonzepten für die Bearbeitung von Milch und bei den Herstellungsprozessen von Milchprodukten,
+5. Umsetzen berufsbezogener Rechtsvorschriften insbesondere jener mit Bezug zur Lebensmittelsicherheit und zum Verbraucherschutz,
 
-6. Planen, Durchführen, Weiterentwickeln und Beurteilen der Herstellungsprozesse von Milchprodukten nach betrieblichen Hygiene- und Qualitätsvorgaben,
+6. Nutzen von Möglichkeiten der Digitalisierung in betrieblichen Abläufen,
 
-7. Entwickeln, Umsetzen und Kontrollieren von Qualitätskonzepten,
+7. Beurteilen, Ausrichten und Optimieren der milchwirtschaftlichen Laborarbeit auch unter Nachhaltigkeitsaspekten,
 
-8. Beurteilen und Optimieren von Betriebsabläufen und Herstellungsprozessen,
+8. Einleiten, Kontrollieren und Bewerten von Maßnahmen und Abläufen im Labor unter Beachtung der Anforderungen des Arbeits- und Gesundheitsschutzes sowie der Unfallverhütung,
 
-9. Erfassen, Beurteilen und Festlegen von produktionstechnischen Kennzahlen sowie
+9. Erfassen und Bewerten von Reklamationen und Steuern der Bearbeitungsprozesse sowie
 
-10. Planen, Umsetzen und Kontrollieren der Wartung und Instandhaltung von Anlagen.
+10. Erarbeiten und Umsetzen betrieblicher Hygienekonzepte.
 
 # § 7 – Prüfungsbestandteile
 
@@ -243,13 +229,13 @@ Die Prüfung besteht aus
 
 # § 8 – Arbeitsprojekt
 
-(1) Mit der Durchführung des Arbeitsprojektes hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, ausgehend von einer konkreten betrieblichen Situation die komplexen Zusammenhänge milchwirtschaftlicher Unternehmen und artverwandter Unternehmen der Lebensmittelverarbeitung zu erfassen und zu analysieren sowie Lösungsvorschläge für betriebliche Aufgaben zu erstellen und diese umzusetzen.
+(1) Mit der Durchführung des Arbeitsprojektes hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, ausgehend von einer konkreten betrieblichen Situation die komplexen Zusammenhänge in einem milchwirtschaftlichen Labor oder in einem vergleichbaren Labor zu erfassen und zu analysieren sowie Lösungsvorschläge für betriebliche Fragestellungen zu erstellen und diese umzusetzen.
 
-(2) Die Aufgabe für das Arbeitsprojekt soll sich auf den laufenden Betrieb eines milchwirtschaftlichen Unternehmens beziehen und muss einen konkreten Praxisbezug aufweisen. Bei der Wahl der Aufgabe für das Projekt sollen Vorschläge der zu prüfenden Person berücksichtigt werden.
+(2) Die Aufgabe für das Arbeitsprojekt soll sich auf den laufenden Betrieb eines milchwirtschaftlichen Labors oder vergleichbarer Labore beziehen und muss einen konkreten Praxisbezug aufweisen. Bei der Wahl der Aufgabe für das Projekt sollen Vorschläge der zu prüfenden Person berücksichtigt werden.
 
 (3) Die zu prüfende Person hat das Arbeitsprojekt schriftlich zu planen und durchzuführen, den Verlauf der Bearbeitung sowie die Ergebnisse zu dokumentieren und in einem Fachgespräch zu erläutern. Das Fachgespräch erstreckt sich auf den Verlauf und die Ergebnisse des Arbeitsprojektes sowie auf die hierfür relevanten Prüfungsinhalte nach § 6 Absatz 3.
 
-(4) Für die Durchführung des Arbeitsprojektes steht der zu prüfenden Person ein Zeitraum von sechs Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 60 Minuten dauern.
+(4) Für die Durchführung des Arbeitsprojektes steht der zur prüfenden Person ein Zeitraum von sechs Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 60 Minuten dauern.
 
 # § 9 – Schriftliche Prüfung
 
@@ -259,39 +245,37 @@ Die Prüfung besteht aus
 
 # § 10 – Anforderungen und Prüfungsinhalte
 
-(1) Im Prüfungsteil Betriebs- und Unternehmensführung hat die zu prüfende Person nachzuweisen, dass sie wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
+(1) Im Prüfungsteil Labor- und Unternehmensführung hat die zu prüfende Person nachzuweisen, dass sie wirtschaftliche, rechtliche und soziale Zusammenhänge im Unternehmen erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
 (2) Die Prüfung erstreckt sich auf folgende Inhalte:
 
 1. Einordnen und Beurteilen von Unternehmensformen, der Rahmenbedingungen von Unternehmensgründung und der Unternehmensabsicherung,
 
-2. Einordnen und Beurteilen der Rahmenbedingungen und Strukturen eines Molkereibetriebes,
+2. Einordnen und Beurteilen der Rahmenbedingungen und Strukturen eines milchwirtschaftlichen Labors,
 
 3. Erarbeiten und Umsetzen von Marketingkonzepten einschließlich Kommunikation und Öffentlichkeitsarbeit,
 
-4. Entwickeln, Optimieren und Anwenden des Qualitätsmanagements und Controllings,
+4. Entwickeln, Optimieren und Anwenden des betriebsspezifischen Qualitätsmanagements,
 
-5. Erstellen, Umsetzen und Bewerten der Betriebs- und Arbeitsorganisation,
+5. Erstellen und Umsetzen der Unternehmens- und Arbeitsorganisation,
 
-6. Erläutern und Anwenden des Ausschreibungs- und Vergabewesens sowie der Lohn- und Gehaltsrechnung,
+6. Steuern der Beschaffung einschließlich Ausschreibungen und Vergaben,
 
-7. Abnahme von Dienstleistungen, Bearbeiten von Mängelansprüchen,
+7. Bearbeiten von Mängelansprüchen,
 
-8. Durchführen von Angebotserstellung, Auftragserfassung und Auftragsabwicklung,
+8. Erstellen von Angeboten und Bearbeiten von Aufträgen, Durchführen und Bewerten von betriebswirtschaftlichen Kalkulationen und Auswertungen sowie von Controllingmaßnahmen,
 
-9. Durchführen und Bewerten von betriebswirtschaftlichen Kalkulationen und Auswertungen einschließlich Verwertungsrechnungen,
+9. Analysieren und Bewerten der Unternehmensentwicklung, insbesondere in Bezug auf Investition und Finanzierung, Liquidität, Rentabilität und Stabilität,
 
-10. Analysieren und Bewerten der Unternehmensentwicklung, insbesondere in Bezug auf Produktivität, Investition und Finanzierung, Liquidität, Rentabilität und Stabilität,
+10. Anwenden von Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse,
 
-11. Anwenden von Möglichkeiten der Digitalisierung betriebswirtschaftlicher Prozesse,
+11. Umsetzen von Datenmanagement und Datenschutz,
 
-12. Umsetzen von Datenmanagement und Datenschutz,
+12. Anwenden berufsbezogener Rechtsvorschriften, insbesondere aus dem Vertragsrecht und Haftungsrecht sowie aus dem Arbeits- und Sozialrecht,
 
-13. Anwenden berufsbezogener Rechtsvorschriften, insbesondere aus dem Vertragsrecht und Haftungsrecht sowie aus dem Arbeits- und Sozialrecht,
+13. Anwenden von Grundsätzen der betriebswirtschaftlichen Buchführung sowie der steuerlichen Buchführung unter Beachtung von Steuerarten und Steuerverfahren sowie
 
-14. Anwenden von Grundsätzen der betriebswirtschaftlichen Buchführung sowie der steuerlichen Buchführung unter Beachtung von Steuerarten und Steuerverfahren sowie
-
-15. Bewerten von Absicherungssystemen, insbesondere durch Versicherungen.
+14. Bewerten von Absicherungssystemen, insbesondere durch Versicherungen.
 
 # § 11 – Prüfungsbestandteile
 
@@ -317,7 +301,7 @@ Die Prüfung besteht aus
 
 # § 14 – Anforderungen und Prüfungsinhalte
 
-(1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll die zu prüfende Person nachweisen, dass sie Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennt, Auszubildende ausbilden und Mitarbeiter und Mitarbeiterinnen führen kann sowie dass sie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
+(1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll die zu prüfende Person nachweisen, dass sie Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter und Mitarbeiterinnen führen kann sowie dass sie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
 (2) Der Nachweis der Qualifikation nach Absatz 1 ist in folgenden Handlungsfeldern zu führen:
 
@@ -465,27 +449,35 @@ Die Prüfung besteht aus
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer 1 und 2, § 11 Nummer 1 und 2 sowie § 15 Absatz 2 Nummer 1 und 2 und Absatz 3 ist gesondert mit einer Note als Dezimalzahl und in Worten nach Anlage 1 zu bewerten. Bei den Bewertungen der Prüfungsteile nach den Absätzen 2, 3 und 4 Satz 2 sowie der Bewertung des Abschnitts Berufsausbildung nach Absatz 4 Satz 1 ist die jeweils errechnete Note kaufmännisch auf eine Nachkommastelle zu runden. Der gerundeten Note wird nach Anlage 1 eine Note in Worten zugeordnet.
 
-(2) Die Note des Prüfungsteils „Prozess- und Verfahrenstechnik“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8) und schriftliche Prüfung (§ 9) nach folgender Formel:
+(2) Die Note des Prüfungsteils „Untersuchungs- und Labortechnik“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8) und schriftliche Prüfung (§ 9) nach folgender Formel:
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4204-1_0010.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4194-1_0010.jpg) |
 
-(3) Die Note des Prüfungsteils „Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile betriebswirtschaftliche Situationsanalyse (§ 12) und schriftliche Prüfung (§ 13) nach folgender Formel:
+(3) Die Note des Prüfungsteils „Labor- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile betriebswirtschaftliche Situationsanalyse (§ 12) und schriftliche Prüfung (§ 13) nach folgender Formel:
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4204-1_0020.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4194-1_0020.jpg) |
 
 (4) Im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts „Berufsausbildung“ aus der Note der praktischen Prüfung (§ 16) und der Note der schriftlichen Prüfung (§ 17) nach folgender Formel zu bilden:
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4204-1_0030.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4194-1_0030.jpg) |
 
 Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und Mitarbeiterführung“ eine Note aus der gerundeten Note des Abschnitts „Berufsausbildung“ nach Satz 1 und der Note der Fallstudie (§ 18) nach folgender Formel zu bilden:
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4204-1_0040.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j4194-1_0040.jpg) |
 
 (5) Die Bewertung der Gesamtleistung in der Prüfung ist mit einer Note vorzunehmen. Die Note der Gesamtleistung der Prüfung ist das kaufmännisch auf eine Nachkommastelle gerundete arithmetische Mittel aus den Noten der einzelnen Prüfungsteile. Dieser Note wird nach Anlage 1 eine Note in Worten zugeordnet.
 
 # § 20 – Befreiung von Prüfungsbestandteilen
 
-Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, so bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 19 Absatz 2 bis 5 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, so bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 19 Absatz 2 bis 5 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zu Grunde zu legen.
 
 # § 21 – Bestehen der Prüfung
 
@@ -495,7 +487,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 1. eine der Leistungen in den einzelnen Prüfungsbestandteilen nach den §§ 7, 11 und 15 mit „ungenügend“ nach Anlage 1 bewertet worden ist oder
 
-2. mehr als eine der in Nummer 1 genannten Leistungen mit „mangelhaft“ nach Anlage 1 bewertet worden ist.
+2. mehr als eine Leistung in den einzelnen Prüfungsbestandteilen nach den §§ 7, 11 und 15 mit „mangelhaft“ nach Anlage 1 bewertet worden ist.
 
 # § 22 – Zeugnisse
 
@@ -519,7 +511,7 @@ Jede Befreiung nach § 20 ist mit Ort, Datum und der Bezeichnung des Prüfungsgr
 
 # § 23 – Mündliche Ergänzungsprüfung
 
-(1) Wurde einer oder wurden zwei der schriftlichen Prüfungsbestandteile nach den §§ 9, 13 und 17 schlechter als mit „ausreichend“ nach Anlage 1 bewertet, ist auf Antrag der zu prüfenden Person eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
+(1) Wurde eine oder wurden zwei der schriftlichen Prüfungsbestandteile nach den §§ 9, 13 und 17 schlechter als mit „ausreichend“ nach Anlage 1 bewertet, ist auf Antrag der zu prüfenden Person eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
 
 (2) Die mündliche Ergänzungsprüfung soll nicht länger als 30 Minuten dauern.
 
@@ -537,17 +529,17 @@ Jede Befreiung nach § 20 ist mit Ort, Datum und der Bezeichnung des Prüfungsgr
 
 # § 25 – Übergangsvorschriften
 
-(1) Die bis zum Ablauf des 15. September 2021 begonnenen Prüfungsverfahren sind nach der Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau vom 27. Mai 1994 (BGBl. I S. 1195), die zuletzt durch Artikel 7 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548; 2016 I S. 338) geändert worden ist, zu Ende zu führen.
+(1) Die bis zum Ablauf des 15. September 2021 begonnenen Prüfungsverfahren sind nach der Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Milchwirtschaftlicher Laborant/Milchwirtschaftliche Laborantin vom 28. Februar 1991 (BGBl. I S. 520), die zuletzt durch Artikel 8 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548) geändert worden ist, zu Ende zu führen.
 
 (2) Zu prüfende Personen, die die Prüfung nach den bis zum Ablauf des 15. September 2021 geltenden Vorschriften nicht bestanden haben und die sich innerhalb von zwei Jahren ab dem 16. September 2021 zu einer Wiederholungsprüfung anmelden, legen die Wiederholungsprüfung nach der in Absatz 1 bezeichneten Verordnung ab.
 
 # § 26 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau vom 27. Mai 1994 (BGBl. I S. 1195), die zuletzt durch Artikel 7 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548; 2016 I S. 338) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Milchwirtschaftlicher Laborant/Milchwirtschaftliche Laborantin vom 28. Februar 1991 (BGBl. I S. 520), die zuletzt durch Artikel 8 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548) geändert worden ist, außer Kraft.
 
 # Anlage 1 – (zu den §§ 5, 19 Absatz 1, §§ 21, 22 Absatz 2, § 23 Absatz 1 und § 24 Absatz 2)Bewertungsmaßstab für die Leistungen
 
-(Fundstelle: BGBl. I 2021, 4212)
+(Fundstelle: BGBl. I 2021, 4202)
 
  
 
@@ -602,11 +594,9 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundla
 
 # Anlage 2 – (zu § 22)Zeugnisinhalte
 
-(Fundstelle: BGBl. I 2021, 4213)
+(Fundstelle: BGBl. I 2021, 4203)
 
  
-
-Teil A – Zeugnis ohne Prüfungsergebnisse:
 
 1. Bezeichnung der ausstellenden Behörde,
 
@@ -619,8 +609,6 @@ Teil A – Zeugnis ohne Prüfungsergebnisse:
 5. Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen dieser Verordnung,
 
 6. Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen Stelle.
-
-Teil B – Zeugnis mit Prüfungsergebnissen:
 
 Alle Angaben des Teils A sowie zusätzlich:
 

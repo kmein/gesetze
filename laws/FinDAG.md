@@ -45,6 +45,14 @@ Meldung von Verstößen; Verordnungsermächtigung
 
 Vorschriften über die Verarbeitung personenbezogener Daten
 
+§ 4f
+
+Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf
+
+§ 4g
+
+Elektronische Zustellung durch Bereitstellung zum Abruf
+
 Zweiter Abschnitt
 
  
@@ -364,6 +372,20 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 (3) Wird der betroffenen Person in den Fällen des Absatzes 1 Satz 2 bis 4 keine Auskunft erteilt, so ist auf ihr Verlangen dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die Auskunft zu erteilen, soweit nicht im Einzelfall festgestellt wird, dass dadurch die öffentliche Sicherheit des Bundes oder eines Landes oder die Stabilität und Integrität der Finanzmärkte gefährdet würde. Die Mitteilung der oder des Bundesbeauftragen an die betroffene Person über das Ergebnis der datenschutzrechtlichen Prüfung darf keine Rückschlüsse auf den Erkenntnisstand der Bundesanstalt, der Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmen.
 
 (4) Soweit Personen, Institute und Unternehmen personenbezogene Daten für aufsichtsrechtliche Zwecke an die Bundesanstalt, die Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, oder die Deutsche Bundesbank übermitteln oder diese von dort von Personen, Instituten und Unternehmen erhoben werden, bestehen die Pflichten dieser Personen, Institute und Unternehmen zur Information der betroffenen Person nach Artikel 13 Absatz 3 und Artikel 14 Absatz 4 der Verordnung (EU) 2016/679 und das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 nicht.
+
+# § 4f – Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf
+
+(1) Die Bundesanstalt kann abweichend von § 41 des Verwaltungsverfahrensgesetzes einen Verwaltungsakt auch dadurch bekannt geben, dass er zum Abruf über öffentlich zugängliche Netze bereitgestellt wird, sofern der Adressat der Bekanntgabe den elektronischen Zugang freiwillig eröffnet hat oder durch Rechtsvorschrift hierzu verpflichtet ist. Die Bundesanstalt hat ein sicheres Verfahren zu verwenden, das den Abruf nur nach Authentifizierung der berechtigten Person ermöglicht und die Vertraulichkeit und Integrität des Datensatzes gewährleistet.
+
+(2) Ein zum Abruf bereitgestellter Verwaltungsakt gilt im Zeitpunkt des Abrufs oder spätestens am fünften Kalendertag nach der Bereitstellung zum Abruf über öffentlich zugängliche Netze als bekannt gegeben.
+
+(3) Abweichend von § 37 Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes kann eine schriftliche Bestätigung des Verwaltungsaktes nur verlangt werden, wenn auf Grund besonderer Umstände des Einzelfalls ein zwingendes rechtliches Klarstellungs- oder Beweissicherungsinteresse besteht.
+
+# § 4g – Elektronische Zustellung durch Bereitstellung zum Abruf
+
+(1) Die Bundesanstalt kann abweichend von § 5 des Verwaltungszustellungsgesetzes an Empfänger, die durch Rechtsvorschrift zur Nutzung eines elektronischen Kommunikationsverfahrens verpflichtet sind, auch dadurch zustellen, dass ein elektronisches Dokument über das elektronische Kommunikationsverfahren zum Abruf bereitgestellt wird. Die Bundesanstalt hat ein sicheres Verfahren zu verwenden, das den Abruf nur nach Authentifizierung der berechtigten Person ermöglicht und die Vertraulichkeit und Integrität des bereitgestellten elektronischen Dokuments gewährleistet. Das elektronische Dokument ist im Betreff als Zustellungssache zu kennzeichnen. § 4f Absatz 3 gilt entsprechend.
+
+(2) Die Zustellung nach Absatz 1 gilt mit Abruf oder spätestens am fünften Kalendertag nach der Bereitstellung des elektronischen Dokuments zum Abruf als bewirkt. Zum Nachweis der Zustellung genügt eine elektronische Protokollierung des Abrufs im elektronischen Kommunikationsverfahren oder ein Vermerk in den Akten, zu welchem Zeitpunkt das Dokument zum Abruf bereitgestellt wurde. Für die elektronische Protokollierung des Abrufs im elektronischen Kommunikationsverfahren nach Satz 2 gilt § 437 der Zivilprozessordnung entsprechend.
 
 # § 5 – Organe, Satzung
 

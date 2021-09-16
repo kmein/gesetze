@@ -1002,7 +1002,9 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 7. die Anforderungen nach Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4) und
 
-8. die Anforderungen nach den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 und nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefungen und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35).
+8. die Anforderungen nach den Artikeln 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 und nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefungen und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35),
+
+9. die Anforderungen nach den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sowie nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 des Europäischen Parlamentes und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13).
 
 Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
@@ -5154,7 +5156,11 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 
 3. zuständige Behörde im Sinne der Verordnung (EU) 2016/1011 in der jeweils geltenden Fassung, für die in den Geltungsbereich der Verordnung (EU) 2016/1011 einbezogenen Unternehmen,
 
-4. zuständige Behörde im Sinne des Artikels 29 Absatz 4 und 5 der Verordnung (EU) 2017/2402 für die in den Geltungsbereich der Verordnung (EU) 2017/2402 einbezogenen Unternehmen.
+4. zuständige Behörde im Sinne des Artikels 29 Absatz 4 und 5 der Verordnung (EU) 2017/2402 für die in den Geltungsbereich der Verordnung (EU) 2017/2402 einbezogenen Unternehmen,
+
+5. zuständige Behörde im Sinne des Artikels 14 der Verordnung (EU) 2019/2088 und
+
+6. zuständige Behörde im Sinne des Artikels 21 Absatz 1 der Verordnung (EU) 2020/852.
 
 (2) Die Aufsichtsbehörde ist zuständige Stelle nach Artikel 5 Absatz 1 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34; L 47 vom 20.2.2015, S. 34; L 246 vom 23.9.2015, S. 11) für die von ihr beaufsichtigten Unternehmen.
 
@@ -6100,7 +6106,25 @@ ein Basisinformationsblatt nicht, nicht richtig, nicht vollständig, nicht recht
 
 3. eine Meldung nach Artikel 27 Absatz 1 Unterabsatz 1, 2 oder 3 Satz 2 der Verordnung (EU) 2017/2402 mit irreführendem Inhalt macht.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e, 4h, 4i und 4j mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3 und des Absatzes 3 Nummer 3, 3a, 3b und 3c und des Absatzes 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
+(4k) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
+
+1. nicht sicherstellt, dass die in Artikel 4 Absatz 1 in Verbindung mit Absatz 2 oder 3 oder Artikel 5 Absatz 1 oder Artikel 10 Absatz 1 Unterabsatz 1, jeweils auch in Verbindung mit Artikel 15 Absatz 1, genannten Informationen veröffentlicht oder auf dem aktuellen Stand gehalten werden, oder
+
+2. entgegen Artikel 6 Absatz 3 in Verbindung mit Artikel 6 Absatz 1 in Verbindung mit
+
+a) Artikel 7 Absatz 1 Unterabsatz 1 oder Absatz 2, jeweils auch in Verbindung mit Artikel 15 Absatz 1,
+
+b) Artikel 8 Absatz 1, auch in Verbindung mit Artikel 6 Unterabsatz 1 in Verbindung mit Artikel 5 der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13),
+
+c) Artikel 8 Absatz 2 oder 2a oder Artikel 9 Absatz 4 oder 4a,
+
+d) Artikel 9 Absatz 1, 2 oder 3, jeweils in Verbindung mit Artikel 5 der Verordnung (EU) 2020/852, oder
+
+e) Artikel 6 Unterabsatz 2 oder Artikel 7 der Verordnung (EU) 2020/852
+
+eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Vertragsschluss offenlegt.
+
+(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3 und des Absatzes 3 Nummer 3, 3a, 3b und 3c und des Absatzes 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
 
 (6) Gegenüber einer juristischen Person oder einer Personenvereinigung kann in den Fällen des Absatzes 4d über Absatz 5 hinaus eine höhere Geldbuße verhängt werden; diese darf den höheren der Beträge von fünf Millionen Euro oder 3 Prozent des Gesamtumsatzes, den die juristische Person oder die Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, nicht übersteigen.
 
