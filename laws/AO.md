@@ -4691,7 +4691,7 @@ nur anzuwenden, falls der Steuerpflichtige ohne Verschulden verhindert ist oder 
 
 (4) Fristen zur Einreichung von Steuererklärungen und Fristen, die von einer Finanzbehörde gesetzt sind, können ausschließlich automationsgestützt verlängert werden, sofern zur Prüfung der Fristverlängerung ein automationsgestütztes Risikomanagementsystem nach § 88 Absatz 5 eingesetzt wird und kein Anlass dazu besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
-(+++ § 109: Zur Anwendung vgl. Art. 97 §§ 1 u. 10a AOEG 1977 +++)
+(+++ § 109: Zur Anwendung vgl. Art. 97 §§ 1, 10a u. 36 AOEG 1977 +++)
 
 # § 110 – Wiedereinsetzung in den vorigen Stand
 
@@ -6213,7 +6213,7 @@ In diesen Fällen sind bei der Bemessung des Verspätungszuschlags die Dauer und
 
 (13) Die Absätze 2, 4 Satz 2, Absatz 5 Satz 2 sowie Absatz 8 gelten vorbehaltlich des Satzes 2 nicht für Steuererklärungen, die gegenüber den Hauptzollämtern abzugeben sind. Für die Bemessung des Verspätungszuschlags zu Steuererklärungen zur Luftverkehrsteuer gilt Absatz 8 Satz 2 entsprechend.
 
-(+++ § 152: Zur Anwendung vgl. Art. 97 § 1 u. § 8 AOEG 1977 +++)
+(+++ § 152: Zur Anwendung vgl. Art. 97 §§ 1, 8 u. 36 AOEG 1977 +++)
 
 # § 153 – Berichtigung von Erklärungen
 
@@ -7293,7 +7293,7 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 (+++ § 233a Abs. 2a: Zur Geltung vgl. Art. 97 § 15 Abs. 8 AOEG 1977 +++)  
 (+++ § 233a Abs. 2a: Zur Anwendung vgl. § 7b EStG +++)  
 (+++ § 233a Abs. 5: Zur Geltung vgl. Art. 97 § 15 Abs. 6 AOEG 1977 +++)  
-(+++ § 233a Abs. 2a: Zur Anwendung vgl. Art. 97 § 9 AOEG 1977 +++)
+(+++ § 233a: Zur Anwendung vgl. Art. 97 §§ 9 u. 36 AOEG 1977 +++)
 
 # § 234 – Stundungszinsen
 
