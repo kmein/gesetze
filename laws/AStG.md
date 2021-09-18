@@ -71,7 +71,7 @@ Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Ges
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 bis 3c und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
 
-(+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20, 22, 25 +++)
+(+++ § 1: Zur Anwendung vgl. § 21 +++)
 
 # § 1a – Preisanpassungsklausel
 
@@ -137,6 +137,8 @@ ist bis zum Ablauf von zehn Jahren nach Ende des Jahres, in dem ihre unbeschrän
 
 (3) § 18 findet entsprechende Anwendung.
 
+(+++ § 5: Zur Anwendung vgl. § 21 +++)
+
 # § 6 – Besteuerung des Vermögenszuwachses
 
 (1) Vorbehaltlich der Vorschriften des Einkommensteuergesetzes, Körperschaftsteuergesetzes und Umwandlungssteuergesetzes stehen bei unbeschränkt Steuerpflichtigen der Veräußerung von Anteilen im Sinne des § 17 Absatz 1 Satz 1 des Einkommensteuergesetzes zum gemeinen Wert gleich
@@ -185,6 +187,7 @@ Abweichend von Satz 5 Nummer 4 ist eine unentgeltliche Übertragung durch den St
 
 (5) Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem Finanzamt, das in den in Absatz 1 genannten Zeitpunkten nach § 19 der Abgabenordnung zuständig ist, nach amtlich vorgeschriebenem Vordruck die Verwirklichung eines der Tatbestände des Absatzes 4 Satz 5 oder 7 mitzuteilen. Die Mitteilung ist innerhalb eines Monats nach dem meldepflichtigen Ereignis zu erstatten; sie ist vom Steuerpflichtigen eigenhändig zu unterschreiben. Der Steuerpflichtige oder sein Gesamtrechtsnachfolger hat dem nach Satz 1 zuständigen Finanzamt jährlich bis zum 31. Juli schriftlich seine aktuelle Anschrift mitzuteilen und zu bestätigen, dass die Anteile ihm oder im Fall des Absatzes 1 Satz 1 Nummer 2 seinem Rechtsnachfolger weiterhin zuzurechnen sind.
 
+(+++ § 6: Zur Anwendung vgl. § 21 +++)  
 (+++ § 6 Abs. 1: Zur erstmaligen Anwendung vgl. § 21 Abs. 13 Satz 1 +++)  
 (+++ § 6 Abs. 3 Nr. 4: Zur Erst- und letztmaligen Anwendung vgl. § 21 Abs. 8 +++)  
 (+++ § 6 Abs. 2 bis 7: Zur Anwendung vgl. § 21 Abs. 13 Satz 2 +++)  
@@ -264,14 +267,14 @@ c) Bezüge, die bei der ausländischen Gesellschaft nach § 8b Absatz 7 des Kör
 
 (5) Eine niedrige Besteuerung liegt vor, wenn die nach Maßgabe des § 10 Absatz 3 ermittelten Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, einer Belastung durch Ertragsteuern von weniger als 25 Prozent unterliegen, ohne dass dies auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder das Gebiet der ausländischen Gesellschaft im Fall einer Gewinnausschüttung der ausländischen Gesellschaft dem Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige unmittelbar oder mittelbar beteiligt ist, gewährt. Einkünfte unterliegen im Sinne des Satzes 1 auch dann einer Belastung durch Ertragsteuern von weniger als 25 Prozent, wenn Ertragsteuern von mindestens 25 Prozent zwar rechtlich geschuldet, jedoch nicht tatsächlich erhoben werden.
 
-(+++ § 8: Zur Anwendung vgl. § 21 Abs. 7, 9, 11, 14, 15, 17, 19, 21 +++)  
+(+++ § 8: Zur Anwendung vgl. § 21 +++)  
 (+++ § 8 Abs. 3 Satz 2, 3: Zur Anwendung vgl. § 4j EStG +++)
 
 # § 9 – Freigrenze bei gemischten Einkünften
 
 Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden Wirtschaftsjahres im Sinne des § 7 Absatz 2, für die eine ausländische Gesellschaft Zwischengesellschaft ist, außer Ansatz zu lassen, wenn die Einkünfte nicht mehr als 10 Prozent der gesamten Einkünfte der ausländischen Gesellschaft betragen, vorausgesetzt, dass die bei einem Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt 80 000 Euro nicht übersteigen.
 
-(+++ § 9: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)
+(+++ § 9: Zur Anwendung vgl. § 21 +++)
 
 # § 10 – Hinzurechnungsbetrag
 
@@ -334,6 +337,8 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (5) Die Absätze 1 bis 4 sind nicht anzuwenden, wenn auf die Einkünfte mit Kapitalanlagecharakter, für die die ausländische Gesellschaft Zwischengesellschaft ist, die Vorschriften des Investmentsteuergesetzes in der jeweils geltenden Fassung anzuwenden sind. Mittelbare Beteiligungen sind für den unbeschränkt Steuerpflichtigen nach Absatz 1 Satz 1 unbeachtlich, wenn er diese über einen Investmentfonds oder einen Spezial-Investmentfonds im Sinne des Investmentsteuergesetzes hält.
 
+(+++ § 13: Zur Anwendung vgl. § 21 +++)
+
 # § 14 – (weggefallen)
 
 # § 15 – Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
@@ -364,7 +369,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (11) Zuwendungen der ausländischen Familienstiftung unterliegen bei Personen im Sinne des Absatzes 1 nicht der Besteuerung, soweit die den Zuwendungen zugrunde liegenden Einkünfte nachweislich bereits nach Absatz 1 zugerechnet worden sind. Steuern von den nach Satz 1 befreiten Zuwendungen werden auf Antrag im Veranlagungszeitraum der Zurechnung der zugrunde liegenden Einkünfte in entsprechender Anwendung des § 34c Absatz 1 und 2 des Einkommensteuergesetzes und des § 26 Absatz 1 und 2 Satz 1 des Körperschaftsteuergesetzes angerechnet oder abgezogen.
 
-(+++ § 15: Zur Anwendung vgl. § 21 Abs. 18, 21 +++)
+(+++ § 15: Zur Anwendung vgl. § 21 +++)
 
 # § 16 – Mitwirkungspflicht des Steuerpflichtigen
 
@@ -382,6 +387,8 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (2) Ist für die Ermittlung der Einkünfte, für die eine ausländische Gesellschaft Zwischengesellschaft ist, eine Schätzung nach § 162 der Abgabenordnung vorzunehmen, so ist mangels anderer geeigneter Anhaltspunkte bei der Schätzung als Anhaltspunkt von mindestens 20 Prozent des gemeinen Werts der von den unbeschränkt Steuerpflichtigen gehaltenen Anteile auszugehen; Zinsen und Nutzungsentgelte, die die Gesellschaft für überlassene Wirtschaftsgüter an die unbeschränkt Steuerpflichtigen zahlt, sind abzuziehen.
 
+(+++ § 17: Zur Anwendung vgl. § 21 +++)
+
 # § 18 – Gesonderte Feststellung von Besteuerungsgrundlagen
 
 (1) Die Besteuerungsgrundlagen für die Anwendung der §§ 7 bis 13, insbesondere der Hinzurechnungsbetrag (§ 10), die anrechenbaren Steuern (§ 12), das Hinzurechnungskorrekturvolumen (§ 11) und der Verlustvortrag werden gesondert festgestellt. Ist ein Steuerpflichtiger an der ausländischen Gesellschaft über andere vermittelnde Gesellschaften beteiligt, so ist auch festzustellen, wie sich das Hinzurechnungskorrekturvolumen für Zwecke des § 11 Absatz 1 Satz 2 auf die vermittelnden Gesellschaften aufteilt. Sind an der ausländischen Gesellschaft mehrere Steuerpflichtige unmittelbar oder mittelbar beteiligt, so wird die gesonderte Feststellung ihnen gegenüber einheitlich vorgenommen; dabei ist auch festzustellen, wie sich die Besteuerungsgrundlagen auf die einzelnen Beteiligten verteilen. Die Vorschriften der Abgabenordnung, mit Ausnahme des § 180 Abs. 3, und der Finanzgerichtsordnung über die gesonderte Feststellung von Besteuerungsgrundlagen sind entsprechend anzuwenden.
@@ -394,6 +401,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 (5) Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Steuerpflichtigen zulässig.
 
+(+++ § 18: Zur Anwendung vgl. § 21 +++)  
 (+++ § 18 Abs. 3: Zur Anwendung vgl. § 20 Abs. 5 F. ab 1984-12-14 bzw. § 21 Abs. 5 F. ab 1992-02-25 +++)  
 (+++ § 18 Abs. 3: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)  
 (+++ § 18 Abs. 4: Zur erstmaligen Anwendung vgl. § 21 Abs. 17, 21 +++)
