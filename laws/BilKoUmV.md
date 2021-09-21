@@ -35,7 +35,7 @@ Für die Berechnung des Umlagebetrags gemäß § 3 ist die Höhe aller in einem 
 
 # § 7 – Mindest- und Höchstumlagebetrag
 
-Unbeschadet des § 6 beträgt der Umlagebetrag mindestens 250 Euro und höchstens 40.000 Euro.
+Unbeschadet des § 6 beträgt der Umlagebetrag mindestens 250 Euro.
 
 # § 8 – Ermittlung und Festsetzung des Umlagebetrags
 
@@ -100,6 +100,8 @@ Die Umlageforderungen werden mit der Bekanntgabe ihrer Festsetzung an den Umlage
 2. Für die Verteilung der voraussichtlichen Kosten im Sinn des § 9 Abs. 1 Satz 2, die auf die einzelnen Vorauszahlungspflichtigen umzulegen sind, ist § 9 Abs. 3 auf der Grundlage der Börsenumsätze des Jahres 2004 anzuwenden.
 
 (3) § 1 in der ab dem 26. November 2015 geltenden Fassung ist erstmals auf die Umlageerhebung für das Umlagejahr 2016 anzuwenden.
+
+(4) § 7 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf die Umlagefestsetzung sowie -vorauszahlung nach § 9 Absatz 5 für das Umlagejahr 2021 anzuwenden.
 
 # § 15 – Inkrafttreten
 

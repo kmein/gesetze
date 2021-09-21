@@ -123,6 +123,8 @@ E-Geld-Geschäft ist die Ausgabe von E-Geld. E-Geld ist jeder elektronisch, daru
 
 (10) E-Geld-Agent im Sinne dieses Gesetzes ist jede natürliche oder juristische Person, die als selbständiger Gewerbetreibender im Namen eines E-Geld-Instituts beim Vertrieb und Rücktausch von E-Geld tätig ist.
 
+(10a) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Institut Aktivitäten und Prozesse zur Durchführung von Zahlungsdiensten, des E-Geld-Geschäfts sowie von sonstigen institutstypischen Dienstleistungen ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerungen von Aktivitäten und Prozessen, die für die Durchführung von Zahlungsdiensten, des E-Geld-Geschäfts sowie von sonstigen institutstypischen Dienstleistungen wesentlich sind.
+
 (11) Zahlungssystem ist ein System zur Übertragung von Geldbeträgen auf der Grundlage von formalen und standardisierten Regeln und einheitlichen Vorschriften für die Verarbeitung, das Clearing oder die Verrechnung von Zahlungsvorgängen.
 
 (12) Elektronische Kommunikationsnetze sind Übertragungssysteme und Vermittlungs- und Leitwegeinrichtungen sowie anderweitige Ressourcen einschließlich der nicht aktiven Netzbestandteile, die die Übertragung von Signalen über Kabel, Funk, optische oder andere elektromagnetische Einrichtungen ermöglichen, einschließlich Satellitennetze, feste (leitungs- und paketvermittelte, einschließlich Internet) und mobile terrestrische Netze, Stromleitungssysteme, soweit sie zur Signalübertragung genutzt werden, Netze für Hör- und Fernsehfunk sowie Kabelfernsehnetze, unabhängig von der Art der übertragenen Informationen.
@@ -345,7 +347,7 @@ Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekannt machen; personenbezoge
 
 # § 9 – Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt, einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des § 4 Absatz 2, der §§ 7, 8, § 13 Absatz 2 Nummer 2 bis 5 oder § 14 Absatz 1 in Verbindung mit § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a des Kreditwesengesetzes, auf der Grundlage des § 15 Absatz 1 Satz 3 und 4, der §§ 19 bis 21, diese auch in Verbindung mit § 17 Absatz 3 Satz 3, § 23 Absatz 1, § 24 Absatz 4 oder auf der Grundlage des § 25 Absatz 3, des § 26 Absatz 3 oder des § 27 Absatz 3 Satz 1 oder Absatz 4 Satz 2 oder des § 32 Absatz 2 oder des § 39 Absatz 8 haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt, einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des § 4 Absatz 2, der §§ 7, 8, § 13 Absatz 2 Nummer 2 bis 5 oder § 14 Absatz 1 in Verbindung mit § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a des Kreditwesengesetzes, auf der Grundlage des § 15 Absatz 1 Satz 3 und 4, der §§ 19 bis 21, diese auch in Verbindung mit § 17 Absatz 3 Satz 3, § 23 Absatz 1, § 24 Absatz 4 oder auf der Grundlage des § 25 Absatz 3, des § 26 Absatz 3 und 3a oder des § 27 Absatz 3 Satz 1 und 3 oder Absatz 4 Satz 2 oder des § 32 Absatz 2 oder des § 39 Absatz 8 haben keine aufschiebende Wirkung.
 
 (+++ § 9: Zur Anwendung vgl. § 39 Abs. 3 +++)
 
@@ -729,6 +731,12 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 (3) Rechtfertigen Tatsachen die Annahme, dass eine Auslagerung die Prüfungsrechte und Kontrollmöglichkeiten der Bundesanstalt beeinträchtigt, kann die Bundesanstalt gegenüber dem Institut die Anordnungen treffen, die geeignet und erforderlich sind, die Beeinträchtigungen zu beseitigen und künftigen Beeinträchtigungen vorzubeugen. Erweisen sich die Maßnahmen nicht als hinreichend, um die Prüfungsrechte und Kontrollmöglichkeiten der Bundesanstalt zu gewährleisten, kann die Bundesanstalt die Rücklagerung der ausgelagerten Tätigkeiten anordnen. Die Befugnisse der Bundesanstalt nach § 27 Absatz 3 bleiben unberührt.
 
+(3a) Die Bundesanstalt kann auch unmittelbar gegenüber Auslagerungsunternehmen im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+
+1. um Verstöße gegen aufsichtsrechtliche Bestimmungen zu verhindern oder zu unterbinden oder
+
+2. um Missstände in einem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden könnte oder die ordnungsgemäße Durchführung von Zahlungsdiensten, des E-Geld-Geschäfts oder von sonstigen nach diesem Gesetz institutstypischen Dienstleistungen beeinträchtigen.
+
 (4) Ändert sich die Inanspruchnahme von Stellen, an die Tätigkeiten ausgelagert werden, hat das Institut der Bundesanstalt und der Deutschen Bundesbank diese Änderungen unverzüglich schriftlich anzuzeigen.
 
 # § 27 – Organisationspflichten
@@ -747,7 +755,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 (2) Die §§ 6a, 24c, 25i, 25m und 60b des Kreditwesengesetzes sowie § 93 Absatz 7 und 8 in Verbindung mit § 93b der Abgabenordnung gelten für Institute im Sinne dieses Gesetzes entsprechend. § 24c des Kreditwesengesetzes gilt mit der Maßgabe, dass die Bundesanstalt einzelne Daten aus dem Dateisystem nach § 24c Absatz 1 Satz 1 des Kreditwesengesetzes abrufen darf, soweit dies zur Erfüllung ihrer aufsichtsrechtlichen Aufgaben nach diesem Gesetz und dem Geldwäschegesetz, insbesondere im Hinblick auf unerlaubte Zahlungsdienste und unerlaubte E-Geld-Geschäfte erforderlich ist und besondere Eilbedürftigkeit im Einzelfall vorliegt.
 
-(3) Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Anforderungen an eine ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 zu erfüllen. Die Bundesanstalt kann Kriterien bestimmen, bei deren Vorliegen Institute vom Einsatz von Datenverarbeitungssystemen nach Absatz 1 Satz 2 Nummer 5 absehen können.
+(3) Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Anforderungen an eine ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 zu erfüllen. Die Bundesanstalt kann Kriterien bestimmen, bei deren Vorliegen Institute vom Einsatz von Datenverarbeitungssystemen nach Absatz 1 Satz 2 Nummer 5 absehen können. Satz 1 gilt entsprechend für Auslagerungsunternehmen, soweit ausgelagerte Aktivitäten und Prozesse betroffen sind.
 
 (4) Die Bundesanstalt überwacht die Einhaltung der in der Verordnung (EU) 2015/847, in der Verordnung (EG) Nr. 924/2009, in der Verordnung (EU) Nr. 260/2012 und in der Verordnung (EU) 2015/751 enthaltenden Pflichten durch die Institute. Sie kann gegenüber einem Institut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Satz 1 zu verhindern oder zu unterbinden.
 
@@ -785,7 +793,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 2. die Übernahme und die Aufgabe einer unmittelbaren Beteiligung an einem Unternehmen sowie Veränderungen in der Höhe der Beteiligung.
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der nach diesem Gesetz vorgesehenen Anzeigen und Vorlagen von Unterlagen und über die zulässigen Datenträger, Übertragungswege und Datenformate zu erlassen und die bestehenden Anzeigepflichten durch die Verpflichtung zur Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen zu ergänzen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist. Das Bundesministerium der Finanzen kann die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
+(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der nach diesem Gesetz vorgesehenen Anzeigen und Vorlagen von Unterlagen, über die zulässigen Datenträger, Übertragungswege und Datenformate und über zu verwendende und anzuzeigende Zusatzinformationen zu den Hauptinformationen, etwa besondere Rechtsträgerkennungen sowie Angaben zu deren Aktualität oder Validität zu erlassen und die bestehenden Anzeigepflichten durch die Verpflichtung zur Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen zu ergänzen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der erbrachten Zahlungsdienste und des betriebenen E-Geld-Geschäfts zu erhalten. In der Rechtsverordnung können ebenfalls nähere Bestimmungen für die Führung eines öffentlichen Registers durch die Bundesanstalt sowie über die Zugriffsmöglichkeiten auf Seiten dieses Registers und die Zuweisung von Verantwortung für die Richtigkeit und Aktualität der Seiten erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung im Einvernehmen mit der Deutschen Bundesbank durch Rechtsverordnung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 (+++ § 28 Abs. 1 Nr. 1, 2, 6 und 7: Zur Anwendung vgl. § 39 Abs. 1 +++)
 

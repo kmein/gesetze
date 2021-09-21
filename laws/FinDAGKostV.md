@@ -2560,27 +2560,22 @@ Erlaubnis für ausländische Märkte oder ihre Betreiber, die Handelsteilnehmern
 
 5.6
 
-Bekanntmachung von Fehlern bei der Rechnungslegung nach § 109 Absatz 2 WpHG
+Bekanntmachung des festgestellten Fehlers im Internet. Zusätzliche Bekanntmachung im Bundesanzeiger und entweder einem überregionalen Börsenpflichtblatt oder über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, nach § 53 Absatz 1 Satz 1 KWG tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,  
+(§ 109 Absatz 2 WpHG)
 
- 
+420
 
 5.6.1
 
-Anordnung der Bekanntmachung  
-(§ 109 Absatz 2 Satz 1 WpHG)
+(weggefallen)
 
-500  
-bis  
-5 000
+ 
 
 5.6.2
 
-Entscheidung über den Antrag, von der Anordnung der Bekanntmachung abzusehen  
-(§ 109 Absatz 2 Satz 3 WpHG)
+(weggefallen)
 
-500  
-bis  
-2 500
+ 
 
 5.7
 
