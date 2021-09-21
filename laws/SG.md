@@ -2206,7 +2206,7 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 8. die Anhebung der höchstzulässigen durchschnittlichen wöchentlichen Arbeitszeit nach § 30d Absatz 1 Satz 1 und die Gewährleistung eines bestmöglichen Arbeits- und Gesundheitsschutzes nach § 30d Absatz 2,
 
-8. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
+9. die verwendungsbezogenen Mindestdienstzeiten nach § 46 Absatz 3.
 
 (3) Das Bundesministerium der Verteidigung erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen die Rechtsverordnungen über
 
@@ -2215,6 +2215,8 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 2. die Kostenerstattung für Familien- und Haushaltshilfen nach § 31 Absatz 8.
 
 (4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
+
+(+++ § 93 Abs. 2 Nr. 9: Aufgrund der rückwirkenden Einfügung der Nr. 3 durch Art. 5 Nr. 10 Buchst. a G v. 20.8.2021 I 3932 mWv 1.1.2021 wird die frühere Nr. 8 jetzt die Nr. 9 +++)
 
 # § 94 – Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)
 

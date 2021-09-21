@@ -984,6 +984,8 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung nähere Einzelheiten festzulegen zur Ausgestaltung, Überwachung, Weiterentwicklung und Transparenz der Vergütungssysteme im Sinne des § 25, einschließlich der Entscheidungsprozesse und Verantwortlichkeiten, der Zusammensetzung der Vergütung, der positiven und negativen Vergütungsparameter, der Leistungszeiträume und der Offenlegung der Ausgestaltung der Vergütungssysteme und der gezahlten Vergütungen, des Offenlegungsmediums und der Häufigkeit der Offenlegung sowie zur Zulässigkeit sonstiger Vergütungen im Sinne des § 25 Absatz 2. Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des Unternehmens sowie Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten insgesamt zu orientieren. Bei Unternehmen, die einer Versicherungsgruppe angehören, haben sich die Regelungen zusätzlich an der Größe der Gruppe sowie an Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten der Gruppe zu orientieren. Im Rahmen der Bestimmungen nach Satz 1 müssen die auf Offenlegung der Vergütung bezogenen handelsrechtlichen Bestimmungen nach § 341a Absatz 1 und 2 in Verbindung mit § 341l Absatz 1 Satz 1 des Handelsgesetzbuchs unberührt bleiben. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 bis 5 bedürfen nicht der Zustimmung des Bundesrates.
 
+(3) Das Bundesministerium der Finanzen wird ermächtigt, für Versicherungsunternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung nähere Bestimmungen über die nach diesem Gesetz vorgesehenen Anzeigen der Ausgliederungen von Funktionen und Versicherungstätigkeiten zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
+
 # § 35 – Pflichten des Abschlussprüfers
 
 (1) Bei der Prüfung des Jahresabschlusses hat der Prüfer festzustellen, ob das Versicherungsunternehmen folgende Anzeigepflichten und Anforderungen erfüllt hat:
@@ -1032,7 +1034,7 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 # § 36 – Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
 
-(1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Aufsichtsrat bestimmten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann, wenn sie gegen den Abschlussprüfer des Jahresabschlusses Bedenken hat, verlangen, dass innerhalb einer angemessenen Frist ein anderer Abschlussprüfer bestimmt wird. Unterbleibt das oder hat die Aufsichtsbehörde auch gegen den neuen Abschlussprüfer Bedenken, so hat sie den Abschlussprüfer selbst zu bestimmen. In diesem Fall gilt § 318 Absatz 1 Satz 4 des Handelsgesetzbuchs mit der Maßgabe, dass die gesetzlichen Vertreter den Prüfungsauftrag unverzüglich dem von der Aufsichtsbehörde bestimmten Prüfer zu erteilen haben.
+(1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Versicherungsunternehmen gewählten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann, wenn sie gegen den Abschlussprüfer des Jahresabschlusses Bedenken hat, verlangen, dass innerhalb einer angemessenen Frist ein anderer Abschlussprüfer bestimmt wird. Unterbleibt das oder hat die Aufsichtsbehörde auch gegen den neuen Abschlussprüfer Bedenken, so hat sie den Abschlussprüfer selbst zu bestimmen. In diesem Fall gilt § 318 Absatz 1 Satz 4 des Handelsgesetzbuchs mit der Maßgabe, dass die gesetzlichen Vertreter den Prüfungsauftrag unverzüglich dem von der Aufsichtsbehörde bestimmten Prüfer zu erteilen haben.
 
 (2) Absatz 1 gilt nicht für Versicherungsunternehmen, die auf Grund des § 330 Absatz 1, 3 und 4 des Handelsgesetzbuchs und der auf Grund dieser Ermächtigung erlassenen Rechtsverordnung von der Verpflichtung befreit sind, den Jahresabschluss prüfen zu lassen.
 
@@ -3132,7 +3134,7 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 # § 191 – Oberste Vertretung
 
-Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1 Nummer 1, 2, 4, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3 und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
+Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1 Nummer 1, 2, 4, 5, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3 und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
 
 # § 192 – Rechte von Minderheiten
 
@@ -5556,7 +5558,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden.
 
-(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den §§ 264 und 298 Absatz 1 und 2, dieser in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung.
 
 (+++ § 310: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
@@ -5726,7 +5728,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 1. die privaten Versicherungsunternehmen und Pensionsfonds, die im Inland ihren Sitz oder eine Niederlassung haben oder auf andere Weise das Versicherungs- oder das Pensionsfondsgeschäft betreiben,
 
-2. die Versicherungs-Holdinggesellschaften im Sinne des § 7 Nummer 31, die Versicherungs-Zweckgesellschaften im Sinne des § 168 und die Sicherungsfonds im Sinne des § 223 sowie
+2. die Versicherungs-Holdinggesellschaften im Sinne des § 7 Nummer 31, die Unternehmen im Sinne des § 293 Absatz 4, die Versicherungs-Zweckgesellschaften im Sinne des § 168 und die Sicherungsfonds im Sinne des § 223 sowie
 
 3. die öffentlich-rechtlichen Wettbewerbs-Versicherungsunternehmen, die über das Gebiet eines Landes hinaus tätig sind.
 
@@ -5882,11 +5884,17 @@ eine dort genannte Bestätigung nicht richtig abgibt oder
 
 3. entgegen § 311 Absatz 1 Satz 1, auch in Verbindung mit Satz 2 oder Absatz 2 Satz 1 zweiter Halbsatz, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet.
 
-(2a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats im Sinne des § 189 oder als Mitglied eines nach § 189 Absatz 3 Satz 1 in Verbindung mit § 107 Absatz 3 Satz 2 des Aktiengesetzes bestellten Prüfungsausschusses eines Versicherungsvereins auf Gegenseitigkeit, der Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+(2a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 189 Absatz 3 Satz 1 in Verbindung mit § 107 Absatz 4 Satz 1 des Aktiengesetzes eingerichteten Prüfungsausschusses eines Versicherungsvereins auf Gegenseitigkeit, der Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 3 des Handelsgesetzbuchs ist,
 
 1. eine in § 332 Absatz 4a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
 2. eine in § 332 Absatz 4a bezeichnete Handlung beharrlich wiederholt.
+
+(2b) Ebenso wird bestraft, wer als Mitglied des Aufsichtsrats im Sinne des § 189 eines Versicherungsvereins auf Gegenseitigkeit, der Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 3 des Handelsgesetzbuchs ist,
+
+1. eine in § 332 Absatz 4b bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2. eine in § 332 Absatz 4b bezeichnete Handlung beharrlich wiederholt.
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe in den Fällen des Absatzes 1 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe und in den Fällen des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
@@ -5992,17 +6000,13 @@ d) entgegen § 7c Absatz 5 Satz 3 des Versicherungsvertragsgesetzes eine Erklär
 
 5. entgegen Artikel 8d Absatz 1 Satz 2 die dort genannte Dokumentation nicht richtig vornimmt.
 
-(4a) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats im Sinne des § 189 oder als Mitglied eines nach § 189 Absatz 3 Satz 1 in Verbindung mit § 107 Absatz 3 Satz 2 des Aktiengesetzes bestellten Prüfungsausschusses eines Versicherungsvereins auf Gegenseitigkeit, der Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+(4a) Ordnungswidrig handelt, wer als Mitglied eines nach § 189 Absatz 3 Satz 1 in Verbindung mit § 107 Absatz 4 Satz 1 des Aktiengesetzes eingerichteten Prüfungsausschusses eines Versicherungsvereins auf Gegenseitigkeit, der Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 3 des Handelsgesetzbuchs ist,
 
 1. die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
 
-2. eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 beruht und
+2. dem Aufsichtsrat eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
 
-a) die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
-
-b) der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
-
-(4b) (weggefallen)
+(4b) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats im Sinne des § 189 eines Versicherungsvereins auf Gegenseitigkeit, der Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 3 des Handelsgesetzbuchs ist, der obersten Vertretung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
 (4c) (weggefallen)
 
@@ -6124,7 +6128,7 @@ e) Artikel 6 Unterabsatz 2 oder Artikel 7 der Verordnung (EU) 2020/852
 
 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Vertragsschluss offenlegt.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3 und des Absatzes 3 Nummer 3, 3a, 3b und 3c und des Absatzes 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
+(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3, des Absatzes 3 Nummer 3, 3a, 3b und 3c, der Absätze 4a und 4b sowie 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
 
 (6) Gegenüber einer juristischen Person oder einer Personenvereinigung kann in den Fällen des Absatzes 4d über Absatz 5 hinaus eine höhere Geldbuße verhängt werden; diese darf den höheren der Beträge von fünf Millionen Euro oder 3 Prozent des Gesamtumsatzes, den die juristische Person oder die Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, nicht übersteigen.
 
@@ -6172,11 +6176,11 @@ Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, so ist die Entsche
 
 (2) In Strafverfahren, die Straftaten nach § 331 Absatz 1 und 2 Nummer 1 zum Gegenstand haben, hat die Staatsanwaltschaft die Aufsichtsbehörde bereits über die Einleitung des Ermittlungsverfahrens zu unterrichten, soweit dadurch eine Gefährdung des Ermittlungszwecks nicht zu erwarten ist. Erwägt die Staatsanwaltschaft das Verfahren einzustellen, so hat sie die Aufsichtsbehörde zu hören.
 
-(2a) In Strafverfahren, die eine Straftat nach § 331 Absatz 2a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
+(2a) In Strafverfahren, die eine Straftat nach § 331 Absatz 2a oder 2b zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 (3) Werden sonst in einem Strafverfahren Tatsachen bekannt, die auf Missstände in dem Geschäftsbetrieb eines Versicherungsunternehmens oder eines Pensionsfonds einschließlich des Außendienstes hindeuten, so soll das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde diese Tatsachen ebenfalls mitteilen, soweit nicht für die übermittelnde Stelle erkennbar ist, dass schutzwürdige Interessen des Betroffenen überwiegen. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind. Tatsachen, die auf die Unzuverlässigkeit eines Aufsichtsratsmitglieds, eines Geschäftsleiters, eines Verantwortlichen Aktuars oder eines Inhabers einer bedeutenden Beteiligung schließen lassen, deuten in der Regel auf Missstände im Geschäftsbetrieb hin.
 
-(3a) Die nach § 333 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 332 Absatz 4a.
+(3a) Die nach § 333 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 332 Absatz 4a oder 4b.
 
 (4) Betrifft eine Mitteilung nach Absatz 1 oder 2 ein Versicherungsunternehmen oder einen Pensionsfonds, über das oder den die Aufsicht nach diesem Gesetz durch eine Landesbehörde ausgeübt wird, leitet die Bundesanstalt die Mitteilung unverzüglich an diese Behörde weiter.
 
@@ -6488,6 +6492,10 @@ Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das Versich
 # § 356 – Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8
 
 § 35 Absatz 1 Satz 1 Nummer 5, 6 und 7 ist erstmals auf die Abschlussprüfung des Jahresabschlusses für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2017 beginnt. § 35 Absatz 1 Satz 1 Nummer 8 ist erstmals auf die Abschlussprüfung des Jahresabschlusses für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2018 beginnt.
+
+# § 357 – Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+Die §§ 36, 191, 331, 332 und 334 in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die §§ 36, 191, 331, 332 und 334 in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 # Anlage 1 – Einteilung der Risiken nach Sparten
 

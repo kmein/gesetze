@@ -1273,7 +1273,7 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 (9) Eine bedeutende Beteiligung im Sinne dieses Gesetzes ist eine qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung. Für die Berechnung des Anteils der Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Institute oder Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach Absatz 1 Satz 2 Nummer 10 oder nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
 
-(10) (weggefallen)
+(10) Auslagerungsunternehmen sind Unternehmen, auf die ein Institut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerungen von Aktivitäten und Prozessen, die für die Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen wesentlich sind.
 
 (11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Absatz 1 und 6 sind
 
@@ -2171,7 +2171,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (1a) Innerhalb des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 ist Absatz 1 auch dann anzuwenden, wenn die Bundesanstalt die Europäische Zentralbank bei ihren Aufgaben im Sinne von Artikel 6 Absatz 2 und 3 der Verordnung (EU) Nr. 1024/2013 unterstützt. Bei der Zusammenarbeit nach Absatz 1 informieren sich die Bundesanstalt und die Deutsche Bundesbank unverzüglich über Anfragen der Europäischen Zentralbank und tauschen von dieser erhaltene Informationen aus. Übermittelt die Bundesanstalt oder die Deutsche Bundesbank im Rahmen der Wahrnehmung ihrer Aufgaben nach diesem Gesetz Beobachtungen, Feststellungen, Daten oder sonstige Informationen an die Europäische Zentralbank, übermittelt sie diese zeitgleich auch an die jeweils andere Stelle. Die Absätze 2 bis 5 finden auch im Rahmen des einheitlichen Aufsichtsmechanismus entsprechende Anwendung.
 
-(2) Die Deutsche Bundesbank hat die Richtlinien der Bundesanstalt zu beachten. Die Richtlinien der Bundesanstalt zur laufenden Aufsicht ergehen im Einvernehmen mit der Deutschen Bundesbank. Innerhalb des einheitlichen Aufsichtsmechanismus beachtet die Bundesanstalt bei Erlass der Richtlinien die Vorgaben der Europäischen Zentralbank nach Artikel 6 Absatz 5 Buchstabe a der Verordnung (EU) Nr. 1024/2013. Kann ein Einvernehmen nicht innerhalb einer angemessenen Frist hergestellt werden, erlässt das Bundesministerium der Finanzen solche Richtlinien im Benehmen mit der Deutschen Bundesbank und unter Beachtung der innerhalb des einheitlichen Aufsichtsmechanismus erlassenen Vorgaben der Europäischen Zentralbank nach Artikel 6 Absatz 5 Buchstabe a der Verordnung (EU) Nr. 1024/2013. Die aufsichtsrechtlichen Maßnahmen, insbesondere Allgemeinverfügungen und Verwaltungsakte einschließlich Prüfungsanordnungen nach § 44 Absatz 1 Satz 2 und § 44b Absatz 2 Satz 1, trifft die Bundesanstalt gegenüber den Instituten. Die Bundesanstalt legt die von der Deutschen Bundesbank getroffenen Prüfungsfeststellungen und Bewertungen in der Regel ihren aufsichtsrechtlichen Maßnahmen zugrunde.
+(2) Die Deutsche Bundesbank hat die Richtlinien der Bundesanstalt zu beachten. Die Richtlinien der Bundesanstalt zur laufenden Aufsicht ergehen im Einvernehmen mit der Deutschen Bundesbank. Innerhalb des einheitlichen Aufsichtsmechanismus beachtet die Bundesanstalt bei Erlass der Richtlinien die Vorgaben der Europäischen Zentralbank nach Artikel 6 Absatz 5 Buchstabe a der Verordnung (EU) Nr. 1024/2013. Kann ein Einvernehmen nicht innerhalb einer angemessenen Frist hergestellt werden, erlässt das Bundesministerium der Finanzen solche Richtlinien im Benehmen mit der Deutschen Bundesbank und unter Beachtung der innerhalb des einheitlichen Aufsichtsmechanismus erlassenen Vorgaben der Europäischen Zentralbank nach Artikel 6 Absatz 5 Buchstabe a der Verordnung (EU) Nr. 1024/2013. Die aufsichtsrechtlichen Maßnahmen, insbesondere Allgemeinverfügungen und Verwaltungsakte einschließlich Prüfungsanordnungen nach § 44 Absatz 1 Satz 2 und § 44b Absatz 2 Satz 1, trifft die Bundesanstalt gegenüber den Instituten oder Auslagerungsunternehmen. Die Bundesanstalt legt die von der Deutschen Bundesbank getroffenen Prüfungsfeststellungen und Bewertungen in der Regel ihren aufsichtsrechtlichen Maßnahmen zugrunde.
 
 (3) Die Bundesanstalt und die Deutsche Bundesbank haben einander Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung ihrer Aufgaben erforderlich sind. Die Deutsche Bundesbank hat insoweit der Bundesanstalt auch die Angaben zur Verfügung zu stellen, die jene auf Grund statistischer Erhebungen nach § 18 des Gesetzes über die Deutsche Bundesbank erlangt. Sie hat vor Anordnung einer solchen Erhebung die Bundesanstalt zu hören; § 18 Satz 5 des Gesetzes über die Deutsche Bundesbank gilt entsprechend.
 
@@ -4170,6 +4170,12 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des In
 
 (4) Sind bei Auslagerungen die Prüfungsrechte und Kontrollmöglichkeiten der Bundesanstalt beeinträchtigt, kann die Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, diese Beeinträchtigung zu beseitigen. Die Befugnisse der Bundesanstalt nach § 25a Absatz 2 Satz 2 bleiben unberührt.
 
+(4a) Die Bundesanstalt kann auch unmittelbar gegenüber Auslagerungsunternehmen, auf die wesentliche Aktivitäten und Prozesse im Sinne des Absatzes 1 Satz 1 ausgelagert wurden, im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
+
+1. um Verstöße gegen aufsichtsrechtliche Bestimmungen zu verhindern oder zu unterbinden oder
+
+2. um Missstände bei dem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden können oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen.
+
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zu erlassen über
 
 1. das Vorliegen einer Auslagerung,
@@ -4460,7 +4466,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (4) Institute dürfen interne Sicherungsmaßnahmen nach Absatz 1 Satz 1 nach vorheriger Anzeige bei der Bundesanstalt im Rahmen von vertraglichen Vereinbarungen durch einen Dritten durchführen lassen. Die Bundesanstalt kann die Rückübertragung auf das Institut dann verlangen, wenn der Dritte nicht die Gewähr dafür bietet, dass die Sicherungsmaßnahmen ordnungsgemäß durchgeführt werden oder die Steuerungsmöglichkeiten der Institute und die Kontrollmöglichkeiten der Bundesanstalt beeinträchtigt werden könnten. Die Verantwortung für die Sicherungsmaßnahmen verbleibt bei den Instituten.
 
-(5) Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die in den Absätzen 1 bis 3 genannten Vorkehrungen zu treffen.
+(5) Die Bundesanstalt kann gegenüber einem Institut oder einem Auslagerungsunternehmen, auf das ein Institut oder ein übergeordnetes Unternehmen gemäß Absatz 4 oder gemäß § 6 Absatz 7 des Geldwäschegesetzes ausgelagert hat, im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die in den Absätzen 1 bis 3 genannten Vorkehrungen zu treffen.
 
 (6) Die Deutsche Bundesbank gilt als Institut im Sinne der Absätze 1 bis 4.
 
@@ -5143,7 +5149,7 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 
 # § 44 – Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen
 
-(1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder deren Organe und deren Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen vorzulegen und erforderlichenfalls Kopien anzufertigen. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten und übergeordneten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; das schließt Unternehmen ein, auf die ein Institut oder übergeordnetes Unternehmen wesentliche Bereiche im Sinne des § 25b ausgelagert hat (Auslagerungsunternehmen). Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts, des Auslagerungsunternehmens und des übergeordneten Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden.
+(1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder deren Organe und deren Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen vorzulegen und erforderlichenfalls Kopien anzufertigen; dies gilt auch für Auslagerungsunternehmen, für die Mitglieder von deren Organen und für deren Beschäftigte, soweit Aktivitäten und Prozesse betroffen sind, die ein Institut oder übergeordnetes Unternehmen ausgelagert hat. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten, übergeordneten Unternehmen und Auslagerungsunternehmen, soweit ein Institut oder ein übergeordnetes Unternehmen wesentliche Aktivitäten und Prozesse im Sinne des § 25b Absatz 1 Satz 1 ausgelagert hat oder es sich um eine Auslagerung nach § 25h Absatz 4 oder nach § 6 Absatz 7 des Geldwäschegesetzes handelt, Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts, des Auslagerungsunternehmens und des übergeordneten Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden.
 
 (1a) Soweit eine zentrale Gegenpartei unter den Voraussetzungen des Artikels 35 Absatz 1 der Verordnung (EU) Nr. 648/2012 operationelle Funktionen, Dienstleistungen oder Tätigkeiten auf ein Unternehmen auslagert, sind die Befugnisse der Bundesanstalt nach Absatz 1 Satz 2 und 3 auch auf dieses Unternehmen entsprechend anwendbar; Absatz 1 Satz 4 gilt entsprechend.
 
@@ -5363,7 +5369,7 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 
 (2) Absatz 1 ist entsprechend auf das jeweilige übergeordnete Unternehmen im Sinne des § 10a sowie auf ein Institut, das nach Artikel 22 der Verordnung (EU) Nr. 575/2013 zur Unterkonsolidierung verpflichtet ist, anzuwenden, wenn eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe entgegen § 25a Absatz 1 und § 25b nicht über eine ordnungsgemäße Geschäftsorganisation verfügt; Absatz 1 Satz 1 Nummer 3 ist mit der Maßgabe entsprechend anzuwenden, dass die Aufsichtsbehörde statt einer Untersagung oder Beschränkung der Gewährung von Krediten, die für die Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe nach Maßgabe der Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 in ihrer jeweils geltenden Fassung geltenden Großkreditobergrenzen herabsetzen kann. Verfügt eine Zweigniederlassung des Instituts in einem Drittstaat nicht über eine angemessene Geschäftsorganisation oder ist sie nicht in der Lage, die zur Beurteilung ihrer Geschäftsorganisation oder die zur Einbeziehung in die Institutsorganisation erforderlichen Angaben zur Verfügung zu stellen, oder wird sie in dem Drittstaat nicht effektiv beaufsichtigt oder ist die für die Zweigniederlassung zuständige Aufsichtsstelle nicht zu einer befriedigenden Zusammenarbeit mit der Aufsichtsbehörde bereit, kann die Aufsichtsbehörde auch die Geschäftstätigkeit der Zweigniederlassung beschränken oder ihre Schließung und Abwicklung anordnen.
 
-(3) (weggefallen)
+(3) Absatz 1 Satz 1 Nummer 1 ist entsprechend auf Auslagerungsunternehmen anzuwenden, soweit ein Institut oder ein übergeordnetes Unternehmen wesentliche Aktivitäten und Prozesse im Sinne des § 25b Absatz 1 Satz 1 ausgelagert hat.
 
 (+++ §§ 44 bis 46h: Zur Geltung vgl. § 2 Abs. 12 Satz 4 +++)  
 (+++ §§ 45 bis 45b: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1, Abs. 9e +++)  
@@ -5711,7 +5717,7 @@ Die Bagatellgrenze nach Satz 1 Nummer 2 beträgt mindestens 50 000 Euro, der un
 
 # § 49 – Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 und 2, Absatz 2 Satz 1 und Absatz 4, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 und 2, Absatz 2 Satz 1 und Absatz 4, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25b Absatz 4a des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.
 
 (+++ § 49: Zur Anwendung vgl. § 53b Abs. 3 Satz 1 Nr. 8 +++)  
 (+++ § 49: Zur Geltung vgl. § 53b Abs. 3 Satz 2 +++)  
@@ -6265,7 +6271,7 @@ d) § 14 Absatz 1 Satz 1 erster Halbsatz, auch in Verbindung mit einer Rechtsver
 
 e) § 15 Absatz 4 Satz 5,
 
-f) § 24 Absatz 1 Nummer 1, 2, 4, 6, 8, 9, 12, 14, 14a, 14b, 15, 15a, 16 oder Nummer 17 oder Absatz 3d,
+f) § 24 Absatz 1 Nummer 1, 2, 4, 6, 8, 9, 12, 14, 14a, 14b, 15 bis 17 oder Nummer 19 oder Absatz 3d,
 
 g) § 24 Absatz 1 Nummer 5 oder Nummer 7, jeweils auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 5,
 
@@ -6321,7 +6327,7 @@ k) § 45 Absatz 1 oder Absatz 5 Satz 5 bis 9,
 
 l) § 45a Absatz 1 Satz 1,
 
-m) § 45b Absatz 1 oder
+m) § 45b Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Satz 2 oder Absatz 3, oder § 45b Absatz 1 Satz 1 Nummer 2 oder 3, jeweils auch in Verbindung mit Satz 2, oder
 
 n) § 46 Absatz 1 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 8,
 

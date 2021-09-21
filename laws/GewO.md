@@ -3363,6 +3363,8 @@ Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt § 44a des Bu
 
 (7) Gewerbetreibende, die zu Vermögensanlagen im Sinne des § 1 Absatz 2 Nummer 7 des Vermögensanlagengesetzes Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes oder Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen wollen, bedürfen bis zum 15. Oktober 2015 keiner Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3.
 
+(8) Gewerbetreibende, die zu Vermögensanlagen im Sinne des § 1 Absatz 2 Nummer 8 des Vermögensanlagengesetzes Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes oder Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen wollen, bedürfen bis zum 31. Dezember 2021 keiner Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3.
+
 # § 158 – Übergangsregelung zu § 14
 
 Bis zum Inkrafttreten der in § 14 Absatz 14 genannten Rechtsverordnung sind die §§ 14, 55c Satz 2, § 146 Absatz 2 Nummer 2 sowie die Anlagen 1 bis 3 (zu § 14 Absatz 4) in der bis zum 14. Juli 2011 gültigen Fassung anzuwenden.

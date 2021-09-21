@@ -707,7 +707,7 @@ Die Daten der Inbetriebnahme in der Reihung sind eine Woche nach der Veröffentl
 
 4. die Anschaffungs- und Herstellungskosten der Investition, mit denen sie als Anlagevermögen in der Bilanz des Anlagenbetreibers aktiviert worden ist.
 
-Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jeweils anzuwendenden Vorschriften Abschlussprüfer des Jahresabschlusses des Anlagenbetreibers ist. Über das Ergebnis der Prüfung ist ein Testat anzufertigen. Für die Prüfung nach Satz 1 sind § 319 Absatz 2 bis 4, § 319a, § 319b Absatz 1, § 320 Absatz 2 und § 323 des Handelsgesetzbuchs sowie § 55 Absatz 2 des Genossenschaftsgesetzes entsprechend anzuwenden.
+Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jeweils anzuwendenden Vorschriften Abschlussprüfer des Jahresabschlusses des Anlagenbetreibers ist. Über das Ergebnis der Prüfung ist ein Testat anzufertigen. Für die Prüfung nach Satz 2 sind § 319 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des Handelsgesetzbuchs sowie § 55 Absatz 2 des Genossenschaftsgesetzes entsprechend anzuwenden.
 
 (3) Die Bundesnetzagentur bildet für die nach Absatz 1 geltend gemachten Investitionen jeweils einen kalkulatorischen Restwert zum 31. Dezember 2019. Dazu nimmt die Bundesnetzagentur eine jährliche, lineare kalkulatorische Abschreibung basierend auf einer kalkulatorischen Abschreibungsdauer von 15 Jahren vor. Die Summe der Restwerte der Investitionen in eine Steinkohleanlage setzt die Bundesnetzagentur in das Verhältnis zu der Nettonennleistung der Steinkohleanlage (korrigierter Investitionswert).
 
