@@ -227,9 +227,13 @@ Die Beamtinnen und Beamten sowie die Arbeitnehmerinnen und Arbeitnehmer bilden j
 
 Nebenstellen und Teile einer Dienststelle, die räumlich weit von dieser entfernt liegen, gelten als selbstständige Dienststellen, wenn die Mehrheit ihrer wahlberechtigten Beschäftigten dies in geheimer Abstimmung beschließt. Der Beschluss ist für die folgende Wahl und die Amtszeit der aus ihr hervorgehenden Personalvertretung wirksam.
 
+(+++ § 7: Zur Nichtanwendung vgl. § 116 Abs. 1 Satz 5 +++)
+
 # § 8 – Vertretung der Dienststelle
 
 Für die Dienststelle handelt ihre Leiterin oder ihr Leiter. Sie oder er kann sich bei Verhinderung durch ihre oder seine ständige Vertreterin oder ihren oder seinen ständigen Vertreter vertreten lassen. Bei obersten Dienstbehörden kann die Leiterin oder der Leiter der Dienststelle auch die Leiterin oder den Leiter der Abteilung für Personal- und Verwaltungsangelegenheiten, bei Bundesoberbehörden ohne nachgeordnete Dienststellen und bei Behörden der Mittelstufe auch die jeweils entsprechende Abteilungsleiterin oder den jeweils entsprechenden Abteilungsleiter zur Vertreterin oder zum Vertreter bestimmen. Die Vertretung durch sonstige Beauftragte ist zulässig, sofern der Personalrat sich mit dieser Beauftragung einverstanden erklärt.
+
+(+++ § 8: Zur Anwendung vgl. § 116 Abs. 1 Satz 3 +++)
 
 # § 9 – Stellung der Gewerkschaften und Arbeitgebervereinigungen
 
@@ -383,6 +387,9 @@ Die Zahl der Mitglieder erhöht sich in Dienststellen mit 1 001 bis 5 000 Besc
 
 Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der Personalrat drei Wahlberechtigte, die das 18. Lebensjahr vollendet haben, als Wahlvorstand und eine oder einen von ihnen als Vorsitzende oder Vorsitzenden. Der Personalrat kann die Zahl der Wahlvorstandsmitglieder erhöhen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist. Der Wahlvorstand muss aus einer ungeraden Zahl von Mitgliedern bestehen. Sind in der Dienststelle Angehörige verschiedener Gruppen beschäftigt, so muss jede Gruppe im Wahlvorstand vertreten sein. Hat die Dienststelle weibliche und männliche Beschäftigte, sollen dem Wahlvorstand Frauen und Männer angehören. Für jedes Mitglied des Wahlvorstands sollen für den Fall seiner Verhinderung bis zu drei Ersatzmitglieder bestellt werden. Jeweils eine Beauftragte oder ein Beauftragter der in der Dienststelle vertretenen Gewerkschaften ist berechtigt, an den Sitzungen des Wahlvorstands mit beratender Stimme teilzunehmen.
 
+(+++ § 21: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2  
+§ 21: Zur Nichtanwendung vgl. § 113 Abs. 2 +++)
+
 # § 22 – Wahl des Wahlvorstands durch die Personalversammlung
 
 (1) Besteht sechs Wochen vor Ablauf der Amtszeit des Personalrats kein Wahlvorstand, so beruft die Leiterin oder der Leiter der Dienststelle auf Antrag von mindestens drei Wahlberechtigten oder einer in der Dienststelle vertretenen Gewerkschaft eine Personalversammlung zur Wahl des Wahlvorstands ein. § 21 gilt entsprechend. Die Personalversammlung wählt eine Versammlungsleiterin oder einen Versammlungsleiter.
@@ -415,6 +422,8 @@ Mindestens drei Wahlberechtigte, jede in der Dienststelle vertretene Gewerkschaf
 
 (2) Die Amtszeit des Personalrats beginnt am 1. Juni des Jahres, in dem die regelmäßigen Personalratswahlen stattfinden, und endet mit dem Ablauf von vier Jahren. Ist am Tag des Ablaufs der Amtszeit ein neuer Personalrat nicht gewählt oder hat sich am Tag des Ablaufs der Amtszeit noch kein neuer Personalrat konstituiert, führt der Personalrat die Geschäfte weiter, bis sich der neu gewählte Personalrat konstituiert hat, längstens jedoch bis zum Ablauf des 31. Juli.
 
+(+++ § 27 Abs. 2 Satz 2: Zur Anwendung vgl. § 102 Abs. 2 Satz 3 +++)
+
 # § 28 – Vorzeitige Neuwahl
 
 (1) Außerhalb des in § 27 Absatz 1 genannten Zeitraums ist der Personalrat neu zu wählen, wenn
@@ -439,21 +448,9 @@ Mindestens drei Wahlberechtigte, jede in der Dienststelle vertretene Gewerkschaf
 
 (5) Hat außerhalb des für die regelmäßigen Personalratswahlen festgelegten Zeitraums eine Personalratswahl stattgefunden, so ist der Personalrat in dem auf die Wahl folgenden nächsten Zeitraum der regelmäßigen Personalratswahlen neu zu wählen. Hat die Amtszeit des Personalrats zu Beginn des für die regelmäßigen Personalratswahlen festgelegten Zeitraums noch nicht ein Jahr betragen, so ist der Personalrat in dem übernächsten Zeitraum der regelmäßigen Personalratswahlen neu zu wählen.
 
+(+++ § 28 Abs. 5: Zur Anwendung vgl. § 29 Abs. 7 +++)
+
 # § 29 – Übergangsmandat und Restmandat bei Umstrukturierungsmaßnahmen
-
-(1) Wird eine Dienststelle in mehrere Dienststellen aufgespalten oder werden Teile einer Dienststelle in eine neue Dienststelle ausgegliedert, führt der Personalrat die Geschäfte für die ihm bislang zugeordneten Dienststellenteile weiter (Übergangsmandat). Der Personalrat hat unverzüglich nach Wirksamwerden der Organisationsmaßnahme einen Wahlvorstand in der neuen Dienststelle zu bestellen. Das Übergangsmandat endet, sobald sich der neu gewählte Personalrat konstituiert hat, spätestens jedoch sechs Monate nach Wirksamwerden der Organisationsmaßnahme. Durch Vereinbarung zwischen der neuen Dienststelle und dem Personalrat kann das Übergangsmandat um weitere sechs Monate verlängert werden.
-
-(2) Werden Dienststellen oder Teile mehrerer Dienststellen zu einer neuen Dienststelle zusammengelegt, nimmt der Personalrat derjenigen Dienststelle, aus der die meisten Beschäftigten zu der neuen Dienststelle übergegangen sind, das Übergangsmandat wahr. Absatz 1 Satz 2 bis 4 gilt entsprechend.
-
-(3) Wird im Geschäftsbereich einer obersten Dienstbehörde eine Dienststelle neu errichtet, ohne dass die Voraussetzungen des Absatzes 1 Satz 1 oder des Absatzes 2 Satz 1 vorliegen, so nimmt die bei der übergeordneten Dienststelle gebildete Stufenvertretung oder, wenn eine solche nicht besteht, der bei der übergeordneten Dienststelle gebildete Personalrat das Übergangsmandat wahr. Absatz 1 Satz 2 bis 4 gilt entsprechend.
-
-(4) Werden Teile einer Dienststelle in eine andere Dienststelle eingegliedert und steigt oder sinkt hierdurch in der abgebenden oder in der aufnehmenden Dienststelle die Zahl der regelmäßig Beschäftigten um ein Viertel, mindestens aber um 50 Personen, ist der Personalrat der hiervon betroffenen Dienststelle abweichend von § 28 Absatz 1 Nummer 1 neu zu wählen. Dies gilt nicht, wenn die Eingliederung weniger als zwölf Monate vor dem Ende der regelmäßigen Amtszeit des Personalrats wirksam wird. Wird eine Dienststelle vollständig in eine andere Dienststelle eingegliedert, gelten die Sätze 1 und 2 entsprechend für den Personalrat der aufnehmenden Dienststelle.
-
-(5) Wird eine Dienststelle aufgelöst, bleibt deren Personalrat so lange im Amt, wie dies zur Wahrnehmung der damit im Zusammenhang stehenden Beteiligungsrechte erforderlich ist.
-
-(6) Geht eine Dienststelle durch Umwandlung oder eine anderweitige Privatisierungsmaßnahme in eine Rechtsform des Privatrechts über, bleibt deren Personalrat im Amt und führt die Geschäfte weiter, wenn die Voraussetzungen des § 1 Absatz 1 Satz 1 des Betriebsverfassungsgesetzes erfüllt sind und ein Betriebsrat nicht besteht. Werden Dienststellen oder Teile mehrerer Dienststellen zu einem Betrieb im Sinne des § 1 Absatz 1 Satz 1 des Betriebsverfassungsgesetzes zusammengefasst, bestimmt sich der das Übergangsmandat wahrnehmende Personalrat in entsprechender Anwendung des Absatzes 2 Satz 1. Der Personalrat nimmt die Aufgaben eines Betriebsrats nach dem Betriebsverfassungsgesetz wahr und hat unverzüglich den Wahlvorstand zur Einleitung der Betriebsratswahl zu bestellen. Für das Ende des Übergangsmandats gilt § 21a Absatz 1 Satz 3 und 4 des Betriebsverfassungsgesetzes entsprechend. Auf die bis zum Zeitpunkt des Wirksamwerdens der Privatisierungsmaßnahme eingeleiteten Beteiligungsverfahren, Verfahren vor der Einigungsstelle und den Verwaltungsgerichten sind die Bestimmungen dieses Gesetzes anzuwenden. Die in den bisherigen Dienststellen bestehenden Dienstvereinbarungen gelten für die Beschäftigten aus diesen Dienststellen längstens für zwölf Monate nach Wirksamwerden der Privatisierungsmaßnahme als Betriebsvereinbarung fort, soweit sie nicht durch eine andere Regelung ersetzt werden.
-
-(7) Auf Wahlen nach den Absätzen 1 bis 4 ist § 28 Absatz 5 anzuwenden.
 
 # § 30 – Ausschluss eines Mitglieds und Auflösung des Personalrats
 
@@ -486,6 +483,8 @@ Auf Antrag eines Viertels der Wahlberechtigten oder einer in der Dienststelle ve
 # § 32 – Ruhen der Mitgliedschaft
 
 Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange ihr oder ihm die Führung der Dienstgeschäfte verboten oder sie oder er wegen eines schwebenden Disziplinarverfahrens vorläufig des Dienstes enthoben ist.
+
+(+++ § 32: Zur Anwendung vgl. § 96 Abs. 2 Satz 3 +++)
 
 # § 33 – Eintritt von Ersatzmitgliedern
 
@@ -534,6 +533,11 @@ Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat ruht, solange
 (2) Auf Antrag eines Viertels der Mitglieder oder der Mehrheit einer Gruppe des Personalrats kann eine Beauftragte oder ein Beauftragter einer im Personalrat vertretenen Gewerkschaft an den Sitzungen beratend teilnehmen; in diesem Fall sind der Gewerkschaft der Zeitpunkt der Sitzung und die Tagesordnung rechtzeitig mitzuteilen.
 
 (3) Die Leiterin oder der Leiter der Dienststelle nimmt an den Sitzungen teil, die auf ihr oder sein Verlangen anberaumt worden sind oder zu denen sie oder er ausdrücklich eingeladen worden ist.
+
+(+++ § 37 Abs. 2: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2  
+§ 37 Abs. 2: Zur Nichtanwendung vgl. § 113 Abs. 2  
+§ 37 Abs. 1: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1  
+§ 37 Abs. 2: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
 
 # § 38 – Zeitpunkt der Sitzungen und Nichtöffentlichkeit
 
@@ -593,11 +597,17 @@ Angehörige im Sinne des Satzes 1 Nummer 1 sind die in § 20 Absatz 5 des Verwal
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn die Schwerbehindertenvertretung einen Beschluss des Personalrats als eine erhebliche Beeinträchtigung wichtiger Interessen der schwerbehinderten oder ihnen gleichgestellten Beschäftigten erachtet.
 
+(+++ § 42 Abs. 1: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2  
+§ 42 Abs. 1: Zur Nichtanwendung vgl. § 113 Abs. 2  
+§ 42 Abs. 1: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
+
 # § 43 – Protokoll
 
 (1) Über jede Verhandlung des Personalrats ist ein Protokoll zu führen, das mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst sind, enthält. Das Protokoll ist von der oder dem Vorsitzenden und einem weiteren Mitglied zu unterzeichnen. Dem Protokoll ist eine Anwesenheitsliste beizufügen, in die sich jede Teilnehmerin und jeder Teilnehmer eigenhändig einzutragen hat.
 
 (2) Haben die Leiterin oder der Leiter der Dienststelle oder Beauftragte von Gewerkschaften an der Sitzung teilgenommen, so ist ihnen der entsprechende Auszug aus dem Protokoll zuzuleiten. Einwendungen gegen das Protokoll sind unverzüglich schriftlich oder elektronisch zu erheben und dem Protokoll beizufügen.
+
+(+++ § 43 Abs. 1 Satz 3: Zur Anwendung vgl. § 38 Abs. 3 Satz 5 +++)
 
 # § 44 – Geschäftsordnung
 
@@ -713,6 +723,8 @@ In dem Verfahren vor dem Verwaltungsgericht ist der Personalrat Beteiligter.
 
 (5) Die Absätze 2 bis 4 sind unabhängig davon anzuwenden, ob der Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.
 
+(+++ § 56: Zur Anwendung vgl. § 127 Abs. 2 +++)
+
 # § 57 – Zusammensetzung, Leitung, Teilversammlung
 
 (1) Die Personalversammlung besteht aus den Beschäftigten der Dienststelle. Sie wird von der oder dem Vorsitzenden des Personalrats geleitet.
@@ -724,6 +736,9 @@ In dem Verfahren vor dem Verwaltungsgericht ist der Personalrat Beteiligter.
 (1) Die Personalversammlung ist nicht öffentlich. Der Personalrat kann die Personalversammlung im Einvernehmen mit der Leiterin oder dem Leiter der Dienststelle mittels Videokonferenz in Nebenstellen oder Teile der Dienststelle übertragen. § 38 Absatz 3 Satz 2 Nummer 1 und 3 sowie Satz 3 gilt entsprechend. Die Möglichkeit zur Durchführung von Teilversammlungen bleibt unberührt.
 
 (2) Beauftragte der in der Dienststelle vertretenen Gewerkschaften und eine Beauftragte oder ein Beauftragter der Arbeitgebervereinigung, der die Dienststelle angehört, sind berechtigt, mit beratender Stimme an der Personalversammlung teilzunehmen. Der Personalrat hat die Einberufung der Personalversammlung den Gewerkschaften und der Arbeitgebervereinigung mitzuteilen. Ein beauftragtes Mitglied der Stufenvertretung und des Gesamtpersonalrats sowie eine Beauftragte oder ein Beauftragter der Dienststelle, bei der die Stufenvertretung besteht, können an der Personalversammlung ohne beratende Stimme teilnehmen. Teilnahmerechte auf Grund anderer Rechtvorschriften bleiben unberührt.
+
+(+++ § 58 Abs. 2: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 2  
+§ 58 Abs. 2: Zur Nichtanwendung vgl. § 113 Abs. 2 +++)
 
 # § 59 – Ordentliche und außerordentliche Personalversammlung
 
@@ -750,6 +765,8 @@ In dem Verfahren vor dem Verwaltungsgericht ist der Personalrat Beteiligter.
 (2) Die Personalversammlung kann dem Personalrat Anträge unterbreiten und zu seinen Beschlüssen Stellung nehmen.
 
 (3) § 2 Absatz 2 und 5 gilt für die Personalversammlung entsprechend.
+
+(+++ § 61 Abs. 2: Zur Nichtanwendung vgl. § 120 Abs. 4 Satz 3 +++)
 
 # § 62 – Allgemeine Aufgaben
 
@@ -831,15 +848,22 @@ Bei der Verarbeitung personenbezogener Daten hat der Personalrat die Vorschrifte
 
 (2) Die übergeordnete Dienststelle soll die Angelegenheit, sofern sie dem Anliegen des Personalrats nicht oder nicht in vollem Umfang entspricht, innerhalb von sechs Wochen der bei ihr gebildeten Stufenvertretung vorlegen. Für das weitere Verfahren gilt § 70 Absatz 2 und 3 entsprechend.
 
+(+++ § 71 Abs. 1 Satz 3: Zur Nichtanwendung vgl. § 115 Abs. 1 Satz 2  
+§ 71 Abs. 1 Satz 3: Zur Nichtanwendung vgl. § 116 Abs. 1 Satz 2 +++)
+
 # § 72 – Anrufung der Einigungsstelle
 
 Ergibt sich zwischen der obersten Dienstbehörde und der bei ihr bestehenden zuständigen Personalvertretung keine Einigung, kann jede Seite die Einigungsstelle anrufen.
+
+(+++ § 72: Zur Nichtanwendung vgl. § 112 Abs. 4 Satz 5 +++)
 
 # § 73 – Bildung und Zusammensetzung der Einigungsstelle
 
 (1) Die Einigungsstelle wird bei der obersten Dienstbehörde gebildet.
 
 (2) Die Einigungsstelle besteht aus je drei Beisitzerinnen oder Beisitzern, die von der obersten Dienstbehörde und der bei ihr bestehenden zuständigen Personalvertretung bestellt werden, sowie einer oder einem unparteiischen Vorsitzenden, auf die oder den sich beide Seiten einigen. Unter den Beisitzerinnen und Beisitzern, die von der Personalvertretung bestellt werden, muss sich je eine Beamtin oder ein Beamter und eine Arbeitnehmerin oder ein Arbeitnehmer befinden, es sei denn, die Angelegenheit betrifft nur die Beamtinnen und Beamten oder nur die Arbeitnehmerinnen und Arbeitnehmer. Kommt eine Einigung über die Person der oder des Vorsitzenden nicht zustande, so bestellt sie oder ihn die Präsidentin oder der Präsident des Bundesverwaltungsgerichts.
+
+(+++ § 73: Zur Nichtanwendung vgl. § 112 Abs. 4 Satz 5 +++)
 
 # § 74 – Verfahren der Einigungsstelle
 
@@ -853,6 +877,8 @@ Ergibt sich zwischen der obersten Dienstbehörde und der bei ihr bestehenden zus
 
 (5) Für die Verhandlung und Beschlussfassung der Einigungsstelle gilt § 38 Absatz 3 Satz 1, 2 Nummer 1 und 3 sowie Satz 3 entsprechend. Die Verhandlung und Beschlussfassung mittels Video- oder Telefonkonferenz ist unzulässig, wenn ein Mitglied der Einigungsstelle binnen einer von der oder dem Vorsitzenden zu bestimmenden Frist gegenüber der oder dem Vorsitzenden widerspricht. Mitglieder der Einigungsstelle, die mittels Video- oder Telefonkonferenz teilnehmen, gelten als anwesend.
 
+(+++ § 74: Zur Nichtanwendung vgl. § 112 Abs. 4 Satz 5 +++)
+
 # § 75 – Bindung an die Beschlüsse der Einigungsstelle
 
 (1) Der Beschluss der Einigungsstelle bindet die Beteiligten mit Ausnahme der in den Absätzen 2 und 3 geregelten Fälle.
@@ -860,6 +886,8 @@ Ergibt sich zwischen der obersten Dienstbehörde und der bei ihr bestehenden zus
 (2) Die oberste Dienstbehörde kann einen Beschluss der Einigungsstelle in Angelegenheiten, die im Einzelfall wegen ihrer Auswirkungen auf das Gemeinwesen wesentlicher Bestandteil der Regierungsgewalt sind, innerhalb von vier Wochen nach dessen Zustellung ganz oder teilweise aufheben und in der Angelegenheit endgültig entscheiden. Die Aufhebung und deren Gründe sind der Vorsitzenden oder dem Vorsitzenden der Einigungsstelle sowie den beteiligten Dienststellen und Personalvertretungen unverzüglich schriftlich oder elektronisch mitzuteilen.
 
 (3) In den Fällen des § 78 Absatz 1 und des § 80 Absatz 1 Nummer 10 bis 13 und 19 bis 21 beschließt die Einigungsstelle, wenn sie sich nicht der Auffassung der obersten Dienstbehörde anschließt, eine Empfehlung an diese. Die oberste Dienstbehörde entscheidet sodann endgültig.
+
+(+++ § 75: Zur Nichtanwendung vgl. § 112 Abs. 4 Satz 5 +++)
 
 # § 76 – Vorläufige Maßnahmen
 
@@ -874,6 +902,8 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 1. in den Fällen des § 78 Absatz 1 Nummer 12, des § 79 Absatz 1 Nummer 4 und 5 sowie des § 80 Absatz 1 Nummer 1, 3, 4, 6 bis 9, 14, 16, 18 und 21 nach den §§ 71 bis 75,
 
 2. in den übrigen Angelegenheiten nach § 71 mit der Maßgabe, dass die oberste Dienstbehörde endgültig entscheidet.
+
+(+++ § 77 Abs. 2 Satz 2 Nummer 1: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 1 +++)
 
 # § 78 – Mitbestimmung in Personalangelegenheiten
 
@@ -1027,6 +1057,8 @@ Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die der Natur
 
 (2) Maßnahmen nach Absatz 1 Nummer 4 bis 6 gegenüber den in § 78 Absatz 3 genannten Beschäftigten unterliegen nicht der Mitwirkung. Im Übrigen wird der Personalrat in den Fällen des Absatzes 1 Nummer 4 bis 6 nur auf Antrag der oder des Beschäftigten beteiligt; die oder der Beschäftigte ist von der beabsichtigten Maßnahme rechtzeitig vorher in Kenntnis zu setzen. Der Personalrat kann bei der Mitwirkung nach Absatz 1 Nummer 4 Einwendungen auf die in § 78 Absatz 5 Nummer 1 und 2 bezeichneten Gründe stützen.
 
+(+++ § 84 Abs. 1 Nummer 2: Zur Nichtanwendung vgl. § 117 Abs. 4 +++)
+
 # § 85 – Ordentliche Kündigung
 
 (1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den Arbeitgeber mit. § 78 Absatz 3 gilt entsprechend. Der Personalrat kann gegen die Kündigung Einwendungen erheben, wenn nach seiner Ansicht
@@ -1052,6 +1084,8 @@ Wird der Arbeitnehmerin oder dem Arbeitnehmer gekündigt, obwohl der Personalrat
 3. der Widerspruch des Personalrats offensichtlich unbegründet war.
 
 (3) Eine Kündigung ist unwirksam, wenn der Personalrat nicht beteiligt worden ist.
+
+(+++ § 85 Abs. 2: Zur Nichtanwendung vgl. § 112 Abs. 5 Satz 1 +++)
 
 # § 86 – Außerordentliche Kündigung und fristlose Entlassung
 
@@ -1096,6 +1130,9 @@ Für die Rechtsstellung der Mitglieder der Stufenvertretung gilt Kapitel 2 Absch
 (3) Für die Aufgaben, Befugnisse und Pflichten der Stufenvertretungen gilt Kapitel 4 entsprechend.
 
 (4) Werden im Geschäftsbereich mehrstufiger Verwaltungen personelle oder soziale Maßnahmen von einer Dienststelle getroffen, bei der keine für eine Beteiligung an diesen Maßnahmen zuständige Personalvertretung vorgesehen ist, so ist die Stufenvertretung bei der nächsthöheren Dienststelle, zu deren Geschäftsbereich die entscheidende Dienststelle und die von der Entscheidung Betroffenen gehören, zu beteiligen.
+
+(+++ § 92 Abs. 4: Zur Anwendung vgl. § 117 Abs. 5  
+§ 92 Abs. 2: Zur Nichtanwendung vgl. § 125 Abs. 4 Satz 1 +++)
 
 # § 93 – Errichtung
 
@@ -1159,15 +1196,15 @@ In Dienststellen, bei denen Personalvertretungen gebildet sind und denen in der 
 
 1. 5 bis 20 Beschäftigten, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, aus einer Jugend- und Auszubildendenvertreterin oder einem Jugend- und Auszubildendenvertreter,
 
-2. 21 bis 50 der in Nummer 1 genannten Beschäftigten aus drei Jugend- und Auszubildendenvertreterinnen oder ‑vertretern,
+2. 21 bis 50 der in Nummer 1 genannten Beschäftigten aus drei Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
-3. 51 bis 200 der in Nummer 1 genannten Beschäftigten aus fünf Jugend- und Auszubildendenvertreterinnen oder ‑vertretern,
+3. 51 bis 200 der in Nummer 1 genannten Beschäftigten aus fünf Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
-4. 201 bis 300 der in Nummer 1 genannten Beschäftigten aus sieben Jugend- und Auszubildendenvertreterinnen oder ‑vertretern,
+4. 201 bis 300 der in Nummer 1 genannten Beschäftigten aus sieben Jugend- und Auszubildendenvertreterinnen oder -vertretern,
 
 5. 301 bis 1 000 der in Nummer 1 genannten Beschäftigten aus elf Jugend- und Auszubildendenvertreterinnen oder ‑vertretern,
 
-6. mehr als 1 000 der in Nummer 1 genannten Beschäftigten aus 15 Jugend- und Auszubildendenvertreterinnen oder ‑vertretern.
+6. mehr als 1 000 der in Nummer 1 genannten Beschäftigten aus 15 Jugend- und Auszubildendenvertreterinnen oder -vertretern.
 
 (2) Die Jugend- und Auszubildendenvertretung soll sich aus Vertreterinnen oder Vertretern der verschiedenen Beschäftigungsarten der Beschäftigten, die das 18. Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen Ausbildung befinden, zusammensetzen.
 
@@ -1253,9 +1290,9 @@ Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses Gesetz, sow
 
 (3) Eine Beteiligung der Bundespolizeipersonalvertretung findet nicht statt bei
 
-1. Anordnungen für Polizeivollzugsbeamtinnen und ‑beamte, durch die Einsätze oder Einsatzübungen geregelt werden,
+1. Anordnungen für Polizeivollzugsbeamtinnen und -beamte, durch die Einsätze oder Einsatzübungen geregelt werden,
 
-2. der Einstellung von Polizeivollzugsbeamtinnen und ‑beamten für die Grundausbildung.
+2. der Einstellung von Polizeivollzugsbeamtinnen und -beamten für die Grundausbildung.
 
 # § 112 – Bundesnachrichtendienst
 
@@ -1361,6 +1398,8 @@ Für die Dienststellen des Bundes im Ausland gilt dieses Gesetz, soweit im Folge
 
 (4) Für Streitigkeiten nach § 108, die eine Dienststelle des Bundes im Ausland betreffen, ist das Verwaltungsgericht zuständig, in dessen Bezirk die oberste Dienstbehörde ihren Sitz hat.
 
+(+++ § 119 Abs. 4: Zur Nichtanwendung vgl. § 123 +++)
+
 # § 120 – Vertrauensperson der lokal Beschäftigten
 
 (1) In Dienststellen, in denen in der Regel mindestens fünf lokal Beschäftigte beschäftigt sind, wählen diese eine Vertrauensperson der lokal Beschäftigten und höchstens drei Stellvertreterinnen oder Stellvertreter. In Nebenstellen, in denen in der Regel mindestens fünf lokal Beschäftigte beschäftigt sind, können diese zusätzlich eine Vertrauensperson der lokal Beschäftigten der Nebenstelle und eine Stellvertreterin oder einen Stellvertreter wählen. Die Vertrauensperson der lokal Beschäftigten der Nebenstelle arbeitet vertrauensvoll mit der Vertrauensperson der lokal Beschäftigten der Dienststelle zusammen. Gegenüber der Leiterin oder dem Leiter der Dienststelle vertritt die Vertrauensperson der lokal Beschäftigten der Dienststelle auch die Interessen der lokal Beschäftigten der Nebenstelle.
@@ -1418,6 +1457,9 @@ Auf die Dienststellen des Bundesnachrichtendienstes im Ausland findet § 119 Abs
 (4) § 37 Absatz 1, § 92 Absatz 2 und die Vorschriften über die Beteiligung der Gewerkschaften und Arbeitgebervereinigungen in § 37 Absatz 2 und § 42 Absatz 1 sind nicht anzuwenden. Angelegenheiten, die als Verschlusssachen mindestens des Geheimhaltungsgrades „VS-VERTRAULICH“ eingestuft sind, werden in der Personalversammlung nicht behandelt.
 
 (5) Die oberste Dienstbehörde kann anordnen, dass in den Fällen des Absatzes 1 Satz 1 dem Ausschuss und der Einigungsstelle Unterlagen nicht vorgelegt und Auskünfte nicht erteilt werden dürfen, soweit dies zur Vermeidung von Nachteilen für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder oder auf Grund internationaler Verpflichtungen geboten ist. Im Verfahren nach § 108 sind die gesetzlichen Voraussetzungen für die Anordnung glaubhaft zu machen.
+
+(+++ § 125: Zur Anwendung vgl. § 112 Abs. 6  
+§ 15: Zur Nichtanwendung vgl. § 113 Abs. 3 +++)
 
 # § 126 – Anwendungsbereich
 

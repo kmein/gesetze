@@ -102,8 +102,6 @@ nachweist. Abweichend von Satz 1 kann die Befähigung für die Laufbahn des höh
 
 (5) Der Aufstieg von Beamten des gehobenen Dienstes in die Laufbahn des höheren Dienstes richtet sich nach landesrechtlichen Vorschriften.
 
-(6) bis (8) (weggefallen)
-
 # § 7 – Bundesfinanzakademie
 
 (1) Der Bund unterhält zur Durchführung der ergänzenden Studien sowie zur Fortbildung der Beamten des höheren Dienstes der Steuerverwaltung der Länder eine Bundesfinanzakademie.

@@ -997,7 +997,7 @@ erwirbt.
 
 1. Betreiber einer Kritischen Infrastruktur im Sinne des BSI-Gesetzes ist,
 
-2. Software besonders entwickelt oder ändert, die branchenspezifisch zum Betrieb Kritischer Infrastrukturen im Sinne des BSI-Gesetzes dient,
+2. kritische Komponenten im Sinne des § 2 Absatz 13 des BSI-Gesetzes entwickelt oder herstellt oder Software, die branchenspezifisch zum Betrieb von Kritischen Infrastrukturen im Sinne des BSI-Gesetzes dient, besonders entwickelt oder herstellt,
 
 3. zu organisatorischen Maßnahmen nach § 110 des Telekommunikationsgesetzes verpflichtet ist oder technische Einrichtungen zur Umsetzung gesetzlich vorgesehener Maßnahmen zur Überwachung der Telekommunikation herstellt oder in der Vergangenheit hergestellt hat und über Kenntnisse der oder sonstigen Zugang zu der den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
 

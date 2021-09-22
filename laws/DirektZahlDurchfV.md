@@ -412,7 +412,7 @@ Landschaftselemente können im Antrag auf Direktzahlung für die Zahlung für de
 
 (3) Im Jahr der Antragstellung darf eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen wird, nur durch Beweidung mit Schafen oder Ziegen genutzt werden.
 
-(4) Abweichend von Absatz 3 können die zuständigen Behörden der Länder im Jahr 2020 allgemein oder im Einzelfall zulassen, dass in Gebieten, in denen auf Grund ungünstiger Witterungsverhältnisse nicht ausreichend Futter zur Verfügung steht oder stehen wird, eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen wird, im Jahr 2020 durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt wird.
+(4) Abweichend von Absatz 3 können die zuständigen Behörden der Länder im Jahr 2021 allgemein oder im Einzelfall zulassen, dass in Gebieten, in denen auf Grund ungünstiger Witterungsverhältnisse nicht ausreichend Futter zur Verfügung steht oder stehen wird, eine Fläche mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Fläche ausgewiesen wird, im Jahr 2021 durch Beweidung mit Tieren oder durch Schnittnutzung für Futterzwecke genutzt wird.
 
 (+++ § 31: Zur Anwendung vgl. § 35 +++)
 

@@ -57,9 +57,9 @@ Wer landwirtschaftliche Flächen beregnet oder sonst bewässert, hat bei einer e
 
 (6) Zwischenfrüchte und Gründecken im Sinne von Artikel 46 Absatz 2 Buchstabe i der Verordnung (EU) Nr. 1307/2013 in Verbindung mit § 18 Absatz 3 des Direktzahlungen-Durchführungsgesetzes sind über den in § 31 Absatz 2 der Direktzahlungen-Durchführungsverordnung festgelegten Zeitraum hinaus bis zum Ablauf des 15. Februar des auf das Antragsjahr folgenden Jahres auf der Fläche zu belassen. Im Falle einer Untersaat von Gras oder Leguminosen in die Hauptkultur ist diese von der Ernte der Hauptkultur bis zum Ablauf des 15. Februar des auf das Antragsjahr folgenden Jahres auf der Fläche zu belassen oder mindestens bis zur Vorbereitung mit unverzüglich folgender Aussaat der nächsten Hauptkultur, wenn diese vor dem 15. Februar ausgesät wird. Winterkulturen und Winterzwischenfrüchte im Sinne von § 18 Absatz 4 des Direktzahlungen-Durchführungsgesetzes sind bis zum Ablauf des 15. Februar des auf das Antragsjahr folgenden Jahres auf der Fläche zu belassen. Das Beweiden und das Walzen, Schlegeln oder Häckseln der Untersaat oder von Zwischenfrüchten auf den in den Sätzen 1 bis 3 genannten Flächen ist zulässig. In Gebieten, in denen die zuständigen Behörden der Länder gemäß § 31 Absatz 4 der Direktzahlungen-Durchführungsverordnung die Schnittnutzung für Futterzwecke zugelassen haben, ist bei Zwischenfrüchten und Untersaaten auf den in den Sätzen 1 und 2 genannten Flächen, die
 
-a) bis zum Ablauf des 15. Februar 2021 oder
+a) bis zum Ablauf des 15. Februar 2022 oder
 
-b) im Fall einer Rechtsverordnung gemäß Satz 6 bis zum im Ablauf des in dieser Rechtsverordnung genannten Datums, mindestens aber bis zum Ablauf des 14. Januar 2021
+b) im Fall einer Rechtsverordnung gemäß Satz 6 bis zum im Ablauf des in dieser Rechtsverordnung genannten Datums, mindestens aber bis zum Ablauf des 14. Januar 2022
 
 auf der Fläche zu belassen sind, eine Schnittnutzung für Futterzwecke zulässig. Die Landesregierungen können durch Rechtsverordnung für bestimmte Gebiete, um
 

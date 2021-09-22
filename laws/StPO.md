@@ -1883,9 +1883,9 @@ bedürfen der Zustimmung des Gerichts. Bei Gefahr im Verzug genügt die Zustimmu
 
 Verdeckte Ermittler dürfen unter Verwendung ihrer Legende eine Wohnung mit dem Einverständnis des Berechtigten betreten. Das Einverständnis darf nicht durch ein über die Nutzung der Legende hinausgehendes Vortäuschen eines Zutrittsrechts herbeigeführt werden. Im übrigen richten sich die Befugnisse des Verdeckten Ermittlers nach diesem Gesetz und anderen Rechtsvorschriften.
 
-# § 110d – Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach § 184b des Strafgesetzbuches
+# § 110d – Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach den §§ 176e und 184b des Strafgesetzbuches
 
-Einsätze, bei denen entsprechend § 184b Absatz 6 des Strafgesetzbuches Handlungen im Sinne des § 184b Absatz 1 Satz 1 Nummer 1, 2 und 4 und Satz 2 des Strafgesetzbuches vorgenommen werden, bedürfen der Zustimmung des Gerichts. In dem Antrag ist darzulegen, dass die handelnden Polizeibeamten auf den Einsatz umfassend vorbereitet wurden. Bei Gefahr im Verzug genügt die Zustimmung der Staatsanwaltschaft. Die Maßnahme ist zu beenden, wenn nicht das Gericht binnen drei Werktagen zustimmt. Die Zustimmung ist schriftlich zu erteilen und zu befristen. Eine Verlängerung ist zulässig, solange die Voraussetzungen für den Einsatz fortbestehen.
+Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6 des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 oder § 184 Absatz 1 Nummer 1, 2 und 4 des Strafgesetzbuches vorgenommen werden, bedürfen der Zustimmung des Gerichts. In dem Antrag ist darzulegen, dass die handelnden Polizeibeamten auf den Einsatz umfassend vorbereitet wurden. Bei Gefahr im Verzug genügt die Zustimmung der Staatsanwaltschaft. Die Maßnahme ist zu beenden, wenn nicht das Gericht binnen drei Werktagen zustimmt. Die Zustimmung ist schriftlich zu erteilen und zu befristen. Eine Verlängerung ist zulässig, solange die Voraussetzungen für den Einsatz fortbestehen.
 
 # § 111 – Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
 
@@ -2073,7 +2073,7 @@ und wenn deshalb die Gefahr droht, daß die Ermittlung der Wahrheit erschwert we
 
 (1) Ein Haftgrund besteht auch, wenn der Beschuldigte dringend verdächtig ist,
 
-1. eine Straftat nach den §§ 174, 174a, 176 bis 178, 184b Absatz 2 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
+1. eine Straftat nach den §§ 174, 174a, 176 bis 176d, 177, 178, 184b Absatz 2 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
 
 2. wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
 

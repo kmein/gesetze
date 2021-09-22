@@ -3112,7 +3112,7 @@ Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
 
 Die Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4 macht das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt.
 
-(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2019 I 1905 +++)
+(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-10 v. 13.11.2018 I 1905 +++)
 
 # Anlage V – (zu § 39 Absatz 1 Satz 1) Gültig ab 1. April 2021
 
