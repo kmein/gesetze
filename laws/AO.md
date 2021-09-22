@@ -7293,7 +7293,8 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 (+++ § 233a Abs. 2a: Zur Geltung vgl. Art. 97 § 15 Abs. 8 AOEG 1977 +++)  
 (+++ § 233a Abs. 2a: Zur Anwendung vgl. § 7b EStG +++)  
 (+++ § 233a Abs. 5: Zur Geltung vgl. Art. 97 § 15 Abs. 6 AOEG 1977 +++)  
-(+++ § 233a: Zur Anwendung vgl. Art. 97 §§ 9 u. 36 AOEG 1977 +++)
+(+++ § 233a: Zur Anwendung vgl. Art. 97 §§ 9 u. 36 AOEG 1977 +++)  
+§ 233a idF d. Bek v. 1.10.2002 I 3866: IVm § 3 Abs. 2 Satz 1 idF d. Bek. v. 1.10.2002 I 3866 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 8.7.2021 I 4303 - 1 BvR 2237/14, 1 BvR 2422/17 -. Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften für bis einschließlich in das Jahr 2018 fallende Verzinsungszeiträume weiter anwendbar. Der Gesetzgeber ist verpflichtet, bis zum 31.7.2022 eine verfassungsgemäße Neuregelung zu treffen.
 
 # § 234 – Stundungszinsen
 

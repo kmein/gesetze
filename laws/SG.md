@@ -2216,7 +2216,7 @@ In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des Spannungs- ode
 
 (4) Die Rechtsverordnung nach Absatz 1 Nr. 9 bedarf der Zustimmung des Bundesrates.
 
-(+++ § 93 Abs. 2 Nr. 9: Aufgrund der rückwirkenden Einfügung der Nr. 3 durch Art. 5 Nr. 10 Buchst. a G v. 20.8.2021 I 3932 mWv 1.1.2021 wird die frühere Nr. 8 jetzt die Nr. 9 +++)
+(+++ § 93 Abs. 2 Nr. 9: Aufgrund der rückwirkenden Einfügung der Nr. 3 durch Art. 5 Nr. 10 Buchst. a G v. 20.8.2021 I 3932 mWv 1.1.2021 wird die frühere Nr. 8 ab dem 7.7.2021 die Nr. 9 +++)
 
 # § 94 – Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)
 
