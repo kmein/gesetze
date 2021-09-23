@@ -2564,19 +2564,17 @@ Die Kapitalgesellschaft kann für die Erstellung der nichtfinanziellen Erklärun
 
 3. eine Beschreibung der Arbeitsweise von Vorstand und Aufsichtsrat sowie der Zusammensetzung und Arbeitsweise von deren Ausschüssen; sind die Informationen auf der Internetseite der Gesellschaft öffentlich zugänglich, kann darauf verwiesen werden;
 
-4. bei börsennotierten Aktiengesellschaften die Festlegungen nach § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes und die Angabe, ob die festgelegten Zielgrößen während des Bezugszeitraums erreicht worden sind, und wenn nicht, Angaben zu den Gründen;
+4. bei Aktiengesellschaften im Sinne des Absatzes 1, die nach § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes verpflichtet sind, Zielgrößen für den Frauenanteil und Fristen für deren Erreichung festzulegen und die Festlegung der Zielgröße Null zu begründen, die vorgeschriebenen Festlegungen und Begründungen und die Angabe, ob die festgelegten Zielgrößen während des Bezugszeitraums erreicht worden sind, und, wenn nicht, Angaben zu den Gründen;
 
-5. die Angabe, ob die Gesellschaft bei der Besetzung des Aufsichtsrats mit Frauen und Männern jeweils Mindestanteile im Bezugszeitraum eingehalten hat, und wenn nicht, Angaben zu den Gründen, sofern es sich um folgende Gesellschaften handelt:
+5. bei börsennotierten Aktiengesellschaften, die nach § 96 Absatz 2 und 3 des Aktiengesetzes bei der Besetzung des Aufsichtsrats jeweils einen Mindestanteil an Frauen und Männern einzuhalten haben, die Angabe, ob die Gesellschaft im Bezugszeitraum den Mindestanteil eingehalten hat, und, wenn nicht, Angaben zu den Gründen; bei börsennotierten Europäischen Gesellschaften (SE) tritt an die Stelle des § 96 Absatz 2 und 3 des Aktiengesetzes § 17 Absatz 2 oder § 24 Absatz 3 des SE-Ausführungsgesetzes;
 
-a) börsennotierte Aktiengesellschaften, die auf Grund von § 96 Absatz 2 und 3 des Aktiengesetzes Mindestanteile einzuhalten haben oder
-
-b) börsennotierte Europäische Gesellschaften (SE), die auf Grund von § 17 Absatz 2 oder § 24 Absatz 3 des SE-Ausführungsgesetzes Mindestanteile einzuhalten haben;
+5a. bei börsennotierten Aktiengesellschaften, die nach § 76 Absatz 3a des Aktiengesetzes mindestens eine Frau und mindestens einen Mann als Vorstandsmitglied bestellen müssen, die Angabe, ob die Gesellschaft im Bezugszeitraum diese Vorgabe eingehalten hat, und, wenn nicht, Angaben zu den Gründen; bei börsennotierten Europäischen Gesellschaften (SE) tritt an die Stelle des § 76 Absatz 3a des Aktiengesetzes § 16 Absatz 2 oder § 40 Absatz 1a des SE-Ausführungsgesetzes;
 
 6. bei Aktiengesellschaften im Sinne des Absatzes 1, die nach § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 große Kapitalgesellschaften sind, eine Beschreibung des Diversitätskonzepts, das im Hinblick auf die Zusammensetzung des vertretungsberechtigten Organs und des Aufsichtsrats in Bezug auf Aspekte wie beispielsweise Alter, Geschlecht, Bildungs- oder Berufshintergrund verfolgt wird, sowie der Ziele dieses Diversitätskonzepts, der Art und Weise seiner Umsetzung und der im Geschäftsjahr erreichten Ergebnisse.
 
 (3) Auf börsennotierte Kommanditgesellschaften auf Aktien sind die Absätze 1 und 2 entsprechend anzuwenden.
 
-(4) Andere Unternehmen, deren Vertretungsorgan und Aufsichtsrat nach § 36 oder § 52 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder nach § 76 Absatz 4 des Aktiengesetzes, auch in Verbindung mit § 188 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes, oder nach § 111 Absatz 5 des Aktiengesetzes, auch in Verbindung mit § 189 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, verpflichtet sind, Zielgrößen für den Frauenanteil und Fristen für deren Erreichung festzulegen, haben in ihrem Lagebericht als gesonderten Abschnitt eine Erklärung zur Unternehmensführung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 aufzunehmen; Absatz 1 Satz 2 und 3 gilt entsprechend. Gesellschaften, die nicht zur Offenlegung eines Lageberichts verpflichtet sind, haben eine Erklärung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 zu erstellen und gemäß Absatz 1 Satz 2 zu veröffentlichen. Sie können diese Pflicht auch durch Offenlegung eines unter Berücksichtigung von Satz 1 erstellten Lageberichts erfüllen.
+(4) Andere Kapitalgesellschaften haben in ihren Lagebericht als gesonderten Abschnitt eine Erklärung zur Unternehmensführung mit den Festlegungen, Begründungen und Angaben nach Absatz 2 Nummer 4 aufzunehmen, wenn sie nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes oder nach § 36 oder § 52 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung verpflichtet sind, Zielgrößen für den Frauenanteil und Fristen für deren Erreichung festzulegen und die Festlegung der Zielgröße Null zu begründen. Absatz 1 Satz 2 und 3 gilt entsprechend. Kapitalgesellschaften, die nicht zur Aufstellung eines Lageberichts verpflichtet sind, haben eine Erklärung mit den Festlegungen, Begründungen und Angaben des Satzes 1 zu erstellen und auf der Internetseite der Gesellschaft zu veröffentlichen. Sie können diese Pflicht auch durch Offenlegung eines unter Berücksichtigung von Satz 1 aufgestellten Lageberichts erfüllen.
 
 (5) Wenn eine Gesellschaft nach Absatz 2 Nummer 6, auch in Verbindung mit Absatz 3, kein Diversitätskonzept verfolgt, hat sie dies in der Erklärung zur Unternehmensführung zu erläutern.
 
@@ -3605,13 +3603,15 @@ f) des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanha
 
 3. bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289 bis 289b Absatz 1, §§ 289c, 289d, 289e Absatz 2, auch in Verbindung mit § 289b Absatz 2 oder 3, oder des § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
+3a. bei der Erstellung einer Erklärung zur Unternehmensführung einer Vorschrift des § 289f Absatz 4 Satz 3 in Verbindung mit Satz 1 und Absatz 2 Nummer 4 über den Inhalt,
+
 4. bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315 bis 315b Absatz 1, des § 315c, auch in Verbindung mit § 315b Absatz 2 oder 3, oder des § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5. bei der Offenlegung, Hinterlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form, Format oder Inhalt oder
 
 6. einer auf Grund des § 330 Abs. 1 Satz 1 erlassenen Rechtsverordnung, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-zuwiderhandelt.
+zuwiderhandelt. In den Fällen des Satzes 1 Nummer 3 und 3a wird eine Zuwiderhandlung gegen eine Vorschrift des § 289f Absatz 2 Nummer 4, auch in Verbindung mit Absatz 3 oder 4, nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes oder nach § 36 oder § 52 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ganz oder zum Teil unterblieben sind. In den Fällen des Satzes 1 Nummer 4 wird eine Zuwiderhandlung gegen eine Vorschrift des § 315d in Verbindung mit § 289f Absatz 2 Nummer 4 nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes ganz oder zum Teil unterblieben sind.
 
 (2) Ordnungswidrig handelt, wer einen Bestätigungsvermerk nach § 322 Absatz 1 erteilt zu dem Abschluss
 
@@ -3912,7 +3912,7 @@ gesetzliche Rücklage.
 
 (1a) Ein Kreditinstitut hat seinen Lagebericht um eine nichtfinanzielle Erklärung zu erweitern, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt und im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt. Wenn die nichtfinanzielle Erklärung einen besonderen Abschnitt des Lageberichts bildet, darf das Kreditinstitut auf die an anderer Stelle im Lagebericht enthaltenen nichtfinanziellen Angaben verweisen. § 289b Absatz 2 bis 4 und die §§ 289c bis 289e sind entsprechend anzuwenden.
 
-(1b) Ein Kreditinstitut, das nach Absatz 1 in Verbindung mit § 289f Absatz 1 eine Erklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt.
+(1b) Ein Kreditinstitut, das nach Absatz 1 in Verbindung mit § 289f Absatz 1 eine Erklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt. Ein Kreditinstitut, das eine Genossenschaft ist, hat § 289f Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes anzuwenden.
 
 (2) § 264 Absatz 3, §§ 264b, 265 Absatz 6 und 7, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1, 2, 3 Satz 1, § 284 Absatz 2 Nummer 3, § 285 Nr. 8 und 12, § 288 sind nicht anzuwenden. An Stelle von § 247 Abs. 1, §§ 251, 266, 268 Absatz 7, §§ 275, 284 Absatz 3, § 285 Nummer 1, 2, 4, 9 Buchstabe c und Nummer 27 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 285 Nummer 31 ist nicht anzuwenden; unter den Posten „außerordentliche Erträge“ und „außerordentliche Aufwendungen“ sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit anfallen. Im Anhang sind diese Posten hinsichtlich ihres Betrags und ihrer Art zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind.
 
@@ -4120,15 +4120,15 @@ e) des § 311 Abs. 1 Satz 1 in Verbindung mit § 312 über die Behandlung assozi
 
 f) des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanhang zu machenden Angaben,
 
-3. bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289, 289a, 340a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, oder des § 340a Absatz 1b in Verbindung mit § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
+3. bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift des § 289 oder des § 289a, des § 289f, auch in Verbindung mit § 340a Absatz 1b, oder des § 340a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
-4. bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315, 315a, 340i Absatz 5, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, oder des § 340i Absatz 6 in Verbindung mit § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
+4. bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift des § 315 oder des § 315a, des § 315d, auch in Verbindung mit § 340i Absatz 6, oder des § 340i Absatz 5, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5. bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form, Format oder Inhalt oder
 
 6. einer auf Grund des § 330 Abs. 2 in Verbindung mit Abs. 1 Satz 1 erlassenen Rechtsverordnung, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-zuwiderhandelt.
+zuwiderhandelt. In den Fällen des Satzes 1 Nummer 3 wird eine Zuwiderhandlung gegen eine Vorschrift des § 289f Absatz 2 Nummer 4, auch in Verbindung mit Absatz 3 oder 4 Satz 1, nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes, nach § 36 oder § 52 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder nach § 9 Absatz 3 oder 4 des Genossenschaftsgesetzes ganz oder zum Teil unterblieben sind. In den Fällen des Satzes 1 Nummer 4 wird eine Zuwiderhandlung gegen eine Vorschrift des § 315d in Verbindung mit § 289f Absatz 2 Nummer 4 nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes ganz oder zum Teil unterblieben sind.
 
 (2) Ordnungswidrig handelt, wer einen Bestätigungsvermerk nach § 322 Absatz 1 erteilt zu dem Abschluss
 
@@ -4382,15 +4382,15 @@ e) des § 311 Abs. 1 Satz 1 in Verbindung mit § 312 über die Behandlung assozi
 
 f) des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 in Verbindung mit § 341j Abs. 1 Satz 2 oder 3 über die im Konzernanhang zu machenden Angaben,
 
-3. bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289, 289a, 341a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, oder des § 341a Absatz 1b in Verbindung mit § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
+3. bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift des § 289 oder des § 289a, des § 289f, auch in Verbindung mit § 341a Absatz 1b, oder des § 341a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
-4. bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315, 315a, 341j Absatz 4, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, oder des § 341j Absatz 5 in Verbindung mit § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
+4. bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift des § 315 oder des § 315a, des § 315d, auch in Verbindung mit § 341j Absatz 5, oder des § 341j Absatz 4, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5. bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form, Format oder Inhalt oder
 
 6. einer auf Grund des § 330 Abs. 3 und 4 in Verbindung mit Abs. 1 Satz 1 erlassenen Rechtsverordnung, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-zuwiderhandelt.
+zuwiderhandelt. In den Fällen des Satzes 1 Nummer 3 wird eine Zuwiderhandlung gegen eine Vorschrift des § 289f Absatz 2 Nummer 4, auch in Verbindung mit Absatz 4 Satz 1, nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 des Aktiengesetzes, auch in Verbindung mit § 188 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes, oder nach § 111 Absatz 5 des Aktiengesetzes, auch in Verbindung mit § 189 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, ganz oder zum Teil unterblieben sind. In den Fällen des Satzes 1 Nummer 4 wird eine Zuwiderhandlung gegen eine Vorschrift des § 315d in Verbindung mit § 289f Absatz 2 Nummer 4 nicht dadurch ausgeschlossen, dass die Festlegungen oder Begründungen nach § 76 Absatz 4 oder § 111 Absatz 5 des Aktiengesetzes ganz oder zum Teil unterblieben sind.
 
 (2) Ordnungswidrig handelt, wer einen Bestätigungsvermerk nach § 322 Absatz 1 erteilt zu dem Abschluss
 

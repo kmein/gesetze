@@ -663,7 +663,7 @@ Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt, d
 
 # § 38 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 340n Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen, oder als Geschäftsleiter im Sinne des § 2 Absatz 36 des Wertpapierinstitutsgesetzes, oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Instituts oder als Mitglied des Aufsichtsrats bei der Aufstellung oder Feststellung des Jahresabschlusses
+(1) Ordnungswidrig im Sinne des § 340n Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen, oder als Geschäftsleiter im Sinne des § 2 Absatz 36 des Wertpapierinstitutsgesetzes, oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Instituts oder als Mitglied des Aufsichtsrats bei der Aufstellung oder Feststellung des Jahresabschlusses
 
 1. entgegen § 2 Abs. 1 Satz 1 nicht das vorgeschriebene Formblatt anwendet,
 

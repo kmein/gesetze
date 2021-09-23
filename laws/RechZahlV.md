@@ -347,7 +347,7 @@ Auf den Konzernabschluss sind, soweit seine Eigenart keine Abweichung bedingt, d
 
 # § 32 – Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinn des § 340n Absatz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinn des § 1 Absatz 8 des Zahlungsdiensteaufsichtsgesetzes oder als Mitglied des Aufsichtsrats bei der Aufstellung oder Feststellung des Jahresabschlusses
+(1) Ordnungswidrig im Sinn des § 340n Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinn des § 1 Absatz 8 des Zahlungsdiensteaufsichtsgesetzes oder als Mitglied des Aufsichtsrats bei der Aufstellung oder Feststellung des Jahresabschlusses
 
 1. entgegen § 2 in Verbindung mit §§ 9, 10 Satz 1, 2 oder Satz 4, §§ 11 bis 18, 19 Satz 1, §§ 20 bis 25, 26 Satz 1 oder Satz 3 oder § 27 Satz 1 oder Satz 3 ein dort genanntes Formblatt nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise verwendet,
 

@@ -375,7 +375,7 @@ Liegt die in § 31 Abs. 1 bezeichnete Voraussetzung nicht vor, so sind die Gesel
 
 # § 36 – Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern
 
-Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung unterliegt, legen für den Frauenanteil in den beiden Führungsebenen unterhalb der Geschäftsführer Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung unterliegt, legen für den Frauenanteil in den beiden Führungsebenen unterhalb der Geschäftsführer Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil an der jeweiligen Führungsebene beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Legen die Geschäftsführer für den Frauenanteil auf einer der Führungsebenen die Zielgröße Null fest, so haben sie diesen Beschluss klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 # § 37 – Beschränkungen der Vertretungsbefugnis
 
@@ -388,6 +388,14 @@ Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung unterliegt, lege
 (1) Die Bestellung der Geschäftsführer ist zu jeder Zeit widerruflich, unbeschadet der Entschädigungsansprüche aus bestehenden Verträgen.
 
 (2) Im Gesellschaftsvertrag kann die Zulässigkeit des Widerrufs auf den Fall beschränkt werden, daß wichtige Gründe denselben notwendig machen. Als solche Gründe sind insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung anzusehen.
+
+(3) Der Geschäftsführer hat das Recht, um den Widerruf seiner Bestellung zu ersuchen, wenn er wegen Mutterschutz, Elternzeit, der Pflege eines Familienangehörigen oder Krankheit seinen mit der Bestellung verbundenen Pflichten vorübergehend nicht nachkommen kann und mindestens ein weiterer Geschäftsführer bestellt ist. Macht ein Geschäftsführer von diesem Recht Gebrauch, muss die Bestellung dieses Geschäftsführers
+
+1. widerrufen und dabei die Wiederbestellung nach Ablauf des Zeitraums der in § 3 Absatz 1 und 2 des Mutterschutzgesetzes genannten Schutzfristen zugesichert werden,
+
+2. in den Fällen der Elternzeit, der Pflege eines Familienangehörigen oder der Krankheit widerrufen und dabei die Wiederbestellung nach einem Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des Geschäftsführers zugesichert werden; von dem Widerruf der Bestellung kann abgesehen werden, wenn ein wichtiger Grund vorliegt.
+
+In den in Satz 2 Nummer 2 genannten Fällen kann die Bestellung des Geschäftsführers auf dessen Verlangen für einen Zeitraum von bis zu zwölf Monaten widerrufen werden. § 77a Absatz 2 findet auf Bestellungen während des Zeitraums nach den Sätzen 2 oder 3 keine Anwendung, wenn das Beteiligungsgebot ohne den Widerruf eingehalten wäre.
 
 # § 39 – Anmeldung der Geschäftsführer
 
@@ -541,7 +549,7 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
 
-(2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu bestellen, so legt die Gesellschafterversammlung für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+(2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu bestellen, so legt die Gesellschafterversammlung für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Wird für den Aufsichtsrat oder unter den Geschäftsführern die Zielgröße Null festgelegt, so ist dieser Beschluss klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 (3) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei jeder Änderung in den Personen der Aufsichtsratsmitglieder unverzüglich eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die Liste zum Handelsregister eingereicht worden ist.
 
@@ -902,6 +910,28 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 (2) Die Wirksamkeit der im Namen der Gesellschaft mit Dritten vorgenommenen Rechtsgeschäfte wird durch die Nichtigkeit nicht berührt.
 
 (3) Die Gesellschafter haben die versprochenen Einzahlungen zu leisten, soweit es zur Erfüllung der eingegangenen Verbindlichkeiten erforderlich ist.
+
+# § 77a – Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+
+(1) Gesellschaften mit beschränkter Haftung mit Mehrheitsbeteiligung des Bundes sind Gesellschaften mit beschränkter Haftung mit Sitz im Inland,
+
+1. deren Anteile zur Mehrheit vom Bund gehalten werden oder
+
+2. die große Kapitalgesellschaften (§ 267 Absatz 3 des Handelsgesetzbuchs) sind und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit vom Bund gehalten werden, oder
+
+3. die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer haben und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
+
+a) vom Bund gehalten werden oder
+
+b) von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen, deren Anteile zur Mehrheit vom Bund gehalten werden.
+
+Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
+
+(2) Hat eine Gesellschaft mit beschränkter Haftung mit Mehrheitsbeteiligung des Bundes mehr als zwei Geschäftsführer, muss mindestens ein Geschäftsführer eine Frau und mindestens ein Geschäftsführer ein Mann sein. Eine Bestellung eines Geschäftsführers unter Verstoß gegen das Beteiligungsgebot ist nichtig. Gilt das Beteiligungsgebot nach Satz 1, entfällt eine Pflicht zur Zielgrößensetzung für die Geschäftsführung.
+
+(3) Für die Zusammensetzung des Aufsichtsrats einer Gesellschaft mit beschränkter Haftung mit Mehrheitsbeteiligung des Bundes gilt unabhängig von einer Geltung des Mitbestimmungsgesetzes, des Montan-Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes § 96 Absatz 2 des Aktiengesetzes entsprechend. Eine Pflicht zur Zielgrößensetzung besteht insoweit nicht.
+
+(4) Die Länder können die Vorgaben der Absätze 2 und 3 durch Landesgesetz auf Gesellschaften mit beschränkter Haftung erstrecken, an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1 besteht. In diesem Fall gelten für Gesellschaften mit Mehrheitsbeteiligung eines Landes, die der Mitbestimmung unterliegen, die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
 # § 78 – Anmeldepflichtige
 

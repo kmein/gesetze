@@ -4597,13 +4597,17 @@ Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017 Anspruc
 
 (6) Absatz 1 gilt für Anträge auf Pflegeleistungen, die zwischen dem 1. Oktober 2020 und dem 30. Juni 2021 gestellt werden.
 
-(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 147 Absatz 1 Satz 1 bzw. 147 Abs. 6 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2 +++)
+(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 147 Absatz 1 Satz 1 bzw. 147 Abs. 6  
+- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
+- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
 
 # § 148 – Beratungsbesuche nach § 37
 
 Abweichend von § 37 Absatz 3 Satz 1 erfolgt die von den Pflegebedürftigen abzurufende Beratung bis einschließlich 30. Juni 2021 telefonisch, digital oder per Videokonferenz, wenn die oder der Pflegebedürftige dies wünscht.
 
-(+++ Hinweis: Zur Verlängerung der Frist nach nach § 148 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2 +++)
+(+++ Hinweis: Zur Verlängerung der Frist nach nach § 148  
+- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
+- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
 
 # § 149 – Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung
 
@@ -4649,7 +4653,9 @@ Abweichend von § 44a Absatz 6 Satz 1 haben landwirtschaftliche Unternehmer nach
 
 (6) Die Absätze 1 bis 5b gelten bis einschließlich 30. Juni 2021. Absatz 5d gilt in dem Zeitraum vom 23. Mai 2020 bis einschließlich 30. Juni 2021.
 
-(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 150 Absatz 6 Satz 1 bzw. § 150 Abs. 6 Satz 2 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2 +++)
+(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 150 Absatz 6 Satz 1 bzw. § 150 Abs. 6 Satz 2  
+- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
+- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
 
 # § 150a – Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie
 

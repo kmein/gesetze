@@ -687,7 +687,7 @@ entsprechend anzuwenden.
 
 # § 40 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 341p in Verbindung mit § 341n Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Pensionsfonds
+Ordnungswidrig im Sinne des § 341p in Verbindung mit § 341n Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Pensionsfonds
 
 1. bei der Aufstellung oder Feststellung des Jahresabschlusses
 

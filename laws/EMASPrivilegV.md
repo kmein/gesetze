@@ -27,9 +27,9 @@ Die zuständige Behörde soll bei EMAS-Anlagen Messungen nach § 28 Satz 1 Nr. 2
 
 1. Messungen nach § 12 Absatz 3 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen vom 10. Dezember 1990 (BGBl. I S. 2694), die zuletzt durch Artikel 1 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung,
 
-2. Wiederholungsmessungen nach § 23 Absatz 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 2. Mai 2013 (BGBl. I S. 1021, 1023), in der jeweils geltenden Fassung,
+2. Wiederholungsmessungen nach § 20 Absatz 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen,
 
-3. Wiederholungsmessungen nach § 18 Absatz 3 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044), in der jeweils geltenden Fassung,
+3. Wiederholungsmessungen nach § 18 Absatz 3 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen,
 
 4. Messungen nach § 8 Absatz 3 der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin vom 27. Mai 1998 (BGBl. I S. 1174), die zuletzt durch Artikel 7 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung
 
@@ -39,7 +39,7 @@ mit eigenem Personal durchzuführen, wenn der Betreiber, Immissionsschutzbeauftr
 
 1. § 12 Absatz 7 Satz 2 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen,
 
-2. § 19 Absatz 4 Nummer 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen,
+2. § 16 Absatz 4 Nummer 2 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen,
 
 3. § 15 Absatz 4 Nummer 2 der Verordnung über Verbrennung und die Mitverbrennung von Abfällen,
 

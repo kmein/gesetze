@@ -580,3 +580,7 @@ Die §§ 264, 289, 297, 315, 316, 317, 320, 322, 325, 328, 334, 336, 339, 340n, 
 2. Unterlagen zu bis zum 31. Dezember 2021 abgeschlossenen Prüfungen spätestens 30 Jahre nach dem jeweiligen Abschluss der Prüfung zu vernichten.
 
 (5) § 264 Absatz 3, §§ 264b, 340a Absatz 2, § 341a Absatz 2 und § 341n Absatz 1 des Handelsgesetzbuchs in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf Jahresabschlüsse und Lageberichte für das nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden.
+
+# Art 87
+
+Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des Handelsgesetzbuchs in der ab dem 12. August 2021 geltenden Fassung sind erstmals auf Lage- und Konzernlageberichte sowie Erklärungen zur Unternehmensführung nach § 289f Absatz 4 Satz 3 des Handelsgesetzbuchs für das nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden.
