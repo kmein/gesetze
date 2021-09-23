@@ -365,7 +365,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann mit Zustimmun
 
 2. in sonstiger Weise erheblich baulich umgestaltet wird.
 
-Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes. Die Maßgaben gelten entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
+Eine Änderung im Sinne von Satz 2 liegt insbesondere nicht vor, wenn sie im Zuge des Wiederaufbaus nach einer Naturkatastrophe erforderlich ist, um die Bundesfernstraße vor Naturereignissen zu schützen, und in einem räumlich begrenzten Korridor entlang des Trassenverlaufs erfolgt. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes. Die Maßgaben gelten entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 
 (2) Ist das Planfeststellungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden,
 

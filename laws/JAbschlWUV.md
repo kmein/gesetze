@@ -105,7 +105,7 @@ C. 8. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhä
 
 # § 2b
 
-Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Wohnungsunternehmens, das Aktiengesellschaft, Kommanditgesellschaft auf Aktien oder Gesellschaft mit beschränkter Haftung ist, den Vorschriften des § 1 Abs. 1 oder des § 2 Abs. 2, 3 oder 4, jeweils in Verbindung mit dem anliegenden Formblatt, über Gliederung, Form oder Inhalt des Jahresabschlusses oder im Anhang zu machende Angaben zuwiderhandelt.
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Wohnungsunternehmens, das Aktiengesellschaft, Kommanditgesellschaft auf Aktien oder Gesellschaft mit beschränkter Haftung ist, den Vorschriften des § 1 Abs. 1 oder des § 2 Abs. 2, 3 oder 4, jeweils in Verbindung mit dem anliegenden Formblatt, über Gliederung, Form oder Inhalt des Jahresabschlusses oder im Anhang zu machende Angaben zuwiderhandelt.
 
 # § 3
 

@@ -273,6 +273,19 @@ Auflösung der SE bei Auseinanderfallen von Sitz und Hauptverwaltung
 
 Abschnitt 6
 
+Sondervorschriften  
+bei Beteiligung des Bundes
+
+§ 52a
+
+Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+
+ 
+
+ 
+
+Abschnitt 7
+
 Straf- und Bußgeldvorschriften
 
 § 53
@@ -281,7 +294,7 @@ Straf- und Bußgeldvorschriften
 
  
 
-Abschnitt 7
+Abschnitt 8
 
 Schlussbestimmungen
 
@@ -393,7 +406,9 @@ Die Abstellung eines Mitglieds des Aufsichtsorgans zur Wahrnehmung der Aufgaben 
 
 # § 16 – Zahl der Mitglieder des Leitungsorgans
 
-Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen Euro hat das Leitungsorgan aus mindestens zwei Personen zu bestehen, es sei denn, die Satzung bestimmt, dass es aus einer Person bestehen soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt.
+(1) Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen Euro hat das Leitungsorgan aus mindestens zwei Personen zu bestehen, es sei denn, die Satzung bestimmt, dass es aus einer Person bestehen soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt. Die Vorgabe des Satzes 1, dass das Leitungsorgan aus mindestens zwei Personen zu bestehen hat, gilt während des Zeitraums nach § 84 Absatz 3 Satz 2 oder 3 des Aktiengesetzes auch dann als erfüllt, wenn diese Vorgabe ohne den Widerruf eingehalten wäre.
+
+(2) Besteht das Leitungsorgan einer börsennotierten Gesellschaft, deren Aufsichtsorgan aus derselben Zahl von Anteilseigner- und Arbeitnehmervertretern besteht, aus mehr als drei Personen, so muss mindestens eine Frau und mindestens ein Mann Mitglied des Leitungsorgans sein. Eine Bestellung eines Mitglieds unter Verstoß gegen dieses Beteiligungsgebot ist nichtig. Die Sätze 1 und 2 sind bei der Bestellung einzelner oder mehrerer Mitglieder ab dem 1. August 2022 zu beachten. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden. Die Sätze 1 und 2 sowie § 52a Absatz 2 Nummer 1 finden auf Bestellungen während des Zeitraums nach § 84 Absatz 3 Satz 2 oder 3 des Aktiengesetzes keine Anwendung, wenn das Beteiligungsgebot ohne den Widerruf eingehalten wäre.
 
 # § 17 – Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
 
@@ -620,6 +635,8 @@ Für die Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder g
 
 (1) Der Verwaltungsrat bestellt einen oder mehrere geschäftsführende Direktoren. Mitglieder des Verwaltungsrats können zu geschäftsführenden Direktoren bestellt werden, sofern die Mehrheit des Verwaltungsrats weiterhin aus nicht geschäftsführenden Mitgliedern besteht. Die Bestellung ist zur Eintragung in das Handelsregister anzumelden. Werden Dritte zu geschäftsführenden Direktoren bestellt, gilt für sie § 76 Abs. 3 des Aktiengesetzes entsprechend. Die Satzung kann Regelungen über die Bestellung eines oder mehrerer geschäftsführender Direktoren treffen. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt.
 
+(1a) Sind in einer börsennotierten Gesellschaft, deren Verwaltungsrat aus derselben Zahl von Anteilseigner- und Arbeitnehmervertretern besteht, mehr als drei geschäftsführende Direktoren bestellt, so muss mindestens eine Frau und mindestens ein Mann geschäftsführender Direktor sein. Eine Bestellung eines geschäftsführenden Direktors unter Verstoß gegen dieses Beteiligungsgebot ist nichtig. Die Sätze 1 und 2 sind bei der Bestellung einzelner oder mehrerer geschäftsführender Direktoren ab dem 1. August 2022 zu beachten. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
+
 (2) Die geschäftsführenden Direktoren führen die Geschäfte der Gesellschaft. Sind mehrere geschäftsführende Direktoren bestellt, so sind sie nur gemeinschaftlich zur Geschäftsführung befugt; die Satzung oder eine vom Verwaltungsrat erlassene Geschäftsordnung kann Abweichendes bestimmen. Gesetzlich dem Verwaltungsrat zugewiesene Aufgaben können nicht auf die geschäftsführenden Direktoren übertragen werden. Soweit nach den für Aktiengesellschaften geltenden Rechtsvorschriften der Vorstand Anmeldungen und die Einreichung von Unterlagen zum Handelsregister vorzunehmen hat, treten an die Stelle des Vorstands die geschäftsführenden Direktoren.
 
 (3) Ergibt sich bei der Aufstellung der Jahresbilanz oder einer Zwischenbilanz oder ist bei pflichtgemäßem Ermessen anzunehmen, dass ein Verlust in der Hälfte des Grundkapitals besteht, so haben die geschäftsführenden Direktoren dem Vorsitzenden des Verwaltungsrats unverzüglich darüber zu berichten. Dasselbe gilt, wenn die Gesellschaft zahlungsunfähig wird oder sich eine Überschuldung der Gesellschaft ergibt.
@@ -628,13 +645,21 @@ Für die Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder g
 
 (5) Geschäftsführende Direktoren können jederzeit durch Beschluss des Verwaltungsrats abberufen werden, sofern die Satzung nichts anderes regelt. Für die Ansprüche aus dem Anstellungsvertrag gelten die allgemeinen Vorschriften.
 
-(6) Geschäftsführende Direktoren berichten dem Verwaltungsrat entsprechend § 90 des Aktiengesetzes, sofern die Satzung oder die Geschäftsordnung nichts anderes vorsieht.
+(6) Ein geschäftsführender Direktor hat das Recht, den Verwaltungsrat um seine Abberufung zu ersuchen, wenn er wegen Mutterschutz, Elternzeit, der Pflege eines Familienangehörigen oder Krankheit seinen mit der Bestellung verbundenen Pflichten vorübergehend nicht nachkommen kann und neben ihm mindestens ein weiterer geschäftsführender Direktor bestellt ist. Macht ein geschäftsführender Direktor von diesem Recht Gebrauch, muss der Verwaltungsrat diesen geschäftsführenden Direktor
 
-(7) Die §§ 87 bis 89 des Aktiengesetzes gelten entsprechend.
+1. im Fall des Mutterschutzes abberufen und dabei die Wiederbestellung nach Ablauf des Zeitraums der in § 3 Absatz 1 und 2 des Mutterschutzgesetzes genannten Schutzfristen zusichern,
 
-(8) Für Sorgfaltspflicht und Verantwortlichkeit der geschäftsführenden Direktoren gilt § 93 des Aktiengesetzes entsprechend.
+2. in den Fällen der Elternzeit, der Pflege eines Familienangehörigen oder der Krankheit abberufen und dabei die Wiederbestellung nach einem Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des geschäftsführenden Direktors zusichern; der Verwaltungsrat kann von der Abberufung absehen, wenn ein wichtiger Grund vorliegt.
 
-(9) Die Vorschriften über die geschäftsführenden Direktoren gelten auch für ihre Stellvertreter.
+In den in Satz 2 Nummer 2 genannten Fällen kann der Verwaltungsrat den geschäftsführenden Direktor auf dessen Verlangen für einen Zeitraum von bis zu zwölf Monaten abberufen. Das vorgesehene Ende der vorherigen Amtszeit bleibt auch als Ende der Amtszeit nach der Wiederbestellung bestehen. Im Übrigen bleiben die Regelungen des Absatzes 1 unberührt. Ein Unterschreiten der in der Satzung festgelegten Mindestzahl an geschäftsführenden Direktoren ist während des Zeitraums nach den Sätzen 2 oder 3 unbeachtlich. Absatz 1a und § 52a Absatz 2 Nummer 4 finden auf Bestellungen während des Zeitraums nach den Sätzen 2 oder 3 keine Anwendung, wenn das Beteiligungsgebot ohne die Abberufung eingehalten wäre. Von den Bestimmungen dieses Absatzes kann nicht gemäß Absatz 5 Satz 1 abgewichen werden. Absatz 8 in Verbindung mit § 88 des Aktiengesetzes ist während des Zeitraums nach den Sätzen 2 oder 3 entsprechend anzuwenden.
+
+(7) Geschäftsführende Direktoren berichten dem Verwaltungsrat entsprechend § 90 des Aktiengesetzes, sofern die Satzung oder die Geschäftsordnung nichts anderes vorsieht.
+
+(8) Die §§ 87 bis 89 des Aktiengesetzes gelten entsprechend.
+
+(9) Für Sorgfaltspflicht und Verantwortlichkeit der geschäftsführenden Direktoren gilt § 93 des Aktiengesetzes entsprechend.
+
+(10) Die Vorschriften über die geschäftsführenden Direktoren gelten auch für ihre Stellvertreter.
 
 # § 41 – Vertretung
 
@@ -723,6 +748,38 @@ Die Satzung kann bestimmen, dass für einen Beschluss der Hauptversammlung über
 (2) Wird innerhalb der nach Absatz 1 bestimmten Frist der Aufforderung nicht genügt, so hat das Gericht den Mangel der Satzung festzustellen.
 
 (3) Gegen Verfügungen, durch welche eine Feststellung nach Absatz 2 getroffen wird, findet die Beschwerde statt.
+
+# § 52a – Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+
+(1) Eine SE mit Mehrheitsbeteiligung des Bundes ist eine SE mit Sitz im Inland,
+
+1. deren Anteile zur Mehrheit vom Bund gehalten werden oder
+
+2. die eine große Kapitalgesellschaft (§ 267 Absatz 3 des Handelsgesetzbuchs) ist und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit vom Bund gehalten werden, oder
+
+3. die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer hat und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
+
+a) vom Bund gehalten werden oder
+
+b) von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen, deren Anteile zur Mehrheit vom Bund gehalten werden.
+
+Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
+
+(2) Für eine SE mit Mehrheitsbeteiligung des Bundes gelten
+
+1. § 16 Absatz 2 unabhängig von einer Börsennotierung und der Zahl der Anteilseigner- und Arbeitnehmervertreter im Aufsichtsorgan, wenn das Leitungsorgan aus mehr als zwei Personen besteht,
+
+2. § 17 Absatz 2 unabhängig von einer Börsennotierung und der Zahl der Anteilseigner- und Arbeitnehmervertreter im Aufsichtsorgan,
+
+3. § 24 Absatz 3 unabhängig von einer Börsennotierung und der Zahl der Anteilseigner- und Arbeitnehmervertreter im Verwaltungsrat sowie
+
+4. § 40 Absatz 1a unabhängig von einer Börsennotierung und der Zahl der Anteilseigner- und Arbeitnehmervertreter im Verwaltungsrat, wenn mehr als zwei geschäftsführende Direktoren bestellt sind.
+
+(3) Das Beteiligungsgebot nach Absatz 2 Nummer 1 ist bei der Bestellung einzelner oder mehrerer Mitglieder des Leitungsorgans, das Beteiligungsgebot nach Absatz 2 Nummer 4 ist bei der Bestellung einzelner oder mehrerer geschäftsführender Direktoren ab dem 1. August 2022 zu beachten. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
+
+(4) Der jeweilige Mindestanteil nach Absatz 2 Nummer 2 und 3 ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
+
+(5) Die Länder können die Regelungen des Absatzes 2 durch Landesgesetz auf Gesellschaften erstrecken, an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1 besteht.
 
 # § 53 – Straf- und Bußgeldvorschriften
 

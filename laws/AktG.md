@@ -1539,7 +1539,9 @@ verurteilt worden ist; dieser Ausschluss gilt für die Dauer von fünf Jahren se
 
 Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar ist.
 
-(4) Der Vorstand von Gesellschaften, die börsennotiert sind oder der Mitbestimmung unterliegen, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+(3a) Besteht der Vorstand bei börsennotierten Gesellschaften, für die das Mitbestimmungsgesetz, das Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-2, veröffentlichten bereinigten Fassung – Montan-Mitbestimmungsgesetz – oder das Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-3, veröffentlichten bereinigten Fassung – Mitbestimmungsergänzungsgesetz – gilt, aus mehr als drei Personen, so muss mindestens eine Frau und mindestens ein Mann Mitglied des Vorstands sein. Eine Bestellung eines Vorstandsmitglieds unter Verstoß gegen dieses Beteiligungsgebot ist nichtig.
+
+(4) Der Vorstand von Gesellschaften, die börsennotiert sind oder der Mitbestimmung unterliegen, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil an der jeweiligen Führungsebene beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Legt der Vorstand für den Frauenanteil auf einer der Führungsebenen die Zielgröße Null fest, so hat er diesen Beschluss klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 # § 77 – Geschäftsführung
 
@@ -1599,13 +1601,23 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (2) Werden mehrere Personen zu Vorstandsmitgliedern bestellt, so kann der Aufsichtsrat ein Mitglied zum Vorsitzenden des Vorstands ernennen.
 
-(3) Der Aufsichtsrat kann die Bestellung zum Vorstandsmitglied und die Ernennung zum Vorsitzenden des Vorstands widerrufen, wenn ein wichtiger Grund vorliegt. Ein solcher Grund ist namentlich grobe Pflichtverletzung, Unfähigkeit zur ordnungsmäßigen Geschäftsführung oder Vertrauensentzug durch die Hauptversammlung, es sei denn, daß das Vertrauen aus offenbar unsachlichen Gründen entzogen worden ist. Dies gilt auch für den vom ersten Aufsichtsrat bestellten Vorstand. Der Widerruf ist wirksam, bis seine Unwirksamkeit rechtskräftig festgestellt ist. Für die Ansprüche aus dem Anstellungsvertrag gelten die allgemeinen Vorschriften.
+(3) Ein Mitglied eines Vorstands, der aus mehreren Personen besteht, hat das Recht, den Aufsichtsrat um den Widerruf seiner Bestellung zu ersuchen, wenn es wegen Mutterschutz, Elternzeit, der Pflege eines Familienangehörigen oder Krankheit seinen mit der Bestellung verbundenen Pflichten vorübergehend nicht nachkommen kann. Macht ein Vorstandsmitglied von diesem Recht Gebrauch, muss der Aufsichtsrat die Bestellung dieses Vorstandsmitglieds
 
-(4) Die Vorschriften des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-2, veröffentlichten bereinigten Fassung - Montan-Mitbestimmungsgesetz - über die besonderen Mehrheitserfordernisse für einen Aufsichtsratsbeschluß über die Bestellung eines Arbeitsdirektors oder den Widerruf seiner Bestellung bleiben unberührt.
+1. im Fall des Mutterschutzes widerrufen und dabei die Wiederbestellung nach Ablauf des Zeitraums der in § 3 Absatz 1 und 2 des Mutterschutzgesetzes genannten Schutzfristen zusichern,
+
+2. in den Fällen der Elternzeit, der Pflege eines Familienangehörigen oder der Krankheit widerrufen und dabei die Wiederbestellung nach einem Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des Vorstandsmitglieds zusichern; der Aufsichtsrat kann von dem Widerruf der Bestellung absehen, wenn ein wichtiger Grund vorliegt.
+
+In den in Satz 2 Nummer 2 genannten Fällen kann der Aufsichtsrat die Bestellung des Vorstandsmitglieds auf dessen Verlangen mit Zusicherung der Wiederbestellung nach einem Zeitraum von bis zu zwölf Monaten widerrufen. Das vorgesehene Ende der vorherigen Amtszeit bleibt auch als Ende der Amtszeit nach der Wiederbestellung bestehen. Im Übrigen bleiben die Regelungen des Absatzes 1 unberührt. Die Vorgabe des § 76 Absatz 2 Satz 2, dass der Vorstand aus mindestens zwei Personen zu bestehen hat, gilt während des Zeitraums nach den Sätzen 2 oder 3 auch dann als erfüllt, wenn diese Vorgabe ohne den Widerruf eingehalten wäre. Ein Unterschreiten der in der Satzung festgelegten Mindestzahl an Vorstandsmitgliedern ist während des Zeitraums nach den Sätzen 2 oder 3 unbeachtlich. § 76 Absatz 3a und § 393a Absatz 2 Nummer 1 finden auf Bestellungen während des Zeitraums nach den Sätzen 2 oder 3 keine Anwendung, wenn das Beteiligungsgebot ohne den Widerruf eingehalten wäre. § 88 ist während des Zeitraums nach den Sätzen 2 oder 3 entsprechend anzuwenden.
+
+(4) Der Aufsichtsrat kann die Bestellung zum Vorstandsmitglied und die Ernennung zum Vorsitzenden des Vorstands widerrufen, wenn ein wichtiger Grund vorliegt. Ein solcher Grund ist namentlich grobe Pflichtverletzung, Unfähigkeit zur ordnungsmäßigen Geschäftsführung oder Vertrauensentzug durch die Hauptversammlung, es sei denn, daß das Vertrauen aus offenbar unsachlichen Gründen entzogen worden ist. Dies gilt auch für den vom ersten Aufsichtsrat bestellten Vorstand. Der Widerruf ist wirksam, bis seine Unwirksamkeit rechtskräftig festgestellt ist. Für die Ansprüche aus dem Anstellungsvertrag gelten die allgemeinen Vorschriften.
+
+(5) Die Vorschriften des Montan-Mitbestimmungsgesetzes über die besonderen Mehrheitserfordernisse für einen Aufsichtsratsbeschluß über die Bestellung eines Arbeitsdirektors oder den Widerruf seiner Bestellung bleiben unberührt.
 
 # § 85 – Bestellung durch das Gericht
 
 (1) Fehlt ein erforderliches Vorstandsmitglied, so hat in dringenden Fällen das Gericht auf Antrag eines Beteiligten das Mitglied zu bestellen. Gegen die Entscheidung ist die Beschwerde zulässig.
+
+(1a) § 76 Absatz 3a gilt auch für die gerichtliche Bestellung.
 
 (2) Das Amt des gerichtlich bestellten Vorstandsmitglieds erlischt in jedem Fall, sobald der Mangel behoben ist.
 
@@ -1789,7 +1801,7 @@ Der Aufsichtsrat besteht aus drei Mitgliedern. Die Satzung kann eine bestimmte h
 | von mehr als | 10 000 000 Euro einundzwanzig. |
 
   
-Durch die vorstehenden Vorschriften werden hiervon abweichende Vorschriften des Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I S. 1153), des Montan-Mitbestimmungsgesetzes und des Gesetzes zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-3, veröffentlichten bereinigten Fassung - Mitbestimmungsergänzungsgesetz - nicht berührt.
+Durch die vorstehenden Vorschriften werden hiervon abweichende Vorschriften des Mitbestimmungsgesetzes des Montan-Mitbestimmungsgesetzes und des Mitbestimmungsergänzungsgesetzes nicht berührt.
 
 # § 96 – Zusammensetzung des Aufsichtsrats
 
@@ -1961,7 +1973,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (2) Über die Sitzungen des Aufsichtsrats ist eine Niederschrift anzufertigen, die der Vorsitzende zu unterzeichnen hat. In der Niederschrift sind der Ort und der Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, der wesentliche Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats anzugeben. Ein Verstoß gegen Satz 1 oder Satz 2 macht einen Beschluß nicht unwirksam. Jedem Mitglied des Aufsichtsrats ist auf Verlangen eine Abschrift der Sitzungsniederschrift auszuhändigen.
 
-(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers, der Qualität der Abschlussprüfung und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Der Aufsichtsrat der börsennotierten Gesellschaft kann außerdem einen Ausschuss bestellen, der über die Zustimmung nach § 111b Absatz 1 beschließt. An dem Geschäft beteiligte nahestehende Personen im Sinne des § 111a Absatz 1 Satz 2 können nicht Mitglieder des Ausschusses sein. Er muss mehrheitlich aus Mitgliedern zusammengesetzt sein, bei denen keine Besorgnis eines Interessenkonfliktes auf Grund ihrer Beziehungen zu einer nahestehenden Person besteht. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
+(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers, der Qualität der Abschlussprüfung und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Der Aufsichtsrat der börsennotierten Gesellschaft kann außerdem einen Ausschuss bestellen, der über die Zustimmung nach § 111b Absatz 1 beschließt. An dem Geschäft beteiligte nahestehende Personen im Sinne des § 111a Absatz 1 Satz 2 können nicht Mitglieder des Ausschusses sein. Er muss mehrheitlich aus Mitgliedern zusammengesetzt sein, bei denen keine Besorgnis eines Interessenkonfliktes auf Grund ihrer Beziehungen zu einer nahestehenden Person besteht. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Absatz 2, 3 Satz 2 und 3 sowie Absatz 4 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
 
 (4) Der Aufsichtsrat einer Gesellschaft, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, hat einen Prüfungsausschuss im Sinne des Absatzes 3 Satz 2 einzurichten. Besteht der Aufsichtsrat nur aus drei Mitgliedern, ist dieser auch der Prüfungsausschuss. Der Prüfungsausschuss muss die Voraussetzungen des § 100 Absatz 5 erfüllen. Jedes Mitglied des Prüfungsausschusses kann über den Ausschussvorsitzenden unmittelbar bei den Leitern derjenigen Zentralbereiche der Gesellschaft, die in der Gesellschaft für die Aufgaben zuständig sind, die den Prüfungsausschuss nach Absatz 3 Satz 2 betreffen, Auskünfte einholen. Der Ausschussvorsitzende hat die eingeholte Auskunft allen Mitgliedern des Prüfungsausschusses mitzuteilen. Werden Auskünfte nach Satz 4 eingeholt, ist der Vorstand hierüber unverzüglich zu unterrichten.
 
@@ -2003,7 +2015,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (4) Maßnahmen der Geschäftsführung können dem Aufsichtsrat nicht übertragen werden. Die Satzung oder der Aufsichtsrat hat jedoch zu bestimmen, daß bestimmte Arten von Geschäften nur mit seiner Zustimmung vorgenommen werden dürfen. Verweigert der Aufsichtsrat seine Zustimmung, so kann der Vorstand verlangen, daß die Hauptversammlung über die Zustimmung beschließt. Der Beschluß, durch den die Hauptversammlung zustimmt, bedarf einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfaßt. Die Satzung kann weder eine andere Mehrheit noch weitere Erfordernisse bestimmen.
 
-(5) Der Aufsichtsrat von Gesellschaften, die börsennotiert sind oder der Mitbestimmung unterliegen, legt für den Frauenanteil im Aufsichtsrat und im Vorstand Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein. Soweit für den Aufsichtsrat bereits eine Quote nach § 96 Absatz 2 gilt, sind die Festlegungen nur für den Vorstand vorzunehmen.
+(5) Der Aufsichtsrat von Gesellschaften, die börsennotiert sind oder der Mitbestimmung unterliegen, legt für den Frauenanteil im Aufsichtsrat und im Vorstand Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Legt der Aufsichtsrat für den Aufsichtsrat oder den Vorstand die Zielgröße Null fest, so hat er diesen Beschluss klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein. Wenn für den Aufsichtsrat bereits das Mindestanteilsgebot nach § 96 Absatz 2 oder 3 gilt, sind die Festlegungen nur für den Vorstand vorzunehmen. Gilt für den Vorstand das Beteiligungsgebot nach § 76 Absatz 3a, entfällt auch die Pflicht zur Zielgrößensetzung für den Vorstand.
 
 (6) Die Aufsichtsratsmitglieder können ihre Aufgaben nicht durch andere wahrnehmen lassen.
 
@@ -4606,6 +4618,30 @@ Die Anfechtung des Übertragungsbeschlusses kann nicht auf § 243 Abs. 2 oder da
 # § 338
 
 \-
+
+# § 393a – Besetzung von Organen bei Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes
+
+(1) Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes sind Aktiengesellschaften mit Sitz im Inland,
+
+1. deren Anteile zur Mehrheit vom Bund gehalten werden oder
+
+2. die große Kapitalgesellschaften (§ 267 Absatz 3 des Handelsgesetzbuchs) sind und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit vom Bund gehalten werden, oder
+
+3. die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer haben und deren Anteile zur Mehrheit von Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
+
+a) vom Bund gehalten werden oder
+
+b) von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen, deren Anteile zur Mehrheit vom Bund gehalten werden.
+
+Anteile, die über ein Sondervermögen des Bundes gehalten werden, bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
+
+(2) Für Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes gelten
+
+1. § 76 Absatz 3a unabhängig von einer Börsennotierung und einer Geltung des Mitbestimmungsgesetzes, des Montan-Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes, wenn der Vorstand aus mehr als zwei Personen besteht, sowie
+
+2. § 96 Absatz 2 unabhängig von einer Börsennotierung und einer Geltung des Mitbestimmungsgesetzes, des Montan-Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes.
+
+(3) Die Länder können die Vorgaben des Absatzes 2 durch Landesgesetz auf Aktiengesellschaften erstrecken, an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1 besteht. In diesem Fall gelten für Gesellschaften mit Mehrheitsbeteiligung eines Landes, die der Mitbestimmung unterliegen, die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
 # § 394 – Berichte der Aufsichtsratsmitglieder
 

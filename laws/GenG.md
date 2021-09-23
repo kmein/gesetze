@@ -837,6 +837,10 @@ Zwangsgeldverfahren
 
 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
 
+§ 174
+
+Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
 # § 1 – Wesen der Genossenschaft
 
 (1) Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder oder deren soziale oder kulturelle Belange durch gemeinschaftlichen Geschäftsbetrieb zu fördern (Genossenschaften), erwerben die Rechte einer "eingetragenen Genossenschaft" nach Maßgabe dieses Gesetzes.
@@ -923,9 +927,9 @@ Die Satzung muss ferner bestimmen:
 
 (2) Die Mitglieder des Vorstands und des Aufsichtsrats müssen Mitglieder der Genossenschaft und natürliche Personen sein. Gehören der Genossenschaft eingetragene Genossenschaften als Mitglieder an, können deren Mitglieder, sofern sie natürliche Personen sind, in den Vorstand oder Aufsichtsrat der Genossenschaft berufen werden; gehören der Genossenschaft andere juristische Personen oder Personengesellschaften an, gilt dies für deren zur Vertretung befugte Personen.
 
-(3) Der Vorstand einer Genossenschaft, die der Mitbestimmung unterliegt, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+(3) Der Vorstand einer Genossenschaft, die der Mitbestimmung unterliegt, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil an der jeweiligen Führungsebene beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Legt der Vorstand für eine der Führungsebenen die Zielgröße Null fest, so hat er dies klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
-(4) Ist bei einer Genossenschaft, die der Mitbestimmung unterliegt, ein Aufsichtsrat bestellt, legt dieser für den Frauenanteil im Aufsichtsrat und im Vorstand Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+(4) Ist bei einer Genossenschaft, die der Mitbestimmung unterliegt, ein Aufsichtsrat bestellt, legt dieser für den Frauenanteil im Aufsichtsrat und im Vorstand Zielgrößen fest. Die Zielgrößen müssen den angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben und bei Angaben in Prozent vollen Personenzahlen entsprechen. Legt der Aufsichtsrat für den Aufsichtsrat oder den Vorstand die Zielgröße Null fest, so hat er dies klar und verständlich zu begründen. Die Begründung muss ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 # § 10 – Genossenschaftsregister
 
@@ -2341,7 +2345,7 @@ Am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als Organe der 
 
 # § 168 – Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
-Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 9 Absatz 3 Satz 3 und Absatz 4 Satz 3 erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 in der am 1. Mai 2015 geltenden Fassung haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 9 Absatz 3 Satz 3 und Absatz 4 Satz 3 in der am 1. Mai 2015 geltenden Fassung erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
 
 # § 169 – Übergangsvorschrift zum Abschlussprüfungsreformgesetz
 
@@ -2364,3 +2368,7 @@ Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 hab
 (1) Die §§ 55, 151a und 152 in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Prüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Prüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 (2) § 53 Absatz 3 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals ab dem 1. Januar 2022 anzuwenden.
+
+# § 174 – Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+§ 9 Absatz 3 und 4 in der vom 12. August 2021 an geltenden Fassung findet erstmals auf die Festlegung von Zielgrößen ab dem 12. August 2021 Anwendung.

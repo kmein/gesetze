@@ -183,7 +183,7 @@ Die Pflicht, die inländische Geschäftsanschrift bei dem Gericht nach § 37 des
 
 # § 25 – Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
-(1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111 Absatz 5 Satz 1 und 3 des Aktiengesetzes haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 76 Absatz 4 Satz 3 und die nach § 111 Absatz 5 Satz 3 des Aktiengesetzes erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+(1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111 Absatz 5 Satz 1 und 3 des Aktiengesetzes in der am 1. Mai 2015 geltenden Fassung haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 76 Absatz 4 Satz 3 und die nach § 111 Absatz 5 Satz 3 des Aktiengesetzes in der am 1. Mai 2015 geltenden Fassung erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
 
 (2) Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im Aufsichtsrat nach § 96 Absatz 2 des Aktiengesetzes ist bei erforderlich werdenden Neuwahlen und Entsendungen ab dem 1. Januar 2016 zur Besetzung einzelner oder mehrerer Aufsichtsratssitze zu beachten. Reicht die Anzahl der neu zu besetzenden Aufsichtsratssitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem regulären Ende wahrgenommen werden.
 
@@ -268,6 +268,14 @@ Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des C
 (4) § 143 Absatz 2, § 209 Absatz 4 und § 258 Absatz 4 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf Sonderprüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr bestellt, oder Prüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr gewählt werden, anzuwenden.
 
 (5) § 293d in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf die Prüfung von Unternehmensverträgen anzuwenden, die nach dem 31. Dezember 2021 geschlossen wurden. § 293d in der bis einschließlich 30. Juni 2021 geltenden Fassung ist letztmals auf die Prüfung von Unternehmensverträgen anzuwenden, die vor dem 1. Januar 2022 geschlossen wurden.
+
+# § 26l – Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+(1) Das Beteiligungsgebot für den Vorstand nach § 76 Absatz 3a Satz 1 des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung ist ab dem 1. August 2022 bei der Bestellung einzelner oder mehrerer Vorstandsmitglieder einzuhalten. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden. Gleiches gilt im Fall des § 393a Absatz 2 Nummer 1 des Aktiengesetzes.
+
+(2) § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung finden erstmals auf die Festlegung von Zielgrößen ab dem 12. August 2021 Anwendung.
+
+(3) Der jeweilige Mindestanteil von Frauen und Männern im Aufsichtsrat nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
 
 # § 27 – Entscheidung über die Zusammensetzung des Aufsichtsrats
 

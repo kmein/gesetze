@@ -29,7 +29,7 @@
 
 # § 5 – Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
-Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2 und 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 36 Satz 3 und § 52 Absatz 2 Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2 und 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der am 1. Mai 2015 geltenden Fassung haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 36 Satz 3 und § 52 Absatz 2 Satz 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der am 1. Mai 2015 geltenden Fassung erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
 
 # § 6 – Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
 
@@ -48,3 +48,11 @@ Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2 und 4 de
 (1) Die §§ 86 und 87 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 (2) § 57f Absatz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf Prüfer, die für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr gewählt werden, anzuwenden.
+
+# § 10 – Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+(1) Die §§ 36 und 52 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der vom 12. August 2021 an geltenden Fassung finden erstmals auf die Festlegung von Zielgrößen ab dem 12. August 2021 Anwendung.
+
+(2) Das Beteiligungsgebot nach § 77a Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der vom 12. August 2021 an geltenden Fassung ist ab dem 1. August 2022 bei der Bestellung einzelner oder mehrerer Geschäftsführer anzuwenden. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
+
+(3) Der jeweilige Mindestanteil von Frauen und Männern im Aufsichtsrat nach § 77a Absatz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der vom 12. August 2021 an geltenden Fassung ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden.

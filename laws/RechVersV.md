@@ -1402,7 +1402,7 @@ Sie brauchen
 
 # § 63 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 341n Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Versicherungsunternehmens oder als Hauptbevollmächtigter einer Niederlassung im Geltungsbereich dieser Verordnung von Versicherungsunternehmen mit Sitz außerhalb des Geltungsbereichs dieser Verordnung
+Ordnungswidrig im Sinne des § 341n Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Versicherungsunternehmens oder als Hauptbevollmächtigter einer Niederlassung im Geltungsbereich dieser Verordnung von Versicherungsunternehmen mit Sitz außerhalb des Geltungsbereichs dieser Verordnung
 
 1. bei der Aufstellung oder Feststellung des Jahresabschlusses
 

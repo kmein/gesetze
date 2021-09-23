@@ -79,15 +79,19 @@ Abweichend von § 17 Absatz 2 Satz 4 des Umwandlungsgesetzes genügt es für die
 
 # § 7 – Anwendungsbestimmungen
 
-(1) § 1 ist auf Hauptversammlungen und Abschlagszahlungen auf den Bilanzgewinn anzuwenden, die im Jahr 2020 und im Jahr 2021 stattfinden.
+(1) § 1 ist auf Hauptversammlungen und Abschlagszahlungen auf den Bilanzgewinn anzuwenden, die bis einschließlich 31. August 2022 stattfinden.
 
-(2) § 2 ist auf Gesellschafterversammlungen und -beschlüsse anzuwenden, die im Jahr 2020 und im Jahr 2021 stattfinden.
+(2) § 2 ist auf Gesellschafterversammlungen und -beschlüsse anzuwenden, die bis einschließlich 31. August 2022 stattfinden.
 
-(3) § 3 Absatz 1 und 2 ist auf General- und Vertreterversammlungen, die im Jahr 2020 und im Jahr 2021 stattfinden, § 3 Absatz 3 ist auf Jahresabschlussfeststellungen, die im Jahr 2020 und im Jahr 2021 erfolgen, § 3 Absatz 4 ist auf Abschlagszahlungen, die im Jahr 2020 und im Jahr 2021 stattfinden, § 3 Absatz 5 ist auf im Jahr 2020 und im Jahr 2021 ablaufende Bestellungen von Vorstands- oder Aufsichtsratsmitgliedern und § 3 Absatz 6 ist auf Sitzungen des Vorstands oder des Aufsichtsrats einer Genossenschaft oder deren gemeinsame Sitzungen, die im Jahr 2020 und im Jahr 2021 stattfinden, anzuwenden.
+(3) § 3 Absatz 1 und 2 ist auf General- und Vertreterversammlungen, die bis einschließlich 31. August 2022 stattfinden, § 3 Absatz 3 ist auf Jahresabschlussfeststellungen, die bis einschließlich 31. August 2022 erfolgen, § 3 Absatz 4 ist auf Abschlagszahlungen, die bis einschließlich 31. August 2022 stattfinden, § 3 Absatz 5 ist auf bis einschließlich 31. August 2022 ablaufende Bestellungen von Vorstands- oder Aufsichtsratsmitgliedern und § 3 Absatz 6 ist auf Sitzungen des Vorstands oder des Aufsichtsrats einer Genossenschaft oder deren gemeinsame Sitzungen, die bis einschließlich 31. August 2022 stattfinden, anzuwenden.
 
 (4) § 4 ist nur auf Anmeldungen anzuwenden, die im Jahr 2020 vorgenommen werden.
 
-(5) § 5 ist nur auf im Jahr 2020 und im Jahr 2021 ablaufende Bestellungen von Vereins- oder Stiftungsvorständen und im Jahr 2020 und im Jahr 2021 stattfindende Mitgliederversammlungen von Vereinen anzuwenden.
+(5) § 5 ist nur anzuwenden auf
+
+1. bis zum Ablauf des 31. August 2022 ablaufende Bestellungen von Vorständen von Vereinen, Parteien und Stiftungen und von sonstigen Vertretern in Organen und Gliederungen von Parteien sowie
+
+2. Versammlungen und Beschlussfassungen, die bis zum Ablauf des 31. August 2022 stattfinden.
 
 # § 8 – Verordnungsermächtigung
 

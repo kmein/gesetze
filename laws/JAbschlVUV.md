@@ -43,7 +43,7 @@ Die Posten § 266 Abs. 2 Aktivseite A. II. Nr. 3 und 4 des Handelsgesetzbuchs we
 
 # § 2a
 
-Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Gesellschaft nach § 1 Nr. 1 oder 2
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Gesellschaft nach § 1 Nr. 1 oder 2
 
 1. entgegen § 2 Abs. 1 Satz 1 Nr. 1 den dort vorgeschriebenen Vermerk nicht anfügt oder
 
