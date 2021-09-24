@@ -4401,6 +4401,7 @@
 - [PIDV](laws/PIDV.md) Verordnung zur Regelung der Präimplantationsdiagnostik
 - [PKDBSa](laws/PKDBSa.md) Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
 - [PKDBV](laws/PKDBV.md) Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
+- [PKEV](laws/PKEV.md) Verordnung zur Erstattung pandemiebedingter Kosten der sozialen Pflegeversicherung durch Bundesmittel
 - [PKGrG](laws/PKGrG.md) Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes
 - [PKHB 2011](laws/PKHB_2011.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2012](laws/PKHB_2012.md) Bekanntmachung zu § 115 der Zivilprozessordnung

@@ -671,7 +671,7 @@ Viertes Buch
 
  
 
-Sonder-, Straf- und Schlußvorschriften (§§ 394 - 410)
+Sonder-, Straf- und Schlußvorschriften (§§ 393a - 410)
 
  
 
@@ -681,7 +681,7 @@ Erster Teil
 
 Sondervorschriften bei Beteiligung von Gebietskörperschaften
 
-§§ 394 - 395
+§§ 393a - 395
 
  
 

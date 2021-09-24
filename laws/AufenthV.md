@@ -287,7 +287,7 @@ Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und d
 
 § 45a
 
-Gebühren für den elektronischen Identitätsnachweis
+(weggefallen)
 
 § 45b
 

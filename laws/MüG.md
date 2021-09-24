@@ -1,7 +1,7 @@
 % Gesetz zur Marktüberwachung und zur Sicherstellung der Konformität von Produkten  (Marktüberwachungsgesetz - MüG)
 % Ausfertigungsdatum: 09.06.2021
  
-# Inhaltsverzeichnis
+# Inhaltsübersicht
 
  
 
@@ -36,6 +36,10 @@
 (1) Dieses Gesetz gilt für Produkte im Anwendungsbereich von Artikel 2 der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1).
 
 (2) Dieses Gesetz gilt zudem für Produkte im Anwendungsbereich des Produktsicherheitsgesetzes. Satz 1 gilt nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Vorschriften vorgesehen sind.
+
+(+++ § 1 Abs. 2: Zur Anwendung vgl. § 3  
+§ 1 Abs. 2: Zur Anwendung vgl. § 8 Abs. 2 Satz 3  
+§ 1 Abs. 2: Zur Anwendung vgl. § 8 Abs. 3 Satz 2 +++)
 
 # § 2 – Begriffsbestimmungen
 
@@ -96,6 +100,8 @@ Artikel 7 der Verordnung (EU) 2019/1020 gilt für Produkte im Sinne von § 1 Abs
 (3) Die Entscheidung, ob mit einem Produkt ein ernstes Risiko verbunden ist, wird auf der Grundlage einer angemessenen Risikobewertung gemäß Artikel 19 Absatz 2 der Verordnung (EU) 2019/1020 getroffen. Auf Produkte im Sinne des § 1 Absatz 2 ist Artikel 19 Absatz 2 der Verordnung (EU) 2019/1020 entsprechend anzuwenden.
 
 (4) In Bezug auf die Unterrichtung der Kommission und der anderen Mitgliedstaaten über Maßnahmen nach Artikel 16 Absatz 5 ist Artikel 16 Absatz 6 der Verordnung (EU) 2019/1020 entsprechend anzuwenden.
+
+(+++ § 8 Abs. 3: Zur Anwendung vgl. § 18 Abs. 2 Satz 2 +++)
 
 # § 9 – Adressaten der Marktüberwachungsmaßnahmen
 
