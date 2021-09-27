@@ -1228,7 +1228,6 @@
 - [BtMKostV](laws/BtMKostV.md) Betäubungsmittel-Kostenverordnung
 - [BtMVV](laws/BtMVV.md) Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln
 - [BTPräsAmtsbezAnO](laws/BTPräsAmtsbezAnO.md) Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung
-- [BTWahl2021AnO](laws/BTWahl2021AnO.md) Anordnung über die Bundestagswahl 2021
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
 - [BuchBMstrV](laws/BuchBMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Buchbinder-Handwerk
 - [BuchhdlAusbV 2011](laws/BuchhdlAusbV_2011.md) Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin*)
