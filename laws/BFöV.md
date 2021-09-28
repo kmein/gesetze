@@ -337,6 +337,8 @@ Schlussvorschriften
 
 (3) Erstattungsfähige Kosten sind innerhalb einer Frist von sechs Monaten nach Abschluss der Maßnahme schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – geltend zu machen.
 
+(+++ § 6 Abs. 1 Satz 2: Zur Anwendung vgl. § 38 Abs. 2 +++)
+
 # § 7 – Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes
 
 (1) Der Bescheid über die Bewilligung der dienstzeitbegleitenden Förderung kann widerrufen werden, wenn

@@ -123,7 +123,7 @@ Transplantationsbeauftragte
 
 § 9c
 
-Neurochirurgischer und neurologischer konsiliarärztlicher Rufbereitschaftsdienst, Verordnungsermächtigung
+(weggefallen)
 
 § 10
 
@@ -634,6 +634,8 @@ Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen Laborunte
 
 6. sicherzustellen, dass alle Todesfälle mit primärer oder sekundärer Hirnschädigung sowie die Gründe für eine nicht erfolgte Feststellung oder für eine nicht erfolgte Meldung nach Nummer 1 oder andere der Organentnahme entgegenstehende Gründe erfasst und die Daten der Koordinierungsstelle nach § 11 mindestens einmal jährlich anonymisiert übermittelt werden.
 
+Verfügt ein Entnahmekrankenhaus nicht über Ärzte, die für die Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms bei einem Patienten qualifiziert sind, und ist es auch anderweitig nicht in der Lage, seine Verpflichtung nach Satz 1 Nummer 1 zu erfüllen, vermittelt die Koordinierungsstelle nach § 11 auf Anfrage des Entnahmekrankenhauses hierfür qualifizierte Ärzte. Die Koordinierungsstelle organisiert einen neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienst (Rufbereitschaftsdienst), der sicherstellt, dass auf Anfrage eines Entnahmekrankenhauses regional und flächendeckend jederzeit Ärzte, die für die Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms qualifiziert sind, zur Verfügung stehen. Krankenhäuser mit neurochirurgischen oder neurologischen Fachabteilungen sowie neurochirurgische oder neurologische Medizinische Versorgungszentren und neurochirurgische oder neurologische Praxen beteiligen sich auf Anfrage der Koordinierungsstelle an dem Rufbereitschaftsdienst. Die Krankenhäuser, Medizinischen Versorgungszentren und Praxen haben einen Anspruch auf einen angemessenen Ausgleich der Kosten, die ihnen dadurch entstehen, dass sie Ärzte für den Rufbereitschaftsdienst zur Verfügung stellen. Die sich beteiligenden Ärzte haben Anspruch auf eine angemessene Vergütung einschließlich einer Einsatzpauschale.
+
 (3) Die Entnahmekrankenhäuser erhalten eine pauschale Abgeltung für die Leistungen, die sie im Rahmen der Organentnahme und deren Vorbereitung erbringen. Die pauschale Abgeltung besteht aus
 
 1. einer Grundpauschale für die Feststellung nach Absatz 2 Nummer 1,
@@ -676,15 +678,7 @@ Die Kosten für fachspezifische Fort- und Weiterbildungen der Transplantationsbe
 
 (4) Das Nähere, insbesondere zu der erforderlichen Qualifikation und organisationsrechtlichen Stellung der Transplantationsbeauftragten, wird durch Landesrecht bestimmt. Durch Landesrecht können die Voraussetzungen festgelegt werden, nach denen mehrere Entnahmekrankenhäuser zur Erfüllung ihrer Verpflichtung nach Absatz 1 die Bestellung eines gemeinsamen Transplantationsbeauftragten schriftlich vereinbaren können. Dabei ist sicherzustellen, dass der Transplantationsbeauftragte seine Aufgaben in jedem der Entnahmekrankenhäuser ordnungsgemäß wahrnehmen kann. Im Landesrecht können auch Ausnahmen von der Verpflichtung zur Bestellung eines Transplantationsbeauftragten vorgesehen werden, soweit und solange die Realisierung einer Organentnahme in begründeten Ausnahmefällen wegen der Besonderheiten des Entnahmekrankenhauses ausgeschlossen ist. Die Ausnahmen können einer Genehmigung durch die zuständige Behörde unterworfen werden.
 
-# § 9c – Neurochirurgischer und neurologischer konsiliarärztlicher Rufbereitschaftsdienst, Verordnungsermächtigung
-
-(1) Zur Unterstützung der Entnahmekrankenhäuser bei der Erfüllung ihrer Verpflichtung nach § 9a Absatz 2 Nummer 1, den endgültigen, nicht behebbaren Ausfall der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms bei Patienten, die nach ärztlicher Beurteilung als Organspender in Betracht kommen, nach § 5 festzustellen, wird ein neurochirurgischer und neurologischer konsiliarärztlicher Rufbereitschaftsdienst eingerichtet. Zur Organisation dieses Rufbereitschaftsdienstes beauftragen der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer und die Deutsche Krankenhausgesellschaft im Einvernehmen mit dem Verband der Privaten Krankenversicherung durch Vertrag eine geeignete Einrichtung. Diese darf weder an der Entnahme noch an der Übertragung von Organen beteiligt sein.
-
-(2) Die Einrichtung nach Absatz 1 muss gewährleisten, dass regional und flächendeckend jederzeit Ärzte, die für die Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms bei einem Patienten qualifiziert sind, auf Anfrage eines Entnahmekrankenhauses zur Verfügung stehen. Krankenhäuser mit neurochirurgischen oder neurologischen Fachabteilungen sowie neurochirurgische oder neurologische Medizinische Versorgungszentren und neurochirurgische oder neurologische Praxen beteiligen sich auf Anfrage der nach Absatz 1 beauftragten Einrichtung an dem neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienst. Die Krankenhäuser, Medizinischen Versorgungszentren und Praxen haben einen Anspruch auf einen angemessenen Ausgleich der Kosten, die ihnen dadurch entstehen, dass sie Ärzte für den Rufbereitschaftsdienst zur Verfügung stellen. Die sich beteiligenden Ärzte haben Anspruch auf eine angemessene Vergütung einschließlich einer Einsatzpauschale.
-
-(3) In einem Vertrag regeln der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer und die Deutsche Krankenhausgesellschaft im Einvernehmen mit dem Verband der Privaten Krankenversicherung das Nähere zu den Aufgaben, zu der Organisation und zu der Finanzierung des neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienstes aus Mitteln der gesetzlichen Krankenversicherung einschließlich des in Absatz 2 Satz 3 genannten Ausgleichs und der in Absatz 2 Satz 4 genannten Vergütung. Die private Krankenversicherungswirtschaft kann sich an der Finanzierung des neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienstes beteiligen.
-
-(4) Kommt ein Vertrag nach Absatz 3 bis zum 31. Dezember 2019 oder ein Vertrag nach Absatz 1 Satz 2 bis zum 30. Juni 2021 ganz oder teilweise nicht zustande, bestimmt das Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates eine geeignete Einrichtung und regelt das Nähere zu den Aufgaben, der Organisation und der Finanzierung des neurochirurgischen und neurologischen konsiliarärztlichen Rufbereitschaftsdienstes aus Mitteln der gesetzlichen Krankenversicherung.
+# § 9c – (weggefallen)
 
 # § 10 – Transplantationszentren
 
@@ -768,7 +762,7 @@ Die Koordinierungsstelle stellt sicher, dass das von ihr eingesetzte medizinisch
 
 (2) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer, die Deutsche Krankenhausgesellschaft und die Koordinierungsstelle regeln durch Vertrag das Nähere zu den Aufgaben der Koordinierungsstelle mit Wirkung für die Transplantationszentren und die Entnahmekrankenhäuser. Der Vertrag regelt insbesondere
 
-1. die Anforderungen an die im Zusammenhang mit einer Organentnahme zum Schutz der Organempfänger erforderlichen Maßnahmen sowie die Rahmenregelungen für die Zusammenarbeit der Beteiligten,
+1. die Anforderungen an die im Zusammenhang mit einer Organentnahme zum Schutz der Organempfänger erforderlichen Maßnahmen sowie die Rahmenregelungen für die Zusammenarbeit der Beteiligten einschließlich der Einzelheiten zu Aufgaben und Organisation des Rufbereitschaftsdienstes nach § 9a Absatz 2 Satz 3,
 
 2. die Zusammenarbeit und den Erfahrungsaustausch mit der Vermittlungsstelle,
 
@@ -776,9 +770,13 @@ Die Koordinierungsstelle stellt sicher, dass das von ihr eingesetzte medizinisch
 
 4. den Ersatz angemessener Aufwendungen der Koordinierungsstelle für die Erfüllung ihrer Aufgaben nach diesem Gesetz einschließlich
 
-a) der pauschalen Abgeltung von Leistungen nach § 9a Absatz 3 Satz 2 und des Ausgleichszuschlags nach § 9a Absatz 3 Satz 3 sowie
+a) der pauschalen Abgeltung von Leistungen nach § 9a Absatz 3 Satz 2 und des Ausgleichszuschlags nach § 9a Absatz 3 Satz 3,
 
-b) des Ersatzes der Aufwendungen der Entnahmekrankenhäuser für die Freistellung der Transplantationsbeauftragten nach § 9b Absatz 3 Satz 4 und
+b) des Ersatzes der Aufwendungen der Entnahmekrankenhäuser für die Freistellung der Transplantationsbeauftragten nach § 9b Absatz 3 Satz 4,
+
+c) des angemessenen Ausgleichs der Kosten nach § 9a Absatz 2 Satz 5 und
+
+d) der angemessenen Vergütung einschließlich einer Einsatzpauschale nach § 9a Absatz 2 Satz 6.
 
 5. ein Schlichtungsverfahren bei einer fehlenden Einigung über den Ersatz angemessener Aufwendungen nach Nummer 4.
 

@@ -9,7 +9,7 @@ Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. J
 
 (1) Die Bundesnetzagentur ist auf den Gebieten
 
-1. des Rechts der leitungsgebundenen Versorgung mit Elektrizität und Gas, einschließlich des Rechts der erneuerbaren Energien im Strombereich,
+1. des Rechts der leitungsgebundenen Versorgung mit Elektrizität, Gas und Wasserstoff, einschließlich des Rechts der erneuerbaren Energien im Strombereich,
 
 2. des Telekommunikationsrechts,
 

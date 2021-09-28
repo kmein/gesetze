@@ -315,4 +315,4 @@ Für Umschüler mit einer abgeschlossenen Ausbildung in einem medizinischen Fach
 
 # § 19
 
-§ 9 Absatz 2 bis 4 tritt am 31. Dezember 2021 außer Kraft. Ausbildungen nach § 9 Absatz 2, die vor dem 31. Dezember 2021 begonnen worden sind, werden nach dieser Bestimmung abgeschlossen.
+§ 9 Absatz 2 bis 4 tritt am 31. Dezember 2024 außer Kraft. Ausbildungen nach § 9 Absatz 2, die vor dem 31. Dezember 2024 begonnen worden sind, werden nach dieser Bestimmung abgeschlossen.
