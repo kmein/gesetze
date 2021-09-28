@@ -1,8 +1,6 @@
 % Baugesetzbuch *)  (BauGB)
 % Ausfertigungsdatum: 23.06.1960
  
-# Inhaltsübersicht
-
 # § 1 – Aufgabe, Begriff und Grundsätze der Bauleitplanung
 
 (1) Aufgabe der Bauleitplanung ist es, die bauliche und sonstige Nutzung der Grundstücke in der Gemeinde nach Maßgabe dieses Gesetzbuchs vorzubereiten und zu leiten.
@@ -3579,7 +3577,7 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 
 (3) Für die zur Förderung städtebaulicher Maßnahmen bis zum 1. September 2006 geschlossenen Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes in seiner bis zum 1. September 2006 geltenden Fassung ist § 164b in seiner bis zum 12. September 2006 geltenden Fassung bis zum 31. Dezember 2019 anzuwenden.
 
-# § 245a – Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
+# § 245a – Überleitungsvorschriften und Vorschriften im Zusammenhang mit dem Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
 
 (1) Die Regelungen zur Zulässigkeit von Anlagen zur Kinderbetreuung sowie von Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen in § 3 Absatz 2 Nummer 2 und § 14 Absatz 3 der Baunutzungsverordnung in der ab dem 20. September 2013 geltenden Fassung gelten vorbehaltlich des Satzes 2 und des Absatzes 2 auch für Bebauungspläne, die auf der Grundlage der Baunutzungsverordnung in einer Fassung vor dem 20. September 2013 in Kraft getreten sind. Satz 1 gilt nicht in Bezug auf Anlagen zur Kinderbetreuung, wenn vor dem 20. September 2013 die ausnahmsweise Zulässigkeit dieser Anlagen nach § 3 Absatz 3 Nummer 2 der Baunutzungsverordnung in der vom 27. Januar 1990 bis zum 20. September 2013 geltenden Fassung durch Festsetzungen nach § 1 Absatz 6 Nummer 1, Absatz 8 und 9 der Baunutzungsverordnung ausgeschlossen worden ist.
 
@@ -3588,6 +3586,14 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 (3) Darstellungen in Flächennutzungsplänen, die vor dem 20. September 2013 in Bezug auf bauliche Anlagen zur Tierhaltung im Sinne des § 35 Absatz 1 Nummer 4 die Rechtswirkungen des § 35 Absatz 3 Satz 3 erzielt haben, haben diese Rechtswirkungen auch in Bezug auf bauliche Anlagen zur Tierhaltung im Sinne der ab dem 20. September 2013 geltenden Fassung des § 35 Absatz 1 Nummer 4. Wenn ein Fortgelten der Rechtswirkungen nach Satz 1 der ursprünglichen planerischen Zielsetzung widerspricht, stellt die Gemeinde dies in einem Beschluss fest, der ortsüblich bekannt zu machen ist. Mit der ortsüblichen Bekanntmachung des Beschlusses gelten die entsprechenden Darstellungen als aufgehoben; der Flächennutzungsplan ist im Wege der Berichtigung anzupassen.
 
 (4) Soweit für Zulassungsentscheidungen über Anlagen zur Tierhaltung, die dem § 35 Absatz 1 Nummer 4 unterfallen, vor Ablauf des 4. Juli 2012 bei der zuständigen Behörde ein Antrag eingegangen ist, ist § 35 Absatz 1 Nummer 4 in seiner bis zum 20. September 2013 geltenden Fassung anzuwenden.
+
+(5) Soweit bei einer Zulassungsentscheidung über Anlagen zur Tierhaltung auf Grund von Absatz 4 § 35 Absatz 1 Nummer 4 in seiner bis zum Ablauf des 20. September 2013 geltenden Fassung anzuwenden war, ist die Änderung der danach errichteten baulichen Anlage zur Tierhaltung ebenfalls unter den Voraussetzungen des § 35 Absatz 1 Nummer 4 in seiner bis zum Ablauf des 20. September 2013 geltenden Fassung zulässig, wenn
+
+1. es sich ausschließlich um eine Änderung zur Umsetzung eines Betriebs- und Umbaukonzepts zur Umstellung der vorhandenen Haltungseinrichtungen auf Haltungseinrichtungen zum Halten von Jungsauen und Sauen, das den Anforderungen des § 30 Absatz 2 und 2a der Tierschutz-Nutztierhaltungsverordnung in der Fassung der Bekanntmachung vom 22. August 2006 (BGBl. I S. 2043), die zuletzt durch Artikel 1a der Verordnung vom 29. Januar 2021 (BGBl. I S. 146) geändert worden ist, jeweils in Verbindung mit § 24 Absatz 2 der Tierschutz-Nutztierhaltungsverordnung, genügt, oder eines Betriebs- und Umbaukonzepts zur Umstellung der vorhandenen Abferkelbuchten auf Abferkelbuchten zum Halten von Jungsauen und Sauen, das den Anforderungen des § 24 Absatz 3 Satz 3 und Absatz 4 sowie § 30 Absatz 2b der Tierschutz-Nutztierhaltungsverordnung genügt, handelt sowie
+
+2. die Anzahl der Tierplätze nicht erhöht und die Tierart im Sinne der Nummer 7.8 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung nicht geändert wird.
+
+Satz 1 gilt auch für bauliche Anlagen zur Tierhaltung im Außenbereich nach § 35, die dem Anwendungsbereich des § 35 Absatz 1 Nummer 1 nicht oder nicht mehr unterfallen und deren Zulassungsentscheidung vor dem 20. September 2013 getroffen worden ist. Unbeschadet von Satz 1 und 2 bleibt die Möglichkeit, ein Vorhaben nach § 35 zuzulassen.
 
 # § 245b – Überleitungsvorschriften für Vorhaben im Außenbereich
 

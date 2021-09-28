@@ -159,7 +159,7 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 # § 12 – Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung
 
-(1) Stellen Behörden über öffentlich zugängliche Netze Daten zur Verfügung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Informationsweiterverwendungsgesetzes, zu erwarten ist, so sind grundsätzlich maschinenlesbare Formate zu verwenden. Ein Format ist maschinenlesbar, wenn die enthaltenen Daten durch Software automatisiert ausgelesen und verarbeitet werden können. Die Daten sollen mit Metadaten versehen werden.
+(1) Stellen Behörden über öffentlich zugängliche Netze Daten zur Verfügung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Datennutzungsgesetzes, zu erwarten ist, so sind grundsätzlich maschinenlesbare Formate zu verwenden. Ein Format ist maschinenlesbar, wenn die enthaltenen Daten durch Software automatisiert ausgelesen und verarbeitet werden können. Die Daten sollen mit Metadaten versehen werden.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen für die Nutzung der Daten gemäß Absatz 1 festzulegen. Die Nutzungsbestimmungen sollen die kommerzielle und nichtkommerzielle Nutzung abdecken. Sie sollen insbesondere den Umfang der Nutzung, Nutzungsbedingungen, Gewährleistungs- und Haftungsausschlüsse regeln. Es können keine Regelungen zu Geldleistungen getroffen werden.
 
@@ -169,9 +169,9 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 (5) Absatz 1 gilt nicht, soweit Rechte Dritter, insbesondere der Länder, entgegenstehen.
 
-# § 12a – Offene Daten der Behörden der unmittelbaren Bundesverwaltung
+# § 12a – Offene Daten des Bundes, Verordnungsermächtigung
 
-(1) Die Behörden der unmittelbaren Bundesverwaltung stellen unbearbeitete Daten, die sie zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf über öffentlich zugängliche Netze bereit. Ein Anspruch auf die Bereitstellung dieser Daten wird hierdurch nicht begründet.
+(1) Die Behörden des Bundes mit Ausnahme der Selbstverwaltungskörperschaften stellen unbearbeitete maschinenlesbare Daten, die sie zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf über öffentlich zugängliche Netze bereit. Ein Anspruch auf Bereitstellung dieser Daten wird hierdurch nicht begründet. Satz 1 gilt nicht für natürliche Personen und juristische Personen des Privatrechts, denen hoheitliche Aufgaben zur selbständigen Wahrnehmung übertragen wurden.
 
 (2) Absatz 1 Satz 1 gilt nur für Daten, die
 
@@ -179,31 +179,43 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 2. ausschließlich Tatsachen enthalten, die außerhalb der Behörde liegende Verhältnisse betreffen,
 
-3. nicht das Ergebnis einer Bearbeitung anderer Daten durch eine Behörde der unmittelbaren Bundesverwaltung sind,
+3. nicht das Ergebnis einer Bearbeitung anderer Daten durch eine Behörde des Bundes sind,
 
-4. nach der Erhebung keine Bearbeitung erfahren haben, ausgenommen eine Bearbeitung, die aus rechtlichen oder aus tatsächlichen Gründen erfolgt ist und ohne die eine Veröffentlichung der Daten nicht möglich wäre, und
+4. nach der Erhebung keine Bearbeitung erfahren haben, ausgenommen eine Bearbeitung,
 
-5. nicht für Forschungszwecke erhoben worden sind.
+a) die der Fehlerbereinigung dient oder
+
+b) die aus rechtlichen oder aus tatsächlichen Gründen erfolgt ist und ohne die eine Veröffentlichung der Daten nicht möglich wäre, und
+
+5. bei Personenbezug derart umgewandelt wurden, dass
+
+a) sie sich nicht mehr auf eine identifizierte oder identifizierbare natürliche Person beziehen oder
+
+b) die betroffene Person nicht oder nicht mehr identifiziert werden kann.
 
 (3) Abweichend von Absatz 1 Satz 1 müssen die Daten nicht bereitgestellt werden, wenn
 
 1. an den Daten
 
-a) kein oder nur ein eingeschränktes Zugangsrecht insbesondere gemäß den §§ 3 bis 6 des Informationsfreiheitsgesetzes besteht oder
+a) kein oder nur ein eingeschränktes Zugangsrecht insbesondere gemäß den §§ 3, 4 und 6 des Informationsfreiheitsgesetzes besteht oder
 
 b) ein Zugangsrecht erst nach der Beteiligung Dritter bestünde,
 
-2. die Daten ohne Auftrag der Behörde von Dritten erstellt und ihr ohne rechtliche Verpflichtung übermittelt werden oder
+2. die Daten ohne Auftrag der Behörde von Dritten erstellt und ihr ohne rechtliche Verpflichtung übermittelt werden,
 
-3. die Daten bereits über öffentlich zugängliche Netze entgeltfrei bereitgestellt werden.
+3. es sich um Daten handelt, die zu Forschungszwecken erhoben wurden und bereits über öffentlich zugängliche Netze entgeltfrei bereitgestellt werden; die Möglichkeit der freiwilligen Bereitstellung dazugehöriger Metadaten über das nationale Metadatenportal GovData bleibt davon unberührt, oder
 
-(4) Die Bereitstellung der Daten nach Absatz 1 Satz 1 erfolgt unverzüglich nach der Erhebung, sofern der Zweck der Erhebung dadurch nicht beeinträchtigt wird, andernfalls unverzüglich nach Wegfall der Beeinträchtigung. Ist aus technischen oder sonstigen gewichtigen Gründen eine unverzügliche Bereitstellung nicht möglich, sind die Daten unverzüglich nach Wegfall dieser Gründe bereitzustellen.
+4. die Daten unter das Bankgeheimnis fallen.
 
-(5) Die Daten werden grundsätzlich maschinenlesbar bereitgestellt. Sie sind mit Metadaten zu versehen. Die Metadaten werden im nationalen Metadatenportal GovData eingestellt.
+(3a) Abweichend von Absatz 1 Satz 1 müssen Datensätze, die personenbezogene Daten enthalten, nicht bereitgestellt werden.
+
+(4) Die Bereitstellung der Daten nach Absatz 1 Satz 1 erfolgt unverzüglich nach der Erhebung, sofern der Zweck der Erhebung dadurch nicht beeinträchtigt wird, andernfalls unverzüglich nach Wegfall der Beeinträchtigung. Ist aus technischen oder sonstigen gewichtigen Gründen eine unverzügliche Bereitstellung nicht möglich, sind die Daten unverzüglich nach Wegfall dieser Gründe bereitzustellen. Sofern sich aus spezialgesetzlichen Regelungen nichts anderes ergibt, sind abweichend von Satz 1 Daten, die zu Forschungszwecken erhoben wurden, erst bereitzustellen, wenn das der Datenerhebung zugrunde liegende Forschungsvorhaben abgeschlossen und der Forschungszweck erfüllt ist. Der für die freiwillige Teilnahme an einer Forschungsmaßnahme festgelegte Zweck gilt unbeschadet hiervon fort.
+
+(5) Die Daten nach Absatz 1 Satz 1 sind mit Metadaten zu versehen. Diese Metadaten werden im nationalen Metadatenportal GovData eingestellt.
 
 (6) Der Abruf von Daten nach Absatz 1 Satz 1 muss entgeltfrei und zur uneingeschränkten Weiterverwendung der Daten durch jedermann ermöglicht werden. Der Abruf von Daten nach Absatz 1 Satz 1 soll jederzeit, ohne verpflichtende Registrierung und ohne Begründung möglich sein.
 
-(7) Die Behörden der unmittelbaren Bundesverwaltung sollen die Anforderungen an die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 1 bereits frühzeitig berücksichtigen bei:
+(7) Die Behörden des Bundes sollen die Anforderungen an die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 1 bereits frühzeitig berücksichtigen bei:
 
 1. der Optimierung von Verwaltungsabläufen gemäß § 9,
 
@@ -211,11 +223,15 @@ b) ein Zugangsrecht erst nach der Beteiligung Dritter bestünde,
 
 3. bei der Beschaffung von informationstechnischen Systemen für die Speicherung und Verarbeitung der Daten.
 
-(8) Die Behörden der unmittelbaren Bundesverwaltung sind nicht verpflichtet, die bereitzustellenden Daten auf Richtigkeit, Vollständigkeit, Plausibilität oder in sonstiger Weise zu prüfen.
+(8) Die Behörden des Bundes sind nicht verpflichtet, die bereitzustellenden Daten auf Richtigkeit, Vollständigkeit, Plausibilität oder in sonstiger Weise zu prüfen.
 
-(9) Die Bundesregierung richtet eine zentrale Stelle ein, die die Behörden der Bundesverwaltung zu Fragen der Bereitstellung von Daten als offene Daten berät und Ansprechpartner für entsprechende Stellen der Länder ist.
+(9) Jede nach Absatz 1 verpflichtete Stelle mit Ausnahme der in § 3 Nummer 8 des Informationsfreiheitsgesetzes genannten Stellen sowie von Hauptzollämtern oder vergleichbaren örtlichen Bundesbehörden benennt einen Open-Data-Koordinator oder eine Open-Data-Koordinatorin. Der Koordinator oder die Koordinatorin wirkt in der Funktion als zentraler Ansprechpartner oder zentrale Ansprechpartnerin der jeweiligen Behörde auf die Identifizierung, Bereitstellung und Weiterverwendung der offenen Daten seiner oder ihrer Behörde hin. Die Möglichkeit der freiwilligen Benennung entsprechender Open-Data-Koordinatoren oder Open-Data-Koordinatorinnen in den übrigen Behörden der Bundesverwaltung bleibt davon unberührt.
 
-(10) Die Bundesregierung berichtet dem Bundestag alle zwei Jahre über die Fortschritte bei der Bereitstellung von Daten durch die Behörden der unmittelbaren Bundesverwaltung als offene Daten.
+(10) Die Bundesregierung richtet eine zentrale Stelle ein, die die Behörden der Bundesverwaltung zu Fragen der Bereitstellung von Daten als offene Daten berät und Ansprechpartner für entsprechende Stellen der Länder ist.
+
+(11) Die Bundesregierung berichtet dem Bundestag alle zwei Jahre über die Fortschritte bei der Bereitstellung von Daten durch die Behörden der Bundesverwaltung als offene Daten. Mit Blick auf die beabsichtigte Erweiterung des Anwendungsbereichs nach Absatz 1 Satz 1 bis zum Jahr 2025 evaluiert sie dabei auch die mögliche Ausweitung der Bereitstellungspflicht auf Selbstverwaltungskörperschaften und natürliche Personen und juristische Personen des Privatrechts, denen hoheitliche Aufgaben zur selbständigen Wahrnehmung übertragen wurden, sowie die Einführung eines Anspruchs auf die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 2.
+
+(12) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit den übrigen Bundesministerien und den Beauftragten der Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zum Bereitstellungsprozess der Daten nach Absatz 1 Satz 1 zu erlassen.
 
 # § 13 – Elektronische Formulare
 
@@ -249,4 +265,8 @@ Für subzentrale öffentliche Auftraggeber sowie für Sektorenauftraggeber und f
 
 (1) § 12a gilt für Daten, die nach dem 13. Juli 2017 erhoben werden. Für Daten, die vor dem 13. Juli 2017 erhoben wurden, gilt § 12a nur, soweit diese Daten nach dem 13. Juli 2017 zur Erfüllung öffentlich-rechtlicher Aufgaben der Behörden nach § 12a Absatz 1 Satz 1 verwendet werden.
 
-(2) Die Behörden der unmittelbaren Bundesverwaltung stellen die Daten nach § 12a spätestens zwölf Monate nach dem 13. Juli 2017 erstmals bereit. Erfordert die Bereitstellung der Daten erhebliche technische Anpassungen und ist sie deshalb innerhalb des in Satz 1 genannten Zeitraums nur mit unverhältnismäßig hohem Aufwand möglich, verlängert sich der Zeitraum für die erstmalige Bereitstellung der Daten auf bis zu zwei Jahre, um die technischen Anpassungen durchzuführen. Im Fall des Satzes 2 müssen bei der erstmaligen Bereitstellung nur die aktuellen Daten bereitgestellt werden.
+(2) Die Behörden der mittelbaren Bundesverwaltung stellen die Daten nach § 12a spätestens zwölf Monate nach dem 23. Juli 2021 erstmals bereit. Erfordert die Bereitstellung der Daten erhebliche technische Anpassungen und ist sie deshalb innerhalb des in Satz 1 genannten Zeitraums nur mit unverhältnismäßig hohem Aufwand möglich, verlängert sich der Zeitraum für die erstmalige Bereitstellung der Daten auf bis zu zwei Jahre, um die technischen Anpassungen durchzuführen. Im Fall des Satzes 2 müssen bei der erstmaligen Bereitstellung nur die aktuellen Daten bereitgestellt werden.
+
+(3) Abweichend von den Absätzen 1 und 2 und unbeschadet der Regelung in § 12a Absatz 4 Satz 3 stellen Behörden des Bundes Daten, die zu Forschungszwecken erhoben wurden, spätestens 36 Monate nach dem 23. Juli 2021 erstmals bereit.
+
+(4) Abweichend von Absatz 1 gilt die Pflicht nach § 12a Absatz 9 Satz 1 für Behörden der unmittelbaren Bundesverwaltung mit weniger als 30 Beschäftigten sowie für Behörden der mittelbaren Bundesverwaltung spätestens 36 Monate nach dem 23. Juli 2021, für Behörden der unmittelbaren Bundesverwaltung mit weniger als 50 Beschäftigten spätestens 24 Monate nach dem 23. Juli 2021.

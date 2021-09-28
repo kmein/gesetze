@@ -239,4 +239,4 @@ führt.
 
 # § 10
 
-§ 4 Absatz 5 bis 7 tritt am 31. Dezember 2021 außer Kraft. Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2021 begonnen worden sind, werden nach dieser Vorschrift abgeschlossen.
+§ 4 Absatz 5 bis 7 tritt am 31. Dezember 2024 außer Kraft. Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2024 begonnen worden sind, werden nach dieser Vorschrift abgeschlossen.

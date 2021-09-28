@@ -240,15 +240,15 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 (3) Freistellungsansprüche nach dem Betriebsverfassungsgesetz, dem Bundespersonalvertretungsgesetz oder den Landespersonalvertretungsgesetzen bleiben unberührt.
 
-# § 14 – Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch
+# § 14 – Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch
 
-(1) Zur zeitlich befristeten Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des nach diesem Gesetz geregelten Berufes im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch dienen, können über die in § 5 beschriebenen Aufgaben hinausgehende erweiterte Kompetenzen zur Ausübung heilkundlicher Tätigkeiten vermittelt werden. Dabei darf die Erreichung des Ausbildungsziels nicht gefährdet sein.
+(1) Zur zeitlich befristeten Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des nach diesem Gesetz geregelten Berufes im Rahmen von Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch dienen, können über die in § 5 beschriebenen Aufgaben hinausgehende erweiterte Kompetenzen zur Ausübung heilkundlicher Tätigkeiten vermittelt werden. Dabei darf die Erreichung des Ausbildungsziels nicht gefährdet sein.
 
 (2) Soweit die Ausbildung nach Absatz 1 über die in diesem Gesetz und die in der Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1 geregelten Ausbildungsinhalte hinausgeht, werden die Ausbildungsinhalte in gesonderten schulinternen Curricula der Pflegeschulen und Ausbildungsplänen der Träger der praktischen Ausbildung festgelegt.
 
-(3) Die schulinternen Curricula und Ausbildungspläne nach Absatz 2 sind gemeinsam vom Bundesministerium für Familie, Senioren, Frauen und Jugend und vom Bundesministerium für Gesundheit zu genehmigen. Die Genehmigung setzt voraus, dass sich die erweiterte Ausbildung auf ein vereinbartes Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch bezieht und die Ausbildung geeignet ist, die zur Durchführung dieses Modellvorhabens erforderliche Qualifikation zu vermitteln.
+(3) Die schulinternen Curricula und Ausbildungspläne nach Absatz 2 sind gemeinsam vom Bundesministerium für Familie, Senioren, Frauen und Jugend und vom Bundesministerium für Gesundheit zu genehmigen. Die Genehmigung setzt voraus, dass sich die erweiterte Ausbildung auf ein vereinbartes Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch bezieht und die Ausbildung geeignet ist, die zur Durchführung dieses Modellvorhabens erforderliche Qualifikation zu vermitteln.
 
-(4) Abweichend von Absatz 3 Satz 2 kann die Fachkommission nach § 53 für die zusätzliche Ausbildung standardisierte Module entwickeln, die gemeinsam vom Bundesministerium für Familie, Senioren, Frauen und Jugend und vom Bundesministerium für Gesundheit auch ohne Vorliegen eines vereinbarten Modellvorhabens nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch genehmigt werden können. Die Genehmigung der standardisierten Module erfolgt einmalig; Änderungen bedürfen einer erneuten Genehmigung.
+(4) Abweichend von Absatz 3 Satz 2 kann die Fachkommission nach § 53 für die zusätzliche Ausbildung standardisierte Module entwickeln, die gemeinsam vom Bundesministerium für Familie, Senioren, Frauen und Jugend und vom Bundesministerium für Gesundheit auch ohne Vorliegen eines vereinbarten Modellvorhabens nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch genehmigt werden können. Die Genehmigung der standardisierten Module erfolgt einmalig; Änderungen bedürfen einer erneuten Genehmigung.
 
 (5) Die Ausbildungsdauer nach § 6 Absatz 1 Satz 1 ist nach Maßgabe der genehmigten schulinternen Curricula und Ausbildungspläne entsprechend zu verlängern.
 
