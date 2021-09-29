@@ -1,4 +1,4 @@
-% Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen*  (Soldatenversorgungsgesetz - SVG)
+% Gesetz über die Versorgung für die früheren Soldaten der Bundeswehr und ihre Hinterbliebenen  (Soldatenversorgungsgesetz - SVG)
 % Ausfertigungsdatum: 26.07.1957
  
 # Inhaltsübersicht

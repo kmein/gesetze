@@ -953,7 +953,7 @@ Daten von Unionsbürgern, bei denen eine Feststellung des Nichtbestehens oder de
 
 An die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen werden zur Prüfung, ob die Voraussetzungen für eine Inanspruchnahme von Leistungen vorliegen oder ob die erforderlichen Gesundheitsuntersuchungen und Impfungen durchgeführt wurden, zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier, die ausländische Personenidentitätsnummer, freiwillige Angaben zur Religionszugehörigkeit,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier, freiwillige Angaben zur Religionszugehörigkeit,
 
 2. das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie vorliegt,
 
@@ -963,21 +963,19 @@ An die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberle
 
 5. Angaben zum Asylverfahren,
 
-6. Anschrift im Bundesgebiet,
+6. die Anschrift im Bundesgebiet,
 
 7. freiwillig gemachte Angaben zu Telefonnummern und E-Mail-Adressen,
 
 8. begleitende minderjährige Kinder und Jugendliche, Elternteile, Ehegatten und Lebenspartner jeweils mit Familienname und Vornamen,
 
-9. das zuständige Bundesland, die zuständige Aufnahmeeinrichtung und Ausländerbehörde, die für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stelle, bei unbegleiteten minderjährigen Kindern und Jugendlichen das zuständige Jugendamt,
+9. das zuständige Bundesland, die zuständige Aufnahmeeinrichtung und Ausländerbehörde, bei unbegleiteten minderjährigen Kindern und Jugendlichen das zuständige Jugendamt,
 
 10. Schulbildung, Studium, Ausbildung, Beruf,
 
 11. Sprachkenntnisse,
 
-12. die Berechtigung oder Verpflichtung zur Teilnahme an Integrationskursen, sowie dazugehörige Kursinformationen,
-
-12a. Teilnahme an einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes,
+12. die Daten zur Durchführung eines Integrationskurses nach § 43 des Aufenthaltsgesetzes und einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes,
 
 13. die Durchführung der Gesundheitsuntersuchung nach § 62 Absatz 1 des Asylgesetzes und die Untersuchung auf Vorliegen einer ansteckungsfähigen Lungentuberkulose nach § 36 Absatz 4 oder 5 des Infektionsschutzgesetzes, jeweils mit Ort und Datum,
 

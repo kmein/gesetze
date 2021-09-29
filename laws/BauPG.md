@@ -31,11 +31,7 @@
 
 Dem Antrag auf Notifizierung nach Artikel 47 Absatz 1 der EU-Bauproduktenverordnung ist die in Artikel 47 Absatz 2 genannte Akkreditierungsurkunde der Deutschen Akkreditierungsstelle GmbH beizufügen.
 
-# § 5 – Marktüberwachung
-
-(1) Auf die Marktüberwachung im Hinblick auf die rechtlichen Anforderungen, die sich aus der EU-Bauproduktenverordnung ergeben, sind die §§ 4, 5, 7, 9 bis 23, 24 Absatz 1 Satz 3 sowie die §§ 32 bis 38 des Produktsicherheitsgesetzes nicht anzuwenden.
-
-(2) Mitteilungen der Marktüberwachungsbehörden über Bauprodukte zum Zweck der Unterrichtung der Europäischen Kommission sind zugleich dem Bundesministerium des Innern, für Bau und Heimat zuzuleiten.
+# § 5 – (weggefallen)
 
 # § 6 – Sprache
 

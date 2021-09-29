@@ -17,6 +17,8 @@ Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613, 1977
 
 (2) Die Finanzbehörden können Ausnahmen von der Mitteilungspflicht zulassen, wenn die Zahlungen geringe oder keine steuerliche Bedeutung haben.
 
+(3) Absatz 1 gilt für die in § 93a Absatz 2 der Abgabenordnung bezeichneten öffentlichen Stellen erstmals für nach dem 31. Dezember 2023 geleistete Zahlungen.
+
 # § 3 – Honorare der Rundfunkanstalten
 
 (1) Die öffentlich-rechtlichen Rundfunkanstalten haben Honorare für Leistungen freier Mitarbeiter mitzuteilen, die in unmittelbarem Zusammenhang mit der Vorbereitung, Herstellung oder Verbreitung von Hörfunk- und Fernsehsendungen erbracht werden. Das gilt nicht, wenn die Besteuerung den Regeln eines Abzugsverfahrens unterliegt oder wenn die Finanzbehörden auf Grund anderweitiger Regelungen Mitteilungen über die Honorare erhalten.
@@ -146,3 +148,21 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 # Schlußformel
 
 Der Bundesrat hat zugestimmt.
+
+# § 14 – Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung
+
+(1) Die Kassenärztlichen Vereinigungen haben als mitteilungspflichtige Stelle im Sinne des § 93c Absatz 1 der Abgabenordnung den Finanzbehörden die von ihnen nach dem 31. Dezember 2020 an Leistungserbringer geleisteten Zahlungen nach der Coronavirus-Testverordnung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen.Als Steuerpflichtiger im Sinne des § 93c Absatz 1 Nummer 2 Buchstabe c oder Buchstabe d der Abgabenordnung ist stets der Leistungserbringer zu benennen, auch wenn die Erstattungsforderung abgetreten, verpfändet oder gepfändet ist.Von der Mitteilungspflicht ausgenommen sind Zahlungen nach Satz 1 an öffentliche Stellen des Bundes oder eines Landes im Sinne des § 6 Absatz 1a bis 1c der Abgabenordnung.
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz 1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben mitzuteilen:
+
+1. die im jeweils vorangegangenen Kalenderjahr geleisteten Zahlungen im Sinne von Absatz 1 unter Angabe des jeweiligen Rechtsgrunds der Zahlung,
+
+2. das Datum der Zahlungen und
+
+3. bei unbarer Zahlung die Bankverbindung für das Konto, auf das die Zahlungen geleistet wurden.
+
+Werden mitteilungspflichtige Zahlungen in einem späteren Kalenderjahr ganz oder teilweise zurückerstattet, ist die Rückzahlung abweichend von § 93c Absatz 3 der Abgabenordnung von der mitteilungspflichtigen Stelle unter Angabe des Datums, an dem die Zahlung bei der mitteilungspflichtigen Stelle eingegangen ist, mitzuteilen.
+
+(3) Mitteilungen über die im Kalenderjahr 2021 ausgezahlten Leistungen sind abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der Freigabe der amtlich bestimmten Schnittstelle bis zum 30. April 2022 zu übermitteln.Das Bundesministerium der Finanzen kann im Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes Schreiben verlängern, sofern die technischen Voraussetzungen für die Annahme der Mitteilungen nicht rechtzeitig vorliegen.Auf begründeten Antrag einer mitteilungspflichtigen Stelle kann die oberste Finanzbehörde desjenigen Landes, in dem die mitteilungspflichtige Stelle ihren Sitz hat, dieser die Frist nach Satz 1 oder Satz 2 um längstens zehn Monate verlängern, sofern die technischen Voraussetzungen für die Übersendung der Mitteilungen bei der mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das Bundesministerium der Finanzen ist über eine gewährte Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden.§ 1 Absatz 2 und § 2 Absatz 2 bleiben hiervon unberührt.

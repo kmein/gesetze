@@ -2089,7 +2089,15 @@ des Kapitals oder der Stimmrechte des anderen Unternehmens erreichen. Zu den Ant
 
 # § 39 – Anmelde- und Anzeigepflicht
 
-(1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß den Absätzen 2 und 3 anzumelden. Die beiden Zugänge sind über die Internetseite des Bundeskartellamts erreichbar.
+(1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind zulässig über:
+
+1. die vom Bundeskartellamt eingerichtete zentrale De-Mail-Adresse im Sinne des De-Mail-Gesetzes,
+
+2. die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für Dokumente mit qualifizierter elektronischer Signatur,
+
+3. das besondere elektronische Behördenpostfach sowie
+
+4. eine hierfür bestimmte Internetplattform.
 
 (2) Zur Anmeldung sind verpflichtet:
 

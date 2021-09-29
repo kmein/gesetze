@@ -7,15 +7,17 @@
 
 (1) Zweck des Gesetzes ist es,
 
-1. vorbehaltlich der Absätze 2 und 4 bei Lebensmitteln, Futtermitteln, kosmetischen Mitteln und Bedarfsgegenständen den Schutz der Verbraucherinnen und Verbraucher durch Vorbeugung gegen eine oder Abwehr einer Gefahr für die menschliche Gesundheit sicherzustellen,
+1. vorbehaltlich der Absätze 2 und 4 bei Lebensmitteln, Futtermitteln, Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen den Schutz der Endverbraucher durch Vorbeugung gegen eine oder Abwehr einer Gefahr für die menschliche Gesundheit sicherzustellen,
 
-2. beim Verkehr mit Lebensmitteln, Futtermitteln, kosmetischen Mitteln und Bedarfsgegenständen vor Täuschung zu schützen,
+2. beim Verkehr mit Lebensmitteln, Futtermitteln, Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen vor Täuschung zu schützen,
 
-3. die Unterrichtung der Wirtschaftsbeteiligten und
+3. die Unterrichtung sicherzustellen
 
-a) der Verbraucherinnen und Verbraucher beim Verkehr mit Lebensmitteln, kosmetischen Mitteln und Bedarfsgegenständen,
+a) der Wirtschaftsbeteiligten,
 
-b) der Verwenderinnen und Verwender beim Verkehr mit Futtermitteln sicherzustellen,
+b) der Endverbraucher beim Verkehr mit Lebensmitteln, Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen und
+
+c) der Verwenderinnen und Verwender beim Verkehr mit Futtermitteln,
 
 4. a) bei Futtermitteln
 
@@ -35,41 +37,33 @@ die von Nutztieren gewonnenen Lebensmittel und sonstigen Produkte den an sie ges
 
 (1a) Absatz 1 Nummer 2 erfasst auch den Schutz
 
-1. vor Täuschung im Falle zum Verzehr ungeeigneter Lebensmittel im Sinne des Artikels 14 Absatz 2 Buchstabe b und Absatz 5 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, oder
+1. vor Täuschung im Falle zum Verzehr ungeeigneter Lebensmittel im Sinne des Artikels 14 Absatz 2 Buchstabe b und Absatz 5 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, oder
 
 2. vor Verwendung ungeeigneter Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 1.
 
 (2) Zweck dieses Gesetzes ist es, den Schutz der menschlichen Gesundheit im privaten häuslichen Bereich durch Vorbeugung gegen eine oder Abwehr einer Gefahr, die von Erzeugnissen ausgeht oder ausgehen kann, sicherzustellen, soweit dies in diesem Gesetz angeordnet ist.
 
-(3) Dieses Gesetz dient ferner der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, die Sachbereiche dieses Gesetzes betreffen, wie durch ergänzende Regelungen zur Verordnung (EG) Nr. 178/2002.
+(3) Dieses Gesetz dient ferner der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, die Sachbereiche dieses Gesetzes betreffen, insbesondere der Verordnung (EG) Nr. 178/2002.
 
 (4) Abschnitt 9a
 
-1. bezweckt, bei Erzeugnissen, die radioaktiv kontaminiert sind oder kontaminiert sein können, den Schutz der Verbraucherinnen und Verbraucher und von Tieren durch Vorbeugung gegen eine oder Abwehr einer Gefahr für die menschliche oder tierische Gesundheit sicherzustellen,
+1. bezweckt, bei Erzeugnissen, die radioaktiv kontaminiert sind oder kontaminiert sein können, den Schutz der Endverbraucher und von Tieren durch Vorbeugung gegen eine oder Abwehr einer Gefahr für die menschliche oder tierische Gesundheit sicherzustellen,
 
-2. dient ferner der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft, der Europäischen Union oder der Europäischen Atomgemeinschaft, die Sachbereiche der Nummer 1 betreffen, wie beispielsweise durch ergänzende Regelungen zur Verordnung (Euratom) 2016/52 des Rates vom 15. Januar 2016 zur Festlegung von Höchstwerten an Radioaktivität in Lebens- und Futtermitteln im Falle eines nuklearen Unfalls oder eines anderen radiologischen Notfalls und zur Aufhebung der Verordnung (Euratom) Nr. 3954/87 des Rates und der Verordnungen (Euratom) Nr. 944/89 und (Euratom) Nr. 770/90 der Kommission (ABl. L 13 vom 20.1.2016, S. 2).
+2. dient ferner der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft, der Europäischen Union oder der Europäischen Atomgemeinschaft, die Sachbereiche der Nummer 1 betreffen, insbesondere der Verordnung (Euratom) 2016/52 des Rates vom 15. Januar 2016 zur Festlegung von Höchstwerten an Radioaktivität in Lebens- und Futtermitteln im Falle eines nuklearen Unfalls oder eines anderen radiologischen Notfalls und zur Aufhebung der Verordnung (Euratom) Nr. 3954/87 des Rates und der Verordnungen (Euratom) Nr. 944/89 und (Euratom) Nr. 770/90 der Kommission (ABl. L 13 vom 20.1.2016, S. 2).
 
 § 1 Nr. 3 Kursivdruck: Die Textstruktur der Neufassung gem. Bek. v. 3.6.2013 I 1426 weicht von konstitutiver Fassung ab
 
 # § 2 – Begriffsbestimmungen
 
-(1) Erzeugnisse sind Lebensmittel, einschließlich Lebensmittelzusatzstoffe, Futtermittel, kosmetische Mittel und Bedarfsgegenstände.
+(1) Erzeugnisse sind Lebensmittel, einschließlich Lebensmittelzusatzstoffen, Futtermittel, Mittel zum Tätowieren, kosmetische Mittel und Bedarfsgegenstände.
 
-(2) Lebensmittel sind Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002.
+(2) (weggefallen)
 
-(3) Lebensmittelzusatzstoffe sind Lebensmittelzusatzstoffe im Sinne des Artikels 3 Absatz 2 Buchstabe a in Verbindung mit Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16, L 105 vom 27.4.2010, S. 114, L 322 vom 21.11.2012, S. 8, L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2016/1776 (ABl. L 272 vom 7.10.2016, S. 2) geändert worden ist. Den Lebensmittelzusatzstoffen stehen gleich
+(3) (weggefallen)
 
-1. Stoffe mit oder ohne Nährwert, die üblicherweise weder selbst als Lebensmittel verzehrt noch als charakteristische Zutat eines Lebensmittels verwendet werden und die einem Lebensmittel aus anderen als technologischen Gründen beim Herstellen oder Behandeln zugesetzt werden, wodurch sie selbst oder ihre Abbau- oder Reaktionsprodukte mittelbar oder unmittelbar zu einem Bestandteil des Lebensmittels werden oder werden können; ausgenommen sind Stoffe, die natürlicher Herkunft oder den natürlichen chemisch gleich sind und nach allgemeiner Verkehrsauffassung überwiegend wegen ihres Nähr-, Geruchs- oder Geschmackswertes oder als Genussmittel verwendet werden,
+(4) (weggefallen)
 
-2. Mineralstoffe und Spurenelemente sowie deren Verbindungen außer Kochsalz,
-
-3. Aminosäuren und deren Derivate,
-
-4. Vitamine A und D sowie deren Derivate.
-
-(4) Futtermittel sind Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002.
-
-(5) Kosmetische Mittel sind Stoffe oder Gemische aus Stoffen, die ausschließlich oder überwiegend dazu bestimmt sind, äußerlich am Körper des Menschen oder in seiner Mundhöhle zur Reinigung, zum Schutz, zur Erhaltung eines guten Zustandes, zur Parfümierung, zur Veränderung des Aussehens oder dazu angewendet zu werden, den Körpergeruch zu beeinflussen. Als kosmetische Mittel gelten nicht Stoffe oder Gemische aus Stoffen, die zur Beeinflussung der Körperformen bestimmt sind.
+(5) (weggefallen)
 
 (6) Bedarfsgegenstände sind
 
@@ -105,43 +99,19 @@ c) nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Euro
 
 # § 3 – Weitere Begriffsbestimmungen
 
-Im Sinne dieses Gesetzes sind:
+(1) Im Sinne dieses Gesetzes sind:
 
-1. Inverkehrbringen: Inverkehrbringen im Sinne des Artikels 3 Nummer 8 der Verordnung (EG) Nr. 178/2002; für kosmetische Mittel, Bedarfsgegenstände und mit Lebensmitteln verwechselbare Produkte gilt Artikel 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 entsprechend,
+1. Herstellen: das Gewinnen, einschließlich des Schlachtens oder Erlegens lebender Tiere, deren Fleisch als Lebensmittel zu dienen bestimmt ist, das Herstellen, das Zubereiten, das Be- und Verarbeiten und das Mischen,
 
-2. Herstellen: das Gewinnen, einschließlich des Schlachtens oder Erlegens lebender Tiere, deren Fleisch als Lebensmittel zu dienen bestimmt ist, das Herstellen, das Zubereiten, das Be- und Verarbeiten und das Mischen,
+2. Behandeln: das Wiegen, Messen, Um- und Abfüllen, Stempeln, Bedrucken, Verpacken, Kühlen, Gefrieren, Tiefgefrieren, Auftauen, Lagern, Aufbewahren, Befördern sowie jede sonstige Tätigkeit, die nicht als Herstellen oder Inverkehrbringen anzusehen ist,
 
-3. Behandeln: das Wiegen, Messen, Um- und Abfüllen, Stempeln, Bedrucken, Verpacken, Kühlen, Gefrieren, Tiefgefrieren, Auftauen, Lagern, Aufbewahren, Befördern sowie jede sonstige Tätigkeit, die nicht als Herstellen oder Inverkehrbringen anzusehen ist,
+3. Verzehren: das Aufnehmen von Lebensmitteln durch den Menschen durch Essen, Kauen, Trinken sowie durch jede sonstige Zufuhr von Stoffen in den Magen,
 
-4. Verbraucherin oder Verbraucher: Endverbraucher im Sinne des Artikels 3 Nummer 18 der Verordnung (EG) Nr. 178/2002, im Übrigen diejenige, an die oder derjenige, an den ein kosmetisches Mittel oder ein Bedarfsgegenstand zur persönlichen Verwendung oder zur Verwendung im eigenen Haushalt abgegeben wird, wobei Gewerbetreibende, soweit sie ein kosmetisches Mittel oder einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, der Verbraucherin oder dem Verbraucher gleichstehen,
+4. Auslösewert: Grenzwert für den Gehalt an einem gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des jeweiligen Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten,
 
-5. Verzehren: das Aufnehmen von Lebensmitteln durch den Menschen durch Essen, Kauen, Trinken sowie durch jede sonstige Zufuhr von Stoffen in den Magen,
+5. mit Lebensmitteln verwechselbare Produkte: Produkte, die zwar keine Lebensmittel sind, bei denen jedoch aufgrund ihrer Form, ihres Geruchs, ihrer Farbe, ihres Aussehens, ihrer Aufmachung, ihrer Kennzeichnung, ihres Volumens oder ihrer Größe vorhersehbar ist, dass sie von den Endverbrauchern, insbesondere von Kindern, mit Lebensmitteln verwechselt werden und deshalb zum Mund geführt, gelutscht oder geschluckt werden, wodurch insbesondere die Gefahr des Erstickens, der Vergiftung, der Perforation oder des Verschlusses des Verdauungskanals entstehen kann; ausgenommen sind Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren unterliegen,
 
-6. Lebensmittelunternehmen: Lebensmittelunternehmen im Sinne des Artikels 3 Nummer 2 der Verordnung (EG) Nr. 178/2002,
-
-7. Lebensmittelunternehmerin oder Lebensmittelunternehmer: Lebensmittelunternehmer im Sinne des Artikels 3 Nummer 3 der Verordnung (EG) Nr. 178/2002,
-
-8. Information über Lebensmittel: Information über Lebensmittel im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18, L 331 vom 18.11.2014, S. 41, L 50 vom 21.2.2015, S. 48, L 266 vom 30.9.2016, S. 7), die zuletzt durch die Verordnung (EU) 2015/2283 (ABl. L 327 vom 11.12.2015, S. 1) geändert worden ist,
-
-9. Auslösewert: Grenzwert für den Gehalt an einem gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des jeweiligen Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten,
-
-10. mit Lebensmitteln verwechselbare Produkte: Produkte, die zwar keine Lebensmittel sind, bei denen jedoch aufgrund ihrer Form, ihres Geruchs, ihrer Farbe, ihres Aussehens, ihrer Aufmachung, ihrer Kennzeichnung, ihres Volumens oder ihrer Größe vorhersehbar ist, dass sie von den Verbraucherinnen und Verbrauchern, insbesondere von Kindern, mit Lebensmitteln verwechselt werden und deshalb zum Mund geführt, gelutscht oder geschluckt werden, wodurch insbesondere die Gefahr des Erstickens, der Vergiftung, der Perforation oder des Verschlusses des Verdauungskanals entstehen kann; ausgenommen sind Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren unterliegen,
-
-11. Futtermittelunternehmen: Futtermittelunternehmen im Sinne des Artikels 3 Nummer 5 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Tätigkeit auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
-
-12. Futtermittelunternehmerin oder Futtermittelunternehmer: Futtermittelunternehmer im Sinne des Artikels 3 Nummer 6 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Verantwortung auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
-
-13. Einzelfuttermittel: Einzelfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe g der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist,
-
-14. Mischfuttermittel: Mischfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 767/2009,
-
-15. Diätfuttermittel: Mischfuttermittel, die dazu bestimmt sind, den besonderen Ernährungsbedarf der Tiere zu decken, bei denen insbesondere Verdauungs-, Resorptions- oder Stoffwechselstörungen vorliegen oder zu erwarten sind,
-
-16. Futtermittelzusatzstoffe: Futtermittelzusatzstoffe im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, L 192 vom 29.5.2004, S. 34, L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EU) 2015/2294 (ABl. L 324 vom 10.12.2015, S. 3) geändert worden ist,
-
-17. Vormischungen: Vormischungen im Sinne des Artikels 2 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 1831/2003,
-
-18. unerwünschte Stoffe: Stoffe – außer Tierseuchenerregern –, die in oder auf Futtermitteln enthalten sind und
+6. unerwünschte Stoffe: Stoffe – außer Tierseuchenerregern –, die in oder auf Futtermitteln enthalten sind und
 
 a) als Rückstände in von Nutztieren gewonnenen Lebensmitteln oder sonstigen Produkten eine Gefahr für die menschliche Gesundheit darstellen,
 
@@ -153,39 +123,47 @@ d) die Leistung von Nutztieren oder als Rückstände in von Nutztieren gewonnene
 
 können,
 
-19. Mittelrückstände: Rückstände an Pflanzenschutzmitteln im Sinne des Pflanzenschutzgesetzes, Vorratsschutzmitteln oder Schädlingsbekämpfungsmitteln, soweit sie in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes aufgeführt sind und die in oder auf Futtermitteln vorhanden sind,
+7. Mittelrückstände: Rückstände an Pflanzenschutzmitteln im Sinne des Pflanzenschutzgesetzes, Vorratsschutzmitteln oder Schädlingsbekämpfungsmitteln, soweit sie in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes aufgeführt sind und die in oder auf Futtermitteln vorhanden sind,
 
-20. Naturhaushalt: seine Bestandteile Boden, Wasser, Luft, Klima, Tiere und Pflanzen sowie das Wirkungsgefüge zwischen ihnen,
+8. Naturhaushalt: seine Bestandteile Boden, Wasser, Luft, Klima, Tiere und Pflanzen sowie das Wirkungsgefüge zwischen ihnen,
 
-21. Nutztiere: Tiere einer Art, die üblicherweise zum Zweck der Gewinnung von Lebensmitteln oder sonstigen Produkten gehalten wird, sowie Pferde,
+9. Nutztiere: Tiere einer Art, die üblicherweise zum Zweck der Gewinnung von Lebensmitteln oder sonstigen Produkten gehalten wird, sowie Pferde,
 
-22. Aktionsgrenzwert: Grenzwert für den Gehalt an einem unerwünschten Stoff, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des unerwünschten Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten.
+10. Aktionsgrenzwert: Grenzwert für den Gehalt an einem unerwünschten Stoff, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des unerwünschten Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten.
 
-# § 4 – Vorschriften zum Geltungsbereich
+(2) Im Anwendungsbereich dieses Gesetzes umfasst der Begriff des Verwendens eines Mittels zum Tätowieren auch die Tätigkeit des Tätowierens.
+
+(3) Im Anwendungsbereich dieses Gesetzes gelten die Begriffsbestimmungen der Verordnung (EG) Nr. 178/2002 mit den Maßgaben, dass
+
+1. Futtermittelunternehmen im Sinne des Artikels 3 Nummer 5 der Verordnung (EG) Nr. 178/2002 auch Unternehmen sind, deren Tätigkeit sich auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
+
+2. Futtermittelunternehmer im Sinne des Artikels 3 Nummer 6 der Verordnung (EG) Nr. 178/2002 auch derjenige ist, dessen Verantwortung sich auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
+
+3. für das Inverkehrbringen von Mitteln zum Tätowieren, Bedarfsgegenständen und mit Lebensmitteln verwechselbaren Produkten Artikel 3 Nummer 8 der Verordnung (EG) Nr. 178/2002 entsprechend gilt,
+
+4. Endverbraucher im Sinne von Artikel 3 Nummer 18 der Verordnung (EG) Nr. 178/2002 auch eine Person ist, an die ein Mittel zum Tätowieren oder ein Bedarfsgegenstand zur persönlichen Verwendung oder zur Verwendung im eigenen Haushalt abgegeben wird, wobei Gewerbetreibende, soweit sie ein Mittel zum Tätowieren oder einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, dem Endverbraucher gleichstehen.
+
+(4) Im Anwendungsbereich dieses Gesetzes gelten Verpflegungseinrichtungen der Bundeswehr auch dann, wenn sie nicht gewerblich tätig sind, als Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7), die zuletzt durch die Verordnung (EU) 2015/2283 (ABl. L 327 vom 11.12.2015, S. 1) geändert worden ist.
+
+# § 4 – Vorschriften und Ermächtigungen zum Geltungsbereich
 
 (1) Die Vorschriften dieses Gesetzes
 
 1. für Lebensmittel gelten auch für lebende Tiere, die der Gewinnung von Lebensmitteln dienen, soweit dieses Gesetz dies bestimmt,
 
-2. für Lebensmittelzusatzstoffe gelten auch für die ihnen nach § 2 Absatz 3 Satz 2 oder aufgrund des Absatzes 3 Nummer 2 gleichgestellten Stoffe,
+2. über das Inverkehrbringen von kosmetischen Mitteln gelten entsprechend für deren Bereitstellung auf dem Markt,
 
-3. für kosmetische Mittel gelten auch für Mittel zum Tätowieren einschließlich vergleichbarer Stoffe und Gemische aus Stoffen, die dazu bestimmt sind, zur Beeinflussung des Aussehens in oder unter die menschliche Haut eingebracht zu werden und dort, auch vorübergehend, zu verbleiben,
+3. für Mittel zum Tätowieren gelten auch für vergleichbare Stoffe und Gemische aus Stoffen, die dazu bestimmt sind, zur Beeinflussung des Aussehens in oder unter die menschliche Haut eingebracht zu werden und dort, auch vorübergehend, zu verbleiben,
 
 4. und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen gelten nicht für Erzeugnisse im Sinne des Weingesetzes – ausgenommen die in § 1 Absatz 2 des Weingesetzes genannten Erzeugnisse –; sie gelten jedoch, soweit das Weingesetz oder aufgrund des Weingesetzes erlassene Rechtsverordnungen auf Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen verweisen.
 
 (2) In Rechtsverordnungen nach diesem Gesetz können
 
-1. Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie in § 2 Absatz 2, 5 und 6 genannte Erzeugnisse zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, der Verbraucherin oder dem Verbraucher gleichgestellt werden,
+1. Anbieter von Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel oder Bedarfsgegenstände zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, dem Endverbraucher gleichgestellt werden,
 
 2. weitere als in den §§ 2 und 3 genannte Begriffsbestimmungen oder davon abweichende Begriffsbestimmungen vorgesehen werden, soweit dadurch der Anwendungsbereich dieses Gesetzes nicht erweitert wird.
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
-
-1. andere Gegenstände und Mittel des persönlichen oder häuslichen Bedarfs, von denen bei bestimmungsgemäßem oder vorauszusehendem Gebrauch aufgrund ihrer stofflichen Zusammensetzung, insbesondere durch toxikologisch wirksame Stoffe oder durch Verunreinigungen, gesundheitsgefährdende Einwirkungen auf den menschlichen Körper ausgehen können, den Bedarfsgegenständen,
-
-2. bestimmte Stoffe oder Gruppen von Stoffen, auch nur für bestimmte Verwendungszwecke, den Lebensmittelzusatzstoffen
-
-gleichzustellen.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, den Bedarfsgegenständen andere Gegenstände und Mittel des persönlichen oder häuslichen Bedarfs gleichzustellen, wenn von diesen Gegenständen und Mitteln des persönlichen oder häuslichen Bedarfs bei bestimmungsgemäßem oder vorauszusehendem Gebrauch aufgrund ihrer stofflichen Zusammensetzung, insbesondere durch toxikologisch wirksame Stoffe oder durch Verunreinigungen, gesundheitsgefährdende Einwirkungen auf den menschlichen Körper ausgehen können.
 
 # § 5 – Verbote zum Schutz der Gesundheit
 
@@ -201,53 +179,37 @@ gleichzustellen.
 
 2. mit Lebensmitteln verwechselbare Produkte für andere herzustellen, zu behandeln oder in den Verkehr zu bringen.
 
-# § 6 – Verbote für Lebensmittelzusatzstoffe
+# § 6 – (weggefallen)
 
-(1) Es ist verboten,
+# § 7 – Ermächtigungen zum Schutz der Gesundheit und vor Täuschung
 
-1. bei dem Herstellen oder Behandeln von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden,
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-a) nicht zugelassene Lebensmittelzusatzstoffe unvermischt oder in Mischungen mit anderen Stoffen zu verwenden,
+1. im Rahmen des Artikels 20 in Verbindung mit Anhang IV der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16; L 105 vom 27.4.2010, S. 114; L 322 vom 21.11.2012, S. 8; L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2020/771 (ABl. L 184 vom 12.6.2020, S. 25) geändert worden ist, oder
 
-b) Ionenaustauscher zu benutzen, soweit dadurch nicht zugelassene Lebensmittelzusatzstoffe in die Lebensmittel gelangen,
+2. soweit es zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes erforderlich ist,
 
-c) Verfahren zu dem Zweck anzuwenden, nicht zugelassene Lebensmittelzusatzstoffe in den Lebensmitteln zu erzeugen,
+beim Herstellen oder Behandeln von bestimmten Lebensmitteln die Verwendung von Lebensmittelzusatzstoffen oder Verarbeitungshilfsstoffen zu verbieten oder zu beschränken.
 
-2. Lebensmittel in den Verkehr zu bringen, die entgegen dem Verbot der Nummer 1 hergestellt oder behandelt sind oder einer nach § 7 Absatz 1 oder 2 Nummer 1 oder 5 erlassenen Rechtsverordnung nicht entsprechen,
+(2) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es insbesondere unter Berücksichtigung ernährungsphysiologischer Erfordernisse zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-3. Lebensmittelzusatzstoffe oder Ionenaustauscher, die bei dem Herstellen oder Behandeln von Lebensmitteln nicht verwendet werden dürfen, für eine solche Verwendung oder zur Verwendung bei dem Herstellen oder Behandeln von Lebensmitteln durch die Verbraucherin oder den Verbraucher in den Verkehr zu bringen.
+1. beim Herstellen oder Behandeln von Lebensmitteln den Zusatz von bestimmten Vitaminen, Mineralstoffen, Aminosäuren und deren Derivaten sowie anderen Stoffen mit ernährungsbezogener oder physiologischer Wirkung zu verbieten oder zu beschränken,
 
-(2) Absatz 1 Nummer 1 Buchstabe a findet keine Anwendung auf Enzyme und Mikroorganismenkulturen. Absatz 1 Nummer 1 Buchstabe c findet keine Anwendung auf Stoffe, die bei einer allgemein üblichen küchenmäßigen Zubereitung von Lebensmitteln entstehen.
+2. Höchstmengen oder Mindestmengen für den Gehalt an in Nummer 1 genannten Stoffen in Lebensmitteln und Reinheitsanforderungen für in Nummer 1 genannte Stoffe festzusetzen.
 
-(3) Die Verordnung (EG) Nr. 1333/2008 und die Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates und der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7), die durch die Verordnung (EU) Nr. 1056/2012 (ABl. L 313 vom 13.11.2012, S. 9) geändert worden ist, bleiben unberührt.
-
-# § 7 – Ermächtigungen für Lebensmittelzusatzstoffe
-
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es unter Berücksichtigung technologischer, ernährungsphysiologischer oder diätetischer Erfordernisse mit den in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecken vereinbar ist,
-
-1. Lebensmittelzusatzstoffe allgemein oder für bestimmte Lebensmittel oder für bestimmte Verwendungszwecke zuzulassen,
-
-2. Ausnahmen von den Verboten des § 6 Absatz 1 zuzulassen.
-
-(2) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
-
-1. Höchstmengen für den Gehalt an Lebensmittelzusatzstoffen oder deren Umwandlungsprodukten in Lebensmitteln sowie Reinheitsanforderungen für Lebensmittelzusatzstoffe oder für Ionenaustauscher festzusetzen,
-
-2. Mindestmengen für den Gehalt an Lebensmittelzusatzstoffen in Lebensmitteln festzusetzen,
-
-3. Vorschriften über das Herstellen, das Behandeln oder das Inverkehrbringen von Ionenaustauschern zu erlassen,
-
-4. bestimmte Enzyme oder Mikroorganismenkulturen von der Regelung des § 6 Absatz 2 Satz 1 auszunehmen,
-
-5. die Verwendung bestimmter Ionenaustauscher bei dem Herstellen von Lebensmitteln zu verbieten oder zu beschränken.
+(3) Lebensmittel, die einer nach Absatz 1 oder Absatz 2 erlassenen Rechtsverordnung nicht entsprechen, dürfen nicht in den Verkehr gebracht werden.
 
 # § 8 – Bestrahlungsverbot und Zulassungsermächtigung
 
 (1) Es ist verboten,
 
-1. bei Lebensmitteln eine nicht zugelassene Bestrahlung mit ultravioletten oder ionisierenden Strahlen anzuwenden,
+1. bei Lebensmitteln eine Bestrahlung mit ultravioletten oder ionisierenden Strahlen anzuwenden, die nicht zugelassen ist
 
-2. Lebensmittel in den Verkehr zu bringen, die entgegen dem Verbot der Nummer 1 oder einer nach Absatz 2 erlassenen Rechtsverordnung bestrahlt sind.
+a) durch eine aufgrund dieses Gesetzes erlassene Rechtsverordnung, oder
+
+b) durch unmittelbar geltende Rechtsvorschriften der Europäischen Gemeinschaft oder der Europäischen Union, insbesondere durch die Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission (ABl. L 327 vom 11.12.2015, S. 1), die durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, in Verbindung mit der Durchführungsverordnung (EU) 2017/2470 der Kommission vom 20. Dezember 2017 zur Erstellung der Unionsliste der neuartigen Lebensmittel gemäß der Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates über neuartige Lebensmittel (ABl. L 351 vom 30.12.2017, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2020/1163 (ABl. L 258 vom 7.8.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
+
+2. Lebensmittel in den Verkehr zu bringen, die entgegen dem Verbot der Nummer 1 bestrahlt sind.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien für Bildung und Forschung und für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -259,13 +221,13 @@ c) Verfahren zu dem Zweck anzuwenden, nicht zugelassene Lebensmittelzusatzstoffe
 
 (1) Es ist verboten, Lebensmittel in den Verkehr zu bringen,
 
-1. wenn in oder auf ihnen Pflanzenschutzmittel im Sinne des Pflanzenschutzgesetzes, Düngemittel im Sinne des Düngemittelgesetzes, andere Pflanzen- oder Bodenbehandlungsmittel, Biozid-Produkte im Sinne des Chemikaliengesetzes, soweit sie dem Vorratsschutz, der Schädlingsbekämpfung oder dem Schutz von Lebensmitteln dienen (Pflanzenschutz- oder sonstige Mittel) oder deren Umwandlungs- oder Reaktionsprodukte vorhanden sind, die nach Absatz 2 Nummer 1 Buchstabe a festgesetzte Höchstmengen überschreiten,
+1. wenn in oder auf ihnen Pflanzenschutzmittel im Sinne des Pflanzenschutzgesetzes, Düngemittel im Sinne des Düngegesetzes, andere Pflanzen- oder Bodenbehandlungsmittel, Biozid-Produkte im Sinne des Chemikaliengesetzes, soweit sie dem Vorratsschutz, der Schädlingsbekämpfung oder dem Schutz von Lebensmitteln dienen (Pflanzenschutz- oder sonstige Mittel) oder deren Umwandlungs- oder Reaktionsprodukte vorhanden sind, die nach Absatz 2 Nummer 1 Buchstabe a festgesetzte Höchstmengen überschreiten,
 
 2. wenn in oder auf ihnen Pflanzenschutzmittel im Sinne des Pflanzenschutzgesetzes vorhanden sind, die nicht zugelassen sind oder die bei den Lebensmitteln oder deren Ausgangsstoffen nicht angewendet werden dürfen,
 
-3. die den Anforderungen nach Artikel 18 Absatz 1, auch in Verbindung mit Artikel 20 Absatz 1, der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2016/1866 (ABl. L 286 vom 21.10.2016, S. 4) geändert worden ist, nicht entsprechen.
+3. die den Anforderungen nach Artikel 18 Absatz 1, auch in Verbindung mit Artikel 20 Absatz 1, der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2020/192 (ABl. L 40 vom 13.2.2020, S. 4) geändert worden ist, nicht entsprechen.
 
-Satz 1 Nummer 2 gilt nicht, soweit für die dort genannten Mittel Höchstmengen nach Absatz 2 Nummer 1 Buchstabe a festgesetzt sind.
+Satz 1 Nummer 2 gilt nicht, soweit für die dort genannten Mittel Rückstandshöchstgehalte nach Artikel 18 Absatz 1, auch in Verbindung mit Artikel 20 Absatz 1, der Verordnung (EG) Nr. 396/2005 oder Höchstmengen nach Absatz 2 Nummer 1 Buchstabe a festgesetzt sind.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -291,11 +253,11 @@ zuzulassen.
 
 1. die für die in Satz 1 bezeichneten Stoffe oder deren Umwandlungsprodukte in einem unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union, insbesondere
 
-a) im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1, L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2016/1834 (ABl. L 280 vom 18.10.2016, S. 22) geändert worden ist,
+a) im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom 11.11.2010, S. 72), die zuletzt durch die Durchführungsverordnung (EU) 2020/43 (ABl. L 15 vom 20.1.2020, S. 5) geändert worden ist, in der jeweils geltenden Fassung,
 
 b) in einem auf Artikel 14 der Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11, L 154 vom 19.6.2015, S. 28) gestützten unmittelbar geltenden Rechtsakt der Europäischen Union oder
 
-c) in einem auf die Verordnung (EG) Nr. 1831/2003 gestützten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union,
+c) in einem auf die Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29; L 192 vom 29.5.2004, S. 34; L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, gestützten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union,
 
 festgesetzten Höchstmengen nicht überschritten werden,
 
@@ -307,9 +269,11 @@ b) in einem auf Artikel 14 der Verordnung (EG) Nr. 470/2009 gestützten unmittel
 
 als Stoffe aufgeführt sind, für die eine Festlegung von Höchstmengen nicht erforderlich ist,
 
-3. für die in Satz 1 bezeichneten Stoffe oder deren Umwandlungsprodukte Referenzwerte in einem auf Artikel 18 der Verordnung (EG) Nr. 470/2009 gestützten unmittelbar geltenden Rechtsakt der Europäischen Union festgelegt worden sind und diese unterschritten werden oder
+3. für die in Satz 1 bezeichneten Stoffe oder deren Umwandlungsprodukte Referenzwerte in einem auf Artikel 18 der Verordnung (EG) Nr. 470/2009 gestützten unmittelbar geltenden Rechtsakt der Europäischen Union festgelegt worden sind und diese unterschritten werden,
 
-4. nach Absatz 4 Nummer 1 Buchstabe a festgesetzte Höchstmengen nicht überschritten werden.
+4. die in Satz 1 bezeichneten Stoffe als Futtermittelzusatzstoffe für das Tier, von dem die Lebensmittel stammen, zugelassen sind und dabei für diese Stoffe oder deren Umwandlungsprodukte keine Rückstandshöchstmengen in Lebensmitteln festgesetzt worden sind, oder
+
+5. nach Absatz 4 Nummer 1 Buchstabe a festgesetzte Höchstmengen nicht überschritten werden.
 
 Die Verordnung (EG) Nr. 396/2005 bleibt unberührt.
 
@@ -323,9 +287,11 @@ Die Verordnung (EG) Nr. 396/2005 bleibt unberührt.
 
 (3) Sind Stoffe mit pharmakologischer Wirkung, die als Arzneimittel zugelassen oder registriert sind oder als Futtermittelzusatzstoffe zugelassen sind, einem lebenden Tier zugeführt worden, so dürfen
 
-1. von dem Tier Lebensmittel nur gewonnen werden,
+1. diese Tiere nur zur Schlachtung abgegeben werden,
 
-2. von dem Tier gewonnene Lebensmittel nur in den Verkehr gebracht werden,
+2. von dem Tier Lebensmittel nur gewonnen werden,
+
+3. von dem Tier gewonnene Lebensmittel nur in den Verkehr gebracht werden,
 
 wenn die festgesetzten Wartezeiten eingehalten worden sind.
 
@@ -343,15 +309,15 @@ d) das Inverkehrbringen von Lebensmitteln, in oder auf denen Stoffe mit pharmako
 
 e) das Herstellen oder das Behandeln von in Buchstabe d bezeichneten Lebensmitteln zu verbieten oder zu beschränken,
 
-2. soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, die Regelungen des Absatzes 1 auf andere als die im einleitenden Satzteil des Absatzes 1 Satz 1 genannten Lebensmittel ganz oder teilweise zu erstrecken,
+2. soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, die Regelung des Absatzes 1 Satz 1 auf andere als die dort genannten Lebensmittel ganz oder teilweise zu erstrecken,
 
 3. soweit es mit den in § 1 Absatz 1 Nummer 1 oder 2 genannten Zwecken vereinbar ist, Ausnahmen von dem Verbot des Absatzes 3 zuzulassen.
 
-(5) Sobald und soweit ein Bescheid nach § 41 Absatz 2 Satz 1 oder 2, auch in Verbindung mit § 41 Absatz 4, ergangen ist, sind die Absätze 1 bis 3 nicht mehr anzuwenden.
+(5) Solange und soweit eine Anordnung nach Artikel 4 Absatz 4 Buchstabe b erster oder zweiter Spiegelstrich der Delegierten Verordnung (EU) 2019/2090 der Kommission vom 19. Juni 2019 zur Ergänzung der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates in Bezug auf mutmaßliche oder festgestellte Verstöße gegen Unionsvorschriften über die Verwendung oder über Rückstände pharmakologisch wirksamer Stoffe, die in Tierarzneimitteln oder als Futtermittelzusatzstoffe zugelassen sind, bzw. gegen Unionsvorschriften über die Verwendung oder über Rückstände verbotener oder nicht zugelassener pharmakologisch wirksamer Stoffe (ABl. L 317 vom 9.12.2019, S. 28) wirksam ist, sind die Absätze 1 bis 3 nicht anzuwenden.
 
 # § 11 – Vorschriften zum Schutz vor Täuschung
 
-(1) Es ist verboten, als nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 verantwortlicher Lebensmittelunternehmer oder Importeur Lebensmittel mit Informationen über Lebensmittel, die den Anforderungen
+(1) Es ist verboten, als Verantwortlicher nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 Lebensmittel mit Informationen über Lebensmittel, die den Anforderungen
 
 1. des Artikels 7 Absatz 1, auch in Verbindung mit Absatz 4, der Verordnung (EU) Nr. 1169/2011,
 
@@ -361,21 +327,21 @@ e) das Herstellen oder das Behandeln von in Buchstabe d bezeichneten Lebensmitte
 
 nicht entsprechen, in den Verkehr zu bringen oder allgemein oder im Einzelfall dafür zu werben.
 
-(2) Es ist ferner verboten,
+(2) Es ist ferner verboten, als Verantwortlicher nach Artikel 8 Absatz 8 der Verordnung (EU) Nr. 1169/2011 Lebensmittel mit Informationen über Lebensmittel, die den Anforderungen
 
-1. andere als dem Verbot des Artikels 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe b der Verordnung (EG) Nr. 178/2002 unterliegende Lebensmittel, die für den Verzehr durch den Menschen ungeeignet sind, in den Verkehr zu bringen,
+1. des Artikels 7 Absatz 1, auch in Verbindung mit Absatz 4, der Verordnung (EU) Nr. 1169/2011,
 
-2. a) nachgemachte Lebensmittel,
+2. des Artikels 7 Absatz 3, auch in Verbindung mit Absatz 4, der Verordnung (EU) Nr. 1169/2011 oder
 
-b) Lebensmittel, die hinsichtlich ihrer Beschaffenheit von der Verkehrsauffassung abweichen und dadurch in ihrem Wert, insbesondere in ihrem Nähr- oder Genusswert oder in ihrer Brauchbarkeit nicht unerheblich gemindert sind oder
+3. des Artikels 36 Absatz 2 Buchstabe a in Verbindung mit Artikel 7 Absatz 1 oder Absatz 3, jeweils auch in Verbindung mit Artikel 7 Absatz 4, der Verordnung (EU) Nr. 1169/2011
 
-c) Lebensmittel, die geeignet sind, den Anschein einer besseren als der tatsächlichen Beschaffenheit zu erwecken,
+nicht entsprechen, an andere Lebensmittelunternehmer zu liefern.
 
-ohne ausreichende Kenntlichmachung in den Verkehr zu bringen.
+(3) Absatz 1 Nummer 2 und Absatz 2 Nummer 2 gelten nicht für nach Artikel 14 Absatz 1 der Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34, L 198 vom 30.7.2009, S. 87, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S. 36) geändert worden ist, zugelassene Angaben.
 
-(3) Absatz 1 Nummer 2 gilt nicht für nach Artikel 14 Absatz 1 der Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34, L 198 vom 30.7.2009, S. 87, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S. 36) geändert worden ist, zugelassene Angaben.
+# § 12 – Weitere Verbote
 
-# § 12 – (weggefallen)
+Es ist verboten, andere als dem Verbot des Artikels 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe b der Verordnung (EG) Nr. 178/2002 unterliegende Lebensmittel, die für den Verzehr durch den Menschen ungeeignet sind, in den Verkehr zu bringen.
 
 # § 13 – Ermächtigungen zum Schutz der Gesundheit und vor Täuschung
 
@@ -383,7 +349,7 @@ ohne ausreichende Kenntlichmachung in den Verkehr zu bringen.
 
 1. bei dem Herstellen oder Behandeln von Lebensmitteln
 
-a) die Verwendung bestimmter Stoffe, Gegenstände oder Verfahren zu verbieten oder zu beschränken,
+a) die Verwendung bestimmter Stoffe oder Gemische aus Stoffen, Gegenstände oder Verfahren zu verbieten oder zu beschränken,
 
 b) die Anwendung bestimmter Verfahren vorzuschreiben,
 
@@ -399,7 +365,7 @@ von einer amtlichen Untersuchung abhängig zu machen,
 
 4. vorzuschreiben, dass bestimmte Lebensmittel nach dem Gewinnen amtlich zu untersuchen sind,
 
-5. das Herstellen oder das Behandeln von bestimmten Stoffen, die im Sinne des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 gesundheitsschädlich sind, in Lebensmittelunternehmen sowie das Verbringen in diese zu verbieten oder zu beschränken,
+5. das Herstellen oder das Behandeln von bestimmten Stoffen oder Gemischen aus Stoffen, die im Sinne des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 gesundheitsschädlich sind, in Lebensmittelunternehmen sowie das Verbringen in diese zu verbieten oder zu beschränken,
 
 6. für bestimmte Lebensmittel Warnhinweise, sonstige warnende Aufmachungen oder Sicherheitsvorkehrungen vorzuschreiben,
 
@@ -409,7 +375,21 @@ von einer amtlichen Untersuchung abhängig zu machen,
 
 (3) Das Bundesministerium wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. vorzuschreiben, dass der Gehalt der Lebensmittel an den in Rechtsverordnungen nach § 7 Absatz 1 Nummer 1 zugelassenen Zusatzstoffen und die Anwendung der in Rechtsverordnungen nach § 8 Absatz 2 Nummer 1 zugelassenen Behandlung oder Bestrahlung kenntlich zu machen sind und dabei die Art der Kenntlichmachung zu regeln,
+1. vorzuschreiben, dass
+
+a) der Gehalt der Lebensmittel
+
+aa)  
+an den in einer Rechtsverordnung nach § 7 Absatz 1 genannten Lebensmittelzusatzstoffen oder Verarbeitungshilfsstoffen,
+
+bb)  
+an den in einer Rechtsverordnung nach § 7 Absatz 2 Nummer 1 genannten Stoffen,
+
+cc) an den Stoffen, für die Höchstmengen oder Mindestmengen in einer Rechtsverordnung nach § 7 Absatz 2 Nummer 2 festgesetzt wurden und
+
+b) die Anwendung der in Rechtsverordnungen nach § 8 Absatz 2 Nummer 1 zugelassenen Behandlung oder Bestrahlung
+
+kenntlich zu machen sind und dabei die Art der Kenntlichmachung zu regeln,
 
 2. Vorschriften über die Kenntlichmachung der in oder auf Lebensmitteln vorhandenen Stoffe im Sinne der §§ 9 und 10 zu erlassen.
 
@@ -421,9 +401,9 @@ Rechtsverordnungen nach Satz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bund
 
 a) Lebensmittel unter bestimmten Bezeichnungen nur in den Verkehr gebracht werden dürfen, wenn sie bestimmten Anforderungen an die Herstellung, Zusammensetzung oder Beschaffenheit entsprechen,
 
-b) Lebensmittel, die bestimmten Anforderungen an die Herstellung, Zusammensetzung oder Beschaffenheit nicht entsprechen oder sonstige Lebensmittel von bestimmter Art oder Beschaffenheit nicht, nur unter ausreichender Kenntlichmachung oder nur unter bestimmten Bezeichnungen, sonstigen Angaben oder Aufmachungen in den Verkehr gebracht werden dürfen, und die Einzelheiten hierfür zu bestimmen,
+b) Lebensmittel, die bestimmten Anforderungen an die Herstellung, Zusammensetzung oder Beschaffenheit nicht entsprechen oder sonstige Lebensmittel von bestimmter Art oder Beschaffenheit nicht, nur mit bestimmten Informationen über Lebensmittel, nur unter ausreichender Kenntlichmachung oder nur unter bestimmten Bezeichnungen, sonstigen Angaben oder Aufmachungen in den Verkehr gebracht werden dürfen, und die Einzelheiten hierfür zu bestimmen,
 
-c) Lebensmittel unter bestimmten zur Irreführung geeigneten Bezeichnungen, Angaben oder Aufmachungen nicht in den Verkehr gebracht werden dürfen und dass für sie mit bestimmten zur Irreführung geeigneten Darstellungen oder sonstigen Aussagen nicht geworben werden darf,
+c) Lebensmittel mit bestimmten zur Irreführung geeigneten Informationen über Lebensmittel, insbesondere mit zur Irreführung geeigneten Bezeichnungen, Angaben oder Aufmachungen, nicht in den Verkehr gebracht werden dürfen und dass für Lebensmittel nicht mit zur Irreführung geeigneten Informationen über Lebensmittel, insbesondere nicht mit zur Irreführung geeigneten Darstellungen oder sonstigen Aussagen geworben werden darf,
 
 d) Lebensmittel, bei denen bestimmte Verfahren angewendet worden sind, nur unter bestimmten Voraussetzungen in den Verkehr gebracht werden dürfen,
 
@@ -431,7 +411,7 @@ e) Lebensmitteln zur vereinfachten Feststellung ihrer Beschaffenheit bestimmte I
 
 f) Lebensmittel nur in bestimmten Einheiten in den Verkehr gebracht werden dürfen,
 
-g) bestimmten Lebensmitteln bestimmte Angaben, insbesondere über die Anwendung von Stoffen oder über die weitere Verarbeitung der Erzeugnisse, beizufügen sind,
+g) bestimmten Lebensmitteln bestimmte Angaben oder Informationen über Lebensmittel, insbesondere über die Anwendung von Stoffen oder über die weitere Verarbeitung der Erzeugnisse, beizufügen sind,
 
 2. zu verbieten, dass Gegenstände oder Stoffe, die bei dem Herstellen oder dem Behandeln von Lebensmitteln nicht verwendet werden dürfen, für diese Zwecke hergestellt oder in den Verkehr gebracht werden, auch wenn die Verwendung nur für den eigenen Bedarf des Abnehmers erfolgen soll.
 
@@ -461,7 +441,7 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit dem Bundesministe
 
 (2) Das Bundesministerium wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Erfüllung der in § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnungen nach § 13 Absatz 1 oder § 34 Absatz 1 dieses Gesetzes oder nach § 38 des Infektionsschutzgesetzes nicht erfüllt sind, Vorschriften zu erlassen, die eine einwandfreie Beschaffenheit der Lebensmittel von ihrer Herstellung bis zur Abgabe an die Verbraucherin oder den Verbraucher sicherstellen und dabei auch zu bestimmen, welche gesundheitlichen oder hygienischen Anforderungen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1, die Lebensmittelunternehmen oder die dort beschäftigten Personen hinsichtlich der Gewinnung bestimmter Lebensmittel erfüllen müssen, um eine nachteilige Beeinflussung dieser Lebensmittel zu vermeiden,
+1. und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnungen nach § 13 Absatz 1 oder § 34 Absatz 1 dieses Gesetzes oder nach § 38 des Infektionsschutzgesetzes nicht erfüllt sind, Vorschriften zu erlassen, die eine einwandfreie Beschaffenheit der Lebensmittel von ihrer Herstellung bis zur Abgabe an den Endverbraucher sicherstellen und dabei auch zu bestimmen, welche gesundheitlichen oder hygienischen Anforderungen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1, die Lebensmittelunternehmen oder die dort beschäftigten Personen hinsichtlich der Gewinnung bestimmter Lebensmittel erfüllen müssen, um eine nachteilige Beeinflussung dieser Lebensmittel zu vermeiden,
 
 2. und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnung nach § 6 Absatz 1 Nummer 3 Buchstabe b oder § 38 Absatz 9 oder 10 des Tiergesundheitsgesetzes nicht erfüllt sind, vorzuschreiben, dass und in welcher Weise Räume, Anlagen oder Einrichtungen, in denen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 gehalten werden, gereinigt, desinfiziert oder sonst im Hinblick auf die Einhaltung hygienischer Anforderungen behandelt werden müssen, sowie die Führung von Nachweisen zu regeln,
 
@@ -569,7 +549,15 @@ Ein Fall des Satzes 1 Nummer 1 liegt auch dann noch vor, wenn das Mischfuttermit
 
 # § 19 – Verbote zum Schutz vor Täuschung
 
-Es ist verboten, Futtermittel, deren Kennzeichnung oder Aufmachung den Anforderungen des Artikels 11 Absatz 1 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den Verkehr zu bringen oder für solche Futtermittel allgemein oder im Einzelfall zu werben.
+Es ist verboten, als Verantwortlicher nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1; L 192 vom 22.7.2011, S. 71; L 296 vom 15.11.2019, S. 64), die zuletzt durch die Verordnung (EU) 2018/1903 (ABl. L 310 vom 6.12.2018, S. 22) geändert worden ist, Futtermittel, deren Kennzeichnung oder Aufmachung den Anforderungen
+
+1. des Artikels 11 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 767/2009,
+
+2. des Artikels 11 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 767/2009 oder
+
+3. des Artikels 11 Absatz 1 Buchstabe c der Verordnung (EG) Nr. 767/2009 in Verbindung mit Anhang Teil C der Verordnung (EU) Nr. 68/2013 der Kommission vom 16. Januar 2013 zum Katalog der Einzelfuttermittel (ABl. L 29 vom 30.1.2013, S. 1; L 320 vom 30.11.2013, S. 82; L 91 vom 27.3.2014, S. 50), die zuletzt durch die Verordnung (EU) 2020/764 (ABl. L 183 vom 11.6.2020, S. 1) geändert worden ist,
+
+nicht entspricht, in den Verkehr zu bringen oder für solche Futtermittel allgemein oder im Einzelfall zu werben.
 
 # § 20 – Verbot der krankheitsbezogenen Werbung
 
@@ -711,49 +699,37 @@ zu regeln.
 
 Es ist verboten,
 
-1. kosmetische Mittel für andere derart herzustellen oder zu behandeln, dass sie bei bestimmungsgemäßem oder vorauszusehendem Gebrauch geeignet sind, die Gesundheit zu schädigen,
+1. Mittel zum Tätowieren für andere derart herzustellen oder zu behandeln, dass sie bei bestimmungsgemäßem oder vorauszusehendem Gebrauch geeignet sind, die Gesundheit zu schädigen,
 
-2. Stoffe oder Gemische aus Stoffen, die bei bestimmungsgemäßem oder vorauszusehendem Gebrauch geeignet sind, die Gesundheit zu schädigen, als kosmetische Mittel in den Verkehr zu bringen.
+2. Stoffe oder Gemische aus Stoffen, die bei bestimmungsgemäßem oder vorauszusehendem Gebrauch geeignet sind, die Gesundheit zu schädigen, als Mittel zum Tätowieren in den Verkehr zu bringen.
 
-Der bestimmungsgemäße oder vorauszusehende Gebrauch beurteilt sich insbesondere unter Heranziehung der Aufmachung der in Satz 1 genannten Mittel, Stoffe und Gemische aus Stoffen, ihrer Kennzeichnung, soweit erforderlich, der Hinweise für ihre Verwendung und der Anweisungen für ihre Entfernung sowie aller sonstigen, die Mittel, die Stoffe oder die Gemische aus Stoffen begleitenden Angaben oder Informationen seitens des Herstellers oder des für das Inverkehrbringen der kosmetischen Mittel Verantwortlichen.
+Der bestimmungsgemäße oder vorauszusehende Gebrauch beurteilt sich insbesondere unter Heranziehung der in Satz 1 genannten Mittel, Stoffe und Gemische aus Stoffen, anhand ihrer Kennzeichnung, soweit erforderlich, anhand der Hinweise für ihre Verwendung sowie anhand aller sonstigen die Mittel, die Stoffe oder die Gemische aus Stoffen begleitenden Angaben oder Informationen seitens des Herstellers oder des für das Inverkehrbringen der Mittel zum Tätowieren Verantwortlichen.
 
 § 26 Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit der Neufassung gem. Bek. v. 3.6.2013 I 1426 wurde das Wort "Zubereitungen" gem. Art. 1 Nr. 21 G v. 27.7.2011 I 1608 mWv 4.8.2011 auch nach den Worten "oder die" durch das Wort "Gemische" ersetzt
 
 # § 27 – Vorschriften zum Schutz vor Täuschung
 
-(1) Es ist verboten, kosmetische Mittel unter irreführender Bezeichnung, Angabe oder Aufmachung in den Verkehr zu bringen oder für kosmetische Mittel allgemein oder im Einzelfall mit irreführenden Darstellungen oder sonstigen Aussagen zu werben. Eine Irreführung liegt insbesondere dann vor, wenn
+Es ist verboten, Mittel zum Tätowieren unter irreführender Bezeichnung, Angabe oder Aufmachung in den Verkehr zu bringen oder für Mittel zum Tätowieren allgemein oder im Einzelfall mit irreführenden Darstellungen oder sonstigen Aussagen zu werben. Eine Irreführung liegt insbesondere dann vor, wenn
 
-1. einem kosmetischen Mittel Wirkungen beigelegt werden, die ihm nach den Erkenntnissen der Wissenschaft nicht zukommen oder die wissenschaftlich nicht hinreichend gesichert sind,
+1. zur Täuschung geeignete Bezeichnungen, Angaben, Aufmachungen, Darstellungen oder sonstige Aussagen über Art, Beschaffenheit, Zusammensetzung, Menge, Haltbarkeit, Herkunft oder Art der Herstellung verwendet werden, oder
 
-2. durch die Bezeichnung, Angabe, Aufmachung, Darstellung oder sonstige Aussage fälschlich der Eindruck erweckt wird, dass ein Erfolg mit Sicherheit erwartet werden kann,
-
-3. zur Täuschung geeignete Bezeichnungen, Angaben, Aufmachungen, Darstellungen oder sonstige Aussagen über
-
-a) die Person, Vorbildung, Befähigung oder Erfolge des Herstellers, Erfinders oder der für sie tätigen Personen,
-
-b) Eigenschaften, insbesondere über Art, Beschaffenheit, Zusammensetzung, Menge, Haltbarkeit, Herkunft oder Art der Herstellung
-
-verwendet werden,
-
-4. ein kosmetisches Mittel für die vorgesehene Verwendung nicht geeignet ist.
-
-(2) Die Vorschriften des Gesetzes über die Werbung auf dem Gebiete des Heilwesens bleiben unberührt.
+2. ein Mittel zum Tätowieren für die vorgesehene Verwendung nicht geeignet ist.
 
 # § 28 – Ermächtigungen zum Schutz der Gesundheit
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. Anforderungen an die mikrobiologische Beschaffenheit bestimmter kosmetischer Mittel zu stellen,
+1. Anforderungen an die mikrobiologische Beschaffenheit bestimmter Mittel zum Tätowieren oder bestimmter kosmetischer Mittel zu stellen,
 
-2. für kosmetische Mittel Vorschriften zu erlassen, die den in § 32 Absatz 1 Nummer 1 bis 5 und 8 für Bedarfsgegenstände vorgesehenen Regelungen entsprechen.
+2. für Mittel zum Tätowieren oder für kosmetische Mittel Vorschriften zu erlassen, die den in § 32 Absatz 1 Nummer 1 bis 5 und 8 für Bedarfsgegenstände vorgesehenen Regelungen entsprechen.
 
-(2) Kosmetische Mittel, die einer nach Absatz 1 Nummer 1 oder nach Absatz 1 Nummer 2 in Verbindung mit § 32 Absatz 1 Nummer 1 bis 4 Buchstabe a oder Nummer 5 erlassenen Rechtsverordnung nicht entsprechen, dürfen nicht in den Verkehr gebracht werden.
+(2) Mittel zum Tätowieren oder kosmetische Mittel, die einer nach Absatz 1 Nummer 1 oder nach Absatz 1 Nummer 2 in Verbindung mit § 32 Absatz 1 Nummer 1 bis 4 Buchstabe a oder Nummer 5 erlassenen Rechtsverordnung nicht entsprechen, dürfen nicht in den Verkehr gebracht werden.
 
-(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es für eine medizinische Behandlung bei gesundheitlichen Beeinträchtigungen, die auf die Einwirkung von kosmetischen Mitteln zurückgehen können, erforderlich ist,
+(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es für eine medizinische Behandlung bei gesundheitlichen Beeinträchtigungen, die auf die Einwirkung von Mitteln zum Tätowieren oder von kosmetischen Mitteln zurückgehen können, erforderlich ist,
 
-1. vorzuschreiben, dass von dem Hersteller oder demjenigen, der das kosmetische Mittel in den Verkehr bringt, dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bestimmte Angaben über das kosmetische Mittel, insbesondere Angaben zu seiner Identifizierung, über seine Verwendungszwecke, über die in dem kosmetischen Mittel enthaltenen Stoffe und deren Menge sowie jede Veränderung dieser Angaben mitzuteilen sind, und die Einzelheiten über Form, Inhalt, Ausgestaltung und Zeitpunkt der Mitteilungen zu bestimmen,
+1. vorzuschreiben, dass von dem Hersteller oder demjenigen, der das Mittel zum Tätowieren oder das kosmetische Mittel in den Verkehr bringt, dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bestimmte Angaben über das Mittel zum Tätowieren oder das kosmetische Mittel, insbesondere Angaben zu seiner Identifizierung, über seine Verwendungszwecke, über die darin enthaltenen Stoffe und deren Menge sowie jede Veränderung dieser Angaben mitzuteilen sind, und die Einzelheiten über Form, Inhalt, Ausgestaltung und Zeitpunkt der Mitteilung zu bestimmen,
 
-2. zu bestimmen, dass das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit die Angaben nach Nummer 1 an die von den Ländern zu bezeichnenden medizinischen Einrichtungen, die Erkenntnisse über die gesundheitlichen Auswirkungen kosmetischer Mittel sammeln und auswerten und bei Stoff bezogenen gesundheitlichen Beeinträchtigungen durch Beratung und Behandlung Hilfe leisten (Informations- und Behandlungszentren für Vergiftungen), weiterleiten kann,
+2. zu bestimmen, dass das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit die Angaben nach Nummer 1 an die von den Ländern zu bezeichnenden medizinischen Einrichtungen, die Erkenntnisse über die gesundheitlichen Auswirkungen von Mitteln zum Tätowieren oder von kosmetischen Mitteln sammeln und auswerten und bei Stoff bezogenen gesundheitlichen Beeinträchtigungen durch Beratung und Behandlung Hilfe leisten (Informations- und Behandlungszentren für Vergiftungen), weiterleiten kann,
 
 3. zu bestimmen, dass die Informations- und Behandlungszentren für Vergiftungen dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit über Erkenntnisse aufgrund ihrer Tätigkeit berichten, die für die Beratung bei und die Behandlung von Stoff bezogenen gesundheitlichen Beeinträchtigungen von allgemeiner Bedeutung sind.
 
@@ -763,25 +739,25 @@ Die Angaben nach Satz 1 Nummer 1 und 2 sind vertraulich zu behandeln und dürfen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. vorzuschreiben, dass von dem Hersteller oder dem Einführer bestimmte Angaben, insbesondere über das Herstellen, das Inverkehrbringen oder die Zusammensetzung kosmetischer Mittel, über die hierbei verwendeten Stoffe, über die Wirkungen von kosmetischen Mitteln sowie über die Bewertungen, aus denen sich die gesundheitliche Beurteilung kosmetischer Mittel ergibt, und über den für die Bewertung Verantwortlichen für die für die Überwachung des Verkehrs mit kosmetischen Mitteln zuständigen Behörden bereitgehalten werden müssen sowie den Ort und die Einzelheiten über die Art und Weise des Bereithaltens zu bestimmen,
+1. vorzuschreiben, dass von dem Hersteller oder dem Einführer bestimmte Angaben, insbesondere über das Herstellen, das Inverkehrbringen oder die Zusammensetzung von Mitteln zum Tätowieren oder von kosmetischen Mitteln, über die hierbei verwendeten Stoffe, über die Wirkungen von Mitteln zum Tätowieren oder kosmetischen Mitteln sowie über die Bewertungen, aus denen sich die gesundheitliche Beurteilung von Mitteln zum Tätowieren oder von kosmetischen Mitteln ergibt, und über den für die Bewertung Verantwortlichen für die für die Überwachung des Verkehrs mit Mitteln zum Tätowieren oder kosmetischen Mitteln zuständigen Behörden bereitgehalten werden müssen sowie den Ort und die Einzelheiten über die Art und Weise des Bereithaltens zu bestimmen,
 
-2. vorzuschreiben, dass der Hersteller oder der Einführer den für die Überwachung des Verkehrs mit kosmetischen Mitteln zuständigen Behörden bestimmte Angaben nach Nummer 1 mitzuteilen hat,
+2. vorzuschreiben, dass der Hersteller oder der Einführer den für die Überwachung des Verkehrs mit Mitteln zum Tätowieren oder mit kosmetischen Mitteln zuständigen Behörden bestimmte Angaben nach Nummer 1 mitzuteilen hat,
 
-3. bestimmte Anforderungen und Untersuchungsverfahren, nach denen die gesundheitliche Unbedenklichkeit kosmetischer Mittel zu bestimmen und zu beurteilen ist, festzulegen und das Herstellen, das Behandeln und das Inverkehrbringen von kosmetischen Mitteln hiervon abhängig zu machen,
+3. bestimmte Anforderungen und Untersuchungsverfahren, nach denen die gesundheitliche Unbedenklichkeit von Mitteln zum Tätowieren oder von kosmetischen Mitteln zu bestimmen und zu beurteilen ist, festzulegen und das Herstellen, das Behandeln und das Inverkehrbringen von Mitteln zum Tätowieren oder von kosmetischen Mitteln hiervon abhängig zu machen,
 
 4. vorzuschreiben, dass der Hersteller oder der Einführer bestimmte Angaben über
 
-a) die mengenmäßige oder inhaltliche Zusammensetzung kosmetischer Mittel oder
+a) die mengenmäßige oder inhaltliche Zusammensetzung von Mitteln zum Tätowieren oder von kosmetischen Mitteln oder
 
-b) Nebenwirkungen kosmetischer Mittel auf die menschliche Gesundheit
+b) Nebenwirkungen von Mitteln zum Tätowieren oder von kosmetischen Mitteln auf die menschliche Gesundheit
 
 auf geeignete Art und Weise der Öffentlichkeit leicht zugänglich zu machen hat, soweit die Angaben nicht Betriebs- oder Geschäftsgeheimnisse betreffen.
 
 (2) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es
 
-1. zur Erfüllung der in § 1 Absatz 1 Nummer 2, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, vorzuschreiben, dass kosmetische Mittel unter bestimmten zur Irreführung geeigneten Bezeichnungen, Angaben oder Aufmachungen nicht in den Verkehr gebracht werden dürfen und dass für sie mit bestimmten zur Irreführung geeigneten Darstellungen oder sonstigen Aussagen nicht geworben werden darf,
+1. zur Erfüllung der in § 1 Absatz 1 Nummer 2, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, vorzuschreiben, dass Mittel zum Tätowieren oder kosmetische Mittel unter bestimmten zur Irreführung geeigneten Bezeichnungen, Angaben oder Aufmachungen nicht in den Verkehr gebracht werden dürfen und dass für sie mit bestimmten zur Irreführung geeigneten Darstellungen oder sonstigen Aussagen nicht geworben werden darf,
 
-2. zur Erfüllung der in § 1 Absatz 1 Nummer 1, 2 oder 3 Buchstabe a, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, das Inverkehrbringen von kosmetischen Mitteln zu verbieten oder zu beschränken.
+2. zur Erfüllung der in § 1 Absatz 1 Nummer 1, 2 oder 3 Buchstabe a, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, das Inverkehrbringen von Mitteln zum Tätowieren oder von kosmetischen Mitteln zu verbieten oder zu beschränken.
 
 # § 30 – Verbote zum Schutz der Gesundheit
 
@@ -823,7 +799,7 @@ Materialien oder Gegenstände, die den Anforderungen des Satzes 1 Nummer 2 nicht
 
 4. Höchstmengen für Stoffe festzusetzen, die
 
-a) aus bestimmten Bedarfsgegenständen auf Verbraucherinnen oder Verbraucher einwirken oder übergehen können oder
+a) aus bestimmten Bedarfsgegenständen auf Endverbraucher einwirken oder übergehen können oder
 
 b) die beim Herstellen, Behandeln oder Inverkehrbringen von bestimmten Bedarfsgegenständen in oder auf diesen vorhanden sein dürfen,
 
@@ -881,6 +857,8 @@ den Hersteller, den für das Inverkehrbringen Verantwortlichen, die Anwendung vo
 
 vorzuschreiben,
 
+1a. Inhalt, Art und Weise sowie Umfang von anderen als über die Kennzeichnung vermittelten Informationen über Lebensmittel sowie von im Geschäftsverkehr zwischen Lebensmittelunternehmern relevante Informationen, bei denen es sich nicht um an den Endverbraucher gerichtete Informationen über Lebensmittel handelt, zu regeln,
+
 2. für bestimmte Erzeugnisse vorzuschreiben, dass
 
 a) sie nur in Packungen, Behältnissen oder sonstigen Umhüllungen, auch verschlossen oder von bestimmter Art, in den Verkehr gebracht werden dürfen und dabei die Art oder Sicherung eines Verschlusses zu regeln,
@@ -933,11 +911,13 @@ Satz 1 gilt entsprechend für Lebensmittelunternehmen, in denen lebende Tiere im
 
 festgelegt werden.
 
-# § 38 – Zuständigkeit, gegenseitige Information
+# § 38 – Zuständigkeit, Aufgabe und gegenseitige Information
 
 (1) Die Zuständigkeit für die Überwachungsmaßnahmen nach diesem Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und den unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes richtet sich nach Landesrecht, soweit in diesem Gesetz nichts anderes bestimmt ist. § 55 bleibt unberührt.
 
 (2) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Durchführung dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes den zuständigen Stellen und Sachverständigen der Bundeswehr. Das Bundesministerium der Verteidigung kann für seinen Geschäftsbereich im Einvernehmen mit dem Bundesministerium Ausnahmen von diesem Gesetz und aufgrund dieses Gesetzes erlassenen Rechtsverordnungen zulassen, wenn dies zur Durchführung der besonderen Aufgaben der Bundeswehr gerechtfertigt ist und der vorbeugende Gesundheitsschutz gewahrt bleibt.
+
+(2a) Die Überwachung der Einhaltung der Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes über Erzeugnisse und lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 ist Aufgabe der zuständigen Behörden. Dazu haben sie sich durch regelmäßige Überprüfungen und Probenahmen davon zu überzeugen, dass die Vorschriften eingehalten werden.
 
 (3) Die für die Durchführung dieses Gesetzes zuständigen Behörden und Stellen des Bundes und der Länder haben sich gegenseitig
 
@@ -945,15 +925,17 @@ festgelegt werden.
 
 2. bei der Ermittlungstätigkeit zu unterstützen.
 
-(4) Die zuständigen Behörden
+(4) Die für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden arbeiten nach Maßgabe der Artikel 104 bis 107 der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S. 44; L 322 vom 18.12.2018, S. 85), die zuletzt durch die Delegierte Verordnung (EU) 2019/2127 (ABl. L 321 vom 12.12.2019, S. 111) geändert worden ist, mit den zuständigen Behörden anderer Mitgliedstaaten zusammen.
 
-1. erteilen der zuständigen Behörde eines anderen Mitgliedstaates auf begründetes Ersuchen Auskünfte und übermitteln die erforderlichen Urkunden und Schriftstücke, um ihr die Überwachung der Einhaltung der für Erzeugnisse und mit Lebensmitteln verwechselbare Produkte geltenden Vorschriften zu ermöglichen,
+(5) Hat die nach Absatz 2a Satz 1 für die Einhaltung der Vorschriften über den Verkehr mit Futtermitteln zuständige Behörde Grund zu der Annahme, dass Futtermittel, die geeignet sind, die von Nutztieren gewonnenen Erzeugnisse im Hinblick auf ihre Unbedenklichkeit für die menschliche Gesundheit zu beeinträchtigen, verfüttert worden sind, so unterrichtet sie die für die Durchführung der Delegierten Verordnung (EU) 2019/2090 zuständige Behörde über die ihr bekannten Tatsachen.
 
-2. überprüfen alle von der ersuchenden Behörde eines anderen Mitgliedstaates mitgeteilten Sachverhalte, teilen ihr das Ergebnis der Prüfung mit und unterrichten das Bundesministerium darüber.
+(6) Die für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden
 
-(5) Hat die nach § 39 Absatz 1 Satz 1 für die Einhaltung der Vorschriften über den Verkehr mit Futtermitteln zuständige Behörde Grund zu der Annahme, dass Futtermittel, die geeignet sind, die von Nutztieren gewonnenen Erzeugnisse im Hinblick auf ihre Unbedenklichkeit für die menschliche Gesundheit zu beeinträchtigen, verfüttert worden sind, so unterrichtet sie die für die Durchführung des § 41 zuständige Behörde über die ihr bekannten Tatsachen.
+1. erteilen der zuständigen Behörde eines anderen Mitgliedstaates auf begründetes Ersuchen Auskünfte und übermitteln die erforderlichen Urkunden und Schriftstücke, damit die zuständige Behörde des anderen Mitgliedstaates überwachen kann, ob die Vorschriften, die für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte gelten, eingehalten werden,
 
-(6) Die zuständigen Behörden teilen den zuständigen Behörden eines anderen Mitgliedstaates alle Tatsachen und Sachverhalte mit, die für die Überwachung der Einhaltung der für Erzeugnisse und mit Lebensmitteln verwechselbare Produkte geltenden Vorschriften in diesem Mitgliedstaat erforderlich sind, insbesondere bei Zuwiderhandlungen und bei Verdacht auf Zuwiderhandlungen gegen für Erzeugnisse und mit Lebensmitteln verwechselbare Produkte geltende Vorschriften.
+2. überprüfen alle von der ersuchenden Behörde eines anderen Mitgliedstaates mitgeteilten Sachverhalte, teilen ihr das Ergebnis der Prüfung mit und unterrichten das Bundesministerium darüber,
+
+3. teilen den zuständigen Behörden eines anderen Mitgliedstaates alle Tatsachen und Sachverhalte mit, die für die Überwachung der Einhaltung der für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte geltenden Vorschriften in diesem Mitgliedstaat erforderlich sind, insbesondere bei Zuwiderhandlungen und bei Verdacht auf Zuwiderhandlungen gegen für diese Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte geltende Vorschriften.
 
 (7) Die zuständigen Behörden können, soweit dies zur Einhaltung der Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung gewonnen haben, anderen zuständigen Behörden desselben Landes, den zuständigen Behörden anderer Länder, des Bundes oder anderer Mitgliedstaaten oder der Europäischen Kommission mitteilen.
 
@@ -979,53 +961,45 @@ den zuständigen Behörden der Länder auf deren Anforderung die ihm aus der Beo
 
 3. die betroffenen Erzeugnisse oder mit Lebensmitteln verwechselbare Produkte.
 
-(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und die Stelle im Sinne des Absatzes 1 Satz 3 haben die ihnen übermittelten Daten unverzüglich nach der Weiterleitung an die zuständigen Behörden zu löschen. Die zuständigen Behörden haben die Daten zu löschen, soweit sie nicht mehr erforderlich sind, spätestens jedoch mit Ablauf des dritten Jahres nach der Übermittlung an sie. Die Frist des Satzes 2 gilt nicht, wenn wegen eines anhängigen Bußgeldverfahrens, staatsanwaltlichen Ermittlungsverfahrens oder gerichtlichen Verfahrens eine längere Aufbewahrung erforderlich ist; in diesem Falle sind die Daten mit rechtskräftigem Abschluss des Verfahrens zu löschen.
+(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat die ihm übermittelten Daten unverzüglich nach der Weiterleitung an die zuständigen Behörden zu löschen. Die zuständigen Behörden und die Stelle im Sinne des Absatzes 1 Satz 3 haben die Daten zu löschen, soweit sie nicht mehr erforderlich sind, spätestens jedoch mit Ablauf des dritten Jahres nach der Übermittlung an sie. Die Frist des Satzes 2 gilt nicht, wenn wegen eines anhängigen Bußgeldverfahrens, staatsanwaltlichen Ermittlungsverfahrens oder gerichtlichen Verfahrens eine längere Aufbewahrung erforderlich ist; in diesem Falle sind die Daten mit rechtskräftigem Abschluss des Verfahrens zu löschen.
 
 (4) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Verfahrens der Datenübermittlung zu regeln.
 
-# § 39 – Aufgabe und Maßnahmen der zuständigen Behörden
+# § 38b – Unterrichtung von Telemediendiensteanbietern
 
-(1) Die Überwachung der Einhaltung der Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes über Erzeugnisse und lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 ist Aufgabe der zuständigen Behörden. Dazu haben sie sich durch regelmäßige Überprüfungen und Probennahmen davon zu überzeugen, dass die Vorschriften eingehalten werden.
+(1) Erfolgt zu einem Erzeugnis, das im Inland in den Verkehr gebracht worden ist, eine Meldung
 
-(2) Die zuständigen Behörden treffen die notwendigen Anordnungen und Maßnahmen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur Beseitigung festgestellter Verstöße oder zur Verhütung künftiger Verstöße sowie zum Schutz vor Gefahren für die Gesundheit oder vor Täuschung erforderlich sind. Sie können insbesondere
+1. nach Artikel 50 der Verordnung (EG) Nr. 178/2002 oder
 
-1. anordnen, dass derjenige, der ein Erzeugnis hergestellt, behandelt oder in den Verkehr gebracht hat oder dies beabsichtigt,
+2. nach Artikel 11 oder 12 der Richtlinie 2001/95/EG des Europäischen Parlaments und des Rates vom 3. Dezember 2001 über die allgemeine Produktsicherheit (ABl. L 11 vom 15.1.2002, S. 4), die zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist,
 
-a) eine Prüfung durchführt oder durchführen lässt und das Ergebnis der Prüfung mitteilt,
+so kann die zuständige Behörde denjenigen Diensteanbietern nach § 2 Satz 1 Nummer 1 des Telemediengesetzes vom 26. Februar 2007 (BGBl. I S. 179), das zuletzt durch Artikel 2 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1436) geändert worden ist, deren Dienste für den Vertrieb des Erzeugnisses genutzt werden, die zur Identifizierung des Erzeugnisses sowie des Herstellers oder Inverkehrbringers erforderlichen Informationen sowie den Grund der Meldung übermitteln.
 
-b) ihr den Eingang eines Erzeugnisses anzeigt,
+(2) Zuständige Behörde nach Absatz 1 ist die Behörde, in deren Bezirk der Diensteanbieter nach § 2a des Telemediengesetzes seinen Sitz hat. Hat der Diensteanbieter keinen Sitz im Inland, so ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zuständige Behörde.
 
-wenn Grund zu der Annahme besteht, dass das Erzeugnis den Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes nicht entspricht,
+(3) Bevor die zuständige Behörde Angaben nach Absatz 1 übermittelt, hat sie den Hersteller oder Inverkehrbringer anzuhören. Satz 1 gilt nicht, sofern hierdurch die Erreichung des mit der Maßnahme verfolgten Zwecks gefährdet wird.
 
-2. vorübergehend verbieten, dass ein Erzeugnis in den Verkehr gebracht wird, bis das Ergebnis einer entnommenen Probe oder einer nach Nummer 1 angeordneten Prüfung vorliegt,
+(4) Die Länder können für die Zwecke des Absatzes 1 eine gemeinsame Stelle einrichten.
 
-3. das Herstellen, Behandeln oder das Inverkehrbringen von Erzeugnissen verbieten oder beschränken,
+# § 39 – Maßnahmen der für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden
 
-4. eine Maßnahme überwachen oder, falls erforderlich, anordnen, mit der verhindert werden soll, dass ein Erzeugnis, das den Verbraucher noch nicht erreicht hat, auch durch andere Wirtschaftsbeteiligte weiter in den Verkehr gebracht wird (Rücknahme), oder die auf die Rückgabe eines in den Verkehr gebrachten Erzeugnisses abzielt, das den Verbraucher oder den Verwender bereits erreicht hat oder erreicht haben könnte (Rückruf),
+(1) Die für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden treffen die Maßnahmen, die nach den Artikeln 137 und 138 der Verordnung (EU) 2017/625 erforderlich sind zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes.
 
-5. Erzeugnisse, auch vorläufig, sicherstellen und, soweit dies zum Erreichen der in § 1 Absatz 1 Nummer 1 oder 4 Buchstabe a Doppelbuchstabe aa oder Absatz 2, stets jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, die unschädliche Beseitigung der Erzeugnisse veranlassen,
+(2) Unbeschadet des Artikels 137 Absatz 2 und 3 der Verordnung (EU) 2017/625 können die für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes
 
-6. das Verbringen von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, in das Inland im Einzelfall vorübergehend verbieten oder beschränken, wenn
+1. anordnen, dass derjenige, der ein in Absatz 1 genanntes Erzeugnis hergestellt, behandelt oder in den Verkehr gebracht hat oder dies beabsichtigt,
 
-a) die Bundesrepublik Deutschland von der Kommission hierzu ermächtigt worden ist und dies das Bundesministerium im Bundesanzeiger bekannt gemacht hat oder
+a) eine Prüfung durchführt oder durchführen lässt und das Ergebnis der Prüfung der zuständigen Behörde mitteilt und
 
-b) Tatsachen vorliegen, die darauf schließen lassen, dass die Erzeugnisse oder lebenden Tiere ein Risiko für die Gesundheit von Mensch oder Tier mit sich bringen,
+b) der zuständigen Behörde den Eingang eines solchen Erzeugnisses anzeigt,
 
-7. anordnen, dass diejenigen, die einer von einem in Verkehr gebrachten Erzeugnis ausgehenden Gefahr ausgesetzt sein können, rechtzeitig in geeigneter Form auf diese Gefahr hingewiesen werden,
+wenn Grund zu der Annahme besteht, dass dieses Erzeugnis den Vorschriften nach Absatz 1 nicht entspricht, oder
 
-8. Anordnungen zur Durchsetzung der Pflicht des Lebensmittelunternehmers zur Unterrichtung der Verbraucher nach Artikel 19 der Verordnung (EG) Nr. 178/2002 und der Pflicht des Futtermittelunternehmers zur Unterrichtung der Verwender nach Artikel 20 der Verordnung (EG) Nr. 178/2002 treffen und
+2. vorübergehend verbieten, dass ein in Absatz 1 genanntes Erzeugnis in den Verkehr gebracht wird, bis das Ergebnis einer entnommenen Probe oder einer nach Nummer 1 angeordneten Prüfung vorliegt.
 
-9. die Öffentlichkeit nach Maßgabe von § 40 informieren.
+(3) Maßnahmen im Sinne von Artikel 138 Absatz 2 Buchstabe d und g der Verordnung (EU) 2017/625 können entsprechend auch in Bezug auf das Verfüttern eines Futtermittels ergehen.
 
-Artikel 54 Absatz 1 und 2 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S. 29), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, über Maßnahmen im Fall eines Verstoßes bleibt unberührt.
-
-(3) Eine Anordnung nach
-
-1. Absatz 2 Satz 2 Nummer 3 und 5 kann auch in Bezug auf das Verwenden eines zugelassenen Erzeugnisses ergehen, soweit dies erforderlich ist, um eine unmittelbare drohende Gefahr für die Gesundheit des Menschen abzuwehren; die Anordnung ist zu befristen, bis über die weitere Zulassung des betroffenen Erzeugnisses von der zuständigen Stelle entschieden ist,
-
-2. Absatz 2 Satz 2 Nummer 1 bis 3 und 5 kann auch in Bezug auf das Verfüttern eines Futtermittels ergehen.
-
-(4) Die Absätze 1 und 2 Satz 1 und 2 sowie § 40 gelten für mit Lebensmitteln verwechselbare Produkte entsprechend.
+(4) Maßnahmen im Sinne von Artikel 138 Absatz 2 können entsprechend auch zur Verhütung eines künftigen Verstoßes sowie zum Schutz vor Gefahren für die Gesundheit oder vor Täuschung ergehen.
 
 (5) Zum Zweck der Verringerung oder Beseitigung der Ursachen für einen gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, führen die zuständigen Behörden, wenn eine Überschreitung von durch Rechtsverordnung nach § 13 Absatz 1 Nummer 7 oder § 13 Absatz 5 Satz 1 Nummer 2 festgesetzten Auslösewerten festgestellt wird, Untersuchungen mit dem Ziel durch, die Ursachen für das Vorhandensein des gesundheitlich nicht erwünschten Stoffs zu ermitteln. Soweit es erforderlich ist, kann die zuständige Behörde die zur Verringerung oder Beseitigung der Ursachen für das Vorhandensein des gesundheitlich nicht erwünschten Stoffs erforderlichen Maßnahmen anordnen. Dabei kann sie auch anordnen, dass der Wirtschaftsbeteiligte selbst eine Untersuchung durchführt oder durchführen lässt und das Ergebnis der Untersuchung mitteilt. Die zuständigen Behörden informieren das Bundesministerium, im Fall einer Rechtsverordnung nach § 13 Absatz 5 Satz 1 Nummer 2 auch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, oder im Fall einer Rechtsverordnung nach § 72 Satz 2 das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unverzüglich über ermittelte Ursachen für das Vorhandensein des gesundheitlich nicht erwünschten Stoffs und die zur Verringerung oder Beseitigung dieser Ursachen angeordneten Maßnahmen zum Zweck der Information der Kommission und der anderen Mitgliedstaaten.
 
@@ -1035,57 +1009,105 @@ Artikel 54 Absatz 1 und 2 der Verordnung (EG) Nr. 882/2004 des Europäischen Par
 
 1. Artikel 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002,
 
-2. Artikel 15 Absatz 1 in Verbindung mit Absatz 2 erster Anstrich der Verordnung (EG) Nr. 178/2002 oder
+2. Artikel 15 Absatz 1 in Verbindung mit Absatz 2 erster Anstrich der Verordnung (EG) Nr. 178/2002,
 
-3. § 5, § 17 Absatz 1 Satz 1 Nummer 1, § 26 oder § 30
+3. Artikel 4 Absatz 4 Buchstabe b erster oder zweiter Spiegelstrich der Delegierten Verordnung (EU) 2019/2090 oder
+
+4. § 5 Absatz 1 Satz 1 oder Absatz 2 oder § 17 Absatz 1 Satz 1 Nummer 1
 
 dienen, haben keine aufschiebende Wirkung.
 
-(7a) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 2 bis 4 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung oder Maßnahme getroffen werden kann, anwendbar.
+(7a) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 1 bis 4 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung oder Maßnahme getroffen werden kann, anwendbar.
 
-(8) Das Bundesministerium wird ermächtigt, abweichend von Absatz 1 Satz 1 durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es mit den in § 1 Absatz 1 Nummer 1 und Absatz 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecken vereinbar ist, zu bestimmen, dass die zuständige Behörde im Fall erlegter Wildschweine oder anderer fleischfressender Tiere, die Träger von Trichinen sein können, bei denen keine Merkmale festgestellt werden, die das Fleisch als bedenklich für den Verzehr erscheinen lassen,
+(8) (weggefallen)
 
-1. einem Jagdausübungsberechtigten für seinen Jagdbezirk oder
+# § 39a – Maßnahmen der für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden
 
-2. einem Jäger, dem die Jagd vom Jagdausübungsberechtigten gestattet worden ist,
+(1) Die für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden treffen die notwendigen Anordnungen und Maßnahmen, die erforderlich sind
 
-in dessen Person die Voraussetzungen des Artikels 1 Absatz 3 Buchstabe a oder Buchstabe e der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15, L 66 vom 11.3.2015, S. 22), die zuletzt durch die Verordnung (EU) 2016/355 (ABl. L 67 vom 12.3.2016, S. 22) geändert worden ist, vorliegen, die Entnahme von Proben zur Untersuchung auf Trichinen und die Kennzeichnung übertragen kann. In der Rechtsverordnung nach Satz 1 sind die Voraussetzungen und das Verfahren für die Übertragung und die Überwachung der Einhaltung der Vorschriften zu regeln.
+1. zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes gegen Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes,
+
+2. zur Beseitigung festgestellter Verstöße,
+
+3. zur Verhütung künftiger Verstöße oder
+
+4. zum Schutz vor Gefahren für die Gesundheit oder vor Täuschung.
+
+Die zuständigen Behörden können insbesondere
+
+1. anordnen, dass derjenige, der ein in Satz 1 genanntes Erzeugnis hergestellt, behandelt oder in den Verkehr gebracht hat oder dies beabsichtigt,
+
+a) eine Prüfung durchführt oder durchführen lässt und das Ergebnis der Prüfung der zuständigen Behörde mitteilt,
+
+b) der zuständigen Behörde den Eingang eines solchen Erzeugnisses anzeigt,
+
+wenn Grund zu der Annahme besteht, dass ein solches Erzeugnis den Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes nicht entspricht,
+
+2. vorübergehend verbieten, dass ein in Satz 1 genanntes Erzeugnis in den Verkehr gebracht wird, bis das Ergebnis einer entnommenen Probe oder einer nach Nummer 1 angeordneten Prüfung vorliegt,
+
+3. das Herstellen, Behandeln oder das Inverkehrbringen von in Satz 1 genannten Erzeugnissen verbieten oder beschränken,
+
+4. eine Maßnahme überwachen oder, falls erforderlich, anordnen,
+
+a) mit der verhindert werden soll, dass ein in Satz 1 genanntes Erzeugnis, das den Endverbraucher noch nicht erreicht hat, auch durch andere Wirtschaftsbeteiligte weiter in den Verkehr gebracht wird (Rücknahme), oder
+
+b) die auf die Rückgabe eines in den Verkehr gebrachten Erzeugnisses abzielt, das den Endverbraucher oder den Verwender bereits erreicht hat oder erreicht haben könnte (Rückruf),
+
+5. in Satz 1 genannte Erzeugnisse, auch vorläufig, sicherstellen und, soweit dies zum Erreichen der in § 1 Absatz 1 Nummer 1 oder 4 Buchstabe a Doppelbuchstabe aa oder Absatz 2, stets jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, die unschädliche Beseitigung dieser Erzeugnisse veranlassen,
+
+6. das Verbringen von in Satz 1 genannten Erzeugnissen in das Inland im Einzelfall vorübergehend verbieten oder beschränken, wenn
+
+a) die Bundesrepublik Deutschland von der Kommission hierzu ermächtigt worden ist und das Bundesministerium dies im Bundesanzeiger bekannt gemacht hat oder
+
+b) Tatsachen vorliegen, die darauf schließen lassen, dass diese Erzeugnisse ein Risiko für die Gesundheit von Mensch oder Tier mit sich bringen,
+
+7. anordnen, dass diejenigen, die einer Gefahr, die von einem in Verkehr gebrachten Erzeugnis nach Satz 1 ausgeht, ausgesetzt sein können, rechtzeitig in geeigneter Form auf diese Gefahr hingewiesen werden und
+
+8. die Öffentlichkeit nach Maßgabe von § 40 informieren.
+
+Die Artikel 25 bis 27 der Verordnung (EU) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, bleiben unberührt.
+
+(2) Absatz 1 und § 40 gelten für mit Lebensmitteln verwechselbare Produkte entsprechend.
+
+(3) Widerspruch und Anfechtungsklage gegen Anordnungen, die der Durchführung von Verboten nach § 26 Satz 1 oder § 30 oder Geboten nach Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EU) Nr. 1223/2009 dienen, haben keine aufschiebende Wirkung.
+
+(4) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 1 und 2 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung getroffen werden kann, anwendbar.
 
 # § 40 – Information der Öffentlichkeit
 
 (1) Die zuständige Behörde soll die Öffentlichkeit unter Nennung der Bezeichnung des Lebensmittels oder Futtermittels und des Lebensmittel- oder Futtermittelunternehmens, unter dessen Namen oder Firma das Lebensmittel oder Futtermittel hergestellt oder behandelt wurde oder in den Verkehr gelangt ist, und, wenn dies zur Gefahrenabwehr geeigneter ist, auch unter Nennung des Inverkehrbringers, nach Maßgabe des Artikels 10 der Verordnung (EG) Nr. 178/2002 informieren. Eine Information der Öffentlichkeit in der in Satz 1 genannten Art und Weise soll vorbehaltlich des Absatzes 1a auch erfolgen, wenn
 
-1. der hinreichende Verdacht besteht, dass ein kosmetisches Mittel oder ein Bedarfsgegenstand ein Risiko für die menschliche Gesundheit mit sich bringen kann,
+1. der hinreichende Verdacht besteht, dass ein Mittel zum Tätowieren, ein kosmetisches Mittel oder ein Bedarfsgegenstand ein Risiko für die menschliche Gesundheit mit sich bringen kann,
 
-2. der hinreichende Verdacht besteht, dass gegen Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsgefährdungen dienen, verstoßen wurde,
+2. der hinreichende Verdacht besteht, dass gegen Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Endverbraucher vor Gesundheitsgefährdungen dienen, verstoßen wurde,
 
 3. im Einzelfall hinreichende Anhaltspunkte dafür vorliegen, dass von einem Erzeugnis eine Gefährdung für die Sicherheit und Gesundheit ausgeht oder ausgegangen ist und aufgrund unzureichender wissenschaftlicher Erkenntnis oder aus sonstigen Gründen die Unsicherheit nicht innerhalb der gebotenen Zeit behoben werden kann,
 
 4. ein nicht gesundheitsschädliches, aber zum Verzehr ungeeignetes, insbesondere ekelerregendes Lebensmittel in nicht unerheblicher Menge in den Verkehr gelangt oder gelangt ist oder wenn ein solches Lebensmittel wegen seiner Eigenart zwar nur in geringen Mengen, aber über einen längeren Zeitraum in den Verkehr gelangt ist,
 
-4a. der durch Tatsachen hinreichend begründete Verdacht besteht, dass gegen Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Verbraucherinnen und Verbraucher vor Täuschung dienen, in nicht nur unerheblichem Ausmaß verstoßen wurde,
+4a. der durch Tatsachen hinreichend begründete Verdacht besteht, dass gegen Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Endverbraucher vor Täuschung dienen, in nicht nur unerheblichem Ausmaß verstoßen wurde,
 
 5. Umstände des Einzelfalles die Annahme begründen, dass ohne namentliche Nennung des zu beanstandenden Erzeugnisses und erforderlichenfalls des Wirtschaftsbeteiligten oder des Inverkehrbringers, unter dessen Namen oder Firma das Erzeugnis hergestellt oder behandelt wurde oder in den Verkehr gelangt ist, erhebliche Nachteile für die Hersteller oder Vertreiber gleichartiger oder ähnlicher Erzeugnisse nicht vermieden werden können.
 
 In den Fällen des Satzes 2 Nummer 3 bis 5 ist eine Information der Öffentlichkeit zulässig nach Abwägung der Belange der Betroffenen mit den Interessen der Öffentlichkeit an der Veröffentlichung.
 
-(1a) Die zuständige Behörde informiert die Öffentlichkeit unverzüglich unter Nennung der Bezeichnung des Lebensmittels oder Futtermittels sowie unter Nennung des Lebensmittel- oder Futtermittelunternehmens, unter dessen Namen oder Firma das Lebensmittel oder Futtermittel hergestellt oder behandelt oder in den Verkehr gelangt ist, wenn der durch Tatsachen, im Falle von Proben nach § 39 Absatz 1 Satz 2 auf der Grundlage von mindestens zwei Untersuchungen durch eine Stelle nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 882/2004, hinreichend begründete Verdacht besteht, dass
+(1a) Die zuständige Behörde informiert die Öffentlichkeit unverzüglich unter Nennung der Bezeichnung des Lebensmittels oder Futtermittels sowie unter Nennung des Lebensmittel- oder Futtermittelunternehmens, unter dessen Namen oder Firma das Lebensmittel oder Futtermittel hergestellt oder behandelt oder in den Verkehr gelangt ist, wenn der durch Tatsachen, im Falle von Proben nach § 38 Absatz 2a Satz 2 auf der Grundlage von mindestens zwei Untersuchungen durch eine Stelle nach Artikel 37 Absatz 4 Buchstabe e der Verordnung (EU) 2017/625, hinreichend begründete Verdacht besteht, dass
 
 1. in Vorschriften im Anwendungsbereich dieses Gesetzes festgelegte zulässige Grenzwerte, Höchstgehalte oder Höchstmengen überschritten wurden oder
 
 2. ein nach Vorschriften im Anwendungsbereich dieses Gesetzes nicht zugelassener oder verbotener Stoff in dem Lebensmittel oder Futtermittel vorhanden ist oder
 
-3. gegen sonstige Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsgefährdungen oder vor Täuschung oder der Einhaltung hygienischer Anforderungen dienen, in nicht nur unerheblichem Ausmaß oder wiederholt verstoßen worden ist und die Verhängung eines Bußgeldes von mindestens dreihundertfünfzig Euro zu erwarten ist.
+3. gegen sonstige Vorschriften im Anwendungsbereich dieses Gesetzes, die dem Schutz der Endverbraucher vor Gesundheitsgefährdungen oder vor Täuschung oder der Einhaltung hygienischer Anforderungen dienen, in nicht nur unerheblichem Ausmaß oder wiederholt verstoßen worden ist und die Verhängung eines Bußgeldes von mindestens dreihundertfünfzig Euro zu erwarten ist oder eine Sanktionierung wegen einer Straftat zu erwarten ist und deswegen gemäß § 41 des Gesetzes über Ordnungswidrigkeiten eine Abgabe an die Staatsanwaltschaft erfolgt ist.
 
-Verstöße gegen bauliche Anforderungen, die keine Gefahr einer nachteiligen Beeinflussung von Lebensmitteln bewirken, sowie Aufzeichnungs- oder Mitteilungspflichten, die keine Gefahr einer nachteiligen Beeinflussung von Lebensmitteln bewirken, bleiben nach Satz 1 Nummer 3 außer Betracht.
+Verstöße gegen bauliche Anforderungen, die keine Gefahr einer nachteiligen Beeinflussung von Lebensmitteln bewirken, sowie Aufzeichnungs- oder Mitteilungspflichten, die keine Gefahr einer nachteiligen Beeinflussung von Lebensmitteln bewirken, bleiben nach Satz 1 Nummer 3 außer Betracht. Bei Verstößen gegen hygienische Anforderungen kann abweichend von Satz 1 in der Information der Name des Lebensmittel- oder Futtermittelunternehmers sowie der Betrieb, in dem der Verstoß festgestellt wurde, genannt werden. Während eines laufenden strafrechtlichen Ermittlungsverfahrens dürfen Informationen nach Satz 1 nur im Benehmen mit der zuständigen Staatsanwaltschaft herausgegeben werden, wenn hierdurch nicht der mit dem Verfahren verfolgte Untersuchungszweck gefährdet wird.
 
-(2) Eine Information der Öffentlichkeit nach Absatz 1 durch die Behörde ist nur zulässig, wenn andere ebenso wirksame Maßnahmen, insbesondere eine Information der Öffentlichkeit durch den Lebensmittel- oder Futtermittelunternehmer oder den Wirtschaftsbeteiligten, nicht oder nicht rechtzeitig getroffen werden oder die Verbraucherinnen und Verbraucher nicht erreichen. Unbeschadet des Satzes 1 kann die Behörde ihrerseits die Öffentlichkeit auf
+(2) Eine Information der Öffentlichkeit nach Absatz 1 durch die Behörde ist nur zulässig, wenn andere ebenso wirksame Maßnahmen, insbesondere eine Information der Öffentlichkeit durch den Lebensmittel- oder Futtermittelunternehmer oder den Wirtschaftsbeteiligten, nicht oder nicht rechtzeitig getroffen werden oder die Endverbraucher nicht erreichen. Unbeschadet des Satzes 1 kann die Behörde ihrerseits die Öffentlichkeit auf
 
 1. eine Information der Öffentlichkeit oder
 
 2. eine Rücknahme- oder Rückrufaktion
 
-durch den Lebensmittel- oder Futtermittelunternehmer oder den sonstigen Wirtschaftsbeteiligten hinweisen. Die Behörde kann unter den Voraussetzungen des Satzes 1 auch auf eine Information der Öffentlichkeit einer anderen Behörde hinweisen, soweit berechtigte Interessen der Verbraucherinnen und Verbraucher in ihrem eigenen Zuständigkeitsbereich berührt sind.
+durch den Lebensmittel- oder Futtermittelunternehmer oder den sonstigen Wirtschaftsbeteiligten hinweisen. Die Behörde kann unter den Voraussetzungen des Satzes 1 auch auf eine Information der Öffentlichkeit einer anderen Behörde hinweisen, soweit berechtigte Interessen der Endverbraucher in ihrem eigenen Zuständigkeitsbereich berührt sind.
 
 (3) Bevor die Behörde die Öffentlichkeit nach den Absätzen 1 und 1a informiert, hat sie den Hersteller oder den Inverkehrbringer anzuhören, sofern hierdurch die Erreichung des mit der Maßnahme verfolgten Zwecks nicht gefährdet wird. Satz 1 gilt nicht in einem Fall des Absatzes 2 Satz 2 oder 3.
 
@@ -1093,51 +1115,23 @@ durch den Lebensmittel- oder Futtermittelunternehmer oder den sonstigen Wirtscha
 
 (4a) Die Information nach Absatz 1a ist einschließlich zusätzlicher Informationen nach Absatz 4 sechs Monate nach der Veröffentlichung zu entfernen.
 
-(5) Abweichend von Absatz 1 ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zuständige Behörde, soweit ein nicht im Inland hergestelltes Erzeugnis erkenntlich nicht im Inland in den Verkehr gebracht worden ist und
+(5) Abweichend von Absatz 1 ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zuständige Behörde, soweit ein nicht im Inland hergestelltes Erzeugnis erkennbar nicht im Inland in den Verkehr gebracht worden ist und
 
-1. ein Fall des Absatzes 1 Satz 1 aufgrund einer Meldung nach Artikel 50 der Verordnung (EG) Nr. 178/2002 eines anderen Mitgliedstaates oder
+1. ein Fall des Absatzes 1 Satz 1 vorliegt aufgrund
 
-2. ein Fall des Absatzes 1 Satz 2 Nummer 1 aufgrund einer sonstigen Mitteilung eines anderen Mitgliedstaates
+a) einer Meldung nach Artikel 50 der Verordnung (EG) Nr. 178/2002 eines anderen Mitgliedstaates oder der Europäischen Kommission oder
 
-vorliegt.
+b) einer sonstigen Mitteilung eines anderen Mitgliedstaates, eines Drittlandes oder einer internationalen Organisation oder
 
-# § 41 – Maßnahmen im Erzeugerbetrieb, Viehhandelsunternehmen und Transportunternehmen
+2. ein Fall des Absatzes 1 Satz 2 Nummer 1 vorliegt aufgrund einer sonstigen Mitteilung eines anderen Mitgliedstaates, der Europäischen Kommission, eines Drittlandes oder einer internationalen Organisation.
 
-(1) Die zuständige Behörde hat zur Durchführung der Richtlinie 96/23/EG in einem Erzeugerbetrieb, Viehhandelsunternehmen oder Transportunternehmen Ermittlungen über die Ursachen für das Vorhandensein von Rückständen pharmakologisch wirksamer Stoffe oder deren Umwandlungsprodukte sowie von anderen Stoffen, die von Tieren auf von ihnen gewonnene Erzeugnisse übergehen und für den Menschen gesundheitlich bedenklich sein können, anzustellen, wenn
+Satz 1 gilt entsprechend, wenn
 
-1. bei lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 in oder aus diesem Betrieb oder Unternehmen oder bei von ihnen gewonnenen Lebensmitteln
+1. ein Erzeugnis, das durch Einsatz von Fernkommunikationsmitteln im Sinne von § 312c Absatz 2 des Bürgerlichen Gesetzbuchs angeboten wird, nicht erkennbar im Inland hergestellt wurde und
 
-a) Stoffe mit pharmakologischer Wirkung, deren Anwendung verboten ist, oder
+2. ein Inverkehrbringer mit Sitz im Inland nicht erkennbar ist.
 
-b) die Anwendung von Stoffen mit pharmakologischer Wirkung für Tiere oder Anwendungsgebiete, für die die Anwendung ausgeschlossen ist,
-
-nachgewiesen oder
-
-2. bei von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 aus diesem Betrieb oder Unternehmen gewonnenen Lebensmitteln, bei denen festgestellt wurde, dass festgesetzte Höchstmengen für Rückstände von Stoffen nach Anhang I der Richtlinie 96/23/EG oder deren Umwandlungsprodukte überschritten
-
-wurden oder Tatsachen zuverlässig hierauf schließen lassen. Die Ermittlungen nach Satz 1 betreffen auch für die in Satz 1 Nummer 1 genannten Tiere bestimmte Futtermittel.
-
-(2) Die zuständige Behörde hat die Abgabe oder Beförderung von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder von ihnen gewonnener Lebensmittel aus dem Betrieb oder Unternehmen zu verbieten, wenn die Voraussetzungen nach Absatz 1 für die dort vorgesehenen Ermittlungen gegeben sind. Abweichend von Satz 1 und § 10 Absatz 2 kann die zuständige Behörde die Abgabe oder Beförderung von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder von ihnen gewonnener Lebensmittel zu einem anderen Betrieb oder Unternehmen mit Zustimmung der für diesen Betrieb oder dieses Unternehmen zuständigen Behörde genehmigen, soweit Belange der vorgesehenen Ermittlungen nicht entgegenstehen und die noch ausstehenden Ermittlungen dort durchgeführt werden können. Die zuständige Behörde hat Anordnungen nach Satz 1 aufzuheben, wenn die Voraussetzungen für sie nicht mehr gegeben sind. Widerspruch und Anfechtungsklage gegen Anordnungen nach Satz 1 haben keine aufschiebende Wirkung.
-
-(3) Die zuständige Behörde hat die Tötung eines lebenden Tieres im Sinne des § 4 Absatz 1 Nummer 1 eines Erzeugerbetriebes, Viehhandelsunternehmens oder Transportunternehmens und dessen unschädliche Beseitigung anzuordnen, bei dem auf der Grundlage einer Untersuchung nachgewiesen worden ist, dass
-
-1. Stoffe, die im Anhang Tabelle 2 der Verordnung (EU) Nr. 37/2010 der Kommission als verbotene Stoffe aufgeführt sind, oder
-
-2. Stoffe, die nach Maßgabe einer aufgrund des § 10 Absatz 4 Nummer 1 Buchstabe b zur Umsetzung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erlassenen Rechtsverordnung lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 nicht oder nur zu bestimmten Zwecken zugeführt werden dürfen, nachweislich entgegen den Vorschriften dieser Rechtsverordnung, sofern dort jeweils ausdrücklich auf die Umsetzung verwiesen wird,
-
-angewendet worden sind.
-
-(4) Sind die in Absatz 3 genannten Stoffe bei dem Tier, nicht aber deren Anwendung nachgewiesen worden, hat die zuständige Behörde das Verbot nach Absatz 2 Satz 1 aufrechtzuerhalten. Abweichend von Satz 1 und § 10 Absatz 2 kann die zuständige Behörde die Abgabe oder Beförderung von lebenden Tieren vorbehaltlich des Satzes 3 nach Zustimmung der für den Betrieb oder das Unternehmen des Empfängers zuständigen Behörde genehmigen. Die zuständige Behörde darf die Abgabe oder Beförderung von Tieren zu einem Schlachtbetrieb nur im Fall des Nachweises von Stoffen nach Absatz 3 Nummer 1 und nur unter der Voraussetzung genehmigen, dass
-
-1. eine Gefährdung der Gesundheit des Menschen durch Rückstände ausgeschlossen ist oder
-
-2. der Verfügungsberechtigte durch Untersuchung jedes einzelnen Tieres nachweist, dass keine Rückstände von Stoffen mehr vorliegen, deren Anwendung verboten ist.
-
-(5) Die zuständige Behörde hat im Fall einer Anordnung nach Absatz 3 vor deren Vollzug eine Untersuchung auf Rückstände bei einer statistisch repräsentativen Zahl von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 des in Absatz 3 genannten Betriebes oder Unternehmens durchzuführen, bei denen Stoffe mit pharmakologischer Wirkung im Sinne des Absatzes 3 angewendet worden sein könnten. Die Inhaberin oder der Inhaber des Betriebes oder Unternehmens hat die Maßnahmen nach Satz 1 zu dulden. Die Auswahl der Tiere hat nach international anerkannten wissenschaftlichen Grundsätzen zu erfolgen.
-
-(6) Die zuständige Behörde hat die Tötung aller Tiere im Sinne des § 4 Absatz 1 Nummer 1 des in Absatz 3 genannten Betriebes oder Unternehmens, bei denen Stoffe mit pharmakologischer Wirkung im Sinne des Absatzes 3 angewendet worden sein könnten, und deren unschädliche Beseitigung anzuordnen, wenn diese Anwendung bei mindestens der Hälfte der nach Absatz 5 Satz 1 untersuchten Tiere nachgewiesen wurde. Satz 1 gilt nicht, wenn der Verfügungsberechtigte sich unverzüglich für die Untersuchung jedes einzelnen Tieres in einem Labor, das die Anforderungen nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 882/2004 erfüllt, entscheidet. Bei Vorliegen einer Entscheidung nach Satz 2 hat die zuständige Behörde die Tötung und unschädliche Beseitigung der Tiere anzuordnen, bei denen bei der Untersuchung Stoffe mit pharmakologischer Wirkung im Sinne von Absatz 3 nachgewiesen wurden.
-
-(7) Derjenige, bei dem die Maßnahmen nach den Absätzen 3 und 6 durchgeführt worden sind, hat die Kosten der Tötung und unschädlichen Beseitigung der Tiere zu tragen.
+# § 41 – (weggefallen)
 
 # § 42 – Durchführung der Überwachung
 
@@ -1147,11 +1141,13 @@ angewendet worden sind.
 
 2. vorzuschreiben, dass abweichend von Satz 1 bestimmte Überwachungsmaßnahmen von sachkundigen Personen durchgeführt werden können,
 
-3. Vorschriften über die
+3. Vorschriften zu erlassen über
 
-a) Anforderungen an die Sachkunde zu erlassen, die an die in Nummer 1 genannte wissenschaftlich ausgebildete Person und die in Nummer 2 genannten sachkundigen Personen,
+a) die Anforderungen an die Sachkunde, die an die in Nummer 1 genannte wissenschaftlich ausgebildete Person und die in Nummer 2 genannten sachkundigen Personen zu stellen sind und
 
-b) fachlichen Anforderungen zu erlassen, die an die in Satz 1 genannten Personen zu stellen sind, sowie das Verfahren des Nachweises der Sachkunde und der fachlichen Anforderungen zu regeln.
+b) die fachlichen Anforderungen, die an die in Satz 1 genannten Personen zu stellen sind,
+
+sowie das Verfahren des Nachweises der Sachkunde und der Erfüllung der fachlichen Anforderungen zu regeln.
 
 Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach Satz 2 Nummer 3 zu erlassen, soweit das Bundesministerium von seiner Befugnis keinen Gebrauch macht. Die Landesregierungen sind befugt, die Ermächtigung durch Rechtsverordnung auf andere Behörden zu übertragen.
 
@@ -1169,9 +1165,11 @@ sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder 
 
 2. zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung
 
-a) die in Nummer 1 bezeichneten Grundstücke, Betriebsräume und Räume auch außerhalb der dort genannten Zeiten,
+a) die in Nummer 1 bezeichneten Grundstücke, Betriebsräume und Räume auch außerhalb der dort genannten Zeiten zu betreten,
 
-b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt;
+b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten;
+
+das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt;
 
 3. alle geschäftlichen Schrift- und Datenträger, insbesondere Aufzeichnungen, Frachtbriefe, Herstellungsbeschreibungen und Unterlagen über die bei der Herstellung verwendeten Stoffe, einzusehen und hieraus Abschriften, Auszüge, Ausdrucke oder sonstige Vervielfältigungen, auch von Datenträgern, anzufertigen oder Ausdrucke von elektronisch gespeicherten Daten zu verlangen sowie Mittel, Einrichtungen und Geräte zur Beförderung von Erzeugnissen oder lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 zu besichtigen;
 
@@ -1179,7 +1177,7 @@ b) Wohnräume der nach Nummer 5 zur Auskunft Verpflichteten zu betreten; das Gru
 
 5. von natürlichen und juristischen Personen und nicht rechtsfähigen Personenvereinigungen alle erforderlichen Auskünfte, insbesondere solche über die Herstellung, das Behandeln, die zur Verarbeitung gelangenden Stoffe und deren Herkunft, das Inverkehrbringen und das Verfüttern zu verlangen;
 
-6. entsprechend § 43 Proben zu fordern oder zu entnehmen.
+6. entsprechend § 43 oder § 43a Proben zu fordern oder zu entnehmen.
 
 Im Falle des Satzes 1 Nummer 4 dürfen folgende personenbezogene Daten aufgenommen oder aufgezeichnet werden, soweit dies zur Sicherung von Beweisen erforderlich ist:
 
@@ -1215,7 +1213,7 @@ zur Verfügung. Die Angaben nach Satz 2 sind um die Proben, Isolate und Nachweis
 
 (4) Soweit es zur Durchführung von Vorschriften, die durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, dieses Gesetz oder durch aufgrund dieses Gesetzes erlassene Rechtsverordnungen geregelt sind, erforderlich ist, sind auch die Sachverständigen der Mitgliedstaaten, der Kommission und der EFTA-Überwachungsbehörde in Begleitung der mit der Überwachung beauftragten Personen berechtigt, Befugnisse nach Absatz 2 Nummer 1, 3, 4 und 5 wahrzunehmen und Proben nach Maßgabe des § 43 Absatz 1 Satz 1 und Absatz 4 zu entnehmen. Die Befugnisse nach Absatz 2 Nummer 1, 3 und 4 gelten auch für diejenigen, die sich in der Ausbildung zu einer die Überwachung durchführenden Person befinden.
 
-(5) Die Zollstellen können den Verdacht von Verstößen gegen Verbote und Beschränkungen dieses Gesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen, der sich bei der Durchführung des Alkoholsteuergesetzes ergibt, den zuständigen Verwaltungsbehörden mitteilen.
+(5) Die Zollbehörden können den Verdacht von Verstößen gegen Verbote und Beschränkungen dieses Gesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen, der sich bei der Durchführung des Alkoholsteuergesetzes ergibt, den zuständigen Verwaltungsbehörden mitteilen.
 
 (6) Die Staatsanwaltschaft hat die nach § 38 Absatz 1 Satz 1 zuständige Behörde unverzüglich über die Einleitung des Strafverfahrens, soweit es sich auf Verstöße gegen Verbote und Beschränkungen dieses Gesetzes, der nach diesem Gesetz erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes bezieht, unter Angabe der Rechtsvorschriften zu unterrichten. Satz 1 gilt nicht, wenn das Verfahren aufgrund einer Abgabe der Verwaltungsbehörde nach § 41 Absatz 1 des Gesetzes über Ordnungswidrigkeiten eingeleitet worden ist. Eine Übermittlung personenbezogener Daten nach Satz 1 unterbleibt, wenn ihr besondere bundesgesetzliche oder entsprechende landesgesetzliche Verwendungsregelungen entgegenstehen; eine Übermittlung nach Satz 1 unterbleibt ferner in der Regel, solange und soweit ihr Zwecke des Strafverfahrens entgegenstehen.
 
@@ -1226,19 +1224,33 @@ zur Verfügung. Die Angaben nach Satz 2 sind um die Proben, Isolate und Nachweis
 
 # § 43 – Probenahme
 
-(1) Die mit der Überwachung beauftragten Personen und, bei Gefahr im Verzug, die Beamten der Polizei sind befugt, gegen Empfangsbescheinigung Proben nach ihrer Auswahl zum Zweck der Untersuchung zu fordern oder zu entnehmen. Soweit in unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in Rechtsverordnungen nach diesem Gesetz nichts anderes bestimmt ist, ist ein Teil der Probe oder, sofern die Probe nicht oder ohne Gefährdung des Untersuchungszwecks nicht in Teile von gleicher Beschaffenheit teilbar ist, ein zweites Stück der gleichen Art und, soweit vorhanden aus demselben Los, und von demselben Hersteller wie das als Probe entnommene, zurückzulassen; der Hersteller kann auf die Zurücklassung einer Probe verzichten.
+(1) Die mit der Überwachung beauftragten Personen und, bei Gefahr im Verzug, die Beamten der Polizei sind befugt, gegen Empfangsbescheinigung Proben nach ihrer Auswahl zum Zweck der Untersuchung zu fordern oder zu entnehmen. Soweit in unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in Rechtsverordnungen nach diesem Gesetz nichts anderes bestimmt ist, ist ein Teil der Probe oder, sofern die Probe nicht oder ohne Gefährdung des Untersuchungszwecks nicht in Teile von gleicher Beschaffenheit teilbar ist, ein zweites Stück der gleichen Art und, soweit vorhanden aus demselben Los, und von demselben Hersteller wie das als Probe entnommene, zurückzulassen, um das Recht des Unternehmers auf ein zweites Sachverständigengutachten zu gewährleisten; der Hersteller kann auf die Zurücklassung einer Probe verzichten.
 
 (2) Zurückzulassende Proben sind amtlich zu verschließen oder zu versiegeln. Sie sind mit dem Datum der Probenahme und dem Datum des Tages zu versehen, nach dessen Ablauf der Verschluss oder die Versiegelung als aufgehoben gilt.
 
-(3) Derjenige, bei dem die Probe zurückgelassen worden ist und der nicht der Hersteller ist, hat die Probe sachgerecht zu lagern und aufzubewahren und sie auf Verlangen des Herstellers auf dessen Kosten und Gefahr einem vom Hersteller bestimmten, nach lebensmittelrechtlichen Vorschriften zugelassenen privaten Sachverständigen zur Untersuchung auszuhändigen.
+(3) Derjenige, bei dem die Probe zurückgelassen worden ist und der nicht der Hersteller ist, hat die Probe sachgerecht zu lagern und aufzubewahren und sie auf Verlangen des Herstellers auf dessen Kosten und Gefahr dem Hersteller oder einer vom Hersteller beauftragten Person zur anschließenden Untersuchung durch einen nach lebensmittelrechtlichen Vorschriften zugelassenen privaten Sachverständigen auszuhändigen.
 
 (4) Für Proben, die im Rahmen der amtlichen Überwachung nach diesem Gesetz entnommen werden, wird grundsätzlich keine Entschädigung geleistet. Im Einzelfall ist eine Entschädigung bis zur Höhe des Verkaufspreises zu leisten, wenn andernfalls eine unbillige Härte eintreten würde.
 
 (5) Absatz 1 Satz 2 und die Absätze 2 und 3 gelten nicht für Proben von Futtermitteln.
 
+# § 43a – Probenahme bei Erzeugnissen, die unter Verwendung von Fernkommunikationsmitteln angeboten werden
+
+(1) Im Fall von Erzeugnissen, die unter Verwendung von Fernkommunikationsmitteln im Sinne von § 312c Absatz 2 des Bürgerlichen Gesetzbuchs angeboten werden, sind die mit der Überwachung beauftragten Personen befugt, solche Erzeugnisse für eine Probenahme zu bestellen, ohne sich zu erkennen zu geben und ohne ihre behördliche Identität offenzulegen.
+
+(2) Sofern in unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in Rechtsverordnungen nach diesem Gesetz nichts anderes bestimmt ist, ist ein Teil der Probe nach Eingang amtlich zu verschließen oder zu versiegeln, um das Recht des Unternehmers auf ein zweites Sachverständigengutachten zu gewährleisten. Sofern die Probe nicht oder nicht ohne Gefährdung des Untersuchungszwecks in Teile von gleicher Beschaffenheit teilbar ist, ist ein zweites Stück der gleichen Art und nach Möglichkeit aus demselben Los und von demselben Hersteller wie das als Probe bestellte nach Eingang amtlich zu verschließen oder zu versiegeln. § 43 Absatz 2 Satz 2 gilt entsprechend.
+
+(3) Die zuständige Behörde oder die von ihr beauftragte Stelle hat den Unternehmer, bei dem das Erzeugnis bestellt wurde, nach Erhalt der Ware über die Durchführung der Probenahme zu unterrichten. Soweit bekannt, unterrichtet sie auch den Hersteller des Erzeugnisses.
+
+(4) Auf Verlangen des Herstellers und auf dessen Kosten und Gefahr hat die zuständige Behörde oder die von ihr beauftragte Stelle die nach Absatz 2 verschlossene oder versiegelte Probe dem Hersteller oder einer vom Hersteller beauftragten Person zur anschließenden Untersuchung durch einen nach lebensmittelrechtlichen Vorschriften zugelassenen privaten Sachverständigen auszuhändigen.
+
+(5) Der Unternehmer, bei dem das Erzeugnis nach Absatz 1 bestellt wurde, hat der zuständigen Behörde auf deren Verlangen den Kaufpreis sowie angefallene Versandkosten zu erstatten.
+
+(6) Die Absätze 2, 3 Satz 2 und Absatz 4 gelten nicht für Proben von Futtermitteln.
+
 # § 44 – Duldungs-, Mitwirkungs- und Übermittlungspflichten
 
-(1) Die Inhaberinnen oder Inhaber der in § 42 Absatz 2 bezeichneten Grundstücke, Räume, Einrichtungen und Geräte und die von ihnen bestellten Vertreter sind verpflichtet, die Maßnahmen nach den §§ 41 bis 43 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgabe zu unterstützen, insbesondere ihnen auf Verlangen
+(1) Die Inhaberinnen oder Inhaber der in § 42 Absatz 2 bezeichneten Grundstücke, Räume, Einrichtungen und Geräte und die von ihnen bestellten Vertreter sind verpflichtet, die Maßnahmen nach den §§ 42 bis 43a sowie der Delegierten Verordnung (EU) 2019/2090 zu dulden und die in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgabe zu unterstützen, insbesondere ihnen auf Verlangen
 
 1. die Räume und Geräte zu bezeichnen,
 
@@ -1312,9 +1324,15 @@ genannten Zwecke verwendet werden.
 
 # § 44a – Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen
 
-(1) Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist verpflichtet, unter Angabe seines Namens und seiner Anschrift ihm vorliegende Untersuchungsergebnisse über Gehalte an gesundheitlich nicht erwünschten Stoffen wie Pflanzenschutzmitteln, Stoffen mit pharmakologischer Wirkung, Schwermetallen, Mykotoxinen und Mikroorganismen in und auf Lebensmitteln oder Futtermitteln nach näherer Bestimmung einer Rechtsverordnung nach Absatz 3 den zuständigen Behörden mitzuteilen, sofern sich eine solche Verpflichtung nicht bereits aus anderen Rechtsvorschriften ergibt. Eine Mitteilung nach Satz 1 darf nicht zur strafrechtlichen Verfolgung des Mitteilenden oder für ein Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den Mitteilenden verwendet werden.
+(1) Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist verpflichtet, unter Angabe seines Namens und seiner Anschrift ihm vorliegende Untersuchungsergebnisse über Gehalte an gesundheitlich nicht erwünschten Stoffen wie Pflanzenschutzmitteln, Stoffen mit pharmakologischer Wirkung, Schwermetallen, Mykotoxinen und Mikroorganismen in und auf Lebensmitteln oder Futtermitteln nach näherer Bestimmung einer Rechtsverordnung nach Absatz 3 den zuständigen Behörden mitzuteilen, sofern sich eine solche Verpflichtung nicht bereits aus anderen Rechtsvorschriften ergibt. Nicht nach Satz 1 mitzuteilen sind Untersuchungsergebnisse,
 
-(2) Die zuständigen Behörden der Länder übermitteln nach näherer Bestimmung einer Rechtsverordnung nach Absatz 3 in anonymisierter Form die ihnen vorliegenden Untersuchungsergebnisse über Gehalte an gesundheitlich nicht erwünschten Stoffen in oder auf Lebensmitteln oder Futtermitteln an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, sofern sich eine solche Verpflichtung nicht bereits aufgrund anderer Rechtsvorschriften ergibt. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erstellt vierteljährlich einen Bericht über Gehalte an gesundheitlich nicht erwünschten Stoffen in oder auf Lebensmitteln oder Futtermitteln.
+1. die aus einer Untersuchung stammen, die der Lebensmittel- oder Futtermittelunternehmer weder selbst durchgeführt noch veranlasst hat, oder
+
+2. die, soweit im Rahmen der Untersuchung der Gehalt eines in Satz 1 genannten Stoffs quantitativ bestimmt werden kann, keinen quantitativ bestimmten Gehalt eines in Satz 1 genannten Stoffs aufweisen, wobei, soweit ein solcher Gehalt einem Summenwert entspricht, kein einziger Beitrag zu diesem Summenwert quantitativ bestimmt worden sein darf.
+
+Nicht als Untersuchung, in deren Rahmen der Gehalt eines in Satz 1 genannten Stoffs quantitativ bestimmt werden kann, ist dabei insbesondere eine Untersuchung anzusehen, die durchgeführt wird mit einem Screening-Verfahren im Sinne des Anhangs V Teil B Kapitel I Nummer 1 Unterabsatz 3 der Verordnung (EG) Nr. 152/2009 der Kommission vom 27. Januar 2009 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Untersuchung von Futtermitteln (ABl. L 54 vom 26.2.2009, S. 1), die zuletzt durch die Verordnung (EU) 2017/771 (ABl. L 115 vom 4.5.2017, S. 22) geändert worden ist, oder des Anhangs I Kapitel I Nummer 1.2 der Verordnung (EU) 2017/644 der Kommission vom 5. April 2017 zur Festlegung der Probenahmeverfahren und Analysemethoden für die Kontrolle der Gehalte an Dioxinen, dioxinähnlichen PCB und nicht dioxinähnlichen PCB in bestimmten Lebensmitteln sowie zur Aufhebung der Verordnung (EU) Nr. 589/2014 (ABl. L 92 vom 6.4.2017, S. 9). Eine Mitteilung nach Satz 1 darf nicht zur strafrechtlichen Verfolgung des Mitteilenden oder für ein Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den Mitteilenden verwendet werden.
+
+(2) Die zuständigen Behörden der Länder übermitteln nach näherer Bestimmung einer Rechtsverordnung nach Absatz 3 in anonymisierter Form die ihnen vorliegenden Untersuchungsergebnisse über Gehalte an gesundheitlich nicht erwünschten Stoffen in oder auf Lebensmitteln oder Futtermitteln an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, sofern sich eine solche Verpflichtung nicht bereits aufgrund anderer Rechtsvorschriften ergibt. Nicht nach Satz 1 zu übermitteln sind Untersuchungsergebnisse, die, soweit im Rahmen der Untersuchung der Gehalt eines in Satz 1 genannten Stoffs quantitativ bestimmt werden kann, keinen quantitativ bestimmten Gehalt eines in Satz 1 genannten Stoffs aufweisen, wobei, soweit ein solcher Gehalt einem Summenwert entspricht, kein einziger Beitrag zu diesem Summenwert quantitativ bestimmt worden sein darf. Nicht als Untersuchung, in deren Rahmen der Gehalt eines in Satz 1 genannten Stoffs quantitativ bestimmt werden kann, ist dabei insbesondere eine Untersuchung anzusehen, die durchgeführt wird mit einem Screening-Verfahren im Sinne des Anhangs V Teil B Kapitel I Nummer 1 Unterabsatz 3 der Verordnung (EG) Nr. 152/2009 oder des Anhangs I Kapitel I Nummer 1.2 der Verordnung (EU) 2017/644. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erstellt vierteljährlich einen Bericht über Gehalte an gesundheitlich nicht erwünschten Stoffen in oder auf Lebensmitteln oder Futtermitteln.
 
 (3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 4 Buchstabe a Doppelbuchstabe aa, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
@@ -1384,7 +1402,7 @@ b) Name und Anschrift der Lieferanten und der Abnehmer der in Buchstabe a genann
 
 5. vorzuschreiben, dass und in welcher Art und Weise Betriebe Rückstellproben zu bilden haben und die Dauer ihrer Aufbewahrung zu regeln,
 
-6. das Inverkehrbringen von bestimmten Erzeugnissen von einer Anzeige abhängig zu machen sowie das Verfahren hierfür zu regeln.
+6. das Herstellen, das Behandeln oder das Inverkehrbringen von bestimmten Erzeugnissen von einer Anzeige abhängig zu machen sowie das Nähere über Art, Inhalt und Verfahren der Anzeige sowie des für die Anzeige Verantwortlichen zu regeln.
 
 In Rechtsverordnungen nach
 
@@ -1398,33 +1416,29 @@ a) Art, Form und Umfang der Nachweise und die Dauer ihrer Aufbewahrung,
 
 b) Art, Form und Umfang der Informationen und zu welchem Zeitpunkt und auf welche Art und Weise diese anderen Betrieben oder den zuständigen Behörden zur Verfügung zu stellen sind,
 
-näher geregelt werden. In Rechtsverordnungen nach Satz 1 Nummer 4 kann bestimmt werden, dass die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
+näher geregelt werden. In Rechtsverordnungen nach Satz 1 Nummer 6 kann bestimmt werden, dass
+
+1. Unternehmen und Betriebe, die bestimmte Erzeugnisse herstellen, behandeln oder in den Verkehr bringen, anzuzeigen sind,
+
+2. die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
 
 # § 47 – Weitere Ermächtigungen
 
-(1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Erfüllung der in § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
-
-1. ergänzend zu § 41 Absatz 2 bis 5 Verbote und Beschränkungen des Inverkehrbringens oder der Beförderung von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder von diesen gewonnenen Lebensmitteln einschließlich der Voraussetzungen dafür zu erlassen,
-
-2. zusätzlich zu den in § 41 Absatz 1 bis 5 aufgeführten Maßnahmen Vorschriften zur Durchführung der Kontrolle im Erzeugerbetrieb, Viehhandels- oder Transportunternehmen bei lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder in von diesen Tieren gewonnenen Lebensmitteln, einschließlich der Kennzeichnung von Tieren, zu erlassen,
-
-3. andere als von § 41 erfasste lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 oder von ihnen gewonnene Lebensmittel den Vorschriften des § 41 Absatz 1 bis 5 zu unterstellen, soweit dies zur Umsetzung gemeinschaftsrechtlicher oder unionsrechtlicher Vorschriften zur Rückstandskontrolle bei lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder bei Lebensmitteln erforderlich ist,
-
-4. das Verfahren der
-
-a) Überwachung von Betrieben oder Unternehmen, die in § 41 Absatz 2 bis 5 genannt sind,
-
-b) der Ursachenermittlung für das Vorhandensein von Rückständen bei Tieren im Sinne des § 4 Absatz 1 Nummer 1 oder in von diesen gewonnenem Fleisch
-
-zu regeln.
-
-(2) Das Bundesministerium wird ferner ermächtigt, um eine einheitliche Durchführung im Hinblick auf die Zulassung von neuartigen Lebensmitteln und neuartigen Lebensmittelzutaten zu fördern, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(1) Das Bundesministerium wird ferner ermächtigt, um eine einheitliche Durchführung im Hinblick auf die Zulassung von neuartigen Lebensmitteln und neuartigen Lebensmittelzutaten zu fördern, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1. das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit oder eine andere Bundesoberbehörde als zuständige Behörde bei Anzeige-, Genehmigungs- oder Zulassungsverfahren von neuartigen Lebensmitteln und Lebensmittelzutaten zu bestimmen sowie
 
 2. das Verfahren, insbesondere die Beteiligung der nach § 38 Absatz 1 zuständigen Behörden sowie die Beteiligung des Bundesinstitutes für Risikobewertung, zu regeln.
 
 Rechtsverordnungen nach Satz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. § 38 Absatz 7 gilt für bei der Durchführung der in Satz 1 genannten Verfahren gewonnene Daten entsprechend.
+
+(2) Das Bundesministerium wird ermächtigt, abweichend von § 38 Absatz 2a Satz 1 durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es mit den in § 1 Absatz 1 Nummer 1 und Absatz 2, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecken vereinbar ist, zu bestimmen, dass die zuständige Behörde im Fall erlegter Wildschweine oder anderer Tierarten die zwar Träger von Trichinen sein können, bei denen jedoch keine Merkmale festgestellt werden, die das Fleisch als bedenklich für den Verzehr erscheinen lassen, die Entnahme von Proben zur Untersuchung auf Trichinen und die Kennzeichnung übertragen kann auf
+
+1. einen Jagdausübungsberechtigten für seinen Jagdbezirk oder
+
+2. einen Jäger, dem die Jagd vom Jagdausübungsberechtigten gestattet worden ist,
+
+sofern die Person nach Nummer 1 oder Nummer 2 die Voraussetzungen des Artikels 1 Absatz 3 Buchstabe a oder Buchstabe e der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55; L 226 vom 25.6.2004, S. 22; L 46 vom 21.2.2008, S. 50; L 119 vom 13.5.2010, S. 26; L 160 vom 12.6.2013, S. 15; L 13 vom 16.1.2019, S. 12), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, erfüllt. In der Rechtsverordnung nach Satz 1 sind die Voraussetzungen und das Verfahren für die Übertragung und die Überwachung der Einhaltung der Vorschriften zu regeln.
 
 # § 48 – Landesrechtliche Bestimmungen
 
@@ -1450,9 +1464,9 @@ ein länderübergreifendes Lagebild erstellen, soweit hinreichender Grund zu der
 
 Daten, die dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit aufgrund einer in Satz 1 genannten Vorschrift übermittelt worden sind oder auf die ihm elektronisch Zugriff gewährt worden ist, dürfen auch für die Erstellung eines Lagebildes oder die Mitwirkung daran verwendet werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hat die Daten unverzüglich dem Bundesministerium zur Verfügung zu stellen.
 
-(4) Die nach § 26 der Viehverkehrsverordnung zuständigen Behörden übermitteln auf Ersuchen der nach § 39 Absatz 1 Satz 1 für die Einhaltung der Vorschriften über Lebensmittel und Futtermittel jeweils zuständigen Behörde die zu deren Aufgabenerfüllung erforderlichen Daten. Die Daten nach Satz 1 können auch durch ein automatisiertes Abrufverfahren übermittelt werden, sofern die beteiligten Stellen gewährleisten, dass das Abrufverfahren kontrolliert werden kann und die technischen und organisatorischen Maßnahmen, die nach der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung erforderlich sind, schriftlich festgelegt sind. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die abrufende Stelle. Die speichernde Stelle prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Die speichernde Stelle hat zu gewährleisten, dass die Übermittlung personenbezogener Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann. Wird ein Gesamtbestand personenbezogener Daten abgerufen oder übermittelt, so bezieht sich die Gewährleistung der Feststellung und Überprüfung nur auf die Zulässigkeit des Abrufs oder der Übermittlung des Gesamtbestandes.
+(4) Die nach § 26 der Viehverkehrsverordnung zuständigen Behörden übermitteln auf Ersuchen der nach § 38 Absatz 2a Satz 1 für die Einhaltung der Vorschriften über Lebensmittel und Futtermittel jeweils zuständigen Behörde die zu deren Aufgabenerfüllung erforderlichen Daten. Die Daten nach Satz 1 können auch durch ein automatisiertes Abrufverfahren übermittelt werden, sofern die beteiligten Stellen gewährleisten, dass das Abrufverfahren kontrolliert werden kann und die technischen und organisatorischen Maßnahmen, die nach der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung erforderlich sind, schriftlich festgelegt sind. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die abrufende Stelle. Die speichernde Stelle prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Die speichernde Stelle hat zu gewährleisten, dass die Übermittlung personenbezogener Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann. Wird ein Gesamtbestand personenbezogener Daten abgerufen oder übermittelt, so bezieht sich die Gewährleistung der Feststellung und Überprüfung nur auf die Zulässigkeit des Abrufs oder der Übermittlung des Gesamtbestandes.
 
-(5) Für die Zwecke des Artikels 15 Absatz 1 Satz 1 der Verordnung (EG) Nr. 882/2004 übermitteln die nach § 55 Absatz 1 Satz 1 zuständigen Zollstellen auf Ersuchen der nach § 39 Absatz 1 Satz 1 zuständigen Behörden diesen die zur Überwachung erforderlichen Daten über das Eintreffen oder den voraussichtlichen Zeitpunkt des Eintreffens eines bestimmten, durch Risikoanalyse der ersuchenden Behörden ermittelten
+(5) Für die Zwecke des Artikels 44 Absatz 1 der Verordnung (EU) 2017/625 übermitteln die nach § 55 Absatz 1 Satz 1 zuständigen Zollbehörden auf Ersuchen der nach § 38 Absatz 2a Satz 1 zuständigen Behörden diesen die zur Überwachung erforderlichen Daten über das Eintreffen oder den voraussichtlichen Zeitpunkt des Eintreffens eines bestimmten, durch Risikoanalyse der ersuchenden Behörden ermittelten
 
 1. Lebensmittels nicht tierischen Ursprungs oder
 
@@ -1476,7 +1490,7 @@ Monitoring ist ein System wiederholter Beobachtungen, Messungen und Bewertungen 
 
 (2) Das Monitoring ist durch fachlich geeignete Personen durchzuführen. Soweit es zur Durchführung des Monitorings erforderlich ist, sind die Behörden nach Absatz 1 befugt, Proben zum Zweck der Untersuchung zu fordern oder zu entnehmen. § 43 Absatz 4 findet Anwendung.
 
-(3) Soweit es zur Durchführung des Monitorings erforderlich ist, sind die mit der Durchführung beauftragten Personen befugt, Grundstücke und Betriebsräume, in oder auf denen Erzeugnisse hergestellt, behandelt oder in den Verkehr gebracht werden, sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder Geschäftszeiten zu betreten. Die Inhaberinnen oder Inhaber der in Satz 1 bezeichneten Grundstücke und Räume und die von ihnen bestellten Vertreter sind verpflichtet, die Maßnahmen nach Satz 1 sowie die Entnahme der Proben zu dulden und die in der Durchführung des Monitorings tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Einrichtungen zu bezeichnen, Räume und Behältnisse zu öffnen und die Entnahme der Proben zu ermöglichen. Die in Satz 2 genannten Personen sind über den Zweck der Entnahme zu unterrichten; abgesehen von Absatz 4 sind sie auch darüber zu unterrichten, dass die Überprüfung der Probe eine anschließende Durchführung der Überwachung nach § 39 Absatz 1 Satz 1 und Absatz 2 und 3 zur Folge haben kann.
+(3) Soweit es zur Durchführung des Monitorings erforderlich ist, sind die mit der Durchführung beauftragten Personen befugt, Grundstücke und Betriebsräume, in oder auf denen Erzeugnisse hergestellt, behandelt oder in den Verkehr gebracht werden, sowie die dazugehörigen Geschäftsräume während der üblichen Betriebs- oder Geschäftszeiten zu betreten. Die Inhaberinnen oder Inhaber der in Satz 1 bezeichneten Grundstücke und Räume und die von ihnen bestellten Vertreter sind verpflichtet, die Maßnahmen nach Satz 1 sowie die Entnahme der Proben zu dulden und die in der Durchführung des Monitorings tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume und Einrichtungen zu bezeichnen, Räume und Behältnisse zu öffnen und die Entnahme der Proben zu ermöglichen. Die in Satz 2 genannten Personen sind über den Zweck der Entnahme zu unterrichten; abgesehen von Absatz 4 sind sie auch darüber zu unterrichten, dass die Überprüfung der Probe eine anschließende Durchführung der Überwachung nach den Artikeln 137 und 138 der Verordnung (EU) 2017/625 sowie nach § 38 Absatz 2a Satz 1, § 39 Absatz 2 und § 39a Absatz 1 Satz 1 zur Folge haben kann.
 
 (4) Proben, die zur Durchführung der Überwachung nach § 39 Absatz 1 Satz 1 und Absatz 2 und 3, und Proben, die zur Durchführung des Monitorings entnommen werden, können jeweils auch für den anderen Zweck verwendet werden. In diesem Fall sind die für beide Maßnahmen geltenden Anforderungen einzuhalten.
 
@@ -1484,7 +1498,7 @@ Monitoring ist ein System wiederholter Beobachtungen, Messungen und Bewertungen 
 
 # § 52 – Erlass von Verwaltungsvorschriften
 
-Die zur Durchführung des Monitorings erforderlichen Vorschriften, insbesondere die Monitoringpläne, werden in Verwaltungsvorschriften geregelt, die im Benehmen mit einem Ausschuss aus Vertretern der Länder vorbereitet werden. Das Bundesministerium beruft die Mitglieder des Ausschusses auf Vorschlag der Länder.
+Die zur Durchführung des Monitorings erforderlichen Vorschriften, insbesondere die Monitoringpläne, werden in Verwaltungsvorschriften geregelt, die im Benehmen mit einem Ausschuss aus Vertretern der Länder vorbereitet werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit beruft die Mitglieder des Ausschusses auf Vorschlag der Länder.
 
 # § 53 – Verbringungsverbote
 
@@ -1494,7 +1508,7 @@ Die zur Durchführung des Monitorings erforderlichen Vorschriften, insbesondere 
 
 # § 54 – Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Abweichend von § 53 Absatz 1 Satz 1 dürfen Lebensmittel, kosmetische Mittel oder Bedarfsgegenstände, die
+(1) Abweichend von § 53 Absatz 1 Satz 1 dürfen Lebensmittel, Mittel zum Tätowieren, kosmetische Mittel oder Bedarfsgegenstände, die
 
 1. in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig hergestellt oder rechtmäßig in den Verkehr gebracht werden oder
 
@@ -1502,7 +1516,7 @@ Die zur Durchführung des Monitorings erforderlichen Vorschriften, insbesondere 
 
 in das Inland verbracht und hier in den Verkehr gebracht werden, auch wenn sie den in der Bundesrepublik Deutschland geltenden Vorschriften für Lebensmittel, kosmetische Mittel oder Bedarfsgegenstände nicht entsprechen. Satz 1 gilt nicht für die dort genannten Erzeugnisse, die
 
-1. den Verboten des § 5 Absatz 1 Satz 1, des § 26 oder des § 30, des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 oder des Artikels 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 nicht entsprechen oder
+1. den Verboten des § 5 Absatz 1 Satz 1, des § 26 oder des § 30, des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 oder des Artikels 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 oder den Geboten des Artikels 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EG) Nr. 1223/2009 nicht entsprechen oder
 
 2. anderen zum Zweck des § 1 Absatz 1 Nummer 1, auch in Verbindung mit § 1 Absatz 3, erlassenen Rechtsvorschriften nicht entsprechen, soweit nicht die Verkehrsfähigkeit der Erzeugnisse in der Bundesrepublik Deutschland nach Absatz 2 durch eine Allgemeinverfügung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekannt gemacht worden ist.
 
@@ -1510,25 +1524,27 @@ in das Inland verbracht und hier in den Verkehr gebracht werden, auch wenn sie d
 
 (3) Dem Antrag sind eine genaue Beschreibung des Erzeugnisses sowie die für die Entscheidung erforderlichen verfügbaren Unterlagen beizufügen. Über den Antrag ist in angemessener Frist zu entscheiden. Sofern innerhalb von 90 Tagen eine endgültige Entscheidung über den Antrag noch nicht möglich ist, ist der Antragsteller über die Gründe zu unterrichten.
 
-(4) Weichen Lebensmittel von den Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen ab, sind die Abweichungen angemessen kenntlich zu machen, soweit dies zum Schutz der Verbraucherinnen oder Verbraucher erforderlich ist.
+(4) Weichen Lebensmittel von den Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen ab, sind die Abweichungen angemessen kenntlich zu machen, soweit dies zum Schutz der Endverbraucher erforderlich ist.
 
-# § 55 – Mitwirkung von Zollstellen
+# § 55 – Mitwirkung der Zollbehörden
 
-(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung des Verbringens von Erzeugnissen und von mit Lebensmitteln verwechselbaren Produkten in das Inland oder die Europäische Union, aus dem Inland oder bei der Durchfuhr mit. Eine nach Satz 1 zuständige Behörde kann
+(1) Die Zollbehörden wirken, vorbehaltlich der Absätze 2 und 3, bei der Überwachung des Verbringens von Erzeugnissen aus einem Drittland in die Europäische Union, des Verbringens aus dem Inland in ein Drittland oder bei der Durchfuhr mit. Die Zollbehörden können
 
-1. Sendungen von Erzeugnissen und von mit Lebensmitteln verwechselbaren Produkten sowie deren Beförderungsmittel, Behälter, Lade- und Verpackungsmittel bei dem Verbringen in das oder aus dem Inland oder bei der Durchfuhr zur Überwachung anhalten,
+1. Sendungen von Erzeugnissen sowie deren Beförderungsmittel, Behälter, Lade- und Verpackungsmittel bei dem Verbringen aus einem Drittland in die Europäische Union oder dem Verbringen aus dem Inland in ein Drittland oder bei der Durchfuhr zur Überwachung anhalten,
 
 2. den Verdacht von Verstößen gegen Verbote und Beschränkungen dieses Gesetzes, der nach diesem Gesetz erlassenen Rechtsverordnungen oder der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes, der sich bei der Abfertigung ergibt, den nach § 38 Absatz 1 Satz 1 zuständigen Behörden mitteilen,
 
-3. in den Fällen der Nummer 2 anordnen, dass die Sendungen von Erzeugnissen und von mit Lebensmitteln verwechselbaren Produkten auf Kosten und Gefahr des Verfügungsberechtigten einer für die Überwachung jeweils zuständigen Behörde vorgeführt werden.
+3. in den Fällen der Nummer 2 anordnen, dass die Sendungen von Erzeugnissen auf Kosten und Gefahr des Verfügungsberechtigten einer für die Überwachung jeweils zuständigen Behörde vorgeführt werden.
 
-(2) Wird bei der Überwachung nach Absatz 1 festgestellt, dass ein Futtermittel nicht zum freien Verkehr abgefertigt werden soll, stellen die Zollstellen, soweit erforderlich im Benehmen mit den für die Futtermittelüberwachung zuständigen Behörden, dem Verfügungsberechtigten eine Bescheinigung mit Angaben über die Art der durchgeführten Kontrollen und deren Ergebnisse aus.
+(2) Bei Sendungen von Lebensmitteln, Futtermitteln oder Bedarfsgegenständen im Sinne des § 2 Absatz 6 Satz 1 Nummer 1, die keinen besonderen Grenzkontrollen unterliegen, wirken die Zollbehörden gemäß Artikel 76 der Verordnung (EU) 2017/625 mit.
 
-(3) Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten bei der Durchführung von Überwachungsmaßnahmen sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen. Soweit Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, bedürfen die Rechtsverordnungen nach Satz 1 auch des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
+(3) Bei Mitteln zum Tätowieren, kosmetischen Mitteln, Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 dieses Gesetzes oder mit Lebensmitteln verwechselbaren Produkten wirken die Zollbehörden gemäß Artikel 2 Absatz 2 in Verbindung mit den Artikeln 25 bis 28 der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (ABl. L 169 vom 25.6.2019, S. 1) mit. Die Zollbehörden melden die Aussetzung der Überlassung nach Artikel 26 der Verordnung (EU) 2019/1020 unverzüglich der zuständigen Behörde, in deren Zuständigkeitsbereich die Zollbehörde gelegen ist.
+
+(4) Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten bei der Durchführung von Überwachungsmaßnahmen sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen. Soweit Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, bedürfen die Rechtsverordnungen nach Satz 1 auch des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
 # § 56 – Ermächtigungen
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder Nummer 4 oder Absatz 2, stets jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, das Verbringen von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, in das Inland oder die Europäische Union, in eine Freizone, in ein Freilager oder in ein Zolllager
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder Nummer 4 oder Absatz 2, stets jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, das Verbringen von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, in das Inland oder die Europäische Union, auch in ein Lagerhaus
 
 1. auf Dauer oder vorübergehend zu verbieten oder zu beschränken,
 
@@ -1542,7 +1558,7 @@ c) einer Zulassung, einer Registrierung, einer Genehmigung oder einer Anzeige so
 
 d) der Anmeldung oder Vorführung bei der zuständigen Behörde und die Einzelheiten dafür festzulegen,
 
-e) einer Dokumenten- oder Nämlichkeitsprüfung oder einer Warenuntersuchung und deren Einzelheiten, insbesondere deren Häufigkeit und Verfahren, festzulegen sowie Vorschriften über die Beurteilung im Rahmen solcher Untersuchungen zu erlassen,
+e) einer Dokumentenprüfung, einer Nämlichkeitskontrolle oder einer Warenuntersuchung und deren Einzelheiten, insbesondere deren Häufigkeit und Verfahren, festzulegen sowie Vorschriften über die Beurteilung im Rahmen solcher Untersuchungen zu erlassen,
 
 f) der Begleitung durch
 
@@ -1562,9 +1578,9 @@ j) der Dauer einer Lagerung oder dem Verbot oder der Erlaubnis der zuständigen 
 
 In Rechtsverordnungen nach Satz 1 kann vorgeschrieben werden, dass
 
-1. die Dokumenten- und Nämlichkeitsprüfung sowie die Warenuntersuchung in oder bei einer Grenzkontrollstelle oder Grenzeingangsstelle oder von einer oder unter Mitwirkung einer Zolldienststelle,
+1. die Dokumentenprüfung, die Nämlichkeitskontrolle sowie die Warenuntersuchung in oder bei einer Grenzkontrollstelle oder anderen Kontrollstelle oder von einer oder unter Mitwirkung einer Zolldienststelle,
 
-2. die Anmeldung oder Vorführung in oder bei einer Grenzkontrollstelle oder Grenzeingangsstelle
+2. die Anmeldung oder Vorführung in oder bei einer Grenzkontrollstelle oder anderen Kontrollstelle
 
 vorzunehmen sind. Soweit die Einhaltung von Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen ist, tritt an die Stelle des Bundesministeriums das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit den in § 13 Absatz 5 Satz 2 genannten Bundesministerien.
 
@@ -1594,11 +1610,11 @@ von Räumen, Anlagen, Einrichtungen oder Beförderungsmitteln, in denen Erzeugni
 
 8. das Verfahren für die Überwachung der Einhaltung von gesundheitlichen, insbesondere hygienischen Anforderungen beim Verbringen von Lebensmitteln in das Inland zu regeln.
 
-(3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann angeordnet werden, dass bestimmte Erzeugnisse, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, nur über bestimmte Zollstellen, Grenzkontrollstellen, Grenzein- oder -übergangsstellen oder andere amtliche Stellen in das Inland verbracht werden dürfen und solche Stellen von einer wissenschaftlich ausgebildeten Person geleitet werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit gibt die in Satz 1 genannten Stellen im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt, soweit diese Stellen nicht im Amtsblatt der Europäischen Union bekannt gegeben sind oder nicht in Rechtsakten der Europäischen Union eine Bekanntgabe durch die Europäische Kommission vorgesehen ist. Das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens nach Satz 2 auf die Generalzolldirektion übertragen.
+(3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann angeordnet werden, dass bestimmte Erzeugnisse, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, nur über bestimmte Zollbehörden oder Grenzkontrollstellen in das Inland verbracht werden dürfen und solche Stellen von einer wissenschaftlich ausgebildeten Person geleitet werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit gibt die in Satz 1 genannten Stellen im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt, soweit diese Stellen nicht im Amtsblatt der Europäischen Union bekannt gegeben sind oder nicht in Rechtsakten der Europäischen Union eine Bekanntgabe durch die Europäische Kommission vorgesehen ist. Das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens nach Satz 2 auf die Generalzolldirektion übertragen.
 
 (4) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz 1 Nummer 1 oder 4, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
-1. die Durchfuhr von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, oder von mit Lebensmitteln verwechselbaren Produkten sowie deren Lagerung in Freilagern, in Lagern in Freizonen oder in Zolllagern abhängig zu machen von
+1. die Durchfuhr von Erzeugnissen, einschließlich lebender Tiere im Sinne des § 4 Absatz 1 Nummer 1, oder von mit Lebensmitteln verwechselbaren Produkten sowie deren Lagerung in Lagerhäusern abhängig zu machen von
 
 a) einer Erlaubnis der zuständigen Behörde und dabei das Nähere über Art, Form und Inhalt der Erlaubnis, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung und Aufbewahrung zu regeln,
 
@@ -1606,25 +1622,31 @@ b) Anforderungen an die Beförderung und Lagerung im Inland,
 
 c) dem Verbringen aus dem Inland, auch innerhalb bestimmter Fristen, über bestimmte Grenzkontrollstellen und die Einzelheiten hierfür festzulegen,
 
-d) einer Kontrolle bei dem Verbringen aus dem Inland unter Mitwirkung einer Zollstelle,
+d) einer Kontrolle bei dem Verbringen aus dem Inland unter Mitwirkung einer Zollbehörde,
 
 e) einer zollamtlichen Überwachung oder einer Überwachung durch die zuständige Behörde,
 
-f) einer Anerkennung der Freilager, der Lager in Freizonen oder der Zolllager durch die zuständige Behörde und dabei das Nähere über Art, Form und Inhalt der Anerkennung, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung zu regeln,
+f) einer Anerkennung der Lagerhäuser durch die zuständige Behörde und dabei das Nähere über Art, Form und Inhalt der Anerkennung, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung zu regeln,
 
 2. für die Durchfuhr Vorschriften nach Absatz 1 oder 2 zu erlassen.
 
 # § 57 – Ausfuhr; sonstiges Verbringen aus dem Inland
 
-(1) Für die Ausfuhr und Wiederausfuhr von kosmetischen Mitteln, Bedarfsgegenständen und mit Lebensmitteln verwechselbaren Produkten gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse und die für mit Lebensmitteln verwechselbaren Produkte geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
+(1) Für die Ausfuhr und Wiederausfuhr von Mitteln zum Tätowieren, kosmetischen Mitteln, Bedarfsgegenständen und mit Lebensmitteln verwechselbaren Produkten gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse und die für mit Lebensmitteln verwechselbaren Produkte geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
 
 (2) Es ist verboten, Futtermittel auszuführen, die
 
 1. wegen ihres Gehalts an unerwünschten Stoffen nach § 17 nicht hergestellt, behandelt, in den Verkehr gebracht oder verfüttert werden dürfen,
 
-2. einer durch Rechtsverordnung nach § 23 Nummer 1 festgesetzten Anforderung nicht entsprechen.
+2. einer durch Rechtsverordnung nach § 23 Nummer 1 festgesetzten Anforderung nicht entsprechen oder
 
-Abweichend von Satz 1 dürfen dort genannte Futtermittel, die eingeführt worden sind, nach Maßgabe des Artikels 12 der Verordnung (EG) Nr. 178/2002 wieder ausgeführt werden.
+3. den in Anhang I der Richtlinie 2002/32/EG des Europäischen Parlaments und des Rates vom 7. Mai 2002 über unerwünschte Stoffe in der Tierernährung (ABl. L 140 vom 30.5.2002, S. 10), die zuletzt durch die Verordnung (EU) 2019/1869 (ABl. L 289 vom 8.11.2019, S. 32) geändert worden ist, festgesetzten Höchstgehalt an einem unerwünschten Stoff überschreiten.
+
+Nach Maßgabe des Artikels 12 der Verordnung (EG) Nr. 178/2002 dürfen
+
+1. abweichend von Satz 1 dort genannte Futtermittel, die eingeführt worden sind, ausgeführt werden,
+
+2. in Satz 1 genannte Futtermittel wieder ausgeführt werden.
 
 (3) Lebensmittel, Einzelfuttermittel oder Mischfuttermittel, die vor der Ausfuhr behandelt worden sind und im Fall von Lebensmitteln höhere Gehalte an Rückständen von Pflanzenschutz- oder sonstigen Mitteln als durch Rechtsverordnung nach § 9 Absatz 2 Nummer 1 Buchstabe a oder im Fall von Einzelfuttermitteln oder Mischfuttermitteln höhere Gehalte an Mittelrückständen als durch Rechtsverordnung nach § 23a Nummer 1 festgesetzt aufweisen, dürfen in einen Staat, der der Europäischen Union nicht angehört, nur verbracht werden, sofern nachgewiesen wird, dass
 
@@ -1636,19 +1658,17 @@ Abweichend von Satz 1 dürfen dort genannte Futtermittel, die eingeführt worden
 
 (5) Für Erzeugnisse und für mit Lebensmitteln verwechselbare Produkte, die zur Lieferung in einen anderen Mitgliedstaat bestimmt sind, gilt Artikel 12 der Verordnung (EG) Nr. 178/2002 mit der Maßgabe, dass an die Stelle der dort genannten Anforderungen des Lebensmittelrechts die für diese Erzeugnisse und die für mit Lebensmitteln verwechselbaren Produkte geltenden Vorschriften dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes treten.
 
-(6) Die Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen finden mit Ausnahme der §§ 5 und 17 Absatz 1 Satz 1 Nummer 1 und der §§ 26 und 30 auf Erzeugnisse, die für die Ausrüstung von Seeschiffen bestimmt sind, keine Anwendung.
+(6) Die Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen finden mit Ausnahme der §§ 5 und 17 Absatz 1 Satz 1 Nummer 1 und der §§ 26 und 30 auf Erzeugnisse, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, keine Anwendung.
 
 (7) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1. weitere Vorschriften dieses Gesetzes sowie aufgrund dieses Gesetzes erlassene Rechtsverordnungen auf Erzeugnisse, die für die Ausrüstung von Seeschiffen bestimmt sind, für anwendbar zu erklären, soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich ist,
+1. weitere Vorschriften dieses Gesetzes sowie aufgrund dieses Gesetzes erlassene Rechtsverordnungen auf Erzeugnisse, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, für anwendbar zu erklären, soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich ist,
 
-2. abweichende oder zusätzliche Vorschriften für Erzeugnisse zu erlassen, die für die Ausrüstung von Seeschiffen bestimmt sind, soweit es mit den in § 1 genannten Zwecken vereinbar ist,
+2. abweichende oder zusätzliche Vorschriften für Erzeugnisse zu erlassen, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, soweit es mit den in § 1 genannten Zwecken vereinbar ist,
 
 3. soweit es zur Erfüllung der in § 1 genannten Zwecke erforderlich ist,
 
-a) die Registrierung von Betrieben, die Seeschiffe ausrüsten, vorzuschreiben,
-
-b) die Lagerung von Erzeugnissen, die für die Ausrüstung von Seeschiffen bestimmt sind, in Freilagern, in Lagern in Freizonen oder in Zolllagern abhängig zu machen von
+a) die Lagerung von Erzeugnissen, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, in Lagerhäusern abhängig zu machen von
 
 aa)  
 einer Erlaubnis der zuständigen Behörde und dabei das Nähere über Art, Form und Inhalt der Erlaubnis, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung und Aufbewahrung zu regeln,
@@ -1659,15 +1679,15 @@ Anforderungen an die Beförderung und Lagerung im Inland,
 cc) dem Verbringen aus dem Inland, auch innerhalb bestimmter Fristen, über bestimmte Grenzkontrollstellen und die Einzelheiten hierfür festzulegen,
 
 dd)  
-einer Kontrolle bei dem Verbringen aus dem Inland unter Mitwirkung einer Zollstelle,
+einer Kontrolle bei dem Verbringen aus dem Inland unter Mitwirkung einer Zollbehörde,
 
 ee)  
 einer zollamtlichen Überwachung oder einer Überwachung durch die zuständige Behörde,
 
 ff)  
-einer Anerkennung der Freilager, der Lager in Freizonen oder der Zolllager durch die zuständige Behörde und dabei das Nähere über Art, Form und Inhalt der Anerkennung, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung zu regeln,
+einer Anerkennung der Lagerhäuser durch die zuständige Behörde und dabei das Nähere über Art, Form und Inhalt der Anerkennung, über das Verfahren ihrer Erteilung oder die Dauer ihrer Geltung zu regeln,
 
-c) für Erzeugnisse, die für die Ausrüstung von Seeschiffen bestimmt sind, Vorschriften nach § 56 Absatz 1 oder 2 zu erlassen.
+b) für Erzeugnisse, die für die Ausrüstung von Schiffen bestimmt sind, die das Gebiet der Europäischen Union verlassen, Vorschriften nach § 56 Absatz 1 oder 2 zu erlassen.
 
 Soweit Rechtsverordnungen nach § 13 Absatz 5 Satz 1 betroffen sind, tritt an die Stelle des Bundesministeriums das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundesministerium.
 
@@ -1691,7 +1711,7 @@ aus dem Inland zu verbieten oder zu beschränken,
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der in § 1 Absatz 4 Nummer 1, auch in Verbindung mit § 1 Absatz 4 Nummer 2, genannten Zwecke erforderlich ist, zur Einhaltung von nach § 94 Absatz 2 Nummer 3 des Strahlenschutzgesetzes bestimmten Kontaminationswerten durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu verbieten oder zu beschränken:
 
-1. das Inverkehrbringen von Lebensmitteln, Bedarfsgegenständen und kosmetischen Mitteln,
+1. das Inverkehrbringen von Lebensmitteln, Bedarfsgegenständen, Mitteln zum Tätowieren und kosmetischen Mitteln,
 
 2. das Verfüttern oder Inverkehrbringen von Futtermitteln,
 
@@ -1725,11 +1745,13 @@ Die aufgrund des § 57a oder nach § 57b erlassenen Rechtsverordnungen sowie die
 
 3. entgegen § 5 Absatz 2 Nummer 2 ein mit Lebensmitteln verwechselbares Produkt herstellt, behandelt oder in den Verkehr bringt,
 
-4. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 4 Nummer 2, oder entgegen § 10 Absatz 3 Nummer 2 ein Lebensmittel in den Verkehr bringt,
+4. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 4 Nummer 2, oder entgegen § 10 Absatz 3 Nummer 3 ein Lebensmittel in den Verkehr bringt,
 
 5. entgegen § 10 Absatz 2 ein Tier in den Verkehr bringt,
 
-6. entgegen § 10 Absatz 3 Nummer 1 Lebensmittel von einem Tier gewinnt,
+5a. entgegen § 10 Absatz 3 Nummer 1 ein Tier zur Schlachtung abgibt,
+
+6. entgegen § 10 Absatz 3 Nummer 2 Lebensmittel von einem Tier gewinnt,
 
 7. entgegen § 13 Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 1 Nummer 1 ein Lebensmittel in den Verkehr bringt,
 
@@ -1741,11 +1763,11 @@ Die aufgrund des § 57a oder nach § 57b erlassenen Rechtsverordnungen sowie die
 
 11. entgegen
 
-a) § 26 Satz 1 Nummer 1 ein kosmetisches Mittel herstellt oder behandelt oder
+a) § 26 Satz 1 Nummer 1 ein Mittel zum Tätowieren herstellt oder behandelt oder
 
-b) § 26 Satz 1 Nummer 2 einen Stoff oder ein Gemisch aus Stoffen als kosmetisches Mittel in den Verkehr bringt,
+b) § 26 Satz 1 Nummer 2 einen Stoff oder ein Gemisch aus Stoffen als Mittel zum Tätowieren in den Verkehr bringt,
 
-12. entgegen § 28 Absatz 2 ein kosmetisches Mittel in den Verkehr bringt, das einer Rechtsverordnung nach § 28 Absatz 1 Nummer 2 in Verbindung mit § 32 Absatz 1 Nummer 1, 2 oder 3 nicht entspricht,
+12. entgegen § 28 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 28 Absatz 1 Nummer 2 oder § 32 Absatz 1 Nummer 1, 2 oder 3 ein dort genanntes Mittel in den Verkehr bringt,
 
 13. entgegen § 30 Nummer 1 einen Bedarfsgegenstand herstellt oder behandelt,
 
@@ -1755,25 +1777,19 @@ b) § 26 Satz 1 Nummer 2 einen Stoff oder ein Gemisch aus Stoffen als kosmetisch
 
 16. entgegen § 32 Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 1 Nummer 1, 2 oder 3 einen Bedarfsgegenstand in den Verkehr bringt,
 
-17. einer vollziehbaren Anordnung
-
-a) nach Artikel 54 Absatz 1 Satz 1 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S. 29), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, die der Durchführung eines in § 39 Absatz 7 Nummer 1, 2 oder Nummer 3, soweit sich die Nummer 3 auf § 5 und § 17 Absatz 1 Satz 1 Nummer 1 bezieht, bezeichneten Verbots dient, oder
-
-b) nach § 39 Absatz 2 Satz 1, die der Durchführung eines in § 39 Absatz 7 bezeichneten Verbots dient,
-
-zuwiderhandelt oder
+17. einer vollziehbaren Anordnung nach § 39a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, die der Durchführung eines in § 39a Absatz 3 bezeichneten Verbots oder Gebots dient, zuwiderhandelt oder
 
 18. einer Rechtsverordnung nach § 10 Absatz 4 Nummer 1 Buchstabe b, d oder Buchstabe e, § 13 Absatz 1 Nummer 1 oder 2, § 22, § 32 Absatz 1 Nummer 1, 2 oder 3, jeweils auch in Verbindung mit § 28 Absatz 1 Nummer 2, oder § 34 Satz 1 Nummer 1 oder 2 oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
-(2) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, verstößt, indem er
+(2) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, verstößt, indem er
 
 1. entgegen Artikel 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe a ein Lebensmittel in den Verkehr bringt oder
 
-2. entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 2 Spiegelstrich 1, soweit sich dieser auf die Gesundheit des Menschen bezieht, jeweils auch in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist, ein Futtermittel in den Verkehr bringt oder verfüttert.
+2. entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 2 Spiegelstrich 1, soweit sich dieser auf die Gesundheit des Menschen bezieht, jeweils auch in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71; L 296 vom 15.11.2019, S. 64), die zuletzt durch die Verordnung (EU) 2018/1903 (ABl. L 310 vom 6.12.2018, S. 22) geändert worden ist, ein Futtermittel in den Verkehr bringt oder verfüttert.
 
 (2a) Ebenso wird bestraft, wer
 
-1. gegen die Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34, L 105 vom 27.4.2010, S. 115), die zuletzt durch die Verordnung (EU) 2016/1244 (ABl. L 204 vom 29.7.2016, S. 7) geändert worden ist, verstößt, indem er
+1. gegen die Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34, L 105 vom 27.4.2010, S. 115), die zuletzt durch die Verordnung (EU) 2019/799 (ABl. L 132 vom 20.5.2019, S. 12) geändert worden ist, verstößt, indem er
 
 a) entgegen Artikel 5 in Verbindung mit Anhang III oder Anhang IV ein Aroma oder ein Lebensmittel in den Verkehr bringt,
 
@@ -1781,23 +1797,25 @@ b) entgegen Artikel 6 Absatz 1 einen dort bezeichneten Stoff zusetzt,
 
 c) entgegen Artikel 7 einen Ausgangsstoff, ein Aroma oder eine Lebensmittelzutat verwendet,
 
-2. entgegen Artikel 1 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 124/2009 der Kommission vom 10. Februar 2009 zur Festlegung von Höchstgehalten an Kokzidiostatika und Histomonostatika, die in Lebensmitteln aufgrund unvermeidbarer Verschleppung in Futtermittel für Nichtzieltierarten vorhanden sind (ABl. L 40 vom 11.2.2009, S. 7), die durch die Verordnung (EU) Nr. 610/2012 (ABl. L 178 vom 10.7.2012, S. 1) geändert worden ist, ein Lebensmittel in Verkehr bringt oder
+2. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist, nicht dafür sorgt, dass ein auf dem Markt bereitgestelltes kosmetisches Mittel für die menschliche Gesundheit sicher ist,
 
-3. gegen die Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1, L 278 vom 25.10.2011, S. 13), die zuletzt durch die Verordnung (EU) 2016/1416 (ABl. L 230 vom 25.8.2016, S. 22) geändert worden ist, verstößt, indem er
+3. gegen die Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1, L 278 vom 25.10.2011, S. 13), die zuletzt durch die Verordnung (EU) 2019/1338 (ABl. L 209 vom 9.8.2019, S. 5) geändert worden ist, verstößt, indem er
 
 a) entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 5 Absatz 1 oder Artikel 9 Absatz 1 Buchstabe c, jeweils auch in Verbindung mit Artikel 13 Absatz 1 oder Artikel 14 Absatz 1, ein Material oder einen Gegenstand aus Kunststoff in Verkehr bringt oder
 
-b) entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 13 Absatz 1 oder Artikel 14 Absatz 1 bei der Herstellung einer Kunststoffschicht in einem Material oder einem Gegenstand aus Kunststoff einen nicht zugelassenen Stoff verwendet.
+b) entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 13 Absatz 1 oder Artikel 14 Absatz 1 bei der Herstellung einer Kunststoffschicht in einem Material oder einem Gegenstand aus Kunststoff einen nicht zugelassenen Stoff verwendet oder
+
+4. einer vollziehbaren Anordnung nach Artikel 138 Absatz 2 der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S. 44; L 322 vom 18.12.2018, S. 85; L 126 vom 15.5.2019, S. 73), die durch die Delegierte Verordnung (EU) 2019/2127 (ABl. L 321 vom 12.12.2019, S. 111) geändert worden ist, die der Durchführung eines in § 39 Absatz 7 bezeichneten Verbots dient, zuwiderhandelt.
 
 (3) Ebenso wird bestraft, wer
 
 1. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einem in Absatz 1 Nummer 1 bis 17 genannten Gebot oder Verbot entspricht, soweit eine Rechtsverordnung nach § 62 Absatz 1 Nummer 1 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
 
-2. einer anderen als in Absatz 2 genannten unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Absatz 1 Nummer 18 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 62 Absatz 1 Nummer 1 für einen bestimmten Straftatbestand auf diese Strafvorschrift verweist.
+2. einer anderen als in Absatz 2 oder 2a genannten unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Absatz 1 Nummer 18 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 62 Absatz 1 Nummer 1 für einen bestimmten Straftatbestand auf diese Strafvorschrift verweist.
 
 (4) Der Versuch ist strafbar.
 
-(5) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter durch eine der in Absatz 1, 2 oder 3 bezeichneten Handlungen
+(5) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter durch eine der in Absatz 1, 2, 2a oder 3 bezeichneten Handlungen
 
 1. die Gesundheit einer großen Zahl von Menschen gefährdet,
 
@@ -1813,23 +1831,23 @@ b) entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 13 Absatz 1 oder Artike
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
-1. entgegen § 6 Absatz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 1 Nummer 1 einen nicht zugelassenen Lebensmittelzusatzstoff verwendet, Ionenaustauscher benutzt oder ein Verfahren anwendet,
+1. (weggefallen)
 
-2. entgegen § 6 Absatz 1 Nummer 2 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 1 Nummer 1 oder Absatz 2 Nummer 1 oder 5 ein Lebensmittel in den Verkehr bringt,
+2. (weggefallen)
 
-3. entgegen § 6 Absatz 1 Nummer 3 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 1 Nummer 1 oder Absatz 2 Nummer 5 einen Lebensmittelzusatzstoff oder Ionenaustauscher in den Verkehr bringt,
+3. entgegen § 7 Absatz 3 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 1 oder 2 ein Lebensmittel in den Verkehr bringt,
 
-4. entgegen § 8 Absatz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 Nummer 1 eine nicht zugelassene Bestrahlung anwendet,
+4. entgegen § 8 Absatz 1 Nummer 1 Buchstabe a in Verbindung mit einer Rechtsverordnung nach § 8 Absatz 2 Nummer 1 oder entgegen § 8 Absatz 1 Nummer 1 Buchstabe b eine nicht zugelassene Bestrahlung anwendet,
 
-5. entgegen § 8 Absatz 1 Nummer 2 in Verbindung mit einer Rechtsverordnung nach Absatz 2 ein Lebensmittel in den Verkehr bringt,
+5. entgegen § 8 Absatz 1 Nummer 2 ein Lebensmittel in den Verkehr bringt,
 
 6. entgegen § 9 Absatz 1 Satz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 Nummer 1 Buchstabe a oder entgegen § 9 Absatz 1 Satz 1 Nummer 2 oder Nummer 3 ein Lebensmittel in den Verkehr bringt,
 
 7. entgegen § 11 Absatz 1 ein Lebensmittel in den Verkehr bringt oder für ein Lebensmittel wirbt,
 
-8. entgegen § 11 Absatz 2 Nummer 1 ein Lebensmittel in den Verkehr bringt,
+8. entgegen § 11 Absatz 2 ein Lebensmittel liefert,
 
-9. entgegen § 11 Absatz 2 Nummer 2 ein Lebensmittel ohne ausreichende Kenntlichmachung in den Verkehr bringt,
+9. entgegen § 12 ein Lebensmittel in den Verkehr bringt,
 
 10. entgegen § 17 Absatz 1 Satz 1 Nummer 2 ein Futtermittel herstellt oder behandelt,
 
@@ -1839,9 +1857,9 @@ b) entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 13 Absatz 1 oder Artike
 
 12. entgegen § 21 Absatz 3 Satz 1 Nummer 1 Buchstabe a ein Futtermittel in den Verkehr bringt oder verfüttert,
 
-13. entgegen § 27 Absatz 1 Satz 1 ein kosmetisches Mittel unter einer irreführenden Bezeichnung, Angabe oder Aufmachung in den Verkehr bringt oder mit einer irreführenden Darstellung oder Aussage wirbt,
+13. entgegen § 27 Absatz 1 Satz 1 ein Mittel zum Tätowieren unter einer irreführenden Bezeichnung, Angabe oder Aufmachung in den Verkehr bringt oder mit einer irreführenden Darstellung oder Aussage wirbt,
 
-14. entgegen § 28 Absatz 2 ein kosmetisches Mittel in den Verkehr bringt, das einer Rechtsverordnung nach § 28 Absatz 1 Nummer 1 oder 2 in Verbindung mit § 32 Absatz 1 Nummer 4 Buchstabe a oder Nummer 5 nicht entspricht,
+14. entgegen § 28 Absatz 2 ein dort genanntes Mittel in den Verkehr bringt, das einer Rechtsverordnung nach § 28 Absatz 1 Nummer 1 oder 2 in Verbindung mit § 32 Absatz 1 Nummer 4 Buchstabe a oder Nummer 5 nicht entspricht,
 
 15. entgegen § 31 Absatz 1 oder 2 Satz 2 ein Material oder einen Gegenstand als Bedarfsgegenstand verwendet oder in den Verkehr bringt,
 
@@ -1855,19 +1873,21 @@ b) entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 13 Absatz 1 oder Artike
 
 a) § 17 Absatz 1 Satz 1 Nummer 1 Futtermittel,
 
-b) § 26 Satz 1 ein kosmetisches Mittel, einen Stoff oder ein Gemisch,
+b) § 26 Satz 1 ein Mittel zum Tätowieren, einen Stoff oder ein Gemisch,
 
-c) § 30 einen Bedarfsgegenstand, einen Gegenstand oder ein Mittel oder
+c) § 30 einen Bedarfsgegenstand, einen Gegenstand oder ein Mittel,
 
-d) Artikel 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 ein gesundheitsschädliches Lebensmittel
+d) Artikel 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 ein gesundheitsschädliches Lebensmittel oder
+
+e) Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder c der Verordnung (EG) Nr. 1223/2009 ein kosmetisches Mittel
 
 in das Inland verbringt,
 
-20. einer vollziehbaren Anordnung nach § 41 Absatz 2 Satz 1, Absatz 3 oder 6 Satz 1 oder 3 zuwiderhandelt oder
+20. (weggefallen)
 
 21. einer Rechtsverordnung nach
 
-a) § 7 Absatz 2 Nummer 1, 2, 3 oder 5, § 8 Absatz 2 Nummer 2, § 9 Absatz 2 Nummer 1 Buchstabe b, § 13 Absatz 1 Nummer 4, 5 oder Nummer 6, Absatz 3 Satz 1 oder Absatz 4 Nummer 1 Buchstabe a, b oder c oder Nummer 2, § 29 Absatz 1 Nummer 3, § 31 Absatz 2 Satz 1, § 32 Absatz 1 Nummer 4 Buchstabe b, auch in Verbindung mit § 28 Absatz 1 Nummer 2, § 32 Absatz 1 Nummer 7, § 33 Absatz 2, § 34 Satz 1 Nummer 3 oder 4, § 56 Absatz 1 Satz 1 Nummer 1 oder Absatz 4 Nummer 2 in Verbindung mit Absatz 1 Satz 1 Nummer 1 oder § 57 Absatz 7 Satz 1 Nummer 3 Buchstabe c in Verbindung mit § 56 Absatz 1 Satz 1 Nummer 1, § 57a Absatz 1 oder
+a) § 8 Absatz 2 Nummer 2, § 9 Absatz 2 Nummer 1 Buchstabe b, § 13 Absatz 1 Nummer 4, 5 oder Nummer 6, Absatz 3 Satz 1 oder Absatz 4 Nummer 1 Buchstabe a, b oder c oder Nummer 2, § 29 Absatz 1 Nummer 3, § 31 Absatz 2 Satz 1, § 32 Absatz 1 Nummer 4 Buchstabe b, auch in Verbindung mit § 28 Absatz 1 Nummer 2, § 32 Absatz 1 Nummer 7, § 33 Absatz 2, § 34 Satz 1 Nummer 3 oder 4, § 56 Absatz 1 Satz 1 Nummer 1 oder Absatz 4 Nummer 2 in Verbindung mit Absatz 1 Satz 1 Nummer 1 oder § 57 Absatz 7 Satz 1 Nummer 3 Buchstabe c in Verbindung mit § 56 Absatz 1 Satz 1 Nummer 1, § 57a Absatz 1 oder
 
 b) § 13 Absatz 5 Satz 1 Nummer 1
 
@@ -1887,7 +1907,7 @@ c) entgegen Artikel 19 Absatz 1 Satz 1 ein Verfahren nicht, nicht vollständig o
 
 d) entgegen Artikel 20 Absatz 1 Satz 1 ein Verfahren nicht, nicht vollständig oder nicht rechtzeitig einleitet, um ein Futtermittel für Tiere, die der Lebensmittelgewinnung dienen, vom Markt zu nehmen,
 
-2. entgegen Artikel 19 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2016/1866 (ABl. L 286 vom 21.10.2016, S. 4) geändert worden ist, ein Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, verarbeitet oder mit einem anderen Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, mischt,
+2. entgegen Artikel 19 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2020/192 (ABl. L 40 vom 13.2.2020, S. 4) geändert worden ist, ein Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, verarbeitet oder mit einem anderen Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, mischt,
 
 3. gegen die Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34, L 198 vom 30.7.2009, S. 87, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S. 36) geändert worden ist, verstößt, indem er entgegen Artikel 3 Unterabsatz 1 in Verbindung mit
 
@@ -1907,11 +1927,11 @@ g) Artikel 12
 
 eine nährwert- oder gesundheitsbezogene Angabe bei der Kennzeichnung oder Aufmachung eines Lebensmittels oder bei der Werbung verwendet,
 
-3a. entgegen Artikel 2 Absatz 1 der Verordnung (EG) Nr. 733/2008 des Rates vom 15. Juli 2008 über die Einfuhrbedingungen für landwirtschaftliche Erzeugnisse mit Ursprung in Drittländern nach dem Unfall im Kernkraftwerk Tschernobyl (kodifizierte Fassung) (ABl. L 201 vom 30.7.2008, S. 1), die durch die Verordnung (EG) Nr. 1048/2009 (ABl. L 290 vom 6.11.2009, S. 4) geändert worden ist, ein dort genanntes Erzeugnis in den freien Verkehr bringt,
+3a. (weggefallen)
 
 4. entgegen Artikel 4 der Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7), die durch die Verordnung (EU) Nr. 1056/2012 (ABl. L 313 vom 13.11.2012, S. 9) geändert worden ist, ein Lebensmittelenzym als solches in den Verkehr bringt oder in Lebensmitteln verwendet,
 
-5. gegen die Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16, L 105 vom 27.4.2010, S. 114, L 322 vom 21.11.2012, S. 8, L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2016/1776 (ABl. L 272 vom 7.10.2016, S. 2) geändert worden ist, verstößt, indem er
+5. gegen die Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16, L 105 vom 27.4.2010, S. 114, L 322 vom 21.11.2012, S. 8, L 123 vom 19.5.2015, S. 122), die zuletzt durch die Verordnung (EU) 2020/771 (ABl. L 184 vom 12.6.2020, S. 25) geändert worden ist, verstößt, indem er
 
 a) entgegen Artikel 4 Absatz 1 einen Lebensmittelzusatzstoff als solchen in den Verkehr bringt oder in Lebensmitteln verwendet,
 
@@ -1938,13 +1958,41 @@ a) entgegen Artikel 5 in Verbindung mit Artikel 4 ein Aroma oder ein Lebensmitte
 
 b) entgegen Artikel 10 ein Aroma oder einen Ausgangsstoff verwendet,
 
-7. gegen die Verordnung (EU) Nr. 10/2011 verstößt, indem er
+7. entgegen Artikel 12 Absatz 4 der Verordnung (EG) Nr. 767/2009 ein Futtermittel liefert, dessen Kennzeichnung einer Anforderung des
+
+a) Artikels 11 Absatz 1 Buchstabe a oder b der Verordnung (EG) Nr. 767/2009 oder
+
+b) Artikels 11 Absatz 1 Buchstabe c der Verordnung (EG) Nr. 767/2009 in Verbindung mit Anhang Teil C der Verordnung (EU) Nr. 68/2013 der Kommission vom 16. Januar 2013 zum Katalog der Einzelfuttermittel (ABl. L 29 vom 30.1.2013, S. 1; L 320 vom 30.11.2013, S. 82; L 91 vom 27.3.2014, S. 50), die zuletzt durch die Verordnung (EU) 2020/764 (ABl. L 183 vom 11.6.2020, S. 1) geändert worden ist,
+
+nicht entspricht,
+
+8. entgegen Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1223/2009 einen Text, eine Bezeichnung, ein Warenzeichen, eine Abbildung oder ein dort genanntes Zeichen verwendet,
+
+9. gegen die Verordnung (EU) Nr. 10/2011 verstößt, indem er
 
 a) entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 10, auch in Verbindung mit Artikel 13 Absatz 1, ein Material oder einen Gegenstand aus Kunststoff in Verkehr bringt, oder
 
 b) entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 11 Absatz 1 Satz 1 oder Absatz 2 oder Artikel 12, jeweils auch in Verbindung mit Artikel 13 Absatz 1 oder Absatz 5, ein Material oder einen Gegenstand aus Kunststoff in Verkehr bringt,
 
-8. entgegen Artikel 4 Absatz 1 der Verordnung (Euratom) 2016/52 ein Lebensmittel oder Futtermittel in Verkehr bringt, bei dem ein Höchstwert überschritten wird, der durch eine Verordnung nach Artikel 3 Absatz 1 der Verordnung (Euratom) 2016/52 festgelegt wird.
+10. gegen die Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7), die zuletzt durch die Verordnung (EU) 2015/2283 (ABl. L 327 vom 11.12.2015, S. 1) geändert worden ist, verstößt, indem er
+
+a) entgegen Artikel 8 Absatz 3 ein Lebensmittel abgibt, das einer Anforderung des
+
+aa)  
+Artikels 7 Absatz 1 oder 3, jeweils auch in Verbindung mit Absatz 4,
+
+bb)  
+Artikels 36 Absatz 2 Buchstabe a in Verbindung mit Absatz 1
+
+nicht entspricht, oder
+
+b) entgegen Artikel 8 Absatz 4 Satz 1 eine Änderung einer dort genannten Information vornimmt, oder
+
+11. entgegen Artikel 4 Absatz 1 der Verordnung (Euratom) 2016/52 ein Lebensmittel oder Futtermittel in Verkehr bringt, bei dem ein Höchstwert überschritten wird, der durch eine Verordnung nach Artikel 3 Absatz 1 der Verordnung (Euratom) 2016/52 festgelegt wird oder
+
+12. einer vollziehbaren Anordnung nach Artikel 4 Absatz 4 Buchstabe b erster oder zweiter Gedankenstrich oder Artikel 6 Absatz 2 dritter oder vierter Gedankenstrich, jeweils auch in Verbindung mit Absatz 3, der Delegierten Verordnung (EU) 2019/2090 der Kommission vom 19. Juni 2019 zur Ergänzung der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates in Bezug auf mutmaßliche oder festgestellte Verstöße gegen Unionsvorschriften über die Verwendung oder über Rückstände pharmakologisch wirksamer Stoffe, die in Tierarzneimitteln oder als Futtermittelzusatzstoffe zugelassen sind, bzw. gegen Unionsvorschriften über die Verwendung oder über Rückstände verbotener oder nicht zugelassener pharmakologisch wirksamer Stoffe (ABl. L 317 vom 9.12.2019, S. 28) zuwiderhandelt,
+
+13. entgegen Artikel 3 Absatz 1 in Verbindung mit Absatz 2 der Durchführungsverordnung (EU) 2020/1158 der Kommission vom 5. August 2020 über die Einfuhrbedingungen für Lebens- und Futtermittel mit Ursprung in Drittländern nach dem Unfall im Kernkraftwerk Tschernobyl (ABl. L 257 vom 6.8.2020, S. 1) ein dort genanntes Erzeugnis einführt.
 
 (3) Ebenso wird bestraft, wer
 
@@ -1966,9 +2014,9 @@ b) Absatz 1 Nummer 21 Buchstabe b genannten Vorschriften ermächtigen, soweit ei
 
 (1) Ordnungswidrig handelt, wer eine der in
 
-1. § 59 Absatz 1 Nummer 8 oder Nummer 10 oder Absatz 2 Nummer 1a Buchstabe a oder Buchstabe b oder
+1. § 59 Absatz 1 Nummer 9 oder Nummer 10 oder Absatz 2 Nummer 1a Buchstabe a oder Buchstabe b oder
 
-2. § 59 Absatz 1 Nummer 1 bis 7, 9, 10a, 11 bis 20 oder Nummer 21, Absatz 2 Nummer 1, 1a Buchstabe c oder d, Nummer 2 bis 7 oder 8 oder Absatz 3
+2. § 59 Absatz 1 Nummer 3 bis 8, 10a, 11 bis 21, Absatz 2 Nummer 1, 1a Buchstabe c oder d, Nummer 2 bis 13 oder Absatz 3
 
 bezeichneten Handlung fahrlässig begeht.
 
@@ -2014,21 +2062,21 @@ bezeichneten Handlung fahrlässig begeht.
 
 20. entgegen § 44 Absatz 2 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-21. entgegen § 44 Absatz 3 Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+21. entgegen § 44 Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 22. entgegen § 44 Absatz 4 Satz 1 oder Satz 2, Absatz 4a oder Absatz 5 Satz 1 oder Satz 2 oder Absatz 5a die zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
 
-22a. entgegen § 44a Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 44a Absatz 3 oder in Verbindung mit § 75 Absatz 4 Satz 1 Nummer 1 und 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+22a. entgegen § 44a Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 44a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 23. entgegen § 51 Absatz 3 Satz 2 eine dort genannte Maßnahme oder die Entnahme einer Probe nicht duldet oder eine in der Durchführung des Monitorings tätige Person nicht unterstützt,
 
 24. in anderen als den in § 59 Absatz 1 Nummer 19 bezeichneten Fällen entgegen § 53 Absatz 1 Satz 1 ein Erzeugnis in das Inland verbringt,
 
-25. entgegen § 57 Absatz 2 Satz 1 Nummer 2 in Verbindung mit einer Rechtsverordnung nach § 23 Nummer 1 ein Futtermittel ausführt,
+25. entgegen § 57 Absatz 2 Satz 1 Nummer 2 in Verbindung mit einer Rechtsverordnung nach § 23 Nummer 1 oder entgegen § 57 Absatz 2 Satz 1 Nummer 3 ein Futtermittel ausführt,
 
 26. einer Rechtsverordnung nach
 
-a) § 13 Absatz 1 Nummer 3 oder Absatz 4 Nummer 1 Buchstabe d, e, f oder Buchstabe g, § 14 Absatz 1 Nummer 1, 3 oder 5, Absatz 2 oder 3, § 23 Nummer 2 bis 6, § 23a Nummer 5 bis 9, § 28 Absatz 3 Satz 1 Nummer 1 oder 3, § 29 Absatz 1 Nummer 1, 2 oder 4 oder Absatz 2, § 32 Absatz 1 Nummer 8, auch in Verbindung mit § 28 Absatz 1 Nummer 2, § 34 Satz 1 Nummer 7, § 35 Nummer 1 oder Nummer 5, § 36 Satz 1, auch in Verbindung mit Satz 2, § 37 Absatz 1, § 46 Absatz 2 oder § 47 Absatz 1 Nummer 2 oder
+a) § 13 Absatz 1 Nummer 3 oder Absatz 4 Nummer 1 Buchstabe d, e, f oder Buchstabe g, § 14 Absatz 1 Nummer 1, 3 oder 5, Absatz 2 oder 3, § 23 Nummer 2 bis 6, § 23a Nummer 5 bis 9, § 28 Absatz 3 Satz 1 Nummer 1 oder 3, § 29 Absatz 1 Nummer 1, 2 oder 4 oder Absatz 2, § 32 Absatz 1 Nummer 8, auch in Verbindung mit § 28 Absatz 1 Nummer 2, § 34 Satz 1 Nummer 7, § 35 Nummer 1, 1a oder Nummer 5, § 36 Satz 1, auch in Verbindung mit Satz 2, § 37 Absatz 1 oder § 46 Absatz 2 oder
 
 b) § 9 Absatz 2 Nummer 1 Buchstabe c, § 14 Absatz 1 Nummer 2 oder 4, § 35 Nummer 2 oder 3, § 46 Absatz 1 Satz 1 Nummer 5, § 55 Absatz 3 Satz 1 oder 2, § 56 Absatz 1 Satz 1 Nummer 2, Absatz 2, 3 Satz 1 oder Absatz 4 Nummer 1 oder 2 in Verbindung mit Absatz 1 Satz 1 Nummer 2 oder Absatz 2, oder § 57 Absatz 7 Satz 1 Nummer 1, 2 oder 3 Buchstabe a, b oder c in Verbindung mit § 56 Absatz 1 Satz 1 Nummer 2 oder Absatz 2, oder § 57 Absatz 8 Nummer 1
 
@@ -2119,7 +2167,7 @@ geahndet werden können.
 
 # § 64 – Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von den in § 2 Absatz 2, 3, 5 und 6 genannten Erzeugnissen sowie von mit Lebensmitteln verwechselbaren Produkten. Die Verfahren werden unter Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
+(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von den in § 2 Absatz 1 genannten Erzeugnissen mit Ausnahme von Futtermitteln sowie von mit Lebensmitteln verwechselbaren Produkten. Die Verfahren werden unter Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
 
 (2) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und von Analysemethoden für die Untersuchung von Futtermitteln. Vor deren Veröffentlichung soll ein jeweils auszuwählender Kreis von Vertretern der Wissenschaft, der Fütterungsberatung, der Futtermitteluntersuchung, der Futtermittelüberwachung, der Landwirtschaft und der sonst beteiligten Wirtschaft angehört werden.
 
@@ -2133,7 +2181,15 @@ Das Bundesministerium wird ermächtigt,
 
 2. um eine einheitliche Durchführung im Hinblick auf Berichtspflichten, die sich aus Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union ergeben und gegenüber den Organen der Europäischen Union bestehen, zu fördern, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die zuständigen Behörden der Länder die zur Erfüllung dieser Berichtspflichten erforderlichen Daten dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit oder dem Bundesinstitut für Risikobewertung zu übermitteln haben,
 
-3. durch Rechtsverordnung mit Zustimmung des Bundesrates das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Rahmen der ihm durch § 2 Absatz 1 des BVL-Gesetzes zugewiesenen Tätigkeiten, das Bundesinstitut für Risikobewertung im Rahmen der ihm durch § 2 Absatz 1 des BfR-Gesetzes zugewiesenen Tätigkeiten oder die Bundesanstalt für Landwirtschaft und Ernährung im Rahmen der ihr durch § 2 Absatz 1 Nummer 1 bis 7 des Gesetzes über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung zugewiesenen Aufgaben als zuständige Stelle für die Durchführung von Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union im Anwendungsbereich dieses Gesetzes zu bestimmen, soweit dies zu einer einheitlichen Durchführung von Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union erforderlich ist.
+3. durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+a) das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Rahmen der ihm durch § 2 Absatz 1 des BVL-Gesetzes zugewiesenen Tätigkeiten,
+
+b) das Bundesinstitut für Risikobewertung im Rahmen der ihm durch § 2 Absatz 1 des BfR-Gesetzes zugewiesenen Tätigkeiten oder
+
+c) die Bundesanstalt für Landwirtschaft und Ernährung im Rahmen der ihr durch § 2 Absatz 1 Nummer 1 bis 7 des Gesetzes über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung zugewiesenen Aufgaben
+
+als zuständige Stelle für die Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes zu bestimmen, soweit dies zur einheitlichen Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist.
 
 Soweit im Fall des Satzes 1 Nummer 2 der Anwendungsbereich des § 13 Absatz 5 Satz 1 betroffen ist, tritt an die Stelle des Bundesministeriums das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundesministerium.
 
@@ -2151,7 +2207,7 @@ Soweit im Fall des Satzes 1 Nummer 2 der Anwendungsbereich des § 13 Absatz 5 Sa
 
 # § 67 – Ausnahmeermächtigungen für Krisenzeiten
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die lebensnotwendige Versorgung der Bevölkerung mit in § 2 Absatz 2, 5 und 6 genannten Erzeugnissen sonst ernstlich gefährdet wäre. Satz 1 gilt nicht für die Verbote der §§ 5, 12, 26 und 30 sowie für nach § 13 Absatz 1 Nummer 1 bis 4 und Absatz 5 Satz 1 und nach § 34 für Lebensmittel erlassenen Rechtsverordnungen. Ausnahmen von dem Verbot des § 8 bedürfen zusätzlich des Einvernehmens mit den in § 8 Absatz 2 genannten Bundesministerien.
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die lebensnotwendige Versorgung der Bevölkerung mit Lebensmitteln, kosmetischen Mitteln oder Bedarfsgegenständen sonst ernstlich gefährdet wäre. Satz 1 gilt nicht für die Verbote der §§ 5 und 30 sowie für nach § 13 Absatz 1 Nummer 1 bis 4 und Absatz 5 Satz 1 und nach § 34 für Lebensmittel erlassenen Rechtsverordnungen. Ausnahmen von dem Verbot des § 8 bedürfen zusätzlich des Einvernehmens mit den in § 8 Absatz 2 genannten Bundesministerien.
 
 (2) Das Bundesministerium wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die lebensnotwendige Versorgung der Tiere mit Futtermitteln oder die Produktion tierischer Erzeugnisse oder sonstiger Produkte sonst ernstlich gefährdet wäre. Satz 1 gilt nicht für die Verbote der §§ 17 bis 20.
 
@@ -2161,13 +2217,13 @@ Soweit im Fall des Satzes 1 Nummer 2 der Anwendungsbereich des § 13 Absatz 5 Sa
 
 (1) Von den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen können im Einzelfall auf Antrag Ausnahmen nach Maßgabe der Absätze 2 und 3 zugelassen werden. Satz 1 gilt nicht für
 
-1. die Verbote der §§ 5, 12 und 17 Absatz 1 Satz 1 Nummer 1 und der §§ 20, 26 und 30 und
+1. die Verbote der §§ 5 und 17 Absatz 1 Satz 1 Nummer 1 und der §§ 20, 26 und 30 und
 
 2. nach § 13 Absatz 1 Nummer 1 bis 4 und Absatz 5 Satz 1, § 14 Absatz 2 Nummer 1 und § 34 erlassene Rechtsverordnungen.
 
 (2) Ausnahmen dürfen nur zugelassen werden
 
-1. für das Herstellen, Behandeln und Inverkehrbringen bestimmter Lebensmittel, kosmetischer Mittel oder Bedarfsgegenstände, sofern Ergebnisse zu erwarten sind, die für eine Änderung oder Ergänzung der für Lebensmittel, kosmetische Mittel oder Bedarfsgegenstände geltenden Vorschriften von Bedeutung sein können, unter amtlicher Beobachtung oder sofern eine Angleichung der Rechtsvorschriften an Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union noch nicht erfolgt ist; dabei sollen die schutzwürdigen Interessen des Einzelnen sowie alle Faktoren, die die allgemeine Wettbewerbslage des betreffenden Industriezweiges beeinflussen können, angemessen berücksichtigt werden,
+1. für das Herstellen, Behandeln und Inverkehrbringen bestimmter Lebensmittel, Mittel zum Tätowieren, kosmetischer Mittel oder Bedarfsgegenstände, sofern Ergebnisse zu erwarten sind, die für eine Änderung oder Ergänzung der für Lebensmittel, Mittel zum Tätowieren, kosmetische Mittel oder Bedarfsgegenstände geltenden Vorschriften von Bedeutung sein können, unter amtlicher Beobachtung oder sofern eine Angleichung der Rechtsvorschriften an Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union noch nicht erfolgt ist; dabei sollen die schutzwürdigen Interessen des Einzelnen sowie alle Faktoren, die die allgemeine Wettbewerbslage des betreffenden Industriezweiges beeinflussen können, angemessen berücksichtigt werden,
 
 2. für das Herstellen, Behandeln und Inverkehrbringen bestimmter Lebensmittel als Sonderverpflegung für Angehörige
 
@@ -2187,7 +2243,7 @@ einschließlich der hierfür erforderlichen Versuche sowie der Abgabe solcher Le
 
 1. in den Fällen des Absatzes 2 Nummer 1 und 4 von den Rechtsvorschriften über ausreichende Kenntlichmachung,
 
-2. in den Fällen des Absatzes 2 Nummer 4 von den Verboten der §§ 6, 8 und 10.
+2. in den Fällen des Absatzes 2 Nummer 4 von den Verboten der §§ 8 und 10.
 
 (4) Zuständig für die Zulassung von Ausnahmen nach Absatz 2 Nummer 1 und 3 ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, im Einvernehmen mit dem Bundesamt für Wirtschaft und Ausfuhrkontrolle, im Fall des Absatzes 2 Nummer 3 auch im Einvernehmen mit der Bundesanstalt Technisches Hilfswerk. In den Fällen des Absatzes 2 Nummer 2 ist hinsichtlich der Organisationen des Bundes und der verbündeten Streitkräfte das Bundesministerium im Einvernehmen mit dem für diese fachlich zuständigen Bundesministerium zuständig. In den übrigen Fällen des Absatzes 2 Nummer 2 sowie in den Fällen des Absatzes 2 Nummer 4 sind die von den Landesregierungen bestimmten Behörden zuständig. Die Zulassung kann mit Auflagen versehen werden.
 
@@ -2285,17 +2341,11 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des V
 
 4. § 59 Absatz 2 Nummer 4 ab dem Tag der Anwendung der Gemeinschaftsliste nach Artikel 24 Absatz 2 der Verordnung (EG) Nr. 1332/2008.
 
-(4) Bis zum erstmaligen Erlass einer Rechtsverordnung nach § 44a Absatz 3 gilt Folgendes:
+(4) Hinsichtlich der Verfolgung von Straftaten sind auf Sachverhalte, die vor dem 10. August 2021 entstanden sind, § 2 Absatz 3 Satz 2 Nummer 1 und 3 jeweils in Verbindung mit § 4 Absatz 1 Nummer 2 und § 6 Absatz 1, § 11 Absatz 2 Nummer 2, § 19, §§ 26 bis 29, § 39 Absatz 1, 2 und 7 sowie § 58 Absatz 1 Nummer 11, 12 und 17 Buchstabe a und b, Absatz 2a Nummer 2, § 59 Absatz 1 Nummer 1 bis 5, 8, 9, 13, 14, 19 Buchstabe b, Nummer 20 und 21 Buchstabe a und § 60 Absatz 1 Nummer 2, Absatz 2 Nummer 22a und 26a in der bis zum 9. August 2021 geltenden Fassung weiter anzuwenden. Hinsichtlich der Verfolgung von Straftaten ist auf Sachverhalte, die vor dem 1. April 2020 entstanden sind, § 59 Absatz 2 Nummer 3a in der bis zum 9. August 2021 geltenden Fassung weiter anzuwenden.
 
-1. Die Pflicht zur Mitteilung nach § 44a Absatz 1 Satz 1 besteht für die Kongenere von Dioxinen und dioxinähnlichen polychlorierten Biphenylen nach Maßgabe der Fußnote 31 des Anhangs der Verordnung (EG) Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur Festsetzung der Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 5), die zuletzt durch die Verordnung (EU) Nr. 165/2010 (ABl. L 50 vom 27.2.2010, S. 8) geändert worden ist, und für die Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen hinsichtlich der in Abschnitt 4 der Kontaminanten-Verordnung genannten Kongenere,
+(5) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von Rechtsverordnungen des Bundes weggefallen sind, können Vorschriften, die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung des Bundesministeriums mit Zustimmung des Bundesrates aufgehoben werden.
 
-2. jede Mitteilung ist unverzüglich schriftlich oder elektronisch abzugeben, nachdem der zur Mitteilung Verpflichtete Kenntnis von einer mitteilungspflichtigen Tatsache erhalten hat,
-
-3. die zuständigen Behörden der Länder haben die ihnen im Sinne des § 44a Absatz 2 vorliegenden Untersuchungsergebnisse bis zum 15. Tag eines Monats für den Vormonat an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zu übermitteln.
-
-In der in Satz 1 bezeichneten Verordnung ist das Nichtanwenden des Satzes 1 festzustellen.
-
-(5) § 17a ist erst ab dem 1. Juli 2013 anzuwenden.
+(5a) Soweit durch Änderungen dieses Gesetzes oder durch Änderung von aufgrund dieses Gesetzes erlassenen Rechtsverordnungen Ermächtigungen zum Erlass von Rechtsverordnungen der Länder weggefallen sind, können Vorschriften, die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung der Landesregierungen aufgehoben werden.
 
 (6) Das Bundesministerium für Ernährung und Landwirtschaft macht jeweils die Tage, ab denen die in Absatz 3 bezeichneten Vorschriften anzuwenden sind, im Bundesgesetzblatt bekannt.
 
