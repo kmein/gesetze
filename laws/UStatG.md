@@ -49,7 +49,19 @@ b) Art des Deponieabdichtungssystems, Art der Sickerwasserbehandlung, Art der En
 
 c) Aufkommen und Verbleib der im Rahmen der Abfallentsorgung gewonnenen Energieträger und, soweit sie nicht nach dem Energiestatistikgesetz erfasst werden, Erzeugung und Verbleib von Energie, jeweils nach Art und Menge.
 
-(2) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den nach dem Kreislaufwirtschaftsgesetz zuständigen Entsorgungsträgern und Dritten, soweit diesen Verwertungs- und Beseitigungspflichten übertragen oder sie mit deren Erfüllung beauftragt worden sind, die Erhebungsmerkmale Einsammeln und Verbleib von Abfällen nach Art, Menge und Herkunft. Die Erhebungsmerkmale sind in der regionalen Gliederung nach Kreisen und kreisfreien Städten anzugeben.
+(2) Die Erhebung erfasst jährlich bei den nach dem Kreislaufwirtschaftsgesetz zuständigen Entsorgungsträgern sowie bei Dritten, soweit ihnen Verwertungs- und Beseitigungspflichten übertragen worden sind oder soweit sie mit der Erfüllung dieser Pflichten beauftragt worden sind,
+
+1. die Erhebungsmerkmale Einsammeln und Verbleib von Abfällen nach Art, Menge und Herkunft; die Erhebungsmerkmale sind in der regionalen Gliederung nach Kreisen und kreisfreien Städten anzugeben;
+
+2. beginnend mit dem Berichtsjahr 2020, zusätzlich die Anzahl der Anfallstellen,
+
+a) bei denen Bioabfälle mittels Biotonne getrennt gesammelt werden,
+
+b) bei denen Bioabfälle mittels Biotonne getrennt gesammelt und zudem Bioabfälle selbst kompostiert werden,
+
+c) bei denen ein Anschluss- und Benutzungszwang für eine getrennte Bioabfallsammlung mittels Biotonne besteht, die aber vom Anschluss- und Benutzungszwang befreit sind, weil sie ihre Bioabfälle selbst kompostieren,
+
+d) bei denen kein Anschluss- und Benutzungszwang für eine Biotonne besteht und keine Getrenntsammlung von Bioabfällen mittels Biotonne erfolgt.
 
 (3) Die Erhebung erfasst bei höchstens 20 000 Betrieben und sonstigen Arbeitsstätten alle vier Jahre, beginnend mit dem Berichtsjahr 2010, das Erhebungsmerkmal Erzeugung von Abfällen nach Art und Menge.
 

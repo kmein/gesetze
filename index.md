@@ -4248,6 +4248,7 @@
 - [OWiG](laws/OWiG.md) Gesetz über Ordnungswidrigkeiten
 - [OWiG§124V](laws/OWiG§124V.md) Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten
 - [OZG](laws/OZG.md) Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen
+- [OZG§3Abs2S2V](laws/OZG§3Abs2S2V.md) Verordnung nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes
 - [OzonSÜbk](laws/OzonSÜbk.md) Wiener Übereinkommen zum Schutz der Ozonschicht
 - [OzonSÜbkG](laws/OzonSÜbkG.md) Gesetz zu dem Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht
 - [PachtkredG](laws/PachtkredG.md) Pachtkreditgesetz
@@ -4968,6 +4969,7 @@
 - [SeeVersNachwG](laws/SeeVersNachwG.md) Gesetz über bestimmte Versicherungsnachweise in der Seeschifffahrt*
 - [SeeVersNachwGAnwBek](laws/SeeVersNachwGAnwBek.md) Bekanntmachung über die Anwendbarkeit von Teilen des Seeversicherungsnachweisgesetzes
 - [SeeVersNachwV](laws/SeeVersNachwV.md) Verordnung über die Ausstellung von Haftungsbescheinigungen nach dem Seeversicherungsnachweisgesetz
+- [SEFFV](laws/SEFFV.md) Verordnung über die unentgeltliche Beförderung von Soldatinnen und Soldaten in öffentlichen Eisenbahnen bei Privatfahrten
 - [SegelmAusbV](laws/SegelmAusbV.md) Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin *)
 - [SegelmMstrV](laws/SegelmMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Segelmacher-Handwerk
 - [SeilAusbV](laws/SeilAusbV.md) Verordnung über die Berufsausbildung zum Seiler und zur Seilerin *)
@@ -5416,7 +5418,7 @@
 - [SvEV](laws/SvEV.md) Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt
 - [SVFAG](laws/SVFAG.md) Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung
 - [SVFAngAusbV 1997](laws/SVFAngAusbV_1997.md) Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
-- [SVG](laws/SVG.md) Gesetz über die Versorgung für die ehemaligen Soldaten der Bundeswehr und ihre Hinterbliebenen*
+- [SVG](laws/SVG.md) Gesetz über die Versorgung für die früheren Soldaten der Bundeswehr und ihre Hinterbliebenen
 - [SVG§63V](laws/SVG§63V.md) Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes*
 - [SVHV](laws/SVHV.md) Verordnung über das Haushaltswesen in der Sozialversicherung
 - [SVkAbk CHE](laws/SVkAbk_CHE.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge

@@ -7,7 +7,7 @@ Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien Zugang zu d
 
 1. Erzeugnisse im Sinne des Lebensmittel- und Futtermittelgesetzbuches (Erzeugnisse) sowie
 
-2. Verbraucherprodukte, die dem § 2 Nummer 26 des Produktsicherheitsgesetzes unterfallen (Verbraucherprodukte),
+2. Verbraucherprodukte, die dem § 2 Nummer 25 des Produktsicherheitsgesetzes unterfallen (Verbraucherprodukte),
 
 damit der Markt transparenter gestaltet und hierdurch der Schutz der Verbraucherinnen und Verbraucher vor gesundheitsschädlichen oder sonst unsicheren Erzeugnissen und Verbraucherprodukten sowie vor Täuschung beim Verkehr mit Erzeugnissen und Verbraucherprodukten verbessert wird.
 
@@ -35,7 +35,7 @@ sowie Maßnahmen und Entscheidungen, die im Zusammenhang mit den in den Buchstab
 
 6. die Ausgangsstoffe und die bei der Gewinnung der Ausgangsstoffe angewendeten Verfahren,
 
-7. Überwachungsmaßnahmen oder andere behördliche Tätigkeiten oder Maßnahmen zum Schutz von Verbraucherinnen und Verbrauchern, einschließlich der Auswertung dieser Tätigkeiten und Maßnahmen, sowie Statistiken über Verstöße gegen in § 39 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und § 26 Absatz 1 Satz 1 des Produktsicherheitsgesetzes genannte Rechtsvorschriften, soweit sich die Verstöße auf Erzeugnisse oder Verbraucherprodukte beziehen,
+7. Überwachungsmaßnahmen oder andere behördliche Tätigkeiten oder Maßnahmen zum Schutz von Verbraucherinnen und Verbrauchern, einschließlich der Auswertung dieser Tätigkeiten und Maßnahmen, sowie Statistiken über Verstöße gegen in § 39 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und § 8 des Marktüberwachungsgesetzes genannte Rechtsvorschriften, soweit sich die Verstöße auf Erzeugnisse oder Verbraucherprodukte beziehen,
 
 (Informationen), die bei einer Stelle im Sinne des Absatzes 2 unabhängig von der Art ihrer Speicherung vorhanden sind. Der Anspruch nach Satz 1 besteht insoweit, als kein Ausschluss- oder Beschränkungsgrund nach § 3 vorliegt.
 
