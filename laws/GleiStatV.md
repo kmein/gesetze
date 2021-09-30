@@ -7,15 +7,13 @@
 
 1. Art des Dienst- oder Arbeitsverhältnisses, getrennt nach
 
-a) Beamtinnen und Beamten,
+a) Beamtinnen und Beamten sowie Inhaberinnen und Inhabern öffentlich-rechtlicher Ämter, sofern sie besoldet sind oder ein außertarifliches Entgelt erhalten,
 
-b) Arbeitnehmerinnen und Arbeitnehmern,
+b) Arbeitnehmerinnen und Arbeitnehmern, Mitgliedern der Leitungsorgane mit privatrechtlichem Dienstvertrag sowie Inhaberinnen und Inhabern öffentlich-rechtlicher Ämter, sofern sie ein tarifliches Entgelt erhalten,
 
-c) Auszubildenden,
+c) Auszubildenden sowie
 
 d) Richterinnen und Richtern,
-
-e) Inhaberinnen und Inhabern öffentlich-rechtlicher Ämter,
 
 2. Vollzeitbeschäftigung und Teilzeitbeschäftigung,
 
@@ -31,19 +29,31 @@ a) Besoldungs- und Entgeltgruppen,
 
 b) Laufbahnen,
 
-c) Berufsausbildungen einschließlich des Vorbereitungsdienstes,
+c) Berufsausbildungen einschließlich des Vorbereitungsdienstes sowie
 
-d) Ebenen mit Vorgesetzten- oder Leitungsaufgaben einschließlich der Stellen und Planstellen Vorsitzender Richterinnen und Vorsitzender Richter,
+d) Ebenen mit Führungspositionen ab Ebene der Referatsleitung einschließlich der Stellen und Planstellen Vorsitzender Richterinnen und Vorsitzender Richter,
 
-jeweils getrennt nach Vollzeitbeschäftigung und Teilzeitbeschäftigung,
+jeweils getrennt nach Vollzeitbeschäftigung und Teilzeitbeschäftigung und
 
 5. Inanspruchnahme einer Beurlaubung oder vollständigen Freistellung auf Grund von Familien- oder Pflegeaufgaben nach § 3 Nummer 6 und 7 des Bundesgleichstellungsgesetzes.
+
+Jede Dienststelle nach § 3 Nummer 5 Buchstabe a und b des Bundesgleichstellungsgesetzes erfasst alle zwei Jahre die Zahl der in der Dienststelle beschäftigten Frauen und Männer auch nach Anteilen an der höchsten und zweithöchsten vergebenen Note der im Erhebungszeitraum erfolgten Beurteilungsergebnisse von Regelbeurteilungen der Beschäftigten des höheren Dienstes, getrennt nach
+
+1. Frauen und Männern,
+
+2. zum Beurteilungsstichtag teilzeitbeschäftigten Frauen und Männern,
+
+3. zum Beurteilungsstichtag vollzeitbeschäftigten Frauen und Männern,
+
+4. Frauen und Männern, die zum Beurteilungsstichtag eine Führungsposition ab Ebene der Referatsleitung innehatten, sowie
+
+5. Frauen und Männern, die zum Beurteilungsstichtag keine Führungsposition ab Ebene der Referatsleitung innehatten.
 
 (2) Neben den Erhebungsmerkmalen nach Absatz 1 ist alle zwei Jahre die Zahl der Frauen und Männer zu erfassen nach
 
 1. Bewerbungen im Vergleich zu entsprechenden Einstellungen,
 
-2. Vollzeitbeschäftigung und Teilzeitbeschäftigung nach Absatz 1 Nummer 2, bezogen auf die Übertragung von in der Dienststelle ausgeschriebenen Funktionen mit Vorgesetzten- oder Leitungsaufgaben,
+2. Vollzeitbeschäftigung und Teilzeitbeschäftigung nach Absatz 1 Satz 1 Nummer 2, bezogen auf die Übertragung von in der Dienststelle ausgeschriebenen Funktionen mit Vorgesetzten- oder Leitungsaufgaben,
 
 3. beruflicher Aufstieg, getrennt nach
 
@@ -53,21 +63,21 @@ b) Höhergruppierungen,
 
 c) Übertragung von Vorgesetzten- oder Leitungsaufgaben,
 
-jeweils getrennt nach Beschäftigten, die eine Maßnahme nach Absatz 1 Nummer 5 in Anspruch genommen haben, und Beschäftigten, die eine solche Maßnahme nicht in Anspruch genommen haben.
+jeweils getrennt nach Beschäftigten, die eine Maßnahme nach Absatz 1 Satz 1 Nummer 5 in Anspruch genommen haben, und Beschäftigten, die eine solche Maßnahme nicht in Anspruch genommen haben.
 
 Satz 1 Nummer 1 gilt auch für Frauen und Männer, die für eine Wahl zur Bundesrichterin oder zum Bundesrichter vorgeschlagen worden sind.
 
-(3) Die Institutionen des Bundes nach § 3 Nummer 3 des Bundesgremienbesetzungsgesetzes erfassen jährlich
+(3) Die Institutionen des Bundes nach § 3 Nummer 3 des Bundesgremienbesetzungsgesetzes erfassen jährlich zum 31. Dezember
 
-1. Zahl und Bezeichnung der Gremien, für die sie Mitglieder bestimmen können,
+1. die Zahl und die Bezeichnung der Aufsichtsgremien und der wesentlichen Gremien, für die sie federführend zuständig sind,
 
-2. die Zahl der durch den Bund bestimmten weiblichen und männlichen Mitglieder in jedem Gremium,
+2. die Zahl der vom Bund für die jeweiligen in Nummer 1 genannten Gremien bestimmten Mitglieder,
 
-3. Veränderungen der Zahl nach Nummer 2,
+3. die Anzahl der Frauen und Männer, die der Bund in den jeweiligen in Nummer 1 genannten Gremien bestimmt hat, und
 
-4. Veränderungen der Zahl oder der Bezeichnung der Gremien nach Nummer 1 durch Entfernen oder Hinzufügen von Gremien in der Aufstellung nach § 6 Absatz 1 Satz 1 des Bundesgremienbesetzungsgesetzes.
+4. die Veränderungen nach den Nummern 1 bis 3 im Vergleich zum Vorjahr.
 
-Die Daten sind getrennt nach Aufsichts- und wesentlichen Gremien zu erfassen.
+Die Daten sind für die Aufsichtsgremien und die wesentlichen Gremien getrennt zu erfassen.
 
 # § 2 – Erhebungsmerkmale für den Gleichstellungsindex
 
@@ -75,15 +85,25 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 1. der Laufbahngruppe des höheren Dienstes,
 
-2. den einzelnen Ebenen mit Vorgesetzten- oder Leitungsaufgaben einschließlich der politischen Leitungsämter,
+2. den einzelnen Ebenen mit Führungspositionen ab Ebene der Referatsleitung einschließlich der politischen Leitungsämter,
 
-3. Vollzeitbeschäftigung und Teilzeitbeschäftigung, auch für Beschäftigte mit Vorgesetzten- oder Leitungsaufgaben,
+3. Vollzeitbeschäftigung und Teilzeitbeschäftigung, auch für Beschäftigte in Führungspositionen ab Ebene der Referatsleitung,
 
 4. der Inanspruchnahme einer Beurlaubung oder vollständigen Freistellung auf Grund von Familien- oder Pflegeaufgaben nach § 1 Absatz 1 Nummer 5,
 
 5. beruflichem Aufstieg.
 
-# § 3 – Berichtszeitpunkt, Berichtszeitraum
+# § 3 – Führungspositionen
+
+Sofern nach dieser Verordnung Führungspositionen ab Ebene der Referatsleitung erfasst werden sollen, sind die entsprechenden Daten zur besseren Vergleichbarkeit gemäß den nachfolgenden Kategorien zu erfassen:
+
+1. Führungspositionen im gehobenen Dienst und entsprechend für Tarifbeschäftigte ab Ebene der Referatsleitung, jedoch nur ab Besoldungsgruppe A 12, im Anwendungsbereich des Tarifvertrages für den öffentlichen Dienst ab Entgeltgruppe E 12, ansonsten ab entsprechenden Entgeltgruppen;
+
+2. Führungspositionen im höheren Dienst und entsprechend für Tarifbeschäftigte und außertariflich Beschäftigte in allen Dienststellen, die keine obersten Bundesbehörden sind, ab Ebene der Referatsleitung, jedoch nur ab Besoldungsgruppe A 15, im Anwendungsbereich des Tarifvertrages für den öffentlichen Dienst ab Entgeltgruppe E 15, ansonsten ab entsprechendem Entgelt;
+
+3. Führungspositionen im höheren Dienst und entsprechend für außertariflich Beschäftigte in obersten Bundesbehörden ab Ebene der Referatsleitung, jedoch nur ab Besoldungsgruppe A 16 oder ab entsprechendem Entgelt.
+
+# § 4 – Berichtszeitpunkt, Berichtszeitraum
 
 (1) Die Daten nach § 1 Absatz 1 sind zum 30. Juni des Berichtsjahres zu erfassen. Die Daten nach § 1 Absatz 2 sind für den Zeitraum vom 1. Juli des vorletzten Jahres bis zum 30. Juni des Berichtsjahres zu erfassen.
 
@@ -91,11 +111,19 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (3) Die Daten nach § 2 Satz 1 und 2 Nummer 1 bis 4 sind zum 30. Juni des Berichtsjahres zu erfassen. Die Daten nach § 2 Satz 2 Nummer 5 sind für den Zeitraum vom 1. Juli des Vorjahres bis zum 30. Juni des Berichtsjahres zu erfassen.
 
-# § 4 – Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik
+# § 5 – Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik
 
 (1) Die nach § 1 Absatz 1 und 2 erfassten Daten der nachgeordneten Bundesbehörden mit regelmäßig mindestens 15 Beschäftigten sind der obersten Bundesbehörde zu melden. Die Dienststellen der Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts melden ihre Daten an ihre jeweilige Körperschaft, Anstalt oder Stiftung. Diese leitet die zusammengefassten Daten an die oberste Bundesbehörde oder die oberste Aufsichtsbehörde weiter.
 
-(2) Die obersten Bundesbehörden melden dem Statistischen Bundesamt ihre eigenen Daten, die zusammengefassten Daten des jeweiligen Geschäftsbereichs sowie die zusammengefassten Daten der ihrer Rechtsaufsicht unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts. Ist die oberste Aufsichtsbehörde nicht zugleich oberste Bundesbehörde, meldet sie die nach Absatz 1 Satz 2 erhaltenen Daten direkt dem Statistischen Bundesamt.
+(2) Die obersten Bundesbehörden melden dem Statistischen Bundesamt
+
+1. ihre eigenen Daten,
+
+2. die zusammengefassten Daten des jeweiligen Geschäftsbereichs sowie
+
+3. die zusammengefassten Daten der ihrer Rechtsaufsicht unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, getrennt nach den Gruppen Körperschaften, Anstalten und Stiftungen, bei Körperschaften der Sozialversicherung getrennt nach Zweigen der Sozialversicherung.
+
+Ist die oberste Aufsichtsbehörde nicht zugleich oberste Bundesbehörde, so meldet sie die nach Absatz 1 Satz 2 erhaltenen Daten direkt dem Statistischen Bundesamt.
 
 (3) Die Institutionen des Bundes melden dem Statistischen Bundesamt die nach § 1 Absatz 3 erfassten Daten zu ihren Aufsichts- und wesentlichen Gremien bis zum 31. März des dem Berichtsjahr folgenden Jahres.
 
@@ -107,7 +135,7 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (5) Das Statistische Bundesamt leitet die Statistik nach § 38 Absatz 3 Nummer 1 des Bundesgleichstellungsgesetzes den obersten Bundesbehörden bis zum 30. September des dem Berichtsjahr folgenden Jahres für den internen Dienstgebrauch zu.
 
-# § 5 – Meldung und Aufbereitung der Daten für den Gleichstellungsindex
+# § 6 – Meldung und Aufbereitung der Daten für den Gleichstellungsindex
 
 (1) Für die Meldung und Aufbereitung der Daten gilt § 4 Absatz 4 entsprechend.
 
@@ -125,112 +153,28 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (3) Das Statistische Bundesamt veröffentlicht den Gleichstellungsindex bis zum 31. Dezember des Berichtsjahres auf seiner Internetseite.
 
-# § 6 – Elektronische Erfassung und Meldung
+# § 7 – Elektronische Erfassung und Meldung
 
-(1) Die Erfassung und Meldung der Daten hat elektronisch zu erfolgen. Die Dienststellen oder Institutionen des Bundes haben hierfür die elektronischen Erhebungsformulare des Statistischen Bundesamtes zu verwenden. Die Erhebungsformulare müssen automatisiert verarbeitbar sein und inhaltlich den Anlagen entsprechen.
+(1) Die Erfassung und Meldung der Daten hat elektronisch zu erfolgen. Die Dienststellen oder Institutionen des Bundes haben hierfür die elektronischen Erhebungsformulare des Statistischen Bundesamtes zu verwenden. Die Erhebungsformulare müssen automatisiert verarbeitbar sein und inhaltlich den §§ 1 und 2 entsprechen.
 
-(2) Das Statistische Bundesamt kann die redaktionelle Gestaltung der elektronischen Erhebungsformulare mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern, für Bau und Heimat ändern. Art und Umfang der nach den §§ 1 und 2 zu erfassenden Daten dürfen nicht geändert werden.
+(2) Das Statistische Bundesamt kann die Gestaltung der elektronischen Erhebungsformulare mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern, für Bau und Heimat ändern.
 
-# § 7 – Datenschutz
+# § 8 – Datenschutz
 
-Die Dienststellen und Institutionen des Bundes haben sicherzustellen, dass nur die mit der Erfassung, Zusammenstellung und Weiterleitung der Daten betrauten Personen Kenntnis von den zu erfassenden und zu meldenden Daten erlangen.
+Die Dienststellen und Institutionen des Bundes haben sicherzustellen, dass nur die Personen, die mit personellen und Organisationsangelegenheiten betraut sind, Kenntnis von den zu erfassenden und zu meldenden personenbezogenen Daten erlangen.
 
-# § 8 – Sonderregelung für den Bundesnachrichtendienst
+# § 9 – Sonderregelung für den Bundesnachrichtendienst
 
 Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und 2 ausgenommen.
 
-# Anlage 1 – (zu § 6 Absatz 1 GleiStatV)
+# Anlage 1 – (weggefallen)
 
-(Fundstelle: BGBl. I 2015, 2283 - 2298)
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0100.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0120.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0130.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0140.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0150.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0160.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 2 – (zu § 6 Absatz 1)
-
-(Fundstelle: BGBl. I 2015, 2299 - 2306)
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0170neu.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0180.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0190.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0200.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0210.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0220.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0230.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0240.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+# Anlage 2 – (weggefallen)
 
 (+++ Anlage 2 Inhaltsübersicht (Text vor Formular G Seite 1) Fußnote 1 Satz 1 u. 3: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Abstz" durch "Absatz" ersetzt +++)
 
-# Anlage 3 – (zu § 6 Absatz 1)
+# Anlage 3 – (weggefallen)
 
-(Fundstelle: BGBl. I 2015, 2307 - 2312)
+# Anlage 4 – (weggefallen)
 
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0250.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0260.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0270.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0280.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0290.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0300.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 4 – (zu § 6 Absatz 1 GleiStatV)
-
-(Fundstelle: BGBl. I 2015, 2313 - 2317)
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0310.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0320.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0330.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0340.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0350.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-# Anlage 5 – (zu § 6 Absatz 1 GleiStatV)
-
-(Fundstelle: BGBl. I 2015, 2318 - 2319)
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0360.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-<a href="../normengrafiken/bgbl1_2015/j2274-1_0370.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
+# Anlage 5 – (weggefallen)

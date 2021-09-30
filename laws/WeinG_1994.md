@@ -852,7 +852,7 @@ c) dass bei Gegenständen aus bestimmten Stoffen das Übergehen nicht zugelassen
 
 5. das Verwenden von Gegenständen aus bestimmten Stoffen zu verbieten, wenn zu befürchten ist, dass gesundheitlich nicht unbedenkliche Anteile eines nicht zugelassenen Stoffes in ein Erzeugnis übergehen.
 
-(4) Soweit auf Grund des Absatzes 3 Nr. 2, 4 oder 5 keine Vorschriften erlassen worden sind, sind die auf Grund des § 12 Abs. 2 Nr. 1, des § 31 Abs. 2 und des § 32 des Lebensmittel- und Bedarfsgegenständegesetzes in der bis zum 6. September 2005 geltenden Fassung und die auf Grund des § 7 Abs. 2 Nr. 1 und des § 32 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches erlassenen Rechtsverordnungen anzuwenden.
+(4) Soweit auf Grund des Absatzes 3 Nummer 2, 4 oder 5 keine Vorschriften erlassen worden sind, sind die auf Grund des § 32 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches erlassenen Rechtsverordnungen anzuwenden
 
 (5) Für Rückstände in und auf Weintrauben sind
 
@@ -1334,6 +1334,8 @@ Die Regelungen des Abschnitts 9a des Lebensmittel- und Futtermittelgesetzbuches 
 
 (1) Erzeugnisse, die den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht entsprechen, dürfen nicht in den Verkehr gebracht, eingeführt oder ausgeführt werden, soweit nichts Abweichendes bestimmt ist. Die in Satz 1 genannten Erzeugnisse dürfen auch nicht verwendet oder verwertet werden, es sei denn, dass ihre Vorschriftswidrigkeit ausschließlich auf der Verletzung von Vorschriften über Bezeichnungen, sonstige Angaben und Aufmachungen beruht.
 
+(1a) Es ist verboten, andere als dem Verbot des Artikels 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe b der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, unterliegende Lebensmittel, soweit es sich dabei um Erzeugnisse handelt, die für den Verzehr durch den Menschen ungeeignet sind, in den Verkehr zu bringen.
+
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, sofern ein wirtschaftliches Bedürfnis besteht und schwerwiegende Interessen des Verbrauchers nicht entgegenstehen, Ausnahmen von Absatz 1 zuzulassen, und dabei insbesondere die Voraussetzungen zu regeln und Vorschriften über die Verarbeitung, Verwendung, Verwertung, Bezeichnung, Aufmachung und das Inverkehrbringen sowie das Verfahren zu erlassen.
 
 # § 28 – Besondere Verkehrsverbote
@@ -1420,7 +1422,7 @@ zu betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Gr
 
 (2) Vorbehaltlich des Absatzes 2a kann der zur Erteilung einer Auskunft nach Absatz 1 Nr. 5 Verpflichtete die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(2a) Ein Lebensmittelunternehmer im Sinne des Artikels 3 Nr. 3 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. EG Nr. L 31 S. 1), die durch die Verordnung (EG) Nr. 1642/2003 des Europäischen Parlaments und des Rates vom 22. Juli 2003 (ABl. EU Nr. L 245 S. 4) geändert worden ist, ist verpflichtet, den in der Überwachung tätigen Personen auf Verlangen Informationen, die
+(2a) Ein Lebensmittelunternehmer im Sinne des Artikels 3 Nr. 3 der Verordnung (EG) Nr. 178/2002 ist verpflichtet, den in der Überwachung tätigen Personen auf Verlangen Informationen, die
 
 1. er auf Grund eines nach Artikel 18 Abs. 2 Unterabs. 2 der Verordnung (EG) Nr. 178/2002 eingerichteten Systems oder Verfahrens besitzt und
 
@@ -1448,7 +1450,7 @@ genannten Informationen in elektronischer Form verfügbar, sind sie elektronisch
 
 (6) Die Inhaber der in Absatz 1 bezeichneten Grundstücke, Räume, Einrichtungen und Geräte und die von ihnen bestellten Vertreter sind verpflichtet, die Maßnahmen nach Absatz 1 und die Entnahme der Proben zu dulden und die in der Überwachung tätigen Behörden und Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Räume, Einrichtungen und Geräte zu bezeichnen, Räume und Behältnisse zu öffnen, die Entnahme der Proben zu ermöglichen und ihnen Auskünfte nach Absatz 1 Nr. 5 zu erteilen.
 
-(7) Im Übrigen gelten für die Überwachung die § 38 Abs. 1 bis 4 und 6 bis 8, § 39 Abs. 1, 2 Satz 1 und 2 Nr. 1 bis 5, 7 und 8, soweit dieser sich auf Anordnungen zur Durchsetzung der Pflicht des Lebensmittelunternehmers bezieht, und Nr. 9, Abs. 3 Nr. 1 und Abs. 7, §§ 40, 42 Abs. 5, § 43 Abs. 1 bis 4, § 44 Absatz 6 sowie § 49 Abs. 1 bis 3 des Lebensmittel- und Futtermittelgesetzbuches entsprechend.
+(7) Im Übrigen gelten für die Überwachung § 38 Absatz 1 bis 4, 6, 7 und 9, die §§ 38a, 38b, 39 Absatz 1, 2, 4 und 7 Nummer 1, die §§ 40, 42 Absatz 5, § 43 Absatz 1 bis 4, die §§ 43a, 44 Absatz 6 sowie § 49 Absatz 1 bis 3 des Lebensmittel- und Futtermittelgesetzbuches entsprechend.
 
 # § 32 – Rückstandsbeobachtung bei geernteten Weintrauben
 
@@ -1716,7 +1718,7 @@ Die gebietlichen Absatzförderungseinrichtungen und der Deutsche Weinfonds unter
 
 3. in anderen als den in Nummer 4, § 49 Satz 1 Nummer 6 oder Nummer 7 bezeichneten Fällen entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union eine der in Nummer 1 bezeichneten Handlungen begeht, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
 
-4. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+4. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist. § 58 Absatz 2 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach § 2 Nummer 1 entsprechend.
 
 (2) Wer eine der in Absatz 1 bezeichneten Handlungen fahrlässig begeht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
@@ -1742,11 +1744,13 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 5. entgegen § 26 Abs. 2 ein Getränk, das mit einem Erzeugnis verwechselt werden kann, ohne ein Erzeugnis zu sein, oder eine Vormischung für ein solches Getränk, verarbeitet, in den Verkehr bringt oder einführt,
 
+5a. entgegen § 27 Absatz 1a ein Lebensmittel in den Verkehr bringt,
+
 6. entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union ein Erzeugnis mit irreführenden Bezeichnungen, Hinweisen, sonstigen Angaben oder Aufmachungen in den Verkehr bringt, einführt, ausführt oder zum Gegenstand der Werbung macht, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
 
 7. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 3 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
-§ 59 Absatz 2 Nummer 1 Buchstabe c und Nummer 8, 9 und 10 des Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach § 2 Nummer 1 entsprechend.
+§ 59 Absatz 2 Nummer 1a Buchstabe a und c, Nummer 10 und 11 des Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach § 2 Nummer 1 entsprechend.
 
 # § 50 – Bußgeldvorschriften
 

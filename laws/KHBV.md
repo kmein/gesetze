@@ -71,7 +71,7 @@ Ein Krankenhaus mit bis zu 100 Betten oder mit nur einer bettenführenden Abteil
 
 # § 10 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Krankenhauses, das Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung eines Jahresabschlusses
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Krankenhauses, das Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung eines Jahresabschlusses
 
 1. entgegen § 1 Abs. 3 Satz 2
 

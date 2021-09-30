@@ -95,7 +95,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 1. Ort und Tag seines Erlasses,
 
-2. Familien- und Vornamen, Dienststelle und Dienstort sowie Organisationseinheit und Kontaktdaten der Mitglieder des Wahlvorstandes einschließlich der Ersatzmitglieder,
+2. Familienname und Vornamen, Organisationseinheit und Kontaktdaten der Mitglieder des Wahlvorstandes einschließlich der Ersatzmitglieder sowie bei gemeinsamer Wahl in verschiedenen Dienststellen die Dienststelle und bei Dienststellen mit verschiedenen Dienstorten den Dienstort,
 
 3. Ort der Bekanntgabe der Wählerinnenliste, wenn diese nicht zusammen mit dem Wahlausschreiben bekannt gegeben wird,
 
@@ -135,7 +135,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 (1) Jede Beschäftigte der Dienststelle, die wählbar ist, kann sich entweder für das Amt der Gleichstellungsbeauftragten oder für das Amt einer Stellvertreterin bewerben.
 
-(2) Die Bewerbung muss schriftlich unter Angabe von Familien- und Vornamen, Dienststelle und Dienstort, Organisationseinheit sowie Funktion erfolgen. Sie muss dem Wahlvorstand innerhalb von zwei Wochen nach Erlass des Wahlausschreibens vorliegen. Aus der Bewerbung muss sich eindeutig ergeben, ob
+(2) Die Bewerbung muss in Textform erfolgen; in ihr müssen der Familienname und die Vornamen, die Organisationseinheit, die Funktion sowie bei gemeinsamer Wahl in verschiedenen Dienststellen die Dienststelle und bei Dienststellen mit verschiedenen Dienstorten der Dienstort angegeben sein. Sie muss dem Wahlvorstand innerhalb von zwei Wochen nach Erlass des Wahlausschreibens vorliegen. Aus der Bewerbung muss sich eindeutig ergeben, ob
 
 1. die Beschäftigte sich für das Amt der Gleichstellungsbeauftragten oder für das Amt einer Stellvertreterin bewirbt und
 
@@ -153,7 +153,7 @@ Erfüllt die Bewerbung die Vorgaben des Satzes 1 oder des Satzes 3 nicht, hat de
 
 1. dieser Wahlgang nicht stattfindet und
 
-2. nach § 20 Absatz 2 oder Absatz 3 des Bundesgleichstellungsgesetzes eine Bestellung von Amts wegen durch die Dienststelle erfolgt.
+2. nach § 20 Absatz 2 oder Absatz 3 des Bundesgleichstellungsgesetzes eine Bestellung von Amts wegen durch die Dienststellenleitung erfolgt.
 
 # § 13 – Bekanntgabe der Bewerbungen
 
@@ -169,7 +169,7 @@ Die Bekanntgabe hat in allen Dienststellen, in denen gewählt wird, schriftlich 
 
 (1) Für jeden Wahlgang ist ein eigener Stimmzettel vorzusehen. Die Stimmzettel eines Wahlgangs müssen in Größe, Farbe, Beschaffenheit und Beschriftung identisch sein und sich farblich von denen des anderen Wahlgangs deutlich unterscheiden. Stimmzettel müssen so beschaffen sein, dass nach Kennzeichnung und Faltung durch die Wählerin andere Personen vor der Auszählung der Stimmzettel nicht erkennen können, wie die Wählerin gewählt hat.
 
-(2) Auf dem Stimmzettel sind die gültigen Bewerbungen für das Amt der Gleichstellungsbeauftragten in alphabetischer Reihenfolge unter Angabe von Familien- und Vornamen, Dienststelle und Dienstort, Organisationseinheit sowie Funktion aufzuführen.
+(2) Auf dem Stimmzettel sind die gültigen Bewerbungen für das Amt der Gleichstellungsbeauftragten in alphabetischer Reihenfolge unter Angabe von Familien- und Vornamen, Organisationseinheit, Funktion sowie bei Wahl in verschiedenen Dienststellen die Dienststelle und bei Dienststellen mit verschiedenen Dienstorten der Dienstort aufzuführen.
 
 (3) Absatz 2 gilt für die Wahl der Stellvertreterin oder der Stellvertreterinnen entsprechend.
 
@@ -235,7 +235,7 @@ Der Wahlvorstand vermerkt die Aushändigung oder Übersendung der Unterlagen in 
 
 (2) In dem Merkblatt nach Absatz 1 Satz 1 Nummer 5 ist darauf hinzuweisen, dass die Wählerin bei der Stimmabgabe
 
-1. den oder die Stimmzettel unbeobachtet persönlich kennzeichnet, faltet und in den entsprechenden Wahlumschlag einlegt,
+1. den oder die Stimmzettel unbeobachtet persönlich kennzeichnet, faltet und in den entsprechenden Wahlumschlag einlegt und diesen Wahlumschlag verschließt,
 
 2. die vorgedruckte Erklärung unter Angabe ihres Vor- und Familiennamens in Druckbuchstaben, des Ortes sowie des Datums unterschreibt und
 
@@ -255,7 +255,49 @@ Der Wahlvorstand vermerkt die Aushändigung oder Übersendung der Unterlagen in 
 
 # § 19 – Elektronische Wahl
 
-Hat die Dienststelle eine elektronische Wahl angeordnet, hat sie die technischen und organisatorischen Abläufe so zu regeln, dass die Einhaltung der Wahlrechtsgrundsätze (§ 1) gewährleistet ist. Für die Wahl soll ein für elektronische Wahlen zugelassenes System eingesetzt werden.
+(1) Hat die Dienststelle eine elektronische Wahl angeordnet, so hat sie die technischen und organisatorischen Abläufe so zu regeln, dass die Einhaltung der Wahlrechtsgrundsätze (§ 1) gewährleistet ist. Die geheime Wahl ist durch räumliche, organisatorische und technische Maßnahmen sowie durch Hinweise an die Beschäftigten zu gewährleisten.
+
+(2) Der Wahlvorstand legt unter Berücksichtigung der voraussichtlich bestehenden Angriffsflächen den Schutzbedarf für die elektronische Wahl nach der Methodik des vom Bundesamt für Sicherheit in der Informationstechnik entwickelten IT-Grundschutzes fest. Der Wahlvorstand hat festzustellen, dass das Wahlprodukt, welches verwendet werden soll, für den zuvor festgelegten Schutzbedarf geeignet ist. Die Dienststelle unterstützt den Wahlvorstand bei der Planung und Durchführung der elektronischen Wahl.
+
+(3) Verwendet werden dürfen nur Wahlprodukte, durch die nach dem Stand der Technik
+
+1. die Zuordnung einer Stimme zu einer Wählerin ausgeschlossen ist,
+
+2. das Abgeben von mehr als einer Stimme durch dieselbe Wählerin ausgeschlossen ist,
+
+3. das Abgeben einer ungültigen Stimme durch Ankreuzen mehrerer Kandidatinnen oder durch Absenden eines leeren Stimmzettels möglich ist,
+
+4. das Abgeben einer Stimme durch eine Person, die nicht wahlberechtigt ist, durch eine Identifizierung mindestens nach normalem Vertrauensniveau ausgeschlossen ist,
+
+5. der Wählerin eine Rückmeldung gegeben wird, dass ihre Stimme in der elektronischen Wahlurne eingegangen ist,
+
+6. die Wiederholung der Stimmenauszählung möglich ist,
+
+7. die Übertragung der Daten im Zusammenhang mit dem Wahlverfahren gegen Veränderung, Austausch, Löschung und unbefugten Zugriff oder Weitergabe geschützt ist; zu schützen sind insbesondere die Daten
+
+a) für das Wählerinnenverzeichnis oder für das pseudonymisierte Wählerinnenverzeichnis,
+
+b) der einzelnen Stimmen,
+
+c) des Wahlergebnisses und
+
+d) der Liste der Wählerinnen, die gewählt und die nicht gewählt haben, und
+
+8. das Wahlverfahren, insbesondere Beginn und Ende des Wahlverfahrens, protokolliert wird.
+
+(4) Personenbezogene Daten der Wählerinnen sollten möglichst, auch im Rahmen der Auftragsverarbeitung, pseudonymisiert übermittelt werden.
+
+(5) Anbieter eines Wahlproduktes ist die Einrichtung, die dem Wahlvorstand die Rechte zur Nutzung des Wahlproduktes gewährt oder die erforderlichen Dienstleistungen zur Nutzung des Wahlproduktes erbringt.
+
+(6) Für die Durchführung der elektronischen Wahl muss der Wahlvorstand ein Informationssicherheitskonzept und ein Notfallkonzept entsprechend dem festgelegten Schutzbedarf erstellen. Das Informationssicherheitskonzept hat zu berücksichtigen, dass Standorte und Funktionsweisen der verwendeten Server Zuverlässigkeit gewährleisten müssen.
+
+(7) Das Bundesamt für Sicherheit in der Informationstechnik legt die nach dem Stand der Technik zur Erfüllung der in Absatz 3 genannten Kriterien gebotenen sicherheitstechnischen Anforderungen an Wahlprodukte sowie Mindestanforderungen an die Informationssicherheitskonzepte und die Notfallkonzepte in einer technischen Richtlinie für elektronische Wahlen nach der Gleichstellungsbeauftragtenwahlverordnung fest. Die Anforderungen sind nach drei Schutzbedarfen nach dem IT-Grundschutz zu gliedern. Die technische Richtlinie kann für bestimmte Schutzbedarfe für die Wahlprodukte oder einzelne ihrer Komponenten das Vorliegen eines vom Bundesamt für Sicherheit in der Informationstechnik ausgestellten Produktzertifikates vorschreiben.
+
+(8) Es dürfen nur solche Wahlprodukte verwendet werden, die der technischen Richtlinie nach Absatz 7 entsprechen. Die Erfüllung der sicherheitstechnischen Anforderungen muss der Anbieter dem Wahlvorstand für einen bestimmten Schutzbedarf durch eine Konformitätsprüfung oder eine Zertifizierung nach der technischen Richtlinie nachweisen.
+
+(9) Für die Zertifizierung nach der technischen Richtlinie gelten § 9 des BSI-Gesetzes und die BSI-Zertifizierungs- und Anerkennungsverordnung in der jeweils geltenden Fassung.
+
+(10) Die Kosten für die Zertifizierung trägt der Antragsteller. Für die Höhe der Kosten der Zertifizierung gilt die BSI-Kostenverordnung in der jeweils geltenden Fassung.
 
 # § 20 – Stimmenauszählung, Feststellung des Wahlergebnisses
 
@@ -275,7 +317,7 @@ Hat die Dienststelle eine elektronische Wahl angeordnet, hat sie die technischen
 
 3. die Liste über das Ergebnis jedes Wahlgangs nach Absatz 2 Satz 1,
 
-4. den Familien- und Vornamen, die Dienststelle und den Dienstort, die Organisationseinheit, die Funktion der gewählten Gleichstellungsbeauftragten und der gewählten Stellvertreterinnen sowie
+4. den Familien- und Vornamen, die Organisationseinheit, die Funktion der gewählten Gleichstellungsbeauftragten und der gewählten Stellvertreterinnen sowie bei gemeinsamer Wahl in verschiedenen Dienststellen die Dienststelle und bei Dienststellen mit verschiedenen Dienstorten den Dienstort sowie
 
 5. besondere Vorfälle bei der Wahl oder bei der Feststellung des Wahlergebnisses.
 
@@ -295,11 +337,11 @@ Der Wahlvorstand benachrichtigt unverzüglich alle Bewerberinnen schriftlich ode
 
 2. die Kopie eines an die Dienststelle gerichteten Antrags der Gewählten, mit Wirkung ihrer Bestellung von der Befassung mit Personalangelegenheiten entbunden zu werden.
 
-(3) Lehnt die Gewählte die Wahl ab oder nimmt sie die Wahl in den Fällen des Absatzes 2 nicht frist- und formgerecht ausdrücklich an, tritt an ihre Stelle die Bewerberin auf dem folgenden Listenplatz. Die Absätze 1 und 2 gelten für die Nachrückerin entsprechend. Steht eine Nachrückerin nicht zur Verfügung, teilt der Wahlvorstand dies unverzüglich der Dienststelle mit und gibt es gleichzeitig in allen Dienststellen, in denen gewählt worden ist, bekannt. Mitteilung und Bekanntgabe haben schriftlich oder elektronisch zu erfolgen.
+(3) Lehnt die Gewählte die Wahl ab oder nimmt sie die Wahl in den Fällen des Absatzes 2 nicht frist- und formgerecht ausdrücklich an, tritt an ihre Stelle die Bewerberin auf dem folgenden Listenplatz. Die Absätze 1 und 2 gelten für die Nachrückerin entsprechend. Steht eine Nachrückerin nicht zur Verfügung, so teilt der Wahlvorstand dies unverzüglich der Dienststelle mit und gibt es gleichzeitig in allen Dienststellen, in denen gewählt worden ist, bekannt. Mitteilung und Bekanntgabe haben schriftlich oder elektronisch zu erfolgen.
 
 # § 23 – Bekanntgabe der Gewählten und Bestellung
 
-(1) Sobald die Wahl angenommen ist, teilt der Wahlvorstand der Dienststelle die Namen der Gewählten mit und gibt sie gleichzeitig in allen Dienststellen, in denen gewählt worden ist, schriftlich oder elektronisch bekannt. Nach der Bekanntgabe durch den Wahlvorstand und Ablauf der Amtszeit der Vorgängerin bestellt die Dienststelle unverzüglich die jeweils Gewählte zur Gleichstellungsbeauftragten oder zur Stellvertreterin.
+(1) Sobald die Wahl angenommen ist, teilt der Wahlvorstand der Dienststelle die Namen der Gewählten mit und gibt sie gleichzeitig in allen Dienststellen, in denen gewählt worden ist, in Textform bekannt. Nach der Bekanntgabe durch den Wahlvorstand und Ablauf der Amtszeit der Vorgängerin bestellt die Dienststelle unverzüglich die jeweils Gewählte zur Gleichstellungsbeauftragten oder zur Stellvertreterin.
 
 (2) In den Fällen des § 19 Absatz 1 Satz 1 und 2 und Absatz 4 des Bundesgleichstellungsgesetzes bestellt die Dienststelle die Gleichstellungsbeauftragte oder die Stellvertreterinnen unverzüglich nach Ablauf der Amtszeit der Vorgängerin von Amts wegen, wenn
 
