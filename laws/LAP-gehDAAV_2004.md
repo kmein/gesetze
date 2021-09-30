@@ -891,6 +891,8 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (1a) Ist festgelegt worden, dass im Hauptstudium vollständig auf die Leistungsnachweise verzichtet wird, so legt die Hochschule mit Zustimmung des Auswärtigen Amts fest, durch welche anderen Bewertungen die Durchschnittspunktzahl des Hauptstudiums ersetzt wird bei der Berechnung der abschließenden Durchschnittspunktzahl.
 
+(2) Die Prüfung ist bestanden, wenn im Gesamtergebnis nach Absatz 1 und in der mündlichen Prüfung mindestens die Durchschnittspunktzahl 5 erreicht ist und wenn in dem Prüfungsfach Bürgerliches Recht die Durchschnittspunktzahl der schriftlichen und mündlichen Prüfung mindestens 5 beträgt.
+
 (2a) Ist festgelegt worden, dass auf die mündliche Prüfung verzichtet wird, so ist die Prüfung bestanden, wenn
 
 1. im Gesamtergebnis nach Absatz 1 mindestens die Durchschnittspunktzahl 5 erreicht ist,
@@ -898,8 +900,6 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 2. in der schriftlichen Prüfung im Prüfungsfach Bürgerliches Recht mindestens fünf Rangpunkte erreicht worden sind oder das arithmetische Mittel aus der Bewertung der schriftlichen Prüfung im Prüfungsfach Bürgerliches Recht und den Bewertungen aller schriftlichen Leistungsnachweise des Hauptstudiums im Fach Bürgerliches Recht mindestens 5,00 beträgt und
 
 3. das arithmetische Mittel aus den vier Aufsichtsarbeiten der schriftlichen Prüfung mindestens 5,00 beträgt.
-
-(2) Die Prüfung ist bestanden, wenn im Gesamtergebnis nach Absatz 1 und in der mündlichen Prüfung mindestens die Durchschnittspunktzahl 5 erreicht ist und wenn in dem Prüfungsfach Bürgerliches Recht die Durchschnittspunktzahl der schriftlichen und mündlichen Prüfung mindestens 5 beträgt.
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz mündlich erläutert.
 

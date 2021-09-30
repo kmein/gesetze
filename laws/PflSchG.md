@@ -399,11 +399,15 @@ dabei kann vorgesehen werden, dass die Genehmigung von dem Bundesamt für Verbra
 
 (2) Soweit durch Rechtsverordnung nach Absatz 1 Nummer 1 die Anwendung von Pflanzenschutzmitteln beschränkt wird, können insbesondere Zweck, Art, Zeit, Ort und Verfahren der Anwendung des Pflanzenschutzmittels vorgeschrieben oder verboten sowie die anzuwendende Menge und die nach der Anwendung einzuhaltende Wartezeit vorgeschrieben werden.
 
+(2a) In der Rechtsverordnung nach Absatz 1 Nummer 1 kann vorgesehen werden, dass die Länder auf Grund landesspezifischer Besonderheiten von einzelnen Bestimmungen der Rechtsverordnung abweichende Regelungen treffen können.
+
 (3) Ein mit der Zulassung eines Pflanzenschutzmittels festgesetztes Anwendungsgebiet darf durch Rechtsverordnung nach Absatz 1 Nummer 1 nicht ausgeschlossen werden, es sei denn, dass zuvor die Zulassung unter Anordnung der sofortigen Vollziehbarkeit zurückgenommen oder widerrufen worden ist. Wird die Rücknahme oder der Widerruf der Zulassung unanfechtbar aufgehoben, so ist die Rechtsverordnung insoweit nicht mehr anzuwenden.
 
 (4) Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach Absatz 1 Nummer 2 zu erlassen, soweit das Bundesministerium für Ernährung und Landwirtschaft von seiner Befugnis keinen Gebrauch macht. Die Landesregierungen können diese Befugnis durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 (5) Es ist verboten, ein Pflanzenschutzmittel, das einen Stoff enthält oder aus einem Stoff besteht, dessen Anwendung durch eine Verordnung nach Absatz 1 Nummer 1 Buchstabe a vollständig verboten ist, innergemeinschaftlich zu verbringen oder in Verkehr zu bringen.
+
+(6) Die Länder können vorsehen, dass Eigentümern und Nutzungsberechtigten, denen auf Grund von Vorschriften einer Rechtsverordnung nach Absatz 1 Nummer 1 die land- oder forstwirtschaftliche Nutzung von Grundstücken wesentlich erschwert wird, ohne dass eine Entschädigung nach § 54 zu leisten ist, auf Antrag ein angemessener Ausgleich nach Maßgabe des jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
 # § 15 – Beseitigungspflicht
 

@@ -81,10 +81,6 @@ Dieses Gesetz ist erstmals für das Kalenderjahr 1994 anzuwenden. Beim Steuerabz
 
 # § 9
 
-(weggefallen)
-
-# § 9
-
 Dieses Gesetz ist letztmals für das Kalenderjahr 1995 anzuwenden. Beim Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß das Gesetz letztmals auf den laufenden Arbeitslohn anzuwenden ist, der für einen vor dem 1. Januar 1996 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die vor dem 1. Januar 1996 zufließen.
 
 # § 10
