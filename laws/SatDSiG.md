@@ -331,9 +331,7 @@ Der Betreiber eines hochwertigen Erdfernerkundungssystems ist verpflichtet, in d
 
 (3) Verwaltungsakte nach diesem Gesetz sind schriftlich oder elektronisch zu erlassen.
 
-# § 26 – Gebühren und Auslagen
-
-Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz erhebt die zuständige Behörde Gebühren und Auslagen. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Gebührentatbestände, die Gebührenhöhe und die zu erstattenden Auslagen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass die mit der Leistung verbundenen Kosten gedeckt sind. Die Bedeutung, der wirtschaftliche Wert oder sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung für den Begünstigten werden angemessen berücksichtigt.
+# § 26 – (weggefallen)
 
 # § 27 – Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
 

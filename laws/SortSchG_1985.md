@@ -479,17 +479,9 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 2. das Blatt für Bekanntmachungen des Bundessortenamtes zu bestimmen.
 
-# § 33 – Gebühren und Auslagen
+# § 33 – Gebühren
 
-(1) Das Bundessortenamt erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz und für die Prüfung von Sorten auf Antrag ausländischer oder supranationaler Stellen Gebühren und Auslagen und für jedes angefangene Jahr der Dauer des Sortenschutzes (Schutzjahr) eine Jahresgebühr.
-
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Energie durch Rechtsverordnung die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie den Zeitpunkt des Entstehens und der Erhebung der Gebühren zu regeln. Die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung, auch für das Züchtungswesen und die Allgemeinheit, sind angemessen zu berücksichtigen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
-
-(3) Durch Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
-
-(4) Bei Gebühren für die Prüfung einer Sorte sowie für die ablehnende Entscheidung über einen Sortenschutzantrag wird keine Ermäßigung nach § 15 Abs. 2 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gewährt.
-
-(5) Hat ein Widerspruch Erfolg, so ist die Widerspruchsgebühr zu erstatten. Hat eine Beschwerde an das Patentgericht oder eine Rechtsbeschwerde Erfolg, so ist die Widerspruchsgebühr auf Antrag zu erstatten. Bei teilweisem Erfolg ist die Widerspruchsgebühr zu einem entsprechenden Teil zu erstatten. Die Erstattung kann jedoch ganz oder teilweise unterbleiben, wenn die Entscheidung auf Tatsachen beruht, die früher hätten geltend gemacht oder bewiesen werden können. Für Auslagen im Widerspruchsverfahren gelten die Sätze 1 bis 4 entsprechend. Ein Anspruch auf Erstattung von Kosten nach § 80 des Verwaltungsverfahrensgesetzes besteht nicht.
+Durch Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 # § 34 – Beschwerde
 

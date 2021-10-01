@@ -1,5 +1,6 @@
 - [A/KAE](laws/A_KAE.md) Ausführungsanordnung zur Konzessionsabgabenanordnung
 - [AABG](laws/AABG.md) Gesetz zur Begrenzung der Arzneimittelausgaben der gesetzlichen Krankenversicherung
+- [AABGebV](laws/AABGebV.md) Besondere Gebührenverordnung des Auswärtigen Amts für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [AAG](laws/AAG.md) Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung
 - [AAppO](laws/AAppO.md) Approbationsordnung für Apotheker
 - [AarhusÜbk](laws/AarhusÜbk.md) Übereinkommen über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten
@@ -16,7 +17,6 @@
 - [AbfKlärV](laws/AbfKlärV.md) Verordnung über die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost
 - [AbfVerbrBußV](laws/AbfVerbrBußV.md) Verordnung zur Durchsetzung von Vorschriften in Rechtsakten der Europäischen Gemeinschaft über die Verbringung von Abfällen
 - [AbfVerbrG](laws/AbfVerbrG.md) Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung 2)
-- [AbfVerbrGebV](laws/AbfVerbrGebV.md) Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen von Abfällen durch die Bundesrepublik Deutschland
 - [AbgG](laws/AbgG.md) Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages
 - [AbgrV](laws/AbgrV.md) Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser
 - [Abk ISR](laws/Abk_ISR.md) Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel
@@ -126,8 +126,6 @@
 - [AkkStelleGBV](laws/AkkStelleGBV.md) Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierungsstellengesetz
 - [AkkStelleGebV](laws/AkkStelleGebV.md) Gebührenverordnung der Akkreditierungsstelle
 - [AKNV](laws/AKNV.md) Verordnung über die Bescheinigung über die Meldung als Asylsuchender
-- [AKostG](laws/AKostG.md) Auslandskostengesetz
-- [AKostV](laws/AKostV.md) Auslandskostenverordnung
 - [AKP/EWGAbk4G](laws/AKP_EWGAbk4G.md) Gesetz zu dem Vierten AKP-EWG-Abkommen von Lome vom 15. Dezember 1989 sowie zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen
 - [AktFoV](laws/AktFoV.md) Verordnung über das Aktionärsforum nach § 127a des Aktiengesetzes
 - [AktG](laws/AktG.md) Aktiengesetz
@@ -176,7 +174,6 @@
 - [AMG](laws/AMG.md) Gesetz über den Verkehr mit Arzneimitteln
 - [AMGBefugV](laws/AMGBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen zur Regelung von Verfahren, Weiterleitung von Ausfertigungen und Einreichung von Unterlagen nach dem Arzneimittelgesetz
 - [AMGBlauzAusnV](laws/AMGBlauzAusnV.md) Verordnung über Ausnahmen von § 56a des Arzneimittelgesetzes zum Schutz vor der Blauzungenkrankheit
-- [AMGKostV](laws/AMGKostV.md) Kostenverordnung für die Zulassung und Registrierung von Arzneimitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 - [AMGZSAV](laws/AMGZSAV.md) Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder
 - [AMHV](laws/AMHV.md) Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
 - [AMPreisV](laws/AMPreisV.md) Arzneimittelpreisverordnung
@@ -214,7 +211,6 @@
 - [AntarktVtrG](laws/AntarktVtrG.md) Gesetz zum Antarktis-Vertrag vom 1. Dezember 1959
 - [AntiDHG](laws/AntiDHG.md) Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen
 - [AntiDopG](laws/AntiDopG.md) Gesetz gegen Doping im Sport
-- [AntKostV](laws/AntKostV.md) Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994
 - [AnwZpvV](laws/AnwZpvV.md) Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
 - [AnzV](laws/AnzV.md) Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz
 - [AO](laws/AO.md) Abgabenordnung
@@ -298,7 +294,6 @@
 - [ATZV](laws/ATZV.md) Verordnung über die Gewährung eines Zuschlags bei Altersteilzeit
 - [AÜG](laws/AÜG.md) Gesetz zur Regelung der Arbeitnehmerüberlassung
 - [AÜGMeldstellV](laws/AÜGMeldstellV.md) Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes
-- [AÜKostV](laws/AÜKostV.md) Verordnung über die Kosten der Erlaubnis zur Arbeitnehmerüberlassung
 - [AufbauhfV](laws/AufbauhfV.md) Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes
 - [AufbhEG 2021](laws/AufbhEG_2021.md) Gesetz zur Errichtung eines Sondervermögens „Aufbauhilfe 2021“
 - [AufbhG](laws/AufbhG.md) Gesetz zur Errichtung eines Sondervermögens „Aufbauhilfe“
@@ -438,6 +433,7 @@
 - [BäderMeistPrV](laws/BäderMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
 - [BÄO](laws/BÄO.md) Bundesärzteordnung
 - [BÄOuaÄndG 2004](laws/BÄOuaÄndG_2004.md) Gesetz zur Änderung der Bundesärzteordnung und anderer Gesetze
+- [BAFABGebV](laws/BAFABGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen des Bundesamts für Wirtschaft und Ausfuhrkontrolle
 - [BAFG](laws/BAFG.md) Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung
 - [BAFinBefugV](laws/BAFinBefugV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
 - [BaFinHwgebV](laws/BaFinHwgebV.md) Verordnung zum Umgang mit Hinweisgebern und zur Bearbeitung ihrer Hinweise durch die Bundesanstalt für Finanzdienstleistungsaufsicht*
@@ -450,7 +446,6 @@
 - [BAföGZustV 2004](laws/BAföGZustV_2004.md) Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
 - [BAFzAZustAnO](laws/BAFzAZustAnO.md) Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 - [BAGBeihZustAnO](laws/BAGBeihZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesarbeitsgerichts in Angelegenheiten nach der Bundesbeihilfeverordnung
-- [BAGebV](laws/BAGebV.md) Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Begrenzung der EEG-Umlage
 - [BAGÜV](laws/BAGÜV.md) Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Güterverkehr
 - [BahnG](laws/BahnG.md) Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs
 - [BahnVorschrAnwG](laws/BahnVorschrAnwG.md) Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
@@ -468,7 +463,6 @@
 - [BAPostG](laws/BAPostG.md) Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 - [BArchBV](laws/BArchBV.md) Verordnung über die Benutzung von Archivgut beim Bundesarchiv
 - [BArchG](laws/BArchG.md) Gesetz über die Nutzung und Sicherung von Archivgut des Bundes
-- [BArchKostV](laws/BArchKostV.md) Verordnung über Kosten beim Bundesarchiv
 - [BargeldPrüfV](laws/BargeldPrüfV.md) Verordnung über die Prüfung von Bargeld
 - [BArtSchV](laws/BArtSchV.md) Verordnung zum Schutz wild lebender Tier- und Pflanzenarten
 - [BASIG](laws/BASIG.md) Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
@@ -745,7 +739,6 @@
 - [BfJWidVertrAnO](laws/BfJWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesamts für Justiz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
 - [BfkEG](laws/BfkEG.md) Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen Entsorgung
 - [BfNatSchG](laws/BfNatSchG.md) Gesetz über die Errichtung eines Bundesamtes für Naturschutz
-- [BfNKostV](laws/BfNKostV.md) Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz
 - [BFöV](laws/BFöV.md) Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 - [BfRG](laws/BfRG.md) Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung
 - [BFSG](laws/BFSG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen 1
@@ -757,7 +750,6 @@
 - [BGBABest 1898](laws/BGBABest_1898.md) Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs
 - [BGBEG](laws/BGBEG.md) Einführungsgesetz zum Bürgerlichen Gesetzbuche
 - [BGebG](laws/BGebG.md) Gesetz über Gebühren und Auslagen des Bundes
-- [BGenTGKostV](laws/BGenTGKostV.md) Bundeskostenverordnung zum Gentechnikgesetz
 - [BGeoRG](laws/BGeoRG.md) Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes
 - [BGG](laws/BGG.md) Gesetz zur Gleichstellung von Menschen mit Behinderungen
 - [BGH/BPatGERVV](laws/BGH_BPatGERVV.md) Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht
@@ -780,10 +772,8 @@
 - [BGSResErnAnO](laws/BGSResErnAnO.md) Anordnung über die Ernennung und Entlassung der Angehörigen der Grenzschutzreserve
 - [BGSResOffBPräsErnAnO](laws/BGSResOffBPräsErnAnO.md) Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve
 - [BGSVVermG](laws/BGSVVermG.md) Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet
-- [BGVGebV](laws/BGVGebV.md) Gebührenverordnung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
 - [BGVPLTAufgDV](laws/BGVPLTAufgDV.md) Verordnung über die Durchführung übertragener Aufgaben durch die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
 - [BGVPLTErG](laws/BGVPLTErG.md) Gesetz zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
-- [BHfAbgV](laws/BHfAbgV.md) Verordnung über die Abgaben in den bundeseigenen Häfen im Geltungsbereich der Seeschifffahrtsstraßen-Ordnung
 - [BHO](laws/BHO.md) Bundeshaushaltsordnung
 - [BHV1V](laws/BHV1V.md) Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1
 - [BIBBSitzBek](laws/BIBBSitzBek.md) Bekanntmachung über den Dienstsitz des Bundesinstituts für Berufsbildung (BIBB)
@@ -823,14 +813,13 @@
 - [BinSchFuDVbgBek](laws/BinSchFuDVbgBek.md) Bekanntmachung der Regionalen Vereinbarung über den Binnenschiffahrtsfunk
 - [BinSchG](laws/BinSchG.md) Gesetz betreffend die privatrechtlichen Verhältnisse der Binnenschiffahrt
 - [BinSchGerG](laws/BinSchGerG.md) Gesetz über das gerichtliche Verfahren in Binnenschiffahrtssachen
-- [BinSchKostV](laws/BinSchKostV.md) Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt
 - [BinSchLotsVergV 2012](laws/BinSchLotsVergV_2012.md) Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 - [BinSchLV](laws/BinSchLV.md) Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt
 - [BinSchOWiZustV 1974](laws/BinSchOWiZustV_1974.md) Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
 - [BinSchPatentV](laws/BinSchPatentV.md) Verordnung über Befähigungszeugnisse in der Binnenschiffahrt
-- [BinSchPatentV1998AbwV 3](laws/BinSchPatentV1998AbwV_3.md) Dritte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
 - [BinSchPatentV1998AbwV 4](laws/BinSchPatentV1998AbwV_4.md) Vierte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
 - [BinSchPatentV1998AbwV 5](laws/BinSchPatentV1998AbwV_5.md) Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
+- [BinSchPatentV1998AbwV 6](laws/BinSchPatentV1998AbwV_6.md) Sechste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
 - [BinSchSiV](laws/BinSchSiV.md) Verordnung zur Sicherstellung des Binnenschiffsverkehrs
 - [BinSchSprFunkV](laws/BinSchSprFunkV.md) Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk
 - [BinSchStrEV](laws/BinSchStrEV.md) Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung
@@ -854,7 +843,6 @@
 - [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen *)
 - [BiomasseV](laws/BiomasseV.md) Verordnung über die Erzeugung von Strom aus Biomasse
 - [BioMatHintV](laws/BioMatHintV.md) Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren
-- [BioNachGebV](laws/BioNachGebV.md) Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung
 - [BioSt-NachV](laws/BioSt-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung*)
 - [BioStoffV](laws/BioStoffV.md) Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen
 - [BismStiftG](laws/BismStiftG.md) Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung
@@ -867,12 +855,12 @@
 - [BKartASitzBek](laws/BKartASitzBek.md) Bekanntmachung über den Dienstsitz des Bundeskartellamtes
 - [BKATerrAbwG](laws/BKATerrAbwG.md) Gesetz zur Abwehr von Gefahren des internationalen Terrorismus durch das Bundeskriminalamt
 - [BKatV](laws/BKatV.md) Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr
-- [BKGebV](laws/BKGebV.md) Besondere Gebührenverordnung der Beschlusskammern Post und Telekommunikation der Bundesnetzagentur
 - [BKGG](laws/BKGG.md) Bundeskindergeldgesetz
 - [BKleingÄndG](laws/BKleingÄndG.md) Gesetz zur Änderung des Bundeskleingartengesetzes
 - [BKleingG](laws/BKleingG.md) Bundeskleingartengesetz
 - [BKMBDGAnO 2005](laws/BKMBDGAnO_2005.md) Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKMBek](laws/BKMBek.md) Bekanntmachung der Bezeichnung der Beauftragten der Bundesregierung für Kultur und Medien
+- [BKMBGebV](laws/BKMBGebV.md) Besondere Gebührenverordnung der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKMErnAnO](laws/BKMErnAnO.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
 - [BKMWidAnO 2009](laws/BKMWidAnO_2009.md) Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich der oder des Beauftragten der Bundesregierung für Kultur und Medien
 - [BKnEG](laws/BKnEG.md) Gesetz zur Errichtung der Bundesknappschaft
@@ -920,7 +908,6 @@
 - [BlauzungenV](laws/BlauzungenV.md) Verordnung zum Schutz gegen die Blauzungenkrankheit
 - [BLBV](laws/BLBV.md) Verordnung des Bundes über leistungsbezogene Besoldungsinstrumente
 - [BLEG](laws/BLEG.md) Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
-- [BLEÖLGKostV](laws/BLEÖLGKostV.md) Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes
 - [BLES](laws/BLES.md) Satzung der Bundesanstalt für Landwirtschaft und Ernährung
 - [BLESitzBek](laws/BLESitzBek.md) Bekanntmachung über den Dienstsitz der Bundesanstalt für Landwirtschaft und Ernährung
 - [BLESV](laws/BLESV.md) Verordnung über die Satzung der Bundesanstalt für Landwirtschaft und Ernährung
@@ -930,9 +917,11 @@
 - [BlutArmV 2010](laws/BlutArmV_2010.md) Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer
 - [BlutZV](laws/BlutZV.md) Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen (Artikel 1 der Verordnung über die Einführung der staatlichen Chargenprüfung bei Blutzubereitungen)
 - [BLV](laws/BLV.md) Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten
+- [BMASBGebV](laws/BMASBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Arbeit und Soziales für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMASErnAnO](laws/BMASErnAnO.md) Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 - [BMASZustAnO](laws/BMASZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes
 - [BmAusV](laws/BmAusV.md) Verordnung über die Berufsausbildung zum Bogenmacher und zur Bogenmacherin*
+- [BMELBGebV](laws/BMELBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMeldDAV](laws/BMeldDAV.md) Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
 - [BMELWidVertrAnO](laws/BMELWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
 - [BMFBDGAnO](laws/BMFBDGAnO.md) Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen
@@ -943,6 +932,7 @@
 - [BMFWidVertrAnO](laws/BMFWidVertrAnO.md) Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen
 - [BMFZVersAnO](laws/BMFZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Finanzen
 - [BMG](laws/BMG.md) Bundesmeldegesetz
+- [BMGBGebV](laws/BMGBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Gesundheit für die individuell zurechenbaren Leistungen in seinem Zuständigkeitsbereich
 - [BMGSErnAnO 2003](laws/BMGSErnAnO_2003.md) Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
 - [BMI-ArbSchGAnwV](laws/BMI-ArbSchGAnwV.md) Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat
 - [BMIBGebV](laws/BMIBGebV.md) Besondere Gebührenverordnung des Bundesministeriums des Innern, für Bau und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
@@ -995,6 +985,7 @@
 - [BMPZVersAnO](laws/BMPZVersAnO.md) Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesminister für das Post- und Fernmeldewesen - ZOVers -
 - [BMPZVersAnO 6](laws/BMPZVersAnO_6.md) Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesministers für das Post- und Fernmeldewesen - 5. Ergänzung der ZOVers -
 - [BmTierSSchV](laws/BmTierSSchV.md) Verordnung über das innergemeinschaftliche Verbringen sowie die Einfuhr und Durchfuhr von Tieren und Waren
+- [BMUBGebV](laws/BMUBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 - [BMVBSBNichtrSchGZustV](laws/BMVBSBNichtrSchGZustV.md) Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur
 - [BMVBSDelegatAnO](laws/BMVBSDelegatAnO.md) Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 - [BMVergV](laws/BMVergV.md) Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes
@@ -1015,6 +1006,8 @@
 - [BNDDisRZustAnO](laws/BNDDisRZustAnO.md) Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes
 - [BNDErnAnO 2009](laws/BNDErnAnO_2009.md) Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten beim Bundesnachrichtendienst
 - [BNDG](laws/BNDG.md) Gesetz über den Bundesnachrichtendienst
+- [BNetzA BGebV-FreqZut](laws/BNetzA_BGebV-FreqZut.md) Besondere Gebührenverordnung der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen für Frequenzzuteilungen
+- [BNetzABGebV](laws/BNetzABGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur
 - [BNichtrSchG](laws/BNichtrSchG.md) Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln
 - [BNotO](laws/BNotO.md) Bundesnotarordnung
 - [BNV](laws/BNV.md) Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit
@@ -1225,7 +1218,6 @@
 - [BtMAHV](laws/BtMAHV.md) Betäubungsmittel-Außenhandelsverordnung
 - [BtMBinHV](laws/BtMBinHV.md) Betäubungsmittel-Binnenhandelsverordnung
 - [BtMG](laws/BtMG.md) Gesetz über den Verkehr mit Betäubungsmitteln
-- [BtMKostV](laws/BtMKostV.md) Betäubungsmittel-Kostenverordnung
 - [BtMVV](laws/BtMVV.md) Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln
 - [BTPräsAmtsbezAnO](laws/BTPräsAmtsbezAnO.md) Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung einer Amtsbezeichnung
 - [BuchbAusbV](laws/BuchbAusbV.md) Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin*)
@@ -1339,7 +1331,6 @@
 - [ChemikAusbV 2009](laws/ChemikAusbV_2009.md) Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin *)
 - [ChemIndMeistPrV 2004](laws/ChemIndMeistPrV_2004.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie
 - [ChemKlimaschutzV](laws/ChemKlimaschutzV.md) Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase *)
-- [ChemKostV](laws/ChemKostV.md) Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz
 - [ChemOzonSchichtV](laws/ChemOzonSchichtV.md) Verordnung über Stoffe, die die Ozonschicht schädigen
 - [ChemSanktionsV](laws/ChemSanktionsV.md) Verordnung zur Sanktionsbewehrung gemeinschafts- oder unionsrechtlicher Verordnungen auf dem Gebiet der Chemikaliensicherheit
 - [ChemVerbotsV](laws/ChemVerbotsV.md) Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz
@@ -1357,7 +1348,7 @@
 - [CoronaEinreiseV](laws/CoronaEinreiseV.md) Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2
 - [CoronaImpfV](laws/CoronaImpfV.md) Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2
 - [CoronaMeldePflErwV](laws/CoronaMeldePflErwV.md) Verordnung über die Erweiterung der Meldepflicht nach § 6 Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes auf Hospitalisierungen in Bezug auf die Coronavirus-Krankheit-2019
-- [CoronaPflegeVVerlV](laws/CoronaPflegeVVerlV.md) Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das Coronavirus SARS-CoV-2 verursachten Pandemie
+- [CoronaPflegeVVerlV 2](laws/CoronaPflegeVVerlV_2.md) Zweite Verordnung zur Verlängerung von Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgungwährend der durch das Coronavirus SARS-CoV-2verursachten Pandemie
 - [CorSurV](laws/CorSurV.md) Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2
 - [COV19FKG](laws/COV19FKG.md) Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie
 - [COV19GewStAusglG](laws/COV19GewStAusglG.md) Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
@@ -1483,7 +1474,6 @@
 - [DesignG](laws/DesignG.md) Gesetz über den rechtlichen Schutz von Design
 - [DesignV](laws/DesignV.md) Verordnung zur Ausführung des Designgesetzes
 - [DestAusbV](laws/DestAusbV.md) Verordnung über die Berufsausbildung zum Destillateur/zur Destillateurin
-- [DetergKostV](laws/DetergKostV.md) Verordnung über Kosten für Amtshandlungen des Umweltbundesamtes nach der Verordnung (EG) Nr. 648/2004 vom 31. März 2004 über Detergenzien
 - [DEÜV](laws/DEÜV.md) Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung
 - [DeuFöV](laws/DeuFöV.md) Verordnung über die berufsbezogene Deutschsprachförderung
 - [DeutschePostAGDiszAnO 1995-11](laws/DeutschePostAGDiszAnO_1995-11.md) Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der Deutschen Post AG
@@ -1636,7 +1626,6 @@
 - [EdWBeitrV](laws/EdWBeitrV.md) Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau
 - [EEAV](laws/EEAV.md) Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung
 - [EEG 2021](laws/EEG_2021.md) Gesetz für den Ausbau erneuerbarer Energien
-- [EEGAusGebV](laws/EEGAusGebV.md) Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit ihren Aufgaben nach dem Erneuerbare-Energien-Gesetz und Ausschreibungen nach dem Kraft-Wärme-Kopplungsgesetz
 - [EEMD-ZV](laws/EEMD-ZV.md) Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 - [EEMD-ZVAnl I](laws/EEMD-ZVAnl_I.md) Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
 - [EEMD-ZVAnl II](laws/EEMD-ZVAnl_II.md) Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes
@@ -1755,10 +1744,8 @@
 - [EmsSchOAbk](laws/EmsSchOAbk.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schiffahrtsordnung in der Emsmündung
 - [EmsSchOAbkErgAbk](laws/EmsSchOAbkErgAbk.md) Abkommen zur Änderung und Ergänzung des Abkommens vom 22. Dezember 1986 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schifffahrtsordnung in der Emsmündung
 - [EmsSchOAbkErgAbkV](laws/EmsSchOAbkErgAbkV.md) Verordnung zu dem Abkommen vom 22. Dezember 1986 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schifffahrtsordnung in der Emsmündung und dem Abkommen vom 5. April 2001 zur Änderung und Ergänzung des Abkommens vom 22. Dezember 1986
-- [EMV-FTEKostV](laws/EMV-FTEKostV.md) Verordnung über Gebühren und Auslagen für Amtshandlungen nach dem Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln und nach dem Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen
 - [EMVBeitrV](laws/EMVBeitrV.md) Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit von Geräten für die Jahre 1999, 2000, 2001 und 2002
 - [EMVG](laws/EMVG.md) Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln*
-- [EMVG-FuAG-BGebV](laws/EMVG-FuAG-BGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Bereich des Elektromagnetische-Verträglichkeit-Gesetzes und des Funkanlagengesetzes
 - [EndlagerVlV](laws/EndlagerVlV.md) Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
 - [EndlSiAnfV](laws/EndlSiAnfV.md) Verordnung über Sicherheitsanforderungen an die Endlagerung hochradioaktiver Abfälle
 - [EndlSiUntV](laws/EndlSiUntV.md) Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle
@@ -1772,7 +1759,6 @@
 - [EnSTransV](laws/EnSTransV.md) Verordnung zur Umsetzung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz
 - [EntgFG](laws/EntgFG.md) Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall
 - [EntgTranspG](laws/EntgTranspG.md) Gesetz zur Förderung der Entgelttransparenz zwischen Frauen und Männern
-- [EntschBVöffBankV](laws/EntschBVöffBankV.md) Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung an die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH
 - [EntschdtBankV](laws/EntschdtBankV.md) Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entschädigungseinrichtung an die Entschädigungseinrichtung deutscher Banken GmbH
 - [EntschFinV](laws/EntschFinV.md) Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH
 - [EntschG](laws/EntschG.md) Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen
@@ -1861,7 +1847,6 @@
 - [EU-FahrgRBusG](laws/EU-FahrgRBusG.md) EU-Fahrgastrechte-Kraftomnibus-Gesetz
 - [EU-FahrgRBusV](laws/EU-FahrgRBusV.md) Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union im Kraftomnibusverkehr
 - [EU-FahrgRSchG](laws/EU-FahrgRSchG.md) EU-Fahrgastrechte-Schifffahrt-Gesetz
-- [EU-FahrgRSchGebV](laws/EU-FahrgRSchGebV.md) Verordnung über die Gebühren und Auslagen für Amtshandlungen zur Durchsetzung der EU-Fahrgastrechte-Schifffahrt
 - [EU-FahrgRSchV](laws/EU-FahrgRSchV.md) Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union in der Schifffahrt
 - [EU-RhÜbk](laws/EU-RhÜbk.md) Übereinkommen - gemäß Artikel 34 des Vertrags über die Europäische Union vom Rat erstellt - Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union
 - [EU-RhÜbkProt](laws/EU-RhÜbkProt.md) Protokoll - vom Rat gemäß Artikel 34 des Vertrags über die Europäische Union erstellt - zu dem Übereinkommen über die Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union
@@ -2084,7 +2069,6 @@
 - [FeV2010AusnV3ÄndV 1](laws/FeV2010AusnV3ÄndV_1.md) Erste Verordnung zur Änderung der Dritten Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
 - [FFG](laws/FFG.md) Gesetz über Maßnahmen zur Förderung des deutschen Films*
 - [FFGV 1993](laws/FFGV_1993.md) Verordnung zum Filmförderungsgesetz
-- [FGebV](laws/FGebV.md) Frequenzgebührenverordnung
 - [FGG-RG](laws/FGG-RG.md) Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 - [FGlG](laws/FGlG.md) Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
 - [FGNV](laws/FGNV.md) Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen
@@ -2116,6 +2100,7 @@
 - [FinAusglVtr AUT](laws/FinAusglVtr_AUT.md) Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
+- [FinDAGebV](laws/FinDAGebV.md) Besondere Gebührenverordnung des Bundesministeriums der Finanzen zur Finanzdienstleistungsaufsicht
 - [FinDAGKostV](laws/FinDAGKostV.md) Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz *)
 - [FinDASa](laws/FinDASa.md) Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [FinDASaV](laws/FinDASaV.md) Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -2158,7 +2143,6 @@
 - [FlErwV](laws/FlErwV.md) Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Verfahren nach dem Ausgleichsleistungsgesetz
 - [FlexMstrV](laws/FlexMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Flexografen-Handwerk
 - [FlG](laws/FlG.md) Fleischgesetz*)
-- [FlGGebV](laws/FlGGebV.md) Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach dem Fleischgesetz
 - [FlGlasTechAusbV](laws/FlGlasTechAusbV.md) Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin *
 - [FloristAusbV](laws/FloristAusbV.md) Verordnung über die Berufsausbildung zum Floristen/zur Floristin
 - [FloristMFPrV](laws/FloristMFPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin
@@ -2312,6 +2296,7 @@
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
 - [GAPInVeKoSG](laws/GAPInVeKoSG.md) Gesetz zur Durchführung des im Rahmen der Gemeinsamen Agrarpolitik einzuführenden Integrierten Verwaltungs- und Kontrollsystems
 - [GAPKondG](laws/GAPKondG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität
+- [GAPStatG](laws/GAPStatG.md) Gesetz über die Statistiken zu Gesundheitsausgaben und ihrer Finanzierung, zu Krankheitskosten sowie zum Personal im Gesundheitswesen
 - [GarBBAnO](laws/GarBBAnO.md) Anordnung über den Bau und Betrieb von Garagen
 - [GArchDVDV](laws/GArchDVDV.md) Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes
 - [GartAusbStEignV](laws/GartAusbStEignV.md) Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin
@@ -2352,7 +2337,6 @@
 - [GDtWahlVDVtr](laws/GDtWahlVDVtr.md) Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GDtWahlVDVtrÄndVtr](laws/GDtWahlVDVtrÄndVtr.md) Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 - [GDtWahlVDVtrG](laws/GDtWahlVDVtrG.md) Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990
-- [GebO-BPjM](laws/GebO-BPjM.md) Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende Medien
 - [GebOSt](laws/GebOSt.md) Gebührenordnung für Maßnahmen im Straßenverkehr
 - [GebReinAusbVO](laws/GebReinAusbVO.md) Verordnung über die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin *
 - [GebrMG](laws/GebrMG.md) Gebrauchsmustergesetz
@@ -2379,7 +2363,6 @@
 - [GenBkBEAnO](laws/GenBkBEAnO.md) Anordnung über das Statut der Genossenschaftsbank Berlin
 - [GenBkBES](laws/GenBkBES.md) Statut der Genossenschaftsbank Berlin (Anlage zur Anordnung über das Statut der Genossenschaftsbank Berlin)
 - [GenDG](laws/GenDG.md) Gesetz über genetische Untersuchungen bei Menschen
-- [GenDKKostV](laws/GenDKKostV.md) Kostenverordnung für die Stellungnahmen der Gendiagnostik-Kommission nach dem Gendiagnostikgesetz
 - [GenfRKAbkZProt I](laws/GenfRKAbkZProt_I.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)
 - [GenfRKAbkZProt II](laws/GenfRKAbkZProt_II.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
 - [GenfRKAbkZProt III](laws/GenfRKAbkZProt_III.md) Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens (Protokoll III)
@@ -2411,7 +2394,6 @@
 - [GesRGenRCOVMVV](laws/GesRGenRCOVMVV.md) Verordnung zur Verlängerung von Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie
 - [GesRuaCOVBekG](laws/GesRuaCOVBekG.md) Gesetz über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie
 - [GestRaumPrV](laws/GestRaumPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-- [GesundKostV](laws/GesundKostV.md) Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen des Bundes
 - [GesundZAAbk FRA](laws/GesundZAAbk_FRA.md) Rahmenabkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
 - [GesundZAAbkFRAG](laws/GesundZAAbkFRAG.md) Gesetz zu dem Rahmenabkommen vom 22. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich und zu der Verwaltungsvereinbarung vom 9. März 2006 zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
 - [GesundZAAbkFRAVVbg](laws/GesundZAAbkFRAVVbg.md) Verwaltungsvereinbarung zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
@@ -2627,7 +2609,6 @@
 - [GTNÜbk](laws/GTNÜbk.md) Übereinkommen zur Gründung des Globalen Treuhandfonds für Nutzpflanzenvielfalt
 - [GuAMKflAusbV](laws/GuAMKflAusbV.md) Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement *
 - [GÜG](laws/GÜG.md) Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte Herstellung von Betäubungsmitteln missbraucht werden können
-- [GÜGKostV](laws/GÜGKostV.md) Grundstoff-Kostenverordnung
 - [GüKG](laws/GüKG.md) Güterkraftverkehrsgesetz
 - [GüKGÄndG 4](laws/GüKGÄndG_4.md) Viertes Gesetz zur Änderung des Güterkraftverkehrsgesetzes
 - [GüKGrKabotageV](laws/GüKGrKabotageV.md) Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr
@@ -2954,6 +2935,7 @@
 - [InvZulG 2007](laws/InvZulG_2007.md) Investitionszulagengesetz 2007
 - [InvZulG 2010](laws/InvZulG_2010.md) Investitionszulagengesetz 2010
 - [InvZulG2005DV](laws/InvZulG2005DV.md) Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
+- [IRegBV](laws/IRegBV.md) Verordnung zum Betrieb des Implantateregisters Deutschland
 - [IRegG](laws/IRegG.md) Gesetz zum Implantateregister Deutschland
 - [IRENASa](laws/IRENASa.md) Satzung der Internationalen Organisation für erneuerbare Energien
 - [IRENASaG](laws/IRENASaG.md) Gesetz zu der Satzung vom 26. Januar 2009 der Internationalen Organisation für erneuerbare Energien
@@ -3234,6 +3216,7 @@
 - [KrWaffKontrGDV 3](laws/KrWaffKontrGDV_3.md) Dritte Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
 - [KrWaffUnbrUmgV](laws/KrWaffUnbrUmgV.md) Verordnung über die Unbrauchbarmachung von Kriegswaffen und über den Umgang mit unbrauchbar gemachten Kriegswaffen
 - [KrWG](laws/KrWG.md) Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
+- [KryptoWTransferV](laws/KryptoWTransferV.md) Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten
 - [KSAbg2020V](laws/KSAbg2020V.md) Künstlersozialabgabe-Verordnung 2020
 - [KSAbg2021V](laws/KSAbg2021V.md) Künstlersozialabgabe-Verordnung 2021
 - [KSchG](laws/KSchG.md) Kündigungsschutzgesetz
@@ -3277,7 +3260,6 @@
 - [KVAV](laws/KVAV.md) Verordnung betreffend die Aufsicht über die Geschäftstätigkeit in der privaten Krankenversicherung
 - [KVBEVO](laws/KVBEVO.md) Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigungsfähigen Beiträge zum Erwerb eines Krankenversicherungsschutzes im Sinne des § 10 Absatz 1 Nummer 3 Buchstabe a des Einkommensteuergesetzes
 - [KVBG](laws/KVBG.md) Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung*
-- [KVBGGebV](laws/KVBGGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen nach dem Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung
 - [KVG](laws/KVG.md) Gesetz über das Vermögen der Gemeinden, Städte und Landkreise
 - [KVHilfsmV](laws/KVHilfsmV.md) Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder geringem Abgabepreis in der gesetzlichen Krankenversicherung
 - [KVKG](laws/KVKG.md) Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in der gesetzlichen Krankenversicherung
@@ -3291,7 +3273,6 @@
 - [KWGVermV](laws/KWGVermV.md) Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes *)
 - [KWKAusV](laws/KWKAusV.md) Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme
 - [KWKG 2020](laws/KWKG_2020.md) Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung
-- [KWKGGebV](laws/KWKGGebV.md) Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle bei der Durchführung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung
 - [KWMV](laws/KWMV.md) Verordnung über Meldepflichten für bestimmte Kriegswaffen
 - [KyotoProt](laws/KyotoProt.md) Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen
 - [KyotoProtAnpfondsG](laws/KyotoProtAnpfondsG.md) Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds
@@ -3611,8 +3592,8 @@
 - [MBankDVDV](laws/MBankDVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Bankdienst der Deutschen Bundesbank
 - [MbauMstrV](laws/MbauMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Modellbauer-Handwerk
 - [MbBO](laws/MbBO.md) Verordnung über den Bau und Betrieb der Magnetschwebebahnen
+- [MBergBGebV](laws/MBergBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Zuständigkeitsbereich Meeresbodenbergbau
 - [MBergG](laws/MBergG.md) Gesetz zur Regelung des Meeresbodenbergbaus
-- [MBergKostV](laws/MBergKostV.md) Meeresbodenbergbau-Kostenverordnung
 - [MBPlG](laws/MBPlG.md) Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen
 - [MBPolVDVDV](laws/MBPolVDVDV.md) Verordnung über den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei
 - [MBVerfV](laws/MBVerfV.md) Verordnung über die Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus
@@ -3642,6 +3623,7 @@
 - [MetallbildMstrV](laws/MetallbildMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbildner-Handwerk
 - [MetallbInstrmMAusbV](laws/MetallbInstrmMAusbV.md) Verordnung über die Berufsausbildung zum Metallblasinstrumentenmacher/zur Metallblasinstrumentenmacherin
 - [MetallbMstrV](laws/MetallbMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk
+- [MetblMstrV](laws/MetblMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Metallblasinstrumentenmacher-Handwerk
 - [MetTechAusbV](laws/MetTechAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
 - [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
@@ -3728,7 +3710,6 @@
 - [MPAV](laws/MPAV.md) Verordnung zur Regelung der Abgabe von Medizinprodukten
 - [MPBetreibV](laws/MPBetreibV.md) Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten
 - [MPDG](laws/MPDG.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte
-- [MPDGGebV](laws/MPDGGebV.md) Gebührenverordnung zum Medizinprodukterecht-Durchführungsgesetz und den zu seiner Ausführung ergangenen Rechtsverordnungen
 - [MPG](laws/MPG.md) Gesetz über Medizinprodukte
 - [MPhG](laws/MPhG.md) Gesetz über die Berufe in der Physiotherapie
 - [MPorzMAusbV](laws/MPorzMAusbV.md) Verordnung über die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
@@ -4045,7 +4026,6 @@
 - [NachhG](laws/NachhG.md) Gesetz zur Nachhaftung für Abbau- und Entsorgungskosten im Kernenergiebereich
 - [NachwG](laws/NachwG.md) Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen Bedingungen
 - [NachwV](laws/NachwV.md) Verordnung über die Nachweisführung bei der Entsorgung von Abfällen
-- [NagProtBGebV](laws/NagProtBGebV.md) Besondere Gebührenverordnung über Gebühren und Auslagen für Maßnahmen des Bundesamtes für Naturschutz nach § 2 des Gesetzes zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014
 - [NagProtUmsG/EUV511/2014DG](laws/NagProtUmsG_EUV511_2014DG.md) Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014
 - [NamÄndG](laws/NamÄndG.md) Gesetz über die Änderung von Familiennamen und Vornamen
 - [NatKautschOrgVorRV](laws/NatKautschOrgVorRV.md) Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation
@@ -4112,7 +4092,6 @@
 - [NLV](laws/NLV.md) Verordnung zur Durchführung unionsrechtlicher Vorschriften über neuartige Lebensmittel
 - [NMV 1970](laws/NMV_1970.md) Verordnung über die Ermittlung der zulässigen Miete für preisgebundene Wohnungen
 - [NOK-LV](laws/NOK-LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
-- [NOKBefAbgV](laws/NOKBefAbgV.md) Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
 - [NordBinSchHfV](laws/NordBinSchHfV.md) Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
 - [NordSBrWeinG](laws/NordSBrWeinG.md) Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See
 - [NordSFischZProk](laws/NordSFischZProk.md) Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
@@ -4311,7 +4290,6 @@
 - [PCT](laws/PCT.md) Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PCTAO](laws/PCTAO.md) Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 - [PDLV](laws/PDLV.md) Postdienstleistungsverordnung
-- [PEhrlInstKostV 1996](laws/PEhrlInstKostV_1996.md) Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
 - [PEhrlInstZustV](laws/PEhrlInstZustV.md) Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
 - [PelzVAusbV](laws/PelzVAusbV.md) Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
 - [PEntgV](laws/PEntgV.md) Post-Entgeltregulierungsverordnung
@@ -4370,7 +4348,6 @@
 - [PflSchadORZV](laws/PflSchadORZV.md) Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums für Schadorganismen der Pflanzen1
 - [PflSchAnwV 1992](laws/PflSchAnwV_1992.md) Verordnung über Anwendungsverbote für Pflanzenschutzmittel
 - [PflSchG](laws/PflSchG.md) Gesetz zum Schutz der Kulturpflanzen
-- [PflSchGebV](laws/PflSchGebV.md) Verordnung über die Kosten des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit und des Julius Kühn-Instituts im Pflanzenschutzbereich
 - [PflSchGerätV](laws/PflSchGerätV.md) Verordnung über die Prüfung von Pflanzenschutzgeräten
 - [PflSchMAnwLuftFzgV](laws/PflSchMAnwLuftFzgV.md) Verordnung über die Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
 - [PflSchMV](laws/PflSchMV.md) Verordnung über Zulassungs- und Genehmigungsverfahren für Pflanzenschutzmittel 1
@@ -4418,7 +4395,6 @@
 - [PlanSiG](laws/PlanSiG.md) Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie*
 - [PlanZV](laws/PlanZV.md) Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts
 - [PlfZV](laws/PlfZV.md) Verordnung über die Zuweisung der Planfeststellung für länderübergreifende und grenzüberschreitende Höchstspannungsleitungen auf die Bundesnetzagentur
-- [PLGebV](laws/PLGebV.md) Post-Lizenzgebührenverordnung
 - [PlVereinfG](laws/PlVereinfG.md) Gesetz zur Vereinfachung der Planungsverfahren für Verkehrswege
 - [PMElekPrV](laws/PMElekPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager - Electric/Electronics)
 - [PMeriteSaÄndErl](laws/PMeriteSaÄndErl.md) Erlaß über die Genehmigung von Änderungen der Satzung des Ordens Pour le merite für Wissenschaften und Künste
@@ -4494,7 +4470,6 @@
 - [ProdSG](laws/ProdSG.md) Gesetz über die Bereitstellung von Produkten auf dem Markt *
 - [ProdTechAusbV](laws/ProdTechAusbV.md) Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin *)
 - [ProMechG](laws/ProMechG.md) Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997
-- [ProMechGebV](laws/ProMechGebV.md) Projekt-Mechanismen-Gebührenverordnung
 - [ProMusPlErl](laws/ProMusPlErl.md) Erlaß über die Stiftung der PRO MUSICA-Plakette
 - [ProMusPlRL](laws/ProMusPlRL.md) Richtlinien für die Verleihung der PRO MUSICA-Plakette
 - [ProstAV](laws/ProstAV.md) Verordnung über das Verfahren zur Anmeldung einer Tätigkeit als Prostituierte oder Prostituierter
@@ -4522,7 +4497,6 @@
 - [PsychThG/SGB5uaÄndG](laws/PsychThG_SGB5uaÄndG.md) Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kinder- und Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches Sozialgesetzbuch und anderer Gesetze
 - [PsychThV](laws/PsychThV.md) Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie
 - [PTA-APrV](laws/PTA-APrV.md) Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten
-- [PTBAKostO](laws/PTBAKostO.md) Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 - [PTBBGebV](laws/PTBBGebV.md) Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt
 - [PTNeuOG](laws/PTNeuOG.md) Gesetz zur Neuordnung des Postwesens und der Telekommunikation
 - [PTSG](laws/PTSG.md) Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen
@@ -4653,7 +4627,6 @@
 - [RheinSchUO1994Prot 19](laws/RheinSchUO1994Prot_19.md) Protokoll 19 - Bestimmungen in der Rheinschiffsuntersuchungsordnung für die Begrenzung von Abgasemissionen aus Dieselmotoren in der Rheinschifffahrt (1999-II-16)
 - [RheinSchVtr](laws/RheinSchVtr.md) Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Schiffahrt auf dem Untersee und dem Rhein zwischen Konstanz und Schaffhausen
 - [RheinStrBrückVtr](laws/RheinStrBrückVtr.md) Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen Weil am Rhein und Hüningen
-- [RHG-GebV](laws/RHG-GebV.md) Verordnung über die Kosten des Verfahrens im Rahmen der Festsetzung der Rückstandshöchstgehalte in Lebens- und Futtermitteln
 - [RHiErsDPAZustV](laws/RHiErsDPAZustV.md) Verordnung über die Zuständigkeit des Deutschen Patentamts für die Übermittlung von Rechtshilfeersuchen des Europäischen Patentamts
 - [RHiGRCAbkAV](laws/RHiGRCAbkAV.md) Verordnung zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
 - [RHiGRCAbkBek](laws/RHiGRCAbkBek.md) Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
@@ -4786,7 +4759,6 @@
 - [SaRegG](laws/SaRegG.md) Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen
 - [SARSCoV2AMVV](laws/SARSCoV2AMVV.md) Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie
 - [SatDSiG](laws/SatDSiG.md) Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten
-- [SatDSiGebV](laws/SatDSiGebV.md) Gebührenverordnung zum Satellitendatensicherheitsgesetz
 - [SatDSiV](laws/SatDSiV.md) Verordnung zum Satellitendatensicherheitsgesetz
 - [SatellitÜbk](laws/SatellitÜbk.md) Übereinkommen über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 - [SatellitÜbkG](laws/SatellitÜbkG.md) Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
@@ -4920,7 +4892,6 @@
 - [SeeAusbNÜbk](laws/SeeAusbNÜbk.md) Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 - [SeeAZV](laws/SeeAZV.md) Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung
 - [SeeBewachDV](laws/SeeBewachDV.md) Verordnung zur Durchführung der Seeschiffbewachungsverordnung
-- [SeeBewachGebV](laws/SeeBewachGebV.md) Verordnung über Gebühren und Auslagen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Zulassung von Bewachungsunternehmen auf Seeschiffen
 - [SeeBewachV](laws/SeeBewachV.md) Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen
 - [SeeEigensichV](laws/SeeEigensichV.md) Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren
 - [SeeFischG](laws/SeeFischG.md) Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union
@@ -4970,6 +4941,7 @@
 - [SeeVersNachwGAnwBek](laws/SeeVersNachwGAnwBek.md) Bekanntmachung über die Anwendbarkeit von Teilen des Seeversicherungsnachweisgesetzes
 - [SeeVersNachwV](laws/SeeVersNachwV.md) Verordnung über die Ausstellung von Haftungsbescheinigungen nach dem Seeversicherungsnachweisgesetz
 - [SEFFV](laws/SEFFV.md) Verordnung über die unentgeltliche Beförderung von Soldatinnen und Soldaten in öffentlichen Eisenbahnen bei Privatfahrten
+- [SEG](laws/SEG.md) Gesetz über die Entschädigung der Soldatinnen und Soldaten
 - [SegelmAusbV](laws/SegelmAusbV.md) Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin *)
 - [SegelmMstrV](laws/SegelmMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Segelmacher-Handwerk
 - [SeilAusbV](laws/SeilAusbV.md) Verordnung über die Berufsausbildung zum Seiler und zur Seilerin *)
@@ -5060,6 +5032,7 @@
 - [SMVergV](laws/SMVergV.md) Verordnung über die Gewährung einer Mehrarbeitsvergütung für Soldaten
 - [SodEG](laws/SodEG.md) Gesetz über den Einsatz der Einrichtungen und sozialen Dienste zur Bekämpfung der Coronavirus SARS-CoV-2 Krise in Verbindung mit einem Sicherstellungsauftrag
 - [SodEGVerlV](laws/SodEGVerlV.md) Verordnung zur Verlängerung des besonderen Sicherstellungsauftrags nach dem Sozialdienstleister-Einsatzgesetz
+- [SoEnergieV](laws/SoEnergieV.md) Verordnung zur Vergabe von sonstigen Energiegewinnungsbereichen in der ausschließlichen Wirtschaftszone
 - [SoftwareentwAusbV](laws/SoftwareentwAusbV.md) Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
 - [SojBoSaatV](laws/SojBoSaatV.md) Verordnung über besondere Anforderungen an Saatgut von Sojabohne im Rahmen der Saatgutanerkennung 2010
 - [SojBoSaatV 2015](laws/SojBoSaatV_2015.md) Verordnung über besondere Anforderungen an Saatgut von Sojabohne im Rahmen der Saatgutanerkennung 2015
@@ -5347,7 +5320,6 @@
 - [StuckMstrV](laws/StuckMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Stuckateur-Handwerk
 - [StudAustKomRV](laws/StudAustKomRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an die Kommission für den Studenten- und Dozentenaustausch zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 - [StUG](laws/StUG.md) Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
-- [StUKostV](laws/StUKostV.md) Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
 - [StV/WasAusbV](laws/StV_WasAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft
 - [StVG](laws/StVG.md) Straßenverkehrsgesetz
 - [StVGHBetrÄndV](laws/StVGHBetrÄndV.md) Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz
@@ -5382,7 +5354,6 @@
 - [StVZOAusnV 54](laws/StVZOAusnV_54.md) Vierundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 - [StVZOAusnV 6](laws/StVZOAusnV_6.md) Sechste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung
 - [StZG](laws/StZG.md) Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen
-- [StZG-KostV](laws/StZG-KostV.md) Kostenverordnung zum Stammzellgesetz
 - [STzV](laws/STzV.md) Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr
 - [SubvG](laws/SubvG.md) Gesetz gegen mißbräuchliche Inanspruchnahme von Subventionen
 - [SuchtstÜbk](laws/SuchtstÜbk.md) Einheits-Übereinkommen von 1961 über Suchtstoffe
@@ -5510,7 +5481,6 @@
 - [Tier-LMÜV](laws/Tier-LMÜV.md) Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs 1 , 2
 - [TierErzHaVerbG](laws/TierErzHaVerbG.md) Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen
 - [TierGesG](laws/TierGesG.md) Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen
-- [TierImpfStKostV 2010](laws/TierImpfStKostV_2010.md) Tierimpfstoff-Kostenverordnung
 - [TierImpfStV 2006](laws/TierImpfStV_2006.md) Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz
 - [TiermedFAngAusbV](laws/TiermedFAngAusbV.md) Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten
 - [TierNebBußV](laws/TierNebBußV.md) Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002
@@ -5541,14 +5511,12 @@
 - [TKabelVtrAG](laws/TKabelVtrAG.md) Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen Telegraphenkabel vom 14. März 1884
 - [TKEMVFuAÜbertrV](laws/TKEMVFuAÜbertrV.md) Verordnung zur Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz, dem Elektromagnetische-Verträglichkeit-Gesetz und dem Funkanlagengesetz
 - [TKG](laws/TKG.md) Telekommunikationsgesetz
-- [TKGebV](laws/TKGebV.md) Verordnung über Telekommunikationsgebühren
 - [TKonfAusbV 2010](laws/TKonfAusbV_2010.md) Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)
 - [TKrMeldpflV 1983](laws/TKrMeldpflV_1983.md) Verordnung über meldepflichtige Tierkrankheiten
 - [TKTransparenzV](laws/TKTransparenzV.md) Verordnung zur Förderung der Transparenz auf dem Telekommunikationsmarkt
 - [TKÜV](laws/TKÜV.md) Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation
 - [TLMV](laws/TLMV.md) Verordnung über tiefgefrorene Lebensmittel
 - [TMG](laws/TMG.md) Telemediengesetz
-- [TNGebV](laws/TNGebV.md) Telekommunikations-Nummerngebührenverordnung
 - [TNV](laws/TNV.md) Telekommunikations-Nummerierungsverordnung
 - [TollwV 1991](laws/TollwV_1991.md) Verordnung zum Schutz gegen die Tollwut
 - [TomatKennzV](laws/TomatKennzV.md) Verordnung über die vorübergehende saatgutrechtliche Kennzeichnung und Verpackung für Saatgut von Tomaten
@@ -5578,7 +5546,6 @@
 - [TreuhUmbenV](laws/TreuhUmbenV.md) Verordnung über die Umbenennung und die Anpassung von Zuständigkeiten der Treuhandanstalt
 - [TreuhUntÜV](laws/TreuhUntÜV.md) Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt
 - [TrGebV](laws/TrGebV.md) Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister
-- [TrinkwGebV](laws/TrinkwGebV.md) Verordnung über Gebühren und Auslagen für individuell zurechenbare Leistungen des Umweltbundesamtes nach der Trinkwasserverordnung
 - [TrinkwV](laws/TrinkwV.md) Verordnung über die Qualität von Wasser für den menschlichen Gebrauch 1, 2
 - [TrVerjG](laws/TrVerjG.md) Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
 - [TrZollG](laws/TrZollG.md) Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere
@@ -5598,7 +5565,7 @@
 - [TVGDV](laws/TVGDV.md) Verordnung zur Durchführung des Tarifvertragsgesetzes
 - [TVMindestlohn 2021](laws/TVMindestlohn_2021.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland(TV Mindestlohn) vom 29. Januar 2021
 - [TVMindestlohn Abfall 8](laws/TVMindestlohn_Abfall_8.md) Rechtsnormen des Mindestlohntarifvertrags für die Branche Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011, 6. März 2012, 15. Oktober 2012, 24. Juni 2014, 19. Mai 2015 und 29. Mai 2019
-- [TVMindestlohn Gerüstb 6](laws/TVMindestlohn_Gerüstb_6.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
+- [TVMindestlohn Gerüstb 7](laws/TVMindestlohn_Gerüstb_7.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1. Juni 2021
 - [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
 - [TVMindestlohn VFlughSiK](laws/TVMindestlohn_VFlughSiK.md) Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 24. Januar 2019
 - [TVMindestlohnDachd 10](laws/TVMindestlohnDachd_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
@@ -5821,7 +5788,6 @@
 - [VermRglVtr ISR/AUS](laws/VermRglVtr_ISR_AUS.md) Vertrag zwischen der Bundesrepublik Deutschland und dem Australischen Bund über die Aufteilung der von der Regierung des Staates Israel für das deutsche weltliche Vermögen in Israel gezahlten Entschädigung auf Deutschland und Australien
 - [VermRglVtrISR/AUSG](laws/VermRglVtrISR_AUSG.md) Gesetz zum Vertrag vom 21. April 1965 zwischen der Bundesrepublik Deutschland und dem Australischen Bund über die Aufteilung der von der Regierung des Staates Israel für das deutsche weltliche Vermögen in Israel gezahlten Entschädigung auf Deutschland und Australien
 - [VermSammlG](laws/VermSammlG.md) Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene oder verschleppte Zivilpersonen und Vermißte
-- [VermVerkProspGebV](laws/VermVerkProspGebV.md) Verordnung über die Gebühren für Amtshandlungen betreffend Verkaufsprospekte für Vermögensanlagen nach dem Vermögensanlagengesetz
 - [VermVerkProspV](laws/VermVerkProspV.md) Verordnung über Vermögensanlagen-Verkaufsprospekte
 - [VermVerMiV](laws/VermVerMiV.md) Verordnung zur Durchführung des § 11a des Vermögensanlagengesetzes
 - [VermVV](laws/VermVV.md) Verordnung über das Vermögensverzeichnis
@@ -6010,7 +5976,6 @@
 - [WaStrAbgG](laws/WaStrAbgG.md) Gesetz betreffend den Ausbau der deutschen Wasserstraßen und die Erhebung von Schiffahrtsabgaben
 - [WaStrBAV](laws/WaStrBAV.md) Bekanntmachung der Strompolizeiverordnung zum Schutz bundeseigener Betriebsanlagen an Bundeswasserstraßen
 - [WaStrG](laws/WaStrG.md) Bundeswasserstraßengesetz
-- [WaStrG-KostV](laws/WaStrG-KostV.md) Kostenverordnung zum Bundeswasserstraßengesetz
 - [WaStrGAnlErmV](laws/WaStrGAnlErmV.md) Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen
 - [WaStrGGemGebrErmV](laws/WaStrGGemGebrErmV.md) Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung, Beschränkung oder Untersagung des Gemeingebrauchs
 - [WaStrGPolVErmV](laws/WaStrGPolVErmV.md) Verordnung über die Übertragung der Ermächtigung zum Erlaß von Strompolizeiverordnungen nach dem Bundeswasserstraßengesetz
@@ -6160,13 +6125,11 @@
 - [WPostVVfO 2012](laws/WPostVVfO_2012.md) Allgemeine Verfahrensordnung des Weltpostvereins
 - [WPostVVfOZProt 1](laws/WPostVVfOZProt_1.md) Erstes Zusatzprotokoll zur Allgemeinen Verfahrensordnung des Weltpostvereins
 - [WpPG](laws/WpPG.md) Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei der Zulassung von Wertpapieren zum Handel an einem organisierten Markt zu veröffentlichen ist
-- [WpPGebV](laws/WpPGebV.md) Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz
 - [WpSchCHEGDV](laws/WpSchCHEGDV.md) Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des Wappens der Schweizerischen Eidgenossenschaft
 - [WpÜG](laws/WpÜG.md) Wertpapiererwerbs- und Übernahmegesetz
 - [WpÜGAngebV](laws/WpÜGAngebV.md) Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
 - [WpÜGAnwendV](laws/WpÜGAnwendV.md) Verordnung über die Anwendbarkeit von Vorschriften betreffend Angebote im Sinne des § 1 Abs. 2 und 3 des Wertpapiererwerbs- und Übernahmegesetzes
 - [WpÜGBMV](laws/WpÜGBMV.md) Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes
-- [WpÜGGebV](laws/WpÜGGebV.md) Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz
 - [WrackBKostDG](laws/WrackBKostDG.md) Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks
 - [WrackBKostDGAnwBek](laws/WrackBKostDGAnwBek.md) Bekanntmachung über die Anwendbarkeit des Wrackbeseitigungskostendurchsetzungsgesetzes
 - [WRegG](laws/WRegG.md) Gesetz zur Einrichtung und zum Betrieb eines Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen
@@ -6184,7 +6147,6 @@
 - [WStG](laws/WStG.md) Wehrstrafgesetz
 - [WStHAusbV](laws/WStHAusbV.md) Verordnung über die Berufsausbildung zum Werksteinhersteller und zur Werksteinherstellerin*
 - [WStrGEG](laws/WStrGEG.md) Einführungsgesetz zum Wehrstrafgesetz
-- [WSVSeeKostV](laws/WSVSeeKostV.md) Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt
 - [WSVZustNeuOV](laws/WSVZustNeuOV.md) Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes
 - [WSVZustRVenÄndG](laws/WSVZustRVenÄndG.md) Gesetz zur Änderung von Rechtsverordnungen hinsichtlich der Zuständigkeiten von Bundesbehörden im Bereich der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 - [WTO](laws/WTO.md) Satzung der Weltorganisation für Tourismus
@@ -6467,7 +6429,6 @@
 - [ZuckQuotV 1981](laws/ZuckQuotV_1981.md) Verordnung über die Zuteilung und Änderung von Quoten für Zucker
 - [ZuG 2007](laws/ZuG_2007.md) Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2005 bis 2007
 - [ZuG 2012](laws/ZuG_2012.md) Gesetz über den nationalen Zuteilungsplan für Treibhausgas-Emissionsberechtigungen in der Zuteilungsperiode 2008 bis 2012
-- [ZulKostV](laws/ZulKostV.md) Kostenverordnung für die Zulassung von Meßgeräten zur Eichung
 - [ZupfinstrumentAusbV](laws/ZupfinstrumentAusbV.md) Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin*
 - [ZupfMstrV](laws/ZupfMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Zupfinstrumentenmacher-Handwerk
 - [ZusEntschLnuklSchÜbk](laws/ZusEntschLnuklSchÜbk.md) Übereinkommen über zusätzliche Entschädigungsleistungen für nuklearen Schaden
@@ -6632,11 +6593,11 @@
 - [5. VermBG](laws/5._VermBG.md) Fünftes Gesetz zur Förderung der Vermögensbildung der Arbeitnehmer
 - [52. AnrV](laws/52._AnrV.md) Zweiundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
 - [6. DV-BEG](laws/6._DV-BEG.md) Sechste Verordnung zur Durchführung des Bundesentschädigungsgesetzes
-- [6. GerüstbauerArbbV](laws/6._GerüstbauerArbbV.md) Sechste Verordnung über zwingende Arbeitsbedingungen im Gerüstbauer-Handwerk
 - [6. ProdSV](laws/6._ProdSV.md) Sechste Verordnung zum Produktsicherheitsgesetz 1
 - [6. RAG](laws/6._RAG.md) Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [6. SGGÄndG](laws/6._SGGÄndG.md) Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes
 - [7. BImSchV](laws/7._BImSchV.md) Siebente Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+- [7. GerüstbauerArbbV](laws/7._GerüstbauerArbbV.md) Siebte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauer-Handwerk
 - [7. RAG](laws/7._RAG.md) Siebentes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
 - [8. AbfallArbbV](laws/8._AbfallArbbV.md) Achte Verordnung über zwingende Arbeitsbedingungen für die Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst
 - [8. ÄndGLAG](laws/8._ÄndGLAG.md) Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)

@@ -75,11 +75,7 @@ Wirkt sie bei der Erfüllung der unter den Nummern 1 bis 5 beschriebenen Aufgabe
 
 4. zur Einheitlichkeit des internationalen Messwesens beizutragen.
 
-# § 7 – Gebühren und Auslagen für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
-
-(1) Für Nutzleistungen der Physikalisch-Technischen Bundesanstalt werden Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei Fest- oder Zeitgebühren vorzusehen. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Nutzleistung erhoben werden kann, die nicht begonnen oder nicht zu Ende geführt worden ist, wenn die Gründe hierfür von der Person zu vertreten sind, die die Nutzleistung veranlasst hat. Der mit der Nutzleistung verbundene Personal- und Sachaufwand und ihr wirtschaftlicher Wert für die antragstellende Person sind zu berücksichtigen.
+# § 7 – (weggefallen)
 
 # § 8 – Zuständige Behörden
 

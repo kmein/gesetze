@@ -7,13 +7,13 @@ Auf Grund des § 64 Absatz 3 Nummer 7 des Erneuerbare-Energien-Gesetzes vom 25. 
 
 # § 1 – Vermarktung an Spotmärkten
 
-(1) Am vortägigen Spotmarkt einer Strombörse ist über eine marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden Stroms vollständig zu veräußern. Verkaufsangebote nach Satz 1 sind preisunabhängig einzustellen.
+(1) Am vortägigen Spotmarkt einer Strombörse ist über eine marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Stroms vollständig zu veräußern. Verkaufsangebote nach Satz 1 sind preisunabhängig einzustellen.
 
 (2) Differenzen zwischen der gemäß jeweils aktueller Prognose vorhergesagten viertelstündlichen Einspeisung und der nach Absatz 1 zu vermarktenden stündlichen Einspeisung können am Spotmarkt einer Strombörse für jede Viertelstunde des Folgetages über Auktionen mit viertelstündlichen Handelsprodukten erworben oder veräußert werden. Gebote nach Satz 1 können preislimitiert eingestellt werden.
 
 (3) Differenzen zwischen der nach aktualisierten Prognosen vorhergesagten viertelstündlichen Einspeisung und den bereits veräußerten und erworbenen Strommengen sind über den untertägigen kontinuierlichen Handel am Spotmarkt einer Strombörse zu erwerben oder zu veräußern. Mit Abschluss der letzten Handelsmöglichkeiten nach Satz 1 müssen die Differenzen nach Satz 1 vollständig ausgeglichen sein.
 
-(4) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden Strom sind nach dem Stand von Wissenschaft und Technik zu erstellen.
+(4) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell auszugleichenden Strom sind nach dem Stand von Wissenschaft und Technik zu erstellen.
 
 (5) Eine gemeinsame Vermarktung nach § 2 Absatz 1 Satz 1 der Erneuerbare-Energien-Verordnung schließt die Möglichkeit ein, Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im Rahmen eines Dienstleistungsverhältnisses zu übertragen.
 
@@ -91,7 +91,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 # § 7 – Anreize zur bestmöglichen Vermarktung
 
-(1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Strom bestmöglich zu vermarkten, werden je Kalenderjahr (Anreizjahr) die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit einem Vergleichswert verglichen.
+(1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom bestmöglich zu vermarkten, werden je Kalenderjahr (Anreizjahr) die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit einem Vergleichswert verglichen.
 
 (2) Beeinflussbare Differenzkosten bestehen aus einer Komponente, welche die Aktivitäten an einem untertägigen Spotmarkt abbildet, und einer Komponente, welche die Inanspruchnahme der Ausgleichsenergie abbildet. Die Ermittlung der beeinflussbaren Differenzkosten je Viertelstunde erfolgt, indem
 
@@ -107,7 +107,7 @@ Als Preis des Vortageshandels (P<sub>VT</sub>) gilt der Spotmarktpreis nach § 3
 
 K<sub>UT</sub> ∙ (P<sub>UT</sub> - P<sub>VT</sub>) + VK<sub>UT</sub> ∙ (P<sub>VT</sub> - P<sub>UT</sub>) + K<sub>AE</sub> ∙ (P<sub>AE</sub> - P<sub>VT</sub>) + VK<sub>AE</sub> ∙ (P<sub>VT</sub> - P<sub>AE</sub>).
 
-(3) Für die Ermittlung der spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers im Sinne von Absatz 1 ist die Summe der nach Maßgabe des Absatzes 2 ermittelten Viertelstundenwerte eines Kalenderjahres durch die innerhalb dieses Zeitraums zu vermarktende Menge des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Stroms zu dividieren. Unter zu vermarktender Menge ist die nach Durchführung des unverzüglichen horizontalen Belastungsausgleichs bei einem Übertragungsnetzbetreiber verbleibende Strommenge zu verstehen.
+(3) Für die Ermittlung der spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers im Sinne von Absatz 1 ist die Summe der nach Maßgabe des Absatzes 2 ermittelten Viertelstundenwerte eines Kalenderjahres durch die innerhalb dieses Zeitraums zu vermarktende Menge des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms zu dividieren. Unter zu vermarktender Menge ist die nach Durchführung des unverzüglichen horizontalen Belastungsausgleichs bei einem Übertragungsnetzbetreiber verbleibende Strommenge zu verstehen.
 
 (4) Der Vergleichswert im Sinne von Absatz 1 ist der arithmetische Mittelwert der jeweiligen spezifischen beeinflussbaren Differenzkosten aller Übertragungsnetzbetreiber der beiden Vorjahre.
 

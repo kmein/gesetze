@@ -19,7 +19,7 @@ Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche Leistu
 
 3. der Bundesbehörden der Justiz- und Gerichtsverwaltung sowie des Deutschen Patent- und Markenamtes, des Bundeskartellamtes und der Bundesnetzagentur, soweit sie als Regulierungsbehörde im Sinne des Energiewirtschaftsgesetzes auftritt,
 
-4. der Stiftung Preußischer Kulturbesitz, der Akademie der Künste, der Deutschen Nationalbibliothek, der Stiftung zur Aufarbeitung der SED-Diktatur, der Stiftung Jüdisches Museum Berlin, der Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte, der Stiftung Bundespräsident-Theodor-Heuss-Haus, der Stiftung Bundeskanzler-Adenauer-Haus und der Museumsstiftung Post und Telekommunikation,
+4. der Stiftung Preußischer Kulturbesitz, der Akademie der Künste, der Deutschen Nationalbibliothek, der Stiftung zur Aufarbeitung der SED-Diktatur, der Stiftung Jüdisches Museum Berlin, der Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte, der Stiftung Bundespräsident-Theodor-Heuss-Haus, der Stiftung Bundeskanzler-Adenauer-Haus, der Bundeskanzler-Helmut-Schmidt-Stiftung, der Otto-von-Bismarck-Stiftung, der Bundeskanzler-Willy-Brandt-Stiftung, der Bundeskanzler-Helmut-Kohl-Stiftung, der Stiftung „Haus der Geschichte der Bundesrepublik Deutschland“, der Stiftung Denkmal für die ermordeten Juden Europas, der Stiftung „Deutsches Historisches Museum“, der Stiftung Orte der deutschen Demokratiegeschichte, des Bundesinstituts für Kultur und Geschichte der Deutschen im östlichen Europa, der Filmförderungsanstalt und der Museumsstiftung Post und Telekommunikation,
 
 5. des Deutschen Weinfonds und in Verfahren nach der Verordnung über den Klärschlamm-Entschädigungsfonds,
 
@@ -366,25 +366,7 @@ Stundung, Niederschlagung und Erlass von festgesetzten Gebühren richten sich na
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine individuell zurechenbare öffentliche Leistung, die vor dem 15. August 2013 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden.
 
-(2) Für die Erhebung von Gebühren und Auslagen durch die in § 2 Absatz 1 genannten Behörden nach Rechtsvorschriften, die vor dem 15. August 2013 erlassen wurden, gilt dieses Gesetz nach Maßgabe der Absätze 3 bis 7.
-
-(3) Soweit nichts anderes bestimmt ist, sind die Gebührensätze so zu bemessen, dass zwischen der den Verwaltungsaufwand berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der individuell zurechenbaren öffentlichen Leistung andererseits ein angemessenes Verhältnis besteht. Ist gesetzlich vorgesehen, dass Gebühren nur zur Deckung des Verwaltungsaufwandes erhoben werden, sind die Gebührensätze so zu bemessen, dass die Gebühr die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten nicht übersteigt. § 9 Absatz 1 wird nicht angewendet. § 6 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung ist weiter anzuwenden.
-
-(4) Ist die Gebühr nach dem Wert des Gegenstandes zu berechnen, so ist der Wert zum Zeitpunkt der Beendigung der individuell zurechenbaren öffentlichen Leistung maßgeblich. Sind Rahmensätze für Gebühren vorgesehen, ist § 9 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden, soweit nichts anderes bestimmt ist. § 13 Absatz 2 wird nicht angewendet.
-
-(5) § 10 wird nicht angewendet. Für die Ablehnung, Rücknahme oder Erledigung eines Antrags sowie für die Rücknahme oder den Widerruf eines Verwaltungsaktes ist § 15 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden, soweit nichts anderes bestimmt ist. Für die Rückweisung, Zurücknahme oder Erledigung eines Widerspruchs sind die Rechtsvorschriften, die vor dem 15. August 2013 erlassen wurden, weiter anzuwenden.
-
-(6) § 12 Absatz 1 und 2 wird nicht angewendet. Für die Erhebung von Auslagen ist § 10 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden.
-
-(7) Die §§ 1 bis 22 sowie die Absätze 1 bis 6 gelten nicht für Gebühren und Auslagen des Auswärtigen Amts und der Vertretungen des Bundes im Ausland.
-
-(8) Die Absätze 2 bis 7 finden keine Anwendung
-
-1. für die durch Artikel 3 des Gesetzes zur Aktualisierung der Strukturreform des Gebührenrechts des Bundes vom 18. Juli 2016 (BGBl. I S. 1666) geänderten Regelungen nach dem 1. Oktober 2019 und
-
-2. für die durch Artikel 4 des Gesetzes zur Aktualisierung der Strukturreform des Gebührenrechts des Bundes vom 18. Juli 2016 (BGBl. I S. 1666) geänderten Regelungen nach dem 1. Oktober 2021.
-
-Durch Besondere Gebührenverordnung nach § 22 Absatz 4 kann bestimmt werden, dass die Absätze 2 bis 7 bereits zu einem früheren als den in Satz 1 bestimmten Zeitpunkten für den jeweiligen Anwendungsbereich der Besonderen Gebührenverordnung nicht anwendbar sind.
+(2) - (8) (weggefallen)
 
 # § 24 – Außerkrafttreten
 

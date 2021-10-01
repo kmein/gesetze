@@ -27,37 +27,45 @@
 
 (1) Eine Vereinbarung über die Vergütung bedarf der Textform. Sie muss als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet werden, von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten sein. Sie hat einen Hinweis darauf zu enthalten, dass die gegnerische Partei, ein Verfahrensbeteiligter oder die Staatskasse im Falle der Kostenerstattung regelmäßig nicht mehr als die gesetzliche Vergütung erstatten muss. Die Sätze 1 und 2 gelten nicht für eine Gebührenvereinbarung nach § 34.
 
-(2) Ist eine vereinbarte, eine nach § 4 Abs. 3 Satz 1 von dem Vorstand der Rechtsanwaltskammer festgesetzte oder eine nach § 4a für den Erfolgsfall vereinbarte Vergütung unter Berücksichtigung aller Umstände unangemessen hoch, kann sie im Rechtsstreit auf den angemessenen Betrag bis zur Höhe der gesetzlichen Vergütung herabgesetzt werden. Vor der Herabsetzung hat das Gericht ein Gutachten des Vorstands der Rechtsanwaltskammer einzuholen; dies gilt nicht, wenn der Vorstand der Rechtsanwaltskammer die Vergütung nach § 4 Abs. 3 Satz 1 festgesetzt hat. Das Gutachten ist kostenlos zu erstatten.
+(2) In der Vereinbarung kann es dem Vorstand der Rechtsanwaltskammer überlassen werden, die Vergütung nach billigem Ermessen festzusetzen. Ist die Festsetzung der Vergütung dem Ermessen eines Vertragsteils überlassen, so gilt die gesetzliche Vergütung als vereinbart.
 
-(3) Eine Vereinbarung, nach der ein im Wege der Prozesskostenhilfe beigeordneter Rechtsanwalt für die von der Beiordnung erfasste Tätigkeit eine höhere als die gesetzliche Vergütung erhalten soll, ist nichtig. Die Vorschriften des bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben unberührt.
+(3) Ist eine vereinbarte, eine nach Absatz 2 Satz 1 von dem Vorstand der Rechtsanwaltskammer festgesetzte oder eine nach § 4a für den Erfolgsfall vereinbarte Vergütung unter Berücksichtigung aller Umstände unangemessen hoch, kann sie im Rechtsstreit auf den angemessenen Betrag bis zur Höhe der gesetzlichen Vergütung herabgesetzt werden. Vor der Herabsetzung hat das Gericht ein Gutachten des Vorstands der Rechtsanwaltskammer einzuholen; dies gilt nicht, wenn der Vorstand der Rechtsanwaltskammer die Vergütung nach Absatz 2 Satz 1 festgesetzt hat. Das Gutachten ist kostenlos zu erstatten.
 
-(4) (weggefallen)
+(4) Eine Vereinbarung, nach der ein im Wege der Prozesskostenhilfe beigeordneter Rechtsanwalt für die von der Beiordnung erfasste Tätigkeit eine höhere als die gesetzliche Vergütung erhalten soll, ist nichtig. Die Vorschriften des bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben unberührt.
 
-# § 4 – Erfolgsunabhängige Vergütung
+# § 4 – Unterschreitung der gesetzlichen Vergütung
 
-(1) In außergerichtlichen Angelegenheiten kann eine niedrigere als die gesetzliche Vergütung vereinbart werden. Sie muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen. Liegen die Voraussetzungen für die Bewilligung von Beratungshilfe vor, kann der Rechtsanwalt ganz auf eine Vergütung verzichten. § 9 des Beratungshilfegesetzes bleibt unberührt.
+(1) In außergerichtlichen Angelegenheiten kann eine niedrigere als die gesetzliche Vergütung vereinbart werden. Sie muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen. Ist Gegenstand der außergerichtlichen Angelegenheit eine Inkassodienstleistung (§ 2 Absatz 2 Satz 1 des Rechtsdienstleistungsgesetzes) oder liegen die Voraussetzungen für die Bewilligung von Beratungshilfe vor, gilt Satz 2 nicht und kann der Rechtsanwalt ganz auf eine Vergütung verzichten. § 9 des Beratungshilfegesetzes bleibt unberührt.
 
-(2) Der Rechtsanwalt kann sich für gerichtliche Mahnverfahren und Zwangsvollstreckungsverfahren nach den §§ 802a bis 863 und 882b bis 882f der Zivilprozessordnung verpflichten, dass er, wenn der Anspruch des Auftraggebers auf Erstattung der gesetzlichen Vergütung nicht beigetrieben werden kann, einen Teil des Erstattungsanspruchs an Erfüllungs statt annehmen werde. Der nicht durch Abtretung zu erfüllende Teil der gesetzlichen Vergütung muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen.
-
-(3) In der Vereinbarung kann es dem Vorstand der Rechtsanwaltskammer überlassen werden, die Vergütung nach billigem Ermessen festzusetzen. Ist die Festsetzung der Vergütung dem Ermessen eines Vertragsteils überlassen, gilt die gesetzliche Vergütung als vereinbart.
-
-(4) bis (6)(weggefallen)
+(2) Ist Gegenstand der Angelegenheit eine Inkassodienstleistung in einem der in § 79 Absatz 2 Satz 2 Nummer 4 der Zivilprozessordnung genannten Verfahren, kann eine niedrigere als die gesetzliche Vergütung vereinbart werden oder kann der Rechtsanwalt ganz auf eine Vergütung verzichten.
 
 # § 4a – Erfolgshonorar
 
-(1) Ein Erfolgshonorar (§ 49b Abs. 2 Satz 1 der Bundesrechtsanwaltsordnung) darf nur für den Einzelfall und nur dann vereinbart werden, wenn der Auftraggeber aufgrund seiner wirtschaftlichen Verhältnisse bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde. In einem gerichtlichen Verfahren darf dabei für den Fall des Misserfolgs vereinbart werden, dass keine oder eine geringere als die gesetzliche Vergütung zu zahlen ist, wenn für den Erfolgsfall ein angemessener Zuschlag auf die gesetzliche Vergütung vereinbart wird. Für die Beurteilung nach Satz 1 bleibt die Möglichkeit, Beratungs- oder Prozesskostenhilfe in Anspruch zu nehmen, außer Betracht.
+(1) Ein Erfolgshonorar (§ 49b Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung) darf nur vereinbart werden, wenn
 
-(2) Die Vereinbarung muss enthalten:
+1. sich der Auftrag auf eine Geldforderung von höchstens 2 000 Euro bezieht,
 
-1. die voraussichtliche gesetzliche Vergütung und gegebenenfalls die erfolgsunabhängige vertragliche Vergütung, zu der der Rechtsanwalt bereit wäre, den Auftrag zu übernehmen, sowie
+2. eine Inkassodienstleistung außergerichtlich oder in einem der in § 79 Absatz 2 Satz 2 Nummer 4 der Zivilprozessordnung genannten Verfahren erbracht wird oder
 
-2. die Angabe, welche Vergütung bei Eintritt welcher Bedingungen verdient sein soll.
+3. der Auftraggeber im Einzelfall bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde.
 
-(3) In der Vereinbarung sind außerdem die wesentlichen Gründe anzugeben, die für die Bemessung des Erfolgshonorars bestimmend sind. Ferner ist ein Hinweis aufzunehmen, dass die Vereinbarung keinen Einfluss auf die gegebenenfalls vom Auftraggeber zu zahlenden Gerichtskosten, Verwaltungskosten und die von ihm zu erstattenden Kosten anderer Beteiligter hat.
+Eine Vereinbarung nach Satz 1 Nummer 1 oder 2 ist unzulässig, soweit sich der Auftrag auf eine Forderung bezieht, die der Pfändung nicht unterworfen ist. Für die Beurteilung nach Satz 1 Nummer 3 bleibt die Möglichkeit, Beratungs- oder Prozesskostenhilfe in Anspruch zu nehmen, außer Betracht.
+
+(2) In anderen als den in Absatz 1 Satz 1 Nummer 2 genannten Angelegenheiten darf nur dann vereinbart werden, dass für den Fall des Misserfolgs keine oder eine geringere als die gesetzliche Vergütung zu zahlen ist, wenn für den Erfolgsfall ein angemessener Zuschlag auf die gesetzliche Vergütung vereinbart wird.
+
+(3) In eine Vereinbarung über ein Erfolgshonorar sind aufzunehmen:
+
+1. die Angabe, welche Vergütung bei Eintritt welcher Bedingungen verdient sein soll,
+
+2. die Angabe, ob und gegebenenfalls welchen Einfluss die Vereinbarung auf die gegebenenfalls vom Auftraggeber zu zahlenden Gerichtskosten, Verwaltungskosten und die von diesem zu erstattenden Kosten anderer Beteiligter haben soll,
+
+3. die wesentlichen Gründe, die für die Bemessung des Erfolgshonorars bestimmend sind, und
+
+4. im Fall des Absatzes 1 Satz 1 Nummer 3 die voraussichtliche gesetzliche Vergütung und gegebenenfalls die erfolgsunabhängige vertragliche Vergütung, zu der der Rechtsanwalt bereit wäre, den Auftrag zu übernehmen.
 
 # § 4b – Fehlerhafte Vergütungsvereinbarung
 
-Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 3a Abs. 1 Satz 1 und 2 oder des § 4a Abs. 1 und 2 entspricht, kann der Rechtsanwalt keine höhere als die gesetzliche Vergütung fordern. Die Vorschriften des bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben unberührt.
+Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 3a Abs. 1 Satz 1 und 2 oder des § 4a Absatz 1 und 3 Nummer 1 und 4 entspricht, kann der Rechtsanwalt keine höhere als die gesetzliche Vergütung fordern. Die Vorschriften des bürgerlichen Rechts über die ungerechtfertigte Bereicherung bleiben unberührt.
 
 # § 5 – Vergütung für Tätigkeiten von Vertretern des Rechtsanwalts
 
@@ -159,7 +167,9 @@ weiteren … Euro</th><th style="text-align: center;">um<br />
   
 Eine Gebührentabelle für Gegenstandswerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
-(2) Der Mindestbetrag einer Gebühr ist 15 Euro.
+(2) Bei der Geschäftsgebühr für eine außergerichtliche Inkassodienstleistung, die eine unbestrittene Forderung betrifft (Absatz 2 der Anmerkung zu Nummer 2300 des Vergütungsverzeichnisses), beträgt bei einem Gegenstandswert bis 50 Euro die Gebühr abweichend von Absatz 1 Satz 1 30 Euro.
+
+(3) Der Mindestbetrag einer Gebühr ist 15 Euro.
 
 # § 14 – Rahmengebühren
 
@@ -521,7 +531,7 @@ Vertritt der Rechtsanwalt im Ausschlussverfahren nach § 39b des Wertpapiererwer
 
 # § 31b – Gegenstandswert bei Zahlungsvereinbarungen
 
-Ist Gegenstand einer Einigung nur eine Zahlungsvereinbarung (Nummer 1000 des Vergütungsverzeichnisses), beträgt der Gegenstandswert 20 Prozent des Anspruchs.
+Ist Gegenstand der Einigung eine Zahlungsvereinbarung (Gebühr 1000 Nummer 2 des Vergütungsverzeichnisses), beträgt der Gegenstandswert 50 Prozent des Anspruchs.
 
 # § 32 – Wertfestsetzung für die Gerichtsgebühren
 
@@ -1413,25 +1423,31 @@ Die Gebühren dieses Teils entstehen neben den in anderen Teilen bestimmten Geb�
 
 1000
 
-Einigungsgebühr ....................................
-
-1,5
+Einigungsgebühr für die Mitwirkung beim Abschluss eines Vertrags ..........
 
  
 
-   (1) Die Gebühr entsteht für die Mitwirkung beim Abschluss eines Vertrags, durch den
+ 
 
-1. der Streit oder die Ungewissheit über ein Rechtsverhältnis beseitigt wird oder
+1. durch den der Streit oder die Ungewissheit über ein Rechtsverhältnis beseitigt wird
 
-2. die Erfüllung des Anspruchs bei gleichzeitigem vorläufigem Verzicht auf die gerichtliche Geltendmachung und, wenn bereits ein zur Zwangsvollstreckung geeigneter Titel vorliegt, bei gleichzeitigem vorläufigem Verzicht auf Vollstreckungsmaßnahmen geregelt wird (Zahlungsvereinbarung).
+2. durch den die Erfüllung des Anspruchs geregelt wird bei gleichzeitigem vorläufigem Verzicht auf seine gerichtliche Geltendmachung oder, wenn bereits ein zur Zwangsvollstreckung geeigneter Titel vorliegt, bei gleichzeitigem vorläufigem Verzicht auf Vollstreckungsmaßnahmen (Zahlungsvereinbarung)
 
-Die Gebühr entsteht nicht, wenn sich der Vertrag ausschließlich auf ein Anerkenntnis oder einen Verzicht beschränkt. Im Privatklageverfahren ist Nummer 4147 anzuwenden.    (2) Die Gebühr entsteht auch für die Mitwirkung bei Vertragsverhandlungen, es sei denn, dass diese für den Abschluss des Vertrags im Sinne des Absatzes 1 nicht ursächlich war.    (3) Für die Mitwirkung bei einem unter einer aufschiebenden Bedingung oder unter dem Vorbehalt des Widerrufs geschlossenen Vertrag entsteht die Gebühr, wenn die Bedingung eingetreten ist oder der Vertrag nicht mehr widerrufen werden kann.    (4) Soweit über die Ansprüche vertraglich verfügt werden kann, gelten die Absätze 1 und 2 auch bei Rechtsverhältnissen des öffentlichen Rechts.    (5) Die Gebühr entsteht nicht in Ehesachen und in Lebenspartnerschaftssachen (§ 269 Abs. 1 Nr. 1 und 2 FamFG). Wird ein Vertrag, insbesondere über den Unterhalt, im Hinblick auf die in Satz 1 genannten Verfahren geschlossen, bleibt der Wert dieser Verfahren bei der Berechnung der Gebühr außer Betracht. In Kindschaftssachen ist Absatz 1 Satz 1 und 2 auch für die Mitwirkung an einer Vereinbarung, über deren Gegenstand nicht vertraglich verfügt werden kann, entsprechend anzuwenden.
+  
+1,5  
+  
+  
+ 0,7
+
+ 
+
+   (1) Die Gebühr nach Nummer 1 entsteht nicht, wenn der Hauptanspruch anerkannt oder wenn auf ihn verzichtet wird. Im Privatklageverfahren ist Nummer 4147 anzuwenden.    (2) Die Gebühr entsteht auch für die Mitwirkung bei Vertragsverhandlungen, es sei denn, dass diese für den Abschluss des Vertrags im Sinne dieser Vorschrift nicht ursächlich war.    (3) Für die Mitwirkung bei einem unter einer aufschiebenden Bedingung oder unter dem Vorbehalt des Widerrufs geschlossenen Vertrag entsteht die Gebühr, wenn die Bedingung eingetreten ist oder der Vertrag nicht mehr widerrufen werden kann.    (4) Bei Rechtsverhältnissen des öffentlichen Rechts entsteht die Gebühr, soweit über die Ansprüche vertraglich verfügt werden kann. Absatz 1 Satz 1 und Absatz 2 sind anzuwenden.    (5) Die Gebühr entsteht nicht in Ehesachen und in Lebenspartnerschaftssachen (§ 269 Abs. 1 Nr. 1 und 2 FamFG). Wird ein Vertrag, insbesondere über den Unterhalt, im Hinblick auf die in Satz 1 genannten Verfahren geschlossen, bleibt der Wert dieser Verfahren bei der Berechnung der Gebühr außer Betracht. In Kindschaftssachen entsteht die Gebühr auch für die Mitwirkung an einer Vereinbarung, über deren Gegenstand nicht vertraglich verfügt werden kann. Absatz 1 Satz 1 ist entsprechend anzuwenden.
 
  
 
 1001
 
-Aussöhnungsgebühr ..................................
+Aussöhnungsgebühr ..........
 
 1,5
 
@@ -1456,7 +1472,7 @@ Die Gebühr entsteht, wenn sich eine Rechtssache ganz oder teilweise nach Aufheb
 1003
 
 Über den Gegenstand ist ein anderes gerichtliches Verfahren als ein selbständiges Beweisverfahren anhängig:  
-Die Gebühren 1000 bis 1002 betragen ..........
+Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 betragen ..........
 
 1,0
 
@@ -1469,7 +1485,7 @@ Die Gebühren 1000 bis 1002 betragen ..........
 1004
 
 Über den Gegenstand ist ein Berufungs- oder Revisionsverfahren, ein Verfahren über die Beschwerde gegen die Nichtzulassung eines dieser Rechtsmittel oder ein Verfahren vor dem Rechtsmittelgericht über die Zulassung des Rechtsmittels anhängig:  
-Die Gebühren 1000 bis 1002 betragen ................
+Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 ..........
 
 1,3
 
@@ -1482,7 +1498,7 @@ Die Gebühren 1000 bis 1002 betragen ................
 1005
 
 Einigung oder Erledigung in einem Verwaltungsverfahren in sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren Betragsrahmengebühren entstehen (§ 3 RVG):  
-Die Gebühren 1000 und 1002 entstehen ...........................  (1) Die Gebühr bestimmt sich einheitlich nach dieser Vorschrift, wenn in die Einigung Ansprüche aus anderen Verwaltungsverfahren einbezogen werden. Ist über einen Gegenstand ein gerichtliches Verfahren anhängig, bestimmt sich die Gebühr nach Nummer 1006. Maßgebend für die Höhe der Gebühr ist die höchste entstandene Geschäftsgebühr ohne Berücksichtigung einer Erhöhung nach Nummer 1008. Steht dem Rechtsanwalt ausschließlich eine Gebühr nach § 34 RVG zu, beträgt die Gebühr die Hälfte des in der Anmerkung zu Nummer 2302 genannten Betrags.  (2) Betrifft die Einigung oder Erledigung nur einen Teil der Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende Anteil an der Geschäftsgebühr unter Berücksichtigung der in § 14 Abs. 1 RVG genannten Umstände zu schätzen.
+Die Gebühren 1000 und 1002 entstehen ..........  (1) Die Gebühr bestimmt sich einheitlich nach dieser Vorschrift, wenn in die Einigung Ansprüche aus anderen Verwaltungsverfahren einbezogen werden. Ist über einen Gegenstand ein gerichtliches Verfahren anhängig, bestimmt sich die Gebühr nach Nummer 1006. Maßgebend für die Höhe der Gebühr ist die höchste entstandene Geschäftsgebühr ohne Berücksichtigung einer Erhöhung nach Nummer 1008. Steht dem Rechtsanwalt ausschließlich eine Gebühr nach § 34 RVG zu, beträgt die Gebühr die Hälfte des in der Anmerkung zu Nummer 2302 genannten Betrags.  (2) Betrifft die Einigung oder Erledigung nur einen Teil der Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende Anteil an der Geschäftsgebühr unter Berücksichtigung der in § 14 Abs. 1 RVG genannten Umstände zu schätzen.
 
   
   
@@ -1494,7 +1510,7 @@ Geschäftsgebühr
 1006
 
 Über den Gegenstand ist ein gerichtliches Verfahren anhängig:  
-Die Gebühr 1005 entsteht ...........................  (1) Die Gebühr bestimmt sich auch dann einheitlich nach dieser Vorschrift, wenn in die Einigung Ansprüche einbezogen werden, die nicht in diesem Verfahren rechtshängig sind. Maßgebend für die Höhe der Gebühr ist die im Einzelfall bestimmte Verfahrensgebühr in der Angelegenheit, in der die Einigung erfolgt. Eine Erhöhung nach Nummer 1008 ist nicht zu berücksichtigen.  (2) Betrifft die Einigung oder Erledigung nur einen Teil der Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende Anteil an der Verfahrensgebühr unter Berücksichtigung der in § 14 Abs. 1 RVG genannten Umstände zu schätzen.
+Die Gebühr 1005 entsteht ..........  (1) Die Gebühr bestimmt sich auch dann einheitlich nach dieser Vorschrift, wenn in die Einigung Ansprüche einbezogen werden, die nicht in diesem Verfahren rechtshängig sind. Maßgebend für die Höhe der Gebühr ist die im Einzelfall bestimmte Verfahrensgebühr in der Angelegenheit, in der die Einigung erfolgt. Eine Erhöhung nach Nummer 1008 ist nicht zu berücksichtigen.  (2) Betrifft die Einigung oder Erledigung nur einen Teil der Angelegenheit, ist der auf diesen Teil der Angelegenheit entfallende Anteil an der Verfahrensgebühr unter Berücksichtigung der in § 14 Abs. 1 RVG genannten Umstände zu schätzen.
 
   
   
@@ -1504,7 +1520,7 @@ Verfahrensgebühr
 1008
 
 Auftraggeber sind in derselben Angelegenheit mehrere Personen:  
-Die Verfahrens- oder Geschäftsgebühr erhöht sich für jede weitere Person um .............................
+Die Verfahrens- oder Geschäftsgebühr erhöht sich für jede weitere Person um ..........
 
   
   
@@ -1524,19 +1540,19 @@ Hebegebühr
 
  
 
-1. bis einschließlich 2 500,00 €.................
+1. bis einschließlich 2 500,00 € ..........
 
 1,0%
 
  
 
-2. von dem Mehrbetrag bis einschließlich 10 000,00 € ...................................
+2. von dem Mehrbetrag bis einschließlich 10 000,00 € ..........
 
 0,5%
 
  
 
-3. von dem Mehrbetrag über 10 000,00 € ...........    (1) Die Gebühr wird für die Auszahlung oder Rückzahlung von entgegengenommenen Geldbeträgen erhoben.    (2) Unbare Zahlungen stehen baren Zahlungen gleich. Die Gebühr kann bei der Ablieferung an den Auftraggeber entnommen werden.    (3) Ist das Geld in mehreren Beträgen gesondert ausgezahlt oder zurückgezahlt, wird die Gebühr von jedem Betrag besonders erhoben.    (4) Für die Ablieferung oder Rücklieferung von Wertpapieren und Kostbarkeiten entsteht die in den Absätzen 1 bis 3 bestimmte Gebühr nach dem Wert.    (5) Die Hebegebühr entsteht nicht, soweit Kosten an ein Gericht oder eine Behörde weitergeleitet oder eingezogene Kosten an den Auftraggeber abgeführt oder eingezogene Beträge auf die Vergütung verrechnet werden.
+3. von dem Mehrbetrag über 10 000,00 € ..........    (1) Die Gebühr wird für die Auszahlung oder Rückzahlung von entgegengenommenen Geldbeträgen erhoben.    (2) Unbare Zahlungen stehen baren Zahlungen gleich. Die Gebühr kann bei der Ablieferung an den Auftraggeber entnommen werden.    (3) Ist das Geld in mehreren Beträgen gesondert ausgezahlt oder zurückgezahlt, wird die Gebühr von jedem Betrag besonders erhoben.    (4) Für die Ablieferung oder Rücklieferung von Wertpapieren und Kostbarkeiten entsteht die in den Absätzen 1 bis 3 bestimmte Gebühr nach dem Wert.    (5) Die Hebegebühr entsteht nicht, soweit Kosten an ein Gericht oder eine Behörde weitergeleitet oder eingezogene Kosten an den Auftraggeber abgeführt oder eingezogene Beträge auf die Vergütung verrechnet werden.
 
   
 0,25% des aus- oder zurückgezahlten Betrags  
@@ -1661,7 +1677,8 @@ Geschäftsgebühr, soweit in den Nummern 2302 und 2303 nichts anderes bestimmt i
 
  
 
-Eine Gebühr von mehr als 1,3 kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.
+   (1) Eine Gebühr von mehr als 1,3 kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.   
+   (2) Ist Gegenstand der Tätigkeit eine Inkassodienstleistung, die eine unbestrittene Forderung betrifft, kann eine Gebühr von mehr als 0,9 nur gefordert werden, wenn die Inkassodienstleistung besonders umfangreich oder besonders schwierig war. In einfachen Fällen kann nur eine Gebühr von 0,5 gefordert werden; ein einfacher Fall liegt in der Regel vor, wenn die Forderung auf die erste Zahlungsaufforderung hin beglichen wird. Der Gebührensatz beträgt höchstens 1,3.
 
  
 

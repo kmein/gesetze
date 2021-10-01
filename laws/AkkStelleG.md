@@ -111,9 +111,7 @@ Die Mitgliedschaft ist ehrenamtlich. Hinsichtlich der sachverständigen Personen
 
 3. die Nutzungsrechte für das Akkreditierungssymbol.
 
-# § 7 – Vorschuss auf Gebühren
-
-Ergänzend zu der Befugnis des § 15 Absatz 1 des Bundesgebührengesetzes kann die Akkreditierungsstelle im Falle einer von Amts wegen zu erbringenden individuell zurechenbaren öffentlichen Leistung verlangen, dass bis zur Höhe der voraussichtlich entstehenden Gebühren und Auslagen ein Vorschuss gezahlt oder eine Sicherheit geleistet wird.
+# § 7 – (weggefallen)
 
 # § 8 – Beleihung oder Errichtung
 

@@ -965,10 +965,6 @@ Die Landesregierungen können die Ermächtigungen durch Rechtsverordnung auf die
 
 (2) Der Bodenschutzlastvermerk wird auf Ersuchen der für die Festsetzung des Ausgleichsbetrags zuständigen Behörde eingetragen und gelöscht. Die zuständige Behörde stellt das Ersuchen auf Eintragung des Bodenschutzlastvermerks, sobald der Ausgleichsbetrag als öffentliche Last entstanden ist. Sie hat um Löschung des Vermerks zu ersuchen, sobald die Last erloschen ist. Die Einhaltung der in den Sätzen 2 und 3 bestimmten Zeitpunkte ist vom Grundbuchamt nicht zu prüfen. Eine Zustimmung des Grundstückseigentümers ist für die Eintragung und die Löschung des Vermerks nicht erforderlich.
 
-# § 94
-
-(Inkrafttreten, Außerkrafttreten von Landesrecht)
-
 # § 94 – Grundsatz
 
 Die Vorschriften dieser Verordnung über die Grundakten gelten auch für die elektronischen Grundakten, soweit nachfolgend nichts anderes bestimmt ist.

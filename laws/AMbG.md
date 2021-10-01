@@ -27,11 +27,9 @@ Die Magnetschwebebahnunternehmen sind verpflichtet, ihren Betrieb sicher zu füh
 
 4. die fachliche Untersuchung von Störungen im Magnetschwebebahnbetrieb.
 
-(3) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes werden Gebühren und Auslagen erhoben. Bis zum Inkrafttreten der Rechtsverordnung nach § 10 Absatz 1 Nummer 7 sind die Gebühren im Einzelfall anhand des mit der individuell zurechenbaren öffentlichen Leistung verbundenen Verwaltungsaufwandes und der Bedeutung des wirtschaftlichen Wertes oder des sonstigen Nutzens dieser Leistung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
+(3) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und Fahrzeuge von Magnetschwebebahnunternehmen können durch Rechtsverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur einer anderen öffentlichen oder privaten Einrichtung übertragen werden. Diese unterliegt der Rechtsaufsicht durch das Eisenbahn-Bundesamt.
 
-(4) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und Fahrzeuge von Magnetschwebebahnunternehmen können durch Rechtsverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur einer anderen öffentlichen oder privaten Einrichtung übertragen werden. Diese unterliegt der Rechtsaufsicht durch das Eisenbahn-Bundesamt.
-
-(5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
+(4) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
 # § 5 – Erteilung und Versagung der Genehmigung
 
@@ -107,9 +105,7 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 5. die Erteilung, Einschränkung und Entziehung der Erlaubnis zum Führen von Magnetschwebebahnfahrzeugen regeln,
 
-6. die Ausbildung und die Anforderungen an die Befähigung und Eignung des Magnetschwebebahnbetriebspersonals und die Bestellung, Bestätigung und Prüfung von Betriebsleitern sowie deren Aufgaben und Befugnisse, einschließlich des Verfahrens zur Erlangung von Erlaubnissen und Berechtigungen und deren Entziehung oder Beschränkung betreffen,
-
-7. die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes nach diesem Gesetz betreffen.
+6. die Ausbildung und die Anforderungen an die Befähigung und Eignung des Magnetschwebebahnbetriebspersonals und die Bestellung, Bestätigung und Prüfung von Betriebsleitern sowie deren Aufgaben und Befugnisse, einschließlich des Verfahrens zur Erlangung von Erlaubnissen und Berechtigungen und deren Entziehung oder Beschränkung betreffen.
 
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des Fahrpersonals sowie des Personals, das unmittelbar in der betrieblichen Abwicklung der Beförderung eingesetzt ist, wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, Rechtsverordnungen zu erlassen über
 

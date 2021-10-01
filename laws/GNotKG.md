@@ -1804,7 +1804,7 @@ eine Gebühr
 11103
 
 Verfahren im Allgemeinen bei einer Betreuung für einzelne Rechtshandlungen  ..........   
- (1) Die Gebühr wird nicht neben einer Gebühr 11101 oder 11102 erhoben.  (2) Absatz 3 der Anmerkung zu Nummer 11101 ist nicht anzuwenden.
+ (1) Die Gebühr wird nicht neben einer Gebühr 11101 oder 11102 erhoben.  (2) Absatz 3 der Anmerkung zu Nummer 11101 ist nicht anzuwenden.
 
 0,5  
 – höchstens  
@@ -2259,7 +2259,7 @@ Verfahren über den Antrag des Erben, einen Notar mit der amtlichen Aufnahme des
 
 12413
 
-Verfahren über die Erteilung einer Bescheinigung, die die Annahme des Amtes als Testamentsvollstrecker bestätigt ..........
+Verfahren über die Erteilung einer Bescheinigung, die die Annahme des Amtes als Testamentsvollstrecker bestätigt  ..........
 
 50,00 €
 
@@ -4496,7 +4496,8 @@ höchstens 250,00 €
 
 22114
 
-Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  .......... 
+Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  ..........   
+ Die Gebühr entsteht neben anderen Gebühren dieses Unterabschnitts gesondert.
 
   
   
@@ -5422,8 +5423,9 @@ Haftkostenbeitrags
 
 31012
 
-Nach dem Auslandskostengesetz zu zahlende Beträge  .......... 
+Nach § 12 BGebG, dem 5. Abschnitt des Konsulargesetzes und der Besonderen Gebührenverordnung des Auswärtigen Amts nach § 22 Abs. 4 BGebG zu zahlende Beträge  .......... 
 
+  
 in voller Höhe
 
 31013

@@ -749,15 +749,7 @@ Der Spruch lautet auf Einstellung des Verfahrens, wenn sich herausstellt, dass d
 
 (6) Befähigungszeugnisse sowie Fahrerlaubnisse für Sportboote, die von einer Behörde der Deutschen Demokratischen Republik ausgestellt sind, gelten im Sinne dieser Vorschrift als von einer Behörde der Bundesrepublik Deutschland ausgestellt.
 
-# § 51 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach § 49 Absatz 2 Satz 1 Nummer 3 werden Gebühren erhoben.
-
-(2) Gebühren werden auch für einen erfolglos eingelegten Widerspruch erhoben.
-
-(3) Auslagen werden von einem Beteiligten nur erhoben, wenn das Seeamt gegen ihn eine Maßnahme nach § 50 Absatz 1, 2 oder 4 angeordnet hat.
-
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Gebührentatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+# § 51 – (weggefallen)
 
 # § 52 – Widerspruchsverfahren
 

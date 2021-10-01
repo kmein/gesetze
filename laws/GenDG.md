@@ -367,11 +367,7 @@ b) der auf dem Gebiet der Abstammungsbegutachtung erfahrenen ärztlichen und nic
 
 (5) Die Gendiagnostik-Kommission kann auf Anfrage von Personen oder Einrichtungen, die genetische Untersuchungen oder Analysen vornehmen, gutachtliche Stellungnahmen zu Einzelfragen der Auslegung und Anwendung ihrer Richtlinien abgeben.
 
-# § 24 – Gebühren und Auslagen
-
-(1) Das Robert Koch-Institut erhebt für Stellungnahmen der Gendiagnostik-Kommission nach § 16 Abs. 2 und § 23 Abs. 5 zur Deckung des Verwaltungsaufwandes Gebühren und Auslagen.
-
-(2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Höhe der Gebühren zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. In der Rechtsverordnung können Ermäßigungen und Befreiungen von Gebühren und Auslagen zugelassen und die Erstattung von Auslagen auch abweichend vom Bundesgebührengesetz geregelt werden.
+# § 24 – (weggefallen)
 
 # § 25 – Strafvorschriften
 

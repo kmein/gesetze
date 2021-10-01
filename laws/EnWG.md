@@ -219,7 +219,7 @@ Systemverantwortung der Betreiber von Übertragungsnetzen
 
 § 13a
 
-Anpassungen von Einspeisungen und ihre Vergütung
+Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich
 
 § 13b
 
@@ -2070,7 +2070,7 @@ Unabhängige Transportnetzbetreiber und vertikal integrierte Energieversorgungsu
 
 # § 11 – Betrieb von Energieversorgungsnetzen
 
-(1) Betreiber von Energieversorgungsnetzen sind verpflichtet, ein sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz diskriminierungsfrei zu betreiben, zu warten und bedarfsgerecht zu optimieren, zu verstärken und auszubauen, soweit es wirtschaftlich zumutbar ist. Sie haben insbesondere die Aufgaben nach den §§ 12 bis 16a zu erfüllen. Die Verpflichtung gilt auch im Rahmen der Wahrnehmung der wirtschaftlichen Befugnisse der Leitung des vertikal integrierten Energieversorgungsunternehmens und seiner Aufsichtsrechte nach § 7a Absatz 4 Satz 3. Der Ausbau eines L-Gasversorgungsnetzes ist nicht bedarfsgerecht im Sinne von Satz 1, wenn er auf Grund von Netzanschlüssen erfolgen muss, zu deren Einräumung der Betreiber des L-Gasversorgungsnetzes nicht nach den §§ 17 und 18 verpflichtet war.
+(1) Betreiber von Energieversorgungsnetzen sind verpflichtet, ein sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz diskriminierungsfrei zu betreiben, zu warten und bedarfsgerecht zu optimieren, zu verstärken und auszubauen, soweit es wirtschaftlich zumutbar ist. Sie haben insbesondere die Aufgaben nach den §§ 12 bis 16a zu erfüllen. Sie nehmen diese Aufgaben für ihr Energieversorgungsnetz in eigener Verantwortung wahr. Sie kooperieren und unterstützen sich bei der Wahrnehmung dieser Aufgaben; dies ist insbesondere für Maßnahmen anzuwenden, die sich auf das Netz eines anderen Betreibers von Energieversorgungsnetzen auswirken können. Die Verpflichtungen sind auch anzuwenden im Rahmen der Wahrnehmung der wirtschaftlichen Befugnisse der Leitung des vertikal integrierten Energieversorgungsunternehmens und seiner Aufsichtsrechte nach § 7a Absatz 4 Satz 3. Der Ausbau eines L-Gasversorgungsnetzes ist nicht bedarfsgerecht im Sinne von Satz 1, wenn er auf Grund von Netzanschlüssen erfolgen muss, zu deren Einräumung der Betreiber des L-Gasversorgungsnetzes nicht nach den §§ 17 und 18 verpflichtet war.
 
 (1a) Der Betrieb eines sicheren Energieversorgungsnetzes umfasst insbesondere auch einen angemessenen Schutz gegen Bedrohungen für Telekommunikations- und elektronische Datenverarbeitungssysteme, die für einen sicheren Netzbetrieb notwendig sind. Die Regulierungsbehörde erstellt hierzu im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik einen Katalog von Sicherheitsanforderungen und veröffentlicht diesen. Der Katalog der Sicherheitsanforderungen enthält auch Regelungen zur regelmäßigen Überprüfung der Erfüllung der Sicherheitsanforderungen. Ein angemessener Schutz des Betriebs eines Energieversorgungsnetzes liegt vor, wenn dieser Katalog der Sicherheitsanforderungen eingehalten und dies vom Betreiber dokumentiert worden ist. Die Einhaltung kann von der Regulierungsbehörde überprüft werden. Zu diesem Zwecke kann die Regulierungsbehörde nähere Bestimmungen zu Format, Inhalt und Gestaltung der Dokumentation nach Satz 4 treffen.
 
@@ -2098,7 +2098,7 @@ Die Meldung muss Angaben zu der Störung, zu möglichen grenzübergreifenden Aus
 
 3. im Rahmen der Netzplanung für einen sachkundigen Dritten nachvollziehbar dokumentieren.
 
-Die Dokumentation nach Satz 2 Nummer 3 muss der Bundesnetzagentur, der zuständigen Landesregulierungsbehörde, dem Betreiber des vorgelagerten Elektrizitätsversorgungsnetzes, dem Betreiber des Übertragungsnetzes, einem Einspeisewilligen sowie einem an das Netz angeschlossenen Anlagenbetreiber auf Verlangen unverzüglich vorgelegt werden. Die §§ 13 und 14 und die §§ 11, 14 und 15 des Erneuerbare-Energien-Gesetzes bleiben unberührt. Ein Betreiber des Elektrizitätsversorgungsnetzes, der nach § 15 Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes Kosten für die Reduzierung der Einspeisung von mehr als 3 Prozent der jährlichen Stromerzeugung einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien, Grubengas oder Kraft-Wärme-Kopplung bei der Ermittlung seiner Netzentgelte in Ansatz bringt, muss der Bundesnetzagentur sowie der zuständigen Landesregulierungsbehörde den Umfang der und die Ursachen für die Reduzierung der Einspeisung mitteilen und im Fall einer Spitzenkappung die Dokumentation nach Satz 2 Nummer 3 vorlegen.
+Die Dokumentation nach Satz 2 Nummer 3 muss der Bundesnetzagentur, der zuständigen Landesregulierungsbehörde, dem Betreiber des vorgelagerten Elektrizitätsversorgungsnetzes, dem Betreiber des Übertragungsnetzes, einem Einspeisewilligen sowie einem an das Netz angeschlossenen Anlagenbetreiber auf Verlangen unverzüglich vorgelegt werden. Die §§ 13 und 14 und § 11 des Erneuerbare-Energien-Gesetzes bleiben unberührt. Ein Betreiber des Elektrizitätsversorgungsnetzes, der Kosten für die Reduzierung der Einspeisung von mehr als 3 Prozent der jährlichen Stromerzeugung einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien, Grubengas oder Kraft-Wärme-Kopplung bei der Ermittlung seiner Netzentgelte in Ansatz bringt, muss der Bundesnetzagentur sowie der zuständigen Landesregulierungsbehörde den Umfang der und die Ursachen für die Reduzierung der Einspeisung mitteilen und im Fall einer Spitzenkappung die Dokumentation nach Satz 2 Nummer 3 vorlegen.
 
 (3) In Rechtsverordnungen über die Regelung von Vertrags- und sonstigen Rechtsverhältnissen können auch Regelungen zur Haftung der Betreiber von Energieversorgungsnetzen aus Vertrag und unerlaubter Handlung für Sach- und Vermögensschäden, die ein Kunde durch Unterbrechung der Energieversorgung oder durch Unregelmäßigkeiten in der Energieversorgung erleidet, getroffen werden. Dabei kann die Haftung auf vorsätzliche oder grob fahrlässige Verursachung beschränkt und der Höhe nach begrenzt werden. Soweit es zur Vermeidung unzumutbarer wirtschaftlicher Risiken des Netzbetriebs im Zusammenhang mit Verpflichtungen nach § 13 Absatz 2, § 13b Absatz 5 und § 13f Absatz 1, auch in Verbindung mit § 14, und § 16 Absatz 2 und 2a, auch in Verbindung mit § 16a, erforderlich ist, kann die Haftung darüber hinaus vollständig ausgeschlossen werden.
 
@@ -2138,9 +2138,9 @@ b) sich nach Erteilung des Zuschlags an einen Dritten herausstellt, dass dieser 
 
 1. eines Übertragungsnetzbetreibers handelt, für die eine Investitionsentscheidung bis zum 31. Dezember 2024 erfolgt, oder eines Verteilernetzbetreibers handelt, für die eine Investitionsentscheidung bis zum 4. Juli 2019 erfolgte, und
 
-2. die spätestens zwei Jahre nach der Investitionsentscheidung an das Elektrizitätsversorgungsnetz angeschlossen wurden oder werden und die ausschließlich der reaktiven unmittelbaren Wiederherstellung des sicheren und zuverlässigen Netzbetriebs durch netzbezogene Maßnahmen nach § 13 Absatz 1 Nummer 1 dienen.
+2. die spätestens zwei Jahre nach der Investitionsentscheidung an das Elektrizitätsversorgungsnetz angeschlossen wurden oder werden und die ausschließlich der reaktiven unmittelbaren Wiederherstellung des sicheren und zuverlässigen Netzbetriebs durch netzbezogene Maßnahmen nach § 13 Absatz 1 Satz 1 Nummer 1 dienen.
 
-Die Wiederherstellungsmaßnahme gemäß Satz 1 Nummer 2 beginnt unmittelbar nach Eintritt der Störung und endet, sobald das Problem durch Maßnahmen gemäß § 13 Absatz 1 Nummer 2 und 3 behoben werden kann.
+Die Wiederherstellungsmaßnahme gemäß Satz 1 Nummer 2 beginnt unmittelbar nach Eintritt der Störung und endet, sobald das Problem durch Maßnahmen gemäß § 13 Absatz 1 Satz 1 Nummer 2 und 3 behoben werden kann.
 
 (5) Die Bundesnetzagentur wird ermächtigt, durch Festlegung nach § 29 Absatz 1 Vorgaben zur näheren Ausgestaltung der Genehmigungsverfahren nach Absatz 1 Nummer 1 in Verbindung mit den Absätzen 2 und 3 sowie nach Absatz 1 Nummer 2 zweiter Halbsatz zu treffen.
 
@@ -2369,21 +2369,33 @@ Dabei darf die Beschaffung dieser Systemdienstleistungen nur erfolgen, soweit di
 
 1. netzbezogene Maßnahmen, insbesondere durch Netzschaltungen,
 
-2. marktbezogene Maßnahmen, insbesondere durch den Einsatz von Regelenergie, vertraglich vereinbarte abschaltbare und zuschaltbare Lasten, Information über Engpässe und das Management von Engpässen sowie
+2. marktbezogene Maßnahmen, insbesondere durch den Einsatz von Regelenergie, Maßnahmen nach § 13a Absatz 1, vertraglich vereinbarte abschaltbare und zuschaltbare Lasten, Information über Engpässe und das Management von Engpässen sowie
 
 3. zusätzliche Reserven, insbesondere die Netzreserve nach § 13d und die Kapazitätsreserve nach § 13e.
 
-(2) Lässt sich eine Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems durch Maßnahmen nach Absatz 1 nicht oder nicht rechtzeitig beseitigen, so sind die Betreiber der Übertragungsnetze im Rahmen der Zusammenarbeit nach § 12 Absatz 1 berechtigt und verpflichtet, sämtliche Stromeinspeisungen, Stromtransite und Stromabnahmen in ihren Regelzonen den Erfordernissen eines sicheren und zuverlässigen Betriebs des Übertragungsnetzes anzupassen oder diese Anpassung zu verlangen. Bei einer erforderlichen Anpassung von Stromeinspeisungen und Stromabnahmen sind insbesondere die betroffenen Betreiber von Elektrizitätsverteilernetzen und Stromhändler – soweit möglich – vorab zu informieren.
+Bei strom- und spannungsbedingten Anpassungen der Wirkleistungserzeugung oder des Wirkleistungsbezugs sind abweichend von Satz 1 von mehreren geeigneten Maßnahmen nach Satz 1 Nummer 2 und 3 die Maßnahmen auszuwählen, die voraussichtlich insgesamt die geringsten Kosten verursachen. Maßnahmen gegenüber Anlagen zur Erzeugung oder Speicherung von elektrischer Energie mit einer Nennleistung unter 100 Kilowatt, die durch einen Netzbetreiber jederzeit fernsteuerbar sind, dürfen die Betreiber von Übertragungsnetzen unabhängig von den Kosten nachrangig ergreifen.
 
-(3) Bei Maßnahmen nach den Absätzen 1 und 2 sind die Verpflichtungen nach § 11 Absatz 1 des Erneuerbare-Energien-Gesetzes und nach § 3 Absatz 1 und 2 des Kraft-Wärme-Kopplungsgesetzes einzuhalten und Auswirkungen auf die Sicherheit und Zuverlässigkeit des Gasversorgungssystems auf Grundlage der von den Betreibern der Gasversorgungsnetze nach § 12 Absatz 4 Satz 1 bereitzustellenden Informationen angemessen zu berücksichtigen. Bei Maßnahmen nach Absatz 1 Nummer 2 ist der Einsatz vertraglicher Vereinbarungen zur Einspeisung von nach Satz 1 vorrangberechtigter Elektrizität nach Ausschöpfung der vertraglichen Vereinbarungen zur Reduzierung der Einspeisung von nicht vorrangberechtigter Elektrizität zulässig, soweit die Bestimmungen des Erneuerbare-Energien-Gesetzes oder des Kraft-Wärme-Kopplungsgesetzes ein Abweichen von den genannten Verpflichtungen auf Grund vertraglicher Vereinbarungen ausnahmsweise eröffnen. Beruht die Gefährdung oder Störung auf einer Überlastung der Netzkapazität, so sind im Rahmen von Maßnahmen nach Absatz 2 die speziellen Anforderungen nach den §§ 14 und 15 des Erneuerbare-Energien-Gesetzes einzuhalten. Soweit die Einhaltung der in diesem Absatz genannten Verpflichtungen die Beseitigung einer Gefährdung oder Störung verhindern würde, kann ausnahmsweise von ihnen abgewichen werden. Ein solcher Ausnahmefall liegt insbesondere vor, soweit die Betreiber von Übertragungsnetzen zur Gewährleistung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems auf die Mindesteinspeisung aus bestimmten Anlagen angewiesen sind und keine technisch gleich wirksamen anderen Maßnahmen verfügbar machen können (netztechnisch erforderliches Minimum). Ausnahmen nach den Sätzen 4 und 5 sind der Regulierungsbehörde unverzüglich anzuzeigen und die besonderen Gründe nachzuweisen.
+(1a) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind die Verpflichtungen nach § 11 Absatz 1 und 3 des Erneuerbare-Energien-Gesetzes einzuhalten, indem für Maßnahmen zur Reduzierung der Wirkleistungserzeugung von Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes kalkulatorische Kosten anzusetzen sind, die anhand eines für alle Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes einheitlichen kalkulatorischen Preises zu bestimmen sind. Der einheitliche kalkulatorische Preis ist so zu bestimmen, dass die Reduzierung der Wirkleistungserzeugung der Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes nur erfolgt, wenn dadurch in der Regel ein Vielfaches an Reduzierung von nicht vorrangberechtigter Erzeugung ersetzt werden kann (Mindestfaktor). Der Mindestfaktor nach Satz 2 beträgt mindestens fünf und höchstens fünfzehn; Näheres bestimmt die Bundesnetzagentur nach § 13j Absatz 5 Nummer 2.
+
+(1b) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind die Verpflichtungen nach § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes einzuhalten, indem für Maßnahmen zur Reduzierung der Wirkleistungserzeugung von hocheffizienten KWK-Anlagen in Bezug auf die Erzeugung von KWK-Strom nach § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes
+
+1. die tatsächlichen Kosten anzusetzen sind, soweit eine Zahlung nach § 8a oder § 8b des Kraft-Wärme-Kopplungsgesetzes in Verbindung mit der KWK-Ausschreibungsverordnung oder nach Absatz 6a in Anspruch genommen wurde, und
+
+2. kalkulatorische Kosten in entsprechender Anwendung von Absatz 1a anzusetzen sind, wenn kein Fall nach Nummer 1 vorliegt und die kalkulatorischen Kosten die tatsächlichen Kosten übersteigen, wobei der Mindestfaktor mindestens das Fünffache und höchstens das Fünfzehnfache beträgt.
+
+(1c) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind bei Maßnahmen zur Erhöhung der Erzeugungsleistung von Anlagen der Netzreserve nach § 13d kalkulatorische Kosten anzusetzen, die anhand eines für alle Anlagen einheitlichen kalkulatorischen Preises zu bestimmen sind. Übersteigen die tatsächlichen Kosten die kalkulatorischen Kosten, sind die tatsächlichen Kosten anzusetzen. Der einheitliche kalkulatorische Preis ist so zu bestimmen, dass ein Einsatz der Anlagen der Netzreserve in der Regel nachrangig zu dem Einsatz von Anlagen mit nicht vorrangberechtigter Einspeisung erfolgt und in der Regel nicht zu einer höheren Reduzierung der Wirkleistungserzeugung der Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes führt als bei einer Auswahlentscheidung nach den tatsächlichen Kosten. Der einheitliche kalkulatorische Preis entspricht mindestens dem höchsten tatsächlichen Preis, der für die Erhöhung der Erzeugungsleistung von Anlagen mit nicht vorrangberechtigter Einspeisung, die nicht zur Netzreserve zählen, regelmäßig aufgewendet wird.
+
+(2) Lässt sich eine Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems durch Maßnahmen nach Absatz 1 nicht oder nicht rechtzeitig beseitigen, so sind die Betreiber der Übertragungsnetze im Rahmen der Zusammenarbeit nach § 12 Absatz 1 berechtigt und verpflichtet, sämtliche Stromerzeugung, Stromtransite und Strombezüge in ihren Regelzonen den Erfordernissen eines sicheren und zuverlässigen Betriebs des Übertragungsnetzes anzupassen oder diese Anpassung zu verlangen. Bei einer erforderlichen Anpassung von Stromerzeugung und Strombezügen sind insbesondere die betroffenen Betreiber von Elektrizitätsverteilernetzen und Stromhändler – soweit möglich – vorab zu informieren.
+
+(3) Soweit die Einhaltung der in den Absätzen 1 und 2 genannten Verpflichtungen die Beseitigung einer Gefährdung oder Störung verhindern würde, kann ausnahmsweise von ihnen abgewichen werden. Ein solcher Ausnahmefall liegt insbesondere vor, soweit die Betreiber von Übertragungsnetzen zur Gewährleistung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems auf die Mindesteinspeisung aus bestimmten Anlagen angewiesen sind und keine technisch gleich wirksame andere Maßnahme verfügbar ist (netztechnisch erforderliches Minimum). Bei Maßnahmen nach den Absätzen 1 und 2 sind die Auswirkungen auf die Sicherheit und Zuverlässigkeit des Gasversorgungssystems auf Grundlage der von den Betreibern der Gasversorgungsnetze nach § 12 Absatz 4 Satz 1 bereitzustellenden Informationen angemessen zu berücksichtigen.
 
 (4) Eine Gefährdung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in der jeweiligen Regelzone liegt vor, wenn örtliche Ausfälle des Übertragungsnetzes oder kurzfristige Netzengpässe zu besorgen sind oder zu besorgen ist, dass die Haltung von Frequenz, Spannung oder Stabilität durch die Betreiber von Übertragungsnetzen nicht im erforderlichen Maße gewährleistet werden kann.
 
 (5) Im Falle einer Anpassung nach Absatz 2 Satz 1 ruhen bis zur Beseitigung der Gefährdung oder Störung alle hiervon jeweils betroffenen Leistungspflichten. Satz 1 führt grundsätzlich nicht zu einer Aussetzung der Abrechnung der Bilanzkreise durch den Betreiber eines Übertragungsnetzes. Soweit bei Vorliegen der Voraussetzungen nach Absatz 2 Maßnahmen getroffen werden, ist insoweit die Haftung für Vermögensschäden ausgeschlossen. Im Übrigen bleibt § 11 Absatz 3 unberührt. Die Sätze 3 und 4 sind für Entscheidungen des Betreibers von Übertragungsnetzen im Rahmen von § 13b Absatz 5, § 13f Absatz 1 und § 16 Absatz 2a entsprechend anzuwenden.
 
-(6) Die Beschaffung von Ab- oder Zuschaltleistung über vertraglich vereinbarte ab- oder zuschaltbare Lasten nach Absatz 1 Nummer 2 erfolgt durch die Betreiber von Übertragungsnetzen in einem diskriminierungsfreien und transparenten Ausschreibungsverfahren, bei dem die Anforderungen, die die Anbieter von Ab- oder Zuschaltleistung für die Teilnahme erfüllen müssen, soweit dies technisch möglich ist, zu vereinheitlichen sind. Die Betreiber von Übertragungsnetzen haben für die Ausschreibung von Ab- oder Zuschaltleistung aus ab- oder zuschaltbaren Lasten eine gemeinsame Internetplattform einzurichten. Die Einrichtung der Plattform nach Satz 2 ist der Regulierungsbehörde anzuzeigen. Die Betreiber von Übertragungsnetzen sind unter Beachtung ihrer jeweiligen Systemverantwortung verpflichtet, zur Senkung des Aufwandes für Ab- und Zuschaltleistung unter Berücksichtigung der Netzbedingungen zusammenzuarbeiten.
+(6) Die Beschaffung von Ab- oder Zuschaltleistung über vertraglich vereinbarte ab- oder zuschaltbare Lasten nach Absatz 1 Satz 1 Nummer 2 erfolgt durch die Betreiber von Übertragungsnetzen in einem diskriminierungsfreien und transparenten Ausschreibungsverfahren, bei dem die Anforderungen, die die Anbieter von Ab- oder Zuschaltleistung für die Teilnahme erfüllen müssen, soweit dies technisch möglich ist, zu vereinheitlichen sind. Die Betreiber von Übertragungsnetzen haben für die Ausschreibung von Ab- oder Zuschaltleistung aus ab- oder zuschaltbaren Lasten eine gemeinsame Internetplattform einzurichten. Die Einrichtung der Plattform nach Satz 2 ist der Regulierungsbehörde anzuzeigen. Die Betreiber von Übertragungsnetzen sind unter Beachtung ihrer jeweiligen Systemverantwortung verpflichtet, zur Senkung des Aufwandes für Ab- und Zuschaltleistung unter Berücksichtigung der Netzbedingungen zusammenzuarbeiten.
 
-(6a) Die Betreiber von Übertragungsnetzen können mit Betreibern von KWK-Anlagen vertragliche Vereinbarungen zur Reduzierung der Wirkleistungseinspeisung aus der KWK-Anlage und gleichzeitigen bilanziellen Lieferung von elektrischer Energie für die Aufrechterhaltung der Wärmeversorgung nach Absatz 1 Nummer 2 und Absatz 3 Satz 2 schließen, wenn die KWK-Anlage
+(6a) Die Betreiber von Übertragungsnetzen können mit Betreibern von KWK-Anlagen vertragliche Vereinbarungen zur Reduzierung der Wirkleistungseinspeisung aus der KWK-Anlage und gleichzeitigen bilanziellen Lieferung von elektrischer Energie für die Aufrechterhaltung der Wärmeversorgung nach Absatz 1 Satz 1 Nummer 2 schließen, wenn die KWK-Anlage
 
 1. technisch unter Berücksichtigung ihrer Größe und Lage im Netz geeignet ist, zur Beseitigung von Gefährdungen oder Störungen der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems aufgrund von Netzengpässen im Höchstspannungsnetz effizient beizutragen,
 
@@ -2395,7 +2407,7 @@ Dabei darf die Beschaffung dieser Systemdienstleistungen nur erfolgen, soweit di
 
 In der vertraglichen Vereinbarung nach Satz 1 ist zu regeln, dass
 
-1. die Reduzierung der Wirkleistungseinspeisung und die bilanzielle Lieferung von elektrischer Energie zum Zweck der Aufrechterhaltung der Wärmeversorgung abweichend von § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes und den §§ 14 und 15 des Erneuerbare-Energien-Gesetzes eine Maßnahme nach Absatz 1 Nummer 2 ist, die gegenüber den übrigen Maßnahmen nach Absatz 1 Nummer 2 nachrangig durchzuführen ist,
+1. die Reduzierung der Wirkleistungseinspeisung und die bilanzielle Lieferung von elektrischer Energie zum Zweck der Aufrechterhaltung der Wärmeversorgung abweichend von § 3 Absatz 1 und 2 des Kraft-Wärme-Kopplungsgesetzes und als Maßnahme nach Absatz 1 Satz 1 Nummer 2 durchzuführen ist,
 
 2. für die Maßnahme nach Nummer 1 zwischen dem Betreiber des Übertragungsnetzes und dem Betreiber der KWK-Anlage unter Anrechnung der bilanziellen Lieferung elektrischer Energie ein angemessener finanzieller Ausgleich zu leisten ist, der den Betreiber der KWK-Anlage wirtschaftlich weder besser noch schlechter stellt, als er ohne die Maßnahme stünde, dabei ist § 13a Absatz 2 bis 4 entsprechend anzuwenden, und
 
@@ -2411,37 +2423,35 @@ Die Betreiber der Übertragungsnetze müssen sich bei der Auswahl der KWK-Anlage
 
 (10) Die Betreiber von Übertragungsnetzen erstellen jährlich gemeinsam für die nächsten fünf Jahre eine Prognose des Umfangs von Maßnahmen nach den Absätzen 1 und 2, die aufgrund von Netzengpässen notwendig sind, und übermitteln diese jedes Jahr spätestens zum 1. Juli an die Bundesnetzagentur. Die zugrunde liegenden Annahmen, Parameter und Szenarien für die Prognose nach Satz 1 sind der im jeweiligen Jahr erstellten Systemanalyse und den in dem jeweiligen Jahr oder einem Vorjahr erstellten ergänzenden Analysen nach § 3 Absatz 2 der Netzreserveverordnung zu entnehmen. Die Prognose nach Satz 1 enthält eine Schätzung der Kosten. Die Bundesnetzagentur veröffentlicht die Prognose nach Satz 1.
 
-(+++ § 13: Zur Anwendung vgl. § 14 Abs. 1 +++)  
-(+++ § 13 Abs. 6a: Zur Anwendung vgl. § 118 Abs. 22 +++)  
-(+++ § 13 Abs. 9: Zur Anwendung vgl. § 14 Abs. 1c +++)
+# § 13a – Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich
 
-# § 13a – Anpassungen von Einspeisungen und ihre Vergütung
+(1) Betreiber von Anlagen zur Erzeugung oder Speicherung von elektrischer Energie mit einer Nennleistung ab 100 Kilowatt sowie von Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die durch einen Netzbetreiber jederzeit fernsteuerbar sind, sind verpflichtet, auf Aufforderung durch Betreiber von Übertragungsnetzen die Wirkleistungs- oder Blindleistungserzeugung oder den Wirkleistungsbezug anzupassen oder die Anpassung zu dulden. Eine Anpassung umfasst auch die Aufforderung einer Einspeisung oder eines Bezugs aus Anlagen, die
 
-(1) Für die Durchführung von Maßnahmen nach § 13 Absatz 1 Nummer 2 oder Nummer 3 sind Betreiber von Anlagen zur Erzeugung oder Speicherung von elektrischer Energie mit einer Nennleistung ab 10 Megawatt verpflichtet, auf Anforderung durch die Betreiber von Übertragungsnetzen und erforderlichenfalls in Abstimmung mit dem Betreiber desjenigen Netzes, in das die Anlage eingebunden ist, gegen eine angemessene Vergütung die Wirkleistungs- oder Blindleistungseinspeisung oder den Wirkleistungsbezug anzupassen. Eine Anpassung umfasst auch die Anforderung einer Einspeisung oder eines Bezugs aus Anlagen, die
+1. derzeit keine elektrische Energie erzeugen oder beziehen und erforderlichenfalls erst betriebsbereit gemacht werden müssen oder
 
-1. derzeit nicht einspeisen oder beziehen und erforderlichenfalls erst betriebsbereit gemacht werden müssen oder
+2. zur Erfüllung der Anforderungen einer Erzeugung oder eines Bezugs eine geplante Revision verschieben müssen.
 
-2. zur Erfüllung der Anforderung einer Einspeisung oder eines Bezugs eine geplante Revision verschieben müssen.
+(1a) Der Bilanzkreisverantwortliche der betroffenen Einspeise- oder Entnahmestelle hat einen Anspruch auf einen bilanziellen Ausgleich der Maßnahme gegen den Übertragungsnetzbetreiber, der den Betreiber der Anlage nach Absatz 1 zur Anpassung aufgefordert oder die Anpassung durchgeführt hat. Der Übertragungsnetzbetreiber hat einen Anspruch gegen den Bilanzkreisverantwortlichen auf Abnahme des bilanziellen Ausgleichs. Ist der Strom nach § 59 des Erneuerbare-Energien-Gesetzes zu vermarkten, erfolgt der bilanzielle Ausgleich abweichend von Satz 1 mit dem Bilanzkreis, über den der Übertragungsnetzbetreiber die Vermarktung durchführt. Der Übertragungsnetzbetreiber muss den Bilanzkreisverantwortlichen unverzüglich über den geplanten Zeitpunkt, den Umfang und die Dauer der Anpassung unterrichten. Der Übertragungsnetzbetreiber muss den Bilanzkreisverantwortlichen und den Betreiber der Anlage nach Absatz 1 unverzüglich über die tatsächlichen Zeitpunkte, den jeweiligen Umfang, die Dauer und die Gründe der Anpassung unterrichten.
 
-(2) Die Vergütung für eine nach Absatz 1 Satz 1 angeforderte Anpassung ist angemessen, wenn sie den Betreiber der Anlage wirtschaftlich weder besser noch schlechter stellt, als er ohne die Maßnahme stünde. Eine angemessene Vergütung nach Absatz 1 Satz 1 umfasst folgende Bestandteile, wenn und soweit diese durch die jeweilige Anpassung der Wirkleistungs- oder Blindleistungseinspeisung oder des Wirkleistungsbezugs auf Anforderung des Betreibers eines Übertragungsnetzes verursacht worden sind:
+(2) Eine nach Absatz 1 Satz 1 vorgenommene Anpassung ist zwischen dem Betreiber des Übertragungsnetzes und dem Betreiber der Anlage zur Erzeugung oder Speicherung von elektrischer Energie angemessen finanziell auszugleichen. Der finanzielle Ausgleich ist angemessen, wenn er den Betreiber der Anlage unter Anrechnung des bilanziellen Ausgleichs nach Absatz 1a wirtschaftlich weder besser noch schlechter stellt, als er ohne die Maßnahme stünde. Ein angemessener finanzieller Ausgleich nach Satz 1 umfasst folgende Bestandteile, wenn und soweit diese durch die jeweilige Anpassung der Wirkleistungs- oder Blindleistungserzeugung oder des Wirkleistungsbezugs auf Anforderung des Betreibers eines Übertragungsnetzes verursacht worden sind:
 
-1. die notwendigen Auslagen für die tatsächlichen Anpassungen der Einspeisung (Erzeugungsauslagen) oder des Bezugs,
+1. die notwendigen Auslagen für die tatsächlichen Anpassungen der Erzeugung (Erzeugungsauslagen) oder des Bezugs,
 
-2. den Werteverbrauch der Anlage für die tatsächlichen Anpassungen der Einspeisung oder des Bezugs (anteiligen Werteverbrauch),
+2. den Werteverbrauch der Anlage für die tatsächlichen Anpassungen der Erzeugung oder des Bezugs (anteiligen Werteverbrauch),
 
-3. die nachgewiesenen entgangenen Erlösmöglichkeiten, wenn und soweit diese die Summe der nach den Nummern 1 und 2 zu erstattenden Kosten übersteigen, und
+3. die nachgewiesenen entgangenen Erlösmöglichkeiten, wenn und soweit diese die Summe der nach den Nummern 1 und 2 zu erstattenden Kosten übersteigen,
 
-4. die notwendigen Auslagen für die Herstellung der Betriebsbereitschaft nach Absatz 1 Satz 2 Nummer 1 oder die Verschiebung einer geplanten Revision nach Absatz 1 Satz 2 Nummer 2.
+4. die notwendigen Auslagen für die Herstellung der Betriebsbereitschaft nach Absatz 1 Satz 2 Nummer 1 oder die Verschiebung einer geplanten Revision nach Absatz 1 Satz 2 Nummer 2 und
 
-Ersparte Aufwendungen erstattet der Anlagenbetreiber an den zuständigen Betreiber eines Übertragungsnetzes.
+5. im Fall der Reduzierung der Wirkleistungserzeugung aus Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes oder von KWK-Strom im Sinne des § 3 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes die entgangenen Einnahmen zuzüglich der zusätzlichen Aufwendungen.
+
+Ersparte Aufwendungen erstattet der Anlagenbetreiber an den zuständigen Betreiber eines Übertragungsnetzes. Abweichend von Satz 2 ist der bilanzielle Ausgleich nach Absatz 1a nicht anzurechnen, wenn der Strom nach § 59 des Erneuerbare-Energien-Gesetzes zu vermarkten ist.
 
 (3) Grundlage für die Bestimmung des anteiligen Werteverbrauchs nach Absatz 2 Satz 2 Nummer 2 sind die handelsrechtlichen Restwerte und handelsrechtlichen Restnutzungsdauern in Jahren; für die Bestimmung des anteiligen Werteverbrauchs für die Anlage oder Anlagenteile ist als Schlüssel das Verhältnis aus den anrechenbaren Betriebsstunden im Rahmen von Maßnahmen nach Absatz 1 Satz 1 und den für die Anlage bei der Investitionsentscheidung betriebswirtschaftlich geplanten Betriebsstunden zugrunde zu legen.
 
 (4) Weitergehende Kosten, die dem Anlagenbetreiber auch ohne die Anforderung nach Absatz 1 Satz 1 entstehen, insbesondere Betriebsbereitschaftsauslagen und eine Verzinsung des gebundenen Kapitals, werden nicht erstattet.
 
-(5) Die Absätze 2 bis 4 sind ab dem 1. Januar 2013 anzuwenden, wobei sie in dem Zeitraum vom 1. Januar 2013 bis zum 30. April 2015 nur anzuwenden sind, wenn und soweit die Betreiber von Erzeugungsanlagen dadurch nicht schlechter stehen, als sie durch die tatsächlich von den Betreibern von Übertragungsnetzen in diesem Zeitraum gezahlte jeweilige Vergütung stünden.
-
-(+++ § 13a: Zur Anwendung vgl. § 14 Abs. 1c +++)
+(5) Maßnahmen nach Absatz 1 erfolgen in Abstimmung mit dem Betreiber desjenigen Netzes, in das die Anlage eingebunden ist, und allen zwischengelagerten Netzbetreibern, durch die das Anschlussnetz mit dem Netz des anfordernden Netzbetreibers verbunden ist, sowie allen vorgelagerten Netzbetreibern, die durch die Maßnahme betroffen sind. Trifft ein nachgelagerter Netzbetreiber in seinem Netz Maßnahmen nach Absatz 1 und konkurrieren diese Maßnahmen mit Maßnahmen des vorgelagerten Netzbetreibers nach Absatz 1, so sollen insoweit die Maßnahmen des nachgelagerten Netzbetreibers in der Regel Vorrang haben. Der Betreiber eines Übertragungsnetzes, in dessen Netz die Ursache für eine Maßnahme nach Absatz 1 liegt, muss dem Netzbetreiber, der die Maßnahme ausführt oder nach § 14 Absatz 1c Satz 1 zu ihr auffordert, die Kosten für den bilanziellen und finanziellen Ausgleich nach Abzug entstandener Erlöse ersetzen, soweit kein Anspruch nach § 14 Absatz 1c Satz 2 besteht.
 
 # § 13b – Stilllegungen von Anlagen
 
@@ -2766,9 +2776,11 @@ c) zu den Kriterien vorläufiger und endgültiger Stilllegungen und zu dem Umgan
 
 d) zu den Verpflichtungen der Betreiber von Anlagen zur Erzeugung oder Speicherung elektrischer Energie im Sinne von § 13a Absatz 1 und § 13b Absatz 4 und 5,
 
-e) zu der Vergütung bei geplanten Stilllegungen von Anlagen, abweichend von § 13c, und den Kriterien einer angemessenen Vergütung bei geplanten Stilllegungen von Erzeugungsanlagen nach § 13c sowie
+e) zu der Vergütung bei geplanten Stilllegungen von Anlagen, abweichend von § 13c, und den Kriterien einer angemessenen Vergütung bei geplanten Stilllegungen von Erzeugungsanlagen nach § 13c,
 
-f) zum Einsatz von Anlagen in dem Vierjahreszeitraum nach § 13c Absatz 2,
+f) zum Einsatz von Anlagen in dem Vierjahreszeitraum nach § 13c Absatz 2 sowie
+
+g) zur Berechnung des finanziellen Ausgleichs nach § 13a Absatz 2 Satz 3 Nummer 5,
 
 2. Regelungen vorzusehen für ein transparentes Verfahren zur Bildung und zur Beschaffung einer Netzreserve aus Anlagen nach § 13d Absatz 1 zum Zwecke der Gewährleistung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems, zu den Kriterien einer angemessenen Vergütung, zu den Anforderungen an diese Anlagen sowie zu dem Einsatz der Anlagen in der Netzreserve; hierbei können für die Einbeziehung neu zu errichtender Anlagen auch regionale Kernanteile und Ausschreibungsverfahren vorgesehen werden,
 
@@ -2780,17 +2792,17 @@ f) zum Einsatz von Anlagen in dem Vierjahreszeitraum nach § 13c Absatz 2,
 
 # § 13j – Festlegungskompetenzen
 
-(1) Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1 Festlegungen zu treffen zur näheren Bestimmung des Adressatenkreises nach § 13a Absatz 1 Satz 1, zu erforderlichen technischen Anforderungen, die gegenüber den Betreibern betroffener Anlagen aufzustellen sind, zu Methodik und Datenformat der Anforderung durch den Betreiber von Übertragungsnetzen. Zur Bestimmung der angemessenen Vergütung nach § 13a Absatz 1 und 2 kann die Regulierungsbehörde weitere Vorgaben im Wege einer Festlegung nach § 29 Absatz 1 machen, insbesondere
+(1) Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1 Festlegungen zu treffen zur näheren Bestimmung des Adressatenkreises nach § 13a Absatz 1 Satz 1, zu erforderlichen technischen Anforderungen, die gegenüber den Betreibern betroffener Anlagen aufzustellen sind, zu Methodik und Datenformat der Anforderung durch den Betreiber von Übertragungsnetzen. Zur Bestimmung des finanziellen Ausgleichs nach § 13a Absatz 2 kann die Regulierungsbehörde weitere Vorgaben im Wege einer Festlegung nach § 29 Absatz 1 machen, insbesondere
 
-1. dass sich die Art und Höhe der Vergütung danach unterscheiden, ob es sich um eine Wirk- oder Blindleistungseinspeisung oder einen Wirkleistungsbezug oder um eine leistungserhöhende oder leistungsreduzierende Maßnahme handelt,
+1. dass sich die Art und Höhe des finanziellen Ausgleichs danach unterscheiden, ob es sich um eine Wirk- oder Blindleistungseinspeisung oder einen Wirkleistungsbezug oder um eine leistungserhöhende oder leistungsreduzierende Maßnahme handelt,
 
-2. zu einer vereinfachten Bestimmung der notwendigen Auslagen für die tatsächlichen Anpassungen der Einspeisung (Erzeugungsauslagen) oder des Bezugs nach § 13a Absatz 2 Satz 2 Nummer 1; die Vergütung nach § 13a Absatz 2 Satz 2 Nummer 1 kann ganz oder teilweise als Pauschale für vergleichbare Kraftwerkstypen ausgestaltet werden, wobei die pauschale Vergütung die individuell zuzurechnenden Kosten im Einzelfall nicht abdecken muss; für die Typisierung sind geeignete technische Kriterien heranzuziehen; die Regulierungsbehörde kann vorsehen, dass in Einzelfällen, in denen die pauschale Vergütung eine unbillige Härte darstellen würde und ein Anlagenbetreiber individuell höhere zurechenbare Auslagen nachweist, die über die pauschale Vergütung hinausgehenden Kosten erstattet werden können,
+2. zu einer vereinfachten Bestimmung der notwendigen Auslagen für die tatsächlichen Anpassungen der Einspeisung (Erzeugungsauslagen) oder des Bezugs nach § 13a Absatz 2 Satz 2 Nummer 1; der finanzielle Ausgleich nach § 13a Absatz 2 Satz 3 Nummer 1 kann ganz oder teilweise als Pauschale für vergleichbare Kraftwerkstypen ausgestaltet werden, wobei der pauschale finanzielle Ausgleich die individuell zuzurechnenden Kosten im Einzelfall nicht abdecken muss; für die Typisierung sind geeignete technische Kriterien heranzuziehen; die Regulierungsbehörde kann vorsehen, dass in Einzelfällen, in denen der pauschale finanzielle Ausgleich eine unbillige Härte darstellen würde und ein Anlagenbetreiber individuell höhere zurechenbare Auslagen nachweist, die über der pauschale finanzielle Ausgleich hinausgehenden Kosten erstattet werden können,
 
 3. zu der Ermittlung der anrechenbaren Betriebsstunden nach § 13a Absatz 3,
 
-4. zu der Ermittlung und zu dem Nachweis der entgangenen Erlösmöglichkeiten nach § 13a Absatz 2 Satz 2 Nummer 3, wobei zwischen Erzeugungsanlagen und Anlagen zur Speicherung elektrischer Energie unterschieden werden kann,
+4. zu der Ermittlung und zu dem Nachweis der entgangenen Erlösmöglichkeiten nach § 13a Absatz 2 Satz 3 Nummer 3, wobei zwischen Erzeugungsanlagen und Anlagen zur Speicherung elektrischer Energie unterschieden werden kann,
 
-5. zu der Bemessung der ersparten Erzeugungsaufwendungen nach § 13a Absatz 2 Satz 3 und
+5. zu der Bemessung der ersparten Erzeugungsaufwendungen nach § 13a Absatz 2 Satz 4 und
 
 6. zu einer vereinfachten Bestimmung der zum Zeitpunkt der Investitionsentscheidung betriebswirtschaftlich geplanten Betriebsstunden nach § 13a Absatz 3; die betriebswirtschaftlich geplanten Betriebsstunden können als Pauschale für vergleichbare Kraftwerkstypen ausgestaltet werden; dabei sind die üblichen Betriebsstunden eines vergleichbaren Kraftwerkstyps zum Zeitpunkt der Investitionsentscheidung zugrunde zu legen.
 
@@ -2800,7 +2812,9 @@ Die Regulierungsbehörde erhebt bei den Betreibern von Anlagen zur Erzeugung ode
 
 1. in welchem Umfang, in welcher Form und innerhalb welcher Frist die Netzbetreiber Maßnahmen nach § 13 Absatz 1 und 2, deren Gründe und die zugrunde liegenden vertraglichen Regelungen der Bundesnetzagentur mitteilen und auf einer gemeinsamen Internetplattform veröffentlichen müssen,
 
-2. zu den Kriterien für die nach § 13 Absatz 3 Satz 4 geltenden Ausnahmefälle,
+1a. in welchen Verfahren, Fristen und welcher Form die Unterrichtung nach § 13a Absatz 1a Satz 4 und 5 vorzunehmen ist,
+
+2. zu den Kriterien für die nach § 13 Absatz 3 Satz 1 geltenden Ausnahmefälle,
 
 3. zur näheren Ausgestaltung und Abgrenzung der Gründe für Stilllegungen nach § 13b Absatz 1 Satz 1 zweiter Halbsatz,
 
@@ -2868,11 +2882,11 @@ Die Ermächtigung nach Satz 1 ist darauf beschränkt, dass Netzengpässe im Sinn
 
 (1b) (weggefallen)
 
-(1c) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, Maßnahmen des Betreibers von Übertragungsnetzen oder Maßnahmen eines nach Absatz 1 Satz 1 verantwortlichen Betreibers von Elektrizitätsverteilernetzen, in dessen Netz sie unmittelbar oder mittelbar technisch eingebunden sind, nach dessen Vorgaben und den dadurch begründeten Vorgaben eines vorgelagerten Betreibers von Elektrizitätsverteilernetzen durch eigene Maßnahmen zu unterstützen, soweit diese erforderlich sind, um Gefährdungen und Störungen in den Elektrizitätsversorgungsnetzen mit geringstmöglichen Eingriffen in die Versorgung zu vermeiden; dabei gelten die §§ 12 und 13 bis 13c entsprechend.
+(1c) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, auf Aufforderung eines Betreibers von Übertragungsnetzen oder eines nach Absatz 1 Satz 1 verantwortlichen Betreibers von Elektrizitätsverteilernetzen, in dessen Netz sie unmittelbar oder mittelbar technisch eingebunden sind, nach dessen Vorgaben und den dadurch begründeten Vorgaben eines Betreibers von vorgelagerten Elektrizitätsverteilernetzen in ihrem Elektrizitätsverteilernetz eigene Maßnahmen nach § 13 Absatz 1 und 2 auszuführen; dabei sind die §§ 12 und 13 bis 13c entsprechend anzuwenden. Soweit auf Grund der Aufforderung nach Satz 1 strom- und spannungsbedingte Anpassungen der Wirkleistungserzeugung oder des Wirkleistungsbezugs nach § 13a Absatz 1 durchgeführt werden, hat der Betreiber des Elektrizitätsverteilernetzes einen Anspruch gegen den ihn auffordernden Netzbetreiber auf bilanziellen und finanziellen Ersatz entsprechend den Vorgaben nach Satz 1. Der ihn auffordernde Netzbetreiber hat einen Anspruch auf Abnahme des bilanziellen Ersatzes.
 
 (2) Betreiber von Elektrizitätsverteilernetzen haben in Ergänzung zur Berichtspflicht nach § 14d oder in begründeten Einzelfällen auf Verlangen der Regulierungsbehörde innerhalb von zwei Monaten einen Bericht über den Netzzustand und die Umsetzung der Netzausbauplanung zu erstellen und ihr diesen vorzulegen. Die Regulierungsbehörde kann Vorgaben zu Frist, Form, Inhalt und Art der Übermittlung des Berichts machen. Die Regulierungsbehörde kann den Bericht auf bestimmte Teile des Elektrizitätsverteilernetzes beschränken. Die Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1 zum Inhalt des Berichts nähere Bestimmungen treffen.
 
-(3) Die Betreiber von Elektrizitätsverteilernetzen haben für ihr Netzgebiet in Zusammenarbeit mit den Betreibern von Fernwärme- und Fernkältesystemen mindestens alle vier Jahre das Potenzial der Fernwärme- und Fernkältesysteme für die Erbringung marktbezogener Maßnahmen nach § 13 Absatz 1 Nummer 2 zu bewerten. Dabei haben sie auch zu prüfen, ob die Nutzung des ermittelten Potenzials gegenüber anderen Lösungen unter Berücksichtigung der Zwecke des § 1 Absatz 1 vorzugswürdig wäre.
+(3) Die Betreiber von Elektrizitätsverteilernetzen haben für ihr Netzgebiet in Zusammenarbeit mit den Betreibern von Fernwärme- und Fernkältesystemen mindestens alle vier Jahre das Potenzial der Fernwärme- und Fernkältesysteme für die Erbringung marktbezogener Maßnahmen nach § 13 Absatz 1 Satz 1 Nummer 2 zu bewerten. Dabei haben sie auch zu prüfen, ob die Nutzung des ermittelten Potenzials gegenüber anderen Lösungen unter Berücksichtigung der Zwecke des § 1 Absatz 1 vorzugswürdig wäre.
 
 # § 14a – Steuerbare Verbrauchseinrichtungen in Niederspannung; Verordnungsermächtigung
 
@@ -3430,7 +3444,7 @@ Die Regulierungsbehörde hat dem Antragsteller den Eingang des Antrags zu bestä
 
 10. die ermittelten Kennzahlen zur Versorgungsqualität sowie die ermittelten Kennzahlenvorgaben zur Netzzuverlässigkeit und Netzleistungsfähigkeit einschließlich der zur Bestimmung der Strukturparameter verwendeten Größen und der daraus abgeleiteten Strukturparameter selbst und die Abweichungen der Netzbetreiber von diesen Kennzahlenvorgaben wie auch die daraus resultierenden Zu- oder Abschläge auf die Erlösobergrenzen,
 
-11. Summe der jährlichen Entwicklung der Kosten für Maßnahmen nach § 13a sowie die Kosten der Vergütung nach § 13a Absatz 2,
+11. Summe der Kosten für das Engpassmanagement nach § 21a Absatz 5a, einschließlich der Summe der saldierten geleisteten und erhaltenen Zahlungen für den finanziellen Ausgleich nach § 13a Absatz 2 und 5 Satz 3 sowie für den finanziellen Ersatz nach § 14 Absatz 1c Satz 2,
 
 12. die jährliche Entwicklung der Summe der Kosten für die folgenden Systemdienstleistungen der Übertragungsnetzbetreiber,
 
@@ -4800,7 +4814,7 @@ Darüber hinaus haben Gasversorgungsunternehmen im Falle einer teilweisen Unterb
 
 8. die Missbrauchsaufsicht nach den §§ 30 und 31 sowie die Vorteilsabschöpfung nach § 33,
 
-9. die Entscheidung über das Vorliegen der Voraussetzungen nach § 110 Absatz 2 und 4,
+9. die Entscheidung über das Vorliegen der Voraussetzungen nach § 110 Absatz 2 und 4 ,
 
 10. die Festlegung und Feststellung der notwendigen technischen Anpassungen und Kosten im Rahmen der Umstellung der Gasqualität nach § 19a Absatz 2,
 
@@ -5012,7 +5026,7 @@ In Verfahren wegen leichtfertig begangener Straftaten wird die Bundesnetzagentur
 
 6. Entscheidungen, die auf Grund von Verordnungen nach § 13i Absatz 3 Nummer 1 Buchstabe a, b, c, f sowie Nummer 2 und Absatz 4 getroffen werden, mit Ausnahme der Kriterien einer angemessenen Vergütung,
 
-7. Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5 und 7,
+7. Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5 Nummer 1 und 2 und Absatz 6,
 
 8. Aufgaben nach § 14 Absatz 2 und den §§ 14c bis 14e,
 
@@ -5055,6 +5069,8 @@ Die Beschlusskammern werden nach Bestimmung des Bundesministeriums für Wirtscha
 (2) Die Beschlusskammern entscheiden in der Besetzung mit einem oder einer Vorsitzenden und zwei Beisitzenden. Vorsitzende und Beisitzende müssen Beamte sein und die Befähigung zum Richteramt oder für eine Laufbahn des höheren Dienstes haben.
 
 (3) Die Mitglieder der Beschlusskammern dürfen weder ein Unternehmen der Energiewirtschaft innehaben oder leiten noch dürfen sie Mitglied des Vorstandes oder Aufsichtsrates eines Unternehmens der Energiewirtschaft sein oder einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören.
+
+(+++ Änderungsanweisung gem. Art. 1 Nr. 53 Buchst. a G v. 16.7.2021 I 3026 ist aufgrund textlicher Unstimmigkeit nicht ausführbar +++)
 
 # § 60 – Aufgaben des Beirates
 
@@ -5534,13 +5550,11 @@ Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das Gericht anordne
 
 6. Amtshandlungen auf Grund einer Rechtsverordnung nach § 12g Absatz 3 und § 24 Satz 1 Nummer 3;
 
-7. Amtshandlungen auf Grund des Messstellenbetriebsgesetzes, die das Verfahren zur Übertragung der Grundzuständigkeit für den Messstellenbetrieb betreffen;
+7. Amtshandlungen auf Grund des § 56;
 
-8. Amtshandlungen auf Grund des § 56;
+8. Erteilung von beglaubigten Abschriften aus den Akten der Regulierungsbehörde und die Herausgabe von Daten nach § 12f Absatz 2;
 
-9. Erteilung von beglaubigten Abschriften aus den Akten der Regulierungsbehörde und die Herausgabe von Daten nach § 12f Absatz 2;
-
-10. Registrierung der Marktteilnehmer nach Artikel 9 Absatz 1 der Verordnung (EU) Nr. 1227/2011.
+9. Registrierung der Marktteilnehmer nach Artikel 9 Absatz 1 der Verordnung (EU) Nr. 1227/2011.
 
 Daneben werden als Auslagen die Kosten für weitere Ausfertigungen, Kopien und Auszüge sowie die in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes zu zahlenden Beträge erhoben. Für Entscheidungen, die durch öffentliche Bekanntmachung nach § 73 Absatz 1a zugestellt werden, werden keine Gebühren erhoben. Abweichend von Satz 3 kann eine Gebühr erhoben werden, wenn die Entscheidung zu einem überwiegenden Anteil an einen bestimmten Adressatenkreis gerichtet ist und die Regulierungsbehörde diesem die Entscheidung oder einen schriftlichen Hinweis auf die öffentliche Bekanntmachung förmlich zustellt.
 
@@ -6300,6 +6314,8 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates allgemeine Verwaltun
 
 Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage verzichten. Der Verzicht ist schriftlich gegenüber dem Netzbetreiber zu erklären.
 
+(25a) Auf Maßnahmen nach § 13 Absatz 1, die vor dem 1. Oktober 2021 durchgeführt worden sind, ist § 13a in der bis zum 30. September 2021 geltenden Fassung anzuwenden. Für Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-Gesetzes, die nach dem am 31. Dezember 2011 geltenden Inbetriebnahmebegriff nach dem Erneuerbare-Energien-Gesetz vor dem 1. Januar 2012 in Betrieb genommen worden sind, und für KWK-Anlagen, die vor dem 1. Januar 2012 in Betrieb genommen worden sind, ist § 13a Absatz 2 Satz 3 Nummer 5 mit der Maßgabe anzuwenden, dass für die Bestimmung des angemessenen finanziellen Ausgleichs 100 Prozent der entgangenen Einnahmen anzusetzen sind.
+
 (26) Bis zum 31. Dezember 2023 ist in dem Netzentwicklungsplan nach § 12b höchstens eine Testfeld-Anbindungsleitung mit einer Anschlusskapazität von höchstens 300 Megawatt erforderlich.
 
 (27) Auf Anträge nach § 28a Absatz 3 Satz 1, die vor dem 12. Dezember 2019 bei der Regulierungsbehörde eingegangen sind, sind die bis zum Ablauf des 11. Dezember 2019 geltenden Vorschriften weiter anzuwenden.
@@ -6322,11 +6338,17 @@ Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage verzichten. 
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für Teilnehmer an dem von der Bundesregierung geförderten Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“ Regelungen zu treffen, die von den in Absatz 2 Nummer 1 bis 3 genannten Vorschriften abweichen oder Zahlungen im Rahmen dieser Vorschriften erstatten. Die Regelungen dürfen in folgenden Fällen getroffen werden:
 
-1. im Fall von Maßnahmen zur Gewährleistung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1 und 2, § 14 Absatz 1 Satz 1 dieses Gesetzes und § 14 des Erneuerbare-Energien-Gesetzes,
+1. im Fall von Maßnahmen zur Gewährleistung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1 bis 2 und § 14 Absatz 1,
 
-2. im Fall von Maßnahmen, die netzbezogene oder marktbezogene Maßnahmen des Netzbetreibers nach § 13 Absatz 1 und 2 und § 14 Absatz 1 Satz 1 dieses Gesetzes und § 14 des Erneuerbare-Energien-Gesetzes vermeiden, oder
+2. im Fall von Maßnahmen, die netzbezogene oder marktbezogene Maßnahmen des Netzbetreibers nach § 13 Absatz 1 bis 2 und § 14 Absatz 1 vermeiden, oder
 
 3. in Bezug auf Zeiträume, in denen der Wert der Stundenkontrakte für die Preiszone Deutschland am Spotmarkt der Strombörse im Sinn des § 3 Nummer 43a des Erneuerbare-Energien-Gesetzes in der Auktion des Vortages oder des laufenden Tages null oder negativ ist.
+
+(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in den in Absatz 1 genannten Fällen und unter den in den Absätzen 3 bis 5 genannten Voraussetzungen zu regeln, dass
+
+1. bei Netzengpässen im Rahmen von § 13 Absatz 1 die Einspeiseleistung nicht durch die Reduzierung der Erzeugungsleistung der Anlage, sondern durch die Nutzung von Strom in einer zuschaltbaren Last reduziert werden kann, sofern die eingesetzte Last den Strombezug nicht nur zeitlich verschiebt und die entsprechende entlastende physikalische Wirkung für das Stromnetz gewahrt ist, oder
+
+2. von der Berechnung der Entschädigung nach § 13a Absatz 2 Satz 3 Nummer 5 abgewichen werden kann.
 
 (2) In der Rechtsverordnung können von den in den Nummern 1 bis 3 genannten Vorschriften abweichende Regelungen oder Regelungen zur Erstattung von Zahlungen im Rahmen dieser Verordnung getroffen werden
 

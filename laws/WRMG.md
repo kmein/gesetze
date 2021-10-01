@@ -148,10 +148,6 @@ Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der Europäischen U
 
 (5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können eingezogen werden.
 
-# § 16 – Gebühren und Auslagen
-
-(1) Das Umweltbundesamt erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach der Verordnung (EG) Nr. 648/2004 Gebühren und Auslagen.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände und die Gebührensätze für individuell zurechenbare öffentliche Leistungen des Umweltbundesamtes nach Absatz 1 zu bestimmen.
+# § 16 – (weggefallen)
 
 # § 17 – (Inkrafttreten, Außerkrafttreten)

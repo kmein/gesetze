@@ -93,7 +93,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 62 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
 
-2. Rechtsverordnungen nach Maßgabe des § 1 Abs. 5 Satz 3, des § 5 Abs. 2 Satz 1, des § 6 Abs. 4 Satz 1 und des § 47 Satz 2 des Wertpapiererwerbs- und Übernahmegesetzes,
+2. Rechtsverordnungen nach Maßgabe des § 1 Absatz 5 Satz 3, des § 5 Absatz 2 Satz 1 und des § 6 Absatz 4 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes,
 
 3. Rechtsverordnungen nach Maßgabe des § 2a Absatz 7 Satz 1, des § 9 Absatz 5 Satz 1, des § 9a Absatz 2 Satz 1, des § 20 Absatz 4 Satz 1 und 2, des § 28 Absatz 3 Satz 3, des § 34 Absatz 3 Satz 1 und 2, des § 36 Absatz 5 Satz 1 und 2, des § 41 Absatz 3 Satz 1 und 2, des § 44 Absatz 7 Satz 1 und 2, des § 51 Absatz 3 Satz 1 und 2, des § 119 Satz 1 und 2 sowie des § 128 Absatz 6 Satz 1 des Investmentgesetzes, Rechtsverordnungen nach Maßgabe des § 19f Absatz 3 Satz 1, des § 40c Absatz 3 Satz 1, des § 110 Absatz 7 Satz 1 und des § 110a Absatz 5 Satz 1 des Investmentgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie Rechtsverordnungen nach Maßgabe des § 143c Absatz 5 Satz 1 bis 3 und Absatz 6 Satz 1 jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
@@ -105,11 +105,9 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 6. Rechtsverordnungen nach Maßgabe des § 16 Satz 2 des Verkaufsprospektgesetzes,
 
-7. Rechtsverordnungen nach Maßgabe des § 23 Absatz 2 Satz 1 des Wertpapierprospektgesetzes,
+7. Rechtsverordnungen nach Maßgabe des § 4 Absatz 3 Satz 1 und des § 20 Absatz 3 Satz 1 und 2 des Wertpapierprospektgesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie
 
-8. Rechtsverordnungen nach Maßgabe des § 27 Absatz 2 Satz 1 des Vermögensanlagengesetzes sowie
-
-9. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen
+8. Rechtsverordnungen nach Maßgabe des § 10 Satz 1 des Gesetzes über Bausparkassen nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen
 
 zu erlassen.
 

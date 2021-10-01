@@ -425,7 +425,7 @@ Die Dauer des Zahlungsanspruchs für Solaranlagen richtet sich nach § 25 des Er
 
 (2) Die Betreiber von Solaranlagen und Windenergieanlagen an Land im Staatsgebiet eines Kooperationsstaats ohne direkten Netzanschluss im Bundesgebiet, die im Rahmen einer geöffneten nationalen Ausschreibung oder einer gemeinsamen grenzüberschreitenden Ausschreibung einen Zuschlag erhalten haben und der Bundesrepublik Deutschland zugeordnet wurden, haben, einen Anspruch auf Zahlung der Marktprämie nach Absatz 1 mit der Maßgabe, dass
 
-1. die §§ 7 bis 18 und 79 und 79a des Erneuerbare-Energien-Gesetzes nicht anzuwenden sind und
+1. die §§ 7 bis 17, 79 und 79a des Erneuerbare-Energien-Gesetzes und die §§ 13 und 13a des Energiewirtschaftsgesetzes nicht anzuwenden sind und
 
 2. sich abweichend von § 51 des Erneuerbare-Energien-Gesetzes der anzulegende Wert für den gesamten Zeitraum, in denen die Stundenkontrakte ohne Unterbrechung negativ sind, auf null verringert, wenn der Wert der Stundenkontrakte am Spotmarkt der Strombörse für die Preiszone des Kooperationsstaats, in dessen Staatsgebiet und Gebotszone sich die Solaranlage oder Windenergieanlage an Land befindet, in der vortägigen Auktion in mindestens sechs aufeinanderfolgenden Stunden negativ ist.
 
@@ -573,7 +573,7 @@ Die Voraussetzungen der Zahlungen und deren Finanzierung richten sich nach den B
 
 1. die Ausstellung von Herkunftsnachweisen für diesen Strom abweichend von den §§ 79 und 80 des Erneuerbare-Energien-Gesetzes und
 
-2. die Entschädigung abweichend von § 15 des Erneuerbare-Energien-Gesetzes.
+2. der finanzielle Ausgleich abweichend von § 13a Absatz 2 des Energiewirtschaftsgesetzes.
 
 (3) Die Bestimmungen zum Ausgleichsmechanismus nach dem Erneuerbare-Energien-Gesetz und der Erneuerbare-Energien-Verordnung oder der Erneuerbare-Energien-Ausführungsverordnung sind für Zahlungen des Kooperationsstaates nach Absatz 1 nicht anzuwenden.
 
@@ -655,7 +655,7 @@ Die Voraussetzungen der Zahlungen und deren Finanzierung richten sich nach den B
 
 34. dass die Bekanntgabe der Zuschläge abweichend von § 14 und abweichend von § 34 die Mitteilung über den Ausschluss oder die Nichtbezuschlagung an Gebote aus dem Kooperationsstaat durch eine andere Stelle als die ausschreibende Stelle erfolgt,
 
-35. abweichend von den §§ 79 und 80 des Erneuerbare-Energien-Gesetzes die Ausstellung von Herkunftsnachweisen und die Entschädigung nach § 15 des Erneuerbare-Energien-Gesetzes für Anlagen im Bundesgebiet, die eine Förderung von einem Kooperationsstaat erhalten, und
+35. abweichend von den §§ 79 und 80 des Erneuerbare-Energien-Gesetzes die Ausstellung von Herkunftsnachweisen und den finanziellen Ausgleich nach § 13a Absatz 2 des Energiewirtschaftsgesetzes für Anlagen im Bundesgebiet, die eine Förderung von einem Kooperationsstaat erhalten, und
 
 36. die für die Veröffentlichung der Berechnung nach Nummer 3 der Anlage zuständige Stelle.
 

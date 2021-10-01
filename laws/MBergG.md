@@ -161,11 +161,7 @@ Die Beauftragten dürfen Betriebsanlagen, Geschäfts- und Betriebsräume sowie L
 
 Im Gebiet gefundene Gegenstände archäologischer oder historischer Art sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln. Diese Anweisungen haben Artikel 149 des Übereinkommens zu berücksichtigen und werden im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat erlassen.
 
-# § 10 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den zu diesem Gesetz erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+# § 10 – (weggefallen)
 
 # § 11 – Bußgeldvorschriften
 

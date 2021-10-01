@@ -1343,14 +1343,7 @@ Die volle Funktionalität des Deutschen Medizinprodukteinformations- und Datenba
 (+++ § 86: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 mWv 26.5.2021 +++)  
 (+++ § 86: Zur Anwendung d. Kap. 7 vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
 
-# § 87 – Gebühren und Auslagen; Verordnungsermächtigung
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach der Verordnung (EU) 2017/745, nach diesem Gesetz sowie nach den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen sind Gebühren und Auslagen nach Maßgabe der Rechtsverordnung nach Absatz 2 zu erheben.
-
-(2) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände nach Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand abgedeckt ist. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Leistung erhoben werden kann, die nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Leistung veranlasst hat.
-
-(+++ § 87: Inkraft gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 23.5.2020 +++)  
-(+++ § 87: Zur Anwendung d. Kap. 7 vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)
+# § 87 – (weggefallen)
 
 # § 88 – Verordnungsermächtigungen
 

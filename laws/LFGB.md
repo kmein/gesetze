@@ -2159,11 +2159,7 @@ geahndet werden können.
 § 62 Abs. 1 Nr. 1: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 11.3.2020 (2 BvL 5/17)  
 § 62 Abs. 1 Nr. 2 Kursivdruck: Die Textstruktur der Neufassung gem. Bek. v. 3.6.2013 I 1426 weicht von konstitutiver Fassung ab
 
-# § 63 – Gebühren und Auslagen
-
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erhebt für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit den Aufgaben nach § 68 Gebühren und Auslagen.
-
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände im Sinne des Absatzes 1 und die Höhe der Gebühren näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+# § 63 – (weggefallen)
 
 # § 64 – Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen
 

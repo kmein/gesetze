@@ -442,11 +442,7 @@ Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 
 (3) Grenzt das Plangebiet eines ausländischen Raumordnungsplans an die deutsche ausschließliche Wirtschaftszone an, so ist im Hinblick auf die dortigen Auswirkungen die für das Beteiligungsverfahren zuständige deutsche Stelle das Bundesministerium des Innern, für Bau und Heimat.
 
-# § 26 – Gebühren und Auslagen
-
-Für individuell zurechenbare öffentliche Leistungen nach § 19, die das Bundesamt für Seeschifffahrt und Hydrographie durchführt, werden Gebühren erhoben. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Satzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für die Gebührenschuldner angemessen berücksichtigt werden.
-
-§ 26 (früher § 27 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+# § 26 – (weggefallen)
 
 # § 27 – Anwendungsvorschrift für die Raumordnung in den Ländern
 

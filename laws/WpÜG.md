@@ -275,7 +275,7 @@ Zwangsmittel
 
 § 47
 
-Gebühren und Auslagen
+(weggefallen)
 
  
 
@@ -1035,9 +1035,7 @@ Anträge und Mitteilungen an die Bundesanstalt haben in schriftlicher Form zu er
 
 Die Bundesanstalt kann Verfügungen, die nach diesem Gesetz ergehen, mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Widerspruch und Beschwerde gegen die Androhung und Festsetzung der Zwangsmittel nach den §§ 13 und 14 des Verwaltungs-Vollstreckungsgesetzes haben keine aufschiebende Wirkung. Die Höhe des Zwangsgeldes beträgt abweichend von § 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.
 
-# § 47 – Gebühren und Auslagen
-
-Die Bundesanstalt erhebt für individuell zurechenbare öffentliche Leistungen auf Grund des § 10 Absatz 2 Satz 3, der §§ 14 und 15 Absatz 1 oder 2, der §§ 20, 24, 28 Absatz 1, der §§ 36, 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, oder des § 41 Gebühren und Auslagen. Das Bundesministerium der Finanzen bestimmt die Gebührentatbestände im Einzelnen und die Höhe der Gebühren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+# § 47 – (weggefallen)
 
 # § 48 – Statthaftigkeit, Zuständigkeit
 

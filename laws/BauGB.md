@@ -1,6 +1,8 @@
 % Baugesetzbuch *)  (BauGB)
 % Ausfertigungsdatum: 23.06.1960
  
+# Inhaltsübersicht
+
 # § 1 – Aufgabe, Begriff und Grundsätze der Bauleitplanung
 
 (1) Aufgabe der Bauleitplanung ist es, die bauliche und sonstige Nutzung der Grundstücke in der Gemeinde nach Maßgabe dieses Gesetzbuchs vorzubereiten und zu leiten.
@@ -3680,6 +3682,18 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Absatz 6
 (3) Bei Vorhaben nach Absatz 1 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2022 entsprechend.
 
 (4) Die Befristung in Absatz 1 Satz 1 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von der Vorschrift Gebrauch gemacht werden kann.
+
+# § 246c – Sonderregelungen für bestimmte mobile bauliche Anlagen und mobile Infrastruktureinrichtungen in von Hochwasserkatastrophen betroffenen Gemeinden
+
+(1) In Gemeinden, die von einer Hochwasserkatastrophe im Gemeindegebiet betroffen sind, kann bei der Zulassung von Vorhaben, die die Errichtung mobiler baulicher Anlagen zur Wohnnutzung, mobiler Infrastruktureinrichtungen oder mobiler baulicher Anlagen für Läden oder nicht störende Handwerksbetriebe zur Deckung des täglichen Bedarfs der Bewohner der Umgebung zum Inhalt haben, bis zum Ablauf des 31. Dezember 2022 von den Vorschriften dieses Gesetzbuchs oder den auf Grund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang auf längstens fünf Jahre befristet abgewichen werden, wenn diese dringend benötigten baulichen Anlagen oder dringend benötigten Infrastruktureinrichtungen im Gebiet der Gemeinde, in der sie entstehen sollen, als mobile oder nicht mobile Anlagen nicht oder nicht rechtzeitig zur Verfügung stehen. Satz 1 ist entsprechend anwendbar, wenn das Vorhaben in einer Nachbargemeinde einer Gemeinde im Sinne des Satzes 1 ausgeführt werden soll und dringend benötigte in Satz 1 genannte bauliche Anlagen oder dringend benötigte Infrastruktureinrichtungen im Gebiet der betroffenen Gemeinde und in dieser Nachbargemeinde als mobile oder nicht mobile Anlagen nicht oder nicht rechtzeitig zur Verfügung stehen.
+
+(2) Bei Vorhaben nach Absatz 1 im Außenbereich gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum Ablauf des 31. Dezember 2022 entsprechend.
+
+(3) Die Befristung in Absatz 1 auf den Ablauf des 31. Dezember 2022 bezieht sich auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von der Vorschrift Gebrauch gemacht werden kann. Die in Absatz 1 genannte Frist von fünf Jahren bezieht sich auf die Geltungsdauer der Genehmigung.
+
+(4) Die Länder können durch Landesrecht ergänzende Bestimmungen zum Rückbau der in Absatz 1 genannten Vorhaben treffen.
+
+(5) § 36 findet mit der Maßgabe Anwendung, dass das Einvernehmen nur dann aus den sich aus den §§ 31, 33 bis 35 ergebenden Gründen versagt werden kann, wenn die städtebauliche Entwicklung des Gemeindegebiets der Gemeinde, in der das Vorhaben ausgeführt werden soll, beeinträchtigt würde. Abweichend von § 36 Absatz 2 Satz 2 gilt bis zum Ablauf des 31. Dezember 2022 das Einvernehmen als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
 
 # § 247 – Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 

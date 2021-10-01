@@ -1499,11 +1499,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit ein
 
 (4) Die zuständigen Behörden und ihre Beauftragten dürfen, soweit dies für den Vollzug der Verordnung (EU) Nr. 1143/2014, dieses Gesetzes und der auf ihrer Grundlage erlassenen Rechtsvorschriften in Bezug auf invasive Arten erforderlich ist, privat, betrieblich oder geschäftlich genutzte Grundstücke, Gebäude, Räume, Seeanlagen und Transportmittel ohne Einwilligung des Inhabers betreten. Gebäude und Räume dürfen nach dieser Vorschrift nur betreten werden, wenn sie nicht zu Wohnzwecken genutzt werden. Im Fall betrieblicher Nutzung soll die Maßnahme während der Geschäfts- und Betriebszeiten durchgeführt werden. Im Fall privater Nutzung sollen dem Eigentümer und dem unmittelbaren Besitzer die Möglichkeit gegeben werden, bei der Maßnahme anwesend zu sein. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-# § 53 – Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen
-
-(1) Das Bundesamt für Naturschutz erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach den Vorschriften dieses Kapitels sowie nach den Vorschriften der Verordnung (EG) Nr. 338/97 in der jeweils geltenden Fassung sowie auf deren Grundlage erlassenen Verordnungen in der jeweils geltenden Fassung Gebühren und Auslagen.
-
-(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Ernährung und Landwirtschaft und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+# § 53 – (weggefallen)
 
 # § 54 – Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1687,7 +1683,7 @@ b) im Hinblick auf weitere der Erfüllung bestehender völkerrechtlicher Verpfli
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Aufgaben, die dem Bundesamt für Naturschutz nach Absatz 1 obliegen, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat auf das Bundespolizeipräsidium und im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft auf die Bundesanstalt für Landwirtschaft und Ernährung zur Ausübung übertragen.
 
-(3) Für seine individuell zurechenbaren öffentlichen Leistungen nach den in Absatz 1 Satz 1 genannten Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erhebt das Bundesamt für Naturschutz Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden. § 53 bleibt unberührt.
+(3) (weggefallen)
 
 # § 59 – Betreten der freien Landschaft
 

@@ -15,7 +15,7 @@
 
 (1) Rechtsdienstleistung ist jede Tätigkeit in konkreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert.
 
-(2) Rechtsdienstleistung ist, unabhängig vom Vorliegen der Voraussetzungen des Absatzes 1, die Einziehung fremder oder zum Zweck der Einziehung auf fremde Rechnung abgetretener Forderungen, wenn die Forderungseinziehung als eigenständiges Geschäft betrieben wird (Inkassodienstleistung). Abgetretene Forderungen gelten für den bisherigen Gläubiger nicht als fremd.
+(2) Rechtsdienstleistung ist, unabhängig vom Vorliegen der Voraussetzungen des Absatzes 1, die Einziehung fremder oder zum Zweck der Einziehung auf fremde Rechnung abgetretener Forderungen, wenn die Forderungseinziehung als eigenständiges Geschäft betrieben wird, einschließlich der auf die Einziehung bezogenen rechtlichen Prüfung und Beratung (Inkassodienstleistung). Abgetretene Forderungen gelten für den bisherigen Gläubiger nicht als fremd.
 
 (3) Rechtsdienstleistung ist nicht:
 
@@ -37,11 +37,11 @@ Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen ist nur 
 
 # § 4 – Unvereinbarkeit mit einer anderen Leistungspflicht
 
-Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung einer anderen Leistungspflicht haben können, dürfen nicht erbracht werden, wenn hierdurch die ordnungsgemäße Erbringung der Rechtsdienstleistung gefährdet wird.
+Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung einer anderen Leistungspflicht haben können, dürfen nicht erbracht werden, wenn hierdurch die ordnungsgemäße Erbringung der Rechtsdienstleistung gefährdet wird. Eine solche Gefährdung ist nicht schon deshalb anzunehmen, weil aufgrund eines Vertrags mit einem Prozessfinanzierer Berichtspflichten gegenüber dem Prozessfinanzierer bestehen.
 
 # § 5 – Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit
 
-(1) Erlaubt sind Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit, wenn sie als Nebenleistung zum Berufs- oder Tätigkeitsbild gehören. Ob eine Nebenleistung vorliegt, ist nach ihrem Inhalt, Umfang und sachlichen Zusammenhang mit der Haupttätigkeit unter Berücksichtigung der Rechtskenntnisse zu beurteilen, die für die Haupttätigkeit erforderlich sind.
+(1) Erlaubt sind Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit, wenn sie als Nebenleistung zum Berufs- oder Tätigkeitsbild gehören. Ob eine Nebenleistung vorliegt, ist nach ihrem Inhalt, Umfang und sachlichen Zusammenhang mit der Haupttätigkeit unter Berücksichtigung der Rechtskenntnisse zu beurteilen, die für die Haupttätigkeit erforderlich sind. Andere Tätigkeit im Sinne des Satzes 1 kann auch eine andere Rechtsdienstleistung sein.
 
 (2) Als erlaubte Nebenleistungen gelten Rechtsdienstleistungen, die im Zusammenhang mit einer der folgenden Tätigkeiten erbracht werden:
 
@@ -109,7 +109,7 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 (2) Die Registrierung erfolgt auf Antrag. Soll die Registrierung nach Absatz 1 Satz 2 für einen Teilbereich erfolgen, ist dieser im Antrag zu bezeichnen.
 
-(3) Die Registrierung kann, wenn dies zum Schutz der Rechtsuchenden oder des Rechtsverkehrs erforderlich ist, von Bedingungen abhängig gemacht oder mit Auflagen verbunden werden. Im Bereich der Inkassodienstleistungen soll die Auflage angeordnet werden, fremde Gelder unverzüglich an eine empfangsberechtigte Person weiterzuleiten oder auf ein gesondertes Konto einzuzahlen. Auflagen können jederzeit angeordnet oder geändert werden. Ist die Registrierung auf einen Teilbereich beschränkt, muss der Umfang der beruflichen Tätigkeit den Rechtsuchenden gegenüber eindeutig angegeben werden.
+(3) Die Registrierung kann, wenn dies zum Schutz der Rechtsuchenden oder des Rechtsverkehrs erforderlich ist, von Bedingungen abhängig gemacht oder mit Auflagen verbunden werden. Auflagen können jederzeit angeordnet oder geändert werden. Ist die Registrierung auf einen Teilbereich beschränkt, muss der Umfang der beruflichen Tätigkeit den Rechtsuchenden gegenüber eindeutig angegeben werden.
 
 # § 11 – Besondere Sachkunde, Berufsbezeichnungen
 
@@ -122,32 +122,6 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 (4) Berufsbezeichnungen, die den Begriff „Inkasso“ enthalten, sowie die Berufsbezeichnung „Rentenberaterin“ oder „Rentenberater“ oder diesen zum Verwechseln ähnliche Bezeichnungen dürfen nur von entsprechend registrierten Personen geführt werden.
 
 (5) Personen, die eine Berufsqualifikation im Sinne des § 12 Absatz 3 Satz 4 besitzen und nur für einen Teilbereich nach § 10 Absatz 1 Satz 2 registriert sind, haben ihre Berufstätigkeit unter der in die deutsche Sprache übersetzten Berufsbezeichnung ihres Herkunftsstaates auszuüben.
-
-# § 11a – Darlegungs- und Informationspflichten bei Inkassodienstleistungen
-
-(1) Registrierte Personen, die Inkassodienstleistungen erbringen, müssen, wenn sie eine Forderung gegenüber einer Privatperson geltend machen, mit der ersten Geltendmachung folgende Informationen klar und verständlich übermitteln:
-
-1. den Namen oder die Firma ihrer Auftraggeberin oder ihres Auftraggebers,
-
-2. den Forderungsgrund, bei Verträgen unter konkreter Darlegung des Vertragsgegenstands und des Datums des Vertragsschlusses,
-
-3. wenn Zinsen geltend gemacht werden, eine Zinsberechnung unter Darlegung der zu verzinsenden Forderung, des Zinssatzes und des Zeitraums, für den die Zinsen berechnet werden,
-
-4. wenn ein Zinssatz über dem gesetzlichen Verzugszinssatz geltend gemacht wird, einen gesonderten Hinweis hierauf und die Angabe, aufgrund welcher Umstände der erhöhte Zinssatz gefordert wird,
-
-5. wenn eine Inkassovergütung oder sonstige Inkassokosten geltend gemacht werden, Angaben zu deren Art, Höhe und Entstehungsgrund,
-
-6. wenn mit der Inkassovergütung Umsatzsteuerbeträge geltend gemacht werden, eine Erklärung, dass die Auftraggeberin oder der Auftraggeber diese Beträge nicht als Vorsteuer abziehen kann.
-
-Auf Anfrage sind der Privatperson folgende Informationen ergänzend mitzuteilen:
-
-1. eine ladungsfähige Anschrift der Auftraggeberin oder des Auftraggebers, wenn nicht dargelegt wird, dass dadurch schutzwürdige Interessen der Auftraggeberin oder des Auftraggebers beeinträchtigt werden,
-
-2. der Name oder die Firma desjenigen, in dessen Person die Forderung entstanden ist,
-
-3. bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
-
-(2) Privatperson im Sinne des Absatzes 1 ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
 
 # § 12 – Registrierungsvoraussetzungen
 
@@ -199,37 +173,159 @@ aus der Rechts- oder Patentanwaltschaft oder einem im Steuerberatungsgesetz oder
 
 In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie Unterlagen zum Nachweis der in § 12 Abs. 4 Satz 2 genannten Voraussetzungen für jede qualifizierte Person gesondert beigebracht werden.
 
-(2) Über den Antrag ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Für Entscheidungen über den Versagungsgrund des § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend. Wenn die Registrierungsvoraussetzungen nach § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 4 vorliegen, fordert die zuständige Behörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung sowie über die Erfüllung von Bedingungen (§ 10 Absatz 3 Satz 1) zu erbringen. Sobald diese Nachweise erbracht sind, nimmt sie die Registrierung vor und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
+(2) Zur Prüfung der Voraussetzungen nach § 10 Absatz 1 Satz 1 Nummer 1, § 12 Absatz 1 Nummer 2 sowie § 5 Absatz 1 ist mit dem Antrag auf Registrierung einer Inkassodienstleistung eine inhaltliche Darstellung der beabsichtigten Tätigkeiten beizufügen. Diese muss insbesondere Angaben dazu enthalten,
 
-(3) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich in Textform mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
+1. auf welchen Rechtsgebieten die Tätigkeiten erbracht werden sollen und
 
-(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+2. ob und gegebenenfalls welche weiteren Tätigkeiten als Nebenleistungen erbracht werden sollen.
 
-# § 13a – Aufsichtsmaßnahmen
+(3) Über den Antrag ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Für Entscheidungen über den Versagungsgrund des § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend. Wenn die Registrierungsvoraussetzungen nach § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 4 vorliegen, fordert die zuständige Behörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung sowie über die Erfüllung von Bedingungen (§ 10 Absatz 3 Satz 1) zu erbringen. Sobald diese Nachweise erbracht sind, nimmt sie die Registrierung vor und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Erachtet die zuständige Behörde eine Nebenleistung, zu der Angaben nach Absatz 2 Satz 2 Nummer 2 erfolgt sind, als nicht zulässig, so hat sie dies dem Antragsteller spätestens mit der Registrierung der Inkassodienstleistung mitzuteilen.
 
-(1) Die zuständige Behörde übt die Aufsicht über die Einhaltung dieses Gesetzes aus.
+(4) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich in Textform mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
 
-(2) Die zuständige Behörde trifft gegenüber Personen, die Rechtsdienstleistungen erbringen, Maßnahmen, um die Einhaltung dieses Gesetzes sicherzustellen. Sie kann insbesondere Auflagen nach § 10 Absatz 3 Satz 3 anordnen oder ändern.
+(5) Inkassodienstleister, die Tätigkeiten auf anderen als bereits zuvor mitgeteilten Rechtsgebieten erbringen wollen, haben diese Tätigkeiten unverzüglich der zuständigen Behörde in Textform mitzuteilen. Satz 1 gilt entsprechend, wenn andere als bereits zuvor mitgeteilte Nebenleistungen erbracht werden sollen. Erachtet die zuständige Behörde eine nach Satz 2 mitgeteilte Nebenleistung als nicht zulässig, so hat sie dies dem Inkassodienstleister innerhalb von zwei Monaten mitzuteilen.
 
-(3) Die zuständige Behörde kann einer Person, die Rechtsdienstleistungen erbringt, den Betrieb vorübergehend ganz oder teilweise untersagen, wenn begründete Tatsachen die Annahme rechtfertigen, dass
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+
+# § 13a – Darlegungs- und Informationspflichten bei Inkassodienstleistungen gegenüber Privatpersonen
+
+(1) Registrierte Personen, die Inkassodienstleistungen erbringen (Inkassodienstleister), müssen mit der ersten Geltendmachung einer Forderung gegenüber einer Privatperson folgende Informationen klar und verständlich in Textform übermitteln:
+
+1. den Namen oder die Firma ihres Auftraggebers sowie dessen Anschrift, sofern nicht dargelegt wird, dass durch die Angabe der Anschrift überwiegende schutzwürdige Interessen des Auftraggebers beeinträchtigt würden,
+
+2. den Forderungsgrund, bei Verträgen unter konkreter Darlegung des Vertragsgegenstands und des Datums des Vertragsschlusses, bei unerlaubten Handlungen unter Darlegung der Art und des Datums der Handlung,
+
+3. wenn Zinsen geltend gemacht werden, eine Zinsberechnung unter Darlegung der zu verzinsenden Forderung, des Zinssatzes und des Zeitraums, für den die Zinsen berechnet werden,
+
+4. wenn ein Zinssatz über dem gesetzlichen Verzugszinssatz geltend gemacht wird, einen gesonderten Hinweis hierauf und die Angabe, aufgrund welcher Umstände der erhöhte Zinssatz gefordert wird,
+
+5. wenn Inkassokosten geltend gemacht werden, Angaben zu deren Art, Höhe und Entstehungsgrund,
+
+6. wenn mit den Inkassokosten Umsatzsteuerbeträge geltend gemacht werden, eine Erklärung, dass der Auftraggeber diese Beträge nicht als Vorsteuer abziehen kann,
+
+7. wenn die Anschrift der Privatperson nicht vom Gläubiger mitgeteilt, sondern anderweitig ermittelt wurde, einen Hinweis hierauf sowie darauf, wie eventuell aufgetretene Fehler geltend gemacht werden können,
+
+8. Bezeichnung, Anschrift und elektronische Erreichbarkeit der für sie zuständigen Aufsichtsbehörde.
+
+(2) Auf die entsprechende Anfrage einer Privatperson hat ein Inkassodienstleister die folgenden ergänzenden Informationen unverzüglich in Textform mitzuteilen:
+
+1. den Namen oder die Firma desjenigen, in dessen Person die Forderung entstanden ist,
+
+2. bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
+
+(3) Beabsichtigt ein Inkassodienstleister, mit einer Privatperson eine Stundungs- oder Ratenzahlungsvereinbarung zu treffen, so hat er sie zuvor in Textform auf die dadurch entstehenden Kosten hinzuweisen.
+
+(4) Fordert ein Inkassodienstleister eine Privatperson zur Abgabe eines Schuldanerkenntnisses auf, so hat er sie mit der Aufforderung nach Maßgabe des Satzes 2 in Textform darauf hinzuweisen, dass sie durch das Schuldanerkenntnis in der Regel die Möglichkeit verliert, solche Einwendungen und Einreden gegen die anerkannte Forderung geltend zu machen, die zum Zeitpunkt der Abgabe des Schuldanerkenntnisses begründet waren. Der Hinweis muss
+
+1. deutlich machen, welche Teile der Forderung vom Schuldanerkenntnis erfasst werden, und
+
+2. typische Beispiele von Einwendungen und Einreden benennen, die nicht mehr geltend gemacht werden können, wie das Nichtbestehen, die Erfüllung oder die Verjährung der anerkannten Forderung.
+
+(5) Privatperson im Sinne dieser Vorschrift ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
+
+# § 13b – Darlegungs- und Informationspflichten bei Inkassodienstleistungen für Verbraucher
+
+(1) Inkassodienstleister, die für einen Verbraucher tätig werden, müssen diesem vor Abgabe seiner Vertragserklärung über eine Inkassodienstleistung folgende Informationen in klarer und verständlicher Weise zur Verfügung stellen:
+
+1. falls ein Erfolgshonorar (§ 49b Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung) vereinbart werden soll, einen Hinweis darauf, welche anderen Möglichkeiten zur Durchsetzung der Forderung bestehen, insbesondere, wenn diese es dem Verbraucher im Erfolgsfall ermöglichen, seine Forderung in voller Höhe zu realisieren,
+
+2. falls Kostenrisiken durch einen Prozessfinanzierer abgesichert werden sollen, einen Hinweis hierauf und auf die mit dem Prozessfinanzierer im Hinblick auf die Prozessführung getroffenen Vereinbarungen,
+
+3. falls der Inkassodienstleister berechtigt sein soll, mit dem Schuldner einen Vergleich zu schließen, einen Hinweis hierauf und insbesondere Erläuterungen dazu,
+
+a) ob der Vergleichsschluss der vorherigen Zustimmung des Verbrauchers bedarf oder ob und unter welchen Voraussetzungen er von ihm widerrufen werden kann,
+
+b) wie sich die Ablehnung oder der Widerruf eines Vergleichsschlusses durch den Verbraucher auf die Vergütung des Inkassodienstleisters und das weitere Verfahren auswirkt,
+
+c) wie sich ein Vergleichsschluss auf die Vergütung des Inkassodienstleisters auswirkt,
+
+d) welche Auswirkungen es auf einen Vergleichsschluss haben kann, wenn Forderungen mehrerer Personen zum Gegenstand eines Vergleichs gemacht werden sollen, sofern dies beabsichtigt ist, sowie
+
+4. Bezeichnung, Anschrift und elektronische Erreichbarkeit der für den Inkassodienstleister zuständigen Aufsichtsbehörde.
+
+(2) Inkassodienstleister, die für Verbraucher tätig werden, müssen Verbrauchern, für die sie im Einzelfall nicht tätig werden wollen, die hierfür wesentlichen Gründe mit der Ablehnung der Tätigkeit in Textform mitteilen. In der Mitteilung ist darauf hinzuweisen, ob eine rechtliche Prüfung der Forderung stattgefunden hat und ob diese ganz oder teilweise automatisiert vorgenommen wurde. Die Mitteilung ist mit einem Hinweis zu verbinden, dass die Ablehnung der Tätigkeit andere Möglichkeiten zur Durchsetzung der Forderung unberührt lässt.
+
+# § 13c – Vergütungsvereinbarungen für Inkassodienstleistungen und Rechtsdienstleistungen in einem ausländischen Recht
+
+(1) Eine Vereinbarung über die Vergütung für eine Inkassodienstleistung bedarf, soweit sich die Tätigkeit nicht auf einen mündlichen oder schriftlichen Rat oder eine Auskunft beschränkt, der Textform. Die Vereinbarung muss
+
+1. als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet sein,
+
+2. von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein,
+
+3. von der Vollmacht getrennt sein und
+
+4. einen Hinweis auf die Rechtsfolge des § 13e Absatz 1 enthalten.
+
+(2) Ist eine vereinbarte Vergütung unter Berücksichtigung aller Umstände unangemessen hoch, so kann sie im Rechtsstreit auf den angemessenen Betrag herabgesetzt werden.
+
+(3) Eine Vereinbarung über ein Erfolgshonorar muss Folgendes enthalten:
+
+1. die Angabe, welche Vergütung bei Eintritt welcher Bedingungen verdient sein soll,
+
+2. die Angabe, ob und gegebenenfalls welchen Einfluss die Vereinbarung auf die gegebenenfalls von dem Verbraucher zu zahlenden Gerichtskosten, Verwaltungskosten und die von diesem zu erstattenden Kosten anderer Beteiligter haben soll,
+
+3. die wesentlichen Gründe, die für die Bemessung des Erfolgshonorars bestimmend sind, insbesondere im Hinblick auf die Erfolgsaussichten der Rechtsdurchsetzung, den Aufwand des Inkassodienstleisters und die Möglichkeit, die Kosten für die Inkassotätigkeit vom Schuldner ersetzt zu erhalten, sowie
+
+4. die Angabe, ob bei einer vorzeitigen Vertragsbeendigung eine Vergütung fällig wird.
+
+(4) Die Vereinbarung eines Erfolgshonorars ist unzulässig, soweit sich die Inkassodienstleistung auf eine Forderung bezieht, die der Pfändung nicht unterworfen ist.
+
+(5) Für Rechtsdienstleistungen in einem ausländischen Recht gelten Absatz 1 Satz 1 und 2 Nummer 1 bis 3 und die Absätze 2 bis 4 entsprechend.
+
+# § 13d – Vergütung der Rentenberater
+
+(1) Für die Vergütung der Rentenberater gilt das Rechtsanwaltsvergütungsgesetz entsprechend. Richtet sich die Vergütung nach dem Gegenstandswert, so hat der Rentenberater den Auftraggeber vor der Übernahme des Auftrags hierauf hinzuweisen.
+
+(2) Rentenberatern ist es untersagt, geringere Gebühren und Auslagen zu vereinbaren oder zu fordern, als das Rechtsanwaltsvergütungsgesetz vorsieht, soweit dieses nichts anderes bestimmt. Die Vereinbarung eines Erfolgshonorars (§ 49b Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung) ist unzulässig, soweit das Rechtsanwaltsvergütungsgesetz nichts anderes bestimmt; Verpflichtungen, die Gerichtskosten, Verwaltungskosten oder Kosten anderer Beteiligter zu tragen, sind unzulässig. Im Einzelfall darf besonderen Umständen in der Person des Auftraggebers, insbesondere dessen Bedürftigkeit, durch Ermäßigung oder Erlass von Gebühren oder Auslagen nach Erledigung des Auftrags Rechnung getragen werden.
+
+(3) Für die Erstattung der Vergütung der Rentenberater in einem gerichtlichen Verfahren gelten die Vorschriften der Verfahrensordnungen über die Erstattung der Vergütung eines Rechtsanwalts entsprechend.
+
+# § 13e – Erstattungsfähigkeit der Kosten von Inkassodienstleistern
+
+(1) Ein Gläubiger kann die Kosten, die ihm ein Inkassodienstleister für seine Tätigkeit berechnet hat, von seinem Schuldner nur bis zur Höhe der Vergütung als Schaden ersetzt verlangen, die einem Rechtsanwalt für diese Tätigkeit nach den Vorschriften des Rechtsanwaltsvergütungsgesetzes zustehen würde.
+
+(2) Die Erstattung der Vergütung von Inkassodienstleistern für die Vertretung im Zwangsvollstreckungsverfahren richtet sich nach § 788 der Zivilprozessordnung.
+
+# § 13f – Beauftragung von Rechtsanwälten und Inkassodienstleistern
+
+Beauftragt der Gläubiger einer Forderung mit deren Einziehung sowohl einen Inkassodienstleister als auch einen Rechtsanwalt, so kann er die ihm dadurch entstehenden Kosten nur bis zu der Höhe als Schaden ersetzt verlangen, wie sie entstanden wären, wenn er nur einen Rechtsanwalt beauftragt hätte. Dies gilt für alle außergerichtlichen und gerichtlichen Aufträge. Die Sätze 1 und 2 gelten nicht, wenn der Schuldner die Forderung erst nach der Beauftragung eines Inkassodienstleisters bestritten hat und das Bestreiten Anlass für die Beauftragung eines Rechtsanwalts gegeben hat.
+
+# § 13g – Umgang mit Fremdgeldern
+
+Inkassodienstleister haben fremde Gelder unverzüglich an eine empfangsberechtigte Person weiterzuleiten oder auf ein gesondertes Konto einzuzahlen.
+
+# § 13h – Aufsichtsmaßnahmen
+
+(1) Die zuständige Behörde übt die Aufsicht über die Einhaltung dieses Gesetzes aus. Die Aufsicht umfasst zudem die Einhaltung anderer Gesetze, soweit sich aus diesen Vorgaben für die berufliche Tätigkeit der registrierten Personen ergeben.
+
+(2) Die zuständige Behörde trifft gegenüber Personen, die Rechtsdienstleistungen erbringen, Maßnahmen, um die Einhaltung der in Absatz 1 genannten Gesetze sicherzustellen. Sie kann insbesondere anordnen, dass ein bestimmtes Verhalten zu unterlassen ist. Eine solche Anordnung kommt insbesondere zur Klärung einer Rechtsfrage von grundsätzlicher Bedeutung oder bei einem erheblichen oder wiederholten Verstoß gegen Rechtsvorschriften in Betracht.
+
+(3) Obliegt die Kontrolle der Einhaltung von Vorgaben im Sinne des Absatzes 1 Satz 2 vorrangig einer anderen Behörde oder ist in Bezug auf solche Vorgaben ein sonstiges Verfahren anhängig, so hat die nach diesem Gesetz zuständige Behörde in der Regel den Ausgang der Prüfung der anderen Behörde oder des sonstigen Verfahrens abzuwarten und erst im Anschluss daran zu entscheiden, ob noch Maßnahmen nach diesem Gesetz erforderlich sind.
+
+(4) Die zuständige Behörde kann einer Person, die Rechtsdienstleistungen erbringt, den Betrieb vorübergehend ganz oder teilweise untersagen, wenn begründete Tatsachen die Annahme rechtfertigen, dass
 
 1. eine Voraussetzung für die Registrierung nach § 12 weggefallen ist oder
 
 2. erheblich oder dauerhaft gegen Pflichten verstoßen wird.
 
-(4) Soweit es zur Erfüllung der der zuständigen Behörde als Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, hat die Person, die Rechtsdienstleistungen erbringt, der zuständigen Behörde und den in ihrem Auftrag handelnden Personen das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit sie elektronisch geführt werden, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
+(5) Soweit es zur Erfüllung der der zuständigen Behörde als Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, hat die Person, die Rechtsdienstleistungen erbringt, der zuständigen Behörde und den in ihrem Auftrag handelnden Personen das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit sie elektronisch geführt werden, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
+
+(6) In Beschwerdeverfahren teilt die Aufsichtsbehörde dem Beschwerdeführer ihre Entscheidung mit, sobald das Verfahren bei ihr abgeschlossen ist. In der Mitteilung sind die wesentlichen Gründe für die Entscheidung kurz darzustellen. Die Mitteilung ist nicht anfechtbar.
 
 # § 14 – Widerruf der Registrierung
 
 Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des Verwaltungsverfahrensgesetzes oder entsprechender landesrechtlicher Vorschriften,
 
-1. wenn begründete Tatsachen die Annahme rechtfertigen, dass die registrierte Person oder eine qualifizierte Person die erforderliche persönliche Eignung oder Zuverlässigkeit nicht mehr besitzt; dies ist in der Regel der Fall, wenn einer der in § 12 Abs. 1 Nr. 1 genannten Gründe nachträglich eintritt oder die registrierte Person beharrlich Änderungsmitteilungen nach § 13 Abs. 3 Satz 1 unterlässt,
+1. wenn begründete Tatsachen die Annahme rechtfertigen, dass die registrierte Person oder eine qualifizierte Person die erforderliche persönliche Eignung oder Zuverlässigkeit nicht mehr besitzt; dies ist in der Regel der Fall, wenn einer der in § 12 Abs. 1 Nr. 1 genannten Gründe nachträglich eintritt oder die registrierte Person beharrlich Änderungsmitteilungen nach § 13 Absatz 4 Satz 1 oder Mitteilungen nach § 13 Absatz 5 Satz 1 oder 2 unterlässt,
 
 2. wenn die registrierte Person keine Berufshaftpflichtversicherung nach § 12 Abs. 1 Nr. 3 mehr unterhält,
 
-3. wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen; dies ist in der Regel der Fall, wenn die registrierte Person in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt oder beharrlich gegen Auflagen oder Darlegungs- und Informationspflichten nach § 11a verstößt,
+3. wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen; dies ist in der Regel der Fall, wenn die registrierte Person in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt oder beharrlich gegen Auflagen, Darlegungs- und Informationspflichten nach den §§ 13a oder 13b oder Pflichten nach § 13g verstößt,
 
 4. wenn eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von sechs Monaten eine qualifizierte Person benennt.
+
+Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mit § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend.
 
 # § 14a – Bestellung eines Abwicklers für Rentenberater
 
@@ -241,7 +337,7 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 (1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf in der Bundesrepublik Deutschland mit denselben Rechten und Pflichten wie eine nach § 10 Absatz 1 Satz 1 Nummer 1 oder 2 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf in den in Satz 1 genannten Staaten während der vorhergehenden zehn Jahre mindestens ein Jahr ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 
-(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland einer nach § 19 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 2 erstattet. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
+(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland einer nach § 19 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
 
 1. eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig zur Ausübung eines der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder eines vergleichbaren Berufs niedergelassen ist und dass ihr die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
@@ -249,9 +345,11 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 3. sofern der Beruf auf dem Gebiet der Bundesrepublik Deutschland ausgeübt wird, einen Nachweis über das Bestehen einer Berufshaftpflichtversicherung nach Absatz 5 oder Angaben dazu, warum der Abschluss einer solchen Versicherung nicht möglich oder unzumutbar ist; anderenfalls eine Erklärung darüber, dass der Beruf ausschließlich aus dem Niederlassungsstaat heraus ausgeübt wird,
 
-4. die Angabe der Berufsbezeichnung, unter der die Tätigkeit im Inland zu erbringen ist.
+4. die Angabe der Berufsbezeichnung, unter der die Tätigkeit im Inland zu erbringen ist, und
 
-§ 13 Abs. 3 Satz 1 gilt entsprechend. Die Meldung ist jährlich zu wiederholen, wenn die Person oder Gesellschaft nach Ablauf eines Jahres erneut vorübergehende Rechtsdienstleistungen im Inland erbringen will. In diesem Fall ist der Nachweis oder die Erklärung nach Satz 3 Nummer 3 erneut beizufügen.
+5. eine Einwilligung zur Veröffentlichung von Telefonnummer und E-Mail-Adresse im Rechtsdienstleistungsregister, falls eine solche erteilt werden soll.
+
+§ 13 Absatz 4 Satz 1 und 2 gilt entsprechend. Die Meldung ist jährlich zu wiederholen, wenn die Person oder Gesellschaft nach Ablauf eines Jahres erneut vorübergehende Rechtsdienstleistungen im Inland erbringen will. In diesem Fall ist der Nachweis oder die Erklärung nach Satz 3 Nummer 3 erneut beizufügen.
 
 (3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, nimmt die zuständige Behörde eine vorübergehende Registrierung oder ihre Verlängerung um ein Jahr vor und veranlasst die öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Das Verfahren ist kostenfrei.
 
@@ -265,7 +363,7 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 2. in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt,
 
-3. beharrlich gegen Darlegungs- und Informationspflichten nach § 11a verstößt,
+3. beharrlich gegen Darlegungs- und Informationspflichten nach § 13a verstößt,
 
 4. nicht über die für die Ausübung der Berufstätigkeit im Inland erforderlichen deutschen Sprachkenntnisse verfügt,
 
@@ -341,13 +439,13 @@ Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine L
 
 # § 18 – Umgang mit personenbezogenen Daten
 
-(1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einer Datenbank speichern und aus dieser im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
+(1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einem Dateisystem speichern und aus diesem im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
 
 1. die Registrierung oder die Rücknahme oder den Widerruf der Registrierung,
 
 2. eine Untersagung nach § 9 Absatz 1 oder § 15 Absatz 6,
 
-3. eine Aufsichtsmaßnahme nach § 13a,
+3. eine Aufsichtsmaßnahme nach § 13h,
 
 4. eine Maßnahme nach § 15b oder
 
@@ -371,22 +469,26 @@ Satz 3 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interes
 
 (1) Ordnungswidrig handelt, wer
 
-1. einer vollziehbaren Anordnung nach § 9 Absatz 1 Satz 1 oder § 15 Absatz 6 Satz 1, auch in Verbindung mit Absatz 7, zuwiderhandelt,
+1. einer vollziehbaren Anordnung nach § 9 Absatz 1 Satz 1, § 13h Absatz 2 Satz 3 oder § 15 Absatz 6 Satz 1, auch in Verbindung mit Absatz 7 Satz 2, zuwiderhandelt,
 
 2. ohne Registrierung nach § 10 Absatz 1 eine dort genannte Rechtsdienstleistung erbringt,
 
-3. einer vollziehbaren Auflage nach § 10 Absatz 3 Satz 1 zuwiderhandelt oder
+3. einer vollziehbaren Auflage nach § 10 Absatz 3 Satz 1 zuwiderhandelt,
 
-4. entgegen § 11 Absatz 4 eine dort genannte Berufsbezeichnung oder Bezeichnung führt.
+4. entgegen § 11 Absatz 4 eine dort genannte Berufsbezeichnung oder Bezeichnung führt oder
+
+5. entgegen § 13g fremde Gelder nicht oder nicht rechtzeitig weiterleitet und nicht oder nicht rechtzeitig einzahlt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 11a Absatz 1 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+1. entgegen § 13 Absatz 4 Satz 1, auch in Verbindung mit § 15 Absatz 2 Satz 4, auch in Verbindung mit § 15 Absatz 7 Satz 2, entgegen § 13 Absatz 5 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 13a Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-2. entgegen § 11a Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+2. entgegen § 13a Absatz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-3. entgegen § 15 Absatz 2 Satz 1, auch in Verbindung mit Absatz 7, eine vorübergehende Rechtsdienstleistung erbringt oder
+3. entgegen § 13a Absatz 3 oder 4 Satz 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt,
 
-4. entgegen § 15 Absatz 2 Satz 5, auch in Verbindung mit Absatz 7, eine dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig wiederholt.
+4. entgegen § 15 Absatz 2 Satz 1, auch in Verbindung mit Absatz 7 Satz 2, eine vorübergehende Rechtsdienstleistung erbringt oder
+
+5. entgegen § 15 Absatz 2 Satz 5, auch in Verbindung mit Absatz 7 Satz 2, eine dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig wiederholt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.

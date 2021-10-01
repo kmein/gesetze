@@ -201,7 +201,7 @@ Für den angepassten Überwachungsplan gilt Absatz 2 entsprechend.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beauftragt im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie eine geeignete Stelle mit der Durchführung der Versteigerung.
 
-(3) Die Erlöse aus der Versteigerung der Berechtigungen nach Absatz 1 stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der ihm im Rahmen des Emissionshandels zugewiesenen Aufgaben entstehen und nicht durch Gebühren nach § 22 gedeckt sind, werden aus den Erlösen nach Satz 1 gedeckt.
+(3) Die Erlöse aus der Versteigerung der Berechtigungen nach Absatz 1 stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der ihm im Rahmen des Emissionshandels zugewiesenen Aufgaben entstehen und nicht durch Gebühren nach dem Bundesgebührengesetz und der Besonderen Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit nach § 22 Absatz 4 des Bundesgebührengesetzes gedeckt sind, werden aus den Erlösen nach Satz 1 gedeckt.
 
 (4) Zur Gebotseinstellung auf eigene Rechnung oder im Namen der Kunden ihres Hauptgeschäftes bedürfen die in § 3 Absatz 1 Nummer 8 des Wertpapierhandelsgesetzes genannten Unternehmen einer Erlaubnis der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt). Die Erlaubnis wird erteilt, sofern das Unternehmen die Bedingungen des Artikels 59 Absatz 5 der Verordnung (EU) Nr. 1031/2010 erfüllt. Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn ihr Tatsachen bekannt werden, welche eine Erteilung der Erlaubnis nach Satz 2 ausschließen würden.
 
@@ -317,17 +317,7 @@ Im Rahmen der Pflichten nach Satz 1 haben die Betreiber Arbeitskräfte sowie Hil
 
 (3) Die Prüfstelle nimmt die ihr nach Absatz 2 zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
 
-# § 22 – Gebühren für individuell zurechenbare öffentliche Leistungen von Bundesbehörden
-
-(1) Für die Eröffnung eines Personen- oder Händlerkontos im Emissionshandelsregister erhebt die zuständige Behörde von dem Kontoinhaber eine Gebühr von 170 Euro, für die Verwaltung eines Personen- oder Händlerkontos eine Gebühr von 600 Euro pro Handelsperiode sowie für die Umfirmierung eines Kontos oder für die Änderung eines Kontobevollmächtigten eine Gebühr von jeweils 60 Euro.
-
-(2) Für Amtshandlungen der Zulassungsstelle nach § 28 Absatz 4 Satz 1 Nummer 1 werden Gebühren und Auslagen erhoben.
-
-(3) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, mit Ausnahme des Widerspruchs gegen Entscheidungen nach § 4, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 50 bis 4 000 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
-
-(4) Die Befugnis der Länder zur Erhebung von Gebühren und Auslagen für Amtshandlungen nach § 4 bleibt unberührt.
-
-(+++ § 22 Abs 1: Zur Anwendung vgl. § 33 +++)
+# § 22 – (weggefallen)
 
 # § 23 – Elektronische Kommunikation
 

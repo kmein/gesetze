@@ -880,7 +880,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 (1) Vereinbarungen, durch die eine Vergütung für eine Hilfeleistung in Steuersachen oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der Tätigkeit des Wirtschaftsprüfers abhängig gemacht wird oder nach denen der Wirtschaftsprüfer einen Teil der zu erzielenden Steuerermäßigung, Steuerersparnis oder Steuervergütung als Honorar erhält (Erfolgshonorar), sind unzulässig, soweit nachfolgend nichts anderes bestimmt ist. Vereinbarungen, durch die der Wirtschaftsprüfer sich verpflichtet, Gerichtskosten, Verwaltungskosten oder Kosten anderer Beteiligter zu tragen, sind unzulässig.
 
-(2) Ein Erfolgshonorar darf nur für den Einzelfall und nur dann vereinbart werden, wenn der Auftraggeber aufgrund seiner wirtschaftlichen Verhältnisse bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde.
+(2) Ein Erfolgshonorar darf nur für den Einzelfall und nur dann vereinbart werden, wenn der Auftraggeber bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde.
 
 (3) Die Vereinbarung bedarf der Textform. Sie muss als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet werden, von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten sein. Die Vereinbarung muss enthalten:
 

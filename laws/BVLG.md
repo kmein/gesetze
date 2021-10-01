@@ -109,13 +109,7 @@ In den in Satz 1 bezeichneten Rechtsverordnungen kann die Zuständigkeit des Bun
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums wahrnimmt, untersteht es den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-# § 6 – Gebühren- und Auslagenerhebung
-
-(1) Für individuell zurechenbare öffentliche Leistungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesamtes werden Gebühren und Auslagen erhoben. Bei der Bemessung der Höhe der Gebühr nach Satz 1 ist auch der mit Mitwirkungshandlungen des Bundesinstituts verbundene Verwaltungsaufwand zu berücksichtigen, soweit die Mitwirkung des Bundesinstituts durch Rechtsvorschrift angeordnet ist oder auf einer Rechtsvorschrift beruht. Spezielle gesetzliche Gebührenregelungen bleiben unberührt.
-
-(2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für die individuell zurechenbaren öffentlichen Leistungen des Bundesamtes die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei Festsätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren bestimmt sich jeweils nach dem durchschnittlichen Personal- und Sachaufwand; daneben kann die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Leistung für den Gebührenschuldner angemessen berücksichtigt werden.
-
-(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass, auch in den Fällen des Absatzes 1 Satz 3, bei der Bemessung der Höhe der Gebühren auch der mit Mitwirkungshandlungen von Bundesoberbehörden oder von bundesunmittelbaren Anstalten des öffentlichen Rechts verbundene Verwaltungsaufwand berücksichtigt werden kann, soweit die jeweilige Mitwirkung durch Rechtsvorschrift angeordnet ist oder auf einer Rechtsvorschrift beruht.
+# § 6 – (weggefallen)
 
 # § 7 – Übernahme der Beamtinnen und Beamten und Arbeitnehmerinnen und Arbeitnehmer
 

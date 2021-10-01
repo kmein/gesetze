@@ -65,12 +65,6 @@ Abweichend von Satz 2 ist für Betriebe des Baugewerbes mit Geschäftssitz in ei
 
 (5) Die Erlaubnis kann unbefristet erteilt werden, wenn der Verleiher drei aufeinanderfolgende Jahre lang nach § 1 erlaubt tätig war. Sie erlischt, wenn der Verleiher von der Erlaubnis drei Jahre lang keinen Gebrauch gemacht hat.
 
-# § 2a – Gebühren und Auslagen
-
-(1) Für die Bearbeitung von Anträgen auf Erteilung und Verlängerung der Erlaubnis werden vom Antragsteller Gebühren und Auslagen erhoben.
-
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die Gebühr darf im Einzelfall 2.500 Euro nicht überschreiten.
-
 # § 3 – Versagung
 
 (1) Die Erlaubnis oder ihre Verlängerung ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, daß der Antragsteller

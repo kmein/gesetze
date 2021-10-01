@@ -128,7 +128,7 @@ Bei Projekttätigkeiten eines Verteilernetzbetreibers kann bei der Beschaffung v
 
 (2) Wirtschaftliche Nachteile im Sinne von Absatz 1 sind nur solche Nachteile, die in Zeiträumen entstehen, in denen
 
-1. der Netzbetreiber Maßnahmen zur Vermeidung eines Netzengpasses oder einer sonstigen Gefahr für die Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1 und § 14 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes oder § 14 Absatz 1 des Erneuerbare-Energien-Gesetzes ergreifen muss oder
+1. der Netzbetreiber Maßnahmen zur Vermeidung eines Netzengpasses oder einer sonstigen Gefahr für die Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1 und § 14 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes ergreifen muss oder
 
 2. der Wert der Stundenkontrakte für die Preiszone Deutschland am Spotmarkt der Strombörse im Sinne des § 3 Nummer 43a des Erneuerbare-Energien-Gesetzes in der Auktion des Vortages oder des laufenden Tages null oder negativ ist.
 
@@ -158,15 +158,15 @@ Ein Teilnehmer, der einen Stromspeicher oder eine Anlage zur Umwandlung von elek
 
 # § 9 – Erstattung wirtschaftlicher Nachteile von Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
 
-(1) Ein Teilnehmer, der eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien nach § 3 des Erneuerbare-Energien-Gesetzes betreibt, die nach § 14 Absatz 1 des Erneuerbare-Energien-Gesetzes vom Netzbetreiber geregelt werden soll, darf im Rahmen der Projekttätigkeit anstelle der Reduzierung der Erzeugungsleistung die Einspeiseleistung in das Netz der allgemeinen Versorgung durch die Nutzung einer zuschaltbaren Last reduzieren, wenn
+(1) Ein Teilnehmer, der eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien nach § 3 des Erneuerbare-Energien-Gesetzes betreibt, die wegen eines Engpasses nach § 13a Absatz 1 oder § 14 Absatz 1 in Verbindung mit § 13a Absatz 1 des Energiewirtschaftsgesetzes vom Netzbetreiber geregelt werden soll, darf im Rahmen der Projekttätigkeit anstelle der Reduzierung der Erzeugungsleistung die Einspeiseleistung in das Netz der allgemeinen Versorgung durch die Nutzung einer zuschaltbaren Last reduzieren, wenn
 
-1. die zusätzlich eingesetzte Last ausschließlich in der Zeit der Anforderung zum Einspeisemanagement eingesetzt wird,
+1. die zusätzlich eingesetzte Last ausschließlich in der Zeit der Anforderung nach § 13a Absatz 1 oder § 14 Absatz 1 in Verbindung mit § 13a Absatz 1 des Energiewirtschaftsgesetzes eingesetzt wird,
 
 2. die zusätzlich eingesetzte Last den Strombezug nicht nur zeitlich verschiebt und
 
 3. die einer Reduzierung der Erzeugungsleistung der Anlage entsprechende entlastende physikalische Wirkung für das Elektrizitätsversorgungsnetz gewahrt ist.
 
-(2) Bei Anwendung von Absatz 1 fällt keine Entschädigung nach § 15 Absatz 1 des Erneuerbare-Energien-Gesetzes an. Der Netzbetreiber ist jedoch verpflichtet, dem Teilnehmer den durch die entgangene Entschädigung entstandenen wirtschaftlichen Nachteil zu erstatten.
+(2) Bei Anwendung von Absatz 1 fällt kein bilanzieller Ausgleich nach § 13a Absatz 1a des Energiewirtschaftsgesetzes und kein finanzieller Ausgleich nach § 13a Absatz 2 des Energiewirtschaftsgesetzes an. Der Netzbetreiber ist jedoch verpflichtet, dem Teilnehmer den durch den entgangenen bilanziellen und finanziellen Ausgleich entstandenen wirtschaftlichen Nachteil zu erstatten.
 
 # § 10 – Anrechnung wirtschaftlicher Vorteile
 

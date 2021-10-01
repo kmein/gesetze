@@ -13,39 +13,7 @@ des § 16 Satz 2 und 3 des Finanzdienstleistungsaufsichtsgesetzes
 
 verordnet das Bundesministerium der Finanzen:
 
-# § 1 – Gebühren
-
-Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt für individuell zurechenbare öffentliche Leistungen im Rahmen der ihr gesetzlich zugewiesenen Aufgaben Gebühren nach Maßgabe des § 14 und des § 17b des Finanzdienstleistungsaufsichtsgesetzes und den Bestimmungen dieses Abschnitts.
-
-# § 2 – Gebührentatbestände; Höhe der Gebühren
-
-(1) Die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen und Gebührensätze ergeben sich aus den nachfolgenden Bestimmungen dieses Abschnitts und dem anliegenden Gebührenverzeichnis.
-
-(2) Zur Abgeltung mehrfacher gleichartiger individuell zurechenbarer öffentlicher Leistungen für denselben Gebührenschuldner kann die Bundesanstalt auf Antrag des Gebührenschuldners eine Pauschgebühr, die den geringeren Umfang des Verwaltungsaufwandes berücksichtigt, im Voraus festsetzen.
-
-# § 3 – Gebührenerhebung in besonderen Fällen
-
-(1) Für die Ablehnung eines Verwaltungsaktes, in den Fällen der Rücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung, für die Rücknahme oder den Widerruf eines Verwaltungsaktes sowie für die Zurückweisung eines Widerspruchs erhebt die Bundesanstalt Gebühren nach Maßgabe der Absätze 2 bis 5, sofern in der Anlage (Gebührenverzeichnis) nichts anderes bestimmt ist.
-
-(2) Für die Ablehnung eines Antrags auf Vornahme einer gebührenpflichtigen individuell zurechenbaren öffentlichen Leistung aus anderen Gründen als wegen Unzuständigkeit wird eine Gebühr bis zur Höhe der für die Vornahme der Amtshandlung festzusetzenden Gebühr erhoben. Wird ein Antrag nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 50 Prozent der für die Vornahme der individuell zurechenbaren öffentlichen Leistung festzusetzenden Gebühr.
-
-(3) Für den Widerruf oder die Rücknahme eines gebührenpflichtigen Verwaltungsaktes wird, sofern der Betroffene die Gründe für den Widerruf oder die Rücknahme zu vertreten hat, eine Gebühr bis zur Höhe der für den Verwaltungsakt zum Zeitpunkt des Widerrufs oder der Rücknahme festzusetzenden Gebühr erhoben. Satz 1 gilt entsprechend für den Widerruf oder die Rücknahme eines fingierten Verwaltungsaktes; insoweit wird eine Gebühr bis zur Höhe der Gebühr erhoben, die für einen entsprechenden nicht fingierten Verwaltungsakt im Zeitpunkt des Widerrufs oder der Rücknahme festzusetzen gewesen wäre.
-
-(4) Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine Gebühr bis zur Höhe von 50 Prozent der für den angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben; dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. War für den angefochtenen Verwaltungsakt eine Gebühr nicht vorgesehen oder wurde eine Gebühr nicht erhoben, wird eine Gebühr bis zu 1 500 Euro erhoben. Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen
-
-1. eine Gebührenentscheidung,
-
-2. die Festsetzung von gesondert zu erstattenden Kosten nach § 15 oder § 17c des Finanzdienstleistungsaufsichtsgesetzes,
-
-3. die Festsetzung eines Umlagebetrages nach der auf Grund des § 16 Abs. 2 Satz 1 und 3 des Finanzdienstleistungsaufsichtsgesetzes oder der auf Grund des § 17d Abs. 3 Satz 1 und 2 des Finanzdienstleistungsaufsichtsgesetzes erlassenen Rechtsverordnung oder
-
-4. einen Beitragsbescheid nach § 8 des Anlegerentschädigungsgesetzes oder § 26 Absatz 1 oder 2 oder § 27 Absatz 1 des Einlagensicherungsgesetzes richtet, beträgt die Gebühr bis zu 10 Prozent des streitigen Betrages; Absatz 5 bleibt unberührt.
-
-Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, ist keine Gebühr zu erheben. Das Verfahren zur Entscheidung über einen Widerspruch, der sich ausschließlich gegen die festgesetzte Widerspruchsgebühr richtet, ist gebührenfrei.
-
-(5) Die Gebühr beträgt in den Fällen der Absätze 2, 3 und 4 Satz 1 bis 3 mindestens 50 Euro.
-
-# § 4 – (weggefallen)
+# §§ 1 bis 4 – (weggefallen)
 
 # §§ 5 bis 12b – (weggefallen)
 
@@ -64,6 +32,8 @@ Die Umlage-Verordnung Kredit- und Finanzdienstleistungswesen vom 8. März 1999 (
 # § 15 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
+
+# Anlage – (weggefallen)
 
 # Anlage – (zu § 2 Abs. 1)Gebührenverzeichnis
 

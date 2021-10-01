@@ -365,7 +365,7 @@ Schlussvorschriften
 
 § 42
 
-Gebühren und Auslagen
+(weggefallen)
 
  
 
@@ -1153,11 +1153,7 @@ Eine Beschäftigung von ehemaligen Mitarbeitern des Staatssicherheitsdienstes be
 
 (3) Die Erteilung eines Auftrags zur Verarbeitung von Informationen aus den Unterlagen ist nur dann zulässig, wenn die Verarbeitung beim Bundesarchiv mit eigenen Mitteln nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, der Auftragsverarbeiter unter besonderer Berücksichtigung der Eignung gerade für den Umgang mit diesen Informationen ausgewählt worden ist und er die Informationen ausschließlich entsprechend den Weisungen des Bundesarchivs verarbeitet.
 
-# § 42 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 13 und 15 bis 17 gegenüber nichtöffentlichen Stellen nach § 19 in Verbindung mit den §§ 20, 21 und 26 sowie nach den §§ 32 und 34 sind zur Deckung des Verwaltungsaufwands Gebühren und Auslagen zu erheben. In den Fällen des Widerrufs oder der Rücknahme eines Verwaltungsaktes, der Ablehnung oder Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie der Zurückweisung oder Zurücknahme eines Widerspruchs sind ebenfalls Gebühren zu erheben. Für Auskünfte an Betroffene, Dritte und nahe Angehörige Vermisster oder Verstorbener sowie für die ihnen gewährte Einsicht in die Unterlagen werden Gebühren und Auslagen nicht erhoben.
-
-(2) Das für Kultur und Medien zuständige Mitglied der Bundesregierung hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und hat in der Rechtsverordnung feste Sätze oder Rahmengebühren vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen abweichend von den Regelungen des Bundesgebührengesetzes bestimmt werden.
+# § 42 – (weggefallen)
 
 # § 42a – Gerichtsstand
 

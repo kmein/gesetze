@@ -288,13 +288,7 @@ h) das Führen der Stammdatendokumentation nach § 13 Abs. 1,
 
 (2) Rechtsverordnungen nach Absatz 1 Nr. 1a und 1b sind, soweit sie Fischereifahrzeuge betreffen, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft zu erlassen.
 
-# § 22a
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz können Gebühren und Auslagen erhoben werden.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
-
-(3) Für individuell zurechenbare öffentliche Leistungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
+# § 22a – (weggefallen)
 
 # § 22b
 

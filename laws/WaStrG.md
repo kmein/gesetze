@@ -615,11 +615,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-# § 47 – Gebühren- und Auslagenregelung
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 14, 14b, 14d, 28, 31, 32, 34, 37 dieses Gesetzes und § 75 Abs. 2 Satz 2 und 4 des Verwaltungsverfahrensgesetzes sowie nach den auf Grund der §§ 5, 27 und 46 erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+# § 47 – (weggefallen)
 
 # § 48 – Anforderungen der Sicherheit und Ordnung
 

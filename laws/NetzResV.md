@@ -85,7 +85,7 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 (1) Anlagen der Netzreserve dürfen ausschließlich außerhalb der Strommärkte nach Maßgabe der von den Übertragungsnetzbetreibern angeforderten Systemsicherheitsmaßnahmen eingesetzt werden.
 
-(2) Die Betreiber von Übertragungsnetzen setzen die Anlagen der Netzreserve auf Grundlage der ihnen zur Verfügung stehenden Prognosen unter Berücksichtigung der technischen Randbedingungen ein. Der Einsatz erfolgt nachrangig zu geeigneten Maßnahmen nach § 13 Absatz 1 Nummer 1 und 2 sowie § 13a Absatz 1 des Energiewirtschaftsgesetzes, soweit diese Maßnahmen zur Gewährleistung der Systemsicherheit nach § 2 Absatz 2 ausreichend sind.
+(2) Die Betreiber von Übertragungsnetzen setzen die Anlagen der Netzreserve auf Grundlage der ihnen zur Verfügung stehenden Prognosen unter Berücksichtigung der technischen Randbedingungen ein.
 
 # § 8 – Anzeigepflicht und Stilllegungsverbot bei geplanten Stilllegungen
 

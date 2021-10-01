@@ -355,7 +355,7 @@ Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird nach N
 
 # § 12 – Beratung durch den Ausschuss für Betriebssicherheit
 
-Der Ausschuss nach § 24 der Betriebssicherheitsverordnung berät das Bundesministerium für Arbeit und Soziales auch in Fragen der Sicherheit und des Gesundheitsschutzes bei lärm- oder vibrationsbezogenen Gefährdungen. § 24 Abs. 4 und 5 der Betriebssicherheitsverordnung gilt entsprechend.
+Der Ausschuss nach § 21 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 1 der Verordnung vom 28. Mai 2021 (BGBl. I S. 1224) geändert worden ist, berät das Bundesministerium für Arbeit und Soziales auch in Fragen der Sicherheit und des Gesundheitsschutzes bei lärm- oder vibrationsbezogenen Gefährdungen. § 21 Absatz 4 und 5 der Betriebssicherheitsverordnung gilt entsprechend.
 
 # § 13 – (weggefallen)
 

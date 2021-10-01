@@ -5,7 +5,7 @@
 
 Diese Verordnung trifft Regelungen
 
-1. zur Vermarktung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Stroms durch die Übertragungsnetzbetreiber nach § 59 des Erneuerbare-Energien-Gesetzes,
+1. zur Vermarktung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms durch die Übertragungsnetzbetreiber nach § 59 des Erneuerbare-Energien-Gesetzes,
 
 2. zur Ermittlung und Veröffentlichung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
 
@@ -15,7 +15,7 @@ Diese Verordnung trifft Regelungen
 
 # § 2 – Vermarktung durch die Übertragungsnetzbetreiber
 
-Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Strom nur am Spotmarkt einer Strombörse nach Maßgabe der Erneuerbare-Energien-Ausführungsverordnung vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.
+Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom nur am Spotmarkt einer Strombörse nach Maßgabe der Erneuerbare-Energien-Ausführungsverordnung vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 

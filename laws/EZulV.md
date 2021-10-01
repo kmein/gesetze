@@ -3,6 +3,8 @@
  
 # Inhaltsübersicht
 
+# Inhaltsübersicht
+
 # § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Gewährung von Zulagen zur Abgeltung besonderer, bei der Bewertung des Amtes oder bei der Regelung der Anwärterbezüge nicht berücksichtigter Erschwernisse (Erschwerniszulagen) für Empfänger von Dienstbezügen und Anwärterbezügen des Bundes. Durch eine Erschwerniszulage wird ein mit der Erschwernis verbundener Aufwand mit abgegolten.
@@ -415,11 +417,13 @@ b) infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorg
 
 # § 20 – (weggefallen)
 
-# § 21 – Zulage für besondere Dienste in der Gesundheits- und Krankenpflege
+# § 21 – Zulage für allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege
 
-(1) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die für die in Absatz 2 oder 3 genannten, besonderen Dienste in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage.
+(1) Beamte und Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage von monatlich 70 Euro.
 
-(2) Eine Zulage von monatlich 70 Euro erhält, wer
+(2) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die für die in Absatz 3 oder 4 genannten besonderen Dienste in der Gesundheits- und Krankenpflege verwendet werden, erhalten neben der Zulage nach Absatz 1 eine weitere Zulage.
+
+(3) Eine Zulage von monatlich 70 Euro erhält, wer
 
 1. in psychiatrischen oder neurologischen Kliniken, Abteilungen oder auf psychiatrischen oder neurologischen Stationen ständig Patienten mit psychiatrischem oder neurologischem Krankheitsbild pflegt,
 
@@ -427,21 +431,21 @@ b) infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorg
 
 3. ständig Patienten mit psychiatrischem oder neurologischem Krankheitsbild bei der Arbeitstherapie beaufsichtigt oder ständig mit diesen Patienten zu arbeitstherapeutischen Zwecken zusammenarbeitet.
 
-(3) Eine Zulage von monatlich 150 Euro erhält, wer überwiegend
+(4) Eine Zulage von monatlich 150 Euro erhält, wer überwiegend
 
 1. in der Anästhesiepflege, in der Intensivmedizin oder im Operationsdienst einschließlich der Vor- und Nachbereitung tätig ist oder
 
 2. Patienten pflegt, die nach § 15 des Elften Buches Sozialgesetzbuch mit schweren Beeinträchtigungen der Selbstständigkeit dem Pflegegrad 3 oder einem höheren Pflegegrad zugeordnet sind.
 
-(4) Eine Zulage nach Absatz 2 oder 3 erhält auch, wer die unmittelbare Aufsicht über die vorstehend genannten und ihm ständig unterstellten Beamten und Soldaten wahrnimmt und dessen ständiger Vertreter.
+(5) Eine Zulage nach Absatz 3 oder 4 erhält auch, wer die unmittelbare Aufsicht über die vorstehend genannten und ihm ständig unterstellten Beamten und Soldaten wahrnimmt und dessen ständiger Vertreter.
 
-(5) Sofern die Voraussetzungen nach den Absätzen 2 und 3 gleichzeitig erfüllt sind, wird nur die höhere Zulage gewährt.
+(6) Sofern die Voraussetzungen nach den Absätzen 3 und 4 gleichzeitig erfüllt sind, wird nur die höhere Zulage gewährt.
 
 # § 21a – Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten
 
 (1) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage von monatlich 90 Euro, wenn sie in dafür dauerhaft oder zeitweise eingerichteten Behandlungseinheiten in kurativen Sanitätseinrichtungen überwiegend bei der Behandlung und Pflege von Patienten tätig sind, die an einer Krankheit nach § 6 Absatz 1 oder Absatz 2 des Infektionsschutzgesetzes in der am 23. Mai 2020 geltenden Fassung erkrankt sind.
 
-(2) Sofern neben den Voraussetzungen nach Absatz 1 auch die Voraussetzungen nach § 21 Absatz 2 oder 3 erfüllt sind, wird nur die höhere Zulage gewährt.
+(2) Sofern neben den Voraussetzungen nach Absatz 1 auch die Voraussetzungen nach § 21 Absatz 3 oder 4 erfüllt sind, wird nur die höhere Zulage gewährt.
 
 # § 22 – Zulage für besondere Einsätze
 

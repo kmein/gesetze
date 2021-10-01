@@ -3457,7 +3457,7 @@ c) die Bewachung von Schiffen und Luftfahrzeugen;
 
 11. Kosten einer Erzwingungshaft;
 
-12. nach dem Auslandskostengesetz im Rahmen der Amtshilfe zu zahlende Beträge;
+12. nach § 12 des Bundesgebührengesetzes, dem 5. Abschnitt des Konsulargesetzes und der Besonderen Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes im Rahmen der Amtshilfe zu zahlende Beträge;
 
 13. Gebühren, die an deutsche Behörden für die Erfüllung von deren eigenen Aufgaben zu zahlen sind, und Beträge, die diesen Behörden, öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für Auslagen der in den Nummern 1 bis 11 bezeichneten Art zustehen, und zwar auch dann, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind; die Auslagen sind in ihrer Höhe durch die Höchstsätze für die bezeichneten Auslagen begrenzt;
 

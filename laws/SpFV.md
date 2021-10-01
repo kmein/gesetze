@@ -209,7 +209,7 @@ Der Bewerber muss den Antrag unterschreiben.
 
 1. wenn die Voraussetzungen nach den Absätzen 1 und 2 erfüllt sind und
 
-2. die Gebühren nach § 18 bezahlt worden sind.
+2. die Gebühren nach einer Besonderen Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 22 Absatz 4 des Bundesgebührengesetzes bezahlt worden sind.
 
 (5) Eine förmliche Zulassung ist nicht erforderlich. Sie kann durch die Einladung zur Prüfung erfolgen.
 
@@ -355,7 +355,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 4. die Erteilung erforderlicher Auflagen (§ 6 Absatz 4) und
 
-5. die Erhebung von Gebühren und Auslagen nach Maßgabe des § 18.
+5. die Erhebung von Gebühren und Auslagen nach Maßgabe einer Besonderen Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 22 Absatz 4 des Bundesgebührengesetzes.
 
 (2) Die beliehenen Verbände unterstehen bei der Erfüllung der ihnen übertragenen Aufgaben der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur. Das Bundesministerium für Verkehr und digitale Infrastruktur bedient sich bei der Durchführung der Fachaufsicht über die beliehenen Verbände der Generaldirektion Wasserstraßen und Schifffahrt. Die beliehenen Verbände haben die ihnen übertragenen Aufgaben nach Maßgabe dieser Verordnung und der vom Bundesministerium für Verkehr und digitale Infrastruktur zu ihrer Durchführung erlassenen Richtlinien wahrzunehmen.
 
@@ -387,20 +387,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 (3) Es ist sicherzustellen, dass die beliehenen Verbände jederzeit Zugriff auf das Verzeichnis haben.
 
-# § 18 – Gebühren und Auslagen
-
-(1) Es werden nachfolgende Gebühren und Auslagen erhoben, die als Vorauszahlung zu erheben sind:  
-
-<table width="100%" style="border-collapse: collapse;"><colgroup><col style="width: 7%" /><col style="width: 69%" /><col style="width: 24%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;"> 1.</td><td style="text-align: left;">für die Zulassung zur Prüfung</td><td style="text-align: left;">14,00 Euro</td></tr><tr class="even"><td style="text-align: center;"> 2.</td><td style="text-align: left;">für die theoretische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel</td><td style="text-align: left;">26,00 Euro</td></tr><tr class="odd"><td style="text-align: center;"> 3.</td><td style="text-align: left;">für die theoretische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen mit Antriebsmaschine</td><td style="text-align: left;">28,00 Euro</td></tr><tr class="even"><td style="text-align: center;"> 4.</td><td style="text-align: left;">für die theoretische Prüfung zur Führung von Fahrzeugen auf Seeschifffahrtsstraßen</td><td style="text-align: left;">34,00 Euro</td></tr><tr class="odd"><td style="text-align: center;"> 5.</td><td style="text-align: left;">für die theoretischen Prüfungen zur Führung von Fahrzeugen unter Segel und Antriebsmaschine auf Binnenschifffahrtsstraßen, wenn beide Prüfungen am selben Tag stattfinden</td><td style="text-align: left;">38,00 Euro</td></tr><tr class="even"><td style="text-align: center;"> 6.</td><td style="text-align: left;">für die praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel oder Antriebsmaschine</td><td style="text-align: left;">29,00 Euro</td></tr><tr class="odd"><td style="text-align: center;"> 7.</td><td style="text-align: left;">für die praktische Prüfung zur Führung von Fahrzeugen auf Seeschifffahrtsstraßen</td><td style="text-align: left;">33,00 Euro</td></tr><tr class="even"><td style="text-align: center;"> 8.</td><td style="text-align: left;">für die praktischen Prüfungen zur Führung von Fahrzeugen unter Segel und Antriebsmaschine auf Binnenschifffahrtsstraßen, wenn beide Prüfungen am selben Tag stattfinden</td><td style="text-align: left;">42,00 Euro</td></tr><tr class="odd"><td style="text-align: center;"> 9.</td><td style="text-align: left;">für die Fahrerlaubnis</td><td style="text-align: left;">23,00 Euro</td></tr><tr class="even"><td style="text-align: center;">10.</td><td style="text-align: left;">für die Fahrerlaubnis ohne Prüfung</td><td style="text-align: left;">32,00 Euro</td></tr><tr class="odd"><td style="text-align: center;">11.</td><td style="text-align: left;">für die nachträgliche Erteilung oder Streichung von Auflagen</td><td style="text-align: left;">8,00 Euro</td></tr><tr class="even"><td style="text-align: center;">12.</td><td style="text-align: left;">für die Ersatzausfertigung</td><td style="text-align: left;">32,00 Euro</td></tr><tr class="odd"><td style="text-align: center;">13.</td><td style="text-align: left;">für die vorläufige Fahrerlaubnis</td><td style="text-align: left;">15,00 Euro</td></tr><tr class="even"><td style="text-align: center;">14.</td><td style="text-align: left;">für die Ablehnung eines Antrages aus anderen Gründen als Unzuständigkeit</td><td style="text-align: left;">75 Prozent der Gebühr nach den Nummern 1, 9, 10, 11, 12 oder 13</td></tr><tr class="odd"><td style="text-align: center;">15.</td><td style="text-align: left;">für die Entziehung der Fahrerlaubnis (§ 13) oder die Anordnung über das Ruhen der Fahrerlaubnis (§ 14)</td><td style="text-align: left;">65,00 bis 195,00 Euro</td></tr><tr class="even"><td style="text-align: center;">16.</td><td style="text-align: left;">für die vollständige oder teilweise Zurückweisung eines Widerspruchs gegen eine Sachentscheidung,<br />
-soweit die Erfolglosigkeit des Widerspruchs nicht nur auf der Unbeachtlichkeit der Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes beruht</td><td style="text-align: left;">100 Prozent der Gebühr, die für die angefochtene individuell zurechenbare öffentliche Leistung vorgesehen ist</td></tr><tr class="odd"><td style="text-align: center;">17.</td><td style="text-align: left;">In den Fällen der Rücknahme eines Widerspruchs gegen eine Sachentscheidung nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung</td><td style="text-align: left;">75 Prozent der Gebühr, die für die angefochtene individuell zurechenbare öffentliche Leistung vorgesehen ist</td></tr></tbody></table>
-
-(2) Die Gebühren nach Absatz 1 schließen die Reisekosten der Prüfer sowie etwaige Raumkosten ein. Abweichend von Satz 1 werden für Prüfungen an der Mittelmeer- und Atlantikküste zusätzlich Reisekosten in Höhe von 38,00 Euro je Bewerber erhoben.
-
-(3) Die Gebühr nach Absatz 1 Nummer 1 wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
-
-(4) Die Gebühren und Auslagen nach Absatz 1 Nummer 15 sowie nach den Nummern 16 und 17, sofern sie in Zusammenhang mit Nummer 15 stehen, werden von der Generaldirektion Wasserstraßen und Schifffahrt festgesetzt und eingezogen. In den übrigen Fällen werden die Gebühren von den beliehenen Verbänden festgesetzt und eingezogen.
-
-# § 19 – Ordnungswidrigkeiten
+# § 18 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -423,20 +410,6 @@ soweit die Erfolglosigkeit des Widerspruchs nicht nur auf der Unbeachtlichkeit d
 2. eine in Absatz 1 Nummer 2 bis 6 bezeichnete Handlung in Bezug auf den Geltungsbereich Seeschifffahrtsstraßen begeht.
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
-
-# § 20 – Übergangsvorschriften
-
-(1) Für die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die vor dem 10. Mai 2017 beantragt oder begonnen, aber noch nicht vollständig erbracht wurden, ist je nach Geltungsbereich die Sportbootführerscheinverordnung-Binnen oder die Sportbootführerscheinverordnung-See, jeweils in der bis zum 10. Mai 2017 geltenden Fassung weiter anzuwenden.
-
-(2) Bis zum 31. Dezember 2017 wird der Sportbootführerschein für den Geltungsbereich Binnenschifffahrtsstraßen nach dem Muster der Sportbootführerscheinverordnung-Binnen in der bis zum 10. Mai 2017 geltenden Fassung, der Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen nach dem Muster der Sportbootführerscheinverordnung-See in der bis zum 10. Mai 2017 geltenden Fassung ausgestellt.
-
-(3) Bis zum 31. Dezember 2017 gelten abweichend von § 18 Absatz 1 Nummer 9, 10 und 12 die folgenden Gebührensätze:
-
-|      |                                    |            |
-|:----:|:-----------------------------------|:-----------|
-|  9.  | für die Fahrerlaubnis              | 18,00 Euro |
-| 10\. | für die Fahrerlaubnis ohne Prüfung | 27,00 Euro |
-| 12\. | für die Ersatzausfertigung         | 27,00 Euro |
 
 # Anlage 1 – (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein
 

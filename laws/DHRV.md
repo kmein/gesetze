@@ -479,21 +479,9 @@ Das Paul-Ehrlich-Institut veröffentlicht auf seiner Internetseite die Nutzungsv
 
 (3) Das Paul-Ehrlich-Institut veröffentlicht die in den Absätzen 1 und 2 genannten Publikationsgrundsätze auf seiner Internetseite.
 
-# § 28 – Gebührenerhebung
+# § 28 – (weggefallen)
 
-Das Paul-Ehrlich-Institut erhebt für individuell zurechenbare öffentliche Leistungen Gebühren nach der Anlage zu dieser Verordnung.
-
-# § 29 – Gebührenbemessung, Gebühren in besonderen Fällen
-
-(1) Erfordert eine gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich hohen Personal- und Sachaufwand, so kann das Paul-Ehrlich-Institut die nach § 28 in Verbindung mit der Anlage vorgesehene Gebühr bis auf das Doppelte erhöhen. Ist mit einer Erhöhung der Gebühr zu rechnen, so ist der Gebührenschuldner zu hören. Das Paul-Ehrlich-Institut hat die Erhöhung zu begründen.
-
-(2) Das Paul-Ehrlich-Institut kann die Gebühr bis auf die Hälfte der vorgesehenen Gebühr ermäßigen, wenn der mit der Leistung verbundene Personal- und Sachaufwand die Ermäßigung rechtfertigt. Für darüber hinausgehende Gebührenermäßigungen sowie Gebührenbefreiungen ist § 9 Absatz 4 und 5 des Bundesgebührengesetzes anzuwenden.
-
-(3) In den Fällen des § 10 Absatz 1 Satz 1 Nummer 1 bis 3 des Bundesgebührengesetzes sind die Gebühren nach Maßgabe des § 10 Absatz 2 bis 5 des Bundesgebührengesetzes festzusetzen.
-
-(4) Von den Gebühren nach § 28 befreit sind öffentlich finanzierte universitäre Forschungseinrichtungen sowie Patientenorganisationen.
-
-(5) Die Gebührenfreiheit nach § 7 Nummer 1 und 2 des Bundesgebührengesetzes bleibt unberührt.
+# § 29 – (weggefallen)
 
 # § 30 – Grundsätze
 

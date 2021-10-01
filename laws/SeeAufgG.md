@@ -451,21 +451,7 @@ Die Daten können auch unter Zuhilfenahme und Auswertung automatischer Schiffsid
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Übermittlung von Unterlagen, die sich auf das Schifffahrtsgeschäft beziehen (insbesondere Verträge, Protokolle, Briefe, Studien, Marktberichte, Statistiken, Gutachten) und die Erteilung von Auskünften hierüber an Behörden und sonstige Stellen des Auslandes zu verbieten oder von einer Genehmigung abhängig zu machen, soweit dies erforderlich ist, um die deutsche Seeschifffahrt in der Freiheit ihrer wirtschaftlichen Betätigung zu schützen.
 
-# § 12
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 1, 2 Absatz 2 und den auf Grund der §§ 7, 7a, 9 Absatz 1 bis 4 und der §§ 9a bis 9c, 9e Absatz 2 sowie den §§ 11 und 14 erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen auch die auf die Gebühren und Auslagen nach Satz 1 entfallende Umsatzsteuer.<span id="FnR.f794428_01"></span><a href="#f794428_01" class="FnR">1</a></sup>
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.¹
-
-(3) Die zuständige Behörde kann für die Überprüfung eines Schiffes unter fremder Flagge in einem deutschen Hafen vor dem Auslaufen des Schiffes eine Sicherheitsleistung bis zur Höhe der voraussichtlich hierfür entstehenden Gebühren und Auslagen entgegennehmen.<span id="FnR.f794428_02"></span><a href="#f794428_02" class="FnR">2</a></sup>
-
-(4) Für Amtshandlungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
-
-# § 13 – 3
-
-(1) Für das Befahren des Nord-Ostsee-Kanals sowie für die Inanspruchnahme bundeseigener Häfen werden von demjenigen, der den Nord-Ostsee-Kanal befährt oder der bundeseigene Häfen in Anspruch nimmt, Abgaben erhoben. Abgabenschuldner ist auch der Eigentümer des Schiffes. Mehrere Schuldner haften als Gesamtschuldner. Abgabengläubiger ist der Bund.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Höhe der Abgaben näher zu bestimmen. Soweit die Rechtsverordnung Abgaben für das Befahren des Nord-Ostsee-Kanals betrifft, sind vor ihrem Erlass die Küstenländer zu hören. Die Abgaben sind so zu bemessen, dass ihr Aufkommen höchstens die Ausgaben für den Kanal und die bundeseigenen Häfen einschließlich derjenigen für Betrieb und Unterhaltung deckt; die Wettbewerbslage des Kanals und der Nutzen, den der Abgabepflichtige von dem Befahren des Kanals oder der Inanspruchnahme der bundeseigenen Häfen hat, sind zu berücksichtigen. In der Rechtsverordnung können die zu erstattenden Auslagen, die Fälligkeit, die Verjährung, die Befreiung von der Zahlungspflicht sowie das Erhebungsverfahren geregelt werden.
+# § 13
 
 # § 14
 

@@ -745,11 +745,7 @@ so kann die Bundesanstalt diesen Umstand auf ihrer Internetseite öffentlich bek
 
 (4) Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen.
 
-# § 27 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen kann die Bundesanstalt Gebühren und Auslagen erheben.
-
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände und die Gebührensätze näher zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+# § 27 – (weggefallen)
 
 # § 28 – Strafvorschriften
 

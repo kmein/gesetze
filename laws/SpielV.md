@@ -287,32 +287,7 @@ b) während des Spielbetriebs keine Daten auf dem verwendeten Identifikationsmit
 
 (6) Der Zulassungsbeleg und das Zulassungszeichen erhalten jeweils für ein Nachbaugerät dieselbe fortlaufende Nummer.
 
-# § 17
-
-(1) Die Physikalisch-Technische Bundesanstalt erhebt für
-
-1. die Prüfung und Zulassung der Bauart eines Spielgerätes und
-
-2. die Erteilung eines Zulassungsbeleges einschließlich des Zulassungszeichens
-
-von dem Antragsteller Gebühren und Auslagen.
-
-(2) Die Gebühren für die Prüfung und die Zulassung der Bauart eines Spielgerätes sind nach der dafür aufgewendeten Arbeitszeit zu bemessen. Hierbei sind als Stundensätze zugrunde zu legen  
-
-|     |                                                                 |          |
-|:----|:----------------------------------------------------------------|---------:|
-| 1\. | für Beamte des höheren Dienstes und vergleichbare Angestellte   | 67 Euro, |
-| 2\. | für Beamte des gehobenen Dienstes und vergleichbare Angestellte | 55 Euro, |
-| 3\. | für sonstige Bedienstete                                        | 47 Euro. |
-
-  
-Für jede angefangene Viertelstunde ist ein Viertel dieser Stundensätze zu berechnen.
-
-(3) (weggefallen)
-
-(4) Die Gebühr für die Erteilung eines Zulassungsbeleges einschließlich des Zulassungszeichens sowie für den Umtausch dieser Unterlagen beträgt 15 Euro.
-
-(5) Außer den in § 10 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung genannten Auslagen sind vom Antragsteller die Aufwendungen zu erstatten, die durch beantragte Ergänzungsarbeiten notwendig werden.
+# § 17 – (weggefallen)
 
 # § 18
 

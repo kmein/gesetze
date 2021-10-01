@@ -59,7 +59,9 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 21. den Kompatibilitätszusagen des Herstellers der digitalen Gesundheitsanwendung in Bezug auf unterstützte Plattformen und Geräte sowie erforderliche Zusatzprodukte,
 
-22. den zur Herstellung von semantischer und technischer Interoperabilität der digitalen Gesundheitsanwendung genutzten Standards und Profilen,
+21a. den von der digitalen Gesundheitsanwendung nach § 4 Absatz 1 Satz 1 Nummer 1 verarbeiteten Daten, zu deren Darstellbarkeit mittels internationaler Semantikstandards und, bei Antragstellung ab 1. August 2022, zu deren Abbildbarkeit mittels der jeweils geltenden Festlegung für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch,
+
+22. den zur Herstellung von semantischer und technischer Interoperabilität der digitalen Gesundheitsanwendung genutzten Standards und Profilen sowie zu den menschenlesbaren Exportformaten,
 
 23. der Höhe der Deckungssumme der vom Hersteller für Personenschäden abgeschlossenen Haftpflichtversicherung,
 
@@ -74,6 +76,8 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 (3) Der Hersteller bestimmt in dem Antrag, ob er eine dauerhafte Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 2 des Fünften Buches Sozialgesetzbuch beantragt oder eine vorläufige Aufnahme zur Erprobung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch.
 
 (4) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und Medizinprodukte in dem Antrag einen kostenfreien Zugang zu der digitalen Gesundheitsanwendung zur Verfügung.
+
+(5) Angaben des Herstellers nach Absatz 1 Satz 2, die nach § 20 Absatz 2 zur Veröffentlichung in dem Verzeichnis für digitale Gesundheitsanwendungen bestimmt sind, erfolgen in deutscher Sprache.
 
 # § 3 – Anforderungen an Sicherheit und Funktionstauglichkeit
 
@@ -99,7 +103,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von einer Einwilligung in die Datenverarbeitung für Zwecke nach Satz 1 Nummer 1 bis 3 einzuholen. Datenverarbeitungsbefugnisse nach anderen Vorschriften bleiben unberührt.
 
-(3) Im Rahmen einer digitalen Gesundheitsanwendung darf die Verarbeitung von personenbezogenen Daten durch die digitale Gesundheitsanwendung selbst sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat erfolgen.
+(3) Die Verarbeitung von personenbezogenen Daten zu den Zwecken nach Absatz 2 darf im Rahmen einer digitalen Gesundheitsanwendung durch die digitale Gesundheitsanwendung selbst sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat erfolgen.
 
 (4) Eine Verarbeitung von personenbezogenen Daten zu anderen als den in Absatz 2 Satz 1 genannten Zwecken, insbesondere zu Werbezwecken, ist ausgeschlossen. Die Befugnis zur Datenverarbeitung nach anderen Vorschriften nach Absatz 2 Satz 3 bleibt unberührt.
 
@@ -108,6 +112,8 @@ Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von 
 (6) Das Nähere zu den Anforderungen nach den vorstehenden Absätzen bestimmt sich nach Anlage 1. Der Hersteller fügt seinem Antrag die Erklärung nach Anlage 1 bei. Erweisen sich die Vorgaben der Anlage 1 im Hinblick auf die Eigenschaften der digitalen Gesundheitsanwendung als ungeeignet, kann die digitale Gesundheitsanwendung im Einzelfall von den Vorgaben der Anlage 1 abweichen, wenn die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik durch eine abweichende Umsetzung gleichermaßen umgesetzt werden. In seinem Antrag legt der Hersteller die Abweichung von den Vorgaben der Anlage 1 dar und begründet diese.
 
 (7) Ab dem 1. Januar 2023 müssen digitale Gesundheitsanwendungen abweichend von den Anforderungen an die Datensicherheit nach Absatz 6 die von dem Bundesamt für Sicherheit in der Informationstechnik nach § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen an die Datensicherheit erfüllen.
+
+(8) Ab dem 1. April 2023 müssen digitale Gesundheitsanwendungen, abweichend von den Anforderungen an den Datenschutz nach Absatz 6, die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 139e Absatz 11 des Fünften Buches Sozialgesetzbuch festgelegten Prüfkriterien für die von digitalen Gesundheitsanwendungen nachzuweisenden Anforderungen an den Datenschutz umsetzen.
 
 # § 5 – Anforderungen an Qualität
 
@@ -135,11 +141,15 @@ Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von 
 
 # § 6 – Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität
 
-Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der elektronischen Patientenakte nach § 291b Absatz 1 Satz 7 des Fünften Buches Sozialgesetzbuch sowie die im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch empfohlenen Standards und Profile. Sofern keine geeignete Festlegung nach § 291b Absatz 1 Satz 7 des Fünften Buches Sozialgesetzbuch existiert und im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch keine geeignete, als empfohlen gekennzeichnete Interoperabilitätsfestlegung registriert ist, gelten auch offene, international anerkannte Schnittstellen- und Semantikstandards sowie vom Hersteller der digitalen Gesundheitsanwendung bereitgestellte Profile über offenen, international anerkannten Schnittstellen- und Semantikstandards oder über im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch registrierten Standards als interoperabel. Der Hersteller muss nach Satz 2 bereitgestellte Profile zur freien Nutzung veröffentlichen und deren Aufnahme in das Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch beantragen.
+Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch. Solange keine Festlegung für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch getroffen worden sind, gelten auch offene, international anerkannte Schnittstellen- und Semantikstandards und vom Hersteller der digitalen Gesundheitsanwendung bereitgestellte Profile über offenen, international anerkannten Schnittstellen- und Semantikstandards als interoperable Formate. Der Hersteller muss von ihm bereitgestellte Profile nach Satz 2 zur freien Nutzung in einem anerkannten Verzeichnis veröffentlichen.
 
 # § 6a – Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte
 
-Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2023 so zu gestalten, dass die von der digitalen Gesundheitsanwendung verarbeiteten Daten mit Einwilligung des Versicherten in einem interoperablen Format nach § 6 über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte des Versicherten nach § 341 des Fünften Buches Sozialgesetzbuch übermittelt werden können. Hierzu muss die digitale Gesundheitsanwendung ab dem 1. Januar 2023 über die von der Gesellschaft für Telematik nach § 354 Absatz 2 Nummer 6 des Fünften Buches Sozialgesetzbuch für den Datenaustausch festgelegte Schnittstelle verfügen.
+(1) Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2023 so zu gestalten, dass die von der digitalen Gesundheitsanwendung verarbeiteten Daten mit Einwilligung des Versicherten in die elektronische Patientenakte des Versicherten nach § 341 des Fünften Buches Sozialgesetzbuch übermittelt werden können. Hierzu muss die digitale Gesundheitsanwendung ab dem 1. Januar 2023 über die von der Gesellschaft für Telematik nach § 354 Absatz 2 Nummer 6 des Fünften Buches Sozialgesetzbuch für den Datenaustausch festgelegte Schnittstelle verfügen.
+
+(2) Ab dem 1. Januar 2023 ermöglichen digitale Gesundheitsanwendungen den Datenexport in die elektronische Patientenakte gemäß einer Festlegung für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch.
+
+(3) Die Hersteller digitaler Gesundheitsanwendungen setzen die Fortschreibungen der Festlegungen nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch innerhalb von sechs Monaten nach deren Veröffentlichung um.
 
 # § 7 – Nachweis durch Zertifikate
 
@@ -147,7 +157,9 @@ Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2023 so zu gestalten, dass
 
 (2) Der Nachweis nach Absatz 1 erfolgt unter Vorlage eines Zertifikates einer nach den Vorgaben der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) für diese Tätigkeit akkreditierten Zertifizierungsstelle. Die Zertifizierungsstelle muss für Zertifizierungen nach § 4 zusätzlich nach § 39 des Bundesdatenschutzgesetzes akkreditiert und zugelassen sein. Das Bundesinstitut für Arzneimittel und Medizinprodukte darf auf seinen Internetseiten bekannt machen, welche Zertifikate geeignet sind, die Erfüllung der Anforderungen nach den §§ 4 bis 6 zu belegen.
 
-(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis der Erfüllung der Anforderungen an die Informationssicherheit die Vorlage von Berichten über die Durchführung von Penetrationstests oder die Vorlage von Sicherheitsgutachten über die Komponenten und Dienste der digitalen Gesundheitsanwendung verlangen. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis der Erfüllung der Anforderungen an die Informationssicherheit spätestens ab dem 1. Januar 2022 zudem die Vorlage eines geeigneten Zertifikats oder Nachweises über ein Informationssicherheitsmanagement verlangen. Ab dem 1. Januar 2023 ist die Erfüllung der Anforderungen an die Datensicherheit durch ein Zertifikat des Bundesamts für Sicherheit in der Informationstechnik nach § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch nachzuweisen. Die Verpflichtung nach Satz 3 gilt sowohl für Hersteller digitaler Gesundheitsanwendungen, deren digitale Gesundheitsanwendung bereits in das Verzeichnis für digitale Gesundheitsanwendungen aufgenommen wurde, als auch für Hersteller, die die Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen erstmalig beantragen; im erstgenannten Fall ist der Nachweis im Verfahren nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch zu erbringen.
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis der Erfüllung der Anforderungen an die Informationssicherheit die Vorlage von Berichten über die Durchführung von Penetrationstests oder die Vorlage von Sicherheitsgutachten über die Komponenten und Dienste der digitalen Gesundheitsanwendung verlangen. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis der Erfüllung der Anforderungen an die Informationssicherheit spätestens ab dem 1. April 2022 zudem die Vorlage eines geeigneten Zertifikats oder Nachweises über ein Informationssicherheitsmanagement verlangen. Ab dem 1. Januar 2023 ist die Erfüllung der Anforderungen an die Datensicherheit durch ein Zertifikat des Bundesamts für Sicherheit in der Informationstechnik nach § 139e Absatz 10 des Fünften Buches Sozialgesetzbuch nachzuweisen. Die Verpflichtung nach Satz 2 und 3 gilt sowohl für Hersteller digitaler Gesundheitsanwendungen, deren digitale Gesundheitsanwendung bereits in das Verzeichnis für digitale Gesundheitsanwendungen aufgenommen wurde, als auch für Hersteller, die die Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen erstmalig beantragen; im erstgenannten Fall ist der Nachweis im Verfahren nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch zu erbringen.
+
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann zum Nachweis der Erfüllung der Anforderungen an den Datenschutz spätestens ab dem 1. April 2023 die Vorlage eines Zertifikats nach § 139e Absatz 11 Satz 2 des Fünften Buches Sozialgesetzbuch verlangen. Die Verpflichtung nach Satz 1 gilt sowohl für Hersteller digitaler Gesundheitsanwendungen, deren digitale Gesundheitsanwendung bereits in das Verzeichnis für digitale Gesundheitsanwendungen aufgenommen wurde, als auch für Hersteller, die die Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen erstmalig beantragen; im erstgenannten Fall ist der Nachweis im Verfahren nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch zu erbringen.
 
 # § 8 – Begriff der positiven Versorgungseffekte
 
@@ -262,13 +274,15 @@ b) Datenschutz und Datensicherheit oder
 
 c) den Nachweis der positiven Versorgungseffekte, einschließlich Änderungen der Patientengruppen, für die die positiven Versorgungseffekte einer digitalen Gesundheitsanwendung nachgewiesen wurden oder werden sollen.
 
+Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und Informationen in dem Verzeichnis für digitale Gesundheitsanwendungen stellen keine wesentlichen Veränderungen nach Satz 1 dar. Der Hersteller teilt dem Bundesinstitut für Arzneimittel und Medizinprodukte die Erforderlichkeit redaktioneller Änderungen durch einfache Anzeige mit.
+
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den Herstellern digitaler Gesundheitsanwendungen elektronisch einen Prüfbogen zur Verfügung, der die Hersteller bei der Einschätzung unterstützt, ob es sich bei einer Veränderung der digitalen Gesundheitsanwendung um eine wesentliche Veränderung nach Absatz 1 handelt. In dem Prüfbogen weist das Bundesinstitut für Arzneimittel und Medizinprodukte die Hersteller auf die Rechtsfolgen einer unterlassenen Anzeige nach § 139e Absatz 6 Satz 5 und 6 des Fünften Buches Sozialgesetzbuch hin.
 
 # § 19 – Verfahren bei wesentlichen Veränderungen
 
 (1) Eine Änderung oder Ergänzung der Anzeige nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch oder des Antrags auf Streichung einer digitalen Gesundheitsanwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 6 Satz 7 des Fünften Buches Sozialgesetzbuch ist nach Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte nur noch auf dessen Anforderung nach Absatz 2 möglich.
 
-(2) Sofern sich im Laufe der Bewertung durch das Bundesinstitut für Arzneimittel und Medizinprodukte herausstellt, dass die Angaben der Anzeige nicht ausreichen, um über die Erforderlichkeit der Anpassung des Verzeichnisses für digitale Gesundheitsanwendungen oder über die Streichung der Anwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen zu entscheiden, kann es den Hersteller einmalig auffordern, die Angaben innerhalb einer Frist von bis zu drei Monaten zu ergänzen.
+(2) Sofern sich im Laufe der Bewertung durch das Bundesinstitut für Arzneimittel und Medizinprodukte herausstellt, dass die Angaben der Anzeige nicht ausreichen, um über die Erforderlichkeit der Anpassung des Verzeichnisses für digitale Gesundheitsanwendungen oder über die Streichung der Anwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen zu entscheiden, kann es den Hersteller auffordern, die Angaben innerhalb einer Frist von bis zu drei Monaten zu ergänzen.
 
 # § 20 – Inhalte des elektronischen Verzeichnisses
 
@@ -296,9 +310,9 @@ c) den Nachweis der positiven Versorgungseffekte, einschließlich Änderungen de
 
 (1) In dem Verzeichnis für digitale Gesundheitsanwendungen werden weitere Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies für die Information der Leistungserbringer, für die Unterstützung einer informierten Nutzungsentscheidung seitens der Patienten und für die qualitätsgesicherte Anwendung der digitalen Gesundheitsanwendung erforderlich ist.
 
-(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 20 Absatz 2 und 3 durch Dritte, sofern dies für die Verwendung von elektronischen Verordnungen der Leistungen nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch.
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 20 Absatz 2 und 3 durch Dritte, sofern dies für die Verwendung von elektronischen Verordnungen der Leistungen nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch erforderlich ist. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit der Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
 
-(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt spätestens ab dem 1. Januar 2021 die in § 20 Absatz 2 und 3 aufgeführten Angaben
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 20 Absatz 2 und 3 aufgeführten Angaben
 
 1. Dritten nach § 303e Absatz 1 des Fünften Buches Sozialgesetzbuch,
 
@@ -306,9 +320,9 @@ c) den Nachweis der positiven Versorgungseffekte, einschließlich Änderungen de
 
 3. gemeinnützigen juristischen Personen des Privatrechts
 
-auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung. Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten, bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Der Dritte nach Satz 1 hat zu gewährleisten, dass die Herkunft der Daten für Versicherte, Leistungserbringer und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch.
+auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung. Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten, bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Der Dritte nach Satz 1 hat zu gewährleisten, dass die Herkunft der Daten für Versicherte, Leistungserbringer und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis internationaler anerkannter Standards und beantragt deren Aufnahme in das Interoperabilitätsverzeichnis nach § 385 des Fünften Buches Sozialgesetzbuch.
 
-(4) Spätestens ab dem 1. Januar 2021 veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte die in dem Verzeichnis für digitale Gesundheitsanwendungen enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die in dem Verzeichnis für digitale Gesundheitsanwendungen enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
 
 (5) Spätestens ab dem 1. Januar 2022 veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte die in dem Verzeichnis nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch enthaltenen Angaben nach § 20 Absatz 2 und 3 auf einem barrierefreien Webportal in einer für Patientinnen und Patienten und Leistungserbringer intuitiv zugänglichen Struktur, Form und Darstellung.
 
@@ -370,7 +384,9 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (2) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 300 und höchstens 1 000 Euro.
 
-(3) Die Gebühr für die Streichung einer digitalen Gesundheitsanwendung gemäß § 139e Absatz 6 Satz 6 und 7 des Fünften Buches Sozialgesetzbuch beträgt 200 Euro.
+(3) Die Gebühr für die Streichung einer digitalen Gesundheitsanwendung gemäß § 139e Absatz 6 Satz 6 und 9 des Fünften Buches Sozialgesetzbuch beträgt 200 Euro.
+
+(4) Die einfache Anzeige im Umfang geringfügiger und lediglich redaktioneller Änderungen von Angaben und Informationen nach § 18 Absatz 1 Satz 2 und 3 ist hiervon ausgenommen.
 
 # § 27 – Gebühr für Beratungen
 

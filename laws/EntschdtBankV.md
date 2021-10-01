@@ -7,11 +7,15 @@ Auf Grund des § 7 Abs. 1 Satz 1 und 3 des Einlagensicherungs- und Anlegerentsch
 
 # § 1
 
-Der Entschädigungseinrichtung deutscher Banken GmbH werden die Aufgaben und Befugnisse einer Entschädigungseinrichtung für die in § 24 Absatz 1 Nummer 1 des Einlagensicherungsgesetzes genannten privatrechtlichen Institute zugewiesen.
+Der Entschädigungseinrichtung deutscher Banken GmbH werden die Aufgaben und Befugnisse der gesetzlichen Entschädigungseinrichtung für alle ihr nach § 24 Absatz 2 des Einlagensicherungsgesetzes zugeordneten CRR-Kreditinstitute zugewiesen.
 
 # § 2
 
 Die Entschädigungseinrichtung deutscher Banken GmbH hat dem Bundesministerium der Finanzen Änderungen des Gesellschaftsvertrags zur Genehmigung vorzulegen.
+
+# § 2a
+
+Die Entschädigungseinrichtung deutscher Banken GmbH folgt der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH im Sinne des § 25a Absatz 2 Satz 1 des Einlagensicherungsgesetzes nach.
 
 # § 3
 

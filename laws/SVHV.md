@@ -162,9 +162,11 @@ Leistungen an Stellen außerhalb des Versicherungsträgers zur Erfüllung bestim
 
 Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach Maßgabe des § 9 Abs. 1 oder des Deckungsvermerks zugunsten einer anderen Ausgabe verwendet werden.
 
-# § 20 – Einweisung in eine Stelle für Beamte
+# § 20 – Einweisung in eine Planstelle für Beamtinnen und Beamte
 
-Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Stelle für Beamte verliehen werden.
+(1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Planstelle für Beamtinnen und Beamte verliehen werden.
+
+(2) Wer als Beamtin oder Beamter befördert wird, kann mit Wirkung vom Ersten des Monats, in dem die Ernennung wirksam geworden ist, in die entsprechende, zu diesem Zeitpunkt besetzbare Planstelle eingewiesen werden. Die Einweisung in eine besetzbare Planstelle kann mit Rückwirkung von höchstens drei Monaten zum Ersten eines Monats erfolgen, wenn die Beamtin oder der Beamte während dieser Zeit die Obliegenheiten dieses oder eines gleichwertigen Amtes wahrgenommen und die beamtenrechtlichen Voraussetzungen für die Beförderung erfüllt hat. Die Sätze 1 und 2 gelten nicht für landesunmittelbare Versicherungsträger, soweit für diese eine rückwirkende Einweisung in eine Planstelle nach den jeweils geltenden landesgesetzlichen Vorschriften unzulässig ist.
 
 # § 21 – Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -172,11 +174,11 @@ Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Stelle für Beam
 
 (2) Größeren Beschaffungen und größeren Entwicklungsvorhaben sind ausreichende Unterlagen zugrunde zu legen.
 
-# § 22 – Öffentliche Ausschreibung
+# § 22 – Öffentliche Aufträge
 
-(1) Dem Abschluß von Verträgen über Lieferungen und Leistungen mit Ausnahme der Verträge, die der Erbringung gesetzlicher oder satzungsmäßiger Versicherungsleistungen dienen, muss eine öffentliche Ausschreibung vorausgehen. Hiervon kann abgesehen werden, sofern die Natur des Geschäfts oder besondere Umstände dies rechtfertigen.
+(1) Bei der Vergabe öffentlicher Aufträge und dem Abschluss von Rahmenvereinbarungen unterhalb der jeweiligen EU-Schwellenwerte ist zu verfahren nach einheitlichen Richtlinien entsprechend der Unterschwellenvergabeordnung in der Fassung der Bekanntmachung vom 2. Februar 2017 (BAnz AT 07.02.2017 B1) oder Teil A der Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2). Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen. Die Pflicht zur Ausschreibung nach Satz 2 gilt nicht für Verträge, die unmittelbar der Erbringung gesetzlicher oder satzungsmäßiger Versicherungsleistungen dienen.
 
-(2) Beim Abschluß der Verträge ist nach einheitlichen Richtlinien zu verfahren, wie sie insbesondere in den jeweils geltenden Verdingungsordnungen enthalten sind.
+(2) Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen, die Vergabeverordnung sowie die besonderen Regelungen des Sozialgesetzbuches zum Abschluss von Verträgen durch die Versicherungsträger und ihre Verbände sind zu beachten.
 
 # § 23 – Vorleistungen
 

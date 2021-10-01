@@ -173,11 +173,7 @@ erforderlich ist, die Überwachung durch die nach § 1 jeweils zuständige Behö
 
 # § 9 – Gebühren und Auslagen
 
-(1) Die nach § 1 jeweils zuständige Behörde erhebt für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz, den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der Verordnung (EG) Nr. 1523/2007, der Verordnung (EG) Nr. 1007/2009 oder den zur Durchführung der Verordnung (EG) Nr. 1523/2007 oder der Verordnung (EG) Nr. 1007/2009 erlassenen Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union kostendeckende Gebühren und Auslagen. Bei der Bemessung der Höhe der Gebühren nach Satz 1 ist auch der mit den Mitwirkungshandlungen der Bundesfinanzverwaltung verbundene Verwaltungsaufwand zu berücksichtigen.
-
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze sowie Regelungen über Ermäßigungen und Befreiungen für bestimmte Arten von individuell zurechenbaren öffentlichen Leistungen vorzusehen und den Zeitpunkt des Entstehens und der Erhebung der Gebühr näher zu bestimmen, soweit die in Absatz 1 bezeichneten Vorschriften durch die Bundesanstalt ausgeführt werden. In der Rechtsverordnung nach Satz 1 können die zu erstattenden Auslagen abweichend vom Bundesgebührengesetz geregelt werden.
-
-(3) Durch Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
+Durch die Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 # § 10 – Verkündung von Rechtsverordnungen
 
