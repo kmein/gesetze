@@ -41,8 +41,6 @@
 
  
 
-\_\_\_\_\_\_\_\_\_\_
-
 # § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt die Vorbeugung vor Tierseuchen und deren Bekämpfung. In diesem Rahmen dient es auch der Erhaltung und Förderung der Gesundheit von Vieh und Fischen, soweit das Vieh oder die Fische der landwirtschaftlichen Erzeugung dient oder dienen. § 39 bleibt unberührt.
@@ -1322,43 +1320,7 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des V
 
 Soweit in oder auf Futtermitteln Tierseuchenerreger anzeigepflichtiger oder mitteilungspflichtiger Tierseuchen vorhanden sind oder sein können, gelten, vorbehaltlich des Satzes 2, hinsichtlich der Verbote und Beschränkungen für die Teilnahme am Warenverkehr und die Verwendung innerhalb eines Betriebes, ausschließlich dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen. § 17 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches bleibt unberührt.
 
-# § 42 – Gebühren*
-
-(1) Das Paul-Ehrlich-Institut und das Friedrich-Loeffler-Institut erheben Gebühren und Auslagen für
-
-1. die Entscheidung über
-
-a) die Zulassung immunologischer Tierarzneimittel und In-vitro-Diagnostika,
-
-b) die vorläufige Zulassung nach § 11 Absatz 4 Satz 1 Nummer 2,
-
-c) Ausnahmen nach § 11 Absatz 5,
-
-d) die Freigabe einer Charge und die Durchführung einer Chargenprüfung,
-
-e) die Entscheidung über einen Widerspruch gegen einen auf Grund dieses Gesetzes erlassenen Verwaltungsakt oder gegen eine auf Grund einer Rechtsverordnung nach Absatz 2 erfolgte Festsetzung von Gebühren und Auslagen,
-
-2. sonstige Amtshandlungen einschließlich der Bearbeitung von Anträgen, Beratungen, Auskünften sowie die Prüfung der Einhaltung der Vorschriften über Grundsätze und Leitlinien der guten Herstellungspraxis,
-
-3. Tätigkeiten im Rahmen der Sammlung und Bewertung von Risiken bei der Anwendung immunologischer Tierarzneimittel sowie
-
-4. sonstige Prüfungen und Untersuchungen nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung.
-
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagen näher zu bestimmen und dabei feste Sätze oder Rahmengebühren festzusetzen. Die zu erstattenden Auslagen können abweichend vom Verwaltungskostengesetz geregelt werden.
-
-(3) Soweit ein Widerspruch gegen eine auf Grund einer Rechtsverordnung
-
-1. nach Absatz 2 oder
-
-2. nach einem anderen Bundesgesetz
-
-erfolgten Festsetzung von Gebühren und Auslagen für Amtshandlungen nach diesem Gesetz erfolgreich ist, werden Aufwendungen im Sinne des § 80 Absatz 1 des Verwaltungsverfahrensgesetzes bis zur Höhe der jeweils für die Zurückweisung eines entsprechenden Widerspruchs vorgesehenen Gebühren, bei Rahmengebühren bis zu deren Mittelwert, erstattet. Satz 1 gilt für einen Widerspruch gegen einen auf Grund dieses Gesetzes erlassenen Verwaltungsakt entsprechend.
-
-(4) Die Absätze 1 und 2 sind nicht mehr anzuwenden, soweit zum Zeitpunkt des Inkrafttretens dieses Gesetzes oder zu einem Zeitpunkt nach dem Inkrafttreten dieses Gesetzes bundesrechtliche Vorschriften in Kraft getreten sind oder in Kraft treten, die inhaltsgleiche oder entgegenstehende Bestimmungen enthalten; eine auf Grund des Absatzes 2 erlassene Rechtsverordnung bleibt davon unberührt. Das Bundesministerium macht den nach Satz 1 maßgeblichen Tag im Bundesgesetzblatt bekannt.
-
-\_\_\_\_\_\_\_\_\_\_
-
-(+++ § 42 Abs. 1 u. 2: Zur Nichtanwendung des § 42 Abs. 1 u. 2 ab dem 1.5.2014 vgl. Bek. v. 4.11.2013 I 3942 +++)
+# § 42 – (weggefallen)
 
 # § 43 – Übergangsvorschriften
 

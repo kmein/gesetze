@@ -7,15 +7,27 @@ Auf Grund des § 63a Absatz 1 und 2 Nummer 3 des Erneuerbare-Energien-Gesetzes v
 
 # § 1 – Gebühren und Auslagen
 
-(1) Das Umweltbundesamt erhebt für Amtshandlungen im Zusammenhang mit der Ausstellung, Übertragung, Anerkennung und Entwertung von Herkunftsnachweisen sowie für die Nutzung des Herkunftsnachweisregisters Gebühren nach Anlage 1 und Auslagen.
+(1) Das Umweltbundesamt erhebt für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) im Zusammenhang mit der Ausstellung, Übertragung, Anerkennung und Entwertung von Herkunftsnachweisen sowie für die Nutzung des Herkunftsnachweisregisters Gebühren nach Anlage 1 und Auslagen.
 
-(2) Das Umweltbundesamt erhebt für Amtshandlungen im Zusammenhang mit der Ausstellung, Übertragung und Entwertung von Regionalnachweisen sowie für die Nutzung des Regionalnachweisregisters Gebühren nach Anlage 2 und Auslagen.
+(2) Das Umweltbundesamt erhebt für gebührenfähige Leistungen im Zusammenhang mit der Ausstellung, Übertragung und Entwertung von Regionalnachweisen sowie für die Nutzung des Regionalnachweisregisters Gebühren nach Anlage 2 und Auslagen.
 
-# § 2 – Schuldner
+(3) Sofern in den Anlagen 1 und 2 nichts anderes bestimmt ist, sind für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung anzuwenden.
 
-(1) Schuldner der Jahresgebühr für die Führung eines Kontos ist jeder Kontoinhaber, der über ein Konto nach § 2 Nummer 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung verfügt. Schuldner der Gebühren für alle anderen Amtshandlungen sind diejenigen Kontoinhaber, die die jeweilige Amtshandlung veranlasst haben oder zu deren Gunsten die jeweilige Amtshandlung vorgenommen wird.
+# § 2 – Gebührenschuldner
 
-(2) Vertritt ein Dienstleister einen Anlagenbetreiber bei der Kontoeröffnung im Herkunftsnachweisregister oder im Regionalnachweisregister und gibt dieser Dienstleister gegenüber der Registerverwaltung die Erklärung ab, dass er sämtliche im Zusammenhang mit der Nutzung des jeweiligen Registers entstehenden Kosten übernimmt, so ist neben dem Schuldner nach Absatz 1 auch der Dienstleister zur Zahlung der entstehenden Kosten verpflichtet.
+(1) Gebührenschuldner im Sinne des § 6 Absatz 1 Nummer 1 des Bundesgebührengesetzes ist:
+
+1. für die Jahresgebühr, jeder Kontoinhaber, der über ein Konto nach § 2 Nummer 4 der Herkunfts- und Regionalnachweisdurchführungsverordnung verfügt,
+
+2. für die Rückbuchung eines Regionalnachweises nach § 29 Absatz 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung, der abgebende Kontoinhaber und
+
+3. für andere als in Nummer 1 und 2 genannte gebührenfähige Leistungen, derjenige Kontoinhaber,
+
+a) der die jeweilige gebührenfähige Leistung veranlasst hat oder
+
+b) zu dessen Gunsten die jeweilige gebührenfähige Leistung vorgenommen wird.
+
+(2) Gebührenschuldner im Sinne des § 6 Absatz 1 Nummer 2 des Bundesgebührengesetzes ist ein Dienstleister, der einen Anlagenbetreiber bei der Kontoeröffnung im Herkunftsnachweisregister oder im Regionalnachweisregister vertritt und gegenüber der Registerverwaltung die Erklärung abgibt, dass er sämtliche im Zusammenhang mit der Nutzung des jeweiligen Registers entstehenden Kosten übernimmt.
 
 # § 3 – Reduzierung der Jahresgebühren, Abrundung
 
@@ -25,9 +37,9 @@ Auf Grund des § 63a Absatz 1 und 2 Nummer 3 des Erneuerbare-Energien-Gesetzes v
 
 # Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis zum Herkunftsnachweisregister
 
-(Fundstelle: BGBl. I 2018, 1874)
+(Fundstelle: BGBl. I 2021, 3730 – 3731)
 
-Nr.
+Nummer
 
 Gebühren
 
@@ -43,31 +55,31 @@ in Euro
 
 Ausstellung eines Herkunftsnachweises nach § 12 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-0,01
+0,0025
 
 1.2
 
 Übertragung eines Herkunftsnachweises auf ein anderes Konto innerhalb Deutschlands nach § 28 Absatz 1 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-0,01
+0,0010
 
 1.3
 
 Übertragung eines Herkunftsnachweises auf ein anderes Konto eines Registers, das eine ausländische zuständige Stelle führt, nach § 28 Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-0,01
+0,0025
 
 1.4
 
 Übertragung eines Herkunftsnachweises von einem Konto eines Registers, das eine ausländische zuständige Stelle führt, auf ein Konto innerhalb Deutschlands nach § 37 Absatz 1 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-0,01
+0,0025
 
 1.5
 
 Entwertung eines Herkunftsnachweises für die Stromkennzeichnung nach § 30 Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-0,02
+0,0050
 
 2
 
@@ -81,13 +93,13 @@ in Euro
 
 Registrierung einer Anlage im Herkunftsnachweisregister nach § 21 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-50
+120
 
 2.2
 
 Übernahme einer vormals einem anderen Anlagenbetreiber zugeordneten Anlage im Regionalnachweisregister nach § 27 Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung oder Zuordnung der Anlage zu einem neuen Konto desselben Kontoinhabers nach § 12 Absatz 1 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-10
+40
 
 3
 
@@ -120,11 +132,53 @@ Jahresgebühr für Kontoinhaber je Konto mit weniger als 2 501 gebührenpflicht
 
 50
 
+4
+
+Gebühren für Maßnahmen nach Abschnitt 8 der Herkunfts- und Regionalnachweis-Durchführungsverordnung (Sperrung und Schließung des Kontos, Ausschluss von der Teilnahme an den Registern)
+
+ 
+
+4.1
+
+Kontosperrung nach § 49 Absatz 1 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.2
+
+Aufhebung der Kontosperrung nach § 49 Absatz 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.3
+
+Kontoschließung nach § 50 Absatz 1 Nummer 2 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.4
+
+Ausschluss von der Teilnahme an den Registern nach § 51 Absatz 1 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.5
+
+Wiederaufnahme nach Ausschluss nach § 51 Absatz 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.6
+
+Sperrung des Kontozugangs nach § 51 Absatz 5 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
 # Anlage 2 – (zu § 1 Absatz 2)Gebührenverzeichnis zum Regionalnachweisregister
 
-(Fundstelle: BGBl. I 2018, 1875)
+(Fundstelle: BGBl. I 2021, 3732)
 
-Nr.
+Nummer
 
 Gebühren
 
@@ -178,7 +232,7 @@ Registrierung einer Anlage im Regionalnachweisregister nach § 23 der Herkunfts-
 
 Übernahme einer vormals einem anderen Anlagenbetreiber zugeordneten Anlage im Regionalnachweisregister nach § 27 Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung oder Zuordnung der Anlage zu einem neuen Konto desselben Kontoinhabers nach § 18 Absatz 1 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
 
-20
+40
 
 3
 
@@ -209,3 +263,45 @@ Jahresgebühr für Kontoinhaber je Konto mit 2 500 001 bis einschließlich 15�
 Jahresgebühr für Kontoinhaber je Konto mit weniger als 2 500 001 gebührenpflichtigen Vorgängen hinsichtlich Regionalnachweisen nach Nummer 1 pro Jahr
 
 50
+
+4
+
+Gebühren für Maßnahmen nach Abschnitt 8 der Herkunfts- und Regionalnachweis-Durchführungsverordnung (Sperrung und Schließung des Kontos, Ausschluss von der Teilnahme an den Registern)
+
+ 
+
+4.1
+
+Kontosperrung nach § 49 Absatz 1 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.2
+
+Aufhebung der Kontosperrung nach § 49 Absatz 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.3
+
+Kontoschließung nach § 50 Absatz 1 Nummer 2 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.4
+
+Ausschluss von der Teilnahme an den Registern nach § 51 Absatz 1 oder Absatz 2 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.5
+
+Wiederaufnahme nach Ausschluss nach § 51 Absatz 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand
+
+4.6
+
+Sperrung des Kontozugangs nach § 51 Absatz 5 der Herkunfts- und Regionalnachweis-Durchführungsverordnung
+
+nach Zeitaufwand

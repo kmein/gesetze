@@ -73,7 +73,13 @@ b) der Anbieter des sozialen Netzwerks die Entscheidung über die Rechtswidrigke
 
 4. im Falle der Entfernung den Inhalt zu Beweiszwecken sichert und zu diesem Zweck für die Dauer von zehn Wochen innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) (ABl. L 178 vom 17.7.2000, S. 1) und der Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1; L 263 vom 6.10.2010, S. 15), die durch die Richtlinie (EU) 2018/1808 (ABl. L 303 vom 28.11.2018, S. 69) geändert worden ist, speichert,
 
-5. den Beschwerdeführer und den Nutzer über jede Entscheidung unverzüglich informiert und seine Entscheidung ihnen gegenüber begründet.
+5. den Beschwerdeführer und den Nutzer, für den der beanstandete Inhalt gespeichert wurde, über jede Entscheidung unverzüglich informiert und dabei
+
+a) seine Entscheidung begründet,
+
+b) hinweist auf die Möglichkeit der Gegenvorstellung nach § 3b Absatz 1 Satz 2, das hierfür zur Verfügung gestellte Verfahren nach § 3b Absatz 1 Satz 3, die Frist nach § 3b Absatz 1 Satz 2 sowie darauf, dass der Inhalt der Gegenvorstellung im Rahmen des Verfahrens nach § 3b Absatz 2 Nummer 1 weitergegeben werden kann, und
+
+c) den Beschwerdeführer darauf hinweist, dass er gegen den Nutzer, für den der beanstandete Inhalt gespeichert wurde, Strafanzeige und erforderlichenfalls Strafantrag stellen kann und auf welchen Internetseiten er hierüber weitere Informationen erhält.
 
 In den Fällen des Satzes 1 Nummer 3 Buchstabe b darf der Anbieter des sozialen Netzwerks der anerkannten Einrichtung der Regulierten Selbstregulierung den beanstandeten Inhalt, Angaben zum Zeitpunkt des Teilens oder der Zugänglichmachung des Inhalts und zum Umfang der Verbreitung sowie mit dem Inhalt in erkennbarem Zusammenhang stehende Inhalte übermitteln, soweit dies zum Zwecke der Entscheidung erforderlich ist. Die Einrichtung der Regulierten Selbstregulierung ist befugt, die betreffenden personenbezogenen Daten in dem für die Prüfung erforderlichen Umfang zu verarbeiten. Eine etwaige Unrichtigkeit der von der anerkannten Einrichtung der Regulierten Selbstregulierung in den Fällen des Satzes 1 Nummer 3 Buchstabe b getroffenen Entscheidung begründet keinen Verstoß des Anbieters des sozialen Netzwerks gegen Absatz 1 Satz 1.
 

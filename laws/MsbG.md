@@ -1045,9 +1045,9 @@ Bei Vorhandensein eines intelligenten Messsystems hat der Messstellenbetreiber f
 
 Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2016/679 ist eine Datenübermittlung über die §§ 60 bis 64 hinaus nur zulässig, soweit keine personenbezogenen Daten übermittelt werden.
 
-# § 66 – Messwertverarbeitung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung
+# § 66 – Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung
 
-(1) Der Netzbetreiber darf erhaltene Messwerte ausschließlich verarbeiten, soweit dies für folgende Zwecke zwingend erforderlich ist:
+(1) Der Netzbetreiber darf erhaltene Messwerte ausschließlich verwenden, soweit dies für folgende Zwecke zwingend erforderlich ist:
 
 1. Durchführung der Netznutzungsabrechnung,
 
@@ -1055,7 +1055,7 @@ Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU
 
 3. Erfüllung der Pflichten aus den §§ 11 bis 14 des Energiewirtschaftsgesetzes,
 
-4. Durchführung eines Einspeisemanagements nach § 14 des Erneuerbare-Energien-Gesetzes in Verbindung mit § 13 Absatz 2 des Energiewirtschaftsgesetzes,
+4. (weggefallen)
 
 5. Durchführung des Flexibilitätsmechanismus nach § 14a des Energiewirtschaftsgesetzes,
 

@@ -49,7 +49,7 @@ Erteilung der Lizenz
 
 § 8
 
-Gebühren und Auslagen für die Lizenzierung
+(weggefallen)
 
 § 9
 
@@ -427,9 +427,7 @@ Die nach Satz 1 Nr. 1 erforderliche
 
 (3) Ist einer Kapitalgesellschaft eine Lizenz erteilt, so hat jeder, der Aktien oder Geschäftsanteile der Gesellschaft erwirbt und hierdurch über mehr als zehn vom Hundert der Aktien oder Geschäftsanteile der Gesellschaft verfügt, dies der Regulierungsbehörde unverzüglich anzuzeigen.
 
-# § 8 – Gebühren und Auslagen für die Lizenzierung
-
-Für die Entscheidung über die Erteilung einer Lizenz und über die Zustimmung zur Übertragung einer Lizenz werden Gebühren und Auslagen erhoben. Es werden auch dann Gebühren und Auslagen erhoben, wenn ein Antrag auf Erteilung einer Lizenz oder auf Zustimmung zur Übertragung einer Lizenz nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen wird. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nach Maßgabe des Bundesgebührengesetzes die Höhe der Gebühren zu regeln.
+# § 8 – (weggefallen)
 
 # § 9 – Widerruf der Lizenz
 

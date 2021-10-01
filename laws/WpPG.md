@@ -369,11 +369,7 @@ Keine aufschiebende Wirkung haben
 
 (3) Der gebilligte Prospekt wird von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für gebilligte Nachträge und einheitliche Registrierungsformulare einschließlich deren Änderungen.
 
-# § 23 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz, nach den auf diesem Gesetz beruhenden Rechtsvorschriften und nach Rechtsakten der Europäischen Union kann die Bundesanstalt Gebühren und Auslagen erheben.
-
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände und die Gebühren nach festen Sätzen oder als Rahmengebühren näher zu bestimmen. Die Gebührensätze und die Rahmengebühren sind so zu bemessen, dass zwischen der den Verwaltungsaufwand berücksichtigenden Höhe und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der individuell zurechenbaren öffentlichen Leistung ein angemessenes Verhältnis besteht. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+# § 23 – (weggefallen)
 
 # § 24 – Bußgeldvorschriften
 

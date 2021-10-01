@@ -381,29 +381,39 @@ Werbung ist dem Rechtsanwalt nur erlaubt, soweit sie über die berufliche Tätig
 
 # § 43d – Darlegungs- und Informationspflichten bei Inkassodienstleistungen
 
-(1) Der Rechtsanwalt, der Inkassodienstleistungen erbringt, muss, wenn er eine Forderung gegenüber einer Privatperson geltend macht, mit der ersten Geltendmachung folgende Informationen klar und verständlich übermitteln:
+(1) Der Rechtsanwalt, der Inkassodienstleistungen erbringt, muss mit der ersten Geltendmachung einer Forderung gegenüber einer Privatperson folgende Informationen klar und verständlich in Textform übermitteln:
 
-1. den Namen oder die Firma seines Auftraggebers,
+1. den Namen oder die Firma des Auftraggebers sowie dessen Anschrift, sofern nicht dargelegt wird, dass durch die Angabe der Anschrift überwiegende schutzwürdige Interessen des Auftraggebers beeinträchtigt würden,
 
-2. den Forderungsgrund, bei Verträgen unter konkreter Darlegung des Vertragsgegenstands und des Datums des Vertragsschlusses,
+2. den Forderungsgrund, bei Verträgen unter konkreter Darlegung des Vertragsgegenstands und des Datums des Vertragsschlusses, bei unerlaubten Handlungen unter Darlegung der Art und des Datums der Handlung,
 
 3. wenn Zinsen geltend gemacht werden, eine Zinsberechnung unter Darlegung der zu verzinsenden Forderung, des Zinssatzes und des Zeitraums, für den die Zinsen berechnet werden,
 
 4. wenn ein Zinssatz über dem gesetzlichen Verzugszinssatz geltend gemacht wird, einen gesonderten Hinweis hierauf und die Angabe, auf Grund welcher Umstände der erhöhte Zinssatz gefordert wird,
 
-5. wenn eine Inkassovergütung oder sonstige Inkassokosten geltend gemacht werden, Angaben zu deren Art, Höhe und Entstehungsgrund,
+5. wenn Inkassokosten geltend gemacht werden, Angaben zu deren Art, Höhe und Entstehungsgrund,
 
-6. wenn mit der Inkassovergütung Umsatzsteuerbeträge geltend gemacht werden, eine Erklärung, dass der Auftraggeber diese Beträge nicht als Vorsteuer abziehen kann.
+6. wenn mit den Inkassokosten Umsatzsteuerbeträge geltend gemacht werden, eine Erklärung, dass der Auftraggeber diese Beträge nicht als Vorsteuer abziehen kann,
 
-Auf Anfrage hat der Rechtsanwalt der Privatperson folgende Informationen ergänzend mitzuteilen:
+7. wenn die Anschrift der Privatperson nicht vom Gläubiger mitgeteilt, sondern anderweitig ermittelt wurde, einen Hinweis hierauf sowie darauf, wie eventuell aufgetretene Fehler geltend gemacht werden können,
 
-1. eine ladungsfähige Anschrift seines Auftraggebers, wenn nicht dargelegt wird, dass dadurch schutzwürdige Interessen des Auftraggebers beeinträchtigt werden,
+8. Bezeichnung, Anschrift und elektronische Erreichbarkeit der für ihn zuständigen Rechtsanwaltskammer.
 
-2. den Namen oder die Firma desjenigen, in dessen Person die Forderung entstanden ist,
+(2) Auf eine entsprechende Anfrage einer Privatperson hat der Inkassodienstleistungen erbringende Rechtsanwalt die folgenden ergänzenden Informationen unverzüglich in Textform mitzuteilen:
 
-3. bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
+1. den Namen oder die Firma desjenigen, in dessen Person die Forderung entstanden ist,
 
-(2) Privatperson im Sinne des Absatzes 1 ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
+2. bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
+
+(3) Beabsichtigt der Inkassodienstleistungen erbringende Rechtsanwalt, mit einer Privatperson eine Stundungs- oder Ratenzahlungsvereinbarung zu treffen, so hat er sie zuvor in Textform auf die dadurch entstehenden Kosten hinzuweisen.
+
+(4) Fordert der Inkassodienstleistungen erbringende Rechtsanwalt eine Privatperson zur Abgabe eines Schuldanerkenntnisses auf, so hat er sie mit der Aufforderung nach Maßgabe des Satzes 2 in Textform darauf hinzuweisen, dass sie durch das Schuldanerkenntnis in der Regel die Möglichkeit verliert, solche Einwendungen und Einreden gegen die anerkannte Forderung geltend zu machen, die zum Zeitpunkt der Abgabe des Schuldanerkenntnisses begründet waren. Der Hinweis muss
+
+1. deutlich machen, welche Teile der Forderung vom Schuldanerkenntnis erfasst werden, und
+
+2. typische Beispiele von Einwendungen und Einreden benennen, die nicht mehr geltend gemacht werden können, wie das Nichtbestehen oder die Erfüllung oder die Verjährung der anerkannten Forderung.
+
+(5) Privatperson im Sinne dieser Vorschrift ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
 
 # § 43e – Inanspruchnahme von Dienstleistungen
 
@@ -575,7 +585,7 @@ In Straf- oder Bußgeldverfahren, die sich gegen den Arbeitgeber oder dessen Mit
 
 (1) Es ist unzulässig, geringere Gebühren und Auslagen zu vereinbaren oder zu fordern, als das Rechtsanwaltsvergütungsgesetz vorsieht, soweit dieses nichts anderes bestimmt. Im Einzelfall darf der Rechtsanwalt besonderen Umständen in der Person des Auftraggebers, insbesondere dessen Bedürftigkeit, Rechnung tragen durch Ermäßigung oder Erlaß von Gebühren oder Auslagen nach Erledigung des Auftrags.
 
-(2) Vereinbarungen, durch die eine Vergütung oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der anwaltlichen Tätigkeit abhängig gemacht wird oder nach denen der Rechtsanwalt einen Teil des erstrittenen Betrages als Honorar erhält (Erfolgshonorar), sind unzulässig, soweit das Rechtsanwaltsvergütungsgesetz nichts anderes bestimmt. Vereinbarungen, durch die der Rechtsanwalt sich verpflichtet, Gerichtskosten, Verwaltungskosten oder Kosten anderer Beteiligter zu tragen, sind unzulässig. Ein Erfolgshonorar im Sinne des Satzes 1 liegt nicht vor, wenn lediglich vereinbart wird, dass sich die gesetzlichen Gebühren ohne weitere Bedingungen erhöhen.
+(2) Vereinbarungen, durch die eine Vergütung oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der anwaltlichen Tätigkeit abhängig gemacht wird oder nach denen der Rechtsanwalt einen Teil des erstrittenen Betrages als Honorar erhält (Erfolgshonorar), sind unzulässig, soweit das Rechtsanwaltsvergütungsgesetz nichts anderes bestimmt. Vereinbarungen, durch die sich der Rechtsanwalt verpflichtet, Gerichtskosten, Verwaltungskosten oder Kosten anderer Beteiligter zu tragen, sind nur zulässig, soweit in der Angelegenheit ein Erfolgshonorar nach § 4a Absatz 1 Satz 1 Nummer 2 des Rechtsanwaltsvergütungsgesetzes vereinbart wird. Ein Erfolgshonorar im Sinne des Satzes 1 liegt nicht vor, wenn lediglich vereinbart wird, dass sich die gesetzlichen Gebühren ohne weitere Bedingungen erhöhen.
 
 (3) Die Abgabe und Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile für die Vermittlung von Aufträgen, gleichviel ob im Verhältnis zu einem Rechtsanwalt oder Dritten gleich welcher Art, ist unzulässig. Zulässig ist es jedoch, eine über den Rahmen der Nummer 3400 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz hinausgehende Tätigkeit eines anderen Rechtsanwalts angemessen zu honorieren. Die Honorierung der Leistungen hat der Verantwortlichkeit sowie dem Haftungsrisiko der beteiligten Rechtsanwälte und den sonstigen Umständen Rechnung zu tragen. Die Vereinbarung einer solchen Honorierung darf nicht zur Voraussetzung einer Mandatserteilung gemacht werden. Mehrere beauftragte Rechtsanwälte dürfen einen Auftrag gemeinsam bearbeiten und die Gebühren in einem den Leistungen, der Verantwortlichkeit und dem Haftungsrisiko entsprechenden angemessenen Verhältnis untereinander teilen. Die Sätze 2 und 3 gelten nicht für beim Bundesgerichtshof zugelassene Prozeßbevollmächtigte.
 

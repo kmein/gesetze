@@ -137,7 +137,7 @@ Anzeige des Anbaus von Nutzhanf
 
 § 25
 
-Gebühren und Auslagen
+(weggefallen)
 
 Fünfter Abschnitt
 
@@ -779,11 +779,7 @@ Der Anbau von Nutzhanf im Sinne des Buchstabens d der Ausnahmeregelung zu Cannab
 
 Erfolgt die Aussaat von Nutzhanf nach dem 1. Juli des Anbaujahres, sind die amtlichen Etiketten nach Satz 3 Nummer 3 bis zum 1. September des Anbaujahres vorzulegen. Die Bundesanstalt für Landwirtschaft und Ernährung übersendet eine von ihr abgezeichnete Ausfertigung der Anzeige unverzüglich dem Antragsteller. Sie hat ferner eine Ausfertigung der Anzeige den zuständigen Polizeibehörden und Staatsanwaltschaften auf deren Ersuchen zu übersenden, wenn dies zur Verfolgung von Straftaten nach diesem Gesetz erforderlich ist. Liegen der Bundesanstalt für Landwirtschaft und Ernährung Anhaltspunkte vor, daß der Anbau von Nutzhanf nicht den Voraussetzungen des Buchstabens d der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I entspricht, teilt sie dies der örtlich zuständigen Staatsanwaltschaft mit.
 
-# § 25 – Gebühren und Auslagen
-
-(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Gebühren und Auslagen.
-
-(2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+# § 25 – (weggefallen)
 
 # § 26 – Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
 

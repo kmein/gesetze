@@ -234,17 +234,45 @@ Honorarkonsularbeamte können jederzeit verabschiedet werden. Sie sind zu verabs
 
 (2) Das Auswärtige Amt kann die Befugnis eines Honorarkonsularbeamten zur Wahrnehmung konsularischer Aufgaben weiteren Einschränkungen unterwerfen.
 
-# § 25 – Besondere gesetzliche Regelung
+# § 25 – Gebühren und Auslagen
 
-Für konsularische Amtshandlungen werden Kosten (Gebühren und Auslagen) nach besonderer gesetzlicher Regelung erhoben. Dies gilt auch für die auf Antrag erfolgende Erfassung der Daten einschließlich der biometrischen Identifikatoren, Entgegennahme, Durchsicht und Weiterleitung von Anträgen im Pass- und Personalausweisverfahren durch Honorarkonsularbeamte.
+(1) Das Auswärtige Amt, die Vertretungen des Bundes im Ausland sowie die Honorarkonsularbeamten erheben Gebühren und Auslagen nach dem Bundesgebührengesetz, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 
-# § 26 – Gebühren und Auslagen der Honorarkonsularbeamten
+(2) Die Gebührenschuld entsteht, sofern für die individuell zurechenbare Leistung ein Antrag notwendig ist, mit dessen Eingang bei der Auslandsvertretung oder mit dessen Eingang beim Honorarkonsularbeamten. Im Übrigen entsteht die Gebühr mit der Beendigung der individuell zurechenbaren öffentlichen Leistung. Die Verpflichtung zur Erstattung von Auslagen entsteht mit der Aufwendung des zu erstattenden Betrags.
 
-(1) Die Honorarkonsularbeamten beziehen die für ihre Amtshandlungen zu erhebenden Gebühren für sich. Sie dürfen sie nur nach Maßgabe derjenigen Bestimmungen herabsetzen oder erlassen, die allgemein für die Gebühren von amtlichen Auslandsvertretungen gelten.
+# § 25a – Gebühren- und Auslagenerhebung der Honorarkonsularbeamten
 
-(2) Reichen die Gebühren zur Bestreitung der Verwaltungskosten nicht aus, so kann den Honorarkonsularbeamten ein pauschaler Zuschuß gewährt werden.
+(1) Wird die individuell zurechenbare öffentliche Leistung von einem Honorarkonsularbeamten vorgenommen, so ist dieser Gebührengläubiger. Bei der auf Antrag erfolgenden Erfassung der Daten einschließlich der biometrischen Identifikatoren, Entgegennahme, Durchsicht und Weiterleitung von Anträgen im Pass- und Personalausweisverfahren handelt es sich um eine individuell zurechenbare öffentliche Leistung der Honorarkonsularbeamten.
 
-(3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines dienstlichen Auftrags besondere, den Umständen nach erforderliche Auslagen, so kann er deren Erstattung beanspruchen.
+(2) Reichen die Gebühren zur Bestreitung der mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten der Honorarkonsularbeamten nicht aus, so kann dem Honorarkonsularbeamten ein pauschaler Zuschuss gewährt werden.
+
+(3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines dienstlichen Auftrags besondere, den Umständen nach erforderliche Aufwendungen, so kann er deren Erstattung beanspruchen.
+
+# § 25b – Gebührenbemessung
+
+(1) Für die Gebührenerhebung nach § 25, insbesondere für die notariellen Tätigkeiten der Vertretungen des Bundes im Ausland sowie der Honorarkonsularbeamten, können auch der Wert und die Bedeutung der individuell zurechenbaren öffentlichen Leistung für den Gebührenschuldner bei der Gebührenbemessung berücksichtigt werden. Für die Bemessung der Gebühr gelten die Vorschriften der Kapitel 1 und 3, Anlage 1 Teil 2 und 3, Anlage 2 des Gerichts- und Notarkostengesetzes entsprechend, soweit nach Absatz 2 nichts anderes bestimmt ist.
+
+(2) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes können auch andere Bezugsgrößen oder Maßstäbe zur Bestimmung des Wertes oder der Bedeutung der individuell zurechenbaren öffentlichen Leistung nach Absatz 1 Satz 1 bestimmt werden. Danach kann insbesondere angeordnet werden, dass die Gebühr nach der Seiten- und Zeilenzahl sowie nach Sprachgruppen bestimmt wird.
+
+# § 25c – Wertgebühren
+
+(1) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes kann eine Gebühr auch nach dem Wert des Gegenstandes (Wertgebühr) bestimmt werden.
+
+(2) Der Antragsteller ist verpflichtet, die zur Feststellung des Wertes erforderlichen Angaben zu machen.
+
+# § 25d – Zuschläge
+
+Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den Auslandsvertretungen und den Honorarkonsularbeamten zum Ausgleich von Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze für vergleichbare individuell zurechenbare öffentliche Leistungen im Gastland ein Zuschlag erhoben werden kann. Der Zuschlag kann bis zu 200 Prozent der Gebühren betragen.
+
+# § 25e – Auslagen
+
+Die Erstattung von Auslagen kann auch verlangt werden, wenn für die individuell zurechenbare öffentliche Leistung keine Gebühr vorgesehen ist.
+
+# § 26 – Erstattungsansprüche bei Amtshilfe
+
+(1) Im Falle der Amtshilfe hat die ersuchende Behörde keine Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu erstatten, wenn sie im Einzelfall 25 Euro übersteigen. Wird die Amtshilfe für eine Bundesbehörde geleistet, so werden die Auslagen nicht erstattet.
+
+(2) Nehmen die Auslandsvertretungen oder die Honorarkonsularbeamten zur Durchführung der Amtshilfe eine gebührenpflichtige individuell zurechenbare öffentliche Leistung vor, so stehen ihnen die von einem Dritten hierfür geschuldeten Gebühren und Auslagen zu.
 
 # § 27 – Begriffsbestimmung
 

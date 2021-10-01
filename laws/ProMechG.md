@@ -123,7 +123,7 @@ Rechtsverordnung zu Zustimmungsvoraussetzungen
 
 § 14
 
-Gebühren und Auslagen
+(weggefallen)
 
 § 15
 
@@ -359,9 +359,7 @@ Wird ein Antrag im Sinne dieses Gesetzes von mehreren natürlichen oder juristis
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung unter Beachtung der Beschlüsse 16/CP.7 und 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, regeln, welche Anforderungen an das Vorliegen der einzelnen Zustimmungsvoraussetzungen des § 3 Abs.1, des § 5 Abs. 1 und des § 8 Abs.1 und Versagungsgründe des § 3 Abs. 2, des § 5 Abs. 2 und des § 8 Abs. 2 zu stellen sind.
 
-# § 14 – Gebühren und Auslagen
-
-Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen erhebt die zuständige Behörde Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände, die Höhe der Gebühren und die zu erstattenden Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen. Die Gebühr beträgt mindestens 20 Euro; sie darf im Einzelfall 600 Euro nicht übersteigen. Bei der Bemessung der Gebühren sind die Anzahl der aus der Durchführung der Projekttätigkeiten erzeugten Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen sowie der mit der Leistung verbundene Verwaltungsaufwand zu berücksichtigen.
+# § 14 – (weggefallen)
 
 # § 15 – Bußgeldvorschriften
 

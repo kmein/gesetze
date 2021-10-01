@@ -495,11 +495,7 @@ Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anla
 
 (3) Wer eine Tätigkeit in der Antarktis durchführt, ist verpflichtet, mit den die Inspektion durchführenden Beobachtern aus den Mitgliedstaaten des Antarktis-Vertrages zusammenzuarbeiten und ihnen Zugang zu allen Teilen von Stationen, Einrichtungen, Ausrüstungen, Schiffen und Luftfahrzeugen, die nach Artikel VII Abs. 3 des Antarktis-Vertrages zur Inspektion offenstehen, sowie zu allen geführten Aufzeichnungen, die aufgrund des Umweltschutzprotokolls zum Antarktis-Vertrag verlangt werden, zu gewähren.
 
-# § 35 – Gebühren- und Auslagenregelung
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen werden Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Dabei soll bei individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, die Vorhaben der wissenschaftlichen Forschung betreffen, von der Erhebung von Gebühren und Auslagen abgesehen werden.
+# § 35 – (weggefallen)
 
 # § 36 – Bußgeldvorschriften
 

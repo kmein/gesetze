@@ -1363,7 +1363,7 @@ Für Anlagen zum Umschlagen wassergefährdender Stoffe sowie zum Lagern und Abf�
 
 2. Stoffen, die hinsichtlich der Radioaktivität die Freigrenzen des Strahlenschutzrechts überschreiten.
 
-(7) Das Umweltbundesamt erhebt für in einer Rechtsverordnung nach Absatz 4 Nummer 1 aufgeführte individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung für individuell zurechenbare öffentliche Leistungen nach Satz 1 zu bestimmen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+(7) (weggefallen)
 
 # § 62a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
 

@@ -93,11 +93,7 @@ b) durch diese Eintragung die Voraussetzungen nach § 4 Abs. 2 Nr. 1 erfüllt si
 
 (1) Zuständige Behörde ist eine durch Rechtsverordnung des Bundesministeriums für Gesundheit zu bestimmende Behörde aus seinem Geschäftsbereich. Sie führt die ihr nach diesem Gesetz übertragenen Aufgaben als Verwaltungsaufgaben des Bundes durch und untersteht der Fachaufsicht des Bundesministeriums für Gesundheit.
 
-(2) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz sind Gebühren und Auslagen zu erheben. Von der Zahlung von Gebühren sind außer den in § 8 Absatz 1 und 2 des Bundesgebührengesetzes bezeichneten Rechtsträgern die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
-
-(3) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Dabei ist die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für die Gebührenschuldner angemessen zu berücksichtigen. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine individuell zurechenbare öffentliche Leistung erhoben werden kann, die nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die individuell zurechenbare öffentliche Leistung veranlasst hat.
-
-(4) Die bei der Erfüllung von Auskunftspflichten im Rahmen des Genehmigungsverfahrens entstehenden eigenen Aufwendungen des Antragstellers sind nicht zu erstatten.
+(2) Die bei der Erfüllung von Auskunftspflichten im Rahmen des Genehmigungsverfahrens entstehenden eigenen Aufwendungen des Antragstellers sind nicht zu erstatten.
 
 # § 8 – Zentrale Ethik-Kommission für Stammzellenforschung
 

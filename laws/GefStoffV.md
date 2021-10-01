@@ -67,6 +67,18 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (5) Eine Tätigkeit ist jede Arbeit mit Stoffen, Gemischen oder Erzeugnissen, einschließlich Herstellung, Mischung, Ge- und Verbrauch, Lagerung, Aufbewahrung, Be- und Verarbeitung, Ab- und Umfüllung, Entfernung, Entsorgung und Vernichtung. Zu den Tätigkeiten zählen auch das innerbetriebliche Befördern sowie Bedien- und Überwachungsarbeiten.
 
+(5a) Begasung bezeichnet eine Verwendung von Biozid-Produkten oder Pflanzenschutzmitteln
+
+1. bei der bestimmungsgemäß Stoffe gasförmig freigesetzt werden,
+
+a) die als akut toxisch Kategorie 1, 2 oder 3 eingestuft sind oder
+
+b) für die in der Zulassung festgelegt wurde, dass eine Messung oder Überwachung der Wirkstoff- oder Sauerstoffkonzentration zu erfolgen hat,
+
+2. für die in der Zulassung die Bereitstellung und Verwendung eines unabhängig von der Umgebungsatmosphäre wirkenden Atemschutzgeräts festgelegt wurde oder
+
+3. die zur Raumdesinfektion sämtlicher Flächen eines umschlossenen Raums eingesetzt werden, wobei Formaldehyd aus einer wässrigen Formaldehydlösung in Form schwebfähiger Flüssigkeitstropfen ausgebracht wird.
+
 (6) Lagern ist das Aufbewahren zur späteren Verwendung sowie zur Abgabe an andere. Es schließt die Bereitstellung zur Beförderung ein, wenn die Beförderung nicht innerhalb von 24 Stunden nach der Bereitstellung oder am darauffolgenden Werktag erfolgt. Ist dieser Werktag ein Samstag, so endet die Frist mit Ablauf des nächsten Werktags.
 
 (7) Es stehen gleich
@@ -100,6 +112,14 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 (16) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe über die erforderlichen Fachkenntnisse verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
 
 (17) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
+
+(18) Eine Verwenderkategorie bezeichnet eine Personengruppe, die berechtigt ist, ein bestimmtes Biozid-Produkt zu verwenden. Sie beschreibt den Grad der Qualifikation, die für diese Verwendung erforderlich ist. Die zugehörige Verwenderkategorie eines Biozid-Produkts wird nach der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozid-Produkten (ABl. L 167 vom 27.6.2012, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2019/1825 (ABl. L 279 vom 31.10.2019, S. 19) geändert worden ist, in der jeweils geltenden Fassung, im Zulassungsverfahren festgelegt. Verwenderkategorien sind:
+
+1. die breite Öffentlichkeit,
+
+2. der berufsmäßige Verwender,
+
+3. der geschulte berufsmäßige Verwender.
 
 # § 3 – Gefahrenklassen
 
@@ -739,23 +759,201 @@ b) durchzuführende Maßnahmen im Sinne des § 10 Absatz 4 Satz 1,
 
 (5) Vor dem Beginn von Abbruch-, Sanierungs- und Instandhaltungsarbeiten oder Bauarbeiten muss der Arbeitgeber für die Gefährdungsbeurteilung nach § 6 Informationen, insbesondere vom Auftraggeber oder Bauherrn, darüber einholen, ob entsprechend der Nutzungs- oder Baugeschichte des Objekts Gefahrstoffe, insbesondere Asbest, vorhanden oder zu erwarten sind. Weiter reichende Informations-, Schutz- und Überwachungspflichten, die sich für den Auftraggeber oder Bauherrn nach anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
+# § 15a – Verwendungsbeschränkungen
+
+(1) Biozid-Produkte dürfen nicht verwendet werden, soweit damit zu rechnen ist, dass ihre Verwendung im einzelnen Anwendungsfall schädliche Auswirkungen auf die Gesundheit von Menschen, Nicht-Zielorganismen oder auf die Umwelt hat.
+
+(2) Wer Biozid-Produkte verwendet, hat dies ordnungsgemäß zu tun. Zur ordnungsgemäßen Verwendung gehört insbesondere, dass
+
+1. die Verwendung von Biozid-Produkten auf das notwendige Mindestmaß begrenzt wird durch:
+
+a) das Abwägen von Nutzen und Risiken des Einsatzes des Biozid-Produkts und
+
+b) eine sachgerechte Berücksichtigung physikalischer, biologischer, chemischer und sonstiger Alternativen,
+
+2. das Biozid-Produkt nur für die in der Kennzeichnung oder der Zulassung ausgewiesenen Verwendungszwecke eingesetzt wird,
+
+3. die sich aus der Kennzeichnung oder der Zulassung ergebenden Verwendungsbedingungen eingehalten werden und
+
+4. die Qualifikation des Verwenders die Anforderungen erfüllt, die für die in der Zulassung festgelegte Verwenderkategorie erforderlich ist.
+
+(3) Die Absätze 1 und 2 gelten auch für private Haushalte.
+
+# § 15b – Allgemeine Anforderungen an die Verwendung von Biozid-Produkten
+
+(1) Der Arbeitgeber hat vor Verwendung eines Biozid-Produkts sicherzustellen, dass die Anforderungen nach § 15a erfüllt werden. Dies erfolgt hinsichtlich der Anforderungen nach
+
+1. § 15a Absatz 2 Satz 2 Nummer 1 im Rahmen der Substitutionsprüfung nach § 6 Absatz 1 Satz 2 Nummer 4,
+
+2. § 15a Absatz 2 Satz 2 Nummer 3 im Rahmen der Gefährdungsbeurteilung nach § 6 Absatz 1; dabei hat der Arbeitgeber insbesondere Folgendes zu berücksichtigen:
+
+a) die in der Zulassung festgelegten Maßnahmen zum Schutz der Sicherheit und Gesundheit sowie der Umwelt,
+
+b) die Kennzeichnung nach § 4 Absatz 5 und 6 einschließlich des gegebenenfalls beigefügten Merkblatts.
+
+(2) Der Arbeitgeber hat die erforderlichen Maßnahmen unter Beachtung der Rangfolge nach § 7 Absatz 4 Satz 4 und unter dem Gesichtspunkt einer nachhaltigen Verwendung so festzulegen und durchzuführen, dass eine Gefährdung der Beschäftigten, anderer Personen oder der Umwelt verhindert oder minimiert wird.
+
+(3) Eine Fachkunde im Sinne von Anhang I Nummer 4.3 ist erforderlich für die Verwendung von Biozid-Produkten,
+
+1. die zu der Hauptgruppe 3 „Schädlingsbekämpfungsmittel“ im Sinne des Anhangs V der Verordnung (EU) Nr. 528/2012 gehören oder
+
+2. deren Wirkstoffe endokrinschädigende Eigenschaften nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 528/2012 haben.
+
+Satz 1 gilt nicht, wenn das Biozid-Produkt für eine Verwendung durch die breite Öffentlichkeit zugelassen oder wenn für die Verwendung eine Sachkunde nach § 15c Absatz 3 erforderlich ist.
+
+# § 15c – Besondere Anforderungen an die Verwendung bestimmter Biozid-Produkte
+
+(1) Der Arbeitgeber hat die Pflichten nach den Absätzen 2 und 3 zu erfüllen, wenn Biozid-Produkte verwendet werden sollen,
+
+1. die eingestuft sind als
+
+a) akut toxisch Kategorie 1, 2 oder 3,
+
+b) krebserzeugend, keimzellmutagen oder reproduktionstoxisch Kategorie 1A oder 1B oder
+
+c) spezifisch zielorgantoxisch Kategorie 1 SE oder RE oder
+
+2. für die über die nach Nummer 1 erfassten Fälle hinaus für die vorgesehene Anwendung in der Zulassung die Verwenderkategorie „geschulter berufsmäßiger Verwender“ festgelegt wurde.
+
+(2) Der Arbeitgeber hat bei der zuständigen Behörde schriftlich oder elektronisch anzuzeigen:
+
+1. die erstmalige Verwendung von Biozid-Produkten nach Absatz 1 und
+
+2. den Beginn einer erneuten Verwendung von Biozid-Produkten nach Absatz 1 nach einer Unterbrechung von mehr als einem Jahr.
+
+Die Anzeige hat spätestens sechs Wochen vor Beginn der Verwendung zu erfolgen. Anhang I Nummer 4.2.1 ist zu beachten.
+
+(3) Die Verwendung von Biozid-Produkten nach Absatz 1 darf nur durch Personen erfolgen, die über eine für das jeweilige Biozid-Produkt geltende Sachkunde im Sinne von Anhang I Nummer 4.4 verfügen. Die Anforderungen an die Sachkunde sind von der Produktart, den Anwendungen, für die das Biozid-Produkt zugelassen ist, und dem Gefährdungspotential für Mensch und Umwelt abhängig.
+
+(4) Abweichend von Absatz 3 ist eine Sachkunde für die Verwendung der in Absatz 1 genannten Biozid-Produkte nicht erforderlich, wenn diese Tätigkeiten unter unmittelbarer und ständiger Aufsicht einer sachkundigen Person durchgeführt werden.
+
+# § 15d – Besondere Anforderungen bei Begasungen
+
+(1) Der Arbeitgeber bedarf einer Erlaubnis durch die zuständige Behörde, wenn Begasungen durchgeführt werden sollen. Die Erlaubnis ist nach Maßgabe des Anhangs I Nummer 4.1 vor der erstmaligen Durchführung von Begasungen schriftlich oder elektronisch zu beantragen. Sie kann befristet, mit Auflagen oder unter dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
+
+(2) Eine Erlaubnis ist nicht erforderlich, wenn wegen der geringen Menge des freiwerdenden Wirkstoffs eine Gefährdung für Mensch und Umwelt nicht besteht. Hierbei sind die nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
+
+(3) Der Arbeitgeber hat eine Begasung spätestens eine Woche vor deren Durchführung bei der zuständigen Behörde nach Maßgabe des Anhangs I Nummer 4.2.2 schriftlich oder elektronisch anzuzeigen. Die zuständige Behörde kann
+
+1. in begründeten Fällen auf die Einhaltung dieser Frist verzichten oder
+
+2. einer Sammelanzeige zustimmen, wenn Begasungen regelmäßig wiederholt werden und dabei die in der Anzeige beschriebenen Bedingungen unverändert bleiben.
+
+Bei Schiffs- und Containerbegasungen in Häfen verkürzt sich die Frist nach Satz 1 auf 24 Stunden.
+
+(4) Der Arbeitgeber hat für jede Begasung eine verantwortliche Person zu bestellen, die Inhaber eines Befähigungsscheins (Befähigungsscheininhaber) nach Anhang I Nummer 4.5 ist. Die verantwortliche Person hat
+
+1. bei Begasungen innerhalb von Räumen die Nutzer angrenzender Räume und Gebäude spätestens 24 Stunden vor Beginn der Tätigkeit schriftlich unter Hinweis auf die Gefahren der eingesetzten Biozid-Produkte oder Pflanzenschutzmittel zu warnen und
+
+2. sicherzustellen, dass
+
+a) die Begasung von einem Befähigungsscheininhaber durchgeführt wird,
+
+b) Zugänge zu den Gefahrenbereichen gemäß Anhang I Nummer 4.6 gekennzeichnet sind und
+
+c) neben einem Befähigungsscheininhaber mindestens eine weitere sachkundige Person anwesend ist, wenn Begasungen mit Biozid-Produkten durchgeführt werden sollen, für die in der Zulassung festgelegt wurde, dass
+
+aa)  
+eine Messung oder Überwachung der Wirkstoff- oder Sauerstoffkonzentration zu erfolgen hat oder
+
+bb)  
+ein unabhängig von der Umgebungsatmosphäre wirkendes Atemschutzgerät bereitzustellen und zu verwenden ist.
+
+(5) Bei einer Betriebsstörung, einem Unfall oder Notfall hat
+
+1. der anwesende Befähigungsscheininhaber den Gefahrenbereich zu sichern und darf ihn erst freigeben, wenn die Gefahr nicht mehr besteht und gefährliche Rückstände beseitigt sind,
+
+2. die sachkundige Person den Befähigungsscheininhaber zu unterstützen; dies gilt insbesondere bei Absperr- und Rettungsmaßnahmen.
+
+(6) Für Begasungen mit Pflanzenschutzmitteln gelten die Sachkundeanforderungen nach Anhang I Nummer 4.4 als erfüllt, wenn die Sachkunde nach dem Pflanzenschutzrecht erworben wurde.
+
+(7) Bei Begasungen von Transporteinheiten
+
+1. im Freien muss ein allseitiger Sicherheitsabstand von mindestens 10 Metern zu den benachbarten Gebäuden eingehalten werden,
+
+2. sind diese von der verantwortlichen Person abzudichten, auf ihre Gasdichtheit zu prüfen sowie für die Dauer der Verwendung abzuschließen, zu verplomben und allseitig sichtbar mit einem Warnzeichen nach Anhang I Nummer 4.6 zu kennzeichnen.
+
+# § 15e – Ergänzende Dokumentationspflichten
+
+(1) Der Arbeitgeber hat dafür Sorge zu tragen, dass über die Begasungen eine Niederschrift angefertigt wird. In der Niederschrift ist zu dokumentieren:
+
+1. Name der verantwortlichen Person,
+
+2. Art und Menge der verwendeten Biozid-Produkte oder Pflanzenschutzmittel,
+
+3. Ort, Beginn und Ende der Begasung,
+
+4. Zeitpunkt der Freigabe,
+
+5. andere im Sinne von § 15 beteiligte Arbeitgeber und
+
+6. die getroffenen Maßnahmen.
+
+(2) Der Arbeitgeber hat der zuständigen Behörde die Niederschrift auf Verlangen vorzulegen.
+
+(3) Werden für die Begasungen Pflanzenschutzmittel verwendet, kann die Niederschrift zusammen mit den Aufzeichnungen nach Artikel 67 Absatz 1 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1; L 111 vom 2.5.2018, S. 10; L 45 vom 18.2.2020, S. 81), die zuletzt durch die Verordnung (EU) 2019/1381 vom 20. Juni 2019 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, erstellt werden.
+
+# § 15f – Anforderungen an den Umgang mit Transporteinheiten
+
+(1) Kann nicht ausgeschlossen werden, dass Transporteinheiten wie Fahrzeuge, Waggons, Schiffe, Tanks, Container oder andere Transportbehälter begast wurden, so hat der Arbeitgeber dies vor dem Öffnen der Transporteinheiten zu ermitteln.
+
+(2) Ergibt die Ermittlung, dass die Transporteinheit begast wurde, hat der Arbeitgeber die erforderlichen Schutzmaßnahmen zu treffen. Dabei ist insbesondere sicherzustellen, dass Beschäftigte gegenüber den Biozid-Produkten oder Pflanzenschutzmitteln nicht exponiert werden. Kann eine Exposition nicht ausgeschlossen werden, hat das Öffnen, Lüften und die Freigabe der Transporteinheit durch eine Person zu erfolgen, die über eine Fachkunde im Sinne von Anhang I Nummer 4.3 verfügt.
+
+# § 15g – Besondere Anforderungen an Begasungen auf Schiffen
+
+(1) Begasungen auf Schiffen sind nur zulässig, wenn
+
+1. das Begasungsmittel für diese Verwendung zugelassen ist und
+
+2. die erforderlichen Maßnahmen getroffen wurden, um die Sicherheit der Besatzung und anderer Personen jederzeit hinreichend zu gewährleisten.
+
+(2) Bei Begasungen auf Schiffen hat die verantwortliche Person
+
+1. sicherzustellen, dass eine Kennzeichnung entsprechend Anhang I Nummer 4.6 erfolgt,
+
+2. vor Beginn der Begasung der Schiffsführerin beziehungsweise dem Schiffsführer schriftlich mitzuteilen:
+
+a) den Zeitpunkt und die betroffenen Räume,
+
+b) Art, Umfang und Dauer der Begasung einschließlich der Angaben zu dem verwendeten Begasungsmittel,
+
+c) die getroffenen Schutz- und Sicherheitsmaßnahmen einschließlich der erforderlichen technischen Änderungen, die am Schiff vorgenommen wurden,
+
+3. vor Verlassen des Hafens oder der Beladestelle der Schiffsführerin beziehungsweise dem Schiffsführer schriftlich zu bestätigen, dass
+
+a) die begasten Räume hinreichend gasdicht sind und
+
+b) die angrenzenden Räume von Begasungsmitteln frei sind.
+
+(3) Die Gasdichtheit der begasten Räume muss mindestens alle acht Stunden geprüft werden. Die Ergebnisse der Prüfungen sind zu dokumentieren. Die Schiffsführerin beziehungsweise der Schiffsführer hat der Hafenbehörde beziehungsweise der zuständigen Person der Entladestelle spätestens 24 Stunden vor Ankunft des Schiffs die Art und den Zeitpunkt der Begasung anzuzeigen und dabei mitzuteilen, welche Räume begast worden sind.
+
+(4) Die Beförderung begaster Transporteinheiten auf Schiffen darf nur erfolgen, wenn sichergestellt ist, dass sich außerhalb der Transporteinheiten keine gefährlichen Gaskonzentrationen entwickeln. Die Anzeigepflicht nach Absatz 3 Satz 3 gilt entsprechend.
+
+# § 15h – Ausnahmen von Abschnitt 4a
+
+(1) Es finden keine Anwendung
+
+1. Abschnitt 4a sowie Anhang I Nummer 4 auf Begasungen, wenn diese ausschließlich der Forschung und Entwicklung oder der institutionellen Eignungsprüfung der Biozid-Produkte, Pflanzenschutzmittel oder deren Anwendungsverfahren dienen,
+
+2. § 15c Absatz 3 auf die Verwendung von Biozid-Produkten der Hauptgruppe 3 Schädlingsbekämpfungsmittel, die als akut toxisch Kategorie 1, 2 oder 3 eingestuft sind, wenn sich entsprechende Anforderungen bereits aus anderen Rechtsvorschriften ergeben,
+
+3. §§ 15d und 15e auf Begasungen in vollautomatisch programmgesteuerten Sterilisatoren im medizinischen Bereich, die einem verfahrens- und stoffspezifischen Kriterium entsprechen, das nach § 20 Absatz 4 bekanntgegeben wurde,
+
+4. § 15d Absatz 3 auf Begasungen, wenn diese durchgeführt werden
+
+a) im medizinischen Bereich oder
+
+b) innerhalb ortsfester Sterilisationskammern.
+
+(2) Die Ausnahmen nach Absatz 1 gelten nicht für Biozid-Produkte soweit in der Zulassung des jeweiligen Biozid-Produkts etwas Anderes bestimmt ist.
+
 # § 16 – Herstellungs- und Verwendungsbeschränkungen
 
 (1) Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse ergeben sich aus Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006.
 
 (2) Nach Maßgabe des Anhangs II bestehen weitere Herstellungs- und Verwendungsbeschränkungen für dort genannte Stoffe, Gemische und Erzeugnisse.
 
-(3) Biozid-Produkte dürfen nicht verwendet werden, soweit damit zu rechnen ist, dass ihre Verwendung im einzelnen Anwendungsfall schädliche Auswirkungen auf die Gesundheit von Menschen, Nicht-Zielorganismen oder auf die Umwelt hat. Wer Biozid-Produkte verwendet, hat dies ordnungsgemäß zu tun. Zur ordnungsgemäßen Verwendung gehört es insbesondere, dass
-
-1. ein Biozid-Produkt nur für die in der Kennzeichnung ausgewiesenen Verwendungszwecke eingesetzt wird,
-
-2. die sich aus der Kennzeichnung und der Zulassung ergebenden Verwendungsbedingungen eingehalten werden und
-
-3. der Einsatz von Biozid-Produkten durch eine sachgerechte Berücksichtigung physikalischer, biologischer, chemischer und sonstiger Alternativen auf das Minimum begrenzt wird.
-
-Die Sätze 1 bis 3 gelten auch für private Haushalte.
-
-(4) Der Arbeitgeber darf in Heimarbeit beschäftigte Personen nur Tätigkeiten mit geringer Gefährdung im Sinne des § 6 Absatz 11 ausüben lassen.
+(3) Der Arbeitgeber darf in Heimarbeit beschäftigte Personen nur Tätigkeiten mit geringer Gefährdung im Sinne des § 6 Absatz 13 ausüben lassen.
 
 # § 17 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
 
@@ -839,6 +1037,12 @@ Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigte
 
 (5) Die zuständige Behörde kann dem Arbeitgeber untersagen, Tätigkeiten mit Gefahrstoffen auszuüben oder ausüben zu lassen, und insbesondere eine Stilllegung der betroffenen Arbeitsbereiche anordnen, wenn der Arbeitgeber der Mitteilungspflicht nach § 18 Absatz 2 Nummer 1 nicht nachkommt.
 
+# § 19a – Anerkennung ausländischer Qualifikationen
+
+(1) Die zuständige Behörde erkennt auf Antrag an, dass eine ausländische Aus- oder Weiterbildung dem Erwerb einer Sachkunde im Sinne von § 2 Absatz 17 gleichwertig ist, wenn durch sie Kenntnisse erlangt wurden, die den Sachkundeanforderungen der nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnissen entsprechen.
+
+(2) Die Behörde entscheidet über die Gleichwertigkeit einer ausländischen Qualifikation auf Grundlage der ihr vorliegenden oder zusätzlich vom Antragsteller vorgelegten Nachweise. Die Nachweise sind in deutscher Sprache beizubringen. Die Gleichwertigkeit wird durch eine Bescheinigung bestätigt.
+
 # § 20 – Ausschuss für Gefahrstoffe
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Gefahrstoffe (AGS) gebildet, in dem geeignete Personen vonseiten der Arbeitgeber, der Gewerkschaften, der Landesbehörden, der gesetzlichen Unfallversicherung und weitere geeignete Personen, insbesondere aus der Wissenschaft, vertreten sein sollen. Die Gesamtzahl der Mitglieder soll 21 Personen nicht überschreiten. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss für Gefahrstoffe ist ehrenamtlich.
@@ -877,23 +1081,13 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 1. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 1 Satz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-2. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.4 Absatz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+2. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-3. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.4 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
+3. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
 
-4. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.6 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+4. § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-5. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 4.3.2 Absatz 1 Satz 1 oder Absatz 2 in Verbindung mit Absatz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
-
-6. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 4.3.2 Absatz 4 eine Anzeige nicht oder nicht rechtzeitig erstattet,
-
-7. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
-
-8. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
-
-9. entgegen § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
-
-10. entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+5. entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 # § 22 – Chemikaliengesetz – Tätigkeiten
 
@@ -905,21 +1099,19 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
  3. entgegen § 7 Absatz 1 eine Tätigkeit aufnehmen lässt,
 
- 3a. entgegen § 7 Absatz 5 Satz 2 das Verwenden von belastender persönlicher Schutzausrüstung als Dauermaßnahme anwendet,
+ 4. entgegen § 7 Absatz 5 Satz 2 das Verwenden von belastender persönlicher Schutzausrüstung als Dauermaßnahme anwendet,
 
- 4. entgegen § 7 Absatz 7 Satz 1 die Funktion und die Wirksamkeit der technischen Schutzmaßnahmen nicht oder nicht rechtzeitig überprüft,
+ 5. entgegen § 7 Absatz 7 Satz 1 die Funktion und die Wirksamkeit der technischen Schutzmaßnahmen nicht oder nicht rechtzeitig überprüft,
 
- 5. entgegen § 8 Absatz 2 Satz 3 eine Tätigkeit ausüben lässt,
+ 6. entgegen § 8 Absatz 2 Satz 3 eine Tätigkeit ausüben lässt,
 
- 6. entgegen § 8 Absatz 3 Satz 2 einen Bereich nicht oder nicht rechtzeitig einrichtet,
+ 7. entgegen § 8 Absatz 3 Satz 2 einen Bereich nicht oder nicht rechtzeitig einrichtet,
 
- 7. entgegen § 8 Absatz 5 Satz 3 Gefahrstoffe aufbewahrt oder lagert,
+ 8. entgegen § 8 Absatz 5 Satz 3 Gefahrstoffe aufbewahrt oder lagert,
 
- 8. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 2 nicht dafür sorgt, dass eine weisungsbefugte sachkundige Person vor Ort tätig ist,
+ 9. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 2 nicht dafür sorgt, dass eine weisungsbefugte sachkundige Person vor Ort tätig ist,
 
- 9. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig aufstellt,
-
-10. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.3 Satz 2 eine Schädlingsbekämpfung durchführt,
+10. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig aufstellt,
 
 11. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.1 Absatz 2 Stoffe oder Gemische der Gruppe A lagert oder befördert,
 
@@ -961,9 +1153,17 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 26. entgegen § 14 Absatz 3 Nummer 2 nicht oder nicht rechtzeitig sicherstellt, dass die Beschäftigten und ihre Vertretung unterrichtet und informiert werden,
 
-27. entgegen § 14 Absatz 3 Nummer 3 nicht sicherstellt, dass ein aktualisiertes Verzeichnis geführt wird, oder
+27. entgegen § 14 Absatz 3 Nummer 3 nicht sicherstellt, dass ein aktualisiertes Verzeichnis geführt wird,
 
-28. entgegen § 14 Absatz 3 Nummer 4 nicht sicherstellt, dass ein aktualisiertes Verzeichnis 40 Jahre nach Ende der Exposition aufbewahrt wird.
+28. entgegen § 14 Absatz 3 Nummer 4 nicht sicherstellt, dass ein aktualisiertes Verzeichnis 40 Jahre nach Ende der Exposition aufbewahrt wird,
+
+29. entgegen § 15c Absatz 3 Satz 1 ein Biozid-Produkt verwendet,
+
+30. entgegen § 15d Absatz 4 Satz 2 Nummer 2 Buchstabe a nicht sicherstellt, dass die Begasung von einer dort genannten Person durchgeführt wird,
+
+31. entgegen § 15d Absatz 4 Satz 2 Nummer 2 Buchstabe c nicht sicherstellt, dass neben dem Befähigungsscheininhaber eine weitere sachkundige Person anwesend ist, oder
+
+32. entgegen § 15d Absatz 5 Nummer 1 einen Gefahrenbereich nicht oder nicht rechtzeitig sichert oder einen Gefahrenbereich freigibt.
 
 (2) Wer durch eine in Absatz 1 bezeichnete Handlung das Leben oder die Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 27 Absatz 2 bis 4 des Chemikaliengesetzes strafbar.
 
@@ -973,41 +1173,43 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 6 Absatz 1 einen dort aufgeführten Stoff verwendet,
+1. entgegen § 15a Absatz 2 Satz 1 ein Biozid-Produkt in den Fällen des § 15a Absatz 2 Satz 2 Nummer 2 oder 3 nicht richtig verwendet oder
 
-2. entgegen § 16 Absatz 3 Satz 2 in Verbindung mit Satz 3 Nummer 1, auch in Verbindung mit Satz 4, ein Biozid-Produkt für einen nicht in der Kennzeichnung ausgewiesenen Verwendungszweck einsetzt oder
-
-3. entgegen § 16 Absatz 3 Satz 2 in Verbindung mit Satz 3 Nummer 2, auch in Verbindung mit Satz 4, eine sich aus der Kennzeichnung oder der Zulassung ergebende Verwendungsbedingung nicht einhält.
+2. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 6 Absatz 1 einen dort aufgeführten Stoff verwendet.
 
 (2) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 1 oder Absatz 4 Satz 1 Abbruch-, Sanierungs- oder Instandhaltungsarbeiten durchführt,
 
-2. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.5 Satz 1 Schädlingsbekämpfungen durchführt,
+2. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 1 auch in Verbindung mit Satz 3 Arbeiten durchführt,
 
-3. ohne Erlaubnis nach § 8 Absatz 8 in Verbindung mit Anhang I Nummer 4.2 Absatz 1 Begasungen durchführt,
+3. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 4 Überdeckungs-, Überbauungs-, Aufständerungs-, Reinigungs- oder Beschichtungsarbeiten durchführt,
 
-4. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 4.2 Absatz 7 Satz 1 Begasungen durchführt,
+4. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 5 asbesthaltige Gegenstände oder Materialien zu anderen Zwecken weiterverwendet,
 
-5. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 1 auch in Verbindung mit Satz 3 Arbeiten durchführt,
+5. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 2 Absatz 1 die dort aufgeführten Stoffe oder Gemische herstellt,
 
-6. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 4 Überdeckungs-, Überbauungs-, Aufständerungs-, Reinigungs- oder Beschichtungsarbeiten durchführt,
+6. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 3 Absatz 1 die dort aufgeführten Erzeugnisse verwendet,
 
-7. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 5 asbesthaltige Gegenstände oder Materialien zu anderen Zwecken weiterverwendet,
+7. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 4 Absatz 1, Absatz 3 Satz 1 oder Absatz 4 die dort aufgeführten Kühlschmierstoffe oder Korrosionsschutzmittel verwendet oder
 
-8. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 2 Absatz 1 die dort aufgeführten Stoffe oder Gemische herstellt,
+8. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Gemische oder Erzeugnisse herstellt oder verwendet.
 
-9. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 3 Absatz 1 die dort aufgeführten Erzeugnisse verwendet,
+# § 25 – Übergangsvorschriften
 
-10. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 4 Absatz 1, Absatz 3 Satz 1 oder Absatz 4 die dort aufgeführten Kühlschmierstoffe oder Korrosionsschutzmittel verwendet oder
+(1) Auf die Verwendung von Biozid-Produkten, die unter die Übergangsregelung des § 28 Absatz 8 des Chemikaliengesetzes fallen, finden folgende Vorschriften keine Anwendung soweit deren Erfüllung einer solchen Zulassung nach der Verordnung (EU) Nr. 528/2012 bedarf:
 
-11. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Gemische oder Erzeugnisse herstellt oder verwendet.
+1. § 15a Absatz 2 Satz 2 Nummer 4,
 
-# § 25 – Übergangsvorschrift
+2. § 15b Absatz 1 Nummer 2 Buchstabe a und Absatz 3,
 
-§ 10 Absatz 5 findet hinsichtlich der fruchtschädigenden Wirkungen von reproduktionstoxischen Stoffen oder Gemischen ab dem 1. Januar 2019 Anwendung.
+3. § 15c Absatz 1 Nummer 2.
 
-# Anhang I – (zu § 8 Absatz 8, § 11 Absatz 3)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
+Für diese Biozid-Produkte sind bis zur Erteilung einer Zulassung die entsprechenden nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
+
+(2) Für eine Verwendung von Biozid-Produkten nach § 15c Absatz 1, die bis zum 30. September 2021 ohne Sachkunde ausgeübt werden konnte, ist die Sachkunde spätestens bis zum 28. Juli 2025 nachzuweisen.
+
+# Anhang I – (zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
 (Fundstelle: BGBl. I 2010, 1660 - 1673;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1290,273 +1492,157 @@ Ergänzende Bestimmungen zur Unterweisung der Beschäftigten
 
 7. arbeitsmedizinische Vorsorgeuntersuchungen nach der Verordnung zur arbeitsmedizinischen Vorsorge.
 
-3.1  
-Anwendungsbereich
+4.1  
+Erlaubnis
 
-Nummer 3 gilt für die Schädlingsbekämpfung mit als akut toxisch Kategorie 1 bis 4 oder spezifisch zielorgantoxisch Kategorie 1 oder 2 eingestuften Stoffen und Gemischen sowie Gemischen sowie Zubereitungen, bei denen die genannten Stoffe freigesetzt werden, soweit die Bekämpfung nicht bereits durch andere Rechtsvorschriften geregelt ist. Nummer 3 gilt für jeden, der Schädlingsbekämpfung
+(1) Die Erlaubnis nach § 15d Absatz 1 wird erteilt, wenn
 
-1. berufsmäßig bei anderen durchführt oder
+1. der Arbeitgeber nachgewiesen hat, dass
 
-2. nicht nur gelegentlich und nicht nur in geringem Umfang im eigenen Betrieb, in dem Lebensmittel hergestellt, behandelt oder in Verkehr gebracht werden, oder in einer Einrichtung durchführt, die in § 23 Absatz 5 oder § 36 des Infektionsschutzgesetzes genannt ist.
+a) die für die Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung gegeben ist,
 
-Von einer Freisetzung ist auch auszugehen, wenn Wirkstoffe nach Satz 1 erst beim bestimmungsgemäßen Gebrauch entstehen. Nummer 3 gilt nicht, wenn eine Schädlingsbekämpfung in deutschen Flugzeugen oder auf deutschen Schiffen außerhalb des Staatsgebiets der Bundesrepublik Deutschland auf der Grundlage internationaler Gesundheitsvorschriften durchgeführt wird.
+b) die Einhaltung der einschlägigen Arbeitsschutzvorschriften gewährleistet ist und
 
-3.2  
-Begriffsbestimmung
+2. keine Bedenken gegen die Zuverlässigkeit des Arbeitgebers bestehen.
 
-Schädlingsbekämpfungsmittel sind Stoffe und Gemische, die dazu bestimmt sind, Schädlinge und Schadorganismen oder lästige Organismen unschädlich zu machen oder zu vernichten.
+(2) Dem Erlaubnisantrag nach § 15d Absatz 1 Satz 2 hat der Arbeitgeber Folgendes beizufügen:
 
-3.3  
-Allgemeine Anforderungen
+1. eine Beschreibung der beabsichtigten Anwendungsbereiche von Begasungen,
 
-Die Schädlingsbekämpfung ist so durchzuführen, dass Mensch und Umwelt nicht gefährdet werden. Sie darf nur mit Schädlingsbekämpfungsmitteln durchgeführt werden, die verkehrsfähig sind
+2. die Angabe der zu verwendenden Wirkstoffe,
 
-1. als Biozid-Produkte nach Abschnitt IIa des Chemikaliengesetzes oder
+3. den Nachweis, dass die räumliche und sicherheitstechnische Ausstattung des Unternehmens für die geplanten Begasungen ausreichend und geeignet ist,
 
-2. als Pflanzenschutzmittel nach dem Pflanzenschutzgesetz.
+4. Angaben zur Anzahl
 
-3.4  
-Anzeigepflicht
+a) der Beschäftigten, die die beabsichtigten Begasungen durchführen sollen,
 
-(1) Wer Schädlingsbekämpfungen nach Nummer 3.1 erstmals durchführen oder nach mehr als einjähriger Unterbrechung wieder aufnehmen will, hat dies mindestens sechs Wochen vor Aufnahme der ersten Tätigkeit der zuständigen Behörde anzuzeigen.
+b) der sachkundigen Personen,
 
-(2) Die Anzeige muss insbesondere folgende Angaben enthalten:
+c) der Befähigungsscheininhaber
 
-1. den Nachweis, dass die personelle, räumliche und sicherheitstechnische Ausstattung des Unternehmens für diese Arbeiten ausreichend geeignet ist,
+und
 
-2. die Zahl der Beschäftigten, die mit den Schädlingsbekämpfungsmitteln umgehen,
+5. Kopien der Sachkundenachweise der sachkundigen Personen sowie der Befähigungsscheine der Befähigungsscheininhaber.
 
-3. zu den zur Schädlingsbekämpfung vorgesehenen Schädlingsbekämpfungsmitteln die
+4.2  
+Anzeige
 
-a) Bezeichnungen,
+4.2.1  Unternehmensbezogene Anzeige
 
-b) Eigenschaften,
+In der Anzeige nach § 15c Absatz 2 hat der Arbeitgeber anzugeben:
 
-c) Wirkungsmechanismen,
+1. den Namen des Antragstellers,
 
-d) Anwendungsverfahren und
+2. die Anschrift der Betriebsstätte und
 
-e) Dekontaminationsverfahren,
+3. Angaben
 
-4. die Bereiche der vorgesehenen Schädlingsbekämpfung sowie Zielorganismen, gegen die die Schädlingsbekämpfung durchgeführt werden soll, und
+a) über die personelle, räumliche und sicherheitstechnische Ausstattung des Unternehmens und
 
-5. das Ergebnis der Substitutionsprüfung nach § 6 Absatz 1 Satz 2 Nummer 4.
+b) zur Art und beabsichtigten Verwendung der Biozid-Produkte oder Biozid-Wirkstoffe.
 
-(3) Änderungen bezüglich der Angaben nach Absatz 2 Ziffer 1 bis 5 sind vom Arbeitgeber der zuständigen Behörde unverzüglich anzuzeigen.
+4.2.2  Tätigkeitsbezogene Anzeige
 
-(4) Eine ausreichend geeignete personelle Ausstattung ist gegeben, wenn geeignete und sachkundige Personen beschäftigt werden.
+In der Anzeige nach § 15d Absatz 3 hat der Arbeitgeber
 
-(5) Geeignet im Sinne von Absatz 4 ist, wer
+1. anzugeben
+
+a) das Datum der Tätigkeiten, einschließlich der geplanten Arbeitsschritte und des voraussichtlichen Beginns und Endes der Tätigkeiten, sowie Zeitpunkte der Dichtheitsprüfung und Freigabe, soweit diese erforderlich sind,
+
+b) die Bezeichnung und Zulassungs- oder Registriernummer des Biozid-Produkts oder des Pflanzenschutzmittels sowie dessen Einsatzmenge,
+
+c) den Namen der verantwortlichen Person sowie, soweit erforderlich, weiterer Befähigungsscheininhaber
+
+und
+
+2. vorzulegen
+
+a) Kopien der Befähigungsscheine und
+
+b) einen Lageplan des Ortes oder des zu begasenden Objekts.
+
+4.3  
+Fachkunde
+
+Die Fachkunde nach § 15b Absatz 3 und § 15f Absatz 2 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um die verwendeten Biozid-Produkte bestimmungsgemäß und fachgerecht verwenden zu können. Hinsichtlich des Inhalts und des Umfangs der Fachkunde sind die nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
+
+4.4  
+Sachkunde
+
+(1) Die erforderliche Sachkunde wird durch Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einem Sachkundelehrgang nachgewiesen. Der Sachkundelehrgang muss die Anforderungen der Absätze 3 und 4 erfüllen und von der zuständigen Behörde anerkannt sein. Die zuständige Behörde kann eine anderweitige Aus- oder Weiterbildung als gleichwertig mit einem Sachkundelehrgang anerkennen, wenn die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten im Sinne von Absatz 3 erworben wurden, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können. Werden die entsprechenden Kenntnisse aufgrund anderer Rechtsvorschriften zum Beispiel nach dem Pflanzenschutzrecht erworben, gelten die Sachkundeanforderungen als erfüllt.
+
+(2) Beschränkt sich die vorgesehene Verwendung der Biozid-Produkte auf bestimmte Anwendungsbereiche, so kann auch eine Sachkunde anerkannt werden, die auf diese Bereiche bezogen ist. Dies gilt
+
+1. für Aus- und Weiterbildungsabschlüsse, die in einer Bekanntmachung nach § 20 Absatz 4 genannt sind sowie
+
+2. hinsichtlich der jeweiligen Bereiche der Schädlingsbekämpfung für
+
+a) Abschlüsse nach der Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin vom 15. Juli 2004 (BGBl. I S. 1638),
+
+b) Prüfungen nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Schädlingsbekämpfer/Geprüfte Schädlingsbekämpferin vom 19. März 1984 (BGBl. I S. 468) und
+
+c) Prüfungen zum Gehilfen oder Meister für Schädlingsbekämpfung nach nicht mehr geltendem Recht in der Bundesrepublik Deutschland oder nach dem Recht der Deutschen Demokratischen Republik.
+
+(3) Der Sachkundelehrgang hat die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten zu vermitteln, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können. In Abhängigkeit von Biozid-Produkt und Verwendungsart gehören hierzu die erforderlichen allgemeinen Grundkenntnisse der Toxikologie und Ökotoxikologie sowie:
+
+1. Kenntnisse der einschlägigen Rechtsvorschriften sowie der Bekanntmachungen nach § 20 Absatz 4,
+
+2. Kenntnisse über die Wirkungen der jeweiligen Biozid-Produkte auf die menschliche Gesundheit und die Umwelt,
+
+3. Kenntnisse über die Ermittlung und Einschätzung der Zielbereiche und Zieltierarten für den Einsatz von Biozid-Produkten,
+
+4. Kenntnisse und Fertigkeiten für einen nachhaltigen, risikominimierenden Einsatz der jeweiligen Biozid-Produkte,
+
+5. Kenntnisse über die Möglichkeiten, einem Befall vorzubeugen, und alternativer Verfahren zur Schädlingsbekämpfung und die entsprechenden Fertigkeiten,
+
+6. Kenntnisse und Fertigkeiten zur Dosierung und Ausbringung,
+
+7. Kenntnisse zur Erfolgs- und Wirksamkeitskontrolle und
+
+8. Kenntnisse zur fachgerechten Entsorgung.
+
+(4) Teil des Lehrgangs ist eine theoretische und praktische Prüfung über die wesentlichen Inhalte des Sachkundelehrgangs. Dabei sind die Bekanntmachungen nach § 20 Absatz 4 zu berücksichtigen.
+
+(5) Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Die Geltungsdauer verlängert sich um sechs Jahre ab dem Datum der Erteilung eines Nachweises über den Abschluss eines behördlich anerkannten Fortbildungslehrgangs.
+
+4.5  
+Befähigungsschein
+
+(1) Ein Befähigungsschein nach § 15d Absatz 4 kann von der zuständigen Behörde auf Antrag erteilt werden, wenn der Antragsteller
 
 1. mindestens 18 Jahre alt ist,
 
-2. die für den Umgang mit Schädlingsbekämpfungsmitteln erforderliche Zuverlässigkeit besitzt und
+2. über eine geeignete Berufsausbildung oder vergleichbare berufliche Qualifikation verfügt,
 
-3. durch das Zeugnis einer Ärztin oder eines Arztes nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge nachweist, dass keine Anhaltspunkte vorliegen, die ihn für den Umgang mit Schädlingsbekämpfungsmitteln körperlich oder geistig ungeeignet erscheinen lassen; das Zeugnis darf nicht älter als fünf Jahre sein.
+3. die erforderliche Zuverlässigkeit besitzt,
 
-(6) Sachkundig im Sinne von Absatz 4 ist, wer sich regelmäßig fortbildet und
+4. physisch und psychisch geeignet ist, nachgewiesen durch das Zeugnis eines Arztes nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge; das Zeugnis darf zum Zeitpunkt des Antrags auf Ausstellung des Befähigungsscheins nicht älter als ein Jahr sein,
 
-1. die Prüfung nach der Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin vom 15. Juli 2004 (BGBl. I S. 1638) abgelegt hat,
+5. eine mit der Tätigkeit verbundene spezifische Sachkunde durch die erfolgreiche Teilnahme an einem von der zuständigen Behörde anerkannten Sachkundelehrgang nachweist und
 
-2. die Prüfung nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Schädlingsbekämpfer/Geprüfte Schädlingsbekämpferin vom 19. März 1984 (BGBl. I S. 468) abgelegt hat oder
+6. die für die sichere Ausübung der Tätigkeit erforderlichen Sprachkenntnisse besitzt.
 
-3. die Prüfung zum Gehilfen oder Meister für Schädlingsbekämpfung nach nicht mehr geltendem Recht in der Bundesrepublik Deutschland oder nach dem Recht der Deutschen Demokratischen Republik abgelegt hat.
+(2) Der Befähigungsschein wird für höchstens sechs Jahre erteilt. Die Geltungsdauer kann um jeweils sechs Jahre verlängert werden, wenn nachgewiesen wird, dass
 
-Sachkundig ist auch, wer eine Prüfung abgelegt oder eine Ausbildung erfolgreich abgeschlossen hat, die von der zuständigen Behörde als den Prüfungen nach Satz 1 gleichwertig anerkannt worden ist. Beschränkt sich die vorgesehene Schädlingsbekämpfung auf bestimmte Anwendungsbereiche, ist sachkundig auch, wer eine Prüfung abgelegt oder eine Ausbildung erfolgreich abgeschlossen hat, die von der zuständigen Behörde für diese Tätigkeiten als geeignet anerkannt worden ist.
+1. die in Absatz 1 genannten Voraussetzungen erfüllt sind und
 
-3.5  
-Einsatz von Hilfskräften
+2. der Befähigungsscheininhaber vor Ablauf der Geltungsdauer einen Fortbildungslehrgang nach Nummer 4.4 Absatz 5 absolviert hat.
 
-Schädlingsbekämpfungen nach Nummer 3.1 dürfen nur solche Personen durchführen, die die Anforderungen nach Nummer 3.4 Absatz 5 und 6 erfüllen. Hilfskräfte dürfen nur unter der unmittelbaren und ständigen Aufsicht einer sachkundigen Person eingesetzt werden und müssen entsprechend ihrer Tätigkeit nachweislich regelmäßig unterwiesen werden.
+(3) Die zuständige Behörde kann die Geltungsdauer eines Befähigungsscheins um höchstens sechs Monate verlängern, wenn der Besuch eines behördlich anerkannten Fortbildungslehrgangs wegen unverhältnismäßiger Härte nicht rechtzeitig erfolgen kann.
 
-3.6  
-Schädlingsbekämpfung in Gemeinschaftseinrichtungen
+(4) Der Befähigungsschein kann widerrufen werden, wenn die erforderlichen Voraussetzungen nach Absatz 1 nicht mehr erfüllt sind.
 
-Die Anwendung von Schädlingsbekämpfungsmitteln in Gemeinschaftseinrichtungen, insbesondere in Schulen, Kindertagesstätten und Krankenhäusern, ist der zuständigen Behörde schriftlich oder elektronisch, in der Regel mindestens 14 Tage im Voraus, anzuzeigen. Erfolgt die Anzeige elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der der Anzeige beizufügenden Unterlagen auch in schriftlicher Form verlangen. Dabei sind der Umfang, die Anwendung, die verwendeten Mittel, das Ausbringungsverfahren und die vorgesehenen Schutzmaßnahmen anzugeben.
+4.6  
+Kennzeichnung bei Begasungen von Räumen und Transporteinheiten
 
-3.7  
-Dokumentation
+(1) Die Kennzeichnung nach § 15d Absatz 4 Satz 2 Nummer 2 Buchstabe b, § 15d Absatz 7 Nummer 2 und § 15g Absatz 2 Nummer 1 hat an den Zugängen begaster Räume und Transporteinheiten sowie an denen von Räumen oder Transporteinheiten, in denen Güter begast wurden, zu erfolgen. Dazu ist ein Hinweis anzubringen, dem Name und Telefonnummer der verantwortlichen Person zu entnehmen ist. Darüber hinaus sind die Zugänge mit einem Warnzeichen zu versehen. Das Warnzeichen muss rechteckig und die Mindestmaße von 400 mm in der Breite und 300 mm in der Höhe haben. Die Mindestbreite der Außenlinie muss 2 mm betragen. Die Aufschriften müssen schwarz auf weißem Grund sein und mindestens folgende Angaben enthalten:
 
-Die Anwendung von Schädlingsbekämpfungsmitteln ist ausreichend zu dokumentieren. Die Aufzeichnungen sind mindestens fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+1. den Hinweis GEFAHR,
 
-4.1  
-Anwendungsbereich
+2. das für das jeweilige Begasungsmittel zutreffende Gefahrensymbol (für akut toxische Gefahrstoffe der Kategorie 1 bis 3 der Totenkopf mit gekreuzten Knochen),
 
-(1) Nummer 4 gilt für Tätigkeiten mit folgenden Stoffen und Gemischen, sofern sie als Begasungsmittel zugelassen sind und als solche eingesetzt werden:
-
-1. Hydrogencyanid (Cyanwasserstoff, Blausäure) sowie Stoffe und Gemische, die zum Entwickeln oder Verdampfen von Hydrogencyanid oder leicht flüchtigen Hydrogencyanidverbindungen dienen,
-
-2. Phosphorwasserstoff sowie Stoffe und Gemische, die Phosphorwasserstoff entwickeln,
-
-3. Ethylenoxid und Gemische, die Ethylenoxid enthalten,
-
-4. Sulfuryldifluorid (Sulfurylfluorid).
-
-(2) Nummer 4 gilt auch für Tätigkeiten bei Raumdesinfektionen mit Formaldehydlösungen, einschließlich Stoffen und Gemischen, aus denen sich Formaldehyd entwickelt oder verdampft, oder bei denen Formaldehyd sich gasförmig oder in Form schwebfähiger Flüssigkeitströpfchen verteilt, um die Desinfektion sämtlicher Flächen eines Raumes zu erreichen.
-
-(3) Nummer 4 gilt auch für Begasungstätigkeiten mit anderen Stoffen oder Gemischen, die als akut toxisch Kategorie 1, 2 oder 3 oder spezifisch zielorgantoxisch Kategorie 1 einzustufen und für diese Tätigkeiten zugelassen sind. Dies gilt auch für Biozid-Produkte, auf die die Übergangsbestimmungen des § 28 Absatz 8 des Chemikaliengesetzes anzuwenden sind.
-
-(4) Nummer 4 gilt auch für Tätigkeiten an begasten Transporteinheiten jeder Art wie Fahrzeugen, Waggons, Schiffen, Tanks und Containern, die mit Begasungsmitteln behandelt worden sind, die als akut toxisch Kategorie 1, 2 oder 3 oder spezifisch zielorgantoxisch Kategorie 1 einzustufen sind. Satz 1 gilt auch für Tätigkeiten an Transporteinheiten, die im Ausland begast worden sind und in den Geltungsbereich dieser Verordnung gelangen.
-
-(5) Nummer 4 gilt nicht für Tätigkeiten mit Begasungsmitteln in vollautomatisch programmgesteuerten Sterilisatoren im medizinischen Bereich, soweit die Tätigkeiten entsprechend einem verfahrens- und stoffspezifischen Kriterium ausgeübt werden, das nach § 20 Absatz 4 bekannt gegeben worden ist.
-
-4.2  
-Verwendungsbeschränkung
-
-(1) Wer Tätigkeiten mit Begasungsmitteln nach Nummer 4.1 Absatz 1 bis 3 ausüben will, bedarf der Erlaubnis der zuständigen Behörde.
-
-(2) Absatz 1 gilt nicht
-
-1. für Tätigkeiten, die ausschließlich der Forschung und Entwicklung oder der institutionellen Eignungsprüfung von Begasungsmitteln oder -verfahren dienen,
-
-2. für gelegentliche Tätigkeiten mit portionsweise verpackten Stoffen und Gemischen, die bei bestimmungsgemäßer Verwendung nicht mehr als 15 Gramm Phosphorwasserstoff entwickeln und zur Schädlingsbekämpfung im Erdreich eingesetzt werden.
-
-(3) Abweichend von Absatz 1 bedarf es keiner Erlaubnis jedoch eines Befähigungsscheins nach Nummer 4.3.1 Absatz 2
-
-1. bei nicht nur gelegentlichen Tätigkeiten mit portionsweise verpackten Stoffen und Gemischen, die bei bestimmungsgemäßer Verwendung nicht mehr als 15 Gramm Phosphorwasserstoff entwickeln und zur Schädlingsbekämpfung im Erdreich eingesetzt werden, sowie
-
-2. für das Öffnen, Lüften und die Freigabe begaster Transporteinheiten.
-
-(4) Während der Beförderung dürfen Schiffe und Transportbehälter nur mit Phosphorwasserstoff oder einem anderen Mittel begast werden, das nach Nummer 4.1 Absatz 3 für diesen Zweck zugelassen ist.
-
-(5) Ethylenoxid und Gemische, die Ethylenoxid enthalten, dürfen nur in vollautomatisch programmgesteuerten Sterilisatoren und in vollautomatischen Sterilisationskammern verwendet werden.
-
-(6) Genehmigungs- und Zulassungserfordernisse sowie Verwendungsbeschränkungen nach anderen Rechtsvorschriften bleiben unberührt.
-
-(7) Begasungen mit anderen als akut toxisch Kategorie 1, 2 oder 3 oder spezifisch zielorgantoxisch Kategorie 1 eingestuften Stoffen und Gemischen als den in Nummer 4.1 Absatz 1 bis 3 bezeichneten, dürfen nicht durchgeführt werden. In den Fällen der Nummer 4.1 Absatz 3 ist mit der Anzeige nach Nummer 4.3.2 ein Nachweis für die Zulässigkeit der Verwendung als Begasungsmittel vorzulegen.
-
-4.3  
-Allgemeine Vorschriften für Begasungstätigkeiten
-
-4.3.1  
-Erlaubnis und Befähigungsschein
-
-(1) Die Erlaubnis nach Nummer 4.2 Absatz 1 wird erteilt, wenn der Antragsteller
-
-1. die erforderliche Zuverlässigkeit und, soweit er Tätigkeiten mit den in der Erlaubnis benannten Begasungsmitteln selbst zu leiten beabsichtigt, einen Befähigungsschein nach Absatz 2 besitzt sowie
-
-2. in ausreichender Zahl über Befähigungsschein-Inhaber nach Absatz 2 verfügt; diese Befähigungsschein-Inhaber sind der zuständigen Behörde zu benennen.
-
-(2) Einen Befähigungsschein erhält von der zuständigen Behörde, wer
-
-1. die erforderliche Zuverlässigkeit für Tätigkeiten mit Begasungsmitteln besitzt, die von Nummer 4.1 erfasst werden,
-
-2. durch das Zeugnis einer Ärztin oder eines Arztes nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge nachweist, dass keine Anhaltspunkte vorliegen, die ihn für Tätigkeiten mit Begasungsmitteln körperlich oder geistig ungeeignet erscheinen lassen,
-
-3. die erforderliche Sachkunde und ausreichende Erfahrung für Begasungen nachweist sowie
-
-4. mindestens 18 Jahre alt ist.
-
-Den Nachweis der Sachkunde nach Satz 1 Ziffer 3 hat erbracht, wer ein Zeugnis über die Teilnahme an einem von der zuständigen Behörde anerkannten Lehrgang für die beabsichtigte Tätigkeit und über die bestandene Prüfung vorlegt. Die Prüfung ist vor einer Vertreterin oder einem Vertreter der zuständigen Behörde abzulegen. Der Befähigungsschein ist entsprechend dem geführten Nachweis der Sachkunde zu beschränken.
-
-(3) Die Erlaubnis nach Absatz 1 und der Befähigungsschein nach Absatz 2 können befristet und unter Auflagen sowie beschränkt auf bestimmte Begasungstätigkeiten erteilt werden. Auflagen können auch nachträglich angeordnet werden. Die Erlaubnis nach Absatz 1 und der Befähigungsschein nach Absatz 2 können widerrufen werden, wenn auf Grund wiederholter oder besonders schwerwiegender Verstöße gegen diese Verordnung begründete Zweifel an der Zuverlässigkeit des Inhabers bestehen.
-
-(4) Ein Befähigungsschein erlischt, wenn der zuständigen Behörde nicht spätestens sechs Jahre nach der Ausstellung des Zeugnisses nach Absatz 2 Satz 1 Ziffer 2 ein neues Zeugnis vorgelegt wird.
-
-4.3.2  
-Anzeigen
-
-(1) Wer außerhalb einer ortsfesten Sterilisationskammer Begasungen mit Begasungsmitteln nach Nummer 4.1 durchführen will, hat dies der zuständigen Behörde spätestens eine Woche vorher schriftlich oder elektronisch anzuzeigen. Die zuständige Behörde kann in begründeten Fällen Ausnahmen hiervon zulassen. Erfolgt die Anzeige elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der der Anzeige beizufügenden Unterlagen auch in schriftlicher Form verlangen. Die Anzeigefrist verkürzt sich auf 24 Stunden bei Schiffs- und Containerbegasungen in Häfen sowie bei infektionshygienischen Desinfektionen. Bei Begasungen im medizinischen Bereich ist eine Anzeige nicht erforderlich.
-
-(2) In der Anzeige sind anzugeben:
-
-1. die verantwortliche Person,
-
-2. der Tag der Begasung,
-
-3. ein Lageplan zum Ort der Begasung und das zu begasende Objekt mit Angabe der zu begasenden Güter,
-
-4. das für den Einsatz vorgesehene Begasungsmittel und die vorgesehenen Mengen,
-
-5. der voraussichtliche Beginn der Begasung,
-
-6. das voraussichtliche Ende der Begasung,
-
-7. der voraussichtliche Termin der Freigabe sowie
-
-8. der Zeitpunkt der Dichtheitsprüfung, falls diese erforderlich ist.
-
-(3) Absatz 1 gilt nicht für Erdreichbegasungen im Freien mit Phosphorwasserstoff.
-
-(4) Das Ausscheiden, der Wechsel und das Hinzutreten von Befähigungsschein-Inhabern sind der zuständigen Behörde unverzüglich anzuzeigen, sofern die Tätigkeiten unter dem Erlaubnisvorbehalt nach Nummer 4.2 Absatz 1 stehen.
-
-4.3.3  
-Niederschrift
-
-(1) Über Begasungen mit Begasungsmitteln nach Nummer 4.1 ist eine Niederschrift anzufertigen. Aus der Niederschrift müssen insbesondere hervorgehen:
-
-1. Art und Menge der Begasungsmittel,
-
-2. Ort, Beginn und Ende der Verwendung und
-
-3. der Zeitpunkt der Freigabe.
-
-Auf Verlangen ist der zuständigen Behörde eine Kopie der Niederschrift vorzulegen.
-
-(2) Werden Fahrzeuge, Waggons, Container, Tanks oder andere Transportbehälter begast, sind in die Niederschrift zusätzliche Anweisungen über die Beseitigung von Rückständen des Begasungsmittels sowie Angaben über die verwendeten Begasungsgeräte aufzunehmen. Die Niederschrift ist dem Auftraggeber zu übergeben.
-
-(3) Absatz 1 gilt nicht für Erdreichbegasungen im Freien mit Phosphorwasserstoff.
-
-4.4  
-Anforderungen bei Begasungen
-
-<!-- -->
-
-4.4.1  
-Allgemeine Anforderungen
-
-(1) Begasungen sind so durchzuführen, dass Personen nicht gefährdet werden. Objekte, die begast werden sollen, wie beispielsweise Gebäude, Räume oder Transporteinheiten, sind hierfür nach dem jeweiligen Stand der Technik hinreichend abzudichten.
-
-(2) Für jede Begasung ist eine verantwortliche Person zu bestellen. Diese muss einen für die vorgesehene Begasung ausreichenden Befähigungsschein nach Nummer 4.3.1 Absatz 2 besitzen. Sofern mehrere vollautomatisch programmgesteuerte Sterilisatoren in einem räumlich zusammenhängenden Bereich betrieben werden, genügt die Bestellung einer verantwortlichen Person.
-
-4.4.2  
-Organisatorische Maßnahmen
-
-(1) Für Begasungen dürfen nur Personen eingesetzt werden, die sachkundig sind. Satz 1 gilt nicht für Hilfskräfte,
-
-1. die ausschließlich Tätigkeiten ohne oder mit nur geringem Gefährdungspotenzial nach Einweisung durch eine sachkundige Person ausführen,
-
-2. die bei Begasungen nach Absatz 5 eingesetzt werden oder
-
-3. deren Anwesenheit und Mitwirkung dazu dient, im Rahmen einer Sachkundeausbildung unter Aufsicht einer verantwortlichen Person die nach Nummer 4.3.1 Absatz 2 Satz 1 Ziffer 3 erforderliche Erfahrung zu erlangen.
-
-(2) Bei Begasungen müssen während der Tätigkeiten, bei denen durch das Begasungsmittel nach der Gefährdungsbeurteilung nach § 6 eine erhöhte Gefährdung von Beschäftigten oder anderen Personen besteht, mindestens die verantwortliche Person und eine weitere Person anwesend sein, die die Voraussetzungen nach Nummer 4.3.1 Absatz 2 Satz 1 Ziffer 3 erfüllt. Erfolgt die Begasung in vollautomatisch programmgesteuerten Sterilisatoren, auf die Nummer 4.1 Absatz 5 nicht anwendbar ist, ist die Anwesenheit einer Person mit Befähigungsschein während der Tätigkeiten nach Satz 1 ausreichend, wenn eine zweite Person kurzfristig verfügbar ist, die die Voraussetzungen nach Nummer 4.3.1 Absatz 2 Satz 1 Ziffer 3 erfüllt.
-
-(3) Bei Raumdesinfektionen nach Nummer 4.1 Absatz 2 ist die Anwesenheit einer Person mit Befähigungsschein während der Tätigkeiten nach Absatz 2 Satz 1 ausreichend, wenn eine zweite Person anwesend ist, die in der Lage ist, Notfallmaßnahmen nach § 13 Absatz 1 zu ergreifen.
-
-(4) Bei Begasungen mit Hydrogencyanid oder Sulfuryldifluorid dürfen nur Befähigungsschein-Inhaber eingesetzt werden, soweit die Teilnahme nicht der Sachkundeausbildung oder dem Nachweis ausreichender Erfahrung nach Nummer 4.3.1 Absatz 2 Satz 1 Ziffer 3 dient und die Aufsicht durch eine ausreichende Zahl von Befähigungsschein-Inhabern gewährleistet ist.
-
-(5) Werden für Begasungen gebrauchsfertig portionierte Gemische verwendet, die Phosphorwasserstoff entwickeln, dürfen Hilfskräfte eingesetzt werden, wenn diese
-
-1. von Befähigungsschein-Inhabern in ausreichender Zahl beaufsichtigt werden,
-
-2. vorher unterwiesen worden sind und
-
-3. gesundheitlich geeignet sind.
-
-4.4.3  
-Begasung von Räumen und ortsbeweglichen Transporteinheiten und Gütern in Räumen
-
-(1) Die Benutzer angrenzender Räume und Gebäude sind spätestens 24 Stunden vor Beginn der Begasung mit Begasungsmitteln nach Nummer 4.1 schriftlich unter Hinweis auf die Gefahren der Begasungsmittel zu warnen. Satz 1 gilt nicht bei Begasungen in ortsfesten Sterilisatoren und Sterilisationskammern.
-
-(2) An den Zugängen zu Räumen, die begast werden sollen, sind vor Beginn der Begasung Warnzeichen nach Nummer 4.4.4 Absatz 1 und 2 anzubringen. Zusätzlich sind die Zugänge zu den Räumen mit dem Namen, der Anschrift und der Telefonnummer des Begasungsunternehmens zu versehen.
-
-(3) Nach der Einbringung des Begasungsmittels bis zur Freigabe der begasten Räume muss die verantwortliche Person für den Bedarfsfall verfügbar sein.
-
-(4) Die verantwortliche Person darf Räume, begaste Güter oder die Nutzung von Einrichtungsgegenständen erst freigeben, wenn durch geeignete Nachweisverfahren sichergestellt ist, dass keine Gefährdung mehr durch Begasungsmittelreste besteht.
-
-4.4.4  
-Begasung ortsbeweglicher Transporteinheiten im Freien
-
-(1) Transporteinheiten wie Fahrzeuge, Waggons, Container, Tanks oder andere Transportbehälter dürfen im Freien nur mit einem allseitigen Sicherheitsabstand von mindestens 10 Metern zu Gebäuden begast werden. Sie sind von der verantwortlichen Person auf ihre Gasdichtheit zu prüfen, abzudichten sowie für die Dauer der Begasung abzuschließen, zu verplomben und allseitig sichtbar mit Warnzeichen nach Absatz 2 zu kennzeichnen. Zusätzlich sind sie mit dem Namen, der Anschrift und der Telefonnummer des Begasungsunternehmens zu versehen. Das Warnzeichen muss rechteckig, mindestens 300 Millimeter breit und mindestens 250 Millimeter hoch sein. Die Aufschriften müssen schwarz auf weißem Grund sein.
-
-(2) Das Warnzeichen muss mindestens folgende Angaben tragen:
-
-1. das Signalwort „GEFAHR“,
-
-2. das Symbol „Totenkopf mit gekreuzten Knochen“ entsprechend akut toxisch Kategorie 1 bis 3,
-
-3. die Aufschrift „DIESE EINHEIT IST BEGAST“,
+3. die Aufschrift: DIESE EINHEIT IST BEGAST,
 
 4. die Bezeichnung des Begasungsmittels,
 
@@ -1564,55 +1650,14 @@ Begasung ortsbeweglicher Transporteinheiten im Freien
 
 6. das Datum der Belüftung, sofern eine solche erfolgt ist, und
 
-7. die Aufschrift „ZUTRITT VERBOTEN“.
+7. die Aufschrift: ZUTRITT VERBOTEN.
 
-Eine Abbildung des Warnzeichens ist nachstehend dargestellt:
+(2) Das Warnzeichen ist entsprechend der folgenden Abbildung zu gestalten:
 
-<a href="../normengrafiken/bgbl1_2016/j2549-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
-
-|                                   |     |
-|:----------------------------------|----:|
-| \* entsprechende Angaben einfügen |     |
-
-(3) Auf Schiffen dürfen unter Gas stehende Transportbehälter nur transportiert werden, wenn die Laderäume mit einer mechanischen Lüftung ausgerüstet sind, die verhindert, dass sich Gaskonzentrationen oberhalb der Arbeitsplatzgrenzwerte entwickeln.
-
-(4) Steht für die erforderliche Öffnung begaster Fahrzeuge, Waggons, Container, Tanks oder anderer begaster Transportbehälter keine sachkundige Person zur Verfügung, so dürfen sie nur unter Aufsicht einer fachkundigen Person geöffnet werden, die in der Lage ist, mögliche Gefährdungen von Beschäftigten oder anderen Personen zu ermitteln und zu beurteilen sowie die erforderlichen Schutzmaßnahmen zu veranlassen.
-
-4.4.5  
-Begasung auf Schiffen im Hafen und während der Beförderung
-
-(1) Begasungen auf Schiffen sind nur zulässig, wenn die Sicherheit der Besatzung und anderer Personen während der Liegezeit im Hafen und auch während eines Transits hinreichend gewährleistet ist. Neben den begasungsspezifischen Regelungen dieses Anhangs sind hierzu die international geltenden Empfehlungen der Internationalen Seeschifffahrtsorganisation (IMO) für die Anwendung von Schädlingsbekämpfungsmitteln auf Schiffen zu beachten.
-
-(2) Die verantwortliche Person hat der Kapitänin oder dem Kapitän des Schiffs nach angemessener Begasungszeit und vor Verlassen des Hafens schriftlich mitzuteilen,
-
-1. welche Räume begast wurden und welche weiteren Räume während der Beförderung nicht betreten werden dürfen,
-
-2. welche zur Durchführung der Begasung erforderlichen technischen Änderungen am Schiff vorgenommen wurden,
-
-3. dass die begasten Räume hinreichend gasdicht sind und
-
-4. dass die an die begasten Räume angrenzenden Räume von Begasungsmitteln frei sind.
-
-(3) Nummer 4.4.4 Absatz 1 und 2 ist entsprechend anzuwenden.
-
-(4) Während der gesamten Beförderungsdauer muss die Gasdichtheit der begasten Räume mindestens alle acht Stunden geprüft werden. Die Ergebnisse sind in das Schiffstagebuch einzutragen.
-
-(5) Die Hafenbehörden sind spätestens 24 Stunden vor Ankunft eines begasten Schiffs über die Art und den Zeitpunkt der Begasung zu unterrichten sowie darüber, welche Räume und Transportbehälter begast worden sind.
-
-4.4.6  
-Sterilisatoren und Sterilisationskammern
-
-(1) Begasungen in Sterilisatoren und Sterilisationskammern sind nur zulässig, wenn diese
-
-1. in Räumen errichtet sind, die nicht zum ständigen Aufenthalt von Menschen dienen, ausgenommen Begasungen in vollautomatischen Sterilisatoren in Arbeitsbereichen der Sterilgutversorgung,
-
-2. auf ihre Gasdichtheit vor jeder Begasung überprüft werden und die Gasdichtheit überwacht wird und
-
-3. für Mensch und Umwelt gefahrlos entlüftet werden können.
-
-(2) Wenn keine vollautomatische Drucksteuerung und Drucküberwachung sichergestellt ist, dürfen Sterilisatoren und Sterilisationskammern nur mit Normal- oder Unterdruck betrieben werden.
-
-(3) Die Überprüfung und Überwachung der Gasdichtheit von Sterilisationskammern ist zu dokumentieren.
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3115-1_0010.jpg) |
+|   \* Die entsprechenden Angaben sind einzufügen.   |
 
 5.1  
 Anwendungsbereich

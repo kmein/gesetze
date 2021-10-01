@@ -83,7 +83,7 @@ Versicherungspflichtig sind Personen in der Zeit,
 
 4. für die sie Vorruhestandsgeld beziehen, wenn sie unmittelbar vor Beginn der Leistung versicherungspflichtig waren.
 
-Pflegepersonen, die für ihre Tätigkeit von dem oder den Pflegebedürftigen ein Arbeitsentgelt erhalten, das das dem Umfang der jeweiligen Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, gelten als nicht erwerbsmäßig tätig; sie sind insoweit nicht nach § 1 Satz 1 Nr. 1 versicherungspflichtig. Nicht erwerbsmäßig tätige Pflegepersonen, die daneben regelmäßig mehr als 30 Stunden wöchentlich beschäftigt oder selbständig tätig sind, sind nicht nach Satz 1 Nr. 1a versicherungspflichtig. Wehrdienstleistende oder Zivildienstleistende, die für die Zeit ihres Dienstes Arbeitsentgelt weitererhalten oder Leistungen an Selbständige nach § 6 des Unterhaltssicherungsgesetzes erhalten, sind nicht nach Satz 1 Nr. 2 versicherungspflichtig; die Beschäftigung oder selbständige Tätigkeit gilt in diesen Fällen als nicht unterbrochen. Trifft eine Versicherungspflicht nach Satz 1 Nr. 3 im Rahmen von Leistungen zur Teilhabe am Arbeitsleben mit einer Versicherungspflicht nach § 1 Satz 1 Nr. 2 oder 3 zusammen, geht die Versicherungspflicht vor, nach der die höheren Beiträge zu zahlen sind. Die Versicherungspflicht nach Satz 1 Nr. 3 und 4 erstreckt sich auch auf Personen, die ihren gewöhnlichen Aufenthalt im Ausland haben.
+Pflegepersonen, die für ihre Tätigkeit von dem oder den Pflegebedürftigen ein Arbeitsentgelt erhalten, das das dem Umfang der jeweiligen Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, gelten als nicht erwerbsmäßig tätig; sie sind insoweit nicht nach § 1 Satz 1 Nr. 1 versicherungspflichtig. Nicht erwerbsmäßig tätige Pflegepersonen, die daneben regelmäßig mehr als 30 Stunden wöchentlich beschäftigt oder selbständig tätig sind, sind nicht nach Satz 1 Nr. 1a versicherungspflichtig. Wehrdienstleistende oder Zivildienstleistende, die für die Zeit ihres Dienstes Arbeitsentgelt weitererhalten oder Leistungen an Selbständige nach § 6 des Unterhaltssicherungsgesetzes erhalten, sind nicht nach Satz 1 Nr. 2 versicherungspflichtig; die Beschäftigung oder selbständige Tätigkeit gilt in diesen Fällen als nicht unterbrochen. Trifft eine Versicherungspflicht nach Satz 1 Nr. 3 im Rahmen von Leistungen zur Teilhabe am Arbeitsleben mit einer Versicherungspflicht nach § 1 Satz 1 Nr. 2 oder 3 zusammen, geht die Versicherungspflicht vor, nach der die höheren Beiträge zu zahlen sind. Die Versicherungspflicht nach Satz 1 Nummer 2b bis 4 erstreckt sich auch auf Personen, die ihren gewöhnlichen Aufenthalt im Ausland haben.
 
 # § 4 – Versicherungspflicht auf Antrag
 
@@ -3913,7 +3913,7 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben zu erstatten
 
 (1) Bei ehemaligen Soldaten auf Zeit, die Übergangsgebührnisse beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
 
-(2) § 28a Absatz 1 Satz 2 bis 4, Absatz 2, 3 und 5, § 28b Absatz 1 und 4 und § 28c des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 1 Satz 2, Absatz 1a Satz 1 und 2, Absatz 2, 3 und 5, § 28b Absatz 1, § 28c und § 95 Absatz 2 des Vierten Buches gelten entsprechend.
 
 # § 193 – Meldung von sonstigen rechtserheblichen Zeiten
 

@@ -537,13 +537,7 @@ zuzustellen. Sie hat die sich aus der Entscheidung ergebenden Verbreitungs- und 
 
 (9) Die Prüfstelle für jugendgefährdende Medien soll mit der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz zusammenarbeiten und einen regelmäßigen Informationsaustausch pflegen.
 
-(10) Die Prüfstelle für jugendgefährdende Medien kann ab dem 1. Januar 2004 für Verfahren, die auf Antrag der in Absatz 7 genannten Personen eingeleitet werden und die auf die Entscheidung gerichtet sind, dass ein Medium
-
-1. nicht mit einem bereits in die Liste für jugendgefährdende Medien aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist oder
-
-2. aus der Liste für jugendgefährdende Medien zu streichen ist,
-
-Gebühren und Auslagen erheben. Das Bundesministerium für Familie, Senioren, Frauen und Jugend wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze näher zu bestimmen.
+(10) (weggefallen)
 
 # § 22 – Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien
 

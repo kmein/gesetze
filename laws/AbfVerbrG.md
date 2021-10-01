@@ -87,25 +87,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
 3. ohne Zustimmung des Bundesrates nach Anhörung der beteiligten Kreise gemäß Artikel 36 Abs. 3 der Verordnung (EG) Nr. 1013/2006 Vorschriften zu erlassen über die Ausnahmen von dem Ausfuhrverbot in Bezug auf bestimmte in Anhang V aufgeführte Abfälle.
 
-# § 7 – Gebühren und Auslagen
+# § 7 – Gebührenschuldnerschaft
 
-(1) Die zuständigen Behörden können für die folgenden individuell zurechenbaren öffentlichen Leistungen zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erheben:
-
-1. Durchführung des Notifizierungs- und Überwachungsverfahrens gemäß Artikel 29 der Verordnung (EG) Nr. 1013/2006,
-
-2. Durchführung von Analysen und Kontrollen gemäß Artikel 29 der Verordnung (EG) Nr. 1013/2006, einschließlich der Entnahme und Untersuchung von Proben, und
-
-3. Anordnungen nach § 13.
-
-(2) Die Person, die Gebühren und Auslagen schuldet, ist
-
-1. für die Entnahme und Untersuchung von Proben neben dem Notifizierenden der Beförderer oder die Person, die die Verbringung von Abfällen, die den allgemeinen Informationspflichten nach Artikel 18 der Verordnung (EG) Nr. 1013/2006 unterliegen, veranlasst, und
-
-2. für Anordnungen nach § 13 die verpflichtete Person.
-
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für individuell zurechenbare öffentliche Leistungen nach Absatz 1 die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung in Bezug auf die in § 11 Abs. 2 Satz 2 und § 14 Abs. 4 genannten Bundesbehörden näher zu bestimmen. Bei der Bemessung der Gebühren ist der mit der Leistung verbundene Verwaltungsaufwand zu berücksichtigen, der insbesondere von der Menge und der Gefährlichkeit der Abfälle, die verbracht werden sollen, abhängt. Die Gebühr beträgt mindestens 50 Euro; sie darf im Einzelfall 6 000 Euro nicht übersteigen.
-
-(4) Durch Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung die Gebührenschuldnerschaft abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
+Durch Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Umwelt, Naturschutz und nukleare Sicherheit nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung die Gebührenschuldnerschaft abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 # § 8 – Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen
 

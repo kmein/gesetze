@@ -61,13 +61,7 @@
 
 Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums, zu dessen Geschäftsbereich sie gehören, wahrnehmen, unterstehen sie den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-# § 6 – Gebühren- und Auslagenerhebung
-
-(1) Für individuell zurechenbare öffentliche Leistungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesinstitutes für Arzneimittel und Medizinprodukte und des Robert Koch-Institutes, werden Gebühren und Auslagen erhoben. Spezielle gesetzliche Gebührenregelungen bleiben unberührt.
-
-(2) Das Bundesministerium, zu dessen Geschäftsbereich das jeweilige Bundesinstitut gehört, wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für die individuell zurechenbare öffentliche Leistungen der in den §§ 1 und 2 genannten Bundesinstitute die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren bestimmt sich jeweils nach dem durchschnittlichen Personal- und Sachaufwand; daneben kann die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Leistung für den Gebührenschuldner angemessen berücksichtigt werden.
-
-(3) (weggefallen)
+# § 6 – (weggefallen)
 
 # § 7 – Übernahme der Beamten und Arbeitnehmer
 

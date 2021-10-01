@@ -717,11 +717,9 @@ bedarf einer Instandhaltungsstellen-Bescheinigung nach Artikel 7 der Durchführu
 
 (4) Wer von einer zuständigen Zertifizierungsstelle in einem Mitgliedstaat der Europäischen Union eine Bescheinigung entsprechend Absatz 1 oder 3 erhalten hat, bedarf in der Bundesrepublik Deutschland keiner weiteren Bescheinigung. Entsprechendes gilt für erteilte Bescheinigungen nach Artikel 15 ATMF – Anhang G zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr – COTIF – (BGBl. 1985 II S. 130) in der Fassung des Protokolls vom 3. Juni 1999 betreffend die Änderung des Übereinkommens vom 9. Mai 1980 über den internationalen Eisenbahnverkehr – COTIF – (BGBl. 2002 II S. 2140).
 
-# § 7h – Gebühren und Auslagen
+# § 7h – Zurücknahme oder Einschränkung des Antrags bei Einsatz von Verwaltungshelfern
 
-(1) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes, der benannten Stellen, der nach § 7d anerkannten Personen und Stellen und der Regulierungsbehörde nach diesem Gesetz, dem Bundeseisenbahnverkehrsverwaltungsgesetz, dem Schienengüterfernverkehrsnetzförderungsgesetz oder nach den auf Grund dieser Gesetze erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
-
-(2) Im Falle des Einsatzes von Verwaltungshelfern nach § 5a Absatz 8a wird dem Antragsteller die voraussichtliche Höhe der Gebühren und Auslagen vorab mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen Antrag zurückzunehmen oder einzuschränken.
+Im Falle des Einsatzes von Verwaltungshelfern nach § 5a Absatz 8a wird dem Antragsteller die voraussichtliche Höhe der Gebühren und Auslagen vorab mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen Antrag zurückzunehmen oder einzuschränken.
 
 # § 8 – (weggefallen)
 
@@ -1171,7 +1169,7 @@ d) die Bestellung, Bestätigung und Prüfung von Betriebsleitern sowie deren Auf
 
 7. (weggefallen)
 
-8. über die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen gemäß § 7h Absatz 1;
+8. (weggefallen)
 
 9. über die Fachbereiche, in denen Sachverständige tätig sein können, sowie über die Voraussetzungen für die öffentliche Bestellung von Sachverständigen für den Bau, die Instandhaltung, den Betrieb und den Verkehr von Eisenbahnen, über deren Befugnisse und Verpflichtungen bei der Ausübung ihrer Tätigkeit sowie über deren Entgelt; in der Rechtsverordnung können insbesondere Regelungen über
 
@@ -1217,7 +1215,7 @@ b) die Anforderungen an eine für die Instandhaltung zuständige Stelle und das 
 
 Im Falle des Satzes 1 Nr. 1a kann eine Rechtsverordnung auch zum Schutz der Rechte der Reisenden erlassen werden.
 
-(1a) In Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 8 können die Gebühren als Fest- oder Zeitgebühren festgelegt werden. Ferner können die Gebühren- und Auslagenbefreiung, die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Gebührenerhebung abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
+(1a) (weggefallen)
 
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des Fahrpersonals sowie des Personals, das unmittelbar in der betrieblichen Abwicklung der Beförderungen eingesetzt ist, wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, mit Zustimmung des Bundesrates für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen über
 
@@ -1231,7 +1229,7 @@ Im Falle des Satzes 1 Nr. 1a kann eine Rechtsverordnung auch zum Schutz der Rech
 
 5. die Zulässigkeit abweichender tarifvertraglicher Regelungen über Arbeitszeiten, Fahrzeiten, Schicht- und Ruhezeiten sowie Ruhepausen und Unterbrechungen der Fahrzeiten.
 
-(3) Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 1 werden, soweit sie den Umweltschutz betreffen, vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1a werden im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen. Die Regelungen des Berufsbildungsgesetzes bleiben unberührt. Rechtsverordnungen nach den Absätzen 1 und 2 zum Schutz von Leben und Gesundheit der Arbeitnehmer und des Personals werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales erlassen. Die Rechtsverordnung nach Absatz 1 Satz 1 Nummer 8 wird im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie erlassen.
+(3) Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 1 werden, soweit sie den Umweltschutz betreffen, vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1a werden im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen. Die Regelungen des Berufsbildungsgesetzes bleiben unberührt. Rechtsverordnungen nach den Absätzen 1 und 2 zum Schutz von Leben und Gesundheit der Arbeitnehmer und des Personals werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales erlassen.
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu erlassen
 
@@ -1331,13 +1329,7 @@ Für Fahrzeughalter gelten, wenn nichts anderes bestimmt ist, die Vorschriften f
 
 # § 32 – Teilnahme am Eisenbahnbetrieb durch Wagenhalter
 
-Für Wagenhalter gelten, wenn nichts anderes bestimmt ist, die Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen entsprechend, soweit sie
-
-1. die Eisenbahnaufsicht oder
-
-2. die Gebühren und Auslagen von individuell zurechenbaren öffentlichen Leistungen
-
-betreffen.
+Für Wagenhalter gelten, wenn nichts anderes bestimmt ist, die Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen entsprechend, soweit sie die Eisenbahnaufsicht betreffen.
 
 # § 33 – (weggefallen)
 

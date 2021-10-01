@@ -111,9 +111,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 1. die Voraussetzungen und das Verfahren für die Ausstellung, Gültigkeit und Einziehung der Wrackbeseitigungshaftungsbescheinigung nach § 5,
 
-2. die Voraussetzungen und das Verfahren für die Ausstellung, Gültigkeit und Einziehung der Personenhaftungsbescheinigung nach Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 2 der Verordnung (EG) Nr. 392/2009,
+2. die Voraussetzungen und das Verfahren für die Ausstellung, Gültigkeit und Einziehung der Personenhaftungsbescheinigung nach Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 2 der Verordnung (EG) Nr. 392/2009.
 
-3. die gebührenpflichtigen Tatbestände für individuell zurechenbare öffentliche Leistungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung.
+3. (weggefallen)
 
 (+++ § 9 Nr. 1: Zur Anwendung vgl. § 14 Abs. 1 +++)
 

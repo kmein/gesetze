@@ -135,7 +135,7 @@ Gebühren und Umlage, Zwangsmittel, Bekanntgabe von Allgemeinverfügungen
 
 § 14
 
-Gebühren für individuell zurechenbare öffentliche Leistungen
+(weggefallen)
 
 § 15
 
@@ -237,7 +237,7 @@ Finanzierung gesonderter Aufgaben
 
 § 17b
 
-Gebühren für gesonderte individuell zurechenbare öffentliche Leistungen
+(weggefallen)
 
 § 17c
 
@@ -567,17 +567,11 @@ oder die sich auf Finanzinstrumente nach den Nummern 1 bis 3 beziehen. Satz 1 gi
 
 # § 13 – Deckung der Kosten der Aufsicht
 
-(1) Die Bundesanstalt deckt ihre Kosten, einschließlich der Kosten, mit denen die Deutsche Bundesbank die Bundesanstalt nach § 15 Abs. 2 belastet, aus eigenen Einnahmen nach Maßgabe der §§ 14 bis 16 und den sonstigen eigenen Einnahmen, soweit in den §§ 17a bis 17d nichts anderes bestimmt ist. Bußgelder bleiben unberücksichtigt.
+(1) Die Bundesanstalt deckt ihre Kosten, einschließlich der Kosten, mit denen die Deutsche Bundesbank die Bundesanstalt nach § 15 Abs. 2 belastet, aus eigenen Einnahmen nach Maßgabe der §§ 15 und 16 sowie des Bundesgebührengesetzes und der Besonderen Gebührenverordnung des Bundesministeriums der Finanzen nach § 22 Absatz 4 des Bundesgebührengesetzes und aus den sonstigen eigenen Einnahmen, soweit in den §§ 17a bis 17d nichts anderes bestimmt ist. Bußgelder bleiben unberücksichtigt.
 
 (2) Der Bund leistet die zur Aufrechterhaltung einer ordnungsgemäßen Kassenwirtschaft notwendigen Liquiditätshilfen als verzinsliches Darlehen nach Maßgabe des Haushaltsgesetzes. Die Höhe des Zinssatzes wird durch Vereinbarung zwischen dem Bund und der Bundesanstalt festgelegt. Das Darlehen ist so bald wie möglich zurückzuzahlen, spätestens jedoch mit dem Ende des Haushaltsjahres.
 
-# § 14 – Gebühren für individuell zurechenbare öffentliche Leistungen
-
-(1) Die Bundesanstalt kann für individuell zurechenbare öffentliche Leistungen im Rahmen der ihr zugewiesenen Aufgaben Gebühren in Höhe von bis zu 500 000 Euro erheben, soweit nicht die für die Bundesanstalt geltenden Gesetze besondere Gebührenregelungen enthalten, nach § 15 eine gesonderte Erstattung von Kosten vorgesehen ist oder eine gesonderte Finanzierung nach Maßgabe der §§ 17a bis 17d stattfindet.
-
-(2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände und die Gebühren nach Maßgabe des Absatzes 1 durch feste Sätze oder Rahmensätze und durch Regelungen über Erhöhungen, Ermäßigungen und Befreiungen für bestimmte Arten von individuell zurechenbaren öffentlichen Leistungen näher zu bestimmen. Dabei kann von § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes abgewichen werden. Die Gebührensätze sind so zu bemessen, dass zwischen der den Verwaltungsaufwand berücksichtigenden Höhe und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der individuell zurechenbaren öffentlichen Leistung ein angemessenes Verhältnis besteht. Das Bundesministerium kann die Ermächtigung zum Erlass der Rechtsverordnung nach Satz 1 durch Rechtsverordnung auf die Bundesanstalt übertragen.
-
-(3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit in diesem Zeitpunkt die Gebühr nicht bereits festgesetzt ist.
+# § 14 – (weggefallen)
 
 # § 15 – Gesonderte Erstattung; Verordnungsermächtigung
 
@@ -1152,11 +1146,7 @@ Ein besonders begründeter Fall im Sinne des Satzes 4 kann darüber hinaus insbe
 
 Die Bundesanstalt weist die in ihrem Verwaltungsbereich voraussichtlich zu erwartenden Einnahmen und zu leistenden Ausgaben für Aufgaben nach Abschnitt 16 des Wertpapierhandelsgesetzes und nach diesem Abschnitt in einem gesonderten Teil des Haushaltsplans einschließlich eines gesonderten Stellenplans aus. Die Summe der Einnahmen und Ausgaben der Prüfstelle sind in diesem Teil des Haushaltsplans zu berücksichtigen und ebenfalls gesondert auszuweisen. Dieser Teil des Haushaltsplans wird unter Berücksichtigung des nach § 342d Satz 2 des Handelsgesetzbuchs genehmigten Wirtschaftsplans der Prüfstelle vom Verwaltungsrat gesondert festgestellt. Die Kosten für die in Satz 1 genannten Aufgaben werden entsprechend gesondert erfasst und einem eigenen Buchungskreislauf zugeordnet. Im Übrigen sind § 12 Abs. 1, 3 bis 5 und § 13 Abs. 2 Satz 1 und 2 entsprechend anzuwenden.
 
-# § 17b – Gebühren für gesonderte individuell zurechenbare öffentliche Leistungen
-
-(1) Die Bundesanstalt kann für individuell zurechenbare öffentliche Leistungen im Rahmen der ihr zugewiesenen Aufgaben nach Abschnitt 16 des Wertpapierhandelsgesetzes Gebühren in Höhe von bis zu 500 000 Euro erheben, soweit nicht nach § 17c eine gesonderte Erstattung von Kosten vorgesehen ist. Ergibt die Prüfung durch die Bundesanstalt, dass die Rechnungslegung nicht fehlerhaft ist, sieht sie von der Erhebung der Gebühr ab.
-
-(2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände und die Gebühren nach Maßgabe des Absatzes 1 durch feste Sätze oder Rahmensätze oder durch Regelungen über Erhöhungen, Ermäßigungen und Befreiungen für bestimmte Arten von individuell zurechenbaren öffentlichen Leistungen näher zu bestimmen. § 14 Abs. 2 Satz 2, 3 und Abs. 3 ist entsprechend anzuwenden. Das Bundesministerium kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+# § 17b – (weggefallen)
 
 # § 17c – Gesonderte Erstattung bei gesonderten Prüfungen
 

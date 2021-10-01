@@ -219,7 +219,7 @@ Staatliche Chargenprüfung
 
 § 33
 
-Gebühren und Auslagen
+Aufwendungsersatz und Entgelte
 
 § 34
 
@@ -988,8 +988,6 @@ Neunzehnter Unterabschnitt
 § 147
 
 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
-
- 
 
  
 
@@ -2601,19 +2599,15 @@ In den Fällen des Satzes 1 Nr. 1 kann die zuständige Bundesoberbehörde Ausnah
 
 (5) Die Freigabe nach Absatz 1 oder die Freistellung durch die zuständige Bundesoberbehörde nach Absatz 4 ist zurückzunehmen, wenn eine ihrer Voraussetzungen nicht vorgelegen hat; sie ist zu widerrufen, wenn eine der Voraussetzungen nachträglich weggefallen ist. Satz 1 gilt entsprechend, wenn bei einer freigegebenen Charge eines in Absatz 1 Satz 1 bezeichneten Arzneimittels oder bei einem freigestellten Arzneimittel der begründete Verdacht besteht, dass es sich um ein gefälschtes Arzneimittel handelt.
 
-# § 33 – Gebühren und Auslagen
+# § 33 – Aufwendungsersatz und Entgelte
 
-(1) Die zuständige Bundesoberbehörde erhebt für die Entscheidungen über die Zulassung, über die Genehmigung von Gewebezubereitungen, über die Genehmigung von Arzneimitteln für neuartige Therapien, über die Freigabe von Chargen, für die Bearbeitung von Anträgen, für die Tätigkeit im Rahmen der Sammlung und Bewertung von Arzneimittelrisiken, für das Widerspruchsverfahren gegen einen auf Grund dieses Gesetzes erlassenen Verwaltungsakt oder gegen die auf Grund einer Rechtsverordnung nach Absatz 2 Satz 1 oder § 39 Absatz 3 Satz 1 oder § 39d Absatz 9 erfolgte Festsetzung von Gebühren und Auslagen sowie für andere individuell zurechenbare öffentliche Leistungen einschließlich selbständiger Beratungen und selbständiger Auskünfte, soweit es sich nicht um mündliche und einfache schriftliche Auskünfte im Sinne des § 7 Nummer 1 des Bundesgebührengesetzes handelt, nach diesem Gesetz und nach der Verordnung (EG) Nr. 1234/2008 Gebühren und Auslagen.
+(1) Abweichend von § 18 Absatz 1 Satz 1 des Bundesgebührengesetzes verjährt der Anspruch auf Zahlung von Gebühren und Auslagen, die nach § 33 Absatz 1 in der bis zum 14. August 2013 geltenden Fassung in Verbindung mit der Therapieallergene-Verordnung zu erheben sind, drei Jahre nach der Bekanntgabe der abschließenden Entscheidung über die Zulassung.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und, soweit es sich um zur Anwendung bei Tieren bestimmte Arzneimittel handelt, auch mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze sowie die Erstattung von Auslagen auch abweichend von den Regelungen des Verwaltungskostengesetzes vorzusehen. Die Höhe der Gebühren für die Entscheidungen über die Zulassung, über die Genehmigung von Gewebezubereitungen, über die Genehmigung von Arzneimitteln für neuartige Therapien, über die Freigabe von Chargen sowie für andere individuell zurechenbare öffentliche Leistungen bestimmt sich jeweils nach dem Personal- und Sachaufwand, zu dem insbesondere der Aufwand für das Zulassungsverfahren, bei Sera, Impfstoffen und Allergenen auch der Aufwand für die Prüfungen und für die Entwicklung geeigneter Prüfungsverfahren gehört. Die Höhe der Gebühren für die Entscheidung über die Freigabe einer Charge bestimmt sich nach dem durchschnittlichen Personal- und Sachaufwand; daneben ist die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Freigabe für den Gebührenschuldner angemessen zu berücksichtigen.
+(2) Wenn ein Widerspruch gegen einen auf Grund dieses Gesetzes erlassenen Verwaltungsakt oder gegen die Festsetzung von Gebühren für eine individuell zurechenbare öffentliche Leistung nach diesem Gesetz erfolgreich ist, werden notwendige Aufwendungen im Sinne von § 80 Absatz 1 des Verwaltungsverfahrensgesetzes bis zur Höhe der für die Zurückweisung eines entsprechenden Widerspruchs vorgesehenen Gebühren, bei Rahmengebühren bis zu deren Mittelwert, erstattet.
 
-(3) Abweichend von § 18 Absatz 1 Satz 1 des Bundesgebührengesetzes verjährt der Anspruch auf Zahlung von Gebühren und Auslagen, die nach § 33 Absatz 1 in Verbindung mit der Therapieallergene-Verordnung zu erheben sind, drei Jahre nach der Bekanntgabe der abschließenden Entscheidung über die Zulassung.
+(3) Für die Nutzung von Monographien für Arzneimittel, die nach § 36 von der Pflicht zur Zulassung freigestellt sind, verlangt das Bundesinstitut für Arzneimittel und Medizinprodukte Entgelte. Dabei können pauschale Entgeltvereinbarungen mit den Verbänden, denen die Nutzer angehören, getroffen werden. Für die Bemessung der Entgelte finden die für Gebühren geltenden Regelungen entsprechende Anwendung.
 
-(4) Soweit ein Widerspruch nach Absatz 1 erfolgreich ist, werden notwendige Aufwendungen im Sinne von § 80 Abs. 1 des Verwaltungsverfahrensgesetzes bis zur Höhe der in einer Rechtsverordnung nach Absatz 2 Satz 1 oder § 39 Abs. 3 Satz 1 oder § 39d Absatz 9 für die Zurückweisung eines entsprechenden Widerspruchs vorgesehenen Gebühren, bei Rahmengebühren bis zu deren Mittelwert, erstattet.
-
-(5) Für die Nutzung von Monographien für Arzneimittel, die nach § 36 von der Pflicht zur Zulassung freigestellt sind, verlangt das Bundesinstitut für Arzneimittel und Medizinprodukte Entgelte. Dabei können pauschale Entgeltvereinbarungen mit den Verbänden, denen die Nutzer angehören, getroffen werden. Für die Bemessung der Entgelte findet Absatz 2 Satz 3 entsprechende Anwendung.
-
-(6) Die zuständige Behörde des Landes hat der zuständigen Bundesoberbehörde die dieser im Rahmen der Mitwirkungshandlungen nach diesem Gesetz entstehenden Kosten zu erstatten, soweit diese Kosten vom Verursacher getragen werden.
+(4) Die zuständige Behörde des Landes hat der zuständigen Bundesoberbehörde die dieser im Rahmen der Mitwirkungshandlungen nach diesem Gesetz entstehenden Kosten zu erstatten, soweit diese Kosten vom Verursacher getragen werden.
 
 # § 34 – Information der Öffentlichkeit
 
@@ -2767,7 +2761,7 @@ Bei den Informationen nach Satz 1 Nummer 2 und 5 sind Betriebs- und Geschäftsge
 
 (2e) § 34 Absatz 1 Satz 1 Nummer 1 bis 7, Absatz 1a Satz 1 Nummer 1, 4 und 5, Absatz 1a Satz 4, Absatz 1b, 1d und 1h gilt entsprechend.
 
-(3) Das Bundesministerium wird ermächtigt, für homöopathische Arzneimittel entsprechend den Vorschriften über die Zulassung durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die Gebühren und Auslagen und die Freistellung von der Registrierung zu erlassen. Die Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
+(3) Das Bundesministerium wird ermächtigt, für homöopathische Arzneimittel entsprechend den Vorschriften über die Zulassung durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die Freistellung von der Registrierung zu erlassen. Die Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 (+++ § 39 Abs. 2: Zur Anwendung vgl. § 109 Abs. 10 +++)
 
@@ -2853,7 +2847,7 @@ Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, gilt Satz 1 entsp
 
 (8) Für Rücknahme, Widerruf und Ruhen der Registrierung gilt § 30 Absatz 1 Satz 1, Absatz 2, 2a, 3 und 4 entsprechend mit der Maßgabe, dass die Versagungsgründe nach § 39c Absatz 2 Anwendung finden.
 
-(9) Das Bundesministerium wird ermächtigt, für traditionelle pflanzliche Arzneimittel entsprechend den Vorschriften der Zulassung durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die Gebühren und Auslagen der Registrierung zu erlassen. Die Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
+(9) (weggefallen)
 
 # § 40 – Allgemeine Voraussetzungen der klinischen Prüfung
 
@@ -5467,7 +5461,7 @@ es sei denn, dass die Verlängerung der Zulassung des Arzneimittels eine Gefahr 
 
 # § 105b
 
-Der Anspruch auf Zahlung von Gebühren und Auslagen, die nach § 33 Abs. 1 in Verbindung mit einer nach § 33 Abs. 2 oder einer nach § 39 Abs. 3 erlassenen Rechtsverordnung für die Verlängerung der Zulassung oder die Registrierung eines Fertigarzneimittels im Sinne des § 105 Abs. 1 zu erheben sind, verjährt mit Ablauf des vierten Jahres nach der Bekanntgabe der abschließenden Entscheidung über die Verlängerung der Zulassung oder die Registrierung an den Antragsteller.
+(weggefallen)
 
 # § 106
 

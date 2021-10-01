@@ -726,7 +726,7 @@ Für Strom aus KWK-Anlagen im Bundesgebiet darf eine Zahlung nach dem geöffnete
 
 19. den Ausschluss der Doppelförderung durch die Bundesrepublik Deutschland und den Kooperationsstaat,
 
-20. die Entschädigung abweichend von § 15 des Erneuerbare-Energien-Gesetzes,
+20. den finanziellen Ausgleich abweichend von § 13a Absatz 2 des Energiewirtschaftsgesetzes,
 
 21. die Erhebung von Gebühren,
 

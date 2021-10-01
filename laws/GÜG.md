@@ -145,11 +145,7 @@ Für die Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 1
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Anzeigenden innerhalb eines Monats die Registrierung nach Artikel 3 Abs. 6 der Verordnung (EG) Nr. 273/2004 oder Artikel 7 Abs. 1 der Verordnung (EG) Nr. 111/2005.
 
-# § 15 – Gebühren und Auslagen
-
-(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für die in Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der Verordnung (EG) Nr. 111/2005 bezeichneten individuell zurechenbaren öffentlichen Leistungen Gebühren zur Deckung des Verwaltungsaufwands sowie Auslagen erheben.
-
-(2) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebühren nach Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Das Bundesgebührengesetz ist nach Maßgabe von Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der Verordnung (EG) Nr. 111/2005 anzuwenden.
+# § 15 – (weggefallen)
 
 # § 16 – Überwachungsmaßnahmen
 

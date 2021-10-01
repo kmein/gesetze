@@ -1512,7 +1512,7 @@ Die Abhaltung von Tanzlustbarkeiten richtet sich nach den landesrechtlichen Best
 
 # § 33f – Ermächtigung zum Erlaß von Durchführungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Energie kann zur Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium für Gesundheit und dem Bundesministerium für Familie, Senioren, Frauen und Jugend und mit Zustimmung des Bundesrates durch Rechtsverordnung zur Eindämmung der Betätigung des Spieltriebs, zum Schutze der Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
+(1) Das Bundesministerium für Wirtschaft und Energie kann zur Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat dem Bundesministerium für Gesundheit und dem Bundesministerium für Familie, Senioren, Frauen und Jugend und mit Zustimmung des Bundesrates durch Rechtsverordnung zur Eindämmung der Betätigung des Spieltriebs, zum Schutze der Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
 
 1. die Aufstellung von Spielgeräten oder die Veranstaltung von anderen Spielen auf bestimmte Gewerbezweige, Betriebe oder Veranstaltungen beschränken und die Zahl der jeweils in einem Betrieb aufgestellten Spielgeräte oder veranstalteten anderen Spiele begrenzen,
 
@@ -1544,11 +1544,7 @@ i) die Bekanntgabe der Spielregeln und des Gewinnplans sowie die Bereithaltung d
 
 (2) Durch Rechtsverordnung können ferner
 
-1. das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates
-
-a) das Verfahren der Physikalisch-Technischen Bundesanstalt bei der Prüfung und Zulassung der Bauart von Spielgeräten sowie bei der Verlängerung der Aufstelldauer von Warenspielgeräten, die auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen aufgestellt werden sollen, und die ihrer Konstruktion nach keine statistischen Prüfmethoden erforderlich machen, regeln und
-
-b) Vorschriften über die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt erlassen;
+1. das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates das Verfahren der Physikalisch-Technischen Bundesanstalt bei der Prüfung und Zulassung der Bauart von Spielgeräten sowie bei der Verlängerung der Aufstelldauer von Warenspielgeräten, die auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen aufgestellt werden sollen, und die ihrer Konstruktion nach keine statistischen Prüfmethoden erforderlich machen, regeln;
 
 2. das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und mit Zustimmung des Bundesrates das Verfahren des Bundeskriminalamtes bei der Erteilung von Unbedenklichkeitsbescheinigungen regeln.
 

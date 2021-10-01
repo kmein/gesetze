@@ -445,15 +445,7 @@ näher zu bestimmen. Soweit die Lotsabgaben betroffen sind, ist das Einvernehmen
 
 (5) Die Seelotsin oder der Seelotse darf keine anderen als die durch Lotstarifverordnung festgesetzten Lotsgelder fordern, sich versprechen lassen oder annehmen.
 
-# § 46
-
-(1) Gebühren und Auslagen werden erhoben für
-
-1. individuell zurechenbare öffentliche Leistungen nach § 8 Abs. 2 Satz 1, den §§ 10, 11, 14, 16, 17 und 42 Abs. 1 und 3 sowie nach den Rechtsverordnungen auf Grund des § 4 Nr. 1 und 2, des § 5 Abs. 1 Nr. 3 und 5 und des § 43 Nr. 3,
-
-2. die Rücknahme einer Bestallung oder einer Erlaubnis.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß der Verwaltungsaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+# § 46 – (weggefallen)
 
 # § 47
 

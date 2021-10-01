@@ -1,8 +1,6 @@
 % Gesetz zum Schutz der Kulturpflanzen  (Pflanzenschutzgesetz - PflSchG)
 % Ausfertigungsdatum: 06.02.2012
  
-# Inhaltsübersicht
-
 # § 1 – Zweck
 
 Zweck dieses Gesetzes ist,
@@ -1185,19 +1183,7 @@ Erfüllt das Pflanzenschutzgerät besondere Anforderungen im Sinne des § 52 Abs
 
 Wird eine Entschädigung nach § 54 Absatz 1 oder 2 geleistet oder ein Ausgleich aus Anlass behördlich angeordneter Maßnahmen zur Bekämpfung oder Verhinderung der Verschleppung von Schadorganismen gewährt und beteiligt sich die Europäische Union an der Entschädigung oder dem Ausgleich, kann das Bundesministerium für Ernährung und Landwirtschaft, soweit es zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates vorschreiben, dass Forderungen auf Entschädigung oder Schadensersatz eines Entschädigungsberechtigten oder Ausgleichsberechtigten, die ihm gegen Dritte zustehen, auf die Europäische Union in Höhe der anteiligen Finanzierung der Entschädigung oder des Ausgleiches an diese übergehen. Nähere Einzelheiten des Forderungsüberganges und ein Forderungsübergang im Übrigen auf die Länder, insbesondere Umfang und Verfahren, können in der Rechtsverordnung nach Satz 1 geregelt werden.
 
-# § 56 – Gebühren und Auslagen
-
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erhebt Gebühren und Auslagen für
-
-1. seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, auf Grund dieses Gesetzes oder nach unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes und
-
-2. berichterstattende Tätigkeiten nach den Artikeln 7, 15, 18 Satz 3 Buchstabe f oder Artikel 25 der Verordnung (EG) Nr. 1107/2009.
-
-Bei der Bemessung der Höhe der Gebühr nach Satz 1 ist auch der mit den Mitwirkungshandlungen des Bundesinstitutes für Risikobewertung, des Julius Kühn-Institutes und des Umweltbundesamtes verbundene Verwaltungsaufwand zu berücksichtigen. Im Falle des Satzes 1 Nummer 2 sind die Gebühren und Auslagen von demjenigen zu erheben, der die Prüfung eines Wirkstoffes, Safeners, Synergisten oder Zusatzstoffes veranlasst.
-
-(2) Das Julius Kühn-Institut erhebt Gebühren und Auslagen für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, den auf Grund dieses Gesetzes erlassenen Verordnungen oder nach unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes.
-
-(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Werden gebührenpflichtige Tatbestände geregelt, bei denen die Mitwirkung des Umweltbundesamtes gesetzlich vorgeschrieben ist, ist auch das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit erforderlich. Der Nutzen der Pflanzenschutzmittel, Pflanzenschutzgeräte, Verfahren des Pflanzenschutzes sowie der Geräte und Einrichtungen, die im Pflanzenschutz benutzt werden, für die Allgemeinheit ist angemessen zu berücksichtigen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+# § 56 – (weggefallen)
 
 # § 57 – Julius Kühn-Institut
 

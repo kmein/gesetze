@@ -47,6 +47,32 @@ Die Verantwortlichkeit für die Aufgaben nach Satz 1 Nummer 1 bis 3 verbleibt be
 
 Der Unfallversicherung Bund und Bahn werden die statistische Erfassung, Auswertung und Übermittlung derjenigen Daten über die Dienstunfälle der Beamtinnen und Beamten des Bundes sowie der Richterinnen und Richter im Bundesdienst übertragen, die erforderlich sind zur Erfüllung der Verordnung (EU) Nr. 349/2011 der Kommission vom 11. April 2011 zur Durchführung der Verordnung (EG) Nr. 1338/2008 des Europäischen Parlaments und des Rates zu Gemeinschaftsstatistiken über öffentliche Gesundheit und über Gesundheitsschutz und Sicherheit am Arbeitsplatz betreffend Statistiken über Arbeitsunfälle. Die Übermittlung erfolgt im Rahmen der laufenden Datenlieferungen zu Arbeitsunfällen der unfallversicherten Arbeitnehmerinnen und Arbeitnehmer über ihren Spitzenverband an das Bundesministerium für Arbeit und Soziales. Entstehende Kosten sind nicht zu erstatten.
 
+# § 4c – Leistungen der Soldatenentschädigung
+
+(1) Zum 1. Januar 2025 wird der Unfallversicherung Bund und Bahn die Erbringung der folgenden Leistungen übertragen:
+
+1. Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2 Unterabschnitt 1 und 2 des Soldatenentschädigungsgesetzes,
+
+2. Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 des Soldatenentschädigungsgesetzes,
+
+3. Leistungen der Wohnungshilfe nach § 33 Absatz 2 Nummer 2 des Soldatenentschädigungsgesetzes und
+
+4. Leistungen zur Teilhabe am Arbeitsleben nach § 46 des Soldatenentschädigungsgesetzes.
+
+(2) Durch die Aufgabenübertragung nach Absatz 1 wird das Bundesministerium der Verteidigung nicht von seiner Verantwortung gegenüber den Betroffenen entbunden.
+
+(3) In den Verfahren nach Absatz 1 trifft die Unfallversicherung Bund und Bahn die Verwaltungsentscheidung. Das Bundesministerium der Verteidigung ist gegenüber der Unfallversicherung Bund und Bahn bei der Erbringung der in Absatz 1 genannten Leistungen fachlich weisungsbefugt. Insoweit finden die Vorschriften über die Selbstverwaltung der Träger der Sozialversicherung keine Anwendung.
+
+(4) Das Bundesministerium der Verteidigung unterstützt die Unfallversicherung Bund und Bahn bei der Durchführung der ihr übertragenen Aufgaben.
+
+(5) Aus dem Einzelplan 14 des Bundeshaushaltsplans werden der Unfallversicherung Bund und Bahn erstattet:
+
+1. die laufenden Leistungsausgaben und Verwaltungskosten,
+
+2. die Kosten der Einrichtung der informationstechnischen Systeme und Schnittstellen sowie weitere Kosten, die zur Vorbereitung der Leistungserbringung nach Absatz 1 notwendig sind, auch soweit diese Kosten vor dem 1. Januar 2025 anfallen.
+
+(6) Das Nähere regelt das Bundesministerium der Verteidigung mit der Unfallversicherung Bund und Bahn durch Verwaltungsvereinbarungen.
+
 # § 5 – Kosten bei Errichtung
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der Unfallversicherung Bund und Bahn sowie der Eingliederung der Unfallkasse des Bundes und der Eisenbahn-Unfallkasse erforderlich sind, werden sonstige Abgaben und Gerichtskosten in Grundbuchsachen nicht erhoben.

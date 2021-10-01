@@ -159,7 +159,7 @@ Ausschluss von privatrechtlichen Abwehransprüchen
 
 § 24
 
-Gebühren, Auslagen und Aufwendungen
+(weggefallen)
 
 § 25
 
@@ -446,6 +446,8 @@ Für jedes Mitglied der Kommission ist aus demselben Bereich ein stellvertretend
 (4) Die Kommission berichtet jährlich der Öffentlichkeit in allgemeiner Weise über ihre Arbeit.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Berufung und das Verfahren der Kommission, die Heranziehung externer Sachverständiger sowie die Zusammenarbeit der Kommission mit den für den Vollzug des Gesetzes zuständigen Behörden zu regeln. Durch Rechtsverordnung mit Zustimmung des Bundesrates kann auch bestimmt werden, daß die Berufungsentscheidung gemäß Absatz 2 im Benehmen mit den Landesregierungen zu treffen ist.
+
+(6) Die Länder haben die bei der Kommission im Rahmen des Anzeige-, Anmelde- und Genehmigungsverfahrens entstehenden Aufwendungen zu erstatten. Die Aufwendungen werden im Einzelfall festgesetzt; dabei können nach dem durchschnittlichen Personal- und Sachaufwand ermittelte feste Sätze oder Rahmensätze zugrunde gelegt werden.
 
 # § 5 – Aufgaben der Kommission
 
@@ -955,15 +957,7 @@ Die zuständige Behörde kann ihre Entscheidung mit Nebenbestimmungen versehen, 
 
 Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche zur Abwehr benachteiligender Einwirkungen von einem Grundstück auf ein benachbartes Grundstück kann nicht die Einstellung des Betriebs der gentechnischen Anlage, der gentechnischen Arbeiten oder die Beendigung einer Freisetzung verlangt werden, deren Genehmigung unanfechtbar ist und für die ein Anhörungsverfahren nach § 18 durchgeführt wurde; es können nur Vorkehrungen verlangt werden, die die benachteiligenden Wirkungen ausschließen. Soweit solche Vorkehrungen nach dem Stand der Technik nicht durchführbar oder wirtschaftlich nicht vertretbar sind, kann lediglich Schadensersatz verlangt werden.
 
-# § 24 – Gebühren, Auslagen und Aufwendungen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsvorschriften sind Gebühren und Auslagen zu erheben. Von der Zahlung von Gebühren und Auslagen sind außer den in § 8 Absatz 1 und 2 des Bundesgebührengesetzes bezeichneten Rechtsträgern die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
-
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebühren durch feste Sätze, Rahmensätze oder nach dem Wert des Gegenstandes näher zu bestimmen.
-
-(3) Für die durch die Länder zu erhebenden Kosten gilt Landesrecht; Absatz 1 Satz 2 gilt entsprechend. Die Länder haben die bei der Kommission im Rahmen des Anzeige-, Anmelde- und Genehmigungsverfahrens entstehenden Aufwendungen zu erstatten. Die Aufwendungen werden im Einzelfall festgesetzt; dabei können nach dem durchschnittlichen Personal- und Sachaufwand ermittelte feste Sätze oder Rahmensätze zugrunde gelegt werden.
-
-(4) Die bei der Erfüllung von Auskunfts- und Duldungspflichten im Rahmen von Anmelde- und Genehmigungsverfahren und Überwachung entstehenden eigenen Aufwendungen des Betreibers sind nicht zu erstatten.
+# § 24 – (weggefallen)
 
 # § 25 – Überwachung, Auskunfts-, Duldungspflichten
 
@@ -982,6 +976,8 @@ Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche z
 Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung können Maßnahmen nach Satz 1 auch in Wohnräumen und zu jeder Tages- und Nachtzeit getroffen werden. Der Betreiber und jede Person, die mit Produkten, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, erwerbswirtschaftlich, gewerbsmäßig oder in vergleichbarer Weise umgeht, sind verpflichtet, Maßnahmen nach Satz 1 Nr. 1 und 2 und Satz 2 zu dulden, die mit der Überwachung beauftragten Personen zu unterstützen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, sowie die erforderlichen geschäftlichen Unterlagen vorzulegen. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (4) Auskunftspflichtige Personen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen ihrer in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen würde.
+
+(4a) Die bei der Erfüllung von Auskunfts- und Duldungspflichten im Rahmen von Anmelde- und Genehmigungsverfahren und im Rahmen von Überwachungen entstehenden eigenen Aufwendungen des Betreibers sind nicht zu erstatten.
 
 (5) Die in Erfüllung einer Auskunfts- oder Duldungspflicht nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung erhobenen personenbezogenen Informationen dürfen nur verwendet werden, soweit dies zur Durchführung dieses Gesetzes oder zur Verfolgung einer Straftat oder zur Abwehr einer Gefahr für die öffentliche Sicherheit erforderlich ist.
 

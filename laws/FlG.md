@@ -305,11 +305,7 @@ Im öffentlichen Bereich können die Festlegungen auch von den Fachaufsichtsbeh�
 
 (3) Das Bundesministerium kann die ihm in diesem Gesetz erteilten Ermächtigungen zum Erlass von Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des Bundesrates auf die Landesregierungen übertragen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-# § 14 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen, die nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgenommen werden, werden Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates für individuell zurechenbare öffentliche Leistungen der Bundesanstalt nach den §§ 3 und 6 Abs. 1 und 3 die gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+# § 14 – (weggefallen)
 
 # § 15 – Außenverkehr
 

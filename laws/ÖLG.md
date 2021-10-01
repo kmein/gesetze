@@ -143,11 +143,7 @@ Im Falle des Satzes 1 Nr. 2 ist auf Verlangen des Betroffenen ein Teil der Probe
 
 (2) Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission, insbesondere die Unterrichtung nach Artikel 30 Abs. 2 Satz 1 und 2 der Verordnung (EG) Nr. 834/2007 über festgestellte Unregelmäßigkeiten oder Verstöße oder die Mitteilungen nach Artikel 35 der Verordnung (EG) Nr. 834/2007, obliegt dem Bundesministerium für Ernährung und Landwirtschaft. Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen. Ferner kann es diese Befugnis durch Rechtsverordnung mit Zustimmung des Bundesrates auf die nach Landesrecht zuständigen Behörden übertragen.
 
-# § 10 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen der zuständigen Behörden, die nach den Artikeln 27 und 30 der Verordnung (EG) Nr. 834/2007 zu Kontroll- und Überwachungszwecken vorzunehmen sind, sowie für individuell zurechenbare öffentliche Leistungen nach § 2 Abs. 2 können kostendeckende Gebühren und Auslagen erhoben werden.
-
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, für individuell zurechenbare öffentliche Leistungen nach § 2 Abs. 2 im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+# § 10 – (weggefallen)
 
 # § 11 – Ermächtigungen
 

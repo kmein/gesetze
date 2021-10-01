@@ -79,9 +79,7 @@ Diese Befugnisse erstrecken sich auch auf Betriebe, die Fleisch, genießbare Sch
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen, die erforderlich sind, um Verstößen gegen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 zu begegnen, sowie das Verfahren der Überwachung von Fleisch, genießbaren Schlachtnebenerzeugnissen, Zubereitungen von Fleisch oder Zubereitungen von genießbaren Schlachtnebenerzeugnissen beim innerstaatlichen Handel, innergemeinschaftlichen Verbringen oder bei der Einfuhr zu regeln.
 
-# § 5 – Gebühren
-
-Für individuell zurechenbare öffentliche Leistungen, die nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Verordnungen von den zuständigen Stellen vorzunehmen sind, werden kostendeckende Gebühren und Auslagen erhoben.
+# § 5 – (weggefallen)
 
 # § 6 – Auskunftserteilung
 

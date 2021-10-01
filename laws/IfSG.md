@@ -119,7 +119,7 @@ Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermä
 
 § 18
 
-Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen
+Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
 
 § 19
 
@@ -1473,7 +1473,7 @@ e) die Verpflichtung, Abschluss und Ergebnis der Bekämpfung der zuständigen Be
 
 (7) Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der Freizügigkeit (Artikel 11 Abs. 1 Grundgesetz), der Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden im Rahmen der Absätze 1 bis 5 eingeschränkt.
 
-# § 18 – Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen
+# § 18 – Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
 
 (1) Zum Schutz des Menschen vor übertragbaren Krankheiten dürfen bei behördlich angeordneten Maßnahmen zur
 
@@ -1521,11 +1521,7 @@ Die Prüfung der Auswirkungen von Mitteln nach Absatz 1 Satz 1 Nummer 1 und 2 au
 
 (7) Die Anerkennung ist zu widerrufen, wenn die zuständige Bundesoberbehörde davon Kenntnis erlangt, dass eine nach anderen Gesetzen erforderliche Verkehrsfähigkeit für das Mittel oder Verfahren nicht mehr besteht. Sie kann widerrufen werden, insbesondere wenn nach aktuellen Erkenntnissen und Bewertungsmaßstäben die Voraussetzungen nach Absatz 2 nicht mehr erfüllt sind. Die zuständige Bundesoberbehörde führt die jeweils anerkannten Mittel und Verfahren in einer Liste und veröffentlicht die Liste.
 
-(8) Das Robert Koch-Institut und das Umweltbundesamt erheben für individuell zurechenbare öffentliche Leistungen nach den Absätzen 1 und 2 Gebühren und Auslagen.
-
-(9) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände der individuell zurechenbaren öffentlichen Leistungen nach den Absätzen 1 bis 4 und 7 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
-
-(10) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Anerkennungsverfahrens festzulegen.
+(8) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Anerkennungsverfahrens festzulegen.
 
 # § 19 – Aufgaben des Gesundheitsamtes in besonderen Fällen
 
@@ -2378,11 +2374,11 @@ In der Rechtsverordnung können auch Regelungen über die Anforderungen an die W
 
 Die Aufnahme von Mitteln und Verfahren zur Aufbereitung des in § 37 Absatz 2 Satz 2 bezeichneten Wassers in die Liste nach Nummer 5 erfolgt nur, wenn das Umweltbundesamt festgestellt hat, dass die Mittel und Verfahren mindestens den allgemein anerkannten Regeln der Technik entsprechen.
 
-(3) Für individuell zurechenbare öffentliche Leistungen in Antragsverfahren nach den auf Grund der Absätze 1 und 2 erlassenen Rechtsverordnungen kann das Umweltbundesamt zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erheben. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+(3) (weggefallen)
 
 # § 39 – Untersuchungen, Maßnahmen der zuständigen Behörde
 
-(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen. Er hat auch die Gebühren und Auslagen der Wasseruntersuchungen zu tragen, die die zuständige Behörde auf Grund der Rechtsverordnungen nach § 38 Abs. 1 oder 2 durchführt oder durchführen lässt.
+(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen.
 
 (2) Die zuständige Behörde hat die notwendigen Maßnahmen zu treffen, um
 

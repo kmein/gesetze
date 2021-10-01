@@ -69,9 +69,7 @@ Das Recht, die Gerichte anzurufen, bleibt durch die Schlichtung unberührt.
 
 (7) (weggefallen)
 
-# § 7 – Gebühren und Auslagen
-
-Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, auf Grund dieses Gesetzes oder nach der Verordnung (EU) Nr. 1177/2010.
+# § 7 – (weggefallen)
 
 # § 8 – Verordnungsermächtigung
 
@@ -81,9 +79,7 @@ Zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr nach der Ve
 
 2. das Verfahren zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr nach der Verordnung (EU) Nr. 1177/2010 zu regeln,
 
-3. die gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen,
-
-4. Regelungen zur Berichterstattung über die Durchsetzung der Verordnung (EU) Nr. 1177/2010 nach deren Artikel 26 zu treffen.
+3. Regelungen zur Berichterstattung über die Durchsetzung der Verordnung (EU) Nr. 1177/2010 nach deren Artikel 26 zu treffen.
 
 # § 9 – Bußgeldvorschriften
 

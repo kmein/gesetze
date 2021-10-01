@@ -4457,63 +4457,17 @@ Zuständige Behörde für die Anerkennung von Abrechnungsstellen für den intern
 
 # § 142 – Gebühren und Auslagen
 
-(1) Die Bundesnetzagentur erhebt für die folgenden individuell zurechenbaren öffentlichen Leistungen Gebühren und Auslagen:
+(1) Die Gebühren für Entscheidungen über die Zuteilung
 
-1. Entscheidungen über die Zuteilung eines Nutzungsrechts an Frequenzen nach § 55,
+1. des Nutzungsrechts an Frequenzen nach § 55 und
 
-2. Entscheidungen über die Zuteilung eines Nutzungsrechts an Nummern auf Grund einer Rechtsverordnung nach § 66 Abs. 4,
+2. eines Nutzungsrechts an Nummern aufgrund einer Rechtsverordnung nach § 66 Absatz 4
 
-3. Bearbeitung von Anträgen auf Registrierung von Anwählprogrammen über Mehrwertdienste-Rufnummern,
+sind abweichend von § 9 Absatz 1 des Bundesgebührengesetzes so zu bestimmen, dass sie als Lenkungszweck die optimale Nutzung und eine den Zielen dieses Gesetzes verpflichtete effiziente Verwendung dieser Güter sicherstellen. Satz 1 findet keine Anwendung, wenn Frequenzen oder Nummern von außerordentlich wirtschaftlichem Wert im Wege wettbewerbsorientierter oder vergleichender Auswahlverfahren vergeben werden.
 
-4. einzelfallbezogene Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 56,
+(2) Das Bundesministerium für Wirtschaft und Energie bestimmt im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur die Gebühren für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach diesem Gesetz, mit Ausnahme der Gebühren und Auslagen nach § 145, durch die Besondere Gebührenverordnung nach § 22 Absatz 4 des Bundesgebührengesetzes. Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur auf die Bundesnetzagentur übertragen. Eine Rechtsverordnung nach Satz 2, ihre Änderung und ihre Aufhebung bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
-5. sonstige individuell zurechenbare öffentliche Leistungen, die in einem engen Zusammenhang mit einer Entscheidung nach den Nummern 1 bis 4 stehen,
-
-6. Maßnahmen auf Grund von Verstößen gegen dieses Gesetz oder die darauf beruhenden Rechtsverordnungen,
-
-7. Entscheidungen über die Übertragung von Wegerechten nach § 69,
-
-8. Entscheidungen der Zugangsregulierung nach § 18 Abs. 1 und 2, den §§ 19, 20, 21 Abs. 2 und 3, § 23 und den §§ 24 und 25,
-
-9. Entscheidungen der Entgeltregulierung nach den §§ 29, 35 Abs. 3, §§ 38 und 39,
-
-10. Entscheidungen im Rahmen der Missbrauchsaufsicht nach § 42 Abs. 4,
-
-11. Entscheidungen über sonstige Streitigkeiten zwischen Unternehmen nach § 133,
-
-12. Entscheidungen der Streitbeilegung nach § 77n.
-
-Gebühren und Auslagen werden auch erhoben, wenn ein Antrag auf Vornahme einer in Satz 1 bezeichneten individuell zurechenbaren öffentlichen Leistung
-
-1. aus anderen Gründen als wegen Unzuständigkeit der Behörde abgelehnt oder
-
-2. nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung, zurückgenommen wird.
-
-(2) Die Gebühren nach Absatz 1 werden vorbehaltlich der Regelung in Absatz 4 zur Deckung des Verwaltungsaufwands erhoben.
-
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-
-1. die gebührenpflichtigen Tatbestände nach Absatz 1 sowie die Höhe der hierfür zu erhebenden Gebühren näher zu bestimmen und dabei feste Sätze, auch in Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorzusehen,
-
-2. eine bestimmte Zahlungsweise der Gebühren anzuordnen und
-
-3. das Nähere zur Ermittlung des Verwaltungsaufwands nach Absatz 2 zu bestimmen.
-
-Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung nach Satz 1 durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf die Bundesnetzagentur übertragen. Eine Rechtsverordnung der Bundesnetzagentur, ihre Änderung und ihre Aufhebung bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur.
-
-(4) Abweichend von Absatz 2 Satz 1 kann die Gebühr für Entscheidungen über die Zuteilungen nach Absatz 1 Nummer 1 und 2 so festgesetzt werden, dass sie als Lenkungszweck die optimale Nutzung und eine den Zielen dieses Gesetzes verpflichtete effiziente Verwendung dieser Güter sicherstellt. Absatz 2 Satz 1 und 2 findet keine Anwendung, wenn Nummern oder Frequenzen von außerordentlichem wirtschaftlichem Wert durch wettbewerbsorientierte oder vergleichende Auswahlverfahren vergeben werden.
-
-(5) In Rechtsverordnungen nach Absatz 2 Satz 1 kann abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden:
-
-1. der Umfang der zu erstattenden Auslagen und
-
-2. die Gebühr in den Fällen des Widerrufs oder der Rücknahme einer Zuteilung nach Absatz 1 Nr. 1 und 2 oder einer Übertragung von Wegerechten nach Absatz 1 Nr. 7, sofern die Betroffenen dies zu vertreten haben.
-
-(6) Eine Festsetzung von Gebühren und Auslagen ist bis zum Ablauf des vierten Kalenderjahres nach Entstehung der Schuld zulässig (Festsetzungsverjährung). Wird vor Ablauf der Frist ein Antrag auf Aufhebung oder Änderung der Festsetzung gestellt, ist die Festsetzungsfrist so lange gehemmt, bis über den Antrag unanfechtbar entschieden wurde. Der Anspruch auf Zahlung von Gebühren und Auslagen verjährt mit Ablauf des fünften Kalenderjahres nach der Festsetzung (Zahlungsverjährung). Im Übrigen gelten § 13 Absatz 3 und die §§ 18 und 19 des Bundesgebührengesetzes.
-
-(7) Im Falle des Versteigerungsverfahrens nach § 61 Absatz 4 wird eine Zuteilungsgebühr nach Absatz 1 Nr. 1 nur erhoben, soweit sie den Erlös des Versteigerungsverfahrens übersteigt.
-
-(8) Die Wegebaulastträger können in ihrem Zuständigkeitsbereich Regelungen erlassen, nach denen lediglich die Verwaltungskosten abdeckende Gebühren und Auslagen für die Erteilung von Zustimmungsbescheiden nach § 68 Abs. 3 zur Nutzung öffentlicher Wege erhoben werden können. Eine Pauschalierung ist zulässig.
+(3) Die Wegebaulastträger können in ihrem Zuständigkeitsbereich Regelungen erlassen, nach denen lediglich die Verwaltungskosten abdeckende Gebühren und Auslagen für die Erteilung von Zustimmungsbescheiden nach § 68 Absatz 3 zur Nutzung öffentlicher Wege erhoben werden können. Eine Pauschalierung ist zulässig.
 
 # § 143 – Frequenznutzungsbeitrag
 
@@ -4525,7 +4479,13 @@ Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung nach Sa
 
 (2) Beitragspflichtig sind diejenigen, denen Frequenzen zugeteilt sind. Die Anteile an den Kosten werden den einzelnen Nutzergruppen, die sich aus der Frequenzzuweisung ergeben, so weit wie möglich aufwandsbezogen zugeordnet. Eine Beitragspflicht ist auch dann gegeben, wenn eine Frequenz auf Grund sonstiger Verwaltungsakte oder dauerhaft ohne Zuteilung genutzt wird. Dies gilt insbesondere für die bis zum 1. August 1996 erteilten Rechte, soweit sie Festlegungen über die Nutzung von Frequenzen enthalten.
 
-(3) In die nach Absatz 1 abzugeltenden Kosten sind solche nicht einzubeziehen, für die bereits eine Gebühr nach § 142 oder eine Gebühr nach § 16 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001 (BGBl. I S. 170) oder Gebühren nach der Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes oder Beiträge nach § 31 des Elektromagnetische-Verträglichkeit-Gesetzes in der jeweils gültigen Fassung und den auf diesen Vorschriften beruhenden Rechtsverordnungen erhoben wird.
+(3) In die nach Absatz 1 abzugeltenden Kosten sind solche nicht einzubeziehen, für die bereits
+
+1. Gebühren nach § 142 erhoben werden,
+
+2. Gebühren nach der Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur nach § 22 Absatz 4 des Bundesgebührengesetzes erhoben werden oder
+
+3. Beiträge nach § 19 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S. 220) und der auf dieser Vorschrift beruhenden Rechtsverordnung erhoben werden.
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nach Maßgabe der vorstehenden Absätze das Nähere über den Kreis der Beitragspflichtigen, die Beitragssätze, die Beitragskalkulation und das Verfahren der Beitragserhebung einschließlich der Zahlungsweise festzulegen. Der auf das Allgemeininteresse entfallende Kostenanteil ist beitragsmindernd zu berücksichtigen. Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung nach Satz 1 durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf die Bundesnetzagentur übertragen. Eine Rechtsverordnung der Bundesnetzagentur, ihre Änderung und ihre Aufhebung bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur.
 

@@ -61,7 +61,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 3. Kosten für die zugunsten einer akkreditierten Konformitätsbewertungsstelle beantragten Anerkennung der Akkreditierungsstelle durch ausländische Behörden oder private Vereinigungen sowie die Aufrechterhaltung dieser Anerkennung, durch die die Akzeptanz der von der Konformitätsbewertungsstelle ausgestellten Bestätigungen sichergestellt oder erweitert wird.
 
-(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu vergüten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
+(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
 
 (3) Mit dem Honorar sind sämtliche sonstigen Kosten und Aufwendungen des Beauftragten außer den Reisekosten abgegolten.
 
@@ -71,7 +71,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (6) Soweit vergütungspflichtige Leistungen des Beauftragten auf die gleichzeitige Erledigung mehrerer Angelegenheiten entfallen, ist die Vergütung nach der Anzahl der Angelegenheiten aufzuteilen.
 
-(7) Für Begutachtungen und Überwachungen nach § 2 Absatz 3 Satz 2 und 3 des Akkreditierungsstellengesetzes ist der von den Befugnis erteilenden Behörden nach den für sie geltenden gesetzlichen Bestimmungen bei der Akkreditierungsstelle einschließlich der Reisekosten geltend gemachte Aufwand zu erheben.
+(7) Für Begutachtungen und Überwachungen nach § 2 Absatz 3 Satz 2 und 3 des Akkreditierungsstellengesetzes ist der von den Befugnis erteilenden Behörden nach den für sie geltenden gesetzlichen Bestimmungen bei der Akkreditierungsstelle einschließlich der Reisekosten geltend gemachte Aufwand zu erheben. Die Kosten der Physikalisch-Technischen Bundesanstalt und der Bundesanstalt für Materialforschung und -prüfung für Begutachtungen nach § 2 Absatz 3 Satz 1 des Akkreditierungsstellengesetzes sind in der tatsächlich entstandenen Höhe bei der Akkreditierungsstelle zu erheben. Notwendige Reise- und Wartezeiten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten.
 
 # § 5 – Nichtanwendung bisherigen Rechts
 
@@ -82,6 +82,10 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 (1) Für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach der Kostenverordnung der Akkreditierungsstelle vom 21. Dezember 2009 (BGBl. I S. 3964), die durch Artikel 2 Absatz 107 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der bis zum Ablauf des 30. Juni 2018 geltenden Fassung zu erheben.
 
 (2) Abweichend von Absatz 1 können für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung erhoben werden, soweit bei diesen Leistungen unter Hinweis auf das bevorstehende Inkrafttreten einer neuen Gebührenverordnung eine Gebührenfestsetzung nach dieser Verordnung ausdrücklich vorbehalten worden ist.
+
+(3) Für individuell zurechenbare öffentliche Leistungen, die ab dem 1. Juli 2018, jedoch vor dem 1. Oktober 2021 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum Ablauf des 30. September 2021 geltenden Fassung zu erheben.
+
+(4) Abweichend von Absatz 3 werden für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Oktober 2021 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 1. Oktober 2021 geltenden Fassung erhoben, soweit bei diesen Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten einer geänderten Fassung dieser Verordnung eine Gebührenfestsetzung nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
 
 # § 7 – Inkrafttreten, Außerkrafttreten
 

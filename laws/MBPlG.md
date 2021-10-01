@@ -139,13 +139,9 @@ Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses oder ein
 
 # § 11 – Rechtsverordnungen
 
-(1) Zur Gewährleistung der Sicherheit und Ordnung im Magnetschwebebahnverkehr, des Umweltschutzes oder zum Schutz von Leben und Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu erlassen
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates zur Gewährleistung der Sicherheit und Ordnung im Magnetschwebebahnverkehr, zur Gewährleistung des Umweltschutzes oder zum Schutz von Leben und Gesundheit der Arbeitnehmer Rechtsverordnungen über den Bau und den Betrieb von Magnetschwebebahnen zu erlassen sowie die Anforderungen an Bau, Ausrüstung und Betriebsweise nach den Erfordernissen der Sicherheit, nach den neuesten Erkenntnissen der Technik und nach internationalen Abmachungen einheitlich zu regeln.
 
-1. über den Bau und den Betrieb von Magnetschwebebahnen, welche die Anforderungen an Bau, Ausrüstung und Betriebsweise nach den Erfordernissen der Sicherheit, nach den neuesten Erkenntnissen der Technik und nach internationalen Abmachungen einheitlich regeln,
-
-2. über die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der Behörden des Bundes nach diesem Gesetz.
-
-(2) Rechtsverordnungen nach Absatz 1 Nr. 1 werden, soweit sie den Umweltschutz betreffen, vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen. Rechtsverordnungen nach Absatz 1 Nr. 1 zum Schutz von Leben und Gesundheit der Arbeitnehmer werden im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie erlassen.
+(2) Rechtsverordnungen nach Absatz 1 werden, soweit sie den Umweltschutz betreffen, vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen. Rechtsverordnungen nach Absatz 1 zum Schutz von Leben und Gesundheit der Arbeitnehmer werden im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie erlassen.
 
 # § 12 – Übergangsregelung für Planungen
 

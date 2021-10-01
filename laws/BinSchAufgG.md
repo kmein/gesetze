@@ -173,13 +173,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann zur Umsetzung
 
 (2) Beteiligungspflichten in Form des Benehmens oder der Anhörung, die in einer übertragbaren Ermächtigung vorgesehen sind, gehen mit deren Übertragung auf die Generaldirektion Wasserstraßen und Schifffahrt über, soweit die übertragende Rechtsverordnung nichts anderes bestimmt.
 
-# § 4 – Gebühren und Auslagen
-
-(1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 1 und 2 und den auf Grund des § 3 Absatz 1 bis 4, den §§ 3a und 3d erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen auch die Kosten für die zentrale Herstellung von Befähigungszeugnissen und die auf die Gebühren und Auslagen entfallende Umsatzsteuer.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
-
-(3) Urkunden und sonstige schriftliche oder elektronische Dokumente können bis zur Zahlung der für sie geschuldeten Gebühren und Auslagen im Sinne des Absatzes 1 zurückbehalten oder an den Gebühren- und Auslagenschuldner unter Nachnahme des Gebühren- und Auslagenbetrags übersandt werden.
+# § 4 – (weggefallen)
 
 # § 5 – Hamburger Hafen
 

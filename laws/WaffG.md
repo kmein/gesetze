@@ -387,7 +387,7 @@ Verwaltungsvorschriften
 
 § 60
 
-Übergangsvorschrift zur Kostenverordnung
+(weggefallen)
 
 § 60a
 
@@ -2159,9 +2159,7 @@ Das Bundesministerium des Innern, für Bau und Heimat erlässt allgemeine Verwal
 
 (+++ § 59: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
-# § 60 – Übergangsvorschrift zur Kostenverordnung
-
-Die Kostenverordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), die zuletzt durch Artikel 2 der Verordnung vom 10. Januar 2000 (BGBl. I S. 38) geändert worden ist, gilt in den Ländern bis zum 1. Oktober 2021 fort, solange die Länder keine anderweitigen Regelungen getroffen haben; für die Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes vom 23. Juni 1970 in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden.
+# § 60 – (weggefallen)
 
 # § 60a – Übergangsvorschrift zu den Waffenbüchern
 

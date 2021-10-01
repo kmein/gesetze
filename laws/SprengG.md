@@ -1556,9 +1556,9 @@ eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordn
 
 (1) Die Bundesanstalt ist eine bundesunmittelbare, nicht rechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie; sie ist eine Bundesoberbehörde.
 
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme der Bundesanstalt und die Gebühren und Auslagen für ihre Nutzleistungen zu erlassen. Die Gebühren sind nach dem Personal- und Sachaufwand für die Nutzleistung der Bundesanstalt unter Berücksichtigung ihres wirtschaftlichen Wertes für den Antragsteller zu bestimmen. Der Personalaufwand kann nach der Zahl der Stunden bemessen werden, die Bedienstete der Bundesanstalt für Prüfungen bestimmter Arten von Prüfgegenständen durchschnittlich benötigen. Die Gebühr kann auch für eine individuell zurechenbare öffentliche Leistung erhoben werden, die nicht begonnen oder nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die individuell zurechenbare öffentliche Leistung veranlasst hat.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme der Bundesanstalt zu erlassen.
 
-(3) Zur Abgeltung mehrfacher gleichartiger Nutzleistungen für denselben Antragsteller können Pauschgebühren vorgesehen werden. Bei der Bemessung der Pauschgebührensätze ist der geringere Umfang des Verwaltungsaufwandes zu berücksichtigen.
+(3) (weggefallen)
 
 # § 45 – Aufgaben der Bundesanstalt
 
@@ -1602,9 +1602,7 @@ und für die die Durchführung des Qualitätssicherungsverfahrens nach § 20 Abs
 
 (2) Absatz 1 findet keine Anwendung in den Fällen des § 8a Abs. 2 Nr. 2 bis 4 und des § 8b Abs. 1 Nr. 1 bis 3.
 
-# § 47b – Übergangsvorschrift zur Kostenordnung zum Sprengstoffrecht
-
-Die Kostenverordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom 31. Januar 1991 (BGBl. I S. 216), die zuletzt durch Artikel 4 des Gesetzes vom 15. Juni 2005 (BGBl. I S. 1626) geändert worden ist, gilt in den Ländern bis spätestens zum 1. Oktober 2021 fort, solange die Länder insoweit keine anderweitigen Regelungen getroffen haben. Für die Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes vom 23. Juni 1970 in der bis zum 14. August 2013 geltenden Fassung weiter anzuwenden.
+# § 47b – (weggefallen)
 
 # § 48 – Bereits errichtete Sprengstofflager
 

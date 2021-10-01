@@ -65,7 +65,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (3) Das Eisenbahn-Bundesamt nimmt die Landeseisenbahnaufsicht und die Befugnis zur Erteilung von Genehmigungen auf der Grundlage einer Vereinbarung mit einem Land nach dessen Weisung und auf dessen Rechnung wahr.
 
-(4) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes werden Gebühren und Auslagen erhoben. Bis zum Inkrafttreten der Rechtsverordnung nach § 26 Abs. 1 Nr. 9 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396) sind die Gebühren im Einzelfall an Hand des mit dieser Leistung verbundenen Verwaltungsaufwandes und der Bedeutung, des wirtschaftlichen Wertes oder des sonstigen Nutzens dieser Leistung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
+(4) (weggefallen)
 
 # § 4 – Regulierungsbehörde
 
@@ -81,7 +81,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (5) Vermögensgegenstände, die zur Erfüllung der Aufgaben der in Absatz 1 bezeichneten Behörde aus den Beständen des Bundeseisenbahnvermögens oder des Eisenbahn-Bundesamtes entnommen werden, werden ohne Wertausgleich übertragen. Einzelheiten legt das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie fest.
 
-(6) Für individuell zurechenbare öffentliche Leistungen der in Absatz 1 bezeichneten Behörde werden Gebühren und Auslagen erhoben. Bis zum Inkrafttreten einer auf die in Absatz 1 bezeichneten Behörde bezogenen Rechtsverordnung nach § 26 Abs. 1 Nr. 9 des Allgemeinen Eisenbahngesetzes sind die Gebühren im Einzelfall anhand des mit dieser Leistung verbundenen Verwaltungsaufwandes und der Bedeutung, des wirtschaftlichen Wertes oder des sonstigen Nutzens dieser Leistung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
+(6) (weggefallen)
 
 (7) Bis zum 31. Dezember 2005 werden die der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach Absatz 1 zugewiesenen Aufgaben vom Eisenbahn-Bundesamt wahrgenommen.
 

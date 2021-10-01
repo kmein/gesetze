@@ -4351,9 +4351,7 @@ Für die Aufsicht nach den §§ 69 bis 74 ist, soweit sich aus § 134 nichts and
 
 (3) Die Bundesministerien für Verkehr und digitale Infrastruktur, des Innern, für Bau und Heimat und der Finanzen regeln im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Vereinbarung das Zusammenwirken der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundespolizei und der Zollverwaltung.
 
-# § 135 – Gebühren- und Auslagenermächtigung
-
-Für individuell zurechenbare öffentliche Leistungen von Bundesbehörden auf Grund der §§ 132 bis 134 werden Gebühren und Auslagen erhoben. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder Rahmensätze vor. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+# § 135 – (weggefallen)
 
 # § 136 – Zuständigkeiten für sonstige Verwaltungsaufgaben
 

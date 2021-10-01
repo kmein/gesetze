@@ -15,7 +15,11 @@
 
 # § 1 – Anwendungsbereich
 
-(1) Diese Verordnung gilt für Tätigkeiten mit Biologischen Arbeitsstoffen (Biostoffen). Sie regelt Maßnahmen zum Schutz von Sicherheit und Gesundheit der Beschäftigten vor Gefährdungen durch diese Tätigkeiten. Sie regelt zugleich auch Maßnahmen zum Schutz anderer Personen, soweit diese aufgrund des Verwendens von Biostoffen durch Beschäftigte oder durch Unternehmer ohne Beschäftigte gefährdet werden können.
+(1) Diese Verordnung gilt für Tätigkeiten mit Biologischen Arbeitsstoffen (Biostoffen). Sie regelt Maßnahmen zum Schutz von Sicherheit und Gesundheit der Beschäftigten vor Gefährdungen durch diese Tätigkeiten. Sie regelt zugleich auch Maßnahmen zum Schutz von
+
+1. Beschäftigten in Arbeitsbereichen, in denen diese durch Tätigkeiten nach § 2 Absatz 7 gefährdet werden können, ohne selbst diese Tätigkeiten auszuüben sowie
+
+2. anderen Personen, soweit diese aufgrund des Verwendens von Biostoffen durch Beschäftigte oder durch Unternehmer ohne Beschäftigte gefährdet werden können.
 
 (2) Die Verordnung gilt auch für Tätigkeiten, die dem Gentechnikrecht unterliegen, sofern dort keine gleichwertigen oder strengeren Regelungen zum Schutz der Beschäftigten bestehen.
 
@@ -27,7 +31,7 @@
 
 2. mit Transmissibler Spongiformer Enzephalopathie (TSE) assoziierte Agenzien,
 
-die den Menschen durch Infektionen, übertragbare Krankheiten, Toxinbildung, sensibilisierende oder sonstige, die Gesundheit schädigende Wirkungen gefährden können.
+die den Menschen durch Infektionen, infektionsbedingte akute oder chronische Krankheiten, Toxinbildung oder sensibilisierende Wirkungen gefährden können.
 
 (2) Den Biostoffen gleichgestellt sind
 
@@ -125,7 +129,7 @@ Ansonsten hat der Arbeitgeber die Gefährdungsbeurteilung mindestens jedes zweit
 
 (3) Für die Gefährdungsbeurteilung hat der Arbeitgeber insbesondere Folgendes zu ermitteln:
 
-1. Identität, Risikogruppeneinstufung und Übertragungswege der Biostoffe, deren mögliche sensibilisierende und toxische Wirkungen und Aufnahmepfade, soweit diese Informationen für den Arbeitgeber zugänglich sind; dabei hat er sich auch darüber zu informieren, ob durch die Biostoffe sonstige die Gesundheit schädigende Wirkungen hervorgerufen werden können,
+1. Identität, Risikogruppeneinstufung und Übertragungswege der Biostoffe, deren mögliche sensibilisierende und toxische Wirkungen und Aufnahmepfade, soweit diese Informationen ermittelt werden können,
 
 2. Art der Tätigkeit unter Berücksichtigung der Betriebsabläufe, Arbeitsverfahren und verwendeten Arbeitsmittel einschließlich der Betriebsanlagen,
 
@@ -141,7 +145,7 @@ b) über bekannte Erkrankungen und die zu ergreifenden Gegenmaßnahmen,
 
 c) aus der arbeitsmedizinischen Vorsorge.
 
-(4) Der Arbeitgeber hat auf der Grundlage der nach Absatz 3 ermittelten Informationen die Infektionsgefährdung und die Gefährdungen durch sensibilisierende, toxische oder sonstige die Gesundheit schädigende Wirkungen unabhängig voneinander zu beurteilen. Diese Einzelbeurteilungen sind zu einer Gesamtbeurteilung zusammenzuführen, auf deren Grundlage die Schutzmaßnahmen festzulegen und zu ergreifen sind. Dies gilt auch, wenn bei einer Tätigkeit mehrere Biostoffe gleichzeitig auftreten oder verwendet werden.
+(4) Der Arbeitgeber hat auf der Grundlage der nach Absatz 3 ermittelten Informationen die Infektionsgefährdung und die Gefährdungen durch sensibilisierende oder toxische Wirkungen unabhängig voneinander zu beurteilen. Diese Einzelbeurteilungen sind zu einer Gesamtbeurteilung zusammenzuführen, auf deren Grundlage die Schutzmaßnahmen festzulegen und zu ergreifen sind. Dies gilt auch, wenn bei einer Tätigkeit mehrere Biostoffe gleichzeitig auftreten oder verwendet werden.
 
 (5) Sind bei Tätigkeiten mit Produkten, die Biostoffe enthalten, die erforderlichen Informationen zur Gefährdungsbeurteilung wie zum Beispiel die Risikogruppeneinstufung nicht zu ermitteln, so muss der Arbeitgeber diese beim Hersteller, Einführer oder Inverkehrbringer einholen. Satz 1 gilt nicht für Lebensmittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
@@ -165,7 +169,7 @@ den Grad der Infektionsgefährdung der Beschäftigten bestimmt.
 
 # § 6 – Tätigkeiten ohne Schutzstufenzuordnung
 
-(1) Tätigkeiten, die nicht unter § 5 Absatz 1 fallen, müssen keiner Schutzstufe zugeordnet werden. Dabei handelt es sich um Tätigkeiten im Sinne von § 2 Absatz 7 Nummer 2. Zu diesen Tätigkeiten gehören beispielsweise Reinigungs- und Sanierungsarbeiten, Tätigkeiten in der Veterinärmedizin, der Land-, Forst-, Abwasser- und Abfallwirtschaft sowie in Biogasanlagen und Schlachtbetrieben.
+(1) Tätigkeiten, die nicht unter § 5 Absatz 1 fallen, müssen keiner Schutzstufe zugeordnet werden. Dabei handelt es sich um Tätigkeiten im Sinne von § 2 Absatz 7 Nummer 2. Zu diesen Tätigkeiten gehören beispielsweise Reinigungs- und Sanierungsarbeiten, Tätigkeiten in der Veterinärmedizin, der Land-, Forst-, Abwasser- und Abfallwirtschaft sowie in Biogasanlagen und Betrieben der Futter- und Nahrungsmittelproduktion einschließlich Schlachtbetrieben.
 
 (2) Kann bei diesen Tätigkeiten eine der in § 4 Absatz 3 Nummer 1 und 3 genannten Informationen nicht ermittelt werden, weil das Spektrum der auftretenden Biostoffe Schwankungen unterliegt oder Art, Dauer, Höhe oder Häufigkeit der Exposition wechseln können, so hat der Arbeitgeber die für die Gefährdungsbeurteilung und Festlegung der Schutzmaßnahmen erforderlichen Informationen insbesondere zu ermitteln auf der Grundlage von
 
@@ -189,7 +193,7 @@ den Grad der Infektionsgefährdung der Beschäftigten bestimmt.
 
 5. eine Begründung, wenn von den nach § 19 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird.
 
-(2) Als Bestandteil der Dokumentation hat der Arbeitgeber ein Verzeichnis der verwendeten oder auftretenden Biostoffe zu erstellen (Biostoffverzeichnis), soweit diese bekannt und für die Gefährdungsbeurteilung nach § 4 maßgeblich sind. Das Verzeichnis muss Angaben zur Einstufung der Biostoffe in eine Risikogruppe nach § 3 und zu ihren sensibilisierenden, toxischen und sonstigen die Gesundheit schädigenden Wirkungen beinhalten. Die Angaben müssen allen betroffenen Beschäftigten und ihren Vertretungen zugänglich sein.
+(2) Als Bestandteil der Dokumentation hat der Arbeitgeber ein Verzeichnis der verwendeten oder auftretenden Biostoffe zu erstellen (Biostoffverzeichnis), soweit diese bekannt sind. Das Verzeichnis muss Angaben zur Einstufung der Biostoffe in eine Risikogruppe nach § 3 und zu ihren sensibilisierenden und toxischen Wirkungen beinhalten. Die Angaben müssen allen betroffenen Beschäftigten und ihren Vertretungen zugänglich sein.
 
 (3) Bei Tätigkeiten der Schutzstufe 3 oder 4 hat der Arbeitgeber zusätzlich ein Verzeichnis über die Beschäftigten zu führen, die diese Tätigkeiten ausüben. In dem Verzeichnis sind die Art der Tätigkeiten und die vorkommenden Biostoffe sowie aufgetretene Unfälle und Betriebsstörungen anzugeben. Es ist personenbezogen für den Zeitraum von mindestens zehn Jahren nach Beendigung der Tätigkeit aufzubewahren. Der Arbeitgeber hat
 
@@ -301,7 +305,7 @@ b) Durchführung der Unterweisung nach § 14 Absatz 2,
 
 Der Arbeitgeber hat die Aufgaben und die Befugnisse dieser Person schriftlich festzulegen. Sie darf wegen der Erfüllung der ihr übertragenen Aufgaben nicht benachteiligt werden. Ihr ist für die Durchführung der Aufgaben ausreichend Zeit zur Verfügung zu stellen. Satz 1 gilt nicht für Tätigkeiten mit Biostoffen der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind.
 
-# § 11 – Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes
+# § 11 – Zusätzliche Schutzmaßnahmen und Anforderungen in Einrichtungen des Gesundheitsdienstes
 
 (1) Zusätzlich zu den Schutzmaßnahmen nach § 9 hat der Arbeitgeber vor Aufnahme der Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes in Abhängigkeit von der Gefährdungsbeurteilung
 
@@ -427,15 +431,15 @@ Bei Bedarf kann die zuständige Behörde weitere Unterlagen anfordern. Erfolgt d
 
 1. die erstmalige Aufnahme
 
-a) einer gezielten Tätigkeit mit Biostoffen der Risikogruppe 2,
+a) gezielter Tätigkeiten mit Biostoffen der Risikogruppe 2 sowie mit Biostoffen der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind,
 
-b) einer Tätigkeit mit Biostoffen der Risikogruppe 3, soweit die Tätigkeiten keiner Erlaubnispflicht nach § 15 unterliegen,
+b) nicht gezielter Tätigkeiten der Schutzstufe 2 mit Biostoffen der Risikogruppe 3 einschließlich solcher, die mit (\*\*) gekennzeichnet sind, sofern die Tätigkeiten auf diese Biostoffe ausgerichtet sind und regelmäßig durchgeführt werden sollen,
 
 in Laboratorien, in der Versuchstierhaltung und in der Biotechnologie,
 
 2. jede Änderung der erlaubten oder angezeigten Tätigkeiten, wenn diese für die Sicherheit und den Gesundheitsschutz bedeutsam sind, zum Beispiel Tätigkeiten, die darauf abzielen, die Virulenz des Biostoffs zu erhöhen oder die Aufnahme von Tätigkeiten mit weiteren Biostoffen der Risikogruppe 3 oder 4,
 
-3. die Aufnahme eines infizierten Patienten in eine Patientenstation der Schutzstufe 4,
+3. die Inbetriebnahme einer Patientenstation der Schutzstufe 4 bei Aufnahme einer infizierten Patientin oder eines infizierten Patienten sowie die anschließende Außerbetriebnahme,
 
 4. das Einstellen einer nach § 15 erlaubnispflichtigen Tätigkeit.
 
@@ -443,7 +447,7 @@ in Laboratorien, in der Versuchstierhaltung und in der Biotechnologie,
 
 1. Name und Anschrift des Arbeitgebers,
 
-2. Beschreibung der vorgesehenen Tätigkeiten,
+2. Beschreibung der vorgesehenen Tätigkeiten einschließlich der Bezeichnung der Räumlichkeiten, in denen diese Tätigkeiten durchgeführt werden sollen,,
 
 3. das Ergebnis der Gefährdungsbeurteilung nach § 4,
 
@@ -451,7 +455,15 @@ in Laboratorien, in der Versuchstierhaltung und in der Biotechnologie,
 
 5. die vorgesehenen Maßnahmen zum Schutz der Sicherheit und Gesundheit der Beschäftigten.
 
-(3) Die Anzeige nach Absatz 1 Nummer 1, 2 oder Nummer 4 hat spätestens 30 Tage vor Aufnahme oder Einstellung der Tätigkeiten, die Anzeige nach Absatz 1 Nummer 3 unverzüglich zu erfolgen.
+(3) Die Anzeige nach Absatz 1 hat zu erfolgen bei Tätigkeiten nach
+
+1. Nummer 1 spätestens 30 Tage vor deren erstmaliger Aufnahme,
+
+2. Nummer 2 spätestens 30 Tage vor der geplanten Änderung,
+
+3. Nummer 3 unverzüglich,
+
+4. Nummer 4 spätestens 30 Tage vor deren Einstellung.
 
 (4) Die Anzeigepflicht kann auch dadurch erfüllt werden, dass der zuständigen Behörde innerhalb der in Absatz 3 bestimmten Frist die Kopie einer Anzeige, Genehmigung oder Erlaubnis nach einer anderen Rechtsvorschrift übermittelt wird, wenn diese gleichwertige Angaben beinhaltet.
 
@@ -493,7 +505,7 @@ Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des A
 
 3. wissenschaftliche Bewertungen von Biostoffen vorzunehmen und deren Einstufung in Risikogruppen vorzuschlagen,
 
-4. das Bundesministerium für Arbeit und Soziales in Fragen der biologischen Sicherheit zu beraten.
+4. das Bundesministerium für Arbeit und Soziales in Fragen der biologischen Sicherheit, insbesondere zu epidemischen Lagen von nationaler Tragweite im Sinne von § 5 Absatz 1 Satz 6 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) in der am 31. März 2021 geltenden Fassung, zu beraten.
 
 Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit und Soziales abgestimmt. Der Ausschuss arbeitet eng mit den anderen Ausschüssen beim Bundesministerium für Arbeit und Soziales zusammen.
 
@@ -511,7 +523,7 @@ Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit u
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 4 Absatz 1 Satz 1 die Gefährdung der Beschäftigten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beurteilt,
+1. entgegen § 4 Absatz 1 Satz 1 oder 2 die Gefährdung der Beschäftigten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beurteilt,
 
 2. entgegen § 4 Absatz 2 Satz 1 eine Gefährdungsbeurteilung nicht oder nicht rechtzeitig aktualisiert,
 
@@ -523,7 +535,9 @@ Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit u
 
 6. entgegen § 7 Absatz 3 Satz 3 ein dort genanntes Verzeichnis nicht oder nicht mindestens zehn Jahre aufbewahrt,
 
-7. entgegen § 8 Absatz 4 Nummer 4 erster Halbsatz persönliche Schutzausrüstung nicht oder nicht rechtzeitig zur Verfügung stellt,
+7. entgegen § 8 Absatz 4 Nummer 4 persönliche Schutzausrüstung nicht oder nicht rechtzeitig zur Verfügung stellt oder das Verwenden einer dort genannten Schutzausrüstung als Dauermaßnahme vorsieht,
+
+7a. entgegen § 8 Absatz 6 Satz 1 die Wirksamkeit einer dort genannten Schutzmaßnahme nicht oder nicht rechtzeitig überprüft,
 
 8. entgegen § 9 Absatz 1 Satz 2 Nummer 3 nicht dafür sorgt, dass eine Waschgelegenheit zur Verfügung steht,
 
@@ -573,11 +587,13 @@ Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit u
 
 # § 22 – Übergangsvorschriften
 
-Bei Tätigkeiten, die vor Inkrafttreten dieser Verordnung aufgenommen worden sind,
+Bei Tätigkeiten, die vor dem 23. Juli 2013 aufgenommen worden sind, besteht keine Erlaubnispflicht nach § 15 Absatz 1, sofern
 
-1. ist entsprechend § 10 Absatz 2 oder § 11 Absatz 7 Nummer 3 eine fachkundige Person bis zum 30. Juni 2014 zu benennen,
+1. diese Tätigkeiten der zuständigen Behörde angezeigt wurden und
 
-2. besteht keine Erlaubnispflicht gemäß § 15 Absatz 1, sofern diese Tätigkeiten der zuständigen Behörde angezeigt wurden.
+2. die der Anzeige zugrundeliegenden baulichen, technischen und organisatorischen Bedingungen nach dem 30. September 2021 nicht wesentlich verändert wurden.
+
+Die Anzeigepflicht nach § 16 Absatz 1 Nummer 4 bleibt unberührt.
 
 # Anhang I – Symbol für Biogefährdung
 
@@ -691,9 +707,10 @@ verbindlich
 
 12. Die jeweils genannten Flächen müssen wasserundurchlässig und leicht zu reinigen sein.
 
-Werkbänke
+Werkbänke,  
+Fußböden
 
-Werkbänke und Fußböden
+Werkbänke, Fußböden sowie andere Flächen, die aufgrund der Gefährdungsbeurteilung festzulegen sind
 
 Werkbänke, Wände, Fußböden und Decken
 
@@ -848,7 +865,7 @@ zuverlässig verhindert wird.
 
 5. Kulturflüssigkeiten dürfen zur Weiterverarbeitung nur aus der Apparatur entnommen werden, wenn die Entnahme in einem geschlossenen System erfolgt oder die Biostoffe durch wirksame physikalische oder chemische Verfahren inaktiviert worden sind.
 
-empfohlen
+verbindlich
 
 verbindlich
 

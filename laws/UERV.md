@@ -818,11 +818,7 @@ DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag Gm
 
 Ausnahmen von § 23 Absatz 1 des Verwaltungsverfahrensgesetzes, insbesondere bei Kyoto-Projekttätigkeiten, kann das Umweltbundesamt auf Antrag des Projektträgers, der Validierungsstelle oder der Verifizierungsstelle gewähren.
 
-# § 48 – Erhebung von Gebühren und Auslagen
-
-(1) Das Umweltbundesamt erhebt für Amtshandlungen nach dieser Verordnung Gebühren nach dem Gebührenverzeichnis in Anlage 1.
-
-(2) § 10 Absatz 2 bis 5 des Bundesgebührengesetzes ist anzuwenden.
+# § 48 – (weggefallen)
 
 # § 49 – Aufbewahrung von Unterlagen, Umgang mit Informationen
 
@@ -878,6 +874,4 @@ Das Umweltbundesamt evaluiert diese Verordnung regelmäßig und legt der Bundesr
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-# Anlage 1 – (zu § 48)Gebührenverzeichnis
-
-(Fundstelle: BGBl. I 2018, 183)
+# Anlage 1 – (weggefallen)

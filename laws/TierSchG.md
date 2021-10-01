@@ -1335,11 +1335,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung von Rechtsa
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
 
-# § 21c
-
-(1) Die nach § 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4, zuständige Behörde erhebt für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen Gebühren und Auslagen.
-
-(2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei der Bemessung der Höhe der Gebühr ist auch der mit den Mitwirkungshandlungen beteiligter Prüfeinrichtungen verbundene Aufwand zu berücksichtigen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+# § 21c – (weggefallen)
 
 # § 21d
 

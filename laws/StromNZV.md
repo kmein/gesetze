@@ -22,14 +22,15 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
   
   
 
-|      |                                                                                 |
-|:-----|:--------------------------------------------------------------------------------|
-| § 6  | Grundsätze der Beschaffung von Regelenergie                                     |
-| § 7  | Erbringung von Regelenergie                                                     |
-| § 8  | Abrechnung von Regelenergie                                                     |
-| § 9  | Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie |
-| § 10 | Verlustenergie                                                                  |
-| § 11 | Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz                   |
+|       |                                                                                             |
+|:------|:--------------------------------------------------------------------------------------------|
+| § 6   | Grundsätze der Beschaffung von Regelenergie                                                 |
+| § 7   | Erbringung von Regelenergie                                                                 |
+| § 8   | Abrechnung von Regelenergie                                                                 |
+| § 9   | Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie             |
+| § 10  | Verlustenergie                                                                              |
+| § 11  | Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz                               |
+| § 11a | Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen |
 
   
   
@@ -224,6 +225,14 @@ Die Regelenergiearten Primärregelung, Sekundärregelung und Minutenreserve sowi
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, einen Bilanzkreis zu führen, der ausschließlich Energien, die nach dem Erneuerbare-Energien-Gesetz mit einer Einspeisevergütung vergütet werden, von Einspeisern im Netzgebiet zur Durchleitung an den Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz der Betreiber von Übertragungsnetzen aufweist. Von der Verpflichtung nach Satz 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100 000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
 (+++ § 11: Zur Anwendung vgl. § 30 Abs. 1 +++)
+
+# § 11a – Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen
+
+(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, einen gesonderten Bilanzkreis für den energetischen und bilanziellen Ausgleich von Maßnahmen nach § 13 Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und den bilanziellen Ersatz nach § 14 Absatz 1c des Energiewirtschaftsgesetzes zu führen.
+
+(2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, den energetischen und bilanziellen Ausgleich von Maßnahmen nach § 13 Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und den bilanziellen Ersatz nach § 14 Absatz 1c des Energiewirtschaftsgesetzes ausschließlich über den Bilanzkreis nach Absatz 1 durchzuführen und den Bilanzkreis ausschließlich zu diesem Zweck einzusetzen.
+
+(3) Soweit der Betreiber eines Elektrizitätsversorgungsnetzes den energetischen Ausgleich nach Absatz 2 mit Hilfe von Handelsgeschäften durchführt, sind diese an einer Strombörse eines nominierten Strommarktbetreibers gemäß Artikel 4 Nummer 1 der Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement (ABl. L 197 vom 25.7.2015, S. 24) zu tätigen.
 
 # § 12 – Standardisierte Lastprofile; Zählerstandsgangmessung
 

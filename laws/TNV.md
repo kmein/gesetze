@@ -121,7 +121,7 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 (3) Einwendungen gegen eine abgeleitete Zuteilung, die Aufhebung oder Änderung einer abgeleiteten Zuteilung kann der Empfänger der abgeleiteten Zuteilung nur innerhalb von sechs Wochen ab Zugang einer schriftlichen Mitteilung gegenüber dem originären Zuteilungsnehmer oder im Fall des Absatzes 2 Satz 3 gegenüber dem neuen Anbieter geltend machen. War der Empfänger der abgeleiteten Zuteilung ohne Verschulden gehindert, diese Frist einzuhalten, kann er die Einwendungen innerhalb von zwei Wochen nach Wegfall des Hindernisses nachholen. Der Empfänger der abgeleiteten Zuteilung ist in der Mitteilung auf die Fristen hinzuweisen. Die Empfänger abgeleiteter Zuteilungen müssen Änderungen, die durch Entscheidungen der Bundesnetzagentur gegenüber dem originären Zuteilungsnehmer erfolgen, hinnehmen.
 
-(4) Für eine abgeleitete Zuteilung darf der originäre Zuteilungsnehmer nur die mit der Zuteilung verbundenen anteiligen Kosten nach Maßgabe der Telekommunikations-Nummerngebührenverordnung in der jeweils geltenden Fassung verlangen.
+(4) Für eine abgeleitete Zuteilung darf der originäre Zuteilungsnehmer nur die mit der Zuteilung verbundenen anteiligen Kosten nach Maßgabe des Bundesgebührengesetzes und der Besonderen Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes verlangen.
 
 (5) Nummern, die vor dem 1. Januar 1998 vom Anbieter vergeben wurden, gelten als abgeleitet zugeteilt.
 

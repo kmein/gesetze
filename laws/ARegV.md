@@ -197,7 +197,7 @@ Als Anschaffungsjahr für bereits fertiggestellte Anlagen ist das Kalenderjahr m
 
 16. den Vorschriften der Kapazitätsreserve nach § 13e Absatz 3 des Energiewirtschaftsgesetzes und der Rechtsverordnung nach § 13h des Energiewirtschaftsgesetzes, den Bestimmungen zur Stilllegung von Braunkohlekraftwerken nach § 13g des Energiewirtschaftsgesetzes,
 
-17. Entschädigungen nach § 15 Absatz 1 des Erneuerbare-Energien-Gesetzes, die die Voraussetzungen des § 15 Absatz 2 des Erneuerbare-Energien-Gesetzes erfüllen,
+17. (weggefallen)
 
 18. Kosten aus der Erfüllung des Zahlungsanspruchs nach § 28g des Energiewirtschaftsgesetzes, wobei Erlöse aus der Erfüllung von Zahlungsansprüchen nach § 28h des Energiewirtschaftsgesetzes mit den Kosten aus der Erfüllung von Zahlungsansprüchen nach § 28g des Energiewirtschaftsgesetzes zu verrechnen sind, soweit diese Kosten im Sinne von Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54) enthalten.
 

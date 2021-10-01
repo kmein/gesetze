@@ -25,6 +25,4 @@
 
 Soweit das Bundesamt für Strahlenschutz Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit wahrnimmt, untersteht es den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-# § 4 – Gebühren und Auslagen
-
-Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, zur Deckung der auf Grund von individuell zurechenbaren öffentlichen Leistungen des Bundesamtes für Strahlenschutz entstehenden Aufwendungen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Erhebung von Verwaltungsgebühren und die Erstattung von Auslagen anzuordnen und dabei feste Sätze oder Rahmensätze vorzusehen. Gebührenvorschriften des Atomgesetzes, des Strahlenschutzgesetzes oder einer auf Grund des Atomgesetzes erlassenen Rechtsverordnung bleiben unberührt.
+# § 4 – (weggefallen)

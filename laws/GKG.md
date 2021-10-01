@@ -1232,17 +1232,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (2) Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. Ist aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung zu zahlen, ist der Betrag zu erheben, der ohne diese Vorschrift zu zahlen wäre.
 
-(3) Auslagen für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht, Auslagen für Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) werden nur nach Maßgabe des Absatzes 4 erhoben.
-
- (4) Ist für einen Beschuldigten oder Betroffenen, der der deutschen Sprache nicht mächtig, hör- oder sprachbehindert ist, im Strafverfahren oder im gerichtlichen Verfahren nach dem OWiG ein Dolmetscher oder Übersetzer herangezogen worden, um Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis der Beschuldigte oder Betroffene zu seiner Verteidigung angewiesen oder soweit dies zur Ausübung seiner strafprozessualen Rechte erforderlich war, werden von diesem die dadurch entstandenen Auslagen nur erhoben, wenn das Gericht ihm diese nach § 464c StPO oder die Kosten nach § 467 Abs. 2 Satz 1 StPO, auch i. V. m. § 467a Abs. 1 Satz 2 StPO, auferlegt hat; dies gilt auch jeweils i. V. m. § 46 Abs. 1 OWiG.
+(3) Auslagen für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht, Auslagen für Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) werden nur nach Maßgabe des Absatzes 4 erhoben. 
+(4) Ist für einen Beschuldigten oder Betroffenen, der der deutschen Sprache nicht mächtig, hör- oder sprachbehindert ist, im Strafverfahren oder im gerichtlichen Verfahren nach dem OWiG ein Dolmetscher oder Übersetzer herangezogen worden, um Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis der Beschuldigte oder Betroffene zu seiner Verteidigung angewiesen oder soweit dies zur Ausübung seiner strafprozessualen Rechte erforderlich war, werden von diesem die dadurch entstandenen Auslagen nur erhoben, wenn das Gericht ihm diese nach § 464c StPO oder die Kosten nach § 467 Abs. 2 Satz 1 StPO, auch i. V. m. § 467a Abs. 1 Satz 2 StPO, auferlegt hat; dies gilt auch jeweils i. V. m. § 46 Abs. 1 OWiG.
 
 (5) Im Verfahren vor den Gerichten für Arbeitssachen werden Kosten für vom Gericht herangezogene Dolmetscher und Übersetzer nicht erhoben, wenn ein Ausländer Partei und die Gegenseitigkeit verbürgt ist oder ein Staatenloser Partei ist.
 
 (6) Auslagen für Sachverständige, die durch die Untersuchung eines Beschuldigten nach § 43 Abs. 2 JGG entstanden sind, werden nicht erhoben.
-
- 
-
-Anlage 1 Nr. 9012 Fußnote Kursivdruck: Art. 4 Abs. 47 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 # Anlage 2 – (zu § 34 Absatz 1 Satz 3)
 
