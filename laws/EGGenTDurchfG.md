@@ -85,21 +85,15 @@ der nach Landesrecht zuständigen Behörde.
 
 (2) Die nach Landesrecht zuständige Behörde kann bis zum Erlass einer Entscheidung oder eines Beschlusses der Europäischen Gemeinschaften oder der Europäischen Union oder bis zum Erlass einer Anordnung der zuständigen Bundesbehörde nach § 1 Abs. 2 unter den Voraussetzungen des Artikels 34 der Verordnung (EG) Nr. 1829/2003 in Verbindung mit Artikel 54 der Verordnung (EG) Nr. 178/2002 vorläufige Schutzmaßnahmen im Sinne des Artikels 54 Abs. 1 Satz 1 der Verordnung (EG) Nr. 178/2002 treffen. Sie kann insbesondere das Inverkehrbringen eines genetisch veränderten Lebensmittels oder Futtermittels oder eines zur Verwendung als oder in Lebensmitteln oder Futtermitteln bestimmten genetisch veränderten Organismus vorläufig ganz oder teilweise untersagen.
 
-(3) Im Übrigen gelten für die Überwachung von
+(3) Im Übrigen gelten § 38 Absatz 1 bis 5 und 7 bis 9, die §§ 38b, 39 Absatz 1 bis 4 und 7, § 40 sowie die §§ 42 bis 44 des Lebensmittel- und Futtermittelgesetzbuches entsprechend für die Überwachung von
 
-1. in
+1. in Artikel 3 der Verordnung (EG) Nr. 1829/2003 genannten Lebensmitteln,
 
-a) Artikel 3 der Verordnung (EG) Nr. 1829/2003 genannten Lebensmitteln,
+2. in Artikel 15 der Verordnung (EG) Nr. 1829/2003 genannten Futtermitteln und
 
-b) Artikel 15 der Verordnung (EG) Nr. 1829/2003 genannten Futtermitteln und
+3. Lebensmitteln, die mit einer Angabe im Sinne des § 3a Absatz 1 in den Verkehr gebracht oder beworben werden.
 
-c) Lebensmitteln, die mit einer Angabe im Sinne des § 3a Abs. 1 in den Verkehr gebracht oder beworben werden,
-
-§ 38, § 39 Abs. 1, 2 und 7, § 40 sowie die §§ 42 bis 44 des Lebensmittel- und Futtermittelgesetzbuches,
-
-2. anderen als den in Nummer 1 bezeichneten gentechnisch veränderten Organismen die §§ 25, 26 und 28a des Gentechnikgesetzes
-
-entsprechend.
+Für die Überwachung von anderen als den in den Nummern 1 bis 3 bezeichneten gentechnisch veränderten Organismen gelten die §§ 25, 26 und 28a des Gentechnikgesetzes entsprechend.
 
 # § 5 – Mitwirkung von Zollstellen
 

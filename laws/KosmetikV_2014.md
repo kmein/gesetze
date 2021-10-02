@@ -37,9 +37,7 @@ Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der Lebensmittelei
 
 # § 8 – Straftaten
 
-(1) Nach § 58 Absatz 3 Nummer 1, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder Buchstabe c der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist, nicht dafür sorgt, dass ein auf dem Markt bereitgestelltes kosmetisches Mittel für die menschliche Gesundheit sicher ist.
-
-(2) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er vorsätzlich oder fahrlässig
+(1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
 1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe a nicht dafür sorgt, dass ein kosmetisches Mittel einen in Anhang II aufgeführten Stoff nicht enthält,
 
@@ -59,9 +57,7 @@ Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der Lebensmittelei
 
 9. entgegen Artikel 15 Absatz 1 Satz 1 oder Absatz 2 Unterabsatz 1 einen als CMR-Stoff der Kategorie 1A, 1B oder 2 eingestuften Stoff verwendet.
 
-(3) Nach § 59 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1223/2009 einen Text, eine Bezeichnung, ein Warenzeichen, eine Abbildung oder ein anderes dort genanntes Zeichen verwendet.
-
-(4) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er
+(2) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 1223/2009 verstößt, indem er
 
 1. entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 Buchstabe b nicht dafür sorgt, dass in einem kosmetischen Mittel ein in Anhang III aufgeführter Stoff nicht enthalten ist, der unter Verstoß gegen die in Anhang III Spalte g festgelegten Einschränkungen verwendet wird,
 

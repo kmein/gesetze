@@ -9,7 +9,11 @@ Diese Verordnung trifft Regelungen
 
 2. zur Ermittlung und Veröffentlichung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
 
-3. in Bezug auf Herkunftsnachweise und den Betrieb des Herkunftsnachweisregisters nach § 79 des Erneuerbare-Energien-Gesetzes und in Bezug auf Regionalnachweise und die Einrichtung und den Betrieb des Regionalnachweisregisters nach § 79a des Erneuerbare-Energien-Gesetzes und
+3. in Bezug auf Herkunftsnachweise und den Betrieb des Herkunftsnachweisregisters nach § 79 des Erneuerbare-Energien-Gesetzes und in Bezug auf Regionalnachweise und die Einrichtung und den Betrieb des Regionalnachweisregisters nach § 79a des Erneuerbare-Energien-Gesetzes,
+
+3a. zur Anschlussförderung von Güllekleinanlagen nach § 88b des Erneuerbare-Energien-Gesetzes,
+
+3b. zu Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes und
 
 4. zur Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen aufgrund des Erneuerbare-Energien-Gesetzes auf die Bundesnetzagentur und auf das Umweltbundesamt.
 
@@ -23,7 +27,7 @@ Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erne
 
 (1) Die Übertragungsnetzbetreiber ermitteln die EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes transparent aus
 
-1. der Differenz zwischen den prognostizierten Einnahmen nach Absatz 3 Nummer 1, 3, 3a, 6 und 7 sowie Absatz 5 für das folgende Kalenderjahr und den prognostizierten Ausgaben nach Absatz 4 für das folgende Kalenderjahr und
+1. der Differenz zwischen den prognostizierten Einnahmen nach Absatz 3 Nummer 1, 3, 3a, 3b, 6 und 7 sowie Absatz 5 für das folgende Kalenderjahr und den prognostizierten Ausgaben nach Absatz 4 für das folgende Kalenderjahr und
 
 2. dem Differenzbetrag zwischen den tatsächlichen Einnahmen nach Absatz 3 und den tatsächlichen Ausgaben nach Absatz 4 zum Zeitpunkt der Ermittlung.
 
@@ -41,6 +45,8 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 3a. Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Absenkung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
 
+3b. Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Finanzierung der Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a,
+
 4. positive Differenzbeträge aus Zinsen nach Absatz 5,
 
 5. Erlöse aus Rückforderungsansprüchen entsprechend den Vorgaben nach § 57 Absatz 5 oder auf Grund von nachträglichen Korrekturen nach § 62 des Erneuerbare-Energien-Gesetzes und aus Zahlungsansprüchen der Übertragungsnetzbetreiber nach Absatz 7,
@@ -55,11 +61,11 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 10. Zahlungen nach § 55 des Erneuerbare-Energien-Gesetzes und nach § 60 des Windenergie-auf-See-Gesetzes.
 
-(3a) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsansätze des Haushaltsgesetzes zu berücksichtigen, wenn dieses vor der Ermittlung der EEG-Umlage in demselben Kalenderjahr verabschiedet worden ist. Andernfalls sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsansätze zur Absenkung der EEG-Umlage im Entwurf des Haushaltsgesetzes für das nachfolgende Kalenderjahr zu berücksichtigen, den die Bundesregierung nach § 29 Absatz 1 der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 212 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, beschließt.
+(3a) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsansätze zur Absenkung der EEG-Umlage im Entwurf des Haushaltsgesetzes für das nachfolgende Kalenderjahr zu berücksichtigen, den die Bundesregierung nach § 29 Absatz 1 der Bundeshaushaltsordnung beschließt. Sofern im Haushaltsgesetz des dem Kalenderjahr nach Satz 1 vorangehenden Kalenderjahres eine Verpflichtungsermächtigung für diesen Zweck veranschlagt wurde, richtet sich die Höhe der Zahlung nach dem Betrag, der von der Bundesrepublik Deutschland in einem Bescheid an die Übertragungsnetzbetreiber festgesetzt worden ist, wenn der Bescheid den Übertragungsnetzbetreibern spätestens einen Werktag vor der Veröffentlichung der EEG-Umlage nach § 5 Absatz 1 bekannt gegeben wird; dabei besteht keine Pflicht zum Erlass eines Bescheides.
 
 (4) Ausgaben sind
 
-1. Zahlungen nach den §§ 19 und 50 des Erneuerbare-Energien-Gesetzes und nach den Bestimmungen, die nach den §§ 100 und 101 des Erneuerbare-Energien-Gesetzes übergangsweise fortgelten,
+1. Zahlungen nach den §§ 19 und 50 des Erneuerbare-Energien-Gesetzes und nach den entsprechenden Bestimmungen in früheren Fassungen des Erneuerbare-Energien-Gesetzes, soweit diese Bestimmungen übergangsweise nach den §§ 100 und 101 des Erneuerbare-Energien-Gesetzes oder nach § 12a dieser Verordnung fortgelten,
 
 2. Ausgaben auf Grund einer Verordnung nach den §§ 88 und 88a des Erneuerbare-Energien-Gesetzes, die dort als Ausgaben im Sinne dieses Absatzes benannt werden,
 
@@ -89,7 +95,9 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 (9) Zwischen den Übertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3a im Einvernehmen mit dem Bundesministerium der Finanzen ein öffentlich-rechtlicher Vertrag abgeschlossen. Der Vertrag enthält insbesondere Regelungen zur Verteilung der Mittel zwischen den Übertragungsnetzbetreibern.
 
-(10) Weicht im Fall des Absatzes 3a Satz 2 ein dem Entwurf des Haushaltsgesetzes nachfolgend vom Haushaltsgesetzgeber beschlossenes Haushaltsgesetz wesentlich von den Ansätzen des Entwurfs des Haushaltsgesetzes ab, legt die Bundesregierung rechtzeitig vor der Ermittlung der nächsten EEG-Umlage einen Vorschlag für eine Neugestaltung des Absatzes 3a vor.
+(9a) Zwischen den Übertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Ernährung und Landwirtschaft, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3b im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und mit dem Bundesministerium der Finanzen ein öffentlich-rechtlicher Vertrag abgeschlossen.
+
+(10) Weicht im Fall des Absatzes 3a Satz 1 ein dem Entwurf des Haushaltsgesetzes nachfolgend vom Haushaltsgesetzgeber beschlossenes Haushaltsgesetz wesentlich von den Ansätzen des Entwurfs des Haushaltsgesetzes ab, legt die Bundesregierung rechtzeitig vor der Ermittlung der nächsten EEG-Umlage einen Vorschlag für eine Neugestaltung des Absatzes 3a vor.
 
 (11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Absätzen 3 und 4 für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 Buchstabe b des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom eindeutig von den sonstigen Einnahmen und Ausgaben nach den Absätzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
 
@@ -176,6 +184,10 @@ Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu berücksi
 (3) Die Prognose nach Absatz 1 muss nach dem Stand von Wissenschaft und Technik erstellt werden. Die Datengrundlagen und Annahmen, die in die Prognose eingeflossen sind, müssen angegeben werden.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) § 6 Abs. 1 Satz 2 Nr. 1 Buchst. d: IdF d. Art. 17 Nr. 4 Buchst. a G v. 13.10.2016 I 2258 mWv 1.1.2017
+
+# § 6a – Weitere Transparenzpflicht
+
+Die Übertragungsnetzbetreiber müssen dem Bundesministerium für Ernährung und Landwirtschaft ab dem Jahr 2022 jährlich spätestens bis zum 30. September die Summe der im jeweils vorangegangenen Kalenderjahr gezahlten Anschlussförderung für Güllekleinanlagen nach Abschnitt 3a mitteilen.
 
 # § 7 – Herkunftsnachweisregister
 
@@ -271,6 +283,130 @@ b) der Anlagenbetreiber für die Strommenge eine Zahlung nach dem Erneuerbare-En
 
 Auf die Ausstellung, Übertragung und Entwertung von Regionalnachweisen ist § 11 entsprechend anzuwenden mit der Maßgabe, dass das Umweltbundesamt Regionalnachweise nach ihrer Verwendung, spätestens aber 24 Monate nach Erzeugung der entsprechenden Strommenge, entwertet.
 
+# § 12a – Verlängerter Zahlungsanspruch
+
+Für Strom aus Anlagen, in denen Biogas eingesetzt wird, verlängert sich der ursprüngliche Anspruch auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes einmalig um zehn Jahre (Anschlusszeitraum), wenn
+
+1. der ursprüngliche Anspruch auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2025 beendet ist,
+
+2. die installierte Leistung der Anlage am Standort der Biogaserzeugungsanlage am 31. März 2021 150 Kilowatt nicht überschritten hat und
+
+3. der Anlagenbetreiber
+
+a) die Geltendmachung dieses verlängerten Zahlungsanspruchs dem Netzbetreiber nach Maßgabe des § 12d mitgeteilt hat und
+
+b) mit dieser Anlage bis zur Mitteilung an den Netzbetreiber nach § 12d nicht an Ausschreibungen nach § 39g des Erneuerbare-Energien-Gesetzes teilgenommen hat.
+
+# § 12b – Zahlungsbestimmungen
+
+Der ursprüngliche Anspruch auf Zahlung besteht in dem Anschlusszeitraum nach § 12a nur, wenn
+
+1. der Strom am Standort der Biogaserzeugungsanlage erzeugt wird,
+
+2. die installierte Leistung der Anlage am Standort der Biogaserzeugungsanlage nach dem 31. März 2021 nicht erhöht worden ist,
+
+3. der Strom aus Biogas erzeugt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und zur Erzeugung des Biogases in dem jeweiligen Kalenderjahr durchschnittlich ein Anteil von Gülle mit Ausnahme von Geflügelmist und Geflügeltrockenkot von mindestens 80 Masseprozent eingesetzt wird und
+
+4. die übrigen Voraussetzungen für die Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes erfüllt sind.
+
+Wurde ein Anlagenbetreiber aufgrund einer Sperre im Sinn von § 6 Absatz 1 Nummer 18 des Tiergesundheitsgesetzes im Einsatz von Gülle beeinträchtigt und konnte deshalb den vorgesehenen Güllemindestanteil nicht einhalten, ist der Zeitraum der Sperre zuzüglich 30 Kalendertagen bei der Berechnung des durchschnittlichen Gülleanteils nach Satz 1 Nummer 3 nicht zu berücksichtigen. In diesem Fall entfällt der Vergütungsanspruch für den nicht berücksichtigten Zeitraum.
+
+# § 12c – Höhe des Zahlungsanspruchs
+
+(1) In dem Anschlusszeitraum nach § 12a ist der ursprüngliche Anspruch auf Zahlung der Höhe nach begrenzt
+
+1. auf die durchschnittliche Höhe des anzulegenden Werts für den in der jeweiligen Anlage erzeugten Strom in Cent pro Kilowattstunde nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung, wobei der Durchschnitt der drei letzten Kalenderjahre des ursprünglichen Anspruchszeitraums maßgeblich ist, und
+
+2. auf höchstens
+
+a) 15,5 Cent pro Kilowattstunde bis einschließlich einer Bemessungsleistung von 75 Kilowatt und
+
+b) 7,5 Cent pro Kilowattstunde bis einschließlich einer Bemessungsleistung von 150 Kilowatt.
+
+(2) Die Höhe der Anspruchsbegrenzung nach Absatz 1 Nummer 2 verringert sich ab dem Jahr 2022 jeweils zum 1. Januar eines Kalenderjahres für Anlagen, deren Anschlusszeitraum nach § 12a vor diesem Zeitpunkt noch nicht begonnen hat, um 0,5 Prozent gegenüber der im jeweils vorangegangenen Kalenderjahr geltenden Anspruchsbegrenzung und wird auf zwei Stellen nach dem Komma gerundet. Für die Berechnung der Höhe der Anspruchsbegrenzung aufgrund einer erneuten Anpassung nach Satz 1 sind die ungerundeten Werte zugrunde zu legen.
+
+# § 12d – Mitteilungspflichten
+
+Die Anlagenbetreiber müssen dem Netzbetreiber unter Angabe der Nummer, unter der die Anlage im Marktstammdatenregister registriert ist, bis spätestens drei Monate vor Beendigung des ursprünglichen Anspruchs auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes mitteilen, dass sie den nach § 12a verlängerten Zahlungsanspruch geltend machen werden. Abweichend von Satz 1 müssen Betreiber von Anlagen, deren ursprünglicher Anspruch auf Zahlung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2021 beendet war, die Geltendmachung des verlängerten Zahlungsanspruchs dem Netzbetreiber bis zum 30. September 2021 mitteilen.
+
+# § 12e – Fälligkeit
+
+(1) Der Anspruch nach § 12a wird erst fällig, nachdem der Anlagenbetreiber der Bundesnetzagentur unter Angabe der Nummer, unter der die Anlage im Marktstammdatenregister registriert ist, mitgeteilt hat,
+
+1. dass er den nach § 12a verlängerten Zahlungsanspruch geltend machen wird und
+
+2. für welche installierte Leistung er diesen Zahlungsanspruch geltend machen wird.
+
+Die Bundesnetzagentur kann für die Mitteilung nach Satz 1 Formatvorgaben machen. Die Mitteilung kann von der Bundesnetzagentur auf ein elektronisches Verfahren umgestellt werden.
+
+(2) Die Bundesnetzagentur veröffentlicht die Anlagen, deren Betreiber eine Mitteilung nach Absatz 1 vorgenommen haben, unter Angabe der Nummern, unter denen die Anlagen im Marktstammdatenregister registriert sind, in nicht personenbezogener Form auf ihrer Internetseite.
+
+# § 12f – Verbot der Teilnahme an Ausschreibungen
+
+Anlagen, deren Betreiber die Geltendmachung des verlängerten Zahlungsanspruchs dem Netzbetreiber nach Maßgabe des § 12d mitgeteilt haben, dürfen nicht an Ausschreibungen nach § 39g des Erneuerbare-Energien-Gesetzes teilnehmen.
+
+# § 12g – Evaluierung
+
+Die Bundesregierung evaluiert die Anschlussförderung nach diesem Abschnitt bis zum 31. Dezember 2023 auch mit Blick auf Anlagen, deren ursprünglicher Anspruch auf Zahlung nach dem 31. Dezember 2024 endet.
+
+# § 12h – Anwendungsbereich dieses Abschnitts
+
+(1) Dieser Abschnitt regelt die Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes für Strom, der ab dem 1. Januar 2022 in einer Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wird.
+
+(2) Die Bundesregierung wird die Anforderungen an Grünen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes unverzüglich, nachdem die Europäische Union die Anforderungen an Grünen Wasserstoff für einen oder mehrere Nutzungspfade näher bestimmt hat, überarbeiten und an die Anforderungen der Europäischen Union anpassen. Ziel sind Anforderungen, die für alle Nutzungspfade von Grünem Wasserstoff möglichst einheitlich sind und zugleich den systemdienlichen Betrieb von Einrichtungen zur Herstellung von Grünem Wasserstoff sicherstellen, insbesondere Anforderungen an den Standort dieser Einrichtungen.
+
+# § 12i – Anforderungen an Grünen Wasserstoff
+
+(1) Grüner Wasserstoff im Sinn der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach § 69b des Erneuerbare-Energien-Gesetzes ist nur Wasserstoff, der innerhalb der ersten 5 000 Vollbenutzungsstunden eines Kalenderjahres in der Einrichtung zur Herstellung von Grünem Wasserstoff elektrochemisch durch den ausschließlichen Verbrauch von Strom hergestellt worden ist,
+
+1. der nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes stammt,
+
+2. der nachweislich zu einem Anteil von mindestens 80 Prozent aus Anlagen stammt, die ihren Standort in der Preiszone für Deutschland haben, und der nachweislich zu einem Anteil von höchstens 20 Prozent aus Anlagen stammt, die ihren Standort in einer Preiszone haben, die mit der Preiszone für Deutschland elektrisch verbunden ist, und
+
+3. für den weder eine Zahlung nach dem Erneuerbare-Energien-Gesetz, nach dieser Verordnung oder nach dem Kraft-Wärme-Kopplungsgesetz in der jeweils für die Anlage maßgeblichen Fassung noch eine sonstige Förderung im Sinn des § 9 Nummer 6 Buchstabe b in Anspruch genommen wird.
+
+(2) Strom, der in einer Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wird, stammt nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes, wenn
+
+1. im Fall des Verbrauchs von Strom, den ein Elektrizitätsversorgungsunternehmen über ein Netz an den Betreiber der Einrichtung geliefert hat,
+
+a) für diesen Strom Herkunftsnachweise für erneuerbare Energien nach § 30 der Herkunfts- und Regionalnachweis-Durchführungsverordnung entwertet wurden und
+
+b) diese Herkunftsnachweise, sofern die Anlage ihren Standort im Bundesgebiet hat, die Angabe zur optionalen Kopplung nach § 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung enthalten, oder
+
+2. im Fall des Verbrauchs von Strom, der nicht durch ein Netz durchgeleitet wird, der Strom in einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes erzeugt und zeitgleich bezogen auf jedes 15-Minuten-Intervall in der Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wurde.
+
+Eine mess- und eichrechtskonforme Messung der Zeitgleichheit von Erzeugung und Verbrauch ist zur Erfüllung der Anforderung nach Satz 1 Nummer 2 nur erforderlich, wenn nicht schon anderweitig sichergestellt ist, dass Strom, bezogen auf jedes 15-Minuten-Intervall, höchstens bis zur Höhe der tatsächlichen Erzeugung als Verbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff als erzeugt und verbraucht in Ansatz gebracht wird.
+
+(3) Die Vollbenutzungsstunden eines Kalenderjahres im Sinn von Absatz 1 werden durch den Quotienten aus dem gesamten kalenderjährlichen Stromverbrauch und dem maximalen Stromverbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen ermittelt.
+
+# § 12j – Mitteilungspflichten
+
+Betreiber von Einrichtungen zur Herstellung von Grünem Wasserstoff und Elektrizitätsversorgungsunternehmen, die Strom an Letztverbraucher zur Herstellung von Grünem Wasserstoff liefern, müssen im Rahmen ihrer Mitteilung nach § 74 und § 74a des Erneuerbare-Energien-Gesetzes dem Netzbetreiber, der zur Erhebung der EEG-Umlage berechtigt ist, durch Vorlage eines Prüfungsvermerks eines Wirtschaftsprüfers, einer Wirtschaftsprüfungsgesellschaft, eines genossenschaftlichen Prüfungsverbandes, eines vereidigten Buchprüfers oder einer Buchprüfungsgesellschaft nachweisen:
+
+1. den maximalen Stromverbrauch der Einrichtung zur Herstellung von Grünem Wasserstoff im Auslegungszustand während einer Betriebsstunde unter normalen Einsatzbedingungen der maximalen Leistungsaufnahme der Einrichtung zur Herstellung von Grünem Wasserstoff,
+
+2. die in dem betreffenden Kalenderjahr von der Einrichtung zur Herstellung von Grünem Wasserstoff verbrauchte Strommenge,
+
+3. dass für das betreffende Kalenderjahr die EEG-Umlage für Strom, der von dem Betreiber selbst verbraucht wurde, nicht nach § 64a des Erneuerbare-Energien-Gesetzes begrenzt ist,
+
+4. die Einhaltung der Voraussetzungen des § 12i im Fall des Verbrauchs von Strom in den Fällen des
+
+a) § 12i Absatz 2 Satz 1 Nummer 1 durch Vorlage von Entwertungsnachweisen für den Betreiber der Einrichtung zur Herstellung von Grünem Wasserstoff nach § 30 Absatz 3 Satz 2 und 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung aus dem Herkunftsnachweisregister sowie der Angabe der Nummern, unter denen die Anlagen, für deren erzeugten Strom die Herkunftsnachweise ausgestellt wurden, im Marktstammdatenregister registriert sind,
+
+b) § 12i Absatz 2 Satz 1 Nummer 2 durch die Angabe der Nummern, unter denen die Anlagen im Marktstammdatenregister registriert sind.
+
+Sobald die nach Satz 1 Nummer 4 Buchstabe a vorzulegenden Entwertungsnachweise im Wege einer automatisierten Bescheinigung des Herkunftsnachweisregisters nachgewiesen werden können, tritt diese automatisierte Bescheinigung an die Stelle des Entwertungsnachweises nach Satz 1 Nummer 4 Buchstabe a.
+
+# § 12k – Verringerung der EEG-Umlage bei Verstoß gegen Mitteilungspflichten
+
+Der nach § 69b des Erneuerbare-Energien-Gesetzes verringerte Anspruch auf Zahlung der EEG-Umlage erhöht sich auf 100 Prozent, soweit der Betreiber der Einrichtung zur Herstellung von Grünem Wasserstoff oder das Elektrizitätsversorgungsunternehmen für das jeweilige Kalenderjahr die Mitteilungspflichten nach § 74 oder § 74a des Erneuerbare-Energien-Gesetzes in Verbindung mit § 12j nicht erfüllt hat.
+
+# § 12l – Berichtspflichten
+
+(1) Das Bundesministerium für Wirtschaft und Energie prüft mögliche Auswirkungen von Einrichtungen zur Herstellung von Grünem Wasserstoff auf das Stromnetz, insbesondere auf das Ausmaß von Netzengpasssituationen und den Bedarf an Netzreserve, und legt dem Bundestag hierzu bis zum 31. Dezember 2023 einen Bericht vor.
+
+(2) Das Umweltbundesamt legt der Bundesregierung bis zum 31. Dezember 2021 einen Bericht dazu vor, wie die Vorschriften zur optionalen Kopplung von Herkunftsnachweisen nach § 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchführungsverordnung im Hinblick auf bisherige Erfahrungen mit diesem Instrument sowie die zukünftige Nutzung dieses Instruments für die Zwecke des marktgängigen und flexiblen Nachweises der Anforderungen an Grünen Wasserstoff nach dieser Verordnung einschließlich für Anlagen mit Standort außerhalb des Bundesgebiets angepasst werden können.
+
 # § 13 – Subdelegation an die Bundesnetzagentur
 
 Die Bundesnetzagentur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie zu regeln:
@@ -330,3 +466,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Recht
 1. das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung nach Teil 3 Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet ist, einschließlich der Vorgaben für das spätere Vorhaben nach § 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes, und
 
 2. die zu installierende Leistung auf dieser Fläche.
+
+# § 16 – Beihilferechtlicher Genehmigungsvorbehalt
+
+Die Abschnitte 3a und 3b dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewendet werden.

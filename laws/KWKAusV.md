@@ -47,7 +47,7 @@ b) bei der die Zahlungen für KWK-Strom aus KWK-Anlagen aufgrund einer völkerre
 
 11. „Höchstwert“ der Wert in Cent pro Kilowattstunde KWK-Strom, der höchstens angegeben werden darf,
 
-12. „innovative erneuerbare Wärme“ die erneuerbare Wärme aus Wärmetechniken,
+12. „innovative erneuerbare Wärme oder die Wärme aus dem gereinigten Wasser von Kläranlagen“ die erneuerbare Wärme aus Wärmetechniken,
 
 a) die jeweils eine Jahresarbeitszahl von mindestens 1,25 erreichen,
 
@@ -299,7 +299,7 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 (5) Die Bürgschaftserklärung nach Absatz 4 Nummer 1 ist schriftlich in deutscher Sprache oder in einer Amtssprache des Kooperationsstaats unter Verzicht auf die Einrede der Vorausklage nach § 771 des Bürgerlichen Gesetzbuchs und unter Verzicht auf die Einreden der Aufrechenbarkeit und Anfechtbarkeit nach § 770 des Bürgerlichen Gesetzbuchs einzureichen. Der Bürge muss in der Europäischen Union oder in einem Staat der Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum als Kreditinstitut oder als Kreditversicherer zugelassen sein. Die ausschreibende Stelle kann bei begründeten Bedenken vom Bieter verlangen, die Tauglichkeit des Bürgen nachzuweisen. Für den Nachweis der Tauglichkeit im Einzelfall ist § 239 Absatz 1 des Bürgerlichen Gesetzbuchs heranzuziehen.
 
-(6) Die ausschreibende Stelle verwahrt die Sicherheiten treuhänderisch zugunsten der Bieter und der Übertragungsnetzbetreiber. Hierzu richtet sie ein Verwahrkonto ein. Die ausschreibende Stelle ist berechtigt, die Sicherheiten einzubehalten, bis die Voraussetzungen zur Rückgabe der Sicherheiten oder zur Befriedigung der Übertragungsnetzbetreiber vorliegen. Die Sicherheiten werden nicht verzinst.
+(6) Die ausschreibende Stelle verwahrt die Sicherheiten nach Absatz 4 Nummer 2 treuhänderisch zugunsten der Bieter und der Übertragungsnetzbetreiber. Hierzu richtet sie ein Verwahrkonto ein. Die ausschreibende Stelle ist berechtigt, die Sicherheiten einzubehalten, bis die Voraussetzungen zur Rückgabe der Sicherheiten oder zur Befriedigung der Übertragungsnetzbetreiber vorliegen. Die Sicherheiten werden nicht verzinst.
 
 (7) Die ausschreibende Stelle gibt die Sicherheiten unverzüglich in dem Umfang, in dem sie nicht mehr zur Sicherung möglicher Pönalzahlungen benötigt werden, an den Bieter zurück, wenn
 
@@ -339,7 +339,7 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 3. der Gebotswert des Gebots den für die jeweilige Ausschreibung geltenden Höchstwert überschreitet,
 
-4. die elektrische Leistung der KWK-Anlagen in den Fällen der Ausschreibungen
+4. die elektrische Leistung der KWK-Anlagen, sofern kein Fall des § 8 Absatz 3 Satz 2 vorliegt, in den Fällen der Ausschreibungen
 
 a) für KWK-Anlagen nicht zwischen mehr als 500 Kilowatt bis einschließlich 50 000 Kilowatt liegt,
 
@@ -467,7 +467,7 @@ Mit dem Wirksamwerden der Übertragung tritt der Dritte in sämtliche Rechte und
 
 2. bei innovativen KWK-Systemen nach § 5 Absatz 2, § 8b des Kraft-Wärme-Kopplungsgesetzes für 45 000 Vollbenutzungsstunden der Gebotsmenge.
 
-Pro Kalenderjahr wird der Zuschlag für höchstens 3 500 Vollbenutzungsstunden der Gebotsmenge gezahlt. Wird die Anzahl der nach Satz 2 förderfähigen Vollbenutzungsstunden in einem Kalenderjahr nicht ausgeschöpft, kann die Zuschlagszahlung innerhalb von 30 Jahren nach Aufnahme des Dauerbetriebs, jedoch für höchstens 3 500 Vollbenutzungsstunden pro Kalenderjahr, in Anspruch genommen werden. Ist die im Zulassungsbescheid des Bundesamtes für Wirtschaft und Ausfuhrkontrolle festgestellte elektrische KWK-Leistung der KWK-Anlage kleiner als die Gebotsmenge, wird der Zuschlag für die nach Satz 1 förderfähigen Vollbenutzungsstunden der im Zulassungsbescheid festgestellten elektrischen KWK-Leistung der KWK-Anlage gezahlt.
+Pro Kalenderjahr wird der Zuschlag für höchstens 3 500 Vollbenutzungsstunden der Gebotsmenge gezahlt. Wird die Anzahl der nach Satz 2 förderfähigen Vollbenutzungsstunden in einem Kalenderjahr nicht ausgeschöpft, kann die Zuschlagszahlung innerhalb von 30 Jahren nach Aufnahme oder Wiederaufnahme des Dauerbetriebs, jedoch für höchstens 3 500 Vollbenutzungsstunden pro Kalenderjahr, in Anspruch genommen werden. Ist die im Zulassungsbescheid des Bundesamtes für Wirtschaft und Ausfuhrkontrolle festgestellte elektrische KWK-Leistung der KWK-Anlage kleiner als die Gebotsmenge, wird der Zuschlag für die nach Satz 1 förderfähigen Vollbenutzungsstunden der im Zulassungsbescheid festgestellten elektrischen KWK-Leistung der KWK-Anlage gezahlt.
 
 (3) Der Anspruch auf Zuschlagszahlung entfällt für dasjenige Kalenderjahr,
 
@@ -483,9 +483,9 @@ Wird der in der KWK-Anlage oder dem innovativen KWK-System erzeugte Strom entgeg
 
 (5) Der Zuschlagswert verringert sich für das jeweilige Kalenderjahr für jeweils 300 Vollbenutzungsstunden auf null für jeden Prozentpunkt, um welchen
 
-1. bei Zuschlägen, die in einem Ausschreibungstermin in den Jahren 2017 bis 2020 erteilt wurden, die tatsächliche Einspeisung innovativer erneuerbarer Wärme in ein Wärmenetz durch das innovative KWK-System innerhalb dieses Kalenderjahres einen Anteil an der Referenzwärme von 30 Prozent unterschreitet, wobei in den ersten fünf Jahren ab Aufnahme des Dauerbetriebs des innovativen KWK-Systems die Bereitstellung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten angerechnet wird,
+1. bei Zuschlägen, die in einem Ausschreibungstermin in den Kalenderjahren 2017 bis 2020 erteilt wurden, die tatsächliche Einspeisung innovativer erneuerbarer Wärme in ein Wärmenetz durch das innovative KWK-System innerhalb dieses Kalenderjahres einen Anteil an der Referenzwärme von 30 Prozent unterschreitet, wobei in den ersten fünf Kalenderjahren ab Aufnahme des Dauerbetriebs des innovativen KWK-Systems die Bereitstellung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten angerechnet wird,
 
-2. bei Zuschlägen, die in einem Ausschreibungstermin im Jahr 2021 erteilt wurden, die tatsächliche Einspeisung innovativer erneuerbarer Wärme in ein Wärmenetz durch das innovative KWK-System innerhalb dieses Kalenderjahres einen Anteil an der Referenzwärme von 35 Prozent unterschreitet, wobei in den ersten fünf Jahren ab Aufnahme des Dauerbetriebs des innovativen KWK-Systems die Bereitstellung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten angerechnet wird.
+2. bei Zuschlägen, die in einem Ausschreibungstermin ab dem Jahr 2021 erteilt wurden, die tatsächliche Einspeisung innovativer erneuerbarer Wärme in ein Wärmenetz durch das innovative KWK-System innerhalb dieses Kalenderjahres einen Anteil an der Referenzwärme von 35 Prozent unterschreitet, wobei in den ersten fünf Kalenderjahren ab Aufnahme des Dauerbetriebs des innovativen KWK-Systems die Bereitstellung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems in Höhe von maximal 5 Prozentpunkten angerechnet wird.
 
 In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder Prozesswärme maßgeblich ist.
 
@@ -493,7 +493,7 @@ In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein
 
 (7) Die Zuschlagszahlung darf nicht mit Investitionskostenzuschüssen kumuliert werden. Dies gilt nicht, soweit für einzelne Komponenten der KWK-Anlage oder des innovativen KWK-Systems eine investive Förderung nach den Richtlinien zur Förderung der Nutzung erneuerbarer Energien im Wärmemarkt oder nach der die Bundesförderung für effiziente Wärmenetze in Anspruch genommen wurde. In dem Fall des Satzes 2 verringert sich der Zuschlagswert ab der ersten Vollbenutzungsstunde für die Anzahl von Vollbenutzungsstunden auf null, die bei vollem Zuschlagswert dem Betrag der für einzelne Komponenten der KWK-Anlage oder des innovativen KWK-Systems in Anspruch genommenen investiven Förderung einschließlich einer Verzinsung entsprechend dem durchschnittlichen Effektivzinssatz für Kredite an nicht finanzielle Kapitalgesellschaften nach der MFI-Zinsstatistik der Deutschen Bundesbank für Zinssätze und Volumina für das Neugeschäft der deutschen Banken, unter Berücksichtigung der Auszahlungszeitpunkte der Zuschlagswerte, entspricht.
 
-(8) Auf den Anspruch auf Zuschlagszahlung nach Absatz 2 Nummer 1 sind die §§ 7a und 7b des Kraft-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Der Bonus nach § 7c des Kraft-Wärme-Kopplungsgesetzes werden bei Vorliegen der jeweiligen Voraussetzungen neben dem Anspruch auf Zuschlagszahlung nach Absatz 2 gezahlt.
+(8) Auf den Anspruch auf Zuschlagszahlung nach Absatz 2 Nummer 1 sind die §§ 7a und 7b des Kraft-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Der Bonus nach § 7c des Kraft-Wärme-Kopplungsgesetzes wird bei Vorliegen der jeweiligen Voraussetzungen neben dem Anspruch auf Zuschlagszahlung nach Absatz 2 gezahlt.
 
 (+++ § 19 Abs. 3 mit Ausnahme von Satz 1 Nr. 3: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)  
 (+++ § 19 Abs. 7: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
@@ -524,7 +524,7 @@ Die Mitteilung nach Satz 1 hat mittels eines von der ausschreibenden Stelle auf 
 
 a) der Nachweis, dass die KWK-Anlage des innovativen KWK-Systems innerhalb des vorherigen Kalenderjahres hocheffizient betrieben worden ist,
 
-b) der Nachweis über den Anteil der tatsächlich innerhalb des vorherigen Kalenderjahres in ein Wärmenetz eingespeisten oder anderweitig außerhalb des innovativen KWK-Systems für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder als Prozesswärme bereitgestellten innovativen erneuerbaren Wärme des innovativen KWK-Systems an der Referenzwärme, ab dem Jahr 2021 aufgeschlüsselt nach innovativer erneuerbarer Wärme und erneuerbarer Wärme aus der Verbrennung von Biomethan im Sinn des § 3 Nummer 13 des Erneuerbare-Energien-Gesetzes in der KWK-Anlage des innovativen KWK-Systems,
+b) der Nachweis über den Anteil der tatsächlich innerhalb des vorherigen Kalenderjahres in ein Wärmenetz eingespeisten oder anderweitig außerhalb des innovativen KWK-Systems für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder als Prozesswärme bereitgestellten innovativen erneuerbaren Wärme des innovativen KWK-Systems an der Referenzwärme, aufgeschlüsselt nach innovativer erneuerbarer Wärme und erneuerbarer Wärme aus der Verbrennung von Biomethan im Sinn des § 3 Nummer 13 des Erneuerbare-Energien-Gesetzes in der KWK-Anlage des innovativen KWK-Systems,
 
 c) im Fall der Erzeugung erneuerbarer Wärme aus der Verbrennung von Biomethan in der KWK-Anlage des innovativen KWK-Systems, der Nachweis über den Einsatz von Biomethan im Sinn des § 3 Nummer 13 des Erneuerbare-Energien-Gesetzes, und
 
@@ -586,7 +586,7 @@ Die Höhe der Pönale nach Absatz 1 Nummer 3 berechnet sich aus der Gebotsmenge 
 
 5. das Erlöschen des Zuschlags,
 
-6. die Rücknahme und den Widerruf des Zuschlags und
+6. die Entwertung eines Zuschlags und
 
 7. die Verletzung der jährlichen Mitteilungspflicht nach § 20 Absatz 1.
 
@@ -630,7 +630,7 @@ die Kosten der Modernisierung der wesentlichen die Effizienz bestimmenden Anlage
 bb)  
 die Modernisierung frühestens zehn Jahre nach der erstmaligen Aufnahme des Dauerbetriebs der KWK-Anlage oder nach der Wiederaufnahme des Dauerbetriebs einer bereits modernisierten Anlage erfolgt und
 
-c) die übrigen Voraussetzungen für die Zulassung von neuen oder modernisierten KWK-Anlagen nach § 10 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes mit Ausnahme des § 6 Absatz 1 Nummer 1 des Kraft-Wärme-Kopplungsgesetzes erfüllt,
+c) die übrigen Voraussetzungen für die Zulassung von neuen oder modernisierten KWK-Anlagen nach § 10 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes erfüllt,
 
 2. die Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des innovativen KWK-Systems
 
@@ -658,7 +658,7 @@ für jedes 15-Minuten-Intervall die eingesetzte und die erzeugte Strommenge,
 
 5. das innovative KWK-System technisch dazu in der Lage ist, die Wärmeleistung, die aus dem KWK-Prozess maximal ausgekoppelt werden kann, zu mindestens 30 Prozent mit einem mit der Anlage verbundenen elektrischen Wärmeerzeuger zu erzeugen.
 
-(2) Die §§ 10 und 11 des Kraft-Wärme-Kopplungsgesetzes sind unbeschadet des Absatzes 1 Satz 3 Nummer 1 Buchstabe c entsprechend anzuwenden.
+(2) Die §§ 10 und 11 des Kraft-Wärme-Kopplungsgesetzes sind entsprechend anzuwenden.
 
 (+++ § 24 mit Ausnahme von Abs. 1 Satz 3 Nr. 2 Buchst. b und Nr. 5: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
@@ -762,6 +762,6 @@ e) eine elektrische Leistung von höchstens 50 Megawatt aufweist und
 
 # § 28 – Evaluierung
 
-(1) Das Bundesministerium für Wirtschaft und Energie stellt im Jahr 2021 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes den Stand der Dekarbonisierung der Wärmenetze fest und prüft im Rahmen der Ausschreibungen für innovative KWK-Systeme geeignete Maßnahmen zur stärkeren Einbeziehung der Biomasse zur Optimierung von Systemen mit größeren Anteilen erneuerbarer Wärme, um eine weitergehende Dekarbonisierung zu erzielen.
+(1) Das Bundesministerium für Wirtschaft und Energie stellt im Jahr 2022 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes den Stand der Dekarbonisierung der Wärmenetze fest und prüft im Rahmen der Ausschreibungen für innovative KWK-Systeme geeignete Maßnahmen zur stärkeren Einbeziehung der Biomasse zur Optimierung von Systemen mit größeren Anteilen erneuerbarer Wärme, um eine weitergehende Dekarbonisierung zu erzielen.
 
 (2) Ergibt eine Evaluierung nach § 34 Absatz 2 Satz 1 des Kraft-Wärme-Kopplungsgesetzes, dass die Erreichung der Ziele des § 1 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes nicht gesichert erscheint, soll die ausschreibende Stelle das Ausschreibungsvolumen in dem erforderlichen Umfang, höchstens um 100 Megawatt pro Kalenderjahr, erhöhen.

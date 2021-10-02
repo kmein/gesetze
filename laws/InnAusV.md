@@ -53,7 +53,7 @@ In den Innovationsausschreibungen können nur Gebote für Anlagenkombinationen a
 
 (2) Ein Gebot, das für eine Anlagenkombination abgegeben wird, muss
 
-1. für jede Anlage der Kombination die jeweils einschlägigen Anforderungen der §§ 36, 36c, 36f, 36i, 37 und 37c oder der §§ 39, 39c, 39e, 39f, 39h und 39i Absatz 1 und 2 des Erneuerbare-Energien-Gesetzes erfüllen,
+1. für jede Anlage der Kombination die jeweils einschlägigen Anforderungen der §§ 36, 36c, 36f, 36i, 37 und 37c oder der §§ 39, 39c, 39f, 39h und 39i Absatz 1 und 2 des Erneuerbare-Energien-Gesetzes erfüllen,
 
 2. die Angaben enthalten, aus welchen erneuerbaren Energien oder technischen Einrichtungen zur Speicherung von Strom elektrische Energie erzeugt werden soll und welcher Anteil der Gebotsmenge für welche erneuerbare Energie geboten wird,
 
@@ -135,7 +135,13 @@ d) den Registernummern der bezuschlagten Anlagen,
 
 (1) Zuschläge für Anlagenkombinationen erlöschen 30 Monate nach der öffentlichen Bekanntgabe des Zuschlags, sofern die Anlagenkombinationen die Voraussetzungen des § 2 Nummer 1 zu diesem Zeitpunkt nicht erfüllen oder soweit die Anlagen nicht bis zu diesem Zeitpunkt in Betrieb genommen worden sind.
 
-(2) Anlagenkombinationen müssen technisch so beschaffen sein, dass sie für mindestens 25 Prozent ihrer installierten Leistung positive Sekundärregelleistung erbringen können, ansonsten verringert sich die fixe Marktprämie auf null. Die Voraussetzungen von Satz 1 gelten als erbracht, wenn 25 Prozent der installierten Leistung der Anlagenkombination auf eine Biomasseanlage, eine Geothermieanlage oder einen Speicher entfallen und diese installierte Leistung nicht in einem Missverhältnis zur vorgehaltenen Kapazität steht. Ein Missverhältnis ist bei Speichern nicht gegeben, wenn die Energiespeicherkapazität der Anlagenkombination mindestens eine Einspeicherung über zwei Stunden bei Nennleistung der Energiespeichertechnologie ermöglicht. Sofern kein Fall des Satzes 2 vorliegt, sind die Voraussetzungen jährlich durch einen Umweltgutachter zu bestätigen und entsprechende Nachweise dem Anschlussnetzbetreiber vorzulegen.
+(2) Die fixe Marktprämie verringert sich auf null,
+
+1. sofern die Anlagenkombination einen Speicher enthält, wenn dessen installierte Leistung nicht mindestens 25 Prozent der installierten Gesamtleistung der Anlagenkombination entspricht und die Energiespeicherkapazität nicht mindestens eine Einspeicherung von zwei Stunden der Arbeit der Nennleistung der Energiespeichertechnologie ermöglicht, oder
+
+2. sofern die Anlagenkombination keinen Speicher enthält, wenn sie technisch nicht so beschaffen ist, dass sie für mindestens 25 Prozent ihrer installierten Leistung positive Sekundärregelleistung erbringen kann.
+
+Die Voraussetzungen nach Satz 1 sind jährlich durch die Bestätigung eines Umweltgutachters gegenüber dem Anschlussnetzbetreiber nachzuweisen.
 
 (3) Bei Geboten für Anlagenkombinationen müssen Bieter an den verantwortlichen Übertragungsnetzbetreiber eine Pönale leisten, sofern mehr als 5 Prozent der Gebotsmenge eines bezuschlagten Gebots einer Anlagenkombination nach § 35a des Erneuerbare-Energien-Gesetzes entwertet werden. Die Höhe der Pönale berechnet sich aus der entwerteten Gebotsmenge multipliziert mit 60 Euro pro Kilowatt. § 55 Absatz 6 bis 8 des Erneuerbare-Energien-Gesetzes gilt entsprechend.
 
@@ -181,7 +187,11 @@ Die Bundesnetzagentur legt zum 1. Oktober 2021 die Voraussetzungen, die an die b
 
 1. Solaranlagen auf Gewässern,
 
-2. Solaranlagen auf Ackerflächen bei gleichzeitigem Nutzpflanzenanbau auf der Fläche und
+2. Solaranlagen
+
+a) auf Ackerflächen bei gleichzeitigem Nutzpflanzenanbau auf derselben Fläche und
+
+b) auf landwirtschaftlich genutzten Flächen, auf denen Dauerkulturen oder mehrjährige Kulturen angebaut werden, und
 
 3. Solaranlagen auf Parkplatzflächen.
 
@@ -193,7 +203,7 @@ Die Bundesnetzagentur legt zum 1. Oktober 2021 die Voraussetzungen, die an die b
 
 # § 17 – Zuschlagsverfahren für besondere Solaranlagen
 
-(1) Die Bundesnetzagentur vergibt zum Gebotstermin 1. April 2022 ein Gebotsvolumen von 50 Megawatt vorrangig an Gebote für Anlagenkombinationen, die besondere Solaranlagen enthalten.
+(1) Die Bundesnetzagentur vergibt zum Gebotstermin 1. April 2022 ein Gebotsvolumen von 150 Megawatt vorrangig an Gebote für Anlagenkombinationen, die besondere Solaranlagen enthalten.
 
 (2) Zum Gebotstermin 1. April 2022 erfolgt das Zuschlagsverfahren abweichend von § 11 wie folgt:
 
@@ -203,9 +213,9 @@ Die Bundesnetzagentur legt zum 1. Oktober 2021 die Voraussetzungen, die an die b
 
 3. Die Bundesnetzagentur ermittelt die eingereichte Gebotsmenge und erteilt die Zuschläge wie folgt:
 
-a) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote mit besonderen Solaranlagen unter der 50 Megawatt liegt, erteilt die Bundesnetzagentur allen nach Nummer 2 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 40 Megawatt durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist.
+a) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote mit besonderen Solaranlagen unter der 150 Megawatt liegt, erteilt die Bundesnetzagentur allen nach Nummer 2 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 120 Megawatt durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist.
 
-b) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote mit besonderen Solaranlagen mindestens 50 Megawatt beträgt, erteilt die Bundesnetzagentur allen nach Nummer 2 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 50 Megawatt durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist.
+b) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote mit besonderen Solaranlagen mindestens 150 Megawatt beträgt, erteilt die Bundesnetzagentur allen nach Nummer 2 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 150 Megawatt durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist.
 
 4. Sämtliche zugelassenen Gebote, die nicht bereits nach Nummer 3 einen Zuschlag erhalten haben, werden nach § 32 des Erneuerbare-Energien-Gesetzes sortiert, wobei die gebotene fixe Marktprämie den Gebotswert ersetzt.
 
@@ -219,7 +229,7 @@ Anlagenkombinationen, die aufgrund eines Zuschlags nach § 17 die fixe Marktpr�
 
 # § 19 – Übergangsvorschrift
 
-Für Strom aus Anlagen, deren Zuschläge im Jahr 2020 erteilt wurden, sind mit Ausnahme von § 6 Absatz 2, § 13 Absatz 3 und § 13a die Vorschriften dieses Gesetzes in der am 1. September 2020 geltenden Fassung anzuwenden.
+Für Strom aus Anlagen, deren Zuschläge im Jahr 2020 erteilt wurden, sind mit Ausnahme von § 6 Absatz 2, § 13 Absatz 3 und § 13a die Vorschriften dieser Verordnung in der am 1. September 2020 geltenden Fassung anzuwenden. Für Strom aus Anlagen, deren Zuschläge zum Gebotstermin 1. April 2021 erteilt wurden, sind die Vorschriften dieser Verordnung in der am 1. April 2021 geltenden Fassung anzuwenden.
 
 # § 20 – Außerkrafttreten
 
