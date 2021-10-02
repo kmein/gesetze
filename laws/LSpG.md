@@ -53,7 +53,7 @@ in den Verkehr zu bringen, wenn das Erzeugnis nicht der betreffenden Produktspez
 
 (1) Die nach den in § 1 Abs. 1 genannten Rechtsakten erforderliche Überwachung und Kontrolle (Überwachung) obliegt den nach Landesrecht zuständigen Stellen.
 
-(2) Soweit es zur Überwachung der Einhaltung der in § 1 Abs. 1 genannten Rechtsakte erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Agrarerzeugnisse oder Lebensmittel herstellen oder in den Verkehr bringen (§ 3 Nummer 1 oder 2 des Lebensmittel- und Futtermittelgesetzbuches) oder innergemeinschaftlich verbringen, einführen oder ausführen, während der Geschäfts- oder Betriebszeit
+(2) Soweit es zur Überwachung der Einhaltung der in § 1 Abs. 1 genannten Rechtsakte erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Agrarerzeugnisse oder Lebensmittel herstellen oder in den Verkehr bringen oder innergemeinschaftlich verbringen, einführen oder ausführen, während der Geschäfts- oder Betriebszeit
 
 1. Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel betreten und dort Besichtigungen vornehmen,
 

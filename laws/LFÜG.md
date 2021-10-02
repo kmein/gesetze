@@ -43,6 +43,16 @@ in der bis zum 6. September 2005 geltenden Fassung hinsichtlich der Verfolgung v
 
 (+++ § 1 Abs. 1 Satz 2: Zur Anwendung vgl. § 37b FuttMV 1981 +++)
 
+# § 1a – Weitere Anwendung von Vorschriften über den Lebensmittelzusatzstoffen gleichgestellte Stoffe
+
+(1) § 2 Absatz 3 Satz 2 Nummer 2 und 4 jeweils in Verbindung mit § 4 Absatz 1 Nummer 2 und § 6 Absatz 1 sowie § 59 Absatz 1 Nummer 1 bis 3 und § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches sind in der bis zum 9. August 2021 geltenden Fassung weiterhin anzuwenden, solange und soweit noch nicht
+
+1. eine unmittelbar geltende Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union gilt, die inhaltlich einer Regelung entspricht, zu der § 7 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches in der ab dem 10. August 2021 geltenden Fassung ermächtigt, oder
+
+2. aufgrund der Ermächtigung des § 7 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches in der ab dem 10. August 2021 geltenden Fassung neue Regelungen getroffen worden sind.
+
+(2) Auf Sachverhalte, die vor dem 10. August 2021 entstanden sind, sind die in Absatz 1 genannten Vorschriften hinsichtlich der Verfolgung von Straftaten und Ordnungswidrigkeiten weiter anzuwenden.
+
 # § 2 – Geltung von Vorschriften
 
 (1) § 6 Abs. 1 Nr. 2, § 8 Abs. 1 Nr. 2, § 9 Abs. 1, § 10 Abs. 1 Nr. 3, § 28 Abs. 2, § 33 Abs. 2 und § 34 Abs. 2 des Lebensmittel- und Futtermittelgesetzbuches gelten auch für Regelungen in Rechtsverordnungen, die auf Grund des § 9 Abs. 1 Nr. 1, § 12 Abs. 1 oder 2 Nr. 1, 2, soweit dort auf § 11 Abs. 2 Nr. 1 und auf Ionenaustauscher verwiesen wird, Nr. 3 oder 4, des § 13 Abs. 2, des § 14 Abs. 2 Nr. 1 Buchstabe a, des § 15 Abs. 3 Nr. 1 Buchstabe a, des § 26 Abs. 1 Nr. 2 oder 3, dieser in Verbindung mit § 32 Abs. 1 Nr. 1 bis 3 und 5, des § 31 Abs. 2, des § 32 Abs. 1 Nr. 1 bis 3, 5 und 6 des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), das zuletzt durch Artikel 5 des Gesetzes vom 13. Mai 2004 (BGBl. I S. 934) geändert worden ist, in der bis zum 6. September 2005 geltenden Fassung erlassen worden sind.

@@ -1033,9 +1033,9 @@ b) eine medizinische Diagnose zu erstellen.
 
 (3) Arzneimittel sind nicht
 
-1. Lebensmittel im Sinne des § 2 Abs. 2 des Lebensmittel- und Futtermittelgesetzbuches,
+1. Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist,
 
-2. kosmetische Mittel im Sinne des § 2 Abs. 5 des Lebensmittel- und Futtermittelgesetzbuches,
+2. kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a auch in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist,
 
 3. Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
@@ -1043,9 +1043,55 @@ b) eine medizinische Diagnose zu erstellen.
 
 5. Biozid-Produkte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1),
 
-6. Futtermittel im Sinne des § 3 Nummer 12 bis 16 des Lebensmittel- und Futtermittelgesetzbuches,
+6. Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002,
 
 7. Medizinprodukte und Zubehör für Medizinprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung und im Sinne des § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung, es sei denn, es handelt sich um Arzneimittel im Sinne des Absatzes 1 Nummer 2 Buchstabe b,
+
+8. Organe im Sinne des § 1a Nr. 1 des Transplantationsgesetzes, wenn sie zur Übertragung auf menschliche Empfänger bestimmt sind.
+
+(3a) Arzneimittel sind auch Erzeugnisse, die Stoffe oder Zubereitungen aus Stoffen sind oder enthalten, die unter Berücksichtigung aller Eigenschaften des Erzeugnisses unter eine Begriffsbestimmung des Absatzes 1 fallen und zugleich unter die Begriffsbestimmung eines Erzeugnisses nach Absatz 3 fallen können.
+
+(4) Solange ein Mittel nach diesem Gesetz als Arzneimittel zugelassen oder registriert oder durch Rechtsverordnung von der Zulassung oder Registrierung freigestellt ist, gilt es als Arzneimittel. Hat die zuständige Bundesoberbehörde die Zulassung oder Registrierung eines Mittels mit der Begründung abgelehnt, dass es sich um kein Arzneimittel handelt, so gilt es nicht als Arzneimittel.
+
+# § 2 – Arzneimittelbegriff
+
+(1) Arzneimittel sind Stoffe oder Zubereitungen aus Stoffen,
+
+1. die zur Anwendung im oder am menschlichen oder tierischen Körper bestimmt sind und als Mittel mit Eigenschaften zur Heilung oder Linderung oder zur Verhütung menschlicher oder tierischer Krankheiten oder krankhafter Beschwerden bestimmt sind oder
+
+2. die im oder am menschlichen oder tierischen Körper angewendet oder einem Menschen oder einem Tier verabreicht werden können, um entweder
+
+a) die physiologischen Funktionen durch eine pharmakologische, immunologische oder metabolische Wirkung wiederherzustellen, zu korrigieren oder zu beeinflussen oder
+
+b) eine medizinische Diagnose zu erstellen.
+
+(2) Als Arzneimittel gelten
+
+1. Gegenstände, die ein Arzneimittel nach Absatz 1 enthalten oder auf die ein Arzneimittel nach Absatz 1 aufgebracht ist und die dazu bestimmt sind, dauernd oder vorübergehend mit dem menschlichen oder tierischen Körper in Berührung gebracht zu werden,
+
+1a. tierärztliche Instrumente, soweit sie zur einmaligen Anwendung bestimmt sind und aus der Kennzeichnung hervorgeht, dass sie einem Verfahren zur Verminderung der Keimzahl unterzogen worden sind,
+
+2. Gegenstände, die, ohne Gegenstände nach Nummer 1 oder 1a zu sein, dazu bestimmt sind, zu den in Absatz 1 bezeichneten Zwecken in den tierischen Körper dauernd oder vorübergehend eingebracht zu werden, ausgenommen tierärztliche Instrumente,
+
+3. Verbandstoffe und chirurgische Nahtmaterialien, soweit sie zur Anwendung am oder im tierischen Körper bestimmt und nicht Gegenstände der Nummer 1, 1a oder 2 sind,
+
+4. Stoffe und Zubereitungen aus Stoffen, die, auch im Zusammenwirken mit anderen Stoffen oder Zubereitungen aus Stoffen, dazu bestimmt sind, ohne am oder im tierischen Körper angewendet zu werden, die Beschaffenheit, den Zustand oder die Funktion des tierischen Körpers erkennen zu lassen oder der Erkennung von Krankheitserregern bei Tieren zu dienen.
+
+(3) Arzneimittel sind nicht
+
+1. Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EU) 2019/1381 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist,
+
+2. kosmetische Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a auch in Verbindung mit Absatz 2 der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59; L 318 vom 15.11.2012, S. 74; L 72 vom 15.3.2013, S. 16; L 142 vom 29.5.2013, S. 10; L 254 vom 28.8.2014, S. 39; L 17 vom 21.1.2017, S. 52; L 326 vom 9.12.2017, S. 55; L 183 vom 19.7.2018, S. 27; L 324 vom 13.12.2019, S. 80; L 76 vom 12.3.2020, S. 36), die zuletzt durch die Verordnung (EU) 2019/1966 (ABl. L 307 vom 28.11.2019, S. 15) geändert worden ist,
+
+3. Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
+
+4. Stoffe oder Zubereitungen aus Stoffen, die ausschließlich dazu bestimmt sind, äußerlich am Tier zur Reinigung oder Pflege oder zur Beeinflussung des Aussehens oder des Körpergeruchs angewendet zu werden, soweit ihnen keine Stoffe oder Zubereitungen aus Stoffen zugesetzt sind, die vom Verkehr außerhalb der Apotheke ausgeschlossen sind,
+
+5. Biozid-Produkte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1),
+
+6. Futtermittel im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 178/2002,
+
+7. Medizinprodukte und Zubehör für Medizinprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung und im Sinne von Artikel 2 Nummer 2 und 4 der Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils geltenden Fassung, es sei denn, es handelt sich um Arzneimittel im Sinne des Absatzes 1 Nummer 2 Buchstabe b,
 
 8. Organe im Sinne des § 1a Nr. 1 des Transplantationsgesetzes, wenn sie zur Übertragung auf menschliche Empfänger bestimmt sind.
 
