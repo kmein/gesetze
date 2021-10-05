@@ -1821,7 +1821,7 @@ a) zur Erzeugung von Basissaatgut 400 m,
 
 b) zur Erzeugung von Zertifiziertem Saatgut 200 m.
 
-In Gebieten, in denen durch das Vorhandensein von Sorghum halepense oder Sorghum sudanense ein besonderes Risiko der unerwünschten Fremdbefruchtung besteht, müssen Feldbestände zur Erzeugung von Basissaatgut von Sorghum bicolor oder dessen Hybriden mindestens 800 m, Feldbestände zur Erzeugung Zertifizierten Saatgutes von Sorghum bicolor oder dessen Hybriden mindestens 400 m von einer möglichen Pollenquelle entfernt sein.   
+In Gebieten, in denen durch das Vorhandensein von Sorghum halepense oder Sudangras ein besonderes Risiko der unerwünschten Fremdbefruchtung besteht, müssen Feldbestände zur Erzeugung von Basissaatgut von Sorghum oder dessen Hybriden mindestens 800 m, Feldbestände zur Erzeugung Zertifizierten Saatgutes von Sorghum oder dessen Hybriden mindestens 400 m von einer möglichen Pollenquelle entfernt sein.   
 
 3  
 Gräser, Leguminosen und sonstige Futterpflanzen
@@ -3386,7 +3386,7 @@ Sorghum
 
 1.3.1
 
-Sorghum bicolor
+Sorghum
 
 30
 
@@ -3394,7 +3394,7 @@ Sorghum bicolor
 
 1.3.2
 
-Sorghum sudanense
+Sudangras
 
 10
 
@@ -3402,7 +3402,7 @@ Sorghum sudanense
 
 1.3.3
 
-Sorghum bicolor x Sorghum sudanense
+Hybriden aus der Kreuzung von Sorghum x Sudangras
 
 30
 

@@ -7111,11 +7111,11 @@ zu täuschen sucht.
 
 1. eine Tat nach Absatz 1 Nr. 1 oder Absatz 2 Nr. 1 begeht oder
 
-2. wider besseres Wissen einer der in Absatz 1 bezeichneten Stellen vortäuscht, dass die Verwirklichung einer der in § 46b Abs. 1 Satz 1 Nr. 2 dieses Gesetzes oder in § 31 Satz 1 Nr. 2 des Betäubungsmittelgesetzes genannten rechtswidrigen Taten bevorstehe, oder
+2. wider besseres Wissen einer der in Absatz 1 bezeichneten Stellen vortäuscht, dass die Verwirklichung einer der in § 46b Abs. 1 Satz 1 Nr. 2 dieses Gesetzes, in § 31 Satz 1 Nummer 2 des Betäubungsmittelgesetzes oder in § 4a Satz 1 Nummer 2 des Anti-Doping-Gesetzes genannten rechtswidrigen Taten bevorstehe, oder
 
 3. wider besseres Wissen eine dieser Stellen über den Beteiligten an einer bevorstehenden Tat nach Nummer 2 zu täuschen sucht,
 
-um eine Strafmilderung oder ein Absehen von Strafe nach § 46b dieses Gesetzes oder § 31 des Betäubungsmittelgesetzes zu erlangen.
+um eine Strafmilderung oder ein Absehen von Strafe nach § 46b dieses Gesetzes, § 31 des Betäubungsmittelgesetzes oder § 4a des Anti-Doping-Gesetzes zu erlangen.
 
 (4) In minder schweren Fällen des Absatzes 3 ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
@@ -7311,7 +7311,7 @@ Für den Versuch der Anstiftung zu einer falschen uneidlichen Aussage (§ 153) u
 
 (2) Ebenso wird bestraft, wer in gleicher Absicht bei einer der in Absatz 1 bezeichneten Stellen oder öffentlich über einen anderen wider besseres Wissen eine sonstige Behauptung tatsächlicher Art aufstellt, die geeignet ist, ein behördliches Verfahren oder andere behördliche Maßnahmen gegen ihn herbeizuführen oder fortdauern zu lassen.
 
-(3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer die falsche Verdächtigung begeht, um eine Strafmilderung oder ein Absehen von Strafe nach § 46b dieses Gesetzes oder § 31 des Betäubungsmittelgesetzes zu erlangen. In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+(3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer die falsche Verdächtigung begeht, um eine Strafmilderung oder ein Absehen von Strafe nach § 46b dieses Gesetzes, § 31 des Betäubungsmittelgesetzes oder § 4a des Anti-Doping-Gesetzes zu erlangen. In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 # § 165 – Bekanntgabe der Verurteilung
 
@@ -8433,7 +8433,7 @@ In den Fällen des Absatzes 2 ist auf Freiheitsstrafe von einem Jahr bis zu zehn
 
 2. einer Tat nach den Absätzen 1 bis 5
 
-geworden ist und der Prostitution nachgeht, gegen Entgelt sexuelle Handlungen vornimmt oder von ihr an sich vornehmen lässt und dabei deren persönliche oder wirtschaftliche Zwangslage oder deren Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, ausnutzt. Nach Satz 1 wird nicht bestraft, wer eine Tat nach Satz 1 Nummer 1 oder 2, die zum Nachteil der Person, die nach Satz 1 der Prostitution nachgeht, begangen wurde, freiwillig bei der zuständigen Behörde anzeigt oder freiwillig eine solche Anzeige veranlasst, wenn nicht diese Tat zu diesem Zeitpunkt ganz oder zum Teil bereits entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste.
+geworden ist und der Prostitution nachgeht, gegen Entgelt sexuelle Handlungen vornimmt oder von ihr an sich vornehmen lässt und dabei deren persönliche oder wirtschaftliche Zwangslage oder deren Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, ausnutzt. Verkennt der Täter bei der sexuellen Handlung zumindest leichtfertig die Umstände des Satzes 1 Nummer 1 oder 2 oder die persönliche oder wirtschaftliche Zwangslage des Opfers oder dessen Hilfslosigkeit, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Nach den Sätzen 1 und 2 wird nicht bestraft, wer eine Tat nach Satz 1 Nummer 1 oder 2, die zum Nachteil der Person, die nach Satz 1 der Prostitution nachgeht, begangen wurde, freiwillig bei der zuständigen Behörde anzeigt oder freiwillig eine solche Anzeige veranlasst, wenn nicht diese Tat zu diesem Zeitpunkt ganz oder zum Teil bereits entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste.
 
 # § 232b – Zwangsarbeit
 
@@ -8591,7 +8591,7 @@ und dabei gegen Entgelt oder in der Absicht handelt, sich oder einen Dritten zu 
 
 # § 238 – Nachstellung
 
-(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer anderen Person in einer Weise unbefugt nachstellt, die geeignet ist, deren Lebensgestaltung schwerwiegend zu beeinträchtigen, indem er beharrlich
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer anderen Person in einer Weise unbefugt nachstellt, die geeignet ist, deren Lebensgestaltung nicht unerheblich zu beeinträchtigen, indem er wiederholt
 
 1. die räumliche Nähe dieser Person aufsucht,
 
@@ -8601,17 +8601,35 @@ und dabei gegen Entgelt oder in der Absicht handelt, sich oder einen Dritten zu 
 
 a) Bestellungen von Waren oder Dienstleistungen für sie aufgibt oder
 
-b) Dritte veranlasst, Kontakt mit ihr aufzunehmen, oder
+b) Dritte veranlasst, Kontakt mit ihr aufzunehmen,
 
-4. diese Person mit der Verletzung von Leben, körperlicher Unversehrtheit, Gesundheit oder Freiheit ihrer selbst, eines ihrer Angehörigen oder einer anderen ihr nahestehenden Person bedroht oder
+4. diese Person mit der Verletzung von Leben, körperlicher Unversehrtheit, Gesundheit oder Freiheit ihrer selbst, eines ihrer Angehörigen oder einer anderen ihr nahestehenden Person bedroht,
 
-5. eine andere vergleichbare Handlung vornimmt.
+5. zulasten dieser Person, eines ihrer Angehörigen oder einer anderen ihr nahestehenden Person eine Tat nach § 202a, § 202b oder § 202c begeht,
 
-(2) Auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren ist zu erkennen, wenn der Täter das Opfer, einen Angehörigen des Opfers oder eine andere dem Opfer nahe stehende Person durch die Tat in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt.
+6. eine Abbildung dieser Person, eines ihrer Angehörigen oder einer anderen ihr nahestehenden Person verbreitet oder der Öffentlichkeit zugänglich macht,
 
-(3) Verursacht der Täter durch die Tat den Tod des Opfers, eines Angehörigen des Opfers oder einer anderen dem Opfer nahe stehenden Person, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
+7. einen Inhalt (§ 11 Absatz 3), der geeignet ist, diese Person verächtlich zu machen oder in der öffentlichen Meinung herabzuwürdigen, unter Vortäuschung der Urheberschaft der Person verbreitet oder der Öffentlichkeit zugänglich macht oder
 
-(4) In den Fällen des Absatzes 1 wird die Tat nur auf Antrag verfolgt, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
+8. eine mit den Nummern 1 bis 7 vergleichbare Handlung vornimmt.
+
+(2) In besonders schweren Fällen des Absatzes 1 Nummer 1 bis 7 wird die Nachstellung mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter
+
+1. durch die Tat eine Gesundheitsschädigung des Opfers, eines Angehörigen des Opfers oder einer anderen dem Opfer nahestehenden Person verursacht,
+
+2. das Opfer, einen Angehörigen des Opfers oder eine andere dem Opfer nahestehende Person durch die Tat in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt,
+
+3. dem Opfer durch eine Vielzahl von Tathandlungen über einen Zeitraum von mindestens sechs Monaten nachstellt,
+
+4. bei einer Tathandlung nach Absatz 1 Nummer 5 ein Computerprogramm einsetzt, dessen Zweck das digitale Ausspähen anderer Personen ist,
+
+5. eine durch eine Tathandlung nach Absatz 1 Nummer 5 erlangte Abbildung bei einer Tathandlung nach Absatz 1 Nummer 6 verwendet,
+
+6. einen durch eine Tathandlung nach Absatz 1 Nummer 5 erlangten Inhalt (§ 11 Absatz 3) bei einer Tathandlung nach Absatz 1 Nummer 7 verwendet oder
+
+7. über einundzwanzig Jahre ist und das Opfer unter sechzehn Jahre ist.
+
+(3) Verursacht der Täter durch die Tat den Tod des Opfers, eines Angehörigen des Opfers oder einer anderen dem Opfer nahestehenden Person, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
 # § 239 – Freiheitsberaubung
 

@@ -3,7 +3,7 @@
  
 # § 1 – Anwendungsbereich
 
-Die Verordnung gilt für das Inverkehrbringen von Saatgut von Erhaltungsmischungen, welche neben Arten, die nicht im Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführt sind, auch Saatgut der in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Arten enthalten. Die Verordnung gilt nicht für Mulch, Grünschnitt, Mahdgut, sowie daraus gewonnenes frisches Druschgut und diasporenhaltigen Boden.
+Diese Verordnung gilt für das Inverkehrbringen von Saatgut von Erhaltungsmischungen, welche neben Saatgut von Wildformen von Arten, die in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführt sind, auch Saatgut von Wildformen von Arten, die nicht in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführt sind, enthalten können. Die Verordnung gilt nicht für Mulch, Grünschnitt, Mahdgut und diasporenhaltigen Boden.
 
 # § 2 – Begriffsbestimmungen
 
@@ -78,11 +78,13 @@ das einem Ursprungsgebiet oder mehreren Ursprungsgebieten zugeordnete Gebiet, in
 
 7. den Entnahmeort, die Art des Lebensraumes am Entnahmeort und das Jahr der Entnahme,
 
-8. für eine angebaute Mischung zusätzlich den Produktionsraum und den Standort der Vermehrungsflächen der einzelnen Arten.
+8. für eine angebaute Mischung oder eine Komponente zur Herstellung einer Erhaltungsmischung zusätzlich den Produktionsraum und den Standort der Vermehrungsflächen der einzelnen Arten.
 
 Im Falle des Satzes 1 Nummer 3 genügt es, bei direkt geernteten Mischungen die Arten oder Unterarten anzugeben, die als Bestandteil der Mischung für den Lebensraum am Entnahmeort typisch sind.
 
 (3) Der Hersteller der Erhaltungsmischung vergibt für jede Mischung eine Erhaltungsmischungsnummer, anhand der die Erhaltungsmischung eindeutig identifiziert werden kann.
+
+(4) Der Inverkehrbringer von Erhaltungsmischungen oder einer Komponente zur Herstellung einer Erhaltungsmischung hat der zuständigen Behörde die Lage und die Größe der Vermehrungsflächen angebauter Mischungen und der Entnahmeorte direkt geernteter Mischungen bis zum Ablauf des 31. Mai eines jeden Jahres zu melden.
 
 # § 4 – Anforderungen an Saatgut von Erhaltungsmischungen
 
@@ -90,9 +92,9 @@ Im Falle des Satzes 1 Nummer 3 genügt es, bei direkt geernteten Mischungen die 
 
 1. eine Genehmigung nach § 3 Absatz 1 erteilt worden ist,
 
-2. am Entnahmeort der Erhaltungsmischung mindestens 40 Jahre lang vor Beantragung der Inverkehrbringensgenehmigung nach § 3 Absatz 1 kein Saatgut ausgesät worden ist, es sei denn, es handelt sich um Saatgut einer Erhaltungsmischung, das nach den Maßgaben dieser Verordnung erzeugt worden ist,
+2. am Entnahmeort der Erhaltungsmischung mindestens 40 Jahre lang vor Beantragung der Inverkehrbringensgenehmigung nach § 3 Absatz 1 kein Saatgut ausgesät worden ist, es sei denn, es handelt sich um Saatgut einer Erhaltungsmischung, das nach den Maßgaben dieser Verordnung erzeugt worden ist, und es ist sichergestellt, dass am Entnahmeort der Erhaltungsmischung ausschließlich gebietseigenes Saatgut aufwächst; soll der Aufwuchs des Saatgutes einer Erhaltungsmischung als Erhaltungsmischung geerntet werden, erfordert dies die Zustimmung der nach Landesrecht für Naturschutz und Landschaftspflege zuständigen Behörde,
 
-3. die Erhaltungsmischung kein Saatgut von Ambrosia artemisiifolia, Avena fatua, Avena sterilis, Bunias orientalis, Heracleum mantegazzianum, Senecio jacobaea, Senecio aquaticus, Senecio alpinus, Senecio inaequidens, Senecio vernalis und von Cuscuta spp., außer von in Deutschland natürlich vorkommenden Cuscuta-Arten und nicht mehr als 0,05 Gewichtsprozent an Saatgut von Rumex spp., außer Rumex acetosa und Rumex acetosella, enthält,
+3. die Erhaltungsmischung kein Saatgut von Ambrosia artemisiifolia, Avena fatua, Avena sterilis, Bunias orientalis, Heracleum mantegazzianum, Senecio jacobaea, Senecio aquaticus, Senecio alpinus, Senecio inaequidens, Senecio vernalis und von Cuscuta spp., außer von in Deutschland natürlich vorkommenden Cuscuta-Arten und nicht mehr als 0,01 Gewichtsprozent an Saatgut von Rumex spp., außer Rumex acetosa, Rumex acetosella, Rumex thyrsiflorus und Rumex sanguineus, enthält,
 
 4. eine direkt geerntete Mischung
 
@@ -114,13 +116,21 @@ c) die Vermehrung der jeweiligen Bestandteile der Mischung nicht über mehr als 
 
 Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässig, wenn sich eine Vermehrungsfläche unmittelbar an der Grenze zweier benachbarter Produktionsräume befindet und in den benachbarten Produktionsraum hinein erstreckt.
 
-(2) Saatgut von Erhaltungsmischungen oder von deren Komponenten darf darüber hinaus bis zum 1. März 2024 auch in den unmittelbar an das Ursprungsgebiet der jeweiligen Erhaltungsmischung angrenzenden Ursprungsgebieten, vorzugsweise desselben Produktionsraumes, in den Verkehr gebracht werden, sofern für einzelne Komponenten einer aus diesen angrenzenden Ursprungsgebieten stammenden Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung steht und Saatgut anderer Arten aus den betroffenen angrenzenden Ursprungsgebieten nicht als Ersatz in Frage kommt. Unberührt bleibt das Erfordernis einer durch die nach Landesrecht für Naturschutz und Landschaftspflege zuständige Behörde erteilten Genehmigung für das Ausbringen von Saatgut außerhalb seines Vorkommensgebietes nach § 40 Absatz 1 des Bundesnaturschutzgesetzes.
+(2) Saatgut von Erhaltungsmischungen oder von deren Komponenten darf darüber hinaus bis zum 1. März 2024 auch in den unmittelbar an das Ursprungsgebiet der jeweiligen Erhaltungsmischung angrenzenden Ursprungsgebieten, vorzugsweise desselben Produktionsraumes, in den Verkehr gebracht werden, sofern für einzelne Komponenten einer aus diesen angrenzenden Ursprungsgebieten stammenden Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung steht und Saatgut anderer Arten aus den betroffenen angrenzenden Ursprungsgebieten nicht als Ersatz in Frage kommt. Unberührt bleibt das Erfordernis einer durch die nach Landesrecht für Naturschutz und Landschaftspflege zuständige Behörde erteilten Genehmigung für das Ausbringen von Saatgut in freier Natur außerhalb seines Vorkommensgebietes nach § 40 Absatz 1 des Bundesnaturschutzgesetzes. Einer Genehmigung nach Satz 2 bedarf es nach § 40 Absatz 1 des Bundesnaturschutzgesetzes nicht, sofern das Saatgut der Erhaltungsmischung nicht in der freien Natur ausgebracht werden soll.
+
+# § 4a – Anforderungen an Saatgut einzelner Komponenten zur Herstellung von Erhaltungsmischungen
+
+(1) Saatgut von Wildformen der in den Nummern 1.1, 1.2, 1.3 und 2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Arten darf als Saatgut einzelner Komponenten zur Herstellung von Erhaltungsmischungen in den Verkehr gebracht werden. Für dieses Saatgut gelten die Anforderungen nach § 4 Absatz 1 Satz 1 Nummer 1, 2, 3 und 5 Buchstabe b und c sowie Nummer 6 und Satz 2 entsprechend.
+
+(2) Auf der Saatgutpackung oder auf dem Etikett sind der Name der betreffenden Pflanzenart, die Keimfähigkeit des Saatgutes nach § 3 Absatz 2 Satz 1 Nummer 4, eine Partienummer und ein deutlich sichtbarer Hinweis anzubringen, dass es sich um Saatgut einer für die Erstellung einer Erhaltungsmischung vorgesehenen Komponente handelt. Zudem gelten die Anforderungen für die Kennzeichnung nach § 8 Absatz 1 Nummer 1, 2, 4 bis 7 sowie 11 und 12 entsprechend.
+
+(3) Für die Verschließung der Saatgutpackungen gilt § 7 Absatz 1 und 2 entsprechend.
 
 # § 5 – Überwachung durch Sichtkontrollen und Prüfungen
 
 (1) Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
 
-1. § 4 Absatz 1 Satz 1 Nummer 3 durch Sichtkontrollen am Entnahmeort oder durch Untersuchung von Saatgutproben,
+1. § 4 Absatz 1 Satz 1 Nummer 3 durch Sichtkontrollen am Entnahmeort, durch Sichtkontrollen der Vermehrungsflächen oder durch Untersuchung von Saatgutproben,
 
 2. § 4 Absatz 1 Satz 1 Nummer 4 durch Sichtkontrollen am Entnahmeort,
 
@@ -132,7 +142,7 @@ Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässi
 
 # § 5a – Gestattung des Inverkehrbringens
 
-(1) Saatgut von Erhaltungsmischungen darf nur in den Verkehr gebracht werden, wenn der Erhaltungsmischung eine Prüfbescheinigung eines anerkannten Zertifizierungsunternehmens beigefügt ist. In der Bescheinigung hat das anerkannte Zertifizierungsunternehmen zu bestätigen, dass die betroffene Saatgutpartie unter Einbeziehung des anerkannten Zertifizierungsunternehmens hergestellt wurde und den Anforderungen des § 4 entspricht.
+(1) Saatgut von Erhaltungsmischungen oder von Komponenten zur Herstellung von Erhaltungsmischungen darf nur in den Verkehr gebracht werden, wenn der Erhaltungsmischung oder der Komponente zur Herstellung von Erhaltungsmischungen eine Prüfbescheinigung der zuständigen Behörde oder eines anerkannten Zertifizierungsunternehmens beigefügt ist. In der Bescheinigung ist zu bestätigen, dass die betreffenden Saatgutpartien den Anforderungen des § 4 oder die betreffenden Komponenten den Anforderungen des § 4a entsprechen.
 
 (2) Die zuständige Behörde erkennt auf Antrag ein Zertifizierungsunternehmen an, wenn
 
@@ -202,19 +212,17 @@ c) die Erhaltungsmischungsnummer,
 
 9. die Erhaltungsmischungsnummer,
 
-10. den Hinweis „enthält Saatgut einer Erhaltungssorte“, sofern eine angebaute Mischung Saatgut von Erhaltungssorten der in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Pflanzenarten enthält,
+10. die prozentuale Zusammensetzung (Gewichtsprozent) der Mischung; bei direkt geernteten Mischungen genügt es, die Arten oder Unterarten anzugeben, die als Bestandteil der Mischung für den Lebensraum am Entnahmeort typisch sind,
 
-11. die prozentuale Zusammensetzung (Gewichtsprozent) der Mischung; bei direkt geernteten Mischungen genügt es, die Arten oder Unterarten anzugeben, die als Bestandteil der Mischung für den Lebensraum am Entnahmeort typisch sind,
+11. angegebenes Netto- oder Bruttogewicht,
 
-12. angegebenes Netto- oder Bruttogewicht,
+12. bei Angaben des Gewichtes und im Falle der Verwendung von granulierten Pflanzenschutzmitteln, Granulierungsstoffen oder anderen festen Zusätzen, die Art des Zusatzstoffes und das ungefähre Verhältnis zwischen dem Gewicht des reinen Saatgutes und dem Gesamtgewicht,
 
-13. bei Angaben des Gewichtes und im Falle der Verwendung von granulierten Pflanzenschutzmitteln, Granulierungsstoffen oder anderen festen Zusätzen, die Art des Zusatzstoffes und das ungefähre Verhältnis zwischen dem Gewicht des reinen Saatgutes und dem Gesamtgewicht,
+13. die Keimfähigkeit für Bestandteile angebauter Mischungen nach § 3 Absatz 2 Nummer 4; erfüllen mehr als fünf der in Frage kommenden Bestandteile der angebauten Mischung nicht die erforderlichen Keimfähigkeitsnormen, dann genügt die Angabe eines Durchschnittswertes der Keimfähigkeit,
 
-14. die Keimfähigkeit für Bestandteile angebauter Mischungen nach § 3 Absatz 2 Nummer 4; erfüllen mehr als fünf der in Frage kommenden Bestandteile der angebauten Mischung nicht die erforderlichen Keimfähigkeitsnormen, dann genügt die Angabe eines Durchschnittswertes der Keimfähigkeit,
+14. bei Erhaltungsmischungen nach § 4 Absatz 2 einen Hinweis darauf, dass die betreffende Erhaltungsmischung Zumischungen aus angrenzenden Ursprungsgebieten enthält; hierbei sind die zugemischten Arten für das jeweilige Ursprungsgebiet anzugeben.
 
-15. bei Erhaltungsmischungen nach § 4 Absatz 2 einen Hinweis darauf, dass die betreffende Erhaltungsmischung Zumischungen aus angrenzenden Ursprungsgebieten enthält; hierbei sind die zugemischten Arten für das jeweilige Ursprungsgebiet anzugeben.
-
-(2) Wird der Erhaltungsmischung beim Inverkehrbringen ein Lieferschein beigefügt, der die vollständigen Angaben nach Absatz 1 Nummer 1 bis 15 enthält, dann genügt es, auf dem Etikett nur die Angaben nach Absatz 1 Nummer 1 bis 5, 8 bis 10 sowie 12 und 13 und im Fall der Nummer 15 nur den nach dem ersten Halbsatz anzugebenden Hinweis aufzuführen. Wenn der Umfang der Angaben nach Absatz 1 Nummer 6 und 7 die Lesbarkeit des Lieferscheines erschwert, können diese Angaben auf dem Lieferschein entfallen, soweit sich der Inverkehrbringer durch eine entsprechende Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf elektronischem Wege unverzüglich mitzuteilen.
+(2) Wird der Erhaltungsmischung beim Inverkehrbringen ein Lieferschein beigefügt, der die vollständigen Angaben nach Absatz 1 enthält, genügt es, auf dem Etikett nur die Angaben nach Absatz 1 Nummer 1 bis 5, 8 und 9 sowie 11 und 12 und im Fall der Nummer 14 nur den nach dem ersten Halbsatz anzugebenden Hinweis aufzuführen. Wenn der Umfang der Angaben nach Absatz 1 Nummer 6 und 7 die Lesbarkeit des Lieferscheines erschwert, können diese Angaben auf dem Lieferschein entfallen, soweit sich der Inverkehrbringer durch eine entsprechende Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf elektronischem Wege unverzüglich mitzuteilen.
 
 # Anlage – (zu § 2 Nummer 6 und 7)Ursprungsgebiete und Produktionsräume
 
