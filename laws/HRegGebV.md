@@ -1,4 +1,4 @@
-% Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen  (Handelsregistergebührenverordnung - HRegGebV)
+% Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen*  (Handelsregistergebührenverordnung - HRegGebV)
 % Ausfertigungsdatum: 30.09.2004
  
 # Eingangsformel

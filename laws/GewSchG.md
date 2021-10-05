@@ -59,7 +59,7 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 # § 4 – Strafvorschriften
 
-Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren
+Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren
 
 1. Anordnung nach § 1 Absatz 1 Satz 1 oder 3, jeweils auch in Verbindung mit Absatz 2 Satz 1, zuwiderhandelt oder
 

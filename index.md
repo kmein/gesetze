@@ -2069,6 +2069,7 @@
 - [FeV2010AusnV3ÄndV 1](laws/FeV2010AusnV3ÄndV_1.md) Erste Verordnung zur Änderung der Dritten Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung
 - [FFG](laws/FFG.md) Gesetz über Maßnahmen zur Förderung des deutschen Films*
 - [FFGV 1993](laws/FFGV_1993.md) Verordnung zum Filmförderungsgesetz
+- [FFVAV](laws/FFVAV.md) Verordnung über die Verbrauchserfassung und Abrechnung bei der Versorgung mit Fernwärme oder Fernkälte
 - [FGG-RG](laws/FGG-RG.md) Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 - [FGlG](laws/FGlG.md) Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
 - [FGNV](laws/FGNV.md) Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen
@@ -2101,7 +2102,7 @@
 - [FinBerG DDR](laws/FinBerG_DDR.md) Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen
 - [FinDAG](laws/FinDAG.md) Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
 - [FinDAGebV](laws/FinDAGebV.md) Besondere Gebührenverordnung des Bundesministeriums der Finanzen zur Finanzdienstleistungsaufsicht
-- [FinDAGKostV](laws/FinDAGKostV.md) Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz *)
+- [FinDAGKostV](laws/FinDAGKostV.md) Verordnung über die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz
 - [FinDASa](laws/FinDASa.md) Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [FinDASaV](laws/FinDASaV.md) Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 - [FinDPrV](laws/FinDPrV.md) Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft
@@ -2585,6 +2586,7 @@
 - [GrenzVtrPOLG](laws/GrenzVtrPOLG.md) Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze
 - [GrEStG](laws/GrEStG.md) Grunderwerbsteuergesetz
 - [GRG](laws/GRG.md) Gesetz zur Strukturreform im Gesundheitswesen
+- [GrImpfStRüV](laws/GrImpfStRüV.md) Verordnung über die Rückerstattung nicht genutzter saisonaler Grippeimpfstoffe
 - [GroMiKV](laws/GroMiKV.md) Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz 1
 - [GrPfREuroV](laws/GrPfREuroV.md) Verordnung über Grundpfandrechte in ausländischer Währung und in Euro
 - [GrSiDAV](laws/GrSiDAV.md) Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende
@@ -2730,7 +2732,7 @@
 - [HopfV](laws/HopfV.md) Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts*)
 - [HotelMeistPrV](laws/HotelMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
 - [HPflEGRLDV](laws/HPflEGRLDV.md) Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
-- [HRegGebV](laws/HRegGebV.md) Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen
+- [HRegGebV](laws/HRegGebV.md) Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen*
 - [HRFEG](laws/HRFEG.md) Gesetz zur Fortentwicklung des Haushaltsrechts von Bund und Ländern
 - [HRG](laws/HRG.md) Hochschulrahmengesetz
 - [HRV](laws/HRV.md) Verordnung über die Einrichtung und Führung des Handelsregisters
@@ -3151,6 +3153,7 @@
 - [KonsVerGBRV](laws/KonsVerGBRV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland
 - [KonsVerLUXV](laws/KonsVerLUXV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
 - [KonsVerNLDV](laws/KonsVerNLDV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande
+- [KonsVerRUSV](laws/KonsVerRUSV.md) Verordnung zur Umsetzung der Konsultationsvereinbarung zwischen der Bundesrepublik Deutschland und der Russischen Föderation vom 3. März 2021
 - [KonsVerUSAV](laws/KonsVerUSAV.md) Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 - [KontrGerätBeglG](laws/KontrGerätBeglG.md) Gesetz über Begleitregelungen zur Einführung des digitalen Kontrollgeräts zur Kontrolle der Lenk- und Ruhezeiten
 - [KonvBehSchG](laws/KonvBehSchG.md) Gesetz zum Schutz vor Konversionsbehandlungen

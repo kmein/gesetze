@@ -470,6 +470,10 @@ Für die Einziehung von Gegenständen, die nach dem 17. März 2021 sichergestell
 
 § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der am 1. Juli 2021 geltenden Fassung, auch in Verbindung mit § 66 Absatz 3 Satz 2, § 66a Absatz 1 Nummer 1 und § 66b Satz 1 Nummer 1 des Strafgesetzbuches, ist im Hinblick auf Taten nach den §§ 176 bis 176d und 184b des Strafgesetzbuches in der am 1. Juli 2021 geltenden Fassung nur anzuwenden, wenn die letzte Anlasstat nach dem 30. Juni 2021 begangen worden ist; in allen anderen Fällen ist das bisherige Recht anzuwenden. Soweit in anderen als den in Satz 1 genannten Vorschriften auf § 66 Absatz 3 Satz 1 des Strafgesetzbuches verwiesen wird, sind die Vorschriften in der am 1. Juli 2021 geltenden Fassung anwendbar. Die Artikel 316g und 316i bleiben unberührt.
 
+# Art 316m – Übergangsvorschrift zum Gesetz zur Änderung des Anti-Doping-Gesetzes
+
+§ 4a des Anti-Doping-Gesetzes in der Fassung des Artikels 1 des Gesetzes zur Änderung des Anti-Doping-Gesetzes vom 12. August 2021 (BGBl. I S. 3542) ist nicht auf Verfahren anzuwenden, in denen vor dem 1. Oktober 2021 die Eröffnung des Hauptverfahrens beschlossen worden ist.
+
 # Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen einer Zuwiderhandlung, die nach neuem Recht nur noch mit Geldbuße bedroht ist, werden in der Lage, in der sie sich befinden, nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten fortgesetzt, soweit nichts anderes bestimmt ist. Hat das Gericht wegen einer solchen Zuwiderhandlung bereits das Hauptverfahren eröffnet oder einen Strafbefehl oder eine Strafverfügung erlassen, so bleibt die Staatsanwaltschaft für die Verfolgung auch im Bußgeldverfahren zuständig. § 72 des Gesetzes über Ordnungswidrigkeiten ist in diesem Fall nicht anzuwenden.

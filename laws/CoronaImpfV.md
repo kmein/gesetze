@@ -207,9 +207,9 @@ Die Impfzentren und die mobilen Impfteams sind wirtschaftlich zu betreiben, insb
 
 # § 9 – Apothekenvergütung
 
-(1) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1, 2, 4 und 5 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 7,58 Euro zuzüglich Umsatzsteuer.
+(1) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 7,58 Euro zuzüglich Umsatzsteuer.
 
-(2) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken je Leistungserbringer eine Vergütung je abgegebene Durchstechflasche in Höhe von
+(2) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 entsteht, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken je Leistungserbringer eine Vergütung je abgegebene Durchstechflasche in Höhe von
 
 1. 7,58 Euro zuzüglich Umsatzsteuer für die Abgabe der 1. bis 100. Durchstechflasche innerhalb eines Kalendermonats,
 

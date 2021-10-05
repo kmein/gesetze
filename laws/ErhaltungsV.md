@@ -193,7 +193,7 @@ Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr gebracht werd
 
 1. die Angabe „EG-Norm“,
 
-2. Name und Anschrift der für das Kennzeichnen verantwortlichen Person,
+2. Name und Anschrift oder die Betriebsnummer der für das Kennzeichnen verantwortlichen Person,
 
 3. das Jahr der Verschließung mit der Angabe „verschlossen ... “ oder, außer bei Pflanzkartoffeln, das Jahr der letzten Probenahme zum Zweck der Keimfähigkeitsprüfung mit der Angabe „beprobt ... “, § 40 Absatz 4 der Saatgutverordnung gilt entsprechend,
 
@@ -209,6 +209,6 @@ Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr gebracht werd
 
 9. Bezugsnummer der Partie, vergeben durch die für die Kennzeichnung verantwortliche Person,
 
-10. angegebenes Netto- oder Bruttogewicht oder, außer bei Pflanzkartoffeln, die angegebene Anzahl der Samen,
+10. angegebenes Netto- oder Bruttogewicht oder die angegebene Anzahl der Samen oder Knollen,
 
 11. bei Angaben des Gewichtes und im Falle der Verwendung von granulierten Pflanzenschutzmitteln, Granulierungsstoffen oder anderen festen Zusätzen, die Art des Zusatzstoffes und das ungefähre Verhältnis zwischen dem Gewicht des reinen Saatgutes und dem Gesamtgewicht der Packung; dies gilt nicht für Pflanzkartoffeln.

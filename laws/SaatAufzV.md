@@ -67,7 +67,7 @@ d) der Verwendungszweck;
 
 10. im Falle der Herstellung von Kleinpackungen
 
-a) jeweils die Anerkennungs-, Bezugs-, Zulassungs-, Partie-, Referenz-, Mischungs- oder Kennummer der für die Herstellung der Kleinpackungen verwendeten Partien,
+a) jeweils die Anerkennungs-, Bezugs-, Zulassungs-, Partie-, Referenz-, Mischungs- oder Kennnummer der für die Herstellung der Kleinpackungen verwendeten Partien,
 
 b) das Gewicht oder die Stückzahl des verwendeten Saatgutes,
 
@@ -80,6 +80,8 @@ d) jeweils die Kenn-, Partie- oder Mischungsnummer der Kleinpackungen; bei Packu
 (3) Beim Ausgang von Gemüsesaatgut an Letztverbraucher sind Angaben über den Empfänger oder den Verbleib sowie die Angabe der jeweiligen Nummer nach Absatz 1 Nr. 7 entbehrlich. Beim Ausgang von Saatgut in Kleinpackungen oder in kleinen Mengen (§ 42 der Saatgutverordnung, § 31 der Pflanzkartoffelverordnung oder § 21 der Rebenpflanzgutverordnung) an Letztverbraucher sind Aufzeichnungen entbehrlich.
 
 (4) Werden bei den Aufzeichnungen Schlüsselzahlen oder Schlüsselzeichen verwendet, so müssen sie für die zuständige Behörde klar verständlich sein.
+
+(5) Werden die Aufzeichnungen in elektronischer Form geführt, sind diese zur Gewährleistung der Rückverfolgbarkeit zusammen mit den zugrundeliegenden Belegen für sechs Jahre aufzubewahren. Belege sind insbesondere Lieferscheine, Rechnungen, Wiegescheine und Beizprotokolle.
 
 # § 2
 

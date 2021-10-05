@@ -67,22 +67,21 @@ Roggen
 
 1.1.4
 
-Sorghum bicolor (L.) Moench
+Sorghum bicolor (L.) Moench subsp. bicolor
 
-Mohrenhirse
+Sorghum
 
 1.1.5
 
-Sorghum sudanense (Piper) Stapf
+Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse
 
 Sudangras
 
 1.1.6
 
-Sorghum bicolor x Sorghum sudanense
+Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse
 
-Hybriden aus der Kreuzung  
-von Sorghum bicolor x Sorghum sudanense
+Hybriden aus der Kreuzung von Sorghum x Sudangras
 
 1.1.7
 
@@ -92,19 +91,19 @@ Triticale (Hybriden aus der Kreuzung einer Art der Gattung Triticum mit einer Ar
 
 1.1.8
 
-Triticum aestivum L.
+Triticum aestivum L. subsp. aestivum
 
 Weichweizen
 
 1.1.9
 
-Triticum durum Desf.
+Triticum turgidum L. subsp. durum (Desf.) van Slageren
 
 Hartweizen
 
 1.1.10
 
-Triticum spelta L.
+Triticum aestivum L. subsp. spelta (L.) Thell.
 
 Spelz, Dinkel
 
@@ -189,7 +188,7 @@ Schafschwingel
 
 1.2.1.9.b
 
-Festuca trachyphylla (Hack.) Krajina
+Festuca trachyphylla (Hack.) Hack.
 
 Raublättriger Schafschwingel
 
