@@ -1909,13 +1909,13 @@ Störung des öffentlichen Friedens durch Androhung von Straftaten
 
 § 127
 
-Bildung bewaffneter Gruppen
+Betreiben krimineller Handelsplattformen im Internet
 
  
 
 § 128
 
-(weggefallen)
+Bildung bewaffneter Gruppen
 
  
 
@@ -6763,13 +6763,47 @@ androht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraf
 
 (2) Ebenso wird bestraft, wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, wider besseres Wissen vortäuscht, die Verwirklichung einer der in Absatz 1 genannten rechtswidrigen Taten stehe bevor.
 
-# § 127 – Bildung bewaffneter Gruppen
+# § 127 – Betreiben krimineller Handelsplattformen im Internet
+
+(1) Wer eine Handelsplattform im Internet betreibt, deren Zweck darauf ausgerichtet ist, die Begehung von rechtswidrigen Taten zu ermöglichen oder zu fördern, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist. Rechtswidrige Taten im Sinne des Satzes 1 sind
+
+1. Verbrechen,
+
+2. Vergehen nach
+
+a) den §§ 86, 86a, 91, 130, 147 und 148 Absatz 1 Nummer 3, den §§ 149, 152a und 176a Absatz 2, § 176b Absatz 2, § 180 Absatz 2, § 184b Absatz 1 Satz 2, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b, 202c, 202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2 und 4 in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236, 259 und 260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5 Satz 2 genannten Voraussetzungen sowie nach den §§ 263, 263a, 267, 269, 275, 276, 303a und 303b,
+
+b) § 4 Absatz 1 bis 3 des Anti-Doping-Gesetzes,
+
+c) § 29 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 6, sowie Absatz 2 und 3 des Betäubungsmittelgesetzes,
+
+d) § 19 Absatz 1 bis 3 des Grundstoffüberwachungsgesetzes,
+
+e) § 4 Absatz 1 und 2 des Neue-psychoaktive-Stoffe-Gesetzes,
+
+f) § 95 Absatz 1 bis 3 des Arzneimittelgesetzes,
+
+g) § 52 Absatz 1 Nummer 1 und 2 Buchstabe b und c, Absatz 2 und 3 Nummer 1 und 7 sowie Absatz 5 und 6 des Waffengesetzes,
+
+h) § 40 Absatz 1 bis 3 des Sprengstoffgesetzes,
+
+i) § 13 des Ausgangsstoffgesetzes,
+
+j) § 83 Absatz 1 Nummer 4 und 5 sowie Absatz 4 des Kulturgutschutzgesetzes,
+
+k) den §§ 143, 143a und 144 des Markengesetzes sowie
+
+l) den §§ 51 und 65 des Designgesetzes.
+
+(2) Handelsplattform im Internet im Sinne dieser Vorschrift ist jede virtuelle Infrastruktur im frei zugänglichen wie im durch technische Vorkehrungen zugangsbeschränkten Bereich des Internets, die Gelegenheit bietet, Menschen, Waren, Dienstleistungen oder Inhalte (§ 11 Absatz 3) anzubieten oder auszutauschen.
+
+(3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer im Fall des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+
+(4) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer bei der Begehung einer Tat nach Absatz 1 beabsichtigt oder weiß, dass die Handelsplattform im Internet den Zweck hat, Verbrechen zu ermöglichen oder zu fördern.
+
+# § 128 – Bildung bewaffneter Gruppen
 
 Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche Werkzeuge verfügt, bildet oder befehligt oder wer sich einer solchen Gruppe anschließt, sie mit Waffen oder Geld versorgt oder sonst unterstützt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
-
-# § 128 – (weggefallen)
-
-\-
 
 # § 129 – Bildung krimineller Vereinigungen
 
@@ -6787,7 +6821,7 @@ Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche Werkzeuge ve
 
 (4) Der Versuch, eine in Absatz 1 Satz 1 und Absatz 2 bezeichnete Vereinigung zu gründen, ist strafbar.
 
-(5) In besonders schweren Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter zu den Rädelsführern oder Hintermännern der Vereinigung gehört. In den Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Zweck oder die Tätigkeit der Vereinigung darauf gerichtet ist, in § 100b Absatz 2 Nummer 1 Buchstabe a, c, d, e und g bis n, Nummer 2 bis 8 und 10 der Strafprozessordnung genannte Straftaten mit Ausnahme der in § 100b Absatz 2 Nummer 1 Buchstabe g der Strafprozessordnung genannten Straftaten nach den §§ 239a und 239b des Strafgesetzbuches zu begehen.
+(5) In besonders schweren Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter zu den Rädelsführern oder Hintermännern der Vereinigung gehört. In den Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Zweck oder die Tätigkeit der Vereinigung darauf gerichtet ist, in § 100b Absatz 2 Nummer 1 Buchstabe a, b, d bis f und h bis o, Nummer 2 bis 8 und 10 der Strafprozessordnung genannte Straftaten mit Ausnahme der in § 100b Absatz 2 Nummer 1 Buchstabe h der Strafprozessordnung genannten Straftaten nach den §§ 239a und 239b des Strafgesetzbuches zu begehen.
 
 (6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, von einer Bestrafung nach den Absätzen 1 und 4 absehen.
 

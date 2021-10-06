@@ -83,6 +83,8 @@ d) jeweils die Kenn-, Partie- oder Mischungsnummer der Kleinpackungen; bei Packu
 
 (5) Werden die Aufzeichnungen in elektronischer Form geführt, sind diese zur Gewährleistung der Rückverfolgbarkeit zusammen mit den zugrundeliegenden Belegen für sechs Jahre aufzubewahren. Belege sind insbesondere Lieferscheine, Rechnungen, Wiegescheine und Beizprotokolle.
 
+§ 1 Abs. 1 Nr. 10 Buchst. a Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kennummer" durch das Wort "Kennnummer" ersetzt
+
 # § 2
 
 (1) Bei eingeführtem Saatgut, außer Saatgut aus Vertragsstaaten, muß auch die von der Bundesanstalt für Landwirtschaft und Ernährung für die Partie erteilte Nummer des Bestätigungsvermerks der Einfuhranzeige oder im Falle einer nach § 18 Abs. 2 des Saatgutverkehrsgesetzes genehmigten Einfuhr die Nummer der Genehmigung den Aufzeichnungen desjenigen zu entnehmen sein, in dessen Besitz oder Verfügungsgewalt das Saatgut im Geltungsbereich des Saatgutverkehrsgesetzes zuerst gelangt. Ist bei solchem Saatgut die jeweilige Nummer nach § 1 Abs. 1 Nr. 7 im Zeitpunkt der Aufzeichnung nach § 1 Abs. 1 Nr. 1 und 2 auf Grund besonderer Verhältnisse noch nicht bekannt, so kann an ihre Stelle vorübergehend eine Bezugnahme auf das Transportmittel treten; die Aufzeichnung der Nummer nach § 1 Abs. 1 Nr. 7 ist unverzüglich nachzuholen.
