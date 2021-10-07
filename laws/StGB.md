@@ -4279,9 +4279,11 @@ b) in den Fällen der §§ 109a, 109d und 109h, wenn der Täter Deutscher ist un
 
 5a. Widerstand gegen die Staatsgewalt und Straftaten gegen die öffentliche Ordnung
 
-a) in den Fällen des § 111, wenn die Aufforderung im Inland wahrnehmbar ist und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat, und
+a) in den Fällen des § 111, wenn die Aufforderung im Inland wahrnehmbar ist und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat,
 
-b) in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit Absatz 5, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat;
+b) in den Fällen des § 127, wenn der Zweck der Handelsplattform darauf ausgerichtet ist, die Begehung von rechtswidrigen Taten im Inland zu ermöglichen oder zu fördern und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat, und
+
+c) in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit Absatz 5, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat;
 
 6. Straftaten gegen die persönliche Freiheit
 
