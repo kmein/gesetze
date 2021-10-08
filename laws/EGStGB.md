@@ -194,9 +194,7 @@ Die Gerichtshilfe (§ 160 Abs. 3 Satz 2 der Strafprozeßordnung) gehört zum Ges
 
 (2) Die Aufgaben der Aufsichtsstelle werden von Beamten des höheren Dienstes, von staatlich anerkannten Sozialarbeitern oder Sozialpädagogen oder von Beamten des gehobenen Dienstes wahrgenommen. Der Leiter der Aufsichtsstelle muß die Befähigung zum Richteramt besitzen oder ein Beamter des höheren Dienstes sein. Die Leitung der Aufsichtsstelle kann auch einem Richter übertragen werden.
 
-# Art 296 – Einfuhr von Zeitungen und Zeitschriften
-
-§ 86 Abs. 1 des Strafgesetzbuches ist nicht anzuwenden auf Zeitungen und Zeitschriften, die außerhalb des räumlichen Geltungsbereiches dieses Gesetzes in ständiger, regelmäßiger Folge erscheinen und dort allgemein und öffentlich vertrieben werden.
+# Art 296 – (weggefallen)
 
 # Art 297 – Verbot der Prostitution
 

@@ -1373,13 +1373,13 @@ Verstoß gegen ein Vereinigungsverbot
 
 § 86
 
-Verbreiten von Propagandamitteln verfassungswidriger Organisationen
+Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen
 
  
 
 § 86a
 
-Verwenden von Kennzeichen verfassungswidriger Organisationen
+Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen
 
  
 
@@ -1907,6 +1907,12 @@ Störung des öffentlichen Friedens durch Androhung von Straftaten
 
  
 
+§ 126a
+
+Gefährdendes Verbreiten personenbezogener Daten
+
+ 
+
 § 127
 
 Betreiben krimineller Handelsplattformen im Internet
@@ -2405,6 +2411,12 @@ Sexueller Missbrauch von Kindern mit Todesfolge
 
  
 
+§ 176e
+
+Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern
+
+ 
+
 § 177
 
 Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
@@ -2614,6 +2626,12 @@ Wahrheitsbeweis durch Strafurteil
 § 192
 
 Beleidigung trotz Wahrheitsbeweises
+
+ 
+
+§ 192a
+
+Verhetzende Beleidigung
 
  
 
@@ -4261,7 +4279,7 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für folgende T
 
 3. Gefährdung des demokratischen Rechtsstaates
 
-a) in den Fällen des § 86 Absatz 1, wenn Propagandamittel im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht werden und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat,
+a) in den Fällen des § 86 Absatz 1 und 2, wenn Propagandamittel im Inland wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich gemacht werden und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat,
 
 b) in den Fällen des § 86a Absatz 1 Nummer 1, wenn ein Kennzeichen im Inland wahrnehmbar verbreitet oder in einer der inländischen Öffentlichkeit zugänglichen Weise oder in einem im Inland wahrnehmbar verbreiteten Inhalt (§ 11 Absatz 3) verwendet wird und der Täter Deutscher ist oder seine Lebensgrundlage im Inland hat,
 
@@ -6017,7 +6035,7 @@ aufrechterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstraf
 
 (3) § 84 Abs. 4 und 5 gilt entsprechend.
 
-# § 86 – Verbreiten von Propagandamitteln verfassungswidriger Organisationen
+# § 86 – Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen
 
 (1) Wer Propagandamittel
 
@@ -6031,23 +6049,25 @@ aufrechterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstraf
 
 im Inland verbreitet oder der Öffentlichkeit zugänglich macht oder zur Verbreitung im Inland oder Ausland herstellt, vorrätig hält, einführt oder ausführt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(2) Propagandamittel im Sinne des Absatzes 1 ist nur ein solcher Inhalt (§ 11 Absatz 3), der gegen die freiheitliche demokratische Grundordnung oder den Gedanken der Völkerverständigung gerichtet ist.
+(2) Ebenso wird bestraft, wer Propagandamittel einer Organisation, die im Anhang der Durchführungsverordnung (EU) 2021/138 des Rates vom 5. Februar 2021 zur Durchführung des Artikels 2 Absatz 3 der Verordnung (EG) Nr. 2580/2001 über spezifische, gegen bestimmte Personen und Organisationen gerichtete restriktive Maßnahmen zur Bekämpfung des Terrorismus und zur Aufhebung der Durchführungsverordnung (EU) 2020/1128 (ABl. L 43 vom 8.2.2021, S. 1) als juristische Person, Vereinigung oder Körperschaft aufgeführt ist, im Inland verbreitet oder der Öffentlichkeit zugänglich macht oder zur Verbreitung im Inland oder Ausland herstellt, vorrätig hält, einführt oder ausführt.
 
-(3) Absatz 1 gilt nicht, wenn die Handlung der staatsbürgerlichen Aufklärung, der Abwehr verfassungswidriger Bestrebungen, der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dient.
+(3) Propagandamittel im Sinne des Absatzes 1 ist nur ein solcher Inhalt (§ 11 Absatz 3), der gegen die freiheitliche demokratische Grundordnung oder den Gedanken der Völkerverständigung gerichtet ist. Propagandamittel im Sinne des Absatzes 2 ist nur ein solcher Inhalt (§ 11 Absatz 3), der gegen den Bestand oder die Sicherheit eines Staates oder einer internationalen Organisation oder gegen die Verfassungsgrundsätze der Bundesrepublik Deutschland gerichtet ist.
 
-(4) Ist die Schuld gering, so kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen.
+(4) Die Absätze 1 und 2 gelten nicht, wenn die Handlung der staatsbürgerlichen Aufklärung, der Abwehr verfassungswidriger Bestrebungen, der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dient.
 
-# § 86a – Verwenden von Kennzeichen verfassungswidriger Organisationen
+(5) Ist die Schuld gering, so kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen.
+
+# § 86a – Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
-1. im Inland Kennzeichen einer der in § 86 Abs. 1 Nr. 1, 2 und 4 bezeichneten Parteien oder Vereinigungen verbreitet oder öffentlich, in einer Versammlung oder in einem von ihm verbreiteten Inhalt (§ 11 Absatz 3) verwendet oder
+1. im Inland Kennzeichen einer der in § 86 Abs. 1 Nr. 1, 2 und 4 oder Absatz 2 bezeichneten Parteien oder Vereinigungen verbreitet oder öffentlich, in einer Versammlung oder in einem von ihm verbreiteten Inhalt (§ 11 Absatz 3) verwendet oder
 
 2. einen Inhalt (§ 11 Absatz 3), der ein derartiges Kennzeichen darstellt oder enthält, zur Verbreitung oder Verwendung im Inland oder Ausland in der in Nummer 1 bezeichneten Art und Weise herstellt, vorrätig hält, einführt oder ausführt.
 
 (2) Kennzeichen im Sinne des Absatzes 1 sind namentlich Fahnen, Abzeichen, Uniformstücke, Parolen und Grußformen. Den in Satz 1 genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln ähnlich sind.
 
-(3) § 86 Abs. 3 und 4 gilt entsprechend.
+(3) § 86 Abs. 4 und 5 gilt entsprechend.
 
 # § 87 – Agententätigkeit zu Sabotagezwecken
 
@@ -6097,7 +6117,7 @@ ganz oder zum Teil außer Tätigkeit gesetzt oder den bestimmungsmäßigen Zweck
 
 (2) Der Versuch ist strafbar.
 
-(3) § 86 Abs. 4 gilt entsprechend.
+(3) § 86 Absatz 5 gilt entsprechend.
 
 # § 89a – Vorbereitung einer schweren staatsgefährdenden Gewalttat
 
@@ -6765,6 +6785,20 @@ androht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraf
 
 (2) Ebenso wird bestraft, wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, wider besseres Wissen vortäuscht, die Verwirklichung einer der in Absatz 1 genannten rechtswidrigen Taten stehe bevor.
 
+# § 126a – Gefährdendes Verbreiten personenbezogener Daten
+
+(1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines Inhalts (§ 11 Absatz 3) personenbezogene Daten einer anderen Person in einer Art und Weise verbreitet, die geeignet und nach den Umständen bestimmt ist, diese Person oder eine ihr nahestehende Person der Gefahr
+
+1. eines gegen sie gerichteten Verbrechens oder
+
+2. einer gegen sie gerichteten sonstigen rechtswidrigen Tat gegen die sexuelle Selbstbestimmung, die körperliche Unversehrtheit, die persönliche Freiheit oder gegen eine Sache von bedeutendem Wert
+
+auszusetzen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
+(2) Handelt es sich um nicht allgemein zugängliche Daten, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
+(3) § 86 Absatz 4 gilt entsprechend.
+
 # § 127 – Betreiben krimineller Handelsplattformen im Internet
 
 (1) Wer eine Handelsplattform im Internet betreibt, deren Zweck darauf ausgerichtet ist, die Begehung von rechtswidrigen Taten zu ermöglichen oder zu fördern, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist. Rechtswidrige Taten im Sinne des Satzes 1 sind
@@ -6911,7 +6945,7 @@ c) die Menschenwürde von in Buchstabe a genannten Personen oder Personenmehrhei
 
 (6) In den Fällen des Absatzes 2 Nummer 1, auch in Verbindung mit Absatz 5, ist der Versuch strafbar.
 
-(7) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen 5 und 6, sowie in den Fällen der Absätze 3 und 4 gilt § 86 Abs. 3 entsprechend.
+(7) In den Fällen des Absatzes 2, auch in Verbindung mit den Absätzen 5 und 6, sowie in den Fällen der Absätze 3 und 4 gilt § 86 Absatz 4 entsprechend.
 
 # § 130a – Anleitung zu Straftaten
 
@@ -6925,7 +6959,7 @@ c) die Menschenwürde von in Buchstabe a genannten Personen oder Personenmehrhei
 
 um die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen.
 
-(3) § 86 Abs. 3 gilt entsprechend.
+(3) § 86 Absatz 4 gilt entsprechend.
 
 # § 131 – Gewaltdarstellung
 
@@ -7543,6 +7577,36 @@ b) das Kind dazu bestimmt, den Beischlaf mit einem Dritten zu vollziehen oder ä
 
 Verursacht der Täter durch den sexuellen Missbrauch (§§ 176 bis 176c) mindestens leichtfertig den Tod eines Kindes, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
+# § 176e – Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern
+
+(1) Wer einen Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich macht, der geeignet ist, als Anleitung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat zu dienen, und der dazu bestimmt ist, die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer
+
+1. einen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat zu dienen, verbreitet oder der Öffentlichkeit zugänglich macht oder
+
+2. öffentlich oder in einer Versammlung zu einer in den §§ 176 bis 176d genannten rechtswidrigen Tat eine Anleitung gibt,
+
+um die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen.
+
+(3) Wer einen in Absatz 1 bezeichneten Inhalt abruft, besitzt, einer anderen Person zugänglich macht oder einer anderen Person den Besitz daran verschafft, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
+(4) Absatz 3 gilt nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
+
+1. staatlichen Aufgaben,
+
+2. Aufgaben, die sich aus Vereinbarungen mit einer zuständigen staatlichen Stelle ergeben, oder
+
+3. dienstlichen oder beruflichen Pflichten.
+
+(5) Die Absätze 1 und 3 gelten nicht für dienstliche Handlungen im Rahmen von strafrechtlichen Ermittlungsverfahren, wenn
+
+1. kein kinderpornographischer Inhalt, der ein tatsächliches Geschehen wiedergibt oder der unter Verwendung einer Bildaufnahme eines Kindes oder Jugendlichen hergestellt worden ist, einer anderen Person oder der Öffentlichkeit zugänglich gemacht, verbreitet oder einer anderen Person der Besitz daran verschafft wird, und
+
+2. die Aufklärung des Sachverhalts auf andere Weise aussichtslos oder wesentlich erschwert wäre.
+
+(6) Gegenstände, auf die sich eine Straftat nach Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
+
 # § 177 – Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
 
 (1) Wer gegen den erkennbaren Willen einer anderen Person sexuelle Handlungen an dieser Person vornimmt oder von ihr vornehmen lässt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einem Dritten bestimmt, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
@@ -7921,13 +7985,17 @@ Ist die behauptete oder verbreitete Tatsache eine Straftat, so ist der Beweis de
 
 Der Beweis der Wahrheit der behaupteten oder verbreiteten Tatsache schließt die Bestrafung nach § 185 nicht aus, wenn das Vorhandensein einer Beleidigung aus der Form der Behauptung oder Verbreitung oder aus den Umständen, unter welchen sie geschah, hervorgeht.
 
+# § 192a – Verhetzende Beleidigung
+
+Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, die Menschenwürde anderer dadurch anzugreifen, dass er eine durch ihre nationale, rassische, religiöse oder ethnische Herkunft, ihre Weltanschauung, ihre Behinderung oder ihre sexuelle Orientierung bestimmte Gruppe oder einen Einzelnen wegen seiner Zugehörigkeit zu einer dieser Gruppen beschimpft, böswillig verächtlich macht oder verleumdet, an eine andere Person, die zu einer der vorbezeichneten Gruppen gehört, gelangen lässt, ohne von dieser Person hierzu aufgefordert zu sein, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
 # § 193 – Wahrnehmung berechtigter Interessen
 
-Tadelnde Urteile über wissenschaftliche, künstlerische oder gewerbliche Leistungen, desgleichen Äußerungen, welche zur Ausführung oder Verteidigung von Rechten oder zur Wahrnehmung berechtigter Interessen gemacht werden, sowie Vorhaltungen und Rügen der Vorgesetzten gegen ihre Untergebenen, dienstliche Anzeigen oder Urteile von seiten eines Beamten und ähnliche Fälle sind nur insofern strafbar, als das Vorhandensein einer Beleidigung aus der Form der Äußerung oder aus den Umständen, unter welchen sie geschah, hervorgeht.
+Tadelnde Urteile über wissenschaftliche, künstlerische oder gewerbliche Leistungen, desgleichen Äußerungen oder Tathandlungen nach § 192a, welche zur Ausführung oder Verteidigung von Rechten oder zur Wahrnehmung berechtigter Interessen vorgenommen werden, sowie Vorhaltungen und Rügen der Vorgesetzten gegen ihre Untergebenen, dienstliche Anzeigen oder Urteile von seiten eines Beamten und ähnliche Fälle sind nur insofern strafbar, als das Vorhandensein einer Beleidigung aus der Form der Äußerung oder aus den Umständen, unter welchen sie geschah, hervorgeht.
 
 # § 194 – Strafantrag
 
-(1) Die Beleidigung wird nur auf Antrag verfolgt. Ist die Tat in einer Versammlung oder dadurch begangen, dass ein Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich gemacht worden ist, so ist ein Antrag nicht erforderlich, wenn der Verletzte als Angehöriger einer Gruppe unter der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verfolgt wurde, diese Gruppe Teil der Bevölkerung ist und die Beleidigung mit dieser Verfolgung zusammenhängt. In den Fällen des § 188 wird die Tat auch dann verfolgt, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält. Die Taten nach den Sätzen 2 und 3 können jedoch nicht von Amts wegen verfolgt werden, wenn der Verletzte widerspricht. Der Widerspruch kann nicht zurückgenommen werden. Stirbt der Verletzte, so gehen das Antragsrecht und das Widerspruchsrecht auf die in § 77 Abs. 2 bezeichneten Angehörigen über.
+(1) Die Beleidigung wird nur auf Antrag verfolgt. Ist die Tat in einer Versammlung oder dadurch begangen, dass ein Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich gemacht worden ist, so ist ein Antrag nicht erforderlich, wenn der Verletzte als Angehöriger einer Gruppe unter der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verfolgt wurde, diese Gruppe Teil der Bevölkerung ist und die Beleidigung mit dieser Verfolgung zusammenhängt. In den Fällen der §§ 188 und 192a wird die Tat auch dann verfolgt, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält. Die Taten nach den Sätzen 2 und 3 können jedoch nicht von Amts wegen verfolgt werden, wenn der Verletzte widerspricht. Der Widerspruch kann nicht zurückgenommen werden. Stirbt der Verletzte, so gehen das Antragsrecht und das Widerspruchsrecht auf die in § 77 Abs. 2 bezeichneten Angehörigen über.
 
 (2) Ist das Andenken eines Verstorbenen verunglimpft, so steht das Antragsrecht den in § 77 Abs. 2 bezeichneten Angehörigen zu. Ist die Tat in einer Versammlung oder dadurch begangen, dass ein Inhalt (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich gemacht worden ist, so ist ein Antrag nicht erforderlich, wenn der Verstorbene sein Leben als Opfer der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verloren hat und die Verunglimpfung damit zusammenhängt. Die Tat kann jedoch nicht von Amts wegen verfolgt werden, wenn ein Antragsberechtigter der Verfolgung widerspricht. Der Widerspruch kann nicht zurückgenommen werden.
 
@@ -7991,7 +8059,7 @@ Die Tat nach Satz 1 Nr. 2 ist nur strafbar, wenn die öffentliche Mitteilung gee
 
 2. sich oder einer dritten Person gegen Entgelt verschafft.
 
-(4) Absatz 1 Nummer 2 bis 4, auch in Verbindung mit Absatz 1 Nummer 5 oder 6, Absatz 2 und 3 gelten nicht für Handlungen, die in Wahrnehmung überwiegender berechtigter Interessen erfolgen, namentlich der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dienen.
+(4) Absatz 1 Nummer 2 und 3, auch in Verbindung mit Absatz 1 Nummer 4 oder 5, Absatz 2 und 3 gelten nicht für Handlungen, die in Wahrnehmung überwiegender berechtigter Interessen erfolgen, namentlich der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dienen.
 
 (5) Die Bildträger sowie Bildaufnahmegeräte oder andere technische Mittel, die der Täter oder Teilnehmer verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
 
