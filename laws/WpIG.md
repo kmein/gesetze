@@ -337,7 +337,7 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 3. sofern es sich um eine juristische Person handelt, für die nach dem nationalen Recht, das für das Wertpapierinstitut maßgeblich ist, kein Sitz bestimmt ist, der Vertragsstaat, in dem sich die Hauptverwaltung des Wertpapierinstituts befindet.
 
-(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt;
+(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt.
 
 (21) Systemrisiko im Sinne dieses Gesetzes ist das Risiko einer Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen Auswirkungen auf das Finanzsystem und die Realwirtschaft.
 
@@ -374,6 +374,8 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 (37) Vertragsstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der Europäischen Union oder ein Vertragsstaat des Europäischen Wirtschaftsraums.
 
 (38) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Wertpapierinstitut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerung von Aktivitäten und Prozessen, die für die Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
+
+§ 2 Abs. 20 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Satzzeichen "erbringt;" durch das Satzzeichen "erbringt." ersetzt
 
 # § 3 – Ausnahmen
 
@@ -521,11 +523,13 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließl
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher Maßgaben umfasst die Zusammenarbeit die laufende Überwachung der Wertpapierinstitute durch die Deutsche Bundesbank. Die laufende Überwachung beinhaltet insbesondere die Auswertung der von den Wertpapierinstituten eingereichten Unterlagen, der Prüfungsberichte für Kleine oder Mittlere Wertpapierinstitute nach § 76, für Große Wertpapierinstitute nach § 26 des Kreditwesengesetzes und der Jahresabschlussunterlagen sowie die Durchführung und Auswertung der aufsichtlichen Prüfungen zur Beurteilung der angemessenen Eigenkapitalausstattung und Risikosteuerungsverfahren der Wertpapierinstitute und das Bewerten von Prüfungsfeststellungen. Die laufende Überwachung durch die Deutsche Bundesbank erfolgt in der Regel durch ihre Hauptverwaltungen.
 
-(2) Die Deutsche Bundesbank hat die Richtlinien der Bundesanstalt zu beachten. Die Richtlinien der Bundesanstalt zur laufenden Aufsicht ergehen im Einvernehmen mit der Deutschen Bundesbank. Kann innerhalb einer angemessenen Frist kein Envernehmen hergestellt werden, erlässt das Bundesministerium der Finanzen solche Richtlinien im Benehmen mit der Deutschen Bundesbank. Die aufsichtsrechtlichen Maßnahmen, insbesondere Allgemeinverfügungen und Verwaltungsakte einschließlich Prüfungsanordnungen nach § 5 Absatz 4 und 5 Satz 1, trifft die Bundesanstalt gegenüber den Wertpapierinstituten, Mutterunternehmen oder Auslagerungsunternehmen. Die Bundesanstalt legt ihren aufsichtsrechtlichen Maßnahmen in der Regel die von der Deutschen Bundesbank getroffenen Prüfungsfeststellungen und Bewertungen zugrunde.
+(2) Die Deutsche Bundesbank hat die Richtlinien der Bundesanstalt zu beachten. Die Richtlinien der Bundesanstalt zur laufenden Aufsicht ergehen im Einvernehmen mit der Deutschen Bundesbank. Kann innerhalb einer angemessenen Frist kein Einvernehmen hergestellt werden, erlässt das Bundesministerium der Finanzen solche Richtlinien im Benehmen mit der Deutschen Bundesbank. Die aufsichtsrechtlichen Maßnahmen, insbesondere Allgemeinverfügungen und Verwaltungsakte einschließlich Prüfungsanordnungen nach § 5 Absatz 4 und 5 Satz 1, trifft die Bundesanstalt gegenüber den Wertpapierinstituten, Mutterunternehmen oder Auslagerungsunternehmen. Die Bundesanstalt legt ihren aufsichtsrechtlichen Maßnahmen in der Regel die von der Deutschen Bundesbank getroffenen Prüfungsfeststellungen und Bewertungen zugrunde.
 
 (3) Die Bundesanstalt und die Deutsche Bundesbank haben einander Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung ihrer Aufgaben erforderlich sind. Die Deutsche Bundesbank hat insoweit der Bundesanstalt auch die Angaben zur Verfügung zu stellen, die die Deutsche Bundesbank aufgrund statistischer Erhebungen nach § 18 des Gesetzes über die Deutsche Bundesbank erlangt. Die Deutsche Bundesbank hat vor Anordnung einer solchen Erhebung die Bundesanstalt zu hören. § 18 Satz 5 des Gesetzes über die Deutsche Bundesbank gilt entsprechend.
 
 (4) Die Zusammenarbeit nach den Absätzen 1 und 2 sowie die Mitteilungen nach Absatz 3 schließen die Übermittlung der zur Erfüllung der Aufgaben der empfangenden Stelle erforderlichen personenbezogenen Daten ein. Zur Erfüllung ihrer Aufgaben nach diesem Gesetz dürfen die Bundesanstalt und die Deutsche Bundesbank gegenseitig die bei der anderen Stelle jeweils gespeicherten Daten im automatisierten Verfahren abrufen. Die Deutsche Bundesbank hat bei jedem zehnten von der Bundesanstalt durchgeführten Abruf personenbezogener Daten den Zeitpunkt, die Angaben, welche die Feststellung der aufgerufenen Datensätze ermöglichen, sowie die für den Abruf verantwortliche Person zu protokollieren. Die Protokolldaten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsmäßigen Betriebs der Datenverarbeitungsanlage verwendet werden. Sie sind am Ende des auf das Jahr der Protokollierung folgenden Kalenderjahres zu löschen, soweit sie nicht für ein laufendes Kontrollverfahren benötigt werden. Die Sätze 3 bis 5 gelten entsprechend für die Datenabrufe der Deutschen Bundesbank bei der Bundesanstalt. Im Übrigen bleiben die Bestimmungen des Bundesdatenschutzgesetzes unberührt.
+
+§ 9 Abs. 2 Satz 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden das Wort "Envernehmen" durch das Wort "Einvernehmen" ersetzt
 
 # § 10 – Zusammenarbeit innerhalb des Europäischen Systems der Finanzaufsicht
 
