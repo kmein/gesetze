@@ -1,5 +1,5 @@
 % Verordnung zum Anspruch auf Testung in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2  (Coronavirus-Testverordnung - TestV)
-% Ausfertigungsdatum: 24.06.2021
+% Ausfertigungsdatum: 21.09.2021
  
 # Eingangsformel
 
@@ -23,7 +23,9 @@ des § 24 Satz 3 Nummer 2, Satz 4 und 5 des Infektionsschutzgesetzes, der durch 
 
 3. die Diagnostik,
 
-4. die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Genesenenzertifikats im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes oder eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes. Der Anspruch auf Ausstellung eines COVID-19-Genesenenzertifikates setzt das Vorliegen eines Nachweises hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in verkörperter oder digitaler Form voraus, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt.
+4. die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Genesenenzertifikats im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes oder eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes; der Anspruch auf Ausstellung eines COVID-19-Genesenenzertifikates setzt das Vorliegen eines Nachweises hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in verkörperter oder digitaler Form voraus, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt und
+
+5. die Ausstellung eines ärztlichen Zeugnisses über das Vorliegen einer medizinischen Kontraindikation zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 gemäß § 4a Nummer 2.
 
 Zur Diagnostik können nach Maßgabe dieser Verordnung und der Teststrategie des Bundesministeriums für Gesundheit eine Labordiagnostik mittels Nukleinsäurenachweis, eine variantenspezifische PCR-Testung oder eine Diagnostik durch Antigen-Test gehören. Zur Diagnostik durch Antigen-Test gehören
 
@@ -115,9 +117,19 @@ Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik a
 
 7. Einrichtungen nach § 23 Absatz 3 Satz 1 Nummer 8 bis 10 und 12 des Infektionsschutzgesetzes.
 
-# § 4a – Bürgertestung
+# § 4a – Testungen bei impfunfähigen und abgesonderten Personen
 
-Asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen-Tests nach § 1 Absatz 1 Satz 4 Nummer 2.
+Folgende asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigentests:
+
+1. Personen, die zum Zeitpunkt der Testung das zwölfte Lebensjahr noch nicht vollendet haben oder in den letzten drei Monaten vor der Testung das zwölfte Lebensjahr vollendet haben,
+
+2. Personen, die aufgrund einer medizinischen Kontraindikation, insbesondere einer Schwangerschaft im ersten Schwangerschaftsdrittel, zum Zeitpunkt der Testung nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können oder in den letzten drei Monaten vor der Testung aufgrund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden konnten,
+
+3. bis zum 31. Dezember 2021 Personen, die zum Zeitpunkt der Testung das 18. Lebensjahr noch nicht vollendet haben, zum Zeitpunkt der Testung Schwangere und zum Zeitpunkt der Testung Studierende, bei denen eine Schutzimpfung mit anderen als den vom Paul-Ehrlich-Institut im Internet unter der Adresse http://www.pei.de/impfstoffe/covid-19 genannten Impfstoffen erfolgt ist,
+
+4. Personen, die zum Zeitpunkt der Testung an klinischen Studien zur Wirksamkeit von Impfstoffen gegen das Coronavirus SARS-CoV-2 teilnehmen oder in den letzten drei Monaten vor der Testung an solchen Studien teilgenommen haben,
+
+5. Personen, die sich zum Zeitpunkt der Testung aufgrund einer nachgewiesenen Infektion mit dem Coronavirus SARS-CoV-2 in Absonderung befinden, wenn die Testung zur Beendigung der Absonderung erforderlich ist.
 
 # § 4b – Bestätigende Diagnostik- und variantenspezifische PCR-Testung
 
@@ -125,9 +137,9 @@ Nach einem positiven Antigen-Test oder einem positiven Pooling-Test mittels eine
 
 # § 5 – Häufigkeit der Testungen
 
-(1) Testungen nach den §§ 2, 3 und 4 Absatz 1 Satz 1 Nummer 1 können für jeden Einzelfall einmal pro Person wiederholt werden. Bürgertestungen nach § 4a können im Rahmen der Verfügbarkeit von Testkapazitäten mindestens einmal pro Woche in Anspruch genommen werden. Die bestätigende Diagnostik und die variantenspezifische PCR-Testung nach § 4b umfasst für jeden Einzelfall bis zu zwei Testungen.
+(1) Testungen nach den §§ 2, 3 und 4 Absatz 1 Satz 1 Nummer 1 können für jeden Einzelfall einmal pro Person wiederholt werden. Testungen nach § 4a können im Rahmen der Verfügbarkeit von Testkapazitäten mindestens einmal pro Woche in Anspruch genommen werden. Die bestätigende Diagnostik und die variantenspezifische PCR-Testung nach § 4b umfasst für jeden Einzelfall bis zu zwei Testungen.
 
-(2) Testungen nach § 4 Absatz 1 Satz 1 Nummer 2 bis 4 können für jeden Einzelfall mindestens einmal pro Woche durchgeführt werden. Dies gilt nicht für die Anwendung von Antigen-Tests, die von den Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6 im Rahmen eines einrichtungs- oder unternehmensbezogenen Testkonzepts selbst durchgeführt werden.
+(2) Testungen nach § 4 Absatz 1 Satz 1 Nummer 2 bis 4 können für jeden Einzelfall mindestens einmal pro Woche durchgeführt werden.
 
 # § 6 – Leistungserbringung
 
@@ -137,9 +149,9 @@ Nach einem positiven Antigen-Test oder einem positiven Pooling-Test mittels eine
 
 2. die von den Stellen nach Nummer 1 als weitere Leistungserbringer beauftragten Dritten und
 
-3. Arztpraxen, Zahnarztpraxen, Apotheken, medizinische Labore, Rettungs- und Hilfsorganisationen und die von den Kassenärztlichen Vereinigungen betriebenen Testzentren.
+3. Arztpraxen, Zahnarztpraxen, Apotheken, medizinische Labore, Rettungs- und Hilfsorganisationen, und die von den Kassenärztlichen Vereinigungen betriebenen Testzentren.
 
-(2) Als weitere Leistungserbringer im Sinne von Absatz 1 Satz 1 Nummer 2 können weitere Anbieter beauftragt werden, wenn sie
+(2) Als weitere Leistungserbringer im Sinne von Absatz 1 Nummer 2 können weitere Anbieter beauftragt werden, wenn sie
 
 1. unter Einhaltung der infektionsschutzrechtlichen, medizinprodukterechtlichen und arbeitsschutzrechtlichen Anforderungen eine ordnungsgemäße Erbringung der Leistungen nach § 1 Absatz 1 Satz 2 gewährleisten,
 
@@ -149,7 +161,7 @@ Nach einem positiven Antigen-Test oder einem positiven Pooling-Test mittels eine
 
 Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann aufgehoben werden, wenn die Voraussetzungen nach Satz 1 Nummer 1 oder Nummer 2 bei der Beauftragung nicht vorgelegen haben oder nachträglich entfallen. Die zuständigen Stellen des öffentlichen Gesundheitsdienstes können Auskünfte bei weiteren Behörden einholen, soweit dies erforderlich ist, um zu prüfen, ob die Voraussetzungen für die Beauftragung oder die Aufhebung der Beauftragung vorliegen. Stellt ein beauftragter Leistungserbringer den Testbetrieb dauerhaft oder vorübergehend ein, nimmt er seine Tätigkeit nach ihrer Einstellung wieder auf oder ändern sich die der Mitteilung nach Satz 1 Nummer 3 zugrundeliegenden Tatsachen, hat er dies unverzüglich der zuständigen Stelle des öffentlichen Gesundheitsdienstes anzuzeigen.
 
-(3) Der Anspruch nach § 1 Absatz 1 Satz 1 auf Testungen durch Leistungserbringer nach Absatz 1 Satz 1 Nummer 2 und 3 besteht nur, wenn
+(3) Der Anspruch nach § 1 Absatz 1 Satz 1 auf Testungen durch Leistungserbringer nach Absatz 1 Nummer 2 und 3 besteht nur, wenn
 
 1. bei Testungen nach § 2 gegenüber dem Leistungserbringer dargelegt wurde, dass die zu testende Person von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst als Kontaktperson festgestellt wurde oder dass die zu testende Person durch die Corona-Warn-App des Robert Koch-Instituts eine Warnung mit der Statusanzeige erhöhtes Risiko erhalten hat,
 
@@ -157,7 +169,11 @@ Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann
 
 3. bei Testungen nach § 4 Absatz 1 gegenüber dem Leistungserbringer dargelegt wurde, dass die betroffene Einrichtung, das betroffene Unternehmen oder der öffentliche Gesundheitsdienst die Testung verlangt hat,
 
-4. bei Testungen nach § 4a gegenüber dem Leistungserbringer ein amtlicher Lichtbildausweis zum Nachweis der Identität der getesteten Person vorgelegt wurde.
+4. bei Testungen nach § 4a gegenüber dem Leistungserbringer Folgendes vorgelegt wurde:
+
+a) ein amtlicher Lichtbildausweis zum Nachweis der Identität der getesteten Person oder in den Fällen des § 4a Nummer 1 und 3 ein sonstiger amtlicher Lichtbildausweis der zu testenden minderjährigen Person,
+
+b) der Nachweis, dass die getestete Person aus einem der in § 4a genannten Gründe anspruchsberechtigt ist und im Fall des § 4a Nummer 2 ein ärztliches Zeugnis im Original darüber, dass die getestete Person aufgrund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden kann.
 
 (4) Im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts sind die Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6 berechtigt, die folgende Gesamtanzahl von PoC-Antigen-Tests oder Antigentests zur Eigenanwendung je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen:
 
@@ -177,7 +193,7 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 (4) Die nach § 6 Absatz 1 berechtigten Leistungserbringer sind verpflichtet, die von der Kassenärztlichen Bundesvereinigung nach Absatz 6 Nummer 1 festgelegten Angaben in den Abrechnungsunterlagen auftragsbezogen zu dokumentieren und monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats an die Kassenärztlichen Vereinigungen zu übermitteln. Die zu übermittelnden Angaben dürfen keinen Bezug zu der getesteten Person aufweisen. Vertragsärztliche Leistungserbringer können für die Abrechnung von Leistungen nach den §§ 11 und 12 den Abrechnungsweg über den Datensatz KVDT nutzen. Die erforderlichen Angaben sind elektronisch zu übermitteln. Vertragsärztliche Leistungserbringer, die den Abrechnungsweg über den Datensatz KVDT nutzen, übermitteln quartalsweise.
 
-(5) Die nach § 6 Absatz 1 berechtigten Leistungserbringer und die sonstigen abrechnenden Stellen haben die nach Absatz 4 in Verbindung mit Absatz 6 Nummer 1 zu dokumentierenden Angaben und die für den Nachweis der korrekten Durchführung und Abrechnung notwendige Auftrags- und Leistungsdokumentation bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Zur Auftrags- und Leistungsdokumentation zählen insbesondere
+(5) Die nach § 6 Absatz 1 berechtigten Leistungserbringer und die sonstigen abrechnenden Stellen haben die nach Absatz 4 in Verbindung mit Absatz 6 Nummer 1 zu dokumentierenden Angaben und die für den Nachweis der korrekten Durchführung und Abrechnung notwendige Auftrags- und Leistungsdokumentation bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Zur Auftrags- und Leistungsdokumentation zählen soweit erforderlich insbesondere
 
 1. bei nach § 6 Absatz 1 Nummer 2 beauftragten Leistungserbringern der Nachweis der Beauftragung,
 
@@ -195,9 +211,9 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 8. die schriftliche oder elektronische Bestätigung der getesteten Person oder ihres gesetzlichen Vertreters über die Durchführung des Tests.
 
-Das Nähere zur Auftrags- und Leistungsdokumentation regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1.
+Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen einzelnen Angaben nach Satz 2 Nummer 1 bis 8 in den jeweiligen Fällen ganz oder teilweise abgesehen werden kann, regelt die Kassenärztliche Bundesvereinigung in ihren Vorgaben nach Absatz 6 Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31. Dezember 2022 unverändert zu speichern oder aufzubewahren.
 
-(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 9. Juli 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
+(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 25. Oktober 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag das Nähere fest über
 
 1. die von den Leistungserbringern für die Abrechnung und für Zwecke des § 16 an die Kassenärztlichen Vereinigungen zu übermittelnden Angaben und die für den Nachweis der korrekten Abrechnung notwendigen Auftrags- und Leistungsdokumentation,
 
@@ -207,13 +223,13 @@ Das Nähere zur Auftrags- und Leistungsdokumentation regelt die Kassenärztliche
 
 4. die Erfüllung der Pflichten der Kassenärztlichen Vereinigungen.
 
-(7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 9. Juli 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b genannten Fällen und in den Fällen der §§ 3 und 4 danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
+(7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 25. Oktober 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b genannten Fällen und in den Fällen der §§ 3 und 4 danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
 
-(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
+(8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum 10. Oktober 2021 geltenden Fassung gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen Bundesvereinigung gefasst.
 
-(9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben. Ab dem 1. August 2021 wird eine Vergütung für Bürgertestungen nach § 4a nur gewährt, wenn der Leistungserbringer die Ergebnismitteilung und die Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes auch über die Corona-Warn-App des Robert Koch-Instituts anbietet und auf Wunsch der getesteten Person über die Corona-Warn-App des Robert Koch-Instituts übermittelt.
+(9) Eine Vergütung darf nicht gewährt werden, sofern die zuständigen Stellen des öffentlichen Gesundheitsdienstes der Kassenärztlichen Vereinigung eine dauerhafte oder vorübergehende Betriebseinstellung mitgeteilt haben. Eine Vergütung für Testungen nach § 4a wird nur gewährt, wenn der Leistungserbringer die Ergebnismitteilung und die Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes auch über die Corona-Warn-App des Robert Koch-Instituts anbietet und auf Wunsch der getesteten Person über die Corona-Warn-App des Robert Koch-Instituts übermittelt.
 
-(10) Alle Leistungserbringer, die Bürgertestungen nach § 4a anbieten, sind ab dem 1. August 2021 verpflichtet, der zuständigen Stelle des öffentlichen Gesundheitsdienstes oder der von ihr benannten Stelle monatlich und standortbezogen die Zahl der von ihnen erbrachten Bürgertestungen nach § 4a und die Zahl der positiven Testergebnisse zu melden. Die zuständige oder benannte Stelle kann das Nähere zum Verfahren der Meldungen festlegen. Die gemeldeten Daten können an die jeweilige Kassenärztliche Vereinigung übermittelt und für Zwecke der Abrechnungsprüfung nach § 7a Absatz 2 verwendet werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
+(10) Alle Leistungserbringer, die Testungen nach § 4a anbieten, sind verpflichtet, der zuständigen Stelle des öffentlichen Gesundheitsdienstes oder der von ihr benannten Stelle monatlich und standortbezogen die Zahl der von ihnen erbrachten Testungen nach § 4a und die Zahl der positiven Testergebnisse zu melden. Die zuständige oder benannte Stelle kann das Nähere zum Verfahren der Meldungen festlegen. Die gemeldeten Daten können an die jeweilige Kassenärztliche Vereinigung übermittelt und für Zwecke der Abrechnungsprüfung nach § 7a Absatz 2 verwendet werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
 
 # § 7a – Abrechnungsprüfung
 
@@ -225,7 +241,7 @@ Das Nähere zur Auftrags- und Leistungsdokumentation regelt die Kassenärztliche
 
 (4) Die Kassenärztliche Vereinigung soll die Staatsanwaltschaft unterrichten, wenn die Prüfung ergibt, dass ein Verdacht auf strafbare Handlungen besteht. Die Kassenärztliche Vereinigung unterrichtet die bei ihr eingerichteten Stellen zur Bekämpfung von Fehlverhalten unverzüglich, wenn die Prüfung ergibt, dass Maßnahmen nach Absatz 5 beschlossen werden müssen und Teilnehmer an der vertragsärztlichen Versorgung betroffen sind.
 
-(5) Während einer Prüfung nach Absatz 1 oder Absatz 2 können Auszahlungen der Beträge nach § 14 Absatz 1 Satz 3 durch die Kassenärztliche Vereinigung ausgesetzt werden. Die Leistungserbringer und die sonstigen abrechnenden Stellen nach den §§ 7 und 13 haben die abgerechnete und ausgezahlte Vergütung an die Kassenärztliche Vereinigung zurückzuerstatten, soweit die Kassenärztliche Vereinigung im Rahmen der Prüfung nach den Absätzen 1 und 2 feststellt, dass die Vergütung zu Unrecht gewährt wurde. Die Vergütung wurde zu Unrecht gewährt, wenn die abgerechneten Leistungen nicht oder nicht ordnungsgemäß erbracht worden sind, die entsprechenden Dokumentationspflichten nicht vollständig erfüllt worden sind oder die geltend gemachten Kosten nicht den tatsächlichen Kosten entsprochen haben. Der Leistungserbringer trägt für die ordnungsgemäße Leistungserbringung und die korrekte Abrechnung der Kosten einschließlich der Erfüllung der jeweiligen Dokumentationspflichten die Darlegungs- und Beweislast. Die Kassenärztliche Vereinigung macht Rückzahlungsansprüche durch Bescheid geltend oder kann den sich ergebenden Rückerstattungsbetrag mit weiteren Forderungen der Leistungserbringer und der jeweiligen sonstigen abrechnenden Stelle nach den §§ 7 und 13 verrechnen. Die Kassenärztliche Vereinigung zahlt die Rückerstattungsbeträge und die nach Abschluss einer Prüfung nach Absatz 1 oder Absatz 2 nicht ausgezahlten Beträge nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
+(5) Während einer Prüfung nach Absatz 1 oder Absatz 2 können Auszahlungen der Beträge nach § 14 Absatz 1 Satz 3 durch die Kassenärztliche Vereinigung ausgesetzt werden. Die Leistungserbringer und die sonstigen abrechnenden Stellen nach den §§ 7 und 13 haben die abgerechnete und ausgezahlte Vergütung an die Kassenärztliche Vereinigung zurückzuerstatten, soweit die Kassenärztliche Vereinigung im Rahmen der Prüfung nach den Absätzen 1 und 2 feststellt, dass die Vergütung zu Unrecht gewährt wurde. Die Vergütung wurde zu Unrecht gewährt, wenn die abgerechneten Leistungen nicht oder nicht ordnungsgemäß erbracht worden sind, die entsprechenden Dokumentationspflichten nicht vollständig erfüllt worden sind oder die geltend gemachten Kosten nicht den tatsächlichen Kosten entsprochen haben. Der Leistungserbringer trägt für die ordnungsgemäße Leistungserbringung und die korrekte Abrechnung der Kosten einschließlich der Erfüllung der jeweiligen Dokumentationspflichten die Darlegungs- und Beweislast. Die Kassenärztliche Vereinigung macht Rückzahlungsansprüche durch Bescheid geltend oder kann den sich ergebenden Rückerstattungsbetrag mit weiteren Forderungen der Leistungserbringer und der jeweiligen sonstigen abrechnenden Stelle nach §§ 7 und 13 verrechnen. Die Kassenärztliche Vereinigung zahlt die Rückerstattungsbeträge und die nach Abschluss einer Prüfung nach Absatz 1 oder Absatz 2 nicht ausgezahlten Beträge nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
 
 (6) Zum Zweck der gegenseitigen Information über Tatsachen mit Bedeutung für die Beauftragung und die Aufhebung der Beauftragung sowie für die Abrechnungsprüfung wirken die zuständigen Stellen des öffentlichen Gesundheitsdienstes mit den Kassenärztlichen Vereinigungen zusammen. Im Rahmen eines regelmäßigen Austauschs unterrichten
 
@@ -233,7 +249,7 @@ Das Nähere zur Auftrags- und Leistungsdokumentation regelt die Kassenärztliche
 
 a) die Testkapazität eines beauftragten Leistungserbringers je Standort auf der Grundlage der Mitteilung nach § 6 Absatz 2 Satz 1 Nummer 3,
 
-b) die Anzahl der durchgeführten Bürgertestungen nach § 4a und der positiven Testergebnisse je Standort auf der Grundlage der Mitteilungen nach § 7 Absatz 10 Satz 1,
+b) die Anzahl der durchgeführten Testungen nach § 4a und der positiven Testergebnisse je Standort auf der Grundlage der Mitteilungen nach § 7 Absatz 10 Satz 1,
 
 c) eine dauerhafte oder vorübergehende Betriebseinstellung sowie die erneute Aufnahme des Betriebs nach einer vorübergehenden Betriebseinstellung,
 
@@ -241,7 +257,7 @@ c) eine dauerhafte oder vorübergehende Betriebseinstellung sowie die erneute Au
 
 Zum Zweck der gegenseitigen Information können die zuständigen Stellen des öffentlichen Gesundheitsdienstes und die Kassenärztlichen Vereinigungen einander auch personenbezogene Daten übermitteln, soweit dies zum Zweck der Beauftragung, der Aufhebung der Beauftragung oder der Abrechnungsprüfung erforderlich ist.
 
-# § 7b – Abrechnung der Leistungen der Apotheken bei der Erstellungdes COVID-19-Genesenenzertifikates im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes
+# § 7b – Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22 Absatz 6 des Infektionsschutzgesetzes
 
 (1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach § 12 Absatz 6 für die Ausstellung eines COVID-19-Genesenenzertifikates im Sinne von § 22 Absatz 6 des Infektionsschutzgesetzes ergebende Vergütung mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Für die Erstellung von COVID-19-Genesenenzertifikaten im Sinne des § 22 Absatz 6 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Genesenenzertifikate und der dafür geltend gemachte Erstattungsbetrag ergibt. Die übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Genesenenzertifikat im Sinne von § 22 Absatz 6 des Infektionsschutzgesetzes ausgestellt wurde. Die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach Absatz 2 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
@@ -255,7 +271,7 @@ Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung un
 
 # § 9 – Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) oder für eine variantenspezifische PCR-Testung
 
-Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für eine variantenspezifische PCR-Testung einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung bis zum 30. April 2021 50,50 Euro und ab dem 1. Mai 2021 43,56 Euro. Pro Einzelfall beträgt die Vergütung bis zum 30. April 2021 höchstens 101 Euro und ab dem 1. Mai 2021 höchstens 82,96 Euro.
+Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für eine variantenspezifische PCR-Testung einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung 43,56 Euro. Pro Einzelfall beträgt die Vergütung höchstens 82,96 Euro.
 
 # § 10 – Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
 
@@ -263,15 +279,15 @@ Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergü
 
 # § 11 – Vergütung von Sachkosten für PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung
 
-An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absatz 4 berechtigten Einrichtungen oder Unternehmen ist für selbst beschaffte PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung für Leistungen ab dem 1. Juli 2021 eine Pauschale von 3,50 Euro je Test zu zahlen.
+An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absatz 4 berechtigten Einrichtungen oder Unternehmen ist für selbst beschaffte PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung eine Pauschale von 3,50 Euro je Test zu zahlen.
 
 # § 12 – Vergütung von weiteren Leistungen
 
-(1) Die an die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer zu zahlende Vergütung für das Gespräch, die Entnahme von Körpermaterial, die PoC-Diagnostik, die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes beträgt für Leistungen ab dem 1. Juli 2021 je Testung 8 Euro. Eine Vergütung nach Satz 1 wird auch gewährt, wenn anstatt einer PoC-Diagnostik oder nach einem positiven Antigen-Test oder nach einem Pooling-Test mittels eines Nukleinsäurenachweises ein anderer Leistungserbringer beauftragt wird und in diesem Zusammenhang Körpermaterial entnommen und an den beauftragten Leistungserbringer versandt wird.
+(1) Die an die nach § 6 Absatz 1 Nummer 2 und 3 berechtigten Leistungserbringer zu zahlende Vergütung für das Gespräch, die Entnahme von Körpermaterial, die PoC-Diagnostik, die Ergebnismitteilung, die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 einschließlich der Erstellung eines COVID-19-Testzertifikats im Sinne des § 22 Absatz 7 des Infektionsschutzgesetzes beträgt je Testung 8 Euro. Eine Vergütung nach Satz 1 wird auch gewährt, wenn anstatt einer PoC-Diagnostik oder nach einem positiven Antigen-Test oder nach einem Pooling-Test mittels eines Nukleinsäurenachweises ein anderer Leistungserbringer beauftragt wird und in diesem Zusammenhang Körpermaterial entnommen und an den beauftragten Leistungserbringer versandt wird.
 
 (2) Die Vergütung bei überwachten Antigen-Tests zur Eigenanwendung beträgt je Testung 5 Euro.
 
-(3) Sofern Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung in eigener Verantwortung beschaffen und nutzen, beträgt die zu zahlende Vergütung für Leistungen nach Absatz 1 Satz 1 ab dem 1. Juli 2021 je Testung 8 Euro; wird die Person, die die Testung durchführt, unentgeltlich tätig, darf eine Vergütung nicht abgerechnet werden. Absatz 2 gilt entsprechend.
+(3) Sofern Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 4 und 5 im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung in eigener Verantwortung beschaffen und nutzen, beträgt die zu zahlende Vergütung für Leistungen nach Absatz 1 Satz 1 je Testung 8 Euro; wird die Person, die die Testung durchführt, unentgeltlich tätig, darf eine Vergütung nicht abgerechnet werden. Absatz 2 gilt entsprechend.
 
 (4) Für die ärztliche Schulung des Personals in nichtärztlich oder nichtzahnärztlich geführten Einrichtungen nach § 4 Absatz 2 Nummer 1 bis 6 und von einem Leistungserbringer nach § 6 Absatz 1 Nummer 2 und 3, der kein ärztlicher oder zahnärztlicher Leistungserbringer ist, zur Anwendung und Auswertung der PoC-Antigen-Tests und überwachten Antigen-Tests zur Eigenanwendung erhält der durchführende Arzt für eine höchstens alle zwei Monate je Einrichtung stattfindende Schulung 70 Euro je Schulung. Wird die Person, die die Schulung durchführt, unentgeltlich tätig oder führt eine Stelle des öffentlichen Gesundheitsdienstes diese Schulung durch, dürfen die Schulungsmaßnahmen nicht vergütet werden.
 
@@ -279,17 +295,19 @@ An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absa
 
 (6) Die Vergütung der nach § 22 Absatz 6 Satz 1 des Infektionsschutzgesetzes zur Ausstellung von COVID-19-Genesenenzertifikaten berechtigten Personen beträgt je Ausstellung eines COVID-19-Genesenenzertifikats 6 Euro. Die Vergütung wird um 4 Euro gemindert, wenn die Ausstellung unter Einsatz informationstechnischer Systeme erfolgt, die in der allgemeinen ärztlichen Versorgung zur Verarbeitung von Patientendaten eingesetzt werden.
 
+(7) Die Vergütung von Arztpraxen für das ärztliche Zeugnis nach § 1 Absatz 1 Satz 2 Nummer 5 beträgt je Anspruchsberechtigten pauschal 5 Euro, zuzüglich 90 Cent, sofern ein postalischer Versand des ärztlichen Zeugnisses erfolgt.
+
 # § 13 – Finanzierung von Testzentren
 
-(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 5 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
+(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 5 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
 
-(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 und 3. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
+(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung und Nummer 3. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
 
 (3) Die der Rechnungslegung zugrundeliegenden Unterlagen sind bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. § 7 Absatz 5 gilt entsprechend.
 
 (4) Die zur Abrechnung mit den Krankenkassen nach § 105 Absatz 3 des Fünften Buches Sozialgesetzbuch eingereichten Beträge und rechnungsbegründenden Unterlagen sowie die Höhe des erstatteten Betrags sind für den Zweck der Abrechnung nach dieser Verordnung bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-(5) Die erstattungsfähigen Kosten nach Absatz 1 Satz 1 werden durch die Kassenärztliche Vereinigung nach § 14 Absatz 1 an das Bundesamt für Soziale Sicherung übermittelt. Für Testzentren nach § 6 Absatz 1 Satz 1 Nummer 1 rechnen die Betreiber für jedes einzelne Testzentrum getrennt die erstattungsfähigen Kosten nach Absatz 1 Satz 1 gegenüber der Kassenärztlichen Vereinigung ab, in deren Bezirk das jeweilige Testzentrum liegt. Die Kassenärztliche Vereinigung behält für ihren zusätzlichen Aufwand der Abrechnung für Testzentren nach § 6 Absatz 1 Satz 1 Nummer 1 einen Verwaltungskostensatz in Höhe von 1 Prozent pro Abrechnungsbetrag ein. Für die Abrechnung der Kosten nach Absatz 1 Satz 4 gilt § 13 Absatz 5 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung.
+(5) Die erstattungsfähigen Kosten nach Absatz 1 Satz 1 werden durch die Kassenärztliche Vereinigung nach § 14 Absatz 1 an das Bundesamt für Soziale Sicherung übermittelt. Für Testzentren nach § 6 Absatz 1 Nummer 1 rechnen die Betreiber für jedes einzelne Testzentrum getrennt die erstattungsfähigen Kosten nach Absatz 1 Satz 1 gegenüber der Kassenärztlichen Vereinigung ab, in deren Bezirk das jeweilige Testzentrum liegt. Die Kassenärztliche Vereinigung behält für ihren zusätzlichen Aufwand der Abrechnung für Testzentren nach § 6 Absatz 1 Nummer 1 einen Verwaltungskostensatz in Höhe von 1 Prozent pro Abrechnungsbetrag ein. Für die Abrechnung der Kosten nach Absatz 1 Satz 4 gilt § 13 Absatz 5 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung.
 
 # § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
 
@@ -321,11 +339,11 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 (4) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach Vornahme der Zahlungen nach Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen ausgezahlten Beträge.
 
-(5) Die durch die Kassenärztlichen Vereinigungen gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung übermittelten Gesamtbeträge werden nach Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die Übermittlungen nach Satz 1 gilt Absatz 1 Satz 2 entsprechend.
+(5) Die durch die Kassenärztlichen Vereinigungen gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 10. Oktober 2021 geltenden Fassung übermittelten Gesamtbeträge werden nach Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die Übermittlungen nach Satz 1 gilt Absatz 1 Satz 2 entsprechend.
 
 # § 15 – Verfahren für die Finanzierung aus Bundesmitteln
 
-(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Mit der ersten Übermittlung meldet das Bundesamt für Soziale Sicherung den Betrag der Zahlungen, die nach § 14 Absatz 1 Satz 3 ab dem 1. Januar 2021 erfolgt sind und nicht bereits nach § 15 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung erstattet wurden. Der Bund erstattet die Beträge nach den Sätzen 1 und 2 innerhalb von einer Woche nach der Übermittlung der Aufstellung an die Liquiditätsreserve des Gesundheitsfonds.
+(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
 
 (2) Ab dem 1. Januar 2022 übermittelt das Bundesamt für Soziale Sicherung dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 in Verbindung mit § 14 Absatz 1 Satz 1 Nummer 2 bis 5 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
@@ -353,9 +371,9 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 und 7 zu differenzieren.
 
-(2) Die Kassenärztlichen Vereinigungen übermitteln zudem die Daten gemäß § 16 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung, soweit diese Übermittlungen noch nicht erfolgt sind.
+(2) Die Kassenärztlichen Vereinigungen übermitteln zudem die Daten gemäß § 16 der Coronavirus-Testverordnung in der bis zum 10. Oktober 2021 geltenden Fassung, soweit diese Übermittlungen noch nicht erfolgt sind.
 
-(3) Die Kassenärztliche Bundesvereinigung veröffentlicht bis zum Ende des Monats, in dem die Übermittlung der Angaben nach Absatz 1 erfolgt, die Anzahl der jeweils von den Kassenärztlichen Vereinigungen abgerechneten Bürgertestungen nach § 4a und den Gesamtbetrag, der sich je Kassenärztlicher Vereinigung aus der Abrechnung der Bürgertestungen nach § 4a ergibt, sowie nach Abstimmung mit den Ländern weitere für statistische Zwecke relevante Angaben auf ihrer Internetseite.
+(3) Die Kassenärztliche Bundesvereinigung veröffentlicht bis zum Ende des Monats, in dem die Übermittlung der Angaben nach Absatz 1 erfolgt, die Anzahl der jeweils von den Kassenärztlichen Vereinigungen abgerechneten Testungen nach § 4a und den Gesamtbetrag, der sich je Kassenärztlicher Vereinigung aus der Abrechnung der Testungen nach § 4a ergibt, sowie nach Abstimmung mit den Ländern weitere für statistische Zwecke relevante Angaben auf ihrer Internetseite.
 
 # § 17 – Labordiagnostik durch Tierärzte
 
@@ -365,10 +383,10 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 # § 18 – Übergangsvorschrift
 
-Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 30. November 2020 (BAnz AT 01.12.2020 V1), die durch Artikel 1 der Verordnung vom 15. Januar 2021 (BAnz AT 15.01.2021 V1) geändert worden ist, nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 27. Januar 2021 (BAnz AT 27.01.2021 V2) und nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 8. März 2021 (BAnz AT 09.03.2021 V1), die durch Artikel 1 der Verordnung vom 3. Mai 2021 (BAnz 04.05.2021 V1) geändert worden ist, gelten vorbehaltlich der Sätze 2 und 3 fort. Beauftragungen Dritter als Testzentrum nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung gelten ab dem 1. Juli 2021 als Beauftragungen Dritter nach § 6 Absatz 1 Nummer 2, soweit sie nicht nach Satz 3 unwirksam werden. Eine bis zum 30. Juni 2021 erfolgte Beauftragung nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung durch Allgemeinverfügung wird mit Ablauf des 20. Juli 2021 unwirksam. Leistungen nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung, die bis zum 30. Juni 2021 erbracht wurden, werden nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung vergütet.
+Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 30. November 2020 (BAnz AT 01.12.2020 V1), die durch Artikel 1 der Verordnung vom 15. Januar 2021 (BAnz AT 15.01.2021 V1) geändert worden ist, nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 27. Januar 2021 (BAnz AT 27.01.2021 V2), nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 8. März 2021 (BAnz AT 09.03.2021 V1), die durch Artikel 1 der Verordnung vom 3. Mai 2021 (BAnz AT 04.05.2021 V1) geändert worden ist und nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, gelten vorbehaltlich der Sätze 2 und 3 fort. Beauftragungen Dritter als Testzentrum nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung gelten seit dem 1. Juli 2021 als Beauftragungen Dritter nach § 6 Absatz 1 Nummer 2, soweit sie nicht nach Satz 3 unwirksam geworden sind. Eine bis zum 30. Juni 2021 erfolgte Beauftragung nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung durch Allgemeinverfügung ist seit dem 20. Juli 2021 unwirksam. Leistungen nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung, die bis zum 30. Juni 2021 erbracht wurden, werden nach den §§ 11 und 12 Absatz 1 bis 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung vergütet.
 
 # § 19 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 1. Juli 2021 in Kraft; sie tritt vorbehaltlich des Satzes 2 am 31. Dezember 2021 außer Kraft. § 15 Absatz 2 tritt nach § 20i Absatz 3 Satz 16 des Fünften Buches Sozialgesetzbuch außer Kraft.
+(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt vorbehaltlich des Satzes 2 am 31. Dezember 2021 außer Kraft. § 15 Absatz 2 tritt nach § 20i Absatz 3 Satz 16 des Fünften Buches Sozialgesetzbuch außer Kraft.
 
-(2) Die Coronavirus-Testverordnung vom 8. März 2021 (BAnz AT 09.03.2021 V1), die durch Artikel 1 der Verordnung vom 3. Mai 2021 (BAnz AT 04.05.2021 V1) geändert worden ist, tritt mit Ablauf des 30. Juni 2021 außer Kraft.
+(2) Die Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, tritt mit Ablauf des 10. Oktober 2021 außer Kraft.
