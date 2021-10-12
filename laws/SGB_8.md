@@ -1451,6 +1451,8 @@ Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt diese Pers
 
 (6) Weitergehendes Landesrecht bleibt unberührt.
 
+# § 24a – (weggefallen)
+
 # § 25 – Unterstützung selbst organisierter Förderung von Kindern
 
 Mütter, Väter und andere Erziehungsberechtigte, die die Förderung von Kindern selbst organisieren wollen, sollen beraten und unterstützt werden.

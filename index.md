@@ -2292,6 +2292,8 @@
 - [GAD](laws/GAD.md) Gesetz über den Auswärtigen Dienst
 - [GärtnAusbV](laws/GärtnAusbV.md) Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
 - [GaFG](laws/GaFG.md) Gesetz zur Errichtung des Sondervermögens „Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
+- [GaFinHG](laws/GaFinHG.md) Gesetz über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter
+- [GaFöG](laws/GaFöG.md) Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter
 - [GAKG](laws/GAKG.md) Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"
 - [GalvMstrV](laws/GalvMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Galvaniseur-Handwerk
 - [GAPDZG](laws/GAPDZG.md) Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen
@@ -3915,6 +3917,7 @@
 - [Münz20EuroBek 2021-06-21/1](laws/Münz20EuroBek_2021-06-21_1.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Fußball-Europameisterschaft 2020“)
 - [Münz20EuroBek 2021-06-21/2](laws/Münz20EuroBek_2021-06-21_2.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Schwarzspecht“ der Serie „Heimische Vögel“)
 - [Münz25EuroBek 2016-04-04](laws/Münz25EuroBek_2016-04-04.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „25 Jahre Deutsche Einheit“)
+- [Münz25EuroBek 2021-09-15](laws/Münz25EuroBek_2021-09-15.md) Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 - [Münz2DMBek 1970](laws/Münz2DMBek_1970.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1973](laws/Münz2DMBek_1973.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 - [Münz2DMBek 1979](laws/Münz2DMBek_1979.md) Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
@@ -4898,6 +4901,7 @@
 - [SeeBewachV](laws/SeeBewachV.md) Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen
 - [SeeEigensichV](laws/SeeEigensichV.md) Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren
 - [SeeFischG](laws/SeeFischG.md) Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union
+- [SeefischGBußgÜbertrV](laws/SeefischGBußgÜbertrV.md) Verordnung zur Übertragung der Ermächtigung zum Erlass einer Bußgeldverordnung nach dem Seefischereigesetz
 - [SeeFischVtrG 1976](laws/SeeFischVtrG_1976.md) Gesetz zu dem Übereinkommen vom 23. Oktober 1969 zur Erhaltung der lebenden Schätze des Südostatlantiks, zu dem Protokoll vom 21. Januar 1972 zur Änderung des Übereinkommens vom 20. Dezember 1962 über den Schutz des Lachsbestandes in der Ostsee, zur Konvention vom 13. September 1973 über die Fischerei und den Schutz der lebenden Ressourcen in der Ostsee und den Belten sowie zur Änderung des Seefischerei-Vertragsgesetzes 1971
 - [SeefiV](laws/SeefiV.md) Seefischereiverordnung
 - [SeeFSichV 1993](laws/SeeFSichV_1993.md) Verordnung über die Sicherung der Seefahrt
@@ -5412,7 +5416,7 @@
 - [SVwGÄndG 8](laws/SVwGÄndG_8.md) Gesetz zur Weiterentwicklung des Selbstverwaltungsrechts und zur Vereinfachung des Wahlverfahrens
 - [SVwHKVorRV](laws/SVwHKVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin
 - [SVWO](laws/SVWO.md) Wahlordnung für die Sozialversicherung
-- [SVZustÜV](laws/SVZustÜV.md) Verordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung
+- [SVZustAnO](laws/SVZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung
 - [SymbolVO](laws/SymbolVO.md) Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle
 - [SysStabV](laws/SysStabV.md) Verordnung zur Gewährleistung der technischen Sicherheit und Systemstabilität des Elektrizitätsversorgungsnetzes
 - [SZAG](laws/SZAG.md) Gesetz zur innerstaatlichen Aufteilung von Sanktionszahlungen zur Sicherstellung der Haushaltsdisziplin in der Europäischen Union
