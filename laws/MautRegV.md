@@ -47,9 +47,11 @@ a) Firmenbezeichnung,
 
 b) Geschäftsadresse,
 
-c) Internetadresse und
+c) Internetadresse,
 
-3. den Schlussfolgerungen aus den Überprüfungen nach § 5 Nummer 6 des Mautsystemgesetzes sowie Angaben über Änderungen aus den Ergebnissen der Überprüfungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes.
+3. den Schlussfolgerungen des Audits nach § 5 Nummer 6 des Mautsystemgesetzes und Angaben über Änderungen aus den Ergebnissen der Überprüfungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes sowie
+
+4. dem Namen und der Adresse der zentralen Anlaufstelle nach § 37 des Mautsystemgesetzes, einschließlich deren zentraler E-Mail-Adresse und deren zentraler Telefonnummer.
 
 # § 4 – Verfahren zur Führung und Aktualisierung des Mautdienstregisters
 
