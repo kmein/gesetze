@@ -41,9 +41,9 @@ Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 1 des Maut
 
 a) die EG-Konformitätserklärung oder
 
-b) das EG-Zertifikat einer nach § 27 des Mautsystemgesetzes notifizierten Stelle zur Bescheinigung der Konformität der Interoperabilitätskomponenten nach Nummer 1 des Anhangs IV der Entscheidung 2009/750/EG der Kommission vom 6. Oktober 2009 über die Festlegung der Merkmale des europäischen elektronischen Mautdienstes und seiner technischen Komponenten (ABl. L 268 vom 13.10.2009, S. 11).
+b) das Zertifikat einer nach § 27 des Mautsystemgesetzes notifizierten Stelle zur Bescheinigung der Konformität der Interoperabilitätskomponenten nach Anhang III der Durchführungsverordnung (EU) 2020/204 der Kommission vom 28. November 2019 über detaillierte Pflichten der Anbieter des europäischen elektronischen Mautdienstes, den Mindestinhalt der Vorgabe für das EETS-Gebiet, elektronische Schnittstellen und Anforderungen an Interoperabilitätskomponenten sowie zur Aufhebung der Entscheidung 2009/750/EG (ABl. L 43 vom 17.2.2020, S. 49).
 
-(2) Die EG-Konformitätserklärung nach Absatz 1 Nummer 2 Buchstabe a ist vom Hersteller der Interoperabilitätskomponenten, dem Antragsteller oder einem Bevollmächtigten nach Maßgabe der Nummer 1 des Anhangs IV der Entscheidung 2009/750/EG und nach Maßgabe des Verfahrens aus den Modulen des Beschlusses Nummer 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates (ABl. L 218 vom 13.8.2008, S. 82) zu erstellen. Der Inhalt der EG-Konformitätserklärung muss die Vorgaben der Nummer 3 des Anhangs IV der Entscheidung 2009/750/EG erfüllen.
+(2) Die EG-Konformitätserklärung nach Absatz 1 Nummer 2 Buchstabe a ist vom Hersteller der Interoperabilitätskomponenten, dem Antragsteller oder einem Bevollmächtigten nach Maßgabe des Anhangs III der Durchführungsverordnung (EU) 2020/204 zu erstellen. Der Inhalt der EG-Konformitätserklärung muss die Vorgaben des Anhangs III Ziffer VI der Durchführungsverordnung (EU) 2020/204 erfüllen.
 
 (3) Die EG-Konformitätserklärungen müssen in derselben Sprache abgefasst sein wie die Betriebsanleitungen der jeweiligen Interoperabilitätskomponente. Sind die EG-Konformitätserklärungen nicht in deutscher Sprache abgefasst, ist eine amtlich beglaubigte Übersetzung vorzulegen.
 
@@ -65,7 +65,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 # § 7 – Finanzielle Leistungsfähigkeit
 
-(1) Die Voraussetzung des § 5 Nummer 5 des Mautsystemgesetzes ist erfüllt, wenn der Antragsteller über die nach seinem Geschäftsmodell erforderlichen finanziellen Mittel zur Aufnahme und ordnungsgemäßen Führung des Betriebes der mautdienstbezogenen Leistungen in allen Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum verfügt.
+(1) Die Voraussetzung des § 5 Nummer 5 des Mautsystemgesetzes ist erfüllt, wenn der Antragsteller über die nach seinem Geschäftsmodell erforderlichen finanziellen Mittel zur Aufnahme und ordnungsgemäßen Führung des Betriebes der mautdienstbezogenen Leistungen in den nach § 12 Absatz 1 des Mautsystemgesetzes abzudeckenden mautpflichtigen Streckennetzen in den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum verfügt.
 
 (2) Der Antragsteller kann sich auf die finanzielle Leistungsfähigkeit verbundener Unternehmen berufen. In diesem Fall hat der Antragsteller nachzuweisen, dass ihm die nach Satz 1 erforderlichen Mittel dauerhaft und verbindlich zur Verfügung stehen. Dies kann unter anderem durch die Vorlage von Verträgen oder entsprechender Verpflichtungserklärungen des Unternehmens oder der anderen verbundenen Unternehmen erfolgen.
 
@@ -105,7 +105,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 5. Anerkennungsverlust und dessen Folgen, zum Beispiel Verlust von Kunden,
 
-6. Nichterreichen oder Nichtaufrechterhaltung der vollständigen Abdeckung aller Mautgebiete in den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum,
+6. Nichterreichen oder Nichtaufrechterhaltung der vollständigen Abdeckung der nach § 12 Absatz 1 des Mautsystemgesetzes abzudeckenden mautpflichtigen Streckennetze in den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum,
 
 7. Schwierigkeiten bei der Erreichung der vertraglich vereinbarten Qualitätsbedingungen,
 
@@ -151,7 +151,7 @@ In den Fällen des § 6 Absatz 2 Satz 1 und § 7 Absatz 2 ist die Voraussetzung 
 
 2. eine Bescheinigung in Steuersachen des Finanzamtes,
 
-3. eine Unbedenklichkeitsbescheinigung der deutschen Rentenversicherung und Berufsgenossenschaft,
+3. eine Unbedenklichkeitsbescheinigung der Krankenkassen, bei denen die Beschäftigten versichert sind, und der Berufsgenossenschaft,
 
 4. den Antrag auf Vorlage eines Führungszeugnisses oder eines Europäischen Führungszeugnisses beim Bundesamt für Güterverkehr und
 
@@ -171,7 +171,7 @@ Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7 Absatz 2
 
 (2) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren bestimmen sich nach der Anlage.
 
-(3) Für öffentliche Leistungen nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes, die vor dem Inkrafttreten dieser Verordnung beantragt wurden, werden vom Bundesamt für Güterverkehr Gebühren nach Maßgabe dieser Verordnung erhoben, soweit bei den öffentlichen Leistungen unter Hinweis auf das bevorstehende Inkrafttreten dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten ist.
+(3) (weggefallen)
 
 # Anlage – (zu § 11)
 

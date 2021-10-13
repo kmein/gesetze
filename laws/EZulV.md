@@ -3,8 +3,6 @@
  
 # Inhaltsübersicht
 
-# Inhaltsübersicht
-
 # § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Gewährung von Zulagen zur Abgeltung besonderer, bei der Bewertung des Amtes oder bei der Regelung der Anwärterbezüge nicht berücksichtigter Erschwernisse (Erschwerniszulagen) für Empfänger von Dienstbezügen und Anwärterbezügen des Bundes. Durch eine Erschwerniszulage wird ein mit der Erschwernis verbundener Aufwand mit abgegolten.

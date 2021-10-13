@@ -31,7 +31,7 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 5. die Emissionsklasse des Fahrzeuges nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung,
 
-6. die Positionsdaten des zum Zweck der Mauterhebung im Fahrzeug eingebauten oder im Fahrzeug angebrachten Fahrzeuggerätes.
+6. die Positionsdaten des zum Zweck der Mauterhebung im Fahrzeug befindlichen Fahrzeuggerätes.
 
 # § 3 – Mauterhebungssysteme
 
@@ -51,17 +51,17 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 # § 5 – Automatisches Mauterhebungssystem
 
-(1) Die Teilnahme an dem automatischen Mauterhebungssystem erfordert die Anmeldung des Mautschuldners beim Betreiber oder einem Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes (Anbieter) und den fachgerechten Einbau oder die ordnungsgemäße Anbringung eines Fahrzeuggerätes in dem mautpflichtigen Fahrzeug vor der mautpflichtigen Straßenbenutzung. Das Fahrzeuggerät ist eine elektronische Einrichtung, mit der die Positionsdaten des Fahrzeuges festgestellt und durch den Betreiber oder einen Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes verarbeitet werden. Der Mautschuldner hat bei der Anmeldung die für die Mauterhebung maßgeblichen Tatsachen gemäß § 2 Nummer 1, 4 und 5 wahrheitsgemäß und vollständig anzugeben. Diese Daten sind im Fahrzeuggerät zu speichern. Einem Fahrzeuggerät im Sinne des Satzes 2 steht ein Fahrzeuggerät im Sinne des § 16 Absatz 2 des Mautsystemgesetzes gleich.
+(1) Die Teilnahme an dem automatischen Mauterhebungssystem erfordert die Anmeldung des Mautschuldners beim Betreiber oder einem Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes (Anbieter) und den fachgerechten Einbau oder die ordnungsgemäße Anbringung eines Fahrzeuggerätes in dem mautpflichtigen Fahrzeug vor der mautpflichtigen Straßenbenutzung. Das Fahrzeuggerät ist eine elektronische Einrichtung, mit der die Positionsdaten des Fahrzeuges festgestellt und durch den Betreiber oder einen Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes verarbeitet werden. Der Mautschuldner hat bei der Anmeldung die für die Mauterhebung maßgeblichen Tatsachen gemäß § 2 Nummer 1, 4 und 5 wahrheitsgemäß und vollständig anzugeben. Diese Daten sind im Fahrzeuggerät oder in der Applikation des Mobilgerätes, das mit dem Fahrzeuggerät verbunden ist, zu speichern. Einem Fahrzeuggerät im Sinne des Satzes 2 steht ein Fahrzeuggerät im Sinne des § 16 Absatz 2 des Mautsystemgesetzes gleich.
 
 (2) Änderungen der in § 2 Nummer 1, 4 und 5 genannten Tatsachen hat der Mautschuldner dem Betreiber oder seinem Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes innerhalb eines Monats ab dem Zeitpunkt der Änderung mitzuteilen.
 
-(3) Der Mautschuldner hat das Fahrzeuggerät ordnungsgemäß zu bedienen. Insbesondere hat er vor jeder mautpflichtigen Straßenbenutzung zu überprüfen, ob
+(3) Der Mautschuldner hat das Fahrzeuggerät und die Applikation des Mobilgerätes, das mit dem Fahrzeuggerät verbunden ist, ordnungsgemäß zu bedienen. Insbesondere hat er vor jeder mautpflichtigen Straßenbenutzung zu überprüfen, ob
 
-1. die im Fahrzeuggerät gespeicherte Gewichtsklasse das zulässige Gesamtgewicht des Fahrzeuges oder der Fahrzeugkombination im Sinne des § 1 Absatz 6 des Bundesfernstraßenmautgesetzes umfasst und
+1. die im Fahrzeuggerät und in der Applikation des Mobilgerätes gespeicherte Gewichtsklasse das zulässige Gesamtgewicht des Fahrzeuges oder der Fahrzeugkombination im Sinne des § 1 Absatz 6 des Bundesfernstraßenmautgesetzes umfasst und
 
-2. die im Fahrzeuggerät gespeicherte Anzahl der Achsen mit der Anzahl der Achsen des Fahrzeuges oder der Fahrzeugkombination übereinstimmt,
+2. die im Fahrzeuggerät und in der Applikation des Mobilgerätes gespeicherte Anzahl der Achsen mit der Anzahl der Achsen des Fahrzeuges oder der Fahrzeugkombination übereinstimmt,
 
-mit dem oder der die mautpflichtige Straßenbenutzung durchgeführt werden soll. Im Falle einer Abweichung hat der Mautschuldner die gespeicherten Angaben zur Gewichtsklasse und der Anzahl der Achsen zu korrigieren.
+mit dem oder der die mautpflichtige Straßenbenutzung durchgeführt werden soll. Im Falle einer Abweichung hat der Mautschuldner die gespeicherten Angaben zur Gewichtsklasse und der Anzahl der Achsen zu korrigieren. Der Mautschuldner hat dafür Sorge zu tragen, dass die Merkmale der Fahrzeugklassifizierung im Fahrzeuggerät und in der Applikation des Mobilgerätes übereinstimmen.
 
 (4) Der Mautschuldner muss vor Beginn jeder mautpflichtigen Straßenbenutzung überprüfen, ob das Fahrzeuggerät betriebsbereit ist. Stellt er fest, dass dies nicht der Fall ist, hat er vor Beginn der mautpflichtigen Straßenbenutzung für dessen betriebsbereiten Zustand Sorge zu tragen. Kann die Betriebsbereitschaft des Fahrzeuggerätes vor Beginn der mautpflichtigen Straßenbenutzung nicht wiederhergestellt werden, so hat der Mautschuldner das manuelle Mauterhebungssystem zu benutzen.
 
@@ -135,7 +135,7 @@ Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterver
 
 2. für eine vollständig nicht befahrene Strecke nachweist, dass er die maßgebliche Strecke vollständig überhaupt nicht befahren hat.
 
-(2) Das Bundesamt für Güterverkehr kann für Erstattungsverlangen nach Absatz 1 ein Muster im Bundesanzeiger bekannt geben. Falls ein solches bekannt gegeben ist, ist dieses zu verwenden.
+(2) Das Bundesamt für Güterverkehr kann für Erstattungsverlangen nach Absatz 1 und für Erstattungsverlangen nach § 4 Absatz 2 Satz 2 des Bundesfernstraßenmautgesetzes ein Muster im Bundesanzeiger bekannt geben. Falls ein solches bekannt gegeben ist, ist dieses zu verwenden. Erstattungsanträge sollen dem Bundesamt für Güterverkehr unter Nutzung des von diesem zur Verfügung gestellten Verwaltungsportals elektronisch übermittelt werden. Voraussetzung für die Übermittlung des Antrags über das Verwaltungsportal ist, dass der Antragstellende sich zuvor mit einem Nutzerkonto registriert.
 
 (3) Für Erstattungsverlangen nach Absatz 1 sowie Erstattungsverlangen nach § 4 Absatz 2 Satz 2 des Bundesfernstraßenmautgesetzes wird eine Bearbeitungsgebühr von 20,00 Euro erhoben. Die Bearbeitungsgebühr wird mit dem Erstattungsbetrag verrechnet.
 

@@ -13,13 +13,13 @@ Parteien des Vermittlungsverfahrens können nur ein registrierter Anbieter mautd
 
 (1) Die Vermittlungsstelle wird bei Streitigkeiten zwischen den Parteien im Zusammenhang mit der Zulassung nach § 10 des Mautsystemgesetzes und der beschränkten Zulassung nach § 11 des Mautsystemgesetzes auf Antrag tätig.
 
-(2) Gegenstand der Vermittlung ist insbesondere die Prüfung, ob Vertragsbedingungen, welche eine für die Erhebung einer Maut in Bund und Ländern zuständige Behörde den Anbietern auferlegt, keine Diskriminierung beinhalten und Kosten und Risiken der Vertragsparteien angemessen widerspiegeln.
+(2) Gegenstand der Vermittlung ist insbesondere die Prüfung, ob Vertragsbedingungen, welche eine für die Erhebung einer Maut in Bund und Ländern zuständige Behörde den Anbietern auferlegt, keine Diskriminierung beinhalten, und ob die Vergütung der Anbieter die Voraussetzungen von § 10a des Mautsystemgesetzes erfüllt.
 
 # § 4 – Vertretung des Vorsitzenden
 
-(1) Ist der Vorsitzende eines Spruchkörpers vorübergehend an der Ausübung des Vorsitzes gehindert, übt ein von dem Privaten, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur zuvor bestellter Vertreter den Vorsitz aus.
+(1) Ist der Vorsitzende eines Spruchkörpers vorübergehend an der Ausübung des Vorsitzes gehindert, übt ein von der Behörde oder dem Privaten, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur zuvor bestellter Vertreter den Vorsitz aus.
 
-(2) Ist der Vorsitzende dauerhaft an der Ausübung des Vorsitzes gehindert, bestimmt der Private, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur einen neuen Vorsitzenden.
+(2) Ist der Vorsitzende dauerhaft an der Ausübung des Vorsitzes gehindert, bestimmt die Behörde oder der Private, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur einen neuen Vorsitzenden.
 
 # § 5 – Beisitzer
 
@@ -125,7 +125,7 @@ Die Parteien zeigen der Vermittlungsstelle unverzüglich den Beginn gerichtliche
 
 (2) Soweit eine Partei oder Person aufgrund besonderer Rechtsverhältnisse verpflichtet ist, Dritte über Angelegenheiten des Verfahrens zu informieren, hat die Partei oder Person dies unverzüglich der Vermittlungsstelle offen zu legen.
 
-(3) Die Vermittlungsstelle tauscht mit den Vermittlungsstellen der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum Informationen über die Grundsätze und Methodik ihrer Arbeit in nicht personenbezogener Form aus.
+(3) Die Vermittlungsstelle tauscht mit den Vermittlungsstellen der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum Informationen über ihre Arbeit, Leitlinien und Verfahren in nicht personenbezogener Form aus.
 
 # § 16 – Beendigung des Verfahrens
 
