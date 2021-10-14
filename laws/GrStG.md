@@ -19,7 +19,8 @@ Steuergegenstand ist der inländische Grundbesitz im Sinne des Bewertungsgesetze
 
 2. die Grundstücke (§§ 243, 244 des Bewertungsgesetzes); diesen stehen die in § 218 Satz 3 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 
-§ 2 Nr. 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+§ 2 Nr. 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
+§ 2 Nr. 2 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 3 – Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
 
@@ -134,7 +135,8 @@ Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
 Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag auszugehen. Dieser ist durch Anwendung eines Promillesatzes (Steuermesszahl) auf den Grundsteuerwert oder seinen steuerpflichtigen Teil zu ermitteln, der nach dem Bewertungsgesetz im Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) für den Steuergegenstand maßgebend ist.
 
-§ 13 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+§ 13 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
+§ 13 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 14 – Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
@@ -174,7 +176,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
 
-§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
+§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 16 – Hauptveranlagung
 
@@ -184,7 +187,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (3) Ist die Festsetzungsfrist (§ 169 der Abgabenordnung) bereits abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der Verhältnisse vom Hauptveranlagungszeitpunkt mit Wirkung für einen späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist.
 
-§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+§§ 15 u. 16 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
+§§ 15 u. 16 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 17 – Neuveranlagung
 
@@ -226,7 +230,8 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
 
-§ 19 Abs. 1 Satz 2 u. Abs. 2 Satz 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)
+§ 19 Abs. 1 Satz 2 u. Abs. 2 Satz 2 idF d. G v. 7.8.1973 I 965: Niedersachsen - Abweichung durch Niedersächsisches Grundsteuergesetz (NGrStG) v. 7.7.2021 Nds. GVBl. 2021 S. 502 mWv 14.7.2021 (vgl. BGBl. I 2021, 3087)  
+§ 19 Abs. 1 Satz 2 u. Abs 2 Satz 2 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 20 – Aufhebung des Steuermeßbetrags
 
@@ -289,6 +294,8 @@ Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei Betrieben de
 2. für die in einer Gemeinde liegenden Grundstücke.
 
 Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen.
+
+§ 25 Abs. 5 Satz 5 u. 6 idF d. Bek v. 7.8.1973 I 965: Hamburg - Abweichung durch Hamburgisches Grundsteuergesetz (HmbGrStG) v. 24.8.2021 HmbGVBl. 2021 S. 600 mWv 1.9.2021 (vgl. BGBl. I 2021, 4528)
 
 # § 26 – Koppelungsvorschriften und Höchsthebesätze
 

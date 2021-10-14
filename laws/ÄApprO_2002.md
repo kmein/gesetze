@@ -25,7 +25,13 @@ praktische Erfahrungen im Umgang mit Patienten, einschließlich der fächerüber
 die Fähigkeit zur Beachtung der gesundheitsökonomischen Auswirkungen ärztlichen Handelns,
 
 \-  
-Grundkenntnisse der Einflüsse von Familie, Gesellschaft und Umwelt auf die Gesundheit, die Organisation des Gesundheitswesens und die Bewältigung von Krankheitsfolgen,
+Grundkenntnisse der Einflüsse von Familie, Gesellschaft und Umwelt auf die Gesundheit und die Bewältigung von Krankheitsfolgen,
+
+\-  
+Grundkenntnisse des Gesundheitssystems,
+
+\-  
+Grundkenntnisse über die Tätigkeitsfelder des öffentlichen Gesundheitswesens und die bevölkerungsmedizinischen Aspekte von Krankheit und Gesundheit,
 
 \-  
 die geistigen, historischen und ethischen Grundlagen ärztlichen Verhaltens
@@ -62,7 +68,7 @@ Die in § 27 genannten Fächer und Querschnittsbereiche werden von der Universit
 
 (2) Der Unterricht im Studium soll fächerübergreifendes Denken fördern und soweit zweckmäßig problemorientiert am Lehrgegenstand ausgerichtet sein. Die Universitäten haben im erforderlichen Umfang fächerübergreifenden Unterricht und Unterricht in Querschnittsbereichen anzubieten. Die Vermittlung der naturwissenschaftlichen und theoretischen Grundlagen ist auf die medizinisch relevanten Ausbildungsinhalte zu konzentrieren. Die Vermittlung des theoretischen und klinischen Wissens soll während der gesamten Ausbildung so weitgehend wie möglich miteinander verknüpft werden. Neben den Veranstaltungen nach Anlage 1 zu dieser Verordnung sind Seminare im Umfang von mindestens 98 Stunden als integrierte Veranstaltungen, in die geeignete klinische Fächer einbezogen werden, vorzusehen; darüber hinaus sind weitere Seminare mit klinischem Bezug im Umfang von mindestens 56 Stunden vorzusehen.
 
-(3) Die praktischen Übungen umfassen die eigenständige Bearbeitung von praktischen Aufgaben durch die Studierenden unter Anleitung, Aufsicht und Verantwortung der ausbildenden Lehrkraft. Bei den praktischen Übungen ist die praktische Anschauung zu gewährleisten. Soweit der Lehrstoff dies erfordert, ist in kleinen Gruppen zu unterrichten. Der Lehrstoff der praktischen Übungen soll sich an den Anforderungen der ärztlichen Praxis ausrichten. Dabei steht zunächst die Unterweisung am Gesunden und entsprechend dem Stand der Fähigkeiten und Fertigkeiten insbesondere nach dem Ersten Abschnitt der Ärztlichen Prüfung die Unterweisung am Patienten im Vordergrund. Die Praktikumszeit ist nach dem Ersten Abschnitt der Ärztlichen Prüfung in einem Anteil von mindestens 20 Prozent durch theoretische Unterweisungen in Seminaren oder gegenstandsbezogenen Studiengruppen zu begleiten. Den Studierenden ist ausreichend Gelegenheit zu geben, unter Anleitung, Aufsicht und Verantwortung des ausbildenden Arztes am Patienten tätig zu werden, soweit dies zum Erwerb von Fähigkeiten und Fertigkeiten erforderlich ist. Unzumutbare Belastungen des Patienten durch den Unterricht sind zu vermeiden. Beim Unterricht am Krankenbett darf jeweils nur eine kleine Gruppe von Studierenden gleichzeitig unmittelbar am Patienten unterwiesen werden, und zwar
+(3) Die praktischen Übungen umfassen die eigenständige Bearbeitung von praktischen Aufgaben durch die Studierenden unter Anleitung, Aufsicht und Verantwortung der ausbildenden Lehrkraft. Bei den praktischen Übungen ist die praktische Anschauung zu gewährleisten. Soweit der Lehrstoff dies erfordert, ist in kleinen Gruppen zu unterrichten. Praktische Übungen können durch digitale Lehrformate begleitet werden. Der Lehrstoff der praktischen Übungen soll sich an den Anforderungen der ärztlichen Praxis ausrichten. Dabei steht zunächst die Unterweisung am Gesunden und entsprechend dem Stand der Fähigkeiten und Fertigkeiten insbesondere nach dem Ersten Abschnitt der Ärztlichen Prüfung die Unterweisung am Patienten im Vordergrund. Die Praktikumszeit ist nach dem Ersten Abschnitt der Ärztlichen Prüfung in einem Anteil von mindestens 20 Prozent durch theoretische Unterweisungen in Seminaren oder gegenstandsbezogenen Studiengruppen zu begleiten. Den Studierenden ist ausreichend Gelegenheit zu geben, unter Anleitung, Aufsicht und Verantwortung des ausbildenden Arztes am Patienten tätig zu werden, soweit dies zum Erwerb von Fähigkeiten und Fertigkeiten erforderlich ist. Unzumutbare Belastungen des Patienten durch den Unterricht sind zu vermeiden. Beim Unterricht am Krankenbett darf jeweils nur eine kleine Gruppe von Studierenden gleichzeitig unmittelbar am Patienten unterwiesen werden, und zwar
 
 \-  
 beim Unterricht in Form der Patientendemonstration eine Gruppe von höchstens sechs,
@@ -72,11 +78,11 @@ bei der Untersuchung eines Patienten durch Studierende eine Gruppe von höchsten
 
 Bei der praktischen Unterweisung am Patienten entfällt je die Hälfte der Unterrichtszeit auf den Unterricht in Form der Patientendemonstration und auf den Unterricht mit Patientenuntersuchung. Die Gesamtstundenzahl für den Unterricht am Krankenbett beträgt 476. Blockpraktika sind Veranstaltungen von ein- bis sechswöchiger Dauer zur Differentialdiagnostik und -therapie der wichtigsten Krankheitsbilder unter Bedingungen des klinischen und ambulanten medizinischen Alltags. In der Allgemeinmedizin dauert das Blockpraktikum nach § 27 Absatz 4 Nummer 5 mindestens zwei Wochen. Mindestens 20 Prozent der Praktika nach dem Ersten Abschnitt der Ärztlichen Prüfung sind in Form von Blockpraktika zu unterrichten.
 
-(4) In den Seminaren wird der durch praktische Übungen und Vorlesungen vermittelte Lehrstoff vertiefend, anwendungs- und gegenstandsbezogen erörtert. Die Seminare sind darauf gerichtet, den Studierenden wichtige medizinische Zusammenhänge zu vermitteln. Die Seminare umfassen auch die Vorstellung von Patienten. Die Studierenden haben durch eigene Beiträge vor allem fächerübergreifende Probleme und Beziehungen zwischen medizinischen Grundlagen und klinischen Anwendungen zu verdeutlichen. Die Zahl der jeweils an einem Seminar teilnehmenden Studierenden darf 20 nicht überschreiten. Eine Überschreitung ist zulässig, wenn andernfalls eine Gruppe gebildet werden müsste, die weniger als zehn Studierende umfassen würde; in diesem Fall sind die Studierenden, für die keine weitere Gruppe gebildet wird, auf die übrigen Gruppen möglichst gleichmäßig zu verteilen.
+(4) In den Seminaren wird der durch praktische Übungen und Vorlesungen vermittelte Lehrstoff vertiefend, anwendungs- und gegenstandsbezogen erörtert. Die Seminare sind darauf gerichtet, den Studierenden wichtige medizinische Zusammenhänge zu vermitteln. Die Seminare umfassen auch die Vorstellung von Patienten sowie die Präsentation und Diskussion von bevölkerungsmedizinisch relevanten Themen und Szenarien. Sie können durch digitale Lehrformate begleitet werden. Die Studierenden haben durch eigene Beiträge vor allem fächerübergreifende Probleme und Beziehungen zwischen medizinischen Grundlagen und klinischen Anwendungen zu verdeutlichen. Die Zahl der jeweils an einem Seminar teilnehmenden Studierenden darf 20 nicht überschreiten. Eine Überschreitung ist zulässig, wenn andernfalls eine Gruppe gebildet werden müsste, die weniger als zehn Studierende umfassen würde; in diesem Fall sind die Studierenden, für die keine weitere Gruppe gebildet wird, auf die übrigen Gruppen möglichst gleichmäßig zu verteilen.
 
-(5) Die gegenstandsbezogenen Studiengruppen haben die Aufgabe, den in praktischen Übungen, Seminaren und Vorlesungen dargestellten Stoff zu besprechen und das eigenständige, problemorientierte Arbeiten zu üben. Gegenstandsbezogene Studiengruppen werden von den Lehrkräften der Universität oder durch von der Universität beauftragte Lehrkräfte geleitet. In den gegenstandsbezogenen Studiengruppen sollen vor allem Fallbeispiele behandelt werden. In Verbindung mit Seminaren und gegenstandsbezogenen Studiengruppen sollen die Universitäten auch die Abhaltung von Tutorien ermöglichen.
+(5) Die gegenstandsbezogenen Studiengruppen haben die Aufgabe, den in praktischen Übungen, Seminaren und Vorlesungen dargestellten Stoff zu besprechen und das eigenständige, problemorientierte Arbeiten zu üben. Gegenstandsbezogene Studiengruppen werden von den Lehrkräften der Universität oder durch von der Universität beauftragte Lehrkräfte geleitet. In den gegenstandsbezogenen Studiengruppen sollen vor allem Fallbeispiele behandelt werden. Sie können durch digitale Lehrformate begleitet werden. In Verbindung mit Seminaren und gegenstandsbezogenen Studiengruppen sollen die Universitäten auch die Abhaltung von Tutorien ermöglichen.
 
-(6) Die in den Absätzen 3 bis 5 genannten Unterrichtsveranstaltungen werden durch systematische Vorlesungen vorbereitet oder begleitet. Die Vorlesung ist eine zusammenhängende Darstellung und Vermittlung von wissenschaftlichen und methodischen Kenntnissen durch den Vortrag von Lehrkräften.
+(6) Die in den Absätzen 3 bis 5 genannten Unterrichtsveranstaltungen werden durch systematische Vorlesungen vorbereitet oder begleitet. Die Vorlesung ist eine zusammenhängende Darstellung und Vermittlung von wissenschaftlichen und methodischen Kenntnissen durch den Vortrag von Lehrkräften. Sie kann auch in digitaler Form durchgeführt werden.
 
 (7) Die Studierenden weisen durch Bescheinigungen nach dem Muster der Anlage 2 oder durch eine zusammenfassende Bescheinigung nach dem Muster der Anlage 2a oder 2b zu dieser Verordnung ihre regelmäßige und erfolgreiche Teilnahme an den in Absatz 1 Satz 2 und 3 und Absatz 2 Satz 5 genannten praktischen Übungen, Seminaren und gegenstandsbezogenen Studiengruppen sowie den regelmäßigen Besuch der die praktischen Übungen vorbereitenden oder begleitenden Vorlesungen nach, soweit deren Besuch von der Universität in einer Studienordnung vorgeschrieben ist. In der Studienordnung werden auch die Voraussetzungen für die Feststellung der regelmäßigen und erfolgreichen Teilnahme an diesen Unterrichtsveranstaltungen geregelt. Eine erfolgreiche Teilnahme an einer praktischen Übung nach Absatz 3 liegt vor, wenn die Studierenden in der praktischen Übung in einer dem betreffenden Fachgebiet angemessenen Weise gezeigt haben, dass sie sich die erforderlichen Kenntnisse, Fähigkeiten und Fertigkeiten angeeignet haben und sie in der Praxis anzuwenden wissen. Eine erfolgreiche Teilnahme an einem Seminar nach Absatz 4 liegt vor, wenn die Studierenden gezeigt haben, dass sie den Lehrstoff in seinen Zusammenhängen erfasst haben und in der Lage sind, dies darzustellen. Eine erfolgreiche Teilnahme an einer gegenstandsbezogenen Studiengruppe nach Absatz 5 liegt vor, wenn die Studierenden in der gegenstandsbezogenen Studiengruppe gezeigt haben, dass sie vor allem Fallbeispiele eigenständig und sachgerecht bearbeiten können.
 
@@ -96,13 +102,13 @@ Bei der praktischen Unterweisung am Patienten entfällt je die Hälfte der Unter
 
 Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentlichen Ausbildungszeit absolviert werden. Die Gesamtdauer der Ausbildung verlängert sich entsprechend. Die Universitäten stellen sicher, dass bis zum Beginn des Praktischen Jahres im Oktober 2015 10 Prozent und bis zum Beginn des Praktischen Jahres im Oktober 2017 20 Prozent der Studierenden an der jeweiligen Universität den Ausbildungsabschnitt nach Satz 3 Nummer 3 in der Allgemeinmedizin absolvieren können. Bis zum Beginn des Praktischen Jahres im Oktober 2019 stellen die Universitäten sicher, dass alle Studierenden der jeweiligen Universität den Ausbildungsabschnitt nach Satz 3 Nummer 3 in der Allgemeinmedizin absolvieren können.
 
-(1a) Die Universität erstellt einen Ausbildungsplan (Logbuch), nach dem die Ausbildung nach Absatz 1 durchzuführen ist.
+(1a) Die Universität erstellt einen Ausbildungsplan, nach dem die Ausbildung nach Absatz 1 durchzuführen ist (Logbuch). Die Universität kann den Studierenden das Logbuch in digitaler Form anbieten.
 
 (2) Die Ausbildung nach Absatz 1 wird in den Universitätskrankenhäusern oder in anderen Krankenhäusern durchgeführt, mit denen die Universität eine Vereinbarung hierüber getroffen hat (Lehrkrankenhäuser). Die Auswahl der Krankenhäuser erfolgt durch die Universität im Einvernehmen mit der zuständigen Gesundheitsbehörde. Bei der Auswahl der Krankenhäuser ist die Universität verpflichtet, eine breite Ausbildung auch in den versorgungsrelevanten Bereichen zu ermöglichen und einer angemessenen regionalen Verteilung Rechnung zu tragen. Das Krankenhaus muss gewährleisten, das Logbuch der Universität einzuhalten. Die Studierenden haben die Wahl, die Ausbildungsabschnitte nach Absatz 1 Satz 3 entweder in den Universitätskrankenhäusern der Universität, an der sie immatrikuliert sind (Heimatuniversität), in den Lehrkrankenhäusern der Heimatuniversität oder in anderen Universitätskrankenhäusern oder Lehrkrankenhäusern anderer Universitäten zu absolvieren, sofern dort genügend Plätze zur Verfügung stehen.
 
-(2a) Die Universitäten können geeignete ärztliche Praxen (Lehrpraxen) und andere geeignete Einrichtungen der ambulanten ärztlichen Krankenversorgung im Einvernehmen mit der zuständigen Gesundheitsbehörde in die Ausbildung einbeziehen; sie treffen hierzu Vereinbarungen mit den Lehrpraxen und Einrichtungen. Die jeweilige Lehrpraxis oder Einrichtung muss gewährleisten, das Logbuch der Universität einzuhalten. Die Ausbildung nach Absatz 1 in einer Lehrpraxis oder in einer anderen geeigneten Einrichtung der ambulanten ärztlichen Krankenversorgung dauert in der Regel höchstens acht Wochen je Ausbildungsabschnitt. Im Wahlfach Allgemeinmedizin wird die Ausbildung nach Absatz 1 während des gesamten Ausbildungsabschnitts in einer allgemeinmedizinischen Lehrpraxis absolviert.
+(2a) Die Universitäten können geeignete ärztliche Praxen (Lehrpraxen), andere geeignete Einrichtungen der ambulanten ärztlichen Krankenversorgung und geeignete Einrichtungen des öffentlichen Gesundheitswesens im Einvernehmen mit der zuständigen Gesundheitsbehörde in die Ausbildung einbeziehen; sie treffen hierzu Vereinbarungen mit den Lehrpraxen und Einrichtungen. Die jeweilige Lehrpraxis oder Einrichtung muss gewährleisten, das Logbuch der Universität einzuhalten. Die Ausbildung nach Absatz 1 in einer Lehrpraxis oder in einer anderen geeigneten Einrichtung der ambulanten ärztlichen Krankenversorgung dauert in der Regel höchstens acht Wochen je Ausbildungsabschnitt. Im Wahlfach Allgemeinmedizin wird die Ausbildung nach Absatz 1 während des gesamten Ausbildungsabschnitts in einer allgemeinmedizinischen Lehrpraxis absolviert. In einer geeigneten Einrichtung des öffentlichen Gesundheitswesens kann nur die Ausbildung in einem der übrigen klinisch-praktischen Fachgebiete nach Absatz 1 Satz 3 Nummer 3 absolviert werden. Die Einbeziehung der Einrichtungen des öffentlichen Gesundheitswesens in die Ausbildung erfolgt durch die Universitäten frühestens zum 1. Mai 2022.
 
-(3) Auf die Ausbildung nach Absatz 1 werden Fehlzeiten bis zu insgesamt 30 Ausbildungstagen angerechnet, davon bis zu insgesamt 20 Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Bei einer darüber hinausgehenden Unterbrechung aus wichtigem Grund sind bereits abgeleistete Teile des Praktischen Jahres anzurechnen, soweit sie nicht länger als zwei Jahre zurückliegen.
+(3) Auf die Ausbildung nach Absatz 1 werden Fehlzeiten bis zu insgesamt 30 Ausbildungstagen angerechnet, davon bis zu insgesamt 20 Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Auf Antrag kann die zuständige Stelle über Satz 1 hinausgehende Fehlzeiten auf die Ausbildung anrechnen, wenn eine besondere Härte vorliegt und das Erreichen des Ausbildungsziels durch die Anrechnung nicht gefährdet ist. Bei einer darüber hinausgehenden Unterbrechung aus wichtigem Grund sind bereits abgeleistete Teile des Praktischen Jahres anzurechnen, soweit sie nicht länger als zwei Jahre zurückliegen.
 
 (4) Während der Ausbildung nach Absatz 1, in deren Mittelpunkt die Ausbildung am Patienten steht, sollen die Studierenden die während des vorhergehenden Studiums erworbenen ärztlichen Kenntnisse, Fähigkeiten und Fertigkeiten vertiefen und erweitern. Sie sollen lernen, sie auf den einzelnen Krankheitsfall anzuwenden. Zu diesem Zweck sollen sie entsprechend ihrem Ausbildungsstand unter Anleitung, Aufsicht und Verantwortung des ausbildenden Arztes ihnen zugewiesene ärztliche Verrichtungen durchführen. Sie sollen in der Regel ganztägig an allen Wochenarbeitstagen im Krankenhaus anwesend sein. Zur Ausbildung gehört die Teilnahme der Studierenden an klinischen Konferenzen, einschließlich der pharmakotherapeutischen und klinisch-pathologischen Besprechungen. Um eine ordnungsgemäße Ausbildung zu sichern, soll die Zahl der Studierenden zu der Zahl der zur Verfügung stehenden Krankenbetten mit unterrichtsgeeigneten Patienten in einem angemessenen Verhältnis stehen. Die Studierenden dürfen nicht zu Tätigkeiten herangezogen werden, die ihre Ausbildung nicht fördern. Die Gewährung von Geld- oder Sachleistungen, die den Bedarf für Auszubildende nach § 13 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 des Bundesausbildungsförderungsgesetzes übersteigen, ist nicht zulässig. Bei einer Ausbildung im Ausland verändert sich diese Höchstgrenze entsprechend den Maßgaben der Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz bei einer Ausbildung im Ausland um die in § 1 Absatz 1 Nummer 1 bis 3 dieser Verordnung aufgeführten Zuschläge. Die Zuschläge nach § 1 Absatz 1 Nummer 2 und 3 dieser Verordnung dürfen der Berechnung der Höchstgrenze nur zugrunde gelegt werden, wenn die Leistungen ausdrücklich zur Erstattung der dort genannten Kosten gewährt werden.
 
@@ -120,7 +126,7 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 (3) Die Krankenhäuser sind verpflichtet, die Ausbildung nach § 3 Absatz 1 gemäß dem Logbuch der Universität durchzuführen, mit der sie die Vereinbarung abgeschlossen haben. Die Studierenden nehmen an den auf die Ausbildung nach § 3 Absatz 1 vorbereitenden Lehrveranstaltungen und, soweit möglich, an den begleitenden Lehrveranstaltungen teil. Die Krankenhäuser benennen einen Beauftragten für das Praktische Jahr, der die Ausbildung mit der Universität abstimmt sowie die Evaluation nach § 3 Absatz 7 nach den Vorgaben der Universität durchführt und dieser die Ergebnisse der Evaluation mitteilt.
 
-(4) Für die Durchführung der praktischen Ausbildung in Lehrpraxen und anderen Einrichtungen der ambulanten ärztlichen Krankenversorgung nach § 3 Absatz 2a legen die Universitäten die Anforderungen im Einvernehmen mit der nach Landesrecht zuständigen Stelle fest.
+(4) Für die Durchführung der praktischen Ausbildung in Lehrpraxen, anderen Einrichtungen der ambulanten ärztlichen Krankenversorgung und geeigneten Einrichtungen des öffentlichen Gesundheitswesens nach § 3 Absatz 2a legen die Universitäten die Anforderungen im Einvernehmen mit der nach Landesrecht zuständigen Stelle fest.
 
 # § 5 – Ausbildung in erster Hilfe
 
@@ -162,21 +168,25 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 # § 7 – Famulatur
 
-(1) Die Famulatur hat den Zweck, die Studierenden mit der ärztlichen Patientenversorgung in Einrichtungen der ambulanten und stationären Krankenversorgung vertraut zu machen.
+(1) Die Famulatur hat den Zweck, dass die Studierenden die ärztliche Tätigkeit in verschiedenen ärztlichen Berufs- und Tätigkeitsfeldern kennenlernen. In Einrichtungen der ambulanten und stationären Krankenversorgung sind die Studierenden mit der ärztlichen Patientenversorgung vertraut zu machen.
 
-(2) Die Famulatur wird abgeleistet
+(2) Die Famulatur wird unter der Leitung eines approbierten Arztes oder einer approbierten Ärztin abgeleistet.
+
+(3) Die Famulatur wird abgeleistet
 
 1. für die Dauer eines Monats in einer Einrichtung der ambulanten Krankenversorgung, die ärztlich geleitet wird, oder einer geeigneten ärztlichen Praxis,
 
-2. für die Dauer von zwei Monaten in einem Krankenhaus oder in einer stationären Rehabilitationseinrichtung und
+2. für die Dauer eines Monats in einem Krankenhaus oder in einer stationären Rehabilitationseinrichtung,
 
-3. für die Dauer eines Monats in einer Einrichtung der hausärztlichen Versorgung.
+3. für die Dauer eines Monats in einer Einrichtung der hausärztlichen Versorgung und
+
+4. für die Dauer eines Monats in einer in den Nummern 1 bis 3 genannten oder einer anderen geeigneten Einrichtung, auch des öffentlichen Gesundheitswesens, in der ärztliche Tätigkeiten ausgeübt werden.
 
 Satz 1 Nummer 3 ist auf Studierende, die bis zum 10. Juni 2015 erstmals den Antrag auf Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfung gestellt haben, in der am 30. September 2013 geltenden Fassung anzuwenden. Wurde das Studium wegen Krankheit, Schwangerschaft, der Betreuung minderjähriger Kinder oder pflegebedürftiger Angehöriger unterbrochen, verlängert sich die in Satz 2 genannte Frist um ein Jahr.
 
-(3) Eine im Ausland in einer Einrichtung der ambulanten ärztlichen Krankenversorgung oder in einem Krankenhaus abgeleistete Famulatur kann angerechnet werden.
+(4) Eine im Ausland in einer Einrichtung der ambulanten ärztlichen Krankenversorgung oder in einem Krankenhaus abgeleistete Famulatur kann angerechnet werden.
 
-(4) Die viermonatige Famulatur (§ 1 Absatz 2 Satz 1 Nummer 4) ist während der unterrichtsfreien Zeiten zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung abzuleisten. Sie ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung in den Fällen des Absatzes 2 durch Bescheinigungen nach dem Muster der Anlage 6 zu dieser Verordnung nachzuweisen.
+(5) Die viermonatige Famulatur (§ 1 Absatz 2 Satz 1 Nummer 4) ist während der unterrichtsfreien Zeiten zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung abzuleisten. Sie ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung in den Fällen des Absatzes 2 durch Bescheinigungen nach dem Muster der Anlage 6 zu dieser Verordnung nachzuweisen.
 
 # § 8 – Einrichtung der für das Prüfungswesen zuständigen Stelle
 
@@ -236,7 +246,7 @@ Soweit die in Nummer 1 Buchstabe c und d, in Nummer 2 Buchstabe b und c oder in 
 
 (6) Hat der Prüfungsbewerber im Zeitpunkt der Meldung zum Dritten Abschnitt der Ärztlichen Prüfung die Ausbildung nach § 3 Absatz 1 noch nicht abgeschlossen, so hat er eine vorläufige Bescheinigung des für die Ausbildung verantwortlichen Arztes vorzulegen, aus der hervorgeht, dass er die Ausbildung bis zu dem Termin der Prüfung abschließen wird. Die endgültige Bescheinigung nach dem Muster der Anlage 4 ist der nach Landesrecht zuständigen Stelle unverzüglich nach Erhalt und bis spätestens eine Woche vor Beginn der Prüfung nachzureichen.
 
-(7) Rechtfertigen Tatsachen die Annahme, dass beim Prüfungsbewerber ein Grund vorliegt, der zur Versagung der Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde, so kann die nach Landesrecht zuständige Stelle die Vorlage weiterer Unterlagen, insbesondere ärztlicher Zeugnisse oder eines Führungszeugnisses verlangen. Sofern Zweifel an der Prüfungsfähigkeit bestehen, kann die nach Landesrecht zuständige Stelle von einem Prüfungsbewerber die Vorlage einer ärztlichen Bescheinigung auch durch einen von dieser Stelle benannten Arzt verlangen. Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
+(7) Rechtfertigen Tatsachen die Annahme, dass beim Prüfungsbewerber ein Grund vorliegt, der zur Versagung der Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde, so kann die nach Landesrecht zuständige Stelle die Vorlage weiterer Unterlagen, insbesondere ärztlicher Zeugnisse oder eines Führungszeugnisses verlangen. Sofern Zweifel an der Prüfungsfähigkeit bestehen, kann die nach Landesrecht zuständige Stelle von einem Prüfungsbewerber die Vorlage einer ärztlichen Bescheinigung auch durch einen von dieser Stelle benannten Arzt verlangen.
 
 # § 11 – Versagung der Zulassung
 
@@ -249,6 +259,16 @@ Die Zulassung ist zu versagen, wenn
 3. der Prüfungsabschnitt nicht wiederholt werden darf oder
 
 4. ein Grund vorliegt, der nach § 10 Absatz 7 Satz 2 eine ordnungsgemäße Prüfungsteilnahme nicht erwarten lässt oder zur Versagung der Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde.
+
+# § 11a – Nachteilsausgleich
+
+(1) Einem Prüfling mit einer Behinderung oder einer Beeinträchtigung wird bei der Durchführung eines Abschnitts der Ärztlichen Prüfung oder eines Teils des Ersten Abschnitts der Ärztlichen Prüfung auf Antrag ein individueller Nachteilsausgleich gewährt, wenn die Behinderung oder Beeinträchtigung eine leistungsbeeinträchtigende Auswirkung hat. Der Antrag auf Nachteilsausgleich ist an die nach Landesrecht zuständige Stelle zu richten.
+
+(2) Der Nachteilsausgleich wird nur gewährt, wenn er spätestens mit dem Antrag auf Zulassung zu dem Abschnitt der Ärztlichen Prüfung beantragt worden ist.
+
+(3) Die nach Landesrecht zuständige Stelle kann für die Entscheidung über den Antrag auf Nachteilsausgleich verlangen, dass der Prüfling ein ärztliches Attest oder andere geeignete Unterlagen vorlegt. Wird die Vorlage eines ärztlichen Attests oder anderer geeigneter Unterlagen verlangt, kann der Nachteilsausgleich nur gewährt werden, wenn aus dem ärztlichen Attest oder den anderen Unterlagen die leistungsbeeinträchtigende Auswirkung der Behinderung oder der Beeinträchtigung hervorgeht.
+
+(4) In welcher geänderten Form die Prüfungsleistung zu erbringen ist, bestimmt die nach Landesrecht zuständige Stelle. Die fachlichen Prüfungsanforderungen dürfen durch den Nachteilsausgleich nicht verändert werden.
 
 # § 12 – Anrechnung von Studienzeiten und Studienleistungen
 
@@ -415,7 +435,7 @@ Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens sieben, die
 
 # § 23 – Schriftliche Aufsichtsarbeit
 
-(1) Die Prüfung findet an zwei aufeinander folgenden Tagen statt. Die Prüfung dauert an beiden Prüfungstagen vier Stunden. Auf den ersten Prüfungstag entfallen die Stoffgebiete I und II, auf den zweiten die Stoffgebiete III und IV.
+(1) Die Prüfung soll an zwei aufeinanderfolgenden Tagen stattfinden. Die Prüfung dauert an beiden Prüfungstagen vier Stunden. Auf den ersten Prüfungstag entfallen die Stoffgebiete I und II, auf den zweiten die Stoffgebiete III und IV.
 
 (2) Die Anzahl der in der Aufsichtsarbeit zu bearbeitenden Fragen und ihre Verteilung auf die einzelnen Stoffgebiete ergeben sich aus der Anlage 9 zu dieser Verordnung. Die Fragen müssen auf den in der Anlage 10 zu dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
@@ -569,7 +589,7 @@ fächerübergreifende und
 \-  
 problemorientierte Fragestellungen.
 
-(2) Die Prüfung findet an drei aufeinander folgenden Tagen statt. Sie dauert an allen drei Tagen jeweils fünf Stunden.
+(2) Die Prüfung soll an drei aufeinanderfolgenden Tagen stattfinden. Sie dauert an allen drei Tagen jeweils fünf Stunden.
 
 (3) Die Anzahl der in der Aufsichtsarbeit im Antwort-Wahl-Verfahren zu bearbeitenden Fragen beträgt 320. Die Aufgaben müssen auf die in Absatz 1 festgelegten Anforderungen und auf den in der Anlage 15 zu dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
@@ -579,7 +599,7 @@ problemorientierte Fragestellungen.
 
 # § 30 – Mündlich-praktische Prüfung
 
-(1) Die mündlich-praktische Prüfung findet an zwei Tagen statt. Sie dauert an beiden Tagen bei maximal vier Prüflingen jeweils mindestens 45, höchstens 60 Minuten je Prüfling. Am ersten Prüfungstag erfolgt die praktische Prüfung mit Patientenvorstellung.
+(1) Die mündlich-praktische Prüfung findet an zwei Tagen statt. Sie dauert an beiden Tagen bei maximal vier Prüflingen jeweils mindestens 45, höchstens 60 Minuten je Prüfling. Am ersten Prüfungstag erfolgt die praktische Prüfung mit Patientenvorstellung. In begründeten Einzelfällen kann die Prüfung mit Patientenvorstellung an geschulten Simulationspatienten oder Simulationspatientinnen durchgeführt werden.
 
 (2) Dem Prüfling sind praktische Aufgaben aus den klinisch-praktischen Fächern zu stellen. Dabei sind auch klinisch-theoretische und fächerübergreifende Fragestellungen sowie Fragestellungen aus Querschnittsbereichen einzuschließen. Die mündlich-praktische Prüfung erstreckt sich auf patientenbezogene Fragestellungen aus der Inneren Medizin, der Chirurgie und dem Gebiet, auf dem der Prüfling seine praktische Ausbildung nach § 3 Absatz 1 Satz 3 Nummer 3 erfahren hat.
 
@@ -597,9 +617,13 @@ problemorientierte Fragestellungen.
 
 6. die Grundlagen und Grundkenntnisse der Gesundheitsförderung, der Prävention und Rehabilitation beherrscht sowie die Einflüsse von Umwelt, Gesellschaft, Familie und Beruf auf die Gesundheit zu bewerten weiß,
 
-7. die Notwendigkeit und die grundlegenden Prinzipien der Koordinierung von Behandlungsabläufen erkennt und
+7. über Grundkenntnisse des Gesundheitssystems verfügt,
 
-8. die allgemeinen Regeln ärztlichen Verhaltens gegenüber dem Patienten unter Berücksichtigung insbesondere auch ethischer Fragestellungen kennt, sich der Situation entsprechend zu verhalten weiß und zu Hilfe und Betreuung auch bei chronisch und unheilbar Kranken sowie Sterbenden fähig ist.
+8. die Tätigkeitsfelder des öffentlichen Gesundheitswesens kennt und über Grundkenntnisse der bevölkerungsmedizinischen Aspekte von Krankheit und Gesundheit verfügt,
+
+9. die Notwendigkeit und die grundlegenden Prinzipien der Koordinierung von Behandlungsabläufen erkennt und
+
+10. die allgemeinen Regeln ärztlichen Verhaltens gegenüber dem Patienten unter Berücksichtigung insbesondere auch ethischer Fragestellungen kennt, sich der Situation entsprechend zu verhalten weiß und zu Hilfe und Betreuung auch bei chronisch und unheilbar Kranken sowie Sterbenden fähig ist.
 
 (4) Die Prüfungskommission hat dem Prüfling vor dem Prüfungstermin einen oder mehrere Patienten zur Anamneseerhebung und Untersuchung zuzuweisen. Der Prüfling hat hierüber einen Bericht zu fertigen, der Anamnese, Diagnose, Prognose, Behandlungsplan sowie eine Epikrise des Falles enthält. Der Bericht ist unverzüglich nach Fertigstellung von einem Mitglied der Prüfungskommission gegenzuzeichnen und beim Prüfungstermin vorzulegen. Er ist Gegenstand der Prüfung und in die Bewertung einzubeziehen.
 
@@ -723,7 +747,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (1) Die Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung bezieht sich auf die Fächer einschließlich der Querschnittsbereiche, in denen die zuständige Behörde wesentliche Unterschiede nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung festgestellt hat. In der Eignungsprüfung hat der Antragsteller an praktischen Aufgaben nachzuweisen, dass er in diesen Fächern einschließlich der Querschnittsbereiche über die Kenntnisse und Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die zur Ausübung des ärztlichen Berufs erforderlich sind.
 
-(2) Die Eignungsprüfung ist eine mündlich-praktische Prüfung mit Patientenvorstellung, die an einem Tag stattfindet. Die Prüfung wird in der Regel als Einzelprüfung durchgeführt. Soweit es die zu prüfenden Fächer zulassen, können bis zu drei Antragstellende gleichzeitig geprüft werden. Die Dauer der Prüfung ist abhängig vom Umfang der festgestellten wesentlichen Unterschiede. Sie dauert für jeden Antragsteller mindestens 30, höchstens 90 Minuten.
+(2) Die Eignungsprüfung ist eine mündlich-praktische Prüfung mit Patientenvorstellung, die an einem Tag stattfindet. Die Prüfung wird in der Regel als Einzelprüfung durchgeführt. Soweit es die zu prüfenden Fächer zulassen, können bis zu drei Antragstellende gleichzeitig geprüft werden. Die Dauer der Prüfung ist abhängig vom Umfang der festgestellten wesentlichen Unterschiede. Sie dauert für jeden Antragsteller mindestens 30, höchstens 90 Minuten. Die Patientenvorstellung kann auch mit Hilfe von Simulationspatienten und Simulationspatientinnen, in begründeten Einzelfällen auch mit Hilfe von Simulatoren, Modellen oder Medien durchgeführt werden. § 11a gilt entsprechend.
 
 (3) Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz 2 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung ablegen können. Die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur Eignungsprüfung spätestens fünf Kalendertage vor dem Prüfungstermin zu. Die §§ 18 und 19 gelten entsprechend.
 
@@ -739,7 +763,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (1) Die Prüfung bezieht sich auf die Fächer Innere Medizin und Chirurgie. Die Fragestellungen sollen ergänzend folgende Aspekte berücksichtigen: Notfallmedizin, Klinische Pharmakologie/Pharmakotherapie, Bildgebende Verfahren, Strahlenschutz, Rechtsfragen der ärztlichen Berufsausübung. Zusätzlich kann die zuständige Behörde in dem Bescheid nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung ein Fach oder einen Querschnittsbereich als prüfungsrelevant festlegen, in dem sie wesentliche Unterschiede festgestellt hat und das oder der von den in Satz 1 und 2 aufgeführten Prüfungsthemen nicht umfasst ist. Die Prüfung erstreckt sich dann zusätzlich auch auf dieses Fach oder diesen Querschnittsbereich. Die Fragestellungen sind zunächst auf die Patientenvorstellung zu beziehen. Dann sind dem Antragsteller fächerübergreifend weitere praktische Aufgaben mit Schwerpunkt auf den für den ärztlichen Beruf wichtigsten Krankheitsbildern und Gesundheitsstörungen zu stellen. In der Prüfung hat der Antragsteller fallbezogen zu zeigen, dass er über die Kenntnisse und Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die zur Ausübung des Berufs des Arztes erforderlich sind.
 
-(2) Die Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung ist eine mündlich-praktische Prüfung mit Patientenvorstellung, die an einem Tag stattfindet. Sie dauert bei maximal vier Antragstellern für jeden Antragsteller mindestens 60, höchstens 90 Minuten.
+(2) Die Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung ist eine mündlich-praktische Prüfung mit Patientenvorstellung, die an einem Tag stattfindet. Sie dauert bei maximal vier Antragstellern für jeden Antragsteller mindestens 60, höchstens 90 Minuten. Die Patientenvorstellung kann auch mit Hilfe von Simulationspatienten und Simulationspatientinnen, in begründeten Einzelfällen auch mit Hilfe von Simulatoren, Modellen oder Medien durchgeführt werden. § 11a gilt entsprechend.
 
 (3) Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz 2 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach § 3 Absatz 3 Satz 2 in Verbindung mit Absatz 2 Satz 8 der Bundesärzteordnung ablegen können. Die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur Kenntnisprüfung spätestens fünf Kalendertage vor dem Prüfungstermin zu. Die §§ 18 und 19 gelten entsprechend.
 

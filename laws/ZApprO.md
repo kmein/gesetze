@@ -67,7 +67,7 @@
 
 (2) Die zahnärztliche Ausbildung vermittelt grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in allen Fächern, die für die zahnmedizinische Versorgung der Bevölkerung erforderlich sind. Sie wird auf wissenschaftlicher Grundlage durchgeführt. Die zahnärztliche Ausbildung vermittelt die Grundsätze einer evidenzbasierten Bewertung medizinischer und zahnmedizinischer Verfahren. Die zahnärztliche Ausbildung beinhaltet auch Gesichtspunkte zahnärztlicher Gesprächsführung sowie zahnärztlicher Qualitätssicherung. Sie fördert die Bereitschaft zur Zusammenarbeit mit anderen Zahnärzten und Zahnärztinnen und mit Ärzten und Ärztinnen sowie mit Angehörigen anderer Berufe des Gesundheitswesens.
 
-(3) Das Erreichen dieser Ziele muss von der Universität oder der gleichgestellten Hochschule (Universität) regelmäßig und systematisch bewertet werden.
+(3) Das Erreichen des in Absatz 1 genannten Ziels muss von der Universität oder der gleichgestellten Hochschule (Universität) regelmäßig und systematisch bewertet werden.
 
 # § 2 – Gliederung und Dauer
 
@@ -77,7 +77,7 @@
 
 2. eine Ausbildung in erster Hilfe,
 
-3. einen Krankenpflegedienst von einem Monat,
+3. einen Pflegedienst von einem Monat,
 
 4. eine Famulatur von vier Wochen und
 
@@ -95,7 +95,7 @@
 
 # § 3 – Inhalt und Organisation des Studiums der Zahnmedizin
 
-(1) Die Universität bietet ein Studium der Zahnmedizin an, durch das die in § 1 Absatz 1 und 2 genannten Ziele erreicht werden und das es den Studierenden ermöglicht, die erforderlichen Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben.
+(1) Die Universität bietet ein Studium der Zahnmedizin an, durch das das in § 1 Absatz 1 genannte Ziel erreicht wird und das es den Studierenden ermöglicht, die erforderlichen Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben.
 
 (2) Der Unterricht im Studium soll fächerübergreifendes Denken fördern und, sofern zweckmäßig, problemorientiert am Lehrgegenstand ausgerichtet sein. Die Universitäten haben fächerübergreifenden Unterricht und Unterricht in Querschnittsbereichen anzubieten. Die Vermittlung der naturwissenschaftlichen und theoretischen Grundlagen ist auf die zahnmedizinisch relevanten Ausbildungsinhalte zu konzentrieren.
 
@@ -105,9 +105,13 @@
 
 # § 4 – Studienordnung
 
-(1) Die Universität schreibt in einer Studienordnung vor, an welchen Unterrichtsveranstaltungen die Studierenden regelmäßig und erfolgreich teilnehmen müssen. Die regelmäßige und erfolgreiche Teilnahme an den in den Anlagen 1 bis 4 festgelegten Unterrichtsveranstaltungen ist zwingend.
+Die Universität regelt in einer Studienordnung,
 
-(2) In der Studienordnung werden auch die Voraussetzungen für die Feststellung der regelmäßigen und erfolgreichen Teilnahme an den Unterrichtsveranstaltungen geregelt.
+1. an welchen Unterrichtsveranstaltungen die Studierenden erfolgreich teilzunehmen haben,
+
+2. das Nähere zu den Anforderungen an die erfolgreiche Teilnahme an einer Unterrichtsveranstaltung und
+
+3. dass die Studierenden an den in den Anlagen 1 bis 3 genannten Unterrichtsveranstaltungen erfolgreich und regelmäßig teilzunehmen haben.
 
 # § 5 – Unterrichtsveranstaltungen
 
@@ -125,11 +129,11 @@ Darüber hinaus kann die Universität weitere Unterrichtsveranstaltungen anbiete
 
 (3) Die Teilnahme an den in Anlage 2 festgelegten Unterrichtsveranstaltungen ist vorbehaltlich des § 82 erst nach Bestehen des Ersten Abschnitts der Zahnärztlichen Prüfung möglich. Die Teilnahme an den in Anlage 3 Nummer 1 bis 5 festgelegten Unterrichtsveranstaltungen ist vorbehaltlich des § 82 erst nach Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung möglich.
 
-(4) Die Universitäten evaluieren die Unterrichtsveranstaltungen regelmäßig auf ihren Erfolg. Sie geben die Ergebnisse bekannt.
+(4) Die Universitäten evaluieren die Unterrichtsveranstaltungen regelmäßig anonymisiert auf ihren Erfolg. Sie geben die Ergebnisse der Evaluation öffentlich bekannt.
 
 # § 6 – Vorlesungen
 
-(1) Die Vorlesung ist eine zusammenhängende Darstellung und Vermittlung von wissenschaftlichen und methodischen Kenntnissen durch den Vortrag von Lehrkräften.
+(1) Die Vorlesung ist eine zusammenhängende Darstellung und Vermittlung von wissenschaftlichen und methodischen Kenntnissen durch den Vortrag von Lehrkräften. Sie kann auch in digitaler Form durchgeführt werden.
 
 (2) Die praktischen Übungen, Seminare und gegenstandsbezogenen Studiengruppen sind durch Vorlesungen systematisch vorzubereiten oder zu begleiten.
 
@@ -143,7 +147,7 @@ Darüber hinaus kann die Universität weitere Unterrichtsveranstaltungen anbiete
 
 3. die Behandlung des Patienten oder der Patientin.
 
-(2) In den praktischen Übungen bearbeiten die Studierenden eigenständig praktische Aufgaben unter Anleitung, Aufsicht und Verantwortung der ausbildenden Lehrkraft. Die praktischen Übungen erfordern eine ständige Betreuung der Studierenden. Bei den praktischen Übungen haben die Universitäten die praktische Anschauung zu gewährleisten. Sofern es der Lehrstoff erfordert, ist in kleinen Gruppen zu unterrichten.
+(2) In den praktischen Übungen bearbeiten die Studierenden eigenständig praktische Aufgaben unter Anleitung, Aufsicht und Verantwortung der ausbildenden Lehrkraft. Die praktischen Übungen erfordern eine ständige Betreuung der Studierenden. Bei den praktischen Übungen haben die Universitäten zu gewährleisten, dass der Lehrstoff praktisch vermittelt wird. Sofern es der Lehrstoff erfordert, ist in kleinen Gruppen zu unterrichten. Praktische Übungen können durch digitale Lehrformate begleitet werden.
 
 (3) Der Lehrstoff der praktischen Übungen soll sich an den Anforderungen der zahnärztlichen Behandlungspraxis ausrichten. Dabei steht zunächst die Unterweisung an gesunden Strukturen, in Diagnostik und in Prävention und dann entsprechend dem Stand der Fähigkeiten und Fertigkeiten der Studierenden die Behandlung des Patienten oder der Patientin im Vordergrund.
 
@@ -153,7 +157,7 @@ Darüber hinaus kann die Universität weitere Unterrichtsveranstaltungen anbiete
 
 # § 8 – Seminare
 
-(1) In den Seminaren wird der durch praktische Übungen und Vorlesungen vermittelte Lehrstoff vertiefend anwendungs- und gegenstandsbezogen erörtert. Die Seminare sind darauf ausgerichtet, den Studierenden wichtige medizinische und zahnmedizinische Zusammenhänge zu vermitteln. Die Seminare umfassen auch die Vorstellung von Patienten und Patientinnen.
+(1) In den Seminaren wird der durch praktische Übungen und Vorlesungen vermittelte Lehrstoff vertiefend anwendungs- und gegenstandsbezogen erörtert. Die Seminare sind darauf ausgerichtet, den Studierenden wichtige medizinische und zahnmedizinische Zusammenhänge zu vermitteln. Die Seminare umfassen auch die Vorstellung von Patienten und Patientinnen. Sie können durch digitale Lehrformate begleitet werden.
 
 (2) Die Studierenden haben in den Seminaren durch eigene Beiträge vor allem fächerübergreifende Probleme und Beziehungen zwischen medizinischen und zahnmedizinischen Grundlagen und klinischen Anwendungen zu verdeutlichen.
 
@@ -165,7 +169,7 @@ Darüber hinaus kann die Universität weitere Unterrichtsveranstaltungen anbiete
 
 # § 9 – Gegenstandsbezogene Studiengruppen
 
-(1) Gegenstandsbezogene Studiengruppen haben die Aufgabe, den in praktischen Übungen, Seminaren und Vorlesungen dargestellten Stoff zu besprechen und das eigenständige, problemorientierte Arbeiten zu üben. In den gegenstandsbezogenen Studiengruppen sollen vor allem Fallbeispiele behandelt werden.
+(1) Gegenstandsbezogene Studiengruppen haben die Aufgabe, den in praktischen Übungen, Seminaren und Vorlesungen dargestellten Stoff zu besprechen und das eigenständige, problemorientierte Arbeiten zu üben. In den gegenstandsbezogenen Studiengruppen sollen vor allem Fallbeispiele behandelt werden. Sie können durch digitale Lehrformate begleitet werden.
 
 (2) Gegenstandsbezogene Studiengruppen werden von den Lehrkräften der Universität oder von Lehrkräften geleitet, die von der Universität beauftragt sind.
 
@@ -175,9 +179,9 @@ Darüber hinaus kann die Universität weitere Unterrichtsveranstaltungen anbiete
 
 # § 10 – Wahlfach vor dem Ersten Abschnitt der Zahnärztlichen Prüfung
 
-(1) Die Studierenden können bis zum Ersten Abschnitt der Zahnärztlichen Prüfung aus von der Universität fakultativ angebotenen Wahlfächern frei wählen.
+(1) Die Studierenden können bis zum Ersten Abschnitt der Zahnärztlichen Prüfung von der Universität angebotene Wahlfächer ableisten.
 
-(2) Die in dem Wahlfach erbrachten Leistungen werden benotet. Die Note wird in das Zeugnis nach dem Muster der Anlage 16 aufgenommen.
+(2) Sofern der oder die Studierende ein Wahlfach nach Absatz 1 ableistet, werden die in dem Wahlfach erbrachten Leistungen benotet. Die Note wird in das Zeugnis nach dem Muster der Anlage 16 aufgenommen.
 
 # § 11 – Wahlfach vor dem Dritten Abschnitt der Zahnärztlichen Prüfung
 
@@ -211,47 +215,49 @@ Die Universitäten bescheinigen den Studierenden ihre regelmäßige und erfolgre
 
 5. eine Bescheinigung einer nicht in den Nummern 1 bis 4 genannten Stelle über die Ausbildung in erster Hilfe, wenn die Eignung dieser Stelle für eine solche Ausbildung von der nach Landesrecht zuständigen Stelle anerkannt worden ist.
 
-# § 14 – Krankenpflegedienst
+# § 14 – Pflegedienst
 
-(1) Der Krankenpflegedienst hat den Zweck, Studienanwärter und Studienanwärterinnen oder Studierende in den Betrieb und die Organisation eines Krankenhauses einzuführen und mit den üblichen Verrichtungen der Krankenpflege vertraut zu machen.
+(1) Der Pflegedienst hat den Zweck, Studienanwärter und Studienanwärterinnen oder Studierende in den Betrieb und die Organisation eines Krankenhauses einzuführen und mit den üblichen Verrichtungen der Pflege vertraut zu machen.
 
-(2) Der Krankenpflegedienst ist in einem Krankenhaus oder in einer Rehabilitationseinrichtung mit einem Pflegeaufwand abzuleisten, der dem eines Krankenhauses vergleichbar ist. Als Nachweis stellt das Krankenhaus oder die Rehabilitationseinrichtung dem Studienanwärter oder der Studienanwärterin oder dem oder der Studierenden ein Zeugnis nach dem Muster der Anlage 10 aus.
+(2) Der Pflegedienst ist in einem Krankenhaus oder in einer Rehabilitationseinrichtung mit einem Pflegeaufwand abzuleisten, der dem eines Krankenhauses vergleichbar ist. Als Nachweis stellt das Krankenhaus oder die Rehabilitationseinrichtung dem Studienanwärter oder der Studienanwärterin oder dem oder der Studierenden ein Zeugnis nach dem Muster der Anlage 10 aus.
 
-(3) Der Krankenpflegedienst ist vor Beginn des Studiums oder während der unterrichtsfreien Zeiten des Studiums vor dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung abzuleisten.
+(3) Der Pflegedienst ist vor Beginn des Studiums oder während der unterrichtsfreien Zeiten des Studiums vor dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung abzuleisten.
 
-(4) Der Krankenpflegedienst dauert einen Monat.
+(4) Der Pflegedienst dauert einen Monat.
 
-(5) Auf den Krankenpflegedienst sind anzurechnen:
+(5) Auf den Pflegedienst sind anzurechnen:
 
-1. eine krankenpflegerische Tätigkeit im Sanitätsdienst der Bundeswehr oder in vergleichbaren Einrichtungen,
+1. eine pflegerische Tätigkeit im Sanitätsdienst der Bundeswehr,
 
-2. eine krankenpflegerische Tätigkeit im Rahmen eines freiwilligen sozialen Jahres nach dem Gesetz zur Förderung eines freiwilligen sozialen Jahres oder nach dem Jugendfreiwilligendienstegesetz,
+2. eine pflegerische Tätigkeit im Rahmen eines freiwilligen sozialen Jahres nach dem Gesetz zur Förderung eines freiwilligen sozialen Jahres in der Fassung der Bekanntmachung vom 15. Juli 2002 (BGBl. I S. 2596), zuletzt geändert durch Artikel 1 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3242), oder nach dem Jugendfreiwilligendienstegesetz,
 
-3. eine krankenpflegerische Tätigkeit im Rahmen des Bundesfreiwilligendienstes nach dem Bundesfreiwilligendienstgesetz,
+3. eine pflegerische Tätigkeit im Rahmen des Bundesfreiwilligendienstes nach dem Bundesfreiwilligendienstgesetz,
 
-4. eine krankenpflegerische Tätigkeit im Rahmen eines Zivildienstes nach dem Zivildienstgesetz,
+4. eine pflegerische Tätigkeit im Rahmen eines Zivildienstes nach dem Zivildienstgesetz.
 
-5. eine erfolgreich abgeschlossene Ausbildung
+(6) Der Pflegedienst muss nicht abgeleistet werden, wenn der oder die Studierende eine der folgenden Ausbildungen abgeschlossen hat:
 
-a) als Entbindungspfleger oder Hebamme,
+1. eine Ausbildung als Entbindungspfleger oder Hebamme,
 
-b) als Rettungsassistent oder Rettungsassistentin,
+2. eine Ausbildung als Rettungsassistent oder Rettungsassistentin,
 
-c) als Notfallsanitäter oder Notfallsanitäterin,
+3. eine Ausbildung als Notfallsanitäter oder Notfallsanitäterin,
 
-d) in der Gesundheits- und Krankenpflege,
+4. eine Ausbildung in der Gesundheits- und Krankenpflege,
 
-e) in der Gesundheits- und Kinderkrankenpflege,
+5. eine Ausbildung in der Gesundheits- und Kinderkrankenpflege,
 
-f) in der Altenpflege oder
+6. eine Ausbildung in der Altenpflege,
 
-g) als Pflegefachmann oder Pflegefachfrau und
+7. eine Ausbildung als Pflegefachmann oder Pflegefachfrau oder
 
-6. eine erfolgreich abgeschlossene landesrechtlich geregelte Ausbildung von mindestens einjähriger Dauer in der Krankenpflegehilfe oder in der Altenpflegehilfe.
+8. eine landesrechtlich geregelte Ausbildung von mindestens einjähriger Dauer in der Krankenpflegehilfe oder in der Altenpflegehilfe.
 
-(6) Ein im Ausland abgeleisteter Krankenpflegedienst kann angerechnet werden, wenn er den Anforderungen der Absätze 1 bis 4 entspricht. Eine im Ausland abgeleistete krankenpflegerische Tätigkeit oder eine im Ausland erfolgreich abgeschlossene Ausbildung kann angerechnet werden, wenn sie mit den in Absatz 5 genannten Tätigkeiten und Ausbildungen vergleichbar ist.
+Satz 1 gilt entsprechend, wenn der oder die Studierende im Rahmen der ärztlichen Ausbildung einen Krankenpflegedienst von mindestens einem Monat absolviert hat.
 
-(7) Die Ableistung des Krankenpflegedienstes ist bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen.
+(7) Ein im Ausland abgeleisteter Pflegedienst kann angerechnet werden, wenn er den Anforderungen der Absätze 1 bis 4 entspricht. Eine im Ausland abgeleistete pflegerische Tätigkeit oder eine im Ausland erfolgreich abgeschlossene Ausbildung kann angerechnet werden, wenn sie mit den in Absatz 5 genannten Tätigkeiten oder mit den in Absatz 6 genannten Ausbildungen vergleichbar ist.
+
+(8) Die Ableistung des Pflegedienstes ist bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen.
 
 # § 15 – Famulatur
 
@@ -287,13 +293,15 @@ Die Länder richten zuständige Stellen ein, vor denen die Zahnärztliche Prüfu
 
 (4) Die Entscheidung über Ausnahmen von den Regelungen in den Absätzen 1 bis 3 trifft auf Antrag die zuständige Stelle des Landes, bei der der oder die Studierende den jeweiligen Abschnitt der Zahnärztlichen Prüfung ablegen, fortsetzen oder wiederholen will, im Benehmen mit der nach den Absätzen 1, 2 oder 3 zuständigen Stelle.
 
+(5) Die zuständige Stelle des Landes kann Aufgaben, die ihr nach dieser Verordnung bei der Durchführung der mündlichen und mündlich-praktischen Prüfungen obliegen, einer oder mehreren von ihr zu bestellenden beauftragten Personen an der Universität übertragen. Die von der zuständigen Stelle beauftragten Personen und die für sie zu bestellenden Vertretungen sollen Hochschullehrer oder Hochschullehrerinnen sein. Die Universitäten stellen sicher, dass die mündliche und die mündlich-praktischen Prüfungen den Anforderungen nach dieser Verordnung entsprechen. Sofern wesentliche Aufgaben von der zuständigen Stelle auf eine oder mehrere Personen an der Universität oder Hochschule übertragen werden, sind die damit verbundenen Kosten und Personalwirkungen von der zuständigen Stelle zu kompensieren.
+
 # § 19 – Antrag auf Zulassung
 
 (1) Der Antrag auf Zulassung zu einem Abschnitt der Zahnärztlichen Prüfung ist an die nach § 18 zuständige Stelle zu richten.
 
-(2) Der Antrag auf Zulassung kann frühestens im letzten Studienhalbjahr der Studienzeit gestellt werden, die in den §§ 28, 42 und 58 als Mindeststudienzeit festgelegt ist.
+(2) Der Antrag auf Zulassung kann frühestens in dem Semester gestellt werden, das in den §§ 28, 42 und 58 als Mindeststudienzeit festgelegt ist.
 
-(3) Der Antrag auf Zulassung ist schriftlich in der Form zu stellen, die die nach § 18 zuständige Stelle vorgeschrieben hat. Er kann auch elektronisch gestellt werden. Der Antrag muss der nach § 18 zuständigen Stelle bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
+(3) Der Antrag auf Zulassung ist schriftlich in der Form zu stellen, die die nach § 18 zuständige Stelle vorgeschrieben hat. Er kann auch elektronisch gestellt werden. Der Antrag muss der zuständigen Stelle bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
 
 # § 20 – Antragsunterlagen
 
@@ -309,9 +317,9 @@ Die Länder richten zuständige Stellen ein, vor denen die Zahnärztliche Prüfu
 
 5. der Nachweis über die Ausbildung in erster Hilfe und
 
-6. das Zeugnis über den Krankenpflegedienst.
+6. das Zeugnis über den Pflegedienst.
 
-Der Nachweis nach Satz 1 Nummer 5 darf bei Antragstellung nicht älter als drei Jahre sein. Sofern die in Satz 1 Nummer 3 und 4 genannten Unterlagen dem Antrag noch nicht beigefügt werden können, sind sie in einer von der nach § 18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die Übermittlung elektronischer Unterlagen durch den Studierenden oder die Studierende ist nicht zulässig. Die Universität kann die Bescheinigungen nach Satz 1 Nummer 4 der nach § 18 zuständigen Stelle elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen.
+Der Nachweis nach Satz 1 Nummer 5 darf bei Antragstellung nicht älter als drei Jahre sein. Sofern die in Satz 1 Nummer 3 und 4 genannten Unterlagen dem Antrag noch nicht beigefügt werden können, sind sie in einer von der nach § 18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die Übermittlung elektronischer Unterlagen durch den Studierenden oder die Studierende ist nicht zulässig. Die Universität kann die Bescheinigungen nach Satz 1 Nummer 4 der zuständigen Stelle elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen.
 
 (2) Dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung sind folgende Unterlagen im Original oder in beglaubigter Kopie beizufügen:
 
@@ -331,7 +339,7 @@ Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht b
 
 2. das Studienbuch oder die Unterlagen, die an der jeweiligen Universität zum Nachweis der Studienzeiten an die Stelle des Studienbuches treten,
 
-3. die Bescheinigungen nach dem Muster der Anlage 5 oder eine zusammenfassende Bescheinigung nach dem Muster der Anlage 8 über die regelmäßige und erfolgreiche Teilnahme an den nach den Anlagen 3 und 4 vorgeschriebenen Unterrichtsveranstaltungen,
+3. die Bescheinigung nach dem Muster der Anlage 5 oder eine zusammenfassende Bescheinigung nach dem Muster der Anlage 8 über die regelmäßige und erfolgreiche Teilnahme an den nach Anlage 3 vorgeschriebenen Unterrichtsveranstaltungen und die erfolgreiche Teilnahme an Unterrichtsveranstaltungen an den in Anlage 4 genannten Fächern und Querschnittsbereichen,
 
 4. der Nachweis nach dem Muster der Anlage 12 über den Erwerb der Sachkunde im Strahlenschutz für das Anwendungsgebiet Intraorale Röntgendiagnostik mit dentalen Tubusgeräten, Panoramaschichtaufnahmen, Fernröntgenaufnahmen des Schädels,
 
@@ -339,9 +347,9 @@ Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht b
 
 6. das Zeugnis über die Famulatur.
 
-Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht beigefügt werden können, sind sie in einer von der nach § 18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die Übermittlung elektronischer Unterlagen durch den Studierenden oder die Studierende ist nicht zulässig. Die Universität kann die Bescheinigungen nach Satz 1 Nummer 3 der nach § 18 zuständigen Stelle elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen.
+Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht beigefügt werden können, sind sie in einer von der nach § 18 zuständigen Stelle zu bestimmenden Frist nachzureichen. Die Übermittlung elektronischer Unterlagen durch den Studierenden oder die Studierende ist nicht zulässig. Die Universität kann die Bescheinigungen nach Satz 1 Nummer 3 der zuständigen Stelle elektronisch übermitteln. In diesem Fall sind die Bescheinigungen dem Antrag nicht beizufügen.
 
-(4) Studierende, die den Ersten Abschnitt der Ärztlichen Prüfung oder Prüfungen in einem Modellstudiengang, in denen sie über die in dem Ersten Abschnitt der Ärztlichen Prüfung nachzuweisenden Kenntnisse, Fähigkeiten und Fertigkeiten in einer dem Regelstudiengang gleichwertigen Weise geprüft wurden, bestanden haben, haben dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung keine Unterlagen über die regelmäßige und erfolgreiche Teilnahme an den in Anlage 1 Nummer 1 bis 8 genannten Unterrichtsveranstaltungen beizufügen. Studierende, die die Ärztliche Prüfung bestanden haben, haben dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung keine Unterlagen über die regelmäßige und erfolgreiche Teilnahme an den in Anlage 4 Nummer 1 bis 8 und 11 bis 14 genannten Unterrichtsveranstaltungen beizufügen.
+(4) Studierende, die den Ersten Abschnitt der Ärztlichen Prüfung oder Prüfungen in einem Modellstudiengang, in denen sie über die in dem Ersten Abschnitt der Ärztlichen Prüfung nachzuweisenden Kenntnisse, Fähigkeiten und Fertigkeiten in einer dem Regelstudiengang gleichwertigen Weise geprüft wurden, bestanden haben, haben dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung keine Unterlagen über die regelmäßige und erfolgreiche Teilnahme an den in Anlage 1 Nummer 1 bis 8 genannten Unterrichtsveranstaltungen beizufügen. Studierende, die die Ärztliche Prüfung bestanden haben, haben dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung keine Unterlagen über die erfolgreiche Teilnahme an Unterrichtsveranstaltungen in den in Anlage 4 Nummer 1 bis 8 und 11 bis 15 genannten Fächern und Querschnittsbereichen beizufügen.
 
 # § 21 – Versagung der Zulassung
 
@@ -357,7 +365,7 @@ Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht b
 
 5. der oder die Studierende nicht prüfungsfähig ist.
 
-(2) Sofern Zweifel an der Prüfungsfähigkeit des oder der Studierenden bestehen, kann die nach § 18 zuständige Stelle verlangen, dass ihr der oder die Studierende eine ärztliche Bescheinigung vorlegt. Die nach § 18 zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
+(2) Sofern Zweifel an der Prüfungsfähigkeit des oder der Studierenden bestehen, kann die nach § 18 zuständige Stelle verlangen, dass ihr der oder die Studierende eine ärztliche Bescheinigung vorlegt. Die zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
 
 (3) Die Zulassung ist in den Fällen des Absatzes 1 Nummer 1 bis 3 nicht zu versagen, wenn
 
@@ -369,7 +377,13 @@ Sofern die in Satz 1 Nummer 2 und 3 genannten Unterlagen dem Antrag noch nicht b
 
 # § 22 – Nachteilsausgleich
 
-Die besonderen Belange von Studierenden mit Behinderungen sind zur Wahrung ihrer Chancengleichheit bei der Durchführung der Zahnärztlichen Prüfung zu berücksichtigen.
+(1) Einem oder einer Studierenden mit einer Behinderung oder einer Beeinträchtigung wird bei der Durchführung eines Abschnitts der Zahnärztlichen Prüfung oder eines Teils des Dritten Abschnitts der Zahnärztlichen Prüfung auf Antrag ein individueller Nachteilsausgleich gewährt, wenn die Behinderung oder Beeinträchtigung eine leistungsbeeinträchtigende Auswirkung hat. Der Antrag auf Nachteilsausgleich ist an die nach § 18 zuständige Stelle zu richten.
+
+(2) Der Nachteilsausgleich wird nur gewährt, wenn er spätestens mit dem Antrag auf Zulassung zu dem Abschnitt der Zahnärztlichen Prüfung beantragt worden ist.
+
+(3) Die nach § 18 zuständige Stelle kann für die Entscheidung über den Antrag auf Nachteilsausgleich verlangen, dass der oder die Studierende ein ärztliches Attest oder andere geeignete Unterlagen vorlegt. Wird die Vorlage eines ärztlichen Attests oder anderer geeigneter Unterlagen verlangt, kann der Nachteilsausgleich nur gewährt werden, wenn aus dem ärztlichen Attest oder den anderen Unterlagen die leistungsbeeinträchtigende Auswirkung der Behinderung oder der Beeinträchtigung hervorgeht.
+
+(4) In welcher geänderten Form die Prüfungsleistung zu erbringen ist, bestimmt die nach § 18 zuständige Stelle. Die fachlichen Prüfungsanforderungen dürfen durch den Nachteilsausgleich nicht verändert werden.
 
 # § 23 – Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen
 
@@ -409,7 +423,7 @@ Die nach § 18 zuständige Stelle kann einen Prüfungsteil, die mündliche Prüf
 
 (1) Tritt ein Studierender oder eine Studierende nach seiner oder ihrer Zulassung von einem Abschnitt der Zahnärztlichen Prüfung, einem Prüfungsteil, einer mündlichen Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in einem Fach oder von einem Prüfungselement des mündlich-praktischen Teils des Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in einem Fach zurück, so hat er oder sie die Gründe für seinen oder ihren Rücktritt unverzüglich der nach § 18 zuständigen Stelle mitzuteilen.
 
-(2) Genehmigt die nach § 18 zuständige Stelle den Rücktritt, so gilt der jeweilige Abschnitt der Zahnärztlichen Prüfung, der Prüfungsteil, die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder der mündlich-praktische Teil des Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach als nicht unternommen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt. Die nach § 18 zuständige Stelle kann verlangen, dass ihr der oder die Studierende bei Krankheit eine ärztliche Bescheinigung vorlegt. Die nach § 18 zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
+(2) Genehmigt die nach § 18 zuständige Stelle den Rücktritt, so gilt der jeweilige Abschnitt der Zahnärztlichen Prüfung, der Prüfungsteil, die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder der mündlich-praktische Teil des Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach als nicht unternommen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt. Die zuständige Stelle kann verlangen, dass ihr der oder die Studierende bei Krankheit eine ärztliche Bescheinigung vorlegt. Die zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
 
 (3) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterlässt es der oder die Studierende, die Gründe für seinen oder ihren Rücktritt unverzüglich mitzuteilen, so gilt der jeweilige Abschnitt der Zahnärztlichen Prüfung, der Prüfungsteil, die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder der mündlich-praktische Teil des Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach als nicht bestanden.
 
@@ -425,11 +439,11 @@ Die nach § 18 zuständige Stelle kann einen Prüfungsteil, die mündliche Prüf
 
 (2) Liegt ein wichtiger Grund für das Verhalten des oder der Studierenden vor, so gilt der Prüfungsteil, die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach oder der mündlich-praktische Teil des Zweiten oder des Dritten Abschnitts der Zahnärztlichen Prüfung in dem jeweiligen Fach als nicht unternommen. Der oder die Studierende hat die Gründe für sein oder ihr Verhalten unverzüglich der nach § 18 zuständigen Stelle mitzuteilen.
 
-(3) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft die nach § 18 zuständige Stelle. Die nach § 18 zuständige Stelle kann verlangen, dass ihr der oder die Studierende bei Krankheit eine ärztliche Bescheinigung vorlegt. Die nach § 18 zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
+(3) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft die nach § 18 zuständige Stelle. Die zuständige Stelle kann verlangen, dass ihr der oder die Studierende bei Krankheit eine ärztliche Bescheinigung vorlegt. Die nach zuständige Stelle kann auch einen Arzt oder eine Ärztin benennen, von dem oder der der oder die Studierende die ärztliche Bescheinigung vorzulegen hat.
 
 # § 28 – Zeitpunkt der Prüfung
 
-Der Erste Abschnitt der Zahnärztlichen Prüfung wird nach einem Studium der Zahnmedizin von mindestens zwei Jahren abgelegt.
+Der Erste Abschnitt der Zahnärztlichen Prüfung wird frühestens am Ende des vierten Fachsemesters des Studiums der Zahnmedizin abgelegt.
 
 # § 29 – Art der Prüfung
 
@@ -477,7 +491,7 @@ Die nach § 18 zuständige Stelle stellt dem oder der Studierenden die Ladung f�
 
 (4) In jedem Fach findet ein gesondertes Prüfungsgespräch statt. An einem Tag sollen nicht mehr als zwei Prüfungsgespräche stattfinden. Die Prüfungsgespräche finden in der Regel an aufeinanderfolgenden Werktagen statt.
 
-(5) Jedes Prüfungsgespräch dauert mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender.
+(5) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender dauern.
 
 (6) Die in den Prüfungsgesprächen gestellten Fragen sollen sich auf die Grundlagen des jeweiligen Faches und deren Bedeutung für die klinisch-zahnmedizinischen Zusammenhänge beziehen.
 
@@ -491,7 +505,7 @@ Die nach § 18 zuständige Stelle stellt dem oder der Studierenden die Ladung f�
 
 (4) In den Prüfungsterminen ist nur die jeweils in dem Fach prüfende Person anwesend.
 
-(5) Die der Prüfungskommission vorsitzende Person leitet die mündlich-praktische Prüfung und kann selbst prüfen. Sie ist berechtigt, der Prüfung in allen Fächern beizuwohnen.
+(5) Die der Prüfungskommission vorsitzende Person leitet die mündliche Prüfung und kann selbst prüfen. Sie ist berechtigt, der Prüfung in allen Fächern beizuwohnen.
 
 # § 34 – Durchführung
 
@@ -520,6 +534,8 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (2) Die der Prüfungskommission vorsitzende Person hat jeweils bis zu fünf bereits zum Ersten Abschnitt der Zahnärztlichen Prüfung zugelassenen Studierenden der Zahnmedizin, einem Mitglied des Lehrkörpers einer Universität des Landes und einem Vertreter oder einer Vertreterin der zuständigen Zahnärztekammer zu gestatten, bei den einzelnen Prüfungsterminen anwesend zu sein. Sie hat sicherzustellen, dass für alle Studierenden dieselbe Möglichkeit besteht, bei den einzelnen Prüfungsterminen anwesend zu sein.
 
 (3) Bei der Bekanntgabe des Prüfungsergebnisses dürfen die in Absatz 2 Satz 1 genannten Personen nicht anwesend sein.
+
+(4) Abweichend von Absatz 2 kann die der Prüfungskommission vorsitzende Person gestatten, dass die Prüfung in Echtzeit in Bild und Ton für die in Absatz 2 Satz 1 genannten Personen in einen anderen Raum übertragen wird, wenn die Studierenden, die prüfenden Personen und die beisitzende Person in die Übertragung einwilligen. Die Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 # § 36 – Bewertung
 
@@ -595,7 +611,7 @@ Die nach § 18 zuständige Stelle erteilt über das Bestehen des Ersten Abschnit
 
 # § 42 – Zeitpunkt der Prüfung
 
-Der Zweite Abschnitt der Zahnärztlichen Prüfung wird nach einem Studium der Zahnmedizin von mindestens einem Jahr nach Bestehen des Ersten Abschnitts der Zahnärztlichen Prüfung abgelegt.
+Der Zweite Abschnitt der Zahnärztlichen Prüfung wird frühestens am Ende des zweiten Fachsemesters des Studiums der Zahnmedizin nach Bestehen des Ersten Abschnitts der Zahnärztlichen Prüfung abgelegt.
 
 # § 43 – Art der Prüfung
 
@@ -697,7 +713,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (2) Das jeweilige Prüfungsgespräch findet an dem Tag oder an einem der Tage statt, an dem das praktische Prüfungselement in dem jeweiligen Fach durchgeführt wird.
 
-(3) Jedes Prüfungsgespräch dauert mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender.
+(3) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender dauern.
 
 (4) Die in den Prüfungsgesprächen gestellten Fragen sollen sich auf die Grundlagen des jeweiligen Faches und deren Bedeutung für die klinisch-zahnmedizinischen Zusammenhänge beziehen.
 
@@ -707,7 +723,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (2) Die nach § 18 zuständige Stelle bestellt die Prüfungskommission.
 
-(3) Die Prüfungskommission besteht aus der vorsitzenden Person und weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende Person zu bestellen. In der Fächergruppe Zahnerhaltung kann für die einzelnen Fächer dieselbe prüfende Person oder können verschiedene prüfende Personen bestellt werden. Für die vorsitzende Person und die weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die der Prüfungskommission vorsitzende Person sowie deren stellvertretende Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt werden.
+(3) Die Prüfungskommission besteht aus der vorsitzenden Person und weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende Person zu bestellen. Die der Prüfungskommission vorsitzende Person sowie deren stellvertretende Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt werden. Für die Fächer der Fächergruppe Zahnerhaltung kann dieselbe prüfende Person bestellt werden, wenn nicht für jedes Fach eine Person zur Verfügung steht, die die Anforderungen der Sätze 4 bis 6 erfüllt.
 
 (4) In den Prüfungsterminen ist nur die jeweils in dem Fach prüfende Person anwesend.
 
@@ -723,7 +739,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (4) Über den Verlauf des Prüfungsgesprächs ist für jeden Studierenden und jede Studierende eine Niederschrift nach dem Muster der Anlage 14 anzufertigen. Aus der Niederschrift muss Folgendes ersichtlich sein:
 
-1. der Gegenstand des Prüfungselements,
+1. der Gegenstand der Prüfung,
 
 2. der Verlauf der Prüfung und
 
@@ -738,6 +754,8 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (2) Die der Prüfungskommission vorsitzende Person hat jeweils bis zu fünf bereits zum Zweiten Abschnitt der Zahnärztlichen Prüfung zugelassenen Studierenden der Zahnmedizin, einem Mitglied des Lehrkörpers einer Universität des Landes und einem Vertreter oder einer Vertreterin der zuständigen Zahnärztekammer zu gestatten, bei den einzelnen Prüfungsterminen anwesend zu sein. Sie hat sicherzustellen, dass für alle Studierenden dieselbe Möglichkeit besteht, bei den einzelnen Prüfungsterminen anwesend zu sein.
 
 (3) Bei der Bekanntgabe des Prüfungsergebnisses dürfen die in Absatz 2 Satz 1 genannten Personen nicht anwesend sein.
+
+(4) Abweichend von Absatz 2 kann die der Prüfungskommission vorsitzende Person gestatten, dass die Prüfung in Echtzeit in Bild und Ton für die in Absatz 2 Satz 1 genannten Personen in einen anderen Raum übertragen wird, wenn die Studierenden, die prüfenden Personen und die beisitzende Person in die Übertragung einwilligen. Die Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 # § 52 – Bewertung
 
@@ -801,7 +819,7 @@ Die nach § 18 zuständige Stelle erteilt über das Bestehen des Zweiten Abschni
 
 # § 58 – Zeitpunkt der Prüfung
 
-Der Dritte Abschnitt der Zahnärztlichen Prüfung wird nach einem Studium der Zahnmedizin von mindestens zwei Jahren nach Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung abgelegt.
+Der Dritte Abschnitt der Zahnärztlichen Prüfung wird frühestens am Ende des vierten Fachsemesters des Studiums der Zahnmedizin nach Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung abgelegt.
 
 # § 59 – Art der Prüfung
 
@@ -811,7 +829,7 @@ Der Dritte Abschnitt der Zahnärztlichen Prüfung wird nach einem Studium der Za
 
 # § 60 – Prüfungstermine
 
-(1) Der mündlich-praktische Teil des Dritten Abschnitts der Zahnärztlichen Prüfung findet in der vorlesungsfreien Zeit in einem Zeitraum von sechs Monaten statt. Nachholtermine können auch zu einer anderen Zeit vorgesehen werden.
+(1) Der mündlich-praktische Teil des Dritten Abschnitts der Zahnärztlichen Prüfung beginnt in der vorlesungsfreien Zeit und findet in einem Zeitraum von sechs Monaten statt. Nachholtermine können auch zu einer anderen Zeit vorgesehen werden.
 
 (2) Der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen Prüfung wird in den Monaten Juni und November durchgeführt. Er findet an einem bundeseinheitlichen Termin statt.
 
@@ -891,9 +909,11 @@ d) Zahnhartsubstanzlehre, Prävention und Restauration.
 
 a) einen Patienten oder eine Patientin über die Vermeidung von Risikofaktoren zu informieren und entsprechende Instruktionen zu geben und
 
-b) an mindestens einem parodental erkrankten Patienten oder einer parodental erkrankten Patientin selbständig eine komplette Zahnreinigung sowie eine subgingivale Wurzelreinigung an mindestens fünf Zähnen durchzuführen und
+b) an mindestens einem parodontal erkrankten Patienten oder einer parodontal erkrankten Patientin selbständig eine komplette Zahnreinigung sowie eine subgingivale Wurzelreinigung an mindestens fünf Zähnen durchzuführen und
 
 4. im Fach Zahnhartsubstanzlehre, Prävention und Restauration eine präventive Maßnahme und mindestens vier verschiedene restaurative Maßnahmen unterschiedlicher Invasivität, die sich auf den Front- und Seitenzahnbereich verteilen, selbständig an dem Patienten oder an der Patientin durchzuführen.
+
+Sofern im Fach Kinderzahnheilkunde und Kieferorthopädie für die Durchführung einer therapeutischen Maßnahme nicht genügend Patienten oder Patientinnen zur Verfügung stehen, kann die Durchführung einer therapeutischen Maßnahme durch eine vergleichbare Leistung am Patientensimulator (Phantom) ersetzt werden.
 
 (8) In allen Fächern muss der oder die Studierende Kenntnisse, Fähigkeiten und Fertigkeiten nachweisen
 
@@ -931,7 +951,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (2) Das jeweilige Prüfungsgespräch findet an einem der Tage statt, an dem das praktische Prüfungselement in dem jeweiligen Fach durchgeführt wird. Das Prüfungsgespräch im Fach Zahnärztliche Radiologie findet an einem weiteren Tag statt.
 
-(3) Jedes Prüfungsgespräch dauert mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender.
+(3) Jedes Prüfungsgespräch soll mindestens 30 und höchstens 45 Minuten je Studierendem oder je Studierender dauern.
 
 (4) Die in den Prüfungsgesprächen gestellten Fragen sollen fallbezogen sein und sich auf die für den zahnärztlichen Beruf erforderlichen Kenntnisse, Fähigkeiten und Fertigkeiten beziehen.
 
@@ -943,7 +963,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (2) Die nach § 18 zuständige Stelle bestellt die Prüfungskommission.
 
-(3) Die Prüfungskommission besteht aus der vorsitzenden Person und weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende Person zu bestellen. Für die Fächer Zahn-, Mund- und Kieferkrankheiten, Oralchirurgie, Mund-, Kiefer- und Gesichtschirurgie und Zahnärztliche Radiologie kann dieselbe prüfende Person oder können verschiedene prüfende Personen bestellt werden. In der Fächergruppe Zahnerhaltung kann für die einzelnen Fächer dieselbe prüfende Person oder können verschiedene prüfende Personen bestellt werden. Für die vorsitzende Person und die weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die der Prüfungskommission vorsitzende Person sowie deren stellvertretende Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt werden.
+(3) Die Prüfungskommission besteht aus der vorsitzenden Person und weiteren Mitgliedern. Dabei ist für jedes Fach eine andere prüfende Person zu bestellen. Für die vorsitzende Person und die weiteren Mitglieder ist jeweils eine stellvertretende Person zu bestellen. Die der Prüfungskommission vorsitzende Person sowie deren stellvertretende Person müssen Hochschullehrer oder Hochschullehrerinnen sein. Als weitere Mitglieder und als deren stellvertretende Personen werden Hochschullehrer oder Hochschullehrerinnen oder andere Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt. Als weitere Mitglieder und als deren stellvertretende Personen können auch dem Lehrkörper einer Universität nicht angehörende approbierte Zahnärzte oder Zahnärztinnen bestellt werden. Für die Fächer Zahn-, Mund- und Kieferkrankheiten, Oralchirurgie, Mund-, Kiefer- und Gesichtschirurgie und Zahnärztliche Radiologie kann dieselbe prüfende Person bestellt werden, wenn nicht für jedes Fach eine Person zur Verfügung steht, die die Anforderungen der Sätze 4 bis 6 erfüllt. Für die Fächer der Fächergruppe Zahnerhaltung kann dieselbe prüfende Person bestellt werden, wenn nicht für jedes Fach eine Person zur Verfügung steht, die die Anforderungen der Sätze 4 bis 6 erfüllt. Für die Fächer Zahn-, Mund- und Kieferkrankheiten, Oralchirurgie, Mund-, Kiefer- und Gesichtschirurgie und Zahnärztliche Radiologie sowie die Fächergruppe Zahnerhaltung kann nicht dieselbe prüfende Person bestellt werden.
 
 (4) In den Prüfungsterminen ist jeweils nur die in dem Fach prüfende Person anwesend.
 
@@ -959,7 +979,7 @@ Ein Prüfungstag dauert in der Regel acht Stunden.
 
 (4) Über den Verlauf des Prüfungsgesprächs ist für jeden Studierenden und jede Studierende eine Niederschrift nach dem Muster der Anlage 15 anzufertigen. Aus der Niederschrift muss Folgendes ersichtlich sein:
 
-1. der Gegenstand des Prüfungselements,
+1. der Gegenstand der Prüfung,
 
 2. der Verlauf der Prüfung und
 
@@ -976,6 +996,8 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 (3) Die nach § 47 Absatz 5 Satz 1 der Strahlenschutzverordnung zuständige Behörde des Landes kann zur Wahrnehmung ihrer Aufgabe nach § 16 Absatz 1 Satz 1 zum mündlichen Prüfungselement des mündlich-praktischen Teils im Fach Zahnärztliche Radiologie beobachtende Personen entsenden.
 
 (4) Bei der Bekanntgabe des Prüfungsergebnisses dürfen die in Absatz 2 Satz 1 genannten Personen nicht anwesend sein. Darüber hinaus kann die prüfende Person die Anwesenheit der in Absatz 2 Satz 1 genannten Personen zeitweise ausschließen, wenn dies im Interesse der Patienten und Patientinnen erforderlich ist.
+
+(4 doppelt) Abweichend von Absatz 2 kann die der Prüfungskommission vorsitzende Person gestatten, dass die Prüfung in Echtzeit in Bild und Ton für die in Absatz 2 Satz 1 genannten Personen in einen anderen Raum übertragen wird, wenn die Studierenden, die prüfenden Personen und die beisitzende Person in die Übertragung einwilligen. Die Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 # § 69 – Bewertung des mündlich-praktischen Teils
 
@@ -1001,7 +1023,7 @@ Die Niederschrift ist von der prüfenden und von der beisitzenden Person zu unte
 
 (2) In der Fächergruppe Zahnerhaltung werden die Zahlenwerte der Noten für die einzelnen Fächer addiert und die Summe wird durch vier geteilt. Die nach Satz 1 gebildete Note wird nicht gerundet.
 
-(3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch acht geteilt. Die Note wird bis auf die zweite Stelle hinter dem Komma ohne Rundung errechnet.
+(3) Die mit zwei vervielfachten Zahlenwerte der Noten im Fach Zahnärztliche Prothetik und in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern werden addiert und durch neun geteilt. Die Note wird bis auf die zweite Stelle hinter dem Komma ohne Rundung errechnet.
 
 (4) Die Note lautet  
   
@@ -1043,9 +1065,11 @@ Er umfasst außerdem die folgenden Querschnittsbereiche:
 
 6. Erkrankungen im Kopf-Hals-Bereich,
 
-7. Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, öffentliche Gesundheitspflege, Gesundheitsökonomie, Ethik und Geschichte der Medizin und der Zahnmedizin,
+7. Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, öffentliche Gesundheitspflege, Gesundheitsökonomie,
 
-8. Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin.
+8. Ethik und Geschichte der Medizin und der Zahnmedizin,
+
+9. Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin.
 
 (2) Im schriftlichen Teil hat der oder die Studierende schriftlich gestellte Prüfungsfragen unter Aufsicht zu beantworten (Aufsichtsarbeit). Er oder sie hat die aus seiner oder ihrer Sicht im Sinne der Aufgabenstellung richtige Prüfungsantwort anzugeben. Der schriftliche Teil kann auch rechnergestützt durchgeführt werden.
 
@@ -1085,7 +1109,7 @@ Er umfasst außerdem die folgenden Querschnittsbereiche:
 
 1. der oder die Studierende mindestens 60 Prozent der gestellten Prüfungsfragen richtig beantwortet hat oder
 
-2. die Zahl der von dem oder der Studierenden richtig beantworteten Prüfungsfragen um nicht mehr als 22 Prozent den Durchschnitt der richtig beantworteten Prüfungsfragen (durchschnittlichen Prüfungsleistung) der Studierenden unterschreitet, die nach der Mindeststudienzeit von fünf Jahren erstmals an dem schriftlichen Teil teilgenommen haben.
+2. die Zahl der von dem oder der Studierenden richtig beantworteten Prüfungsfragen um nicht mehr als 22 Prozent den Durchschnitt der richtig beantworteten Prüfungsfragen (durchschnittlichen Prüfungsleistung) der Studierenden unterschreitet, die frühestens im elften Fachsemester erstmals an dem schriftlichen Teil teilgenommen haben.
 
 Die Zahl der für die Bestehensgrenze zu berechnenden Prüfungsfragen ist auf eine ganze Zahl zu runden. Dabei wird bei Nachfolgeziffern von 0 bis 4 abgerundet und bei Nachfolgeziffern von 5 bis 9 aufgerundet.
 
@@ -1180,7 +1204,7 @@ Die nach § 18 zuständige Stelle erteilt
 
 2. der Zweite Abschnitt der Zahnärztlichen Prüfung in einem oder mehreren Fächern zu einem anderen Zeitpunkt als zu dem Zeitpunkt abzulegen ist, der nach § 42 vorgeschrieben ist, und
 
-3. die Ausbildung in erster Hilfe, der Krankenpflegedienst und die Famulatur zu anderen Zeitpunkten als zu den Zeitpunkten abgeleistet werden können, die nach § 13 Absatz 2, § 14 Absatz 3 und § 15 Absatz 3 vorgeschrieben sind.
+3. die Ausbildung in erster Hilfe, der Pflegedienst und die Famulatur zu anderen Zeitpunkten als zu den Zeitpunkten abgeleistet werden können, die nach § 13 Absatz 2, § 14 Absatz 3 und § 15 Absatz 3 vorgeschrieben sind.
 
 (2) Die Zulassung als Modellstudiengang setzt voraus, dass
 
@@ -1310,11 +1334,11 @@ Im schriftlichen Abschnitt der Eignungsprüfung hat die antragstellende Person u
 
 (1) In dem praktischen Abschnitt der Eignungsprüfung sind je nach Umfang der festgestellten wesentlichen Unterschiede zwischen der Ausbildung der antragstellenden Person und der Ausbildung, die in dem Gesetz über die Ausübung der Zahnheilkunde und in dieser Verordnung geregelt ist, zahnärztliche Leistungen anhand standardisierter Ausbildungssituationen unter den simulierten Bedingungen einer zahnärztlichen Praxis zu erbringen.
 
-(2) Die Dauer des praktischen Abschnitts ist abhängig vom Umfang der festgestellten wesentlichen Unterschiede zwischen der Ausbildung der antragstellenden Person und der Ausbildung, die in dem Gesetz über die Ausübung der Zahnheilkunde und in dieser Verordnung geregelt ist. Sie soll die Gesamtdauer, die nach § 110 Absatz 2 für den praktischen Abschnitt der Kenntnisprüfung vorgegeben ist, nicht überschreiten.
+(2) Die Dauer des praktischen Abschnitts ist abhängig vom Umfang der festgestellten wesentlichen Unterschiede zwischen der Ausbildung der antragstellenden Person und der Ausbildung, die in dem Gesetz über die Ausübung der Zahnheilkunde und in dieser Verordnung geregelt ist. Der praktische Abschnitt soll die Gesamtdauer von etwa fünf Stunden nicht überschreiten. Ist eines der in § 110 Absatz 2 genannten Fächer Gegenstand des praktischen Abschnitts, so soll die Dauer der Prüfung in diesem Fach die nach § 110 Absatz 2 für dieses Fach vorgegebene Dauer nicht überschreiten.
 
 # § 96 – Prüfungskommission
 
-(1) Die Eignungsprüfung wird vor einer Prüfungskommission in deutscher Sprache abgelegt.
+(1) Der mündliche Abschnitt und der praktische Abschnitt der Eignungsprüfung werden vor einer Prüfungskommission abgelegt. Die Prüfungskommission bewertet das Ergebnis des schriftlichen Abschnitts der Eignungsprüfung.
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde bestellt die Prüfungskommission. Sie kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes übertragen.
 
@@ -1328,7 +1352,9 @@ Im schriftlichen Abschnitt der Eignungsprüfung hat die antragstellende Person u
 
 # § 97 – Durchführung der Eignungsprüfung
 
-(1) In einem Prüfungsgespräch wird in der Regel nur eine antragstellende Person geprüft. Sofern es die zu prüfenden Fächer zulassen, können in einem Prüfungsgespräch bis zu drei antragstellende Personen gleichzeitig von derselben Prüfungskommission geprüft werden.
+(1) In einem Prüfungsgespräch wird in der Regel nur eine antragstellende Person geprüft. Sofern es die zu prüfenden Fächer zulassen, können in einem Prüfungsgespräch bis zu drei antragstellende Personen gleichzeitig von derselben Prüfungskommission geprüft werden. § 22 gilt entsprechend.
+
+(1a) Die Eignungsprüfung wird in deutscher Sprache abgelegt.
 
 (2) Über den Verlauf der Eignungsprüfung ist für jede antragstellende Person eine Niederschrift nach dem Muster der Anlage 21 anzufertigen. Aus der Niederschrift muss Folgendes ersichtlich sein:
 
@@ -1356,7 +1382,7 @@ Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkund
 
 # § 99 – Bestehen
 
-(1) Die Eignungsprüfung ist bestanden, wenn alle geprüften Abschnitte der Eignungsprüfung als bestanden bewertet werden. Das Bestehen eines Abschnitts setzt voraus, dass die Prüfungsleistungen in einer Gesamtbetrachtung mindestens als ausreichend im Sinne des § 24 Nummer 4 bewertet wurde.
+(1) Die Eignungsprüfung ist bestanden, wenn alle geprüften Abschnitte der Eignungsprüfung als bestanden bewertet werden. Das Bestehen eines Abschnitts setzt voraus, dass die Prüfungsleistungen in einer Gesamtbetrachtung mindestens als ausreichend im Sinne des § 24 Nummer 4 bewertet wurden.
 
 (2) Die der Prüfungskommission vorsitzende Person teilt der antragstellenden Person das Ergebnis des jeweiligen Abschnitts der Eignungsprüfung mit und begründet das Ergebnis auf Wunsch der antragstellenden Person.
 
@@ -1496,7 +1522,7 @@ e) richtiger Einsatz der parodontalen Instrumente.
 
 # § 111 – Prüfungskommission
 
-(1) Die Kenntnisprüfung wird vor einer Prüfungskommission in deutscher Sprache abgelegt.
+(1) Der mündliche Abschnitt und der praktische Abschnitt der Kenntnisprüfung werden vor einer Prüfungskommission abgelegt. Die Prüfungskommission bewertet das Ergebnis des schriftlichen Abschnitts der Kenntnisprüfung.
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde bestellt die Prüfungskommission. Sie kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes übertragen.
 
@@ -1504,13 +1530,15 @@ e) richtiger Einsatz der parodontalen Instrumente.
 
 (4) Die der Prüfungskommission vorsitzende Person leitet die Prüfung und prüft selbst.
 
-(5) Alle Mitglieder der Prüfungskommission haben während des Prüfungsgesprächs im Rahmen des mündlichen Abschnitts der Kenntnisprüfung und bei den Beratungen über die Ergebnisse des schriftlichen und des praktischen Abschnitts der Kenntnisprüfung anwesend zu sein. Die der Prüfungskommission vorsitzende Person bestimmt, welches Mitglied der Prüfungskommission die antragstellende Person im praktischen Abschnitt der Eignungsprüfung beaufsichtigt.
+(5) Alle Mitglieder der Prüfungskommission haben während des Prüfungsgesprächs im Rahmen des mündlichen Abschnitts der Kenntnisprüfung und bei den Beratungen über die Ergebnisse des schriftlichen und des praktischen Abschnitts der Kenntnisprüfung anwesend zu sein. Die der Prüfungskommission vorsitzende Person bestimmt, welches Mitglied der Prüfungskommission die antragstellende Person im praktischen Abschnitt der Kenntnisprüfung beaufsichtigt.
 
 (6) Die Prüfungskommission trifft ihre Entscheidung mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der der Prüfungskommission vorsitzenden Person den Ausschlag.
 
 # § 112 – Durchführung der Kenntnisprüfung
 
-(1) In einem Prüfungsgespräch dürfen nicht mehr als vier antragstellende Personen gleichzeitig von derselben Prüfungskommission geprüft werden.
+(1) In einem Prüfungsgespräch dürfen nicht mehr als vier antragstellende Personen gleichzeitig von derselben Prüfungskommission geprüft werden. § 22 gilt entsprechend.
+
+(1a) Die Kenntnisprüfung wird in deutscher Sprache abgelegt.
 
 (2) Über den Verlauf der Kenntnisprüfung ist für jede antragstellende Person eine Niederschrift nach dem Muster der Anlage 22 anzufertigen. Aus der Niederschrift muss Folgendes ersichtlich sein:
 
@@ -1592,7 +1620,7 @@ Der Antrag auf erstmalige Erteilung einer Erlaubnis zur vorübergehenden Ausübu
 
 4. gegebenenfalls eine amtlich beglaubigte Kopie der Bescheinigung über die erworbene Berufserfahrung,
 
-5. eine Erklärung, wo und in welcher Weise die antragstellende Person die Zahnheilkunde im Geltungsbereich dieser Verordnung ausüben will,
+5. eine Erklärung, wo und in welcher Weise sie die Zahnheilkunde im Geltungsbereich dieser Verordnung ausüben will,
 
 6. sofern vorhanden, den Bescheid über die Feststellung der wesentlichen Unterschiede nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung der Zahnheilkunde,
 
@@ -1808,21 +1836,27 @@ Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkund
 
 # § 133 – Anwendung bisherigen Rechts
 
-Die Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung ist vorbehaltlich des § 134 auf Studierende weiter anzuwenden, die vor dem 1. Oktober 2021 ihr Studium der Zahnmedizin beginnen oder bereits begonnen haben.
+(1) Die Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung ist vorbehaltlich des § 134 auf Studierende weiter anzuwenden, die vor dem 1. Oktober 2021 ihr Studium der Zahnmedizin beginnen oder bereits begonnen haben.
 
-# § 134 – Abweichende Regelungen für die Prüfungen
+(2) Die in § 26 Absatz 4 Buchstabe a und § 36 Absatz 1 Buchstabe a der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung genannten Vorlesungen können in digitaler Form durchgeführt werden.
 
-(1) Studierende nach § 133, die am 31. Oktober 2021 die naturwissenschaftliche Vorprüfung noch nicht bestanden haben, haben diese bis zum 31. Oktober 2022 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Sie haben die zahnärztliche Vorprüfung bis zum 30. April 2025 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Für das weitere Studium nach Bestehen der zahnärztlichen Vorprüfung gelten die Vorschriften nach dieser Verordnung. Bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung ist das Praktikum der zahnärztlichen Prothetik nach Anlage 2 nicht nachzuweisen. Beim Zweiten Abschnitt der Zahnärztlichen Prüfung entfällt die Prüfung im Fach Zahnärztliche Prothetik. Abweichend von § 55 Absatz 3 Satz 1 werden dementsprechend bei der Ermittlung der Note für den Zweiten Abschnitt der Zahnärztlichen Prüfung nur der mit zwei vervielfachte Zahlenwert der Note in der Fächergruppe Zahnerhaltung und die Zahlenwerte der Noten in den übrigen Fächern addiert und durch vier geteilt. In dem Zeugnis über das Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung nach dem Muster der Anlage 17 ist anstelle der Angabe der Note für das Fach Zahnärztliche Prothetik der Hinweis „Entfällt, da die zahnärztliche Vorprüfung nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abgelegt worden ist. “ aufzunehmen.
+(3) Die in § 26 Absatz 4 Buchstabe b und § 36 Absatz 1 Buchstabe a und b der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung genannten praktischen Übungen und Kurse sowie der Besuch der in § 36 Absatz 1 Buchstabe c der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung genannten Polikliniken und Kliniken können durch digitale Lehrformate begleitet werden.
 
-(2) Studierende nach § 133, die am 31. Oktober 2021 die naturwissenschaftliche Vorprüfung bestanden und die zahnärztliche Vorprüfung noch nicht bestanden haben, haben die zahnärztliche Vorprüfung bis zum 30. April 2024 nach der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung abzulegen. Für das weitere Studium nach Bestehen der zahnärztlichen Vorprüfung gelten die Vorschriften nach dieser Verordnung. Absatz 1 Satz 4 bis 7 gilt entsprechend.
+# § 134 – Abweichende Regelungen
 
-(3) Studierende, die unter die Absätze 1 und 2 fallen, können die naturwissenschaftliche Vorprüfung und die zahnärztliche Vorprüfung jeweils einmal nach den Vorgaben der Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung wiederholen.
+(1) Studierende nach § 133, die bis zum 10. Februar 2025 nicht für die zahnärztliche Vorprüfung zugelassen sind und die naturwissenschaftliche Vorprüfung nicht bestanden haben, führen das Studium nach den Vorschriften dieser Verordnung fort.
 
-(4) Der Zweite Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 2 wird ab dem 10. Juli 2022, der Dritte Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 3 wird ab dem 1. Oktober 2024 durchgeführt.
+(2) Studierende nach § 133, die die naturwissenschaftliche Vorprüfung bestanden haben und bis zum 10. Februar 2025 nicht für die zahnärztliche Vorprüfung zugelassen sind, führen das Studium nach den Vorschriften dieser Verordnung fort. Der Erste Abschnitt der Zahnärztlichen Prüfung wird ohne die Fächer Physik, Chemie und Biologie abgelegt. Bei der Ermittlung der Note für den Ersten Abschnitt der Zahnärztlichen Prüfung nach § 39 Absatz 2 treten anstelle der Bewertung der Leistung in den Fächern Physik, Chemie und Biologie die Urteile der Prüfungen in den Fächern der naturwissenschaftlichen Vorprüfung. In dem Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung nach dem Muster der Anlage 16 sind die Noten der Fächer Physik, Chemie und Biologie in einer Fußnote mit dem Hinweis „Es wurden die Urteile der Prüfungen in den Fächern der naturwissenschaftlichen Vorprüfung übernommen. “ zu versehen. Sofern das Fach Zoologie Gegenstand der naturwissenschaftlichen Prüfung war, ist in dem Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung nach dem Muster der Anlage 16 anstelle des Faches Biologie das Fach Zoologie aufzuführen.
 
-(5) Ist eine Berechnung der Bestehensgrenze nach § 74 Absatz 1 Satz 2 Nummer 2 noch nicht möglich, weil nicht mehr als 15 Prozent der Studierenden, die an demselben schriftlichen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben, an diesem schriftlichen Teil erstmals nach der Mindeststudienzeit von fünf Jahren teilgenommen haben, so ist der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen Prüfung bestanden, wenn der oder die Studierende mindestens 60 Prozent der gestellten Prüfungsfragen richtig beantwortet hat oder wenn die Zahl der von dem oder der Studierenden richtig beantworteten Prüfungsfragen um nicht mehr als 15 Prozent die durchschnittlichen Prüfungsleistungen aller Studierenden unterschreitet, die an demselben schriftlichen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
+(3) Studierende nach § 133, die die zahnärztliche Vorprüfung erfolgreich abgelegt haben und bis zum 30. März 2028 nicht für die zahnärztliche Prüfung zugelassen sind, führen das Studium nach den Vorschriften dieser Verordnung fort. Sie legen den Zweiten Abschnitt der Zahnärztlichen Prüfung nicht ab. Der Dritte Abschnitt der Zahnärztlichen Prüfung kann frühestens am Ende des fünften Fachsemesters des Studiums der Zahnmedizin nach Bestehen der zahnärztlichen Vorprüfung abgelegt werden. Dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung ist die Bescheinigung nach dem Muster der Anlage 5 oder eine zusammenfassende Bescheinigung nach dem Muster der Anlage 7 über die regelmäßige und erfolgreiche Teilnahme an den in Anlage 2 Nummer 1, 3 und 4 genannten Unterrichtsveranstaltungen beizufügen.
 
-# Anlage 1 – (zu § 5 Absatz 2, § 15 Absatz 3 Satz 2,§ 20 Absatz 1 Satz 1 Nummer 4, § 82 Absatz 2 Nummer 9)Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+(4) Studierende nach § 133 eines nach § 3a des Gesetzes über die Ausübung der Zahnheilkunde in der bis zum 30. September 2020 geltenden Fassung zugelassenen Modellstudienganges führen das Studium nach den Vorschriften dieser Verordnung fort. Für Studierende nach Satz 1, die bis zum 31. Oktober 2021 die naturwissenschaftliche Vorprüfung bestanden haben, gilt Absatz 2 entsprechend.
+
+(5) Der Zweite Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 2 kann frühestens ab dem 10. Juli 2022, der Dritte Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 3 frühestens ab dem 10. Juli 2024 durchgeführt werden. Abweichend von Satz 1 wird für Studierende nach Absatz 4, der Zweite Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 2 ab dem 10. Juli 2022, der Dritte Abschnitt der Zahnärztlichen Prüfung nach § 2 Absatz 2 Nummer 3 wird ab dem 10. Juli 2024 durchgeführt.
+
+(6) Ist eine Berechnung der Bestehensgrenze nach § 74 Absatz 1 Satz 2 Nummer 2 noch nicht möglich, weil nicht mehr als 15 Prozent der Studierenden, die an demselben schriftlichen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben, an diesem schriftlichen Teil erstmals nach der Mindeststudienzeit frühestens im zehnten Fachsemester teilgenommen haben, so ist der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen Prüfung bestanden, wenn der oder die Studierende mindestens 60 Prozent der gestellten Prüfungsfragen richtig beantwortet hat oder wenn die Zahl der von dem oder der Studierenden richtig beantworteten Prüfungsfragen um nicht mehr als 15 Prozent die durchschnittlichen Prüfungsleistungen aller Studierenden unterschreitet, die an demselben schriftlichen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
+
+# Anlage 1 – (zu § 5 Absatz 2, § 15 Absatz 3 Satz 2,§ 20 Absatz 1 Satz 1 Nummer 4, § 82 Absatz 2 Nummer 9)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 (Fundstelle: BGBl. I 2019, 965)
 
@@ -1848,7 +1882,7 @@ Die Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden F
 
 Die Unterrichtsveranstaltungen nach den Nummern 1 bis 8 umfassen eine Gesamtstundenzahl von mindestens 504 Stunden. Die Unterrichtsveranstaltungen nach den Nummern 9 und 10 umfassen eine Gesamtstundenzahl von mindestens 84 Stunden.
 
-# Anlage 2 – (zu § 5 Absatz 2 und 3 Satz 1, § 20 Absatz 2 Satz 1 Nummer 3,§ 134 Absatz 1 Satz 4)Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+# Anlage 2 – (zu § 5 Absatz 2 und 3 Satz 1, § 20 Absatz 2 Satz 1 Nummer 3,§ 134 Absatz 1 Satz 4)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 (Fundstelle: BGBl. I 2019, 966)
 
@@ -1860,7 +1894,7 @@ Die Unterrichtsveranstaltungen nach den Nummern 1 bis 8 umfassen eine Gesamtstun
 
 4. Praktikum der zahnärztlich-chirurgischen Propädeutik und der Notfallmedizin
 
-# Anlage 3 – (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+# Anlage 3 – (zu § 5 Absatz 2 und 3 Satz 2, § 16 Absatz 1 Satz 1und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 (Fundstelle: BGBl. I 2019, 967)
 
@@ -1876,7 +1910,7 @@ Die Unterrichtsveranstaltungen nach den Nummern 1 bis 8 umfassen eine Gesamtstun
 
 6. Radiologisches Praktikum mit besonderer Berücksichtigung des Strahlenschutzes, das inhaltlich mindestens dem Kurs nach Anlage 3.1 der Richtlinie Fachkunde und Kenntnisse im Strahlenschutz bei dem Betrieb von Röntgeneinrichtungen in der Medizin oder Zahnmedizin vom 22. Dezember 2005 (GMBl 2006 S. 415), die zuletzt durch das Rundschreiben des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit vom 27. Juni 2012 – RS II 4 – 11603/01 (GMBl 2012 S. 724) geändert worden ist, entspricht. Das Radiologische Praktikum umfasst insgesamt mindestens 28 Stunden.
 
-# Anlage 4 – (zu § 5 Absatz 2, § 20 Absatz 3 Satz 1 Nummer 3 und Absatz 4)Weitere Unterrichtsveranstaltungen, deren regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+# Anlage 4 – (zu § 5 Absatz 2, § 20 Absatz 3 Satz 1 Nummer 3 und Absatz 4)Weitere Unterrichtsveranstaltungen, für die eine erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
 
 (Fundstelle: BGBl. I 2019, 968)
 
@@ -1906,9 +1940,11 @@ Unterrichtsveranstaltungen in folgenden Fächern und Querschnittsbereichen:
 
 12. Querschnittsbereich Erkrankungen im Kopf-Hals-Bereich
 
-13. Querschnittsbereich Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie, Ethik und Geschichte der Medizin und der Zahnmedizin
+13. Querschnittsbereich Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie
 
-14. Querschnittsbereich Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin
+14. Ethik und Geschichte der Medizin und der Zahnmedizin
+
+15. Querschnittsbereich Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin
 
 # Anlage 5 – (zu § 12, § 20 Absatz 1 Satz 1 Nummer 4, Absatz 2 Satz 1 Nummer 3und Absatz 3 Satz 1 Nummer 3)Bescheinigung
 
@@ -1972,7 +2008,7 @@ Pathologie
 –  
 Pharmakologie und Toxikologie
 
-# Anlage 10 – (zu § 14 Absatz 2 Satz 2)Zeugnis über den Krankenpflegedienst
+# Anlage 10 – (zu § 14 Absatz 2 Satz 2)Zeugnis über den Pflegedienst
 
 (Fundstelle: BGBl. I 2019, 975)
 
@@ -1996,13 +2032,13 @@ Pharmakologie und Toxikologie
 
 (Fundstelle: BGBl. I 2019, 980)
 
-# Anlage 16 – (zu § 10 Absatz 2 Satz 2, § 40, § 82 Absatz 2 Nummer 9)Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
+# Anlage 16 – (zu § 10 Absatz 2 Satz 2, § 40, § 82 Absatz 2 Nummer 9, § 134 Absatz 2 Satz 4 und 5)Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2019, 981)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Anlage 17 – (zu § 56, § 134 Absatz 1 Satz 7)Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
+# Anlage 17 – (zu § 56)Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2019, 982)
 

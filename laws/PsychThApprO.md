@@ -155,7 +155,7 @@ Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes beträgt
 
 (1) Die Hochschule legt in einer Prüfungsordnung für den Bachelorstudiengang und in einer Prüfungsordnung für den Masterstudiengang fest, an welchen Modulen die studierende Person in dem jeweiligen Studiengang erfolgreich teilzunehmen hat.
 
-(2) Für Module, die Bestandteil der hochschulischen Lehre nach Anlage 1 oder nach Anlage 2 sind, ist in der jeweiligen Prüfungsordnung zusätzlich die Anwesenheit der studierenden Personen bei Veranstaltungen der hochschulischen Lehre vorzusehen, wenn in diesen Modulen praktische Kompetenzen erworben werden sollen.
+(2) Für Module, die Bestandteil der hochschulischen Lehre nach Anlage 1 oder nach Anlage 2 sind, ist in der jeweiligen Prüfungsordnung zusätzlich die Anwesenheit der studierenden Personen bei Veranstaltungen der hochschulischen Lehre vorzusehen, soweit in diesen Modulen praktische Kompetenzen erworben werden sollen.
 
 (3) In den Prüfungsordnungen sind die Anforderungen an die erfolgreiche Teilnahme und an die Anwesenheit der studierenden Personen näher zu regeln.
 
@@ -729,7 +729,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 # § 49 – Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
 
-(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Pool an Prüfungsaufgaben für die fünf in § 48 Absatz 2 genannten Kompetenzbereiche erstellt. Für jede Prüfungsaufgabe ist vorzulegen:
+(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Pool an Parcours erstellt; jeder Parcours umfasst eine Prüfungsaufgabe aus jedem der in § 48 Absatz 2 bis 6 genannten Kompetenzbereiche. Für jede Prüfungsaufgabe ist vorzulegen:
 
 1. eine Beschreibung der Patientensituation,
 
@@ -785,9 +785,11 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 # § 51 – Durchführung
 
-(1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung wählt für den jeweiligen Prüfungstermin in Absprache mit der nach § 20 zuständigen Stelle aus den zusammengestellten Parcours nach § 49 Absatz 4 einen Parcours und mindestens einen Ersatzparcours aus.
+(1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung wählt für den jeweiligen Prüfungstermin in Absprache mit der nach § 20 zuständigen Stelle aus den zusammengestellten Parcours nach § 49 Absatz 4 einen Parcours und einen Ersatzparcours aus.
 
-(2) Vor Beginn einer anwendungsorientierten Parcoursprüfung hat die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung den Parcours, der für den jeweiligen Prüfungstermin ausgewählt worden ist, dahingehend zu überprüfen, ob dessen Durchführung unter Berücksichtigung der aktuellen lokalen Gegebenheiten möglich ist. Ergibt die Überprüfung Hinweise, dass eine fehlerfreie Durchführung gefährdet ist, ist der Ersatzparcours zu wählen. Auch der Ersatzparcours ist von der oder dem Vorsitzenden auf seine Durchführbarkeit zu überprüfen. Ergibt die Überprüfung ebenfalls, dass eine fehlerfreie Durchführung des Parcours gefährdet ist, wählt die oder der Vorsitzende erneut einen Parcours aus den zusammengestellten Parcours nach § 49 Absatz 4 aus. Für den erneut ausgewählten Parcours gelten die Sätze 1 bis 4 entsprechend.
+(2) Vor Beginn einer anwendungsorientierten Parcoursprüfung hat die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung den Parcours, der für den Prüfungstermin ausgewählt worden ist, auf Fehler zu überprüfen. Ergibt die Überprüfung Hinweise, dass eine Prüfungsaufgabe an einer Station oder der gesamte Parcours fehlerhaft sein könnte, ist der Ersatzparcours zu wählen. Für den Ersatzparcours gilt Satz 1 entsprechend.
+
+(2a) Ist der gewählte Ersatzparcours fehlerhaft, wählt die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung in Absprache mit der nach § 20 zuständigen Stelle erneut einen Parcours aus dem Pool der Parcours nach Absatz 1 aus. Für den erneut ausgewählten Parcours gilt Absatz 2 Satz 1 und 2 entsprechend.
 
 (3) An allen Stationen werden Simulationspatientinnen oder Simulationspatienten eingesetzt.
 

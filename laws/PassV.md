@@ -3,19 +3,29 @@
  
 # Inhaltsübersicht
 
-# § 1 – Muster für den Reisepass
+# § 1 – Muster des Reisepasses; Änderung von Daten
 
-Der Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+(1) Der Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-# § 2 – Muster für den Kinderreisepass
+(2) Zur Änderung des Wohnortes kann ein Änderungsaufkleber nach dem in der Anlage 1b abgedruckten Muster verwendet werden.
 
-Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+(3) Hat der Passinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird ein Aufkleber nach Anlage 1c mit dem neuen Wohnort durch die Passbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Passinhaber hat den Aufkleber unverzüglich nach Erhalt auf dem Pass auf dem für den Wohnort vorgesehenen Feld anzubringen.
 
-# § 3 – Muster für den vorläufigen Reisepass
+(4) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
-Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 3 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+# § 2 – Muster des Kinderreisepasses; Änderung von Daten
 
-# § 4 – Muster für den amtlichen Pass
+(1) Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+
+(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach dem in der Anlage 1d abgedruckten Muster verwendet werden.
+
+# § 3 – Muster des vorläufigen Reisepasses; Änderung von Daten
+
+(1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 3 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+
+(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach dem in der Anlage 1d abgedruckten Muster verwendet werden.
+
+# § 4 – Muster des amtlichen Passes; Änderung von Daten
 
 (1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der Anlage 4 abgedruckten Muster auszustellen.
 
@@ -244,6 +254,8 @@ Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen werden, wenn 
 (2) Vordrucke für Reisepässe, vorläufige Reisepässe, Kinderreisepässe, Dienstpässe, vorläufige Dienstpässe, Diplomatenpässe und vorläufige Diplomatenpässe der in den Anlagen 1 bis 7 in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.
 
 (3) Geht ein Antrag auf Ausstellung eines Passes vor dem 1. März 2017 beim Passhersteller ein, kann der Pass auf Grundlage der bis zum 28. Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
+
+(4) Abweichend von § 1 Absatz 3 Satz 1 können die Passbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in der Anlage 1b abgedruckten Muster verwenden.
 
 # Anlage 1 – Passmuster Reisepass (32 Seiten)
 
@@ -532,6 +544,30 @@ werden am unteren Rand mit der Seriennummer perforiert.
 | Reisepass (48 Seiten) | Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes |
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0480.jpg)
+
+# Anlage 1b – Muster des Aufklebers zur Änderung des Wohnortes
+
+(Fundstelle: BGBl. I 2021, 3684)
+
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0010.jpg) |
+
+# Anlage 1c – Muster des Aufklebers zur Änderung des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+
+(Fundstelle: BGBl. I 2021, 3684)
+
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0020.jpg) |
+
+# Anlage 1d – Muster des Aufklebers zur Eintragung amtlicher Vermerke
+
+(Fundstelle: BGBl. I 2021, 3685)
+
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0030.jpg) |
 
 # Anlage 2 – Passmuster Kinderreisepass
 
@@ -1178,11 +1214,13 @@ Aufkleber Personaldaten
 
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0060.jpg)
 
-# Anlage 7a – Aufkleber Dienstort- und Dienstbezeichnungsänderung
+# Anlage 7a – Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung
 
-(Fundstelle: BGBl. I 2010, 1452)
+(Fundstelle: BGBl. I 2021, 3685)
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j1440-1_0180.jpg)
+|                                                    |
+|:--------------------------------------------------:|
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0040.jpg) |
 
 # Anlage 8
 
@@ -1248,9 +1286,9 @@ Innenseiten
 
 Vorbemerkung:
 
-1. Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die Einträge. Die in der nachstehenden Tabelle 2 beschriebenen Anforderungen an die Einträge gelten für den Kinderreisepass, vorläufigen Reisepass und für den vorläufigen Dienst- und Diplomatenpass.
+1. Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die Einträge. Die in der nachstehenden Tabelle 2 beschriebenen Anforderungen an die Einträge gelten für den Kinderreisepass, vorläufigen Reisepass und für den vorläufigen Dienst- und Diplomatenpass. Für den Aufkleber zur Änderung des Wohnortes gelten die in der Tabelle 3 beschriebenen Anforderungen an Einträge, für den Aufkleber zur Eintragung amtlicher Vermerke die in der Tabelle 4 beschriebenen Anforderungen. Die in der Tabelle 5 beschriebenen Anforderungen an Einträge gelten für den Aufkleber zur Änderung des Dienstortes und der Dienstbezeichnung.
 
-2. Die Passbehörden verwenden zur Personalisierung der Aufkleber Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der vorläufigen Dienst- und Diplomatenpässe und der Aufkleber Verlängerung/Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und Dienstbezeichnungsänderung den Schriftfont „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
+2. Die Passbehörden verwenden zur Personalisierung der Aufkleber Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der vorläufigen Dienst- und Diplomatenpässe, der Aufkleber Verlängerung/ Änderung der Kinderreisepässe sowie der Aufkleber Dienstort- und Dienstbezeichnungsänderung, Wohnortänderung und Eintragung amtlicher Vermerke den Schriftfont „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
 
 3. Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz „String.Latin“ zu verwenden.
 
@@ -1262,19 +1300,13 @@ Vorbemerkung:
 
 a) Für den Reisepass sowie den Dienst- und Diplomatenpass gilt:
 
-Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der Schriftgröße 1 überschritten, sind sämtliche Zeichen des entsprechenden Datenfeldes in Schriftgröße 2 einzutragen.
-
-Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der nachstehenden Tabelle 1 maximal zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
+Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der Schriftgröße 1 überschritten, sind sämtliche Zeichen des entsprechenden Datenfeldes in Schriftgröße 2 einzutragen. Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der nachstehenden Tabelle 1 maximal zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
 
 b) Für den Kinderreisepass, den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
 
-Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen.
+Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen. Einträge im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (zum Beispiel Vornamen) entsprechend gekürzt vorzunehmen.
 
-Einträge im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
-
-Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind unzulässig.
-
-Bei der Personalisierung des Aufklebers zur Änderung der Dienstort- und Dienstbezeichnung sind die Eintragungen in der Schriftgröße 1 im Fettsatz vorzunehmen.
+Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind unzulässig. Bei der Personalisierung der Aufkleber zur Änderung der Dienstort- und Dienstbezeichnung sowie des Wohnortes und zur Eintragung amtlicher Vermerke sind die Eintragungen in der Schriftgröße 1 im Fettsatz vorzunehmen.
 
 7. Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
 
@@ -1755,11 +1787,71 @@ Datum
 
 Nicht zulässig
 
-Tabelle 3: Aufkleber für Änderungen des Dienstortes und der Dienstbezeichnung bei amtlichen Pässen
+Tabelle 3: Aufkleber für Änderungen des Wohnortes
 
 Datenfelder des Aufklebers  
-für Änderungen des Dienstortes  
-und der Dienstbezeichnung
+für Änderungen des Wohnortes
+
+Anzahl der zur Verfügung stehenden Zeichen
+
+Schriftgröße 1  
+UnicodeDoc, Fettdruck  
+Schriftgröße 2,4 mm
+
+Wohnort
+
+3 Zeilen à 23 Zeichen (insgesamt 69 Zeichen)
+
+Seriennummer
+
+9 Zeichen pro Zeile;  
+1 Zeile (insgesamt 9 Zeichen)
+
+Tabelle 4: Aufkleber für Änderungen des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+
+Datenfelder des Aufklebers  
+für Änderungen des Wohnortes  
+nach elektronischer Anmeldung
+
+Anzahl der zur Verfügung stehenden Zeichen
+
+Schriftgröße 1  
+UnicodeDoc, Fettdruck  
+Schriftgröße 2,4 mm
+
+Wohnort
+
+3 Zeilen à 20 Zeichen (insgesamt 60 Zeichen)
+
+Seriennummer
+
+9 Zeichen pro Zeile;  
+1 Zeile (insgesamt 9 Zeichen)
+
+Tabelle 5: Aufkleber für Eintragungen amtlicher Vermerke
+
+Datenfelder des Aufklebers  
+für Eintragungen amtlicher Vermerke
+
+Anzahl der zur Verfügung stehenden Zeichen
+
+Schriftgröße 1  
+UnicodeDoc, Fettdruck  
+Schriftgröße 2,4 mm
+
+Amtliche Vermerke
+
+18 Zeilen à 26 Zeichen und 5 Zeilen à 22 Zeichen (insgesamt 578 Zeichen)
+
+Seriennummer
+
+9 Zeichen pro Zeile;  
+1 Zeile (insgesamt 9 Zeichen)
+
+Tabelle 6: Aufkleber für Änderungen des Dienstortes und der Dienstbezeichnung bei amtlichen Pässen
+
+Datenfelder des Aufklebers  
+für Änderungen des Dienstortes und der Dienstbezeichnung
 
 Anzahl der zur Verfügung stehenden Zeichen
 
@@ -1769,8 +1861,7 @@ Schriftgröße 2,4 mm
 
 Dienstort/Dienstbezeichnung
 
-11 Zeilen à 33 Zeichen und 4 Zeilen à 26 Zeichen  
-(insgesamt 467 Zeichen)
+16 Zeilen à 26 Zeichen und 4 Zeilen à 22 Zeichen (insgesamt 504 Zeichen)
 
 Seriennummer
 
