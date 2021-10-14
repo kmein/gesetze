@@ -29,9 +29,11 @@ Nach dem Stand der Technik sind zu erfüllen
 
 1. die technischen Anforderungen an
 
-a) die Speicherung des Lichtbildes und der Fingerabdrücke und
+a) die Speicherung des Lichtbildes und der Fingerabdrücke,
 
-b) den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium abgelegten Daten sowie
+b) den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises abgelegten Daten,
+
+c) den Zugriffsschutz auf die in dem elektronischen Speicher- und Verarbeitungsmedium eines mobilen Endgeräts abgelegten Daten sowie
 
 2. die technischen und organisatorischen Anforderungen an
 
@@ -41,9 +43,15 @@ b) die Übermittlung sämtlicher Ausweisantragsdaten und die in § 8 Absatz 1 Sa
 
 c) den elektronischen Identitätsnachweis und das Vor-Ort-Auslesen,
 
-d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitätsnachweises durch den Ausweisinhaber und die Speicherung und Löschung der Sperrmerkmale und des Sperrkennwortes, insbesondere an die dabei einzusetzenden technischen Systeme und Kommunikationswege und
+d) die Geheimnummer, die Sperrung und Entsperrung des elektronischen Identitätsnachweises durch den Ausweisinhaber und die Speicherung und Löschung der Sperrmerkmale und des Sperrkennwortes, insbesondere an die dabei einzusetzenden technischen Systeme und Kommunikationswege,
 
-e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag.
+e) das Zurücksetzen und Neusetzen der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag und
+
+f) das Ändern der Anschrift auf dem Personalausweis unter Verwendung eines Aufklebers nach Anhang 1 sowie auf dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes,
+
+g) die Übermittlung der Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes und
+
+h) den elektronischen Identitätsnachweis mit einem mobilen Endgerät.
 
 Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Die Übersicht über die Technischen Richtlinien wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik bekannt gemacht.
 
@@ -57,7 +65,7 @@ Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtl
 
 # § 4 – Dokumentationspflichten
 
-(1) Die Personalausweisbehörde dokumentiert für die Zwecke des elektronischen Identitätsnachweises:
+(1) Die Personalausweisbehörde dokumentiert für die Zwecke des elektronischen Identitätsnachweises mit dem Personalausweis:
 
 1. Erklärungen des Ausweisinhabers, die im Rahmen der Antragstellung und Ausweisverwaltung erfolgt sind;
 
@@ -85,7 +93,7 @@ c) die Anfrage zur Erzeugung der Sperrliste sowie das Datum und die Uhrzeit der 
 
 d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen Abrufs sowie
 
-2. im Zusammenhang mit der Entsperrung des elektronischen Identitätsnachweises
+2. im Zusammenhang mit der Entsperrung des elektronischen Identitätsnachweises eines Personalausweises
 
 a) den Eingang des Entsperrantrages mit der Sperrsumme sowie das Datum und die Uhrzeit des Eingangs,
 
@@ -103,15 +111,19 @@ d) den tatsächlichen Abruf sowie das Datum und die Uhrzeit des tatsächlichen A
 
 (3) Für die Speicherung beim Sperrlistenbetreiber gelten folgende Fristen:
 
-1. Sperrschlüssel und Sperrsumme sind spätestens zehn Jahre und drei Monate nach deren Eintragung aus der Referenzliste zu löschen;
+1. Sperrschlüssel und Sperrsumme sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem Personalausweis sind spätestens zehn Jahre und einen Monat nach deren Eintragung aus der Referenzliste zu löschen;
 
-2. Aktualisierungen der Sperrliste werden gespeichert, damit eine Sperrung oder Entsperrung von elektronischen Identitätsnachweisen nachgewiesen werden kann; solche Aktualisierungen der Sperrliste werden spätestens zehn Jahre und drei Monate nach ihrer Speicherung gelöscht;
+2. Sperrschlüssel und Sperrsumme sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer aus der Referenzliste zu löschen;
 
-3. ein allgemeines Sperrmerkmal wird aus der Sperrliste entfernt spätestens zehn Jahre und drei Monate, nachdem der Sperrschlüssel beim Sperrlistenbetreiber gespeichert worden ist, oder wenn die Personalausweisbehörde eine Entsperrung vorgenommen hat.
+3. Aktualisierungen der Sperrliste werden gespeichert, damit eine Sperrung oder Entsperrung von elektronischen Identitätsnachweisen nachgewiesen werden kann; solche Aktualisierungen der Sperrliste werden spätestens zehn Jahre und einen Monat nach ihrer Speicherung gelöscht;
 
-(4) Der Ausweishersteller speichert die Daten, die im Rahmen des Produktionsverfahrens erlangt oder erzeugt worden sind und der antragstellenden Person zugeordnet werden können, höchstens so lange, bis der Sperrlistenbetreiber den Empfang der Sperrsumme und des Sperrschlüssels und die Personalausweisbehörde den Eingang des Sperrkennworts bestätigt haben. Im Übrigen sind die Daten sicher zu löschen. Der Ausweishersteller führt zur Vermeidung von Doppelungen eine Liste mit Sperrsummen von hergestellten Personalausweisen. Die Sperrsummen in dieser Liste sind spätestens zehn Jahre und drei Monate nach ihrer Eintragung zu löschen. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt unberührt.
+4. ein allgemeines Sperrmerkmal wird aus der Sperrliste spätestens zehn Jahre und einen Monat entfernt, nachdem der Sperrschlüssel beim Sperrlistenbetreiber gespeichert worden ist, oder wenn die Personalausweisbehörde eine Entsperrung vorgenommen hat.
+
+(4) Der Ausweishersteller speichert die Daten, die im Rahmen des Produktionsverfahrens erlangt oder erzeugt worden sind und der antragstellenden Person zugeordnet werden können, höchstens aber so lange, bis der Sperrlistenbetreiber den Empfang der Sperrsumme und des Sperrschlüssels und die Personalausweisbehörde den Eingang des Sperrkennworts bestätigt haben. Im Übrigen sind die Daten sicher zu löschen. Der Ausweishersteller führt zur Vermeidung von Doppelungen eine Liste mit Sperrsummen sowie den jeweiligen letzten Tag der Gültigkeitsdauer von hergestellten Personalausweisen sowie von eingerichteten elektronischen Identitätsnachweisen mit einem mobilen Endgerät. Die Sperrsummen sowie der jeweilige letzte Tag der Gültigkeitsdauer von hergestellten Personalausweisen in dieser Liste sind spätestens zehn Jahre und einen Monat nach ihrer Eintragung zu löschen. § 26 Absatz 3 Satz 1 des Personalausweisgesetzes bleibt unberührt. Die Sperrsummen sowie der letzte Tag der Gültigkeitsdauer eines elektronischen Identitätsnachweises mit einem mobilen Endgerät in dieser Liste sind spätestens einen Monat nach Ablauf der Gültigkeitsdauer zu löschen.
 
 (5) Der Ausweishersteller löscht die zur Bearbeitung von elektronischen Anträgen nach § 20 Absatz 2 und § 22 Absatz 2 zu erhebenden personenbezogenen Daten, sobald er die Benachrichtigung bekommen hat, dass der Antragsteller die zufällig neu generierte Geheimnummer erhalten hat, spätestens aber nach 30 Tagen. Satz 1 gilt nicht für das dienste- und kartenspezifische Kennzeichen, welches spätestens nach 90 Tagen zu löschen ist.
+
+(6) Abgesehen von der im Personalausweisregister zu speichernden Anschrift löscht die Personalausweisbehörde alle personenbezogenen Daten, die zur Änderung der Anschrift nach einer elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes erhoben werden, nach Vollzug der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium sowie Erstellung und Versand des Aufklebers, spätestens aber 30 Tage nach Erhalt der personenbezogenen Daten durch die Personalausweisbehörde.
 
 # § 6 – Erfassung der Anschrift
 
@@ -197,9 +209,9 @@ Das elektronische Speicher- und Verarbeitungsmedium des Personalausweises ist mi
 
 (2) Die Personalausweisbehörde bestätigt dem Ausweishersteller den Eingang des Sperrkennworts unverzüglich. Hat der Ausweishersteller drei Werktage, nachdem er das Sperrkennwort übermittelt hatte, keine Bestätigung erhalten, fragt er bei der Personalausweisbehörde nach.
 
-# § 16 – Übermittlung der Sperrsumme und des Sperrschlüssels an den Sperrlistenbetreiber
+# § 16 – Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber
 
-Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektronischem Weg verschlüsselt und signiert die Sperrsumme und den Sperrschlüssel eines Personalausweises, bevor er diesen an die Personalausweisbehörde sendet. § 8 Absatz 1 Satz 3 bis 5 gilt entsprechend. Der Sperrlistenbetreiber bestätigt dem Ausweishersteller unverzüglich den Eingang dieser Daten. Hat der Ausweishersteller zwei Werktage, nachdem er die Sperrsumme und den Sperrschlüssel übermittelt hat, keine Bestätigung erhalten, fragt er bei dem Sperrlistenbetreiber nach.
+Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektronischem Weg verschlüsselt und signiert die Sperrsumme, den Sperrschlüssel und den letzten Tag der Gültigkeitsdauer eines Personalausweises, bevor er diesen an die Personalausweisbehörde sendet. § 8 Absatz 1 Satz 3 bis 5 gilt entsprechend. Der Sperrlistenbetreiber bestätigt dem Ausweishersteller unverzüglich den Eingang dieser Daten. Hat der Ausweishersteller zwei Werktage, nachdem er die Sperrsumme, den Sperrschlüssel und den letzten Tag der Gültigkeitsdauer übermittelt hat, keine Bestätigung erhalten, fragt er bei dem Sperrlistenbetreiber nach.
 
 # § 17 – Übersendung der Geheimnummer, der Entsperrnummer und des Sperrkennworts
 
@@ -229,37 +241,77 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 
 (5) Die Personalausweisbehörde im Ausland darf Personalausweise im Ausland auf dem Postweg an die antragstellende Person versenden, sofern die Abholung des Personalausweises für die antragstellende Person nur unter unzumutbaren Zuständen möglich wäre.
 
+# § 18a – Aufkleber mit Brailleschrift
+
+Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde entweder bei Ausgabe des Personalausweises oder zu einem späteren Zeitpunkt ein Aufkleber mit Brailleschrift nach Anhang 1a auf dem Personalausweis angebracht.
+
 # § 19 – Änderung der Anschrift
 
-(1) Die Personalausweisbehörde ändert die Anschrift auf dem Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und der Personalausweisnummer nach dem Muster in Anhang 1 anfertigt.
+(1) Die Personalausweisbehörde ändert die Anschrift auf dem Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und der Personalausweisnummer nach dem Muster in Anhang 1 anfertigt. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird nach erfolgter Änderung der Anschrift nach Absatz 2 Satz 4 ein Aufkleber nach Anhang 1b mit der neuen Anschrift durch die Personalausweisbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Ausweisinhaber hat den Aufkleber unverzüglich auf dem Ausweis auf dem für die Anschrift vorgesehenen Feld anzubringen.
 
-(2) Die Personalausweisbehörde ändert die auf dem elektronischen Speicher- und Verarbeitungsmedium gespeicherte Anschrift.
+(2) Die Personalausweisbehörde ändert die auf dem elektronischen Speicher- und Verarbeitungsmedium gespeicherte Anschrift. Hat der Ausweisinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, hat er die Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium einzuleiten. Hierzu wird durch die Personalausweisbehörde ein elektronisches Formular bereitgestellt. Der Ausweisinhaber weist seine Identität gegenüber der Personalausweisbehörde mit einem elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes nach. Die zuständige Personalausweisbehörde ändert die Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises und trägt diese in das Personalausweisregister ein. Ist die zuständige Personalausweisbehörde nicht die ausstellende Personalausweisbehörde, informiert die zuständige Personalausweisbehörde die ausstellende Personalausweisbehörde über die neue Anschrift und letztere ändert das Personalausweisregister.
 
-(3) Für die Änderung der Daten nach Absatz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(3) Für die Änderung der Daten nach Absatz 2 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für den elektronischen Identitätsnachweis nach Absatz 2 Satz 3 sowie für das Ändern der Daten nach Absatz 2 Satz 4 verwendet die Personalausweisbehörde ein hoheitliches Berechtigungszertifikat.
 
 (4) Die Personalausweisbehörde ändert die Anschrift im Ersatz-Personalausweis in den dafür vorgesehenen Datenfeldern.
 
-# § 20 – Neusetzung und Änderung der Geheimnummer
+# § 20 – Neusetzung und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit dem Personalausweis
 
 (1) Kennt der Ausweisinhaber die ursprüngliche Geheimnummer nicht, kann die Personalausweisbehörde die Neusetzung der Geheimnummer durch den Ausweisinhaber einleiten. Die Personalausweisbehörde hat zuvor die Identität des Ausweisinhabers zu überprüfen. Durch technische und organisatorische Maßnahmen hat die Personalausweisbehörde sicherzustellen, dass niemand außer dem Ausweisinhaber Kenntnis von der Geheimnummer erlangt.
 
-(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schreibt eine neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium, schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet die neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsausweis wieder ein. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Ein Ausweisinhaber, der eine Meldeadresse im Inland hat, kann das Neusetzen der Geheimnummer auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars beantragen. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ab und versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis wieder ein und schreibt die neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
 (3) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
 
 (4) Für die Änderung der Daten nach Absatz 1 Satz 1 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
-# § 21 – (weggefallen)
-
-# § 22 – Nachträgliches Einschalten
+# § 21 – Nachträgliches Einschalten
 
 (1) Bevor die ausstellende oder zuständige Personalausweisbehörde einen ausgeschalteten elektronischen Identitätsnachweis nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes einschaltet, prüft sie die Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die Tatsache der Ausschaltung im Personalausweisregister. Handelt die zuständige Personalausweisbehörde, informiert sie die ausstellende Personalausweisbehörde über die Einschaltung; in diesem Fall löscht die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung im Personalausweisregister. Die Personalausweisbehörde initiiert bei jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort aus dem Personalausweisregister mit.
 
-(2) Der Antrag nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller schreibt eine neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium und versendet diese in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsausweis ein und informiert die ausstellende Personalausweisbehörde über die Einschaltung. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
+(2) Der Antrag nach § 10 Absatz 3 Satz 1 des Personalausweisgesetzes kann durch den Ausweisinhaber, der eine Meldeadresse im Inland hat, auch durch Verwendung der Zugangsnummer und eines hierfür vom Ausweishersteller zur Verfügung gestellten elektronischen Formulars gestellt werden. Der Ausweishersteller versendet eine neue, zufällig generierte Geheimnummer in einem Brief an die im Speicher- und Verarbeitungsmedium gespeicherte Anschrift des Ausweisinhabers. Bei der Übergabe ist die Identität des Ausweisinhabers durch den Zusteller durch Vorlage des Personalausweises zu überprüfen. Nach Erhalt der neuen Geheimnummer meldet sich der Ausweisinhaber erneut beim Ausweishersteller unter Verwendung der Zugangsnummer an. Der Ausweishersteller schaltet die Funktion zum elektronischen Identitätsnachweis ein und schreibt die neue, zufällig generierte Geheimnummer in das Speicher- und Verarbeitungsmedium. Der Ausweisinhaber ändert die neue, zufällig generierte Geheimnummer in eine selbst gewählte Geheimnummer.
 
 (3) Für das nachträgliche Einschalten des elektronischen Identitätsnachweises nach Absatz 2 sind zertifizierte Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden. Für das Ändern der Daten nach Absatz 2 Satz 2 sowie für das Einschalten nach Absatz 2 Satz 5 verwendet der Ausweishersteller ein hoheitliches Berechtigungszertifikat.
 
+# § 22 – Einrichtung
+
+(1) Der Ausweisinhaber leitet die Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät durch Verwendung eines elektronischen Formulars ein.
+
+(2) Der Ausweishersteller prüft, ob das mobile Endgerät über ein zugelassenes elektronisches Speicher- und Verarbeitungsmedium verfügt, welches dem Stand der Technik entspricht.
+
+(3) Der Ausweisinhaber führt gegenüber dem Ausweishersteller einen elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 1 des Personalausweisgesetzes durch.
+
+(4) Der Ausweishersteller übermittelt in einem sicheren Verfahren, welches dem Stand der Technik entspricht, die Daten nach § 5 Absatz 5a des Personalausweisgesetzes auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endgeräts. Hierzu verwendet er ein hoheitliches Berechtigungszertifikat.
+
+(5) Der Ausweisinhaber vergibt eine selbstgewählte, sechsstellige Geheimnummer durch zweimalige, übereinstimmende Eingabe.
+
+(6) Der Ausweishersteller
+
+1. erzeugt das Sperrkennwort, welches dem Ausweisinhaber über die verwendete Software angezeigt wird,
+
+2. übermittelt den letzten Tag der Gültigkeitsdauer, die Sperrsumme und den Sperrschlüssel an den Sperrlistenbetreiber,
+
+3. speichert das dienste- und kartenspezifische Kennzeichen jeweils für das elektronische Speicher- und Verarbeitungsmedium des Personalausweises und des mobilen Endgeräts sowie das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, den letzten Tag der Gültigkeitsdauer, den Hersteller und die Modellbezeichnung des mobilen Endgeräts, die Sperrsumme und das Sperrkennwort und
+
+4. versendet einen einfachen Brief an die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherte Anschrift des Ausweisinhabers, in dem das Datum und die Uhrzeit der Einrichtung des elektronischen Identitätsnachweises, der letzte Tag der Gültigkeitsdauer, das Sperrkennwort und der Hersteller und die Modellbezeichnung des mobilen Endgeräts mitgeteilt wird; der Brief enthält ferner Angaben zur Erreichbarkeit des Sperrdienstes.
+
+(7) Der Hersteller eines nach Absatz 1 zu verwendenden elektronischen Formulars hat den Ausweisinhaber darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der auf seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist. Der Inhalt des Hinweistextes ist von dem Hersteller einer nach Absatz 1 verwendeten Software mit dem Bundesministerium des Innern, für Bau und Heimat abzustimmen.
+
 # § 23 – (weggefallen)
+
+# § 23 – Speicherung von personenbezogenen Daten; Zugriffsschutz
+
+Auf einen elektronischen Identitätsnachweis mit einem mobilen Endgerät sind § 14 Absatz 1 mit der Maßgabe, dass abweichend von § 14 Absatz 1 Nummer 1 vor der Übermittlung personenbezogener Daten stets die Geheimnummer übermittelt werden muss, sowie § 14 Absatz 2 Nummer 1 und 2 entsprechend anzuwenden.
+
+# § 23a – Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät
+
+(1) Kennt der Ausweisinhaber die bei der Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät vergebene Geheimnummer nicht, kann ein neuer Antrag nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes gestellt werden.
+
+(2) Der Ausweisinhaber kann die Geheimnummer durch Eingabe der bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer ändern.
+
+# § 23b – Gültigkeitsdauer
+
+Der elektronische Identitätsnachweis mit einem mobilen Endgerät hat eine Gültigkeitsdauer von zwei Jahren.
 
 # § 24 – Referenzliste; allgemeine Sperrliste
 
@@ -267,15 +319,23 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 
 (2) Der Sperrlistenbetreiber führt eine allgemeine Sperrliste. Sie enthält allgemeine Sperrmerkmale gesperrter elektronischer Identitätsnachweise und wird Berechtigungszertifikateanbietern auf Anfrage zur Umrechnung in dienstespezifische Sperrlisten bereitgestellt.
 
-# § 25 – Sperrung des elektronischen Identitätsnachweises
+# § 25 – Sperrung des elektronischen Identitätsnachweises mit dem Personalausweis
 
 (1) Kommt ein Personalausweis abhanden, hat der Ausweisinhaber den elektronischen Identitätsnachweis über die zuständige oder ausstellende Personalausweisbehörde oder den Sperrnotruf, der auch vom Ausland aus erreichbar ist, unverzüglich sperren zu lassen. Die Stelle, über die der Ausweisinhaber den elektronischen Identitätsnachweis nach Satz 1 sperren lässt, hat den Ausweisinhaber vor der Sperrung zu identifizieren. Die Sperrung kann unter Angabe des Sperrkennworts, des Familiennamens, der Vornamen und des Tages der Geburt gegenüber der zuständigen oder ausstellenden Personalausweisbehörde auch ohne Angabe des Sperrkennworts geschehen.
 
 (2) Die Stelle, über die der Ausweisinhaber den elektronischen Identitätsnachweis nach Absatz 1 Satz 1 sperren lässt, erzeugt unverzüglich die Sperrsumme und übermittelt sie unverzüglich dem Sperrlistenbetreiber. Handelt die zuständige Personalausweisbehörde, informiert diese die ausstellende Personalausweisbehörde über den Sperrantrag. Die ausstellende Personalausweisbehörde dokumentiert die Tatsache der Sperrung im Personalausweisregister.
 
-(3) Der Sperrlistenbetreiber hat den Eintrag des allgemeinen Sperrmerkmals in die Sperrliste unverzüglich zu bestätigen und an den Ausweisinhaber weiterzuleiten. Lässt der Ausweisinhaber den elektronischen Identitätsnachweis über die zuständige oder ausstellende Personalausweisbehörde sperren, hat die Bestätigung gegenüber der ausstellenden Personalausweisbehörde zu erfolgen. Lässt der Ausweisinhaber den elektronischen Identitätsnachweis über den Sperrnotruf sperren, hat die Bestätigung gegenüber dem Sperrnotruf zu erfolgen.
+(3) Der Sperrlistenbetreiber hat den Eintrag des allgemeinen Sperrmerkmals in die Sperrliste unverzüglich zu bestätigen. Lässt der Ausweisinhaber den elektronischen Identitätsnachweis über die zuständige oder ausstellende Personalausweisbehörde sperren, hat die Bestätigung gegenüber der ausstellenden Personalausweisbehörde zu erfolgen. Lässt der Ausweisinhaber den elektronischen Identitätsnachweis über den Sperrnotruf sperren, hat die Bestätigung gegenüber dem Sperrnotruf zu erfolgen.
 
-# § 26 – Entsperrung des elektronischen Identitätsnachweises
+# § 25a – Sperrung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+
+(1) Kommt ein mobiles Endgerät, auf welches Daten nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes übermittelt wurden, abhanden, hat der Ausweisinhaber den elektronischen Identitätsnachweis über den Sperrnotruf unverzüglich sperren zu lassen. Der Sperrnotruf hat den Ausweisinhaber vor der Sperrung zu identifizieren.
+
+(2) Der Sperrnotruf erzeugt unverzüglich die Sperrsumme und übermittelt sie unverzüglich dem Sperrlistenbetreiber.
+
+(3) Der Sperrlistenbetreiber hat den Eintrag des allgemeinen Sperrmerkmals in die Sperrliste unverzüglich gegenüber dem Sperrnotruf zu bestätigen.
+
+# § 26 – Entsperrung des elektronischen Identitätsnachweises mit dem Personalausweis
 
 (1) Der Ausweisinhaber kann die Entsperrung eines gesperrten elektronischen Identitätsnachweises bei der ausstellenden oder zuständigen Personalausweisbehörde beantragen. Die Entsperrung erfolgt nach der Identifizierung des Ausweisinhabers. Der Ausweisinhaber muss hierzu persönlich erscheinen.
 
@@ -283,9 +343,13 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 
 (3) Die Löschung des allgemeinen Sperrmerkmals aus der Sperrliste ist der ausstellenden Personalausweisbehörde vom Sperrlistenbetreiber zu bestätigen. Die ausstellende Personalausweisbehörde leitet die Bestätigung an den Ausweisinhaber weiter.
 
+# § 26a – Entsperrung des elektronischen Identitätsnachweises mit mobilem Endgerät
+
+Anstelle einer Entsperrung eines gesperrten elektronischen Identitätsnachweises mit einem mobilen Endgerät kann ein erneuter Antrag nach § 10a Absatz 1 Satz 1 des Personalausweisgesetzes gestellt werden.
+
 # § 27 – Auskunft über Sperrung
 
-Der Sperrlistenbetreiber hat die technischen und organisatorischen Vorkehrungen dafür zu treffen, dass der Ausweisinhaber Auskunft darüber erhält, ob der elektronische Identitätsnachweis in der allgemeinen Sperrliste eingetragen ist. Die gleiche Auskunft ist der Personalausweisbehörde über elektronische Identitätsnachweise von Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
+Der Sperrlistenbetreiber hat die technischen und organisatorischen Vorkehrungen dafür zu treffen, dass der Ausweisinhaber Auskunft darüber erhält, ob der elektronische Identitätsnachweis mit dem Personalausweis oder einem mobilen Endgerät in der allgemeinen Sperrliste eingetragen ist. Die gleiche Auskunft ist der Personalausweisbehörde über elektronische Identitätsnachweise von Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
 
 # § 28 – Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter
 
@@ -411,7 +475,7 @@ Auf die eID-Karte finden keine Anwendung:
 
 9. § 19 Absatz 1 und 4 sowie
 
-10. § 22.
+10. § 21.
 
 # § 36d – Muster der eID-Karte
 
@@ -423,6 +487,10 @@ Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster herzustellen. Für d
 
 (2) Signaturkarten, die der Ausweishersteller zur Absicherung des elektronischen Antragsprozesses der Ausweisbehörde vor dem 1. November 2010 ausgestellt hat, behalten bis zum Ablauf der Gültigkeitsdauer ihre Geltung.
 
+(3) Abweichend von § 19 Absatz 1 Satz 1 können die Personalausweisbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in Anhang 1a abgedruckten Muster verwenden.
+
+(4) Abweichend von § 5 Absatz 3 Nummer 1, 3 und 4 sowie Absatz 4 Satz 4 und 6 gilt bis zum 31. Dezember 2031 anstelle der dort jeweils genannten Frist von zehn Jahren und einem Monat die Frist von zehn Jahren und drei Monaten.
+
 # § 38 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
@@ -433,23 +501,35 @@ Der Bundesrat hat zugestimmt.
 
 # Anhang 1 – Muster des Personalausweises
 
-(Fundstelle: BGBl. I 2020, 2753)
+(Fundstelle: BGBl. I 2021, 3691)
 
 Vorderseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0050.jpg)
 
   
   
 Rückseite
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0060.jpg)
 
-  
-  
-Muster des Aufklebers zur Anschriftenänderung des Personalausweises
+# Anhang 1a – Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
-![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2744-1_0030.jpg)
+(Fundstelle: BGBl. I 2021, 3691)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0070.jpg)
+
+# Anhang 1b – Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+
+(Fundstelle: BGBl. I 2021, 3691)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0080.jpg)
+
+# Anhang 1c – Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
+
+(Fundstelle: BGBl. I 2021, 3692)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3682-1_0090.jpg)
 
 # Anhang 2 – Muster des vorläufigen Personalausweises
 
@@ -628,6 +708,9 @@ Tag der Ausstellung
 
 Einträge in Schriftgröße 2 sind unzulässig
 
+<span id="FnA1-F1_790187"></span><a href="#FnR.FnA1-F1_790187" class="Footnote">1</a>  
+Die Schriftgröße ist am Großbuchstaben E auszurichten.
+
 Datenfelder  
 – der Aufkleber für  
 Anschriftänderungen
@@ -645,8 +728,22 @@ Seriennummer
 
 9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen)
 
-<span id="FnA1-F1_790187"></span><a href="#FnR.FnA1-F1_790187" class="Footnote">1</a>  
-Die Schriftgröße ist am Großbuchstaben E auszurichten.
+Datenfelder des Aufklebers  
+für Anschriftenänderungen nach elektronischer Anmeldung  
+nach § 23a des Bundesmeldegesetzes
+
+Anzahl der zur Verfügung stehenden Zeichen
+
+Schriftgröße 3  
+UnicodeDoc: 1,5 mm
+
+Anschrift
+
+22 Zeichen pro Zeile, 4 Zeilen (insgesamt 88 Zeichen)
+
+Seriennummer
+
+9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen)
 
 Abschnitt 2
 
