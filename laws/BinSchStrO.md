@@ -276,32 +276,47 @@ Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen au
 
 Verordnung über Befähigungszeugnisse in der Binnenschifffahrt vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 38 Absatz 4 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
 
-52. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:  
+52. „Schiffspersonalverordnung-Rhein“:  
+  
+
+Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband), die zuletzt durch Artikel 1 Nummer 2 Satz 1 in Verbindung mit der Anlage 3 der Verordnung vom 8. November 2019 (BGBl. 2019 II S. 907) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
+
+53. „Sportbootführerscheinverordnung“:  
+  
+
+Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 11 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden Fassung;
+
+54. „Binnenschifffahrt-Sportbootvermietungsverordnung“:  
+  
+
+Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 4 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
+
+55. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:  
   
 
 Regionale Vereinbarung vom 6. April 2000 über den Binnenschifffahrtsfunk (BGBl. 2000 II S. 1213, 1214) in der jeweils geltenden Fassung;
 
-53. „Binnenschifffahrt-Sprechfunkverordnung“:  
+56. „Binnenschifffahrt-Sprechfunkverordnung“:  
   
 
 Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk vom 18. Dezember 2002 (BGBl. I S. 4569; 2003 I S. 130), die zuletzt durch § 38 Absatz 6 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden Fassung;
 
-54. „ES-TRIN“:  
+57. „ES-TRIN“:  
   
 
 Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4));
 
-55. „LNG-System“:  
+58. „LNG-System“:  
   
 
 sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, insbesondere Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
 
-56. „Bunkerbereich“:  
+59. „Bunkerbereich“:  
   
 
 der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
 
-57. „Flüssigerdgas (LNG)“:  
+60. „Flüssigerdgas (LNG)“:  
   
 
 Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde.
@@ -320,7 +335,13 @@ Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wur
 
 6. Ist für ein stilliegendes Fahrzeug oder einen stillliegenden Schwimmkörper eine Person als Wache oder als Aufsicht nach § 7.08 bestellt, tritt diese Person an die Stelle des Schiffsführers.
 
-7. Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei 0,25 mg/l oder mehr Alkohol in der Atemluft oder bei 0,5 Promille oder mehr Alkohol im Blut oder einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, ist es dem Schiffsführer verboten, das Fahrzeug zu führen.
+7. Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Es ist dem Schiffsführer verboten, das Fahrzeug zu führen, wenn er
+
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+
+b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht.
+
+Eine Wirkung nach Satz 2 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 2 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 8. Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen zu treffen. Insbesondere hat er sich über die Bedingungen und Verhältnisse der Wasserstraße, wie Wasserstände, Durchfahrtshöhen, die er befahren will, zu informieren und dafür zu sorgen, dass das Fahrzeug mit Fahrtbeginn fahrtüchtig und betriebssicher ist.
 
@@ -336,9 +357,21 @@ Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wur
 
 3. Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbstständig den Kurs und die Geschwindigkeit eines Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung und der im Rahmen des § 1.22 erlassenen Verordnungen und Anordnungen vorübergehender Art verantwortlich.
 
-4. Die Mitglieder der diensttuenden Mindestbesatzung nach der Binnenschiffsuntersuchungsordnung und sonstige Personen an Bord, die vorübergehend selbstständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, ist es den in Satz 1 genannten Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen. Die Sätze 1 und 2 gelten entsprechend auch für die Mitglieder der Besatzung, die andere, für die sichere Teilnahme des Fahrzeugs am Verkehr notwendige Tätigkeiten, ausüben.
+4. Die Mitglieder der diensttuenden Mindestbesatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sowie die Mitglieder der Besatzung, die nach Maßgabe des Satzes 2 eine Tätigkeit ausüben, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern oder Schleusen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Den in Satz 1 genannten Personen ist es verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen oder eine Tätigkeit nach Satz 2 auszuüben, wenn sie
 
-5. Der Schiffsführer hat sicherzustellen, dass niemand selbstständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt oder andere, für die sichere Teilnahme des Fahrzeugs am Verkehr notwendige Tätigkeiten ausübt, der 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper haben, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+
+b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 4 stehen.
+
+Eine Wirkung nach Satz 3 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 3 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
+
+5. Der Schiffsführer hat sicherzustellen, dass keine andere Person selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt oder nach Maßgabe des Satzes 2 eine Tätigkeit ausübt, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, die
+
+a) 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+
+b) unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels steht.
+
+Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern oder Schleusen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen.
 
 # § 1.04 – Allgemeine Sorgfaltspflicht
 
@@ -511,76 +544,137 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur macht die Spitzenv
 
 1. Folgende Urkunden und sonstige Unterlagen müssen sich an Bord befinden, soweit sie auf Grund besonderer Vorschriften vorgeschrieben sind:
 
-a) die Fahrtauglichkeitsbescheinigung oder die als Ersatz zugelassene Urkunde;
+a) Urkunden zum Fahrzeug:
 
-b) das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis des Schiffsführers sowie für die anderen Mitglieder der Besatzung der ordnungsgemäß ausgefüllte Qualifikationsnachweis oder das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis;
+aa)  
+die Fahrtauglichkeitsbescheinigung oder die als Ersatz zugelassene Urkunde;
 
-c) das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch;
+bb)  
+der Eichschein des Fahrzeugs;
 
-d) die Bescheinigung über die Ausgabe der Bordbücher;
+cc) die Urkunde über das Kennzeichen für Kleinfahrzeuge oder die für das als Ersatz anerkannte Kennzeichen ausgestellte Bescheinigung.
 
-e) das ordnungsgemäß ausgefüllte Ölkontrollbuch;
+b) Urkunden und sonstige Unterlagen zur Besatzung:
 
-f) der Eichschein des Fahrzeugs;
+aa)  
+das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis des Schiffsführers sowie für die anderen Mitglieder der Besatzung der ordnungsgemäß ausgefüllte Qualifikationsnachweis oder das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis;
 
-g) die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers;
+bb)  
+das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch;
 
-h) die Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeiger;
+cc) die Bescheinigung über die Ausgabe der Bordbücher;
 
-i) das Radarpatent oder ein anderes nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins als gleichwertig anerkanntes Zeugnis; diese Dokumente sind an Bord nicht erforderlich, wenn die Schifferpatentkarte die Eintragung „Radar“ oder ein anderes nach der Binnenschifferpatentverordnung zugelassenes Zeugnis des Schiffsführers die entsprechende Eintragung enthält;
+dd)  
+das Radarpatent oder ein anderes Zeugnis, das nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins als gleichwertig anerkannt ist; diese Dokumente sind an Bord nicht erforderlich, wenn die Schifferpatentkarte die Eintragung „Radar“ oder ein anderes nach der Binnenschifferpatentverordnung zugelassenes Zeugnis des Schiffsführers die entsprechende Eintragung enthält;
 
-j) die Urkunde „Frequenzzuteilung“ oder die Urkunde „Zuteilungsurkunde“;
+ee)  
+ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk.
 
-k) ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk;
+c) Urkunden zum Fahrtgebiet:
 
-l) ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung; als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann;
+die Bescheinigung über die Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf.
 
-m) die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter;
+d) Urkunden und sonstige Unterlagen zu den Informations- und Navigationsgeräten:
 
-n) die Bescheinigung für Flüssiggasanlagen;
+aa)  
+die Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeiger;
 
-o) die Unterlagen über elektrische Anlagen;
+bb)  
+die Bescheinigung über Einbau und Funktion von Inland AIS Geräten;
 
-p) die Prüfbescheinigung über fest installierte Feuerlöschanlagen;
+cc) die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers;
 
-q) die Prüfbescheinigung über Krane;
+dd)  
+die Urkunde Frequenzzuteilung oder die Urkunde Zuteilungszeugnis;
 
-r) die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden;
+ee)  
+ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung; als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann.
 
-s) bei Containerbeförderung die von der Generaldirektion Wasserstraßen und Schifffahrt geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich des Ergebnisses der Stabilitätsprüfung und des aktuellen Stauplans; das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan können auch elektronisch mitgeführt werden, wenn sie jederzeit lesbar gemacht werden können;
+e) Urkunden und sonstige Unterlagen zur Ausrüstung des Fahrzeugs:
 
-t) die Bescheinigung über Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf;
+aa)  
+die Bescheinigung über die Prüfung motorisch betriebener Steuereinrichtungen;
 
-u) die Urkunde über das Kennzeichen für Kleinfahrzeuge oder die für das als Ersatz anerkannte Kennzeichen ausgestellte Bescheinigung;
+bb)  
+die Bescheinigung über die Prüfung des in der Höhe verstellbaren Steuerhauses;
 
-v) bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage 8 Nummer 1.4.9 ES-TRIN vorgeschriebene Betriebshandbuch und die in Artikel 30.03 Nummer 1 ES-TRIN vorgeschriebene Sicherheitsrolle.
+cc) die Bescheinigung über die Prüfung der Schiffsdampfkessel und sonstigen Druckbehälter;
 
-2. Die Schiffspapiere nach Nummer 1 Buchstabe a und f müssen jedoch nicht mitgeführt werden auf einem Schubleichter, auf dem eine Metalltafel nach folgendem Muster angebracht ist:
+dd)  
+die Kopie des Typgenehmigungsbogens des Schiffsantriebs, die Anleitung des Motorenherstellers und das Motorparameterprotokoll;
 
+ee)  
+die Unterlagen über elektrische Anlagen;
+
+ff)  
+das Zeugnis über die Drahtseile;
+
+gg)  
+die Prüfbescheinigung über fest installierte Feuerlöschanlagen;
+
+hh)  
+die Prüfbescheinigung über Krane;
+
+ii) die Bedienungsanleitung des Kranherstellers;
+
+jj)  
+die Bescheinigung über die Prüfung von Flüssiggasanlagen;
+
+kk)  
+die Kopie des Typgenehmigungsbogens der Bordkläranlage und des Bordkläranlagenparameterprotokolls oder ein Wartungsnachweis;
+
+ll)  
+bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage 8 Nummer 1.4.9 ES-TRIN vorgeschriebene Betriebshandbuch und die in Artikel 30.03 Nummer 1 Satz 1 ES-TRIN vorgeschriebene Sicherheitsrolle.
+
+f) Urkunden und sonstige Unterlagen zur Ladung und zu den Betriebsstoffen:
+
+aa)  
+die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden und Unterlagen;
+
+bb)  
+bei Containerbeförderung
+
+aaa)  
+die von der Generaldirektion Wasserstraßen und Schifffahrt geprüften Stabilitätsunterlagen des Fahrzeugs;
+
+bbb)  
+das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan; das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan können auch elektronisch mitgeführt werden, wenn sie jederzeit lesbar gemacht werden können;
+
+cc) das ordnungsgemäß ausgefüllte Ölkontrollbuch.
+
+2. Die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb müssen jedoch nicht an Bord eines Schubleichters mitgeführt werden, auf dem eine Metalltafel nach folgendem Muster angebracht ist:  
   
-<table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 3%" /><col style="width: 41%" /><col style="width: 53%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"><br />
-<br />
-EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER: ..................</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">SCHIFFSATTEST/SCHIFFSZEUGNIS</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">– NUMMER: .......................................................................................</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">– SUK: .......................................................................................</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">– GÜLTIG BIS: ...................................................................................<br />
-<br />
-<br />
-</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr></tbody></table>
 
-<!-- -->
+<table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 32%" /><col style="width: 68%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">EINHEITLICHE EUROPÄISCHE<br />
+SCHIFFSNUMMER:</td><td style="text-align: left;">______________________________________</td></tr><tr class="even"><td style="text-align: left;">SCHIFFSATTEST/SCHIFFSZEUGNIS</td><td style="text-align: left;">______________________________________</td></tr><tr class="odd"><td style="text-align: left;">– NUMMER:</td><td style="text-align: left;">______________________________________</td></tr><tr class="even"><td style="text-align: left;">– SUK:</td><td style="text-align: left;">______________________________________</td></tr><tr class="odd"><td style="text-align: left;">– GÜLTIG BIS:</td><td style="text-align: left;">______________________________________</td></tr></tbody></table>
 
-  
-Sofern der Schubleichter über eine amtliche Schiffsnummer verfügt, ist diese abweichend von dem vorstehenden Muster unter der Bezeichnung „amtliche Schiffsnummer“ auf der Metalltafel anzugeben. Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel mit denen in der Fahrtauglichkeitsbescheinigung des Schubleichters muss von einer Schiffsuntersuchungskommission dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die Schiffspapiere nach Nummer 1 Buchstabe a und f muss der Eigentümer des Schubleichters aufbewahren.
+Die geforderten Angaben müssen auf der Metalltafel in gut lesbaren Buchstaben von mindestens 6 mm Höhe eingeschlagen oder eingekörnt sein. Die Metalltafel muss mindestens 60 mm hoch und 120 mm lang sein. Sie muss gut sichtbar und dauerhaft auf der hinteren Steuerbordseite des Schubleichters befestigt sein. Die Übereinstimmung der Angaben auf der Metalltafel mit denen in der Fahrtauglichkeitsbescheinigung des Schubleichters muss von einer Schiffsuntersuchungskommission dadurch bestätigt sein, dass ihr Zeichen auf der Metalltafel eingeschlagen ist. Die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb muss der Eigentümer des Schubleichters aufbewahren.
 
-3. Nummer 2 gilt auch für ein anderes Fahrzeug ohne Antriebsmaschine, das nicht über Wohnräume, Steuerhäuser oder Aufenthaltsräume verfügt, sofern die Fahrtauglichkeitsbescheinigung keine Auflagen enthält oder das Erkennen von Auflagen anderweitig sichergestellt werden kann. Außer den Angaben nach Nummer 2 ist die Mindestbesatzung anzugeben.
+3. Nummer 2 gilt auch für ein anderes Fahrzeug ohne Antriebsmaschine, das nicht über Wohnräume, Steuerhäuser oder Aufenthaltsräume verfügt, sofern die Fahrtauglichkeitsbescheinigung keine Auflagen enthält oder das Erkennen von Auflagen anderweitig sichergestellt werden kann. Zusätzlich zu den Angaben nach Nummer 2 ist auf der Metalltafel die Mindestbesatzung anzugeben.
 
-4. Auf einem schwimmenden Gerät brauchen die Schiffspapiere nach Nummer 1 Buchstabe a nicht mitgeführt zu werden, wenn an ihm eine Metalltafel nach Maßgabe der Nummer 2 angebracht ist.
+4. Auf einem schwimmenden Gerät müssen die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa nicht an Bord mitgeführt werden, wenn an dem Gerät eine Metalltafel nach Maßgabe der Nummer 2 angebracht ist.
 
-5. Auf einem Baustellenfahrzeug nach ES-TRIN, auf dem weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen die Schiffspapiere nach Nummer 1 Buchstabe a und f nicht an Bord mitgeführt zu werden. Der Eigentümer und Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
+5. Auf einem Baustellenfahrzeug nach ES-TRIN, auf dem weder ein Steuerhaus noch eine Wohnung vorhanden ist, müssen die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb nicht an Bord mitgeführt werden. Der Eigentümer und der Ausrüster haben jedoch jeweils dafür zu sorgen, dass die Schiffspapiere jederzeit im Bereich der Baustelle verfügbar sind.
 
-6. Auf einem schwimmenden Gerät oder einem Baustellenfahrzeug nach ES-TRIN brauchen die Schiffspapiere nach Nummer 1 Buchstabe a, b und f im Baustellenbereich nicht an Bord mitgeführt zu werden. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
+6. Auf einem schwimmenden Gerät oder einem Baustellenfahrzeug nach ES-TRIN müssen die Schiffspapiere nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb und Buchstabe b Doppelbuchstabe aa im Baustellenbereich nicht an Bord mitgeführt werden. Der Eigentümer und der Ausrüster haben jedoch jeweils dafür zu sorgen, dass die Schiffspapiere jederzeit im Bereich der Baustelle verfügbar sind.
 
-7. Der Schiffsführer hat sicherzustellen, dass die Urkunden, das Bordbuch, das Betriebshandbuch und die sonstigen Unterlagen nach Nummer 1 Buchstabe a bis c, f bis n, s, t und v an Bord mitgeführt und auf Verlangen den zur Kontrolle befugten Personen ausgehändigt werden.
+7. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und sonstigen Unterlagen an Bord mitgeführt werden:
 
-8. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass die Urkunden und sonstigen Unterlagen nach Nummer 1 Buchstabe a, f bis h, j, l, m, n, s, t und v sowie das Bordbuch an Bord mitgeführt werden.
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Doppelbuchstabe bb, sofern es sich um das Bordbuch handelt, und Doppelbuchstabe cc bis ee, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff, gg, hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
+
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für die Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuschstabe bb, sofern es sich um das Fahrtenbuch handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
+
+8. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass die folgenden Urkunden und sonstigen Unterlagen an Bord mitgeführt werden:
+
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe bb, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff und ll und Buchstabe f Doppelbuchstabe bb Dreifachbuchstabe aaa und
+
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und Buchstabe e Doppelbuchstabe dd, ee, ii und kk.
+
+9. Der Schiffsführer hat sicherzustellen, dass die folgenden Urkunden und sonstigen Unterlagen auf Verlangen den zur Kontrolle befugten Personen ausgehändigt werden:
+
+a) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa, sofern es sich um keine Fahrerlaubnis für Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, und Doppelbuchstabe bb bis ee, Buchstabe c, d, e Doppelbuchstabe aa, bb, ff bis hh, jj und ll und Buchstabe f Doppelbuchstabe bb und
+
+b) Urkunden und Unterlagen nach Nummer 1 Buchstabe a Doppelbuchstabe cc, Buchstabe b Doppelbuchstabe aa, sofern es sich um eine Fahrerlaubnis für Binnenschifffahrtsstraßen nach der Sportbootführerscheinverordnung handelt, Buchstabe e Doppelbuchstabe cc bis ee, ii und kk und Buchstabe f Doppelbuchstabe aa.
 
 # § 1.11 – Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
@@ -630,7 +724,7 @@ Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper d
 
 # § 1.17 – Festgefahrene oder gesunkene Fahrzeuge; Anzeige von Unfällen
 
-1. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder eines festgefahrenen oder gesunkenen Schwimmkörpers muss so bald es ihm möglich ist für die Benachrichtigung der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei sorgen. Er oder das von ihm bestimmte Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis Beschäftigte der Strom- und Schifffahrtspolizeibehörde, einer nachgeordneten Dienststelle oder der Wasserschutzpolizei ihm gestatten, sich zu entfernen.
+1. Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder eines festgefahrenen oder gesunkenen Schwimmkörpers muss unverzüglich für die Benachrichtigung der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei sorgen. Er oder das von ihm bestimmte Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis Beschäftigte der Strom- und Schifffahrtspolizeibehörde, einer nachgeordneten Dienststelle oder der Wasserschutzpolizei ihm gestatten, sich zu entfernen.
 
 2. Sofern es nicht offensichtlich unnötig ist, muss der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers unbeschadet des § 3.25 unverzüglich für eine Wahrschau der herankommenden Fahrzeuge oder Schwimmkörper an geeigneten Stellen und in einer solchen Entfernung von der Unfallstelle sorgen, dass diese rechtzeitig die erforderlichen Maßnahmen treffen können.
 
@@ -674,7 +768,13 @@ c) eines Schwimmkörpers, soweit dabei nicht offensichtlich eine Behinderung ode
 
 2. Eine Anordnung nach Nummer 1 kann insbesondere veranlasst sein durch Arbeiten in der Wasserstraße, militärische Übungen, öffentliche Veranstaltungen nach § 1.23 oder durch die Fahrwasserverhältnisse. Sie kann auf bestimmten Strecken, auf denen besondere Vorsicht geboten ist und die durch Tonnen, Baken oder andere Zeichen oder durch Aufstellen von Wahrschauen bezeichnet sind, das Fahren bei Nacht oder mit einem zu tiefgehenden Fahrzeug untersagen.
 
-3. Nummer 1 gilt auch für eine Rechtsverordnung, die notwendig ist, um bis zu einer Änderung dieser Verordnung oder zu Versuchszwecken schifffahrtspolizeiliche Maßnahmen zu treffen. Die Rechtsverordnung gilt höchstens drei Jahre.
+3. Nummer 1 gilt auch für eine Rechtsverordnung, die notwendig ist, um
+
+a) in dringenden Fällen oder
+
+b) zu Versuchszwecken, durch die die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden,
+
+schifffahrtspolizeiliche Maßnahmen zu treffen. Die Rechtsverordnung gilt höchstens drei Jahre.
 
 # § 1.23 – Erlaubnis besonderer Veranstaltungen
 
@@ -710,20 +810,25 @@ Die in dieser Verordnung enthaltenen Vorschriften für ein Fahrzeug gelten für 
 
 # § 2.01 – Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
 
-1. An jedem Fahrzeug müssen nach außen sichtbar entweder auf dem Schiffskörper oder auf dauerhaft befestigten Platten oder Schildern folgende Kennzeichen angebracht sein:
+1. An jedem Fahrzeug müssen nach außen sichtbar entweder unmittelbar auf dem Schiffskörper oder auf dauerhaft befestigten Platten oder Schildern auf dem Schiffskörper folgende Kennzeichen angebracht sein:
 
-a) Sein Name, der auch eine Devise sein kann.   
-Der Name ist auf beiden Seiten des Fahrzeugs und, mit Ausnahme von Schubleichtern, auch von hinten sichtbar anzubringen. Wird eine solche Aufschrift bei einem Fahrzeug, das gekuppelte Fahrzeuge oder einen Schubverband fortbewegt, verdeckt, ist der Name auf Tafeln in der Richtung, in der die Aufschrift verdeckt ist, gut sichtbar zu zeigen. In Ermangelung eines Namens für das Fahrzeug ist entweder der Name der Organisation, der das Fahrzeug gehört, oder deren gebräuchliche Abkürzung, im Falle mehrerer Fahrzeuge der Organisation gefolgt von einer Nummer, oder die Registernummer anzubringen, welcher der Buchstabe oder die Buchstabengruppe des Staates folgt, in dem der Heimat- oder Registerort liegt (Anlage 1).
+a) Der Name des Fahrzeugs, der auch eine Devise sein kann.
 
-b) Sein Heimat- oder Registerort.   
+Der Name ist auf beiden Seiten des Fahrzeugs und, mit Ausnahme von Schubleichtern, auch von hinten sichtbar anzubringen. Wird eine solche Aufschrift bei einem Fahrzeug, das gekuppelte Fahrzeuge oder einen Schubverband fortbewegt, verdeckt, ist der Name auf Tafeln an der Seite, an der die Aufschrift verdeckt ist, gut sichtbar zu zeigen. In Ermangelung eines Namens für das Fahrzeug ist Folgendes anzubringen:
+
+aa)  
+der Name der Organisation, der das Fahrzeug gehört, oder deren gebräuchliche Abkürzung, im Falle mehrerer Fahrzeuge der Organisation gefolgt von einer Nummer, oder
+
+bb)  
+die Registernummer, gefolgt von dem Buchstaben oder der Buchstabengruppe des Staates, in dem der Heimat- oder Registerort liegt (Anlage 1).
+
+b) Der Heimat- oder Registerort des Fahrzeugs.
+
 Der Name des Heimat- oder Registerortes ist entweder auf beiden Seiten oder am Heck des Fahrzeugs anzubringen; ihm folgt der Buchstabe oder die Buchstabengruppe des Staates, in dem der Heimat- oder Registerort liegt (Anlage 1).
 
-c) Seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle der einheitlichen europäischen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine einheitliche europäische Schiffsnummer erteilt worden ist.
+c) Die einheitliche europäische Schiffsnummer (ENI) des Fahrzeugs, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle der einheitlichen europäischen Schiffsnummer (ENI).
 
-d) Sofern eine einheitliche europäische Schiffsnummer nicht erteilt ist, seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern besteht, denen ein Kleinbuchstabe folgen kann. Die beiden ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle der amtlichen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine amtliche Schiffsnummer erteilt worden ist.
-
-  
-Die einheitliche europäische Schiffsnummer und die amtliche Schiffsnummer sind nach Maßgabe der in Satz 1 Buchstabe a genannten Anforderungen anzubringen. Die Sätze 1 und 2 gelten nicht für ein Kleinfahrzeug oder ein Seeschiff.
+Die einheitliche europäische Schiffsnummer (ENI) ist nach Maßgabe der in Satz 1 Buchstabe a genannten Anforderungen anzubringen. Die Sätze 1 und 2 gelten nicht für ein Kleinfahrzeug oder ein Seeschiff.
 
 2. Darüber hinaus muss an jedem Fahrzeug, das zur
 
@@ -731,10 +836,9 @@ a) Güterbeförderung bestimmt ist, die Tragfähigkeit in Tonnen nach außen sic
 
 b) Beförderung von Fahrgästen bestimmt ist, die höchstzulässige Anzahl der Fahrgäste an Bord nach außen an gut sichtbarer Stelle
 
-  
 angegeben sein. Satz 1 gilt nicht für ein Kleinfahrzeug oder ein Seeschiff.
 
-3. Die Kennzeichen nach den Nummern 1 und 2 sind – soweit sie Buchstaben enthalten – in gut lesbaren und dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der Schriftzeichen muss beim Namen, der einheitlichen europäischen Schiffsnummer und der amtlichen Schiffsnummer mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen.   
+3. Die Kennzeichen nach den Nummern 1 und 2 sind – soweit sie Buchstaben enthalten – in gut lesbaren und dauerhaften lateinischen Schriftzeichen anzubringen. Die Höhe der Schriftzeichen muss beim Namen und der einheitlichen europäischen Schiffsnummer (ENI) mindestens 20 cm, bei den anderen Zeichen mindestens 15 cm betragen.   
 Die Breite der Schriftzeichen und die Stärke der Striche müssen der Höhe entsprechen. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein.
 
 4. Bei der Fahrt durch Schleusen müssen Länge und Breite des Fahrzeugs von beiden Seiten gut sichtbar angegeben sein. Satz 1 gilt nicht für ein Kleinfahrzeug oder ein Seeschiff.
@@ -765,9 +869,11 @@ Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen ein Kle
 
 # § 2.05 – Kennzeichen der Anker
 
-1. Ein Schiffsanker muss ein dauerhaftes Kennzeichen tragen. Dieses muss entweder die Nummer der Fahrtauglichkeitsbescheinigung und die Unterscheidungsbuchstaben der Schiffsuntersuchungskommission oder den Namen und Wohnort des Eigentümers des Fahrzeugs enthalten. Wird der Anker auf einem anderen Fahrzeug desselben Eigentümers verwendet, kann es bei der erstmaligen Kennzeichnung verbleiben.
+1. Ein Schiffsanker muss ein dauerhaftes Kennzeichen tragen. Dieses muss mindestens die einheitliche europäische Schiffsnummer (ENI) des Fahrzeugs enthalten.
 
-2. Nummer 1 gilt nicht für Anker eines Seeschiffes oder eines Kleinfahrzeugs. Bei einem Seeschiff reicht es aus, wenn die Anker mit dem Unterscheidungssignal des Schiffes gekennzeichnet sind.
+2. Abweichend von Nummer 1 sind bei einem Anker, der sich am 14. Oktober 2021 an Bord eines Fahrzeugs befindet, weiterhin die Nummer der Fahrtauglichkeitsbescheinigung und die Unterscheidungsbuchstaben der Schiffsuntersuchungskommission oder der Name und Wohnort des Eigentümers des Fahrzeugs zulässig. Wird die Nummer der Fahrtauglichkeitsbescheinigung geändert, ist Satz 1 nicht mehr anzuwenden.
+
+3. Nummer 1, auch in Verbindung mit Nummer 2, gilt nicht für Anker eines Kleinfahrzeugs oder eines Seeschiffes. Bei einem Seeschiff reicht es aus, wenn die Anker mit dem Unterscheidungssignal des Schiffes gekennzeichnet sind.
 
 # § 2.06 – Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen(Anlage 3: Bild 65)
 
@@ -799,7 +905,7 @@ b) das Fahrzeug nach § 2.03 geeicht ist,
 
 c) an dem Fahrzeug Einsenkungsmarken nach § 2.04 Nummer 1 und im Falle eines Tiefgangs des Fahrzeugs von mehr als 1,00 m zusätzlich Tiefgangsanzeiger nach § 2.04 Nummer 2 angebracht sind und
 
-d) die Schiffsanker nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2 Satz 2, in der dort vorgeschriebenen Weise gekennzeichnet sind.
+d) die Schiffsanker nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2 oder 3 Satz 2, in der dort vorgeschriebenen Weise gekennzeichnet sind.
 
 2. Der Schiffsführer darf ein Fahrzeug nur führen, wenn
 
@@ -809,7 +915,7 @@ b) das Fahrzeug nach § 2.03 geeicht ist,
 
 c) an dem Fahrzeug Einsenkungsmarken nach § 2.04 Nummer 1 und im Falle eines Tiefgangs des Fahrzeugs von mehr als 1,00 m zusätzlich Tiefgangsanzeiger nach § 2.04 Nummer 2 angebracht sind und
 
-d) die Schiffsanker nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2 Satz 2, in der dort vorgeschriebenen Weise gekennzeichnet sind.
+d) die Schiffsanker nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2 oder 3 Satz 2, in der dort vorgeschriebenen Weise gekennzeichnet sind.
 
 # § 3.01 – Begriffsbestimmungen und Anwendungen(Anlage 3: Bild 1)
 
@@ -1722,7 +1828,7 @@ b) auf einem Fahrzeug ohne Maschinenantrieb und auf einem Kleinfahrzeug mittels 
 
 1. Jede Sprechfunkanlage an Bord eines Fahrzeugs oder einer schwimmenden Anlage muss der Regionalen Vereinbarung über den Binnenschifffahrtsfunk entsprechen. Die Funkanlage muss nach folgenden Vorschriften betrieben werden:
 
-a) nach der in Satz 1 genannten Vereinbarung, die im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) erläutert ist,
+a) nach der in Satz 1 genannten Vereinbarung, die im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) erläutert ist,
 
 b) nach dieser Verordnung und
 
@@ -1780,7 +1886,7 @@ ist.
 
 # § 4.07 – Inland AIS und Inland ECDIS
 
-Auf den Wasserstraßen Neckar, Main, Main-Donau-Kanal, Ruhr, Rhein-Herne-Kanal, Wesel-Datteln-Kanal, Datteln-Hamm-Kanal, Dortmund-Ems-Kanal, Küstenkanal, Mittellandkanal einschließlich der Stichkanäle und des Rothenseer Verbindungskanals, Elbe-Seitenkanal, Elbe-Havel-Kanal einschließlich Großer Wendsee mit Niegripper Verbindungskanal und Pareyer Verbindungskanal, Weser von km 204,40 bis km 366,70 und UWe-km 0,00 bis UWe-km 1,375, Elbe, Elbe-Lübeck-Kanal, Saar von km 0,00 bis km 87,20, Spree-Oder-Wasserstraße von km 0,00 bis km 18,25 mit Ruhlebener Altarm, Berlin-Spandauer-Schifffahrtskanal mit Westhafen-Verbindungskanal, Westhafenkanal und Charlottenburger Verbindungskanal, Teltowkanal von km 0,00 bis km 37,00, Untere Havel-Wasserstraße von km 0,00 bis km 67,82 und von km 146,20 bis km 148,48 mit Großer Wannsee und Potsdamer Havel, Havelkanal und Havel-Oder-Wasserstraße mit Verbindungskanal Hohensaaten Ost, Verbindungskanal Schwedter Querfahrt und Veltener Stichkanal gelten die folgenden Regelungen zu Inland AIS und Inland ECDIS:
+Auf den Wasserstraßen Neckar, Main, Main-Donau-Kanal, Ruhr, Rhein-Herne-Kanal, Wesel-DattelnKanal, Datteln-Hamm-Kanal, Dortmund-Ems-Kanal, Küstenkanal, Mittellandkanal einschließlich der Stichkanäle und des Rothenseer Verbindungskanals, Elbe-Seitenkanal, Elbe-Havel-Kanal einschließlich Großer Wendsee mit Niegripper Verbindungskanal und Pareyer Verbindungskanal, Weser von km 204,40 bis km 366,70 und UWe-km 0,00 bis UWe-km 1,375, Elbe, Elbe-Lübeck-Kanal, Kanaltrave, Saar von km 0,00 bis km 87,20, Spree-Oder-Wasserstraße von km 0,00 bis km 18,25 mit Ruhlebener Altarm, Berlin-Spandauer-Schifffahrtskanal mit Westhafen-Verbindungskanal, Westhafenkanal und Charlottenburger Verbindungskanal, Teltowkanal von km 0,00 bis km 37,00, Untere Havel-Wasserstraße von km 0,00 bis km 67,82 und von km 146,20 bis km 148,48 mit Großer Wannsee und Potsdamer Havel, Havelkanal und Havel-Oder-Wasserstraße mit Verbindungskanal Hohensaaten Ost, Verbindungskanal Schwedter Querfahrt und Veltener Stichkanal gelten die folgenden Regelungen zu Inland AIS und Inland ECDIS:
 
 1. Ein Fahrzeug muss mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3 ES-TRIN ausgestattet sein. Das Inland AIS Gerät muss in einem guten Betriebszustand sein. Die Sätze 1 und 2 gelten nicht für
 
@@ -2292,16 +2398,13 @@ b) für das Schleppen und gekuppelte Fortbewegen eines Sportfahrzeugs, das ein K
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 66%" /><col style="width: 34%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>1.</dt><dd>Wenn die zuständige Behörde durch ein allgemeines Zeichen A.1<br />
 (Anlage 7) bekannt gibt, dass die Schifffahrt gesperrt ist, muss ein<br />
-Fahrzeug vor dem Zeichen anhalten. Bestimmte Fahrzeugarten<br />
-können ausgenommen werden.</dd></dl></td><td style="text-align: left;"><img src="../normengrafiken/bgbl1_2012/j0001_0126_ab1.jpg" /></td></tr></tbody></table>
-
-<table width="100%" style="border: none;"><colgroup><col style="width: 66%" /><col style="width: 34%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>2.</dt><dd>Das Befahren von einer Wasserfläche, die durch das Tafelzeichen<br />
+Fahrzeug vor dem Zeichen anhalten.</dd></dl></td><td style="text-align: left;"><img src="../normengrafiken/bgbl1_2012/j0001_0126_ab1.jpg" /></td></tr><tr class="even"><td style="text-align: left;"><dl><dt>2.</dt><dd>Das Befahren von einer Wasserfläche, die durch das Tafelzeichen<br />
 A.1a (Anlage 7) gekennzeichnet ist, ist einem Fahrzeug oder einem<br />
 Schwimmkörper – mit Ausnahme eines Kleinfahrzeugs ohne<br />
-Antriebsmaschine – verboten.</dd><dt>3.</dt><dd>Das Befahren einer Wasserfläche, die durch die gerade Linie<br />
+Antriebsmaschine – verboten.</dd></dl></td><td style="text-align: left;"><img src="../normengrafiken/bgbl1_2012/j0001_0127_ab1.jpg" /></td></tr><tr class="odd"><td style="text-align: left;"><dl><dt>3.</dt><dd>Das Befahren einer Wasserfläche, die durch die gerade Linie<br />
 zwischen zwei oder mehreren Zeichen nach Nummer 1 oder durch<br />
 eine Reihe von gelben Tonnen (Anlage 8, Abschnitt VIII Bild 33/34)<br />
-begrenzt wird, ist allen Fahrzeugen und Schwimmkörpern verboten.</dd></dl></td><td style="text-align: left;"><img src="../normengrafiken/bgbl1_2012/j0001_0127_ab1.jpg" /></td></tr></tbody></table>
+begrenzt wird, ist allen Fahrzeugen und Schwimmkörpern verboten.</dd></dl></td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"><dl><dt>4.</dt><dd>Die zuständige Behörde kann im Einzelfall Ausnahmen von einem bekannt gemachten Durchfahrtsverbot nach Nummer 1 sowie von den Verboten nach den Nummern 2 und 3 zulassen.</dd></dl></td><td style="text-align: left;"> </td></tr></tbody></table>
 
 # § 6.22a – Vorbeifahrt an schwimmenden Gerätenbei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen(Anlage 3: Bild 50a, 50b, 52)
 
@@ -2342,7 +2445,7 @@ c) die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der Betrieb e
 
 1. In einer Brückenöffnung oder Wehröffnung gilt § 6.07, es sei denn, das Fahrwasser gewährt hinreichenden Raum für die gleichzeitige Durchfahrt.
 
-2. Ist eine Brückenöffnung oder Wehröffnung gekennzeichnet
+2. Ist das Durchfahren einer Brücken- oder Wehröffnung gestattet und ist die Öffnung gekennzeichnet
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 63%" /><col style="width: 37%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"><dl><dt>a)</dt><dd>durch das Tafelzeichen A.10 (Anlage 7), ist die Schifffahrt in dieser<br />
 Öffnung außerhalb des durch die beiden Tafeln<br />
@@ -2559,11 +2662,11 @@ Einfahrt erlaubt.
   
 Zusätzlich zu Satz 1 kann die Einfahrt in die Schleuse bei Tag und bei Nacht für ein Klein- und Sportfahrzeug durch zusätzliche Signallichter besonders geregelt werden. Die Signallichter nach Satz 3 bestehen aus je einem roten und einem grünen Gleichtaktlicht nebeneinander und sind mit einem zusätzlichen Schild nach Anlage 7 Abschnitt II Nummer 3 mit dem Hinweis „Klein- und Sportfahrzeug“ gekennzeichnet; sie werden gemeinsam mit den Signallichtern nach Satz 1 oder an den für Klein- und Sportfahrzeuge besonders ausgewiesenen Wartestellen gezeigt. Sind Signallichter nach Satz 3 vorhanden, sind ausschließlich diese für ein Klein- und Sportfahrzeug für die Einfahrt maßgeblich. Die Signallichter nach Satz 3 in Verbindung mit Satz 4 haben folgende Bedeutung:
 
-a) ein rotes Gleichtaktlicht (Wiederholungsfrequenz 12 Sekunden):  
+a) ein rotes Gleichtaktlicht (Wiederkehrfrequenz 12 Sekunden):  
   
 Einfahrt für Klein- und Sportfahrzeuge verboten;
 
-b) ein grünes Gleichtaktlicht (Wiederholungsfrequenz 12 Sekunden):  
+b) ein grünes Gleichtaktlicht (Wiederkehrfrequenz 12 Sekunden):  
   
 Einfahrt für Klein- und Sportfahrzeuge erlaubt.
 
@@ -2609,11 +2712,11 @@ b) ein Fahrzeug mit Erlaubnis der zuständigen Behörde.
   
 Diese Fahrzeuge müssen den roten Wimpel nach § 3.17 zeigen. Nach jeder Bergschleusung oder jeder Talschleusung eines Fahrzeugs, das sein Vorrecht geltend gemacht hat, sind jeweils einmal die zurückgestellten Fahrzeuge ohne Vorrecht in derselben Richtung zu schleusen. In keinem Fall berechtigt das Vorrecht auf Schleusung das Fahrzeug, zu einer vorher festgesetzten Uhrzeit geschleust zu werden.
 
-6. Die Schleusenaufsicht kann aus Sicherheitsgründen für die Schleusung eines Fahrzeugs mit gefährlichen Gütern abweichende Anordnungen erteilen.
+6. Klein- oder Sportfahrzeuge werden, sofern sie nicht eine Bootsschleuse, Bootsgasse oder Bootsumsetzanlage benutzen können, nur nach anderen Fahrzeugen geschleust. Sie werden grundsätzlich nur in Gruppen, bei Vorhandensein freier Kapazitäten auch zusammen mit anderen Fahrzeugen geschleust. Ausnahmsweise kann ein Klein- oder Sportfahrzeug auch einzeln geschleust werden, sofern die Dauer der Wartezeit unzumutbar ist. Ein Klein- oder Sportfahrzeug, das mit Sprechfunk ausgerüstet ist, kann nach rechtzeitiger Anmeldung an der Schleuse auch ohne Wartezeiten einzeln geschleust werden, sofern es mit dem übrigen Verkehrsaufkommen, der Verkehrslage und Maßnahmen zur Stauhaltung der Wasserstraße vereinbar ist. Bei gemeinsamer Schleusung eines Klein- oder Sportfahrzeugs mit anderen Fahrzeugen darf ein Klein- oder Sportfahrzeug erst nach den anderen Fahrzeugen und nach Aufforderung durch die Schleusenaufsicht in die Schleuse einfahren. Ist die Einfahrt in die Schleuse für ein Klein- oder Sportfahrzeug durch besondere Signallichter nach § 6.28a Nummer 2 Satz 3 in Verbindung mit Satz 4 geregelt, darf ein Klein- oder Sportfahrzeug erst nach Freigabe der Einfahrt durch die besonderen Signallichter in die Schleuse einfahren.
 
-7. Klein- oder Sportfahrzeuge werden, sofern sie nicht eine Bootsschleuse, Bootsgasse oder Bootsumsetzanlage benutzen können, nur in Gruppen oder zusammen mit anderen Fahrzeugen geschleust. Ausnahmsweise kann ein Klein- oder Sportfahrzeug auch einzeln geschleust werden, sofern die Dauer der Wartezeit unzumutbar ist. Ein Klein- oder Sportfahrzeug, das mit Sprechfunk ausgerüstet ist, kann nach rechtzeitiger Anmeldung an der Schleuse auch ohne Wartezeiten einzeln geschleust werden, sofern es mit dem übrigen Verkehrsaufkommen, der Verkehrslage und Maßnahmen zur Stauhaltung der Wasserstraße vereinbar ist. Bei gemeinsamer Schleusung eines Klein- oder Sportfahrzeugs mit anderen Fahrzeugen darf ein Klein- oder Sportfahrzeug erst nach den anderen Fahrzeugen und nach Aufforderung durch die Schleusenaufsicht in die Schleuse einfahren. Ist die Einfahrt in die Schleuse für ein Klein- oder Sportfahrzeug durch besondere Signallichter nach § 6.28a Nummer 2 Satz 3 in Verbindung mit Satz 4 geregelt, darf ein Klein- oder Sportfahrzeug erst nach Freigabe der Einfahrt durch die besonderen Signallichter in die Schleuse einfahren.
+7. Von den durch Verordnung festgesetzten Schleusenbetriebszeiten kann aus Gründen des Verkehrsbedarfs oder wegen betrieblicher Erfordernisse vorübergehend abgewichen werden.
 
-8. Von den durch Verordnung festgesetzten Schleusenbetriebszeiten kann aus Gründen des Verkehrsbedarfs oder wegen betrieblicher Erfordernisse vorübergehend abgewichen werden.
+8. Die Schleusenaufsicht kann aus Gründen der Sicherheit und Leichtigkeit des Verkehrs, zur Beschleunigung der Durchfahrt oder zur vollen Ausnutzung der Schleusen Anordnungen erteilen, die diese Vorschrift ergänzen oder von ihr abweichen. Der Schiffsführer hat die Anordnungen nach Satz 1 zu befolgen.
 
 (+++ § 6.29: Zur Nichtanwendung vgl. § 15.18 Nr. 5 Buchst. b +++)
 
@@ -2710,13 +2813,13 @@ b) wenn es gerade von einem Ufer zum anderen wechselt, das Fahrwasser so weit un
 
 # § 6.35 – Verhaltenspflichten
 
-1. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 Satz 1 und Nummer 2 und 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 bis 15, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 7 Satz 5, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+1. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 bis 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 bis 15, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 6 Satz 6, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 2. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass die Tafel und die Leuchte des Funkellichts nach § 6.04 Nummer 3 Satz 1 Buchstabe a und b jeweils den Anforderungen nach § 6.04 Nummer 3 Satz 2 entsprechen.
 
 3. Der Schiffsführer hat die in § 6.21 Nummer 1 bis 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Zusammenstellung der Verbände einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
-4. Der Schiffsführer hat die in § 6.28 Nummer 16, 17 und 18 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5 und Nummer 7 Satz 4, jeweils auch in Verbindung mit § 6.29a, § 6.32 Nummer 1 Satz 1 und Nummer 2 und 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+4. Der Schiffsführer hat die in § 6.28 Nummer 16, 17 und 18 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5, Nummer 6 Satz 5 und Nummer 8 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.32 Nummer 1 Satz 1 und Nummer 2 und 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 5. Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn die in § 6.21 Nummer 1 bis 3 vorgesehenen Gebote oder Verbote über die Zusammenstellung der Verbände eingehalten werden können.
 
@@ -2917,9 +3020,9 @@ Tafelzeichen steht.</dd></dl></td><td style="text-align: left;"><img src="../nor
 # § 7.05 – Liegestellen
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 48%" /><col style="width: 49%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;">Auf einer Liegestelle, bei der das Tafelzeichen E.5 (Anlage 7) aufge-<br />
-stellt ist, darf ein Fahrzeug, oder ein Schwimmkörper nur auf der Sei-<br />
+stellt ist, darf ein Fahrzeug oder ein Schwimmkörper nur auf der Sei-<br />
 te der Wasserstraße stillliegen, auf der das Tafelzeichen steht.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2012/j0001_0176_ab1.jpg" /></td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">Auf einer Liegestelle, bei der das Tafelzeichen E.5.1 (Anlage 7) aufge-<br />
-stellt ist, darf ein Fahrzeug, oder ein Schwimmkörper nur auf einer<br />
+stellt ist, darf ein Fahrzeug oder ein Schwimmkörper nur auf einer<br />
 Wasserfläche stillliegen, deren Breite auf dem Tafelzeichen in Me-<br />
 tern angegeben ist. Die Breite bemisst sich vom Aufstellungsort des<br />
 Tafelzeichens.</td><td style="text-align: center;"><img src="../normengrafiken/bgbl1_2012/j0001_0177_ab1.jpg" /></td></tr><tr class="odd"><td style="text-align: left;">3.</td><td style="text-align: left;">Auf einer Liegestelle, bei der das Tafelzeichen E.5.2 (Anlage 7) aufge-<br />
@@ -3549,7 +3652,7 @@ Schwabenheim</td><td style="text-align: left;"><br />
 370 cm</td></tr><tr class="even"><td style="text-align: left;">Strecke: Alte Brücke Heidelberg-<br />
 Staustufe Heidelberg</td><td style="text-align: left;"><br />
 Heidelberg</td><td style="text-align: left;"><br />
-260 cm</td></tr><tr class="odd"><td style="text-align: left;">Heidelberg-Neckargemünd</td><td style="text-align: left;">Neckargemünd</td><td style="text-align: left;">320 cm</td></tr><tr class="even"><td style="text-align: left;">Neckargemünd-Neckarsteinach</td><td style="text-align: left;">Neckarsteinach</td><td style="text-align: left;">375 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarsteinach-Hirschhorn</td><td style="text-align: left;">Hirschhorn</td><td style="text-align: left;">320 cm</td></tr><tr class="even"><td style="text-align: left;">Hirschhorn-Rockenau</td><td style="text-align: left;">Rockenau</td><td style="text-align: left;">395 cm</td></tr><tr class="odd"><td style="text-align: left;">Rockenau-Guttenbach</td><td style="text-align: left;">Guttenbach</td><td style="text-align: left;">350 cm</td></tr><tr class="even"><td style="text-align: left;">Guttenbach-Neckarzimmern</td><td style="text-align: left;">Neckarzimmern</td><td style="text-align: left;">420 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarzimmern-Gundelsheim</td><td style="text-align: left;">Gundelsheim</td><td style="text-align: left;">380 cm</td></tr><tr class="even"><td style="text-align: left;">Gundelsheim-Neckarsulm/Kochendorf</td><td style="text-align: left;">Kochendorf</td><td style="text-align: left;">400 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarsulm/Kochendorf-Heilbronn</td><td style="text-align: left;">Heilbronn</td><td style="text-align: left;">260 cm</td></tr><tr class="even"><td style="text-align: left;">Heilbronn-Horkheim</td><td style="text-align: left;">Horkheim</td><td style="text-align: left;">320 cm</td></tr><tr class="odd"><td style="text-align: left;">Horkheim-Lauffen</td><td style="text-align: left;">Lauffen</td><td style="text-align: left;">270 cm</td></tr><tr class="even"><td style="text-align: left;">Lauffen-Besigheim</td><td style="text-align: left;">Besigheim</td><td style="text-align: left;">330 cm</td></tr><tr class="odd"><td style="text-align: left;">Besigheim-Hessigheim</td><td style="text-align: left;">Hessigheim</td><td style="text-align: left;">330 cm</td></tr><tr class="even"><td style="text-align: left;">Hessigheim-Pleidelsheim</td><td style="text-align: left;">Pleidelsheim</td><td style="text-align: left;">300 cm</td></tr><tr class="odd"><td style="text-align: left;">Pleidelsheim-Marbach</td><td style="text-align: left;">Marbach</td><td style="text-align: left;">285 cm</td></tr><tr class="even"><td style="text-align: left;">Marbach-Poppenweiler</td><td style="text-align: left;">Poppenweiler</td><td style="text-align: left;">300 cm</td></tr><tr class="odd"><td style="text-align: left;">Poppenweiler-Aldingen</td><td style="text-align: left;">Aldingen</td><td style="text-align: left;">280 cm</td></tr><tr class="even"><td style="text-align: left;">Aldingen-Hofen</td><td style="text-align: left;">Hofen</td><td style="text-align: left;">290 cm</td></tr><tr class="odd"><td style="text-align: left;">Hofen-Cannstatt</td><td style="text-align: left;">Cannstatt</td><td style="text-align: left;">260 cm</td></tr><tr class="even"><td style="text-align: left;">Cannstatt-Untertürkheim</td><td style="text-align: left;">Untertürkheim</td><td style="text-align: left;">240 cm</td></tr><tr class="odd"><td style="text-align: left;">Untertürkheim-Obertürkheim</td><td style="text-align: left;">Obertürkheim</td><td style="text-align: left;">240 cm</td></tr><tr class="even"><td style="text-align: left;">Obertürkheim-Esslingen</td><td style="text-align: left;">Esslingen</td><td style="text-align: left;">266 cm</td></tr><tr class="odd"><td style="text-align: left;">Strecke: Wehr Oberesslingen-Deizisau</td><td style="text-align: left;">Deizisau</td><td style="text-align: left;">244 cm</td></tr><tr class="even"><td style="text-align: left;">Strecke: Staustufe Deizisau</td><td style="text-align: left;">Deizisau</td><td style="text-align: left;">244 cm</td></tr><tr class="odd"><td style="text-align: left;">Strecke: km 201,49-km 203,01</td><td style="text-align: left;">Plochingen</td><td style="text-align: left;">180 cm.</td></tr></tbody></table>
+260 cm</td></tr><tr class="odd"><td style="text-align: left;">Heidelberg-Neckargemünd</td><td style="text-align: left;">Neckargemünd</td><td style="text-align: left;">320 cm</td></tr><tr class="even"><td style="text-align: left;">Neckargemünd-Neckarsteinach</td><td style="text-align: left;">Neckarsteinach</td><td style="text-align: left;">375 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarsteinach-Hirschhorn</td><td style="text-align: left;">Hirschhorn</td><td style="text-align: left;">320 cm</td></tr><tr class="even"><td style="text-align: left;">Hirschhorn-Rockenau</td><td style="text-align: left;">Rockenau</td><td style="text-align: left;">395 cm</td></tr><tr class="odd"><td style="text-align: left;">Rockenau-Guttenbach</td><td style="text-align: left;">Guttenbach</td><td style="text-align: left;">350 cm</td></tr><tr class="even"><td style="text-align: left;">Guttenbach-Neckarzimmern</td><td style="text-align: left;">Neckarzimmern</td><td style="text-align: left;">420 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarzimmern-Gundelsheim</td><td style="text-align: left;">Gundelsheim</td><td style="text-align: left;">380 cm</td></tr><tr class="even"><td style="text-align: left;">Gundelsheim-Neckarsulm/Kochendorf</td><td style="text-align: left;">Kochendorf</td><td style="text-align: left;">400 cm</td></tr><tr class="odd"><td style="text-align: left;">Neckarsulm/Kochendorf-Heilbronn</td><td style="text-align: left;">Heilbronn</td><td style="text-align: left;">260 cm</td></tr><tr class="even"><td style="text-align: left;">Heilbronn-Horkheim</td><td style="text-align: left;">Horkheim</td><td style="text-align: left;">320 cm</td></tr><tr class="odd"><td style="text-align: left;">Horkheim-Lauffen</td><td style="text-align: left;">Lauffen</td><td style="text-align: left;">270 cm</td></tr><tr class="even"><td style="text-align: left;">Lauffen-Besigheim</td><td style="text-align: left;">Besigheim</td><td style="text-align: left;">330 cm</td></tr><tr class="odd"><td style="text-align: left;">Besigheim-Hessigheim</td><td style="text-align: left;">Hessigheim</td><td style="text-align: left;">330 cm</td></tr><tr class="even"><td style="text-align: left;">Hessigheim-Pleidelsheim</td><td style="text-align: left;">Pleidelsheim</td><td style="text-align: left;">300 cm</td></tr><tr class="odd"><td style="text-align: left;">Pleidelsheim-Marbach</td><td style="text-align: left;">Marbach</td><td style="text-align: left;">285 cm</td></tr><tr class="even"><td style="text-align: left;">Marbach-Poppenweiler</td><td style="text-align: left;">Poppenweiler</td><td style="text-align: left;">300 cm</td></tr><tr class="odd"><td style="text-align: left;">Poppenweiler-Aldingen</td><td style="text-align: left;">Aldingen</td><td style="text-align: left;">280 cm</td></tr><tr class="even"><td style="text-align: left;">Aldingen-Hofen</td><td style="text-align: left;">Hofen</td><td style="text-align: left;">290 cm</td></tr><tr class="odd"><td style="text-align: left;">Hofen-Cannstatt</td><td style="text-align: left;">Cannstatt</td><td style="text-align: left;">260 cm</td></tr><tr class="even"><td style="text-align: left;">Cannstatt-Untertürkheim</td><td style="text-align: left;">Untertürkheim</td><td style="text-align: left;">240 cm</td></tr><tr class="odd"><td style="text-align: left;">Untertürkheim-Obertürkheim</td><td style="text-align: left;">Obertürkheim</td><td style="text-align: left;">240 cm</td></tr><tr class="even"><td style="text-align: left;">Obertürkheim-Esslingen</td><td style="text-align: left;">Esslingen</td><td style="text-align: left;">266 cm</td></tr><tr class="odd"><td style="text-align: left;">Esslingen-Oberesslingen</td><td style="text-align: left;">Esslingen</td><td style="text-align: left;">266 cm</td></tr><tr class="even"><td style="text-align: left;">Strecke: Wehr Oberesslingen-Deizisau</td><td style="text-align: left;">Deizisau</td><td style="text-align: left;">244 cm</td></tr><tr class="odd"><td style="text-align: left;">Strecke: Staustufe Deizisau</td><td style="text-align: left;">Deizisau</td><td style="text-align: left;">244 cm</td></tr><tr class="even"><td style="text-align: left;">Strecke: km 201,49-km 203,01</td><td style="text-align: left;">Plochingen</td><td style="text-align: left;">180 cm.</td></tr></tbody></table>
 
 # § 10.12 – Schifffahrt bei Eis
 
@@ -3581,7 +3684,7 @@ Ein Trägerschiffsleichter darf nicht an die Spitze eines Schubverbandes gesetzt
 
 # § 10.19 – Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
-Bei gemeinsamer Schleusung eines Fahrgastschiffs und eines Fahrzeugs, das für die Beförderung von Gütern bestimmt ist, darf das Fahrgastschiff erst nach diesem in die Schleuse einfahren.
+(keine besonderen Vorschriften)
 
 # § 10.20 – Segeln
 
@@ -3619,7 +3722,7 @@ Das Befahren der Binnenschifffahrtsstraße oberhalb km 201,49 ist verboten. Satz
 
 (keine besonderen Vorschriften)
 
-# § 10.29 – Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
+# § 10.29 – Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
 
@@ -3628,12 +3731,12 @@ a) sicherzustellen, dass das Fahrzeug oder der Verband die zugelassene Höchstge
 b) die Vorschriften über
 
 aa)  
-das Verhalten beim Begegnen nach § 10.06,
+das Verhalten beim Begegnen nach § 10.06 und
 
 bb)  
-die Schifffahrt bei Hochwasser nach § 10.11 Nummer 1 und 2 und
+die Schifffahrt bei Hochwasser nach § 10.11 Nummer 1 und 2
 
-cc) das Verhalten bei der Benutzung der Schleusen nach § 10.19
+cc) (weggefallen)
 
   
 einzuhalten oder sicherzustellen, dass diese eingehalten werden.
@@ -3735,7 +3838,7 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 2. Abweichend von Nummer 1 kann aus wichtigem Grund die Vorbeifahrt Steuerbord an Steuerbord verlangt werden, wenn dies ohne Gefahr möglich ist. In diesem Fall hat, unbeschadet des § 6.04 Nummer 3, die vorherige gegenseitige Verständigung mittels Sprechfunk zu erfolgen.
 
-3. Der Schiffsführer hat die in den Amtlichen Schifffahrtsnachrichten für das Rheinstromgebiet bekannt gegebenen Strecken oder Stellen, die in Abhängigkeit von Schiffslänge, Tiefgang und Wasserstand Fahrwasserengen im Sinne des § 6.07 darstellen können, zu berücksichtigen.
+3. Der Schiffsführer hat die von der nach § 2 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung zuständigen Behörde durch öffentlich bekanntgemachte Anordnungen veröffentlichten Strecken oder Stellen, die in Abhängigkeit von Schiffslänge, Tiefgang und Wasserstand Fahrwasserengen im Sinne des § 6.07 darstellen können, zu berücksichtigen.
 
 # § 11.07 – Überholen
 
@@ -3792,7 +3895,7 @@ Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt, muss ein F
 
 # § 11.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Verbandes mit einer Länge von mehr als 140,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Mainstrecke von Hanau (km 57,00) bis zur Mündung in den Rhein auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Oberwesel Revierzentrale“ melden und folgende Angaben machen:
+1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Verbandes mit einer Länge von mehr als 140,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Mainstrecke von Hanau (km 57,00) bis zur Mündung in den Rhein auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Oberwesel Revierzentrale“ melden und folgende Angaben machen:
 
 a) Schiffsgattung;
 
@@ -3800,7 +3903,7 @@ b) Schiffsname;
 
 c) Standort, Fahrtrichtung;
 
-d) Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
+d) Einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
 
 e) Tragfähigkeit;
 
@@ -4048,7 +4151,7 @@ Als Bergfahrt gilt die Fahrt in Richtung Bachhausen.
 
 2. Abweichend von Nummer 1 kann aus wichtigem Grund die Vorbeifahrt Steuerbord an Steuerbord verlangt werden, wenn dies ohne Gefahr möglich ist. In diesem Falle hat, unbeschadet des § 6.04 Nummer 3, die vorherige gegenseitige Verständigung mittels Sprechfunk zu erfolgen.
 
-3. Der Schiffsführer hat die in den Amtlichen Schifffahrtsnachrichten für das Rheinstromgebiet bekannt gegebenen Strecken oder Stellen, die in Abhängigkeit von Schiffslänge, Tiefgang und Wasserstand Fahrwasserengen im Sinne des § 6.07 darstellen können, zu berücksichtigen.
+3. Der Schiffsführer hat die von der nach § 2 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung zuständigen Behörde durch öffentlich bekanntgemachte Anordnungen veröffentlichten Strecken oder Stellen, die in Abhängigkeit von Schiffslänge, Tiefgang und Wasserstand Fahrwasserengen im Sinne des § 6.07 darstellen können, zu berücksichtigen.
 
 # § 12.07 – Überholen
 
@@ -4621,7 +4724,7 @@ Auf dem Griethauser Altrhein ist die Schifffahrt mit Ausnahme des Übersetzverke
 
 # § 14.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs oder eines Sondertransportes nach § 1.21 müssen sich vor Einfahrt in den Schifffahrtsweg Rhein-Kleve auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Duisburg Revierzentrale“ melden und folgende Angaben machen:
+1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs oder eines Sondertransportes nach § 1.21 müssen sich vor Einfahrt in den Schifffahrtsweg Rhein-Kleve auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Duisburg Revierzentrale“ melden und folgende Angaben machen:
 
 a) Schiffsgattung;
 
@@ -4629,7 +4732,7 @@ b) Schiffsname;
 
 c) Standort, Fahrtrichtung;
 
-d) Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
+d) Einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
 
 e) Tragfähigkeit;
 
@@ -5267,9 +5370,9 @@ km 0,06 (Dortmund-Ems-Kanal) bis km 47,20
 
 Fahrzeug/Verband
 
-86,00
+ 86,00
 
-9,65
+ 9,65
 
 2,50
 
@@ -5285,7 +5388,7 @@ soweit nachfolgend nicht etwas anderes festgelegt ist
 
 1.4.2
 
-km 0,06 bis km 8,60 (Stumm-Hafen)
+km 0,06 bis km 11,30 (Hafen Lünen)
 
  
 
@@ -5315,37 +5418,7 @@ b) Verband
 
 1.4.3
 
-km 8,60 bis km 11,30 (Hafen Lünen)
-
- 
-
- 
-
- 
-
- 
-
-a) Fahrzeug
-
-135,00
-
-11,45
-
-2,80
-
- 
-
-b) Verband
-
-186,00
-
-11,45
-
-2,80
-
-1.4.4
-
-km 11,30 bis km 35,87 (Schleuse Hamm)
+km 11,30 bis km 35,87 (Hammer Bahnbrücke)
 
  
 
@@ -5367,13 +5440,13 @@ a) Fahrzeug
 
 b) Verband
 
-186,00
+186,50
 
 11,45
 
 2,70
 
-Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
+Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
 
 1.5
 
@@ -5387,7 +5460,8 @@ Dortmund-Ems-Kanal
 
 1.5.1
 
-km 1,44 (Hafen Dortmund) bis km 225,82 (Papenburg) einschließlich Hase und Ems
+km 1,44 (Hafen Dortmund) bis km 225,82 (Papenburg)  
+einschließlich Hase und Ems
 
  
 
@@ -5399,9 +5473,9 @@ km 1,44 (Hafen Dortmund) bis km 225,82 (Papenburg) einschließlich Hase und Ems
 
 Fahrzeug/Verband
 
-90,00
+ 90,00
 
-9,65
+ 9,65
 
 2,50
 
@@ -5417,7 +5491,7 @@ soweit nachfolgend nicht etwas anderes festgelegt ist
 
 1.5.2
 
-km 1,44 bis km 21,50 und km 15,45 (Rhein-Herne-Kanal) bis km 15,96
+km 1,44 bis km 21,50
 
  
 
@@ -5461,7 +5535,7 @@ a) Fahrzeug
 
 110,00
 
-10,60
+11,45
 
 2,50
 
@@ -5471,7 +5545,7 @@ b) Verband
 
 110,00
 
-10,60
+11,45
 
 2,50
 
@@ -5481,7 +5555,7 @@ b) Verband
 
 165,00
 
-9,65
+ 9,65
 
 2,50
 
@@ -5531,13 +5605,24 @@ Fahrzeug/Verband
 
 100,00
 
-9,65
+ 9,65
 
 2,70
 
+ 
+
+ 
+
+110,00
+
+ 9,65
+
+2,50
+
 1.5.6
 
-km 138,00 bis km 225,82 (Papenburg) einschließlich Hase und Ems
+km 138,00 bis km 225,82 (Papenburg)  
+einschließlich Hase und Ems
 
  
 
@@ -5551,7 +5636,7 @@ Fahrzeug/Verband
 
 100,00
 
-9,65
+ 9,65
 
 2,70
 
@@ -5559,13 +5644,23 @@ Fahrzeug/Verband
 
  
 
-90,00
+ 90,00
 
 10,60
 
 2,60
 
-Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
+ 
+
+ 
+
+110,00
+
+ 9,65
+
+2,50
+
+Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
 
 1.6
 
@@ -5763,7 +5858,7 @@ Ems-Seitenkanal
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
 67,00
 
@@ -5803,7 +5898,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 185,00
 
@@ -5883,7 +5978,7 @@ km 235,89 bis km 318,50
 
  
 
-Schubverband
+Verband
 
 147,00
 
@@ -5927,7 +6022,7 @@ km 0,00 bis km 13,01
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
 82,00
 
@@ -5947,7 +6042,7 @@ soweit nachfolgend nicht etwas anderes festgelegt ist
 
 1.12.3.1.2
 
-km 0,00 bis km 12,25 (Einfahrt in den Ölhafen)
+km 0,00 bis km 12,40 (Einfahrt in den Ölhafen)
 
  
 
@@ -5957,7 +6052,7 @@ km 0,00 bis km 12,25 (Einfahrt in den Ölhafen)
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
 82,00
 
@@ -5977,7 +6072,8 @@ Stichkanal Hannover-Linden
 
 1.12.3.2.1
 
-km 0,00 bis km 10,75
+km 0,00 (Abzweigung aus dem Mittellandkanal)  
+bis km 10,75 (Ende als Bundeswasserstraße)
 
  
 
@@ -5987,11 +6083,11 @@ km 0,00 bis km 10,75
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
-82,00
+ 82,00
 
-9,60
+ 9,60
 
 2,30
 
@@ -6007,7 +6103,8 @@ soweit nachfolgend nicht etwas anderes festgelegt ist
 
 1.12.3.2.2
 
-km 0,00 bis km 9,50 (Unterwasser Hafenschleuse Hannover-Linden)
+km 0,00 (Abzweigung aus dem Mittellandkanal)  
+bis km 6,50 (Umschlagstelle Hannover-Letter)
 
  
 
@@ -6017,11 +6114,32 @@ km 0,00 bis km 9,50 (Unterwasser Hafenschleuse Hannover-Linden)
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
-85,00
+ 90,00
 
-9,60
+ 9,60
+
+2,40
+
+1.12.3.2.3
+
+km 6,50 (Umschlagstelle Hannover-Letter)  
+bis km 9,50 (Unterwasser Hafenschleuse Hannover-Linden)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fahrzeug/Verband
+
+ 85,00
+
+ 9,60
 
 2,30
 
@@ -6047,7 +6165,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 185,00
 
@@ -6067,13 +6185,83 @@ Stichkanal Hildesheim
 
  
 
-Fahrzeug/Schubverband
+a) Fahrzeug
 
-82,00
+ 90,00
 
-9,60
+10,60
 
 2,30
+
+ 
+
+ 
+
+110,00
+
+10,60
+
+2,10
+
+ 
+
+ 
+
+110,00
+
+11,45
+
+2,00
+
+ 
+
+b) Verband
+
+ 90,00
+
+10,60
+
+2,30
+
+ 
+
+ 
+
+110,00
+
+11,45
+
+2,00
+
+ 
+
+ 
+
+135,00
+
+ 9,60
+
+2,30
+
+ 
+
+ 
+
+135,00
+
+10,60
+
+2,10
+
+ 
+
+ 
+
+150,00
+
+11,45
+
+1,90
 
 1.12.4
 
@@ -6085,15 +6273,135 @@ Verbindungskanal Nord zur Weser
 
  
 
+1.12.4.1
+
+km 0,00 (Abzweigung aus dem Mittellandkanal)  
+bis km 0,45 (Oberwasser Schachtschleuse Minden)/  
+km 0,40 (Oberwasser Weserschleuse)
+
  
 
-Fahrzeug/Schubverband
+ 
 
-85,00
+ 
 
-9,60
+ 
 
-2,50
+a) Fahrzeug
+
+110,00
+
+11,45
+
+2,80
+
+ 
+
+b) Verband
+
+139,00
+
+11,45
+
+2,80
+
+1.12.4.2
+
+Schachtschleuse Minden
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fahrzeug/Verband
+
+ 85,00
+
+ 9,60
+
+2,80
+
+1.12.4.3
+
+Weserschleuse
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Fahrzeug
+
+110,00
+
+11,45
+
+richtet sich  
+nach der  
+Fahrrinnentiefe nach  
+Nummer  
+1.12.4.4
+
+ 
+
+b) Verband
+
+135,00
+
+11,45
+
+richtet sich  
+nach der  
+Fahrrinnentiefe nach  
+Nummer  
+1.12.4.4
+
+1.12.4.4
+
+km 0,55 (Unterwasser Schachtschleuse Minden)/  
+km 0,56 (Unterwasser Weserschleuse)  
+bis km 1,29 (Einmündung in die Weser)
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Fahrzeug
+
+110,00
+
+11,45
+
+richtet sich  
+nach der  
+Fahrrinnentiefe
+
+ 
+
+b) Verband
+
+139,00
+
+11,45
+
+richtet sich  
+nach der  
+Fahrrinnentiefe
+
+ 
+
+– die Fahrrinnentiefe beträgt 2,80 m –
 
 1.12.5
 
@@ -6107,7 +6415,7 @@ Verbindungskanal Süd zur Weser
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
 82,00
 
@@ -6157,7 +6465,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 110,00
 
@@ -6227,7 +6535,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 185,00
 
@@ -6442,7 +6750,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 185,00
 
@@ -6522,7 +6830,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 80,00
 
@@ -6870,7 +7178,7 @@ a) Fahrzeug
 
  
 
-b) Schubverband
+b) Verband
 
 82,00
 
@@ -6890,7 +7198,7 @@ Wasserstraße Kleiner Wendsee-Wusterwitzer See
 
  
 
-Fahrzeug/Schubverband
+Fahrzeug/Verband
 
 46,00
 
@@ -7209,13 +7517,36 @@ ist vorauszusehen, dass eine Begegnung mit einem zu Tal fahrenden Fahrzeug oder 
 
 cc) ist ein zu Berg fahrendes Fahrzeug oder ein zu Berg fahrender Verband bereits vorher in die Strecken hineingefahren, so muss das zu Tal fahrende Fahrzeug oder der zu Tal fahrende Verband oberhalb der Strecken anhalten, bis das zu Berg fahrende Fahrzeug oder der zu Berg fahrende Verband diese durchfahren hat;
 
-b) |                    |                          |
-|:-------------------|:-------------------------|
-| Dortmund-Ems-Kanal | von km 3,00 bis km 6,90, |
+b) Dortmund-Ems-Kanal
 
-  
-  
-darf ein Fahrzeug oder ein Verband von jeweils mehr als 90,00 m Länge oder mehr als 9,65 m Breite oder mit einer Abladetiefe von mehr als 2,50 m einem anderen Fahrzeug oder Verband, ausgenommen einem Kleinfahrzeug, nicht begegnen. Zu diesem Zweck muss dieses Fahrzeug oder dieser Verband sich bei Annäherung an diese Strecken mehrmals auf Kanal 10 über Sprechfunk melden. Es oder er darf in diese Strecken erst einfahren, wenn es oder er sich vergewissert hat, dass eine Begegnung mit einem anderen Fahrzeug und Verband ausgeschlossen ist.
+aa)  
+von km 3,00 bis km 6,90
+
+darf ein Fahrzeug oder ein Verband von jeweils mehr als 90,00 m Länge oder mehr als 9,65 m Breite oder mit einer Abladetiefe von mehr als 2,50 m einem anderen Fahrzeug oder Verband, ausgenommen einem Kleinfahrzeug, nicht begegnen. Zu diesem Zweck muss dieses Fahrzeug oder dieser Verband sich vor der Einfahrt in diese Strecke mehrmals auf Kanal 10 über Sprechfunk melden. Es oder er darf in diese Strecke erst einfahren, wenn es oder er sich vergewissert hat, dass eine Begegnung mit einem anderen Fahrzeug und Verband ausgeschlossen ist;
+
+bb)  
+von km 30,50 bis km 31,50
+
+von km 39,40 bis km 40,10
+
+von km 69,10 bis 69,90 und
+
+von km 78,85 bis km 79,35
+
+darf ein Fahrzeug oder ein Verband von jeweils mehr als 10,60 m Breite einem anderen Fahrzeug oder Verband, ausgenommen einem Kleinfahrzeug, nicht begegnen. Zu diesem Zweck muss dieses Fahrzeug oder dieser Verband sich vor der Einfahrt in diese Strecken mehrmals auf Kanal 10 über Sprechfunk melden. Es oder er darf in diese Strecken erst einfahren, wenn es oder er sich vergewissert hat, dass eine Begegnung mit einem anderen Fahrzeug und Verband ausgeschlossen ist;
+
+cc) von km 163,89 (Schleuse Meppen) bis km 212,56 (Schleuse Herbrum)
+
+darf ein Fahrzeug oder ein Verband von jeweils mehr als 100,00 m Länge einem anderen Fahrzeug oder Verband, ausgenommen einem Kleinfahrzeug, nicht begegnen. Dieses Fahrzeug oder dieser Verband darf die Strecke nur befahren, wenn es oder er sich zuvor bei der Schleusenaufsicht in Meppen oder Herbrum gemeldet hat und diese die Fahrt für den entsprechenden Streckenabschnitt freigegeben hat;
+
+dd)  
+von km 213,20 bis km 214,70
+
+von km 216,00 bis km 216,80 und
+
+von km 220,10 bis km 220,80
+
+darf ein Fahrzeug oder ein Verband von jeweils mehr als 100,00 m Länge einem anderen Fahrzeug oder Verband, ausgenommen einem Kleinfahrzeug, nicht begegnen. Zu diesem Zweck muss dieses Fahrzeug oder dieser Verband sich vor der Einfahrt in diese Strecken mehrmals auf Kanal 10 über Sprechfunk melden. Es oder er darf in diese Strecken erst einfahren, wenn es oder er sich vergewissert hat, dass eine Begegnung mit einem anderen Fahrzeug und Verband ausgeschlossen ist.
 
 5. Auf dem Datteln-Hamm-Kanal
 
@@ -7344,9 +7675,19 @@ ist vorauszusehen, dass eine Begegnung mit einem zu Tal fahrenden Fahrzeug oder 
 
 cc) ist ein zu Berg fahrendes Fahrzeug oder ein zu Berg fahrender Verband bereits vorher in die zwischen zwei Ausweichstellen liegende Strecke hineingefahren, muss das zu Tal fahrende Fahrzeug oder der zu Tal fahrende Verband in der nächsten Ausweichstelle festmachen, bis das zu Berg fahrende Fahrzeug oder der zu Berg fahrende Verband diese durchfahren hat.
 
-9. Auf der Kanalbrücke des Mittellandkanals (km 321,25 bis km 322,40) ist das Begegnen verboten. Sie darf nur im Richtungsverkehr befahren werden. Der Richtungsverkehr wird in Funkselbstwahrschau über Sprechfunkkanal 10 (Verkehrskreis Schiff-Schiff) durchgeführt.
+9. Auf dem Stichkanal Osnabrück darf ein Fahrzeug oder ein Verband mit jeweils einer Breite ab 5,00 m
 
-10. Auf dem Pareyer Verbindungskanal von der Kiesladestelle (km 1,80) bis zum Elbe-Havel-Kanal (km 3,29) darf ein Fahrzeug oder ein Verband mit jeweils einer Abladetiefe von mehr als 2,00 m einem anderen Fahrzeug oder Verband, ausgenommen Kleinfahrzeugen, nicht begegnen. Die erforderlichen Absprachen sind in Funkselbstwahrschau über den ersten zugewiesenen Sprechfunkkanal Schiff-Schiff vor Antritt der Fahrt zu treffen.
+a) in der Teilstrecke von km 0,00 (Einfahrt in den Stichkanal Osnabrück) bis km 6,80 (unterer Vorhafen der Schleuse Hollage) und
+
+b) in der Teilstrecke von km 8,00 (oberer Vorhafen der Schleuse Hollage) bis km 11,30 (Hafen Pisberg)
+
+einem anderen Fahrzeug oder Verband mit jeweils einer Breite ab 5,00 m nicht begegnen. Zu diesem Zweck darf ein Fahrzeug oder Verband nach Satz 1 die Teilstrecken nur im Richtungsverkehr befahren. Die für den Richtungsverkehr bekannt gemachte Meldepflicht über die Schleuse Hollage (außerhalb der Schleusenbetriebszeiten über die Revierzentrale Minden) ist zu beachten.
+
+10. Auf den Stichkanälen Hannover-Linden und Hildesheim ist das Begegnen verboten. Zu diesem Zweck dürfen die Stichkanäle nur im Richtungsverkehr befahren werden. Die für den Richtungsverkehr bekannt gemachte Meldepflicht über die Leitzentrale Hannover ist zu beachten. Satz 1 gilt nicht für das Begegnen mit einem Kleinfahrzeug und das Begegnen von Kleinfahrzeugen untereinander. Satz 2 gilt nicht für ein Kleinfahrzeug.
+
+11. Auf der Kanalbrücke des Mittellandkanals (km 321,25 bis km 322,40) ist das Begegnen verboten. Sie darf nur im Richtungsverkehr befahren werden. Der Richtungsverkehr wird in Funkselbstwahrschau über Sprechfunkkanal 10 (Verkehrskreis Schiff-Schiff) durchgeführt.
+
+12. Auf dem Pareyer Verbindungskanal von der Kiesladestelle (km 1,80) bis zum Elbe-Havel-Kanal (km 3,29) darf ein Fahrzeug oder ein Verband mit jeweils einer Abladetiefe von mehr als 2,00 m einem anderen Fahrzeug oder Verband, ausgenommen Kleinfahrzeugen, nicht begegnen. Die erforderlichen Absprachen sind in Funkselbstwahrschau über den ersten zugewiesenen Sprechfunkkanal Schiff-Schiff vor Antritt der Fahrt zu treffen.
 
 # § 15.07 – Überholen
 
@@ -7427,7 +7768,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 
 # § 15.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Verbandes mit einer Länge von mehr als 140,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Ruhr, den Rhein-Herne-Kanal, den Wesel-Datteln-Kanal, den Datteln-Hamm-Kanal, den Küstenkanal und den Dortmund-Ems-Kanal von Papenburg (km 225,82) bis zum Hafen Dortmund (km 1,44) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Duisburg Revierzentrale“ melden und folgende Angaben machen:
+1. Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Verbandes mit einer Länge von mehr als 140,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Ruhr, den Rhein-Herne-Kanal, den Wesel-Datteln-Kanal, den Datteln-Hamm-Kanal, den Küstenkanal und den Dortmund-Ems-Kanal von Papenburg (km 225,82) bis zum Hafen Dortmund (km 1,44) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Duisburg Revierzentrale“ melden und folgende Angaben machen:
 
 a) Schiffsgattung;
 
@@ -7435,7 +7776,7 @@ b) Schiffsname;
 
 c) Standort, Fahrtrichtung;
 
-d) Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
+d) Einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
 
 e) Tragfähigkeit;
 
@@ -7497,7 +7838,7 @@ Abweichend von Satz 1 muss die Meldung auf dem Küstenkanal in der Bergfahrt bei
 
 5. Für die Niedrigwasserschleuse Magdeburg bei km 4,76 des Rothenseer Verbindungskanals (RVK) gelten nachfolgende Regelungen:
 
-a) Bei einem Wasserstand von weniger als 260 cm am Pegel Rothensee/Elbe findet Schleusenbetrieb statt. Der Beginn und das Ende des Schleusenbetriebs werden von der zuständigen Behörde festgesetzt und bekannt gemacht. Die Schleuse wird während des Schleusenbetriebs fernbedient. Die im Rahmen des Schleusenbetriebs erforderlichen Funkabsprachen sind unter Verwendung des Funkrufnamens „Niedrigwasserschleuse Magdeburg“ auf dem Kanal des Verkehrskreises Nautische Information durchzuführen, der im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegeben ist.
+a) Bei einem Wasserstand von weniger als 260 cm am Pegel Rothensee/Elbe findet Schleusenbetrieb statt. Der Beginn und das Ende des Schleusenbetriebs werden von der zuständigen Behörde festgesetzt und bekannt gemacht. Die Schleuse wird während des Schleusenbetriebs fernbedient. Die im Rahmen des Schleusenbetriebs erforderlichen Funkabsprachen sind unter Verwendung des Funkrufnamens „Niedrigwasserschleuse Magdeburg“ auf dem Kanal des Verkehrskreises Nautische Information durchzuführen, der im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegeben ist.
 
 b) Bei einem Wasserstand von 260 cm oder mehr am Pegel Rothensee/Elbe findet Durchfahrtsbetrieb statt. Der Beginn und das Ende des Durchfahrtsbetriebs werden von der zuständigen Behörde festgesetzt und bekannt gemacht. In diesem Betriebszustand ist die Niedrigwasserschleuse Magdeburg eine Fahrwasserenge im Sinne des § 6.07 und mit dem Tafelzeichen A.4 gekennzeichnet. Die Fahrwasserenge ist in Funkselbstwahrschau zu passieren. Die Lichtsignalanlagen sind während des Durchfahrtsbetriebs ausgeschaltet. Für die Dauer des Durchfahrtsbetriebs sind die §§ 6.28, 6.28a und 6.29 nicht anzuwenden.
 
@@ -7566,7 +7907,7 @@ sein Fahrzeug oder Verband die geforderte Mindestgeschwindigkeit nach § 15.04 N
 b) die Vorschriften über
 
 aa)  
-das Verhalten beim Begegnen nach § 15.06 Nummer 1 Satz 1 und Nummer 2 bis 10,
+das Verhalten beim Begegnen nach § 15.06 Nummer 1 Satz 1, Nummer 2 Satz 2, Nummer 3 bis 9, Nummer 10 Satz 1 bis 3 und Nummer 11 und 12,
 
 bb)  
 das Verbot zu überholen nach § 15.07 Nummer 1, auch in Verbindung mit Nummer 3 und 4,
@@ -7594,10 +7935,10 @@ aa)
 das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 aaa)  
-die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.4.2, 1.12.5 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 bbb)  
-die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
+die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
 
 nicht überschreitet,
 
@@ -7636,10 +7977,10 @@ d) das in § 15.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifff
 a) das Fahrzeug oder der Verband
 
 aa)  
-die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.4.2, 1.12.5 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 bb)  
-die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
+die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
 
 nicht überschreitet und
 
@@ -8207,7 +8548,7 @@ Bei anhaltendem Treibeis muss ein Fahrzeug einen Schutzhafen aufsuchen. Auf der 
 
 # § 16.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Fahrzeugs oder eines Verbandes mit jeweils einer Länge von mehr als 85,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Weserstrecke zwischen unterhalb der Schleuse Bremen (km 362,50) und der Eisenbahnbrücke in Bremen (UWe-km 1,38) (obere Grenze des Geltungsbereichs der Seeschifffahrtsstraßen-Ordnung/untere Grenze des Geltungsbereichs der Binnenschifffahrtsstraßen-Ordnung) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal bei der Funkstelle „Verkehrszentrale Bremen (Ruf Bremen Weser Traffic)“ melden und folgende Angaben machen:
+1. Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs, eines Fahrzeugs oder eines Verbandes mit jeweils einer Länge von mehr als 85,00 m oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Weserstrecke zwischen unterhalb der Schleuse Bremen (km 362,50) und der Eisenbahnbrücke in Bremen (UWe-km 1,38) (obere Grenze des Geltungsbereichs der Seeschifffahrtsstraßen-Ordnung/untere Grenze des Geltungsbereichs der Binnenschifffahrtsstraßen-Ordnung) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal bei der Funkstelle „Verkehrszentrale Bremen (Ruf Bremen Weser Traffic)“ melden und folgende Angaben machen:
 
 a) Schiffsgattung;
 
@@ -8215,7 +8556,7 @@ b) Schiffsname und Funkrufzeichen;
 
 c) Standort, Fahrtrichtung;
 
-d) Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
+d) Einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
 
 e) Tragfähigkeit;
 
@@ -10092,7 +10433,7 @@ Ein Trägerschiffsleichter darf nicht an die Spitze eines Schubverbandes gesetzt
 
 # § 20.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Saarstrecke zwischen der Schleuse Kanzem (km 5,17) und der Mündung in die Mosel auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Kanzem Schleuse“ melden und folgende Angaben machen:
+1. Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der dem ADN unterliegt, sowie der Schiffsführer eines Tankschiffs, eines Kabinenschiffs, eines Seeschiffs oder eines Sondertransportes nach § 1.21 muss sich vor Einfahrt in die Saarstrecke zwischen der Schleuse Kanzem (km 5,17) und der Mündung in die Mosel auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Kanzem Schleuse“ melden und folgende Angaben machen:
 
 a) Schiffsgattung;
 
@@ -10100,7 +10441,7 @@ b) Schiffsname;
 
 c) Standort, Fahrtrichtung;
 
-d) Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer, bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
+d) Einheitliche europäische Schiffsnummer (ENI), bei Seeschiffen IMO-Schiffsidentifikationsnummer und Unterscheidungssignal;
 
 e) Tragfähigkeit;
 
@@ -10139,7 +10480,7 @@ m) Anzahl der an Bord befindlichen Personen.
   
 Auf besondere Anforderung der Funkstelle „Kanzem Schleuse“ hat der Schiffsführer Angaben zum Tiefgang des von ihm geführten Fahrzeugs, Verbandes oder Sondertransportes nach § 1.21 zu machen. Die Begrenzung der meldepflichtigen Strecke wird durch die Tafelzeichen B.11 (Anlage 7) mit einem Zusatzschild „Meldepflicht“ kenntlich gemacht.
 
-2. Unbeschadet der Verpflichtung nach Nummer 1 Satz 1 und 2 muss sich der Schiffsführer eines Fahrzeugs, eines Verbandes oder eines Sondertransportes nach § 1.21, ausgenommen der Schiffsführer einer Fähre oder eines Kleinfahrzeugs, vor der Einfahrt in die meldepflichtige Strecke auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Kanzem Schleuse“ melden und die Angaben nach Nummer 1 Satz 1 Buchstabe a bis g sowie folgende zusätzliche Angaben machen:
+2. Unbeschadet der Verpflichtung nach Nummer 1 Satz 1 und 2 muss sich der Schiffsführer eines Fahrzeugs, eines Verbandes oder eines Sondertransportes nach § 1.21, ausgenommen der Schiffsführer einer Fähre oder eines Kleinfahrzeugs, vor der Einfahrt in die meldepflichtige Strecke auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Kanzem Schleuse“ melden und die Angaben nach Nummer 1 Satz 1 Buchstabe a bis g sowie folgende zusätzliche Angaben machen:
 
 a) Beladungszustand (leer/beladen);
 
@@ -11012,14 +11353,15 @@ auch fahren, wenn es nur mit einer betriebssicheren Sprechfunkanlage ausgerüste
 
 # § 21.24 – Sonderbestimmungen für Kleinfahrzeuge
 
-1. Auf der Spree-Oder-Wasserstraße vom Kanzleramtssteg (km 14,10) bis zur Oberbaumbrücke (km 20,70) - einschließlich Spreekanal - ist
+1. Auf der Spree-Oder-Wasserstraße vom Kanzleramtssteg (km 14,10) bis zur Oberbaumbrücke (km 20,70) – einschließlich Spreekanal – ist
 
-a) der Verkehr von Kleinfahrzeugen, die ohne Maschinenantrieb fahren oder die mit einer Antriebsmaschine ausgestattet sind, deren größte Nutzleistung weniger als 11,04 kW beträgt,
+a) der Verkehr eines Kleinfahrzeugs, das ohne Maschinenantrieb fährt,
 
-b) das Schleppen oder gekuppelte Mitführen von Kleinfahrzeugen, die Sportfahrzeuge sind, durch andere Kleinfahrzeuge, die Sportfahrzeuge sind,
+b) der Verkehr eines Kleinfahrzeugs, das mit einer Antriebsmaschine ausgestattet ist, deren größte Nutzleistung weniger als 11,04 kW beträgt,
 
-  
-verboten. Satz 1 Buchstabe b gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe b, auch in Verbindung mit Satz 2, Ausnahmen zulassen.
+c) das Schleppen oder gekuppelte Mitführen von Kleinfahrzeugen, die Sportfahrzeuge sind, durch andere Kleinfahrzeuge, die Sportfahrzeuge sind,
+
+verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschifferpatentverordnung oder der Schiffspersonalverordnung-Rhein verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
 
 2. Auf dem Gosener Graben ist der Verkehr eines Kleinfahrzeugs mit Maschinenantrieb verboten.
 
@@ -11148,7 +11490,7 @@ c) das in § 21.20 vorgesehene Verbot, zu segeln, zu beachten oder sicherzustell
 
 d) die Verkehrsregelungen nach § 21.22 Nummer 1, 2 und 3 Halbsatz 1 zu beachten oder sicherzustellen, dass diese beachtet werden,
 
-e) die Sonderbestimmungen für Kleinfahrzeuge nach § 21.24 Nummer 1 bis 4 und 6 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet werden,
+e) die Sonderbestimmungen für Kleinfahrzeuge nach § 21.24 Nummer 1 Satz 1 Buchstabe a, b oder c, auch in Verbindung mit Satz 3, und Nummer 2, 3, 4 und 6 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet werden,
 
 f) das in § 21.27 Nummer 1 Satz 1, Nummer 2 Satz 1 und Nummer 3 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten oder sicherzustellen, dass dieses jeweils beachtet wird, und
 
@@ -11724,11 +12066,11 @@ Bei einem Wasserstand von mehr als 200 cm am Unterpegel Rathenow ist das Befahre
 
 # § 22.15 – Meldepflicht
 
-1. Der Schiffsführer eines Fahrzeugs oder Verbandes muss sich vor der Einfahrt in die Strecke der Unteren Havel-Wasserstraße zwischen km 69,00 und der Einmündung der Rathenower Havel (km 104,20) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Fernbedienzentrale Rathenow“ melden. Diese Meldung kann auch schriftlich, telefonisch oder auf elektronischem Weg erfolgen. Satz 1 gilt nicht für den Schiffsführer eines Klein- oder Sportfahrzeugs.
+1. Der Schiffsführer eines Fahrzeugs oder Verbandes muss sich vor der Einfahrt in die Strecke der Unteren Havel-Wasserstraße zwischen km 69,00 und der Einmündung der Rathenower Havel (km 104,20) auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Fernbedienzentrale Rathenow“ melden. Diese Meldung kann auch schriftlich, telefonisch oder auf elektronischem Weg erfolgen. Satz 1 gilt nicht für den Schiffsführer eines Klein- oder Sportfahrzeugs.
 
 2. Unterbricht ein Fahrzeug oder Verband die Fahrt innerhalb der meldepflichtigen Strecke nach Nummer 1 für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Fernbedienzentrale Rathenow“ melden.
 
-3. Der Schiffsführer eines Fahrzeugs oder Verbandes muss sich vor Einfahrt in die Strecke der Unteren Havel-Wasserstraße zwischen der Abzweigung des Stadtgrabens Havelberg (km 145,06) bis zur Elbe (km 148,48) mit Mündungsstrecke Untere Havel km 145,80 bis km 156,75 auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe l) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Fernbedienzentrale Rathenow“ melden. Diese Meldung kann auch schriftlich, telefonisch oder auf elektronischem Weg erfolgen. Satz 1 gilt nicht für den Schiffsführer eines Klein- oder Sportfahrzeugs.
+3. Der Schiffsführer eines Fahrzeugs oder Verbandes muss sich vor Einfahrt in die Strecke der Unteren Havel-Wasserstraße zwischen der Abzweigung des Stadtgrabens Havelberg (km 145,06) bis zur Elbe (km 148,48) mit Mündungsstrecke Untere Havel km 145,80 bis km 156,75 auf dem im Handbuch Binnenschifffahrtsfunk (§ 1.10 Nummer 1 Buchstabe d Doppelbuchstabe ee) bekannt gegebenen Kanal des Verkehrskreises Nautische Information bei der Funkstelle „Fernbedienzentrale Rathenow“ melden. Diese Meldung kann auch schriftlich, telefonisch oder auf elektronischem Weg erfolgen. Satz 1 gilt nicht für den Schiffsführer eines Klein- oder Sportfahrzeugs.
 
 4. Unterbricht ein Fahrzeug oder Verband die Fahrt innerhalb der meldepflichtigen Strecke nach Nummer 3 für mehr als zwei Stunden, muss der Schiffsführer Beginn und Ende der Unterbrechung der Funkstelle „Fernbedienzentrale Rathenow“ melden.
 
@@ -18423,3 +18765,21 @@ Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j2948-1_0020.jpg)
 
 Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband.
+
+# Anlage 10 – Liste der berauschenden Mittel und Substanzen
+
+(Fundstelle: BGBl. I 2021, S. 4384)
+
+| Mittel              | Substanz                          |
+|:--------------------|:----------------------------------|
+| Cannabis            | Tetrahydrocannabinol (THC)        |
+| Heroin              | Morphin                           |
+| Morphin             | Morphin                           |
+| Kokain              | Benzoylecgonin                    |
+| Amfetamine          | Amfetamin                         |
+| Designer Amfetamine | Methylendioxyamfetamin (MDA)      |
+|                     | Methylendioxyethylamfetamin (MDE) |
+|                     | Methylendioxymetamfetamin (MDAE)  |
+| Metamfetamin        | Metamfetamin                      |
+
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Verkehr und digitale Infrastruktur für den Bereich des Straßenverkehrs.
