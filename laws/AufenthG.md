@@ -3455,7 +3455,7 @@ Angaben, ob die Person freiwillig ausgereist ist, abgeschoben oder zurückgescho
 
 Angaben zum Umfang und zur Begründung der Förderung müssen ebenfalls erhoben werden. Die Daten sind spätestens nach zehn Jahren zu löschen.
 
-(2) Die Ausländerbehörden und die mit grenzpolizeilichen Aufgaben betrauten Behörden erheben zur Feststellung der Wirksamkeit der Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat der Ausreise und zum der Ausreise.
+(2) Die Ausländerbehörden und die mit grenzpolizeilichen Aufgaben betrauten Behörden erheben zur Feststellung der Wirksamkeit der Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat der Ausreise und zum Zielstaat der Ausreise.
 
 # § 87 – Übermittlungen an Ausländerbehörden
 

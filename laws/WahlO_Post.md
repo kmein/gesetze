@@ -67,10 +67,8 @@ c) Gehört beiden Gruppen die gleiche Zahl von Arbeitnehmern an, so entscheidet 
 
 4. Die Verteilung der Mindestsitze des Geschlechts in der Minderheit innerhalb der jeweiligen Gruppe (§ 4 Abs. 1 Satz 2) erfolgt entsprechend § 5 der Wahlordnung.
 
-5. a)  
-Abweichend von § 6 Abs. 1 der Wahlordnung erfolgt die Wahl aufgrund von Vorschlagslisten auch dann, wenn im Fall der Gruppenwahl mehrere Vertreter zu wählen sind.
+5. a) Abweichend von § 6 Abs. 1 der Wahlordnung erfolgt die Wahl aufgrund von Vorschlagslisten auch dann, wenn im Fall der Gruppenwahl mehrere Vertreter zu wählen sind.
 
-  
 b) Beschließen die wahlberechtigten Angehörigen beider Gruppen nach Erlass des Wahlausschreibens, aber vor Ablauf der in § 6 Abs. 1 Satz 2 der Wahlordnung genannten Frist, die gemeinsame Wahl (§ 26 Nr. 3 Satz 1 Postpersonalrechtsgesetz), so hat der Wahlvorstand eine Nachfrist von einer Woche für die Einreichung neuer Vorschlagslisten zu setzen und dies in gleicher Weise bekannt zu machen wie das Wahlausschreiben (§ 3 Abs. 4 Wahlordnung). Vorher eingereichte Wahlvorschläge verlieren ihre Gültigkeit.
 
 c) Ergänzend zu § 6 Abs. 3 Satz 1 der Wahlordnung ist in jeder Vorschlagsliste auch die Gruppe zu nennen, der die Bewerberinnen oder Bewerber angehören.
@@ -79,7 +77,7 @@ c) Ergänzend zu § 6 Abs. 3 Satz 1 der Wahlordnung ist in jeder Vorschlagsliste
 
 b) Wird trotz Bekanntmachung nach Buchstabe a keine gültige Vorschlagsliste eingereicht, so hat der Wahlvorstand sofort bekannt zu machen, dass der Wahlgang nicht stattfindet.
 
-7. Ergänzend zu § 11 Abs. 2 Satz 1 der Wahlordnung ist die Gruppe anzugeben, der die an erster Stelle benannten Bewerberinnen oder Bewerber angehören. § 11 Abs. 2 Satz 2 und 3 der Wahlordnung gilt entsprechend für die Stimmzettel und die Wahlumschläge, die für eine Gruppe Verwendung finden.
+7. Ergänzend zu § 11 Abs. 2 Satz 1 der Wahlordnung ist die Gruppe anzugeben, der die an erster Stelle benannten Bewerberinnen oder Bewerber angehören. § 11 Abs. 2 Satz 2 der Wahlordnung gilt entsprechend für die Stimmzettel, die für eine Gruppe Verwendung finden.
 
 8. Die Stimmabgabe nach § 12 der Wahlordnung erfolgt nach Gruppen getrennt, wenn nicht gemeinsame Wahl stattfindet.
 
@@ -121,7 +119,7 @@ Bei der Verteilung der Sitze des Geschlechts in der Minderheit sind auf den einz
 ee)  
 Verfügt keine andere Vorschlagsliste über Angehörige des Geschlechts in der Minderheit und derselben Gruppe, verbleibt der Gruppensitz bei der Vorschlagsliste, die zuletzt ihren Sitz zu Gunsten des Geschlechts in der Minderheit nach Doppelbuchstabe aa hätte abgeben müssen.
 
-11. Abweichend von § 16 Abs. 1 Nr. 1 der Wahlordnung ist bei Gruppenwahl in der Niederschrift die Gesamtzahl der von jeder Gruppe abgegebenen Wahlumschläge und die Zahl der für jede Gruppe abgegebenen gültigen Stimmen festzustellen.
+11. Abweichend von § 16 Abs. 1 Nr. 1 der Wahlordnung ist bei Gruppenwahl in der Niederschrift die Gesamtzahl der von jeder Gruppe abgegebenen Stimmen und die Zahl der für jede Gruppe abgegebenen gültigen Stimmen festzustellen.
 
 12. § 17 Abs. 2 der Wahlordnung gilt für die jeweilige Gruppe entsprechend.
 
@@ -156,6 +154,8 @@ b) Die Wählerin oder der Wähler kann ihre oder seine Stimme nur für solche Be
 c) Auf den Stimmzetteln sind die Bewerberinnen oder Bewerber in alphabetischer Reihenfolge unter Angabe von Familienname, Vorname, Art der Beschäftigung im Betrieb und der Gruppenzugehörigkeit aufzuführen. Die Wählerin oder der Wähler kennzeichnet die von ihr oder ihm gewählte Person durch Ankreuzen an der im Stimmzettel vorgesehenen Stelle. § 20 Abs. 3 und § 21 der Wahlordnung gelten entsprechend.
 
 d) Gewählt ist die Person, die die meisten Stimmen erhalten hat; § 23 Abs. 1 der Wahlordnung gilt entsprechend. Bei Stimmengleichheit entscheidet das Los. Lehnt eine gewählte Person die Wahl ab, so tritt an ihre Stelle die nicht gewählte Person mit der nächsthöchsten Stimmenzahl.
+
+17a. § 24 Absatz 1 Satz 2 der Wahlordnung gilt entsprechend für die Wahlumschläge, die für eine Gruppe Verwendung finden.
 
 18. Die Vorschriften über das vereinfachte Wahlverfahren (§§ 28 bis 37 Wahlordnung), das stets in gemeinsamer Wahl erfolgt (§ 26 Nr. 3 Satz 2 Postpersonalrechtsgesetz), gelten mit folgenden Maßgaben:
 
