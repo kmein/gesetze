@@ -2660,9 +2660,23 @@ In den Gebieten nach § 121 Absatz 1 Satz 1 des Strahlenschutzgesetzes gilt die 
 
 (1) Die Messungen der Radon-222-Aktivitätskonzentration nach § 127 Absatz 1 und § 128 Absatz 2 des Strahlenschutzgesetzes sind nach den allgemein anerkannten Regeln der Technik über eine Gesamtdauer von zwölf Monaten durchzuführen. Die Messorte sind so auszuwählen, dass sie repräsentativ für die Radon-222-Aktivitätskonzentration an dem Arbeitsplatz sind. Abweichend hiervon kann eine Überschreitung des Referenzwertes im Falle der Messung nach § 127 Absatz 1 des Strahlenschutzgesetzes auch auf der Grundlage einer kürzeren Messzeit festgestellt werden, wenn auf Grund einer Abschätzung der über das Jahr gemittelten Radon-222-Aktivitätskonzentration davon auszugehen ist, dass der Referenzwert überschritten wird.
 
-(2) Die Durchführung der Messung ist aufzuzeichnen; die Aufzeichnungen sind zusammen mit den Aufzeichnungen nach § 127 Absatz 3 und § 128 Absatz 2 Satz 2 des Strahlenschutzgesetzes der zuständigen Behörde auf Verlangen vorzulegen.
+(2) Die Durchführung der Messung ist aufzuzeichnen. Die Aufzeichnungen müssen folgende Informationen enthalten:
 
-(3) Die für die Ermittlung der Radon-222-Aktivitätskonzentration notwendigen Messgeräte sind bei einer vom Bundesamt für Strahlenschutz für die Messung der Radon-222-Aktivitätskonzentration anerkannten Stelle anzufordern und nach deren Vorgaben einzusetzen. Die Auswertung der Messgeräte hat durch die anerkannte Stelle zu erfolgen. Dies gilt nicht, wenn das Messergebnis unter der Verantwortung des Verantwortlichen nach § 127 Absatz 1 des Strahlenschutzgesetzes ausgewertet werden kann.
+1. Anlass der Messung,
+
+2. Datum des Beginns und des Endes der Messung oder, bei Teilmessungen, der einzelnen Messabschnitte,
+
+3. Standort der Betriebsstätte, in der sich der Arbeitsplatz befindet, sowie diejenigen für die Höhe der Radon-222-Aktivitätskonzentration wesentlichen Eigenschaften der Betriebsstätte, die dem zur Messung Verpflichteten bekannt sind,
+
+4. Lage des Arbeitsplatzes in der Betriebsstätte,
+
+5. Lage des Messortes sowie diejenigen für die Höhe der Radon-222-Aktivitätskonzentration wesentlichen Eigenschaften des Messortes, die dem zur Messung Verpflichteten bekannt sind, und
+
+6. Art des jeweils verwendeten Messgerätes und das jeweilige Messverfahren.
+
+Die Aufzeichnungen sind der zuständigen Behörde zusammen mit den Aufzeichnungen nach § 127 Absatz 3 Satz 1 und § 128 Absatz 2 Satz 3 des Strahlenschutzgesetzes auf Verlangen vorzulegen.
+
+(3) Die für die Ermittlung der Radon-222-Aktivitätskonzentration notwendigen Messgeräte sind bei einer vom Bundesamt für Strahlenschutz für die Messung der Radon-222-Aktivitätskonzentration anerkannten Stelle anzufordern und nach deren Vorgaben einzusetzen. Die Auswertung der Messgeräte hat durch die anerkannte Stelle zu erfolgen. Hierzu sind der anerkannten Stelle nach der Messung die Messgeräte und die Informationen aus den Aufzeichnungen nach Absatz 2 Satz 2 zu übermitteln. Die Sätze 2 und 3 gelten nicht, wenn das Messergebnis unter der Verantwortung des Verantwortlichen nach § 127 Absatz 1 des Strahlenschutzgesetzes ausgewertet werden kann.
 
 (4) Das Bundesamt für Strahlenschutz erkennt eine Stelle für die Messung der Radon-222-Aktivitätskonzentration an, wenn die Stelle
 
@@ -2675,6 +2689,8 @@ In den Gebieten nach § 121 Absatz 1 Satz 1 des Strahlenschutzgesetzes gilt die 
 4. die Teilnahme an Maßnahmen zur Qualitätssicherung durch das Bundesamt für Strahlenschutz sicherstellt.
 
 Die Maßnahmen zur Qualitätssicherung nach Satz 1 Nummer 4 werden von dem Bundesamt für Strahlenschutz durchgeführt. Für die Anerkennung als Stelle für die Messung der Radon-222-Aktivitätskonzentration und für die Teilnahme an den Maßnahmen zur Qualitätssicherung nach Satz 1 Nummer 4 werden Gebühren und Auslagen erhoben. Das Bundesamt für Strahlenschutz veröffentlicht eine Liste der anerkannten Stellen.
+
+(5) Die anerkannte Stelle übermittelt das Messergebnis und die ihr nach Absatz 3 Satz 3 übermittelten Informationen aus den Aufzeichnungen an das Bundesamt für Strahlenschutz, soweit dies zur Erfüllung der Aufgaben des Bundesamtes für Strahlenschutz erforderlich ist. Das Bundesamt für Strahlenschutz bestimmt das Datenformat sowie das technische Verfahren der Übermittlung.
 
 # § 156 – Arbeitsplatzbezogene Abschätzung der Exposition
 

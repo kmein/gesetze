@@ -92,17 +92,9 @@ ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 18
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10  
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,67 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,58 Euro.
 
-(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771
-
-  
-  
-  
-  
-  
-ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,
-
-ab 1.3.2016 und ab 1.2.2017 vgl. Bek. 2032-26-9 v. 25.11.2016 I 2695,
-
+(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771  
+ab 1.3.2014 und ab 1.3.2015 vgl. Bek. 2032-26-7 v. 28.11.2014 I 1899,  
+ab 1.3.2016 und ab 1.2.2017 vgl. Bek. 2032-26-9 v. 25.11.2016 I 2695,  
 ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 1899 +++)
 
 # Anlage 2

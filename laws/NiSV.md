@@ -101,11 +101,11 @@ e) die mögliche Notwendigkeit einer vorherigen fachärztlichen Abklärung,
 
 Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen gemäß Anlage 2 und die nach Absatz 1 Nummer 6 durchgeführte Beratung und Aufklärung dokumentiert werden.
 
-(3) Der Betreiber einer Anlage hat der zuständigen Behörde den Betrieb der Anlage spätestens zwei Wochen vor Inbetriebnahme anzuzeigen. In der Anzeige sind der Name oder die Firma des Betreibers sowie die Anschrift der Betriebsstätte und die Angaben zur Identifikation der jeweiligen Anlage zu nennen.Der Anzeige ist ein Nachweis beizufügen, dass die Personen, die die Anlage anwenden, über die erforderliche Fachkunde verfügen.Wird eine Anlage am 31. Dezember 2020 bereits betrieben, hat die Anzeige bis zum Ablauf des 31. März 2021 zu erfolgen.
+(3) Der Betreiber einer Anlage hat der zuständigen Behörde den Betrieb der Anlage spätestens zwei Wochen vor Inbetriebnahme anzuzeigen. In der Anzeige sind der Name oder die Firma des Betreibers sowie die Anschrift der Betriebsstätte und die Angaben zur Identifikation der jeweiligen Anlage zu nennen.Der Anzeige ist ein Nachweis beizufügen, dass die Personen, die die Anlage anwenden, über die erforderliche Fachkunde verfügen. Wird eine Anlage am 31. Dezember 2020 bereits betrieben, hat die Anzeige bis zum Ablauf des 31. März 2021 zu erfolgen.
 
 (4) Der Betreiber einer Anlage hat der zuständigen Behörde auf Verlangen nachzuweisen, dass die Anforderungen an den Betrieb der Anlage und die Anforderungen an die Dokumentation der Anwendungen und der Aufklärungsgespräche erfüllt sind.
 
-(+++ § 3 Abs. 3 Satz 3: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
+§ 3 Abs. 3 Satz 3 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft
 
 # § 4 – (zukünftig in Kraft)
 
@@ -117,7 +117,7 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (2) Ablative Laseranwendungen oder Anwendungen, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, die Behandlung von Gefäßveränderungen und von pigmentierten Hautveränderungen, die Entfernung von Tätowierungen oder Permanent-Make-up sowie Anwendungen mit optischer Strahlung, deren Auswirkungen nicht auf die Haut und ihre Anhangsgebilde beschränkt sind, wie die Fettgewebereduktion, dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender ärztlicher Weiterbildung oder Fortbildung durchgeführt werden.
 
-(+++ § 5 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
+§ 5 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft
 
 # § 6 – Fachkunde zur Anwendung von Hochfrequenzgeräten
 
@@ -125,7 +125,7 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (2) Hochfrequenzanwendungen, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, sowie Hochfrequenzanwendungen, die der thermischen Fettgewebereduktion oder der Behandlung von Gefäßveränderungen oder von pigmentierten Hautveränderungen dienen, dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender ärztlicher Weiterbildung oder Fortbildung durchgeführt werden.
 
-(+++ § 6 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
+§ 6 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft
 
 # § 7 – (zukünftig in Kraft)
 
@@ -141,7 +141,7 @@ Anlagen zur Stimulation des zentralen Nervensystems am Menschen dürfen nur von 
 
 (2) Ultraschallanwendungen, insbesondere Anwendungen von fokussiertem Ultraschall, bei denen die Integrität der Epidermis als Schutzbarriere verletzt wird, sowie Ultraschallanwendungen, die der gezielten thermischen Gewebekoagulation oder der Fettgewebereduktion dienen, dürfen nur von einer approbierten Ärztin oder einem approbierten Arzt durchgeführt werden.
 
-(+++ § 9 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
+§ 9 Abs. 1 Kursivdruck: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft
 
 # § 10 – Anwendung von Ultraschall an einer schwangeren Person
 
