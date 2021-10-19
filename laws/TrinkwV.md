@@ -391,7 +391,7 @@ In Bezug auf Parameter der Anlage 1 Teil I sowie Parameter der Anlage 3 Teil I l
 
 (2c) Die Genehmigung nach Absatz 2b gilt für die Dauer von fünf Kalenderjahren. Sie kann auf Antrag um jeweils weitere fünf Kalenderjahre verlängert werden, wenn aufgrund einer Untersuchung aller nach § 14 Absatz 2 Satz 1 zu untersuchenden Parameter sowie einer erneuten Risikobewertung dargelegt wird, dass die Voraussetzungen für die Genehmigung weiterhin vorliegen.
 
-(2d) Eine vom Gesundheitsamt oder von der zuständigen Behörde auf der Grundlage von Anlage 4 Buchstabe a oder Buchstabe b in der bis zum 8. Januar 2018 geltenden Fassung bestimmte Verringerung der Häufigkeit von Untersuchungen oder Herausnahme eines Parameters aus dem Umfang von Untersuchungen hat längstens bis zum 31. Dezember 2018 Bestand.
+(2d) Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe b kann das Gesundheitsamt für die in Anlage 4 Buchstabe b genannten Parameter der Gruppe B bestimmen, welche Untersuchungen nach Absatz 1 Nummer 2 und 3 in welchen Zeitabständen abweichend von Absatz 2 Satz 1 innerhalb eines von ihm festzulegenden Zeitraums durchzuführen sind. Satz 1 gilt nicht, wenn dem Gesundheitsamt Tatsachen bekannt sind, die für die in Anlage 4 Buchstabe b genannten Parameter der Gruppe B zu einer Nichteinhaltung der Anforderungen oder zu einer Überschreitung der Grenzwerte im Trinkwasser führen können. Die abweichende Bestimmung, einschließlich Begründung, hat das Gesundheitsamt dem Unternehmer oder sonstigen Inhaber der betroffenen Wasserversorgungsanlage schriftlich oder elektronisch bekannt zu geben.
 
 (3) (weggefallen)
 

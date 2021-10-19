@@ -337,7 +337,15 @@ Die Bindungswirkung der vorläufigen Gesamtbeurteilung entfällt, wenn eine Änd
 
 4. darauf hinzuweisen, dass die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann.
 
-(5) Die für die Erteilung der Genehmigung zuständige Behörde (Genehmigungsbehörde) holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in einem räumlichen oder betrieblichen Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
+(5) Die für die Erteilung der Genehmigung zuständige Behörde (Genehmigungsbehörde) holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Hat eine zu beteiligende Behörde bei einem Verfahren zur Genehmigung einer Anlage zur Nutzung erneuerbarer Energien innerhalb einer Frist von einem Monat keine Stellungnahme abgegeben, so ist davon auszugehen, dass die beteiligte Behörde sich nicht äußern will. Die zuständige Behörde hat die Entscheidung in diesem Fall auf Antrag auf der Grundlage der geltenden Sach- und Rechtslage zum Zeitpunkt des Ablaufs der Monatsfrist zu treffen. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in einem räumlichen oder betrieblichen Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
+
+(5a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82) fällt, gilt ergänzend Folgendes:
+
+1. Auf Antrag des Trägers des Vorhabens wird das Genehmigungsverfahren sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle abgewickelt.
+
+2. Die einheitliche Stelle nach Nummer 1 stellt ein Verfahrenshandbuch für Träger von Vorhaben bereit und macht diese Informationen auch im Internet zugänglich. Dabei geht sie gesondert auch auf kleinere Vorhaben und Vorhaben zur Eigenversorgung mit Elektrizität ein, soweit sich das Genehmigungserfordernis nach § 1 Absatz 2 der Verordnung über genehmigungsbedürftige Anlagen darauf erstreckt. In den im Internet veröffentlichten Informationen weist die einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen Land für Vorhaben nach Satz 1 zuständig sind.
+
+3. Die zuständige und die zu beteiligenden Behörden sollen die zur Prüfung des Antrags zusätzlich erforderlichen Unterlagen in einer einmaligen Mitteilung an den Antragsteller zusammenfassen. Nach Eingang der vollständigen Antragsunterlagen erstellt die Genehmigungsbehörde einen Zeitplan für das weitere Verfahren und teilt diesen Zeitplan in den Fällen der Nummer 1 der einheitlichen Stelle, andernfalls dem Antragsteller mit.
 
 (6) Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde die rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, erörtern.
 
@@ -428,6 +436,30 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 # § 16a – Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
 
 Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und die Änderung nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
+
+# § 16b – Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
+
+(1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien modernisiert (Repowering), müssen auf Antrag des Vorhabenträgers im Rahmen des Änderungsgenehmigungsverfahrens nur Anforderungen geprüft werden, soweit durch das Repowering im Verhältnis zum gegenwärtigen Zustand unter Berücksichtigung der auszutauschenden Anlage nachteilige Auswirkungen hervorgerufen werden und diese für die Prüfung nach § 6 erheblich sein können.
+
+(2) Die Modernisierung umfasst den vollständigen oder teilweisen Austausch von Anlagen oder Betriebssystemen und ‑geräten zum Austausch von Kapazität oder zur Steigerung der Effizienz oder der Kapazität der Anlage. Bei einem vollständigen Austausch der Anlage sind zusätzlich folgende Anforderungen einzuhalten:
+
+1. Die neue Anlage wird innerhalb von 24 Monaten nach dem Rückbau der Bestandsanlage errichtet und
+
+2. der Abstand zwischen der Bestandsanlage und der neuen Anlage beträgt höchstens das Zweifache der Gesamthöhe der neuen Anlage.
+
+(3) Die Genehmigung einer Windenergieanlage im Rahmen einer Modernisierung nach Absatz 2 darf nicht versagt werden, wenn nach der Modernisierung nicht alle Immissionsrichtwerte der technischen Anleitung zum Schutz gegen Lärm eingehalten werden, wenn aber
+
+1. der Immissionsbeitrag der Windenergieanlage nach der Modernisierung niedriger ist als der Immissionsbeitrag der durch sie ersetzten Windenergieanlagen und
+
+2. die Windenergieanlage dem Stand der Technik entspricht.
+
+(4) Der Umfang der artenschutzrechtlichen Prüfung wird durch das Änderungsgenehmigungsverfahren nach Absatz 1 nicht berührt. Die Auswirkungen der zu ersetzenden Bestandsanlage müssen bei der artenschutzrechtlichen Prüfung als Vorbelastung berücksichtigt werden. Bei der Festsetzung einer Kompensation aufgrund einer Beeinträchtigung des Landschaftsbildes ist die für die zu ersetzende Bestandsanlage bereits geleistete Kompensation abzuziehen.
+
+(5) Die Prüfung anderer öffentlich-rechtlicher Vorschriften, insbesondere des Raumordnungs-, Bauplanungs- und Bauordnungsrechts, und der Belange des Arbeitsschutzes nach § 6 Absatz 1 Nummer 2 bleibt unberührt.
+
+(6) Auf einen Erörterungstermin soll verzichtet werden, wenn nicht der Antragsteller diesen beantragt.
+
+(7) § 19 findet auf Genehmigungsverfahren im Sinne von Absatz 1 für das Repowering von bis zu 19 Windenergieanlagen Anwendung. § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe c der Verordnung über genehmigungsbedürftige Anlagen bleibt unberührt. Im vereinfachten Verfahren ist die Genehmigung auf Antrag des Trägers des Vorhabens öffentlich bekannt zu machen. In diesem Fall gilt § 10 Absatz 8 Satz 2 bis 6 entsprechend.
 
 # § 17 – Nachträgliche Anordnungen
 

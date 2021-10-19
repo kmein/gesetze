@@ -3941,8 +3941,6 @@ Für die Ermittlung der Minderausgaben nach Satz 1 Nummer 2 ist ein Vergleich mi
 
 (2) Die Vereinbarungen nach Absatz 1 können von jeder Partei mit einer Frist von einem Jahr ganz oder teilweise gekündigt werden. Nach Ablauf des Vereinbarungszeitraums oder der Kündigungsfrist gilt die Vereinbarung bis zum Abschluss einer neuen Vereinbarung weiter. Die am 1. Januar 2016 bestehenden Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflege gelten bis zum Abschluss der Vereinbarungen nach Absatz 1 fort.
 
-(3) (weggefallen)
-
 # § 113a – Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege
 
 (1) Die Vertragsparteien nach § 113 stellen die Entwicklung und Aktualisierung wissenschaftlich fundierter und fachlich abgestimmter Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege sicher. Expertenstandards tragen für ihren Themenbereich zur Konkretisierung des allgemein anerkannten Standes der medizinisch-pflegerischen Erkenntnisse bei. Dabei ist das Ziel, auch nach Eintritt der Pflegebedürftigkeit Leistungen zur Prävention und zur medizinischen Rehabilitation einzusetzen, zu berücksichtigen. Der Medizinische Dienst Bund, der Verband der privaten Krankenversicherung e. V., die Verbände der Pflegeberufe auf Bundesebene sowie unabhängige Sachverständige sind zu beteiligen. Sie und die nach § 118 zu beteiligenden Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen können vorschlagen, zu welchen Themen Expertenstandards entwickelt werden sollen. Der Auftrag zur Entwicklung oder Aktualisierung und die Einführung von Expertenstandards erfolgen jeweils durch einen Beschluss der Vertragsparteien.
