@@ -85,7 +85,7 @@ Dies gilt nicht bei einer Abgabe an Fachkreise nach § 3 Nummer 2 des Medizinpro
 
 Davon ausgenommen sind die in Anlage 3 aufgeführten In-vitro-Diagnostika.
 
-(4a) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage von nationaler Tragweite festgestellt hat, dürfen In-vitro-Diagnostika, die für den direkten oder indirekten Nachweis eines Krankheitserregers für die Feststellung einer in § 24 Satz 1 des Infektionsschutzgesetzes genannten Krankheit oder einer Infektion mit einem in § 24 Satz 1 des Infektionsschutzgesetzes genannten Krankheitserreger bestimmt sind, abweichend von Absatz 4 auch an folgende natürliche Personen, Einrichtungen und Unternehmen abgegeben werden:
+(4a) In-Vitro-Diagnostika, die für den direkten Erregernachweis des Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (Coronavirus SARS-CoV-2) bestimmt sind, dürfen abweichend von Absatz 4 auch an folgende natürliche Personen, Einrichtungen und Unternehmen abgegeben werden:
 
 1. Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 Nummer 11 des Infektionsschutzgesetzes,
 
