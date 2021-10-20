@@ -827,23 +827,41 @@ In den Rechtsverordnungen nach den §§ 32 bis 35 kann vorgeschrieben werden, da
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass Anlagen, Stoffe, Erzeugnisse, Brennstoffe oder Treibstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht werden dürfen, wenn sie nach Maßgabe der §§ 32 bis 35 bestimmte Anforderungen erfüllen. In einer Rechtsverordnung nach Satz 1, die der Erfüllung bindender Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte dient, kann das Kraftfahrt-Bundesamt als Genehmigungsbehörde bestimmt und insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit unterstellt werden.
 
-# § 37a – Mindestanteil von Biokraftstoffen an der Gesamtmenge des in Verkehr gebrachten Kraftstoffs; Treibhausgasminderung
+# § 37a – Pflichten für Inverkehrbringer von Kraftstoffen
 
-(1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuernde Otto- oder Dieselkraftstoffe in Verkehr bringt, hat sicherzustellen, dass für die gesamte im Lauf eines Kalenderjahres (Verpflichtungsjahr) von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben der Absätze 3 und 4 eingehalten werden. Kraftstoff gilt mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 oder Absatz 2, auch jeweils in Verbindung mit § 15 Absatz 4, §§ 19b Absatz 1, § 22 Absatz 1 oder § 23 Absatz 1 oder Absatz 2, § 38 Absatz 1, § 42 Absatz 1 oder § 43 Absatz 1 des Energiesteuergesetzes als in Verkehr gebracht. Die Abgabe von fossilem Otto- und fossilem Dieselkraftstoff an die Bundeswehr zu Zwecken der Verteidigung oder der Erfüllung zwischenstaatlicher Verpflichtungen gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für den Erwerb von fossilem Otto- und fossilem Dieselkraftstoff durch die Bundeswehr zu einem in Satz 3 genannten Zweck. Der Bundeswehr gleichgestellt sind auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland befindliche Truppen sowie Einrichtungen, die die Bundeswehr oder diese Truppen zur Erfüllung ihrer jeweiligen Aufgaben einsetzt oder einsetzen. Die Abgabe von Kraftstoff im Eigentum des Erdölbevorratungsverbandes auf Grund einer Freigabe nach § 12 Absatz 1 des Erdölbevorratungsgesetzes durch den Erdölbevorratungsverband, Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie nachfolgende Abgaben gelten nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für die Abgabe von Kraftstoff in den in Satz 6 genannten Fällen im Rahmen von Delegationen nach § 7 Absatz 1 des Erdölbevorratungsgesetzes durch Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie für nachfolgende Abgaben. Die Abgabe von Ausgleichsmengen an unterversorgte Unternehmen zum Versorgungsausgleich im Sinne von § 1 Absatz 1 der Mineralölausgleichs-Verordnung vom 13. Dezember 1985 (BGBl. I S. 2267), die zuletzt durch Artikel 5 Absatz 3 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1738) geändert worden ist, in der jeweils geltenden Fassung gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Ein Inverkehrbringen im Sinne der Sätze 1 und 2 liegt ebenfalls nicht vor, wenn der Erdölbevorratungsverband Kraftstoff aus seinem Eigentum abgibt und dieser Abgabe keine Rücklieferung am Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für die nachfolgenden Abgaben des Kraftstoffs.
+(1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuernde Otto- oder Dieselkraftstoffe in Verkehr bringt, hat sicherzustellen, dass für die gesamte im Lauf eines Kalenderjahres (Verpflichtungsjahr) von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben des Absatzes 4 eingehalten werden. Kraftstoff gilt mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 oder Absatz 2, auch jeweils in Verbindung mit § 15 Absatz 4, §§ 19b Absatz 1, § 22 Absatz 1 oder § 23 Absatz 1 oder Absatz 2, § 38 Absatz 1, § 42 Absatz 1 oder § 43 Absatz 1 des Energiesteuergesetzes als in Verkehr gebracht. Die Abgabe von fossilem Otto- und fossilem Dieselkraftstoff an die Bundeswehr zu Zwecken der Verteidigung oder der Erfüllung zwischenstaatlicher Verpflichtungen gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für den Erwerb von fossilem Otto- und fossilem Dieselkraftstoff durch die Bundeswehr zu einem in Satz 3 genannten Zweck. Der Bundeswehr gleichgestellt sind auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland befindliche Truppen sowie Einrichtungen, die die Bundeswehr oder diese Truppen zur Erfüllung ihrer jeweiligen Aufgaben einsetzt oder einsetzen. Die Abgabe von Kraftstoff im Eigentum des Erdölbevorratungsverbandes auf Grund einer Freigabe nach § 12 Absatz 1 des Erdölbevorratungsgesetzes durch den Erdölbevorratungsverband, Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie nachfolgende Abgaben gelten nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für die Abgabe von Kraftstoff in den in Satz 6 genannten Fällen im Rahmen von Delegationen nach § 7 Absatz 1 des Erdölbevorratungsgesetzes durch Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie für nachfolgende Abgaben. Die Abgabe von Ausgleichsmengen an unterversorgte Unternehmen zum Versorgungsausgleich im Sinne von § 1 Absatz 1 der Mineralölausgleichs-Verordnung vom 13. Dezember 1985 (BGBl. I S. 2267), die zuletzt durch Artikel 5 Absatz 3 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1738) geändert worden ist, in der jeweils geltenden Fassung gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Ein Inverkehrbringen im Sinne der Sätze 1 und 2 liegt ebenfalls nicht vor, wenn der Erdölbevorratungsverband Kraftstoff aus seinem Eigentum abgibt und dieser Abgabe keine Rücklieferung am Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für die nachfolgenden Abgaben des Kraftstoffs.
 
-(2) Verpflichteter nach Absatz 1 Satz 1 und 2 ist der jeweilige Steuerschuldner im Sinne des Energiesteuergesetzes. Abweichend von Satz 1 ist in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der Dritte (Einlagerer) Verpflichteter. In den Fällen des § 22 Absatz 1 des Energiesteuergesetzes gilt allein derjenige als Verpflichteter im Sinne von Satz 1, der eine der dort jeweils genannten Handlungen zuerst vornimmt.
+(2) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 27 Absatz 2 und 3 des Energiesteuergesetzes steuerbefreiten oder nach § 2 Absatz 1 Nummer 3 des Energiesteuergesetzes zu versteuernden Flugturbinenkraftstoff der Unterposition 2710 19 21 der Kombinierten Nomenklatur in Verkehr bringt, hat sicherzustellen, dass die im gesamten Verpflichtungsjahr von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben des Absatzes 4a eingehalten werden. Als in Verkehr gebracht gilt Flugturbinenkraftstoff mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 und § 19b Absatz 1 des Energiesteuergesetzes; dies gilt auch, wenn sich an die Entnahme ein Verfahren der Steuerbefreiung nach § 24 in Verbindung mit § 27 Absatz 2 und 3 des Energiesteuergesetzes anschließt. Absatz 1 Satz 3 bis 10 gilt entsprechend.
 
-(3) Verpflichtete nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 2 (Verpflichtete), die Dieselkraftstoff in Verkehr bringen, haben bis zum 31. Dezember 2014 einen Anteil Dieselkraftstoff ersetzenden Biokraftstoffs von mindestens 4,4 Prozent sicherzustellen. Verpflichtete, die Ottokraftstoff in Verkehr bringen, haben einen Anteil Ottokraftstoff ersetzenden Biokraftstoffs von mindestens 1,2 Prozent für das Jahr 2007, von mindestens 2 Prozent für das Jahr 2008 und von mindestens 2,8 Prozent jeweils für die Jahre 2009 bis 2014 sicherzustellen. Unbeschadet der Sätze 1 und 2 beträgt der Mindestanteil von Biokraftstoff an der Gesamtmenge Otto- und Dieselkraftstoffs, die von Verpflichteten in Verkehr gebracht wird, im Jahr 2009 5,25 Prozent und in den Jahren 2010 bis 2014 jeweils 6,25 Prozent. Satz 3 gilt entsprechend für Verpflichtete, die ausschließlich Ottokraftstoff oder ausschließlich Dieselkraftstoff in Verkehr bringen. Die Mindestanteile von Biokraftstoff beziehen sich in den Fällen der Sätze 1, 2 und 4 jeweils auf den Energiegehalt der Menge fossilen Otto- oder fossilen Dieselkraftstoffs zuzüglich des Biokraftstoffanteils, in den Fällen des Satzes 3 auf den Energiegehalt der Menge fossilen Otto- und fossilen Dieselkraftstoffs zuzüglich des Biokraftstoffanteils. Die Gesamtmengen nach Satz 5 sind um die Mengen zu berichtigen, für die eine Steuerentlastung nach § 46 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des Energiesteuergesetzes gewährt wurde oder wird.
+(3) Verpflichteter nach Absatz 1 Satz 1 und 2 ist der jeweilige Steuerschuldner im Sinne des Energiesteuergesetzes. Abweichend von Satz 1 ist in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der Dritte (Einlagerer) Verpflichteter. In den Fällen des § 22 Absatz 1 des Energiesteuergesetzes gilt allein derjenige als Verpflichteter im Sinne von Satz 1, der eine der dort jeweils genannten Handlungen zuerst vornimmt. Verpflichteter nach Absatz 2 Satz 1 und 2 ist der jeweilige Steuerschuldner im Sinne des Energiesteuergesetzes oder der Steuerlagerinhaber, der Flugturbinenkraftstoff zu steuerfreien Zwecken nach § 27 Absatz 2 und 3 des Energiesteuergesetzes abgibt. Verpflichteter ist abweichend von Satz 4
 
-(4) Verpflichtete haben ab dem Jahr 2015 sicherzustellen, dass die Treibhausgasemissionen der von ihnen in Verkehr gebrachten fossilen Otto- und fossilen Dieselkraftstoffe zuzüglich der Treibhausgasemissionen der von ihnen in Verkehr gebrachten Biokraftstoffe um einen festgelegten Prozentsatz gegenüber dem Referenzwert nach Satz 3 gemindert werden. Die Höhe des in Satz 1 genannten Prozentsatzes beträgt
+1. in den Fällen des § 7 Absatz 4 Satz 1 des Energiesteuergesetzes der Einlagerer,
 
-1. ab dem Jahr 2015 3,5 Prozent,
+2. in den Fällen des § 7 Absatz 6 des Energiesteuergesetzes derjenige, der die Betankung kaufmännisch veranlasst hat.
 
-2. ab dem Jahr 2017 4 Prozent und
+(4) Verpflichtete nach Absatz 1 haben sicherzustellen, dass die Treibhausgasemissionen der von ihnen in Verkehr gebrachten fossilen Otto- und fossilen Dieselkraftstoffe zuzüglich der Treibhausgasemissionen der von ihnen eingesetzten Erfüllungsoptionen um einen festgelegten Prozentsatz gegenüber dem Referenzwert nach Satz 3 gemindert werden. Die Höhe des in Satz 1 genannten Prozentsatzes beträgt
 
-3. ab dem Jahr 2020 6 Prozent.
+1. ab dem Kalenderjahr 2020 6 Prozent,
 
-Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, berechnet sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs zuzüglich der vom Verpflichteten in Verkehr gebrachten energetischen Menge Biokraftstoffs. Der Basiswert beträgt 83,8 Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule. Die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen berechnen sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs. Die Treibhausgasemissionen von Biokraftstoffen berechnen sich durch Multiplikation der in den anerkannten Nachweisen nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl. I S. 3182), die zuletzt durch Artikel 2 der Verordnung vom 26. November 2012 (BGBl. I S. 2363) geändert worden ist, in der jeweils geltenden Fassung ausgewiesenen Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge Biokraftstoffs. Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt, sofern
+2. ab dem Kalenderjahr 2022 7 Prozent,
+
+3. ab dem Kalenderjahr 2023 8 Prozent,
+
+4. ab dem Kalenderjahr 2024 9,25 Prozent,
+
+5. ab dem Kalenderjahr 2025 10,5 Prozent,
+
+6. ab dem Kalenderjahr 2026 12 Prozent,
+
+7. ab dem Kalenderjahr 2027 14,5 Prozent,
+
+8. ab dem Kalenderjahr 2028 17,5 Prozent,
+
+9. ab dem Kalenderjahr 2029 21 Prozent,
+
+10. ab dem Kalenderjahr 2030 25 Prozent.
+
+Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, berechnet sich durch Multiplikation des Basiswertes mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge an fossilen Otto- und fossilen Dieselkraftstoffen zuzüglich der energetischen Menge an eingesetzten Erfüllungsoptionen. Der Basiswert wird festgelegt durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 6. Die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen berechnen sich durch Multiplikation der Werte, die durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen Menge fossilen Otto- und fossilen Dieselkraftstoffs. Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt, sofern
 
 1. für die Biokraftstoffe anerkannte Nachweise nach § 14 der Biokraftstoff-Nachhaltigkeitsverordnung nicht vorgelegt werden,
 
@@ -853,35 +871,72 @@ Der Referenzwert, gegenüber dem die Treibhausgasminderung zu erfolgen hat, bere
 
 4. die Biokraftstoffe nach § 37b Absatz 8 Satz 1 von der Anrechenbarkeit ausgeschlossen sind oder
 
-5. die Europäische Kommission nach Artikel 18 Absatz 8 der Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16), die zuletzt durch die Richtlinie 2013/18/EU (ABl. L 158 vom 10.6.2013, S. 230) geändert worden ist, oder nach Artikel 7c Absatz 8 der Richtlinie 98/70/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über die Qualität von Otto- und Dieselkraftstoffen und zur Änderung der Richtlinie 93/12/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 58), die zuletzt durch die delegierte Richtlinie 2014/77/EU (ABl. L 170 vom 11.6.2014, S. 62) geändert worden ist, entschieden hat, dass die Bundesrepublik Deutschland den Biokraftstoff für die in Artikel 17 Absatz 1 Buchstabe a, b und c der Richtlinie 2009/28/EG oder für die in Artikel 7a der Richtlinie 98/70/EG genannten Zwecke nicht berücksichtigen darf.
+5. die Europäische Kommission nach Artikel 30 Absatz 10 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82; L 311 vom 25.9.2020, S. 11) in der jeweils geltenden Fassung oder nach Artikel 7c Absatz 8 der Richtlinie 98/70/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über die Qualität von Otto- und Dieselkraftstoffen und zur Änderung der Richtlinie 93/12/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 58), die zuletzt durch die Verordnung (EU) 2018/1999 (ABl. L 328 vom 21.12.2018, S. 1) geändert worden ist, in der jeweils geltenden Fassung entschieden hat, dass die Bundesrepublik Deutschland den Biokraftstoff für die in Artikel 25 Absatz 1 Unterabsatz 1 und 4 der Richtlinie (EU) 2018/2001 oder für die in Artikel 7a der Richtlinie 98/70/EG genannten Zwecke nicht berücksichtigen darf.
 
-Satz 7 erster Halbsatz gilt entsprechend für die in § 37b Absatz 2 bis 6 genannten Energieerzeugnisse, wenn diese keine Biokraftstoffe im Sinne dieses Gesetzes sind. Bei der Berechnung des Referenzwertes nach den Sätzen 3 und 4 sowie der Treibhausgasemissionen nach den Sätzen 5 und 6 sind Kraftstoffmengen, für die dem Verpflichteten eine Steuerentlastung nach § 46 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des Energiesteuergesetzes gewährt wurde oder wird, nicht zu berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
+Satz 7 erster Halbsatz gilt entsprechend für die in § 37b Absatz 2 bis 6 genannten Energieerzeugnisse, wenn diese keine Biokraftstoffe im Sinne dieses Gesetzes sind. Bei der Berechnung des Referenzwertes nach den Sätzen 3 und 4 sowie der Treibhausgasemissionen nach den Sätzen 5 und 6 sind Kraftstoffmengen, für die dem Verpflichteten eine Steuerentlastung nach § 8 Absatz 7, nach § 46 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des Energiesteuergesetzes gewährt wurde oder wird, nicht zu berücksichtigen. In den Fällen des Absatzes 5 Satz 1 Nummer 2 und 3 gilt Satz 9 unabhängig von der Person des Entlastungsberechtigten.
 
-(5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 können von Verpflichteten
+(4a) Verpflichtete nach Absatz 2 haben einen Mindestanteil an Kraftstoff, der Flugturbinenkraftstoff ersetzt, aus erneuerbaren Energien nicht-biogenen Ursprungs sicherzustellen. Die Höhe des in Satz 1 genannten Anteils beträgt  
+  
 
-1. durch Inverkehrbringen von Biokraftstoff, der fossilem Otto- oder fossilem Dieselkraftstoff, welcher nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern ist, beigemischt wurde,
+|     |                          |              |
+|:----|:-------------------------|:-------------|
+| 1\. | ab dem Kalenderjahr 2026 | 0,5 Prozent, |
+| 2\. | ab dem Kalenderjahr 2028 | 1 Prozent,   |
+| 3\. | ab dem Kalenderjahr 2030 | 2 Prozent.   |
 
-2. durch Inverkehrbringen reinen Biokraftstoffs, der nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern ist, und
+  
+  
+Die Mindestanteile von Kraftstoff aus erneuerbaren Energien nicht-biogenen Ursprungs beziehen sich jeweils auf den Energiegehalt der Menge fossilen Flugturbinenkraftstoffs zuzüglich des Energiegehalts an Kraftstoff aus erneuerbaren Energien nicht-biogenen Ursprungs. Anforderungen an diese Kraftstoffe regelt eine Rechtsverordnung nach § 37d Absatz 2 Satz 1.
 
-3. in den Fällen des Absatzes 3 Satz 2 und 3 sowie des Absatzes 4 durch Inverkehrbringen von
+(5) Die Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem Absatz 4 können von Verpflichteten erfüllt werden durch folgende Optionen (Erfüllungsoptionen):
+
+1. Inverkehrbringen von Biokraftstoff, der fossilem Otto- oder fossilem Dieselkraftstoff, welcher nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern ist, beigemischt wurde,
+
+2. Inverkehrbringen von reinem Biokraftstoff, der nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuern ist,
+
+3. Inverkehrbringen von
 
 a) Biokraftstoff nach § 37b Absatz 6, der fossilem Erdgaskraftstoff, welcher nach § 2 Absatz 1 Nummer 7 oder Absatz 2 Nummer 1 des Energiesteuergesetzes zu versteuern ist, zugemischt wurde, und
 
 b) reinem Biokraftstoff nach § 37b Absatz 6, der nach § 2 Absatz 1 Nummer 7 oder Absatz 2 Nummer 1 des Energiesteuergesetzes zu versteuern ist,
 
-erfüllt werden. Elektrischer Strom zur Verwendung in Straßenfahrzeugen kann zur Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 eingesetzt werden, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 11 dies zulässt und gegenüber der zuständigen Stelle nachgewiesen wird, dass der Strom ordnungsgemäß gemessen und überwacht wurde. Andere Kraftstoffe und Upstream-Emissionsminderungen können zur Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 angerechnet werden, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
+4. elektrischen Strom zur Verwendung in Straßenfahrzeugen, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 11 dies zulässt und gegenüber der zuständigen Stelle nachgewiesen wird, dass der Strom ordnungsgemäß gemessen und überwacht wurde,
 
-(6) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist, übertragen werden. Im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 3 muss der Vertrag mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem Verpflichteten eingegangenen Verpflichtung sowie Angaben dazu enthalten, für welche Biokraftstoffe die Übertragung gilt. Im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss der Vertrag außerdem Angaben zu den Treibhausgasemissionen der Biokraftstoffe in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann Verträge nach Satz 1 ausschließlich durch Biokraftstoffe erfüllen, die er im Verpflichtungsjahr in Verkehr bringt oder gebracht hat. Abweichend von Satz 4 kann der Dritte ab dem Verpflichtungsjahr 2016 Verträge nach Satz 3 auch durch Biokraftstoffe erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die Biokraftstoffe nicht bereits Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist. Absatz 1 Satz 2 und Absatz 5 Satz 1 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten in Verkehr gebrachten Biokraftstoffe im Verpflichtungsjahr selbst in Verkehr gebracht. Absatz 3 Satz 6 und Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Biokraftstoffe können nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
+5. bis zum Verpflichtungsjahr 2026 Upstream-Emissionsminderungen, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-(7) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der selbst Verpflichteter ist, übertragen werden. Absatz 6 Satz 2 gilt entsprechend. Im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss der Vertrag Angaben zum Umfang der vom Dritten im Verpflichtungsjahr sicherzustellenden Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann Verträge nach den Sätzen 2 und 3 ausschließlich durch Biokraftstoffe erfüllen, die er im Verpflichtungsjahr in Verkehr bringt oder gebracht hat. Absatz 1 Satz 2 und Absatz 5 Satz 1 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 5 werden
+6. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-1. im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 3 die vom Dritten in Verkehr gebrachten Biokraftstoffe ausschließlich bei der Ermittlung der Mindestanteile von Biokraftstoff nach Absatz 3 Satz 5 und
+7. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, wenn sie als Zwischenprodukt zur Produktion konventioneller Kraftstoffe verwendet werden, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-2. im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 die vom Dritten erreichte Treibhausgasminderungsmenge ausschließlich bei der Berechnung der Treibhausgasemissionen nach Absatz 4 Satz 5 und 6
+8. flüssige oder gasförmige erneuerbare Kraftstoffe nicht-biogenen Ursprungs, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen verarbeitet werden, wenn eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt,
 
-zugunsten des Verpflichteten berücksichtigt. Im Fall des Satzes 6 Nummer 2 berechnet sich die Treibhausgasminderungsmenge in entsprechender Anwendung des Absatzes 4 Satz 3 bis 10. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Biokraftstoff- oder Treibhausgasminderungsmengen können nicht zur Erfüllung der eigenen Verpflichtung des Dritten oder der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
+9. andere Kraftstoffe, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
 
-(8) Biokraftstoff- oder Treibhausgasminderungsmengen, die den nach den Absätzen 3 und 4 vorgeschriebenen Mindestanteil oder Prozentsatz für ein bestimmtes Verpflichtungsjahr übersteigen und für die keine Steuerentlastung nach § 50 Absatz 1 Satz 1 Nummer 1, 2 und 4 des Energiesteuergesetzes beantragt wurde, werden auf Antrag des Verpflichteten auf den Mindestanteil oder Prozentsatz des Folgejahres angerechnet. Bei Biokraftstoffmengen, die den nach Absatz 3 vorgeschriebenen Mindestanteil im Verpflichtungsjahr 2014 übersteigen und deren Anrechnung auf das Verpflichtungsjahr 2015 vom Verpflichteten beantragt wird, ist die anrechenbare Treibhausgasminderungsmenge auf der Grundlage eines Durchschnittswertes von 43,58 Kilogramm Kohlendioxid-Äquivalent pro Gigajoule zu ermitteln.
+Erfüllungsoptionen nach Satz 1 Nummer 6 bis 8 werden mindestens mit dem Doppelten ihres Energiegehaltes auf die Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit dem Absatz 4 angerechnet. Die Verpflichtung nach Absatz 2 in Verbindung mit Absatz 4a wird von Verpflichteten durch das Inverkehrbringen von flüssigen oder gasförmigen erneuerbaren Kraftstoffen nicht-biogenen Ursprungs erfüllt, soweit eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
+
+(6) Die Erfüllung von Verpflichtungen
+
+1. nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
+
+2. nach Absatz 2 in Verbindung mit Absatz 4a
+
+kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist, übertragen werden. Der Vertrag muss mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem Verpflichteten eingegangenen Verpflichtung enthalten sowie Angaben, für welche Erfüllungsoptionen die Übertragung gilt. Außerdem muss der Vertrag Angaben zu den Treibhausgasemissionen der Kraftstoffe in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann den Vertrag ausschließlich durch Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr einsetzt oder eingesetzt hat. Abweichend von Satz 4 kann der Dritte Verträge nach Satz 3 auch durch Erfüllungsoptionen erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist. Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten eingesetzten Erfüllungsoptionen im Verpflichtungsjahr selbst in Verkehr gebracht. Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Erfüllungsoptionen können nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
+
+(7) Die Erfüllung von Verpflichtungen
+
+1. nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 und
+
+2. nach Absatz 2 in Verbindung mit Absatz 4a
+
+kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der selbst Verpflichteter ist, übertragen werden. Absatz 6 Satz 2 gilt entsprechend. Der Vertrag zur Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss Angaben zum Umfang der vom Dritten im Verpflichtungsjahr sicherzustellenden Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Vertrag zur Erfüllung von Verpflichtungen nach Absatz 2 Satz 1 und 2 in Verbindung mit Absatz 4a muss Angaben zum Umfang der vom Dritten im Verpflichtungsjahr sicherzustellenden energetischen Menge erneuerbarer Kraftstoffe nicht-biogenen Ursprungs nach Absatz 5 Satz 2 in Gigajoule enthalten. Der Dritte kann Verträge ausschließlich durch Erfüllungsoptionen erfüllen, die er im Verpflichtungsjahr einsetzt oder eingesetzt hat. Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 5 Satz 1 und 2 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 5 werden zugunsten des Verpflichteten berücksichtigt
+
+1. im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 die vom Dritten erreichte Treibhausgasminderungsmenge ausschließlich bei der Berechnung der Treibhausgasemissionen nach Absatz 4 Satz 5 und 6 und
+
+2. im Fall des Absatzes 2 in Verbindung mit Absatz 4a die vom Dritten eingesetzten Erfüllungsoptionen ausschließlich bei der Ermittlung der Mindestanteile von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs nach Absatz 4a Satz 3.
+
+Im Fall des Satzes 6 Nummer 1 berechnet sich die Treibhausgasminderungsmenge in entsprechender Anwendung des Absatzes 4 Satz 3 bis 10. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Treibhausgasminderungs- und Kraftstoffmengen können nicht zur Erfüllung der eigenen Verpflichtung des Dritten oder der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
+
+(8) Treibhausgasminderungs- oder Kraftstoffmengen, die den nach den Absätzen 4 oder 4a vorgeschriebenen Prozentsatz oder Mindestanteil für ein bestimmtes Verpflichtungsjahr übersteigen, werden auf Antrag des Verpflichteten auf den Prozentsatz oder Mindestanteil des folgenden Kalenderjahres angerechnet.
 
 # § 37b – Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
 
@@ -889,7 +944,7 @@ zugunsten des Verpflichteten berücksichtigt. Im Fall des Satzes 6 Nummer 2 bere
 
 (2) Fettsäuremethylester (Biodiesel) sind abweichend von Absatz 1 nur dann Biokraftstoffe, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinne der Biomasseverordnung sind, und wenn ihre Eigenschaften mindestens den Anforderungen für Biodiesel nach § 5 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 8 Absatz 1 der Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in der jeweils geltenden Fassung entsprechen. Biodiesel ist unter diesen Voraussetzungen in vollem Umfang als Biokraftstoff zu behandeln.
 
-(3) Bioethanol ist abweichend von Absatz 1 nur dann Biokraftstoff, wenn es sich um Ethylalkohol ex Unterposition 2207 10 00 der Kombinierten Nomenklatur im Sinne des § 1a Satz 1 Nummer 2 des Energiesteuergesetzes handelt. Im Fall von Bioethanol, das fossilem Ottokraftstoff beigemischt wird, müssen die Eigenschaften des Bioethanols außerdem mindestens den Anforderungen der DIN EN 15376, Ausgabe März 2008 oder Ausgabe November 2009 oder Ausgabe April 2011, entsprechen. Im Fall von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen die Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den Anforderungen für Ethanolkraftstoff (E85) nach § 6 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus Bioethanol hergestellt werden, gelten für den Bioethanolanteil die Sätze 1 und 2 entsprechend.
+(3) Im Fall von Bioethanol, das fossilem Ottokraftstoff beigemischt wird, müssen die Eigenschaften des Bioethanols mindestens den Anforderungen der DIN EN 15376, Ausgabe März 2008 oder Ausgabe November 2009 oder Ausgabe April 2011, entsprechen. Im Fall von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen die Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den Anforderungen für Ethanolkraftstoff (E85) nach § 6 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus Bioethanol hergestellt werden, gilt für den Bioethanolanteil Satz 1 entsprechend.
 
 (4) Pflanzenöl ist abweichend von Absatz 1 nur dann Biokraftstoff, wenn seine Eigenschaften mindestens den Anforderungen für Pflanzenölkraftstoff nach § 9 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen.
 
@@ -899,7 +954,7 @@ zugunsten des Verpflichteten berücksichtigt. Im Fall des Satzes 6 Nummer 2 bere
 
 (7) Für die Kraftstoffe nach den Absätzen 1 bis 6 gilt § 11 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechend. Die in Satz 1 sowie den Absätzen 2 bis 4 und 6 genannten oder in Bezug genommenen Normen sind im Beuth Verlag GmbH, Berlin, erschienen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
-(8) Nicht auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 angerechnet werden können
+(8) Nicht auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden können
 
 1. biogene Öle, die in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen hydriert wurden,
 
@@ -907,21 +962,41 @@ zugunsten des Verpflichteten berücksichtigt. Im Fall des Satzes 6 Nummer 2 bere
 
 3. Biokraftstoffe, die vollständig oder teilweise aus tierischen Ölen oder Fetten hergestellt wurden, und
 
-4. Biokraftstoffe, für die eine Steuerentlastung nach § 50 Absatz 1 Satz 1 Nummer 1, 2 oder 4 des Energiesteuergesetzes gewährt wurde oder wird.
+4. Wasserstoff aus biogenen Quellen.
 
-Im Fall des § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 werden Biokraftstoffe, für die eine Steuerentlastung nach § 46 Absatz 1 Satz 1 Nummer 1 oder Nummer 3 oder nach § 47 Absatz 1 Nummer 1, 2 oder Nummer 6 des Energiesteuergesetzes gewährt wurde oder wird, nicht auf die Erfüllung der Verpflichtungen angerechnet.
+Abweichend von Satz 1 Nummer 3 und Absatz 1 Satz 1 können Biokraftstoffe, die vollständig oder teilweise aus tierischen Fetten und Ölen der Kategorie 1 und 2 gemäß Artikel 8 und 9 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1), die zuletzt durch die Verordnung (EU) 2019/1009 (ABl. L 170 vom 25.6.2019, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung bestehen, auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden. Abweichend von Satz 1 Nummer 4 und Absatz 1 Satz 1 wird Wasserstoff aus biogenen Quellen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001, der in Straßenfahrzeugen eingesetzt wird, ab dem 1. Juli 2023 auf die Erfüllung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet; eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 19 regelt weitere Bestimmungen. Ab dem Kalenderjahr 2023 wird für die Treibhausgasemissionen von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung nach Artikel 3 der Verordnung (EU) 2019/807 der Basiswert zugrunde gelegt. Der Rechenfaktor nach § 37d Absatz 2 Satz 1 Nummer 2 für Biokraftstoffe aus Abwasser aus Palmölmühlen und leeren Palmfruchtbündeln beträgt eins.
 
 (9) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt den Energiegehalt der verschiedenen Kraftstoffe sowie Änderungen ihres Energiegehaltes im Bundesanzeiger bekannt.
 
 # § 37c – Mitteilungs- und Abgabepflichten
 
-(1) Verpflichtete haben der zuständigen Stelle jeweils bis zum 15. April des auf das Verpflichtungsjahr folgenden Jahres die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge fossilen Otto- und fossilen Dieselkraftstoffs, die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 außerdem die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen schriftlich mitzuteilen. In der Mitteilung sind darüber hinaus die Firma des Verpflichteten, der Ort der für das Inverkehrbringen verantwortlichen Niederlassung oder der Sitz des Unternehmens, die jeweils zugehörige Anschrift sowie der Name und die Anschrift des Vertretungsberechtigten anzugeben. Soweit die Erfüllung von Verpflichtungen nach § 37a Absatz 6 Satz 1 oder nach § 37a Absatz 7 Satz 1 vertraglich auf Dritte übertragen wurde, haben Verpflichtete der zuständigen Stelle zusätzlich die Angaben nach § 37a Absatz 6 Satz 2 oder Satz 3 oder § 37a Absatz 7 Satz 2 oder Satz 3 schriftlich mitzuteilen und eine Kopie des Vertrags mit dem Dritten vorzulegen. Im Fall des § 37a Absatz 6 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 außerdem die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen schriftlich mitzuteilen. Im Fall des § 37a Absatz 6 Satz 5 gilt dies entsprechend für die im Vorjahr des Verpflichtungsjahres vom Dritten in Verkehr gebrachten Biokraftstoffe. Im Fall des § 37a Absatz 7 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 die auf Grund seiner vertraglichen Verpflichtung im Verpflichtungsjahr sichergestellte Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent schriftlich mitzuteilen. Die zuständige Stelle erteilt jedem Verpflichteten eine Registriernummer und führt ein elektronisches Register, das für alle Verpflichteten die nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
+(1) Verpflichtete haben der zuständigen Stelle jeweils bis zum Ablauf des 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres schriftlich mitzuteilen
 
-(2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 nicht nachkommen, setzt die zuständige Stelle in den Fällen des § 37a Absatz 3 für die nach dem Energiegehalt berechnete Fehlmenge Biokraftstoffs oder in den Fällen des § 37a Absatz 4 für die Fehlmenge der zu mindernden Treibhausgasemissionen eine Abgabe fest. Die Abgabenschuld des Verpflichteten entsteht am 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres. In den Fällen des § 37a Absatz 3 Satz 1 oder Satz 3, auch in Verbindung mit § 37a Absatz 3 Satz 4, beträgt die Höhe der Abgabe 19 Euro pro Gigajoule. In den Fällen des § 37a Absatz 3 Satz 2 beträgt die Höhe der Abgabe 43 Euro pro Gigajoule. In den Fällen des § 37a Absatz 3 Satz 3, auch in Verbindung mit § 37a Absatz 3 Satz 4, wird die Abgabe nicht für die Fehlmengen Biokraftstoffs festgesetzt, für die bereits nach Satz 3 oder Satz 4 eine Abgabe festzusetzen ist. In den Fällen des § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden Treibhausgasemissionen berechnet und beträgt 0,47 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest.
+1. die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge fossilen Otto- und fossilen Dieselkraftstoffs oder fossilen Flugturbinenkraftstoffs,
 
-(3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten im Verpflichtungsjahr in Verkehr gebrachten Mengen fossilen Otto- und fossilen Dieselkraftstoffs und Biokraftstoffs sowie ab dem Jahr 2015 auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4. Die Schätzung unterbleibt, soweit der Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 3, 4 oder Satz 6 die Mitteilung nachholt. Soweit ein Dritter die nach Absatz 1 Satz 4 bis 6 erforderlichen Angaben nicht ordnungsgemäß mitgeteilt hat, geht die zuständige Stelle davon aus, dass der Dritte die von ihm eingegangene Verpflichtung nicht erfüllt hat. Satz 4 gilt nicht, soweit der Dritte im Rahmen der Anhörung zum Festsetzungsbescheid gegen den Verpflichteten nach Absatz 2 Satz 7 diese Mitteilung nachholt.
+2. die im Verpflichtungsjahr von ihnen eingesetzte Menge an Erfüllungsoptionen, bezogen auf die verschiedenen jeweils betroffenen Erfüllungsoptionen, und
 
-(4) In den Fällen des § 37a Absatz 2 Satz 2 hat der Steuerlagerinhaber seinem zuständigen Hauptzollamt mit der monatlichen Energiesteueranmeldung die für jeden Verpflichteten in Verkehr gebrachte Menge fossilen Otto- und fossilen Dieselkraftstoffs zuzüglich des Biokraftstoffanteils schriftlich mitzuteilen.
+3. die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen.
+
+In der Mitteilung sind darüber hinaus die Firma des Verpflichteten, der Ort der für das Inverkehrbringen verantwortlichen Niederlassung oder der Sitz des Unternehmens, die jeweils zugehörige Anschrift sowie der Name und die Anschrift des Vertretungsberechtigten anzugeben. Soweit die Erfüllung von Verpflichtungen nach § 37a Absatz 6 Satz 1 oder nach § 37a Absatz 7 Satz 1 vertraglich auf Dritte übertragen wurde, haben Verpflichtete der zuständigen Stelle zusätzlich die Angaben nach § 37a Absatz 6 Satz 2 oder Satz 3 oder § 37a Absatz 7 Satz 2 oder Satz 3 schriftlich mitzuteilen und eine Kopie des Vertrags mit dem Dritten vorzulegen. Im Fall des § 37a Absatz 6 hat der Dritte der zuständigen Stelle schriftlich mitzuteilen
+
+1. die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Kraftstoff, bezogen auf die verschiedenen jeweils betroffenen Erfüllungsoptionen, und
+
+2. die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen.
+
+Im Fall des § 37a Absatz 6 Satz 5 gilt dies entsprechend für die im Vorjahr des Verpflichtungsjahres vom Dritten eingesetzte Erfüllungsoptionen. Im Fall des § 37a Absatz 7 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Kraftstoff, bezogen auf die verschiedenen jeweils betroffenen Erfüllungsoptionen, und die auf Grund seiner vertraglichen Verpflichtung im Verpflichtungsjahr sichergestellte Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent schriftlich mitzuteilen. Die zuständige Stelle erteilt jedem Verpflichteten eine Registriernummer und führt ein elektronisches Register, das für alle Verpflichteten die nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
+
+(2) Soweit Verpflichtete einer Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 oder nach § 37a Absatz 2 Satz 1 und 2 in Verbindung mit § 37a Absatz 4a nicht nachkommen, setzt die zuständige Stelle eine Abgabe fest
+
+1. in den Fällen des § 37a Absatz 4 für die Fehlmenge der zu mindernden Treibhausgasemissionen oder
+
+2. in den Fällen des § 37a Absatz 4a für die nach dem Energiegehalt berechnete Fehlmenge Kraftstoffs.
+
+Die Abgabenschuld des Verpflichteten entsteht mit Ablauf des 15. Aprils des auf das Verpflichtungsjahr folgenden Kalenderjahres. In den Fällen, in denen ein Verpflichteter durch eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 8 einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe in Verkehr zu bringen hat, setzt die zuständige Stelle bis einschließlich zum Verpflichtungsjahr 2021 eine Abgabe in Höhe von 19 Euro pro Gigajoule und ab dem Verpflichtungsjahr 2022 eine Abgabe in Höhe von 45 Euro pro Gigajoule fest. In den Fällen des § 37a Absatz 4a beträgt die Höhe der Abgabe 70 Euro pro Gigajoule. In den Fällen des § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden Treibhausgasemissionen berechnet und beträgt bis einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest.
+
+(3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten im Verpflichtungsjahr in Verkehr gebrachten Mengen an Kraftstoffen und auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 sowie nach § 37a Absatz 2 Satz 1 und 2 in Verbindung mit § 37a Absatz 4a. Die Schätzung unterbleibt, soweit der Verpflichtete im Rahmen der Anhörung zum Festsetzungsbescheid nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 3, 4 oder Satz 5 die Mitteilung nachholt. Soweit ein Dritter die nach Absatz 1 Satz 4 bis 6 erforderlichen Angaben nicht ordnungsgemäß mitgeteilt hat, geht die zuständige Stelle davon aus, dass der Dritte die von ihm eingegangene Verpflichtung nicht erfüllt hat. Satz 4 gilt nicht, soweit der Dritte im Rahmen der Anhörung zum Festsetzungsbescheid gegen den Verpflichteten nach Absatz 2 Satz 6 diese Mitteilung nachholt.
+
+(4) In den Fällen des § 37a Absatz 3 Satz 2 hat der Steuerlagerinhaber dem zuständigen Hauptzollamt mit der monatlichen Energiesteueranmeldung die für jeden Verpflichteten in Verkehr gebrachte Menge an Energieerzeugnissen schriftlich mitzuteilen. In den Fällen des § 37a Absatz 3 Satz 4 hat der Steuerlagerinhaber der zuständigen Stelle die in einem Verpflichtungsjahr für jeden Verpflichteten in Verkehr gebrachte Menge an Energieerzeugnissen zum Ablauf des 1. Februar des folgenden Kalenderjahres schriftlich mitzuteilen. Im Falle des § 37a Absatz 3 Satz 5 hat der Erlaubnisinhaber der zuständigen Stelle die in einem Verpflichtungsjahr für den Vertragspartner in Verkehr gebrachten Mengen zum Ablauf des 1. Februar des folgenden Kalenderjahres schriftlich mitzuteilen.
 
 (5) Hinsichtlich der Absätze 1 bis 4 finden die für die Verbrauchsteuern geltenden Vorschriften der Abgabenordnung entsprechende Anwendung. Die Mitteilungen nach Absatz 1 und Absatz 4 gelten als Steueranmeldungen im Sinne der Abgabenordnung. § 170 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung findet Anwendung. In den Fällen des Absatzes 2 ist der Verpflichtete vor der Festsetzung der Abgabe anzuhören.
 
@@ -937,39 +1012,41 @@ a) auch in Abweichung von § 37b Absatz 1 bis 6 Energieerzeugnisse als Biokrafts
 
 b) in Abweichung von § 37b Absatz 1 bis 6 festzulegen, dass bestimmte Energieerzeugnisse nicht oder nicht mehr in vollem Umfang als Biokraftstoffe gelten,
 
-c) die Anrechenbarkeit von biogenen Ölen im Sinne von § 37b Absatz 8 Satz 1 Nummer 1 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 1 zu regeln, soweit landwirtschaftliche Rohstoffe, Abfälle oder Reststoffe, die bei der Herstellung von biogenen Ölen verwendet werden sollen, nachhaltig erzeugt worden sind,
+c) die Anrechenbarkeit von biogenen Ölen aus Rohstoffen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001 im Sinne von § 37b Absatz 8 Satz 1 Nummer 1 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 1 zu regeln, soweit landwirtschaftliche Rohstoffe, Abfälle oder Reststoffe, die bei der Herstellung von biogenen Ölen aus Rohstoffen des Anhangs IX Teil A der Richtlinie (EU) 2018/2001 verwendet werden sollen, nachhaltig erzeugt worden sind,
 
-d) die Anrechenbarkeit von Biomethan auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 zu konkretisieren,
+d) die Anrechenbarkeit von Biomethan auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu konkretisieren,
 
-e) die Anrechenbarkeit von Biomethan, das in das Erdgasnetz eingespeist wird, auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 näher zu regeln,
+e) die Anrechenbarkeit von Biomethan, das in das Erdgasnetz eingespeist wird, auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 näher zu regeln,
 
 f) zu bestimmen, wie im Falle der Einspeisung von Biomethan in das Erdgasnetz der Nachweis über die Treibhausgasemissionen zu führen ist, sowie
 
 g) das Nachweisverfahren für die Anrechenbarkeit von Biomethan insgesamt näher zu regeln,
 
-2. zu bestimmen, dass der mengenmäßige Anteil eines bestimmten Biokraftstoffs nach Nummer 1 oder § 37b Absatz 1 bis 7 am Gesamtkraftstoffabsatz im Rahmen der Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 nach Maßgabe einer Multiplikation der tatsächlich in Verkehr gebrachten Menge des jeweiligen Biokraftstoffs mit einem bestimmten Rechenfaktor zu berechnen ist, der unter Berücksichtigung der Treibhausgasbilanz des jeweiligen Biokraftstoffs festzulegen ist,
+2. zu bestimmen, dass der Anteil an bestimmten Erfüllungsoptionen im Rahmen der Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 nach Maßgabe einer Multiplikation der tatsächlich in Verkehr gebrachten energetischen Menge der jeweiligen Erfüllungsoption mit einem bestimmten Rechenfaktor zu berechnen ist,
 
-3. vorzuschreiben, dass Biokraftstoffe nur dann auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 angerechnet werden, wenn bei der Erzeugung der eingesetzten Biomasse nachweislich bestimmte ökologische und soziale Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum Schutz natürlicher Lebensräume erfüllt werden und wenn der Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
+3. vorzuschreiben, dass Biokraftstoffe nur dann auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 angerechnet werden, wenn bei der Erzeugung der eingesetzten Biomasse nachweislich bestimmte ökologische und soziale Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum Schutz natürlicher Lebensräume erfüllt werden und wenn der Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
 
 4. die Anforderungen im Sinne der Nummer 3 festzulegen,
 
 5. die Höhe der Abgabe nach § 37c Absatz 2 Satz 3, 4 oder Satz 6 zu ändern, um im Fall von Änderungen des Preisniveaus für Kraftstoffe eine vergleichbare wirtschaftliche Belastung aller Verpflichteten sicherzustellen,
 
-6. den Basiswert abweichend von § 37a Absatz 4 Satz 4 zu bestimmen,
+6. den Basiswert im Sinne des § 37a Absatz 4 Satz 4 zu bestimmen,
 
-7. die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 zu begrenzen, sofern die Richtlinie 2009/28/EG eine Begrenzung der Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 3 Absatz 4 der Richtlinie 2009/28/EG vorsieht, sowie das Nachweisverfahren zu regeln,
+7. die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu begrenzen, sofern die Richtlinie 2009/28/EG eine Begrenzung der Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 3 Absatz 4 der Richtlinie (EU) 2018/2001 vorsieht, sowie das Nachweisverfahren zu regeln,
 
-8. einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 oder 4 festzulegen sowie das Nachweisverfahren zu regeln,
+8. einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 festzulegen sowie das Nachweisverfahren zu regeln,
 
-9. das Berechnungsverfahren für die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen abweichend von § 37a Absatz 4 Satz 5 festzulegen und das Nachweisverfahren zu regeln,
+9. das Berechnungsverfahren für die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen im Sinne des § 37a Absatz 4 Satz 5 festzulegen und das Nachweisverfahren zu regeln,
 
 10. das Berechnungsverfahren für die Treibhausgasemissionen von Biokraftstoffen abweichend von § 37a Absatz 4 Satz 6 festzulegen und das Nachweisverfahren zu regeln,
 
-11. die Anrechenbarkeit von elektrischem Strom zur Verwendung in Straßenfahrzeugen gemäß § 37a Absatz 5 Satz 2 zu regeln und dabei insbesondere
+11. die Anrechenbarkeit von elektrischem Strom zur Verwendung in Straßenfahrzeugen gemäß § 37a Absatz 5 Satz 1 Nummer 4 zu regeln und dabei insbesondere
 
 a) das Berechnungsverfahren für die Treibhausgasemissionen der eingesetzten Mengen elektrischen Stroms festzulegen und
 
-b) das Nachweisverfahren zu regeln,
+b) das Nachweisverfahren zu regeln und
+
+c) die erzeugten Treibhausgasminderungsmengen der energetischen Menge elektrischen Stroms, die nicht von Dritten der zuständigen Stelle mitgeteilt werden, zu versteigern und das erforderliche Verfahren zu regeln,
 
 12. unter Berücksichtigung der technischen Entwicklung den Anwendungsbereich in § 37a Absatz 1 Satz 1 auf weitere Kraftstoffe auszudehnen und dabei insbesondere
 
@@ -977,11 +1054,15 @@ a) das Berechnungsverfahren für die Treibhausgasemissionen dieser Kraftstoffe f
 
 b) das Nachweisverfahren zu regeln,
 
-13. unter Berücksichtigung der technischen Entwicklung die Vorgaben nach § 37a Absatz 5 Satz 1 um weitere Maßnahmen zur Treibhausgasminderung, die zur Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 eingesetzt werden können, zu ergänzen und dabei insbesondere
+13. unter Berücksichtigung der technischen Entwicklung weitere Erfüllungsoptionen zu ergänzen und dabei insbesondere
 
-a) das Berechnungsverfahren für die Treibhausgasemissionen dieser Maßnahmen festzulegen und
+a) das Berechnungsverfahren für die Treibhausgasemissionen dieser Maßnahmen festzulegen,
 
 b) das Nachweisverfahren sowie die Übertragbarkeit der Nachweise zu regeln,
+
+c) Methoden zur Einhaltung der Anforderungen der Richtlinie (EU) 2018/2001 für den Bezug des elektrischen Stroms zur Produktion von Kraftstoffen festzulegen und
+
+d) Mindestwerte für die Treibhausgaseinsparung von Kraftstoffen festzulegen,
 
 14. die Berichtspflicht nach § 37f Absatz 1 insbesondere zu Art, Form und Inhalt des Berichts näher auszugestalten sowie die zur Sicherstellung einer ordnungsgemäßen Berichterstattung erforderlichen Anordnungen der zuständigen Stelle zu regeln,
 
@@ -1001,9 +1082,17 @@ e) der Verordnung nach den Nummern 2 bis 4,
 
 17. von § 37c Absatz 1 und 3 bis 5 abweichende Verfahrensregelungen zu treffen,
 
-18. Ausnahmen von der in § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 vorgesehenen Möglichkeit der Anrechnung von Übererfüllungen auf den Mindestanteil des Folgejahres festzulegen, sofern dies zur Einhaltung von Zielvorgaben aus bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist.
+18. Ausnahmen von der in § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 vorgesehenen Möglichkeit der Anrechnung von Übererfüllungen auf den Mindestanteil des Folgejahres festzulegen, sofern dies zur Einhaltung von Zielvorgaben aus bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist,
 
-In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden. Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 3 oder 4 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+19. unter Berücksichtigung der technischen Entwicklung Kriterien für die Anrechenbarkeit von Wasserstoff aus biogenen Quellen gemäß § 37b Absatz 8 Satz 3 festzulegen und dabei insbesondere
+
+a) das Berechnungsverfahren für die Treibhausgasemissionen,
+
+b) das Nachweisverfahren sowie die Übertragbarkeit der Nachweise und
+
+c) die Anforderungen an die erneuerbaren Energiequellen zur Erzeugung des Wasserstoffs.
+
+In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden. Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 oder 19 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen oder Wasserstoff aus biogenen Quellen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 3 oder 4 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zur Durchführung der §§ 37a bis 37c sowie der auf Absatz 2 beruhenden Rechtsverordnungen zu erlassen und darin insbesondere
 
@@ -1013,7 +1102,7 @@ In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung eine
 
 3. die erforderlichen Nachweise und die Überwachung der Einhaltung der Anforderungen an Biokraftstoffe sowie die hierfür erforderlichen Probenahmen näher zu regeln,
 
-4. zu bestimmen, dass das Entstehen von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 an das Inverkehrbringen einer bestimmten Mindestmenge an Kraftstoff geknüpft wird.
+4. zu bestimmen, dass das Entstehen von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 an das Inverkehrbringen einer bestimmten Mindestmenge an Kraftstoff geknüpft wird.
 
 # § 37e – Gebühren und Auslagen; Verordnungsermächtigung
 
@@ -1041,7 +1130,42 @@ werden zur Deckelung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
 
 # § 37g – Bericht der Bundesregierung
 
-Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen Kommission vorgelegt wurde, übermittelt die Bundesregierung den Bericht nach § 64 der Biokraftstoff-Nachhaltigkeitsverordnung dem Deutschen Bundestag und dem Bundesrat.
+Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen Kommission vorgelegt wurde, übermittelt die Bundesregierung den Bericht nach § 64 der Biokraftstoff-Nachhaltigkeitsverordnung dem Deutschen Bundestag und dem Bundesrat. Die Bundesregierung evaluiert die §§ 37a bis 37f dieses Gesetzes sowie die auf Grund dieser Regelungen erlassenen Verordnungen, insbesondere die Verordnung zur Durchführung der Regelungen der Biokraftstoffquote, die Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote, die Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen sowie die Biokraftstoff-Nachhaltigkeitsverordnung und legt dem Deutschen Bundestag bis zum 31. März 2024 und dann alle zwei Jahre einen Erfahrungsbericht vor. Der Bericht enthält insbesondere Angaben über
+
+1. die Entwicklung des nachhaltigen Rohstoffpotenzials für die unterschiedlichen Erfüllungsoptionen,
+
+2. den Stand der technischen Entwicklung und Kosten unterschiedlicher Herstellungstechnologien für Biokraftstoffe, Wasserstoff, strombasierte Kraftstoffe und anderer Erfüllungsoptionen,
+
+3. die Produktionskapazitäten unterschiedlicher Erfüllungsoptionen, insbesondere der Mengen an Wasserstoff und strombasierten Kraftstoffen, die durch dieses Gesetz angereizt werden,
+
+4. die Einhaltung der Nachhaltigkeitskriterien und Auswirkungen der ansteigenden Treibhausgasminderungs-Quote auf Natur, Umwelt und Artenvielfalt,
+
+5. die Angemessenheit der Höhe der unterschiedlichen Anrechnungsfaktoren der betreffenden Erfüllungsoptionen und der Höhe der Ausgleichsabgaben.
+
+Der Bericht gibt auch Empfehlungen zur Weiterentwicklung des Regelwerkes.
+
+# § 37h – Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung
+
+(1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt die Summe der für ein Verpflichtungsjahr an die zuständige Stelle (§ 37d Absatz 1) gemeldeten Mengen an elektrischem Strom zur Verwendung in Straßenfahrzeugen im Bundesanzeiger bekannt.
+
+(2) Übersteigt die Summe der nach Absatz 1 bekannt gemachten Menge elektrischen Stroms  
+  
+
+|     |                      |               |
+|:----|:---------------------|:--------------|
+| 1\. | im Kalenderjahr 2022 | 5 Petajoule,  |
+| 2\. | im Kalenderjahr 2023 | 9 Petajoule,  |
+| 3\. | im Kalenderjahr 2024 | 13 Petajoule, |
+| 4\. | im Kalenderjahr 2025 | 19 Petajoule, |
+| 5\. | im Kalenderjahr 2026 | 25 Petajoule, |
+| 6\. | im Kalenderjahr 2027 | 38 Petajoule, |
+| 7\. | im Kalenderjahr 2028 | 53 Petajoule, |
+| 8\. | im Kalenderjahr 2029 | 71 Petajoule, |
+| 9\. | im Kalenderjahr 2030 | 88 Petajoule, |
+
+  
+  
+erhöht die Bundesregierung den Prozentsatz nach § 37a Absatz 4 Satz 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates für alle nachfolgenden Verpflichtungsjahre. Eine Erhöhung durch eine Rechtsverordnung nach Satz 1 erfolgt für das übernächste Verpflichtungsjahr. Die Erhöhung hat sicherzustellen, dass andere Erfüllungsoptionen in gleichem Maße zur Erfüllung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 eingesetzt werden können. Die Erhöhung hat der halben bis eineinhalbfachen Treibhausgasminderung durch die Menge an elektrischem Strom, die die Menge nach Satz 1 übersteigt, gegenüber der Summe der Referenzwerte aller Verpflichteten zu entsprechen.
 
 # § 38 – Beschaffenheit und Betrieb von Fahrzeugen
 
@@ -1613,6 +1737,8 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3a. entgegen § 31 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
+3b. einer Rechtsverordnung nach § 37d Absatz 3 Nummer 3 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
 4. entgegen § 52 Absatz 2 Satz 1, 3 oder 4, auch in Verbindung mit Absatz 3 Satz 1 oder Absatz 6 Satz 1 Auskünfte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Maßnahme nicht duldet, Unterlagen nicht vorlegt, beauftragte Personen nicht hinzuzieht oder einer dort sonst genannten Verpflichtung zuwiderhandelt,
 
 5. entgegen § 52 Absatz 3 Satz 2 die Entnahme von Stichproben nicht gestattet,
@@ -1687,7 +1813,7 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 (10) § 47 Absatz 5a gilt für die Verfahren zur Aufstellung oder Änderung von Luftreinhalteplänen nach § 47, die nach dem 25. Juni 2005 eingeleitet worden sind.
 
-(11) Für Kraftstoffe, die bis zum 31. Dezember 2014 in Verkehr gebracht werden, finden die §§ 37a bis 37f in der am 31. Dezember 2014 geltenden Fassung Anwendung. Die weitere Behandlung von Biokraftstoffmengen, die den Mindestanteil für das Kalenderjahr 2014 übersteigen und deren Anrechnung auf das Verpflichtungsjahr 2015 vom Verpflichteten beantragt wurde, richtet sich ausschließlich nach den am 1. Januar 2015 geltenden Regelungen.
+(11) (weggefallen)
 
 # § 67a – Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
 

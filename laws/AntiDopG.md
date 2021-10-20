@@ -93,6 +93,16 @@ b) gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetz
 
 (8) Nach Absatz 2 wird nicht bestraft, wer freiwillig die tatsächliche Verfügungsgewalt über das Dopingmittel aufgibt, bevor er es anwendet oder anwenden lässt.
 
+# § 4a – Strafmilderung oder Absehen von Strafe
+
+Das Gericht kann die Strafe nach § 49 Absatz 1 des Strafgesetzbuches mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei Jahren verwirkt hat, von Strafe absehen, wenn der Täter
+
+1. durch freiwilliges Offenbaren seines Wissens wesentlich dazu beigetragen hat, dass eine Straftat nach § 4, die mit seiner Tat in Zusammenhang steht, aufgedeckt werden konnte, oder
+
+2. freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart, dass eine Straftat nach § 4 Absatz 4, die mit seiner Tat in Zusammenhang steht und von deren Planung er weiß, noch verhindert werden kann.
+
+War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung nach Satz 1 Nummer 1 über den eigenen Tatbeitrag hinaus erstrecken. § 46b Absatz 2 und 3 des Strafgesetzbuches gilt entsprechend.
+
 # § 5 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
