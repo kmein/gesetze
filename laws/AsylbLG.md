@@ -165,7 +165,8 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (5) Liegen die Ergebnisse einer bundesweiten neuen Einkommens- und Verbrauchsstichprobe vor, werden die Höhe des Geldbetrags für alle notwendigen persönlichen Bedarfe und die Höhe des notwendigen Bedarfs neu festgesetzt.
 
-(+++ Hinweis: Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2020 aus Bek. v. 1.10.2019 I 1429 +++)
+(+++ Hinweis: Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2020 aus Bek. v. 1.10.2019 I 1429  
+Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2022 aus Bek. v. 12.10.2021 I 4678 +++)
 
 # § 4 – Leistungen bei Krankheit, Schwangerschaft und Geburt
 
