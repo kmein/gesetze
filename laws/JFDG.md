@@ -175,4 +175,6 @@ Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten nach § 1
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
+# § 14 – (weggefallen)
+
 # § 15 – (weggefallen)

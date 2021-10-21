@@ -143,7 +143,15 @@ Sachverständige im Sinne der §§ 36 und 36a der Gewerbeordnung;
 
 24. sind die für die Kontrolle der Außengrenzen zuständigen Behörden  
 
-die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des Zollverwaltungsgesetzes.
+die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des Zollverwaltungsgesetzes,
+
+25. ist Tankstelle eine öffentliche Tankanlage mit Personal, an der über eine ortsfeste Vorrichtung Kraftstoffe für Personenkraftwagen abgegeben werden können;
+
+26. ist Mehrproduktzapfsäule eine Anlage zur Abgabe des Kraftstoffes, die mehrere Kraftstoffarten über getrennte Zapfventile bereitstellen kann; dabei ist unerheblich, ob an der Mehrproduktzapfsäule ein oder mehrere Kraftfahrzeuge gleichzeitig tanken können;
+
+27. ist Energiekostenvergleich die Darstellung der auf Kostenbasis normierten Energieverbrauchsangaben;
+
+28. ist Tankstellenbetreiber, wer die tatsächliche oder rechtliche Möglichkeit hat, die notwendigen Entscheidungen im Hinblick auf die Anzeige des Energiekostenvergleiches gemäß Anlage 4 zu treffen.
 
 # § 3 – Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
 
@@ -166,6 +174,14 @@ b) der Lieferant und der Händler Informationen im Sinne von Artikel 5 Absatz 3 
 c) der Händler einen Aushang am Verkaufsort anbringt und der Hersteller des Kraftfahrzeugs und der Händler einen Leitfaden am Verkaufsort auf Anfrage unverzüglich und unentgeltlich aushändigen.
 
 (3) Soweit in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union Anforderungen an die Werbung festgelegt sind, haben der Hersteller des Kraftfahrzeugs, der Lieferant und der Händler die hierin genannten Angaben zu machen. Das gilt entsprechend für sonstige Werbeinformationen.
+
+(4) Zur Umsetzung der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1), die durch die Delegierte Verordnung (EU) 2018/674 (ABl. L 114 vom 4.5.2018, S. 1) geändert worden ist, und um künftige Kaufentscheidungen der Verbraucher bei der Personenkraftfahrzeugwahl zu unterstützen, haben die Tankstellenbetreiber von Tankstellen mit mehr als sechs Mehrproduktzapfsäulen sicherzustellen, dass während der Geschäftszeiten der Tankstelle ein Energiekostenvergleich nach den Maßgaben des Artikels 1 der Durchführungsverordnung (EU) 2018/732 der Kommission vom 17. Mai 2018 über eine gemeinsame Methode für den auf eine Maßeinheit bezogenen Preisvergleich für alternative Kraftstoffe gemäß der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates (ABl. L 123 vom 18.5.2018, S. 85), die durch die Durchführungsverordnung (EU) 2020/858 (ABl. L 195 vom 19.6.2020, S. 57) geändert worden ist, und nach den nachfolgenden Bestimmungen angebracht ist:
+
+1. der Energiekostenvergleich ist gemäß dem Muster in Anlage 4 durch sichtbaren Aushang entweder an mindestens der Hälfte der Mehrproduktzapfsäulen oder an einer gut sichtbaren Stelle im Bereich des Zahlungsortes anzubringen, dabei sollte das Format an den Mehrproduktzapfsäulen DIN A3 und im Bereich des Zahlungsortes mindestens DIN A2 sein; bei einer digitalen Darstellung muss eine Bildschirmgröße von mindestens 19 Zoll sichergestellt werden, wobei der Energiekostenvergleich mindestens alle 2,5 Minuten für jeweils 30 Sekunden angezeigt werden muss;
+
+2. der Energiekostenvergleich nach Satz 2 ist jeweils bis zum vierten Werktag nach einem Quartalsbeginn zu aktualisieren.
+
+Die amtliche Veröffentlichung des Energiekostenvergleiches erfolgt auf der Internetseite des Bundesministeriums für Wirtschaft und Energie jeweils spätestens vier Wochen vor Quartalsbeginn. Der nach Landesrecht zuständigen Behörde obliegt die Überwachung der Erfüllung der Pflichten nach Satz 1.
 
 # § 4 – Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -253,7 +269,7 @@ Absatz 1 Satz 2 sowie die Absätze 2 und 3 gelten für die in Absatz 4 genannten
 
 # § 6 – Marktüberwachungskonzept
 
-(1) Die Marktüberwachungsbehörden haben für die in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union genannten Produkte in Bezug auf die in diesen Rechtsvorschriften genannten Anforderungen und den Anforderungen dieses Gesetzes eine wirksame Marktüberwachung auf der Grundlage eines Marktüberwachungskonzepts zu gewährleisten. Das Marktüberwachungskonzept soll insbesondere Folgendes umfassen:
+(1) Die Marktüberwachungsbehörden haben für die in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union genannten Produkte in Bezug auf die in diesen Rechtsvorschriften genannten Anforderungen und den Anforderungen dieses Gesetzes mit Ausnahme von § 3 Absatz 4 eine wirksame Marktüberwachung auf der Grundlage eines Marktüberwachungskonzepts zu gewährleisten. Das Marktüberwachungskonzept soll insbesondere Folgendes umfassen:
 
 1. die Erhebung und Auswertung von Informationen zur Ermittlung von Mängelschwerpunkten und Warenströmen,
 
@@ -271,7 +287,7 @@ Werden die in diesem Gesetz, einer Rechtsverordnung nach § 4 oder einer Verordn
 
 # § 8 – Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
-(1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Weise und in angemessenem Umfang, ob die Anforderungen dieses Gesetzes, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union an die Verbrauchskennzeichnung, sonstige Produktinformationen sowie an die Werbung und sonstige Werbeinformationen erfüllt sind. Sofern es im Einzelfall angezeigt und erforderlich ist, überprüfen die Marktüberwachungsbehörden die erforderlichen Unterlagen oder führen physische Kontrollen und Laborprüfungen durch. Weitergehende Marktüberwachungsmaßnahmen in anderen Rechtsvorschriften bleiben unberührt.
+(1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Weise und in angemessenem Umfang, ob die Anforderungen dieses Gesetzes mit Ausnahme von § 3 Absatz 4, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union an die Verbrauchskennzeichnung, sonstige Produktinformationen sowie an die Werbung und sonstige Werbeinformationen erfüllt sind. Sofern es im Einzelfall angezeigt und erforderlich ist, überprüfen die Marktüberwachungsbehörden die erforderlichen Unterlagen oder führen physische Kontrollen und Laborprüfungen durch. Weitergehende Marktüberwachungsmaßnahmen in anderen Rechtsvorschriften bleiben unberührt.
 
 (2) Die Marktüberwachungsbehörden treffen die erforderlichen Maßnahmen, wenn sie den begründeten Verdacht haben, dass die Verbrauchskennzeichnung oder sonstige Produktinformationen nicht die Anforderungen dieses Gesetzes, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union erfüllen. Sie sind insbesondere befugt,
 
@@ -353,7 +369,7 @@ Die Marktüberwachungsbehörde widerruft oder ändert eine Maßnahme nach den S�
 
 1. der beauftragten Stelle im Sinne des § 13 für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten,
 
-2. dem Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen.
+2. dem Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen sowie des Energiekostenvergleiches gemäß § 3 Absatz 4.
 
 (2) Die zuständigen obersten Landesbehörden überprüfen regelmäßig die Funktionsweise der Marktüberwachungstätigkeiten und informieren hierüber in nicht personenbezogener Form
 
@@ -392,6 +408,8 @@ Beauftragte Stelle für die Verbrauchskennzeichnung von energieverbrauchsrelevan
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. einer Rechtsverordnung nach § 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+1a. entgegen § 3 Absatz 4 Satz 1 nicht sicherstellt, dass ein Energiekostenvergleich angebracht ist,
 
 2. einer vollziehbaren Anordnung nach § 10 Absatz 3 Satz 1 zuwiderhandelt,
 
@@ -481,3 +499,17 @@ Ab den folgenden Jahren kann das Etikett durch die in § 16 Absatz 1 genannten B
 |       7\.       |    2022     | bis einschließlich 2005                          |
 |       8\.       |    2023     | bis einschließlich 2008                          |
 |       9\.       |    2024     | ab 2009, sofern sie mindestens 15 Jahre alt sind |
+
+# Anlage 4 – (zu § 3 Absatz 4)Poster zum Energiekostenvergleich
+
+(Fundstelle: BGBl. I 3062, 3063)
+
+  
+
+Vorlage DIN A2
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3026-1_0010.jpg)
+
+Vorlage DIN A3
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j3026-1_0020.jpg)

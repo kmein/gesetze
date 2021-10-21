@@ -261,17 +261,19 @@ Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und
 
 (1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung eines Schienenwegs oder einer sonstigen Bahnbetriebsanlage nach den Nummern 14.7, 14.8 und 14.11 der Anlage 1, soweit sie lediglich aus den folgenden Einzelmaßnahmen besteht:
 
-1. den im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen Baumaßnahmen, insbesondere der Ausstattung einer Bahnstrecke mit Signal- und Sicherungstechnik des Standards European Rail Traffic Management System (ERTMS),
+1. der Ausstattung einer bestehenden Bahnstrecke im Zuge des Wiederaufbaus nach einer Naturkatastrophe mit einer Oberleitung einschließlich dafür notwendiger räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 
-2. dem barrierefreien Umbau oder der Erhöhung oder Verlängerung eines Bahnsteigs,
+2. den im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen Baumaßnahmen, insbesondere der Ausstattung einer Bahnstrecke mit Signal- und Sicherungstechnik des Standards European Rail Traffic Management System (ERTMS),
 
-3. der technischen Sicherung eines Bahnübergangs,
+3. dem barrierefreien Umbau oder der Erhöhung oder Verlängerung eines Bahnsteigs,
 
-4. der Erneuerung eines Eisenbahnübergangs,
+4. der technischen Sicherung eines Bahnübergangs,
 
-5. der Erneuerung und Änderung eines Durchlasses sowie
+5. der Erneuerung eines Eisenbahnübergangs,
 
-6. der Herstellung von Überleitstellen für Gleiswechselbetriebe.
+6. der Erneuerung und Änderung eines Durchlasses sowie
+
+7. der Herstellung von Überleitstellen für Gleiswechselbetriebe.
 
 (2) Eine standortbezogene Vorprüfung entsprechend § 7 Absatz 2 wird zur Feststellung der UVP-Pflicht durchgeführt für
 

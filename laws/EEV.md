@@ -57,9 +57,11 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 8. Erlöse auf Grund von Rechtsverordnungen nach § 88 oder § 88a des Erneuerbare-Energien-Gesetzes, die dort als Einnahmen im Sinne dieses Absatzes benannt werden,
 
-9. positive Differenzbeträge und Zinsen nach § 6 Absatz 3 der Erneuerbare-Energien-Ausführungsverordnung und
+9. positive Differenzbeträge und Zinsen nach § 6 Absatz 3 der Erneuerbare-Energien-Ausführungsverordnung,
 
-10. Zahlungen nach § 55 des Erneuerbare-Energien-Gesetzes und nach § 60 des Windenergie-auf-See-Gesetzes.
+10. Zahlungen nach § 55 des Erneuerbare-Energien-Gesetzes und nach § 60 des Windenergie-auf-See-Gesetzes und
+
+11. Zahlungen nach § 38d Absatz 5 des Erneuerbare-Energien-Gesetzes.
 
 (3a) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsansätze zur Absenkung der EEG-Umlage im Entwurf des Haushaltsgesetzes für das nachfolgende Kalenderjahr zu berücksichtigen, den die Bundesregierung nach § 29 Absatz 1 der Bundeshaushaltsordnung beschließt. Sofern im Haushaltsgesetz des dem Kalenderjahr nach Satz 1 vorangehenden Kalenderjahres eine Verpflichtungsermächtigung für diesen Zweck veranschlagt wurde, richtet sich die Höhe der Zahlung nach dem Betrag, der von der Bundesrepublik Deutschland in einem Bescheid an die Übertragungsnetzbetreiber festgesetzt worden ist, wenn der Bescheid den Übertragungsnetzbetreibern spätestens einen Werktag vor der Veröffentlichung der EEG-Umlage nach § 5 Absatz 1 bekannt gegeben wird; dabei besteht keine Pflicht zum Erlass eines Bescheides.
 
@@ -83,7 +85,7 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 9. Ausgaben nach § 6 der Erneuerbare-Energien-Ausführungsverordnung und
 
-10. geleistete Erstattungen nach § 36k des Erneuerbare-Energien-Gesetzes.
+10. geleistete Erstattungen nach § 6 Absatz 5 oder § 38d Absatz 6 des Erneuerbare-Energien-Gesetzes.
 
 (5) Differenzbeträge zwischen Einnahmen und Ausgaben sind zu verzinsen. Der Zinssatz beträgt für den Kalendermonat 0,3 Prozentpunkte über dem Monatsdurchschnitt des Euro Interbank Offered Rate-Satzes für die Beschaffung von Einmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europäischen Währungsunion (EURIBOR) mit einer Laufzeit von einem Monat. Soweit der tatsächliche Zinssatz den Zinssatz nach Satz 2 übersteigt, sind auch diese Zinseinnahmen als Einnahmen nach Absatz 3 Nummer 4 anzusehen.
 
@@ -99,7 +101,7 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 (10) Weicht im Fall des Absatzes 3a Satz 1 ein dem Entwurf des Haushaltsgesetzes nachfolgend vom Haushaltsgesetzgeber beschlossenes Haushaltsgesetz wesentlich von den Ansätzen des Entwurfs des Haushaltsgesetzes ab, legt die Bundesregierung rechtzeitig vor der Ermittlung der nächsten EEG-Umlage einen Vorschlag für eine Neugestaltung des Absatzes 3a vor.
 
-(11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Absätzen 3 und 4 für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 Buchstabe b des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom eindeutig von den sonstigen Einnahmen und Ausgaben nach den Absätzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
+(11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Absätzen 3 und 4 für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom mit Ausnahme von im Jahr 2021 geleisteten Aufschlägen nach § 23b Absatz 2 des Erneuerbare-Energien-Gesetzes eindeutig von den sonstigen Einnahmen und Ausgaben nach den Absätzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 

@@ -13,13 +13,13 @@ Die Gewährung der Heilfürsorge in Form der unentgeltlichen truppenärztlichen 
 
 # § 2 – Unentgeltliche truppenärztliche Versorgung bei gesundheitlichen Schädigungen als Folge von Wehrdienstbeschädigungen
 
-(1) Liegt bei einer Soldatin oder bei einem Soldaten eine gesundheitliche Schädigung als Folge einer Wehrdienstbeschädigung oder als Folge einer Schädigung im Sinne der §§ 81a bis 81e des Soldatenversorgungsgesetzes vor, sind Leistungen im Rahmen der Heilbehandlung nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz zu gewähren, wenn diese für die Soldatin oder den Soldaten günstiger sind. Das gilt auch, wenn das Bundesamt für das Personalmanagement der Bundeswehr auf Grund einer truppenärztlichen, truppenzahnärztlichen oder weiteren fachärztlichen oder fachzahnärztlichen Stellungnahme festgestellt hat, dass eine solche gesundheitliche Schädigung wahrscheinlich vorliegt; die Leistungen nach Absatz 4 werden erst nach Anerkennung einer Wehrdienstbeschädigung gewährt.
+(1) Liegt bei einer Soldatin oder bei einem Soldaten eine gesundheitliche Schädigung als Folge einer Wehrdienstbeschädigung nach § 81 des Soldatenversorgungsgesetzes oder als Folge einer Schädigung im Sinne der §§ 81a bis 81e des Soldatenversorgungsgesetzes vor, sind Leistungen im Rahmen der Heilbehandlung nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung zu gewähren, wenn diese für die Soldatin oder den Soldaten günstiger sind. Das gilt auch, wenn das Bundesamt für das Personalmanagement der Bundeswehr auf Grund einer truppenärztlichen, truppenzahnärztlichen oder weiteren fachärztlichen oder fachzahnärztlichen Stellungnahme festgestellt hat, dass eine solche gesundheitliche Schädigung wahrscheinlich vorliegt; die Leistungen nach Absatz 4 werden erst nach Anerkennung einer Wehrdienstbeschädigung gewährt.
 
-(2) Ist eine Soldatin oder ein Soldat wegen einer nach den §§ 81a bis 81e des Soldatenversorgungsgesetzes anerkannten gesundheitlichen Schädigung schwerbeschädigt, gilt Absatz 1 auch für die Behandlung einer gesundheitlichen Schädigung, die nicht Folge einer Wehrdienstbeschädigung oder Folge einer Schädigung im Sinne der §§ 81a bis 81e des Soldatenversorgungsgesetzes ist.
+(2) Ist eine Soldatin oder ein Soldat wegen einer nach den §§ 81 und 81a bis 81e des Soldatenversorgungsgesetzes anerkannten gesundheitlichen Schädigung schwerbeschädigt, gilt Absatz 1 auch für die Behandlung einer gesundheitlichen Schädigung, die nicht Folge einer Wehrdienstbeschädigung oder Folge einer Schädigung im Sinne der §§ 81 und 81a bis 81e des Soldatenversorgungsgesetzes ist.
 
 (3) Zur Beseitigung von Folgezuständen von Wehrdienstbeschädigungen können auch Behandlungen aus überwiegend kosmetischen Gründen gewährt werden, wenn nach fachärztlichem oder fachzahnärztlichem Gutachten ansonsten die Dienstfähigkeit beeinträchtigt ist.
 
-(4) Für Soldatinnen und Soldaten mit Wehrdienstbeschädigungen sind auch Leistungen nach § 11 Absatz 3 und § 13 des Bundesversorgungsgesetzes in Verbindung mit der Orthopädieverordnung und nach § 14 des Bundesversorgungsgesetzes zu gewähren. Für Folgen einer Wehrdienstbeschädigung, die während des laufenden Wehrdienstverhältnisses eingetreten sind, werden auch Leistungen nach § 15 des Bundesversorgungsgesetzes und der Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes vom 31. Januar 1972 (BGBl. I S. 105) in der jeweils geltenden Fassung gewährt.
+(4) Für Soldatinnen und Soldaten mit Wehrdienstbeschädigungen sind auch Leistungen nach § 11 Absatz 3 und § 13 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung in Verbindung mit der Orthopädieverordnung und nach § 14 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung zu gewähren. Für Folgen einer Wehrdienstbeschädigung, die während des laufenden Wehrdienstverhältnisses eingetreten sind, werden auch Leistungen nach § 15 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung und der Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung vom 31. Januar 1972 (BGBl. I S. 105) in der bis zum 31. Dezember 2023 geltenden Fassung gewährt.
 
 # § 3 – Verzicht auf unentgeltliche truppenärztliche Versorgung
 
@@ -51,7 +51,7 @@ Zu den Maßnahmen zur Verhütung und Früherkennung von Krankheiten gehören
 
 1. ärztliche Untersuchungen zur Früherkennung von Krankheiten,
 
-2. Schutzimpfungen im notwendigen Umfang einschließlich medikamentöser Prophylaxe, ausgenommen Schutzimpfungen anlässlich privater Auslandsreisen, und
+2. Schutzimpfungen im notwendigen Umfang einschließlich medikamentöser Prophylaxe, ausgenommen Schutzimpfungen und medikamentöser Prophylaxe und medikamentöser Prophylaxe anlässlich privater Auslandsreisen, und
 
 3. sonstige medizinische Prophylaxemaßnahmen.
 
@@ -67,7 +67,7 @@ Zu den Maßnahmen zur Verhütung und Früherkennung von Krankheiten gehören
 
 (2) Medizinische Vorsorgeleistungen können gewährt werden:
 
-1. ambulant in einem nach Anlage 15 zur Bundesbeihilfeverordnung anerkannten Heilbad oder Kurort,
+1. ambulant in einem anerkannten Heilbad oder anerkannten Kurort,
 
 2. als vollstationäre Behandlung in einer Vorsorgeeinrichtung, mit der ein Vertrag nach § 111 des Fünften Buches Sozialgesetzbuch besteht, oder
 
@@ -199,7 +199,7 @@ Die Entscheidung über die medizinische Notwendigkeit der Mitaufnahme einer Begl
 
 # § 13 – Medizinische Rehabilitationsmaßnahmen
 
-(1) Ärztinnen und Ärzte der Bundeswehr können auf Empfehlung einer Fachärztin oder eines Facharztes der Bundeswehr stationäre oder ambulante medizinische Rehabilitationsmaßnahmen verordnen. Zu den medizinischen Rehabilitationsmaßnahmen gehören auch Anschlussheilbehandlungen im Anschluss an stationäre Krankenhausbehandlungen; sie werden durch die behandelnde Krankenhausärztin oder den behandelnden Krankenhausarzt empfohlen.
+(1) Ärztinnen und Ärzte der Bundeswehr können auf Empfehlung einer Fachärztin oder eines Facharztes der Bundeswehr stationäre oder ambulante medizinische Rehabilitationsmaßnahmen verordnen. Zu den medizinischen Rehabilitationsmaßnahmen gehören auch Anschlussheilbehandlungen im Anschluss an stationäre Krankenhausbehandlungen; sie werden durch die behandelnde Krankenhausärztin oder den behandelnden Krankenhausarzt empfohlen. Stationäre medizinische Rehabilitationsmaßnahmen sind grundsätzlich in Einrichtungen durchzuführen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 des Fünften Buches Sozialgesetzbuch besteht. Bei medizinischem Bedarf können auch ergänzende Leistungen zur Rehabilitation im Sinne von § 43 Absatz 1 des Fünften Buches Sozialgesetzbuch gewährt werden.
 
 (2) Für Mütter und Väter können auch aus medizinischen Gründen erforderliche Rehabilitationsmaßnahmen in einer Einrichtung der Elly Heuss-Knapp-Stiftung – Deutsches Müttergenesungswerk – verordnet werden. Rehabilitationsmaßnahmen können auch in gleichartigen Einrichtungen in Anspruch genommen werden, mit denen ein Versorgungsvertrag nach § 111a des Fünften Buches Sozialgesetzbuch besteht. Kosten für die Mitaufnahme von Kindern, die das zwölfte Lebensjahr noch nicht vollendet haben und selbst nicht behandlungsbedürftig sind, werden übernommen. In Ausnahmefällen ist auch die Übernahme von Kosten für die Mitaufnahme älterer Kinder möglich. Kosten für die Mitaufnahme und Behandlung behandlungsbedürftiger Kinder werden nicht übernommen.
 
@@ -223,9 +223,9 @@ Die Entscheidung über die medizinische Notwendigkeit der Mitaufnahme einer Begl
 
 (3) Heilmittel werden wenn möglich in Einrichtungen der Bundeswehr, sonst von zivilen Angehörigen der Medizinfachberufe angewandt.
 
-# § 15 – Arzneimittel und Medizinprodukte
+# § 15 – Arzneimittel und Medizinprodukte, einschließlich digitaler Gesundheitsanwendungen
 
-(1) Arzneimittel und Medizinprodukte, die von einer Ärztin oder einem Arzt der Bundeswehr oder einer Zahnärztin oder einem Zahnarzt der Bundeswehr verordnet worden sind, werden aus Beständen der Bundeswehr ausgegeben oder, sofern die Ausgabe aus Beständen der Bundeswehr nicht möglich ist, auf Grund ärztlicher oder zahnärztlicher Verordnung von den Soldatinnen und Soldaten in zivilen Apotheken beschafft.
+(1) Arzneimittel und Medizinprodukte, einschließlich digitaler Gesundheitsanwendungen im Sinne von § 33a des Fünften Buches Sozialgesetzbuch die von einer Ärztin oder einem Arzt der Bundeswehr oder einer Zahnärztin oder einem Zahnarzt der Bundeswehr verordnet worden sind, werden aus Beständen der Bundeswehr ausgegeben oder, sofern die Ausgabe aus Beständen der Bundeswehr nicht möglich ist, auf Grund ärztlicher oder zahnärztlicher Verordnung von den Soldatinnen und Soldaten in zivilen Apotheken oder bei anderen zugelassenen Leistungserbringern beschafft.
 
 (2) Keine Arzneimittel sind
 
@@ -263,7 +263,7 @@ Der Anspruch besteht nur, soweit die Versorgung medizinisch notwendig ist, um
 
 6. Pflegebedürftigkeit zu vermeiden.
 
-(2) Hilfsmittel, die in der Orthopädieverordnung vom 4. Oktober 1989 (BGBl. I S. 1834), die zuletzt durch Artikel 19 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) geändert worden ist, in Anlage 11 zur Bundesbeihilfeverordnung oder im Hilfsmittelverzeichnis des GKV-Spitzenverbandes in seiner jeweils jüngsten auf der Internetseite des GKV-Spitzenverbandes (www.gkv-spitzenverband.de) veröffentlichten Fassung aufgeführt sind, können durch Truppenärztinnen und Truppenärzte sowie durch Fachärztinnen und Fachärzte der Bundeswehr verordnet werden.
+(2) Hilfsmittel, die in Anlage 11 zur Bundesbeihilfeverordnung oder im Hilfsmittelverzeichnis des GKV-Spitzenverbandes in seiner jeweils jüngsten auf der Internetseite des GKV-Spitzenverbandes (www.gkv-spitzenverband.de) veröffentlichten Fassung aufgeführt sind, können durch Truppenärztinnen und Truppenärzte sowie durch Fachärztinnen und Fachärzte der Bundeswehr verordnet werden.
 
 (3) Für Hilfsmittel, die nicht in den in Absatz 2 genannten Regelungswerken aufgeführt sind, gilt Absatz 2 mit der Maßgabe entsprechend, dass sie ausnahmsweise mit vorheriger Zustimmung des Bundesministeriums der Verteidigung nur dann verordnet werden dürfen, wenn es sich nicht um Gegenstände handelt, die
 
@@ -335,27 +335,33 @@ Die Kosten der häuslichen Krankenpflege werden bis zur Höhe des tariflichen od
 
 4. ambulante Palliativversorgung.
 
-(3) Die häusliche Krankenpflege soll nicht länger als vier Wochen dauern. Das gilt nicht für die häusliche Behandlungspflege zur Sicherung des Ziels der ärztlichen Behandlung und bei ambulanter Palliativversorgung.
+(3) Bei schwerer Krankheit oder akuter Verschlimmerung einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung, erhalten Soldatinnen und Soldaten die erforderliche Grundpflege und hauswirtschaftliche Versorgung an einem geeigneten Ort im Sinne von § 37 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch. Satz 1 gilt nicht, wenn bei der Soldatin oder dem Soldaten eine Pflegebedürftigkeit der Pflegegrade 2, 3, 4 oder 5 vorliegt.
 
-(4) Der Anspruch auf häusliche Krankenpflege besteht nur, soweit eine im Haushalt lebende Person die Soldatin oder den Soldaten nicht in dem erforderlichen Umfang pflegen und versorgen kann. Die Verordnung von Grundpflege und hauswirtschaftlicher Versorgung ist im Fall der Sicherungspflege nach Absatz 1 Satz 1 Nummer 3 nur zulässig, wenn keine Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch festgestellt wurde.
+(4) Die häusliche Krankenpflege soll nicht länger als vier Wochen dauern. Das gilt nicht für die häusliche Behandlungspflege zur Sicherung des Ziels der ärztlichen Behandlung und bei ambulanter Palliativversorgung.
 
-(5) Wird häusliche Krankenpflege im Sinne der Absätze 1 bis 3 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der gepflegten Person durchgeführt, sind nur erstattungsfähig
+(5) Der Anspruch auf häusliche Krankenpflege besteht nur, soweit eine im Haushalt lebende Person die Soldatin oder den Soldaten nicht in dem erforderlichen Umfang pflegen und versorgen kann. Die Verordnung von Grundpflege und hauswirtschaftlicher Versorgung ist im Fall der Sicherungspflege nach Absatz 1 Satz 1 Nummer 3 nur zulässig, wenn keine Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch festgestellt wurde.
+
+(6) Wird häusliche Krankenpflege im Sinne der Absätze 1 bis 3 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der gepflegten Person durchgeführt, sind nur erstattungsfähig
 
 1. Fahrtkosten der die häusliche Krankenpflege durchführenden Person und
 
-2. eine an die die häusliche Krankenpflege durchführende Person gezahlte Vergütung bis zur Höhe der infolge der häuslichen Krankenpflege ausgefallenen Arbeitseinkünfte.
+2. eine angemessene Entschädigung für den Verdienstausfall der Person, die die häusliche Krankenpflege erbringt.
 
-(6) In den Fällen des § 2 Absatz 1 und 2 ist § 10 der Heilverfahrensverordnung anzuwenden.
+(7) In den Fällen des § 2 Absatz 1 und 2 ist § 10 der Heilverfahrensverordnung anzuwenden.
 
 (+++ § 19 Abs. 1 Satz 2 u. 3: zur Anwendung vgl. § 27 Abs. 1 +++)  
 (+++ § 19 Abs. 4 Satz 1: zur Anwendung vgl. § 27 Abs. 1 +++)  
 (+++ § 19 Abs. 5: zur Anwendung vgl. § 20 Abs. 4 +++)
 
+# § 19a – Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+
+Reichen Leistungen der häuslichen Krankenpflege nach § 19 Absatz 3 bei schwerer Krankheit oder wegen akuter Verschlimmerung einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung, nicht aus, werden die Aufwendungen für eine erforderliche Kurzzeitpflege entsprechend § 42 des Elften Buches Sozialgesetzbuch für eine Übergangszeit übernommen, wenn keine Pflegebedürftigkeit mit Pflegegrad 2, 3, 4 oder 5 im Sinne des Elften Buches festgestellt ist. Die Leistung kann in zugelassenen Einrichtungen nach dem Elften Buch Sozialgesetzbuch oder in anderen geeigneten Einrichtungen erbracht werden.
+
 # § 20 – Familien- und Haushaltshilfe
 
 (1) Die notwendigen Kosten für eine Familien- und Haushaltshilfe werden übernommen, wenn
 
-1. die den Haushalt führende Soldatin oder der den Haushalt führende Soldat den Haushalt wegen einer medizinisch erforderlichen außerhäuslichen Unterbringung (§§ 10, 11 Absatz 2, §§ 13, 27 Absatz 1 Nummer 6, § 28) nicht weiterführen kann,
+1. die den Haushalt führende Soldatin oder der den Haushalt führende Soldat den Haushalt wegen einer medizinisch erforderlichen außerhäuslichen Unterbringung im Sinne von § 6 Absatz 2, §§ 10, 11 Absatz 2, §§ 13, 19a und 27 Absatz 1 Nummer 6 nicht weiterführen kann,
 
 2. im Haushalt mindestens ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist, oder eine andere Person, die pflegebedürftig ist, verbleibt und
 
@@ -379,7 +385,7 @@ insbesondere unmittelbar nach einem Krankenhausaufenthalt, unmittelbar nach eine
 
 (6) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe Kinder, die das zwölfte Lebensjahr noch nicht vollendet haben, oder im Haushalt lebende pflegebedürftige Personen in einem Heim oder in einem fremden Haushalt untergebracht, werden die Kosten hierfür bis zur Höhe der sonst notwendigen Kosten einer Familien- und Haushaltshilfe übernommen.
 
-(7) Kosten für notwendige Fahrtkosten sind in Höhe der Reisekostenvergütung nach den §§ 3, 4 und 5 Absatz 1 des Bundesreisekostengesetzes beihilfefähig.
+(7) Kosten für notwendige Fahrten sind in Höhe der Reisekostenvergütung nach den §§ 3, 4 und 5 Absatz 1 des Bundesreisekostengesetzes erstattungsfähig.
 
 (8) Für Soldatinnen und Soldaten, die sich auf dienstliche Anordnung im Ausland aufhalten, ist § 29 der Bundesbeihilfeverordnung entsprechend anzuwenden. Abweichend von § 29 Absatz 1 Nummer 2 und § 29 Absatz 3 der Bundesbeihilfeverordnung besteht ein Anspruch auf Gewährung einer Familien- und Haushaltshilfe oder Übernahme von Fahrtkosten, wenn das Kind das zwölfte Lebensjahr noch nicht vollendet hat.
 
@@ -397,7 +403,7 @@ Soziotherapie kann verordnet werden, wenn die Soldatin oder der Soldat wegen ein
 
 3. auf Veranlassung der Bundeswehr von einer zivilen Ärztin oder einem zivilen Arzt, von einer zivilen Zahnärztin oder einem zivilen Zahnarzt, von zivilen Krankenhäusern oder von anderen zivilen Einrichtungen des Gesundheitswesens, mit denen die Bundeswehr jeweils besondere Gebühren vereinbart hat.
 
-(2) Ist eine Behandlung nach Absatz 1 nicht möglich, werden die medizinisch notwendigen und wirtschaftlich angemessenen Kosten für die Behandlung entsprechend den §§ 1 bis 21 und 24 bis 30 übernommen. Sofern nicht zwingende Gründe entgegenstehen, dürfen jedoch nur diejenigen vom Leitenden Sanitätsoffizier beim Streitkräfteamt vorgegebenen Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Krankenhäuser in Anspruch genommen werden, die angemessene und ortsübliche Honorare und Vergütungen berechnen.
+(2) Ist eine Behandlung nach Absatz 1 nicht möglich, werden die medizinisch notwendigen und wirtschaftlich angemessenen Kosten für die Behandlung entsprechend den §§ 1 bis 21 und 24 bis 30 übernommen. Sofern nicht zwingende Gründe entgegenstehen, dürfen jedoch nur diejenigen vom Leitenden Sanitätsoffizier beim Streitkräfteamt vorgegebenen Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Krankenhäuser in Anspruch genommen werden, die angemessene Honorare und Vergütungen berechnen.
 
 # § 23 – Behandlung während eines privaten Aufenthaltes im Ausland
 
@@ -435,7 +441,7 @@ Bei Fahrten anlässlich eines stationären Aufenthaltes gilt der Höchstbetrag d
 
 1. Fahrten von Soldatinnen und Soldaten zu Behandlungen der Folgen einer Wehrdienstbeschädigung und
 
-2. Fahrten im Sinne der Krankentransport-Richtlinien des Gemeinsamen Bundesausschusses in der jüngsten auf der Internetseite des Gemeinsamen Bundesausschusses (www.g-ba.de) veröffentlichten Fassung.
+2. Fahrten im Sinne von § 8 und Anlage 2 der Krankentransport-Richtlinien des Gemeinsamen Bundesausschusses in der jüngsten auf der Internetseite des Gemeinsamen Bundesausschusses (www.g-ba.de) veröffentlichten Fassung.
 
 (4) Eine Fahrt gilt als an der Dienststätte angetreten oder beendet, wenn sie innerhalb der üblichen Arbeitszeit dort hätte angetreten oder beendet werden können und dies auf Grund des Reiseverlaufs vertretbar gewesen wäre. Satz 1 gilt jedoch nicht, wenn der Beginn oder das Ende der Reise an der berücksichtigungsfähigen Wohnung wirtschaftlicher ist.
 
@@ -455,11 +461,11 @@ Bei Fahrten anlässlich eines stationären Aufenthaltes gilt der Höchstbetrag d
 
 # § 26 – Verpflegungsgeld bei stationären Krankenhausbehandlungen, Rehabilitationsmaßnahmen und Vorsorgeleistungen sowie bei Unterbringung in einem Pflegeheim
 
-(1) Für Verpflegung, die bei voll- und teilstationärer Krankenhausbehandlung, bei medizinischer Rehabilitationsbehandlung oder Vorsorgeleistung sowie bei Unterbringung in einem Pflegeheim vom Dienstherrn bereitgestellt oder finanziert wird, hat die Soldatin oder der Soldat Verpflegungsgeld zu zahlen, es sei denn, es besteht ein Anspruch auf unentgeltliche Bereitstellung der Verpflegung nach § 17 des Wehrsoldgesetzes.
+(1) Für Verpflegung, die bei voll- und teilstationärer Krankenhausbehandlung, bei medizinischer Rehabilitationsbehandlung oder Vorsorgeleistung sowie bei Unterbringung in einem Pflegeheim vom Dienstherrn bereitgestellt oder finanziert wird, hat die Soldatin oder der Soldat Verpflegungsgeld zu zahlen.
 
 (2) Eine Soldatin oder ein Soldat muss kein Verpflegungsgeld zahlen, wenn
 
-1. bei ihr oder ihm eine gesundheitliche Schädigung nach den §§ 81a bis 81e des Soldatenversorgungsgesetzes vorliegt,
+1. sie oder er wegen der Folge einer Wehrdienstbeschädigung im Sinne von § 2 Absatz 1 behandelt wird,
 
 2. sie oder er sich in einem Pflegeheim aufhält und die Kosten für Verpflegung weder ganz noch anteilig übernommen werden oder
 
@@ -477,27 +483,39 @@ Bei Fahrten anlässlich eines stationären Aufenthaltes gilt der Höchstbetrag d
 
 4. Hilfe bei der Entbindung durch eine Ärztin oder einen Arzt oder durch eine Hebamme oder einen Entbindungspfleger,
 
-5. Gewährung von Arznei-, Verband-, Hilfs- und Heilmitteln nach ärztlicher Verordnung bei Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung,
+5. Haushaltshilfe unter den Voraussetzungen des § 24h des Fünften Buches Sozialgesetzbuch,
 
-6. vollstationäre Behandlung im Zusammenhang mit der Entbindung im Rahmen von § 10 Absatz 5 und 6,
+6. Gewährung von Arznei-, Verband-, Hilfs- und Heilmitteln nach ärztlicher Verordnung bei Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung,
 
-7. Ersatz der Auslagen der durch die Entbindung unmittelbar erforderlichen Fahrten und
+7. vollstationäre Behandlung im Zusammenhang mit der Entbindung im Rahmen von § 10 Absatz 5 und 6,
 
-8. Leistungen bei einem nicht rechtswidrigen Schwangerschaftsabbruch.
+8. Ersatz der Auslagen der durch die Entbindung unmittelbar erforderlichen Fahrten und
+
+9. Leistungen bei einem nicht rechtswidrigen Schwangerschaftsabbruch.
 
 (2) Sofern das Krankenhaus bei stationärem Aufenthalt der Soldatin nach der Entbindung für das gesunde, selbst nicht behandlungsbedürftige Neugeborene eine Fallpauschale verlangt, werden diese Kosten übernommen.
 
 # § 28 – Leistungen bei Pflegebedürftigkeit
 
-(1) Bei Pflegebedürftigkeit einer Soldatin oder eines Soldaten im Sinne des § 14 des Elften Buches Sozialgesetzbuch werden neben den Leistungen, auf die sie oder er nach den §§ 5 bis 27 Anspruch hat, 50 Prozent der Kosten für eine notwendige häusliche, teilstationäre oder vollstationäre Pflege in Anwendung von § 28 Absatz 2 des Elften Buches Sozialgesetzbuch übernommen. Soldatinnen und Soldaten erhalten dabei Pflegeleistungen in entsprechender Anwendung der §§ 38 bis 39b der Bundesbeihilfeverordnung. In den Fällen des § 2 ist § 10 der Heilverfahrensverordnung entsprechend anzuwenden, wenn dies für die Soldatin oder den Soldaten günstiger ist.
+(1) Bei Pflegebedürftigkeit einer Soldatin oder eines Soldaten im Sinne des § 14 des Elften Buches Sozialgesetzbuch werden neben den Leistungen, auf die sie oder er nach den §§ 5 bis 27 Anspruch hat, 50 Prozent der Kosten für eine notwendige häusliche, teilstationäre oder vollstationäre Pflege in Anwendung von § 28 Absatz 2 des Elften Buches Sozialgesetzbuch übernommen. Soldatinnen und Soldaten erhalten dabei Pflegeleistungen in entsprechender Anwendung der §§ 37 bis 39b der Bundesbeihilfeverordnung.
 
-(2) Auf die Leistungen der unentgeltlichen truppenärztlichen Versorgung werden folgende Leistungen angerechnet:
+(2) Ist die Pflegebedürftigkeit eingetreten auf Grund einer gesundheitlichen Schädigung, die Folge einer Wehrdienstbeschädigung oder Folge einer Schädigung im Sinne der §§ 81a bis 81e des Soldatenversorgungsgesetzes ist, erfolgt die Kostenerstattung für eine notwendige häusliche, teilstationäre oder vollstationäre Pflege durch die Bundeswehr. Dabei erhalten die betroffenen Soldatinnen und Soldaten die Leistungen bei Pflegebedürftigkeit nach § 44 des Siebten Buches Sozialgesetzbuch, soweit es für die Soldatinnen und Soldaten günstiger ist, mit den nachfolgenden Maßgaben:
+
+1. abweichend von § 44 Absatz 2 Satz 1 des Siebten Buches Sozialgesetzbuch gilt für die Berechnung der Höhe des Pflegegeldes der Mindestbetrag von 450 Euro und der Höchstbetrag von 2 000 Euro, wobei die Einstufung in die nach dem Umfang der Beeinträchtigungen abgestuften Kategorien des Pflegegeldes auf Grundlage der „Anhaltspunkte zur Bemessung des Pflegegeldes (AHP) bei Arbeitsunfällen und Berufskrankheiten“ in der jeweils geltenden Fassung, die auf der Internetseite des Spitzenverbands der Deutschen gesetzlichen Unfallversicherung veröffentlicht ist;
+
+2. während einer kombinierten Inanspruchnahme von Hauspflege und Pflegegeld gleichzeitig an einem Tag wird das tageweise berechnete Pflegegeld zur Hälfte gezahlt;
+
+3. bei Verhinderung der nicht berufsmäßigen Pflegehilfen, wird die Hälfte des bisher bezogenen Pflegegeldes während einer tage- oder stundenweise Verhinderungspflege bis zu sechs Wochen und bei einer Kurzzeitpflege bis zu acht Wochen im Kalenderjahr weitergezahlt;
+
+4. Pflegehilfsmittel können durch Truppenärztinnen und Truppenärzte sowie durch Fachärztinnen und Fachärzte der Bundeswehr in analoger Anwendung von § 16 verordnet werden.
+
+(3) Auf die Leistungen der unentgeltlichen truppenärztlichen Versorgung werden folgende Leistungen angerechnet:
 
 1. Leistungen aus einer Pflichtversicherung in der sozialen oder privaten Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch,
 
 2. Leistungen aus einer sonstigen zusätzlichen privaten Pflegeversicherung, wenn sie zusammen mit den Leistungen aus der Pflichtversicherung die entstandenen Pflegekosten übersteigen.
 
-Leistungen aus einer Pflegetagegeldversicherung werden nicht angerechnet.
+Leistungen aus einer privaten Pflegegeld- oder Pflegetagegeldversicherung werden nicht angerechnet.
 
 # § 29 – Künstliche Befruchtung
 
