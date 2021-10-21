@@ -158,6 +158,12 @@ b) nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person e
 
 6. in der Regelbedarfsstufe 6 auf 283 Euro für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
+  
+
+    (+++ Hinweis: Regelbedarfsstufen nach § 8 
+     
+    zum 1.1.2022 vgl. V v. 13.10.2021 I 4674 +++) 
+
 # § 9 – Ausstattung mit persönlichem Schulbedarf
 
 Der Teilbetrag für Ausstattung mit persönlichem Schulbedarf beläuft sich

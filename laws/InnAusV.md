@@ -149,7 +149,7 @@ Die Voraussetzungen nach Satz 1 sind jährlich durch die Bestätigung eines Umwe
 
 (5) Die Voraussetzungen des § 2 Nummer 1 müssen während der gesamten Dauer der Zahlungen der fixen Marktprämie nach § 8 erfüllt sein.
 
-(6) Sofern die Anlagenkombination auch Windenergieanlagen an Land enthält, ist § 36k des Erneuerbare-Energien-Gesetzes mit der Maßgabe anzuwenden, dass die gesamte in der Anlagenkombination erzeugte und eingespeiste Strommenge Grundlage für die Ermittlung der Zuwendungen sein darf.
+(6) Sofern die Anlagenkombination auch Windenergieanlagen an Land oder Freiflächenanlagen enthält, ist § 6 des Erneuerbare-Energien-Gesetzes mit der Maßgabe anzuwenden, dass die gesamte in der Anlagenkombination erzeugte und eingespeiste Strommenge Grundlage für die Ermittlung der Zuwendungen sein darf.
 
 # § 13a – Erstattung von Sicherheiten
 

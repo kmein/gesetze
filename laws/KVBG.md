@@ -153,7 +153,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (1) Das Zielniveau für die Reduzierung und Beendigung der Kohleverstromung ist bis zum 31. Dezember 2022 (Zieldatum 2022) 30 Gigawatt, bis zum 1. April 2030 (Zieldatum 2030) 17 Gigawatt und spätestens bis zum 31. Dezember 2038 (Zieldatum 2038) 0 Gigawatt verbleibende Nettonennleistung Steinkohleanlagen und Braunkohleanlagen am Strommarkt. Dieses Zielniveau sinkt zwischen den Zieldaten 2022 und 2030 sowie zwischen den Zieldaten 2030 und 2038 jeweils jährlich um gleich große Mengen Nettonennleistung. Die jährlichen Reduktionsschritte erfolgen zum 1. Juli 2023 (Zieldatum 2023), zum 1. Juli 2024 (Zieldatum 2024), danach jährlich jeweils zum 1. April, erstmals zum 1. April 2025 (Zieldatum 2025) bis zum 1. April 2037 (Zieldatum 2037), und spätestens endend am 31. Dezember 2038 (Zieldatum 2038).
 
-(2) Zum Zieldatum 2022 setzt sich das Zielniveau von 30 Gigawatt aus 15 Gigawatt verbleibender Nettonennleistung Steinkohleanlagen und 15 Gigawatt verbleibender Nettonennleistung Braunkohleanlagen am Strommarkt zusammen. Zum Zieldatum 2030 ist das Zielniveau von 17 Gigawatt aufgeteilt auf ein Zielniveau von 8 Gigawatt verbleibender Nettonennleistung Steinkohleanlagen und ein Zielniveau von 9 Gigawatt verbleibender Nettonennleistung Braunkohleanlagen am Strommarkt. Soweit die verbleibende Nettonennleistung der Steinkohleanlagen für ein Zieldatum nicht ausdrücklich in Satz 1 genannt ist, ermittelt sich die verbleibende Nettonennleistung der Steinkohleanlagen an dem jährlichen Zielniveau nach Absatz 1 (Zielniveau für die Reduzierung der Steinkohleverstromung), indem von dem jährlichen Zielniveau nach Absatz 1 jeweils die Summe der Nettonennleistung der Braunkohleanlagen abgezogen wird, die nach Teil 5 und Anlage 2 sowie dem öffentlich-rechtlichen Vertrag nach § 49 zum Ablauf des Kalenderjahrs, in dem das jeweilige Zieldatum liegt, noch elektrische Energie durch den Einsatz von Braunkohle am Strommarkt erzeugen dürfen. Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der Ermittlung der verbleibenden Nettonennleistung der Steinkohleanlagen nach Satz 3 von dem jährlichen Zielniveau nicht abgezogen.
+(2) Zum Zieldatum 2022 setzt sich das Zielniveau von 30 Gigawatt aus 15 Gigawatt verbleibender Nettonennleistung Steinkohleanlagen und 15 Gigawatt verbleibender Nettonennleistung Braunkohleanlagen am Strommarkt zusammen. Zum Zieldatum 2030 ist das Zielniveau von 17 Gigawatt aufgeteilt auf ein Zielniveau von 8 Gigawatt verbleibender Nettonennleistung Steinkohleanlagen und ein Zielniveau von 9 Gigawatt verbleibender Nettonennleistung Braunkohleanlagen am Strommarkt. Soweit die verbleibende Nettonennleistung der Steinkohleanlagen für ein Zieldatum nicht ausdrücklich in Satz 1 oder Satz 2 genannt ist, ermittelt sich die verbleibende Nettonennleistung der Steinkohleanlagen an dem jährlichen Zielniveau nach Absatz 1 (Zielniveau für die Reduzierung der Steinkohleverstromung), indem von dem jährlichen Zielniveau nach Absatz 1 jeweils die Summe der Nettonennleistung der Braunkohleanlagen abgezogen wird, die nach Teil 5 und Anlage 2 sowie dem öffentlich-rechtlichen Vertrag nach § 49 zum Ablauf des Kalenderjahrs, in dem das jeweilige Zieldatum liegt, noch elektrische Energie durch den Einsatz von Braunkohle am Strommarkt erzeugen dürfen. Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der Ermittlung der verbleibenden Nettonennleistung der Steinkohleanlagen nach Satz 3 von dem jährlichen Zielniveau nicht abgezogen.
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
@@ -163,9 +163,9 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 1. bis zu dem Zieldatum 2023 nur durch die Ausschreibung nach Teil 3,
 
-2. ab den Zieldaten 2024 bis einschließlich 2027 jährlich durch die Ausschreibungen nach Teil 3 und bei Unterzeichnung der Ausschreibung nach § 20 Absatz 3 durch die gesetzliche Reduzierung der Steinkohle nach Teil 4 und
+2. ab den Zieldaten 2024 bis einschließlich 2026 jährlich durch die Ausschreibungen nach Teil 3 und bei Unterzeichnung der Ausschreibung nach § 20 Absatz 3 durch die gesetzliche Reduzierung der Steinkohle nach Teil 4 und
 
-3. ab dem Zieldatum 2031 bis zu dem Zieldatum 2038 ausschließlich durch die gesetzliche Reduzierung nach Teil 4.
+3. ab dem Zieldatum 2027 bis zu dem Zieldatum 2038 ausschließlich durch die gesetzliche Reduzierung nach Teil 4.
 
 (2) Erhält der Anlagenbetreiber im Rahmen einer Ausschreibung nach Teil 3 einen Zuschlag, hat er nach § 23 Anspruch auf Zahlung des Steinkohlezuschlags. Wird gegenüber dem Anlagenbetreiber nach § 35 angeordnet, dass die jeweilige Steinkohleanlage der gesetzlichen Reduzierung unterfällt, hat der Anlagenbetreiber keinen Anspruch auf Zahlung des Steinkohlezuschlags. § 39 bleibt unberührt. Rechtsfolgen des Zuschlags nach § 21 und der Anordnung der gesetzlichen Reduzierung nach § 35 sind ein Verbot der Kohleverfeuerung nach § 51 und ein Vermarktungsverbot nach § 52.
 
@@ -179,9 +179,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (3) Abweichend von den Absätzen 1 und 2 erfolgt in den verkürzten Verfahren für die Jahre 2020 und 2021 keine Ermittlung des Ausschreibungsvolumens. Das Ausschreibungsvolumen für die Ausschreibung im verkürzten Verfahren für das Jahr 2020 beträgt 4 Gigawatt Nettonennleistung und das Ausschreibungsvolumen für die Ausschreibung im verkürzten Verfahren für das Jahr 2021 beträgt 1,5 Gigawatt Nettonennleistung.
 
-(4) In der Ausschreibung für das Zieldatum 2027 ist das zu ermittelnde Ausschreibungsvolumen abweichend von Absatz 2 die Differenz aus dem Ausgangsniveau nach § 7 für das Zieldatum 2027 und dem Zielniveau an Steinkohleanlagen am Strommarkt für das Zieldatum 2030 nach § 4.
-
-(5) In den Ausschreibungen für das Zieldatum 2023, das Zieldatum 2024 und das Zieldatum 2025 wird zu dem nach den Absätzen 1 und 2 ermittelten Ausschreibungsvolumen jeweils 1 Gigawatt addiert.
+(4) In den Ausschreibungen für das Zieldatum 2023, das Zieldatum 2024 und das Zieldatum 2025 wird zu dem nach den Absätzen 1 und 2 ermittelten Ausschreibungsvolumen jeweils 1 Gigawatt addiert.
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
@@ -213,7 +211,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 8. die nach § 51 Absatz 5 vor oder zu dem jeweiligen Zieldatum keine Kohle mehr verfeuern dürfen.
 
-(4) Für die Ermittlung der Steinkohleanlagen nach den Absätzen 2 und 3 bezieht die Bundesnetzagentur alle Informationen ein, die bis einen Monat vor der Bekanntmachung der Ausschreibung nach § 11 oder der Anordnung der gesetzlichen Reduzierung nach § 35 bei ihr eingegangen sind.
+(4) Für die Ermittlung der Steinkohleanlagen nach den Absätzen 2 und 3 bezieht die Bundesnetzagentur alle Informationen ein, die bis einen Monat vor der Bekanntmachung der Ausschreibung nach § 11 oder der Anordnung der gesetzlichen Reduzierung nach § 35 bei ihr eingegangen sind. Erfolgt die Bekanntmachung der Ausschreibung nach § 11 vor dem Zuschlagstermin der vorherigen Ausschreibung, berücksichtigt die Bundesnetzagentur bei der Berichtigung des Ausschreibungsvolumens nach § 11 Absatz 1 Satz 4 Informationen nach Absatz 3 Nummer 5 bis zum Zuschlagstermin der vorherigen Ausschreibung.
 
 (5) Abweichend von den Absätzen 1 bis 4 findet in den verkürzten Verfahren in den Jahren 2020 und 2021 keine Ermittlung des Ausgangsniveaus statt.
 
@@ -273,13 +271,11 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 
 5. mit dem Zieldatum 2024 liegt 28 Monate vor diesem Zieldatum,
 
-6. mit dem Zieldatum 2025 liegt 32 Monate vor diesem Zieldatum,
+6. mit dem Zieldatum 2025 liegt 32 Monate vor diesem Zieldatum und
 
-7. mit dem Zieldatum 2026 liegt 34 Monate vor diesem Zieldatum und
+7. mit dem Zieldatum 2026 liegt 34 Monate vor diesem Zieldatum .
 
-8. mit dem Zieldatum 2027 liegt 34 Monate vor diesem Zieldatum.
-
-(3) Ergibt die Ermittlung des Ausschreibungsvolumens nach § 6 für eines der Zieldaten 2022 bis 2027, dass das Ausschreibungsvolumen null oder negativ ist, führt die Bundesnetzagentur für dieses Zieldatum kein Ausschreibungsverfahren durch.
+(3) Ergibt die Ermittlung des Ausschreibungsvolumens nach § 6 für eines der Zieldaten 2022 bis 2026, dass das Ausschreibungsvolumen null oder negativ ist, führt die Bundesnetzagentur für dieses Zieldatum kein Ausschreibungsverfahren durch.
 
 (4) Liegt eine Woche vor dem Gebotstermin nach Absatz 2 Nummer 1 noch keine beihilferechtliche Genehmigung durch die Europäische Kommission zu den Teilen 2 und 3 vor, kann die Bundesnetzagentur die Fristen und Termine nach Absatz 2 Nummer 1 und den §§ 11 und 21 Absatz 1 so anpassen, dass für die Ausschreibung im verkürzten Verfahren für das Jahr 2020 ein Zuschlagstermin nach § 21 am 1. Dezember 2020 erreicht wird.
 
@@ -300,6 +296,8 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 5. die Formatvorgaben, die nach Absatz 3 von der Bundesnetzagentur für die Gebotsabgabe vorgesehen sind, und
 
 6. die Festlegungen nach § 62, soweit sie die Gebotsabgabe oder das Zuschlagsverfahren betreffen.
+
+Die Bundesnetzagentur berichtigt im Fall des § 7 Absatz 4 Satz 2 das nach Satz 3 Nummer 2 zuvor bekannt gemachte Ausschreibungsvolumen spätestens bis zum Gebotstermin.
 
 (2) Die Bekanntmachung nach Absatz 1 erfolgt ausschließlich im öffentlichen Interesse.
 
@@ -501,7 +499,7 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 
 (6) Soweit eine Berechnung des Netzfaktors nach Absatz 5 erfolgt, veröffentlicht die Bundesnetzagentur den Netzfaktor für jede Ausschreibung, für die ein Netzfaktor anzuwenden ist. Die Veröffentlichung erfolgt jeweils mit der Bekanntmachung der Ausschreibung.
 
-(7) Die Bundesnetzagentur sortiert die Gebote entsprechend der Kennziffer nach Absatz 3 und, mit Ausnahme der Ausschreibungen im verkürzten Verfahren für das Jahr 2020 und für das Zieldatum 2027, der modifizierten Kennziffer nach Absatz 5 gemeinsam in aufsteigender Reihenfolge. Wenn die Kennziffern mehrerer Gebote gleich sind, dann entscheidet das Los über die Reihenfolge nach Satz 1, es sei denn, die Reihenfolge ist für die Zuschlagserteilung nicht maßgeblich.
+(7) Die Bundesnetzagentur sortiert die Gebote entsprechend der Kennziffer nach Absatz 3 und, mit Ausnahme der Ausschreibung im verkürzten Verfahren für das Jahr 2020, der modifizierten Kennziffer nach Absatz 5 gemeinsam in aufsteigender Reihenfolge. Wenn die Kennziffern mehrerer Gebote gleich sind, dann sortiert sie die Gebote nach den Angaben zu Kohlendioxidemissionen nach § 14 Absatz 1 Nummer 10 in absteigender Reihenfolge. Sind die Kennziffern und die Angaben zu Kohlendioxidemissionen nach § 14 Absatz 1 Nummer 10 der Gebote gleich, entscheidet das Los über die Reihenfolge nach Satz 1, es sei denn, die Reihenfolge ist für die Zuschlagserteilung nicht maßgeblich.
 
 (8) Die Bundesnetzagentur erteilt in der Reihenfolge nach Absatz 7 beginnend mit der niedrigsten Kennziffer allen Geboten im Umfang ihrer Gebotsmenge einen Zuschlag nach § 21, bis das Ausschreibungsvolumen erstmals durch den Zuschlag zu einem Gebot erreicht oder überschritten wird. Das Gebot, durch dessen Bezuschlagung das Ausschreibungsvolumen erstmals erreicht oder überschritten wird, wird noch bezuschlagt. Den übrigen Geboten wird kein Zuschlag erteilt. Die Bundesnetzagentur erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Steinkohlezuschlag. Der Anspruch auf Zahlung des Steinkohlezuschlags bestimmt sich in der Höhe nach dem Gebotswert unter Berücksichtigung des Höchstpreises nach § 19 multipliziert mit der jeweiligen Gebotsmenge.
 
@@ -522,11 +520,9 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 
 5. für das Zieldatum 2024 107 000 Euro pro Megawatt Nettonennleistung,
 
-6. für das Zieldatum 2025 98 000 Euro pro Megawatt Nettonennleistung,
+6. für das Zieldatum 2025 98 000 Euro pro Megawatt Nettonennleistung und
 
-7. für das Zieldatum 2026 89 000 Euro pro Megawatt Nettonennleistung und
-
-8. für das Zieldatum 2027 89 000 Euro pro Megawatt Nettonennleistung.
+7. für das Zieldatum 2026 89 000 Euro pro Megawatt Nettonennleistung.
 
 (2) Der Bieter darf in seinem Gebot zu dem jeweiligen Gebotstermin höchstens den Höchstpreis nach Absatz 1 bieten. Gibt ein Bieter einen Gebotswert über dem Höchstpreis ab, gilt der Höchstpreis als der abgegebene Gebotswert.
 
@@ -611,21 +607,21 @@ Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Besch
 
 2. auf eine angemessene Vergütung entsprechend § 13c Absatz 3 des Energiewirtschaftsgesetzes.
 
-§ 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
+§ 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Nach der Beendigung der Verpflichtung nach Satz 1 ist § 13c Absatz 4 Satz 2 und 3 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
 # § 27 – Gesetzliche Reduzierung, Anordnungstermine
 
-(1) Die Bundesnetzagentur legt jeweils 31 Monate vor dem jeweiligen Zieldatum und beginnend für das Zieldatum 2031 durch Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 fest, für welche Steinkohleanlagen die gesetzliche Reduzierung der Kohleverstromung jeweils wirksam wird.
+(1) Die Bundesnetzagentur legt jeweils 31 Monate vor dem jeweiligen Zieldatum und beginnend für das Zieldatum 2027 durch Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 fest, für welche Steinkohleanlagen die gesetzliche Reduzierung der Kohleverstromung jeweils wirksam wird.
 
-(2) Abweichend von Absatz 1 legt die Bundesnetzagentur bei Unterzeichnung der Ausschreibung nach § 20 Absatz 3 für die Zieldaten 2024 bis 2027 bereits am Tag der Zuschlagserteilung durch Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 fest, für welche Steinkohleanlagen die gesetzliche Reduzierung der Kohleverstromung jeweils wirksam wird.
+(2) Abweichend von Absatz 1 legt die Bundesnetzagentur bei Unterzeichnung der Ausschreibung nach § 20 Absatz 3 für die Zieldaten 2024 bis 2026 bereits am Tag der Zuschlagserteilung durch Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 fest, für welche Steinkohleanlagen die gesetzliche Reduzierung der Kohleverstromung jeweils wirksam wird.
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
 # § 28 – Gesetzliche Reduktionsmenge
 
-(1) Die Reduktionsschritte der gesetzlichen Reduzierung erfolgen gemäß der nach § 6 für das jeweilige Zieldatum ermittelten gesetzlichen Reduktionsmenge. Für die Zieldaten 2024 bis 2027 erfolgt die gesetzliche Reduzierung nach § 20 Absatz 3 für die nicht bezuschlagten Ausschreibungsmengen.
+(1) Die Reduktionsschritte der gesetzlichen Reduzierung erfolgen gemäß der nach § 6 für das jeweilige Zieldatum ermittelten gesetzlichen Reduktionsmenge. Für die Zieldaten 2024 bis 2026 erfolgt die gesetzliche Reduzierung nach § 20 Absatz 3 für die nicht bezuschlagten Ausschreibungsmengen.
 
 (2) Ergibt die Ermittlung der gesetzlichen Reduktionsmenge nach § 6 für eines der Zieldaten der Jahre 2024 bis spätestens 2038, dass die gesetzliche Reduktionsmenge null oder negativ ist, entfällt die Anordnung der gesetzlichen Reduzierung für dieses Zieldatum.
 
@@ -727,7 +723,7 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 # § 32 – Aktualisierung der Reihung, Pflichten der Anlagenbetreiber
 
-(1) Die Bundesnetzagentur veröffentlicht eine aktualisierte Fassung der Reihung nach § 29 jährlich zum 1. Juli auf ihrer Internetseite (aktualisierte Reihung), beginnend am 1. Juli 2021 und endend am 1. Juli 2037. Zur Aktualisierung der Reihung kennzeichnet die Bundesnetzagentur eindeutig die Steinkohleanlagen,
+(1) Die Bundesnetzagentur veröffentlicht eine aktualisierte Fassung der Reihung nach § 29 auf ihrer Internetseite (aktualisierte Reihung) jeweils zum Zeitpunkt der Bekanntmachung der Ausschreibung nach § 11 sowie, beginnend am 1. Juli 2024 und endend spätestens am 1. Juli 2037, jährlich zum 1. Juli. Zur Aktualisierung der Reihung kennzeichnet die Bundesnetzagentur eindeutig die Steinkohleanlagen,
 
 1. für die eine verbindliche Stilllegung nach § 9 Absatz 1 Nummer 1 oder ein verbindliches Verbot der Kohleverfeuerung nach § 9 Absatz 1 Nummer 2 angezeigt wurde, wenn die Stilllegung oder das Verbot der Kohleverfeuerung vor oder zu dem jeweiligen Zieldatum wirksam wird,
 
@@ -745,11 +741,13 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (2) Anlagenbetreiber müssen der Bundesnetzagentur eine Aufhebung der immissionsschutzrechtlichen Genehmigung oder deren Unwirksamkeit aus sonstigen Gründen unverzüglich mitteilen.
 
+(3) Für die Aktualisierung der Reihung nach Absatz 1 bezieht die Bundesnetzagentur alle Informationen ein, die bis einen Monat vor der Veröffentlichung der aktualisierten Reihung bei ihr eingegangen sind. Die Bundesnetzagentur berichtigt im Fall des § 7 Absatz 4 Satz 2 die jeweilige aktualisierte Reihung nachträglich; dabei berücksichtigt sie Informationen nach Absatz 1 Satz 2 Nummer 3 bis zum Zuschlagstermin der vorherigen Ausschreibung.
+
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
 # § 33 – Anordnungsverfahren
 
-(1) Die Bundesnetzagentur ermittelt ab dem Zieldatum 2031 zu jedem Anordnungstermin die Reduktionsmenge nach § 6 für die gesetzliche Reduzierung. Soweit ab der Ausschreibung für das Zieldatum 2024 eine Ausschreibung nach § 20 Absatz 1 unterzeichnet ist, ermittelt die Bundesnetzagentur die Reduktionsmenge nach § 6 nach Maßgabe des § 20 Absatz 2 und 3.
+(1) Die Bundesnetzagentur ermittelt ab dem Zieldatum 2027 zu jedem Anordnungstermin die Reduktionsmenge nach § 6 für die gesetzliche Reduzierung. Soweit ab der Ausschreibung für das Zieldatum 2024 eine Ausschreibung nach § 20 Absatz 1 unterzeichnet ist, ermittelt die Bundesnetzagentur die Reduktionsmenge nach § 6 nach Maßgabe des § 20 Absatz 2 und 3.
 
 (2) Die Bundesnetzagentur bestimmt für jeden Anordnungstermin aus den Steinkohleanlagen der aktualisierten Reihung nach § 32 in aufsteigender Reihenfolge beginnend mit der ältesten so lange nacheinander Steinkohleanlagen, die nicht gemäß § 32 Absatz 1 Satz 2 gekennzeichnet sind, bis die Summe der Nettonennleistung der Steinkohleanlagen den Umfang der Reduktionsmenge für das Zieldatum nach Absatz 1 erstmalig übersteigt. § 18 Absatz 8 Satz 2 ist entsprechend anzuwenden.
 
@@ -831,7 +829,7 @@ Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 ange
 
 (2) Erfolgt die vorläufige oder endgültige Stilllegung einer Braunkohleanlage vor dem Stilllegungszeitpunkt oder vor dem Überführungszeitpunkt oder erfolgt die Überführung in die Zeitlich gestreckte Stilllegung gemäß § 40 Absatz 2 Satz 2 vor dem Überführungszeitpunkt, sind abweichend von Absatz 1 die §§ 13b und 13c des Energiewirtschaftsgesetzes anzuwenden, jedoch längstens bis zu dem jeweiligen Stilllegungs- oder Überführungszeitpunkt.
 
-(3) Der Anlagenbetreiber ist verpflichtet, auf Anforderung des jeweils regelzonenverantwortlichen Übertragungsnetzbetreibers je Kraftwerksstandort einen Generator für maximal acht Jahre ab dem Stilllegungszeitpunkt zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung umzurüsten und den Übertragungsnetzbetreibern nach § 13a Absatz 1 des Energiewirtschaftsgesetzes zur Verfügung zu stellen. Der Anlagenbetreiber hat gegenüber dem jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber einen Anspruch auf Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Anlage und auf eine angemessene Vergütung entsprechend § 13c Absatz 3 des Energiewirtschaftsgesetzes. § 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Die Anforderung ist spätestens ein Jahr vor dem Stilllegungszeitpunkt zu übermitteln.
+(3) Der Anlagenbetreiber ist verpflichtet, auf Anforderung des jeweils regelzonenverantwortlichen Übertragungsnetzbetreibers je Kraftwerksstandort einen Generator für maximal acht Jahre ab dem Stilllegungszeitpunkt zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung umzurüsten und den Übertragungsnetzbetreibern nach § 13a Absatz 1 des Energiewirtschaftsgesetzes zur Verfügung zu stellen. Der Anlagenbetreiber hat gegenüber dem jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber einen Anspruch auf Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Anlage und auf eine angemessene Vergütung entsprechend § 13c Absatz 3 des Energiewirtschaftsgesetzes. § 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Nach der Beendigung der Verpflichtung nach Satz 1 ist § 13c Absatz 4 Satz 2 und 3 des Energiewirtschaftsgesetzes entsprechend anzuwenden. Die Anforderung ist spätestens ein Jahr vor dem Stilllegungszeitpunkt zu übermitteln.
 
 # § 43 – Braunkohle-Kleinanlagen
 
@@ -937,7 +935,7 @@ f) in der Ausschreibung für das Zieldatum 2025 28 Monate nach der öffentlichen
 
 g) in der Ausschreibung für das Zieldatum 2026 30 Monate nach der öffentlichen Bekanntgabe des Zuschlags durch die Bundesnetzagentur, spätestens jedoch zum Zieldatum 2026,
 
-h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen Bekanntgabe des Zuschlags durch die Bundesnetzagentur, spätestens jedoch zum Zieldatum 2027,
+h) (weggefallen)
 
 2. im Fall der gesetzlichen Anordnung nach § 35 30 Monate nach der Bekanntgabe der Anordnung der gesetzlichen Reduzierung durch die Bundesnetzagentur,
 
@@ -947,11 +945,13 @@ h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen
 
 (3) Der Anlagenbetreiber, der eine wirksame Zuordnung zu einer Dampfsammelschiene nach § 13 oder nach § 30 vorgenommen hat, muss nach Wirksamwerden des Verbots der Kohleverfeuerung technisch sicherstellen, dass in dem jeweiligen Dampfsammelschienenblock weder direkt noch indirekt Dampf aus anderen Dampfsammelschienenblöcken zur Erzeugung von elektrischer Energie durch den Einsatz von Steinkohle genutzt wird.
 
-(4) Wird die Ausweisung einer Steinkohleanlage von der Bundesnetzagentur als systemrelevant im Sinne von § 26 Absatz 2 oder § 37 Absatz 2 in Verbindung mit § 13b Absatz 2 Satz 2 und Absatz 5 des Energiewirtschaftsgesetzes genehmigt oder erhält eine nach diesem Gesetz bezuschlagte Steinkohleanlage oder eine Steinkohleanlage, für die nach § 35 Absatz 1 die gesetzliche Reduzierung angeordnet wurde, einen Zuschlag nach § 18 der Kapazitätsreserveverordnung und ist für die Steinkohleanlage ein wirksamer Vertrag im Rahmen der Kapazitätsreserve dadurch zustande gekommen, dass die Zweitsicherheit nach § 10 Absatz 2 der Kapazitätsreserveverordnung fristgerecht geleistet worden ist, ist das Verbot der Kohleverfeuerung für die bezuschlagte Steinkohleanlage unwirksam, solange
+(4) Wird die Ausweisung einer Steinkohleanlage von der Bundesnetzagentur als systemrelevant im Sinne von § 26 Absatz 2 oder § 37 Absatz 2 in Verbindung mit § 13b Absatz 2 Satz 2 und Absatz 5 des Energiewirtschaftsgesetzes genehmigt oder erhält eine nach diesem Gesetz bezuschlagte Steinkohleanlage oder eine Steinkohleanlage, für die nach § 35 Absatz 1 die gesetzliche Reduzierung angeordnet wurde, einen Zuschlag nach § 18 der Kapazitätsreserveverordnung und ist für die Steinkohleanlage ein wirksamer Vertrag im Rahmen der Kapazitätsreserve dadurch zustande gekommen, dass die Zweitsicherheit nach § 10 Absatz 2 der Kapazitätsreserveverordnung fristgerecht geleistet worden ist, ist das Verbot der Kohleverfeuerung für diese Steinkohleanlage unwirksam, solange
 
 1. die Steinkohleanlage, die nach § 26 Absatz 2 oder § 37 Absatz 2 systemrelevant im Sinne von § 13b Absatz 2 Satz 2 und Absatz 5 des Energiewirtschaftsgesetzes ist, von den Betreibern der Übertragungsnetze in der Netzreserve nach § 13d des Energiewirtschaftsgesetzes gebunden ist oder
 
 2. die Steinkohleanlage in der Kapazitätsreserve nach § 13e des Energiewirtschaftsgesetzes gebunden ist.
+
+Der Zeitpunkt der Fälligkeit des Steinkohlezuschlags nach § 23 wird durch Satz 1 nicht verschoben. Dieser bestimmt sich ausschließlich nach § 23 in Verbindung mit § 51 Absatz 2.
 
 (5) Anlagen zur Erzeugung von elektrischer Energie mit einer Nettonennleistung von mehr als 150 Megawatt, deren Hauptenergieträger nicht Braun- oder Steinkohle ist, dürfen ab dem 1. Januar 2027 keine Kohle mehr verfeuern. Anlagen zur Erzeugung von elektrischer Energie mit einer Nettonennleistung bis zu einschließlich 150 Megawatt, deren Hauptenergieträger nicht Braun- oder Steinkohle ist, dürfen ab dem 1. April 2030 keine Kohle mehr verfeuern. Spätestens ab dem 1. Januar 2039 und vorbehaltlich der Überprüfung des Abschlussdatums nach § 56 dürfen Braun- und Steinkohleanlagen nicht mehr zur Erzeugung von elektrischer Energie eingesetzt werden.
 
@@ -1105,6 +1105,8 @@ Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach
 4. entgegen § 52 Absatz 1 Leistung oder Arbeit veräußert.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 3 und 4 mit einer Geldbuße bis zu einer Million Euro, in den übrigen Fällen mit einer Geldbuße bis zu einhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 # § 66 – Fristen und Termine
 

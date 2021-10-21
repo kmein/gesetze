@@ -1294,7 +1294,15 @@ c) Anpassungen der Höhe von Pönalen nach § 60 Absatz 1 und 2 entsprechend ein
 
 4. der Hilfe welcher anderen Behörden sich die für die Voruntersuchung zuständige Stelle bei der Erfüllung ihrer Aufgaben im Bereich der Voruntersuchung von Flächen nach Teil 2 Abschnitt 2 und das Bundesamt für Seeschifffahrt und Hydrographie bei der Erfüllung seiner Aufgaben im Bereich der Zulassung von Einrichtungen nach den §§ 45 bis 54 bedienen darf,
 
-5. zur Ausschreibung von sonstigen Energiegewinnungsbereichen oder deren Teilbereichen und zur Sicherstellung der Errichtung von Windenergieanlagen und sonstigen Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden, ein Verfahren für die Vergabe nach objektiven, nachvollziehbaren, diskriminierungsfreien und effizienten Kriterien, wobei insbesondere Mindestanforderungen an die Eignung der Teilnehmer und den Nachweis der Erfüllung der Anforderungen zu regeln sind, und
+5. zur Ausschreibung von sonstigen Energiegewinnungsbereichen oder deren Teilbereichen und zur Sicherstellung der Errichtung von Windenergieanlagen und sonstigen Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden,
+
+a) ein Verfahren für die Vergabe nach objektiven, nachvollziehbaren, diskriminierungsfreien und effizienten Kriterien, wobei insbesondere Mindestanforderungen an die Eignung der Teilnehmer und den Nachweis der Erfüllung der Anforderungen zu regeln sind,
+
+b) Anforderungen zu der Art, der Form und dem Inhalt von Sicherheiten, die von allen Teilnehmern an Ausschreibungen oder nur im Fall der Zuschlagserteilung zu leisten sind, um eine Inbetriebnahme und den Betrieb der Anlage sicherzustellen, und die entsprechenden Regelungen zur teilweisen oder vollständigen Zurückzahlung dieser Sicherheiten,
+
+c) Realisierungsfristen, Anforderungen, die die fristgemäße Errichtung der Anlagen sicherstellen sollen, und insbesondere, wenn eine Anlage nicht, verspätet oder anders als im Gebot beschrieben in Betrieb genommen worden ist, eine Pflicht zu einer Geldzahlung und deren Höhe und die Voraussetzungen für die Zahlungspflicht sowie den Widerruf der Antragsberechtigung,
+
+d) Kriterien für einen Ausschluss von Bietern bei künftigen Ausschreibungen und die Möglichkeit, die im Rahmen der Ausschreibungen vergebene Antragsberechtigung nach Ablauf einer bestimmten Frist zu entziehen oder zu ändern und danach erneut zu vergeben,
 
 6. die Ausschreibung von Windenergieanlagen auf See, die an ein Netz angeschlossen werden, abweichend von Teil 2 Abschnitt 2 mit einem von § 10 abweichenden Umfang und mit einem Teil der für das entsprechende Kalenderjahr vorgesehenen Ausschreibungsmenge.
 
