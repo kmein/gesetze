@@ -2082,3 +2082,39 @@ g) Unbeschadet der bestehenden Rechtsbehelfe und des § 66 ist für Streitfälle
 h) Auf der Grundlage der in der leistungsabhängigen Entgeltregelung vereinbarten Eckwerte veröffentlicht der Betreiber von Eisenbahnanlagen einmal jährlich das von den Eisenbahnverkehrsunternehmen im Jahresdurchschnitt erzielte Leistungsniveau.
 
 # Anlage 8 – (weggefallen)
+
+# Anlage 9 – (zu § 70 Absatz 1)Der Regulierungsbehörde auf Verlangen vorzulegende Buchführungsdaten
+
+(Fundstelle: BGBl. I 2016, 2121)
+
+1. Getrennte Rechnungsführung:
+
+a) getrennte Gewinn- und Verlustrechnungen und Bilanzen für die Bereiche Güterverkehr, Personenverkehr und den Betrieb der Schienenwege und Serviceeinrichtungen;
+
+b) genaue und transparente Angaben über einzelne Quellen und Verwendungen von öffentlichen Geldern und Ausgleichsleistungen anderer Art. Dazu gehört auch eine detaillierte Übersicht über die Zahlungsströme der Unternehmen, damit festgestellt werden kann, wofür diese öffentlichen Mittel und Ausgleichsleistungen anderer Art verwendet wurden;
+
+c) Aufwands- und Ertragsposten, anhand derer sich nach den Anforderungen der Regulierungsbehörde feststellen lässt, ob zwischen den verschiedenen Tätigkeitsbereichen eine Quersubvention stattgefunden hat;
+
+d) das für die Aufteilung der Kosten auf die einzelnen Tätigkeitsbereiche angewendete Verfahren;
+
+e) falls das regulierte Unternehmen Teil einer Unternehmensgruppe ist, vollständige Angaben über Zahlungen zwischen den Unternehmen der Gruppe.
+
+2. Kontrolle der Wegeentgelte:
+
+a) verschiedene Kostenkategorien, insbesondere hinreichende Informationen über die Grenzkosten oder direkten Kosten der einzelnen Dienste oder Gruppen von Diensten, um eine Kontrolle der Wegeentgelte zu ermöglichen;
+
+b) hinreichende Angaben, um eine Kontrolle der Einzelentgelte, die für Dienste (oder Gruppen von Diensten) entrichtet werden, zu ermöglichen. Auf Verlangen der Regulierungsbehörde gehören dazu auch Angaben zum Umfang einzelner Dienste, zu den Preisen für einzelne Dienste sowie zu den Gesamteinnahmen, die aus den von internen und externen Kunden für einzelne Dienste entrichteten Entgelten erzielt werden;
+
+c) nach der von der Regulierungsbehörde geforderten Kostenrechnungsmethode Angaben zu den Kosten einzelner Dienste (oder Gruppen von Diensten) und den daraus erzielten Einnahmen, damit eine etwaige wettbewerbswidrige Preispolitik (Quersubventionen, Verdrängungspreise und überhöhte Preise) festgestellt werden kann.
+
+3. Angaben zur finanziellen Leistungsfähigkeit:
+
+a) Erklärung zur finanziellen Leistungsfähigkeit,
+
+b) Ausgabenerklärung (Übersicht),
+
+c) Erklärung zu den Instandhaltungsausgaben,
+
+d) Erklärung zu den Betriebsausgaben,
+
+e) Gewinn- und Verlustrechnung.
