@@ -106,7 +106,7 @@ Die Angebote der Deutschen Welle sollen Deutschland als europäisch gewachsene K
 
 7. offensichtlich geeignet sind, die Entwicklung von Kindern und Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit unter Berücksichtigung der besonderen Wirkungsform des Verbreitungsmediums schwer zu gefährden.
 
-Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches entsprechend. Im Fall der Nummer 3 gilt § 86 Abs. 3 des Strafgesetzbuches entsprechend.
+Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches entsprechend. Im Fall der Nummer 3 gilt § 86 Absatz 4 des Strafgesetzbuches entsprechend.
 
 (2) Nach Aufnahme des Angebotes in die Liste nach § 18 des Jugendschutzgesetzes wirken die Verbote nach Absatz 1 auch nach wesentlichen inhaltlichen Veränderungen bis zu einer Entscheidung durch die Bundesprüfstelle für jugendgefährdende Medien.
 

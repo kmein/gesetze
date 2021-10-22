@@ -55,12 +55,13 @@ h) der Universitäten der Bundeswehr,
 
 9. dem Leiter des Katholischen Militärbischofsamtes,
 
-10. der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
+10. der Leiterin oder dem Leiter des Militärrabbinats,
 
-11  
-der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
+11. der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
 
-12. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
+12. der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
+
+13. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
 
 # § 2
 
