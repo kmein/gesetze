@@ -1,10 +1,6 @@
 % Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  (Stasi-Unterlagen-Gesetz - StUG)
 % Ausfertigungsdatum: 20.12.1991
  
-# Eingangsformel
-
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
-
 # Inhaltsübersicht
 
 Erster Abschnitt
@@ -463,7 +459,7 @@ für die gesonderte Verwahrung nach Buchstabe b bis d gelten die Vorschriften ü
 
 4. Erteilung von Auskünften, Mitteilungen aus Unterlagen, Gewährung von Einsicht in Unterlagen, Herausgabe von Unterlagen,
 
-5. Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes durch Unterrichtung der Öffentlichkeit über Struktur, Methoden und Wirkungsweise des Staatssicherheitsdienstes; für die Veröffentlichung personenbezogener Informationen gilt § 32 Absatz 3; die Veröffentlichung kann auch durch ein elektronisches Informations- und Kommunikationssystem erfolgen,
+5. Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes durch Unterrichtung der Öffentlichkeit über Struktur, Methoden und Wirkungsweise des Staatssicherheitsdienstes; für die Veröffentlichung personenbezogener Informationen gilt § 32 Absatz 3; die Veröffentlichung kann auch durch ein elektronisches Informations- und Kommunikationssystem erfolgen,
 
 6. Unterstützung der Forschung und der politischen Bildung bei der historischen und politischen Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes durch Gewährung von Einsicht in Unterlagen und Herausgabe von Duplikaten von Unterlagen sowie Unterstützung von Einrichtungen und Gedenkstätten zur Aufarbeitung der Geschichte der ehemaligen Deutschen Demokratischen Republik oder der ehemaligen Sowjetischen Besatzungszone bei der Dokumentation der Tätigkeit des Staatssicherheitsdienstes und quellenkundliche Forschung zur Erschließung der Bestände des Stasi-Unterlagen-Archivs,
 
@@ -489,7 +485,7 @@ für die gesonderte Verwahrung nach Buchstabe b bis d gelten die Vorschriften ü
 
 5. letzte Anschrift,
 
-6. Merkmal "verstorben".
+6. Merkmal „verstorben“.
 
 Diese Informationen sind auf Ersuchen den Gerichten und Strafverfolgungsbehörden zur Erfüllung ihrer gesetzlichen Aufgaben zu übermitteln.
 
@@ -507,13 +503,13 @@ Diese Informationen sind auf Ersuchen den Gerichten und Strafverfolgungsbehörde
 
 (2) Stellt das Bundesarchiv fest oder wird ihm mitgeteilt, dass personenbezogene Informationen in Unterlagen unrichtig sind, oder wird die Richtigkeit von der Person, auf die sie sich beziehen, bestritten, so ist dies auf einem gesonderten Blatt zu vermerken und den Unterlagen beizufügen.
 
-(3) Sind personenbezogene Informationen aufgrund eines Ersuchens nach den §§ 20 bis 25 übermittelt worden und erweisen sie sich hinsichtlich der Person, auf die sich das Ersuchen bezog, nach ihrer Übermittlung als unrichtig, so sind sie gegenüber dem Empfänger zu berichtigen, es sei denn, dass dies für die Beurteilung eines Sachverhaltes ohne Bedeutung ist.
+(3) Sind personenbezogene Informationen aufgrund eines Ersuchens nach den §§ 20 bis 25 übermittelt worden und erweisen sie sich hinsichtlich der Person, auf die sich das Ersuchen bezog, nach ihrer Übermittlung als unrichtig, so sind sie gegenüber dem Empfänger zu berichtigen, es sei denn, dass dies für die Beurteilung eines Sachverhaltes ohne Bedeutung ist.
 
 (4) Durch die Verwendung der Unterlagen dürfen überwiegende schutzwürdige Interessen anderer Personen nicht beeinträchtigt werden.
 
 # § 5 – Besondere Verwendungsverbote
 
-(1) Die Verwendung personenbezogener Informationen über Betroffene oder Dritte, die im Rahmen der zielgerichteten Informationserhebung oder Ausspähung des Betroffenen einschließlich heimlicher Informationserhebung gewonnen worden sind, zum Nachteil dieser Personen ist unzulässig. Dies gilt nicht in den Fällen des § 21 Abs. 1 Nr. 1 und 2, wenn Angaben des Betroffenen oder Dritten sich aufgrund der Informationen ganz oder teilweise als unzutreffend erweisen.
+(1) Die Verwendung personenbezogener Informationen über Betroffene oder Dritte, die im Rahmen der zielgerichteten Informationserhebung oder Ausspähung des Betroffenen einschließlich heimlicher Informationserhebung gewonnen worden sind, zum Nachteil dieser Personen ist unzulässig. Dies gilt nicht in den Fällen des § 21 Absatz 1 Nummer 1 und 2, wenn Angaben des Betroffenen oder Dritten sich aufgrund der Informationen ganz oder teilweise als unzutreffend erweisen.
 
 (2) Die Verwendung von Unterlagen ist für einen begrenzten Zeitraum unzulässig, wenn die zuständige Staatsanwaltschaft oder das Gericht gegenüber dem Bundesarchiv erklärt, dass für einen bestimmten Zeitraum die Verwendung die Durchführung eines Strafverfahrens beeinträchtigen würde. Dies gilt nicht, wenn dadurch Personen in der Wahrnehmung ihrer Rechte in unzumutbarer Weise beschränkt würden. In diesem Fall erfolgt die Verwendung im Einvernehmen mit der Staatsanwaltschaft oder dem Gericht.
 
@@ -559,7 +555,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 1. Personen, die gegenüber Mitarbeitern des Staatssicherheitsdienstes hinsichtlich deren Tätigkeit für den Staatssicherheitsdienst rechtlich oder faktisch weisungsbefugt waren,
 
-2. inoffizielle Mitarbeiter des Arbeitsgebietes 1 der Kriminalpolizei der Volkspolizei.
+2. inoffizielle Mitarbeiter des Arbeitsgebietes 1 der Kriminalpolizei der Volkspolizei.
 
 (6) Begünstigte sind Personen, die
 
@@ -573,7 +569,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (8) Ob Personen Mitarbeiter des Staatssicherheitsdienstes, Begünstigte, Betroffene oder Dritte sind, ist für jede Information gesondert festzustellen. Für die Feststellung ist maßgebend, mit welcher Zielrichtung die Informationen in die Unterlagen aufgenommen worden sind.
 
-(9) Die Verwendung von Unterlagen umfasst die Weitergabe von Unterlagen, die Übermittlung von Informationen aus den Unterlagen sowie die sonstige Verarbeitung und die Nutzung von Informationen. Soweit in dieser Vorschrift nichts anderes bestimmt ist, gelten die Begriffsbestimmungen des § 2 des Bundesdatenschutzgesetzes mit der Maßgabe, dass zu den nichtöffentlichen Stellen auch die Religionsgesellschaften gehören.
+(9) Die Verwendung von Unterlagen umfasst die Weitergabe von Unterlagen, die Übermittlung von Informationen aus den Unterlagen sowie die sonstige Verarbeitung und die Nutzung von Informationen. Soweit in dieser Vorschrift nichts anderes bestimmt ist, gelten die Begriffsbestimmungen des § 2 des Bundesdatenschutzgesetzes mit der Maßgabe, dass zu den nichtöffentlichen Stellen auch die Religionsgesellschaften gehören.
 
 (10) Personenbezogene Informationen im Sinne dieses Gesetzes sind Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren lebenden oder verstorbenen Person.
 
@@ -581,7 +577,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 # § 7 – Auffinden von Unterlagen des Staatssicherheitsdienstes, Anzeigepflichten
 
-(1) Alle öffentlichen Stellen unterstützen das Bundesarchiv bei seinen Ermittlungen zum Auffinden der Unterlagen des Staatssicherheitsdienstes und bei deren Übernahme. Ist ihnen bekannt oder stellen sie gelegentlich der Erfüllung ihrer Aufgaben fest, daß sich bei ihnen Unterlagen des Staatssicherheitsdienstes oder Kopien, Abschriften oder sonstige Duplikate solcher Unterlagen befinden, so haben sie dies dem Bundesarchiv unverzüglich anzuzeigen.
+(1) Alle öffentlichen Stellen unterstützen das Bundesarchiv bei seinen Ermittlungen zum Auffinden der Unterlagen des Staatssicherheitsdienstes und bei deren Übernahme. Ist ihnen bekannt oder stellen sie gelegentlich der Erfüllung ihrer Aufgaben fest, dass sich bei ihnen Unterlagen des Staatssicherheitsdienstes oder Kopien, Abschriften oder sonstige Duplikate solcher Unterlagen befinden, so haben sie dies dem Bundesarchiv unverzüglich anzuzeigen.
 
 (2) Das Bundesarchiv kann im Einvernehmen mit einer öffentlichen Stelle in deren Registraturen, Archiven und sonstigen Informationssammlungen Einsicht nehmen, wenn hinreichende Anhaltspunkte für das Vorhandensein von Unterlagen des Staatssicherheitsdienstes vorliegen.
 
@@ -591,13 +587,13 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (1) Jede öffentliche Stelle hat dem Bundesarchiv auf dessen Verlangen unverzüglich bei ihr befindliche Unterlagen des Staatssicherheitsdienstes einschließlich Kopien, Abschriften und sonstigen Duplikaten herauszugeben.
 
-(2) Benötigt die öffentliche Stelle Unterlagen zur Erfüllung ihrer Aufgaben im Rahmen der Zweckbindung nach den §§ 20 bis 23 und 25, kann sie Duplikate zu ihren Unterlagen nehmen. Originalunterlagen dürfen nur zu den Unterlagen genommen werden, soweit dies im Einzelfall zur Aufgabenerfüllung unerlässlich ist. In diesem Fall sind dem Bundesarchiv auf Verlangen Duplikate herauszugeben.
+(2) Benötigt die öffentliche Stelle Unterlagen zur Erfüllung ihrer Aufgaben im Rahmen der Zweckbindung nach den §§ 20 bis 23 und 25, kann sie Duplikate zu ihren Unterlagen nehmen. Originalunterlagen dürfen nur zu den Unterlagen genommen werden, soweit dies im Einzelfall zur Aufgabenerfüllung unerlässlich ist. In diesem Fall sind dem Bundesarchiv auf Verlangen Duplikate herauszugeben.
 
 (3) Unterlagen über Betroffene sind von den Nachrichtendiensten des Bundes und der Länder ersatzlos und vollständig an das Bundesarchiv herauszugeben.
 
 # § 9 – Herausgabepflicht nichtöffentlicher Stellen
 
-(1) Jede natürliche Person und jede sonstige nichtöffentliche Stelle hat dem Bundesarchiv auf dessen Verlangen unverzüglich Unterlagen des Staatssicherheitsdienstes herauszugeben, soweit diese nicht Eigentum der natürlichen Person oder der sonstigen nichtöffentlichen Stelle sind. Der Nachweis des Eigentumserwerbs obliegt der natürlichen Person oder sonstigen nichtöffentlichen Stelle. Vom Eigentum der natürlichen Person oder sonstigen nichtöffentlichen Stelle kann ausgegangen werden bei Unterlagen nach § 10 Abs. 4, die sie selbst angefertigt hat.
+(1) Jede natürliche Person und jede sonstige nichtöffentliche Stelle hat dem Bundesarchiv auf dessen Verlangen unverzüglich Unterlagen des Staatssicherheitsdienstes herauszugeben, soweit diese nicht Eigentum der natürlichen Person oder der sonstigen nichtöffentlichen Stelle sind. Der Nachweis des Eigentumserwerbs obliegt der natürlichen Person oder sonstigen nichtöffentlichen Stelle. Vom Eigentum der natürlichen Person oder sonstigen nichtöffentlichen Stelle kann ausgegangen werden bei Unterlagen nach § 10 Absatz 4, die sie selbst angefertigt hat.
 
 (2) Soweit Unterlagen an das Bundesarchiv herauszugeben sind, sind ihm auch Kopien und sonstige Duplikate herauszugeben.
 
@@ -609,7 +605,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (2) Das Bundesarchiv kann Einsicht in die Unterlagen verlangen. Bei der Suche nach den benötigten Unterlagen ist es zu unterstützen.
 
-(3) Dem Bundesarchiv sind auf sein Verlangen Duplikate von solchen Unterlagen herauszugeben, die im Zusammenhang mit der Tätigkeit des Staatssicherheitsdienstes stehen und die es zur Wahrnehmung seiner Aufgaben nach diesem Gesetz benötigt. Die Duplikate werden Bestandteil der Unterlagen nach § 6 Abs. 1.
+(3) Dem Bundesarchiv sind auf sein Verlangen Duplikate von solchen Unterlagen herauszugeben, die im Zusammenhang mit der Tätigkeit des Staatssicherheitsdienstes stehen und die es zur Wahrnehmung seiner Aufgaben nach diesem Gesetz benötigt. Die Duplikate werden Bestandteil der Unterlagen nach § 6 Absatz 1.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Unterlagen, die erkennbar im Zusammenwirken anderer öffentlicher oder nichtöffentlicher Stellen der ehemaligen Deutschen Demokratischen Republik mit dem Staatssicherheitsdienst, auf seine Veranlassung oder zur Umsetzung seiner Anordnungen oder Hinweise entstanden sind.
 
@@ -633,7 +629,7 @@ an die zuständigen Stellen zurückzugeben. Das Bundesarchiv kann Duplikate zu s
 
 (6) Soweit ehemalige Mitarbeiter des Staatssicherheitsdienstes Empfänger von Renten sind, sind die zu ihrer Person geführten Personalunterlagen, die das Bundesarchiv nach diesem Gesetz verwahrt, im erforderlichen Umfang an den Versorgungsträger herauszugeben. Das Bundesarchiv kann Duplikate zu seinen Unterlagen nehmen.
 
-(7) Die Vorschriften zur Anbietung und Abgabe von Unterlagen gemäß den §§ 5 bis 7 des Bundesarchivgesetzes bleiben unberührt.
+(7) Die Vorschriften zur Anbietung und Abgabe von Unterlagen gemäß den §§ 5 bis 7 des Bundesarchivgesetzes bleiben unberührt.
 
 # § 12 – Verfahrensvorschriften für Betroffene, Dritte, Mitarbeiter und Begünstigte des Staatssicherheitsdienstes
 
@@ -659,7 +655,7 @@ Im Übrigen wird Einsicht in Duplikate gewährt, in denen die personenbezogenen 
 
 (5) Unterlagen werden nur als Duplikate herausgegeben, in denen die personenbezogenen Informationen über andere Betroffene oder Dritte anonymisiert worden sind.
 
-(6) Das Recht auf Einsicht und Herausgabe gilt nicht für die zur Auswertung erforderlichen Hilfsmittel (§ 6 Abs. 1 Nr. 1 Buchstabe c). Sind andere Unterlagen nicht oder nur mit unverhältnismäßigem Aufwand auffindbar, erstreckt sich das Recht auf Einsicht und Herausgabe auf Duplikate von Karteikarten, die der Auswertung der Unterlagen dienen und in denen personenbezogene Informationen über den Antragsteller enthalten sind.
+(6) Das Recht auf Einsicht und Herausgabe gilt nicht für die zur Auswertung erforderlichen Hilfsmittel (§ 6 Absatz 1 Nummer 1 Buchstabe c). Sind andere Unterlagen nicht oder nur mit unverhältnismäßigem Aufwand auffindbar, erstreckt sich das Recht auf Einsicht und Herausgabe auf Duplikate von Karteikarten, die der Auswertung der Unterlagen dienen und in denen personenbezogene Informationen über den Antragsteller enthalten sind.
 
 # § 13 – Recht von Betroffenen und Dritten auf Auskunft, Einsicht und Herausgabe
 
@@ -679,9 +675,7 @@ Im Übrigen wird Einsicht in Duplikate gewährt, in denen die personenbezogenen 
 
 # § 14 – (weggefallen)
 
-\-
-
-# § 15 – Recht von nahen Angehörigen Vermißter oder Verstorbener auf Auskunft, Einsicht und Herausgabe
+# § 15 – Recht von nahen Angehörigen Vermisster oder Verstorbener auf Auskunft, Einsicht und Herausgabe
 
 (1) Nahen Angehörigen ist auf Antrag Auskunft zu erteilen
 
@@ -691,9 +685,9 @@ Im Übrigen wird Einsicht in Duplikate gewährt, in denen die personenbezogenen 
 
 3. zur Aufklärung des Schicksals Vermisster oder Verstorbener.
 
-Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, wenn und soweit sie sonstige berechtigte Interessen im Sinne von § 1 Absatz 1 Nummer 1 glaubhaft machen und keine überwiegenden schutzwürdigen Interessen beeinträchtigt werden. In dem Antrag nach Satz 1 oder Satz 2 sind der Zweck, zu dem die Auskunft eingeholt wird, glaubhaft zu machen und das Verwandtschaftsverhältnis zu der vermissten oder verstorbenen Person nachzuweisen.
+Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, wenn und soweit sie sonstige berechtigte Interessen im Sinne von § 1 Absatz 1 Nummer 1 glaubhaft machen und keine überwiegenden schutzwürdigen Interessen beeinträchtigt werden. In dem Antrag nach Satz 1 oder Satz 2 sind der Zweck, zu dem die Auskunft eingeholt wird, glaubhaft zu machen und das Verwandtschaftsverhältnis zu der vermissten oder verstorbenen Person nachzuweisen.
 
-(2) § 13 Abs. 1 Satz 2 und Abs. 2 bis 6 gilt entsprechend.
+(2) § 13 Absatz 1 Satz 2 und Absatz 2 bis 6 gilt entsprechend.
 
 (3) Nahe Angehörige sind Ehegatten, Lebenspartner, Kinder, Enkelkinder, Eltern und Geschwister. Als nahe Angehörige gelten hinsichtlich der leiblichen Eltern auch adoptierte Kinder sowie die leiblichen Eltern adoptierter Kinder, wenn nicht auszuschließen ist, dass der Staatssicherheitsdienst auf die Adoption oder auf das Schicksal der leiblichen Eltern Einfluss genommen hat.
 
@@ -707,7 +701,7 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 (2) Die Auskunft kann außerdem eine Umschreibung von Art und Umfang der Tätigkeit, des Personenkreises, über den berichtet worden ist, sowie der Häufigkeit der Berichterstattung umfassen.
 
-(3) Dem Mitarbeiter ist auf Antrag Einsicht in die zu seiner Person geführten Unterlagen zu gewähren. § 12 Abs. 4 Satz 2 Nr. 2 gilt nicht.
+(3) Dem Mitarbeiter ist auf Antrag Einsicht in die zu seiner Person geführten Unterlagen zu gewähren. § 12 Absatz 4 Satz 2 Nummer 2 gilt nicht.
 
 (4) Dem Mitarbeiter kann auf Antrag Auskunft aus den von ihm erstellten Berichten erteilt und Einsicht in diese gewährt werden, wenn er glaubhaft macht, dass er hieran ein rechtliches Interesse hat. Dies gilt nicht, wenn das berechtigte Interesse Betroffener oder Dritter an der Geheimhaltung überwiegt.
 
@@ -715,7 +709,7 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 # § 17 – Recht von Begünstigten auf Auskunft, Einsicht und Herausgabe
 
-(1) Für das Recht von Begünstigten auf Auskunft, Einsicht in Unterlagen und Herausgabe von Unterlagen gilt § 16 Abs. 1, 3 und 5 entsprechend.
+(1) Für das Recht von Begünstigten auf Auskunft, Einsicht in Unterlagen und Herausgabe von Unterlagen gilt § 16 Absatz 1, 3 und 5 entsprechend.
 
 (2) Der Begünstigte hat Angaben zu machen, die das Auffinden der Informationen ermöglichen.
 
@@ -723,11 +717,11 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 # § 18 – Recht auf Auskunft, Einsicht und Herausgabe bei dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
-Bei Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv nach diesem Gesetz verwahrt, gelten für das Recht auf Auskunft, Einsicht in Akten und Herausgabe von Akten anstelle des § 12 Abs. 4 bis 6 und der §§ 13, 15 bis 17 und 43 die jeweiligen gesetzlichen Verfahrensordnungen.
+Bei Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv nach diesem Gesetz verwahrt, gelten für das Recht auf Auskunft, Einsicht in Akten und Herausgabe von Akten anstelle des § 12 Absatz 4 bis 6 und der §§ 13, 15 bis 17 und 43 die jeweiligen gesetzlichen Verfahrensordnungen.
 
 # § 19 – Zugang zu den Unterlagen durch öffentliche und nichtöffentliche Stellen, Verfahrensvorschriften
 
-(1) Das Bundesarchiv macht Mitteilungen an öffentliche und nichtöffentliche Stellen, gewährt ihnen Einsicht in Unterlagen und gibt ihnen Unterlagen heraus, soweit deren Verwendung nach den §§ 20 bis 23, 25 und 26 zulässig ist. In den Fällen des § 20 Abs. 1 Nr. 6 Buchstabe c bis h, Nr. 7 Buchstabe b bis f und des § 21 Abs. 1 Nr. 6 Buchstabe c bis h und Nr. 7 Buchstabe b bis f unterbleibt eine Mitteilung, Einsichtgewährung und Herausgabe, wenn keine Hinweise vorhanden sind, dass nach dem 31. Dezember 1975 eine inoffizielle Tätigkeit für den Staatssicherheitsdienst oder einen ausländischen Nachrichtendienst vorgelegen hat. Satz 2 gilt nicht, wenn sich aus den Unterlagen Anhaltspunkte dafür ergeben, dass ein Mitarbeiter im Zusammenhang mit seiner inoffiziellen Tätigkeit ein Verbrechen begangen oder gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat.
+(1) Das Bundesarchiv macht Mitteilungen an öffentliche und nichtöffentliche Stellen, gewährt ihnen Einsicht in Unterlagen und gibt ihnen Unterlagen heraus, soweit deren Verwendung nach den §§ 20 bis 23, 25 und 26 zulässig ist. In den Fällen des § 20 Absatz 1 Nummer 6 Buchstabe c bis h, Nummer 7 Buchstabe b bis f und des § 21 Absatz 1 Nummer 6 Buchstabe c bis h und Nummer 7 Buchstabe b bis f unterbleibt eine Mitteilung, Einsichtgewährung und Herausgabe, wenn keine Hinweise vorhanden sind, dass nach dem 31. Dezember 1975 eine inoffizielle Tätigkeit für den Staatssicherheitsdienst oder einen ausländischen Nachrichtendienst vorgelegen hat. Satz 2 gilt nicht, wenn sich aus den Unterlagen Anhaltspunkte dafür ergeben, dass ein Mitarbeiter im Zusammenhang mit seiner inoffiziellen Tätigkeit ein Verbrechen begangen oder gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat.
 
 (2) Ersuchen können von der zur Erfüllung der jeweiligen Aufgabe zuständigen öffentlichen Stelle an das Bundesarchiv gerichtet werden. Wer für eine nichtöffentliche Stelle ein Ersuchen stellt, hat seine Berechtigung hierzu schriftlich unter Hinweis auf die Rechtsgrundlage nachzuweisen.
 
@@ -743,13 +737,13 @@ Bei Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv nach dies
 
 3. bei der Überprüfung von Personen in den Fällen des § 20 Absatz 1 Nummer 6, 7, 11 und 12 und des § 21 Absatz 1 Nummer 6 bis 9,
 
-4. bei der Strafverfolgung und Gefahrenabwehr in den Fällen des § 23 Abs. 1 Satz 1 Nr. 1 Buchstabe a und b und Nr. 2.
+4. bei der Strafverfolgung und Gefahrenabwehr in den Fällen des § 23 Absatz 1 Satz 1 Nummer 1 Buchstabe a und b und Nummer 2.
 
-(6) Einsicht wird gewährt, wenn Mitteilungen nicht ausreichen. § 12 Abs. 4 gilt entsprechend mit der Maßgabe, dass an die Stelle des Antragstellers die Person tritt, auf die sich das Ersuchen bezieht.
+(6) Einsicht wird gewährt, wenn Mitteilungen nicht ausreichen. § 12 Absatz 4 gilt entsprechend mit der Maßgabe, dass an die Stelle des Antragstellers die Person tritt, auf die sich das Ersuchen bezieht.
 
-(7) Unterlagen sind herauszugeben, wenn die ersuchende Stelle begründet darlegt, dass Mitteilungen und Einsichtnahme nicht ausreichen oder die Einsichtnahme mit unvertretbarem Aufwand verbunden wäre. Originalunterlagen werden nur herausgegeben, wenn dies insbesondere für Beweiszwecke unerläßlich ist. Sie sind an das Bundesarchiv unverzüglich zurückzugeben, sobald sie für den Verwendungszweck nicht mehr benötigt werden. Enthalten die Unterlagen außer den personenbezogenen Informationen über Personen, auf die sich das Ersuchen bezieht, auch solche über andere Betroffene oder Dritte, gilt § 12 Abs. 4 Satz 2 und 3 entsprechend.
+(7) Unterlagen sind herauszugeben, wenn die ersuchende Stelle begründet darlegt, dass Mitteilungen und Einsichtnahme nicht ausreichen oder die Einsichtnahme mit unvertretbarem Aufwand verbunden wäre. Originalunterlagen werden nur herausgegeben, wenn dies insbesondere für Beweiszwecke unerlässlich ist. Sie sind an das Bundesarchiv unverzüglich zurückzugeben, sobald sie für den Verwendungszweck nicht mehr benötigt werden. Enthalten die Unterlagen außer den personenbezogenen Informationen über Personen, auf die sich das Ersuchen bezieht, auch solche über andere Betroffene oder Dritte, gilt § 12 Absatz 4 Satz 2 und 3 entsprechend.
 
-(8) In den Fällen des § 20 Absatz 1 Nummer 6, 7, 11 und 12 und des § 21 Absatz 1 Nummer 6 bis 9 unterbleibt eine Mitteilung, Einsichtgewährung und Herausgabe, wenn
+(8) In den Fällen des § 20 Absatz 1 Nummer 6, 7, 11 und 12 und des § 21 Absatz 1 Nummer 6 bis 9 unterbleibt eine Mitteilung, Einsichtgewährung und Herausgabe, wenn
 
 1. sich die Informationen auf eine Tätigkeit während der Ableistung des gesetzlich vorgeschriebenen Wehrdienstes in den Streitkräften der ehemaligen DDR oder eines dem Wehrdienst entsprechenden Dienstes außerhalb des Ministeriums für Staatssicherheit beziehen, dabei keine personenbezogenen Informationen geliefert worden sind und die Tätigkeit nach Ablauf des Dienstes nicht fortgesetzt worden ist oder
 
@@ -779,11 +773,11 @@ b) Abgeordnete, Mitglieder kommunaler Vertretungen, kommunale Wahlbeamte sowie e
 
 c) Beamte, die jederzeit in den einstweiligen Ruhestand versetzt werden können, und Angestellte in entsprechender Funktion,
 
-d) Beschäftigte öffentlicher Stellen auf mit der Besoldungsgruppe A 9, der Entgeltgruppe E 9 oder einer höheren Besoldungs- oder Entgeltgruppe bewerteten Dienstposten, die unbeschadet der in Nummer 7 genannten Fälle eine leitende Funktion ausüben, sowie von der öffentlichen Hand bestellte Mitglieder der Vertretungs- und Aufsichtsorgane in Einrichtungen, bei denen sich die absolute Mehrheit der Anteile oder die absolute Mehrheit der öffentlichen Stimmen in öffentlicher Hand befindet; darüber hinaus können alle Beschäftigten im öffentlichen Dienst überprüft werden, wenn Tatsachen den Verdacht einer hauptamtlichen oder inoffiziellen Tätigkeit für das Ministerium für Staatssicherheit der ehemaligen Deutschen Demokratischen Republik rechtfertigen,
+d) Beschäftigte öffentlicher Stellen auf mit der Besoldungsgruppe A 9, der Entgeltgruppe E 9 oder einer höheren Besoldungs- oder Entgeltgruppe bewerteten Dienstposten, die unbeschadet der in Nummer 7 genannten Fälle eine leitende Funktion ausüben, sowie von der öffentlichen Hand bestellte Mitglieder der Vertretungs- und Aufsichtsorgane in Einrichtungen, bei denen sich die absolute Mehrheit der Anteile oder die absolute Mehrheit der öffentlichen Stimmen in öffentlicher Hand befindet; darüber hinaus können alle Beschäftigten im öffentlichen Dienst überprüft werden, wenn Tatsachen den Verdacht einer hauptamtlichen oder inoffiziellen Tätigkeit für das Ministerium für Staatssicherheit der ehemaligen Deutschen Demokratischen Republik rechtfertigen,
 
 e) Berufsrichter und ehrenamtliche Richter,
 
-f) Soldaten auf mit der Besoldungsgruppe A 13 oder höher bewerteten Dienstposten, die eine leitende Funktion ausüben, sowie Stabsoffiziere, die auf Dienstposten mit erheblicher Außenwirkung im integrierten Bereich (In- oder Ausland), im Attachédienst oder bei sonstigen Dienststellen im Ausland eingesetzt sind,
+f) Soldaten auf mit der Besoldungsgruppe A 13 oder höher bewerteten Dienstposten, die eine leitende Funktion ausüben, sowie Stabsoffiziere, die auf Dienstposten mit erheblicher Außenwirkung im integrierten Bereich (In- oder Ausland), im Attachédienst oder bei sonstigen Dienststellen im Ausland eingesetzt sind,
 
 g) Mitglieder des Präsidiums und des Vorstandes sowie leitende Angestellte des Deutschen Olympischen Sportbundes, seiner Spitzenverbände und der Olympiastützpunkte, Repräsentanten des deutschen Sports in internationalen Gremien sowie Trainer und verantwortliche Betreuer von Mitgliedern der deutschen Nationalmannschaften,
 
@@ -797,7 +791,7 @@ a) die oder der Bundesbeauftragte für die Opfer der SED-Diktatur beim Deutschen
 
 b) die Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Folgen der kommunistischen Diktatur und ihre Beschäftigten,
 
-c) Mitglieder des Beratungsgremiums nach § 39 und die Beschäftigten des Bundesarchivs, soweit die Beschäftigten im Rahmen ihrer Aufgabenzuweisung oder der von ihnen tatsächlich ausgeübten Tätigkeit mit Unterlagen des Staatssicherheitsdienstes befasst sind,
+c) Mitglieder des Beratungsgremiums nach § 39 und die Beschäftigten des Bundesarchivs, soweit die Beschäftigten im Rahmen ihrer Aufgabenzuweisung oder der von ihnen tatsächlich ausgeübten Tätigkeit mit Unterlagen des Staatssicherheitsdienstes befasst sind,
 
 d) diejenigen Beschäftigten öffentlicher Stellen, die mit der Bearbeitung von Anträgen nach dem Strafrechtlichen, Verwaltungsrechtlichen oder Beruflichen Rehabilitierungsgesetz befasst sind,
 
@@ -815,11 +809,11 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 11. Sicherheitsüberprüfungen von Personen mit ihrer Kenntnis gemäß den Sicherheitsüberprüfungsgesetzen des Bundes und der Länder zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen,
 
-12. Zuverlässigkeitsüberprüfungen von Personen mit ihrer Kenntnis gemäß § 7 des Luftsicherheitsgesetzes und § 12b Absatz 2 Satz 3 des Atomgesetzes sowie § 5 Absatz 1 Nummer 6, § 7 Absatz 3 Nummer 3 der Atomrechtlichen Zuverlässigkeitsüberprüfungs-Verordnung zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen.
+12. Zuverlässigkeitsüberprüfungen von Personen mit ihrer Kenntnis gemäß § 7 des Luftsicherheitsgesetzes und § 12b Absatz 2 Satz 3 des Atomgesetzes sowie § 5 Absatz 1 Nummer 6, § 7 Absatz 3 Nummer 3 der Atomrechtlichen Zuverlässigkeitsüberprüfungs-Verordnung zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen.
 
 (2) § 26 bleibt unberührt.
 
-(3) Die Verwendung für die in Absatz 1 Nr. 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
+(3) Die Verwendung für die in Absatz 1 Nummer 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
 
 # § 21 – Verwendung von Unterlagen, die personenbezogene Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nichtöffentliche Stellen
 
@@ -835,7 +829,7 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 5. Aufklärung, Erfassung und Sicherung des Vermögens der ehemaligen Deutschen Demokratischen Republik und der ehemaligen Rechtsträger mit Sitz in ihrem Gebiet sowie des Vermögens, das dem Bereich der Kommerziellen Koordinierung zugeordnet war,
 
-6. Überprüfung der folgenden Personen nach Maßgabe der dafür geltenden Vorschriften und mit ihrer Kenntnis zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit die Feststellung nicht mit den in § 20 genannten Unterlagen getroffen werden kann und es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat:
+6. Überprüfung der folgenden Personen nach Maßgabe der dafür geltenden Vorschriften und mit ihrer Kenntnis zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit die Feststellung nicht mit den in § 20 genannten Unterlagen getroffen werden kann und es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat:
 
 a) Mitglieder der Bundesregierung oder einer Landesregierung sowie sonstige in einem öffentlich-rechtlichen Amtsverhältnis stehende Personen,
 
@@ -847,7 +841,7 @@ d) Beschäftigte öffentlicher Stellen auf mit der Besoldungsgruppe A 9, der Ent
 
 e) Berufsrichter und ehrenamtliche Richter,
 
-f) Soldaten auf mit der Besoldungsgruppe A 13 oder höher bewerteten Dienstposten, die eine leitende Funktion ausüben, sowie Stabsoffiziere, die auf Dienstposten mit erheblicher Außenwirkung im integrierten Bereich (In- oder Ausland), im Attachédienst oder bei sonstigen Dienststellen im Ausland eingesetzt sind,
+f) Soldaten auf mit der Besoldungsgruppe A 13 oder höher bewerteten Dienstposten, die eine leitende Funktion ausüben, sowie Stabsoffiziere, die auf Dienstposten mit erheblicher Außenwirkung im integrierten Bereich (In- oder Ausland), im Attachédienst oder bei sonstigen Dienststellen im Ausland eingesetzt sind,
 
 g) Mitglieder des Präsidiums und des Vorstandes sowie leitende Angestellte des Deutschen Olympischen Sportbundes, seiner Spitzenverbände und der Olympiastützpunkte, Repräsentanten des deutschen Sports in internationalen Gremien sowie Trainer und verantwortliche Betreuer von Mitgliedern der deutschen Nationalmannschaften,
 
@@ -855,13 +849,13 @@ h) Personen, die sich in den Fällen der Buchstaben a bis g um das Amt, die Funk
 
 die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen,
 
-7. Überprüfung der folgenden Personen nach Maßgabe der dafür geltenden Vorschriften und mit ihrer Kenntnis zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit die Feststellung nicht mit den in § 20 genannten Unterlagen getroffen werden kann und es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat:
+7. Überprüfung der folgenden Personen nach Maßgabe der dafür geltenden Vorschriften und mit ihrer Kenntnis zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit die Feststellung nicht mit den in § 20 genannten Unterlagen getroffen werden kann und es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat:
 
 a) die oder der Bundesbeauftragte für die Opfer der SED-Diktatur beim Deutschen Bundestag und die Beschäftigten der oder des Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag,
 
 b) die Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Folgen der kommunistischen Diktatur und ihre Beschäftigten,
 
-c) Mitglieder des Beratungsgremiums nach § 39 und die Beschäftigten des Bundesarchivs, soweit die Beschäftigten im Rahmen ihrer Aufgabenzuweisung oder der von ihnen tatsächlich ausgeübten Tätigkeit mit Unterlagen des Staatssicherheitsdienstes befasst sind,
+c) Mitglieder des Beratungsgremiums nach § 39 und die Beschäftigten des Bundesarchivs, soweit die Beschäftigten im Rahmen ihrer Aufgabenzuweisung oder der von ihnen tatsächlich ausgeübten Tätigkeit mit Unterlagen des Staatssicherheitsdienstes befasst sind,
 
 d) diejenigen Beschäftigten öffentlicher Stellen, die mit der Bearbeitung von Anträgen nach dem Strafrechtlichen, Verwaltungsrechtlichen oder Beruflichen Rehabilitierungsgesetz befasst sind,
 
@@ -873,15 +867,15 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 8. Sicherheitsüberprüfungen von Personen mit ihrer Kenntnis gemäß den Sicherheitsüberprüfungsgesetzen des Bundes und der Länder zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen,
 
-9. Zuverlässigkeitsüberprüfungen von Personen mit ihrer Kenntnis gemäß § 7 des Luftsicherheitsgesetzes und § 12b Absatz 2 Satz 3 des Atomgesetzes sowie § 5 Absatz 1 Nummer 6, § 7 Absatz 3 Nummer 3 der Atomrechtlichen Zuverlässigkeitsüberprüfungs-Verordnung zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen.
+9. Zuverlässigkeitsüberprüfungen von Personen mit ihrer Kenntnis gemäß § 7 des Luftsicherheitsgesetzes und § 12b Absatz 2 Satz 3 des Atomgesetzes sowie § 5 Absatz 1 Nummer 6, § 7 Absatz 3 Nummer 3 der Atomrechtlichen Zuverlässigkeitsüberprüfungs-Verordnung zur Feststellung, ob sie hauptamtlich oder inoffiziell für den Staatssicherheitsdienst tätig waren, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat; die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nachrichtendienst beziehen.
 
-(2) Das besondere Verwendungsverbot nach § 5 Abs. 1 bleibt unberührt.
+(2) Das besondere Verwendungsverbot nach § 5 Absatz 1 bleibt unberührt.
 
-(3) Die Verwendung für die in Absatz 1 Nr. 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
+(3) Die Verwendung für die in Absatz 1 Nummer 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
 
 # § 22 – Verwendung von Unterlagen für Zwecke parlamentarischer Untersuchungsausschüsse
 
-(1) Das Recht auf Beweiserhebung durch parlamentarische Untersuchungsausschüsse nach Artikel 44 Abs. 1 und 2 des Grundgesetzes erstreckt sich auch auf Unterlagen des Staatssicherheitsdienstes.
+(1) Das Recht auf Beweiserhebung durch parlamentarische Untersuchungsausschüsse nach Artikel 44 Absatz 1 und 2 des Grundgesetzes erstreckt sich auch auf Unterlagen des Staatssicherheitsdienstes.
 
 (2) Absatz 1 gilt entsprechend für parlamentarische Untersuchungsausschüsse der Länder.
 
@@ -893,21 +887,21 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 a) Straftaten im Zusammenhang mit dem Regime der ehemaligen Deutschen Demokratischen Republik, insbesondere Straftaten im Zusammenhang mit der Tätigkeit des Staatssicherheitsdienstes, anderer Sicherheits-, Strafverfolgungs- und Strafvollzugsbehörden sowie der Gerichte,
 
-b) Verbrechen in den Fällen der §§ 211, 212, 239a, 239b, 306 bis 306c, 307 bis 309, 313, 314 und 316c des Strafgesetzbuches sowie von Straftaten nach
+b) Verbrechen in den Fällen der §§ 211, 212, 239a, 239b, 306 bis 306c, 307 bis 309, 313, 314 und 316c des Strafgesetzbuches sowie von Straftaten nach
 
 aa)  
 § 6 des Völkerstrafgesetzbuches,
 
 bb)  
-§§ 51, 52 Abs. 1 Nr. 1, 2 Buchstabe c und d sowie Abs. 5 und 6 des Waffengesetzes,
+§§ 51, 52 Absatz 1 Nummer 1, 2 Buchstabe c und d sowie Absatz 5 und 6 des Waffengesetzes,
 
-cc) § 19 Abs. 1 bis 3, § 20 Abs. 1 und 2, jeweils in Verbindung mit § 21, und § 22a Abs. 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
+cc) § 19 Absatz 1 bis 3, § 20 Absatz 1 und 2, jeweils in Verbindung mit § 21, und § 22a Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
 
 dd)  
-§ 29 Abs. 3 Satz 2 Nr. 1, § 29a Abs. 1 Nr. 2 sowie § 30 Abs. 1 Nr. 1 und 2 des Betäubungsmittelgesetzes,
+§ 29 Absatz 3 Satz 2 Nummer 1, § 29a Absatz 1 Nummer 2 sowie § 30 Absatz 1 Nummer 1 und 2 des Betäubungsmittelgesetzes,
 
 ee)  
-§ 30 Abs. 1 Nr. 4 des Betäubungsmittelgesetzes, sofern der Täter gewerbsmäßig oder als Mitglied einer Bande gehandelt hat,
+§ 30 Absatz 1 Nummer 4 des Betäubungsmittelgesetzes, sofern der Täter gewerbsmäßig oder als Mitglied einer Bande gehandelt hat,
 
 c) Straftaten im Zusammenhang mit dem nationalsozialistischen Regime,
 
@@ -915,13 +909,13 @@ d) Straftaten nach § 44 dieses Gesetzes,
 
 2. zur Abwehr einer drohenden erheblichen Gefahr für die öffentliche Sicherheit, insbesondere zur Verhütung von drohenden Straftaten.
 
-§ 5 Abs. 1 ist nicht anzuwenden. Verwertungsverbote nach den Vorschriften der Strafprozessordnung bleiben unberührt.
+§ 5 Absatz 1 ist nicht anzuwenden. Verwertungsverbote nach den Vorschriften der Strafprozessordnung bleiben unberührt.
 
 (2) Andere Unterlagen dürfen auch verwendet werden, soweit dies zur Verfolgung anderer Straftaten einschließlich der Rechtshilfe in Strafsachen sowie der Abwehr einer erheblichen Gefahr für die öffentliche Sicherheit, insbesondere zur Verhütung von Straftaten, erforderlich ist.
 
 # § 24 – Verwendung der dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
-(1) Für die Verwendung der Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv nach diesem Gesetz verwahrt, gelten anstelle der §§ 19 bis 21, 23, 25 bis 30 und 43 die jeweiligen gesetzlichen Verfahrensordnungen. § 5 Abs. 1 ist nicht anzuwenden, soweit es sich um Straftaten nach § 23 Abs. 1 Nr. 1 handelt.
+(1) Für die Verwendung der Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv nach diesem Gesetz verwahrt, gelten anstelle der §§ 19 bis 21, 23, 25 bis 30 und 43 die jeweiligen gesetzlichen Verfahrensordnungen. § 5 Absatz 1 ist nicht anzuwenden, soweit es sich um Straftaten nach § 23 Absatz 1 Nummer 1 handelt.
 
 (2) Das Bundesarchiv gibt auf Anforderung die in Absatz 1 Satz 1 genannten Unterlagen an Gerichte, Staatsanwaltschaften und Polizeibehörden, soweit sie als Hilfsorgane der Staatsanwaltschaft handeln, heraus. Die Unterlagen sind unverzüglich zurückzugeben, sobald sie für den Verwendungszweck nicht mehr benötigt werden.
 
@@ -941,7 +935,7 @@ d) Straftaten nach § 44 dieses Gesetzes,
 
 im Sinne des Bundesverfassungsschutzgesetzes betreffen.
 
-(3) In den Fällen des Absatzes 1 Satz 2 bleibt § 5 Abs. 1 unberührt.
+(3) In den Fällen des Absatzes 1 Satz 2 bleibt § 5 Absatz 1 unberührt.
 
 (4) In den Fällen des Absatzes 1 Satz 2 und des Absatzes 2 kann der Bundesminister des Innern, für Bau und Heimat die ersatzlose Herausgabe von Unterlagen anordnen, wenn das Verbleiben der Unterlagen beim Bundesarchiv dem Wohl des Bundes oder eines Landes Nachteile bereiten würde. Die Anordnung bedarf der Zustimmung des Parlamentarischen Kontrollgremiums nach dem Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes.
 
@@ -957,13 +951,13 @@ im Sinne des Bundesverfassungsschutzgesetzes betreffen.
 
 (1) Stellt das Bundesarchiv gelegentlich der Erfüllung seiner Aufgaben nach diesem Gesetz eine hauptamtliche oder inoffizielle Tätigkeit für den Staatssicherheitsdienst fest von
 
-1. Personen, die ein Amt oder eine Funktion nach § 20 Abs. 1 Nr. 6 Buchstabe a oder b ausüben,
+1. Personen, die ein Amt oder eine Funktion nach § 20 Absatz 1 Nummer 6 Buchstabe a oder b ausüben,
 
-2. Personen, die ein Amt nach § 20 Abs. 1 Nr. 7 Buchstabe a ausüben,
+2. Personen, die ein Amt nach § 20 Absatz 1 Nummer 7 Buchstabe a ausüben,
 
-3. bis 7. (weggefallen)
+3\. bis 7. (weggefallen)
 
-8. Personen, wegen deren Tätigkeit die Verwendung von Unterlagen nach § 20 Abs. 1 Nr. 4 oder § 21 Abs. 1 Nr. 4 zulässig ist,
+8. Personen, wegen deren Tätigkeit die Verwendung von Unterlagen nach § 20 Absatz 1 Nummer 4 oder § 21 Absatz 1 Nummer 4 zulässig ist,
 
 so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
@@ -971,11 +965,11 @@ so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
 1. eine Straftat im Zusammenhang mit der Tätigkeit des Staatssicherheitsdienstes,
 
-2. eine der in § 23 Abs. 1 Nr. 1 Buchstabe b genannten Straftaten,
+2. eine der in § 23 Absatz 1 Nummer 1 Buchstabe b genannten Straftaten,
 
 3. eine erhebliche Gefahr für die öffentliche Sicherheit,
 
-4. das Vorhandensein von Vermögen im Sinne des § 20 Abs. 1 Nr. 5 und § 21 Abs. 1 Nr. 5,
+4. das Vorhandensein von Vermögen im Sinne des § 20 Absatz 1 Nummer 5 und § 21 Absatz 1 Nummer 5,
 
 so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
@@ -985,19 +979,17 @@ so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
 # § 28 – (weggefallen)
 
-\-
-
 # § 29 – Zweckbindung
 
-(1) Nach den §§ 19 bis 23, 25 und 27 übermittelte personenbezogene Informationen dürfen nur für die Zwecke verarbeitet und genutzt werden, für die sie übermittelt worden sind. Für andere Zwecke dürfen sie nur verarbeitet oder genutzt werden, soweit die Voraussetzungen der §§ 20 bis 23 und 25 vorliegen.
+(1) Nach den §§ 19 bis 23, 25 und 27 übermittelte personenbezogene Informationen dürfen nur für die Zwecke verarbeitet und genutzt werden, für die sie übermittelt worden sind. Für andere Zwecke dürfen sie nur verarbeitet oder genutzt werden, soweit die Voraussetzungen der §§ 20 bis 23 und 25 vorliegen.
 
 (2) Sollen personenbezogene Informationen über Betroffene oder Dritte nach Absatz 1 Satz 2 für einen anderen Zweck verarbeitet oder genutzt werden, ist die Zustimmung des Bundesarchivs erforderlich.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für personenbezogene Informationen in den Unterlagen, die nach § 8 Abs. 2 bei öffentlichen Stellen verbleiben.
+(3) Die Absätze 1 und 2 gelten entsprechend für personenbezogene Informationen in den Unterlagen, die nach § 8 Absatz 2 bei öffentlichen Stellen verbleiben.
 
 # § 30 – Benachrichtigung von der Übermittlung
 
-(1) Werden vom Bundesarchiv personenbezogene Informationen über einen Betroffenen nach den §§ 21 und 27 Abs. 1 übermittelt, sind dem Betroffenen die Art der übermittelten Informationen und deren Empfänger mitzuteilen.
+(1) Werden vom Bundesarchiv personenbezogene Informationen über einen Betroffenen nach den §§ 21 und 27 Absatz 1 übermittelt, sind dem Betroffenen die Art der übermittelten Informationen und deren Empfänger mitzuteilen.
 
 (2) Eine Pflicht zur Benachrichtigung besteht nicht, wenn der Betroffene auf andere Weise Kenntnis von der Übermittlung erlangt hat oder die Benachrichtigung nur mit unvertretbarem Aufwand möglich wäre.
 
@@ -1007,7 +999,7 @@ so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
 (1) Lehnt das Bundesarchiv ein Ersuchen einer Behörde um Mitteilung, Einsichtnahme oder Herausgabe ab, entscheidet über die Rechtmäßigkeit dieser Ablehnung auf Antrag der betroffenen Behörde das Oberverwaltungsgericht nach mündlicher Verhandlung durch Beschluss. Der Beschluss ist unanfechtbar. Ein Vorverfahren findet nicht statt. Zuständig ist das Oberverwaltungsgericht Berlin-Brandenburg.
 
-(2) Der Vorsitzende kann aus besonderen Gründen die Einsicht in die Akten oder in Aktenteile sowie die Fertigung oder Erteilung von Auszügen und Abschriften versagen oder beschränken. Dieser Beschluss und der Beschluss des Oberverwaltungsgerichts über die Verpflichtung zur Vorlage von Urkunden nach § 99 Abs. 2 der Verwaltungsgerichtsordnung sind nicht anfechtbar. Im Übrigen sind die Beteiligten zur Geheimhaltung von Tatsachen verpflichtet, die ihnen durch Akteneinsicht zur Kenntnis gelangt sind.
+(2) Der Vorsitzende kann aus besonderen Gründen die Einsicht in die Akten oder in Aktenteile sowie die Fertigung oder Erteilung von Auszügen und Abschriften versagen oder beschränken. Dieser Beschluss und der Beschluss des Oberverwaltungsgerichts über die Verpflichtung zur Vorlage von Urkunden nach § 99 Absatz 2 der Verwaltungsgerichtsordnung sind nicht anfechtbar. Im Übrigen sind die Beteiligten zur Geheimhaltung von Tatsachen verpflichtet, die ihnen durch Akteneinsicht zur Kenntnis gelangt sind.
 
 # § 32 – Verwendung von Unterlagen für die politische und historische Aufarbeitung
 
@@ -1019,17 +1011,17 @@ so hat es dies von sich aus der zuständigen Stelle mitzuteilen.
 
 3. Unterlagen mit personenbezogenen Informationen über
 
-\-  
+–  
 Mitarbeiter des Staatssicherheitsdienstes, soweit es sich nicht um Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres gehandelt hat, oder
 
-\-  
+–  
 Begünstigte des Staatssicherheitsdienstes,
 
 4. Unterlagen mit personenbezogenen Informationen über Personen der Zeitgeschichte, Inhaber politischer Funktionen oder Amtsträger, soweit es sich um Informationen handelt, die ihre zeitgeschichtliche Rolle, Funktions- oder Amtsausübung betreffen,
 
 5. Unterlagen mit anderen personenbezogenen Informationen, wenn die schriftlichen Einwilligungen der betreffenden Personen vorgelegt werden; die Einwilligungen müssen den Antragsteller, das Vorhaben und die durchführenden Personen bezeichnen,
 
-6. Unterlagen mit personenbezogenen Informationen zu Verstorbenen, deren Tod 30 Jahre zurückliegt; diese Schutzfrist kann auf zehn Jahre verkürzt werden, wenn die Benutzung für ein wissenschaftliches Forschungsvorhaben oder zur Wahrnehmung berechtigter Belange erforderlich ist und überwiegende schutzwürdige Belange nicht beeinträchtigt werden; ist das Todesjahr nicht oder nur mit unvertretbarem Aufwand festzustellen, endet die Schutzfrist 110 Jahre nach der Geburt; die Nummern 1 bis 5 bleiben unberührt,
+6. Unterlagen mit personenbezogenen Informationen zu Verstorbenen, deren Tod 30 Jahre zurückliegt; diese Schutzfrist kann auf zehn Jahre verkürzt werden, wenn die Benutzung für ein wissenschaftliches Forschungsvorhaben oder zur Wahrnehmung berechtigter Belange erforderlich ist und überwiegende schutzwürdige Belange nicht beeinträchtigt werden; ist das Todesjahr nicht oder nur mit unvertretbarem Aufwand festzustellen, endet die Schutzfrist 110 Jahre nach der Geburt; die Nummern 1 bis 5 bleiben unberührt,
 
 7. Unterlagen mit personenbezogenen Informationen darüber hinaus, soweit
 
@@ -1039,9 +1031,9 @@ b) eine Nutzung anonymisierter Informationen zu diesem Zweck nicht möglich oder
 
 c) der Empfänger der Informationen Amtsträger oder nach dem Verpflichtungsgesetz förmlich verpflichtet worden ist.
 
-Unterlagen mit personenbezogenen Informationen nach Satz 1 Nr. 3, 4 und 7 dürfen nur zur Verfügung gestellt werden, soweit durch deren Verwendung keine überwiegenden schutzwürdigen Interessen der dort genannten Personen beeinträchtigt werden. Bei der Abwägung ist insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar auf einer Menschenrechtsverletzung beruht.
+Unterlagen mit personenbezogenen Informationen nach Satz 1 Nummer 3, 4 und 7 dürfen nur zur Verfügung gestellt werden, soweit durch deren Verwendung keine überwiegenden schutzwürdigen Interessen der dort genannten Personen beeinträchtigt werden. Bei der Abwägung ist insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar auf einer Menschenrechtsverletzung beruht.
 
-(2) Unterlagen, die sich nach § 2 Abs. 1 Nr. 3 Buchstabe b bis d in besonderer Verwahrung befinden, dürfen nur mit Einwilligung des Bundesministers des Innern, für Bau und Heimat verwendet werden.
+(2) Unterlagen, die sich nach § 2 Absatz 1 Nummer 3 Buchstabe b bis d in besonderer Verwahrung befinden, dürfen nur mit Einwilligung des Bundesministers des Innern, für Bau und Heimat verwendet werden.
 
 (3) Personenbezogene Informationen dürfen nur veröffentlicht werden, wenn
 
@@ -1049,25 +1041,25 @@ Unterlagen mit personenbezogenen Informationen nach Satz 1 Nr. 3, 4 und 7 dürfe
 
 2. es sich um Informationen handelt über
 
-\-  
+–  
 Mitarbeiter des Staatssicherheitsdienstes, soweit diese nicht Tätigkeiten für den Staatssicherheitsdienst vor Vollendung des 18. Lebensjahres betreffen, oder
 
-\-  
+–  
 Begünstigte des Staatssicherheitsdienstes,
 
 3. es sich um Informationen handelt über Personen der Zeitgeschichte, Inhaber politischer Funktionen oder Amtsträger, soweit diese ihre zeitgeschichtliche Rolle, Funktions- oder Amtsausübung betreffen, oder
 
 4. die Personen, über die personenbezogene Informationen veröffentlicht werden sollen, eingewilligt haben,
 
-5. es sich um Informationen über Verstorbene handelt, deren Tod 30 Jahre zurückliegt; diese Schutzfrist kann auf zehn Jahre verkürzt werden, wenn die Benutzung für ein wissenschaftliches Forschungsvorhaben oder zur Wahrnehmung berechtigter Belange erforderlich ist und überwiegende schutzwürdige Belange nicht beeinträchtigt werden; ist das Todesjahr nicht oder nur mit unvertretbarem Aufwand festzustellen, endet die Schutzfrist 110 Jahre nach der Geburt; die Nummern 1 bis 4 bleiben unberührt.
+5. es sich um Informationen über Verstorbene handelt, deren Tod 30 Jahre zurückliegt; diese Schutzfrist kann auf zehn Jahre verkürzt werden, wenn die Benutzung für ein wissenschaftliches Forschungsvorhaben oder zur Wahrnehmung berechtigter Belange erforderlich ist und überwiegende schutzwürdige Belange nicht beeinträchtigt werden; ist das Todesjahr nicht oder nur mit unvertretbarem Aufwand festzustellen, endet die Schutzfrist 110 Jahre nach der Geburt; die Nummern 1 bis 4 bleiben unberührt.
 
-Durch die Veröffentlichung der in Satz 1 Nr. 2 und 3 genannten personenbezogenen Informationen dürfen keine überwiegenden schutzwürdigen Interessen der genannten Personen beeinträchtigt werden. Bei der Abwägung ist insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar auf einer Menschenrechtsverletzung beruht. Personenbezogene Informationen nach Satz 1 Nr. 5 dürfen nur veröffentlicht werden, soweit durch die Veröffentlichung keine überwiegenden schutzwürdigen Interessen anderer Personen beeinträchtigt werden.
+Durch die Veröffentlichung der in Satz 1 Nummer 2 und 3 genannten personenbezogenen Informationen dürfen keine überwiegenden schutzwürdigen Interessen der genannten Personen beeinträchtigt werden. Bei der Abwägung ist insbesondere zu berücksichtigen, ob die Informationserhebung erkennbar auf einer Menschenrechtsverletzung beruht. Personenbezogene Informationen nach Satz 1 Nummer 5 dürfen nur veröffentlicht werden, soweit durch die Veröffentlichung keine überwiegenden schutzwürdigen Interessen anderer Personen beeinträchtigt werden.
 
 (4) Die Absätze 1 und 3 gelten sinngemäß auch für Zwecke der politischen und historischen Aufarbeitung der nationalsozialistischen Vergangenheit.
 
 # § 32a – Benachrichtigung
 
-(1) Sollen Unterlagen nach § 32 Abs. 1 Satz 1 Nr. 4 zur Verfügung gestellt werden, sind die hiervon betroffenen Personen zuvor rechtzeitig darüber und über den Inhalt der Information zu benachrichtigen, damit Einwände gegen ein Zugänglichmachen solcher Unterlagen vorgebracht werden können. Das Bundesarchiv berücksichtigt diese Einwände bei der nach § 32 Abs. 1 vorzunehmenden Interessenabwägung. Soweit kein Einvernehmen erzielt wird, dürfen Unterlagen erst zwei Wochen nach Mitteilung des Ergebnisses der Abwägung zugänglich gemacht werden.
+(1) Sollen Unterlagen nach § 32 Absatz 1 Satz 1 Nummer 4 zur Verfügung gestellt werden, sind die hiervon betroffenen Personen zuvor rechtzeitig darüber und über den Inhalt der Information zu benachrichtigen, damit Einwände gegen ein Zugänglichmachen solcher Unterlagen vorgebracht werden können. Das Bundesarchiv berücksichtigt diese Einwände bei der nach § 32 Absatz 1 vorzunehmenden Interessenabwägung. Soweit kein Einvernehmen erzielt wird, dürfen Unterlagen erst zwei Wochen nach Mitteilung des Ergebnisses der Abwägung zugänglich gemacht werden.
 
 (2) Eine Benachrichtigung kann entfallen, wenn die Beeinträchtigung schutzwürdiger Interessen der betreffenden Person nicht zu befürchten ist, die Benachrichtigung nicht möglich ist oder diese nur mit unverhältnismäßigem Aufwand möglich wäre.
 
@@ -1077,7 +1069,7 @@ Durch die Veröffentlichung der in Satz 1 Nr. 2 und 3 genannten personenbezogene
 
 (2) Die Einsichtnahme kann wegen der Bedeutung oder des Erhaltungszustandes der Unterlagen auf die Einsichtnahme in Duplikate beschränkt werden.
 
-(3) Soweit die Einsichtnahme in Unterlagen gestattet ist, können auf Verlangen Duplikate der Unterlagen herausgegeben werden; dies gilt nicht im Falle des § 32 Abs. 1 Satz 1 Nr. 7.
+(3) Soweit die Einsichtnahme in Unterlagen gestattet ist, können auf Verlangen Duplikate der Unterlagen herausgegeben werden; dies gilt nicht im Falle des § 32 Absatz 1 Satz 1 Nummer 7.
 
 (4) Duplikate, die nach Absatz 3 herausgegeben worden sind, dürfen von dem Empfänger weder für andere Zwecke verwendet noch an andere Stellen weitergegeben werden.
 
@@ -1089,11 +1081,7 @@ Durch die Veröffentlichung der in Satz 1 Nr. 2 und 3 genannten personenbezogene
 
 (2) Führt die Veröffentlichung personenbezogener Informationen durch Rundfunkanstalten des Bundesrechts zu Gegendarstellungen von Personen, die in der Veröffentlichung genannt sind, so sind diese Gegendarstellungen den personenbezogenen Informationen beizufügen und mit ihnen aufzubewahren. Die Informationen dürfen nur zusammen mit den Gegendarstellungen erneut veröffentlicht werden.
 
-# § 35 – (weggefallen)
-
-# § 36 – (weggefallen)
-
-# § 37 – (weggefallen)
+# §§ 35 bis 37 – (weggefallen)
 
 # § 37a – Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes
 
@@ -1103,7 +1091,7 @@ Eine Beschäftigung von ehemaligen Mitarbeitern des Staatssicherheitsdienstes be
 
 (1) Das Bundesarchiv gibt den Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Folgen der kommunistischen Diktatur Gelegenheit, zu landesspezifischen Besonderheiten bei der Verwendung der Unterlagen nach dem Dritten Abschnitt dieses Gesetzes Stellung zu nehmen.
 
-(2) Landesrecht kann bestimmen, dass die Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Folgen der kommunistischen Diktatur die Beteiligten bei der Wahrnehmung ihrer Rechte nach den §§ 13 bis 17 beraten. Diese Tätigkeit kann sich auch auf die psycho-soziale Beratung nach Abschluss der Verfahren nach § 12 erstrecken.
+(2) Landesrecht kann bestimmen, dass die Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Folgen der kommunistischen Diktatur die Beteiligten bei der Wahrnehmung ihrer Rechte nach den §§ 13 bis 17 beraten. Diese Tätigkeit kann sich auch auf die psycho-soziale Beratung nach Abschluss der Verfahren nach § 12 erstrecken.
 
 # § 39 – Beratungsgremium
 
@@ -1149,7 +1137,7 @@ Eine Beschäftigung von ehemaligen Mitarbeitern des Staatssicherheitsdienstes be
 
 (1) Personenbezogene Informationen aus Unterlagen des Staatssicherheitsdienstes darf das Bundesarchiv nur insoweit automatisiert verarbeiten, als dies zur Erfüllung seiner Aufgaben erforderlich ist.
 
-(2) Die Einrichtung automatisierter Abrufverfahren zum Zwecke der Übermittlung ist unzulässig. § 2 Abs. 1 Nr. 5 bleibt unberührt.
+(2) Die Einrichtung automatisierter Abrufverfahren zum Zwecke der Übermittlung ist unzulässig. § 2 Absatz 1 Nummer 5 bleibt unberührt.
 
 (3) Die Erteilung eines Auftrags zur Verarbeitung von Informationen aus den Unterlagen ist nur dann zulässig, wenn die Verarbeitung beim Bundesarchiv mit eigenen Mitteln nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, der Auftragsverarbeiter unter besonderer Berücksichtigung der Eignung gerade für den Umgang mit diesen Informationen ausgewählt worden ist und er die Informationen ausschließlich entsprechend den Weisungen des Bundesarchivs verarbeitet.
 
@@ -1161,9 +1149,9 @@ Gerichtsstand ist Berlin.
 
 # § 43 – Vorrang dieses Gesetzes
 
-(1) Die Regelungen dieses Gesetzes gehen Vorschriften über die Zulässigkeit der Übermittlung personenbezogener Informationen in anderen Gesetzen vor. Das Bundesdatenschutzgesetz findet mit Ausnahme der §§ 14 bis 16 des Bundesdatenschutzgesetzes keine Anwendung, soweit nicht in § 6 Abs. 9 dieses Gesetzes etwas anderes bestimmt ist.
+(1) Die Regelungen dieses Gesetzes gehen Vorschriften über die Zulässigkeit der Übermittlung personenbezogener Informationen in anderen Gesetzen vor. Das Bundesdatenschutzgesetz findet mit Ausnahme der §§ 14 bis 16 des Bundesdatenschutzgesetzes keine Anwendung, soweit nicht in § 6 Absatz 9 dieses Gesetzes etwas anderes bestimmt ist.
 
-(2) Die Rechte betroffener Personen nach Artikel 15, 16, 18 Absatz 1 Buchstabe a, b und d sowie den Artikeln 19 bis 21 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11. 2016, S. 72; L 127 vom 23.5.2018, S. 2) werden nur nach Maßgabe dieses Gesetzes gewährt.
+(2) Die Rechte betroffener Personen nach Artikel 15, 16, 18 Absatz 1 Buchstabe a, b und d sowie den Artikeln 19 bis 21 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) werden nur nach Maßgabe dieses Gesetzes gewährt.
 
 # § 44 – Strafvorschriften
 
@@ -1173,15 +1161,15 @@ Wer von diesem Gesetz geschützte Originalunterlagen oder Duplikate von Original
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 7 Abs. 3 eine Anzeige nicht oder nicht rechtzeitig erstattet,
+1. entgegen § 7 Absatz 3 eine Anzeige nicht oder nicht rechtzeitig erstattet,
 
-2. entgegen § 9 Abs. 1 Satz 1 und Abs. 2 Unterlagen oder Kopien und sonstige Duplikate von Unterlagen nicht oder nicht rechtzeitig auf Verlangen des Bundesarchivs herausgibt oder
+2. entgegen § 9 Absatz 1 Satz 1 und Absatz 2 Unterlagen oder Kopien und sonstige Duplikate von Unterlagen nicht oder nicht rechtzeitig auf Verlangen des Bundesarchivs herausgibt oder
 
-3. entgegen § 9 Abs. 3 Unterlagen dem Bundesarchiv nicht überlässt.
+3. entgegen § 9 Absatz 3 Unterlagen dem Bundesarchiv nicht überlässt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweihundertfünfzigtausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesarchiv.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesarchiv.
 
 # § 46 – (weggefallen)
 
@@ -1191,8 +1179,8 @@ Das Brief-, Post- und Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nac
 
 # § 47 – Übergangsregelung
 
-Für die Rechtsverhältnisse der bisherigen Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik und des bei Inkrafttreten dieses Gesetzes aufgrund der Regelungen in Anlage I Kapitel II Sachgebiet B Abschnitt II Nummer 2 Buchstabe b des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 912) vorhandenen Amtsinhabers ist § 36 Absatz 4 bis 6 in der Fassung der Bekanntmachung vom 18. Februar 2007 (BGBl. I S. 162), das zuletzt durch Artikel 164 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, weiter anzuwenden.
+Für die Rechtsverhältnisse der bisherigen Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik und des bei Inkrafttreten dieses Gesetzes aufgrund der Regelungen in Anlage I Kapitel II Sachgebiet  B Abschnitt  II Nummer 2 Buchstabe  b des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 912) vorhandenen Amtsinhabers ist § 36 Absatz 4 bis 6 in der Fassung der Bekanntmachung vom 18. Februar 2007 (BGBl. I S. 162), das zuletzt durch Artikel 164 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, weiter anzuwenden.
 
 # § 48 – Evaluierung
 
-Die für Kultur und Medien zuständige oberste Bundesbehörde legt dem Deutschen Bundestag nach Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes vom 9. April 2021 (BGBl. I S. 750) einen Evaluierungsbericht zum Transformationsprozess des Stasi-Unterlagen-Archivs in das Bundesarchiv vor. Im Zuge der Evaluierung wird geprüft, ob das Bestehen des Beratungsgremiums nach § 39 Absatz 1 für weitere fünf Jahre erforderlich ist.
+Die für Kultur und Medien zuständige oberste Bundesbehörde legt dem Deutschen Bundestag nach Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes vom 9. April 2021 (BGBl. I S. 750) einen Evaluierungsbericht zum Transformationsprozess des Stasi-Unterlagen-Archivs in das Bundesarchiv vor. Im Zuge der Evaluierung wird geprüft, ob das Bestehen des Beratungsgremiums nach § 39 Absatz 1 für weitere fünf Jahre erforderlich ist.

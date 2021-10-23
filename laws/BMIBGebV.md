@@ -43,9 +43,9 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
-1. für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 23. Oktober 2018 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung und
+1. für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung und
 
-2. für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 23. Oktober 2018 geltenden Fassung.
+2. für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
 
 # § 4 – Übergangsvorschrift
 
@@ -57,6 +57,6 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 # Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
-(Fundstelle: BGBl. I 2019, 1360 - 1372)
+(Fundstelle: BGBl. I 2021, 4229 - 4242)
 
  
