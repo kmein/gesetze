@@ -6537,7 +6537,7 @@ Die §§ 107 bis 108c gelten für Wahlen zu den Volksvertretungen, für die Wahl
 
 # § 108e – Bestechlichkeit und Bestechung von Mandatsträgern
 
-(1) Wer als Mitglied einer Volksvertretung des Bundes oder der Länder einen ungerechtfertigten Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er bei der Wahrnehmung seines Mandates eine Handlung im Auftrag oder auf Weisung vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(1) Wer als Mitglied einer Volksvertretung des Bundes oder der Länder einen ungerechtfertigten Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er bei der Wahrnehmung seines Mandates eine Handlung im Auftrag oder auf Weisung vornehme oder unterlasse, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
 (2) Ebenso wird bestraft, wer einem Mitglied einer Volksvertretung des Bundes oder der Länder einen ungerechtfertigten Vorteil für dieses Mitglied oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass es bei der Wahrnehmung seines Mandates eine Handlung im Auftrag oder auf Weisung vornehme oder unterlasse.
 
