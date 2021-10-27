@@ -590,7 +590,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 4. über Klagen, denen Vorgänge im Geschäftsbereich des Bundesnachrichtendienstes zugrunde liegen,
 
-5. über Klagen gegen Maßnahmen und Entscheidungen nach § 44a des Abgeordnetengesetzes, nach den Verhaltensregeln für Mitglieder des Deutschen Bundestages, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
+5. über Klagen gegen Maßnahmen und Entscheidungen nach § 12 Absatz 3a des Abgeordnetengesetzes, nach den Vorschriften des Elften Abschnitts des Abgeordnetengesetzes, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
 6. über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz, dem § 43e Absatz 4 des Energiewirtschaftsgesetzes, dem § 54a Absatz 1 des Windenergie-auf-See-Gesetzes oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
 

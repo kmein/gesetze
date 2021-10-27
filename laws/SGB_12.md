@@ -1793,7 +1793,7 @@ Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlun
 
 (3) In den Fällen des Absatzes 2 Satz 3 erteilt die Krankenkasse über den Träger der Sozialhilfe die in § 62 Absatz 1 Satz 1 des Fünften Buches genannte Bescheinigung jeweils bis zum 1. Januar oder bei Aufnahme in eine stationäre Einrichtung und teilt dem Träger der Sozialhilfe die Höhe der der leistungsberechtigten Person zu leistenden Zuzahlungen mit; Veränderungen im Laufe eines Kalenderjahres sind unverzüglich mitzuteilen.
 
-(4) Für die Rückzahlung von Darlehen Absatz 1 können von den monatlichen Regelsätzen Teilbeträge bis zur Höhe von jeweils 5 vom Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 einbehalten werden. Die Rückzahlung von Darlehen Absatz 2 erfolgt in gleichen Teilbeträgen über das ganze Kalenderjahr.
+(4) Für die Rückzahlung von Darlehen Absatz 1 können von den monatlichen Regelsätzen Teilbeträge bis zur Höhe von jeweils 5 vom Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 einbehalten werden. Die Rückzahlung von Darlehen nach Absatz 2 erfolgt in gleichen Teilbeträgen über das ganze Kalenderjahr.
 
 # § 37a – Darlehen bei am Monatsende fälligen Einkünften
 
