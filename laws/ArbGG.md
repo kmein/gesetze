@@ -781,7 +781,7 @@ c) zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaub
 
 (6) Für das Verfahren vor den Landesarbeitsgerichten gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
-(7) Die Vorschriften des § 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
+(7) Die Vorschriften der §§ 46c bis 46f, 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind vorrangig zu erledigen.
 
@@ -847,7 +847,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Revision mit Ausnahme des § 566 entsprechend.
 
-(6) Die Vorschriften des § 49 Abs. 1, der §§ 50, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über Ablehnung von Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
+(6) Die Vorschriften der §§ 46c bis 46f, 49 Abs. 1, der §§ 50, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
 
 # § 72a – Nichtzulassungsbeschwerde
 
@@ -963,7 +963,7 @@ Die Vorschriften der Zivilprozeßordnung über die Wiederaufnahme des Verfahrens
 
 (1) Das Beschlußverfahren findet in den in § 2a bezeichneten Fällen Anwendung.
 
-(2) Für das Beschlußverfahren des ersten Rechtszugs gelten die für das Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften über Prozeßfähigkeit, Prozeßvertretung, Ladungen, Termine und Fristen, Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, gütliche Erledigung des Verfahrens, Wiedereinsetzung in den vorigen Stand und Wiederaufnahme des Verfahrens entsprechend; soweit sich aus den §§ 81 bis 84 nichts anderes ergibt. Der Vorsitzende kann ein Güteverfahren ansetzen; die für das Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften über das Güteverfahren gelten entsprechend.
+(2) Für das Beschlussverfahren des ersten Rechtszugs gelten die für das Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften entsprechend, soweit sich aus den §§ 81 bis 84 nichts anderes ergibt. Der Vorsitzende kann ein Güteverfahren ansetzen; die für das Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften über das Güteverfahren gelten entsprechend.
 
 (3) § 48 Abs. 1 findet entsprechende Anwendung.
 
@@ -1025,7 +1025,7 @@ Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahren
 
 (1) Gegen die das Verfahren beendenden Beschlüsse der Arbeitsgerichte findet die Beschwerde an das Landesarbeitsgericht statt.
 
-(2) Für das Beschwerdeverfahren gelten die für das Berufungsverfahren maßgebenden Vorschriften über die Einlegung der Berufung und ihre Begründung, über Prozeßfähigkeit, Ladungen, Termine und Fristen, Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, gütliche Erledigung des Rechtsstreits, Wiedereinsetzung in den vorigen Stand und Wiederaufnahme des Verfahrens sowie die Vorschriften des § 85 über die Zwangsvollstreckung entsprechend. Für die Vertretung der Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2 Satz 2 und 3 und Absatz 3 ist entsprechend anzuwenden.
+(2) Für das Beschwerdeverfahren gelten die für das Berufungsverfahren maßgebenden Vorschriften sowie die Vorschrift des § 85 über die Zwangsvollstreckung entsprechend, soweit sich aus den §§ 88 bis 91 nichts anderes ergibt. Für die Vertretung der Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2 Satz 2 und 3 und Absatz 3 ist entsprechend anzuwenden.
 
 (3) In erster Instanz zu Recht zurückgewiesenes Vorbringen bleibt ausgeschlossen. Neues Vorbringen, das im ersten Rechtszug entgegen einer hierfür nach § 83 Abs. 1a gesetzten Frist nicht vorgebracht wurde, kann zurückgewiesen werden, wenn seine Zulassung nach der freien Überzeugung des Landesarbeitsgerichts die Erledigung des Beschlussverfahrens verzögern würde und der Beteiligte die Verzögerung nicht genügend entschuldigt. Soweit neues Vorbringen nach Satz 2 zulässig ist, muss es der Beschwerdeführer in der Beschwerdebegründung, der Beschwerdegegner in der Beschwerdebeantwortung vortragen. Wird es später vorgebracht, kann es zurückgewiesen werden, wenn die Möglichkeit es vorzutragen vor der Beschwerdebegründung oder der Beschwerdebeantwortung entstanden ist und das verspätete Vorbringen nach der freien Überzeugung des Landesarbeitsgerichts die Erledigung des Rechtsstreits verzögern würde und auf dem Verschulden des Beteiligten beruht.
 
@@ -1051,7 +1051,7 @@ Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahren
 
 (2) Für das Verfahren sind die §§ 83 und 83a entsprechend anzuwenden.
 
-(3) Gegen Beschlüsse und Verfügungen des Landesarbeitsgerichts oder seines Vorsitzenden findet kein Rechtsmittel statt.
+(3) (weggefallen)
 
 # § 91 – Entscheidung
 
@@ -1063,7 +1063,7 @@ Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahren
 
 (1) Gegen den das Verfahren beendenden Beschluß eines Landesarbeitsgerichts findet die Rechtsbeschwerde an das Bundesarbeitsgericht statt, wenn sie in dem Beschluß des Landesarbeitsgerichts oder in dem Beschluß des Bundesarbeitsgerichts nach § 92a Satz 2 zugelassen wird. § 72 Abs. 1 Satz 2, Abs. 2 und 3 ist entsprechend anzuwenden. In den Fällen des § 85 Abs. 2 findet die Rechtsbeschwerde nicht statt.
 
-(2) Für das Rechtsbeschwerdeverfahren gelten die für das Revisionsverfahren maßgebenden Vorschriften über Einlegung der Revision und ihre Begründung, Prozeßfähigkeit, Ladung, Termine und Fristen, Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der Beisitzer, gütliche Erledigung des Rechtsstreits, Wiedereinsetzung in den vorigen Stand und Wiederaufnahme des Verfahrens sowie die Vorschriften des § 85 über die Zwangsvollstreckung entsprechend, soweit sich aus den §§ 93 bis 96 nichts anderes ergibt. Für die Vertretung der Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2 Satz 2 und 3 ist entsprechend anzuwenden.
+(2) Für das Rechtsbeschwerdeverfahren gelten die für das Revisionsverfahren maßgebenden Vorschriften sowie die Vorschrift des § 85 über die Zwangsvollstreckung entsprechend, soweit sich aus den §§ 93 bis 96 nichts anderes ergibt. Für die Vertretung der Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2 Satz 2 und 3 ist entsprechend anzuwenden.
 
 (3) Die Einlegung der Rechtsbeschwerde hat aufschiebende Wirkung. § 85 Abs. 1 Satz 2 bleibt unberührt.
 
@@ -1111,7 +1111,7 @@ Die Rechtsbeschwerdeschrift und die Rechtsbeschwerdebegründung werden den Betei
 
 (2) Für Verfahren nach § 2a Absatz 1 Nummer 4 ist das Landesarbeitsgericht zuständig, in dessen Bezirk die Vereinigung, über deren Tariffähigkeit oder Tarifzuständigkeit zu entscheiden ist, ihren Sitz hat.
 
-(2a) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 90 Absatz 3, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend.
+(2a) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend.
 
 (3) Der rechtskräftige Beschluss über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung wirkt für und gegen jedermann. Die Vorschrift des § 63 über die Übersendung von Urteilen gilt entsprechend für die rechtskräftigen Beschlüsse von Gerichten für Arbeitssachen im Verfahren nach § 2a Abs. 1 Nr. 4.
 
@@ -1131,7 +1131,7 @@ die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der Rechtsverord
 
 (2) Für Verfahren nach § 2a Absatz 1 Nummer 5 ist das Landesarbeitsgericht zuständig, in dessen Bezirk die Behörde ihren Sitz hat, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat.
 
-(3) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 90 Absatz 3, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend. In dem Verfahren ist die Behörde, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat, Beteiligte.
+(3) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend. In dem Verfahren ist die Behörde, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat, Beteiligte.
 
 (4) Der rechtskräftige Beschluss über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung wirkt für und gegen jedermann. Rechtskräftige Beschlüsse von Gerichten für Arbeitssachen im Verfahren nach § 2a Absatz 1 Nummer 5 sind alsbald der obersten Arbeitsbehörde des Bundes in vollständiger Form abschriftlich zu übersenden oder elektronisch zu übermitteln. Soweit eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung rechtskräftig als wirksam oder unwirksam festgestellt wird, ist die Entscheidungsformel durch die oberste Arbeitsbehörde des Bundes im Bundesanzeiger bekannt zu machen.
 
