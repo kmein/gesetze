@@ -292,7 +292,11 @@ Zum Besitz von Kernbrennstoffen berechtigt auch eine Anordnung nach § 19 Abs. 3
 
 Die Erzeugung der in Anlage 3 Spalte 2 aufgeführten Elektrizitätsmengen ist durch ein Messgerät zu messen. Das Messgerät nach Satz 2 muss den Vorschriften des Mess- und Eichgesetzes und den auf Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen entsprechen. Ein Messgerät nach Satz 2 darf erst in Betrieb genommen werden, nachdem eine Behörde nach § 54 Absatz 1 des Mess- und Eichgesetzes dessen Eignung und ordnungsgemäßes Verwenden festgestellt hat. Wer ein Messgerät nach Satz 2 verwendet, muss das Messgerät unverzüglich so aufstellen und anschließen sowie so handhaben und warten, dass die Richtigkeit der Messung und die zuverlässige Ablesung der Anzeige gewährleistet sind. Die Vorschriften des Mess- und Eichgesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnung finden Anwendung. Der Genehmigungsinhaber hat den bestimmungsgemäßen Zustand des Messgerätes in jedem Kalenderjahr durch eine Sachverständigenorganisation und die in jedem Kalenderjahr erzeugte Elektrizitätsmenge binnen eines Monats durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft überprüfen und bescheinigen zu lassen.
 
-(1b) Elektrizitätsmengen nach Anlage 3 Spalte 2 können ganz oder teilweise von einer Anlage auf eine andere Anlage übertragen werden, wenn die empfangende Anlage den kommerziellen Leistungsbetrieb später als die abgebende Anlage begonnen hat. Elektrizitätsmengen können abweichend von Satz 1 auch von einer Anlage übertragen werden, die den kommerziellen Leistungsbetrieb später begonnen hat, wenn das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundeskanzleramt und dem Bundesministerium für Wirtschaft und Energie der Übertragung zugestimmt hat. Die Zustimmung nach Satz 2 ist nicht erforderlich, wenn die abgebende Anlage den Leistungsbetrieb dauerhaft einstellt und ein Antrag nach Absatz 3 Satz 1 zur Stilllegung der Anlage gestellt worden ist. Elektrizitätsmengen nach Anlage 3 Spalte 2 können von Anlagen nach Absatz 1a Satz 1 Nummer 1 bis 6 auch nach Erlöschen der Berechtigung zum Leistungsbetrieb nach den Sätzen 1 bis 3 übertragen werden.
+(1b) Elektrizitätsmengen nach Anlage 3 Spalte 2 können ganz oder teilweise von einer Anlage auf eine andere Anlage übertragen werden, wenn die empfangende Anlage den kommerziellen Leistungsbetrieb später als die abgebende Anlage begonnen hat. Elektrizitätsmengen können abweichend von Satz 1 auch von einer Anlage übertragen werden, die den kommerziellen Leistungsbetrieb später begonnen hat, wenn das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundeskanzleramt und dem Bundesministerium für Wirtschaft und Energie der Übertragung zugestimmt hat. Die Zustimmung nach Satz 2 ist nicht erforderlich, wenn die abgebende Anlage den Leistungsbetrieb dauerhaft einstellt und ein Antrag nach Absatz 3 Satz 1 zur Stilllegung der Anlage gestellt worden ist. Elektrizitätsmengen nach Anlage 3 Spalte 2 können vorbehaltlich des Satzes 5 von Anlagen nach Absatz 1a Satz 1 Nummer 1 bis 6 auch nach Erlöschen der Berechtigung zum Leistungsbetrieb nach den Sätzen 1 bis 3 übertragen werden. Aus den Elektrizitätsmengenkontingenten der Kernkraftwerke Brunsbüttel und Krümmel gemäß Anlage 3 Spalte 2 sind von einer Übertragung nach den Sätzen 1 bis 4 ausgenommen
+
+1. für das Kernkraftwerk Brunsbüttel Elektrizitätsmengen von 7 333,113 Gigawattstunden und
+
+2. für das Kernkraftwerk Krümmel Elektrizitätsmengen von 26 022,555 Gigawattstunden.
 
 (1c) Der Genehmigungsinhaber hat der zuständigen Behörde
 
@@ -304,7 +308,7 @@ Die Erzeugung der in Anlage 3 Spalte 2 aufgeführten Elektrizitätsmengen ist du
 
 Der Genehmigungsinhaber hat in der ersten monatlichen Mitteilung über die erzeugte Elektrizitätsmenge nach Satz 1 Nr. 1 eine Mitteilung über die seit dem 1. Januar 2000 bis zum letzten Tag des April 2002 erzeugte Elektrizitätsmenge zu übermitteln, die von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft überprüft und bescheinigt worden ist. Der Zeitraum der ersten monatlichen Mitteilung beginnt ab dem 1. Mai 2002. Die übermittelten Informationen nach Satz 1 Nummer 1 bis 3 sowie die Angabe der jeweils noch verbleibenden Elektrizitätsmenge werden durch die zuständige Behörde im Bundesanzeiger bekannt gemacht; hierbei werden die erzeugten Elektrizitätsmengen im Sinne des Satzes 1 Nummer 1 jährlich zusammengerechnet für ein Kalenderjahr im Bundesanzeiger bekannt gemacht, jedoch bei einer voraussichtlichen Restlaufzeit von weniger als sechs Monaten monatlich.
 
-(1d) Für das Kernkraftwerk Mülheim-Kärlich gelten Absatz 1a Satz 1, Absatz 1b Satz 1 bis 3 und Absatz 1c Satz 1 Nr. 3 mit der Maßgabe, dass die in Anlage 3 Spalte 2 aufgeführte Elektrizitätsmenge nur nach Übertragung auf die dort aufgeführten Kernkraftwerke in diesen produziert werden darf.
+(1d) Für das Kernkraftwerk Mülheim-Kärlich gelten Absatz 1a Satz 1, Absatz 1b Satz 1 bis 3 und Absatz 1c Satz 1 Nr. 3 mit der Maßgabe, dass vorbehaltlich des Satzes 2 die in Anlage 3 Spalte 2 aufgeführte Elektrizitätsmenge nur nach Übertragung auf die dort aufgeführten Kernkraftwerke in diesen produziert werden darf. Aus dem Elektrizitätsmengenkontingent des Kernkraftwerks Mülheim-Kärlich gemäß Anlage 3 Spalte 2 sind von einer Übertragung nach Absatz 1b Satz 1 bis 3 ausgenommen Elektrizitätsmengen von 25 900,00 Gigawattstunden.
 
 (1e) (weggefallen)
 
@@ -334,7 +338,7 @@ Der Genehmigungsinhaber hat in der ersten monatlichen Mitteilung über die erzeu
 
 § 7 Abs. 1a Satz 1 u. 2: IdF d. Art. 1 Nr. 1 Buchst. a G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
 § 7 Abs. 1b Satz 1: IdF d. Art. 1 Nr. 1 Buchst. b G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. b DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
-§ 7 Abs. 1b Satz 4: Eingef. durch Art. 1 Nr. 1 Buchst. b DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
+§ 7 Abs. 1b Satz 4: Eingef. durch Art. 1 Nr. 1 Buchst. b DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.); idF d. Art. 1 Nr. 1 Buchst. a G v. 10.8.2021 I 3530 mWv 31.10.2021  
 § 7 Abs. 1c Satz 1 Nr. 1: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
 § 7 Abs. 1c Satz 4: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)
 
@@ -379,6 +383,62 @@ Die organisatorischen Vorkehrungen des anlageninternen Notfallschutzes müssen d
 # § 7d – Weitere Vorsorge gegen Risiken
 
 Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität hat entsprechend dem fortschreitenden Stand von Wissenschaft und Technik dafür zu sorgen, dass die Sicherheitsvorkehrungen verwirklicht werden, die jeweils entwickelt, geeignet und angemessen sind, um zusätzlich zu den Anforderungen des § 7 Absatz 2 Nummer 3 einen nicht nur geringfügigen Beitrag zur weiteren Vorsorge gegen Risiken für die Allgemeinheit zu leisten.
+
+# § 7e – Finanzieller Ausgleich
+
+(1) Als Ausgleich für Investitionen, die im berechtigten Vertrauen auf die durch das Elfte Gesetz zur Änderung des Atomgesetzes vom 8. Dezember 2010 (BGBl. I S. 1814) in Anlage 3 Spalte 4 zusätzlich zugewiesenen Elektrizitätsmengen vorgenommen, durch das Dreizehnte Gesetz zur Änderung des Atomgesetzes vom 31. Juli 2011 (BGBl. I S. 1704) jedoch entwertet wurden, hat
+
+1. die EnBW Energie Baden-Württemberg AG einen Anspruch auf Zahlung von 80 Millionen Euro,
+
+2. die PreussenElektra GmbH einen Anspruch auf Zahlung von 42,5 Millionen Euro,
+
+3. die RWE Nuclear GmbH einen Anspruch auf Zahlung von 20 Millionen Euro.
+
+(2) Als Ausgleich für Elektrizitätsmengen aus den Elektrizitätsmengenkontingenten der Kernkraftwerke Brunsbüttel, Krümmel und Mülheim-Kärlich gemäß Anlage 3 Spalte 2, die auf Grund des Dreizehnten Gesetzes zur Änderung des Atomgesetzes vom 31. Juli 2011 (BGBl. I S. 1704) in konzerneigenen Kernkraftwerken nicht verwertet werden können, hat
+
+1. die RWE Nuclear GmbH einen Anspruch auf Zahlung von 860,398 Millionen Euro für Elektrizitätsmengen von 25 900,00 Gigawattstunden des Kernkraftwerks Mülheim-Kärlich,
+
+2. die Vattenfall Europe Nuclear Energy GmbH einen Anspruch auf Zahlung von
+
+a) 243,606 025 Millionen Euro für Elektrizitätsmengen von 7 333,113 Gigawattstunden des Kernkraftwerks Brunsbüttel und
+
+b) 1,181 809 277 Milliarden Euro für Elektrizitätsmengen von 41 022,555 Gigawattstunden des Kernkraftwerks Krümmel.
+
+(3) Der Bund fordert einen Ausgleich, der auf Grund der Absätze 1 und 2 geleistet worden ist, zurück, soweit die Europäische Kommission durch bestandskräftigen Beschluss gemäß Artikel 9 Absatz 5 oder Artikel 13 der Verordnung (EU) 2015/1589 des Rates vom 13. Juli 2015 über besondere Vorschriften für die Anwendung von Artikel 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 248 vom 24.9.2015, S. 9) oder ein Unionsgericht rechtskräftig festgestellt hat, dass der Ausgleich eine mit dem Binnenmarkt unvereinbare Beihilfe ist.Der zurückzuzahlende Betrag ist ab dem Zeitpunkt, zu dem der Anspruchsinhaber ihn empfangen hat, in Höhe des von der Europäischen Kommission festgelegten Zinssatzes auf Grund der Verordnung (EG) Nr. 794/2004 der Kommission vom 21. April 2004 zur Durchführung der Verordnung (EG) Nr. 659/1999 des Rates über besondere Vorschriften für die Anwendung von Artikel 93 des EG-Vertrags (ABl. L 140 vom 30.4.2004, S. 1; L 25 vom 28.1.2005, S. 74; L 131 vom 25.5.2005, S. 45), die zuletzt durch die Verordnung (EU) 2016/2105 (ABl. L 327 vom 2.12.2016, S. 19) geändert worden ist, zu verzinsen.
+
+# § 7f – Zahlung an den Bund
+
+Werden Elektrizitätsmengen auf Grund von § 7 Absatz 1b Satz 1 und 4 vom Kernkraftwerk Krümmel auf das Kernkraftwerk Neckarwestheim 2 übertragen, hat die EnBW Energie Baden-Württemberg AG dem Bund für jede hieraus erzeugte Megawattstunde einen Betrag in Höhe von 13,92 Euro zuzüglich Umsatzsteuer zu zahlen.
+
+# § 7g – Ermächtigung zum Abschluss eines öffentlich-rechtlichen Vertrages
+
+Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Energie werden ermächtigt, für die Bundesrepublik Deutschland mit der EnBW Energie Baden-Württemberg AG, der E.ON SE, der RWE AG und der Vattenfall AB sowie Gesellschaften, an denen sie unmittelbar oder mittelbar Anteile halten und die durch das Dreizehnte Gesetz zur Änderung des Atomgesetzes betroffen sind, einen öffentlich-rechtlichen Vertrag zu schließen.In dem Vertrag dürfen die aus den §§ 7e und 7f folgenden Rechte und Pflichten zusätzlich geregelt werden.In dem Vertrag können zudem insbesondere konkretisierende Regelungen getroffen werden
+
+1. zu Elektrizitätsmengenübertragungen auf Grund von § 7 Absatz 1b,
+
+2. zur Rückzahlung von Erlösen aus Elektrizitätsmengenübertragungen auf Grund von § 7 Absatz 1b,
+
+3. zur konzernbezogenen Zuordnung von Elektrizitätsmengen gemäß Anlage 3 Spalte 2,
+
+4. zu Ausgleichszahlungen auf Grund von § 7e Absatz 2 für in konzerneigenen Kernkraftwerken nicht verwertbare Elektrizitätsmengen gemäß Anlage 3 Spalte 2, einschließlich der dazugehörigen Auszahlungsmodalitäten,
+
+5. zur Zahlungsverpflichtung der EnBW Energie Baden-Württemberg AG gegenüber dem Bund auf Grund von § 7f,
+
+6. zu Ausgleichszahlungen für entwertete Investitionen auf Grund von § 7e Absatz 1, einschließlich der dazugehörigen Auszahlungsmodalitäten,
+
+7. zur Anpassung der Ausgleichsregelungen, soweit die Europäische Kommission, ohne dass sie einen Beschluss erlässt, Beanstandungen äußert oder Änderungen anregt,
+
+8. zur Anpassung der Ausgleichsregelungen, soweit eine beihilferechtliche Genehmigung der Europäischen Kommission bestandskräftig mit Auflagen und Bedingungen verbunden wird,
+
+9. zur Anpassung der Ausgleichsregelungen, soweit die Europäische Kommission durch bestandskräftigen Beschluss oder ein Unionsgericht rechtskräftig festgestellt hat, dass der Ausgleich eine mit dem Binnenmarkt unvereinbare Beihilfe ist,
+
+10. zur Durchsetzung des Unionsrechts und zur Rückforderung des Ausgleichs durch den Bund, soweit die Europäische Kommission durch bestandskräftigen Beschluss oder ein Unionsgericht rechtskräftig festgestellt hat, dass der Ausgleich eine mit dem Binnenmarkt unvereinbare Beihilfe ist,
+
+11. zur Ruhendstellung und Beendigung von Klage-und Schiedsgerichtsverfahren einschließlich der Rücknahme anhängiger Rechtsbehelfe,
+
+12. zur Rücknahme von Anträgen, die auf Grund von § 7e des Sechzehnten Gesetzes zur Änderung des Atomgesetzes (BGBl. I S. 1122) beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit eingereicht worden sind,
+
+13. zum Verzicht auf Ansprüche und Rechtsbehelfe, insbesondere auf Klage-und Schiedsgerichtsverfahren.
 
 # § 8 – Verhältnis zum Bundes-Immissionsschutzgesetz und zum Gesetz über überwachungsbedürftige Anlagen
 
