@@ -43,9 +43,33 @@ b) der ausländischen Behörde, der nach § 59 Absatz 5 in Verbindung mit § 27 
 
 2. für die Länder die Behörde, die dafür zuständig ist, das zentrale Internetportal des Landes aufzubauen und zu betreiben.
 
-# § 3 – (zukünftig in Kraft)
+# § 3 – Funktionen der zentralen Internetportale
 
-(+++ § 3: Tritt gem. Art. 4 Abs. 2 V v. 11.11.2020 I 2428 am 1.11.2021 in Kraft +++)
+(1) Zur Ermöglichung eines einfachen Zugangs zu den Daten werden die zentralen Internetportale von der portalbetreibenden Behörde so aufgebaut und betrieben, dass sie die folgenden Funktionen umfassen:
+
+1. einen kosten- und anmeldefreien Zugang,
+
+2. eine interaktive Kartenansicht, auf der die Vorhaben markiert sind,
+
+3. eine Listenansicht aller Vorhaben, in der zu jedem Vorhaben angezeigt werden
+
+a) die jeweilige Bezeichnung des Vorhabens und
+
+b) die allgemein verständliche Bezeichnung der Kategorie des Vorhabens,
+
+4. eine Vorhaben-Detailseite, auf der gesammelt zu einem Vorhaben angezeigt werden
+
+a) die in Nummer 3 genannten Bezeichnungen,
+
+b) eine kurze Beschreibung des Vorhabens und
+
+c) die im Sinne des § 20 Absatz 2 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung zuständige Behörde sowie ihre Kontaktdaten,
+
+5. eine Suchfunktion in der Listenansicht aller Vorhaben, mit der Vorhaben nach der Vorhabenbezeichnung gesucht werden können, und
+
+6. eine Filterfunktion in der Listenansicht aller Vorhaben, mit der Vorhaben nach der Vorhabenkategorie gefiltert werden können.
+
+(2) Die portalbetreibende Behörde kann weitere Funktionen im zentralen Internetportal zur Verfügung stellen, insbesondere um dem technischen Fortschritt Rechnung zu tragen und den Zugang zu den Daten weiter zu erleichtern.
 
 # § 4 – Art und Weise der Zugänglichmachung der Daten
 
