@@ -1318,7 +1318,7 @@ Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen. Ihm i
 
 8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
 
-9. Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
+9. Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
 
 Beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und sieben Ziffern.
 

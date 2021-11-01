@@ -344,17 +344,17 @@ Vorbemerkung 1:
 
 Persönliche Zustellung durch den Gerichtsvollzieher ..........
 
-10,00 €
+11,00 €
 
 101
 
 Sonstige Zustellung ..........
 
-3,00 €
+3,30 €
 
 102
 
-Beglaubigung eines Schriftstückes, das dem Gerichtsvollzieher zum Zwecke der Zustellung übergeben wurde (§ 192 Abs. 2 ZPO)
+Beglaubigung eines Schriftstückes, das dem Gerichtsvollzieher zum Zwecke der Zustellung übermittelt wurde (§ 193 Abs. 1 ZPO)
 
  
 
@@ -376,13 +376,13 @@ Vollstreckung
 
 Amtshandlung nach § 845 Abs. 1 Satz 2 ZPO (Vorpfändung) ..........
 
-16,00 €
+17,60 €
 
 205
 
 Bewirkung einer Pfändung (§ 808 Abs. 1, 2 Satz 2, §§ 809, 826 oder § 831 ZPO) ..........
 
-26,00 €
+28,60 €
 
  
 
@@ -394,13 +394,13 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Übernahme beweglicher Sachen zum Zwecke der Verwertung in den Fällen der §§ 847 und 854 ZPO ..........
 
-16,00 €
+17,60 €
 
 207
 
 Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........
 
-16,00 €
+17,60 €
 
 Die Gebühr entsteht auch im Fall der gütlichen Erledigung.
 
@@ -416,19 +416,19 @@ Der Gerichtsvollzieher ist gleichzeitig mit einer auf eine Maßnahme nach § 802
 
 Die Gebühr 207 ermäßigt sich auf ..........
 
-8,00 €
+8,80 €
 
 210
 
 Übernahme des Vollstreckungsauftrags von einem anderen Gerichtsvollzieher, wenn der Schuldner unter Mitnahme der Pfandstücke in einen anderen Amtsgerichtsbezirk verzogen ist ..........
 
-16,00 €
+17,60 €
 
 220
 
 Entfernung von Pfandstücken, die im Gewahrsam des Schuldners, des Gläubigers oder eines Dritten belassen waren ..........
 
-16,00 €
+17,60 €
 
  
 
@@ -440,7 +440,7 @@ Die Gebühr wird auch dann nur einmal erhoben, wenn die Pfandstücke aufgrund me
 
 Wegnahme oder Entgegennahme beweglicher Sachen durch den zur Vollstreckung erschienenen Gerichtsvollzieher ..........
 
-26,00 €
+28,60 €
 
  
 
@@ -452,7 +452,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Wegnahme oder Entgegennahme einer Person durch den zur Vollstreckung erschienenen Gerichtsvollzieher ..........
 
-52,00 €
+57,20 €
 
  
 
@@ -484,7 +484,7 @@ Die Gebühr 240 ermäßigt sich auf .......... Mit der Gebühr sind auch die Dok
 
 Wegnahme ausländischer Schiffe, die in das Schiffsregister eingetragen werden müssten, wenn sie deutsche Schiffe wären, und ihre Übergabe an den Gläubiger ..........
 
-130,00 €
+143,00 €
 
  
 
@@ -496,7 +496,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Übergabe unbeweglicher Sachen an den Verwalter im Falle der Zwangsversteigerung oder Zwangsverwaltung ..........
 
-98,00 €
+107,80 €
 
  
 
@@ -508,7 +508,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Zuziehung zur Beseitigung des Widerstandes (§ 892 ZPO) oder zur Beseitigung einer andauernden Zuwiderhandlung gegen eine Anordnung nach § 1 GewSchG (§ 96 Abs. 1 FamFG) sowie Anwendung von unmittelbarem Zwang auf Anordnung des Gerichts im Fall des § 90 FamFG ..........
 
-52,00 €
+57,20 €
 
  
 
@@ -520,25 +520,25 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Abnahme der Vermögensauskunft nach den §§ 802c, 802d Abs. 1 oder nach § 807 ZPO ..........
 
-33,00 €
+36,30 €
 
 261
 
 Übermittlung eines mit eidesstattlicher Versicherung abgegebenen Vermögensverzeichnisses an einen Drittgläubiger (§ 802d Abs. 1 Satz 2, Abs. 2 ZPO) ..........
 
-33,00 €
+36,30 €
 
 262
 
 Abnahme der eidesstattlichen Versicherung nach § 836 Abs. 3 oder § 883 Abs. 2 ZPO ..........
 
-38,00 €
+41,80 €
 
 270
 
 Verhaftung, Nachverhaftung, zwangsweise Vorführung ..........
 
-39,00 €
+42,90 €
 
 Abschnitt 3
 
@@ -572,7 +572,7 @@ Früchten, die noch nicht vom Boden getrennt sind,
 
 Forderungen oder anderen Vermögensrechten ..........
 
-52,00 €
+57,20 €
 
 Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhoben. Dies gilt nicht bei einer Versteigerung im Internet.
 
@@ -582,7 +582,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Öffentliche Verpachtung an den Meistbietenden ..........
 
-52,00 €
+57,20 €
 
  
 
@@ -594,7 +594,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins oder das nochmalige Ausgebot bei einer Versteigerung im Internet ..........
 
-10,00 €
+11,00 €
 
  
 
@@ -606,7 +606,7 @@ Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins oder das nochma
 
 Mitwirkung bei der Versteigerung durch einen Dritten (§ 825 Abs. 2 ZPO) ..........
 
-16,00 €
+17,60 €
 
  
 
@@ -622,7 +622,7 @@ Besondere Geschäfte
 
 Bewachung und Verwahrung eines Schiffes, eines Schiffsbauwerks oder eines Luftfahrzeugs (§§ 165, 170, 170a, 171, 171c, 171g, 171h ZVG, § 99 Abs. 2, § 106 Abs. 1 Nr. 1 des Gesetzes über Rechte an Luftfahrzeugen) ..........
 
-98,00 €
+107,80 €
 
  
 
@@ -634,7 +634,7 @@ Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer 500 erhobe
 
 Feststellung der Mieter oder Pächter von Grundstücken im Auftrag des Gerichts je festgestellte Person ..........
 
-7,00 €
+7,70 €
 
  
 
@@ -646,13 +646,13 @@ Die Gebühr wird auch erhoben, wenn die Ermittlungen nicht zur Feststellung eine
 
 Tatsächliches Angebot einer Leistung (§§ 293, 294 BGB) außerhalb der Zwangsvollstreckung ..........
 
-16,00 €
+17,60 €
 
 411
 
 Beurkundung eines Leistungsangebots ..........
 
-7,00 €
+7,70 €
 
  
 
@@ -664,13 +664,13 @@ Die Gebühr entfällt, wenn die Gebühr nach Nummer 410 zu erheben ist.
 
 Entfernung von Gegenständen aus dem Gewahrsam des Inhabers zum Zwecke der Versteigerung oder Verwahrung außerhalb der Zwangsvollstreckung ..........
 
-16,00 €
+17,60 €
 
 430
 
 Entgegennahme einer Zahlung, wenn diese nicht ausschließlich auf Kosten nach diesem Gesetz entfällt, die bei der Durchführung des Auftrags entstanden sind ..........
 
-4,00 €
+4,40 €
 
  
 
@@ -682,7 +682,7 @@ Die Gebühr wird auch erhoben, wenn der Gerichtsvollzieher einen entgegengenomme
 
 Erhebung von Daten bei einer der in § 755 Abs. 2, § 802l Abs. 1 ZPO genannten Stellen ..........
 
-13,00 €
+14,30 €
 
  
 
@@ -690,7 +690,7 @@ Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2 ZPO ein
 
  
 
- 441
+441
 
 Erhebung von Daten bei einer der in § 755 Abs. 1 ZPO genannten Stellen ..........
 
@@ -700,13 +700,13 @@ Erhebung von Daten bei einer der in § 755 Abs. 1 ZPO genannten Stellen ........
 
 Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2 ZPO eingeholt wird.
 
-5,00 €
+5,50 €
 
-442 
+442
 
 Übermittlung von Daten nach § 802l Abs. 4 ZPO ..........
 
-5,00 €
+5,50 €
 
 Abschnitt 5
 
@@ -716,7 +716,7 @@ Zeitzuschlag
 
 Zeitzuschlag, sofern dieser bei der Gebühr vorgesehen ist, wenn die Erledigung der Amtshandlung nach dem Inhalt des Protokolls mehr als 3 Stunden in Anspruch nimmt, für jede weitere angefangene Stunde ..........
 
-20,00 €
+22,00 €
 
  
 
@@ -748,7 +748,7 @@ Nicht erledigte
 
 Zustellung (Nummern 100 und 101) ..........
 
-3,00 €
+3,30 €
 
 601
 
@@ -756,7 +756,7 @@ Zustellung (Nummern 100 und 101) ..........
 
 Wegnahme einer Person (Nummer 230) ..........
 
-26,00 €
+28,60 €
 
 602
 
@@ -764,7 +764,7 @@ Wegnahme einer Person (Nummer 230) ..........
 
 Entsetzung aus dem Besitz (Nummer 240), Wegnahme ausländischer Schiffe (Nummer 242) oder Übergabe an den Verwalter (Nummer 243) ..........
 
-32,00 €
+35,20 €
 
 603
 
@@ -772,7 +772,7 @@ Entsetzung aus dem Besitz (Nummer 240), Wegnahme ausländischer Schiffe (Nummer 
 
 Beurkundung eines Leistungsangebots (Nummer 411) ..........
 
-6,00 €
+6,60 €
 
 604
 
@@ -780,7 +780,7 @@ Beurkundung eines Leistungsangebots (Nummer 411) ..........
 
 Amtshandlung der in den Nummern 205 bis 207, 210 bis 221, 250 bis 301, 310, 400, 410 und 420 genannten Art ..........
 
-15,00 €
+16,50 €
 
  
 

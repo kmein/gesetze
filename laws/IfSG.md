@@ -1323,7 +1323,21 @@ Eine Wiederherstellung des Personenbezugs der nach Satz 1 oder der auf Grund der
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass Personen oder Einrichtungen, die für die Durchführung von Schutzimpfungen verantwortlich sind, bestimmte Angaben nach Satz 1 zu von ihnen durchgeführten Schutzimpfungen für Zwecke der Impfsurveillance und der Pharmakovigilanz an das Robert Koch-Institut, an das Paul-Ehrlich-Institut oder an die zuständige Kassenärztliche Vereinigung zu übermitteln haben. Die Kassenärztlichen Vereinigungen sind befugt, die ihnen nach Satz 2 übermittelten Daten zu verarbeiten, soweit es erforderlich ist, um ihre Verpflichtung nach Satz 1 zu erfüllen. Das Robert Koch-Institut bestimmt die technischen Übermittlungsstandards für die im Rahmen der Impfsurveillance und der Pharmakovigilanz zu übermittelnden Daten sowie das Verfahren zur Bildung des Patienten-Pseudonyms nach Satz 1 Nummer 1. Eine Wiederherstellung des Personenbezugs der übermittelten pseudonymisierten Daten ist für das Robert Koch-Institut und das Paul-Ehrlich-Institut auszuschließen.
 
-(6) (zukünftig in Kraft)
+(6) Für Zwecke der Feststellung einer überdurchschnittlichen Sterblichkeit hat das zuständige Standesamt der zuständigen Landesbehörde spätestens am dritten Arbeitstag nach der Eintragung in das Sterberegister und hat die zuständige Landesbehörde am folgenden Arbeitstag dem Robert Koch-Institut anonymisiert den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer im Inland verstorbenen Person mit folgenden Angaben zu übermitteln (Mortalitätssurveillance):
+
+1. Daten zum übermittelnden Standesamt,
+
+2. Geschlecht der verstorbenen Person,
+
+3. Jahr und Monat der Geburt der verstorbenen Person,
+
+4. Todestag oder Todeszeitraum,
+
+5. Sterbeort,
+
+6. Landkreis oder kreisfreie Stadt des letzten Wohnsitzes der verstorbenen Person.
+
+Für die Übermittlungen von den zuständigen Landesbehörden an das Robert Koch-Institut bestimmt das Robert Koch-Institut die technischen Übermittlungsstandards. Die im Rahmen der Mortalitätssurveillance übermittelten Daten können durch das Robert Koch-Institut anderen obersten und oberen Bundesbehörden für den gleichen Zweck übermittelt werden.
 
 # § 14 – Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
 

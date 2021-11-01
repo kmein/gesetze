@@ -596,7 +596,7 @@ Bei der Personalisierung des Aufklebers zur Änderung der Anschrift auf dem Pers
 
 8. Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser oder werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
 
-9. Die alphanummerische Seriennummer des Personalausweises wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet. Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
+9. Die alphanummerische Seriennummer des Personalausweises wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet. Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
 
 10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x 45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen Personalausweis verkleinert mit den Abmessungen 29 x 37 mm darzustellen.
 
@@ -727,6 +727,9 @@ Anschrift
 Seriennummer
 
 9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen)
+
+  
+  
 
 Datenfelder des Aufklebers  
 für Anschriftenänderungen nach elektronischer Anmeldung  
