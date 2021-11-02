@@ -5486,8 +5486,8 @@
 - [ThermMAusbV](laws/ThermMAusbV.md) Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin
 - [ThermMstrV](laws/ThermMstrV.md) Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Thermometermacher-Handwerk
 - [ThUG](laws/ThUG.md) Gesetz zur Therapierung und Unterbringung psychisch gestörter Gewalttäter
-- [THW-AbrV](laws/THW-AbrV.md) Verordnung über die Durchführung und Abrechnung von Hilfeleistungen des Technischen Hilfswerks
 - [THW-AuslUFV](laws/THW-AuslUFV.md) Verordnung über die Gewährung von Unfallfürsorge für hauptamtliche Angehörige und Helfer der Bundesanstalt Technisches Hilfswerk bei Leistung technischer Hilfe im Ausland
+- [THWAbrV](laws/THWAbrV.md) Verordnung über die Abrechnung von Unterstützungsleistungen des Technischen Hilfswerks
 - [THWEhrZÄndErl](laws/THWEhrZÄndErl.md) Erlaß über die Genehmigung einer Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen für das Ehrenzeichen des Technischen Hilfswerks
 - [THWG](laws/THWG.md) Gesetz über das Technische Hilfswerk
 - [THWMitwV](laws/THWMitwV.md) Verordnung über die Mitwirkung der Helfer und Helferinnen im Technischen Hilfswerk
