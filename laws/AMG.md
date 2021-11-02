@@ -445,11 +445,11 @@ Verordnungsermächtigungen
 
 § 58f
 
-Verwendung von Daten
+Verarbeitung und Übermittlung von Daten
 
 § 58g
 
-Evaluierung
+(weggefallen)
 
 § 59
 
@@ -993,7 +993,25 @@ Neunzehnter Unterabschnitt
 
  
 
-Anlage (zu § 6)
+Einundzwanzigster Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 149
+
+Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Anlage 1 (zu § 6)
+
+ 
+
+Anlage 2 (zu § 58c Absatz 2 Satz 2)
 
  
 
@@ -1265,11 +1283,11 @@ Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von drei Monaten
 
 # § 6 – Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen
 
-(1) Es ist verboten, ein Arzneimittel herzustellen, in Verkehr zu bringen oder bei Menschen oder Tieren anzuwenden, wenn bei der Herstellung des Arzneimittels einer durch Rechtsverordnung nach Absatz 2 angeordneten Bestimmung über die Verwendung von Stoffen, Zubereitungen aus Stoffen oder Gegenständen, die in der Anlage genannt sind, zuwidergehandelt wird.
+(1) Es ist verboten, ein Arzneimittel herzustellen, in Verkehr zu bringen oder bei Menschen oder Tieren anzuwenden, wenn bei der Herstellung des Arzneimittels einer durch Rechtsverordnung nach Absatz 2 angeordneten Bestimmung über die Verwendung von Stoffen, Zubereitungen aus Stoffen oder Gegenständen, die in der Anlage 1 genannt sind, zuwidergehandelt wird.
 
-(2) Das Bundesministerium für Gesundheit (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Verwendung der in der Anlage genannten Stoffe, Zubereitungen aus Stoffen oder Gegenstände bei der Herstellung von Arzneimitteln vorzuschreiben, zu beschränken oder zu verbieten, soweit es zur Verhütung einer Gefährdung der Gesundheit von Mensch oder Tier (Risikovorsorge) oder zur Abwehr einer unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch oder Tier durch Arzneimittel geboten ist.
+(2) Das Bundesministerium für Gesundheit (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Verwendung der in der Anlage 1 genannten Stoffe, Zubereitungen aus Stoffen oder Gegenstände bei der Herstellung von Arzneimitteln vorzuschreiben, zu beschränken oder zu verbieten, soweit es zur Verhütung einer Gefährdung der Gesundheit von Mensch oder Tier (Risikovorsorge) oder zur Abwehr einer unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch oder Tier durch Arzneimittel geboten ist.
 
-(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Stoffe, Zubereitungen aus Stoffen oder Gegenstände in die Anlage aufzunehmen, soweit es zur Risikovorsorge oder zur Abwehr einer unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch oder Tier durch Arzneimittel geboten ist. Durch Rechtsverordnung nach Satz 1 sind Stoffe, Zubereitungen aus Stoffen oder Gegenstände aus der Anlage zu streichen, wenn die Voraussetzungen des Satzes 1 nicht mehr erfüllt sind.
+(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Stoffe, Zubereitungen aus Stoffen oder Gegenstände in die Anlage 1 aufzunehmen, soweit es zur Risikovorsorge oder zur Abwehr einer unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch oder Tier durch Arzneimittel geboten ist. Durch Rechtsverordnung nach Satz 1 sind Stoffe, Zubereitungen aus Stoffen oder Gegenstände aus der Anlage 1 zu streichen, wenn die Voraussetzungen des Satzes 1 nicht mehr erfüllt sind.
 
 (4) Die Rechtsverordnungen nach den Absätzen 2 und 3 werden vom Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium erlassen, sofern es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
@@ -3748,7 +3766,7 @@ b) von Schweinen ergänzt durch die Angabe, ob es sich um Ferkel bis einschließ
 
 2. die Anzahl und die Art der behandelten Tiere,
 
-3. vorbehaltlich des Absatzes 3 die Anzahl der Behandlungstage,
+3. vorbehaltlich des Absatzes 3 die Anzahl der Behandlungstage und das Datum der ersten Anwendung oder das Abgabedatum des Arzneimittels,
 
 4. die insgesamt angewendete Menge von Arzneimitteln, die antibakteriell wirksame Stoffe enthalten,
 
@@ -3762,7 +3780,7 @@ c) im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben
 
 worden sind.
 
-Die Mitteilungen nach Satz 1 Nummer 5 Buchstabe b und c sind unter Angabe des Datums der jeweiligen Handlung zu machen. Die Mitteilung ist jeweils spätestens am 14. Tag desjenigen Monats zu machen, der auf den letzten Monat des Halbjahres folgt, in dem die Behandlung erfolgt ist. § 58a Absatz 4 Satz 2 und 3 gilt entsprechend.
+Die Mitteilungen nach Satz 1 Nummer 5 Buchstabe b und c sind unter Angabe des Datums der jeweiligen Handlung zu machen. Auch wenn bei den nach Satz 1 gehaltenen Tieren keine Arzneimittel mit antibakteriell wirksamen Stoffen angewendet worden sind, ist dies der zuständigen Behörde mitzuteilen. Die Mitteilungen nach den Sätzen 1 und 3 sind für das erste Halbjahr spätestens am 14. Juli des laufenden Jahres und für das zweite Halbjahr spätestens am 14. Januar des Folgejahres zu machen. § 58a Absatz 4 Satz 2 und 3 gilt entsprechend.
 
 (2) Abweichend von Absatz 1 Satz 1 können die in Absatz 1 Satz 1 Nummer 1 bis 4 genannten Angaben durch nachfolgende Angaben ersetzt werden:
 
@@ -3772,7 +3790,7 @@ Die Mitteilungen nach Satz 1 Nummer 5 Buchstabe b und c sind unter Angabe des Da
 
 3. die Identität der Tiere, für die eine Behandlungsanweisung des Tierarztes ausgestellt worden ist, sofern sich aus der Angabe die Nutzungsart ergibt,
 
-4. vorbehaltlich des Absatzes 3 die Dauer der verordneten Behandlung in Tagen,
+4. vorbehaltlich des Absatzes 3 die Dauer der verordneten Behandlung in Tagen und das Datum der ersten Anwendung oder das Abgabedatum des Arzneimittels,
 
 5. die vom Tierarzt insgesamt angewendete oder abgegebene Menge des Arzneimittels.
 
@@ -3780,7 +3798,7 @@ Satz 1 gilt nur, wenn derjenige, der Tiere hält,
 
 1. gegenüber dem Tierarzt zum Zeitpunkt des Erwerbs oder der Verschreibung der Arzneimittel schriftlich versichert hat, von der Behandlungsanweisung nicht ohne Rücksprache mit dem Tierarzt abzuweichen, und
 
-2. bei der Abgabe der Mitteilung nach Absatz 1 Satz 1 an die zuständige Behörde schriftlich versichert, dass bei der Behandlung nicht von der Behandlungsanweisung des Tierarztes abgewichen worden ist.
+2. bei der Abgabe der Mitteilung nach Absatz 1 Satz 1 an die zuständige Behörde schriftlich oder elektronisch versichert, dass bei der Behandlung nicht von der Behandlungsanweisung des Tierarztes abgewichen worden ist.
 
 § 58a Absatz 4 Satz 2 und 3 gilt hinsichtlich des Satzes 1 entsprechend.
 
@@ -3794,9 +3812,13 @@ Satz 1 gilt nur, wenn derjenige, der Tiere hält,
 
 2. die nach Nummer 1 ermittelte Zahl anschließend durch die Anzahl der Tiere der betroffenen Tierart, die durchschnittlich in dem Halbjahr gehalten worden sind, dividiert
 
-(betriebliche halbjährliche Therapiehäufigkeit).
+(betriebliche halbjährliche Therapiehäufigkeit). Enthält ein verabreichtes zugelassenes Fertigarzneimittel eine der folgenden Kombinationen, so zählt diese Kombination für die Berechnung nach Satz 1 Nummer 1 als ein einziger Wirkstoff:
 
-(2) Spätestens bis zum Ende des zweiten Monats des Halbjahres, das auf die Mitteilungen des vorangehenden Halbjahres nach § 58b Absatz 1 Satz 1 folgt, teilt die zuständige Behörde dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit für die Zwecke des Absatzes 4 und des § 77 Absatz 3 Satz 2 in anonymisierter Form die nach Absatz 1 jeweils ermittelte halbjährliche betriebliche Therapiehäufigkeit mit. Darüber hinaus teilt die zuständige Behörde dem Bundesinstitut für Risikobewertung jeweils auf dessen Verlangen in anonymisierter Form die nach Absatz 1 jeweils ermittelte halbjährliche Therapiehäufigkeit sowie die in § 58b Absatz 1 Satz 1 Nummer 4 genannten Angaben mit, soweit dies für die Durchführung einer Risikobewertung des Bundesinstitutes für Risikobewertung auf dem Gebiet der Antibiotikaresistenz erforderlich ist. Die Mitteilungen nach den Sätzen 1 und 2 können im automatisierten Abrufverfahren erfolgen.
+1. eine Wirkstoffkombination von Sulfonamiden und Trimethoprim, einschließlich der Derivate von Trimethoprim, oder
+
+2. eine Kombination von verschiedenen chemischen Verbindungen eines einzigen antibakteriellen Wirkstoffs.
+
+(2) Spätestens bis zum Ende des zweiten Monats des Halbjahres, das auf die Mitteilungen des vorangehenden Halbjahres nach § 58b Absatz 1 Satz 1 folgt, teilt die zuständige Behörde dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit für die Zwecke des Absatzes 4 und des § 77 Absatz 3 Satz 2 in anonymisierter Form die nach Absatz 1 jeweils ermittelte halbjährliche betriebliche Therapiehäufigkeit mit. Darüber hinaus teilt die zuständige Behörde dem Bundesinstitut für Risikobewertung jeweils bis zum Ende des zweiten Monats des Halbjahres, das auf die Mitteilungen des vorangehenden Halbjahres nach § 58b Absatz 1 Satz 1 folgt, in pseudonymisierter Form die in der Anlage 2 aufgeführten, halbjährlich ermittelten Daten zum Zweck der Durchführung einer Risikobewertung auf dem Gebiet der Antibiotikaresistenz mit. Das Bundesinstitut für Risikobewertung bestimmt das Verfahren zur Bildung des Pseudonyms nach Satz 2; es ist so zu gestalten, dass es ausgeschlossen ist, dass das Bundesinstitut für Risikobewertung bei den ihm gemeldeten Daten den Personenbezug wiederherstellen kann. Die Mitteilungen nach den Sätzen 1 und 2 können im automatisierten Abrufverfahren erfolgen. Auf Grundlage der ihm übermittelten Daten führt das Bundesinstitut für Risikobewertung die Risikobewertung durch. Das Bundesinstitut für Risikobewertung erstellt jährlich zu den in Anlage 2 aufgeführten, von den zuständigen Behörden übermittelten Daten des Vorjahres einen Bericht über die Ergebnisse der Risikobewertung. Der Berichtszeitraum ist der 1. Januar bis 31. Dezember eines Jahres. Das Bundesinstitut für Risikobewertung hat den erstellten Bericht bis zum 31. August des auf den Berichtszeitraum folgenden Jahres zu veröffentlichen.
 
 (3) Soweit die Länder für die Zwecke des Absatzes 1 eine gemeinsame Stelle einrichten, sind die in den §§ 58a und 58b genannten Angaben dieser Stelle zu übermitteln; diese ermittelt die halbjährliche betriebliche Therapiehäufigkeit nach Maßgabe des in Absatz 1 genannten Berechnungsverfahrens zur Ermittlung der Therapiehäufigkeit und teilt sie den in Absatz 2 Satz 1 und 2 genannten Behörden mit. Absatz 2 Satz 3 gilt entsprechend.
 
@@ -3884,19 +3906,19 @@ zu regeln.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates Fische, die der Gewinnung von Lebensmitteln dienen, in den Anwendungsbereich der §§ 58a bis 58f und der zur Durchführung dieser Vorschriften erlassenen Rechtsverordnungen einzubeziehen, soweit dies für das Erreichen des Zieles der Verringerung der Behandlung mit Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, erforderlich ist. Eine Rechtsverordnung nach Satz 1 darf erstmals erlassen werden, wenn die Ergebnisse eines bundesweit durchgeführten behördlichen oder im Auftrag einer Behörde bundesweit durchgeführten Forschungsvorhabens über die Behandlung mit Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, bei Fischen, die der Gewinnung von Lebensmitteln dienen, im Bundesanzeiger veröffentlicht worden sind.
 
-# § 58f – Verwendung von Daten
+# § 58f – Verarbeitung und Übermittlung von Daten
 
-Die Daten nach den §§ 58a bis 58d dürfen ausschließlich zum Zweck der Ermittlung und der Berechnung der Therapiehäufigkeit, der Überwachung der Einhaltung der §§ 58a bis 58d und zur Verfolgung und Ahndung von Verstößen gegen arzneimittelrechtliche Vorschriften verarbeitet werden. Abweichend von Satz 1 darf die zuständige Behörde, soweit
+(1) Die nach den §§ 58a bis 58d erhobenen Daten dürfen ausschließlich zu folgenden Zwecken verarbeitet werden:
 
-1. sie Grund zu der Annahme hat, dass ein Verstoß gegen das Lebensmittel- und Futtermittelrecht, das Tierschutzrecht oder das Tierseuchenrecht vorliegt, die Daten nach den §§ 58a bis 58d an die für die Verfolgung von Verstößen zuständigen Behörden übermitteln, soweit diese Daten für die Verfolgung des Verstoßes erforderlich sind,
+1. zur Ermittlung und Berechnung der Therapiehäufigkeit,
 
-2. die Daten nach den §§ 58a bis 58d für die Evaluierung nach § 58g erforderlich sind, diese Daten in anonymisierter Form nach Maßgabe des Satzes 3 über die zuständige oberste Landesbehörde an das Bundesministerium für Ernährung und Landwirtschaft übermitteln.
+2. zur Überwachung der Einhaltung der §§ 58a bis 58d und zur Verfolgung und Ahndung von Verstößen gegen arzneimittelrechtliche Vorschriften und
 
-Das Bundesministerium für Ernährung und Landwirtschaft gibt im Bundesanzeiger die Art der für den Zweck der Evaluierung zu übermittelnden Daten und den Zeitpunkt der Übermittlung bekannt. Das Bundesministerium für Ernährung und Landwirtschaft und die zuständigen obersten Landesbehörden dürfen die ihnen nach Satz 2 Nummer 2 übermittelten Daten ausschließlich für den Zweck der Evaluierung nach § 58g verarbeiten. Die nach Satz 2 Nummer 2 übermittelten Daten sind mit Abschluss der Wahlperiode des Deutschen Bundestages, in der diesem der Bericht nach § 58g übermittelt worden ist, zu löschen, soweit die Daten nicht in den Bericht aufgenommen worden sind.
+3. zur Durchführung einer Risikobewertung nach § 58c Absatz 2 Satz 5 und für den Bericht nach § 58c Absatz 2 Satz 6.
 
-# § 58g – Evaluierung
+(2) Die zuständige Behörde darf Daten nach den §§ 58a bis 58d an die für die Verfolgung von Verstößen zuständigen Behörden übermitteln, sofern sie Grund zu der Annahme hat, dass ein Verstoß gegen das Lebensmittel- und Futtermittelrecht, das Tierschutzrecht oder das Tierseuchenrecht vorliegt und soweit diese Daten für die Verfolgung des Verstoßes erforderlich sind.
 
-Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem Deutschen Bundestag fünf Jahre nach Inkrafttreten dieses Gesetzes über die Wirksamkeit der nach den §§ 58a bis 58d getroffenen Maßnahmen.
+# § 58g – (weggefallen)
 
 # § 59 – Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen
 
@@ -5135,6 +5157,238 @@ b) entgegen Artikel 31 Abs. 1 Satz 1 der Verordnung in Verbindung mit Artikel 12
 
 1. § 96 Nummer 1 bis 5b, 7 bis 18e oder Nummer 19 oder
 
+2. § 96 Nummer 6, 20 oder Nummer 21
+
+bezeichnete Handlung fahrlässig begeht.
+
+(2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 8 Absatz 3 ein Arzneimittel in den Verkehr bringt,
+
+2. entgegen § 9 Abs. 1 Arzneimittel, die nicht den Namen oder die Firma des pharmazeutischen Unternehmers tragen, in den Verkehr bringt,
+
+3. entgegen § 9 Abs. 2 Satz 1 Arzneimittel in den Verkehr bringt, ohne seinen Sitz im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu haben,
+
+4. entgegen § 10, auch in Verbindung mit § 109 Abs. 1 Satz 1 oder einer Rechtsverordnung nach § 12 Abs. 1 Nr. 1, Arzneimittel ohne die vorgeschriebene Kennzeichnung in den Verkehr bringt,
+
+5. entgegen § 11 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2a bis 3b oder 4, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 12 Abs. 1 Nr. 1, Arzneimittel ohne die vorgeschriebene Packungsbeilage in den Verkehr bringt,
+
+5a. entgegen § 11 Abs. 7 Satz 1 eine Teilmenge abgibt,
+
+6. einer vollziehbaren Anordnung nach § 18 Abs. 2 zuwiderhandelt,
+
+7. entgegen
+
+a) den §§ 20, 20b Absatz 5, § 20c Absatz 6, § 52a Absatz 8, § 67 Absatz 8 Satz 1, § 72b Absatz 2c Satz 1 oder § 73 Absatz 3b Satz 4,
+
+b) § 21a Absatz 7 Satz 1, § 29 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, entgegen § 29 Absatz 1c Satz 1, § 63c Absatz 2, § 63h Absatz 2, § 63i Absatz 2 Satz 1, § 67 Absatz 6 Satz 1 oder
+
+c) § 67 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 69a, entgegen § 67 Absatz 5 Satz 1 oder § 67 Absatz 9 Satz 1
+
+eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+7a. entgegen § 29 Abs. 1a Satz 1, Abs. 1b oder 1d eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+8. entgegen § 30 Abs. 4 Satz 1 Nr. 2 oder § 73 Abs. 1 oder 1a Arzneimittel in den Geltungsbereich dieses Gesetzes verbringt,
+
+9. entgegen § 42b Absatz 1 die Berichte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+10. entgegen § 43 Abs. 1, 2 oder 3 Satz 1 Arzneimittel berufs- oder gewerbsmäßig in den Verkehr bringt oder mit Arzneimitteln, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, Handel treibt oder diese Arzneimittel abgibt,
+
+11. entgegen § 43 Abs. 5 Satz 1 zur Anwendung bei Tieren bestimmte Arzneimittel, die für den Verkehr außerhalb der Apotheken nicht freigegeben sind, in nicht vorschriftsmäßiger Weise abgibt,
+
+12. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 an andere als dort bezeichnete Personen oder Stellen oder entgegen § 47 Abs. 1a abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht,
+
+12a. entgegen § 47 Abs. 4 Satz 1 Muster ohne schriftliche Anforderung, in einer anderen als der kleinsten Packungsgröße oder über die zulässige Menge hinaus abgibt oder abgeben lässt,
+
+13. die in § 47 Abs. 1b oder Abs. 4 Satz 3 oder in § 47a Abs. 2 Satz 2 vorgeschriebenen Nachweise nicht oder nicht richtig führt, oder der zuständigen Behörde auf Verlangen nicht vorlegt,
+
+13a. entgegen § 47a Abs. 2 Satz 1 ein dort bezeichnetes Arzneimittel ohne die vorgeschriebene Kennzeichnung abgibt,
+
+14. entgegen § 50 Abs. 1 Einzelhandel mit Arzneimitteln betreibt,
+
+15. entgegen § 51 Abs. 1 Arzneimittel im Reisegewerbe feilbietet oder Bestellungen darauf aufsucht,
+
+16. entgegen § 52 Abs. 1 Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
+
+16a. entgegen § 52b Absatz 3e Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+17. entgegen § 55 Absatz 8 Satz 1 auch in Verbindung mit Satz 2, einen Stoff, ein Behältnis oder eine Umhüllung verwendet oder eine Darreichungsform anfertigt,
+
+17a. entgegen § 56 Abs. 1 Satz 2 eine Kopie einer Verschreibung nicht oder nicht rechtzeitig übersendet,
+
+18. entgegen § 56 Abs. 2 Satz 1, Abs. 3 oder 4 Satz 1 oder 2 Fütterungsarzneimittel herstellt,
+
+19. entgegen § 56 Absatz 4 Satz 2 eine verfütterungsfertige Mischung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
+
+20. entgegen § 56 Abs. 5 Satz 1 ein Fütterungsarzneimittel verschreibt,
+
+21. entgegen § 56a Abs. 1 Satz 1 Nr. 1, 2, 3 oder 4, jeweils auch in Verbindung mit Satz 3, Arzneimittel,
+
+a) die zur Anwendung bei Tieren bestimmt sind, die nicht der Gewinnung von Lebensmitteln dienen, und nur auf Verschreibung an Verbraucher abgegeben werden dürfen,
+
+b) die ohne Verschreibung an Verbraucher abgegeben werden dürfen,
+
+verschreibt, abgibt oder anwendet,
+
+21a. entgegen § 56a Abs. 1 Satz 4 Arzneimittel-Vormischungen verschreibt oder abgibt,
+
+22. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 57 Abs. 1 erwirbt,
+
+22a. entgegen § 57a Arzneimittel anwendet,
+
+23. entgegen § 58 Abs. 1 Satz 2 oder 3 Arzneimittel bei Tieren anwendet, die der Gewinnung von Lebensmitteln dienen,
+
+23a. entgegen § 58a Absatz 1 Satz 1 oder 2 oder Absatz 3, Absatz 4 Satz 1, Satz 2 oder Satz 3 oder § 58b Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder Absatz 2 Satz 2 Nummer 2 oder Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+23b. entgegen § 58d Absatz 1 Nummer 2 eine dort genannte Feststellung nicht, nicht richtig oder nicht rechtzeitig aufzeichnet,
+
+23c. entgegen § 58d Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt,
+
+23d. entgegen § 58d Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+23e. einer vollziehbaren Anordnung nach § 58d Absatz 3 Satz 2 oder Absatz 4 Satz 1 zuwiderhandelt,
+
+24. einer Aufzeichnungs- oder Vorlagepflicht nach § 59 Abs. 4 zuwiderhandelt,
+
+24a. entgegen § 59b Satz 1 Stoffe nicht, nicht richtig oder nicht rechtzeitig überlässt,
+
+24b. entgegen § 59c Satz 1, auch in Verbindung mit Satz 2, einen dort bezeichneten Nachweis nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+
+24c. entgegen § 63a Abs. 1 Satz 1 einen Stufenplanbeauftragten nicht beauftragt oder entgegen § 63a Abs. 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig erstattet,
+
+24d. entgegen § 63a Abs. 1 Satz 6 eine Tätigkeit als Stufenplanbeauftragter ausübt,
+
+24e. entgegen § 63b Absatz 1 ein Pharmakovigilanz-System nicht betreibt,
+
+24f. entgegen § 63b Absatz 2 Nummer 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig ergreift,
+
+24g. entgegen § 63b Absatz 2 Nummer 3 eine Pharmakovigilanz-Stammdokumentation nicht, nicht richtig oder nicht vollständig führt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+24h. entgegen § 63b Absatz 2 Nummer 4 ein Risikomanagement-System für jedes einzelne Arzneimittel nicht, nicht richtig oder nicht vollständig betreibt,
+
+24i. entgegen § 63b Absatz 3 Satz 1 eine dort genannte Information ohne die dort genannte vorherige oder gleichzeitige Mitteilung veröffentlicht,
+
+24j. entgegen § 63d Absatz 1, auch in Verbindung mit Absatz 3 Satz 1 oder Absatz 3 Satz 4, einen Unbedenklichkeitsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24k. entgegen § 63f Absatz 1 Satz 3 einen Abschlussbericht nicht oder nicht rechtzeitig übermittelt,
+
+24l. entgegen § 63g Absatz 1 einen Entwurf des Prüfungsprotokolls nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+24m. entgegen § 63g Absatz 2 Satz 1 mit einer Unbedenklichkeitsstudie beginnt,
+
+24n. entgegen § 63g Absatz 4 Satz 1 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24o. entgegen § 63h Absatz 5 Satz 1, 2 oder Satz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24p. entgegen § 63i Absatz 3 Satz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
+
+24q. entgegen § 63i Absatz 4 Satz 1 einen Bericht nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+25. einer vollziehbaren Anordnung nach § 64 Abs. 4 Nr. 4, auch in Verbindung mit § 69a, zuwiderhandelt,
+
+26. einer Duldungs- oder Mitwirkungspflicht nach § 66, auch in Verbindung mit § 69a, zuwiderhandelt,
+
+27. entgegen einer vollziehbaren Anordnung nach § 74 Abs. 1 Satz 2 Nr. 3 eine Sendung nicht vorführt,
+
+27a. entgegen § 74a Abs. 1 Satz 1 einen Informationsbeauftragten nicht beauftragt oder entgegen § 74a Abs. 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig erstattet,
+
+27b. entgegen § 74a Abs. 1 Satz 4 eine Tätigkeit als Informationsbeauftragter ausübt,
+
+28. entgegen § 75 Abs. 1 Satz 1 eine Person als Pharmaberater beauftragt,
+
+29. entgegen § 75 Abs. 1 Satz 3 eine Tätigkeit als Pharmaberater ausübt,
+
+30. einer Aufzeichnungs-, Mitteilungs- oder Nachweispflicht nach § 76 Abs. 1 Satz 2 oder Abs. 2 zuwiderhandelt,
+
+30a. (weggefallen)
+
+31. einer Rechtsverordnung nach § 7 Abs. 2 Satz 2, § 12 Abs. 1 Nr. 3 Buchstabe a, § 12 Abs. 1b, § 54 Abs. 1, § 56a Abs. 3, § 57 Absatz 2 oder Absatz 3, § 58 Abs. 2 oder § 74 Abs. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+32. (weggefallen)
+
+33. (weggefallen)
+
+34. (weggefallen)
+
+35. (weggefallen)
+
+36. (weggefallen)
+
+(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen Artikel 1 der Verordnung (EG) Nr. 540/95 der Kommission vom 10. März 1995 zur Festlegung der Bestimmungen für die Mitteilung von vermuteten unerwarteten, nicht schwerwiegenden Nebenwirkungen, die innerhalb oder außerhalb der Gemeinschaft an gemäß der Verordnung (EWG) Nr. 2309/93 zugelassenen Human- oder Tierarzneimitteln festgestellt werden (ABl. L 55 vom 11.3.1995, S. 5), in Verbindung mit § 63h Absatz 7 Satz 2 verstößt, indem er nicht sicherstellt, dass der Europäischen Arzneimittel-Agentur und der zuständigen Bundesoberbehörde eine dort bezeichnete Nebenwirkung mitgeteilt wird.
+
+(2b) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 726/2004 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 16 Absatz 2 Satz 1 oder Satz 2 in Verbindung mit Artikel 8 Absatz 3 Unterabsatz 1 Buchstabe c bis e, h bis iaa oder Buchstabe ib der Richtlinie 2001/83/EG oder entgegen Artikel 41 Absatz 4 Satz 1 oder 2 in Verbindung mit Artikel 12 Absatz 3 Unterabsatz 1 Satz 2 Buchstabe c bis e, h bis j oder Buchstabe k der Richtlinie 2001/82/EG, jeweils in Verbindung mit § 29 Absatz 4 Satz 2, der Europäischen Arzneimittel-Agentur oder der zuständigen Bundesoberbehörde eine dort genannte Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2. entgegen Artikel 28 Absatz 1 in Verbindung mit Artikel 107 Absatz 1 Unterabsatz 2 der Richtlinie 2001/83/EG nicht dafür sorgt, dass eine Meldung an einer dort genannten Stelle verfügbar ist,
+
+3. entgegen Artikel 49 Absatz 1 Satz 1 oder Absatz 2 Satz 1, jeweils in Verbindung mit § 29 Absatz 4 Satz 2, nicht sicherstellt, dass der zuständigen Bundesoberbehörde oder der Europäischen Arzneimittel-Agentur eine dort bezeichnete Nebenwirkung mitgeteilt wird,
+
+4. entgegen Artikel 49 Absatz 3 Satz 1 eine dort bezeichnete Unterlage nicht, nicht richtig oder nicht vollständig führt.
+
+(2c) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 33 Satz 1 ein dort genanntes Arzneimittel nicht, nicht richtig oder nicht rechtzeitig in den Verkehr bringt,
+
+2. einer vollziehbaren Anordnung nach Artikel 34 Absatz 2 Satz 4 zuwiderhandelt,
+
+3. entgegen Artikel 34 Absatz 4 Satz 1 den dort genannten Bericht nicht oder nicht rechtzeitig vorlegt,
+
+4. entgegen Artikel 35 Satz 1 die Genehmigung für das Inverkehrbringen nicht oder nicht rechtzeitig auf einen dort genannten Dritten überträgt und diesem einen Rückgriff auf die dort genannten Unterlagen nicht oder nicht rechtzeitig gestattet,
+
+5. entgegen Artikel 35 Satz 2 eine Unterrichtung nicht, nicht richtig oder nicht rechtzeitig vornimmt, oder
+
+6. entgegen Artikel 41 Absatz 2 Satz 2 ein Ergebnis der dort genannten Prüfung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
+
+(2d) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 18 ein dort genanntes Produkt in den Verkehr bringt oder eine Information nicht oder nicht rechtzeitig gibt,
+
+2. entgegen Artikel 24 Satz 1 ein dort genanntes Produkt abgibt oder ausführt,
+
+3. entgegen Artikel 24 Satz 2 eine Information nicht oder nicht rechtzeitig gibt,
+
+4. entgegen Artikel 30 ein Arzneimittel abgibt oder eine Information nicht oder nicht rechtzeitig gibt oder
+
+5. entgegen Artikel 37 Buchstabe d nicht für die Warnung einer zuständigen Behörde, der Europäischen Arzneimittel-Agentur oder der Kommission sorgt.
+
+(2d doppelt) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen den Artikeln 36, 37 Absatz 1, 2, 3 oder Absatz 5 oder Artikel 54 Absatz 2 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig unterrichtet,
+
+2. entgegen Artikel 37 Absatz 4 Unterabsatz 1 Satz 1 in Verbindung mit Satz 2, Unterabsatz 2 oder Unterabsatz 3, entgegen Artikel 37 Absatz 4 Unterabsatz 4 oder Absatz 8 oder Artikel 43 Absatz 1 ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+3. entgegen Artikel 37 Absatz 6 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig in Kenntnis setzt,
+
+4. entgegen Artikel 38 Absatz 1 eine Mitteilung nicht oder nicht rechtzeitig macht oder
+
+5. entgegen
+
+a) Artikel 41 Absatz 1 oder Absatz 2 Unterabsatz 1 Satz 2 in Verbindung mit Unterabsatz 2 Satz 1 oder entgegen Artikel 41 Absatz 4 oder
+
+b) Artikel 42 Absatz 1 in Verbindung mit Absatz 2 Satz 1, entgegen Artikel 52 Absatz 1 oder Artikel 53 Absatz 1
+
+eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen
+
+1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 5 und 6 Buchstabe b und
+
+2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
+
+die nach § 77 zuständige Bundesoberbehörde. Im Fall des Absatzes 2 Nummer 16a ist das Bundesinstitut für Arzneimittel und Medizinprodukte Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+
+§ 97 Abs. 1 Nr. 2: IdF d. Art. 2 Nr. 23 Buchst. a G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 2 Nr. 9 (früher Nr. 9b): Eingef. durch Art. 7 Nr. 9 Buchst. a G v. 22.12.2010 I 2262 mWv 1.1.2011; frühere Nr. 9 aufgeh., frühere Nr. 9b jetzt Nr. 9 gem. u. idF d. Art. 2 Nr. 23 Buchst. b DBuchst. aa, bb u. cc G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 2: Frühere Nr. 9a aufgeh. durch Art. 2 Nr. 23 Buchst. b DBuchst. aa G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 2 Nr. 24m: IdF d. Art. 2 Nr. 23 Buchst. b DBuchst. dd G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 2 Nr. 31: IdF d. Art. 1 Nr. 11 Buchst. c G v. 10.10.2013 I 3813 mWv 1.4.2014 u. d. Art. 2 Nr. 23 Buchst. b DBuchst. ee G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 2d: Eingef. durch Art. 2 Nr. 23 Buchst. c G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft. § 97 Abs. 4 Satz 1 Nr. 1 (früher Nr. 1): IdF d. Art. 2 Nr. 23 Buchst. d G v. 20.12.2016 I 3048; Art. 2 tritt gem. Art. 13 Abs. 2 u. 3 G v. 20.12.2016 I 3048 sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeitdes EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) im Amtsblatt der Europäischen Union in Kraft.; idF d. Art. 1 Nr. 29 Buchst. c aa G v. 9.8.2019 I 1202 mWv 16.8.2019; jetzt Satz 1 Nr. 1 gem. Art. 1 Nr. 4 Buchst. b G v. 22.3.2020 I 604 mWv 1.4.2020
+
+# § 97 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer eine in
+
+1. § 96 Nummer 1 bis 5b, 7 bis 18e oder Nummer 19 oder
+
 2. § 96 Nummer 6 oder Nummer 20
 
 bezeichnete Handlung fahrlässig begeht.
@@ -5221,13 +5475,15 @@ verschreibt, abgibt oder anwendet,
 
 23. entgegen § 58 Abs. 1 Satz 2 oder 3 Arzneimittel bei Tieren anwendet, die der Gewinnung von Lebensmitteln dienen,
 
-23a. entgegen § 58a Absatz 1 Satz 1 oder 2 oder Absatz 3, Absatz 4 Satz 1, Satz 2 oder Satz 3 oder § 58b Absatz 1 Satz 1, 2 oder 3 oder Absatz 2 Satz 2 Nummer 2 oder Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+23a. entgegen § 58a Absatz 1 Satz 1 oder 2 oder Absatz 3, Absatz 4 Satz 1, Satz 2 oder Satz 3 oder § 58b Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder Absatz 2 Satz 2 Nummer 2 oder Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
 23b. entgegen § 58d Absatz 1 Nummer 2 eine dort genannte Feststellung nicht, nicht richtig oder nicht rechtzeitig aufzeichnet,
 
 23c. entgegen § 58d Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt,
 
-23d. einer vollziehbaren Anordnung nach § 58d Absatz 3 oder Absatz 4 Satz 1 zuwiderhandelt,
+23d. entgegen § 58d Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+23e. einer vollziehbaren Anordnung nach § 58d Absatz 3 Satz 2 oder Absatz 4 Satz 1 zuwiderhandelt,
 
 24. einer Aufzeichnungs- oder Vorlagepflicht nach § 59 Abs. 4 zuwiderhandelt,
 
@@ -5800,12 +6056,70 @@ Für Arzneimittel, die zum Zeitpunkt des Inkrafttretens bereits zugelassen sind,
 
 Für nichtinterventionelle Unbedenklichkeitsprüfungen nach § 63f und Untersuchungen nach § 67 Absatz 6, die vor dem 13. August 2013 begonnen wurden, finden § 63f Absatz 4 und § 67 Absatz 6 bis zum 31. Dezember 2013 in der bis zum 12. August 2013 geltenden Fassung Anwendung.
 
-# Anlage – (zu § 6)
+# § 149 – Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+(1) Die in Anlage 2 genannten Daten, die die zuständige Behörde im Zeitraum vom 1. Januar 2018 bis zum 31. Oktober 2021 erhoben und ermittelt hat, übermittelt sie bis 1. Februar 2022 dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung auf dem Gebiet der Antibiotikaresistenz. § 58c Absatz 2 Satz 3 und 4 gilt entsprechend.
+
+(2) Das Bundesinstitut für Risikobewertung führt auf der Grundlage der ihm nach Absatz 1 übermittelten Daten eine Risikobewertung durch. Über die Risikobewertung erstellt es einen Bericht. Den Bericht veröffentlicht es bis zum 1. Oktober 2022.
+
+(3) Auf der Grundlage der in Anlage 2 genannten Daten, die die zuständige Behörde im Zeitraum vom 1. November 2021 bis zum 31. Dezember 2021 erhoben und ermittelt hat, führt das Bundesinstitut für Risikobewertung eine Risikobewertung durch. Über die Risikobewertung erstellt es einen Bericht. Den Bericht veröffentlicht es bis zum 31. August 2022.
+
+# Anlage 1 – (zu § 6)
 
 Aflatoxine  
 Ethylenoxid  
 Farbstoffe  
 Frischzellen  
 Stoffe, Zubereitungen aus Stoffen oder Gegenstände tierischer Herkunft mit dem Risiko der Übertragung transmissibler spongiformer Enzephalopathien
+
+# Anlage 2 – (zu § 58c Absatz 2 Satz 2) Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
+
+1. Pseudonymisierte Angabe der Registriernummer des Tierhaltungsbetriebs (§ 58a Absatz 1 Satz 2 Nummer 2),
+
+2. Angabe der Tierart (§ 58a Absatz 1 Satz 1 in Verbindung mit § 58a Absatz 2),
+
+3. Angabe der Nutzungsart (§ 58a Absatz 1 Satz 2 Nummer 3),
+
+4. Angabe der Anzahl der gehaltenen Tiere (§ 58c Absatz 1 Nummer 2),
+
+5. Angaben nach § 58b Absatz 1 Satz 1 Nummer 1 bis 5:
+
+a) die Bezeichnung des angewendeten Arzneimittels,
+
+b) die Anzahl und die Art der behandelten Tiere,
+
+c) die Anzahl der Behandlungstage (vorbehaltlich des § 58b Absatz 3) und das Datum der ersten Anwendung oder das Abgabedatum des Arzneimittels,
+
+d) die insgesamt angewendete Menge von Arzneimitteln, die antibakteriell wirksame Stoffe enthalten,
+
+e) für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart, die
+
+aa)  
+in jedem Halbjahr zu Beginn im Betrieb gehalten worden sind,
+
+bb)  
+im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen worden sind, mit Angabe des Datums der Aufnahme der Tiere,
+
+cc) im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben worden sind, mit Angabe des Datums der Abgabe der Tiere,
+
+6. Angaben nach § 58b Absatz 1 Satz 3:
+
+Mitteilung, keine Arzneimittel angewendet zu haben, die antibakteriell wirksame Stoffe enthalten,
+
+7. Angaben nach § 58b Absatz 2 Satz 1 Nummer 1 bis 5, falls durch diese Angaben die Angaben nach § 58b Absatz 1 Satz 1 Nummer 1 bis 4 ersetzt worden sind:
+
+a) die Bezeichnung des für die Behandlung vom Tierarzt erworbenen oder verschriebenen Arzneimittels,
+
+b) die Anzahl und Art der Tiere, für die eine Behandlungsanweisung des Tierarztes ausgestellt worden ist,
+
+c) die Identität der Tiere, für die eine Behandlungsanweisung des Tierarztes ausgestellt worden ist, sofern sich aus der Angabe die Nutzungsart ergibt,
+
+d) vorbehaltlich des § 58b Absatz 3 die Dauer der verordneten Behandlung in Tagen und das Datum der ersten Anwendung oder das Abgabedatum des Arzneimittels,
+
+e) die vom Tierarzt insgesamt angewendete oder abgegebene Menge des Arzneimittels,
+
+8. Angabe des Halbjahres, in dem die Behandlung erfolgt ist (§ 58b Absatz 1 Satz 4),
+
+9. Angabe der von der zuständigen Behörde für jedes Halbjahr ermittelten betrieblichen halbjährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 58c Absatz 1).
 
 # Anhang – (weggefallen)

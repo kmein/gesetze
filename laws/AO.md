@@ -8190,7 +8190,7 @@ Im Vollstreckungsverfahren werden Pfändungsgebühren (§ 339), Wegnahmegebühre
 
 2. mit der Zustellung der Verfügung, durch die eine Forderung oder ein anderes Vermögensrecht gepfändet werden soll.
 
-(3) Die Gebühr beträgt 26 Euro.
+(3) Die Gebühr beträgt 28,60 Euro.
 
 (4) Die Gebühr wird auch erhoben, wenn
 
@@ -8210,7 +8210,7 @@ Wird die Pfändung auf andere Weise abgewendet, wird keine Gebühr erhoben.
 
 (2) § 339 Abs. 2 Nr. 1 ist entsprechend anzuwenden.
 
-(3) Die Höhe der Wegnahmegebühr beträgt 26 Euro. Die Gebühr wird auch erhoben, wenn die in Absatz 1 bezeichneten Sachen nicht aufzufinden sind.
+(3) Die Höhe der Wegnahmegebühr beträgt 28,60 Euro. Die Gebühr wird auch erhoben, wenn die in Absatz 1 bezeichneten Sachen nicht aufzufinden sind.
 
 (4) (weggefallen)
 
@@ -8220,9 +8220,9 @@ Wird die Pfändung auf andere Weise abgewendet, wird keine Gebühr erhoben.
 
 (2) Die Gebühr entsteht, sobald der Vollziehungsbeamte oder ein anderer Beauftragter Schritte zur Ausführung des Verwertungsauftrags unternommen hat.
 
-(3) Die Gebühr beträgt 52 Euro.
+(3) Die Gebühr beträgt 57,20 Euro.
 
-(4) Wird die Verwertung abgewendet (§ 296 Abs. 1 Satz 4), ist eine Gebühr von 26 Euro zu erheben.
+(4) Wird die Verwertung abgewendet (§ 296 Abs. 1 Satz 4), ist eine Gebühr von 28,60 Euro zu erheben.
 
 # § 342 – Mehrheit von Schuldnern
 
