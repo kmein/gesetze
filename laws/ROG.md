@@ -346,8 +346,8 @@ Im Falle des Satzes 1 Nr. 1 kann Gegenstand der vertraglichen Vereinbarung auch 
 
 § 15 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
 § 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245 iVm § 16 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 12 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__12.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
-§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § 15 Abs. 4 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)  
-§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § 17 Satz 2 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)
+§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch [§ 15 Abs. 4 des Gesetzes über die Landesplanung (LPlG SH)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/plang_sh__15.html "Anzeige in neuem Fenster") idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)  
+§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch [§ 17 Satz 2 des Gesetzes über die Landesplanung (LPlG SH)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/plang_sh__17.html "Anzeige in neuem Fenster") idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)
 
 # § 16 – Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren
 
