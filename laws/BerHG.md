@@ -39,7 +39,7 @@ Sie kann durch die in den Sätzen 1 und 2 genannten Personen (Beratungspersonen)
 
 # § 4 – Verfahren
 
-(1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand haben. Haben der Rechtsuchende im Inland keinen allgemeinen Gerichtsstand, so ist das Amtsgericht zuständig, in dessen Bezirk ein Bedürfnis für Beratungshilfe auftritt.
+(1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand haben. Haben Rechtsuchende im Inland keinen allgemeinen Gerichtsstand, so ist das Amtsgericht zuständig, in dessen Bezirk ein Bedürfnis für Beratungshilfe auftritt.
 
 (2) Der Antrag kann mündlich oder schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
 
