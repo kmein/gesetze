@@ -187,8 +187,6 @@ Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
 Für alle Zulassungs- und Prüfungsverfahren und für erfolglose Widerspruchsverfahren sind Gebühren an die Wirtschaftsprüferkammer zu zahlen; die Wirtschaftsprüferkammer kann die Erhebung der Gebühren sowie deren Höhe und Fälligkeit bestimmen. Näheres regelt die Gebührenordnung der Wirtschaftsprüferkammer (§ 61 Abs. 2).
 
-(+++ § 14a: Zur Anwendung vgl. § 135 (F 2003-12-01) +++)
-
 # § 15 – Bestellungsbehörde
 
 Nach bestandener Prüfung wird der Bewerber auf Antrag durch Aushändigung einer von der Wirtschaftsprüferkammer ausgestellten Urkunde als Wirtschaftsprüfer bestellt. Zuständig ist die Wirtschaftsprüferkammer. Wird der Antrag auf Bestellung als Wirtschaftsprüfer nicht innerhalb von fünf Jahren nach bestandener Prüfung gestellt, so finden auf die Bestellung die Vorschriften des § 23 Abs. 2 und 3 entsprechende Anwendung. Wer gemäß § 9 Abs. 6 zugelassen wurde, hat vor der Bestellung den Nachweis der insgesamt dreijährigen Tätigkeit nach § 9 Abs. 1, einschließlich der Prüfungstätigkeit nach § 9 Abs. 2, vorzulegen.
@@ -865,8 +863,6 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 (2) Die persönliche Haftung von Mitgliedern einer Personengesellschaft (§ 44b) auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen auf einzelne namentlich bezeichnete Mitglieder der Personengesellschaft beschränkt werden, die die vertragliche Leistung erbringen sollen.
 
 (3) Werden im Rahmen der gesetzlichen Abschlussprüfung Prüfungstätigkeiten durch Berufsangehörige auf Dritte übertragen, so bleibt die Pflichtenstellung der Berufsangehörigen gegenüber ihren Auftraggebern hiervon unberührt.
-
-(+++ § 54a: Zur Anwendung vgl. § 139a F ab 31.8.1998 +++)
 
 # § 55 – Vergütung
 

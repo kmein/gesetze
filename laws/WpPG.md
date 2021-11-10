@@ -21,6 +21,8 @@ a) der Vorschriften dieses Gesetzes;
 
 b) der Verordnung (EU) 2017/1129.
 
+Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe k der Verordnung (EU) 2017/1129 bezeichneten Artikel.
+
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind

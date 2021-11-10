@@ -249,9 +249,11 @@ auch ohne dass eine Dienstleistung für andere vorliegt (Hochfrequenzhandel). Ob
 
 8. Derivate,
 
-9. Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer 20 des Projekt-Mechanismen-Gesetzes und zertifizierte Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes, soweit diese jeweils im Emissionshandelsregister gehalten werden dürfen (Emissionszertifikate) sowie
+9. Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer 20 des Projekt-Mechanismen-Gesetzes und zertifizierte Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes, soweit diese jeweils im Emissionshandelsregister gehalten werden dürfen (Emissionszertifikate),
 
-10. Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 und 5 des Kreditwesengesetzes.
+10. Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 und 5 des Kreditwesengesetzes sowie
+
+11. für Schwarmfinanzierungszwecke nach Artikel 2 Absatz 1 Buchstabe n der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, zugelassene Instrumente (Schwarmfinanzierungsinstrumente).
 
 (6) Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen Emittenten mit Sitz im Ausland gehandelt werden können.
 
@@ -337,7 +339,7 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 3. sofern es sich um eine juristische Person handelt, für die nach dem nationalen Recht, das für das Wertpapierinstitut maßgeblich ist, kein Sitz bestimmt ist, der Vertragsstaat, in dem sich die Hauptverwaltung des Wertpapierinstituts befindet.
 
-(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt.
+(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt;
 
 (21) Systemrisiko im Sinne dieses Gesetzes ist das Risiko einer Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen Auswirkungen auf das Finanzsystem und die Realwirtschaft.
 
@@ -375,8 +377,6 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 (38) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Wertpapierinstitut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerung von Aktivitäten und Prozessen, die für die Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
-§ 2 Abs. 20 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Satzzeichen "erbringt;" durch das Satzzeichen "erbringt." ersetzt
-
 # § 3 – Ausnahmen
 
 (1) Als Wertpapierinstitut gelten nicht
@@ -395,7 +395,7 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 7. Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie nur die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Wertpapierdienstleistungen erbringen;
 
-8. EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie nur die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (Neufassung) (ABl. L 302 vom 17.11.2009, S. 32; L 269 vom 13.10.2010, S. 27), die zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328 vom 18.12.2019, S. 29) geändert worden ist, oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr.1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1; L 115 vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, aufgeführten Dienstleistungen oder Nebendienstleistungen als Wertpapierdienstleistungen erbringen;
+8. EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie nur die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (Neufassung) (ABl. L 302 vom 17.11.2009, S. 32; L 269 vom 13.10.2010, S. 27), die zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328 vom 18.12.2019, S. 29) geändert worden ist, oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1; L 115 vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, aufgeführten Dienstleistungen oder Nebendienstleistungen als Wertpapierdienstleistungen erbringen;
 
 9. Unternehmen, deren Wertpapierdienstleistung für andere ausschließlich in der Verwaltung eines Systems von Arbeitnehmerbeteiligungen an den eigenen oder an mit ihnen verbundenen Unternehmen besteht;
 
@@ -447,9 +447,11 @@ a) Übertragungsnetzbetreiber im Sinne des Artikels 2 Nummer 4 der Richtlinie 20
 
 b) Personen, die in ihrem Namen als Dienstleister handeln, um die Aufgaben eines Übertragungsnetzbetreibers gemäß der Verordnung (EU) 2019/943, der Verordnung (EG) Nr. 715/2009 oder den nach diesen Verordnungen erlassenen Netzcodes oder Leitlinien wahrnehmen,
 
-c) Betreiber oder Verwalter eines Energieausgleichssystems, eines Rohrleitungsnetzes oder eines Systems zum Ausgleich von Energieangebot und -verbrauch bei der Wahrnehmung solcher Aufgaben; sowie
+c) Betreiber oder Verwalter eines Energieausgleichssystems, eines Rohrleitungsnetzes oder eines Systems zum Ausgleich von Energieangebot und -verbrauch bei der Wahrnehmung solcher Aufgaben;
 
-21. Zentralverwahrer, die gemäß Artikel 16 der Verordnung (EU) 909/2014 zugelassen sind, soweit sie Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 erbringen.
+21. Zentralverwahrer, die gemäß Artikel 16 der Verordnung (EU) 909/2014 zugelassen sind, soweit sie Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 erbringen, sowie
+
+22. Unternehmen mit einer Zulassung als Schwarmfinanzierungsdienstleister gemäß Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 und der Richtlinie (EU) 2020/1504 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 zur Änderung der Richtlinie 2014/65/EU über Märkte für Finanzinstrumente (ABl. L 347 vom 20.10.2020, S. 50), in der jeweils geltenden Fassung, soweit sie im Rahmen von Schwarmfinanzierungsdienstleistungen im Sinne von Artikel 2 Absatz 1 Buchstabe a der Verordnung (EU) 2020/1503 Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 3, 4, 8 oder 9 und darüber hinaus keine anderen Wertpapierdienstleistungen erbringen.
 
 Für Einrichtungen und Unternehmen im Sinne von Satz 1 Nummern 4 und 5 gelten die Vorschriften dieses Gesetzes insoweit, als sie Wertpapierdienstleistungen erbringen, die nicht zu den ihnen eigentümlichen Geschäften gehören.
 
@@ -639,9 +641,11 @@ Satz 1 findet mit der Maßgabe Anwendung, dass diese Stellen einer Verschwiegenh
 
 21. Behörden, die für die Überwachung der Einhaltung der Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S. 73), die zuletzt durch die Richtlinie (EU) 2018/843 (ABl. L 156 vom 19.6.2018, S. 43) geändert worden ist, durch die in Artikel 2 Absatz 1 Nummer 1 und 2 der Richtlinie aufgeführten Verpflichteten zuständig sind, und zentrale Meldestellen oder andere Behörden, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung, Aufklärung und Verhinderung von Geldwäsche oder von Terrorismusfinanzierung betraut sind,
 
-22. zuständige Behörden oder Stellen, die für die Anwendung der Regelungen zur strukturellen Trennung innerhalb einer Bankengruppe verantwortlich sind, oder
+22. zuständige Behörden oder Stellen, die für die Anwendung der Regelungen zur strukturellen Trennung innerhalb einer Bankengruppe verantwortlich sind,
 
-23. das Bundesamt für Sicherheit in der Informationstechnik,
+23. das Bundesamt für Sicherheit in der Informationstechnik oder
+
+24. zuständige Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe r der Verordnung (EU) 2020/1503,
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei den in Satz 4 Nummern 1 bis 11, 13 bis 23 genannten Stellen beschäftigten Personen und die von diesen Stellen beauftragten Personen sowie für die Mitglieder der in Satz 4 Nummern 12 und 19 genannten Ausschüsse gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Betrifft die Weitergabe von Tatsachen nach Satz 4 personenbezogene Daten, sind die allgemeinen datenschutzrechtlichen Vorschriften zu beachten.
 
@@ -765,15 +769,7 @@ c) das eine Erlaubnis für die Verwahrung und Verwaltung im Sinne des § 2 Absat
 
 (5) § 309 Nummer 3 und die §§ 313, 314, 489, 490, 723 bis 725, 727 und 728 des Bürgerlichen Gesetzbuchs, die §§ 132 bis 135 des Handelsgesetzbuchs und die §§ 254, 297 Absatz 1, § 304 Absatz 4 und § 305 Absatz 5 Satz 4 des Aktiengesetzes sind nicht anzuwenden, wenn Zweck einer Kapitalüberlassung die Überlassung von Eigenmitteln im Sinne des Artikels 72 der Verordnung (EU) Nr. 575/2013 ist. § 309 Nummer 3 des Bürgerlichen Gesetzbuchs findet auch keine Anwendung auf Verbindlichkeiten des Instituts, welche die Voraussetzungen des Artikels 12 Absatz 16 Satz 1 der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62) mit Ausnahme von dessen Buchstabe d oder des § 49 Absatz 2 des Sanierungs- und Abwicklungsgesetzes mit Ausnahme von dessen Nummer 4 erfüllen und eine Mindestlaufzeit von einem Jahr haben. Die §§ 313, 314 und 490 Absatz 1 des Bürgerlichen Gesetzbuchs finden auf Verträge, die Verbindlichkeiten des Instituts begründen, welche die Voraussetzungen des Artikels 12 Absatz 16 Satz 1 der Verordnung (EU) Nr. 806/2014 mit Ausnahme von dessen Buchstabe d oder des § 49 Absatz 2 des Sanierungs- und Abwicklungsgesetzes mit Ausnahme von dessen Nummer 4 erfüllen und eine Mindestlaufzeit von einem Jahr haben, während der vereinbarten Laufzeit keine Anwendung. Kündigt ein stiller Gesellschafter, der sich am Handelsgewerbe eines Instituts mit einer Vermögenseinlage beteiligt, welche die in Satz 3 genannten Voraussetzungen erfüllt und eine Mindestlaufzeit von einem Jahr hat, die Gesellschaft oder seine Beteiligung außerordentlich, so wird der gesetzliche oder vertragliche Abfindungs- oder Auszahlungsanspruch nicht vor Ablauf der vereinbarten Laufzeit fällig.
 
-(6) Das Anfangskapital beträgt 25 000 Euro für Unternehmen, die
-
-1. die Eigengeschäfte auch an ausländischen Derivatemärkten und an Kassamärkten nur zur Absicherung dieser Positionen betreiben,
-
-2. das Finanzkommissionsgeschäft oder die Anlagevermittlung nur für andere Mitglieder dieser Märkte erbringen oder
-
-3. im Wege des Eigenhandels im Sinne des § 2 Absatz 2 Nummer 10 Buchstabe a als Market Maker im Sinne des § 36 Absatz 5 des Wertpapierhandelsgesetzes Preise für andere Mitglieder dieser Märkte stellen,
-
-sofern für die Erfüllung der Verträge, die diese Unternehmen an diesen Märkten oder in diesen Handelssystemen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften.
+(6) (weggefallen)
 
 # § 18 – Versagung der Erlaubnis
 

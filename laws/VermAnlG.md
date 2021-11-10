@@ -5,7 +5,7 @@
 
 # § 1 – Anwendungsbereich und Begriffsbestimmungen
 
-(1) Dieses Gesetz ist auf Vermögensanlagen anzuwenden, die im Inland öffentlich angeboten werden.
+(1) Dieses Gesetz ist auf Vermögensanlagen anzuwenden, die im Inland öffentlich angeboten werden. Es gilt nicht für ein öffentliches Angebot, das von einem im Rahmen der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, zugelassenen Schwarmfinanzierungsdienstleister unterbreitet wird, sofern es nicht den in Artikel 1 Absatz 2 Buchstabe c jener Verordnung genannten Schwellenwert übersteigt.
 
 (2) Vermögensanlagen im Sinne dieses Gesetzes sind nicht in Wertpapieren im Sinne des Wertpapierprospektgesetzes verbriefte und nicht als Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs ausgestaltete
 
