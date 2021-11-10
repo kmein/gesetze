@@ -67,7 +67,7 @@ des Bußgeldkatalogs anordnet oder zulässt.
 
 2. der Nummern 12.6.3, 12.6.4, 12.6.5, 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs,
 
-3. der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 39.1, 41, 50, 50.1, 50.2, 50.3, 50a, 50a.1, 50a.2, 50a.3, 135, 135.1, 135.2, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 152.1 oder
+3. der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 39.1, 41, 50, 50.1, 50.2, 50.3, 50a, 50a.1, 50a.2, 50a.3, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 135, 135.1, 135.2, 152.1 oder
 
 4. der Nummern 244, 246.2, 246.3 oder 250a
 
@@ -100,10 +100,9 @@ Anlage Nr. 46 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wor
 
 # Anhang – (zu Nummer 11 der Anlage)Tabelle 1
 
-(Fundstelle: BGBl. I 2013, 541 – 542;;  
-bzgl. der einzelnen Änderungen vgl. Fußnoten)
+(Fundstelle: BGBl. I 2021, 4701 - 4703)
 
-a) Kraftfahrzeuge der in § 3 Absatz 3 Nummer 2 Buchstaben a oder b StVO genannten Art  
+a) Kraftfahrzeuge der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art  
   
 
 Lfd. Nr.
@@ -113,8 +112,7 @@ b) kennzeichnungspflichtige Kraftfahrzeuge der in Buchstabe a genannten Art mit 
 
 Lfd. Nr.
 
-c) andere als die in Buchstaben a oder b genannten Kraftfahrzeuge  
-  
+c) andere als die in Buchstabe a oder b genannten Kraftfahrzeuge
 
 Lfd. Nr.
 

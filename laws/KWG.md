@@ -1293,9 +1293,11 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 8. Derivate,
 
-9. Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer 20 des Projekt- Mechanismen-Gesetzes und zertifizierte Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes, soweit diese jeweils im Emissionshandelsregister gehalten werden dürfen (Emissionszertifikate) sowie
+9. Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer 20 des Projekt- Mechanismen-Gesetzes und zertifizierte Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes, soweit diese jeweils im Emissionshandelsregister gehalten werden dürfen (Emissionszertifikate),
 
-10. Kryptowerte.
+10. Kryptowerte sowie
+
+11. für Schwarmfinanzierungszwecke nach Artikel 2 Absatz 1 Buchstabe n der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, zugelassene Instrumente (Schwarmfinanzierungsinstrumente).
 
 Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen gebietsfremden Emittenten gehandelt werden können. Geldmarktinstrumente sind Instrumente im Sinne des Artikels 11 der Delegierten Verordnung (EU) 2017/565 mit Ausnahme von Zahlungsinstrumenten. Kryptowerte im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine Kryptowerte im Sinne dieses Gesetzes sind
 
@@ -1508,7 +1510,7 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 7. Unternehmen, die Bankgeschäfte ausschließlich mit ihrem Mutterunternehmen oder ihren Tochter- oder Schwesterunternehmen betreiben;
 
-8. (weggefallen)
+8. Unternehmen, die als Bankgeschäft nur das Einlagen- oder Kreditgeschäft, beides jeweils nur über einen nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 zugelassenen Schwarmfinanzierungsdienstleister, betreiben;
 
 9. Unternehmen, die außer dem Finanzkommissionsgeschäft und dem Emissionsgeschäft, jeweils ausschließlich mit Warentermingeschäften, Emissionszertifikaten und Derivaten auf Emissionszertifikate, kein Bankgeschäft betreiben und keinen Eigenhandel im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe d erbringen, unter den weiteren Voraussetzungen, dass
 
@@ -1582,7 +1584,7 @@ e) Anbietern oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 de
 
 betreiben, sofern sich diese Finanzdienstleistungen auf Anteile oder Aktien an inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erhalten hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht, oder eine Erlaubnis nach den §§ 20, 21 oder §§ 20, 22 des Kapitalanlagegesetzbuchs erhalten hat oder die von einer EU-Verwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach Artikel 6 der Richtlinie 2009/65/EG oder der Richtlinie 2011/61/EU erhalten hat, oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, mit Ausnahme solcher AIF, die nach § 330a des Kapitalanlagegesetzbuchs vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes, die erstmals öffentlich angeboten werden, beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1; Anteile oder Aktien an Hedgefonds im Sinne von § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift;
 
-9. (weggefallen)
+9. Unternehmen mit einer Zulassung nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 als Schwarmfinanzierungsdienstleister, soweit sie im Rahmen von Schwarmfinanzierungen Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1c oder 3 und darüber hinaus keine anderen Finanzdienstleistungen erbringen;
 
 10. Angehörige freier Berufe, die Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 nur gelegentlich im Sinne des Artikels 4 der Delegierten Verordnung (EU) 2017/565 und im Rahmen eines Mandatsverhältnisses als Freiberufler erbringen und einer Berufskammer in der Form der Körperschaft des öffentlichen Rechts angehören, deren Berufsrecht die Erbringung von Finanzdienstleistungen nicht ausschließt;
 
@@ -2573,9 +2575,11 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 21. Behörden, die für die Überwachung der Einhaltung der Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates durch die in Artikel 2 Absatz 1 Nummer 1 und 2 der Richtlinie aufgeführten Verpflichteten zuständig sind, und zentrale Meldestellen oder andere Behörden, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung, Aufklärung und Verhinderung von Geldwäsche oder von Terrorismusfinanzierung betraut sind,
 
-22. zuständige Behörden oder Stellen, die für die Anwendung der Regelungen zur strukturellen Trennung innerhalb einer Bankengruppe verantwortlich sind, oder
+22. zuständige Behörden oder Stellen, die für die Anwendung der Regelungen zur strukturellen Trennung innerhalb einer Bankengruppe verantwortlich sind,
 
-23. das Bundesamt für Sicherheit in der Informationstechnik,
+23. das Bundesamt für Sicherheit in der Informationstechnik oder
+
+24. zuständige Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe r der Verordnung (EU) 2020/1503,
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei den in Satz 4 Nummer 1 bis 11, 13 bis 19, 21 und 23 genannten Stellen beschäftigten Personen und die von diesen Stellen beauftragten Personen sowie für die Mitglieder der in Satz 4 Nummer 12 und 19 genannten Ausschüsse gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 4 Nummer 1 bis 11, 16 bis 18, 21 und 22 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 weitgehend entsprechenden Verschwiegenheitspflicht unterliegen. Die ausländische Stelle ist darauf hinzuweisen, daß sie Informationen nur zu dem Zweck verarbeiten darf, zu deren Erfüllung sie ihr übermittelt werden. Eine Weitergabe an die in Satz 4 Nummer 16 und 17 genannten Stellen darf nur erfolgen, wenn
 
@@ -5056,9 +5060,11 @@ Soweit das Gericht auf Antrag des Verwaltungs- oder Aufsichtsorgans ein Mitglied
 
 3. ohne die nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 erforderliche Zulassung die Tätigkeit als Zentralverwahrer ausgeübt wird,
 
-4. ohne die nach Artikel 25 Absatz 2 der Verordnung (EU) Nr. 909/2014 erforderliche Anerkennung die in Abschnitt A des Anhangs zur Verordnung (EU) Nr. 909/2014 genannten Kerndienstleistungen erbracht werden oder
+4. ohne die nach Artikel 25 Absatz 2 der Verordnung (EU) Nr. 909/2014 erforderliche Anerkennung die in Abschnitt A des Anhangs zur Verordnung (EU) Nr. 909/2014 genannten Kerndienstleistungen erbracht werden,
 
-5. nach § 3 verbotene Geschäfte betrieben werden.
+5. ohne die nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 erforderliche Zulassung Schwarmfinanzierungsdienstleistungen im Sinne dieser Verordnung erbracht werden oder
+
+6. nach § 3 verbotene Geschäfte betrieben werden.
 
 Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Abwickler bestellen. Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekanntmachen. Die Befugnisse der Bundesanstalt nach den Sätzen 1 bis 3 bestehen auch gegenüber dem Unternehmen, das in die Anbahnung, den Abschluss oder die Abwicklung dieser Geschäfte einbezogen ist.
 
@@ -5221,9 +5227,11 @@ Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Un
 
 2. die Tätigkeit als Zentralverwahrer ohne die nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 erforderliche Zulassung ausübt,
 
-3. als Zentralverwahrer die in Abschnitt A des Anhangs zur Verordnung (EU) Nr. 909/2014 genannten Kerndienstleistungen ohne die nach Artikel 25 Absatz 2 der Verordnung (EU)Nr. 909/2014 erforderliche Anerkennung erbringt oder
+3. als Zentralverwahrer die in Abschnitt A des Anhangs zur Verordnung (EU) Nr. 909/2014 genannten Kerndienstleistungen ohne die nach Artikel 25 Absatz 2 der Verordnung (EU) Nr. 909/2014 erforderliche Anerkennung erbringt,
 
-4. nach § 3 verbotene Geschäfte betreibt.
+4. Schwarmfinanzierungsdienstleistungen im Sinne der Verordnung (EU) 2020/1503 ohne die nach Artikel 12 Absatz 1 dieser Verordnung erforderliche Zulassung erbringt oder
+
+5. nach § 3 verbotene Geschäfte betreibt.
 
 Ein Mitglied eines Organs sowie ein Beschäftigter haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Daten und Vermögenswerten erteilen.
 
@@ -6176,6 +6184,8 @@ Eine Anordnung nach Satz 5 darf insbesondere auch ergehen, wenn
 2. anzunehmen ist, dass ohne die Gewährung finanzieller Leistungen des Restrukturierungsfonds oder des Finanzmarktstabilisierungsfonds die zentrale Gegenpartei nicht in der Lage gewesen wäre, die variablen Vergütungsbestandteile zu gewähren; ist anzunehmen, dass die zentrale Gegenpartei einen Teil der variablen Vergütungsbestandteile hätte gewähren können, sind die variablen Vergütungsbestandteile angemessen zu kürzen.
 
 Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler Vergütung vor dem 16. Februar 2013 entstanden sind. Zentrale Gegenparteien müssen der Anordnungsbefugnis nach Absatz 3 Satz 1 Nummer 5 oder 6 und der Regelung in Satz 1 in entsprechenden vertraglichen Vereinbarungen mit ihren Geschäftsleitern und Mitarbeitern Rechnung tragen. Soweit vertragliche Vereinbarungen über die Gewährung einer variablen Vergütung einer Anordnung nach Absatz 3 Satz 1 Nummer 5 oder 6 entgegenstehen, können aus ihnen keine Rechte hergeleitet werden.
+
+(5) Beschlüsse über die Gewinnausschüttung sind auch insoweit nichtig, als sie einer Anordnung nach Artikel 45a Absatz 1 Buchstabe a der Verordnung (EU) Nr. 648/2012 widersprechen. Zentrale Gegenparteien müssen der Anordnungsbefugnis nach Artikel 45a Absatz 1 Buchstabe c der Verordnung (EU) Nr. 648/2012 in entsprechenden vertraglichen Vereinbarungen mit ihren Geschäftsleitern und Mitarbeitern Rechnung tragen.
 
 (+++ §§ 53e bis 53n: Zur Anwendung vgl. § 6 KfWV +++)
 

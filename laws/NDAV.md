@@ -205,6 +205,8 @@ Bei Kenntnis über den Wegfall der Voraussetzungen nach Satz 1 Nr. 2 ist der Net
 
 (3) Der Anschlussnutzer ist verpflichtet, dem Netzbetreiber die Aufnahme der Nutzung des Netzanschlusses zur Entnahme von Gas unverzüglich in Textform mitzuteilen. Der Netzbetreiber hat dem Anschlussnutzer die Mitteilung unverzüglich in Textform zu bestätigen. In der Bestätigung ist auf die Allgemeinen Bedingungen einschließlich der ergänzenden Bedingungen und auf die Haftung des Netzbetreibers nach § 18 hinzuweisen.
 
+(+++ § 3 Abs. 2 bis 5: Zur Anwendung ab 1.1.2022 vgl. § 13a Abs. 6 +++)
+
 # § 4 – Inhalt des Vertrages und der Bestätigung des Netzbetreibers
 
 (1) Der Netzanschlussvertrag und die Bestätigung des Netzbetreibers in Textform nach § 2 Abs. 5 Satz 1 und § 3 Abs. 3 Satz 2 sollen eine zusammenhängende Aufstellung aller für den Vertragsschluss nach § 2 Abs. 2 oder die Anschlussnutzung nach § 3 notwendigen Angaben enthalten, insbesondere

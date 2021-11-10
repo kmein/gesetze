@@ -45,7 +45,9 @@ j) der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 
 
 k) der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
-l) der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben.
+l) der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
+
+l) der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung.
 
 (2) Soweit nicht abweichend geregelt, sind die Vorschriften des Abschnitts 11 sowie die §§ 54 bis 57 auch anzuwenden auf Handlungen und Unterlassungen, die im Ausland vorgenommen werden, sofern sie
 
@@ -473,9 +475,11 @@ d) keine anderen Wertpapierdienstleistungen erbringen,
 
 16. Übertragungsnetzbetreiber im Sinne des Artikels 2 Nummer 4 der Richtlinie 2009/72/EG oder des Artikels 2 Nummer 4 der Richtlinie 2009/73/EG, wenn sie ihre Aufgaben gemäß diesen Richtlinien, gemäß der Verordnung (EG) Nr. 714/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Netzzugangsbedingungen für den grenzüberschreitenden Stromhandel und zur Aufhebung der Verordnung (EG) Nr. 1228/2003 (ABl. L 211 vom 14.8.2009, S. 15), die zuletzt durch die Verordnung (EU) Nr. 543/2013 (ABl. L 163 vom 15.6.2013, S. 1) geändert worden ist, gemäß der Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36; L 229 vom 1.9.2009, S. 29; L 309 vom 24.11.2009, S. 87), die zuletzt durch den Beschluss (EU) 2015/715 (ABl. L 114 vom 5.5.2015, S. 9) geändert worden ist, sowie gemäß den nach diesen Verordnungen erlassenen Netzcodes oder Leitlinien wahrnehmen, Personen, die in ihrem Namen als Dienstleister handeln, um die Aufgaben eines Übertragungsnetzbetreibers gemäß diesen Gesetzgebungsakten sowie gemäß den nach diesen Verordnungen erlassenen Netzcodes oder Leitlinien wahrzunehmen, sowie Betreiber oder Verwalter eines Energieausgleichssystems, eines Rohrleitungsnetzes oder eines Systems zum Ausgleich von Energieangebot und -verbrauch bei der Wahrnehmung solcher Aufgaben, sofern sie die Wertpapierdienstleistung in Bezug auf Warenderivate, die mit dieser Tätigkeit in Zusammenhang stehen, erbringen und sofern sie weder einen Sekundärmarkt noch eine Plattform für den Sekundärhandel mit finanziellen Übertragungsrechten betreiben,
 
-17. Zentralverwahrer im Sinne des Artikels 2 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 909/2014, soweit sie die in den Abschnitten A und B des Anhangs dieser Verordnung genannten Dienstleistungen erbringen und
+17. Zentralverwahrer im Sinne des Artikels 2 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 909/2014, soweit sie die in den Abschnitten A und B des Anhangs dieser Verordnung genannten Dienstleistungen erbringen,
 
-18. Kapitalverwaltungsgesellschaften, EU-Verwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie nur die kollektive Vermögensverwaltung oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen erbringen.
+18. Kapitalverwaltungsgesellschaften, EU-Verwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie nur die kollektive Vermögensverwaltung oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen erbringen und
+
+19. Schwarmfinanzierungsdienstleister im Sinne von Artikel 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503, soweit sie Schwarmfinanzierungsdienstleistungen im Sinne von Artikel 2 Absatz 1 Buchstabe a der Verordnung (EU) 2020/1503 erbringen.
 
 Unternehmen, die die Voraussetzungen des Satzes 1 Nummer 8 bis 10 erfüllen, haben dies der Bundesanstalt jährlich anzuzeigen.
 
@@ -565,7 +569,13 @@ für jeweils höchstens zehn aufeinander folgende Arbeitstage aussetzen oder geg
 
 (2d) Die Bundesanstalt kann den Vertrieb oder Verkauf von Finanzinstrumenten oder strukturierten Einlagen aussetzen, wenn ein Wertpapierdienstleistungsunternehmen kein wirksames Produktfreigabeverfahren nach § 80 Absatz 9 entwickelt hat oder anwendet oder in anderer Weise gegen § 80 Absatz 1 Satz 2 Nummer 2 oder Absatz 9 bis 11 verstoßen hat.
 
-(3) Die Bundesanstalt kann, um zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852 eingehalten werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 oder nach Artikel 42 der Verordnung (EU) Nr. 600/2014 vorliegen, von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen. Sie kann insbesondere folgende Angaben verlangen:
+(3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, um
+
+1. zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/1238 und der Verordnung (EU) 2020/1503 eingehalten werden, oder
+
+2. zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 dieses Gesetzes, nach Artikel 42 der Verordnung (EU) Nr. 600/2014 oder nach Artikel 63 der Verordnung (EU) 2019/1238 vorliegen.
+
+Sie kann insbesondere folgende Angaben verlangen:
 
 1. über Veränderungen im Bestand in Finanzinstrumenten,
 
@@ -595,15 +605,19 @@ Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschw
 
 6. Vorschriften der Verordnung (EU) 2016/1011 sowie die auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission oder
 
+6a. (zukünftig Inkraft)
+
+6b. die in Artikel 39 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2020/1503 in Bezug genommenen Artikel sowie die auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission oder
+
 7. eine Anordnung der Bundesanstalt, die sich auf eine der in den Nummern 1 bis 6 genannte Vorschrift bezieht,
 
-kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Bei Verstößen gegen die in Satz 1 Nummer 3 und 4 genannten Vorschriften sowie gegen Anordnungen der Bundesanstalt, die sich hierauf beziehen, kann sie verlangen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden sowie deren Wiederholung verhindern.
+kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Bei Verstößen gegen die in Satz 1 Nummer 3, 4 genannten Vorschriften sowie gegen Anordnungen der Bundesanstalt, die sich hierauf beziehen, kann sie verlangen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden sowie deren Wiederholung verhindern.
 
 (7) Die Bundesanstalt kann es einer natürlichen Person, die verantwortlich ist für einen Verstoß gegen die Artikel 14, 15, 16 Absatz 1 und 2, Artikel 17 Absatz 1, 2, 4, 5 und 8, Artikel 18 Absatz 1 bis 6, Artikel 19 Absatz 1 bis 3, 5 bis 7 und 11 sowie Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 oder gegen eine Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, für einen Zeitraum von bis zu zwei Jahren untersagen, Geschäfte für eigene Rechnung in den in Artikel 2 Absatz 1 der Verordnung (EU) Nr. 596/2014 genannten Finanzinstrumenten und Produkten zu tätigen.
 
 (8) Die Bundesanstalt kann einer Person, die bei einem von der Bundesanstalt beaufsichtigten Unternehmen tätig ist, für einen Zeitraum von bis zu zwei Jahren die Ausübung der Berufstätigkeit untersagen, wenn diese Person vorsätzlich gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 4 und 6 genannten Vorschriften oder gegen eine Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, verstoßen hat und dieses Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt. Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 5 genannten Vorschriften oder eine sich auf diese Vorschriften beziehende Anordnung der Bundesanstalt kann die Bundesanstalt einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben untersagen, wenn diese den Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt.
 
-(9) Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 5 genannten Vorschriften oder eine vollziehbare Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, kann die Bundesanstalt auf ihrer Internetseite eine Warnung unter Nennung der natürlichen oder juristischen Person oder der Personenvereinigung, die den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen. § 125 Absatz 3 und 5 gilt entsprechend.
+(9) Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 5 und 6b genannten Vorschriften oder eine vollziehbare Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, kann die Bundesanstalt auf ihrer Internetseite eine Warnung unter Nennung der natürlichen oder juristischen Person oder der Personenvereinigung, die den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen. § 125 Absatz 3 und 5 gilt entsprechend.
 
 (10) Die Bundesanstalt kann es einem Wertpapierdienstleistungsunternehmen, das gegen eine der in Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften oder gegen eine vollziehbare Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, verstoßen hat, für einen Zeitraum von bis zu drei Monaten untersagen, am Handel eines Handelsplatzes teilzunehmen.
 
@@ -651,7 +665,7 @@ die sich im Besitz dieser Unternehmen befinden, verlangen, soweit dies auf Grund
 
 (2) Die Bundesanstalt kann für jedermann die Möglichkeit einschränken, eine Position in Warenderivaten einzugehen, soweit dies zur Durchsetzung der Verbote und Gebote der in § 6 Absatz 6 Satz 1 Nummer 3 und 4 genannten Vorschriften erforderlich ist.
 
-# § 10 – Besondere Befugnisse nach der Verordnung(EU) 1286/2014, der Verordnung(EU) 2016/1011, der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852
+# § 10 – Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088, der Verordnung (EU) 2020/852 und der Verordnung (EU) 2020/1503
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) Nr. 1286/2014 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission. Gegenüber einem Wertpapierdienstleistungsunternehmen, das über ein PRIIP berät, es verkauft oder Hersteller von PRIIP ist, kann sie Anordnungen treffen, die zur Durchsetzung der in Satz 1 genannten Verbote und Gebote geeignet und erforderlich sind. Insbesondere kann sie
 
@@ -683,6 +697,28 @@ d) einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von F
 
 (3) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2019/2088 und der Verordnung (EU) 2020/852 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards der Europäischen Kommission. Gegenüber einem Wertpapierdienstleistungsunternehmen, das Anlageberatung oder Finanzportfolioverwaltung erbringt, kann sie die hierfür erforderlichen Maßnahmen treffen.
 
+(4) Die Bundesanstalt kann Anordnungen treffen, die zur Durchsetzung der Verbote und Gebote der Verordnung (EU) 2020/1503 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission geeignet und erforderlich sind. Insbesondere kann die Bundesanstalt
+
+1. beim Vorliegen eines Verstoßes oder eines hinreichend begründeten Verdachts eines Verstoßes gegen die Verordnung (EU) 2020/1503,
+
+a) den Umstand bekannt machen, dass ein Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 oder ein Dritter, der zur Wahrnehmung von Aufgaben im Zusammenhang mit solchen Dienstleistungen benannt wurde, seinen Verpflichtungen insbesondere aus den Kapiteln II, IV und V der Verordnung (EU) 2020/1503 nicht nachkommt,
+
+b) zur Gewährleistung des Anlegerschutzes nach Kapitel IV der Verordnung (EU) 2020/1053 oder des reibungslosen Funktionierens des Marktes alle wesentlichen Informationen, die die Erbringung von Schwarmfinanzierungsdienstleistungen im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2020/1503 beeinflussen können, bekannt machen oder von einem Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 oder von einem Dritten, der zur Wahrnehmung von Aufgaben im Zusammenhang von solchen Dienstleistungen benannt wurde, die Bekanntgabe dieser Informationen verlangen,
+
+c) die Erbringung von Schwarmfinanzierungsdienstleistungen im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2020/1503 aussetzen oder von einem Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 die Aussetzung der Erbringung von solchen Schwarmfinanzierungsdienstleistungen verlangen, wenn die Bundesanstalt der Auffassung ist, dass die Erbringung dieser Schwarmfinanzierungsdienstleistungen den Anlegerinteressen abträglich wäre,
+
+d) vorbehaltlich der Zustimmung der Kunden im Sinne von Artikel 2 Absatz 1 Buchstabe g der Verordnung (EU) 2020/1503 und des übernehmenden Schwarmfinanzierungsdienstleisters im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 bestehende Verträge an einen anderen Schwarmfinanzierungsdienstleister übertragen, falls einem Schwarmfinanzierungsdienstleister die Zulassung nach Artikel 17 Absatz 1 Unterabsatz 1 Buchstabe c entzogen wurde,
+
+2. bei einem hinreichend begründeten Verdacht für das Vorliegen eines Verstoßes gegen die Verordnung (EU) 2020/1503 in jedem einzelnen Fall
+
+a) ein Schwarmfinanzierungsangebot im Sinne des Artikels 2 Absatz 1 Buchstabe f der Verordnung (EU) 2020/1503 untersagen oder für maximal zehn aufeinanderfolgende Arbeitstage aussetzen,
+
+b) die Erbringung von Schwarmfinanzierungsdienstleistungen im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2020/1503 für maximal zehn aufeinanderfolgende Arbeitstage aussetzen oder von einem Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 für maximal zehn aufeinanderfolgende Arbeitstage die Aussetzung der Erbringung von solchen Schwarmfinanzierungsdienstleistungen verlangen,
+
+c) Marketingmitteilungen im Sinne des Artikels 2 Absatz 1 Buchstabe o der Verordnung (EU) 2020/1503 untersagen oder für maximal zehn aufeinanderfolgende Arbeitstage aussetzen oder Schwarmfinanzierungsdienstleistern im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 oder Dritten, die mit der Wahrnehmung von Funktionen in Bezug auf die Schwarmfinanzierungsdienstleistungen beauftragt wurden, vorschreiben, solche Marketingmitteilungen zu unterlassen oder für maximal zehn aufeinanderfolgende Arbeitstage auszusetzen,
+
+3. die Erbringung von Schwarmfinanzierungsdienstleistungen untersagen, wenn sie das Vorliegen eines Verstoßes gegen die Verordnung (EU) 2020/1503 feststellt.
+
 # § 11 – Anzeige straftatbegründender Tatsachen
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach § 119 begründen, der zuständigen Staatsanwaltschaft unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit dies für Zwecke der Strafverfolgung erforderlich ist. Die Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den Vorschriften der Strafprozessordnung. Die Befugnisse der Bundesanstalt nach § 6 Absatz 2 bis 13 sowie den §§ 7 bis 9 und 10 Absatz 2 bleiben hiervon unberührt, soweit dies für die Vornahme von Verwaltungsmaßnahmen oder zur Erfüllung von Ersuchen ausländischer Stellen nach § 18 Absatz 2, 4 Satz 1 oder Absatz 10 erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
@@ -693,7 +729,7 @@ Die Adressaten von Maßnahmen nach § 6 Absatz 2 bis 4, 6 bis 8 und 10 bis 13 so
 
 # § 13 – Sofortiger Vollzug
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis 14 und den §§ 7 bis 10 und 54 Absatz 1 haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis 13 und den §§ 7 bis 10 und 54 Absatz 1 einschließlich der Androhung und der Festsetzung von Zwangsmitteln haben keine aufschiebende Wirkung.
 
 # § 14 – Befugnisse zur Sicherung des Finanzsystems
 
@@ -781,7 +817,7 @@ Die Unterrichtung nach Satz 4 Nummer 3 und 4 muss mindestens 24 Stunden vor Beka
 
 (10) Die Bundesanstalt kann mit den zuständigen Stellen anderer als der in Absatz 1 genannten Staaten entsprechend den Absätzen 1 bis 9 zusammenarbeiten und Vereinbarungen über den Informationsaustausch abschließen. Absatz 7 Satz 5 und 6 findet mit der Maßgabe Anwendung, dass Informationen, die von diesen Stellen übermittelt werden, nur unter Beachtung einer Zweckbestimmung der übermittelnden Stelle verarbeitet und nur mit ausdrücklicher Zustimmung der übermittelnden Stelle der Deutschen Bundesbank oder dem Bundeskartellamt mitgeteilt werden dürfen, sofern dies für die Erfüllung ihrer Aufgaben erforderlich ist. Absatz 7 Satz 8 findet keine Anwendung. Die Übermittlung personenbezogener Daten muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung und mit den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen. Die Bundesanstalt unterrichtet die Europäische Wertpapier- und Marktaufsichtsbehörde über den Abschluss von Vereinbarungen nach Satz 1.
 
-(11) Für Zwecke der Zusammenarbeit im Zusammenhang mit der Verordnung (EU) Nr. 596/2014 stehen der Bundesanstalt die Befugnisse nach diesem Gesetz zu, um den einschlägigen Ersuchen der zuständigen Behörden nach der Verordnung (EU) Nr. 596/2014 sowie der für die Überwachung entsprechender ausländischer Bestimmungen zuständigen Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder von Drittstaaten nachzukommen.
+(11) Für Zwecke der Zusammenarbeit im Zusammenhang mit der Verordnung (EU) Nr. 596/2014 und der Verordnung (EU) 2020/1503 stehen der Bundesanstalt die Befugnisse nach diesem Gesetz zu, um den einschlägigen Ersuchen der zuständigen Behörden nach der Verordnung (EU) Nr. 596/2014 und der Verordnung (EU) 2020/1503 sowie der für die Überwachung entsprechender ausländischer Bestimmungen zuständigen Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder von Drittstaaten nachzukommen.
 
 (12) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu den in den Absätzen 2, 3 und 7 genannten Zwecken nähere Bestimmungen über die Übermittlung von Informationen an ausländische Stellen, die Durchführung von Untersuchungen auf Ersuchen ausländischer Stellen sowie Ersuchen der Bundesanstalt an ausländische Stellen erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
@@ -810,6 +846,8 @@ Die Bundesanstalt übermittelt der Europäischen Kommission auf Verlangen diejen
 4. mit der Liquidation oder dem Insolvenzverfahren über das Vermögen eines Wertpapierdienstleistungsunternehmens, eines organisierten Marktes oder des Betreibers eines organisierten Marktes befasste Stellen,
 
 5. die Europäische Zentralbank, das Europäische System der Zentralbanken, die Europäische Wertpapier- und Marktaufsichtsbehörde, die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung, die Europäische Bankenaufsichtsbehörde, den Gemeinsamen Ausschuss der Europäischen Finanzaufsichtsbehörden, den Europäischen Ausschuss für Systemrisiken oder die Europäische Kommission,
+
+7. zuständige Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe r der Verordnung (EU) 2020/1503,
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei den in Satz 3 Nummer 1 bis 4 genannten Stellen beschäftigten Personen sowie von diesen Stellen beauftragten Personen gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich eine in Satz 3 Nummer 1 bis 4 genannte Stelle in einem anderen Staat, so dürfen die Tatsachen nur weitergegeben werden, wenn die bei dieser Stelle beschäftigten und die von dieser Stelle beauftragten Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht unterliegen.
 
@@ -944,6 +982,64 @@ eingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monate
 (5) Die Pflichten nach Absatz 1 in Verbindung mit den Absätzen 2 bis 4 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a Absatz 1 des Handelsgesetzbuchs. § 264a Absatz 2 des Handelsgesetzbuchs gilt entsprechend.
 
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 1 sowie über Art und Umfang der Bescheinigungen nach Absatz 3 erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um auf die Einhaltung der in Absatz 1 Satz 1 genannten Pflichten und Anforderungen hinzuwirken und um einheitliche Unterlagen zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz auf die Bundesanstalt übertragen.
+
+# § 32a – (zukünftig in Kraft)
+
+# § 32b – Zuständigkeit der Bundesanstalt nach der Verordnung (EU) 2020/1503
+
+(1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 29 Absatz 1 der Verordnung (EU) 2020/1503.
+
+(2) Die Bundesanstalt erlässt im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Gestattungen nach Artikel 2 Absatz 2 der Verordnung (EU) 2020/1503 durch Allgemeinverfügung.
+
+(3) In Bezug auf Maßnahmen nach Artikel 17 Absatz 1 der Verordnung (EU) 2020/1503 sind § 48 Absatz 4 Satz 1 und § 49 Absatz 2 Satz 2 des Verwaltungsverfahrensgesetzes über die Jahresfrist nicht anzuwenden.
+
+(4) Widerspruch und Anfechtungsklage gegen Entscheidungen und Maßnahmen der Bundesanstalt nach der Verordnung (EU) 2020/1503 einschließlich der Androhung und der Festsetzung von Zwangsmitteln haben keine aufschiebende Wirkung.
+
+# § 32c – Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503
+
+(1) Der für das Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 verantwortliche Projektträger im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EU) 2020/1503 und die für dieses Anlagebasisinformationsblatt verantwortlichen Mitglieder seiner Leitungsorgane sind dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zum Ersatz des Schadens verpflichtet, der daraus entsteht, dass in einem Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union vorsätzlich oder fahrlässig
+
+1. irreführende oder unrichtige Informationen angegeben sind oder
+
+2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie in einem Schwarmfinanzierungsprojekt anlegen wollen, zu unterstützen.
+
+(2) Absatz 1 findet Anwendung auch auf die für das Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503 verantwortlichen Mitglieder der Verwaltungs- oder Aufsichtsorgane eines Projektträgers, wenn diese vorsätzlich oder grob fahrlässig gehandelt haben.
+
+# § 32d – Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503
+
+(1) Der für das Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortliche Schwarmfinanzierungsdienstleister und die für dieses Anlagebasisinformationsblatt verantwortlichen Mitglieder seiner Leitungsorgane sind dem Anleger im Sinne des Artikels 2 Absatz 1 Buchstabe i der Verordnung (EU) 2020/1503 zum Ersatz des Schadens verpflichtet, der daraus entsteht, dass in einem Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 oder etwaiger Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union vorsätzlich oder fahrlässig
+
+1. irreführende oder unrichtige Informationen angegeben sind oder
+
+2. wichtige Informationen nicht angegeben sind, die erforderlich sind, um Anleger bei ihrer Entscheidung, ob sie ihre Anlage durch die individuelle Verwaltung des Kreditportfolios vornehmen, zu unterstützen.
+
+(2) Absatz 1 findet Anwendung auch auf die für das Anlagebasisinformationsblatt nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortlichen Mitglieder der Verwaltungs- oder Aufsichtsorgane eines Schwarmfinanzierungsdienstleisters, wenn diese vorsätzlich oder grob fahrlässig gehandelt haben.
+
+# § 32e – Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d
+
+(1) Ein Anspruch nach § 32c oder § 32d besteht nicht, wenn der Anleger vor seiner Entscheidung die Unrichtigkeit oder die Unvollständigkeit der Informationen in dem Anlagebasisinformationsblatt oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union kannte oder die Irreführung durch die Informationen in dem Anlagebasisinformationsblatt oder etwaigen Übersetzungen in Amtssprachen eines Mitgliedstaats der Europäischen Union erkannt hat.
+
+(2) Eine Vereinbarung, durch die Ansprüche nach § 32c oder § 32d im Voraus ermäßigt, erlassen oder ausgeschlossen werden, ist unwirksam.
+
+(3) Weitergehende Ansprüche, die nach den Vorschriften des bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten Handlungen erhoben werden können, bleiben unberührt.
+
+# § 32f – Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung
+
+(1) Die Bundesanstalt kann zur Überwachung der Einhaltung der Pflichten nach der Verordnung (EU) 2020/1503 in der jeweils geltenden Fassung auch ohne besonderen Anlass Prüfungen bei den Schwarmfinanzierungsdienstleistern im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 bei den Unternehmen, mit denen eine Auslagerungsvereinbarung besteht oder bestand, und bei sonstigen zur Durchführung eingeschalteten dritten Personen oder Unternehmen vornehmen.
+
+(2) Unbeschadet des Absatzes 1 ist einmal jährlich durch einen geeigneten Prüfer zu prüfen, ob die Schwarmfinanzierungsdienstleister die nach der Verordnung (EU) 2020/1503 einzuhaltenden Pflichten erfüllen. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung ganz oder teilweise unter Berücksichtigung der Art und des Umfangs der betriebenen Geschäfte absehen. Der Schwarmfinanzierungsdienstleister hat den geeigneten Prüfer spätestens zum Ablauf desjenigen Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Schwarmfinanzierungsdienstleistern, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich Letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
+
+(3) Über die Prüfung nach Absatz 2 ist ein Prüfungsbericht zu erstellen und auf Anforderung der Bundesanstalt vorzulegen. Die wesentlichen Prüfungsergebnisse sind in einem Fragebogen zusammenzufassen, der dem Prüfungsbericht beizufügen ist. Der Fragebogen ist auch dann bei der Bundesanstalt einzureichen, wenn ein Prüfungsbericht nach Satz 1 nicht angefordert wird. Der Fragebogen ist unverzüglich nach Beendigung der Prüfung einzureichen.
+
+(4) Der Schwarmfinanzierungsdienstleister hat vor Erteilung des Prüfungsauftrags der Bundesanstalt den Prüfer anzuzeigen. Die Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszweckes geboten ist. Die Sätze 1 und 2 gelten nicht für Schwarmfinanzierungsdienstleister, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden.
+
+(5) Die Bundesanstalt kann gegenüber dem Schwarmfinanzierungsdienstleister Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer zu berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die Prüfungen festlegen. Bei Verdacht auf schwerwiegende Verstöße gegen die Pflichten, deren Einhaltung zu prüfen ist, hat der Prüfer die Bundesanstalt unverzüglich zu unterrichten. Die Bundesanstalt kann an den Prüfungen teilnehmen. Hierfür ist der Bundesanstalt der Beginn der Prüfung rechtzeitig mitzuteilen.
+
+(6) Die Bundesanstalt kann die Prüfung nach Absatz 2 auch ohne besonderen Anlass anstelle des Prüfers selbst oder durch Beauftragte durchführen. Der Schwarmfinanzierungsdienstleister ist hierüber rechtzeitig zu informieren.
+
+(7) Widerspruch und Anfechtungsklage gegen Maßnahmen nach den Absätzen 1 bis 6 haben keine aufschiebende Wirkung.
+
+(8) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Aufbau, Inhalt und Art und Weise der nach Absatz 3 vorzulegenden Prüfungsberichte sowie nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach den Absätzen 1 und 2 erlassen, um Missständen bei der Erbringung von Schwarmfinanzierungsdienstleistungen nach der Verordnung (EU) 2020/1503 entgegenzuwirken, um auf die Einhaltung der der Prüfung nach Absatz 2 Satz 1 unterliegenden Pflichten hinzuwirken und um zu diesem Zweck einheitliche Unterlagen zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 # § 33 – Mitteilungspflichten des Meldepflichtigen; Verordnungsermächtigung
 
@@ -2699,7 +2795,7 @@ Auf Verlangen der Bundesanstalt hat die Prüfstelle das Ergebnis und die Durchf�
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und Zweckmäßigkeit der Verfügungen, welche die Bundesanstalt nach den Vorschriften dieses Abschnitts erlässt, in einem Widerspruchsverfahren nachzuprüfen. Einer solchen Nachprüfung bedarf es nicht, wenn der Abhilfebescheid oder der Widerspruchsbescheid erstmalig eine Beschwer enthält. Für das Widerspruchsverfahren gelten die §§ 68 bis 73 und 80 Abs. 1 der Verwaltungsgerichtsordnung entsprechend, soweit in diesem Abschnitt nichts Abweichendes geregelt ist.
 
-(2) Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 107 Absatz 1 Satz 1, 2 und 6 sowie Absatz 5 und 6, § 108 Absatz 1 Satz 3 und 4, Absatz 2 und § 109 Absatz 1 und 2 Satz 1 hat keine aufschiebende Wirkung.
+(2) Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 107 Absatz 1 Satz 1, 2 und 6 sowie Absatz 5 und 6, § 108 Absatz 1 Satz 3 und 4, Absatz 2 und § 109 Absatz 1 und 2 Satz 1 einschließlich der Androhung und der Festsetzung von Zwangsmitteln hat keine aufschiebende Wirkung.
 
 # § 113 – Beschwerde
 
@@ -3796,6 +3892,90 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 (27) Absatz 2 Nummer 5 und 14, Absatz 3 sowie Absatz 12 Nummer 1 Buchstabe c, Nummer 3 und 4, jeweils in Verbindung mit Absatz 24, gelten auch für die erlaubnispflichtige Anlageverwaltung im Sinne des § 2 Absatz 13 Satz 3. Absatz 8 Nummer 27 bis 37, 39 bis 53, 97 bis 100, 103 bis 112 und 123, jeweils in Verbindung mit Absatz 20, gilt auch für Wertpapierdienstleistungsunternehmen und Kreditinstitute, wenn sie im Sinne des § 96 strukturierte Einlagen verkaufen oder über diese beraten. Absatz 8 Nummer 88 bis 96 und 98 bis 102, jeweils in Verbindung mit Absatz 20, gilt auch für Unternehmen im Sinne des § 3 Satz 1. Absatz 8 Nummer 2, 27 bis 126 und 134 bis 136, jeweils in Verbindung mit Absatz 20, gilt auch für Unternehmen im Sinne des § 3 Absatz 3 Satz 1 und 2.
 
 (28) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 Nummer 16 geahndet werden können.
+
+# § 120a – (zukünftig in Kraft)
+
+# § 120b – Bußgeldvorschriften zur Verordnung (EU) 2020/1503
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen Artikel 18 Absatz 1 der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) eine Angabe nicht richtig übermittelt.
+
+(2) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2020/1503 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 3 Absatz 3 eine Vergütung, einen Rabatt oder einen nichtmonetären Vorteil gewährt oder erhält,
+
+2. entgegen Artikel 4 Absatz 1 oder 2 Unterabsatz 1 die Umsetzung einer dort genannten Regelung, eines dort genannten Verfahrens, eines dort genannten Systems oder einer dort genannten Kontrolle nicht überwacht,
+
+3. entgegen Artikel 4 Absatz 2 Unterabsatz 2 nicht dafür Sorge trägt, dass er über ein dort genanntes System oder eine dort genannte Kontrolle verfügt,
+
+4. entgegen Artikel 4 Absatz 3 eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+5. entgegen Artikel 4 Absatz 4 Buchstabe a eine dort genannte Bewertung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,
+
+6. entgegen Artikel 5 Absatz 1 in Verbindung mit Absatz 2 Buchstabe b für eine dort genannte Prüfung nicht sorgt,
+
+7. entgegen Artikel 6 Absatz 3 eine Aufzeichnung nicht, nicht richtig oder nicht mindestens drei Jahre führt,
+
+8. entgegen Artikel 6 Absatz 4 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht auf Anfrage des Anlegers zur Verfügung stellt,
+
+9. entgegen Artikel 6 Absatz 6 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+10. entgegen Artikel 7 Absatz 2 nicht dafür sorgt, dass ein Kunde unentgeltlich Beschwerde einreichen kann,
+
+11. entgegen Artikel 7 Absatz 3 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
+
+12. entgegen Artikel 8 Absatz 1 eine Beteiligung hält,
+
+13. entgegen Artikel 8 Absatz 2 Unterabsatz 1 eine dort genannte Person als Projektträger zulässt,
+
+14. entgegen Artikel 8 Absatz 2 Unterabsatz 2 eine dort genannte Tatsache nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht unverzüglich nach der Zulassung der Person als Anleger offenlegt oder nicht sicherstellt, dass eine Person eine Vorzugsbehandlung nicht erhält,
+
+15. entgegen Artikel 15 Absatz 3 eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+16. entgegen Artikel 16 Absatz 1 eine dort genannte Liste nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+17. als Schwarmfinanzierungsdienstleister entgegen Artikel 19 Absatz 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+18. entgegen Artikel 20 Absatz 1 Buchstabe a in Verbindung mit Absatz 2 eine Ausfallquote nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig offenlegt,
+
+19. entgegen Artikel 20 Absatz 1 Buchstabe b eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht,
+
+20. entgegen Artikel 21 Absatz 1 in Verbindung mit Artikel 21 Absatz 5 eine dort genannte Bewertung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+21. entgegen Artikel 21 Absatz 3 eine dort genannte Bewertung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig überprüft,
+
+22. entgegen Artikel 21 Absatz 6 Unterabsatz 1 eine dort genannte Simulation nicht oder nicht rechtzeitig überprüft,
+
+23. einer Vorschrift des Artikels 21 Absatz 7 Unterabsatz 1 über die Sicherstellung einer dort genannten Pflicht zuwiderhandelt,
+
+24. entgegen Artikel 22 Absatz 2 in Verbindung mit Absatz 3 eine vorvertragliche Bedenkzeit nicht vorsieht,
+
+25. entgegen Artikel 22 Absatz 4 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
+
+26. entgegen Artikel 22 Absatz 6 Buchstabe a oder b, Artikel 23 Absatz 8 Satz 2 oder Absatz 12 Unterabsatz 3 oder Artikel 24 Absatz 2 Satz 2 einen Anleger nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+
+27. entgegen Artikel 23 Absatz 12 Unterabsatz 1 einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt oder eine Information nicht oder nicht rechtzeitig korrigiert,
+
+28. einer vollziehbaren Anordnung nach Artikel 23 Absatz 14 zuwiderhandelt,
+
+29. entgegen Artikel 24 Absatz 2 Satz 1 ein Anlagebasisinformationsblatt nicht auf dem neuesten Stand hält,
+
+30. entgegen Artikel 25 Absatz 2 Satz 1 ein dort genanntes Forum nutzt,
+
+31. entgegen Artikel 25 Absatz 3 Buchstabe d nicht sicherstellt, dass ein Kunde eine dort genannte Information erhält,
+
+32. entgegen Artikel 26 Buchstabe b nicht sicherstellt, dass ein Kunde Zugang zu dort genannten Aufzeichnungen hat,
+
+33. entgegen Artikel 27 Absatz 1 nicht sicherstellt, dass eine Marketingmitteilung als solche erkennbar ist, oder
+
+34. entgegen Artikel 27 Absatz 3 eine dort genannte Sprache nicht verwendet.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden.
+
+(4) Bei einer juristischen Person oder einer Personenvereinigung mit einem jährlichen Gesamtumsatz von mehr als 10 Millionen Euro kann die Ordnungswidrigkeit abweichend von Absatz 3 mit einer Geldbuße bis zu 5 Prozent des jährlichen Gesamtumsatzes geahndet werden, der im letzten verfügbaren vom Leitungsorgan gebilligten Abschluss ausgewiesen ist.
+
+(5) Bei einer juristischen Person oder Personenvereinigung kann über Absatz 3 oder 4 hinaus die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen Nutzens geahndet werden, soweit sich dieser beziffern lässt.
+
+(6) § 120 Absatz 23 und 26 gilt entsprechend.
 
 # § 121 – Zuständige Verwaltungsbehörde
 
