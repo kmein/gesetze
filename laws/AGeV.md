@@ -117,63 +117,17 @@ dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen Stoffe hinau
 
 (3) In Absatz 1 genannte Spirituosen, die entgegen Absatz 1 mit anderen als den dort genannten Zuckerarten oder mit Zuckerarten über die festgesetzte Höchstmenge hinaus hergestellt worden sind oder bei deren Herstellung entgegen Absatz 2 Zucker verwendet worden ist, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-# § 9 – Spirituosen mit geographischen Angaben
+# § 9 – Spirituosen mit geografischen Bezugnahmen
 
-(1) Die in Anlage 4 aufgeführten Spirituosen dürfen gewerbsmäßig unter den dort in Spalte 2 aufgeführten Verkehrsbezeichnungen nur in den Verkehr gebracht werden, wenn sie zusätzlich zu den für ihre Produktkategorie in Anhang II der Verordnung (EG) Nr. 110/2008 genannten Anforderungen die in Spalte 3 festgesetzten Voraussetzungen erfüllen.
+(1) Spirituosen dürfen gewerbsmäßig nach Maßgabe des Artikels 10 Absatz 6 Buchstabe a der Verordnung (EU) 2019/787 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Begriffsbestimmung, Bezeichnung, Aufmachung und Kennzeichnung von Spirituosen, die Verwendung der Bezeichnungen von Spirituosen bei der Aufmachung und Kennzeichnung von anderen Lebensmitteln, den Schutz geografischer Angaben für Spirituosen und die Verwendung von Ethylalkohol und Destillaten landwirtschaftlichen Ursprungs in alkoholischen Getränken sowie zur Aufhebung der Verordnung (EG) Nr. 110/2008 (ABl. L 130 vom 17.05.2019, S. 1; L 289 vom 12.8.2021, S. 4) mit einer geografischen Bezugnahme nur in den Verkehr gebracht werden, sofern es sich bei dieser geografischen Bezugnahme um die Angabe eines Herkunftsortes oder einer Herkunftsregion im Sinne des Artikels 14 Absatz 1 der Verordnung (EU) 2019/787 handelt. Im Übrigen bestimmt sich die Zulässigkeit geografischer Begriffe im Sinne des Artikels 10 Absatz 5 Buchstabe a Satz 2 der Verordnung (EU) 2019/787 nach den Regeln der jeweiligen Produktspezifikation.
 
-(2) Ferner dürfen Spirituosen gewerbsmäßig nach Maßgabe des Artikels 9 Absatz 5 der Verordnung (EG) Nr. 110/2008 unter Verwendung des Namens einer anderen geografischen Angabe als einer in Anhang III der Verordnung (EG) Nr. 110/2008 eingetragenen geografischen Angabe in Verkehr gebracht werden, sofern es sich bei dieser geografischen Angabe auch um eine geografische Angabe im Sinne des Artikels 15 Absatz 1 der Verordnung (EG) Nr. 110/2008 handelt.
+(2) Soweit ein Obstbrand im Sinne des Anhangs I Kategorie 9 der Verordnung (EU) 2019/787 oder ein Geist im Sinne des Anhangs I Kategorie 17 der Verordnung (EU) 2019/787 in einer Region oder in einem Ort hergestellt wird, die oder der zu einem im Rahmen einer Produktspezifikation nach Artikel 22 Absatz 1 Unterabsatz 1 Buchstabe d der Verordnung (EU) 2019/787 abgegrenzten geografischen Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur rechtlich vorgeschriebenen Bezeichnung nach Anhang I Kategorie 9 oder Kategorie 17 der Verordnung (EU) 2019/787 verwendet werden, wenn dieser Obstbrand oder Geist zusätzlich zu den Anforderungen der Spirituosenkategorie nach Anhang I der Verordnung (EU) 2019/787 folgende Bedingungen erfüllt:
 
-(3) Soweit ein Obstbrand im Sinne des Anhangs II Nummer 9 der Verordnung (EG) Nr. 110/2008 oder ein Geist im Sinne des Anhangs II Nummer 17 der Verordnung (EG) Nr. 110/2008 in einer Region oder in einem Ort hergestellt wird, die oder der zu einem in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 genannten Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur Verkehrsbezeichnung nach Anhang II Nummer 9 Buchstabe f oder g oder Nummer 17 der Verordnung (EG) Nr. 110/2008 verwendet werden, wenn zusätzlich zu den Anforderungen an die Produktkategorie nach Anhang II der Verordnung (EG) Nr. 110/2008 der Obstbrand oder Geist in der jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt ist, die aus der jeweiligen Region oder dem jeweiligen Ort stammen, und den in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 festgesetzten Mindestalkoholgehalt aufweist.
+1. er ist in der jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt, die aus der jeweiligen Region oder dem jeweiligen Ort stammen und
 
-# § 9a – Korn oder Kornbrand
+2. er weist den gegenüber den Erzeugnissen mit einer Gattungsbezeichnung höheren Mindestalkoholgehalt auf, sofern ein solcher höherer Mindestalkoholgehalt in der jeweiligen Produktspezifikation des Erzeugnisses mit einer eingetragenen geografischen Angabe, in dessen abgegrenztem geografischen Gebiet die Region oder der Ort, die oder der in der geografischen Bezugnahme genannt wird, liegt, festgesetzt worden ist.
 
-(1) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG) Nr. 110/2008 darf unter der in Anhang III Nr. 3 der Verordnung (EG) Nr. 110/2008 aufgeführten Verkehrsbezeichnung „Korn“ oder „Kornbrand“ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
-
-1. die Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser im Inland, in Österreich oder in der Deutschsprachigen Gemeinschaft Belgiens erfolgt sind,
-
-2. das Destillat
-
-a) ausschließlich durch Destillieren von vergorener Maische aus dem vollen Korn von Weizen, Gerste, Hafer, Roggen oder Buchweizen mit allen seinen Bestandteilen oder
-
-b) durch erneutes Destillieren eines nach Buchstabe a hergestellten Destillates
-
-hergestellt worden ist,
-
-3. dem Erzeugnis keine Lebensmittel-Zusatzstoffe zugesetzt worden sind und
-
-4. der Alkoholgehalt der fertigen Spirituose
-
-a) im Falle von „Korn“ mindestens 32 Volumenprozent,
-
-b) im Falle von „Kornbrand“ mindestens 37,5 Volumenprozent
-
-beträgt.
-
-Satz 1 Nr. 2 bis 4 gilt nicht für eine in Österreich oder in der Deutschsprachigen Gemeinschaft Belgiens hergestellte und dort abgefüllte Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG) Nr. 110/2008.
-
-(2) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG) Nr. 110/2008 darf unter der im Anhang III Nr. 3 der Verordnung (EG) Nr. 110/2008 aufgeführten Verkehrsbezeichnung „Münsterländer Korn“, „Münsterländer Kornbrand“, „Sendenhorster Korn“, „Sendenhorster Kornbrand“, „Bergischer Korn“, „Bergischer Kornbrand“, „Emsländer Korn“, „Emsländer Kornbrand“, „Haselünner Korn“, „Haselünner Kornbrand“, „Hasetaler Korn“ oder „Hasetaler Kornbrand“ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
-
-1. das Destillat
-
-a) ausschließlich durch Destillieren von vergorener Maische aus dem vollen Korn von Weizen, Gerste, Hafer, Roggen oder Buchweizen mit allen seinen Bestandteilen
-
-oder
-
-b) durch erneutes Destillieren eines nach Buchstabe a hergestellten Destillates
-
-hergestellt worden ist,
-
-2. dem Erzeugnis keine Lebensmittel-Zusatzstoffe zugesetzt worden sind und
-
-3. der Alkoholgehalt der fertigen Spirituose
-
-a) im Falle von „Münsterländer Korn“, „Sendenhorster Korn“, „Bergischem Korn“, „Emsländer Korn“, „Haselünner Korn“ oder „Hasetaler Korn“ mindestens 32 Volumenprozent,
-
-b) im Falle von „Münsterländer Kornbrand“, „Sendenhorster Kornbrand“, „Bergischem Kornbrand“, „Emsländer Kornbrand“, „Haselünner Kornbrand“ oder „Hasetaler Kornbrand“ mindestens 37,5 Volumenprozent
-
-beträgt und
-
-4. die in Anlage 4 Spalte 3 jeweils festgelegten Voraussetzungen eingehalten sind.
+# § 9a – (weggefallen)
 
 # § 10 – Begriffsbestimmungen
 
@@ -209,7 +163,7 @@ a) entgegen § 1 Abs. 3 Weinbrand oder Brandy,
 
 b) entgegen § 2 Nr. 1 bis 6 oder 8 eine Spirituose unter der Verkehrsbezeichnung „Deutscher Weinbrand“,
 
-c) entgegen § 8 Abs. 3, § 9 Absatz 1 oder § 9a Abs. 1 Satz 1 oder Abs. 2 eine Spirituose oder
+c) entgegen § 8 Absatz 3 oder § 9 Absatz 1 eine Spirituose oder
 
 d) entgegen § 10 Abs. 8 oder § 11 Satz 1 ein dort genanntes Getränk
 
@@ -481,117 +435,4 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 | Hessen:                 | HE-, | Schleswig-Holstein:  | SH-, |
 | Mecklenburg-Vorpommern: | MV-, | Thüringen:           | TH-. |
 
-# Anlage 4 – (zu § 9 und § 9a Abs. 2)Spirituosen mit geographischen Angaben
-
-( Fundstelle des Originaltextes: BGBl. I 2003, 1263;  
-bzgl. der einzelnen Änderungen vgl. Fußnote )
-
-  
-
-Lfd. Nr.
-
-Verkehrsbezeichnungen
-
-Voraussetzungen
-
-1
-
-2
-
-3
-
-1\.
-
-Schwarzwälder Kirschwasser, Schwarzwälder Himbeergeist, Schwarzwälder Williamsbirne, Schwarzwälder Mirabellenwasser, Schwarzwälder Zwetschgenwasser
-
-Herstellung im Schwarzwald aus den jeweiligen Früchten des Schwarzwaldes und seines nahe gelegenen Vorlandes. Zum Gebiet "Schwarzwald und sein nahe gelegenes Vorland" zählen vom Regierungsbezirk Freiburg die Landkreise Breisgau-Hochschwarzwald, Emmendingen, Konstanz, Lörrach, Ortenaukreis, Rottweil, Schwarzwald-Baar-Kreis, Tuttlingen, Waldshut und die kreisfreien Städte Freiburg und Offenburg, und vom Regierungsbezirk Karlsruhe die Landkreise Calw, Enzkreis, Freudenstadt, Karlsruhe, Rastatt und die kreisfreien Städte Baden-Baden und Karlsruhe. Der Alkoholgehalt der fertigen Spirituose beträgt mindestens 40 Volumenprozent.
-
-2\.
-
-Fränkisches Kirschwasser, Fränkisches Zwetschgenwasser, Fränkischer Obstler
-
-Herstellung in Franken aus den jeweiligen Früchten von Franken. Zum Gebiet "Franken" zählen die Regierungsbezirke Unter-, Mittel- und Oberfranken. "Fränkischer Obstler" darf nur aus Birnen und Äpfeln hergestellt werden. Der Alkoholgehalt der fertigen Spirituose beträgt im Falle von "Fränkischem Kirschwasser" und "Fränkischem Zwetschgenwasser" mindestens 40 Volumenprozent und im Falle von "Fränkischem Obstler" mindestens 38 Volumenprozent.
-
-3\.
-
-Bayerischer Gebirgsenzian
-
-Herstellung im Freistaat Bayern aus Enzianwurzeln, angebaut in den bayerischen Alpen oder dem bayerischen Alpenvorland. Der Alkoholgehalt der fertigen Spirituose beträgt mindestens 38 Volumenprozent.
-
-4\.
-
-Ostfriesischer Korngenever
-
-Herstellung in Ostfriesland. Zum Gebiet "Ostfriesland" zählen vom Regierungsbezirk Weser-Ems die Landkreise Aurich, Leer und Wittmund und die kreisfreie Stadt Emden. Der Alkoholgehalt besteht ausschließlich aus Korndestillat. Der Alkoholgehalt der fertigen Spirituose beträgt mindestens 38 Volumenprozent.
-
-5\.
-
-Steinhäger
-
-Herstellung in Steinhagen. Bei der Weiterverarbeitung des Wacholderlutters durch erneute Destillation darf nur Äthylalkohol landwirtschaftlichen Ursprungs oder Korndestillat sowie Wasser zugesetzt werden. Die Beigabe von anderen Zutaten mit Ausnahme einer geringen Menge an Wacholderbeeren ist unzulässig. Der Alkoholgehalt der fertigen Spirituose beträgt mindestens 38 Volumenprozent.
-
-6\.
-
-Berliner Kümmel, Hamburger Kümmel, Münchener Kümmel
-
-Herstellung in den jeweiligen Stadtgebieten und den jeweiligen Landkreisen.
-
-7\.
-
-Bayerischer Kräuterlikör
-
-Herstellung im Freistaat Bayern.
-
-8\.
-
-Benediktbeurer Klosterlikör
-
-Herstellung in Benediktbeuren nach Maßgabe der dortigen Praxis.
-
-9\.
-
-Chiemseer Klosterlikör
-
-Herstellung auf der Insel Frauen-Chiemsee nach Maßgabe der dortigen Praxis.
-
-10\.
-
-Ettaler Klosterlikör
-
-Herstellung in Ettal nach Maßgabe der dortigen Praxis.
-
-11\.
-
-Münsterländer Korn, Münsterländer Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser im Regierungsbezirk Münster
-
-12\.
-
-Sendenhorster Korn, Sendenhorster Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser in Sendenhorst
-
-13\.
-
-Bergischer Korn, Bergischer Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser im Bergischen Land. Zum Gebiet „Bergisches Land“ zählen vom Landkreis Oberbergischer Kreis die Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Marienheide, Morsbach, Nümbrecht, Radevormwald, Reichshof, Waldbröl, Wiehl, Wipperfürth; vom Rheinisch-Bergischen Kreis die Gemeinden Bergisch-Gladbach, Burscheid, Kürten, Leichlingen, Odenthal, Overath, Rösrath, Wermelskirchen; vom Rhein-Sieg-Kreis die Gemeinden Eitorf, Hennef, Lohmar, Much, Neunkirchen-Seelscheid, Ruppichteroth, Windeck; vom Kreis Mettmann die Gemeinden Erkrath, Haan, Heiligenhaus, Hilden, Langenfeld, Mettmann, Monheim, Ratingen, Velbert, Wülfrath; die kreisfreien Städte Wuppertal, Remscheid, Solingen und Leverkusen sowie von der kreisfreien Stadt Köln die Stadtbezirke Mülheim, Kalk, Porz
-
-14\.
-
-Emsländer Korn, Emsländer Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser im Landkreis Emsland
-
-15\.
-
-Haselünner Korn, Haselünner Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser in Haselünne
-
-16\.
-
-Hasetaler Korn, Hasetaler Kornbrand
-
-Herstellung, einschließlich die des Destillates, und die Herabsetzung auf Trinkstärke mit Wasser im Gebiet des Zweckverbandes Hasetal
+# Anlage 4 – (weggefallen)

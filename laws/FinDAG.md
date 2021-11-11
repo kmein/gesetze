@@ -585,7 +585,7 @@ oder die sich auf Finanzinstrumente nach den Nummern 1 bis 3 beziehen. Satz 1 gi
 
 1c. durch vor Ort im Auftrag der Europäischen Zentralbank nach Artikel 12 der Verordnung (EU) Nr. 1024/13 vorgenommene Prüfungshandlungen, soweit diese Kosten nicht durch die Europäische Zentralbank abgerechnet werden,
 
-2. durch eine auf Grund des § 88 Absatz 1 oder § 89 Absatz 5 des Wertpapierhandelsgesetzes vorgenommene Prüfung,
+2. durch eine auf Grund des § 88 Absatz 1 oder § 89 Absatz 5 oder § 32f Absatz 1 des Wertpapierhandelsgesetzes vorgenommene Prüfung,
 
 3. auf Grund einer nach § 44 Abs. 3 des Kreditwesengesetzes vorgenommenen Prüfung der Richtigkeit der für die Zusammenfassung nach § 10a Absatz 4 und 5 und § 25 Abs. 2 des Kreditwesengesetzes sowie nach Artikel 11 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) übermittelten Daten,
 
@@ -715,7 +715,9 @@ im Sinne der nachfolgenden Vorschriften gelten,
 
 4. Gruppe Kapitalverwaltungsgesellschaften und extern verwaltete OGAW-Investmentaktiengesellschaften: Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 1 des Kapitalanlagegesetzbuchs und extern verwaltete OGAW-Investmentaktiengesellschaften im Sinne des § 113 des Kapitalanlagegesetzbuchs,
 
-5. Gruppe Datenbereitstellungsdienstleister: Betreiber von Datenbereitstellungsdiensten mit einer Erlaubnis zum Erbringen von Datenbereitstellungsdiensten nach § 32 Absatz 1f des Kreditwesengesetzes, soweit ihnen keine Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen erteilt ist und sie nach dem Kreditwesengesetz beaufsichtigt werden.
+5. Gruppe Datenbereitstellungsdienstleister: Betreiber von Datenbereitstellungsdiensten mit einer Erlaubnis zum Erbringen von Datenbereitstellungsdiensten nach § 32 Absatz 1f des Kreditwesengesetzes, soweit ihnen keine Erlaubnis zum Betreiben von Bankgeschäften oder zur Erbringung von Finanzdienstleistungen erteilt ist und sie nach dem Kreditwesengesetz beaufsichtigt werden,
+
+6. Gruppe Schwarmfinanzierungs-Dienstleister: Unternehmen mit einer von der Bundesanstalt erteilten Erlaubnis zur Erbringung von Schwarmfinanzierungs-Dienstleistungen nach Artikel 2 Absatz 1 Buchstabe a Ziffer i oder ii der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), soweit diese Unternehmen nicht unter die Nummern 1 bis 5 fallen.
 
 Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die keiner Gruppe nach Satz 1 unmittelbar zugeordnet werden können, sind gesondert zu erfassen. Sie sind auf die Gruppen entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Gruppen unmittelbar zuzurechnen sind. Im Übrigen sind § 16b Absatz 4 Satz 1 und 3 sowie § 16c entsprechend anzuwenden.
 
@@ -745,7 +747,7 @@ Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die 
 
 2. in der Gruppe Kapitalverwaltungsgesellschaften und extern verwaltete OGAW-Investmentaktiengesellschaften nach dem Wert der von den Kapitalverwaltungsgesellschaften verwalteten Investmentvermögen und den von extern verwalteten OGAW-Investmentaktiengesellschaften zur gemeinschaftlichen Kapitalanlage verwalteten und angelegten Mitteln. Dabei ist die Summe der Werte aller von einem Umlagepflichtigen verwalteten Investmentvermögen oder zur gemeinschaftlichen Kapitalanlage verwalteten oder angelegten Mittel in das Verhältnis zu dem Gesamtbetrag des Wertes zu setzen, den die Investmentvermögen und zur gemeinschaftlichen Kapitalanlage verwalteten oder angelegten Mittel aller Umlagepflichtigen haben. Maßgebend ist jeweils der Wert, der nach § 101 Absatz 1 Satz 3 Nummer 1 Satz 6 oder nach § 120 Absatz 2 und 5, § 135 Absatz 3 und 5, § 148 oder § 158 jeweils in Verbindung mit § 101 Absatz 1 Satz 3 Nummer 1 Satz 6 des Kapitalanlagegesetzbuchs in dem Jahresbericht für das Geschäftsjahr angegeben wird, das dem Umlagejahr vorausgeht. Investmentvermögen, die keine Spezial-AIF im Sinne des § 1 Absatz 6 Satz 1 des Kapitalanlagegesetzbuchs sind, oder Mittel von OGAW-Investmentaktiengesellschaften werden bei der Berechnung nach Satz 2 doppelt gewichtet;
 
-3. in der Gruppe Datenbereitstellungsdienstleister nach dem Verhältnis zwischen der Anzahl der angefangenen Monate, in denen der einzelne Umlagepflichtige umlagepflichtig war, zur Gesamtzahl der angefangenen Monate eines jeden Umlagepflichtigen der Gruppe, in denen dieser jeweils im Umlagejahr umlagepflichtig war.
+3. in der Gruppe Datenbereitstellungsdienstleister und in der Gruppe Schwarmfinanzierungs-Dienstleister jeweils nach dem Verhältnis zwischen der Anzahl der angefangenen Monate, in denen der einzelne Umlagepflichtige umlagepflichtig war, zur Gesamtzahl der angefangenen Monate eines jeden Umlagepflichtigen der Gruppe, in denen dieser jeweils im Umlagejahr umlagepflichtig war.
 
 (2) Abweichend von Absatz 1 Nummer 1 gilt als Bilanzsumme:
 
@@ -1325,6 +1327,8 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 (12) § 16e Absatz 1 Satz 1 Nummer 1 und § 16g Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe aa und Buchstabe c Doppelbuchstabe aa in der ab dem 10. Juni 2021 geltenden Fassung sind erstmals auf die Umlageerhebung für das Umlagejahr 2021 anzuwenden.
 
 (12) Die §§ 16, 16b, 16e, 16f, 16g und 16j in der ab dem 26. Juni 2021 geltenden Fassung sind erstmals auf das Umlagejahr 2021 anzuwenden.
+
+(13) § 16e Absatz 1 und § 16f Absatz 1 sind erstmals auf die Umlageabrechnung 2021 und die Umlagevorauszahlung 2022 anzuwenden.
 
 # § 24 – Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
 
