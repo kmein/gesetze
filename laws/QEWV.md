@@ -372,15 +372,15 @@ c) Abmahnungen und gerichtliche Verfahren zur Durchsetzung von Ansprüchen nach 
 
 (1) Die qualifizierten Einrichtungen haben zur Erfüllung der Berichtspflichten nach § 4b Absatz 1 Satz 1 Nummer 1 bis 3 des Unterlassungsklagengesetzes und die qualifizierten Wirtschaftsverbände haben zur Erfüllung der Berichtspflichten nach § 8b Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb in Verbindung mit § 4b Absatz 1 Satz 1 Nummer 1 bis 3 des Unterlassungsklagengesetzes das vom Bundesamt für Justiz im Internet bereitgestellte Formular zu verwenden.
 
-(2) Bei der Angabe der Zuwiderhandlung nach § 4b Absatz 1 Nummer 1 des Unterlassungsklagengesetzes sind die Vorschriften anzugeben, denen zuwidergehandelt wurde.
+(2) Bei der Angabe der Zuwiderhandlung nach § 4b Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes sind die Vorschriften anzugeben, denen zuwidergehandelt wurde.
 
-(3) Zu den vereinbarten Vertragsstrafen nach § 4b Absatz 1 Nummer 2 des Unterlassungsklagengesetzes ist Folgendes anzugeben:
+(3) Zu den vereinbarten Vertragsstrafen nach § 4b Absatz 1 Satz 1 Nummer 2 des Unterlassungsklagengesetzes ist Folgendes anzugeben:
 
 1. die Gesamthöhe aller vereinbarten bestimmten Vertragsstrafen und
 
 2. die durchschnittliche Höhe aller vereinbarten bestimmbaren Vertragsstrafen.
 
-(4) Hinsichtlich der entstandenen Ansprüche nach § 4b Absatz 1 Nummer 3 des Unterlassungsklagengesetzes ist jeweils die Gesamthöhe der Ansprüche auf Aufwendungsersatz, auf Erstattung der Rechtsverfolgungskosten oder auf Zahlung der verwirkten Vertragsstrafen anzugeben.
+(4) Hinsichtlich der entstandenen Ansprüche nach § 4b Absatz 1 Satz 1 Nummer 3 des Unterlassungsklagengesetzes ist jeweils die Gesamthöhe der Ansprüche auf Aufwendungsersatz, auf Erstattung der Rechtsverfolgungskosten oder auf Zahlung der verwirkten Vertragsstrafen anzugeben.
 
 (5) Die Absätze 2 bis 4 gelten auch für Berichtspflichten nach § 8b Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb in Verbindung mit § 4b Absatz 1 Satz 1 Nummer 1 bis 3 des Unterlassungsklagengesetzes.
 

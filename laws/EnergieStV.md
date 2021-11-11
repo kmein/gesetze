@@ -2099,7 +2099,19 @@ Energieerzeugnisse aus Drittländern und Drittgebieten sind in den Fällen des �
 
 Wer in § 4 des Gesetzes genannte Energieerzeugnisse des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken in andere Mitgliedstaaten verbringen will, hat das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware verbracht werden. Der Lieferer hat die erste Ausfertigung des Begleitdokuments zu seinen Aufzeichnungen zu nehmen. Der Beförderer hat die zweite und dritte Ausfertigung des Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
 
-# § 45 – (weggefallen)
+# § 45 – Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
+
+(1) Werden die in § 4 des Gesetzes genannten Energieerzeugnisse des steuerrechtlich freien Verkehrs durch das Gebiet eines anderen Mitgliedstaats an einen Empfänger im Steuergebiet befördert, hat der Versender das vereinfachte Begleitdokument auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware befördert werden. Der Versender hat in Feld 3 des vereinfachten Begleitdokuments den Hinweis  
+  
+
+<table width="100%" style="border: none;"><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">„Transit/Energieerzeugnisse<br />
+des steuerrechtlich freien Verkehrs“</td></tr></tbody></table>
+
+anzubringen sowie die Anschrift des für ihn zuständigen Hauptzollamts zu vermerken.
+
+(2) Der Versender hat das vereinfachte Begleitdokument in drei Exemplaren auszufertigen. Er hat die erste Ausfertigung des vereinfachten Begleitdokuments spätestens am Versandtag dem für ihn zuständigen Hauptzollamt zu übermitteln. Der Beförderer hat während der Beförderung der Energieerzeugnisse die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments mitzuführen. Er hat die Energieerzeugnisse auf dem kürzesten zumutbaren Weg durch das Gebiet des anderen Mitgliedstaats (Transitmitgliedstaat) zu befördern. Nach Beendigung der Beförderung hat der Empfänger die Übernahme der Energieerzeugnisse auf der dritten Ausfertigung des vereinfachten Begleitdokuments zu bestätigen und sie dem für den Versender zuständigen Hauptzollamt zu übermitteln.
+
+(3) Tritt während der Beförderung auf dem Gebiet des Transitmitgliedstaats eine Unregelmäßigkeit ein, hat der Beförderer die zuständige Steuerbehörde des Mitgliedstaats und das für den Versender zuständige Hauptzollamt unverzüglich zu unterrichten. § 18a Absatz 2 des Gesetzes gilt entsprechend.
 
 # § 46 – Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
 

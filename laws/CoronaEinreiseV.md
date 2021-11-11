@@ -171,7 +171,7 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 
 Die Absonderung endet abweichend von den Sätzen 1 und 5 außerdem, wenn das betroffene Hochrisikogebiet oder Virusvariantengebiet nach der Einreise in die Bundesrepublik Deutschland und vor Ablauf des Absonderungszeitraums nicht mehr als Hochrisikogebiet oder Virusvariantengebiet eingestuft wird.
 
-(3) Diese Vorschrift ist längstens bis einschließlich zum 10. November 2021 anzuwenden.
+(3) (weggefallen)
 
 # § 5 – Nachweispflicht
 
@@ -400,9 +400,9 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des Jahres 2021 außer Kraft.
+(1) Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 15. Januar 2022 außer Kraft.
 
-(2) Die Coronavirus-Einreiseverordnung vom 30. Juli 2021 (BAnz AT 30.07.2021 V1) tritt mit Ablauf des 29. September 2021 außer Kraft.
+(2) (weggefallen)
 
 # Anlage
 

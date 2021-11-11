@@ -540,5 +540,4 @@ Anordnung nach § 40 Absatz 3 WpIG</td><td style="text-align: center;">nach Zeit
 (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="even"><td style="text-align: left;">29.6.7</td><td>Untersagung oder Beschränkungen von Zahlungen an konzernangehörige Unternehmen<br />
 (§ 79 Absatz 2 WpIG)</td><td style="text-align: center;">nach Zeitaufwand</td></tr><tr class="odd"><td style="text-align: left;">29.7</td><td>Anordnung der Erstattung von Zahlungen nach § 81 Absatz 2 Satz 2 WpIG</td><td style="text-align: center;">nach Zeitaufwand</td></tr></tbody></table>
 
-Anlage Nr. 1.2.3, 27.1, 27.2 und 28.1 bis 28.5 Kursivdruck: Treten gem. § 5 Abs. 2 Satz 1 am 10.11.2021 in Kraft  
 Anlage Nr. 1.5 Kursivdruck: Tritt gem. § 5 Abs. 2 Satz 2 am 1.1.2022 in Kraft
