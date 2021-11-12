@@ -27,6 +27,8 @@ Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 d
 
 Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den fachgerechten Einbau beziehungsweise die fachgerechte Installation, für die Inbetriebnahme von Anlagen, für notwendige Umfeldmaßnahmen sowie die direkt mit der Maßnahme verbundenen Materialkosten zu berücksichtigen sind. Die Einhaltung der in den Anlagen zu dieser Verordnung jeweils aufgeführten Mindestanforderungen ist durch ein Fachunternehmen nach § 2 zu bestätigen.
 
+(+++ § 1: Zur Anwendung vgl. § 3 +++)
+
 # § 2 – Anforderung an ein Fachunternehmen
 
 (1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist:
@@ -78,6 +80,8 @@ Als Fachunternehmen im Sinne von § 35c Absatz 1 Satz 6 des Einkommensteuergese
 2. die Maßnahme dem Gewerk dieses Unternehmens zugehörig ist und
 
 3. die Person mit Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes durch das Unternehmen oder den Steuerpflichtigen mit der planerischen Begleitung oder Beaufsichtigung der energetischen Maßnahme betraut worden ist.
+
+(+++ § 2: Zur Anwendung vgl. § 3 +++)
 
 # § 3 – Anwendungsregelungen
 

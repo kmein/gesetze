@@ -569,7 +569,7 @@ Die Aufzeichnungen sind vom Zuchtverband, der den Prüfeinsatz durchführt, inne
 
 Eine nationale Embryo-Entnahmeeinheit verfügt über die nach § 18 Absatz 2 Nummer 3 des Tierzuchtgesetzes erforderlichen Einrichtungen, wenn in dieser mindestens die in Anlage 3 genannten Einrichtungen vorhanden sind.
 
-# § 18 – Anforderungen an den Betrieb einer Embryo-Entnahme- oder ‑Erzeugungseinheit
+# § 18 – Anforderungen an den Betrieb einer Embryo-Entnahme- oder Erzeugungseinheit
 
 (1) Der Betreiber einer nationalen Embryo-Entnahmeeinheit hat sicherzustellen, dass
 

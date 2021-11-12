@@ -1068,6 +1068,8 @@ Die Artikel 25 bis 27 der Verordnung (EU) Nr. 1223/2009 des Europäischen Parlam
 
 (4) Soweit im Einzelfall eine notwendige Anordnung oder eine sonstige notwendige Maßnahme nicht aufgrund der Absätze 1 oder 2 getroffen werden kann, bleiben weitergehende Regelungen der Länder, einschließlich der Regelungen auf dem Gebiet des Polizeirechts, aufgrund derer eine solche Anordnung getroffen werden kann, anwendbar.
 
+§ 39a Abs. 4 Satz 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
+
 # § 40 – Information der Öffentlichkeit
 
 (1) Die zuständige Behörde soll die Öffentlichkeit unter Nennung der Bezeichnung des Lebensmittels oder Futtermittels und des Lebensmittel- oder Futtermittelunternehmens, unter dessen Namen oder Firma das Lebensmittel oder Futtermittel hergestellt oder behandelt wurde oder in den Verkehr gelangt ist, und, wenn dies zur Gefahrenabwehr geeigneter ist, auch unter Nennung des Inverkehrbringers, nach Maßgabe des Artikels 10 der Verordnung (EG) Nr. 178/2002 informieren. Eine Information der Öffentlichkeit in der in Satz 1 genannten Art und Weise soll vorbehaltlich des Absatzes 1a auch erfolgen, wenn
@@ -1401,6 +1403,8 @@ In Rechtsverordnungen nach Satz 1 Nummer 6 kann bestimmt werden, dass
 2. die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
 
 In Rechtsverordnungen nach Satz 1 Nummer 4 kann bestimmt werden, dass die zuständige Behörde für die Durchführung des Anzeigeverfahrens, einschließlich einer Weiterleitung von Anzeigen an die zuständigen Behörden der Länder und das Bundesministerium, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
+
+§ 46 Abs. 2 Satz 2 u. 3 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
 # § 47 – Weitere Ermächtigungen
 

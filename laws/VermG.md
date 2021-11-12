@@ -593,7 +593,7 @@ geschieht dies im Auftrag des Bundes. Für das Verfahren der Abführung von Verk
 
 Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Regelung offener Vermögensfragen als untere Landesbehörde eingerichtet. Ein solches Amt kann auch für mehrere Kreise, kreisfreie Städte oder mit landesweiter Zuständigkeit gebildet werden. Die gilt auch dann, wenn die Aufgaben der unteren Landesbehörden nach § 28 Abs. 2 auf die Landkreise oder kreisfreien Städte übertragen wurden.
 
-§ 24 Satz 1 idF d. Bek. v. 9.2.2005 I 205: Sachsen - Abweichung durch [§ 1 Abs. 2 des Sächsischen Gesetzes zur Ausführung des Vermögensgesetzes (SächsAGVermG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/vermgag_sn__1.html "Anzeige in neuem Fenster") v. 24.8.2000 SächsGVBl. S. 360, zuletzt geändert durch Art. 6 G v. 29.1.2008, mWv 1.8.2008 (vgl. BGBl. I 2011, 842)
+§ 24 Satz 1 idF d. Bek. v. 9.2.2005 I 205: Sachsen - Abweichung durch § 1 Abs. 2 des Sächsischen Gesetzes zur Ausführung des Vermögensgesetzes (SächsAGVermG) v. 24.8.2000 SächsGVBl. S. 360, zuletzt geändert durch Art. 6 G v. 29.1.2008, mWv 1.8.2008 (vgl. BGBl. I 2011, 842)
 
 # § 25 – Landesamt zur Regelung offener Vermögensfragen
 
