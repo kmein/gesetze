@@ -509,7 +509,7 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine öffen
 
 (1) Vereinbarungen, durch die eine Vergütung oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der anwaltlichen Tätigkeit abhängig gemacht wird oder nach denen der Patentanwalt einen Teil des erstrittenen Betrages als Honorar erhält (Erfolgshonorar), sind unzulässig, soweit nachfolgend nichts anderes bestimmt ist. Vereinbarungen, durch die der Patentanwalt sich verpflichtet, Gerichtskosten, Verwaltungskosten oder Kosten anderer Beteiligter zu tragen, sind unzulässig.
 
-(2) Ein Erfolgshonorar darf nur für den Einzelfall und nur dann vereinbart werden, wenn der Auftraggeber aufgrund seiner wirtschaftlichen Verhältnisse bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde.
+(2) Ein Erfolgshonorar darf nur vereinbart werden, wenn der Auftraggeber im Einzelfall bei verständiger Betrachtung ohne die Vereinbarung eines Erfolgshonorars von der Rechtsverfolgung abgehalten würde.
 
 (3) Die Vereinbarung bedarf der Textform. Sie muss als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet werden, von anderen Vereinbarungen mit Ausnahme der Auftragserteilung deutlich abgesetzt sein und darf nicht in der Vollmacht enthalten sein. Die Vereinbarung muss enthalten:
 

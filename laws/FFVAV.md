@@ -49,7 +49,9 @@
 
 2. ansonsten mindestens zweimal im Jahr.
 
-(5) Ab dem 1. Januar 2022 sind die Abrechnungsinformationen einschließlich Verbrauchsinformationen nach Satz 1 monatlich zur Verfügung zu stellen. Das Versorgungsunternehmen hat bei der Verarbeitung der Abrechnungsinformationen einschließlich Verbrauchsinformationen die Einhaltung datenschutz- und datensicherheitsrechtlicher Anforderungen zu gewährleisten.
+Ab dem 1. Januar 2022 sind die Abrechnungsinformationen einschließlich Verbrauchsinformationen nach Satz 1 monatlich zur Verfügung zu stellen.
+
+(5) Das Versorgungsunternehmen hat bei der Verarbeitung der Abrechnungsinformationen einschließlich Verbrauchsinformationen die Einhaltung datenschutz- und datensicherheitsrechtlicher Anforderungen zu gewährleisten.
 
 # § 5 – Inhalt und Transparenz der Abrechnungen
 
