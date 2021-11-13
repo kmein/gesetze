@@ -91,6 +91,8 @@ Diese Fassung der Verordnung ist, soweit nachfolgend nichts anderes bestimmt ist
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft. Diese Verordnung tritt mit Ablauf des 31. Dezember 2029 außer Kraft.
 
+(+++ § 4: Zur Anwendung vgl. § 3 +++)
+
 # Anlage 1 – Wärmedämmung von Wänden
 
 (Fundstelle: BGBl. I 2021, 1782)
@@ -106,6 +108,8 @@ max. Wärmeleitfähigkeit<br />
 0,65</td></tr><tr class="odd"><td style="text-align: left;">1.5</td><td>Wände gegen Erdreich oder unbeheizte Räume sowie Kellerräume</td><td style="text-align: center;">0,25</td></tr></tbody></table>
 
 Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
+
+(+++ Anlage 1: Zur Anwendung vgl. § 3 +++)
 
 # Anlage 2 – Wärmedämmung von Dachflächen
 
@@ -123,6 +127,8 @@ max. Wärmeleitfähigkeit<br />
 
 Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
 
+(+++ Anlage 2: Zur Anwendung vgl. § 3 +++)
+
 # Anlage 3 – Wärmedämmung von Geschossdecken
 
 (Fundstelle: BGBl. I 2021, 1784)
@@ -136,6 +142,8 @@ max. Wärmeleitfähigkeit<br />
 0,14</td></tr><tr class="even"><td style="text-align: left;">3.2</td><td>Decken gegen unbeheizte Räume sowie Kellerdecken</td><td style="text-align: center;">0,25</td></tr><tr class="odd"><td style="text-align: left;">3.3</td><td>Geschossdecken gegen Außenluft von unten</td><td style="text-align: center;">0,20</td></tr><tr class="even"><td style="text-align: left;">3.4</td><td>Bodenflächen gegen Erdreich</td><td style="text-align: center;">0,25</td></tr></tbody></table>
 
 Bei Sanierungsmaßnahmen, insbesondere an der wärmeübertragenden Gebäudehülle, ist stets zu prüfen, ob Maßnahmen zur Einhaltung des Mindestfeuchteschutzes, insbesondere zur Vermeidung von Tauwasserausfall und Schimmelpilzbildung durch Einhaltung des Mindestluftwechsels und des Mindestwärmeschutzes, erforderlich sind. Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausführung zu achten. Entsprechende Nachweise sind zu führen. Notwendige Maßnahmen sind umzusetzen.
+
+(+++ Anlage 3: Zur Anwendung vgl. § 3 +++)
 
 # Anlage 4 – Erneuerung der Fenster oder Außentüren
 
@@ -168,11 +176,15 @@ Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen di
 
 Beim Einbau einbruchhemmender Fenster, Balkon- und Terrassentüren müssen diese die Widerstandsklasse RC 2 nach DIN EN 1627 oder besser aufweisen (auch ohne Nachweis über die Berücksichtigung der Festigkeit und Ausführung der umgebenden Wände).
 
+(+++ Anlage 4: Zur Anwendung vgl. § 3 +++)
+
 # Anlage 4a – Sommerlicher Wärmeschutz
 
 (Fundstelle: BGBl. I 2021, 1786)
 
 Gefördert wird der Ersatz oder erstmalige Einbau von außenliegenden Sonnenschutzeinrichtungen mit optimierter Tageslichtversorgung zum Beispiel über Lichtlenksysteme oder strahlungsabhängige Steuerung. Dabei sind die Vorgaben der DIN 4108-2:2013-02 zum sommerlichen Mindestwärmeschutz einzuhalten.
+
+(+++ Anlage 4a: Zur Anwendung vgl. § 3 +++)
 
 # Anlage 5 – Erneuerung oder Einbau einer Lüftungsanlage
 
@@ -214,6 +226,8 @@ Kompaktgeräte ohne Luft-Luft-Wärmeübertrager und mit Abluftwärmepumpe, mit d
 Die jeweiligen Anforderungen an die spezifische elektrische Leistungsaufnahme von Ventilatoren und an den Wärmebereitstellungsgrad von Lüftungsanlagen werden gleichwertig erfüllt, wenn die Lüftungsanlage einen spezifischen Energieverbrauch von SEV &lt; 26 kWh / (m² a) gemäß Ökodesign-Richtlinie aufweist.
 
 Lüftungsanlagen müssen die zum Zeitpunkt des Einbaus geltenden Anforderungen der Ökodesign-Richtlinie an die umweltgerechte Gestaltung von Wohnungslüftungsanlagen einhalten.
+
+(+++ Anlage 5: Zur Anwendung vgl. § 3 +++)
 
 # Anlage 6 – Erneuerung der Heizungsanlage
 
@@ -555,6 +569,8 @@ sofern die Wärmeerzeugung, mit der das Gebäudenetz gespeist wird, zu mindesten
 
 Gefördert wird als Alternative zur Nutzung einer gebäudeindividuellen Heizung ferner der Anschluss bzw. die Erneuerung eines Anschlusses an ein Gebäudenetz, wenn dieses die festgelegten technischen Mindestanforderungen für Gebäudenetze erfüllt, und an ein öffentliches Wärmenetz, wenn dessen Wärmeerzeugung zu mindestens 25 Prozent durch erneuerbare Energien gespeist wird.
 
+(+++ Anlage 6: Zur Anwendung vgl. § 3 +++)
+
 # Anlage 7 – Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
 
 (Fundstelle: BGBl. I 2021, 1793)
@@ -615,6 +631,8 @@ Inbetriebnahme, Einregulierung und Einweisung sowie
 Einstellarbeiten an der Regelung der Heizungs-, Beleuchtungs-, Lüftungs- bzw. Klimatechnik mit dem Ziel der Senkung des Energieverbrauchs (zum Beispiel Optimierung der Heizkurve, Anpassung der Vorlauftemperatur und der Pumpenleistung).
 
 Nicht förderfähig sind Endgeräte und Unterhaltungstechnik, wie zum Beispiel Handy, Tablet, Computer, Fernseher, Lautsprecher.
+
+(+++ Anlage 7: Zur Anwendung vgl. § 3 +++)
 
 # Anlage 8 – Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
 
@@ -719,3 +737,5 @@ Rohrinnensanierungen;
 Filter, Schmutzfänger, Abscheider zur Erhaltung der Funktionalität, Effizienz und Lebensdauer von Heizungsanlagen (zum Beispiel Schwerkraftfilter, Schlammabscheider, Magnetitabscheider, Entgasungsgeräte).
 
 Fördervoraussetzung ist der Nachweis des hydraulischen Abgleichs unter Verwendung des Bestätigungsformulars für Einzelmaßnahmen des Spitzenverbands der Gebäudetechnik e. V. VdZ – Forum für Energieeffizienz in der Gebäudetechnik e. V. (www.vdzev.de/broschueren/formulare-hydraulischer-abgleich).
+
+(+++ Anlage 8: Zur Anwendung vgl. § 3 +++)

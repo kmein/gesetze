@@ -2277,7 +2277,7 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (6) Das Nähere regelt das Landesrecht. Es regelt die Zugehörigkeit weiterer beratender Mitglieder zum Jugendhilfeausschuss. Es kann bestimmen, dass der Leiter der Verwaltung der Gebietskörperschaft oder der Leiter der Verwaltung des Jugendamts nach Absatz 1 Nummer 1 stimmberechtigt ist.
 
-§ 71 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Baden-Württemberg - Abweichung durch [§ 2 Abs. 1 Kinder- und Jugendhilfegesetz (KJHG BW)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kjhg_bw__2.html "Anzeige in neuem Fenster") v. 19.4.1996 GBl BW 1996, 457 mWv 1.1.2009 (vgl. BGBl I 2009, 744)
+§ 71 Abs. 4 (früher Abs. 3): § 71 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Baden-Württemberg - Abweichung durch [§ 2 Abs. 1 Kinder- und Jugendhilfegesetz (KJHG BW)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kjhg_bw__2.html "Anzeige in neuem Fenster") v. 19.4.1996 GBl BW 1996, 457 mWv 1.1.2009 (vgl. BGBl I 2009, 744); früher Abs. 3 jetzt Abs. 4 gem. Art. 1 Nr. 45 Buchst. b G v. 3.6.2021 I 1444 mWv 10.6.2021
 
 # § 72 – Mitarbeiter, Fortbildung
 
