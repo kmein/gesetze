@@ -1197,7 +1197,6 @@
 - [BTEpiFortbestBek 2021-06](laws/BTEpiFortbestBek_2021-06.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTEpiFortbestBek 2021-08](laws/BTEpiFortbestBek_2021-08.md) Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 - [BTGO 1980](laws/BTGO_1980.md) Geschäftsordnung des Deutschen Bundestages
-- [BTGO1980Anl 1](laws/BTGO1980Anl_1.md) Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980Anl 2](laws/BTGO1980Anl_2.md) Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 - [BTGO1980Anl 3](laws/BTGO1980Anl_3.md) Geheimschutzordnung des Deutschen Bundestages (Anlage 3 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
 - [BTGO1980Anl 4](laws/BTGO1980Anl_4.md) Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
@@ -3370,7 +3369,7 @@
 - [LSpV](laws/LSpV.md) Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes
 - [LStDV](laws/LStDV.md) Lohnsteuer-Durchführungsverordnung
 - [LStrkrAbk Genf](laws/LStrkrAbk_Genf.md) I. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkräfte im Felde
-- [LSV](laws/LSV.md) Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile 1
+- [LSV](laws/LSV.md) Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile* 1
 - [LSVAAbk Büs](laws/LSVAAbk_Büs.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
 - [LSVAAbkBüsG](laws/LSVAAbkBüsG.md) Gesetz zu dem Abkommen vom 7. Dezember 2004 zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe (LSVA-Abkommen Büsingen)
 - [LTV](laws/LTV.md) Verordnung über die Tarifordnung für die Seelotsreviere
