@@ -83,46 +83,6 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
 (6) Der wissenschaftliche Ausschuss gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung durch das Bundesministerium für Gesundheit.
 
-# § 5 – Datenübermittlung
-
-(1) Die Krebsregister übermitteln an das Zentrum für Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 spätestens bis 31. Dezember des übernächsten Jahres zu allen bis zum Ende eines Jahres erfassten Krebsneuerkrankungen folgende Daten:
-
-1. Angaben zur Person:
-
-a) Geschlecht,
-
-b) Monat und Jahr der Geburt,
-
-c) die ersten fünf Ziffern der Gemeindekennziffer des Wohnortes,
-
-2. Angaben mit Bezug zur Tumordiagnose:
-
-a) Tumordiagnose nach dem Schlüssel der Internationalen Klassifikation der Krankheiten (ICD) in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung,
-
-b) Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten (ICD-O),
-
-c) Lokalisation des Tumors, einschließlich der Angabe der Seite bei paarigen Organen (ICD-O),
-
-d) Monat und Jahr der ersten Tumordiagnose,
-
-e) frühere Tumorerkrankungen,
-
-f) Art der Diagnosesicherung: ausschließlich über die Todesursache (DCO), klinisch, zytologisch, histologisch, durch Obduktion, sonstige,
-
-g) Stadium der Erkrankung, insbesondere nach dem aktuellen TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades der Tumoren,
-
-h) Art der Primärtherapie,
-
-3. Angaben im Sterbefall:
-
-a) Sterbemonat und Sterbejahr,
-
-b) Todesursache (Grundleiden),
-
-c) Durchführung einer Obduktion.
-
-(2) Die zuständigen Landesbehörden stellen sicher, dass die Daten nach Absatz 1 flächendeckend und vollzählig erhoben, nach Prüfung auf Mehrfachmeldungen bereinigt und vollständig in einem einheitlichen Format übermittelt werden. Die Daten klinischer Krebsregistrierung sind zu nutzen.
-
 # § 6 – Datenverarbeitung und Datenübermittlung, Mitarbeit in Organisationen
 
 (1) Das Zentrum für Krebsregisterdaten ist befugt, die von den Krebsregistern nach § 5 Absatz 1 übermittelten personenbezogenen Daten zur Erfüllung seiner Aufgaben nach diesem Gesetz zu verarbeiten.
