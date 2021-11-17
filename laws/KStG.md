@@ -729,6 +729,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 (10) ¹Bei Einkünften aus Kapitalvermögen ist § 2 Absatz 5b des Einkommensteuergesetzes nicht anzuwenden. ²§ 32d Abs. 2 Satz 1 Nr. 1 Satz 1 und Nr. 3 Satz 1 und Satz 3 bis 6 des Einkommensteuergesetzes ist entsprechend anzuwenden; in diesen Fällen ist § 20 Abs. 6 und 9 des Einkommensteuergesetzes nicht anzuwenden.
 
+(+++ § 8 Abs. 1: Zur Anwendung vgl. § 34 Abs. 3c +++)  
 (+++ § 8 Abs. 1 Satz 2: Zur Anwendung vgl. § 34 Abs. 6 +++)  
 (+++ § 8 Abs. 3 Satz 4 bis 6: Zur erstmaligen Anwendung vgl. § 34 Abs. 6 +++)  
 (+++ § 8 Abs. 4 Fassung Geltung am 23.12.2001: Zur letztmaligen Anwendung vgl. § 34 Abs. 6 +++)  
@@ -925,7 +926,7 @@ Nichtabziehbar sind auch:
 
 (4) (weggefallen)
 
-(+++ § 12: Zur Anwendung vgl. § 34 Abs. 8 +++)
+(+++ § 12: Zur Anwendung vgl. § 34 +++)
 
 # § 13 – Beginn und Erlöschen einer Steuerbefreiung
 
