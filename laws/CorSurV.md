@@ -79,4 +79,4 @@ Diese Verordnung wird insbesondere auf der Grundlage der aktuellen epidemiologis
 
 # § 6 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 19. Januar 2021 in Kraft und sie tritt am 31. März 2022 außer Kraft. Eine Datenübermittlung gemäß § 1 Absatz 1 an das Robert Koch-Institut ist letztmalig zum 31. Dezember 2021 zulässig.
+Diese Verordnung tritt am 19. Januar 2021 in Kraft und sie tritt am 30. September 2022 außer Kraft. Eine Datenübermittlung gemäß § 1 Absatz 1 an das Robert Koch-Institut ist letztmalig zum 30. Juni 2022 zulässig.
