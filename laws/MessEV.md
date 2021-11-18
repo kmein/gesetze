@@ -61,15 +61,17 @@ d) Diagnostikdosimeter zwischen 1 Mikrogray und 0,3 Gray zur Bestimmung der Luft
 
 1. zur Verwendung im geschäftlichen oder amtlichen Verkehr,
 
-2. zur Bestimmung der Masse, des Volumens, des Drucks, der Temperatur, der Dichte und des Gehalts bei
+2. zur Bestimmung der Masse bei Analysen in medizinischen Laboratorien,
+
+3. zur Bestimmung der Masse, des Volumens, des Drucks, der Temperatur und der Dichte bei
 
 a) der Herstellung von Arzneimitteln in Apotheken auf Grund ärztlicher Verschreibung oder
 
-b) Analysen in medizinischen und pharmazeutischen Laboratorien,
+b) Analysen in pharmazeutischen Laboratorien,
 
-3. zur Bestimmung der Masse bei der Ausübung der Heilkunde beim Wiegen von Patienten aus Gründen der ärztlichen Überwachung, Untersuchung und Behandlung oder
+4. zur Bestimmung der Masse bei der Ausübung der Heilkunde beim Wiegen von Patienten aus Gründen der ärztlichen Überwachung, Untersuchung und Behandlung oder
 
-4. zur Bestimmung des Reifendrucks von Kraftfahrzeugreifen in Betrieben des Kraftfahrzeuggewerbes oder an Tankstellen und Kraftfahrzeugpflegestellen, soweit diese der Allgemeinheit zugänglich sind.
+5. zur Bestimmung des Reifendrucks von Kraftfahrzeugreifen in Betrieben des Kraftfahrzeuggewerbes oder an Tankstellen und Kraftfahrzeugpflegestellen, soweit diese der Allgemeinheit zugänglich sind.
 
 Messgeräte zur Bestimmung der Temperatur oder des Drucks im geschäftlichen Verkehr unterfallen dem Mess- und Eichgesetz und dieser Verordnung nur, wenn die Bestimmung der Temperatur oder des Drucks der Ermittlung anderer Messgrößen dient.
 
@@ -103,7 +105,7 @@ Die in Absatz 1 Nummer 13 genannten Messgeräte unterfallen dem Mess- und Eichge
 
 3. Wegstreckensignalgeber für Taxameter einschließlich Wegstreckensignalgeber in Kraftfahrzeugen und für Wegstreckenzähler in Miet-Kraftfahrzeugen,
 
-4. Temperaturfühler und Anzeige- und Auswertegeräte von tragbaren Elektrothermometern mit austauschbaren Temperaturfühlern,
+4. Temperaturfühler und Anzeige- und Auswertegeräte für tragbare Elektrothermometer mit austauschbaren Temperaturfühlern,
 
 5. Drucksensoren für Messgeräte zur Bestimmung sonstiger Messgrößen bei der Lieferung von Gasen,
 
@@ -135,7 +137,9 @@ Das Mess- und Eichgesetz und diese Verordnung sind nicht anzuwenden auf folgende
 
 6. Zusatzeinrichtungen, die im Direktverkauf zur zusätzlichen Angabe von Messwerten und Preisen verwendet werden, wenn das zugehörige Messgerät oder eine zum Messgerät gehörende andere dem Mess- und Eichgesetz und dieser Verordnung unterliegende Zusatzeinrichtung die ermittelten Messwerte und zugehörigen Grund- und Verkaufspreise unverändert abdruckt oder abspeichert und dies dem Käufer zugänglich ist,
 
-7. Zusatzeinrichtungen an Messgeräten, die bei der Herstellung und Analyse von Arzneimitteln verwendet werden.
+7. Zusatzeinrichtungen an Messgeräten, die bei der Herstellung und Analyse von Arzneimitteln verwendet werden,
+
+8. Quittungsdrucker für Taxameter und Wegstreckenzähler.
 
 Satz 1 Nummer 7 ist nicht für Zusatzeinrichtungen an nicht selbsttätigen Waagen anzuwenden.
 
@@ -209,9 +213,11 @@ Satz 1 Nummer 1 Buchstabe d ist nicht für Messgeräte anzuwenden, die an ein Br
 
 7. zur Erstattung von Gutachten für staatsanwaltschaftliche oder gerichtliche Verfahren, für Schiedsverfahren oder für andere amtliche Zwecke,
 
-8. zur Durchführung sonstiger öffentlicher Überwachungsaufgaben.
+8. bei der Verwendung von Messgeräten für die Abgasuntersuchung von Kraftfahrzeugen für die amtliche Überwachung des öffentlichen Verkehrs,
 
-Die Ausnahmen gemäß Satz 1 Nummer 6 bis 8 sind nur anwendbar, wenn
+9. zur Durchführung sonstiger öffentlicher Überwachungsaufgaben.
+
+Die Ausnahmen gemäß Satz 1 Nummer 6, 7 und 9 sind nur anwendbar, wenn
 
 1. in anderer Weise als nach dem Mess- und Eichgesetz und dieser Verordnung sichergestellt ist, dass das Verwenden der Messgeräte zu einer genaueren Bestimmung von Messwerten führt als dies mit einem für den Verwendungszweck geeigneten Messgerät, das dem Mess- und Eichgesetz entspricht, erreicht wird und die metrologische Rückführung des auszunehmenden Messgeräts gewährleistet ist; die Regelung ist nicht anzuwenden für Messgeräte zur amtlichen Überwachung des öffentlichen Verkehrs; oder
 
@@ -409,6 +415,8 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 2. alle Angaben enthält, die nach dem jeweiligen Konformitätsbewertungsverfahren vorgesehen sind, das zum Nachweis der Konformität des Messgeräts auf Grund des § 9 Absatz 1 Satz 3 und 4 gewählt wurde.
 
+(3) Die Konformitätserklärung muss in deutscher Sprache verfasst sein.
+
 # § 12 – Haftpflichtversicherung der Konformitätsbewertungsstelle
 
 (1) Die Haftpflichtversicherung, die die Konformitätsbewertungsstelle nach § 15 Absatz 8 des Mess- und Eichgesetzes abzuschließen hat, ist zur Deckung folgender Schäden bestimmt:
@@ -437,7 +445,7 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 (1) Kennzeichnungen und Aufschriften müssen gut sichtbar, lesbar und dauerhaft auf dem Messgerät oder dem sonstigen Messgerät angebracht sein; sie müssen klar, unauslöschlich, eindeutig und nicht übertragbar sein. Für Kennzeichnungen und Aufschriften müssen lateinische Buchstaben und arabische Ziffern verwendet werden. Andere Buchstaben oder Ziffern dürfen zusätzlich verwendet werden.
 
-(2) Ist ein Messgerät zu klein oder zu empfindlich, um die erforderlichen Kennzeichnungen oder Aufschriften zu tragen, müssen die Verpackung und die nach § 17 beizufügenden Informationen entsprechend gekennzeichnet sein. Satz 1 ist anzuwenden auf Gewichtstücke, sofern andernfalls die Messrichtigkeit beeinträchtigt wäre.
+(2) Ist ein Messgerät zu klein oder zu empfindlich, um die erforderlichen Kennzeichnungen oder Aufschriften zu tragen, sind die Kennzeichnung oder Aufschriften auf den nach § 17 beizufügenden Informationen und auf der Verpackung anzubringen. Satz 1 ist anzuwenden auf Gewichtstücke, sofern andernfalls die Messrichtigkeit beeinträchtigt wäre.
 
 # § 14 – Kennzeichnung von Messgeräten beim Inverkehrbringen
 
@@ -735,7 +743,7 @@ Werte für die folgenden Messgrößen dürfen Verwender angeben oder verwenden, 
 
 3. das Gewicht von Milch, die einem Unternehmen der Be- oder Verarbeitung von Milch (Molkerei) angeliefert wird, wenn das Volumen der Milch mit einem Messgerät im Sinne des Mess- und Eichgesetzes oder dieser Verordnung bestimmt und
 
-a) mit dem Faktor aus § 4 Absatz 1 Satz 2 der Milchgüteverordnung multipliziert worden ist oder
+a) mit dem Faktor aus § 30 Absatz 2 Satz 2 der Rohmilchgüteverordnung multipliziert worden ist oder
 
 b) nach einem von der Molkerei errechneten, mindestens durch wöchentliches Nachwägen der Milch überprüften Faktor in Gewicht umgerechnet worden ist,
 
@@ -745,9 +753,11 @@ b) nach einem von der Molkerei errechneten, mindestens durch wöchentliches Nach
 
 6. das Gewicht oder Volumen von losem Sand und Kies bei Abgabe in Mengen bis zu 2 Kubikmetern,
 
-7. Messgrößen, deren Werte als Summe, Differenz, Produkt oder Quotient oder Kombinationen davon aus Messwerten gebildet werden, welche mit einem dem Mess- und Eichgesetz und dieser Verordnung entsprechendem Messgerät ermittelt worden sind, sofern der Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes Regeln hierfür ermittelt hat, die eine Feststellung zu den zulässigen Abweichungen der Werte von den wahren Werten beinhalten und deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde; die für diese Rechenoperationen verwendeten Messwerte müssen mit angegeben werden.
+7. Messgrößen im Bereich der leitungsgebundenen Energieversorgung mit Elektrizität und Gas und anderen Energieträgern, deren Werte als Summe, Differenz, Produkt oder Quotient oder Kombinationen davon aus Messwerten gebildet werden, die mit einem dem Mess- und Eichgesetz und dieser Verordnung entsprechendem Messgerät ermittelt worden sind und sofern die Art der Berechnung und die verwendeten Werte für den vorgesehenen Verwendungszweck geeignet sind,
 
-Wurden Werte nach Satz 1 entsprechend einer vom Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes ermittelten Regel, deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde, ermittelt, so wird widerleglich vermutet, dass sie den anerkannten Regeln der Technik entsprechend ermittelt wurden.
+8. in anderen Fällen als der Nummer 7 Messgrößen, deren Werte als Summe, Differenz, Produkt oder Quotient oder Kombinationen davon aus Messwerten gebildet werden, welche mit einem dem Mess- und Eichgesetz und dieser Verordnung entsprechendem Messgerät ermittelt worden sind, sofern der Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes Regeln hierfür ermittelt hat, die eine Feststellung zu den zulässigen Abweichungen der Werte von den wahren Werten beinhalten und deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde; die für diese Rechenoperationen verwendeten Messwerte müssen mit angegeben werden.
+
+Satz 1 Nummer 7 ist nicht anzuwenden, soweit für eine Messgröße die Voraussetzungen des Satzes 1 Nummer 8 erfüllt sind. Wurden Werte nach Satz 1 entsprechend einer vom Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes ermittelten Regel, deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde, ermittelt, so wird widerleglich vermutet, dass sie den anerkannten Regeln der Technik entsprechend ermittelt wurden.
 
 # § 26 – Angabe von Gewichtswerten
 
@@ -907,7 +917,7 @@ Die nach § 40 Absatz 1 des Mess- und Eichgesetzes zuständige Behörde verläng
 
 7. das Stichprobenverfahren so rechtzeitig begonnen wurde, dass alle Messgeräte des Loses vor Beendigung der Eichfrist ersetzt werden könnten, sofern der Nachweis der Messrichtigkeit im Rahmen des Stichprobenverfahrens nicht gelingt.
 
-Bei der Verlängerung der Eichfrist ist der Einfluss des zu erwartenden Alterungsverhaltens der Messgeräte auf die Messbeständigkeit unter den gegebenen Verwendungsbedingungen angemessen zu berücksichtigen.
+Bei der Verlängerung der Eichfrist ist der Einfluss des zu erwartenden Alterungsverhaltens der Messgeräte auf die Messbeständigkeit unter den gegebenen Verwendungsbedingungen angemessen zu berücksichtigen. Ein Antrag auf Verlängerung kann frühestens zwei Jahre vor Ablauf der Eichfrist gestellt werden.
 
 # § 36 – Durchführung der Eichung
 
@@ -1168,7 +1178,7 @@ Die staatlich anerkannten Prüfstellen haben über die von ihnen durchgeführten
 
 (1) Die zuständige Behörde darf Betrieben (Instandsetzer) auf Antrag die Befugnis erteilen, instand gesetzte Messgeräte durch ein Zeichen kenntlich zu machen (Instandsetzerkennzeichen). Voraussetzung für die Erteilung der Befugnis ist, dass die Betriebe über die zur Instandsetzung erforderlichen Einrichtungen und über sachkundiges Personal verfügen.
 
-(2) Die zuständige Behörde darf Angaben und Unterlagen zum Nachweis der in Absatz 1 Satz 2 genannten Voraussetzungen verlangen.
+(2) Die zuständige Behörde darf Angaben und Unterlagen zum Nachweis der in Absatz 1 Satz 2 genannten Voraussetzungen verlangen und das Vorliegen dieser Voraussetzungen in den Geschäftsräumen der Instandsetzer überprüfen.
 
 (3) Die Befugnis wird schriftlich oder durch elektronische Übersendung einer Bescheidung für bestimmte Messgerätearten erteilt. Dem Instandsetzer wird ein Instandsetzerkennzeichen nach Anlage 8 Nummer 3.1 zugeteilt. Die zuständige Behörde informiert die für die metrologische Überwachung zuständigen Behörden über die Erteilung der Befugnis.
 
@@ -1255,6 +1265,8 @@ Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes 
 (5) Den Anforderungen von Anlage 2 Nummer 10 braucht für Messgeräte, die nicht Messgeräte im Sinne des § 8 Absatz 1 Nummer 1 bis 10 sind, bis zum Ablauf des 31. Dezember 2016 noch nicht entsprochen zu werden.
 
 (6) Bis zum Ablauf des 31. Dezember 2018 darf der Feuchtegehalt von Holz auch mit Geräten bestimmt werden, die nicht dem Mess- und Eichgesetz und dieser Verordnung entsprechen.
+
+(7) § 25 Satz 1 Nummer 7 ist auch auf Werte von Messgrößen anzuwenden, die vor dem 3. November 2021 aufgrund einer entsprechend geübten Praxis ermittelt wurden.
 
 # Anlage 1 – (zu § 2 Satz 2)Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
 
@@ -1587,7 +1599,7 @@ Ein Messgerät muss unter Berücksichtigung der praktischen Einsatzbedingungen f
 Bei Durchflüssen oder Strömen außerhalb des zulässigen Bereichs darf die Messabweichung eines Messgeräts für Versorgungsleistungen keine übermäßige einseitige Abweichung aufweisen.
 
 7.4  
-Ist ein Messgerät für die Messung von Messgrößen ausgelegt, die im Zeitverlauf konstant sind, so muss das Messgerät gegenüber kleinen Schwankungen der Messgröße unempfindlich sein oder angemessen reagieren.
+Ist ein Messgerät für die Messung von Messgrößen ausgelegt, die im Zeitverlauf konstant sind, so muss das Messgerät gegenüber kleinen Schwankungen des Messwertes unempfindlich sein oder angemessen reagieren.
 
 7.5  
 Ein Messgerät muss robust sein. Die Werkstoffe, aus denen es besteht, müssen für den beabsichtigten Einsatz unter den zu erwartenden Einsatzbedingungen geeignet sein.
