@@ -2700,7 +2700,7 @@ Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristisch
 
 (5) Das Aufkommen der Zinsen auf Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des Zollkodex der Union steht dem Bund zu. Das Aufkommen der übrigen Zinsen steht den jeweils steuerberechtigten Körperschaften zu. Das Aufkommen der Kosten im Sinne des § 89 steht jeweils der Körperschaft zu, deren Behörde für die Erteilung der verbindlichen Auskunft zuständig ist. Das Aufkommen der Kosten im Sinne des § 89a Absatz 7 steht dem Bund und dem jeweils betroffenen Land je zur Hälfte zu. Die übrigen steuerlichen Nebenleistungen fließen den verwaltenden Körperschaften zu.
 
-(+++ § 3: Zur Anwendung vgl. Art. 97 § 1 AOEG 1977 +++)
+(+++ § 3: Zur Anwendung vgl. Art. 97 §§ 1 u. 22 AOEG 1977 +++)
 
 # § 4 – Gesetz
 
@@ -4310,7 +4310,7 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 
 (3) Ein Steuerpflichtiger hat über die Art und den Inhalt seiner Geschäftsbeziehungen im Sinne des § 1 Absatz 4 des Außensteuergesetzes Aufzeichnungen zu erstellen. Die Aufzeichnungspflicht umfasst neben der Darstellung der Geschäftsvorfälle (Sachverhaltsdokumentation) auch die wirtschaftlichen und rechtlichen Grundlagen für eine den Fremdvergleichsgrundsatz beachtende Vereinbarung von Bedingungen, insbesondere Preisen (Verrechnungspreisen), sowie insbesondere Informationen zum Zeitpunkt der Verrechnungspreisbestimmung, zur verwendeten Verrechnungspreismethode und zu den verwendeten Fremdvergleichsdaten (Angemessenheitsdokumentation). Hat ein Steuerpflichtiger Aufzeichnungen im Sinne des Satzes 1 für ein Unternehmen zu erstellen, das Teil einer multinationalen Unternehmensgruppe ist, so gehört zu den Aufzeichnungen auch ein Überblick über die Art der weltweiten Geschäftstätigkeit der Unternehmensgruppe und über die von ihr angewandte Systematik der Verrechnungspreisbestimmung, es sei denn, der Umsatz des Unternehmens hat im vorangegangenen Wirtschaftsjahr weniger als 100 Millionen Euro betragen. Eine multinationale Unternehmensgruppe besteht aus mindestens zwei in verschiedenen Staaten ansässigen, im Sinne des § 1 Absatz 2 des Außensteuergesetzes einander nahestehenden Unternehmen oder aus mindestens einem Unternehmen mit mindestens einer Betriebsstätte in einem anderen Staat. Die Finanzbehörde soll die Vorlage von Aufzeichnungen im Regelfall nur für die Durchführung einer Außenprüfung verlangen. Die Vorlage richtet sich nach § 97. Sie hat jeweils auf Anforderung innerhalb einer Frist von 60 Tagen zu erfolgen. Aufzeichnungen über außergewöhnliche Geschäftsvorfälle sind zeitnah zu erstellen und innerhalb einer Frist von 30 Tagen nach Anforderung durch die Finanzbehörde vorzulegen. In begründeten Einzelfällen kann die Vorlagefrist nach den Sätzen 7 und 8 verlängert werden. Die Aufzeichnungen sind auf Anforderung der Finanzbehörde zu ergänzen. Um eine einheitliche Rechtsanwendung sicherzustellen, wird das Bundesministerium der Finanzen ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Art, Inhalt und Umfang der zu erstellenden Aufzeichnungen zu bestimmen.
 
-(+++ § 90 Abs. 3: Zur Anwendung vgl. Art. 97 § 22 Abs. 1 AOEG 1977 +++)
+(+++ § 90: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
 
 # § 91 – Anhörung Beteiligter
 
@@ -6061,7 +6061,7 @@ Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der 
 
 (2) Steuerpflichtige, die allein oder zusammen mit nahestehenden Personen im Sinne des § 1 Absatz 2 des Außensteuergesetzes unmittelbar oder mittelbar einen beherrschenden oder bestimmenden Einfluss auf die gesellschaftsrechtlichen, finanziellen oder geschäftlichen Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138 Absatz 3 ausüben können, haben die Aufzeichnungen und Unterlagen über diese Beziehung und alle damit verbundenen Einnahmen und Ausgaben sechs Jahre aufzubewahren. Diese Aufbewahrungspflicht ist von dem Zeitpunkt an zu erfüllen, in dem der Sachverhalt erstmals verwirklicht worden ist, der den Tatbestand des Satzes 1 erfüllt. Absatz 1 Satz 4 sowie § 147 Absatz 2, 3 Satz 3 und Absatz 5 und 6 gelten entsprechend.
 
-(+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 AOEG 1977 +++)
+(+++ § 147a: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 u. § 22 AOEG 1977 +++)
 
 # § 148 – Bewilligung von Erleichterungen
 
@@ -6338,6 +6338,8 @@ Ergeben sich bei einer vorgeschriebenen oder amtlich durchgeführten Bestandsauf
 (4a) Verletzt der Steuerpflichtige seine Mitwirkungspflichten nach § 12 des Gesetzes zur Umsetzung steuerlicher Abwehrmaßnahmen gegen Steuervermeidung und unfairen Steuerwettbewerb, ist Absatz 4 entsprechend anzuwenden. Von der Festsetzung eines Zuschlags ist abzusehen, wenn die Nichterfüllung der Mitwirkungspflichten entschuldbar erscheint oder das Verschulden nur geringfügig ist. Das Verschulden eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen ist dem Steuerpflichtigen zuzurechnen.
 
 (5) In den Fällen des § 155 Abs. 2 können die in einem Grundlagenbescheid festzustellenden Besteuerungsgrundlagen geschätzt werden.
+
+(+++ § 162: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
 
 # § 163 – Abweichende Festsetzung von Steuern aus Billigkeitsgründen
 
@@ -6844,6 +6846,8 @@ Wer sich auf Grund eines Vertrags verpflichtet hat, für die Steuer eines andere
 2. wenn die für die Besteuerung erheblichen Verhältnisse der Aufklärung bedürfen und eine Prüfung an Amtsstelle nach Art und Umfang des zu prüfenden Sachverhalts nicht zweckmäßig ist oder
 
 3. wenn ein Steuerpflichtiger seinen Mitwirkungspflichten nach § 12 des Gesetzes zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb nicht nachkommt.
+
+(+++ § 193: Zur Anwendung vgl. Art. 97 § 22 AOEG 1977 +++)
 
 # § 194 – Sachlicher Umfang einer Außenprüfung
 
