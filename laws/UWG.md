@@ -199,6 +199,12 @@ c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Auff
 
 4. der Kunde bei Erhebung der Adresse und bei jeder Verwendung klar und deutlich darauf hingewiesen wird, dass er der Verwendung jederzeit widersprechen kann, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
 
+# § 7a – Einwilligung in Telefonwerbung
+
+(1) Wer mit einem Telefonanruf gegenüber einem Verbraucher wirbt, hat dessen vorherige ausdrückliche Einwilligung in die Telefonwerbung zum Zeitpunkt der Erteilung in angemessener Form zu dokumentieren und gemäß Absatz 2 Satz 1 aufzubewahren.
+
+(2) Die werbenden Unternehmen müssen den Nachweis nach Absatz 1 ab Erteilung der Einwilligung sowie nach jeder Verwendung der Einwilligung fünf Jahre aufbewahren. Die werbenden Unternehmen haben der nach § 20 Absatz 3 zuständigen Verwaltungsbehörde den Nachweis nach Absatz 1 auf Verlangen unverzüglich vorzulegen.
+
 # § 8 – Beseitigung und Unterlassung
 
 (1) Wer eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt, kann auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf Unterlassung besteht bereits dann, wenn eine derartige Zuwiderhandlung gegen § 3 oder § 7 droht.
@@ -415,15 +421,17 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 7 Absatz 1 in Verbindung mit § 7 Absatz 2 Nummer 2 oder 3 mit einem Telefonanruf oder unter Verwendung einer automatischen Anrufmaschine gegenüber einem Verbraucher ohne dessen vorherige ausdrückliche Einwilligung wirbt,
+1. entgegen § 7 Absatz 1 Satz 1 in Verbindung mit Absatz 2 Nummer 2 oder 3 mit einem Telefonanruf oder unter Verwendung einer automatischen Anrufmaschine gegenüber einem Verbraucher ohne dessen vorherige ausdrückliche Einwilligung wirbt,
 
-2. entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 des Unterlassungsklagengesetzes, auch in Verbindung mit einer Rechtsverordnung nach § 4d Nummer 2 des Unterlassungsklagengesetzes, einen dort genannten Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+2. entgegen § 7a Absatz 1 eine dort genannte Einwilligung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert oder nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-3. einer Rechtsverordnung nach § 8b Absatz 3 in Verbindung mit § 4d Nummer 1 des Unterlassungsklagengesetzes oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+3. entgegen § 8b Absatz 3 in Verbindung mit § 4b Absatz 1 des Unterlassungsklagengesetzes, auch in Verbindung mit einer Rechtsverordnung nach § 4d Nummer 2 des Unterlassungsklagengesetzes, einen dort genannten Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu dreihunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
+4. einer Rechtsverordnung nach § 8b Absatz 3 in Verbindung mit § 4d Nummer 1 des Unterlassungsklagengesetzes oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, in den übrigen Fällen das Bundesamt für Justiz.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 und 2 die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, in den übrigen Fällen das Bundesamt für Justiz.
 
 # Anhang – (zu § 3 Absatz 3)
 

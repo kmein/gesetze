@@ -1021,6 +1021,1064 @@ Anlage 2 (zu § 58c Absatz 2 Satz 2)
 
 Anhang (weggefallen)
 
+# Inhaltsübersicht
+
+Erster Abschnitt
+
+Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
+
+§ 1
+
+Zweck des Gesetzes
+
+§ 2
+
+Arzneimittelbegriff
+
+§ 3
+
+Stoffbegriff
+
+§ 4
+
+Sonstige Begriffsbestimmungen
+
+§ 4a
+
+Ausnahmen vom Anwendungsbereich
+
+§ 4b
+
+Sondervorschriften für Arzneimittel für neuartige Therapien
+
+ 
+
+Zweiter Abschnitt
+
+Anforderungen an die Arzneimittel
+
+§ 5
+
+Verbot bedenklicher Arzneimittel
+
+§ 6
+
+Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen
+
+§ 6a
+
+(weggefallen)
+
+§ 7
+
+Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel
+
+§ 8
+
+Verbote zum Schutz vor Täuschung
+
+§ 9
+
+Der Verantwortliche für das Inverkehrbringen
+
+§ 10
+
+Kennzeichnung
+
+§ 10a
+
+Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen bei Menschen
+
+§ 11
+
+Packungsbeilage
+
+§ 11a
+
+Fachinformation
+
+§ 12
+
+Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen
+
+ 
+
+Dritter Abschnitt
+
+Herstellung von Arzneimitteln
+
+§ 13
+
+Herstellungserlaubnis
+
+§ 14
+
+Entscheidung über die Herstellungserlaubnis
+
+§ 15
+
+Sachkenntnis
+
+§ 16
+
+Begrenzung der Herstellungserlaubnis
+
+§ 17
+
+Fristen für die Erteilung
+
+§ 18
+
+Rücknahme, Widerruf, Ruhen
+
+§ 19
+
+Verantwortungsbereiche
+
+§ 20
+
+Anzeigepflichten
+
+§ 20a
+
+Geltung für Wirkstoffe und andere Stoffe
+
+§ 20b
+
+Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen
+
+§ 20c
+
+Erlaubnis für die Be- oder Verarbeitung, Konservierung, Prüfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen
+
+§ 20d
+
+Ausnahme von der Erlaubnispflicht für Gewebe und Gewebezubereitungen
+
+ 
+
+Vierter Abschnitt
+
+Zulassung der Arzneimittel
+
+§ 21
+
+Zulassungspflicht
+
+§ 21a
+
+Genehmigung von Gewebezubereitungen
+
+§ 22
+
+Zulassungsunterlagen
+
+§ 23
+
+Besondere Unterlagen bei Arzneimitteln für Tiere
+
+§ 24
+
+Sachverständigengutachten
+
+§ 24a
+
+Verwendung von Unterlagen eines Vorantragstellers
+
+§ 24b
+
+Zulassung eines Generikums, Unterlagenschutz
+
+§ 24c
+
+Nachforderungen
+
+§ 24d
+
+Allgemeine Verwertungsbefugnis
+
+§ 25
+
+Entscheidung über die Zulassung
+
+§ 25a
+
+Vorprüfung
+
+§ 25b
+
+Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren
+
+§ 25c
+
+Maßnahmen der zuständigen Bundesoberbehörde zu Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union
+
+§ 26
+
+Arzneimittelprüfrichtlinien
+
+§ 27
+
+Fristen für die Erteilung
+
+§ 28
+
+Auflagenbefugnis
+
+§ 29
+
+Anzeigepflicht, Neuzulassung
+
+§ 30
+
+Rücknahme, Widerruf, Ruhen
+
+§ 31
+
+Erlöschen, Verlängerung
+
+§ 32
+
+Staatliche Chargenprüfung
+
+§ 33
+
+Aufwendungsersatz und Entgelte
+
+§ 34
+
+Information der Öffentlichkeit
+
+§ 35
+
+Ermächtigungen zur Zulassung und Freistellung
+
+§ 36
+
+Ermächtigung für Standardzulassungen
+
+§ 37
+
+Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union für das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten
+
+ 
+
+Fünfter Abschnitt
+
+Registrierung von Arzneimitteln
+
+§ 38
+
+Registrierung homöopathischer Arzneimittel
+
+§ 39
+
+Entscheidung über die Registrierung homöopathischer Arzneimittel, Verfahrensvorschriften
+
+§ 39a
+
+Registrierung traditioneller pflanzlicher Arzneimittel
+
+§ 39b
+
+Registrierungsunterlagen für traditionelle pflanzliche Arzneimittel
+
+§ 39c
+
+Entscheidung über die Registrierung traditioneller pflanzlicher Arzneimittel
+
+§ 39d
+
+Sonstige Verfahrensvorschriften für traditionelle pflanzliche Arzneimittel
+
+ 
+
+Sechster Abschnitt
+
+Schutz des Menschen bei der klinischen Prüfung
+
+§ 40
+
+Verfahren zur Genehmigung einer klinischen Prüfung
+
+§ 40a
+
+Allgemeine Voraussetzungen für die klinische Prüfung
+
+§ 40b
+
+Besondere Voraussetzungen für die klinische Prüfung
+
+§ 40c
+
+Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren
+
+§ 40d
+
+Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde
+
+§ 41
+
+Stellungnahme der Ethik-Kommission
+
+§ 41a
+
+Registrierungsverfahren für Ethik-Kommissionen
+
+§ 41b
+
+Verfahrensordnung und Geschäftsverteilungsplan
+
+§ 41c
+
+Verordnungsermächtigung
+
+§ 42
+
+Korrekturmaßnahmen
+
+§ 42a
+
+Datenschutz
+
+§ 42b
+
+Veröffentlichung der Ergebnisse klinischer Prüfungen
+
+§ 42c
+
+Inspektionen
+
+ 
+
+Siebter Abschnitt
+
+Abgabe von Arzneimitteln
+
+§ 43
+
+Apothekenpflicht, Inverkehrbringen durch Tierärzte
+
+§ 44
+
+Ausnahme von der Apothekenpflicht
+
+§ 45
+
+Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht
+
+§ 46
+
+Ermächtigung zur Ausweitung der Apothekenpflicht
+
+§ 47
+
+Vertriebsweg
+
+§ 47a
+
+Sondervertriebsweg, Nachweispflichten
+
+§ 47b
+
+Sondervertriebsweg Diamorphin
+
+§ 48
+
+Verschreibungspflicht
+
+§ 49
+
+(weggefallen)
+
+§ 50
+
+Einzelhandel mit freiverkäuflichen Arzneimitteln
+
+§ 51
+
+Abgabe im Reisegewerbe
+
+§ 52
+
+Verbot der Selbstbedienung
+
+§ 52a
+
+Großhandel mit Arzneimitteln
+
+§ 52b
+
+Bereitstellung von Arzneimitteln
+
+§ 52c
+
+Arzneimittelvermittlung
+
+§ 53
+
+Anhörung von Sachverständigen
+
+ 
+
+Achter Abschnitt
+
+Sicherung und Kontrolle der Qualität
+
+§ 54
+
+Betriebsverordnungen
+
+§ 55
+
+Arzneibuch
+
+§ 55a
+
+Amtliche Sammlung von Untersuchungsverfahren
+
+ 
+
+Neunter Abschnitt
+
+Sondervorschriften für Arzneimittel, die bei Tieren angewendet werden
+
+§ 56
+
+Fütterungsarzneimittel
+
+§ 56a
+
+Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte
+
+§ 56b
+
+Ausnahmen
+
+§ 57
+
+Erwerb und Besitz durch Tierhalter, Nachweise
+
+§ 57a
+
+Anwendung durch Tierhalter
+
+§ 58
+
+Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen
+
+§ 58a
+
+Mitteilungen über Tierhaltungen
+
+§ 58b
+
+Mitteilungen über Arzneimittelverwendung
+
+§ 58c
+
+Ermittlung der Therapiehäufigkeit
+
+§ 58d
+
+Verringerung der Behandlung mit antibakteriell wirksamen Stoffen
+
+§ 58e
+
+Verordnungsermächtigungen
+
+§ 58f
+
+Verarbeitung und Übermittlung von Daten
+
+§ 58g
+
+(weggefallen)
+
+§ 59
+
+Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen
+
+§ 59a
+
+Verkehr mit Stoffen und Zubereitungen aus Stoffen
+
+§ 59b
+
+Stoffe zur Durchführung von Rückstandskontrollen
+
+§ 59c
+
+Nachweispflichten für Stoffe, die als Tierarzneimittel verwendet werden können
+
+§ 59d
+
+Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen
+
+§ 60
+
+Heimtiere
+
+§ 61
+
+Befugnisse tierärztlicher Bildungsstätten
+
+ 
+
+Zehnter Abschnitt
+
+Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken
+
+§ 62
+
+Organisation
+
+§ 63
+
+Stufenplan
+
+§ 63a
+
+Stufenplanbeauftragter
+
+§ 63b
+
+Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung
+
+§ 63c
+
+Dokumentations- und Meldepflichten des Inhabers der Zulassung für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, für Verdachtsfälle von Nebenwirkungen
+
+§ 63d
+
+Regelmäßige aktualisierte Unbedenklichkeitsberichte
+
+§ 63e
+
+Europäisches Verfahren
+
+§ 63f
+
+Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien
+
+§ 63g
+
+Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien
+
+§ 63h
+
+Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind
+
+§ 63i
+
+Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe
+
+§ 63j
+
+Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien
+
+§ 63k
+
+Ausnahmen
+
+ 
+
+Elfter Abschnitt
+
+Überwachung
+
+§ 64
+
+Durchführung der Überwachung
+
+§ 65
+
+Probenahme
+
+§ 66
+
+Duldungs- und Mitwirkungspflicht
+
+§ 67
+
+Allgemeine Anzeigepflicht
+
+§ 67a
+
+Datenbankgestütztes Informationssystem
+
+§ 67b
+
+EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten
+
+§ 68
+
+Mitteilungs- und Unterrichtungspflichten
+
+§ 69
+
+Maßnahmen der zuständigen Behörden
+
+§ 69a
+
+Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können
+
+§ 69b
+
+Verwendung bestimmter Daten
+
+ 
+
+Zwölfter Abschnitt
+
+Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz
+
+§ 70
+
+Anwendung und Vollzug des Gesetzes
+
+§ 71
+
+Ausnahmen
+
+ 
+
+Dreizehnter Abschnitt
+
+Einfuhr und Ausfuhr
+
+§ 72
+
+Einfuhrerlaubnis
+
+§ 72a
+
+Zertifikate
+
+§ 72b
+
+Einfuhrerlaubnis und Zertifikate für Gewebe und bestimmte Gewebezubereitungen
+
+§ 72c
+
+Einmalige Einfuhr von Gewebe oder Gewebezubereitungen
+
+§ 73
+
+Verbringungsverbot
+
+§ 73a
+
+Ausfuhr
+
+§ 74
+
+Mitwirkung von Zolldienststellen
+
+ 
+
+Vierzehnter Abschnitt
+
+Informationsbeauftragter, Pharmaberater
+
+§ 74a
+
+Informationsbeauftragter
+
+§ 75
+
+Sachkenntnis
+
+§ 76
+
+Pflichten
+
+ 
+
+Fünfzehnter Abschnitt
+
+Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
+
+§ 77
+
+Zuständige Bundesoberbehörde
+
+§ 77a
+
+Unabhängigkeit und Transparenz
+
+§ 78
+
+Preise
+
+§ 79
+
+Ausnahmeermächtigungen für Krisenzeiten
+
+§ 80
+
+Ermächtigung für Verfahrens- und Härtefallregelungen
+
+§ 81
+
+Verhältnis zu anderen Gesetzen
+
+§ 82
+
+Allgemeine Verwaltungsvorschriften
+
+§ 83
+
+Angleichung an das Recht der Europäischen Union
+
+§ 83a
+
+Rechtsverordnungen in bestimmten Fällen
+
+§ 83b
+
+Verkündung von Rechtsverordnungen
+
+ 
+
+Sechzehnter Abschnitt
+
+Haftung für Arzneimittelschäden
+
+§ 84
+
+Gefährdungshaftung
+
+§ 84a
+
+Auskunftsanspruch
+
+§ 85
+
+Mitverschulden
+
+§ 86
+
+Umfang der Ersatzpflicht bei Tötung
+
+§ 87
+
+Umfang der Ersatzpflicht bei Körperverletzung
+
+§ 88
+
+Höchstbeträge
+
+§ 89
+
+Schadensersatz durch Geldrenten
+
+§ 90
+
+(weggefallen)
+
+§ 91
+
+Weitergehende Haftung
+
+§ 92
+
+Unabdingbarkeit
+
+§ 93
+
+Mehrere Ersatzpflichtige
+
+§ 94
+
+Deckungsvorsorge
+
+§ 94a
+
+Örtliche Zuständigkeit
+
+ 
+
+Siebzehnter Abschnitt
+
+Straf- und Bußgeldvorschriften
+
+§ 95
+
+Strafvorschriften
+
+§ 96
+
+Strafvorschriften
+
+§ 97
+
+Bußgeldvorschriften
+
+§ 98
+
+Einziehung
+
+ 
+
+Achtzehnter Abschnitt
+
+Überleitungs- und Übergangsvorschriften
+
+ 
+
+ 
+
+Erster Unterabschnitt
+
+§§ 99 bis 124
+
+Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
+
+ 
+
+ 
+
+Zweiter Unterabschnitt
+
+§§ 125 und 126
+
+Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Dritter Unterabschnitt
+
+§§ 127 bis 131
+
+Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Vierter Unterabschnitt
+
+§ 132
+
+Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Fünfter Unterabschnitt
+
+§ 133
+
+Übergangsvorschrift aus Anlass des Siebten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Sechster Unterabschnitt
+
+§ 134
+
+Übergangsvorschriften aus Anlass des Transfusionsgesetzes
+
+ 
+
+ 
+
+Siebter Unterabschnitt
+
+§ 135
+
+Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Achter Unterabschnitt
+
+§ 136
+
+Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Neunter Unterabschnitt
+
+§ 137
+
+Übergangsvorschriften aus Anlass des Elften Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Zehnter Unterabschnitt
+
+§ 138
+
+Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Elfter Unterabschnitt
+
+§ 139
+
+Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften
+
+ 
+
+ 
+
+Zwölfter Unterabschnitt
+
+§ 140
+
+Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Dreizehnter Unterabschnitt
+
+§ 141
+
+Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+Vierzehnter Unterabschnitt
+
+§ 142
+
+Übergangsvorschriften aus Anlass des Gewebegesetzes
+
+§ 142a
+
+Übergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
+
+§ 142b
+
+Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+
+ 
+
+ 
+
+Fünfzehnter Unterabschnitt
+
+§ 143
+
+(weggefallen)
+
+ 
+
+ 
+
+Sechzehnter Unterabschnitt
+
+§ 144
+
+Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+ 
+
+ 
+
+Siebzehnter Unterabschnitt
+
+§ 145
+
+Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes
+
+ 
+
+ 
+
+Achtzehnter Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 146
+
+Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+ 
+
+ 
+
+Neunzehnter Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 147
+
+Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+
+ 
+
+ 
+
+Zwanzigster Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 148
+
+Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+
+ 
+
+ 
+
+Einundzwanzigster Unterabschnitt
+
+ 
+
+Übergangsvorschrift
+
+§ 149
+
+Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+
+ 
+
+ 
+
+ 
+
+Anlage 1 (zu § 6)
+
+ 
+
+Anlage 2 (zu § 58c Absatz 2 Satz 2)
+
+ 
+
+ 
+
+ 
+
+Anhang (weggefallen)
+
 # § 1 – Zweck des Gesetzes
 
 Es ist der Zweck dieses Gesetzes, im Interesse einer ordnungsgemäßen Arzneimittelversorgung von Mensch und Tier für die Sicherheit im Verkehr mit Arzneimitteln, insbesondere für die Qualität, Wirksamkeit und Unbedenklichkeit der Arzneimittel nach Maßgabe der folgenden Vorschriften zu sorgen.
@@ -2000,6 +3058,56 @@ Einer Erlaubnis nach § 20b Absatz 1 und § 20c Absatz 1 bedarf nicht eine Perso
 # § 21 – Zulassungspflicht
 
 (1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 sind, dürfen im Geltungsbereich dieses Gesetzes nur in den Verkehr gebracht werden, wenn sie durch die zuständige Bundesoberbehörde zugelassen sind oder wenn für sie die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 auch in Verbindung mit der Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1) oder der Verordnung (EG) Nr. 1394/2007 erteilt hat. Das gilt auch für Arzneimittel, die keine Fertigarzneimittel und zur Anwendung bei Tieren bestimmt sind, sofern sie nicht an pharmazeutische Unternehmer abgegeben werden sollen, die eine Erlaubnis zur Herstellung von Arzneimitteln besitzen.
+
+(2) Einer Zulassung bedarf es nicht für Arzneimittel, die
+
+1. zur Anwendung bei Menschen bestimmt sind und auf Grund nachweislich häufiger ärztlicher oder zahnärztlicher Verschreibung in den wesentlichen Herstellungsschritten in einer Apotheke in einer Menge bis zu hundert abgabefertigen Packungen an einem Tag im Rahmen des üblichen Apothekenbetriebs hergestellt werden und zur Abgabe im Rahmen der bestehenden Apothekenbetriebserlaubnis bestimmt sind,
+
+1a. Arzneimittel sind, bei deren Herstellung Stoffe menschlicher Herkunft eingesetzt werden und die entweder zur autologen oder gerichteten, für eine bestimmte Person vorgesehene Anwendung bestimmt sind oder auf Grund einer Rezeptur für einzelne Personen hergestellt werden, es sei denn, es handelt sich um Arzneimittel im Sinne von § 4 Absatz 4,
+
+1b. andere als die in Nummer 1a genannten Arzneimittel sind und für Apotheken, denen für einen Patienten eine Verschreibung vorliegt, aus im Geltungsbereich dieses Gesetzes zugelassenen Arzneimitteln
+
+a) als Zytostatikazubereitung oder für die parenterale Ernährung sowie in anderen medizinisch begründeten besonderen Bedarfsfällen, sofern es für die ausreichende Versorgung des Patienten erforderlich ist und kein zugelassenes Arzneimittel zur Verfügung steht, hergestellt werden oder
+
+b) als Blister aus unveränderten Arzneimitteln hergestellt werden oder
+
+c) in unveränderter Form abgefüllt werden,
+
+1c. zur Anwendung bei Menschen bestimmt sind, antivirale oder antibakterielle Wirksamkeit haben und zur Behandlung einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, aus Wirkstoffen hergestellt werden, die von den Gesundheitsbehörden des Bundes oder der Länder oder von diesen benannten Stellen für diese Zwecke bevorratet wurden, soweit ihre Herstellung in einer Apotheke zur Abgabe im Rahmen der bestehenden Apothekenbetriebserlaubnis oder zur Abgabe an andere Apotheken erfolgt,
+
+1d. Gewebezubereitungen sind, die der Pflicht zur Genehmigung nach den Vorschriften des § 21a Abs. 1 unterliegen,
+
+1e. Heilwässer, Bademoore oder andere Peloide sind, die nicht im Voraus hergestellt und nicht in einer zur Abgabe an den Verbraucher bestimmten Packung in den Verkehr gebracht werden, oder die ausschließlich zur äußeren Anwendung oder zur Inhalation vor Ort bestimmt sind,
+
+1f. medizinische Gase sind und die für einzelne Personen aus im Geltungsbereich dieses Gesetzes zugelassenen Arzneimitteln durch Abfüllen und Kennzeichnen in Unternehmen, die nach § 50 zum Einzelhandel mit Arzneimitteln außerhalb von Apotheken befugt sind, hergestellt werden,
+
+1g. als Therapieallergene für einzelne Patienten auf Grund einer Rezeptur hergestellt werden,
+
+2. zur klinischen Prüfung bei Menschen bestimmt sind,
+
+3. Fütterungsarzneimittel sind, die bestimmungsgemäß aus Arzneimittel-Vormischungen hergestellt sind, für die eine Zulassung nach § 25 erteilt ist,
+
+4. für Einzeltiere oder Tiere eines bestimmten Bestandes in Apotheken oder in tierärztlichen Hausapotheken unter den Voraussetzungen des Absatzes 2a hergestellt werden,
+
+5. zur klinischen Prüfung bei Tieren oder zur Rückstandsprüfung bestimmt sind oder
+
+6. unter den in Artikel 83 der Verordnung (EG) Nr. 726/2004 genannten Voraussetzungen kostenlos für eine Anwendung bei Patienten zur Verfügung gestellt werden, die an einer zu einer schweren Behinderung führenden Erkrankung leiden oder deren Krankheit lebensbedrohend ist, und die mit einem zugelassenen Arzneimittel nicht zufrieden stellend behandelt werden können; dies gilt auch für die nicht den Kategorien des Artikels 3 Absatz 1 oder 2 der Verordnung (EG) Nr. 726/2004 zugehörigen Arzneimitteln; Verfahrensregelungen werden in einer Rechtsverordnung nach § 80 bestimmt.
+
+(2a) Arzneimittel, die für den Verkehr außerhalb von Apotheken nicht freigegebene Stoffe und Zubereitungen aus Stoffen enthalten, dürfen nach Absatz 2 Nr. 4 nur hergestellt werden, wenn für die Behandlung ein zugelassenes Arzneimittel für die betreffende Tierart oder das betreffende Anwendungsgebiet nicht zur Verfügung steht, die notwendige arzneiliche Versorgung der Tiere sonst ernstlich gefährdet wäre und eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch und Tier nicht zu befürchten ist. Die Herstellung von Arzneimitteln gemäß Satz 1 ist nur in Apotheken zulässig. Satz 2 gilt nicht für das Zubereiten von Arzneimitteln aus einem Fertigarzneimittel und arzneilich nicht wirksamen Bestandteilen sowie für das Mischen von Fertigarzneimitteln zum Zwecke der Immobilisation von Zoo-, Wild- und Gehegetieren. Als Herstellen im Sinne des Satzes 1 gilt nicht das Umfüllen, Abpacken oder Kennzeichnen von Arzneimitteln in unveränderter Form, soweit
+
+1. keine Fertigarzneimittel in für den Einzelfall geeigneten Packungsgrößen im Handel verfügbar sind oder
+
+2. in sonstigen Fällen das Behältnis oder jede andere Form der Arzneimittelverpackung, die unmittelbar mit dem Arzneimittel in Berührung kommt, nicht beschädigt wird.
+
+Die Sätze 1 bis 4 gelten nicht für registrierte oder von der Registrierung freigestellte homöopathische Arzneimittel, die, soweit sie zur Anwendung bei Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen, ausschließlich Wirkstoffe enthalten, die im Anhang der Verordnung (EU) Nr. 37/2010 als Stoffe aufgeführt sind, für die eine Festlegung von Höchstmengen nicht erforderlich ist.
+
+(3) Die Zulassung ist vom pharmazeutischen Unternehmer zu beantragen. Für ein Fertigarzneimittel, das in Apotheken oder sonstigen Einzelhandelsbetrieben auf Grund einheitlicher Vorschriften hergestellt und unter einer einheitlichen Bezeichnung an Verbraucher abgegeben wird, ist die Zulassung vom Herausgeber der Herstellungsvorschrift zu beantragen. Wird ein Fertigarzneimittel für mehrere Apotheken oder sonstige Einzelhandelsbetriebe hergestellt und soll es unter deren Namen und unter einer einheitlichen Bezeichnung an Verbraucher abgegeben werden, so hat der Hersteller die Zulassung zu beantragen.
+
+(4) Die zuständige Bundesoberbehörde entscheidet ferner, unabhängig von einem Zulassungsantrag nach Absatz 3 oder von einem Genehmigungsantrag nach § 21a Absatz 1 oder § 42 Absatz 2, auf Antrag einer zuständigen Landesbehörde über die Zulassungspflicht eines Arzneimittels, die Genehmigungspflicht einer Gewebezubereitung oder über die Genehmigungspflicht einer klinischen Prüfung. Dem Antrag hat die zuständige Landesbehörde eine begründete Stellungnahme zur Einstufung des Arzneimittels oder der klinischen Prüfung beizufügen.
+
+# § 21 – Zulassungspflicht
+
+(1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 sind, dürfen im Geltungsbereich dieses Gesetzes nur in den Verkehr gebracht werden, wenn sie durch die zuständige Bundesoberbehörde zugelassen sind oder wenn für sie die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 auch in Verbindung mit der Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1), der Verordnung (EG) Nr. 1394/2007 oder der Verordnung (EU) Nr. 536/2014 erteilt hat. Das gilt auch für Arzneimittel, die keine Fertigarzneimittel und zur Anwendung bei Tieren bestimmt sind, sofern sie nicht an pharmazeutische Unternehmer abgegeben werden sollen, die eine Erlaubnis zur Herstellung von Arzneimitteln besitzen.
 
 (2) Einer Zulassung bedarf es nicht für Arzneimittel, die
 
@@ -4401,6 +5509,50 @@ Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Form
 
 Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Formular auf ihrer Internetseite bekannt.
 
+# § 67 – Allgemeine Anzeigepflicht
+
+(1) Betriebe und Einrichtungen, die Arzneimittel entwickeln, herstellen, klinisch prüfen oder einer Rückstandsprüfung unterziehen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, haben dies vor der Aufnahme der Tätigkeiten der zuständigen Behörde anzuzeigen. Satz 1 gilt entsprechend für Einrichtungen, die Gewebe gewinnen, die die für die Gewinnung erforderliche Laboruntersuchung durchführen, Gewebe be- oder verarbeiten, konservieren, prüfen, lagern, einführen oder in Verkehr bringen. Die Entwicklung von Arzneimitteln ist anzuzeigen, soweit sie durch eine Rechtsverordnung nach § 54 geregelt ist. Das Gleiche gilt für Personen, die diese Tätigkeiten selbständig und berufsmäßig ausüben, sowie für Personen oder Personenvereinigungen, die Arzneimittel für andere sammeln. In der Anzeige sind die Art der Tätigkeit und die Betriebsstätte anzugeben; werden Arzneimittel gesammelt, so ist das Nähere über die Art der Sammlung und über die Lagerstätte anzugeben. Die Sätze 1 und 3 bis 5 gelten entsprechend für Betriebe und Einrichtungen, die Wirkstoffe oder andere zur Arzneimittelherstellung bestimmte Stoffe herstellen, prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen Handel treiben, soweit diese Tätigkeiten durch eine Rechtsverordnung nach § 54 geregelt sind. Satz 1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind. Die Sätze 1 bis 6 gelten auch für Betriebe und Einrichtungen, die mit den dort genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahren. Die Sätze 1 und 5 gelten auch für Betriebe und Einrichtungen, die einen Datenspeicher einrichten oder verwalten, der zum Datenspeicher- und -abrufsystem nach Artikel 31 der Delegierten Verordnung (EU) 2016/161 gehört.
+
+(2) Ist die Herstellung von Arzneimitteln beabsichtigt, für die es einer Erlaubnis nach § 13 nicht bedarf, so sind die Arzneimittel mit ihrer Bezeichnung und Zusammensetzung anzuzeigen.
+
+(3) Nachträgliche Änderungen sind ebenfalls anzuzeigen. Bei Betrieben und Einrichtungen, die Wirkstoffe herstellen, einführen oder sonst mit ihnen Handel treiben, genügt jährlich eine Anzeige, sofern die Änderungen keine Auswirkungen auf die Qualität oder Sicherheit der Wirkstoffe haben können.
+
+(3a) Betriebe und Einrichtungen, die mit den in Absatz 1 Satz 1 bis 4 und 6 genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen außerhalb der von der Erlaubnis nach den §§ 13, 20b, 20c, 52a, 72b oder 72c erfassten Räume aufbewahren lassen, haben dies vor Aufnahme der Tätigkeit der zuständigen Behörde anzuzeigen; dies gilt auch für nachträgliche Änderungen.
+
+(4) Die Absätze 1 bis 3 gelten nicht für diejenigen, die eine Erlaubnis nach § 13, § 20b, § 20c, § 52a, § 72, § 72b oder § 72c haben, für Apotheken nach dem Gesetz über das Apothekenwesen und für klinische Prüfungen bei Menschen mit Arzneimitteln, die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen. Absatz 2 gilt nicht für tierärztliche Hausapotheken.
+
+(5) Wer als pharmazeutischer Unternehmer ein Arzneimittel, das nach § 36 Absatz 1 von der Pflicht zur Zulassung freigestellt ist, in den Verkehr bringt, hat dies zuvor der zuständigen Bundesoberbehörde und der zuständigen Behörde anzuzeigen. In der Anzeige sind der Hersteller, die verwendete Bezeichnung, die verwendeten nicht wirksamen Bestandteile, soweit sie nicht in der Verordnung nach § 36 Absatz 1 festgelegt sind, sowie die tatsächliche Zusammensetzung des Arzneimittels, soweit die Verordnung nach § 36 Absatz 1 diesbezügliche Unterschiede erlaubt, anzugeben. Anzuzeigen sind auch jede Änderung der Angaben und die Beendigung des Inverkehrbringens.
+
+(6) Wer Untersuchungen durchführt, die dazu bestimmt sind, Erkenntnisse bei der Anwendung zugelassener oder registrierter Arzneimittel zu sammeln, hat dies der zuständigen Bundesoberbehörde, der Kassenärztlichen Bundesvereinigung, dem Spitzenverband Bund der Krankenkassen und dem Verband der Privaten Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort, Zeit, Ziel und Beobachtungsplan der Anwendungsbeobachtung anzugeben sowie gegenüber der Kassenärztlichen Bundesvereinigung und dem Spitzenverband Bund der Krankenkassen die beteiligten Ärzte namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu benennen. Entschädigungen, die an Ärzte für ihre Beteiligung an Untersuchungen nach Satz 1 geleistet werden, sind nach ihrer Art und Höhe so zu bemessen, dass kein Anreiz für eine bevorzugte Verschreibung oder Empfehlung bestimmter Arzneimittel entsteht. Sofern beteiligte Ärzte Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des Aufwandes für die beteiligten Ärzte und eine Begründung für die Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den in Satz 4 genannten Informationen Änderungen ergeben, sind die jeweiligen Informationen nach Satz 4 vollständig in der geänderten, aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen Arztnummer, der Betriebsstättennummer und der Praxisadresse zu übermitteln. Innerhalb eines Jahres nach Abschluss der Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt beteiligten Patienten und Art und Höhe der jeweils und insgesamt geleisteten Entschädigungen zu übermitteln. Der zuständigen Bundesoberbehörde ist innerhalb eines Jahres nach Abschluss der Datenerfassung bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ein Abschlussbericht zu übermitteln. § 42b Absatz 2 Satz 1 und 4 gilt entsprechend. Die Angaben nach diesem Absatz sind bei Untersuchungen mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, elektronisch zu übermitteln. Hierfür machen die zuständigen Bundesoberbehörden elektronische Formatvorgaben bekannt; die zuständige Bundesoberbehörde hat ihr übermittelte Anzeigen und Abschlussberichte der Öffentlichkeit über ein Internetportal zur Verfügung zu stellen. Für die Veröffentlichung der Anzeigen gilt § 42b Absatz 2 Satz 4 entsprechend. Die Sätze 4 bis 6 gelten nicht für Anzeigen gegenüber der zuständigen Bundesoberbehörde. Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung e. V. legen einvernehmlich Formatvorgaben für die elektronische Übermittlung der an sie zu richtenden Angaben fest und geben diese bekannt. Für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, sind die Anzeigen nach Satz 1 nur gegenüber der zuständigen Bundesoberbehörde zu erstatten. Die Sätze 1 bis 12 und 14 gelten nicht für Unbedenklichkeitsstudien nach § 63f.
+
+(7) Wer beabsichtigt, gewerbs- oder berufsmäßig Arzneimittel, die in einem anderen Mitgliedstaat der Europäischen Union zum Inverkehrbringen durch einen anderen pharmazeutischen Unternehmer zugelassen sind, erstmalig aus diesem Mitgliedstaat in den Geltungsbereich des Gesetzes zum Zweck des Inverkehrbringens im Geltungsbereich des Gesetzes zu verbringen, hat dies dem Inhaber der Zulassung vor der Aufnahme der Tätigkeit anzuzeigen. Für Arzneimittel, für die eine Genehmigung für das Inverkehrbringen gemäß der Verordnung (EG) Nr. 726/2004 erteilt worden ist, gilt Satz 1 mit der Maßgabe, dass die Anzeige dem Inhaber der Genehmigung und der Europäischen Arzneimittel-Agentur zu übermitteln ist. An die Agentur ist eine Gebühr für die Überprüfung der Einhaltung der Bedingungen, die in den unionsrechtlichen Rechtsvorschriften über Arzneimittel und den Genehmigungen für das Inverkehrbringen festgelegt sind, zu entrichten; die Bemessung der Gebühr richtet sich nach den unionsrechtlichen Rechtsvorschriften.
+
+(8) Wer zum Zweck des Einzelhandels Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, im Wege des Versandhandels über das Internet anbieten will, hat dies vor Aufnahme der Tätigkeit der zuständigen Behörde unter Angabe des Namens oder der Firma und der Anschrift des Ortes, von dem aus die Arzneimittel geliefert werden sollen, und die Adresse jedes Internetportals einschließlich aller Angaben zu deren Identifizierung anzuzeigen. Nachträgliche Änderungen sind ebenfalls anzuzeigen. Die zuständige Behörde übermittelt diese Informationen an eine Datenbank nach § 67a. Das Internetportal nach Satz 1 muss den Namen und die Adresse der zuständigen Behörde und ihre sonstigen Kontaktdaten, das gemeinsame Versandhandelslogo nach Artikel 85c der Richtlinie 2001/83/EG aufweisen und eine Verbindung zum Internetportal des Bundesinstituts für Arzneimittel und Medizinprodukte haben.
+
+(9) Wer nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien bei einem Patienten anwendet, hat dies der zuständigen Bundesoberbehörde gemäß den Sätzen 2 und 3 anzuzeigen. Die Anzeige ist unverzüglich nach Beginn der Anwendung einzureichen. Die Anzeige muss die folgenden Angaben enthalten:
+
+1. den Namen und die Anschrift der behandelnden Person,
+
+2. den Namen und die Anschrift der Einrichtung, in der der Patient behandelt wurde,
+
+3. die Bezeichnung des Arzneimittels,
+
+4. die Wirkstoffe nach Art und Menge und die Art der sonstigen Bestandteile des Arzneimittels,
+
+5. die Darreichungsform,
+
+6. die Art der Anwendung,
+
+7. den Nachweis, dass die behandelnde Person zur Herstellung des Arzneimittels berechtigt ist,
+
+8. Initialen, Geschlecht und Geburtsjahr des Patienten, der mit dem Arzneimittel behandelt wurde,
+
+9. den Tag der Behandlung oder den Zeitraum der Behandlung und
+
+10. die Indikation, in der das Arzneimittel angewendet wird.
+
+Die zuständige Bundesoberbehörde gibt das für die Anzeige zu verwendende Formular auf ihrer Internetseite bekannt.
+
 # § 67a – Datenbankgestütztes Informationssystem
 
 (1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des Bundes und der Länder wirken mit dem Deutschen Institut für Medizinische Dokumentation und Information (DIMDI) zusammen, um ein gemeinsam nutzbares zentrales Informationssystem über Arzneimittel und Wirkstoffe sowie deren Hersteller oder Einführer zu errichten. Dieses Informationssystem fasst die für die Erfüllung der jeweiligen Aufgaben behördenübergreifend notwendigen Informationen zusammen. Das Deutsche Institut für Medizinische Dokumentation und Information (DIMDI) errichtet dieses Informationssystem auf der Grundlage der von den zuständigen Behörden oder Bundesoberbehörden nach der Rechtsverordnung nach Absatz 3 zur Verfügung gestellten Daten und stellt dessen laufenden Betrieb sicher. Daten aus dem Informationssystem werden an die zuständigen Behörden und Bundesoberbehörden zur Erfüllung ihrer im Gesetz geregelten Aufgaben sowie an die Europäische Arzneimittel-Agentur übermittelt. Die zuständigen Behörden und Bundesoberbehörden erhalten darüber hinaus für ihre im Gesetz geregelten Aufgaben Zugriff auf die aktuellen Daten aus dem Informationssystem. Eine Übermittlung an andere Stellen ist zulässig, soweit dies die Rechtsverordnung nach Absatz 3 vorsieht. Für seine Leistungen kann das Deutsche Institut für Medizinische Dokumentation und Information (DIMDI) Entgelte verlangen. Diese werden in einem Entgeltkatalog festgelegt, der der Zustimmung des Bundesministeriums bedarf.
@@ -5085,72 +6237,6 @@ c) aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile großen 
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-# § 96 – Strafvorschriften
-
-Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
-
-1. entgegen § 4b Absatz 3 Satz 1 ein Arzneimittel abgibt,
-
-2. entgegen § 6 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 6 Absatz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 6 Absatz 3, ein Arzneimittel herstellt,
-
-3. entgegen § 8 Abs. 1 Nr. 2, auch in Verbindung mit § 73a, Arzneimittel oder Wirkstoffe herstellt oder in den Verkehr bringt,
-
-4. ohne Erlaubnis nach § 13 Absatz 1 Satz 1 oder § 72 Absatz 1 Satz 1 ein Arzneimittel, einen Wirkstoff oder einen dort genannten Stoff herstellt oder einführt,
-
-4a. ohne Erlaubnis nach § 20b Abs. 1 Satz 1 oder Abs. 2 Satz 7 Gewebe gewinnt oder Laboruntersuchungen durchführt oder ohne Erlaubnis nach § 20c Abs. 1 Satz 1 Gewebe oder Gewebezubereitungen be- oder verarbeitet, konserviert, prüft, lagert oder in den Verkehr bringt,
-
-5. entgegen § 21 Abs. 1 Fertigarzneimittel oder Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, oder in einer Rechtsverordnung nach § 35 Abs. 1 Nr. 2 oder § 60 Abs. 3 bezeichnete Arzneimittel ohne Zulassung oder ohne Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union in den Verkehr bringt,
-
-5a. ohne Genehmigung nach § 21a Abs. 1 Satz 1 Gewebezubereitungen in den Verkehr bringt,
-
-5b. ohne Bescheinigung nach § 21a Absatz 9 Satz 1 eine Gewebezubereitung erstmalig verbringt,
-
-6. eine nach § 22 Abs. 1 Nr. 3, 5 bis 9, 11, 12, 14 oder 15, Abs. 3b oder 3c Satz 1 oder § 23 Abs. 2 Satz 2 oder 3 erforderliche Angabe nicht vollständig oder nicht richtig macht oder eine nach § 22 Abs. 2 oder 3, § 23 Abs. 1, Abs. 2 Satz 2 oder 3, Abs. 3, auch in Verbindung mit § 38 Abs. 2, erforderliche Unterlage oder durch vollziehbare Anordnung nach § 28 Absatz 3, 3a, 3b oder Absatz 3c Satz 1 Nummer 2 geforderte Unterlage nicht vollständig oder mit nicht richtigem Inhalt vorlegt,
-
-7. entgegen § 30 Abs. 4 Satz 1 Nr. 1, auch in Verbindung mit einer Rechtsverordnung nach § 35 Abs. 1 Nr. 2, ein Arzneimittel in den Verkehr bringt,
-
-8. entgegen § 32 Abs. 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 35 Abs. 1 Nr. 3, eine Charge ohne Freigabe in den Verkehr bringt,
-
-9. entgegen § 38 Abs. 1 Satz 1 oder § 39a Satz 1 Fertigarzneimittel als homöopathische oder als traditionelle pflanzliche Arzneimittel ohne Registrierung in den Verkehr bringt,
-
-10. entgegen § 40 Abs. 1 Satz 3 Nr. 2, 2a Buchstabe a, Nr. 3, 4, 5, 6 oder 8, jeweils auch in Verbindung mit Abs. 4 oder § 41 die klinische Prüfung eines Arzneimittels durchführt,
-
-11. entgegen § 40 Abs. 1 Satz 2 die klinische Prüfung eines Arzneimittels beginnt,
-
-12. entgegen § 47a Abs. 1 Satz 1 ein dort bezeichnetes Arzneimittel ohne Verschreibung abgibt, wenn die Tat nicht nach § 95 Abs. 1 Nr. 5a mit Strafe bedroht ist,
-
-13. entgegen § 48 Abs. 1 Satz 1 Nr. 1 in Verbindung mit einer Rechtsverordnung nach § 48 Abs. 2 Nr. 1, 2 oder Nummer 7 oder entgegen § 48 Absatz 1 Satz 1 Nummer 3, auch in Verbindung mit einer Rechtsverordnung nach § 48 Absatz 2 Satz 1 Nummer 1, Arzneimittel abgibt, wenn die Tat nicht in § 95 Abs. 1 Nr. 6 mit Strafe bedroht ist,
-
-14. ohne Erlaubnis nach § 52a Abs. 1 Satz 1 Großhandel betreibt,
-
-14a. entgegen § 52c Absatz 2 Satz 1 eine Tätigkeit als Arzneimittelvermittler aufnimmt,
-
-15. entgegen § 56a Abs. 4 Arzneimittel verschreibt oder abgibt,
-
-16. entgegen § 57 Abs. 1a Satz 1 in Verbindung mit einer Rechtsverordnung nach § 56a Abs. 3 Satz 1 Nr. 2 ein dort bezeichnetes Arzneimittel in Besitz hat,
-
-17. entgegen § 59 Abs. 2 Satz 1 Lebensmittel gewinnt,
-
-18. entgegen § 59a Abs. 1 oder 2 Stoffe oder Zubereitungen aus Stoffen erwirbt, anbietet, lagert, verpackt, mit sich führt oder in den Verkehr bringt,
-
-18a. entgegen § 59d Satz 1 Nummer 2 einen Stoff einem dort genannten Tier verabreicht,
-
-18b. ohne Erlaubnis nach § 72 Absatz 4 Satz 2, § 72b Absatz 1 Satz 3 oder § 72c Absatz 1 Satz 2, auch in Verbindung mit § 72c Absatz 4 Satz 1, dort genannte hämatopoetische Stammzellen, Stammzellzubereitungen, Gewebe oder Gewebezubereitungen einführt,
-
-18c. entgegen § 72a Absatz 1 Satz 1, auch in Verbindung mit Absatz 1b oder Absatz 1d, oder entgegen § 72a Absatz 1c ein Arzneimittel, einen Wirkstoff oder einen in den genannten Absätzen anderen Stoff einführt,
-
-18d. entgegen § 72b Abs. 2 Satz 1 Gewebe oder Gewebezubereitungen einführt,
-
-18e. entgegen § 73 Absatz 1b Satz 1 ein gefälschtes Arzneimittel oder einen gefälschten Wirkstoff in den Geltungsbereich dieses Gesetzes verbringt,
-
-19. ein zum Gebrauch bei Menschen bestimmtes Arzneimittel in den Verkehr bringt, obwohl die nach § 94 erforderliche Haftpflichtversicherung oder Freistellungs- oder Gewährleistungsverpflichtung nicht oder nicht mehr besteht oder
-
-20. gegen die Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1027/2012 (ABl. L 316 vom 14.11.2012, S. 38) geändert worden ist, verstößt, indem er
-
-a) entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung in Verbindung mit Artikel 8 Absatz 3 Unterabsatz 1 Buchstabe c bis e, h bis iaa oder Buchstabe ib der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Richtlinie 2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1) geändert worden ist, eine Angabe oder eine Unterlage nicht richtig oder nicht vollständig beifügt oder
-
-b) entgegen Artikel 31 Abs. 1 Satz 1 der Verordnung in Verbindung mit Artikel 12 Abs. 3 Unterabsatz 1 Satz 2 Buchstabe c bis e, h bis j oder k der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. EG Nr. L 311 S. 1), geändert durch die Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 58), eine Angabe nicht richtig oder nicht vollständig beifügt.
-
 # § 97 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in
@@ -5362,6 +6448,236 @@ verschreibt, abgibt oder anwendet,
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
 1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9b und 24d bis 24q, der Absätze 2a bis 2c und
+
+2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
+
+die nach § 77 zuständige Bundesoberbehörde. Im Fall des Absatzes 2 Nummer 16a ist das Bundesinstitut für Arzneimittel und Medizinprodukte Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+
+# § 97 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer eine in
+
+1. § 96 Nummer 1 bis 5b, 7 bis 18e oder Nummer 19 oder
+
+2. § 96 Nummer 6, 20 oder Nummer 21
+
+bezeichnete Handlung fahrlässig begeht.
+
+(2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 8 Absatz 3 ein Arzneimittel in den Verkehr bringt,
+
+2. entgegen § 9 Abs. 1 Arzneimittel, die nicht den Namen oder die Firma des pharmazeutischen Unternehmers tragen, in den Verkehr bringt,
+
+3. entgegen § 9 Abs. 2 Satz 1 Arzneimittel in den Verkehr bringt, ohne seinen Sitz im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu haben,
+
+4. entgegen § 10, auch in Verbindung mit § 109 Abs. 1 Satz 1 oder einer Rechtsverordnung nach § 12 Abs. 1 Nr. 1, Arzneimittel ohne die vorgeschriebene Kennzeichnung in den Verkehr bringt,
+
+5. entgegen § 11 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2a bis 3b oder 4, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 12 Abs. 1 Nr. 1, Arzneimittel ohne die vorgeschriebene Packungsbeilage in den Verkehr bringt,
+
+5a. entgegen § 11 Abs. 7 Satz 1 eine Teilmenge abgibt,
+
+6. einer vollziehbaren Anordnung nach § 18 Abs. 2 zuwiderhandelt,
+
+7. entgegen
+
+a) den §§ 20, 20b Absatz 5, § 20c Absatz 6, § 52a Absatz 8, § 67 Absatz 8 Satz 1, § 72b Absatz 2c Satz 1 oder § 73 Absatz 3b Satz 4,
+
+b) § 21a Absatz 7 Satz 1, § 29 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, entgegen § 29 Absatz 1c Satz 1, § 63c Absatz 2, § 63h Absatz 2, § 63i Absatz 2 Satz 1, § 67 Absatz 6 Satz 1 oder
+
+c) § 67 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit § 69a, entgegen § 67 Absatz 5 Satz 1 oder § 67 Absatz 9 Satz 1
+
+eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+7a. entgegen § 29 Abs. 1a Satz 1, Abs. 1b oder 1d eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+8. entgegen § 30 Abs. 4 Satz 1 Nr. 2 oder § 73 Abs. 1 oder 1a Arzneimittel in den Geltungsbereich dieses Gesetzes verbringt,
+
+9. entgegen § 42b Absatz 1 die Berichte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+10. entgegen § 43 Abs. 1, 2 oder 3 Satz 1 Arzneimittel berufs- oder gewerbsmäßig in den Verkehr bringt oder mit Arzneimitteln, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, Handel treibt oder diese Arzneimittel abgibt,
+
+11. entgegen § 43 Abs. 5 Satz 1 zur Anwendung bei Tieren bestimmte Arzneimittel, die für den Verkehr außerhalb der Apotheken nicht freigegeben sind, in nicht vorschriftsmäßiger Weise abgibt,
+
+12. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 an andere als dort bezeichnete Personen oder Stellen oder entgegen § 47 Abs. 1a abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht,
+
+12a. entgegen § 47 Abs. 4 Satz 1 Muster ohne schriftliche Anforderung, in einer anderen als der kleinsten Packungsgröße oder über die zulässige Menge hinaus abgibt oder abgeben lässt,
+
+13. die in § 47 Abs. 1b oder Abs. 4 Satz 3 oder in § 47a Abs. 2 Satz 2 vorgeschriebenen Nachweise nicht oder nicht richtig führt, oder der zuständigen Behörde auf Verlangen nicht vorlegt,
+
+13a. entgegen § 47a Abs. 2 Satz 1 ein dort bezeichnetes Arzneimittel ohne die vorgeschriebene Kennzeichnung abgibt,
+
+14. entgegen § 50 Abs. 1 Einzelhandel mit Arzneimitteln betreibt,
+
+15. entgegen § 51 Abs. 1 Arzneimittel im Reisegewerbe feilbietet oder Bestellungen darauf aufsucht,
+
+16. entgegen § 52 Abs. 1 Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
+
+16a. entgegen § 52b Absatz 3e Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+17. entgegen § 55 Absatz 8 Satz 1 auch in Verbindung mit Satz 2, einen Stoff, ein Behältnis oder eine Umhüllung verwendet oder eine Darreichungsform anfertigt,
+
+17a. entgegen § 56 Abs. 1 Satz 2 eine Kopie einer Verschreibung nicht oder nicht rechtzeitig übersendet,
+
+18. entgegen § 56 Abs. 2 Satz 1, Abs. 3 oder 4 Satz 1 oder 2 Fütterungsarzneimittel herstellt,
+
+19. entgegen § 56 Absatz 4 Satz 2 eine verfütterungsfertige Mischung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
+
+20. entgegen § 56 Abs. 5 Satz 1 ein Fütterungsarzneimittel verschreibt,
+
+21. entgegen § 56a Abs. 1 Satz 1 Nr. 1, 2, 3 oder 4, jeweils auch in Verbindung mit Satz 3, Arzneimittel,
+
+a) die zur Anwendung bei Tieren bestimmt sind, die nicht der Gewinnung von Lebensmitteln dienen, und nur auf Verschreibung an Verbraucher abgegeben werden dürfen,
+
+b) die ohne Verschreibung an Verbraucher abgegeben werden dürfen,
+
+verschreibt, abgibt oder anwendet,
+
+21a. entgegen § 56a Abs. 1 Satz 4 Arzneimittel-Vormischungen verschreibt oder abgibt,
+
+22. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 57 Abs. 1 erwirbt,
+
+22a. entgegen § 57a Arzneimittel anwendet,
+
+23. entgegen § 58 Abs. 1 Satz 2 oder 3 Arzneimittel bei Tieren anwendet, die der Gewinnung von Lebensmitteln dienen,
+
+23a. entgegen § 58a Absatz 1 Satz 1 oder 2 oder Absatz 3, Absatz 4 Satz 1, Satz 2 oder Satz 3 oder § 58b Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder Absatz 2 Satz 2 Nummer 2 oder Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+23b. entgegen § 58d Absatz 1 Nummer 2 eine dort genannte Feststellung nicht, nicht richtig oder nicht rechtzeitig aufzeichnet,
+
+23c. entgegen § 58d Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt,
+
+23d. entgegen § 58d Absatz 3 Satz 1 einen dort genannten Plan nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+23e. einer vollziehbaren Anordnung nach § 58d Absatz 3 Satz 2 oder Absatz 4 Satz 1 zuwiderhandelt,
+
+24. einer Aufzeichnungs- oder Vorlagepflicht nach § 59 Abs. 4 zuwiderhandelt,
+
+24a. entgegen § 59b Satz 1 Stoffe nicht, nicht richtig oder nicht rechtzeitig überlässt,
+
+24b. entgegen § 59c Satz 1, auch in Verbindung mit Satz 2, einen dort bezeichneten Nachweis nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+
+24c. entgegen § 63a Abs. 1 Satz 1 einen Stufenplanbeauftragten nicht beauftragt oder entgegen § 63a Abs. 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig erstattet,
+
+24d. entgegen § 63a Abs. 1 Satz 6 eine Tätigkeit als Stufenplanbeauftragter ausübt,
+
+24e. entgegen § 63b Absatz 1 ein Pharmakovigilanz-System nicht betreibt,
+
+24f. entgegen § 63b Absatz 2 Nummer 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig ergreift,
+
+24g. entgegen § 63b Absatz 2 Nummer 3 eine Pharmakovigilanz-Stammdokumentation nicht, nicht richtig oder nicht vollständig führt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+24h. entgegen § 63b Absatz 2 Nummer 4 ein Risikomanagement-System für jedes einzelne Arzneimittel nicht, nicht richtig oder nicht vollständig betreibt,
+
+24i. entgegen § 63b Absatz 3 Satz 1 eine dort genannte Information ohne die dort genannte vorherige oder gleichzeitige Mitteilung veröffentlicht,
+
+24j. entgegen § 63d Absatz 1, auch in Verbindung mit Absatz 3 Satz 1 oder Absatz 3 Satz 4, einen Unbedenklichkeitsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24k. entgegen § 63f Absatz 1 Satz 3 einen Abschlussbericht nicht oder nicht rechtzeitig übermittelt,
+
+24l. entgegen § 63g Absatz 1 einen Entwurf des Prüfungsprotokolls nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+24m. entgegen § 63g Absatz 2 Satz 1 mit einer Unbedenklichkeitsstudie beginnt,
+
+24n. entgegen § 63g Absatz 4 Satz 1 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24o. entgegen § 63h Absatz 5 Satz 1, 2 oder Satz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+24p. entgegen § 63i Absatz 3 Satz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
+
+24q. entgegen § 63i Absatz 4 Satz 1 einen Bericht nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+25. einer vollziehbaren Anordnung nach § 64 Abs. 4 Nr. 4, auch in Verbindung mit § 69a, zuwiderhandelt,
+
+26. einer Duldungs- oder Mitwirkungspflicht nach § 66, auch in Verbindung mit § 69a, zuwiderhandelt,
+
+27. entgegen einer vollziehbaren Anordnung nach § 74 Abs. 1 Satz 2 Nr. 3 eine Sendung nicht vorführt,
+
+27a. entgegen § 74a Abs. 1 Satz 1 einen Informationsbeauftragten nicht beauftragt oder entgegen § 74a Abs. 3 eine Mitteilung nicht, nicht vollständig oder nicht rechtzeitig erstattet,
+
+27b. entgegen § 74a Abs. 1 Satz 4 eine Tätigkeit als Informationsbeauftragter ausübt,
+
+28. entgegen § 75 Abs. 1 Satz 1 eine Person als Pharmaberater beauftragt,
+
+29. entgegen § 75 Abs. 1 Satz 3 eine Tätigkeit als Pharmaberater ausübt,
+
+30. einer Aufzeichnungs-, Mitteilungs- oder Nachweispflicht nach § 76 Abs. 1 Satz 2 oder Abs. 2 zuwiderhandelt,
+
+30a. (weggefallen)
+
+31. einer Rechtsverordnung nach § 7 Abs. 2 Satz 2, § 12 Abs. 1 Nr. 3 Buchstabe a, § 12 Abs. 1b, § 54 Abs. 1, § 56a Abs. 3, § 57 Absatz 2 oder Absatz 3, § 58 Abs. 2 oder § 74 Abs. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+32. (weggefallen)
+
+33. (weggefallen)
+
+34. (weggefallen)
+
+35. (weggefallen)
+
+36. (weggefallen)
+
+(2a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen Artikel 1 der Verordnung (EG) Nr. 540/95 der Kommission vom 10. März 1995 zur Festlegung der Bestimmungen für die Mitteilung von vermuteten unerwarteten, nicht schwerwiegenden Nebenwirkungen, die innerhalb oder außerhalb der Gemeinschaft an gemäß der Verordnung (EWG) Nr. 2309/93 zugelassenen Human- oder Tierarzneimitteln festgestellt werden (ABl. L 55 vom 11.3.1995, S. 5), in Verbindung mit § 63h Absatz 7 Satz 2 verstößt, indem er nicht sicherstellt, dass der Europäischen Arzneimittel-Agentur und der zuständigen Bundesoberbehörde eine dort bezeichnete Nebenwirkung mitgeteilt wird.
+
+(2b) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 726/2004 verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 16 Absatz 2 Satz 1 oder Satz 2 in Verbindung mit Artikel 8 Absatz 3 Unterabsatz 1 Buchstabe c bis e, h bis iaa oder Buchstabe ib der Richtlinie 2001/83/EG oder entgegen Artikel 41 Absatz 4 Satz 1 oder 2 in Verbindung mit Artikel 12 Absatz 3 Unterabsatz 1 Satz 2 Buchstabe c bis e, h bis j oder Buchstabe k der Richtlinie 2001/82/EG, jeweils in Verbindung mit § 29 Absatz 4 Satz 2, der Europäischen Arzneimittel-Agentur oder der zuständigen Bundesoberbehörde eine dort genannte Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2. entgegen Artikel 28 Absatz 1 in Verbindung mit Artikel 107 Absatz 1 Unterabsatz 2 der Richtlinie 2001/83/EG nicht dafür sorgt, dass eine Meldung an einer dort genannten Stelle verfügbar ist,
+
+3. entgegen Artikel 49 Absatz 1 Satz 1 oder Absatz 2 Satz 1, jeweils in Verbindung mit § 29 Absatz 4 Satz 2, nicht sicherstellt, dass der zuständigen Bundesoberbehörde oder der Europäischen Arzneimittel-Agentur eine dort bezeichnete Nebenwirkung mitgeteilt wird,
+
+4. entgegen Artikel 49 Absatz 3 Satz 1 eine dort bezeichnete Unterlage nicht, nicht richtig oder nicht vollständig führt.
+
+(2c) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und 2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom 27.12.2006, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 33 Satz 1 ein dort genanntes Arzneimittel nicht, nicht richtig oder nicht rechtzeitig in den Verkehr bringt,
+
+2. einer vollziehbaren Anordnung nach Artikel 34 Absatz 2 Satz 4 zuwiderhandelt,
+
+3. entgegen Artikel 34 Absatz 4 Satz 1 den dort genannten Bericht nicht oder nicht rechtzeitig vorlegt,
+
+4. entgegen Artikel 35 Satz 1 die Genehmigung für das Inverkehrbringen nicht oder nicht rechtzeitig auf einen dort genannten Dritten überträgt und diesem einen Rückgriff auf die dort genannten Unterlagen nicht oder nicht rechtzeitig gestattet,
+
+5. entgegen Artikel 35 Satz 2 eine Unterrichtung nicht, nicht richtig oder nicht rechtzeitig vornimmt, oder
+
+6. entgegen Artikel 41 Absatz 2 Satz 2 ein Ergebnis der dort genannten Prüfung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
+
+(2d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 36, Artikel 37 Absatz 1, 2, 3 oder 5 oder Artikel 54 Absatz 2 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig unterrichtet,
+
+2. entgegen Artikel 37 Absatz 4 Unterabsatz 1 Satz 1 in Verbindung mit Satz 2, Unterabsatz 2 oder Unterabsatz 3, entgegen Artikel 37 Absatz 4 Unterabsatz 4 oder Absatz 8 oder Artikel 43 Absatz 1 ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+3. entgegen Artikel 37 Absatz 6 die zuständige Bundesoberbehörde nicht oder nicht rechtzeitig in Kenntnis setzt,
+
+4. entgegen Artikel 38 Absatz 1 eine Mitteilung nicht oder nicht rechtzeitig macht oder
+
+5. entgegen
+
+a) Artikel 41 Absatz 1 oder 2 Unterabsatz 1 Satz 2 in Verbindung mit Unterabsatz 2 Satz 1 oder entgegen Artikel 41 Absatz 4 oder
+
+b) Artikel 42 Absatz 1 in Verbindung mit Absatz 2 Satz 1, entgegen Artikel 52 Absatz 1 oder Artikel 53 Absatz 1
+
+eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+(2e) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1. entgegen Artikel 18 ein dort genanntes Produkt in den Verkehr bringt oder eine Information nicht oder nicht rechtzeitig gibt,
+
+2. entgegen Artikel 24 Satz 1 ein dort genanntes Produkt abgibt oder ausführt,
+
+3. entgegen Artikel 24 Satz 2 eine Information nicht oder nicht rechtzeitig gibt,
+
+4. entgegen Artikel 30 ein Arzneimittel abgibt oder eine Information nicht oder nicht rechtzeitig gibt oder
+
+5. entgegen Artikel 37 Buchstabe d nicht für die Warnung einer zuständigen Behörde, der Europäischen Arzneimittel-Agentur oder der Kommission sorgt.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen
+
+1. des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer 7a, 9 und 24d bis 24q, der Absätze 2a bis 2c und des Absatzes 2d Nummer 1 bis 4 und 5 Buchstabe b und des Absatzes 2d Nummer 1 bis 5 und 6 Buchstabe b und
 
 2. des Absatzes 2 Nummer 7 Buchstabe c, Nummer 24c und 31 soweit die Tat gegenüber der zuständigen Bundesoberbehörde begangen wird,
 
@@ -5823,6 +7139,14 @@ Für Arzneimittel, die zum Zeitpunkt des Inkrafttretens bereits zugelassen sind,
 # § 147 – Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
 Für nichtinterventionelle Unbedenklichkeitsprüfungen nach § 63f und Untersuchungen nach § 67 Absatz 6, die vor dem 13. August 2013 begonnen wurden, finden § 63f Absatz 4 und § 67 Absatz 6 bis zum 31. Dezember 2013 in der bis zum 12. August 2013 geltenden Fassung Anwendung.
+
+# § 148 – Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+
+(1) Für klinische Prüfungen bei Menschen, für die der Antrag auf Genehmigung vor dem Ablauf des Tages des sechsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, vor dem Ablauf des ersten Tages des darauffolgenden Kalendermonats gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde, sind das Arzneimittelgesetz und die GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die durch Artikel 13 Absatz 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) aufgehoben worden ist, in der jeweils bis zum 26. Januar 2022 geltenden Fassung bis zum Ablauf des Tages des zweiundvierzigsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, bis zum Ablauf des ersten Tages des darauffolgenden Kalendermonats weiter anzuwenden.
+
+(2) Eine klinische Prüfung bei Menschen, für die der Antrag auf Genehmigung vor dem Ablauf des Tages des achtzehnten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, vor dem Ablauf des ersten Tages des drauffolgenden Kalendermonats eingereicht wurde, darf nach dem Arzneimittelgesetz und der GCP-Verordnung in der jeweils bis zum 26. Januar 2022 geltenden Fassung begonnen werden. Für die betreffende klinische Prüfung sind das Arzneimittelgesetz und die GCP-Verordnung in der jeweils bis zum 26. Januar 2022 geltenden Fassung bis zum Ablauf des Tages des zweiundvierzigsten auf den Monat der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union folgenden Kalendermonats, dessen Zahl mit der des Tages der Veröffentlichung übereinstimmt, oder, wenn es einen solchen Kalendertag nicht gibt, bis zum Ablauf des ersten Tages des drauffolgenden Kalendermonats weiter anzuwenden.
+
+(3) Für klinische Prüfungen mit Humanarzneimitteln, die nicht in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen, sind das Arzneimittelgesetz und die GCP-Verordnung in der jeweils am 26. Januar 2022 geltenden Fassung bis zum 23. Dezember 2029 weiter anzuwenden.
 
 # § 149 – Übergangsvorschrift aus Anlass des Siebzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
 

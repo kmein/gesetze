@@ -156,6 +156,10 @@ Der auf Grund des § 12 Absatz 1 des Direktzahlungen-Durchführungsgesetzes beka
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft ermittelt den Kürzungsfaktor nach Absatz 2 und benennt und berücksichtigt ihn bei der Bekanntmachung nach § 12 Absatz 4 oder 5 des Direktzahlungen-Durchführungsgesetzes.
 
+# § 13a – Kürzung der nationalen Reserve
+
+In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 für das Kalenderjahr 2021 wird die nationale Reserve um 20 Millionen Euro gekürzt.
+
 # § 14 – Zuständigkeit
 
 Die Bundesanstalt ist mit Ausnahme des § 13 zuständig für die Überwachung und Berechnung der in der nationalen Reserve zur Verfügung stehenden Mittel.

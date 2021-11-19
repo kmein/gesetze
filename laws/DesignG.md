@@ -653,7 +653,13 @@ Ist der Gegenstand der Anmeldung kein Design im Sinne des § 1 Nummer 1 oder ist
 
 (2) Die Einsicht in die Akten nach Absatz 1 Satz 2 kann bei elektronisch geführten Akten auch über das Internet gewährt werden.
 
-(3) Die Akteneinsicht nach den Absätzen 1 und 2 ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung offensichtlich überwiegt.
+(3) Die Akteneinsicht nach den Absätzen 1 und 2 ist ausgeschlossen, soweit
+
+1. ihr eine Rechtsvorschrift entgegensteht,
+
+2. das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung offensichtlich überwiegt oder
+
+3. sie auf Akteninhalte bezogen ist, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen.
 
 # § 22a – Datenschutz
 
@@ -713,9 +719,11 @@ In Verfahren nach § 23 Absatz 1 erhält der Anmelder auf Antrag unter entsprech
 
 7. die Behandlung der einer Anmeldung zur Wiedergabe des eingetragenen Designs beigefügten Erzeugnisse nach Löschung der Eintragung in das Register,
 
-8. das Verfahren beim Deutschen Patent- und Markenamt für den Schutz von Designs nach dem Haager Abkommen und
+8. das Verfahren beim Deutschen Patent- und Markenamt für den Schutz von Designs nach dem Haager Abkommen,
 
-9. das Verfahren vor dem Deutschen Patent- und Markenamt zur Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs nach § 34a.
+9. das Verfahren vor dem Deutschen Patent- und Markenamt zur Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs nach § 34a und
+
+10. für alle Dienststellen des Deutschen Patent- und Markenamts die Berücksichtigung von gesetzlichen Feiertagen bei Fristen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Beamte des gehobenen und mittleren Dienstes sowie vergleichbare Angestellte mit der Wahrnehmung von Geschäften im Verfahren in Registersachen zu betrauen, die ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten. Ausgeschlossen davon sind jedoch
 
@@ -831,13 +839,15 @@ Zur Stellung des Antrags auf Feststellung der Nichtigkeit nach § 33 Absatz 1 is
 
 (4) Die Entscheidung ergeht durch Beschluss. Der Tenor kann am Ende der Anhörung verkündet werden. Der Beschluss ist zu begründen und den Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf Antrag eines Beteiligten und nur in Papierform erteilt. § 47 Absatz 2 des Patentgesetzes gilt entsprechend.
 
-(5) In dem Beschluss ist über die Kosten des Verfahrens zu entscheiden; § 62 Absatz 2 und § 84 Absatz 2 Satz 2 des Patentgesetzes gelten entsprechend. Für die Festsetzung des Gegenstandswertes gelten § 23 Absatz 3 Satz 2 und § 33 Absatz 1 des Rechtsanwaltsvergütungsgesetzes entsprechend. Der Beschluss über den Gegenstandswert kann mit der Entscheidung aus Satz 1 verbunden werden. In den Fällen des Absatzes 2 Satz 2 und 3 entscheidet das Deutsche Patent- und Markenamt nur auf Antrag über die Kosten des Verfahrens; die Entscheidung über die Kosten kann durch gesonderten Beschluss ergehen. Der Kostenantrag kann wie folgt gestellt werden:
+(5) In dem Beschluss ist über die Kosten des Verfahrens zu entscheiden; § 62 Absatz 2 und § 84 Absatz 2 Satz 2 des Patentgesetzes gelten entsprechend. In den Fällen des Absatzes 2 Satz 2 und 3 entscheidet das Deutsche Patent- und Markenamt nur auf Antrag über die Kosten des Verfahrens; die Entscheidung über die Kosten kann durch gesonderten Beschluss ergehen. Der Kostenantrag kann wie folgt gestellt werden:
 
 1. im Falle des Absatzes 2 Satz 2 bis zum Ablauf von einem Monat nach der Unanfechtbarkeit des Beschlusses über die Feststellung oder Erklärung der Nichtigkeit,
 
 2. im Falle des Absatzes 2 Satz 3 bis zum Ablauf von einem Monat nach Zustellung des Beschlusses über die Einstellung des Verfahrens.
 
 Soweit eine Entscheidung über die Kosten nicht getroffen wird, trägt jeder Beteiligte die ihm erwachsenen Kosten selbst.
+
+(6) Der Gegenstandswert wird auf Antrag durch Beschluss festgesetzt. Wird eine Entscheidung über die Kosten getroffen, kann von Amts wegen über den Gegenstandswert entschieden werden. Der Beschluss über den Gegenstandswert kann mit der Kostenentscheidung verbunden werden. Für die Festsetzung des Gegenstandswertes gelten § 23 Absatz 3 Satz 2 und § 33 Absatz 1 des Rechtsanwaltsvergütungsgesetzes entsprechend.
 
 # § 34b – Aussetzung
 

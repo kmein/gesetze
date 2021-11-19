@@ -1560,7 +1560,7 @@ Die §§ 27 bis 30 gelten entsprechend für durch Anmeldung von Marken begründe
 
 (2) Die Anmeldung einer Marke, deren Anmeldetag feststeht, begründet einen Anspruch auf Eintragung. Dem Eintragungsantrag ist stattzugeben, es sei denn, daß die Anmeldungserfordernisse nicht erfüllt sind oder daß absolute Schutzhindernisse der Eintragung entgegenstehen.
 
-(3) Die Anmeldung einer Marke, die sämtliche Angaben nach § 32 Absatz 2 enthält, wird einschließlich solcher Angaben veröffentlicht, die es erlauben, die Identität des Anmelders festzustellen.
+(3) Die Anmeldung einer Marke, die sämtliche Angaben nach § 32 Absatz 2 enthält, wird einschließlich solcher Angaben veröffentlicht, die es erlauben, die Identität des Anmelders festzustellen. Das Deutsche Patent- und Markenamt kann von einer Veröffentlichung absehen, soweit die Anmeldung eine Marke betrifft, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstößt.
 
 # § 34 – Ausländische Priorität
 
@@ -1702,7 +1702,7 @@ gelöscht werden kann.
 
 # § 47 – Schutzdauer und Verlängerung
 
-(1) Die Schutzdauer einer eingetragenen Marke beginnt mit dem Anmeldetag (§ 33 Absatz 1) und endet zehn Jahre danach.
+(1) Die Schutzdauer einer eingetragenen Marke beträgt zehn Jahre, gerechnet vom Tag der Anmeldung an (§ 33 Absatz 1).
 
 (2) Die Eintragung der Marke wird auf Antrag des Markeninhabers oder einer durch Gesetz oder Vertrag hierzu ermächtigten Person um jeweils zehn Jahre verlängert, sofern die Verlängerungsgebühr entrichtet worden ist.
 
@@ -1830,7 +1830,7 @@ Der Beitritt kann innerhalb von drei Monaten ab Einleitung des Verfahrens nach S
 
 3. in den Fällen des Antrags auf Erklärung der Nichtigkeit wegen des Bestehens einer geographischen Herkunftsangabe mit älterem Zeitrang (§ 13 Abs. 2 Nr. 5) die nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten.
 
-(3) Ist die Klage auf Erklärung der Nichtigkeit vom Inhaber einer eingetragenen Marke mit älterem Zeitrang erhoben worden, so hat er auf Einrede des Beklagten nachzuweisen, dass die Marke innerhalb der letzten fünf Jahre vor Erhebung der Klage gemäß § 26 benutzt worden ist, sofern zu diesem Zeitpunkt seit mindestens fünf Jahren kein Widerspruch mehr gegen sie möglich war. Endet der Zeitraum von fünf Jahren der Nichtbenutzung nach Erhebung der Klage, so hat der Kläger auf Einrede des Beklagten nachzuweisen, daß die Marke innerhalb der letzten fünf Jahre vor dem Schluß der mündlichen Verhandlung gemäß § 26 benutzt worden ist. War die Marke mit älterem Zeitrang am Anmelde- oder Prioritätstag der jüngeren Marke bereits seit mindestens fünf Jahren eingetragen, so hat der Kläger auf Einrede des Beklagten ferner nachzuweisen, dass die Eintragung der Marke mit älterem Zeitrang an diesem Tag nicht nach § 49 Absatz 1 hätte für nichtig erklärt und gelöscht werden können. Bei der Entscheidung werden nur die Waren oder Dienstleistungen berücksichtigt, für die die Benutzung nachgewiesen worden ist.
+(3) Ist die Klage auf Erklärung der Nichtigkeit vom Inhaber einer eingetragenen Marke mit älterem Zeitrang erhoben worden, so hat er auf Einrede des Beklagten nachzuweisen, dass die Marke innerhalb der letzten fünf Jahre vor Erhebung der Klage gemäß § 26 benutzt worden ist, sofern zu diesem Zeitpunkt seit mindestens fünf Jahren kein Widerspruch mehr gegen sie möglich war. Endet der Zeitraum von fünf Jahren der Nichtbenutzung nach Erhebung der Klage, so hat der Kläger auf Einrede des Beklagten nachzuweisen, daß die Marke innerhalb der letzten fünf Jahre vor dem Schluß der mündlichen Verhandlung gemäß § 26 benutzt worden ist. War die Marke mit älterem Zeitrang am Anmelde- oder Prioritätstag der jüngeren Marke bereits seit mindestens fünf Jahren eingetragen, so hat der Kläger auf Einrede des Beklagten ferner nachzuweisen, dass die Eintragung der Marke mit älterem Zeitrang an diesem Tag nicht nach § 49 Absatz 1 hätte für verfallen erklärt und gelöscht werden können. Bei der Entscheidung werden nur die Waren oder Dienstleistungen berücksichtigt, für die die Benutzung nachgewiesen worden ist.
 
 (4) Ist vor oder nach Erhebung der Klage das durch die Eintragung der Marke begründete Recht auf einen anderen übertragen worden oder übergegangen, so ist die Entscheidung in der Sache selbst auch gegen den Rechtsnachfolger wirksam und vollstreckbar. Für die Befugnis des Rechtsnachfolgers, in den Rechtsstreit einzutreten, gelten die §§ 66 bis 74 und 76 der Zivilprozeßordnung entsprechend.
 
@@ -1884,7 +1884,13 @@ Der Beitritt kann innerhalb von drei Monaten ab Einleitung des Verfahrens nach S
 
 (3) Die Einsicht in die Akten nach Absatz 2 kann bei elektronisch geführten Akten auch über das Internet gewährt werden.
 
-(4) Die Akteneinsicht nach den Absätzen 1 bis 3 ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung offensichtlich überwiegt.
+(4) Die Akteneinsicht nach den Absätzen 1 bis 3 ist ausgeschlossen, soweit
+
+1. ihr eine Rechtsvorschrift entgegensteht,
+
+2. das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung offensichtlich überwiegt oder
+
+3. sie auf Akteninhalte bezogen ist, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen.
 
 (5) Die Einsicht in das Register steht jeder Person frei.
 
@@ -1960,7 +1966,9 @@ Im Verfahren vor dem Deutschen Patent- und Markenamt gilt für die Kosten das Pa
 
 13. Beamte und Beamtinnen des mittleren Dienstes oder vergleichbare Angestellte mit der Wahrnehmung von Angelegenheiten zu betrauen, die den Markenstellen oder Markenabteilungen obliegen und die ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten, mit Ausnahme von Entscheidungen über Anmeldungen und Widersprüche,
 
-14. die in die Veröffentlichung nach § 33 Abs. 3 aufzunehmenden Angaben zu regeln und Umfang sowie Art und Weise der Veröffentlichung dieser Angaben festzulegen.
+14. die in die Veröffentlichung nach § 33 Abs. 3 aufzunehmenden Angaben zu regeln und Umfang sowie Art und Weise der Veröffentlichung dieser Angaben festzulegen,
+
+15. für Fristen in Markenangelegenheiten eine für alle Dienststellen des Deutschen Patent- und Markenamts geltende Regelung über die zu berücksichtigenden gesetzlichen Feiertage zu treffen.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigung zum Erlaß von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise dem Deutschen Patent- und Markenamt übertragen.
 
@@ -2898,11 +2906,11 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (1) Wer die Rechte des Inhabers einer Unionsmarke nach Artikel 9 Absatz 1 der Unionsmarkenverordnung verletzt, indem er trotz eines Verbotes und ohne Zustimmung des Markeninhabers im geschäftlichen Verkehr
 
-1. ein mit der Gemeinschaftsmarke identisches Zeichen für Waren oder Dienstleistungen benutzt, die mit denjenigen identisch sind, für die sie eingetragen ist,
+1. ein mit der Unionsmarke identisches Zeichen für Waren oder Dienstleistungen benutzt, die mit denjenigen identisch sind, für die sie eingetragen ist,
 
-2. ein Zeichen benutzt, wenn wegen der Identität oder Ähnlichkeit des Zeichens mit der Gemeinschaftsmarke und der Identität oder Ähnlichkeit der durch die Gemeinschaftsmarke und das Zeichen erfassten Waren oder Dienstleistungen für das Publikum die Gefahr von Verwechslungen besteht, einschließlich der Gefahr, dass das Zeichen mit der Marke gedanklich in Verbindung gebracht wird, oder
+2. ein Zeichen benutzt, wenn wegen der Identität oder Ähnlichkeit des Zeichens mit der Unionsmarke und der Identität oder Ähnlichkeit der durch die Unionsmarke und das Zeichen erfassten Waren oder Dienstleistungen für das Publikum die Gefahr von Verwechslungen besteht, einschließlich der Gefahr, dass das Zeichen mit der Marke gedanklich in Verbindung gebracht wird, oder
 
-3. ein mit der Gemeinschaftsmarke identisches Zeichen oder ein ähnliches Zeichen für Waren oder Dienstleistungen benutzt, die nicht denen ähnlich sind, für die die Gemeinschaftsmarke eingetragen ist, wenn diese in der Gemeinschaft bekannt ist und das Zeichen in der Absicht benutzt wird, die Unterscheidungskraft oder die Wertschätzung der Gemeinschaftsmarke ohne rechtfertigenden Grund in unlauterer Weise auszunutzen oder zu beeinträchtigen,
+3. ein mit der Unionsmarke identisches Zeichen oder ein ähnliches Zeichen für Waren oder Dienstleistungen benutzt, die nicht denen ähnlich sind, für die die Unionsmarke eingetragen ist, wenn diese in der Gemeinschaft bekannt ist und das Zeichen in der Absicht benutzt wird, die Unterscheidungskraft oder die Wertschätzung der Unionsmarke ohne rechtfertigenden Grund in unlauterer Weise auszunutzen oder zu beeinträchtigen,
 
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
