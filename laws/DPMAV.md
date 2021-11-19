@@ -244,7 +244,7 @@ Von einer Sitzung kann ausnahmsweise abgesehen werden, sofern der oder die Vorsi
 
 (3) In Verfahren vor der Markenabteilung bedarf es der Beratung und Abstimmung in einer Sitzung für
 
-1. Beschlüsse nach den §§ 54 und 57 des Markengesetzes und
+1. Beschlüsse nach den §§ 53 und 57 des Markengesetzes und
 
 2. Aufgaben der Markenabteilungen, die nicht von den Vorsitzenden allein bearbeitet werden oder von ihnen an Angehörige der Markenabteilung nach § 56 Abs. 3 Satz 3 des Markengesetzes übertragen worden sind.
 
@@ -264,7 +264,7 @@ Von der Beratung kann abgesehen werden, wenn die jeweils zuständigen Vorsitzend
 
 2. Beschlüsse, in denen dem Vorsitzenden oder einem Angehörigen der Designabteilung Angelegenheiten der Designabteilung zur alleinigen Entscheidung übertragen werden.
 
-Die Entscheidung über den Antrag auf Feststellung oder Erklärung der Nichtigkeit kann nicht übertragen werden.
+Von der Sitzung kann abgesehen werden, wenn der jeweils zuständige Vorsitzende sie nicht für erforderlich hält. Die Entscheidung über den Antrag auf Feststellung oder Erklärung der Nichtigkeit kann nicht übertragen werden.
 
 (4) Die Designabteilungen entscheiden nach Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme ihres jeweiligen Vorsitzenden den Ausschlag.
 
@@ -434,7 +434,7 @@ Zur Erleichterung der Bearbeitung von Anmeldungen teilt das Deutsche Patent- und
 
 2. der Name, der Sitz und die Anschrift des Inhabers des Schutzrechts in der im Register eingetragenen Form,
 
-3. Angaben über die Rechtsnachfolger entsprechend § 4 Abs. 2 Nr. 1, Abs. 3 der Patentverordnung, § 3 Abs. 2 Nr. 1, Abs. 3 der Gebrauchsmusterverordnung, § 5 Abs. 1 bis 4 der Markenverordnung, § 5 Abs. 1 bis 4 der Designverordnung und § 3 Absatz 1 Nummer 5, Absatz 2, 6 Nummer 1 und 2 der Halbleiterschutzverordnung,
+3. Angaben über die Rechtsnachfolger entsprechend § 4 Abs. 2 Nr. 1, Abs. 3 der Patentverordnung, § 3 Abs. 2 Nr. 1, Abs. 3 der Gebrauchsmusterverordnung, § 5 Abs. 1 bis 4 der Markenverordnung, § 6 Absatz 1 bis 4 der Designverordnung und § 3 Absatz 1 Nummer 5, Absatz 2, 6 Nummer 1 und 2 der Halbleiterschutzverordnung,
 
 4. falls die Rechtsnachfolger einen Vertreter bestellt haben, der Name und die Anschrift des Vertreters nach Maßgabe des § 13.
 

@@ -339,7 +339,7 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 5. bei einem Antrag auf Teilnichtigkeit (§ 35 Absatz 1 des Designgesetzes) der Umfang des Nichtigkeitsbegehrens.
 
-(3) Ein Antrag kann auf mehrere in § 33 Absatz 1 oder Absatz 2 des Designgesetzes genannte Nichtigkeitsgründe gestützt werden. Im Antrag können Angaben zum Gegenstandswert gemacht werden, wenn dieser nach § 34a Absatz 5 Satz 2 des Designgesetzes festgesetzt werden soll.
+(3) Ein Antrag kann auf mehrere in § 33 Absatz 1 oder Absatz 2 des Designgesetzes genannte Nichtigkeitsgründe gestützt werden. Im Antrag können Angaben zum Gegenstandswert gemacht werden, wenn dieser nach § 34a Absatz 6 des Designgesetzes festgesetzt werden soll.
 
 # § 22 – Verfahrensgrundsätze
 
