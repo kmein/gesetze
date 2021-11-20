@@ -1895,7 +1895,23 @@ die nach Nummer 3 zulässige Vereinbarung eines Vorbehalts des Verwenders, sich 
 
 a) den Vertragspartner unverzüglich über die Nichtverfügbarkeit zu informieren und
 
-b) Gegenleistungen des Vertragspartners unverzüglich zu erstatten.
+b) Gegenleistungen des Vertragspartners unverzüglich zu erstatten,
+
+9. (Abtretungsausschluss)
+
+eine Bestimmung, durch die die Abtretbarkeit ausgeschlossen wird
+
+a) für einen auf Geld gerichteten Anspruch des Vertragspartners gegen den Verwender oder
+
+b) für ein anderes Recht, das der Vertragspartner gegen den Verwender hat, wenn
+
+aa)  
+beim Verwender ein schützenswertes Interesse an dem Abtretungsausschluss nicht besteht oder
+
+bb)  
+berechtigte Belange des Vertragspartners an der Abtretbarkeit des Rechts das schützenswerte Interesse des Verwenders an dem Abtretungsausschluss überwiegen;
+
+Buchstabe a gilt nicht für Ansprüche aus Zahlungsdiensterahmenverträgen und die Buchstaben a und b gelten nicht für Ansprüche auf Versorgungsleistungen im Sinne des Betriebsrentengesetzes.
 
 (+++ § 308: Zur Anwendung vgl. § 34 BGBEG +++)
 
@@ -2050,7 +2066,7 @@ b) die Sicherheitsleistung nach § 650m Absatz 2 nicht oder nur in geringerer H�
 
 # § 310 – Anwendungsbereich
 
-(1) § 305 Absatz 2 und 3, § 308 Nummer 1, 2 bis 8 und § 309 finden keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber einem Unternehmer, einer juristischen Person des öffentlichen Rechts oder einem öffentlich-rechtlichen Sondervermögen verwendet werden. § 307 Abs. 1 und 2 findet in den Fällen des Satzes 1 auch insoweit Anwendung, als dies zur Unwirksamkeit von in § 308 Nummer 1, 2 bis 8 und § 309 genannten Vertragsbestimmungen führt; auf die im Handelsverkehr geltenden Gewohnheiten und Gebräuche ist angemessen Rücksicht zu nehmen. In den Fällen des Satzes 1 finden § 307 Absatz 1 und 2 sowie § 308 Nummer 1a und 1b auf Verträge, in die die Vergabe- und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der jeweils zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne inhaltliche Abweichungen insgesamt einbezogen ist, in Bezug auf eine Inhaltskontrolle einzelner Bestimmungen keine Anwendung.
+(1) § 305 Absatz 2 und 3, § 308 Nummer 1, 2 bis 9 und § 309 finden keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber einem Unternehmer, einer juristischen Person des öffentlichen Rechts oder einem öffentlich-rechtlichen Sondervermögen verwendet werden. § 307 Abs. 1 und 2 findet in den Fällen des Satzes 1 auch insoweit Anwendung, als dies zur Unwirksamkeit von in § 308 Nummer 1, 2 bis 9 und § 309 genannten Vertragsbestimmungen führt; auf die im Handelsverkehr geltenden Gewohnheiten und Gebräuche ist angemessen Rücksicht zu nehmen. In den Fällen des Satzes 1 finden § 307 Absatz 1 und 2 sowie § 308 Nummer 1a und 1b auf Verträge, in die die Vergabe- und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der jeweils zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne inhaltliche Abweichungen insgesamt einbezogen ist, in Bezug auf eine Inhaltskontrolle einzelner Bestimmungen keine Anwendung.
 
 (2) Die §§ 308 und 309 finden keine Anwendung auf Verträge der Elektrizitäts-, Gas-, Fernwärme- und Wasserversorgungsunternehmen über die Versorgung von Sonderabnehmern mit elektrischer Energie, Gas, Fernwärme und Wasser aus dem Versorgungsnetz, soweit die Versorgungsbedingungen nicht zum Nachteil der Abnehmer von Verordnungen über Allgemeine Bedingungen für die Versorgung von Tarifkunden mit elektrischer Energie, Gas, Fernwärme und Wasser abweichen. Satz 1 gilt entsprechend für Verträge über die Entsorgung von Abwasser.
 
