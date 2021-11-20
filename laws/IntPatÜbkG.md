@@ -165,7 +165,7 @@ Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab Fälligkeit geza
 
 (1) Hat der Anmelder zu einer internationalen Anmeldung, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, beantragt, daß eine internationale vorläufige Prüfung der Anmeldung nach Kapitel II des Patentzusammenarbeitsvertrags durchgeführt wird, und hat er die Bundesrepublik Deutschland als Vertragsstaat angegeben, in dem er die Ergebnisse der internationalen vorläufigen Prüfung verwenden will ("ausgewählter Staat"), so ist das Deutsche Patent- und Markenamt ausgewähltes Amt.
 
-(2) Ist die Auswahl der Bundesrepublik Deutschland vor Ablauf des 19. Monats seit dem Prioritätsdatum erfolgt, so ist § 4 Absatz 2 und 3 mit der Maßgabe anzuwenden, dass an die Stelle des Artikels 23 Absatz 2 des Patentzusammenarbeitsvertrages Artikel 40 Absatz 2 des Patentzusammenarbeitsvertrages tritt.
+(2) Ist die Auswahl der Bundesrepublik Deutschland vor Ablauf des 19. Monats seit dem Prioritätsdatum erfolgt, so ist § 4 Abs. 2 mit der Maßgabe anzuwenden, daß an die Stelle der dort genannten Frist die in Artikel 39 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehene Frist tritt.
 
 # § 7 – Internationaler Recherchenbericht
 

@@ -4086,6 +4086,7 @@
 - [NDÜV](laws/NDÜV.md) Verordnung über die Übermittlung von Auskünften an die Nachrichtendienste des Bundes
 - [NDWV](laws/NDWV.md) Verordnung zur Festlegung von Dosiswerten für frühe Notfallschutzmaßnahmen
 - [Neckar/MainG](laws/Neckar_MainG.md) Gesetz über die Enteignung von Grundeigentum und über die Beitragsleistung bei der Kanalisierung des Neckars von Mannheim bis Plochingen und des Mains von Aschaffenburg bis Bamberg sowie zum Ausbau der Donau von Passau bis Kelheim
+- [NeckarSchlBetrZV](laws/NeckarSchlBetrZV.md) Verordnung über die Festsetzung der Schleusenbetriebszeiten an der Bundeswasserstraße Neckar
 - [NEhelG](laws/NEhelG.md) Gesetz über die rechtliche Stellung der nichtehelichen Kinder
 - [NELEV](laws/NELEV.md) Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen 1
 - [NelkenwV](laws/NelkenwV.md) Verordnung zur Bekämpfung von Nelkenwicklern

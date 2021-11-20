@@ -573,6 +573,12 @@ Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die
 
 (2) Auf einen Reisegutschein nach Artikel 240 § 6 sind die Vorschriften dieses Gesetzes und des Bürgerlichen Gesetzbuchs jeweils in der bis einschließlich 30. Juni 2021 geltenden Fassung weiter anzuwenden; Absatz 1 Nummer 1 und 2 gilt entsprechend. In den Fällen des Artikels 240 § 6 Absatz 6 Satz 2 kann der Reisesicherungsfonds die Reisenden gegen Abtretung derjenigen Ansprüche, die ihnen nach Artikel 240 § 6 Absatz 6 Satz 2 gegen die Bundesrepublik Deutschland zustehen, vollständig entschädigen. Er hat im Fall des Satzes 2 neben den abgetretenen Ansprüchen auch einen Anspruch auf angemessenen Ausgleich des zusätzlichen Abwicklungsaufwands gegen die Bundesrepublik Deutschland.
 
+# § 60 – Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
+
+Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Auf ein Schuldverhältnis, das vor dem 1. März 2022 entstanden ist, ist § 309 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden. Die in § 312k des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Juli 2022 vorgesehenen Pflichten gelten auch im Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
+
+Art. 229 § 60 Satz 2 u. 3 Kursivdruck: Tritt zukünftig in Kraft
+
 # § 1 – (weggefallen)
 
 \-
