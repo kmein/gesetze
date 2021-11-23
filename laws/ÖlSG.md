@@ -17,21 +17,21 @@
 
 # § 2 – Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit; Verordnungsermächtigung
 
-(1) Das Bestehen der nach Artikel VII Absatz 1 des Haftungsübereinkommens von 1992, auch in Verbindung mit § 1 Absatz 2, vorgeschriebenen Versicherung oder sonstigen finanziellen Sicherheit wird durch eine von dem nach Artikel VII Absatz 2 Satz 2 des Haftungsübereinkommens von 1992 zuständigen Vertragsstaat auszustellende Bescheinigung (Öl-Pflichtversicherungsbescheinigung 1992) nachgewiesen. Das Bestehen der nach Artikel 7 Absatz 1 des Bunkeröl-Übereinkommens vorgeschriebenen Versicherung oder sonstigen finanziellen Sicherheit, auch in Verbindung mit § 1 Absatz 2, wird durch eine von dem nach Artikel 7 Absatz 2 Satz 2 des Bunkeröl-Übereinkommens zuständigen Vertragsstaat auszustellende Bescheinigung (Bunkeröl-Pflichtversicherungsbescheinigung) nachgewiesen.
+(1) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Haftungsübereinkommens von 1992 eingetragenen noch die Flagge eines Vertragsstaats des Haftungsübereinkommens von 1992 führenden Seeschiffs, das mehr als zweitausend Tonnen Öl als Bulkladung befördert, hat eine Artikel VII Abs. 1 des Haftungsübereinkommens von 1984 entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrechtzuerhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet.
 
-(2) Dem Eigentümer eines Schiffes, das in das Schiffsregister eines deutschen Gerichts eingetragen ist und die Bundesflagge führt, hat die zuständige Behörde auf Antrag die Öl-Pflichtversicherungsbescheinigung 1992 oder die Bunkeröl-Pflichtversicherungsbescheinigung nach Absatz 1 Satz 1 oder Satz 2 auszustellen, wenn er nachweist, dass eine entsprechende Versicherung oder sonstige finanzielle Sicherheit besteht und kein begründeter Anlass für die Annahme gegeben ist, dass der Sicherheitsgeber nicht in der Lage sein wird, seine Verpflichtungen zu erfüllen.
+(2) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Bunkeröl-Übereinkommens eingetragenen noch die Flagge eines Vertragsstaats des Bunkeröl-Übereinkommens führenden Seeschiffs mit einer Bruttoraumzahl von mehr als 1 000 hat eine Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrecht zu erhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet. Die Mindesthöhe der nach Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens aufrechtzuerhaltenden Versicherung oder sonstigen finanziellen Sicherheit beläuft sich je Schadensereignis auf die Summe der Beträge, auf die der Schiffseigentümer seine Haftung nach Artikel 6 Abs. 1 des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen), beschränken kann.
 
-(3) Dem Eigentümer eines Schiffes, das nicht die Bundesflagge führt, kann die zuständige Behörde die Öl-Pflichtversicherungsbescheinigung 1992 oder die Bunkeröl-Pflichtversicherungsbescheinigung nach Absatz 1 Satz 1 oder Satz 2 auf Antrag ausstellen; Absatz 2 gilt entsprechend.
+(3) Das Bestehen einer Versicherung oder sonstigen finanziellen Sicherheit nach Artikel VII Abs. 1 des Haftungsübereinkommens von 1992, nach Artikel 7 des Bunkeröl-Übereinkommens oder nach Absatz 1 oder Absatz 2 wird durch eine behördliche Bescheinigung nachgewiesen.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen über
+(4) Dem Eigentümer eines Seeschiffs, das im Schiffsregister im Geltungsbereich dieses Gesetzes eingetragen ist, wird die Bescheinigung nach Absatz 3 ausgestellt, wenn er nachweist, daß eine entsprechende Versicherung oder sonstige finanzielle Sicherheit besteht, sofern nicht begründeter Anlaß für die Annahme gegeben ist, daß der Sicherheitsgeber nicht in der Lage sein wird, seine Verpflichtungen zu erfüllen. Satz 1 gilt entsprechend für den Eigentümer eines Seeschiffes im Sinne von Absatz 1 oder Absatz 2, wenn dem Eigentümer nicht bereits eine Bescheinigung ausgestellt worden ist, die nach Artikel VII Abs. 7 des Haftungsübereinkommens von 1992 oder Artikel 7 Abs. 9 des Bunkeröl-Übereinkommens anzuerkennen ist.
+
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen über
 
 1. die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der Bescheinigung,
 
-2. das Verfahren bei der Ausstellung und Einziehung der Bescheinigung,
+2. die Zuständigkeiten und das Verfahren bei der Ausstellung und Einziehung der Bescheinigung,
 
 3. die gebührenpflichtigen Tatbestände für individuell zurechenbare öffentliche Leistungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung.
-
-In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere die Mitteilungspflichten des Eigentümers eines Seeschiffes im Verfahren der Ausstellung der Bescheinigung, auch hinsichtlich nach Ausstellung eintretender Umstände, und im Verfahren der Einziehung der Bescheinigung geregelt werden.
 
 # § 3 – Mitführen der Bescheinigungen; Festhalten des Schiffes
 
