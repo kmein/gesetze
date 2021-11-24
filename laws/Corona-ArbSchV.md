@@ -11,11 +11,11 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 (2) Die Arbeitsschutzverordnungen gemäß § 18 Absatz 1 und 2 des Arbeitsschutzgesetzes und abweichende Vorschriften der Länder zum Infektionsschutz, insbesondere im Zusammenhang mit der Betreuung von Kindern, sowie weitergehende Vorschriften der Länder bleiben unberührt.
 
-(3) Bei der Umsetzung der Anforderungen dieser Verordnung ist die SARS-CoV-2-Arbeitsschutzregel vom 7. Mai 2021 (GMBl 2021, S. 622) in der jeweils geltenden Fassung zu berücksichtigen.
+(3) Bei der Umsetzung der Anforderungen dieser Verordnung ist die SARS-CoV-2-Arbeitsschutzregel vom 7. Mai 2021 (GMBl 2021, S. 622) in der jeweils geltenden Fassung zu berücksichtigen. Zur weiteren Orientierung über geeignete Maßnahmen können insbesondere Handlungsempfehlungen der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin sowie die branchenbezogenen Handlungshilfen der Unfallversicherungsträger herangezogen werden.
 
 # § 2 – Gefährdungsbeurteilung und betriebliches Hygienekonzept
 
-(1) Der Arbeitgeber hat gemäß den §§ 5 und 6 des Arbeitsschutzgesetzes die Gefährdungsbeurteilung hinsichtlich zusätzlich erforderlicher Maßnahmen des betrieblichen Infektionsschutzes zu überprüfen und zu aktualisieren. Auf der Grundlage der Gefährdungsbeurteilung hat der Arbeitgeber in einem Hygienekonzept die erforderlichen Maßnahmen zum betrieblichen Infektionsschutz festzulegen und umzusetzen. Bei der Festlegung und der Umsetzung der Maßnahmen des betrieblichen Infektionsschutzes kann der Arbeitgeber einen ihm bekannten Impf- oder Genesungsstatus der Beschäftigten berücksichtigen. Die festzulegenden Maßnahmen sind auch in den Pausenbereichen und während der Pausenzeiten umzusetzen. Zur weiteren Orientierung über geeignete Maßnahmen nach den Sätzen 1 und 2 können insbesondere die branchenbezogenen Handlungshilfen der Unfallversicherungsträger herangezogen werden.
+(1) Der Arbeitgeber hat gemäß den §§ 5 und 6 des Arbeitsschutzgesetzes die Gefährdungsbeurteilung hinsichtlich zusätzlich erforderlicher Maßnahmen des betrieblichen Infektionsschutzes zu überprüfen und zu aktualisieren. Auf der Grundlage der Gefährdungsbeurteilung hat der Arbeitgeber in einem Hygienekonzept die erforderlichen Maßnahmen zum betrieblichen Infektionsschutz festzulegen und umzusetzen. Bei der Festlegung und der Umsetzung der Maßnahmen des betrieblichen Infektionsschutzes kann der Arbeitgeber einen ihm bekannten Impf- oder Genesungsstatus der Beschäftigten berücksichtigen. Die festzulegenden Maßnahmen sind auch in den Pausenbereichen und während der Pausenzeiten umzusetzen.
 
 (2) Ergibt die Gefährdungsbeurteilung, dass ein Schutz der Beschäftigten durch technische und organisatorische Schutzmaßnahmen nicht ausreichend ist und das Tragen medizinischer Gesichtsmasken (Mund-Nase-Schutz) oder der in der Anlage bezeichneten Atemschutzmasken durch die Beschäftigten erforderlich ist, sind diese vom Arbeitgeber bereitzustellen. Die Beschäftigten haben die vom Arbeitgeber zur Verfügung zu stellenden Masken oder mindestens gleichwertige Masken zu tragen.
 
@@ -23,15 +23,15 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 # § 3 – Kontaktreduktion im Betrieb
 
-Der Arbeitgeber hat alle geeigneten technischen und organisatorischen Maßnahmen zu treffen, um betriebsbedingte Personenkontakte zu reduzieren. Die gleichzeitige Nutzung von Räumen durch mehrere Personen ist auf das betriebsnotwendige Minimum zu reduzieren.
+Der Arbeitgeber hat zu prüfen, welche geeigneten technischen und organisatorischen Maßnahmen getroffen werden können, um betriebsbedingte Personenkontakte zu reduzieren. Die gleichzeitige Nutzung von Räumen durch mehrere Personen ist auf das betriebsnotwendige Minimum zu reduzieren, sofern nicht durch andere Maßnahmen ein gleichwertiger Schutz sichergestellt werden kann.
 
 # § 4 – Tests in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2
 
-(1) Zur Minderung des betrieblichen SARS-CoV-2-Infektionsrisikos hat der Arbeitgeber den Beschäftigten, soweit diese nicht ausschließlich in ihrer Wohnung arbeiten, mindestens zweimal pro Kalenderwoche kostenfrei einen Test in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2 anzubieten, der vom Bundesinstitut für Arzneimittel und Medizinprodukte zugelassen ist.
+(1) Zur Minderung des betrieblichen SARS-CoV-2-Infektionsrisikos hat der Arbeitgeber den Beschäftigten, soweit diese nicht ausschließlich in ihrer Wohnung arbeiten, mindestens zweimal pro Kalenderwoche kostenfrei eine Testung durch In-vitro-Diagnostika, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind und die auf Grund ihrer CE-Kennzeichnung oder auf Grund einer gemäß § 11 Absatz 1 des Medizinproduktegesetzes in der am 25. Mai 2021 geltenden Fassung erteilten Sonderzulassung verkehrsfähig sind, anzubieten.
 
 (2) Testangebote nach Absatz 1 sind nicht erforderlich, soweit der Arbeitgeber durch andere geeignete Schutzmaßnahmen einen gleichwertigen Schutz der Beschäftigten sicherstellt oder einen bestehenden gleichwertigen Schutz nachweisen kann.
 
-(3) Nachweise über die Beschaffung von Tests und Vereinbarungen mit Dritten über die Testung der Beschäftigten hat der Arbeitgeber bis zum Ablauf des 24. November 2021 aufzubewahren. Die Aufbewahrungsfrist nach Satz 1 gilt auch für Nachweise über bis zum 30. Juni 2021 beschaffte Tests und für Nachweise über bis zum 30. Juni 2021 geschlossene Vereinbarungen mit Dritten über die Testung der Beschäftigten nach § 5 Absatz 1 der SARS-CoV-2-Arbeitsschutzverordnung vom 21. Januar 2021 (BAnz AT 22.01.2021 V1), die zuletzt durch Artikel 1 der Verordnung vom 21. April 2021 (BAnz AT 22.04.2021 V1) geändert worden ist.
+(3) Nachweise über die Beschaffung von Tests und Vereinbarungen mit Dritten über die Testung der Beschäftigten hat der Arbeitgeber bis zum Ablauf des 19. März 2022 aufzubewahren. Die Aufbewahrungsfrist nach Satz 1 gilt auch für Nachweise über bis zum 30. Juni 2021 beschaffte Tests und für Nachweise über bis zum 30. Juni 2021 geschlossene Vereinbarungen mit Dritten über die Testung der Beschäftigten nach § 5 Absatz 1 der SARS-CoV-2-Arbeitsschutzverordnung vom 21. Januar 2021 (BAnz AT 22.01.2021 V1), die zuletzt durch Artikel 1 der Verordnung vom 21. April 2021 (BAnz AT 22.04.2021 V1) geändert worden ist.
 
 # § 5 – Schutzimpfungen
 
@@ -39,9 +39,13 @@ Der Arbeitgeber hat alle geeigneten technischen und organisatorischen Maßnahmen
 
 (2) Die Beschäftigten sind im Rahmen der Unterweisung über die Gesundheitsgefährdung bei der Erkrankung an der Coronavirus-Krankheit-2019 (COVID-19) aufzuklären und über die Möglichkeit einer Schutzimpfung zu informieren.
 
-# § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Beratung des Bundesministeriums für Arbeit und Soziales und Konkretisierung der Anforderungen dieser Verordnung
 
-Diese Verordnung tritt am 1. Juli 2021 in Kraft. Sie tritt am Tag der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes, spätestens jedoch mit Ablauf des 24. November 2021 außer Kraft.
+Das Bundesministerium für Arbeit und Soziales kann die beratenden Arbeitsschutzausschüsse nach § 18 Absatz 2 Nummer 5 und § 24a des Arbeitsschutzgesetzes beauftragen, Regeln und Erkenntnisse zu ermitteln, wie die in dieser Verordnung gestellten Anforderungen erfüllt werden können. Empfehlungen dazu können aufgestellt werden. Das Bundesministerium für Arbeit und Soziales kann diese Regeln, Erkenntnisse und Empfehlungen im Gemeinsamen Ministerialblatt bekannt machen.
+
+# § 7 – Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 19. März 2022 außer Kraft.
 
 # Anlage – Einsetzbare Atemschutzmasken
 

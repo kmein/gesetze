@@ -63,61 +63,37 @@ c) von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnun
 
 # § 3 – Gleichstellung von geimpften Personen und genesenen Personen mit getesteten Personen
 
-(1) Die in § 28b Absatz 1 Satz 1 Nummer 4 dritter Teilsatz Buchstabe b, Nummer 5 dritter Teilsatz, Nummer 6 dritter Teilsatz und Nummer 8 zweiter Teilsatz des Infektionsschutzgesetzes vorgesehenen Ausnahmen von Geboten und Verboten für Personen, die ein negatives Ergebnis einer mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen, gelten auch für geimpfte Personen und genesene Personen.
-
-(2) Abweichend von § 28b Absatz 3 des Infektionsschutzgesetzes sind für die Teilnahme am Präsenzunterricht geimpfte oder genesene Personen den getesteten Personen gleichgestellt.
-
-# § 4 – Ausnahmen von der Beschränkung privater Zusammenkünfte nach § 28b Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes
-
-(1) Die Beschränkung privater Zusammenkünfte nach § 28b Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes gilt nicht für eine private Zusammenkunft, an der ausschließlich geimpfte Personen oder genesene Personen teilnehmen.
-
-(2) Bei einer privaten Zusammenkunft im Sinne von § 28b Absatz 1 Satz 1 Nummer 1 des Infektionsschutzgesetzes, an der andere als geimpfte oder genesene Personen teilnehmen, gelten geimpfte Personen und genesene Personen nicht als weitere Person.
-
-(3) Die Anordnung von Schutzmaßnahmen, die zur Abwendung einer Gefahr für Personen, die auf Grund ihres Alters oder ihres Gesundheitszustandes ein erhöhtes Risiko für einen schweren oder tödlichen Krankheitsverlauf haben, erforderlich sind, bleibt unberührt.
-
-# § 5 – Ausnahmen von der Beschränkung des Aufenthalts außerhalb einer Wohnung oder einer Unterkunft nach § 28b Absatz 1 Satz 1 Nummer 2 des Infektionsschutzgesetzes
-
-Die Beschränkung des Aufenthalts außerhalb einer Wohnung oder einer Unterkunft und dem jeweils dazugehörigen befriedeten Besitztum nach § 28b Absatz 1 Satz 1 Nummer 2 des Infektionsschutzgesetzes gilt nicht für geimpfte Personen und genesene Personen.
-
-# § 6 – Ausnahmen von der Beschränkung der Ausübung von Sport nach § 28b Absatz 1 Satz 1 Nummer 6 des Infektionsschutzgesetzes
-
-Die Beschränkung nach § 28b Absatz 1 Satz 1 Nummer 6 erster Halbsatz des Infektionsschutzgesetzes, dass kontaktlose Individualsportarten nur allein, zu zweit oder mit den Angehörigen des eigenen Hausstandes ausgeübt werden dürfen, und § 28b Absatz 1 Satz 1 Nummer 6 zweiter Halbsatz des Infektionsschutzgesetzes, dass für Kinder bis zur Vollendung des 14. Lebensjahres die Ausübung von Sport in Form von kontaktloser Ausübung im Freien nur in Gruppen von höchstens fünf Kindern zulässig ist, gilt nicht für geimpfte Personen und genesene Personen.
-
-# § 7 – Gleichstellung von geimpften Personen und genesenen Personen mit getesteten Personen
-
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Ausnahme von Geboten oder Verboten für Personen, die negativ auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet sind, vorgesehen ist oder erlassen wird, gilt diese Ausnahme auch für geimpfte Personen und genesene Personen.
 
-(2) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht vorgibt oder voraussetzt, dass eine Person negativ auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet ist, gilt diese Vorgabe oder Voraussetzung im Fall von geimpften Personen und genesenen Personen als erfüllt.
+(2) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht vorgibt oder voraussetzt, dass eine Person negativ auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet ist, gilt diese Vorgabe oder Voraussetzung im Fall von geimpften Personen und genesenen Personen als erfüllt. Auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht, kann vorsehen, dass Erleichterungen und Ausnahmen von Schutzmaßnahmen für geimpfte Personen und für genesene Personen nur bestehen, wenn sie ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können.
 
-# § 8 – Ausnahmen von der Beschränkung von Zusammenkünften
+# § 4 – Ausnahmen von der Beschränkung von Zusammenkünften
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht die Anzahl von Personen begrenzt wird, gilt diese Begrenzung nicht für private Zusammenkünfte sowie für ähnliche soziale Kontakte, wenn an der Zusammenkunft ausschließlich geimpfte Personen oder genesene Personen teilnehmen.
 
 (2) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht die Zahl der Teilnehmer bei einer privaten Zusammenkunft oder bei ähnlichen sozialen Kontakten beschränkt, bleiben geimpfte Personen und genesene Personen bei der Ermittlung der Zahl der Teilnehmer unberücksichtigt.
 
-(3) Die Anordnung von Schutzmaßnahmen, die zur Abwendung einer Gefahr für Personen, die auf Grund ihres Alters oder ihres Gesundheitszustandes ein erhöhtes Risiko für einen schweren oder tödlichen Krankheitsverlauf haben, erforderlich sind, bleibt unberührt.
+(3) Die Anordnung von Schutzmaßnahmen, die zur Abwendung einer Gefahr für Personen, die auf Grund ihres Alters oder ihres Gesundheitszustandes ein erhöhtes Risiko für einen schweren oder tödlichen Krankheitsverlauf haben, erforderlich sind, bleibt unberührt. Schutzmaßnahme im Sinne von Satz 1 kann auch die Pflicht geimpfter Personen und genesener Personen sein, ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorzulegen.
 
-# § 9 – Ausnahmen von der Beschränkung des Aufenthalts außerhalb einer Wohnung oder einer Unterkunft
+# § 5 – Ausnahmen von der Beschränkung des Aufenthalts außerhalb einer Wohnung oder einer Unterkunft
 
 Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht den Aufenthalt außerhalb einer Wohnung oder einer Unterkunft und dem jeweils dazugehörigen befriedeten Besitztum beschränkt, gilt eine solche Beschränkung nicht für geimpfte Personen und genesene Personen.
 
-# § 10 – Ausnahmen von Absonderungspflichten
+# § 6 – Ausnahmen von Absonderungspflichten
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur Absonderung vorsieht, gilt diese Pflicht nicht für geimpfte Personen und genesene Personen.
 
 (2) Absatz 1 gilt nicht, wenn die Pflicht zur Absonderung besteht wegen
 
-1. des Kontakts zu einer Person, die mit einer in Deutschland noch nicht verbreitet auftretenden Virusvariante des Coronavirus SARS-CoV-2 mit vom Robert Koch-Institut definierten besorgniserregenden Eigenschaften infiziert ist, oder
+1. des Kontakts zu einer Person, die mit einer Virusvariante des Coronavirus SARS-CoV-2 infiziert ist, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Virusvariante aufweisen oder
 
-2. der Einreise aus einem Virusvarianten-Gebiet im Sinne von § 3 Absatz 2 Satz 1 Nummer 2 der Coronavirus-Einreiseverordnung.
+2. der Einreise aus einem Virusvariantengebiet im Sinne der Coronavirus-Einreiseverordnung.
 
-# § 11 – Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
+# § 7 – Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
 
-Die Landesregierungen werden ermächtigt, Erleichterungen und Ausnahmen von den auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten oder Verboten für geimpfte Personen, genesene Personen und getestete Personen zu regeln, soweit diese Verordnung nichts anderes regelt. Dies gilt im Hinblick auf Schutzmaßnahmen nach § 28b des Infektionsschutzgesetzes nur für weitergehende Schutzmaßnahmen der Länder nach § 28b Absatz 5 des Infektionsschutzgesetzes.
+Die Landesregierungen werden ermächtigt, Erleichterungen und Ausnahmen von den auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten oder Verboten für geimpfte Personen, genesene Personen und getestete Personen zu regeln, soweit diese Verordnung nichts anderes regelt. § 3 Absatz 2 Satz 2 gilt entsprechend.
 
-# § 12 – Inkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+# § 12 – (jetzt § 8)
 
 # Schlussformel
 

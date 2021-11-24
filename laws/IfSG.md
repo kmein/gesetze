@@ -135,7 +135,7 @@ Impfstoffe
 
 § 22
 
-Impfdokumentation, COVID-19-Zertifikate
+Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate
 
 § 23
 
@@ -177,7 +177,7 @@ Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Kran
 
 § 28b
 
-Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei besonderem Infektionsgeschehen, Verordnungsermächtigung
+Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung
 
 § 28c
 
@@ -735,7 +735,7 @@ Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz 1 Nummer 
 
 (8) Aufgrund einer epidemischen Lage von nationaler Tragweite kann das Bundesministerium für Gesundheit im Rahmen der Aufgaben des Bundes insbesondere das Deutsche Rote Kreuz, die Johanniter-Unfall-Hilfe, den Malteser Hilfsdienst, den Arbeiter-Samariter-Bund und die Deutsche Lebens-Rettungs-Gesellschaft gegen Auslagenerstattung beauftragen, bei der Bewältigung der epidemischen Lage von nationaler Tragweite Hilfe zu leisten.
 
-(9) Das Bundesministerium für Gesundheit beauftragt eine externe Evaluation zu den Auswirkungen der Regelungen in dieser Vorschrift und in den Vorschriften der §§ 5a, 28 bis 32, 36 und 56 im Rahmen der nach Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite und zu der Frage einer Reformbedürftigkeit. Die Evaluation soll interdisziplinär erfolgen und insbesondere auf Basis epidemiologischer und medizinischer Erkenntnisse die Wirksamkeit der auf Grundlage der in Satz 1 genannten Vorschriften getroffenen Maßnahmen untersuchen. Die Evaluation soll durch unabhängige Sachverständige erfolgen, die jeweils zur Hälfte von der Bundesregierung und vom Deutschen Bundestag benannt werden. Das Ergebnis der Evaluierung soll der Bundesregierung bis zum 31. Dezember 2021 vorgelegt werden. Die Bundesregierung übersendet dem Deutschen Bundestag bis zum 31. März 2022 das Ergebnis der Evaluierung sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
+(9) Das Bundesministerium für Gesundheit beauftragt eine externe Evaluation zu den Auswirkungen der Regelungen in dieser Vorschrift und in den Vorschriften der §§ 5a, 28 bis 32, 36 und 56 im Rahmen der nach Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite und zu der Frage einer Reformbedürftigkeit. Die Evaluation soll interdisziplinär erfolgen und insbesondere auf Basis epidemiologischer und medizinischer Erkenntnisse die Wirksamkeit der auf Grundlage der in Satz 1 genannten Vorschriften getroffenen Maßnahmen untersuchen. Die Evaluation soll durch unabhängige Sachverständige erfolgen, die jeweils zur Hälfte von der Bundesregierung und vom Deutschen Bundestag benannt werden. Das Ergebnis der Evaluierung soll der Bundesregierung bis zum 30. Juni 2022 vorgelegt werden. Die Bundesregierung übersendet dem Deutschen Bundestag bis zum 30. September 2022 das Ergebnis der Evaluierung sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
 
 # § 5a – Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
 
@@ -1635,7 +1635,7 @@ Wenn der Nachweis nach Absatz 9 Satz 1 nicht innerhalb einer angemessenen Frist 
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung oder einer Impfung nach § 17a Absatz 2 des Soldatengesetzes dürfen Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von den Geimpften ausgeschieden und von anderen Personen aufgenommen werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
-# § 22 – Impfdokumentation, COVID-19-Zertifikate
+# § 22 – Impf-, Genesenen- und Testdokumentation, COVID-19-Zertifikate
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der Impfausweis nicht vorgelegt wird, in einer Impfbescheinigung zu dokumentieren (Impfdokumentation).
 
@@ -1662,6 +1662,26 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 3. Stellen, bei denen die sich aus einem Impfschaden ergebenden Ansprüche geltend gemacht werden können.
 
 (4) In der Impfdokumentation ist über notwendige Folge- und Auffrischimpfungen mit Terminvorschlägen zu informieren, so dass die geimpfte Person diese rechtzeitig wahrnehmen kann.
+
+(4a) Die zur Durchführung oder Überwachung einer Testung in Bezug auf einen positiven Erregernachweis des Coronavirus SARS-CoV-2 befugte Person hat jede Durchführung oder Überwachung einer solchen Testung unverzüglich zu dokumentieren (Genesenendokumentation). Andere als in Satz 1 genannte Personen dürfen eine dort genannte Testung nicht dokumentieren.
+
+(4b) Die Genesenendokumentation muss zu jeder Testung folgende Angaben enthalten:
+
+1. Datum der Testung,
+
+2. Name der getesteten Person und deren Geburtsdatum sowie Name und Anschrift der für die Testung verantwortlichen Person,
+
+3. Angaben zur Testung, einschließlich der Art der Testung.
+
+(4c) Die zur Durchführung oder Überwachung einer Testung in Bezug auf einen negativen Erregernachweis des Coronavirus SARS-CoV-2 befugte Person hat jede Durchführung oder Überwachung einer solchen Testung unverzüglich zu dokumentieren (Testdokumentation). Andere als in Satz 1 genannte Personen dürfen eine dort genannte Testung nicht dokumentieren.
+
+(4d) Die Testdokumentation muss zu jeder Testung folgende Angaben enthalten:
+
+1. Datum der Testung,
+
+2. Name der getesteten Person und deren Geburtsdatum,
+
+3. Angaben zur Testung, einschließlich der Art der Testung.
 
 (5) Zusätzlich zu der Impfdokumentation ist auf Wunsch der geimpften Person die Durchführung einer Schutzimpfung gegen das Coronavirus SARS-CoV-2 in einem digitalen Zertifikat (COVID-19-Impfzertifikat) durch folgende Personen zu bescheinigen:
 
@@ -1872,7 +1892,7 @@ Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des Tiergesundheitsgesetz
 
 # § 28 – Schutzmaßnahmen
 
-(1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die in § 28a Absatz 1 und in den §§ 29 bis 31 genannten, soweit und solange es zur Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich ist; sie kann insbesondere Personen verpflichten, den Ort, an dem sie sich befinden, nicht oder nur unter bestimmten Bedingungen zu verlassen oder von ihr bestimmte Orte oder öffentliche Orte nicht oder nur unter bestimmten Bedingungen zu betreten. Unter den Voraussetzungen von Satz 1 kann die zuständige Behörde Veranstaltungen oder sonstige Ansammlungen von Menschen beschränken oder verbieten und Badeanstalten oder in § 33 genannte Gemeinschaftseinrichtungen oder Teile davon schließen. Eine Heilbehandlung darf nicht angeordnet werden. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
+(1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die in § 28a und in den §§ 29 bis 31 genannten, soweit und solange es zur Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich ist; sie kann insbesondere Personen verpflichten, den Ort, an dem sie sich befinden, nicht oder nur unter bestimmten Bedingungen zu verlassen oder von ihr bestimmte Orte oder öffentliche Orte nicht oder nur unter bestimmten Bedingungen zu betreten. Unter den Voraussetzungen von Satz 1 kann die zuständige Behörde Veranstaltungen oder sonstige Ansammlungen von Menschen beschränken oder verbieten und Badeanstalten oder in § 33 genannte Gemeinschaftseinrichtungen oder Teile davon schließen. Eine Heilbehandlung darf nicht angeordnet werden. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
 
 (2) Wird festgestellt, dass eine Person in einer Gemeinschaftseinrichtung an Masern erkrankt, dessen verdächtig oder ansteckungsverdächtig ist, kann die zuständige Behörde Personen, die weder einen Impfschutz, der den Empfehlungen der Ständigen Impfkommission entspricht, noch eine Immunität gegen Masern durch ärztliches Zeugnis nachweisen können, die in § 34 Absatz 1 Satz 1 und 2 genannten Verbote erteilen, bis eine Weiterverbreitung der Krankheit in der Gemeinschaftseinrichtung nicht mehr zu befürchten ist.
 
@@ -1886,7 +1906,7 @@ Das Gesundheitsamt übermittelt der nach § 4 Absatz 1 des Tiergesundheitsgesetz
 
 2. Verpflichtung zum Tragen einer Mund-Nasen-Bedeckung (Maskenpflicht),
 
-2a. Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises.
+2a. Verpflichtung zur Vorlage eines Impf-, Genesenen- oder Testnachweises,
 
 3. Ausgangs- oder Kontaktbeschränkungen im privaten sowie im öffentlichen Raum,
 
@@ -1936,129 +1956,99 @@ Schutzmaßnahmen nach Absatz 1 Nummer 15 dürfen nicht zur vollständigen Isolat
 
 (6) Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1, nach § 28 Absatz 1 Satz 1 und 2 und nach den §§ 29 bis 31 können auch kumulativ angeordnet werden, soweit und solange es für eine wirksame Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich ist. Bei Entscheidungen über Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) sind soziale, gesellschaftliche und wirtschaftliche Auswirkungen auf den Einzelnen und die Allgemeinheit einzubeziehen und zu berücksichtigen, soweit dies mit dem Ziel einer wirksamen Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) vereinbar ist. Einzelne soziale, gesellschaftliche oder wirtschaftliche Bereiche, die für die Allgemeinheit von besonderer Bedeutung sind, können von den Schutzmaßnahmen ausgenommen werden, soweit ihre Einbeziehung zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) nicht zwingend erforderlich ist.
 
-(7) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können die Absätze 1 bis 6 auch angewendet werden, soweit und solange die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die weitere Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung der weiteren Anwendbarkeit der Absätze 1 bis 6 die weitere Anwendbarkeit der Absätze 1 bis 6 erneut feststellt.
+(7) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können folgende Maßnahmen notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 sein, soweit sie zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich sind:
 
-# § 28b – Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei besonderem Infektionsgeschehen, Verordnungsermächtigung
+1. die Anordnung eines Abstandsgebots im öffentlichen Raum, insbesondere in öffentlich zugänglichen Innenräumen,
 
-(1) Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die durch das Robert Koch-Institut veröffentlichte Anzahl der Neuinfektionen mit dem Coronavirus SARS-CoV-2 je 100 000 Einwohner innerhalb von sieben Tagen (Sieben-Tage-Inzidenz) den Schwellenwert von 100, so gelten dort ab dem übernächsten Tag die folgenden Maßnahmen:
+2. die Anordnung von Kontaktbeschränkungen im privaten sowie im öffentlichen Raum,
 
-1. private Zusammenkünfte im öffentlichen oder privaten Raum sind nur gestattet, wenn an ihnen höchstens die Angehörigen eines Haushalts und eine weitere Person einschließlich der zu ihrem Haushalt gehörenden Kinder bis zur Vollendung des 14. Lebensjahres teilnehmen; Zusammenkünfte, die ausschließlich zwischen den Angehörigen desselben Haushalts, ausschließlich zwischen Ehe- oder Lebenspartnerinnen und -partnern, oder ausschließlich in Wahrnehmung eines Sorge- oder Umgangsrechts oder im Rahmen von Veranstaltungen bis 30 Personen bei Todesfällen stattfinden, bleiben unberührt;
+3. die Verpflichtung zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar) oder einer medizinischen Gesichtsmaske (Mund-Nasen-Schutz),
 
-2. der Aufenthalt von Personen außerhalb einer Wohnung oder einer Unterkunft und dem jeweils dazugehörigen befriedeten Besitztum ist von 22 Uhr bis 5 Uhr des Folgetags untersagt; dies gilt nicht für Aufenthalte, die folgenden Zwecken dienen:
+4. die Verpflichtung zur Vorlage von Impf-, Genesenen- oder Testnachweisen sowie an die Vorlage solcher Nachweise anknüpfende Beschränkungen des Zugangs in den oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen,
 
-a) der Abwendung einer Gefahr für Leib, Leben oder Eigentum, insbesondere eines medizinischen oder veterinärmedizinischen Notfalls oder anderer medizinisch unaufschiebbarer Behandlungen,
+5. die Verpflichtung zur Erstellung und Anwendung von Hygienekonzepten, auch unter Vorgabe von Personenobergrenzen, für die in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betriebe, Gewerbe, Einrichtungen, Angebote, Veranstaltungen, Reisen und Ausübungen,
 
-b) der Berufsausübung im Sinne des Artikels 12 Absatz 1 des Grundgesetzes, soweit diese nicht gesondert eingeschränkt ist, der Ausübung des Dienstes oder des Mandats, der Berichterstattung durch Vertreterinnen und Vertreter von Presse, Rundfunk, Film und anderer Medien,
+6. die Beschränkung der Anzahl von Personen in oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen,
 
-c) der Wahrnehmung des Sorge- oder Umgangsrechts,
+7. die Erteilung von Auflagen für die Fortführung des Betriebs von Gemeinschaftseinrichtungen im Sinne von § 33, Hochschulen, außerschulischen Einrichtungen der Erwachsenenbildung oder ähnlichen Einrichtungen und
 
-d) der unaufschiebbaren Betreuung unterstützungsbedürftiger Personen oder Minderjähriger oder der Begleitung Sterbender,
+8. die Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen oder Veranstaltungsteilnehmern in den oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen, um nach Auftreten einer Infektion mit dem Coronavirus SARS-CoV-2 mögliche Infektionsketten nachverfolgen und unterbrechen zu können; dabei kann auch angeordnet werden, dass die Nachverfolgung und Unterbrechung von Infektionsketten vorrangig durch die Bereitstellung der QR-Code-Registrierung für die Corona-Warn-App des Robert Koch-Instituts erfolgt.
 
-e) der Versorgung von Tieren,
+Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 2 bleiben unberührt. Die Absätze 3 bis 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
 
-f) aus ähnlich gewichtigen und unabweisbaren Zwecken oder
+(8) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können die Absätze 1 bis 6 auch angewendet werden, soweit und solange die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt, mit der Maßgabe, dass folgende Schutzmaßnahmen ausgeschlossen sind:
 
-g) zwischen 22 und 24 Uhr der im Freien stattfindenden allein ausgeübten körperlichen Bewegung, nicht jedoch in Sportanlagen;
+1. die Anordnung von Ausgangsbeschränkungen,
 
-3. die Öffnung von Freizeiteinrichtungen wie insbesondere Freizeitparks, Indoorspielplätzen, von Einrichtungen wie Badeanstalten, Spaßbädern, Hotelschwimmbädern, Thermen und Wellnesszentren sowie Saunen, Solarien und Fitnessstudios, von Einrichtungen wie insbesondere Diskotheken, Clubs, Spielhallen, Spielbanken, Wettannahmestellen, Prostitutionsstätten und Bordellbetrieben, gewerblichen Freizeitaktivitäten, Stadt-, Gäste- und Naturführungen aller Art, Seilbahnen, Fluss- und Seenschifffahrt im Ausflugsverkehr, touristischen Bahn- und Busverkehren und Flusskreuzfahrten, ist untersagt;
+2. die Untersagung der Sportausübung,
 
-4. die Öffnung von Ladengeschäften und Märkten mit Kundenverkehr für Handelsangebote ist untersagt; wobei der Lebensmittelhandel einschließlich der Direktvermarktung, ebenso Getränkemärkte, Reformhäuser, Babyfachmärkte, Apotheken, Sanitätshäuser, Drogerien, Optiker, Hörakustiker, Tankstellen, Stellen des Zeitungsverkaufs, Buchhandlungen, Blumenfachgeschäfte, Tierbedarfsmärkte, Futtermittelmärkte, Gartenmärkte und der Großhandel mit den Maßgaben ausgenommen sind, dass
+3. die Untersagung von Veranstaltungen, Ansammlungen, Aufzügen, Versammlungen sowie religiösen oder weltanschaulichen Zusammenkünften,
 
-a) der Verkauf von Waren, die über das übliche Sortiment des jeweiligen Geschäfts hinausgehen, untersagt ist,
+4. die in Absatz 1 Nummer 11 bis 14 genannten Schutzmaßnahmen und
 
-b) für die ersten 800 Quadratmeter Gesamtverkaufsfläche eine Begrenzung von einer Kundin oder einem Kunden je 20 Quadratmeter Verkaufsfläche und oberhalb einer Gesamtverkaufsfläche von 800 Quadratmetern eine Begrenzung von einer Kundin oder einem Kunden je 40 Quadratmeter Verkaufsfläche eingehalten wird, wobei es den Kundinnen und Kunden unter Berücksichtigung der konkreten Raumverhältnisse grundsätzlich möglich sein muss, beständig einen Abstand von mindestens 1,5 Metern zueinander einzuhalten und
+5. die Schließung von Gemeinschaftseinrichtungen im Sinne von § 33;
 
-c) in geschlossenen Räumen von jeder Kundin und jedem Kunden eine Atemschutzmaske (FFP2 oder vergleichbar) oder eine medizinische Gesichtsmaske (Mund-Nase-Schutz) zu tragen ist;
+Absatz 7 bleibt unberührt. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die weitere Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung der weiteren Anwendbarkeit der Absätze 1 bis 6 die weitere Anwendbarkeit der Absätze 1 bis 6 erneut feststellt.
 
-abweichend von Halbsatz 1 ist
+(9) Absatz 1 bleibt nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite bis längstens zum Ablauf des 15. Dezember 2021 für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 anwendbar, die bis zum 25. November 2021 in Kraft getreten sind. Satz 1 gilt für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 entsprechend, sofern das Parlament in dem betroffenen Land die Rechtsverordnungen nicht aufhebt. Die Anordnung von Schutzmaßnahmen nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 oder nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 bleibt unberührt.
 
-a) die Abholung vorbestellter Waren in Ladengeschäften zulässig, wobei die Maßgaben des Halbsatzes 1 Buchstabe a bis c entsprechend gelten und Maßnahmen vorzusehen sind, die, etwa durch gestaffelte Zeitfenster, eine Ansammlung von Kunden vermeiden;
+(10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss spätestens mit Ablauf des 19. März 2022 außer Kraft treten. Nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des 19. März 2022 aufgehoben werden. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekanntzumachenden Beschluss einmalig die Fristen nach den Sätzen 1 und 2 um bis zu drei Monate verlängern.
 
-b) bis zu dem übernächsten Tag, nachdem die Sieben-Tage-Inzidenz an drei aufeinander folgenden Tagen den Schwellenwert von 150 überschritten hat, auch die Öffnung von Ladengeschäften für einzelne Kunden nach vorheriger Terminbuchung für einen fest begrenzten Zeitraum zulässig, wenn die Maßgaben des Halbsatzes 1 Buchstabe a und c beachtet werden, die Zahl der gleichzeitig im Ladengeschäft anwesenden Kunden nicht höher ist als ein Kunde je 40 Quadratmeter Verkaufsfläche, die Kundin oder der Kunde ein negatives Ergebnis einer innerhalb von 24 Stunden vor Inanspruchnahme der Leistung mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorgelegt hat und der Betreiber die Kontaktdaten der Kunden, mindestens Name, Vorname, eine sichere Kontaktinformation (Telefonnummer, E-Mail-Adresse oder Anschrift) sowie den Zeitraum des Aufenthaltes, erhebt;
+# § 28b – Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung
 
-5. die Öffnung von Einrichtungen wie Theatern, Opern, Konzerthäusern, Bühnen, Musikclubs, Museen, Ausstellungen, Gedenkstätten sowie entsprechende Veranstaltungen sind untersagt; dies gilt auch für Kinos mit Ausnahme von Autokinos; die Außenbereiche von zoologischen und botanischen Gärten dürfen geöffnet werden, wenn angemessene Schutz- und Hygienekonzepte eingehalten werden und durch die Besucherin oder den Besucher, ausgenommen Kinder, die das 6. Lebensjahr noch nicht vollendet haben, ein negatives Ergebnis einer innerhalb von 24 Stunden vor Beginn des Besuchs mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorgelegt wird;
+(1) Arbeitgeber und Beschäftigte dürfen Arbeitsstätten, in denen physische Kontakte von Arbeitgebern und Beschäftigten untereinander oder zu Dritten nicht ausgeschlossen werden können, nur betreten und Arbeitgeber dürfen Transporte von mehreren Beschäftigten zur Arbeitsstätte oder von der Arbeitsstätte nur durchführen, wenn sie geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) mit sich führen, zur Kontrolle verfügbar halten oder bei dem Arbeitgeber hinterlegt haben. Sofern die dem Testnachweis zugrunde liegende Testung mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, darf diese abweichend von § 2 Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) maximal 48 Stunden zurückliegen. Abweichend von Satz 1 ist Arbeitgebern und Beschäftigten ein Betreten der Arbeitsstätte erlaubt, um
 
-6. die Ausübung von Sport ist nur zulässig in Form von kontaktloser Ausübung von Individualsportarten, die allein, zu zweit oder mit den Angehörigen des eigenen Hausstands ausgeübt werden sowie bei Ausübung von Individual- und Mannschaftssportarten im Rahmen des Wettkampf- und Trainingsbetriebs der Berufssportler und der Leistungssportler der Bundes- und Landeskader, wenn
+1. unmittelbar vor der Arbeitsaufnahme ein Testangebot des Arbeitgebers zur Erlangung eines Nachweises im Sinne des § 4 Absatz 1 der SARS-CoV-2-Arbeitsschutzverordnung vom 25. Juni 2021 (BAnz AT 28.06.2021 V1), die durch Artikel 1 der Verordnung vom 6. September 2021 (BAnz AT 09.09.2021 V1) geändert worden ist, wahrzunehmen oder
 
-a) die Anwesenheit von Zuschauern ausgeschlossen ist,
+2. ein Impfangebot des Arbeitgebers wahrzunehmen.
 
-b) nur Personen Zutritt zur Sportstätte erhalten, die für den Wettkampf- oder Trainingsbetrieb oder die mediale Berichterstattung erforderlich sind, und
+Der Arbeitgeber hat seine Beschäftigten bei Bedarf in barrierefrei zugänglicher Form über die betrieblichen Zugangsregelungen zu informieren.
 
-c) angemessene Schutz- und Hygienekonzepte eingehalten werden;
+(2) Arbeitgeber, Beschäftigte und Besucher in den folgenden Einrichtungen und Unternehmen dürfen diese nur betreten, wenn sie getestete Personen im Sinne des § 2 Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und einen Testnachweis mit sich führen:
 
-für Kinder bis zur Vollendung des 14. Lebensjahres ist die Ausübung von Sport ferner zulässig in Form von kontaktloser Ausübung im Freien in Gruppen von höchstens fünf Kindern; Anleitungspersonen müssen auf Anforderung der nach Landesrecht zuständigen Behörde ein negatives Ergebnis einer innerhalb von 24 Stunden vor der Sportausübung mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen;
+1. Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 mit der Maßgabe, dass Vorsorge- und Rehabilitationseinrichtungen auch dann umfasst sind, wenn dort keine den Krankenhäusern vergleichbare medizinische Versorgung erfolgt, und
 
-7. die Öffnung von Gaststätten im Sinne des Gaststättengesetzes ist untersagt; dies gilt auch für Speiselokale und Betriebe, in denen Speisen zum Verzehr an Ort und Stelle abgegeben werden; von der Untersagung sind ausgenommen:
+2. Einrichtungen und Unternehmen nach § 36 Absatz 1 Nummer 2 und 7.
 
-a) Speisesäle in medizinischen oder pflegerischen Einrichtungen oder Einrichtungen der Betreuung,
+In oder von den in Satz 1 genannten Einrichtungen und Unternehmen behandelte, betreute, gepflegte oder untergebrachte Personen gelten nicht als Besucher im Sinne des Satzes 1. Absatz 1 Satz 2 gilt entsprechend. Für Arbeitgeber und Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind, kann die zugrunde liegende Testung auch durch Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen. Eine Testung nach Absatz 1 Satz 2 muss für Arbeitgeber und Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind, höchstens zweimal pro Kalenderwoche wiederholt werden. Absatz 1 Satz 3 und 4 gilt entsprechend. Die in Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, ein einrichtungs- oder unternehmensbezogenes Testkonzept zu erstellen. Im Rahmen des Testkonzepts haben sie Testungen auf eine Infektion mit dem Coronavirus SARS-CoV-2 für alle Beschäftigten und Besucher anzubieten.
 
-b) gastronomische Angebote in Beherbergungsbetrieben, die ausschließlich der Bewirtung der zulässig beherbergten Personen dienen,
+(3) Alle Arbeitgeber sowie die Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, die Einhaltung der Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 durch Nachweiskontrollen täglich zu überwachen und regelmäßig zu dokumentieren. Alle Arbeitgeber und jeder Beschäftigte sowie Besucher der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, einen entsprechenden Nachweis auf Verlangen vorzulegen. Soweit es zur Erfüllung der Pflichten aus Satz 1 erforderlich ist, darf der Arbeitgeber sowie die Leitung der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen zu diesem Zweck personenbezogene Daten einschließlich Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Die Daten dürfen auch zur Anpassung des betrieblichen Hygienekonzepts auf Grundlage der Gefährdungsbeurteilung gemäß den §§ 5 und 6 des Arbeitsschutzgesetzes verwendet werden, soweit dies erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Die zuständige Behörde kann von jedem Arbeitgeber sowie von den Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen die zur Durchführung ihrer Überwachungsaufgabe erforderlichen Auskünfte verlangen. Die in Absatz 2 Satz 1 genannten Einrichtungen oder Unternehmen sind verpflichtet, der zuständigen Behörde zweiwöchentlich folgende Angaben in anonymisierter Form zu übermitteln:
 
-c) Angebote, die für die Versorgung obdachloser Menschen erforderlich sind,
+1. Angaben zu den durchgeführten Testungen, jeweils bezogen auf Personen, die in der Einrichtung oder dem Unternehmen beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind, sowie bezogen auf Besuchspersonen und
 
-d) die Bewirtung von Fernbusfahrerinnen und Fernbusfahrern sowie Fernfahrerinnen und Fernfahrern, die beruflich bedingt Waren oder Güter auf der Straße befördern und dies jeweils durch eine Arbeitgeberbescheinigung nachweisen können,
+2. Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der Einrichtung oder dem Unternehmen beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind.
 
-e) nichtöffentliche Personalrestaurants und nichtöffentliche Kantinen, wenn deren Betrieb zur Aufrechterhaltung der Arbeitsabläufe beziehungsweise zum Betrieb der jeweiligen Einrichtung zwingend erforderlich ist, insbesondere, wenn eine individuelle Speiseneinnahme nicht in getrennten Räumen möglich ist;
+Die in Absatz 2 Satz 1 genannten Einrichtungen oder Unternehmen dürfen den Impf- und Teststatus der Personen, die dort behandelt, betreut oder gepflegt werden oder untergebracht sind, erheben; diese Daten dürfen nur zur Beurteilung der Gefährdungslage in der Einrichtung oder dem Unternehmen im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19) und zur Vorbereitung der Berichterstattung nach Satz 7 verarbeitet werden. Die nach Satz 3 und nach Satz 8 erhobenen Daten sind spätestens am Ende des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt.
 
-ausgenommen von der Untersagung sind ferner die Auslieferung von Speisen und Getränken sowie deren Abverkauf zum Mitnehmen; erworbene Speisen und Getränke zum Mitnehmen dürfen nicht am Ort des Erwerbs oder in seiner näheren Umgebung verzehrt werden; der Abverkauf zum Mitnehmen ist zwischen 22 Uhr und 5 Uhr untersagt; die Auslieferung von Speisen und Getränken bleibt zulässig;
+(4) Der Arbeitgeber hat den Beschäftigten im Fall von Büroarbeit oder vergleichbaren Tätigkeiten anzubieten, diese Tätigkeiten in deren Wohnung auszuführen, wenn keine zwingenden betriebsbedingten Gründe entgegenstehen. Die Beschäftigten haben dieses Angebot anzunehmen, soweit ihrerseits keine Gründe entgegenstehen. Die zuständigen Behörden für den Vollzug der Sätze 1 und 2 bestimmen die Länder nach § 54 Satz 1.
 
-8. die Ausübung und Inanspruchnahme von Dienstleistungen, bei denen eine körperliche Nähe zum Kunden unabdingbar ist, ist untersagt; wobei Dienstleistungen, die medizinischen, therapeutischen, pflegerischen oder seelsorgerischen Zwecken dienen, sowie Friseurbetriebe und die Fußpflege jeweils mit der Maßgabe ausgenommen sind, dass von den Beteiligten unbeschadet der arbeitsschutzrechtlichen Bestimmungen und, soweit die Art der Leistung es zulässt, Atemschutzmasken (FFP2 oder vergleichbar) zu tragen sind und vor der Wahrnehmung von Dienstleistungen eines Friseurbetriebs oder der Fußpflege durch die Kundin oder den Kunden ein negatives Ergebnis einer innerhalb von 24 Stunden vor Inanspruchnahme der Dienstleistung mittels eines anerkannten Tests durchgeführten Testung auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorzulegen ist;
+(5) Die Verkehrsmittel des Luftverkehrs, des öffentlichen Personennahverkehrs und des öffentlichen Personenfernverkehrs dürfen von Fahr- oder Fluggästen sowie dem Kontroll- und Servicepersonal nur benutzt werden, wenn
 
-9. bei der Beförderung von Personen im öffentlichen Personennah- oder ‑fernverkehr einschließlich der entgeltlichen oder geschäftsmäßigen Beförderung von Personen mit Kraftfahrzeugen samt Taxen und Schülerbeförderung besteht für Fahrgäste sowohl während der Beförderung als auch während des Aufenthalts in einer zu dem jeweiligen Verkehr gehörenden Einrichtung die Pflicht zum Tragen einer Atemschutzmaske (FFP2 oder vergleichbar); eine Höchstbesetzung der jeweiligen Verkehrsmittel mit der Hälfte der regulär zulässigen Fahrgastzahlen ist anzustreben; für das Kontroll- und Servicepersonal, soweit es in Kontakt mit Fahrgästen kommt, gilt die Pflicht zum Tragen einer medizinischen Gesichtsmaske (Mund-Nase-Schutz);
+1. sie, mit Ausnahmen von Schülerinnen und Schülern und der Beförderung in Taxen, geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und
 
-10. die Zurverfügungstellung von Übernachtungsangeboten zu touristischen Zwecken ist untersagt.
+2. sie während der Beförderung eine Atemschutzmaske (FFP2 oder vergleichbar) oder eine medizinische Gesichtsmaske (Mund-Nasen-Schutz) tragen.
 
-Das Robert Koch-Institut veröffentlicht im Internet unter https://www.rki.de/inzidenzen für alle Landkreise und kreisfreien Städte fortlaufend die Sieben-Tage-Inzidenz der letzten 14 aufeinander folgenden Tage. Die nach Landesrecht zuständige Behörde macht in geeigneter Weise die Tage bekannt, ab dem die jeweiligen Maßnahmen nach Satz 1 in einem Landkreis oder einer kreisfreien Stadt gelten. Die Bekanntmachung nach Satz 3 erfolgt unverzüglich, nachdem aufgrund der Veröffentlichung nach Satz 2 erkennbar wurde, dass die Voraussetzungen des Satzes 1 eingetreten sind.
+Eine Atemschutzmaske oder eine medizinische Gesichtsmaske muss nicht getragen werden von
 
-(2) Unterschreitet in einem Landkreis oder einer kreisfreien Stadt ab dem Tag nach dem Eintreten der Maßnahmen des Absatzes 1 an fünf aufeinander folgenden Werktagen die Sieben-Tage-Inzidenz den Schwellenwert von 100, so treten an dem übernächsten Tag die Maßnahmen des Absatzes 1 außer Kraft. Sonn- und Feiertage unterbrechen nicht die Zählung der nach Satz 1 maßgeblichen Tage. Für die Bekanntmachung des Tages des Außerkrafttretens gilt Absatz 1 Satz 3 und 4 entsprechend. Ist die Ausnahme des Absatzes 1 Satz 1 Nummer 4 Halbsatz 2 Buchstabe b wegen Überschreitung des Schwellenwerts von 150 außer Kraft getreten, gelten die Sätze 1 bis 3 mit der Maßgabe entsprechend, dass der relevante Schwellenwert bei 150 liegt.
+1. Kindern, die das sechste Lebensjahr noch nicht vollendet haben,
 
-(3) Die Durchführung von Präsenzunterricht an allgemeinbildenden und berufsbildenden Schulen ist nur zulässig bei Einhaltung angemessener Schutz- und Hygienekonzepte; die Teilnahme am Präsenzunterricht ist nur zulässig für Schülerinnen und Schüler sowie für Lehrkräfte, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 100, so ist die Durchführung von Präsenzunterricht ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen nur in Form von Wechselunterricht zulässig. Überschreitet in einem Landkreis oder einer kreisfreien Stadt an drei aufeinander folgenden Tagen die Sieben-Tage-Inzidenz den Schwellenwert von 165, so ist ab dem übernächsten Tag für allgemeinbildende und berufsbildende Schulen, Hochschulen, außerschulische Einrichtungen der Erwachsenenbildung und ähnliche Einrichtungen die Durchführung von Präsenzunterricht untersagt. Wenn ausschließlich Personen teilnehmen, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden, gelten die Sätze 2 und 3 nicht für
+2. Personen, die ärztlich bescheinigt auf Grund einer gesundheitlichen Beeinträchtigung, einer ärztlich bescheinigten chronischen Erkrankung oder einer Behinderung keine Atemschutzmaske oder medizinische Gesichtsmaske tragen können, und
 
-1. Aus- und Fortbildungseinrichtungen von Polizeien und Rettungsdiensten sowie, soweit die Aus- und Fortbildungen zur Aufrechterhaltung und Gewährleistung der Einsatzbereitschaft zwingend erforderlich sind, für die Aus- und Fortbildungen im Zivil- und Katastrophenschutz, bei den Feuerwehren sowie von sicherheitsrelevanten Einsatzkräften in der Justiz und im Justizvollzug und
+3. gehörlosen und schwerhörigen Menschen und Personen, die mit ihnen kommunizieren, sowie ihren Begleitpersonen.
 
-2. Aus- und Fortbildungseinrichtungen für Kontrollpersonal an Flughäfen oder für Luftfracht sowie für Einrichtungen, die Fortbildungen und Training für Personal in der Flugsicherung, Piloten, andere Crewmitglieder und sonstiges Personal Kritischer Infrastrukturen durchführen, soweit die Aus- und Fortbildungsveranstaltungen auf Grund gesetzlicher Vorgaben zwingend durchzuführen sind und dabei Präsenz erforderlich ist.
+Beförderer sind verpflichtet, die Einhaltung der Verpflichtungen nach Satz 1 durch stichprobenhafte Nachweiskontrollen zu überwachen. Alle beförderten Personen sind verpflichtet, auf Verlangen einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) vorzulegen. Beförderer können zu diesem Zweck personenbezogene Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten.
 
-Die nach Landesrecht zuständige Behörde kann unter der Voraussetzung, dass ausschließlich Personen teilnehmen, die zweimal in der Woche mittels eines anerkannten Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 getestet werden,
+(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates für einen befristeten Zeitraum vorzuschreiben, welche Maßnahmen die Arbeitgeber zur Umsetzung der Verpflichtungen nach dieser Vorschrift zu treffen haben und wie sich die Beschäftigten zu verhalten haben, um ihre jeweiligen Pflichten, die sich aus dieser Vorschrift ergeben, zu erfüllen. In der Rechtsverordnung kann insbesondere das Nähere geregelt werden zu
 
-1. Abschlussklassen, Förderschulen und praktische Ausbildungsanteile an berufsbildenden Schulen sowie Berufsbildungseinrichtungen nach § 2 Absatz 1 Nummer 3 des Berufsbildungsgesetzes, die nur in besonders ausgestatteten Räumlichkeiten oder Lernumgebungen mit Praxisbezug, wie zum Beispiel in Laboren und Krankenhäusern, durchgeführt werden können, von der Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, befreien und
+1. den in Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Pflichten,
 
-2. Abschlussklassen, Förderschulen sowie Veranstaltungen an Hochschulen für Studierende, die unmittelbar vor dem Studienabschluss oder abschlussrelevanten Teilprüfungen stehen, und praktische Ausbildungsanteile an Hochschulen, praktischen Unterricht an berufsbildenden Schulen sowie Berufsbildungseinrichtungen nach § 2 Absatz 1 Nummer 3 des Berufsbildungsgesetzes, an außerschulischen Einrichtungen der Erwachsenenbildung und ähnlichen Einrichtungen, die nur in besonders ausgestatteten Räumlichkeiten oder Lernumgebungen mit Praxisbezug, wie zum Beispiel in Laboren oder Krankenhäusern, durchgeführt werden können, von der Untersagung nach Satz 3 ausnehmen.
+2. den in Absatz 3 genannten Überwachungs- und Dokumentationspflichten.
 
-Die nach Landesrecht zuständigen Stellen können nach von ihnen festgelegten Kriterien eine Notbetreuung einrichten. Absatz 2 Satz 1 und 2 gilt für das Außerkrafttreten der Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, entsprechend und für das Außerkrafttreten der Untersagung nach Satz 3 mit der Maßgabe entsprechend, dass der relevante Schwellenwert bei unter 165 liegt. Für die Bekanntmachung des Tages, ab dem die Beschränkung nach Satz 2, Präsenzunterricht nur in Form von Wechselunterricht durchzuführen, oder die Untersagung nach Satz 3 in einem Landkreis oder einer kreisfreien Stadt gilt, gilt Absatz 1 Satz 3 und 4 entsprechend. Für die Bekanntmachung des Tages des Außerkrafttretens nach Satz 7 gilt Absatz 1 Satz 3 und 4 entsprechend. Für Einrichtungen nach § 33 Nummer 1 und 2 gelten die Sätze 3 und 6 bis 9 entsprechend.
-
-(4) Versammlungen im Sinne des Artikels 8 des Grundgesetzes sowie Zusammenkünfte, die der Religionsausübung im Sinne des Artikels 4 des Grundgesetzes dienen, unterfallen nicht den Beschränkungen nach Absatz 1.
-
-(5) Weitergehende Schutzmaßnahmen auf Grundlage dieses Gesetzes bleiben unberührt.
-
-(6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung folgende Gebote und Verbote zu erlassen sowie folgende Präzisierungen, Erleichterungen oder Ausnahmen zu bestimmen:
-
-1. für Fälle, in denen die Sieben-Tage-Inzidenz den Schwellenwert von 100 überschreitet, zusätzliche Gebote und Verbote nach § 28 Absatz 1 Satz 1 und 2 und § 28a Absatz 1 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19),
-
-2. Präzisierungen, Erleichterungen oder Ausnahmen zu den in den Absätzen 1, 3 und 7 genannten Maßnahmen und nach Nummer 1 erlassenen Geboten und Verboten.
-
-Rechtsverordnungen der Bundesregierung nach Satz 1 bedürfen der Zustimmung von Bundestag und Bundesrat.
-
-(7) Der Arbeitgeber hat den Beschäftigten im Fall von Büroarbeit oder vergleichbaren Tätigkeiten anzubieten, diese Tätigkeiten in deren Wohnung auszuführen, wenn keine zwingenden betriebsbedingten Gründe entgegenstehen. Die Beschäftigten haben dieses Angebot anzunehmen, soweit ihrerseits keine Gründe entgegenstehen. Die zuständigen Behörden für den Vollzug der Sätze 1 und 2 bestimmen die Länder nach § 54 Satz 1.
-
-(8) Das Land Berlin und die Freie und Hansestadt Hamburg gelten als kreisfreie Städte im Sinne dieser Vorschrift.
-
-(9) Anerkannte Tests im Sinne dieser Vorschrift sind In-vitro-Diagnostika, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind und die auf Grund ihrer CE-Kennzeichnung oder auf Grund einer gemäß § 11 Absatz 1 des Medizinproduktegesetzes erteilten Sonderzulassung verkehrsfähig sind. Soweit nach dieser Vorschrift das Tragen einer Atemschutzmaske oder einer medizinischen Gesichtsmaske vorgesehen ist, sind hiervon folgende Personen ausgenommen:
-
-1. Kinder, die das 6. Lebensjahr noch nicht vollendet haben,
-
-2. Personen, die ärztlich bescheinigt aufgrund einer gesundheitlichen Beeinträchtigung, einer ärztlich bescheinigten chronischen Erkrankung oder einer Behinderung keine Atemschutzmaske tragen können und
-
-3. gehörlose und schwerhörige Menschen und Personen, die mit diesen kommunizieren, sowie ihre Begleitpersonen.
-
-Für Personen, die das 6. Lebensjahr vollendet haben und das 16. Lebensjahr noch nicht vollendet haben, ist anstelle einer Atemschutzmaske (FFP2 oder vergleichbar) das Tragen einer medizinischen Gesichtsmaske (Mund-Nase-Schutz) erlaubt.
-
-(10) Diese Vorschrift gilt nur für die Dauer der Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5 Absatz 1 Satz 1 durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 30. Juni 2021. Dies gilt auch für Rechtsverordnungen nach Absatz 6.
-
-(11) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden eingeschränkt und können auch durch Rechtsverordnungen nach Absatz 6 eingeschränkt werden.
+(7) Diese Vorschrift gilt bis zum Ablauf des 19. März 2022. Eine auf Grund des Absatzes 6 Satz 1 erlassene Rechtsverordnung tritt spätestens mit Ablauf des 19. März 2022 außer Kraft. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekanntzumachenden Beschluss einmalig die Fristen nach den Sätzen 1 und 2 um bis zu drei Monate verlängern.
 
 # § 28c – Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können, Erleichterungen oder Ausnahmen von Geboten und Verboten nach dem fünften Abschnitt dieses Gesetzes oder von aufgrund der Vorschriften im fünften Abschnitt dieses Gesetzes erlassenen Geboten und Verboten zu regeln. Rechtsverordnungen der Bundesregierung nach Satz 1 bedürfen der Zustimmung von Bundestag und Bundesrat. Wenn die Bundesregierung von ihrer Ermächtigung nach Satz 1 Gebrauch macht, kann sie zugleich die Landesregierungen ermächtigen, ganz oder teilweise in Bezug auf von den Ländern nach dem fünften Abschnitt dieses Gesetzes erlassene Gebote und Verbote für die in Satz 1 genannten Personen Erleichterungen oder Ausnahmen zu regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können, Erleichterungen oder Ausnahmen von Geboten und Verboten nach dem fünften Abschnitt dieses Gesetzes oder von aufgrund der Vorschriften im fünften Abschnitt dieses Gesetzes erlassenen Geboten und Verboten zu regeln. In der Rechtsverordnung kann vorgesehen werden, dass Erleichterungen und Ausnahmen für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist, nur bestehen, wenn sie ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können. Rechtsverordnungen der Bundesregierung nach den Sätzen 1 und 2 bedürfen der Zustimmung von Bundestag und Bundesrat. Wenn die Bundesregierung von ihrer Ermächtigung nach den Sätzen 1 und 2 Gebrauch macht, kann sie zugleich die Landesregierungen ermächtigen, ganz oder teilweise in Bezug auf von den Ländern nach dem fünften Abschnitt dieses Gesetzes erlassene Gebote und Verbote für die in Satz 1 genannten Personen Erleichterungen oder Ausnahmen zu regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
 # § 29 – Beobachtung
 
@@ -2248,7 +2238,7 @@ Personen, die in den in § 33 genannten Gemeinschaftseinrichtungen Lehr-, Erzieh
 
 (2) Einrichtungen und Unternehmen, bei denen die Möglichkeit besteht, dass durch Tätigkeiten am Menschen durch Blut Krankheitserreger übertragen werden, sowie Gemeinschaftseinrichtungen nach § 33 Nummer 2 können durch das Gesundheitsamt infektionshygienisch überwacht werden.
 
-(3) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 eine epidemische Lage von nationaler Tragweite festgestellt hat und soweit dies zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich ist, darf der Arbeitgeber in den in den Absätzen 1 und 2 genannten Einrichtungen und Unternehmen personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden. Im Übrigen gelten die Bestimmungen des allgemeinen Datenschutzrechts.
+(3) Sofern der Deutsche Bundestag nach § 5 Absatz 1 Satz 1 eine epidemische Lage von nationaler Tragweite festgestellt hat und unabhängig davon bis zum Ablauf des 19. März 2022 darf der Arbeitgeber, soweit dies zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) erforderlich ist, in den in den Absätzen 1 und 2 genannten Einrichtungen und Unternehmen personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden. Im Übrigen gelten die Bestimmungen des allgemeinen Datenschutzrechts.
 
 (3a) Die Leiter von in Absatz 1 Nummer 2 bis 6 genannten Einrichtungen haben das Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, unverzüglich zu benachrichtigen und die nach diesem Gesetz erforderlichen krankheits- und personenbezogenen Angaben zu machen, wenn eine in der Einrichtung tätige oder untergebrachte Person an Skabies erkrankt ist oder bei ihr der Verdacht besteht, dass sie an Skabies erkrankt ist.
 
@@ -2652,7 +2642,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 3. die erwerbstätige Person dadurch einen Verdienstausfall erleidet.
 
-Anspruchsberechtigte haben gegenüber der zuständigen Behörde, auf Verlangen des Arbeitgebers auch diesem gegenüber, darzulegen, dass sie in diesem Zeitraum keine zumutbare Betreuungsmöglichkeit für das Kind sicherstellen können. Ein Anspruch besteht nicht, soweit eine Schließung ohnehin wegen der Schul- oder Betriebsferien erfolgen würde. Im Fall, dass das Kind in Vollzeitpflege nach § 33 des Achten Buches Sozialgesetzbuch in den Haushalt aufgenommen wurde, steht der Anspruch auf Entschädigung den Pflegeeltern zu.
+Anspruchsberechtigte haben gegenüber der zuständigen Behörde, auf Verlangen des Arbeitgebers auch diesem gegenüber, darzulegen, dass sie in diesem Zeitraum keine zumutbare Betreuungsmöglichkeit für das Kind sicherstellen können. Ein Anspruch besteht nicht, soweit eine Schließung ohnehin wegen der Schul- oder Betriebsferien erfolgen würde. Im Fall, dass das Kind in Vollzeitpflege nach § 33 des Achten Buches Sozialgesetzbuch in den Haushalt aufgenommen wurde, steht der Anspruch auf Entschädigung den Pflegeeltern zu. Der Anspruch nach Satz 1 besteht in Bezug auf die dort genannten Maßnahmen auch unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite, soweit diese zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) im Zeitraum bis zum Ablauf des 19. März 2022 erfolgen.
 
 (2) Die Entschädigung bemisst sich nach dem Verdienstausfall. Für die ersten sechs Wochen wird sie in Höhe des Verdienstausfalls gewährt. Vom Beginn der siebenten Woche an wird die Entschädigung abweichend von Satz 2 in Höhe von 67 Prozent des der erwerbstätigen Person entstandenen Verdienstausfalls gewährt; für einen vollen Monat wird höchstens ein Betrag von 2 016 Euro gewährt. Im Fall des Absatzes 1a wird die Entschädigung von Beginn an in der in Satz 3 bestimmten Höhe gewährt. Für jede erwerbstätige Person wird die Entschädigung nach Satz 4 für die Dauer der vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite unabhängig von der Anzahl der Kinder für längstens zehn Wochen pro Jahr gewährt, für eine erwerbstätige Person, die ihr Kind allein beaufsichtigt, betreut oder pflegt, längstens für 20 Wochen pro Jahr.
 
@@ -2696,9 +2686,9 @@ Liegen die Voraussetzungen für eine Anrechnung sowohl nach Nummer 3 als auch na
 
 2. bei einer Entschädigung nach § 56 Abs. 2 Satz 3 80 vom Hundert des dieser Entschädigung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens.
 
-Das entschädigungspflichtige Land trägt die Beiträge zur gesetzlichen Rentenversicherung allein. Zahlt der Arbeitgeber für die zuständige Behörde die Entschädigung aus, gelten die Sätze 2 und 3 entsprechend; die zuständige Behörde hat ihm auf Antrag die entrichteten Beiträge zu erstatten.
+Das entschädigungspflichtige Land trägt die Beiträge zur gesetzlichen Rentenversicherung allein. Zahlt der Arbeitgeber für die zuständige Behörde die Entschädigung aus, gelten die Sätze 2 und 3 entsprechend; die zuständige Behörde hat ihm auf Antrag die entrichteten Beiträge zu erstatten. Die Erstattung umfasst auch Beiträge, die nach § 172 des Sechsten Buches Sozialgesetzbuch vom Arbeitgeber entrichtet wurden.
 
-(2) Für Personen, denen nach § 56 Absatz 1 Satz 2 eine Entschädigung zu gewähren ist, besteht eine Versicherungspflicht in der gesetzlichen Krankenversicherung, in der sozialen Pflegeversicherung und nach dem Dritten Buch Sozialgesetzbuch sowie eine Pflicht zur Leistung der aufgrund der Teilnahme an den Ausgleichsverfahren nach § 1 oder § 12 des Aufwendungsausgleichsgesetzes und nach § 358 des Dritten Buches Sozialgesetzbuch zu entrichtenden Umlagen fort. Absatz 1 Satz 2 bis 4 gilt entsprechend.
+(2) Für Personen, denen nach § 56 Absatz 1 Satz 2 eine Entschädigung zu gewähren ist, besteht eine Versicherungspflicht in der gesetzlichen Krankenversicherung, in der sozialen Pflegeversicherung und nach dem Dritten Buch Sozialgesetzbuch sowie eine Pflicht zur Leistung der aufgrund der Teilnahme an den Ausgleichsverfahren nach § 1 oder § 12 des Aufwendungsausgleichsgesetzes und nach § 358 des Dritten Buches Sozialgesetzbuch zu entrichtenden Umlagen fort. Absatz 1 Satz 2 bis 4 gilt entsprechend; die Erstattung umfasst auch Beiträge, die nach § 249b des Fünften Buches Sozialgesetzbuch vom Arbeitgeber entrichtet wurden.
 
 (3) In der gesetzlichen Unfallversicherung wird, wenn es für den Berechtigten günstiger ist, der Berechnung des Jahresarbeitsverdienstes für Zeiten, in denen dem Verletzten im Jahr vor dem Arbeitsunfall eine Entschädigung nach § 56 Abs. 1 zu gewähren war, das Arbeitsentgelt oder Arbeitseinkommen zugrunde gelegt, das seinem durchschnittlichen Arbeitsentgelt oder Arbeitseinkommen in den mit Arbeitsentgelt oder Arbeitseinkommen belegten Zeiten dieses Zeitraums entspricht. § 82 Abs. 3 des Siebten Buches Sozialgesetzbuch gilt entsprechend. Die durch die Anwendung des Satzes 1 entstehenden Mehraufwendungen werden den Versicherungsträgern von der zuständigen Behörde erstattet.
 
@@ -2920,29 +2910,13 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 11a. einer vollziehbaren Anordnung nach § 28 Absatz 2, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, zuwiderhandelt,
 
-11b. entgegen § 28b Absatz 1 Satz 1 Nummer 1 erster Halbsatz an einer Zusammenkunft teilnimmt,
+11b. entgegen § 28b Absatz 1 Satz 1 eine Arbeitsstätte betritt,
 
-11c. entgegen § 28b Absatz 1 Satz 1 Nummer 2 erster Halbsatz sich außerhalb einer Wohnung, einer Unterkunft oder des jeweils dazugehörigen befriedeten Besitztums aufhält,
+11c. entgegen § 28b Absatz 2 Satz 1 eine Einrichtung oder ein Unternehmen betritt,
 
-11d. entgegen § 28b Absatz 1 Satz 1 Nummer 3 eine dort genannte Einrichtung öffnet,
+11d. entgegen § 28b Absatz 3 Satz 1 die Einhaltung einer dort genannten Verpflichtung nicht oder nicht richtig überwacht,
 
-11e. entgegen § 28b Absatz 1 Satz 1 Nummer 4 erster Halbsatz ein Ladengeschäft oder einen Markt öffnet,
-
-11f. entgegen § 28b Absatz 1 Satz 1 Nummer 5 erster Halbsatz, auch in Verbindung mit Nummer 5 zweiter Halbsatz, eine dort genannte Einrichtung öffnet oder eine Veranstaltung durchführt,
-
-11g. entgegen § 28b Absatz 1 Satz 1 Nummer 6 erster Halbsatz Sport ausübt,
-
-11h. entgegen § 28b Absatz 1 Satz 1 Nummer 7 erster Halbsatz, auch in Verbindung mit Nummer 7 zweiter Halbsatz, eine Gaststätte öffnet,
-
-11i. entgegen § 28b Absatz 1 Satz 1 Nummer 7 fünfter Halbsatz eine Speise oder ein Getränk verzehrt,
-
-11j. entgegen § 28b Absatz 1 Satz 1 Nummer 7 sechster Halbsatz eine Speise oder ein Getränk abverkauft,
-
-11k. entgegen § 28b Absatz 1 Satz 1 Nummer 8 erster Halbsatz eine Dienstleistung ausübt oder in Anspruch nimmt,
-
-11l. entgegen § 28b Absatz 1 Satz 1 Nummer 9 erster oder dritter Halbsatz eine dort genannte Atemschutzmaske oder Gesichtsmaske nicht trägt,
-
-11m. entgegen § 28b Absatz 1 Satz 1 Nummer 10 ein Übernachtungsangebot zur Verfügung stellt,
+11e. entgegen § 28b Absatz 5 Satz 1 ein dort genanntes Verkehrsmittel benutzt,
 
 12. entgegen § 29 Abs. 2 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, Zutritt nicht gestattet,
 
@@ -2982,7 +2956,7 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 # § 74 – Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11 bis 20, 22, 22a, 23 oder 24 bezeichnete vorsätzliche Handlung begeht und dadurch eine in § 6 Absatz 1 Satz 1 Nummer 1 genannte Krankheit, einen in § 7 genannten Krankheitserreger oder eine in einer Rechtsverordnung nach § 15 Absatz 1 oder Absatz 3 genannte Krankheit oder einen dort genannten Krankheitserreger verbreitet.
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11, 11a, 12 bis 20, 22, 22a, 23 oder 24 bezeichnete vorsätzliche Handlung begeht und dadurch eine in § 6 Absatz 1 Satz 1 Nummer 1 genannte Krankheit, einen in § 7 genannten Krankheitserreger oder eine in einer Rechtsverordnung nach § 15 Absatz 1 oder Absatz 3 genannte Krankheit oder einen dort genannten Krankheitserreger verbreitet.
 
 (2) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1a Nummer 8 bezeichnete Handlung begeht, indem er wissentlich eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 zur Täuschung im Rechtsverkehr nicht richtig dokumentiert.
 
@@ -3008,13 +2982,21 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 # § 75a – Weitere Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer wissentlich entgegen § 22 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 die Durchführung einer Schutzimpfung oder die Durchführung oder Überwachung einer dort genannten Testung zur Täuschung im Rechtsverkehr nicht richtig bescheinigt.
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer wissentlich zur Täuschung im Rechtsverkehr
 
-(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer wissentlich
+1. entgegen § 22 Absatz 4a Satz 1 oder Absatz 4c Satz 1 die Durchführung oder Überwachung einer dort genannten Testung nicht richtig dokumentiert oder
 
-1. eine in § 74 Absatz 2 bezeichnete nicht richtige Dokumentation oder
+2. entgegen § 22 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 7 Satz 1 die Durchführung einer Schutzimpfung oder die Durchführung oder Überwachung einer dort genannten Testung nicht richtig bescheinigt.
 
-2. eine in Absatz 1 bezeichnete nicht richtige Bescheinigung
+(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer wissentlich zur Täuschung im Rechtsverkehr entgegen § 22 Absatz 4a Satz 2 oder Absatz 4c Satz 2 eine Testung dokumentiert.
+
+(3) Ebenso wird bestraft, wer wissentlich
+
+1. eine in § 74 Absatz 2 oder § 75a Absatz 1 Nummer 1 bezeichnete nicht richtige Dokumentation,
+
+2. eine in Absatz 1 Nummer 2 bezeichnete nicht richtige Bescheinigung oder
+
+3. eine in Absatz 2 bezeichnete Dokumentation
 
 zur Täuschung im Rechtsverkehr gebraucht.
 
