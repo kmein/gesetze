@@ -1316,6 +1316,7 @@
 - [BZgAZustAnO](laws/BZgAZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten der Bundeszentrale für gesundheitliche Aufklärung in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
 - [BZollVÜV](laws/BZollVÜV.md) Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes
 - [BZRG](laws/BZRG.md) Gesetz über das Zentralregister und das Erziehungsregister
+- [BZuschV 2022](laws/BZuschV_2022.md) Verordnung zur Festsetzung des ergänzenden Bundeszuschusses nach § 221a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch für das Jahr 2022
 - [CanBV](laws/CanBV.md) Verordnung über die Begleiterhebung nach § 31 Absatz 6 des Fünften Buches Sozialgesetzbuch
 - [CCDAfrikaÜbk](laws/CCDAfrikaÜbk.md) Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung in den von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika
 - [CCDSekrSitzAbkG](laws/CCDSekrSitzAbkG.md) Gesetz zu dem Abkommen vom 18. August 1998 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Übereinkommens der Vereinten Nationen zur Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats des Übereinkommens
@@ -1544,6 +1545,7 @@
 - [DRAG ISR 1980](laws/DRAG_ISR_1980.md) Gesetz zu dem Abkommen vom 29. Mai 1980 zwischen der Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß- und Erbschaftssteuern in der Fassung des Änderungsprotokolls vom 20. Januar 1984
 - [DrechsHolzspielMstrV](laws/DrechsHolzspielMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Drechsler-(Elfenbeinschnitzer-) und Holzspielzeugmacher-Handwerk
 - [DrechslAusbV](laws/DrechslAusbV.md) Verordnung über die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)
+- [DRG-EKV 2022](laws/DRG-EKV_2022.md) Verordnung zu den Entgeltkatalogen für DRG-Krankenhäuser für das Jahr 2022
 - [DRiG](laws/DRiG.md) Deutsches Richtergesetz
 - [DrittelbG](laws/DrittelbG.md) Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat
 - [DRK-SDDSG](laws/DRK-SDDSG.md) Gesetz zur Regelung des Datenschutzes für den Suchdienst des Deutschen Roten Kreuzes

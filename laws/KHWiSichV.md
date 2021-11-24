@@ -68,7 +68,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 (3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 15. Juli 2021 übermittelt werden.
 
-(4) Der Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird bis zum 31. Mai 2021 verlängert.
+(4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November 2021 bis zum 19. März 2022 festgelegt.
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
@@ -76,11 +76,11 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 # § 5 – Erlösausgleiche für das Jahr 2021
 
-(1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Juli 2021 das Nähere über den Ausgleich
+(1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Dezember 2021 das Nähere über den Ausgleich
 
 1. eines im Jahr 2021 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandenen Erlösrückgangs und
 
-2. eines im Jahr 2021 gegenüber dem Jahr 2019 entstandenen Erlösanstiegs, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist.
+2. eines im Jahr 2021 gegenüber dem Jahr 2019 entstandenen Erlösanstiegs, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist.
 
 (2) Die Vereinbarung muss insbesondere umfassen:
 
@@ -90,7 +90,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 a) ob ein im Jahr 2021 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandener Erlösrückgang vorliegt oder
 
-b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist, vorliegt,
+b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist, vorliegt,
 
 3. die Einzelheiten zum Nachweis der Erfüllung der nach Nummer 2 vereinbarten Kriterien,
 
@@ -100,7 +100,7 @@ b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der 
 
 (3) Die Erlöse für das Jahr 2019 sind auf das Preisniveau für das Jahr 2021 anzuheben.
 
-(4) Bei der Ermittlung der Erlöse für das Jahr 2021 sind die Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes in Höhe von 85 Prozent zu berücksichtigen. Bei der Ermittlung der Erlöse für das Jahr 2021 sind nicht zu berücksichtigen:
+(4) Bei der Ermittlung der Erlöse für das Jahr 2021 sind die Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes sowie die für das Jahr 2021 gezahlten Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes in Höhe von 85 Prozent zu berücksichtigen. Bei der Ermittlung der Erlöse für das Jahr 2021 sind nicht zu berücksichtigen:
 
 1. die Zusatzentgelte nach § 26 Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes,
 
@@ -116,7 +116,7 @@ c) § 5 Absatz 6 der Bundespflegesatzverordnung.
 
 (5) Bei der Ermittlung der Erlöse für die Jahre 2019 und 2021 sind variable Sachkosten mindernd zu berücksichtigen.
 
-(6) Kommt eine Vereinbarung nach Absatz 1 nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung auch ohne Antrag einer Vertragspartei bis zum Ablauf des 30. September 2021 fest.
+(6) Kommt eine Vereinbarung nach Absatz 1 nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung auch ohne Antrag einer Vertragspartei bis zum Ablauf des 31. Januar 2022 fest.
 
 (7) Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht für die Vereinbarung der Erlöse nach Absatz 8 Satz 1 Nummer 1 und 2 um die variablen Sachkosten bereinigte Entgeltkataloge für die pauschalierenden Entgeltsysteme nach den §§ 17b und 17d des Krankenhausfinanzierungsgesetzes für die Jahre 2019 und 2021 barrierefrei auf seiner Internetseite.
 
@@ -130,7 +130,7 @@ c) § 5 Absatz 6 der Bundespflegesatzverordnung.
 
 a) Erlösrückgang oder
 
-b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist,
+b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist,
 
 4. den Ausgleichsbetrag für den Erlösrückgang oder den Erlösanstieg,
 
@@ -138,11 +138,11 @@ b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Kr
 
 6. die Höhe des Zu- oder Abschlags nach Absatz 11 Satz 2.
 
-Die Vereinbarung kann unabhängig von den Vereinbarungen nach § 11 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes und § 11 Absatz 1 Satz 1 der Bundespflegesatzverordnung getroffen werden.
+Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes sind verpflichtet, eine Vereinbarung nach Satz 1 zu treffen, sofern der Krankenhausträger einen Versorgungsaufschlag nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 erhalten hat. Die Vereinbarung nach Satz 1 oder Satz 2 kann unabhängig von den Vereinbarungen nach § 11 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes und § 11 Absatz 1 Satz 1 der Bundespflegesatzverordnung getroffen werden.
 
 (9) Bei der Vereinbarung eines Erlösrückgangs sind 98 Prozent der nach Absatz 8 Satz 1 Nummer 1 für das Jahr 2019 vereinbarten Erlöse zugrunde zu legen. Der Ausgleichsbetrag entspricht 85 Prozent des nach Absatz 8 Satz 1 Nummer 3 Buchstabe a vereinbarten Erlösrückgangs.
 
-(10) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich des nach Absatz 8 Satz 1 Nummer 3 Buchstabe b vereinbarten Erlösanstiegs, sofern der vereinbarte Erlösanstieg unterhalb der nach Absatz 4 Satz 1 zu berücksichtigenden Summe der Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes liegt. Sie vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen entspricht.
+(10) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich des nach Absatz 8 Satz 1 Nummer 3 Buchstabe b vereinbarten Erlösanstiegs, sofern der vereinbarte Erlösanstieg unterhalb der nach Absatz 4 Satz 1 zu berücksichtigenden Summe der Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes liegt. Sie vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen und Versorgungsaufschläge entspricht.
 
 (11) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes ziehen von dem nach Absatz 8 Satz 1 Nummer 4 vereinbarten Ausgleichsbetrag die nach Absatz 8 Satz 1 Nummer 5 vereinbarte Summe der abgerechneten Zuschläge nach § 6 Absatz 3 Satz 1 ab. Der nach Satz 1 ermittelte Betrag wird durch Zu- oder Abschläge auf die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen. Überzahlungen des Ausgleichsbetrags durch abgerechnete Zuschläge nach § 6 Absatz 3 Satz 1 sind vollständig auszugleichen.
 

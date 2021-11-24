@@ -35,8 +35,6 @@ Bei der Wahrnehmung ihrer Aufgaben haben die Industrie- und Handelskammern den a
 
 (4) Weitere Aufgaben können den Industrie- und Handelskammern durch Gesetz oder Rechtsverordnung übertragen werden.
 
-(4a) (weggefallen)
-
 (5) Nicht zu den Aufgaben nach Absatz 1 Satz 1 Nummer 1 gehören die grundrechtlich geschützten Aufgabenbereiche der Vereinigungen im Sinne des Artikels 9 Absatz 3 Satz 1 des Grundgesetzes, insbesondere die Aufgabenbereiche der Tarifpartner sowie die arbeitsgerichtliche Vertretung von Unternehmen. Zudem sind Stellungnahmen ausgeschlossen zu sozial- und arbeitsmarktpolitischen Fragen, soweit diese in der ausschließlichen Entscheidungszuständigkeit der Gremien der sozialen Selbstverwaltung liegen.
 
 # § 2
@@ -56,8 +54,6 @@ b) Genossenschaften, die ganz oder überwiegend der Nutzung landwirtschaftlicher
 c) Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis zu einer nach der Höhe des Eigenkapitals zu bestimmenden Grenze, die von dem Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung festgelegt wird.
 
 (5) Absatz 1 gilt nicht für Gebietskörperschaften.
-
-(6) (weggefallen)
 
 # § 3
 
