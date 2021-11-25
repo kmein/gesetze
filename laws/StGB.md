@@ -3423,7 +3423,7 @@ Urkundenunterdrückung; Veränderung einer Grenzbezeichnung
 
 § 275
 
-Vorbereitung der Fälschung von amtlichen Ausweisen
+Vorbereitung der Fälschung von amtlichen Ausweisen; Vorbereitung der Herstellung von unrichtigen Impfausweisen
 
  
 
@@ -3441,7 +3441,7 @@ Aufenthaltsrechtliche Papiere; Fahrzeugpapiere
 
 § 277
 
-Fälschung von Gesundheitszeugnissen
+Unbefugtes Ausstellen von Gesundheitszeugnissen
 
  
 
@@ -9413,7 +9413,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn d
 
 (2) Der Versuch ist strafbar.
 
-# § 275 – Vorbereitung der Fälschung von amtlichen Ausweisen
+# § 275 – Vorbereitung der Fälschung von amtlichen Ausweisen; Vorbereitung der Herstellung von unrichtigen Impfausweisen
 
 (1) Wer eine Fälschung von amtlichen Ausweisen vorbereitet, indem er
 
@@ -9425,7 +9425,9 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn d
 
 herstellt, sich oder einem anderen verschafft, feilhält, verwahrt, einem anderen überläßt oder einzuführen oder auszuführen unternimmt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
-(2) Handelt der Täter gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach Absatz 1 verbunden hat, so ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+(1a) Wer die Herstellung eines unrichtigen Impfausweises vorbereitet, indem er in einem Blankett-Impfausweis eine nicht durchgeführte Schutzimpfung dokumentiert oder einen auf derartige Weise ergänzten Blankett-Impfausweis sich oder einem anderen verschafft, feilhält, verwahrt, einem anderen überlässt oder einzuführen oder auszuführen unternimmt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
+(2) Handelt der Täter gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach Absatz 1 oder Absatz 1a verbunden hat, so ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (3) § 149 Abs. 2 und 3 gilt entsprechend.
 
@@ -9445,17 +9447,21 @@ wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 Die §§ 275 und 276 gelten auch für aufenthaltsrechtliche Papiere, namentlich Aufenthaltstitel und Duldungen, sowie für Fahrzeugpapiere, namentlich Fahrzeugscheine und Fahrzeugbriefe.
 
-# § 277 – Fälschung von Gesundheitszeugnissen
+# § 277 – Unbefugtes Ausstellen von Gesundheitszeugnissen
 
-Wer unter der ihm nicht zustehenden Bezeichnung als Arzt oder als eine andere approbierte Medizinalperson oder unberechtigt unter dem Namen solcher Personen ein Zeugnis über seinen oder eines anderen Gesundheitszustand ausstellt oder ein derartiges echtes Zeugnis verfälscht und davon zur Täuschung von Behörden oder Versicherungsgesellschaften Gebrauch macht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+(1) Wer zur Täuschung im Rechtsverkehr unter der ihm nicht zustehenden Bezeichnung als Arzt oder als eine andere approbierte Medizinalperson ein Zeugnis über seinen oder eines anderen Gesundheitszustand ausstellt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften dieses Abschnitts mit schwererer Strafe bedroht ist.
+
+(2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung von unbefugtem Ausstellen von Gesundheitszeugnissen verbunden hat, Impfnachweise oder Testzertifikate betreffend übertragbare Krankheiten unbefugt ausstellt.
 
 # § 278 – Ausstellen unrichtiger Gesundheitszeugnisse
 
-Ärzte und andere approbierte Medizinalpersonen, welche ein unrichtiges Zeugnis über den Gesundheitszustand eines Menschen zum Gebrauch bei einer Behörde oder Versicherungsgesellschaft wider besseres Wissen ausstellen, werden mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(1) Wer zur Täuschung im Rechtsverkehr als Arzt oder andere approbierte Medizinalperson ein unrichtiges Zeugnis über den Gesundheitszustand eines Menschen ausstellt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
+(2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung von unrichtigem Ausstellen von Gesundheitszeugnissen verbunden hat, Impfnachweise oder Testzertifikate betreffend übertragbare Krankheiten unrichtig ausstellt.
 
 # § 279 – Gebrauch unrichtiger Gesundheitszeugnisse
 
-Wer, um eine Behörde oder eine Versicherungsgesellschaft über seinen oder eines anderen Gesundheitszustand zu täuschen, von einem Zeugnis der in den §§ 277 und 278 bezeichneten Art Gebrauch macht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+Wer zur Täuschung im Rechtsverkehr von einem Gesundheitszeugnis der in den §§ 277 und 278 bezeichneten Art Gebrauch macht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften dieses Abschnitts mit schwererer Strafe bedroht ist.
 
 # § 280 – (weggefallen)
 
@@ -9465,7 +9471,7 @@ Wer, um eine Behörde oder eine Versicherungsgesellschaft über seinen oder eine
 
 (1) Wer ein Ausweispapier, das für einen anderen ausgestellt ist, zur Täuschung im Rechtsverkehr gebraucht, oder wer zur Täuschung im Rechtsverkehr einem anderen ein Ausweispapier überläßt, das nicht für diesen ausgestellt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
-(2) Einem Ausweispapier stehen Zeugnisse und andere Urkunden gleich, die im Verkehr als Ausweis verwendet werden.
+(2) Einem Ausweispapier stehen Gesundheitszeugnisse sowie solche Zeugnisse und andere Urkunden gleich, die im Verkehr als Ausweis verwendet werden.
 
 # § 282 – Einziehung
 

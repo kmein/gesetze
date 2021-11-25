@@ -1139,7 +1139,7 @@ Erstattung des Barbetrages durch den Bund ab dem Jahr 2020
 
 § 141
 
-Übergangsregelung aus Anlass der COVID-19-Pandemie
+Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
 § 142
 
@@ -3761,9 +3761,9 @@ c) die die Altersgrenze nach § 41 Absatz 2 erreicht oder überschritten haben,
 
 Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für alle laufend gezahlten und am Monatsende zufließenden Einkommen. Der Zuschuss nach den Sätzen 1 bis 3 gilt nicht als Leistung nach § 7 Absatz 1 Satz 1 Nummer 5 und 6 des Wohngeldgesetzes.
 
-# § 141 – Übergangsregelung aus Anlass der COVID-19-Pandemie
+# § 141 – Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
-(1) Leistungen nach dem Dritten und Vierten Kapitel werden für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. Dezember 2021 beginnen, nach Maßgabe der Absätze 2 bis 4 erbracht.
+(1) Leistungen nach dem Dritten und Vierten Kapitel werden für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. März 2022 beginnen, nach Maßgabe der Absätze 2 bis 4 erbracht.
 
 (2) Abweichend von § 2 Absatz 1, § 19 Absatz 1, 2 und 5, § 27 Absatz 1 und 2, § 39, § 41 Absatz 1, § 43 Absatz 1, § 43a Absatz 2 und § 90 wird Vermögen für die Dauer von sechs Monaten nicht berücksichtigt. Satz 1 gilt nicht, wenn das Vermögen erheblich ist; es wird vermutet, dass kein erhebliches Vermögen vorhanden ist, wenn die leistungsnachsuchenden Personen dies im Antrag erklären.
 
@@ -3773,7 +3773,7 @@ Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anz
 
 (5) Abweichend von § 34a Absatz 1 Satz 1 gilt der Antrag auf Leistungen nach § 34 Absatz 5 in der Zeit vom 1. Juli 2021 bis zum Ablauf des 31. Dezember 2023 als von dem Antrag auf Leistungen zur Sicherung des Lebensunterhalts mit umfasst. Dies gilt für ab dem 1. Juli 2021 entstehende Lernförderungsbedarfe auch dann, wenn die jeweiligen Bewilligungszeiträume nur teilweise in den in Satz 1 genannten Zeitraum fallen, weil sie entweder bereits vor dem 1. Juli 2021 begonnen haben oder erst nach dem 31. Dezember 2023 enden.
 
-(6) (weggefallen)
+(6) Die Bundesregierung wird ermächtigt, den in Absatz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
 # § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie
 

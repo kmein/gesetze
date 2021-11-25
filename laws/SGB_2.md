@@ -191,7 +191,7 @@
 | § 65d | Übermittlung von Daten                                                                                                                                   |
 | § 65e | Übergangsregelung zur Aufrechnung                                                                                                                        |
 | § 66  | Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit                                                                                              |
-| § 67  | Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie                                                            |
+| § 67  | Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung                                   |
 | § 68  | Regelungen zu Bedarfen für Bildung aus Anlass der COVID-19-Pandemie                                                                                      |
 | § 69  | Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten                                                                          |
 | § 70  | Einmalzahlung aus Anlass der COVID-19-Pandemie                                                                                                           |
@@ -2141,9 +2141,9 @@ Der zuständige Träger der Leistungen nach diesem Buch kann mit Zustimmung des 
 
 (2) Ist eine Leistung nur für einen begrenzten Zeitraum zuerkannt worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der Entscheidung über die Verlängerung geltenden Vorschriften.
 
-# § 67 – Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie
+# § 67 – Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
-(1) Leistungen für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. Dezember 2021 beginnen, werden nach Maßgabe der Absätze 2 bis 4 erbracht.
+(1) Leistungen für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. März 2022 beginnen, werden nach Maßgabe der Absätze 2 bis 4 erbracht.
 
 (2) Abweichend von den §§ 9, 12 und 19 Absatz 3 wird Vermögen für die Dauer von sechs Monaten nicht berücksichtigt. Satz 1 gilt nicht, wenn das Vermögen erheblich ist; es wird vermutet, dass kein erhebliches Vermögen vorhanden ist, wenn die Antragstellerin oder der Antragsteller dies im Antrag erklärt.
 
@@ -2151,7 +2151,7 @@ Der zuständige Träger der Leistungen nach diesem Buch kann mit Zustimmung des 
 
 (4) Sofern über die Leistungen nach § 41a Absatz 1 Satz 1 vorläufig zu entscheiden ist, ist über den Anspruch auf Leistungen zur Sicherung des Lebensunterhalts abweichend von § 41 Absatz 3 Satz 1 und 2 für sechs Monate zu entscheiden. In den Fällen des Satzes 1 entscheiden die Träger der Grundsicherung für Arbeitsuchende für Bewilligungszeiträume, die bis zum 31. März 2021 begonnen haben, abweichend von § 41a Absatz 3 nur auf Antrag abschließend über den monatlichen Leistungsanspruch.
 
-(5) (weggefallen)
+(5) Die Bundesregierung wird ermächtigt, den in Absatz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
 (6) (weggefallen)
 
