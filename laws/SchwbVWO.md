@@ -411,9 +411,9 @@ Für die Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehind
 
 # § 28 – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
-(1) Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag kann die Wahlversammlung der Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
+(1) Bis zum Ablauf des 19. März 2022 kann die Wahlversammlung der Schwerbehindertenvertretung im vereinfachten Wahlverfahren mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. Satz 1 gilt nicht für die Ausübung des Wahlrechts durch Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder.
 
-(2) Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag gilt § 11 für die Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder im vereinfachten Wahlverfahren entsprechend.
+(2) Bis zum Ablauf des 19. März 2022 gilt § 11 für die Stimmabgabe bei der Wahl der Schwerbehindertenvertretung und ihrer stellvertretenden Mitglieder im vereinfachten Wahlverfahren entsprechend.
 
 # § 29 – (Inkrafttreten)
 

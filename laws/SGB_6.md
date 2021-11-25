@@ -8934,7 +8934,7 @@ Als Kalenderjahr nach § 34 Absatz 3c und 3d, in dem erstmals Hinzuverdienst ber
 
 (7) Besteht Anspruch auf eine Rente wegen Alters und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2022 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
 
-(8) § 34 findet in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 mit den Maßgaben Anwendung, dass
+(8) § 34 findet in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2022 mit den Maßgaben Anwendung, dass
 
 1. der Betrag von 6 300 Euro durch den Betrag von 46 060 Euro ersetzt wird und
 

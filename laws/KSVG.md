@@ -19,7 +19,7 @@ Künstler im Sinne dieses Gesetzes ist, wer Musik, darstellende oder bildende Ku
 
 (2) Absatz 1 gilt nicht bis zum Ablauf von drei Jahren nach erstmaliger Aufnahme der Tätigkeit. Die Frist nach Satz 1 verlängert sich um die Zeiten, in denen keine Versicherungspflicht nach diesem Gesetz oder Versicherungsfreiheit nach § 5 Abs. 1 Nr. 8 besteht.
 
-(3) Abweichend von Absatz 1 bleibt die Versicherungspflicht bestehen, solange das Arbeitseinkommen nicht mehr als zweimal innerhalb von sechs Kalenderjahren die dort genannte Grenze nicht übersteigt. Ein Unterschreiten der Grenze in den Jahren 2020 und 2021 bleibt dabei unberücksichtigt.
+(3) Abweichend von Absatz 1 bleibt die Versicherungspflicht bestehen, solange das Arbeitseinkommen nicht mehr als zweimal innerhalb von sechs Kalenderjahren die dort genannte Grenze nicht übersteigt. Ein Unterschreiten der Grenze in den Jahren 2020 bis 2022 bleibt dabei unberücksichtigt.
 
 (4) (weggefallen)
 
@@ -501,7 +501,7 @@ Die Künstlersozialkasse hat die Versicherten und die zur Künstlersozialabgabe 
 
 # § 53
 
-Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum vom 23. Juli 2021 bis zum Ablauf des 31. Dezember 2021 erst dann versicherungsfrei, wer eine nicht unter § 2 fallende selbstständige Tätigkeit erwerbsmäßig ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich 1 300 Euro im Monat übersteigt, wenn eine Versicherungsfreiheit in der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist oder eintritt.
+Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum vom 23. Juli 2021 bis zum Ablauf des 31. Dezember 2022 erst dann versicherungsfrei, wer eine nicht unter § 2 fallende selbstständige Tätigkeit erwerbsmäßig ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich 1 300 Euro im Monat übersteigt, wenn eine Versicherungsfreiheit in der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist oder eintritt.
 
 # § 55
 

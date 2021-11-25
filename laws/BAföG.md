@@ -1185,7 +1185,7 @@ werden durch dieses Gesetz nicht berührt.
 
 \-
 
-# § 66a – Übergangs- und Anwendungsvorschrift
+# § 66a – Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
 
 (1) Für Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits erworbenem Hochschulabschluss die Leistung von Ausbildungsförderung nach § 7 Absatz 1 bewilligt wurde, ist diese Vorschrift bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden. Für Auszubildende, deren Bewilligungszeitraum vor dem 1. August 2016 begonnen hat, ist § 45 Absatz 1 Satz 2 Nummer 6 bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden.
 
@@ -1203,7 +1203,35 @@ werden durch dieses Gesetz nicht berührt.
 
 (8) Abweichend von § 18 Absatz 3 Satz 1 und § 18c Absatz 6 und 7 beträgt die Rate bis zum 31. März 2020 105 Euro.
 
-(8a) § 21 Absatz 4 Nummer 5 ist ab dem ersten Tag des Monats nicht mehr anzuwenden, der auf den Monat folgt, in dem die Aufhebung der vom Deutschen Bundestag festgestellten epidemischen Lage von nationaler Tragweite infolge der COVID-19-Pandemie nach § 5 Absatz 1 Satz 3 des Infektionsschutzgesetzes bekannt gemacht wird. Der nach Satz 1 maßgebliche Tag ist vom Bundesministerium für Bildung und Forschung im Bundesgesetzblatt bekannt zu machen.
+(8a) § 21 Absatz 4 Nummer 5 ist ab dem 1. April 2022 nicht mehr anzuwenden.
+
+(8b) Die Bundesregierung wird ermächtigt, die Anwendung des § 21 Absatz 4 Nummer 5 durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum Ablauf des 31. Dezember 2022 zu verlängern, soweit dies auf Grund fortbestehender Auswirkungen der COVID-19-Pandemie in der Bundesrepublik Deutschland erforderlich ist.
+
+(9) Für Bewilligungszeiträume, die vor dem 1. August 2020 begonnen haben, sind die §§ 12, 13, 14b Absatz 1 Satz 1, die §§ 23, 25 und 29 in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2020 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2020 begonnen haben.
+
+(10) Für Bewilligungszeiträume, die vor dem 1. August 2021 begonnen haben, sind die §§ 23 und 25 in der bis zum 31. Juli 2021 anzuwendenden Fassung weiter anzuwenden. Ab dem 1. Oktober 2021 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2021 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2021 begonnen haben.
+
+# § 66a – Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
+
+(1) Für Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits erworbenem Hochschulabschluss die Leistung von Ausbildungsförderung nach § 7 Absatz 1 bewilligt wurde, ist diese Vorschrift bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden. Für Auszubildende, deren Bewilligungszeitraum vor dem 1. August 2016 begonnen hat, ist § 45 Absatz 1 Satz 2 Nummer 6 bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden.
+
+(2) Die §§ 2, 7, 10, 11, 12, 13, 13a, 14b, 15, 17 Absatz 3, die §§ 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) geänderten Fassung sind erst ab dem 1. August 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.
+
+(3) § 17 Absatz 2, die §§ 18, 18a, 18b, 18d, 58 und 60 Nummer 2 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) geänderten Fassung sind erst ab dem 1. September 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.
+
+(4) Für Bewilligungszeiträume, die vor dem 1. August 2019 begonnen haben, sind die §§ 11, 12, 13, 13a, 14b, 17 Absatz 3, die §§ 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der bis zum 31. Juli 2019 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2019 sind die §§ 12, 13, 13a, 14b, 21, 23 und 25 in der ab dem 1. August 2019 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2019 begonnen haben. Bei der Rückzahlung der Darlehen ist für die Einkommensfreistellung nach § 18a die Regelung des § 21 in der ab dem 1. August 2019 geltenden Fassung abweichend von Satz 1 bereits ab dem 1. September 2019 anzuwenden.
+
+(5) Für Auszubildende, denen für einen vor dem 1. August 2019 begonnenen Ausbildungsabschnitt Förderung geleistet wurde für den Besuch einer staatlichen Akademie, welche Abschlüsse verleiht, die nach Landesrecht Hochschulabschlüssen gleichgestellt sind, sind bis zum Ende dieses Ausbildungsabschnitts § 15 Absatz 2 Satz 1 und § 50 Absatz 2 Satz 4 in der am 31. Juli 2019 geltenden Fassung weiter anzuwenden. § 18 Absatz 4 Satz 1 in der ab dem 1. September 2019 geltenden Fassung gilt für sie mit der Maßgabe, dass ausschließlich die Nummer 2 anzuwenden ist.
+
+(6) Für Darlehensnehmende, denen vor dem 1. September 2019 Förderung nach § 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden Fassung geleistet wurde, sind diese Regelung, § 18 mit Ausnahme des Absatzes 3 Satz 1 und des Absatzes 5c sowie § 18a Absatz 5, die §§ 18b, 58 Absatz 1 Nummer 3 und § 60 Nummer 2 in der am 31. August 2019 geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die Förderungsleistungen jeweils auch noch über den 31. August 2019 hinaus erbracht werden.
+
+(7) Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit Ausnahme von Bankdarlehen nach § 18c, können binnen einer Frist von sechs Monaten nach diesem Datum jeweils durch schriftliche oder elektronische Erklärung gegenüber dem Bundesverwaltungsamt verlangen, dass für die Rückzahlung des gesamten Darlehens § 18 Absatz 12 und § 18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind. Für Darlehensnehmende, die den dort genannten Rückzahlungszeitraum von 20 Jahren überschritten haben, gilt Satz 1 mit der Maßgabe, dass für den Erlass nach § 18 Absatz 12 Satz 1 in der ab dem 1. September 2019 anzuwendenden Fassung die Voraussetzungen für den gesamten Zeitraum vor Äußerung des Verlangens vorgelegen haben müssen.
+
+(8) Abweichend von § 18 Absatz 3 Satz 1 und § 18c Absatz 6 und 7 beträgt die Rate bis zum 31. März 2020 105 Euro.
+
+(8a) § 21 Absatz 4 Nummer 5 ist ab dem 1. April 2022 nicht mehr anzuwenden.
+
+(8b) Die Bundesregierung wird ermächtigt, die Anwendung des § 21 Absatz 4 Nummer 5 durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum Ablauf des 31. Dezember 2022 zu verlängern, soweit dies auf Grund fortbestehender Auswirkungen der COVID-19-Pandemie in der Bundesrepublik Deutschland erforderlich ist.
 
 (9) Für Bewilligungszeiträume, die vor dem 1. August 2020 begonnen haben, sind die §§ 12, 13, 14b Absatz 1 Satz 1, die §§ 23, 25 und 29 in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2020 anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1. August 2020 begonnen haben.
 

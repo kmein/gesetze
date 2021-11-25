@@ -2387,13 +2387,15 @@ beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zu
 
 # § 107e – Sonderregelungen zur Bewältigung der COVID-19-Pandemie
 
-(1) Für Ruhestandsbeamte, die ein Erwerbseinkommen aus einer Beschäftigung erzielen, die in unmittelbarem Zusammenhang mit der Bewältigung der Auswirkungen der COVID-19-Pandemie steht, beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zum 31. Dezember 2021 150 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Absatz 1. § 53 Absatz 5 Satz 2 und 3 ist nicht anzuwenden. Die Sätze 1 und 2 gelten nicht für Beamte, die wegen Dienstunfähigkeit oder nach § 52 Absatz 1 oder 2 des Bundesbeamtengesetzes in den Ruhestand versetzt worden sind.
+(1) Für Ruhestandsbeamte, die ein Erwerbseinkommen aus einer Beschäftigung erzielen, die in unmittelbarem Zusammenhang mit der Bewältigung der Auswirkungen der COVID-19-Pandemie steht, beträgt die Höchstgrenze nach § 53 Absatz 2 Nummer 1 erste Alternative bis zum 31. Dezember 2022 150 Prozent der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Absatz 1. § 53 Absatz 5 Satz 2 und 3 ist nicht anzuwenden. Die Sätze 1 und 2 gelten nicht für Beamte, die wegen Dienstunfähigkeit oder nach § 52 Absatz 1 oder 2 des Bundesbeamtengesetzes in den Ruhestand versetzt worden sind.
 
-(2) Anspruch auf Waisengeld besteht auch dann, wenn wegen der COVID-19-Pandemie
+(2) Anspruch auf Waisengeld besteht auch dann, wenn wegen der Auswirkungen der COVID-19-Pandemie
 
 1. eine Schul- oder Berufsausbildung oder ein freiwilliger Dienst im Sinne des § 61 Absatz 2 Satz 1 Nummer 1 Buchstabe a oder Buchstabe c nicht angetreten werden kann oder
 
 2. die Übergangszeit nach § 61 Absatz 2 Satz 1 Nummer 1 Buchstabe b überschritten wird.
+
+(3) Eine in der Zeit vom 1. März 2020 bis 31. März 2022 gewährte Leistung, die nach § 3 Nummer 11a des Einkommensteuergesetzes steuerfrei ist, gilt bis zu einem Betrag von 1 500 Euro nicht als Erwerbseinkommen.
 
 # § 108 – Anwendungsbereich in den Ländern
 
