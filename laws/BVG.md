@@ -1955,7 +1955,7 @@ haben dieses im Januar 2020 zufließende Einkommen abweichend von § 25d nicht f
 
 # § 88a
 
-(1) Ergänzende Hilfe zum Lebensunterhalt nach § 27a für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. Dezember 2021 beginnen, wird nach Maßgabe der Absätze 2 bis 4 erbracht.
+(1) Ergänzende Hilfe zum Lebensunterhalt nach § 27a für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. März 2022 beginnen, wird nach Maßgabe der Absätze 2 bis 4 erbracht.
 
 (2) Abweichend von den §§ 25c und 25f wird Vermögen für die Dauer von sechs Monaten nicht berücksichtigt. Satz 1 gilt nicht, wenn das Vermögen erheblich ist; es wird vermutet, dass kein erhebliches Vermögen vorhanden ist, wenn die Antragstellerin oder der Antragsteller dies im Antrag erklärt.
 
@@ -1963,7 +1963,7 @@ haben dieses im Januar 2020 zufließende Einkommen abweichend von § 25d nicht f
 
 (4) Sofern Geldleistungen der ergänzenden Hilfe zum Lebensunterhalt für Bewilligungszeiträume, die bis zum 31. März 2021 begonnen haben, vorschussweise nach § 42 des Ersten Buches Sozialgesetzbuch zu bewilligen sind, ist über den monatlichen Leistungsanspruch nur auf Antrag der leistungsberechtigten Person abschließend zu entscheiden.
 
-(5) (weggefallen)
+(5) Die Bundesregierung wird ermächtigt, den in Absatz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
 (6) (weggefallen)
 
