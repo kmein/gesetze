@@ -3353,7 +3353,7 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 
 (8) Bestand am 31. Dezember 2018 Anspruch auf eine vorzeitige Altersrente, ist § 27b nicht anzuwenden.
 
-(9) § 27b findet in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 keine Anwendung.
+(9) § 27b findet in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2022 keine Anwendung.
 
 # § 106a – Einkommensanrechnung auf Renten wegen Todes
 

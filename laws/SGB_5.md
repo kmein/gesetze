@@ -12285,6 +12285,8 @@ Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die §§ 155 
 
 Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.
 
+(+++ Hinweis: Zur Verlängerung der Frist nach § 415 Satz 1 vgl. § 415 Satz 4 iVm Art. 2 V v. 19.11.2021 BAnz AT 22.11.2021 V1 +++)
+
 # § 416 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
 
 § 5 Absatz 4a Satz 1 Nummer 3 findet grundsätzlich nur Anwendung auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die Ausbildung vor diesem Zeitpunkt begonnen und wurden
