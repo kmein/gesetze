@@ -4940,6 +4940,8 @@ Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmene
 
 (9) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrats die in Absatz 2 Satz 4 genannte Frist um bis zu neun Monate verlängern.
 
+(+++ Hinweis: Zur Verlängerung der Frist nach § 111d Abs. 2 Satz 4 vgl. § 4 V v. 7.4.2021 BAnz AT 08.04.2021 V1 +++)
+
 # § 112 – Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam schließen mit der Landeskrankenhausgesellschaft oder mit den Vereinigungen der Krankenhausträger im Land gemeinsam Verträge, um sicherzustellen, daß Art und Umfang der Krankenhausbehandlung den Anforderungen dieses Gesetzbuchs entsprechen.
@@ -12285,7 +12287,7 @@ Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die §§ 155 
 
 Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.
 
-(+++ Hinweis: Zur Verlängerung der Frist nach § 415 Satz 1 vgl. § 415 Satz 4 iVm Art. 2 V v. 19.11.2021 BAnz AT 22.11.2021 V1 +++)
+(+++ Hinweis: Zur Verlängerung der Frist nach § 415 Satz 1 vgl. § 4 V v. 7.4.2021 BAnz AT 08.04.2021 V1 +++)
 
 # § 416 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
 

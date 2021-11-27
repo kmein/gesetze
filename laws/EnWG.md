@@ -1422,7 +1422,7 @@ ein Punkt, an dem Gas an einen Netzbetreiber in dessen Netz oder Teilnetz überg
 
 14. Energie
 
-Elektrizität Gas und Wasserstoff, soweit sie zur leitungsgebundenen Energieversorgung verwendet werden,
+Elektrizität, Gas und Wasserstoff, soweit sie zur leitungsgebundenen Energieversorgung verwendet werden,
 
 15. Energieanlagen
 
@@ -5026,7 +5026,7 @@ In Verfahren wegen leichtfertig begangener Straftaten wird die Bundesnetzagentur
 
 6. Entscheidungen, die auf Grund von Verordnungen nach § 13i Absatz 3 Nummer 1 Buchstabe a, b, c, f sowie Nummer 2 und Absatz 4 getroffen werden, mit Ausnahme der Kriterien einer angemessenen Vergütung,
 
-7. Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5 Nummer 1 und 2 und Absatz 6,
+7. Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5, 7 Nummer 1 und 2 und Absatz 6,
 
 8. Aufgaben nach § 14 Absatz 2 und den §§ 14c bis 14e,
 
