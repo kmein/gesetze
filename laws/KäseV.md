@@ -96,6 +96,65 @@ e) die zur Lösung oder Emulgierung von Beta-Carotin (E 160a) erforderliche Meng
 
 (4) (weggefallen)
 
+# § 3 – Anforderungen an die Herstellung von Käse
+
+(1) Bei der Herstellung von Käse, ausgenommen Molkenkäse, dürfen außer Käsereimilch (§ 1 Abs. 2) nur verwendet werden
+
+1. a) Wiederkäuermagenlab oder Zubereitungen aus Wiederkäuermagenlab, Wiederkäuermagenpepsin und Schweinemagenpepsin (Lab-Pepsin-Zubereitungen), wobei der Anteil Chymosin mindestens 25 v.H. betragen muß,
+
+b) Labaustauschstoffe (§ 20 Abs. 1 Satz 2),
+
+c) Bakterien-, Hefe- und Pilzkulturen; bei Frischkäse dürfen Hefe- und Pilzkulturen nicht und Bakterienkulturen nur verwendet werden, soweit sie nicht zu einer Oberflächenreifung führen,
+
+d) (weggefallen)
+
+e) Trockenmilcherzeugnisse, Milcheiweißerzeugnisse, ausgenommen Kasein und Kaseinat, und eiweißangereichertes Molkenpulver zur Eiweißstandardisierung in technologisch notwendigem Umfang, höchstens jedoch in einer Gesamtmenge, durch die der Eiweißgehalt in einem Kilogramm Käsereimilch bis zu 3 Gramm erhöht wird, nicht jedoch in Käsereimilch zur Herstellung der Standardsorten der Gruppe Frischkäse,
+
+f) Zentrifugat aus Entkeimungseinrichtungen, die einer Einrichtung zur Reinigung der Milch nachgeschaltet sind, wenn sie
+
+\-  
+der gleichen Milch in entsprechenden Anteilen zur Herstellung von Käse, ausgenommen Frisch- und Weichkäse, zugesetzt werden,
+
+\-  
+in geeigneten Einrichtungen nach Verfahren gewonnen werden, die von dem Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel, oder dem Forschungszentrum für Milch und Lebensmittel, Weihenstephan, anerkannt und von der zuständigen Behörde genehmigt sind, und
+
+\-  
+nach einem von der zuständigen Behörde genehmigten Wärmebehandlungsverfahren ausreichend erhitzt worden sind,
+
+g) Laktase;
+
+2. a) Speisesalz, jodiertes Speisesalz,
+
+b) Gewürze, Gewürzzubereitungen, Kräuter und Kräuterzubereitungen sowie die ihnen jeweils entsprechenden Aromen mit natürlichen Aromastoffen und Aromaextrakten,
+
+c) Trinkwasser und Wasserdampf aus Trinkwasser,
+
+d) (weggefallen)
+
+e) die zur Lösung oder Emulgierung von Beta-Carotin (E 160a) erforderliche Menge Speiseöl unter Mitverwendung von Speisegelatine und Stärke,
+
+f) frisch entwickelter Rauch im Sinne des § 4 Absatz 2 der Aromendurchführungsverordnung;
+
+3. bei geriebenem, geraspeltem oder gestifteltem Käse in technologisch notwendigem Umfang, höchstens jedoch bis zu 3 Prozent, Kartoffel- und Maisstärke, auch in einer Mischung, als Trennmittel;
+
+4. bei Hartkäse, Schnittkäse und halbfestem Schnittkäse mit geschlossener Rinde oder Haut außerdem Speiseöl zum Behandeln der Oberfläche;
+
+5. bei Frischkäse außerdem Sahneerzeugnisse zum Einstellen des Fettgehaltes;
+
+6. bei wärmebehandeltem Frischkäse in technologisch notwendigem Umfang Stärke und Speisegelatine.
+
+(2) Bei der Herstellung von Molkenkäse dürfen außer den in § 1 Abs. 3 genannten Erzeugnissen nur die in Absatz 1 Nr. 2 genannten Stoffe verwendet werden.
+
+(2a) Bei der Herstellung von Sauermilchkäse dürfen außer Sauermilchquark nur die in Absatz 1 Nr. 2 genannten Stoffe verwendet werden. Dem Sauermilchquark dürfen Frischkäse und bis zu 9% seines Gewichtes Milcheiweißerzeugnisse zugesetzt sein.
+
+(2b) Der Sauermilchquark muß aus entrahmter Milch unter Verwendung von Milchsäurebakterien, auch unter Mitverwendung von Lab oder Labaustauschstoffen und unter Wärmeeinwirkung, hergestellt sein; er muß eine fettfreie Milchtrockenmasse von mindestens 32% aufweisen.
+
+(3) (weggefallen)
+
+(3a)(weggefallen)
+
+(4) (weggefallen)
+
 # § 4 – Anforderungen an die Herstellung von Erzeugnissen aus Käse
 
 (1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in den Begriffsbestimmungen für diese Erzeugnisse in § 1 Abs. 4 jeweils genannten Erzeugnissen und vorbehaltlich des § 23 nur verwendet werden
@@ -103,6 +162,34 @@ e) die zur Lösung oder Emulgierung von Beta-Carotin (E 160a) erforderliche Meng
 1. die in § 3 Abs. 1 Nr. 2 genannten Stoffe;
 
 2\. u. 3. (weggefallen)
+
+4. bei Käsezubereitungen
+
+a) im Falle eines Trockenmassegehaltes von mindestens 35 vom Hundert Kaseinat bis zu 5 vom Hundert des Gesamtgewichts des Fertigerzeugnisses und
+
+b) in technologisch notwendigem Umfang Zitrusfaser;
+
+5. bei Käsezubereitungen und Schmelzkäsezubereitungen
+
+a) Stärke, Speisegelatine und Laktase und
+
+b) in technologisch notwendigem Umfang Inulin.
+
+(2) Bei der Herstellung von Käsezubereitungen muß der Gewichtsanteil des Käses an den insgesamt zur Herstellung verwendeten Stoffen mindestens 50 v.H. betragen.
+
+(3) Käsezubereitungen und Schmelzkäsezubereitungen dürfen an beigegebenen Lebensmitteln nicht mehr als 15 v.H. des Gesamtgewichts des Fertigerzeugnisses enthalten.
+
+(4) Käsezubereitungen aus Frischkäse, die unter Verwendung von Früchten, Fruchterzeugnissen, Gemüse oder Gemüseerzeugnissen hergestellt werden, dürfen abweichend von Absatz 3 bis zu 30 v. H. des Gesamtgewichts des Fertigerzeugnisses an diesen Lebensmitteln enthalten.
+
+# § 4 – Anforderungen an die Herstellung von Erzeugnissen aus Käse
+
+(1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in den Begriffsbestimmungen für diese Erzeugnisse in § 1 Abs. 4 jeweils genannten Erzeugnissen nur verwendet werden
+
+1. die in § 3 Abs. 1 Nr. 2 genannten Stoffe;
+
+2. (weggefallen)
+
+3. (weggefallen)
 
 4. bei Käsezubereitungen
 
@@ -485,6 +572,8 @@ Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in Packungen oder Be
 
 Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus naturbelassenen Hölzern und Zweigen, Heidekraut und Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen. Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1 myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu werden, und von Erzeugnissen aus Käse mit dem gleichen Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2 festgesetzte Höchstmenge hinaus nicht verwendet werden.
 
+# §§ 23 bis 26 – (weggefallen)
+
 # §§ 24 bis 26 – (weggefallen)
 
 # § 27 – Befugnisse der Länder
@@ -526,6 +615,42 @@ Die Vorschriften dieser Verordnung finden keine Anwendung auf
 (4) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 15 Abs. 5 oder § 28 Abs. 3 Satz 1 dort genannten Käse oder ein Erzeugnis aus Käse in den Verkehr bringt.
 
 (5) Wer eine in den Absätzen 2 bis 4 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
+
+(6) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+
+1. (weggefallen)
+
+2. die nach § 20 Abs. 6 vorgeschriebene Reinigung oder Desinfektion nicht oder nicht ausreichend durchführt.
+
+(7) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+
+1. entgegen § 14 Abs. 1 in Verbindung mit Absatz 2 Nr. 1 bis 4, Abs. 4 oder 6 Nr. 1 Buchstabe a oder c oder Nr. 2 Buchstabe a oder c Käse oder Erzeugnisse aus Käse, die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet sind, oder
+
+2. Lab-Pepsin-Zubereitungen oder Labaustauschstoffe
+
+a) entgegen § 22 Satz 1 nicht in Packungen oder Behältnissen oder
+
+b) in Packungen oder Behältnissen, die entgegen § 22 Satz 2 nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet sind,
+
+gewerbsmäßig in den Verkehr bringt.
+
+(8) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
+
+1. der Anmeldepflicht nach § 21 Abs. 1 Satz 1 nicht nachkommt oder
+
+2. entgegen § 21 Abs. 2 Labaustauschstoffe in den Geltungsbereich dieser Verordnung verbringt.
+
+# § 30 – Straftaten und Ordnungswidrigkeiten
+
+(1) (weggefallen)
+
+(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 20 Abs. 1 Satz 1 Labaustauschstoffe ohne Genehmigung herstellt.
+
+(3) (weggefallen)
+
+(4) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 15 Abs. 5 oder § 28 Abs. 3 Satz 1 dort genannten Käse oder ein Erzeugnis aus Käse in den Verkehr bringt.
+
+(5) Wer eine in den Absätzen 2 und 4 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
 (6) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
