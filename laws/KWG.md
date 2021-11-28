@@ -1516,11 +1516,11 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, deren Haupttätigkeit in dem Betreiben von Bankgeschäften oder dem Erbringen von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 besteht,
 
-b) das Bankgeschäft des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 der Kommission vom 1. Dezember 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der Kriterien, nach denen eine Tätigkeit als Nebentätigkeit zur Haupttätigkeit gilt (ABl. L 87 vom 31.3.2017, S. 492) in der jeweils geltenden Fassung, ist,
+b) das Bankgeschäft in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellt; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt,
 
 c) dieses Nebengeschäft ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird,
 
-d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+d) das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt;
 
 e) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
 
@@ -1592,11 +1592,11 @@ betreiben, sofern sich diese Finanzdienstleistungen auf Anteile oder Aktien an i
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttätigkeit Bankgeschäfte betreibt oder Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 erbringt,
 
-b) die Finanzdienstleistung des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist,
+b) die Finanzdienstleistungen in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellen; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt,
 
 c) dieses Nebengeschäft, soweit das Unternehmen nicht die Finanzdienstleistung im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a erbringt, ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird,
 
-d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+d) das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
 
 e) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
 
@@ -4772,9 +4772,9 @@ um objektiv messbar die Risiken aus der Geschäftstätigkeit oder dem Liquiditä
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttätigkeit Bankgeschäfte betreibt oder Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 erbringt,
 
-b) das Eigengeschäft des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist,
+b) das Eigengeschäft in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellt; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt,
 
-c) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt. Für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 24 Absatz 4 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden und
+c) das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
 
 d) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt,
 

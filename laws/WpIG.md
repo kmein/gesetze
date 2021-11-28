@@ -421,13 +421,11 @@ erbringen, sofern sich diese Wertpapierdienstleistungen auf Anteile oder Aktien 
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttätigkeit Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 erbringt,
 
-b) die Wertpapierdienstleistung des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 2 der Delegierten Verordnung (EU) 2017/592 der Kommission vom 1. Dezember 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der Kriterien, nach denen eine Tätigkeit als Nebentätigkeit zur Haupttätigkeit gilt (ABl. L 87 vom 31.3.2017, S. 492) darstellt,
+b) die Wertpapierdienstleistung in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellt; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt.
 
 c) diese Nebentätigkeit, soweit das Unternehmen nicht die Wertpapierdienstleistung im Sinne des § 2 Absatz 2 Nummer 10 Buchstabe a erbringt, ausschließlich als Dienstleistung für die Kunden oder Zulieferer ihrer Haupttätigkeit betrieben wird,
 
-d) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt; für Zeitpunkt, Inhalt und Form der Anzeige und gegebenenfalls für die Führung eines öffentlichen Registers können nähere Bestimmungen in der Rechtsverordnung nach § 14 Absatz 3 erlassen werden; insbesondere kann dem Betreiber ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und er mit der Verantwortung für die Richtigkeit und Aktualität der Seite belastet werden; und
-
-e) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
+d) das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
 
 14. Unternehmen, die das Finanzkommissionsgeschäft ausschließlich als Dienstleistung für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs betreiben;
 
@@ -709,11 +707,9 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 a) das Unternehmen nicht Teil einer Unternehmensgruppe ist, die in der Haupttätigkeit Wertpapierdienstleistungen erbringt,
 
-b) die Wertpapierdienstleistung des Unternehmens und der Gruppe im Verhältnis zu der sonstigen Tätigkeit des Unternehmens sowie der Gruppe auf individueller und aggregierter Basis eine Nebentätigkeit im Sinne des Artikels 1 der Delegierten Verordnung (EU) 2017/592 ist,
+b) die Wertpapierdienstleistung in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellt; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt.
 
-c) das Unternehmen die Inanspruchnahme dieser Ausnahme der Bundesanstalt jährlich anzeigt und
-
-d) das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt oder
+c) das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
 
 4. das Eigengeschäft als Mitglied einer Börse oder Teilnehmer eines Handelsplatzes von einem in einem Drittstaat ansässigen Unternehmen betrieben wird; dies gilt bis zu einer Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4; L 278 vom 27.10.2017, S. 54), die zuletzt durch die Verordnung (EU) 2019/2033 (ABl. L 314 vom 5.12.2019, S. 314) geändert worden ist.
 
