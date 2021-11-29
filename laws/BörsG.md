@@ -313,6 +313,10 @@ Geltung für Wechsel und ausländische Zahlungsmittel
 
 Übergangsregelungen
 
+§ 53
+
+Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz
+
 # § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz enthält Regelungen insbesondere zum Betrieb und zur Organisation von Börsen, zur Zulassung von Handelsteilnehmern, Finanzinstrumenten, Rechten und Wirtschaftsgütern zum Börsenhandel, zur Ermittlung von Börsenpreisen, zu den Zuständigkeiten und Befugnissen der zuständigen obersten Landesbehörde (Börsenaufsichtsbehörde) und zur Ahndung von Verstößen hinsichtlich
@@ -941,11 +945,13 @@ Börsen müssen für jedes Finanzinstrument, das an ihnen gehandelt wird, mindes
 
 1. die offenen Kontraktpositionen jedes Handelsteilnehmers zu überwachen,
 
-2. von jedem Handelsteilnehmer Zugang zu Informationen, einschließlich aller einschlägigen Unterlagen, über Größe und Zweck einer von ihm eingegangenen Position oder offenen Forderung, über wirtschaftliche oder tatsächliche Eigentümer, etwaige Absprachen sowie über alle zugehörigen Vermögenswerte oder Verbindlichkeiten am Basismarkt zu erhalten,
+2. von Handelsteilnehmern Zugang zu Informationen, einschließlich aller einschlägigen Unterlagen, über Größe und Zweck einer eingegangenen Position oder offenen Forderung, über wirtschaftliche oder tatsächliche Eigentümer, etwaige Absprachen sowie alle etwaigen zugehörigen Vermögenswerte oder Verbindlichkeiten im einschlägigen Basiswert zu erhalten, gegebenenfalls auch zu Positionen, die in Warenderivaten mit demselben Basiswert und denselben Eigenschaften an anderen Handelsplätzen und in wirtschaftlich gleichwertigen OTC-Kontrakten über Mitglieder und Teilnehmer gehalten werden,
 
 3. von jedem Handelsteilnehmer die zeitweilige oder dauerhafte Auflösung oder Reduzierung einer von ihm eingegangenen Position zu verlangen und, falls der Betreffende dem nicht nachkommt, einseitig geeignete Maßnahmen zu ergreifen, um die Auflösung oder Reduzierung sicherzustellen, und
 
 4. von jedem Handelsteilnehmer zu verlangen, zeitweilig Liquidität zu einem vereinbarten Preis und in vereinbartem Umfang eigens zu dem Zweck in den Markt zurückfließen zu lassen, die Auswirkungen einer großen oder marktbeherrschenden Position abzumildern.
+
+Nähere Bestimmungen zum Inhalt der Positionsmanagementkontrollen ergeben sich aus den von der Kommission aufgrund der gemäß Artikel 57 Absatz 8 der Richtlinie 2014/65/EU in der jeweils geltenden Fassung in Verbindung mit den Absätzen 10 bis 14 der Verordnung (EU) Nr. 1095/2010 erlassenen technischen Regulierungsstandards.
 
 (2) Die Börse unterrichtet die Börsenaufsichtsbehörde über Einzelheiten der Positionsmanagementkontrollen nach Absatz 1. Die Börsenaufsichtsbehörde übermittelt diese Informationen an die Bundesanstalt und an die Europäische Wertpapier- und Marktaufsichtsbehörde.
 
@@ -1410,3 +1416,7 @@ Entscheidet sich die Börsenaufsichtsbehörde für eine Bekanntmachung in anonym
 (10) § 32 Absatz 3 Nummer 2 in der bis zum 20. Juli 2019 geltenden Fassung findet weiterhin Anwendung für den Fall eines Prospekts, der nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat, und für den Fall, dass die Zulassung vor dem 21. Juli 2019 beantragt wurde und zu diesem Zeitpunkt von der Veröffentlichung eines Prospekts nach § 1 Absatz 2 oder § 4 Absatz 2 des Wertpapierprospektgesetzes in der bis zum 20. Juli 2019 geltenden Fassung abgesehen werden durfte.
 
 (11) § 48a Absatz 1 Satz 1 Nummer 3 in der bis zum 20. Juli 2019 geltenden Fassung findet weiterhin Anwendung für den Fall eines Prospekts, der nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat.
+
+# § 53 – Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz
+
+§ 26e findet bis zum 27. Februar 2023 keine Anwendung.

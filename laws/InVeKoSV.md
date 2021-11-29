@@ -129,20 +129,6 @@ zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Ve
 
 (3) Für die Übermittlung elektronischer Dokumente sowie für die Übermittlung der einem elektronisch übermittelten Dokument beizufügenden Dokumente, die nicht elektronisch übermittelt werden oder nicht elektronisch übermittelt werden können, sind die geltenden Fristen gleichermaßen wie bei nicht elektronischer Übermittlung zu beachten.
 
-# § 7 – Form und Frist
-
-(1) Die in § 1 Absatz 1 Nummer 2 genannten Direktzahlungen werden auf Antrag gewährt. Der Antrag ist als Sammelantrag nach Artikel 11 der Delegierten Verordnung (EU) Nr. 640/2014 zu stellen und der Landesstelle nach Maßgabe des Artikels 12 der Delegierten Verordnung (EU) Nr. 640/2014 bis zum 15. Mai des Jahres, für das die Zahlungen beantragt werden, zu übermitteln.
-
-(2) Der Betriebsinhaber hat im Sammelantrag unbeschadet der nach den in § 1 Absatz 1 Nummer 1 genannten Rechtsakten geforderten Angaben die in den nachfolgenden Vorschriften festgelegten Angaben zu machen.
-
-(3) (weggefallen)
-
-(4) Artikel 11 Absatz 4 der Durchführungsverordnung (EU) Nr. 809/2014 ist mit der Maßgabe anzuwenden, dass die Vorabprüfungen sich auf Artikel 29 Absatz 1 Unterabsatz 1 Buchstabe a bis c der Durchführungsverordnung (EU) Nr. 809/2014 beziehen.
-
-(5) Die Landesstellen können weitere Angaben fordern, soweit dies zur Überprüfung der Antragsangaben erforderlich ist.
-
-(6) Änderungen des Sammelantrags nach Artikel 15 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 sind der zuständigen Behörde schriftlich bis zum 31. Mai des Jahres, für das die Zahlungen beantragt werden, mitzuteilen.
-
 # § 8 – Betriebsbezogene Angaben
 
 (1) Der Betriebsinhaber hat in Bezug auf seinen Betrieb im Antrag anzugeben:
