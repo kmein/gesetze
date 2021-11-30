@@ -25,4 +25,4 @@ Die zuständige Stelle führt die Erhebungen nach § 77q Absatz 1 des Telekommun
 
 # § 4 – Inkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 31. Dezember 2022 außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft und mit Ablauf des 30. November 2021 außer Kraft.

@@ -13,19 +13,23 @@ des § 5 Absatz 2 Satz 1 Nummer 7 Buchstabe a des Infektionsschutzgesetzes, dess
 
 # § 1 – Bereitstellung von und Anspruch auf Anwendung von Arzneimitteln mit monoklonalen Antikörpern
 
-(1) Vom Bund beschaffte, nicht zugelassene Arzneimittel mit monoklonalen Antikörpern (Arzneimittel mit monoklonalen Antikörpern) werden im Rahmen der vorhandenen Kapazitäten zur Anwendung bei Patientinnen und Patienten, die sich mit dem Coronavirus SARS-CoV-2 infiziert haben, kostenfrei bereitgestellt, wenn die Anwendung medizinisch indiziert ist.
+(1) Vom Bund beschaffte, nicht zugelassene Arzneimittel mit monoklonalen Antikörpern (Arzneimittel mit monoklonalen Antikörpern) werden im Rahmen der vorhandenen Kapazitäten zur Anwendung bei Patientinnen und Patienten kostenfrei bereitgestellt, wenn die Anwendung medizinisch indiziert ist.
 
-(2) Versicherte in der gesetzlichen Krankenversicherung sowie Nichtversicherte, für deren Gesundheitskosten eine andere Kostenträgerschaft besteht, haben im Rahmen der verfügbaren Kapazitäten Anspruch auf eine Anwendung von Arzneimitteln mit monoklonalen Antikörpern, wenn
+(2) Versicherte in der gesetzlichen Krankenversicherung sowie Nichtversicherte, für deren Gesundheitskosten eine andere Kostenträgerschaft besteht, haben im Rahmen der verfügbaren Kapazitäten Anspruch auf eine Anwendung von Arzneimitteln mit monoklonalen Antikörpern, wenn die sie behandelnde Ärztin oder der sie behandelnde Arzt die Anwendung als medizinisch indiziert erachtet und
 
-1. sie mit dem Coronavirus SARS-CoV-2 infiziert sind und
+1. sie mit dem Coronavirus SARS-CoV-2 infiziert sind oder
 
-2. die sie behandelnde Ärztin oder der sie behandelnde Arzt die Anwendung als medizinisch indiziert erachtet.
+2. sie einem erhöhten Risiko eines schweren Verlaufs bei einer Infektion mit dem Coronavirus SARS-CoV-2 ausgesetzt sind.
 
 # § 2 – Vergütung der Leistungen im Zusammenhang mit der Anwendung von monoklonalen Antikörpern
 
-(1) Abweichend von bestehenden Vergütungsregelungen wird für die Leistungen, die im Zusammenhang mit der Anwendung von Arzneimitteln mit monoklonalen Antikörpern erbracht werden, eine einheitliche pauschale Vergütung gewährt. Die Vergütung wird für jede Patientin und jeden Patienten gewährt, bei der oder bei dem die nach § 1 Absatz 1 bereitgestellten Arzneimittel mit monoklonalen Antikörpern angewendet wurden.
+(1) Abweichend von bestehenden Vergütungsregelungen wird für die Leistungen, die im Zusammenhang mit der Anwendung von Arzneimitteln mit monoklonalen Antikörpern erbracht werden, jeweils eine einheitliche pauschale Vergütung gewährt. Die jeweilige Vergütung wird für jede Patientin und jeden Patienten gewährt, bei der oder bei dem die nach § 1 Absatz 1 bereitgestellten Arzneimittel mit monoklonalen Antikörpern angewendet wurden.
 
-(2) Die Vergütung beträgt für jede Anwendung 450 Euro, es sei denn, dass der jeweilige Kostenträger für in dem Zeitraum zwischen dem 1. Januar 2021 und dem 22. April 2021 erfolgte Anwendungen die Übernahme von Kosten in abweichender Höhe erklärt hat.
+(2) Die Vergütung beträgt
+
+1. 450 Euro für jede Anwendung bei einer mit dem Coronavirus SARS-CoV-2 infizierten Patientin oder einem mit dem Coronavirus SARS-CoV-2 infizierten Patienten oder
+
+2. 150 Euro für jede Anwendung bei einer nicht mit dem Coronavirus SARS-CoV-2 infizierten Patientin oder einem nicht mit dem Coronavirus SARS-CoV-2 infizierten Patienten, die oder der einem erhöhten Risiko eines schweren Verlaufs bei einer Infektion mit dem Coronavirus SARS-CoV-2 ausgesetzt ist, zuzüglich eines Zuschlags in Höhe von 60 Euro, sofern ein Besuch der Patientin oder des Patienten in der eigenen Häuslichkeit oder in beschützenden Wohnheimen, Einrichtungen oder Pflege- oder Altenheimen mit Pflegepersonal erforderlich ist.
 
 (3) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes und die Kassenärztliche Bundesvereinigung können eine von Absatz 2 abweichende Vergütung vereinbaren. Die Vereinbarung kann nur mit Wirkung für die Zukunft getroffen werden. Die Vertragsparteien nach Satz 1 können auch gestaffelte Vergütungen vereinbaren. Die Verhandlungen sind unverzüglich aufzunehmen, nachdem eine der in Satz 1 genannten Vertragsparteien schriftlich oder elektronisch zur Aufnahme von Verhandlungen aufgefordert hat. Kommt eine Vereinbarung nicht zustande, kann jede Vertragspartei das sektorenübergreifende Schiedsgremium auf Bundesebene nach § 89a Absatz 2 des Fünften Buches Sozialgesetzbuch anrufen. Das sektorenübergreifende Schiedsgremium auf Bundesebene nach § 89a Absatz 2 des Fünften Buches Sozialgesetzbuch legt die Vergütung im Benehmen mit dem Verband der Privaten Krankenversicherung innerhalb von sechs Wochen fest.
 
@@ -69,6 +73,6 @@ Eine Kostenübernahme erfolgt nicht für Fahrkosten, für die der jeweilige Kost
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit quartalsweise eine Aufstellung der nach Absatz 1 Satz 3 ausgezahlten Beträge.
 
-# § 6 – Inkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft; sie tritt mit Ablauf des 25. November 2022 außer Kraft.

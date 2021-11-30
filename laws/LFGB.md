@@ -1214,6 +1214,8 @@ zur Verfügung. Die Angaben nach Satz 2 sind um die Proben, Isolate und Nachweis
 
 (7) Absatz 2 Nummer 1 gilt nicht für Wohnräume.
 
+§ 42 Abs. 2 Satz 1 Nr. 2 Buchst. b Kursivdruck: Die Textstruktur der Neufassung gem. Bek. v. 15.9.2021 I 4253 weicht von konstitutiver Fassung ab
+
 # § 43 – Probenahme
 
 (1) Die mit der Überwachung beauftragten Personen und, bei Gefahr im Verzug, die Beamten der Polizei sind befugt, gegen Empfangsbescheinigung Proben nach ihrer Auswahl zum Zweck der Untersuchung zu fordern oder zu entnehmen. Soweit in unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in Rechtsverordnungen nach diesem Gesetz nichts anderes bestimmt ist, ist ein Teil der Probe oder, sofern die Probe nicht oder ohne Gefährdung des Untersuchungszwecks nicht in Teile von gleicher Beschaffenheit teilbar ist, ein zweites Stück der gleichen Art und, soweit vorhanden aus demselben Los, und von demselben Hersteller wie das als Probe entnommene, zurückzulassen, um das Recht des Unternehmers auf ein zweites Sachverständigengutachten zu gewährleisten; der Hersteller kann auf die Zurücklassung einer Probe verzichten.
