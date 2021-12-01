@@ -1521,7 +1521,7 @@ Absatz 2 Satz 1, Absatz 3 Satz 2 bis 4 sowie Absatz 6 gelten entsprechend.
 
 3. wenn sie bereits in einem der vorangegangenen zwei Kalendermonate in Anspruch genommen wurde.
 
-(3) Geldleistungen nach diesem Buch werden auf das im Antrag angegebene Konto bei einem Geldinstitut überwiesen, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt. Werden sie an den Wohnsitz oder gewöhnlichen Aufenthalt der Leistungsberechtigten übermittelt, sind die dadurch veranlassten Kosten abzuziehen. Dies gilt nicht, wenn Leistungsberechtigte nachweisen, dass ihnen die Einrichtung eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht möglich ist.
+(3) (weggefallen)
 
 (4) Der Anspruch auf Leistungen zur Sicherung des Lebensunterhaltes kann nicht abgetreten, übertragen, verpfändet oder gepfändet werden. Die Abtretung und Übertragung nach § 53 Absatz 2 des Ersten Buches bleibt unberührt.
 

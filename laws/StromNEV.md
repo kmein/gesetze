@@ -569,7 +569,7 @@ Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich sachgerecht zuz
 
 5. sonstige Erträge und Erlöse
 
-der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von den Netzkosten in Abzug zu bringen. Einnahmen nach § 77f des Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb zuzurechnen. Die von stromverbrauchenden Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen.
+der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von den Netzkosten in Abzug zu bringen. Einnahmen nach § 140 des Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb zuzurechnen. Die von stromverbrauchenden Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen.
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines Anschlusses für die Einspeisung elektrischer Energie entrichtet wurden, sind anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.
 

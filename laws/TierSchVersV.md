@@ -37,9 +37,11 @@
 
 2. mindestens einmal täglich das Befinden der Tiere durch direkte Inaugenscheinnahme und die Haltungsbedingungen sowie die Funktionsfähigkeit der der Haltung dienenden Anlagen durch geeignete Maßnahmen überprüft werden,
 
-3. die Tiere so befördert werden, dass ihnen keine vermeidbaren Schmerzen, Leiden oder Schäden zugefügt werden und
+3. die Tiere so befördert werden, dass ihnen keine vermeidbaren Schmerzen, Leiden oder Schäden zugefügt werden,
 
-4. unverzüglich Abhilfe geschaffen wird, sobald festgestellt wird, dass die in Nummer 1 bis 3 genannten Anforderungen nicht eingehalten werden oder den Tieren vermeidbare Schmerzen, Leiden oder Schäden zugefügt werden.
+4. unverzüglich Abhilfe geschaffen wird, sobald festgestellt wird, dass die in Nummer 1 bis 3 genannten Anforderungen nicht eingehalten werden oder den Tieren vermeidbare Schmerzen, Leiden oder Schäden zugefügt werden, und
+
+5. die Haltung der Tiere, auch während ihrer Verwendung in einem Tierversuch, fortlaufend hinsichtlich der Möglichkeiten zur Verbesserung des Wohlergehens der Tiere überprüft wird.
 
 Soweit Artikel 33 Absatz 2 in Verbindung mit Anhang III der Richtlinie 2010/63/EU bestimmt, dass Anforderungen ab einem dort genannten Zeitpunkt angewendet werden, ist Satz 1 Nummer 1 ab dem dort genannten Zeitpunkt anzuwenden. Die Sätze 1 und 2 gelten auch für Einrichtungen und Betriebe, in denen die dort genannten Tiere gezüchtet oder zum Zwecke der Abgabe an Dritte gehalten werden.
 
@@ -63,7 +65,7 @@ Soweit Artikel 33 Absatz 2 in Verbindung mit Anhang III der Richtlinie 2010/63/E
 
 getötet werden. Räumlichkeiten im Sinne des Satzes 1 Nummer 1 sind auch bewegliche oder lediglich teilweise umschlossene oder überdachte Örtlichkeiten. Satz 1 Nummer 1 gilt nicht, wenn ein Tier im Rahmen eines Tierversuchs getötet wird, der nach § 15 Absatz 1 Satz 3 außerhalb einer Einrichtung oder eines Betriebs durchgeführt wird. Satz 1 Nummer 2 gilt nicht, wenn ein Tier im Rahmen eines Tierversuchs getötet wird, der Ausbildungs-, Fortbildungs- oder Weiterbildungszwecken dient, soweit das Töten in Anwesenheit und unter Aufsicht einer Person erfolgt, die die nach Satz 1 Nummer 2 erforderlichen Anforderungen erfüllt.
 
-(2) In § 1 Absatz 1 bezeichnete Wirbeltiere dürfen darüber hinaus nur nach Maßgabe der Anlage 2 getötet werden, wobei das Verfahren anzuwenden ist, das
+(2) In § 1 Absatz 1 bezeichnete Wirbeltiere und Kopffüßer dürfen darüber hinaus nur nach Maßgabe der Anlage 2 getötet werden, wobei das Verfahren anzuwenden ist, das
 
 1. für das Tier die geringste Belastung bedeutet und
 
@@ -105,9 +107,9 @@ Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1 und 2 des Tie
 
 a) die Personen, die mit Aufgaben im Bereich der Pflege oder dem Töten der Tiere betraut sind, die Anforderungen des § 3 Absatz 1 und
 
-b) die Personen, die Tierversuche durchführen, die Anforderungen des § 7 Absatz 1 Satz 3 des Tierschutzgesetzes und des § 16
+b) die Personen, die Tierversuche durchführen, die Anforderungen des § 7 Absatz 1 Satz 4 des Tierschutzgesetzes und des § 16
 
-erfüllen und diesbezüglich fortlaufend geschult werden.
+erfüllen, diesbezüglich fortlaufend geschult werden und solange beaufsichtigt werden, bis die erforderlichen Fähigkeiten in der Praxis nachgewiesen worden sind.
 
 # § 5 – Tierschutzbeauftragte
 
@@ -115,13 +117,17 @@ erfüllen und diesbezüglich fortlaufend geschult werden.
 
 (2) Der Tierschutzbeauftragte darf nicht zugleich die für das Züchten oder Halten der Tiere verantwortliche Person im Sinne des § 11 Absatz 1 Satz 1 Nummer 1 sein. Die zuständige Behörde kann Ausnahmen zulassen, soweit dies auf Grund der sachlichen und personellen Ausstattung der Einrichtung oder des Betriebs sachgerecht ist und Belange des Tierschutzes nicht entgegenstehen. Führt ein Tierschutzbeauftragter einer Einrichtung oder eines Betriebs, in der oder in dem Tierversuche durchgeführt werden, selbst ein Versuchsvorhaben durch, so muss für dieses Versuchsvorhaben ein anderer Tierschutzbeauftragter tätig sein.
 
-(3) Zum Tierschutzbeauftragten können nur Personen mit abgeschlossenem Hochschulstudium der Veterinärmedizin bestellt werden. Sie müssen die für die Durchführung ihrer in Absatz 4 bezeichneten Aufgaben erforderlichen Kenntnisse und Fähigkeiten und die hierfür erforderliche Zuverlässigkeit haben. Der Tierschutzbeauftragte ist verpflichtet, die für seine Aufgaben erforderlichen Kenntnisse und Fähigkeiten durch regelmäßige Fortbildungen auf dem Stand von Wissenschaft und Technik zu halten. Die zuständige Behörde kann Ausnahmen von Satz 1 genehmigen, wenn die nach Satz 2 erforderlichen Kenntnisse und Fähigkeiten nachgewiesen worden sind.
+(3) Zum Tierschutzbeauftragten können nur Personen mit abgeschlossenem Hochschulstudium der Veterinärmedizin bestellt werden. Sie müssen die für die Durchführung ihrer in Absatz 4 bezeichneten Aufgaben erforderlichen Kenntnisse und Fähigkeiten und die hierfür erforderliche Zuverlässigkeit haben. Der Tierschutzbeauftragte ist verpflichtet, die für seine Aufgaben erforderlichen Kenntnisse und Fähigkeiten durch regelmäßige Fortbildungen auf dem Stand von Wissenschaft und Technik zu halten. Die zuständige Behörde kann Ausnahmen von Satz 1 genehmigen, wenn
+
+1. die Bestellung einer anderen spezialisierten Person geeigneter ist als die Bestellung einer Person mit einem abgeschlossenen Hochschulstudium der Veterinärmedizin und
+
+2. die Person die nach Satz 2 erforderlichen Kenntnisse und Fähigkeiten nachgewiesen hat.
 
 (4) Der Tierschutzbeauftragte ist verpflichtet,
 
 1. auf die Einhaltung von Vorschriften, Bedingungen und Auflagen im Interesse des Tierschutzes zu achten und
 
-2. die Einrichtung oder den Betrieb und die mit der Haltung der Tiere befassten Personen zu beraten, insbesondere hinsichtlich des Wohlergehens der Tiere beim Erwerb, der Unterbringung und der Pflege sowie hinsichtlich deren medizinischer Behandlung.
+2. die Einrichtung oder den Betrieb und die mit der Haltung der Tiere befassten Personen zu beraten, insbesondere hinsichtlich des Wohlergehens der Tiere und der Möglichkeiten zur Verbesserung des Wohlergehens der Tiere beim Erwerb, der Unterbringung und der Pflege sowie hinsichtlich deren medizinischer Behandlung.
 
 Der Tierschutzbeauftragte einer Einrichtung oder eines Betriebs, in der oder in dem Tierversuche durchgeführt werden, ist darüber hinaus verpflichtet
 
@@ -145,27 +151,33 @@ Sie haben sicherzustellen, dass sich der Tierschutzbeauftragte regelmäßig fort
 
 (1) Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1 und 2 des Tierschutzgesetzes hat der Träger der Einrichtung oder der für den Betrieb Verantwortliche vor Aufnahme der Tätigkeit einen Tierschutzausschuss zu bestellen. Dem Tierschutzausschuss gehören mindestens an
 
-1. jeder Tierschutzbeauftragte nach § 5,
+1. die für die Überwachung der Pflege der in der Einrichtung oder in dem Betrieb befindlichen Tiere und ihr Wohlergehen verantwortlichen Personen und
 
-2. eine oder mehrere mit der Pflege der Tiere betraute Personen und
-
-3. ein wissenschaftliches Mitglied oder eine oder mehrere Personen, die Tierversuche durchführen, soweit die Einrichtung oder der Betrieb über solche Personen verfügt.
-
-Der Tierschutzausschuss wird von einem Tierschutzbeauftragten geleitet.
+2. ein wissenschaftliches Mitglied, soweit in der Einrichtung oder dem Betrieb Tierversuche durchgeführt werden.
 
 (2) Der Tierschutzausschuss hat die Aufgabe,
 
-1. die Tierschutzbeauftragten bei der Erfüllung ihrer Aufgaben nach § 5 Absatz 4 Satz 1 Nummer 2 und Satz 2 Nummer 2 und 3 zu unterstützen,
+1. die Tierschutzbeauftragten bei der Erfüllung ihrer Aufgaben nach § 5 Absatz 4 Satz 1 Nummer 2 und Satz 2 Nummer 2 zu unterstützen,
 
 2. an der Festlegung interner Arbeitsabläufe, die die Durchführung und Auswertung der Überwachung des Wohlergehens der Tiere sowie diesbezügliche Folgemaßnahmen betreffen, mitzuwirken und die Einhaltung der Arbeitsabläufe zu überprüfen,
 
-3. die Entwicklung von Tierversuchen und deren Ergebnisse unter Berücksichtigung der Auswirkungen auf die verwendeten Tiere zu verfolgen und
+3. die Entwicklung von Tierversuchen und deren Ergebnisse unter Berücksichtigung der Auswirkungen auf die verwendeten Tiere zu verfolgen,
 
-4. im Hinblick auf die Entwicklung und Durchführung von Programmen nach § 10 Absatz 2 beratend tätig zu werden.
+4. im Hinblick auf die Entwicklung und Durchführung von Programmen nach § 10 Absatz 2 beratend tätig zu werden,
 
-Ferner kann der Tierschutzausschuss das Personal der Einrichtung oder des Betriebs, das mit der Haltung, der Verwendung oder dem Züchten der Tiere befasst ist, beraten, insbesondere hinsichtlich ihres Wohlergehens.
+5. das gesamte mit Tierversuchen sowie mit der Züchtung, Haltung, Pflege und Tötung von Tieren befasste Personal der Einrichtung oder des Betriebes
 
-(3) Der Träger der Einrichtung oder der für den Betrieb Verantwortliche hat sicherzustellen, dass über Empfehlungen des Tierschutzausschusses, die dieser im Rahmen der Erfüllung seiner in Absatz 2 Satz 1 genannten Aufgaben abgibt, sowie über alle Entscheidungen, die im Hinblick auf diese Empfehlungen getroffen werden, Aufzeichnungen geführt und diese mindestens drei Jahre lang aufbewahrt werden. Die Aufzeichnungen sind der zuständigen Behörde auf Verlangen vorzulegen.
+a) im Hinblick auf die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und 3 sowie des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes und im Hinblick auf Maßnahmen, die zur Verbesserung der Zucht, Unterbringung und Pflege und der bei der Tötung von Tieren angewendeten Verfahren beitragen, zu beraten
+
+b) laufend über technische und wissenschaftliche Entwicklungen zur Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und 3 sowie des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes und zur Verbesserung der Zucht, Unterbringung und Pflege und der zur Tötung von Tieren angewendeten Verfahren zu informieren, insbesondere über Entwicklungen zu Möglichkeiten der Verbesserung des Wohlergehens der Tiere,
+
+6. die Entwicklungen und die Ergebnisse von Tierversuchen unter Berücksichtigung der Auswirkungen auf die verwendeten Tiere zu verfolgen sowie
+
+7. Faktoren, auch aufgrund der Erkenntnisse aus den innerbetrieblichen Versuchen, zu ermitteln, die zu einer weitergehenden Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und 3 sowie des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes und zur Verbesserung der Zucht, Unterbringung und Pflege und der bei der Tötung von Tieren angewendeten Verfahren beitragen, und entsprechende Empfehlungen zu geben, insbesondere zur Verbesserung des Wohlergehens der Tiere.
+
+(3) Der Tierschutzbeauftragte kann Eingaben beim Tierschutzausschuss einreichen.
+
+(4) Der Träger der Einrichtung oder der für den Betrieb Verantwortliche hat sicherzustellen, dass über Empfehlungen des Tierschutzausschusses, die dieser im Rahmen der Erfüllung seiner in Absatz 2 Satz 1 genannten Aufgaben abgibt, sowie über alle Entscheidungen, die im Hinblick auf diese Empfehlungen getroffen werden, Aufzeichnungen geführt und diese mindestens drei Jahre lang aufbewahrt werden. Die Aufzeichnungen sind der zuständigen Behörde auf Verlangen vorzulegen.
 
 # § 7 – Führen von Aufzeichnungen
 
@@ -247,9 +259,11 @@ b) ausreichend sachkundiges Personal zur Verfügung steht,
 
 sodass eine den Anforderungen des § 2 des Tierschutzgesetzes und des § 1 Absatz 1 entsprechende Haltung der Tiere ermöglicht wird,
 
-4. sichergestellt ist, dass die Personen nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 jederzeit den Nachweis erbringen können, dass sie über die dort genannten Kenntnisse und Fähigkeiten verfügen, und
+4. sichergestellt ist, dass die Personen nach § 3 Absatz 1 Satz 1 Nummer 1 und 2 jederzeit den Nachweis erbringen können, dass sie über die dort genannten Kenntnisse und Fähigkeiten verfügen,
 
-5. die Einhaltung der §§ 4 bis 9 erwartet werden kann.
+5. die Einhaltung der §§ 4 bis 9 erwartet werden kann und
+
+6. im Fall der Züchtung von Primaten der Züchter über ein Konzept verfügt, mit dessen Hilfe er den Anteil derjenigen Tiere erhöhen kann, die Nachkommen von in Gefangenschaft gezüchteten Primaten sind.
 
 Im Falle des Satzes 1 Nummer 1 sind die erforderlichen fachlichen Kenntnisse und Fähigkeiten auf Verlangen in einem Fachgespräch bei der zuständigen Behörde nachzuweisen.
 
@@ -273,11 +287,13 @@ In dem Antrag auf Erteilung der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 de
 
 Dem Antrag sind Nachweise über die Kenntnisse und Fähigkeiten nach § 11 Absatz 1 Satz 1 Nummer 1 beizufügen.
 
-# § 13 – Erlaubnisbescheid, Anzeige von Änderungen
+# § 13 – Erlaubnisbescheid, Anzeige und Erlaubnis von Änderungen
 
 (1) In dem Erlaubnisbescheid sind die Personen nach § 12 Satz 1 Nummer 4 und 6 anzugeben.
 
-(2) Wechselt eine der in Absatz 1 genannten Personen, so hat der Inhaber der Erlaubnis diese Änderung der zuständigen Behörde unverzüglich anzuzeigen. Die Erlaubnis ist innerhalb eines Monats ab Eingang der Änderungsanzeige zu widerrufen, wenn auf Grund der angezeigten Änderungen die Voraussetzungen für die Erteilung der Erlaubnis nicht mehr vorliegen. Satz 1 gilt entsprechend für eine Änderung der nach § 12 Satz 1 Nummer 2 angegebenen Sachverhalte, es sei denn es ist ausgeschlossen, dass sich diese Änderung nachteilig auf das Wohlergehen der Tiere auswirkt.
+(2) Wechselt eine der in Absatz 1 genannten Personen, so hat der Inhaber der Erlaubnis diese Änderung der zuständigen Behörde unverzüglich anzuzeigen. Die Erlaubnis ist innerhalb eines Monats ab Eingang der Änderungsanzeige zu widerrufen, wenn auf Grund der angezeigten Änderungen die Voraussetzungen für die Erteilung der Erlaubnis nicht mehr vorliegen. Satz 1 gilt entsprechend für eine Änderung der nach § 12 Satz 1 Nummer 2 und 3 angegebenen Sachverhalte, es sei denn es ist ausgeschlossen, dass sich diese Änderung nachteilig auf das Wohlergehen der Tiere auswirkt.
+
+(3) Jede erhebliche Änderung der in § 12 Satz 1 Nummer 2 und 3 genannten Sachverhalte, die sich nachteilig auf das Wohlergehen der Tiere auswirken könnte, bedarf einer erneuten Erlaubnis.
 
 # § 14 – Geltung für Tiere in einem frühen Entwicklungsstadium
 
@@ -321,7 +337,7 @@ durchgeführt werden. Tierversuche mit operativen Eingriffen an Wirbeltieren dü
 
 durchgeführt werden. Die Sätze 2 und 3 gelten nicht für Tierversuche nach § 7 Absatz 2 Satz 2 Nummer 1 des Tierschutzgesetzes, die nach bereits erprobten Verfahren vorgenommen werden. Die zuständige Behörde genehmigt Ausnahmen von den Sätzen 2 und 3, wenn der Nachweis der erforderlichen Kenntnisse und Fähigkeiten auf andere Weise erbracht ist.
 
-(2) Tierversuche, die Aus-, Fort- oder Weiterbildungszwecken dienen, dürfen abweichend von § 7 Absatz 1 Satz 3 des Tierschutzgesetzes und Absatz 1 Satz 1 bis 3 auch von Personen, die die dort genannten Anforderungen nicht erfüllen, durchgeführt werden, soweit dies in Anwesenheit und unter Aufsicht einer Person erfolgt, die die jeweiligen Anforderungen erfüllt.
+(2) Tierversuche, die Aus-, Fort- oder Weiterbildungszwecken dienen, dürfen abweichend von § 7 Absatz 1 Satz 4 des Tierschutzgesetzes und Absatz 1 Satz 1 bis 3 auch von Personen, die die dort genannten Anforderungen nicht erfüllen, durchgeführt werden, soweit dies in Anwesenheit und unter Aufsicht einer Person erfolgt, die die jeweiligen Anforderungen erfüllt.
 
 (3) Tierversuche dürfen nur durchgeführt werden, wenn die Personen, von denen das Versuchsvorhaben und die beabsichtigten Tierversuche geplant worden sind, über die hierfür erforderlichen Kenntnisse und Fähigkeiten einschließlich der Kenntnisse und Fähigkeiten nach Anlage 1 Abschnitt 3 verfügen und diese der zuständigen Behörde auf Verlangen nachweisen.
 
@@ -335,9 +351,21 @@ durchgeführt werden. Die Sätze 2 und 3 gelten nicht für Tierversuche nach § 
 
 2. der Zweck des Versuchs eine Betäubung ausschließt und der Versuch bei dem jeweiligen Tier nicht zu schweren Verletzungen führt.
 
-Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzungen des § 7 Absatz 1 Satz 3 des Tierschutzgesetzes und des § 16 Absatz 1 Satz 2 erfüllt, oder, soweit die Durchführung der Betäubung Ausbildungs-, Fortbildungs- oder Weiterbildungszwecken dient, in Anwesenheit und unter Aufsicht einer solchen Person vorgenommen werden.
+Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzungen des § 7 Absatz 1 Satz 4 des Tierschutzgesetzes und des § 16 Absatz 1 Satz 2 erfüllt, oder, soweit die Durchführung der Betäubung Ausbildungs-, Fortbildungs- oder Weiterbildungszwecken dient, in Anwesenheit und unter Aufsicht einer solchen Person vorgenommen werden. § 16 Absatz 1 Satz 5 gilt entsprechend.
 
-(3) Ist bei einem betäubten Wirbeltier oder Kopffüßer damit zu rechnen, dass mit Abklingen der Betäubung Schmerzen auftreten, so muss das Tier rechtzeitig mit schmerzlindernden Mitteln oder Verfahren behandelt werden. Dies gilt, soweit ethisch vertretbar, nicht, wenn wissenschaftlich begründet dargelegt wird, dass die Behandlung mit schmerzlindernden Mitteln oder Verfahren mit dem Zweck des Tierversuchs unvereinbar ist. Bei einem nicht betäubten Wirbeltier oder Kopffüßer dürfen keine Mittel angewandt werden, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird.
+(3) Ist bei einem betäubten Wirbeltier oder Kopffüßer damit zu rechnen, dass mit Abklingen der Betäubung Schmerzen auftreten, so muss das Tier rechtzeitig mit schmerzlindernden Mitteln oder Verfahren behandelt werden. Dies gilt, soweit ethisch vertretbar, nicht, wenn wissenschaftlich begründet dargelegt wird, dass die Behandlung mit schmerzlindernden Mitteln oder Verfahren mit dem Zweck des Tierversuchs unvereinbar ist.
+
+(4) Bei einem betäubten Wirbeltier oder Kopffüßer dürfen Mittel, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird, nur angewendet werden, wenn wissenschaftlich begründet worden ist:
+
+1. die Notwendigkeit der Anwendung der Mittel, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird,
+
+2. die angemessene Anwendung der Mittel zur Narkose oder lokalen Schmerzausschaltung und
+
+3. in den Fällen des Absatzes 3 Satz 1 die angemessene Anwendung der schmerzlindernden Mittel.
+
+In der Begründung nach Satz 1 ist das anzuwendende Mittel anzugeben und zur erläutern, dass der Einsatz von dem Mittel nicht dazu dient, den Ausdruck von Schmerz zu verhindern oder zu beschränken, weil das Tier aufgrund der gleichzeitigen Gabe des Betäubungsmittels oder der Analgetika hinreichend davor geschützt ist, tatsächlich Schmerz wahrzunehmen.
+
+(5) Bei einem nicht betäubten Wirbeltier oder Kopffüßer dürfen keine Mittel angewendet werden, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird.
 
 # § 18 – Erneutes Verwenden von Wirbeltieren und Kopffüßern
 
@@ -491,7 +519,13 @@ Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
 (1) In den nach § 9 Absatz 5 Satz 1 des Tierschutzgesetzes zu führenden Aufzeichnungen sind für jedes Versuchsvorhaben, in dem Wirbeltiere, Kopffüßer oder Zehnfußkrebse verwendet werden, der Zweck sowie die Zahl und die Art der verwendeten Tiere und die Art und Durchführung der Tierversuche sowie die Namen der Personen, die die Tierversuche durchgeführt haben, anzugeben. Werden Wirbeltiere verwendet, so ist auch ihre Herkunft einschließlich des Namens und der Anschrift des Vorbesitzers anzugeben. Bei Hunden, Katzen und Primaten sind zusätzlich das Geschlecht, eine an dem Tier vorgenommene Kennzeichnung nach § 9 und bei Hunden und Katzen die Rasse anzugeben.
 
-(2) Die Aufzeichnungen nach Absatz 1 sind von den Personen, die die Tierversuche durchgeführt haben, und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen. Werden die Aufzeichnungen elektronisch erstellt, sind sie unverzüglich nach Abschluss jedes Teilversuchs des Versuchsvorhabens auszudrucken und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen. Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß. Aufzeichnungen zu einem Versuchsvorhaben sind fünf Jahre lang, beginnend mit dem Abschluss des Tierversuchs, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
+(2) Die Aufzeichnungen nach Absatz 1 sind von den Personen, die die Tierversuche durchgeführt haben, und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen. Werden die Aufzeichnungen elektronisch erstellt, sind sie unverzüglich nach Abschluss jedes Teilversuches des Versuchsvorhabens
+
+1. auszudrucken und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen oder
+
+2. von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter mit einem Zeitstempel unter Verwendung einer fortgeschrittenen elektronischen Signatur zu versehen, auf einem dauerhaften Datenträger zu speichern und auf Verlangen der zuständigen Behörde auszudrucken.
+
+Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß. Aufzeichnungen zu einem Versuchsvorhaben sind fünf Jahre lang, beginnend mit dem Abschluss des Tierversuchs, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Vorbehaltlich anderer gesetzlicher Regelungen sind in diesen Aufzeichnungen enthaltene personenbezogene Daten nach Ablauf der Aufbewahrungsfrist nach Satz 4 unverzüglich, bei elektronischer Speicherung, sofern technisch möglich, automatisiert zu löschen.
 
 # § 30 – Pflichten des Leiters
 
@@ -499,43 +533,69 @@ Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
 (2) Der Leiter des Versuchsvorhabens oder im Falle dessen Verhinderung sein Stellvertreter hat sicherzustellen, dass sobald bei der Durchführung des Versuchsvorhabens vermeidbare Schmerzen, Leiden oder Schäden bei einem Tier verursacht werden, dies unverzüglich unterbunden wird. Er hat darüber hinaus sicherzustellen, dass das Versuchsvorhaben
 
-1. entsprechend der Genehmigung nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes oder, im Falle eines Versuchsvorhabens nach § 8a Absatz 1 des Tierschutzgesetzes, entsprechend den Angaben in der Anzeige nach § 36 Absatz 1 und
+1. entsprechend der Genehmigung nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes und
 
 2. unter Beachtung aller im Hinblick auf das Versuchsvorhaben getroffenen Anordnungen, Auflagen und Bedingungen der zuständigen Behörde
 
 durchgeführt wird. Dabei hat er sicherzustellen, dass im Falle einer diesbezüglichen Abweichung geeignete Abhilfemaßnahmen ergriffen und über die Abweichungen und die ergriffenen Abhilfemaßnahmen Aufzeichnungen geführt werden.
 
+(3) Der Leiter des Versuchsvorhabens oder sein Stellvertreter hat sicherzustellen, dass bei der Planung und Durchführung des Versuchsvorhabens die Möglichkeiten, das Wohlergehen der Tiere zu verbessern, berücksichtigt werden.
+
 # § 31 – Beantragen der Genehmigung
 
-(1) Der Antrag auf Genehmigung eines Versuchsvorhabens nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes ist schriftlich bei der zuständigen Behörde zu stellen. In dem Antrag
+(1) Der Antrag auf Genehmigung eines Versuchsvorhabens nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes ist schriftlich oder elektronisch bei der zuständigen Behörde zu stellen. In dem Antrag
 
 1. sind anzugeben
 
 a) Name und Anschrift des Antragstellers,
 
-b) eine Beschreibung des Versuchsvorhabens einschließlich des damit verfolgten Zwecks,
+b) eine Beschreibung und wissenschaftliche Rechtfertigung des Versuchsvorhabens einschließlich des damit verfolgten Zweckes,
 
-c) die Art, die Herkunft, der Lebensabschnitt sowie die Anzahl der für das Versuchsvorhaben vorgesehenen Tiere einschließlich deren Berechnung,
+c) eine wissenschaftliche Rechtfertigung der Art, der Herkunft, des Lebensabschnittes und der geschätzten Anzahl der für das Versuchsvorhaben vorgesehenen Tiere,
 
 d) die Art und die Durchführung der beabsichtigten Tierversuche einschließlich des geplanten Einsatzes von Mitteln und Methoden zum Zwecke der Betäubung oder Schmerzlinderung sowie die Sachverhalte, bei deren Vorliegen ein Tier nicht mehr in den Tierversuchen verwendet wird,
 
 e) der Ort, der Zeitpunkt des Beginns und die voraussichtliche Dauer des Versuchsvorhabens,
 
-f) der Name, die Anschrift und die Sachkunde des Leiters des Versuchsvorhabens und seines Stellvertreters, der Personen, von denen das Versuchsvorhaben oder die beabsichtigten Tierversuche geplant worden sind, und der durchführenden Personen sowie die für die Nachbehandlung in Frage kommenden Personen und,
+f) der Name, die Anschrift und die Sachkunde des Leiters des Versuchsvorhabens und seines Stellvertreters, der Personen, von denen das Versuchsvorhaben oder die beabsichtigten Tierversuche geplant worden sind, und der durchführenden Personen sowie die für die Nachbehandlung in Frage kommenden Personen,
 
-g) soweit eine Tötung der Tiere vorgesehen ist, das Verfahren, das hierzu angewendet werden soll,
+g) soweit eine Tötung der Tiere vorgesehen ist, das Verfahren, das hierzu angewandt werden soll,
+
+h) eine Zusammenfassung der Maßnahmen zur Verminderung, Vermeidung und Linderung jeglicher Form des Leidens von Tieren von ihrer Geburt bis zu ihrem Tod,
+
+i) Informationen zu den Versuchs- und Beobachtungsstrategien und zur statistischen Gestaltung zur Minimierung der Anzahl der Tiere, der Schmerzen, des Leidens, der Schäden und gegebenenfalls der Auswirkungen auf die Umwelt,
+
+j) Methoden, mit denen die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und 3 sowie des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes an die Verwendung von Tieren in Verfahren sichergestellt wird, sowie
+
+k) vorgesehene Eingewöhnungs- und Trainingsprogramme, die für die Tiere, die Verfahren und die Dauer des Versuchsvorhabens geeignet sind,
 
 2. ist wissenschaftlich begründet darzulegen,
 
-a) dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 1 Buchstabe a und b des Tierschutzgesetzes vorliegen,
+a) dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 1 Buchstabe a und b des Tierschutzgesetzes vorliegen,
 
-b) in welchen Schweregrad der Versuch eingestuft wird,
+b) in welchen Schweregrad der Versuch eingestuft wird und
+
+c) im Fall des § 17 Absatz 4 unter Angabe der dort genannten Mittel
+
+aa)  
+die Notwendigkeit der Anwendung der Mittel, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird,
+
+bb)  
+die angemessene Anwendung der Mittel zur Narkose oder zur lokalen Schmerzausschaltung und
+
+cc) im Fall des § 17 Absatz 4 Satz 1 Nummer 3 die angemessene Anwendung der schmerzlindernden Mittel,
 
 3. ist nachzuweisen, dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 2 bis 5 des Tierschutzgesetzes vorliegen, und
 
-4. ist darzulegen, dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 6 bis 8 des Tierschutzgesetzes vorliegen.
+4. ist darzulegen,
+
+a) dass die Voraussetzungen des § 8 Absatz 1 Satz 2 Nummer 6 bis 8 des Tierschutzgesetzes vorliegen und
+
+b) wie Belange der Umwelt berücksichtigt werden sollen.
 
 (2) Dem Antrag ist eine Zusammenfassung des Versuchsvorhabens mit den Angaben nach § 41 Absatz 1 Satz 2 beizufügen.
+
+(3) Dem Antrag auf Genehmigung eines Versuchsvorhabens können wissenschaftliche Beurteilungen von unabhängigen Dritten beigefügt werden.
 
 # § 32 – Genehmigungsverfahren, Bearbeitungsfristen
 
@@ -547,45 +607,45 @@ b) in welchen Schweregrad der Versuch eingestuft wird,
 
 (4) Die zuständige Behörde unterrichtet unverzüglich die Kommission nach § 15 Absatz 1 Satz 2 des Tierschutzgesetzes über vorliegende Anträge auf Genehmigung von Versuchsvorhaben und gibt ihr Gelegenheit, in angemessener Frist Stellung zu nehmen. Die zuständige Behörde kann der Kommission auch Anzeigen von Änderungen genehmigter Versuchsvorhaben zur Stellungnahme vorlegen, soweit der Umfang und die Schwierigkeit der Prüfung dies erfordern.
 
+(4a) Die zuständige Behörde berücksichtigt bei ihrer Entscheidung über das Vorliegen der Voraussetzungen nach § 8 Absatz 1 Satz 2 Nummer 1 Buchstabe a und b des Tierschutzgesetzes die wissenschaftlich begründeten Darlegungen des Antragstellers nach § 31 Absatz 1 Satz 2 Nummer 2 sowie die wissenschaftlichen Beurteilungen nach § 31 Absatz 3.
+
 (5) Absatz 4 gilt für die zuständige Stelle der Bundeswehr entsprechend mit der Maßgabe, dass die Kommission nach § 15 Absatz 3 Satz 2 des Tierschutzgesetzes zu beteiligen ist. Die Sicherheitsbelange der Bundeswehr sind zu berücksichtigen. Sollen Tierversuche im Auftrag der Bundeswehr durchgeführt werden, so ist die Kommission hiervon ebenfalls zu unterrichten und ihr vor Auftragserteilung Gelegenheit zur Stellungnahme zu geben; § 15 Absatz 1 des Tierschutzgesetzes bleibt unberührt. Die für die Genehmigung des Versuchsvorhabens zuständige Landesbehörde ist davon in Kenntnis zu setzen. Die zuständige Stelle der Bundeswehr sendet auf Anforderung die Stellungnahme zu.
 
 # § 33 – Genehmigungsbescheid, Befristung
 
-(1) Der Genehmigungsbescheid enthält
+(1) Der Genehmigungsbescheid ergeht schriftlich oder elektronisch und enthält
 
 1. die Angabe des Leiters des Versuchsvorhabens und seines Stellvertreters,
 
 2. die Angabe, in welchen Einrichtungen oder Betrieben oder, in den Fällen des § 15 Absatz 1 Satz 3, an welchem Ort das Versuchsvorhaben durchgeführt wird,
 
-3. eine Entscheidung darüber, ob und zu welchem Zeitpunkt das Versuchsvorhaben nach § 35 rückblickend zu bewerten ist, und
+3. eine Entscheidung darüber, ob und zu welchem Zeitpunkt das Versuchsvorhaben nach § 35 rückblickend zu bewerten ist,
 
-4. gegebenenfalls die Nebenbestimmungen, mit denen die Genehmigung versehen wird.
+4. gegebenenfalls die Nebenbestimmungen, mit denen die Genehmigung versehen wird, und
+
+5. sofern die zuständige Behörde bei ihrer Entscheidung von den wissenschaftlich begründeten Darlegungen nach § 31 Absatz 1 Satz 2 Nummer 2 und den wissenschaftlichen Beurteilungen nach § 31 Absatz 3 abweicht, unbeschadet der verwaltungsverfahrensrechtlichen Anforderungen zur Begründung eines Verwaltungsaktes eine Darlegung der Gründe.
 
 (2) Die Genehmigung ist auf höchstens fünf Jahre zu befristen. Ist die Genehmigung mit einer Befristung von weniger als fünf Jahren erteilt worden, so ist sie auf, auch formlosen, mit Gründen versehenen Antrag höchstens zweimal um jeweils bis zu einem Jahr zu verlängern, sofern dadurch die Gesamtdauer des genehmigten Versuchsvorhabens fünf Jahre nicht überschreitet und sofern seit der erstmaligen Erteilung oder ersten Verlängerung der Genehmigung keine Änderungen des genehmigten Versuchsvorhabens oder nur solche Änderungen eingetreten sind, die
 
-1. nach § 34 Absatz 1 Satz 1 Nummer 4 oder Absatz 2 Satz 1 angezeigt und von der zuständigen Behörde nicht beanstandet oder
+1. nach § 34 Absatz 2 Satz 1 oder Absatz 3 Satz 1 angezeigt und von der zuständigen Behörde nicht beanstandet oder
 
 2. nach § 34 Absatz 3 genehmigt
 
 worden sind.
 
-# § 34 – Anzeige von Änderungen genehmigter Versuchsvorhaben
+# § 34 – Genehmigung und Anzeige von Änderungen genehmigter Versuchsvorhaben
 
-(1) Änderungen genehmigter Versuchsvorhaben bedürfen keiner erneuten Genehmigung, soweit
+(1) Änderungen genehmigter Versuchsvorhaben, die sich nachteilig auf das Wohlergehen der Tiere auswirken können, bedürfen einer Genehmigung. Eine Änderung im Sinne des Satzes 1 liegt insbesondere vor, wenn
 
-1. der Zweck des Versuchsvorhabens beibehalten wird,
+1. der Zweck des Versuchsvorhabens nicht beibehalten wird,
 
-2. sich das Maß der bei den verwendeten Tieren verursachten Schmerzen, Leiden und Schäden durch die Änderungen nicht erhöht,
+2. sich das Maß der bei den verwendeten Tieren verursachten Schmerzen, Leiden und Schäden durch die Änderung erhöhen kann oder
 
-3. die Zahl der verwendeten Tiere nicht wesentlich erhöht wird und
-
-4. diese Änderungen vorher der zuständigen Behörde angezeigt worden sind.
-
-Die Änderungen dürfen nicht vor Ablauf von zwei Wochen nach Eingang der Anzeige nach Satz 1 Nummer 4 vorgenommen werden, es sei denn die zuständige Behörde hat zuvor mitgeteilt, dass gegen die Änderungen keine Einwände bestehen.
+3. die Zahl der verwendeten Tiere wesentlich erhöht wird.
 
 (2) Wechselt der Leiter des Versuchsvorhabens oder sein Stellvertreter, so hat der Genehmigungsinhaber diese Änderung der zuständigen Behörde unverzüglich anzuzeigen. Die Genehmigung ist innerhalb eines Monats ab Eingang der Änderungsanzeige von der zuständigen Behörde zu widerrufen, wenn der Leiter des Versuchsvorhabens oder sein Stellvertreter die Anforderungen des § 8 Absatz 1 Satz 2 Nummer 2 des Tierschutzgesetzes nicht erfüllen.
 
-(3) Andere als die in Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Änderungen bedürfen der Genehmigung durch die zuständige Behörde. Für die Genehmigung der Änderungen gelten § 8 Absatz 1 Satz 2 des Tierschutzgesetzes und die §§ 31 bis 33 entsprechend.
+(3) Andere als die in Absatz 1 Satz 1 genannten Änderungen bedürfen einer Anzeige bei der zuständigen Behörde. Die Änderungen dürfen frühestens zwei Wochen nach Eingang der Anzeige nach Satz 1 vorgenommen werden, es sei denn, die zuständige Behörde hat vorher mitgeteilt, dass gegen die Änderungen keine Einwände bestehen.
 
 # § 35 – Rückblickende Bewertung von Versuchsvorhaben
 
@@ -609,37 +669,69 @@ beinhaltet.
 
 4. den Schweregrad der durchgeführten Tierversuche nach Artikel 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie 2010/63/EU und
 
-5. ob sich hieraus Schlussfolgerungen im Hinblick auf die Anforderungen gemäß § 7 Absatz 1 Satz 2 und § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes ergeben.
+5. ob sich hieraus Schlussfolgerungen im Hinblick auf die Anforderungen gemäß § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes ergeben.
 
-# § 36 – Anzeige von Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes
+# § 36 – Vereinfachtes Genehmigungsverfahren für Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes
 
-(1) In der Anzeige eines Versuchsvorhabens nach § 8a Absatz 1 des Tierschutzgesetzes sind anzugeben:
+(1) Der Antrag auf Genehmigung eines Versuchsvorhabens im vereinfachten Genehmigungsverfahren nach § 8a Absatz 1 des Tierschutzgesetzes ist schriftlich oder elektronisch bei der zuständigen Behörde zu stellen. In dem Antrag sind anzugeben:
 
-1. die Angaben nach § 31 Absatz 1 Satz 2 Nummer 1,
+1. die Tatsache, dass es sich um einen Antrag auf Genehmigung eines Versuchsvorhabens im vereinfachten Genehmigungsverfahren handelt,
 
-2. bei Versuchsvorhaben nach § 8a Absatz 1 Nummer 1 des Tierschutzgesetzes der Rechtsgrund für die Anzeige und
+2. die Angaben, Darlegungen und Nachweise, die nach § 31 Absatz 1 Satz 2 erforderlich sind, und
 
-3. Darlegung und Nachweise nach § 31 Absatz 1 Satz 2 Nummer 2 bis 4.
+3. im Fall eines Versuchsvorhabens nach § 8a Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes zusätzlich die Rechtsgrundlage für die Durchführung des Versuchsvorhabens.
 
-Die Anzeige hat schriftlich zu erfolgen.
+(2) Die zuständige Behörde hat dem Antragsteller innerhalb von
 
-(2) Mit der Durchführung des Versuchsvorhabens darf nicht vor Ablauf von zwanzig Arbeitstagen ab Eingang einer den Anforderungen des Absatzes 1 entsprechenden Anzeige bei der zuständigen Behörde begonnen werden, es sei denn die zuständige Behörde hat zuvor mitgeteilt, dass gegen die Durchführung keine Einwände bestehen.
+1. 15 Arbeitstagen ab Eingang eines den Anforderungen des Absatzes 1 entsprechenden Antrags
 
-(3) Nach Eingang einer Anzeige nach § 8a Absatz 1 des Tierschutzgesetzes hat die zuständige Behörde dem Anzeigenden unverzüglich eine Empfangsbestätigung unter Angabe des Tages des Einganges der Anzeige auszustellen. In der Empfangsbestätigung ist auf die Frist nach Absatz 2 hinzuweisen.
+a) das Ergebnis ihrer Prüfung über das Vorliegen der Voraussetzungen nach § 8 Absatz 1 Satz 2 Nummer 1, 3, 5, 6 und 7 Buchstabe b bis g sowie Nummer 7a des Tierschutzgesetzes und
 
-(4) Ein nach § 8a Absatz 1 des Tierschutzgesetzes angezeigtes Versuchsvorhaben darf nicht nach Ablauf von fünf Jahren nach Ablauf der in Absatz 2 genannten Frist oder nach Eingang der Mitteilung nach Absatz 2 durchgeführt werden.
+b) die Festlegung über die Durchführung einer rückblickenden Bewertung nach § 35,
 
-# § 37 – Sammelanzeige, Anzeige von Änderungen angezeigter Versuchsvorhaben
+2. 20 Arbeitstagen ab Eingang eines den Anforderungen des Absatzes 1 entsprechenden Antrags ihre abschließende Entscheidung über den Antrag
 
-(1) Ist die Durchführung mehrerer gleichartiger Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes beabsichtigt, so genügt die Anzeige des ersten Versuchsvorhabens, wenn in der Anzeige zusätzlich die voraussichtliche Zahl der Versuchsvorhaben angegeben wird. Bis zum 15. Februar eines Jahres hat der Anzeigende der zuständigen Behörde die Zahl der im vorhergegangenen Kalenderjahr durchgeführten Versuchsvorhaben sowie Art und Zahl der insgesamt verwendeten Tiere anzugeben.
+mitzuteilen. Die zuständige Behörde kann den in Satz 1 Nummer 1 und 2 genannten Zeitraum jeweils einmalig um bis zu zehn Arbeitstage nach Maßgabe des Absatzes 3 Satz 3 verlängern, soweit der Umfang und die Schwierigkeit der Prüfung des Vorliegens der Voraussetzungen nach
 
-(2) Ändern sich die nach § 36 Absatz 1 Satz 1 Nummer 1 und 2 in der Anzeige angegebenen Sachverhalte während des Versuchsvorhabens, so sind diese Änderungen unverzüglich der zuständigen Behörde anzuzeigen. § 34 Absatz 1 Satz 2 gilt entsprechend.
+1. § 8 Absatz 1 Satz 2 Nummer 1, 3, 5, 6 und 7 Buchstabe b bis g sowie Nummer 7a des Tierschutzgesetzes im Fall des Satzes 1 Nummer 1 oder
 
-(3) § 36 Absatz 4 gilt entsprechend.
+2. § 8a Absatz 1 des Tierschutzgesetzes im Fall des Satzes 1 Nummer 2
 
-# § 38 – Prüfung angezeigter Versuchsvorhaben oder deren Änderungen
+dies rechtfertigen.
 
-Im Falle des Eingangs einer Anzeige nach § 36 Absatz 1 prüft die zuständige Behörde innerhalb der in § 36 Absatz 2 genannten Frist, ob im Hinblick auf das angezeigte Versuchsvorhaben die in § 8 Absatz 1 Satz 2 Nummer 1 bis 8 des Tierschutzgesetzes genannten Voraussetzungen vorliegen oder ob die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist. Satz 1 gilt im Falle der Anzeige von Änderungen nach § 34 Absatz 1 Satz 1 Nummer 4 oder § 37 Absatz 2 Satz 1 entsprechend mit der Maßgabe, dass die Prüfung innerhalb von zwei Wochen durchgeführt wird.
+(3) Nach Eingang eines Antrags nach Absatz 1 hat die zuständige Behörde dem Antragsteller unverzüglich eine Empfangsbestätigung auszustellen. In der Empfangsbestätigung ist anzugeben, dass dem Antragsteller die abschließende Entscheidung über den Antrag innerhalb des in Absatz 2 Satz 1 Nummer 2 genannten Zeitraums mitgeteilt wird. Eine Verlängerung nach Absatz 2 Satz 2 Nummer 2 ist dem Antragsteller spätestens bis zum Ablauf des in Absatz 2 Satz 1 Nummer 2 genannten Zeitraums unter Angabe von Gründen mitzuteilen.
+
+(4) Die zuständige Behörde überprüft einen eingegangenen Antrag nach Absatz 1 Satz 1 unverzüglich nach Eingang auf Vollständigkeit. Sofern dieser den Anforderungen nach Absatz 1 nicht genügt, teilt die zuständige Behörde dies dem Antragsteller unverzüglich unter Benennung der fehlenden Angaben, Darlegungen und Nachweise nach Absatz 1 Satz 2 mit. Der Antragsteller ist darauf hinzuweisen, dass der Beginn der in Absatz 2 Satz 1 genannten Zeiträume den Eingang eines den Anforderungen des Absatzes 1 entsprechenden Antrags voraussetzt.
+
+(5) Die zuständige Behörde kann die Kommission nach § 15 Absatz 1 Satz 2 des Tierschutzgesetzes über Anträge auf Genehmigung von Versuchsvorhaben im vereinfachten Genehmigungsverfahren nach § 8a Absatz 1 des Tierschutzgesetzes unterrichten und ihr Gelegenheit geben, in angemessener Frist Stellung zu nehmen.
+
+(6) Absatz 5 gilt für die zuständige Stelle der Bundeswehr entsprechend mit der Maßgabe, dass die Kommission nach § 15 Absatz 3 Satz 2 des Tierschutzgesetzes beteiligt werden kann. Die Sicherheitsbelange der Bundeswehr sind zu berücksichtigen. Sollen Tierversuche im Auftrag der Bundeswehr durchgeführt werden, so kann die Kommission hiervon ebenfalls unterrichtet werden und ihr kann vor Auftragserteilung Gelegenheit zur Stellungnahme gegeben werden; § 15 Absatz 1 des Tierschutzgesetzes bleibt unberührt. Die für die Genehmigung des Versuchsvorhabens zuständige Landesbehörde ist davon in Kenntnis zu setzen. Die zuständige Stelle der Bundeswehr sendet auf Anforderung die Stellungnahme zu.
+
+(7) § 33 gilt mit der Maßgabe, dass die Genehmigung nach § 33 Absatz 2 Satz 2 bei Vorliegen der weiteren dort genannten Voraussetzungen zu verlängern ist, sofern seit der erstmaligen Erteilung oder ersten Verlängerung der Genehmigung im vereinfachten Genehmigungsverfahren
+
+1. keine Änderungen eingetreten sind oder
+
+2. nur solche Änderungen eingetreten sind, die
+
+a) nach § 37 Absatz 2 Satz 1 in Verbindung mit § 34 Absatz 1 genehmigt worden sind oder
+
+b) nach § 37 Absatz 2 Satz 2 angezeigt und von der zuständigen Behörde nicht beanstandet worden sind.
+
+(8) Ein Versuchsvorhaben, für das die Genehmigung nach § 8a Absatz 1 Satz 2 des Tierschutzgesetzes als erteilt gilt, darf nicht nach Ablauf von fünf Jahren nach Ablauf der in Absatz 2 Satz 1 Nummer 2 genannten Frist durchgeführt werden.
+
+# § 37 – Sammelgenehmigung und Genehmigung von Änderungen genehmigter Versuchsvorhaben im vereinfachten Genehmigungsverfahren
+
+(1) Ist die Durchführung mehrerer gleichartiger Versuchsvorhaben nach § 8a Absatz 1 Satz 1 des Tierschutzgesetzes beabsichtigt, so genügt die Genehmigung des ersten Versuchsvorhabens im vereinfachten Genehmigungsverfahren, wenn in dem Antrag auf Genehmigung zusätzlich die voraussichtliche Zahl der Versuchsvorhaben angegeben wird. Bis zum 15. Februar eines Jahres hat der Antragsteller der zuständigen Behörde die Zahl der im vorangegangenen Kalenderjahr durchgeführten Versuchsvorhaben sowie Art und Zahl der insgesamt verwendeten Tiere anzugeben.
+
+(2) § 34 Absatz 1 gilt mit der Maßgabe, dass die Änderungen einer erneuten Genehmigung im vereinfachten Genehmigungsverfahren bedürfen.
+
+# § 38 – Prüfung der Anzeige von Änderungen von Versuchsvorhaben
+
+Im Fall der Anzeige von Änderungen nach § 34 Absatz 3 prüft die zuständige Behörde innerhalb von zwei Wochen, ob
+
+1. die in § 8 Absatz 1 Satz 2 Nummer 1 bis 8 des Tierschutzgesetzes genannten Voraussetzungen vorliegen oder
+
+2. die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist.
 
 # § 39 – Anzeige von Versuchsvorhaben an Zehnfußkrebsen
 
@@ -655,21 +747,29 @@ Im Falle des Eingangs einer Anzeige nach § 36 Absatz 1 prüft die zuständige B
 
 5. der Name, die Anschrift und die Sachkunde des Leiters des Versuchsvorhabens, seines Stellvertreters und der durchführenden Personen sowie die für die Nachbehandlung in Frage kommenden Personen.
 
-§ 36 Absatz 1 Satz 2, Absatz 3 und 4 sowie § 37 Absatz 1 und 2 Satz 1 gelten entsprechend.
+Die Anzeige hat schriftlich oder elektronisch zu erfolgen. § 37 Absatz 1 gilt entsprechend. Ändert sich ein nach Satz 1 Nummer 1 bis 3 in der Anzeige angegebener Sachverhalt während des Versuchsvorhabens, ist die Änderung unverzüglich der zuständigen Behörde anzuzeigen.
 
 (2) Mit der Durchführung des Versuchsvorhabens darf nicht vor Ablauf von zwei Wochen ab Eingang einer den Anforderungen des Absatzes 1 entsprechenden Anzeige bei der zuständigen Behörde begonnen werden, es sei denn die zuständige Behörde hat zuvor mitgeteilt, dass gegen die Durchführung keine Einwände bestehen. Die in Satz 1 genannte Frist kann von der zuständigen Behörde bei Bedarf auf bis zu vier Wochen verlängert werden; die Verlängerung ist dem Antragsteller spätestens bis zum Ablauf der in Satz 1 genannten Frist unter Angabe von Gründen mitzuteilen.
 
-(3) Im Falle des Eingangs einer Anzeige nach Absatz 1 Satz 1 prüft die zuständige Behörde, ob im Hinblick auf das angezeigte Versuchsvorhaben die Einhaltung der Vorschriften des § 7 Absatz 1 Satz 2 und 3 und § 7a Absatz 1 und 2 Nummer 1, 2, 4 und 5 des Tierschutzgesetzes, des § 20 Absatz 1 und der §§ 27 und 28 Absatz 3 und 4 sichergestellt ist oder ob die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist.
+(2a) Nach Eingang einer Anzeige nach § 8a Absatz 3 des Tierschutzgesetzes hat die zuständige Behörde dem Anzeigenden unverzüglich eine Empfangsbestätigung auszustellen. In der Empfangsbestätigung ist der Tag des Einganges der Anzeige anzugeben und auf die Frist nach Absatz 2 hinzuweisen.
+
+(2b) Ein nach § 8a Absatz 3 des Tierschutzgesetzes angezeigtes Versuchsvorhaben darf nicht durchgeführt werden nach Ablauf von fünf Jahren
+
+1. nach Ablauf der in Absatz 2 genannten Frist oder
+
+2. nach Eingang der Mitteilung nach Absatz 2.
+
+(3) Im Falle des Eingangs einer Anzeige nach Absatz 1 Satz 1 prüft die zuständige Behörde, ob im Hinblick auf das angezeigte Versuchsvorhaben die Einhaltung der Vorschriften des § 7 Absatz 1 Satz 2 bis 4 und § 7a Absatz 1 und 2 Nummer 1, 2, 4 und 5 des Tierschutzgesetzes, des § 20 Absatz 1 und der §§ 27 und 28 Absatz 3 und 4 sichergestellt ist oder ob die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist.
 
 # § 40 – Aufbewahrungspflicht
 
-Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach § 8a Absatz 1 oder 3 des Tierschutzgesetzes, der Anzeigende hat
+Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach § 8a Absatz 3 des Tierschutzgesetzes, der Anzeigende hat
 
-1. eine Kopie des Antrags nach § 31 und den Genehmigungsbescheid nach § 33 oder, im Falle von Versuchsvorhaben nach § 8a Absatz 1 oder 3 des Tierschutzgesetzes, eine Kopie der Anzeige nach § 36 Absatz 1 oder § 39 Absatz 1 Satz 1 sowie
+1. eine Kopie des Antrags nach § 31 und den Genehmigungsbescheid nach § 33 oder, im Fall von Versuchsvorhaben nach § 8a Absatz 1 Satz 1 des Tierschutzgesetzes, eine Kopie des Antrags nach § 36 Absatz 1 und des Genehmigungsbescheids nach § 33 in Verbindung mit § 36 Absatz 6 oder im Fall von Versuchsvorhaben nach § 8a Absatz 3 des Tierschutzgesetzes, eine Kopie der Anzeige nach § 39 Absatz 1 Satz 1 sowie
 
 2. alle sonstigen Dokumente, die ihm im Zusammenhang mit der Genehmigung oder Anzeige und der Durchführung des Versuchsvorhabens von der zuständigen Behörde übermittelt worden sind,
 
-mindestens drei Jahre über das Ende der Geltungsdauer der Genehmigung oder, bei Versuchsvorhaben nach § 8a Absatz 1 oder 3 des Tierschutzgesetzes, über den Ablauf der in § 36 Absatz 4, auch in Verbindung mit § 39 Absatz 1 Satz 2, genannten Frist hinaus aufzubewahren. Im Falle von Versuchsvorhaben, die einer Bewertung nach § 35 unterzogen werden sollen, sind die in Satz 1 genannten Dokumente bis zum Abschluss der Bewertung aufzubewahren, soweit der Abschluss der Bewertung erst nach Ablauf der in Satz 1 genannten Frist erfolgt.
+mindestens drei Jahre über das Ende der Geltungsdauer der Genehmigung oder, bei Versuchsvorhaben nach § 8a Absatz 3 des Tierschutzgesetzes, über den Ablauf der in § 39 Absatz 2b genannten Frist hinaus aufzubewahren. Abweichend von Satz 1 darf im Fall der elektronischen Übermittlung der dort genannten Dokumente die Aufbewahrung dieser Dokumente durch Speicherung auf einem dauerhaften Datenträger erfolgen. Im Falle von Versuchsvorhaben, die einer Bewertung nach § 35 unterzogen werden sollen, sind die in Satz 1 genannten Dokumente bis zum Abschluss der Bewertung aufzubewahren, soweit der Abschluss der Bewertung erst nach Ablauf der in Satz 1 genannten Frist erfolgt.
 
 # § 41 – Veröffentlichung von Zusammenfassungen
 
@@ -683,11 +783,13 @@ mindestens drei Jahre über das Ende der Geltungsdauer der Genehmigung oder, bei
 
 4. die Anzahl und die Art der zur Verwendung vorgesehenen Tiere und
 
-5. die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
+5. die Erfüllung der Anforderungen des § 7 Absatz 1 Satz 2 und 3 sowie des § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
 
 Die Zusammenfassung darf keine einrichtungs- oder personenbezogenen Daten enthalten. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
 (2) Die Zusammenfassung wird innerhalb von zwölf Monaten nach der Übermittlung durch die zuständige Behörde durch das Bundesinstitut im Internet veröffentlicht. Die entsprechende Internetseite wird durch das Bundesinstitut im Bundesanzeiger bekannt gemacht.
+
+(3) Die Übermittlung der Zusammenfassung nach Absatz 1 Satz 1 erfolgt auch zum Zwecke der Weiterleitung an die Europäische Kommission. Das Bundesinstitut leitet die Zusammenfassung einschließlich notwendiger Aktualisierungen innerhalb von drei Monaten nach der Übermittlung durch die zuständigen Behörden auf elektronischem Wege an die Europäische Kommission weiter.
 
 # § 42 – Tierversuchskommissionen
 
@@ -707,17 +809,19 @@ Die nach Landesrecht zuständigen Behörden unterrichten das Bundesministerium �
 
 1. entgegen § 15 Absatz 1 Satz 1 oder § 17 Absatz 2 Satz 1 einen Tierversuch durchführt,
 
-2. entgegen § 17 Absatz 3 Satz 3 ein Mittel anwendet,
+2. entgegen § 17 Absatz 5 ein Mittel anwendet,
 
 3. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 15 Absatz 1 Satz 1 nicht sicherstellt oder
 
-4. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 17 Absatz 2 Satz 1 oder Absatz 3 Satz 3 nicht sicherstellt.
+4. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 17 Absatz 2 Satz 1 oder Absatz 4 nicht sicherstellt.
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe b des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1. entgegen § 2 Absatz 1 Satz 1 Nummer 1 ein Wirbeltier oder einen Kopffüßer tötet,
+1. entgegen § 2 Absatz 1 Satz 1 ein Wirbeltier oder einen Kopffüßer tötet,
 
-2. entgegen § 5 Absatz 1 Satz 1 einen Tierschutzbeauftragten nicht oder nicht rechtzeitig bestellt,
+2. entgegen § 5 Absatz 1 Satz 1 einen Tierschutzbeauftragten nicht oder nicht rechtzeitig bestellt oder eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
+
+2a. entgegen § 6 Absatz 1 Satz 1 einen Tierschutzausschuss nicht oder nicht rechtzeitig bestellt,
 
 3. entgegen § 7 Absatz 1 Satz 1 ein Kontrollbuch nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise führt,
 
@@ -733,15 +837,17 @@ Die nach Landesrecht zuständigen Behörden unterrichten das Bundesministerium �
 
 9. entgegen § 9 Absatz 2 den dort genannten Nachweis nicht erbringt,
 
+9a. entgegen § 19 Absatz 1 Satz 1, § 20 Absatz 1 Satz 1, § 21 Satz 1 oder § 24 Absatz 1 ein dort genanntes Tier, einen Kopffüßer oder einen Primaten verwendet,
+
 10. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 1 nicht sicherstellt,
 
-10a. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht sicherstellt,
+10a. (weggefallen)
 
-11. entgegen § 36 Absatz 2 oder Absatz 4 ein Versuchsvorhaben durchführt,
+11. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht sicherstellt,
 
-12. entgegen § 37 Absatz 1 Satz 2, auch in Verbindung mit § 39 Absatz 1 Satz 2, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+12. entgegen § 37 Absatz 1 Satz 2, auch in Verbindung mit § 39 Absatz 1 Satz 3, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-13. entgegen § 37 Absatz 2 Satz 2 eine Änderung vornimmt,
+13. entgegen § 37 Absatz 2 eine Änderung vornimmt,
 
 14. entgegen § 39 Absatz 2 Satz 1 ein Versuchsvorhaben beginnt oder
 
@@ -763,7 +869,7 @@ Das Bundesinstitut berät die zuständigen Behörden in Angelegenheiten, die mit
 
 # § 47 – Unberührtheitsklausel
 
-Die Vorschriften des Naturschutzrechts, des Jagdrechts und des Fischereirechts bleiben unberührt.
+Die Vorschriften des Naturschutzrechts, des Jagdrechts, des Umweltrechts und des Fischereirechts bleiben unberührt.
 
 # § 48 – Übergangsvorschriften
 
@@ -787,6 +893,16 @@ gehalten werden, ab dem 1. Januar 2014. Satz 1 gilt auch für Einrichtungen und 
 
 worden ist.
 
+(5) Für Tierversuche,
+
+1. deren Genehmigung vor dem 1. Dezember 2021 erteilt worden ist oder
+
+2. deren Durchführung vor dem 1. Dezember 2021 nach den Vorschriften des Tierschutzgesetzes in der bis Ablauf des 1. Dezember 2021 anzuwendenden Fassung und nach den Vorschriften dieser Verordnung in der bis zum 1. Dezember 2021 geltenden Fassung angezeigt und von der zuständigen Behörde nicht beanstandet worden ist,
+
+sind abweichend von den §§ 31 bis 38 bis zum 1. Dezember 2023 die Vorschriften dieser Verordnung in der bis zum 1. Dezember 2021 geltenden Fassung weiter anzuwenden.
+
+(6) Für Tierversuche, deren Durchführung vor dem 1. Dezember 2021 nach § 8a Absatz 1 des Tierschutzgesetzes in der bis zum 1. Dezember 2021 anzuwendenden Fassung und den Vorschriften dieser Verordnung in der bis zum 1. Dezember 2021 geltenden Fassung angezeigt und von der zuständigen Behörde nicht beanstandet worden ist, ist § 40 in der bis zum 1. Dezember 2021 geltenden Fassung weiter anzuwenden.
+
 # Anlage 1 – Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
 
 (Fundstelle: BGBl. I 2013, 3140 - 3141)
@@ -807,11 +923,15 @@ worden ist.
 
 7. Verhaltensgerechter Umgang mit Tieren.
 
+8. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier sowie intrinsischer Wert des Lebens.
+
+9. Anforderungen des Prinzips der Unerlässlichkeit nach § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
+
  
 
 1. Geltende Rechtsvorschriften zum Töten von Tieren zu wissenschaftlichen Zwecken oder von Tieren, die dazu bestimmt sind, in Tierversuchen verwendet zu werden.
 
-2. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens.
+2. Ethik in Bezug auf die Beziehung zwischen Mensch und Tier, intrinsischer Wert des Lebens und Argumente für und gegen die Verwendung von Tieren zu wissenschaftlichen Zwecken.
 
 3. Grundlagen der Biologie und angemessene artspezifische Biologie in Bezug auf Anatomie und physiologische Merkmale.
 
@@ -831,6 +951,8 @@ worden ist.
 
 11. Erkennen artspezifischer Schmerzen und Leiden der am häufigsten für Tierversuche verwendeten Arten.
 
+12. Anforderungen des Prinzips der Unerlässlichkeit nach § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
+
  
 
 1. Geltende Rechtsvorschriften zur Durchführung von Tierversuchen.
@@ -849,7 +971,7 @@ worden ist.
 
 8. Anwendung möglichst schmerzloser Endpunkte.
 
-9. Anforderungen des Prinzips der Unerlässlichkeit von Tierversuchen gemäß § 7 Absatz 1 Satz 2 und § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
+9. Anforderungen des Prinzips der Unerlässlichkeit von Tierversuchen gemäß § 7 Absatz 1 Satz 2 und 3 sowie § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes.
 
 10. Gegebenenfalls Planung von Verfahren und Projekten.
 

@@ -507,7 +507,7 @@ Für die Eintragung der Eröffnung des Insolvenzverfahrens in das Schiffsregiste
 
 # § 36 – Unpfändbare Gegenstände
 
-(1) Gegenstände, die nicht der Zwangsvollstreckung unterliegen, gehören nicht zur Insolvenzmasse. Die §§ 850, 850a, 850c, 850e, 850f Abs. 1, §§ 850g bis 850k, 851c und 851d der Zivilprozessordnung gelten entsprechend.
+(1) Gegenstände, die nicht der Zwangsvollstreckung unterliegen, gehören nicht zur Insolvenzmasse. Die §§ 850, 850a, 850c, 850e, 850f Abs. 1, §§ 850g bis 850l, 851c, 851d, 899 bis 904, 905 Satz 1 und 3 sowie § 906 Absatz 2 bis 4 der Zivilprozessordnung gelten entsprechend. Verfügungen des Schuldners über Guthaben, das nach den Vorschriften der Zivilprozessordnung über die Wirkungen des Pfändungsschutzkontos nicht von der Pfändung erfasst wird, bedürfen zu ihrer Wirksamkeit nicht der Freigabe dieses Kontoguthabens durch den Insolvenzverwalter.
 
 (2) Zur Insolvenzmasse gehören jedoch
 

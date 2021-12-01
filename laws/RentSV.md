@@ -318,7 +318,7 @@ bedürfen der Zustimmung des Bundesamtes für Soziale Sicherung.
 
 # § 8 – Zahlungsempfänger
 
-Zahlungen erfolgen an die Berechtigten, soweit nicht Dritte auf Grund
+Zahlungen erfolgen an die Berechtigten, soweit nicht Dritte vom Berechtigten als Zahlungsempfänger benannt wurden oder auf Grund
 
 1. der gesetzlichen Vorschriften über die Vormundschaft oder die Betreuung,
 
@@ -334,7 +334,7 @@ einen Anspruch auf die Auszahlung haben.
 
 (2) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im Ausland (Auslandszahlungen) sollen bei Aufenthalt innerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung auf ein Konto der Zahlungsempfänger bei einem Geldinstitut innerhalb des Geltungsbereiches dieser Verordnung erfolgen. Bei Aufenthalt der Zahlungsempfänger außerhalb des Geltungsbereiches der Verordnung sollen die Zahlungen in einer für die Träger der Rentenversicherung möglichst wirtschaftlichen Form ausgeführt werden.
 
-(3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu tragen, soweit hierdurch keine Mehraufwendungen entstehen oder die Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls gerechtfertigt erscheinen. Zahlungsempfänger können auch inländische Konten von Vertrauenspersonen benennen.
+(3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu tragen, soweit hierdurch keine Mehraufwendungen entstehen oder die Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls gerechtfertigt erscheinen.
 
 (4) Die Zahlung laufender Geldleistungen ist so rechtzeitig zu bewirken, dass die Leistungen den Zahlungsempfängern nach dem gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von § 118 Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch zur Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist unverzüglich nach der Erteilung des Zahlungsauftrages zu bewirken.
 

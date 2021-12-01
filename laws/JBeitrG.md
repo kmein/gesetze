@@ -71,7 +71,7 @@ Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den für den b
 
 (1) Für die Vollstreckung gelten nach Maßgabe der Absätze 2 bis 4 folgende Vorschriften sinngemäß:
 
-1. §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 und 5, §§ 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis 776, 778, 779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i, 802j Absatz 1 und 3, §§ 802k bis 827, 828 Absatz 2 und 3, §§ 829 bis 837a, 840 Absatz 1, Absatz 2 Satz 2, §§ 841 bis 886 der Zivilprozessordnung,
+1. §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 und 5, §§ 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis 776, 778, 779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i, 802j Absatz 1 und 3, §§ 802k bis 827, 828 Absatz 2 und 3, §§ 829 bis 837a, 840 Absatz 1, Absatz 2 Satz 2, §§ 841 bis 886, 899 bis 910 der Zivilprozessordnung,
 
 2. sonstige Vorschriften des Bundesrechts, die die Zwangsvollstreckung aus Urteilen in bürgerlichen Rechtsstreitigkeiten beschränken, sowie
 

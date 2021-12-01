@@ -1472,7 +1472,7 @@ Die Gebühr entsteht, wenn sich eine Rechtssache ganz oder teilweise nach Aufheb
 1003
 
 Über den Gegenstand ist ein anderes gerichtliches Verfahren als ein selbständiges Beweisverfahren anhängig:  
-Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 betragen ..........
+Die Gebühr 1000 Nr. 1 sowie die Gebühren 1001 und 1002 ..........
 
 1,0
 
@@ -1552,7 +1552,7 @@ Hebegebühr
 
  
 
-3. von dem Mehrbetrag über 10 000,00 € ..........    (1) Die Gebühr wird für die Auszahlung oder Rückzahlung von entgegengenommenen Geldbeträgen erhoben.    (2) Unbare Zahlungen stehen baren Zahlungen gleich. Die Gebühr kann bei der Ablieferung an den Auftraggeber entnommen werden.    (3) Ist das Geld in mehreren Beträgen gesondert ausgezahlt oder zurückgezahlt, wird die Gebühr von jedem Betrag besonders erhoben.    (4) Für die Ablieferung oder Rücklieferung von Wertpapieren und Kostbarkeiten entsteht die in den Absätzen 1 bis 3 bestimmte Gebühr nach dem Wert.    (5) Die Hebegebühr entsteht nicht, soweit Kosten an ein Gericht oder eine Behörde weitergeleitet oder eingezogene Kosten an den Auftraggeber abgeführt oder eingezogene Beträge auf die Vergütung verrechnet werden.
+3. von dem Mehrbetrag über 10 000,00 € ...........    (1) Die Gebühr wird für die Auszahlung oder Rückzahlung von entgegengenommenen Geldbeträgen erhoben.    (2) Unbare Zahlungen stehen baren Zahlungen gleich. Die Gebühr kann bei der Ablieferung an den Auftraggeber entnommen werden.    (3) Ist das Geld in mehreren Beträgen gesondert ausgezahlt oder zurückgezahlt, wird die Gebühr von jedem Betrag besonders erhoben.    (4) Für die Ablieferung oder Rücklieferung von Wertpapieren und Kostbarkeiten entsteht die in den Absätzen 1 bis 3 bestimmte Gebühr nach dem Wert.    (5) Die Hebegebühr entsteht nicht, soweit Kosten an ein Gericht oder eine Behörde weitergeleitet oder eingezogene Kosten an den Auftraggeber abgeführt oder eingezogene Beträge auf die Vergütung verrechnet werden.
 
   
 0,25% des aus- oder zurückgezahlten Betrags  
@@ -1670,7 +1670,7 @@ Vorbemerkung 2.3:
 
 2300
 
-Geschäftsgebühr, soweit in den Nummern 2302 und 2303 nichts anderes bestimmt ist ....................................
+Geschäftsgebühr, soweit in den Nummern 2302 und 2303 nichts anderes bestimmt ist ..........
 
   
 0,5 bis 2,5
@@ -1685,7 +1685,7 @@ Geschäftsgebühr, soweit in den Nummern 2302 und 2303 nichts anderes bestimmt i
 2301
 
 Der Auftrag beschränkt sich auf ein Schreiben einfacher Art:  
-Die Gebühr 2300 beträgt ............................
+Die Gebühr 2300 beträgt ..........
 
 0,3
 
@@ -1873,7 +1873,7 @@ Erster Rechtszug
   
 Vorbemerkung 3.1:  
   
-Die Gebühren dieses Abschnitts entstehen in allen Verfahren, für die in den folgenden Abschnitten dieses Teils keine Gebühren bestimmt sind.   
+Die Gebühren dieses Abschnitts entstehen in allen Verfahren, für die in den folgenden Abschnitten dieses Teils keine Gebühren bestimmt sind.
 
  
 
@@ -2023,6 +2023,8 @@ h) nach dem EU-VSchDG,
 i) nach dem SpruchG,
 
 j) nach dem WpÜG,
+
+k) nach dem WRegG,
 
 3. über Beschwerden
 

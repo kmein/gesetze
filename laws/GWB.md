@@ -2253,9 +2253,9 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (2) Die Monopolkommission hat eine Geschäftsordnung und verfügt über eine Geschäftsstelle. Diese hat die Aufgabe, die Monopolkommission wissenschaftlich, administrativ und technisch zu unterstützen.
 
-(2a) Die Monopolkommission kann Einsicht in die von der Kartellbehörde geführten Akten einschließlich Betriebs- und Geschäftsgeheimnisse und personenbezogener Daten nehmen, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt auch für die Erstellung der Gutachten nach § 78 des Eisenbahnregulierungsgesetzes, § 62 des Energiewirtschaftsgesetzes, § 44 des Postgesetzes sowie nach § 121 Absatz 2 des Telekommunikationsgesetzes.
+(2a) Die Monopolkommission kann Einsicht in die von der Kartellbehörde geführten Akten einschließlich Betriebs- und Geschäftsgeheimnisse und personenbezogener Daten nehmen, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt auch für die Erstellung der Gutachten nach § 78 des Eisenbahnregulierungsgesetzes, § 62 des Energiewirtschaftsgesetzes, § 44 des Postgesetzes sowie nach § 195 Absatz 2 des Telekommunikationsgesetzes.
 
-(2b) Im Rahmen der Akteneinsicht kann die Monopolkommission bei der Kartellbehörde in elektronischer Form vorliegende Daten, einschließlich Betriebs- und Geschäftsgeheimnissen und personenbezogener Daten, selbstständig auswerten, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt auch für die Erstellung der Gutachten nach § 78 des Eisenbahnregulierungsgesetzes, § 62 des Energiewirtschaftsgesetzes, § 44 des Postgesetzes sowie nach § 121 Absatz 2 des Telekommunikationsgesetzes.
+(2b) Im Rahmen der Akteneinsicht kann die Monopolkommission bei der Kartellbehörde in elektronischer Form vorliegende Daten, einschließlich Betriebs- und Geschäftsgeheimnissen und personenbezogener Daten, selbstständig auswerten, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Dies gilt auch für die Erstellung der Gutachten nach § 78 des Eisenbahnregulierungsgesetzes, § 62 des Energiewirtschaftsgesetzes, § 44 des Postgesetzes sowie nach § 195 Absatz 2 des Telekommunikationsgesetzes.
 
 (3) Die Mitglieder der Monopolkommission und die Angehörigen der Geschäftsstelle sind zur Verschwiegenheit über die Beratungen und die von der Monopolkommission als vertraulich bezeichneten Beratungsunterlagen verpflichtet. Die Pflicht zur Verschwiegenheit bezieht sich auch auf Informationen und Daten, die der Monopolkommission gegeben und als vertraulich bezeichnet werden oder die gemäß Absatz 2a oder 2b erlangt worden sind.
 
@@ -4321,17 +4321,17 @@ c) fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, d
 
 # § 125 – Selbstreinigung
 
-(1) Öffentliche Auftraggeber schließen ein Unternehmen, bei dem ein Ausschlussgrund nach § 123 oder § 124 vorliegt, nicht von der Teilnahme an dem Vergabeverfahren aus, wenn das Unternehmen nachgewiesen hat, dass es
+(1) Öffentliche Auftraggeber schließen ein Unternehmen, bei dem ein Ausschlussgrund nach § 123 oder § 124 vorliegt, nicht von der Teilnahme an dem Vergabeverfahren aus, wenn das Unternehmen dem öffentlichen Auftraggeber oder nach § 8 des Wettbewerbsregistergesetzes dem Bundeskartellamt nachgewiesen hat, dass es
 
 1. für jeden durch eine Straftat oder ein Fehlverhalten verursachten Schaden einen Ausgleich gezahlt oder sich zur Zahlung eines Ausgleichs verpflichtet hat,
 
-2. die Tatsachen und Umstände, die mit der Straftat oder dem Fehlverhalten und dem dadurch verursachten Schaden in Zusammenhang stehen, durch eine aktive Zusammenarbeit mit den Ermittlungsbehörden und dem öffentlichen Auftraggeber umfassend geklärt hat, und
+2. die Tatsachen und Umstände, die mit der Straftat oder dem Fehlverhalten und dem dadurch verursachten Schaden in Zusammenhang stehen, durch eine aktive Zusammenarbeit mit den Ermittlungsbehörden und dem öffentlichen Auftraggeber umfassend geklärt hat und
 
 3. konkrete technische, organisatorische und personelle Maßnahmen ergriffen hat, die geeignet sind, weitere Straftaten oder weiteres Fehlverhalten zu vermeiden.
 
 § 123 Absatz 4 Satz 2 bleibt unberührt.
 
-(2) Öffentliche Auftraggeber bewerten die von dem Unternehmen ergriffenen Selbstreinigungsmaßnahmen und berücksichtigen dabei die Schwere und die besonderen Umstände der Straftat oder des Fehlverhaltens. Erachten die öffentlichen Auftraggeber die Selbstreinigungsmaßnahmen des Unternehmens als unzureichend, so begründen sie diese Entscheidung gegenüber dem Unternehmen.
+(2) Bei der Bewertung der von dem Unternehmen ergriffenen Selbstreinigungsmaßnahmen sind die Schwere und die besonderen Umstände der Straftat oder des Fehlverhaltens zu berücksichtigen. Die Entscheidung, dass die Selbstreinigungsmaßnahmen des Unternehmens als unzureichend bewertet werden, ist gegenüber dem Unternehmen zu begründen.
 
 (+++ § 125: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 

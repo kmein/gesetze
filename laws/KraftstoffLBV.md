@@ -131,7 +131,7 @@ Bezugscheine über die Grundmenge werden ausgegeben
 
 (4) Die Eisenbahnen des Bundes erhalten Bezugscheine vom Bundesministerium für Verkehr und digitale Infrastruktur.
 
-(5) Die Unternehmen gemäß § 2 des Post- und Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und Energie. Absatz 2 Satz 2 gilt entsprechend.
+(5) Die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und Energie. Absatz 2 Satz 2 gilt entsprechend.
 
 # § 15 – Zuteilung für außerhalb des Geltungsbereichs dieser Verordnung zugelassene Kraftfahrzeuge
 

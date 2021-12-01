@@ -23,7 +23,7 @@ Im Sinne dieser Verordnung
 
 1. ist „Betreiber“ diejenige natürliche oder juristische Person, die die rechtliche und tatsächliche Kontrolle über eine Telekommunikationsanlage oder ein Telekommunikationsnetz hat;
 
-2. ist „öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz im Sinne von § 3 Nr. 27 des Telekommunikationsgesetzes, das zur Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten im Sinne von § 3 Nr. 24 des Telekommunikationsgesetzes genutzt wird;
+2. ist „öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz im Sinne von § 3 Nummer 65 des Telekommunikationsgesetzes, das zur Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten im Sinne von § 3 Nummer 61 des Telekommunikationsgesetzes genutzt wird;
 
 3. sind „Störaussendungen“ von einem leitungsgeführten elektrischen Nutzsignal verursachte elektromagnetische Energieanteile, die den Leiter durch Induktion, Influenz oder Strahlungskopplung unerwünscht verlassen und den Funkverkehr störend beeinträchtigen können.
 

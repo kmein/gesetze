@@ -63,9 +63,11 @@ b) der Verarbeitung oder der Nutzung personenbezogener Daten, die über einen Ve
 
 wenn die Daten zu Zwecken der Werbung, der Markt- und Meinungsforschung, des Betreibens einer Auskunftei, des Erstellens von Persönlichkeits- und Nutzungsprofilen, des Adresshandels, des sonstigen Datenhandels oder zu vergleichbaren kommerziellen Zwecken erhoben, verarbeitet oder genutzt werden,
 
-12. § 2 Absatz 2 sowie die §§ 36 und 37 des Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S. 254) und Artikel 14 Absatz 1 und 2 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1) und
+12. § 2 Absatz 2 sowie die §§ 36 und 37 des Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S. 254) und Artikel 14 Absatz 1 und 2 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1),
 
-13. die Vorschriften des Zahlungskontengesetzes, die das Verhältnis zwischen einem Zahlungsdienstleister und einem Verbraucher regeln.
+13. die Vorschriften des Zahlungskontengesetzes, die das Verhältnis zwischen einem Zahlungsdienstleister und einem Verbraucher regeln, und
+
+14. die Vorschriften des Telekommunikationsgesetzes, die das Verhältnis zwischen Anbietern von öffentlich zugänglichen Telekommunikationsdiensten und Verbrauchern regeln.
 
 Eine Datenerhebung, Datenverarbeitung oder Datennutzung zu einem vergleichbaren kommerziellen Zweck im Sinne des Satzes 1 Nummer 11 liegt insbesondere nicht vor, wenn personenbezogene Daten eines Verbrauchers von einem Unternehmer ausschließlich für die Begründung, Durchführung oder Beendigung eines rechtsgeschäftlichen oder rechtsgeschäftsähnlichen Schuldverhältnisses mit dem Verbraucher erhoben, verarbeitet oder genutzt werden.
 
@@ -93,13 +95,13 @@ In diesen Fällen kann der Anspruchsgegner Ersatz der für seine Rechtsverteidig
 
 (1) Die in den §§ 1 bis 2 bezeichneten Ansprüche auf Unterlassung, auf Widerruf und auf Beseitigung stehen zu:
 
-1. qualifizierten Einrichtungen, die nachweisen, dass sie in der Liste qualifizierter Einrichtungen nach § 4 oder in dem Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) eingetragen sind,
+1. den qualifizierten Einrichtungen, die in der Liste nach § 4 eingetragen sind, oder den qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG eingetragen sind,
 
-2. rechtsfähigen Verbänden zur Förderung gewerblicher oder selbständiger beruflicher Interessen, soweit ihnen eine erhebliche Zahl von Unternehmen angehört, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, wenn sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung imstande sind, ihre satzungsmäßigen Aufgaben der Verfolgung gewerblicher oder selbständiger beruflicher Interessen tatsächlich wahrzunehmen, und soweit die Zuwiderhandlung die Interessen ihrer Mitglieder berührt,
+2. den qualifizierten Wirtschaftsverbänden, die in die Liste nach § 8b des Gesetzes gegen den unlauteren Wettbewerb eingetragen sind, soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren und Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, und die Zuwiderhandlung die Interessen ihrer Mitglieder berührt,
 
-3. den Industrie- und Handelskammern oder den Handwerkskammern.
+3. den Industrie- und Handelskammern, den nach der Handwerksordnung errichteten Organisationen und anderen berufsständischen Körperschaften des öffentlichen Rechts sowie den Gewerkschaften im Rahmen der Erfüllung ihrer Aufgaben bei der Vertretung selbstständiger beruflicher Interessen.
 
-Der Anspruch kann nur an Stellen im Sinne des Satzes 1 abgetreten werden.
+Der Anspruch kann nur an Stellen im Sinne des Satzes 1 abgetreten werden. Stellen nach Satz 1 Nummer 1 und 2 können die Ansprüche nicht geltend machen, solange ihre Eintragung ruht.
 
 (2) Die in Absatz 1 Satz 1 Nummer 1 bezeichneten Stellen können die folgenden Ansprüche nicht geltend machen:
 

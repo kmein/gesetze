@@ -91,7 +91,7 @@ Die Angaben zu den Nummern 1 bis 4 werden zum 31. Dezember des Berichtsjahres, d
 
 22. Ausstellung einer Bescheinigung nach § 305 Absatz 1 Nummer 1 der Insolvenzordnung durch die Beratungsstelle,
 
-23. Ausstellung einer Bescheinigung nach § 850k Absatz 5 der Zivilprozessordnung durch die Beratungsstelle,
+23. Ausstellung einer Bescheinigung nach § 903 Absatz 1 Satz 2 der Zivilprozessordnung durch die Beratungsstelle,
 
 24. Verfügung über ein eigenes Konto und Angabe, ob dieses als Pfändungsschutzkonto geführt wird.
 

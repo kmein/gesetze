@@ -1132,8 +1132,8 @@ Auskünfte über Bestandsdaten
 
 200
 
-Auskunft über Bestandsdaten nach § 3 Nr. 3 TKG, sofern  
-1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 112 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und  
+Auskunft über Bestandsdaten nach § 3 Nr. 6 TKG, sofern  
+1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 173 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und  
 2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss:  
 je angefragten Kundendatensatz ..........
 
@@ -1154,7 +1154,7 @@ für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der
 
 202
 
-Es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 201 beträgt ..........
 
    40,00 €
@@ -1178,7 +1178,7 @@ für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
 
 301
 
-Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 300 beträgt ..........
 
    35,00 €
@@ -1205,7 +1205,7 @@ je Zieladresse ..........
 
 304
 
-Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 303 beträgt ..........
 
   110,00 €
@@ -1225,7 +1225,7 @@ Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbeh�
 
 307
 
-Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 306 beträgt ..........
 
    35,00 €
@@ -1239,7 +1239,7 @@ Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
 
 309
 
-Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
 
     5,00 €
@@ -1253,7 +1253,7 @@ Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Stand
 
 311
 
-Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Für die Auskunft muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 310 beträgt ..........
 
    70,00 €
@@ -1299,7 +1299,7 @@ Die Pauschale 310 beträgt ..........
 
  
 
-Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:
 
  
 
@@ -1345,7 +1345,7 @@ Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ........
 
 319
 
-Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........
 
   130,00 €
@@ -1418,7 +1418,7 @@ Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Stan
 
 401
 
-Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:  
+Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 176 Abs. 2 bis 4 TKG zurückgegriffen werden:  
 Die Pauschale 400 beträgt ..........
 
    110,00 €

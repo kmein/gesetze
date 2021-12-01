@@ -165,7 +165,7 @@ Veranstalter einer Sportwette ist diejenige Person, die das Wettgeschehen in tat
 
 (2) Ist der Veranstalter der Sportwette eine juristische Person oder Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht feststellen, ist das Finanzamt örtlich zuständig, in dessen Bezirk der Veranstalter der Sportwette seinen Sitz hat.
 
-(3) Ergibt sich nach § 25 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main III örtlich zuständig.
+(3) Ergibt sich nach § 25 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main IV örtlich zuständig.
 
 (4) Für die Zerlegung des Gesamtaufkommens der Sportwettensteuer ist die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
@@ -251,7 +251,7 @@ Eine Lotterie oder Ausspielung im Sinne des § 26 des Rennwett- und Lotteriegese
 
 (2) Ist der Veranstalter der Lotterie oder Ausspielung eine juristische Person oder Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht feststellen, ist das Finanzamt örtlich zuständig, in dessen Bezirk der Veranstalter der Lotterie oder Ausspielung seinen Sitz hat.
 
-(3) Ergibt sich nach § 35 Satz 1 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main III örtlich zuständig.
+(3) Ergibt sich nach § 35 Satz 1 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main IV örtlich zuständig.
 
 (4) Für die nach § 34 des Rennwett- und Lotteriegesetzes durchzuführende Zerlegung des Gesamtaufkommens der Lotteriesteuer ist die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
@@ -303,7 +303,7 @@ Veranstalter des virtuellen Automatenspiels ist diejenige Person, die das Spielg
 
 (2) Ist der Veranstalter des virtuellen Automatenspiels eine juristische Person oder Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht feststellen, so ist das Finanzamt örtlich zuständig, in dessen Bezirk der Veranstalter des virtuellen Automatenspiels seinen Sitz hat.
 
-(3) Ergibt sich aus § 45 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main III örtlich zuständig.
+(3) Ergibt sich aus § 45 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main IV örtlich zuständig.
 
 (4) Für die Zerlegung des Gesamtaufkommens der Virtuellen Automatensteuer ist die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
@@ -355,7 +355,7 @@ Veranstalter des Online-Pokers ist diejenige Person, die das Spielgeschehen in t
 
 (2) Ist der Veranstalter des Online-Pokers eine juristische Person oder Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht feststellen, so ist das Finanzamt örtlich zuständig, in dessen Bezirk der Veranstalter des Online-Pokers seinen Sitz hat.
 
-(3) Ergibt sich aus § 55 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main III örtlich zuständig.
+(3) Ergibt sich aus § 55 Satz 1 und 2 des Rennwett- und Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt Frankfurt am Main IV örtlich zuständig.
 
 (4) Für die Zerlegung des Gesamtaufkommens der Online-Pokersteuer ist die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 

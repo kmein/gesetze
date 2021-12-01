@@ -457,9 +457,11 @@ Anlage 2 (zu § 34 Absatz 1 Satz 3)
 
 19. nach dem Kohlendioxid-Speicherungsgesetz;
 
-20. nach Abschnitt 3 des Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I S. 1042) und
+20. nach Abschnitt 3 des Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I S. 1042);
 
-21. nach dem Zahlungskontengesetz
+21. nach dem Zahlungskontengesetz und
+
+22. nach dem Wettbewerbsregistergesetz
 
 werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben. Satz 1 Nummer 1, 6 und 12 gilt nicht in Verfahren, in denen Kosten nach dem Gesetz über Gerichtskosten in Familiensachen zu erheben sind.
 
@@ -936,9 +938,11 @@ Der Streitwert in Verfahren nach § 44 Absatz 1 des Wohnungseigentumsgesetzes is
 
 2. über Beschwerden gegen Entscheidungen der Regulierungsbehörde und über Rechtsbeschwerden (§§ 75 und 86 des Energiewirtschaftsgesetzes oder § 35 Absatz 3 und 4 des Kohlendioxid-Speicherungsgesetzes),
 
-3. über Beschwerden gegen Verfügungen der Bundesanstalt für Finanzdienstleistungsaufsicht (§ 48 des Wertpapiererwerbs- und Übernahmegesetzes und § 113 Absatz 1 des Wertpapierhandelsgesetzes) und
+3. über Beschwerden gegen Verfügungen der Bundesanstalt für Finanzdienstleistungsaufsicht (§ 48 des Wertpapiererwerbs- und Übernahmegesetzes und § 113 Absatz 1 des Wertpapierhandelsgesetzes),
 
-4. über Beschwerden gegen Entscheidungen der zuständigen Behörde und über Rechtsbeschwerden (§§ 13 und 24 des EU-Verbraucherschutzdurchführungsgesetzes).
+4. über Beschwerden gegen Entscheidungen der zuständigen Behörde und über Rechtsbeschwerden (§§ 13 und 24 des EU-Verbraucherschutzdurchführungsgesetzes) und
+
+5. über Beschwerden gegen Entscheidungen der Registerbehörde (§ 11 des Wettbewerbsregistergesetzes).
 
 Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschränkungen, § 79 Absatz 1 Nummer 3 des Energiewirtschaftsgesetzes und § 16 Nummer 3 des EU-Verbraucherschutzdurchführungsgesetzes) ist der Streitwert unter Berücksichtigung der sich für den Beigeladenen ergebenden Bedeutung der Sache nach Ermessen zu bestimmen.
 
@@ -1232,7 +1236,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (2) Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. Ist aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung zu zahlen, ist der Betrag zu erheben, der ohne diese Vorschrift zu zahlen wäre.
 
-(3) Auslagen für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht, Auslagen für Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) werden nur nach Maßgabe des Absatzes 4 erhoben. 
+(3) Auslagen für Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), werden nicht, Auslagen für Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) werden nur nach Maßgabe des Absatzes 4 erhoben.
+
 (4) Ist für einen Beschuldigten oder Betroffenen, der der deutschen Sprache nicht mächtig, hör- oder sprachbehindert ist, im Strafverfahren oder im gerichtlichen Verfahren nach dem OWiG ein Dolmetscher oder Übersetzer herangezogen worden, um Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis der Beschuldigte oder Betroffene zu seiner Verteidigung angewiesen oder soweit dies zur Ausübung seiner strafprozessualen Rechte erforderlich war, werden von diesem die dadurch entstandenen Auslagen nur erhoben, wenn das Gericht ihm diese nach § 464c StPO oder die Kosten nach § 467 Abs. 2 Satz 1 StPO, auch i. V. m. § 467a Abs. 1 Satz 2 StPO, auferlegt hat; dies gilt auch jeweils i. V. m. § 46 Abs. 1 OWiG.
 
 (5) Im Verfahren vor den Gerichten für Arbeitssachen werden Kosten für vom Gericht herangezogene Dolmetscher und Übersetzer nicht erhoben, wenn ein Ausländer Partei und die Gegenseitigkeit verbürgt ist oder ein Staatenloser Partei ist.
