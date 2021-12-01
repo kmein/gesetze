@@ -63,8 +63,8 @@ wenn die jeweilige Dauer der kostenpflichtigen Amtshandlungen oder des kostenpfl
   
 
 <table style="border: none;"><colgroup><col style="width: 86%" /><col style="width: 14%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1. für die Begleitung und die Bewachung im<br />
-Sinne des § 2 Absatz 1 Nummer 6 und 7</td><td style="text-align: right;">47 Euro,</td></tr><tr class="even"><td style="text-align: left;">2. für andere Amtshandlungen im Sinne<br />
-des § 2 Absatz 1</td><td style="text-align: right;">59 Euro.</td></tr></tbody></table>
+Sinne des § 2 Absatz 1 Nummer 6 und 7</td><td style="text-align: right;">55 Euro,</td></tr><tr class="even"><td style="text-align: left;">2. für andere Amtshandlungen im Sinne<br />
+des § 2 Absatz 1</td><td style="text-align: right;">68 Euro.</td></tr></tbody></table>
 
   
 
@@ -72,9 +72,9 @@ des § 2 Absatz 1</td><td style="text-align: right;">59 Euro.</td></tr></tbody><
   
 
 <table style="border: none;"><colgroup><col style="width: 86%" /><col style="width: 14%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">1. für Beamtinnen und für Beamte der Laufbahngruppe<br />
-des einfachen Dienstes</td><td style="text-align: right;">6 517 Euro,</td></tr><tr class="even"><td style="text-align: left;">2. für Beamtinnen und für Beamte der Laufbahngruppe<br />
-des mittleren Dienstes</td><td style="text-align: right;">7 356 Euro,</td></tr><tr class="odd"><td style="text-align: left;">3. für Beamtinnen und für Beamte der Laufbahngruppe<br />
-des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr></tbody></table>
+des einfachen Dienstes</td><td style="text-align: right;">7 646 Euro,</td></tr><tr class="even"><td style="text-align: left;">2. für Beamtinnen und für Beamte der Laufbahngruppe<br />
+des mittleren Dienstes</td><td style="text-align: right;">8 526 Euro,</td></tr><tr class="odd"><td style="text-align: left;">3. für Beamtinnen und für Beamte der Laufbahngruppe<br />
+des gehobenen Dienstes</td><td style="text-align: right;">10 249 Euro.</td></tr></tbody></table>
 
 # § 4 – Gebührenberechnung
 
@@ -82,7 +82,7 @@ des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr>
 
 (2) Zur Abgeltung der Kosten für die An- und Abfahrt zur kostenpflichtigen Amtshandlung und für sonstige Nebenkosten wird für jede Beamtin oder jeden Beamten, die oder der an einer kostenpflichtigen Amtshandlung außerhalb des Amtsplatzes oder der Amtsstelle beteiligt ist, neben der Stundengebühr eine Grundgebühr in Höhe der Stundengebühr für eine volle Arbeitsstunde erhoben. Mit Rücksicht auf örtliche Verhältnisse kann das örtlich zuständige Hauptzollamt zur Anpassung an den tatsächlichen Aufwand für bestimmte Bereiche die Grundgebühr bis zum dreifachen der Stundengebühr erhöhen oder bis auf eine halbe Stundengebühr ermäßigen. Die Grundgebühr entfällt, wenn für den Kostenschuldner unmittelbar vor oder nach der kostenpflichtigen Amtshandlung eine kostenfreie Amtshandlung vorgenommen wurde, die auch ohne die kostenpflichtige Amtshandlung stattfinden musste. Werden bei einer kostenpflichtigen Amtshandlung mehrere Beamtinnen oder mehrere Beamte nacheinander eingesetzt, so wird die Grundgebühr für jeden Zeitraum von acht Stunden nur einmal erhoben.
 
-(3) Für die Abfertigung von Massensendungen durch vereinfachte Zollanmeldungen oder durch Anschreibung in der Buchführung des Anmelders außerhalb der Öffnungszeiten der Grenzzollstellen wird an Stelle der Stundengebühr nach Absatz 1 eine ermäßigte Gebühr von 8 Euro erhoben.
+(3) Für die Abfertigung von Massensendungen durch vereinfachte Zollanmeldungen oder durch Anschreibung in der Buchführung des Anmelders außerhalb der Öffnungszeiten der Grenzzollstellen wird an Stelle der Stundengebühr nach Absatz 1 eine ermäßigte Gebühr von 9 Euro erhoben.
 
 (4) Sind für die Vornahmen der in § 2 Absatz 1 bezeichneten kostenpflichtigen Amtshandlungen Beamtinnen und Beamte ständig erforderlich, werden Monatsgebühren erhoben.
 
@@ -180,9 +180,9 @@ Von der Erhebung der Kosten ist abzusehen, wenn diese im Einzelfall weniger als 
 
 # § 12 – Übergangsregelung
 
-(1) Für Maßnahmen nach den §§ 2 und 6, die vor dem 1. Dezember 2020 beantragt wurden oder mit deren Durchführung vor dem 1. Dezember 2020 begonnen wurde, sind die Gebührensätze dieser Verordnung in der am 30. November 2020 geltenden Fassung anzuwenden, wenn die Maßnahmen bis zum 1. Dezember 2020 nicht vollständig abgeschlossen wurden.
+(1) Für Maßnahmen nach den §§ 2 und 6, die vor dem 1. Dezember 2021 beantragt wurden oder mit deren Durchführung vor dem 1. Dezember 2021 begonnen wurde, sind die Gebührensätze dieser Verordnung in der am 30. November 2021 geltenden Fassung anzuwenden, wenn die Maßnahmen bis zum 1. Dezember 2021 nicht vollständig abgeschlossen wurden.
 
-(2) Für Amtshandlungen nach § 9 Absatz 1, die vor dem 1. Dezember 2020 angeordnet wurden, sind die Gebührensätze dieser Verordnung in der am 30. November 2020 geltenden Fassung anzuwenden.
+(2) Für Amtshandlungen nach § 9 Absatz 1, die vor dem 1. Dezember 2021 angeordnet wurden, sind die Gebührensätze dieser Verordnung in der am 30. November 2021 geltenden Fassung anzuwenden.
 
 # Anlage 1 – (zu § 6 Absatz 1)Gebührentarif für Untersuchungen
 
@@ -210,8 +210,8 @@ Vorbemerkungen
 
 |                                                                                      |          |
 |:-------------------------------------------------------------------------------------|---------:|
-| a) für Beamtinnen und für Beamte des höheren Dienstes und vergleichbare Angestellte | 83 Euro, |
-| b) für sonstige Bedienstete                                                         | 56 Euro. |
+| a) für Beamtinnen und für Beamte des höheren Dienstes und vergleichbare Angestellte | 97 Euro, |
+| b) für sonstige Bedienstete                                                         | 64 Euro. |
 
 Für jede angefangene Viertelstunde ist ein Viertel des Stundensatzes zu berechnen.
 

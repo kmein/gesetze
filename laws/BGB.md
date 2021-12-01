@@ -617,7 +617,7 @@ Ein einseitiges Rechtsgeschäft, das der Minderjährige ohne die erforderliche E
 
 (4) Die für einen einzelnen Fall erteilte Ermächtigung gilt im Zweifel als allgemeine Ermächtigung zur Eingehung von Verhältnissen derselben Art.
 
-# §§ 114, 115 – (weggefallen)
+# §§ 114 und 115 – (weggefallen)
 
 # § 116 – Geheimer Vorbehalt
 

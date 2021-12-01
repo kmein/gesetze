@@ -1910,7 +1910,7 @@ Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur Erfüllung der 
 
 6. zur Bekämpfung von Schwarzarbeit und illegaler Beschäftigung nach dem Schwarzarbeitsbekämpfungsgesetz,
 
-7. zur Mitteilung in das Gewerbezentralregister einzutragender Tatsachen an die Registerbehörde,
+7. zur Mitteilung in das Gewerbezentralregister und das Wettbewerbsregister einzutragender Tatsachen an die Registerbehörde,
 
 8. zur Erfüllung der Aufgaben der statistischen Ämter der Länder und des Statistischen Bundesamtes gemäß § 3 Absatz 1 des Statistikregistergesetzes zum Aufbau und zur Führung des Statistikregisters,
 

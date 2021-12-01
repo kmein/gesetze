@@ -3,7 +3,7 @@
  
 # § 1 – Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz
 
-Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 45n Absatz 1, des § 142 Absatz 2 Satz 1 und des § 143 Absatz 4 Satz 1 des Telekommunikationsgesetzes zu erlassen.
+Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 52 Absatz 4, des § 223 Absatz 2 Satz 1 und des § 224 Absatz 4 Satz 1 des Telekommunikationsgesetzes zu erlassen.
 
 # § 2 – Übertragung von Verordnungsermächtigungen nach dem Elektromagnetische-Verträglichkeit-Gesetz
 

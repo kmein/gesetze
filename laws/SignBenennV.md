@@ -17,7 +17,7 @@ Diese Verordnung regelt
 
 Signatar des Betriebsabkommens von INTERSPUTNIK kann jede natürliche und juristische Person der Bundesrepublik Deutschland auf Antrag beim Bundesministerium für Wirtschaft und Energie werden,
 
-1. die gemäß § 6 des Telekommunikationsgesetzes gewerbliche öffentliche Telekommunikationsnetze betreibt oder gewerblich Telekommunikationsdienste für die Öffentlichkeit erbringt und
+1. die gemäß § 5 des Telekommunikationsgesetzes gewerbliche öffentliche Telekommunikationsnetze betreibt oder gewerblich Telekommunikationsdienste für die Öffentlichkeit erbringt und
 
 2. die Bereitschaft, Eignung und Befähigung nachweist, die Rechte und Pflichten aus dem Betriebsabkommen von INTERSPUTNIK unter wirtschaftspolitischer Aufsicht des Bundesministeriums für Wirtschaft und Energie als Vertreter der deutschen Vertragspartei bei INTERSPUTNIK wahrzunehmen.
 

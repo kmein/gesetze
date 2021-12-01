@@ -908,7 +908,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 5. Wert und Zusammensetzung des Vermögens.
 
-(+++ § 30: Zur Anwendung vgl. § 37 +++)
+(+++ § 30: Zur Anwendung vgl. §§ 13 u. 37 +++)
 
 # § 31 – Steuererklärung
 

@@ -213,13 +213,13 @@ c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Auff
 
 (3) Die Ansprüche aus Absatz 1 stehen zu:
 
-1. jedem Mitbewerber;
+1. jedem Mitbewerber, der Waren oder Dienstleistungen in nicht unerheblichem Maße und nicht nur gelegentlich vertreibt oder nachfragt,
 
-2. rechtsfähigen Verbänden zur Förderung gewerblicher oder selbständiger beruflicher Interessen, soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, wenn sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung imstande sind, ihre satzungsmäßigen Aufgaben der Verfolgung gewerblicher oder selbständiger beruflicher Interessen tatsächlich wahrzunehmen und soweit die Zuwiderhandlung die Interessen ihrer Mitglieder berührt;
+2. denjenigen rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b eingetragen sind, soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, und die Zuwiderhandlung die Interessen ihrer Mitglieder berührt,
 
-3. qualifizierten Einrichtungen, die nachweisen, dass sie in der Liste der qualifizierten Einrichtungen nach § 4 des Unterlassungsklagengesetzes oder in dem Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) eingetragen sind;
+3. den qualifizierten Einrichtungen, die in der Liste der qualifizierten Einrichtungen nach § 4 des Unterlassungsklagengesetzes eingetragen sind, oder den qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30), die zuletzt durch die Verordnung (EU) 2018/302 (ABl. L 60I vom 2.3.2018, S. 1) geändert worden ist, eingetragen sind,
 
-4. den Industrie- und Handelskammern oder den Handwerkskammern.
+4. den Industrie- und Handelskammern, den nach der Handwerksordnung errichteten Organisationen und anderen berufsständischen Körperschaften des öffentlichen Rechts im Rahmen der Erfüllung ihrer Aufgaben sowie den Gewerkschaften im Rahmen der Erfüllung ihrer Aufgaben bei der Vertretung selbstständiger beruflicher Interessen.
 
 (4) Stellen nach Absatz 3 Nummer 2 und 3 können die Ansprüche nicht geltend machen, solange ihre Eintragung ruht.
 

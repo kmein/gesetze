@@ -5883,7 +5883,7 @@ Bei Entscheidungen über die Herabsetzung oder Entziehung laufender Leistungen g
 
 # § 337 – Auszahlung im Regelfall
 
-(1) Geldleistungen werden auf das von der leistungsberechtigten Person angegebene Konto bei einem Geldinstitut überwiesen, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt. Geldleistungen, die an den Wohnsitz oder gewöhnlichen Aufenthalt der leistungsberechtigten Person übermittelt werden, sind unter Abzug der dadurch veranlassten Kosten auszuzahlen. Satz 2 gilt nicht, wenn die leistungsberechtigte Person nachweist, dass ihr die Einrichtung eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht möglich ist.
+(1) (weggefallen)
 
 (2) Laufende Geldleistungen werden regelmäßig monatlich nachträglich ausgezahlt.
 

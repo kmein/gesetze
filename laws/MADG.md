@@ -69,9 +69,9 @@ Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der Maßgabe ent
 
 (1) Soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1 oder zur Sicherung der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen der Dienststellen und Einrichtungen des Geschäftsbereichs des Bundesministeriums der Verteidigung nach § 14 Absatz 1 erforderlich ist, darf der Militärische Abschirmdienst Auskunft verlangen von demjenigen, der geschäftsmäßig
 
-1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach den §§ 95 und 111 des Telekommunikationsgesetzes,
+1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 3 Nummer 6 und § 172 des Telekommunikationsgesetzes,
 
-2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 14 Absatz 1 des Telemediengesetzes.
+2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes.
 
 Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 
@@ -91,7 +91,7 @@ Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 
 (7) Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe des Absatzes 2 Satz 1 eingeschränkt.
 
-(+++ Hinweis: Durch Art. 2 Nr. 3 G v. 5.7.2021 I 2274 wird § 4b Satz 3 mWv 9.7.2021 aufgehoben; der Änderungsbefehl ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
+7601 (+++ Hinweis: Durch Art. 2 Nr. 3 G v. 5.7.2021 I 2274 wird § 4b Satz 3 mWv 9.7.2021 aufgehoben; der Änderungsbefehl ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
 
 # § 5 – Besondere Formen der Datenerhebung
 

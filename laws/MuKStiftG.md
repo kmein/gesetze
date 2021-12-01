@@ -35,7 +35,7 @@ Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an Einrichtungen in d
 
 # § 5 – Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen
 
-(1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus Mitteln der Stiftung im Rahmen des Stiftungszweckes gewährt werden, sind nicht pfändbar. Das gleiche gilt für Leistungen, die aus Mitteln anderer Stiftungen des öffentlichen Rechts oder aus Mitteln von Stiftungen, die von einer Körperschaft des öffentlichen Rechts errichtet wurden, zur Erreichung des in § 2 Abs. 1 genannten Zwecks gewährt werden. Wird eine Geldleistung auf das Konto der werdenden Mutter bei einem Geldinstitut überwiesen, gilt bei fehlender Deckung des Kontos § 850k Abs. 6 der Zivilprozessordnung entsprechend.
+(1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus Mitteln der Stiftung im Rahmen des Stiftungszweckes gewährt werden, sind nicht pfändbar. Das gleiche gilt für Leistungen, die aus Mitteln anderer Stiftungen des öffentlichen Rechts oder aus Mitteln von Stiftungen, die von einer Körperschaft des öffentlichen Rechts errichtet wurden, zur Erreichung des in § 2 Abs. 1 genannten Zwecks gewährt werden. Wird eine Geldleistung auf das Konto der werdenden Mutter bei einem Geldinstitut überwiesen, gelten die Vorschriften der Zivilprozessordnung über das Pfändungsschutzkonto.
 
 (2) Leistungen der in Absatz 1 Satz 1 und Satz 2 genannten Art bleiben als Einkommen unberücksichtigt, wenn bei Sozialleistungen auf Grund von Rechtsvorschriften die Gewährung oder die Höhe dieser Leistungen von anderem Einkommen abhängig ist.
 

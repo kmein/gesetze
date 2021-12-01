@@ -39,7 +39,7 @@ Davon ausgenommen sind die Befugnisse, die das Fernstraßen-Bundesamt nach § 2
 
 8. die Zustimmung zu Arbeiten an der Straße, die Anordnung zur Änderung von Anlagen und die Festsetzung und Beitreibung des Kostenerstattungsanspruchs (§ 8 Absatz 2a Satz 2, 3 und 4 des Bundesfernstraßengesetzes),
 
-9. die Zustimmung zur Benutzung öffentlicher Wege durch Telekommunikationslinien (§ 68 Absatz 3 des Telekommunikationsgesetzes), den Erlass von Verfügungen, die auf die Beseitigung oder Abänderung von Telekommunikationslinien (§ 72 Absatz 1 und 3 des Telekommunikationsgesetzes) und die Festsetzung und Beitreibung von Erstattungsansprüchen für Mehrkosten durch Benutzung öffentlicher Wege für Telekommunikationslinien gerichtet sind (§ 71 Absatz 2 des Telekommunikationsgesetzes),
+9. die Zustimmung zur Benutzung öffentlicher Wege durch Telekommunikationslinien (§ 127 Absatz 1 des Telekommunikationsgesetzes), den Erlass von Verfügungen, die auf die Beseitigung oder Abänderung von Telekommunikationslinien (§ 130 Absatz 1 und 3 des Telekommunikationsgesetzes) und die Festsetzung und Beitreibung von Erstattungsansprüchen für Mehrkosten durch Benutzung öffentlicher Wege für Telekommunikationslinien gerichtet sind (§ 129 Absatz 2 des Telekommunikationsgesetzes),
 
 10. die Zustimmung zu Arbeiten an der Straße sowie die Anordnung erforderlicher Maßnahmen zur Unterhaltung der Zufahrten, die nicht auf einer Erlaubnis nach § 8 Absatz 1 des Bundesfernstraßengesetzes beruhen (§ 8a Absatz 3 des Bundesfernstraßengesetzes),
 

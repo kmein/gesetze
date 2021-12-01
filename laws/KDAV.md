@@ -11,7 +11,7 @@ Diese Verordnung gilt für diejenigen Erbringer von öffentlich zugänglichen Te
 
 # § 2 – Ersuchen
 
-(1) Ein Ersuchen, das der Bundesnetzagentur im automatisierten Auskunftsverfahren von einer ersuchenden Stelle nach § 112 Absatz 2 des Telekommunikationsgesetzes vorgelegt wird, kann personenbasiert, nummernbasiert oder anschriftenbasiert erfolgen. Das Ersuchen muss folgende Angaben enthalten:
+(1) Ein Ersuchen, das der Bundesnetzagentur im automatisierten Auskunftsverfahren von einer ersuchenden Stelle nach § 173 Absatz 4 des Telekommunikationsgesetzes vorgelegt wird, kann personenbasiert, nummernbasiert oder anschriftenbasiert erfolgen. Das Ersuchen muss folgende Angaben enthalten:
 
 1. die genaue Bezeichnung der ersuchenden Stelle,
 
@@ -103,7 +103,7 @@ Das anschriftenbasierte Ersuchen kann zusätzlich das Datum eines ermittlungsrel
 
 # § 7 – Datenübermittlung durch den Verpflichteten
 
-(1) Auf Grund einer Abfrage hat der Verpflichtete unverzüglich die Gesamtheit der aktuellen Kundendaten zum ermittlungsrelevanten Stichtag oder zum ermittlungsrelevanten Zeitraum, die zu einer Rufnummer nach § 111 Absatz 1 Satz 1 und Absatz 2 des Telekommunikationsgesetzes erhoben wurden und in der Kundendatei nach § 112 Absatz 1 Satz 1 bis 3 des Telekommunikationsgesetzes gespeichert sind, an die Bundesnetzagentur zu übermitteln. Die Übermittlung der aktuellen Kundendaten umfasst auch die Übermittlung der Angabe anderer Anschlusskennungen sowie die Übermittlung der Kennungen elektronischer Postfächer, die von dem Verpflichteten vergeben wurden. Die Bundesnetzagentur legt in der Technischen Richtlinie fest, welche Anschlusskennungen von den Verpflichteten zu beauskunften sind.
+(1) Auf Grund einer Abfrage hat der Verpflichtete unverzüglich die Gesamtheit der aktuellen Kundendaten zum ermittlungsrelevanten Stichtag oder zum ermittlungsrelevanten Zeitraum, die zu einer Rufnummer nach § 172 Absatz 1 Satz 1 und Absatz 3 des Telekommunikationsgesetzes erhoben wurden und in der Kundendatei nach § 173 Absatz 1 Satz 1 bis 3 des Telekommunikationsgesetzes gespeichert sind, an die Bundesnetzagentur zu übermitteln. Die Übermittlung der aktuellen Kundendaten umfasst auch die Übermittlung der Angabe anderer Anschlusskennungen sowie die Übermittlung der Kennungen elektronischer Postfächer, die von dem Verpflichteten vergeben wurden. Die Bundesnetzagentur legt in der Technischen Richtlinie fest, welche Anschlusskennungen von den Verpflichteten zu beauskunften sind.
 
 (2) Werden mehr als 40 Anschlussinhaber ermittelt
 
@@ -127,7 +127,7 @@ Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an die ersuch
 
 (2) Plant der Verpflichtete technische Wartungs- und Instandhaltungsmaßnahmen oder andere Maßnahmen, die Auswirkungen auf die Verfügbarkeit haben können, hat er diese Maßnahmen der Bundesnetzagentur rechtzeitig vor der Durchführung anzuzeigen.
 
-(3) Der Verpflichtete hat die ihm von der Bundesnetzagentur zu Testzwecken vorgegebenen Datensätze in seine Kundendateien nach § 112 Absatz 1 Satz 1 des Telekommunikationsgesetzes aufzunehmen und diese Datensätze verfügbar zu halten.
+(3) Der Verpflichtete hat die ihm von der Bundesnetzagentur zu Testzwecken vorgegebenen Datensätze in seine Kundendateien nach § 173 Absatz 1 Satz 1 des Telekommunikationsgesetzes aufzunehmen und diese Datensätze verfügbar zu halten.
 
 # § 10 – Evaluierung
 

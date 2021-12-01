@@ -47,7 +47,7 @@ Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein
 
 # § 3 – Änderungen des Nummernplans
 
-(1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit Wirkung für die Zukunft ändern, soweit dies der Erreichung der Ziele der Regulierung nach § 2 Abs. 2 des Telekommunikationsgesetzes dient und unter Berücksichtigung der Belange im Sinne des § 66 Abs. 4 Satz 3 des Telekommunikationsgesetzes erforderlich ist. Die Änderungen sollen sich an dem Nummerierungskonzept orientieren.
+(1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit Wirkung für die Zukunft ändern, soweit dies der Erreichung der Ziele der Regulierung nach § 2 Abs. 2 des Telekommunikationsgesetzes dient und unter Berücksichtigung der Belange im Sinne des § 108 Absatz 6 Satz 3 des Telekommunikationsgesetzes erforderlich ist. Die Änderungen sollen sich an dem Nummerierungskonzept orientieren.
 
 (2) Bei Änderungen nach Absatz 1 entscheidet die Bundesnetzagentur unter Berücksichtigung der in Absatz 1 Satz 1 genannten Kriterien ferner, ob und zu welchem Zeitpunkt mit angemessener Übergangsfrist bestehende Zuteilungen ganz oder teilweise widerrufen werden.
 
@@ -101,7 +101,7 @@ Die Bundesnetzagentur kann einen Antrag auf Zuteilung einer Nummer ablehnen,
 
 a) die dem Nummernplan entsprechende Nutzung der ihm zugeteilten Nummern technisch und organisatorisch sicherzustellen oder
 
-b) die Einhaltung gesetzlicher Vorschriften und der von ihr erteilten Bedingungen für die Nutzung von Nummern sicherzustellen; dies gilt insbesondere, wenn in der Vergangenheit Anordnungen nach § 67 Abs. 1 des Telekommunikationsgesetzes ergangen sind,
+b) die Einhaltung gesetzlicher Vorschriften und der von ihr erteilten Bedingungen für die Nutzung von Nummern sicherzustellen; dies gilt insbesondere, wenn in der Vergangenheit Anordnungen nach § 123 Absatz 1 des Telekommunikationsgesetzes ergangen sind,
 
 2. wenn der Antragsteller nicht über eine ladungsfähige Anschrift verfügt oder für den Fall, dass er seinen Sitz oder Wohnsitz im Ausland hat, nicht über eine ladungsfähige Anschrift eines Empfangsbevollmächtigten im Inland erreichbar ist,
 
@@ -117,7 +117,7 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 (1) Jedermann hat im Rahmen der für die Nummernzuteilung geltenden Regelungen, einschließlich der dem originären Zuteilungsnehmer von der Bundesnetzagentur auferlegten Verpflichtungen, Anspruch auf diskriminierungsfreie abgeleitete Zuteilung von Nummern.
 
-(2) Der originäre Zuteilungsnehmer kann abgeleitete Zuteilungen grundsätzlich nur im Einverständnis mit dem Empfänger der abgeleiteten Zuteilung aufheben. Soweit eine abgeleitete Zuteilung infolge einer Entscheidung der Bundesnetzagentur entfällt, hat der originäre Zuteilungsnehmer dies den betroffenen Empfängern abgeleiteter Zuteilungen unverzüglich schriftlich mitzuteilen; er kann ihnen in diesem Fall auch ohne deren Einverständnis eine andere Nummer zuteilen. Diese Rechte und Pflichten gehen bei Rufnummernmitnahmen nach § 46 des Telekommunikationsgesetzes auf den neuen Anbieter über. Sofern eine Entscheidung im Sinne des Satzes 2 nicht durch eine Allgemeinverfügung ergangen ist, hat bei Rufnummernmitnahmen nach § 46 des Telekommunikationsgesetzes der originäre Zuteilungsnehmer die Änderungen dem neuen Anbieter unverzüglich schriftlich mitzuteilen.
+(2) Der originäre Zuteilungsnehmer kann abgeleitete Zuteilungen grundsätzlich nur im Einverständnis mit dem Empfänger der abgeleiteten Zuteilung aufheben. Soweit eine abgeleitete Zuteilung infolge einer Entscheidung der Bundesnetzagentur entfällt, hat der originäre Zuteilungsnehmer dies den betroffenen Empfängern abgeleiteter Zuteilungen unverzüglich schriftlich mitzuteilen; er kann ihnen in diesem Fall auch ohne deren Einverständnis eine andere Nummer zuteilen. Diese Rechte und Pflichten gehen bei Rufnummernmitnahmen nach § 59 des Telekommunikationsgesetzes auf den neuen Anbieter über. Sofern eine Entscheidung im Sinne des Satzes 2 nicht durch eine Allgemeinverfügung ergangen ist, hat bei Rufnummernmitnahmen nach § 59 des Telekommunikationsgesetzes der originäre Zuteilungsnehmer die Änderungen dem neuen Anbieter unverzüglich schriftlich mitzuteilen.
 
 (3) Einwendungen gegen eine abgeleitete Zuteilung, die Aufhebung oder Änderung einer abgeleiteten Zuteilung kann der Empfänger der abgeleiteten Zuteilung nur innerhalb von sechs Wochen ab Zugang einer schriftlichen Mitteilung gegenüber dem originären Zuteilungsnehmer oder im Fall des Absatzes 2 Satz 3 gegenüber dem neuen Anbieter geltend machen. War der Empfänger der abgeleiteten Zuteilung ohne Verschulden gehindert, diese Frist einzuhalten, kann er die Einwendungen innerhalb von zwei Wochen nach Wegfall des Hindernisses nachholen. Der Empfänger der abgeleiteten Zuteilung ist in der Mitteilung auf die Fristen hinzuweisen. Die Empfänger abgeleiteter Zuteilungen müssen Änderungen, die durch Entscheidungen der Bundesnetzagentur gegenüber dem originären Zuteilungsnehmer erfolgen, hinnehmen.
 
@@ -129,7 +129,7 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 (1) Direkt oder originär zugeteilte Nummern, die dauerhaft nicht genutzt werden, sind unverzüglich durch schriftliche Erklärung gegenüber der Bundesnetzagentur zurückzugeben.
 
-(2) Direkte und originäre Nummernzuteilungen können von der Bundesnetzagentur außer in den Fällen des § 66 Abs. 2 des Telekommunikationsgesetzes, des § 3 Abs. 2 dieser Verordnung und des § 49 Abs. 2 des Verwaltungsverfahrensgesetzes auch widerrufen werden, wenn
+(2) Direkte und originäre Nummernzuteilungen können von der Bundesnetzagentur außer in den Fällen des § 108 Absatz 3 des Telekommunikationsgesetzes, des § 3 Abs. 2 dieser Verordnung und des § 49 Abs. 2 des Verwaltungsverfahrensgesetzes auch widerrufen werden, wenn
 
 1. eine Nummer durch den direkten oder originären Zuteilungsnehmer rechtswidrig genutzt wird,
 
@@ -137,17 +137,17 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 3. die betroffenen Nummern dauerhaft nicht genutzt werden.
 
-(3) Eine abgeleitet zugeteilte Nummer fällt mit der Beendigung des Vertragsverhältnisses über die Bereitstellung des Telekommunikationsdienstes, dem die Nummer zugeordnet war, an den originären Zuteilungsnehmer zurück, es sei denn, dass sie nach Maßgabe von § 46 des Telekommunikationsgesetzes bei einem Wechsel des Anbieters beibehalten wird.
+(3) Eine abgeleitet zugeteilte Nummer fällt mit der Beendigung des Vertragsverhältnisses über die Bereitstellung des Telekommunikationsdienstes, dem die Nummer zugeordnet war, an den originären Zuteilungsnehmer zurück, es sei denn, dass sie nach Maßgabe von § 59 des Telekommunikationsgesetzes bei einem Wechsel des Anbieters beibehalten wird.
 
 (4) Soweit die Bundesnetzagentur nicht für bestimmte Nummernarten im Nummernplan eine kürzere Frist vorsieht, gelten Nummern als dauerhaft nicht genutzt, wenn sie innerhalb von zwölf Monaten nicht genutzt wurden oder wenn beginnend mit dem Zeitpunkt der Zuteilung oder der letzten Nutzung für zwölf Monate keine Nutzung geplant ist. Ein Block von originär zugeteilten Nummern wird genutzt, wenn mindestens eine Nummer abgeleitet zugeteilt ist und genutzt wird. Eine Nummer wird genutzt, wenn sie ordnungsgemäß in einem öffentlichen Telekommunikationsnetz geschaltet ist und bei ihrer Anwahl ein dem Zweck der Nummer entsprechender Dienst oder eine dem Zweck der Nummer entsprechende Funktion erbracht wird.
 
 # § 10 – Datenaustauschverfahren
 
-Die Bundesnetzagentur kann Anbieter von öffentlichen Telekommunikationsdiensten verpflichten, für einzelne Nummernräume, Nummernbereiche oder Nummernteilbereiche Auskunft über Schaltung, Rufnummernmitnahme nach § 46 des Telekommunikationsgesetzes und Abschaltung von Nummern zu erteilen. Die Auskunftsverpflichtung erstreckt sich nicht auf personenbezogene Daten. An Stelle der Erteilung einer Auskunft kann die Bundesnetzagentur Anbieter von öffentlichen Telekommunikationsdiensten zur Gewährung eines jederzeitigen Zugriffs auf eine Datenbank mit diesen Informationen verpflichten. Die Anforderungen an den Datenaustausch veröffentlicht die Bundesnetzagentur in einer technischen Richtlinie, die sie nach Anhörung der betroffenen Kreise erlässt. Eine Entschädigung für Auskunftsverpflichtungen nach Satz 1 und die Mitwirkung nach Satz 3 wird nicht gewährt.
+Die Bundesnetzagentur kann Anbieter von öffentlichen Telekommunikationsdiensten verpflichten, für einzelne Nummernräume, Nummernbereiche oder Nummernteilbereiche Auskunft über Schaltung, Rufnummernmitnahme nach § 59 des Telekommunikationsgesetzes und Abschaltung von Nummern zu erteilen. Die Auskunftsverpflichtung erstreckt sich nicht auf personenbezogene Daten. An Stelle der Erteilung einer Auskunft kann die Bundesnetzagentur Anbieter von öffentlichen Telekommunikationsdiensten zur Gewährung eines jederzeitigen Zugriffs auf eine Datenbank mit diesen Informationen verpflichten. Die Anforderungen an den Datenaustausch veröffentlicht die Bundesnetzagentur in einer technischen Richtlinie, die sie nach Anhörung der betroffenen Kreise erlässt. Eine Entschädigung für Auskunftsverpflichtungen nach Satz 1 und die Mitwirkung nach Satz 3 wird nicht gewährt.
 
 # § 11 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 149 Abs. 1 Nr. 13 des Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 228 Absatz 2 Nummer 6 des Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. ohne Zuteilung nach § 4 Abs. 1 eine Nummer nutzt,
 

@@ -77,7 +77,7 @@ Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des Bundesministeriu
 
 (1) Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des Bundesministeriums für Wirtschaft und Energie
 
-1. die Teile von Telekommunikationsunternehmen, die Telekommunikationsanlagen im Sinne des § 3 Nummer 23 des Telekommunikationsgesetzes betreiben, deren Ausfall das Bereitstellen oder Aufrechterhalten der Übertragungswege nach dem Post- und Telekommunikationssicherstellungsgesetz erheblich beeinträchtigen kann, und
+1. die Teile von Telekommunikationsunternehmen, die Telekommunikationsanlagen im Sinne des § 3 Nummer 60 des Telekommunikationsgesetzes betreiben, deren Ausfall das Bereitstellen oder Aufrechterhalten der Übertragungswege nach Teil 10 Abschnitt 2 des Telekommunikationsgesetzes erheblich beeinträchtigen kann, und
 
 2. die Teile von Unternehmen, die Leitstellen für das Elektrizitätsübertragungsnetz betreiben, deren Ausfall die überregionale Elektrizitätsversorgung erheblich beeinträchtigen kann.
 

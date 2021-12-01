@@ -583,7 +583,7 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24 Absatz 2 
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur haben keine aufschiebende Wirkung.
 
-(2) Die Kosten des Vorverfahrens richten sich nach § 146 des Telekommunikationsgesetzes.
+(2) Die Kosten des Vorverfahrens richten sich nach § 226 des Telekommunikationsgesetzes.
 
 # § 37 – Bußgeldvorschriften
 

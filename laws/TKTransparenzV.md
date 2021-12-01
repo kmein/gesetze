@@ -7,7 +7,7 @@ Auf Grund des § 45n Absatz 1 in Verbindung mit Absatz 2 Nummer 1 bis 4, Absatz 
 
 # § 1 – Produktinformationsblatt
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen für alle Angebote, die gegenüber Verbrauchern vermarktet werden, ein Produktinformationsblatt gemäß Absatz 2 und § 2 Absatz 1 bereitstellen. Anderen Endnutzern ist ein Produktinformationsblatt auf Verlangen bereitzustellen.
+(1) Anbieter anderer öffentlich zugänglicher Telekommunikationsdienste als für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste müssen für alle Angebote, die gegenüber Verbrauchern vermarktet werden, ein Produktinformationsblatt gemäß Absatz 2 und § 2 Absatz 1 bereitstellen.
 
 (2) Das Produktinformationsblatt enthält ausschließlich folgende Angaben:
 
@@ -45,17 +45,13 @@ c) welche Dienste oder Anwendungen in das vertraglich vereinbarte Datenvolumen e
 
 # § 3 – Informationsrechte der Bundesnetzagentur
 
-(1) Der Bundesnetzagentur ist auf Verlangen ein Exemplar des Produktinformationsblattes zur Verfügung zu stellen und nachzuweisen, wie dieses den Verbrauchern oder Endnutzern zugänglich gemacht wird.
+(1) Der Bundesnetzagentur ist auf Verlangen ein Exemplar des Produktinformationsblattes zur Verfügung zu stellen und nachzuweisen, wie dieses den Verbrauchern zugänglich gemacht wird.
 
 (2) Der Bundesnetzagentur sind die Angaben zur Datenübertragungsrate gemäß § 1 Absatz 2 Nummer 5 spätestens zum Zeitpunkt der Markteinführung des Angebots in einer Form zu übermitteln, die sich zur elektronischen Weiterverarbeitung eignet. Für Angebote, die im Zeitpunkt des Inkrafttretens dieser Verordnung bereits vermarktet werden, sind die Angaben nach Satz 1 unverzüglich zu übermitteln. Die Bundesnetzagentur kann weitere Vorgaben zum Format der Übermittlung nach Satz 1 festlegen und auf ihrer Internetseite veröffentlichen.
 
-# § 4 – Hervorzuhebende Angaben in Verträgen
+# § 4 – Informationen zur Vertragslaufzeit, Kündigung und zum Anbieterwechsel
 
-Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen gegenüber Verbrauchern und, auf deren Verlangen, gegenüber anderen Endnutzern Vertragsformulare verwenden, in denen die Angaben nach § 1 Absatz 2 deutlich hervorgehoben sind.
-
-# § 5 – Informationen zur Vertragslaufzeit und zum Anbieterwechsel
-
-Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Zugang zu einem öffentlichen Telekommunikationsnetz anbieten, müssen gegenüber Verbrauchern und, auf deren Verlangen, gegenüber anderen Endnutzern in der Rechnung Folgendes angeben:
+Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, müssen gegenüber Verbrauchern in der Rechnung sowie in der Information über den besten Tarif nach § 57 Absatz 3 des Telekommunikationsgesetzes Folgendes angeben:
 
 1. das Datum des Vertragsbeginns,
 
@@ -63,17 +59,17 @@ Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Z
 
 3. die Kündigungsfrist und den letzten Kalendertag, an dem die Kündigung eingehen muss, um eine Vertragsverlängerung zu verhindern, und
 
-4. einen Hinweis auf die Informationen zum generellen Ablauf des Anbieterwechsels auf der Internetseite der Bundesnetzagentur.
+4. einen Hinweis auf die Information zum generellen Ablauf des Anbieterwechsels auf der Internetseite der Bundesnetzagentur.
 
-Satz 1 gilt nicht für Vertragsverhältnisse mit einer Mindestvertragslaufzeit von einem Monat oder weniger.
+Satz 1 gilt nicht für Vertragsverhältnisse mit einer Laufzeit von einem Monat oder weniger.
 
-# § 6 – Informationspflicht der Anbieter von öffentlichen Telekommunikationsnetzen
+# § 5 – Informationspflicht der Anbieter von öffentlichen Telekommunikationsnetzen
 
-Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet, Anbietern eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Zugang zu diesen Telekommunikationsnetzen anbieten, diejenigen Informationen zur Verfügung zu stellen, die diese zur Erfüllung ihrer Pflichten nach dieser Verordnung benötigen und nicht selbst besitzen.
+Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet, Anbietern öffentlich zugänglicher Telekommunikationsdienste, die einen Zugang zu diesen Telekommunikationsnetzen anbieten, diejenigen Informationen zur Verfügung zu stellen, die diese zur Erfüllung ihrer Pflichten nach dieser Verordnung benötigen und nicht selbst besitzen.
 
-# § 7 – Überprüfbarkeit der Datenübertragungsrate
+# § 6 – Überprüfbarkeit der Datenübertragungsrate
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen es Verbrauchern und, auf deren Verlangen, anderen Endnutzern ermöglichen, sich nach der Schaltung des Anschlusses über die aktuelle Qualität der in Absatz 2 genannten Produktmerkmale zu informieren, indem
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, müssen es Verbrauchern ermöglichen, sich nach der Schaltung des Anschlusses über die aktuelle Qualität der in Absatz 2 genannten Produktmerkmale zu informieren, indem
 
 1. eine anbieterinitiierte Messung durchgeführt wird,
 
@@ -81,7 +77,7 @@ Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet, Anbietern
 
 3. ein Angebot der Bundesnetzagentur zur Messung besteht.
 
-(2) Die Messung der Datenübertragungsrate, die über den Zugang des Verbrauchers oder des Endnutzers erreicht wird, umfasst mindestens
+(2) Die Messung der Datenübertragungsrate, die über den Zugang des Verbrauchers erreicht wird, umfasst mindestens
 
 1. die aktuelle Download-Rate,
 
@@ -89,25 +85,27 @@ Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet, Anbietern
 
 3. die Paketlaufzeit.
 
-# § 8 – Information zur Überprüfbarkeit der Datenübertragungsrate
+# § 7 – Information zur Überprüfbarkeit der Datenübertragungsrate
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen Verbraucher und, auf deren Verlangen, andere Endnutzer zum Zeitpunkt des Vertragsschlusses auf die Überprüfbarkeit der Datenübertragungsrate nach § 7 Absatz 1 hinweisen.
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, müssen Verbraucher unverzüglich nach der Schaltung des jeweiligen Anschlusses auf die Überprüfbarkeit der Datenübertragungsrate nach § 6 Absatz 1 hinweisen.
 
-(2) Der Hinweis ist gemäß Absatz 4 unverzüglich nach der Schaltung des jeweiligen Anschlusses erneut zu geben.
+(2) Sofern die Schaltung des jeweiligen Anschlusses vor Inkrafttreten dieser Verordnung erfolgt ist, sind Verbraucher gemäß Absatz 3 unverzüglich auf die Überprüfbarkeit der Datenübertragungsrate nach § 6 Absatz 1 hinzuweisen.
 
-(3) Sofern die Schaltung des jeweiligen Anschlusses vor Inkrafttreten dieser Verordnung erfolgt ist, sind Verbraucher und, auf deren Verlangen, andere Endnutzer gemäß Absatz 4 unverzüglich auf die Überprüfbarkeit der Datenübertragungsrate nach § 7 Absatz 1 hinzuweisen.
+(3) Die Hinweise nach den Absätzen 1 und 2 haben durch Fernkommunikationsmittel in Textform, insbesondere durch E-Mail oder SMS, zu erfolgen. Dabei ist ein direkter Link auf den Ort anzugeben, an dem die Angebote zur Messung abgerufen werden können.
 
-(4) Die Hinweise nach den Absätzen 2 und 3 haben durch Fernkommunikationsmittel in Textform, insbesondere durch E-Mail oder SMS, zu erfolgen. Dabei ist ein direkter Link auf den Ort anzugeben, an dem die Angebote zur Messung abgerufen werden können.
+# § 8 – Darstellung und Speicherung von anbietereigenen Messergebnissen
 
-# § 9 – Darstellung und Speicherung von anbietereigenen Messergebnissen
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, müssen im Fall einer anbietereigenen Messung nach § 6 Absatz 1 Nummer 1 oder 2 die Ergebnisse
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen im Fall einer anbietereigenen Messung nach § 7 Absatz 1 Nummer 1 oder 2 die Ergebnisse direkt im Anschluss an die Messung gemäß der Anlage darstellen.
+1. direkt im Anschluss an die Messung gemäß der Anlage darstellen und
 
-(2) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, müssen im Fall einer anbietereigenen Messung nach § 7 Absatz 1 Nummer 1 oder 2 die Ergebnisse so bereithalten, dass sie auf der Internetseite des Anbieters im Online-Kundencenter abgerufen und ausgedruckt werden können. Die Ergebnisse sind mindestens für sechs Monate bereitzuhalten.
+2. so bereithalten, dass sie auf der Internetseite des Anbieters im Online-Kundencenter abgerufen und ausgedruckt werden können.
 
-# § 10 – Informationspflichten bei beschränktem Datenvolumen
+(2) Die Ergebnisse sind mindestens für sechs Monate bereitzuhalten.
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Zugang zu einem öffentlichen Telekommunikationsnetz in Verbindung mit einem beschränkten Datenvolumen anbieten, müssen Verbrauchern und, auf deren Verlangen, anderen Endnutzern folgende Informationen gemäß Absatz 2 zur Verfügung stellen:
+# § 9 – Informationspflichten bei beschränktem Datenvolumen
+
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, die einen Zugang zu einem öffentlichen Telekommunikationsnetz in Verbindung mit einem beschränkten Datenvolumen anbieten, müssen Verbrauchern folgende Informationen gemäß Absatz 2 zur Verfügung stellen:
 
 1. mindestens tagesaktuell den Anteil des bislang verbrauchten Datenvolumens innerhalb des vereinbarten Abrechnungszeitraums und
 
@@ -115,43 +113,37 @@ Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet, Anbietern
 
 (2) Die Informationen nach Absatz 1 sind auf der Internetseite des Anbieters im Online-Kundencenter oder mittels einer unternehmenseigenen Software-Applikation zur Verfügung zu stellen. Die Informationen nach Absatz 1 Nummer 2 sind zusätzlich im Einzelverbindungsnachweis oder auf der Rechnung aufzuführen.
 
-(3) Werden während der Nutzung 80 Prozent des vertraglich vereinbarten Datenvolumens erreicht, so ist der Verbraucher und, auf dessen Verlangen, der andere Endnutzer spätestens nach Beendigung der aktuellen Datenverbindung und Auswertung der Kommunikationsdatensätze darauf hinzuweisen. Dieser Hinweis kann durch den Verbraucher oder Endnutzer kostenlos abbestellt und wieder bestellt werden.
+(3) Werden während der Nutzung 80 Prozent des vertraglich vereinbarten Datenvolumens erreicht, so ist der Verbraucher spätestens nach Beendigung der aktuellen Datenverbindung und Auswertung der Kommunikationsdatensätze darauf hinzuweisen. Dieser Hinweis kann durch den Verbraucher kostenlos abbestellt und wieder bestellt werden.
 
-# § 11 – Kostenkontrolle bei inländischen mobilen Datentarifen
+# § 10 – Kostenkontrolle bei Sprachkommunikationsdiensten, Internetzugangsdiensten und öffentlich zugänglichen nummerngebundenen interpersonellen Telekommunikationsdiensten
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Zugang zu einem öffentlichen Mobilfunknetz in Verbindung mit einem inländischen Datentarif anbieten, der kein beschränktes Datenvolumen mit einer Reduzierung der Datenübertragungsrate oder einem unbeschränkten Datenvolumen enthält, müssen Verbrauchern und, auf deren Verlangen, anderen Endnutzern eine geeignete Einrichtung anbieten, um die Kosten zu kontrollieren. Diese Einrichtung umfasst auch unentgeltliche Warnhinweise bei anormalem oder übermäßigem Verbrauchsverhalten.
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen es sich weder um nummernunabhängige interpersonelle Telekommunikationsdienste noch um für die Bereitstellung von Diensten der Maschine-Maschine-Kommunikation genutzte Übertragungsdienste handelt, müssen Verbrauchern eine geeignete Einrichtung anbieten, um die Kosten von Sprachkommunikationsdiensten, Internetzugangsdiensten und nummerngebundenen interpersonellen Telekommunikationsdiensten zu kontrollieren. Diese Einrichtung umfasst auch unentgeltliche Warnhinweise bei anormalem oder übermäßigem Verbrauchsverhalten.
 
-(2) Die Pflicht nach Absatz 1 entfällt, wenn Anbieter gegenüber der Bundesnetzagentur anzeigen, dass dem Verbraucher oder Endnutzer bei erstmalig auftretenden anormalen oder übermäßig hohen Kosten aufgrund einer regelmäßigen unternehmensindividuellen Praxis ausschließlich verhältnismäßige Kosten in Rechnung gestellt werden.
+(2) Die Pflicht nach Absatz 1 entfällt, wenn Anbieter gegenüber der Bundesnetzagentur anzeigen, dass dem Verbraucher bei erstmalig auftretenden anormalen oder übermäßig hohen Kosten aufgrund einer regelmäßigen unternehmensindividuellen Praxis ausschließlich verhältnismäßige Kosten in Rechnung gestellt werden.
 
-# § 12 – Evaluation und Kontrolle durch die Bundesnetzagentur
+# § 11 – Evaluation und Kontrolle durch die Bundesnetzagentur
 
-(1) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die einen Zugang zu einem öffentlichen Telekommunikationsnetz anbieten, und Betreiber von öffentlichen Telekommunikationsnetzen sind verpflichtet, der Bundesnetzagentur mindestens einmal im Kalenderjahr über die Erfahrungen bei der praktischen Anwendung der in dieser Verordnung geregelten Instrumente zu berichten. Die Bundesnetzagentur kann weitere Angaben zum Umfang, zu weiteren Inhalten und zum zeitlichen Ablauf der Berichtspflicht festlegen und auf ihrer Internetseite veröffentlichen. Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes sind verpflichtet, der Bundesnetzagentur auf Verlangen Musternutzerprofile für einen Zugang zum Online-Kundencenter auf ihrer Internetseite einzurichten, soweit dieses notwendig ist, um die Transparenz, die Verständlichkeit und die leichte Zugänglichkeit der Informationen für die Verbraucher und Endnutzer zu kontrollieren.
+(1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, die einen Zugang zu einem öffentlichen Telekommunikationsnetz anbieten, und Betreiber von öffentlichen Telekommunikationsnetzen sind verpflichtet, der Bundesnetzagentur mindestens einmal im Kalenderjahr über die Erfahrungen bei der praktischen Anwendung der in dieser Verordnung geregelten Instrumente zu berichten. Die Bundesnetzagentur kann weitere Angaben zum Umfang, zu weiteren Inhalten und zum zeitlichen Ablauf der Berichtspflicht festlegen und auf ihrer Internetseite veröffentlichen. Anbieter öffentlich zugänglicher Telekommunikationsdienste sind verpflichtet, der Bundesnetzagentur auf Verlangen Musternutzerprofile für einen Zugang zum Online-Kundencenter auf ihrer Internetseite einzurichten, soweit dieses notwendig ist, um die Transparenz, die Verständlichkeit und die leichte Zugänglichkeit der Informationen für die Verbraucher zu kontrollieren.
 
-(2) Anbieter eines öffentlich zugänglichen Telekommunikationsdienstes, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, sind verpflichtet, der Bundesnetzagentur auf Verlangen eine genaue Darstellung der Funktionsweise der ihren Verbrauchern und Endnutzern angebotenen Verfahren zur Messung der Datenübertragungsrate zur Verfügung zu stellen.
+(2) Anbieter öffentlich zugänglicher Telekommunikationsdienste, die über einen Zugang zu einem öffentlichen Telekommunikationsnetz Internetzugangsdienste anbieten, sind verpflichtet, der Bundesnetzagentur auf Verlangen eine genaue Darstellung der Funktionsweise der ihren Verbrauchern angebotenen Verfahren zur Messung der Datenübertragungsrate zur Verfügung zu stellen.
 
-# § 13 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 149 Absatz 1 Nummer 7d des Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 228 Absatz 2 Nummer 6 des Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, ein Produktinformationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereitstellt,
 
-2. entgegen § 4 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig hervorhebt,
+2. entgegen § 4 Satz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-3. entgegen § 5 Satz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+3. entgegen § 6 Absatz 1 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ermöglicht,
 
-4. entgegen § 7 Absatz 1 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ermöglicht,
+4. entgegen § 7 Absatz 1 oder 2 einen Hinweis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gibt,
 
-5. entgegen § 8 Absatz 1, 2 oder Absatz 3 einen Hinweis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gibt,
+5. entgegen § 8 Absatz 1 Nummer 1 ein Messergebnis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig darstellt oder
 
-6. entgegen § 9 Absatz 1 ein Messergebnis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig darstellt oder
+6. entgegen § 9 Absatz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt.
 
-7. entgegen § 10 Absatz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt.
-
-# § 14 – Übergangsregelung
-
-Die nach § 5 Satz 1 und nach § 10 Absatz 1 Nummer 2 erforderlichen Informationen können für einen Übergangszeitraum bis zum 1. Dezember 2017 ausschließlich im Online-Kundencenter auf der Internetseite des Anbieters zur Verfügung gestellt werden.
-
-# § 15 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2017 in Kraft.
 

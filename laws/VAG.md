@@ -5358,7 +5358,7 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 
 2. elektronischen Mitteilungen oder
 
-3. Verkehrsdaten im Sinne des § 3 Nummer 30 des Telekommunikationsgesetzes
+3. Verkehrsdaten im Sinne des § 3 Nummer 70 des Telekommunikationsgesetzes
 
 verlangen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots nach Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 und 10, Artikel 28 Absatz 2 und Artikel 29 der Verordnung (EU) 2016/1011 erforderlich ist. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
 
