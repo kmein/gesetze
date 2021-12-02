@@ -163,7 +163,7 @@ Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige Ordnung d
 
 3. (weggefallen)
 
-4. denjenigen, die geschäftsmäßig Telekommunikationsdienste erbringen oder daran mitwirken, zu Verkehrsdaten nach § 96 Abs. 1 Nr. 1 bis 4 des Telekommunikationsgesetzes und sonstigen zum Aufbau und zur Aufrechterhaltung der Telekommunikation notwendigen Verkehrsdaten und
+4. denjenigen, die geschäftsmäßig Telekommunikationsdienste erbringen oder daran mitwirken, zu Verkehrsdaten nach § 9 Absatz 1 Satz 1 Nummer 1 bis 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes und sonstigen zum Aufbau und zur Aufrechterhaltung der Telekommunikation notwendigen Verkehrsdaten und
 
 5. denjenigen, die geschäftsmäßig Teledienste erbringen oder daran mitwirken, zu
 
@@ -231,7 +231,7 @@ b) bei Auskünften nach Absatz 1 Satz 1 Nummer 4, dass sie für eine Person nach
 
 6. Tatbestände und Bemessung einer auf Grund der Auskunftserteilung an Verpflichtete zu leistenden Aufwandsentschädigung.
 
-Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen verwiesen werden; hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist. Die Vorgaben für die Erteilung von Auskünften nach § 8a Absatz 1 Satz 1 Nummer 4, insbesondere ob und in welchem Umfang die Verpflichteten hierfür Vorkehrungen für die technische und organisatorische Umsetzung der Auskunftsverpflichtung zu treffen haben, bestimmen sich nach § 110 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung. Die technischen Einzelheiten, die zur Auskunftserteilung sowie zur Gestaltung des Übergabepunktes zu den berechtigten Stellen erforderlich sind, insbesondere das technische Format für die Übermittlung derartiger Auskunftsverlangen an die Verpflichteten und die Rückübermittlung der zugehörigen Auskünfte an die berechtigten Stellen, richten sich nach den Festlegungen in der Technischen Richtlinie nach § 110 Absatz 3 des Telekommunikationsgesetzes.
+Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen verwiesen werden; hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist. Die Vorgaben für die Erteilung von Auskünften nach § 8a Absatz 1 Satz 1 Nummer 4, insbesondere ob und in welchem Umfang die Verpflichteten hierfür Vorkehrungen für die technische und organisatorische Umsetzung der Auskunftsverpflichtung zu treffen haben, bestimmen sich nach § 170 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung. Die technischen Einzelheiten, die zur Auskunftserteilung sowie zur Gestaltung des Übergabepunktes zu den berechtigten Stellen erforderlich sind, insbesondere das technische Format für die Übermittlung derartiger Auskunftsverlangen an die Verpflichteten und die Rückübermittlung der zugehörigen Auskünfte an die berechtigten Stellen, richten sich nach den Festlegungen in der Technischen Richtlinie nach § 170 Absatz 6 des Telekommunikationsgesetzes.
 
 (9) Für die Erteilung von Auskünften nach § 8a Absatz 1 Satz 1 Nummer 4 hat der Verpflichtete Anspruch auf Entschädigung entsprechend § 23 des Justizvergütungs- und -entschädigungsgesetzes.
 
@@ -243,9 +243,9 @@ Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentl
 
 (1) Soweit dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 3 Absatz 1 erforderlich ist, darf das Bundesamt für Verfassungsschutz Auskunft verlangen von demjenigen, der geschäftsmäßig
 
-1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach den §§ 95 und 111 des Telekommunikationsgesetzes,
+1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 3 Nummer 6 und § 172 des Telekommunikationsgesetzes,
 
-2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 14 Absatz 1 des Telemediengesetzes.
+2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes.
 
 Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 

@@ -91,7 +91,7 @@ Diese Verordnung enthält Regelungen zu
 
 9. Datum und Ort der Prüfung.
 
-(2) Das Prüfungsprotokoll ist von den beteiligten Sprachprüfern und dem Bewerber zu unterschreiben.
+(2) Das Prüfungsprotokoll ist von den beteiligten Sprachprüfern und dem Bewerber zu unterschreiben. Das Prüfungsprotokoll kann auch als elektronisches Dokument erstellt werden, das von den beteiligten Sprachprüfern und dem Bewerber mindestens mit deren fortgeschrittenen elektronischen Signaturen gemäß Artikel 26 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über die elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73, L 23 vom 29.1.2015, S. 19, L 155 vom 14.6.2016, S. 44) zu versehen ist.
 
 (3) Weitere Einzelheiten zur Dokumentation einer Sprachprüfung ergeben sich aus dem Prüfstellenhandbuch nach § 14 oder dem Standardisierungsgespräch einschließlich des Handbuchs für Einzelprüfer nach § 15.
 

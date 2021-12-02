@@ -114,6 +114,6 @@ Bei der Bundesnetzagentur wird ein Länderausschuss gebildet, der sich aus Vertr
 
 Der Länderausschuss hat die ihm durch Gesetz oder auf Grund eines Gesetzes zugewiesenen Aufgaben.
 
-# § 11 – Übergangsvorschrift
+# § 11 – Amtsblatt
 
-Die Aufgaben des Beirates werden bis zu seiner Bildung nach § 5 durch den Beirat nach § 118 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), das zuletzt durch Artikel 6 Nr. 8 des Gesetzes vom 14. März 2005 (BGBl. I S. 721) geändert worden ist, wahrgenommen.
+Das Amtsblatt der Bundesnetzagentur wird elektronisch veröffentlicht. Die elektronische Ausgabe des Amtsblatts wird der Öffentlichkeit auf der Internetseite der Bundesnetzagentur dauerhaft und kostenfrei zugänglich gemacht.

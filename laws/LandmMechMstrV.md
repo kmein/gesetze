@@ -7,7 +7,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 # § 1 – Gliederung und Inhalt der Meisterprüfung
 
-Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
+Die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
 1. die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten (Teil I),
 
@@ -19,9 +19,9 @@ Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbst�
 
 # § 2 – Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Landmaschinenmechaniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
+(1) Durch die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
-(2) Dem Landmaschinenmechaniker-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
+(2) Dem Land- und Baumaschinenmechatroniker-Handwerk werden zum Zwecke der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als ganzheitliche Qualifikationen zugerechnet:
 
 1. Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen,
 
@@ -61,7 +61,7 @@ Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbst�
 
 # § 4 – Meisterprüfungsprojekt
 
-(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass er einen Kundenauftrag im Landmaschinenmechaniker-Handwerk planen, durchführen und abschließen kann. Der Prüfling wählt, ob er die Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine oder einem Motorgerät durchführen will. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
+(1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass er einen Kundenauftrag im Land- und Baumaschinenmechatroniker-Handwerk planen, durchführen und abschließen kann. Der Prüfling wählt, ob er die Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine oder einem Motorgerät durchführen will. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
 
 (2) Als Meisterprüfungsprojekt ist die nachfolgende Aufgabe durchzuführen:  
 Eine Hydraulik- oder Pneumatikanlage mit einer elektrischen oder elektronischen Steuerung für Arbeitskreise entwerfen, planen, kalkulieren und aufbauen sowie ein mechanisches Bauteil anfertigen.
@@ -82,7 +82,7 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 # § 6 – Situationsaufgabe
 
-(1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Landmaschinenmechaniker-Handwerk.
+(1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk.
 
 (2) Als Situationsaufgabe ist die nachstehend aufgeführte Aufgabe auszuführen:  
 Fehler und Störungen an Fahrzeugen, Maschinen, Geräten oder Anlagen, insbesondere an Verbrennungsmotoren oder der Antriebstechnik eingrenzen, feststellen und beheben, Instandsetzungswege bestimmen und dabei Instandsetzungsalternativen beurteilen, Diagnose und Ergebnisse dokumentieren.
@@ -107,7 +107,7 @@ Fehler und Störungen an Fahrzeugen, Maschinen, Geräten oder Anlagen, insbesond
 
 1. Maschinentechnik:
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, maschinentechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Landmaschinenmechanikerbetrieb zu bearbeiten. Er soll maschinentechnische Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling soll nachweisen, dass er in der Lage ist, maschinentechnische Aufgaben und Probleme unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Land- und Baumaschinenmechatronikerbetrieb zu bearbeiten. Er soll maschinentechnische Sachverhalte beurteilen und beschreiben. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
 
 a) Lösungen für Problemstellungen aus den Bereichen Aufbau, Funktion und Einsatz von Landmaschinen, Baumaschinen oder Motorgeräten sowie deren Bauteile und Baugruppen, insbesondere aus den Bereichen Motoren- und Antriebstechnik, Lenkung, Reifen und Laufwerke, Bremsanlagen sowie Lastaufnahmeeinrichtungen, erarbeiten, bewerten oder korrigieren,
 
@@ -133,7 +133,7 @@ d) Lösungen für Aufgabenstellungen beim Vermessen und Richten von Aufbauten, R
 
 3. Auftragsabwicklung:
 
-Der Prüfling soll nachweisen, das er in der Lage ist, bei der Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Landmaschinenmechanikerbetrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling soll nachweisen, das er in der Lage ist, bei der Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den technischen und wirtschaftlichen Erfolg in einem Land- und Baumaschinenmechatronikerbetrieb notwendig sind, kundenorientiert einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
 
 a) Auftragsabwicklungsprozesse planen,
 
@@ -149,7 +149,7 @@ f) technische Arbeitspläne, insbesondere unter Anwendung von elektronischen Dat
 
 4. Betriebsführung und Betriebsorganisation:
 
-Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Landmaschinenmechanikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Land- und Baumaschinenmechatronikerbetrieb wahrzunehmen. Bei der Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 

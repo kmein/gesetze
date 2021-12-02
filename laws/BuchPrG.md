@@ -154,7 +154,7 @@ Soweit Schulbücher von den Schulen im Rahmen eigener Budgets angeschafft werden
 
 1. von Gewerbetreibenden, die Bücher vertreiben,
 
-2. von rechtsfähigen Verbänden zur Förderung gewerblicher Interessen, soweit ihnen eine erhebliche Zahl von Gewerbetreibenden angehört, die Waren oder gewerbliche Leistungen gleicher oder verwandter Art auf demselben Markt vertreiben, soweit sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung imstande sind, ihre satzungsgemäßen Aufgaben der Verfolgung gewerblicher Interessen tatsächlich wahrzunehmen, und die Handlung geeignet ist, den Wettbewerb auf dem relevanten Markt wesentlich zu beeinträchtigen,
+2. von rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b des Gesetzes gegen den unlauteren Wettbewerb eingetragen sind,
 
 3. von einem Rechtsanwalt, der von Verlegern, Importeuren oder Unternehmen, die Verkäufe an Letztabnehmer tätigen, gemeinsam als Treuhänder damit beauftragt worden ist, ihre Preisbindung zu betreuen (Preisbindungstreuhänder),
 

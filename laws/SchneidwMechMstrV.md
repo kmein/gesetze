@@ -7,11 +7,11 @@ Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch Artikel 3 
 
 # § 1 – Gegenstand
 
-Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen. Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Schneidwerkzeugmechaniker-Handwerk.
+Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen. Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Präzisionswerkzeugmechaniker-Handwerk.
 
 # § 2 – Meisterprüfungsberufsbild
 
-Im Schneidwerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
+Im Präzisionswerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
 1. Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten, Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen kalkulieren und Angebote erstellen, Verträge schließen,
 
@@ -43,7 +43,7 @@ Im Schneidwerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgen
 
 # § 3 – Ziel und Gliederung des Teils I
 
-(1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei Tätigkeiten des Schneidwerkzeugmechaniker-Handwerks meisterhaft verrichten kann.
+(1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei Tätigkeiten des Präzisionswerkzeugmechaniker-Handwerk meisterhaft verrichten kann.
 
 (2) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -57,9 +57,9 @@ Im Schneidwerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgen
 
 (2) Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
-(3) Als Meisterprüfungsprojekt sind zwei unterschiedlich rotierende Präzisionsschneidwerkzeuge für den maschinellen Einsatz oder zwei unterschiedlich gestalterisch aufwändige Schneidwerkzeuge für den manuellen Einsatz für die spanabhebende oder spanlose Materialbearbeitung zu planen, anzufertigen und zu prüfen. Die Planungsarbeiten bestehen aus Entwurf, technischer Zeichnung, Arbeitsplan, Berechnung und Kalkulation. Auf der Grundlage der Planungsarbeiten sind die Schneidwerkzeuge anzufertigen sowie Dokumentationen mit Prüfprotokollen zu erstellen.
+(3) Als Meisterprüfungsprojekt sind zwei unterschiedlich rotierende Zerspanwerkzeuge für den maschinellen Einsatz oder zwei unterschiedlich gestalterisch aufwändige Schneidwerkzeuge für den manuellen Einsatz für die spanabhebende oder spanlose Materialbearbeitung zu planen, anzufertigen und zu prüfen. Die Planungsarbeiten bestehen aus Entwurf, technischer Zeichnung, Arbeitsplan, Berechnung und Kalkulation. Auf der Grundlage der Planungsarbeiten sind die Schneid- oder Zerspanwerkzeuge anzufertigen sowie Dokumentationen mit Prüfprotokollen zu erstellen.
 
-(4) Die Planungsarbeiten werden mit 40 Prozent, die angefertigten Schneidwerkzeuge mit 40 Prozent und die Dokumentationsunterlagen mit 20 Prozent gewichtet.
+(4) Die Planungsarbeiten werden mit 40 Prozent, die angefertigten Schneid- oder Zerspanwerkzeuge mit 40 Prozent und die Dokumentationsunterlagen mit 20 Prozent gewichtet.
 
 # § 5 – Fachgespräch
 
@@ -73,9 +73,9 @@ Im Schneidwerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgen
 
 # § 6 – Situationsaufgabe
 
-(1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Schneidwerkzeugmechaniker-Handwerk.
+(1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Präzisionswerkzeugmechaniker-Handwerk.
 
-(2) Als Situationsaufgabe sind Fehler, Schäden oder Mängel an Schneidwerkzeugen unter Berücksichtigung von Qualität, Zeit, Materialeinsatz und Arbeitsorganisation festzustellen, einzugrenzen sowie insbesondere durch Schleifen, Profilieren, Richten, Umarbeiten oder Neuanfertigen zu beheben. Die Schneidwerkzeuge sind vor und nach der Fehler-, Schaden- oder Mangelbehebung zu vermessen und die Ergebnisse zu dokumentieren.
+(2) Als Situationsaufgabe sind Fehler, Schäden oder Mängel an Schneid- oder Zerspanwerkzeugen unter Berücksichtigung von Qualität, Zeit, Materialeinsatz und Arbeitsorganisation festzustellen, einzugrenzen sowie insbesondere durch Schleifen, Profilieren, Richten, Umarbeiten oder Neuanfertigen zu beheben. Die Schneid- oder Zerspanwerkzeuge sind vor und nach der Fehler-, Schaden- oder Mangelbehebung zu vermessen und die Ergebnisse zu dokumentieren.
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
@@ -89,35 +89,35 @@ Im Schneidwerkzeugmechaniker-Handwerk sind zum Zwecke der Meisterprüfung folgen
 
 # § 8 – Ziel, Gliederung und Inhalt des Teils II
 
-(1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er besondere fachtheoretische Kenntnisse im Schneidwerkzeugmechaniker-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwendet.
+(1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er besondere fachtheoretische Kenntnisse im Präzisionswerkzeugmechaniker-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwendet.
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten. Die fallbezogenen Aufgaben sind handwerksspezifisch, wobei die in den Handlungsfeldern aufgeführten Qualifikationen auch handlungsfeldübergreifend verknüpft werden können.
 
 1. Konstruktions- und Fertigungstechnik  
   
 
-Der Prüfling hat nachzuweisen, dass er in der Lage ist, konstruktions- und fertigungstechnische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Schneidwerkzeugmechanikerbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis h aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling hat nachzuweisen, dass er in der Lage ist, konstruktions- und fertigungstechnische Aufgaben unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in einem Präzisionswerkzeugmechanikerbetrieb zu bearbeiten. Dabei soll er berufsbezogene Sachverhalte analysieren und bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis h aufgeführten Qualifikationen verknüpft werden:
 
 a) Konstruktionsunterlagen sowie Stücklisten erstellen und prüfen,
 
 b) Arten, Eigenschaften und Verarbeitung von Werkstoffen und Werkstoffverbindungen sowie von Hilfs- und Betriebsstoffen beurteilen; Verwendungszwecken zuordnen,
 
-c) Werkstoffe für Schneidwerkzeuge und Oberflächenbehandlung von Schneidwerkzeugen für unterschiedliche Einsatzbedingungen bestimmen und begründen sowie Alternativen aufzeigen,
+c) Werkstoffe für Schneid- oder Zerspanwerkzeuge und Oberflächenbehandlung von Schneid- oder Zerspanwerkzeugen für unterschiedliche Einsatzbedingungen bestimmen und begründen sowie Alternativen aufzeigen,
 
-d) Schneidwerkzeuge nach den Einsatzbedingungen, insbesondere unter Berücksichtigung der Werkstoffe, der Oberflächenbeschaffenheit und der Schnittleistung auswählen und Auswahl begründen,
+d) Schneid- oder Zerspanwerkzeuge nach den Einsatzbedingungen, insbesondere unter Berücksichtigung der Werkstoffe, der Oberflächenbeschaffenheit und der Schnittleistung auswählen und Auswahl begründen,
 
-e) Lösungen zur Optimierung von Schneidwerkzeugen erarbeiten, bewerten und korrigieren,
+e) Lösungen zur Optimierung von Schneid- oder Zerspanwerkzeugen erarbeiten, bewerten und korrigieren,
 
-f) vorgegebene Konstruktionen von Schneidwerkzeugen und Sonderwerkzeugen nach Einsatzbedingungen prüfen und beurteilen,
+f) vorgegebene Konstruktionen von Schneid- oder Zerspanwerkzeugen und Sonderwerkzeugen nach Einsatzbedingungen prüfen und beurteilen,
 
-g) Werkzeugmaschinen und Verfahren für die Herstellung von Schneidwerkzeugen, unter besonderer Berücksichtigung von Schleifoperationen, auswählen; Auswahl, insbesondere im Hinblick auf Festigkeit, Statik und Dynamik, begründen,
+g) Werkzeugmaschinen und Verfahren für die Herstellung von Schneid- oder Zerspanwerkzeugen, unter besonderer Berücksichtigung von Schleifoperationen, auswählen; Auswahl, insbesondere im Hinblick auf Festigkeit, Statik und Dynamik, begründen,
 
 h) Betriebsanleitungen, insbesondere für den Einsatz von Kühlschmierstoffen, nach vorgegebenen Datenblättern erstellen;
 
 2. Auftragsabwicklung  
   
 
-Der Prüfling hat nachzuweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse in einem Schneidwerkzeugmechanikerbetrieb, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling hat nachzuweisen, dass er in der Lage ist, Auftragsabwicklungsprozesse in einem Präzisionswerkzeugmechanikerbetrieb, auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
 
 a) Möglichkeiten der Auftragsbeschaffung darstellen,
 
@@ -133,14 +133,14 @@ f) auftragsbezogenen Einsatz von Material, Werkstoffen, Maschinen und Geräten b
 
 g) Unteraufträge vergeben und kontrollieren,
 
-h) im Kundenkontakt Schadensaufnahme an Schneidwerkzeugen und Maschinenmessern darstellen, Instandsetzungsmethoden vorschlagen und die erforderliche Abwicklung festlegen,
+h) im Kundenkontakt Schadensaufnahme an Schneid- oder Zerspanwerkzeugen darstellen, Instandsetzungsmethoden vorschlagen und die erforderliche Abwicklung festlegen,
 
 i) Nachkalkulation durchführen;
 
 3. Betriebsführung und Betriebsorganisation  
   
 
-Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Schneidwerkzeugmechanikerbetrieb unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
+Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Präzisionswerkzeugmechanikerbetrieb unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i aufgeführten Qualifikationen verknüpft werden:
 
 a) betriebliche Kosten ermitteln, dabei betriebswirtschaftliche Zusammenhänge berücksichtigen,
 

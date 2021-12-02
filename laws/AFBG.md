@@ -513,7 +513,7 @@ Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz ist der Verwaltung
 
 # § 27a – Anwendung des Sozialgesetzbuches
 
-Soweit dieses Gesetz keine abweichenden Regelungen enthält, finden die §§ 1 bis 3, 11 bis 17, 30 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch Anwendung; wird eine Leistung auf das Konto des Teilnehmers bei einem Kreditinstitut überwiesen, gilt bei fehlender Deckung des Kontos § 850k Absatz 6 der Zivilprozessordnung entsprechend.
+Soweit dieses Gesetz keine abweichenden Regelungen enthält, sind die §§ 1 bis 3, 11 bis 17, 30 bis 67 des Ersten Buches Sozialgesetzbuch und das Zehnte Buch Sozialgesetzbuch anzuwenden.
 
 # § 28 – Aufbringung der Mittel
 

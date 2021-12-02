@@ -469,17 +469,17 @@ d) unter gemeinsamer Leitung stehen.
 
 a) Ortsgebundenes Zugangsnetz
 
-eine Anlage, über die der Zugang zu einem öffentlichen Telefondienst, zu einem öffentlichen Datenübermittlungsdienst oder zu einem Internetzugangsdienst erfolgt (zum Beispiel Glasfaseranschlüsse und Mobilfunk-Zugangsnetze).
+eine Anlage, über die der Zugang zu einem Sprachkommunikationsdienst, zu einem öffentlichen Datenübertragungsdienst oder zu einem Internetzugangsdienst erfolgt (zum Beispiel Glasfaseranschlüsse und Mobilfunk-Zugangsnetze).
 
 b) Übertragungsnetz
 
-eine Anlage zur Übertragung von Sprache und Daten für öffentlich zugängliche Telefondienste und Datenübermittlungsdienste oder für Internetzugangsdienste (zum Beispiel Backbone- und Core-Netze).
+eine Anlage zur Übertragung von Sprache und Daten für Sprachkommunikationsdienste und öffentliche Datenübertragungsdienste oder für Internetzugangsdienste (zum Beispiel Backbone- und Core-Netze).
 
 c) IXP
 
 eine Anlage, die mehr als zwei unabhängige autonome Systeme direkt verbindet, so dass der Netzwerkverkehr zwischen zwei angeschlossenen autonomen Systemen direkt ohne Nutzung eines intermediären autonomen Systems fließt.
 
-d) DNS-Resolver, die zur Nutzung öffentlich zugänglicher Telefondienste, Datenübermittlungsdienste oder Internetzugangsdienste angeboten werden
+d) DNS-Resolver, die zur Nutzung von Sprachkommunikationsdiensten, öffentlich zugänglichen Datenübertragungsdiensten und Internetzugangsdiensten angeboten werden
 
 eine Anlage oder ein System im Zugangsnetz eines Internet Service Providers zur Beantwortung von Anfragen zur Namensauflösung, die bei Unkenntnis der Antwort die Anfragen an übergeordnete DNS-Instanzen weiterreicht.
 
@@ -517,7 +517,7 @@ b) einem vergleichbaren technischen Zweck dienen und
 
 c) unter gemeinsamer Leitung oder Steuerung stehen.
 
-7. Der für die Anlagenkategorien des Teils 3 Nummer 1.1 bis 1.2 genannte Schwellenwert ergibt sich aus § 1 Absatz 1 Nummer 2 des Post- und Telekommunikationssicherstellungsgesetzes vom 24. März 2011 (BGBl. I S. 506, 941) in der jeweils geltenden Fassung.
+7. Der für die Anlagenkategorien des Teils 3 Nummer 1.1 bis 1.2 genannte Schwellenwert ergibt sich aus § 185 Absatz 1 Satz 1 des Telekommunikationsgesetzes in der jeweils geltenden Fassung.
 
 8. Der für die Anlagenkategorie des Teils 3 Nummer 1.3.1 genannte Schwellenwert ist unter Annahme einer Anzahl von 50 000 Autonomen Systemen aus allen Netzen und einer Bedarfsabdeckung von 500 000 versorgten Personen bei einer Gesamtbevölkerung von 80 Millionen Personen wie folgt berechnet:
 

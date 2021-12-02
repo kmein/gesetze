@@ -7865,7 +7865,7 @@ Die Aufforderungen und die sonstigen Mitteilungen, die zu den Vollstreckungshand
 
 # § 295 – Unpfändbarkeit von Sachen
 
-Die §§ 811 bis 812 und 813 Abs. 1 bis 3 der Zivilprozessordnung sowie die Beschränkungen und Verbote, die nach anderen gesetzlichen Vorschriften für die Pfändung von Sachen bestehen, gelten entsprechend. An die Stelle des Vollstreckungsgerichts tritt die Vollstreckungsbehörde.
+Die §§ 811 bis 812, 813 Absatz 1 bis 3 und § 882a Absatz 4 der Zivilprozessordnung sowie die Beschränkungen und Verbote, die nach anderen gesetzlichen Vorschriften für die Pfändung von Sachen bestehen, gelten entsprechend. An die Stelle des Vollstreckungsgerichts tritt die Vollstreckungsbehörde.
 
 # § 296 – Verwertung
 
@@ -7961,7 +7961,7 @@ Auf Antrag des Vollstreckungsschuldners oder aus besonderen Zweckmäßigkeitsgr�
 
 (2) Die Pfändung ist bewirkt, wenn die Pfändungsverfügung dem Drittschuldner zugestellt ist. Die an den Drittschuldner zuzustellende Pfändungsverfügung soll den beizutreibenden Geldbetrag nur in einer Summe, ohne Angabe der Steuerarten und der Zeiträume, für die er geschuldet wird, bezeichnen. Die Zustellung ist dem Vollstreckungsschuldner mitzuteilen.
 
-(3) Bei Pfändung des Guthabens eines Kontos des Vollstreckungsschuldners bei einem Kreditinstitut gelten die §§ 833a und 850l der Zivilprozessordnung entsprechend. § 850l der Zivilprozessordnung gilt mit der Maßgabe, dass Anträge bei dem nach § 828 Abs. 2 der Zivilprozessordnung zuständigen Vollstreckungsgericht zu stellen sind.
+(3) Bei Pfändung des Guthabens eines Kontos des Vollstreckungsschuldners bei einem Kreditinstitut gelten die §§ 833a und 907 der Zivilprozessordnung entsprechend.
 
 # § 310 – Pfändung einer durch Hypothek gesicherten Forderung
 
@@ -8001,9 +8001,9 @@ Forderungen aus Wechseln und anderen Papieren, die durch Indossament übertragen
 
 (2) Die Einziehungsverfügung kann mit der Pfändungsverfügung verbunden werden.
 
-(3) Wird die Einziehung eines bei einem Geldinstitut gepfändeten Guthabens eines Vollstreckungsschuldners, der eine natürliche Person ist, angeordnet, so gilt § 835 Absatz 3 Satz 2 und Absatz 4 der Zivilprozessordnung entsprechend.
+(3) Wird die Einziehung eines bei einem Geldinstitut gepfändeten Guthabens eines Vollstreckungsschuldners, der eine natürliche Person ist, angeordnet, so gelten § 835 Absatz 3 Satz 2 und § 900 Absatz 1 der Zivilprozessordnung entsprechend.
 
-(4) Wird die Einziehung einer gepfändeten nicht wiederkehrend zahlbaren Vergütung eines Vollstreckungsschuldners, der eine natürliche Person ist, für persönlich geleistete Arbeiten oder Dienste oder sonstige Einkünfte, die kein Arbeitslohn sind, angeordnet, so gilt § 835 Absatz 5 der Zivilprozessordnung entsprechend.
+(4) Wird die Einziehung einer gepfändeten nicht wiederkehrend zahlbaren Vergütung eines Vollstreckungsschuldners, der eine natürliche Person ist, für persönlich geleistete Arbeiten oder Dienste oder sonstige Einkünfte, die kein Arbeitslohn sind, angeordnet, so gilt § 835 Absatz 4 der Zivilprozessordnung entsprechend.
 
 # § 315 – Wirkung der Einziehungsverfügung
 
@@ -8025,9 +8025,9 @@ Forderungen aus Wechseln und anderen Papieren, die durch Indossament übertragen
 
 3. ob und wegen welcher Ansprüche die Forderung bereits für andere Gläubiger gepfändet sei;
 
-4. ob innerhalb der letzten zwölf Monate im Hinblick auf das Konto, dessen Guthaben gepfändet worden ist, nach § 850l der Zivilprozessordnung die Unpfändbarkeit des Guthabens angeordnet worden ist, und
+4. ob innerhalb der letzten zwölf Monate im Hinblick auf das Konto, dessen Guthaben gepfändet worden ist, nach § 907 der Zivilprozessordnung die Unpfändbarkeit des Guthabens festgesetzt worden ist, und
 
-5. ob es sich bei dem Konto, dessen Guthaben gepfändet worden ist, um ein Pfändungsschutzkonto im Sinne von § 850k Abs. 7 der Zivilprozessordnung handelt.
+5. ob es sich bei dem Konto, dessen Guthaben gepfändet worden ist, um ein Pfändungsschutzkonto im Sinne von § 850k der Zivilprozessordnung oder ein Gemeinschaftskonto im Sinne von § 850l der Zivilprozessordnung handelt; bei einem Gemeinschaftskonto ist zugleich anzugeben, ob der Schuldner nur gemeinsam mit einer anderen Person oder mehreren anderen Personen verfügungsbefugt ist.
 
 Die Erklärung des Drittschuldners zu Nummer 1 gilt nicht als Schuldanerkenntnis.
 
@@ -8049,12 +8049,11 @@ Ist die gepfändete Forderung bedingt oder betagt oder ihre Einziehung schwierig
 
 (4) Absatz 3 gilt entsprechend, wenn der Anspruch ein im Schiffsregister eingetragenes Schiff, ein Schiffsbauwerk oder Schwimmdock, das im Schiffsbauregister eingetragen ist oder in dieses Register eingetragen werden kann oder ein Luftfahrzeug betrifft, das in der Luftfahrzeugrolle eingetragen ist oder nach Löschung in der Luftfahrzeugrolle noch in dem Register für Pfandrechte an Luftfahrzeugen eingetragen ist.
 
-(5) Dem Treuhänder ist auf Antrag eine Entschädigung zu gewähren. Die Entschädigung darf die nach der Zwangsverwalterordnung \*) festzusetzende Vergütung nicht übersteigen. ----  
-\*) Muss richtig lauten: "Zwangsverwaltungsverordnung"
+(5) Dem Treuhänder ist auf Antrag eine Entschädigung zu gewähren. Die Entschädigung darf die nach der Zwangsverwalterverordnung festzusetzende Vergütung nicht übersteigen.
 
 # § 319 – Unpfändbarkeit von Forderungen
 
-Beschränkungen und Verbote, die nach §§ 850 bis 852 der Zivilprozessordnung und anderen gesetzlichen Bestimmungen für die Pfändung von Forderungen und Ansprüchen bestehen, gelten sinngemäß.
+Beschränkungen und Verbote, die nach den §§ 850 bis 852 und 899 bis 907 der Zivilprozessordnung und anderen gesetzlichen Bestimmungen für die Pfändung von Forderungen und Ansprüchen bestehen, gelten sinngemäß.
 
 # § 320 – Mehrfache Pfändung einer Forderung
 

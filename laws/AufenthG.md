@@ -1837,7 +1837,7 @@ auf Verlangen den mit dem Vollzug des Ausländerrechts betrauten Behörden vorzu
 
 # § 48a – Erhebung von Zugangsdaten
 
-(1) Soweit der Ausländer die notwendigen Zugangsdaten für die Auswertung von Endgeräten, die er für telekommunikative Zwecke eingesetzt hat, nicht zur Verfügung stellt, darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), verlangt werden, wenn die gesetzlichen Voraussetzungen für die Verarbeitung der Daten vorliegen.
+(1) Soweit der Ausländer die notwendigen Zugangsdaten für die Auswertung von Endgeräten, die er für telekommunikative Zwecke eingesetzt hat, nicht zur Verfügung stellt, darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), verlangt werden, wenn die gesetzlichen Voraussetzungen für die Verarbeitung der Daten vorliegen.
 
 (2) Der Ausländer ist von dem Auskunftsverlangen vorher in Kenntnis zu setzen.
 
@@ -2856,6 +2856,8 @@ c) auf Ersuchen der Ausländerbehörde, die der Erteilung des Visums zugestimmt 
 (5) Für die Zurückschiebung sowie die Durchsetzung der Verlassenspflicht des § 12 Abs. 3 und die Durchführung der Abschiebung und, soweit es zur Vorbereitung und Sicherung dieser Maßnahmen erforderlich ist, die Festnahme und Beantragung der Haft sind auch die Polizeien der Länder zuständig.
 
 (6) Das Bundesministerium des Innern, für Bau und Heimat oder die von ihm bestimmte Stelle entscheidet im Benehmen mit dem Auswärtigen Amt über die Anerkennung von Pässen und Passersatzpapieren (§ 3 Abs. 1); die Entscheidungen ergehen als Allgemeinverfügung und können im Bundesanzeiger bekannt gegeben werden.
+
+§ 71 Abs. 1 Satz 4 idF d. G v. 25.2.2008 I 162: Schleswig-Holstein - Abweichung durch § 7 Landesaufnahmegesetz (LAufnG SH) v. 4.11.2021 GVOBl. Schl.-H. S. 1282 mWv 19.11.2021 (vgl. BGBl. I 2021, 4976)
 
 # § 71a – Zuständigkeit und Unterrichtung
 
