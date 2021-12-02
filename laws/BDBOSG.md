@@ -13,7 +13,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 # § 2 – Aufgaben
 
-(1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) aufzubauen, zu betreiben und seine Funktionsfähigkeit sicherzustellen. Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung, Aufbau, Betrieb und Sicherstellung der Funktionsfähigkeit weiterer staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben, die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung, Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen Kommunikationsinfrastrukturen ergeben, übertragen. Die Bundesanstalt nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der Digitalfunk BOS soll den Behörden und Organisationen mit Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie der Bundeswehr und, nach Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und Organisationen mit Sicherheitsaufgaben in den Ländern. Die Richtlinie nach § 57 Abs. 4 Satz 1 Nr. 2 des Telekommunikationsgesetzes legt die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben fest.
+(1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) aufzubauen, zu betreiben und seine Funktionsfähigkeit sicherzustellen. Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung, Aufbau, Betrieb und Sicherstellung der Funktionsfähigkeit weiterer staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben, die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung, Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen Kommunikationsinfrastrukturen ergeben, übertragen. Die Bundesanstalt nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der Digitalfunk BOS soll den Behörden und Organisationen mit Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie der Bundeswehr und, nach Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und Organisationen mit Sicherheitsaufgaben in den Ländern. Die Richtlinie nach § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes legt die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben fest.
 
 (2) Die Bundesanstalt ist nach Maßgabe des Verwaltungsabkommens nach § 7 gemeinsame Vergabestelle des Bundes und der Länder für den Digitalfunk BOS.
 
@@ -41,7 +41,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) Zuständige Stelle für den Betrieb des Digitalfunk BOS im Sinne dieses Gesetzes ist diejenige Stelle eines Landes oder des Bundes, die in ihrem Zuständigkeitsbereich die zentrale Schnittstelle zwischen der Betriebsorganisation der Bundesanstalt und der einsatztaktischen Nutzung des Digitalfunk BOS ist.
 
-(3) Nutzer des Digitalfunks BOS sind die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben nach § 2 Absatz 1 Satz 5 in Verbindung mit § 57 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes sowie die Bundeswehr.
+(3) Nutzer des Digitalfunks BOS sind die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben nach § 2 Absatz 1 Satz 5 in Verbindung mit § 96 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes sowie die Bundeswehr.
 
 # § 3 – Organe
 
@@ -319,6 +319,32 @@ Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden zu Zwecke
 
 (4) Die Bundesanstalt hat für Zwecke der Datenschutzkontrolle bei jedem Zugriff den Zeitpunkt des Abrufs und die abrufenden Stelle sowie die Angaben, die die Feststellung der abgerufenen Datensätze ermöglichen, zu protokollieren. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle oder der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind spätestens am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
 
-# § 24 – Einschränkung eines Grundrechts
+# § 24 – Pflicht zur Abgabe eines Angebots für die Bereitstellung von Telekommunikationsleistungen
+
+(1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren Verlangen hin unverzüglich, spätestens aber drei Monate nach Zugang des Angebotsverlangens, ein Angebot zur Erfüllung der Aufgaben der Bundesanstalt nach § 2 Absatz 1 für die Bereitstellung von Telekommunikationsleistungen zu unterbreiten. Für die Bestimmung der Preise gilt die Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. 1953 Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, in der jeweils geltenden Fassung mit der Maßgabe, dass die Preise vorrangig auf Grundlage marktüblicher Konditionen zu kalkulieren sind. Scheidet eine Kalkulation auf Grundlage marktüblicher Konditionen aufgrund der Besonderheiten des Einzelfalls aus, sind die Selbstkostenpreise des Telekommunikationsunternehmens gemäß der Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen in der jeweils geltenden Fassung maßgeblich.
+
+(2) Die Bundesanstalt darf von einem Telekommunikationsunternehmen ein Angebot nach Absatz 1 nur verlangen, wenn
+
+1. in einem zuvor durchgeführten Verfahren zur Vergabe der Telekommunikationsleistungen keine oder keine geeigneten Angebote oder kein geeigneter Teilnahmeantrag abgegeben wurde; dies gilt auch für solche Verfahren, in denen sich der Auftraggeber in vergaberechtlich zulässiger Weise ohne vorherige Auftragsbekanntmachung unmittelbar an alle geeigneten Unternehmen wendet; und
+
+2. ein Verlangen nach Absatz 1 an alle für die geforderte Bereitstellung von Telekommunikationsleistungen geeigneten Telekommunikationsunternehmen gerichtet wird.
+
+(3) Die Bundesanstalt darf die Abgabe eines Angebots nach Absatz 1 nur für die Bereitstellung solcher Telekommunikationsleistungen verlangen, die weder von ihr selbst noch durch Nutzung von vorhandenen bundeseigenen oder aufgrund von Vereinbarungen mit den Ländern zur Verfügung stehenden Telekommunikationsleistungen erbracht werden können. Das Vorliegen der Voraussetzungen des Satzes 1 ist von der Bundesanstalt im Angebotsverlangen gegenüber dem Telekommunikationsunternehmen zu erklären. Solange der Vertrag besteht, ist die Bundesanstalt verpflichtet, mindestens alle fünf Jahre nach dem Zustandekommen des Vertrags, der auf Grundlage der Abgabe eines Angebots nach Absatz 1 zwischen der Bundesanstalt und einem Telekommunikationsunternehmen abgeschlossen worden ist, ihre Erklärung zu erneuern, dass eine Erbringung nach Satz 1 weiterhin nicht möglich ist. Wird die verlangte Erklärung nicht binnen drei Monaten nach Abgabe des Verlangens beigebracht, kann das Telekommunikationsunternehmen den Vertrag außerordentlich kündigen.
+
+(4) Die Bundesanstalt darf ein Telekommunikationsunternehmen nicht verpflichten, soweit die angefragte Bereitstellung oder die Bedingungen der Bereitstellung von Telekommunikationsleistungen für das Telekommunikationsunternehmen aus betriebsbedingten, technischen oder rechtlichen Gründen ganz oder teilweise unmöglich oder unzumutbar sind. Dies gilt insbesondere, wenn
+
+1. diese zu einem zusätzlichen Ausbau oder der Freihaltung von Netzkapazitäten führen würden,
+
+2. diese die Ausübung der Rechte durch Dritte für Zwecke des Ausbaus von Netzen mit sehr hoher Kapazität oder des Angebots von Telekommunikationsleistungen gegenüber Endnutzern nicht nur geringfügig einschränken würden,
+
+3. die Telekommunikationsleistungen erstmalig durch das Telekommunikationsunternehmen geschaffen werden müssten oder
+
+4. das Telekommunikationsunternehmen anlässlich eines Verfahrens nach Absatz 2 Nummer 1 ein freiwilliges Angebot über geeignete alternative Telekommunikationsleistungen abgegeben hat.
+
+(5) Die Bundesanstalt und die verpflichteten Telekommunikationsunternehmen können ab Zugang des Verlangens, ein Angebot gemäß Absatz 1 abzugeben, die Bundesnetzagentur als Vermittlerin anrufen.
+
+(6) Für Klagen gegen ein Verlangen der Bundesanstalt, ein Angebot gemäß Absatz 1 abzugeben, ist der Verwaltungsrechtsweg gegeben.
+
+# § 25 – Einschränkung eines Grundrechts
 
 Durch die §§ 19 bis 22 wird das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.

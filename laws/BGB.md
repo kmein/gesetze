@@ -4258,6 +4258,8 @@ Modernisierungsmaßnahmen sind bauliche Veränderungen,
 
 4. durch die der Gebrauchswert der Mietsache nachhaltig erhöht wird,
 
+4a. durch die die Mietsache erstmalig mittels Glasfaser an ein öffentliches Netz mit sehr hoher Kapazität im Sinne des § 3 Nummer 33 des Telekommunikationsgesetzes angeschlossen wird,
+
 5. durch die die allgemeinen Wohnverhältnisse auf Dauer verbessert werden,
 
 6. die auf Grund von Umständen durchgeführt werden, die der Vermieter nicht zu vertreten hat, und die keine Erhaltungsmaßnahmen nach § 555a sind, oder
@@ -4324,7 +4326,9 @@ Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass von Erha
 
 (3) Über die Vorauszahlungen für Betriebskosten ist jährlich abzurechnen; dabei ist der Grundsatz der Wirtschaftlichkeit zu beachten. Die Abrechnung ist dem Mieter spätestens bis zum Ablauf des zwölften Monats nach Ende des Abrechnungszeitraums mitzuteilen. Nach Ablauf dieser Frist ist die Geltendmachung einer Nachforderung durch den Vermieter ausgeschlossen, es sei denn, der Vermieter hat die verspätete Geltendmachung nicht zu vertreten. Der Vermieter ist zu Teilabrechnungen nicht verpflichtet. Einwendungen gegen die Abrechnung hat der Mieter dem Vermieter spätestens bis zum Ablauf des zwölften Monats nach Zugang der Abrechnung mitzuteilen. Nach Ablauf dieser Frist kann der Mieter Einwendungen nicht mehr geltend machen, es sei denn, der Mieter hat die verspätete Geltendmachung nicht zu vertreten.
 
-(4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2 oder Absatz 3 abweichende Vereinbarung ist unwirksam.
+(3a) Ein Glasfaserbereitstellungsentgelt nach § 72 Absatz 1 des Telekommunikationsgesetzes hat der Mieter nur bei wirtschaftlicher Umsetzung der Maßnahme zu tragen. Handelt es sich um eine aufwändige Maßnahme im Sinne von § 72 Absatz 2 Satz 4 des Telekommunikationsgesetzes, hat der Mieter die Kosten nur dann zu tragen, wenn der Vermieter vor Vereinbarung der Glasfaserbereitstellung soweit möglich drei Angebote eingeholt und das wirtschaftlichste ausgewählt hat.
+
+(4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2, Absatz 3 oder Absatz 3a abweichende Vereinbarung ist unwirksam.
 
 # § 556a – Abrechnungsmaßstab für Betriebskosten
 
@@ -4525,7 +4529,7 @@ Der Vermieter kann vom Mieter frühestens vier Monate vor dem Wegfall der öffen
 
 (4) Gemeinden sollen Mietspiegel erstellen, wenn hierfür ein Bedürfnis besteht und dies mit einem vertretbaren Aufwand möglich ist. Die Mietspiegel und ihre Änderungen sollen veröffentlicht werden.
 
-(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über den näheren Inhalt und das Verfahren zur Aufstellung und Anpassung von Mietspiegeln zu erlassen.
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über den näheren Inhalt von Mietspiegeln und das Verfahren zu deren Erstellung und Anpassung einschließlich Dokumentation und Veröffentlichung.
 
 # § 558d – Qualifizierter Mietspiegel
 
@@ -4541,7 +4545,7 @@ Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete for
 
 # § 559 – Mieterhöhung nach Modernisierungsmaßnahmen
 
-(1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 8 Prozent der für die Wohnung aufgewendeten Kosten erhöhen.
+(1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 8 Prozent der für die Wohnung aufgewendeten Kosten erhöhen. Im Fall des § 555b Nummer 4a ist die Erhöhung nur zulässig, wenn der Mieter seinen Anbieter von öffentlich zugänglichen Telekommunikationsdiensten über den errichteten Anschluss frei wählen kann und der Vermieter kein Bereitstellungsentgelt gemäß § 72 des Telekommunikationsgesetzes als Betriebskosten umlegt oder umgelegt hat.
 
 (2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind, soweit erforderlich, durch Schätzung zu ermitteln.
 
@@ -7144,6 +7148,10 @@ Durch den Gesellschaftsvertrag verpflichten sich die Gesellschafter gegenseitig,
 # § 707 – Erhöhung des vereinbarten Beitrags
 
 Zur Erhöhung des vereinbarten Beitrags oder zur Ergänzung der durch Verlust verminderten Einlage ist ein Gesellschafter nicht verpflichtet.
+
+# §§ 707a bis 707c – (zukünftig in Kraft)
+
+(+++ §§ 707a bis 707c: Zukünftig in Kraft +++)
 
 # § 708 – Haftung der Gesellschafter
 

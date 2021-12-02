@@ -860,7 +860,7 @@ Auf Grundstücke, die von den Behörden einer beteiligten Macht zur Errichtung v
 
 # § 95
 
-Die Unternehmen nach § 2 des Post- und Telekommunikationssicherstellungsgesetzes, soweit sie durch eine Rechtsverordnung auf Grund des § 3 des vorgenannten Gesetzes verpflichtet sind, und öffentliche Eisenbahnen können nicht zu Leistungen nach diesem Gesetz herangezogen werden.
+Die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichteten Unternehmen sowie öffentliche Eisenbahnen können nicht zu Leistungen nach diesem Gesetz herangezogen werden.
 
 # § 96
 

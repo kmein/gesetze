@@ -193,7 +193,7 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 # § 9 – Zuständigkeit
 
-(1) Die oder der Bundesbeauftragte ist zuständig für die Aufsicht über die öffentlichen Stellen des Bundes, auch soweit sie als öffentlich-rechtliche Unternehmen am Wettbewerb teilnehmen, sowie über Unternehmen, soweit diese für die geschäftsmäßige Erbringung von Telekommunikationsdienstleistungen Daten von natürlichen oder juristischen Personen verarbeiten und sich die Zuständigkeit nicht bereits aus § 115 Absatz 4 des Telekommunikationsgesetzes ergibt. Die Vorschriften dieses Kapitels gelten auch für Auftragsverarbeiter, soweit sie nichtöffentliche Stellen sind, bei denen dem Bund die Mehrheit der Anteile gehört oder die Mehrheit der Stimmen zusteht und der Auftraggeber eine öffentliche Stelle des Bundes ist.
+(1) Die oder der Bundesbeauftragte ist zuständig für die Aufsicht über die öffentlichen Stellen des Bundes, auch soweit sie als öffentlich-rechtliche Unternehmen am Wettbewerb teilnehmen, sowie über Unternehmen, soweit diese für die geschäftsmäßige Erbringung von Telekommunikationsdienstleistungen Daten von natürlichen oder juristischen Personen verarbeiten und sich die Zuständigkeit nicht bereits aus § 27 des Telekommunikation-Telemedien-Datenschutz-Gesetzes ergibt. Die Vorschriften dieses Kapitels gelten auch für Auftragsverarbeiter, soweit sie nichtöffentliche Stellen sind, bei denen dem Bund die Mehrheit der Anteile gehört oder die Mehrheit der Stimmen zusteht und der Auftraggeber eine öffentliche Stelle des Bundes ist.
 
 (2) Die oder der Bundesbeauftragte ist nicht zuständig für die Aufsicht über die von den Bundesgerichten im Rahmen ihrer justiziellen Tätigkeit vorgenommenen Verarbeitungen.
 

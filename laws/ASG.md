@@ -625,7 +625,7 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 7. in Verkehrsunternehmen einschließlich Unternehmen des Personen- und Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
-8. bei der Deutschen Post AG, der Deutschen Postbank AG und der Deutschen Telekom AG sowie bei Unternehmen nach § 2 Nr. 2 und 3 des Post- und Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer Rechtsverordnung nach § 3 des vorgenannten Gesetzes verpflichtet sind,
+8. bei der Deutschen Post AG, der Deutschen Postbank AG und der Deutschen Telekom AG sowie bei Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
 
 9. bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation.
 

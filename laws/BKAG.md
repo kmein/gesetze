@@ -273,9 +273,9 @@ In anhängigen Strafverfahren steht dem Bundeskriminalamt diese Befugnis nur im 
 
 (1) Zur Erfüllung der Aufgabe als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 darf nach Maßgabe der nachfolgenden Vorschriften Auskunft verlangt werden von demjenigen, der geschäftsmäßig
 
-1. Telekommunikationsdienste erbringt oder daran mitwirkt, über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), oder
+1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), oder
 
-2. eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, über die nach § 14 des Telemediengesetzes erhobenen Daten (§ 15a Absatz 1 Satz 1 des Telemediengesetzes).
+2. eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
 
 Die Auskunft nach Satz 1 darf nur verlangt werden, sofern im Einzelfall
 
@@ -305,9 +305,9 @@ a) die für die Verhütung der Straftat zuständige Polizeibehörde zu ermitteln
 
 b) ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des polizeilichen Dienstverkehrs zur Verhütung der Straftat zu erledigen.
 
-(2) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn im Einzelfall die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
+(2) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn im Einzelfall die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 
-(3) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3, § 113c Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes) mit der Maßgabe, dass sich das Auskunftsverlangen in den Fällen des Absatzes 1 Satz 2 Nummer 4 und 5 auf eine schwere Straftat nach § 100a Absatz 2 der Strafprozessordnung bezieht. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+(3) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) mit der Maßgabe, dass sich das Auskunftsverlangen in den Fällen des Absatzes 1 Satz 2 Nummer 4 und 5 auf eine schwere Straftat nach § 100a Absatz 2 der Strafprozessordnung bezieht. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 
 (4) Auskunftsverlangen nach Absatz 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung getroffen werden. In diesem Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung, wenn die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder haben muss oder wenn die Nutzung der Daten bereits durch eine gerichtliche Entscheidung gestattet wird. Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen.
 
@@ -319,13 +319,13 @@ b) ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des poli
 
 # § 10a – Erhebung von Nutzerdaten zur Identifizierung
 
-(1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes erhobenen Daten (§ 15c Absatz 1 des Telemediengesetzes) verlangen, sofern im Einzelfall
+(1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Nutzungsdaten nach § 2 Absatz 2 Nummer 3 Buchstabe a des Telekommunikation-Telemedien-Datenschutz-Gesetzes verlangen, sofern im Einzelfall
 
 1. dem Bundeskriminalamt der Inhalt der Nutzung des Telemediendienstes bereits bekannt ist,
 
 2. eine erhebliche Gefahr für die öffentliche Sicherheit vorliegt oder zureichende tatsächliche Anhaltspunkte für eine Straftat vorliegen,
 
-3. die hierauf bezogenen Daten im Sinne des § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes zur Identifizierung des Nutzers erforderlich sind und
+3. die hierauf bezogenen Daten im Sinne des § 2 Absatz 2 Nummer 3 Buchstabe a des Telekommunikation-Telemedien-Datenschutz-Gesetzes zur Identifizierung des Nutzers erforderlich sind und
 
 4. die Daten erforderlich sind, die zuständige Strafverfolgungsbehörde oder zuständige Polizeibehörde zu ermitteln, um zur Ermöglichung der Strafverfolgung oder zur Ermöglichung der Gefahrenabwehr die Identität des Nutzers und den Inhalt der Nutzung des Telemediendienstes an diese weiterzuleiten.
 
@@ -971,7 +971,7 @@ und die Verhütung dieser Straftaten auf andere Weise aussichtslos oder wesentli
 
 # § 40 – Bestandsdatenauskunft
 
-(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), sofern
+(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), sofern
 
 1. dies im Einzelfall zur Abwehr einer Gefahr erforderlich ist oder
 
@@ -983,11 +983,11 @@ b) das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begr�
 
 und die zu erhebenden Daten zur Verhütung dieser Straftat erforderlich sind.
 
-(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 14 des Telemediengesetzes erhobenen Daten verlangt werden (§ 15a Absatz 1 Satz 1 und § 15b Absatz 1 Satz 1 des Telemediengesetzes).
+(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
 
-(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach § 14 Absatz 1 des Telemediengesetzes erhobene Passwörter oder auf andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 15b Absatz 1 Satz 1 des Telemediengesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung einer Person oder für den Bestand des Bundes oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
+(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach als Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung einer Person oder für den Bestand des Bundes oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der Menschen berührt, und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 
-(4) Die Auskunft nach den Absätzen 1 bis 3 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes). Die Auskunft nach den Absätzen 1 bis 3 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+(4) Die Auskunft nach den Absätzen 1 bis 3 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes). Die Auskunft nach den Absätzen 1 bis 3 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes darf nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 
 (5) Auskunftsverlangen nach Absatz 3 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die Präsidentin oder den Präsidenten des Bundeskriminalamtes oder ihre oder seine Vertretung getroffen werden. In diesem Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung, wenn die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder haben muss oder wenn die Nutzung der Daten bereits durch eine gerichtliche Entscheidung gestattet wird. Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. Die Sätze 2 bis 5 gelten nicht in den Fällen des Absatzes 3 Satz 2. Werden dem Bundeskriminalamt aufgrund eines Auskunftsersuchens nach Absatz 3 Satz 2 Passwörter oder andere Daten unverschlüsselt beauskunftet, so informiert das Bundeskriminalamt hierüber die jeweils zuständige Datenschutzaufsichtsbehörde.
 
@@ -1396,7 +1396,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 # § 52 – Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
 
-(1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person Verkehrsdaten (§ 96 Absatz 1 des Telekommunikationsgesetzes) erheben zu
+(1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) erheben zu
 
 1. den entsprechend § 17 oder § 18 des Bundespolizeigesetzes Verantwortlichen zur Abwehr einer dringenden Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder für Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem Wert, deren Erhaltung im öffentlichen Interesse geboten ist,
 
@@ -1410,7 +1410,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 wenn die Abwehr der Gefahr oder Verhütung der Straftaten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
 
-(2) Unter den Voraussetzungen des Absatzes 1 kann das Bundeskriminalamt von denjenigen, die geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithalten oder den Zugang zur Nutzung vermitteln, Auskunft über Nutzungsdaten (§ 15 Absatz 1 des Telemediengesetzes) verlangen. Die Auskunft kann auch über zukünftige Nutzungsdaten angeordnet werden. Der Diensteanbieter hat die Daten dem Bundeskriminalamt unverzüglich auf dem vom Bundeskriminalamt bestimmten Weg zu übermitteln.
+(2) Unter den Voraussetzungen des Absatzes 1 kann das Bundeskriminalamt von denjenigen, die geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithalten oder den Zugang zur Nutzung vermitteln, Auskunft über Nutzungsdaten (§ 2 Absatz 2 Nummer 3 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) verlangen. Die Auskunft kann auch über zukünftige Nutzungsdaten angeordnet werden. Der Diensteanbieter hat die Daten dem Bundeskriminalamt unverzüglich auf dem vom Bundeskriminalamt bestimmten Weg zu übermitteln.
 
 (3) § 51 Absatz 3 bis 6 gilt entsprechend mit der Maßgabe, dass an die Stelle der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung die zuständige Abteilungsleitung oder deren Vertretung tritt. Abweichend von § 51 Absatz 4 Nummer 2 und Absatz 5 Satz 1 Nummer 2 genügt eine räumlich und zeitlich hinreichende Bezeichnung der Telekommunikation, sofern anderenfalls die Erreichung des Zwecks der Maßnahme aussichtslos oder wesentlich erschwert wäre.
 
@@ -1675,7 +1675,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 # § 63a – Bestandsdatenauskunft
 
-(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
+(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
 1. zur Abwehr einer Gefahr für eine zu schützende Person oder für eine zu schützende Räumlichkeit nach § 6 oder
 
@@ -1683,9 +1683,9 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 3. zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung einer zu schützenden Person oder zum Schutz einer zu schützenden Räumlichkeit nach § 6, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine Straftat gegen eines dieser Rechtsgüter der zu schützenden Person oder gegen eine zu schützende Räumlichkeit begehen wird.
 
-(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 14 des Telemediengesetzes erhobenen Daten verlangt werden (§ 15a Absatz 1 Satz 1 und § 15b Absatz 1 Satz 1 des Telemediengesetzes).
+(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
 
-(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach § 14 Absatz 1 des Telemediengesetzes erhobene Passwörter oder auf andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 15b Absatz 1 Satz 1 des Telemediengesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung der zu schützenden Person oder für den Bestand des Bundes oder eines Landes oder die freiheitlich demokratische Grundordnung und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
+(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach als Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung der zu schützenden Person oder für den Bestand des Bundes oder eines Landes oder die freiheitlich demokratische Grundordnung und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
 
 1. die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder haben muss, oder
 
@@ -1693,13 +1693,13 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. Zuständig ist das Amtsgericht, in dessen Bezirk das Bundeskriminalamt seinen Sitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Werden dem Bundeskriminalamt aufgrund eines Auskunftsersuchens nach Satz 2 Passwörter oder andere Daten unverschlüsselt beauskunftet, so informiert das Bundeskriminalamt hierüber die jeweils zuständige Datenschutzaufsichtsbehörde.
 
-(4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes) in den Fällen von
+(4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) in den Fällen von
 
 1. Absatz 1 Nummer 1 bei Gefahr der Begehung einer Straftat oder
 
 2. Absatz 1 Nummer 2 oder 3 zum Schutz eines in Absatz 1 Nummer 3 genannten Rechtsguts.
 
-Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
@@ -1765,7 +1765,7 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 # § 66a – Bestandsdatenauskunft
 
-(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
+(1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
 1. zur Abwehr einer Gefahr für eine der in § 7 genannten Personen oder
 
@@ -1773,9 +1773,9 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 3. zum Schutz von Leib, Leben, Freiheit oder sexueller Selbstbestimmung einer der in § 7 genannten Personen, wenn das individuelle Verhalten einer Person die konkrete Wahrscheinlichkeit begründet, dass sie in einem übersehbaren Zeitraum eine Straftat gegen eines dieser Rechtsgüter der zu schützenden Person begehen wird.
 
-(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 14 des Telemediengesetzes erhobenen Daten verlangt werden (§ 15a Absatz 1 Satz 1 und § 15b Absatz 1 Satz 1 des Telemediengesetzes).
+(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes).
 
-(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach § 14 Absatz 1 des Telemediengesetzes erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 15b Absatz 1 Satz 1 des Telemediengesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung einer der in § 7 genannten Personen und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
+(3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach als Bestandsdaten erhobene Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung einer der in § 7 genannten Personen und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
 
 1. die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder haben muss, oder
 
@@ -1783,13 +1783,13 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen. Zuständig ist das Amtsgericht, in dessen Bezirk das Bundeskriminalamt seinen Sitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Werden dem Bundeskriminalamt aufgrund eines Auskunftsersuchens nach Satz 2 Passwörter oder andere Daten unverschlüsselt beauskunftet, so informiert das Bundeskriminalamt hierüber die jeweils zuständige Datenschutzaufsichtsbehörde.
 
-(4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes) in den Fällen von
+(4) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 174 Absatz 1 Satz 3 des Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) in den Fällen von
 
 1. Absatz 1 Nummer 1 bei Gefahr der Begehung einer Straftat oder
 
 2. Absatz 1 Nummer 2 oder 3 zum Schutz eines in Absatz 1 Nummer 3 genannten Rechtsguts.
 
-Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 15a Absatz 1 Satz 3 und 4 des Telemediengesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 

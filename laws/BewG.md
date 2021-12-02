@@ -2136,6 +2136,8 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 (2) Die für die Wertermittlung erforderlichen Daten des Gutachterausschusses im Sinne des § 193 Absatz 5 Satz 2 des Baugesetzbuchs sind bei den Bewertungen nach den §§ 182 bis 196 für längstens zwei Jahre ab dem Ende des Kalenderjahres maßgeblich, in dem der vom Gutachterausschuss zugrunde gelegte Auswertungszeitraum endet. Soweit sich die maßgeblichen Wertverhältnisse nicht wesentlich geändert haben, können die Daten auch über einen längeren Zeitraum als zwei Jahre hinaus angewendet werden.
 
+(+++ § 177: Zur Anwendung vgl. § 265 +++)
+
 # § 178 – Begriff der unbebauten Grundstücke
 
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn den zukünftigen Bewohnern oder sonstigen Benutzern zugemutet werden kann, sie zu benutzen; die Abnahme durch die Bauaufsichtsbehörde ist nicht entscheidend.
@@ -2146,7 +2148,7 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
 
-(+++ § 179: Zur Anwendung vgl. § 265 Abs. 3 +++)
+(+++ § 179: Zur Anwendung vgl. § 265 +++)
 
 # § 180 – Begriff der bebauten Grundstücke
 
@@ -2220,6 +2222,8 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (3) Besonderheiten, insbesondere die den Wert beeinflussenden Belastungen privatrechtlicher und öffentlich-rechtlicher Art, werden im Vergleichswertverfahren nach den Absätzen 1 und 2 nicht berücksichtigt.
 
+(+++ § 183: Zur Anwendung vgl. § 265 +++)
+
 # § 184 – Bewertung im Ertragswertverfahren
 
 (1) Bei Anwendung des Ertragswertverfahrens ist der Wert der Gebäude (Gebäudeertragswert) getrennt von dem Bodenwert auf der Grundlage des Ertrags nach § 185 zu ermitteln.
@@ -2254,6 +2258,8 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (2) Die Bewirtschaftungskosten sind nach Erfahrungssätzen anzusetzen. Anzuwenden sind die Erfahrungssätze, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt. Soweit von den Gutachterausschüssen keine geeigneten Erfahrungssätze zur Verfügung stehen, ist von den pauschalierten Bewirtschaftungskosten nach Anlage 23 auszugehen.
 
+(+++ § 187: Zur Anwendung vgl. § 265 +++)
+
 # § 188 – Liegenschaftszinssatz
 
 (1) Der Liegenschaftszinssatz ist der Zinssatz, mit dem der Verkehrswert von Grundstücken im Durchschnitt marktüblich verzinst wird.
@@ -2267,6 +2273,8 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 3. 6 Prozent für gemischt genutzte Grundstücke mit einem gewerblichen Anteil von mehr als 50 Prozent, berechnet nach der Wohn- und Nutzfläche, und
 
 4. 6,5 Prozent für Geschäftsgrundstücke.
+
+(+++ § 188: Zur Anwendung vgl. § 265 +++)
 
 # § 189 – Bewertung im Sachwertverfahren
 
@@ -2293,6 +2301,8 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 (1) Als Wertzahlen im Sinne des § 189 Abs. 3 sind die Sachwertfaktoren anzuwenden, die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs für das Sachwertverfahren bei der Verkehrswertermittlung abgeleitet wurden. Anzuwenden sind die Sachwertfaktoren, die von den Gutachterausschüssen für den letzten Auswertungszeitraum abgeleitet werden, der vor dem Kalenderjahr endet, in dem der Bewertungsstichtag liegt.
 
 (2) Soweit von den Gutachterausschüssen keine geeigneten Sachwertfaktoren zur Verfügung stehen, sind die in der Anlage 25 bestimmten Wertzahlen zu verwenden.
+
+(+++ § 191: Zur Anwendung vgl. § 265 +++)
 
 # § 192 – Bewertung in Erbbaurechtsfällen
 
@@ -2327,6 +2337,8 @@ Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts
 5. 6,5 Prozent für Geschäftsgrundstücke und Teileigentum.
 
 (5) Der Gebäudewertanteil ist bei der Bewertung des bebauten Grundstücks im Ertragswertverfahren der Gebäudeertragswert nach § 185, bei der Bewertung im Sachwertverfahren der Gebäudesachwert nach § 190. Ist der bei Ablauf des Erbbaurechts verbleibende Gebäudewert nicht oder nur teilweise zu entschädigen, ist der Gebäudewertanteil des Erbbaurechts um den Gebäudewertanteil des Erbbaugrundstücks nach § 194 Abs. 4 zu mindern.
+
+(+++ § 193: Zur Anwendung vgl. § 265 +++)
 
 # § 194 – Bewertung des Erbbaugrundstücks
 
@@ -2365,6 +2377,8 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 (2) Als Nachweis des niedrigeren gemeinen Werts kann regelmäßig ein Gutachten des zuständigen Gutachterausschusses im Sinne der §§ 192 ff. des Baugesetzbuchs oder von Personen, die von einer staatlichen, staatlich anerkannten oder nach DIN EN ISO/IEC 17024 akkreditierten Stelle als Sachverständige oder Gutachter für die Wertermittlung von Grundstücken bestellt oder zertifiziert worden sind, dienen.
 
 (3) Als Nachweis des niedrigeren gemeinen Werts kann ein im gewöhnlichen Geschäftsverkehr innerhalb eines Jahres vor oder nach dem Bewertungsstichtag zustande gekommener Kaufpreis über das zu bewertende Grundstück dienen, wenn die maßgeblichen Verhältnisse hierfür gegenüber den Verhältnissen am Bewertungsstichtag unverändert sind.
+
+(+++ § 198: Zur Anwendung vgl. § 265 +++)
 
 # § 199 – Anwendung des vereinfachten Ertragswertverfahrens
 

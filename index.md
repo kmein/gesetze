@@ -3641,7 +3641,6 @@
 - [MetTechAusbV](laws/MetTechAusbV.md) Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik*
 - [MFBAProMediaFPrV](laws/MFBAProMediaFPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media
 - [MFKRegV](laws/MFKRegV.md) Verordnung über das Register für Musterfeststellungsklagen
-- [MfnvV](laws/MfnvV.md) Verordnung zur Vorausschau zum Mobilfunknetzausbau nach dem Telekommunikationsgesetz
 - [MForschG](laws/MForschG.md) Gesetz über die Durchführung wissenschaftlicher Meeresforschung
 - [MfSÜPrRLBek](laws/MfSÜPrRLBek.md) Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
 - [MfSÜPrRLÜbernBek](laws/MfSÜPrRLÜbernBek.md) Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
@@ -4690,6 +4689,7 @@
 - [RSFAV](laws/RSFAV.md) Verordnung über die Aufgaben und Befugnisse der Behörde zur Aufsicht über den Reisesicherungsfonds sowie über die Verwaltung und Aufbewahrung des Fondsvermögens
 - [RSFV](laws/RSFV.md) Verordnung über die Geschäftsorganisation des Reisesicherungsfonds und die Voraussetzungen der Erteilung der Erlaubnis
 - [RSG](laws/RSG.md) Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds
+- [RSGAbsEntgV](laws/RSGAbsEntgV.md) Verordnung über die Erhebung eines Entgelts für die staatliche Absicherung nach dem Reisesicherungsfondsgesetz
 - [RSiedlG](laws/RSiedlG.md) Reichssiedlungsgesetz
 - [RSiedlGABest](laws/RSiedlGABest.md) Ausführungsbestimmungen zum Reichssiedlungsgesetz
 - [RSiedlGErgG 1935](laws/RSiedlGErgG_1935.md) Gesetz zur Ergänzung des Reichssiedlungsgesetzes
@@ -4718,6 +4718,7 @@
 - [RVBeitrSBek 2017](laws/RVBeitrSBek_2017.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2017
 - [RVBeitrSBek 2020](laws/RVBeitrSBek_2020.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2020
 - [RVBeitrSBek 2021](laws/RVBeitrSBek_2021.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2021
+- [RVBeitrSBek 2022](laws/RVBeitrSBek_2022.md) Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2022
 - [RVBund/KnErG](laws/RVBund_KnErG.md) Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 - [RVBundDiszRAnO](laws/RVBundDiszRAnO.md) Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
 - [RVChilAbkG](laws/RVChilAbkG.md) Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
@@ -5453,6 +5454,7 @@
 - [TechKontrollV](laws/TechKontrollV.md) Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße
 - [TEHG](laws/TEHG.md) Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen*)
 - [TeleFinV 2021](laws/TeleFinV_2021.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2021
+- [TeleFinV 2022](laws/TeleFinV_2022.md) Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2022
 - [TeleGebV](laws/TeleGebV.md) Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik
 - [TelekAGSa](laws/TelekAGSa.md) Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 - [TelekomAZV](laws/TelekomAZV.md) Verordnung über die Arbeitszeit der Beamtinnen und Beamten bei der Deutschen Telekom AG
@@ -5530,6 +5532,7 @@
 - [TKabelVtrAG](laws/TKabelVtrAG.md) Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen Telegraphenkabel vom 14. März 1884
 - [TKEMVFuAÜbertrV](laws/TKEMVFuAÜbertrV.md) Verordnung zur Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz, dem Elektromagnetische-Verträglichkeit-Gesetz und dem Funkanlagengesetz
 - [TKG](laws/TKG.md) Telekommunikationsgesetz
+- [TKModG](laws/TKModG.md) Gesetz zur Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts *
 - [TKonfAusbV 2010](laws/TKonfAusbV_2010.md) Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)
 - [TKrMeldpflV 1983](laws/TKrMeldpflV_1983.md) Verordnung über meldepflichtige Tierkrankheiten
 - [TKTransparenzV](laws/TKTransparenzV.md) Verordnung zur Förderung der Transparenz auf dem Telekommunikationsmarkt
@@ -5575,6 +5578,7 @@
 - [TSEVorsorgV](laws/TSEVorsorgV.md) Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien
 - [TSG](laws/TSG.md) Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen
 - [TspV](laws/TspV.md) Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren
+- [TTDSG](laws/TTDSG.md) Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien *
 - [TÜPrKostO1992GebVAnpV](laws/TÜPrKostO1992GebVAnpV.md) Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVAnpV 2](laws/TÜPrKostO1992GebVAnpV_2.md) Zweite Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen
 - [TÜPrKostO1992GebVUmstV](laws/TÜPrKostO1992GebVUmstV.md) Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro
@@ -5985,6 +5989,7 @@
 - [WasKwVÄndG](laws/WasKwVÄndG.md) Gesetz zur Änderung der Verordnung über die steuerliche Begünstigung von Wasserkraftwerken
 - [WasMotRV](laws/WasMotRV.md) Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen
 - [WasserMeistPrV](laws/WasserMeistPrV.md) Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wassermeister/Geprüfte Wassermeisterin
+- [WasserstoffNEV](laws/WasserstoffNEV.md) Verordnung über die Kosten und Entgelte für den Zugang zu Wasserstoffnetzen
 - [WasSiG](laws/WasSiG.md) Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung
 - [WasSiG§13V](laws/WasSiG§13V.md) Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 13 des Wassersicherstellungsgesetzes
 - [WasSkiV 1990](laws/WasSkiV_1990.md) Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen

@@ -39,7 +39,7 @@ Die Verarbeitung ist auch zulässig, wenn der Betroffene eingewilligt hat.
 
 2. zum Schutz seiner Mitarbeiter, Einrichtungen, Gegenstände oder Quellen gegen sicherheitsgefährdende oder geheimdienstliche Tätigkeiten.
 
-§ 8a Absatz 2 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe anzuwenden, dass an die Stelle der schwerwiegenden Gefahren für die in § 3 Absatz 1 des Bundesverfassungsschutzgesetzes genannten Schutzgüter
+§ 8a Absatz 1 und 2 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe anzuwenden, dass an die Stelle der schwerwiegenden Gefahren für die in § 3 Absatz 1 des Bundesverfassungsschutzgesetzes genannten Schutzgüter
 
 1. im Falle des Satzes 1 Nummer 1 schwerwiegende Gefahren für die in § 5 Absatz 1 Satz 3 Nummer 1 bis 4 und 6 des Artikel 10-Gesetzes genannten Gefahrenbereiche und
 
@@ -47,7 +47,7 @@ Die Verarbeitung ist auch zulässig, wenn der Betroffene eingewilligt hat.
 
 treten. § 8b Absatz 1 bis 9 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
 
-(2) Anordnungen nach § 8a Absatz 2 des Bundesverfassungsschutzgesetzes dürfen sich nur gegen Personen richten, bei denen auf Grund tatsächlicher Anhaltspunkte davon auszugehen ist, dass sie an der Schaffung oder Aufrechterhaltung einer in Absatz 1 Satz 2 genannten Gefahr beteiligt sind, sowie gegen die in § 8a Absatz 3 Nummer 2 des Bundesverfassungsschutzgesetzes bezeichneten Personen.
+(2) Anordnungen nach § 8a Absatz 1 und 2 des Bundesverfassungsschutzgesetzes dürfen sich nur gegen Personen richten, bei denen auf Grund tatsächlicher Anhaltspunkte davon auszugehen ist, dass sie an der Schaffung oder Aufrechterhaltung einer in Absatz 1 Satz 2 genannten Gefahr beteiligt sind, sowie gegen die in § 8a Absatz 3 Nummer 2 des Bundesverfassungsschutzgesetzes bezeichneten Personen.
 
 (3) Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -55,9 +55,9 @@ treten. § 8b Absatz 1 bis 9 des Bundesverfassungsschutzgesetzes ist mit der Ma�
 
 (1) Soweit dies zur politischen Unterrichtung der Bundesregierung oder zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung erforderlich ist, darf der Bundesnachrichtendienst Auskunft verlangen von demjenigen, der geschäftsmäßig
 
-1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach den §§ 95 und 111 des Telekommunikationsgesetzes,
+1. Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 3 Nummer 6 und § 172 des Telekommunikationsgesetzes,
 
-2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 14 Absatz 1 des Telemediengesetzes.
+2. Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes.
 
 Zur Auskunft sind Unternehmen verpflichtet, die in Deutschland
 
@@ -169,7 +169,7 @@ Suchbegriffe, die zur gezielten Erfassung von Unionsbürgerinnen und Unionsbürg
 
 # § 8 – Pflichten der Anbieter von Telekommunikationsdiensten
 
-(1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat dem Bundesnachrichtendienst auf Anordnung Auskunft über die näheren Umstände der nach Wirksamwerden der Anordnung durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur Übermittlung auf dem Telekommunikationsweg anvertraut sind, auszuhändigen sowie die Überwachung und Aufzeichnung der Telekommunikation zu ermöglichen. Die §§ 3 und 4 bleiben unberührt. Ob und in welchem Umfang das verpflichtete Telekommunikationsunternehmen Vorkehrungen für die technische und organisatorische Umsetzung der Überwachungsmaßnahmen zu treffen hat, bestimmt sich nach § 110 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung.
+(1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat dem Bundesnachrichtendienst auf Anordnung Auskunft über die näheren Umstände der nach Wirksamwerden der Anordnung durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur Übermittlung auf dem Telekommunikationsweg anvertraut sind, auszuhändigen sowie die Überwachung und Aufzeichnung der Telekommunikation zu ermöglichen. Die §§ 3 und 4 bleiben unberührt. Ob und in welchem Umfang das verpflichtete Telekommunikationsunternehmen Vorkehrungen für die technische und organisatorische Umsetzung der Überwachungsmaßnahmen zu treffen hat, bestimmt sich nach § 170 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung.
 
 (2) Das nach Absatz 1 verpflichtete Unternehmen hat vor Durchführung einer beabsichtigten Maßnahme unverzüglich die Personen, die mit der Durchführung der Maßnahme betraut werden sollen,
 
