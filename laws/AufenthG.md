@@ -2857,7 +2857,7 @@ c) auf Ersuchen der Ausländerbehörde, die der Erteilung des Visums zugestimmt 
 
 (6) Das Bundesministerium des Innern, für Bau und Heimat oder die von ihm bestimmte Stelle entscheidet im Benehmen mit dem Auswärtigen Amt über die Anerkennung von Pässen und Passersatzpapieren (§ 3 Abs. 1); die Entscheidungen ergehen als Allgemeinverfügung und können im Bundesanzeiger bekannt gegeben werden.
 
-§ 71 Abs. 1 Satz 4 idF d. G v. 25.2.2008 I 162: Schleswig-Holstein - Abweichung durch § 7 Landesaufnahmegesetz (LAufnG SH) v. 4.11.2021 GVOBl. Schl.-H. S. 1282 mWv 19.11.2021 (vgl. BGBl. I 2021, 4976)
+§ 71 Abs. 1 Satz 4 idF d. G v. 25.2.2008 I 162: Schleswig-Holstein - Abweichung durch § 7 des Gesetzes über die Aufnahme von ausländischen Flüchtlingen und Spätaussiedlerinnen und Spätaussiedlern sowie zur Durchführung des Asylbewerberleistungsgesetzes (Landesaufnahmegesetz) (LAufnG SH) v. 4.11.2021 GVOBl. Schl.-H. S. 1282 mWv 19.11.2021 (vgl. BGBl. I 2021, 4976)
 
 # § 71a – Zuständigkeit und Unterrichtung
 

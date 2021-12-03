@@ -1,4 +1,4 @@
-% Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk  (Schneidwerkzeugmechanikermeisterverordnung - SchneidwMechMstrV)
+% Verordnung über die Meisterprüfung in den Teilen I und II im Präzisionswerkzeugmechaniker-Handwerk  (Präzisionswerkzeugmechanikermeisterverordnung - PräzwMechMstrV)
 % Ausfertigungsdatum: 22.11.2011
  
 # Eingangsformel

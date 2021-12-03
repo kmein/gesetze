@@ -7,13 +7,13 @@ Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmac
 
 # § 1 – Gegenstand
 
-Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die spezifischen Verfahrensregelungen im Betonstein- und Terrazzohersteller-Handwerk.
+Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die spezifischen Verfahrensregelungen im Werkstein- und Terrazzohersteller-Handwerk.
 
 # § 2 – Meisterprüfungsberufsbild
 
-In den Teilen I und II der Meisterprüfung im Betonstein- und Terrazzohersteller-Handwerk hat der Prüfling die berufliche Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
+In den Teilen I und II der Meisterprüfung im Werkstein- und Terrazzohersteller-Handwerk hat der Prüfling die berufliche Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
-1. einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
+1. einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren und dabei technische, kaufmännische und personalwirtschaftliche Entscheidungen treffen und begründen, insbesondere unter Berücksichtigung
 
 a) der Kostenstrukturen,
 
@@ -103,7 +103,7 @@ m) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 # § 3 – Ziel und Gliederung der Prüfung in Teil I
 
-(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er dabei Tätigkeiten des Betonstein- und Terrazzohersteller-Handwerks meisterhaft verrichtet.
+(1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er dabei Tätigkeiten des Werkstein- und Terrazzohersteller-Handwerks meisterhaft verrichtet.
 
 (2) Die Prüfung in Teil I gliedert sich in ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5. Das Meisterprüfungsprojekt und das Fachgespräch bilden einen Prüfungsbereich.
 
@@ -149,7 +149,7 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 3. sein Vorgehen bei der Planung und Durchführung des Meisterprüfungsprojekts zu begründen sowie
 
-4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Betonstein- und Terrazzohersteller-Handwerk zu berücksichtigen.
+4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei aktuelle Entwicklungen im Werkstein- und Terrazzohersteller-Handwerk zu berücksichtigen.
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
@@ -165,13 +165,13 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 # § 7 – Ziel und Gliederung der Prüfung in Teil II
 
-(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die besonderen fachtheoretischen Kenntnisse im Betonstein- und Terrazzohersteller-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
+(1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die besonderen fachtheoretischen Kenntnisse im Werkstein- und Terrazzohersteller-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
-1. nach Maßgabe des § 8 „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“,
+1. nach Maßgabe des § 8 „Anforderungen von Kunden eines Werkstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“,
 
-2. nach Maßgabe des § 9 „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ und
+2. nach Maßgabe des § 9 „Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ und
 
-3. nach Maßgabe des § 10 „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“.
+3. nach Maßgabe des § 10 „Einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren“.
 
 (2) Der Prüfling hat in jedem der drei Handlungsfelder mindestens eine fallbezogene Aufgabe zu bearbeiten, die den Anforderungen des Absatzes 1 entspricht. Bei jeder Aufgabenstellung können die Qualifikationen der drei Handlungsfelder handlungsfeldübergreifend verknüpft werden.
 
@@ -179,11 +179,11 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 (4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
 
-# § 8 – Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+# § 8 – Handlungsfeld „Anforderungen von Kunden eines Werkstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“
 
-(1) Im Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betonstein- und Terrazzohersteller-Betrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er ökologische, ökonomische Nachhaltigkeitsgesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll die in Absatz 2 Nummer 1 und 2 genannten Qualifikationen verknüpfen.
+(1) Im Handlungsfeld „Anforderungen von Kunden eines Werkstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Werkstein- und Terrazzohersteller-Betrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er ökologische, ökonomische Nachhaltigkeitsgesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll die in Absatz 2 Nummer 1 und 2 genannten Qualifikationen verknüpfen.
 
-(2) Das Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
+(2) Das Handlungsfeld „Anforderungen von Kunden eines Werkstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
 1. Kundenwünsche und die Rahmenbedingungen zu deren Erfüllung analysieren, dokumentieren und bewerten sowie daraus Anforderungen ableiten, hierzu zählen insbesondere:
 
@@ -219,11 +219,11 @@ d) Angebotsunterlagen vorbereiten, Angebote erstellen und
 
 e) Angebotspositionen und Vertragsbedingungen gegenüber Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
-# § 9 – Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
+# § 9 – Handlungsfeld „Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
 
-(1) Im Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er wirtschaftliche, ökologische und ressourceneffiziente Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+(1) Im Handlungsfeld „Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er wirtschaftliche, ökologische und ressourceneffiziente Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-(2) Das Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
+(2) Das Handlungsfeld „Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ besteht aus folgenden Qualifikationen:
 
 1. das Erbringen der Leistungen vorbereiten, hierzu zählen insbesondere:
 
@@ -263,11 +263,11 @@ g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung 
 
 h) Serviceleistungen anlässlich der Übergabe erläutern und bewerten.
 
-# § 10 – Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“
+# § 10 – Handlungsfeld „Einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren“
 
-(1) Im Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betonstein- und Terrazzohersteller-Betrieb unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
+(1) Im Handlungsfeld „Einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Werkstein- und Terrazzohersteller-Betrieb unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
-(2) Das Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“ besteht aus folgenden Qualifikationen:
+(2) Das Handlungsfeld „Einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 1. betriebliche Kosten analysieren und für die Preisgestaltung und Effizienzsteigerung nutzen, hierzu zählen insbesondere:
 
@@ -311,7 +311,7 @@ c) Methoden zur Anleitung von Personal erläutern,
 
 d) Qualifikationsbedarfe ermitteln und
 
-e) Maßnahmen zur Qualifizierung, auch unter Berücksichtigung des Berufslaufbahnkonzepts im Betonstein- und Terrazzohersteller-Handwerk, planen und umsetzen,
+e) Maßnahmen zur Qualifizierung, auch unter Berücksichtigung des Berufslaufbahnkonzepts im Werkstein- und Terrazzohersteller-Handwerk, planen und umsetzen,
 
 5. Betriebs- und Lagerausstattung sowie Abläufe planen, hierzu zählen insbesondere:
 

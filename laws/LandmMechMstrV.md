@@ -1,4 +1,4 @@
-% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk  (Landmaschinenmechanikermeisterverordnung - LandmMechMstrV)
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk  (Land- und Baumaschinenmechatronikermeisterverordnung - LandBauMechMstrV)
 % Ausfertigungsdatum: 05.04.2001
  
 # Eingangsformel
