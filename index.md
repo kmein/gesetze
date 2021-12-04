@@ -703,7 +703,6 @@
 - [BetrVGDV1WO](laws/BetrVGDV1WO.md) Erste Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung - WO)
 - [BetrVRG](laws/BetrVRG.md) Gesetz zur Reform des Betriebsverfassungsgesetzes
 - [BetrWHwOPrV](laws/BetrWHwOPrV.md) Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
-- [BetTerHMstrV](laws/BetTerHMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Betonstein- und Terrazzohersteller-Handwerk
 - [BeurkG](laws/BeurkG.md) Beurkundungsgesetz
 - [BevStatG](laws/BevStatG.md) Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes
 - [BEVVG](laws/BEVVG.md) Gesetz über die Eisenbahnverkehrsverwaltung des Bundes
@@ -3299,8 +3298,8 @@
 - [LärmschutzV](laws/LärmschutzV.md) Landeplatz-Lärmschutz-Verordnung
 - [LärmVibrationsArbSchV](laws/LärmVibrationsArbSchV.md) Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen
 - [LAG](laws/LAG.md) Gesetz über den Lastenausgleich
+- [LandBauMechMstrV](laws/LandBauMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
 - [LandBauMTAusbV 2008](laws/LandBauMTAusbV_2008.md) Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin
-- [LandmMechMstrV](laws/LandmMechMstrV.md) Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk
 - [LAnzV](laws/LAnzV.md) Verordnung zur Konkretisierung von Art, Umfang und Form der Mitteilungen und Benachrichtigungen gemäß Artikel 17 Absatz 5, 6, 9 und 10 der Verordnung (EU) Nr. 236/2012
 - [LAP-gbautDV](laws/LAP-gbautDV.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes
 - [LAP-gehDAAV 2004](laws/LAP-gehDAAV_2004.md) Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Auswärtigen Dienst
@@ -4462,6 +4461,7 @@
 - [PostZahlÜbk](laws/PostZahlÜbk.md) Postzahlungsdienste-Übereinkommen
 - [PostZtgAbk 1984](laws/PostZtgAbk_1984.md) Postzeitungsabkommen
 - [PpUGV](laws/PpUGV.md) Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021
+- [PräzwMechMstrV](laws/PräzwMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Präzisionswerkzeugmechaniker-Handwerk
 - [PreisAngG](laws/PreisAngG.md) Gesetz über die Preisangaben
 - [PreisG](laws/PreisG.md) Übergangsgesetz über Preisbildung und Preisüberwachung
 - [PreisLS](laws/PreisLS.md) Leitsätze für die Preisermittlung auf Grund von Selbstkosten (Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953)
@@ -4840,7 +4840,6 @@
 - [SchlTSchÜbk](laws/SchlTSchÜbk.md) Europäisches Übereinkommen über den Schutz von Schlachttieren
 - [SchlTSchÜbkG](laws/SchlTSchÜbkG.md) Gesetz zu dem Europäischen Übereinkommen vom 10. Mai 1979 über den Schutz von Schlachttieren
 - [SchlussFinG](laws/SchlussFinG.md) Gesetz zur Errichtung eines Sondervermögens „Vorsorge für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
-- [SchneidwMechMstrV](laws/SchneidwMechMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
 - [SchnellLG](laws/SchnellLG.md) Gesetz über die Bereitstellung flächendeckender Schnellladeinfrastruktur für reine Batterieelektrofahrzeuge
 - [SchoMstrV](laws/SchoMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Schornsteinfeger-Handwerk
 - [SchRegDV](laws/SchRegDV.md) Verordnung zur Durchführung der Schiffsregisterordnung
@@ -6047,6 +6046,7 @@
 - [WeizenratVorRV](laws/WeizenratVorRV.md) Verordnung über die Gewährung von Vorrechten und Befreiungen an den Internationalen Weizenrat nach dem Weizenhandels-Übereinkommen von 1971
 - [WerkeRegV](laws/WerkeRegV.md) Verordnung über das Register anonymer und pseudonymer Werke
 - [WerkstoffPrAusbV](laws/WerkstoffPrAusbV.md) Verordnung über die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin*
+- [WerkstTerHMstrV](laws/WerkstTerHMstrV.md) Verordnung über die Meisterprüfung in den Teilen I und II im Werkstein- und Terrazzohersteller-Handwerk
 - [WerraSalzGAufhG](laws/WerraSalzGAufhG.md) Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra
 - [WertAusglG](laws/WertAusglG.md) Gesetz über die Regelung der Rechtsverhältnisse bei baulichen Maßnahmen auf ehemals in Anspruch genommenen Grundstücken
 - [Weser/Jade LV](laws/Weser_Jade_LV.md) Verordnung über die Verwaltung und Ordnung der Seelotsreviere Weser I und Weser II/Jade

@@ -1,4 +1,4 @@
-% Verordnung über die Meisterprüfung in den Teilen I und II im Betonstein- und Terrazzohersteller-Handwerk  (Betonstein- und Terrazzoherstellermeisterverordnung - BetTerHMstrV)
+% Verordnung über die Meisterprüfung in den Teilen I und II im Werkstein- und Terrazzohersteller-Handwerk  (Werkstein- und Terrazzoherstellermeisterverordnung - WerkstTerHMstrV)
 % Ausfertigungsdatum: 16.02.2021
  
 # Eingangsformel
