@@ -5609,6 +5609,7 @@
 - [UBAG](laws/UBAG.md) Gesetz über die Errichtung eines Umweltbundesamtes
 - [UBGG](laws/UBGG.md) Gesetz über Unternehmensbeteiligungsgesellschaften
 - [UBRegG](laws/UBRegG.md) Gesetz zur Errichtung und Führung eines Registers über Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für Unternehmen
+- [UDÜV](laws/UDÜV.md) Verordnung zur Übertragung von Befugnissen und Pflichten auf die Bundesnetzagentur gemäß § 157 Absatz 5 des Telekommunikationsgesetzes
 - [ÜAG](laws/ÜAG.md) Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens
 - [ÜAnlG](laws/ÜAnlG.md) Gesetz über überwachungsbedürftige Anlagen
 - [ÜbkBern/BerlinAV](laws/ÜbkBern_BerlinAV.md) Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst
