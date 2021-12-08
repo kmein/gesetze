@@ -2272,7 +2272,7 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 (4) Absatz 1 Satz 1 Nr. 2 gilt nicht für Kreditinstitute und Finanzdienstleistungsinstitute, für die eine Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes erteilt wurde, für Wertpapierinstitute, für die eine Erlaubnis nach § 15 Absatz 1 des Wertpapierinstitutsgesetzes erteilt wurde, sowie für Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union, die nach § 53b Abs. 1 Satz 1 oder Abs. 7 des Kreditwesengesetzes im Inland tätig sind, wenn die Erbringung von Handelsauskünften durch die Zulassung der zuständigen Behörden des Herkunftsmitgliedstaats abgedeckt ist.
 
-(+++ § 38 Abs 1 u. 2: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 38 Abs. 1 u. 2: Zur Nichtanwendung vgl. § 4 +++)
 
 # § 39
 
