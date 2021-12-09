@@ -840,10 +840,10 @@
 - [BinSchUO2018Anh VIII](laws/BinSchUO2018Anh_VIII.md) Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren (Anhang VIII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 - [BinSchZV](laws/BinSchZV.md) Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)
 - [BioAbfV](laws/BioAbfV.md) Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden
-- [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen *)
+- [Biokraft-NachV](laws/Biokraft-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen
 - [BiomasseV](laws/BiomasseV.md) Verordnung über die Erzeugung von Strom aus Biomasse
 - [BioMatHintV](laws/BioMatHintV.md) Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren
-- [BioSt-NachV](laws/BioSt-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Biomasse zur Stromerzeugung*)
+- [BioSt-NachV](laws/BioSt-NachV.md) Verordnung über Anforderungen an eine nachhaltige Herstellung von Biomasse zur Stromerzeugung
 - [BioStoffV](laws/BioStoffV.md) Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen
 - [BismStiftG](laws/BismStiftG.md) Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung
 - [BITV 2.0](laws/BITV_2.0.md) Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz

@@ -63,7 +63,29 @@ die unter Verwendung von Vinylchloridpolymerisaten oder Vinylchloridkopolymerisa
 
 6. Babyartikel:
 
-jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das Füttern und das Saugen von Kindern zu erleichtern oder ihrer hygienischen Versorgung zu dienen.
+jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das Füttern und das Saugen von Kindern zu erleichtern oder ihrer hygienischen Versorgung zu dienen;
+
+7. Druckfarben: Druckfarben oder Drucklacke, die in einem Druck- oder Lackierverfahren auf Lebensmittelbedarfsgegenstände aufgetragen werden;
+
+8. bedruckte Lebensmittelbedarfsgegenstände: Lebensmittelbedarfsgegenstände, die unter Verwendung von Druckfarben hergestellt sind;
+
+9. Nanomaterialien: Materialien in Druckfarben,
+
+a) die natürlichen Ursprungs sind, bei Herstellungsprozessen anfallen oder gezielt hergestellt werden,
+
+b) die Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat enthalten und
+
+c) bei denen mindestens 50 Prozent der Partikel bezogen auf die Anzahlgrößenverteilung ein oder mehrere Außenmaße im Bereich von einem bis 100 Nanometer aufweisen;
+
+10. Partikel: ein sehr kleines Teilchen einer Substanz mit definierten physikalischen Grenzen;
+
+11. Agglomerat: eine Ansammlung schwach gebundener Partikel oder Aggregate, in der die resultierende Oberfläche ähnlich der Summe der Oberflächen der einzelnen Bestandteile ist;
+
+12. Aggregat: ein Partikel aus fest gebundenen oder verschmolzenen Partikeln;
+
+13. Verwendung von Stoffen in Druckfarben: Das planvolle Benutzen von Stoffen zur Herstellung von Druckfarben, die zumindest einem der folgenden Verwendungszwecke dienen: Monomere oder sonstige Ausgangsstoffe, Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive.
+
+Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas, die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als ein Nanometer.
 
 # § 3 – Verbotene Stoffe
 
@@ -87,9 +109,43 @@ Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten
 
 nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer 1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
 
-(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
+(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/131 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, dem nicht entgegensteht.
 
 (4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr. 10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
+
+(5) Bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände dürfen vorbehaltlich der Absätze 7 bis 9 in den Druckfarben nur verwendet werden
+
+1. Polymere aus in Anlage 14 Tabelle 1 aufgeführten Monomeren oder sonstigen Ausgangsstoffen sowie
+
+2. die in Anlage 14 Tabelle 1 aufgeführten Stoffe als Monomere oder sonstige Ausgangsstoffe oder als Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive.
+
+Die Stoffe dürfen nur verwendet werden, wenn sie den in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen, Spezifikationen und Reinheitsanforderungen entsprechen. Sofern keine Reinheitsanforderungen festgesetzt sind, müssen die Stoffe hinsichtlich der Reinheitsanforderungen von guter technischer Qualität sein. Stoffe in Form von Nanomaterialien dürfen nur verwendet werden, sofern dies in Anlage 14 Tabelle 1 Spalte 8 ausdrücklich bestimmt ist. Neben den in Anlage 14 Tabelle 1 genannten Säuren, Phenolen und Alkoholen dürfen auch ihre Salze, einschließlich der Doppelsalze und sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens, Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks verwendet werden. Sind in Anlage 14 Tabelle 1 Salze von Säuren, Phenolen oder Alkoholen genannt, ist nur die Verwendung dieser Salze sowie die Verwendung von Salzen, einschließlich der Doppelsalze und sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens, Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks dieser Säuren, Phenole oder Alkohole zulässig.
+
+(6) Vorbehaltlich der Absätze 7, 8 und 10 dürfen die in Anlage 14 Tabelle 1 aufgeführten Monomere oder sonstigen Ausgangsstoffe als Additive und die in Anlage 14 Tabelle 1 aufgeführten Additive als Monomere oder sonstige Ausgangsstoffe verwendet werden, sofern sie den in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen, Spezifikationen und Reinheitsanforderungen entsprechen.
+
+(7) Sofern die Druckfarben nicht dazu bestimmt sind, unmittelbar mit dem Lebensmittel in Berührung zu kommen, dürfen neben den nach den Absätzen 5 und 6 zulässigen Stoffen bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben verwendet werden:
+
+1. Polymere aus anderen als den in Anlage 14 Tabelle 1 aufgeführten Monomeren oder sonstigen Ausgangsstoffen und
+
+2. als Monomere oder sonstige Ausgangsstoffe, oder als Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive andere als die in Anlage 14 Tabelle 1 aufgeführten Stoffe.
+
+Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden, sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und 3.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom 21.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S. 18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte Verordnung (EU) 2021/643 (ABl. L 133 vom 20.4.2021, S. 5) geändert worden ist, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“ eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form von Nanomaterialien. Satz 1 gilt nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht dazu bestimmt sind.
+
+(8) Im Übrigen dürfen bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben Monomere oder sonstige Ausgangsstoffe sowie Additive verwendet werden, sofern sie
+
+1. in der jeweils geltenden Fassung des Anhangs I der Verordnung (EU) Nr. 10/2011 ohne Gruppenbeschränkungen nach der dortigen Tabelle 1 Spalte 9 oder ohne Beschränkungen und Spezifikationen nach der dortigen Tabelle 1 Spalte 10 aufgeführt sind,
+
+2. den allgemeinen Anforderungen nach Artikel 8 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen und
+
+3. bezogen auf den bedruckten Lebensmittelbedarfsgegenstand, die in Anhang I Tabelle 1 Spalte 8 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung genannten Grenzwerte für den Übergang auf das Lebensmittel einhalten.
+
+Absatz 5 Satz 5 gilt entsprechend.
+
+(9) Neben den nach Absatz 5 Satz 1 zulässigen Stoffen dürfen bei der Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten Lebensmittelbedarfsgegenständen auch die in Anlage 14 Tabelle 2 genannten Pigmente unter den dort festgelegten Bedingungen, Spezifikationen und Reinheitsanforderungen verwendet werden. Absatz 5 Satz 3 gilt entsprechend.
+
+(10) Die Absätze 5 bis 9 gelten nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen ein Übergang von Stoffen, einschließlich solcher in Form von Nanomaterialien, aus der Druckfarbe auf das Lebensmittel ausgeschlossen ist.
+
+(11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden, die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8 aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3 Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom verantwortlichen Unternehmer gemäß international anerkannten wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
 # § 5 – Verbotene Verfahren
 
@@ -132,6 +188,12 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 (3) Bei den in Anlage 6 aufgeführten Lebensmittelbedarfsgegenständen dürfen Anteile der dort genannten Stoffe, die von den Bedarfsgegenständen auf Lebensmittel übergehen, die dort angegebenen Höchstmengen nicht überschreiten.
 
 (4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gelten für Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung entsprechend.
+
+(5) Bei bedruckten Lebensmittelbedarfsgegenständen dürfen die in Anlage 14 Tabelle 1 und 2 aufgeführten Stoffe die dort für sie in Spalte 6 oder 7 in Verbindung mit Anlage 14 Tabelle 3 jeweils festgelegten Grenzwerte für den Übergang auf Lebensmittel nicht überschreiten. Übergänge von Barium, Eisen, Kobalt, Kupfer, Lithium, Mangan und Zink sowie von primären aromatischen Aminen dürfen die in Anlage 14 Tabelle 4 jeweils festgelegten Grenzwerte nicht überschreiten.
+
+(6) In Anlage 14 Tabelle 1 aufgeführte Stoffe, für die in Anlage 14 Tabelle 1 oder 3 kein spezifischer Migrationsgrenzwert, kein Gruppengrenzwert oder keine anderen Beschränkungen festgelegt sind, dürfen aus bedruckten Lebensmittelbedarfsgegenständen auf Lebensmittel jeweils nur bis zu einer Höchstmenge von 60 Milligramm pro Kilogramm des Lebensmittels übergehen.
+
+(7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als solche in Form von Nanomaterialien gilt als nicht nachweisbar ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
 # § 9 – Warnhinweise
 
@@ -215,7 +277,7 @@ b) in Anlage 2 aufgeführte Stoffe unter Nichteinhaltung der dort genannten Verw
 
 verwendet,
 
-3. entgegen § 4 Absatz 2 Satz 1 einen Stoff verwendet oder
+3. entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort genannten Stoff verwendet oder
 
 4. entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dort genannte Verfahren anwendet.
 
@@ -317,15 +379,23 @@ kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf dem Leben
 
 2. Lebensmittelbedarfsgegenstände, die Phthalate enthalten und hinsichtlich der Beschränkungen und Spezifikationen für die PM/Ref-Nummern 74560, 74640, 74880, 75100 und 75105 dieser Verordnung in der bis zum 13. Mai 2008 geltenden Fassung entsprechen.
 
-(10) Bedarfsgegenstände nach Anlage 4 Nr. 1 Buchstabe b, die vor dem 8. Juli 2008 hergestellt oder eingeführt worden sind und den bis dahin geltenden Rechtsvorschriften entsprechen, dürfen noch bis zum 1. April 2009 in den Verkehr gebracht werden.
+(10) (weggefallen)
 
-(11) Bedarfsgegenstände nach Anlage 7 Nr. 2, die nicht den dort genannten Warnhinweis tragen, dürfen noch bis zum Ablauf des 31. August 2009 in den Verkehr gebracht werden.
+(11) (weggefallen)
 
 (12) Lebensmittelbedarfsgegenstände aus Kunststoff und Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der aufzubringenden Beschichtung, die den Vorschriften dieser Verordnung in der bis zum 28. September 2009 geltenden Fassung entsprechen, dürfen vorbehaltlich des Absatzes 13 noch bis zum 6. März 2010 hergestellt oder eingeführt und auch nach diesem Datum in den Verkehr gebracht werden. Abweichend von Satz 1 ist § 4 Absatz 3 für die Herstellung oder Einfuhr der dort bezeichneten Lebensmittelbedarfsgegenstände bereits ab dem 1. Januar 2010 anzuwenden; Lebensmittelbedarfsgegenstände, die den Anforderungen des § 4 Absatz 3b entsprechen, dürfen auch nach dem dort genannten Datum noch in den Verkehr gebracht werden.
 
 (13) Absatz 12 Satz 1 gilt nicht, wenn bei der Herstellung der genannten Lebensmittelbedarfsgegenstände der Stoff 2,4,4'-Trichlor-2'-hydroxydiphenylether (PM/REF-Nr. 93930) verwendet worden ist. Lebensmittelbedarfsgegenstände nach Satz 1 dürfen noch bis zum 1. November 2011 in den Verkehr gebracht werden.
 
-(14) Trinkflaschen aus Kunststoff, die für Säuglinge bestimmt sind und den Vorschriften dieser Verordnung in der bis zum 11. Februar 2011 geltenden Fassung entsprechen, dürfen noch bis zum 28. Februar 2011 hergestellt und bis zum 31. Mai 2011 eingeführt und in den Verkehr gebracht werden.
+(14) (weggefallen)
+
+(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2025 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
+
+(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, § 8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar 2026 anzuwenden.
+
+(17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in Anlage 14 Tabelle 2 genannten Pigmenten bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
+
+(18) § 4 Absatz 9 in Verbindung mit Anlage 14 Tabelle 2 ist ab dem 1. Januar 2027 nicht mehr anzuwenden.
 
 # § 17 – (Inkrafttreten)
 
@@ -2461,3 +2531,50 @@ Sonstiges Material
 
 (Fundstelle: BGBl. I 2009, 3135 - 3137;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+# Anlage 14
+
+(Fundstelle: BGBl. I 2021, 5070 - 5125)
+
+Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden Informationen:
+
+Spalte 1 (Bezeichnung des Stoffes): Chemische Bezeichnung
+
+Spalte 2 (CAS-Nr.): Chemical Abstracts Service-Nummer
+
+Spalte 3 (REF-Nr.): EWG-Verpackungsmaterial-Referenznummer
+
+Spalte 4 (Substanz-Nr.): Substanz-Nummer
+
+Spalte 5 (Verwendungszweck): Verwendung als
+
+–  
+I: Monomere oder sonstige Ausgangsstoffe (Stoffe, die zur Herstellung von Makromolekülen (Polymeren) polymerisiert oder zur Modifizierung natürlicher oder künstlich hergestellter Makromoleküle (Polymere) verwendet werden);
+
+–  
+II: Farbmittel (farbgebende Substanzen (Pigmente und Farbstoffe));
+
+–  
+III: Lösungsmittel (Flüssigkeiten, die andere Stoffe zu lösen vermögen, ohne sich selbst oder den gelösten Stoff dabei chemisch zu verändern);
+
+–  
+IV: Additive (Stoffe, die verwendet werden, um eine technische Wirkung während des Druck- oder Lackierverfahrens oder im Enderzeugnis zu erzielen. Dazu gehören nicht Additive, die für Pigmente verwendet werden);
+
+–  
+V: Photoinitiatoren (Additive, die durch Bestrahlung in freie Radikale oder Ionen überführt werden und eine chemische Reaktion starten).
+
+Spalte 6 (SMG \[mg/kg\]): Spezifischer Migrationsgrenzwert ausgedrückt in Milligramm des betreffenden Stoffes pro Kilogramm Lebensmittel. Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+
+Spalte 7 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein Gruppengrenzwert in Tabelle 3 festgelegt ist.
+
+Spalte 8 (Andere Beschränkungen, Spezifikationen und Reinheitsanforderungen): Andere Beschränkungen als die in Spalte 6 und 7 in Verbindung mit Tabelle 3 genannten sowie Spezifikationen und Reinheitsanforderungen.
+
+Tabelle 3 enthält die folgenden Informationen:
+
+Spalte 1 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein Gruppengrenzwert gemäß Tabelle 1 Spalte 7 festgelegt ist.
+
+Spalte 2 (Substanz-Nr.): Substanz-Nummer gemäß Tabelle 1 Spalte 4
+
+Spalte 3 (SMG (T) \[mg/kg\]): Spezifischer Migrationsgrenzwert ausgedrückt in Milligramm des Gesamtgehalts der angegebenen Substanz(en) der Stoffgruppe pro Kilogramm Lebensmittel. Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+
+Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde gelegt wird.

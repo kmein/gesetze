@@ -167,10 +167,6 @@ j) der Anlage D 7 Nummer 1.1 hinsichtlich der Streckenkenntnisse auf dem Rhein u
 
 5. alle Vorschriften über die Besatzung und über die Befähigung der Besatzung der Fahrzeuge, die ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind.
 
-# Anlage 1 bis 33 – Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021
-
-(Fundstelle: Anlageband zum BGBl I Nr. 81 vom 6. Dezember 2021)
-
 # § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
@@ -4270,3 +4266,7 @@ Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann berücksichtigt
 (1) Diese Verordnung ist mit Ausnahme der §§ 4, 47, 49, 50, 53, 54, 55, 56, 57, 58, 59 Absatz 2, §§ 69, 76, 77, 89 und 90 und der Anlagen 7, 17, 18, 19, 20, 21, 22, 23, 30 und 31 ab dem 18. Januar 2022 anzuwenden.
 
 (2) Die §§ 4, 47, 49, 50, 53, 54, 55, 56, 57, 58, 59 Absatz 2, §§ 69, 76, 77, 89 und 90 und die Anlagen 7, 17, 18, 19, 20, 21, 22, 23, 30 und 31 sind ab dem 7. Dezember 2021 anzuwenden.
+
+# Anlage 1 bis 33 – Anlageband zum Bundesgesetzblatt Teil I Nr. 81 vom 6. Dezember 2021
+
+(Fundstelle: Anlageband zum BGBl I Nr. 81 vom 6. Dezember 2021)
