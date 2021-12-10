@@ -1,4 +1,4 @@
-% Rechtsnormendes Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
+% Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
 % Ausfertigungsdatum: 25.10.2021
  
 # § 1 – Geltungsbereich
