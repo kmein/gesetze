@@ -1330,7 +1330,7 @@ geahndet werden.
 
 (8) Über den Zeitpunkt der Wirksamkeit des Fahrverbots nach Absatz 2 oder 2a Satz 1 und über den Beginn der Verbotsfrist nach Absatz 5 Satz 1 ist die betroffene Person bei der Zustellung der Bußgeldentscheidung oder im Anschluss an deren Verkündung zu belehren.
 
-§ 25 Abs. 1 Satz 1: Mit dem GG vereinbar, BVerfGE v. 16.7.1969 I 1444 - 2 BvL 11/69 -; IdF d. Art. 137 Nr. 6 Buchst. a DBuchst. aa G v. 20.11.2019 I 1626 mWv 26.11.2019
+§ 25 Abs. 1 Satz 1: Mit dem GG vereinbar, BVerfGE v. 16.7.1969 I 1444 - 2 BvL 11/69 -; IdF d. Art. 137 Nr. 6 Buchst. a DBuchst. aa G v. 20.11.2019 I 1626 mWv 26.11.2019 u. d. Art. 1 Nr. 13 G v. 12.7.2021 I 3091 mWv 28.7.2021
 
 # § 25a – Kostentragungspflicht des Halters
 

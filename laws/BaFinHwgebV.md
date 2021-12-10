@@ -125,7 +125,7 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 (2) Werden im Zusammenhang mit einer Verstoßmeldung außerhalb der Bundesanstalt Daten weitergegeben, darf die Identität der meldenden Person oder der Person, die Gegenstand der Verstoßmeldung ist, weder unmittelbar noch mittelbar offengelegt werden, es sei denn, eine derartige Offenlegung erfolgt
 
-1. nach § 4d Absatz 3 Satz 3 oder § 53 Absatz 3 Satz 3 des Geldwäschegesetzes,
+1. nach § 4d Absatz 3 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes oder § 53 Absatz 3 Satz 3 des Geldwäschegesetzes,
 
 2. nachdem die meldende Person in die Weitergabe der ihre Identität betreffender Daten eingewilligt hat oder
 

@@ -627,7 +627,7 @@ Verbotener Erwerb von Edelmetallen und Edelsteinen
 
 § 147b
 
-Verbotene Annahme von Entgelten für Pauschalreisen und verbundene Reiseleistungen
+Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen
 
 § 147c
 
@@ -3035,7 +3035,7 @@ zu erwerben.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Gegenstände der in Absatz 1 bezeichneten Art von Minderjährigen gewerbsmäßig erwirbt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-# § 147b – Verbotene Annahme von Entgelten für Pauschalreisen und verbundene Reiseleistungen
+# § 147b – Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3043,7 +3043,7 @@ zu erwerben.
 
 2. entgegen § 651t Nummer 2, auch in Verbindung mit § 651u Absatz 1 Satz 1, § 651v Absatz 2 Satz 1 oder § 651w Absatz 3 Satz 4,
 
-des Bürgerlichen Gesetzbuchs eine Zahlung fordert oder annimmt.
+des Bürgerlichen Gesetzbuchs eine Rückbeförderung vereinbart oder eine Zahlung fordert oder annimmt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
