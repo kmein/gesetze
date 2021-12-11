@@ -374,7 +374,7 @@ Wird der Eid von einer Notarin geleistet, so treten an die Stelle der Wörter "e
 
 (3) Für Schadensersatzansprüche nach Absatz 1 und 2 sind die Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
-§ 19: Änd. durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig, dadurch gilt § 19 wieder in der vorstehend angezeigten, am 31.12.1981 geltenden Fassung
+§ 19: Frühere Änderung durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig, dadurch gilt § 19 wieder in der Fassung vom 1.1.1964, der zuletzt durch Art. 1 Nr. 1 u. Nr. 23 G v. 25.6.2021 I 2154 geändert wurde
 
 # § 19a – Berufshaftpflichtversicherung
 
@@ -1218,7 +1218,7 @@ Das zuständige Standesamt hat der Registerbehörde den Tod, die Todeserklärung
 
 1. das zuständige Nachlassgericht über den Sterbefall und etwaige Angaben nach § 78d Absatz 1 Satz 1 und 2 und
 
-2. die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78d Absatz 1 Satz 1 und 2.
+2. die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78d Absatz 1 Satz 1 Nummer 1.
 
 Die Benachrichtigung erfolgt elektronisch.
 
