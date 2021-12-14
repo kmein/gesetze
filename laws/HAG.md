@@ -61,7 +61,13 @@ c) Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder nach
 
 (2) Der Heimarbeitsausschuß besteht aus je drei Beisitzern aus Kreisen der Auftraggeber und Beschäftigten seines Zuständigkeitsbereichs und einem von der zuständigen Arbeitsbehörde bestimmten Vorsitzenden. Weitere sachkundige Personen können zugezogen werden; sie haben kein Stimmrecht. Die Beisitzer haben Stellvertreter, für die Satz 1 entsprechend gilt.
 
-(3) Der Heimarbeitsausschuß ist beschlußfähig, wenn außer dem Vorsitzenden mindestens mehr als die Hälfte der Beisitzer anwesend sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der Vorsitzende sein Stimmrecht aus.
+(3) Der Heimarbeitsausschuß ist beschlußfähig, wenn außer dem Vorsitzenden mindestens mehr als die Hälfte der Beisitzer anwesend sind. Die Beschlüsse des Heimarbeitsausschusses bedürfen der Mehrheit der Stimmen seiner anwesenden Mitglieder. Bei der Beschlußfassung hat sich der Vorsitzende zunächst der Stimme zu enthalten; kommt eine Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der Vorsitzende sein Stimmrecht aus. Bis zum Ablauf des 19. März 2022 können auf Vorschlag des Vorsitzenden die Teilnahme an Sitzungen des Heimarbeitsausschusses sowie die Beschlussfassung auch mittels einer Video- und Telefonkonferenz erfolgen, wenn
+
+1. kein Beisitzer diesem Verfahren unverzüglich widerspricht und
+
+2. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+
+Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Frist nach Satz 4 um bis zu drei Monate verlängern.
 
 (4) Der Heimarbeitsausschuß kann sonstige Bestimmungen über die Geschäftsführung in einer schriftlichen Geschäftsordnung treffen. Für die Beschlußfassung über die Geschäftsordnung gilt Absatz 3.
 

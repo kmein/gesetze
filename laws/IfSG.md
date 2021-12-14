@@ -129,6 +129,14 @@ Aufgaben des Gesundheitsamtes in besonderen Fällen
 
 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
 
+§ 20a
+
+Immunitätsnachweis gegen COVID-19
+
+§ 20b
+
+Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
+
 § 21
 
 Impfstoffe
@@ -523,13 +531,25 @@ eine epidemiologische Methode zur stichprobenartigen Erfassung der Verbreitung b
 
 die nach Landesrecht für die Durchführung dieses Gesetzes bestimmte und mit einem Amtsarzt besetzte Behörde,
 
-15. Leitung der Einrichtung
+15. Einrichtung oder Unternehmen
 
-die Person, die mit den Leitungsaufgaben in der jeweiligen Einrichtung beauftragt ist; das betrifft auch
+eine juristische Person, eine Personengesellschaft oder eine natürliche Person, in deren unmittelbarem Verantwortungsbereich natürliche Personen behandelt, betreut, gepflegt oder untergebracht werden,
 
-a) die selbständig tätige Person für ihren Zuständigkeitsbereich selbst,
+15a. Leitung der Einrichtung
 
-b) die Person, die einrichtungsübergreifend mit den Leitungsaufgaben beauftragt ist,
+a) die natürliche Person oder die natürlichen Personen, die im Verantwortungsbereich einer Einrichtung durch diese mit den Aufgaben nach diesem Gesetz betraut ist oder sind,
+
+b) sofern eine Aufgabenübertragung nach Buchstabe a nicht erfolgt ist, die natürliche Person oder die natürlichen Personen, die für die Geschäftsführung zuständig ist oder sind, oder
+
+c) sofern die Einrichtung von einer einzelnen natürlichen Person betrieben wird, diese selbst,
+
+15b. Leitung des Unternehmens
+
+a) die natürliche Person oder die natürlichen Personen, die im Verantwortungsbereich eines Unternehmens durch dieses mit den Aufgaben nach diesem Gesetz betraut ist oder sind,
+
+b) sofern eine Aufgabenübertragung nach Buchstabe a nicht erfolgt ist, die natürliche Person oder die natürlichen Personen, die für die Geschäftsführung zuständig ist oder sind, oder
+
+c) sofern das Unternehmen von einer einzelnen natürlichen Person betrieben wird, diese selbst,
 
 16. personenbezogene Angabe
 
@@ -717,6 +737,8 @@ Die Ermächtigung nach Satz 1 Nummer 10 umfasst die folgenden Ausbildungen:
 
 21. zur Veterinärmedizinisch-technischen Assistentin oder zum Veterinärmedizinisch-technischen Assistenten nach dem MTA-Gesetz.
 
+Das Bundesministerium für Gesundheit wird abweichend von Satz 1 ermächtigt, eine Rechtsverordnung nach Satz 1 Nummer 7 Buchstabe b bis f auch nach Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach Absatz 1 Satz 2 zu erlassen, soweit Regelungen nach Satz 1 Nummer 7 Buchstabe b bis f im Rahmen der Bewältigung der Coronavirus-SARS-CoV-2-Pandemie oder ihrer Folgen erforderlich sind.
+
 (3) Rechtsverordnungen nach Absatz 2, insbesondere nach Nummer 3, 4, 7 und 8, bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales, soweit sie sich auf das Arbeitsrecht oder den Arbeitsschutz beziehen. Rechtsverordnungen nach Absatz 2 Nummer 4 und Anordnungen nach Absatz 2 Nummer 6 ergehen im Benehmen mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach Absatz 2 Nummer 10 werden im Benehmen mit dem Bundesministerium für Bildung und Forschung erlassen und bedürfen, soweit sie sich auf die Pflegeberufe beziehen, des Einvernehmens mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend. Bei Gefahr im Verzug kann auf das Einvernehmen nach Satz 1 verzichtet werden.
 
 (4) Eine auf Grund des Absatzes 2 oder des § 5a Absatz 2 erlassene Rechtsverordnung tritt mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite außer Kraft. Abweichend von Satz 1
@@ -725,7 +747,7 @@ Die Ermächtigung nach Satz 1 Nummer 10 umfasst die folgenden Ausbildungen:
 
 2. tritt eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung spätestens ein Jahr nach Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite außer Kraft.
 
-Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung auch nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Nach Absatz 2 Satz 1 getroffene Anordnungen gelten mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Abweichend von Satz 4 gilt eine Anordnung nach Absatz 2 Satz 1 Nummer 6 spätestens ein Jahr nach der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Nach Absatz 2 Satz 1 Nummer 6 getroffene Anordnungen können auch bis spätestens ein Jahr nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Eine Anfechtungsklage gegen Anordnungen nach Absatz 2 Satz 1 hat keine aufschiebende Wirkung.
+Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz 1 Nummer 4, 7 Buchstabe a, g oder Nummer 10 erlassene Verordnung auch nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Nach Absatz 2 Satz 1 getroffene Anordnungen gelten mit Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Abweichend von Satz 4 gilt eine Anordnung nach Absatz 2 Satz 1 Nummer 6 spätestens ein Jahr nach der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite als aufgehoben. Nach Absatz 2 Satz 1 Nummer 6 getroffene Anordnungen können auch bis spätestens ein Jahr nach Aufhebung der epidemischen Lage von nationaler Tragweite geändert werden. Eine Anfechtungsklage gegen Anordnungen nach Absatz 2 Satz 1 hat keine aufschiebende Wirkung. Eine auf Grund des Absatzes 2 Satz 3 erlassene Rechtsverordnung tritt spätestens mit Ablauf des 31. März 2022 außer Kraft. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Frist nach Satz 8 um sechs Monate verlängern.
 
 (5) Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird im Rahmen des Absatzes 2 insoweit eingeschränkt.
 
@@ -735,7 +757,7 @@ Bis zu ihrem jeweiligen Außerkrafttreten kann eine nach Absatz 2 Satz 1 Nummer 
 
 (8) Aufgrund einer epidemischen Lage von nationaler Tragweite kann das Bundesministerium für Gesundheit im Rahmen der Aufgaben des Bundes insbesondere das Deutsche Rote Kreuz, die Johanniter-Unfall-Hilfe, den Malteser Hilfsdienst, den Arbeiter-Samariter-Bund und die Deutsche Lebens-Rettungs-Gesellschaft gegen Auslagenerstattung beauftragen, bei der Bewältigung der epidemischen Lage von nationaler Tragweite Hilfe zu leisten.
 
-(9) Das Bundesministerium für Gesundheit beauftragt eine externe Evaluation zu den Auswirkungen der Regelungen in dieser Vorschrift und in den Vorschriften der §§ 5a, 28 bis 32, 36 und 56 im Rahmen der nach Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite und zu der Frage einer Reformbedürftigkeit. Die Evaluation soll interdisziplinär erfolgen und insbesondere auf Basis epidemiologischer und medizinischer Erkenntnisse die Wirksamkeit der auf Grundlage der in Satz 1 genannten Vorschriften getroffenen Maßnahmen untersuchen. Die Evaluation soll durch unabhängige Sachverständige erfolgen, die jeweils zur Hälfte von der Bundesregierung und vom Deutschen Bundestag benannt werden. Das Ergebnis der Evaluierung soll der Bundesregierung bis zum 30. Juni 2022 vorgelegt werden. Die Bundesregierung übersendet dem Deutschen Bundestag bis zum 30. September 2022 das Ergebnis der Evaluierung sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
+(9) Das Bundesministerium für Gesundheit beauftragt eine externe Evaluation zu den Auswirkungen der Regelungen in dieser Vorschrift und in den Vorschriften der §§ 5a, 20a, 20b, 28 bis 32, 36 und 56 im Rahmen der Coronavirus-SARS-CoV-2-Pandemie und zu der Frage einer Reformbedürftigkeit. Die Evaluation soll interdisziplinär erfolgen und insbesondere auf Basis epidemiologischer und medizinischer Erkenntnisse die Wirksamkeit der auf Grundlage der in Satz 1 genannten Vorschriften getroffenen Maßnahmen untersuchen. Die Evaluation soll durch unabhängige Sachverständige erfolgen, die jeweils zur Hälfte von der Bundesregierung und vom Deutschen Bundestag benannt werden. Das Ergebnis der Evaluierung soll der Bundesregierung bis zum 30. Juni 2022 vorgelegt werden. Die Bundesregierung übersendet dem Deutschen Bundestag bis zum 30. September 2022 das Ergebnis der Evaluierung sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
 
 # § 5a – Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
 
@@ -1595,23 +1617,27 @@ Ein ausreichender Impfschutz gegen Masern besteht, wenn ab der Vollendung des er
 
 3. eine Bestätigung einer staatlichen Stelle oder der Leitung einer anderen in Absatz 8 Satz 1 genannten Einrichtung darüber, dass ein Nachweis nach Nummer 1 oder Nummer 2 bereits vorgelegen hat.
 
-Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann bestimmen, dass der Nachweis nach Satz 1 nicht der Leitung der jeweiligen Einrichtung, sondern dem Gesundheitsamt oder einer anderen staatlichen Stelle gegenüber zu erbringen ist. Die Behörde, die für die Erteilung der Erlaubnis nach § 43 Absatz 1 des Achten Buches Sozialgesetzbuch zuständig ist, kann bestimmen, dass vor dem Beginn der Tätigkeit im Rahmen der Kindertagespflege der Nachweis nach Satz 1 ihr gegenüber zu erbringen ist. Wenn der Nachweis nach Satz 1 von einer Person, die aufgrund einer nach Satz 8 zugelassenen Ausnahme oder nach Satz 9 in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 beschäftigt oder tätig werden darf, nicht vorgelegt wird oder wenn sich ergibt, dass ein Impfschutz gegen Masern erst zu einem späteren Zeitpunkt möglich ist oder vervollständigt werden kann, hat
+Wenn der Nachweis nach Satz 1 von einer Person, die auf Grund einer nach Satz 8 zugelassenen Ausnahme oder nach Satz 9 in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 beschäftigt oder tätig werden darf, nicht vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann bestimmen, dass
 
-1. die Leitung der jeweiligen Einrichtung oder
+1. der Nachweis nach Satz 1 nicht der Leitung der jeweiligen Einrichtung, sondern dem Gesundheitsamt oder einer anderen staatlichen Stelle gegenüber zu erbringen ist,
 
-2. die andere Stelle nach Satz 2 oder Satz 3
+2. die Benachrichtigung nach Satz 2 nicht durch die Leitung der jeweiligen Einrichtung, sondern durch die nach Nummer 1 bestimmte Stelle zu erfolgen hat,
 
-unverzüglich das Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Angaben zu übermitteln. Eine Benachrichtigungspflicht besteht nicht, wenn der Leitung der jeweiligen Einrichtung oder der anderen Stelle nach Satz 2 oder Satz 3 bekannt ist, dass das Gesundheitsamt über den Fall bereits informiert ist. Eine Person, die ab der Vollendung des ersten Lebensjahres keinen Nachweis nach Satz 1 vorlegt, darf nicht in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 beschäftigt werden. Eine Person, die über keinen Nachweis nach Satz 1 verfügt oder diesen nicht vorlegt, darf in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 nicht tätig werden. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann allgemeine Ausnahmen von den Sätzen 6 und 7 zulassen, wenn das Paul-Ehrlich-Institut auf seiner Internetseite einen Lieferengpass zu allen Impfstoffen mit einer Masernkomponente, die für das Inverkehrbringen in Deutschland zugelassen oder genehmigt sind, bekannt gemacht hat; parallel importierte und parallel vertriebene Impfstoffe mit einer Masernkomponente bleiben unberücksichtigt. Eine Person, die einer gesetzlichen Schulpflicht unterliegt, darf in Abweichung von Satz 6 in Gemeinschaftseinrichtungen nach § 33 Nummer 3 betreut werden.
+3. die Benachrichtigung nach Satz 2 nicht gegenüber dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung befindet, sondern gegenüber einer anderen staatlichen Stelle zu erfolgen hat.
 
-(10) Personen, die am 1. März 2020 bereits in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut werden oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 tätig sind, haben der Leitung der jeweiligen Einrichtung einen Nachweis nach Absatz 9 Satz 1 bis zum Ablauf des 31. Dezember 2021 vorzulegen. Absatz 9 Satz 2 bis 5 findet mit der Maßgabe entsprechende Anwendung, dass eine Benachrichtigung des zuständigen Gesundheitsamtes und eine Übermittlung personenbezogener Angaben immer zu erfolgen hat, wenn der Nachweis nach Absatz 9 Satz 1 nicht bis zum Ablauf des 31. Dezember 2021 vorgelegt wird.
+Die Behörde, die für die Erteilung der Erlaubnis nach § 43 Absatz 1 des Achten Buches Sozialgesetzbuch zuständig ist, kann bestimmen, dass vor dem Beginn der Tätigkeit im Rahmen der Kindertagespflege der Nachweis nach Satz 1 ihr gegenüber zu erbringen ist; in diesen Fällen hat die Benachrichtigung nach Satz 2 durch sie zu erfolgen. Eine Benachrichtigungspflicht nach Satz 2 besteht nicht, wenn der Leitung der jeweiligen Einrichtung oder der anderen nach Satz 3 Nummer 2 oder Satz 4 bestimmten Stelle bekannt ist, dass das Gesundheitsamt oder die andere nach Satz 3 Nummer 3 bestimmte Stelle über den Fall bereits informiert ist. Eine Person, die ab der Vollendung des ersten Lebensjahres keinen Nachweis nach Satz 1 vorlegt, darf nicht in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 beschäftigt werden. Eine Person, die über keinen Nachweis nach Satz 1 verfügt oder diesen nicht vorlegt, darf in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 nicht tätig werden. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann allgemeine Ausnahmen von den Sätzen 6 und 7 zulassen, wenn das Paul-Ehrlich-Institut auf seiner Internetseite einen Lieferengpass zu allen Impfstoffen mit einer Masernkomponente, die für das Inverkehrbringen in Deutschland zugelassen oder genehmigt sind, bekannt gemacht hat; parallel importierte und parallel vertriebene Impfstoffe mit einer Masernkomponente bleiben unberücksichtigt. Eine Person, die einer gesetzlichen Schulpflicht unterliegt, darf in Abweichung von Satz 6 in Gemeinschaftseinrichtungen nach § 33 Nummer 3 betreut werden.
+
+(9a) Sofern sich ergibt, dass ein Impfschutz gegen Masern erst zu einem späteren Zeitpunkt möglich ist oder vervollständigt werden kann oder ein Nachweis nach Absatz 9 Satz 1 Nummer 2 seine Gültigkeit auf Grund Zeitablaufs verliert, haben Personen, die in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut werden oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 tätig sind, der Leitung der jeweiligen Einrichtung einen Nachweis nach Absatz 9 Satz 1 innerhalb eines Monats, nachdem es ihnen möglich war, einen Impfschutz gegen Masern zu erlangen oder zu vervollständigen, oder innerhalb eines Monats nach Ablauf der Gültigkeit des bisherigen Nachweises nach Absatz 9 Satz 1 Nummer 2 vorzulegen. Wenn der Nachweis nach Satz 1 nicht innerhalb dieses Monats vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 9 Satz 3 gilt entsprechend.
+
+(10) Personen, die am 1. März 2020 bereits in Gemeinschaftseinrichtungen nach § 33 Nummer 1 bis 3 betreut wurden und noch werden oder in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 tätig waren und noch sind, haben der Leitung der jeweiligen Einrichtung einen Nachweis nach Absatz 9 Satz 1 bis zum Ablauf des 31. Juli 2022 vorzulegen. Wenn der Nachweis nach Absatz 9 Satz 1 nicht bis zum Ablauf des 31. Juli 2022 vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 9 Satz 3 und 4 findet entsprechende Anwendung.
 
 (11) Personen, die bereits vier Wochen in Gemeinschaftseinrichtungen nach § 33 Nummer 4 betreut werden oder in Einrichtungen nach § 36 Absatz 1 Nummer 4 untergebracht sind, haben der Leitung der jeweiligen Einrichtung einen Nachweis nach Absatz 9 Satz 1 wie folgt vorzulegen:
 
 1. innerhalb von vier weiteren Wochen oder,
 
-2. wenn sie am 1. März 2020 bereits betreut werden oder untergebracht sind, bis zum Ablauf des 31. Dezember 2021.
+2. wenn sie am 1. März 2020 bereits betreut wurden und noch werden oder untergebracht waren und noch sind, bis zum Ablauf des 31. Juli 2022.
 
-Absatz 9 Satz 2, 4 und 5 findet mit der Maßgabe entsprechende Anwendung, dass eine Benachrichtigung des zuständigen Gesundheitsamtes und eine Übermittlung personenbezogener Angaben immer zu erfolgen hat, wenn der Nachweis nach Absatz 9 Satz 1 nicht bis zu dem in Satz 1 Nummer 1 oder Nummer 2 genannten Zeitpunkt vorgelegt wird.
+Wenn der Nachweis nach Absatz 9 Satz 1 in den Fällen des Satzes 1 Nummer 1 nicht innerhalb von vier weiteren Wochen oder in den Fällen von Satz 1 Nummer 2 nicht bis zum Ablauf des 31. Juli 2022 vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung unverzüglich das Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 9 Satz 3 findet entsprechende Anwendung.
 
 (12) Folgende Personen haben dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung befindet, auf Anforderung einen Nachweis nach Absatz 9 Satz 1 vorzulegen:
 
@@ -1625,11 +1651,127 @@ b) in Einrichtungen nach § 36 Absatz 1 Nummer 4 untergebracht sind und
 
 3. Personen, die in Einrichtungen nach § 23 Absatz 3 Satz 1, § 33 Nummer 1 bis 4 oder § 36 Absatz 1 Nummer 4 tätig sind.
 
-Wenn der Nachweis nach Absatz 9 Satz 1 nicht innerhalb einer angemessenen Frist vorgelegt wird oder sich aus dem Nachweis ergibt, dass ein Impfschutz gegen Masern erst zu einem späteren Zeitpunkt möglich ist oder vervollständigt werden kann, kann das Gesundheitsamt die zur Vorlage des Nachweises verpflichtete Person zu einer Beratung laden und hat diese zu einer Vervollständigung des Impfschutzes gegen Masern aufzufordern. Das Gesundheitsamt kann einer Person, die trotz der Anforderung nach Satz 1 keinen Nachweis innerhalb einer angemessenen Frist vorlegt, untersagen, dass sie die dem Betrieb einer in Absatz 8 Satz 1 genannten Einrichtung dienenden Räume betritt oder in einer solchen Einrichtung tätig wird. Einer Person, die einer gesetzlichen Schulpflicht unterliegt, kann in Abweichung von Satz 3 nicht untersagt werden, die dem Betrieb einer Einrichtung nach § 33 Nummer 3 dienenden Räume zu betreten. Einer Person, die einer Unterbringungspflicht unterliegt, kann in Abweichung von Satz 3 nicht untersagt werden, die dem Betrieb einer Gemeinschaftseinrichtung nach § 33 Nummer 4 oder einer Einrichtung nach § 36 Absatz 1 Nummer 4 dienenden Räume zu betreten. Widerspruch und Anfechtungsklage gegen ein vom Gesundheitsamt nach Satz 3 erteiltes Verbot haben keine aufschiebende Wirkung.
+Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises, so kann das Gesundheitsamt eine ärztliche Untersuchung dazu anordnen, ob die betroffene Person auf Grund einer medizinischen Kontraindikation nicht gegen Masern geimpft werden kann. Wenn der Nachweis nach Absatz 9 Satz 1 nicht innerhalb einer angemessenen Frist vorgelegt wird, kann das Gesundheitsamt die zur Vorlage des Nachweises verpflichtete Person zu einer Beratung laden und hat diese zu einer Vervollständigung des Impfschutzes gegen Masern aufzufordern. Das Gesundheitsamt kann einer Person, die trotz der Anforderung nach Satz 1 keinen Nachweis innerhalb einer angemessenen Frist vorlegt oder der Anordnung einer ärztlichen Untersuchung nach Satz 2 nicht Folge leistet, untersagen, dass sie die dem Betrieb einer in Absatz 8 Satz 1 genannten Einrichtung dienenden Räume betritt oder in einer solchen Einrichtung tätig wird. Einer Person, die einer gesetzlichen Schulpflicht unterliegt, kann in Abweichung von Satz 4 nicht untersagt werden, die dem Betrieb einer Einrichtung nach § 33 Nummer 3 dienenden Räume zu betreten. Einer Person, die einer Unterbringungspflicht unterliegt, kann in Abweichung von Satz 4 nicht untersagt werden, die dem Betrieb einer Gemeinschaftseinrichtung nach § 33 Nummer 4 oder einer Einrichtung nach § 36 Absatz 1 Nummer 4 dienenden Räume zu betreten. Widerspruch und Anfechtungsklage gegen eine vom Gesundheitsamt nach Satz 2 erlassene Anordnung oder ein von ihm nach Satz 4 erteiltes Verbot haben keine aufschiebende Wirkung.
 
 (13) Wenn eine nach den Absätzen 9 bis 12 verpflichtete Person minderjährig ist, so hat derjenige für die Einhaltung der diese Person nach den Absätzen 9 bis 12 treffenden Verpflichtungen zu sorgen, dem die Sorge für diese Person zusteht. Die gleiche Verpflichtung trifft den Betreuer einer von Verpflichtungen nach den Absätzen 9 bis 12 betroffenen Person, soweit die Erfüllung dieser Verpflichtungen zu seinem Aufgabenkreis gehört.
 
 (14) Durch die Absätze 6 bis 12 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
+
+# § 20a – Immunitätsnachweis gegen COVID-19
+
+(1) Folgende Personen müssen ab dem 15. März 2022 entweder geimpfte oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sein:
+
+1. Personen, die in folgenden Einrichtungen oder Unternehmen tätig sind:
+
+a) Krankenhäuser,
+
+b) Einrichtungen für ambulantes Operieren,
+
+c) Vorsorge- oder Rehabilitationseinrichtungen,
+
+d) Dialyseeinrichtungen,
+
+e) Tageskliniken,
+
+f) Entbindungseinrichtungen,
+
+g) Behandlungs- oder Versorgungseinrichtungen, die mit einer der in den Buchstaben a bis f genannten Einrichtungen vergleichbar sind,
+
+h) Arztpraxen, Zahnarztpraxen,
+
+i) Praxen sonstiger humanmedizinischer Heilberufe,
+
+j) Einrichtungen des öffentlichen Gesundheitsdienstes, in denen medizinische Untersuchungen, Präventionsmaßnahmen oder ambulante Behandlungen durchgeführt werden,
+
+k) Rettungsdienste,
+
+l) sozialpädiatrische Zentren nach § 119 des Fünften Buches Sozialgesetzbuch,
+
+m) medizinische Behandlungszentren für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen nach § 119c des Fünften Buches Sozialgesetzbuch,
+
+n) Einrichtungen der beruflichen Rehabilitation nach § 51 des Neunten Buches Sozialgesetzbuch und Dienste der beruflichen Rehabilitation,
+
+o) Begutachtungs- und Prüfdienste, die auf Grund der Vorschriften des Fünften Buches Sozialgesetzbuch oder des Elften Buches Sozialgesetzbuch tätig werden,
+
+2. Personen, die in voll- oder teilstationären Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen oder in vergleichbaren Einrichtungen tätig sind,
+
+3. Personen, die in ambulanten Pflegediensten und weiteren Unternehmen, die den in Nummer 2 genannten Einrichtungen vergleichbare Dienstleistungen im ambulanten Bereich anbieten, tätig sind; zu diesen Unternehmen gehören insbesondere:
+
+a) ambulante Pflegeeinrichtungen gemäß § 72 des Elften Buches Sozialgesetzbuch sowie Einzelpersonen gemäß § 77 des Elften Buches Sozialgesetzbuch,
+
+b) ambulante Pflegedienste, die ambulante Intensivpflege in Einrichtungen, Wohngruppen oder sonstigen gemeinschaftlichen Wohnformen erbringen,
+
+c) Unternehmen, die Assistenzleistungen nach § 78 des Neunten Buches Sozialgesetzbuch erbringen,
+
+d) Unternehmen, die Leistungen der interdisziplinären Früherkennung und Frühförderung nach § 42 Absatz 2 Nummer 2 des Neunten Buches Sozialgesetzbuch und § 46 des Neunten Buches Sozialgesetzbuch in Verbindung mit der Frühförderungsverordnung oder heilpädagogische Leistungen nach § 79 des Neunten Buches Sozialgesetzbuch erbringen,
+
+e) Beförderungsdienste, die für Einrichtungen nach Nummer 2 dort behandelte, betreute, gepflegte oder untergebrachte Personen befördern oder die Leistungen nach § 83 Absatz 1 Nummer 1 des Neunten Buches Sozialgesetzbuch erbringen, und
+
+f) Leistungsberechtigte, die im Rahmen eines Persönlichen Budgets nach § 29 des Neunten Buches Sozialgesetzbuch Personen für die Erbringung entsprechender Dienstleistungen beschäftigen.
+
+Satz 1 gilt nicht für Personen, die auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können.
+
+(2) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig sind, haben der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens bis zum Ablauf des 15. März 2022 folgenden Nachweis vorzulegen:
+
+1. einen Impfnachweis im Sinne des § 2 Nummer 3 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung,
+
+2. einen Genesenennachweis im Sinne des § 2 Nummer 5 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung oder
+
+3. ein ärztliches Zeugnis darüber, dass sie auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden können.
+
+Wenn der Nachweis nach Satz 1 nicht bis zum Ablauf des 15. März 2022 vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann bestimmen, dass
+
+1. der Nachweis nach Satz 1 nicht der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens, sondern dem Gesundheitsamt oder einer anderen staatlichen Stelle gegenüber zu erbringen ist,
+
+2. die Benachrichtigung nach Satz 2 nicht durch die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens, sondern durch die nach Nummer 1 bestimmte Stelle zu erfolgen hat,
+
+3. die Benachrichtigung nach Satz 2 nicht gegenüber dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, sondern gegenüber einer anderen staatlichen Stelle zu erfolgen hat.
+
+(3) Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen ab dem 16. März 2022 tätig werden sollen, haben der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens vor Beginn ihrer Tätigkeit einen Nachweis nach Absatz 2 Satz 1 vorzulegen. Wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 2 Satz 3 gilt entsprechend. Eine Person nach Satz 1, die keinen Nachweis nach Absatz 2 Satz 1 vorlegt, darf nicht in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen beschäftigt werden. Eine Person nach Satz 1, die über keinen Nachweis nach Absatz 2 Satz 1 verfügt oder diesen nicht vorlegt, darf nicht in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig werden. Die oberste Landesgesundheitsbehörde oder die von ihr bestimmte Stelle kann allgemeine Ausnahmen von den Sätzen 4 und 5 zulassen, wenn das Paul-Ehrlich-Institut auf seiner Internetseite einen Lieferengpass zu allen Impfstoffen mit einer Komponente gegen das Coronavirus SARS-CoV-2, die für das Inverkehrbringen in Deutschland zugelassen oder genehmigt sind, bekannt gemacht hat; parallel importierte und parallel vertriebene Impfstoffe mit einer Komponente gegen das Coronavirus SARS-CoV-2 bleiben unberücksichtigt.
+
+(4) Soweit ein Nachweis nach Absatz 2 Satz 1 ab dem 16. März 2022 seine Gültigkeit auf Grund Zeitablaufs verliert, haben Personen, die in den in Absatz 1 Satz 1 genannten Einrichtungen oder Unternehmen tätig sind, der Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens einen neuen Nachweis nach Absatz 2 Satz 1 innerhalb eines Monats nach Ablauf der Gültigkeit des bisherigen Nachweises vorzulegen. Wenn der neue Nachweis nach Satz 1 nicht innerhalb dieses Monats vorgelegt wird oder wenn Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises bestehen, hat die Leitung der jeweiligen Einrichtung oder des jeweiligen Unternehmens unverzüglich das Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, darüber zu benachrichtigen und dem Gesundheitsamt personenbezogene Daten zu übermitteln. Absatz 2 Satz 3 gilt entsprechend.
+
+(5) Die in Absatz 1 Satz 1 genannten Personen haben dem Gesundheitsamt, in dessen Bezirk sich die jeweilige Einrichtung oder das jeweilige Unternehmen befindet, auf Anforderung einen Nachweis nach Absatz 2 Satz 1 vorzulegen. Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten Nachweises, so kann das Gesundheitsamt eine ärztliche Untersuchung dazu anordnen, ob die betroffene Person auf Grund einer medizinischen Kontraindikation nicht gegen das Coronavirus SARS-CoV-2 geimpft werden kann. Das Gesundheitsamt kann einer Person, die trotz der Anforderung nach Satz 1 keinen Nachweis innerhalb einer angemessenen Frist vorlegt oder der Anordnung einer ärztlichen Untersuchung nach Satz 2 nicht Folge leistet, untersagen, dass sie die dem Betrieb einer in Absatz 1 Satz 1 genannten Einrichtung oder eines in Absatz 1 Satz 1 genannten Unternehmens dienenden Räume betritt oder in einer solchen Einrichtung oder einem solchen Unternehmen tätig wird. Widerspruch und Anfechtungsklage gegen eine vom Gesundheitsamt nach Satz 2 erlassene Anordnung oder ein von ihm nach Satz 3 erteiltes Verbot haben keine aufschiebende Wirkung.
+
+(6) Die Absätze 1 bis 5 gelten nicht für die in den Einrichtungen oder von den Unternehmen behandelten, betreuten, gepflegten oder untergebrachten Personen.
+
+(7) Durch die Absätze 1 bis 5 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
+
+# § 20b – Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2
+
+(1) Abweichend von § 20 Absatz 4 Satz 1 sind Zahnärzte, Tierärzte sowie Apotheker zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
+
+1. sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde und
+
+2. ihnen eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erforderlich ist, oder der Zahnarzt, der Tierarzt oder der Apotheker in andere geeignete Strukturen, insbesondere ein mobiles Impfteam, eingebunden ist.
+
+(2) Die ärztliche Schulung nach Absatz 1 Nummer 1 hat insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu umfassen:
+
+1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung der Schutzimpfung gegen das Coronavirus SARS-CoV-2, insbesondere zur
+
+a) Aufklärung,
+
+b) Erhebung der Anamnese einschließlich der Impfanamnese und der Feststellung der aktuellen Befindlichkeit zum Ausschluss akuter Erkrankungen oder Allergien,
+
+c) weiteren Impfberatung und
+
+d) Einholung der Einwilligung der zu impfenden Person,
+
+2. Kenntnis von Kontraindikationen sowie Fähigkeiten und Fertigkeiten zu deren Beachtung und
+
+3. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
+
+Die ärztlichen Schulungen sind so zu gestalten, dass diese die bereits erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, über die jeder Berufsangehörige, der an der jeweiligen ärztlichen Schulung teilnimmt, verfügt, berücksichtigen und auf diesen aufbauen. Bereits im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch durchgeführte ärztliche Schulungen berechtigen zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das 18. Lebensjahr vollendet haben.
+
+(3) Bis zum 31. Dezember 2021 entwickeln in Zusammenarbeit mit der Bundesärztekammer:
+
+1. die Bundesapothekerkammer ein Mustercurriculum für die ärztliche Schulung der Apotheker,
+
+2. die Bundeszahnärztekammer ein Mustercurriculum für die ärztliche Schulung der Zahnärzte und
+
+3. die Bundestierärztekammer ein Mustercurriculum für die ärztliche Schulung der Tierärzte.
+
+(4) Die Möglichkeit der ärztlichen Delegation der Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 auf nichtärztliches Gesundheitspersonal bleibt unberührt.
 
 # § 21 – Impfstoffe
 
@@ -1669,7 +1811,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 1. Datum der Testung,
 
-2. Name der getesteten Person und deren Geburtsdatum sowie Name und Anschrift der für die Testung verantwortlichen Person,
+2. Name der getesteten Person und deren Geburtsdatum sowie Name und Anschrift der zur Durchführung oder Überwachung der Testung befugten Person,
 
 3. Angaben zur Testung, einschließlich der Art der Testung.
 
@@ -1679,7 +1821,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 1. Datum der Testung,
 
-2. Name der getesteten Person und deren Geburtsdatum,
+2. Name der getesteten Person und deren Geburtsdatum sowie Name und Anschrift der zur Durchführung oder Überwachung der Testung befugten Person,
 
 3. Angaben zur Testung, einschließlich der Art der Testung.
 
@@ -1974,29 +2116,33 @@ Schutzmaßnahmen nach Absatz 1 Nummer 15 dürfen nicht zur vollständigen Isolat
 
 8. die Anordnung der Verarbeitung der Kontaktdaten von Kunden, Gästen oder Veranstaltungsteilnehmern in den oder bei den in Absatz 1 Nummer 4 bis 8 und 10 bis 16 genannten Betrieben, Gewerben, Einrichtungen, Angeboten, Veranstaltungen, Reisen und Ausübungen, um nach Auftreten einer Infektion mit dem Coronavirus SARS-CoV-2 mögliche Infektionsketten nachverfolgen und unterbrechen zu können; dabei kann auch angeordnet werden, dass die Nachverfolgung und Unterbrechung von Infektionsketten vorrangig durch die Bereitstellung der QR-Code-Registrierung für die Corona-Warn-App des Robert Koch-Instituts erfolgt.
 
-Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 2 bleiben unberührt. Die Absätze 3 bis 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
+Individuelle Schutzmaßnahmen gegenüber Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen oder Ausscheidern nach § 28 Absatz 1 Satz 1 sowie die Schließung von Einrichtungen und Betrieben im Einzelfall nach § 28 Absatz 1 Satz 1 und 2 bleiben unberührt. Die Absätze 3 bis 6 gelten für Schutzmaßnahmen nach Satz 1 entsprechend. Die besonderen Belange von Kindern und Jugendlichen sind zu berücksichtigen.
 
-(8) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können die Absätze 1 bis 6 auch angewendet werden, soweit und solange die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt, mit der Maßgabe, dass folgende Schutzmaßnahmen ausgeschlossen sind:
+(8) Nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite können die Absätze 1 bis 6 auch angewendet werden, soweit und solange die konkrete Gefahr der epidemischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) in einem Land besteht und das Parlament in dem betroffenen Land die Anwendbarkeit der Absätze 1 bis 6 feststellt, mit der Maßgabe, dass folgende Schutzmaßnahmen ausgeschlossen sind:
 
 1. die Anordnung von Ausgangsbeschränkungen,
 
-2. die Untersagung der Sportausübung,
+2. die Untersagung der Sportausübung und die Schließung von Sporteinrichtungen,
 
-3. die Untersagung von Veranstaltungen, Ansammlungen, Aufzügen, Versammlungen sowie religiösen oder weltanschaulichen Zusammenkünften,
+3. die Untersagung von Versammlungen oder Aufzügen im Sinne von Artikel 8 des Grundgesetzes und von religiösen oder weltanschaulichen Zusammenkünften,
 
-4. die in Absatz 1 Nummer 11 bis 14 genannten Schutzmaßnahmen und
+4. die Untersagung von Reisen,
 
-5. die Schließung von Gemeinschaftseinrichtungen im Sinne von § 33;
+5. die Untersagung von Übernachtungsangeboten,
+
+6. die Schließung von Betrieben, Gewerben, Einzel- oder Großhandel, sofern es sich nicht um gastronomische Einrichtungen, Freizeit- oder Kultureinrichtungen oder um Messen oder Kongresse handelt,
+
+7. die Schließung von Gemeinschaftseinrichtungen im Sinne von § 33.
 
 Absatz 7 bleibt unberührt. Die Feststellung nach Satz 1 gilt als aufgehoben, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung nach Satz 1 die weitere Anwendbarkeit der Absätze 1 bis 6 für das Land feststellt; dies gilt entsprechend, sofern das Parlament in dem betroffenen Land nicht spätestens drei Monate nach der Feststellung der weiteren Anwendbarkeit der Absätze 1 bis 6 die weitere Anwendbarkeit der Absätze 1 bis 6 erneut feststellt.
 
-(9) Absatz 1 bleibt nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite bis längstens zum Ablauf des 15. Dezember 2021 für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 anwendbar, die bis zum 25. November 2021 in Kraft getreten sind. Satz 1 gilt für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 entsprechend, sofern das Parlament in dem betroffenen Land die Rechtsverordnungen nicht aufhebt. Die Anordnung von Schutzmaßnahmen nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 oder nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 bleibt unberührt.
+(9) Die Absätze 1 bis 6 bleiben nach dem Ende einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite bis längstens zum Ablauf des 19. März 2022 für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 anwendbar, die bis zum 25. November 2021 in Kraft getreten sind. Satz 1 gilt für Schutzmaßnahmen nach Absatz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 entsprechend, sofern das Parlament in dem betroffenen Land die Rechtsverordnungen nicht aufhebt. Die Anordnung von Schutzmaßnahmen nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 oder nach Absatz 8 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 und § 32 bleibt unberührt.
 
 (10) Eine auf Grund von Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 und § 32 erlassene Rechtsverordnung muss spätestens mit Ablauf des 19. März 2022 außer Kraft treten. Nach Absatz 7 Satz 1 oder Absatz 8 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 getroffene Anordnungen müssen spätestens mit Ablauf des 19. März 2022 aufgehoben werden. Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekanntzumachenden Beschluss einmalig die Fristen nach den Sätzen 1 und 2 um bis zu drei Monate verlängern.
 
 # § 28b – Bundesweit einheitliche Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19), Verordnungsermächtigung
 
-(1) Arbeitgeber und Beschäftigte dürfen Arbeitsstätten, in denen physische Kontakte von Arbeitgebern und Beschäftigten untereinander oder zu Dritten nicht ausgeschlossen werden können, nur betreten und Arbeitgeber dürfen Transporte von mehreren Beschäftigten zur Arbeitsstätte oder von der Arbeitsstätte nur durchführen, wenn sie geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) mit sich führen, zur Kontrolle verfügbar halten oder bei dem Arbeitgeber hinterlegt haben. Sofern die dem Testnachweis zugrunde liegende Testung mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, darf diese abweichend von § 2 Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) maximal 48 Stunden zurückliegen. Abweichend von Satz 1 ist Arbeitgebern und Beschäftigten ein Betreten der Arbeitsstätte erlaubt, um
+(1) Arbeitgeber und Beschäftigte dürfen Arbeitsstätten, in denen physische Kontakte von Arbeitgebern und Beschäftigten untereinander oder zu Dritten nicht ausgeschlossen werden können, nur betreten und Arbeitgeber dürfen Transporte von mehreren Beschäftigten zur Arbeitsstätte oder von der Arbeitsstätte nur durchführen, wenn sie geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind und einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung mit sich führen, zur Kontrolle verfügbar halten oder bei dem Arbeitgeber hinterlegt haben. Sofern die dem Testnachweis zugrunde liegende Testung mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, darf diese abweichend von § 2 Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung maximal 48 Stunden zurückliegen. Abweichend von Satz 1 ist Arbeitgebern und Beschäftigten ein Betreten der Arbeitsstätte erlaubt, um
 
 1. unmittelbar vor der Arbeitsaufnahme ein Testangebot des Arbeitgebers zur Erlangung eines Nachweises im Sinne des § 4 Absatz 1 der SARS-CoV-2-Arbeitsschutzverordnung vom 25. Juni 2021 (BAnz AT 28.06.2021 V1), die durch Artikel 1 der Verordnung vom 6. September 2021 (BAnz AT 09.09.2021 V1) geändert worden ist, wahrzunehmen oder
 
@@ -2004,27 +2150,21 @@ Absatz 7 bleibt unberührt. Die Feststellung nach Satz 1 gilt als aufgehoben, so
 
 Der Arbeitgeber hat seine Beschäftigten bei Bedarf in barrierefrei zugänglicher Form über die betrieblichen Zugangsregelungen zu informieren.
 
-(2) Arbeitgeber, Beschäftigte und Besucher in den folgenden Einrichtungen und Unternehmen dürfen diese nur betreten, wenn sie getestete Personen im Sinne des § 2 Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und einen Testnachweis mit sich führen:
+(2) Arbeitgeber, Beschäftigte und Besucher in den folgenden Einrichtungen und Unternehmen dürfen diese nur betreten oder in diesen nur tätig werden, wenn sie getestete Personen im Sinne des § 2 Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind und einen Testnachweis mit sich führen:
 
 1. Einrichtungen und Unternehmen nach § 23 Absatz 3 Satz 1 mit der Maßgabe, dass Vorsorge- und Rehabilitationseinrichtungen auch dann umfasst sind, wenn dort keine den Krankenhäusern vergleichbare medizinische Versorgung erfolgt, und
 
 2. Einrichtungen und Unternehmen nach § 36 Absatz 1 Nummer 2 und 7.
 
-In oder von den in Satz 1 genannten Einrichtungen und Unternehmen behandelte, betreute, gepflegte oder untergebrachte Personen gelten nicht als Besucher im Sinne des Satzes 1. Absatz 1 Satz 2 gilt entsprechend. Für Arbeitgeber und Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind, kann die zugrunde liegende Testung auch durch Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen. Eine Testung nach Absatz 1 Satz 2 muss für Arbeitgeber und Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind, höchstens zweimal pro Kalenderwoche wiederholt werden. Absatz 1 Satz 3 und 4 gilt entsprechend. Die in Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, ein einrichtungs- oder unternehmensbezogenes Testkonzept zu erstellen. Im Rahmen des Testkonzepts haben sie Testungen auf eine Infektion mit dem Coronavirus SARS-CoV-2 für alle Beschäftigten und Besucher anzubieten.
+In oder von den in Satz 1 genannten Einrichtungen und Unternehmen behandelte, betreute, gepflegte oder untergebrachte Personen sowie Begleitpersonen, die die Einrichtung oder das Unternehmen nur für einen unerheblichen Zeitraum betreten, gelten nicht als Besucher im Sinne des Satzes 1; Menschen mit Behinderungen, die Leistungen im Eingangsverfahren, im Berufsbildungsbereich oder im Arbeitsbereich einer anerkannten Werkstatt für behinderte Menschen oder eines anderen Leistungsanbieters nach § 60 des Neunten Buches Sozialgesetzbuch erhalten sowie Auszubildende, Studierende und Schülerinnen und Schüler, die die in Satz 1 genannten Einrichtungen und Unternehmen zum Zweck ihrer beruflichen Bildung betreten, gelten als Beschäftigte im Sinne des Satzes 1. Absatz 1 Satz 2 gilt entsprechend. Für Arbeitgeber und Beschäftigte kann die zugrunde liegende Testung auch durch Antigen-Tests zur Eigenanwendung ohne Überwachung erfolgen, wenn sie geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind; das gilt entsprechend für Besucher, die als medizinisches Personal die in den in Satz 1 genannten Einrichtungen und Unternehmen behandelten, betreuten, gepflegten oder untergebrachten Personen zu Behandlungszwecken aufsuchen und geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind. Eine Testung muss für Arbeitgeber und Beschäftigte, die geimpfte Personen oder genesene Personen im Sinne des § 2 Nummer 2 oder Nummer 4 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind, mindestens zweimal pro Kalenderwoche durchgeführt werden. Für Besucher, die die Einrichtung oder das Unternehmen im Rahmen eines Notfalleinsatzes oder aus anderen Gründen ohne Kontakt zu den in den in Satz 1 genannten Einrichtungen und Unternehmen behandelten, betreuten, gepflegten oder untergebrachten Personen nur für einen unerheblichen Zeitraum betreten, gilt Satz 1 nicht. Für Arbeitgeber, Beschäftigte und Besucher gilt Absatz 1 Satz 3, für Arbeitgeber und Beschäftigte auch Absatz 1 Satz 4 entsprechend. Die in Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, ein einrichtungs- oder unternehmensbezogenes Testkonzept zu erstellen. Im Rahmen des Testkonzepts haben sie Testungen auf eine Infektion mit dem Coronavirus SARS-CoV-2 für alle Beschäftigten und Einrichtungen nach § 36 Absatz 1 Nummer 2 auch für alle Besucher anzubieten.
 
-(3) Alle Arbeitgeber sowie die Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, die Einhaltung der Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 durch Nachweiskontrollen täglich zu überwachen und regelmäßig zu dokumentieren. Alle Arbeitgeber und jeder Beschäftigte sowie Besucher der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, einen entsprechenden Nachweis auf Verlangen vorzulegen. Soweit es zur Erfüllung der Pflichten aus Satz 1 erforderlich ist, darf der Arbeitgeber sowie die Leitung der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen zu diesem Zweck personenbezogene Daten einschließlich Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Die Daten dürfen auch zur Anpassung des betrieblichen Hygienekonzepts auf Grundlage der Gefährdungsbeurteilung gemäß den §§ 5 und 6 des Arbeitsschutzgesetzes verwendet werden, soweit dies erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Die zuständige Behörde kann von jedem Arbeitgeber sowie von den Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen die zur Durchführung ihrer Überwachungsaufgabe erforderlichen Auskünfte verlangen. Die in Absatz 2 Satz 1 genannten Einrichtungen oder Unternehmen sind verpflichtet, der zuständigen Behörde zweiwöchentlich folgende Angaben in anonymisierter Form zu übermitteln:
-
-1. Angaben zu den durchgeführten Testungen, jeweils bezogen auf Personen, die in der Einrichtung oder dem Unternehmen beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind, sowie bezogen auf Besuchspersonen und
-
-2. Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der Einrichtung oder dem Unternehmen beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind.
-
-Die in Absatz 2 Satz 1 genannten Einrichtungen oder Unternehmen dürfen den Impf- und Teststatus der Personen, die dort behandelt, betreut oder gepflegt werden oder untergebracht sind, erheben; diese Daten dürfen nur zur Beurteilung der Gefährdungslage in der Einrichtung oder dem Unternehmen im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19) und zur Vorbereitung der Berichterstattung nach Satz 7 verarbeitet werden. Die nach Satz 3 und nach Satz 8 erhobenen Daten sind spätestens am Ende des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt.
+(3) Alle Arbeitgeber sowie die Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, die Einhaltung der Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 durch Nachweiskontrollen täglich zu überwachen und regelmäßig zu dokumentieren. Alle Arbeitgeber und jeder Beschäftigte sowie Besucher der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen sind verpflichtet, einen entsprechenden Nachweis auf Verlangen vorzulegen. Soweit es zur Erfüllung der Pflichten aus Satz 1 erforderlich ist, darf der Arbeitgeber sowie die Leitung der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen zu diesem Zweck personenbezogene Daten einschließlich Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Die Daten dürfen auch zur Anpassung des betrieblichen Hygienekonzepts auf Grundlage der Gefährdungsbeurteilung gemäß den §§ 5 und 6 des Arbeitsschutzgesetzes verwendet werden, soweit dies erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Die zuständige Behörde kann von jedem Arbeitgeber sowie von den Leitungen der in Absatz 2 Satz 1 genannten Einrichtungen und Unternehmen die zur Durchführung ihrer Überwachungsaufgabe erforderlichen Auskünfte verlangen. Voll- und teilstationäre Pflegeeinrichtungen sind verpflichtet, der zuständigen Behörde monatlich Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der Einrichtung beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind, in anonymisierter Form zu übermitteln. Sonstige in Absatz 2 Satz 1 genannte Einrichtungen oder Unternehmen sind verpflichtet, der zuständigen Behörde auf deren Anforderung Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, in Bezug auf die Personen, die in der Einrichtung oder dem Unternehmen beschäftigt sind, in anonymisierter Form zu übermitteln. Voll- und teilstationäre Pflegeeinrichtungen dürfen den Impfstatus der Personen, die dort behandelt, betreut oder gepflegt werden oder untergebracht sind, erheben; diese Daten dürfen nur zur Beurteilung der Gefährdungslage in der Einrichtung oder dem Unternehmen im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19) und zur Vorbereitung der Berichterstattung nach Satz 7 verarbeitet werden und nur solange und soweit dies erforderlich ist. Die nach den Sätzen 3 und 9 erhobenen Daten sind spätestens am Ende des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt.
 
 (4) Der Arbeitgeber hat den Beschäftigten im Fall von Büroarbeit oder vergleichbaren Tätigkeiten anzubieten, diese Tätigkeiten in deren Wohnung auszuführen, wenn keine zwingenden betriebsbedingten Gründe entgegenstehen. Die Beschäftigten haben dieses Angebot anzunehmen, soweit ihrerseits keine Gründe entgegenstehen. Die zuständigen Behörden für den Vollzug der Sätze 1 und 2 bestimmen die Länder nach § 54 Satz 1.
 
-(5) Die Verkehrsmittel des Luftverkehrs, des öffentlichen Personennahverkehrs und des öffentlichen Personenfernverkehrs dürfen von Fahr- oder Fluggästen sowie dem Kontroll- und Servicepersonal nur benutzt werden, wenn
+(5) Die Verkehrsmittel des Luftverkehrs, des öffentlichen Personennahverkehrs und des öffentlichen Personenfernverkehrs dürfen von Fahr- oder Fluggästen sowie dem Kontroll- und Servicepersonal und Fahr- und Steuerpersonal, soweit tätigkeitsbedingt physische Kontakte zu anderen Personen bestehen, nur benutzt werden, wenn
 
-1. sie, mit Ausnahmen von Schülerinnen und Schülern und der Beförderung in Taxen, geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) sind und
+1. sie, ausgenommen es handelt sich um Schüler außerhalb der Schulferienzeit und um eine Beförderung in Taxen, geimpfte Personen, genesene Personen oder getestete Personen im Sinne des § 2 Nummer 2, Nummer 4 oder Nummer 6 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung sind und
 
 2. sie während der Beförderung eine Atemschutzmaske (FFP2 oder vergleichbar) oder eine medizinische Gesichtsmaske (Mund-Nasen-Schutz) tragen.
 
@@ -2036,7 +2176,7 @@ Eine Atemschutzmaske oder eine medizinische Gesichtsmaske muss nicht getragen we
 
 3. gehörlosen und schwerhörigen Menschen und Personen, die mit ihnen kommunizieren, sowie ihren Begleitpersonen.
 
-Beförderer sind verpflichtet, die Einhaltung der Verpflichtungen nach Satz 1 durch stichprobenhafte Nachweiskontrollen zu überwachen. Alle beförderten Personen sind verpflichtet, auf Verlangen einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung vom 8. Mai 2021 (BAnz AT 08.05.2021 V1) vorzulegen. Beförderer können zu diesem Zweck personenbezogene Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten.
+Beförderer sind verpflichtet, die Einhaltung der Verpflichtungen nach Satz 1 durch stichprobenhafte Nachweiskontrollen zu überwachen. Alle beförderten Personen sind verpflichtet, auf Verlangen einen Impfnachweis, einen Genesenennachweis oder einen Testnachweis im Sinne des § 2 Nummer 3, Nummer 5 oder Nummer 7 der COVID-19-Schutzmaßnahmen-Ausnahmenverordnung in der jeweils geltenden Fassung vorzulegen. Beförderer können zu diesem Zweck personenbezogene Daten zum Impf-, Sero- und Teststatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Soweit in Bestimmungen einer Rechtsverordnung nach § 36 Absatz 8 in Verbindung mit Absatz 10 für in die Bundesrepublik Deutschland einreisende Personen abweichende Nachweispflichten für die Nutzung der in Satz 1 genannten Verkehrsmittel bestimmt werden, gehen diese Bestimmungen den Bestimmungen nach Satz 1 Nummer 1 vor.
 
 (6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates für einen befristeten Zeitraum vorzuschreiben, welche Maßnahmen die Arbeitgeber zur Umsetzung der Verpflichtungen nach dieser Vorschrift zu treffen haben und wie sich die Beschäftigten zu verhalten haben, um ihre jeweiligen Pflichten, die sich aus dieser Vorschrift ergeben, zu erfüllen. In der Rechtsverordnung kann insbesondere das Nähere geregelt werden zu
 
@@ -2644,7 +2784,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 Anspruchsberechtigte haben gegenüber der zuständigen Behörde, auf Verlangen des Arbeitgebers auch diesem gegenüber, darzulegen, dass sie in diesem Zeitraum keine zumutbare Betreuungsmöglichkeit für das Kind sicherstellen können. Ein Anspruch besteht nicht, soweit eine Schließung ohnehin wegen der Schul- oder Betriebsferien erfolgen würde. Im Fall, dass das Kind in Vollzeitpflege nach § 33 des Achten Buches Sozialgesetzbuch in den Haushalt aufgenommen wurde, steht der Anspruch auf Entschädigung den Pflegeeltern zu. Der Anspruch nach Satz 1 besteht in Bezug auf die dort genannten Maßnahmen auch unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite, soweit diese zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) im Zeitraum bis zum Ablauf des 19. März 2022 erfolgen.
 
-(2) Die Entschädigung bemisst sich nach dem Verdienstausfall. Für die ersten sechs Wochen wird sie in Höhe des Verdienstausfalls gewährt. Vom Beginn der siebenten Woche an wird die Entschädigung abweichend von Satz 2 in Höhe von 67 Prozent des der erwerbstätigen Person entstandenen Verdienstausfalls gewährt; für einen vollen Monat wird höchstens ein Betrag von 2 016 Euro gewährt. Im Fall des Absatzes 1a wird die Entschädigung von Beginn an in der in Satz 3 bestimmten Höhe gewährt. Für jede erwerbstätige Person wird die Entschädigung nach Satz 4 für die Dauer der vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite unabhängig von der Anzahl der Kinder für längstens zehn Wochen pro Jahr gewährt, für eine erwerbstätige Person, die ihr Kind allein beaufsichtigt, betreut oder pflegt, längstens für 20 Wochen pro Jahr.
+(2) Die Entschädigung bemisst sich nach dem Verdienstausfall. Für die ersten sechs Wochen wird sie in Höhe des Verdienstausfalls gewährt. Vom Beginn der siebenten Woche an wird die Entschädigung abweichend von Satz 2 in Höhe von 67 Prozent des der erwerbstätigen Person entstandenen Verdienstausfalls gewährt; für einen vollen Monat wird höchstens ein Betrag von 2 016 Euro gewährt. Im Fall des Absatzes 1a wird die Entschädigung von Beginn an in der in Satz 3 bestimmten Höhe gewährt. Für jede erwerbstätige Person wird die Entschädigung nach Satz 4 für die Dauer der vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite und für den in Absatz 1a Satz 5 genannten Zeitraum unabhängig von der Anzahl der Kinder für längstens zehn Wochen pro Jahr gewährt, für eine erwerbstätige Person, die ihr Kind allein beaufsichtigt, betreut oder pflegt, längstens für 20 Wochen pro Jahr.
 
 (3) Als Verdienstausfall gilt das Arbeitsentgelt, das dem Arbeitnehmer bei der für ihn maßgebenden regelmäßigen Arbeitszeit zusteht, vermindert um Steuern und Beiträge zur Sozialversicherung sowie zur Arbeitsförderung oder entsprechende Aufwendungen zur sozialen Sicherung in angemessenem Umfang (Netto-Arbeitsentgelt). Bei der Ermittlung des Arbeitsentgelts sind die Regelungen des § 4 Absatz 1, 1a und 4 des Entgeltfortzahlungsgesetzes entsprechend anzuwenden. Für die Berechnung des Verdienstausfalls ist die Netto-Entgeltdifferenz in entsprechender Anwendung des § 106 des Dritten Buches Sozialgesetzbuch zu bilden. Der Betrag erhöht sich um das Kurzarbeitergeld und um das Zuschuss-Wintergeld, auf das der Arbeitnehmer Anspruch hätte, wenn er nicht aus den in Absatz 1 genannten Gründen an der Arbeitsleistung verhindert wäre. Satz 1 gilt für die Berechnung des Verdienstausfalls bei den in Heimarbeit Beschäftigten und bei Selbständigen entsprechend mit der Maßgabe, dass bei den in Heimarbeit Beschäftigten das im Durchschnitt des letzten Jahres vor Einstellung der verbotenen Tätigkeit oder vor der Absonderung verdiente monatliche Arbeitsentgelt und bei Selbständigen ein Zwölftel des Arbeitseinkommens (§ 15 des Vierten Buches Sozialgesetzbuch) aus der entschädigungspflichtigen Tätigkeit zugrunde zu legen ist.
 
@@ -2672,7 +2812,7 @@ Liegen die Voraussetzungen für eine Anrechnung sowohl nach Nummer 3 als auch na
 
 (10) Ein auf anderen gesetzlichen Vorschriften beruhender Anspruch auf Ersatz des Verdienstausfalls, der dem Entschädigungsberechtigten durch das Verbot der Ausübung seiner Erwerbstätigkeit oder durch die Absonderung erwachsen ist, geht insoweit auf das zur Gewährung der Entschädigung verpflichtete Land über, als dieses dem Entschädigungsberechtigten nach diesem Gesetz Leistungen zu gewähren hat.
 
-(11) Die Anträge nach Absatz 5 sind innerhalb einer Frist von zwei Jahren nach Einstellung der verbotenen Tätigkeit, dem Ende der Absonderung oder nach dem Ende der vorübergehenden Schließung, der Untersagung des Betretens, der Schul- oder Betriebsferien, der Aufhebung der Präsenzpflicht, der Einschränkung des Kinderbetreuungsangebotes oder der Aufhebung der Empfehlung nach Absatz 1a Satz 1 Nummer 1 bei der zuständigen Behörde zu stellen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass der Antrag nach Absatz 5 Satz 3 und 4 nach amtlich vorgeschriebenem Verfahren durch Datenfernübertragung zu übermitteln ist und das nähere Verfahren zu bestimmen. Die zuständige Behörde kann zur Vermeidung unbilliger Härten auf eine Übermittlung durch Datenfernübertragung verzichten. Dem Antrag ist von Arbeitnehmern eine Bescheinigung des Arbeitgebers und von den in Heimarbeit Beschäftigten eine Bescheinigung des Auftraggebers über die Höhe des in dem nach Absatz 3 für sie maßgeblichen Zeitraum verdienten Arbeitsentgelts und der gesetzlichen Abzüge, von Selbständigen eine Bescheinigung des Finanzamtes über die Höhe des letzten beim Finanzamt nachgewiesenen Arbeitseinkommens beizufügen. Ist ein solches Arbeitseinkommen noch nicht nachgewiesen oder ist ein Unterschiedsbetrag nach Absatz 3 zu errechnen, so kann die zuständige Behörde die Vorlage anderer oder weiterer Nachweise verlangen.
+(11) Die Anträge nach Absatz 5 sind innerhalb einer Frist von zwei Jahren nach Einstellung der verbotenen Tätigkeit, dem Ende der Absonderung oder nach dem Ende der vorübergehenden Schließung, der Untersagung des Betretens, der Schul- oder Betriebsferien, der Aufhebung der Präsenzpflicht, der Einschränkung des Kinderbetreuungsangebotes oder der Aufhebung der Empfehlung nach Absatz 1a Satz 1 Nummer 1 bei der zuständigen Behörde zu stellen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass der Antrag nach Absatz 5 Satz 3 und 4 nach amtlich vorgeschriebenem Verfahren durch Datenfernübertragung zu übermitteln ist und das nähere Verfahren zu bestimmen. Die zuständige Behörde kann zur Vermeidung unbilliger Härten auf eine Übermittlung durch Datenfernübertragung verzichten. Dem Antrag ist von Arbeitnehmern eine Bescheinigung des Arbeitgebers und von den in Heimarbeit Beschäftigten eine Bescheinigung des Auftraggebers über die Höhe des in dem nach Absatz 3 für sie maßgeblichen Zeitraum verdienten Arbeitsentgelts und der gesetzlichen Abzüge, von Selbständigen eine Bescheinigung des Finanzamtes über die Höhe des letzten beim Finanzamt nachgewiesenen Arbeitseinkommens beizufügen. Ist ein solches Arbeitseinkommen noch nicht nachgewiesen oder ist ein Unterschiedsbetrag nach Absatz 3 zu errechnen, so kann die zuständige Behörde die Vorlage anderer oder weiterer Nachweise verlangen. Die Frist nach Satz 1 verlängert sich in den Fällen des Absatzes 9 bei der Gewährung von Kurzarbeitergeld auf drei Jahre.
 
 (12) Die zuständige Behörde hat auf Antrag dem Arbeitgeber einen Vorschuss in der voraussichtlichen Höhe des Erstattungsbetrages, den in Heimarbeit Beschäftigten und Selbständigen in der voraussichtlichen Höhe der Entschädigung zu gewähren.
 
@@ -2886,13 +3026,21 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 7. entgegen § 18 Abs. 1 Satz 1 ein Mittel oder ein Verfahren anwendet,
 
-7a. entgegen § 20 Absatz 9 Satz 4 Nummer 1, auch in Verbindung mit Absatz 10 Satz 2 oder Absatz 11 Satz 2 eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+7a. entgegen § 20 Absatz 9 Satz 2, Absatz 9a Satz 2, Absatz 10 Satz 2 oder Absatz 11 Satz 2 eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-7b. entgegen § 20 Absatz 9 Satz 6 oder Satz 7 eine Person betreut oder beschäftigt oder in einer dort genannten Einrichtung tätig wird,
+7b. einer vollziehbaren Anordnung nach § 20 Absatz 9 Satz 3 Nummer 3, auch in Verbindung mit Absatz 9a Satz 3, Absatz 10 Satz 3 oder Absatz 11 Satz 3, oder nach § 20 Absatz 12 Satz 4, auch in Verbindung mit Absatz 13, zuwiderhandelt,
 
-7c. entgegen § 20 Absatz 12 Satz 1, auch in Verbindung mit § 20 Absatz 13 Satz 1 oder Satz 2, einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+7c. entgegen § 20 Absatz 9 Satz 6 oder Satz 7 eine Person betreut oder beschäftigt oder in einer dort genannten Einrichtung tätig wird,
 
-7d. einer vollziehbaren Anordnung nach § 20 Absatz 12 Satz 3, auch in Verbindung mit § 20 Absatz 13 Satz 1 oder Satz 2, zuwiderhandelt,
+7d. entgegen § 20 Absatz 12 Satz 1, auch in Verbindung mit Absatz 13, einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+7e. entgegen § 20a Absatz 2 Satz 2, Absatz 3 Satz 2 oder Absatz 4 Satz 2 eine Benachrichtigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+7f. einer vollziehbaren Anordnung nach § 20a Absatz 2 Satz 3 Nummer 3, auch in Verbindung mit Absatz 3 Satz 3 oder Absatz 4 Satz 3, oder nach § 20a Absatz 5 Satz 3 zuwiderhandelt,
+
+7g. entgegen § 20a Absatz 3 Satz 4 oder Satz 5 eine Person beschäftigt oder in einer Einrichtung oder einem Unternehmen tätig wird,
+
+7h. entgegen § 20a Absatz 5 Satz 1 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 8. entgegen § 22 Absatz 1 eine Schutzimpfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
@@ -2950,9 +3098,9 @@ Soweit ein anderer Kostenträger zur Kostentragung verpflichtet ist oder solange
 
 23. entgegen § 51 Satz 2 ein Buch oder eine sonstige Unterlage nicht oder nicht rechtzeitig vorlegt, Einsicht nicht gewährt oder eine Prüfung nicht duldet oder
 
-24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 28b Absatz 6 Satz 1 Nummer 1, § 32 Satz 1, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Abs. 1 Satz 1 Nr. 3 oder Abs. 2 Nr. 3 oder 5 oder § 53 Abs. 1 Nr. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+24. einer Rechtsverordnung nach § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe c bis f oder g oder Nummer 8 Buchstabe c, § 13 Absatz 3 Satz 8 oder Absatz 4 Satz 2, § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 32 Satz 1, § 36 Absatz 8 Satz 1 oder Satz 4, jeweils auch in Verbindung mit Satz 5, Absatz 10 Satz 1 Nummer 1 oder Nummer 1a, jeweils auch in Verbindung mit Satz 3, Nummer 2 oder Nummer 3, § 38 Abs. 1 Satz 1 Nr. 3 oder Abs. 2 Nr. 3 oder 5 oder § 53 Abs. 1 Nr. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7d, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7h, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
 # § 74 – Strafvorschriften
 

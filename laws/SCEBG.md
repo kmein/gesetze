@@ -319,6 +319,10 @@ Bußgeldvorschriften
 
 Geltung nationalen Rechts
 
+§ 50
+
+Sonderregelung aus Anlass der COVID-19-Pandemie
+
 # § 1 – Zielsetzung des Gesetzes
 
 (1) Dieses Gesetz regelt die Beteiligung der Arbeitnehmer in einer Europäischen Genossenschaft, die Gegenstand der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S.1) ist. Ziel dieses Gesetzes ist, in einer Europäischen Genossenschaft die erworbenen Rechte der Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) auf Beteiligung an Unternehmensentscheidungen zu sichern. Maßgeblich für die Ausgestaltung der Beteiligungsrechte der Arbeitnehmer in der Europäischen Genossenschaft sind die bestehenden Beteiligungsrechte in den beteiligten juristischen Personen, die die Europäische Genossenschaft gründen.
@@ -878,3 +882,9 @@ Niemand darf
 2. der Regelung des Europäische Betriebsräte-Gesetzes, es sei denn, das besondere Verhandlungsgremium hat einen Beschluss nach § 16 gefasst.
 
 (2) Regelungen und Strukturen über die Arbeitnehmervertretungen einer beteiligten juristischen Person mit Sitz im Inland, die durch die Gründung der Europäischen Genossenschaft als eigenständige juristische Person erlischt, bestehen nach Eintragung der Europäischen Genossenschaft fort. Die Leitung der Europäischen Genossenschaft stellt sicher, dass diese Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
+
+# § 50 – Sonderregelung aus Anlass der COVID-19-Pandemie
+
+(1) Bis zum Ablauf des 19. März 2022 können im Rahmen der Unterrichtung und Anhörung die Teilnahme an Sitzungen eines SCE-Betriebsrats oder einer Arbeitnehmervertretung nach § 21 Absatz 2 sowie die Beschlussfassung auch mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu drei Monate verlängern.

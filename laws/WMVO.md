@@ -698,7 +698,7 @@ Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits best
 
 # § 40b – Sonderregelung aus Anlass der COVID-19-Pandemie für das Wahlverfahren
 
-Bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag kann der Wahlvorstand beschließen, dass die Wahl auch als Briefwahl durchgeführt wird.
+Bis zum Ablauf des 19. März 2022 kann der Wahlvorstand beschließen, dass die Wahl auch als Briefwahl durchgeführt wird.
 
 # § 41 – Inkrafttreten
 

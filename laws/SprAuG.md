@@ -373,3 +373,9 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung zur R
 6. die Feststellung des Wahlergebnisses und die Fristen für seine Bekanntmachung;
 
 7. die Aufbewahrung der Wahlakten.
+
+# § 39 – Sonderregelung aus Anlass der COVID-19-Pandemie
+
+(1) Eine Versammlung nach § 15 kann bis zum Ablauf des 19. März 2022 auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu drei Monate verlängern.

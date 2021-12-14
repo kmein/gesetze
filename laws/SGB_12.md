@@ -1143,7 +1143,7 @@ Erstattung des Barbetrages durch den Bund ab dem Jahr 2020
 
 § 142
 
-Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie
+Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
 § 143
 
@@ -3775,13 +3775,11 @@ Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anz
 
 (6) Die Bundesregierung wird ermächtigt, den in Absatz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
-# § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie
+# § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung für Menschen mit Behinderungen aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
-(1) Abweichend von § 34 Absatz 6 Satz 1 kommt es im Zeitraum vom 1. März 2020 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, auf eine Gemeinschaftlichkeit der Mittagsverpflegung nicht an. Zu den Aufwendungen im Sinne des § 34 Absatz 6 Satz 1 zählen bei den Leistungsberechtigten anfallende Zahlungsverpflichtungen auch dann, wenn sie pandemiebedingt in geänderter Höhe oder aufgrund abweichender Abgabewege berechnet werden. Dies umfasst auch die Kosten einer Belieferung. § 34 Absatz 6 Satz 2 findet keine Anwendung.
+(1) Wurde im Oktober 2021 ein Mehrbedarf nach § 42b Absatz 2 anerkannt, wird dieser bis zum Ablauf des 31. März 2022 in unveränderter Höhe auch dann anerkannt, wenn abweichend von § 42b Absatz 2 Satz 1 und 2 die Voraussetzungen der Gemeinschaftlichkeit der Mittagsverpflegung und der Essenseinnahme in der Verantwortung des Leistungsanbieters nicht vorliegen. Für die Berechnung der Höhe des Mehrbedarfs sind die Anzahl der für Oktober 2021 berücksichtigten Arbeitstage und die sich nach § 42b Absatz 2 Satz 3 ergebenden Mehraufwendungen je Arbeitstag zugrunde zu legen.
 
-(2) Wurde im Februar 2020 ein Mehrbedarf nach § 42b Absatz 2 anerkannt, wird dieser für den Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 in unveränderter Höhe weiterhin anerkannt. Für den Zeitraum vom 1. Januar 2021 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, gilt dies mit der Maßgabe, dass für die Berechnung der Höhe des Mehrbedarfs die Anzahl der für Februar 2020 berücksichtigten Arbeitstage und die nach § 42b Absatz 2 Satz 3 sich ergebenden Mehraufwendungen je Arbeitstag zugrunde zu legen sind. Abweichend von § 42b Absatz 2 Satz 1 und 2 kommt es im Zeitraum vom 1. Mai 2020 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, nicht auf die Gemeinschaftlichkeit der Mittagsverpflegung und die Essenseinnahme in der Verantwortung des Leistungsanbieters an.
-
-(3) (weggefallen)
+(2) Die Bundesregierung wird ermächtigt, den in Absatz 1 Satz 1 genannten Zeitraum durch Rechtsverordnung ohne Zustimmung des Bundesrates längstens bis zum 31. Dezember 2022 zu verlängern.
 
 # § 143 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
 
