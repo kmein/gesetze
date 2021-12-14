@@ -377,6 +377,12 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 2. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
 
+# § 41b – Sonderregelung aus Anlass der COVID-19-Pandemie
+
+(1) Bis zum Ablauf des 19. März 2022 können die Teilnahme an Sitzungen des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne des § 19 sowie die Beschlussfassung auch mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu drei Monate verlängern.
+
 # § 42 – Errichtungs- und Tätigkeitsschutz
 
 Niemand darf

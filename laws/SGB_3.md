@@ -2975,9 +2975,7 @@ Die besonderen Bedürfnisse behinderter und schwerbehinderter Menschen sollen an
 
 (3) Der oder dem Ausbildungsuchenden oder der oder dem Arbeitsuchenden ist eine Ausfertigung der Eingliederungsvereinbarung auszuhändigen. Die Eingliederungsvereinbarung ist sich ändernden Verhältnissen anzupassen; sie ist fortzuschreiben, wenn in dem Zeitraum, für den sie zunächst galt, die Ausbildungssuche oder Arbeitsuche nicht beendet wurde. Sie ist spätestens nach sechsmonatiger Arbeitslosigkeit, bei arbeitslosen und ausbildungsuchenden jungen Menschen spätestens nach drei Monaten, zu überprüfen. Kommt eine Eingliederungsvereinbarung nicht zustande, sollen die nach Absatz 2 Satz 1 Nummer 3 erforderlichen Eigenbemühungen durch Verwaltungsakt festgesetzt werden.
 
-# § 37a
-
-(weggefallen)
+# § 37a – (weggefallen)
 
 # § 37b – (weggefallen)
 
@@ -3565,9 +3563,7 @@ Satz 1 Nummer 1 gilt nicht für Ausländerinnen und Ausländer, die sich mit ein
 
 (8) Mit der Durchführung von Maßnahmen der außerbetrieblichen Berufsausbildung beauftragt die Agentur für Arbeit Träger unter Anwendung des Vergaberechts.
 
-# § 76a
-
-(weggefallen)
+# § 76a – (weggefallen)
 
 # § 77 – (weggefallen)
 
@@ -5493,9 +5489,7 @@ Berufsberatende, die die Interessen eines Arbeitgebers oder einer Einrichtung wa
 
 Für eine Berufsberatung dürfen Vergütungen von Ratsuchenden nur dann verlangt oder entgegengenommen werden, wenn die oder der Berufsberatende nicht zugleich eine Vermittlung von Ausbildungs- oder Arbeitsplätzen betreibt oder eine entsprechende Vermittlung in damit zusammenhängenden Geschäftsräumen betrieben wird. Entgegen Satz 1 geschlossene Vereinbarungen sind unwirksam.
 
-# § 291
-
-(weggefallen)
+# § 291 – (weggefallen)
 
 # § 292 – Auslandsvermittlung, Anwerbung aus dem Ausland
 
@@ -5927,9 +5921,7 @@ Die Leistungen der Arbeitsförderung und die sonstigen Ausgaben der Bundesagentu
 
 Beitragspflichtige Einnahme ist bei Personen, die beschäftigt sind, das Arbeitsentgelt, bei Personen, die zur Berufsausbildung beschäftigt sind, jedoch mindestens ein Arbeitsentgelt in Höhe von einem Prozent der Bezugsgröße.
 
-# § 343
-
-(weggefallen)
+# § 343 – (weggefallen)
 
 # § 344 – Sonderregelungen für beitragspflichtige Einnahmen Beschäftigter
 
@@ -6351,9 +6343,7 @@ Die Bundesagentur kann die Mitgliedschaft in Vereinen erwerben und mit Zustimmun
 
 (4) Die Zahl der Mitglieder der Verwaltungsausschüsse setzt der Verwaltungsrat fest; die Mitgliederzahl darf höchstens 15 betragen. Jede Gruppe kann bis zu zwei stellvertretende Mitglieder benennen.
 
-# § 374a
-
-(weggefallen)
+# § 374a – (weggefallen)
 
 # § 375 – Amtsdauer
 
@@ -6739,25 +6729,15 @@ maßgebend, wenn der Beschäftigungsort im Beitrittsgebiet liegt.
 
 # §§ 409 u. 410 – (weggefallen)
 
-# § 411
+# § 411 – (weggefallen)
 
-(weggefallen)
+# § 412 – (weggefallen)
 
-# § 412
+# § 413 – (weggefallen)
 
-(weggefallen)
+# § 414 – (weggefallen)
 
-# § 413
-
-(weggefallen)
-
-# § 414
-
-(weggefallen)
-
-# § 415
-
-(weggefallen)
+# § 415 – (weggefallen)
 
 # § 416 – (weggefallen)
 

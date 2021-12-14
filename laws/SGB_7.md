@@ -3091,9 +3091,7 @@ Im Fall der Wiedererkrankung an den Folgen des Versicherungsfalls gelten die §�
 
 Höhe und Berechnung des Übergangsgeldes bestimmen sich nach den §§ 66 bis 71 des Neunten Buches, soweit dieses Buch nichts Abweichendes bestimmt; im Übrigen gelten die Vorschriften für das Verletztengeld entsprechend.
 
-# § 51
-
-(weggefallen)
+# § 51 – (weggefallen)
 
 # § 52 – Anrechnung von Einkommen auf Verletzten- und Übergangsgeld
 
@@ -5258,7 +5256,7 @@ Die Verbände der Unfallversicherungsträger haben bis zum 31. Dezember 2026 dem
 
 2. die Übergangszeit nach § 67 Absatz 3 Satz 1 Nummer 2 Buchstabe b überschritten wird.
 
-(3) Personen, die eine Tätigkeit als Ärztin oder Arzt in einem Impfzentrum im Sinne der Coronavirus-Impfverordnung oder einem Testzentrum im Sinne der Coronavirus-Testverordnung oder in den jeweils dort angegliederten mobilen Teams ausüben, sind kraft Gesetzes versichert. Die Versicherung nach Satz 1 geht der Versicherung nach § 2 Absatz 1 Nummer 1 und 9 vor.
+(3) Personen, die eine Tätigkeit als Ärztin oder Arzt, Zahnärztin oder Zahnarzt, Tierärztin oder Tierarzt oder Apothekerin oder Apotheker in einem Impfzentrum im Sinne der Coronavirus-Impfverordnung oder einem Testzentrum im Sinne der Coronavirus-Testverordnung oder in den jeweils dort angegliederten mobilen Teams ausüben, sind kraft Gesetzes versichert. Die Versicherung nach Satz 1 geht der Versicherung nach § 2 Absatz 1 Nummer 1 und 9 vor.
 
 # § 219 – (weggefallen)
 

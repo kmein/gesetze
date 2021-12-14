@@ -2742,7 +2742,7 @@ Für die Sozialversicherungswahlen im Jahr 2023 gilt § 48a Absatz 4 in Verbind
 
 # § 130 – Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren
 
-Einnahmen aus Tätigkeiten als Ärztin oder Arzt in einem Impfzentrum im Sinne der Coronavirus-Impfverordnung oder einem dort angegliederten mobilen Impfteam sind in der Zeit vom 15. Dezember 2020 bis zum 30. April 2022 nicht beitragspflichtig. Für Tätigkeiten, bei denen die Einnahmen nach Satz 1 nicht beitragspflichtig sind, bestehen keine Meldepflichten nach diesem Buch.
+Einnahmen aus Tätigkeiten als Ärztin oder Arzt, Zahnärztin oder Zahnarzt, Tierärztin oder Tierarzt oder Apothekerin oder Apotheker in einem Impfzentrum im Sinne der Coronavirus-Impfverordnung oder einem dort angegliederten mobilen Impfteam sind in der Zeit vom 15. Dezember 2020 bis zum 31. Mai 2022 nicht beitragspflichtig. Für Tätigkeiten, bei denen die Einnahmen nach Satz 1 nicht beitragspflichtig sind, bestehen keine Meldepflichten nach diesem Buch.
 
 # § 131 – Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren
 

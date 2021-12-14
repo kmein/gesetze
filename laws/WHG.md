@@ -1009,9 +1009,11 @@ Absatz 1 Satz 2 gilt entsprechend. In den Fällen des Satzes 2 Nummer 4 ist sich
 
 2. eine Erläuterung, inwiefern die festgelegten Maßnahmen zur Erreichung der nach § 45e Satz 1 festgelegten Ziele beitragen,
 
-3. gegebenenfalls Fristverlängerungen nach § 45g Absatz 1 und Ausnahmen nach § 45g Absatz 2, jeweils einschließlich einer Begründung, und
+3. gegebenenfalls Fristverlängerungen nach § 45g Absatz 1 und Ausnahmen nach § 45g Absatz 2, jeweils einschließlich einer Begründung,
 
-4. gegebenenfalls Maßnahmen nach § 45g Absatz 3.
+4. gegebenenfalls Maßnahmen nach § 45g Absatz 3 und
+
+5. Maßnahmen nach Artikel 4 bis 10 der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1).
 
 Bis zum 31. Dezember 2013 sind Informationen zu den Gebieten zu veröffentlichen, die in Satz 4 Nummer 1 sowie in Artikel 13 Absatz 5 der Richtlinie 2008/56/EG genannt sind.
 
@@ -1828,7 +1830,7 @@ Können sich die Länder bei der Zusammenarbeit im Rahmen dieses Abschnitts übe
 
 (1) Für jede Flussgebietseinheit ist nach Maßgabe der Absätze 2 bis 6 ein Maßnahmenprogramm aufzustellen, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31, 44 und 47 zu erreichen. Die Ziele der Raumordnung sind zu beachten; die Grundsätze und sonstigen Erfordernisse der Raumordnung sind zu berücksichtigen.
 
-(2) In das Maßnahmenprogramm sind grundlegende und, soweit erforderlich, ergänzende Maßnahmen aufzunehmen; dabei ist eine in Bezug auf die Wassernutzung kosteneffiziente Kombination der Maßnahmen vorzusehen.
+(2) In das Maßnahmenprogramm sind grundlegende und, soweit erforderlich, ergänzende Maßnahmen aufzunehmen; dabei ist eine in Bezug auf die Wassernutzung kosteneffiziente Kombination der Maßnahmen vorzusehen. Das Maßnahmenprogramm enthält auch Maßnahmen nach Artikel 4 bis 10 der Richtlinie (EU) 2019/904.
 
 (3) Grundlegende Maßnahmen sind alle in Artikel 11 Absatz 3 der Richtlinie 2000/60/EG bezeichneten Maßnahmen, die der Erreichung der Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31, 44 und 47 dienen oder zur Erreichung dieser Ziele beitragen.
 

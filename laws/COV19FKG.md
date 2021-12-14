@@ -96,9 +96,7 @@ Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtsch
 
 # § 11 – Geltungszeitraum
 
-Die §§ 2, 4, 5 und 9 sind nur auf Beschlussfassungen, Wahlen und Kammerversammlungen, § 3 ist nur auf Beschlussfassungen, Wahlen sowie Haupt- und Satzungsversammlungen, § 6 ist nur auf Beschlussfassungen und Vertreterversammlungen, die §§ 7 und 8 sind nur auf Beschlussfassungen und Wahlen und § 10 ist nur auf Beschlussfassungen sowie Bundeskammer- und Satzungsversammlungen anzuwenden, die bis einschließlich zum 31. Dezember 2020 stattfinden.
-
-(+++ Zur Geltungsverlängerung der §§ 2 bis 10 bis zum 31.12.2021 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+Die §§ 2, 4, 5 und 9 sind nur auf Beschlussfassungen, Wahlen und Kammerversammlungen, § 3 ist nur auf Beschlussfassungen, Wahlen sowie Haupt- und Satzungsversammlungen, § 6 ist nur auf Beschlussfassungen und Vertreterversammlungen, die §§ 7 und 8 sind nur auf Beschlussfassungen und Wahlen und § 10 ist nur auf Beschlussfassungen sowie Bundeskammer- und Satzungsversammlungen anzuwenden, die bis einschließlich zum 30. Juni 2022 stattfinden.
 
 # § 12 – Verordnungsermächtigung
 
