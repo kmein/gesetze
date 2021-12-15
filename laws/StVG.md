@@ -1284,8 +1284,6 @@ geahndet werden.
 
 (5) Fahrzeuge, Fahrzeugteile und Ausrüstungen, auf die sich eine Ordnungswidrigkeit nach Absatz 1 in Verbindung mit § 6 Absatz 1 Satz 1 Nummer 5 oder 10 oder eine Ordnungswidrigkeit nach Absatz 2 Satz 1 bezieht, können eingezogen werden.
 
-§ 24: Mit dem GG vereinbar gem. BVerfGE v. 16.7.1969 I 1444 - 2 BvL 2/69 -;
-
 # § 24a – 0,5 Promille-Grenze
 
 (1) Ordnungswidrig handelt, wer im Straßenverkehr ein Kraftfahrzeug führt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
