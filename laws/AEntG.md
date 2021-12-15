@@ -245,6 +245,14 @@ anwesend sind und zustimmen. Ordentliche Mitglieder können durch ihre jeweilige
 
 (4) Die Sitzungen der Kommission werden von einem oder einer nicht stimmberechtigten Beauftragten des Bundesministeriums für Arbeit und Soziales geleitet. Sie sind nicht öffentlich. Der Inhalt ihrer Beratungen ist vertraulich. Die Kommission zieht regelmäßig nicht stimmberechtigte Vertreter des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums für Gesundheit zu den Sitzungen hinzu. Näheres ist in der Geschäftsordnung der Kommission zu regeln.
 
+(5) Die Teilnahme an Sitzungen der Kommission sowie die Beschlussfassung können in begründeten Ausnahmefällen mittels einer Video- oder Telefonkonferenz erfolgen, wenn
+
+1. kein Mitglied der Kommission diesem Verfahren unverzüglich widerspricht,
+
+2. der oder die Beauftragte des Bundesministeriums für Arbeit und Soziales diesem Verfahren nicht unverzüglich widerspricht und
+
+3. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
+
 # § 13 – Rechtsfolgen
 
 Die Regelungen einer Rechtsverordnung nach § 7a gehen den Regelungen einer Rechtsverordnung nach § 11 vor, soweit sich die Geltungsbereiche der Rechtsverordnungen überschneiden. Unbeschadet des Satzes 1 steht eine Rechtsverordnung nach § 11 für die Anwendung der §§ 8 und 9 sowie der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.

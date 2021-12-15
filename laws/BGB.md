@@ -7153,6 +7153,12 @@ Zur Erhöhung des vereinbarten Beitrags oder zur Ergänzung der durch Verlust ve
 
 (+++ §§ 707a bis 707c: Zukünftig in Kraft +++)
 
+# § 707d – Verordnungsermächtigung
+
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Gesellschaftsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz und für Verbraucherschutz nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+
+(2) Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus den Gesellschaftsregistern abrufbar sind, und sind für die Abwicklung des elektronischen Abrufverfahrens zuständig. Die Landesregierung kann die Zuständigkeit durch Rechtsverordnung abweichend regeln; sie kann diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die Länder können ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem bestimmen. Sie können auch eine Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes sowie mit dem Betreiber des Unternehmensregisters eine Übertragung der Abwicklungsaufgaben auf das Unternehmensregister vereinbaren.
+
 # § 708 – Haftung der Gesellschafter
 
 Ein Gesellschafter hat bei der Erfüllung der ihm obliegenden Verpflichtungen nur für diejenige Sorgfalt einzustehen, welche er in eigenen Angelegenheiten anzuwenden pflegt.
