@@ -80,7 +80,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 1. eines im Jahr 2021 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandenen Erlösrückgangs und
 
-2. eines im Jahr 2021 gegenüber dem Jahr 2019 entstandenen Erlösanstiegs, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist.
+2. eines im Jahr 2021 gegenüber dem Jahr 2019 entstandenen Erlösanstiegs, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 oder Absatz 1b des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist.
 
 (2) Die Vereinbarung muss insbesondere umfassen:
 
@@ -90,7 +90,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 a) ob ein im Jahr 2021 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandener Erlösrückgang vorliegt oder
 
-b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist, vorliegt,
+b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 oder Absatz 1b des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist, vorliegt,
 
 3. die Einzelheiten zum Nachweis der Erfüllung der nach Nummer 2 vereinbarten Kriterien,
 
@@ -100,7 +100,7 @@ b) ob ein im Jahr 2021 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der 
 
 (3) Die Erlöse für das Jahr 2019 sind auf das Preisniveau für das Jahr 2021 anzuheben.
 
-(4) Bei der Ermittlung der Erlöse für das Jahr 2021 sind die Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes sowie die für das Jahr 2021 gezahlten Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes in Höhe von 85 Prozent zu berücksichtigen. Bei der Ermittlung der Erlöse für das Jahr 2021 sind nicht zu berücksichtigen:
+(4) Bei der Ermittlung der Erlöse für das Jahr 2021 sind die Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 und Absatz 1b des Krankenhausfinanzierungsgesetzes in Höhe von 85 Prozent und die für das Jahr 2021 gezahlten Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes in Höhe von 50 Prozent zu berücksichtigen. Bei der Ermittlung der Erlöse für das Jahr 2021 sind nicht zu berücksichtigen:
 
 1. die Zusatzentgelte nach § 26 Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes,
 
@@ -130,7 +130,7 @@ c) § 5 Absatz 6 der Bundespflegesatzverordnung.
 
 a) Erlösrückgang oder
 
-b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist,
+b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 oder Absatz 1b des Krankenhausfinanzierungsgesetzes oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 zurückzuführen ist,
 
 4. den Ausgleichsbetrag für den Erlösrückgang oder den Erlösanstieg,
 
@@ -142,7 +142,7 @@ Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes si
 
 (9) Bei der Vereinbarung eines Erlösrückgangs sind 98 Prozent der nach Absatz 8 Satz 1 Nummer 1 für das Jahr 2019 vereinbarten Erlöse zugrunde zu legen. Der Ausgleichsbetrag entspricht 85 Prozent des nach Absatz 8 Satz 1 Nummer 3 Buchstabe a vereinbarten Erlösrückgangs.
 
-(10) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich des nach Absatz 8 Satz 1 Nummer 3 Buchstabe b vereinbarten Erlösanstiegs, sofern der vereinbarte Erlösanstieg unterhalb der nach Absatz 4 Satz 1 zu berücksichtigenden Summe der Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes liegt. Sie vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen und Versorgungsaufschläge entspricht.
+(10) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich des nach Absatz 8 Satz 1 Nummer 3 Buchstabe b vereinbarten Erlösanstiegs, sofern der vereinbarte Erlösanstieg unterhalb der nach Absatz 4 Satz 1 zu berücksichtigenden Summe der Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 und Absatz 1b des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes liegt. Sie vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 und Absatz 1b des Krankenhausfinanzierungsgesetzes und der Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen und Versorgungsaufschläge entspricht.
 
 (11) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes ziehen von dem nach Absatz 8 Satz 1 Nummer 4 vereinbarten Ausgleichsbetrag die nach Absatz 8 Satz 1 Nummer 5 vereinbarte Summe der abgerechneten Zuschläge nach § 6 Absatz 3 Satz 1 ab. Der nach Satz 1 ermittelte Betrag wird durch Zu- oder Abschläge auf die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen. Überzahlungen des Ausgleichsbetrags durch abgerechnete Zuschläge nach § 6 Absatz 3 Satz 1 sind vollständig auszugleichen.
 
