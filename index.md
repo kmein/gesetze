@@ -141,6 +141,7 @@
 - [ALBeitrBek 2019](laws/ALBeitrBek_2019.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2019
 - [ALBeitrBek 2020](laws/ALBeitrBek_2020.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2020
 - [ALBeitrBek 2021](laws/ALBeitrBek_2021.md) Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2021
+- [ALBeitrBek 2022](laws/ALBeitrBek_2022.md) Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022
 - [ALFV](laws/ALFV.md) Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft
 - [ALG](laws/ALG.md) Gesetz über die Alterssicherung der Landwirte
 - [Alg II-V](laws/Alg_II-V.md) Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
@@ -5851,6 +5852,7 @@
 - [VersorgAusglUmrFaktorBek 2019](laws/VersorgAusglUmrFaktorBek_2019.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2020](laws/VersorgAusglUmrFaktorBek_2020.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgAusglUmrFaktorBek 2021](laws/VersorgAusglUmrFaktorBek_2021.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+- [VersorgAusglUmrFaktorBek 2022](laws/VersorgAusglUmrFaktorBek_2022.md) Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 - [VersorgLErstV](laws/VersorgLErstV.md) Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet
 - [VersRücklG](laws/VersRücklG.md) Gesetz über eine Versorgungsrücklage des Bundes
 - [VersRuhG](laws/VersRuhG.md) Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen
@@ -6382,6 +6384,7 @@
 - [ZensVorbG 2011](laws/ZensVorbG_2011.md) Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011
 - [ZensVorbG 2022](laws/ZensVorbG_2022.md) Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2022
 - [ZerlG](laws/ZerlG.md) Zerlegungsgesetz
+- [ZertVerwV](laws/ZertVerwV.md) Verordnung über die Prüfung zum zertifizierten Verwalter nach dem Wohnungseigentumsgesetz
 - [ZESV](laws/ZESV.md) Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung und über die zuständige Behörde nach dem Stammzellgesetz
 - [ZFdG](laws/ZFdG.md) Gesetz über das Zollkriminalamt und die Zollfahndungsämter
 - [ZGÄndG 14](laws/ZGÄndG_14.md) Vierzehntes Gesetz zur Änderung des Zollgesetzes
