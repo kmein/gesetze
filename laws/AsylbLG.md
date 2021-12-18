@@ -105,8 +105,6 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (4) Bedarfe für Bildung und Teilhabe am sozialen und kulturellen Leben in der Gemeinschaft werden bei Kindern, Jugendlichen und jungen Erwachsenen neben den Leistungen nach den Absätzen 1 bis 3 entsprechend den §§ 34, 34a und 34b des Zwölften Buches Sozialgesetzbuch gesondert berücksichtigt. Die Regelung des § 141 Absatz 5 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
 
-(4a) Die Regelungen des § 142 Absatz 1 des Zwölften Buches Sozialgesetzbuch sowie eine nach dessen Absatz 3 erlassene Rechtsverordnung gelten entsprechend.
-
 (5) Leistungen in Geld oder Geldeswert sollen der oder dem Leistungsberechtigten oder einem volljährigen berechtigten Mitglied des Haushalts persönlich ausgehändigt werden. Stehen die Leistungen nicht für einen vollen Monat zu, wird die Leistung anteilig erbracht; dabei wird der Monat mit 30 Tagen berechnet. Geldleistungen dürfen längstens einen Monat im Voraus erbracht werden. Von Satz 3 kann nicht durch Landesrecht abgewichen werden.
 
 (6) Die Regelung des § 144 Satz 1 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.

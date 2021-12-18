@@ -572,9 +572,9 @@ Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in Packungen oder Be
 
 Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus naturbelassenen Hölzern und Zweigen, Heidekraut und Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen. Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1 myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu werden, und von Erzeugnissen aus Käse mit dem gleichen Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2 festgesetzte Höchstmenge hinaus nicht verwendet werden.
 
-# §§ 23 bis 26 – (weggefallen)
+# §§ 23 bis 25 – (weggefallen)
 
-# §§ 24 bis 26 – (weggefallen)
+# § 26 – (weggefallen)
 
 # § 27 – Befugnisse der Länder
 
