@@ -29,7 +29,7 @@ Das Bundesministerium für Gesundheit verordnet auf Grund des
 
 Deutsche Staatsangehörige mit Wohnsitz außerhalb der Bundesrepublik Deutschland können im Übrigen im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe mit Schutzimpfungen gegen das Coronavirus SARS-CoV-2 versorgt werden.
 
-(2) Der Anspruch nach Absatz 1 Satz 1 umfasst die Aufklärung und Impfberatung der zu impfenden Person, die symptombezogene Untersuchung zum Ausschluss akuter Erkrankungen oder Allergien, die Verabreichung des Impfstoffs im Rahmen der arzneimittelrechtlichen Zulassung oder im Rahmen nichtkommerzieller klinischer Studien, die Beobachtung der sich an die Verabreichung des Impfstoffs unmittelbar anschließenden Nachsorgephase, die erforderliche medizinische Intervention im Fall des Auftretens von Impfreaktionen, die Ausstellung der Impfdokumentation und die Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22 Absatz 5 des Infektionsschutzgesetzes. Die Aufklärung und Impfberatung der zu impfenden Person beinhalten
+(2) Der Anspruch nach Absatz 1 Satz 1 umfasst die Aufklärung und Impfberatung der zu impfenden Person, die symptombezogene Untersuchung zum Ausschluss akuter Erkrankungen oder Allergien, die Verabreichung des Impfstoffs die Beobachtung der sich an die Verabreichung des Impfstoffs unmittelbar anschließenden Nachsorgephase, die erforderliche medizinische Intervention im Fall des Auftretens von Impfreaktionen, die Ausstellung der Impfdokumentation und die Erstellung eines COVID-19-Impfzertifikats im Sinne des § 22 Absatz 5 des Infektionsschutzgesetzes. Die Verabreichung des Impfstoffes soll grundsätzlich im Rahmen der arzneimittelrechtlichen Zulassung erfolgen. Eine davon abweichende Verabreichung kann erfolgen, wenn sie nach dem Stand der Wissenschaft medizinisch vertretbar ist oder im Rahmen nichtkommerzieller klinischer Studien erfolgt. Die Aufklärung und Impfberatung der zu impfenden Person beinhalten
 
 1. die Information über den Nutzen der Schutzimpfung und die Coronavirus-Krankheit-2019 (COVID-19),
 
@@ -51,9 +51,7 @@ Die für die Durchführung der Schutzimpfung verantwortliche Person im Sinne von
 
 # § 2 – Folge- und Auffrischimpfungen
 
-(1) Der Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 nach § 1 Absatz 2 umfasst Folge- und Auffrischimpfungen.
-
-(2) Von der Ständigen Impfkommission beim Robert Koch-Institut empfohlene Abstände zwischen Erst- und Folge- sowie Auffrischimpfungen sollen eingehalten werden. Werden empfohlene Abstände im Einzelfall aus wichtigem Grund überschritten, soll das Impfschema auf Grundlage der Empfehlungen der Ständigen Impfkommission beim Robert Koch-Institut fortgesetzt werden.
+Der Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 nach § 1 Absatz 2 umfasst Folge- und Auffrischimpfungen.
 
 # § 3 – Leistungserbringer
 
@@ -113,7 +111,15 @@ Der Verband der Privatärztlichen Verrechnungsstellen e. V. bescheinigt nach Vor
 
 9. Chargennummer.
 
-Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 sowie die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die an der vertragsärztlichen Versorgung teilnehmen, haben täglich in aggregierter Form ihre Kennnummer und ihren Landkreis, die in Satz 1 Nummer 6 bis 8 genannten Angaben sowie Angaben dazu, ob die geimpfte Person entweder das 18. Lebensjahr noch nicht vollendet hat oder das 60. Lebensjahr vollendet hat, aufgegliedert nach Erst-, Folge- oder Auffrischimpfung, gemäß dem Verfahren nach Absatz 3 oder Absatz 4 an das Robert Koch-Institut zu übermitteln.
+Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 sowie die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 6, die an der vertragsärztlichen Versorgung teilnehmen, haben täglich gemäß dem Verfahren nach Absatz 3 oder Absatz 4 in aggregierter Form aufgegliedert nach Erst-, Folge- oder Auffrischimpfung ihre Kennnummer und ihren Landkreis, die in Satz 1 Nummer 6 bis 8 genannten Angaben sowie Angaben dazu, ob die geimpfte Person einer der folgenden Altersgruppen angehört, an das Robert Koch-Institut zu übermitteln:
+
+1. 5 bis 11 Jahre,
+
+2. 12 bis 17 Jahre,
+
+3. 18 bis 59 Jahre,
+
+4. 60 Jahre und älter.
 
 (2) Für die Datenübermittlung nach Absatz 1 Satz 1 ist das elektronische Melde- und Informationssystem nach § 14 des Infektionsschutzgesetzes zu nutzen.
 
@@ -161,9 +167,9 @@ Die Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 4 und 5 sowie die Leistu
 
 (1) Die notwendigen Kosten der von den zuständigen Stellen der Länder eingerichteten Impfzentren und mobilen Impfteams werden nach Maßgabe der Absätze 2 bis 4 in der entstandenen Höhe wie folgt erstattet:
 
-1. bis zum 31. Dezember 2020 und ab dem 1. Januar 2022 zu 46,5 Prozent aus der Liquiditätsreserve des Gesundheitsfonds und zu 3,5 Prozent von den privaten Krankenversicherungsunternehmen und
+1. bis zum 31. Dezember 2020 zu 46,5 Prozent aus der Liquiditätsreserve des Gesundheitsfonds und zu 3,5 Prozent von den privaten Krankenversicherungsunternehmen und
 
-2. ab dem 1. Januar 2021 bis zum 31. Dezember 2021 zu 50 Prozent aus der Liquiditätsreserve des Gesundheitsfonds.
+2. ab dem 1. Januar 2021 zu 50 Prozent aus der Liquiditätsreserve des Gesundheitsfonds.
 
 Die Impfzentren und die mobilen Impfteams sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal- und Sachmitteln, der genutzten Räumlichkeiten sowie der Dauer des Betriebs.
 
@@ -201,9 +207,15 @@ Die Impfzentren und die mobilen Impfteams sind wirtschaftlich zu betreiben, insb
 
 (1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler eine Vergütung je an die Apotheke abgegebener Durchstechflasche in Höhe von 7,45 Euro zuzüglich Umsatzsteuer.
 
-(2) Für die Abgabe von durch den Großhandel selbst beschafftem Impfbesteck und -zubehör an Apotheken erhält der Großhändler zusätzlich eine Vergütung in Höhe von 2,80 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche des Impfstoffes Spikevax, im Übrigen 1,40 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
+(2) Für die Abgabe von durch den Großhandel selbst beschafftem Impfbesteck und -zubehör an Apotheken erhält der Großhändler zusätzlich eine Vergütung in Höhe von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
 
 (3) Die Vergütung nach den Absätzen 1 und 2 wird von den Apotheken unter Angabe der BUND-Pharmazentralnummer für den Großhandel nach § 10 abgerechnet.
+
+(4) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Lieferorte entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler eine Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
+
+(5) Für die Abgabe von selbst beschafftem Impfbesteck und -zubehör durch von den Ländern beauftragte Großhändler an von den Ländern mitgeteilte Lieferorte erhält der Großhändler eine Vergütung in Höhe von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
+
+(6) Die Vergütung nach den Absätzen 4 und 5 wird nach § 11 Absatz 1 Satz 1 Nummer 3 durch das jeweilige Land abgerechnet.
 
 # § 9 – Apothekenvergütung
 
@@ -223,7 +235,7 @@ Die Impfzentren und die mobilen Impfteams sind wirtschaftlich zu betreiben, insb
 
 # § 10 – Abrechnung der Großhandels- und Apothekenvergütung durch die Apotheken
 
-(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach den §§ 8 und 9 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Bei der Abrechnung der Vergütung nach § 9 Absatz 2 haben die Apotheken die für die Betriebsstättennummer und die lebenslange Arztnummer die von der Bundesvereinigung Deutscher Apothekerverbände e. V. festgelegten Pseudonyme anzugeben. Sie leiten die an sie ausgezahlte Vergütung nach § 8 an den Großhandel weiter.
+(1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach den § 8 Absatz 1 bis 3 und § 9 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Bei der Abrechnung der Vergütung nach § 9 Absatz 2 haben die Apotheken die für die Betriebsstättennummer und die lebenslange Arztnummer die von der Bundesvereinigung Deutscher Apothekerverbände e. V. festgelegten Pseudonyme anzugeben. Sie leiten die an sie ausgezahlte Vergütung nach § 8 an den Großhandel weiter.
 
 (2) Für die Erstellung von COVID-19-Impfzertifikaten im Sinne des § 22 Absatz 5 des Infektionsschutzgesetzes erstellen die Apotheken mindestens einmal pro Monat eine Abrechnung, aus der sich die Anzahl der erstellten COVID-19-Impfzertifikate und die dafür geltend gemachte Vergütung ergibt. Die an das Rechenzentrum im Rahmen der Abrechnung nach Absatz 1 Satz 1 übermittelten Angaben dürfen keinen Bezug zu der Person aufweisen, für die das COVID-19-Impfzertifikat ausgestellt wurde.
 
@@ -233,11 +245,13 @@ Die Impfzentren und die mobilen Impfteams sind wirtschaftlich zu betreiben, insb
 
 (1) Jedes Land übermittelt monatlich oder quartalsweise die folgenden Angaben an das Bundesamt für Soziale Sicherung:
 
-1. den sich für jedes Impfzentrum einschließlich der angegliederten mobilen Impfteams und für jedes nicht an ein Impfzentrum angegliederte mobile Impfteam ergebenden Gesamtbetrag der erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 einschließlich der Kennnummer des Impfzentrums oder des mobilen Impfteams und des Landkreises, in dem sich das Impfzentrum befindet oder das mobile Impfteam tätig ist, differenziert nach Sach- und Personalkosten, und
+1. den sich für jedes Impfzentrum einschließlich der angegliederten mobilen Impfteams und für jedes nicht an ein Impfzentrum angegliederte mobile Impfteam ergebenden Gesamtbetrag der erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 einschließlich der Kennnummer des Impfzentrums oder des mobilen Impfteams und des Landkreises, in dem sich das Impfzentrum befindet oder das mobile Impfteam tätig ist, differenziert nach Sach- und Personalkosten,
 
-2. den sich für das Land ergebenden Gesamtbetrag nach Nummer 1.
+2. den sich für das Land ergebenden Gesamtbetrag nach Nummer 1 und
 
-Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch das Land in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt den in § 7 Absatz 1 Satz 1 festgelegten prozentualen Anteil des nach Satz 1 Nummer 2 übermittelten Gesamtbetrags aus der Liquiditätsreserve des Gesundheitsfonds an das Land. Das Land kann beim Bundesamt für Soziale Sicherung für jeden Monat oder für jedes Quartal eine Abschlagszahlung in Höhe von bis zu 50 Prozent des voraussichtlichen Gesamtbetrags nach Satz 1 Nummer 2 für den Monat oder für das Quartal beantragen. Übersteigt die Abschlagszahlung den in § 7 Absatz 1 Satz 1 festgelegten prozentualen Anteil an dem sich für den Monat oder das Quartal ergebenden Gesamtbetrag, der nach Satz 1 Nummer 2 durch das Land übermittelt wird, ist der Überschreitungsbetrag durch das Land an die Liquiditätsreserve des Gesundheitsfonds zu zahlen. Die für ein Quartal erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 sind von den Ländern bis spätestens zum Ende des fünften auf den Abrechnungszeitraum folgenden Monats gegenüber dem Bundesamt für Soziale Sicherung abzurechnen. Abweichend von Satz 6 sind erstattungsfähige Kosten nach § 7 Absatz 1 Satz 1, die bis zum 30. September 2021 entstanden sind, bis spätestens zum 28. Februar 2022 abzurechnen. Dabei sind Kosten, die für die Errichtung, die Vorhaltung und den Betrieb von Impfzentren im Zeitraum vom 15. Dezember bis zum 31. Dezember 2020 entstanden sind, separat auszuweisen. Der Anspruch nach § 7 ist nach Ablauf der Fristen nach den Sätzen 6 und 7 ausgeschlossen.
+3. den sich für das Land ergebenden Gesamtbetrag der Abrechnung nach § 8 Absatz 4 und 5
+
+Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch das Land in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt den in § 7 Absatz 1 Satz 1 festgelegten prozentualen Anteil des nach Satz 1 Nummer 2 übermittelten Gesamtbetrags und den nach Satz 1 Nummer 3 übermittelten Gesamtbetrag aus der Liquiditätsreserve des Gesundheitsfonds an das Land. Das Land kann beim Bundesamt für Soziale Sicherung für jeden Monat oder für jedes Quartal eine Abschlagszahlung in Höhe von bis zu 50 Prozent des voraussichtlichen Gesamtbetrags nach Satz 1 Nummer 2 für den Monat oder für das Quartal beantragen. Übersteigt die Abschlagszahlung den in § 7 Absatz 1 Satz 1 festgelegten prozentualen Anteil an dem sich für den Monat oder das Quartal ergebenden Gesamtbetrag, der nach Satz 1 Nummer 2 durch das Land übermittelt wird, ist der Überschreitungsbetrag durch das Land an die Liquiditätsreserve des Gesundheitsfonds zu zahlen. Die für ein Quartal erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 sind von den Ländern bis spätestens zum Ende des fünften auf den Abrechnungszeitraum folgenden Monats gegenüber dem Bundesamt für Soziale Sicherung abzurechnen. Abweichend von Satz 6 sind erstattungsfähige Kosten nach § 7 Absatz 1 Satz 1, die bis zum 30. September 2021 entstanden sind, bis spätestens zum 28. Februar 2022 abzurechnen. Dabei sind Kosten, die für die Errichtung, die Vorhaltung und den Betrieb von Impfzentren im Zeitraum vom 15. Dezember bis zum 31. Dezember 2020 entstanden sind, separat auszuweisen. Der Anspruch nach § 7 ist nach Ablauf der Fristen nach den Sätzen 6 und 7 ausgeschlossen.
 
 (2) An das Bundesamt für Soziale Sicherung übermittelt
 
@@ -268,8 +282,6 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen s
 2. den nach § 11 Absatz 3 Satz 3 der Coronavirus-Impfverordnung vom 10. März 2021 (BAnz AT 11.03.2021 V1) an die Kassenärztliche Bundesvereinigung gezahlten Betrag, abzüglich der Beträge nach § 11 Absatz 3 Satz 4.
 
 Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der in Satz 1 genannten Beträge. Das Bundesamt für Soziale Sicherung kann für den Zweck der Übermittlung nach Satz 1 die Verfahrensbestimmung nach § 11 Absatz 4 anpassen.
-
-(3) Ab dem 1. Januar 2022 werden abweichend von den Absätzen 1 und 2 nach § 11 Absatz 2 Satz 3 aus der Liquiditätsreserve des Gesundheitsfonds gezahlte Beträge durch den Bund erstattet. Das Bundesamt für Soziale Sicherung übermittelt dem Bundeministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 11 Absatz 2 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen und der an die Rechenzentren gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 2.
 
 # § 13 – Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen
 
@@ -307,4 +319,4 @@ Diese Verordnung wird insbesondere auf Grundlage der jeweils vorliegenden infekt
 
 # § 17 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. September 2021 in Kraft; sie tritt mit Ablauf des 30. April 2022 außer Kraft. Die Coronavirus-Impfverordnung vom 1. Juni 2021 (BAnz AT 02.06.2021 V2), die zuletzt durch Artikel 1 der Verordnung vom 13. Juli 2021 (BAnz AT 14.07.2021 V1) geändert worden ist, tritt mit Ablauf des 31. August 2021 außer Kraft.
+Diese Verordnung tritt am 1. September 2021 in Kraft; sie tritt mit Ablauf des 31. Mai 2022 außer Kraft. Die Coronavirus-Impfverordnung vom 1. Juni 2021 (BAnz AT 02.06.2021 V2), die zuletzt durch Artikel 1 der Verordnung vom 13. Juli 2021 (BAnz AT 14.07.2021 V1) geändert worden ist, tritt mit Ablauf des 31. August 2021 außer Kraft.
