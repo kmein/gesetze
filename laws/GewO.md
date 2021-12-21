@@ -679,6 +679,10 @@ Protokollierungen
 
 Elektronische Antragstellung
 
+§ 150f
+
+Automatisiertes Auskunftsverfahren
+
 § 151
 
 Eintragungen in besonderen Fällen
@@ -696,6 +700,10 @@ Tilgung von Eintragungen
 Mitteilungen zum Gewerbezentralregister
 
 § 153b
+
+Identifizierungsverfahren
+
+§ 153c
 
 Verwaltungsvorschriften
 
@@ -3245,6 +3253,10 @@ Lässt das elektronische Speicher- und Verarbeitungsmedium die Übermittlung des
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
+# § 150f – Automatisiertes Auskunftsverfahren
+
+Die Einrichtung eines automatisierten Anfrage- und Auskunftsverfahrens für die Übermittlung personenbezogener Daten ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend.
+
 # § 151 – Eintragungen in besonderen Fällen
 
 (1) In den Fällen des § 149 Absatz 2 Satz 1 Nr. 1 Buchstabe a und b ist die Eintragung auch bei
@@ -3305,9 +3317,21 @@ zu tilgen.
 
 (1) Die Behörden und die Gerichte teilen dem Gewerbezentralregister die einzutragenden Entscheidungen, Feststellungen und Tatsachen mit. § 30 der Abgabenordnung steht den Mitteilungen von Entscheidungen im Sinne des § 149 Absatz 2 Satz 1 Nr. 3 nicht entgegen.
 
-(2) Erhält die Registerbehörde eine Mitteilung über die Änderung des Namens einer Person, über die das Register eine Eintragung enthält, so ist der neue Name bei der Eintragung zu vermerken.
+(2) Erhält die Registerbehörde eine Mitteilung über die Änderung des Geburtsnamens, des Familiennamens, eines Vornamens oder des Geburtsdatums einer Person, über die das Register eine Eintragung enthält, so ist die geänderte Angabe bei der Eintragung zu vermerken.
 
-# § 153b – Verwaltungsvorschriften
+# § 153b – Identifizierungsverfahren
+
+Soweit dies zur Durchführung der Aufgaben der Registerbehörde, insbesondere nach diesem Gesetz erforderlich ist, darf die Registerbehörde bei Zweifeln an der Identität einer Person, für die eine Eintragung im Gewerbezentralregister gespeichert ist, ausschließlich zur Feststellung der Identität dieser Person, allein oder nebeneinander, insbesondere Auskünfte von folgenden öffentlichen Stellen einholen:
+
+1. aus dem Melderegister,
+
+2. aus dem Ausländerzentralregister sowie
+
+3. von Ausländerbehörden und Standesämtern.
+
+Im Rahmen eines solchen Auskunftsersuchens darf die Registerbehörde den ersuchten öffentlichen Stellen die hierzu erforderlichen personenbezogenen Daten übermitteln. Die ersuchten öffentlichen Stellen haben die von der Registerbehörde übermittelten personenbezogenen Daten spätestens nach Erteilung der Auskunft unverzüglich zu löschen.
+
+# § 153c – Verwaltungsvorschriften
 
 Die näheren Bestimmungen über den Aufbau des Registers trifft das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates getroffen.
 

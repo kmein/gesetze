@@ -173,7 +173,7 @@ in ihrer jeweils innerstaatlich geltenden Fassung auf Grund von § 11 Absatz 1 d
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Es hat die Aufgaben
 
-1. nach § 1 Nummer 4, soweit es sich um nautische Systeme, Anlagen, Instrumente und Geräte, Funkanlagen sowie Haftungsbescheinigungen handelt und diese Aufgaben nicht in einer Rechtsverordnung nach § 9 Absatz 1 in Verbindung mit § 9c auf eine andere zuständige Stelle übertragen werden oder auf Grund einer Rechtsverordnung nach § 7a Absatz 4 diese Aufgaben durch anerkannte juristische Personen des privaten Rechts wahrgenommen werden,
+1. nach § 1 Nummer 4, soweit es sich um nautische Systeme, Anlagen, Instrumente und Geräte sowie Funkanlagen handelt und diese Aufgaben nicht in einer Rechtsverordnung nach § 9 Absatz 1 in Verbindung mit § 9c auf eine andere zuständige Stelle übertragen werden oder auf Grund einer Rechtsverordnung nach § 7a Absatz 4 diese Aufgaben durch anerkannte juristische Personen des privaten Rechts wahrgenommen werden,
 
 1a. nach § 1 Nummer 4b und 4c,
 
@@ -283,17 +283,21 @@ zu regeln.
 
 (1) Soweit es zur Durchführung der Aufgaben nach § 1 Nummer 1 bis 6, 6b und 7a, 13 und 16 sowie nach § 2 erforderlich ist, können die damit betrauten Personen
 
-1. Wasserfahrzeuge anhalten und deren Betriebs- und Geschäftsräume betreten,
+1. Wasserfahrzeuge anhalten und die auf ihnen befindlichen Betriebs-, Geschäfts- und Wohnräume betreten,
 
-2. die zur Herstellung von Schiffsausrüstung dienenden Betriebs- und Geschäftsräume betreten und
+2. die zur Herstellung von Schiffsausrüstung dienenden Betriebs- und Geschäftsräume betreten,
 
-3. Prüfungen vornehmen.
+3. Betriebs- und Geschäftsräume des Eigentümers eines Wasserfahrzeugs, des sonst für dieses oder bestimmte Aufgaben seines Betriebes Verantwortlichen sowie der tätig gewordenen anerkannten Organisationen betreten,
 
-Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Räume, die zugleich Wohnzwecken dienen, dürfen diese Befugnisse nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung ausgeübt werden.
+4. Hafenanlagen mit Ausnahme der dort gelegenen Räumlichkeiten betreten und
+
+5. Kontrollen und Prüfungen vornehmen.
+
+Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Wohnräume dürfen diese Befugnisse nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung ausgeübt werden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (1a) Die mit der Durchführung der Aufgabe nach § 1 Nummer 2 betrauten Personen dürfen Wasserfahrzeuge zur Verkehrskontrolle einschließlich der Kontrolle der Verkehrstüchtigkeit anhalten und deren Betriebs- und Geschäftsräume betreten. Absatz 1 Satz 2 gilt entsprechend.
 
-(2) Der Eigentümer und der Führer eines Wasserfahrzeugs und der sonst für ein Wasserfahrzeug oder bestimmte Aufgaben seines Betriebes Verantwortliche sowie der Hersteller der von Schiffsausrüstung sind verpflichtet, den mit der Überwachung betrauten Personen die Maßnahmen nach Absatz 1 oder Absatz 1a zu gestatten, die bei der Überprüfung benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie auf Verlangen die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Erfüllung der genannten Aufgaben erforderlich sind.
+(2) Der Eigentümer und der Führer eines Wasserfahrzeugs und der sonst für ein Wasserfahrzeug oder bestimmte Aufgaben seines Betriebes Verantwortliche sowie der Hersteller der von Schiffsausrüstung sind verpflichtet, den mit der Überwachung betrauten Personen die Maßnahmen nach Absatz 1 oder Absatz 1a zu gestatten, die bei der Überprüfung benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie auf Verlangen die Auskünfte zu erteilen und die Unterlagen oder Auszüge aus elektronischen Dateien auszudrucken und vorzulegen und Einsicht in die Unterlagen, insbesondere Seetagebücher, Register, Zeugnisse, Nachweise und Befähigungszeugnisse, zu gewähren, die zur Erfüllung der genannten Aufgaben erforderlich sind. Die mit der Überwachung betrauten Personen können Abschriften, Auszüge, Ausdrucke oder Kopien, auch von Datenträgern, anfertigen oder solche verlangen und diese verwenden und speichern, soweit dies zur Erfüllung der Aufgaben erforderlich ist.
 
 (3) Bei Durchführung der Aufgaben nach § 1 Nummer 3 Buchstabe a bis d dürfen nur Schiffe oder Luftfahrzeuge eingesetzt werden, die deutlich als im Staatsdienst stehend gekennzeichnet und als solche erkennbar sind.
 
@@ -451,6 +455,16 @@ Die Daten können auch unter Zuhilfenahme und Auswertung automatischer Schiffsid
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Übermittlung von Unterlagen, die sich auf das Schifffahrtsgeschäft beziehen (insbesondere Verträge, Protokolle, Briefe, Studien, Marktberichte, Statistiken, Gutachten) und die Erteilung von Auskünften hierüber an Behörden und sonstige Stellen des Auslandes zu verbieten oder von einer Genehmigung abhängig zu machen, soweit dies erforderlich ist, um die deutsche Seeschifffahrt in der Freiheit ihrer wirtschaftlichen Betätigung zu schützen.
 
+# § 12
+
+Die zuständige Behörde kann für die Überprüfung eines Schiffes unter fremder Flagge in einem deutschen Hafen vor dem Auslaufen des Schiffes eine Sicherheitsleistung bis zur Höhe der voraussichtlich hierfür entstehenden Gebühren und Auslagen entgegennehmen.
+
+# § 13
+
+(1) Für das Befahren des Nord-Ostsee-Kanals sowie für die Inanspruchnahme bundeseigener Häfen werden von demjenigen, der den Nord-Ostsee-Kanal befährt oder der bundeseigene Häfen in Anspruch nimmt, Abgaben erhoben. Abgabenschuldner ist auch der Eigentümer des Schiffes. Mehrere Schuldner haften als Gesamtschuldner. Abgabengläubiger ist der Bund.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Höhe der Abgaben näher zu bestimmen. Soweit die Rechtsverordnung Abgaben für das Befahren des Nord-Ostsee-Kanals betrifft, sind vor ihrem Erlass die Küstenländer zu hören. Die Abgaben sind so zu bemessen, dass ihr Aufkommen höchstens die Ausgaben für den Kanal und die bundeseigenen Häfen einschließlich derjenigen für Betrieb und Unterhaltung deckt; die Wettbewerbslage des Kanals und der Nutzen, den der Abgabepflichtige von dem Befahren des Kanals oder der Inanspruchnahme der bundeseigenen Häfen hat, sind zu berücksichtigen. In der Rechtsverordnung können die zu erstattenden Auslagen, die Fälligkeit, die Verjährung, die Befreiung von der Zahlungspflicht sowie das Erhebungsverfahren geregelt werden.
+
 # § 14
 
 (1) Wer den Beruf eines Kanalsteurers am Nord-Ostsee-Kanal ausüben will, bedarf hinsichtlich der Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Verkehrs der Zulassung. Zum Beruf des Kanalsteurers wird zugelassen, wer
@@ -495,7 +509,9 @@ Im Falle einer Übertragung nach Satz 1 Nummer 6 unterliegt die beliehene Person
 
 1a. einer vollziehbaren Anordnung nach § 7a Absatz 2 Satz 2 zuwiderhandelt,
 
-1b. entgegen § 8 Absatz 2 eine Maßnahme nicht gestattet, eine Arbeitskraft oder ein Hilfsmittel nicht bereitstellt, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+1b. entgegen § 8 Absatz 2 Satz 1 eine Maßnahme nicht gestattet, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder Einsicht nicht oder nicht rechtzeitig gewährt,
+
+1c. einer vollziehbaren Anordnung nach § 8 Absatz 2 Satz 2 zuwiderhandelt,
 
 2. einer Rechtsverordnung nach § 9 Absatz 1 Satz 1 oder 3, Absatz 2 Satz 1, Absatz 3 oder 4, jeweils auch in Verbindung mit § 9c, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -535,7 +551,13 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 6 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1a, 2, 4 Buchstabe a, Nummer 5 Buchstabe a, Nummer 6 Buchstabe a und Nummer 7 Buchstabe a mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1 Nummer 1 und 1a das Bundesamt für Seeschifffahrt und Hydrographie und des Absatzes 1 Nummer 1b die Generaldirektion Wasserstraßen und Schifffahrt.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
+
+1. in den Fällen des Absatzes 1 Nummer 1 und 1a das Bundesamt für Seeschifffahrt und Hydrographie,
+
+2. in den Fällen des Absatzes 1 Nummer 1b die Generaldirektion Wasserstraßen und Schifffahrt,
+
+3. in den Fällen des Absatzes 1 Nummer 1c diejenige Behörde, die die vollziehbare Anordnung getroffen hat.
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit dies zur Durchsetzung der in der Anlage bezeichneten internationalen Übereinkommen in der Seeschifffahrt erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 4 oder Nummer 5 geahndet werden können.
 

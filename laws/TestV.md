@@ -101,7 +101,7 @@ Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik a
 
 (2) Einrichtungen und Unternehmen im Sinne des Absatzes 1 Satz 1 sind
 
-1. Einrichtungen nach § 23 Absatz 3 Satz 1 Nummer 1 bis 5 des Infektionsschutzgesetzes, Vorsorge- und Rehabilitationseinrichtungen auch dann, wenn dort keine den Krankenhäusern vergleichbare medizinische Versorgung erfolgt,
+1. Einrichtungen nach § 23 Absatz 3 Satz 1 Nummer 1 bis 7 des Infektionsschutzgesetzes, Vorsorge- und Rehabilitationseinrichtungen auch dann, wenn dort keine den Krankenhäusern vergleichbare medizinische Versorgung erfolgt,
 
 2. Einrichtungen nach § 36 Absatz 1 Nummer 2 des Infektionsschutzgesetzes,
 
@@ -147,7 +147,7 @@ Nach einem positiven Antigen-Test oder einem positiven Pooling-Test mittels eine
 
 3. gegenüber der beauftragenden Stelle begründete Angaben zur vorhandenen Testkapazität machen.
 
-Beauftragungen nach Absatz 1 Nummer 2, die bis zum 13. November 2021 bestanden haben, gelten fort. Eine Beauftragung zusätzlicher weiterer Leistungserbringer nach Absatz 1 Nummer 2 ist nur gültig, wenn sie bis zum 15. Dezember 2021 erfolgt. Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann aufgehoben werden, wenn die Voraussetzungen nach Satz 1 Nummer 1 oder Nummer 2 bei der Beauftragung nicht vorgelegen haben oder nachträglich entfallen. Die zuständigen Stellen des öffentlichen Gesundheitsdienstes können Auskünfte bei weiteren Behörden einholen, soweit dies erforderlich ist, um zu prüfen, ob die Voraussetzungen für die Beauftragung oder die Aufhebung der Beauftragung vorliegen. Stellt ein beauftragter Leistungserbringer den Testbetrieb dauerhaft oder vorübergehend ein, nimmt er seine Tätigkeit nach ihrer Einstellung wieder auf oder ändern sich die der Mitteilung nach Satz 1 Nummer 3 zugrundeliegenden Tatsachen, hat er dies unverzüglich der zuständigen Stelle des öffentlichen Gesundheitsdienstes anzuzeigen.
+Die Beauftragung muss für jeden Leistungserbringer gesondert erfolgen. Sie kann aufgehoben werden, wenn die Voraussetzungen nach Satz 1 Nummer 1 oder Nummer 2 bei der Beauftragung nicht vorgelegen haben oder nachträglich entfallen. Die zuständigen Stellen des öffentlichen Gesundheitsdienstes können Auskünfte bei weiteren Behörden einholen, soweit dies erforderlich ist, um zu prüfen, ob die Voraussetzungen für die Beauftragung oder die Aufhebung der Beauftragung vorliegen. Stellt ein beauftragter Leistungserbringer den Testbetrieb dauerhaft oder vorübergehend ein, nimmt er seine Tätigkeit nach ihrer Einstellung wieder auf oder ändern sich die der Mitteilung nach Satz 1 Nummer 3 zugrundeliegenden Tatsachen, hat er dies unverzüglich der zuständigen Stelle des öffentlichen Gesundheitsdienstes anzuzeigen.
 
 (3) Der Anspruch nach § 1 Absatz 1 Satz 1 auf Testungen durch Leistungserbringer nach Absatz 1 Nummer 2 und 3 besteht nur, wenn
 
@@ -161,11 +161,11 @@ Beauftragungen nach Absatz 1 Nummer 2, die bis zum 13. November 2021 bestanden h
 
 (4) Im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts sind die Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1 bis 6 berechtigt, die folgende Gesamtanzahl von PoC-Antigen-Tests oder Antigentests zur Eigenanwendung je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen:
 
-1. Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1, 2, 4 bis 6 bis zu 30 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung und
+1. Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 1, 2, 4 bis 6 bis zu 35 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung und
 
 2. Einrichtungen und Unternehmen nach § 4 Absatz 2 Nummer 3 bis zu 20 Antigen-Tests oder Antigen-Tests zur Eigenanwendung.
 
-Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Intensivpflege sowie Hospize bis zu 30 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts in eigener Verantwortung beschaffen und nutzen. Einrichtungen nach § 4 Absatz 2 Nummer 7 sind berechtigt, bis zu 10 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung je in der Einrichtung tätiger Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen.
+Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Intensivpflege sowie Hospize bis zu 35 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts in eigener Verantwortung beschaffen und nutzen. Einrichtungen nach § 4 Absatz 2 Nummer 7 sind berechtigt, bis zu 10 PoC-Antigen-Tests oder Antigen-Tests zur Eigenanwendung je in der Einrichtung tätiger Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen.
 
 # § 7 – Abrechnung der Leistungen
 
@@ -263,7 +263,7 @@ Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu zahlende Vergü
 
 # § 11 – Vergütung von Sachkosten für PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung
 
-An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absatz 4 berechtigten Einrichtungen oder Unternehmen ist für selbst beschaffte PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung eine Pauschale von 3,50 Euro je Test zu zahlen.
+An die nach § 6 Absatz 1 berechtigten Leistungserbringer und die nach § 6 Absatz 4 berechtigten Einrichtungen oder Unternehmen ist für selbst beschaffte PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung eine Pauschale von 3,50 Euro je Test zu zahlen. Für Leistungen vom 1. Dezember 2021 bis zum 31. Januar 2022 beträgt die Pauschale nach Satz 1 je Test 4,50 Euro.
 
 # § 12 – Vergütung von weiteren Leistungen
 
@@ -329,7 +329,7 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 (1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
 
-(2) Ab dem 1. Januar 2022 übermittelt das Bundesamt für Soziale Sicherung dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 in Verbindung mit § 14 Absatz 1 Satz 1 Nummer 2 bis 5 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
+(2) (weggefallen)
 
 (3) Der nach § 7a Absatz 5 Satz 6 von einer Kassenärztlichen Vereinigung an die Liquiditätsreserve des Gesundheitsfonds gezahlte Betrag ist dem Bund vom Bundesamt für Soziale Sicherung zu erstatten.
 
@@ -371,6 +371,6 @@ Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testve
 
 # § 19 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt vorbehaltlich des Satzes 2 am 31. März 2022 außer Kraft. § 15 Absatz 2 tritt nach § 20i Absatz 3 Satz 16 des Fünften Buches Sozialgesetzbuch außer Kraft.
+(1) Diese Verordnung tritt am 11. Oktober 2021 in Kraft; sie tritt am 31. März 2022 außer Kraft.
 
 (2) Die Coronavirus-Testverordnung vom 24. Juni 2021 (BAnz AT 25.06.2021 V1), die durch Artikel 1 der Verordnung vom 18. August 2021 (BAnz AT 19.08.2021 V1) geändert worden ist, tritt mit Ablauf des 10. Oktober 2021 außer Kraft.
