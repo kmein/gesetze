@@ -400,9 +400,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 15. Januar 2022 außer Kraft.
-
-(2) (weggefallen)
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 15. Januar 2022 außer Kraft.
 
 # Anlage
 
