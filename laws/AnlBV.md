@@ -13,11 +13,9 @@
 
 2. mit Ausnahme der Nummern 3.1 und 8 der Anlage für Kriegsschiffe anderer Staaten und sonstige staatliche Schiffe, die nicht zu Handelszwecken eingesetzt werden,
 
-3. für Traditionsschiffe, deren Rumpflänge 45 Meter nicht übersteigt, mit Ausnahme der Nummer 4 der Anlage,
+3. für Traditionsschiffe, deren Rumpflänge 45 Meter nicht übersteigt,
 
-4. für Sportfahrzeuge, die für nicht mehr als zwölf Personen zugelassen sind und deren Rumpflänge 45 Meter nicht übersteigt,
-
-5. hinsichtlich Nummer 4 der Anlage für Fischereifahrzeuge, deren Rumpflänge 45 Meter nicht übersteigt.
+4. für Sportfahrzeuge, die für nicht mehr als zwölf Personen zugelassen sind und deren Rumpflänge 45 Meter nicht übersteigt.
 
 (4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1 000 BRZ, Bordvorräte und Schiffsausrüstung.
 
@@ -319,7 +317,7 @@ d) voraussichtliche Zeit des Wiederauslaufens;
 e) Gesamtzahl der an Bord befindlichen Personen.
 
 4  
-Meldungen nach der Richtlinie 2000/59/EG des Europäischen Parlaments und des Rates vom 27. November 2000 über Hafenauffangeinrichtungen für Schiffsabfälle und Ladungsrückstände (ABl. L 332 vom 28.12.2000, S. 81), die durch die Richtlinie (EU) 2015/2087 (ABl. L 302 vom 19.11.2015, S. 99) geändert worden ist, in der jeweils geltenden Fassung
+(weggefallen)
 
 4.1  
 Meldeverpflichtung
