@@ -241,8 +241,6 @@ Erweiterungen und Änderungen von Kundenanlagen sowie die Verwendung zusätzlich
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers, des Messstellenbetreibers oder des Grundversorgers den Zutritt zu seinem Grundstück und zu seinen Räumen zu gestatten, soweit dies zur Ermittlung preislicher Bemessungsgrundlagen oder zur Ablesung der Messeinrichtungen nach § 11 erforderlich ist. Die Benachrichtigung kann durch Mitteilung an die jeweiligen Kunden oder durch Aushang am oder im jeweiligen Haus erfolgen. Sie muss mindestens eine Woche vor dem Betretungstermin erfolgen; mindestens ein Ersatztermin ist anzubieten. Der Kunde hat dafür Sorge zu tragen, dass die Messeinrichtungen zugänglich sind.
 
-§ 9 Satz 2 Kursivdruck: Anstelle dem Wort "an oder im jeweiligen Haus" muss es richtig "am oder im jeweiligen Haus" lauten
-
 # § 10 – Vertragsstrafe
 
 (1) Verbraucht der Kunde Gas unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen oder nach Unterbrechung der Grundversorgung, so ist der Grundversorger berechtigt, eine Vertragsstrafe zu verlangen. Diese ist für die Dauer des unbefugten Gebrauchs, längstens aber für sechs Monate, auf der Grundlage einer täglichen Nutzung der unbefugt verwendeten Geräte von bis zu zehn Stunden nach dem für den Kunden geltenden Allgemeinen Preis zu berechnen.
