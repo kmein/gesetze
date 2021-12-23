@@ -3736,9 +3736,6 @@ das Verhalten beim Begegnen nach § 10.06 und
 bb)  
 die Schifffahrt bei Hochwasser nach § 10.11 Nummer 1 und 2
 
-cc) (weggefallen)
-
-  
 einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 <!-- -->
@@ -3763,7 +3760,6 @@ das Stillliegen nach § 10.10 Nummer 1 bis 3 Satz 1, Nummer 4, 5 und 6 Buchstabe
 
 cc) den Einsatz eines Trägerschiffsleichters nach § 10.14 Satz 1
 
-  
 einzuhalten oder sicherzustellen, dass diese eingehalten werden, und
 
 c) das in § 10.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
