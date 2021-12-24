@@ -1689,7 +1689,7 @@ Für Schülerinnen und Schüler gilt dies unter der Voraussetzung, dass die Mitt
 
 Neben der Berücksichtigung von Bedarfen nach Satz 1 können auch weitere tatsächliche Aufwendungen berücksichtigt werden, wenn sie im Zusammenhang mit der Teilnahme an Aktivitäten nach Satz 1 Nummer 1 bis 3 entstehen und es den Leistungsberechtigten im Einzelfall nicht zugemutet werden kann, diese aus den Leistungen nach Satz 1 und aus dem Regelbedarf zu bestreiten.
 
-§ 34 Abs. 1, Abs. 2 Satz 1 Nr. 1, Abs. 2 Satz 2 u. Abs. 4 bis 7, jeweils idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE sind diese Vorschriften bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar.
+§ 34 Abs. 1, Abs. 2 Satz 1 Nr. 1, Abs. 2 Satz 2 u. Abs. 4 bis 7, jeweils idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE sind diese Vorschriften bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 2.6.2021 I 1387 mWv 1.1.2022.
 
 # § 34a – Erbringung der Leistungen für Bildung und Teilhabe
 
