@@ -291,7 +291,7 @@ Die Beförderung der Mannschaften ist nach folgenden Dienstzeiten zulässig:
 
 5. zum Oberstabsgefreiten nach 48 Monaten,
 
-6. zum Korporal nach sieben Jahren und zum
+6. zum Korporal nach sieben Jahren und
 
 7. zum Stabskorporal nach zehn Jahren.
 
@@ -513,7 +513,7 @@ Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 19 Absatz 1 erf�
 
 # § 24 – Beförderung der Offizieranwärterinnen und Offizieranwärter
 
-(1) Die Laufbahnausbildung zur Offizierin oder zum Offizier dauert mindestens drei Jahre, in den Fällen des § 23 Absatz 3 mindestens zwölf Monate. Die Beförderung der Anwärterinnen und Anwärter ist zu folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
+(1) Die Laufbahnausbildung zur Offizierin oder zum Offizier dauert mindestens drei Jahre, in den Fällen des § 23 Absatz 4 mindestens zwölf Monate. Die Beförderung der Anwärterinnen und Anwärter ist zu folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1. zum Gefreiten nach drei Monaten,
 
@@ -587,13 +587,13 @@ c) den Grad einer Doktoringenieurin oder eines Doktoringenieurs oder, wenn nach 
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des Truppendienstes können aufsteigen
 
-1. Mannschaften aller Laufbahnen, die die Voraussetzungen des § 23 Absatz 1 oder Absatz 3 erfüllen und mindestens den Dienstgrad „Gefreiter“ erreicht haben,
+1. Mannschaften aller Laufbahnen, die die Voraussetzungen des § 23 Absatz 1 oder Absatz 4 erfüllen und mindestens den Dienstgrad „Gefreiter“ erreicht haben,
 
-2. Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der Fachunteroffizierinnen und Fachunteroffiziere, die die Voraussetzungen des § 23 Absatz 1 oder Absatz 3 erfüllen und
+2. Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der Fachunteroffizierinnen und Fachunteroffiziere, die die Voraussetzungen des § 23 Absatz 1 oder Absatz 4 erfüllen und
 
 3. Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“ erreicht haben.
 
-Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 23 Absatz 3 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass des Aufstiegs verliehen werden.
+Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 23 Absatz 4 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass des Aufstiegs verliehen werden.
 
 (2) Nach dem Aufstieg führen Unteroffiziere den Dienstgrad „Fahnenjunker“, Feldwebel den Dienstgrad „Fähnrich“ und Hauptfeldwebel den Dienstgrad „Oberfähnrich“. Ihre Dienstgradbezeichnung mit dem Zusatz „(Offizieranwärterin)“, „(Offizieranwärter)“ oder „(OA)“ führen im Schriftverkehr
 
@@ -687,7 +687,7 @@ Absatz 3 Satz 2 gilt entsprechend.
 
 # § 32 – Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes
 
-(1) In die Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes können aufsteigen, wenn sie die Voraussetzungen des § 28 Absatz 1 oder Absatz 3 erfüllen,
+(1) In die Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes können aufsteigen, wenn sie die Voraussetzungen des § 28 Absatz 1 oder Absatz 4 erfüllen,
 
 1. Mannschaften aller Laufbahnen, die mindestens den Dienstgrad „Gefreiter“ erreicht haben,
 
@@ -695,7 +695,7 @@ Absatz 3 Satz 2 gilt entsprechend.
 
 3. Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“ erreicht haben.
 
-Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 28 Absatz 3 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass des Aufstiegs verliehen werden.
+Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 28 Absatz 4 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass des Aufstiegs verliehen werden.
 
 (2) Nach dem Aufstieg führen Unteroffiziere den Dienstgrad „Fahnenjunker“, Feldwebel den Dienstgrad „Fähnrich“ und Hauptfeldwebel den Dienstgrad „Oberfähnrich“ und jeweils mit dem Zusatz „(Sanitätsoffizieranwärterin)“, „(Sanitätsoffizieranwärter)“ oder „(SanOA)“. Ihre Dienstgradbezeichnung mit dem Zusatz nach Satz 1 führen im Schriftverkehr
 
@@ -973,7 +973,7 @@ Die Beförderung der Offizierinnen und Offiziere des fliegenden Personals sowie 
 
 Nach der Übernahme in die neue Laufbahn führen die Anwärterinnen und Anwärter im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz „(Reserveoffizieranwärterin)“ oder „(Reserveoffizieranwärter)“ oder „(ROA)“. § 43 gilt entsprechend.
 
-(3) Für die Einstellung mit einem höheren Dienstgrad gelten § 23 Absatz 3 und § 25 Absatz 2 bis 5, § 30 Absatz 3 bis 7, § 35 Absatz 2 und die §§ 40 und 45 Absatz 2 bis 4 entsprechend. Der jeweilige Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig verliehen. Er kann nach einem Wehrdienst von mindestens 24 Tagen endgültig verliehen werden.
+(3) Für die Einstellung mit einem höheren Dienstgrad gelten § 23 Absatz 4 und § 25 Absatz 2 bis 5, § 30 Absatz 3 bis 7, § 35 Absatz 2 und die §§ 40 und 45 Absatz 2 bis 4 entsprechend. Der jeweilige Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig verliehen. Er kann nach einem Wehrdienst von mindestens 24 Tagen endgültig verliehen werden.
 
 (4) Für die Beförderung der Reserveoffizieranwärterinnen und Reserveoffizieranwärter, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten oder in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz 1 entsprechend. Im Übrigen können Reserveoffizieranwärterinnen und Reserveoffizieranwärter nach einem Wehrdienst von mindestens 24 Tagen befördert werden, jedoch erst nach Ablauf einer Zeit, die nach § 24 Absatz 1 als Dienstzeit vorausgesetzt wird. § 24 Absatz 2 gilt entsprechend. Der Dienstgrad „Oberfähnrich“ muss nicht durchlaufen werden.
 
@@ -981,7 +981,7 @@ Nach der Übernahme in die neue Laufbahn führen die Anwärterinnen und Anwärte
 
 (6) Reserveoffizieranwärterinnen und Reserveoffizieranwärter können als Offizieranwärterin oder Offizieranwärter übernommen werden, wenn sie die Voraussetzungen des § 23 erfüllen. Auf die Ausbildungszeit kann die Dienstzeit als Soldatin oder Soldat in der Bundeswehr angerechnet werden.
 
-(7) Für die Ernennung einer Reserveoffizierin oder eines Reserveoffiziers zur Berufsoffizierin oder zum Berufsoffizier gilt § 22 Absatz 3 entsprechend.
+(7) Für die Ernennung einer Reserveoffizierin oder eines Reserveoffiziers zur Berufsoffizierin oder zum Berufsoffizier gilt § 22 Absatz 5 entsprechend.
 
 (8) Zeiten einer dienstlichen Veranstaltung nach § 81 Absatz 1 des Soldatengesetzes werden auf den Wehrdienst nach Absatz 3 Satz 3, Absatz 4 Satz 2 und Absatz 5 Satz 2 nicht angerechnet. § 12 Absatz 2 Satz 4 gilt entsprechend.
 

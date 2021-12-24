@@ -5948,7 +5948,8 @@ Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskost
 (4) Prozesskostenhilfe wird nicht bewilligt, wenn die Kosten der Prozessführung der Partei vier Monatsraten und die aus dem Vermögen aufzubringenden Teilbeträge voraussichtlich nicht übersteigen.
 
 (+++ Hinweis: Zur Höhe der nach § 115 Abs. 1 Satz 3 Nr. 1 Buchst. b und Nr. 2 sowie Satz 5 maßgebenden Beträge  
-ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021) +++)
+ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021)  
+ab dem 1.1.2022 vgl. Bek. v. 17.12.2021 I 5239 (PKHB 2022) +++)
 
 # § 116 – Partei kraft Amtes; juristische Person; parteifähige Vereinigung
 
