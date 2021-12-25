@@ -45,7 +45,7 @@ Im Sinne dieser Verordnung ist:
 
  1. Einreise
 
-Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland; der Umstieg an einem Flughafen gilt nicht als Einreise,
+Überschreitung der Grenze der Bundesrepublik Deutschland auf dem Land-, Wasser- oder aus dem Ausland; erfolgt die Einreise durch einen Beförderer, die geplante erste Ankunft mit Ausstiegsmöglichkeit in der Bundesrepublik Deutschland,
 
  2. Einreiseportal
 
@@ -53,19 +53,15 @@ vom Robert Koch-Institut nach § 36 Absatz 9 Satz 1 des Infektionsschutzgesetzes
 
  3. Hochrisikogebiet
 
-ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und Heimat festgestellt wurde, dass in diesem Gebiet eine besonders hohe Inzidenz in Bezug auf die Verbreitung des Coronavirus SARS-CoV-2 besteht oder andere Anhaltspunkte dafür vorliegen, dass in diesem Gebiet ein erhöhtes Risiko für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegt, insbesondere aufgrund der dort beobachteten Ausbreitungsgeschwindigkeit oder aufgrund nicht ausreichend vorhandener oder verlässlicher epidemiologischer Daten,
-
-<!-- -->
+ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine besonders hohe Inzidenz in Bezug auf die Verbreitung des Coronavirus SARS-CoV-2 besteht oder andere Anhaltspunkte dafür vorliegen, dass in diesem Gebiet ein erhöhtes Risiko für eine Infektion mit dem Coronavirus SARS-CoV-2 vorliegt, insbesondere aufgrund der dort beobachteten Ausbreitungsgeschwindigkeit oder aufgrund nicht ausreichend vorhandener oder verlässlicher epidemiologischer Daten,
 
  3a. Virusvariantengebiet
 
-ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und Heimat festgestellt wurde, dass in diesem Gebiet eine bestimmte, in der Bundesrepublik Deutschland noch nicht verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften auftritt, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass
+ein Gebiet im Sinne des § 2 Nummer 17 des Infektionsschutzgesetzes, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass in diesem Gebiet eine bestimmte, in der Bundesrepublik Deutschland noch nicht verbreitete Variante des Coronavirus SARS-CoV-2 mit besorgniserregenden Eigenschaften auftritt, bei der relevante Anhaltspunkte dafür vorliegen oder in Bezug auf die noch Ungewissheit besteht, dass
 
 a) bestimmte in der Europäischen Union zugelassene Impfstoffe oder eine vorherige Infektion mit dem Coronavirus SARS-CoV-2 keinen oder nur einen eingeschränkten Schutz gegenüber dieser Variante aufweisen oder
 
 b) sie andere ähnlich schwerwiegende besorgniserregende Eigenschaften aufweist, insbesondere, weil sie schwerere Krankheitsverläufe oder eine erhöhte Mortalität verursacht,
-
-<!-- -->
 
  4. eine asymptomatische Person
 
@@ -75,13 +71,19 @@ eine Person, bei der aktuell kein typisches Symptom oder sonstiger Anhaltspunkt 
 
 eine asymptomatische Person, die im Besitz eines auf ihre Person ausgestellten Testnachweises ist,
 
- 6. Testnachweis
+ 6. Testnachweis, vorbehaltlich besonderer Regelungen in dieser Verordnung,
 
 ein Nachweis hinsichtlich des Nichtvorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung
 
-a) in der Bundesrepublik Deutschland oder im Ausland von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnung oder im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes durch Personal, das die dafür erforderliche Ausbildung oder Kenntnis und Erfahrung besitzt, vorgenommen oder überwacht wurde oder im Ausland von einer nach dem Recht des jeweiligen Staates befugten Stelle vorgenommen oder überwacht wurde und
+a) in der Bundesrepublik Deutschland von einem Leistungserbringer nach § 6 Absatz 1 der Coronavirus-Testverordnung oder im Rahmen einer betrieblichen Testung im Sinne des Arbeitsschutzes durch Personal, das die dafür erforderliche Ausbildung oder Kenntnis und Erfahrung besitzt, vorgenommen oder überwacht wurde oder im Ausland von einer nach dem Recht des jeweiligen Staates befugten Stelle vorgenommen oder überwacht wurde und
 
-b) durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind, und maximal 48 Stunden oder bei Einreisen aus einem Virusvariantengebiet maximal 24 Stunden zurückliegt; sofern die Testung mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, darf diese maximal 72 Stunden zurückliegen,
+b) durch In-vitro-Diagnostika erfolgt ist, die für den direkten Erregernachweis des Coronavirus SARS-CoV-2 bestimmt sind, und
+
+aa)  
+zum Zeitpunkt oder zum geplanten Zeitpunkt der Einreise in die Bundesrepublik maximal 48 Stunden zurückliegt, oder
+
+bb)  
+sofern eine Einreise mittels Beförderer stattfindet und die Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist, zum Zeitpunkt oder zum geplanten Zeitpunkt des Beginns der Beförderung maximal 48 Stunden zurückliegt,
 
  7. genesene Person
 
@@ -89,13 +91,11 @@ eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Genesenen
 
  8. Genesenennachweis
 
-ein Nachweis hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt,
+ein Nachweis hinsichtlich des Vorliegens einer vorherigen Infektion mit dem Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form, wenn die zugrundeliegende Testung durch eine Labordiagnostik mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) erfolgt ist und mindestens 28 Tage sowie maximal sechs Monate zurückliegt,
 
  9. geimpfte Person
 
 eine asymptomatische Person, die im Besitz eines auf sie ausgestellten Impfnachweises ist,
-
-<!-- -->
 
 10. Impfnachweis
 
@@ -163,7 +163,7 @@ Angehörige ausländischer Streitkräfte im Sinne des NATO-Truppenstatuts, des T
 
 (1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Hochrisikogebiet oder Virusvariantengebiet eingestuften Gebiet aufgehalten haben, sind verpflichtet, sich unverzüglich nach der Einreise auf eigene Kosten für einen Zeitraum nach Absatz 2 abzusondern. Nach der Einreise haben sich Personen nach Satz 1 auf direktem Weg in die Haupt- oder Nebenwohnung oder in eine andere, eine Absonderung ermöglichende Unterkunft zu begeben. Den absonderungspflichtigen Personen ist es in diesem Zeitraum nicht gestattet, Besuch von Personen zu empfangen, die nicht ihrem Hausstand angehören. Personen nach Satz 1 sind verpflichtet, die zuständige Behörde unverzüglich zu informieren, wenn typische Symptome einer Infektion mit dem Coronavirus SARS-CoV-2 innerhalb des jeweils maßgeblichen Absonderungszeitraums nach Absatz 2 bei ihnen auftreten. Personen nach Satz 1 unterliegen für die Zeit der Absonderung der Beobachtung durch die zuständige Behörde.
 
-(2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Im Fall der Übermittlung eines Testnachweises darf die zugrundeliegende Testung frühestens fünf Tage nach der Einreise erfolgt sein; bei Personen, die das zwölfte Lebensjahr noch nicht vollendet haben, endet die Absonderung fünf Tage nach der Einreise. Die Absonderung nach Absatz 1 Satz 1 wird für die Dauer, die zur Durchführung eines Tests erforderlich ist, ausgesetzt. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage; die Sätze 2 bis 4 finden nur dann entsprechende Anwendung, wenn
+(2) Die Absonderung nach Absatz 1 Satz 1 hat für einen Zeitraum von zehn Tagen zu erfolgen. Die Absonderung endet abweichend von Satz 1 vor dem Ablauf von zehn Tagen für genesene, geimpfte oder getestete Personen, wenn diese den Genesenennachweis, den Impfnachweis oder den Testnachweis nach § 7 Absatz 4 Satz 1 an die zuständige Behörde übermitteln. Im Fall der Übermittlung eines Testnachweises darf die zugrundeliegende Testung frühestens fünf Tage nach der Einreise erfolgt sein; bei Personen, die das sechste Lebensjahr noch nicht vollendet haben, endet die Absonderung fünf Tage nach der Einreise. Die Absonderung nach Absatz 1 Satz 1 wird für die Dauer, die zur Durchführung eines Tests erforderlich ist, ausgesetzt. Für Personen, die sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, beträgt der Zeitraum in Abweichung von Satz 1 vierzehn Tage; die Sätze 2 bis 4 finden nur dann entsprechende Anwendung, wenn
 
 1. das betroffene Virusvariantengebiet nach der Einreise in die Bundesrepublik Deutschland und vor Ablauf der vierzehn Tage als Hochrisikogebiet eingestuft wird oder
 
@@ -211,7 +211,7 @@ Satz 1 Nummer 8 bis 11 gilt nicht für Personen, die sich zu einem beliebigen Ze
 
 (2) Für § 4 gelten außerdem folgende weitere Ausnahmen und Maßgaben:
 
-1. § 4 Absatz 2 Satz 3 erster Halbsatz gilt nicht für Personen,
+1. § 4 Absatz 2 Satz 3 gilt nicht für Personen,
 
 a) deren Tätigkeit unabdingbar ist für die Aufrechterhaltung
 
@@ -242,7 +242,7 @@ einer dringenden medizinischen Behandlung oder
 
 cc) des Beistands oder zur Pflege schutz- oder hilfebedürftiger Personen,
 
-c) die sich für bis zu fünf Tage zwingend notwendig und unaufschiebbar beruflich veranlasst wegen ihrer Ausbildung oder ihres Studiums in einem Hochrisikogebiet aufgehalten haben oder in die Bundesrepublik Deutschland einreisen,
+c) die sich für bis zu fünf Tage zwingend notwendig und unaufschiebbar beruflich veranlasst, wegen ihrer Ausbildung oder ihres Studiums in einem Hochrisikogebiet aufgehalten haben oder in die Bundesrepublik Deutschland einreisen,
 
 d) die zur Vorbereitung, Teilnahme, Durchführung und Nachbereitung internationaler Sportveranstaltungen durch das jeweilige Organisationskomitee akkreditiert werden oder von einem Bundessportfachverband zur Teilnahme an Trainings- und Lehrgangsmaßnahmen eingeladen sind,
 
@@ -280,7 +280,7 @@ sich im Rahmen des Grenzverkehrs weniger als 24 Stunden im Ausland aufgehalten h
 bb)  
 im Rahmen des Grenzverkehrs für bis zu 24 Stunden in die Bundesrepublik Deutschland einreisen, und
 
-b) Personen nach Absatz 1 Satz 1 Nummer 7.
+b) Personen nach Absatz 1 Satz 1 Nummer 3 und Nummer 7.
 
 # § 7 – Vorlage- und Übermittlungspflichten
 
@@ -326,7 +326,7 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 (1) Beförderer, die Personen aus einem Hochrisikogebiet oder, vorbehaltlich des § 10, aus einem Virusvariantengebiet in die Bundesrepublik Deutschland befördern, haben, soweit keine Ausnahme oder Maßgabe nach § 6 Absatz 1 Satz 1 oder Satz 3 vorliegt, vor der Beförderung die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 zu kontrollieren. Diese sind im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Die vollständig ausgefüllten Ersatzmitteilungen nach § 3 Absatz 2 sind bei Beförderungen aus einem Schengen-Staat einzusammeln und unverzüglich durch die Beförderer an die zuständige Behörde zu übermitteln. Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet außerhalb von Schengen-Staaten in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist und die vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 an diese zum Zwecke der stichprobenhaften Überprüfung und Überlassung an die zuständige Behörde auszuhändigen ist. Beförderer haben die Beförderungen aus einem Hochrisikogebiet oder Virusvariantengebiet in die Bundesrepublik Deutschland zu unterlassen, wenn die zu befördernden Personen im Rahmen der Kontrolle nach Satz 1 keine Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder keine vollständig ausgefüllte Ersatzmitteilung nach § 3 Absatz 2 vorgelegt haben; dies gilt auch, wenn nach Prüfung nach Satz 2 die angegebenen Daten offensichtlich unrichtig sind. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr aus einem Hochrisikogebiet oder Virusvariantengebiet kann die Kontrolle in Abweichung von Satz 5 auch noch während der Beförderung erfolgen.
 
-(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das zwölfte Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
+(2) Für Beförderer, die Personen aus einem Hochrisikogebiet oder Virusvariantengebiet oder auf dem Luftweg in die Bundesrepublik Deutschland befördern, gilt Absatz 1 Satz 1, 2, 5 und 6 in Bezug auf den Testnachweis, Genesenennachweis oder Impfnachweis entsprechend; es dürfen, soweit keine Ausnahme nach § 6 Absatz 3 vorliegt und es sich um Personen handelt, die das sechste Lebensjahr vollendet haben, nur geimpfte, genesene oder getestete Personen und, wenn die Beförderung aus einem Virusvariantengebiet erfolgt, nur getestete Personen, die über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht, befördert werden. Wenn den zu befördernden Personen die Erlangung eines Testnachweises nicht möglich ist, können Beförderer vor Abreise eine Testung selbst durchführen oder durchführen lassen und im Fall einer Negativtestung eine Beförderung vornehmen.
 
 (3) Die Absätze 1 und 2 gelten nicht im öffentlichen Personennahverkehr.
 
@@ -354,7 +354,7 @@ Beförderer und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnib
 
 9. Beförderungen von Personen, die zur Vorbereitung, Teilnahme, Durchführung und Nachbereitung internationaler Sportveranstaltungen durch das jeweilige Organisationskomitee akkreditiert werden,
 
-10. Beförderungen von geimpften Personen, für die vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und Heimat festgestellt wurde, dass ihre Beförderung im nationalen Interesse der Bundesrepublik Deutschland liegt.
+10. Beförderungen von geimpften Personen, für die vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern und für Heimat festgestellt wurde, dass ihre Beförderung im nationalen Interesse der Bundesrepublik Deutschland liegt.
 
 Das Vorliegen einer Ausnahme nach Satz 1 ist auf Verlangen des Beförderers oder der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde glaubhaft zu machen.
 
@@ -400,7 +400,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 # § 14 – Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 15. Januar 2022 außer Kraft.
+Diese Verordnung tritt am 30. September 2021 in Kraft; sie tritt mit Ablauf des 3. März 2022 außer Kraft.
 
 # Anlage
 

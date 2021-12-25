@@ -1314,6 +1314,7 @@
 - [BzBlGDV 1](laws/BzBlGDV_1.md) Erste Verordnung zur Durchführung des Benzinbleigesetzes
 - [BZEV](laws/BZEV.md) Verordnung über Erhebungen zum Zustand des Waldbodens
 - [BZgAZustAnO](laws/BZgAZustAnO.md) Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten der Bundeszentrale für gesundheitliche Aufklärung in Angelegenheiten nach dem Bundesreisekostengesetz und dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung
+- [BzKJBGebV](laws/BzKJBGebV.md) Besondere Gebührenverordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend für individuell zurechenbare öffentliche Leistungen der Bundeszentrale für Kinder- und Jugendmedienschutz
 - [BZollVÜV](laws/BZollVÜV.md) Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes
 - [BZRG](laws/BZRG.md) Gesetz über das Zentralregister und das Erziehungsregister
 - [BZuschV 2022](laws/BZuschV_2022.md) Verordnung zur Festsetzung des ergänzenden Bundeszuschusses nach § 221a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch für das Jahr 2022
@@ -4116,6 +4117,7 @@
 - [NordSFischZProkBek](laws/NordSFischZProkBek.md) Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
 - [NotAktVV](laws/NotAktVV.md) Verordnung über die Führung notarieller Akten und Verzeichnisse
 - [NotFV](laws/NotFV.md) Verordnung über die notarielle Fachprüfung
+- [Notifizierungsverordnung DBA Singapur](laws/Notifizierungsverordnung_DBA_Singapur.md) Verordnung zur Umsetzung der Notifizierung über die Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-singapurischen Doppelbesteuerungsabkommen
 - [NotrufV](laws/NotrufV.md) Verordnung über Notrufverbindungen
 - [NotSan-APrV](laws/NotSan-APrV.md) Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter
 - [NotSanG](laws/NotSanG.md) Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters*
@@ -4408,6 +4410,7 @@
 - [PKHB 2019](laws/PKHB_2019.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2020](laws/PKHB_2020.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHB 2021](laws/PKHB_2021.md) Bekanntmachung zu § 115 der Zivilprozessordnung
+- [PKHB 2022](laws/PKHB_2022.md) Bekanntmachung zu § 115 der Zivilprozessordnung
 - [PKHFV](laws/PKHFV.md) Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe
 - [Pkw-EnVKV](laws/Pkw-EnVKV.md) Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO 2 -Emissionen und Stromverbrauch neuer Personenkraftwagen
 - [PlanSiG](laws/PlanSiG.md) Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie*
@@ -5225,6 +5228,7 @@
 - [StabiRatG](laws/StabiRatG.md) Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen
 - [StabMechG](laws/StabMechG.md) Gesetz zur Übernahme von Gewährleistungen im Rahmen eines europäischen Stabilisierungsmechanismus
 - [StAbwG](laws/StAbwG.md) Gesetz zur Abwehr von Steuervermeidung und unfairem Steuerwettbewerb
+- [StAbwV](laws/StAbwV.md) Verordnung zur Durchführung des § 3 des Steueroasen-Abwehrgesetzes
 - [StAbzVeranlZÜV](laws/StAbzVeranlZÜV.md) Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
 - [StÄndG 1961](laws/StÄndG_1961.md) Gesetz zur Änderung des Einkommensteuergesetzes, des Körperschaftsteuergesetzes, des Gewerbesteuergesetzes, des Bewertungsgesetzes, des Vermögensteuergesetzes, des Steuersäumnisgesetzes, der Reichsabgabenordnung, des Steueranpassungsgesetzes, des Gesetzes zur Förderung der Wirtschaft von Berlin (West) und andere Gesetze
 - [StÄndG 1966](laws/StÄndG_1966.md) Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung
