@@ -41,7 +41,19 @@ Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a der Apothekenbetriebsor
 
 (2) Zusätzlich zu den in § 3 Absatz 1 Satz 1 der Arzneimittelpreisverordnung genannten Zuschlägen können Apotheken einmalig einen Betrag zur Förderung von Botendiensten in Höhe von 250 Euro zuzüglich Umsatzsteuer zu Lasten der gesetzlichen Krankenversicherung erheben. Das Nähere über die Aufbringung und Verteilung des Betrages vereinbaren die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker und der Spitzenverband Bund der Krankenkassen.
 
-(3) Bei der Abgabe von Teilmengen aus einer Arzneimittelpackung können Apotheken bei der ersten Abgabe die in § 3 Absatz 1 Satz 1 genannten Zuschläge erheben. Bei der Abgabe weiterer Teilmengen aus derselben Packung an andere Patienten können Apotheken abweichend von den Zuschlägen in § 3 Absatz 1 Satz 1 jeweils nur den Zuschlag von 5,80 Euro erheben.
+(3) Bei der Abgabe von Teilmengen aus einer Arzneimittelpackung können Apotheken bei der ersten Abgabe die in § 3 Absatz 1 Satz 1 der Arzneimittelpreisverordnung genannten Zuschläge erheben. Bei der Abgabe weiterer Teilmengen aus derselben Packung an andere Patienten können Apotheken abweichend von den Zuschlägen in § 3 Absatz 1 Satz 1 der Arzneimittelpreisverordnung jeweils nur den Zuschlag von 5,80 Euro erheben.
+
+(4) Für den Aufwand, der dem Großhandel im Zusammenhang mit der Abgabe von vom Bund beschafften antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen an Apotheken entsteht, erhält der Großhändler eine Vergütung in Höhe von 20 Euro zuzüglich Umsatzsteuer je abgegebene Packung.
+
+(5) Für den Aufwand, der den Apotheken im Zusammenhang mit der Abgabe von vom Bund beschafften antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen entsteht, erhalten Apotheken eine Vergütung in Höhe von 30 Euro zuzüglich Umsatzsteuer je abgegebene Packung. Sofern die Abgabe im Wege des Botendienstes der Apotheken erfolgt, erhalten Apotheken eine zusätzliche Vergütung in Höhe von 8 Euro einschließlich Umsatzsteuer je erbrachten Botendienst.
+
+(6) Die Apotheken rechnen monatlich, spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats, die sich nach den Absätzen 4 und 5 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Die Apotheken leiten die an sie ausgezahlte Vergütung nach Absatz 4 an den Großhandel weiter.
+
+(7) Der Großhandel und die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 6 Satz 1 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+
+(8) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt monatlich den sich für die Apotheken, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der Abrechnungen nach Absatz 6 Satz 1 an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in den übermittelten Beträgen sind durch das jeweilige Rechenzentrum in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Die Rechenzentren leiten den sich aus der Abrechnung nach Absatz 6 Satz 1 ergebenden Betrag an die Apotheken weiter. Das Bundesamt für Soziale Sicherung bestimmt das Nähere zur Übermittlung und Zahlung der Beträge nach den Sätzen 1 bis 3.
+
+(9) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach Absatz 8 Satz 3 eine Aufstellung der an die Rechenzentren gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
 # § 5 – Ausnahmen vom Betäubungsmittelgesetz
 
