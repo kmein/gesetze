@@ -175,7 +175,9 @@ Die Absonderung endet abweichend von den Sätzen 1 und 5 außerdem, wenn das bet
 
 # § 5 – Nachweispflicht
 
-Personen, die das zwölfte Lebensjahr vollendet haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis verfügen. Personen, die das zwölfte Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
+(1) Personen, die das sechste Lebensjahr vollendet haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis, einen Genesenennachweis oder einen Impfnachweis verfügen.
+
+(2) Personen, die das sechste Lebensjahr vollendet und sich zu einem beliebigen Zeitpunkt in den letzten zehn Tagen vor der Einreise in einem zum Zeitpunkt der Einreise als Virusvariantengebiet eingestuften Gebiet aufgehalten haben, müssen bei der Einreise in die Bundesrepublik Deutschland über einen Testnachweis verfügen, der auf einer Testung mittels Nukleinsäurenachweis (PCR, PoC-NAAT oder weitere Methoden der Nukleinsäureamplifikationstechnik) beruht; ein Genesenennachweis oder ein Impfnachweis sind in diesem Fall nicht ausreichend.
 
 # § 6 – Ausnahmen
 
