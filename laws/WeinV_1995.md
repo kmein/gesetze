@@ -587,6 +587,8 @@ geerntet worden sind.
 
 (8a) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2013 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2014 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
 
+(8b) Jungwein, der aus im deutschen Weinanbaugebiet im Jahr 2021 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2022 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
+
 (9) Die Länder können durch Rechtsverordnung in Jahren mit außergewöhnlichen Witterungsbedingungen die Säuerung von frischen Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach den in Anhang VIII Teil I Abschnitt C Nummer 2 und 3 der Verordnung (EU) Nr. 1308/2013 genannten Bedingungen zulassen.
 
 # § 13a – (weggefallen)
