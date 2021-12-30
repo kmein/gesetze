@@ -139,6 +139,20 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 3. im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
 
+# § 1d
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Wertpapierinstitutsgesetzes zu erlassen
+
+1. im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und nach Anhörung der Deutschen Bundesbank nach Maßgabe des § 78 Absatz 6 Satz 1, 2 und 3,
+
+2. im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Wertpapierinstitute nach Maßgabe des § 14 Absatz 3 Satz 1, 2 und 4, des § 40 Absatz 4 Satz 1 und 3, des § 46 Absatz 3 Satz 1, 2 und 4 sowie des § 68 Absatz 2 Satz 1 und 3,
+
+3. im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Wertpapierinstitute nach Maßgabe des § 14 Absatz 2 Satz 1 und 3 sowie des § 72 Absatz 3 Satz 1 und 3,
+
+4. nach Anhörung der Spitzenverbände der Wertpapierinstitute nach Maßgabe des § 28 Absatz 4 Satz 1 und 3 sowie
+
+5. nach Maßgabe des § 16 Absatz 5 Satz 3.
+
 # § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

@@ -4669,7 +4669,9 @@ Die Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen Verfahren
 
 3. wenn bei dem Urteil ein Richter oder Schöffe mitgewirkt hat, der sich in Beziehung auf die Sache einer strafbaren Verletzung seiner Amtspflichten schuldig gemacht hat;
 
-4. wenn von dem Freigesprochenen vor Gericht oder außergerichtlich ein glaubwürdiges Geständnis der Straftat abgelegt wird.
+4. wenn von dem Freigesprochenen vor Gericht oder außergerichtlich ein glaubwürdiges Geständnis der Straftat abgelegt wird;
+
+5. wenn neue Tatsachen oder Beweismittel beigebracht werden, die allein oder in Verbindung mit früher erhobenen Beweisen dringende Gründe dafür bilden, dass der freigesprochene Angeklagte wegen Mordes (§ 211 des Strafgesetzbuches), Völkermordes (§ 6 Absatz 1 des Völkerstrafgesetzbuches), des Verbrechens gegen die Menschlichkeit (§ 7 Absatz 1 Nummer 1 und 2 des Völkerstrafgesetzbuches) oder Kriegsverbrechens gegen eine Person (§ 8 Absatz 1 Nummer 1 des Völkerstrafgesetzbuches) verurteilt wird.
 
 # § 363 – Unzulässigkeit
 

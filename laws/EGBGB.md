@@ -579,6 +579,10 @@ Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist, sind die 
 
 Art. 229 § 60 Satz 2 u. 3 Kursivdruck: Tritt zukünftig in Kraft
 
+# § 63 – Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
+
+§ 194 des Bürgerlichen Gesetzbuchs in der ab dem 30. Dezember 2021 geltenden Fassung ist auf die an diesem Tag bestehenden noch nicht verjährten Ansprüche anzuwenden.
+
 # § 1 – (weggefallen)
 
 \-
