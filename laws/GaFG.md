@@ -31,11 +31,9 @@ b) 1 Milliarde Euro im Jahr 2021,
 
 3. zum 31. Dezember 2020 den nach der Verwaltungsvereinbarung „Finanzhilfen des Bundes für das Investitionsprogramm zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder“ mit einem Gesamtvolumen von 750 Millionen Euro bereitgestellten und bis zum 31. Dezember 2020 nicht verausgabten Betrag.
 
-(2) Die Bonusmittel sind für den beschleunigten Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter zu verwenden. Sie stehen dem Sondervermögen jedoch nur insoweit zur Verfügung, als sie erforderlich sind zur Ausfinanzierung von Ansprüchen von denjenigen Ländern, die Basismittel für Investitionen bis zum 31. Dezember 2022 abgerufen haben. Diese Länder können maximal die gleiche Summe zusätzlich in den späteren Jahren der Laufzeit ab dem Jahr 2023 abrufen. Falls bis zum 31. Dezember 2022 mehr Basismittel abgerufen worden sind, als ab dem 1. Januar 2023 Bonusmittel zur Verfügung stehen, verringert sich der Anspruch auf die Bonusmittel relational mit der Maßgabe, dass jedes Land nur noch einen Anspruch auf Bonusmittel im Umfang desjenigen Prozentsatzes hat, zu dem es Basismittel von den insgesamt von den Ländern bis zum 31. Dezember 2022 abgerufenen Basismitteln abgerufen hat.
+(2) Die Bonusmittel werden im Jahr 2022 den Basismitteln zugeführt.
 
-(3) Verbleibt aus dem Betrag nach Absatz 1 Nummer 3 nach dem Ablauf des Förderzeitraums am 31. Dezember 2021 noch ein Restbetrag, so wird er den Bonusmitteln zugeführt.
-
-(4) Bonusmittel, auf die keine Ansprüche mehr geltend gemacht werden können, sind ab dem Jahr 2023 an den Bundeshaushalt abzuführen.
+(3) Verbleibt aus dem Betrag nach Absatz 1 Nummer 3 nach dem Ablauf des Förderzeitraums am 31. Dezember 2022 noch ein Restbetrag, so wird er den Basismitteln zugeführt.
 
 # § 5 – Rücklagen des Sondervermögens
 

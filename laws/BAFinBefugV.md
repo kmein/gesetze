@@ -91,13 +91,13 @@ verordnet das Bundesministerium der Finanzen:
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
-1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 62 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
+1. Rechtsverordnungen nach Maßgabe des § 3 Absatz 4 Satz 1, des § 31 Satz 1, des § 32 Absatz 6 Satz 1, des § 32f Absatz 8 Satz 1, des § 33 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 38 Absatz 5 Satz 1 in Verbindung mit Satz 2, des § 39 Absatz 2 Satz 1 in Verbindung mit Satz 2, des § 53 Absatz 4 Satz 1, des § 57 Absatz 6 Satz 1, des § 62 Absatz 2 Satz 1, des § 76 Absatz 4 Satz 1, des § 83 Absatz 10 Satz 1, des § 84 Absatz 10 Satz 1, des § 87 Absatz 9 Satz 1, des § 89 Absatz 6 Satz 1, des § 93 Absatz 5 und des § 102 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes,
 
 2. Rechtsverordnungen nach Maßgabe des § 1 Absatz 5 Satz 3, des § 5 Absatz 2 Satz 1 und des § 6 Absatz 4 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes,
 
 3. Rechtsverordnungen nach Maßgabe des § 2a Absatz 7 Satz 1, des § 9 Absatz 5 Satz 1, des § 9a Absatz 2 Satz 1, des § 20 Absatz 4 Satz 1 und 2, des § 28 Absatz 3 Satz 3, des § 34 Absatz 3 Satz 1 und 2, des § 36 Absatz 5 Satz 1 und 2, des § 41 Absatz 3 Satz 1 und 2, des § 44 Absatz 7 Satz 1 und 2, des § 51 Absatz 3 Satz 1 und 2, des § 119 Satz 1 und 2 sowie des § 128 Absatz 6 Satz 1 des Investmentgesetzes, Rechtsverordnungen nach Maßgabe des § 19f Absatz 3 Satz 1, des § 40c Absatz 3 Satz 1, des § 110 Absatz 7 Satz 1 und des § 110a Absatz 5 Satz 1 des Investmentgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie Rechtsverordnungen nach Maßgabe des § 143c Absatz 5 Satz 1 bis 3 und Absatz 6 Satz 1 jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-3a. Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 Satz 1, des § 27 Absatz 6 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1, des § 30 Absatz 5 Satz 1, des § 37 Absatz 3 Satz 1 bis 3, des § 68 Absatz 8 Satz 1, des § 78 Absatz 3 Satz 3, des § 89 Absatz 3 Satz 3, des § 96 Absatz 4 Satz 1, des § 117 Absatz 9 Satz 1, des § 132 Absatz 8 Satz 1, des § 166 Absatz 5 Satz 5, des § 168 Absatz 8 Satz 1, des § 197 Absatz 3 Satz 1, des § 204 Absatz 3 Satz 1, des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des Kapitalanlagegesetzbuchs sowie Rechtsverordnungen nach Maßgabe des § 38 Absatz 5 Satz 1, des § 47 Absatz 4 Satz 1, des § 48a Absatz 2, des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1, des § 136 Absatz 4 Satz 1 und des § 185 Absatz 3 Satz 1 des Kapitalanlagegesetzbuchs jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
+3a. Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 Satz 1, des § 27 Absatz 6 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1, des § 30 Absatz 5 Satz 1, des § 36 Absatz 11 Satz 1 bis 3, des § 37 Absatz 3 Satz 1 bis 3, des § 68 Absatz 8 Satz 1, des § 78 Absatz 3 Satz 3, des § 89 Absatz 3 Satz 3, des § 96 Absatz 4 Satz 1, des § 117 Absatz 9 Satz 1, des § 132 Absatz 8 Satz 1, des § 166 Absatz 5 Satz 5, des § 168 Absatz 8 Satz 1, des § 197 Absatz 3 Satz 1, des § 204 Absatz 3 Satz 1, des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des Kapitalanlagegesetzbuchs sowie Rechtsverordnungen nach Maßgabe des § 38 Absatz 5 Satz 1, des § 45a Absatz 6 Satz 1, des § 47 Absatz 5 Satz 1, des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1, des § 136 Absatz 4 Satz 1 und des § 185 Absatz 3 Satz 1 des Kapitalanlagegesetzbuchs jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
 4. Rechtsverordnungen nach Maßgabe des § 4 Absatz 6 Satz 1 und 3, des § 5 Absatz 3 Satz 1 bis 3, dieser auch in Verbindung mit Absatz 2 Satz 3, des § 16 Absatz 4 Satz 1 bis 3, des § 24 Absatz 5 Satz 1 und 2 sowie des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und Rechtsverordnungen nach Maßgabe des § 27a Absatz 2 Satz 1 und 2 des Pfandbriefgesetzes nach Anhörung der Spitzenverbände der Kreditwirtschaft,
 
@@ -115,7 +115,7 @@ zu erlassen.
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Versicherungsaufsichtsgesetzes zu erlassen
 
-1. nach Maßgabe des § 22 Satz 1 und 2, auch in Verbindung mit § 293 Absatz 1 und 4 sowie in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 34 Absatz 2 Satz 1 bis 4, des § 131 Absatz 1, des § 160 Satz 1 Nummer 6, des § 170 Satz 1, des § 217 Satz 1 Nummer 1 bis 5, des § 220 Satz 1, des § 235 Absatz 1 Nummer 1 bis 8, 10, 12 und 13, des § 240 Satz 1 Nummer 1 bis 3 und 5 bis 9,
+1. nach Maßgabe des § 22 Satz 1 und 2, auch in Verbindung mit § 293 Absatz 1 und 4 sowie in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 34 Absatz 2 Satz 1 bis 4 und Absatz 3 Satz 1, jeweils auch in Verbindung mit § 237 Absatz 1 Satz 1, nach Maßgabe des § 131 Absatz 1, des § 160 Satz 1 Nummer 6, des § 170 Satz 1, des § 217 Satz 1 Nummer 1 bis 5, des § 220 Satz 1, des § 235 Absatz 1 Nummer 1 bis 8, 10, 12 und 13, des § 240 Satz 1 Nummer 1 bis 3 und 5 bis 9,
 
 2. nach Anhörung des Versicherungsbeirats nach Maßgabe des § 39 Absatz 1 Satz 1 Nummer 2 und 5 bis 7 in Verbindung mit Satz 2,
 
@@ -152,6 +152,10 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 4. nach Anhörung der Spitzenverbände der Wertpapierinstitute nach Maßgabe des § 28 Absatz 4 Satz 1 und 3 sowie
 
 5. nach Maßgabe des § 16 Absatz 5 Satz 3.
+
+# § 1e
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Zahlungsdiensteaufsichtsgesetzes zu erlassen im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute nach Maßgabe des § 28 Absatz 4 Satz 1 und 2.
 
 # § 2
 

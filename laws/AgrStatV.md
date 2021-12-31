@@ -11,7 +11,11 @@ Auf Grund des § 94a Nummer 1 Buchstabe a und b des Agrarstatistikgesetzes, der 
 
 (2) Unbeschadet des Absatzes 1 umfassen die Erhebungsmerkmale der Baumschulerhebung nach § 14 Absatz 1 des Agrarstatistikgesetzes jeweils zusätzlich die Unterscheidung nach Kulturformen.
 
-# § 2 – Aquakulturstatistik
+# § 2 – Baumobstanbauerhebung
+
+Zusätzlich zu den in § 17 Absatz 1 Nummer 2 des Agrarstatistikgesetzes aufgeführten Erhebungsmerkmalen werden bei Äpfeln und Birnen, die als Verwertungsobst verwendet werden, die Pflanzzeitpunkte und die Zahl der Bäume jeweils nach der Fläche erhoben.
+
+# § 3 – Aquakulturstatistik
 
 Der Kreis der in der Aquakulturstatistik nach § 68a des Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt:
 
@@ -21,7 +25,7 @@ Der Kreis der in der Aquakulturstatistik nach § 68a des Agrarstatistikgesetzes 
 
 Im Übrigen bleibt § 68a des Agrarstatistikgesetzes unberührt.
 
-# § 3 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Agrarstatistikverordnung vom 20. November 2002 (BGBl. I S. 4415), die zuletzt durch Artikel 4 des Gesetzes vom 6. März 2009 (BGBl. I S. 438) geändert worden ist, außer Kraft.
 

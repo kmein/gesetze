@@ -5328,6 +5328,7 @@
 - [StromStG§10Abs3uaBek 2019](laws/StromStG§10Abs3uaBek_2019.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2020](laws/StromStG§10Abs3uaBek_2020.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStG§10Abs3uaBek 2021](laws/StromStG§10Abs3uaBek_2021.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
+- [StromStG§10Abs3uaBek 2022](laws/StromStG§10Abs3uaBek_2022.md) Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes
 - [StromStV](laws/StromStV.md) Verordnung zur Durchführung des Stromsteuergesetzes
 - [StrRehaG](laws/StrRehaG.md) Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 - [StrRehaHomG](laws/StrRehaHomG.md) Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
