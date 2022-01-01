@@ -27,7 +27,7 @@
 
 5. REIT-Aktiengesellschaften nach § 1 Absatz 1 des REIT-Gesetzes und andere REIT-Körperschaften, -Personenvereinigungen oder -Vermögensmassen nach § 19 Absatz 5 des REIT-Gesetzes.
 
-Sondervermögen und vergleichbare ausländische Rechtsformen gelten nicht als Personengesellschaft im Sinne des Satzes 1 Nummer 2.
+Sondervermögen und vergleichbare ausländische Rechtsformen gelten nicht als Personengesellschaft im Sinne des Satzes 1 Nummer 2. Investmentvermögen in der Rechtsform einer Personengesellschaft sind auch dann keine Investmentfonds, wenn sie nach § 1a des Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben.
 
 (4) Haftungs- und vermögensrechtlich voneinander getrennte Teile eines Investmentfonds gelten für die Zwecke dieses Gesetzes als eigenständige Investmentfonds.
 
@@ -65,7 +65,7 @@ b) in einem Drittstaat ansässig ist und dort einer Ertragsbesteuerung für Kapi
 
 Sieht ein Aktienfonds in seinen Anlagebedingungen einen höheren Prozentsatz als 51 Prozent seines Aktivvermögens für die fortlaufende Mindestanlage in Kapitalbeteiligungen vor, gilt abweichend von Satz 1 Nummer 3 der Investmentanteil im Umfang dieses höheren Prozentsatzes als Kapitalbeteiligung. Sieht ein Mischfonds in seinen Anlagebedingungen einen höheren Prozentsatz als 25 Prozent seines Aktivvermögens für die fortlaufende Mindestanlage in Kapitalbeteiligungen vor, gilt abweichend von Satz 1 Nummer 4 der Investmentanteil im Umfang dieses höheren Prozentsatzes als Kapitalbeteiligung. Im Übrigen gelten Investmentanteile nicht als Kapitalbeteiligungen. Auch nicht als Kapitalbeteiligungen gelten
 
-1. Anteile an Personengesellschaften, auch wenn die Personengesellschaften Anteile an Kapitalgesellschaften halten,
+1. Anteile an Personengesellschaften, auch wenn die Personengesellschaften Anteile an Kapitalgesellschaften halten oder wenn die Personengesellschaften nach § 1a des Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben,
 
 2. Anteile an Kapitalgesellschaften, die nach Absatz 9 Satz 6 als Immobilien gelten,
 
@@ -96,6 +96,8 @@ b) die unmittelbar oder mittelbar Beteiligungen an Kapitalgesellschaften halten,
 1. der Bundesrepublik Deutschland Amtshilfe gemäß der Amtshilferichtlinie im Sinne des § 2 Absatz 2 des EU-Amtshilfegesetzes oder gemäß vergleichbaren völkerrechtlichen Vereinbarungen leistet und
 
 2. die Bundesrepublik Deutschland bei der Beitreibung von Forderungen gemäß der Beitreibungsrichtlinie im Sinne des § 2 Absatz 2 des EU-Beitreibungsgesetzes oder gemäß vergleichbaren völkerrechtlichen Vereinbarungen unterstützt.
+
+(16) Anteile an Personengesellschaften, die nach § 1a des Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben, gelten für die Zwecke der §§ 26, 28 und 48 nicht als Beteiligung an einer Kapitalgesellschaft, sondern es sind weiterhin die für Personengesellschaften geltenden Regelungen anzuwenden.
 
 (+++ § 2: Zur Anwendung vgl. § 56 Abs. 1 u. § 57 +++)
 
@@ -411,7 +413,7 @@ Satz 4 Nummer 1 gilt entsprechend, wenn der Anleger ein Pensionsfonds ist.
 
 (3) Bei Immobilienfonds sind 60 Prozent der Erträge steuerfrei (Immobilienteilfreistellung). Bei Auslands-Immobilienfonds sind 80 Prozent der Erträge steuerfrei (Auslands-Immobilienteilfreistellung). Die Anwendung der Immobilienteilfreistellung oder der Auslands-Immobilienteilfreistellung schließt die Anwendung der Aktienteilfreistellung aus.
 
-(3a) Die Absätze 1 bis 3 gelten auch für Investmentanteile, die mittelbar über Personengesellschaften gehalten werden.
+(3a) Die Absätze 1 bis 3 gelten auch für Investmentanteile, die mittelbar über Personengesellschaften gehalten werden. Satz 1 ist nicht auf Personengesellschaften anzuwenden, die nach § 1a des Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben.
 
 (4) Weist der Anleger nach, dass der Investmentfonds die Aktienfonds- oder Mischfonds-Kapitalbeteiligungsquote oder Immobilienfonds- oder Auslands-Immobilienfondsquote während des Geschäftsjahres tatsächlich durchgehend überschritten hat, so ist die Teilfreistellung auf Antrag des Anlegers in der Veranlagung anzuwenden.
 
@@ -1167,3 +1169,13 @@ in der Fassung des Artikels 10 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 30
 (4) § 26 Nummer 4 Buchstabe j, Nummer 5 Satz 2 und Nummer 7 Satz 2 in der Fassung des Artikels 5 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1498) ist ab dem 2. August 2021 anzuwenden.
 
 (5) § 43 Absatz 2 in der am 30. Juni 2021 geltenden Fassung ist letztmals für den Veranlagungszeitraum 2021 anzuwenden.
+
+(6) Ab dem 1. Januar 2022 anzuwenden sind:
+
+1. § 1 Absatz 3 Satz 2,
+
+2. § 2 Absatz 16,
+
+3. § 20 Absatz 3a Satz 2
+
+in der Fassung des Artikels 4 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050).

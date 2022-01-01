@@ -163,6 +163,12 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
+# § 14b – Nutzungspflicht für Rechtsanwälte, Notare und Behörden
+
+(1) Bei Gericht schriftlich einzureichende Anträge und Erklärungen sind durch einen Rechtsanwalt, durch einen Notar, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse als elektronisches Dokument zu übermitteln. Ist dies aus technischen Gründen vorübergehend nicht möglich, so bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist mit der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
+
+(2) Andere Anträge und Erklärungen, die durch einen Rechtsanwalt, durch einen Notar, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sollen als elektronisches Dokument übermittelt werden. Werden sie nach den allgemeinen Vorschriften übermittelt, so ist auf Anforderung ein elektronisches Dokument nachzureichen.
+
 # § 15 – Bekanntgabe; formlose Mitteilung
 
 (1) Dokumente, deren Inhalt eine Termins- oder Fristbestimmung enthält oder den Lauf einer Frist auslöst, sind den Beteiligten bekannt zu geben.
@@ -849,7 +855,7 @@ Die §§ 103 bis 107 der Zivilprozessordnung über die Festsetzung des zu erstat
 
 (2) Die Vollstreckung darf nur beginnen, wenn der Beschluss bereits zugestellt ist oder gleichzeitig zugestellt wird.
 
-(3) Der Gerichtsvollzieher ist befugt, erforderlichenfalls die Unterstützung der polizeilichen Vollzugsorgane nachzusuchen. § 758 Abs. 1 und 2 sowie die §§ 759 bis 763 der Zivilprozessordnung gelten entsprechend.
+(3) Der Gerichtsvollzieher ist befugt, ein Auskunfts- und Unterstützungsersuchen nach § 757a der Zivilprozessordnung zu stellen. § 758 Abs. 1 und 2 sowie die §§ 759 bis 763 der Zivilprozessordnung gelten entsprechend.
 
 (4) Ein Beschluss, der im Vollstreckungsverfahren ergeht, ist mit der sofortigen Beschwerde in entsprechender Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar.
 
@@ -949,7 +955,7 @@ die Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung entsprech
 
 # § 96 – Vollstreckung in Verfahren nach dem Gewaltschutzgesetz und in Ehewohnungssachen
 
-(1) Handelt der Verpflichtete einer Anordnung nach § 1 des Gewaltschutzgesetzes zuwider, eine Handlung zu unterlassen, kann der Berechtigte zur Beseitigung einer jeden andauernden Zuwiderhandlung einen Gerichtsvollzieher zuziehen. Der Gerichtsvollzieher hat nach § 758 Abs. 3 und § 759 der Zivilprozessordnung zu verfahren. Die §§ 890 und 891 der Zivilprozessordnung bleiben daneben anwendbar.
+(1) Handelt der Verpflichtete einer Anordnung nach § 1 des Gewaltschutzgesetzes zuwider, eine Handlung zu unterlassen, kann der Berechtigte zur Beseitigung einer jeden andauernden Zuwiderhandlung einen Gerichtsvollzieher zuziehen. Der Gerichtsvollzieher hat nach § 758 Abs. 3 und § 759 der Zivilprozessordnung zu verfahren; er kann ein Auskunfts- und Unterstützungsersuchen nach § 757a der Zivilprozessordnung stellen. Die §§ 890 und 891 der Zivilprozessordnung bleiben daneben anwendbar.
 
 (2) Bei einer einstweiligen Anordnung in Gewaltschutzsachen, soweit Gegenstand des Verfahrens Regelungen aus dem Bereich der Ehewohnungssachen sind, und in Ehewohnungssachen ist die mehrfache Einweisung des Besitzes im Sinne des § 885 Abs. 1 der Zivilprozessordnung während der Geltungsdauer möglich. Einer erneuten Zustellung an den Verpflichteten bedarf es nicht.
 
@@ -1651,7 +1657,11 @@ Sieht das Gericht in den genannten Fällen von der Bestellung eines Verfahrensbe
 
 (5) Die Bestellung eines Verfahrensbeistands oder deren Aufhebung sowie die Ablehnung einer derartigen Maßnahme sind nicht selbständig anfechtbar.
 
-# § 158a – (zukünftig)
+# § 158a – Eignung des Verfahrensbeistands
+
+(1) Fachlich geeignet im Sinne des § 158 Absatz 1 ist eine Person, die Grundkenntnisse auf den Gebieten des Familienrechts, insbesondere des Kindschaftsrechts, des Verfahrensrechts in Kindschaftssachen und des Kinder- und Jugendhilferechts, sowie Kenntnisse der Entwicklungspsychologie des Kindes hat und über kindgerechte Gesprächstechniken verfügt. Die nach Satz 1 erforderlichen Kenntnisse und Fähigkeiten sind auf Verlangen des Gerichts nachzuweisen. Der Nachweis kann insbesondere über eine sozialpädagogische, pädagogische, juristische oder psychologische Berufsqualifikation sowie eine für die Tätigkeit als Verfahrensbeistand spezifische Zusatzqualifikation erbracht werden. Der Verfahrensbeistand hat sich regelmäßig, mindestens alle zwei Jahre, fortzubilden und dies dem Gericht auf Verlangen nachzuweisen.
+
+(2) Persönlich geeignet im Sinne des § 158 Absatz 1 ist eine Person, die Gewähr bietet, die Interessen des Kindes gewissenhaft, unvoreingenommen und unabhängig wahrzunehmen. Persönlich ungeeignet ist eine Person stets dann, wenn sie rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 178, 180, 180a, 181a, 182 bis 184c, 184e bis 184g, 184i bis 184k, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs verurteilt worden ist. Zur Überprüfung der Voraussetzungen des Satzes 2 soll sich das Gericht ein erweitertes Führungszeugnis von der betreffenden Person (§ 30a des Bundeszentralregistergesetzes) vorlegen lassen oder im Einverständnis mit der betreffenden Person anderweitig Einsicht in ein bereits vorliegendes erweitertes Führungszeugnis nehmen. Ein solches darf nicht älter als drei Jahre sein. Aktenkundig zu machen sind nur die Einsichtnahme in das erweiterte Führungszeugnis des bestellten Verfahrensbeistands, das Ausstellungsdatum sowie die Feststellung, dass das erweiterte Führungszeugnis keine Eintragung über eine rechtskräftige Verurteilung wegen einer in Satz 2 genannten Straftat enthält.
 
 # § 158b – Aufgaben und Rechtsstellung des Verfahrensbeistands
 

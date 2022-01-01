@@ -339,13 +339,7 @@ Wurde der Sachverständige vor dem 15. Oktober 2016 ernannt, ist § 411 Absatz 1
 
 Die Länder übermitteln dem Bundesministerium der Justiz und für Verbraucherschutz auf Anfrage die Informationen nach Artikel 53 Absatz 2 der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf die Erleichterung der grenzüberschreitenden Eintreibung von Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S. 59).
 
-# § 43 – Verordnungsermächtigung für die Länder aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung
-
-(1) Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass § 753 Absatz 4, § 754a Absatz 3 und § 829a Absatz 3 der Zivilprozessordnung in der bis zum 31. Dezember 2017 geltenden Fassung bis zum 31. Dezember entweder des Jahres 2018 oder des Jahres 2019 weiterhin Anwendung finden und die in den Artikeln 2 und 14 Nummer 4 des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung genannten Bestimmungen ganz oder teilweise erst am 1. Januar entweder des Jahres 2019 oder des Jahres 2020 in Kraft treten.
-
-(2) Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass die in den Artikeln 3 und 14 Nummer 5 des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung genannten Bestimmungen ganz oder teilweise bereits am 1. Januar entweder des Jahres 2020 oder des Jahres 2021 in Kraft treten. Sofern die Landesregierung von der Ermächtigung in Absatz 1 Gebrauch gemacht hat, kommt nur ein Inkrafttreten am 1. Januar 2021 in Betracht.
-
-(3) Die Landesregierungen können die Ermächtigungen nach den Absätzen 1 und 2 durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.
+# § 43 – (weggefallen)
 
 # § 44 – Vorrang- und Beschleunigungsgebot
 

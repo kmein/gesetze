@@ -23,13 +23,19 @@ Hilfsmerkmale sind:
 
 2. Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
 
+# § 4a – Durchführung
+
+(1) Die Angaben werden vom Statistischen Bundesamt erhoben und aufbereitet.
+
+(2) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen auf regionaler Ebene.
+
 # § 5 – Freiwilligkeit der Auskunftserteilung
 
 Die Erteilung der Auskunft ist freiwillig.
 
 # § 6 – Übermittlungsregelung
 
-Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen den obersten Bundes- oder Landesbehörden vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
+Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen den obersten Bundes- oder Landesbehörden vom Statistischen Bundesamt Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 # § 7 – Inkrafttreten
 

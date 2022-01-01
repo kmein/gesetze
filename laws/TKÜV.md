@@ -15,7 +15,7 @@ c) in § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes,
 
 d) in § 51 des Bundeskriminalamtgesetzes,
 
-e) in den §§ 6, 12 und 14 des BND-Gesetzes sowie
+e) in den §§ 19, 24 und 26 des BND-Gesetzes sowie
 
 f) im Landesrecht
 
@@ -25,7 +25,7 @@ vorgesehenen Maßnahmen zur Überwachung der Telekommunikation erforderlich sind
 
 3. das Verfahren für den Nachweis nach § 170 Absatz 1 Satz 1 Nummer 4 und 5 des Telekommunikationsgesetzes,
 
-4. die Ausgestaltung der Verpflichtungen zur Duldung der Aufstellung von technischen Einrichtungen für Maßnahmen der strategischen Kontrolle nach § 5 oder § 8 des Artikel 10-Gesetzes oder nach den §§ 6, 12 oder 14 des BND-Gesetzes sowie des Zugangs zu diesen Einrichtungen,
+4. die Ausgestaltung der Verpflichtungen zur Duldung der Aufstellung von technischen Einrichtungen für Maßnahmen der strategischen Kontrolle nach § 5 oder § 8 des Artikel 10-Gesetzes oder nach den §§ 19, 24 oder 26 des BND-Gesetzes sowie des Zugangs zu diesen Einrichtungen,
 
 5. bei welchen Telekommunikationsanlagen dauerhaft oder vorübergehend keine technischen Einrichtungen zur Umsetzung von Anordnungen zur Überwachung der Telekommunikation vorgehalten oder keine organisatorischen Vorkehrungen getroffen werden müssen,
 
@@ -41,7 +41,7 @@ Im Sinne dieser Verordnung ist
 
 1. Anordnung
 
-a) im Sinne der Teile 2 und 3 die Anordnung zur Überwachung der Telekommunikation nach § 100e der Strafprozessordnung, § 10 des Artikel 10-Gesetzes, § 74 des Zollfahndungsdienstgesetzes, § 51 des Bundeskriminalamtgesetzes, § 9 des BND-Gesetzes oder nach Landesrecht und
+a) im Sinne der Teile 2 und 3 die Anordnung zur Überwachung der Telekommunikation nach § 100e der Strafprozessordnung, § 10 des Artikel 10-Gesetzes, § 74 des Zollfahndungsdienstgesetzes, § 51 des Bundeskriminalamtgesetzes, § 25 Absatz 1 Satz 1 des BND-Gesetzes oder nach Landesrecht und
 
 b) im Sinne des Teils 4 die Anordnung zur Erteilung von Auskünften über Verkehrsdaten nach § 100g in Verbindung mit § 101a Absatz 1 der Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-Gesetzes oder § 3 des BND-Gesetzes, § 52 des Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder nach Landesrecht;
 
@@ -55,7 +55,7 @@ die technische Einrichtung einer berechtigten Stelle, die an Aufzeichnungsanschl
 
 3. berechtigte Stelle
 
-a) im Sinne der Teile 2 und 3 die nach § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 1 Absatz 1 Nummer 1 des Artikel 10-Gesetzes, § 72 Absatz 1 des Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes, den §§ 6, 12 oder 14 des BND-Gesetzes oder nach Landesrecht auf Grund der jeweiligen Anordnung zur Überwachung und Aufzeichnung der Telekommunikation berechtigte Stelle und
+a) im Sinne der Teile 2 und 3 die nach § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 1 Absatz 1 Nummer 1 des Artikel 10-Gesetzes, § 72 Absatz 1 des Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes, den §§ 19, 24 oder 26 des BND-Gesetzes oder nach Landesrecht auf Grund der jeweiligen Anordnung zur Überwachung und Aufzeichnung der Telekommunikation berechtigte Stelle und
 
 b) im Sinne des Teils 4 die Stelle,
 
@@ -109,7 +109,7 @@ das vom Verpflichteten auf Grund einer Anordnung auszuleitende und an die Aufzei
 
 15. Überwachungsmaßnahme
 
-eine Maßnahme zur Überwachung der Telekommunikation nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, den §§ 3, 5 oder 8 des Artikel 10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes, den §§ 6, 12 oder 14 des BND-Gesetzes oder nach Landesrecht;
+eine Maßnahme zur Überwachung der Telekommunikation nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, den §§ 3, 5 oder 8 des Artikel 10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes, den §§ 19, 24 oder 26 des BND-Gesetzes oder nach Landesrecht;
 
 16. Verpflichteter
 
@@ -121,7 +121,7 @@ a) das technische Merkmal, durch das die zu überwachende Telekommunikation in d
 
 b) im Falle von Übertragungswegen, die dem unmittelbaren nutzerbezogenen Zugang zum Internet dienen, oder im Falle des § 5 oder des § 8 des Artikel 10-Gesetzes die Bezeichnung des Übertragungswegs, oder
 
-c) im Falle der §§ 6, 12 oder 14 des BND-Gesetzes die Bezeichnung des Telekommunikationsnetzes einschließlich der für die Umsetzung der Anordnung erforderlichen, in der Technischen Richtlinie nach § 170 Absatz 6 des Telekommunikationsgesetzes festgelegten technischen Parameter;
+c) im Falle der §§ 19, 24 oder 26 des BND-Gesetzes die Bezeichnung des Telekommunikationsnetzes einschließlich der für die Umsetzung der Anordnung erforderlichen, in der Technischen Richtlinie nach § 170 Absatz 6 des Telekommunikationsgesetzes festgelegten technischen Parameter;
 
 18. Zuordnungsnummer
 
@@ -489,7 +489,7 @@ für öffentlich zugängliche Telekommunikationsdienste genutzt werden.
 
 # § 27 – Grundsätze, technische und organisatorische Umsetzung von Anordnungen, Verschwiegenheit
 
-(1) Die zu überwachende Telekommunikation umfasst bei Überwachungsmaßnahmen nach § 5 oder § 8 des Artikel 10-Gesetzes die Telekommunikation, die auf dem in der Anordnung bezeichneten Übertragungsweg übertragen wird, einschließlich der auf diesem Übertragungsweg übermittelten, für den Auf- oder Abbau von Telekommunikationsverbindungen notwendigen vermittlungstechnischen Steuerzeichen und bei Überwachungsmaßnahmen nach den §§ 6, 12 oder 14 des BND-Gesetzes die Telekommunikation, die in dem in der Anordnung bezeichneten Telekommunikationsnetz übermittelt wird, einschließlich der in diesem Telekommunikationsnetz übermittelten, für den Auf- oder Abbau von Telekommunikationsverbindungen notwendigen vermittlungstechnischen Steuerzeichen. § 5 gilt mit Ausnahme von seinem Absatz 1, 2 Satz 3 und Absatz 4 Satz 2 entsprechend.
+(1) Die zu überwachende Telekommunikation umfasst bei Überwachungsmaßnahmen nach § 5 oder § 8 des Artikel 10-Gesetzes die Telekommunikation, die auf dem in der Anordnung bezeichneten Übertragungsweg übertragen wird, einschließlich der auf diesem Übertragungsweg übermittelten, für den Auf- oder Abbau von Telekommunikationsverbindungen notwendigen vermittlungstechnischen Steuerzeichen und bei Überwachungsmaßnahmen nach den §§ 19, 24 oder 26 des BND-Gesetzes die Telekommunikation, die in der Anordnung nach § 25 Absatz 1 Satz 1 des BND-Gesetzes bezeichnet wird, einschließlich der in dieser Telekommunikation übermittelten, für den Auf- oder Abbau von Telekommunikationsverbindungen notwendigen vermittlungstechnischen Steuerzeichen. § 5 gilt mit Ausnahme von seinem Absatz 1, 2 Satz 3 und Absatz 4 Satz 2 entsprechend.
 
 (2) Der Verpflichtete hat dem Bundesnachrichtendienst an einem Übergabepunkt im Inland eine vollständige Kopie der Telekommunikation bereitzustellen, die über die in der Anordnung bezeichneten Übertragungswege oder Telekommunikationsnetze übertragen wird.
 
@@ -517,11 +517,11 @@ Der Verpflichtete hat sicherzustellen, dass eine unbeaufsichtigte Tätigkeit der
 
 (7) Für die Gestaltung des Übergabepunktes gilt § 8 Absatz 2 Satz 1 Nummer 1 bis 4 entsprechend. Technische Einzelheiten zum Übergabepunkt können in der Technischen Richtlinie nach § 36 festgelegt werden, sie können jedoch auch in Abstimmung mit der Bundesnetzagentur und den betroffenen Interessenvertretern festgelegt werden.
 
-(8) Für die Entstörung und Störungsmeldung, für die Schutzanforderungen, für die Pflicht zur Verschwiegenheit, für die Entgegennahme der Information über das Vorliegen einer Anordnung und die Entgegennahme einer Anordnung sowie für Rückfragen gelten § 12 Absatz 1 Satz 5 und Absatz 3, §§ 13, 14 Absatz 1 und 3 sowie § 15 entsprechend mit der von § 12 Absatz 1 Satz 1 bis 3 und Absatz 3 Satz 1 abweichenden Maßgabe, dass der Verpflichtete innerhalb seiner üblichen Geschäftszeiten jederzeit über das Vorliegen einer Anordnung und die Dringlichkeit ihrer Umsetzung benachrichtigt werden kann, er eine Anordnung entgegennehmen und Rückfragen zu einzelnen noch nicht abgeschlossenen Überwachungsmaßnahmen entgegennehmen kann. Für Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen des Bundesnachrichtendienstes gilt § 23 Absatz 1 Satz 1 Nummer 3 entsprechend; für derartige Funktionsprüfungen ist abweichend von § 23 Absatz 1 Satz 8 bis 13 für Maßnahmen nach den §§ 5 oder 8 des Artikel 10-Gesetzes eine Anordnung nach den §§ 5 oder 8 des Artikel 10-Gesetzes und für Maßnahmen nach den §§ 6, 12 oder 14 des BND-Gesetzes eine Anordnung nach § 6 Absatz 1 Satz 2 des BND-Gesetzes erforderlich.
+(8) Für die Entstörung und Störungsmeldung, für die Schutzanforderungen, für die Pflicht zur Verschwiegenheit, für die Entgegennahme der Information über das Vorliegen einer Anordnung und die Entgegennahme einer Anordnung sowie für Rückfragen gelten § 12 Absatz 1 Satz 5 und Absatz 3, §§ 13, 14 Absatz 1 und 3 sowie § 15 entsprechend mit der von § 12 Absatz 1 Satz 1 bis 3 und Absatz 3 Satz 1 abweichenden Maßgabe, dass der Verpflichtete innerhalb seiner üblichen Geschäftszeiten jederzeit über das Vorliegen einer Anordnung und die Dringlichkeit ihrer Umsetzung benachrichtigt werden kann, er eine Anordnung entgegennehmen und Rückfragen zu einzelnen noch nicht abgeschlossenen Überwachungsmaßnahmen entgegennehmen kann. Für Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen des Bundesnachrichtendienstes gilt § 23 Absatz 1 Satz 1 Nummer 3 entsprechend; für derartige Funktionsprüfungen ist abweichend von § 23 Absatz 1 Satz 8 bis 13 für Maßnahmen nach den §§ 5 oder 8 des Artikel 10-Gesetzes eine Anordnung nach den §§ 5 oder 8 des Artikel 10-Gesetzes und für Maßnahmen nach den §§ 19, 24 oder 26 des BND-Gesetzes eine Anordnung nach § 25 Absatz 1 Satz 1 des BND-Gesetzes erforderlich.
 
 # § 28 – Verfahren
 
-(1) Sofern der Verpflichtete für die technische Umsetzung von Anordnungen nach § 5 oder § 8 des Artikel 10-Gesetzes oder Anordnungen für Maßnahmen nach den §§ 6, 12 oder 14 des BND-Gesetzes technische Einrichtungen oder Funktionen verwendet, die durch Eingaben in Steuerungssysteme bedient werden, die von diesen Einrichtungen abgesetzt sind, gelten die §§ 16 und 17 entsprechend.
+(1) Sofern der Verpflichtete für die technische Umsetzung von Anordnungen nach § 5 oder § 8 des Artikel 10-Gesetzes oder Anordnungen für Maßnahmen nach den §§ 19, 24 oder 26 des BND-Gesetzes technische Einrichtungen oder Funktionen verwendet, die durch Eingaben in Steuerungssysteme bedient werden, die von diesen Einrichtungen abgesetzt sind, gelten die §§ 16 und 17 entsprechend.
 
 (2) (weggefallen)
 

@@ -55,11 +55,11 @@ Den Beschäftigten stehen Personen gleich, für die ein anderer wie ein Arbeitge
 
 (6) Alle persönlichen Angaben für Meldungen sind amtlichen Unterlagen, die Versicherungsnummer ist dem Sozialversicherungsausweis zu entnehmen.
 
-(7) Ist bei einer Anmeldung die Versicherungsnummer nicht bekannt, sind die für die Vergabe der Versicherungsnummer erforderlichen Angaben, insbesondere der vollständige Name, der Geburtsname, das Geburtsdatum, der Geburtsort, das Geschlecht, die Staatsangehörigkeit und die Anschrift aufzunehmen.
+(7) Ist bei einer Anmeldung die Versicherungsnummer nicht bekannt, sind die für die Vergabe der Versicherungsnummer erforderlichen Angaben, insbesondere der vollständige Name, der Geburtsname, das Geburtsdatum, der Geburtsort, das Geburtsland, das Geschlecht, die Staatsangehörigkeit und die Anschrift aufzunehmen.
 
 (8) Bei erstmaliger Aufnahme einer versicherungspflichtigen Beschäftigung im Geltungsbereich dieser Verordnung durch einen Angehörigen eines anderen Mitgliedstaates der Europäischen Union oder eines Staates, für den das Abkommen über den Europäischen Wirtschaftsraum gilt, sind außerdem das Geburtsland sowie die Versicherungsnummer des Landes der Staatsangehörigkeit einzutragen.
 
-(9) Der Meldepflichtige hat eine Mehrfachbeschäftigung zu melden.
+(9) (weggefallen)
 
 (10) Meldungen, die Angaben über Arbeitsentgelt enthalten, sind gesondert zu kennzeichnen, wenn der zu meldende Zeitraum Arbeitsentgelt nach den Vorschriften des Übergangsbereichs (§ 20 Abs. 2 des Vierten Buches Sozialgesetzbuch) enthält.
 
@@ -145,7 +145,9 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 # § 13 – Meldungen für geringfügig Beschäftigte
 
-Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die §§ 6 und 8 bis 12 entsprechend.
+(1) Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die §§ 6 und 8 bis 12 entsprechend.
+
+(2) Bei Anmeldung eines geringfügigen Beschäftigten nach § 8 Absatz 1 Nummer 2 des Vierten Buches Sozialgesetzbuch hat die Einzugsstelle dem Meldepflichtigen unverzüglich auf elektronischem Weg mitzuteilen, ob zum Zeitpunkt der Anmeldung für den Beschäftigten weitere geringfügige Beschäftigungen nach § 8 Absatz 1 Nummer 2 des Vierten Buches Sozialgesetzbuch bestehen oder in dem vorausgehenden Zeitraum im Kalenderjahr bestanden haben.
 
 # § 14 – Stornierung
 

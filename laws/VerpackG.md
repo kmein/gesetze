@@ -438,6 +438,16 @@ Beim privaten Endverbraucher als Abfall anfallende restentleerte Verpackungen si
 
 Die Information hat in regelmäßigen Zeitabständen zu erfolgen und soll sowohl lokale als auch überregionale Maßnahmen beinhalten. Bei der Vorbereitung der Informationsmaßnahmen sind die Einrichtungen der kommunalen Abfallberatung und Verbraucherschutzorganisationen zu beteiligen.
 
+(4) Die Systeme haben die folgenden Informationen auf ihren Internetseiten zu veröffentlichen und regelmäßig zu aktualisieren:
+
+1. ihre Eigentums- und Mitgliederverhältnisse,
+
+2. die von den beteiligten Herstellern geleisteten Entgelte je in Verkehr gebrachter systembeteiligungspflichtiger Verpackung oder je Masseeinheit an systembeteiligungspflichtigen Verpackungen und
+
+3. das Verfahren, das sie zur Auswahl der Abfallbewirtschaftungseinrichtungen verwenden, soweit diese nicht nach den Vorgaben des § 23 ausgewählt werden.
+
+Dies gilt nicht, wenn es sich um ein Geschäftsgeheimnis handelt. Die Zentrale Stelle kann bei Zweifeln an dem Vorliegen eines Geschäftsgeheimnisses von den Systemen eine Begründung in Textform verlangen, warum es sich bei der nicht veröffentlichten Information um ein Geschäftsgeheimnis handelt.
+
 # § 15 – Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
 
 (1) Hersteller und in der Lieferkette nachfolgende Vertreiber von
@@ -456,7 +466,7 @@ sind verpflichtet, gebrauchte, restentleerte Verpackungen der gleichen Art, Form
 
 (2) Ist einem Hersteller oder in der Lieferkette nachfolgenden Vertreiber von Verpackungen nach Absatz 1 Satz 1 Nummer 3 und 4 eine umwelt- und gesundheitsverträgliche Rücknahme am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe nicht möglich, kann die Rücknahme auch in einer zentralen Annahmestelle erfolgen, wenn diese in einer für den Rückgabeberechtigten zumutbaren Entfernung zum Ort der tatsächlichen Übergabe liegt und zu den geschäftsüblichen Öffnungszeiten des Vertreibers zugänglich ist. Letztvertreiber von Verpackungen nach Absatz 1 Satz 1 Nummer 3 und 4 müssen die Endverbraucher durch deutlich erkennbare und lesbare Schrifttafeln in der Verkaufsstelle und im Versandhandel durch andere geeignete Maßnahmen auf die Rückgabemöglichkeit hinweisen.
 
-(3) Hersteller und in der Lieferkette nachfolgende Vertreiber, die Verpackungen nach Absatz 1 Satz 1 zurücknehmen, sind verpflichtet, diese einer Wiederverwendung oder einer Verwertung gemäß den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen nach Satz 1 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Sofern es sich bei den zurückgenommenen Verpackungen um solche nach Absatz 1 Satz 1 Nummer 3 und 4 handelt, ist über die Erfüllung der Rücknahme- und Verwertungsanforderungen Nachweis zu führen. Hierzu sind jährlich bis zum 15. Mai die im vorangegangenen Kalenderjahr in Verkehr gebrachten sowie zurückgenommenen und verwerteten Verpackungen in nachprüfbarer Form zu dokumentieren. Die Dokumentation ist aufgeschlüsselt nach Materialart und Masse zu erstellen. Die Dokumentation ist der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
+(3) Hersteller und in der Lieferkette nachfolgende Vertreiber, die Verpackungen nach Absatz 1 Satz 1 zurücknehmen, sind verpflichtet, diese einer Wiederverwendung oder einer Verwertung gemäß den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen nach Satz 1 können auch durch die Rückgabe an einen Vorvertreiber erfüllt werden. Über die Erfüllung der Rücknahme- und Verwertungsanforderungen ist Nachweis zu führen. Hierzu sind jährlich bis zum 15. Mai die im vorangegangenen Kalenderjahr in Verkehr gebrachten sowie zurückgenommenen und verwerteten Verpackungen in nachprüfbarer Form zu dokumentieren. Die Dokumentation ist aufgeschlüsselt nach Materialart und Masse zu erstellen. Zur Bewertung der Richtigkeit und Vollständigkeit der Dokumentation sind geeignete Mechanismen zur Selbstkontrolle einzurichten. Die Dokumentation ist der zuständigen Landesbehörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist, auf Verlangen vorzulegen.
 
 (4) Hersteller und in der Lieferkette nachfolgende Vertreiber von Verpackungen nach Absatz 1 Satz 1 sind verpflichtet, die finanziellen und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach dieser Vorschrift nachzukommen. Sie haben zur Bewertung ihrer Finanzverwaltung geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
@@ -698,6 +708,8 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 6. veröffentlicht im Internet eine Liste der Hersteller, die eine Vollständigkeitserklärung gemäß § 11 Absatz 1 Satz 1 hinterlegt haben,
 
+6a. kann von den Systemen eine Begründung gemäß § 14 Absatz 4 Satz 3 verlangen, prüft die übermittelte Begründung und informiert im Fall fortbestehender Zweifel am Vorliegen von Geschäftsgeheimnissen unverzüglich die zuständigen Landesbehörden über das Ergebnis der Prüfung,
+
 7. prüft die von den Systemen gemäß § 17 Absatz 3 Satz 1 hinterlegten Mengenstromnachweise, kann gemäß § 17 Absatz 3 Satz 4 die Vorlage der zugehörigen Prüfdokumente verlangen und informiert die zuständigen Landesbehörden und die Systeme über das Ergebnis ihrer Prüfung,
 
 7a. prüft auf Anforderung der zuständigen Landesbehörden die gemäß § 18 Absatz 1a Satz 6 übermittelten Unterlagen und teilt den zuständigen Landesbehörden ihre Einschätzung zur finanziellen Leistungsfähigkeit des Systems mit,
@@ -748,7 +760,9 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 28. ist befugt, im Einvernehmen mit dem Bundeskartellamt Prüfleitlinien zu entwickeln, die von den Systemprüfern und den registrierten Sachverständigen sowie von Wirtschaftsprüfern, Steuerberatern und vereidigten Buchprüfern bei Prüfungen im Rahmen dieses Gesetzes zu beachten sind,
 
-29. übermittelt gemäß § 15 Absatz 2 des Umweltstatistikgesetzes vom 16. August 2005 (BGBl. I S. 2446), das zuletzt durch Artikel 1 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1839) geändert worden ist, den statistischen Ämtern der Länder auf Anforderung die zur Erhebung nach § 5 Absatz 2 des Umweltstatistikgesetzes erforderlichen Namen und Anschriften und
+29. übermittelt gemäß § 15 Absatz 2 des Umweltstatistikgesetzes vom 16. August 2005 (BGBl. I S. 2446), das zuletzt durch Artikel 1 des Gesetzes vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, den statistischen Ämtern der Länder und dem Statistischen Bundesamt auf Anforderung die für die Erhebung nach § 5a Absatz 2 bis 6 des Umweltstatistikgesetzes erforderlichen Namen, Anschriften und E-Mail-Adressen der in diese Erhebungen einbezogenen Stellen,
+
+29a. übermittelt gemäß § 14 Absatz 2 Nummer 4 Buchstabe a des Umweltstatistikgesetzes den statistischen Ämtern der Länder und dem Statistischen Bundesamt auf Anforderung die die für die Erhebung nach § 5a des Umweltstatistikgesetzes erforderlichen Daten, soweit sie der Zentralen Stelle aufgrund ihrer Pflichten nach diesem Gesetz vorliegen, und
 
 30. ist befugt, die mit der Erfüllung der ihr nach diesem Absatz zugewiesenen Aufgaben notwendigerweise zusammenhängenden Tätigkeiten durchzuführen.
 
@@ -876,7 +890,7 @@ Das Kuratorium trifft Entscheidungen mit der Mehrheit der abgegebenen Stimmen. �
 
 (2) Vertreiber von mit Getränken befüllten Einweggetränkeverpackungen sind verpflichtet, restentleerte Einweggetränkeverpackungen am Ort der tatsächlichen Übergabe oder in dessen unmittelbarer Nähe zu den geschäftsüblichen Öffnungszeiten unentgeltlich zurückzunehmen und das Pfand zu erstatten. Ohne eine Rücknahme der Verpackung darf das Pfand nicht erstattet werden. Die Rücknahmepflicht nach Satz 1 beschränkt sich auf Einweggetränkeverpackungen der jeweiligen Materialarten Glas, Metall, Papier/Pappe/Karton und Kunststoff einschließlich sämtlicher Verbundverpackungen aus diesen Hauptmaterialarten, die der rücknahmepflichtige Vertreiber in seinem Sortiment führt. Für Vertreiber mit einer Verkaufsfläche von weniger als 200 Quadratmetern beschränkt sich die Rücknahmepflicht nach Satz 1 auf Einweggetränkeverpackungen der Marken, die der Vertreiber in seinem Sortiment führt; im Versandhandel gelten als Verkaufsfläche alle Lager- und Versandflächen. Beim Verkauf aus Automaten hat der Letztvertreiber die Rücknahme durch geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zu den Verkaufsautomaten zu gewährleisten. Im Versandhandel hat der Letztvertreiber die Rücknahme durch geeignete Rückgabemöglichkeiten in zumutbarer Entfernung zum Endverbraucher zu gewährleisten.
 
-(3) Die nach Absatz 2 Satz 1 zurückgenommenen Einweggetränkeverpackungen sind durch den Zurücknehmenden einer Verwertung entsprechend den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen des § 16 Absatz 5 können auch durch die Rückgabe der restentleerten Einweggetränkeverpackungen an einen Vorvertreiber erfüllt werden. § 15 Absatz 1 Satz 4 gilt entsprechend.
+(3) Die nach Absatz 2 Satz 1 zurückgenommenen Einweggetränkeverpackungen sind durch den Zurücknehmenden einer Verwertung entsprechend den Anforderungen des § 16 Absatz 5 zuzuführen. Die Anforderungen des § 16 Absatz 5 können auch durch die Rückgabe der restentleerten Einweggetränkeverpackungen an einen Vorvertreiber erfüllt werden. § 15 Absatz 1 Satz 4 und Absatz 3 Satz 3 bis 7 gelten entsprechend.
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung auf
 
@@ -906,13 +920,15 @@ e) sonstige alkoholhaltige Mischgetränke mit einem Alkoholgehalt von mindestens
 
 f) Milch und Milchmischgetränke mit einem Milchanteil von mindestens 50 Prozent;
 
-g) sonstige trinkbare Milcherzeugnisse, insbesondere Joghurt und Kefir;
+g) sonstige trinkbare Milcherzeugnisse gemäß § 2 Absatz 1 Nummer 2 des Milch- und Margarinegesetzes vom 25. Juli 1990 (BGBl. I S. 1471), das zuletzt durch Artikel 2 des Gesetzes vom 18. Januar 2019 (BGBl. I S. 33) geändert worden ist, in der jeweils geltenden Fassung, insbesondere Joghurt und Kefir, wenn den sonstigen trinkbaren Milcherzeugnissen kein Stoff zugesetzt ist, der in der Anlage 8 der Fruchtsaft- und Erfrischungsgetränke- und Teeverordnung vom 24. Mai 2004 (BGBl. I S. 1016), die zuletzt durch Artikel 1 der Verordnung vom 18. Mai 2020 (BGBl. I S. 1075) geändert worden ist, in der jeweils geltenden Fassung aufgeführt ist;
 
 h) Fruchtsäfte und Gemüsesäfte;
 
 i) Fruchtnektare ohne Kohlensäure und Gemüsenektare ohne Kohlensäure;
 
 j) diätetische Getränke im Sinne des § 1 Absatz 2 Nummer 1 Buchstabe c der Diätverordnung in der Fassung der Bekanntmachung vom 28. April 2005 (BGBl. I S. 1161), die zuletzt durch Artikel 60 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung, die ausschließlich für Säuglinge oder Kleinkinder angeboten werden.
+
+Die Ausnahme nach Satz 1 Nummer 7 gilt nicht, wenn die in Satz 1 Nummer 7 Buchstabe a bis e, h und i genannten Getränke sowie ab dem 1. Januar 2024 außerdem die in Buchstabe f und g genannten Getränke in Einwegkunststoffgetränkeflaschen abgefüllt sind; § 30a Absatz 3 gilt entsprechend. Ferner gilt die Ausnahme nach Satz 1 Nummer 7 nicht, wenn die in Satz 1 Nummer 7 genannten Getränke in Getränkedosen abgefüllt sind.
 
 (5) Hersteller nach Absatz 1 Satz 1 sowie Vertreiber nach Absatz 2 Satz 1 sind verpflichtet, die finanziellen und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach diesem Gesetz nachzukommen. Zur Bewertung ihrer Finanzverwaltung zur ordnungsgemäßen Erfüllung ihrer Pflichten nach diesem Gesetz haben sie geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
@@ -1224,7 +1240,7 @@ RFID-Tags für die Funkfrequenzkennzeichnung
 
 (Fundstelle: BGBl. I 2017, 2254)
 
-1. Stoffe und Gemische, die bei einem Vertrieb im Einzelhandel dem Selbstbedienungsverbot nach § 4 Absatz 1 der Chemikalienverbotsverordnung in der Fassung der Bekanntmachung vom 13. Juni 2003 (BGBl. I S. 867), die zuletzt durch Artikel 5 Absatz 40 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, unterliegen würden,
+1. Stoffe und Gemische, die bei einem Vertrieb im Einzelhandel dem Selbstbedienungsverbot nach § 8 Absatz 4 der Chemikalien-Verbotsverordnung vom 20. Januar 2017 (BGBl. I S. 94; 2018 I S. 1389), die zuletzt durch Artikel 300 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, unterliegen würden,
 
 2. Pflanzenschutzmittel, die nur für die Anwendung durch berufliche Anwender nach dem Pflanzenschutzgesetz vom 6. Februar 2012 (BGBl. I S. 148, 1281), das zuletzt durch Artikel 278 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, zugelassen sind,
 

@@ -465,6 +465,8 @@ b) künstliche Inseln errichtet oder genutzt werden und Anlagen und Bauwerke fü
 
 3. der nicht zur Bundesrepublik Deutschland gehörende Teil eines grenzüberschreitenden Gewerbegebiets, das nach den Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung als solches bestimmt ist.
 
+(8) Für die Anwendung dieses Gesetzes sind eine optierende Gesellschaft im Sinne des § 1a des Körperschaftsteuergesetzes als Kapitalgesellschaft und ihre Gesellschafter wie die nicht persönlich haftenden Gesellschafter einer Kapitalgesellschaft zu behandeln.
+
 (+++ § 2 Abs. 2: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
 # § 2a – Arbeitsgemeinschaften

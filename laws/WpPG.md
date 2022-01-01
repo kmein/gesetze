@@ -117,13 +117,15 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen zu Inhalt und Aufbau der Wertpapier-Informationsblätter erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-# § 5 – Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung
+# § 5 – Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
 
-(1) Das Wertpapier-Informationsblatt ist der Bundesanstalt in elektronischer Form und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
+(1) Das Wertpapier-Informationsblatt ist der Bundesanstalt elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
 
 (2) Hinsichtlich der Aufbewahrung des Wertpapier-Informationsblatts und der aktualisierten Fassungen gilt § 22 Absatz 3 entsprechend.
 
 (3) Das hinterlegte Wertpapier-Informationsblatt muss mindestens einen Werktag vor dem öffentlichen Angebot entsprechend Artikel 21 Absatz 2 und 3 Unterabsatz 1 der Verordnung (EU) 2017/1129 veröffentlicht werden. Der Anbieter hat sicherzustellen, dass das Wertpapier-Informationsblatt ohne Zugangsbeschränkung für jedermann zugänglich ist; die Regelungen des Artikels 21 Absatz 4 der Verordnung (EU) 2017/1129 gelten entsprechend.
+
+(4) Die Bundesanstalt veröffentlicht auf ihrer Webseite die nach § 4 gestatteten Wertpapier-Informationsblätter. Diese bleiben zehn Jahre lang auf der Webseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Webseite auch die nach § 4 Absatz 8 Satz 1 übermittelten aktualisierten Fassungen der Wertpapier-Informationsblätter; Satz 2 gilt entsprechend.
 
 # § 6 – Einzelanlageschwellen für nicht qualifizierte Anleger
 

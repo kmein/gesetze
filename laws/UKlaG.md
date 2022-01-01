@@ -21,19 +21,21 @@ a) außerhalb von Geschäftsräumen geschlossene Verträge,
 
 b) Fernabsatzverträge,
 
-c) Verbrauchsgüterkäufe,
+c) Verbraucherverträge über digitale Produkte,
 
-d) Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge,
+d) Verbrauchsgüterkäufe,
 
-e) Verbraucherdarlehensverträge, Finanzierungshilfen und Ratenlieferungsverträge,
+e) Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge,
 
-f) Bauverträge,
+f) Verbraucherdarlehensverträge, Finanzierungshilfen und Ratenlieferungsverträge,
 
-g) Pauschalreiseverträge, die Reisevermittlung und die Vermittlung verbundener Reiseleistungen,
+g) Bauverträge,
 
-h) Darlehensvermittlungsverträge sowie
+h) Pauschalreiseverträge, die Reisevermittlung und die Vermittlung verbundener Reiseleistungen,
 
-i) Zahlungsdiensteverträge
+i) Darlehensvermittlungsverträge sowie
+
+j) Zahlungsdiensteverträge
 
 zwischen einem Unternehmer und einem Verbraucher gelten,
 

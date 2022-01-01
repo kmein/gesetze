@@ -3,7 +3,7 @@
  
 # Inhaltsübersicht
 
-Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 BGBl I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 BGBl I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 BGBl I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 BGBl I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 BGBl I 1387 mWv 1.7.2021 u. d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
+Inhaltsübersicht: Neugefasst durch Bek. v. 12.11.2009 I 3710; idF d. Art. 1 Nr. 1 Buchst. b G v. 15.7.2009 I 1939 mWv 1.10.2009; § 7g gem. Art. 7 Abs. 5 G v. 21.12.2008 I 2940 mWv 1.1.2013 außer Kraft; idF d. Art. 1 Nr. 1 G v. 5.8.2010 I 1127 mWv 11.8.2010, d. Art. 1 Nr. 1 G v. 22.12.2011 I 3057 mWv 1.1.2012, d. Art. 7 Nr. 1 Buchst. a u. b G v. 12.4.2012 I 579 mWv 1.1.2013, d. Art. 3 Nr. 1 G v. 19.10.2013 I 3836 mWv 1.1.2015 u. d. Art. 9 Nr. 1 G v. 11.8.2014 I 1348 mWv 16.8.2014, Art. 9 Nr. 1 aufgeh. durch Art. 15 Abs. 3 G v. 11.8.2014 I 1348 mWv 1.1.2019, dadurch § 115 außer Kraft, d. Art. 1 Nr. 1 Buchst. a bis f G v. 15.4.2015 I 583 mWv 1.1.2016, d. Art. 1 Nr. 1a G v. 15.4.2015 I 583 mWv 1.1.2017, d. Art. 1 Nr. 1 Buchst. a bis e G v. 11.11.2016 I 2500 mWv 1.1.2017, d. Art. 1a Nr. 1 G v. 4.4.2017 I 778 mWv 11.4.2017, d. Art. 4 Nr. 1 G v. 28.11.2018 I 2016 mWv 1.7.2019, d. Art. 7 Nr. 1 G v. 6.5.2019 I 646 mWv 11.5.2019, d. Art. 122 Nr. 1 Buchst. a bis g G v. 20.11.2019 I 1626 mWv 26.11.2019, d. Art. 31 Nr. 1 Buchst. c G v. 12.12.2019 I 2652 mWv 1.1.2018, d. Art. 31 Nr. 1 Buchst. a G v. 12.12.2019 I 2652 mWv 1.1.2020, d. Art. 3 Nr. 1 G v. 27.3.2020 I 575 mWv 28.3.2020 u. d. Art. 1 Nr. 1 Buchst. b u. c G v. 12.6.2020 I 1248 mWv 1.7.2020; (+++ Änderungsanweisung des Art. 1 Nr. 1 Buchst. g G v. 12.6.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. d u. j G v. 12.6.2020 I 1248 mWv 1.1.2021, d. Art. 1 Nr. 1 Buchst. h iVm Art. 28 Abs. 6a G v. 12.6.2020 I 1248 idF d. Art. 12c Nr. 1 G v. 11.2.2021 I 154 mWv 1.1.2022, d. Art. 1 Nr. 1 Buchst. e G v. 12.6.2020 I 1248 mWv 1.1.2022, d. Art. 7 Nr. 1 u. 2 G v. 3.12.2020 I 2668 mWv 10.12.2020, d. Art. 2 Nr. 1 Buchst. a G v. 11.2.2021 I 154 mWv 31.12.2020, d. Art. 2 Nr. 1 Buchst. b G v. 11.2.2021 I 154 mWv 18.2.2021, d. Art. 14a Nr. 1 G v. 24.2.2021 BGBl I 274 mWv 15.12.2020, d. Art. 14b Nr. 1 G v. 24.2.2021 BGBl I 274 mWv 4.3.2021, d. Art. 2 Nr. 1 G v. 26.5.2021 BGBl I 1170 mWv 1.6.2021, d. Art. 2 Nr. 1 iVm Art. 5 Abs. 3 G v. 26.5.2021 BGBl I 1170 mWv 1.11.2021, d. Art. 4 Nr. 1 G v. 2.6.2021 BGBl I 1387 mWv 1.7.2021 u. d. Art. 24 Nr. 1 G v. 7.8.2021 I 3311 mWv 12.8.2021; im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
 # § 1 – Sachlicher Geltungsbereich
 
@@ -829,9 +829,9 @@ b) der Beginn der Beschäftigung,
 
 c) sonstige für die Vergabe der Versicherungsnummer erforderliche Angaben,
 
-d) die Angabe, ob zum Arbeitgeber eine Beziehung als Ehegatte, Lebenspartner oder Abkömmling besteht,
+d) nach Absatz 1 Satz 1 Nummer 1 die Angabe, ob zum Arbeitgeber eine Beziehung als Ehegatte, Lebenspartner oder Abkömmling besteht,
 
-e) die Angabe, ob es sich um eine Tätigkeit als geschäftsführender Gesellschafter einer Gesellschaft mit beschränkter Haftung handelt,
+e) nach Absatz 1 Satz 1 Nummer 1 die Angabe, ob es sich um eine Tätigkeit als geschäftsführender Gesellschafter einer Gesellschaft mit beschränkter Haftung handelt,
 
 f) die Angabe der Staatsangehörigkeit,
 
@@ -862,6 +862,8 @@ a) das Arbeitsentgelt in Euro, für das Beiträge gezahlt worden sind,
 b) im Falle des § 23b Absatz 2 der Kalendermonat und das Jahr der nicht zweckentsprechenden Verwendung des Arbeitsentgelts, im Falle der Zahlungsunfähigkeit des Arbeitgebers jedoch der Kalendermonat und das Jahr der Beitragszahlung.
 
 (3a) Der Arbeitgeber oder eine Zahlstelle nach § 202 Absatz 2 des Fünften Buches kann in den Fällen, in denen für eine Meldung keine Versicherungsnummer des Beschäftigten oder Versorgungsempfängers vorliegt, im Verfahren nach Absatz 1 eine Meldung zur Abfrage der Versicherungsnummer an die Datenstelle der Rentenversicherung übermitteln; die weiteren Meldepflichten bleiben davon unberührt. Die Datenstelle der Rentenversicherung übermittelt dem Arbeitgeber oder der Zahlstelle unverzüglich durch Datenübertragung die Versicherungsnummer oder den Hinweis, dass die Vergabe der Versicherungsnummer mit der Anmeldung erfolgt.
+
+(3b) Der Arbeitgeber hat auf elektronische Anforderung der Einzugsstelle mit der nächsten Entgeltabrechnung die notwendigen Angaben zur Einrichtung eines Arbeitgeberkontos elektronisch zu übermitteln. Das Nähere über die Angaben, die Datensätze und das Verfahren regeln die Gemeinsamen Grundsätze nach § 28b Absatz 1.
 
 (4) Arbeitgeber haben den Tag des Beginns eines Beschäftigungsverhältnisses spätestens bei dessen Aufnahme an die Datenstelle der Rentenversicherung nach Satz 2 zu melden, sofern sie Personen in folgenden Wirtschaftsbereichen oder Wirtschaftszweigen beschäftigen:
 
@@ -944,6 +946,8 @@ f) bei Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz 1b des
 Bei sich anschließenden Meldungen kann von der Angabe der Anschrift des Arbeitgebers und des Beschäftigten abgesehen werden.
 
 (9) Soweit nicht anders geregelt, gelten für versicherungsfrei oder von der Versicherungspflicht befreite geringfügig Beschäftigte die Absätze 1 bis 6 entsprechend. Eine Jahresmeldung nach Absatz 2 ist für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 2 nicht zu erstatten.
+
+(9a) Für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 2 hat der Arbeitgeber bei der Meldung nach Absatz 1 Satz 1 Nummer 1 zusätzlich anzugeben, wie diese für die Dauer der Beschäftigung krankenversichert sind. Die Evaluierung der Regelung erfolgt im Rahmen eines Berichts der Bundesregierung über die Wirkung der Maßnahme bis Ende des Jahres 2026.
 
 (10) Der Arbeitgeber hat für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit und Mitglied einer berufsständischen Versorgungseinrichtung sind, die Meldungen nach den Absätzen 1, 2 und 9 zusätzlich an die Annahmestelle der berufsständischen Versorgungseinrichtungen zu erstatten; dies gilt nicht für Meldungen nach Absatz 1 Satz 1 Nummer 10. Die Datenübermittlung hat durch gesicherte und verschlüsselte Datenübertragung aus systemgeprüften Programmen oder mittels systemgeprüfter maschinell erstellter Ausfüllhilfen zu erfolgen. Zusätzlich zu den Angaben nach Absatz 3 enthalten die Meldungen die Mitgliedsnummer des Beschäftigten bei der Versorgungseinrichtung. Die Absätze 5 bis 6a gelten entsprechend.
 
@@ -1203,7 +1207,7 @@ Hat ein Arbeitgeber mehrere Beschäftigungsbetriebe, wird er insgesamt geprüft.
 
 (3) Die Träger der Rentenversicherung unterrichten die Einzugsstellen über Sachverhalte, soweit sie die Zahlungspflicht oder die Meldepflicht des Arbeitgebers betreffen.
 
-(4) (weggefallen)
+(4) Die Deutsche Rentenversicherung Bund führt ein Dateisystem, in dem die Träger der Rentenversicherung ihre elektronischen Akten führen, die im Zusammenhang mit der Durchführung der Prüfungen nach den Absätzen 1, 1a und 1c stehen. Die in diesem Dateisystem gespeicherten Daten dürfen nur für die Prüfung bei den Arbeitgebern durch die jeweils zuständigen Träger der Rentenversicherung verarbeitet werden.
 
 (5) Die Arbeitgeber sind verpflichtet, angemessene Prüfhilfen zu leisten. Abrechnungsverfahren, die mit Hilfe automatischer Einrichtungen durchgeführt werden, sind in die Prüfung einzubeziehen.
 
@@ -1252,6 +1256,8 @@ zu verarbeiten, soweit dies für die Prüfung, ob die Arbeitgeber ihre Meldepfli
 (4) Die Prüfung erstreckt sich auf alle Stellen, die Aufgaben der in Absatz 1 genannten Art für die Einzugsstelle wahrnehmen. Die Absätze 2 und 3 gelten insoweit für diese Stellen entsprechend.
 
 (5) Die Einzugsstellen und die Bundesagentur für Arbeit prüfen gemeinsam bei den Trägern der Rentenversicherung deren Aufgaben nach § 28p mindestens alle vier Jahre. Die Prüfung kann durch Abruf der Arbeitgeberdateisysteme (§ 28p Absatz 8) im automatisierten Verfahren durchgeführt werden. Bei geringfügigen Beschäftigungen gelten die Sätze 1 und 2 nicht für die Deutsche Rentenversicherung Knappschaft-Bahn-See als Einzugsstelle.
+
+(6) Die Deutsche Rentenversicherung Bund führt ein Dateisystem, in dem die Träger der Rentenversicherung ihre elektronischen Akten führen, die im Zusammenhang mit der Durchführung der Prüfungen nach den Absätzen 1 und 1a stehen. Die in diesem Dateisystem gespeicherten Daten dürfen nur für die Prüfungen nach den Absätzen 1 und 1a durch die jeweils zuständigen Träger der Rentenversicherung verarbeitet werden.
 
 # § 28r – Schadensersatzpflicht, Verzinsung
 
@@ -2484,6 +2490,14 @@ gilt Absatz 1 entsprechend.
 
 (5) Das Nähere zum Verfahren und zu den Inhalten des Antrages und der zu übermittelnden Datensätze nach den Absätzen 1 bis 4 regeln der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Gesetzliche Unfallversicherung e. V. und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher anzuhören.
 
+# § 106a – Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei selbständiger Erwerbstätigkeit nach Artikel 11 Absatz 4 und Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004
+
+(1) Gelten für vorübergehend in einem anderen Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz selbständig Erwerbstätige die deutschen Rechtsvorschriften über soziale Sicherheit nach Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004, hat die selbständig erwerbstätige Person die Ausstellung einer A1-Bescheinigung bei der zuständigen Stelle elektronisch durch eine Ausfüllhilfe nach § 95a Absatz 1 zu beantragen. Ist festgestellt, dass die deutschen Rechtsvorschriften über soziale Sicherheit gelten, ist die A1-Bescheinigung innerhalb von drei Arbeitstagen der selbständig erwerbstätigen Person elektronisch zugänglich zu machen.
+
+(2) In den Fällen, in denen die deutschen Rechtsvorschriften über soziale Sicherheit für in der Seefahrt selbständig tätige Personen nach Artikel 11 Absatz 4 der Verordnung (EG) Nr. 883/2004 gelten, gilt für das Verfahren Absatz 1 entsprechend.
+
+(3) Das Nähere zu den Inhalten des Antrages nach den Absätzen 1 und 2 regeln der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Gesetzliche Unfallversicherung e. V. und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher anzuhören.
+
 # § 107 – Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen
 
 (1) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld, Pflegeunterstützungsgeld oder Mutterschaftsgeld Angaben über das Beschäftigungsverhältnis notwendig und sind diese dem Leistungsträger aus anderem Grund nicht bekannt, sind sie durch eine Bescheinigung des Arbeitgebers nachzuweisen. Diese Bescheinigung kann der Leistungsträger im Einzelfall vom Arbeitgeber elektronisch durch Datenübertragung anfordern. Der Arbeitgeber hat dem Leistungsträger diese Bescheinigung im Einzelfall durch gesicherte und verschlüsselte Datenübertragung aus systemgeprüften Programmen oder mittels maschinell erstellter Ausfüllhilfen zu übermitteln. Der Leistungsträger hat diese Daten elektronisch anzunehmen, zu speichern und zu nutzen. Die Sätze 3 und 4 gelten nicht für Einzelfälle, in denen ein elektronisches Meldeverfahren nicht wirtschaftlich durchzuführen ist. Den Aufbau der Datensätze, notwendige Schlüsselzahlen und Angaben sowie die Ausnahmen nach Satz 5 bestimmen der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Bundesagentur für Arbeit und die Deutsche Gesetzliche Unfallversicherung e. V. sowie die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau in Gemeinsamen Grundsätzen. Die Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher anzuhören. Die Sätze 2 bis 7 gelten nicht für die Gewährung von Krankengeld bei einer Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen nach § 44a des Fünften Buches und von Pflegeunterstützungsgeld nach § 44a Absatz 3 des Elften Buches.
@@ -2508,7 +2522,13 @@ gilt Absatz 1 entsprechend.
 
 (4) Das Nähere zur Auftragserteilung, zum Verfahren der Kostenerstattung sowie zu den Übertragungswegen zwischen der Datenstelle der Rentenversicherung und den nach § 12 Absatz 1 des Bundeselterngeld- und Elternzeitgesetzes zuständigen Behörden regeln die für die Durchführung des Bundeselterngeld- und Elternzeitgesetzes zuständigen Landesregierungen und die Deutsche Rentenversicherung Bund im Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Arbeit und Soziales in einer Rahmenvereinbarung, die ein bundeseinheitliches Verfahren sicherstellt.
 
-# §§ 109 und 110 – (weggefallen)
+# § 109 – zukünftig in Kraft
+
+\-
+
+(+++ § 109: Die Änderungsanweisungen des Art. 1 Nr. 29a G v. 12.6.2020 I 1248 mWv 1.1.2022 sind wegen textlicher Unstimmigkeit bis 30.6.2022 nicht ausführbar. +++)
+
+# § 110 – (weggefallen)
 
 # § 110a – Aufbewahrungspflicht
 
@@ -2727,6 +2747,36 @@ Soweit die Ausgaben der knappschaftlichen Krankenversicherung der Rentner für V
 # § 124 – Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld
 
 Bis zum 31. Dezember 2021 kann die Datenstelle der Rentenversicherung in geeigneten Fällen an Pilotprojekten gemäß § 28 Absatz 4 des Bundeselterngeld- und Elternzeitgesetzes mitwirken. Die hierdurch entstehenden Kosten sind der Deutschen Rentenversicherung Bund zu erstatten. Das Nähere zur Mitwirkung und zum Kostenerstattungsverfahren regelt die Deutsche Rentenversicherung Bund in Einzelvereinbarungen mit den Projektverantwortlichen.
+
+# § 125 – Pilotprojekt zur Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber
+
+(1) Die Krankenkasse kann nach Eingang der Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches eine Meldung zum Abruf für den Arbeitgeber erstellen, die die folgenden Daten enthält:
+
+1. den Namen des Beschäftigten,
+
+2. den Beginn und das Ende der Arbeitsunfähigkeit,
+
+3. das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit,
+
+4. die Kennzeichnung als Erst- oder Folgemeldung und
+
+5. die Angabe, ob Anhaltspunkte dafür vorliegen, dass die Arbeitsunfähigkeit auf einem Arbeitsunfall oder sonstigem Unfall oder auf den Folgen eines Arbeitsunfalls oder sonstigen Unfalls beruht.
+
+In den Fällen, in denen die Krankenkasse die Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches für einen geringfügig beschäftigten Versicherten erhält, kann sie die Daten nach Satz 1 für die nach § 2 Absatz 1 Satz 2 des Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung zuständige Deutsche Rentenversicherung Knappschaft-Bahn-See ausschließlich für die Zwecke des Erstattungsverfahrens nach dem Aufwendungsausgleichsgesetz zum Abruf bereitstellen. Arbeitgeber können die Daten nach Satz 1 bei der zuständigen Krankenkasse durch systemgeprüfte Programme abrufen. Beauftragt der Arbeitgeber einen Dritten mit dem Abruf, darf dieser die Daten verarbeiten. Unberührt bleibt die Verpflichtung des behandelnden Arztes, dem Versicherten eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit nach § 73 Absatz 2 Satz 1 Nummer 9 des Fünften Buches in Verbindung mit § 5 Absatz 1a Satz 2 des Entgeltfortzahlungsgesetzes auszuhändigen.
+
+(2) Stellt die Krankenkasse auf Grundlage der Angaben zur Diagnose in den Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches und auf der Grundlage von weiteren ihr vorliegenden Daten fest, dass die Entgeltfortzahlung im Krankheitsfall wegen anrechenbarer Vorerkrankungszeiten für einen Arbeitgeber ausläuft, so kann sie dem betroffenen Arbeitgeber eine Meldung mit den Angaben über die für ihn relevanten Vorerkrankungszeiten übermitteln. Satz 1 gilt nicht für geringfügig Beschäftigte.
+
+(3) Die Absätze 1 und 2 gelten nicht für Beschäftigte nach den §§ 8a und 12.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend bei Eingang der Daten nach § 301 Absatz 1 Satz 1 Nummer 3 und 7 des Fünften Buches mit der Maßgabe, dass die Meldung abweichend von Absatz 1 Satz 1 nur die Daten nach Absatz 1 Satz 1 Nummer 1 und den Beginn, die voraussichtliche Dauer und das Ende des stationären Krankenhausaufenthaltes zu enthalten hat.
+
+(4a) Die Absätze 1 bis 4 gelten entsprechend bei Eingang von Arbeitsunfähigkeitsdaten, wenn sie nach § 201 Absatz 2 des Siebten Buches an die Krankenkassen übermittelt werden. Für die Übermittlung der Arbeitsunfähigkeitsdaten an die Krankenkassen werden die Dienste der Telematikinfrastruktur nach dem Fünften Buch genutzt, sobald diese zur Verfügung stehen.
+
+(5) Das Nähere zu den Datensätzen und zum Verfahren regelt der Spitzenverband Bund der Krankenkassen in Grundsätzen. Die Grundsätze bedürfen der Genehmigung durch das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vor der Genehmigung anzuhören.
+
+(6) Die teilnehmenden Krankenkassen haben monatlich dem Spitzenverband Bund der Krankenkassen über die Erfahrungen mit dem Meldeverfahren zu berichten.
+
+§ 125 Abs. 1 Satz 2 Kursivdruck: Der Zitiername des "Gesetzes über den Ausgleich der Arbeitgeberzuwendungen für Entgeltfortzahlung" wurde aufgrund offensichtlicher Unrichtigkeit durch den des "Gesetzes über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung" ersetzt
 
 # § 127 – Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern
 

@@ -9,13 +9,13 @@
 
 (2) Schaumwein im Sinn dieses Gesetzes sind alle Getränke, die in Flaschen mit Schaumweinstopfen, der durch eine besondere Haltevorrichtung befestigt ist, enthalten sind oder die bei + 20 Grad Celsius einen auf gelöstes Kohlendioxid zurückzuführenden Überdruck von 3 bar oder mehr aufweisen und die zu den nachfolgenden Positionen oder Unterpositionen der Kombinierten Nomenklatur gehören:
 
-1. Unterpositionen 2204 10, 2204 21 10, 2204 29 10 und Position 2205, soweit sie einen ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent bis 15 Volumenprozent aufweisen;
+1. Unterpositionen 2204 10, 2204 2106, 2204 2107, 2204 2108, 2204 2109, 2204 2210, 2204 2910 und Position 2205, soweit sie einen ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent bis 15 Volumenprozent aufweisen;
 
-2. Unterposition 2206 00 91 und nicht von Nummer 1 erfasste Bereiche der Unterpositionen 2204 10, 2204 21 10, 2204 29 10 sowie Position 2205, soweit sie einen vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent bis 13 Volumenprozent aufweisen;
+2. Unterpositionen 2206 0031 und 2206 0039 und nicht von Nummer 1 erfasste Bereiche der Unterpositionen 2204 10, 2204 2106, 2204 2107, 2204 2108, 2204 2109, 2204 2210, 2204 2910 sowie Position 2205, soweit sie einen vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent bis 13 Volumenprozent aufweisen;
 
-3. Unterposition 2206 00 91 mit einem ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 13 Volumenprozent bis 15 Volumenprozent.
+3. Unterpositionen 2206 0031 und 2206 0039 mit einem ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 13 Volumenprozent bis 15 Volumenprozent.
 
-(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
+(3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach der Durchführungsverordnung (EU) 2018/1602 der Kommission vom 11. Oktober 2018 zur Änderung des Anhangs I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 273 vom 31.10.2018, S. 1) in der am 1. Januar 2019 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -29,9 +29,17 @@
 
 (2) Die Steuer beträgt für Schaumwein mit einem vorhandenen Alkoholgehalt von weniger als 6 Volumenprozent 51 Euro/hl.
 
-(3) § 1 Absatz 4 Nummer 2 gilt entsprechend.
+(3) Auf Antrag stellt das Hauptzollamt einem unabhängigen Hersteller von Schaumwein eine amtliche Bescheinigung aus, aus der dessen Gesamtjahreserzeugung hervorgeht und die seine Unabhängigkeit bestätigt. Ein Hersteller von Schaumwein ist als unabhängig anzusehen, wenn er
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Verfahrensvereinfachung zu bestimmen, dass nichtverkehrsfähige kohlensäurehaltige Getränke, die für den Fall ihrer Verkehrsfähigkeit der Schaumweinsteuer nach Absatz 1 unterliegen würden, unter Angabe des Herstellers den zuständigen Lebensmittelüberwachungsbehörden mitgeteilt werden.
+1. rechtlich und wirtschaftlich von anderen Herstellern von Schaumwein unabhängig ist,
+
+2. Betriebsräume benutzt, die räumlich von anderen Herstellern getrennt sind und
+
+3. Schaumwein nicht unter Lizenz herstellt.
+
+(4) § 1 Absatz 4 Nummer 2 gilt entsprechend.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren nach Absatz 3 näher zu regeln und zur Verfahrensvereinfachung zu bestimmen, dass nichtverkehrsfähige kohlensäurehaltige Getränke, die für den Fall ihrer Verkehrsfähigkeit der Schaumweinsteuer nach Absatz 1 unterliegen würden, unter Angabe des Herstellers den zuständigen Lebensmittelüberwachungsbehörden mitgeteilt werden.
 
 # § 3 – Sonstige Begriffsbestimmungen
 
@@ -619,6 +627,8 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 136 Euro/hl.
 
+(4) § 2 Absatz 3 bis 5 gilt entsprechend.
+
 # § 31 – Herstellung von Zwischenerzeugnissen
 
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1 über die Steuerentstehung bei der Herstellung ohne Erlaubnis nach § 5 findet auf Zwischenerzeugnisse keine Anwendung, sofern die für die Bestandteile (Alkohol im Sinne des Alkoholsteuergesetzes, alkoholische Getränke) entrichtete Verbrauchsteuer insgesamt nicht niedriger ist als die Steuer für das Zwischenerzeugnis.
@@ -639,7 +649,7 @@ b) sie weisen einen vorhandenen Alkoholgehalt von mehr als 15 Volumenprozent bis
 
 (2) Auf Wein sind folgende Vorschriften entsprechend anzuwenden:
 
-1. § 1 Absatz 3 und 4 sowie
+1. § 1 Absatz 3 und 4,
 
 2. vorbehaltlich des § 33 bei Beförderungen von Wein aus anderen, in andere oder über andere Mitgliedstaaten die §§ 3 bis 9, 11 bis 13, 16 und 17 und 21 Absatz 7.
 

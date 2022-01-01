@@ -55,7 +55,7 @@ b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung 
 
 1. beim Ausländerzentralregister die Angaben zur aktenführenden Ausländerbehörde und die Angaben zum Zuzug oder Fortzug des Vollstreckungsschuldners und bei der Ausländerbehörde, die nach der Auskunft aus dem Ausländerzentralregister aktenführend ist, den Aufenthaltsort des Vollstreckungsschuldners,
 
-2. bei den Trägern der gesetzlichen Rentenversicherung die dort bekannte derzeitige Anschrift und den derzeitigen oder zukünftigen Aufenthaltsort des Vollstreckungsschuldners sowie
+2. bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch die dort bekannte derzeitige Anschrift und den derzeitigen oder zukünftigen Aufenthaltsort des Vollstreckungsschuldners sowie
 
 3. beim Kraftfahrt-Bundesamt die Halterdaten nach § 35 Absatz 4c Nummer 2 des Straßenverkehrsgesetzes.
 
@@ -67,15 +67,31 @@ b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung 
 
 (3) Nach Absatz 1 Nummer 2 und Absatz 2 erhobene Daten, die innerhalb der letzten drei Monate bei der Vollstreckungsbehörde eingegangen sind, dürfen von der Vollstreckungsbehörde auch einer weiteren Vollstreckungsbehörde übermittelt werden, wenn die Voraussetzungen für die Datenerhebung auch bei der weiteren Vollstreckungsbehörde vorliegen.
 
-(4) Ist der Vollstreckungsschuldner Unionsbürger, so darf die Vollstreckungsbehörde die Daten nach Absatz 1 Nummer 1 nur erheben, wenn ihr tatsächliche Anhaltspunkte für die Vermutung vorliegen, dass bei der betroffenen Person das Nichtbestehen oder der Verlust des Freizügigkeitsrechts festgestellt worden ist. Eine Übermittlung der Daten nach Absatz 1 Nummer 1 an die Vollstreckungsbehörde ist ausgeschlossen, wenn der Vollstreckungsschuldner ein Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt.
+(4) Ist der Vollstreckungsschuldner Unionsbürger, so darf die Vollstreckungsbehörde die Daten nach Absatz 1 Nummer 1 nur erheben, wenn ihr tatsächliche Anhaltspunkte für die Vermutung vorliegen, dass bei der betroffenen Person das Nichtbestehen oder der Verlust des Freizügigkeitsrechts festgestellt worden ist. Eine Übermittlung der Daten nach Absatz 1 Nummer 1 an die Vollstreckungsbehörde ist ausgeschlossen, wenn der Vollstreckungsschuldner ein Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt. Die Erhebung nach Absatz 1 Nummer 2 bei einer berufsständischen Versorgungseinrichtung darf die Vollstreckungsbehörde nur durchführen, wenn tatsächliche Anhaltspunkte nahelegen, dass der Vollstreckungsschuldner Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 # § 5b – Auskunftsrechte der Vollstreckungsbehörde
 
-(1) Kommt der Vollstreckungsschuldner seiner Pflicht, eine Vermögensauskunft nach § 5 Absatz 1 dieses Gesetzes in Verbindung mit § 284 Absatz 1 der Abgabenordnung zu erteilen, nicht nach oder ist bei einer Vollstreckung in die in der Vermögensauskunft angeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten, so darf die Vollstreckungsbehörde
+(1) Die Vollstreckungsbehörde darf vorbehaltlich der Sätze 2 und 3 folgende Maßnahmen durchführen:
 
-1. bei den Trägern der gesetzlichen Rentenversicherung den Namen und die Vornamen oder die Firma sowie die Anschriften der derzeitigen Arbeitgeber eines versicherungspflichtigen Beschäftigungsverhältnisses des Vollstreckungsschuldners erheben und
+1. Erhebung des Namens und der Vornamen oder der Firma sowie der Anschrift der derzeitigen Arbeitgeber des Vollstreckungsschuldners bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch;
 
-2. beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 35 Absatz 1 Nummer 17 des Straßenverkehrsgesetzes.
+2. Erhebung der Fahrzeug- und Halterdaten nach § 33 Absatz 1 des Straßenverkehrsgesetzes beim Kraftfahrt-Bundesamt zu einem Fahrzeug, als dessen Halter der Vollstreckungsschuldner eingetragen ist.
+
+Maßnahmen nach Satz 1 sind nur zulässig, wenn
+
+1. die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Vollstreckungsschuldner nicht zustellbar ist und
+
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor Erlass der Vollstreckungsanordnung die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist;
+
+2. der Vollstreckungsschuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem der Maßnahme nach Satz 1 zugrundeliegenden Vollstreckungsverfahren nicht nachkommt oder
+
+3. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung nicht zu erwarten ist.
+
+Die Erhebung nach Satz 1 Nummer 1 bei einer berufsständischen Versorgungseinrichtung ist zusätzlich zu den Voraussetzungen des Satzes 2 nur zulässig, wenn tatsächliche Anhaltspunkte nahelegen, dass der Vollstreckungsschuldner Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 (2) Nach Absatz 1 erhobene Daten, die innerhalb der letzten drei Monate bei der Vollstreckungsbehörde eingegangen sind, dürfen von der Vollstreckungsbehörde auch einer weiteren Vollstreckungsbehörde übermittelt werden, wenn die Voraussetzungen für die Datenerhebung auch bei der weiteren Vollstreckungsbehörde vorliegen.
 

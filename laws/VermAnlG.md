@@ -295,6 +295,8 @@ Ein Verkaufsprospekt ist nach seiner Billigung zwölf Monate lang für öffentli
 
 Werden Vermögensanlagen über ein elektronisches Informationsverbreitungssystem angeboten, ist der Verkaufsprospekt auch in diesem zu veröffentlichen; in dem Angebot ist auf die Fundstelle im elektronischen Informationsverbreitungssystem hinzuweisen. Der Anbieter hat der Bundesanstalt Datum und Ort der Veröffentlichung unverzüglich schriftlich mitzuteilen.
 
+(3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite die nach § 8 gebilligten Verkaufsprospekte. Diese bleiben zehn Jahre lang auf der Internetseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Internetseite auch Nachträge zu Verkaufsprospekten nach § 14 Absatz 3 Satz 1; Satz 2 gilt entsprechend.
+
 (+++ § 9: Zur Nichtanwendung vgl. § 2 +++)
 
 # § 10 – Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung
@@ -439,6 +441,8 @@ einschätzen und mit den Merkmalen anderer Finanzinstrumente bestmöglich vergle
 
 (2) Ist die Erstellung eines Verkaufsprospekts nach § 2a oder § 2b entbehrlich, muss das Vermögensanlagen-Informationsblatt entsprechend den Vorgaben des Absatzes 1 auf der Internetseite der Internet-Dienstleistungsplattform und des Anbieters ohne Zugriffsbeschränkungen für jedermann zugänglich gemacht werden.
 
+(3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite für den Fall, dass die Erstellung eines Verkaufsprospekts nach §§ 2a oder 2b entbehrlich ist, die nach § 13 gestatteten Vermögensanlagen-Informationsblätter. Diese bleiben zehn Jahre lang auf der Internetseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Internetseite auch die nach § 13 Absatz 7 Satz 2 übermittelten aktualisierten Fassungen der Vermögensanlagen-Informationsblätter; Satz 2 gilt entsprechend.
+
 # § 14 – Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts und Form der Einreichung bei der Bundesanstalt
 
 (1) Der Anbieter muss den für die Vermögensanlagen zu erstellenden Verkaufsprospekt vor dessen Veröffentlichung der Bundesanstalt als Hinterlegungsstelle übermitteln. Zeitgleich mit der Hinterlegung nach Satz 1 hat der Anbieter zudem das nach § 13 erstellte Vermögensanlagen-Informationsblatt bei der Bundesanstalt zu hinterlegen.
@@ -446,6 +450,8 @@ einschätzen und mit den Merkmalen anderer Finanzinstrumente bestmöglich vergle
 (2) Die Bundesanstalt bestätigt dem Anbieter den Tag des Eingangs des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts. Der hinterlegte Verkaufsprospekt und das nach Absatz 1 hinterlegte Vermögensanlagen-Informationsblatt werden von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem der Verkaufsprospekt und das Vermögensanlagen-Informationsblatt hinterlegt worden sind.
 
 (3) Der Anbieter hat der Bundesanstalt im Falle einer Veröffentlichung ergänzender Angaben nach § 11 den Nachtrag zum Verkaufsprospekt zum Zweck der Hinterlegung zu übermitteln. Im Falle einer Aktualisierung des Vermögensanlagen-Informationsblatts nach § 13 Absatz 7 hat der Anbieter der Bundesanstalt eine aktualisierte Fassung des Vermögensanlagen-Informationsblatts zum Zweck der Hinterlegung zu übermitteln.
+
+(4) Verkaufsprospekte und Vermögensanlagen-Informationsblätter sind der Bundesanstalt zur Prüfung und Hinterlegung elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln. Dies gilt für Nachträge nach § 11 und Aktualisierungen nach § 13 Absatz 7 entsprechend.
 
 (+++ § 14: Zur Nichtanwendung vgl. § 2 +++)
 

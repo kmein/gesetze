@@ -223,7 +223,7 @@
 
 4. die familienspezifischen Lebensverhältnisse von erwerbsfähigen Leistungsberechtigten, die Kinder erziehen oder pflegebedürftige Angehörige betreuen, berücksichtigt werden,
 
-5. behindertenspezifische Nachteile überwunden werden,
+5. behinderungsspezifische Nachteile überwunden werden,
 
 6. Anreize zur Aufnahme und Ausübung einer Erwerbstätigkeit geschaffen und aufrechterhalten werden.
 
@@ -288,6 +288,8 @@ sofern sie teilnahmeberechtigt sind und nicht unmittelbar in eine Ausbildung ode
 (3) Stellen Leistungsberechtigte trotz Aufforderung einen erforderlichen Antrag auf Leistungen eines anderen Trägers nicht, können die Leistungsträger nach diesem Buch den Antrag stellen sowie Rechtsbehelfe und Rechtsmittel einlegen. Der Ablauf von Fristen, die ohne Verschulden der Leistungsträger nach diesem Buch verstrichen sind, wirkt nicht gegen die Leistungsträger nach diesem Buch; dies gilt nicht für Verfahrensfristen, soweit die Leistungsträger nach diesem Buch das Verfahren selbst betreiben. Wird eine Leistung aufgrund eines Antrages nach Satz 1 von einem anderen Träger nach § 66 des Ersten Buches bestandskräftig entzogen oder versagt, sind die Leistungen zur Sicherung des Lebensunterhalts nach diesem Buch ganz oder teilweise so lange zu entziehen oder zu versagen, bis die leistungsberechtigte Person ihrer Verpflichtung nach den §§ 60 bis 64 des Ersten Buches gegenüber dem anderen Träger nachgekommen ist. Eine Entziehung oder Versagung nach Satz 3 ist nur möglich, wenn die leistungsberechtigte Person vom zuständigen Leistungsträger nach diesem Buch zuvor schriftlich auf diese Folgen hingewiesen wurde. Wird die Mitwirkung gegenüber dem anderen Träger nachgeholt, ist die Versagung oder Entziehung rückwirkend aufzuheben. Die Sätze 3 bis 5 gelten nicht für die vorzeitige Inanspruchnahme einer Rente wegen Alters.
 
 (4) Leistungen zur Eingliederung in Arbeit nach dem Ersten Abschnitt des Dritten Kapitels werden nicht an oder für erwerbsfähige Leistungsberechtigte erbracht, die einen Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld haben.
+
+(5) Leistungen nach den §§ 16a, 16b, 16d sowie 16f bis 16i können auch an erwerbsfähige Leistungsberechtigte erbracht werden, sofern ein Rehabilitationsträger im Sinne des Neunten Buches zuständig ist; § 22 Absatz 2 Satz 1 und 2 des Dritten Buches ist entsprechend anzuwenden.
 
 # § 6 – Träger der Grundsicherung für Arbeitsuchende
 
@@ -639,7 +641,7 @@ nicht übersteigen.
 
 4. ein selbst genutztes Hausgrundstück von angemessener Größe oder eine entsprechende Eigentumswohnung,
 
-5. Vermögen, solange es nachweislich zur baldigen Beschaffung oder Erhaltung eines Hausgrundstücks von angemessener Größe bestimmt ist, soweit dieses zu Wohnzwecken behinderter oder pflegebedürftiger Menschen dient oder dienen soll und dieser Zweck durch den Einsatz oder die Verwertung des Vermögens gefährdet würde,
+5. Vermögen, solange es nachweislich zur baldigen Beschaffung oder Erhaltung eines Hausgrundstücks von angemessener Größe bestimmt ist, soweit dieses zu Wohnzwecken von Menschen mit Behinderungen oder pflegebedürftigen Menschen dient oder dienen soll und dieser Zweck durch den Einsatz oder die Verwertung des Vermögens gefährdet würde,
 
 6. Sachen und Rechte, soweit ihre Verwertung offensichtlich unwirtschaftlich ist oder für den Betroffenen eine besondere Härte bedeuten würde.
 
@@ -715,7 +717,15 @@ Die Eingliederungsvereinbarung kann insbesondere bestimmen, in welche Tätigkeit
 
 5. Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts.
 
-Für Eingliederungsleistungen an erwerbsfähige behinderte Leistungsberechtigte nach diesem Buch gelten die §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe, § 116 Absatz 1, 2 und 6, die §§ 117, 118 Satz 1 Nummer 3, Satz 2 und die §§ 127 und 128 des Dritten Buches entsprechend. § 1 Absatz 2 Nummer 4 sowie § 36 und § 81 Absatz 2 und 3 des Dritten Buches sind entsprechend anzuwenden.
+Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit Behinderungen nach diesem Buch gelten entsprechend
+
+1. die §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2, 5 und 6 des Dritten Buches,
+
+2. § 117 Absatz 1 und § 118 Nummer 3 des Dritten Buches für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung,
+
+3. die §§ 127 und 128 des Dritten Buches für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung.
+
+§ 1 Absatz 2 Nummer 4 sowie § 36 und § 81 Absatz 2 und 3 des Dritten Buches sind entsprechend anzuwenden.
 
 (2) Soweit dieses Buch nichts Abweichendes regelt, gelten für die Leistungen nach Absatz 1 die Regelungen des Dritten Buches mit Ausnahme der Verordnungsermächtigung nach § 47 des Dritten Buches sowie der Anordnungsermächtigungen für die Bundesagentur und mit der Maßgabe, dass an die Stelle des Arbeitslosengeldes das Arbeitslosengeld II tritt. § 44 Absatz 3 Satz 3 des Dritten Buches gilt mit der Maßgabe, dass die Förderung aus dem Vermittlungsbudget auch die anderen Leistungen nach dem Zweiten Buch nicht aufstocken, ersetzen oder umgehen darf. Für die Teilnahme erwerbsfähiger Leistungsberechtigter an einer Maßnahme zur beruflichen Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses werden Leistungen nach Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 82 des Dritten Buches nicht gewährt, wenn die betreffende Maßnahme auf ein nach § 2 Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges Fortbildungsziel vorbereitet.
 
@@ -737,7 +747,7 @@ Für Eingliederungsleistungen an erwerbsfähige behinderte Leistungsberechtigte 
 
 Zur Verwirklichung einer ganzheitlichen und umfassenden Betreuung und Unterstützung bei der Eingliederung in Arbeit können die folgenden Leistungen, die für die Eingliederung der oder des erwerbsfähigen Leistungsberechtigten in das Erwerbsleben erforderlich sind, erbracht werden:
 
-1. die Betreuung minderjähriger oder behinderter Kinder oder die häusliche Pflege von Angehörigen,
+1. die Betreuung minderjähriger Kinder oder von Kindern mit Behinderungen oder die häusliche Pflege von Angehörigen,
 
 2. die Schuldnerberatung,
 

@@ -547,7 +547,7 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage 3 zu die
 
 # § 22 – Versicherungsförmige Garantien
 
-(1) Soweit der Pensionsfonds im Rahmen eines beitrags- oder leistungsbezogenen Pensionsplans eine versicherungsförmige Garantie übernimmt, sind Deckungsrückstellungen unter Beachtung von § 23 Absatz 1 zu bilden. Der Rechnungszinssatz ist unter Berücksichtigung der Mischung der die Verpflichtung deckenden Vermögenswerte und ihrer möglichen Wertschwankungen vorsichtig anzusetzen. Er beträgt höchstens 0,9 Prozent bei Verträgen, die auf Euro lauten. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen der Deckungsrückstellungsverordnung vom 18. April 2016 (BGBl. I S. 767) in der jeweils geltenden Fassung nach pflichtgemäßem Ermessen fest.
+(1) Soweit der Pensionsfonds im Rahmen eines beitrags- oder leistungsbezogenen Pensionsplans eine versicherungsförmige Garantie übernimmt, sind Deckungsrückstellungen unter Beachtung von § 23 Absatz 1 zu bilden. Der Rechnungszinssatz ist unter Berücksichtigung der Mischung der die Verpflichtung deckenden Vermögenswerte und ihrer möglichen Wertschwankungen vorsichtig anzusetzen. Er beträgt höchstens 0,25 Prozent bei Verträgen, die auf Euro lauten. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen der Deckungsrückstellungsverordnung vom 18. April 2016 (BGBl. I S. 767) in der jeweils geltenden Fassung nach pflichtgemäßem Ermessen fest.
 
 (2) Eine versicherungsförmige Garantie im Sinne des Absatzes 1 liegt dann vor, wenn sich der Pensionsfonds gegen in Höhe und Fälligkeit fest vereinbarte Beiträge zu fest vereinbarten Leistungen verpflichtet hat. Dies ist insbesondere gegeben, wenn der Pensionsfonds
 
@@ -864,8 +864,6 @@ anzuwenden.
 (4) Anteile an Publikumsinvestmentvermögen in Form von Immobilien-Sondervermögen nach den §§ 230 bis 260 des Kapitalanlagegesetzbuchs, die vor dem 8. April 2011 erworben worden sind, sowie Anteile an vergleichbaren ausländischen Investmentvermögen, die vor dem 8. April 2011 erworben worden sind, können im Sicherungsvermögen verbleiben und Anlagen nach § 17 Absatz 1 Nummer 14 Buchstabe c zugeordnet werden.
 
 (5) Anlagen, die bis zum 7. März 2015 getätigt worden sind und seitdem auf Grund des § 6 Absatz 3 der Pensionsfonds-Kapitalanlagenverordnung vom 21. Dezember 2001 (BGBl. I S. 4185) in der Fassung der Verordnung vom 3. März 2015 (BGBl. I S. 188) im Sicherungsvermögen gehalten wurden, können bis zu ihrer Fälligkeit im Sicherungsvermögen verbleiben und den Anlagen nach § 17 Absatz 1 Nummer 13 Buchstabe b zugeordnet werden.
-
-(6) § 23 Absatz 2 und 3 in der ab dem 23. Oktober 2018 geltenden Fassung ist erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2017 begonnen hat. Für Geschäftsjahre, die vor dem 1. Januar 2018 begonnen haben, ist § 23 Absatz 2 und 3 in der bis zum 22. Oktober 2018 geltenden Fassung weiterhin anzuwenden.
 
 (6) Auf Kapital im Sinne des § 27 Absatz 1 Satz 1 Nummer 5 und 6, das bis zum 13. Januar 2019 eingezahlt worden ist, kann § 27 Absatz 2 und 3 in der bis zum 12. Januar 2019 geltenden Fassung weiter angewendet werden. Satz 1 gilt letztmalig in dem Geschäftsjahr, das nach dem 31. Dezember 2027 beginnt.
 

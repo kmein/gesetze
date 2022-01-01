@@ -3373,7 +3373,7 @@
 - [LSpV](laws/LSpV.md) Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes
 - [LStDV](laws/LStDV.md) Lohnsteuer-Durchführungsverordnung
 - [LStrkrAbk Genf](laws/LStrkrAbk_Genf.md) I. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkräfte im Felde
-- [LSV](laws/LSV.md) Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile* 1
+- [LSV](laws/LSV.md) Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für elektrisch betriebene Fahrzeuge 1
 - [LSVAAbk Büs](laws/LSVAAbk_Büs.md) Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
 - [LSVAAbkBüsG](laws/LSVAAbkBüsG.md) Gesetz zu dem Abkommen vom 7. Dezember 2004 zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe (LSVA-Abkommen Büsingen)
 - [LTV](laws/LTV.md) Verordnung über die Tarifordnung für die Seelotsreviere
@@ -5599,7 +5599,7 @@
 - [TVMindestlohn Maler 10](laws/TVMindestlohn_Maler_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 27. Januar 2021
 - [TVMindestlohn Steinmetz 4](laws/TVMindestlohn_Steinmetz_4.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)
 - [TVMindestlohn VFlughSiK](laws/TVMindestlohn_VFlughSiK.md) Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 24. Januar 2019
-- [TVMindestlohnDachd 10](laws/TVMindestlohnDachd_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
+- [TVMindestlohnDachd 10](laws/TVMindestlohnDachd_10.md) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 14. August 2019
 - [TVMindestlohnGebäude 2020](laws/TVMindestlohnGebäude_2020.md) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
 - [TVMindestlohnPäda 5](laws/TVMindestlohnPäda_5.md) Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
 - [TVöD](laws/TVöD.md) Tarifvertrag für den öffentlichen Dienst

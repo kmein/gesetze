@@ -111,13 +111,19 @@ Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
 
 § 4a
 
-Steuervergütung
+Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet
 
  
 
 § 4b
 
 Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
+
+ 
+
+§ 4c
+
+Steuervergütung für Leistungsbezüge europäischer Einrichtungen
 
  
 
@@ -1303,7 +1309,7 @@ b) die Gestellung von land- und forstwirtschaftlichen Arbeitskräften durch juri
 
 (+++ § 4: Zur Anwendung vgl. § 27 +++)
 
-# § 4a – Steuervergütung
+# § 4a – Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet
 
 (1) Körperschaften, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke verfolgen (§§ 51 bis 68 der Abgabenordnung), und juristischen Personen des öffentlichen Rechts wird auf Antrag eine Steuervergütung zum Ausgleich der Steuer gewährt, die auf der an sie bewirkten Lieferung eines Gegenstands, seiner Einfuhr oder seinem innergemeinschaftlichen Erwerb lastet, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -1341,6 +1347,32 @@ Steuerfrei ist der innergemeinschaftliche Erwerb
 
 4. der Gegenstände, die zur Ausführung von Umsätzen verwendet werden, für die der Ausschluss vom Vorsteuerabzug nach § 15 Abs. 3 nicht eintritt.
 
+# § 4c – Steuervergütung für Leistungsbezüge europäischer Einrichtungen
+
+(1) Europäischen Einrichtungen wird
+
+1. die von dem Unternehmer für eine Leistung gesetzlich geschuldete und von der Einrichtung gezahlte Steuer sowie
+
+2. die von der Einrichtung nach § 13b Absatz 5 geschuldete und von ihr entrichtete Steuer
+
+auf Antrag vergütet, sofern die Leistung nicht von der Steuer befreit werden kann.
+
+(2) Europäische Einrichtungen im Sinne des Absatzes 1 sind
+
+1. die Europäische Union, die Europäische Atomgemeinschaft, die Europäische Zentralbank und die Europäische Investitionsbank sowie die von der Europäischen Union geschaffenen Einrichtungen, auf die das dem Vertrag über die Europäische Union und dem Vertrag über die Arbeitsweise der Europäischen Union beigefügte Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union (ABl. C 202 vom 7.6.2016, S. 266) anwendbar ist, und
+
+2. die Europäische Kommission sowie nach dem Unionsrecht geschaffene Agenturen und Einrichtungen.
+
+(3) Die Vergütung an eine in Absatz 2 Nummer 1 bezeichnete Einrichtung erfolgt in den Grenzen und zu den Bedingungen, die in dem dem Vertrag über die Europäische Union und dem Vertrag über die Arbeitsweise der Europäischen Union beigefügten Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union und den Übereinkünften zu seiner Umsetzung oder in den Abkommen über den Sitz der Einrichtung festgelegt sind.
+
+(4) Die Vergütung an eine in Absatz 2 Nummer 2 bezeichnete Einrichtung setzt voraus, dass die Leistung
+
+1. in Wahrnehmung der der Einrichtung durch das Unionsrecht übertragenen Aufgaben bezogen wurde, um auf die COVID-19-Pandemie zu reagieren, und
+
+2. nicht zur Ausführung einer eigenen entgeltlichen Leistung verwendet wird.
+
+Soweit die Voraussetzungen nach Antragstellung wegfallen, ist die Einrichtung verpflichtet, dies dem Bundeszentralamt für Steuern innerhalb eines Monats anzuzeigen.
+
 # § 5 – Steuerbefreiungen bei der Einfuhr
 
 (1) Steuerfrei ist die Einfuhr
@@ -1363,7 +1395,11 @@ c) nachzuweisen, dass die Gegenstände zur Beförderung oder Versendung in das �
 
 6. von Erdgas über das Erdgasnetz oder von Erdgas, das von einem Gastanker aus in das Erdgasnetz oder ein vorgelagertes Gasleitungsnetz eingespeist wird, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze;
 
-7. von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro, für die die Steuer im Rahmen des besonderen Besteuerungsverfahrens nach § 18k zu erklären ist und für die in der Anmeldung zur Überlassung in den freien Verkehr die nach Artikel 369q der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1) in der jeweils geltenden Fassung von einem Mitgliedstaat der Europäischen Union erteilte individuelle Identifikationsnummer des Lieferers oder die dem in seinem Auftrag handelnden Vertreter für diesen Lieferer erteilte individuelle Identifikationsnummer angegeben wird.
+7. von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro, für die die Steuer im Rahmen des besonderen Besteuerungsverfahrens nach § 18k zu erklären ist und für die in der Anmeldung zur Überlassung in den freien Verkehr die nach Artikel 369q der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1) in der jeweils geltenden Fassung von einem Mitgliedstaat der Europäischen Union erteilte individuelle Identifikationsnummer des Lieferers oder die dem in seinem Auftrag handelnden Vertreter für diesen Lieferer erteilte individuelle Identifikationsnummer angegeben wird;
+
+8. von Gegenständen durch die Europäische Union, die Europäische Atomgemeinschaft, die Europäische Zentralbank und die Europäische Investitionsbank sowie die von der Europäischen Union geschaffenen Einrichtungen, auf die das dem Vertrag über die Europäische Union und dem Vertrag über die Arbeitsweise der Europäischen Union beigefügte Protokoll (Nr. 7) über die Vorrechte und Befreiungen der Europäischen Union (ABl. C 202 vom 7.6.2016, S. 266) anwendbar ist, und zwar in den Grenzen und zu den Bedingungen, die in diesem Protokoll und den Übereinkünften zu seiner Umsetzung oder in den Abkommen über den Sitz festgelegt sind;
+
+9. von Gegenständen durch die Europäische Kommission sowie nach dem Unionsrecht geschaffene Agenturen und Einrichtungen, sofern die Gegenstände in Wahrnehmung der ihnen durch das Unionsrecht übertragenen Aufgaben eingeführt werden, um auf die COVID-19-Pandemie zu reagieren. Dies gilt nicht für Gegenstände, die von der Europäischen Kommission oder der nach dem Unionsrecht geschaffenen Agentur oder Einrichtung zur Ausführung von eigenen entgeltlichen Lieferungen verwendet werden. Soweit die Voraussetzungen für die Steuerbefreiung nach der Einfuhr wegfallen, ist die Europäische Kommission oder die nach dem Unionsrecht geschaffene Agentur oder Einrichtung verpflichtet, dies dem für die Besteuerung dieser Einfuhr zuständigen Hauptzollamt innerhalb eines Monats anzuzeigen. In diesem Fall wird die Einfuhrumsatzsteuer nach den im Zeitpunkt des Wegfalls geltenden Bestimmungen festgesetzt.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Erleichterung des Warenverkehrs über die Grenze und zur Vereinfachung der Verwaltung Steuerfreiheit oder Steuerermäßigung anordnen
 
@@ -2755,9 +2791,9 @@ Unternehmer ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftslei
 
 2. für die Lieferungen der in der Anlage 2 nicht aufgeführten Sägewerkserzeugnisse und Getränke sowie von alkoholischen Flüssigkeiten, ausgenommen die Lieferungen in das Ausland und die im Ausland bewirkten Umsätze, und für sonstige Leistungen, soweit in der Anlage 2 nicht aufgeführte Getränke abgegeben werden, auf 19 Prozent,
 
-3. für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 10,7 Prozent der Bemessungsgrundlage.
+3. für die übrigen Umsätze im Sinne des § 1 Absatz 1 Nummer 1 auf 9,5 Prozent der Bemessungsgrundlage.
 
-Die Befreiungen nach § 4 mit Ausnahme der Nummern 1 bis 7 bleiben unberührt; § 9 findet keine Anwendung. Die Vorsteuerbeträge werden, soweit sie den in Satz 1 Nr. 1 bezeichneten Umsätzen zuzurechnen sind, auf 5,5 Prozent, in den übrigen Fällen des Satzes 1 auf 10,7 Prozent der Bemessungsgrundlage für diese Umsätze festgesetzt. Ein weiterer Vorsteuerabzug entfällt. § 14 ist mit der Maßgabe anzuwenden, dass der für den Umsatz maßgebliche Durchschnittssatz in der Rechnung zusätzlich anzugeben ist.
+Die Befreiungen nach § 4 mit Ausnahme der Nummern 1 bis 7 bleiben unberührt; § 9 findet keine Anwendung. Die Vorsteuerbeträge werden, soweit sie den in Satz 1 Nr. 1 bezeichneten Umsätzen zuzurechnen sind, auf 5,5 Prozent, in den übrigen Fällen des Satzes 1 auf 9,5 Prozent der Bemessungsgrundlage für diese Umsätze festgesetzt. Ein weiterer Vorsteuerabzug entfällt. § 14 ist mit der Maßgabe anzuwenden, dass der für den Umsatz maßgebliche Durchschnittssatz in der Rechnung zusätzlich anzugeben ist.
 
 (2) Als land- und forstwirtschaftlicher Betrieb gelten
 
@@ -2770,6 +2806,8 @@ Zum land- und forstwirtschaftlichen Betrieb gehören auch die Nebenbetriebe, die
 (3) Führt der Unternehmer neben den in Absatz 1 bezeichneten Umsätzen auch andere Umsätze aus, so ist der land- und forstwirtschaftliche Betrieb als ein in der Gliederung des Unternehmens gesondert geführter Betrieb zu behandeln.
 
 (4) Der Unternehmer kann spätestens bis zum 10. Tag eines Kalenderjahres gegenüber dem Finanzamt erklären, dass seine Umsätze vom Beginn des vorangegangenen Kalenderjahres an nicht nach den Absätzen 1 bis 3, sondern nach den allgemeinen Vorschriften dieses Gesetzes besteuert werden sollen. Die Erklärung bindet den Unternehmer mindestens für fünf Kalenderjahre; im Falle der Geschäftsveräußerung ist der Erwerber an diese Frist gebunden. Sie kann mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist spätestens bis zum 10. Tag nach Beginn dieses Kalenderjahres zu erklären. Die Frist nach Satz 4 kann verlängert werden. Ist die Frist bereits abgelaufen, so kann sie rückwirkend verlängert werden, wenn es unbillig wäre, die durch den Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen.
+
+(5) Das Bundesministerium der Finanzen überprüft jährlich die Höhe des Durchschnittssatzes im Sinne des Absatzes 1 Satz 1 Nummer 3 und Satz 3 und berichtet dem Deutschen Bundestag über das Ergebnis der Überprüfung. Der Durchschnittssatz wird ermittelt aus dem Verhältnis der Summe der Vorsteuern zu der Summe der Umsätze aller Unternehmer, die ihre Umsätze nach Absatz 1 Satz 1 Nummer 2 und 3 versteuern, in einem Zeitraum von drei Jahren. Der ermittelte Durchschnittssatz wird auf eine Nachkommastelle kaufmännisch gerundet. Soweit nach der Überprüfung eine Anpassung des Durchschnittssatzes in Absatz 1 Satz 1 Nummer 3 und Satz 3 erforderlich ist, legt die Bundesregierung kurzfristig einen entsprechenden Gesetzentwurf vor.
 
 # § 25 – Besteuerung von Reiseleistungen
 
@@ -3116,6 +3154,8 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 (33) § 18i Absatz 3 und 6, § 18j Absatz 4 und 7, § 18k Absatz 4 und 7 in der Fassung des Artikels 13 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22 be-ziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des vorgenannten Gesetzes.
 
 (34) Die §§ 3 und 3a Absatz 5, die §§ 3c, 4, 5, 11, 13 Absatz 1 Nummer 1 Buchstabe f bis i, § 14a Absatz 2, § 16 Absatz 1c bis 1e, § 18 Absatz 1, 3 und 9, die §§ 21a, 22, 22f und 25e in der Fassung des Artikels 14 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze und Einfuhren anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. § 13 Absatz 1 Nummer 1 Buchstabe d und e, § 16 Absatz 1a und 1b, § 18 Absatz 4c bis 4e und § 18h sind letztmalig auf Umsätze anzuwenden, die vor dem 1. Juli 2021 ausgeführt werden.
+
+(35) § 4c in der Fassung des Artikels 1 des Gesetzes vom 21. Dezember 2021 (BGBl. I S. 5250) ist auf Leistungen anzuwenden, die nach dem 31. Dezember 2020 bezogen werden. § 5 Absatz 1 Nummer 8 und 9 in der Fassung des Artikels 1 des Gesetzes vom 21. Dezember 2021 (BGBl. I S. 5250) ist auf Einfuhren nach dem 31. Dezember 2020 anzuwenden.
 
 # § 27a – Umsatzsteuer-Identifikationsnummer
 

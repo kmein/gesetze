@@ -4496,8 +4496,7 @@ höchstens 250,00 €
 
 22114
 
-Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  ..........   
- Die Gebühr entsteht neben anderen Gebühren dieses Unterabschnitts gesondert.
+Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder in einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  .......... 
 
   
   
@@ -5634,7 +5633,7 @@ in voller Höhe
 32015
 
 Sonstige Aufwendungen  ..........   
- Sonstige Aufwendungen sind solche, die der Notar aufgrund eines ausdrücklichen Auftrags und für Rechnung eines Beteiligten erbringt. Solche Aufwendungen sind insbesondere verauslagte Gerichtskosten und Gebühren in Angelegenheiten des Zentralen Vorsorge- oder Testamentsregisters.
+ Sonstige Aufwendungen sind solche, die der Notar aufgrund eines ausdrücklichen Auftrags und für Rechnung eines Beteiligten erbringt. Solche Aufwendungen sind insbesondere verauslagte Gerichtskosten und Gebühren in Angelegenheiten des Zentralen Vorsorge- oder Testamentsregisters sowie des Elektronischen Urkundenarchivs.
 
 in voller Höhe
 

@@ -514,7 +514,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 # § 33 – Berechnung des Steuerwerts und der Steuer
 
-(1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm Rauchtabak und aus der Mengenangabe auf dem Steuerzeichen berechnet. Dabei wird die Steuer in Cent eingesetzt, und zwar für die Zigarette bis auf fünf, für die Zigarre und das Zigarillo bis auf vier Dezimalstellen und für das Kilogramm Rauchtabak bis auf eine Dezimalstelle. Der Steuerwert wird in Cent bei Zigaretten bis auf vier, bei Zigarren, Zigarillos und Rauchtabak bis auf drei Dezimalstellen berechnet.
+(1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm Rauchtabak und aus der Mengenangabe auf dem Steuerzeichen berechnet. Für erhitzten Tabak wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer nach § 2 Absatz 1 Nummer 4 und 5 des Gesetzes, sowie aus den Mengenangaben auf dem Steuerzeichen berechnet. Dabei wird die Steuer in Cent eingesetzt, und zwar für die Zigarette bis auf fünf, für die Zigarre und den Zigarillo bis auf vier Dezimalstellen und für das Kilogramm Rauchtabak bis auf eine Dezimalstelle. Der Steuerwert wird in Cent bei Zigaretten und erhitztem Tabak bis auf vier, bei Zigarren, Zigarillos und Rauchtabak bis auf drei Dezimalstellen berechnet.
 
 (2) Der Steuerwert des Steuerzeichenbogens wird in Euro ausgedrückt und bei Steuerzeichen für Zigaretten bis auf vier, für Zigarren, Zigarillos und Rauchtabak bis auf drei Dezimalstellen gekürzt.
 
@@ -685,11 +685,11 @@ versehen sind. Für die vollständige Zerstörung und den unwiederbringlichen Ve
 
 # § 49 – Erlass- und Erstattungsgebühren
 
-(1) Die Gebühr nach § 32 Absatz 4 des Gesetzes beträgt für jeden vollen Steuerzeichenbogen oder die entsprechende Anzahl gleicher Steuerzeichen und für jede Teilmenge eines Bogens:
+(1) Die Gebühr nach § 32 Absatz 5 des Gesetzes beträgt für jeden vollen Steuerzeichenbogen oder die entsprechende Anzahl gleicher Steuerzeichen und für jede Teilmenge eines Bogens:
 
-1. 0,15 Euro, wenn nicht entwertete Steuerzeichen zurückgegeben werden,
+1. 0,40 Euro, wenn nicht entwertete Steuerzeichen zurückgegeben werden,
 
-2. 0,30 Euro, wenn Steuerzeichen vernichtet oder ungültig gemacht werden.
+2. 0,58 Euro, wenn Steuerzeichen vernichtet oder ungültig gemacht werden.
 
 (2) Die Gebühr wird nicht erhoben, wenn Steuerzeichen nicht der Bestellung entsprechen, technisch mangelhaft geliefert oder bei amtlichen Prüfungen beschädigt oder vernichtet worden sind.
 

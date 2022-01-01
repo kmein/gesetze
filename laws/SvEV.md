@@ -45,13 +45,13 @@ Dem Arbeitsentgelt sind die in Satz 1 Nummer 1 bis 4a, 9 bis 11, 13, 15 und 16 g
 
 # § 2 – Verpflegung, Unterkunft und Wohnung als Sachbezug
 
-(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 263 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
+(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 270 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
 
-1. Frühstück von 55 Euro,
+1. Frühstück von 56 Euro,
 
-2. Mittagessen von 104 Euro und
+2. Mittagessen von 107 Euro und
 
-3. Abendessen von 104 Euro.
+3. Abendessen von 107 Euro.
 
 (2) Für Verpflegung, die nicht nur dem Beschäftigten, sondern auch seinen nicht bei demselben Arbeitgeber beschäftigten Familienangehörigen zur Verfügung gestellt wird, erhöhen sich die nach Absatz 1 anzusetzenden Werte je Familienangehörigen,
 
@@ -65,7 +65,7 @@ Dem Arbeitsentgelt sind die in Satz 1 Nummer 1 bis 4a, 9 bis 11, 13, 15 und 16 g
 
 Bei der Berechnung des Wertes ist das Lebensalter des Familienangehörigen im ersten Entgeltabrechnungszeitraum des Kalenderjahres maßgebend. Sind Ehegatten bei demselben Arbeitgeber beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
-(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 237 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
+(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 241 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
 
 1. bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder bei Unterbringung in einer Gemeinschaftsunterkunft um 15 Prozent,
 
@@ -81,7 +81,7 @@ c) mit mehr als drei Beschäftigten um 60 Prozent.
 
 Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach Satz 1 zu bestimmen, kann die Unterkunft mit dem ortsüblichen Mietpreis bewertet werden; Absatz 4 Satz 2 gilt entsprechend.
 
-(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen sowie unter entsprechender Anwendung des § 8 Absatz 2 Satz 12 des Einkommensteuergesetzes anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 4,16 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,40 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
+(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen sowie unter entsprechender Anwendung des § 8 Absatz 2 Satz 12 des Einkommensteuergesetzes anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 4,23 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,46 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
 
 (5) Werden Verpflegung, Unterkunft oder Wohnung verbilligt als Sachbezug zur Verfügung gestellt, ist der Unterschiedsbetrag zwischen dem vereinbarten Preis und dem Wert, der sich bei freiem Bezug nach den Absätzen 1 bis 4 ergeben würde, dem Arbeitsentgelt zuzurechnen.
 

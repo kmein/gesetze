@@ -93,7 +93,7 @@ Auf Verlangen des Parlamentarischen Kontrollgremiums hat die Bundesregierung auc
 
 # § 8 – Eingaben
 
-(1) Angehörigen der Nachrichtendienste ist es gestattet, sich in dienstlichen Angelegenheiten sowie bei innerdienstlichen Missständen, jedoch nicht im eigenen oder Interesse anderer Angehöriger dieser Behörden, ohne Einhaltung des Dienstweges unmittelbar an das Parlamentarische Kontrollgremium zu wenden. Wegen der Tatsache der Eingabe dürfen sie nicht dienstlich gemaßregelt oder benachteiligt werden. Das Parlamentarische Kontrollgremium übermittelt die Eingaben der Bundesregierung zur Stellungnahme. Es gibt den Namen der mitteilenden Person nur bekannt, soweit dies für eine Aufklärung des Sachverhalts erforderlich ist.
+(1) Angehörigen der Nachrichtendienste ist es gestattet, sich in dienstlichen Angelegenheiten sowie bei innerdienstlichen Missständen, jedoch nicht im eigenen oder Interesse anderer Angehöriger dieser Behörden, ohne Einhaltung des Dienstweges unmittelbar an das Parlamentarische Kontrollgremium zu wenden. Wegen der Tatsache der Eingabe dürfen sie nicht dienstlich gemaßregelt oder benachteiligt werden. Das Parlamentarische Kontrollgremium kann die Eingaben der Bundesregierung zur Stellungnahme übermitteln. Der Ständige Bevollmächtigte untersucht Eingaben nach Satz 1 auf Weisung des Parlamentarischen Kontrollgremiums. Der Name der mitteilenden Person darf nicht bekanntgegeben oder übermittelt werden.
 
 (2) An den Deutschen Bundestag gerichtete Eingaben von Bürgern über ein sie betreffendes Verhalten der in § 1 Absatz 1 genannten Behörden können dem Parlamentarischen Kontrollgremium zur Kenntnis gegeben werden.
 
@@ -140,3 +140,11 @@ Das Parlamentarische Kontrollgremium erstattet dem Deutschen Bundestag Bericht �
 # § 14 – Gerichtliche Zuständigkeit
 
 Das Bundesverfassungsgericht entscheidet über Streitigkeiten zwischen dem Parlamentarischen Kontrollgremium und der Bundesregierung auf Antrag der Bundesregierung oder von mindestens zwei Dritteln der Mitglieder des Parlamentarischen Kontrollgremiums.
+
+# § 15 – Zusammenwirken
+
+(1) Das Parlamentarische Kontrollgremium kann sich mit den für die Kontrolle der in Absatz 1 genannten Behörden zuständigen Stellen unter Wahrung der jeweils geltenden Geheimhaltungsvorschriften im Rahmen ihrer Kontrollzuständigkeit über allgemeine Angelegenheiten ihrer Kontrolltätigkeit austauschen. Dabei kann es sich insbesondere über Schwerpunkt, Methodik und Ergebnisse der Kontrolltätigkeit berichten lassen.
+
+(2) Die G 10-Kommission, der Unabhängige Kontrollrat und die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit können auf Anforderung des Parlamentarischen Kontrollgremiums unter Wahrung der jeweils geltenden Geheimhaltungsvorschriften Informationen an das Parlamentarische Kontrollgremium weitergeben, soweit diese für eine Untersuchung nach § 5a Absatz 2 Satz 2 erforderlich sind. Die oder der Ständige Bevollmächtigte koordiniert diesen Austausch.
+
+(3) Der Unabhängige Kontrollrat, die G 10-Kommission und die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit berichten dem Parlamentarischen Kontrollgremium über Fragen ihrer internationalen Zusammenarbeit vor deren Aufnahme.

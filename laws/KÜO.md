@@ -113,6 +113,8 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 5. Ersatzvornahme nach § 26 des Schornsteinfeger-Handwerksgesetzes.
 
+6. anlassbezogene Überprüfung nach § 1 Absatz 8,
+
 (2) Eine Mahnung kann ausgesprochen werden, wenn eine rückständige Gebühr nach Anlage 3 innerhalb von 30 Tagen nach Zugang der Gebührenrechnung nicht bezahlt wurde. Die Mahngebühr nach Absatz 1 Nummer 4 darf nur einmal je fällige Gebührenrechnung erhoben werden.
 
 (3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,20 Euro zuzüglich der gesetzlichen Umsatzsteuer.
@@ -240,13 +242,12 @@ Anlage
 
  
 
-<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 46%" /><col style="width: 54%" /></colgroup><tbody><tr class="odd"><td>Anschrift des Schornsteinfegerbetriebes</td><td>Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden.</td></tr><tr class="even"><td>Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde:</td><td><br />
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 46%" /><col style="width: 54%" /></colgroup><tbody><tr class="odd"><td>Name und Anschrift des Schornsteinfegerbetriebes</td><td>Die Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden.</td></tr><tr class="even"><td>Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde:</td><td><br />
 <br />
-   Datum     Unterschrift des ausführenden Schornsteinfegers</td></tr><tr class="odd"><td> </td><td>Bestätigung der Ausführung dieser Schornsteinfegerarbeiten</td></tr><tr class="even"><td><br />
+   Datum     Unterschrift des ausführenden Schornsteinfegers</td></tr><tr class="odd"><td><br />
 <br />
 Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben):<br />
-</td><td><br />
-   Datum     Unterschrift des Eigentümers/Verwalters</td></tr></tbody></table>
+</td><td> </td></tr></tbody></table>
 
  
 

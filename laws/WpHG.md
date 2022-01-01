@@ -45,6 +45,8 @@ j) der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 
 
 k) der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
+k) der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung,
+
 l) der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
 l) der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung.
@@ -341,19 +343,17 @@ Alle Betriebsstellen eines Wertpapierdienstleistungsunternehmens mit Hauptverwal
 
 (36a) Derivate auf landwirtschaftliche Erzeugnisse im Sinne dieses Gesetzes sind Derivatkontrakte in Bezug auf die Erzeugnisse, die in Artikel 1 und Anhang I Teil I bis XX und XXIV/1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist, sowie in Anhang I der Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S. 1), die zuletzt durch die Verordnung (EU) 2020/560 (ABl. L 130 vom 24.4.2020, S. 11) geändert worden ist, aufgeführt sind.
 
-(37) Genehmigtes Veröffentlichungssystem im Sinne dieses Gesetzes ist ein Unternehmen, das im Namen von Wertpapierdienstleistungsunternehmen Handelsveröffentlichungen im Sinne der Artikel 20 und 21 der Verordnung (EU) Nr. 600/2014 vornimmt.
+(37) Genehmigtes Veröffentlichungssystem im Sinne dieses Gesetzes ist ein genehmigtes Veröffentlichungssystem im Sinne von Artikel 2 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 600/2014.
 
-(38) Bereitsteller konsolidierter Datenticker im Sinne dieses Gesetzes ist ein Unternehmen, das zur Einholung von Handelsveröffentlichungen nach den Artikeln 6, 7, 10, 12, 13, 20 und 21 der Verordnung (EU) Nr. 600/2014 auf geregelten Märkten, multilateralen und organisierten Handelssystemen und bei genehmigten Veröffentlichungssystemen berechtigt ist und diese Handelsveröffentlichungen in einem kontinuierlichen elektronischen Echtzeitdatenstrom konsolidiert, über den Preis- und Handelsvolumendaten für jedes einzelne Finanzinstrument abrufbar sind.
+(38) (weggefallen)
 
-(39) Genehmigter Meldemechanismus im Sinne dieses Gesetzes ist ein Unternehmen, das dazu berechtigt ist, im Namen des Wertpapierdienstleistungsunternehmens Einzelheiten zu Geschäften an die zuständigen Behörden oder die Europäische Wertpapier- und Marktaufsichtsbehörde zu melden.
+(39) Genehmigter Meldemechanismus im Sinne dieses Gesetzes ist ein genehmigter Meldemechanismus im Sinne von Artikel 2 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 600/2014.
 
 (40) Datenbereitstellungsdienst im Sinne dieses Gesetzes ist
 
 1. ein genehmigtes Veröffentlichungssystem,
 
-2. ein Bereitsteller konsolidierter Datenticker oder
-
-3. ein genehmigter Meldemechanismus.
+2. ein genehmigter Meldemechanismus.
 
 (41) Drittlandunternehmen im Sinne dieses Gesetzes ist ein Unternehmen, das ein Wertpapierdienstleistungsunternehmen wäre, wenn es seinen Sitz im Europäischen Wirtschaftsraum hätte.
 
@@ -581,9 +581,9 @@ für jeweils höchstens zehn aufeinander folgende Arbeitstage aussetzen oder geg
 
 (3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, um
 
-1. zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/1238 und der Verordnung (EU) 2020/1503 eingehalten werden, oder
+1. zu überwachen, ob die Verbote oder Gebote dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 600/2014, der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2015/2365, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/1238 eingehalten werden, oder
 
-2. zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 dieses Gesetzes, nach Artikel 42 der Verordnung (EU) Nr. 600/2014 oder nach Artikel 63 der Verordnung (EU) 2019/1238 vorliegen.
+2. zu prüfen, ob die Voraussetzungen für eine Maßnahme nach § 15 dieses Gesetzes, nach Artikel 42 der Verordnung (EU) 600/2014 oder nach Artikel 63 der Verordnung (EU) Nr. 2019/1238 vorliegen.
 
 Sie kann insbesondere folgende Angaben verlangen:
 
@@ -613,19 +613,19 @@ Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschw
 
 5. die Artikel 4 und 15 der Verordnung (EU) 2015/2365 sowie die auf Grundlage des Artikels 4 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
 
-6. Vorschriften der Verordnung (EU) 2016/1011 sowie die auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission oder
+6. Vorschriften der Verordnung (EU) 2016/1011 sowie die auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
 
-6a. (zukünftig Inkraft)
+6a. Vorschriften, auf die in § 120a Absatz 1 und 2 Bezug genommen wird,
 
 6b. die in Artikel 39 Absatz 1 Satz 2 Buchstabe a der Verordnung (EU) 2020/1503 in Bezug genommenen Artikel sowie die auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission oder
 
-7. eine Anordnung der Bundesanstalt, die sich auf eine der in den Nummern 1 bis 6 genannte Vorschrift bezieht,
+7. eine Anordnung der Bundesanstalt, die sich auf eine der in den Nummern 1 bis 6a genannte Vorschrift bezieht,
 
-kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Bei Verstößen gegen die in Satz 1 Nummer 3, 4 genannten Vorschriften sowie gegen Anordnungen der Bundesanstalt, die sich hierauf beziehen, kann sie verlangen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden sowie deren Wiederholung verhindern.
+kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Bei Verstößen gegen die in Satz 1 Nummer 3, 4 und 6a genannten Vorschriften sowie gegen Anordnungen der Bundesanstalt, die sich hierauf beziehen, kann sie verlangen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden sowie deren Wiederholung verhindern.
 
 (7) Die Bundesanstalt kann es einer natürlichen Person, die verantwortlich ist für einen Verstoß gegen die Artikel 14, 15, 16 Absatz 1 und 2, Artikel 17 Absatz 1, 2, 4, 5 und 8, Artikel 18 Absatz 1 bis 6, Artikel 19 Absatz 1 bis 3, 5 bis 7 und 11 sowie Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 oder gegen eine Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, für einen Zeitraum von bis zu zwei Jahren untersagen, Geschäfte für eigene Rechnung in den in Artikel 2 Absatz 1 der Verordnung (EU) Nr. 596/2014 genannten Finanzinstrumenten und Produkten zu tätigen.
 
-(8) Die Bundesanstalt kann einer Person, die bei einem von der Bundesanstalt beaufsichtigten Unternehmen tätig ist, für einen Zeitraum von bis zu zwei Jahren die Ausübung der Berufstätigkeit untersagen, wenn diese Person vorsätzlich gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 4 und 6 genannten Vorschriften oder gegen eine Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, verstoßen hat und dieses Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt. Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 5 genannten Vorschriften oder eine sich auf diese Vorschriften beziehende Anordnung der Bundesanstalt kann die Bundesanstalt einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben untersagen, wenn diese den Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt.
+(8) Die Bundesanstalt kann einer Person, die bei einem von der Bundesanstalt beaufsichtigten Unternehmen tätig ist, für einen Zeitraum von bis zu zwei Jahren die Ausübung der Berufstätigkeit untersagen, wenn diese Person vorsätzlich gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 4 und 6 genannten Vorschriften oder gegen eine Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, verstoßen hat und dieses Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt. Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 5 und 6a genannten Vorschriften oder eine sich auf diese Vorschriften beziehende Anordnung der Bundesanstalt kann die Bundesanstalt einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben untersagen, wenn diese den Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt.
 
 (9) Bei einem Verstoß gegen eine der in Absatz 6 Satz 1 Nummer 1 bis 5 und 6b genannten Vorschriften oder eine vollziehbare Anordnung der Bundesanstalt, die sich auf diese Vorschriften bezieht, kann die Bundesanstalt auf ihrer Internetseite eine Warnung unter Nennung der natürlichen oder juristischen Person oder der Personenvereinigung, die den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen. § 125 Absatz 3 und 5 gilt entsprechend.
 
@@ -993,7 +993,11 @@ eingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monate
 
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 1 sowie über Art und Umfang der Bescheinigungen nach Absatz 3 erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um auf die Einhaltung der in Absatz 1 Satz 1 genannten Pflichten und Anforderungen hinzuwirken und um einheitliche Unterlagen zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz auf die Bundesanstalt übertragen.
 
-# § 32a – (zukünftig in Kraft)
+# § 32a – Zuständigkeit im Sinne der Verordnung (EU) 2019/1238
+
+(1) Die Bundesanstalt ist zuständige Behörde im Sinne von Artikel 2 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung nach den Vorschriften dieses Gesetzes, soweit nicht § 295 Absatz 1 Nummer 7 des Versicherungsaufsichtsgesetzes, § 6 Absatz 1f des Kreditwesengesetzes oder § 5 Absatz 13 des Kapitalanlagegesetzbuchs anzuwenden ist.
+
+(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Bundesanstalt nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 sowie nach Artikel 63 der Verordnung (EG) 2019/1238 haben keine aufschiebende Wirkung.
 
 # § 32b – Zuständigkeit der Bundesanstalt nach der Verordnung (EU) 2020/1503
 
@@ -1527,103 +1531,21 @@ Kunden und deren Kunden bis zum Endkunden haben den zur Übermittlung verpflicht
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-# § 58 – Organisationspflichten für genehmigte Veröffentlichungssysteme
+# § 58 – Hinweisgeberverfahren
 
-(1) Ein genehmigtes Veröffentlichungssystem muss angemessene Grundsätze aufstellen und Vorkehrungen treffen, um mindestens die nachfolgenden Informationen über Geschäfte in Finanzinstrumenten zu angemessenen kaufmännischen Bedingungen und, soweit technisch möglich, auf Echtzeitbasis veröffentlichen zu können:
+Ein Datenbereitstellungsdienst muss über ein Hinweisgeberverfahren in entsprechender Anwendung des § 25a Absatz 1 Satz 6 Nummer 3 des Kreditwesengesetzes verfügen.
 
-1. Kennung des Finanzinstruments;
+# § 59 – Überwachung der Organisationspflichten
 
-2. Kurs, zu dem das Geschäft abgeschlossen wurde;
+Die Bundesanstalt kann zur Überwachung der in § 58 sowie der in Titel IVa der Verordnung (EU) Nr. 600/2014, auch in Verbindung mit delegierten Rechtsakten und Durchführungsrechtsakten auf der Grundlage von Artikel 27g Absatz 6 bis 8 sowie Artikel 27i Absatz 5 dieser Verordnung, geregelten Pflichten, im Rahmen einer Ausnahme gemäß Artikel 2 Absatz 3 dieser Verordnung, bei den Datenbereitstellungsdiensten auch ohne besonderen Anlass Prüfungen vornehmen. § 88 Absatz 3 gilt entsprechend. Hinsichtlich des Umfangs der Prüfungen gilt § 88 Absatz 2 entsprechend. Widerspruch und Anfechtungsklage gegen Maßnahmen nach Satz 1 haben keine aufschiebende Wirkung.
 
-3. Volumen des Geschäfts;
+# § 60 – Prüfung der Organisationspflichten; Verordnungsermächtigung
 
-4. Zeitpunkt des Geschäfts;
-
-5. Zeitpunkt, zu dem das Geschäft gemeldet wurde;
-
-6. Kurszusatz des Geschäfts;
-
-7. Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code „SI“ oder andernfalls den Code „OTC“;
-
-8. sofern anwendbar, einen Hinweis, dass das Geschäft besonderen Bedingungen unterlag.
-
-Die Informationen nach Satz 1 sind spätestens 15 Minuten nach der Veröffentlichung kostenlos zur Verfügung zu stellen.
-
-(2) Ein genehmigtes Veröffentlichungssystem muss die Informationen effizient und konsistent in einer Weise verbreiten, die einen raschen diskriminierungsfreien Zugang zu den betreffenden Informationen sicherstellt. Die Informationen sind in einem Format zu veröffentlichen, das die Konsolidierung der Daten mit vergleichbaren Daten aus anderen Quellen erleichtert.
-
-(3) Ein genehmigtes Veröffentlichungssystem muss organisatorische Vorkehrungen treffen, um Interessenkonflikte mit seinen Kunden zu vermeiden. Insbesondere muss es, wenn es zugleich auch Börsenbetreiber oder Wertpapierdienstleistungsunternehmen ist, alle erhobenen Informationen in nichtdiskriminierender Weise behandeln und auf Dauer geeignete Vorkehrungen treffen, um diese unterschiedlichen Unternehmensfunktionen voneinander zu trennen.
-
-(4) Ein genehmigtes Veröffentlichungssystem muss Mechanismen einrichten, die die Sicherheit der Informationsübermittlungswege gewährleisten, das Risiko der unbefugten Datenveränderung und des unberechtigten Zugriffs minimieren und ein Bekanntwerden noch nicht veröffentlichter Informationen verhindern. Es muss über ausreichende Mittel und Notfallsysteme verfügen, um seine Dienste jederzeit anbieten und aufrechterhalten zu können.
-
-(5) Ein genehmigtes Veröffentlichungssystem muss über wirksame Mechanismen verfügen, um die zu veröffentlichenden Informationen auf Vollständigkeit prüfen zu können, Lücken und offensichtliche Fehler zu erkennen und es zu ermöglichen, bei fehlerhaften Auskünften eine Neuübermittlung anfordern zu können.
-
-(6) Ein genehmigtes Veröffentlichungssystem muss über ein Hinweisgeberverfahren in entsprechender Anwendung von § 25a Absatz 1 Satz 6 Nummer 3 des Kreditwesengesetzes verfügen.
-
-(7) Näheres zu den Organisationspflichten nach den Absätzen 1 bis 6 regelt die Delegierte Verordnung (EU) 2017/571 der Kommission vom 2. Juni 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Zulassung, die organisatorischen Anforderungen und die Veröffentlichung von Geschäften für Datenbereitstellungsdienste (ABl. L 87 vom 31.3.2017, S. 126), in der jeweils geltenden Fassung.
-
-# § 59 – Organisationspflichten für Bereitsteller konsolidierter Datenticker
-
-(1) Ein Bereitsteller konsolidierter Datenticker ist dazu verpflichtet, die bereitgestellten Daten von allen Handelsplätzen und genehmigten Veröffentlichungssystemen zu konsolidieren. Er muss angemessene Grundsätze aufstellen und Vorkehrungen treffen, um mindestens die folgenden Informationen über Geschäfte in Finanzinstrumenten zu erheben, zu einem kontinuierlichen elektronischen Datenstrom zu konsolidieren und diesen der Öffentlichkeit zu angemessenen kaufmännischen Bedingungen und, soweit technisch möglich, auf Echtzeitbasis zur Verfügung zu stellen:
-
-1. Kennung des Finanzinstruments;
-
-2. Kurs, zu dem das Geschäft abgeschlossen wurde;
-
-3. Volumen des Geschäfts;
-
-4. Zeitpunkt des Geschäfts;
-
-5. Zeitpunkt, zu dem das Geschäft gemeldet wurde;
-
-6. Kurszusatz des Geschäfts;
-
-7. den Code für den Handelsplatz, an dem das Geschäft ausgeführt wurde, oder, wenn das Geschäft über einen systematischen Internalisierer ausgeführt wurde, den Code „SI“ oder andernfalls den Code „OTC“;
-
-8. sofern anwendbar, einen Hinweis, dass die Anlageentscheidung und Ausführung des Geschäfts durch das Wertpapierdienstleistungsunternehmen auf einem Computeralgorithmus beruhte;
-
-9. sofern anwendbar, einen Hinweis, dass das Geschäft besonderen Bedingungen unterlag;
-
-10. falls für die Pflicht zur Veröffentlichung der Informationen gemäß Artikel 3 Absatz 1 der Verordnung (EU) Nr. 600/2014 eine Ausnahme gemäß Artikel 4 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 600/2014 gewährt wurde, eine Kennzeichnung dieser Ausnahme.
-
-Die Informationen nach Satz 2 sind binnen 15 Minuten nach der Veröffentlichung kostenlos zur Verfügung zu stellen.
-
-(2) Ein Bereitsteller konsolidierter Datenticker muss die Informationen nach Absatz 1 effizient und konsistent in einer Weise verbreiten, die einen raschen diskriminierungsfreien Zugang zu den betreffenden Informationen sicherstellt. Die Informationen sind in einem Format zu veröffentlichen, das für die Marktteilnehmer leicht zugänglich und nutzbar ist.
-
-(3) Ein Bereitsteller konsolidierter Datenticker muss organisatorische Vorkehrungen treffen, um Interessenkonflikte mit seinen Kunden zu vermeiden. Insbesondere muss er, wenn er zugleich auch ein Börsenbetreiber oder ein genehmigtes Veröffentlichungssystem ist, alle erhobenen Informationen in nichtdiskriminierender Weise behandeln und auf Dauer geeignete Vorkehrungen treffen, um die unterschiedlichen Unternehmensfunktionen voneinander zu trennen.
-
-(4) Ein Bereitsteller konsolidierter Datenticker muss Mechanismen einrichten, die die Sicherheit der Informationsübermittlungswege gewährleisten und das Risiko der unbefugten Datenveränderung und des unberechtigten Zugriffs minimieren. Es muss über ausreichende Mittel und über Notfallsysteme verfügen, um seine Dienste jederzeit anbieten und aufrechterhalten zu können.
-
-(5) Ein Bereitsteller muss über ein Hinweisgeberverfahren in entsprechender Anwendung des § 25a Absatz 1 Satz 6 Nummer 3 des Kreditwesengesetzes verfügen.
-
-(6) Näheres zu den Organisationspflichten nach den Absätzen 1 bis 5 regelt die Delegierte Verordnung (EU) 2017/571.
-
-# § 60 – Organisationspflichten für genehmigte Meldemechanismen
-
-(1) Ein genehmigter Meldemechanismus muss angemessene Grundsätze aufstellen und Vorkehrungen treffen, um die nach Artikel 26 der Verordnung (EU) Nr. 600/2014 zu meldenden Informationen für die meldepflichtigen Wertpapierdienstleistungsunternehmen so schnell wie möglich, spätestens jedoch bei Geschäftsschluss des auf den Vertragsabschluss des Geschäfts über das Finanzinstrument folgenden Arbeitstages, zu melden. Näheres zur Meldung dieser Informationen regelt Artikel 26 der Verordnung (EU) Nr. 600/2014.
-
-(2) Ein genehmigter Meldemechanismus muss organisatorische Vorkehrungen treffen, um Interessenkonflikte mit seinen Kunden zu vermeiden. Insbesondere muss er, wenn er zugleich auch Börsenbetreiber oder ein Wertpapierdienstleistungsunternehmen ist, alle erhobenen Informationen in nichtdiskriminierender Weise behandeln und auf Dauer geeignete Vorkehrungen treffen, um die unterschiedlichen Unternehmensfunktionen voneinander zu trennen.
-
-(3) Ein genehmigter Meldemechanismus muss wirksame Mechanismen einrichten, die die Sicherheit der Informationsübermittlungswege gewährleisten, um das Risiko der unbefugten Datenveränderung und des unberechtigten Zugriffs zu minimieren und ein Bekanntwerden noch nicht veröffentlichter Informationen zu verhindern. Er muss über ausreichende Mittel und Notfallsysteme verfügen, um seine Dienste jederzeit anbieten und aufrechterhalten zu können.
-
-(4) Ein genehmigter Meldemechanismus muss Vorkehrungen treffen, um
-
-1. die Meldungen von Geschäften auf Vollständigkeit prüfen zu können, durch das Wertpapierdienstleistungsunternehmen verschuldete Lücken und offensichtliche Fehler zu erkennen und diesem in diesen Fällen genaue Angaben hierzu zu übermitteln und eine Neuübermittlung anzufordern und
-
-2. selbst verschuldete Fehler oder Lücken zu erkennen, diese zu berichtigen und der Bundesanstalt korrigierte und vollständige Meldungen der Geschäfte zu übermitteln.
-
-(5) Ein genehmigter Meldemechanismus muss über ein Hinweisgeberverfahren in entsprechender Anwendung des § 25a Absatz 1 Satz 6 Nummer 3 des Kreditwesengesetzes verfügen.
-
-(6) Das Nähere zu den Organisationspflichten nach den Absätzen 1 bis 5 regelt die Delegierte Verordnung (EU) 2017/571.
-
-# § 61 – Überwachung der Organisationspflichten
-
-Die Bundesanstalt kann zur Überwachung der in diesem Abschnitt geregelten Pflichten bei den Datenbereitstellungsdiensten auch ohne besonderen Anlass Prüfungen vornehmen. § 88 Absatz 3 gilt entsprechend. Hinsichtlich des Umfangs der Prüfungen gilt § 88 Absatz 2 entsprechend. Widerspruch und Anfechtungsklage gegen Maßnahmen nach Satz 1 haben keine aufschiebende Wirkung.
-
-# § 62 – Prüfung der Organisationspflichten; Verordnungsermächtigung
-
-(1) Unbeschadet des § 61 ist die Einhaltung der in diesem Abschnitt geregelten Pflichten sowie der sich aus der Delegierten Verordnung (EU) 2017/565, der Delegierten Verordnung (EU) 2017/571 und der gemäß Artikel 61 Absatz 5 der Richtlinie 2014/65/EU erlassenen Durchführungsverordnung, in der jeweils geltenden Fassung, ergebenden Pflichten einmal jährlich durch einen geeigneten Prüfer zu prüfen. § 89 Absatz 1 Satz 4 und 6, Absatz 2 Satz 1 und 2, Absatz 3 und 4 gilt entsprechend.
+(1) Unbeschadet des § 59 ist die Einhaltung der in § 58 sowie der in Titel IVa der Verordnung (EU) Nr. 600/2014, auch in Verbindung mit delegierten Rechtsakten und Durchführungsrechtsakten auf der Grundlage von Artikel 27g Absatz 6 bis 8 sowie Artikel 27i Absatz 5 dieser Verordnung, geregelten Pflichten einmal jährlich durch einen geeigneten Prüfer zu prüfen. § 89 Absatz 1 Satz 4 und 6, Absatz 2 Satz 1 und 2, Absatz 3 und 4 gilt entsprechend.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 1 sowie den Inhalt der Prüfungsberichte erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+# §§ 61 und 62 – (weggefallen)
 
 # § 63 – Allgemeine Verhaltensregeln; Verordnungsermächtigung
 
@@ -2253,7 +2175,7 @@ Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel betreibt, m
 
 (5) Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel betreibt, verfolgt eine Market-Making-Strategie im Sinne des Absatzes 4, wenn es Mitglied oder Teilnehmer eines oder mehrerer Handelsplätze ist und seine Strategie beim Handel auf eigene Rechnung beinhaltet, dass es in Bezug auf ein oder mehrere Finanzinstrumente an einem einzelnen Handelsplatz oder an verschiedenen Handelsplätzen feste, zeitgleiche Geld- und Briefkurse vergleichbarer Höhe zu wettbewerbsfähigen Preisen stellt.
 
-(6) Ein Wertpapierdienstleistungsunternehmen muss bei einer Auslagerung von Aktivitäten und Prozessen sowie von Finanzdienstleistungen die Anforderungen nach § 25b des Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut handelt, nach den §§ 40 und 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes einhalten. Die Auslagerung darf nicht die Rechtsverhältnisse des Unternehmens zu seinen Kunden und seine Pflichten, die nach diesem Abschnitt gegenüber den Kunden bestehen, verändern. Die Auslagerung darf die Voraussetzungen, unter denen dem Wertpapierdienstleistungsunternehmen eine Erlaubnis nach § 32 des Kreditwesengesetzes oder nach § 15 des Wertpapierinstitutsgesetzes erteilt worden ist, nicht verändern. Nähere Bestimmungen zu den Anforderungen an die Auslagerung ergeben sich aus den Artikeln 30 bis 32 der Delegierten Verordnung (EU) 2017/565.
+(6) Ein Wertpapierdienstleistungsunternehmen muss bei einer Auslagerung von Aktivitäten und Prozessen sowie von Finanzdienstleistungen die Anforderungen nach § 24 Absatz 1 Nummer 19, auch in Verbindung mit einer Rechtsverordnung nach Absatz 4, und nach § 25b des Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut handelt, nach den §§ 40 und 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes einhalten. Die Auslagerung darf nicht die Rechtsverhältnisse des Unternehmens zu seinen Kunden und seine Pflichten, die nach diesem Abschnitt gegenüber den Kunden bestehen, verändern. Die Auslagerung darf die Voraussetzungen, unter denen dem Wertpapierdienstleistungsunternehmen eine Erlaubnis nach § 32 des Kreditwesengesetzes oder nach § 15 des Wertpapierinstitutsgesetzes erteilt worden ist, nicht verändern. Nähere Bestimmungen zu den Anforderungen an die Auslagerung ergeben sich aus den Artikeln 30 bis 32 der Delegierten Verordnung (EU) 2017/565.
 
 (7) Ein Wertpapierdienstleistungsunternehmen darf die Anlageberatung nur dann als Unabhängige Honorar-Anlageberatung erbringen, wenn es ausschließlich Unabhängige Honorar-Anlageberatung erbringt oder wenn es die Unabhängige Honorar-Anlageberatung organisatorisch, funktional und personell von der übrigen Anlageberatung trennt. Wertpapierdienstleistungsunternehmen müssen Vertriebsvorgaben im Sinne des Absatzes 1 Nummer 3 für die Unabhängige Honorar-Anlageberatung so ausgestalten, dass in keinem Falle Interessenkonflikte mit Kundeninteressen entstehen können. Ein Wertpapierdienstleistungsunternehmen, das Unabhängige Honorar-Anlageberatung erbringt, muss auf seiner Internetseite angeben, ob die Unabhängige Honorar-Anlageberatung in der Hauptniederlassung und in welchen inländischen Zweigniederlassungen angeboten wird.
 
@@ -2767,7 +2689,7 @@ Die Bundesanstalt kann Handelsteilnehmern mit Sitz im Inland, die Wertpapierdien
 
 # § 106 – Prüfung von Unternehmensabschlüssen und -berichten
 
-Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts und vorbehaltlich § 342b Absatz 2 Satz 3 Nummer 1 und 3 des Handelsgesetzbuchs zu prüfen, ob folgende Abschlüsse und Berichte, jeweils einschließlich der zugrunde liegenden Buchführung, von Unternehmen, für die als Emittenten von zugelassenen Wertpapieren die Bundesrepublik Deutschland der Herkunftsstaat ist, den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entsprechen:
+Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts zu prüfen, ob folgende Abschlüsse und Berichte, jeweils einschließlich der zugrunde liegenden Buchführung, von Unternehmen, für die als Emittenten von zugelassenen Wertpapieren die Bundesrepublik Deutschland der Herkunftsstaat ist, den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entsprechen:
 
 1. festgestellte Jahresabschlüsse und zugehörige Lageberichte, offengelegte Jahresabschlüsse und zugehörige Lageberichte, offengelegte Einzelabschlüsse nach § 325 Absatz 2a des Handelsgesetzbuchs und zugehörige Lageberichte, gebilligte Konzernabschlüsse und zugehörige Konzernlageberichte oder offengelegte Konzernabschlüsse und zugehörige Konzernlageberichte,
 
@@ -2777,7 +2699,7 @@ Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts und v
 
 # § 107 – Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
 
-(1) Die Bundesanstalt ordnet eine Prüfung der Rechnungslegung an, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Anordnung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass anordnen (stichprobenartige Prüfung). Der Umfang der einzelnen Prüfung soll in der Prüfungsanordnung festgelegt werden. Geprüft werden nur folgende Abschlüsse und Berichte:
+(1) Die Bundesanstalt ordnet eine Prüfung der Rechnungslegung an, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Anordnung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch dann anordnen, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes, nach § 14 Satz 2 des Kapitalanlagegesetzbuchs oder nach § 306 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder durchgeführt hat und die Prüfungen denselben Gegenstand betreffen. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass anordnen (stichprobenartige Prüfung). Der Umfang der einzelnen Prüfung soll in der Prüfungsanordnung festgelegt werden. Geprüft werden nur folgende Abschlüsse und Berichte:
 
 1. der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht,
 
@@ -2793,65 +2715,91 @@ Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts und v
 
 7. der zuletzt veröffentlichte Zahlungsbericht oder Konzernzahlungsbericht.
 
-Unbeschadet dessen darf die Bundesanstalt im Fall des § 108 Absatz 1 Satz 2 den Abschluss prüfen, der Gegenstand der Prüfung durch die Prüfstelle im Sinne des § 342b Absatz 1 des Handelsgesetzbuchs (Prüfstelle) gewesen ist. Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, nachdem sie von der Prüfstelle einen Bericht gemäß § 108 Absatz 1 Satz 2 Nummer 1 erhalten hat, so kann sie ihre Anordnung und den Grund nach § 108 Absatz 1 Satz 2 Nummer 1 im Bundesanzeiger bekannt machen. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht.
+Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann sie ihre Anordnung unter Nennung des betroffenen Unternehmens und den Grund für die Anordnung im Bundesanzeiger und auf ihrer Internetseite bekannt machen, soweit hieran ein öffentliches Interesse besteht. Die Bekanntmachung des Grunds für die Anordnung darf keine personenbezogenen Daten enthalten. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht.
 
-(2) Prüfungsgegenstand nach Absatz 1 können auch die Abschlüsse und Berichte sein, die dasjenige Geschäftsjahr zum Gegenstand haben, das demjenigen Geschäftsjahr vorausgeht, auf das Absatz 1 Satz 4 Bezug nimmt. Eine stichprobenartige Prüfung ist hierbei nicht zulässig.
+(2) Prüfungsgegenstand können auch die Abschlüsse und Berichte sein, die die beiden Geschäftsjahre zum Gegenstand haben, die dem Geschäftsjahr vorausgehen, auf das Absatz 1 Satz 5 Bezug nimmt; eine stichprobenartige Prüfung ist hierbei nicht zulässig.
 
 (3) Eine Prüfung des Jahresabschlusses und des zugehörigen Lageberichts durch die Bundesanstalt findet nicht statt, solange eine Klage auf Nichtigkeit gemäß § 256 Abs. 7 des Aktiengesetzes anhängig ist. Wenn nach § 142 Abs. 1 oder Abs. 2 oder § 258 Abs. 1 des Aktiengesetzes ein Sonderprüfer bestellt worden ist, findet eine Prüfung ebenfalls nicht statt, soweit der Gegenstand der Sonderprüfung, der Prüfungsbericht oder eine gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer nach § 260 des Aktiengesetzes reichen.
 
-(4) Bei der Durchführung der Prüfung kann sich die Bundesanstalt der Prüfstelle sowie anderer Einrichtungen und Personen bedienen.
+(4) Bei der Durchführung der Prüfung kann sich die Bundesanstalt anderer Einrichtungen und Personen bedienen. Die Bundesanstalt darf anderen Einrichtungen und Personen, derer sie sich nach Satz 1 bedient, Informationen übermitteln, auch wenn diese unter gesetzliche Verschwiegenheitspflichten fallen, soweit die Einrichtungen oder Personen die Informationen zur Durchführung der ihnen nach Satz 1 im Rahmen einer Prüfung übertragenen Aufgaben benötigen. Vor Übermittlung der Informationen anonymisiert die Bundesanstalt darin enthaltene personenbezogene Daten, soweit sie für die Durchführung der übertragenen Aufgaben nicht zwingend erforderlich sind. Die Einrichtungen oder Personen haben ihnen übermittelte personenbezogene Daten spätestens nach Abschluss ihrer übertragenen Aufgaben zu löschen.
 
-(5) Das Unternehmen im Sinne des § 106, die Mitglieder seiner Organe, seine Beschäftigten sowie seine Abschlussprüfer haben der Bundesanstalt und den Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur Prüfung erforderlich ist; die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Satz 1 gilt auch für die nach den Vorschriften des Handelsgesetzbuchs in den Konzernabschluss einzubeziehenden Tochterunternehmen. Für das Recht zur Auskunftsverweigerung und die Belehrungspflicht gilt § 6 Absatz 15 entsprechend.
+(5) Soweit dies zur Wahrnehmung der Aufgaben nach § 106 erforderlich ist, können die Bundesanstalt und die Personen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, von dem geprüften Unternehmen, von den Mitgliedern seiner Organe, von seinen Beschäftigten sowie von seinen Abschlussprüfern Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen. Die Bundesanstalt kann die nach Satz 1 Verpflichteten laden und vernehmen. Die Sätze 1 und 2 gelten auch für die nach den Vorschriften des Handelsgesetzbuchs in den Konzernabschluss einzubeziehenden Tochterunternehmen. Die Befugnisse nach den Sätzen 1 und 2 gelten gegenüber jedermann, wenn die Voraussetzungen des Absatzes 1 Satz 1 vorliegen. Soweit im Rahmen von Auskunfts- oder Vorlageverlangen nach Satz 1, auch in Verbindung mit den Sätzen 3 oder 4, oder im Rahmen von Vernehmungen nach Satz 2, auch in Verbindung mit den Sätzen 3 oder 4, erforderlich, haben die ersuchten Unternehmen oder Personen auch personenbezogene Daten gegenüber der Bundesanstalt oder den Personen offenzulegen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient. Die Auskunftspflicht der Abschlussprüfer beschränkt sich auf Tatsachen, die ihnen im Rahmen der Abschlussprüfung bekannt geworden sind. Für das Recht zur Auskunftsverweigerung oder Aussageverweigerung sowie die Belehrungspflicht gilt § 6 Absatz 15 entsprechend.
 
 (6) Die zur Auskunft und Vorlage von Unterlagen nach Absatz 5 Verpflichteten haben den Bediensteten der Bundesanstalt oder den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, während der üblichen Arbeitszeit das Betreten ihrer Grundstücke und Geschäftsräume zu gestatten. § 6 Absatz 11 Satz 2 gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-# § 108 – Befugnisse der Bundesanstalt im Falle der Anerkennung einer Prüfstelle
+(7) Bedienstete der Bundesanstalt dürfen Geschäfts- und Wohnräume durchsuchen, wenn dies zur Wahrnehmung der Aufgaben nach § 106 erforderlich ist und konkrete Anhaltspunkte für einen erheblichen Verstoß gegen Rechnungslegungsvorschriften vorliegen. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt. § 105 Absatz 2 der Strafprozessordnung gilt entsprechend. Im Rahmen der Durchsuchung dürfen Bedienstete der Bundesanstalt Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, können Bedienstete der Bundesanstalt die Gegenstände beschlagnahmen. Durchsuchungen und Beschlagnahmen sind, außer bei Gefahr im Verzug, durch einen Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne gerichtliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte gerichtliche Entscheidung ist das Amtsgericht Frankfurt am Main. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis enthalten.
 
-(1) Ist nach § 342b Abs. 1 des Handelsgesetzbuchs eine Prüfstelle anerkannt, so finden stichprobenartige Prüfungen nur auf Veranlassung der Prüfstelle statt. Im Übrigen stehen der Bundesanstalt die Befugnisse nach § 107 erst zu, wenn
+(8) Die Bundesanstalt kann auf ihrer Internetseite wesentliche Verfahrensschritte und im Laufe des Verfahrens gewonnene Erkenntnisse im Zusammenhang mit der Rechnungslegung unter Nennung des betroffenen Unternehmens bekannt machen, soweit hieran ein öffentliches Interesse besteht. Die Bekanntmachung der Verfahrensschritte und Erkenntnisse darf keine personenbezogenen Daten enthalten.
 
-1. ihr die Prüfstelle berichtet, dass ein Unternehmen seine Mitwirkung bei einer Prüfung verweigert oder mit dem Ergebnis der Prüfung nicht einverstanden ist, oder
+(9) Die Bundesanstalt löscht die nach Absatz 1 Satz 6 und Absatz 8 auf ihrer Internetseite bekannt gemachten Informationen zehn Jahre nach der Bekanntmachung.
 
-2. erhebliche Zweifel an der Richtigkeit des Prüfungsergebnisses der Prüfstelle oder an der ordnungsgemäßen Durchführung der Prüfung durch die Prüfstelle bestehen.
+# § 108 – (weggefallen)
 
-Auf Verlangen der Bundesanstalt hat die Prüfstelle das Ergebnis und die Durchführung der Prüfung zu erläutern und einen Prüfbericht vorzulegen. Unbeschadet von Satz 2 kann die Bundesanstalt die Prüfung jederzeit an sich ziehen, wenn sie auch eine Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes, § 14 Satz 2 des Kapitalanlagegesetzbuchs oder § 306 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder durchgeführt hat und die Prüfungen denselben Gegenstand betreffen.
+# § 109 – Ergebnis der Prüfung der Bundesanstalt
 
-(2) Die Bundesanstalt kann von der Prüfstelle unter den Voraussetzungen des § 107 Absatz 1 Satz 1 die Einleitung einer Prüfung verlangen.
+(1) Ergibt die Prüfung durch die Bundesanstalt, dass die Rechnungslegung fehlerhaft ist, so stellt die Bundesanstalt den Fehler fest. Die Bundesanstalt kann darüber hinaus feststellen, wie sich die Rechnungslegung ohne den Fehler dargestellt hätte.
 
-(3) Die Bundesanstalt setzt die Prüfstelle von Mitteilungen nach § 142 Abs. 7, § 256 Abs. 7 Satz 2 und § 261a des Aktiengesetzes in Kenntnis, wenn die Prüfstelle die Prüfung eines von der Mitteilung betroffenen Unternehmens beabsichtigt oder eingeleitet hat.
+(2) Die Bundesanstalt macht den festgestellten Fehler samt einer Feststellung nach Absatz 1 Satz 2 unter Nennung des betroffenen Unternehmens samt den wesentlichen Teilen der Begründung unverzüglich bekannt
 
-# § 109 – Ergebnis der Prüfung von Bundesanstalt oder Prüfstelle
+1. auf ihrer Internetseite,
 
-(1) Ergibt die Prüfung durch die Bundesanstalt, dass die Rechnungslegung fehlerhaft ist, so stellt die Bundesanstalt den Fehler fest.
+2. im Bundesanzeiger sowie
 
-(2) Die Bundesanstalt ordnet an, dass das Unternehmen den von der Bundesanstalt oder den von der Prüfstelle im Einvernehmen mit dem Unternehmen festgestellten Fehler samt den wesentlichen Teilen der Begründung der Feststellung bekannt zu machen hat. Die Bundesanstalt sieht von einer Anordnung nach Satz 1 ab, wenn kein öffentliches Interesse an der Veröffentlichung besteht. Auf Antrag des Unternehmens kann die Bundesanstalt von einer Anordnung nach Satz 1 absehen, wenn die Veröffentlichung geeignet ist, den berechtigten Interessen des Unternehmens zu schaden. Die Bekanntmachung hat unverzüglich im Bundesanzeiger sowie entweder in einem überregionalen Börsenpflichtblatt oder über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, nach § 53 Abs. 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist, zu erfolgen.
+3. in einem überregionalen Börsenpflichtblatt oder über ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, bei nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und bei Versicherungsunternehmen weit verbreitet ist.
 
-(3) Ergibt die Prüfung durch die Bundesanstalt keine Beanstandungen, so teilt die Bundesanstalt dies dem Unternehmen mit.
+Die Bekanntmachung der Begründung darf keine personenbezogenen Daten enthalten. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn hieran kein öffentliches Interesse besteht. Die Bundesanstalt kann im Einklang mit den materiellen Rechnungslegungsvorschriften anordnen, dass der Fehler unter Berücksichtigung der Rechtsauffassung der Bundesanstalt unter Neuaufstellung des Abschlusses oder Berichts für das geprüfte Geschäftsjahr oder im nächsten Abschluss oder Bericht zu berichtigen ist. Behebt das Unternehmen den nach Satz 1 bekannt gemachten Fehler, macht die Bundesanstalt dies auf die dort genannte Weise ebenfalls bekannt.
+
+(3) Ergibt die Prüfung durch die Bundesanstalt keine Beanstandungen, so teilt die Bundesanstalt dies dem Unternehmen mit. Die Bundesanstalt macht das Prüfungsergebnis gemäß Absatz 2 Satz 1 bekannt, wenn sie zuvor die Prüfung bekannt gemacht hat.
+
+(4) Die Bundesanstalt löscht die nach Absatz 2 Satz 1 und 5 sowie nach Absatz 3 Satz 2 auf ihrer Internetseite bekannt gemachten Informationen zehn Jahre nach ihrer Bekanntmachung.
+
+# § 109a – Informationsaustausch, Befreiung von Verschwiegenheitspflichten
+
+(1) Soweit
+
+1. der Bundesanstalt,
+
+2. der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschafts- und Ausfuhrkontrolle,
+
+3. dem Bundesministerium der Finanzen,
+
+4. dem Bundesministerium der Justiz und für Verbraucherschutz oder
+
+5. dem Bundesministerium für Wirtschaft und Energie
+
+im Rahmen der Wahrnehmung ihrer gesetzlichen Aufgaben Informationen, Tatsachen oder Bewertungen bekannt werden, die von der Bundesanstalt durchgeführte Prüfungen oder die Rechnungslegung von nach § 106 zu prüfenden Unternehmen betreffen, dürfen die genannten Behörden und Stellen diese Informationen untereinander austauschen und im dazu erforderlichen Umfang auch personenbezogene Daten untereinander offenlegen. Die empfangende Behörde oder Stelle darf ihr nach Satz 1 übermittelte personenbezogene Daten speichern und verwenden, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
+
+(2) Im Rahmen eines Informationsaustauschs nach Absatz 1 unterliegen die austauschenden Stellen untereinander keinen gesetzlichen Verschwiegenheits- oder Geheimhaltungsflichten.
 
 # § 110 – Mitteilungen an andere Stellen
 
-(1) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde anzuzeigen. Sie darf diesen Behörden personenbezogene Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, übermitteln.
+(1) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde anzuzeigen. Sie darf diesen Behörden personenbezogene Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, übermitteln. Die Befugnisse der Bundesanstalt nach § 107 bleiben von Maßnahmen der zuständigen Strafverfolgungsbehörden unberührt, soweit dies zur Prüfung der Rechnungslegung erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist. Vor Ausübung der Befugnisse nach § 107 setzt die Bundesanstalt die zuständige Strafverfolgungsbehörde in Kenntnis und stellt Einvernehmen über das Vorliegen der Voraussetzungen nach Satz 3 her.
 
-(2) Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt die Bundesanstalt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle. Tatsachen, die auf das Vorliegen eines Verstoßes des Unternehmens gegen börsenrechtliche Vorschriften schließen lassen, übermittelt sie der zuständigen Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
+(2) Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen oder konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften begründen, übermittelt die Bundesanstalt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle. Tatsachen, die auf das Vorliegen eines Verstoßes des Unternehmens gegen börsenrechtliche Vorschriften schließen lassen, übermittelt sie der zuständigen Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
 
 # § 111 – Internationale Zusammenarbeit
 
 (1) Der Bundesanstalt obliegt die Zusammenarbeit mit den Stellen im Ausland, die zuständig sind für die Untersuchung möglicher Verstöße gegen Rechnungslegungsvorschriften durch Unternehmen, deren Wertpapiere zum Handel an einem organisierten Markt zugelassen sind. Sie kann diesen Stellen zur Erfüllung dieser Aufgabe Informationen nach Maßgabe des § 18 Absatz 2 Satz 1 und 2, auch in Verbindung mit Absatz 10 übermitteln. § 107 Absatz 5 und 6 findet mit der Maßgabe entsprechende Anwendung, dass die dort geregelten Befugnisse sich auf alle Unternehmen, die von der Zusammenarbeit nach Satz 1 umfasst sind, sowie auf alle Unternehmen, die in den Konzernabschluss eines solchen Unternehmens einbezogen sind, erstrecken.
 
-(2) Die Bundesanstalt kann mit den zuständigen Stellen von Mitgliedstaaten der Europäischen Union oder von Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammenarbeiten, um eine einheitliche Durchsetzung internationaler Rechnungslegungsvorschriften grenzüberschreitend gewährleisten zu können. Dazu kann sie diesen Stellen auch den Wortlaut von Entscheidungen zur Verfügung stellen, die sie oder die Prüfstelle in Einzelfällen getroffen haben. Der Wortlaut der Entscheidungen darf nur in anonymisierter Form zur Verfügung gestellt werden.
+(2) Die Bundesanstalt kann mit den zuständigen Stellen von Mitgliedstaaten der Europäischen Union oder von Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammenarbeiten, um eine einheitliche Durchsetzung internationaler Rechnungslegungsvorschriften grenzüberschreitend gewährleisten zu können. Dazu kann sie diesen Stellen auch den Wortlaut von Entscheidungen zur Verfügung stellen, die sie in Einzelfällen getroffen hat. Der Wortlaut der Entscheidungen darf den zuständigen Stellen auch zur Veröffentlichung zur Verfügung gestellt werden. Der Wortlaut der Entscheidungen darf nur in anonymisierter Form zur Verfügung gestellt werden.
 
-(3) Die internationale Zusammenarbeit durch die Bundesanstalt nach den Absätzen 1 und 2 erfolgt im Benehmen mit der Prüfstelle.
+(3) (weggefallen)
 
 # § 112 – Widerspruchsverfahren
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und Zweckmäßigkeit der Verfügungen, welche die Bundesanstalt nach den Vorschriften dieses Abschnitts erlässt, in einem Widerspruchsverfahren nachzuprüfen. Einer solchen Nachprüfung bedarf es nicht, wenn der Abhilfebescheid oder der Widerspruchsbescheid erstmalig eine Beschwer enthält. Für das Widerspruchsverfahren gelten die §§ 68 bis 73 und 80 Abs. 1 der Verwaltungsgerichtsordnung entsprechend, soweit in diesem Abschnitt nichts Abweichendes geregelt ist.
 
-(2) Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 107 Absatz 1 Satz 1, 2 und 6 sowie Absatz 5 und 6, § 108 Absatz 1 Satz 3 und 4, Absatz 2 und § 109 Absatz 1 und 2 Satz 1 einschließlich der Androhung und der Festsetzung von Zwangsmitteln hat keine aufschiebende Wirkung.
+(2) Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 107 Absatz 1 Satz 1, 2 und 6 sowie Absatz 5 bis 8 sowie § 109 Absatz 1 und 2 Satz 1 und 4 einschließlich der Androhung und der Festsetzung von Zwangsmitteln hat keine aufschiebende Wirkung.
 
 # § 113 – Beschwerde
 
 (1) Gegen Verfügungen der Bundesanstalt nach diesem Abschnitt ist die Beschwerde statthaft. Die Beschwerde hat keine aufschiebende Wirkung.
 
 (2) Die §§ 43 und 48 Abs. 2 bis 4, § 50 Abs. 3 bis 5 sowie die §§ 51 bis 58 des Wertpapiererwerbs- und Übernahmegesetzes gelten entsprechend.
+
+# § 113a – Evaluierung
+
+Das Bundesministerium der Finanzen berichtet den gesetzgebenden Körperschaften zum 1. Januar 2027 über die Erfahrungen mit den Regelungen von Abschnitt 16 Unterabschnitt 1 in der am 1. Januar 2022 in Kraft getretenen Fassung.
 
 # § 114 – Jahresfinanzbericht; Verordnungsermächtigung
 
@@ -3007,6 +2955,18 @@ b) entgegen Artikel 39 Buchstabe b die Einstellung, Änderung oder Zurückziehun
 
 (7) Handelt der Täter in den Fällen des Absatzes 2 Nummer 1 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
+# § 119a – Strafvorschriften
+
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
+
+1. entgegen § 114 Absatz 2 Nummer 3 oder § 115 Absatz 2 Nummer 3, jeweils in Verbindung mit § 264 Absatz 2 Satz 3 oder § 289 Absatz 1 Satz 5 des Handelsgesetzbuchs, oder
+
+2. entgegen § 117 Nummer 1 in Verbindung mit § 297 Absatz 2 Satz 4 oder § 315 Absatz 1 Satz 5 des Handelsgesetzbuchs
+
+eine unrichtige Versicherung abgibt.
+
+(2) Handelt der Täter leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
+
 # § 120 – Bußgeldvorschriften; Verordnungsermächtigung
 
 (1) Ordnungswidrig handelt, wer
@@ -3100,6 +3060,8 @@ eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht in der vo
 13. entgegen § 48 Absatz 1 Nummer 4, auch in Verbindung mit § 48 Absatz 3, nicht sicherstellt, dass eine dort genannte Stelle bestimmt ist,
 
 14. entgegen § 86 Absatz 1 Satz 1, 5 oder 6 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+14a. einer vollziehbaren Anordnung nach § 107 Absatz 5 Satz 1 oder § 109 Absatz 2 Satz 4 zuwiderhandelt,
 
 15. entgegen § 114 Absatz 1 Satz 4, § 115 Absatz 1 Satz 4, jeweils auch in Verbindung mit § 117, einen Jahresfinanzbericht einschließlich der Erklärung gemäß § 114 Absatz 2 Nummer 3 und der Eintragungsbescheinigung oder Bestätigung gemäß § 114 Absatz 2 Nummer 4 oder einen Halbjahresfinanzbericht einschließlich der Erklärung gemäß § 115 Absatz 2 Nummer 3 oder entgegen § 116 Absatz 2 Satz 3 einen Zahlungs- oder Konzernzahlungsbericht nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt oder
 
@@ -3195,39 +3157,7 @@ b) entgegen § 22 Absatz 2 Satz 2 dort genannte Mittel nicht vorhält oder dort 
 
 <!-- -->
 
- 10. entgegen § 58 Absatz 1 Satz 1 nicht über die dort genannten Grundsätze und Vorkehrungen verfügt,
-
- 11. entgegen § 58 Absatz 2 Satz 1 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
-
- 12. entgegen § 58 Absatz 2 Satz 2 nicht in der Lage ist, Informationen in der vorgeschriebenen Weise zu verbreiten,
-
- 13. entgegen § 58 Absatz 3 Satz 1 nicht die dort genannten Vorkehrungen trifft,
-
- 14. entgegen § 58 Absatz 3 Satz 2, § 59 Absatz 3 Satz 2 oder § 60 Absatz 2 Satz 2 Informationen in diskriminierender Weise behandelt oder keine geeigneten Vorkehrungen zur Trennung unterschiedlicher Unternehmensfunktionen trifft,
-
- 15. entgegen § 58 Absatz 4 Satz 1 oder § 60 Absatz 3 Satz 1 dort genannte Mechanismen nicht einrichtet,
-
- 16. entgegen § 58 Absatz 4 Satz 2 oder § 60 Absatz 3 Satz 2 nicht über dort genannte Mittel und Notfallsysteme verfügt,
-
- 17. entgegen § 58 Absatz 5 nicht über dort genannte Systeme verfügt,
-
- 18. entgegen § 59 Absatz 1 Satz 2 nicht über dort genannte Grundsätze oder Vorkehrungen verfügt,
-
- 19. entgegen § 59 Absatz 1 Satz 2 nicht die genannten Grundsätze und Vorkehrungen trifft,
-
- 20. entgegen § 59 Absatz 1 Satz 3 nicht in der Lage ist, Informationen in der vorgeschriebenen Weise zur Verfügung zu stellen,
-
- 21. entgegen § 59 Absatz 2 Informationen nicht in der vorgeschriebenen Weise verbreitet,
-
- 22. entgegen § 59 Absatz 3 Satz 1 dort genannte Vorkehrungen nicht trifft,
-
- 23. entgegen § 59 Absatz 4 Satz 1 dort genannte Mechanismen nicht einrichtet,
-
- 24. entgegen § 59 Absatz 4 Satz 2 nicht über die dort genannten Mittel und Notfallsysteme verfügt,
-
- 25. entgegen § 60 Absatz 1 Satz 1 nicht über die dort genannten Grundsätze und Vorkehrungen verfügt,
-
- 26. entgegen § 60 Absatz 2 Satz 1 oder Absatz 4 keine Vorkehrungen trifft,
+ 10. bis 26. (weggefallen)
 
  27. entgegen § 63 Absatz 2 Satz 1 in Verbindung mit Satz 2, auch in Verbindung mit dem auf Grundlage von Artikel 23 Absatz 4 in Verbindung mit Artikel 89 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116), die zuletzt durch die Richtlinie (EU) 2016/1034 (ABl. L 175 vom 30.6.2016, S. 8) geändert worden ist, erlassenen delegierten Rechtsakt der Europäischen Kommission, eine Darlegung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
 
@@ -3471,7 +3401,7 @@ eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 137. entgegen § 94 Absatz 1 eine dort genannte Bezeichnung führt.
 
-(9) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84) verstößt, indem er vorsätzlich oder leichtfertig
+(9) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4; L 278 vom 27.10.2017, S. 54), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder leichtfertig
 
 1. als Wertpapierdienstleistungsunternehmen im Sinne dieses Gesetzes entgegen
 
@@ -3589,6 +3519,10 @@ eine dort vorgeschriebene Veröffentlichung nicht, nicht richtig, nicht vollstä
 
 22. als Wertpapierdienstleistungsunternehmen, systematischer Internalisierer oder Betreiber eines Handelsplatzes entgegen Artikel 27 Absatz 1 Unterabsatz 1, 2 oder 3 Satz 2 identifizierende Referenzdaten in Bezug auf ein Finanzinstrument nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder aktualisiert,
 
+22a. entgegen Artikel 27g Absatz 1 Satz 2 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+22b. entgegen Artikel 27g Absatz 3 Satz 2 oder Artikel 27i Absatz 2 Satz 2 eine Information nicht richtig behandelt,
+
 23. entgegen Artikel 28 Absatz 1, auch in Verbindung mit Artikel 28 Absatz 2 Unterabsatz 1, ein Geschäft an einem anderen als den dort bezeichneten Plätzen abschließt,
 
 24. als zentrale Gegenpartei im Sinne des Artikels 2 Absatz 1 der Verordnung (EU) Nr. 648/2012 oder als Wertpapierdienstleistungsunternehmen im Sinne dieses Gesetzes entgegen Artikel 29 Absatz 2 Unterabsatz 1 nicht über die dort bezeichneten Systeme, Verfahren und Vorkehrungen verfügt,
@@ -3604,6 +3538,26 @@ eine dort vorgeschriebene Veröffentlichung nicht, nicht richtig, nicht vollstä
 29. einem vollziehbaren Beschluss der Europäischen Bankenaufsichtsbehörde nach Artikel 41 Absatz 1 zuwiderhandelt oder
 
 30. einer vollziehbaren Anordnung der Bundesanstalt nach Artikel 42 Absatz 1 zuwiderhandelt.
+
+(9a) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig als Person nach Artikel 2 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 600/2014
+
+1. nicht dafür sorgt, dass sie über Grundsätze und Vorkehrungen nach Artikel 27g Absatz 1 Satz 1 der Verordnung (EU) Nr. 600/2014 verfügt,
+
+2. nicht über die in Artikel 27g Absatz 4 Satz 2 oder Artikel 27i Absatz 3 Satz 2 der Verordnung (EU) Nr. 600/2014 genannten Mittel und Notfallsysteme verfügt,
+
+3. nicht in der Lage ist, Informationen in der in Artikel 27g Absatz 1 Satz 3 der Verordnung (EU) Nr. 600/2014 vorgeschriebenen Weise zu verbreiten,
+
+4. nicht die in Artikel 27g Absatz 3 Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Vorkehrungen trifft und beibehält,
+
+5. nicht die in Artikel 27g Absatz 4 Satz 1 oder Artikel 27i Absatz 3 Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Mechanismen einrichtet,
+
+6. nicht über die in Artikel 27g Absatz 4 Satz 2 oder Artikel 27i Absatz 3 Satz 2 der Verordnung (EU) Nr. 600/2014 genannten Ressourcen und Notfallsysteme verfügt,
+
+7. nicht über die in Artikel 27g Absatz 5 der Verordnung (EU) Nr. 600/2014 genannten Systeme verfügt,
+
+8. nicht über die in Artikel 27i Absatz 1 der Verordnung (EU) Nr. 600/2014 genannten Grundsätze und Vorkehrungen zu deren Einhaltung verfügt,
+
+9. nicht die in Artikel 27i Absatz 2 der Verordnung (EU) Nr. 600/2014 genannten Vorkehrungen trifft oder nicht über die in Artikel 27i Absatz 4 genannten Systeme verfügt.
 
 (10) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2015/2365 des Europäischen Parlaments und des Rates vom 25. November 2015 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015, S. 1) verstößt, indem er vorsätzlich oder leichtfertig
 
@@ -3781,9 +3735,7 @@ b) § 6 Absatz 3 Satz 1,
 
 c) § 87 Absatz 6 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b,
 
-d) § 92 Absatz 1,
-
-e) § 107 Absatz 5 Satz 1 oder § 109 Absatz 2 Satz 1
+d) § 92 Absatz 1
 
 zuwiderhandelt,
 
@@ -3907,7 +3859,7 @@ nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus
 
 (19) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 16 mit einer Geldbuße von bis zu siebenhunderttausend Euro geahndet werden. Gegenüber einer juristischen Person oder einer Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; diese darf den höheren der Beträge von fünf Millionen Euro und 3 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat, nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
 
-(20) Die Ordnungswidrigkeit kann in den Fällen der Absätze 8 und 9 mit einer Geldbuße bis zu fünf Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße in Höhe von bis zu 10 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat, verhängt werden. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+(20) Die Ordnungswidrigkeit kann in den Fällen der Absätze 8 bis 9a mit einer Geldbuße bis zu fünf Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße in Höhe von bis zu 10 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat, verhängt werden. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
 
 (21) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 10 mit einer Geldbuße bis zu fünf Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; diese darf
 
@@ -3937,7 +3889,7 @@ nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus
 
 Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
-(24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b und k bis n, Nummer 2a, und 16, des Absatzes 4 Nummer 5, des Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des Absatzes 12 Nummer 1 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 2, 6 und 7 und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b und k bis n, Nummer 2a, 14a und 16, des Absatzes 4 Nummer 5, des Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des Absatzes 12 Nummer 1 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 2, 6 und 7 und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 (25) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 17 bis 22 in Bezug genommen werden. Dies gilt nicht für Ordnungswidrigkeiten nach Absatz 2 Nummer 4 Buchstabe a, Absatz 8 Nummer 43 und 44, 134 bis 137 und Absatz 15 Nummer 1. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind.
 
@@ -3947,7 +3899,87 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 
 (28) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 Nummer 16 geahndet werden können.
 
-# § 120a – (zukünftig in Kraft)
+# § 120a – Bußgeldvorschriften zur Verordnung (EU) 2019/1238
+
+(1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) verstößt, indem er vorsätzlich oder leichtfertig
+
+1. entgegen Artikel 5 Absatz 1 ein PEPP anbietet oder vertreibt,
+
+2. entgegen Artikel 6 Absatz 6 Unterabsatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+3. entgegen Artikel 18 Absatz 1 in Verbindung mit Absatz 3 einen Mitnahmeservice nicht oder nicht rechtzeitig bereitstellt,
+
+4. entgegen Artikel 20 Absatz 1 Unterabsatz 1 einen PEPP-Sparer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
+
+5. entgegen Artikel 20 Absatz 1 Unterabsatz 3 den PEPP-Sparer nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach der Kenntnisnahme von der fehlenden Verfügbarkeit des neuen Unterkontos unterrichtet,
+
+6. entgegen Artikel 21 Absatz 6 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+7. entgegen Artikel 25 Absatz 1 Unterabsatz 1 in Verbindung mit Unterabsatz 3 ein Produktgenehmigungsverfahren nicht oder nicht richtig unterhält oder nicht oder nicht richtig betreibt,
+
+8. entgegen Artikel 25 Absatz 1 Unterabsatz 5 eine dort genannte Information nicht oder nicht unverzüglich nach Eingang einer diesbezüglichen Anfrage eines PEPP-Vertreibers zur Verfügung stellt,
+
+9. entgegen Artikel 25 Absatz 1 Unterabsatz 6 eine dort genannte Maßnahme nicht oder nicht vor Beginn des Vertriebs eines PEPP trifft,
+
+10. entgegen Artikel 26 Absatz 1 das PEPP-Basisinformationsblatt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht,
+
+11. entgegen Artikel 26 Absatz 8 einen Hinweis nicht oder nicht vor dem Abschluss eines PEPP-Vertrags gibt oder nicht dafür sorgt, dass ein potenzieller PEPP-Sparer auf einen dort genannten Bericht zugreifen kann,
+
+12. entgegen Artikel 30 Absatz 1 Satz 1 das PEPP-Basisinformationsblatt nicht oder nicht rechtzeitig überprüft oder nicht oder nicht rechtzeitig überarbeitet,
+
+13. entgegen Artikel 34 Absatz 1 Unterabsatz 1 eine Information nicht oder nicht rechtzeitig erteilt,
+
+14. entgegen Artikel 34 Absatz 2 Unterabsatz 1 eine dort genannte Empfehlung nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+15. entgegen Artikel 34 Absatz 2 Unterabsatz 2 Satz 1 eine dort genannte Prognose nicht oder nicht vor dem Abschluss eines PEPP-Vertrags vorlegt oder einen Hinweis nicht oder nicht vor dem Abschluss eines PEPP-Vertrags gibt,
+
+16. entgegen Artikel 34 Absatz 3 Satz 2 eine dort genannte Erläuterung nicht, nicht richtig oder nicht in der vorgeschriebenen Weise oder nicht vor Abschluss eines in Artikel 34 Absatz 3 Satz 1 genannten Vertrags übermittelt,
+
+17. entgegen Artikel 34 Absatz 6 Satz 1 nicht dafür sorgt, dass eine dort genannte Person über die dort genannten Kenntnisse und Fähigkeiten verfügt, oder einen Nachweis nicht oder nicht rechtzeitig erbringt,
+
+18. entgegen Artikel 35 Absatz 4, auch in Verbindung mit Artikel 38 Absatz 2 Unterabsatz 2, oder entgegen Artikel 40 Absatz 5 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+19. entgegen Artikel 35 Absatz 6 einen PEPP-Sparer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig in Kenntnis setzt,
+
+20. entgegen Artikel 38 Absatz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereitstellt,
+
+21. entgegen Artikel 38 Absatz 2 Unterabsatz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
+
+22. entgegen Artikel 39 eine dort genannte Auskunft oder Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+
+23. entgegen Artikel 52 Absatz 1 Unterabsatz 2 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach Erhalt der Anweisung des PEPP-Kunden überträgt,
+
+24. entgegen Artikel 53 Absatz 3 den übertragenden PEPP-Anbieter nicht oder nicht rechtzeitig zur Durchführung auffordert,
+
+25. entgegen Artikel 53 Absatz 4 Buchstabe a oder b eine Information oder eine Liste nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+26. entgegen Artikel 53 Absatz 4 Buchstabe c einen Zahlungseingang annimmt,
+
+27. entgegen Artikel 53 Absatz 4 Buchstabe d einen Betrag oder eine Sacheinlage nicht, nicht vollständig oder nicht rechtzeitig überträgt,
+
+28. entgegen Artikel 53 Absatz 5 eine dort genannte Vorkehrung nicht, nicht vollständig oder nicht rechtzeitig trifft,
+
+29. entgegen Artikel 54 Absatz 3 Unterabsatz 3 eine Gebühr oder ein Entgelt in Rechnung stellt,
+
+30. entgegen Artikel 54 Absatz 4 Kosten in Rechnung stellt oder
+
+31. einer vollziehbaren Anordnung nach Artikel 63 Absatz 1 Satz 1 oder 2 oder Artikel 65 Absatz 2 Unterabsatz 1 zuwiderhandelt.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig in einem Antrag nach Artikel 6 Absatz 2 Satz 1 der Verordnung (EU) 2019/1238 eine Angabe nicht richtig oder nicht vollständig macht.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu siebenhunderttausend Euro geahndet werden. In den Fällen des Absatzes 1 oder 2, jeweils in Verbindung mit § 30 Absatz 1 des Gesetzes über Ordnungswidrigkeiten kann die Ordnungswidrigkeit mit einer Geldbuße bis zu fünf Millionen Euro geahndet werden.
+
+(4) Bei einer juristischen Person oder Personenvereinigung mit einem jährlichen Gesamtumsatz von mehr als 50 Millionen Euro kann die Ordnungswidrigkeit abweichend von Absatz 3 Satz 2 mit einer Geldbuße bis zu 10 Prozent des jährlichen Gesamtumsatzes geahndet werden, der im jüngsten verfügbaren vom Leitungs-, Aufsichts- oder Verwaltungsorgan gebilligten Abschluss ausgewiesen ist.
+
+(5) Die Ordnungswidrigkeit kann
+
+1. bei einer natürlichen Person über Absatz 3 Satz 1 hinaus und
+
+2. bei einer juristischen Person über Absatz 3 Satz 2 oder Absatz 4 hinaus
+
+mit einer Geldbuße bis zum Zweifachen des aus der Zuwiderhandlung gezogenen Vorteils geahndet werden, sofern sich dieser beziffern lässt.
+
+(6) § 120 Absatz 23 und 26 gilt entsprechend.
 
 # § 120b – Bußgeldvorschriften zur Verordnung (EU) 2020/1503
 

@@ -206,17 +206,11 @@ Bekanntmachungserlaubnis
 
 3. die Umwandlung im Sinne des § 1 Abs. 2 des Umwandlungsgesetzes, soweit sie einer Umwandlung im Sinne des § 1 Abs. 1 des Umwandlungsgesetzes entspricht sowie
 
-4. die Vermögensübertragung im Sinne des § 174 des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210, 1995 I S. 428), das zuletzt durch Artikel 10 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3214) geändert worden ist, in der jeweils geltenden Fassung.
+4. die Vermögensübertragung im Sinne des § 174 des Umwandlungsgesetzes.
 
 Diese Teile gelten nicht für die Ausgliederung im Sinne des § 123 Abs. 3 des Umwandlungsgesetzes.
 
-(2) Absatz 1 findet nur Anwendung, wenn
-
-1. beim Formwechsel der umwandelnde Rechtsträger oder bei den anderen Umwandlungen die übertragenden und die übernehmenden Rechtsträger nach den Rechtsvorschriften eines Mitgliedstaats der Europäischen Union oder eines Staates, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, gegründete Gesellschaften im Sinne des Artikels 54 des Vertrags über die Arbeitsweise der Europäischen Union oder des Artikels 34 des Abkommens über den Europäischen Wirtschaftsraum sind, deren Sitz und Ort der Geschäftsleitung sich innerhalb des Hoheitsgebiets eines dieser Staaten befinden oder
-
-2. übertragender Rechtsträger eine Gesellschaft im Sinne der Nummer 1 und übernehmender Rechtsträger eine natürliche Person ist, deren Wohnsitz oder gewöhnlicher Aufenthalt sich innerhalb des Hoheitsgebiets eines der Staaten im Sinne der Nummer 1 befindet und die nicht auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung mit einem dritten Staat als außerhalb des Hoheitsgebiets dieser Staaten ansässig angesehen wird.
-
-Eine Europäische Gesellschaft im Sinne der Verordnung (EG) Nr. 2157/2001 und eine Europäische Genossenschaft im Sinne der Verordnung (EG) Nr. 1435/2003 gelten für die Anwendung des Satzes 1 als eine nach den Rechtsvorschriften des Staates gegründete Gesellschaft, in dessen Hoheitsgebiet sich der Sitz der Gesellschaft befindet. Eine übertragende Gesellschaft, auf die § 122m des Umwandlungsgesetzes Anwendung findet, gilt als Gesellschaft mit Sitz und Ort der Geschäftsleitung innerhalb des Hoheitsgebiets eines Mitgliedstaats der Europäischen Union.
+(2) (weggefallen)
 
 (3) Der Sechste bis Achte Teil gilt nur für
 
@@ -232,17 +226,17 @@ Eine Europäische Gesellschaft im Sinne der Verordnung (EG) Nr. 2157/2001 und ei
 
 (4) Absatz 3 gilt nur, wenn
 
-1. der übernehmende Rechtsträger eine Gesellschaft im Sinne von Absatz 2 Satz 1 Nr. 1 ist und
+1. der übernehmende Rechtsträger eine Europäische Gesellschaft im Sinne der Verordnung (EG) Nr. 2157/2001, eine Europäische Genossenschaft im Sinne der Verordnung (EG) Nr. 1435/2003 oder eine andere Gesellschaft im Sinne des Artikels 54 des Vertrags über die Arbeitsweise der Europäischen Union oder des Artikels 34 des Abkommens über den Europäischen Wirtschaftsraum ist, deren Sitz und Ort der Geschäftsleitung sich innerhalb des Hoheitsgebiets eines dieser Staaten befindet, und
 
 2. in den Fällen des Absatzes 3 Nr. 1 bis 4
 
 a) beim Formwechsel der umwandelnde Rechtsträger, bei der Einbringung durch Einzelrechtsnachfolge der einbringende Rechtsträger oder bei den anderen Umwandlungen der übertragende Rechtsträger
 
 aa)  
-eine Gesellschaft im Sinne von Absatz 2 Satz 1 Nr. 1 ist und, wenn es sich um eine Personengesellschaft handelt, soweit an dieser Körperschaften, Personenvereinigungen, Vermögensmassen oder natürliche Personen unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt sind, die die Voraussetzungen im Sinne von Absatz 2 Satz 1 Nr. 1 und 2 erfüllen, oder
+eine natürliche Person ist, deren Wohnsitz oder gewöhnlicher Aufenthalt sich innerhalb des Hoheitsgebiets eines der Staaten im Sinne der Nummer 1 befindet und die nicht auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung mit einem dritten Staat als außerhalb des Hoheitsgebiets dieser Staaten ansässig angesehen wird, oder
 
 bb)  
-eine natürliche Person im Sinne von Absatz 2 Satz 1 Nr. 2 ist
+eine Gesellschaft im Sinne der Nummer 1 ist und, wenn es sich um eine Personengesellschaft handelt, soweit an dieser Körperschaften, Personenvereinigungen, Vermögensmassen oder natürliche Personen unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt sind, die die Voraussetzungen im Sinne der Nummern 1 und 2 Buchstabe a Doppelbuchstabe aa erfüllen,
 
 oder
 
@@ -267,6 +261,8 @@ die Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut d
 4. Buchwert
 
 der Wert, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermittlung in einer für den steuerlichen Übertragungsstichtag aufzustellenden Steuerbilanz ergibt oder ergäbe.
+
+(+++ § 1: Zur Anwendung vgl. § 27 +++)
 
 # § 2 – Steuerliche Rückwirkung
 
@@ -641,6 +637,8 @@ In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesell
 (16) § 2 Absatz 5, § 9 Satz 3 zweiter Halbsatz und § 20 Absatz 6 Satz 4 in der Fassung des Artikels 4 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) sind erstmals auf Umwandlungen und Einbringungen anzuwenden, bei denen die Anmeldung zur Eintragung in das für die Wirksamkeit des Vorgangs maßgebende öffentliche Register beziehungsweise bei Einbringungen der Übergang des wirtschaftlichen Eigentums nach dem 20. November 2020 erfolgt. Abweichend von Satz 1 sind § 2 Absatz 5, § 9 Satz 3 zweiter Halbsatz und § 20 Absatz 6 Satz 4 in der Fassung des Artikels 4 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) auch in anderen offenen Fällen anzuwenden, in denen die äußeren Umstände darauf schließen lassen, dass die Verrechnung übergehender stiller Lasten wesentlicher Zweck der Umwandlung oder Einbringung war und der Steuerpflichtige dies nicht widerlegen kann.
 
 (17) § 4 Absatz 5 Satz 1 in der am 8. Juni 2021 geltenden Fassung ist weiterhin anzuwenden, soweit die Anteile an der übertragenden Körperschaft am steuerlichen Übertragungsstichtag zum Betriebsvermögen des übernehmenden Rechtsträgers gehören und mit einem Sperrbetrag im Sinne des § 50c des Einkommensteuergesetzes in der Fassung des Gesetzes vom 24. März 1999 (BGBl. I S. 402) behaftet sind.
+
+(18) § 1 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) ist erstmals auf Umwandlungen und Einbringungen anzuwenden, deren steuerlicher Übertragungsstichtag nach dem 31. Dezember 2021 liegt.
 
 # § 28 – Bekanntmachungserlaubnis
 

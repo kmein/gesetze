@@ -163,6 +163,28 @@ Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe b und d bedürfen,
 
 2. soweit sie das Betäuben oder Töten von Tieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, oder darauf bezogene Voraussetzungen für den Erwerb eines Sachkundenachweises betreffen, des Einvernehmens des Bundesministeriums für Bildung und Forschung.
 
+# § 4c
+
+(1) Es ist verboten, Küken von Haushühnern der Art Gallus gallus zu töten.
+
+(2) Das Verbot gilt nicht
+
+1. für den Fall, dass eine Tötung der Küken
+
+a) nach tierseuchenrechtlichen Bestimmungen vorgeschrieben oder angeordnet worden ist oder
+
+b) im Einzelfall aus Gründen des Tierschutzes erforderlich ist,
+
+2. für nicht schlupffähige Küken,
+
+3. für Stubenküken nach Artikel 1 Nummer 1 Buchstabe a der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46; L 8 vom 13.1.2009, S. 33), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, und
+
+4. für Küken,
+
+a) die zur Verwendung in Tierversuchen bestimmt sind oder
+
+b) deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.
+
 # § 5
 
 (1) An einem Wirbeltier darf ohne Betäubung ein mit Schmerzen verbundener Eingriff nicht vorgenommen werden. Die Betäubung warmblütiger Wirbeltiere sowie von Amphibien und Reptilien ist von einem Tierarzt vorzunehmen. Dies gilt nicht, soweit die Betäubung ausschließlich durch äußerliche Anwendung eines Tierarzneimittels erfolgt, das nach arzneimittelrechtlichen Vorschriften zugelassen ist, um eine örtliche Schmerzausschaltung zu erreichen, und nach dem Stand von Wissenschaft und Technik zum Zweck der Durchführung des jeweiligen Eingriffs geeignet ist. Dies gilt ferner nicht für einen Eingriff im Sinne des § 6 Absatz 1 Satz 2 Nummer 2a, soweit die Betäubung ohne Beeinträchtigung des Zustandes der Wahrnehmungs- und Empfindungsfähigkeit, ausgenommen die Schmerzempfindung, durch ein Tierarzneimittel erfolgt, das nach arzneimittelrechtlichen Vorschriften für die Schmerzausschaltung bei diesem Eingriff zugelassen ist. Für die Betäubung mit Betäubungspatronen kann die zuständige Behörde Ausnahmen von Satz 2 zulassen, sofern ein berechtigter Grund nachgewiesen wird. Ist nach den Absätzen 2, 3 und 4 Nr. 1 eine Betäubung nicht erforderlich, sind alle Möglichkeiten auszuschöpfen, um die Schmerzen oder Leiden der Tiere zu vermindern.
@@ -1316,6 +1338,8 @@ als vorläufig erteilt. Die vorläufige Erlaubnis erlischt,
 Bis zum Erlass einer Rechtsverordnung nach § 11 Absatz 2 Satz 1 Nummer 1 ist im Rahmen des § 11 Absatz 5 Satz 5 darauf abzustellen, ob der Antragsteller den Anforderungen des § 11 Absatz 1 Satz 2 und 3 in der bis zum 13. Juli 2013 geltenden Fassung nachgekommen ist.
 
 (6) § 11 Absatz 8 ist ab dem 1. Februar 2014 anzuwenden.
+
+(6a) Das Bundesministerium berichtet bis zum 31. März 2023 dem zuständigen Fachausschuss des Deutschen Bundestages über den Stand der Entwicklung von Verfahren und Methoden zur Geschlechtsbestimmung im Hühnerei vor dem siebten Bebrütungstag.
 
 (7) Vorbehaltlich des Satzes 3 und des Absatzes 8 sind die §§ 5, 6, 7, 7a, 8, 8a, 9, 10, 11, 15, 16, 16a und 18 in der sich jeweils aus Artikel 1 des Gesetzes zur Änderung des Tierschutzgesetzes – Schutz von Versuchstieren – vom 18. Juni 2021 (BGBl. I S. 1828) ergebenden Fassung erst ab dem 1. Dezember 2021 anzuwenden. Bis zu dem in Satz 1 genannten Zeitpunkt sind die dort genannten am 25. Juni 2021 geltenden Vorschriften weiter anzuwenden. Soweit Vorschriften dieses Gesetzes zum Erlass von Rechtsverordnungen ermächtigen, sind abweichend von Satz 1 die dort genannten Vorschriften in der dort genannten Fassung zum Zweck des Erlasses von Rechtsverordnungen ab dem 26. Juni 2021 anzuwenden.
 

@@ -689,7 +689,9 @@ c) es sich um ein Kind aus einer vertraulichen Geburt nach § 25 Absatz 1 des Sc
 
 6. dem Familiengericht, wenn gemeinsam sorgeberechtigte Eltern, die keinen Ehenamen führen, den Geburtsnamen des Kindes nicht binnen eines Monats nach dessen Geburt bestimmt haben,
 
-7. dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben, wenn das Kind nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes vertraulich geboren wurde.
+7. dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben, wenn das Kind nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes vertraulich geboren wurde,
+
+8. der Elterngeldstelle, wenn dem Standesamt bekannt wird, dass ein Antrag auf Elterngeld gestellt worden ist, und wenn die antragstellende Person in die Datenübermittlung eingewilligt hat.
 
 (2) Das Standesamt, das eine Folgebeurkundung über die Anerkennung oder gerichtliche Feststellung der Vaterschaft einträgt, hat dies mitzuteilen:
 

@@ -7,7 +7,7 @@
 
 (1) Anspruchsberechtigt sind Steuerpflichtige im Sinne des Einkommensteuer- und des Körperschaftsteuergesetzes, soweit sie Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes erzielen, nicht von der Besteuerung befreit sind und die in diesem Gesetz aufgeführten Voraussetzungen erfüllen.
 
-(2) Bei Mitunternehmerschaften nach § 15 Absatz 1 Satz 1 Nummer 2 des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die Mitunternehmerschaft als Anspruchsberechtigter.
+(2) Bei Mitunternehmerschaften nach § 15 Absatz 1 Satz 1 Nummer 2 des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die Mitunternehmerschaft als Anspruchsberechtigter. Nach § 1a des Körperschaftsteuergesetzes optierende Gesellschaften sind als Steuerpflichtige im Sinne des Körperschaftsteuergesetzes anspruchsberechtigt.
 
 # § 2 – Begünstigte Forschungs- und Entwicklungsvorhaben
 

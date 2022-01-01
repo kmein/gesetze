@@ -29,9 +29,9 @@ Die Filmförderungsanstalt hat die Aufgabe,
 
 8. auf eine Abstimmung und Koordinierung der Filmförderung des Bundes und der Länder hinzuwirken und
 
-9. darauf hinzuwirken, dass in der Filmwirtschaft eingesetztes Personal zu sozialverträglichen Bedingungen beschäftigt wird.
+9. darauf hinzuwirken, dass in der Filmwirtschaft eingesetztes Personal zu sozialverträglichen und fairen Bedingungen beschäftigt wird.
 
-Die Filmförderungsanstalt wirkt bei der Wahrnehmung ihrer Aufgaben auf die Belange der Geschlechtergerechtigkeit hin.
+Die Filmförderungsanstalt wirkt bei der Wahrnehmung ihrer Aufgaben auf die Belange der Geschlechtergerechtigkeit, der Menschen mit Behinderung und auf Belange der Diversität hin.
 
 # § 3 – Aufgabenerfüllung
 
@@ -79,19 +79,19 @@ b) den Bundesverband kommunale Filmarbeit e. V.,
 
 7. zwei Mitglieder durch den Bundesverband audiovisuelle Medien e. V.,
 
-8. ein Mitglied durch den Interessenverband des Video- und Medienfachhandels in Deutschland e. V.,
+8. zwei Mitglieder, gemeinsam durch den ANGA Der Breitbandverband e. V., den eco – Verband der Internetwirtschaft e. V. sowie den Bitkom – Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e. V.,
 
-9. ein Mitglied, gemeinsam durch den ANGA Verband Deutscher Kabelnetzbetreiber e. V., den eco – Verband der Internetwirtschaft e. V. sowie den Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e. V.,
-
-10. je ein Mitglied durch
+9. je ein Mitglied durch
 
 a) die Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland und
 
 b) die Anstalt des öffentlichen Rechts „Zweites Deutsches Fernsehen“,
 
-11. zwei Mitglieder durch den Verband Privater Rundfunk und Telemedien e. V.,
+10. zwei Mitglieder durch den VAUNET – Verband Privater Medien e. V.,
 
-12. drei Mitglieder durch die Allianz Deutscher Produzenten – Film & Fernsehen e. V.,
+11. drei Mitglieder durch die Allianz Deutscher Produzenten – Film & Fernsehen e. V.,
+
+12. ein Mitglied durch den Verband Deutscher Filmproduzenten e. V.,
 
 13. je ein Mitglied durch
 
@@ -105,17 +105,15 @@ a) den Bundesverband Regie e. V. und
 
 b) den Verband Deutscher Drehbuchautoren e. V.,
 
-15. ein Mitglied durch den Verband Deutscher Filmproduzenten e. V.,
+15. ein Mitglied durch den Verband Technischer Betriebe für Film und Fernsehen e. V.,
 
-16. ein Mitglied durch den Verband Technischer Betriebe für Film und Fernsehen e. V.,
+16. ein Mitglied, gemeinsam durch die Vereinte Dienstleistungsgewerkschaft ver.di und den Deutschen Journalistenverband e. V.,
 
-17. ein Mitglied, gemeinsam durch die Vereinte Dienstleistungsgewerkschaft ver.di und den Deutschen Journalistenverband e. V.,
+17. ein Mitglied durch die Deutsche Filmakademie e. V.,
 
-18. ein Mitglied durch die Deutsche Filmakademie e. V.,
+18. ein Mitglied durch den Verband Deutscher Filmexporteure e. V.,
 
-19. ein Mitglied durch den Verband Deutscher Filmexporteure e. V.,
-
-20. je ein Mitglied durch
+19. je ein Mitglied durch
 
 a) die evangelische Kirche und
 
@@ -123,7 +121,7 @@ b) die katholische Kirche.
 
 Löst sich eine entsendende Organisation auf, geht das Recht der Benennung auf die rechtsnachfolgende Organisation über.
 
-(2) In den Fällen des Absatzes 1 Satz 2 Nummer 1, 3 bis 7 sowie 10 bis 14 muss jeweils mindestens eine Frau und jeweils mindestens ein Mann benannt werden. Für die Besetzung des Verwaltungsrats gilt § 4 Absatz 1 Satz 1 und 2 sowie Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
+(2) In den Fällen des Absatzes 1 Satz 2 Nummer 1 und 4 muss jeweils mindestens eine Frau und jeweils mindestens ein Mann benannt werden. In den Fällen des Absatzes 1 Satz 2 Nummer 3, 5 bis 10, 13, 14 und 19 muss jeweils eine Frau benannt werden. In den Fällen des Absatzes 1 Satz 2 Nummer 11 und 12 müssen insgesamt zwei Frauen benannt werden. In den Fällen des Absatzes 1 Satz 2 Nummer 15 bis 18 müssen insgesamt zwei Frauen benannt werden.
 
 (3) Für jedes Mitglied wird ein stellvertretendes Mitglied benannt.
 
@@ -131,7 +129,7 @@ Löst sich eine entsendende Organisation auf, geht das Recht der Benennung auf d
 
 # § 7 – Berufung, Amtszeit
 
-(1) Die für Kultur und Medien zuständige oberste Bundesbehörde beruft die Mitglieder des Verwaltungsrats und die stellvertretenden Mitglieder des Verwaltungsrats für fünf Jahre.
+(1) Die für Kultur und Medien zuständige oberste Bundesbehörde beruft die Mitglieder des Verwaltungsrats und die stellvertretenden Mitglieder des Verwaltungsrats für zwei Jahre.
 
 (2) Die Mitglieder und stellvertretenden Mitglieder des Verwaltungsrats sind an Aufträge und Weisungen nicht gebunden.
 
@@ -155,7 +153,7 @@ Löst sich eine entsendende Organisation auf, geht das Recht der Benennung auf d
 
 Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung Rechnung getragen wird.
 
-(4) Der Verwaltungsrat beschließt Richtlinien nach diesem Gesetz und die Satzung der Filmförderungsanstalt gemäß § 32 mit einer Mehrheit von zwei Dritteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder. Die Richtlinien und die Satzung bedürfen der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde. Für Änderungen der Richtlinien und der Satzung gelten die Sätze 1 und 2 entsprechend.
+(4) Der Verwaltungsrat beschließt Richtlinien nach diesem Gesetz und die Satzung der Filmförderungsanstalt gemäß § 32 mit einer Mehrheit von zwei Dritteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder. Abweichend von Satz 1 beschließt der Verwaltungsrat Richtlinien nach § 55a mit der Zustimmung der Mitglieder der Kinoverbände und insgesamt mit einer Mehrheit von drei Vierteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder. Die Richtlinien und die Satzung bedürfen der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde. Für Änderungen der Richtlinien und der Satzung gelten die Sätze 1 und 2 entsprechend.
 
 (5) Über Widersprüche gegen Entscheidungen des Verwaltungsrats entscheidet der Verwaltungsrat. Entscheidungen über Widersprüche, mit denen die angegriffene Entscheidung ganz oder teilweise geändert wird, ergehen mit derselben Mehrheit, mit der die angegriffene Entscheidung zu treffen ist. Wird diese Mehrheit nicht erreicht, ist der Widerspruch zurückzuweisen.
 
@@ -171,11 +169,13 @@ Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung R
 
 (4) Der Verwaltungsrat ist auf Verlangen von sieben seiner Mitglieder oder des Präsidiums unverzüglich einzuberufen.
 
-(5) Der Verwaltungsrat gibt sich eine Geschäftsordnung, in der auch die Arbeit der Ausschüsse gemäß § 10 geregelt wird. Die Geschäftsordnung bedarf der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde.
+(5) Die Entscheidungen des Verwaltungsrats können auch in einer Videokonferenz oder in einem schriftlichen Umlaufverfahren getroffen werden. Entscheidungen im schriftlichen Umlaufverfahren können nicht getroffen werden, wenn mindestens zwei Mitglieder des Verwaltungsrats fristgerecht der oder dem Vorsitzenden des Verwaltungsrats schriftlich oder elektronisch mitteilen, dass sie mit der Herbeiführung der Entscheidung im schriftlichen Umlaufverfahren nicht einverstanden sind. Die Frist für die Mitteilung wird von der oder dem Vorsitzenden des Verwaltungsrats festgelegt.
+
+(6) Der Verwaltungsrat gibt sich eine Geschäftsordnung, in der auch die Arbeit der Ausschüsse gemäß § 10 geregelt wird. Die Geschäftsordnung bedarf der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde.
 
 # § 10 – Ausschüsse
 
-(1) Der Verwaltungsrat kann Ausschüsse bilden, wenn dem eine Mehrheit von zwei Dritteln seiner Mitglieder zustimmt. Jeder Ausschuss besteht aus fünf bis 15 Mitgliedern oder stellvertretenden Mitgliedern des Verwaltungsrats.
+(1) Der Verwaltungsrat kann Ausschüsse bilden, wenn dem eine Mehrheit von zwei Dritteln seiner Mitglieder zustimmt. Jeder Ausschuss besteht aus fünf bis 15 Mitgliedern oder stellvertretenden Mitgliedern des Verwaltungsrats. Für jedes Mitglied wird ein stellvertretendes Mitglied bestimmt. § 14 Absatz 4 gilt entsprechend.
 
 (2) Die Ausschüsse bereiten die Beschlüsse des Verwaltungsrats im jeweiligen Aufgabenbereich vor. Sie berichten dem Verwaltungsrat regelmäßig.
 
@@ -193,9 +193,11 @@ Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung R
 
 (2) Den Vorsitz führt die oder der Vorsitzende des Verwaltungsrats. Das Präsidium besteht weiter aus den folgenden Mitgliedern:
 
-1. je einem vom Deutschen Bundestag und von der für Kultur und Medien zuständigen obersten Bundesbehörde benannten Mitglied des Verwaltungsrats,
+1. einem vom Deutschen Bundestag benannten Mitglied des Verwaltungsrats,
 
-2. je einem vom Verwaltungsrat mit der Mehrheit der Stimmen gewählten Mitglied oder stellvertretenden Mitglied des Verwaltungsrats, das benannt worden ist
+2. einem von der für Kultur und Medien zuständigen obersten Bundesbehörde benannten Mitglied des Verwaltungsrats,
+
+3. je einem vom Verwaltungsrat mit der Mehrheit der Stimmen gewählten Mitglied oder stellvertretenden Mitglied des Verwaltungsrats, das benannt worden ist
 
 a) von den Verbänden der Filmhersteller,
 
@@ -209,15 +211,15 @@ e) von den Verbänden der privaten Fernsehveranstalter und
 
 f) von den Verbänden der öffentlich-rechtlichen Fernsehveranstalter,
 
-3. einem vom Verwaltungsrat mit der Mehrheit der Stimmen gewählten Mitglied aus dem Kreis der von der Arbeitsgemeinschaft Dokumentarfilm e. V., dem Bundesverband Regie e. V., der AG Kurzfilm e. V. und dem Verband Deutscher Drehbuchautoren e. V. für den Verwaltungsrat benannten Vertreterinnen und Vertreter auf gemeinsamen Vorschlag dieser Organisationen.
+4. einem vom Verwaltungsrat mit der Mehrheit der Stimmen gewählten Mitglied aus dem Kreis der von der Arbeitsgemeinschaft Dokumentarfilm e. V., dem Bundesverband Regie e. V., der AG Kurzfilm e. V. und dem Verband Deutscher Drehbuchautoren e. V. für den Verwaltungsrat benannten Vertreterinnen und Vertreter auf gemeinsamen Vorschlag dieser Organisationen.
 
-Für die Besetzung des Präsidiums gilt § 4 Absatz 1 Satz 3 und Absatz 2 des Bundesgremienbesetzungsgesetzes entsprechend, soweit das Bundesgremienbesetzungsgesetz nicht unmittelbar anzuwenden ist.
+(3) In den Fällen des Absatzes 2 Nummer 1 und 2 muss eine Frau benannt werden. In den Fällen des Absatzes 2 Nummer 3 und 4 sind die Mitglieder so zu wählen, dass eine geschlechtergerechte Besetzung des Präsidiums gewährleistet ist. Näheres zum Verfahren regelt die Satzung.
 
-(3) Die Präsidiumsmitglieder werden jeweils für die Dauer ihrer Mitgliedschaft im Verwaltungsrat benannt oder gewählt.
+(4) Die Präsidiumsmitglieder werden jeweils für die Dauer ihrer Mitgliedschaft im Verwaltungsrat benannt oder gewählt.
 
-(4) Das Präsidium wählt aus seiner Mitte eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden.
+(5) Das Präsidium wählt aus seiner Mitte eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden.
 
-(5) Das Präsidium gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung durch die für Kultur und Medien zuständige oberste Bundesbehörde.
+(6) Das Präsidium gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung durch die für Kultur und Medien zuständige oberste Bundesbehörde.
 
 # § 13 – Aufgaben, Rechte
 
@@ -239,13 +241,13 @@ Für die Besetzung des Präsidiums gilt § 4 Absatz 1 Satz 3 und Absatz 2 des Bu
 
 (3) Ein Mitglied des Präsidiums, das verhindert ist, an einer Sitzung teilzunehmen, kann ein anderes Mitglied des Präsidiums schriftlich oder elektronisch zur Stimmabgabe bevollmächtigen. Jedes Mitglied kann nur ein abwesendes Mitglied vertreten.
 
-(4) Entscheidungen des Präsidiums können auch im schriftlichen Umlaufverfahren getroffen werden. Dies gilt nicht, wenn ein Mitglied des Präsidiums vor Ablauf der hierfür bestimmten Frist durch schriftliche oder elektronische Mitteilung an die Vorsitzende oder den Vorsitzenden des Präsidiums mitteilt, dass es mit der Herbeiführung der Entscheidung im schriftlichen Umlaufverfahren nicht einverstanden ist.
+(4) Die Entscheidungen des Präsidiums können auch in einer Telefonkonferenz, in einer Videokonferenz oder in einem schriftlichen Umlaufverfahren getroffen werden. Entscheidungen im schriftlichen Umlaufverfahren können nicht getroffen werden, wenn mindestens ein Mitglied des Präsidiums fristgerecht der oder dem Vorsitzenden des Präsidiums schriftlich oder elektonisch mitteilt, dass es mit der Herbeiführung der Entscheidung im schriftlichen Umlaufverfahren nicht einverstanden ist. Die Frist wird von der oder dem Vorsitzenden des Präsidiums festgelegt.
 
 (5) Die Vorschriften zur Befangenheit nach § 11 gelten für die Mitglieder des Präsidiums entsprechend.
 
 # § 15 – Bestellung, Amtsdauer, Geschäftsordnung
 
-(1) Der Vorstand besteht aus einer Person. Er hat eine erste und eine zweite Stellvertretung.
+(1) Der Vorstand besteht aus einer Person. Er hat eine erste und eine zweite Stellvertretung. Der Vorstand oder eine seiner Stellvertretungen muss eine Frau sein.
 
 (2) Der Vorstand und seine Stellvertretungen werden auf Vorschlag des Präsidiums vom Verwaltungsrat für fünf Jahre bestellt. Wiederholte Bestellungen sind zulässig.
 
@@ -287,7 +289,7 @@ d) der Förderung der Drehbuchfortentwicklung nach den §§ 107 bis 114,
 
 e) der Projektförderung für Verleih- und Vertriebsunternehmen sowie Unternehmen der Videowirtschaft nach den §§ 115 bis 126 sowie
 
-f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144, soweit es sich nicht um bewertende Entscheidungen handelt,
+f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144,
 
 3. im Rahmen der Referenzfilmförderung nach den §§ 73 bis 90,
 
@@ -303,6 +305,14 @@ f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144,
 
 (3) Vor einer Entscheidung auf Zuerkennung von Förderhilfen nach § 73 oder § 76, jeweils in Verbindung mit § 83 Absatz 2, hat der Vorstand das Präsidium zu unterrichten. Verlangen wenigstens vier Mitglieder des Präsidiums innerhalb von zwei Wochen nach Zugang der Mitteilung des Vorstands schriftlich oder elektronisch bei der oder dem Vorsitzenden des Verwaltungsrats die Entscheidung des Verwaltungsrats, entscheidet der Verwaltungsrat anstelle des Vorstands.
 
+(4) Bei bereits bewilligten Vorhaben kann der Vorstand im Einzelfall Ausnahmen von einzelnen allgemeinen Fördervoraussetzungen nach Kapitel 4 Abschnitt 2 und Ausnahmen von einzelnen in den Kapiteln 5 bis 10 geregelten Auszahlungsvoraussetzungen zulassen, wenn
+
+1. es aufgrund höherer Gewalt der Förderempfängerin oder dem Förderempfänger nicht möglich oder nicht zumutbar ist, diese Voraussetzungen zu erfüllen, und
+
+2. die Gesamtwürdigung des Vorhabens und die Gesamtumstände dies rechtfertigen.
+
+Die Entscheidung über die Zulassung von Ausnahmen bedarf der Zustimmung der für Kultur und Medien zuständigen obersten Bundesbehörde. Bei nicht förderfähigen Filmen nach § 46 sind Ausnahmen nicht zulässig.
+
 # § 18 – Widersprüche gegen Entscheidungen des Vorstands
 
 (1) Über Widersprüche gegen Entscheidungen des Vorstands im Rahmen der Referenzförderung nach den §§ 73 bis 99 und nach den §§ 127 bis 133 entscheidet der Verwaltungsrat mit einfacher Mehrheit, wenn die Entscheidungen auf den Regelungen zur Nichtförderbarkeit von Filmen nach § 46 beruhen.
@@ -317,7 +327,7 @@ f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144,
 
 (1) Der Vorstand entscheidet über Anträge auf Verkürzung der Sperrfristen nach § 54 Absatz 1 oder § 55 Absatz 2 oder auf Nichtanwendung der Sperrfristen nach § 56 Absatz 1. Der Vorstand hat bei grundsätzlichen Fragen zur Anwendung der Sperrfristenregelungen vor seiner Entscheidung das Präsidium zu befassen.
 
-(2) Das Präsidium entscheidet über Anträge auf außerordentliche Verkürzung der Sperrfristen nach § 55 Absatz 1 und 3 und die Folgen einer Sperrfristverletzung nach § 57. Dem Antrag auf außerordentliche Verkürzung der Sperrfrist nach § 55 Absatz 1 und 3 kann nur mit Zustimmung der Vertreterin oder des Vertreters der Kinos stattgegeben werden. Satz 2 gilt auch für Entscheidungen im Widerspruchsverfahren.
+(2) Das Präsidium entscheidet über Anträge auf außerordentliche Verkürzung der Sperrfristen nach § 55 Absatz 1 und 3, über Anträge nach § 55b und die Folgen einer Sperrfristverletzung nach § 57. Dem Antrag auf außerordentliche Verkürzung der Sperrfrist nach § 55 Absatz 1 und 3 und dem Antrag nach § 55b kann nur mit Zustimmung der Vertreterin oder des Vertreters der Kinos stattgegeben werden. Satz 2 gilt auch für Entscheidungen im Widerspruchsverfahren.
 
 # § 20 – Ständige Förderkommissionen
 
@@ -339,11 +349,11 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 # § 22 – Bestellung der Mitglieder der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
 
-(1) Aus den nach § 21 Absatz 1 vorgeschlagenen Personen wählt und bestellt der Verwaltungsrat mit der Mehrheit seiner Mitglieder für den Zeitraum von drei Jahren (Amtszeit) 42 Personen zu Mitgliedern der Kommission für Produktions- und Drehbuchförderung und 20 Personen zu Mitgliedern der Kommission für Verleih-, Vertriebs- und Videoförderung.
+(1) Aus den nach § 21 Absatz 1 vorgeschlagenen Personen wählt und bestellt der Verwaltungsrat mit relativer Mehrheit 42 Personen zu Mitgliedern der Kommission für Produktions- und Drehbuchförderung und 20 Personen zu Mitgliedern der Kommission für Verleih-, Vertriebs- und Videoförderung für den Zeitraum von drei Jahren (Amtszeit).
 
-(2) Im Fall der Kommission für Produktions- und Drehbuchförderung müssen 24 Personen aus dem Bereich der Filmverwertung, mindestens sechs Personen Hersteller und mindestens drei Personen entweder Drehbuchautorin oder Drehbuchautor oder hauptberufliche Dramaturgin oder hauptberuflicher Dramaturg sein. Von den Personen aus dem Bereich der Filmverwertung müssen jeweils sechs Personen aus den Bereichen der Kinowirtschaft, der Verleih- und Vertriebswirtschaft, der Videowirtschaft und der Fernsehwirtschaft sein. Mindestens einer der Hersteller muss bei der Herstellung eines Kinderfilms mitgewirkt haben.
+(2) Im Fall der Kommission für Produktions- und Drehbuchförderung müssen 24 Personen aus dem Bereich der Filmverwertung, mindestens sechs Personen Herstellerin oder Hersteller und mindestens drei Personen entweder Drehbuchautorin oder Drehbuchautor oder hauptberufliche Dramaturgin oder hauptberuflicher Dramaturg sein. Von den Personen aus dem Bereich der Filmverwertung müssen jeweils sechs Personen aus den Bereichen der Kinowirtschaft, der Verleih- und Vertriebswirtschaft, der Videowirtschaft und der Fernsehwirtschaft sein. Mindestens eine oder einer der Herstellerinnen und Hersteller muss bei der Herstellung eines Kinderfilms mitgewirkt haben.
 
-(3) Im Fall der Kommission für Verleih-, Vertriebs- und Videoförderung müssen 16 Personen aus dem Bereich der Filmverwertung sowie vier Personen Hersteller sein. Von den Personen aus dem Bereich der Filmverwertung müssen jeweils mindestens vier Personen aus den Bereichen der Verleih- und Vertriebswirtschaft und der Videowirtschaft sein.
+(3) Im Fall der Kommission für Verleih-, Vertriebs- und Videoförderung müssen 16 Personen aus dem Bereich der Filmverwertung sowie vier Personen Herstellerinnen oder Hersteller sein. Von den Personen aus dem Bereich der Filmverwertung müssen jeweils mindestens vier Personen aus den Bereichen der Verleih- und Vertriebswirtschaft und der Videowirtschaft sein.
 
 (4) Die nach Absatz 1 gewählten Personen müssen jeweils zu gleichen Teilen Frauen und Männer sein.
 
@@ -355,7 +365,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (2) Die nach Absatz 1 vorgeschlagenen Personen müssen über maßgebliche und aktuelle Praxiserfahrung in der Kinowirtschaft mit kaufmännischer Verantwortung verfügen und auf dem Gebiet des Filmwesens sachkundig sein. Näheres zur erforderlichen Expertise der vorgeschlagenen Personen regelt die Satzung.
 
-(3) Aus den nach Absatz 1 vorgeschlagenen Personen wählt und bestellt der Verwaltungsrat mit der Mehrheit seiner Mitglieder für den Zeitraum von drei Jahren (Amtszeit) drei Personen zu ordentlichen Mitgliedern der Kommission für Kinoförderung und drei Personen zu deren Stellvertreterinnen oder Stellvertretern.
+(3) Aus den nach Absatz 1 vorgeschlagenen Personen wählt und bestellt der Verwaltungsrat mit relativer Mehrheit drei Personen zu ordentlichen Mitgliedern der Kommission für Kinoförderung und drei Personen zu deren Stellvertreterinnen oder Stellvertretern für den Zeitraum von drei Jahren (Amtszeit).
 
 (4) Unter den nach Absatz 3 gewählten ordentlichen Mitgliedern und den stellvertretenden Mitgliedern müssen jeweils mindestens eine Frau und mindestens ein Mann sein.
 
@@ -383,7 +393,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (2) Die Kommission für Produktions- und Drehbuchförderung tagt in unterschiedlicher Besetzung mit einer Zahl von jeweils sieben Mitgliedern. Jedes vom Verwaltungsrat nach § 22 Absatz 2 bestellte Mitglied darf maximal an drei Sitzungen im Kalenderjahr teilnehmen. Die Mitglieder sind an Weisungen nicht gebunden.
 
-(3) Die Kommission für Produktions- und Drehbuchförderung ist bei Anwesenheit von vier Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder.
+(3) Die Kommission für Produktions- und Drehbuchförderung ist bei Anwesenheit von vier Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. Entscheidungen der Kommission für Produktions- und Drehbuchförderung können auch in einer Telefonkonferenz oder in einer Videokonferenz getroffen werden.
 
 (4) Den Vorsitz führt der Vorstand oder eine seiner Stellvertretungen ohne Stimmrecht.
 
@@ -395,13 +405,13 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (2) Die Kommission für Verleih-, Vertriebs- und Videoförderung tagt in unterschiedlicher Besetzung mit einer Zahl von jeweils fünf Mitgliedern. Jedes vom Verwaltungsrat nach § 22 Absatz 3 bestellte Mitglied darf maximal an drei Sitzungen im Kalenderjahr teilnehmen. Die Mitglieder sind an Weisungen nicht gebunden.
 
-(3) Die Kommission für Verleih-, Vertriebs- und Videoförderung ist bei Anwesenheit von drei Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. § 26 Absatz 4 gilt entsprechend.
+(3) Die Kommission für Verleih-, Vertriebs- und Videoförderung ist bei Anwesenheit von drei Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. § 26 Absatz 3 Satz 3 und Absatz 4 gilt entsprechend.
 
 # § 28 – Verfahren zur Besetzung der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
 
-(1) Der Vorstand bestimmt für jede Sitzung der Kommission für Produktions- und Drehbuchförderung je eine Vertreterin oder einen Vertreter aus den Bereichen der Kinowirtschaft, der Verleih- und Vertriebswirtschaft, der Videowirtschaft und der Fernsehwirtschaft sowie mindestens einen Hersteller und mindestens eine Drehbuchautorin oder einen Drehbuchautoren oder eine Dramaturgin oder einen Dramaturgen. Hierbei bestimmt der Vorstand für jede Sitzung jeweils mindestens drei Frauen und mindestens drei Männer. Er stellt auch sicher, dass ein in Finanzierungsfragen sachkundiges Mitglied an jeder Sitzung der Kommission teilnimmt.
+(1) Der Vorstand bestimmt für jede Sitzung der Kommission für Produktions- und Drehbuchförderung je eine Vertreterin oder einen Vertreter aus den Bereichen der Kinowirtschaft, der Verleih- und Vertriebswirtschaft, der Videowirtschaft und der Fernsehwirtschaft sowie mindestens eine Herstellerin oder einen Hersteller und mindestens eine Drehbuchautorin oder einen Drehbuchautoren oder eine Dramaturgin oder einen Dramaturgen. Hierbei bestimmt der Vorstand für jede Sitzung jeweils mindestens drei Frauen und mindestens drei Männer. Er stellt auch sicher, dass ein in Finanzierungsfragen sachkundiges Mitglied an jeder Sitzung der Kommission teilnimmt.
 
-(2) Für jede Sitzung der Kommission für Verleih-, Vertriebs- und Videoförderung wählt der Vorstand je mindestens eine Vertreterin oder einen Vertreter aus den Bereichen der Verleih- und Vertriebswirtschaft und der Videowirtschaft sowie einen Hersteller aus. Hierbei bestimmt der Vorstand für jede Sitzung jeweils mindestens zwei Frauen und mindestens zwei Männer. Er stellt auch sicher, dass ein in Finanzierungsfragen sachkundiges Mitglied an jeder Sitzung der Kommission teilnimmt.
+(2) Für jede Sitzung der Kommission für Verleih-, Vertriebs- und Videoförderung wählt der Vorstand je mindestens eine Vertreterin oder einen Vertreter aus den Bereichen der Verleih- und Vertriebswirtschaft und der Videowirtschaft sowie eine Herstellerin oder einen Hersteller aus. Hierbei bestimmt der Vorstand für jede Sitzung jeweils mindestens zwei Frauen und mindestens zwei Männer. Er stellt auch sicher, dass ein in Finanzierungsfragen sachkundiges Mitglied an jeder Sitzung der Kommission teilnimmt.
 
 (3) Die Besetzung der Kommissionen erfolgt in Abstimmung mit dem Präsidium. Näheres zum Verfahren regelt die Satzung.
 
@@ -409,9 +419,9 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (1) Die Kommission für Kinoförderung entscheidet über Förderhilfen im Rahmen der Kinoprojektförderung nach den §§ 134 bis 137 und 140 bis 144, soweit dies nicht nach § 17 in die Zuständigkeit des Vorstands fällt.
 
-(2) Die Kommission für Kinoförderung ist bei Anwesenheit von zwei Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. Die Mitglieder und stellvertretenden Mitglieder sind an Weisungen nicht gebunden.
+(2) Die Kommission für Kinoförderung ist bei Anwesenheit von zwei Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. Die Mitglieder und stellvertretenden Mitglieder sind an Weisungen nicht gebunden. § 26 Absatz 3 Satz 3 und Absatz 4 gilt entsprechend.
 
-(3) Den Vorsitz führt der Vorstand oder eine seiner Stellvertretungen ohne Stimmrecht.
+(3) (weggefallen)
 
 # § 30 – Weitere Förderkommissionen
 
@@ -519,17 +529,19 @@ Die Fördermittel sind ausschließlich für den bestimmten Förderzweck zu verwe
 
 (11) Bezahlfernsehen gegen pauschales Entgelt ist ein linearer Dienst, bei dem Filme innerhalb eines festgelegten Programmangebots gegen ein unabhängig von der Nutzung des einzelnen Films zu zahlendes Entgelt angeboten werden.
 
+(12) Ein gleichgestellter Staat im Sinne dieses Gesetzes ist ein Drittstaat, für den sich hinsichtlich der Filmförderung nach dem Recht der Europäischen Union eine Gleichstellung mit einem Mitgliedstaat ergibt.
+
 # § 41 – Filmbezogene allgemeine Fördervoraussetzungen
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes für die Herstellung, den Absatz, das Abspiel und die Digitalisierung von Filmen gewährt, wenn
 
-1. der Hersteller seinen Wohnsitz oder Sitz im Inland hat oder, sofern der Hersteller seinen Wohnsitz oder Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz hat, eine Niederlassung im Inland zum Zeitpunkt der Auszahlung hat,
+1. der Hersteller seinen Wohnsitz oder Sitz im Inland hat oder, sofern der Hersteller seinen Wohnsitz oder Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem gleichgestellten Staat hat, eine Niederlassung im Inland zum Zeitpunkt der Auszahlung hat,
 
 2. bei programmfüllenden Filmen jedenfalls eine Endfassung des Films, abgesehen von Dialogstellen, für die nach dem Drehbuch eine andere Sprache vorgesehen ist, in deutscher Sprache gedreht oder synchronisiert hergestellt ist und bei Kurzfilmen jedenfalls eine Endfassung des Films mit einer kinotauglichen, deutschen Untertitelung versehen ist,
 
-3. für Studioaufnahmen Studios und für die Produktionstechnik sowie die Postproduktion technische Dienstleistungsfirmen benutzt worden sind, die ihren Sitz im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz haben,
+3. für Studioaufnahmen Studios und für die Produktionstechnik sowie die Postproduktion technische Dienstleistungsfirmen benutzt worden sind, die ihren Sitz im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem gleichgestellten Staat haben,
 
-4. die Regisseurin oder der Regisseur Deutsche oder Deutscher im Sinne des Artikels 116 des Grundgesetzes ist oder dem deutschen Kulturbereich angehört oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz besitzt,
+4. die Regisseurin oder der Regisseur Deutsche oder Deutscher im Sinne des Artikels 116 des Grundgesetzes ist oder dem deutschen Kulturbereich angehört oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines gleichgestellten Staates besitzt,
 
 5. der Film kulturelle, historische oder gesellschaftliche Fragen zum Thema hat,
 
@@ -537,11 +549,11 @@ Die Fördermittel sind ausschließlich für den bestimmten Förderzweck zu verwe
 
 7. mindestens zwei der folgenden Voraussetzungen erfüllt sind:
 
-a) das Originaldrehbuch, auf dem der Film basiert, verwendet überwiegend deutsche Drehorte oder Drehorte in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz;
+a) das Originaldrehbuch, auf dem der Film basiert, verwendet überwiegend deutsche Drehorte oder Drehorte in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem gleichgestellten Staat;
 
-b) die Handlung oder die Stoffvorlage ist aus dem Inland, aus einem anderen Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz;
+b) die Handlung oder die Stoffvorlage ist aus dem Inland, aus einem anderen Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat;
 
-c) der Film verwendet deutsche Motive oder solche aus einem anderen Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz;
+c) der Film verwendet deutsche Motive oder solche aus einem anderen Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat;
 
 d) die Handlung oder die Stoffvorlage beruht auf einer literarischen Vorlage oder entstammt traditionellen Märchen oder Sagen;
 
@@ -555,7 +567,7 @@ g) die Handlung oder die Stoffvorlage befasst sich mit Künstlerinnen oder Küns
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass Förderhilfen für die Filmproduktion unter der Auflage gewährt werden, dass bis zu 160 Prozent des im Rahmen dieses Gesetzes für die Filmproduktion gewährten Förderbetrags im Inland ausgegeben werden. Hierbei darf die territoriale Bindung 80 Prozent des gesamten Produktionsbudgets nicht übersteigen.
 
-(4) Ist die Regisseurin oder der Regisseur entgegen Absatz 1 Nummer 4 nicht Deutsche oder Deutscher oder kommt sie oder er nicht aus dem deutschen Kulturbereich oder aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, so können Förderhilfen gewährt werden, wenn, abgesehen von der Drehbuchautorin oder dem Drehbuchautor oder von bis zu zwei Personen in einer Hauptrolle, alle übrigen Filmschaffenden Deutsche sind oder dem deutschen Kulturbereich oder einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz angehören.
+(4) Ist die Regisseurin oder der Regisseur entgegen Absatz 1 Nummer 4 nicht Deutsche oder Deutscher oder kommt sie oder er nicht aus dem deutschen Kulturbereich oder aus einem anderen Mitgliedstaat der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat, so können Förderhilfen gewährt werden, wenn, abgesehen von der Drehbuchautorin oder dem Drehbuchautor oder von bis zu zwei Personen in einer Hauptrolle, alle übrigen Filmschaffenden Deutsche sind oder dem deutschen Kulturbereich oder einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem gleichgestellten Staat angehören.
 
 (5) Der Vorstand kann Ausnahmen von den Voraussetzungen des Absatzes 1 Nummer 1 und 6 sowie des Absatzes 2 zulassen, wenn die Gesamtwürdigung des Films dies rechtfertigt. Bei programmfüllenden Filmen kann er auch Ausnahmen von der Voraussetzung des Absatzes 1 Nummer 2 zulassen.
 
@@ -563,7 +575,7 @@ g) die Handlung oder die Stoffvorlage befasst sich mit Künstlerinnen oder Küns
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die Herstellung, den Absatz, das Abspiel und die Digitalisierung von Filmen gewährt, die unter der Voraussetzung des § 41 Absatz 1 Nummer 1 und 2 gemeinsam mit mindestens einem Hersteller mit Sitz oder Wohnsitz außerhalb des Geltungsbereichs dieses Gesetzes hergestellt werden oder worden sind und
 
-1. als Gemeinschaftsproduktion im Sinne des Europäischen Übereinkommens vom 2. Oktober 1992 über die Gemeinschaftsproduktion von Kinofilmen (BGBl. 1994 II S. 3566) anerkannt sind,
+1. als Gemeinschaftsproduktion im Sinne des Europäischen Übereinkommens über die Gemeinschaftsproduktion von Kinofilmen in der jeweils geltenden im Bundesgesetzblatt verkündeten Fassung anerkannt sind,
 
 2. den Vorschriften über die Gemeinschaftsproduktion von Filmen eines auf den jeweiligen Film anwendbaren, von der Bundesrepublik Deutschland abgeschlossenen zwei- oder mehrseitigen zwischenstaatlichen Abkommens entsprechen oder
 
@@ -611,7 +623,7 @@ Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die Herstellung, de
 
 (1) Für internationale Koproduktionen im Sinne des § 42 oder internationale Kofinanzierungen im Sinne des § 43 werden Förderhilfen nur gewährt, wenn der Hersteller im Sinne des § 41 Absatz 1 Nummer 1
 
-1. bei einer internationalen Koproduktion mit einer Beteiligung eines Herstellers aus einem außereuropäischen Land innerhalb von fünf Jahren vor Antragstellung allein oder als Koproduzent mit Mehrheitsbeteiligung einen programmfüllenden Spielfilm im Inland, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz hergestellt hat,
+1. bei einer internationalen Koproduktion mit einer Beteiligung eines Herstellers aus einem außereuropäischen Land innerhalb von fünf Jahren vor Antragstellung allein oder als Koproduzent mit Mehrheitsbeteiligung einen programmfüllenden Spielfilm im Inland, in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem gleichgestellten Staat hergestellt hat,
 
 2. zu den gesamten Herstellungskosten des Films die nachfolgenden Anteile beiträgt:
 
@@ -625,9 +637,9 @@ b) in Fällen des § 42 Absatz 1 Nummer 3 mindestens 30 Prozent.
 
 1. der Hersteller im Sinne des § 41 Absatz 1 Nummer 1 zu den gesamten Herstellungskosten des Films mindestens 10 Prozent beiträgt und
 
-2. ein zwei- oder mehrseitiges Abkommen zwischen der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz die Möglichkeit der Förderung von internationalen Koproduktionen oder internationalen Kofinanzierungen eröffnet und sicherstellt, dass die finanziellen, künstlerischen und technischen Beiträge in einem gegenseitigen und ausgewogenen Verhältnis zueinander stehen.
+2. ein zwei- oder mehrseitiges Abkommen zwischen der Bundesrepublik Deutschland und einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem gleichgestellten Staat die Möglichkeit der Förderung von internationalen Koproduktionen oder internationalen Kofinanzierungen eröffnet und sicherstellt, dass die finanziellen, künstlerischen und technischen Beiträge in einem gegenseitigen und ausgewogenen Verhältnis zueinander stehen.
 
-Artikel 10 des Europäischen Übereinkommens über die Gemeinschaftsproduktion von Kinofilmen vom 2. Oktober 1992 (BGBl. 1994 II S. 3566) gilt entsprechend. Eine Referenzförderung nach den §§ 73 bis 90, 91 bis 99 und 127 bis 133 ist für Filme nach Satz 1 ausgeschlossen.
+Artikel 10 des Europäischen Übereinkommens über die Gemeinschaftsproduktion von Kinofilmen in der jeweils geltenden im Bundesgesetzblatt verkündeten Fassung gilt entsprechend. Eine Referenzförderung nach den §§ 73 bis 90, 91 bis 99 und 127 bis 133 ist für Filme nach Satz 1 ausgeschlossen.
 
 (4) Die Förderhilfen dürfen in keinem Fall den finanziellen Beitrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 überschreiten.
 
@@ -651,7 +663,7 @@ Förderhilfen dürfen nicht gewährt werden, wenn der Referenzfilm, der neue Fil
 
 # § 48 – Herstellung der Kopien
 
-Förderhilfen dürfen nur gewährt werden, wenn die Kopien, die für die Auswertung im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz bestimmt sind, in einem dieser Staaten hergestellt werden, es sei denn, dass hierfür die technischen Voraussetzungen nicht gegeben sind.
+Förderhilfen dürfen nur gewährt werden, wenn die Kopien, die für die Auswertung im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem gleichgestellten Staat bestimmt sind, in einem dieser Staaten hergestellt werden, es sei denn, dass hierfür die technischen Voraussetzungen nicht gegeben sind.
 
 # § 49 – Archivierung
 
@@ -733,7 +745,25 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (3) Für Dokumentarfilme, für deren wirtschaftlichen Erfolg eine abweichende Verwertungsfolge erforderlich ist, können auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 in begründeten Ausnahmefällen die regelmäßigen Sperrfristen nach § 53 Absatz 2 Nummer 1 für die Bildträgerauswertung und die Auswertung durch entgeltliche Videoabrufdienste, bei denen ein Entgelt für die Nutzung des einzelnen Films zu zahlen ist, über die in § 54 Absatz 1 Nummer 1 genannten Fristen hinaus verkürzt werden oder entfallen.
 
-(4) Die Filmförderungsanstalt legt spätestens zum 30. Juni 2019 einen Evaluierungsbericht vor, wie sich Verkürzungen nach Absatz 1 oder Absatz 3 auf den Zuschauererfolg dieser Filme im Kino ausgewirkt haben.
+(4) Die Filmförderungsanstalt legt spätestens zum 31. März 2022 einen Evaluierungsbericht vor, wie sich Verkürzungen nach Absatz 1 oder Absatz 3 auf den Zuschauererfolg dieser Filme im Kino ausgewirkt haben.
+
+# § 55a – Abweichende Regelungen über die Sperrfristen
+
+(1) Von den Regelungen der §§ 53 bis 55 kann durch Richtlinie des Verwaltungsrats abgewichen werden.
+
+(2) Für Entscheidungen über Sperrfristenverkürzungen gilt im Fall abweichender Regelungen nach Absatz 1 § 19 entsprechend.
+
+# § 55b – Ersetzung der regulären Erstaufführung und Fortsetzung der weiteren Kinoauswertung in Fällen höherer Gewalt
+
+(1) In besonders begründeten Ausnahmefällen kann die reguläre Erstaufführung im Kino auf Antrag durch eine Online-Erstaufführung auf entgeltlichen Videoabrufdiensten ersetzt werden, wenn
+
+1. aufgrund höherer Gewalt eine reguläre Erstaufführung des Films im Kino für eine nicht unerhebliche Dauer nicht bundesweit möglich ist und
+
+2. die Kinowirtschaft an der Verwertung des Films bis zum Ablauf der regelmäßigen Sperrfrist nach § 53 Absatz 2 Nummer 1 maßgeblich beteiligt wird.
+
+(2) Sofern eine reguläre Erstaufführung im Kino stattgefunden hat, die weitere Kinoauswertung aufgrund höherer Gewalt jedoch für eine nicht unerhebliche Dauer nicht bundesweit möglich ist, kann die Auswertung auf Antrag in besonders begründeten Ausnahmefällen auf entgeltlichen Videoabrufdiensten fortgesetzt werden, wenn die Kinowirtschaft an der Verwertung des Films bis zum Ablauf der regelmäßigen Sperrfrist nach § 53 Absatz 2 Nummer 1 maßgeblich beteiligt wird.
+
+(3) § 54 Absatz 1 Nummer 1 bleibt unberührt. Wird eine Verkürzung der Sperrfrist nach § 54 Absatz 1 Nummer 1 gewährt, ist die Kinowirtschaft bis zum Ablauf der ordentlich verkürzten Sperrfrist maßgeblich zu beteiligen.
 
 # § 56 – Nichtanwendung der Sperrfristenregelungen
 
@@ -764,6 +794,12 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 (1) Projektfilmförderung kann gewährt werden, wenn ein Filmvorhaben einen programmfüllenden Film erwarten lässt, der besonders geeignet erscheint, die Qualität und die Wirtschaftlichkeit des deutschen Films zu verbessern. Es sollen Filmvorhaben aller Art gefördert werden, darunter in angemessenem Umfang auch Projekte von talentierten Nachwuchskräften, Kinderfilmprojekte, die auf Originalstoffen beruhen, und Projekte, die auch zur Ausstrahlung im Fernsehen geeignet sind.
 
 (2) Bei Filmvorhaben, die einen nicht programmfüllenden Film mit einer Vorführzeit von mehr als 30 Minuten erwarten lassen, kann der Vorstand auf Antrag Ausnahmen von der Voraussetzung zulassen, dass der Film programmfüllend sein muss, wenn die Gesamtwürdigung des Films dies rechtfertigt.
+
+# § 59a – Ökologisch nachhaltige Herstellung von Filmen
+
+(1) Förderhilfen gemäß § 59 werden nur gewährt, wenn bei der Herstellung des Films wirksame Maßnahmen zur Förderung der ökologischen Nachhaltigkeit getroffen werden.
+
+(2) Die Einzelheiten hierzu regelt eine Richtlinie des Verwaltungsrats unter zwingender Berücksichtigung von § 2 Satz 1 Nummer 8.
 
 # § 60 – Art und Höhe, Mindestförderquote
 
@@ -857,7 +893,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (3) Der Film muss zu der Filmmiete vermietet werden, die bei Inkrafttreten dieses Gesetzes für deutsche Filme üblich ist.
 
-(4) Die Vermietung des Films an ein Kino darf nicht abhängig gemacht werden von der Miete eines oder mehrerer ausländischer Filme oder Reprisen, die nicht aus einem Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz stammen.
+(4) Die Vermietung des Films an ein Kino darf nicht abhängig gemacht werden von der Miete eines oder mehrerer ausländischer Filme oder Reprisen, die nicht aus einem Mitgliedstaat der Europäischen Union, aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat stammen.
 
 (5) Bei der Aufbringung der Herstellungskosten des Films muss das Risiko des erheblich mitfinanzierenden Verleihers angemessen vermindert werden.
 
@@ -872,6 +908,8 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 (10) Der Hersteller des Films muss entweder versichern, dass keine Auslandsrechteerteilung an dem Film stattfindet, oder nachweisen, dass er bei einer solchen Auslandsrechteerteilung einen Beitrag an die zentrale Dienstleistungsorganisation der deutschen Filmwirtschaft für die Außenvertretung des deutschen Films leistet. Der Beitrag beträgt 1,5 Prozent der Nettoerlöse des Films, maximal jedoch 50 000 Euro pro Film.
 
 (11) Der Hersteller des Films muss die Filmförderungsanstalt darüber informieren, ob auf das für die Produktionsdauer des Films beschäftigte Personal ein Branchentarifvertrag anwendbar ist oder auf anderem Weg die Einhaltung entsprechender sozialer Standards vereinbart wurde.
+
+(12) Der Hersteller muss den durch die Produktion des Films verursachten Ausstoß von Treibhausgasen mittels eines CO<sub>2</sub>-Rechners nachweisen.
 
 (+++ § 67 Abs. 1 i.V.m. Abs. 10: zur Anwendung vgl. § 83 Abs. 3 +++)
 
@@ -927,7 +965,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 4. die Bewilligung oder Auszahlung aufgrund unrichtiger Angaben über wesentliche Voraussetzungen erfolgt ist,
 
-5. die Auflagen nach § 67 Absatz 1 in Verbindung mit Absatz 2 bis 10 nicht erfüllt wurden oder
+5. die Auflagen nach § 67 Absatz 1 in Verbindung mit Absatz 2 bis 12 nicht erfüllt wurden oder
 
 6. Auszahlungshindernisse nach § 69 Absatz 2 nachträglich eingetreten oder bekannt geworden sind.
 
@@ -995,9 +1033,9 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 78: zur Anwendung vgl. § 127 Abs. 2 +++)
 
-# § 79 – Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz
+# § 79 – Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat
 
-Ist die Gegenseitigkeit verbürgt, so können in die Referenzfilmförderung nach § 73 Absatz 1 und § 76 Absatz 1 jährlich bis zu drei Filme aus anderen Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz einbezogen werden. Dabei ist jeweils nur die im Inland erreichte Besucherzahl maßgebend. Die Erfolge bei Festivals und Preisen werden nicht berücksichtigt.
+Ist die Gegenseitigkeit verbürgt, so können in die Referenzfilmförderung nach § 73 Absatz 1 und § 76 Absatz 1 jährlich bis zu drei Filme aus anderen Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat einbezogen werden. Dabei ist jeweils nur die im Inland erreichte Besucherzahl maßgebend. Die Erfolge bei Festivals und Preisen werden nicht berücksichtigt.
 
 # § 80 – Verteilung der Referenzpunkte
 
@@ -1023,13 +1061,13 @@ Referenzfilmförderung wird als Zuschuss gewährt. Die Höchstfördersumme betr�
 
 (2) Steht dem Grunde nach fest, dass ein Film eine hinreichende Referenzpunktzahl erreicht hat, kann der Vorstand nach Maßgabe der Haushaltslage der Filmförderungsanstalt bis zu 70 Prozent des Referenzwertes des Vorjahres vorab zuerkennen.
 
-(3) Für den Bescheid über die Zuerkennung der Förderhilfen gilt § 67 Absatz 1 in Verbindung mit Absatz 10 für den Referenzfilm entsprechend. Der Bescheid ist zudem mit Auflagen zu verbinden, um sicherzustellen, dass für den Fall, dass die Förderhilfe zur Herstellung eines neuen programmfüllenden Films verwendet wird, der neue Film den jeweils geltenden Voraussetzungen der §§ 41 bis 48 sowie den Voraussetzungen des § 67 Absatz 2 bis 11 entspricht. Die antragstellende Person kann die Erfüllung der Voraussetzungen nach § 67 Absatz 2 bis 11 bis zur Auszahlung der Förderhilfe nachholen.
+(3) Für den Bescheid über die Zuerkennung der Förderhilfen gilt § 67 Absatz 1 in Verbindung mit Absatz 10 für den Referenzfilm entsprechend. Der Bescheid ist zudem mit Auflagen zu verbinden, um sicherzustellen, dass für den Fall, dass die Förderhilfe zur Herstellung eines neuen programmfüllenden Films verwendet wird, der neue Film den jeweils geltenden Voraussetzungen der §§ 41 bis 48 sowie den Voraussetzungen des § 67 Absatz 2 bis 12 entspricht. Die antragstellende Person kann die Erfüllung der Voraussetzungen nach § 67 Absatz 2 bis 12 bis zur Auszahlung der Förderhilfe nachholen.
 
 (+++ § 83 Abs. 1 u. 2: zur Anwendung vgl. § 129 +++)
 
 # § 84 – Verwendung
 
-(1) Der Hersteller hat die Förderhilfen spätestens bis zum Ablauf von drei Jahren nach Erlass des jeweiligen Zuerkennungsbescheids vorrangig für die Herstellung neuer programmfüllender Filme im Sinne der §§ 41 bis 48 zu verwenden. Die §§ 63 und 64 gelten entsprechend.
+(1) Der Hersteller hat die Förderhilfen spätestens bis zum Ablauf von drei Jahren nach Erlass des jeweiligen Zuerkennungsbescheids vorrangig für die Herstellung neuer programmfüllender Filme im Sinne der §§ 41 bis 48 zu verwenden. Die §§ 59a, 63 und 64 gelten entsprechend.
 
 (2) Ist der Betrag für eine internationale Koproduktion zuerkannt worden, bei der die Beteiligung des Herstellers nach § 41 Absatz 1 Nummer 1 nach § 42 weniger als 50 Prozent betragen hat, so darf der Betrag nur für die Finanzierung eines Films verwendet werden, an dem die Beteiligung des Herstellers nach § 41 Absatz 1 Nummer 1 nach § 42 mindestens 50 Prozent beträgt oder größer ist als die Beteiligung jedes anderen Koproduzenten.
 
@@ -1095,7 +1133,7 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 1. Auszeichnung eines Films mit dem Deutschen Kurzfilmpreis, mit einem anderen national oder einem international bedeutsamen Preis oder im Wettbewerb bei einem national oder international bedeutsamen Festival mit jeweils zehn Referenzpunkten,
 
-2. Nominierung beim Deutschen Kurzfilmpreis, bei einem anderen national oder einem international bedeutsamen Preis oder Wettbewerbsteilnahme bei einem national oder international bedeutsamen Festival sowie Auszeichnung mit dem Deutschen Wirtschaftsfilmpreis, dem Friedrich-Wilhelm-Murnau-Kurzfilmpreis oder dem Kurzfilmpreis der Filmförderungsanstalt mit jeweils fünf Referenzpunkten.
+2. Nominierung beim Deutschen Kurzfilmpreis, bei einem anderen national oder einem international bedeutsamen Preis oder Wettbewerbsteilnahme bei einem national oder international bedeutsamen Festival sowie Auszeichnung mit dem Deutschen Wirtschaftsfilmpreis oder dem Kurzfilmpreis der Filmförderungsanstalt mit jeweils fünf Referenzpunkten.
 
 (2) Bei der Berechnung der Referenzpunktzahl nach Absatz 1 werden nur solche Erfolge berücksichtigt, die innerhalb von zwei Jahren nach Fertigstellung des Films erreicht wurden. Wird ein Film auf einem Festival mit einem Preis ausgezeichnet, bleiben Teilnahme und Nominierung unberücksichtigt. Die nach Absatz 1 zu berücksichtigenden Preise und Festivals legt der Verwaltungsrat durch Richtlinie fest.
 
@@ -1141,7 +1179,7 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 2. der neue Film den jeweils geltenden Anforderungen der §§ 41 bis 48 entspricht.
 
-(2) Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, ist der Hersteller verpflichtet, innerhalb von zwei Jahren nach Auszahlung der Förderhilfen oder eines Teilbetrags davon der Filmförderungsanstalt eine Kopie des neuen Films auf digitalem Bildträger zur Prüfung vorzulegen. Die Filmförderungsanstalt kann die Frist um höchstens ein Jahr verlängern, wenn der Hersteller nachweist, dass er die Frist aus von ihm nicht zu vertretenden Gründen nicht einhalten kann. Die Filmförderungsanstalt kann ganz oder teilweise auf die Vorlage der Kopien verzichten und bestimmen, dass der Film auf anderem Wege zugänglich gemacht wird.
+(2) Werden die Förderhilfen für die Herstellung neuer Filme nach § 96 verwendet, ist der Hersteller verpflichtet, innerhalb von zwei Jahren nach Auszahlung der Förderhilfen oder eines Teilbetrags davon der Filmförderungsanstalt eine Kopie des neuen Films auf digitalem Bildträger zur Prüfung vorzulegen. Die Filmförderungsanstalt kann die Frist um höchstens ein Jahr verlängern, wenn der Hersteller nachweist, dass er die Frist aus von ihm nicht zu vertretenden Gründen nicht einhalten kann. Die Filmförderungsanstalt kann ganz oder teilweise auf die Vorlage der Kopien verzichten und bestimmen, dass der Film auf anderem Wege zugänglich gemacht wird.
 
 # § 99 – Rückzahlung
 
@@ -1409,7 +1447,7 @@ Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprec
 
 # § 129 – Zuerkennung
 
-Für die Zuerkennung der Förderhilfen gelten § 83 Absatz 1 und 2 und § 129 in Verbindung mit § 122 entsprechend.
+Für die Zuerkennung der Förderhilfen gelten § 83 Absatz 1 und 2 und § 122 entsprechend.
 
 (+++ § 129: zur Anwendung vgl. § 129 +++)
 
@@ -1489,7 +1527,7 @@ Die Filmförderungsanstalt kann Förderhilfen gewähren
 
 # § 136 – Erlass von Restschulden
 
-(1) Statt einer Förderhilfe nach § 134 Nummer 1 kann die Filmförderungsanstalt einem Kino für Maßnahmen zur Modernisierung und Verbesserung sowie zur Neuerrichtung auf Antrag einmalig bis zu 50 Prozent einer zum 1. Januar 2017 bei der Filmförderungsanstalt bestehenden Restschuld aus einem laufenden Darlehen für eine frühere Förderung erlassen, wenn der Kinobetreiber
+(1) Statt einer Förderhilfe nach § 134 Nummer 1 kann die Filmförderungsanstalt einem Kino für Maßnahmen zur Modernisierung und Verbesserung sowie zur Neuerrichtung auf Antrag einmalig bis zu 50 Prozent einer zum 1. Januar 2022 bei der Filmförderungsanstalt bestehenden Restschuld aus einem laufenden Darlehen für eine frühere Förderung erlassen, wenn der Kinobetreiber
 
 1. bis zur Antragstellung das laufende Darlehen bisher regelmäßig getilgt hat,
 
@@ -1511,7 +1549,7 @@ Können nicht alle geeigneten Vorhaben angemessen gefördert werden, so wählt d
 
 Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 000 Referenzpunkte erreichen. Die Referenzpunkte für die Förderung nach Satz 1 setzen sich folgendermaßen zusammen:
 
-1. Einen Referenzpunkt pro Besucherin oder Besucher erhalten Kinos, die mit dem Kinoprogrammpreis der für Kultur und Medien zuständigen obersten Bundesbehörde ausgezeichnet wurden oder bei denen das entgeltliche Abspiel von Filmen nach § 41 oder den §§ 42, 44 und sonstigen Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz den 1,5-fachen Wert des Zuschauermarktanteils für den deutschen Film und für Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz erreicht hat.
+1. Einen Referenzpunkt pro Besucherin oder Besucher erhalten Kinos, die mit dem Kinoprogrammpreis der für Kultur und Medien zuständigen obersten Bundesbehörde ausgezeichnet wurden oder bei denen das entgeltliche Abspiel von Filmen nach § 41 oder den §§ 42, 44 und sonstigen Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat den 1,5-fachen Wert des Zuschauermarktanteils für den deutschen Film und für Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus einem gleichgestellten Staat erreicht hat.
 
 2. Zwei Referenzpunkte pro Besucherin oder Besucher erhalten Kinos, in denen das entgeltliche Abspiel von Filmen nach § 41 oder den §§ 42, 44 den 1,75-fachen Wert des Zuschauermarktanteils des deutschen Films im vergangenen Kalenderjahr erreicht hat.
 
@@ -1547,7 +1585,9 @@ Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 00
 
 # § 143 – Verwendung der Kinoreferenzförderung
 
-Förderhilfen nach § 138 sollen vorrangig für neue Maßnahmen im Sinne des § 134 verwendet werden. Sie können auch für Werbemaßnahmen für deutsche Filme und Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz gewährt werden. Die Förderhilfen können jeweils für Maßnahmen verwendet werden, die nach Antragstellung begonnen wurden, auch wenn die betreffende Maßnahme zum Zeitpunkt der Zuerkennung bereits abgeschlossen ist.
+(1) Förderhilfen nach § 138 sollen vorrangig für neue Maßnahmen im Sinne des § 134 verwendet werden. Sie können auch für Werbemaßnahmen gewährt werden. Die Förderhilfen können jeweils für Maßnahmen verwendet werden, die nach Antragstellung begonnen wurden, auch wenn die betreffende Maßnahme zum Zeitpunkt der Zuerkennung bereits abgeschlossen ist.
+
+(2) In besonders begründeten Ausnahmefällen können auf Antrag des Kinobetreibers oder der Kinobetreiberin die nach § 138 zuerkannten Förderhilfen zur Aufrechterhaltung des Kinobetriebs sowie für weitere unternehmenserhaltende Maßnahmen verwendet werden, wenn der Kinobetrieb aufgrund höherer Gewalt in eine wirtschaftliche Notlage geraten ist oder eine wirtschaftliche Notlage aufgrund höherer Gewalt unmittelbar droht. Der Verwaltungsrat legt insbesondere die Art der förderfähigen unternehmenserhaltenden Maßnahmen sowie die Anforderungen, die an den Nachweis der zweckgemäßen Verwendung zu stellen sind, durch Richtlinie fest.
 
 # § 144 – Schlussprüfung, Rückzahlung
 
@@ -1587,11 +1627,19 @@ Die Filmabgabe wird durch Bescheid erhoben. Widerspruch und Anfechtungsklage geg
 
 (1) Die Filmabgabe der Kinos, der Videoprogrammanbieter und der Anbieter von Videoabrufdiensten nach den §§ 151 bis 153 ist monatlich jeweils bis zum Zehnten des folgenden Monats an die Filmförderungsanstalt zu zahlen.
 
-(2) Die Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156 ist halbjährlich jeweils zum 1. Januar und zum 1. Juli eines Jahres an die Filmförderungsanstalt zu zahlen.
+(2) Die Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156a ist halbjährlich jeweils zum 1. Januar und zum 1. Juli eines Jahres an die Filmförderungsanstalt zu zahlen.
 
 # § 150 – Begriffsbestimmung Kinofilm
 
-Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder in seinem Ursprungsland gegen Entgelt im Kino aufgeführt wurde.
+Ein Kinofilm im Sinne der §§ 152 bis 156a ist ein Film, der in Deutschland oder in seinem Ursprungsland gegen Entgelt im Kino aufgeführt wurde.
+
+# § 150a – Begriffsbestimmungen Nettoumsatz und Nettowerbeumsatz
+
+(1) Nettoumsatz im Sinne der §§ 151 bis 153 und 156 und 156a ist die Summe der jeweils abgaberelevanten Umsatzerlöse abzüglich etwaiger Erlösschmälerungen und abzüglich der Umsatzsteuer.
+
+(2) Nettowerbeumsatz im Sinne des § 155 ist die Summe der Werbeumsatzerlöse abzüglich etwaiger Erlösschmälerungen und abzüglich der Umsatzsteuer.
+
+(3) Erlösschmälerungen nach den Absätzen 1 und 2 umfassen ausschließlich etwaige Rabatte, Skonti oder Boni.
 
 # § 151 – Filmabgabe der Kinos
 
@@ -1635,6 +1683,8 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (4) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
+(5) Bei Videoabrufdiensten gegen ein pauschales Entgelt entspricht der abgabepflichtige Nettoumsatz dem Kinofilmanteil am Nettogesamtumsatz aus Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland. Der Kinofilmanteil entspricht hierbei dem Anteil der tatsächlichen Sehdauer von Kinofilmen an der tatsächlichen Sehdauer des Gesamtangebots in Deutschland.
+
 # § 154 – Filmabgabe der öffentlich-rechtlichen Fernsehveranstalter
 
 (1) Die öffentlich-rechtlichen Fernsehveranstalter haben eine Filmabgabe in Höhe von 3 Prozent ihrer Kosten für die Ausstrahlung von Kinofilmen des vorletzten Jahres zu zahlen. Zu den Kosten zählen die Lizenzkosten, anteilige Programmverbreitungs- und Verwaltungskosten sowie Koproduktionsbeiträge zu Kinofilmen.
@@ -1659,17 +1709,25 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (3) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-# § 156 – Filmabgabe der Veranstalter von Bezahlfernsehen und der Programmvermarkter
+# § 156 – Filmabgabe der Veranstalter von Bezahlfernsehen
 
-(1) Die Veranstalter von Bezahlfernsehen gegen pauschales Entgelt haben eine Filmabgabe in Höhe von 0,25 Prozent ihrer Nettoumsätze mit Abonnementverträgen mit Letztverbraucherinnen und Letztverbrauchern in Deutschland im vorletzten Jahr zu leisten, soweit diese Umsätze nicht auf die Erbringung technischer Leistungen entfallen und 750 000 Euro im Jahr übersteigen.
+(1) Die Veranstalter von Bezahlfernsehen gegen pauschales Entgelt haben eine Filmabgabe in Höhe von 0,45 Prozent ihrer Nettoumsätze mit Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland im vorletzten Jahr zu leisten, wenn diese Umsätze 750 000 Euro im Jahr übersteigen und soweit diese Umsätze nicht auf die Erbringung technischer Leistungen entfallen.
 
 (2) Absatz 1 gilt entsprechend für Veranstalter von Bezahlfernsehen gegen individuelles Entgelt.
 
-(3) Absatz 1 gilt entsprechend für Programmvermarkter, die Bündel von Programmangeboten nach Absatz 1 oder Absatz 2 an Endverbraucher vermarkten.
+(3) Bei der Berechnung der Abgabenhöhe sind nur solche Programmangebote einzubeziehen, die in Deutschland veranstaltet und verbreitet werden. Nicht einzubeziehen sind Programmangebote, bei denen der Anteil von Kinofilmen an der Gesamtsendezeit weniger als 2 Prozent beträgt.
 
-(4) Bei der Berechnung der Abgabenhöhe sind nur solche Programmangebote einzubeziehen, die in Deutschland veranstaltet und verbreitet werden. Nicht einzubeziehen sind Programmangebote, bei denen der Anteil von Kinofilmen an der Gesamtsendezeit weniger als 2 Prozent beträgt.
+(4) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-(5) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
+# § 156a – Filmabgabe der Programmvermarkter
+
+(1) Programmvermarkter, die Bündel von Programmangeboten bestehend aus Kinofilmen und anderen audiovisuellen Inhalten gegen pauschales Entgelt an Endverbraucherinnen und Endverbraucher vermarkten, haben eine Filmabgabe in Höhe von 0,25 Prozent ihrer auf diese Bündel entfallenden Nettoumsätze mit Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland im vorletzten Jahr zu leisten, wenn die Nettoumsätze mit Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland 750 000 Euro im Jahr übersteigen und soweit diese Umsätze nicht auf die Erbringung technischer Leistungen entfallen.
+
+(2) Programmvermarkter, die Bündel von Programmangeboten mit einem Kinofilmanteil von mindestens 90 Prozent gegen pauschales Entgelt an Endverbraucherinnen und Endverbraucher vermarkten, haben eine Filmabgabe in Höhe von 2,5 Prozent ihrer auf diese Bündel entfallenden Nettoumsätze mit Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland im vorletzten Jahr zu leisten, wenn die Nettoumsätze mit Abonnementverträgen mit Endverbraucherinnen und Endverbrauchern in Deutschland 750 000 Euro im Jahr übersteigen und soweit diese Umsätze nicht auf die Erbringung technischer Leistungen entfallen.
+
+(3) Bei der Berechnung der Abgabenhöhe nach den Absätzen 1 und 2 sind nur solche Programmangebote einzubeziehen, die in Deutschland veranstaltet und verbreitet werden. Nicht einzubeziehen sind Programmangebote, bei denen der Anteil von Kinofilmen an der Gesamtsendezeit weniger als 2 Prozent beträgt.
+
+(4) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
 # § 157 – Medialeistungen
 
@@ -1677,9 +1735,9 @@ Die Fernsehveranstalter können bis zu 40 Prozent ihrer Abgaben nach den §§ 15
 
 # § 158 – Zusätzliche Leistungen der Fernsehveranstalter und Programmvermarkter
 
-Über die sich aus den §§ 154 bis 156 ergebenden Beträge hinausgehende Zahlungen oder sonstige Leistungen der Fernsehveranstalter und Programmvermarkter werden in Verträgen mit der Filmförderungsanstalt vereinbart.
+Über die sich aus den §§ 154 bis 156a ergebenden Beträge hinausgehende Zahlungen oder sonstige Leistungen der Fernsehveranstalter und Programmvermarkter werden in Verträgen mit der Filmförderungsanstalt vereinbart.
 
-# § 159 – Aufteilung der Einnahmen auf die Förderarten
+# § 159 – Aufteilung der Einnahmen auf die Förderbereiche
 
 (1) Von den Einnahmen der Filmförderungsanstalt sind bis zu 10 Prozent für die Erfüllung der Aufgaben nach § 3 Absatz 2 zu verwenden. Über die konkrete Aufteilung der Mittel entscheidet das Präsidium auf Vorschlag des Vorstands.
 
@@ -1713,13 +1771,23 @@ Die prozentualen Anteile beziehen sich auf die Einnahmen der Filmförderungsanst
 
 # § 160 – Verwendung der Filmabgabe der Fernsehveranstalter und Programmvermarkter
 
-Die Einnahmen der Filmförderungsanstalt aus der Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156 und 158 sind nach anteiligem Abzug der Verwaltungskosten und der Aufwendungen nach § 159 Absatz 1 für die Projektfilmförderung zu verwenden. Für den Fall, dass diese Mittel die nach Maßgabe des § 159 Absatz 2 Nummer 1 für die Projektfilmförderung zur Verfügung stehenden Mittel übersteigen, sind diese Einnahmen abweichend von § 159 Absatz 2 Satz 1 dennoch in voller Höhe für die Projektfilmförderung zu verwenden. Der Anteil der für die anderen Förderarten zu verwendenden Einnahmen reduziert sich entsprechend.
+Die Einnahmen der Filmförderungsanstalt aus der Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156a und 158 sind nach anteiligem Abzug der Verwaltungskosten und der Aufwendungen nach § 159 Absatz 1 für die Projektfilmförderung zu verwenden. Für den Fall, dass diese Mittel die nach Maßgabe des § 159 Absatz 2 Nummer 1 für die Projektfilmförderung zur Verfügung stehenden Mittel übersteigen, sind diese Einnahmen abweichend von § 159 Absatz 2 Satz 1 dennoch in voller Höhe für die Projektfilmförderung zu verwenden. Der Anteil der für die anderen Förderarten zu verwendenden Einnahmen reduziert sich entsprechend.
 
 # § 161 – Ermächtigung des Verwaltungsrats
 
 (1) Soweit dieses Gesetz keine Bestimmung trifft, obliegt die Entscheidung über die Verteilung der Mittel auf die einzelnen Förderarten dem Verwaltungsrat.
 
 (2) Im Rahmen der insgesamt zur Verfügung stehenden Mittel kann der Verwaltungsrat bei der Beschlussfassung über den Wirtschaftsplan die Prozentsätze des § 159 Absatz 2 um bis zu 25 Prozent über- oder unterschreiten (Abweichungsspielraum). Stehen der Filmförderungsanstalt für denselben Förderzweck Mittel aus dem Bundeshaushalt zur Verfügung, können die Prozentsätze des § 159 Absatz 2 um bis zu 20 Prozent unterschritten werden. Jede Abweichung ist im Rahmen des Abweichungsspielraums anderer Ansätze auszugleichen.
+
+# § 161a – Ausnahmsweise Umwidmung in Fällen höherer Gewalt
+
+(1) In besonderen Ausnahmesituationen kann der Verwaltungsrat unter Berücksichtigung der Gesamtumstände und der insgesamt zur Verfügung stehenden Mittel entscheiden, dass Mittel nach § 159 Absatz 2 auch für die Erfüllung der Aufgaben nach § 3 Absatz 2 in Verbindung mit § 2 Satz 1 Nummer 1 verwendet werden sollen, wenn dies zur Abwendung oder Minderung von Schäden für die Struktur der deutschen Filmwirtschaft, die aufgrund höherer Gewalt drohen oder bereits eingetreten sind, unbedingt geboten erscheint (Umwidmung). § 160 bleibt unberührt.
+
+(2) Es können jeweils bis zu 25 Prozent der Ansätze nach § 159 Absatz 2 durch Beschluss des Verwaltungsrats umgewidmet werden. Über- und Unterschreitungen nach § 161 Absatz 2 sind bei der Bemessung zu berücksichtigen.
+
+(3) Die Umwidmungen erfolgen aus den Ansätzen derjenigen Förderbereiche, für deren antragsberechtigte Personen die umgewidmeten Mittel verwendet werden sollen.
+
+(4) Der Beschluss des Verwaltungsrats nach Absatz 1 ergeht mit einer Mehrheit von zwei Dritteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder.
 
 # § 162 – Verwendung von Tilgungen
 
@@ -1737,7 +1805,7 @@ Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von 
 
 # § 164 – Auskünfte
 
-(1) Wer nach diesem Gesetz eine Filmabgabe zu leisten hat, muss der Filmförderungsanstalt die für die Durchführung dieses Gesetzes erforderlichen Auskünfte erteilen und entsprechende Unterlagen vorlegen. Dies gilt auch für Personen, die eine Filmabgabe nur deshalb nicht zu leisten haben, weil die in § 151 Absatz 1, § 152 Absatz 1 Satz 2, § 153, § 155 Absatz 1 Satz 1 oder § 156 Absatz 1 genannten Umsatzgrenzen nicht erreicht werden oder der Kinofilmanteil unter den in § 152 Absatz 1 Satz 2, § 155 Absatz 1 Satz 1 oder § 156 Absatz 4 Satz 2 genannten Umsatzgrenzen liegt, oder bei denen das Vorliegen der sonstigen Voraussetzungen für eine Abgabepflicht nur bei Erteilung entsprechender Auskünfte geprüft werden kann. Die Auskunftspflicht erstreckt sich auf
+(1) Wer nach diesem Gesetz eine Filmabgabe zu leisten hat, muss der Filmförderungsanstalt die für die Durchführung dieses Gesetzes erforderlichen Auskünfte erteilen und entsprechende Unterlagen vorlegen. Dies gilt auch sowohl für Personen, die eine Filmabgabe nur deshalb nicht zu leisten haben, weil die in § 151 Absatz 1, § 152 Absatz 1 Satz 2, § 153, § 155 Absatz 1, § 156 Absatz 1 oder § 156a Absatz 1 und 2 genannten Umsatzgrenzen nicht erreicht werden oder weil der Kinofilmanteil unter den in § 152 Absatz 1 Satz 2, § 155 Absatz 1, § 156 Absatz 3 Satz 2 oder § 156a Absatz 3 Satz 2 genannten Umsatzgrenzen liegt, als auch für Personen, bei denen das Vorliegen der sonstigen Voraussetzungen für eine Abgabepflicht nur bei Erteilung entsprechender Auskünfte geprüft werden kann. Die Auskunftspflicht erstreckt sich auf
 
 1. die Firmierung und Konzernzugehörigkeit sowie den Geschäfts- oder Wohnsitz des Abgabepflichtigen,
 
@@ -1833,23 +1901,23 @@ Die Filmförderungsanstalt erstellt anhand der Angaben nach § 164 jährlich ein
 
 # § 170 – Übergangsregelungen
 
-(1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2017 entstanden sind, werden nach den bis zum 31. Dezember 2016 geltenden Vorschriften abgewickelt. Im Rahmen der Darlehenstilgung zurückgezahlte Fördermittel, die nach dem Filmförderungsgesetz in der bis zum 31. Dezember 2016 geltenden Fassung als Zuschuss für neue Vorhaben rückgewährt werden konnten, können nur bis zum 31. Dezember 2018 abgerufen werden.
+(1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2022 entstanden sind, werden nach den bis zum 31. Dezember 2021 geltenden Vorschriften abgewickelt.
 
-(2) Soweit Verwaltungsverfahren bei Inkrafttreten dieses Gesetzes liefen, werden diese nach den bis zum 31. Dezember 2016 geltenden Vorschriften fortgesetzt.
+(2) Soweit Verwaltungsverfahren bei Inkrafttreten dieses Gesetzes liefen, werden diese nach den bis zum 31. Dezember 2021 geltenden Vorschriften fortgesetzt.
 
-(3) Der am 31. Dezember 2016 im Amt befindliche Verwaltungsrat bleibt bis zum ersten Zusammentreten des nach den Vorschriften dieses Gesetzes nach dem 1. Januar 2017 berufenen Verwaltungsrats im Amt. Die am 31. Dezember 2016 im Amt befindliche Vergabekommission und die Unterkommission für die Drehbuchförderung bleiben bis zum ersten Zusammentreten der Kommission für Produktions- und Drehbuchförderung, die Unterkommission für die Förderung des Filmabsatzes im In- und Ausland und die Unterkommission für die Förderung des Absatzes von mit Filmen bespielten Bildträgern und des Absatzes von Filmen mittels Videoabrufdiensten bleiben bis zum ersten Zusammentreten der Kommission für Verleih-, Vertriebs- und Videoförderung und die Unterkommission für die Förderung des Filmabspiels bleibt bis zum ersten Zusammentreten der Kommission für Kinoförderung im Amt.
+(3) Der am 31. Dezember 2021 im Amt befindliche Verwaltungsrat bleibt bis zum ersten Zusammentreten des nach den Vorschriften dieses Gesetzes nach dem 1. Januar 2022 berufenen Verwaltungsrats im Amt. Die am 31. Dezember 2021 im Amt befindliche Kommission für Produktions- und Drehbuchförderung, die Kommission für Verleih-, Vertriebs- und Videoförderung und die Kommission für Kinoförderung bleiben bis zum 31. Dezember 2023 im Amt.
 
-(4) Anträge auf Referenzfilmförderung können auch gestellt werden, wenn der Referenzfilm zwischen dem 1. Januar 2016 und dem 1. Januar 2017 erstaufgeführt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat. Anträge auf Referenzförderung für Kurzfilme und nicht programmfüllende Kinderfilme können auch gestellt werden, wenn der Film zwischen dem 1. Januar 2015 und dem 1. Januar 2017 fertiggestellt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat.
+(4) Anträge auf Referenzfilmförderung können auch gestellt werden, wenn der Referenzfilm zwischen dem 1. Januar 2021 und dem 1. Januar 2022 erstaufgeführt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat. Anträge auf Referenzförderung für Kurzfilme und nicht programmfüllende Kinderfilme können auch gestellt werden, wenn der Film zwischen dem 1. Januar 2020 und dem 1. Januar 2022 fertiggestellt wurde oder eine Kennzeichnung nach § 14 des Jugendschutzgesetzes erhalten hat.
 
 (5) Wurden Förderhilfen bis zum 31. Dezember 2020 bewilligt, ist für die Frage, ob ein Staat als Mitgliedstaat der Europäischen Union gilt, auf den Bewilligungszeitpunkt abzustellen.
 
 # § 171 – Beendigung der Filmförderung
 
-(1) Die Erhebung der Filmabgabe endet am 31. Dezember 2021. Die Filmförderungsanstalt legt der für Kultur und Medien zuständigen obersten Bundesbehörde spätestens zum 31. Dezember 2019 einen Evaluierungsbericht zur Entwicklung des Abgabeaufkommens vor dem Hintergrund der wirtschaftlichen Situation des Filmmarktes in Deutschland vor und veröffentlicht den Bericht.
+(1) Die Erhebung der Filmabgabe endet am 31. Dezember 2023. Die Filmförderungsanstalt soll der für Kultur und Medien zuständigen obersten Bundesbehörde spätestens zum 30. Juni 2022 einen Evaluierungsbericht zur Entwicklung des Abgabeaufkommens vor dem Hintergrund der wirtschaftlichen Situation des Filmmarktes in Deutschland vorlegen und den Bericht veröffentlichen.
 
-(2) Förderhilfen nach den §§ 73, 76, 91 und 127 werden nur gewährt, wenn der Referenzfilm bis zum 31. Dezember 2020 erstaufgeführt worden ist. Förderhilfen nach den §§ 59, 100, 107, 115, 134 und 138 werden letztmalig für das Wirtschaftsjahr 2021 gewährt.
+(2) Förderhilfen nach den §§ 73, 76, 91 und 127 werden nur gewährt, wenn der Referenzfilm bis zum 31. Dezember 2022 erstaufgeführt worden ist. Förderhilfen nach den §§ 59, 100, 107, 115, 134 und 138 werden letztmalig für das Wirtschaftsjahr 2023 gewährt.
 
-(3) Anträge auf Förderhilfen nach den §§ 73, 76, 91, 127 und 138 müssen bis zum 31. März 2022 gestellt werden. Für programmfüllende Dokumentar- und Kinderfilme müssen die Anträge bis zum 31. März 2024 gestellt werden. Anträge auf Gewährung von Förderhilfen gemäß den §§ 59, 100, 107, 115 und 134 müssen bis zum 30. September 2021 gestellt werden.
+(3) Anträge auf Förderhilfen nach den §§ 73, 76, 91, 127 und 138 müssen bis zum 31. März 2024 gestellt werden. Für programmfüllende Dokumentar- und Kinderfilme müssen die Anträge bis zum 31. März 2026 gestellt werden. Anträge auf Gewährung von Förderhilfen gemäß den §§ 59, 100, 107, 115 und 134 müssen bis zum 30. September 2023 gestellt werden.
 
 (4) Ist über den letzten Antrag auf Gewährung von Förderhilfen für programmfüllende Dokumentar- und Kinderfilme entschieden worden, so gehen das Vermögen und die Verbindlichkeiten der Filmförderungsanstalt auf die Bundesrepublik Deutschland über. Der Zeitpunkt wird von der für Kultur und Medien zuständigen obersten Bundesbehörde im Bundesanzeiger bekannt gemacht. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle nimmt die verbleibenden Aufgaben der Filmförderungsanstalt wahr. Das verbleibende Vermögen ist nach Maßgabe der von der für Kultur und Medien zuständigen obersten Bundesbehörde zu erlassenden Bestimmungen für die Förderung der Filmwirtschaft zu verwenden.
 

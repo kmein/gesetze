@@ -110,6 +110,22 @@ Kosten
 
  
 
+Teil 5
+
+Fortschreibung des Wohngeldes
+
+§ 23
+
+Fortschreibung der Höchstbeträge für Miete und Belastung und Neufassung der Anlage 1 zu § 12 Absatz 1 des Wohngeldgesetzes
+
+§ 24
+
+Fortschreibung der Werte für „b“ und „c“ und Neufassung der Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes
+
+ 
+
+ 
+
 Anlage
 
 (zu § 1 Absatz 3)
@@ -349,6 +365,308 @@ Die technischen Einzelheiten des automatisierten Datenabgleichsverfahrens nach �
 (2) Für die Länder, die vor dem 1. Januar 2013 einen automatisierten Datenabgleich unter Vermittlung der Datenstelle durchführen und weiterhin daran teilnehmen, legt die Datenstelle die für das Jahr 2013 zu erstattenden Kosten auf der Grundlage der tatsächlich entstandenen Kosten einheitlich neu fest, wobei jedoch die zu erstattenden Kosten höchstens 3 800 Euro je Land betragen. Die festgelegten Kosten erhöhen sich für jedes weitere Kalenderjahr der Teilnahme am automatisierten Datenabgleich pauschal um 3 Prozent. Die Datenstelle teilt den für die Durchführung des Wohngeldgesetzes zuständigen obersten Landesbehörden die zu erstattenden Kosten mit; die Erstattung ist jeweils am 1. April für das laufende Kalenderjahr fällig und berechtigt zur viermaligen Teilnahme am automatisierten Datenabgleich.
 
 (3) Die übrigen Länder haben für das erste Kalenderjahr der Teilnahme eines Landes am automatisierten Datenabgleich pauschal einmalige Kosten in Höhe von 2 700 Euro zuzüglich 950 Euro je Kalendervierteljahr der Teilnahme zu erstatten. Die Erstattung ist am 31. Januar des folgenden Kalenderjahres fällig. Für jedes weitere Kalenderjahr der Teilnahme am automatisierten Datenabgleich sind die Kosten nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 zu erstatten; Absatz 2 Satz 3 gilt entsprechend.
+
+# § 23 – Fortschreibung der Höchstbeträge für Miete und Belastung und Neufassung der Anlage 1 zu § 12 Absatz 1 des Wohngeldgesetzes
+
+(1) Die monatlichen Höchstbeträge für Miete und Belastung nach Anlage 1 zu § 12 Absatz 1 des Wohngeldgesetzes werden zum 1. Januar 2022 um 2,788 Prozent erhöht. Die Erhöhungen werden nach § 43 Absatz 4 Satz 3 des Wohngeldgesetzes jeweils bis unter 0,50 Euro auf den nächsten vollen Euro-Betrag abgerundet sowie ab 0,50 Euro auf den nächsten vollen Euro-Betrag aufgerundet.
+
+(2) Anlage 1 des Wohngeldgesetzes wird wie folgt gefasst:
+
+Anzahl  
+der zu berücksichtigenden  
+Haushaltsmitglieder
+
+Mietenstufe
+
+Höchstbetrag in Euro
+
+1
+
+I
+
+  347
+
+ 
+
+II
+
+  392
+
+ 
+
+III
+
+  438
+
+ 
+
+IV
+
+  491
+
+ 
+
+V
+
+  540
+
+ 
+
+VI
+
+  591
+
+ 
+
+VII
+
+  651
+
+2
+
+I
+
+  420
+
+ 
+
+II
+
+  474
+
+ 
+
+III
+
+  530
+
+ 
+
+IV
+
+  595
+
+ 
+
+V
+
+  654
+
+ 
+
+VI
+
+  716
+
+ 
+
+VII
+
+  788
+
+3
+
+I
+
+  501
+
+ 
+
+II
+
+  564
+
+ 
+
+III
+
+  631
+
+ 
+
+IV
+
+  708
+
+ 
+
+V
+
+  778
+
+ 
+
+VI
+
+  853
+
+ 
+
+VII
+
+  937
+
+4
+
+I
+
+  584
+
+ 
+
+II
+
+  659
+
+ 
+
+III
+
+  736
+
+ 
+
+IV
+
+  825
+
+ 
+
+V
+
+  909
+
+ 
+
+VI
+
+  995
+
+ 
+
+VII
+
+1 095
+
+5
+
+I
+
+  667
+
+ 
+
+II
+
+  752
+
+ 
+
+III
+
+  841
+
+ 
+
+IV
+
+  944
+
+ 
+
+V
+
+1 038
+
+ 
+
+VI
+
+1 137
+
+ 
+
+VII
+
+1 251
+
+Mehrbetrag  
+für jedes weitere zu  
+berücksichtigende  
+Haushaltsmitglied
+
+I
+
+   79
+
+II
+
+   90
+
+III
+
+  102
+
+IV
+
+  114
+
+V
+
+  124
+
+VI
+
+  143
+
+VII
+
+  157
+
+”
+
+# § 24 – Fortschreibung der Werte für „b“ und „c“ und Neufassung der Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes
+
+(1) Die Werte für „b“ nach Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes werden zum 1. Januar 2022 mit 100 multipliziert und anschließend durch die Summe aus 100 und 2,788 dividiert. Die sich danach ergebenden Werte werden nach § 43 Absatz 5 Satz 3 des Wohngeldgesetzes jeweils auf die sechste Nachkommastelle abgerundet.
+
+(2) Die Werte für „c“ nach Anlage 2 zu § 19 Absatz 1 des Wohngeldgesetzes werden zum 1. Januar 2022 mit 100 multipliziert und anschließend durch die Summe aus 100 und 1,927 dividiert. Die sich danach ergebenden Werte werden nach § 43 Absatz 6 Satz 3 des Wohngeldgesetzes jeweils auf die siebte Nachkommastelle abgerundet.
+
+(3) Anlage 2 des Wohngeldgesetzes wird wie folgt gefasst:
+
+Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
+
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 7%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: right;">1<br />
+Haushalts-<br />
+mitglied</th><th style="text-align: right;">2<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">3<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">4<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">5<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">6<br />
+Haushalts-<br />
+mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">a</td><td style="text-align: right;">4,000E-2</td><td style="text-align: right;">3,000E-2</td><td style="text-align: right;">2,000E-2</td><td style="text-align: right;">1,000E-2</td><td style="text-align: right;">0</td><td style="text-align: right;">– 1,000E-2</td></tr><tr class="even"><td style="text-align: left;">b</td><td style="text-align: right;">5,640E-4</td><td style="text-align: right;">3,940E-4</td><td style="text-align: right;">3,400E-4</td><td style="text-align: right;">3,040E-4</td><td style="text-align: right;">2,680E-4</td><td style="text-align: right;">2,510E-4</td></tr><tr class="odd"><td style="text-align: left;">c</td><td style="text-align: right;">1,1570E-4</td><td style="text-align: right;">8,630E-5</td><td style="text-align: right;">6,950E-5</td><td style="text-align: right;">3,610E-5</td><td style="text-align: right;">3,520E-5</td><td style="text-align: right;">3,020E-5</td></tr></tbody></table>
+
+  
+  
+
+<table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 7%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /><col style="width: 15%" /></colgroup><thead><tr class="header"><th style="text-align: left;"> </th><th style="text-align: right;">7<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">8<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">9<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">10<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">11<br />
+Haushalts-<br />
+mitglieder</th><th style="text-align: right;">12<br />
+Haushalts-<br />
+mitglieder</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">a</td><td style="text-align: right;">– 2,000E-2</td><td style="text-align: right;">– 3,000E-2</td><td style="text-align: right;">– 4,000E-2</td><td style="text-align: right;">– 6,000E-2</td><td style="text-align: right;">– 1,000E-1</td><td style="text-align: right;">– 1,400E-1</td></tr><tr class="even"><td style="text-align: left;">b</td><td style="text-align: right;">2,320E-4</td><td style="text-align: right;">2,060E-4</td><td style="text-align: right;">1,790E-4</td><td style="text-align: right;">1,430E-4</td><td style="text-align: right;">1,070E-4</td><td style="text-align: right;">9,80E-5</td></tr><tr class="odd"><td style="text-align: left;">c</td><td style="text-align: right;">3,100E-5</td><td style="text-align: right;">3,100E-5</td><td style="text-align: right;">3,260E-5</td><td style="text-align: right;">3,770E-5</td><td style="text-align: right;">4,440E-5</td><td style="text-align: right;">5,030E-5</td></tr></tbody></table>
+
+<table style="border: none;"><colgroup><col style="width: 40%" /><col style="width: 60%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Hierbei bedeuten:</td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-1 geteilt durch</td><td style="text-align: right;">10,   </td></tr></tbody></table></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-2 geteilt durch</td><td style="text-align: right;">100,   </td></tr></tbody></table></td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">E-4 geteilt durch</td><td style="text-align: right;">10 000,   </td></tr></tbody></table></td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"><table width="100%" style="border: none;"><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">E-5 geteilt durch</td><td style="text-align: right;">100 000”   </td></tr></tbody></table></td></tr></tbody></table>
 
 # Anlage – (zu § 1 Absatz 3)Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2020
 

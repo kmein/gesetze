@@ -513,7 +513,7 @@ Für die Eintragung der Eröffnung des Insolvenzverfahrens in das Schiffsregiste
 
 1. die Geschäftsbücher des Schuldners; gesetzliche Pflichten zur Aufbewahrung von Unterlagen bleiben unberührt;
 
-2. die Sachen, die nach § 811 Abs. 1 Nr. 4 und 9 der Zivilprozeßordnung nicht der Zwangsvollstreckung unterliegen.
+2. im Fall einer selbständigen Tätigkeit des Schuldners die Sachen nach § 811 Absatz 1 Nummer 1 Buchstabe b und Tiere nach § 811 Absatz 1 Nummer 8 Buchstabe b der Zivilprozessordnung; hiervon ausgenommen sind Sachen, die für die Fortsetzung einer Erwerbstätigkeit erforderlich sind, welche in der Erbringung persönlicher Leistungen besteht.
 
 (3) Sachen, die zum gewöhnlichen Hausrat gehören und im Haushalt des Schuldners gebraucht werden, gehören nicht zur Insolvenzmasse, wenn ohne weiteres ersichtlich ist, daß durch ihre Verwertung nur ein Erlös erzielt werden würde, der zu dem Wert außer allem Verhältnis steht.
 

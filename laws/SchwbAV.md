@@ -24,7 +24,7 @@ Verfahren zur Vergabe der Mittel des Ausgleichsfonds</td></tr><tr class="even"><
 
 1. Leistungen zur Förderung des Arbeits- und Ausbildungsplatzangebots für schwerbehinderte Menschen,
 
-2. Leistungen zur begleitenden Hilfe im Arbeitsleben, einschließlich der Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen,
+2. Leistungen zur begleitenden Hilfe im Arbeitsleben, einschließlich der Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen sowie der Information, Beratung und Unterstützung von Arbeitgebern (Einheitliche Ansprechstellen für Arbeitgeber),
 
 3. Leistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben,
 
@@ -216,7 +216,9 @@ Arbeitgeber können zur Einführung eines betrieblichen Eingliederungsmanagement
 
 # § 27a – Leistungen an Integrationsfachdienste
 
-Träger von Integrationsfachdiensten im Sinne des Kapitels 7 des Teils 3 des Neunten Buches Sozialgesetzbuch können Leistungen nach § 196 des Neunten Buches Sozialgesetzbuch zu den durch ihre Inanspruchnahme entstehenden notwendigen Kosten erhalten.
+(1) Träger von Integrationsfachdiensten im Sinne des Kapitels 7 des Teils 3 des Neunten Buches Sozialgesetzbuch können Leistungen nach § 196 des Neunten Buches Sozialgesetzbuch zu den durch ihre Inanspruchnahme entstehenden notwendigen Kosten erhalten.
+
+(2) Die Länder legen dem Bundesministerium für Arbeit und Soziales jährlich zum 30. Juni einen Bericht über die Beauftragung der Integrationsfachdienste oder anderer geeigneter Träger als Einheitliche Ansprechstellen für Arbeitgeber vor. Sie berichten auch über deren Aktivitäten in diesem Zusammenhang sowie über die Verwendung der Mittel, die ab dem 30. Juni 2022 nach § 36 nicht mehr an den Ausgleichsfonds abzuführen sind, für diesen Zweck. Der Bericht kann auch gesammelt durch die Bundesarbeitsgemeinschaft der Integrationsämter und Hauptfürsorgestellen erfolgen.
 
 # § 28 – Leistungen zur Durchführung der psychosozialen Betreuung schwerbehinderter Menschen
 
@@ -340,7 +342,7 @@ Der Ausgleichsfonds für überregionale Vorhaben zur Teilhabe schwerbehinderter 
 
 # § 36 – Weiterleitung der Mittel an den Ausgleichsfonds
 
-Die Integrationsämter leiten zum 30. Juni eines jeden Jahres 20 vom Hundert des im Zeitraum vom 1. Juni des vorangegangenen Jahres bis zum 31. Mai des Jahres eingegangenen Aufkommens an Ausgleichsabgabe an den Ausgleichsfonds weiter. Sie teilen dem Bundesministerium für Arbeit und Soziales zum 30. Juni eines jeden Jahres das Aufkommen an Ausgleichsabgabe für das vorangegangene Kalenderjahr auf der Grundlage des bis zum 31. Mai des Jahres tatsächlich an die Integrationsämter gezahlten Aufkommens mit. Sie teilen zum 31. Januar eines jeden Jahres das Aufkommen an Ausgleichsabgabe für das vorvergangene Kalenderjahr dem Bundesministerium für Arbeit und Soziales mit. Abweichend von Satz 1 leiten die Integrationsämter zum 30. Juni 2020 10 Prozent des im Zeitraum vom 1. Juni 2019 bis zum 31. Mai 2020 eingegangenen Aufkommens an Ausgleichsabgabe und zum 30. Juni 2021 10 Prozent des im Zeitraum vom 1. Juni 2020 bis zum 31. Mai 2021 eingegangenen Aufkommens an Ausgleichsabgabe an den Ausgleichsfonds weiter.
+Die Integrationsämter leiten zum 30. Juni eines jeden Jahres 18 vom Hundert des im Zeitraum vom 1. Juni des vorangegangenen Jahres bis zum 31. Mai des Jahres eingegangenen Aufkommens an Ausgleichsabgabe an den Ausgleichsfonds weiter. Sie teilen dem Bundesministerium für Arbeit und Soziales zum 30. Juni eines jeden Jahres das Aufkommen an Ausgleichsabgabe für das vorangegangene Kalenderjahr auf der Grundlage des bis zum 31. Mai des Jahres tatsächlich an die Integrationsämter gezahlten Aufkommens mit. Sie teilen zum 31. Januar eines jeden Jahres das Aufkommen an Ausgleichsabgabe für das vorvergangene Kalenderjahr dem Bundesministerium für Arbeit und Soziales mit. Abweichend von Satz 1 leiten die Integrationsämter zum 30. Juni 2020 10 Prozent des im Zeitraum vom 1. Juni 2019 bis zum 31. Mai 2020 eingegangenen Aufkommens an Ausgleichsabgabe und zum 30. Juni 2021 10 Prozent des im Zeitraum vom 1. Juni 2020 bis zum 31. Mai 2021 eingegangenen Aufkommens an Ausgleichsabgabe an den Ausgleichsfonds weiter.
 
 # § 37 – Anwendung der Vorschriften der Bundeshaushaltsordnung
 

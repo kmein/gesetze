@@ -329,7 +329,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (2) Die Rehabilitationsträger nehmen ihre Aufgaben selbständig und eigenverantwortlich wahr.
 
-(3) Die Bundesagentur für Arbeit ist auch Rehabilitationsträger für die Leistungen zur Teilhabe am Arbeitsleben für erwerbsfähige Leistungsberechtigte mit Behinderungen im Sinne des Zweiten Buches, sofern nicht ein anderer Rehabilitationsträger zuständig ist. Die Zuständigkeit der Jobcenter nach § 6d des Zweiten Buches für die Leistungen zur beruflichen Teilhabe von Menschen mit Behinderungen nach § 16 Absatz 1 des Zweiten Buches bleibt unberührt. Mit Zustimmung und Beteiligung des Leistungsberechtigten kann die Bundesagentur für Arbeit mit dem zuständigen Jobcenter eine gemeinsame Beratung zur Vorbereitung des Eingliederungsvorschlags durchführen, wenn eine Teilhabeplankonferenz nach § 20 nicht durchzuführen ist. Die Leistungsberechtigten und das Jobcenter können der Bundesagentur für Arbeit in diesen Fällen die Durchführung einer gemeinsamen Beratung vorschlagen. § 20 Absatz 3 und § 23 Absatz 2 gelten entsprechend. Die Bundesagentur für Arbeit unterrichtet das zuständige Jobcenter und die Leistungsberechtigten schriftlich oder elektronisch über den festgestellten Rehabilitationsbedarf und ihren Eingliederungsvorschlag. Das Jobcenter entscheidet unter Berücksichtigung des Eingliederungsvorschlages innerhalb von drei Wochen über die Leistungen zur beruflichen Teilhabe.
+(3) Die Bundesagentur für Arbeit ist auch Rehabilitationsträger für die Leistungen zur Teilhabe am Arbeitsleben für erwerbsfähige Leistungsberechtigte mit Behinderungen im Sinne des Zweiten Buches, sofern nicht ein anderer Rehabilitationsträger zuständig ist. Die Zuständigkeit der Jobcenter nach § 6d des Zweiten Buches für die Leistungen zur beruflichen Teilhabe von Menschen mit Behinderungen nach § 16 Absatz 1 des Zweiten Buches bleibt unberührt. Die Bundesagentur für Arbeit stellt den Rehabilitationsbedarf fest. Sie beteiligt das zuständige Jobcenter nach § 19 Absatz 1 Satz 2 und berät das Jobcenter zu den von ihm zu erbringenden Leistungen zur Teilhabe am Arbeitsleben nach § 16 Absatz 1 Satz 3 des Zweiten Buches. Das Jobcenter entscheidet über diese Leistungen innerhalb der in Kapitel 4 genannten Fristen.
 
 # § 7 – Vorbehalt abweichender Regelungen
 
@@ -505,7 +505,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 # § 19 – Teilhabeplan
 
-(1) Soweit Leistungen verschiedener Leistungsgruppen oder mehrerer Rehabilitationsträger erforderlich sind, ist der leistende Rehabilitationsträger dafür verantwortlich, dass er und die nach § 15 beteiligten Rehabilitationsträger im Benehmen miteinander und in Abstimmung mit den Leistungsberechtigten die nach dem individuellen Bedarf voraussichtlich erforderlichen Leistungen hinsichtlich Ziel, Art und Umfang funktionsbezogen feststellen und schriftlich oder elektronisch so zusammenstellen, dass sie nahtlos ineinandergreifen.
+(1) Soweit Leistungen verschiedener Leistungsgruppen oder mehrerer Rehabilitationsträger erforderlich sind, ist der leistende Rehabilitationsträger dafür verantwortlich, dass er und die nach § 15 beteiligten Rehabilitationsträger im Benehmen miteinander und in Abstimmung mit den Leistungsberechtigten die nach dem individuellen Bedarf voraussichtlich erforderlichen Leistungen hinsichtlich Ziel, Art und Umfang funktionsbezogen feststellen und schriftlich oder elektronisch so zusammenstellen, dass sie nahtlos ineinandergreifen. Soweit zum Zeitpunkt der Antragstellung nach § 14 Leistungen nach dem Zweiten Buch beantragt sind oder erbracht werden, beteiligt der leistende Rehabilitationsträger das zuständige Jobcenter wie in den Fällen nach Satz 1.
 
 (2) Der leistende Rehabilitationsträger erstellt in den Fällen nach Absatz 1 einen Teilhabeplan innerhalb der für die Entscheidung über den Antrag maßgeblichen Frist. Der Teilhabeplan dokumentiert
 
@@ -527,9 +527,11 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 9. die Ergebnisse der Teilhabeplankonferenz nach § 20,
 
-10. die Erkenntnisse aus den Mitteilungen der nach § 22 einbezogenen anderen öffentlichen Stellen und
+10. die Erkenntnisse aus den Mitteilungen der nach § 22 einbezogenen anderen öffentlichen Stellen,
 
-11. die besonderen Belange pflegender Angehöriger bei der Erbringung von Leistungen der medizinischen Rehabilitation.
+11. die besonderen Belange pflegender Angehöriger bei der Erbringung von Leistungen der medizinischen Rehabilitation und
+
+12. die Leistungen zur Eingliederung in Arbeit nach dem Zweiten Buch, soweit das Jobcenter nach Absatz 1 Satz 2 zu beteiligen ist.
 
 Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die Voraussetzungen nach Absatz 1 nicht vorliegen, ist Satz 2 entsprechend anzuwenden.
 
@@ -543,17 +545,15 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 # § 20 – Teilhabeplankonferenz
 
-(1) Mit Zustimmung der Leistungsberechtigten kann der für die Durchführung des Teilhabeplanverfahrens nach § 19 verantwortliche Rehabilitationsträger zur gemeinsamen Beratung der Feststellungen zum Rehabilitationsbedarf eine Teilhabeplankonferenz durchführen. Die Leistungsberechtigten, die beteiligten Rehabilitationsträger und die Jobcenter können dem nach § 19 verantwortlichen Rehabilitationsträger die Durchführung einer Teilhabeplankonferenz vorschlagen. Von dem Vorschlag auf Durchführung einer Teilhabeplankonferenz kann abgewichen werden,
+(1) Mit Zustimmung der Leistungsberechtigten kann der für die Durchführung des Teilhabeplanverfahrens nach § 19 verantwortliche Rehabilitationsträger zur gemeinsamen Beratung der Feststellungen zum Rehabilitationsbedarf eine Teilhabeplankonferenz durchführen. Die Leistungsberechtigten, die beteiligten Rehabilitationsträger und die Jobcenter können dem nach § 19 verantwortlichen Rehabilitationsträger die Durchführung einer Teilhabeplankonferenz vorschlagen. Von dem Vorschlag auf Durchführung einer Teilhabeplankonferenz kann nur abgewichen werden, wenn eine Einwilligung nach § 23 Absatz 2 nicht erteilt wurde oder Einvernehmen der beteiligten Leistungsträger besteht, dass
 
-1. wenn der zur Feststellung des Rehabilitationsbedarfs maßgebliche Sachverhalt schriftlich ermittelt werden kann,
+1. der zur Feststellung des Rehabilitationsbedarfs maßgebliche Sachverhalt schriftlich ermittelt werden kann oder
 
-2. wenn der Aufwand zur Durchführung nicht in einem angemessenen Verhältnis zum Umfang der beantragten Leistung steht oder
-
-3. wenn eine Einwilligung nach § 23 Absatz 2 nicht erteilt wurde.
+2. der Aufwand zur Durchführung nicht in einem angemessenen Verhältnis zum Umfang der beantragten Leistung steht.
 
 (2) Wird von dem Vorschlag der Leistungsberechtigten auf Durchführung einer Teilhabeplankonferenz abgewichen, sind die Leistungsberechtigten über die dafür maßgeblichen Gründe zu informieren und hierzu anzuhören. Von dem Vorschlag der Leistungsberechtigten auf Durchführung einer Teilhabeplankonferenz kann nicht abgewichen werden, wenn Leistungen an Mütter und Väter mit Behinderungen bei der Versorgung und Betreuung ihrer Kinder beantragt wurden.
 
-(3) An der Teilhabeplankonferenz nehmen Beteiligte nach § 12 des Zehnten Buches sowie auf Wunsch der Leistungsberechtigten die Bevollmächtigten und Beistände nach § 13 des Zehnten Buches sowie sonstige Vertrauenspersonen teil. Auf Wunsch oder mit Zustimmung der Leistungsberechtigten können Rehabilitationsdienste, Rehabilitationseinrichtungen und Jobcenter sowie sonstige beteiligte Leistungserbringer an der Teilhabeplankonferenz teilnehmen. Vor der Durchführung einer Teilhabeplankonferenz sollen die Leistungsberechtigten auf die Angebote der ergänzenden unabhängigen Teilhabeberatung nach § 32 besonders hingewiesen werden.
+(3) An der Teilhabeplankonferenz nehmen Beteiligte nach § 12 des Zehnten Buches sowie auf Wunsch der Leistungsberechtigten die Bevollmächtigten und Beistände nach § 13 des Zehnten Buches sowie sonstige Vertrauenspersonen teil. Auf Wunsch oder mit Zustimmung der Leistungsberechtigten können Rehabilitationsdienste und Rehabilitationseinrichtungen sowie sonstige beteiligte Leistungserbringer an der Teilhabeplankonferenz teilnehmen. Vor der Durchführung einer Teilhabeplankonferenz sollen die Leistungsberechtigten auf die Angebote der ergänzenden unabhängigen Teilhabeberatung nach § 32 besonders hingewiesen werden.
 
 (4) Wird eine Teilhabeplankonferenz nach Absatz 1 auf Wunsch und mit Zustimmung der Leistungsberechtigten eingeleitet, richtet sich die Frist zur Entscheidung über den Antrag nach § 15 Absatz 4.
 
@@ -567,13 +567,9 @@ Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabep
 
 (2) Bestehen im Einzelfall Anhaltspunkte für eine Pflegebedürftigkeit nach dem Elften Buch, wird die zuständige Pflegekasse mit Zustimmung des Leistungsberechtigten vom für die Durchführung des Teilhabeplanverfahrens verantwortlichen Rehabilitationsträger informiert und muss am Teilhabeplanverfahren beratend teilnehmen, soweit dies für den Rehabilitationsträger zur Feststellung des Rehabilitationsbedarfs erforderlich und nach den für die zuständige Pflegekasse geltenden Grundsätzen der Datenverwendung zulässig ist. Die §§ 18a und 31 des Elften Buches bleiben unberührt.
 
-(3) Die Integrationsämter sind bei der Durchführung des Teilhabeplanverfahrens zu beteiligen, soweit sie Leistungen für schwerbehinderte Menschen nach Teil 3 erbringen. Das zuständige Integrationsamt kann das Teilhabeplanverfahren nach § 19 Absatz 5 anstelle des leistenden Rehabilitationsträgers durchführen, wenn die Rehabilitationsträger und das Integrationsamt dies in Abstimmung mit den Leistungsberechtigten vereinbaren.
+(3) Die Integrationsämter sind bei der Durchführung des Teilhabeplanverfahrens zu beteiligen, soweit sie Leistungen für schwerbehinderte Menschen nach Teil 3 erbringen. Das zuständige Integrationsamt kann das Teilhabeplanverfahren nach § 19 Absatz 5 anstelle des leistenden Rehabilitationsträgers durchführen, wenn die Rehabilitationsträger und das Integrationsamt sowie das nach § 19 Absatz 1 Satz 2 zu beteiligende Jobcenter dies in Abstimmung mit den Leistungsberechtigten vereinbaren.
 
-(4) Die Jobcenter können dem nach Absatz 1 verantwortlichen Rehabilitationsträger ihre Beteiligung an der Durchführung des Teilhabeplanverfahrens vorschlagen. Sie sind zu beteiligen, soweit es zur Feststellung des Rehabilitationsbedarfs erforderlich ist und dies den Interessen der Leistungsberechtigten entspricht. Die Aufgaben und die Beteiligung der Bundesagentur für Arbeit im Rahmen ihrer Zuständigkeit nach § 6 Absatz 3 bleiben unberührt.
-
-(5) Bestehen im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach § 1896 Absatz 1 des Bürgerlichen Gesetzbuches, informiert der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger mit Zustimmung der Leistungsberechtigten die zuständige Betreuungsbehörde über die Erstellung des Teilhabeplans, soweit dies zur Vermittlung anderer Hilfen, bei denen kein Betreuer bestellt wird, erforderlich ist.
-
-(+++ § 22 Abs. 5: Zur Anwendung vgl. § 117 Abs. 5 +++)
+(4) Bestehen im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach § 1896 Absatz 1 des Bürgerlichen Gesetzbuches, informiert der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger mit Zustimmung der Leistungsberechtigten die zuständige Betreuungsbehörde über die Erstellung des Teilhabeplans, soweit dies zur Vermittlung anderer Hilfen, bei denen kein Betreuer bestellt wird, erforderlich ist.
 
 # § 23 – Verantwortliche Stelle für den Sozialdatenschutz
 
@@ -1246,15 +1242,23 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 # § 61a – Budget für Ausbildung
 
-(1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 57 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein sozialversicherungspflichtiges Ausbildungsverhältnis in einem anerkannten Ausbildungsberuf oder in einem Ausbildungsgang nach § 66 des Berufsbildungsgesetzes oder § 42m der Handwerksordnung angeboten wird, erhalten mit Abschluss des Vertrages über dieses Ausbildungsverhältnis als Leistungen zur Teilhabe am Arbeitsleben ein Budget für Ausbildung. Das Budget für Ausbildung wird von den Leistungsträgern nach § 63 Absatz 1 erbracht.
+(1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 57 oder § 58 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein sozialversicherungspflichtiges Ausbildungsverhältnis in einem anerkannten Ausbildungsberuf oder in einem Ausbildungsgang nach § 66 des Berufsbildungsgesetzes oder § 42r der Handwerksordnung angeboten wird, erhalten mit Abschluss des Vertrages über dieses Ausbildungsverhältnis als Leistungen zur Teilhabe am Arbeitsleben ein Budget für Ausbildung.
 
-(2) Das Budget für Ausbildung umfasst die Erstattung der Ausbildungsvergütung und die Aufwendungen für die wegen der Behinderung erforderliche Anleitung und Begleitung am Ausbildungsplatz und in der Berufsschule. Die Erstattung der Ausbildungsvergütung erfolgt bis zu der Höhe, die in einer einschlägigen tarifvertraglichen Vergütungsregelung festgelegt ist. Fehlt eine solche, erfolgt die Erstattung bis zu der Höhe der nach § 17 des Berufsbildungsgesetzes für das Berufsausbildungsverhältnis ohne öffentliche Förderung angemessenen Vergütung. Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort des Ausbildungsplatzes nicht möglich, so kann der schulische Teil der Ausbildung in Einrichtungen der beruflichen Rehabilitation erfolgen; die entstehenden Kosten werden ebenfalls vom Budget für Ausbildung gedeckt.
+(2) Das Budget für Ausbildung umfasst
+
+1. die Erstattung der angemessenen Ausbildungsvergütung einschließlich des Anteils des Arbeitgebers am Gesamtsozialversicherungsbeitrag und des Beitrags zur Unfallversicherung nach Maßgabe des Siebten Buches,
+
+2. die Aufwendungen für die wegen der Behinderung erforderliche Anleitung und Begleitung am Ausbildungsplatz und in der Berufsschule sowie
+
+3. die erforderlichen Fahrkosten.
+
+Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort des Ausbildungsplatzes nicht möglich, so kann der schulische Teil der Ausbildung in Einrichtungen der beruflichen Rehabilitation erfolgen; die entstehenden Kosten werden ebenfalls vom Budget für Ausbildung gedeckt. Vor dem Abschluss einer Vereinbarung mit einer Einrichtung der beruflichen Rehabilitation ist dem zuständigen Leistungsträger das Angebot mit konkreten Angaben zu den entstehenden Kosten zur Bewilligung vorzulegen.
 
 (3) Das Budget für Ausbildung wird erbracht, solange es erforderlich ist, längstens bis zum erfolgreichen Abschluss der Ausbildung. Zeiten eines Budgets für Ausbildung werden auf die Dauer des Eingangsverfahrens und des Berufsbildungsbereiches in Werkstätten für behinderte Menschen nach § 57 Absatz 2 und 3 angerechnet, sofern der Mensch mit Behinderungen in der Werkstatt für behinderte Menschen oder bei einem anderen Leistungsanbieter seine berufliche Bildung in derselben Fachrichtung fortsetzt.
 
 (4) Die wegen der Behinderung erforderliche Anleitung und Begleitung kann von mehreren Leistungsberechtigten gemeinsam in Anspruch genommen werden.
 
-(5) Der zuständige Leistungsträger soll den Menschen mit Behinderungen bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von Absatz 1 unterstützen.
+(5) Die Bundesagentur für Arbeit soll den Menschen mit Behinderungen bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von Absatz 1 unterstützen. Dies umfasst im Fall des Absatzes 2 Satz 4 auch die Unterstützung bei der Suche nach einer geeigneten Einrichtung der beruflichen Rehabilitation.
 
 # § 62 – Wahlrecht des Menschen mit Behinderungen
 
@@ -1284,7 +1288,7 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 4. im Übrigen die Träger der Eingliederungshilfe unter den Voraussetzungen des § 99.
 
-(3) Absatz 1 gilt auch für die Leistungen zur beruflichen Bildung bei einem anderen Leistungsanbieter sowie für die Leistung des Budgets für Ausbildung. Absatz 2 gilt auch für die Leistungen zur Beschäftigung bei einem anderen Leistungsanbieter sowie die Leistung des Budgets für Arbeit.
+(3) Absatz 1 gilt auch für die Leistungen zur beruflichen Bildung bei einem anderen Leistungsanbieter sowie für die Leistung des Budgets für Ausbildung an Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 57 haben. Absatz 2 gilt auch für die Leistungen zur Beschäftigung bei einem anderen Leistungsanbieter, für die Leistung des Budgets für Ausbildung an Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 58 haben und die keinen Anspruch auf Leistungen nach § 57 haben, sowie für die Leistung des Budgets für Arbeit.
 
 # § 64 – Ergänzende Leistungen
 
@@ -1955,9 +1959,11 @@ Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzun
 
 1. Leistungen im Arbeitsbereich anerkannter Werkstätten für behinderte Menschen nach den §§ 58 und 62,
 
-2. Leistungen bei anderen Leistungsanbietern nach den §§ 60 und 62 sowie
+2. Leistungen bei anderen Leistungsanbietern nach den §§ 60 und 62,
 
-3. Leistungen bei privaten und öffentlichen Arbeitgebern nach § 61.
+3. Leistungen bei privaten und öffentlichen Arbeitgebern nach § 61 sowie
+
+4. Leistungen für ein Budget für Ausbildung nach § 61a.
 
 (2) Leistungen nach Absatz 1 umfassen auch Gegenstände und Hilfsmittel, die wegen der gesundheitlichen Beeinträchtigung zur Aufnahme oder Fortsetzung der Beschäftigung erforderlich sind. Voraussetzung für eine Hilfsmittelversorgung ist, dass der Leistungsberechtigte das Hilfsmittel bedienen kann. Die Versorgung mit Hilfsmitteln schließt eine notwendige Unterweisung im Gebrauch und eine notwendige Instandhaltung oder Änderung ein. Die Ersatzbeschaffung des Hilfsmittels erfolgt, wenn sie infolge der körperlichen Entwicklung der Leistungsberechtigten notwendig ist oder wenn das Hilfsmittel aus anderen Gründen ungeeignet oder unbrauchbar geworden ist.
 
@@ -2103,7 +2109,7 @@ h) zielorientiert,
 
 (4) Bestehen im Einzelfall Anhaltspunkte für einen Bedarf an notwendigem Lebensunterhalt, ist der Träger dieser Leistungen mit Zustimmung des Leistungsberechtigten zu informieren und am Gesamtplanverfahren zu beteiligen, soweit dies zur Feststellung der Leistungen nach den Kapiteln 3 bis 6 erforderlich ist.
 
-(5) § 22 Absatz 5 ist entsprechend anzuwenden, auch wenn ein Teilhabeplan nicht zu erstellen ist.
+(5) § 22 Absatz 4 ist entsprechend anzuwenden, auch wenn ein Teilhabeplan nicht zu erstellen ist.
 
 (6) Bei minderjährigen Leistungsberechtigten wird der nach § 86 des Achten Buches zuständige örtliche Träger der öffentlichen Jugendhilfe vom Träger der Eingliederungshilfe mit Zustimmung des Personensorgeberechtigten informiert und nimmt am Gesamtplanverfahren beratend teil, soweit dies zur Feststellung der Leistungen der Eingliederungshilfe nach den Kapiteln 3 bis 6 erforderlich ist. Hiervon kann in begründeten Ausnahmefällen abgesehen werden, insbesondere, wenn durch die Teilnahme des zuständigen örtlichen Trägers der öffentlichen Jugendhilfe das Gesamtplanverfahren verzögert würde.
 
@@ -2211,7 +2217,11 @@ Der Träger der Eingliederungshilfe kann mit dem Leistungsberechtigten eine Teil
 
 (2) Die Vereinbarungen sind für alle übrigen Träger der Eingliederungshilfe bindend. Die Vereinbarungen müssen den Grundsätzen der Wirtschaftlichkeit, Sparsamkeit und Leistungsfähigkeit entsprechen und dürfen das Maß des Notwendigen nicht überschreiten. Sie sind vor Beginn der jeweiligen Wirtschaftsperiode für einen zukünftigen Zeitraum abzuschließen (Vereinbarungszeitraum); nachträgliche Ausgleiche sind nicht zulässig. Die Ergebnisse der Vereinbarungen sind den Leistungsberechtigten in einer wahrnehmbaren Form zugänglich zu machen.
 
-(3) Private und öffentliche Arbeitgeber gemäß § 61 sind keine Leistungserbringer im Sinne dieses Kapitels.
+(3) Keine Leistungserbringer im Sinne dieses Kapitels sind
+
+1. private und öffentliche Arbeitgeber gemäß § 61 oder § 61a sowie
+
+2. Einrichtungen der beruflichen Rehabilitation, in denen der schulische Teil der Ausbildung nach § 61a Absatz 2 Satz 4 erfolgen kann.
 
 (4) Besteht eine schriftliche Vereinbarung, so ist der Leistungserbringer, soweit er kein anderer Leistungsanbieter im Sinne des § 60 ist, im Rahmen des vereinbarten Leistungsangebotes verpflichtet, Leistungsberechtigte aufzunehmen und Leistungen der Eingliederungshilfe unter Beachtung der Inhalte des Gesamtplanes nach § 121 zu erbringen. Die Verpflichtung zur Leistungserbringung besteht auch in den Fällen des § 116 Absatz 2.
 
@@ -3177,6 +3187,30 @@ e) für außergewöhnliche Belastungen, die mit der Beschäftigung schwerbehinde
 
 (8) Auf Antrag führt das Integrationsamt seine Leistungen zur begleitenden Hilfe im Arbeitsleben als Persönliches Budget aus. § 29 gilt entsprechend.
 
+# § 185a – Einheitliche Ansprechstellen für Arbeitgeber
+
+(1) Einheitliche Ansprechstellen für Arbeitgeber informieren, beraten und unterstützen Arbeitgeber bei der Ausbildung, Einstellung und Beschäftigung von schwerbehinderten Menschen.
+
+(2) Die Einheitlichen Ansprechstellen für Arbeitgeber werden als begleitende Hilfe im Arbeitsleben aus Mitteln der Ausgleichsabgabe finanziert. Sie haben die Aufgabe,
+
+1. Arbeitgeber anzusprechen und diese für die Ausbildung, Einstellung und Beschäftigung von schwerbehinderten Menschen zu sensibilisieren,
+
+2. Arbeitgebern als trägerunabhängiger Lotse bei Fragen zur Ausbildung, Einstellung, Berufsbegleitung und Beschäftigungssicherung von schwerbehinderten Menschen zur Verfügung zu stehen und
+
+3. Arbeitgeber bei der Stellung von Anträgen bei den zuständigen Leistungsträgern zu unterstützen.
+
+(3) Die Einheitlichen Ansprechstellen für Arbeitgeber sind flächendeckend einzurichten. Sie sind trägerunabhängig.
+
+(4) Die Einheitlichen Ansprechstellen für Arbeitgeber sollen
+
+1. für Arbeitgeber schnell zu erreichen sein,
+
+2. über fachlich qualifiziertes Personal verfügen, das mit den Regelungen zur Teilhabe schwerbehinderter Menschen sowie der Beratung von Arbeitgebern und ihren Bedürfnissen vertraut ist, sowie
+
+3. in der Region gut vernetzt sein.
+
+(5) Die Integrationsämter beauftragen die Integrationsfachdienste oder andere geeignete Träger, als Einheitliche Ansprechstellen für Arbeitgeber tätig zu werden. Die Integrationsämter wirken darauf hin, dass die Einheitlichen Ansprechstellen für Arbeitgeber flächendeckend zur Verfügung stehen und mit Dritten, die aufgrund ihres fachlichen Hintergrunds über eine besondere Betriebsnähe verfügen, zusammenarbeiten.
+
 # § 186 – Beratender Ausschuss für behinderte Menschen bei dem Integrationsamt
 
 (1) Bei jedem Integrationsamt wird ein Beratender Ausschuss für behinderte Menschen gebildet, der die Teilhabe der behinderten Menschen am Arbeitsleben fördert, das Integrationsamt bei der Durchführung der besonderen Regelungen für schwerbehinderte Menschen zur Teilhabe am Arbeitsleben unterstützt und bei der Vergabe der Mittel der Ausgleichsabgabe mitwirkt. Soweit die Mittel der Ausgleichsabgabe zur institutionellen Förderung verwendet werden, macht der Beratende Ausschuss Vorschläge für die Entscheidungen des Integrationsamtes.
@@ -3331,7 +3365,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 8. eine Nachbetreuung, Krisenintervention oder psychosoziale Betreuung durchzuführen sowie
 
-9. als Ansprechpartner für die Arbeitgeber zur Verfügung zu stehen, über die Leistungen für die Arbeitgeber zu informieren und für die Arbeitgeber diese Leistungen abzuklären,
+9. als Einheitliche Ansprechstellen für Arbeitgeber zur Verfügung zu stehen, über die Leistungen für die Arbeitgeber zu informieren und für die Arbeitgeber diese Leistungen abzuklären,
 
 10. in Zusammenarbeit mit den Rehabilitationsträgern und den Integrationsämtern die für den schwerbehinderten Menschen benötigten Leistungen zu klären und bei der Beantragung zu unterstützen.
 

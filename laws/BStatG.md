@@ -107,7 +107,7 @@ Wirtschafts- und Umweltstatistiken dürfen mit Auskunftspflicht sonstige Bundess
 
 2. Fragebogen und Erhebungsverfahren auf ihre Zweckmäßigkeit erproben.
 
-Bei Bundesstatistiken ohne Auskunftspflicht besteht auch für die Angaben nach Nummern 1 und 2 keine Auskunftspflicht. Bei Bundesstatistiken mit Auskunftspflicht gilt dies nur für die Angaben nach Nummer 2. Die Angaben nach Nummern 1 und 2 sind zum frühestmöglichen Zeitpunkt zu löschen, die Angaben nach Nummer 1 spätestens nachdem die entsprechenden im Rahmen der Durchführung der jeweiligen Bundesstatistik zu erhebenden Angaben auf ihre Schlüssigkeit und Vollständigkeit überprüft worden sind, die Angaben nach Nummer 2 spätestens 3 Jahre nach Durchführung der Erprobung. Bei den Angaben nach Nummer 2 sind Name und Anschrift von den übrigen Angaben zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren.
+Für die Erhebung von Angaben nach Satz 1 Nummer 1 besteht Auskunftspflicht, soweit für die Bundesstatistik eine Auskunftspflicht festgelegt ist. Im Übrigen besteht für die Angaben nach Satz 1 Nummer 1 und 2 keine Auskunftspflicht. Die Angaben nach Nummern 1 und 2 sind zum frühestmöglichen Zeitpunkt zu löschen, die Angaben nach Nummer 1 spätestens nachdem die entsprechenden im Rahmen der Durchführung der jeweiligen Bundesstatistik zu erhebenden Angaben auf ihre Schlüssigkeit und Vollständigkeit überprüft worden sind, die Angaben nach Nummer 2 spätestens 3 Jahre nach Durchführung der Erprobung. Bei den Angaben nach Nummer 2 sind Name und Anschrift von den übrigen Angaben zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren.
 
 (2) Die Angaben nach Absatz 1 Nummer 1 dürfen zur Führung des Statistikregisters nach § 13 Absatz 1 verwendet werden, sofern sie zur Vorbereitung und Durchführung von durch Rechtsvorschrift angeordneten Wirtschafts- und Umweltstatistiken erhoben wurden.
 
@@ -343,7 +343,9 @@ Wer entgegen § 21 Einzelangaben aus Bundesstatistiken oder solche Einzelangaben
 
 2. entgegen § 11a Absatz 2 Satz 1 ein dort genanntes Verfahren nicht nutzt.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(2a) Ordnungswidrig handelt, wer entgegen § 6 Absatz 1 Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig, nicht rechtzeitig oder nicht in der vorgegebenen Form erteilt.
+
+(3) Soweit gesetzlich nicht anders bestimmt, kann die Ordnungswidrigkeit mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 # § 24 – Verwaltungsbehörde im Sinne des Gesetzes über Ordnungswidrigkeiten (OWiG)
 

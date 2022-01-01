@@ -49,7 +49,7 @@ Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezi
 
 (7) Vollziehbare Berufs-, Berufsausübungs- und Vertretungsverbote sind unter Angabe des Zeitpunkts des Beginns sowie der Dauer des Verbots einzutragen. Betrifft das Verbot nur einen Teilbereich der beruflichen Tätigkeit, ist auch der Umfang des Verbots einzutragen. Bei der Eintragung eines Berufsausübungsverbots ist zu vermerken, dass dieses für die Dauer einer Tätigkeit im öffentlichen Dienst oder einer Übernahme eines öffentlichen Amtes besteht. Wurde nach § 14 Absatz 4 Satz 1 der Bundesrechtsanwaltsordnung die sofortige Vollziehung der Rücknahme oder des Widerrufs der Zulassung angeordnet, so ist auch diese Maßnahme unter Angabe des Zeitpunkts des Beginns einzutragen; Absatz 6 Satz 4 gilt entsprechend.
 
-(8) Die Eintragung einer Vertretung muss den Zeitraum erkennen lassen, für den dieser bestellt ist.
+(8) Die Eintragung einer Vertretung muss den Zeitraum erkennen lassen, für den diese bestellt ist.
 
 (9) Im Fall der Befreiung von der Kanzleipflicht sind auch der Zeitpunkt des Beginns der Befreiung und bestehende Auflagen einzutragen.
 
@@ -86,7 +86,7 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (3) Eintragungen nach § 1 Satz 2 Nummer 4 sind nicht einsehbar.
 
-(4) Die Ausgestaltung der Möglichkeit zur Einsichtnahme soll die Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung berücksichtigen.
+(4) Die Ausgestaltung der Möglichkeit zur Einsichtnahme soll die Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung berücksichtigen.
 
 (+++ § 6: Zur Anwendung vgl. § 13 Abs. 1 +++)
 
