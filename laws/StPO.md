@@ -231,7 +231,7 @@ Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dan
 
 (1) Elektronische Dokumente können bei Strafverfolgungsbehörden und Gerichten nach Maßgabe der folgenden Absätze eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das Gericht.
 
 (3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder zu unterzeichnen ist, muss als elektronisches Dokument mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden.
 
@@ -241,13 +241,19 @@ Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dan
 
 2. der Übermittlungsweg zwischen dem besonderen elektronischen Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle der Behörde oder des Gerichts; das Nähere regelt die Verordnung nach Absatz 2 Satz 2,
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle der Behörde oder des Gerichts,
 
-4. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle der Behörde oder des Gerichts,
+
+5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle der Behörde oder des Gerichts,
+
+6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung der Behörde oder des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
-(6) Ist ein elektronisches Dokument für die Bearbeitung durch die Behörde oder das Gericht nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das elektronische Dokument gilt als zum Zeitpunkt seiner früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für die Behörde oder für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
+(6) Ist ein elektronisches Dokument für die Bearbeitung durch die Behörde oder das Gericht nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das elektronische Dokument gilt als zum Zeitpunkt seiner früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für die Behörde oder für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
 # § 32b – Erstellung und Übermittlung strafverfolgungsbehördlicher und gerichtlicher elektronischer Dokumente; Verordnungsermächtigung
 
@@ -267,7 +273,9 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates e
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-# § 32d – (zukünftig in Kraft)
+# § 32d – Pflicht zur elektronischen Übermittlung
+
+Verteidiger und Rechtsanwälte sollen den Strafverfolgungsbehörden und Gerichten Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen als elektronisches Dokument übermitteln. Die Berufung und ihre Begründung, die Revision, ihre Begründung und die Gegenerklärung sowie die Privatklage und die Anschlusserklärung bei der Nebenklage müssen sie als elektronisches Dokument übermitteln. Ist dies aus technischen Gründen vorübergehend nicht möglich, ist die Übermittlung in Papierform zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 # § 32e – Übertragung von Dokumenten zu Aktenführungszwecken
 
@@ -1991,7 +1999,7 @@ Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6 des Str
 
 (1) Beschlagnahme und Vermögensarrest werden durch die Staatsanwaltschaft vollzogen. Die erforderlichen Eintragungen in das Grundbuch und in die in § 111c Absatz 4 genannten Register sowie die in § 111c Absatz 4 genannten Anmeldungen werden auf Ersuchen der Staatsanwaltschaft bewirkt. Soweit ein Arrest nach den Vorschriften über die Pfändung in bewegliche Sachen zu vollziehen ist, kann dies durch die in § 2 des Justizbeitreibungsgesetzes bezeichnete Behörde, den Gerichtsvollzieher, die Staatsanwaltschaft oder durch deren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) vollzogen werden. Die Beschlagnahme beweglicher Sachen kann auch durch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) vollzogen werden. § 98 Absatz 4 gilt entsprechend.
 
-(2) Für die Zustellung gilt § 37 Absatz 1 mit der Maßgabe, dass auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) mit der Ausführung beauftragt werden können. Für Zustellungen an ein im Inland zum Geschäftsbetrieb befugtes Kreditinstitut gilt § 174 der Zivilprozessordnung entsprechend.
+(2) Für die Zustellung gilt § 37 Absatz 1 mit der Maßgabe, dass auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) mit der Ausführung beauftragt werden können. Für Zustellungen an ein im Inland zum Geschäftsbetrieb befugtes Kreditinstitut gelten die §§ 173 und 175 der Zivilprozessordnung entsprechend.
 
 (3) Gegen Maßnahmen, die in Vollziehung der Beschlagnahme oder des Vermögensarrestes getroffen werden, kann der Betroffene die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
@@ -6189,7 +6197,7 @@ Hat das Gericht auf Antrag des Betroffenen in einer gesonderten Entscheidung üb
 
 3. die Auskünfte zur Vorbereitung von Maßnahmen erforderlich sind, nach deren Erlass auf Grund einer besonderen Vorschrift von Amts wegen personenbezogene Daten aus Strafverfahren an diese Stellen übermittelt werden dürfen.
 
-Die Erteilung von Auskünften an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 12 des Sicherheitsüberprüfungsgesetzes, § 10 des MAD-Gesetzes und § 23 des BND-Gesetzes sowie den entsprechenden landesrechtlichen Vorschriften.
+Die Erteilung von Auskünften an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 12 des Sicherheitsüberprüfungsgesetzes, § 10 des MAD-Gesetzes und § 10 des BND-Gesetzes sowie den entsprechenden landesrechtlichen Vorschriften.
 
 (3) Unter den Voraussetzungen des Absatzes 2 kann Akteneinsicht gewährt werden, wenn die Erteilung von Auskünften einen unverhältnismäßigen Aufwand erfordern würde oder die Akteneinsicht begehrende Stelle unter Angabe von Gründen erklärt, dass die Erteilung einer Auskunft zur Erfüllung ihrer Aufgabe nicht ausreichen würde.
 
@@ -6475,7 +6483,7 @@ einzutragen. Die Daten dürfen nur für Strafverfahren gespeichert und veränder
 
 (3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. Dem Bundeskriminalamt dürfen Auskünfte auch erteilt werden, soweit dies im Einzelfall zur Erfüllung seiner Aufgaben nach § 5 Absatz 1, § 6 Absatz 1 oder § 7 Absatz 1 und 2 des Bundeskriminalamtgesetzes erforderlich ist. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes, § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes, § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes und § 31 Absatz 4a Satz 1 des Geldwäschegesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
 
-(4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 23 Absatz 3 des BND-Gesetzes, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
+(4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 10 Absatz 3 des BND-Gesetzes, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 (4a) Kann die Registerbehörde eine Mitteilung oder ein Ersuchen einem Datensatz nicht eindeutig zuordnen, übermittelt sie an die ersuchende Stelle zur Identitätsfeststellung Datensätze zu Personen mit ähnlichen Personalien. Nach erfolgter Identifizierung hat die ersuchende Stelle alle Daten, die sich nicht auf die betroffene Person beziehen, unverzüglich zu löschen. Ist eine Identifizierung nicht möglich, sind alle übermittelten Daten zu löschen. In der Rechtsverordnung nach § 494 Abs. 4 ist die Anzahl der Datensätze, die auf Grund eines Abrufs übermittelt werden dürfen, auf das für eine Identifizierung notwendige Maß zu begrenzen.
 

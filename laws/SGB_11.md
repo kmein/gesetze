@@ -41,7 +41,7 @@ Pflegeberatung
 
 § 7b
 
-Pflicht zum Beratungsangebot und Beratungsgutscheine
+Personalbemessung in vollstationären Pflegeeinrichtungen
 
 § 7c
 
@@ -341,6 +341,23 @@ Inhalt der Leistung
 
  
 
+Sechster Titel
+
+Pflegebedingter  
+Eigenanteil bei vollstationärer Pflege
+
+ 
+
+ 
+
+§ 43c
+
+Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen
+
+ 
+
+ 
+
   Vierter Abschnitt
 
   Leistungen für Pflegepersonen
@@ -565,6 +582,18 @@ Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicher
 
 Dritter Abschnitt
 
+Bundesmittel
+
+§ 61a
+
+Beteiligung des Bundes an Aufwendungen
+
+ 
+
+ 
+
+Vierter Abschnitt
+
 Verwendung und Verwaltung der Mittel
 
 § 62
@@ -583,7 +612,7 @@ Rücklage
 
  
 
-Vierter Abschnitt
+Fünfter Abschnitt
 
 Ausgleichsfonds, Finanzausgleich
 
@@ -2171,13 +2200,13 @@ Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37 Abs. 1,
 
 (3) Der Anspruch auf häusliche Pflegehilfe umfasst je Kalendermonat
 
-1. für Pflegebedürftige des Pflegegrades 2 Leistungen bis zu einem Gesamtwert von 689 Euro,
+1. für Pflegebedürftige des Pflegegrades 2 Leistungen bis zu einem Gesamtwert von 724 Euro,
 
-2. für Pflegebedürftige des Pflegegrades 3 Leistungen bis zu einem Gesamtwert von 1 298 Euro,
+2. für Pflegebedürftige des Pflegegrades 3 Leistungen bis zu einem Gesamtwert von 1 363 Euro,
 
-3. für Pflegebedürftige des Pflegegrades 4 Leistungen bis zu einem Gesamtwert von 1 612 Euro,
+3. für Pflegebedürftige des Pflegegrades 4 Leistungen bis zu einem Gesamtwert von 1 693 Euro,
 
-4. für Pflegebedürftige des Pflegegrades 5 Leistungen bis zu einem Gesamtwert von 1 995 Euro.
+4. für Pflegebedürftige des Pflegegrades 5 Leistungen bis zu einem Gesamtwert von 2 095 Euro.
 
 (4) Häusliche Pflegehilfe ist auch zulässig, wenn Pflegebedürftige nicht in ihrem eigenen Haushalt gepflegt werden; sie ist nicht zulässig, wenn Pflegebedürftige in einer stationären Pflegeeinrichtung oder in einer Einrichtung oder in Räumlichkeiten im Sinne des § 71 Absatz 4 gepflegt werden. Häusliche Pflegehilfe wird durch geeignete Pflegekräfte erbracht, die entweder von der Pflegekasse oder bei ambulanten Pflegeeinrichtungen, mit denen die Pflegekasse einen Versorgungsvertrag abgeschlossen hat, angestellt sind. Auch durch Einzelpersonen, mit denen die Pflegekasse einen Vertrag nach § 77 Absatz 1 abgeschlossen hat, kann häusliche Pflegehilfe als Sachleistung erbracht werden. Mehrere Pflegebedürftige können häusliche Pflegehilfe gemeinsam in Anspruch nehmen.
 
@@ -2323,7 +2352,7 @@ Pflegebedürftige haben Anspruch auf die Leistungen nach den §§ 39a und 40a bi
 
 2. in sonstigen Krisensituationen, in denen vorübergehend häusliche oder teilstationäre Pflege nicht möglich oder nicht ausreichend ist.
 
-(2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die Aufwendungen für Leistungen der medizinischen Behandlungspflege bis zu dem Gesamtbetrag von 1 612 Euro im Kalenderjahr. Der Leistungsbetrag nach Satz 2 kann um bis zu 1 612 Euro aus noch nicht in Anspruch genommenen Mitteln der Verhinderungspflege nach § 39 Absatz 1 Satz 3 auf insgesamt bis zu 3 224 Euro im Kalenderjahr erhöht werden. Der für die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Verhinderungspflege nach § 39 Absatz 1 Satz 3 angerechnet.
+(2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die Aufwendungen für Leistungen der medizinischen Behandlungspflege bis zu dem Gesamtbetrag von 1 774 Euro im Kalenderjahr. Der Leistungsbetrag nach Satz 2 kann um bis zu 1 612 Euro aus noch nicht in Anspruch genommenen Mitteln der Verhinderungspflege nach § 39 Absatz 1 Satz 3 auf insgesamt bis zu 3 386 Euro im Kalenderjahr erhöht werden. Der für die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den Leistungsbetrag für eine Verhinderungspflege nach § 39 Absatz 1 Satz 3 angerechnet.
 
 (3) Abweichend von den Absätzen 1 und 2 besteht der Anspruch auf Kurzzeitpflege in begründeten Einzelfällen bei zu Hause gepflegten Pflegebedürftigen auch in geeigneten Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten Einrichtungen, wenn die Pflege in einer von den Pflegekassen zur Kurzzeitpflege zugelassenen Pflegeeinrichtung nicht möglich ist oder nicht zumutbar erscheint. § 34 Abs. 2 Satz 1 findet keine Anwendung. Sind in dem Entgelt für die Einrichtung Kosten für Unterkunft und Verpflegung sowie Aufwendungen für Investitionen enthalten, ohne gesondert ausgewiesen zu sein, so sind 60 vom Hundert des Entgelts zuschussfähig. In begründeten Einzelfällen kann die Pflegekasse in Ansehung der Kosten für Unterkunft und Verpflegung sowie der Aufwendungen für Investitionen davon abweichende pauschale Abschläge vornehmen.
 
@@ -2358,6 +2387,10 @@ Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären Einrich
 # § 43b – Inhalt der Leistung
 
 Pflegebedürftige in stationären Pflegeeinrichtungen haben nach Maßgabe von § 84 Absatz 8 und § 85 Absatz 8 Anspruch auf zusätzliche Betreuung und Aktivierung, die über die nach Art und Schwere der Pflegebedürftigkeit notwendige Versorgung hinausgeht.
+
+# § 43c – Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen
+
+Pflegebedürftige der Pflegegrade 2 bis 5, die bis einschließlich zwölf Monate Leistungen nach § 43 beziehen, erhalten einen Leistungszuschlag in Höhe von 5 Prozent ihres zu zahlenden Eigenanteils an den pflegebedingten Aufwendungen. Pflegebedürftige der Pflegegrade 2 bis 5, die seit mehr als zwölf Monaten Leistungen nach § 43 beziehen, erhalten einen Leistungszuschlag in Höhe von 25 Prozent ihres zu zahlenden Eigenanteils an den pflegebedingten Aufwendungen. Pflegebedürftige der Pflegegrade 2 bis 5, die seit mehr als 24 Monaten Leistungen nach § 43 beziehen, erhalten einen Leistungszuschlag in Höhe von 45 Prozent ihres zu zahlenden Eigenanteils an den pflegebedingten Aufwendungen. Pflegebedürftige der Pflegegrade 2 bis 5, die seit mehr als 36 Monaten Leistungen nach § 43 beziehen, erhalten einen Leistungszuschlag in Höhe von 70 Prozent ihres zu zahlenden Eigenanteils an den pflegebedingten Aufwendungen. Bei der Bemessung der Monate, in denen Pflegebedürftige Leistungen nach § 43 beziehen, werden Monate, in denen nur für einen Teilzeitraum Leistungen nach § 43 bezogen worden sind, berücksichtigt. Die Pflegeeinrichtung, die den Pflegebedürftigen versorgt, stellt der Pflegekasse des Pflegebedürftigen neben dem Leistungsbetrag den Leistungszuschlag in Rechnung und dem Pflegebedürftigen den verbleibenden Eigenanteil. Die Pflegekasse übermittelt für jeden Pflegebedürftigen beim Einzug in die Pflegeeinrichtung sowie zum 1. Januar 2022 für alle vollstationär versorgten Pflegebedürftigen die bisherige Dauer des Bezugs von Leistungen nach § 43.
 
 # § 44 – Leistungen zur sozialen Sicherung der Pflegepersonen
 
@@ -2483,7 +2516,7 @@ Die Erstattung der Aufwendungen erfolgt auch, wenn für die Finanzierung der in 
 
 3. Modellvorhaben zur Erprobung neuer Versorgungskonzepte und Versorgungsstrukturen insbesondere für an Demenz erkrankte Pflegebedürftige sowie andere Gruppen von Pflegebedürftigen, deren Versorgung in besonderem Maße der strukturellen Weiterentwicklung bedarf.
 
-Die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, beteiligen sich an dieser Förderung mit insgesamt 10 Prozent des in Satz 1 genannten Fördervolumens. Darüber hinaus fördert der Spitzenverband Bund der Pflegekassen aus Mitteln des Ausgleichsfonds mit 10 Millionen Euro je Kalenderjahr die strukturierte Zusammenarbeit in regionalen Netzwerken nach Absatz 9; Satz 2 gilt entsprechend. Fördermittel nach Satz 3, die in dem jeweiligen Kalenderjahr nicht in Anspruch genommen worden sind, erhöhen im Folgejahr das Fördervolumen nach Satz 1; dadurch erhöht sich auch das in Absatz 2 Satz 2 genannte Gesamtfördervolumen entsprechend. Im Rahmen der Förderung nach Satz 1 können jeweils auch digitale Anwendungen berücksichtigt werden, sofern diese den geltenden Anforderungen an den Datenschutz entsprechen und die Datensicherheit nach dem Stand der Technik gewährleisten.
+Die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, beteiligen sich an dieser Förderung mit insgesamt 10 Prozent des in Satz 1 genannten Fördervolumens. Darüber hinaus fördert der Spitzenverband Bund der Pflegekassen aus Mitteln des Ausgleichsfonds mit 20 Millionen Euro je Kalenderjahr die strukturierte Zusammenarbeit in regionalen Netzwerken nach Absatz 9; Satz 2 gilt entsprechend. Fördermittel nach Satz 3, die in dem jeweiligen Kalenderjahr nicht in Anspruch genommen worden sind, erhöhen im Folgejahr das Fördervolumen nach Satz 1; dadurch erhöht sich auch das in Absatz 2 Satz 2 genannte Gesamtfördervolumen entsprechend. Im Rahmen der Förderung nach Satz 1 können jeweils auch digitale Anwendungen berücksichtigt werden, sofern diese den geltenden Anforderungen an den Datenschutz entsprechen und die Datensicherheit nach dem Stand der Technik gewährleisten.
 
 (2) Der Zuschuss aus Mitteln der sozialen und privaten Pflegeversicherung ergänzt eine Förderung der in Absatz 1 Satz 1 genannten Zwecke durch das jeweilige Land oder die jeweilige kommunale Gebietskörperschaft. Der Zuschuss wird jeweils in gleicher Höhe gewährt wie der Zuschuss, der vom Land oder von der kommunalen Gebietskörperschaft für die einzelne Fördermaßnahme geleistet wird, sodass insgesamt ein Fördervolumen von 50 Millionen Euro im Kalenderjahr erreicht wird. Im Einvernehmen mit allen Fördergebern können Zuschüsse der kommunalen Gebietskörperschaften auch als Personal- oder Sachmittel eingebracht werden, sofern diese Mittel nachweislich ausschließlich und unmittelbar dazu dienen, den jeweiligen Förderzweck zu erreichen. Soweit Mittel der Arbeitsförderung bei einem Projekt eingesetzt werden, sind diese einem vom Land oder von der Kommune geleisteten Zuschuss gleichgestellt.
 
@@ -2499,7 +2532,7 @@ Die privaten Versicherungsunternehmen, die die private Pflege-Pflichtversicherun
 
 (8) Der Finanzierungsanteil, der auf die privaten Versicherungsunternehmen entfällt, kann von dem Verband der privaten Krankenversicherung e. V. unmittelbar an das Bundesamt für Soziale Sicherung zugunsten des Ausgleichsfonds der Pflegeversicherung (§ 65) überwiesen werden. Näheres über das Verfahren der Auszahlung der Fördermittel, die aus dem Ausgleichsfonds zu finanzieren sind, sowie über die Zahlung und Abrechnung des Finanzierungsanteils der privaten Versicherungsunternehmen regeln das Bundesamt für Soziale Sicherung, der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenversicherung e. V. durch Vereinbarung.
 
-(9) Zur Verbesserung der Versorgung und Unterstützung von Pflegebedürftigen und deren Angehörigen sowie vergleichbar nahestehenden Pflegepersonen können die in Absatz 1 Satz 3 genannten Mittel für die Beteiligung von Pflegekassen an regionalen Netzwerken verwendet werden, die der strukturierten Zusammenarbeit von Akteuren dienen, die an der Versorgung Pflegebedürftiger beteiligt sind und die sich im Rahmen einer freiwilligen Vereinbarung vernetzen. Die Förderung der strukturierten regionalen Zusammenarbeit erfolgt, indem sich die Pflegekassen einzeln oder gemeinsam im Wege einer Anteilsfinanzierung an den netzwerkbedingten Kosten beteiligen. Je Kreis oder kreisfreier Stadt darf der Förderbetrag dabei 20 000 Euro je Kalenderjahr nicht überschreiten. Den Kreisen und kreisfreien Städten, Selbsthilfegruppen, -organisationen und -kontaktstellen im Sinne des § 45d sowie organisierten Gruppen ehrenamtlich tätiger sowie sonstiger zum bürgerschaftlichen Engagement bereiter Personen im Sinne des Absatzes 4 ist in ihrem jeweiligen Einzugsgebiet die Teilnahme an der geförderten strukturierten regionalen Zusammenarbeit zu ermöglichen. Für private Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, gelten die Sätze 1 bis 4 entsprechend. Absatz 7 Satz 1 bis 4 und Absatz 8 finden entsprechende Anwendung. Die Absätze 2 und 6 finden keine Anwendung. Die Empfehlungen nach Absatz 7, soweit sie die Förderung der regionalen Netzwerke betreffen, sind bis zum 31. Dezember 2021 zu aktualisieren.
+(9) Zur Verbesserung der Versorgung und Unterstützung von Pflegebedürftigen und deren Angehörigen sowie vergleichbar nahestehenden Pflegepersonen können die in Absatz 1 Satz 3 genannten Mittel für die Beteiligung von Pflegekassen an regionalen Netzwerken verwendet werden, die der strukturierten Zusammenarbeit von Akteuren dienen, die an der Versorgung Pflegebedürftiger beteiligt sind und die sich im Rahmen einer freiwilligen Vereinbarung vernetzen. Die Förderung der strukturierten regionalen Zusammenarbeit erfolgt, indem sich die Pflegekassen einzeln oder gemeinsam im Wege einer Anteilsfinanzierung an den netzwerkbedingten Kosten beteiligen. Je Kreis oder kreisfreier Stadt können zwei regionale Netzwerke, je Kreis oder kreisfreier Stadt ab 500 000 Einwohnern bis zu vier regionale Netzwerke gefördert werden. Abweichend von Satz 1 können pro Bezirk in den Stadtstaaten, die nur aus einer kreisfreien Stadt bestehen, zwei regionale Netzwerke gefördert werden. Der Förderbetrag pro Netzwerk darf dabei 25 000 Euro je Kalenderjahr nicht überschreiten. Die Landesverbände der Pflegekassen erstellen eine Übersicht über die in ihrem Zuständigkeitsbereich geförderten regionalen Netzwerke, aktualisieren diese mindestens einmal jährlich und veröffentlichen sie auf einer eigenen Internetseite. Den Kreisen und kreisfreien Städten, Selbsthilfegruppen, -organisationen und -kontaktstellen im Sinne des § 45d sowie organisierten Gruppen ehrenamtlich tätiger sowie sonstiger zum bürgerschaftlichen Engagement bereiter Personen im Sinne des Absatzes 4 ist in ihrem jeweiligen Einzugsgebiet die Teilnahme an der geförderten strukturierten regionalen Zusammenarbeit zu ermöglichen. Für private Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, gelten die Sätze 1 bis 5 entsprechend. Absatz 7 Satz 1 bis 4 und Absatz 8 finden entsprechende Anwendung. Die Absätze 2 und 6 finden keine Anwendung. Die Empfehlungen nach Absatz 7, soweit sie die Förderung der regionalen Netzwerke betreffen, sind bis zum 31. Dezember 2021 zu aktualisieren.
 
 # § 45d – Förderung der Selbsthilfe, Verordnungsermächtigung
 
@@ -2743,7 +2776,7 @@ Die Richtlinien werden erst wirksam, wenn das Bundesministerium für Gesundheit 
 
 (2) Beitragspflichtige Einnahmen sind bis zu einem Betrag von 1/360 der in § 6 Abs. 7 des Fünften Buches festgelegten Jahresarbeitsentgeltgrenze für den Kalendertag zu berücksichtigen (Beitragsbemessungsgrenze).
 
-(3) Der Beitragssatz nach Absatz 1 Satz 1 und 2 erhöht sich für Mitglieder nach Ablauf des Monats, in dem sie das 23. Lebensjahr vollendet haben, um einen Beitragszuschlag in Höhe von 0,25 Beitragssatzpunkten (Beitragszuschlag für Kinderlose). Satz 1 gilt nicht für Eltern im Sinne des § 56 Abs. 1 Satz 1 Nr. 3 und Abs. 3 Nr. 2 und 3 des Ersten Buches. Die Elterneigenschaft ist in geeigneter Form gegenüber der beitragsabführenden Stelle, von Selbstzahlern gegenüber der Pflegekasse, nachzuweisen, sofern diesen die Elterneigenschaft nicht bereits aus anderen Gründen bekannt ist. Der Spitzenverband Bund der Pflegekassen gibt Empfehlungen darüber, welche Nachweise geeignet sind. Erfolgt die Vorlage des Nachweises innerhalb von drei Monaten nach der Geburt des Kindes, gilt der Nachweis mit Beginn des Monats der Geburt als erbracht, ansonsten wirkt der Nachweis ab Beginn des Monats, der dem Monat folgt, in dem der Nachweis erbracht wird. Nachweise für vor dem 1. Januar 2005 geborene Kinder, die bis zum 30. Juni 2005 erbracht werden, wirken vom 1. Januar 2005 an. Satz 1 gilt nicht für Mitglieder, die vor dem 1. Januar 1940 geboren wurden, für Wehr- und Zivildienstleistende sowie für Bezieher von Arbeitslosengeld II.
+(3) Der Beitragssatz nach Absatz 1 Satz 1 und 2 erhöht sich für Mitglieder nach Ablauf des Monats, in dem sie das 23. Lebensjahr vollendet haben, um einen Beitragszuschlag in Höhe von 0,35 Beitragssatzpunkten (Beitragszuschlag für Kinderlose). Satz 1 gilt nicht für Eltern im Sinne des § 56 Abs. 1 Satz 1 Nr. 3 und Abs. 3 Nr. 2 und 3 des Ersten Buches. Die Elterneigenschaft ist in geeigneter Form gegenüber der beitragsabführenden Stelle, von Selbstzahlern gegenüber der Pflegekasse, nachzuweisen, sofern diesen die Elterneigenschaft nicht bereits aus anderen Gründen bekannt ist. Der Spitzenverband Bund der Pflegekassen gibt Empfehlungen darüber, welche Nachweise geeignet sind. Erfolgt die Vorlage des Nachweises innerhalb von drei Monaten nach der Geburt des Kindes, gilt der Nachweis mit Beginn des Monats der Geburt als erbracht, ansonsten wirkt der Nachweis ab Beginn des Monats, der dem Monat folgt, in dem der Nachweis erbracht wird. Nachweise für vor dem 1. Januar 2005 geborene Kinder, die bis zum 30. Juni 2005 erbracht werden, wirken vom 1. Januar 2005 an. Satz 1 gilt nicht für Mitglieder, die vor dem 1. Januar 1940 geboren wurden, für Wehr- und Zivildienstleistende sowie für Bezieher von Arbeitslosengeld II.
 
 (3a) Zu den Eltern im Sinne des Absatzes 3 Satz 2 gehören nicht
 
@@ -2856,6 +2889,10 @@ allein getragen.
 (6) Das Krankenversicherungsunternehmen hat dem Versicherungsnehmer eine Bescheinigung darüber auszuhändigen, daß ihm die Aufsichtsbehörde bestätigt hat, daß es die Versicherung, die Grundlage des Versicherungsvertrages ist, nach den in Absatz 5 genannten Voraussetzungen betreibt. Der Versicherungsnehmer hat diese Bescheinigung dem zur Zahlung des Beitragszuschusses Verpflichteten jeweils nach Ablauf von drei Jahren vorzulegen.
 
 (7) Personen, die nach beamtenrechtlichen Vorschriften oder Grundsätzen bei Krankheit und Pflege Anspruch auf Beihilfe oder Heilfürsorge haben und bei einem privaten Versicherungsunternehmen pflegeversichert sind, sowie Personen, für die der halbe Beitragssatz nach § 55 Abs. 1 Satz 2 gilt, haben gegenüber dem Arbeitgeber oder Dienstherrn, der die Beihilfe und Heilfürsorge zu Aufwendungen aus Anlaß der Pflege gewährt, keinen Anspruch auf einen Beitragszuschuß. Hinsichtlich der Beitragszuschüsse für Abgeordnete, ehemalige Abgeordnete und deren Hinterbliebene wird auf die Bestimmungen in den jeweiligen Abgeordnetengesetzen verwiesen.
+
+# § 61a – Beteiligung des Bundes an Aufwendungen
+
+Der Bund leistet zur pauschalen Beteiligung an den Aufwendungen der sozialen Pflegeversicherung ab dem Jahr 2022 jährlich 1 Milliarde Euro in monatlich zum jeweils ersten Bankarbeitstag zu überweisenden Teilbeträgen an den Ausgleichsfonds nach § 65.
 
 # § 62 – Mittel der Pflegekasse
 
@@ -3449,7 +3486,7 @@ Die als Pflegesatzparteien betroffenen Leistungsträger (§ 85 Abs. 2) vereinbar
 
 (2) Bestehen Anhaltspunkte dafür, dass der pflegebedürftige Heimbewohner auf Grund der Entwicklung seines Zustands einem höheren Pflegegrad zuzuordnen ist, so ist er auf schriftliche Aufforderung des Heimträgers verpflichtet, bei seiner Pflegekasse die Zuordnung zu einem höheren Pflegegrad zu beantragen. Die Aufforderung ist zu begründen und auch der Pflegekasse sowie bei Sozialhilfeempfängern dem zuständigen Träger der Sozialhilfe zuzuleiten. Weigert sich der Heimbewohner, den Antrag zu stellen, kann der Heimträger ihm oder seinem Kostenträger ab dem ersten Tag des zweiten Monats nach der Aufforderung vorläufig den Pflegesatz nach dem nächsthöheren Pflegegrad berechnen. Werden die Voraussetzungen für einen höheren Pflegegrad vom Medizinischen Dienst nicht bestätigt und lehnt die Pflegekasse eine Höherstufung deswegen ab, hat das Pflegeheim dem Pflegebedürftigen den überzahlten Betrag unverzüglich zurückzuzahlen; der Rückzahlungsbetrag ist rückwirkend ab dem in Satz 3 genannten Zeitpunkt mit wenigstens 5 vom Hundert zu verzinsen.
 
-(3) Die dem pflegebedürftigen Heimbewohner nach den §§ 41 bis 43 zustehenden Leistungsbeträge sind von seiner Pflegekasse mit befreiender Wirkung unmittelbar an das Pflegeheim zu zahlen. Maßgebend für die Höhe des zu zahlenden Leistungsbetrags ist der Leistungsbescheid der Pflegekasse, unabhängig davon, ob der Bescheid bestandskräftig ist oder nicht. Die von den Pflegekassen zu zahlenden Leistungsbeträge werden bei vollstationärer Pflege (§ 43) zum 15. eines jeden Monats fällig.
+(3) Die dem pflegebedürftigen Heimbewohner nach den §§ 41 bis 43 zustehenden Leistungsbeträge einschließlich des Leistungszuschlags nach § 43c sind von seiner Pflegekasse mit befreiender Wirkung unmittelbar an das Pflegeheim zu zahlen. Maßgebend für die Höhe des zu zahlenden Leistungsbetrags ist der Leistungsbescheid der Pflegekasse, unabhängig davon, ob der Bescheid bestandskräftig ist oder nicht. Die von den Pflegekassen zu zahlenden Leistungsbeträge werden bei vollstationärer Pflege (§ 43) zum 15. eines jeden Monats fällig.
 
 (4) Pflegeeinrichtungen, die Leistungen im Sinne des § 43 erbringen, erhalten von der Pflegekasse zusätzlich den Betrag von 2 952 Euro, wenn der Pflegebedürftige nach der Durchführung aktivierender oder rehabilitativer Maßnahmen in einen niedrigeren Pflegegrad zurückgestuft wurde oder festgestellt wurde, dass er nicht mehr pflegebedürftig im Sinne der §§ 14 und 15 ist. Der Betrag wird entsprechend § 30 angepasst. Der von der Pflegekasse gezahlte Betrag ist von der Pflegeeinrichtung zurückzuzahlen, wenn der Pflegebedürftige innerhalb von sechs Monaten in einen höheren Pflegegrad oder wieder als pflegebedürftig im Sinne der §§ 14 und 15 eingestuft wird.
 
@@ -4519,13 +4556,13 @@ d) bei gleichzeitigem Vorliegen der Pflegestufe III nach den §§ 14 und 15 in d
 
 haben ab dem 1. Januar 2017 Anspruch auf einen Zuschlag auf den Entlastungsbetrag nach § 45b in der ab dem 1. Januar 2017 jeweils geltenden Fassung. Die Höhe des monatlichen Zuschlags ergibt sich aus der Differenz zwischen 208 Euro und dem Leistungsbetrag, der in § 45b Absatz 1 Satz 1 in der ab dem 1. Januar 2017 jeweils geltenden Fassung festgelegt ist. Das Bestehen eines Anspruchs auf diesen Zuschlag ist den Versicherten schriftlich mitzuteilen und zu erläutern. Für den Zuschlag auf den Entlastungsbetrag gilt § 45b Absatz 3 entsprechend. Bei Versicherten, die keinen Anspruch auf einen Zuschlag haben und deren Ansprüche nach § 45b zum 1. Januar 2017 von 208 Euro auf 125 Euro monatlich abgesenkt werden, sind zur Sicherstellung des Besitzstandsschutzes monatlich Leistungen der Pflegeversicherung in Höhe von bis zu 83 Euro nicht auf Fürsorgeleistungen zur Pflege anzurechnen.
 
-(3) Ist bei Pflegebedürftigen der Pflegegrade 2 bis 5 in der vollstationären Pflege der einrichtungseinheitliche Eigenanteil nach § 92e oder nach § 84 Absatz 2 Satz 3 im ersten Monat nach der Einführung des neuen Pflegebedürftigkeitsbegriffs höher als der jeweilige individuelle Eigenanteil im Vormonat, so ist zum Leistungsbetrag nach § 43 von Amts wegen ein monatlicher Zuschlag in Höhe der Differenz von der Pflegekasse an die Pflegeeinrichtung zu zahlen. In der Vergleichsberechnung nach Satz 1 sind für beide Monate jeweils die vollen Pflegesätze und Leistungsbeträge zugrunde zu legen. Die Sätze 1 und 2 gelten entsprechend, wenn der Leistungsbetrag nach § 43 Absatz 2 Satz 2 die in § 43 Absatz 2 Satz 1 genannten Aufwendungen übersteigt und zur Finanzierung von Aufwendungen für Unterkunft und Verpflegung eingesetzt worden ist. Verringert sich die Differenz zwischen Pflegesatz und Leistungsbetrag in der Folgezeit, ist der Zuschlag entsprechend zu kürzen. Die Pflegekassen teilen die Höhe des monatlichen Zuschlages nach Satz 1 sowie jede Änderung der Zuschlagshöhe den Pflegebedürftigen schriftlich mit. Die Sätze 1 bis 5 gelten entsprechend für Versicherte der privaten Pflege-Pflichtversicherung.
+(3) (weggefallen)
 
-(3a) Für Pflegebedürftige, die am 31. Dezember 2016 Leistungen der Kurzzeitpflege nach § 42 Absatz 1 und 2 in Anspruch nehmen, gilt der am 31. Dezember 2016 gezahlte Pflegesatz für die Dauer der Kurzzeitpflege fort. Nehmen Pflegebedürftige am 31. Dezember 2016 Leistungen der Kurzzeitpflege nach § 42 und nach dem Ende der Kurzzeitpflege ohne Unterbrechung des Heimaufenthalts auch Sachleistungen der vollstationären Pflege nach § 43 in derselben Einrichtung in Anspruch, so ermittelt sich der von der Pflegekasse an die Pflegeeinrichtung nach Absatz 3 Satz 1 von Amts wegen ab dem Zeitpunkt der Inanspruchnahme von vollstationärer Pflege nach § 43 zu zahlende monatliche Zuschlag aus der Differenz zwischen dem einrichtungseinheitlichen Eigenanteil nach § 92e oder nach § 84 Absatz 2 Satz 3 und dem individuellen Eigenanteil, den die Pflegebedürftigen im Monat Dezember 2016 in der Einrichtung zu tragen gehabt hätten. Absatz 3 Satz 4 bis 6 gilt entsprechend.
+(3a) (weggefallen)
 
-(3b) Wechseln Pflegebedürftige im Sinne der Absätze 3 und 3a zwischen dem 1. Januar 2017 und dem 31. Dezember 2021 die vollstationäre Pflegeeinrichtung, so ermittelt sich der von der Pflegekasse an die neue Pflegeeinrichtung nach Absatz 3 Satz 1 von Amts wegen ab dem Zeitpunkt des Wechsels zu zahlende monatliche Zuschlag aus der Differenz zwischen dem einrichtungseinheitlichen Eigenanteil nach § 92e oder nach § 84 Absatz 2 Satz 3, den die Pflegebedürftigen im Monat Januar 2017 in der neuen Einrichtung zu tragen haben oder zu tragen gehabt hätten, und dem individuellen Eigenanteil, den die Pflegebedürftigen im Monat Dezember 2016 in der neuen Einrichtung zu tragen gehabt hätten. Bei einem Wechsel in eine neu zugelassene vollstationäre Pflegeeinrichtung, die erstmalig ab 1. Januar 2017 oder später eine Pflegesatzvereinbarung abgeschlossen hat, behalten Pflegebedürftige mit ihrem Wechsel ihren nach Absatz 3 ermittelten monatlichen Zuschlagsbetrag. Absatz 3 Satz 2 bis 6 gilt entsprechend.
+(3b) (weggefallen)
 
-(3c) Erhöht sich der einrichtungseinheitliche Eigenanteil nach § 92e oder nach § 84 Absatz 2 Satz 3 für Pflegebedürftige im Sinne der Absätze 3, 3a und 3b im Zeitraum vom 1. Februar 2017 bis 31. Dezember 2017, findet Absatz 3 entsprechende Anwendung, sofern sich die Erhöhung aus der erstmaligen Vereinbarung der neuen Pflegesätze im Rahmen der Überleitung, Einführung und Umsetzung des neuen Pflegebedürftigkeitsbegriffs ergibt. Dies gilt auch für Pflegebedürftige, die im Dezember 2016 in einer vollstationären Pflegeeinrichtung versorgt wurden, und die durch die Erhöhung erstmals einen höheren einrichtungseinheitlichen Eigenanteil zu tragen hätten im Vergleich zum jeweiligen individuellen Eigenanteil im Dezember 2016. Der Vergleichsberechnung ist neben dem Monat Dezember 2016 der Monat im Zeitraum vom 1. Februar 2017 bis 31. Dezember 2017 zugrunde zu legen, in dem der einrichtungseinheitliche Eigenanteil erstmalig höher als der jeweilige individuelle Eigenanteil im Monat Dezember 2016 ist oder in den Fällen des Absatzes 3a gewesen wäre.
+(3c) (weggefallen)
 
 (4) Für Personen, die am 31. Dezember 2016 wegen nicht erwerbsmäßiger Pflege rentenversicherungspflichtig waren und Anspruch auf die Zahlung von Beiträgen zur gesetzlichen Rentenversicherung nach § 44 in der am 31. Dezember 2016 geltenden Fassung hatten, besteht die Versicherungspflicht für die Dauer dieser Pflegetätigkeit fort. Die beitragspflichtigen Einnahmen ab dem 1. Januar 2017 bestimmen sich in den Fällen des Satzes 1 nach Maßgabe des § 166 Absatz 2 und 3 des Sechsten Buches in der am 31. Dezember 2016 geltenden Fassung, wenn sie höher sind als die beitragspflichtigen Einnahmen, die sich aus dem ab dem 1. Januar 2017 geltenden Recht ergeben.
 
@@ -4583,7 +4620,7 @@ Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017 Anspruc
 
 # § 147 – Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18
 
-(1) Abweichend von § 18 Absatz 2 Satz 1 kann die Begutachtung bis einschließlich 30. Juni 2021 ohne Untersuchung des Versicherten in seinem Wohnbereich erfolgen, wenn dies zur Verhinderung des Risikos einer Ansteckung des Versicherten oder des Gutachters mit dem Coronavirus SARS-CoV-2 zwingend erforderlich ist. Grundlage für die Begutachtung bilden bis zu diesem Zeitpunkt insbesondere die zum Versicherten zur Verfügung stehenden Unterlagen sowie die Angaben und Auskünfte, die beim Versicherten, seinen Angehörigen und sonstigen zur Auskunft fähigen Personen einzuholen sind. Der Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen entwickelt im Benehmen mit dem Spitzenverband Bund der Pflegekassen bis zum 31. Oktober 2020 bundesweit einheitliche Maßgaben dafür, unter welchen Schutz- und Hygieneanforderungen eine Begutachtung durch eine Untersuchung des Versicherten in seinem Wohnbereich stattfindet und in welchen Fällen, insbesondere bei welchen Personengruppen, eine Begutachtung ohne Untersuchung des Versicherten in seinem Wohnbereich zwingend erforderlich ist.
+(1) Abweichend von § 18 Absatz 2 Satz 1 kann die Begutachtung bis einschließlich 31. März 2022 ohne Untersuchung des Versicherten in seinem Wohnbereich erfolgen, wenn dies zur Verhinderung des Risikos einer Ansteckung des Versicherten oder des Gutachters mit dem Coronavirus SARS-CoV-2 zwingend erforderlich ist; der Wunsch des Versicherten, persönlich in seinem Wohnbereich untersucht zu werden, ist zu berücksichtigen. Grundlage für die Begutachtung bilden bis zu diesem Zeitpunkt insbesondere die zum Versicherten zur Verfügung stehenden Unterlagen sowie die Angaben und Auskünfte, die beim Versicherten, seinen Angehörigen und sonstigen zur Auskunft fähigen Personen einzuholen sind. Der Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen entwickelt im Benehmen mit dem Spitzenverband Bund der Pflegekassen bis zum 31. Oktober 2020 bundesweit einheitliche Maßgaben dafür, unter welchen Schutz- und Hygieneanforderungen eine Begutachtung durch eine Untersuchung des Versicherten in seinem Wohnbereich stattfindet und in welchen Fällen, insbesondere bei welchen Personengruppen, eine Begutachtung ohne Untersuchung des Versicherten in seinem Wohnbereich zwingend erforderlich ist.
 
 (2) Abweichend von § 18 Absatz 2 Satz 5 werden bis einschließlich 31. März 2021 keine Wiederholungsbegutachtungen durchgeführt, auch dann nicht, wenn die Wiederholungsbegutachtung vor diesem Zeitpunkt vom Medizinischen Dienst oder anderen unabhängigen Gutachterinnen und Gutachtern empfohlen wurde.
 
@@ -4593,19 +4630,11 @@ Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017 Anspruc
 
 (5) § 18 Absatz 3b Satz 1 bis 3 findet bis einschließlich 30. September 2020 keine Anwendung.
 
-(6) Absatz 1 gilt für Anträge auf Pflegeleistungen, die zwischen dem 1. Oktober 2020 und dem 30. Juni 2021 gestellt werden.
-
-(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 147 Absatz 1 Satz 1 bzw. 147 Abs. 6  
-- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
-- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
+(6) Absatz 1 gilt für Anträge auf Pflegeleistungen, die zwischen dem 1. Oktober 2020 und dem 31. März 2022 gestellt werden.
 
 # § 148 – Beratungsbesuche nach § 37
 
-Abweichend von § 37 Absatz 3 Satz 1 erfolgt die von den Pflegebedürftigen abzurufende Beratung bis einschließlich 30. Juni 2021 telefonisch, digital oder per Videokonferenz, wenn die oder der Pflegebedürftige dies wünscht.
-
-(+++ Hinweis: Zur Verlängerung der Frist nach nach § 148  
-- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
-- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
+Abweichend von § 37 Absatz 3 Satz 1 erfolgt die von den Pflegebedürftigen abzurufende Beratung bis einschließlich 31. März 2022 telefonisch, digital oder per Videokonferenz, wenn die oder der Pflegebedürftige dies wünscht.
 
 # § 149 – Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung
 
@@ -4649,11 +4678,7 @@ Die Auszahlung kann vorläufig erfolgen. Der Spitzenverband Bund der Pflegekasse
 
 Abweichend von § 44a Absatz 6 Satz 1 haben landwirtschaftliche Unternehmer nach § 2 Absatz 1 Nummer 1 und 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte Anspruch auf Betriebshilfe für bis zu insgesamt 20 Arbeitstage, um die Pflege eines pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherzustellen oder zu organisieren, unabhängig davon, ob eine akut aufgetretene Pflegesituation vorliegt, sofern die Voraussetzungen nach Satz 1 Nummer 1 und 3 erfüllt sind. Abweichend von § 44a Absatz 6 Satz 3 haben privat pflegeversicherte landwirtschaftliche Unternehmer Anspruch auf Kostenerstattung für bis zu insgesamt 20 Arbeitstage Betriebshilfe, um die Pflege eines pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes sicherzustellen oder zu organisieren, unabhängig davon, ob eine akut aufgetretene Pflegesituation vorliegt, sofern die Voraussetzungen nach Satz 1 Nummer 1 und 3 erfüllt sind.
 
-(6) Die Absätze 1 bis 5b gelten bis einschließlich 30. Juni 2021. Absatz 5d gilt in dem Zeitraum vom 23. Mai 2020 bis einschließlich 30. Juni 2021.
-
-(+++ Hinweis: Zur Verlängerung der Frist/des Zeitraums nach § 150 Absatz 6 Satz 1 bzw. § 150 Abs. 6 Satz 2  
-- bis einschließlich 30. September 2021 vgl. V v. 28.6.2021 BAnz AT 30.06.2021 V2  
-- bis einschließlich 31. Dezember 2021 vgl. V v. 21.9.2021 BAnz AT 22.09.2021 V1 +++)
+(6) Die Absätze 1 bis 5b gelten bis einschließlich 31. März 2022. Absatz 5d gilt in dem Zeitraum vom 23. Mai 2020 bis einschließlich 31. März 2022.
 
 # § 150a – Sonderleistung während der Coronavirus-SARS-CoV-2-Pandemie
 
@@ -4729,7 +4754,7 @@ Gleiches gilt für die Arbeitgeber und Arbeitnehmer nach Absatz 1 Satz 2. Die L�
 
 # § 150b – Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d
 
-Die Arbeitstage, für die Pflegeunterstützungsgeld gemäß § 150 Absatz 5d Satz 1, Betriebshilfe gemäß § 150 Absatz 5d Satz 2 oder Kostenerstattung gemäß § 150 Absatz 5d Satz 3 in Anspruch genommen worden ist, werden auf die Arbeitstage, für die Pflegeunterstützungsgeld gemäß § 44a Absatz 3, Betriebshilfe gemäß § 44a Absatz 6 Satz 1 oder Kostenerstattung gemäß § 44a Absatz 6 Satz 3 in Anspruch genommen werden kann, nicht angerechnet.
+Die Arbeitstage, für die Pflegeunterstützungsgeld im Geltungszeitraum von § 150 Absatz 5d Satz 1, Betriebshilfe im Geltungszeitraum von § 150 Absatz 5d Satz 2 oder Kostenerstattung im Geltungszeitraum von § 150 Absatz 5d Satz 3 in Anspruch genommen worden ist, werden auf die Arbeitstage, für die Pflegeunterstützungsgeld gemäß § 44a Absatz 3, Betriebshilfe gemäß § 44a Absatz 6 Satz 1 oder Kostenerstattung gemäß § 44a Absatz 6 Satz 3 in Anspruch genommen werden kann, nicht angerechnet.
 
 # § 151 – Qualitätsprüfungen nach § 114
 
@@ -4741,7 +4766,7 @@ Das Bundesministerium für Gesundheit kann nach einer erneuten Risikobeurteilung
 
 # § 153 – Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung
 
-Wenn der Mittelbestand der sozialen Pflegeversicherung aufgrund pandemiebedingter Mehrausgaben absehbar das gesetzliche Betriebsmittel- und Rücklagesoll der Pflegekassen zu unterschreiten droht, gewährt der Bundeshaushalt der sozialen Pflegeversicherung im Jahr 2021 einen Zuschuss in erforderlicher Höhe (Bundeszuschuss). Das Bundesministerium für Gesundheit wird ermächtigt, das Nähere durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates zu bestimmen.
+Wenn der Mittelbestand der sozialen Pflegeversicherung aufgrund pandemiebedingter Mehrausgaben absehbar das gesetzliche Betriebsmittel- und Rücklagesoll der Pflegekassen zu unterschreiten droht, gewährt der Bundeshaushalt der sozialen Pflegeversicherung in den Jahren 2021 und 2022 einen Zuschuss in erforderlicher Höhe (Bundeszuschuss). Das Bundesministerium für Gesundheit wird ermächtigt, das Nähere durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates zu bestimmen.
 
 # Anlage 1 – (zu § 15)Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
 

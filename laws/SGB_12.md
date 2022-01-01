@@ -235,6 +235,10 @@ Erbringung der Leistungen für Bildung und Teilhabe
 
 Berechtigte Selbsthilfe
 
+§ 34c
+
+Zuständigkeit
+
  
 
  
@@ -384,6 +388,10 @@ Erstattungsansprüche zwischen Trägern
 § 45
 
 Feststellung der dauerhaften vollen Erwerbsminderung
+
+§ 45a
+
+Ermittlung der durchschnittlichen Warmmiete
 
 § 46
 
@@ -1703,9 +1711,9 @@ Neben der Berücksichtigung von Bedarfen nach Satz 1 können auch weitere tatsä
 
 3. Geldleistungen.
 
-Die zuständigen Träger der Sozialhilfe bestimmen, in welcher Form sie die Leistungen erbringen. Die Leistungen zur Deckung der Bedarfe nach § 34 Absatz 3 und 4 werden jeweils durch Geldleistungen erbracht. Die zuständigen Träger der Sozialhilfe können mit Anbietern pauschal abrechnen.
+Die nach § 34c Absatz 1 zuständigen Träger der Sozialhilfe bestimmen, in welcher Form sie die Leistungen erbringen. Die Leistungen zur Deckung der Bedarfe nach § 34 Absatz 3 und 4 werden jeweils durch Geldleistungen erbracht. Die nach § 34c Absatz 1 zuständigen Träger der Sozialhilfe können mit Anbietern pauschal abrechnen.
 
-(3) Werden die Bedarfe durch Gutscheine gedeckt, gelten die Leistungen mit Ausgabe des jeweiligen Gutscheins als erbracht. Die zuständigen Träger der Sozialhilfe gewährleisten, dass Gutscheine bei geeigneten vorhandenen Anbietern oder zur Wahrnehmung ihrer eigenen Angebote eingelöst werden können. Gutscheine können für den gesamten Bewilligungszeitraum im Voraus ausgegeben werden. Die Gültigkeit von Gutscheinen ist angemessen zu befristen. Im Fall des Verlustes soll ein Gutschein erneut in dem Umfang ausgestellt werden, in dem er noch nicht in Anspruch genommen wurde.
+(3) Werden die Bedarfe durch Gutscheine gedeckt, gelten die Leistungen mit Ausgabe des jeweiligen Gutscheins als erbracht. Die nach § 34c Absatz 1 zuständigen Träger der Sozialhilfe gewährleisten, dass Gutscheine bei geeigneten vorhandenen Anbietern oder zur Wahrnehmung ihrer eigenen Angebote eingelöst werden können. Gutscheine können für den gesamten Bewilligungszeitraum im Voraus ausgegeben werden. Die Gültigkeit von Gutscheinen ist angemessen zu befristen. Im Fall des Verlustes soll ein Gutschein erneut in dem Umfang ausgestellt werden, in dem er noch nicht in Anspruch genommen wurde.
 
 (4) Werden die Bedarfe durch Direktzahlungen an Anbieter gedeckt, gelten die Leistungen mit der Zahlung als erbracht. Eine Direktzahlung ist für den gesamten Bewilligungszeitraum im Voraus möglich.
 
@@ -1715,29 +1723,35 @@ Die zuständigen Träger der Sozialhilfe bestimmen, in welcher Form sie die Leis
 
 2. nachträglich durch Erstattung verauslagter Beträge.
 
-(6) Im Einzelfall kann der zuständige Träger der Sozialhilfe einen Nachweis über eine zweckentsprechende Verwendung der Leistung verlangen. Soweit der Nachweis nicht geführt wird, soll die Bewilligungsentscheidung widerrufen werden.
+(6) Im Einzelfall kann der nach § 34c Absatz 1 zuständige Träger der Sozialhilfe einen Nachweis über eine zweckentsprechende Verwendung der Leistung verlangen. Soweit der Nachweis nicht geführt wird, soll die Bewilligungsentscheidung widerrufen werden.
 
 (7) Abweichend von den Absätzen 2 bis 5 können Leistungen nach § 34 Absatz 2 Satz 1 Nummer 1 gesammelt für Schülerinnen und Schüler an eine Schule ausgezahlt werden, wenn die Schule
 
-1. dies bei dem zuständigen Träger der Sozialhilfe beantragt,
+1. dies bei dem nach § 34c Absatz 1 zuständigen Träger der Sozialhilfe beantragt,
 
 2. die Leistungen für die leistungsberechtigten Schülerinnen und Schüler verauslagt und
 
 3. sich die Leistungsberechtigung von den Leistungsberechtigten nachweisen lässt.
 
-Der zuständige Träger der Sozialhilfe kann mit der Schule vereinbaren, dass monatliche oder schulhalbjährliche Abschlagszahlungen geleistet werden.
+Der nach § 34c Absatz 1 zuständige Träger der Sozialhilfe kann mit der Schule vereinbaren, dass monatliche oder schulhalbjährliche Abschlagszahlungen geleistet werden.
 
-§ 34a idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE ist diese Vorschrift bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar.
+§ 34a idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE ist diese Vorschrift bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 2.6.2021 I 1387 mWv 1.1.2022.
 
 # § 34b – Berechtigte Selbsthilfe
 
-Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, ist der Träger der Sozialhilfe zur Übernahme der berücksichtigungsfähigen Aufwendungen verpflichtet, soweit
+Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, ist der nach § 34c Absatz 1 zuständige Träger der Sozialhilfe zur Übernahme der berücksichtigungsfähigen Aufwendungen verpflichtet, soweit
 
 1. unbeschadet des Satzes 2 die Voraussetzungen einer Leistungsgewährung zur Deckung der Bedarfe im Zeitpunkt der Selbsthilfe nach § 34 Absatz 2 und 5 bis 7 vorlagen und
 
 2. zum Zeitpunkt der Selbsthilfe der Zweck der Leistung durch Erbringung als Sach- oder Dienstleistung ohne eigenes Verschulden nicht oder nicht rechtzeitig zu erreichen war.
 
 War es dem Leistungsberechtigten nicht möglich, rechtzeitig einen Antrag zu stellen, gilt dieser als zum Zeitpunkt der Selbstvornahme gestellt.
+
+# § 34c – Zuständigkeit
+
+(1) Die für die Ausführung des Gesetzes nach diesem Abschnitt zuständigen Träger werden nach Landesrecht bestimmt.
+
+(2) Die §§ 3, 6 und 7 sind nicht anzuwenden.
 
 # § 35 – Bedarfe für Unterkunft und Heizung
 
@@ -1889,7 +1903,7 @@ Die Bedarfe nach diesem Kapitel umfassen:
 
 a) bei Leistungsberechtigten außerhalb von Einrichtungen nach § 42a,
 
-b) bei Leistungsberechtigten, deren notwendiger Lebensunterhalt sich nach § 27b Absatz 1 Nummer 2 oder nach § 27c Absatz 1 Nummer 2 ergibt, in Höhe der durchschnittlichen angemessenen tatsächlichen Aufwendungen für die Warmmiete eines Einpersonenhaushalts im Bereich des nach § 46b zuständigen Trägers,
+b) bei Leistungsberechtigten, deren notwendiger Lebensunterhalt sich nach § 27b Absatz 1 Satz 2 oder nach § 27c Absatz 1 Nummer 2 ergibt, in Höhe der nach § 45a ermittelten durchschnittlichen Warmmiete von Einpersonenhaushalten,
 
 5. ergänzende Darlehen nach § 37 Absatz 1 und Darlehen bei am Monatsende fälligen Einkommen nach § 37a.
 
@@ -3035,13 +3049,13 @@ sachlich zuständig.
 
 (4) Die sachliche Zuständigkeit für eine stationäre Leistung umfasst auch die sachliche Zuständigkeit für Leistungen, die gleichzeitig nach anderen Kapiteln zu erbringen sind, sowie für eine Leistung nach § 74.
 
-(5) Die überörtlichen Träger sollen, insbesondere bei verbreiteten Krankheiten, zur Weiterentwicklung von Leistungen der Sozialhilfe beitragen. Hierfür können sie die erforderlichen Einrichtungen schaffen oder fördern.
+(5) (weggefallen)
 
 # § 98 – Örtliche Zuständigkeit
 
 (1) Für die Sozialhilfe örtlich zuständig ist der Träger der Sozialhilfe, in dessen Bereich sich die Leistungsberechtigten tatsächlich aufhalten. Diese Zuständigkeit bleibt bis zur Beendigung der Leistung auch dann bestehen, wenn die Leistung außerhalb seines Bereichs erbracht wird.
 
-(1a) Abweichend von Absatz 1 ist im Fall der Auszahlung der Leistungen nach § 34 Absatz 2 Satz 1 Nummer 1 und nach § 34a Absatz 7 der Träger der Sozialhilfe zuständig, in dessen örtlichem Zuständigkeitsbereich die Schule liegt. Die Zuständigkeit nach Satz 1 umfasst auch Leistungen an Schülerinnen und Schüler, für die im Übrigen ein anderer Träger der Sozialhilfe nach Absatz 1 örtlich zuständig ist oder wäre.
+(1a) Abweichend von Absatz 1 ist im Falle der Auszahlung der Leistungen nach § 34 Absatz 2 Satz 1 Nummer 1 und bei Anwendung von § 34a Absatz 7 der nach § 34c zuständige Träger der Sozialhilfe zuständig, in dessen örtlichem Zuständigkeitsbereich die Schule liegt. Die Zuständigkeit nach Satz 1 umfasst auch Leistungen an Schülerinnen und Schüler, für die im Übrigen ein anderer Träger der Sozialhilfe nach Absatz 1 örtlich zuständig ist oder wäre.
 
 (2) Für die stationäre Leistung ist der Träger der Sozialhilfe örtlich zuständig, in dessen Bereich die Leistungsberechtigten ihren gewöhnlichen Aufenthalt im Zeitpunkt der Aufnahme in die Einrichtung haben oder in den zwei Monaten vor der Aufnahme zuletzt gehabt hatten. Waren bei Einsetzen der Sozialhilfe die Leistungsberechtigten aus einer Einrichtung im Sinne des Satzes 1 in eine andere Einrichtung oder von dort in weitere Einrichtungen übergetreten oder tritt nach dem Einsetzen der Leistung ein solcher Fall ein, ist der gewöhnliche Aufenthalt, der für die erste Einrichtung maßgebend war, entscheidend. Steht innerhalb von vier Wochen nicht fest, ob und wo der gewöhnliche Aufenthalt nach Satz 1 oder 2 begründet worden ist oder ist ein gewöhnlicher Aufenthaltsort nicht vorhanden oder nicht zu ermitteln oder liegt ein Eilfall vor, hat der nach Absatz 1 zuständige Träger der Sozialhilfe über die Leistung unverzüglich zu entscheiden und sie vorläufig zu erbringen. Wird ein Kind in einer Einrichtung im Sinne des Satzes 1 geboren, tritt an die Stelle seines gewöhnlichen Aufenthalts der gewöhnliche Aufenthalt der Mutter.
 
@@ -3797,7 +3811,7 @@ bedarfsstufe 2</th><th style="text-align: center;">Regel-<br />
 bedarfsstufe 3</th><th style="text-align: center;">Regel-<br />
 bedarfsstufe 4</th><th style="text-align: center;">Regel-<br />
 bedarfsstufe 5</th><th style="text-align: center;">Regel-<br />
-bedarfsstufe 6</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1. Januar 2011</td><td style="text-align: center;">364</td><td style="text-align: center;">328</td><td style="text-align: center;">291</td><td style="text-align: center;">287</td><td style="text-align: center;">251</td><td style="text-align: center;">215</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2012</td><td style="text-align: center;">374</td><td style="text-align: center;">337</td><td style="text-align: center;">299</td><td style="text-align: center;">287</td><td style="text-align: center;">251</td><td style="text-align: center;">219</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2013</td><td style="text-align: center;">382</td><td style="text-align: center;">345</td><td style="text-align: center;">306</td><td style="text-align: center;">289</td><td style="text-align: center;">255</td><td style="text-align: center;">224</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2014</td><td style="text-align: center;">391</td><td style="text-align: center;">353</td><td style="text-align: center;">313</td><td style="text-align: center;">296</td><td style="text-align: center;">261</td><td style="text-align: center;">229</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2015</td><td style="text-align: center;">399</td><td style="text-align: center;">360</td><td style="text-align: center;">320</td><td style="text-align: center;">302</td><td style="text-align: center;">267</td><td style="text-align: center;">234</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2016</td><td style="text-align: center;">404</td><td style="text-align: center;">364</td><td style="text-align: center;">324</td><td style="text-align: center;">306</td><td style="text-align: center;">270</td><td style="text-align: center;">237</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2017</td><td style="text-align: center;">409</td><td style="text-align: center;">368</td><td style="text-align: center;">327</td><td style="text-align: center;">311</td><td style="text-align: center;">291</td><td style="text-align: center;">237</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2018</td><td style="text-align: center;">416</td><td style="text-align: center;">374</td><td style="text-align: center;">332</td><td style="text-align: center;">316</td><td style="text-align: center;">296</td><td style="text-align: center;">240</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2019</td><td style="text-align: center;">424</td><td style="text-align: center;">382</td><td style="text-align: center;">339</td><td style="text-align: center;">322</td><td style="text-align: center;">302</td><td style="text-align: center;">245</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2020</td><td style="text-align: center;">432</td><td style="text-align: center;">389</td><td style="text-align: center;">345</td><td style="text-align: center;">328</td><td style="text-align: center;">308</td><td style="text-align: center;">250</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2021</td><td style="text-align: center;">446</td><td style="text-align: center;">401</td><td style="text-align: center;">357</td><td style="text-align: center;">373</td><td style="text-align: center;">309</td><td style="text-align: center;">283</td></tr></tbody></table>
+bedarfsstufe 6</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1. Januar 2011</td><td style="text-align: center;">364</td><td style="text-align: center;">328</td><td style="text-align: center;">291</td><td style="text-align: center;">287</td><td style="text-align: center;">251</td><td style="text-align: center;">215</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2012</td><td style="text-align: center;">374</td><td style="text-align: center;">337</td><td style="text-align: center;">299</td><td style="text-align: center;">287</td><td style="text-align: center;">251</td><td style="text-align: center;">219</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2013</td><td style="text-align: center;">382</td><td style="text-align: center;">345</td><td style="text-align: center;">306</td><td style="text-align: center;">289</td><td style="text-align: center;">255</td><td style="text-align: center;">224</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2014</td><td style="text-align: center;">391</td><td style="text-align: center;">353</td><td style="text-align: center;">313</td><td style="text-align: center;">296</td><td style="text-align: center;">261</td><td style="text-align: center;">229</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2015</td><td style="text-align: center;">399</td><td style="text-align: center;">360</td><td style="text-align: center;">320</td><td style="text-align: center;">302</td><td style="text-align: center;">267</td><td style="text-align: center;">234</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2016</td><td style="text-align: center;">404</td><td style="text-align: center;">364</td><td style="text-align: center;">324</td><td style="text-align: center;">306</td><td style="text-align: center;">270</td><td style="text-align: center;">237</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2017</td><td style="text-align: center;">409</td><td style="text-align: center;">368</td><td style="text-align: center;">327</td><td style="text-align: center;">311</td><td style="text-align: center;">291</td><td style="text-align: center;">237</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2018</td><td style="text-align: center;">416</td><td style="text-align: center;">374</td><td style="text-align: center;">332</td><td style="text-align: center;">316</td><td style="text-align: center;">296</td><td style="text-align: center;">240</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2019</td><td style="text-align: center;">424</td><td style="text-align: center;">382</td><td style="text-align: center;">339</td><td style="text-align: center;">322</td><td style="text-align: center;">302</td><td style="text-align: center;">245</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2020</td><td style="text-align: center;">432</td><td style="text-align: center;">389</td><td style="text-align: center;">345</td><td style="text-align: center;">328</td><td style="text-align: center;">308</td><td style="text-align: center;">250</td></tr><tr class="odd"><td style="text-align: center;">1. Januar 2021</td><td style="text-align: center;">446</td><td style="text-align: center;">401</td><td style="text-align: center;">357</td><td style="text-align: center;">373</td><td style="text-align: center;">309</td><td style="text-align: center;">283</td></tr><tr class="even"><td style="text-align: center;">1. Januar 2022</td><td style="text-align: center;">449</td><td style="text-align: center;">404</td><td style="text-align: center;">360</td><td style="text-align: center;">376</td><td style="text-align: center;">311</td><td style="text-align: center;">285</td></tr></tbody></table>
 
   
   
@@ -3835,4 +3849,4 @@ erste Schulhalbjahr</th><th style="text-align: center;">Teilbetrag<br />
 für das im jeweiligen<br />
 Kalenderjahr<br />
 beginnende<br />
-zweite Schulhalbjahr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">2019</td><td style="text-align: center;">100 Euro</td><td style="text-align: center;">–</td></tr><tr class="even"><td style="text-align: center;">2020</td><td style="text-align: center;">100 Euro</td><td style="text-align: center;">50 Euro</td></tr><tr class="odd"><td style="text-align: center;">2021</td><td style="text-align: center;">103 Euro</td><td style="text-align: center;">51,50 Euro</td></tr></tbody></table>
+zweite Schulhalbjahr</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">2019</td><td style="text-align: center;">100 Euro</td><td style="text-align: center;">–</td></tr><tr class="even"><td style="text-align: center;">2020</td><td style="text-align: center;">100 Euro</td><td style="text-align: center;">50 Euro</td></tr><tr class="odd"><td style="text-align: center;">2021</td><td style="text-align: center;">103 Euro</td><td style="text-align: center;">51,50 Euro</td></tr><tr class="even"><td style="text-align: center;">2022</td><td style="text-align: center;">104</td><td style="text-align: center;">52</td></tr></tbody></table>

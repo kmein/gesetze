@@ -33,7 +33,7 @@ Dies gilt nicht für Mahnverfahren, in denen der Mahnbescheid im Ausland oder na
 
 # § 1a – Beschriftung mittels Schreibprogramm
 
-(1) Die in § 174 Abs. 1 der Zivilprozeßordnung bezeichneten Personen und Stellen können den in Anlage 1 bestimmten Vordruck in einem aus Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Vollstreckungsbescheids in einer Ausführung verwenden, in der die Blätter jeweils einzeln mit Hilfe eines Schreibprogramms beschriftet werden. Das Programm muß
+(1) Die in § 173 Absatz 2 der Zivilprozeßordnung bezeichneten Personen und Stellen können den in Anlage 1 bestimmten Vordruck in einem aus Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Vollstreckungsbescheids in einer Ausführung verwenden, in der die Blätter jeweils einzeln mit Hilfe eines Schreibprogramms beschriftet werden. Das Programm muß
 
 1. die Übereinstimmung der von Blatt 1 auf Blatt 2 bis 5 und der von Blatt 3 auf Blatt 4 und 5 zu übertragenden Angaben gewährleisten,
 

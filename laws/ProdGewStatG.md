@@ -77,7 +77,7 @@ II. bei höchstens 68 000 Unternehmen
 
 III. bei höchstens 24 000 Unternehmen
 
-1. die tätigen Personen, jeweils auch nach Geschlecht,
+1. die tätigen Personen,
 
 2. den Umsatz,
 
@@ -192,7 +192,7 @@ Die Erhebungen erfassen jährlich
 
 I. bei höchstens 35 000 Unternehmen des Baugewerbes
 
-1. die tätigen Personen, jeweils auch nach Geschlecht,
+1. die tätigen Personen,
 
 2. die Lohn- und Gehaltssummen,
 
@@ -204,7 +204,7 @@ I. bei höchstens 35 000 Unternehmen des Baugewerbes
 
 II. bei höchstens 12 000 Unternehmen des Baugewerbes
 
-1. die tätigen Personen, jeweils auch nach Geschlecht,
+1. die tätigen Personen,
 
 2. den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die Jahresbauleistung,
 
@@ -270,19 +270,17 @@ h) die Material- und Warenbestände einschließlich fertiger und unfertiger Erze
 
 2. für die Unternehmen
 
-a) die tätigen Personen nach Geschlecht,
+a) den Material- und Wareneingang,
 
-b) den Material- und Wareneingang,
+b) die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
 
-c) die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
+c) die Umsatzsteuer,
 
-d) die Umsatzsteuer,
+d) die Subventionen,
 
-e) die Subventionen,
+e) die Abgabe von Wasser,
 
-f) die Abgabe von Wasser,
-
-g) den Wert der Ein- und Ausfuhr von Wasser;
+f) den Wert der Ein- und Ausfuhr von Wasser;
 
 3. für die fachlichen Unternehmensteile
 
@@ -342,19 +340,17 @@ h) die Material- und Warenbestände einschließlich fertiger und unfertiger Erze
 
 2. für die Unternehmen
 
-a) die tätigen Personen, jeweils auch nach Geschlecht,
+a) den Material- und Wareneingang,
 
-b) den Material- und Wareneingang,
+b) die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
 
-c) die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
+c) die Umsatzsteuer,
 
-d) die Umsatzsteuer,
+d) die Subventionen,
 
-e) die Subventionen,
+e) die Abgabe von Wasser,
 
-f) die Abgabe von Wasser,
-
-g) den Wert der Ein- und Ausfuhr von Wasser;
+f) den Wert der Ein- und Ausfuhr von Wasser;
 
 3. für die fachlichen Unternehmensteile
 

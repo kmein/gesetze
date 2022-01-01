@@ -29,7 +29,7 @@ I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfa
 
 9. des Einkommensteuerrechts einschließlich des Kirchensteuerrechts.
 
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäftsjahr 2021 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäftsjahr 2022 eingehen, aus den Rechtsbereichen
 
 1. des Vertriebenenrechts;
 
@@ -53,7 +53,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die in dem Geschäf
 
 11. des sonstigen Deliktsrechts.
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2021 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche (einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen):
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2022 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche (einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen):
 
 1. allgemeines Persönlichkeitsrecht;
 

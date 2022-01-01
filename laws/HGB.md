@@ -3559,7 +3559,7 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 # § 333 – Verletzung der Geheimhaltungspflicht
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Kapitalgesellschaft, eines Tochterunternehmens (§ 290 Abs. 1, 2), eines gemeinsam geführten Unternehmens (§ 310) oder eines assoziierten Unternehmens (§ 311), namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als Abschlußprüfer oder Gehilfe eines Abschlußprüfers bei Prüfung des Jahresabschlusses, eines Einzelabschlusses nach § 325 Abs. 2a oder des Konzernabschlusses bekannt geworden ist, oder wer ein Geschäfts- oder Betriebsgeheimnis oder eine Erkenntnis über das Unternehmen, das ihm als Beschäftigter bei einer Prüfstelle im Sinne von § 342b Abs. 1 bei der Prüftätigkeit bekannt geworden ist, unbefugt offenbart.
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Kapitalgesellschaft, eines Tochterunternehmens (§ 290 Abs. 1, 2), eines gemeinsam geführten Unternehmens (§ 310) oder eines assoziierten Unternehmens (§ 311), namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als Abschlußprüfer oder Gehilfe eines Abschlußprüfers bei Prüfung des Jahresabschlusses, eines Einzelabschlusses nach § 325 Abs. 2a oder des Konzernabschlusses bekannt geworden ist, unbefugt offenbart.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den Voraussetzungen des Absatzes 1 bekannt geworden ist, unbefugt verwertet.
 
@@ -4645,82 +4645,6 @@ Es darf jedoch nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer 
 (8) Für die Empfehlungen des Rechnungslegungsbeirats gilt § 342 Abs. 2 entsprechend.
 
 (9) Die Bildung eines Rechnungslegungsbeirats nach Absatz 1 unterbleibt, soweit das Bundesministerium der Justiz und für Verbraucherschutz eine Einrichtung nach § 342 Abs. 1 anerkennt.
-
-# § 342b – Prüfstelle für Rechnungslegung
-
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium der Finanzen eine privatrechtlich organisierte Einrichtung zur Prüfung von Verstößen gegen Rechnungslegungsvorschriften durch Vertrag anerkennen (Prüfstelle) und ihr die in den folgenden Absätzen festgelegten Aufgaben übertragen. Es darf nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer Satzung, ihrer personellen Zusammensetzung und der von ihr vorgelegten Verfahrensordnung gewährleistet, dass die Prüfung unabhängig, sachverständig, vertraulich und unter Einhaltung eines festgelegten Verfahrensablaufs erfolgt. Änderungen der Satzung und der Verfahrensordnung sind vom Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium der Finanzen zu genehmigen. Die Prüfstelle kann sich bei der Durchführung ihrer Aufgaben anderer Personen bedienen. Das Bundesministerium der Justiz und für Verbraucherschutz macht die Anerkennung einer Prüfstelle sowie eine Beendigung der Anerkennung im amtlichen Teil des Bundesanzeigers bekannt.
-
-(2) Die Prüfstelle prüft, ob folgende Abschlüsse und Berichte, jeweils einschließlich der zugrundeliegenden Buchführung, eines Unternehmens im Sinne des Satzes 2 den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entsprechen:
-
-1. der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht,
-
-2. der zuletzt offengelegte Jahresabschluss und der zugehörige Lagebericht,
-
-3. der zuletzt offengelegte Einzelabschluss nach § 325 Absatz 2a und der zugehörige Lagebericht,
-
-4. der zuletzt gebilligte Konzernabschluss und der zugehörige Konzernlagebericht,
-
-5. der zuletzt offengelegte Konzernabschluss und der zugehörige Konzernlagebericht,
-
-6. der zuletzt veröffentlichte verkürzte Abschluss und der zugehörige Zwischenlagebericht sowie
-
-7. der zuletzt veröffentlichte Zahlungsbericht oder Konzernzahlungsbericht.
-
-Geprüft werden die Abschlüsse und Berichte von Unternehmen, die als Emittenten von zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes die Bundesrepublik Deutschland als Herkunftsstaat haben; unberücksichtigt bleiben hierbei Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs. Die Prüfstelle prüft,
-
-1. soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen,
-
-2. auf Verlangen der Bundesanstalt für Finanzdienstleistungsaufsicht oder
-
-3. ohne besonderen Anlass (stichprobenartige Prüfung).
-
-Im Fall des Satzes 3 Nr. 1 unterbleibt die Prüfung, wenn offensichtlich kein öffentliches Interesse an der Prüfung besteht; Satz 3 Nr. 3 ist auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und des Konzernzahlungsberichts nicht anzuwenden. Die stichprobenartige Prüfung erfolgt nach den von der Prüfstelle im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen festgelegten Grundsätzen. Das Bundesministerium der Finanzen kann die Ermächtigung zur Erteilung seines Einvernehmens auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht.
-
-(2a) Prüfungsgegenstand nach Absatz 2 können auch die Abschlüsse und Berichte sein, die das Geschäftsjahr zum Gegenstand haben, das dem Geschäftsjahr vorausgeht, auf das Absatz 2 Satz 1 Bezug nimmt. Eine stichprobenartige Prüfung ist hierbei nicht zulässig.
-
-(3) Eine Prüfung des Jahresabschlusses und des zugehörigen Lageberichts durch die Prüfstelle findet nicht statt, solange eine Klage auf Nichtigkeit gemäß § 256 Abs. 7 des Aktiengesetzes anhängig ist. Wenn nach § 142 Abs. 1 oder Abs. 2 oder § 258 Abs. 1 des Aktiengesetzes ein Sonderprüfer bestellt worden ist, findet eine Prüfung ebenfalls nicht statt, soweit der Gegenstand der Sonderprüfung, der Prüfungsbericht oder eine gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer nach § 260 des Aktiengesetzes reichen.
-
-(4) Wenn das Unternehmen bei einer Prüfung durch die Prüfstelle mitwirkt, sind die gesetzlichen Vertreter des Unternehmens und die sonstigen Personen, derer sich die gesetzlichen Vertreter bei der Mitwirkung bedienen, verpflichtet, richtige und vollständige Auskünfte zu erteilen und richtige und vollständige Unterlagen vorzulegen. Die Auskunft und die Vorlage von Unterlagen kann verweigert werden, soweit diese den Verpflichteten oder einen seiner in § 52 Abs. 1 der Strafprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Verpflichtete ist über sein Recht zur Verweigerung zu belehren.
-
-(5) Die Prüfstelle teilt dem Unternehmen das Ergebnis der Prüfung mit. Ergibt die Prüfung, dass die Rechnungslegung fehlerhaft ist, so hat sie ihre Entscheidung zu begründen und dem Unternehmen unter Bestimmung einer angemessenen Frist Gelegenheit zur Äußerung zu geben, ob es mit dem Ergebnis der Prüfstelle einverstanden ist.
-
-(6) Die Prüfstelle berichtet der Bundesanstalt für Finanzdienstleistungsaufsicht über
-
-1. die Absicht, eine Prüfung einzuleiten,
-
-2. die Weigerung des betroffenen Unternehmens, an einer Prüfung mitzuwirken,
-
-3. das Ergebnis der Prüfung und gegebenenfalls darüber, ob sich das Unternehmen mit dem Prüfungsergebnis einverstanden erklärt hat.
-
-Ein Rechtsbehelf dagegen ist nicht statthaft.
-
-(7) Die Prüfstelle und ihre Beschäftigten sind zur gewissenhaften und unparteiischen Prüfung verpflichtet; sie haften für durch die Prüfungstätigkeit verursachte Schäden nur bei Vorsatz.
-
-(8) Die Prüfstelle zeigt Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde an. Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt sie der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
-
-(9) Die Prüfstelle stellt der Europäischen Wertpapier- und Marktaufsichtsbehörde gemäß Artikel 35 der Verordnung (EU) Nr. 1095/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Wertpapier- und Marktaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/77/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 84; L 115 vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert worden ist, auf Verlangen unverzüglich alle für die Erfüllung ihrer Aufgaben erforderlichen Informationen zur Verfügung.
-
-(+++ § 342b Abs. 2 Satz 1: Zur erstmaligen Anwendung vgl. HGBEG Art. 62 +++)
-
-# § 342c – Verschwiegenheitspflicht
-
-(1) Die bei der Prüfstelle Beschäftigten sind verpflichtet, über die Geschäfts- und Betriebsgeheimnisse des Unternehmens und die bei ihrer Prüftätigkeit bekannt gewordenen Erkenntnisse über das Unternehmen Verschwiegenheit zu bewahren. Dies gilt nicht im Fall von gesetzlich begründeten Mitteilungspflichten. Die bei der Prüfstelle Beschäftigten dürfen nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die sie bei ihrer Tätigkeit erfahren haben. Wer vorsätzlich oder fahrlässig diese Pflichten verletzt, ist dem geprüften Unternehmen und, wenn ein verbundenes Unternehmen geschädigt worden ist, auch diesem zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
-
-(2) Die Ersatzpflicht von Personen, die fahrlässig gehandelt haben, beschränkt sich für eine Prüfung und die damit im Zusammenhang stehenden Pflichtverletzungen auf den in § 323 Abs. 2 Satz 2 genannten Betrag. Dies gilt auch, wenn an der Prüfung mehrere Personen beteiligt gewesen oder mehrere zum Ersatz verpflichtende Handlungen begangen worden sind, und ohne Rücksicht darauf, ob andere Beteiligte vorsätzlich gehandelt haben. Sind im Fall des Satzes 1 durch eine zum Schadensersatz verpflichtende Handlung mehrere Unternehmen geschädigt worden, beschränkt sich die Ersatzpflicht insgesamt auf das Zweifache der Höchstgrenze des Satzes 1. Übersteigen in diesem Fall mehrere nach Absatz 1 Satz 4 zu leistende Entschädigungen das Zweifache der Höchstgrenze des Satzes 1, so verringern sich die einzelnen Entschädigungen in dem Verhältnis, in dem ihr Gesamtbetrag zum Zweifachen der Höchstgrenze des Satzes 1 steht.
-
-(3) Die §§ 93 und 97 der Abgabenordnung gelten nicht für die in Absatz 1 Satz 1 bezeichneten Personen, soweit sie zur Durchführung des § 342b tätig werden. Sie finden Anwendung, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, und nicht Tatsachen betroffen sind, die von einer ausländischen Stelle mitgeteilt worden sind, die mit der Prüfung von Rechnungslegungsverstößen betraut ist.
-
-# § 342d – Finanzierung der Prüfstelle
-
-Die Prüfstelle hat über die zur Finanzierung der Erfüllung ihrer Aufgaben erforderlichen Mittel einen Wirtschaftsplan für das Folgejahr im Einvernehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht aufzustellen. Der Wirtschaftsplan ist dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zur Genehmigung vorzulegen. Die Bundesanstalt für Finanzdienstleistungsaufsicht schießt der Prüfstelle die dieser nach dem Wirtschaftsplan voraussichtlich entstehenden Kosten aus der gemäß § 17d Absatz 1 Satz 4 des Finanzdienstleistungsaufsichtsgesetzes eingezogenen Umlagevorauszahlung vor, wobei etwaige Fehlbeträge und nicht eingegangene Beträge nach dem Verhältnis von Wirtschaftsplan zu dem betreffenden Teil des Haushaltsplanes der Bundesanstalt für Finanzdienstleistungsaufsicht anteilig zu berücksichtigen sind. Nach Ende des Haushaltsjahres hat die Prüfstelle ihren Jahresabschluss aufzustellen. Die Entlastung erteilt das zuständige Organ der Prüfstelle mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz und des Bundesministeriums der Finanzen.
-
-# § 342e – Bußgeldvorschriften
-
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 342b Abs. 4 Satz 1 der Prüfstelle eine Auskunft nicht richtig oder nicht vollständig erteilt oder eine Unterlage nicht richtig oder nicht vollständig vorlegt.
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist bei Ordnungswidrigkeiten nach Absatz 1 die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
 # § 343
 

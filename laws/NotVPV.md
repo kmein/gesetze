@@ -37,7 +37,15 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 3. als Amtsverwalter im Sinne des § 22 Absatz 2 des Landesgesetzes über die freiwillige Gerichtsbarkeit vom 12. Februar 1975 (Gesetzblatt für Baden-Württemberg S. 116), das zuletzt durch Artikel 6 des Gesetzes vom 23. Mai 2017 (Gesetzblatt für Baden-Württemberg S. 265, 266) geändert worden ist, in der am 31. Dezember 2017 geltenden Fassung tätig waren.
 
-(3) Die von den Absätzen 1 und 2 erfassten Personen sind nur einmal als Amtspersonen einzutragen.
+(3) In das Notarverzeichnis können zum Zweck der Vorbereitung einer möglichen Bestellung als Notarvertretung zudem eingetragen werden:
+
+1. Notarassessoren,
+
+2. ständige Vertretungen im Sinne des § 39 Absatz 1 Satz 2 und 3 der Bundesnotarordnung,
+
+3. sonstige nach § 39 Absatz 3 Satz 1 der Bundesnotarordnung geeignete Personen, wenn dies von einem Notar und der betroffenen Person bei der Notarkammer beantragt wird.
+
+(4) Die von den Absätzen 1 bis 3 erfassten Personen sind nur einmal als Amtspersonen einzutragen.
 
 # § 2 – Angaben zu den Amtspersonen
 
@@ -63,19 +71,21 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 3. das Ende der amtlichen Tätigkeit,
 
-4. die Anschriften der Geschäftsstellen und
+4. die Anschriften und geographischen Koordinaten der Geschäftsstellen und
 
 5. die Orte und Termine auswärtiger Sprechtage.
 
 (2) Zu jeder Geschäftsstelle sind nach Mitteilung durch die Amtsperson folgende Angaben einzutragen:
 
-1. eine Telefonnummer,
+1. die Öffnungszeiten,
 
-2. eine Telefaxnummer,
+2. eine Telefonnummer,
 
-3. eine E-Mail-Adresse und
+3. eine Telefaxnummer,
 
-4. eine Internetadresse.
+4. eine E-Mail-Adresse und
+
+5. eine Internetadresse.
 
 (3) Darf die Amtsperson die amtliche Tätigkeit im Fall des § 8 Absatz 1 Satz 2 der Bundesnotarordnung nicht persönlich ausüben, ist dies bei der amtlichen Tätigkeit zu vermerken.
 
@@ -87,7 +97,21 @@ Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind, werden nur d
 
 # § 5 – Notarvertretung
 
-Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz 2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
+(1) Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz 2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
+
+(2) Zum Zweck der Vorbereitung einer möglichen Bestellung als Notarvertretung können die Notarkammern zu einer Person nach § 1 Absatz 3 eintragen:
+
+1. den Familiennamen und den oder die Vornamen nach Maßgabe des § 2 Absatz 3,
+
+2. die Angaben nach § 2 Absatz 2 und 4,
+
+3. die Anschrift,
+
+4. eine E-Mail-Adresse und
+
+5. eine Telefonnummer.
+
+Die Angaben nach Satz 1 sind zu löschen, wenn die eingetragene Person dies verlangt oder nicht mehr davon auszugehen ist, dass eine Bestellung der Person als Notarvertretung, Notariatsverwalter oder Notar erfolgen wird.
 
 # § 6 – Eintragungen
 
@@ -119,7 +143,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Eintragungen zu Entscheidungen nach § 8 Absatz 1 Satz 2 der Bundesnotarordnung und zu einer vorläufigen Amtsenthebung sind nach dem Ende der Wirksamkeit der Entscheidung oder der vorläufigen Amtsenthebung nicht mehr einsehbar.
 
-(4) Die Angaben zu einer Notarvertretung sind nur einsehbar, wenn und solange dieser für eine Amtsperson bestellt ist, die rechtlich an der Wahrnehmung ihres Amtes gehindert ist.
+(4) Die Angaben zu einer Notarvertretung sind nur einsehbar, wenn und solange diese für eine Amtsperson bestellt ist, die rechtlich an der Wahrnehmung ihres Amtes gehindert ist. Die Angaben nach § 5 Absatz 2 Satz 1 Nummer 3 bis 5 sind auch im Fall des Satzes 1 nicht einsehbar.
 
 # § 10 – Suchfunktion
 
@@ -135,9 +159,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 4. Kammerbezirk.
 
-(3) Die Suchfunktion kann auffordern, die Suche durch die Eingabe weiterer Kriterien einzuschränken, wenn mehr als 50 Treffer zu erwarten sind.
-
-(4) Die Nutzung der Suchfunktion kann von der Eingabe eines auf der Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
+(3) Die Nutzung der Suchfunktion kann von der Eingabe eines auf der Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
 # § 11 – Einsehbarkeit und Datensicherheit
 
@@ -163,7 +185,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (1) Die Bundesnotarkammer hat die besonderen elektronischen Notarpostfächer auf der Grundlage des Protokollstandards „Online Services Computer Interface – OSCI“ oder eines künftig an dessen Stelle tretenden Standards zu betreiben. Die Bundesnotarkammer hat fortlaufend zu gewährleisten, dass die Postfachinhaber über das Postfach sicher elektronisch kommunizieren können.
 
-(2) Der Zugang zum besonderen elektronischen Notarpostfach soll barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung sein.
+(2) Der Zugang zum besonderen elektronischen Notarpostfach soll barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung sein.
 
 (3) Die Bundesnotarkammer hat zu gewährleisten, dass der Empfänger eines elektronischen Dokuments, das aus dem besonderen elektronischen Notarpostfach ohne qualifizierte elektronische Signatur auf einem sicheren Übermittlungsweg versandt wurde, feststellen kann, ob die Nachricht von dem Postfachinhaber selbst versandt wurde.
 
@@ -210,6 +232,10 @@ Nachrichten dürfen frühestens 120 Tage nach ihrem Eingang automatisch gelösch
 (1) Wird die vorläufige Amtsenthebung einer Amtsperson in das Notarverzeichnis eingetragen, hebt die Bundesnotarkammer unverzüglich die Zugangsberechtigung der Amtsperson zu ihrem besonderen elektronischen Notarpostfach auf. § 18 Absatz 5 gilt sinngemäß.
 
 (2) Weitere Zugangsberechtigungen und Befugnisse im Sinne des § 15 Absatz 1 und 2 bleiben von der Aufhebung der Zugangsberechtigung nach Absatz 1 unberührt. § 15 Absatz 3 gilt im Fall des Absatzes 1 für den Postfachinhaber nicht mehr. Dieser kann jedoch verlangen, dass die Bundesnotarkammer sein besonderes elektronisches Notarpostfach unverzüglich sperrt.
+
+(3) Die Bundesnotarkammer kann auf Antrag des Notariatsverwalters das besondere elektronische Notarpostfach der von der vorläufigen Amtsenthebung betroffenen Amtsperson sperren.
+
+(4) Die Bundesnotarkammer kann der Notarvertretung eine Übersicht über die noch nicht abgerufenen Nachrichten im besonderen elektronischen Notarpostfach der von der vorläufigen Amtsenthebung betroffenen Amtsperson zur Verfügung stellen. Die Übersicht hat sich auf den Absender und den Eingangszeitpunkt der jeweiligen Nachricht zu beschränken.
 
 # § 20 – Löschung des Postfachs
 

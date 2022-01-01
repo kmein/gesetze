@@ -422,7 +422,7 @@ Erteilen Wirtschaftsprüfungsgesellschaften gesetzlich vorgeschriebene Bestätig
 
 2. Gerichte und Behörden Daten über natürliche und juristische Personen, die aus Sicht der übermittelnden Stelle für die Bestellung oder Wiederbestellung, die Anerkennung oder die Rücknahme oder den Widerruf dieser Entscheidung erforderlich sind oder die den Verdacht einer Berufspflichtverletzung begründen können, an die Wirtschaftsprüferkammer,
 
-soweit hierdurch schutzwürdige Interessen des oder der Betroffenen nicht beeinträchtigt werden oder das öffentliche Interesse das Geheimhaltungsinteresse der Beteiligten überwiegt. Die Übermittlung unterbleibt, wenn besondere gesetzliche Verwendungsregelungen entgegenstehen; dies gilt nicht für das Steuergeheimnis nach § 30 der Abgabenordnung, die Verschwiegenheitspflicht nach § 59c, die Verschwiegenheitspflicht der Organmitglieder, Beauftragten und Angestellten der Berufskammer eines anderen freien Berufs im Geltungsbereich dieses Gesetzes und die Verschwiegenheitspflicht der in § 9 Abs. 1 des Kreditwesengesetzes und in § 21 des Wertpapierhandelsgesetzes sowie der in § 342c des Handelsgesetzbuchs benannten Personen und Stellen.
+soweit hierdurch schutzwürdige Interessen des oder der Betroffenen nicht beeinträchtigt werden oder das öffentliche Interesse das Geheimhaltungsinteresse der Beteiligten überwiegt. Die Übermittlung unterbleibt, wenn besondere gesetzliche Verwendungsregelungen entgegenstehen; dies gilt nicht für das Steuergeheimnis nach § 30 der Abgabenordnung, die Verschwiegenheitspflicht nach § 59c, die Verschwiegenheitspflicht der Organmitglieder, Beauftragten und Angestellten der Berufskammer eines anderen freien Berufs im Geltungsbereich dieses Gesetzes und die Verschwiegenheitspflicht der in § 9 Abs. 1 des Kreditwesengesetzes und in § 21 des Wertpapierhandelsgesetzes benannten Personen und Stellen.
 
 (4) Soweit natürliche oder juristische Personen Mitglieder einer Berufskammer eines anderen freien Berufs im Geltungsbereich dieses Gesetzes sind, darf die Wirtschaftsprüferkammer Daten im Sinne des Absatzes 3 und nach Maßgabe dieser Vorschrift auch an andere zuständige Stellen übermitteln, soweit ihre Kenntnis aus der Sicht der übermittelnden Stelle für die Verwirklichung der Rechtsfolge erforderlich ist.
 
@@ -650,11 +650,9 @@ Die für die Durchführung einer gesetzlichen Abschlussprüfung bei einem Untern
 
 9. als Angestellte einer
 
-a) nach § 342 Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz und für Verbraucherschutz durch Vertrag anerkannten Einrichtung,
+a) nach § 342 Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz und für Verbraucherschutz durch Vertrag anerkannten Einrichtung oder
 
-b) nach § 342b Absatz 1 des Handelsgesetzbuchs vom Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium der Finanzen durch Vertrag anerkannten Prüfstelle oder
-
-c) nicht gewerblich tätigen Personenvereinigung,
+b) nicht gewerblich tätigen Personenvereinigung,
 
 aa)  
 deren ordentliche Mitglieder Berufsangehörige, Wirtschaftsprüfungsgesellschaften, vereidigte Buchprüfer oder Buchprüfungsgesellschaften oder Personen oder Personengesellschaften sind, die die Voraussetzungen des § 44b Absatz 2 Satz 1 erfüllen,
@@ -1414,7 +1412,7 @@ Zur Durchführung von Ermittlungen in Aufsichts- und Beschwerdesachen sowie in W
 
 2. soweit sich aus den unter Nummer 1 genannten Inspektionen oder sonstigen Umständen konkrete Anhaltspunkte für Verstöße gegen Berufspflichten bei der Durchführung von gesetzlich vorgeschriebenen Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach § 319a Absatz 1 Satz 1 des Handelsgesetzbuchs ergeben,
 
-3. aufgrund von Mitteilungen der Prüfstelle nach § 342b Absatz 8 Satz 2 des Handelsgesetzbuchs, der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 110 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes oder einer anderen nationalen oder internationalen Stelle.
+3. aufgrund von Mitteilungen, der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 110 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes oder einer anderen nationalen oder internationalen Stelle.
 
 Werden bei den Ermittlungen nach Satz 1 Verletzungen von Berufsrecht festgestellt, kann die Abschlussprüferaufsichtsstelle Auflagen zur Beseitigung der Mängel erteilen oder eine Sonderprüfung anordnen; § 57e Absatz 2, 3 und 5 gilt entsprechend. Die Abschlussprüferaufsichtsstelle entscheidet auch über die Verhängung von berufsaufsichtlichen Maßnahmen, Untersagungsverfügungen sowie vorläufigen Untersagungsverfügungen; die §§ 67 bis 68a, 68b Satz 1, 3 und 4, die §§ 68c sowie 69a bis 71 gelten entsprechend, § 68 Absatz 7 mit der Maßgabe, dass die Geldbußen, die nicht berufsgerichtlich überprüft werden, dem Bundeshaushalt zufließen, § 68c Absatz 3 in Verbindung mit § 62a Absatz 4 Satz 1 mit der Maßgabe, dass die Ordnungsgelder dem Bundeshaushalt zufließen.
 
@@ -1434,9 +1432,9 @@ Werden bei den Ermittlungen nach Satz 1 Verletzungen von Berufsrecht festgestell
 
 # § 66c – Zusammenarbeit mit anderen Stellen und internationale Zusammenarbeit
 
-(1) Die Abschlussprüferaufsichtsstelle kann den folgenden Stellen, soweit es zur Erfüllung der jeweiligen Aufgaben dieser Stellen erforderlich ist, vertrauliche Informationen übermitteln:
+(1) Die Abschlussprüferaufsichtsstelle übermittelt den folgenden Stellen, soweit es zur Erfüllung der jeweiligen Aufgaben dieser Stellen erforderlich ist, vertrauliche Informationen:
 
-1. der Prüfstelle nach § 342b Absatz 1 des Handelsgesetzbuchs,
+1. den Strafverfolgungsbehörden,
 
 2. der Bundesanstalt für Finanzdienstleistungsaufsicht,
 
@@ -1454,7 +1452,7 @@ Werden bei den Ermittlungen nach Satz 1 Verletzungen von Berufsrecht festgestell
 
 8. dem Europäischen Ausschuss für Systemrisiken.
 
-An die in Satz 1 Nummer 1 genannte Stelle übermittelt die Abschlussprüferaufsichtsstelle Informationen nur, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen. Die in Satz 1 Nummer 1 bis 5 genannten Stellen können der Abschlussprüferaufsichtsstelle Informationen übermitteln, soweit dies zur Erfüllung der Aufgaben der Abschlussprüferaufsichtsstelle erforderlich ist.
+Für den Informationsaustausch zwischen der Abschlussprüferaufsichtsstelle und der Bundesanstalt für Finanzdienstleistungsaufsicht gilt § 109a des Wertpapierhandelsgesetzes. Die in Satz 1 Nummer 1 bis 5 genannten Stellen können der Abschlussprüferaufsichtsstelle Informationen übermitteln, soweit dies zur Erfüllung der Aufgaben der Abschlussprüferaufsichtsstelle erforderlich ist.
 
 (2) Unbeschadet der Artikel 31 bis 33 der Verordnung (EU) Nr. 537/2014 hat die Abschlussprüferaufsichtsstelle in Bezug auf die in § 66a genannten Aufgaben mit den entsprechend zuständigen Stellen der Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des Europäischen Wirtschaftsraums sowie den europäischen Aufsichtsbehörden zusammenzuarbeiten, soweit dies für die Wahrnehmung der jeweiligen Aufgaben der zuständigen Stellen im Einzelfall erforderlich ist. In diesem Rahmen leisten die Stellen sich insbesondere Amtshilfe, tauschen Informationen aus und arbeiten bei Untersuchungen zusammen. § 57 Absatz 6 Satz 2 bis 4 gilt entsprechend.
 

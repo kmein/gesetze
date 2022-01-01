@@ -77,6 +77,8 @@ Dies gilt auch, wenn eine Ausbildung in einem anderen Herkunftsstaat durchgefüh
 
 2. das Gewerbe, für das eine Ausnahmebewilligung beantragt wird, im Inland wesentliche Tätigkeiten umfasst, die im Herkunftsstaat der Antragstellerin oder des Antragstellers nicht Bestandteil des entsprechenden Berufes sind und, wenn dieser Unterschied in einer besonderen Ausbildung besteht, die im Inland erforderlich ist und sich auf Fächer oder Handlungsfelder bezieht, die sich wesentlich von denen unterscheiden, die durch den vorgelegten Befähigungs- oder Ausbildungsnachweis abgedeckt werden.
 
+Die Antragstellerin oder der Antragsteller kann zwischen der Teilnahme an einem Anpassungslehrgang oder dem Ablegen einer Eignungsprüfung als Ausgleichsmaßnahme wählen.
+
 (2) Ausgleichsmaßnahmen werden nicht angeordnet
 
 1. in den Fällen der §§ 2 und 4,
@@ -103,7 +105,7 @@ Dies gilt auch, wenn eine Ausbildung in einem anderen Herkunftsstaat durchgefüh
 
 (2) Werden in dem anderen Herkunftsstaat die Unterlagen nach Absatz 1 nicht ausgestellt, können sie durch eine Versicherung an Eides statt oder in Herkunftsstaaten, in denen es eine solche nicht gibt, durch eine feierliche Erklärung ersetzt werden, die die Antragstellerin oder der Antragsteller vor einer zuständigen Behörde oder öffentlichen Einrichtung oder einer Notarin oder einem Notar des anderen Herkunftsstaates abgegeben hat und die durch diese Stelle bescheinigt wurde. Die Unterlagen dürfen bei ihrer Vorlage nicht älter als drei Monate sein.
 
-(3) Die Antragstellerin oder der Antragsteller kann aufgefordert werden, Informationen zu ihrer oder seiner Ausbildung vorzulegen, soweit dies erforderlich ist, um festzustellen, ob die Voraussetzungen nach § 5 Absatz 1 Nummer 1 oder 2 vorliegen. Ferner kann sich die zuständige Behörde an die Kontaktstelle oder die zuständige Behörde oder öffentliche Einrichtung des anderen Herkunftsstaates wenden, um erforderliche Informationen über die Ausbildung der Antragstellerin oder des Antragstellers zu erlangen.
+(3) Die Antragstellerin oder der Antragsteller kann aufgefordert werden, Informationen zu ihrer oder seiner Ausbildung vorzulegen, soweit dies erforderlich ist, um festzustellen, ob die Voraussetzungen nach § 5 Absatz 1 Satz 1 Nummer 1 oder 2 vorliegen. Ferner kann sich die zuständige Behörde an die Kontaktstelle oder die zuständige Behörde oder öffentliche Einrichtung des anderen Herkunftsstaates wenden, um erforderliche Informationen über die Ausbildung der Antragstellerin oder des Antragstellers zu erlangen.
 
 (4) Die zuständige Behörde bestätigt der Antragstellerin oder dem Antragsteller binnen eines Monats den Empfang der Unterlagen und teilt dabei mit, ob Unterlagen fehlen. Spätestens drei Monate nach Einreichung der vollständigen Unterlagen muss zu einem Antrag nach den §§ 2 bis 4 eine Entscheidung ergangen sein. Diese Frist kann um einen Monat verlängert werden, wenn dies im Einzelfall, insbesondere aufgrund des Umfangs oder der tatsächlichen oder rechtlichen Schwierigkeiten des Falles, gerechtfertigt ist. Die Fristverlängerung ist durch die zuständige Behörde zu begründen und der Antragstellerin oder dem Antragsteller vor Ablauf der Frist nach Satz 2 mitzuteilen.
 

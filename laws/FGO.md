@@ -393,7 +393,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
 
@@ -403,13 +403,19 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 2. der Übermittlungsweg zwischen dem besonderen elektronischen Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Gerichts,
 
-3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts; das Nähere regelt die Verordnung nach Absatz 2 Satz 2,
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts,
 
-4. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Gerichts,
+
+5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Gerichts,
+
+6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen. Die Vorschriften dieses Gesetzes über die Beifügung von Abschriften für die übrigen Beteiligten finden keine Anwendung.
 
-(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
 (7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches Dokument, in welches das handschriftlich unterzeichnete Schriftstück gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
@@ -440,6 +446,10 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 52a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
+
+# § 52d – Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. Gleiches gilt für die nach diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer Übermittlungsweg nach § 52a Absatz 4 Satz 1 Nummer 2 zur Verfügung steht. Ist eine Übermittlung aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 # § 53
 

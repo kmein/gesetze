@@ -732,7 +732,7 @@ Vorbemerkung 6:
 
  
 
-Gebühren nach diesem Abschnitt werden erhoben, wenn eine Amtshandlung, mit deren Erledigung der Gerichtsvollzieher beauftragt worden ist, aus Rechtsgründen oder infolge von Umständen, die weder in der Person des Gerichtsvollziehers liegen noch von seiner Entschließung abhängig sind, nicht erledigt wird. Dies gilt insbesondere auch, wenn nach dem Inhalt des Protokolls pfändbare Gegenstände nicht vorhanden sind oder die Pfändung nach § 803 Abs. 2, §§ 812, 851b Abs. 4 Satz 3 ZPO zu unterbleiben hat. Eine Gebühr wird nicht erhoben, wenn der Auftrag an einen anderen Gerichtsvollzieher abgegeben wird oder hätte abgegeben werden können.
+Gebühren nach diesem Abschnitt werden erhoben, wenn eine Amtshandlung, mit deren Erledigung der Gerichtsvollzieher beauftragt worden ist, aus Rechtsgründen oder infolge von Umständen, die weder in der Person des Gerichtsvollziehers liegen noch von seiner Entschließung abhängig sind, nicht erledigt wird. Dies gilt insbesondere auch, wenn nach dem Inhalt des Protokolls pfändbare Gegenstände nicht vorhanden sind oder die Pfändung nach § 803 Abs. 2, § 811 Absatz 4 und § 851b Absatz 4 Satz 3 ZPO zu unterbleiben hat. Eine Gebühr wird nicht erhoben, wenn der Auftrag an einen anderen Gerichtsvollzieher abgegeben wird oder hätte abgegeben werden können.
 
  
 

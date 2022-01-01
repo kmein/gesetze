@@ -970,7 +970,7 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (3) Bei der Ausgliederung wichtiger Funktionen und Versicherungstätigkeiten haben Versicherungsunternehmen außerdem sicherzustellen, dass wesentliche Beeinträchtigungen der Qualität der Geschäftsorganisation, eine übermäßige Steigerung des operationellen Risikos sowie eine Gefährdung der kontinuierlichen und zufriedenstellenden Dienstleistung für die Versicherungsnehmer vermieden werden.
 
-(4) Das ausgliedernde Versicherungsunternehmen hat sich die erforderlichen Auskunfts- und Weisungsrechte vertraglich zu sichern und die ausgegliederten Funktionen und Versicherungstätigkeiten in sein Risikomanagement einzubeziehen. Ein Weisungsrecht ist dann nicht erforderlich, wenn im Rahmen einer steuerlichen Organschaft Funktionen auf eine Muttergesellschaft ausgegliedert werden und diese sich für die Wahrnehmung der Funktionen oder Versicherungstätigkeiten vertraglich den gleichen aufsichtsrechtlichen Anforderungen unterwirft, die für das ausgliedernde Unternehmen gelten.
+(4) Das ausgliedernde Versicherungsunternehmen hat sich die erforderlichen Auskunfts- und Weisungsrechte vertraglich zu sichern und die ausgegliederten Funktionen und Versicherungstätigkeiten in sein Risikomanagement einzubeziehen. Ein Weisungsrecht ist dann nicht erforderlich, wenn im Rahmen einer steuerlichen Organschaft Funktionen auf eine Muttergesellschaft ausgegliedert werden und diese sich für die Wahrnehmung der Funktionen oder Versicherungstätigkeiten vertraglich den gleichen aufsichtsrechtlichen Anforderungen unterwirft, die für das ausgliedernde Unternehmen gelten. Werden wichtige Funktionen oder Versicherungstätigkeiten auf ein Unternehmen mit Sitz in einem Drittstaat ausgegliedert, ist vertraglich sicherzustellen, dass dieses Unternehmen einen inländischen Zustellungsbevollmächtigten benennt, an den Bekanntgaben und Zustellungen durch die Aufsichtsbehörde bewirkt werden können.
 
 # § 33 – Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften
 
@@ -1034,9 +1034,19 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 # § 36 – Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
 
-(1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Versicherungsunternehmen gewählten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann, wenn sie gegen den Abschlussprüfer des Jahresabschlusses Bedenken hat, verlangen, dass innerhalb einer angemessenen Frist ein anderer Abschlussprüfer bestimmt wird. Unterbleibt das oder hat die Aufsichtsbehörde auch gegen den neuen Abschlussprüfer Bedenken, so hat sie den Abschlussprüfer selbst zu bestimmen. In diesem Fall gilt § 318 Absatz 1 Satz 4 des Handelsgesetzbuchs mit der Maßgabe, dass die gesetzlichen Vertreter den Prüfungsauftrag unverzüglich dem von der Aufsichtsbehörde bestimmten Prüfer zu erteilen haben.
+(1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Versicherungsunternehmen gewählten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks geboten, wenn der Vorstand eines Versicherungsunternehmens, das kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 3 des Handelsgesetzbuchs ist, der Aufsichtsbehörde für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Prüfer angezeigt hat.
 
-(2) Absatz 1 gilt nicht für Versicherungsunternehmen, die auf Grund des § 330 Absatz 1, 3 und 4 des Handelsgesetzbuchs und der auf Grund dieser Ermächtigung erlassenen Rechtsverordnung von der Verpflichtung befreit sind, den Jahresabschluss prüfen zu lassen.
+(1a) Das Gericht des Sitzes des Versicherungsunternehmens hat auf Antrag der Aufsichtsbehörde einen Prüfer zu bestellen, wenn
+
+1. die Anzeige nach Absatz 1 Satz 1 nicht unverzüglich nach Ablauf des Geschäftsjahres erstattet wird;
+
+2. das Versicherungsunternehmen dem Verlangen auf Bestellung eines anderen Prüfers nach Absatz 1 Satz 2 nicht unverzüglich nachkommt;
+
+3. der gewählte Prüfer die Annahme des Prüfungsauftrages abgelehnt hat, weggefallen ist oder am rechtzeitigen Abschluss der Prüfung verhindert ist und das Versicherungsunternehmen nicht unverzüglich einen anderen Prüfer bestellt hat.
+
+Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgesetzbuchs ist entsprechend anzuwenden. Das Gericht kann auf Antrag der Aufsichtsbehörde einen nach Satz 1 bestellten Prüfer abberufen.
+
+(2) Die Absätze 1 und 1a gelten nicht für Versicherungsunternehmen, die auf Grund des § 330 Absatz 1, 3 und 4 des Handelsgesetzbuchs und der auf Grund dieser Ermächtigung erlassenen Rechtsverordnung von der Verpflichtung befreit sind, den Jahresabschluss prüfen zu lassen.
 
 (+++ § 36 Abs. 2: Zur Anwendung vgl. § 234 Abs. 2 Satz 1 u. § 237 Abs. 1 Satz 2 +++)
 
@@ -2410,6 +2420,8 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (6) Mit Genehmigung der Aufsichtsbehörde können selbständige Abteilungen des Sicherungsvermögens gebildet werden. Was für das Sicherungsvermögen und die Ansprüche daran vorgeschrieben ist, gilt dann entsprechend für jede selbständige Abteilung.
 
+(7) Für ein Paneuropäisches Privates Pensionsprodukt gemäß der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) ist für Verträge in der Ansparphase eine selbständige Abteilung des Sicherungsvermögens zu bilden, soweit das Anlagerisiko vom Versicherungsunternehmen getragen wird. Soweit das Anlagerisiko für Verträge in der Ansparphase nicht vom Versicherungsunternehmen getragen wird, ist Absatz 5 mit der Maßgabe anzuwenden, dass für ein Paneuropäisches Privates Pensionsprodukt gesonderte Anlagestöcke zu bilden sind.
+
 (+++ § 125 Abs. 5 u. 6: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
 # § 126 – Vermögensverzeichnis
@@ -3777,6 +3789,14 @@ Die Bundesanstalt genehmigt den Antrag, wenn die Voraussetzungen des Satzes 2 Nu
 (5) Abweichend von § 210 Absatz 1 Satz 1 ist § 184 auch dann anzuwenden, wenn die Pensionskasse ein kleinerer Verein ist. Dabei hat die Satzung zu bestimmen, dass der Vorstand vom Aufsichtsrat oder vom obersten Organ zu bestellen ist.
 
 (6) Auf Versicherungsverhältnisse, die vor dem 1. Januar 2006 in Kraft getreten sind, ist § 336 entsprechend anzuwenden, soweit ihnen ein von der Aufsichtsbehörde genehmigter Geschäftsplan zugrunde liegt. § 142 gilt in diesen Fällen nicht.
+
+(7) Enthält die Satzung der Pensionskasse eine Vorschrift, nach der Versicherungsansprüche gekürzt werden dürfen, kann die Satzung nach Maßgabe dieses Absatzes auch mit Wirkung für bestehende Versicherungsverhältnisse geändert werden. Es kann eine Regelung aufgenommen werden, die das in den Sätzen 3 bis 6 beschriebene Verfahren vorsieht für den Fall, dass
+
+1. die Deckungsrückstellung erhöht wird, weil die Rechnungsgrundlagen auf Grund einer unvorhersehbaren und nicht nur vorübergehenden Änderung der Verhältnisse angepasst werden müssen, und
+
+2. die Versicherungsansprüche aus der Durchführung betrieblicher Altersversorgung, für die weiterhin ein Arbeitgeber nach § 1 Absatz 1 Satz 3 des Betriebsrentengesetzes einsteht, einen Anteil von mindestens 75 Prozent an der zu erhöhenden Deckungsrückstellung ausmachen und wenigstens zwei Drittel dieses Anteils auf Versicherungsansprüche entfallen, für die Arbeitgeber oder Dritte erklärt haben, der Pensionskasse die erforderlichen finanziellen Mittel zur Verfügung zu stellen, damit sie die Erhöhung der Deckungsrückstellung zumindest für diese Versicherungsansprüche vollständig finanzieren kann.
+
+Für jeden Versicherungsanspruch wird der Teilanspruch bestimmt, für den die Erhöhung der Deckungsrückstellung nicht aus Erträgen des Geschäftsjahres oder Mitteln nach Satz 2 Nummer 2 finanziert ist. Versicherungsansprüche, für die kein Arbeitgeber einsteht, werden um den jeweiligen Teilanspruch nach Satz 3 gekürzt, höchstens aber um den Betrag, der sich ergäbe, wenn keine Mittel nach Satz 2 Nummer 2 zugesagt wären und die in Satz 1 genannte Vorschrift angewendet würde. Die übrigen Versicherungsansprüche werden um den jeweiligen Teilanspruch nach Satz 3 gekürzt, soweit die Eigenmittel dadurch auf bis zu 110 Prozent der Solvabilitätskapitalanforderung steigen. Die Kürzung der Versicherungsansprüche bedarf der Zustimmung von drei Vierteln der abgegebenen Stimmen der obersten Vertretung der Pensionskasse und der Zustimmung der Aufsichtsbehörde.
 
 # § 234a – Ergänzende allgemeine Vorschriften
 
@@ -5160,9 +5180,11 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 
 4. zuständige Behörde im Sinne des Artikels 29 Absatz 4 und 5 der Verordnung (EU) 2017/2402 für die in den Geltungsbereich der Verordnung (EU) 2017/2402 einbezogenen Unternehmen,
 
-5. zuständige Behörde im Sinne des Artikels 14 der Verordnung (EU) 2019/2088 und
+5. zuständige Behörde im Sinne des Artikels 14 der Verordnung (EU) 2019/2088,
 
-6. zuständige Behörde im Sinne des Artikels 21 Absatz 1 der Verordnung (EU) 2020/852.
+6. zuständige Behörde im Sinne des Artikels 21 Absatz 1 der Verordnung (EU) 2020/852,
+
+7. zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 für die in den Geltungsbereich der Verordnung (EU) 2019/1238 einbezogenen Unternehmen.
 
 (2) Die Aufsichtsbehörde ist zuständige Stelle nach Artikel 5 Absatz 1 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34; L 47 vom 20.2.2015, S. 34; L 246 vom 23.9.2015, S. 11) für die von ihr beaufsichtigten Unternehmen.
 
@@ -5250,13 +5272,13 @@ oder
 
 # § 303 – Abberufung von Personen mit Schlüsselaufgaben, Verwarnung
 
-(1) Die Aufsichtsbehörde kann eine Person, die ein Versicherungsunternehmen tatsächlich leitet oder für andere Schlüsselaufgaben in einem Versicherungsunternehmen verantwortlich ist, verwarnen, wenn das Versicherungsunternehmen oder die Person als Geschäftsleiter gegen Bestimmungen dieses Gesetzes, des Versicherungsvertragsgesetzes, des Geldwäschegesetzes, der Verordnung (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel 29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis 26, 26b bis 26e oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, gegen die zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen, die zur Durchführung der Verordnung (EU) Nr. 648/2012, des Artikels 4 Absatz 1 bis 5 der Verordnungen (EU) 2015/2365, (EU) 2016/1011, (EU) 2017/2402 oder der Richtlinie 2009/138/EG erlassenen Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstößt. Gegenstand der Verwarnung ist die Feststellung des entscheidungsrelevanten Sachverhalts und des hierdurch begründeten Verstoßes.
+(1) Die Aufsichtsbehörde kann eine Person, die ein Versicherungsunternehmen tatsächlich leitet oder für andere Schlüsselaufgaben in einem Versicherungsunternehmen verantwortlich ist, verwarnen, wenn das Versicherungsunternehmen oder die Person als Geschäftsleiter gegen Bestimmungen dieses Gesetzes, des Versicherungsvertragsgesetzes, des Geldwäschegesetzes, der Verordnung (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel 29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis 26, 26b bis 26e oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, gegen die in § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes in Bezug genommenen Vorschriften, gegen die zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen, die zur Durchführung der Verordnungen (EU) Nr. 648/2012, (EU) 2015/2365, (EU) 2016/1011, (EU) 2017/2402, (EU) 2019/1238 oder der Richtlinie 2009/138/EG erlassenen Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstößt. Gegenstand der Verwarnung ist die Feststellung des entscheidungsrelevanten Sachverhalts und des hierdurch begründeten Verstoßes.
 
 (2) Die Aufsichtsbehörde kann die Abberufung einer Person, die ein Versicherungsunternehmen tatsächlich leitet oder für andere Schlüsselaufgaben in einem Versicherungsunternehmen verantwortlich ist, verlangen und dieser Person die Ausübung ihrer Tätigkeit untersagen, wenn
 
 1. Tatsachen vorliegen, aus denen sich ergibt, dass die Person die Voraussetzungen des § 24 nicht erfüllt,
 
-2. die Person als Geschäftsleiter gegen die Bestimmungen dieses Gesetzes, mit Ausnahme der Vorschriften des Teils 2 Kapitel 1 Abschnitt 6, des Versicherungsvertragsgesetzes, der Verordnung (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel 29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis 26, 26b bis 26e oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, gegen die zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen, die zur Durchführung der Verordnung (EU) Nr. 648/2012, des Artikels 4 Absatz 1 bis 5 der Verordnungen (EU) 2015/2365, (EU) 2016/1011, (EU) 2017/2402 oder der Richtlinie 2009/138/EG erlassenen Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstoßen hat und sie trotz Verwarnung durch die Aufsichtsbehörde dieses Verhalten vorsätzlich oder leichtfertig fortsetzt,
+2. die Person als Geschäftsleiter gegen die Bestimmungen dieses Gesetzes, mit Ausnahme der Vorschriften des Teils 2 Kapitel 1 Abschnitt 6, des Versicherungsvertragsgesetzes, der Verordnung (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel 29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis 26, 26b bis 26e oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, gegen die in § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes in Bezug genommenen Vorschriften, gegen die zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen, die zur Durchführung der Verordnungen (EU) Nr. 648/2012, (EU) 2015/2365, (EU) 2016/1011, (EU) 2017/2402, (EU) 2019/1238 oder der Richtlinie 2009/138/EG erlassenen Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstoßen hat und sie trotz Verwarnung durch die Aufsichtsbehörde dieses Verhalten vorsätzlich oder leichtfertig fortsetzt,
 
 3. der Person als Aufsichtsratsmitglied wesentliche Verstöße des Unternehmens gegen die Grundsätze einer ordnungsgemäßen Geschäftsführung wegen sorgfaltswidriger Ausübung ihrer Überwachungs- und Kontrollfunktion verborgen geblieben sind oder sie nicht alles Erforderliche zur Beseitigung festgestellter Verstöße veranlasst hat und sie dieses Verhalten trotz Verwarnung durch die Aufsichtsbehörde fortsetzt oder
 
@@ -5270,7 +5292,7 @@ oder
 
 # § 303a – Tätigkeitsverbot für natürliche Personen
 
-In den Fällen des § 304 Absatz 3 Nummer 3 oder des § 308 c Absatz 1 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter ist, vorübergehend für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei Versicherungsunternehmen und Pensionsfonds untersagen.
+In den Fällen des § 304 Absatz 3 Nummer 3 oder des § 308 c Absatz 1 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter ist, vorübergehend für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei Versicherungsunternehmen und Pensionsfonds untersagen. Satz 1 ist entsprechend anzuwenden, wenn die dort genannten Personen gegen die in § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes in Bezug genommenen Vorschriften verstoßen haben.
 
 # § 304 – Widerruf der Erlaubnis
 
@@ -5558,7 +5580,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden.
 
-(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
 
 (+++ § 310: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
@@ -6127,6 +6149,8 @@ d) Artikel 9 Absatz 1, 2 oder 3, jeweils in Verbindung mit Artikel 5 der Verordn
 e) Artikel 6 Unterabsatz 2 oder Artikel 7 der Verordnung (EU) 2020/852
 
 eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Vertragsschluss offenlegt.
+
+(4l) Zuwiderhandlungen gegen die Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 120a des Wertpapierhandelsgesetzes geahndet werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3, des Absatzes 3 Nummer 3, 3a, 3b und 3c, der Absätze 4a und 4b sowie 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
 

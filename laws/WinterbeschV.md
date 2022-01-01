@@ -31,7 +31,7 @@ Die Mittel für die ergänzenden Leistungen sowie die Verwaltungskosten und sons
 
 1. des Baugewerbes (§ 1 Abs. 2 der Baubetriebe-Verordnung) 2 Prozent,
 
-2. des Gerüstbauerhandwerks (§ 1 Abs. 3 Nr. 1 der Baubetriebe-Verordnung) 1 Prozent,
+2. des Gerüstbauerhandwerks (§ 1 Abs. 3 Nr. 1 der Baubetriebe-Verordnung) 1,9 Prozent,
 
 3. des Dachdeckerhandwerks (§ 1 Abs. 3 Nr. 2 der Baubetriebe-Verordnung) 2 Prozent,
 

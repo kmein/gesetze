@@ -19,7 +19,7 @@ Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerh
 
 1. das Bundesamt für Justiz im Falle eines Verdachtes eines Verstoßes gegen
 
-a) die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25 und 26 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften,
+a) die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26 und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften,
 
 b) sonstige Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und die zu ihrer Umsetzung oder Durchführung erlassenen Rechtsvorschriften, soweit die Rechtsakte in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung nach § 12 Absatz 1 übertragen worden ist,
 

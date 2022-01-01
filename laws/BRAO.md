@@ -215,7 +215,7 @@ Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein rechtskräftiges U
 
 (1) Ist der Rechtsanwalt von der Pflicht befreit, eine Kanzlei zu unterhalten, so hat er der Rechtsanwaltskammer einen Zustellungsbevollmächtigten zu benennen, der im Inland wohnt oder dort einen Geschäftsraum hat. Der Rechtsanwalt hat dem Zustellungsbevollmächtigten einen Zugang zu seinem besonderen elektronischen Anwaltspostfach einzuräumen. Der Zustellungsbevollmächtigte muss zumindest befugt sein, Posteingänge zur Kenntnis zu nehmen und elektronische Empfangsbekenntnisse abzugeben.
 
-(2) An den Zustellungsbevollmächtigten kann, auch von Anwalt zu Anwalt, wie an den Rechtsanwalt selbst zugestellt werden (§§ 174 und 195 der Zivilprozessordnung).
+(2) An den Zustellungsbevollmächtigten kann, auch von Anwalt zu Anwalt, wie an den Rechtsanwalt selbst zugestellt werden (§ 173 Absatz 1 und 2, §§ 175, 195 der Zivilprozessordnung).
 
 (3) Ist ein Zustellungsbevollmächtigter entgegen Absatz 1 nicht benannt, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung). Das Gleiche gilt, wenn eine Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 

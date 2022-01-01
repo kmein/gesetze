@@ -101,7 +101,7 @@ Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach
 
 # § 3e – Kostenerstattungen
 
-(1) Für die Kosten, die der Finanzagentur oder der Anstalt für Maßnahmen in Ausübung ihrer gesetzlichen Ermächtigung nach den §§ 6 bis 8a oder nach § 19 Absatz 2 bis 4 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes entstehen, können die Finanzagentur und die Anstalt von den jeweiligen Adressaten eine Erstattung an den Bund, auch in Form von Kostenpauschalen, nach Maßgabe der Rechtsverordnung nach § 3f verlangen. Dies gilt insbesondere gegenüber
+(1) Für die Kosten, die der Finanzagentur oder der Anstalt in Ausübung der Aufgaben nach diesem Gesetz oder für Maßnahmen in Ausübung ihrer gesetzlichen Ermächtigung nach § 19 Absatz 2 bis 4 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes entstehen, können die Finanzagentur und die Anstalt von den jeweiligen Adressaten eine Erstattung an den Bund, auch in Form von Kostenpauschalen, nach Maßgabe der Rechtsverordnung nach § 3f verlangen. Dies gilt insbesondere gegenüber
 
 1. Unternehmen des Finanzsektors, welche Stabilisierungsmaßnahmen nach den §§ 6 bis 8a beantragen oder beantragt haben, auch in Bezug auf Kosten im Zusammenhang mit der Beendigung, Umstrukturierung, Refinanzierung, Übertragung, Veräußerung oder Änderung bezüglich einer zum Zwecke der Rekapitalisierung erworbenen Beteiligung des Fonds nach § 19 Absatz 2 bis 4 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes,
 
@@ -593,9 +593,9 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen
 
-1. zur Kostenerstattung und zu Kostenerstattungsverfahren sowie zu den Zahlungspflichtigen nach § 3e und nach Absatz 1 Satz 2;
+1. zur Kostenerstattung und zu Kostenerstattungsverfahren sowie zu den Zahlungspflichtigen nach § 3e und nach Absatz 1;
 
-2. mit sonstigen Regelungen, die zur Deckung der Kosten entsprechend der Maßgabe der §§ 3d und 3e sowie des Absatzes 1 Satz 2 erforderlich sind, die bei der Erfüllung der Aufgaben im Rahmen der Wirtschaftsstabilisierung anfallen.
+2. mit sonstigen Regelungen, die zur Deckung der Kosten entsprechend der Maßgabe der §§ 3d und 3e sowie des Absatzes 1 erforderlich sind, die bei der Erfüllung der Aufgaben im Rahmen der Wirtschaftsstabilisierung anfallen.
 
 (3) In der nach Absatz 2 erlassenen Rechtsverordnung kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit zu diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
 
@@ -627,7 +627,7 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 # § 21 – Gewährleistungsermächtigung; Verordnungsermächtigung
 
-(1) Der Wirtschaftsstabilisierungsfonds wird ermächtigt, für den Wirtschaftsstabilisierungsfonds Garantien bis zur Höhe von 400 Milliarden Euro für vom 28. März 2020 bis zum 31. Dezember 2021 begebene Schuldtitel und begründete Verbindlichkeiten von Unternehmen zu übernehmen, um Liquiditätsengpässe zu beheben und die Refinanzierung am Kapitalmarkt zu unterstützen; die Laufzeit der Garantien und der abzusichernden Verbindlichkeiten darf 60 Monate nicht übersteigen. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind. Für die Übernahme von Garantien ist eine angemessene Gegenleistung zu erheben.
+(1) Der Wirtschaftsstabilisierungsfonds wird ermächtigt, für den Wirtschaftsstabilisierungsfonds Garantien bis zur Höhe von 100 Milliarden Euro für vom 28. März 2020 bis zum 30. Juni 2022 begebene Schuldtitel und begründete Verbindlichkeiten von Unternehmen zu übernehmen, um Liquiditätsengpässe zu beheben und die Refinanzierung am Kapitalmarkt zu unterstützen; die Laufzeit der Garantien und der abzusichernden Verbindlichkeiten darf 60 Monate nicht übersteigen. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind. Für die Übernahme von Garantien ist eine angemessene Gegenleistung zu erheben.
 
 (2) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
@@ -669,7 +669,7 @@ Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Dar
 
 # § 24 – Kreditermächtigung
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Deckung von Inanspruchnahmen nach § 21 und von Aufwendungen und von Maßnahmen nach § 22 dieses Gesetzes Kredite bis zur Höhe von 100 Milliarden Euro aufzunehmen. Das Ministerium wird darüber hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds zum Zwecke der Darlehensgewährung nach § 23 Kredite in Höhe von bis zu 100 Milliarden Euro aufzunehmen.
+(1) Das Bundesministerium der Finanzen wird ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Deckung von Inanspruchnahmen nach § 21 und von Aufwendungen und von Maßnahmen nach § 22 dieses Gesetzes Kredite bis zur Höhe von 50 Milliarden Euro aufzunehmen. Das Ministerium wird darüber hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds zum Zwecke der Darlehensgewährung nach § 23 Kredite in Höhe von bis zu 100 Milliarden Euro aufzunehmen.
 
 (2) § 9 Absatz 2 und 3 gilt entsprechend.
 
@@ -711,9 +711,9 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 # § 26 – Befristung; Verordnungsermächtigung
 
-(1) Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds sind bis zum 31. Dezember 2021 möglich. Wenn der Wirtschaftsstabilisierungsfonds seine Aufgaben erfüllt hat, ist er abzuwickeln und aufzulösen. Für den Wirtschaftsstabilisierungsfonds ist ein Schlussergebnis zu ermitteln.
+(1) Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds sind bis zum 30. Juni 2022 möglich. Anträge nach § 20 Absatz 1 Satz 1 können bis zum 30. April 2022 gestellt werden. Wenn der Wirtschaftsstabilisierungsfonds seine Aufgaben erfüllt hat, ist er abzuwickeln und aufzulösen. Für den Wirtschaftsstabilisierungsfonds ist ein Schlussergebnis zu ermitteln.
 
-(2) Der Wirtschaftsstabilisierungsfonds kann sich auch nach dem 31. Dezember 2021 an Unternehmen nach § 16 Absatz 2 beteiligen, an denen er auf Grund von Maßnahmen nach § 22 bereits beteiligt ist, soweit dies erforderlich ist, um den Anteil seiner Kapitalbeteiligung an dem Unternehmen aufrechtzuerhalten oder gewährte Stabilisierungsmaßnahmen abzusichern.
+(2) Der Wirtschaftsstabilisierungsfonds kann sich auch nach dem 30. Juni 2022 an Unternehmen nach § 16 Absatz 2 beteiligen, an denen er auf Grund von Maßnahmen nach § 22 bereits beteiligt ist, soweit dies erforderlich ist, um den Anteil seiner Kapitalbeteiligung an dem Unternehmen aufrechtzuerhalten oder gewährte Stabilisierungsmaßnahmen abzusichern.
 
 (3) Die Einzelheiten der Abwicklung und Auflösung des Wirtschaftsstabilisierungsfonds bestimmt die Bundesregierung jeweils durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die der Zustimmung des Deutschen Bundestages bedarf.
 

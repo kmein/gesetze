@@ -129,7 +129,7 @@ Werden die Beiträge vom Arbeitgeber im Wege des Lastschriftverfahrens eingezoge
 
 Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein betriebliches Ordnungsmerkmal zu verbinden. Die Angaben nach Satz 1 Nr. 10 bis 15 und 18 sind für jeden Entgeltabrechnungszeitraum erforderlich. Die Beträge nach Satz 1 Nr. 11 und 12 sind für die Meldungen zu summieren. Berichtigungen zu den Angaben nach Satz 1 Nr. 10 bis 15 und 18 oder Stornierungen sind besonders kenntlich zu machen. Die Angaben nach Satz 1 Nr. 8, 9 und 14 können verschlüsselt werden.
 
-(2) Folgende Unterlagen sind zu den Entgeltunterlagen zu nehmen:
+(2) Folgende dem Arbeitgeber elektronisch zur Verfügung zu stellende Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu nehmen;
 
 1. Unterlagen, aus denen die nach Absatz 1 Satz 1 Nr. 3, 9 und 17 erforderlichen Angaben ersichtlich sind,
 
@@ -150,6 +150,8 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 6. die Niederschrift nach § 2 des Nachweisgesetzes sowie für Seefahrtbetriebe der Heuervertrag nach § 28 des Seearbeitsgesetzes,
 
 7. die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere kurzfristige Beschäftigungen im Kalenderjahr oder die Erklärung des geringfügig entlohnten Beschäftigten über weitere Beschäftigungen sowie in beiden Fällen die Bestätigung, dass die Aufnahme weiterer Beschäftigungen dem Arbeitgeber anzuzeigen sind,
+
+7a. der Nachweis eines Krankenversicherungsschutzes nach § 28a Absatz 9a des Vierten Buches Sozialgesetzbuch,
 
 8. eine Kopie des Antrags nach § 7a Abs. 1 des Vierten Buches Sozialgesetzbuch mit den von der Deutschen Rentenversicherung Bund für ihre Entscheidung benötigten Unterlagen sowie deren Bescheid nach § 7a Abs. 2 des Vierten Buches Sozialgesetzbuch,
 
@@ -177,17 +179,21 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 19. die schriftliche Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.
 
+In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
+
+(3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
+
 # § 9 – Beitragsabrechnung
 
-(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt zu erfassen und lesbar zur Verfügung zu stellen:
+(1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller Beschäftigten in der Sortierfolge der Entgeltunterlagen mit den folgenden Angaben und nach Einzugsstellen getrennt elektronisch zu erfassen und lesbar zur Verfügung zu stellen; für die Beitragsgrundlage der Unfallversicherung erfolgt diese Erfassung nach Mitgliedsnummern:
 
 1. dem Familien- und Vornamen und gegebenenfalls dem betrieblichen Ordnungsmerkmal,
 
 2. dem beitragspflichtigen Arbeitsentgelt bis zur Beitragsbemessungsgrenze der Rentenversicherung,
 
-2a. das in der gesetzlichen Unfallversicherung beitragspflichtige Arbeitsentgelt,
+2a. dem in der gesetzlichen Unfallversicherung beitragspflichtigen Arbeitsentgelt mit Arbeitsstunden in der angewendeten Gefahrtarifstelle bis zum gültigen Höchstjahresarbeitsverdienst des zuständigen Unfallversicherungsträgers,
 
-3. dem Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des Altersteilzeitgesetzes,
+3. dem Betrag nach § 3 Absatz 1 Nummer 1 Buchstabe b des Altersteilzeitgesetzes,
 
 4. dem Beitragsgruppenschlüssel,
 
@@ -195,15 +201,17 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 6. dem Gesamtsozialversicherungsbeitrag, nach Arbeitgeber- und Arbeitnehmeranteilen je Beitragsgruppe getrennt,
 
-7. dem gezahlten Kurzarbeitergeld und die hierauf entfallenden beitragspflichtigen Einnahmen,
+6a. der Summe der in der gesetzlichen Unfallversicherung beitragspflichtigen Arbeitsentgelte mit Arbeitsstunden je Gefahrtarifstelle und Anzahl der Versicherten getrennt,
+
+7. dem gezahlten Kurzarbeitergeld und den hierauf entfallenden beitragspflichtigen Einnahmen,
 
 8. den beitragspflichtigen Sonn-, Feiertags- und Nachtzuschlägen,
 
-9. den Umlagesätzen nach dem Aufwendungsausgleichsgesetz und das umlagepflichtige Arbeitsentgelt,
+9. den Umlagesätzen nach dem Aufwendungsausgleichsgesetz und dem umlagepflichtigen Arbeitsentgelt,
 
 10. den Parametern zur Berechnung der voraussichtlichen Höhe der Beitragsschuld.
 
-Die Beträge nach Satz 1 Nr. 7 sind zu summieren und die hierauf entfallenden Beiträge zur Kranken-, Pflege- und Rentenversicherung anzugeben; die Beträge nach Satz 1 Nr. 6 sind nach Beitragsgruppen zu summieren; aus den Einzelsummen ist die Gesamtsumme aller Beiträge zu bilden. Berichtigungen oder Stornierungen sind besonders zu kennzeichnen.
+Die Beträge nach Satz 1 Nummer 7 sind zu summieren und die hierauf entfallenden Beiträge zur Kranken-, Pflege- und Rentenversicherung anzugeben; die Beträge nach Satz 1 Nummer 6 sind nach Beitragsgruppen zu summieren; die Beträge nach Satz 1 Nummer 6a sind nach Gefahrtarifstellen zu summieren; aus den Einzelsummen ist die Gesamtsumme aller Beiträge zu bilden. Berichtigungen oder Stornierungen sind besonders zu kennzeichnen.
 
 (2) Im Beitragsnachweis nach Absatz 1 sind Beschäftigte mit den Angaben nach Absatz 1 Satz 1 Nr. 1 und dem erzielten Arbeitsentgelt nach § 14 des Vierten Buches Sozialgesetzbuch gesondert zu erfassen, für die Beiträge nicht oder nach den Vorschriften des Übergangsbereichs (§ 20 Abs. 2 des Vierten Buches Sozialgesetzbuch) gezahlt werden. Sind Beitragsnachweise für mehrere Einzugsstellen zu erstellen, hat die Erfassung nach Satz 1 gesondert zu erfolgen.
 
@@ -211,7 +219,7 @@ Die Beträge nach Satz 1 Nr. 7 sind zu summieren und die hierauf entfallenden Be
 
 (4) Im Beitragsnachweis sind die als gezahlt geltenden Beiträge nach § 28e Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch nicht aufzunehmen.
 
-(5) Entgeltunterlagen können auf maschinell verwertbaren Datenträgern geführt werden. § 8 gilt entsprechend. Werden Entgeltunterlagen auf Datenträgern geführt, sind die Daten in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend. Überführt der Arbeitgeber schriftliche Entgeltunterlagen mit Unterschriftserfordernis in elektronische Form, hat er diese mit einer fortgeschrittenen Signatur des Arbeitgebers zu versehen. Das ihm im Meldeverfahren nach dem Vierten Buch Sozialgesetzbuch ausgestellte Zertifikat kann dafür verwendet werden. Nach vollständiger Übernahme in elektronischer Form können die schriftlichen Entgeltunterlagen vernichtet werden.
+(5) Die Daten der Entgeltunterlagen nach § 8 und der Absätze 1 bis 4 sind in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend. Überführt der Arbeitgeber schriftliche Entgeltunterlagen mit Unterschriftserfordernis in elektronische Form, hat er diese mit einer fortgeschrittenen Signatur des Arbeitgebers zu versehen. Das ihm im Meldeverfahren nach dem Vierten Buch Sozialgesetzbuch ausgestellte Zertifikat kann dafür verwendet werden. Nach vollständiger Übernahme in elektronischer Form können die schriftlichen Entgeltunterlagen vernichtet werden.
 
 # § 9a – Gemeinsame Grundsätze
 

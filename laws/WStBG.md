@@ -93,7 +93,7 @@ Ein Beschluss der Hauptversammlung nach den §§ 7, 7a und 7b ist unverzüglich 
 
 # § 7d – Ausschluss der aktienrechtlichen Vorschriften über verbundene Unternehmen
 
-Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind auf den Fonds, den Bund und die von ihnen errichteten Körperschaften, Anstalten und Sondervermögen sowie die ihnen nahestehenden Personen oder sonstige von ihnen mittelbar oder unmittelbar abhängigen Unternehmen nicht anzuwenden. Bei Beteiligungen an Unternehmen der Realwirtschaft im Sinne von § 1 Nummer 5 gilt dies nur bis zum Ablauf des 31. Dezember 2021. Die Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat eines vom Fonds beherrschten Unternehmens bleiben von dieser Bestimmung unberührt.
+Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind auf den Fonds, den Bund und die von ihnen errichteten Körperschaften, Anstalten und Sondervermögen sowie die ihnen nahestehenden Personen oder sonstige von ihnen mittelbar oder unmittelbar abhängigen Unternehmen nicht anzuwenden. Bei Beteiligungen an Unternehmen der Realwirtschaft im Sinne von § 1 Nummer 5 gilt dies nur bis zum Ablauf des 30. Juni 2022. Die Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat eines vom Fonds beherrschten Unternehmens bleiben von dieser Bestimmung unberührt.
 
 # § 7e – Kapitalmaßnahmen durch Dritte im Zusammenhang mit einer Stabilisierungsmaßnahme
 
@@ -119,7 +119,7 @@ Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere die A
 
 # § 8 – Genussrechte und nachrangige Schuldverschreibungen
 
-(1) Der Vorstand eines als Aktiengesellschaft verfassten Unternehmens ist bis zum 31. Dezember 2021 ermächtigt, Genussrechte und Schuldverschreibungen mit einem qualifizierten Nachrang an den Fonds auszugeben. Der Vorstand kann von der Ermächtigung nur mit Zustimmung des Aufsichtsrates Gebrauch machen.
+(1) Der Vorstand eines als Aktiengesellschaft verfassten Unternehmens ist bis zum 30. Juni 2022 ermächtigt, Genussrechte und Schuldverschreibungen mit einem qualifizierten Nachrang an den Fonds auszugeben. Der Vorstand kann von der Ermächtigung nur mit Zustimmung des Aufsichtsrates Gebrauch machen.
 
 (2) Die Ausgabe der Genussrechte und Schuldverschreibungen bedarf nicht der Zustimmung der Hauptversammlung, es sei denn, die Genussrechte oder Schuldverschreibungen sehen das Recht zur Wandlung in Aktien vor.
 

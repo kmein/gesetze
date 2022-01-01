@@ -2129,7 +2129,7 @@ Die Zuständigkeit der Notare, anderer Urkundspersonen oder sonstiger Stellen f�
 
 # § 60 – Vollstreckbare Urkunden
 
-Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer 3 oder 4 zum Gegenstand haben und die von einem Beamten oder Angestellten des Jugendamts innerhalb der Grenzen seiner Amtsbefugnisse in der vorgeschriebenen Form aufgenommen worden sind, findet die Zwangsvollstreckung statt, wenn die Erklärung die Zahlung einer bestimmten Geldsumme betrifft und der Schuldner sich in der Urkunde der sofortigen Zwangsvollstreckung unterworfen hat. Die Zustellung kann auch dadurch vollzogen werden, dass der Beamte oder Angestellte dem Schuldner eine beglaubigte Abschrift der Urkunde aushändigt; § 173 Satz 2 und 3 der Zivilprozessordnung gilt entsprechend. Auf die Zwangsvollstreckung sind die Vorschriften, die für die Zwangsvollstreckung aus gerichtlichen Urkunden nach § 794 Absatz 1 Nummer 5 der Zivilprozessordnung gelten, mit folgenden Maßgaben entsprechend anzuwenden:
+Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer 3 oder 4 zum Gegenstand haben und die von einem Beamten oder Angestellten des Jugendamts innerhalb der Grenzen seiner Amtsbefugnisse in der vorgeschriebenen Form aufgenommen worden sind, findet die Zwangsvollstreckung statt, wenn die Erklärung die Zahlung einer bestimmten Geldsumme betrifft und der Schuldner sich in der Urkunde der sofortigen Zwangsvollstreckung unterworfen hat. Die Zustellung kann auch dadurch vollzogen werden, dass der Beamte oder Angestellte dem Schuldner eine beglaubigte Abschrift der Urkunde aushändigt; § 174 Satz 2 und 3 der Zivilprozessordnung gilt entsprechend. Auf die Zwangsvollstreckung sind die Vorschriften, die für die Zwangsvollstreckung aus gerichtlichen Urkunden nach § 794 Absatz 1 Nummer 5 der Zivilprozessordnung gelten, mit folgenden Maßgaben entsprechend anzuwenden:
 
 1. Die vollstreckbare Ausfertigung sowie die Bestätigungen nach § 1079 der Zivilprozessordnung werden von den Beamten oder Angestellten des Jugendamts erteilt, denen die Beurkundung der Verpflichtungserklärung übertragen ist. Das Gleiche gilt für die Bezifferung einer Verpflichtungserklärung nach § 790 der Zivilprozessordnung.
 
@@ -3237,21 +3237,31 @@ i) Monat und Jahr der Aufnahme in Kindertagespflege.
 
 5. Partnerländer und Veranstaltungen im In- oder Ausland bei Veranstaltungen und Projekten der internationalen Jugendarbeit.
 
-(9) Erhebungsmerkmale bei den Erhebungen über die Einrichtungen, soweit sie nicht in Absatz 7 erfasst werden, sowie die Behörden und Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sind
+(9) Erhebungsmerkmale bei den Erhebungen über die Träger der Jugendhilfe, die dort tätigen Personen und deren Einrichtungen, soweit diese nicht in Absatz 7 erfasst werden, sind
 
-1. die Einrichtungen, gegliedert nach der Art der Einrichtung, der Art und Name des Trägers, der Rechtsform sowie der Art und Zahl der verfügbaren Plätze,
+1. die Träger gegliedert nach
 
-2. die Behörden der öffentlichen Jugendhilfe sowie die Geschäftsstellen der Träger der freien Jugendhilfe, gegliedert nach der Art des Trägers und der Rechtsform,
+a) Art und Rechtsform des Trägers sowie bei Trägern der freien Jugendhilfe deren Verbandszugehörigkeit,
 
-3. für jede haupt- und nebenberuflich tätige Person
+b) den Betätigungsfeldern nach Aufgabenbereichen,
 
-a) (weggefallen)
+c) deren Personalausstattung sowie
 
-b) (weggefallen)
+d) Anzahl der Einrichtungen,
 
-c) Geschlecht und Beschäftigungsumfang,
+2. die Einrichtungen des Trägers mit Betriebserlaubnis nach § 45 und Betreuungsformen nach diesem Gesetz, soweit diese nicht in Absatz 7 erfasst werden, gegliedert nach
 
-d) für das pädagogische und in der Verwaltung tätige Personal zusätzlich Geburtsmonat und Geburtsjahr, Art des Berufsausbildungsabschlusses, Stellung im Beruf, Art der Beschäftigung und Arbeitsbereich.
+a) Postleitzahl des Standorts,
+
+b) für jede vorhandene Gruppe und jede sonstige Betreuungsform nach diesem Gesetz, die von der Betriebserlaubnis umfasst ist, Angaben über die Art der Unterbringung oder Betreuung, deren Rechtsgrundlagen, Anzahl der genehmigten und belegten Plätze, Anzahl der Sollstellen des Personals und Hauptstelle der Einrichtung,
+
+3. für jede im Bereich der Jugendhilfe pädagogisch und in der Verwaltung tätige Person des Trägers
+
+a) Geschlecht, Geburtsmonat und Geburtsjahr,
+
+b) Art des höchsten Berufsausbildungsabschlusses, Stellung im Beruf, Art der Beschäftigung, Beschäftigungsumfang und Arbeitsbereiche,
+
+c) Bundesland des überwiegenden Einsatzortes.
 
 (10) Erhebungsmerkmale bei der Erhebung der Ausgaben und Einnahmen der öffentlichen Jugendhilfe sind
 
@@ -3323,7 +3333,7 @@ zu erteilen.
 
 7. Adoptionsvermittlungsstellen nach § 2 Absatz 3 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 1 des Adoptionsvermittlungsgesetzes sowie anerkannte Auslandsvermittlungsstellen nach § 4 Absatz 2 Satz 3 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 2a Absatz 4 Nummer 2 des Adoptionsvermittlungsgesetzes gemäß § 99 Absatz 3 Nummer 1 sowie gemäß § 99 Absatz 3 Nummer 2a für die Zahl der ausgesprochenen Annahmen und gemäß § 99 Absatz 3 Nummer 2b für die Zahl der vorgemerkten Adoptionsbewerber,
 
-8. die Leiter der Einrichtungen, Behörden und Geschäftsstellen in der Jugendhilfe für die Erhebungen nach § 99 Absatz 7 und 9.
+8. die Leiter der Einrichtungen, Behörden und Geschäftsstellen in der Jugendhilfe für die Erhebungen nach § 99 Absatz 7.
 
 (3) Zur Durchführung der Erhebungen nach § 99 Absatz 1, 3, 7, 8 und 9 übermitteln die Träger der öffentlichen Jugendhilfe den statistischen Ämtern der Länder auf Anforderung die erforderlichen Anschriften der übrigen Auskunftspflichtigen.
 

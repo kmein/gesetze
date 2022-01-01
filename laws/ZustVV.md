@@ -11,7 +11,7 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 1. der in Anlage 1 bestimmte Vordruck für die Zustellung von Schriftstücken mit Zustellungsurkunde nach § 182 Abs. 1 und 2 der Zivilprozessordnung (Zustellungsurkunde),
 
-2. der in Anlage 2 bestimmte Vordruck für den Briefumschlag nach § 176 Abs. 1 der Zivilprozessordnung (innerer Umschlag),
+2. der in Anlage 2 bestimmte Vordruck für den Briefumschlag nach § 176 Absatz 2 der Zivilprozessordnung (innerer Umschlag),
 
 3. der in Anlage 3 bestimmte Vordruck für den Postzustellungsauftrag nach § 168 Abs. 1 der Zivilprozessordnung (äußerer Umschlag/Auftrag),
 

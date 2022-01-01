@@ -15,7 +15,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Rechtsanwaltskammer beim Bundesgerichtshof.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 2: Zur Anwendung vgl. § 11 +++)
 
 # § 3 – Bundesrechtsanwaltskammer
 
@@ -27,7 +27,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 2. für sonstige Beschlüsse ist die Mehrheit der stimmberechtigten Mitglieder erforderlich, die bis zum Ablauf der für die Stimmabgabe gesetzten Frist ihre Stimme abgegeben haben.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 3: Zur Anwendung vgl. § 11 +++)
 
 # § 4 – Patentanwaltskammer
 
@@ -37,7 +37,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (3) Die Kammerversammlung kann auch ohne Versammlung der Mitglieder Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen. Die §§ 79 und 80 der Patentanwaltsordnung gelten entsprechend mit der Maßgabe, dass die Einberufung der Kammerversammlung durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt wird. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Mit der Aufforderung sind den Mitgliedern die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden. § 81 Absatz 3 Satz 1 und 2 der Patentanwaltsordnung gilt mit der Maßgabe, dass die einfache Mehrheit der bis zum Ablauf der Frist für die Stimmabgabe abgegebenen Stimmen erforderlich ist.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 4: Zur Anwendung vgl. § 11 +++)
 
 # § 5 – Notarkammern
 
@@ -45,8 +45,8 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (2) Die Kammerversammlung kann auf Beschluss des Vorstands auch ohne Versammlung der Mitglieder Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen. § 71 Absatz 1 bis 3 der Bundesnotarordnung gilt entsprechend mit der Maßgabe, dass die Einberufung der Kammerversammlung durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt wird. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Mit der Aufforderung sind den Mitgliedern die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden. Bei der Berechnung einer für die Beschlussfassung oder die Wahl gemäß Satz 1 erforderlichen Mehrheit kommt es auf die bis zum Ablauf der Frist für die Stimmabgabe abgegebenen Stimmen an.
 
-(+++ § 5 Abs. 2: Zur Geltung vgl. § 7 Abs. 2 +++)  
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 5: Zur Anwendung vgl. § 11 +++)  
+(+++ § 5 Abs. 2: Zur Geltung vgl. § 7 Abs. 2 +++)
 
 # § 6 – Bundesnotarkammer
 
@@ -54,7 +54,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (2) Die Vertreterversammlung der Bundesnotarkammer kann auch ohne Versammlung der Mitglieder Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen, wenn die Mehrheit der Mitglieder der Vertreterversammlung damit einverstanden ist. § 85 der Bundesnotarordnung gilt entsprechend mit der Maßgabe, dass die Einberufung der Vertreterversammlung durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt wird. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Mit der Aufforderung sind den Mitgliedern die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden. § 86 Absatz 3 Satz 1 der Bundesnotarordnung gilt mit der Maßgabe, dass die einfache Mehrheit der bis zum Ablauf der Frist für die Stimmabgabe abgegebenen Stimmen erforderlich ist.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 6: Zur Anwendung vgl. § 11 +++)
 
 # § 7 – Kassen
 
@@ -62,13 +62,13 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (2) Für die Wahl des Präsidenten der Notarkasse und die Wahl der Mitglieder des Verwaltungsrats der Kassen gilt § 5 Absatz 2 entsprechend.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 7: Zur Anwendung vgl. § 11 +++)
 
 # § 8 – Wirtschaftsprüferkammer
 
 Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtschaftsprüferkammer können Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen, wenn die Mehrheit ihrer Mitglieder damit einverstanden ist. Die Einberufung einer Sitzung wird durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Den Mitgliedern sind mit der Aufforderung die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 8: Zur Anwendung vgl. § 11 +++)
 
 # § 9 – Steuerberaterkammern
 
@@ -78,7 +78,7 @@ Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtsch
 
 (3) Die Kammerversammlung kann auch ohne Versammlung der Mitglieder Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen. Die Einberufung der Kammerversammlung wird durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Mit der Aufforderung sind den Mitgliedern die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 9: Zur Anwendung vgl. § 11 +++)
 
 # § 10 – Bundessteuerberaterkammer
 
@@ -92,7 +92,7 @@ Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtsch
 
 2. für sonstige Beschlüsse ist die Mehrheit der stimmberechtigten Mitglieder erforderlich, die bis zum Ablauf der für die Stimmabgabe gesetzten Frist ihre Stimme abgegeben haben.
 
-(+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
+(+++ § 10: Zur Anwendung vgl. § 11 +++)
 
 # § 11 – Geltungszeitraum
 

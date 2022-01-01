@@ -2008,11 +2008,19 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist eine Übermittlung nur zulässig,
 
 (2) Zur Durchführung eines Vollstreckungsverfahrens dürfen die Träger der gesetzlichen Rentenversicherung im Einzelfall auf Ersuchen des Gerichtsvollziehers die derzeitige Anschrift der betroffenen Person, ihren derzeitigen oder zukünftigen Aufenthaltsort sowie Namen, Vornamen oder Firma und Anschriften ihrer derzeitigen Arbeitgeber übermitteln, soweit kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, und das Ersuchen nicht länger als sechs Monate zurückliegt. Die Träger der gesetzlichen Rentenversicherung sind über § 4 Absatz 3 hinaus zur Übermittlung auch dann nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Die Übermittlung ist nur zulässig, wenn
 
-1. der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nach § 802c der Zivilprozessordnung nicht nachkommt,
+1. die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Schuldner nicht zustellbar ist und
 
-2. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung des Gläubigers voraussichtlich nicht zu erwarten wäre oder
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
 
-3. die Anschrift oder der derzeitige oder zukünftige Aufenthaltsort des Schuldners trotz Anfrage bei der Meldebehörde nicht bekannt ist.
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor Erteilung des Vollstreckungsauftrags die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist,
+
+2. der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem dem Ersuchen zugrundeliegenden Vollstreckungsverfahren nicht nachkommt,
+
+3. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung des Gläubigers voraussichtlich nicht zu erwarten ist oder
+
+4. die Anschrift oder der derzeitige oder zukünftige Aufenthaltsort des Schuldners trotz Anfrage bei der Meldebehörde nicht bekannt ist.
 
 Der Gerichtsvollzieher hat in seinem Ersuchen zu bestätigen, dass diese Voraussetzungen vorliegen. Das Ersuchen und die Auskunft sind elektronisch zu übermitteln.
 

@@ -457,6 +457,8 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (13) Die Bundesanstalt ist zuständige Behörde im Sinne von Artikel 14 Absatz 1 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sowie der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), soweit die Rechte und Pflichten aus dieser Verordnung für Verwaltungsgesellschaften und Investmentvermögen im Sinne dieses Gesetzes gelten. Die Bundesanstalt ist befugt, Maßnahmen zu treffen, die geeignet und erforderlich sind, um zu überwachen, ob die Verordnung (EU) 2019/2088 und die Verordnung (EU) 2020/852 sowie die auf ihrer Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards der Europäischen Kommission eingehalten werden.
 
+(14) Für Kapitalverwaltungsgesellschaften ist die Bundesanstalt zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1), in der jeweils geltenden Fassung. Die Bundesanstalt ist befugt, alle Maßnahmen zu treffen, die geeignet und erforderlich sind, um zu überwachen, ob die Verordnung (EU) 2019/1238 und die auf ihrer Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards eingehalten werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme nach Artikel 63 der Verordnung (EU) 2019/1238 vorliegen.
+
 (+++ § 5: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
 # § 6 – Besondere Aufgaben
@@ -1269,7 +1271,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 8. eine ordnungsgemäße Verwaltung und Buchhaltung und
 
-9. einen Prozess, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, potenzielle oder tatsächliche Verstöße gegen dieses Gesetz, gegen auf Grund dieses Gesetzes erlassene Rechtsverordnungen oder gegen unmittelbar geltende Vorschriften in Rechtsakten der Europäischen Union über Europäische Risikokapitalfonds, Europäische Fonds für soziales Unternehmertum, europäische langfristige Investmentfonds oder Geldmarktfonds, Marktmissbrauch oder über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte sowie etwaige strafbare Handlungen innerhalb der Kapitalverwaltungsgesellschaft an geeignete Stellen zu melden.
+9. einen Prozess, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, potenzielle oder tatsächliche Verstöße gegen dieses Gesetz, gegen auf Grund dieses Gesetzes erlassene Rechtsverordnungen oder gegen unmittelbar geltende Vorschriften in Rechtsakten der Europäischen Union über Europäische Risikokapitalfonds, über Europäische Fonds für soziales Unternehmertum, über europäische langfristige Investmentfonds, über Geldmarktfonds, über ein Paneuropäisches Privates Pensionsprodukt, über Ratingagenturen, über Marktmissbrauch, über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung, über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung, über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor, über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen oder über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte sowie etwaige strafbare Handlungen innerhalb der Kapitalverwaltungsgesellschaft an geeignete Stellen zu melden.
 
 Die §§ 77, 78 und 80 Absatz 2 und 3 des Wertpapierhandelsgesetzes gelten entsprechend. Die §§ 24c, 25h und 25j bis 25m des Kreditwesengesetzes sowie § 93 Absatz 7 und 8 in Verbindung mit § 93b der Abgabenordnung gelten entsprechend.
 
@@ -1500,13 +1502,13 @@ b) in der Lage ist, die übernommenen Aufgaben ordnungsgemäß wahrzunehmen und
 
 c) sorgfältig ausgewählt wurde;
 
-7. die Kapitalverwaltungsgesellschaft muss in der Lage sein, die ausgelagerten Aufgaben jederzeit wirksam zu überwachen; sie hat sich insbesondere die erforderlichen Weisungsbefugnisse und die Kündigungsrechte vertraglich zu sichern und
+7. die Kapitalverwaltungsgesellschaft muss in der Lage sein, die ausgelagerten Aufgaben jederzeit wirksam zu überwachen; sie hat sich insbesondere die erforderlichen Weisungsbefugnisse und die Kündigungsrechte vertraglich zu sichern; darüber hinaus hat sie bei einer Auslagerung auf ein Unternehmen in einem Drittstaat vertraglich sicherzustellen, dass das Auslagerungsunternehmen einen inländischen Zustellungsbevollmächtigten zu benennen hat, an den Bekanntgaben und Zustellungen durch die Bundesanstalt bewirkt werden können, und
 
 8. die Kapitalverwaltungsgesellschaft überprüft fortwährend die vom Auslagerungsunternehmen erbrachten Dienstleistungen.
 
 Die Genehmigung der Auslagerung nach Satz 1 Nummer 3 durch die Bundesanstalt ist innerhalb einer Frist von vier Wochen nach Eingang des Genehmigungsantrags zu erteilen, wenn die Voraussetzungen für die Genehmigung erfüllt sind. Sind die Voraussetzungen für die Genehmigung nicht erfüllt, hat die Bundesanstalt dies dem Antragsteller innerhalb der Frist nach Satz 2 unter Angabe der Gründe mitzuteilen und fehlende oder geänderte Angaben oder Unterlagen anzufordern. Mit dem Eingang der angeforderten Angaben oder Unterlagen beginnt der Lauf der in Satz 2 genannten Frist erneut.
 
-(2) Die Kapitalverwaltungsgesellschaft hat der Bundesanstalt eine Auslagerung anzuzeigen, bevor die Auslagerungsvereinbarung in Kraft tritt.
+(2) Die Kapitalverwaltungsgesellschaft hat der Bundesanstalt eine Auslagerung anzuzeigen, bevor die Auslagerungsvereinbarung in Kraft tritt. Sie hat der Bundesanstalt darüber hinaus wesentliche Änderungen einer Auslagerung anzuzeigen.
 
 (3) Die Portfolioverwaltung oder das Risikomanagement darf nicht ausgelagert werden auf
 
@@ -1624,7 +1626,7 @@ Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentak
 
 4. die externe Kapitalverwaltungsgesellschaft auch über die Erlaubnis zur Finanzportfolioverwaltung nach § 20 Absatz 2 Nummer 1 oder Absatz 3 Nummer 2 verfügt und die Anforderungen gemäß § 5 Absatz 2 Satz 2 oder 3 dieses Gesetzes in Verbindung mit § 17 Absatz 1 Nummer 2 oder 3 des Wertpapierinstitutsgesetzes nicht mehr erfüllt,
 
-5. gegen die Kapitalverwaltungsgesellschaft auf Grund einer Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 1, 4 oder 5 oder Absatz 2 Nummer 1 Buchstabe a, d, e oder f, Nummer 3 bis 7, 9, 10, 13, 35, 76, 77 oder 81 oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 2 oder 3 oder Absatz 2 Nummer 24, 31, 32, 37, 38, 40, 41, 49, 50 bis 63, 65, 72, 73, 78 oder 79 oder auf Grund einer Ordnungswidrigkeit oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 120 Absatz 10 des Wertpapierhandelsgesetzes eine Geldbuße festgesetzt werden kann,
+5. gegen die Kapitalverwaltungsgesellschaft auf Grund einer Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 1, 4 oder 5 oder Absatz 2 Nummer 1 Buchstabe a, d, e oder f, Nummer 3 bis 7, 9, 10, 13, 35, 76, 77 oder 81 oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 340 Absatz 1 Nummer 2 oder 3 oder Absatz 2 Nummer 24, 31, 32, 37, 38, 40, 41, 49, 50 bis 63, 65, 72, 73, 78 oder 79 oder auf Grund einer Ordnungswidrigkeit oder auf Grund einer wiederholten Ordnungswidrigkeit nach § 120 Absatz 10 und § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes eine Geldbuße festgesetzt werden kann,
 
 6. die Kapitalverwaltungsgesellschaft nachhaltig gegen die Bestimmungen dieses Gesetzes verstößt,
 
@@ -7965,6 +7967,10 @@ Für AIF-Kapitalverwaltungsgesellschaften, die europäische langfristige Investm
 # § 338b – Geldmarktfonds
 
 Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über Geldmarktfonds (ABl. L 169 vom 30.6.2017, S. 8) sind, sowie Kapitalverwaltungsgesellschaften, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 verwalten, gelten neben den Vorschriften der Verordnung (EU) 2017/1131 die Vorschriften dieses Gesetzes, soweit die Verordnung (EU) 2017/1131 nichts anderes vorsieht.
+
+# § 338c – Anzuwendende Vorschriften
+
+Für Kapitalverwaltungsgesellschaften, die PEPPs im Sinne der Verordnung (EU) 2019/1238 anbieten oder vertreiben, gelten neben den Vorschriften der Verordnung (EU) 2019/1238 die Vorschriften dieses Gesetzes, soweit die Verordnung (EU) 2019/1238 nichts anderes vorsieht.
 
 # § 339 – Strafvorschriften
 

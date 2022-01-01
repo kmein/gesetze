@@ -739,7 +739,7 @@ Inhalt der Schriftsätze
 
 § 130a
 
-Elektronisches Dokument
+Elektronisches Dokument; Verordnungsermächtigung
 
 § 130b
 
@@ -748,6 +748,10 @@ Gerichtliches elektronisches Dokument
 § 130c
 
 Formulare; Verordnungsermächtigung
+
+§ 130d
+
+Nutzungspflicht für Rechtsanwälte und Behörden
 
 § 131
 
@@ -943,19 +947,19 @@ Zustellung an Prozessbevollmächtigte
 
 § 173
 
-Zustellung durch Aushändigung an der Amtsstelle
+Zustellung von elektronischen Dokumenten
 
 § 174
 
-Zustellung gegen Empfangsbekenntnis oder automatisierte Eingangsbestätigung
+Zustellung durch Aushändigung an der Amtsstelle
 
 § 175
 
-Zustellung durch Einschreiben mit Rückschein
+Zustellung von Schriftstücken gegen Empfangsbekenntnis
 
 § 176
 
-Zustellungsauftrag
+Zustellung durch Einschreiben mit Rückschein; Zustellungsauftrag
 
 § 177
 
@@ -1033,7 +1037,11 @@ Zustellung durch Gerichtsvollzieher
 
 § 193
 
-Ausführung der Zustellung
+Zustellung von Schriftstücken
+
+§ 193a
+
+Zustellung von elektronischen Dokumenten
 
 § 194
 
@@ -2907,8 +2915,6 @@ Rechtsmittel
 
  
 
- 
-
 Buch 7
 
 Mahnverfahren
@@ -3241,6 +3247,10 @@ Zwangsvollstreckung bei Leistung Zug um Zug
 
 Übergabe des Titels und Quittung
 
+§ 757a
+
+Auskunfts- und Unterstützungsersuchen
+
 § 758
 
 Durchsuchung; Gewaltanwendung
@@ -3505,7 +3515,7 @@ Vermögensauskunft des Schuldners
 
 § 802d
 
-Erneute Vermögensauskunft
+Weitere Vermögensauskunft
 
 § 802e
 
@@ -3611,7 +3621,7 @@ Pfändung ungetrennter Früchte
 
 § 811
 
-Unpfändbare Sachen
+Unpfändbare Sachen und Tiere
 
 § 811a
 
@@ -3623,15 +3633,11 @@ Vorläufige Austauschpfändung
 
 § 811c
 
-Unpfändbarkeit von Haustieren
-
-§ 811d
-
 Vorwegpfändung
 
 § 812
 
-Pfändung von Hausrat
+(weggefallen)
 
 § 813
 
@@ -5741,6 +5747,8 @@ Die Vollmacht wird weder durch den Tod des Vollmachtgebers noch durch eine Verä
 
 (4) Zu den Kosten des Rechtsstreits im Sinne von Absatz 1 gehören auch Kosten, die die obsiegende Partei der unterlegenen Partei im Verlaufe des Rechtsstreits gezahlt hat.
 
+(5) Wurde in einem Rechtsstreit über einen Anspruch nach Absatz 1 Satz 1 entschieden, so ist die Verjährung des Anspruchs gehemmt, bis die Entscheidung rechtskräftig geworden ist oder der Rechtsstreit auf andere Weise beendet wird.
+
 # § 91a – Kosten bei Erledigung der Hauptsache
 
 (1) Haben die Parteien in der mündlichen Verhandlung oder durch Einreichung eines Schriftsatzes oder zu Protokoll der Geschäftsstelle den Rechtsstreit in der Hauptsache für erledigt erklärt, so entscheidet das Gericht über die Kosten unter Berücksichtigung des bisherigen Sach- und Streitstandes nach billigem Ermessen durch Beschluss. Dasselbe gilt, wenn der Beklagte der Erledigungserklärung des Klägers nicht innerhalb einer Notfrist von zwei Wochen seit der Zustellung des Schriftsatzes widerspricht, wenn der Beklagte zuvor auf diese Folge hingewiesen worden ist.
@@ -6133,11 +6141,11 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 
 6. die Unterschrift der Person, die den Schriftsatz verantwortet, bei Übermittlung durch einen Telefaxdienst (Telekopie) die Wiedergabe der Unterschrift in der Kopie.
 
-# § 130a – Elektronisches Dokument
+# § 130a – Elektronisches Dokument; Verordnungsermächtigung
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
 
@@ -6147,13 +6155,19 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 
 2. der Übermittlungsweg zwischen dem besonderen elektronischen Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Gerichts,
 
-3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts; das Nähere regelt die Verordnung nach Absatz 2 Satz 2,
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts,
 
-4. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Gerichts,
+
+5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Gerichts,
+
+6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
-(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
 # § 130b – Gerichtliches elektronisches Dokument
 
@@ -6164,6 +6178,10 @@ Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Gesc
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
+
+# § 130d – Nutzungspflicht für Rechtsanwälte und Behörden
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. Ist dies aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 # § 131 – Beifügung von Urkunden
 
@@ -6459,7 +6477,7 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 # § 168 – Aufgaben der Geschäftsstelle
 
-(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 175 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
+(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176 Absatz 1 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
 
 (2) Der Vorsitzende des Prozessgerichts oder ein von ihm bestimmtes Mitglied können einen Gerichtsvollzieher oder eine andere Behörde mit der Ausführung der Zustellung beauftragen, wenn eine Zustellung nach Absatz 1 keinen Erfolg verspricht.
 
@@ -6499,29 +6517,41 @@ An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an
 
 (2) Ein Schriftsatz, durch den ein Rechtsmittel eingelegt wird, ist dem Prozessbevollmächtigten des Rechtszuges zuzustellen, dessen Entscheidung angefochten wird. Wenn bereits ein Prozessbevollmächtigter für den höheren Rechtszug bestellt ist, ist der Schriftsatz diesem zuzustellen. Der Partei ist selbst zuzustellen, wenn sie einen Prozessbevollmächtigten nicht bestellt hat.
 
-# § 173 – Zustellung durch Aushändigung an der Amtsstelle
+# § 173 – Zustellung von elektronischen Dokumenten
+
+(1) Ein elektronisches Dokument kann elektronisch nur auf einem sicheren Übermittlungsweg zugestellt werden.
+
+(2) Einen sicheren Übermittlungsweg für die elektronische Zustellung eines elektronischen Dokuments haben zu eröffnen:
+
+1. Rechtsanwälte, Notare, Gerichtsvollzieher sowie
+
+2. Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
+
+Steuerberater und sonstige in professioneller Eigenschaft am Prozess beteiligte Personen, Vereinigungen und Organisationen, bei denen von einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
+
+(3) Die elektronische Zustellung an die in Absatz 2 Genannten wird durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das Gericht zu übermitteln ist. Für die Übermittlung ist der vom Gericht mit der Zustellung zur Verfügung gestellte strukturierte Datensatz zu verwenden. Stellt das Gericht keinen strukturierten Datensatz zur Verfügung, so ist dem Gericht das elektronische Empfangsbekenntnis als elektronisches Dokument (§ 130a) zu übermitteln.
+
+(4) An andere als die in Absatz 2 Genannten kann ein elektronisches Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben. Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als erteilt. Andere als natürliche Personen können die Zustimmung auch allgemein erteilen. Ein elektronisches Dokument gilt am dritten Tag nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
+
+# § 174 – Zustellung durch Aushändigung an der Amtsstelle
 
 Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich bestellten Vertreter durch Aushändigung an der Amtsstelle zugestellt werden. Zum Nachweis der Zustellung ist auf dem Schriftstück und in den Akten zu vermerken, dass es zum Zwecke der Zustellung ausgehändigt wurde und wann das geschehen ist; bei Aushändigung an den Vertreter ist dies mit dem Zusatz zu vermerken, an wen das Schriftstück ausgehändigt wurde und dass die Vollmacht nach § 171 Satz 2 vorgelegt wurde. Der Vermerk ist von dem Bediensteten zu unterschreiben, der die Aushändigung vorgenommen hat.
 
-# § 174 – Zustellung gegen Empfangsbekenntnis oder automatisierte Eingangsbestätigung
+# § 175 – Zustellung von Schriftstücken gegen Empfangsbekenntnis
 
-(1) Ein Schriftstück kann an einen Anwalt, einen Notar, einen Gerichtsvollzieher, einen Steuerberater oder an eine sonstige Person, bei der auf Grund ihres Berufes von einer erhöhten Zuverlässigkeit ausgegangen werden kann, eine Behörde, eine Körperschaft oder eine Anstalt des öffentlichen Rechts gegen Empfangsbekenntnis zugestellt werden.
+(1) Ein Schriftstück kann den in § 173 Absatz 2 Genannten gegen Empfangsbekenntnis zugestellt werden.
 
-(2) An die in Absatz 1 Genannten kann das Schriftstück auch durch Telekopie zugestellt werden. Die Übermittlung soll mit dem Hinweis "Zustellung gegen Empfangsbekenntnis" eingeleitet werden und die absendende Stelle, den Namen und die Anschrift des Zustellungsadressaten sowie den Namen des Justizbediensteten erkennen lassen, der das Dokument zur Übermittlung aufgegeben hat.
+(2) Eine Zustellung gegen Empfangsbekenntnis kann auch durch Telekopie erfolgen. Die Übermittlung soll mit dem Hinweis „Zustellung gegen Empfangsbekenntnis“ eingeleitet werden und die absendende Stelle, den Namen und die Anschrift des Zustellungsadressaten sowie den Namen des Justizbediensteten erkennen lassen, der das Dokument zur Übermittlung aufgegeben hat.
 
-(3) An die in Absatz 1 Genannten kann auch ein elektronisches Dokument zugestellt werden. Gleiches gilt für andere Verfahrensbeteiligte, wenn sie der Übermittlung elektronischer Dokumente ausdrücklich zugestimmt haben. Das Dokument ist auf einem sicheren Übermittlungsweg im Sinne des § 130a Absatz 4 zu übermitteln und gegen unbefugte Kenntnisnahme Dritter zu schützen. Die in Absatz 1 Genannten haben einen sicheren Übermittlungsweg für die Zustellung elektronischer Dokumente zu eröffnen.
+(3) Die Zustellung nach den Absätzen 1 und 2 wird durch das mit Datum und Unterschrift des Adressaten versehene Empfangsbekenntnis nachgewiesen.
 
-(4) Zum Nachweis der Zustellung nach den Absätzen 1 und 2 genügt das mit Datum und Unterschrift des Adressaten versehene Empfangsbekenntnis, das an das Gericht zurückzusenden ist. Das Empfangsbekenntnis kann schriftlich, durch Telekopie oder als elektronisches Dokument (§ 130a) zurückgesandt werden. Die Zustellung nach Absatz 3 wird durch ein elektronisches Empfangsbekenntnis nachgewiesen. Das elektronische Empfangsbekenntnis ist in strukturierter maschinenlesbarer Form zu übermitteln. Wird vom Gericht hierfür mit der Zustellung ein strukturierter Datensatz zur Verfügung gestellt, ist dieser zu nutzen. Andernfalls ist das elektronische Empfangsbekenntnis abweichend von Satz 4 als elektronisches Dokument (§ 130a) zu übermitteln.
+(4) Das Empfangsbekenntnis muss schriftlich, durch Telekopie oder als elektronisches Dokument (§ 130a) an das Gericht gesandt werden.
 
-# § 175 – Zustellung durch Einschreiben mit Rückschein
+# § 176 – Zustellung durch Einschreiben mit Rückschein; Zustellungsauftrag
 
-Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt werden. Zum Nachweis der Zustellung genügt der Rückschein.
+(1) Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt werden. Zum Nachweis der Zustellung genügt der Rückschein.
 
-# § 176 – Zustellungsauftrag
-
-(1) Wird der Post, einem Justizbediensteten oder einem Gerichtsvollzieher ein Zustellungsauftrag erteilt oder wird eine andere Behörde um die Ausführung der Zustellung ersucht, übergibt die Geschäftsstelle das zuzustellende Schriftstück in einem verschlossenen Umschlag und ein vorbereitetes Formular einer Zustellungsurkunde.
-
-(2) Die Ausführung der Zustellung erfolgt nach den §§ 177 bis 181.
+(2) Wird die Post, ein Justizbediensteter oder ein Gerichtsvollzieher mit der Zustellung eines Schriftstücks beauftragt oder wird eine andere Behörde um die Zustellung ersucht, so übergibt die Geschäftsstelle das zuzustellende Schriftstück in einem verschlossenen Umschlag und ein vorbereitetes Formular einer Zustellungsurkunde. Die Zustellung erfolgt nach den §§ 177 bis 181.
 
 # § 177 – Ort der Zustellung
 
@@ -6587,13 +6617,13 @@ Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar, kann das S
 
 maßgeblich sind, gelten für die Zustellung im Ausland die nachfolgenden Absätze 2 bis 5. Für die Durchführung der in Satz 1 genannten Regelungen gelten § 1067 Absatz 1, § 1068 Absatz 1 und § 1069 Absatz 1.
 
-(2) Eine Zustellung im Ausland ist nach den bestehenden völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke auf Grund völkerrechtlicher Vereinbarungen unmittelbar durch die Post übersandt werden dürfen, so soll durch Einschreiben mit Rückschein zugestellt werden, anderenfalls die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts unmittelbar durch die Behörden des fremden Staates erfolgen.
+(2) Eine Zustellung im Ausland ist nach den bestehenden völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke aufgrund solcher Vereinbarungen unmittelbar durch die Post zugestellt werden dürfen, dann soll dies durch Einschreiben mit Rückschein oder mittels eines gleichwertigen Nachweises bewirkt werden, anderenfalls soll die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts unmittelbar durch die Behörden des fremden Staates erfolgen.
 
 (3) Ist eine Zustellung nach Absatz 2 nicht möglich, ist durch die zuständige diplomatische oder konsularische Vertretung des Bundes oder die sonstige zuständige Behörde zuzustellen. Nach Satz 1 ist insbesondere zu verfahren, wenn völkerrechtliche Vereinbarungen nicht bestehen, die zuständigen Stellen des betreffenden Staates zur Rechtshilfe nicht bereit sind oder besondere Gründe eine solche Zustellung rechtfertigen.
 
 (4) An entsandte Beschäftige einer deutschen Auslandsvertretung und die in ihrer Privatwohnung lebenden Personen erfolgt die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts durch die zuständige Auslandsvertretung.
 
-(5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz genügt der Rückschein. Die Zustellung nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
+(5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz genügt der Rückschein oder ein gleichwertiger Nachweis. Die Zustellung nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
 
 # § 184 – Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
 
@@ -6617,7 +6647,7 @@ Die Zustellung kann durch öffentliche Bekanntmachung (öffentliche Zustellung) 
 
 (1) Über die Bewilligung der öffentlichen Zustellung entscheidet das Prozessgericht. Die Entscheidung kann ohne mündliche Verhandlung ergehen.
 
-(2) Die öffentliche Zustellung erfolgt durch Aushang einer Benachrichtigung an der Gerichtstafel oder durch Einstellung in ein elektronisches Informationssystem, das im Gericht öffentlich zugänglich ist. Die Benachrichtigung kann zusätzlich in einem von dem Gericht für Bekanntmachungen bestimmten elektronischen Informations- und Kommunikationssystem veröffentlicht werden. Die Benachrichtigung muss erkennen lassen
+(2) Die öffentliche Zustellung erfolgt durch Aushang einer Benachrichtigung an der Gerichtstafel oder durch Veröffentlichung der Benachrichtigung in einem elektronischen Informations- und Kommunikationssystem, das im Gericht öffentlich zugänglich ist. Die Benachrichtigung muss erkennen lassen
 
 1. die Person, für die zugestellt wird,
 
@@ -6653,19 +6683,35 @@ Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, f
 
 # § 192 – Zustellung durch Gerichtsvollzieher
 
-(1) Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet der Zustellung im Ausland nach § 183 durch den Gerichtsvollzieher nach Maßgabe der §§ 193 und 194.
+Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet der Zustellung im Ausland (§ 183) durch den Gerichtsvollzieher. Im Verfahren vor dem Amtsgericht kann die Partei den Gerichtsvollzieher durch Vermittlung durch die Geschäftsstelle des Prozessgerichts mit der Zustellung beauftragen. Insoweit hat diese den Gerichtsvollzieher mit der Zustellung zu beauftragen.
 
-(2) Die Partei übergibt dem Gerichtsvollzieher das zuzustellende Schriftstück mit den erforderlichen Abschriften. Der Gerichtsvollzieher beglaubigt die Abschriften; er kann fehlende Abschriften selbst herstellen.
+# § 193 – Zustellung von Schriftstücken
 
-(3) Im Verfahren vor dem Amtsgericht kann die Partei den Gerichtsvollzieher unter Vermittlung der Geschäftsstelle des Prozessgerichts mit der Zustellung beauftragen. Insoweit hat diese den Gerichtsvollzieher mit der Zustellung zu beauftragen.
+(1) Soll ein Dokument als Schriftstück zugestellt werden, so übermittelt die Partei dem Gerichtsvollzieher das zuzustellende Dokument
 
-# § 193 – Ausführung der Zustellung
+1. in Papierform zusammen mit den erforderlichen Abschriften oder
 
-(1) Der Gerichtsvollzieher beurkundet auf der Urschrift des zuzustellenden Schriftstücks oder auf dem mit der Urschrift zu verbindenden hierfür vorgesehenen Formular die Ausführung der Zustellung nach § 182 Abs. 2 und vermerkt die Person, in deren Auftrag er zugestellt hat. Bei Zustellung durch Aufgabe zur Post ist das Datum und die Anschrift, unter der die Aufgabe erfolgte, zu vermerken.
+2. als elektronisches Dokument auf einem sicheren Übermittlungsweg.
 
-(2) Der Gerichtsvollzieher vermerkt auf dem zu übergebenden Schriftstück den Tag der Zustellung, sofern er nicht eine beglaubigte Abschrift der Zustellungsurkunde übergibt.
+Im Falle des Satzes 1 Nummer 1 beglaubigt der Gerichtsvollzieher die Abschriften; er kann fehlende Abschriften selbst herstellen. Im Falle des Satzes 1 Nummer 2 fertigt der Gerichtsvollzieher die erforderlichen Abschriften als Ausdrucke selbst und beglaubigt diese.
 
-(3) Die Zustellungsurkunde ist der Partei zu übermitteln, für die zugestellt wurde.
+(2) Der Gerichtsvollzieher beurkundet im Falle des Absatzes 1 Satz 1 Nummer 1 auf der Urschrift des zuzustellenden Schriftstücks oder auf dem mit der Urschrift zu verbindenden hierfür vorgesehenen Formular die Ausführung der Zustellung nach § 182 Abs. 2 und vermerkt die Person, in deren Auftrag er zugestellt hat. Im Falle des Absatzes 1 Satz 1 Nummer 2 gilt Satz 1 mit der Maßgabe, dass der Gerichtsvollzieher die Beurkundung auf einem Ausdruck des zuzustellenden elektronischen Dokuments oder auf dem mit dem Ausdruck zu verbindenden hierfür vorgesehenen Formular vornimmt. Bei Zustellung durch Aufgabe zur Post ist das Datum und die Anschrift, unter der die Aufgabe erfolgte, zu vermerken.
+
+(3) Der Gerichtsvollzieher vermerkt auf dem zu übergebenden Schriftstück den Tag der Zustellung, sofern er nicht eine beglaubigte Abschrift der Zustellungsurkunde übergibt.
+
+(4) Die Zustellungsurkunde ist der Partei zu übermitteln, für die zugestellt wurde.
+
+# § 193a – Zustellung von elektronischen Dokumenten
+
+(1) Soll ein Dokument als elektronisches Dokument zugestellt werden, so übermittelt die Partei dem Gerichtsvollzieher das zuzustellende Dokument
+
+1. elektronisch auf einem sicheren Übermittlungsweg oder
+
+2. als Schriftstück.
+
+Im Falle des Satzes 1 Nummer 2 überträgt der Gerichtsvollzieher das Schriftstück in ein elektronisches Dokument.
+
+(2) Als Nachweis der Zustellung dient die automatisierte Eingangsbestätigung. Der Zeitpunkt der Zustellung ist der in der automatisierten Eingangsbestätigung ausgewiesene Zeitpunkt des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach. Im Falle des Absatzes 1 Satz 1 Nummer 1 ist die automatisierte Eingangsbestätigung mit dem zuzustellenden elektronischen Dokument zu verbinden und der Partei zu übermitteln, für die zugestellt wurde. Im Falle des Absatzes 1 Satz 1 Nummer 2 fertigt der Gerichtsvollzieher einen Ausdruck der automatisierten Eingangsbestätigung, verbindet den Ausdruck mit dem zuzustellenden Schriftstück und übermittelt dieses der Partei, für die zugestellt wurde.
 
 # § 194 – Zustellungsauftrag
 
@@ -6675,9 +6721,9 @@ Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, f
 
 # § 195 – Zustellung von Anwalt zu Anwalt
 
-(1) Sind die Parteien durch Anwälte vertreten, so kann ein Dokument auch dadurch zugestellt werden, dass der zustellende Anwalt das Dokument dem anderen Anwalt übermittelt (Zustellung von Anwalt zu Anwalt). Auch Schriftsätze, die nach den Vorschriften dieses Gesetzes vom Amts wegen zugestellt werden, können stattdessen von Anwalt zu Anwalt zugestellt werden, wenn nicht gleichzeitig dem Gegner eine gerichtliche Anordnung mitzuteilen ist. In dem Schriftsatz soll die Erklärung enthalten sein, dass von Anwalt zu Anwalt zugestellt werde. Die Zustellung ist dem Gericht, sofern dies für die zu treffende Entscheidung erforderlich ist, nachzuweisen. Für die Zustellung an einen Anwalt gilt § 174 Abs. 2 Satz 1 und Abs. 3 Satz 1, 3 entsprechend.
+(1) Sind die Parteien durch Anwälte vertreten, so kann ein Dokument auch dadurch zugestellt werden, dass der zustellende Anwalt das Dokument dem anderen Anwalt übermittelt (Zustellung von Anwalt zu Anwalt). Auch Schriftsätze, die nach den Vorschriften dieses Gesetzes vom Amts wegen zugestellt werden, können stattdessen von Anwalt zu Anwalt zugestellt werden, wenn nicht gleichzeitig dem Gegner eine gerichtliche Anordnung mitzuteilen ist. In dem Schriftsatz soll die Erklärung enthalten sein, dass von Anwalt zu Anwalt zugestellt werde. Die Zustellung ist dem Gericht, sofern dies für die zu treffende Entscheidung erforderlich ist, nachzuweisen. Für die Zustellung von Anwalt zu Anwalt gelten § 173 Absatz 1 und § 175 Absatz 2 Satz 1 entsprechend.
 
-(2) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift versehene schriftliche Empfangsbekenntnis des Anwalts, dem zugestellt worden ist. § 174 Absatz 4 Satz 2 bis 4 gilt entsprechend. Der Anwalt, der zustellt, hat dem anderen Anwalt auf Verlangen eine Bescheinigung über die Zustellung zu erteilen.
+(2) Zum Nachweis der Zustellung eines Schriftstücks genügt das mit Datum und Unterschrift versehene Empfangsbekenntnis desjenigen Anwalts, dem zugestellt worden ist. § 175 Absatz 4 gilt entsprechend. Die Zustellung eines elektronischen Dokuments ist durch ein elektronisches Empfangsbekenntnis in Form eines strukturierten Datensatzes nachzuweisen. Der Anwalt, der zustellt, hat dem anderen Anwalt auf Verlangen eine Bescheinigung über die Zustellung zu erteilen.
 
 # §§ 195a bis 213a – (weggefallen)
 
@@ -7137,7 +7183,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (1) Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein.
 
-(2) Der mündlichen Verhandlung geht zum Zwecke der gütlichen Beilegung des Rechtsstreits eine Güteverhandlung voraus, es sei denn, es hat bereits ein Einigungsversuch vor einer außergerichtlichen Gütestelle stattgefunden oder die Güteverhandlung erscheint erkennbar aussichtslos. Das Gericht hat in der Güteverhandlung den Sach- und Streitstand mit den Parteien unter freier Würdigung aller Umstände zu erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen Parteien sollen hierzu persönlich gehört werden.
+(2) Der mündlichen Verhandlung geht zum Zwecke der gütlichen Beilegung des Rechtsstreits eine Güteverhandlung voraus, es sei denn, es hat bereits ein Einigungsversuch vor einer außergerichtlichen Gütestelle stattgefunden oder die Güteverhandlung erscheint erkennbar aussichtslos. Das Gericht hat in der Güteverhandlung den Sach- und Streitstand mit den Parteien unter freier Würdigung aller Umstände zu erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen Parteien sollen hierzu persönlich gehört werden. § 128a Absatz 1 und 3 gilt entsprechend.
 
 (3) Für die Güteverhandlung sowie für weitere Güteversuche soll das persönliche Erscheinen der Parteien angeordnet werden. § 141 Abs. 1 Satz 2, Abs. 2 und 3 gilt entsprechend.
 
@@ -7493,7 +7539,7 @@ Der Tatbestand des Urteils liefert Beweis für das mündliche Parteivorbringen. 
 
 (2) Ausfertigungen werden nur auf Antrag und nur in Papierform erteilt. Solange das Urteil nicht verkündet und nicht unterschrieben ist, dürfen von ihm Ausfertigungen, Auszüge und Abschriften nicht erteilt werden. Die von einer Partei beantragte Ausfertigung eines Urteils erfolgt ohne Tatbestand und Entscheidungsgründe; dies gilt nicht, wenn die Partei eine vollständige Ausfertigung beantragt.
 
-(3) Ausfertigungen, Auszüge und Abschriften eines als elektronisches Dokument (§ 130b) vorliegenden Urteils können von einem Urteilsausdruck mit einem Vermerk gemäß § 298 Absatz 3 erteilt werden.
+(3) Ausfertigungen, Auszüge und Abschriften eines als elektronisches Dokument (§ 130b) vorliegenden Urteils können von einem Urteilsausdruck erteilt werden.
 
 (4) Die Ausfertigung und Auszüge der Urteile sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen.
 
@@ -9915,7 +9961,7 @@ Die Vorschriften über die Abgabe des Verfahrens gelten sinngemäß, wenn Mahnve
 
 (3) In den Vollstreckungsbescheid sind die bisher entstandenen Kosten des Verfahrens aufzunehmen. Der Antragsteller braucht die Kosten nur zu berechnen, wenn das Mahnverfahren nicht maschinell bearbeitet wird; im Übrigen genügen die zur maschinellen Berechnung erforderlichen Angaben.
 
-(4) Der Vollstreckungsbescheid wird dem Antragsgegner von Amts wegen zugestellt, wenn nicht der Antragsteller die Übermittlung an sich zur Zustellung im Parteibetrieb beantragt hat. In diesen Fällen wird der Vollstreckungsbescheid dem Antragsteller zur Zustellung übermittelt; die Geschäftsstelle des Gerichts vermittelt diese Zustellung nicht. Bewilligt das mit dem Mahnverfahren befasste Gericht die öffentliche Zustellung, so wird die Benachrichtigung nach § 186 Abs. 2 Satz 2 und 3 an die Gerichtstafel des Gerichts angeheftet oder in das Informationssystem des Gerichts eingestellt, das in dem Mahnbescheid gemäß § 692 Abs. 1 Nr. 1 bezeichnet worden ist.
+(4) Der Vollstreckungsbescheid wird dem Antragsgegner von Amts wegen zugestellt, wenn nicht der Antragsteller die Übermittlung an sich zur Zustellung im Parteibetrieb beantragt hat. In diesen Fällen wird der Vollstreckungsbescheid dem Antragsteller zur Zustellung übermittelt; die Geschäftsstelle des Gerichts vermittelt diese Zustellung nicht. Bewilligt das mit dem Mahnverfahren befasste Gericht die öffentliche Zustellung, so wird diese nach § 186 Absatz 2 Satz 1 bis 3 bei dem Gericht vorgenommen, das in dem Mahnbescheid gemäß § 692 Absatz 1 Nummer 1 bezeichnet worden ist.
 
 (5) Die Belehrung gemäß § 232 ist dem Antragsgegner zusammen mit der Zustellung des Vollstreckungsbescheids schriftlich mitzuteilen.
 
@@ -9941,7 +9987,7 @@ Ist Widerspruch nicht erhoben und beantragt der Antragsteller den Erlass des Vol
 
 (1) Im Mahnverfahren können die Anträge und Erklärungen vor dem Urkundsbeamten der Geschäftsstelle abgegeben werden. Soweit Formulare eingeführt sind, werden diese ausgefüllt; der Urkundsbeamte vermerkt unter Angabe des Gerichts und des Datums, dass er den Antrag oder die Erklärung aufgenommen hat. Auch soweit Formulare nicht eingeführt sind, ist für den Antrag auf Erlass eines Mahnbescheids oder eines Vollstreckungsbescheids bei dem für das Mahnverfahren zuständigen Gericht die Aufnahme eines Protokolls nicht erforderlich.
 
-(2) Anträge und Erklärungen können in einer nur maschinell lesbaren Form übermittelt werden, wenn diese dem Gericht für seine maschinelle Bearbeitung geeignet erscheint. Werden Anträge und Erklärungen, für die maschinell bearbeitbare Formulare nach § 703c Absatz 1 Satz 2 Nummer 1 eingeführt sind, von einem Rechtsanwalt oder einer registrierten Person nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes übermittelt, ist nur diese Form der Übermittlung zulässig. Anträge und Erklärungen können unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes gestellt werden. Der handschriftlichen Unterzeichnung bedarf es nicht, wenn in anderer Weise gewährleistet ist, dass die Anträge oder Erklärungen nicht ohne den Willen des Antragstellers oder Erklärenden übermittelt werden.
+(2) Anträge und Erklärungen können in einer nur maschinell lesbaren Form übermittelt werden, wenn diese dem Gericht für seine maschinelle Bearbeitung geeignet erscheint. Werden Anträge und Erklärungen, für die maschinell bearbeitbare Formulare nach § 703c Absatz 1 Satz 2 Nummer 1 eingeführt sind, von einem Rechtsanwalt, einer registrierten Person nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes, einer Behörde oder einer juristischen Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse übermittelt, ist nur diese Form der Übermittlung zulässig. Anträge und Erklärungen können unter Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes gestellt werden. Der handschriftlichen Unterzeichnung bedarf es nicht, wenn in anderer Weise gewährleistet ist, dass die Anträge oder Erklärungen nicht ohne den Willen des Antragstellers oder Erklärenden übermittelt werden.
 
 (3) Der Antrag auf Erlass eines Mahnbescheids oder eines Vollstreckungsbescheids wird dem Antragsgegner nicht mitgeteilt.
 
@@ -10155,7 +10201,7 @@ Der Gläubiger kann sich aus dem belasteten Gegenstand nur nach Leistung der Sic
 
 (1) Die Zwangsvollstreckung wird auf Grund einer mit der Vollstreckungsklausel versehenen Ausfertigung des Urteils (vollstreckbare Ausfertigung) durchgeführt.
 
-(2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszuges und, wenn der Rechtsstreit bei einem höheren Gericht anhängig ist, von dem Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt.
+(2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszuges erteilt. Ist der Rechtsstreit bei einem höheren Gericht anhängig, so kann die vollstreckbare Ausfertigung auch von dem Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt werden.
 
 # § 725 – Vollstreckungsklausel
 
@@ -10325,7 +10371,9 @@ Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrage
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare für den Auftrag einzuführen. Für elektronisch eingereichte Aufträge können besondere Formulare vorgesehen werden.
 
-(4) Schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können als elektronisches Dokument beim Gerichtsvollzieher eingereicht werden. Für das elektronische Dokument gelten § 130a, auf dieser Grundlage erlassene Rechtsverordnungen sowie § 298 entsprechend. Die Bundesregierung kann in der Rechtsverordnung nach § 130a Absatz 2 Satz 2 besondere technische Rahmenbedingungen für die Übermittlung und Bearbeitung elektronischer Dokumente in Zwangsvollstreckungsverfahren durch Gerichtsvollzieher bestimmen. Im Übrigen gilt § 174 Absatz 3 und 4 entsprechend.
+(4) Schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können als elektronisches Dokument beim Gerichtsvollzieher eingereicht werden. Für das elektronische Dokument gelten § 130a, auf dieser Grundlage erlassene Rechtsverordnungen sowie § 298 entsprechend. Die Bundesregierung kann in der Rechtsverordnung nach § 130a Absatz 2 Satz 2 besondere technische Rahmenbedingungen für die Übermittlung und Bearbeitung elektronischer Dokumente in Zwangsvollstreckungsverfahren durch Gerichtsvollzieher bestimmen.
+
+(5) § 130d gilt entsprechend.
 
 # § 753a – Vollmachtsnachweis
 
@@ -10367,11 +10415,11 @@ Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem Auftrag zusä
 
 1. zunächst beim Ausländerzentralregister die Angaben zur aktenführenden Ausländerbehörde sowie zum Zuzug oder Fortzug des Schuldners und anschließend bei der gemäß der Auskunft aus dem Ausländerzentralregister aktenführenden Ausländerbehörde den Aufenthaltsort des Schuldners,
 
-2. bei den Trägern der gesetzlichen Rentenversicherung die dort bekannte derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort des Schuldners sowie
+2. bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch die dort bekannte derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort des Schuldners sowie
 
 3. bei dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes
 
-erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten nach Satz 1 Nummer 1 nur erheben, wenn ihm tatsächliche Anhaltspunkte für die Vermutung der Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt.
+erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten nach Satz 1 Nummer 1 nur erheben, wenn ihm tatsächliche Anhaltspunkte für die Vermutung der Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt. Die Erhebung nach Satz 1 Nummer 2 bei einer berufsständischen Versorgungseinrichtung darf der Gerichtsvollzieher nur durchführen, wenn der Gläubiger die berufsständische Versorgungseinrichtung bezeichnet und tatsächliche Anhaltspunkte nennt, die nahelegen, dass der Schuldner Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 (3) Nach Absatz 1 oder Absatz 2 erhobene Daten, die innerhalb der letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser auch in einem Zwangsvollstreckungsverfahren eines weiteren Gläubigers gegen denselben Schuldner verarbeiten, wenn die Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger vorliegen.
 
@@ -10386,6 +10434,32 @@ erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten 
 (1) Der Gerichtsvollzieher hat nach Empfang der Leistungen dem Schuldner die vollstreckbare Ausfertigung nebst einer Quittung auszuliefern, bei teilweiser Leistung diese auf der vollstreckbaren Ausfertigung zu vermerken und dem Schuldner Quittung zu erteilen.
 
 (2) Das Recht des Schuldners, nachträglich eine Quittung des Gläubigers selbst zu fordern, wird durch diese Vorschriften nicht berührt.
+
+# § 757a – Auskunfts- und Unterstützungsersuchen
+
+(1) Der Gerichtsvollzieher kann die zuständige Polizeidienststelle um Auskunft ersuchen, ob nach polizeilicher Einschätzung bei einer durchzuführenden Vollstreckungshandlung eine Gefahr für Leib oder Leben des Gerichtsvollziehers oder einer weiteren an der Vollstreckungshandlung beteiligten Person besteht.
+
+(2) In dem Auskunftsersuchen nach Absatz 1 ist Folgendes anzugeben:
+
+1. Art und Ort der Vollstreckungshandlung,
+
+2. Vornamen und Name des Schuldners,
+
+3. soweit bekannt Geburtsname, Geburtsdatum und Geburtsort des Schuldners sowie
+
+4. Wohnanschrift des Schuldners.
+
+(3) Erteilt die Polizeidienststelle die Auskunft, dass nach polizeilicher Einschätzung eine Gefahr nach Absatz 1 besteht, so kann der Gerichtsvollzieher um Unterstützung durch die polizeilichen Vollzugsorgane bei der durchzuführenden Vollstreckungshandlung nachsuchen. Ein Unterstützungsersuchen kann der Gerichtsvollzieher auch zusammen mit einem Auskunftsersuchen nach Absatz 1 stellen.
+
+(4) Der Gerichtsvollzieher kann auch ohne Auskunftsersuchen ein Unterstützungsersuchen stellen, wenn
+
+1. tatsächliche Anhaltspunkte für das Bestehen einer Gefahr nach Absatz 1 vorliegen oder
+
+2. sich die Gefahr aus der Art der Vollstreckungshandlung ergibt.
+
+Auf Unterstützungsersuchen nach Satz 1 ist Absatz 2 entsprechend anzuwenden; bei Unterstützungsersuchen nach Satz 1 Nummer 1 hat der Gerichtsvollzieher zusätzlich die tatsächlichen Anhaltspunkte für das Vorliegen einer Gefahr nach Absatz 1 und, sofern die Gefahr von einer dritten Person ausgeht, die ihm bekannten Daten nach Absatz 2 Nummer 2 bis 4 über die dritte Person anzugeben.
+
+(5) Über die Durchführung eines Auskunfts- oder eines Unterstützungsersuchens setzt der Gerichtsvollzieher den Schuldner oder, sofern Daten einer dritten Person nach Absatz 4 Satz 2 Halbsatz 2 übermittelt worden sind, die dritte Person unverzüglich nach Erledigung des Vollstreckungsauftrags in Kenntnis. Abweichend von § 760 Satz 1 darf in Bezug auf Inhalte der Akten des Gerichtsvollziehers, die in Zusammenhang mit einem Auskunfts- oder einem Unterstützungsersuchen stehen, neben dem Schuldner nur der dritten Person, deren Daten übermittelt worden sind, Akteneinsicht gestattet und eine Abschrift erteilt werden; § 760 Satz 2 bleibt unberührt.
 
 # § 758 – Durchsuchung; Gewaltanwendung
 
@@ -10867,13 +10941,13 @@ Die Maßnahmen sind in dem Vollstreckungsauftrag zu bezeichnen, die Maßnahme na
 
 2. die unentgeltlichen Leistungen des Schuldners, die dieser in den letzten vier Jahren vor dem Termin nach § 802f Abs. 1 und bis zur Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich nicht auf gebräuchliche Gelegenheitsgeschenke geringen Wertes richteten.
 
-Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei denn, dass eine Austauschpfändung in Betracht kommt.
+Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Pfändung offensichtlich nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei denn, dass eine Austauschpfändung in Betracht kommt.
 
 (3) Der Schuldner hat zu Protokoll an Eides statt zu versichern, dass er die Angaben nach den Absätzen 1 und 2 nach bestem Wissen und Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§ 478 bis 480, 483 gelten entsprechend.
 
-# § 802d – Erneute Vermögensauskunft
+# § 802d – Weitere Vermögensauskunft
 
-(1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche Veränderung der Vermögensverhältnisse des Schuldners schließen lassen. Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten abgegebenen Vermögensverzeichnisses zu; ein Verzicht des Gläubigers auf die Zuleitung ist unbeachtlich. Der Gläubiger darf die erlangten Daten nur zu Vollstreckungszwecken verarbeiten und hat die Daten nach Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
+(1) Der Schuldner ist innerhalb von zwei Jahren nach Abgabe der Vermögensauskunft nach § 802c oder nach § 284 der Abgabenordnung nicht verpflichtet, eine weitere Vermögensauskunft abzugeben, es sei denn, ein Gläubiger macht Tatsachen glaubhaft, die auf eine wesentliche Veränderung der Vermögensverhältnisse des Schuldners schließen lassen. Besteht keine Pflicht zur Abgabe einer Vermögensauskunft nach Satz 1, leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten abgegebenen Vermögensverzeichnisses zu; ein Verzicht des Gläubigers auf die Zuleitung ist unbeachtlich. Der Gläubiger darf die erlangten Daten nur zu Vollstreckungszwecken verarbeiten und hat die Daten nach Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
 
 (2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf Antrag das Vermögensverzeichnis als elektronisches Dokument übermittelt werden, wenn dieses mit einer qualifizierten elektronischen Signatur versehen und gegen unbefugte Kenntnisnahme geschützt ist.
 
@@ -10955,19 +11029,33 @@ Zur Einsicht befugt sind ferner Vollstreckungsgerichte, Insolvenzgerichte und Re
 
 # § 802l – Auskunftsrechte des Gerichtsvollziehers
 
-(1) Kommt der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nicht nach oder ist bei einer Vollstreckung in die dort aufgeführten Vermögensgegenstände eine vollständige Befriedigung des Gläubigers voraussichtlich nicht zu erwarten, so darf der Gerichtsvollzieher
+(1) Der Gerichtsvollzieher darf vorbehaltlich der Sätze 2 und 3 folgende Maßnahmen durchführen, soweit sie zur Vollstreckung erforderlich sind:
 
-1. bei den Trägern der gesetzlichen Rentenversicherung den Namen, die Vornamen oder die Firma sowie die Anschriften der derzeitigen Arbeitgeber eines versicherungspflichtigen Beschäftigungsverhältnisses des Schuldners erheben;
+1. Erhebung des Namens und der Vornamen oder der Firma sowie der Anschrift der derzeitigen Arbeitgeber des Schuldners bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch;
 
-2. das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Abs. 1 der Abgabenordnung bezeichneten Daten abzurufen (§ 93 Abs. 8 Abgabenordnung);
+2. Ersuchen an das Bundeszentralamt für Steuern, bei den Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen (§ 93 Absatz 8 der Abgabenordnung);
 
-3. beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 33 Abs. 1 des Straßenverkehrsgesetzes zu einem Fahrzeug, als dessen Halter der Schuldner eingetragen ist, erheben.
+3. Erhebung der Fahrzeug- und Halterdaten nach § 33 Absatz 1 des Straßenverkehrsgesetzes beim Kraftfahrt-Bundesamt zu einem Fahrzeug, als dessen Halter der Schuldner eingetragen ist.
 
-Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung erforderlich ist.
+Maßnahmen nach Satz 1 sind nur zulässig, wenn
+
+1. die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Schuldner nicht zustellbar ist und
+
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor Erteilung des Vollstreckungsauftrags die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Schuldners bekannt ist;
+
+2. der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem der Maßnahme nach Satz 1 zugrundeliegenden Vollstreckungsverfahren nicht nachkommt oder
+
+3. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung des Gläubigers nicht zu erwarten ist.
+
+Die Erhebung nach Satz 1 Nummer 1 bei einer berufsständischen Versorgungseinrichtung ist zusätzlich zu den Voraussetzungen des Satzes 2 nur zulässig, wenn der Gläubiger die berufsständische Versorgungseinrichtung bezeichnet und tatsächliche Anhaltspunkte nennt, die nahelegen, dass der Schuldner Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 (2) Daten, die für die Zwecke der Vollstreckung nicht erforderlich sind, hat der Gerichtsvollzieher unverzüglich zu löschen oder deren Verarbeitung einzuschränken. Die Löschung ist zu protokollieren.
 
-(3) Über das Ergebnis einer Erhebung oder eines Ersuchens nach Absatz 1 setzt der Gerichtsvollzieher den Gläubiger unter Beachtung des Absatzes 2 unverzüglich und den Schuldner innerhalb von vier Wochen nach Erhalt in Kenntnis. § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
+(3) Über das Ergebnis einer Erhebung oder eines Ersuchens nach Absatz 1 setzt der Gerichtsvollzieher den Gläubiger unter Beachtung des Absatzes 2 unverzüglich und den Schuldner innerhalb von vier Wochen nach Erhalt in Kenntnis. § 802d Absatz 1 Satz 3 und Absatz 2 gilt entsprechend.
 
 (4) Nach Absatz 1 Satz 1 erhobene Daten, die innerhalb der letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser auch einem weiteren Gläubiger übermitteln, wenn die Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger vorliegen. Der Gerichtsvollzieher hat dem weiteren Gläubiger die Tatsache, dass die Daten in einem anderen Verfahren erhoben wurden, und den Zeitpunkt ihres Eingangs bei ihm mitzuteilen. Eine erneute Auskunft ist auf Antrag des weiteren Gläubigers einzuholen, wenn Anhaltspunkte dafür vorliegen, dass seit dem Eingang der Auskunft eine Änderung der Vermögensverhältnisse, über die nach Absatz 1 Satz 1 Auskunft eingeholt wurde, eingetreten ist.
 
@@ -11039,45 +11127,55 @@ Die vorstehenden Vorschriften sind auf die Pfändung von Sachen, die sich im Gew
 
 (2) Ein Gläubiger, der ein Recht auf Befriedigung aus dem Grundstück hat, kann der Pfändung nach Maßgabe des § 771 widersprechen, sofern nicht die Pfändung für einen im Falle der Zwangsvollstreckung in das Grundstück vorgehenden Anspruch erfolgt ist.
 
-# § 811 – Unpfändbare Sachen
+# § 811 – Unpfändbare Sachen und Tiere
 
-(1) Folgende Sachen sind der Pfändung nicht unterworfen:
+(1) Nicht der Pfändung unterliegen
 
-1. die dem persönlichen Gebrauch oder dem Haushalt dienenden Sachen, insbesondere Kleidungsstücke, Wäsche, Betten, Haus- und Küchengerät, soweit der Schuldner ihrer zu einer seiner Berufstätigkeit und seiner Verschuldung angemessenen, bescheidenen Lebens- und Haushaltsführung bedarf; ferner Gartenhäuser, Wohnlauben und ähnliche Wohnzwecken dienende Einrichtungen, die der Zwangsvollstreckung in das bewegliche Vermögen unterliegen und deren der Schuldner oder seine Familie zur ständigen Unterkunft bedarf;
+1. Sachen, die der Schuldner oder eine Person, mit der er in einem gemeinsamen Haushalt zusammenlebt, benötigt
 
-2. die für den Schuldner, seine Familie und seine Hausangehörigen, die ihm im Haushalt helfen, auf vier Wochen erforderlichen Nahrungs-, Feuerungs- und Beleuchtungsmittel oder, soweit für diesen Zeitraum solche Vorräte nicht vorhanden und ihre Beschaffung auf anderem Wege nicht gesichert ist, der zur Beschaffung erforderliche Geldbetrag;
+a) für eine bescheidene Lebens- und Haushaltsführung;
 
-3. Kleintiere in beschränkter Zahl sowie eine Milchkuh oder nach Wahl des Schuldners statt einer solchen insgesamt zwei Schweine, Ziegen oder Schafe, wenn diese Tiere für die Ernährung des Schuldners, seiner Familie oder Hausangehörigen, die ihm im Haushalt, in der Landwirtschaft oder im Gewerbe helfen, erforderlich sind; ferner die zur Fütterung und zur Streu auf vier Wochen erforderlichen Vorräte oder, soweit solche Vorräte nicht vorhanden sind und ihre Beschaffung für diesen Zeitraum auf anderem Wege nicht gesichert ist, der zu ihrer Beschaffung erforderliche Geldbetrag;
+b) für die Ausübung einer Erwerbstätigkeit oder eine damit in Zusammenhang stehende Aus- oder Fortbildung;
 
-4. bei Personen, die Landwirtschaft betreiben, das zum Wirtschaftsbetrieb erforderliche Gerät und Vieh nebst dem nötigen Dünger sowie die landwirtschaftlichen Erzeugnisse, soweit sie zur Sicherung des Unterhalts des Schuldners, seiner Familie und seiner Arbeitnehmer oder zur Fortführung der Wirtschaft bis zur nächsten Ernte gleicher oder ähnlicher Erzeugnisse erforderlich sind;
+c) aus gesundheitlichen Gründen;
 
-4a. bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gelieferten Naturalien, soweit der Schuldner ihrer zu seinem und seiner Familie Unterhalt bedarf;
+d) zur Ausübung von Religion oder Weltanschauung oder als Gegenstand religiöser oder weltanschaulicher Verehrung, wenn ihr Wert 500 Euro nicht übersteigt;
 
-5. bei Personen, die aus ihrer körperlichen oder geistigen Arbeit oder sonstigen persönlichen Leistungen ihren Erwerb ziehen, die zur Fortsetzung dieser Erwerbstätigkeit erforderlichen Gegenstände;
+2. Gartenhäuser, Wohnlauben und ähnliche Einrichtungen, die der Schuldner oder dessen Familie als ständige Unterkunft nutzt und die der Zwangsvollstreckung in das bewegliche Vermögen unterliegen;
 
-6. bei den Witwen und minderjährigen Erben der unter Nummer 5 bezeichneten Personen, wenn sie die Erwerbstätigkeit für ihre Rechnung durch einen Stellvertreter fortführen, die zur Fortführung dieser Erwerbstätigkeit erforderlichen Gegenstände;
+3. Bargeld
 
-7. Dienstkleidungsstücke sowie Dienstausrüstungsgegenstände, soweit sie zum Gebrauch des Schuldners bestimmt sind, sowie bei Beamten, Geistlichen, Rechtsanwälten, Notaren, Ärzten und Hebammen die zur Ausübung des Berufes erforderlichen Gegenstände einschließlich angemessener Kleidung;
+a) für den Schuldner, der eine natürliche Person ist, in Höhe von einem Fünftel,
 
-8. bei Personen, die wiederkehrende Einkünfte der in den §§ 850 bis 850b dieses Gesetzes oder der in § 54 Abs. 3 bis 5 des Ersten Buches Sozialgesetzbuch bezeichneten Art oder laufende Kindergeldleistungen beziehen, ein Geldbetrag, der dem der Pfändung nicht unterworfenen Teil der Einkünfte für die Zeit von der Pfändung bis zu dem nächsten Zahlungstermin entspricht;
+b) für jede weitere Person, mit der der Schuldner in einem gemeinsamen Haushalt zusammenlebt, in Höhe von einem Zehntel
 
-9. die zum Betrieb einer Apotheke unentbehrlichen Geräte, Gefäße und Waren;
+des täglichen Freibetrages nach § 850c Absatz 1 Nummer 3 in Verbindung mit Absatz 4 Nummer 1 für jeden Kalendertag ab dem Zeitpunkt der Pfändung bis zu dem Ende des Monats, in dem die Pfändung bewirkt wird; der Gerichtsvollzieher kann im Einzelfall nach pflichtgemäßem Ermessen einen abweichenden Betrag festsetzen;
 
-10. die Bücher, die zum Gebrauch des Schuldners und seiner Familie in der Schule oder einer sonstigen Unterrichtsanstalt bestimmt sind;
+4. Unterlagen, zu deren Aufbewahrung eine gesetzliche Verpflichtung besteht oder die der Schuldner oder eine Person, mit der er in einem gemeinsamen Haushalt zusammenlebt, zu Buchführungs- oder Dokumentationszwecken benötigt;
 
-10a. die Kultusgegenstände, die dem Schuldner und seiner Familie zur Ausübung ihrer Religion oder Weltanschauung dienen oder für sie Gegenstand religiöser oder weltanschaulicher Verehrung sind, wenn ihr Wert 500 Euro nicht übersteigt;
+5. private Aufzeichnungen, durch deren Verwertung in Persönlichkeitsrechte eingegriffen wird;
 
-11. die in Gebrauch genommenen Haushaltungs- und Geschäftsbücher, die Familienpapiere sowie die Trauringe, Orden und Ehrenzeichen;
+6. öffentliche Urkunden, die der Schuldner, dessen Familie oder eine Person, mit der er in einem gemeinsamen Haushalt zusammenlebt, für Beweisführungszwecke benötigt;
 
-12. künstliche Gliedmaßen, Brillen und andere wegen körperlicher Gebrechen notwendige Hilfsmittel, soweit diese Gegenstände zum Gebrauch des Schuldners und seiner Familie bestimmt sind;
+7. Trauringe, Orden und Ehrenzeichen;
 
-13. die zur unmittelbaren Verwendung für die Bestattung bestimmten Gegenstände.
+8. Tiere, die der Schuldner oder eine Person, mit der er in einem gemeinsamen Haushalt zusammenlebt,
 
-(2) Eine in Absatz 1 Nr. 1, 4, 5 bis 7 bezeichnete Sache kann gepfändet werden, wenn der Verkäufer wegen einer durch Eigentumsvorbehalt gesicherten Geldforderung aus ihrem Verkauf vollstreckt. Die Vereinbarung des Eigentumsvorbehaltes ist durch Urkunden nachzuweisen.
+a) nicht zu Erwerbszwecken hält oder
+
+b) für die Ausübung einer Erwerbstätigkeit benötigt,
+
+sowie das für diese Tiere erforderliche Futter und die erforderliche Streu.
+
+(2) Eine in Absatz 1 Nummer 1 Buchstabe a und b sowie Nummer 2 bezeichnete Sache oder ein in Absatz 1 Nummer 8 Buchstabe b bezeichnetes Tier kann abweichend von Absatz 1 gepfändet werden, wenn der Verkäufer wegen einer durch Eigentumsvorbehalt gesicherten Geldforderung aus dem Verkauf der Sache oder des Tieres vollstreckt. Die Vereinbarung des Eigentumsvorbehaltes ist durch eine Urkunde nachzuweisen.
+
+(3) Auf Antrag des Gläubigers lässt das Vollstreckungsgericht die Pfändung eines in Absatz 1 Nummer 8 Buchstabe a bezeichneten Tieres zu, wenn dieses einen hohen Wert hat und die Unpfändbarkeit für den Gläubiger eine Härte bedeuten würde, die auch unter Würdigung der Belange des Tierschutzes und der berechtigten Interessen des Schuldners nicht zu rechtfertigen ist.
+
+(4) Sachen, die der Schuldner für eine Lebens- und Haushaltsführung benötigt, die nicht als bescheiden angesehen werden kann, sollen nicht gepfändet werden, wenn offensichtlich ist, dass durch ihre Verwertung nur ein Erlös erzielt würde, der in keinem Verhältnis zum Anschaffungswert steht.
 
 # § 811a – Austauschpfändung
 
-(1) Die Pfändung einer nach § 811 Abs. 1 Nr. 1, 5 und 6 unpfändbaren Sache kann zugelassen werden, wenn der Gläubiger dem Schuldner vor der Wegnahme der Sache ein Ersatzstück, das dem geschützten Verwendungszweck genügt, oder den zur Beschaffung eines solchen Ersatzstückes erforderlichen Geldbetrag überlässt; ist dem Gläubiger die rechtzeitige Ersatzbeschaffung nicht möglich oder nicht zuzumuten, so kann die Pfändung mit der Maßgabe zugelassen werden, dass dem Schuldner der zur Ersatzbeschaffung erforderliche Geldbetrag aus dem Vollstreckungserlös überlassen wird (Austauschpfändung).
+(1) Die Pfändung einer nach § 811 Absatz 1 Nummer 1 Buchstabe a und b und Nummer 2 unpfändbaren Sache kann zugelassen werden, wenn der Gläubiger dem Schuldner vor der Wegnahme der Sache ein Ersatzstück, das dem geschützten Verwendungszweck genügt, oder den zur Beschaffung eines solchen Ersatzstückes erforderlichen Geldbetrag überlässt; ist dem Gläubiger die rechtzeitige Ersatzbeschaffung nicht möglich oder nicht zuzumuten, so kann die Pfändung mit der Maßgabe zugelassen werden, dass dem Schuldner der zur Ersatzbeschaffung erforderliche Geldbetrag aus dem Vollstreckungserlös überlassen wird (Austauschpfändung).
 
 (2) Über die Zulässigkeit der Austauschpfändung entscheidet das Vollstreckungsgericht auf Antrag des Gläubigers durch Beschluss. Das Gericht soll die Austauschpfändung nur zulassen, wenn sie nach Lage der Verhältnisse angemessen ist, insbesondere wenn zu erwarten ist, dass der Vollstreckungserlös den Wert des Ersatzstückes erheblich übersteigen werde. Das Gericht setzt den Wert eines vom Gläubiger angebotenen Ersatzstückes oder den zur Ersatzbeschaffung erforderlichen Betrag fest. Bei der Austauschpfändung nach Absatz 1 Halbsatz 1 ist der festgesetzte Betrag dem Gläubiger aus dem Vollstreckungserlös zu erstatten; er gehört zu den Kosten der Zwangsvollstreckung.
 
@@ -11095,21 +11193,13 @@ Die vorstehenden Vorschriften sind auf die Pfändung von Sachen, die sich im Gew
 
 (4) Die Übergabe des Ersatzstückes oder des zu seiner Beschaffung erforderlichen Geldbetrages an den Schuldner und die Fortsetzung der Zwangsvollstreckung erfolgen erst nach Erlass des Beschlusses gemäß § 811a Abs. 2 auf Anweisung des Gläubigers. § 811a Abs. 4 gilt entsprechend.
 
-# § 811c – Unpfändbarkeit von Haustieren
-
-(1) Tiere, die im häuslichen Bereich und nicht zu Erwerbszwecken gehalten werden, sind der Pfändung nicht unterworfen.
-
-(2) Auf Antrag des Gläubigers lässt das Vollstreckungsgericht eine Pfändung wegen des hohen Wertes des Tieres zu, wenn die Unpfändbarkeit für den Gläubiger eine Härte bedeuten würde, die auch unter Würdigung der Belange des Tierschutzes und der berechtigten Interessen des Schuldners nicht zu rechtfertigen ist.
-
-# § 811d – Vorwegpfändung
+# § 811c – Vorwegpfändung
 
 (1) Ist zu erwarten, dass eine Sache demnächst pfändbar wird, so kann sie gepfändet werden, ist aber im Gewahrsam des Schuldners zu belassen. Die Vollstreckung darf erst fortgesetzt werden, wenn die Sache pfändbar geworden ist.
 
 (2) Die Pfändung ist aufzuheben, wenn die Sache nicht binnen eines Jahres pfändbar geworden ist.
 
-# § 812 – Pfändung von Hausrat
-
-Gegenstände, die zum gewöhnlichen Hausrat gehören und im Haushalt des Schuldners gebraucht werden, sollen nicht gepfändet werden, wenn ohne weiteres ersichtlich ist, dass durch ihre Verwertung nur ein Erlös erzielt werden würde, der zu dem Wert außer allem Verhältnis steht.
+# § 812 – (weggefallen)
 
 # § 813 – Schätzung
 
@@ -11117,7 +11207,17 @@ Gegenstände, die zum gewöhnlichen Hausrat gehören und im Haushalt des Schuldn
 
 (2) Ist die Schätzung des Wertes bei der Pfändung nicht möglich, so soll sie unverzüglich nachgeholt und ihr Ergebnis nachträglich in dem Pfändungsprotokoll vermerkt werden. Werden die Akten des Gerichtsvollziehers elektronisch geführt, so ist das Ergebnis der Schätzung in einem gesonderten elektronischen Dokument zu vermerken. Das Dokument ist mit dem Pfändungsprotokoll untrennbar zu verbinden.
 
-(3) Zur Pfändung von Früchten, die von dem Boden noch nicht getrennt sind, und zur Pfändung von Gegenständen der in § 811 Abs. 1 Nr. 4 bezeichneten Art bei Personen, die Landwirtschaft betreiben, soll ein landwirtschaftlicher Sachverständiger zugezogen werden, sofern anzunehmen ist, dass der Wert der zu pfändenden Gegenstände den Betrag von 500 Euro übersteigt.
+(3) Sollen bei Personen, die Landwirtschaft betreiben,
+
+1. Früchte, die vom Boden noch nicht getrennt sind,
+
+2. Sachen nach § 811 Absatz 1 Nummer 1 Buchstabe b,
+
+3. Tiere nach § 811 Absatz 1 Nummer 8 Buchstabe b oder
+
+4. landwirtschaftliche Erzeugnisse
+
+gepfändet werden, so soll ein landwirtschaftlicher Sachverständiger herangezogen werden, sofern anzunehmen ist, dass der Wert dieser Sachen und Tiere insgesamt den Betrag von 2 000 Euro übersteigt.
 
 (4) Die Landesjustizverwaltung kann bestimmen, dass auch in anderen Fällen ein Sachverständiger zugezogen werden soll.
 
@@ -11257,7 +11357,7 @@ Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist
 
 (1) Soll eine Geldforderung gepfändet werden, so hat das Gericht dem Drittschuldner zu verbieten, an den Schuldner zu zahlen. Zugleich hat das Gericht an den Schuldner das Gebot zu erlassen, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Die Pfändung mehrerer Geldforderungen gegen verschiedene Drittschuldner soll auf Antrag des Gläubigers durch einheitlichen Beschluss ausgesprochen werden, soweit dies für Zwecke der Vollstreckung geboten erscheint und kein Grund zu der Annahme besteht, dass schutzwürdige Interessen der Drittschuldner entgegenstehen.
 
-(2) Der Gläubiger hat den Beschluss dem Drittschuldner zustellen zu lassen. Der Gerichtsvollzieher hat den Beschluss mit einer Abschrift der Zustellungsurkunde dem Schuldner sofort zuzustellen, sofern nicht eine öffentliche Zustellung erforderlich wird. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007 noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen vom 19. Oktober 2005 (ABl. L 300 vom 17.11.2005, S. 55, L 120 vom 5.5.2006, S. 23) zu bewirken ist.
+(2) Der Gläubiger hat den Beschluss dem Drittschuldner zustellen zu lassen. Der Gerichtsvollzieher hat dem Schuldner den Beschluss mit dem Zustellungsnachweis sofort zuzustellen, sofern nicht eine öffentliche Zustellung erforderlich ist. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007 noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen vom 19. Oktober 2005 (ABl. L 300 vom 17.11.2005, S. 55, L 120 vom 5.5.2006, S. 23) zu bewirken ist.
 
 (3) Mit der Zustellung des Beschlusses an den Drittschuldner ist die Pfändung als bewirkt anzusehen.
 
@@ -11375,9 +11475,9 @@ Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die Vollstreckung du
 
 5. ob es sich bei dem Konto, dessen Guthaben gepfändet worden ist, um ein Pfändungsschutzkonto im Sinne des § 850k oder ein Gemeinschaftskonto im Sinne des § 850l handelt; bei einem Gemeinschaftskonto ist zugleich anzugeben, ob der Schuldner nur gemeinsam mit einer oder mehreren anderen Personen verfügungsbefugt ist.
 
-(2) Die Aufforderung zur Abgabe dieser Erklärungen muss in die Zustellungsurkunde aufgenommen werden. Der Drittschuldner haftet dem Gläubiger für den aus der Nichterfüllung seiner Verpflichtung entstehenden Schaden.
+(2) Die Aufforderung zur Abgabe dieser Erklärungen muss in die Zustellungsurkunde aufgenommen werden; bei Zustellungen nach § 193a muss die Aufforderung als elektronisches Dokument zusammen mit dem Pfändungsbeschluss übermittelt werden. Der Drittschuldner haftet dem Gläubiger für den aus der Nichterfüllung seiner Verpflichtung entstehenden Schaden.
 
-(3) Die Erklärungen des Drittschuldners können bei Zustellung des Pfändungsbeschlusses oder innerhalb der im ersten Absatz bestimmten Frist an den Gerichtsvollzieher erfolgen. Im ersteren Fall sind sie in die Zustellungsurkunde aufzunehmen und von dem Drittschuldner zu unterschreiben.
+(3) Die Erklärungen des Drittschuldners können innerhalb der in Absatz 1 bestimmten Frist auch gegenüber dem Gerichtsvollzieher abgegeben werden. Werden die Erklärungen bei einer Zustellung des Pfändungsbeschlusses nach § 193 abgegeben, so sind sie in die Zustellungsurkunde aufzunehmen und von dem Drittschuldner zu unterschreiben.
 
 # § 841 – Pflicht zur Streitverkündung
 
@@ -11459,7 +11559,7 @@ Unpfändbar sind
 
 3. Aufwandsentschädigungen, Auslösungsgelder und sonstige soziale Zulagen für auswärtige Beschäftigungen, das Entgelt für selbstgestelltes Arbeitsmaterial, Gefahrenzulagen sowie Schmutz- und Erschwerniszulagen, soweit diese Bezüge den Rahmen des Üblichen nicht übersteigen;
 
-4. Weihnachtsvergütungen bis zum Betrag der Hälfte des monatlichen Arbeitseinkommens, höchstens aber bis zum Betrag von 500 Euro;
+4. Weihnachtsvergütungen bis zu der Hälfte des Betrages, dessen Höhe sich nach Aufrundung des monatlichen Freibetrages nach § 850c Absatz 1 in Verbindung mit Absatz 4 auf den nächsten vollen 10-Euro-Betrag ergibt;
 
 5. Geburtsbeihilfen sowie Beihilfen aus Anlass der Eingehung einer Ehe oder Begründung einer Lebenspartnerschaft, sofern die Vollstreckung wegen anderer als der aus Anlass der Geburt, der Eingehung einer Ehe oder der Begründung einer Lebenspartnerschaft entstandenen Ansprüche betrieben wird;
 
@@ -11479,7 +11579,7 @@ Unpfändbar sind
 
 3. fortlaufende Einkünfte, die ein Schuldner aus Stiftungen oder sonst auf Grund der Fürsorge und Freigebigkeit eines Dritten oder auf Grund eines Altenteils oder Auszugsvertrags bezieht;
 
-4. Bezüge aus Witwen-, Waisen-, Hilfs- und Krankenkassen, die ausschließlich oder zu einem wesentlichen Teil zu Unterstützungszwecken gewährt werden, ferner Ansprüche aus Lebensversicherungen, die nur auf den Todesfall des Versicherungsnehmers abgeschlossen sind, wenn die Versicherungssumme 3.579 Euro nicht übersteigt.
+4. Bezüge aus Witwen-, Waisen-, Hilfs- und Krankenkassen, die ausschließlich oder zu einem wesentlichen Teil zu Unterstützungszwecken gewährt werden, ferner Ansprüche aus Lebensversicherungen, die nur auf den Todesfall des Versicherungsnehmers abgeschlossen sind, wenn die Versicherungssumme 5 400 Euro nicht übersteigt.
 
 (2) Diese Bezüge können nach den für Arbeitseinkommen geltenden Vorschriften gepfändet werden, wenn die Vollstreckung in das sonstige bewegliche Vermögen des Schuldners zu einer vollständigen Befriedigung des Gläubigers nicht geführt hat oder voraussichtlich nicht führen wird und wenn nach den Umständen des Falles, insbesondere nach der Art des beizutreibenden Anspruchs und der Höhe der Bezüge, die Pfändung der Billigkeit entspricht.
 
@@ -11665,7 +11765,17 @@ und überwiegende Belange des Gläubigers nicht entgegenstehen.
 
 4. die Zahlung einer Kapitalleistung, ausgenommen eine Zahlung für den Todesfall, nicht vereinbart wurde.
 
-(2) Um dem Schuldner den Aufbau einer angemessenen Alterssicherung zu ermöglichen, kann er unter Berücksichtigung der Entwicklung auf dem Kapitalmarkt, des Sterblichkeitsrisikos und der Höhe der Pfändungsfreigrenze, nach seinem Lebensalter gestaffelt, jährlich einen bestimmten Betrag unpfändbar auf der Grundlage eines in Absatz 1 bezeichneten Vertrags bis zu einer Gesamtsumme von 256 000 Euro ansammeln. Der Schuldner darf vom 18. bis zum vollendeten 29. Lebensjahr 2 000 Euro, vom 30. bis zum vollendeten 39. Lebensjahr 4 000 Euro, vom 40. bis zum vollendeten 47. Lebensjahr 4 500 Euro, vom 48. bis zum vollendeten 53. Lebensjahr 6 000 Euro, vom 54. bis zum vollendeten 59. Lebensjahr 8 000 Euro und vom 60. bis zum vollendeten 67. Lebensjahr 9 000 Euro jährlich ansammeln. Übersteigt der Rückkaufwert der Alterssicherung den unpfändbaren Betrag, sind drei Zehntel des überschießenden Betrags unpfändbar. Satz 3 gilt nicht für den Teil des Rückkaufwerts, der den dreifachen Wert des in Satz 1 genannten Betrags übersteigt.
+(2) Beträge, die der Schuldner anspart, um in Erfüllung eines Vertrages nach Absatz 1 eine angemessene Alterssicherung aufzubauen, unterliegen nicht der Pfändung, soweit sie
+
+1. jährlich nicht mehr betragen als
+
+a) 6 000 Euro bei einem Schuldner vom 18. bis zum vollendeten 27. Lebensjahr und
+
+b) 7 000 Euro bei einem Schuldner vom 28. bis zum vollendeten 67. Lebensjahr und
+
+2. einen Gesamtbetrag von 340 000 Euro nicht übersteigen.
+
+Die in Satz 1 genannten Beträge werden jeweils zum 1. Juli eines jeden fünften Jahres entsprechend der Entwicklung auf dem Kapitalmarkt, des Sterblichkeitsrisikos und der Höhe der Pfändungsfreigrenze angepasst und die angepassten Beträge vom Bundesministerium der Justiz und für Verbraucherschutz in der Pfändungsfreigrenzenbekanntmachung im Sinne des § 850c Absatz 4 Satz 1 bekannt gemacht. Übersteigt der Rückkaufwert der Alterssicherung den unpfändbaren Betrag, sind drei Zehntel des überschießenden Betrags unpfändbar. Satz 3 gilt nicht für den Teil des Rückkaufwerts, der den dreifachen Wert des in Satz 1 Nummer 2 genannten Betrags übersteigt.
 
 (3) § 850e Nr. 2 und 2a gilt entsprechend.
 
@@ -12387,7 +12497,7 @@ Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstrec
 
 (1) Arrestbefehle bedürfen der Vollstreckungsklausel nur, wenn die Vollziehung für einen anderen als den in dem Befehl bezeichneten Gläubiger oder gegen einen anderen als den in dem Befehl bezeichneten Schuldner erfolgen soll.
 
-(2) Die Vollziehung des Arrestbefehls ist unstatthaft, wenn seit dem Tag, an dem der Befehl verkündet oder der Partei, auf deren Gesuch er erging, zugestellt ist, ein Monat verstrichen ist.
+(2) Die Vollziehung des Arrestbefehls ist unstatthaft, wenn seit dem Tag, an dem der Befehl verkündet oder der Partei, auf deren Gesuch er erging, zugestellt ist, ein Monat verstrichen ist. Kann ein ausländischer Sicherungstitel im Inland ohne vorherige Vollstreckbarerklärung vollzogen werden, so beträgt die Frist nach Satz 1 zwei Monate.
 
 (3) Die Vollziehung ist vor der Zustellung des Arrestbefehls an den Schuldner zulässig. Sie ist jedoch ohne Wirkung, wenn die Zustellung nicht innerhalb einer Woche nach der Vollziehung und vor Ablauf der für diese im vorhergehenden Absatz bestimmten Frist erfolgt.
 

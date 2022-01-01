@@ -785,7 +785,7 @@ Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, § 132a d
 
 # § 31 – Zustellungen in behördlichen und gerichtlichen Verfahren
 
-(1) Der dienstleistende europäische Rechtsanwalt hat einen Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen Geschäftsraum hat, zu benennen, sobald er in Verfahren vor Gerichten oder Behörden tätig wird. Die Benennung erfolgt gegenüber der Behörde oder dem Gericht. Zustellungen, die für den dienstleistenden europäischen Rechtsanwalt bestimmt sind, sind an den Zustellungsbevollmächtigten zu bewirken. An ihn kann, auch von Anwalt zu Anwalt, wie an einen Rechtsanwalt selbst zugestellt werden (§§ 174 und 195 der Zivilprozessordnung).
+(1) Der dienstleistende europäische Rechtsanwalt hat einen Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen Geschäftsraum hat, zu benennen, sobald er in Verfahren vor Gerichten oder Behörden tätig wird. Die Benennung erfolgt gegenüber der Behörde oder dem Gericht. Zustellungen, die für den dienstleistenden europäischen Rechtsanwalt bestimmt sind, sind an den Zustellungsbevollmächtigten zu bewirken. An ihn kann, auch von Anwalt zu Anwalt, wie an einen Rechtsanwalt selbst zugestellt werden (§ 173 Absatz 1 und 2, §§ 175, 195 der Zivilprozessordnung).
 
 (2) Ist ein Zustellungsbevollmächtigter nicht benannt, so gilt in den in § 28 Abs. 1 aufgeführten Verfahren der Einvernehmensanwalt als Zustellungsbevollmächtigter; kann nicht an einen Zustellungsbevollmächtigten im Geltungsbereich dieses Gesetzes zugestellt werden, so kann die Zustellung durch Aufgabe zur Post bewirkt werden (§ 184 der Zivilprozessordnung).
 

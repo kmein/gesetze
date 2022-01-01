@@ -223,7 +223,7 @@ Der Präsident oder aufsichtführende Richter wird in seinen durch dieses Gesetz
 
 (4) Jeder Richter beim Amtsgericht erledigt die ihm obliegenden Geschäfte, soweit dieses Gesetz nichts anderes bestimmt, als Einzelrichter.
 
-(5) Es können Richter kraft Auftrags verwendet werden. Richter auf Probe können verwendet werden, soweit sich aus Absatz 6, § 23b Abs. 3 Satz 2, § 23c Abs. 2 oder § 29 Abs. 1 Satz 2 nichts anderes ergibt.
+(5) Es können Richter kraft Auftrags verwendet werden. Richter auf Probe können verwendet werden, soweit sich aus Absatz 6, § 23b Absatz 3 Satz 2 bis 5, § 23c Abs. 2 oder § 29 Abs. 1 Satz 2 nichts anderes ergibt.
 
 (6) Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte in Insolvenz- und Restrukturierungssachen nicht wahrnehmen. Richter in Insolvenz- und Restrukturierungssachen sollen, soweit dies zur Erfüllung der jeweiligen Richtergeschäftsaufgabe erforderlich ist, über belegbare Kenntnisse auf den Gebieten des Insolvenzrechts, des Restrukturierungsrechts, des Handels- und Gesellschaftsrechts sowie über Grundkenntnisse der für das Insolvenz- und Restrukturierungsverfahren notwendigen Teile des Arbeits-, Sozial- und Steuerrechts und des Rechnungswesens verfügen. Einem Richter, dessen Kenntnisse auf diesen Gebieten nicht belegt sind, dürfen die Aufgaben eines Insolvenz- oder Restrukturierungsrichters nur zugewiesen werden, wenn der Erwerb der Kenntnisse alsbald zu erwarten ist.
 
@@ -315,7 +315,7 @@ Die Zuständigkeit nach Satz 1 Nummer 1 ist eine ausschließliche.
 
 (2) Werden mehrere Abteilungen für Familiensachen gebildet, so sollen alle Familiensachen, die denselben Personenkreis betreffen, derselben Abteilung zugewiesen werden. Wird eine Ehesache rechtshängig, während eine andere Familiensache, die denselben Personenkreis oder ein gemeinschaftliches Kind der Ehegatten betrifft, bei einer anderen Abteilung im ersten Rechtszug anhängig ist, ist diese von Amts wegen an die Abteilung der Ehesache abzugeben. Wird bei einer Abteilung ein Antrag in einem Verfahren nach den §§ 10 bis 12 des Internationalen Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162) anhängig, während eine Familiensache, die dasselbe Kind betrifft, bei einer anderen Abteilung im ersten Rechtszug anhängig ist, ist diese von Amts wegen an die erstgenannte Abteilung abzugeben; dies gilt nicht, wenn der Antrag offensichtlich unzulässig ist. Auf übereinstimmenden Antrag beider Elternteile sind die Regelungen des Satzes 3 auch auf andere Familiensachen anzuwenden, an denen diese beteiligt sind.
 
-(3) Die Abteilungen für Familiensachen werden mit Familienrichtern besetzt. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Familienrichters nicht wahrnehmen.
+(3) Die Abteilungen für Familiensachen werden mit Familienrichtern besetzt. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Familienrichters nicht wahrnehmen. Richter in Familiensachen sollen über belegbare Kenntnisse auf den Gebieten des Familienrechts, insbesondere des Kindschaftsrechts, des Familienverfahrensrechts und der für das Verfahren in Familiensachen notwendigen Teile des Kinder-und Jugendhilferechts sowie über belegbare Grundkenntnisse der Psychologie, insbesondere der Entwicklungspsychologie des Kindes, und der Kommunikation mit Kindern verfügen. Einem Richter, dessen Kenntnisse auf diesen Gebieten nicht belegt sind, dürfen die Aufgaben eines Familienrichters nur zugewiesen werden, wenn der Erwerb der Kenntnisse alsbald zu erwarten ist. Von den Anforderungen nach den Sätzen 3 und 4 kann bei Richtern, die nur im Rahmen eines Bereitschaftsdiensts mit der Wahrnehmung familiengerichtlicher Aufgaben befasst sind, abgewichen werden, wenn andernfalls ein ordnungsgemäßer und den betroffenen Richtern zumutbarer Betrieb des Bereitschaftsdiensts nicht gewährleistet wäre.
 
 # § 23c
 
@@ -1202,7 +1202,7 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 2. der Berufung und der Beschwerde gegen Entscheidungen der Landgerichte.
 
-(2) § 23b Abs. 1 und 2 gilt entsprechend.
+(2) § 23b Absatz 1, 2 und 3 Satz 3 und 4 gilt entsprechend.
 
 (3) In Zivilsachen sind Oberlandesgerichte ferner zuständig für die Verhandlung und Entscheidung von Musterfeststellungsverfahren nach Buch 6 der Zivilprozessordnung im ersten Rechtszug. Ein Land, in dem mehrere Oberlandesgerichte errichtet sind, kann durch Rechtsverordnung der Landesregierung einem Oberlandesgericht die Entscheidung und Verhandlung für die Bezirke mehrerer Oberlandesgerichte oder dem Obersten Landesgericht zuweisen, sofern die Zuweisung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 

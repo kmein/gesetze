@@ -139,7 +139,7 @@ Die Prüflinge sind spätestens vier Wochen vor dem Termin der mündlichen Prüf
 
 (2) Zu Beginn der mündlichen Prüfung haben sich die Prüflinge gegenüber der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses durch gültigen Personalausweis oder Reisepass auszuweisen.
 
-(3) Die mündliche Prüfung beginnt mit dem Vortrag des Prüflings zu einer notariellen Aufgabenstellung. Für den Vortrag erhalten alle an einem Tag geprüften Prüflinge dieselbe Aufgabenstellung. Das Prüfungsamt wählt die Aufgabenstellung aus den von der Aufgabenkommission erarbeiteten Vorschlägen aus und übergibt sie dem Prüfling am Prüfungstag. Nach Erhalt der Aufgabenstellung hat der Prüfling Gelegenheit, den Vortrag unter Aufsicht vorzubereiten. Die Vorbereitungszeit beträgt eine Stunde. Die Dauer des Vortrags beträgt höchstens zwölf Minuten.
+(3) Die mündliche Prüfung beginnt mit dem Vortrag des Prüflings zu einer notariellen Aufgabenstellung. Für den Vortrag erhalten alle an einem Tag geprüften Prüflinge dieselbe Aufgabenstellung. Das Prüfungsamt wählt die Aufgabenstellung aus den von der Aufgabenkommission erarbeiteten Vorschlägen aus und übergibt sie dem Prüfling am Prüfungstag. Nach Erhalt der Aufgabenstellung hat der Prüfling Gelegenheit, den Vortrag unter Aufsicht vorzubereiten. Die Vorbereitungszeit beträgt eine Stunde. Die Dauer des Vortrags beträgt höchstens zwölf Minuten. Dem Vortrag schließt sich ein kurzes Vertiefungsgespräch an.
 
 (4) Im Anschluss an die Vorträge aller Prüflinge findet das Gruppenprüfungsgespräch statt. An dem Prüfungsgespräch sollen alle für diesen Termin geladenen Prüflinge gleichzeitig teilnehmen. Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses hat darauf zu achten, dass die Befragung der Prüflinge in geeigneter Weise erfolgt und dass jeder Prüfling zu gleichen Anteilen an dem Gespräch beteiligt wird. Prüfungsgespräche sind spätestens nach Ablauf von etwa 90 Minuten durch eine angemessene Pause zu unterbrechen.
 
@@ -149,7 +149,7 @@ Die Prüflinge sind spätestens vier Wochen vor dem Termin der mündlichen Prüf
 
 # § 15 – Bewertung der mündlichen Prüfung
 
-Der Prüfungsausschuss stellt die Gesamtnote der mündlichen Prüfung fest. Bei der Ermittlung der Gesamtnote werden der Vortrag mit 20 Prozent und das Gruppenprüfungsgespräch mit 80 Prozent berücksichtigt.
+Der Prüfungsausschuss stellt die Gesamtnote der mündlichen Prüfung fest. Bei der Ermittlung der Gesamtnote werden der Vortrag mit 30 Prozent und das Gruppenprüfungsgespräch mit 70 Prozent berücksichtigt.
 
 # § 16 – Nachteilsausgleich
 

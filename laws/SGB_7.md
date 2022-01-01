@@ -2255,7 +2255,7 @@ Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
 
 § 221a
 
-Übermittlung von Daten durch die landwirtschaftliche Berufsgenossenschaft
+(weggefallen)
 
 § 221b
 
@@ -5296,9 +5296,7 @@ Die Verbände der Unfallversicherungsträger haben bis zum 31. Dezember 2026 dem
 
 (5) (weggefallen)
 
-# § 221a – Übermittlung von Daten durch die landwirtschaftliche Berufsgenossenschaft
-
-Die landwirtschaftliche Berufsgenossenschaft darf der Fachagentur Nachwachsende Rohstoffe e. V. auf deren Anfrage die bei ihr gespeicherten Namen und Anschriften von Unternehmern nach § 136 Absatz 3 Nummer 1, die einen Antrag auf waldflächenbezogene Prämien gestellt haben, sowie deren Waldflächengrößen übermitteln, soweit dies für die Prüfung von Anträgen auf waldflächenbezogene Prämien des Bundes erforderlich ist. Die Befugnis zur Übermittlung der Daten gilt bis zum 31. Dezember 2021. Das Nähere zum Verfahren der Datenübermittlung und zur Erstattung der Kosten ist in einer Verwaltungsvereinbarung zu regeln.
+# § 221a – (weggefallen)
 
 # § 221b – Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung
 

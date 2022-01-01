@@ -107,7 +107,7 @@ Langzeitarbeitslose
 
 § 19
 
-Behinderte Menschen
+Menschen mit Behinderungen
 
 § 20
 
@@ -305,7 +305,7 @@ Maßnahmen zur Aktivierung und beruflichen Eingliederung
 
 § 46
 
-Probebeschäftigung und Arbeitshilfe für behinderte Menschen
+Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen
 
 § 47
 
@@ -459,7 +459,7 @@ Berufsausbildung
 
 § 73
 
-Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen
+Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen
 
 § 74
 
@@ -571,7 +571,7 @@ Höhe und Dauer der Förderung
 
 § 90
 
-Eingliederungszuschuss für behinderte und schwerbehinderte Menschen
+Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen
 
 § 91
 
@@ -753,8 +753,8 @@ Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld
 
 Siebter Abschnitt
 
-Teilhabe behinderter  
-Menschen am Arbeitsleben
+Teilhabe von Menschen mit Behinderungen  
+am Arbeitsleben
 
  
 
@@ -968,7 +968,7 @@ Zumutbare Beschäftigungen
 
 § 141
 
-Persönliche Arbeitslosmeldung
+Arbeitslosmeldung
 
 § 142
 
@@ -1374,7 +1374,11 @@ Unwirksamkeit von Vereinbarungen
 
 Behandlung von Daten
 
-§§ 299 und 300
+§ 299
+
+Informationspflicht bei grenzüberschreitender Vermittlung
+
+§ 300
 
 (weggefallen)
 
@@ -2607,11 +2611,11 @@ Von Arbeitslosigkeit bedroht sind Personen, die
 
 (3) Ergibt sich der Sachverhalt einer unschädlichen Unterbrechung üblicherweise nicht aus den Unterlagen der Arbeitsvermittlung, so reicht Glaubhaftmachung aus.
 
-# § 19 – Behinderte Menschen
+# § 19 – Menschen mit Behinderungen
 
-(1) Behindert im Sinne dieses Buches sind Menschen, deren Aussichten, am Arbeitsleben teilzuhaben oder weiter teilzuhaben, wegen Art oder Schwere ihrer Behinderung im Sinne von § 2 Abs. 1 des Neunten Buches nicht nur vorübergehend wesentlich gemindert sind und die deshalb Hilfen zur Teilhabe am Arbeitsleben benötigen, einschließlich lernbehinderter Menschen.
+(1) Menschen mit Behinderungen im Sinne dieses Buches sind Menschen, deren Aussichten, am Arbeitsleben teilzuhaben oder weiter teilzuhaben, wegen Art oder Schwere ihrer Behinderung im Sinne von § 2 Abs. 1 des Neunten Buches nicht nur vorübergehend wesentlich gemindert sind und die deshalb Hilfen zur Teilhabe am Arbeitsleben benötigen, einschließlich Menschen mit Lernbehinderungen.
 
-(2) Behinderten Menschen stehen Menschen gleich, denen eine Behinderung mit den in Absatz 1 genannten Folgen droht.
+(2) Menschen mit Behinderungen stehen Menschen gleich, denen eine Behinderung mit den in Absatz 1 genannten Folgen droht.
 
 # § 20 – Berufsrückkehrende
 
@@ -2631,7 +2635,7 @@ Träger sind natürliche oder juristische Personen oder Personengesellschaften, 
 
 (1a) Leistungen nach § 82 dürfen nur erbracht werden, wenn die berufliche Weiterbildung nicht auf ein nach § 2 Absatz 1 des Aufstiegsfortbildungsförderungsgesetzes förderfähiges Fortbildungsziel vorbereitet.
 
-(2) Allgemeine und besondere Leistungen zur Teilhabe am Arbeitsleben dürfen nur erbracht werden, sofern nicht ein anderer Rehabilitationsträger im Sinne des Neunten Buches zuständig ist. Der Eingliederungszuschuss für besonders betroffene schwerbehinderte Menschen nach § 90 Absatz 2 bis 4 und Zuschüsse zur Ausbildungsvergütung für schwerbehinderte Menschen nach § 73 dürfen auch dann erbracht werden, wenn ein anderer Leistungsträger zur Erbringung gleichartiger Leistungen gesetzlich verpflichtet ist oder, ohne gesetzlich verpflichtet zu sein, Leistungen erbringt. In diesem Fall werden die Leistungen des anderen Leistungsträgers angerechnet.
+(2) Allgemeine und besondere Leistungen zur Teilhabe am Arbeitsleben dürfen nur erbracht werden, sofern nicht ein anderer Rehabilitationsträger im Sinne des Neunten Buches zuständig ist. Dies gilt nicht für Leistungen nach den §§ 44 und 45, sofern nicht bereits der nach Satz 1 zuständige Rehabilitationsträger nach dem jeweiligen für ihn geltenden Leistungsgesetz gleichartige Leistungen erbringt. Der Eingliederungszuschuss für besonders betroffene schwerbehinderte Menschen nach § 90 Absatz 2 bis 4 und Zuschüsse zur Ausbildungsvergütung für schwerbehinderte Menschen nach § 73 dürfen auch dann erbracht werden, wenn ein anderer Leistungsträger zur Erbringung gleichartiger Leistungen gesetzlich verpflichtet ist oder, ohne gesetzlich verpflichtet zu sein, Leistungen erbringt. In diesem Fall werden die Leistungen des anderen Leistungsträgers angerechnet.
 
 (3) Soweit Leistungen zur Förderung der Berufsausbildung und zur Förderung der beruflichen Weiterbildung der Sicherung des Lebensunterhaltes dienen, gehen sie der Ausbildungsbeihilfe nach § 44 des Strafvollzugsgesetzes vor. Die Leistungen für Gefangene dürfen die Höhe der Ausbildungsbeihilfe nach § 44 des Strafvollzugsgesetzes nicht übersteigen. Sie werden den Gefangenen nach einer Förderzusage der Agentur für Arbeit in Vorleistung von den Ländern erbracht und von der Bundesagentur erstattet.
 
@@ -2647,7 +2651,15 @@ Träger sind natürliche oder juristische Personen oder Personengesellschaften, 
 
 5. Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts,
 
-6. Leistungen der Teilhabe behinderter Menschen am Arbeitsleben nach den §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe, § 116 Absatz 1, 2 und 6, den §§ 117, 118 Satz 1 Nummer 1 und 3 sowie den §§ 119 bis 121, 127 und 128.
+6. Leistungen zur Teilhabe von Menschen mit Behinderungen am Arbeitsleben nach
+
+a) den §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2 und 6,
+
+b) § 117 Absatz 1 und § 118 Nummer 1 und 3 für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung,
+
+c) den §§ 119 bis 121,
+
+d) den §§ 127 und 128 für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung.
 
 Sofern die Bundesagentur für die Erbringung von Leistungen nach § 35 besondere Dienststellen nach § 367 Abs. 2 Satz 2 eingerichtet oder zusätzliche Vermittlungsdienstleistungen agenturübergreifend organisiert hat, erbringt sie die dort angebotenen Vermittlungsleistungen abweichend von Satz 1 auch an oder für erwerbsfähige Leistungsberechtigte im Sinne des Zweiten Buches. Eine Leistungserbringung an oder für erwerbsfähige Leistungsberechtigte im Sinne des Zweiten Buches nach den Grundsätzen der §§ 88 bis 92 des Zehnten Buches bleibt ebenfalls unberührt. Die Agenturen für Arbeit dürfen Aufträge nach Satz 3 zur Ausbildungsvermittlung nur aus wichtigem Grund ablehnen. Satz 1 gilt nicht für erwerbsfähige Leistungsberechtigte im Sinne des Zweiten Buches, die einen Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld haben; die Sätze 2 bis 4 finden insoweit keine Anwendung.
 
@@ -2987,7 +2999,9 @@ Die besonderen Bedürfnisse behinderter und schwerbehinderter Menschen sollen an
 
 # § 38 – Rechte und Pflichten der Ausbildung- und Arbeitsuchenden
 
-(1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind verpflichtet, sich spätestens drei Monate vor dessen Beendigung persönlich bei der Agentur für Arbeit arbeitsuchend zu melden. Liegen zwischen der Kenntnis des Beendigungszeitpunktes und der Beendigung des Ausbildungs- oder Arbeitsverhältnisses weniger als drei Monate, haben sie sich innerhalb von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Zur Wahrung der Frist nach den Sätzen 1 und 2 reicht eine Anzeige unter Angabe der persönlichen Daten und des Beendigungszeitpunktes aus, wenn die persönliche Meldung nach terminlicher Vereinbarung nachgeholt wird. Die Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis. Im Übrigen gelten für Ausbildung- und Arbeitsuchende die Meldepflichten im Leistungsverfahren nach den §§ 309 und 310 entsprechend.
+(1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind verpflichtet, sich spätestens drei Monate vor dessen Beendigung bei der Agentur für Arbeit unter Angabe der persönlichen Daten und des Beendigungszeitpunktes des Ausbildungs- oder Arbeitsverhältnisses arbeitsuchend zu melden. Liegen zwischen der Kenntnis des Beendigungszeitpunktes und der Beendigung des Ausbildungs- oder Arbeitsverhältnisses weniger als drei Monate, haben sie sich innerhalb von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis. Im Übrigen gelten für Ausbildung- und Arbeitsuchende die Meldepflichten im Leistungsverfahren nach den §§ 309 und 310 entsprechend.
+
+(1a) Die zuständige Agentur für Arbeit soll mit der nach Absatz 1 arbeitsuchend gemeldeten Person unverzüglich nach der Arbeitsuchendmeldung ein erstes Beratungs- und Vermittlungsgespräch führen, das persönlich oder bei Einvernehmen zwischen Agentur für Arbeit und der arbeitsuchenden Person auch per Videotelefonie erfolgen kann.
 
 (2) Die Agentur für Arbeit hat unverzüglich nach der Meldung nach Absatz 1 auch Berufsberatung durchzuführen.
 
@@ -3117,7 +3131,7 @@ Der ausgewählte Träger nach Satz 3 Nummer 1 und der ausgewählte Arbeitgeber n
 
 (5) Die Agentur für Arbeit soll die Entscheidung über die Ausgabe eines Aktivierungs- und Vermittlungsgutscheins nach Absatz 4 von der Eignung und den persönlichen Verhältnissen der Förderberechtigten oder der örtlichen Verfügbarkeit von Arbeitsmarktdienstleistungen abhängig machen.
 
-(6) Die Vergütung richtet sich nach Art und Umfang der Maßnahme und kann aufwands- oder erfolgsbezogen gestaltet sein; eine Pauschalierung ist zulässig. § 83 Absatz 2 gilt entsprechend. Bei einer erfolgreichen Arbeitsvermittlung in versicherungspflichtige Beschäftigung durch einen Träger nach Absatz 4 Satz 3 Nummer 2 beträgt die Vergütung 2 000 Euro. Bei Langzeitarbeitslosen und behinderten Menschen nach § 2 Absatz 1 des Neunten Buches kann die Vergütung auf eine Höhe von bis zu 2 500 Euro festgelegt werden. Die Vergütung nach den Sätzen 3 und 4 wird in Höhe von 1 000 Euro nach einer sechswöchigen und der Restbetrag nach einer sechsmonatigen Dauer des Beschäftigungsverhältnisses gezahlt. Eine erfolgsbezogene Vergütung für die Arbeitsvermittlung in versicherungspflichtige Beschäftigung ist ausgeschlossen, wenn das Beschäftigungsverhältnis
+(6) Die Vergütung richtet sich nach Art und Umfang der Maßnahme und kann aufwands- oder erfolgsbezogen gestaltet sein; eine Pauschalierung ist zulässig. § 83 Absatz 2 gilt entsprechend. Bei einer erfolgreichen Arbeitsvermittlung in versicherungspflichtige Beschäftigung durch einen Träger nach Absatz 4 Satz 3 Nummer 2 beträgt die Vergütung 2 500 Euro. Bei Langzeitarbeitslosen und Menschen mit Behinderungen nach § 2 Absatz 1 des Neunten Buches kann die Vergütung auf eine Höhe von bis zu 3 000 Euro festgelegt werden. Die Vergütung nach den Sätzen 3 und 4 wird in Höhe von 1 250 Euro nach einer sechswöchigen und der Restbetrag nach einer sechsmonatigen Dauer des Beschäftigungsverhältnisses gezahlt. Eine erfolgsbezogene Vergütung für die Arbeitsvermittlung in versicherungspflichtige Beschäftigung ist ausgeschlossen, wenn das Beschäftigungsverhältnis
 
 1. von vornherein auf eine Dauer von weniger als drei Monaten begrenzt ist oder
 
@@ -3129,11 +3143,11 @@ Der ausgewählte Träger nach Satz 3 Nummer 1 und der ausgewählte Arbeitgeber n
 
 (9) Die Absätze 1 bis 8 gelten entsprechend für die in § 39a genannten Personen.
 
-# § 46 – Probebeschäftigung und Arbeitshilfe für behinderte Menschen
+# § 46 – Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen
 
-(1) Arbeitgebern können die Kosten für eine befristete Probebeschäftigung behinderter, schwerbehinderter und ihnen gleichgestellter Menschen im Sinne des § 2 des Neunten Buches bis zu einer Dauer von drei Monaten erstattet werden, wenn dadurch die Möglichkeit einer Teilhabe am Arbeitsleben verbessert wird oder eine vollständige und dauerhafte Teilhabe am Arbeitsleben zu erreichen ist.
+(1) Arbeitgebern können die Kosten für eine befristete Probebeschäftigung von Menschen mit Behinderungen sowie schwerbehinderter und ihnen gleichgestellter Menschen im Sinne des § 2 des Neunten Buches bis zu einer Dauer von drei Monaten erstattet werden, wenn dadurch die Möglichkeit einer Teilhabe am Arbeitsleben verbessert wird oder eine vollständige und dauerhafte Teilhabe am Arbeitsleben zu erreichen ist.
 
-(2) Arbeitgeber können Zuschüsse für eine behindertengerechte Ausgestaltung von Ausbildungs- oder Arbeitsplätzen erhalten, soweit dies erforderlich ist, um die dauerhafte Teilhabe am Arbeitsleben zu erreichen oder zu sichern und eine entsprechende Verpflichtung des Arbeitgebers nach dem Teil 3 des Neunten Buches nicht besteht.
+(2) Arbeitgeber können Zuschüsse für eine behinderungsgerechte Ausgestaltung von Ausbildungs- oder Arbeitsplätzen erhalten, soweit dies erforderlich ist, um die dauerhafte Teilhabe am Arbeitsleben zu erreichen oder zu sichern und eine entsprechende Verpflichtung des Arbeitgebers nach dem Teil 3 des Neunten Buches nicht besteht.
 
 # § 47 – Verordnungsermächtigung
 
@@ -3437,9 +3451,9 @@ Monatliche Förderungsbeträge der Berufsausbildungsbeihilfe, die nicht volle Eu
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über Voraussetzungen, Umfang und Verfahren der Förderung zu bestimmen.
 
-# § 73 – Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen
+# § 73 – Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen
 
-(1) Arbeitgeber können für die betriebliche Aus- oder Weiterbildung von behinderten und schwerbehinderten Menschen im Sinne des § 187 Absatz 1 Nummer 3 Buchstabe e des Neunten Buches durch Zuschüsse zur Ausbildungsvergütung oder zu einer vergleichbaren Vergütung gefördert werden, wenn die Aus- oder Weiterbildung sonst nicht zu erreichen ist.
+(1) Arbeitgeber können für die betriebliche Aus- oder Weiterbildung von Menschen mit Behinderungen und schwerbehinderten Menschen im Sinne des § 187 Absatz 1 Nummer 3 Buchstabe e des Neunten Buches durch Zuschüsse zur Ausbildungsvergütung oder zu einer vergleichbaren Vergütung gefördert werden, wenn die Aus- oder Weiterbildung sonst nicht zu erreichen ist.
 
 (2) Die monatlichen Zuschüsse sollen regelmäßig 60 Prozent, bei schwerbehinderten Menschen 80 Prozent der monatlichen Ausbildungsvergütung für das letzte Ausbildungsjahr oder der vergleichbaren Vergütung einschließlich des darauf entfallenden pauschalierten Arbeitgeberanteils am Gesamtsozialversicherungsbeitrag nicht übersteigen. In begründeten Ausnahmefällen können Zuschüsse jeweils bis zur Höhe der Ausbildungsvergütung für das letzte Ausbildungsjahr erbracht werden.
 
@@ -3757,9 +3771,9 @@ Arbeitgeber können zur Eingliederung von Arbeitnehmerinnen und Arbeitnehmern, d
 
 Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu zwölf Monate betragen. Bei Arbeitnehmerinnen und Arbeitnehmern, die das 50. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36 Monate betragen, wenn die Förderung bis zum 31. Dezember 2023 begonnen hat.
 
-# § 90 – Eingliederungszuschuss für behinderte und schwerbehinderte Menschen
+# § 90 – Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen
 
-(1) Für behinderte und schwerbehinderte Menschen kann der Eingliederungszuschuss bis zu 70 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu 24 Monate betragen.
+(1) Für Menschen mit Behinderungen und schwerbehinderte Menschen kann der Eingliederungszuschuss bis zu 70 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu 24 Monate betragen.
 
 (2) Für schwerbehinderte Menschen im Sinne des § 187 Absatz 1 Nummer 3 Buchstabe a bis d des Neunten Buches und ihnen nach § 2 Absatz 3 des Neunten Buches von den Agenturen für Arbeit gleichgestellte behinderte Menschen, deren Vermittlung wegen in ihrer Person liegender Gründe erschwert ist (besonders betroffene schwerbehinderte Menschen), kann der Eingliederungszuschuss bis zu 70 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu 60 Monate betragen. Die Förderdauer kann bei besonders betroffenen schwerbehinderten Menschen, die das 55. Lebensjahr vollendet haben, bis zu 96 Monate betragen.
 
@@ -4073,7 +4087,7 @@ Die Erstattung erfolgt für die Zeit, in der die Arbeitnehmerin oder der Arbeitn
 
 3. eine vollständige oder teilweise Erstattung der von den Arbeitgebern allein zu tragenden Beiträge zur Sozialversicherung für Arbeitnehmerinnen und Arbeitnehmer, die Kurzarbeitergeld beziehen, einzuführen.
 
-Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 31. Dezember 2021 außer Kraft.
+Die Verordnung ist zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 31. März 2022 außer Kraft.
 
 # § 110 – Transfermaßnahmen
 
@@ -4181,13 +4195,13 @@ Ein Anspruch auf Arbeitslosengeld bei beruflicher Weiterbildung nach § 144 ruht
 
 # § 112 – Teilhabe am Arbeitsleben
 
-(1) Für behinderte Menschen können Leistungen zur Förderung der Teilhabe am Arbeitsleben erbracht werden, um ihre Erwerbsfähigkeit zu erhalten, zu verbessern, herzustellen oder wiederherzustellen und ihre Teilhabe am Arbeitsleben zu sichern, soweit Art oder Schwere der Behinderung dies erfordern.
+(1) Für Menschen mit Behinderungen können Leistungen zur Förderung der Teilhabe am Arbeitsleben erbracht werden, um ihre Erwerbsfähigkeit zu erhalten, zu verbessern, herzustellen oder wiederherzustellen und ihre Teilhabe am Arbeitsleben zu sichern, soweit Art oder Schwere der Behinderung dies erfordern.
 
 (2) Bei der Auswahl der Leistungen sind Eignung, Neigung, bisherige Tätigkeit sowie Lage und Entwicklung des Arbeitsmarktes angemessen zu berücksichtigen. Soweit erforderlich, ist auch die berufliche Eignung abzuklären oder eine Arbeitserprobung durchzuführen.
 
 # § 113 – Leistungen zur Teilhabe
 
-(1) Für behinderte Menschen können erbracht werden
+(1) Für Menschen mit Behinderungen können erbracht werden
 
 1. allgemeine Leistungen sowie
 
@@ -4197,7 +4211,9 @@ Ein Anspruch auf Arbeitslosengeld bei beruflicher Weiterbildung nach § 144 ruht
 
 # § 114 – Leistungsrahmen
 
-Die allgemeinen und besonderen Leistungen richten sich nach den Vorschriften des Zweiten bis Fünften Abschnitts, soweit nachfolgend nichts Abweichendes bestimmt ist.
+(1) Die allgemeinen und besonderen Leistungen richten sich nach den Vorschriften des Zweiten bis Fünften Abschnitts, soweit nachfolgend nichts Abweichendes bestimmt ist.
+
+(2) Die allgemeinen und besonderen Leistungen zur Teilhabe am Arbeitsleben werden auf Antrag durch ein Persönliches Budget erbracht; § 29 des Neunten Buches gilt entsprechend.
 
 # § 115 – Leistungen
 
@@ -4213,39 +4229,39 @@ Die allgemeinen Leistungen umfassen
 
 # § 116 – Besonderheiten
 
-(1) Leistungen zur Aktivierung und beruflichen Eingliederung können auch erbracht werden, wenn behinderte Menschen nicht arbeitslos sind und durch diese Leistungen eine dauerhafte Teilhabe am Arbeitsleben erreicht werden kann.
+(1) Leistungen zur Aktivierung und beruflichen Eingliederung können auch erbracht werden, wenn Menschen mit Behinderungen nicht arbeitslos sind und durch diese Leistungen eine dauerhafte Teilhabe am Arbeitsleben erreicht werden kann.
 
-(2) Förderungsfähig sind auch berufliche Aus- und Weiterbildungen, die im Rahmen des Berufsbildungsgesetzes oder der Handwerksordnung abweichend von den Ausbildungsordnungen für staatlich anerkannte Ausbildungsberufe oder in Sonderformen für behinderte Menschen durchgeführt werden.
+(2) Förderungsfähig sind auch berufliche Aus- und Weiterbildungen, die im Rahmen des Berufsbildungsgesetzes oder der Handwerksordnung abweichend von den Ausbildungsordnungen für staatlich anerkannte Ausbildungsberufe oder in Sonderformen für Menschen mit Behinderungen durchgeführt werden.
 
-(3) Ein Anspruch auf Berufsausbildungsbeihilfe besteht auch, wenn der behinderte Mensch während der Berufsausbildung im Haushalt der Eltern oder eines Elternteils wohnt. In diesem Fall wird der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zugrunde gelegt. Für die Unterkunft wird der jeweils geltende Bedarf nach § 13 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
+(3) Ein Anspruch auf Berufsausbildungsbeihilfe besteht auch, wenn der Mensch mit Behinderungen während der Berufsausbildung im Haushalt der Eltern oder eines Elternteils wohnt. In diesem Fall wird der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zugrunde gelegt. Für die Unterkunft wird der jeweils geltende Bedarf nach § 13 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
 
-(4) Ein Anspruch auf Berufsausbildungsbeihilfe besteht auch, wenn der behinderte Mensch, der das 18. Lebensjahr noch nicht vollendet hat, außerhalb des Haushalts der Eltern oder eines Elternteils wohnt, auch wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus in angemessener Zeit zu erreichen ist. In diesem Fall wird der Bedarf nach Absatz 3 Satz 2 und 3 zugrunde gelegt.
+(4) Ein Anspruch auf Berufsausbildungsbeihilfe besteht auch, wenn der Mensch mit Behinderungen, der das 18. Lebensjahr noch nicht vollendet hat, außerhalb des Haushalts der Eltern oder eines Elternteils wohnt, auch wenn die Ausbildungsstätte von der Wohnung der Eltern oder eines Elternteils aus in angemessener Zeit zu erreichen ist. In diesem Fall wird der Bedarf nach Absatz 3 Satz 2 und 3 zugrunde gelegt.
 
 (5) Eine Verlängerung der Ausbildung über das vorgesehene Ausbildungsende hinaus, eine Wiederholung der Ausbildung ganz oder in Teilen oder eine erneute Berufsausbildung wird gefördert, wenn Art oder Schwere der Behinderung es erfordern und ohne die Förderung eine dauerhafte Teilhabe am Arbeitsleben nicht erreicht werden kann.
 
-(6) Berufliche Weiterbildung kann auch gefördert werden, wenn behinderte Menschen
+(6) Berufliche Weiterbildung kann auch gefördert werden, wenn Menschen mit Behinderungen
 
 1. nicht arbeitslos sind,
 
 2. als Arbeitnehmerinnen oder Arbeitnehmer ohne Berufsabschluss noch nicht drei Jahre beruflich tätig gewesen sind oder
 
-3. einer längeren Förderung als nichtbehinderte Menschen oder einer erneuten Förderung bedürfen, um am Arbeitsleben teilzuhaben oder weiter teilzuhaben.
+3. einer längeren Förderung als Menschen ohne Behinderungen oder einer erneuten Förderung bedürfen, um am Arbeitsleben teilzuhaben oder weiter teilzuhaben.
 
 Förderungsfähig sind auch schulische Ausbildungen, deren Abschluss für die Weiterbildung erforderlich ist.
 
-(7) Ein Gründungszuschuss kann auch geleistet werden, wenn der behinderte Mensch einen Anspruch von weniger als 150 Tagen oder keinen Anspruch auf Arbeitslosengeld hat.
+(7) Ein Gründungszuschuss kann auch geleistet werden, wenn der Mensch mit Behinderungen einen Anspruch von weniger als 150 Tagen oder keinen Anspruch auf Arbeitslosengeld hat.
 
 (+++ § 116: Zur Anwendung vgl. §§ 445 u. 445a +++)
 
 # § 117 – Grundsatz
 
-(1) Die besonderen Leistungen sind anstelle der allgemeinen Leistungen insbesondere zur Förderung der beruflichen Aus- und Weiterbildung, einschließlich Berufsvorbereitung, sowie blindentechnischer und vergleichbarer spezieller Grundausbildungen zu erbringen, wenn
+(1) Die besonderen Leistungen sind anstelle der allgemeinen Leistungen insbesondere zur Förderung der beruflichen Aus- und Weiterbildung, einschließlich Berufsvorbereitung, sowie der wegen der Behinderung erforderlichen Grundausbildung zu erbringen, wenn
 
 1. Art oder Schwere der Behinderung oder die Sicherung der Teilhabe am Arbeitsleben die Teilnahme an
 
-a) einer Maßnahme in einer besonderen Einrichtung für behinderte Menschen oder
+a) einer Maßnahme in einer besonderen Einrichtung für Menschen mit Behinderungen oder
 
-b) einer sonstigen, auf die besonderen Bedürfnisse behinderter Menschen ausgerichteten Maßnahme
+b) einer sonstigen, auf die besonderen Bedürfnisse von Menschen mit Behinderungen ausgerichteten Maßnahme
 
 unerlässlich machen oder
 
@@ -4253,7 +4269,7 @@ unerlässlich machen oder
 
 2. die allgemeinen Leistungen die wegen Art oder Schwere der Behinderung erforderlichen Leistungen nicht oder nicht im erforderlichen Umfang vorsehen.
 
-In besonderen Einrichtungen für behinderte Menschen können auch Aus- und Weiterbildungen außerhalb des Berufsbildungsgesetzes und der Handwerksordnung gefördert werden.
+In besonderen Einrichtungen für Menschen mit Behinderungen können auch Aus- und Weiterbildungen außerhalb des Berufsbildungsgesetzes und der Handwerksordnung gefördert werden.
 
 (2) Leistungen im Eingangsverfahren und Berufsbildungsbereich werden von anerkannten Werkstätten für behinderte Menschen oder anderen Leistungsanbietern nach den §§ 57, 60, 61a und 62 des Neunten Buches erbracht.
 
@@ -4267,41 +4283,39 @@ Die besonderen Leistungen umfassen
 
 3. die Übernahme der Teilnahmekosten für eine Maßnahme.
 
-Die Leistungen werden auf Antrag durch ein Persönliches Budget erbracht; § 29 des Neunten Buches gilt entsprechend.
-
 # § 119 – Übergangsgeld
 
-Behinderte Menschen haben Anspruch auf Übergangsgeld, wenn
+Menschen mit Behinderungen haben Anspruch auf Übergangsgeld, wenn
 
 1. die Voraussetzung der Vorbeschäftigungszeit für das Übergangsgeld erfüllt ist und
 
 2. sie an einer Maßnahme der Berufsausbildung, der Berufsvorbereitung einschließlich einer wegen der Behinderung erforderlichen Grundausbildung, der individuellen betrieblichen Qualifizierung im Rahmen der Unterstützten Beschäftigung nach § 55 des Neunten Buches, einer Maßnahme im Eingangsverfahren oder Berufsbildungsbereich einer Werkstatt für behinderte Menschen oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches oder an einer Maßnahme der beruflichen Weiterbildung teilnehmen, für die die besonderen Leistungen erbracht werden.
 
-Im Übrigen gelten die Vorschriften des Kapitels 11 des Teils 1 des Neunten Buches, soweit in diesem Buch nichts Abweichendes bestimmt ist. Besteht bei Teilnahme an einer Maßnahme, für die die allgemeinen Leistungen erbracht werden, kein Anspruch auf Arbeitslosengeld bei beruflicher Weiterbildung, erhalten die behinderten Menschen Übergangsgeld in Höhe des Arbeitslosengeldes, wenn sie bei Teilnahme an einer Maßnahme, für die die besonderen Leistungen erbracht werden, Übergangsgeld erhalten würden.
+Im Übrigen gelten die Vorschriften des Kapitels 11 des Teils 1 des Neunten Buches, soweit in diesem Buch nichts Abweichendes bestimmt ist. Besteht bei Teilnahme an einer Maßnahme, für die die allgemeinen Leistungen erbracht werden, kein Anspruch auf Arbeitslosengeld bei beruflicher Weiterbildung, erhalten Menschen mit Behinderungen Übergangsgeld in Höhe des Arbeitslosengeldes, wenn sie bei Teilnahme an einer Maßnahme, für die die besonderen Leistungen erbracht werden, Übergangsgeld erhalten würden.
 
 # § 120 – Vorbeschäftigungszeit für das Übergangsgeld
 
-(1) Die Voraussetzung der Vorbeschäftigungszeit für das Übergangsgeld ist erfüllt, wenn der behinderte Mensch innerhalb der letzten drei Jahre vor Beginn der Teilnahme
+(1) Die Voraussetzung der Vorbeschäftigungszeit für das Übergangsgeld ist erfüllt, wenn der Mensch mit Behinderungen innerhalb der letzten drei Jahre vor Beginn der Teilnahme
 
 1. mindestens zwölf Monate in einem Versicherungspflichtverhältnis gestanden hat oder
 
 2. die Voraussetzungen für einen Anspruch auf Arbeitslosengeld erfüllt und Leistungen beantragt hat.
 
-(2) Der Zeitraum von drei Jahren gilt nicht für behinderte Berufsrückkehrende. Er verlängert sich um die Dauer einer Beschäftigung als Arbeitnehmerin oder Arbeitnehmer im Ausland, die für die weitere Ausübung des Berufes oder für den beruflichen Aufstieg nützlich und üblich ist, längstens jedoch um zwei Jahre.
+(2) Der Zeitraum von drei Jahren gilt nicht für Berufsrückkehrende mit Behinderungen. Er verlängert sich um die Dauer einer Beschäftigung als Arbeitnehmerin oder Arbeitnehmer im Ausland, die für die weitere Ausübung des Berufes oder für den beruflichen Aufstieg nützlich und üblich ist, längstens jedoch um zwei Jahre.
 
 # § 121 – Übergangsgeld ohne Vorbeschäftigungszeit
 
-Ein behinderter Mensch kann auch dann Übergangsgeld erhalten, wenn die Voraussetzung der Vorbeschäftigungszeit nicht erfüllt ist, jedoch innerhalb des letzten Jahres vor Beginn der Teilnahme
+Ein Mensch mit Behinderungen kann auch dann Übergangsgeld erhalten, wenn die Voraussetzung der Vorbeschäftigungszeit nicht erfüllt ist, jedoch innerhalb des letzten Jahres vor Beginn der Teilnahme
 
-1. durch den behinderten Menschen ein Berufsausbildungsabschluss auf Grund einer Zulassung zur Prüfung nach § 43 Absatz 2 des Berufsbildungsgesetzes oder § 36 Absatz 2 der Handwerksordnung erworben worden ist oder
+1. durch den Menschen mit Behinderungen ein Berufsausbildungsabschluss auf Grund einer Zulassung zur Prüfung nach § 43 Absatz 2 des Berufsbildungsgesetzes oder § 36 Absatz 2 der Handwerksordnung erworben worden ist oder
 
 2. sein Prüfungszeugnis auf Grund einer Rechtsverordnung nach § 50 Absatz 1 des Berufsbildungsgesetzes oder § 40 Absatz 1 der Handwerksordnung dem Zeugnis über das Bestehen der Abschlussprüfung in einem nach dem Berufsbildungsgesetz oder der Handwerksordnung anerkannten Ausbildungsberuf gleichgestellt worden ist.
 
-Der Zeitraum von einem Jahr verlängert sich um Zeiten, in denen der behinderte Mensch nach dem Erwerb des Prüfungszeugnisses bei der Agentur für Arbeit arbeitslos gemeldet war.
+Der Zeitraum von einem Jahr verlängert sich um Zeiten, in denen der Mensch mit Behinderungen nach dem Erwerb des Prüfungszeugnisses bei der Agentur für Arbeit arbeitslos gemeldet war.
 
 # § 122 – Ausbildungsgeld
 
-(1) Behinderte Menschen haben Anspruch auf Ausbildungsgeld während
+(1) Menschen mit Behinderungen haben Anspruch auf Ausbildungsgeld während
 
 1. einer Berufsausbildung oder berufsvorbereitenden Bildungsmaßnahme einschließlich einer Grundausbildung,
 
@@ -4319,7 +4333,7 @@ Bei einer Berufsausbildung und bei einer individuellen betrieblichen Qualifizier
 
 1. bei Unterbringung im Haushalt der Eltern oder eines Elternteils der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zuzüglich des jeweils geltenden Bedarfs für die Unterkunft nach § 13 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes,
 
-2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für behinderte Menschen 119 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
+2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 119 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
 
 3. bei anderweitiger Unterbringung der jeweils geltende Bedarf nach § 13 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes zuzüglich des jeweils geltenden Bedarfs für die Unterkunft nach § 13 Absatz 2 Nummer 2 des Bundesausbildungsförderungsgesetzes; § 128 ist mit Ausnahme der Erstattung behinderungsbedingter Mehraufwendungen nicht anzuwenden.
 
@@ -4333,7 +4347,7 @@ Bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung wird folgend
 
 1. bei Unterbringung im Haushalt der Eltern oder eines Elternteils der jeweils geltende Bedarf nach § 12 Absatz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes,
 
-2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für behinderte Menschen 119 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
+2. bei Unterbringung in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen 119 Euro monatlich, wenn die Kosten für Unterbringung und Verpflegung von der Agentur für Arbeit oder einem anderen Leistungsträger übernommen werden,
 
 3. bei anderweitiger Unterbringung der jeweils geltende Bedarf nach § 12 Absatz 2 Nummer 1 des Bundesausbildungsförderungsgesetzes; § 128 ist mit Ausnahme der Erstattung behinderungsbedingter Mehraufwendungen nicht anzuwenden.
 
@@ -4347,13 +4361,13 @@ Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkst
 
 # § 126 – Einkommensanrechnung
 
-(1) Das Einkommen, das ein behinderter Mensch während einer Maßnahme in einer anerkannten Werkstatt für behinderte Menschen oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches erzielt, wird nicht auf den Bedarf angerechnet.
+(1) Das Einkommen, das ein Mensch mit Behinderungen während einer Maßnahme in einer anerkannten Werkstatt für behinderte Menschen oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches erzielt, wird nicht auf den Bedarf angerechnet.
 
 (2) Anrechnungsfrei bei der Einkommensanrechnung bleibt im Übrigen das Einkommen
 
-1. des behinderten Menschen aus Waisenrenten, Waisengeld oder aus Unterhaltsleistungen bis zu 277 Euro monatlich,
+1. des Menschen mit Behinderungen aus Waisenrenten, Waisengeld oder aus Unterhaltsleistungen bis zu 277 Euro monatlich,
 
-2. der Eltern bis zu 3 637 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der behinderte Mensch lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 266 Euro monatlich und
+2. der Eltern bis zu 3 637 Euro monatlich, des verwitweten Elternteils oder, bei getrennt lebenden Eltern, das Einkommen des Elternteils, bei dem der Mensch mit Behinderungen lebt, ohne Anrechnung des Einkommens des anderen Elternteils, bis zu 2 266 Euro monatlich und
 
 3. der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners bis zu 2 266 Euro monatlich.
 
@@ -4367,7 +4381,7 @@ Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich anerkannter Werkst
 
 # § 128 – Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger Unterbringung
 
-Sind behinderte Menschen auswärtig untergebracht, aber nicht in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für behinderte Menschen mit voller Verpflegung, so wird ein Betrag nach § 86 zuzüglich der behinderungsbedingten Mehraufwendungen erbracht.
+Sind Menschen mit Behinderungen auswärtig untergebracht, aber nicht in einem Wohnheim, einem Internat oder einer besonderen Einrichtung für Menschen mit Behinderungen mit voller Verpflegung, so wird ein Betrag nach § 86 zuzüglich der behinderungsbedingten Mehraufwendungen erbracht.
 
 # § 129 – Anordnungsermächtigung
 
@@ -4501,17 +4515,19 @@ Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der 
 
 (5) Eine Beschäftigung ist nicht schon deshalb unzumutbar, weil sie befristet ist, vorübergehend eine getrennte Haushaltsführung erfordert oder nicht zum Kreis der Beschäftigungen gehört, für die die Arbeitnehmerin oder der Arbeitnehmer ausgebildet ist oder die sie oder er bisher ausgeübt hat.
 
-# § 141 – Persönliche Arbeitslosmeldung
+# § 141 – Arbeitslosmeldung
 
-(1) Die oder der Arbeitslose hat sich persönlich bei der zuständigen Agentur für Arbeit arbeitslos zu melden. Eine Meldung ist auch zulässig, wenn die Arbeitslosigkeit noch nicht eingetreten, der Eintritt der Arbeitslosigkeit aber innerhalb der nächsten drei Monate zu erwarten ist.
+(1) Die oder der Arbeitslose hat sich elektronisch im Fachportal der Bundesagentur oder persönlich bei der zuständigen Agentur für Arbeit arbeitslos zu melden. Das in Satz 1 genannte elektronische Verfahren muss die Voraussetzungen des § 36a Absatz 2 Satz 4 Nummer 1 in Verbindung mit Satz 5 erster Halbsatz des Ersten Buches erfüllen. Eine Meldung ist auch zulässig, wenn die Arbeitslosigkeit noch nicht eingetreten, der Eintritt der Arbeitslosigkeit aber innerhalb der nächsten drei Monate zu erwarten ist.
 
-(2) Die Wirkung der Meldung erlischt
+(2) Ist die zuständige Agentur für Arbeit am ersten Tag der Beschäftigungslosigkeit der oder des Arbeitslosen nicht dienstbereit, so wirkt eine Meldung an dem nächsten Tag, an dem die Agentur für Arbeit dienstbereit ist, auf den Tag zurück, an dem die Agentur für Arbeit nicht dienstbereit war.
+
+(3) Die Wirkung der Meldung erlischt
 
 1. bei einer mehr als sechswöchigen Unterbrechung der Arbeitslosigkeit,
 
 2. mit der Aufnahme der Beschäftigung, selbständigen Tätigkeit, Tätigkeit als mithelfende Familienangehörige oder als mithelfender Familienangehöriger, wenn die oder der Arbeitslose diese der Agentur für Arbeit nicht unverzüglich mitgeteilt hat.
 
-(3) Ist die zuständige Agentur für Arbeit am ersten Tag der Beschäftigungslosigkeit der oder des Arbeitslosen nicht dienstbereit, so wirkt eine persönliche Meldung an dem nächsten Tag, an dem die Agentur für Arbeit dienstbereit ist, auf den Tag zurück, an dem die Agentur für Arbeit nicht dienstbereit war.
+(4) Die zuständige Agentur für Arbeit soll mit der oder dem Arbeitslosen unverzüglich nach Eintritt der Arbeitslosigkeit ein persönliches Beratungs- und Vermittlungsgespräch führen. Dies ist entbehrlich, wenn das persönliche Beratungs- und Vermittlungsgespräch bereits in zeitlicher Nähe vor Eintritt der Arbeitslosigkeit, in der Regel innerhalb von vier Wochen, vor Eintritt der Arbeitslosigkeit geführt worden ist.
 
 # § 142 – Anwartschaftszeit
 
@@ -4541,7 +4557,7 @@ gilt bis zum 31. Dezember 2022, dass die Anwartschaftszeit sechs Monate beträgt
 
 1. bei Eintritt in die Maßnahme einen Anspruch auf Arbeitslosengeld bei Arbeitslosigkeit hätte, der weder ausgeschöpft noch erloschen ist, oder
 
-2. die Anwartschaftszeit im Fall von Arbeitslosigkeit am Tag des Eintritts in die Maßnahme der beruflichen Weiterbildung erfüllt hätte; insoweit gilt der Tag des Eintritts in die Maßnahme als Tag der persönlichen Arbeitslosmeldung.
+2. die Anwartschaftszeit im Fall von Arbeitslosigkeit am Tag des Eintritts in die Maßnahme der beruflichen Weiterbildung erfüllt hätte; insoweit gilt der Tag des Eintritts in die Maßnahme als Tag der Arbeitslosmeldung.
 
 # § 145 – Minderung der Leistungsfähigkeit
 
@@ -5501,9 +5517,9 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung besti
 
 (1) Ein Vertrag, nach dem sich ein Vermittler verpflichtet, einer oder einem Arbeitsuchenden eine Arbeitsstelle zu vermitteln, bedarf der schriftlichen Form. In dem Vertrag ist insbesondere die Vergütung des Vermittlers anzugeben. Zu den Leistungen der Vermittlung gehören auch alle Leistungen, die zur Vorbereitung und Durchführung der Vermittlung erforderlich sind, insbesondere die Feststellung der Kenntnisse der oder des Arbeitsuchenden sowie die mit der Vermittlung verbundene Berufsberatung. Der Vermittler hat der oder dem Arbeitsuchenden den Vertragsinhalt in Textform mitzuteilen.
 
-(2) Die oder der Arbeitsuchende ist zur Zahlung der Vergütung nach Absatz 3 nur verpflichtet, wenn infolge der Vermittlung des Vermittlers der Arbeitsvertrag zustande gekommen ist. Der Vermittler darf keine Vorschüsse auf die Vergütungen verlangen oder entgegennehmen.
+(2) Die oder der Arbeitsuchende ist zur Zahlung der Vergütung nach Absatz 3 nur verpflichtet, wenn infolge der Vermittlung des Vermittlers der Arbeitsvertrag zustande gekommen ist und der Vermittler die Arbeitsuchende oder den Arbeitsuchenden bei grenzüberschreitenden Vermittlungen entsprechend der Regelung des § 299 informiert hat. Der Vermittler darf keine Vorschüsse auf die Vergütungen verlangen oder entgegennehmen.
 
-(3) Die Vergütung einschließlich der darauf entfallenden gesetzlichen Umsatzsteuer darf 2 000 Euro nicht übersteigen, soweit nicht ein gültiger Aktivierungs- und Vermittlungsgutschein in einer abweichenden Höhe nach § 45 Absatz 6 Satz 4 vorgelegt wird oder durch eine Rechtsverordnung nach § 301 für bestimmte Berufe oder Personengruppen etwas anderes bestimmt ist. Bei der Vermittlung von Personen in Au-pair-Verhältnisse darf die Vergütung 150 Euro nicht übersteigen.
+(3) Die Vergütung einschließlich der darauf entfallenden gesetzlichen Umsatzsteuer darf 2 000 Euro nicht übersteigen, soweit nicht ein gültiger Aktivierungs- und Vermittlungsgutschein in einer abweichenden Höhe nach § 45 Absatz 6 Satz 3 und Satz 4 vorgelegt wird oder durch eine Rechtsverordnung nach § 301 für bestimmte Berufe oder Personengruppen etwas anderes bestimmt ist. Für die Vermittlung einer geringfügigen Beschäftigung nach § 8 des Vierten Buches darf der Vermittler eine Vergütung weder verlangen noch entgegennehmen. Bei der Vermittlung von Personen in Au-pair-Verhältnisse darf die Vergütung 150 Euro nicht übersteigen.
 
 (4) Arbeitsuchende, die dem Vermittler einen Aktivierungs- und Vermittlungsgutschein vorlegen, können die Vergütung abweichend von § 266 des Bürgerlichen Gesetzbuchs in Teilbeträgen zahlen. Die Vergütung ist nach Vorlage des Aktivierungs- und Vermittlungsgutscheins bis zu dem Zeitpunkt gestundet, in dem die Agentur für Arbeit nach Maßgabe von § 45 Absatz 6 gezahlt hat.
 
@@ -5517,6 +5533,8 @@ Unwirksam sind
 
 1. Vereinbarungen zwischen einem Vermittler und einer oder einem Arbeitsuchenden über die Zahlung der Vergütung, wenn deren Höhe die nach § 296 Abs. 3 zulässige Höchstgrenze überschreitet, wenn Vergütungen für Leistungen verlangt oder entgegengenommen werden, die nach § 296 Abs. 1 Satz 3 zu den Leistungen der Vermittlung gehören oder wenn die erforderliche Schriftform nicht eingehalten wird und
 
+1a. Vereinbarungen zwischen einem Vermittler und einer oder einem Arbeitsuchenden über die Zahlung einer Vergütung, wenn eine geringfügige Beschäftigung nach § 8 des Vierten Buches vermittelt werden soll oder vermittelt wurde,
+
 2. Vereinbarungen zwischen einem Vermittler und einer oder einem Ausbildungsuchenden über die Zahlung einer Vergütung,
 
 3. Vereinbarungen zwischen einem Vermittler und einem Arbeitgeber, wenn der Vermittler eine Vergütung mit einer oder einem Ausbildungsuchenden vereinbart oder von dieser oder diesem entgegennimmt, obwohl dies nicht zulässig ist, und
@@ -5529,7 +5547,31 @@ Unwirksam sind
 
 (2) Von betroffenen Personen zur Verfügung gestellte Unterlagen sind unmittelbar nach Abschluss der Vermittlungstätigkeit zurückzugeben. Die übrigen Geschäftsunterlagen des Vermittlers sind nach Abschluss der Vermittlungstätigkeit drei Jahre aufzubewahren. Die Verwendung der Geschäftsunterlagen ist zur Kontrolle des Vermittlers durch die zuständigen Behörden sowie zur Wahrnehmung berechtigter Interessen des Vermittlers zulässig. Personenbezogene Daten sind nach Ablauf der Aufbewahrungspflicht zu löschen. Betroffene Personen können nach Abschluss der Vermittlungstätigkeit Abweichungen von den Sätzen 1, 3 und 4 gestatten; die Gestattung bedarf der Schriftform.
 
-# §§ 299 u. 300 – (weggefallen)
+# § 299 – Informationspflicht bei grenzüberschreitender Vermittlung
+
+Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die Arbeitsuchende oder den Arbeitsuchenden vor Abschluss des Arbeitsvertrages in schriftlicher Form und auf seine Kosten in der eigenen Sprache der oder des Arbeitsuchenden oder in einer Sprache, die die oder der Arbeitsuchende versteht, zu informieren über:
+
+1. den Namen und die Anschrift des Arbeitgebers,
+
+2. den vorgesehenen Zeitpunkt des Beginns und die vorgesehene Dauer des Arbeitsverhältnisses,
+
+3. den Arbeitsort oder, falls die Arbeitnehmerin oder der Arbeitnehmer nicht nur an einem bestimmten Arbeitsort tätig sein soll, einen Hinweis, dass die Arbeitnehmerin oder der Arbeitnehmer an verschiedenen Orten beschäftigt werden kann,
+
+4. die zu leistende Tätigkeit,
+
+5. die vertragliche Arbeitszeit,
+
+6. das vertragliche Arbeitsentgelt, einschließlich vorgesehener Abzüge,
+
+7. die Dauer des vertraglichen Erholungsurlaubs,
+
+8. die Fristen für die Kündigung des Arbeitsverhältnisses,
+
+9. einen in allgemeiner Form gehaltenen Hinweis auf die Tarifverträge, Betriebs- oder Dienstvereinbarungen, die auf das Arbeitsverhältnis anzuwenden sind und
+
+10. die Möglichkeit, die Beratungsdienste der Sozialpartner und staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens beispielhaft die Beratungsstellen nach § 23a des Arbeitnehmer-Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der erwähnten Beratungsdienste anzugeben.
+
+# § 300 – (weggefallen)
 
 # § 301 – Verordnungsermächtigung
 
@@ -5713,7 +5755,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung Näheres über die Meldepfli
 
 # § 323 – Antragserfordernis
 
-(1) Leistungen der Arbeitsförderung werden auf Antrag erbracht. Arbeitslosengeld gilt mit der persönlichen Arbeitslosmeldung als beantragt, wenn die oder der Arbeitslose keine andere Erklärung abgibt. Leistungen der aktiven Arbeitsförderung können auch von Amts wegen erbracht werden, wenn die Berechtigten zustimmen. Die Zustimmung gilt insoweit als Antrag.
+(1) Leistungen der Arbeitsförderung werden auf Antrag erbracht. Arbeitslosengeld gilt mit der Arbeitslosmeldung als beantragt, wenn die oder der Arbeitslose keine andere Erklärung abgibt. Leistungen der aktiven Arbeitsförderung können auch von Amts wegen erbracht werden, wenn die Berechtigten zustimmen. Die Zustimmung gilt insoweit als Antrag.
 
 (2) Kurzarbeitergeld, Leistungen zur Förderung der Teilnahme an Transfermaßnahmen und ergänzende Leistungen nach § 102 sind vom Arbeitgeber schriftlich oder elektronisch unter Beifügung einer Stellungnahme der Betriebsvertretung zu beantragen. Der Antrag kann auch von der Betriebsvertretung gestellt werden. Für den Antrag des Arbeitgebers auf Erstattung der Sozialversicherungsbeiträge und Lehrgangskosten für die Bezieherinnen und Bezieher von Kurzarbeitergeld gilt Satz 1 entsprechend mit der Maßgabe, dass die Erstattung ohne Stellungnahme des Betriebsrates beantragt werden kann. Mit einem Antrag auf Saison-Kurzarbeitergeld oder ergänzende Leistungen nach § 102 sind die Namen, Anschriften und Sozialversicherungsnummern der Arbeitnehmerinnen und Arbeitnehmer mitzuteilen, für die die Leistung beantragt wird. Saison-Kurzarbeitergeld oder ergänzende Leistungen nach § 102 sollen bis zum 15. des Monats beantragt werden, der dem Monat folgt, in dem die Tage liegen, für die die Leistungen beantragt werden. In den Fällen, in denen ein Antrag auf Kurzarbeitergeld, Saison-Kurzarbeitergeld, Erstattung der Sozialversicherungsbeiträge für die Bezieherinnen und Bezieher von Kurzarbeitergeld oder ergänzende Leistungen nach § 102 elektronisch gestellt wird, kann das Verfahren nach § 108 Absatz 1 des Vierten Buches genutzt werden.
 
@@ -5729,7 +5771,7 @@ Die Bundesagentur wird ermächtigt, durch Anordnung Näheres über die Meldepfli
 
 (1) Berufsausbildungsbeihilfe und Ausbildungsgeld werden rückwirkend längstens vom Beginn des Monats an geleistet, in dem die Leistungen beantragt worden sind.
 
-(2) Arbeitslosengeld wird nicht rückwirkend geleistet. Ist die zuständige Agentur für Arbeit an einem Tag, an dem die oder der Arbeitslose Arbeitslosengeld beantragen will, nicht dienstbereit, so wirkt ein Antrag auf Arbeitslosengeld in gleicher Weise wie eine persönliche Arbeitslosmeldung zurück.
+(2) Arbeitslosengeld wird nicht rückwirkend geleistet. Ist die zuständige Agentur für Arbeit an einem Tag, an dem die oder der Arbeitslose Arbeitslosengeld beantragen will, nicht dienstbereit, so wirkt ein Antrag auf Arbeitslosengeld in gleicher Weise wie eine Arbeitslosmeldung zurück.
 
 (3) Kurzarbeitergeld, die Erstattung von Sozialversicherungsbeiträgen und Lehrgangskosten für Bezieherinnen und Bezieher von Kurzarbeitergeld und ergänzende Leistungen nach § 102 sind für den jeweiligen Kalendermonat innerhalb einer Ausschlussfrist von drei Kalendermonaten zu beantragen; die Frist beginnt mit Ablauf des Monats, in dem die Tage liegen, für die die Leistungen beantragt werden.
 
@@ -5929,7 +5971,7 @@ Beitragspflichtige Einnahme ist bei Personen, die beschäftigt sind, das Arbeits
 
 (2) Für Personen, die unmittelbar nach einem Versicherungspflichtverhältnis einen Freiwilligendienst im Sinne des Jugendfreiwilligendienstegesetzes oder des Bundesfreiwilligendienstgesetzes leisten, gilt als beitragspflichtige Einnahme ein Arbeitsentgelt in Höhe der monatlichen Bezugsgröße. Dies gilt auch, wenn der Jugendfreiwilligendienst oder der Bundesfreiwilligendienst nach einer Unterbrechung, die sechs Monate nicht überschreitet, fortgesetzt wird.
 
-(3) Für behinderte Menschen, die in einer anerkannten Werkstatt für behinderte Menschen oder Blindenwerkstätte beschäftigt sind, ist als beitragspflichtige Einnahme das tatsächlich erzielte Arbeitsentgelt, mindestens jedoch ein Betrag in Höhe von 20 Prozent der monatlichen Bezugsgröße zugrunde zu legen.
+(3) Für Menschen mit Behinderungen, die in einer anerkannten Werkstatt für behinderte Menschen oder Blindenwerkstätte beschäftigt sind, ist als beitragspflichtige Einnahme das tatsächlich erzielte Arbeitsentgelt, mindestens jedoch ein Betrag in Höhe von 20 Prozent der monatlichen Bezugsgröße zugrunde zu legen.
 
 (4) Bei Arbeitnehmerinnen und Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag der beitragspflichtigen Einnahme nach § 163 Absatz 10 des Sechsten Buches entsprechend.
 
@@ -6007,7 +6049,7 @@ Abweichend von Satz 1 Nummer 2 gilt in Fällen des § 28a Absatz 1 Nummer 2 bis 
 
 (1b) (weggefallen)
 
-(2) Der Arbeitgeber trägt die Beiträge allein für behinderte Menschen, die in einer anerkannten Werkstatt für behinderte Menschen, bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches oder in einer Blindenwerkstätte im Sinne des § 226 des Neunten Buches beschäftigt sind und deren monatliches Bruttoarbeitsentgelt ein Fünftel der monatlichen Bezugsgröße nicht übersteigt.
+(2) Der Arbeitgeber trägt die Beiträge allein für Menschen mit Behinderungen, die in einer anerkannten Werkstatt für behinderte Menschen, bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches oder in einer Blindenwerkstätte im Sinne des § 226 des Neunten Buches beschäftigt sind und deren monatliches Bruttoarbeitsentgelt ein Fünftel der monatlichen Bezugsgröße nicht übersteigt.
 
 (3) Für Beschäftigte, die wegen Vollendung des für die Regelaltersrente im Sinne des Sechsten Buches erforderlichen Lebensjahres versicherungsfrei sind, tragen die Arbeitgeber die Hälfte des Beitrages, der zu zahlen wäre, wenn die Beschäftigten versicherungspflichtig wären. Für den Beitragsanteil gelten die Vorschriften des Dritten Abschnitts des Vierten Buches und die Bußgeldvorschriften des § 111 Abs. 1 Nr. 2 bis 4, 8 und Abs. 4 des Vierten Buches entsprechend. Die Sätze 1 und 2 sind bis zum 31. Dezember 2021 nicht anzuwenden.
 
@@ -6181,7 +6223,9 @@ Die Kosten für den Einzug der Umlage und der Prüfung der Arbeitgeber werden pa
 
 # § 360 – Umlagesatz
 
-Der Umlagesatz beträgt 0,12 Prozent.
+Der Umlagesatz beträgt 0,15 Prozent.
+
+(+++ Hinweis: Zur Höhe des Umlagesatzes für das Kalenderjahr 2022 siehe auch § 361 Nr. 1 iVm V v. 17.12.2021 I 5230 (Insolvenzgeldumlagesatzverordnung 2022) +++)
 
 # § 361 – Verordnungsermächtigung
 
@@ -6789,15 +6833,15 @@ Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die sich nich
 
 # § 421c – Vorübergehende Sonderregelungen im Zusammenhang mit Kurzarbeit
 
-(1) In der Zeit vom 1. Januar 2021 bis zum Ablauf des 31. Dezember 2021 wird Entgelt aus einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezugs von Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht hinzugerechnet.
+(1) Bis zum Ablauf des 31. März 2022 wird Entgelt aus einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die während des Bezugs von Kurzarbeitergeld aufgenommen worden ist, abweichend von § 106 Absatz 3 dem Ist-Entgelt nicht hinzugerechnet.
 
-(2) Abweichend von § 105 beträgt das Kurzarbeitergeld bis zum 31. Dezember 2021
+(2) Abweichend von § 105 beträgt das Kurzarbeitergeld vom 1. Januar 2022 bis zum 31. März 2022
 
 1. für Arbeitnehmerinnen und Arbeitnehmer, die beim Arbeitslosengeld die Voraussetzungen für den erhöhten Leistungssatz erfüllen würden, ab dem vierten Bezugsmonat 77 Prozent und ab dem siebten Bezugsmonat 87 Prozent,
 
 2. für die übrigen Arbeitnehmerinnen und Arbeitnehmer ab dem vierten Bezugsmonat 70 Prozent und ab dem siebten Bezugsmonat 80 Prozent
 
-der Nettoentgeltdifferenz im Anspruchszeitraum, wenn der Anspruch auf Kurzarbeitergeld bis zum 31. März 2021 entstanden ist und wenn die Differenz zwischen Soll- und Ist-Entgelt im jeweiligen Bezugsmonat mindestens 50 Prozent beträgt. Für die Berechnung der Bezugsmonate sind Monate mit Kurzarbeit ab März 2020 zu berücksichtigen.
+der Nettoentgeltdifferenz im Anspruchszeitraum, wenn die Differenz zwischen Soll- und Ist-Entgelt im jeweiligen Bezugsmonat mindestens 50 Prozent beträgt. Für die Berechnung der Bezugsmonate sind Monate mit Kurzarbeit ab März 2020 zu berücksichtigen.
 
 # § 421d – Vorübergehende Sonderregelungen zum Arbeitslosengeld
 
@@ -6805,7 +6849,7 @@ der Nettoentgeltdifferenz im Anspruchszeitraum, wenn der Anspruch auf Kurzarbeit
 
 (2) Für Zeiten, in denen die durchschnittliche regelmäßige wöchentliche Arbeitszeit der oder des Arbeitslosen auf Grund einer kollektivrechtlichen Beschäftigungssicherungsvereinbarung, die ab dem 1. März 2020 geschlossen oder wirksam geworden ist, vorübergehend vermindert war, gilt ergänzend zu § 151 Absatz 3, dass als Arbeitsentgelt das Arbeitsentgelt zu Grunde zu legen ist, das die oder der Arbeitslose ohne diese Vereinbarung und ohne Mehrarbeit erzielt hätte; insoweit gilt § 150 Absatz 2 Satz 1 Nummer 5 nicht. Satz 1 gilt nur für Zeiten mit Anspruch auf Arbeitsentgelt im Zeitraum vom 1. März 2020 bis zum 31. Dezember 2022. Sind Ansprüche auf Arbeitslosengeld vor dem 10. Dezember 2020 entstanden, so sind die Sätze 1 und 2 anzuwenden, wenn die oder der Arbeitslose dies verlangt und die zur Ermittlung des Bemessungsentgelts erforderlichen Tatsachen nachweist.
 
-(3) Abweichend von § 146 Absatz 2 besteht für das Kalenderjahr 2020 der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 15 Tage, bei alleinerziehenden Arbeitslosen längstens für 30 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 35 Tage, für alleinerziehende Arbeitslose für nicht mehr als 70 Tage fortgezahlt; für das Kalenderjahr 2021 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt und die übrigen Voraussetzungen vorliegen.
+(3) Abweichend von § 146 Absatz 2 besteht für das Kalenderjahr 2020 der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 15 Tage, bei alleinerziehenden Arbeitslosen längstens für 30 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 35 Tage, für alleinerziehende Arbeitslose für nicht mehr als 70 Tage fortgezahlt; für das Kalenderjahr 2021 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für das Kalenderjahr 2022 besteht der Anspruch auf Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende Arbeitslose für nicht mehr als 130 Tage fortgezahlt. Satz 1 ist nur anzuwenden, wenn die oder der Arbeitslose dies verlangt und die übrigen Voraussetzungen vorliegen.
 
 # § 421e – Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
 

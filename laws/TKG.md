@@ -3587,7 +3587,7 @@ bei den für den Nachweis erforderlichen Prüfungen hat er die Bundesnetzagentur
 
 5. der Bundesnetzagentur auf deren besondere Aufforderung insbesondere zur Beseitigung von Fehlfunktionen eine erneute unentgeltliche Prüfung seiner technischen und organisatorischen Vorkehrungen zu gestatten sowie
 
-6. die Aufstellung und den Betrieb von technischen Mitteln der zur Überwachung der Telekommunikation berechtigten Stellen für die Durchführung von Maßnahmen nach den §§ 3, 5 und 8 des Artikel 10-Gesetzes oder nach den §§ 6, 12 und 14 des BND-Gesetzes in seinen Räumen zu dulden und Bediensteten der für diese Maßnahmen zuständigen Stelle sowie bei Maßnahmen nach den §§ 3, 5 und 8 des Artikel 10-Gesetzes den Mitgliedern und Mitarbeitern der G 10-Kommission (§ 1 Absatz 2 des Artikel 10-Gesetzes) Zugang zu diesen technischen Mitteln zur Erfüllung ihrer gesetzlichen Aufgaben zu gewähren.
+6. die Aufstellung und den Betrieb von technischen Mitteln der zur Überwachung der Telekommunikation berechtigten Stellen für die Durchführung von Maßnahmen nach den §§ 3, 5 und 8 des Artikel 10-Gesetzes oder nach den §§ 19, 24, 26, 32 und 33 des BND-Gesetzes in seinen Räumen zu dulden und Bediensteten der für diese Maßnahmen zuständigen Stelle sowie bei Maßnahmen nach den §§ 3, 5 und 8 des Artikel 10-Gesetzes den Mitgliedern und Mitarbeitern der G 10-Kommission (§ 1 Absatz 2 des Artikel 10-Gesetzes) Zugang zu diesen technischen Mitteln zur Erfüllung ihrer gesetzlichen Aufgaben zu gewähren.
 
 (2) Wer öffentlich zugängliche Telekommunikationsdienste erbringt und sich hierfür eines Betreibers einer Telekommunikationsanlage bedient, hat
 
@@ -3603,7 +3603,7 @@ c) an welche im Inland gelegene Stelle die Zustellung von Anordnungen zur Überw
 
 (3) Änderungen der den Mitteilungen nach Absatz 1 Nummer 3 Buchstabe b und Absatz 2 Nummer 2 zugrunde liegenden Daten sind der Bundesnetzagentur unverzüglich mitzuteilen. In Fällen, in denen noch keine Vorschriften nach Absatz 6 vorhanden sind, hat der Verpflichtete die technischen Einrichtungen nach Absatz 1 Nummer 1 und 2 in Absprache mit der Bundesnetzagentur zu gestalten, die entsprechende Festlegungen im Benehmen mit den berechtigten Stellen trifft.
 
-(4) Die Absätze 1 bis 3 gelten nicht, soweit die Rechtsverordnung nach Absatz 5 Ausnahmen für die Telekommunikationsanlage vorsieht. § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 2 Absatz 1a Satz 1 Nummer 1 bis 3 des Artikel 10-Gesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes, § 8 Absatz 1 Satz 1 des BND-Gesetzes sowie entsprechende landesgesetzliche Regelungen zur polizeilich-präventiven Telekommunikationsüberwachung bleiben unberührt.
+(4) Die Absätze 1 bis 3 gelten nicht, soweit die Rechtsverordnung nach Absatz 5 Ausnahmen für die Telekommunikationsanlage vorsieht. § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 2 Absatz 1a Satz 1 Nummer 1 bis 3 des Artikel 10-Gesetzes, § 51 Absatz 6 Satz 1 des Bundeskriminalamtgesetzes, § 25 Absatz 1 Satz 1 des BND-Gesetzes sowie entsprechende landesgesetzliche Regelungen zur polizeilich-präventiven Telekommunikationsüberwachung bleiben unberührt.
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -4131,7 +4131,7 @@ Der nach § 175 Absatz 1 Verpflichtete hat der Bundesnetzagentur das Sicherheits
 
 (1) Betreiber öffentlicher Telekommunikationsnetze haben dem Bundesministerium für Wirtschaft und Energie auf Anfrage entgeltfrei Auskünfte über die Strukturen der Telekommunikationsnetze sowie bevorstehende Änderungen zu erteilen. Einzelne Telekommunikationsvorgänge und Bestandsdaten von Endnutzern dürfen nicht Gegenstand einer Auskunft nach dieser Vorschrift sein.
 
-(2) Anfragen nach Absatz 1 sind nur zulässig, wenn ein entsprechendes Ersuchen des Bundesnachrichtendienstes vorliegt und soweit die Auskunft zur Erfüllung der Aufgaben nach den §§ 5 und 8 des Artikel 10-Gesetzes oder den §§ 6, 12 und 14 des BND-Gesetzes erforderlich ist. Die Verwendung einer nach dieser Vorschrift erlangten Auskunft zu anderen Zwecken ist ausgeschlossen.
+(2) Anfragen nach Absatz 1 sind nur zulässig, wenn ein entsprechendes Ersuchen des Bundesnachrichtendienstes vorliegt und soweit die Auskunft zur Erfüllung der Aufgaben nach den §§ 5 und 8 des Artikel 10-Gesetzes oder den §§ 19, 24, 26, 32 und 33 des BND-Gesetzes erforderlich ist. Die Verwendung einer nach dieser Vorschrift erlangten Auskunft zu anderen Zwecken ist ausgeschlossen.
 
 # § 183 – Kontrolle und Durchsetzung von Verpflichtungen
 

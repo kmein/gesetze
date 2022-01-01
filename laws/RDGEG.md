@@ -21,7 +21,7 @@ Abweichend von § 1 Absatz 1 können Personen mit einer Erlaubnis zur Besorgung 
 
 (1) Kammerrechtsbeistände stehen in den nachfolgenden Vorschriften einem Rechtsanwalt gleich:
 
-1. § 79 Absatz 1 Satz 2 und Absatz 2 Satz 1, § 88 Absatz 2, § 121 Absatz 2 bis 4, § 122 Absatz 1, den §§ 126, 130d und 133 Absatz 2, den §§ 135, 157 und 169 Absatz 2, den §§ 174, 195 und 317 Absatz 5 Satz 2, § 348 Absatz 1 Satz 2 Nummer 2 Buchstabe d, § 397 Absatz 2, § 702 Absatz 2 Satz 2 und § 811 Absatz 1 Nummer 7 der Zivilprozessordnung,
+1. § 79 Absatz 1 Satz 2 und Absatz 2 Satz 1, § 88 Absatz 2, § 121 Absatz 2 bis 4, § 122 Absatz 1, den §§ 126, 130d und 133 Absatz 2, den §§ 135, 157 und 169 Absatz 2, den §§ 174, 195 und 317 Absatz 5 Satz 2, § 348 Absatz 1 Satz 2 Nummer 2 Buchstabe d, § 397 Absatz 2 und § 702 Absatz 2 Satz 2 der Zivilprozessordnung,
 
 2. § 10 Absatz 2 Satz 1, § 11 Satz 4, § 13 Absatz 4, den §§ 14b und 78 Absatz 2 bis 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
 

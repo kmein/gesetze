@@ -7,72 +7,6 @@
 
 (2) Bei der Durchführung des Gesetzes ist die Vielfalt der Krankenhausträger zu beachten. Dabei ist nach Maßgabe des Landesrechts insbesondere die wirtschaftliche Sicherung freigemeinnütziger und privater Krankenhäuser zu gewährleisten. Die Gewährung von Fördermitteln nach diesem Gesetz darf nicht mit Auflagen verbunden werden, durch die die Selbständigkeit und Unabhängigkeit von Krankenhäusern über die Erfordernisse der Krankenhausplanung und der wirtschaftlichen Betriebsführung hinaus beeinträchtigt werden.
 
-# § 2 – Begriffsbestimmungen
-
-Im Sinne dieses Gesetzes sind
-
-1. Krankenhäuser
-
-Einrichtungen, in denen durch ärztliche und pflegerische Hilfeleistung Krankheiten, Leiden oder Körperschäden festgestellt, geheilt oder gelindert werden sollen oder Geburtshilfe geleistet wird und in denen die zu versorgenden Personen untergebracht und verpflegt werden können,
-
-1a. mit den Krankenhäusern notwendigerweise verbundene Ausbildungsstätten
-
-staatlich anerkannte Einrichtungen an Krankenhäusern zur Ausbildung für die Berufe
-
-a) Ergotherapeut, Ergotherapeutin,
-
-b) Diätassistent, Diätassistentin,
-
-c) Hebamme, Entbindungspfleger,
-
-d) Krankengymnast, Krankengymnastin, Physiotherapeut, Physiotherapeutin
-
-e) Pflegefachfrau, Pflegefachmann,
-
-f) Gesundheits- und Kinderkrankenpflegerin, Gesundheits- und Kinderkrankenpfleger,
-
-g) Krankenpflegehelferin, Krankenpflegehelfer,
-
-h) medizinisch-technischer Laboratoriumsassistent, medizinisch-technische Laboratoriumsassistentin,
-
-i) medizinisch-technischer Radiologieassistent, medizinisch-technische Radiologieassistentin,
-
-j) Logopäde, Logopädin,
-
-k) Orthoptist, Orthoptistin,
-
-l) medizinisch-technischer Assistent für Funktionsdiagnostik, medizinisch-technische Assistentin für Funktionsdiagnostik,
-
-wenn die Krankenhäuser Träger oder Mitträger der Ausbildungsstätte sind,
-
-2. Investitionskosten
-
-a) die Kosten der Errichtung (Neubau, Umbau, Erweiterungsbau) von Krankenhäusern und der Anschaffung der zum Krankenhaus gehörenden Wirtschaftsgüter, ausgenommen der zum Verbrauch bestimmten Güter (Verbrauchsgüter),
-
-b) die Kosten der Wiederbeschaffung der Güter des zum Krankenhaus gehörenden Anlagevermögens (Anlagegüter);
-
-zu den Investitionskosten gehören nicht die Kosten des Grundstücks, des Grundstückserwerbs, der Grundstückserschließung sowie ihrer Finanzierung sowie die in § 376 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Ausstattungs- und Betriebskosten für die Telematikinfrastruktur,
-
-3. für die Zwecke dieses Gesetzes den Investitionskosten gleichstehende Kosten
-
-a) die Entgelte für die Nutzung der in Nummer 2 bezeichneten Anlagegüter,
-
-b) die Zinsen, die Tilgung und die Verwaltungskosten von Darlehen, soweit sie zur Finanzierung der in Nummer 2 sowie in Buchstabe a bezeichneten Kosten aufgewandt worden sind,
-
-c) die in Nummer 2 sowie in den Buchstaben a und b bezeichneten Kosten, soweit sie gemeinschaftliche Einrichtungen der Krankenhäuser betreffen,
-
-d) Kapitalkosten (Abschreibungen und Zinsen) für die in Nummer 2 genannten Wirtschaftsgüter,
-
-e) Kosten der in Nummer 2 sowie in den Buchstaben a bis d bezeichneten Art, soweit sie die mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten betreffen und nicht nach anderen Vorschriften aufzubringen sind,
-
-4. Pflegesätze
-
-die Entgelte der Benutzer oder ihrer Kostenträger für stationäre und teilstationäre Leistungen des Krankenhauses,
-
-5. pflegesatzfähige Kosten:
-
-die Kosten des Krankenhauses, deren Berücksichtigung im Pflegesatz nicht nach diesem Gesetz ausgeschlossen ist.
-
 # § 2a – Definition von Krankenhausstandorten
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft vereinbaren im Benehmen mit den Ländern, den Kassenärztlichen Bundesvereinigungen und dem Verband der Privaten Krankenversicherung bis zum 30. Juni 2017 eine bundeseinheitliche Definition, die die Kriterien für den Standort oder die Standorte eines Krankenhauses und dessen Ambulanzen festlegt. Sie haben sicherzustellen, dass diese Definition des Standorts eines Krankenhauses und dessen Ambulanzen eine eindeutige Abgrenzung von Versorgungseinheiten insbesondere in räumlicher, organisatorischer, medizinischer, wirtschaftlicher und rechtlicher Hinsicht ermöglicht. Die Definition soll insbesondere für Zwecke der Qualitätssicherung, der Abrechnung, für die Krankenhausplanung und die Krankenhausstatistik geeignet sein. Die Möglichkeit, Vereinbarungen nach § 11 des Krankenhausentgeltgesetzes oder nach § 11 der Bundespflegesatzverordnung einheitlich für alle Standorte eines Krankenhauses zu schließen, bleibt unberührt. Die Definition ist für den Spitzenverband Bund der Krankenkassen, die Unternehmen der privaten Krankenversicherung, die Deutsche Krankenhausgesellschaft, die Kassenärztlichen Bundesvereinigungen und deren Mitglieder und Mitgliedskassen sowie für die Leistungserbringer verbindlich. Das Benehmen mit den Ländern nach Satz 1 wird mit zwei von der Gesundheitsministerkonferenz der Länder benannten Vertretern der Länder hergestellt.
@@ -401,7 +335,7 @@ dies gilt im Falle der vollen Förderung von Teilen eines Krankenhauses nur hins
 
 # § 17a – Finanzierung von Ausbildungskosten
 
-(1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis l genannten mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer 1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der Ausbildung sind nach Maßgabe der folgenden Vorschriften durch Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu den pflegesatzfähigen Kosten gehören und nicht nach anderen Vorschriften aufzubringen sind (Ausbildungskosten); der von dem jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3 nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die in der Krankenpflegehilfe ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes.
+(1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n genannten mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer 1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der Ausbildung sind nach Maßgabe der folgenden Vorschriften durch Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu den pflegesatzfähigen Kosten gehören und nicht nach anderen Vorschriften aufzubringen sind (Ausbildungskosten); der von dem jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3 nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die in der Krankenpflegehilfe ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes.
 
 (2) Mit dem Ziel, eine sachgerechte Finanzierung sicherzustellen, schließen
 

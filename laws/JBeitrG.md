@@ -71,7 +71,7 @@ Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den für den b
 
 (1) Für die Vollstreckung gelten nach Maßgabe der Absätze 2 bis 4 folgende Vorschriften sinngemäß:
 
-1. §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 und 5, §§ 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis 776, 778, 779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i, 802j Absatz 1 und 3, §§ 802k bis 827, 828 Absatz 2 und 3, §§ 829 bis 837a, 840 Absatz 1, Absatz 2 Satz 2, §§ 841 bis 886, 899 bis 910 der Zivilprozessordnung,
+1. §§ 735 bis 737, 739 bis 741, 743, 745 bis 748, 753 Absatz 4 und 5, §§ 755, 757a, 758, 758a, 759, 761, 762, 764, 765a, 766, 771 bis 776, 778, 779, 781 bis 784, 786, 788, 789, 792, 793, 802a bis 802i, 802j Absatz 1 und 3, §§ 802k bis 827, 828 Absatz 2 und 3, §§ 829 bis 837a, 840 Absatz 1, Absatz 2 Satz 2, §§ 841 bis 886, 899 bis 910 der Zivilprozessordnung,
 
 2. sonstige Vorschriften des Bundesrechts, die die Zwangsvollstreckung aus Urteilen in bürgerlichen Rechtsstreitigkeiten beschränken, sowie
 
@@ -83,11 +83,19 @@ Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den für den b
 
 (4) Gepfändete Forderungen sind nicht an Zahlungs statt zu überweisen.
 
-(5) Die Vollstreckungsbehörden dürfen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten abzurufen, wenn
+(5) Die Vollstreckungsbehörden dürfen das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen, wenn
 
-1. der Schuldner seiner Pflicht, eine Vermögensauskunft zu erteilen, nicht nachkommt oder
+1. die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Vollstreckungsschuldner nicht zustellbar ist und
 
-2. bei einer Vollstreckung in die Vermögensgegenstände, die in der Vermögensauskunft angegeben sind, eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten ist.
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor Erteilung des Vollstreckungsauftrags die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist;
+
+2. der Vollstreckungsschuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem dem Ersuchen zugrundeliegenden Vollstreckungsverfahren nicht nachkommt oder
+
+3. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung nicht zu erwarten ist.
 
 # § 7
 

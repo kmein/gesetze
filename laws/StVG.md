@@ -1807,13 +1807,21 @@ Die Versicherer haben dem Kraftfahrt-Bundesamt im Rahmen der Zulassung von Fahrz
 
 16. zur Erfüllung der den Behörden der Zollverwaltung in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes übertragenen Prüfungsaufgaben,
 
-17. zur Durchführung eines Vollstreckungsverfahrens an die für die Vollstreckung nach dem Verwaltungs-Vollstreckungsgesetz oder nach den Verwaltungsvollstreckungsgesetzen der Länder zuständige Behörde, wenn
+17. zur Durchführung eines Vollstreckungsverfahrens an die für die Vollstreckung nach dem Verwaltungs-Vollstreckungsgesetz oder nach den Verwaltungsvollstreckungsgesetzen der Länder zuständige Behörde, wenn der Vollstreckungsschuldner als Halter des Fahrzeugs eingetragen ist, kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt werden, und
 
-a) der Vollstreckungsschuldner seiner Pflicht, eine Vermögensauskunft zu erteilen, nicht nachkommt oder bei einer Vollstreckung in die in der Vermögensauskunft angeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten ist,
+a) die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Vollstreckungsschuldner nicht zustellbar ist und
 
-b) der Vollstreckungsschuldner als Halter des Fahrzeugs eingetragen ist und
+aa)  
+die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
 
-c) kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt werden,
+bb)  
+die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist, oder
+
+cc) die Meldebehörde innerhalb von drei Monaten vor Erlass der Vollstreckungsanordnung die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist;
+
+b) der Vollstreckungsschuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem dem Ersuchen zugrundeliegenden Vollstreckungsverfahren nicht nachkommt oder
+
+c) bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung nicht zu erwarten ist,
 
 18. zur Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten, die aufgrund des § 40 des Bundes-Immissionsschutzgesetzes nach Maßgabe der straßenverkehrsrechtlichen Vorschriften angeordnet worden oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz der Wohnbevölkerung oder der Bevölkerung vor Abgasen ergangen sind, oder
 

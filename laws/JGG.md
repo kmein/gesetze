@@ -2002,7 +2002,11 @@ Im Übrigen beschließt die große Jugendkammer eine Besetzung mit zwei Richtern
 
 # § 37 – Auswahl der Jugendrichter und Jugendstaatsanwälte
 
-Die Richter bei den Jugendgerichten und die Jugendstaatsanwälte sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein.
+(1) Die Richter bei den Jugendgerichten und die Jugendstaatsanwälte sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein. Sie sollen über Kenntnisse auf den Gebieten der Kriminologie, Pädagogik und Sozialpädagogik sowie der Jugendpsychologie verfügen. Einem Richter oder Staatsanwalt, dessen Kenntnisse auf diesen Gebieten nicht belegt sind, sollen die Aufgaben eines Jugendrichters oder Jugendstaatsanwalts erstmals nur zugewiesen werden, wenn der Erwerb der Kenntnisse durch die Wahrnehmung von einschlägigen Fortbildungsangeboten oder eine anderweitige einschlägige Weiterqualifizierung alsbald zu erwarten ist.
+
+(2) Von den Anforderungen des Absatzes 1 kann bei Richtern und Staatsanwälten, die nur im Bereitschaftsdienst zur Wahrnehmung jugendgerichtlicher oder jugendstaatsanwaltlicher Aufgaben eingesetzt werden, abgewichen werden, wenn andernfalls ein ordnungsgemäßer und den betroffenen Richtern und Staatsanwälten zumutbarer Betrieb des Bereitschaftsdiensts nicht gewährleistet wäre.
+
+(3) Als Jugendrichter beim Amtsgericht oder als Vorsitzender einer Jugendkammer sollen nach Möglichkeit Personen eingesetzt werden, die bereits über Erfahrungen aus früherer Wahrnehmung jugendgerichtlicher oder jugendstaatsanwaltlicher Aufgaben verfügen. Davon kann bei Richtern, die nur im Bereitschaftsdienst Geschäfte des Jugendrichters wahrnehmen, abgewichen werden. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Jugendrichters nicht wahrnehmen.
 
 # § 37a – Zusammenarbeit in gemeinsamen Gremien
 

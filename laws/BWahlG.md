@@ -271,11 +271,7 @@ Wahlkosten
 
 § 52
 
-Erlass von Rechtsverordnungen
-
-§ 52a
-
-Unterstützungsunterschriften bei der Bundestagswahl 2021
+Bundeswahlordnung
 
 § 53
 
@@ -888,11 +884,11 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 # § 51 – (weggefallen)
 
-# § 52 – Erlass von Rechtsverordnungen
+# § 52 – Bundeswahlordnung
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat erlässt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
+(1) Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
 
-1. die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der Wahlausschüsse und Wahlvorstände sowie über die Tätigkeit, Beschlussfähigkeit und das Verfahren der Wahlorgane,
+1. die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der Wahlausschüsse und Wahlvorstände sowie über die Tätigkeit, Beschlußfähigkeit und das Verfahren der Wahlorgane,
 
 2. die Berufung in ein Wahlehrenamt, über den Ersatz von Auslagen für Inhaber von Wahlehrenämtern und über das Bußgeldverfahren,
 
@@ -912,7 +908,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 10. Form und Inhalt des Stimmzettels und über den Stimmzettelumschlag,
 
-11. Bereitstellung, Einrichtung und Bekanntmachung der Wahlräume sowie über Wahlschutzvorrichtungen und Wahlkabinen,
+11. Bereitstellung, Einrichtung und Bekanntmachung der Wahlräume sowie über Wahlschutzvorrichtungen und Wahlzellen,
 
 12. die Stimmabgabe, auch soweit besondere Verhältnisse besondere Regelungen erfordern,
 
@@ -930,19 +926,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Falle einer Auflösung des Deutschen Bundestages die in dem Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates abzukürzen.
 
-(4) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Falle einer Naturkatastrophe oder eines ähnlichen Ereignisses höherer Gewalt durch Rechtsverordnung mit Zustimmung des Bundestages von den Bestimmungen über die Aufstellung von Wahlbewerbern abweichende Regelungen zu treffen und Abweichungen der Parteien von entgegenstehenden Bestimmungen ihrer Satzungen zuzulassen, um die Benennung von Wahlbewerbern ohne Versammlungen, soweit erforderlich, zu ermöglichen, wenn der Deutsche Bundestag zu einem Zeitpunkt, der näher als neun Monate vor dem Beginn des nach Artikel 39 Absatz 1 Satz 3 des Grundgesetzes bestimmten Zeitraums liegt, feststellt, dass die Durchführung von Versammlungen ganz oder teilweise unmöglich ist. Stehen einem rechtzeitigen Zusammentritt des Deutschen Bundestages unüberwindliche Hindernisse entgegen oder ist er nicht beschlussfähig, so entscheidet der nach § 3 des Wahlprüfungsgesetzes gebildete Ausschuss des Deutschen Bundestages über die Feststellung und die Zustimmung nach Satz 1. Durch Rechtsverordnung nach Satz 1 können Regelungen getroffen werden, die den Parteien für die Wahl bei Vorliegen der in Satz 1 genannten Umstände eine Abweichung von den entgegenstehenden Bestimmungen dieses Gesetzes, der Bundeswahlordnung und, sofern eine Satzungsänderung wegen der in Satz 1 genannten Umstände und der in diesem Gesetz und der Bundeswahlordnung bestimmten Fristen und Termine nicht mehr rechtzeitig möglich ist, ihrer Satzungen ermöglichen, insbesondere,
-
-1. um die Wahl der Wahlbewerber und der Vertreter für die Vertreterversammlungen unter Verringerung der satzungsgemäßen Zahl der Vertreter in der Vertreterversammlung oder anstatt durch eine Mitgliederversammlung durch eine Vertreterversammlung durchführen zu können,
-
-2. um Mitglieder- oder Vertreterversammlungen in der Form mehrerer miteinander im Wege der elektronischen Kommunikation verbundener gleichzeitiger Teilversammlungen an verschiedenen Orten durchführen zu können,
-
-3. um die Wahrnehmung des Vorschlagsrechts, des Vorstellungsrechts und der sonstigen Mitgliederrechte mit Ausnahme der Schlussabstimmung über einen Wahlvorschlag ausschließlich oder zusätzlich im Wege elektronischer Kommunikation ermöglichen zu können,
-
-4. um die Wahl von Wahlbewerbern und Vertretern für die Vertreterversammlungen im Wege der Briefwahl oder einer Kombination aus Urnenwahl und Briefwahl durchführen zu können.
-
-# § 52a – Unterstützungsunterschriften bei der Bundestagswahl 2021
-
-Bei der Wahl des 20. Deutschen Bundestages gelten § 20 Absatz 2 und 3 sowie § 27 Absatz 1 Satz 2 des Bundeswahlgesetzes und § 34 Absatz 4 Satz 1 und § 39 Absatz 3 Satz 1 der Bundeswahlordnung mit der Maßgabe, dass die Zahl der danach erforderlichen Unterstützungsunterschriften jeweils auf ein Viertel reduziert ist.
+(4) (weggefallen)
 
 # § 53 – Übergangsregelung
 
