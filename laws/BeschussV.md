@@ -313,17 +313,19 @@ Die Sichtprüfung besteht aus der Prüfung aller höchstbeanspruchten Teile auf 
 
 1. eine Waffe für Munition, die nach § 11 Abs. 2 Nr. 2 des Gesetzes keiner Zulassung bedarf oder auf Grund einer Ausnahmebewilligung nach § 13 des Gesetzes oder von der Behörde eines Staates zugelassen ist, mit dem die gegenseitige Anerkennung der Prüfzeichen vereinbart ist, oder
 
-2. eine Waffe zur Beschussprüfung vorgelegt wird, deren Abmessungen noch nicht in den Maßtafeln enthalten sind; in diesen Fällen kann die Prüfung auf Grund der vom Antragsteller gelieferten Waffen- und Munitionsdaten vorgenommen werden.
+2. eine Waffe zur Beschussprüfung vorgelegt wird, deren Abmessungen nicht in den Maßtafeln enthalten sind; in diesen Fällen kann die Prüfung auf Grund der vom Antragsteller gelieferten Waffen- und Munitionsdaten vorgenommen werden.
 
 # § 4 – Zurückweisung vom Beschuss
 
-Die Prüfgegenstände sind zurückzuweisen und dem Antragsteller nach Aufbringung des Rückgabezeichens entsprechend § 9 Abs. 5 zurückzugeben, wenn
+Die Prüfgegenstände sind zurückzuweisen und dem Antragsteller nach Aufbringung des Rückgabezeichens entsprechend § 9 Absatz 4 zurückzugeben, wenn
 
 1. bei der Vorprüfung festgestellt wird, dass eine der in Anlage I Nr. 1.1 genannten Anforderungen nicht erfüllt ist,
 
 2. sie durch den Beschuss erkennbar beschädigt wurden oder
 
 3. bei der Nachprüfung gemäß § 1 Abs. 5 unter Berücksichtigung von Anlage I Nr. 1.3 Mängel festgestellt werden.
+
+Abweichend von Satz 1 Nummer 1 kann die zuständige Behörde in technisch begründeten Ausnahmefällen dem Beschuss von Prüfgegenständen mit von den Maßtafeln abweichenden Maßen zustimmen. Die zuständige Behörde kann in diesen Fällen das Aufbringen von Warnhinweisen auf der Waffe fordern.
 
 # § 5 – Instandsetzungsbeschuss
 
@@ -347,9 +349,9 @@ Satz 1 gilt nicht für Feuerwaffen, deren höchstbeanspruchte Teile ohne Nacharb
 
 (2) Prüfgegenstände, die bereits ein Beschusszeichen tragen, sind auf Antrag einer freiwilligen Beschussprüfung zu unterziehen. Satz 1 gilt auch für Gegenstände der bezeichneten Art, die nicht der Beschusspflicht unterliegen. Eine freiwillige Beschussprüfung kann auch an einem Gegenstand nach Satz 1 durchgeführt werden, der von der Behörde eines Staates, mit dem die gegenseitige Anerkennung der Prüfzeichen vereinbart ist, geprüft worden ist und der nach dieser Prüfung keine Bearbeitung nach § 4 erfahren hat. Auf die Vornahme dieser Prüfung sind § 5 des Gesetzes sowie die §§ 1 bis 5 anzuwenden.
 
-(3) Haben die Prüfgegenstände nach den Absätzen 1 und 2 die Beschussprüfung bestanden, so sind die Prüfzeichen nach § 9 Abs. 1 bis 4 anzubringen.
+(3) Haben die Prüfgegenstände nach den Absätzen 1 und 2 die Beschussprüfung bestanden, so sind die Prüfzeichen nach § 9 Absatz 1 bis 3 anzubringen.
 
-(4) Haben die Prüfgegenstände nach den Absätzen 1 und 2 die Beschussprüfung endgültig nicht bestanden, so ist auf ihnen das in § 9 Abs. 5 bezeichnete Rückgabezeichen anzubringen.
+(4) Haben die Prüfgegenstände nach den Absätzen 1 und 2 die Beschussprüfung endgültig nicht bestanden, so ist auf ihnen das in § 9 Absatz 4 bezeichnete Rückgabezeichen anzubringen.
 
 # § 7 – Antragsverfahren
 
@@ -397,21 +399,17 @@ Satz 1 gilt nicht für Feuerwaffen, deren höchstbeanspruchte Teile ohne Nacharb
 
 # § 9 – Aufbringen der Prüfzeichen
 
-(1) Die Prüfgegenstände sind mit dem amtlichen Beschusszeichen nach Anlage II zu versehen. In den Fällen des § 4 Abs. 1 Nr. 3 Buchstabe d des Gesetzes ist das Prüfzeichen der jeweils zuständigen Stelle auf die Prüfgegenstände aufzubringen. Beschuss- und Prüfzeichen müssen deutlich sichtbar und dauerhaft aufgebracht werden.
+(1) Die Prüfgegenstände sind mit dem jeweiligen amtlichen Beschusszeichen nach Anlage II Abbildung 1 zu versehen. In den Fällen des § 3 Absatz 4 Satz 2 Nummer 2 und § 4 Satz 2 ist das jeweilige amtliche Beschusszeichen nach Anlage II Abbildung 2 auf dem Prüfgegenstand aufzubringen. In den Fällen des § 4 Abs. 1 Nr. 3 Buchstabe d des Gesetzes ist das Prüfzeichen der jeweils zuständigen Stelle nach Anlage II Abbildung 9 auf die Prüfgegenstände aufzubringen. Beschuss- und Prüfzeichen müssen deutlich sichtbar und dauerhaft aufgebracht werden.
 
-(2) Das Beschusszeichen nach Absatz 1 besteht aus dem Bundesadler nach Anlage II Abbildung 1 mit den jeweiligen Kennbuchstaben.
+(2) Das amtliche Beschusszeichen ist auf jedem höchstbeanspruchten Teil entsprechend § 2 Abs. 2 des Gesetzes aufzubringen. Als weitere Prüfzeichen sind aufzubringen:
 
-(3) Das Beschusszeichen ist auf jedem höchstbeanspruchten Teil entsprechend § 2 Abs. 2 des Gesetzes aufzubringen. Als weitere Prüfzeichen sind aufzubringen:
+1. das jeweilige Ortszeichen nach Anlage II Abbildung 3 auf einem höchstbeanspruchten Teil und
 
-1. das Ortszeichen nach Anlage II Abbildung 3 auf einem höchstbeanspruchten Teil,
+2. das Jahreszeichen auf einem höchstbeanspruchten Teil. Das Jahreszeichen besteht aus den beiden letzten Ziffern der Jahreszahl, denen die Monatszahl angefügt werden kann. Auf Antrag können die beiden Ziffern der Jahreszahl durch die Buchstaben A = 0, B = 1, C = 2, D = 3, E = 4, F = 5, G = 6, H = 7, I oder J = 8, K = 9 verschlüsselt werden.
 
-2. das Zeichen für die Stahlschrotprüfung nach Anlage II Abbildung 2 auf jedem Lauf zum Verschießen von Stahlschrotmunition mit verstärkter Ladung und
+(3) Jedes geprüfte höchstbeanspruchte Teil, das einzeln zur Prüfung vorgelegt wird, ist mit dem amtlichen Beschusszeichen, dem Ortszeichen und dem Jahreszeichen zu versehen.
 
-3. das Jahreszeichen auf einem höchstbeanspruchten Teil. Das Jahreszeichen besteht aus den beiden letzten Ziffern der Jahreszahl, denen die Monatszahl angefügt werden kann. Auf Antrag können die beiden Ziffern der Jahreszahl durch die Buchstaben A = 0, B = 1, C = 2, D = 3, E = 4, F = 5, G = 6, H = 7, I oder J = 8, K = 9 verschlüsselt werden.
-
-(4) Jedes geprüfte höchstbeanspruchte Teil, das einzeln zur Prüfung vorgelegt wird, ist mit dem Beschusszeichen, dem Ortszeichen und dem Jahreszeichen zu versehen.
-
-(5) Das Rückgabezeichen besteht aus dem Ortszeichen und dem Jahreszeichen; vorhandene Prüfzeichen sind durch ein "X" auf oder neben dem Prüfzeichen zu entwerten. Sind höchstbeanspruchte Teile unbrauchbar, so sind sie ebenfalls mit einem "X" zu kennzeichnen.
+(4) Das Rückgabezeichen besteht aus dem Ortszeichen und dem Jahreszeichen; vorhandene amtliche Beschusszeichen sind durch ein "X" auf oder neben dem amtlichen Beschusszeichen zu entwerten. Sind höchstbeanspruchte Teile unbrauchbar, so sind sie ebenfalls mit einem "X" zu kennzeichnen.
 
 # § 10 – Bescheinigung über das Beschussverfahren
 
@@ -431,11 +429,11 @@ Satz 1 gilt nicht für Feuerwaffen, deren höchstbeanspruchte Teile ohne Nacharb
 
 2. der die Forderung enthält, dass der Prüfgegenstand zum Schießen nicht mehr verwendet werden darf.
 
-(4) Sind höchstbeanspruchte Teile nach § 9 Abs. 5 Satz 2 als unbrauchbar gekennzeichnet worden, so stellt die zuständige Behörde auf Antrag eine Bescheinigung im Sinne des Absatzes 3 aus.
+(4) Sind höchstbeanspruchte Teile nach § 9 Absatz 4 Satz 2 als unbrauchbar gekennzeichnet worden, so stellt die zuständige Behörde auf Antrag eine Bescheinigung im Sinne des Absatzes 3 aus.
 
 # § 11 – Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate; Einzelzulassung von unbrauchbar gemachten Schusswaffen
 
-(1) Die nach § 7 des Gesetzes der Zulassung unterliegenden Schussapparate, Einsteckläufe ohne eigenen Verschluss für Munition mit einem zulässigen höchsten Gebrauchsgasdruck bis 2 100 bar und nicht der Beschusspflicht unterliegenden Feuerwaffen müssen den in Anlage I Nr. 3 bezeichneten technischen Anforderungen entsprechen. Schussapparate, die Bolzensetzwerkzeuge nach § 7 des Gesetzes sind, müssen, wenn sie einen Kolben enthalten und wenn sie zur Verwendung magazinierter Kartuschen bestimmt sind, außer der Geräteprüfung einer Prüfung des Systems aus Gerät, Kolben und Kartuschen unterzogen werden. Die Systemkomponenten werden vom Antragsteller festgelegt. Zu einem bereits zugelassenen System kann von dem Zulassungsinhaber oder einem Dritten auch die Zulassung anderer Kartuschen beantragt werden. Für die Anforderungen an die Maßhaltigkeit gilt Anlage I Nr. 1.1.3 entsprechend. Die Prüfmodalitäten für Geräte nach Satz 2 werden im Einzelnen durch die Prüfregel der Physikalisch-Technischen Bundesanstalt "Haltbarkeits- und Systemprüfung von Bolzensetzwerkzeugen" in der jeweils gültigen Fassung beschrieben.
+(1) Die nach § 7 des Gesetzes der Zulassung unterliegenden Schussapparate, Einsteckläufe ohne eigenen Verschluss für Munition mit einem zulässigen höchsten Gebrauchsgasdruck bis 2 000 bar und nicht der Beschusspflicht unterliegenden Feuerwaffen müssen den in Anlage I Nr. 3 bezeichneten technischen Anforderungen entsprechen. Schussapparate, die Bolzensetzwerkzeuge nach § 7 des Gesetzes sind, müssen, wenn sie einen Kolben enthalten und wenn sie zur Verwendung magazinierter Kartuschen bestimmt sind, außer der Geräteprüfung einer Prüfung des Systems aus Gerät, Kolben und Kartuschen unterzogen werden. Die Systemkomponenten werden vom Antragsteller festgelegt. Zu einem bereits zugelassenen System kann von dem Zulassungsinhaber oder einem Dritten auch die Zulassung anderer Kartuschen beantragt werden. Für die Anforderungen an die Maßhaltigkeit gilt Anlage I Nr. 1.1.3 entsprechend. Die Prüfmodalitäten für Geräte nach Satz 2 werden im Einzelnen durch die Prüfregel der Physikalisch-Technischen Bundesanstalt "Haltbarkeits- und Systemprüfung von Bolzensetzwerkzeugen" in der jeweils gültigen Fassung beschrieben.
 
 (2) Schusswaffen und sonstige Gegenstände nach § 8 des Gesetzes, Schusswaffen nach § 9 Absatz 1 des Gesetzes, unbrauchbar gemachte Schusswaffen nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.4 des Waffengesetzes sowie pyrotechnische Munition nach § 10 des Gesetzes müssen den technischen Anforderungen nach Anlage I Nummer 4, 5, 6 und 7 entsprechen. Hülsenlose Munition ohne Geschoss nach § 11 Absatz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 3 Nummer 1.3 zum Waffengesetz muss den Anforderungen nach § 6 Absatz 3 der Ersten Verordnung zum Sprengstoffgesetz entsprechen. § 12c Absatz 3 der Ersten Verordnung zum Sprengstoffgesetz findet entsprechende Anwendung.
 
@@ -700,11 +698,9 @@ Der Fristbeginn ist nachzuweisen im Falle von Satz 1 Nr. 1 durch eine vom Herste
 
 1. Munition nach Anlage 2 Abschnitt 1 Nr. 1.5.1 bis 1.5.6 des Waffengesetzes,
 
-2. Schrotpatronen mit Schroten mit einer Vickershärte HV 1 von über 110 an der Oberfläche oder von über 100 im Inneren,
+2. Schrotpatronen mit Schroten mit einer Vickershärte HV 1 von über 110 an der Oberfläche oder von über 100 im Inneren und
 
-3. Stahlschrotpatronen ohne geeignete Ummantelung der Schrotladung und
-
-4. Revolver- und Pistolenpatronen mit Geschossen, die überwiegend oder vollständig aus hartem Material - Brinellhärte größer als 25 HB 5/62,5/30 - bestehen.
+3. Stahlschrotpatronen ohne geeignete Ummantelung der Schrotladung.
 
 # § 27 – Abweichungen von den Maßtafeln
 
@@ -1489,7 +1485,7 @@ Technische Anforderungen an umgebaute Schusswaffen nach § 9 Absatz 1 des Gesetz
 Definition
 
   
-Schusswaffen im Sinne von § 9 Absatz 1 des Gesetzes in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
+Schusswaffen im Sinne von § 9 Absatz 1 des Gesetzes in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.5.1 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
 
 6.2  
 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer 6.1

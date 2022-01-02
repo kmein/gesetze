@@ -2126,7 +2126,9 @@ Verpflichtet sich jemand zur Veräußerung oder Belastung einer Sache, so erstre
 
 # § 312 – Anwendungsbereich
 
-(1) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind nur auf Verbraucherverträge im Sinne des § 310 Absatz 3 anzuwenden, die eine entgeltliche Leistung des Unternehmers zum Gegenstand haben.
+(1) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind auf Verbraucherverträge anzuwenden, bei denen sich der Verbraucher zu der Zahlung eines Preises verpflichtet.
+
+(1a) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind auch auf Verbraucherverträge anzuwenden, bei denen der Verbraucher dem Unternehmer personenbezogene Daten bereitstellt oder sich hierzu verpflichtet. Dies gilt nicht, wenn der Unternehmer die vom Verbraucher bereitgestellten personenbezogenen Daten ausschließlich verarbeitet, um seine Leistungspflicht oder an ihn gestellte rechtliche Anforderungen zu erfüllen, und sie zu keinem anderen Zweck verarbeitet.
 
 (2) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
 
@@ -2246,7 +2248,7 @@ Wenn der Verbraucher zustimmt, kann für die Abschrift oder die Bestätigung des
 
 (2) Bei Fernabsatzverträgen ist der Unternehmer verpflichtet, dem Verbraucher eine Bestätigung des Vertrags, in der der Vertragsinhalt wiedergegeben ist, innerhalb einer angemessenen Frist nach Vertragsschluss, spätestens jedoch bei der Lieferung der Ware oder bevor mit der Ausführung der Dienstleistung begonnen wird, auf einem dauerhaften Datenträger zur Verfügung zu stellen. Die Bestätigung nach Satz 1 muss die in Artikel 246a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Angaben enthalten, es sei denn, der Unternehmer hat dem Verbraucher diese Informationen bereits vor Vertragsschluss in Erfüllung seiner Informationspflichten nach § 312d Absatz 1 auf einem dauerhaften Datenträger zur Verfügung gestellt.
 
-(3) Bei Verträgen über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen Daten, die in digitaler Form hergestellt und bereitgestellt werden (digitale Inhalte), ist auf der Abschrift oder in der Bestätigung des Vertrags nach den Absätzen 1 und 2 gegebenenfalls auch festzuhalten, dass der Verbraucher vor Ausführung des Vertrags
+(3) Bei Verträgen über digitale Inhalte (§ 327 Absatz 2 Satz 1), die nicht auf einem körperlichen Datenträger bereitgestellt werden, ist auf der Abschrift oder in der Bestätigung des Vertrags nach den Absätzen 1 und 2 gegebenenfalls auch festzuhalten, dass der Verbraucher vor Ausführung des Vertrags
 
 1. ausdrücklich zugestimmt hat, dass der Unternehmer mit der Ausführung des Vertrags vor Ablauf der Widerrufsfrist beginnt, und
 
@@ -2450,9 +2452,335 @@ Das Recht, bei einem gegenseitigen Vertrag Schadensersatz zu verlangen, wird dur
 
 (5) Braucht der Schuldner nach § 275 Abs. 1 bis 3 nicht zu leisten, kann der Gläubiger zurücktreten; auf den Rücktritt findet § 323 mit der Maßgabe entsprechende Anwendung, dass die Fristsetzung entbehrlich ist.
 
-# § 327
+# § 327 – Anwendungsbereich
 
-(weggefallen)
+(1) Die Vorschriften dieses Untertitels sind auf Verbraucherverträge anzuwenden, welche die Bereitstellung digitaler Inhalte oder digitaler Dienstleistungen (digitale Produkte) durch den Unternehmer gegen Zahlung eines Preises zum Gegenstand haben. Preis im Sinne dieses Untertitels ist auch eine digitale Darstellung eines Werts.
+
+(2) Digitale Inhalte sind Daten, die in digitaler Form erstellt und bereitgestellt werden. Digitale Dienstleistungen sind Dienstleistungen, die dem Verbraucher
+
+1. die Erstellung, die Verarbeitung oder die Speicherung von Daten in digitaler Form oder den Zugang zu solchen Daten ermöglichen, oder
+
+2. die gemeinsame Nutzung der vom Verbraucher oder von anderen Nutzern der entsprechenden Dienstleistung in digitaler Form hochgeladenen oder erstellten Daten oder sonstige Interaktionen mit diesen Daten ermöglichen.
+
+(3) Die Vorschriften dieses Untertitels sind auch auf Verbraucherverträge über die Bereitstellung digitaler Produkte anzuwenden, bei denen der Verbraucher dem Unternehmer personenbezogene Daten bereitstellt oder sich zu deren Bereitstellung verpflichtet, es sei denn, die Voraussetzungen des § 312 Absatz 1a Satz 2 liegen vor.
+
+(4) Die Vorschriften dieses Untertitels sind auch auf Verbraucherverträge anzuwenden, die digitale Produkte zum Gegenstand haben, welche nach den Spezifikationen des Verbrauchers entwickelt werden.
+
+(5) Die Vorschriften dieses Untertitels sind mit Ausnahme der §§ 327b und 327c auch auf Verbraucherverträge anzuwenden, welche die Bereitstellung von körperlichen Datenträgern, die ausschließlich als Träger digitaler Inhalte dienen, zum Gegenstand haben.
+
+(6) Die Vorschriften dieses Untertitels sind nicht anzuwenden auf:
+
+1. Verträge über andere Dienstleistungen als digitale Dienstleistungen, unabhängig davon, ob der Unternehmer digitale Formen oder Mittel einsetzt, um das Ergebnis der Dienstleistung zu generieren oder es dem Verbraucher zu liefern oder zu übermitteln,
+
+2. Verträge über Telekommunikationsdienste im Sinne des § 3 Nummer 61 des Telekommunikationsgesetzes vom 23. Juni 2021 (BGBl. I S. 1858) mit Ausnahme von nummernunabhängigen interpersonellen Telekommunikationsdiensten im Sinne des § 3 Nummer 40 des Telekommunikationsgesetzes,
+
+3. Behandlungsverträge nach § 630a,
+
+4. Verträge über Glücksspieldienstleistungen, die einen geldwerten Einsatz erfordern und unter Zuhilfenahme elektronischer oder anderer Kommunikationstechnologien auf individuellen Abruf eines Empfängers erbracht werden,
+
+5. Verträge über Finanzdienstleistungen,
+
+6. Verträge über die Bereitstellung von Software, für die der Verbraucher keinen Preis zahlt und die der Unternehmer im Rahmen einer freien und quelloffenen Lizenz anbietet, sofern die vom Verbraucher bereitgestellten personenbezogenen Daten durch den Unternehmer ausschließlich zur Verbesserung der Sicherheit, der Kompatibilität oder der Interoperabilität der vom Unternehmer angebotenen Software verarbeitet werden,
+
+7. Verträge über die Bereitstellung digitaler Inhalte, wenn die digitalen Inhalte der Öffentlichkeit auf eine andere Weise als durch Signalübermittlung als Teil einer Darbietung oder Veranstaltung zugänglich gemacht werden,
+
+8. Verträge über die Bereitstellung von Informationen im Sinne des Informationsweiterverwendungsgesetzes vom 13. Dezember 2006 (BGBl. I S. 2913), das durch Artikel 1 des Gesetzes vom 8. Juli 2015 (BGBl. I S. 1162) geändert worden ist.
+
+# § 327a – Anwendung auf Paketverträge und Verträge über Sachen mit digitalen Elementen
+
+(1) Die Vorschriften dieses Untertitels sind auch auf Verbraucherverträge anzuwenden, die in einem Vertrag zwischen denselben Vertragsparteien neben der Bereitstellung digitaler Produkte die Bereitstellung anderer Sachen oder die Bereitstellung anderer Dienstleistungen zum Gegenstand haben (Paketvertrag). Soweit nachfolgend nicht anders bestimmt, sind die Vorschriften dieses Untertitels jedoch nur auf diejenigen Bestandteile des Paketvertrags anzuwenden, welche die digitalen Produkte betreffen.
+
+(2) Die Vorschriften dieses Untertitels sind auch auf Verbraucherverträge über Sachen anzuwenden, die digitale Produkte enthalten oder mit ihnen verbunden sind. Soweit nachfolgend nicht anders bestimmt, sind die Vorschriften dieses Untertitels jedoch nur auf diejenigen Bestandteile des Vertrags anzuwenden, welche die digitalen Produkte betreffen.
+
+(3) Absatz 2 gilt nicht für Kaufverträge über Waren, die in einer Weise digitale Produkte enthalten oder mit ihnen verbunden sind, dass die Waren ihre Funktionen ohne diese digitalen Produkte nicht erfüllen können (Waren mit digitalen Elementen). Beim Kauf einer Ware mit digitalen Elementen ist im Zweifel anzunehmen, dass die Verpflichtung des Verkäufers die Bereitstellung der digitalen Inhalte oder digitalen Dienstleistungen umfasst.
+
+# § 327b – Bereitstellung digitaler Produkte
+
+(1) Ist der Unternehmer durch einen Verbrauchervertrag gemäß § 327 oder § 327a dazu verpflichtet, dem Verbraucher ein digitales Produkt bereitzustellen, so gelten für die Bestimmung der Leistungszeit sowie für die Art und Weise der Bereitstellung durch den Unternehmer die nachfolgenden Vorschriften.
+
+(2) Sofern die Vertragsparteien keine Zeit für die Bereitstellung des digitalen Produkts nach Absatz 1 vereinbart haben, kann der Verbraucher die Bereitstellung unverzüglich nach Vertragsschluss verlangen, der Unternehmer sie sofort bewirken.
+
+(3) Ein digitaler Inhalt ist bereitgestellt, sobald der digitale Inhalt oder die geeigneten Mittel für den Zugang zu diesem oder das Herunterladen des digitalen Inhalts dem Verbraucher unmittelbar oder mittels einer von ihm hierzu bestimmten Einrichtung zur Verfügung gestellt oder zugänglich gemacht worden ist.
+
+(4) Eine digitale Dienstleistung ist bereitgestellt, sobald die digitale Dienstleistung dem Verbraucher unmittelbar oder mittels einer von ihm hierzu bestimmten Einrichtung zugänglich gemacht worden ist.
+
+(5) Wenn der Unternehmer durch den Vertrag zu einer Reihe einzelner Bereitstellungen verpflichtet ist, gelten die Absätze 2 bis 4 für jede einzelne Bereitstellung innerhalb der Reihe.
+
+(6) Die Beweislast für die nach den Absätzen 1 bis 4 erfolgte Bereitstellung trifft abweichend von § 363 den Unternehmer.
+
+# § 327c – Rechte bei unterbliebener Bereitstellung
+
+(1) Kommt der Unternehmer seiner fälligen Verpflichtung zur Bereitstellung des digitalen Produkts auf Aufforderung des Verbrauchers nicht unverzüglich nach, so kann der Verbraucher den Vertrag beenden. Nach einer Aufforderung gemäß Satz 1 kann eine andere Zeit für die Bereitstellung nur ausdrücklich vereinbart werden.
+
+(2) Liegen die Voraussetzungen für eine Beendigung des Vertrags nach Absatz 1 Satz 1 vor, so kann der Verbraucher nach den §§ 280 und 281 Absatz 1 Satz 1 Schadensersatz oder nach § 284 Ersatz vergeblicher Aufwendungen verlangen, wenn die Voraussetzungen dieser Vorschriften vorliegen. § 281 Absatz 1 Satz 1 ist mit der Maßgabe anzuwenden, dass an die Stelle der Bestimmung einer angemessenen Frist die Aufforderung nach Absatz 1 Satz 1 tritt. Ansprüche des Verbrauchers auf Schadensersatz nach den §§ 283 und 311a Absatz 2 bleiben unberührt.
+
+(3) Die Aufforderung nach Absatz 1 Satz 1 und Absatz 2 Satz 2 ist entbehrlich, wenn
+
+1. der Unternehmer die Bereitstellung verweigert,
+
+2. es nach den Umständen eindeutig zu erkennen ist, dass der Unternehmer das digitale Produkt nicht bereitstellen wird, oder
+
+3. der Unternehmer die Bereitstellung bis zu einem bestimmten Termin oder innerhalb einer bestimmten Frist nicht bewirkt, obwohl vereinbart war oder es sich für den Unternehmer aus eindeutig erkennbaren, den Vertragsabschluss begleitenden Umständen ergeben konnte, dass die termin- oder fristgerechte Bereitstellung für den Verbraucher wesentlich ist.
+
+In den Fällen des Satzes 1 ist die Mahnung gemäß § 286 stets entbehrlich.
+
+(4) Für die Beendigung des Vertrags nach Absatz 1 Satz 1 und deren Rechtsfolgen sind die §§ 327o und 327p entsprechend anzuwenden. Das Gleiche gilt für den Fall, dass der Verbraucher in den Fällen des Absatzes 2 Schadensersatz statt der ganzen Leistung verlangt. § 325 gilt entsprechend.
+
+(5) § 218 ist auf die Vertragsbeendigung nach Absatz 1 Satz 1 entsprechend anzuwenden.
+
+(6) Sofern der Verbraucher den Vertrag nach Absatz 1 Satz 1 beenden kann, kann er sich im Hinblick auf alle Bestandteile des Paketvertrags vom Vertrag lösen, wenn er an dem anderen Teil des Paketvertrags ohne das nicht bereitgestellte digitale Produkt kein Interesse hat. Satz 1 ist nicht auf Paketverträge anzuwenden, bei denen der andere Bestandteil ein Telekommunikationsdienst im Sinne des § 3 Nummer 61 des Telekommunikationsgesetzes ist.
+
+(7) Sofern der Verbraucher den Vertrag nach Absatz 1 Satz 1 beenden kann, kann er sich im Hinblick auf alle Bestandteile eines Vertrags nach § 327a Absatz 2 vom Vertrag lösen, wenn aufgrund des nicht bereitgestellten digitalen Produkts sich die Sache nicht zur gewöhnlichen Verwendung eignet.
+
+# § 327d – Vertragsmäßigkeit digitaler Produkte
+
+Ist der Unternehmer durch einen Verbrauchervertrag gemäß § 327 oder § 327a zur Bereitstellung eines digitalen Produkts verpflichtet, so hat er das digitale Produkt frei von Produkt- und Rechtsmängeln im Sinne der §§ 327e bis 327g bereitzustellen.
+
+# § 327e – Produktmangel
+
+(1) Das digitale Produkt ist frei von Produktmängeln, wenn es zur maßgeblichen Zeit nach den Vorschriften dieses Untertitels den subjektiven Anforderungen, den objektiven Anforderungen und den Anforderungen an die Integration entspricht. Soweit nachfolgend nicht anders bestimmt, ist die maßgebliche Zeit der Zeitpunkt der Bereitstellung nach § 327b. Wenn der Unternehmer durch den Vertrag zu einer fortlaufenden Bereitstellung über einen Zeitraum (dauerhafte Bereitstellung) verpflichtet ist, ist der maßgebliche Zeitraum der gesamte vereinbarte Zeitraum der Bereitstellung (Bereitstellungszeitraum).
+
+(2) Das digitale Produkt entspricht den subjektiven Anforderungen, wenn
+
+1. das digitale Produkt
+
+a) die vereinbarte Beschaffenheit hat, einschließlich der Anforderungen an seine Menge, seine Funktionalität, seine Kompatibilität und seine Interoperabilität,
+
+b) sich für die nach dem Vertrag vorausgesetzte Verwendung eignet,
+
+2. es wie im Vertrag vereinbart mit Zubehör, Anleitungen und Kundendienst bereitgestellt wird und
+
+3. die im Vertrag vereinbarten Aktualisierungen während des nach dem Vertrag maßgeblichen Zeitraums bereitgestellt werden.
+
+Funktionalität ist die Fähigkeit eines digitalen Produkts, seine Funktionen seinem Zweck entsprechend zu erfüllen. Kompatibilität ist die Fähigkeit eines digitalen Produkts, mit Hardware oder Software zu funktionieren, mit der digitale Produkte derselben Art in der Regel genutzt werden, ohne dass sie konvertiert werden müssen. Interoperabilität ist die Fähigkeit eines digitalen Produkts, mit anderer Hardware oder Software als derjenigen, mit der digitale Produkte derselben Art in der Regel genutzt werden, zu funktionieren.
+
+(3) Das digitale Produkt entspricht den objektiven Anforderungen, wenn
+
+1. es sich für die gewöhnliche Verwendung eignet,
+
+2. es eine Beschaffenheit, einschließlich der Menge, der Funktionalität, der Kompatibilität, der Zugänglichkeit, der Kontinuität und der Sicherheit aufweist, die bei digitalen Produkten derselben Art üblich ist und die der Verbraucher unter Berücksichtigung der Art des digitalen Produkts erwarten kann,
+
+3. es der Beschaffenheit einer Testversion oder Voranzeige entspricht, die der Unternehmer dem Verbraucher vor Vertragsschluss zur Verfügung gestellt hat,
+
+4. es mit dem Zubehör und den Anleitungen bereitgestellt wird, deren Erhalt der Verbraucher erwarten kann,
+
+5. dem Verbraucher gemäß § 327f Aktualisierungen bereitgestellt werden und der Verbraucher über diese Aktualisierungen informiert wird und
+
+6. sofern die Parteien nichts anderes vereinbart haben, es in der zum Zeitpunkt des Vertragsschlusses neuesten verfügbaren Version bereitgestellt wird.
+
+Zu der üblichen Beschaffenheit nach Satz 1 Nummer 2 gehören auch Anforderungen, die der Verbraucher nach vom Unternehmer oder einer anderen Person in vorhergehenden Gliedern der Vertriebskette selbst oder in deren Auftrag vorgenommenen öffentlichen Äußerungen, die insbesondere in der Werbung oder auf dem Etikett abgegeben wurden, erwarten kann. Das gilt nicht, wenn der Unternehmer die Äußerung nicht kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt war oder wenn die Äußerung die Entscheidung, das digitale Produkt zu erwerben, nicht beeinflussen konnte.
+
+(4) Soweit eine Integration durchzuführen ist, entspricht das digitale Produkt den Anforderungen an die Integration, wenn die Integration
+
+1. sachgemäß durchgeführt worden ist oder
+
+2. zwar unsachgemäß durchgeführt worden ist, dies jedoch weder auf einer unsachgemäßen Integration durch den Unternehmer noch auf einem Mangel in der vom Unternehmer bereitgestellten Anleitung beruht.
+
+Integration ist die Verbindung und die Einbindung eines digitalen Produkts mit den oder in die Komponenten der digitalen Umgebung des Verbrauchers, damit das digitale Produkt gemäß den Anforderungen nach den Vorschriften dieses Untertitels genutzt werden kann. Digitale Umgebung sind Hardware, Software oder Netzverbindungen aller Art, die vom Verbraucher für den Zugang zu einem digitalen Produkt oder die Nutzung eines digitalen Produkts verwendet werden.
+
+(5) Einem Produktmangel steht es gleich, wenn der Unternehmer ein anderes digitales Produkt als das vertraglich geschuldete digitale Produkt bereitstellt.
+
+# § 327f – Aktualisierungen
+
+(1) Der Unternehmer hat sicherzustellen, dass dem Verbraucher während des maßgeblichen Zeitraums Aktualisierungen, die für den Erhalt der Vertragsmäßigkeit des digitalen Produkts erforderlich sind, bereitgestellt werden und der Verbraucher über diese Aktualisierungen informiert wird. Zu den erforderlichen Aktualisierungen gehören auch Sicherheitsaktualisierungen. Der maßgebliche Zeitraum nach Satz 1 ist
+
+1. bei einem Vertrag über die dauerhafte Bereitstellung eines digitalen Produkts der Bereitstellungszeitraum,
+
+2. in allen anderen Fällen der Zeitraum, den der Verbraucher aufgrund der Art und des Zwecks des digitalen Produkts und unter Berücksichtigung der Umstände und der Art des Vertrags erwarten kann.
+
+(2) Unterlässt es der Verbraucher, eine Aktualisierung, die ihm gemäß Absatz 1 bereitgestellt worden ist, innerhalb einer angemessenen Frist zu installieren, so haftet der Unternehmer nicht für einen Produktmangel, der allein auf das Fehlen dieser Aktualisierung zurückzuführen ist, sofern
+
+1. der Unternehmer den Verbraucher über die Verfügbarkeit der Aktualisierung und die Folgen einer unterlassenen Installation informiert hat und
+
+2. die Tatsache, dass der Verbraucher die Aktualisierung nicht oder unsachgemäß installiert hat, nicht auf eine dem Verbraucher bereitgestellte mangelhafte Installationsanleitung zurückzuführen ist.
+
+# § 327g – Rechtsmangel
+
+Das digitale Produkt ist frei von Rechtsmängeln, wenn der Verbraucher es gemäß den subjektiven oder objektiven Anforderungen nach § 327e Absatz 2 und 3 nutzen kann, ohne Rechte Dritter zu verletzen.
+
+# § 327h – Abweichende Vereinbarungen über Produktmerkmale
+
+Von den objektiven Anforderungen nach § 327e Absatz 3 Satz 1 Nummer 1 bis 5 und Satz 2, § 327f Absatz 1 und § 327g kann nur abgewichen werden, wenn der Verbraucher vor Abgabe seiner Vertragserklärung eigens davon in Kenntnis gesetzt wurde, dass ein bestimmtes Merkmal des digitalen Produkts von diesen objektiven Anforderungen abweicht, und diese Abweichung im Vertrag ausdrücklich und gesondert vereinbart wurde.
+
+# § 327i – Rechte des Verbrauchers bei Mängeln
+
+Ist das digitale Produkt mangelhaft, kann der Verbraucher, wenn die Voraussetzungen der folgenden Vorschriften vorliegen,
+
+1. nach § 327l Nacherfüllung verlangen,
+
+2. nach § 327m Absatz 1, 2, 4 und 5 den Vertrag beenden oder nach § 327n den Preis mindern und
+
+3. nach § 280 Absatz 1 oder § 327m Absatz 3 Schadensersatz oder nach § 284 Ersatz vergeblicher Aufwendungen verlangen.
+
+# § 327j – Verjährung
+
+(1) Die in § 327i Nummer 1 und 3 bezeichneten Ansprüche verjähren in zwei Jahren. Die Verjährung beginnt mit der Bereitstellung.
+
+(2) Im Fall der dauerhaften Bereitstellung verjähren die Ansprüche nicht vor Ablauf von zwölf Monaten nach dem Ende des Bereitstellungszeitraums.
+
+(3) Ansprüche wegen einer Verletzung der Aktualisierungspflicht verjähren nicht vor Ablauf von zwölf Monaten nach dem Ende des für die Aktualisierungspflicht maßgeblichen Zeitraums.
+
+(4) Hat sich ein Mangel innerhalb der Verjährungsfrist gezeigt, so tritt die Verjährung nicht vor dem Ablauf von vier Monaten nach dem Zeitpunkt ein, in dem sich der Mangel erstmals gezeigt hat.
+
+(5) Für die in § 327i Nummer 2 bezeichneten Rechte gilt § 218 entsprechend.
+
+# § 327k – Beweislastumkehr
+
+(1) Zeigt sich bei einem digitalen Produkt innerhalb eines Jahres seit seiner Bereitstellung ein von den Anforderungen nach § 327e oder § 327g abweichender Zustand, so wird vermutet, dass das digitale Produkt bereits bei Bereitstellung mangelhaft war.
+
+(2) Zeigt sich bei einem dauerhaft bereitgestellten digitalen Produkt während der Dauer der Bereitstellung ein von den Anforderungen nach § 327e oder § 327g abweichender Zustand, so wird vermutet, dass das digitale Produkt während der bisherigen Dauer der Bereitstellung mangelhaft war.
+
+(3) Die Vermutungen nach den Absätzen 1 und 2 gelten vorbehaltlich des Absatzes 4 nicht, wenn
+
+1. die digitale Umgebung des Verbrauchers mit den technischen Anforderungen des digitalen Produkts zur maßgeblichen Zeit nicht kompatibel war oder
+
+2. der Unternehmer nicht feststellen kann, ob die Voraussetzungen der Nummer 1 vorlagen, weil der Verbraucher eine hierfür notwendige und ihm mögliche Mitwirkungshandlung nicht vornimmt und der Unternehmer zur Feststellung ein technisches Mittel einsetzen wollte, das für den Verbraucher den geringsten Eingriff darstellt.
+
+(4) Absatz 3 ist nur anzuwenden, wenn der Unternehmer den Verbraucher vor Vertragsschluss klar und verständlich informiert hat über
+
+1. die technischen Anforderungen des digitalen Produkts an die digitale Umgebung im Fall des Absatzes 3 Nummer 1 oder
+
+2. die Obliegenheit des Verbrauchers nach Absatz 3 Nummer 2.
+
+# § 327l – Nacherfüllung
+
+(1) Verlangt der Verbraucher vom Unternehmer Nacherfüllung, so hat dieser den vertragsgemäßen Zustand herzustellen und die zum Zwecke der Nacherfüllung erforderlichen Aufwendungen zu tragen. Der Unternehmer hat die Nacherfüllung innerhalb einer angemessenen Frist ab dem Zeitpunkt, zu dem der Verbraucher ihn über den Mangel informiert hat, und ohne erhebliche Unannehmlichkeiten für den Verbraucher durchzuführen.
+
+(2) Der Anspruch nach Absatz 1 ist ausgeschlossen, wenn die Nacherfüllung unmöglich oder für den Unternehmer nur mit unverhältnismäßigen Kosten möglich ist. Dabei sind insbesondere der Wert des digitalen Produkts in mangelfreiem Zustand sowie die Bedeutung des Mangels zu berücksichtigen. § 275 Absatz 2 und 3 findet keine Anwendung.
+
+# § 327m – Vertragsbeendigung und Schadensersatz
+
+(1) Ist das digitale Produkt mangelhaft, so kann der Verbraucher den Vertrag gemäß § 327o beenden, wenn
+
+1. der Nacherfüllungsanspruch gemäß § 327l Absatz 2 ausgeschlossen ist,
+
+2. der Nacherfüllungsanspruch des Verbrauchers nicht gemäß § 327l Absatz 1 erfüllt wurde,
+
+3. sich trotz der vom Unternehmer versuchten Nacherfüllung ein Mangel zeigt,
+
+4. der Mangel derart schwerwiegend ist, dass die sofortige Vertragsbeendigung gerechtfertigt ist,
+
+5. der Unternehmer die gemäß § 327l Absatz 1 Satz 2 ordnungsgemäße Nacherfüllung verweigert hat, oder
+
+6. es nach den Umständen offensichtlich ist, dass der Unternehmer nicht gemäß § 327l Absatz 1 Satz 2 ordnungsgemäß nacherfüllen wird.
+
+(2) Eine Beendigung des Vertrags nach Absatz 1 ist ausgeschlossen, wenn der Mangel unerheblich ist. Dies gilt nicht für Verbraucherverträge im Sinne des § 327 Absatz 3.
+
+(3) In den Fällen des Absatzes 1 Nummer 1 bis 6 kann der Verbraucher unter den Voraussetzungen des § 280 Absatz 1 Schadensersatz statt der Leistung verlangen. § 281 Absatz 1 Satz 3 und Absatz 4 sind entsprechend anzuwenden. Verlangt der Verbraucher Schadensersatz statt der ganzen Leistung, so ist der Unternehmer zur Rückforderung des Geleisteten nach den §§ 327o und 327p berechtigt. § 325 gilt entsprechend.
+
+(4) Sofern der Verbraucher den Vertrag nach Absatz 1 beenden kann, kann er sich im Hinblick auf alle Bestandteile des Paketvertrags vom Vertrag lösen, wenn er an dem anderen Teil des Paketvertrags ohne das mangelhafte digitale Produkt kein Interesse hat. Satz 1 ist nicht auf Paketverträge anzuwenden, bei denen der andere Bestandteil ein Telekommunikationsdienst im Sinne des § 3 Nummer 61 des Telekommunikationsgesetzes ist.
+
+(5) Sofern der Verbraucher den Vertrag nach Absatz 1 beenden kann, kann er sich im Hinblick auf alle Bestandteile eines Vertrags nach § 327a Absatz 2 vom Vertrag lösen, wenn aufgrund des Mangels des digitalen Produkts sich die Sache nicht zur gewöhnlichen Verwendung eignet.
+
+# § 327n – Minderung
+
+(1) Statt den Vertrag nach § 327m Absatz 1 zu beenden, kann der Verbraucher den Preis durch Erklärung gegenüber dem Unternehmer mindern. Der Ausschlussgrund des § 327m Absatz 2 Satz 1 findet keine Anwendung. § 327o Absatz 1 ist entsprechend anzuwenden.
+
+(2) Bei der Minderung ist der Preis in dem Verhältnis herabzusetzen, in welchem zum Zeitpunkt der Bereitstellung der Wert des digitalen Produkts in mangelfreiem Zustand zu dem wirklichen Wert gestanden haben würde. Bei Verträgen über die dauerhafte Bereitstellung eines digitalen Produkts ist der Preis unter entsprechender Anwendung des Satzes 1 nur anteilig für die Dauer der Mangelhaftigkeit herabzusetzen.
+
+(3) Die Minderung ist, soweit erforderlich, durch Schätzung zu ermitteln.
+
+(4) Hat der Verbraucher mehr als den geminderten Preis gezahlt, so hat der Unternehmer den Mehrbetrag zu erstatten. Der Mehrbetrag ist unverzüglich, auf jeden Fall aber innerhalb von 14 Tagen zu erstatten. Die Frist beginnt mit dem Zugang der Minderungserklärung beim Unternehmer. Für die Erstattung muss der Unternehmer dasselbe Zahlungsmittel verwenden, das der Verbraucher bei der Zahlung verwendet hat, es sei denn, es wurde ausdrücklich etwas anderes vereinbart und dem Verbraucher entstehen durch die Verwendung eines anderen Zahlungsmittels keine Kosten. Der Unternehmer kann vom Verbraucher keinen Ersatz für die Kosten verlangen, die ihm für die Erstattung des Mehrbetrags entstehen.
+
+# § 327o – Erklärung und Rechtsfolgen der Vertragsbeendigung
+
+(1) Die Beendigung des Vertrags erfolgt durch Erklärung gegenüber dem Unternehmer, in welcher der Entschluss des Verbrauchers zur Beendigung zum Ausdruck kommt. § 351 ist entsprechend anzuwenden.
+
+(2) Im Fall der Vertragsbeendigung hat der Unternehmer dem Verbraucher die Zahlungen zu erstatten, die der Verbraucher zur Erfüllung des Vertrags geleistet hat. Für Leistungen, die der Unternehmer aufgrund der Vertragsbeendigung nicht mehr zu erbringen hat, erlischt sein Anspruch auf Zahlung des vereinbarten Preises.
+
+(3) Abweichend von Absatz 2 Satz 2 erlischt bei Verträgen über die dauerhafte Bereitstellung eines digitalen Produkts der Anspruch des Unternehmers auch für bereits erbrachte Leistungen, jedoch nur für denjenigen Teil des Bereitstellungszeitraums, in dem das digitale Produkt mangelhaft war. Der gezahlte Preis für den Zeitraum, für den der Anspruch nach Satz 1 entfallen ist, ist dem Verbraucher zu erstatten.
+
+(4) Für die Erstattungen nach den Absätzen 2 und 3 ist § 327n Absatz 4 Satz 2 bis 5 entsprechend anzuwenden.
+
+(5) Der Verbraucher ist verpflichtet, einen vom Unternehmer bereitgestellten körperlichen Datenträger an diesen unverzüglich zurückzusenden, wenn der Unternehmer dies spätestens 14 Tage nach Vertragsbeendigung verlangt. Der Unternehmer trägt die Kosten der Rücksendung. § 348 ist entsprechend anzuwenden.
+
+# § 327p – Weitere Nutzung nach Vertragsbeendigung
+
+(1) Der Verbraucher darf das digitale Produkt nach Vertragsbeendigung weder weiter nutzen noch Dritten zur Verfügung stellen. Der Unternehmer ist berechtigt, die weitere Nutzung durch den Verbraucher zu unterbinden. Absatz 3 bleibt hiervon unberührt.
+
+(2) Der Unternehmer darf die Inhalte, die nicht personenbezogene Daten sind und die der Verbraucher bei der Nutzung des vom Unternehmer bereitgestellten digitalen Produkts bereitgestellt oder erstellt hat, nach der Vertragsbeendigung nicht weiter nutzen. Dies gilt nicht, wenn die Inhalte
+
+1. außerhalb des Kontextes des vom Unternehmer bereitgestellten digitalen Produkts keinen Nutzen haben,
+
+2. ausschließlich mit der Nutzung des vom Unternehmer bereitgestellten digitalen Produkts durch den Verbraucher zusammenhängen,
+
+3. vom Unternehmer mit anderen Daten aggregiert wurden und nicht oder nur mit unverhältnismäßigem Aufwand disaggregiert werden können oder
+
+4. vom Verbraucher gemeinsam mit anderen erzeugt wurden, sofern andere Verbraucher die Inhalte weiterhin nutzen können.
+
+(3) Der Unternehmer hat dem Verbraucher auf dessen Verlangen die Inhalte gemäß Absatz 2 Satz 1 bereitzustellen. Dies gilt nicht für Inhalte nach Absatz 2 Satz 2 Nummer 1 bis 3. Die Inhalte müssen dem Verbraucher unentgeltlich, ohne Behinderung durch den Unternehmer, innerhalb einer angemessenen Frist und in einem gängigen und maschinenlesbaren Format bereitgestellt werden.
+
+# § 327q – Vertragsrechtliche Folgen datenschutzrechtlicher Erklärungen des Verbrauchers
+
+(1) Die Ausübung von datenschutzrechtlichen Betroffenenrechten und die Abgabe datenschutzrechtlicher Erklärungen des Verbrauchers nach Vertragsschluss lassen die Wirksamkeit des Vertrags unberührt.
+
+(2) Widerruft der Verbraucher eine von ihm erteilte datenschutzrechtliche Einwilligung oder widerspricht er einer weiteren Verarbeitung seiner personenbezogenen Daten, so kann der Unternehmer einen Vertrag, der ihn zu einer Reihe einzelner Bereitstellungen digitaler Produkte oder zur dauerhaften Bereitstellung eines digitalen Produkts verpflichtet, ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm unter Berücksichtigung des weiterhin zulässigen Umfangs der Datenverarbeitung und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses bis zum vereinbarten Vertragsende oder bis zum Ablauf einer gesetzlichen oder vertraglichen Kündigungsfrist nicht zugemutet werden kann.
+
+(3) Ersatzansprüche des Unternehmers gegen den Verbraucher wegen einer durch die Ausübung von Datenschutzrechten oder die Abgabe datenschutzrechtlicher Erklärungen bewirkten Einschränkung der zulässigen Datenverarbeitung sind ausgeschlossen.
+
+# § 327r – Änderungen an digitalen Produkten
+
+(1) Bei einer dauerhaften Bereitstellung darf der Unternehmer Änderungen des digitalen Produkts, die über das zur Aufrechterhaltung der Vertragsmäßigkeit nach § 327e Absatz 2 und 3 und § 327f erforderliche Maß hinausgehen, nur vornehmen, wenn
+
+1. der Vertrag diese Möglichkeit vorsieht und einen triftigen Grund dafür enthält,
+
+2. dem Verbraucher durch die Änderung keine zusätzlichen Kosten entstehen und
+
+3. der Verbraucher klar und verständlich über die Änderung informiert wird.
+
+(2) Eine Änderung des digitalen Produkts, welche die Zugriffsmöglichkeit des Verbrauchers auf das digitale Produkt oder welche die Nutzbarkeit des digitalen Produkts für den Verbraucher beeinträchtigt, darf der Unternehmer nur vornehmen, wenn er den Verbraucher darüber hinaus innerhalb einer angemessenen Frist vor dem Zeitpunkt der Änderung mittels eines dauerhaften Datenträgers informiert. Die Information muss Angaben enthalten über:
+
+1. Merkmale und Zeitpunkt der Änderung sowie
+
+2. die Rechte des Verbrauchers nach den Absätzen 3 und 4.
+
+Satz 1 gilt nicht, wenn die Beeinträchtigung der Zugriffsmöglichkeit oder der Nutzbarkeit nur unerheblich ist.
+
+(3) Beeinträchtigt eine Änderung des digitalen Produkts die Zugriffsmöglichkeit oder die Nutzbarkeit im Sinne des Absatzes 2 Satz 1, so kann der Verbraucher den Vertrag innerhalb von 30 Tagen unentgeltlich beenden. Die Frist beginnt mit dem Zugang der Information nach Absatz 2 zu laufen. Erfolgt die Änderung nach dem Zugang der Information, so tritt an die Stelle des Zeitpunkts des Zugangs der Information der Zeitpunkt der Änderung.
+
+(4) Die Beendigung des Vertrags nach Absatz 3 Satz 1 ist ausgeschlossen, wenn
+
+1. die Beeinträchtigung der Zugriffsmöglichkeit oder der Nutzbarkeit nur unerheblich ist oder
+
+2. dem Verbraucher die Zugriffsmöglichkeit auf das unveränderte digitale Produkt und die Nutzbarkeit des unveränderten digitalen Produkts ohne zusätzliche Kosten erhalten bleiben.
+
+(5) Für die Beendigung des Vertrags nach Absatz 3 Satz 1 und deren Rechtsfolgen sind die §§ 327o und 327p entsprechend anzuwenden.
+
+(6) Die Absätze 1 bis 5 sind auf Paketverträge, bei denen der andere Bestandteil des Paketvertrags die Bereitstellung eines Internetzugangsdienstes oder eines öffentlich zugänglichen nummerngebundenen interpersonellen Telekommunikationsdienstes im Rahmen eines Paketvertrags im Sinne des § 66 Absatz 1 des Telekommunikationsgesetzes zum Gegenstand hat, nicht anzuwenden.
+
+# § 327s – Abweichende Vereinbarungen
+
+(1) Auf eine Vereinbarung mit dem Verbraucher, die zum Nachteil des Verbrauchers von den Vorschriften dieses Untertitels abweicht, kann der Unternehmer sich nicht berufen, es sei denn, die Vereinbarung wurde erst nach der Mitteilung des Verbrauchers gegenüber dem Unternehmer über die unterbliebene Bereitstellung oder über den Mangel des digitalen Produkts getroffen.
+
+(2) Auf eine Vereinbarung mit dem Verbraucher über eine Änderung des digitalen Produkts, die zum Nachteil des Verbrauchers von den Vorschriften dieses Untertitels abweicht, kann der Unternehmer sich nicht berufen, es sei denn, sie wurde nach der Information des Verbrauchers über die Änderung des digitalen Produkts gemäß § 327r getroffen.
+
+(3) Die Vorschriften dieses Untertitels sind auch anzuwenden, wenn sie durch anderweitige Gestaltungen umgangen werden.
+
+(4) Die Absätze 1 und 2 gelten nicht für den Ausschluss oder die Beschränkung des Anspruchs auf Schadensersatz.
+
+(5) § 327h bleibt unberührt.
+
+# § 327t – Anwendungsbereich
+
+Auf Verträge zwischen Unternehmern, die der Bereitstellung digitaler Produkte gemäß der nach den §§ 327 und 327a vom Anwendungsbereich des Untertitels 1 erfassten Verbraucherverträge dienen, sind ergänzend die Vorschriften dieses Untertitels anzuwenden.
+
+# § 327u – Rückgriff des Unternehmers
+
+(1) Der Unternehmer kann von dem Unternehmer, der sich ihm gegenüber zur Bereitstellung eines digitalen Produkts verpflichtet hat (Vertriebspartner), Ersatz der Aufwendungen verlangen, die ihm im Verhältnis zu einem Verbraucher wegen einer durch den Vertriebspartner verursachten unterbliebenen Bereitstellung des vom Vertriebspartner bereitzustellenden digitalen Produkts aufgrund der Ausübung des Rechts des Verbrauchers nach § 327c Absatz 1 Satz 1 entstanden sind. Das Gleiche gilt für die nach § 327l Absatz 1 vom Unternehmer zu tragenden Aufwendungen, wenn der vom Verbraucher gegenüber dem Unternehmer geltend gemachte Mangel bereits bei der Bereitstellung durch den Vertriebspartner vorhanden war oder in einer durch den Vertriebspartner verursachten Verletzung der Aktualisierungspflicht des Unternehmers nach § 327f Absatz 1 besteht.
+
+(2) Die Aufwendungsersatzansprüche nach Absatz 1 verjähren in sechs Monaten. Die Verjährung beginnt
+
+1. im Fall des Absatzes 1 Satz 1 mit dem Zeitpunkt, zu dem der Verbraucher sein Recht ausgeübt hat,
+
+2. im Fall des Absatzes 1 Satz 2 mit dem Zeitpunkt, zu dem der Unternehmer die Ansprüche des Verbrauchers nach § 327l Absatz 1 erfüllt hat.
+
+(3) § 327k Absatz 1 und 2 ist mit der Maßgabe entsprechend anzuwenden, dass die Frist mit der Bereitstellung an den Verbraucher beginnt.
+
+(4) Der Vertriebspartner kann sich nicht auf eine Vereinbarung berufen, die er vor Geltendmachung der in Absatz 1 bezeichneten Aufwendungsersatzansprüche mit dem Unternehmer getroffen hat und die zum Nachteil des Unternehmers von den Absätzen 1 bis 3 abweicht. Satz 1 ist auch anzuwenden, wenn die Absätze 1 bis 3 durch anderweitige Gestaltungen umgangen werden.
+
+(5) § 377 des Handelsgesetzbuchs bleibt unberührt.
+
+(6) Die vorstehenden Absätze sind auf die Ansprüche des Vertriebspartners und der übrigen Vertragspartner in der Vertriebskette gegen die jeweiligen zur Bereitstellung verpflichteten Vertragspartner entsprechend anzuwenden, wenn die Schuldner Unternehmer sind.
 
 # § 328 – Vertrag zugunsten Dritter
 
@@ -3130,17 +3458,41 @@ Schulden mehrere eine unteilbare Leistung, so haften sie als Gesamtschuldner.
 
 # § 434 – Sachmangel
 
-(1) Die Sache ist frei von Sachmängeln, wenn sie bei Gefahrübergang die vereinbarte Beschaffenheit hat. Soweit die Beschaffenheit nicht vereinbart ist, ist die Sache frei von Sachmängeln,
+(1) Die Sache ist frei von Sachmängeln, wenn sie bei Gefahrübergang den subjektiven Anforderungen, den objektiven Anforderungen und den Montageanforderungen dieser Vorschrift entspricht.
 
-1. wenn sie sich für die nach dem Vertrag vorausgesetzte Verwendung eignet, sonst
+(2) Die Sache entspricht den subjektiven Anforderungen, wenn sie
 
-2. wenn sie sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann.
+1. die vereinbarte Beschaffenheit hat,
 
-Zu der Beschaffenheit nach Satz 2 Nr. 2 gehören auch Eigenschaften, die der Käufer nach den öffentlichen Äußerungen des Verkäufers, des Herstellers (§ 4 Abs. 1 und 2 des Produkthaftungsgesetzes) oder seines Gehilfen insbesondere in der Werbung oder bei der Kennzeichnung über bestimmte Eigenschaften der Sache erwarten kann, es sei denn, dass der Verkäufer die Äußerung nicht kannte und auch nicht kennen musste, dass sie im Zeitpunkt des Vertragsschlusses in gleichwertiger Weise berichtigt war oder dass sie die Kaufentscheidung nicht beeinflussen konnte.
+2. sich für die nach dem Vertrag vorausgesetzte Verwendung eignet und
 
-(2) Ein Sachmangel ist auch dann gegeben, wenn die vereinbarte Montage durch den Verkäufer oder dessen Erfüllungsgehilfen unsachgemäß durchgeführt worden ist. Ein Sachmangel liegt bei einer zur Montage bestimmten Sache ferner vor, wenn die Montageanleitung mangelhaft ist, es sei denn, die Sache ist fehlerfrei montiert worden.
+3. mit dem vereinbarten Zubehör und den vereinbarten Anleitungen, einschließlich Montage- und Installationsanleitungen, übergeben wird.
 
-(3) Einem Sachmangel steht es gleich, wenn der Verkäufer eine andere Sache oder eine zu geringe Menge liefert.
+Zu der Beschaffenheit nach Satz 1 Nummer 1 gehören Art, Menge, Qualität, Funktionalität, Kompatibilität, Interoperabilität und sonstige Merkmale der Sache, für die die Parteien Anforderungen vereinbart haben.
+
+(3) Soweit nicht wirksam etwas anderes vereinbart wurde, entspricht die Sache den objektiven Anforderungen, wenn sie
+
+1. sich für die gewöhnliche Verwendung eignet,
+
+2. eine Beschaffenheit aufweist, die bei Sachen derselben Art üblich ist und die der Käufer erwarten kann unter Berücksichtigung
+
+a) der Art der Sache und
+
+b) der öffentlichen Äußerungen, die von dem Verkäufer oder einem anderen Glied der Vertragskette oder in deren Auftrag, insbesondere in der Werbung oder auf dem Etikett, abgegeben wurden,
+
+3. der Beschaffenheit einer Probe oder eines Musters entspricht, die oder das der Verkäufer dem Käufer vor Vertragsschluss zur Verfügung gestellt hat, und
+
+4. mit dem Zubehör einschließlich der Verpackung, der Montage- oder Installationsanleitung sowie anderen Anleitungen übergeben wird, deren Erhalt der Käufer erwarten kann.
+
+Zu der üblichen Beschaffenheit nach Satz 1 Nummer 2 gehören Menge, Qualität und sonstige Merkmale der Sache, einschließlich ihrer Haltbarkeit, Funktionalität, Kompatibilität und Sicherheit. Der Verkäufer ist durch die in Satz 1 Nummer 2 Buchstabe b genannten öffentlichen Äußerungen nicht gebunden, wenn er sie nicht kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt war oder wenn die Äußerung die Kaufentscheidung nicht beeinflussen konnte.
+
+(4) Soweit eine Montage durchzuführen ist, entspricht die Sache den Montageanforderungen, wenn die Montage
+
+1. sachgemäß durchgeführt worden ist oder
+
+2. zwar unsachgemäß durchgeführt worden ist, dies jedoch weder auf einer unsachgemäßen Montage durch den Verkäufer noch auf einem Mangel in der vom Verkäufer übergebenen Anleitung beruht.
+
+(5) Einem Sachmangel steht es gleich, wenn der Verkäufer eine andere Sache als die vertraglich geschuldete Sache liefert.
 
 # § 435 – Rechtsmangel
 
@@ -3196,11 +3548,13 @@ b) bei einer Sache, die entsprechend ihrer üblichen Verwendungsweise für ein B
 
 (2) Der Verkäufer hat die zum Zwecke der Nacherfüllung erforderlichen Aufwendungen, insbesondere Transport-, Wege-, Arbeits- und Materialkosten zu tragen.
 
-(3) Hat der Käufer die mangelhafte Sache gemäß ihrer Art und ihrem Verwendungszweck in eine andere Sache eingebaut oder an eine andere Sache angebracht, ist der Verkäufer im Rahmen der Nacherfüllung verpflichtet, dem Käufer die erforderlichen Aufwendungen für das Entfernen der mangelhaften und den Einbau oder das Anbringen der nachgebesserten oder gelieferten mangelfreien Sache zu ersetzen. § 442 Absatz 1 ist mit der Maßgabe anzuwenden, dass für die Kenntnis des Käufers an die Stelle des Vertragsschlusses der Einbau oder das Anbringen der mangelhaften Sache durch den Käufer tritt.
+(3) Hat der Käufer die mangelhafte Sache gemäß ihrer Art und ihrem Verwendungszweck in eine andere Sache eingebaut oder an eine andere Sache angebracht, bevor der Mangel offenbar wurde, ist der Verkäufer im Rahmen der Nacherfüllung verpflichtet, dem Käufer die erforderlichen Aufwendungen für das Entfernen der mangelhaften und den Einbau oder das Anbringen der nachgebesserten oder gelieferten mangelfreien Sache zu ersetzen.
 
 (4) Der Verkäufer kann die vom Käufer gewählte Art der Nacherfüllung unbeschadet des § 275 Abs. 2 und 3 verweigern, wenn sie nur mit unverhältnismäßigen Kosten möglich ist. Dabei sind insbesondere der Wert der Sache in mangelfreiem Zustand, die Bedeutung des Mangels und die Frage zu berücksichtigen, ob auf die andere Art der Nacherfüllung ohne erhebliche Nachteile für den Käufer zurückgegriffen werden könnte. Der Anspruch des Käufers beschränkt sich in diesem Fall auf die andere Art der Nacherfüllung; das Recht des Verkäufers, auch diese unter den Voraussetzungen des Satzes 1 zu verweigern, bleibt unberührt.
 
-(5) Liefert der Verkäufer zum Zwecke der Nacherfüllung eine mangelfreie Sache, so kann er vom Käufer Rückgewähr der mangelhaften Sache nach Maßgabe der §§ 346 bis 348 verlangen.
+(5) Der Käufer hat dem Verkäufer die Sache zum Zweck der Nacherfüllung zur Verfügung zu stellen.
+
+(6) Liefert der Verkäufer zum Zwecke der Nacherfüllung eine mangelfreie Sache, so kann er vom Käufer Rückgewähr der mangelhaften Sache nach Maßgabe der §§ 346 bis 348 verlangen. Der Verkäufer hat die ersetzte Sache auf seine Kosten zurückzunehmen.
 
 # § 440 – Besondere Bestimmungen für Rücktritt und Schadensersatz
 
@@ -3238,7 +3592,7 @@ Wird eine Sache auf Grund eines Pfandrechts in einer öffentlichen Versteigerung
 
 # § 445a – Rückgriff des Verkäufers
 
-(1) Der Verkäufer kann beim Verkauf einer neu hergestellten Sache von dem Verkäufer, der ihm die Sache verkauft hatte (Lieferant), Ersatz der Aufwendungen verlangen, die er im Verhältnis zum Käufer nach § 439 Absatz 2 und 3 sowie § 475 Absatz 4 und 6 zu tragen hatte, wenn der vom Käufer geltend gemachte Mangel bereits beim Übergang der Gefahr auf den Verkäufer vorhanden war.
+(1) Der Verkäufer kann beim Verkauf einer neu hergestellten Sache von dem Verkäufer, der ihm die Sache verkauft hatte (Lieferant), Ersatz der Aufwendungen verlangen, die er im Verhältnis zum Käufer nach § 439 Absatz 2, 3 und 6 Satz 2 sowie nach § 475 Absatz 4 zu tragen hatte, wenn der vom Käufer geltend gemachte Mangel bereits beim Übergang der Gefahr auf den Verkäufer vorhanden war oder auf einer Verletzung der Aktualisierungspflicht gemäß § 475b Absatz 4 beruht.
 
 (2) Für die in § 437 bezeichneten Rechte des Verkäufers gegen seinen Lieferanten bedarf es wegen des vom Käufer geltend gemachten Mangels der sonst erforderlichen Fristsetzung nicht, wenn der Verkäufer die verkaufte neu hergestellte Sache als Folge ihrer Mangelhaftigkeit zurücknehmen musste oder der Käufer den Kaufpreis gemindert hat.
 
@@ -3250,9 +3604,13 @@ Wird eine Sache auf Grund eines Pfandrechts in einer öffentlichen Versteigerung
 
 (1) Die in § 445a Absatz 1 bestimmten Aufwendungsersatzansprüche verjähren in zwei Jahren ab Ablieferung der Sache.
 
-(2) Die Verjährung der in den §§ 437 und 445a Absatz 1 bestimmten Ansprüche des Verkäufers gegen seinen Lieferanten wegen des Mangels einer verkauften neu hergestellten Sache tritt frühestens zwei Monate nach dem Zeitpunkt ein, in dem der Verkäufer die Ansprüche des Käufers erfüllt hat. Diese Ablaufhemmung endet spätestens fünf Jahre nach dem Zeitpunkt, in dem der Lieferant die Sache dem Verkäufer abgeliefert hat.
+(2) Die Verjährung der in den §§ 437 und 445a Absatz 1 bestimmten Ansprüche des Verkäufers gegen seinen Lieferanten wegen des Mangels einer verkauften neu hergestellten Sache tritt frühestens zwei Monate nach dem Zeitpunkt ein, in dem der Verkäufer die Ansprüche des Käufers erfüllt hat.
 
 (3) Die Absätze 1 und 2 finden auf die Ansprüche des Lieferanten und der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
+
+# § 445c – Rückgriff bei Verträgen über digitale Produkte
+
+Ist der letzte Vertrag in der Lieferkette ein Verbrauchervertrag über die Bereitstellung digitaler Produkte nach den §§ 327 und 327a, so sind die §§ 445a, 445b und 478 nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 2.
 
 # § 446 – Gefahr- und Lastenübergang
 
@@ -3294,9 +3652,15 @@ Mit der Übergabe der verkauften Sache geht die Gefahr des zufälligen Untergang
 
 Die Vorschriften dieses Untertitels über den Kauf von Grundstücken finden auf den Kauf von eingetragenen Schiffen und Schiffsbauwerken entsprechende Anwendung.
 
-# § 453 – Rechtskauf
+# § 453 – Rechtskauf; Verbrauchervertrag über den Kauf digitaler Inhalte
 
-(1) Die Vorschriften über den Kauf von Sachen finden auf den Kauf von Rechten und sonstigen Gegenständen entsprechende Anwendung.
+(1) Die Vorschriften über den Kauf von Sachen finden auf den Kauf von Rechten und sonstigen Gegenständen entsprechende Anwendung. Auf einen Verbrauchervertrag über den Verkauf digitaler Inhalte durch einen Unternehmer sind die folgenden Vorschriften nicht anzuwenden:
+
+1. § 433 Absatz 1 Satz 1 und § 475 Absatz 1 über die Übergabe der Kaufsache und die Leistungszeit sowie
+
+2. § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6 und die §§ 476 und 477 über die Rechte bei Mängeln.
+
+An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
 
 (2) Der Verkäufer trägt die Kosten der Begründung und Übertragung des Rechts.
 
@@ -3396,55 +3760,153 @@ Das Vorkaufsrecht ist nicht übertragbar und geht nicht auf die Erben des Berech
 
 # § 474 – Verbrauchsgüterkauf
 
-(1) Verbrauchsgüterkäufe sind Verträge, durch die ein Verbraucher von einem Unternehmer eine bewegliche Sache kauft. Um einen Verbrauchsgüterkauf handelt es sich auch bei einem Vertrag, der neben dem Verkauf einer beweglichen Sache die Erbringung einer Dienstleistung durch den Unternehmer zum Gegenstand hat.
+(1) Verbrauchsgüterkäufe sind Verträge, durch die ein Verbraucher von einem Unternehmer eine Ware (§ 241a Absatz 1) kauft. Um einen Verbrauchsgüterkauf handelt es sich auch bei einem Vertrag, der neben dem Verkauf einer Ware die Erbringung einer Dienstleistung durch den Unternehmer zum Gegenstand hat.
 
-(2) Für den Verbrauchsgüterkauf gelten ergänzend die folgenden Vorschriften dieses Untertitels. Dies gilt nicht für gebrauchte Sachen, die in einer öffentlich zugänglichen Versteigerung verkauft werden, an der der Verbraucher persönlich teilnehmen kann.
+(2) Für den Verbrauchsgüterkauf gelten ergänzend die folgenden Vorschriften dieses Untertitels. Für gebrauchte Waren, die in einer öffentlich zugänglichen Versteigerung (§ 312g Absatz 2 Nummer 10) verkauft werden, gilt dies nicht, wenn dem Verbraucher klare und umfassende Informationen darüber, dass die Vorschriften dieses Untertitels nicht gelten, leicht verfügbar gemacht wurden.
 
 # § 475 – Anwendbare Vorschriften
 
-(1) Ist eine Zeit für die nach § 433 zu erbringenden Leistungen weder bestimmt noch aus den Umständen zu entnehmen, so kann der Gläubiger diese Leistungen abweichend von § 271 Absatz 1 nur unverzüglich verlangen. Der Unternehmer muss die Sache in diesem Fall spätestens 30 Tage nach Vertragsschluss übergeben. Die Vertragsparteien können die Leistungen sofort bewirken.
+(1) Ist eine Zeit für die nach § 433 zu erbringenden Leistungen weder bestimmt noch aus den Umständen zu entnehmen, so kann der Gläubiger diese Leistungen abweichend von § 271 Absatz 1 nur unverzüglich verlangen. Der Unternehmer muss die Ware in diesem Fall spätestens 30 Tage nach Vertragsschluss übergeben. Die Vertragsparteien können die Leistungen sofort bewirken.
 
 (2) § 447 Absatz 1 gilt mit der Maßgabe, dass die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung nur dann auf den Käufer übergeht, wenn der Käufer den Spediteur, den Frachtführer oder die sonst zur Ausführung der Versendung bestimmte Person oder Anstalt mit der Ausführung beauftragt hat und der Unternehmer dem Käufer diese Person oder Anstalt nicht zuvor benannt hat.
 
-(3) § 439 Absatz 5 ist mit der Maßgabe anzuwenden, dass Nutzungen nicht herauszugeben oder durch ihren Wert zu ersetzen sind. Die §§ 445 und 447 Absatz 2 sind nicht anzuwenden.
+(3) § 439 Absatz 6 ist mit der Maßgabe anzuwenden, dass Nutzungen nicht herauszugeben oder durch ihren Wert zu ersetzen sind. Die §§ 442, 445 und 447 Absatz 2 sind nicht anzuwenden.
 
-(4) Ist die eine Art der Nacherfüllung nach § 275 Absatz 1 ausgeschlossen oder kann der Unternehmer diese nach § 275 Absatz 2 oder 3 oder § 439 Absatz 4 Satz 1 verweigern, kann er die andere Art der Nacherfüllung nicht wegen Unverhältnismäßigkeit der Kosten nach § 439 Absatz 4 Satz 1 verweigern. Ist die andere Art der Nacherfüllung wegen der Höhe der Aufwendungen nach § 439 Absatz 2 oder Absatz 3 Satz 1 unverhältnismäßig, kann der Unternehmer den Aufwendungsersatz auf einen angemessenen Betrag beschränken. Bei der Bemessung dieses Betrages sind insbesondere der Wert der Sache in mangelfreiem Zustand und die Bedeutung des Mangels zu berücksichtigen.
+(4) Der Verbraucher kann von dem Unternehmer für Aufwendungen, die ihm im Rahmen der Nacherfüllung gemäß § 439 Absatz 2 und 3 entstehen und die vom Unternehmer zu tragen sind, Vorschuss verlangen.
 
-(5) § 440 Satz 1 ist auch in den Fällen anzuwenden, in denen der Verkäufer die Nacherfüllung gemäß Absatz 4 Satz 2 beschränkt.
+(5) Der Unternehmer hat die Nacherfüllung innerhalb einer angemessenen Frist ab dem Zeitpunkt, zu dem der Verbraucher ihn über den Mangel unterrichtet hat, und ohne erhebliche Unannehmlichkeiten für den Verbraucher durchzuführen, wobei die Art der Ware sowie der Zweck, für den der Verbraucher die Ware benötigt, zu berücksichtigen sind.
 
-(6) Der Verbraucher kann von dem Unternehmer für Aufwendungen, die ihm im Rahmen der Nacherfüllung gemäß § 439 Absatz 2 und 3 entstehen und die vom Unternehmer zu tragen sind, Vorschuss verlangen.
+(6) Im Fall des Rücktritts oder des Schadensersatzes statt der ganzen Leistung wegen eines Mangels der Ware ist § 346 mit der Maßgabe anzuwenden, dass der Unternehmer die Kosten der Rückgabe der Ware trägt. § 348 ist mit der Maßgabe anzuwenden, dass der Nachweis des Verbrauchers über die Rücksendung der Rückgewähr der Ware gleichsteht.
+
+# § 475a – Verbrauchsgüterkaufvertrag über digitale Produkte
+
+(1) Auf einen Verbrauchsgüterkaufvertrag, welcher einen körperlichen Datenträger zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient, sind § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6, die §§ 475b bis 475e und die §§ 476 und 477 über die Rechte bei Mängeln nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
+
+(2) Auf einen Verbrauchsgüterkaufvertrag über eine Ware, die in einer Weise digitale Produkte enthält oder mit digitalen Produkten verbunden ist, dass die Ware ihre Funktionen auch ohne diese digitalen Produkte erfüllen kann, sind im Hinblick auf diejenigen Bestandteile des Vertrags, welche die digitalen Produkte betreffen, die folgenden Vorschriften nicht anzuwenden:
+
+1. § 433 Absatz 1 Satz 1 und § 475 Absatz 1 über die Übergabe der Kaufsache und die Leistungszeit sowie
+
+2. § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6, die §§ 475b bis 475e und die §§ 476 und 477 über die Rechte bei Mängeln.
+
+An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
+
+# § 475b – Sachmangel einer Ware mit digitalen Elementen
+
+(1) Für den Kauf einer Ware mit digitalen Elementen (§ 327a Absatz 3 Satz 1), bei dem sich der Unternehmer verpflichtet, dass er oder ein Dritter die digitalen Elemente bereitstellt, gelten ergänzend die Regelungen dieser Vorschrift. Hinsichtlich der Frage, ob die Verpflichtung des Unternehmers die Bereitstellung der digitalen Inhalte oder digitalen Dienstleistungen umfasst, gilt § 327a Absatz 3 Satz 2.
+
+(2) Eine Ware mit digitalen Elementen ist frei von Sachmängeln, wenn sie bei Gefahrübergang und in Bezug auf eine Aktualisierungspflicht auch während des Zeitraums nach Absatz 3 Nummer 2 und Absatz 4 Nummer 2 den subjektiven Anforderungen, den objektiven Anforderungen, den Montageanforderungen und den Installationsanforderungen entspricht.
+
+(3) Eine Ware mit digitalen Elementen entspricht den subjektiven Anforderungen, wenn
+
+1. sie den Anforderungen des § 434 Absatz 2 entspricht und
+
+2. für die digitalen Elemente die im Kaufvertrag vereinbarten Aktualisierungen während des nach dem Vertrag maßgeblichen Zeitraums bereitgestellt werden.
+
+(4) Eine Ware mit digitalen Elementen entspricht den objektiven Anforderungen, wenn
+
+1. sie den Anforderungen des § 434 Absatz 3 entspricht und
+
+2. dem Verbraucher während des Zeitraums, den er aufgrund der Art und des Zwecks der Ware und ihrer digitalen Elemente sowie unter Berücksichtigung der Umstände und der Art des Vertrags erwarten kann, Aktualisierungen bereitgestellt werden, die für den Erhalt der Vertragsmäßigkeit der Ware erforderlich sind, und der Verbraucher über diese Aktualisierungen informiert wird.
+
+(5) Unterlässt es der Verbraucher, eine Aktualisierung, die ihm gemäß Absatz 4 bereitgestellt worden ist, innerhalb einer angemessenen Frist zu installieren, so haftet der Unternehmer nicht für einen Sachmangel, der allein auf das Fehlen dieser Aktualisierung zurückzuführen ist, wenn
+
+1. der Unternehmer den Verbraucher über die Verfügbarkeit der Aktualisierung und die Folgen einer unterlassenen Installation informiert hat und
+
+2. die Tatsache, dass der Verbraucher die Aktualisierung nicht oder unsachgemäß installiert hat, nicht auf eine dem Verbraucher bereitgestellte mangelhafte Installationsanleitung zurückzuführen ist.
+
+(6) Soweit eine Montage oder eine Installation durchzuführen ist, entspricht eine Ware mit digitalen Elementen
+
+1. den Montageanforderungen, wenn sie den Anforderungen des § 434 Absatz 4 entspricht, und
+
+2. den Installationsanforderungen, wenn die Installation
+
+a) der digitalen Elemente sachgemäß durchgeführt worden ist oder
+
+b) zwar unsachgemäß durchgeführt worden ist, dies jedoch weder auf einer unsachgemäßen Installation durch den Unternehmer noch auf einem Mangel der Anleitung beruht, die der Unternehmer oder derjenige übergeben hat, der die digitalen Elemente bereitgestellt hat.
+
+# § 475c – Sachmangel einer Ware mit digitalen Elementen bei dauerhafter Bereitstellung der digitalen Elemente
+
+(1) Ist beim Kauf einer Ware mit digitalen Elementen eine dauerhafte Bereitstellung für die digitalen Elemente vereinbart, so gelten ergänzend die Regelungen dieser Vorschrift. Haben die Parteien nicht bestimmt, wie lange die Bereitstellung andauern soll, so ist § 475b Absatz 4 Nummer 2 entsprechend anzuwenden.
+
+(2) Der Unternehmer haftet über die §§ 434 und 475b hinaus auch dafür, dass die digitalen Elemente während des Bereitstellungszeitraums, mindestens aber für einen Zeitraum von zwei Jahren ab der Ablieferung der Ware, den Anforderungen des § 475b Absatz 2 entsprechen.
+
+# § 475d – Sonderbestimmungen für Rücktritt und Schadensersatz
+
+(1) Für einen Rücktritt wegen eines Mangels der Ware bedarf es der in § 323 Absatz 1 bestimmten Fristsetzung zur Nacherfüllung abweichend von § 323 Absatz 2 und § 440 nicht, wenn
+
+1. der Unternehmer die Nacherfüllung trotz Ablaufs einer angemessenen Frist ab dem Zeitpunkt, zu dem der Verbraucher ihn über den Mangel unterrichtet hat, nicht vorgenommen hat,
+
+2. sich trotz der vom Unternehmer versuchten Nacherfüllung ein Mangel zeigt,
+
+3. der Mangel derart schwerwiegend ist, dass der sofortige Rücktritt gerechtfertigt ist,
+
+4. der Unternehmer die gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 5 ordnungsgemäße Nacherfüllung verweigert hat oder
+
+5. es nach den Umständen offensichtlich ist, dass der Unternehmer nicht gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 5 ordnungsgemäß nacherfüllen wird.
+
+(2) Für einen Anspruch auf Schadensersatz wegen eines Mangels der Ware bedarf es der in § 281 Absatz 1 bestimmten Fristsetzung in den in Absatz 1 bestimmten Fällen nicht. § 281 Absatz 2 und § 440 sind nicht anzuwenden.
+
+# § 475e – Sonderbestimmungen für die Verjährung
+
+(1) Im Fall der dauerhaften Bereitstellung digitaler Elemente nach § 475c Absatz 1 Satz 1 verjähren Ansprüche wegen eines Mangels an den digitalen Elementen nicht vor dem Ablauf von zwölf Monaten nach dem Ende des Bereitstellungszeitraums.
+
+(2) Ansprüche wegen einer Verletzung der Aktualisierungspflicht nach § 475b Absatz 3 oder 4 verjähren nicht vor dem Ablauf von zwölf Monaten nach dem Ende des Zeitraums der Aktualisierungspflicht.
+
+(3) Hat sich ein Mangel innerhalb der Verjährungsfrist gezeigt, so tritt die Verjährung nicht vor dem Ablauf von vier Monaten nach dem Zeitpunkt ein, in dem sich der Mangel erstmals gezeigt hat.
+
+(4) Hat der Verbraucher zur Nacherfüllung oder zur Erfüllung von Ansprüchen aus einer Garantie die Ware dem Unternehmer oder auf Veranlassung des Unternehmers einem Dritten übergeben, so tritt die Verjährung von Ansprüchen wegen des geltend gemachten Mangels nicht vor dem Ablauf von zwei Monaten nach dem Zeitpunkt ein, in dem die nachgebesserte oder ersetzte Ware dem Verbraucher übergeben wurde.
 
 # § 476 – Abweichende Vereinbarungen
 
-(1) Auf eine vor Mitteilung eines Mangels an den Unternehmer getroffene Vereinbarung, die zum Nachteil des Verbrauchers von den §§ 433 bis 435, 437, 439 bis 443 sowie von den Vorschriften dieses Untertitels abweicht, kann der Unternehmer sich nicht berufen. Die in Satz 1 bezeichneten Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
+(1) Auf eine vor Mitteilung eines Mangels an den Unternehmer getroffene Vereinbarung, die zum Nachteil des Verbrauchers von den §§ 433 bis 435, 437, 439 bis 441 und 443 sowie von den Vorschriften dieses Untertitels abweicht, kann der Unternehmer sich nicht berufen. Von den Anforderungen nach § 434 Absatz 3 oder § 475b Absatz 4 kann vor Mitteilung eines Mangels an den Unternehmer durch Vertrag abgewichen werden, wenn
 
-(2) Die Verjährung der in § 437 bezeichneten Ansprüche kann vor Mitteilung eines Mangels an den Unternehmer nicht durch Rechtsgeschäft erleichtert werden, wenn die Vereinbarung zu einer Verjährungsfrist ab dem gesetzlichen Verjährungsbeginn von weniger als zwei Jahren, bei gebrauchten Sachen von weniger als einem Jahr führt.
+1. der Verbraucher vor der Abgabe seiner Vertragserklärung eigens davon in Kenntnis gesetzt wurde, dass ein bestimmtes Merkmal der Ware von den objektiven Anforderungen abweicht, und
+
+2. die Abweichung im Sinne der Nummer 1 im Vertrag ausdrücklich und gesondert vereinbart wurde.
+
+(2) Die Verjährung der in § 437 bezeichneten Ansprüche kann vor Mitteilung eines Mangels an den Unternehmer nicht durch Rechtsgeschäft erleichtert werden, wenn die Vereinbarung zu einer Verjährungsfrist ab dem gesetzlichen Verjährungsbeginn von weniger als zwei Jahren, bei gebrauchten Waren von weniger als einem Jahr führt. Die Vereinbarung ist nur wirksam, wenn
+
+1. der Verbraucher vor der Abgabe seiner Vertragserklärung von der Verkürzung der Verjährungsfrist eigens in Kenntnis gesetzt wurde und
+
+2. die Verkürzung der Verjährungsfrist im Vertrag ausdrücklich und gesondert vereinbart wurde.
 
 (3) Die Absätze 1 und 2 gelten unbeschadet der §§ 307 bis 309 nicht für den Ausschluss oder die Beschränkung des Anspruchs auf Schadensersatz.
 
+(4) Die Regelungen der Absätze 1 und 2 sind auch anzuwenden, wenn sie durch anderweitige Gestaltungen umgangen werden.
+
 # § 477 – Beweislastumkehr
 
-Zeigt sich innerhalb von sechs Monaten seit Gefahrübergang ein Sachmangel, so wird vermutet, dass die Sache bereits bei Gefahrübergang mangelhaft war, es sei denn, diese Vermutung ist mit der Art der Sache oder des Mangels unvereinbar.
+(1) Zeigt sich innerhalb eines Jahres seit Gefahrübergang ein von den Anforderungen nach § 434 oder § 475b abweichender Zustand der Ware, so wird vermutet, dass die Ware bereits bei Gefahrübergang mangelhaft war, es sei denn, diese Vermutung ist mit der Art der Ware oder des mangelhaften Zustands unvereinbar. Beim Kauf eines lebenden Tieres gilt diese Vermutung für einen Zeitraum von sechs Monaten seit Gefahrübergang.
+
+(2) Ist bei Waren mit digitalen Elementen die dauerhafte Bereitstellung der digitalen Elemente im Kaufvertrag vereinbart und zeigt sich ein von den vertraglichen Anforderungen nach § 434 oder § 475b abweichender Zustand der digitalen Elemente während der Dauer der Bereitstellung oder innerhalb eines Zeitraums von zwei Jahren seit Gefahrübergang, so wird vermutet, dass die digitalen Elemente während der bisherigen Dauer der Bereitstellung mangelhaft waren.
 
 # § 478 – Sonderbestimmungen für den Rückgriff des Unternehmers
 
 (1) Ist der letzte Vertrag in der Lieferkette ein Verbrauchsgüterkauf (§ 474), findet § 477 in den Fällen des § 445a Absatz 1 und 2 mit der Maßgabe Anwendung, dass die Frist mit dem Übergang der Gefahr auf den Verbraucher beginnt.
 
-(2) Auf eine vor Mitteilung eines Mangels an den Lieferanten getroffene Vereinbarung, die zum Nachteil des Unternehmers von Absatz 1 sowie von den §§ 433 bis 435, 437, 439 bis 443, 445a Absatz 1 und 2 sowie von § 445b abweicht, kann sich der Lieferant nicht berufen, wenn dem Rückgriffsgläubiger kein gleichwertiger Ausgleich eingeräumt wird. Satz 1 gilt unbeschadet des § 307 nicht für den Ausschluss oder die Beschränkung des Anspruchs auf Schadensersatz. Die in Satz 1 bezeichneten Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
+(2) Auf eine vor Mitteilung eines Mangels an den Lieferanten getroffene Vereinbarung, die zum Nachteil des Unternehmers von Absatz 1 sowie von den §§ 433 bis 435, 437, 439 bis 443, 445a Absatz 1 und 2 sowie den §§ 445b, 475b und 475c abweicht, kann sich der Lieferant nicht berufen, wenn dem Rückgriffsgläubiger kein gleichwertiger Ausgleich eingeräumt wird. Satz 1 gilt unbeschadet des § 307 nicht für den Ausschluss oder die Beschränkung des Anspruchs auf Schadensersatz. Die in Satz 1 bezeichneten Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
 (3) Die Absätze 1 und 2 finden auf die Ansprüche des Lieferanten und der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 # § 479 – Sonderbestimmungen für Garantien
 
-(1) Eine Garantieerklärung (§ 443) muss einfach und verständlich abgefasst sein. Sie muss enthalten:
+(1) Eine Garantieerklärung (§ 443) muss einfach und verständlich abgefasst sein. Sie muss Folgendes enthalten:
 
-1. den Hinweis auf die gesetzlichen Rechte des Verbrauchers sowie darauf, dass sie durch die Garantie nicht eingeschränkt werden, und
+1. den Hinweis auf die gesetzlichen Rechte des Verbrauchers bei Mängeln, darauf, dass die Inanspruchnahme dieser Rechte unentgeltlich ist sowie darauf, dass diese Rechte durch die Garantie nicht eingeschränkt werden,
 
-2. den Inhalt der Garantie und alle wesentlichen Angaben, die für die Geltendmachung der Garantie erforderlich sind, insbesondere die Dauer und den räumlichen Geltungsbereich des Garantieschutzes sowie Namen und Anschrift des Garantiegebers.
+2. den Namen und die Anschrift des Garantiegebers,
 
-(2) Der Verbraucher kann verlangen, dass ihm die Garantieerklärung in Textform mitgeteilt wird.
+3. das vom Verbraucher einzuhaltende Verfahren für die Geltendmachung der Garantie,
 
-(3) Die Wirksamkeit der Garantieverpflichtung wird nicht dadurch berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
+4. die Nennung der Ware, auf die sich die Garantie bezieht, und
+
+5. die Bestimmungen der Garantie, insbesondere die Dauer und den räumlichen Geltungsbereich des Garantieschutzes.
+
+(2) Die Garantieerklärung ist dem Verbraucher spätestens zum Zeitpunkt der Lieferung der Ware auf einem dauerhaften Datenträger zur Verfügung zu stellen.
+
+(3) Hat der Hersteller gegenüber dem Verbraucher eine Haltbarkeitsgarantie übernommen, so hat der Verbraucher gegen den Hersteller während des Zeitraums der Garantie mindestens einen Anspruch auf Nacherfüllung gemäß § 439 Absatz 2, 3, 5 und 6 Satz 2 und § 475 Absatz 3 Satz 1 und Absatz 5.
+
+(4) Die Wirksamkeit der Garantieverpflichtung wird nicht dadurch berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
 
 # § 480 – Tausch
 
@@ -3928,7 +4390,7 @@ Von den Vorschriften der §§ 491 bis 511, 514 und 515 darf, soweit nicht ein an
 
 # § 513 – Anwendung auf Existenzgründer
 
-Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe für die Aufnahme einer gewerblichen oder selbständigen beruflichen Tätigkeit gewähren lassen oder zu diesem Zweck einen Ratenlieferungsvertrag schließen, es sei denn, der Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
+Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe für die Aufnahme einer gewerblichen oder selbständigen beruflichen Tätigkeit gewähren lassen oder zu diesem Zweck einen Ratenlieferungsvertrag schließen, es sei denn, der Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro oder die Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) ist anwendbar.
 
 # § 514 – Unentgeltliche Darlehensverträge
 
@@ -3945,6 +4407,18 @@ Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein Darlehe
 (1) Eine Zuwendung, durch die jemand aus seinem Vermögen einen anderen bereichert, ist Schenkung, wenn beide Teile darüber einig sind, dass die Zuwendung unentgeltlich erfolgt.
 
 (2) Ist die Zuwendung ohne den Willen des anderen erfolgt, so kann ihn der Zuwendende unter Bestimmung einer angemessenen Frist zur Erklärung über die Annahme auffordern. Nach dem Ablauf der Frist gilt die Schenkung als angenommen, wenn nicht der andere sie vorher abgelehnt hat. Im Falle der Ablehnung kann die Herausgabe des Zugewendeten nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung gefordert werden.
+
+# § 516a – Verbrauchervertrag über die Schenkung digitaler Produkte
+
+(1) Auf einen Verbrauchervertrag, bei dem der Unternehmer dem Verbraucher
+
+1. digitale Produkte oder
+
+2. einen körperlichen Datenträger, der ausschließlich als Träger digitaler Inhalte dient,
+
+schenkt, und der Verbraucher dem Unternehmer personenbezogene Daten nach Maßgabe des § 327 Absatz 3 bereitstellt oder sich hierzu verpflichtet, sind die §§ 523 und 524 über die Haftung des Schenkers für Rechts- oder Sachmängel nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a.
+
+(2) Für einen Verbrauchervertrag, bei dem der Unternehmer dem Verbraucher eine Sache schenkt, die digitale Produkte enthält oder mit digitalen Produkten verbunden ist, gilt der Anwendungsausschluss nach Absatz 1 entsprechend für diejenigen Bestandteile des Vertrags, welche die digitalen Produkte betreffen.
 
 # § 517 – Unterlassen eines Vermögenserwerbs
 
@@ -4187,6 +4661,10 @@ Setzt der Mieter nach Ablauf der Mietzeit den Gebrauch der Mietsache fort, so ve
 (2) Ansprüche des Mieters auf Ersatz von Aufwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten nach der Beendigung des Mietverhältnisses.
 
 (3) (aufgehoben)
+
+# § 548a – Miete digitaler Produkte
+
+Die Vorschriften über die Miete von Sachen sind auf die Miete digitaler Produkte entsprechend anzuwenden.
 
 # § 549 – Auf Wohnraummietverhältnisse anwendbare Vorschriften
 
@@ -5029,6 +5507,22 @@ Satz 1 ist nicht anzuwenden, wenn die Gesellschafter oder Erwerber derselben Fam
 
 (2) Eine Verfügung, die der Vermieter vor dem Übergang des Eigentums über die Miete getroffen hat, die auf die Zeit der Berechtigung des Erwerbers entfällt, ist dem Erwerber gegenüber wirksam. Das Gleiche gilt für ein Rechtsgeschäft, das zwischen dem Mieter und dem Vermieter über die Mietforderung vorgenommen wird, insbesondere die Entrichtung der Miete; ein Rechtsgeschäft, das nach dem Übergang des Eigentums vorgenommen wird, ist jedoch unwirksam, wenn der Mieter bei der Vornahme des Rechtsgeschäfts von dem Übergang des Eigentums Kenntnis hat. § 566d gilt entsprechend.
 
+# § 578b – Verträge über die Miete digitaler Produkte
+
+(1) Auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, dem Verbraucher digitale Produkte zu vermieten, sind die folgenden Vorschriften nicht anzuwenden:
+
+1. § 535 Absatz 1 Satz 2 und die §§ 536 bis 536d über die Rechte bei Mängeln und
+
+2. § 543 Absatz 2 Satz 1 Nummer 1 und Absatz 4 über die Rechte bei unterbliebener Bereitstellung.
+
+An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a. Der Anwendungsausschluss nach Satz 1 Nummer 2 gilt nicht, wenn der Vertrag die Bereitstellung eines körperlichen Datenträgers zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient.
+
+(2) Wenn der Verbraucher einen Verbrauchervertrag nach Absatz 1 wegen unterbliebener Bereitstellung (§ 327c), Mangelhaftigkeit (§ 327m) oder Änderung (§ 327r Absatz 3 und 4) des digitalen Produkts beendet, sind die §§ 546 bis 548 nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a.
+
+(3) Für einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, dem Verbraucher eine Sache zu vermieten, die ein digitales Produkt enthält oder mit ihm verbunden ist, gelten die Anwendungsausschlüsse nach den Absätzen 1 und 2 entsprechend für diejenigen Bestandteile des Vertrags, die das digitale Produkt betreffen.
+
+(4) Auf einen Vertrag zwischen Unternehmern, der der Bereitstellung digitaler Produkte gemäß eines Verbrauchervertrags nach Absatz 1 oder Absatz 3 dient, ist § 536a Absatz 2 über den Anspruch des Unternehmers gegen den Vertriebspartner auf Ersatz von denjenigen Aufwendungen nicht anzuwenden, die er im Verhältnis zum Verbraucher nach § 327l zu tragen hatte. An die Stelle des nach Satz 1 nicht anzuwendenden § 536a Absatz 2 treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 2.
+
 # § 579 – Fälligkeit der Miete
 
 (1) Die Miete für ein Grundstück und für bewegliche Sachen ist am Ende der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten bemessen, so ist sie nach Ablauf der einzelnen Zeitabschnitte zu entrichten. Die Miete für ein Grundstück ist, sofern sie nicht nach kürzeren Zeitabschnitten bemessen ist, jeweils nach Ablauf eines Kalendervierteljahrs am ersten Werktag des folgenden Monats zu entrichten.
@@ -5051,11 +5545,13 @@ Stirbt der Mieter, so ist sowohl der Erbe als auch der Vermieter berechtigt, das
 
 (2) Bei einem Mietverhältnis über Geschäftsräume ist die ordentliche Kündigung spätestens am dritten Werktag eines Kalendervierteljahres zum Ablauf des nächsten Kalendervierteljahrs zulässig.
 
-(3) Bei einem Mietverhältnis über bewegliche Sachen ist die ordentliche Kündigung zulässig,
+(3) Bei einem Mietverhältnis über bewegliche Sachen oder digitale Produkte ist die ordentliche Kündigung zulässig,
 
 1. wenn die Miete nach Tagen bemessen ist, an jedem Tag zum Ablauf des folgenden Tages;
 
 2. wenn die Miete nach längeren Zeitabschnitten bemessen ist, spätestens am dritten Tag vor dem Tag, mit dessen Ablauf das Mietverhältnis enden soll.
+
+Die Vorschriften über die Beendigung von Verbraucherverträgen über digitale Produkte bleiben unberührt.
 
 (4) Absatz 1 Nr. 3, Absatz 2 und 3 Nr. 2 sind auch anzuwenden, wenn ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden kann.
 
@@ -5199,7 +5695,7 @@ Der Pächter ist berechtigt, eine Einrichtung, mit der er die Sache versehen hat
 
 # § 592 – Verpächterpfandrecht
 
-Der Verpächter hat für seine Forderungen aus dem Pachtverhältnis ein Pfandrecht an den eingebrachten Sachen des Pächters sowie an den Früchten der Pachtsache. Für künftige Entschädigungsforderungen kann das Pfandrecht nicht geltend gemacht werden. Mit Ausnahme der in § 811 Abs. 1 Nr. 4 der Zivilprozessordnung genannten Sachen erstreckt sich das Pfandrecht nicht auf Sachen, die der Pfändung nicht unterworfen sind. Die Vorschriften der §§ 562a bis 562c gelten entsprechend.
+Der Verpächter hat für seine Forderungen aus dem Pachtverhältnis ein Pfandrecht an den eingebrachten Sachen des Pächters sowie an den Früchten der Pachtsache. Für künftige Entschädigungsforderungen kann das Pfandrecht nicht geltend gemacht werden. Das Pfandrecht erstreckt sich nur auf Sachen, die der Pfändung unterliegen; betreibt der Pächter Landwirtschaft, erstreckt sich das Pfandrecht auch auf Sachen im Sinne des § 811 Absatz 1 Nummer 1 Buchstabe b und Tiere im Sinne des § 811 Absatz 1 Nummer 8 Buchstabe b der Zivilprozessordnung. Die Vorschriften der §§ 562a bis 562c gelten entsprechend.
 
 # § 593 – Änderung von Landpachtverträgen
 
@@ -5490,6 +5986,8 @@ Abweichend von § 280 Abs. 1 hat der Arbeitnehmer dem Arbeitgeber Ersatz für de
 (2) Ist die Dauer des Dienstverhältnisses weder bestimmt noch aus der Beschaffenheit oder dem Zwecke der Dienste zu entnehmen, so kann jeder Teil das Dienstverhältnis nach Maßgabe der §§ 621 bis 623 kündigen.
 
 (3) Für Arbeitsverträge, die auf bestimmte Zeit abgeschlossen werden, gilt das Teilzeit- und Befristungsgesetz.
+
+(4) Ein Verbrauchervertrag über eine digitale Dienstleistung kann auch nach Maßgabe der §§ 327c, 327m und 327r Absatz 3 und 4 beendet werden.
 
 # § 621 – Kündigungsfristen bei Dienstverhältnissen
 
@@ -5841,9 +6339,23 @@ Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag kündigen
 
 (2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
 
-# § 650 – Anwendung des Kaufrechts*)
+# § 650 – Werklieferungsvertrag; Verbrauchervertrag über die Herstellung digitaler Produkte
 
-Auf einen Vertrag, der die Lieferung herzustellender oder zu erzeugender beweglicher Sachen zum Gegenstand hat, finden die Vorschriften über den Kauf Anwendung. § 442 Abs. 1 Satz 1 findet bei diesen Verträgen auch Anwendung, wenn der Mangel auf den vom Besteller gelieferten Stoff zurückzuführen ist. Soweit es sich bei den herzustellenden oder zu erzeugenden beweglichen Sachen um nicht vertretbare Sachen handelt, sind auch die §§ 642, 643, 645, 648 und 649 mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme der nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
+(1) Auf einen Vertrag, der die Lieferung herzustellender oder zu erzeugender beweglicher Sachen zum Gegenstand hat, finden die Vorschriften über den Kauf Anwendung. § 442 Abs. 1 Satz 1 findet bei diesen Verträgen auch Anwendung, wenn der Mangel auf den vom Besteller gelieferten Stoff zurückzuführen ist. Soweit es sich bei den herzustellenden oder zu erzeugenden beweglichen Sachen um nicht vertretbare Sachen handelt, sind auch die §§ 642, 643, 645, 648 und 649 mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme der nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
+
+(2) Auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet,
+
+1. digitale Inhalte herzustellen,
+
+2. einen Erfolg durch eine digitale Dienstleistung herbeizuführen oder
+
+3. einen körperlichen Datenträger herzustellen, der ausschließlich als Träger digitaler Inhalte dient,
+
+sind die §§ 633 bis 639 über die Rechte bei Mängeln sowie § 640 über die Abnahme nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a. Die §§ 641, 644 und 645 sind mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme die Bereitstellung des digitalen Produkts (§ 327b Absatz 3 bis 5) tritt.
+
+(3) Auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, einen herzustellenden körperlichen Datenträger zu liefern, der ausschließlich als Träger digitaler Inhalte dient, sind abweichend von Absatz 1 Satz 1 und 2 § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6 und die §§ 476 und 477 über die Rechte bei Mängeln nicht anzuwenden. An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a.
+
+(4) Für einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, eine Sache herzustellen, die ein digitales Produkt enthält oder mit digitalen Produkten verbunden ist, gilt der Anwendungsausschluss nach Absatz 2 entsprechend für diejenigen Bestandteile des Vertrags, welche die digitalen Produkte betreffen. Für einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, eine herzustellende Sache zu liefern, die ein digitales Produkt enthält oder mit digitalen Produkten verbunden ist, gilt der Anwendungsausschluss nach Absatz 3 entsprechend für diejenigen Bestandteile des Vertrags, welche die digitalen Produkte betreffen.
 
 # § 650a – Bauvertrag
 

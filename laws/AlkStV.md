@@ -780,19 +780,7 @@ Liegt kein Nachweis nach § 33 Absatz 6 vor, bestätigt das für den Empfänger 
 
 (+++ § 42 Abs. 1: zur Anwendung vgl. § 51 Abs. 1 +++)
 
-# § 43 – In einer Abfindungsbrennerei unter Steueraussetzung gewonnener Alkohol
-
-(1) Für die Gewinnung, die Lagerung und die Beförderung von Alkohol in einer Abfindungsbrennerei unter Steueraussetzung gelten vorbehaltlich nachstehender Regelungen die Bestimmungen des Gesetzes zu Steueraussetzung und Besteuerung entsprechend.
-
-(2) Auf Antrag des Abfindungsbrenners oder des Stoffbesitzers gilt der gesamte gewonnene Alkohol abweichend von § 18 Absatz 5 des Gesetzes als unter Steueraussetzung in einem Steuerlager gewonnen. Der Antrag nach Satz 1 ist spätestens fünf Werktage vor dem Brennvorgang vom Abfindungsbrenner oder Stoffbesitzer nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu stellen. Das zuständige Hauptzollamt kann Erleichterungen zulassen. Das zuständige Hauptzollamt kann vom Antragsteller weitere Angaben verlangen, wenn diese zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich sind.
-
-(3) Das zuständige Hauptzollamt erteilt die Erlaubnis unter Widerrufsvorbehalt in dem vom Antragsteller beantragten zulässigen Umfang, soweit Steuerbelange nicht entgegenstehen. Die Abfindungsbrennerei gilt bis zum Erlöschen oder Widerruf der Erlaubnis als Steuerlager; der Abfindungsbrenner oder der Stoffbesitzer gilt insoweit als Steuerlagerinhaber. Im Steuerlager darf der von der Erlaubnis umfasste Alkohol unter Steueraussetzung befristet gelagert und an andere Steuerlagerinhaber im Steuergebiet befördert werden. Die Erlaubnis erlischt mit der ordnungsgemäßen Aufnahme des beförderten Alkohols in das aufnehmende Steuerlager, spätestens jedoch mit Ablauf des zweiten Kalendermonats, der auf das Ende des genehmigten Brennbetriebs folgt.
-
-(4) Für Beförderungen unter Steueraussetzung von Alkohol, der in einer Abfindungsbrennerei unter Steueraussetzung gewonnen wurde, sind abweichend von § 29 Lieferscheine oder Rechnungen zu verwenden. Diese sind mit der Aufschrift „Lieferschein/Rechnung für die Beförderung verbrauchsteuerpflichtiger Waren unter Steueraussetzung“ zu kennzeichnen. Eine Beförderung über andere Mitgliedstaaten, Drittländer oder Drittgebiete ist dabei unzulässig.
-
-(5) Entspricht die unter Steueraussetzung an das Steuerlager gelieferte Alkoholmenge nicht der tatsächlich gewonnenen Alkoholmenge, wird für den nicht an das Steuerlager gelieferten Teil der Alkoholmenge die Alkoholsteuer festgesetzt. Satz 1 gilt nicht, wenn der Alkohol in Folge unvorhersehbarer Ereignisse oder höherer Gewalt unwiederbringlich verloren gegangen ist. Bei einer Steuerentstehung gilt der Steuersatz nach § 2 Absatz 1 des Gesetzes.
-
-(6) Im Falle des vereinfachten Lohnbrennens kann die Gewinnung, die Lagerung und die Beförderung von Alkohol unter Steueraussetzung nicht beantragt werden.
+# § 43 – (weggefallen)
 
 # § 44 – Steueranmeldung
 
@@ -936,7 +924,9 @@ Alkoholerzeugnisse nach § 27 Absatz 2 Nummer 5 des Gesetzes aus einem anderen M
 
 # § 57 – Allgemeine Verwendungserlaubnis
 
-Die gewerbliche Verwendung von Alkoholerzeugnissen, die, bezogen auf 100 Liter reinen Alkohol, mit den in § 54 Absatz 1 Nummer 1 genannten Vergällungsmitteln vergällt wurden und die für die in § 27 Absatz 1 Nummer 3 und 4 des Gesetzes genannten Zwecke verwendet werden, ist unter Verzicht auf eine förmliche Einzelerlaubnis allgemein erlaubt, soweit die Alkoholerzeugnisse bereits vergällt bezogen werden. Die §§ 58 bis 61 gelten insoweit nicht.
+(1) Die gewerbliche Verwendung von Alkoholerzeugnissen, die, bezogen auf 100 Liter reinen Alkohol, mit den in § 54 Absatz 1 Nummer 1 genannten Vergällungsmitteln vergällt wurden und die für die in § 27 Absatz 1 Nummer 3 und 4 des Gesetzes genannten Zwecke verwendet werden, ist unter Verzicht auf eine förmliche Einzelerlaubnis allgemein erlaubt, soweit die Alkoholerzeugnisse bereits vergällt bezogen werden. Die §§ 58 bis 61 gelten insoweit nicht.
+
+(2) Allgemein erlaubt ist die gewerbliche Verwendung von Rückständen der Alkoholrektifikation, die bezogen auf 100 Liter reinen Alkohol mindestens 4 Liter Fuselöl enthalten und die charakteristischen Geruchs- und Geschmacksstoffe von Rückständen der Alkoholrektifikation aufweisen, für die in § 27 Absatz 1 Nummer 4 des Gesetzes genannten Zwecke.
 
 # § 58 – Antrag auf Erlaubnis zur steuerfreien Verwendung
 

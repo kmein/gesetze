@@ -493,11 +493,11 @@ Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Li
 
 (3) Im Fall des Artikels 17 Abs. 1 der Verordnung (EG) Nr. 1896/2006 ist § 46a Abs. 4 und 5 entsprechend anzuwenden. Der Antrag auf Durchführung der mündlichen Verhandlung gilt als vom Antragsteller gestellt.
 
-# § 46c – Elektronisches Dokument
+# § 46c – Elektronisches Dokument; Verordnungsermächtigung
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates technische Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung durch das Gericht.
 
 (3) Das elektronische Dokument muss mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind.
 
@@ -507,13 +507,19 @@ Die ehrenamtlichen Richter sollen zu den Sitzungen nach der Reihenfolge einer Li
 
 2. der Übermittlungsweg zwischen dem besonderen elektronischen Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen Postfach und der elektronischen Poststelle des Gerichts,
 
-3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts; das Nähere regelt die Verordnung nach Absatz 2 Satz 2,
+3. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder einer juristischen Person des öffentlichen Rechts und der elektronischen Poststelle des Gerichts,
 
-4. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+4. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens eingerichteten elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung und der elektronischen Poststelle des Gerichts,
+
+5. der Übermittlungsweg zwischen einem nach Durchführung eines Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und der elektronischen Poststelle des Gerichts,
+
+6. sonstige bundeseinheitliche Übermittlungswege, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, bei denen die Authentizität und Integrität der Daten sowie die Barrierefreiheit gewährleistet sind.
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem Absender ist eine automatisierte Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
-(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
 # § 46d – Gerichtliches elektronisches Dokument
 
@@ -532,6 +538,10 @@ Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Gesc
 Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 46c Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
+
+# § 46g – Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. Gleiches gilt für die nach diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer Übermittlungsweg nach § 46c Absatz 4 Satz 1 Nummer 2 zur Verfügung steht. Ist eine Übermittlung aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 # § 47 – Sondervorschriften über Ladung und Einlassung *)
 
@@ -573,7 +583,7 @@ Im Geltungsbereich eines Tarifvertrags nach Satz 1 Nr. 1 gelten die tarifvertrag
 
 (1) Die Urteile werden von Amts wegen binnen drei Wochen seit Übermittlung an die Geschäftsstelle zugestellt. § 317 Abs. 1 Satz 3 der Zivilprozeßordnung ist nicht anzuwenden.
 
-(2) Die §§ 174, 178 Abs. 1 Nr. 2 der Zivilprozessordnung sind auf die nach § 11 zur Prozessvertretung zugelassenen Personen entsprechend anzuwenden.
+(2) Die §§ 173, 175 und 178 Absatz 1 Nummer 2 der Zivilprozessordnung sind auf die nach § 11 zur Prozessvertretung zugelassenen Personen entsprechend anzuwenden.
 
 (3) (weggefallen)
 
@@ -781,7 +791,7 @@ c) zwischen tariffähigen Parteien oder zwischen diesen und Dritten aus unerlaub
 
 (6) Für das Verfahren vor den Landesarbeitsgerichten gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
-(7) Die Vorschriften der §§ 46c bis 46f, 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
+(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, Güterichter, Mediation und außergerichtliche Konfliktbeilegung, Vorbereitung der streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind vorrangig zu erledigen.
 
@@ -847,7 +857,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Revision mit Ausnahme des § 566 entsprechend.
 
-(6) Die Vorschriften der §§ 46c bis 46f, 49 Abs. 1, der §§ 50, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
+(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
 
 # § 72a – Nichtzulassungsbeschwerde
 

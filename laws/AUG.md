@@ -205,11 +205,13 @@ In Verfahren mit förmlicher Gegenseitigkeit (§ 1 Absatz 1 Satz 1 Nummer 3) gil
 
 (2) Soweit der Aufenthaltsort nach Absatz 1 nicht zu ermitteln ist, darf die zentrale Behörde folgende Daten erheben:
 
-1. von den Trägern der gesetzlichen Rentenversicherung die dort bekannte derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort der betroffenen Person;
+1. von den Trägern der gesetzlichen Rentenversicherung und von einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch die dort bekannte derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort der betroffenen Person;
 
 2. vom Kraftfahrt-Bundesamt die Halterdaten der betroffenen Person nach § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes;
 
 3. wenn der Betroffene ausländischen Streitkräften angehört, die in Deutschland stationiert sind, von der zuständigen Behörde der Truppe die ladungsfähige Anschrift der betroffenen Person.
+
+Die Erhebung nach Satz 1 Nummer 1 bei einer berufsständischen Versorgungseinrichtung darf die zentrale Behörde nur durchführen, wenn tatsächliche Anhaltspunkte nahelegen, dass die betroffene Person Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 (3) Kann die zentrale Behörde den Aufenthaltsort des Verpflichteten nach den Absätzen 1 und 2 nicht ermitteln, darf sie einen Suchvermerk im Zentralregister veranlassen.
 
@@ -217,13 +219,15 @@ In Verfahren mit förmlicher Gegenseitigkeit (§ 1 Absatz 1 Satz 1 Nummer 3) gil
 
 (1) Ist die Unterhaltsforderung tituliert und weigert sich der Schuldner, auf Verlangen der zentralen Behörde Auskunft über sein Einkommen und Vermögen zu erteilen, oder ist bei einer Vollstreckung in die vom Schuldner angegebenen Vermögensgegenstände eine vollständige Befriedigung des Gläubigers nicht zu erwarten, stehen der zentralen Behörde zum Zweck der Anerkennung, Vollstreckbarerklärung und Vollstreckung eines Titels die in § 16 geregelten Auskunftsrechte zu. Die zentrale Behörde darf nach vorheriger Androhung außerdem
 
-1. von den Trägern der gesetzlichen Rentenversicherung den Namen, die Vornamen, die Firma sowie die Anschriften der derzeitigen Arbeitgeber der versicherungspflichtigen Beschäftigungsverhältnisse des Schuldners erheben;
+1. bei den Trägern der gesetzlichen Rentenversicherung und bei einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch den Namen und die Vornamen oder die Firma sowie die Anschrift der derzeitigen Arbeitgeber des Schuldners erheben;
 
 2. bei dem zuständigen Träger der Grundsicherung für Arbeitsuchende einen Leistungsbezug nach dem Zweiten Buch Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – abfragen;
 
 3. das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten des Schuldners abzurufen (§ 93 Absatz 8 der Abgabenordnung);
 
 4. vom Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 33 Absatz 1 des Straßenverkehrsgesetzes zu einem Fahrzeug, als dessen Halter der Schuldner eingetragen ist, erheben.
+
+Die Erhebung nach Satz 2 Nummer 1 bei einer berufsständischen Versorgungseinrichtung darf die zentrale Behörde nur durchführen, wenn tatsächliche Anhaltspunkte nahelegen, dass der Schuldner Mitglied dieser berufsständischen Versorgungseinrichtung ist.
 
 (2) Daten über das Vermögen des Schuldners darf die zentrale Behörde nur erheben, wenn dies für die Vollstreckung erforderlich ist.
 

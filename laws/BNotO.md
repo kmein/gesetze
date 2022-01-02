@@ -550,7 +550,7 @@ Im Fall des Satzes 1 Nummer 2 hat der Notar außerdem unverzüglich eine Sperrun
 
 (5) Zur Führung der Akten und Verzeichnisse dürfen nur Personen herangezogen werden, die bei dem Notar oder im Fall des Absatzes 3 Satz 3 bei dem Zusammenschluss der Notare beschäftigt sind. Absatz 3 Satz 1 und Absatz 4 bleiben unberührt.
 
-(6) Nach Ablauf der Aufbewahrungsfristen ist die verwahrende Stelle verpflichtet, die in Papierform geführten Akten und Verzeichnisse zu vernichten und die elektronisch geführten Akten und Verzeichnisse zu löschen, sofern nicht im Einzelfall eine weitere Aufbewahrung erforderlich ist.
+(6) Zum Ablauf der jeweiligen Aufbewahrungsfrist bietet die verwahrende Stelle die Einträge im Urkundenverzeichnis sowie die in der elektronischen Urkundensammlung und in der Sondersammlung verwahrten Dokumente dem zuständigen öffentlichen Archiv nach den jeweiligen archivrechtlichen Vorschriften zur Übernahme an. Im Übrigen ist die verwahrende Stelle verpflichtet, nach Ablauf der Aufbewahrungsfristen die in Papierform geführten Akten und Verzeichnisse zu vernichten und die elektronisch geführten Akten und Verzeichnisse zu löschen. Die Sätze 1 und 2 gelten nicht, solange im Einzelfall eine weitere Verwahrung durch die verwahrende Stelle erforderlich ist.
 
 # § 36 – Verordnungsermächtigung zu Akten und Verzeichnissen
 
@@ -620,15 +620,15 @@ Der Notar hat der ihm von Amts wegen bestellten Vertretung (§ 39 Absatz 2) eine
 
 # § 45 – Verwahrung bei Abwesenheit oder Verhinderung
 
-(1) Für die Dauer der Abwesenheit oder Verhinderung kann der Notar, dem keine Vertretung bestellt ist, seine Akten einschließlich der Verzeichnisse und Bücher einem anderen Notar im Bezirk desselben oder eines benachbarten Amtsgerichts oder dem Amtsgericht, in dessen Bezirk er seinen Amtssitz hat, in Verwahrung geben. Die Verwahrung durch einen anderen Notar ist dem Amtsgericht mitzuteilen.
+(1) Für die Dauer der Abwesenheit oder Verhinderung kann der Notar, dem keine Vertretung bestellt ist, seine Akten und Verzeichnisse sowie die ihm amtlich übergebenen Urkunden und Wertgegenstände einem anderen Notar im Bezirk desselben oder eines benachbarten Amtsgerichts in seinem Amtsbezirk oder der Notarkammer, in deren Bezirk er seinen Amtssitz hat, in Verwahrung geben. § 51a gilt entsprechend. Die Verwahrung durch einen anderen Notar ist der Notarkammer und der Aufsichtsbehörde mitzuteilen. Die Verwahrung durch die Notarkammer ist der Aufsichtsbehörde mitzuteilen.
 
-(2) Der Notar oder das Amtsgericht, dem die Akten in Verwahrung gegeben sind, hat an Stelle des abwesenden oder verhinderten Notars Ausfertigungen und Abschriften zu erteilen und Einsicht der Akten zu gestatten.
+(2) Der Notar oder die Notarkammer, dem oder der die Akten und Verzeichnisse in Verwahrung gegeben sind, hat an Stelle des abwesenden oder verhinderten Notars Ausfertigungen und Abschriften zu erteilen und Einsicht in die Akten zu gewähren.
 
-(3) Hat der Notar für die Dauer seiner Abwesenheit oder Verhinderung seine Akten nicht nach Absatz 1 in Verwahrung gegeben und wird die Erteilung einer Ausfertigung oder Abschrift aus den Akten oder die Einsicht der Akten verlangt, so hat das Amtsgericht, in dessen Bezirk der Notar seinen Amtssitz hat, die Akten in Verwahrung zu nehmen und die beantragte Amtshandlung vorzunehmen.
+(3) Hat der Notar für die Dauer seiner Abwesenheit oder Verhinderung seine Akten und Verzeichnisse nicht nach Absatz 1 in Verwahrung gegeben und wird die Erteilung einer Ausfertigung oder Abschrift aus den Akten oder die Einsicht in die Akten verlangt, so hat die Notarkammer, in deren Bezirk der Notar seinen Amtssitz hat, die Akten und Verzeichnisse in Verwahrung zu nehmen und die beantragte Amtshandlung vorzunehmen. § 51a Absatz 1 und 3 gilt entsprechend.
 
-(4) Der Notar, der die Akten in Verwahrung hat, erteilt die Ausfertigungen und beglaubigten Abschriften mit seiner Unterschrift und unter seinem Siegel oder Stempel. Für die Erteilung der Ausfertigungen oder Abschriften durch das Amtsgericht gelten die Vorschriften über die Erteilung von Ausfertigungen oder Abschriften gerichtlicher Urkunden. In dem Ausfertigungsvermerk soll auf die Abwesenheit oder Verhinderung des Notars hingewiesen werden.
+(4) Der Notar, der die Akten und Verzeichnisse in Verwahrung hat, erteilt die Ausfertigungen und beglaubigten Abschriften mit seiner Unterschrift und unter seinem Siegel oder Stempel. Dies gilt entsprechend für die Notarkammer, die die Akten und Verzeichnisse in Verwahrung hat. Im Ausfertigungsvermerk soll auf die Abwesenheit oder Verhinderung des Notars hingewiesen werden.
 
-(5) Die Kosten für die Erteilung von Ausfertigungen oder Abschriften stehen, wenn die Akten durch einen Notar verwahrt werden, diesem und, wenn die Akten durch das Amtsgericht verwahrt werden, der Staatskasse zu.
+(5) Werden die Akten und Verzeichnisse durch einen anderen Notar verwahrt, stehen diesem die Kosten für die Erteilung von Ausfertigungen oder Abschriften zu. Werden die Akten und Verzeichnisse durch die Notarkammer verwahrt, stehen dieser die Kosten für die Erteilung von Ausfertigungen oder Abschriften zu; die Vorschriften des Gerichts- und Notarkostengesetzes für den Notar, dem die Kosten für seine Tätigkeit selbst zufließen, gelten entsprechend.
 
 # § 46 – Amtspflichtverletzung der Vertretung
 
@@ -730,15 +730,23 @@ verstößt.
 
 # § 51 – Verwahrung bei Erlöschen des Amtes oder Verlegung des Amtssitzes
 
-(1) Ist das Amt eines Notars erloschen oder wird sein Amtssitz in einen anderen Amtsgerichtsbezirk verlegt, so sind die Akten und Bücher des Notars sowie die ihm amtlich übergebenen Urkunden dem Amtsgericht in Verwahrung zu geben. Die Landesjustizverwaltung kann die Verwahrung einem anderen Amtsgericht oder einem Notar übertragen. Die Vorschriften des § 45 Abs. 2, 4 und 5 gelten entsprechend.
+(1) Ist das Amt eines Notars erloschen oder ändert sich auf Grund der Verlegung seines Amtssitzes sein Amtsbereich, ist für die Verwahrung seiner Akten und Verzeichnisse sowie der ihm amtlich übergebenen Urkunden und Wertgegenstände die Notarkammer zuständig, in deren Bezirk sich der Amtssitz des Notars befunden hat. Die Landesjustizverwaltung kann die Zuständigkeit für die Verwahrung einer anderen Notarkammer oder einem Notar übertragen. § 35 Absatz 1 und § 45 Absatz 2, 4 und 5 gelten entsprechend. Mehrere Notarkammern können sich zur gemeinsamen Aufbewahrung von Akten und Verzeichnissen zusammenschließen; die eigene Verfügungsgewalt der Notarkammer muss gewahrt bleiben. Die gemeinsame Aufbewahrung ist der Landesjustizverwaltung mitzuteilen.
 
-(2) Die Siegel und Stempel des Notars hat das in Absatz 1 Satz 1 bezeichnete Amtsgericht zu vernichten.
+(2) Die Siegel und Stempel des Notars hat der Präsident des Landgerichts zu vernichten, in dessen Bezirk sich der Amtssitz des Notars befunden hat.
 
-(3) Wird ein Notar nach dem Erlöschen seines Amtes oder der Verlegung seines Amtssitzes erneut in dem Amtsgerichtsbezirk, in dem er seinen früheren Amtssitz hatte, zum Notar bestellt, so können ihm die nach Absatz 1 in Verwahrung genommenen Bücher und Akten wieder ausgehändigt werden.
+(3) Wird ein Notar nach dem Erlöschen seines Amtes oder der Verlegung seines Amtssitzes erneut zum Notar bestellt und ihm als Amtssitz ein Ort innerhalb seines früheren Amtsbereichs zugewiesen, kann die Landesjustizverwaltung ihm die Zuständigkeit für die Verwahrung wieder übertragen. Die Akten, Verzeichnisse, amtlich übergebenen Urkunden und Wertgegenstände sind dem Notar von der Stelle zu übergeben, in deren Verwahrung sie sich zuletzt befunden haben. § 51a gilt mit Ausnahme von Absatz 1 Satz 2 entsprechend.
 
-(4) Wird der Amtssitz eines Notars in einen anderen Amtsgerichtsbezirk innerhalb derselben Stadtgemeinde verlegt, so bleiben die Akten und Bücher in seiner Verwahrung. Die Siegel und Stempel sind nicht abzuliefern.
+(4) Wird der Amtssitz eines Notars innerhalb derselben Stadtgemeinde verlegt, bleibt der Notar für die Verwahrung auch dann zuständig, wenn sich dadurch der Amtsbereich ändert. Die Siegel und Stempel sind nicht abzuliefern.
 
 (5) Die Abgabe von Akten und Verzeichnissen, deren Aufbewahrungsfrist noch nicht abgelaufen ist, an ein öffentliches Archiv regelt die Landesjustizverwaltung. Eine Abgabe nach Satz 1 lässt die über die Aufbewahrung hinausgehenden Zuständigkeiten der die Akten und Verzeichnisse verwahrenden Stelle unberührt. Die Einsicht in notarielle Urkunden und Verzeichnisse, die nach Satz 1 abgegeben wurden, bestimmt sich ausschließlich nach den §§ 18a bis 18d dieses Gesetzes sowie nach § 51 Absatz 3 des Beurkundungsgesetzes.
+
+# § 51a – Ablieferung verwahrter Gegenstände
+
+(1) In den Fällen des § 51 Absatz 1 ist der Notar verpflichtet, die Akten und Verzeichnisse sowie die ihm amtlich übergebenen Urkunden und Wertgegenstände bei der für die Verwahrung zuständigen Stelle abzuliefern und ihr den Zugang zu den elektronisch geführten Akten und Verzeichnissen zu ermöglichen. Stempel und Siegel hat der Notar bei dem Präsidenten des Landgerichts abzuliefern. Die Aufsichtsbehörde kann die Ablieferung der in den Sätzen 1 und 2 genannten Gegenstände anordnen. Widerspruch und Anfechtungsklage gegen die Anordnung der Ablieferung haben keine aufschiebende Wirkung.
+
+(2) Die Ablieferung der Akten und Verzeichnisse sowie der amtlich übergebenen Urkunden und Wertgegenstände nach Absatz 1 Satz 1 hat geordnet und in einem zur Aufbewahrung geeigneten Zustand zu erfolgen. Liefert der Notar Akten, Verzeichnisse und die ihm amtlich übergebenen Urkunden oder Wertgegenstände nicht in einem geordneten und zur Aufbewahrung geeigneten Zustand ab, so kann die zuständige Stelle diese auf Kosten des Notars einem geordneten und zur Aufbewahrung geeigneten Zustand zuführen. Satz 2 gilt entsprechend für die Vernichtung oder Löschung von Akten und Verzeichnissen, deren Aufbewahrungsfrist bereits vor dem Übergang der Verwahrungszuständigkeit abgelaufen war.
+
+(3) Die für die Verwahrung zuständige Stelle ist nicht verpflichtet, die Vollständigkeit der abgelieferten Akten und Verzeichnisse sowie der dem Notar amtlich übergebenen Urkunden zu überprüfen.
 
 # § 52 – Weiterführung der Amtsbezeichnung
 
@@ -782,9 +790,11 @@ Widerspruch und Anfechtungsklage gegen die vorläufige Amtsenthebung haben keine
 
 # § 55 – Verwahrung und Amtshandlungen bei vorläufiger Amtsenthebung
 
-(1) Im Fall der vorläufigen Amtsenthebung hat das Amtsgericht, wenn dem Notar keine Notarvertretung bestellt ist, seine Akten und Bücher sowie Siegel, Stempel und Amtsschild für die Dauer der vorläufigen Amtsenthebung in Verwahrung zu nehmen. § 45 Abs. 2, 4 und 5 gilt entsprechend.
+(1) Ist ein Notar vorläufig seines Amtes enthoben und weder eine Notarvertretung noch ein Notariatsverwalter bestellt, so ist in diesem Zeitraum für die Verwahrung seiner Akten und Verzeichnisse sowie der ihm amtlich übergebenen Urkunden und Wertgegenstände die Notarkammer zuständig, in deren Bezirk der Notar seinen Amtssitz hat. Die in Papierform vorhandenen Akten und Verzeichnisse des Notars und die ihm amtlich übergebenen Urkunden und Wertgegenstände sowie Siegel, Stempel und Amtsschild sind von der Notarkammer für die Dauer der vorläufigen Amtsenthebung in Verwahrung zu nehmen. § 45 Absatz 1 Satz 4, Absatz 2, 4 und 5 und § 51a Absatz 3 gelten entsprechend.
 
-(2) Der Notar hat sich während der Dauer der vorläufigen Amtsenthebung jeder Amtshandlung zu enthalten. Ein Verstoß berührt jedoch die Gültigkeit der Amtshandlung nicht. Amtsgeschäfte nach § 23 kann der Notar nicht mehr vornehmen.
+(2) Ein vorläufig des Amtes enthobener Notar ist verpflichtet, seine Akten, Verzeichnisse, die ihm amtlich übergebenen Urkunden und Wertgegenstände sowie Stempel und Siegel an die Notarkammer herauszugeben. Die Aufsichtsbehörde kann die Herausgabe der in Satz 1 genannten Gegenstände anordnen. Widerspruch und Anfechtungsklage gegen die Anordnung der Herausgabe haben keine aufschiebende Wirkung.
+
+(3) Der Notar hat sich während der Dauer der vorläufigen Amtsenthebung jeder Amtshandlung zu enthalten. Ein Verstoß berührt jedoch die Gültigkeit der Amtshandlung nicht. Amtsgeschäfte nach § 23 kann der Notar nicht mehr vornehmen.
 
 # § 56 – Notariatsverwalter
 
@@ -810,11 +820,11 @@ Widerspruch und Anfechtungsklage gegen die vorläufige Amtsenthebung haben keine
 
 # § 58 – Fortführung der Amtsgeschäfte; Kostenforderungen
 
-(1) Der Notariatsverwalter übernimmt die Akten und Bücher des Notars, an dessen Stelle er bestellt ist, sowie die dem Notar amtlich übergebenen Urkunden und Wertgegenstände; sind bei der Bestellung des Notariatsverwalters die Akten und Bücher bereits von dem Amtsgericht in Verwahrung genommen (§ 51 Abs. 1 Satz 1), so sind sie in der Regel zurückzugeben.
+(1) Der Notariatsverwalter ist zuständig für die Verwahrung der Akten und Verzeichnisse des Notars, an dessen Stelle er bestellt ist, sowie für die Verwahrung der dem Notar amtlich übergebenen Urkunden und Wertgegenstände. Sind bei der Bestellung des Notariatsverwalters bereits Akten, Verzeichnisse, amtlich übergebene Urkunden und Wertgegenstände von der Notarkammer in Verwahrung genommen, so sind sie in der Regel zurückzugeben. § 51a Absatz 3 gilt entsprechend.
 
 (2) Der Notariatsverwalter führt die von dem Notar begonnenen Amtsgeschäfte fort. Die Kostenforderungen stehen dem Notariatsverwalter zu, soweit sie nach Übernahme der Geschäfte durch ihn fällig werden. Er muß sich jedoch im Verhältnis zum Kostenschuldner die vor der Übernahme der Geschäfte an den Notar gezahlten Vorschüsse anrechnen lassen.
 
-(3) Soweit die Kostenforderungen dem ausgeschiedenen Notar oder dessen Rechtsnachfolger zustehen, erteilt der Notariatsverwalter die vollstreckbare Ausfertigung der Kostenberechnung (§ 89 des Gerichts- und Notarkostengesetzes); lehnt er die Erteilung ab, so kann der Notar oder dessen Rechtsnachfolger die Entscheidung des Landgerichts nach § 127 des Gerichts- und Notarkostengesetzes beantragen. Ist dem Notar ein anderer Amtssitz zugewiesen, so bleibt er neben dem Notariatsverwalter zur Erteilung der vollstreckbaren Ausfertigung befugt. Der Notariatsverwalter hat ihm Einsicht in die Bücher und Akten zu gewähren; die dadurch entstehenden Kosten trägt der Notar.
+(3) Soweit die Kostenforderungen dem ausgeschiedenen Notar oder dessen Rechtsnachfolger zustehen, erteilt der Notariatsverwalter die vollstreckbare Ausfertigung der Kostenberechnung (§ 89 des Gerichts- und Notarkostengesetzes); lehnt er die Erteilung ab, so kann der Notar oder dessen Rechtsnachfolger die Entscheidung des Landgerichts nach § 127 des Gerichts- und Notarkostengesetzes beantragen. Ist dem Notar ein anderer Amtssitz zugewiesen, so bleibt er neben dem Notariatsverwalter zur Erteilung der vollstreckbaren Ausfertigung befugt. Der Notariatsverwalter hat ihm Einsicht in die Akten und Verzeichnisse zu gewähren; die dadurch entstehenden Kosten trägt der Notar.
 
 # § 59 – Vergütung; Abrechnung mit der Notarkammer
 
@@ -844,7 +854,7 @@ Für vermögensrechtliche Streitigkeiten zwischen der Notarkammer und dem Notari
 
 # § 63 – Einsicht der Notarkammer
 
-(1) Der Notariatsverwalter ist verpflichtet, einem Beauftragten der Notarkammer Akten und Bücher sowie die in seiner Verwahrung befindlichen Urkunden zur Einsicht vorzulegen.
+(1) Der Notariatsverwalter ist verpflichtet, Beauftragten der Notarkammer Einsicht in die Akten und Verzeichnisse sowie in die in seiner Verwahrung befindlichen Urkunden zu gewähren. § 78i bleibt unberührt.
 
 (2) Die Prüfungsbefugnisse der Aufsichtsbehörde bleiben unberührt.
 
@@ -862,7 +872,7 @@ Im Fall des Satzes 1 dauert die Amtsbefugnis des Notariatsverwalters fort, bis i
 
 (2) Das Amt eines für einen Anwaltsnotar nach § 56 Absatz 2 Satz 1, Absatz 3 Satz 1 oder Absatz 5 Satz 2 bestellten Notariatsverwalters endet mit Ablauf des Zeitraums, für den er bestellt ist. Das Amt endet zudem in den in Absatz 1 Satz 1 Nummer 2 und 3 genannten Fällen; in diesem Fall gilt Absatz 1 Satz 2 entsprechend.
 
-(3) Übernimmt in den in Absatz 1 Satz 1 Nummer 2 und 3 und Absatz 2 Satz 2 genannten Fällen der frühere Notar das Amt wieder oder wird dem neu bestellten Notar gemäß § 51 Abs. 1 Satz 2 die Verwahrung der Akten und Bücher übertragen, so führt der Notar die von dem Notariatsverwalter begonnenen Amtsgeschäfte fort. Die nach Übernahme des Amtes durch den Notar fällig werdenden Kostenforderungen stehen diesem zu. Er muß sich jedoch im Verhältnis zum Kostenschuldner die vor der Übernahme des Amtes an den Notariatsverwalter gezahlten Vorschüsse anrechnen lassen.
+(3) Übernimmt in den in Absatz 1 Satz 1 Nummer 2 und 3 und Absatz 2 Satz 2 genannten Fällen der frühere Notar das Amt wieder oder wird dem neu bestellten Notar gemäß § 51 Abs. 1 Satz 2 die Verwahrung der Akten, Verzeichnisse, amtlich übergebenen Urkunden und Wertgegenstände übertragen, so führt der Notar die von dem Notariatsverwalter begonnenen Amtsgeschäfte fort. Die nach Übernahme des Amtes durch den Notar fällig werdenden Kostenforderungen stehen diesem zu. Er muß sich jedoch im Verhältnis zum Kostenschuldner die vor der Übernahme des Amtes an den Notariatsverwalter gezahlten Vorschüsse anrechnen lassen.
 
 (4) Die dem Notariatsverwalter zustehenden Kostenforderungen werden nach der Beendigung seines Amtes von der Notarkammer im eigenen Namen eingezogen. Die §§ 19, 88 bis 90 und 127 des Gerichts- und Notarkostengesetzes gelten entsprechend. Die Notarkammer kann den neu bestellten oder wieder in sein Amt eingesetzten Notar damit beauftragen, die ausstehenden Forderungen auf ihre Kosten einzuziehen.
 
@@ -1012,7 +1022,7 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Notarkammern und der Einrich
 
 # § 70 – Präsident
 
-(1) Der Präsident vertritt die Notarkammer gerichtlich und außergerichtlich.
+(1) Der Präsident vertritt die Notarkammer gerichtlich und außergerichtlich. Bei der Erteilung von Ausfertigungen und beglaubigten Abschriften der von der Notarkammer nach den Vorschriften dieses Gesetzes verwahrten Urkunden wird die Notarkammer darüber hinaus von denjenigen Personen vertreten, die hierzu vom Präsidenten durch eine dauerhaft aufzubewahrende schriftliche oder elektronische Verfügung bestimmt worden sind. Nach Satz 2 darf zur Vertretung nur bestimmt werden, wer im Sinne des § 5 Absatz 1 und 2 persönlich und im Sinne des § 5 Absatz 5 fachlich geeignet und Mitglied des Vorstands oder mitarbeitende Person der Notarkammer ist. Im Fall des § 51 Absatz 1 Satz 4 darf zur Vertretung auch bestimmt werden, wer im Sinne des Satzes 3 geeignet und Mitglied des Vorstands oder mitarbeitende Person einer anderen an dem Zusammenschluss beteiligten Notarkammer ist.
 
 (2) Der Präsident vermittelt den geschäftlichen Verkehr der Notarkammer und des Vorstands.
 
@@ -1034,7 +1044,7 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Notarkammern und der Einrich
 
 2. die Richtlinien nach § 67 Abs. 2 zu beschließen;
 
-3. die Höhe und die Fälligkeit der Beiträge zu bestimmen;
+3. die Höhe und die Fälligkeit der Beiträge, Gebühren und Auslagen zu bestimmen;
 
 4. die Mittel zu bewilligen, die erforderlich sind, um den Aufwand für die gemeinschaftlichen Angelegenheiten zu bestreiten;
 
@@ -1050,9 +1060,11 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 (2) Rückständige Beiträge können auf Grund einer von dem Präsidenten der Notarkammer ausgestellten, mit der Bescheinigung der Vollstreckbarkeit und dem Siegel der Notarkammer versehenen Zahlungsaufforderung nach den Vorschriften über die Vollstreckung der Urteile in bürgerlichen Rechtsstreitigkeiten eingezogen werden.
 
+(3) Nimmt der Notar bei der Notarkammer Anlagen, Einrichtungen und Tätigkeiten für die Führung seiner Akten und Verzeichnisse in Anspruch, kann die Notarkammer dafür von dem Notar Gebühren erheben und den Ersatz von Auslagen verlangen.
+
 # § 74 – Auskunfts-, Vorlage- und Vorladerecht
 
-(1) Die Notarkammer kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Büchern und Akten sowie das persönliche Erscheinen vor den zuständigen Organen der Notarkammer verlangen. Die Notarkammer ist befugt, hierdurch erlangte Kenntnisse an die Einrichtungen nach § 67 Abs. 4 weiterzugeben, soweit diese von den Einrichtungen für die Erfüllung ihrer Aufgaben benötigt werden.
+(1) Die Notarkammer kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Akten und Verzeichnissen sowie das persönliche Erscheinen vor den zuständigen Organen der Notarkammer verlangen. Die Notarkammer ist befugt, hierdurch erlangte Kenntnisse an die Einrichtungen nach § 67 Abs. 4 weiterzugeben, soweit diese von den Einrichtungen für die Erfüllung ihrer Aufgaben benötigt werden.
 
 (2) Die Notarkammer kann zur Erzwingung der den Notaren oder Notarassessoren nach Absatz 1 obliegenden Amtspflichten nach vorheriger schriftlicher Androhung, auch zu wiederholten Malen, Zwangsgeld festsetzen. Das einzelne Zwangsgeld darf eintausend Euro nicht übersteigen. Das Zwangsgeld fließt der Notarkammer zu; es wird wie ein rückständiger Beitrag beigetrieben.
 
@@ -1544,11 +1556,11 @@ Die Bundesnotarkammer ist befugt, zur Erfüllung der ihr durch Gesetz oder Satzu
 
 (1) Den Aufsichtsbehörden obliegt die regelmäßige Prüfung und Überwachung der Amtsführung der Notare und des Dienstes der Notarassessoren. Zusätzliche Zwischenprüfungen und Stichproben sind ohne besonderen Anlaß zulässig. Bei einem neubestellten Notar wird die erste Prüfung innerhalb der ersten zwei Jahre seiner Tätigkeit vorgenommen.
 
-(2) Gegenstand der Prüfung ist die ordnungsmäßige Erledigung der Amtsgeschäfte des Notars. Die Prüfung erstreckt sich auch auf die Einrichtung der Geschäftsstelle, auf die Führung und Verwahrung der Bücher, Verzeichnisse und Akten, auf die ordnungsgemäße automatisierte Verarbeitung personenbezogener Daten, auf die vorschriftsmäßige Verwahrung von Wertgegenständen, auf die rechtzeitige Anzeige von Vertretungen sowie auf das Bestehen der Haftpflichtversicherung. In jedem Fall ist eine größere Anzahl von Urkunden und Nebenakten durchzusehen und dabei auch die Kostenberechnung zu prüfen.
+(2) Gegenstand der Prüfung ist die ordnungsmäßige Erledigung der Amtsgeschäfte des Notars. Die Prüfung erstreckt sich auch auf die Einrichtung der Geschäftsstelle, auf die Führung und Verwahrung der Akten und Verzeichnisse, auf die ordnungsgemäße automatisierte Verarbeitung personenbezogener Daten, auf die vorschriftsmäßige Verwahrung von Wertgegenständen, auf die rechtzeitige Anzeige von Vertretungen sowie auf das Bestehen der Haftpflichtversicherung. In jedem Fall ist eine größere Anzahl von Urkunden und Nebenakten durchzusehen und dabei auch die Kostenberechnung zu prüfen.
 
-(3) Die Zuständigkeit zur Durchführung der Prüfung richtet sich nach den hierzu erlassenen Bestimmungen der Landesjustizverwaltung. Die Aufsichtsbehörde kann nach Anhörung der Notarkammer Notare zu Prüfungen hinzuziehen. Zur Durchsicht und Prüfung der Verzeichnisse und Bücher und zur Prüfung der Kostenberechnungen und Abrechnungen über Gebührenabgaben einschließlich deren Einzugs sowie der Verwahrungsgeschäfte und dergleichen dürfen auch Beamte der Justizverwaltung herangezogen werden; eine Aufsichtsbefugnis steht diesen Beamten nicht zu. Soweit bei dem Notar die Kostenberechnung und der Kosteneinzug bereits von der Notarkasse oder der Ländernotarkasse geprüft wird, ist eine Prüfung nicht erforderlich.
+(3) Die Zuständigkeit zur Durchführung der Prüfung richtet sich nach den hierzu erlassenen Bestimmungen der Landesjustizverwaltung. Die Aufsichtsbehörde kann nach Anhörung der Notarkammer Notare zu Prüfungen hinzuziehen. Zur Durchsicht und Prüfung der Verzeichnisse und zur Prüfung der Kostenberechnungen und Abrechnungen über Gebührenabgaben einschließlich deren Einzugs sowie der Verwahrungsgeschäfte und dergleichen dürfen auch Beamte der Justizverwaltung herangezogen werden; eine Aufsichtsbefugnis steht diesen Beamten nicht zu. Soweit bei dem Notar die Kostenberechnung und der Kosteneinzug bereits von der Notarkasse oder der Ländernotarkasse geprüft wird, ist eine Prüfung nicht erforderlich.
 
-(4) Der Notar ist verpflichtet, den Aufsichtsbehörden oder den von diesen mit der Prüfung Beauftragten Akten, Verzeichnisse und Bücher sowie die in seiner Verwahrung befindlichen Urkunden zur Einsicht vorzulegen und auszuhändigen, Zugang zu den Anlagen zu gewähren, mit denen personenbezogene Daten automatisiert verarbeitet werden, sowie die notwendigen Aufschlüsse zu geben. Personen, mit denen sich der Notar zur gemeinsamen Berufsausübung verbunden oder mit denen er gemeinsame Geschäftsräume hat oder hatte, sind verpflichtet, den Aufsichtsbehörden Auskünfte zu erteilen und Akten vorzulegen, soweit dies für die Prüfung der Einhaltung der Mitwirkungsverbote erforderlich ist. Dies gilt auch für Dritte, mit denen eine berufliche Verbindung im Sinne von § 27 Abs. 1 Satz 2 besteht oder bestanden hat.
+(4) Der Notar ist verpflichtet, den Aufsichtsbehörden oder den von diesen mit der Prüfung Beauftragten Einsicht in die Akten und Verzeichnisse sowie die in seiner Verwahrung befindlichen Urkunden zu gewähren und ihnen diese auszuhändigen. Der Notar hat ihnen zudem den Zugang zu den Anlagen zu gewähren, mit denen personenbezogene Daten automatisiert verarbeitet werden, sowie ihnen die für die Zwecke der Aufsicht notwendigen Auskünfte zu erteilen. § 78i bleibt unberührt. Personen, mit denen sich der Notar zur gemeinsamen Berufsausübung verbunden oder mit denen er gemeinsame Geschäftsräume hat oder hatte, sind verpflichtet, den Aufsichtsbehörden Auskünfte zu erteilen und Akten und Verzeichnisse vorzulegen, soweit dies für die Prüfung der Einhaltung der Mitwirkungsverbote erforderlich ist. Dies gilt auch für Dritte, mit denen eine berufliche Verbindung im Sinne von § 27 Absatz 1 Satz 2 besteht oder bestanden hat.
 
 # § 94 – Missbilligung
 
@@ -1824,7 +1836,7 @@ Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den L
 
 1. fachkundige Personen beschäftigen, die den Notaren im Tätigkeitsbereich der Kasse zur Dienstleistung zugewiesen werden,
 
-2. allein oder gemeinsam mit der anderen Kasse oder Notarkammern Einrichtungen im Sinne von § 67 Absatz 4 Nummer 3 unterhalten,
+2. allein oder gemeinsam mit der anderen Kasse oder Notarkammern Einrichtungen im Sinne von Absatz 4 Nummer 3 zu unterhalten,
 
 3. über Absatz 3 Nr. 3 hinausgehende Anschlussversicherungen abschließen,
 
@@ -1882,9 +1894,9 @@ Der Verwaltungsrat fasst seine Beschlüsse mit der einfachen Mehrheit der abgege
 
 6. ob und in welcher Höhe die Bezüge von Notarassessoren (§ 7 Abs. 4 Satz 4) oder fachkundigen Beschäftigten, die einem Notar zugewiesen sind, zu erstatten sind.
 
-Fehlt eine Abgabensatzung, kann die Aufsichtsbehörde die Abgaben vorläufig festsetzen. Rückständige Abgaben können auf Grund einer vom Präsidenten ausgestellten, mit der Bescheinigung der Vollstreckbarkeit versehenen Zahlungsaufforderung nach den Vorschriften über die Vollstreckbarkeit gerichtlicher Entscheidungen in Zivilsachen eingezogen werden. Die Kasse kann die Erfüllung der Abgabepflicht einschließlich der zu Grunde liegenden Kostenberechnungen und des Kosteneinzugs durch den Notar nachprüfen. Der Notar hat den mit der Prüfung Beauftragten Einsicht in seine Akten, Urkunden, Konten, Verzeichnisse und Bücher zu gestatten, diese auszuhändigen und die erforderlichen Auskünfte zu erteilen.
+Fehlt eine Abgabensatzung, kann die Aufsichtsbehörde die Abgaben vorläufig festsetzen. Rückständige Abgaben können auf Grund einer vom Präsidenten ausgestellten, mit der Bescheinigung der Vollstreckbarkeit versehenen Zahlungsaufforderung nach den Vorschriften über die Vollstreckbarkeit gerichtlicher Entscheidungen in Zivilsachen eingezogen werden. Die Kasse kann die Erfüllung der Abgabepflicht einschließlich der zu Grunde liegenden Kostenberechnungen und des Kosteneinzugs durch den Notar nachprüfen. Der Notar hat den mit der Prüfung Beauftragten Einsicht in seine Urkunden, Akten, Verzeichnisse und Konten zu gestatten, diese auszuhändigen und die erforderlichen Auskünfte zu erteilen.
 
-(18) Die Kasse kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Büchern und Akten sowie das persönliche Erscheinen vor dem Präsidenten oder dem Verwaltungsrat verlangen. Der Präsident kann zur Erzwingung dieser Pflichten nach vorheriger schriftlicher Androhung, auch wiederholt, Zwangsgeld festsetzen. Das einzelne Zwangsgeld darf eintausend Euro nicht übersteigen. Das Zwangsgeld fließt der Kasse zu; es wird wie eine rückständige Abgabe beigetrieben.
+(18) Die Kasse kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Akten und Verzeichnissen sowie das persönliche Erscheinen vor dem Präsidenten oder dem Verwaltungsrat verlangen. Der Präsident kann zur Erzwingung dieser Pflichten nach vorheriger schriftlicher Androhung, auch wiederholt, Zwangsgeld festsetzen. Das einzelne Zwangsgeld darf eintausend Euro nicht übersteigen. Das Zwangsgeld fließt der Kasse zu; es wird wie eine rückständige Abgabe beigetrieben.
 
 (19) Im Übrigen bestimmen sich die Aufgaben und Rechtsverhältnisse der Kassen, ihrer Organe und deren Zuständigkeiten nach einer Satzung. Erlass und Änderungen der Satzung und der Abgabensatzung bedürfen zu ihrer Wirksamkeit der Genehmigung durch die Aufsichtsbehörde und der Bekanntmachung.
 
@@ -1942,15 +1954,31 @@ Notarkammern außerhalb der Tätigkeitsbereiche der Notarkasse und Ländernotark
 
 Abweichend von § 5 Absatz 5 kann auch zum Notar bestellt werden, wer ein rechtswissenschaftliches Studium an einer Universität oder Hochschule der Deutschen Demokratischen Republik mit dem Staatsexamen abgeschlossen und einen zweijährigen Vorbereitungsdienst mit einer Staatsprüfung absolviert hat. Auf den Vorbereitungsdienst mit der Staatsprüfung wird verzichtet, wenn die Person als Notar in einem Staatlichen Notariat tätig war oder zehn Jahre in einem juristischen Beruf tätig war und notariatsspezifische Kenntnisse nachweist.
 
-# § 118 – Übergangsvorschrift zu § 80
+# § 118 – Übergangsvorschrift für Akten, Bücher und Verzeichnisse
 
-Für die Zusammensetzung des Präsidiums der Bundesnotarkammer gilt bis zur ersten nach dem 31. Juli 2021 stattfindenden Wahl des Präsidiums § 80 in der bis einschließlich 31. Juli 2021 geltenden Fassung.
+(1) Für die Bücher des Notars der Jahrgänge bis einschließlich 2021 gelten die die Akten und Verzeichnisse betreffenden Regelungen der §§ 45, 51a, 55 Absatz 1 und 2, des § 58 Absatz 1 und 3 Satz 3, der §§ 63, 74, 93 Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 4 Satz 1 und 2 sowie des § 113 Absatz 17 und 18 entsprechend.
 
-# § 119 – (weggefallen)
+(2) Für Akten, Bücher und Verzeichnisse, die das Amtsgericht bereits vor dem 1. Januar 2022 in Verwahrung genommen hat, sind die §§ 45, 51 Absatz 1 Satz 2 und 3 und Absatz 3, § 55 Absatz 1 und § 58 Absatz 1 in ihrer am 31. Dezember 2021 geltenden Fassung weiter anzuwenden.
 
-# § 120 – Übergangsvorschrift zu Besetzungsverfahren
+(3) Die Aufbewahrungsfristen für die von dem Amtsgericht oder der Notarkammer verwahrten Akten, Bücher und Verzeichnisse richten sich nach den für den Notar geltenden Vorschriften.
 
-Für Besetzungsverfahren, die bei Inkrafttreten des Artikels 1 Nr. 1 des Gesetzes zur Änderung der Bundesnotarordnung (Neuregelung des Zugangs zum Anwaltsnotariat) vom 2. April 2009 (BGBl. I S. 696) nicht abgeschlossen sind, gilt § 6 der Bundesnotarordnung in der bis zu diesem Zeitpunkt geltenden Fassung.
+# § 119 – Übergangsvorschrift für bereits verwahrte Urkundensammlungen
+
+(1) Das Amtsgericht kann von ihm verwahrte Schriftstücke aus den Urkundensammlungen der Notare einschließlich der Vermerkblätter in die elektronische Form übertragen. Übertragungen nach Satz 1 müssen jeweils den gesamten Jahrgang einer Urkundensammlung umfassen. Die elektronischen Dokumente sind in elektronischen Urkundensammlungen zu verwahren. Für jede elektronische Urkundensammlung ist ein Urkundenverzeichnis anzulegen. § 55 Absatz 2 des Beurkundungsgesetzes gilt entsprechend. Die in den Urkundensammlungen verwahrten Erbverträge sind zuvor zu gesonderten Sammlungen zu nehmen und in den Urkundensammlungen durch beglaubigte Abschriften zu ersetzen. Für die Übertragung der Papierdokumente in die elektronische Form und die Einstellung der elektronischen Dokumente in die elektronischen Urkundensammlungen gilt § 56 Absatz 1 und 2 des Beurkundungsgesetzes entsprechend; anstelle des Notars handelt der Urkundsbeamte der Geschäftsstelle. Für die rechtliche Stellung der elektronischen Dokumente gilt § 56 Absatz 3 des Beurkundungsgesetzes entsprechend. In das Urkundenverzeichnis werden aus der Urkundenrolle mindestens die Angaben zum Namen und Amtssitz des Notars, zum Jahrgang der Urkundenrolle und zu der laufenden Nummer aufgenommen, unter der das Amtsgeschäft in der Urkundenrolle eingetragen ist.
+
+(2) An den jeweiligen elektronischen Dokumenten setzen sich die bis zur Übertragung geltenden Aufbewahrungsfristen fort. Die Aufbewahrungsfristen für die übertragenen Dokumente richten sich ab der Übertragung nach § 50 Absatz 1 Satz 1 Nummer 3 der Verordnung über die Führung notarieller Akten und Verzeichnisse. Die Aufbewahrungsfristen für die übertragenen Dokumente beginnen mit dem ersten Tag des auf die Einstellung der elektronischen Dokumente in das Elektronische Urkundenarchiv folgenden Kalenderjahres neu und enden spätestens mit dem Ablauf der Aufbewahrungsfrist für die jeweiligen elektronischen Dokumente. Für die Urkundenverzeichnisse gelten die Aufbewahrungsfristen für die Urkundenrollen entsprechend.
+
+(3) Der Notar kann Schriftstücke aus von ihm verwahrten Urkundensammlungen der Jahrgänge bis einschließlich 2021 einschließlich der Vermerkblätter in die elektronische Form übertragen sowie auch ohne eine solche Übertragung Urkundenverzeichnisse anlegen. Absatz 1 Satz 2 bis 9 und Absatz 2 gelten entsprechend. Für die Übertragung der vom 1. Januar bis zum 30. Juni 2022 erstellten Schriftstücke in die elektronische Form gelten die Sätze 1 und 2 entsprechend mit der Maßgabe, dass an die Stelle des gesamten Jahrgangs nach Absatz 1 Satz 2 das gesamte Halbjahr tritt.
+
+(4) Die Notarkammer kann Schriftstücke aus von ihr verwahrten Urkundensammlungen der Jahrgänge bis einschließlich 2021 einschließlich der Vermerkblätter in die elektronische Form übertragen sowie auch ohne eine solche Übertragung Urkundenverzeichnisse anlegen. Absatz 1 Satz 2 bis 9, Absatz 2 und 3 Satz 3 gelten entsprechend.
+
+(5) Die sich auf die Übertragung von Schriftstücken in die elektronische Form beziehenden Möglichkeiten der Absätze 1 bis 4 sind erst ab dem 1. Juli 2022 anzuwenden.
+
+# § 120 – Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv
+
+(1) Zum Ablauf der jeweiligen Aufbewahrungsfristen sind die Urkundenrolle, das Namensverzeichnis zur Urkundenrolle und die in der Urkundensammlung verwahrten Schriftstücke der Jahrgänge bis einschließlich 2021 dem zuständigen öffentlichen Archiv nach den jeweiligen archivrechtlichen Vorschriften zur Übernahme anzubieten. Satz 1 gilt auch für in der Urkundensammlung verwahrte Schriftstücke, die vom 1. Januar bis zum 30. Juni 2022 erstellt wurden.
+
+(2) Werden Urkundensammlungen der Jahrgänge bis einschließlich 2021, die vom Amtsgericht zu verwahren sind, vom zuständigen öffentlichen Archiv aufbewahrt, so gelten für die Erteilung von Ausfertigungen und Abschriften durch das Amtsgericht die Vorschriften über die Erteilung von Ausfertigungen und Abschriften gerichtlicher Urkunden. Abweichend von § 45 Absatz 5 stehen die Kosten in diesem Fall der Staatskasse zu.
 
 # Anlage 1 – (zu § 18d Absatz 1)Gebührenverzeichnis(Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken)
 

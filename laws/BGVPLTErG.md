@@ -110,5 +110,3 @@ Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann
 1. die Gewährung von Sachschadenersatz bei Arbeitsunfällen der Arbeitnehmerinnen und Arbeitnehmer der Mitgliedsunternehmen und
 
 2. die Regelung der wegen unfallbedingter Arbeitgeberleistungen übergeleiteten Schadenersatzansprüche.
-
-§ 5 Absatz 5 Satz 1 gilt entsprechend.

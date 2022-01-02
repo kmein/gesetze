@@ -5,7 +5,7 @@
 
 (1) Der Bundesnachrichtendienst ist eine Bundesoberbehörde im Geschäftsbereich des Bundeskanzleramtes. Einer polizeilichen Dienststelle darf er nicht angegliedert werden.
 
-(2) Der Bundesnachrichtendienst sammelt zur Gewinnung von Erkenntnissen über das Ausland, die von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind, die erforderlichen Informationen und wertet sie aus. Werden dafür im Geltungsbereich dieses Gesetzes Informationen einschließlich personenbezogener Daten erhoben, so richtet sich ihre Verarbeitung nach den §§ 2 bis 15, 19 bis 21 sowie 23 bis 32.
+(2) Der Bundesnachrichtendienst sammelt zur Gewinnung von Erkenntnissen über das Ausland, die von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind, die erforderlichen Informationen und wertet sie aus. Werden dafür im Geltungsbereich dieses Gesetzes Informationen einschließlich personenbezogener Daten erhoben, so richtet sich ihre Verarbeitung nach Satz 1 sowie den §§ 2 bis 8, 10 bis 39 sowie 59 bis 63.
 
 (+++ § 1: Zur Anwendung vgl. § 36 SÜG +++)
 
@@ -49,7 +49,7 @@ treten. § 8b Absatz 1 bis 9 des Bundesverfassungsschutzgesetzes ist mit der Ma�
 
 (2) Anordnungen nach § 8a Absatz 1 und 2 des Bundesverfassungsschutzgesetzes dürfen sich nur gegen Personen richten, bei denen auf Grund tatsächlicher Anhaltspunkte davon auszugehen ist, dass sie an der Schaffung oder Aufrechterhaltung einer in Absatz 1 Satz 2 genannten Gefahr beteiligt sind, sowie gegen die in § 8a Absatz 3 Nummer 2 des Bundesverfassungsschutzgesetzes bezeichneten Personen.
 
-(3) Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt.
+(3) (weggefallen)
 
 # § 4 – Besondere Auskunftsverlangen zu Bestandsdaten
 
@@ -121,287 +121,39 @@ und im Übrigen die Voraussetzung des § 24 vorliegen.
 
 (9) Der Bundesnachrichtendienst hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
-(10) Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe des Absatzes 4 Satz 1 eingeschränkt.
+(10) (weggefallen)
+
+(+++ Hinweis: Durch Art. 1 Nr. 4 G v. 19.4.2021 I 771 wird § 4 Satz 4 mWv 1.1.2022 aufgehoben; der Änderungsbefehl ist mangels hinreichender Bestimmtheit nicht ausführbar +++)
 
 # § 5 – Besondere Formen der Datenerhebung
 
-Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von Informationen einschließlich personenbezogener Daten die Mittel gemäß § 8 Abs. 2 des Bundesverfassungsschutzgesetzes anwenden, wenn Tatsachen die Annahme rechtfertigen, daß dies zur Erfüllung seiner Aufgaben erforderlich ist. Die §§ 9, 9a und 9b des Bundesverfassungsschutzgesetzes sind entsprechend anzuwenden.
+Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von Informationen einschließlich personenbezogener Daten nachrichtendienstliche Mittel anwenden, wenn Tatsachen die Annahme rechtfertigen, daß dies zur Erfüllung seiner Aufgaben erforderlich ist. § 8 Absatz 2 und die §§ 9, 9a und 9b des Bundesverfassungsschutzgesetzes sind entsprechend anzuwenden. § 1 Absatz 2 Satz 1 bleibt unberührt.
 
-# § 6 – Voraussetzungen für die Verarbeitung von Daten
-
-(1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben vom Inland aus mit technischen Mitteln Informationen einschließlich personenbezogener Daten aus Telekommunikationsnetzen, über die Telekommunikation von Ausländern im Ausland erfolgt (Telekommunikationsnetze), verarbeiten (Ausland-Ausland-Fernmeldeaufklärung), wenn diese Daten erforderlich sind, um
-
-1. frühzeitig Gefahren für die innere oder äußere Sicherheit der Bundesrepublik Deutschland erkennen und diesen begegnen zu können,
-
-2. die Handlungsfähigkeit der Bundesrepublik Deutschland zu wahren oder
-
-3. sonstige Erkenntnisse von außen- und sicherheitspolitischer Bedeutung über Vorgänge zu gewinnen, die in Bezug auf Art und Umfang durch das Bundeskanzleramt im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Verteidigung, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung bestimmt werden.
-
-Die Datenerhebung darf nur aus denjenigen Telekommunikationsnetzen erfolgen, die das Bundeskanzleramt zuvor durch Anordnung bestimmt hat.
-
-(2) Der Bundesnachrichtendienst darf die Erhebung von Inhaltsdaten im Rahmen der Ausland-Ausland-Fernmeldeaufklärung nur anhand von Suchbegriffen durchführen. Diese müssen für die Aufklärung von Sachverhalten nach Absatz 1 Satz 1 bestimmt und geeignet sein und ihre Verwendung muss im Einklang mit den außen- und sicherheitspolitischen Interessen der Bundesrepublik Deutschland stehen.
-
-(3) Suchbegriffe, die zur gezielten Erfassung von Einrichtungen der Europäischen Union, von öffentlichen Stellen ihrer Mitgliedstaaten oder von Unionsbürgerinnen oder Unionsbürgern führen, dürfen nur verwendet werden, wenn dies erforderlich ist,
-
-1. um Gefahren im Sinne des § 5 Absatz 1 Satz 3 des Artikel 10-Gesetzes zu erkennen und zu begegnen oder
-
-2. um Informationen im Sinne des Absatzes 1 Satz 1 Nummer 1 bis 3 zu gewinnen, soweit ausschließlich Daten über Vorgänge in Drittstaaten gesammelt werden sollen, die von besonderer Relevanz für die Sicherheit der Bundesrepublik Deutschland sind.
-
-Suchbegriffe, die zur gezielten Erfassung von Unionsbürgerinnen und Unionsbürgern führen, dürfen darüber hinaus verwendet werden, wenn dies erforderlich ist zur Erkennung und Begegnung von Straftaten im Sinne des § 3 Absatz 1 des Artikel 10-Gesetzes.
-
-(4) Eine Erhebung von Daten aus Telekommunikationsverkehren von deutschen Staatsangehörigen, von inländischen juristischen Personen oder von sich im Bundesgebiet aufhaltenden Personen ist unzulässig.
-
-(5) Eine Ausland-Ausland-Fernmeldeaufklärung zum Zwecke der Erzielung von Wettbewerbsvorteilen (Wirtschaftsspionage) ist unzulässig.
-
-(6) Verkehrsdaten werden höchstens sechs Monate gespeichert. Die §§ 19 und 20 bleiben im Übrigen unberührt.
-
-(7) Die technische und organisatorische Umsetzung von Maßnahmen nach Absatz 1 sowie die Kontrollzuständigkeiten innerhalb des Bundesnachrichtendienstes sind in einer Dienstvorschrift festzulegen, die auch das Nähere zu dem Anordnungsverfahren regelt. Die Dienstvorschrift bedarf der Zustimmung des Bundeskanzleramtes. Das Bundeskanzleramt unterrichtet das Parlamentarische Kontrollgremium.
-
-§ 6 idF d. G v. 23.12.2016 I 3346 u. G v. 30.6.2017 I 2097: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 7 – Weitere Verarbeitung der vom Ausland aus erhobenen Daten
-
-(1) Für die weitere Verarbeitung der vom Bundesnachrichtendienst mit Mitteln der Fernmeldeaufklärung vom Ausland aus erhobenen Daten gilt § 6 Absatz 1 Satz 1, Absatz 3 bis 6 entsprechend.
-
-(2) Eine gezielte Erfassung von Einrichtungen der Europäischen Union, von öffentlichen Stellen ihrer Mitgliedstaaten oder von Unionsbürgerinnen oder Unionsbürgern durch ausländische öffentliche Stellen vom Ausland aus darf durch den Bundesnachrichtendienst nur unter den Voraussetzungen des § 6 Absatz 3 veranlasst werden.
-
-§ 7 idF d. G v. 23.12.2016 I 3346 u. G v. 30.6.2017 I 2097: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 - I 1326 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 8 – Pflichten der Anbieter von Telekommunikationsdiensten
-
-(1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat dem Bundesnachrichtendienst auf Anordnung Auskunft über die näheren Umstände der nach Wirksamwerden der Anordnung durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur Übermittlung auf dem Telekommunikationsweg anvertraut sind, auszuhändigen sowie die Überwachung und Aufzeichnung der Telekommunikation zu ermöglichen. Die §§ 3 und 4 bleiben unberührt. Ob und in welchem Umfang das verpflichtete Telekommunikationsunternehmen Vorkehrungen für die technische und organisatorische Umsetzung der Überwachungsmaßnahmen zu treffen hat, bestimmt sich nach § 170 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung.
-
-(2) Das nach Absatz 1 verpflichtete Unternehmen hat vor Durchführung einer beabsichtigten Maßnahme unverzüglich die Personen, die mit der Durchführung der Maßnahme betraut werden sollen,
-
-1. auszuwählen,
-
-2. einer einfachen Sicherheitsüberprüfung unterziehen zu lassen und
-
-3. über Mitteilungsverbote nach § 17 sowie die Strafbarkeit eines Verstoßes nach § 34 zu belehren; die Belehrung ist aktenkundig zu machen.
-
-Mit der Durchführung einer Maßnahme dürfen nur Personen betraut werden, die nach Maßgabe des Satzes 1 überprüft und belehrt worden sind. Nach Zustimmung des Bundeskanzleramtes kann die Behördenleiterin oder der Behördenleiter des Bundesnachrichtendienstes oder eine Vertreterin oder ein Vertreter die nach Absatz 1 verpflichteten Unternehmen schriftlich auffordern, die Maßnahme bereits vor Abschluss der Sicherheitsüberprüfung durchzuführen. Die nach Absatz 1 verpflichteten Unternehmen haben sicherzustellen, dass die Geheimschutzmaßnahmen nach der Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern, für Bau und Heimat zum materiellen und organisatorischen Schutz von Verschlusssachen vom 31. März 2006 (GMBl S. 803), die zuletzt durch die Allgemeine Verwaltungsvorschrift vom 26. April 2010 (GMBl S. 846) geändert worden ist, in der jeweils geltenden Fassung getroffen werden.
-
-(3) Die Sicherheitsüberprüfung nach Absatz 2 Satz 1 Nummer 2 ist entsprechend dem Sicherheitsüberprüfungsgesetz durchzuführen. Zuständig ist das Bundesministerium des Innern, für Bau und Heimat. Soll mit der Durchführung einer Maßnahme eine Person betraut werden, für die innerhalb der letzten fünf Jahre bereits eine gleich- oder höherwertige Sicherheitsüberprüfung nach Bundes- oder Landesrecht durchgeführt worden ist, soll von einer erneuten Sicherheitsüberprüfung abgesehen werden.
-
-(+++ § 8: Zur Anwendung vgl. § 36 SÜG +++)
-
-# § 9 – Anordnung; Unterrichtung
-
-(1) Die Anordnung nach § 6 Absatz 1 ergeht schriftlich auf Antrag der Behördenleiterin oder des Behördenleiters des Bundesnachrichtendienstes oder einer Vertreterin oder eines Vertreters. Der Antrag sowie die Anordnung müssen bezeichnen:
-
-1. den Grund und die Dauer der Maßnahme,
-
-2. das betroffene Telekommunikationsnetz sowie
-
-3. das nach § 8 verpflichtete Unternehmen.
-
-(2) Der Anordnung durch die Behördenleiterin oder den Behördenleiter oder durch eine Vertreterin oder einen Vertreter bedarf die Bestimmung der Suchbegriffe
-
-1. nach § 6 Absatz 3 Satz 1 Nummer 1, soweit sich diese auf Einrichtungen der Europäischen Union oder auf öffentliche Stellen ihrer Mitgliedstaaten beziehen sowie
-
-2. nach § 6 Absatz 3 Satz 1 Nummer 2.
-
-Das Bundeskanzleramt ist über Anordnungen nach Satz 1 zu unterrichten.
-
-(3) Die Anordnungen nach Absatz 2 und § 6 Absatz 1 sind auf höchstens neun Monate zu befristen. Verlängerungen um jeweils bis zu neun Monate sind zulässig, soweit die Voraussetzungen der Anordnung fortbestehen.
-
-(4) Das Bundeskanzleramt unterrichtet das Unabhängige Gremium über die von ihm getroffenen Anordnungen nach § 6 Absatz 1 vor deren Vollzug. Das Unabhängige Gremium prüft die Zulässigkeit und Notwendigkeit der Anordnung. Die Anordnung kann auch ohne vorherige Unterrichtung des Unabhängigen Gremiums vollzogen werden, wenn das Ziel der Maßnahme ansonsten vereitelt oder wesentlich erschwert würde. In diesem Fall ist die Unterrichtung des Unabhängigen Gremiums unverzüglich nachzuholen. Anordnungen, die das Unabhängige Gremium für unzulässig oder nicht notwendig erklärt, sind unverzüglich aufzuheben.
-
-(5) Das Bundeskanzleramt unterrichtet das Unabhängige Gremium über die vom Bundesnachrichtendienst getroffenen Anordnungen nach Absatz 2, soweit sich diese auf Einrichtungen der Europäischen Union oder auf öffentliche Stellen ihrer Mitgliedstaaten beziehen. Anordnungen, die das Unabhängige Gremium für unzulässig oder nicht notwendig erklärt, sind unverzüglich aufzuheben. Das Unabhängige Gremium ist im Übrigen befugt, die Einhaltung der Vorgaben des § 6 Absatz 3 jederzeit stichprobenartig zu kontrollieren. Die Kontrollrechte des Parlamentarischen Kontrollgremiums bleiben unberührt.
-
-# § 10 – Kennzeichnung und Löschung
-
-(1) Die nach § 6 erhobenen Daten sind zu kennzeichnen.
-
-(2) Wird eine Anordnung nach § 9 Absatz 5 Satz 2 aufgehoben, so sind die aufgrund dieser Anordnung bereits erhobenen Daten unverzüglich zu löschen.
-
-(3) Werden Daten entgegen § 6 Absatz 3 oder § 9 Absatz 2 erhoben, sind diese unverzüglich zu löschen. Das Unabhängige Gremium ist hierüber zu unterrichten. Wird nachträglich erkannt, dass ein Suchbegriff einer Einrichtung der Europäischen Union, einer öffentlichen Stelle eines Mitgliedstaates oder einer Unionsbürgerin oder einem Unionsbürger zuzuordnen ist, sind die mittels dieses Suchbegriffs erhobenen Telekommunikationsverkehre ebenfalls unverzüglich zu löschen, es sei denn, eine gezielte Erfassung nach § 6 Absatz 3 wäre zulässig gewesen.
-
-(4) Werden Daten entgegen § 6 Absatz 4 erhoben, sind diese unverzüglich zu löschen. Werden die Daten nicht unverzüglich gelöscht, ist die G10-Kommission in der folgenden Sitzung zu unterrichten und der betroffenen Person ist die Erhebung der Daten mitzuteilen, sobald
-
-1. ausgeschlossen werden kann, dass hierdurch der Zweck der Maßnahme gefährdet ist und
-
-2. kein überwiegender Nachteil für das Wohl des Bundes oder eines Landes absehbar ist.
-
-Erfolgt die Mitteilung nicht binnen zwölf Monaten nach Erhebung der Daten, bedarf die weitere Zurückstellung der Zustimmung der G10-Kommission. Die G10-Kommission bestimmt die weitere Dauer der Zurückstellung. Fünf Jahre nach Erhebung der Daten kann mit Zustimmung der G10-Kommission endgültig von der Mitteilung abgesehen werden, wenn die Voraussetzungen für die Mitteilung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Solange die personenbezogenen Daten für eine Mitteilung oder für eine gerichtliche Nachprüfung der Datenerhebung von Bedeutung sein können, wird die Löschung zurückgestellt und die personenbezogenen Daten werden in ihrer Verarbeitung eingeschränkt; sie dürfen nur zu diesen Zwecken verwendet werden.
-
-(5) Werden Daten entgegen § 6 Absatz 5 erhoben, sind diese unverzüglich zu löschen.
-
-(6) Löschungen nach den Absätzen 2 bis 5 sind zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
-
-# § 11 – Kernbereichsschutz
-
-Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach § 6 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Sofern durch eine Maßnahme nach § 6 Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt wurden, dürfen diese nicht verwertet werden. Aufzeichnungen über solche Erkenntnisse sind unverzüglich zu löschen. Sowohl ihre Erlangung als auch ihre Löschung sind aktenkundig zu machen.
-
-# § 12 – Eignungsprüfung
-
-(1) Der Bundesnachrichtendienst darf Informationen einschließlich personenbezogener Daten aus Telekommunikationsnetzen erheben und auswerten, soweit dies zur Bestimmung
-
-1. geeigneter Suchbegriffe oder
-
-2. geeigneter Telekommunikationsnetze
-
-für Maßnahmen nach § 6 erforderlich ist (Eignungsprüfung).
-
-(2) Die Eignungsprüfung ist durch die Behördenleiterin oder den Behördenleiter oder durch eine Vertreterin oder einen Vertreter anzuordnen. Sie darf nur angeordnet werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass in dem zu prüfenden Telekommunikationsnetz geeignete Daten übertragen werden. Die Anordnung ist auf sechs Monate zu befristen. Ist für die Durchführung der Eignungsprüfung die Mitwirkung eines Unternehmens, das Telekommunikationsdienste anbietet, erforderlich, gelten § 6 Absatz 1 Satz 2 sowie die §§ 8 und 9 Absatz 1 entsprechend.
-
-(3) Die im Rahmen einer Eignungsprüfung erhobenen personenbezogenen Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 5 Absatz 7 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der Bundesnachrichtendienst darf die erhobenen personenbezogenen Daten speichern, soweit dies zur Durchführung der Eignungsprüfung erforderlich ist. Die Auswertung ist unverzüglich nach der Erhebung durchzuführen.
-
-(4) Personenbezogene Daten für eine Eignungsprüfung nach Absatz 1 Nummer 1 sind spätestens zwei Wochen, personenbezogene Daten für eine Eignungsprüfung nach Absatz 1 Nummer 2 spätestens vier Wochen nach ihrer Erhebung spurenlos zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
-
-(5) Eine über Absatz 3 Satz 1 hinausgehende Verwendung der erhobenen personenbezogenen Daten ist nur zulässig, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass dadurch eine erhebliche Gefahr abgewendet werden kann für
-
-1. Leib, Leben oder Freiheit einer Person oder
-
-2. die Sicherheit der Bundesrepublik Deutschland.
-
-(6) Daten aus laufenden Maßnahmen nach § 6 können auch für Eignungsprüfungen verwendet werden; die Absätze 1 und 3 bis 5 gelten entsprechend.
-
-# § 13 – Kooperation im Rahmen der Ausland-Ausland-Fernmeldeaufklärung
-
-(1) Soweit der Bundesnachrichtendienst im Rahmen der Ausland-Ausland-Fernmeldeaufklärung (§ 6) mit ausländischen öffentlichen Stellen, die nachrichtendienstliche Aufgaben wahrnehmen (ausländische öffentliche Stellen) kooperiert, dürfen dabei auch Informationen einschließlich personenbezogener Daten nach § 14 erhoben und nach § 15 ausgetauscht werden.
-
-(2) Eine Kooperation nach Absatz 1 mit einer ausländischen öffentlichen Stelle ist zulässig, wenn
-
-1. sie den Zielen des § 6 Absatz 1 Satz 1 Nummer 1 bis 3 dient und
-
-2. die Aufgabenerfüllung durch den Bundesnachrichtendienst ohne eine solche Kooperation wesentlich erschwert oder unmöglich wäre.
-
-(3) Einzelheiten der Kooperation sind vor ihrem Beginn zwischen dem Bundesnachrichtendienst und der ausländischen öffentlichen Stelle in einer Absichtserklärung schriftlich niederzulegen. In die Absichtserklärung sind insbesondere aufzunehmen:
-
-1. Kooperationsziele,
-
-2. Kooperationsinhalte,
-
-3. Kooperationsdauer,
-
-4. eine Absprache, dass die im Rahmen der Kooperation erhobenen Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie erhoben wurden, und die Verwendung mit grundlegenden rechtstaatlichen Prinzipien vereinbar sein muss,
-
-5. eine Absprache, nach der sich die ausländische öffentliche Stelle bereit erklärt, auf Ersuchen des Bundesnachrichtendienstes Auskunft über die vorgenommene Verwendung der Daten zu erteilen, sowie
-
-6. eine Zusicherung der ausländischen öffentlichen Stelle, einer Löschungsaufforderung des Bundesnachrichtendienstes Folge zu leisten.
-
-(4) Die Kooperationsziele und -inhalte müssen gerichtet sein auf die Gewinnung von Informationen
-
-1. zur Erkennung und Begegnung von Gefahren durch den internationalen Terrorismus,
-
-2. zur Erkennung und Begegnung von Gefahren durch die illegale Verbreitung von Massenvernichtungs- und Kriegswaffen,
-
-3. zur Unterstützung der Bundeswehr und zum Schutz der Streitkräfte der an der Kooperation beteiligten Staaten,
-
-4. zu krisenhaften Entwicklungen im Ausland,
-
-5. über die Gefährdungs- und Sicherheitslage von deutschen Staatsangehörigen sowie von Staatsangehörigen der an der Kooperation beteiligten Staaten im Ausland,
-
-6. zu politischen, wirtschaftlichen oder militärischen Vorgängen im Ausland, die von außen- und sicherheitspolitischer Bedeutung sind oder
-
-7. in vergleichbaren Fällen.
-
-(5) Die Absichtserklärung bedarf der Zustimmung des Bundeskanzleramtes, wenn die Kooperation mit ausländischen öffentlichen Stellen von Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes oder des Nordatlantikvertrages erfolgt; im Übrigen bedarf sie der Zustimmung der Chefin oder des Chefs des Bundeskanzleramtes. Das Parlamentarische Kontrollgremium ist über die Absichtserklärung zu unterrichten.
-
-§ 13: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 14 – Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation
-
-(1) Die Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation nach § 13 durch den Bundesnachrichtendienst ist zulässig,
-
-1. um die vereinbarten Kooperationsziele zu erreichen,
-
-2. wenn bei der Erhebung von Inhaltsdaten nur solche Suchbegriffe verwendet werden, die zur Erreichung der vereinbarten Kooperationsziele geeignet sind.
-
-Die Erhebung der Informationen einschließlich personenbezogener Daten und die Verwendung der Suchbegriffe müssen zudem in Einklang mit den außen- und sicherheitspolitischen Interessen der Bundesrepublik Deutschland stehen.
-
-(2) Im Übrigen gelten § 6 Absatz 1 Satz 2, Absatz 3 bis 7 sowie die §§ 8 bis 12 entsprechend.
-
-(3) Die Ausland-Ausland-Fernmeldeaufklärung darf im Rahmen einer Kooperation nach § 13 nur durch den Bundesnachrichtendienst selbst erfolgen.
-
-§ 14: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 15 – Automatisierte Datenübermittlung; Speicherung; Prüfung
-
-(1) Die im Rahmen der Kooperation erhobenen Informationen einschließlich personenbezogener Daten dürfen der ausländischen öffentlichen Stelle automatisiert übermittelt werden, wenn
-
-1. vorab durch eine automatisierte Prüfung erkannte
-
-a) Daten nach § 10 Absatz 3 und 4 oder
-
-b) Daten, deren Übermittlung nationalen Interessen der Bundesrepublik Deutschland entgegenstehen würden,
-
-gelöscht wurden und
-
-2. die sofortige Übermittlung erforderlich ist, um die Kooperationsziele zu erreichen.
-
-(2) Die Übermittlung der Daten ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
-
-(3) Die Einhaltung der Vorgaben nach Absatz 1 und § 11 wird stichprobenartig überprüft. Die Prüfung erfolgt unter Aufsicht einer Bediensteten oder eines Bediensteten des Bundesnachrichtendienstes, die oder der die Befähigung zum Richteramt hat. Sofern nachträglich erkannt wird, dass Daten entgegen dieser Vorgaben erhoben und an die ausländische öffentliche Stelle weitergegeben wurden, wird die ausländische öffentliche Stelle zur Löschung der Daten aufgefordert. Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt in Abständen von höchstens sechs Monaten über die Durchführung der Prüfung nach Satz 1. Einzelheiten sind in einer Dienstvorschrift zu regeln, die der Zustimmung des Bundeskanzleramtes bedarf. Das Bundeskanzleramt unterrichtet das Parlamentarische Kontrollgremium. Das Unabhängige Gremium darf die Einhaltung der Vorgaben nach Absatz 1 und § 11 jederzeit stichprobenartig kontrollieren.
-
-(4) Die im Rahmen der Kooperation auf Grundlage der von der ausländischen öffentlichen Stelle benannten Suchbegriffe erhobenen Daten werden durch den Bundesnachrichtendienst für die Dauer von zwei Wochen gespeichert. Die §§ 19 und 20 bleiben im Übrigen unberührt.
-
-§ 15: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 16 – Unabhängiges Gremium
-
-(1) Das Unabhängige Gremium besteht aus
-
-1. einer Vorsitzenden oder einem Vorsitzenden,
-
-2. zwei Beisitzerinnen oder Beisitzern sowie
-
-3. drei stellvertretenden Mitgliedern.
-
-Die Mitglieder des Unabhängigen Gremiums sowie die stellvertretenden Mitglieder des Unabhängigen Gremiums sind in ihrer Amtsführung unabhängig und Weisungen nicht unterworfen. Vorsitzende oder Vorsitzender und eine Beisitzerin oder ein Beisitzer sind Richterinnen am Bundesgerichtshof oder Richter am Bundesgerichtshof, die weitere Beisitzerin oder der weitere Beisitzer ist eine Bundesanwältin beim Bundesgerichtshof oder ein Bundesanwalt beim Bundesgerichtshof. Zwei stellvertretende Mitglieder sind Richterinnen am Bundesgerichtshof oder Richter am Bundesgerichtshof, ein stellvertretendes Mitglied ist eine Bundesanwältin beim Bundesgerichtshof oder ein Bundesanwalt beim Bundesgerichtshof.
-
-(2) Das Bundeskabinett beruft für die Dauer von sechs Jahren
-
-1. auf Vorschlag der Präsidentin oder des Präsidenten des Bundesgerichtshofs die Mitglieder des Unabhängigen Gremiums, die Richterinnen am Bundesgerichtshof oder Richter am Bundesgerichtshof sind, einschließlich deren Stellvertretung und
-
-2. auf Vorschlag der Generalbundesanwältin oder des Generalbundesanwalts das Mitglied des Unabhängigen Gremiums, das Bundesanwältin beim Bundesgerichtshof oder Bundesanwalt beim Bundesgerichtshof ist, einschließlich dessen Stellvertretung.
-
-(3) Dem Unabhängigen Gremium ist die für die Erfüllung seiner Aufgaben notwendige Personal- und Sachausstattung zur Verfügung zu stellen. Die Geschäftsstelle wird beim Bundesgerichtshof eingerichtet.
-
-(4) Das Unabhängige Gremium tritt mindestens alle drei Monate zusammen. Es gibt sich eine Geschäftsordnung. Das Unabhängige Gremium entscheidet mit der Mehrheit der Stimmen. Ist eines oder sind mehrere der Mitglieder verhindert, nimmt die jeweilige Stellvertreterin oder der jeweilige Stellvertreter an der Sitzung teil.
-
-(5) Die Beratungen des Unabhängigen Gremiums sind geheim. Die Mitglieder sowie die stellvertretenden Mitglieder des Unabhängigen Gremiums sowie die Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle sind zur Geheimhaltung der Angelegenheiten verpflichtet, die ihnen bei oder bei Gelegenheit ihrer Tätigkeit in dem Gremium bekannt geworden sind. Dies gilt auch für die Zeit nach ihrem Ausscheiden aus dem Unabhängigen Gremium. Die Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle haben sich einer erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen (§ 7 Absatz 1 Nummer 3 des Sicherheitsüberprüfungsgesetzes) unterziehen zu lassen.
-
-(6) Das Unabhängige Gremium unterrichtet in Abständen von höchstens sechs Monaten das Parlamentarische Kontrollgremium über seine Tätigkeit.
-
-# § 17 – Mitteilungsverbote
-
-(1) Personen, die Telekommunikationsdienste erbringen oder die an der Erbringung solcher Dienste mitwirken, dürfen anderen nichts über Maßnahmen nach § 6 Absatz 1 auch in Verbindung mit § 12 Absatz 2 Satz 4 mitteilen.
-
-(2) Erfolgt ein Auskunftsersuchen oder eine Auskunftserteilung nach § 8 Absatz 1 Satz 1 auch in Verbindung mit § 12 Absatz 2 Satz 4, so darf diese Tatsache oder der Inhalt des Ersuchens oder der erteilten Auskunft von Personen, die zur Beantwortung verpflichtet oder mit der Beantwortung betraut sind oder die hieran mitwirken, anderen nicht mitgeteilt werden.
-
-# § 18 – Entschädigung
-
-Der Bundesnachrichtendienst vereinbart mit den nach § 8 Absatz 1 Satz 1 oder § 12 Absatz 2 Satz 4 verpflichteten Unternehmen für die dort genannten Leistungen eine Entschädigung, deren Höhe sich an den nachgewiesenen tatsächlichen Kosten orientiert.
-
-# § 19 – Speicherung, Veränderung und Nutzung personenbezogener Daten
+# § 6 – Speicherung, Veränderung und Nutzung personenbezogener Daten
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten nach § 10 des Bundesverfassungsschutzgesetzes speichern, verändern und nutzen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist.
 
 (2) Die Speicherung, Veränderung und Nutzung personenbezogener Daten über Minderjährige ist nur unter den Voraussetzungen des § 11 des Bundesverfassungsschutzgesetzes sowie dann zulässig, wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass von dem Minderjährigen eine Gefahr für Leib oder Leben deutscher Staatsangehöriger im Ausland oder für deutsche Einrichtungen im Ausland ausgeht.
 
-§ 19: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
-
-# § 20 – Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten
+# § 7 – Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten
 
 (1) Der Bundesnachrichtendienst hat die in Dateien gespeicherten personenbezogenen Daten zu berichtigen, zu löschen und deren Verarbeitung einzuschränken nach § 12 des Bundesverfassungsschutzgesetzes mit der Maßgabe, dass die Prüffrist nach § 12 Abs. 3 Satz 1 des Bundesverfassungsschutzgesetzes zehn Jahre beträgt.
 
 (2) Der Bundesnachrichtendienst hat personenbezogene Daten in Akten zu berichtigen und deren Verarbeitung einzuschränken nach § 13 Absatz 1 und 2 des Bundesverfassungsschutzgesetzes. Für die Verwendung elektronischer Akten findet § 13 Absatz 4 des Bundesverfassungsschutzgesetzes mit der Maßgabe Anwendung, dass die Erforderlichkeit der elektronischen Akten für die Aufgabenerfüllung spätestens nach zehn Jahren zu prüfen ist.
 
-# § 21 – Dateianordnungen
+# § 8 – Dateianordnungen
 
 Der Bundesnachrichtendienst hat für jede automatisierte Datei mit personenbezogenen Daten eine Dateianordnung nach § 14 des Bundesverfassungsschutzgesetzes zu treffen, die der Zustimmung des Bundeskanzleramtes bedarf. § 14 Abs 2 und 3 des Bundesverfassungsschutzgesetzes ist anzuwenden.
 
-(+++ § 21: Zur Anwendung vgl. § 36 SÜG +++)
+(+++ § 8: Zur Anwendung vgl. § 36 SÜG +++)
 
-# § 22 – Auskunft an den Betroffenen
+# § 9 – Auskunft an den Betroffenen
 
-Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag Auskunft über zu seiner Person nach § 19 gespeicherte Daten entsprechend § 15 des Bundesverfassungsschutzgesetzes. An die Stelle des dort genannten Bundesministeriums des Innern, für Bau und Heimat tritt das Bundeskanzleramt.
+Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag Auskunft über zu seiner Person nach § 6 gespeicherte Daten entsprechend § 15 des Bundesverfassungsschutzgesetzes. An die Stelle des dort genannten Bundesministeriums des Innern, für Bau und Heimat tritt das Bundeskanzleramt.
 
-# § 23 – Übermittlung von Informationen an den Bundesnachrichtendienst
+# § 10 – Übermittlung von personenbezogenen Daten an den Bundesnachrichtendienst
 
-(1) Die Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts dürfen von sich aus dem Bundesnachrichtendienst die ihnen bekannt gewordenen Informationen einschließlich personenbezogener Daten übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung
+(1) Die Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts dürfen von sich aus dem Bundesnachrichtendienst die ihnen bekannt gewordenen personenbezogenen Daten übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung
 
 1. für seine Eigensicherung nach § 2 Abs. 1 Nr. 1 oder
 
@@ -409,44 +161,44 @@ Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag Auskunft über zu
 
 erforderlich ist. Für das Bundesministerium der Verteidigung und die Dienststellen der Bundeswehr gilt Satz 1 Nr. 2 mit der Maßgabe, dass die Übermittlung an den Bundesnachrichtendienst zur Erfüllung der Aufgaben nach § 1 Abs. 2 erforderlich ist.
 
-(2) Die Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, übermitteln dem Bundesnachrichtendienst von sich aus die ihnen bekanntgewordenen Informationen einschließlich personenbezogener Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, daß die Übermittlung für seine Eigensicherung nach § 2 Abs. 1 Nr. 1 erforderlich ist. Darüber hinaus dürfen sie dem Bundesnachrichtendienst von sich aus die ihnen bekannt gewordenen Informationen einschließlich personenbezogener Daten nach Maßgabe des Absatzes 1 Nr. 2 übermitteln.
+(2) Die Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen Sachleitungsbefugnis, die Polizeien, die Behörden des Zollfahndungsdienstes sowie andere Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz wahrnehmen, übermitteln dem Bundesnachrichtendienst von sich aus die ihnen bekanntgewordenen personenbezogenen Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, daß die Übermittlung für seine Eigensicherung nach § 2 Abs. 1 Nr. 1 erforderlich ist. Darüber hinaus dürfen sie dem Bundesnachrichtendienst von sich aus die ihnen bekannt gewordenen personenbezogenen Daten nach Maßgabe des Absatzes 1 Nr. 2 übermitteln.
 
-(3) Der Bundesnachrichtendienst darf nach § 18 Abs. 3 des Bundesverfassungsschutzgesetzes jede Behörde um die Übermittlung der zur Erfüllung seiner Aufgaben erforderlichen Informationen einschließlich personenbezogener Daten ersuchen und nach § 18 Abs. 4 des Bundesverfassungsschutzgesetzes amtlich geführte Register einsehen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist. § 17 Abs. 1 und § 18 Abs. 5 des Bundesverfassungsschutzgesetzes sind anzuwenden.
+(3) Der Bundesnachrichtendienst darf nach § 18 Abs. 3 des Bundesverfassungsschutzgesetzes jede Behörde um die Übermittlung der zur Erfüllung seiner Aufgaben erforderlichen personenbezogenen Daten ersuchen und nach § 18 Abs. 4 des Bundesverfassungsschutzgesetzes amtlich geführte Register einsehen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist. § 17 Abs. 1 und § 18 Abs. 5 des Bundesverfassungsschutzgesetzes sind anzuwenden.
 
 (3a)  
 (weggefallen)
 
 (4) Für die Übermittlung personenbezogener Daten, die auf Grund einer Maßnahme nach § 100a der Strafprozeßordnung bekanntgeworden sind, ist § 18 Abs. 6 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
 
-# § 24 – Übermittlung von Informationen durch den Bundesnachrichtendienst
+# § 11 – Übermittlung von personenbezogenen Daten durch den Bundesnachrichtendienst
 
-(1) Der Bundesnachrichtendienst darf Informationen einschließlich personenbezogener Daten an inländische öffentliche Stellen übermitteln, wenn dies zur Erfüllung seiner Aufgaben erforderlich ist oder wenn der Empfänger die Daten für erhebliche Zwecke der öffentlichen Sicherheit benötigt. Informationen einschließlich personenbezogener Daten, die mit den Mitteln nach § 5 erhoben worden sind, darf er an die in § 19 Absatz 1 Satz 1 des Bundesverfassungsschutzgesetzes bezeichneten Stellen nur unter den dort geregelten Voraussetzungen oder nach Absatz 3 übermitteln. Der Empfänger darf die übermittelten Daten, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie ihm übermittelt wurden.
+(1) Der Bundesnachrichtendienst darf personenbezogene Daten an inländische öffentliche Stellen übermitteln, wenn dies zur Erfüllung seiner Aufgaben erforderlich ist oder wenn der Empfänger die Daten für erhebliche Zwecke der öffentlichen Sicherheit benötigt. Personenbezogene Daten, die mit den Mitteln nach § 5 erhoben worden sind, darf er an die in § 19 Absatz 1 Satz 1 des Bundesverfassungsschutzgesetzes bezeichneten Stellen nur unter den dort geregelten Voraussetzungen oder nach Absatz 3 übermitteln. Der Empfänger darf die übermittelten Daten, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie ihm übermittelt wurden.
 
-(2) Für die Übermittlung von Informationen einschließlich personenbezogener Daten an andere Stellen ist § 19 Abs. 2 bis 5 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden; dabei ist die Übermittlung nach Absatz 4 dieser Vorschrift nur zulässig, wenn sie zur Wahrung außen- und sicherheitspolitischer Belange der Bundesrepublik Deutschland erforderlich ist und das Bundeskanzleramt seine Zustimmung erteilt hat. Für vom Verfassungsschutz übermittelte personenbezogene Daten im Sinne des § 18 Abs. 1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Abs. 1a Satz 2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
+(2) Für die Übermittlung von personenbezogenen Daten an andere Stellen ist § 19 Absatz 3 bis 5 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden; dabei ist die Übermittlung nach Absatz 4 dieser Vorschrift nur zulässig, wenn sie zur Wahrung außen- und sicherheitspolitischer Belange der Bundesrepublik Deutschland erforderlich ist und das Bundeskanzleramt seine Zustimmung erteilt hat. Für vom Verfassungsschutz übermittelte personenbezogene Daten im Sinne des § 18 Abs. 1a Satz 1 des Bundesverfassungsschutzgesetzes gilt § 18 Abs. 1a Satz 2 bis 4 des Bundesverfassungsschutzgesetzes entsprechend.
 
-(3) Der Bundesnachrichtendienst übermittelt Informationen einschließlich personenbezogener Daten an die Staatsanwaltschaften, die Polizeien und den Militärischen Abschirmdienst entsprechend § 20 des Bundesverfassungsschutzgesetzes.
+(3) Der Bundesnachrichtendienst übermittelt personenbezogene Daten an die Staatsanwaltschaften, die Polizeien und den Militärischen Abschirmdienst entsprechend § 20 des Bundesverfassungsschutzgesetzes.
 
-§ 24 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort. § 24 Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort. § 24 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
+# § 12 – Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen
 
-# § 25 – Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen
+(1) Der Bundesnachrichtendienst kann für die Dauer einer befristeten projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des Bundes und der Länder, dem Militärischen Abschirmdienst, den Polizeibehörden des Bundes und der Länder und dem Zollkriminalamt sowie Dienststellen im Geschäftsbereich des Bundesministeriums der Verteidigung eine gemeinsame Datei errichten. Die projektbezogene Zusammenarbeit bezweckt nach Maßgabe der Aufgaben und Befugnisse der in Satz 1 genannten Behörden den Austausch und die gemeinsame Auswertung von Erkenntnissen im Hinblick auf
 
-(1) Der Bundesnachrichtendienst kann für die Dauer einer befristeten projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des Bundes und der Länder, dem Militärischen Abschirmdienst, den Polizeibehörden des Bundes und der Länder und dem Zollkriminalamt eine gemeinsame Datei errichten. Die projektbezogene Zusammenarbeit bezweckt nach Maßgabe der Aufgaben und Befugnisse der in Satz 1 genannten Behörden den Austausch und die gemeinsame Auswertung von Erkenntnissen im Hinblick auf
+1. die in § 5 Abs. 1 Satz 3 Nr. 1 bis 3 des Artikel 10-Gesetzes genannten Gefahrenbereiche,
 
-1. die in § 5 Abs. 1 Satz 3 Nr. 1 bis 3 des Artikel 10-Gesetzes genannten Gefahrenbereiche oder
+2. die in § 5 Abs. 1 Satz 3 Nummer 4 bis 8 des Artikel 10-Gesetzes genannten Gefahrenbereiche, soweit deren Aufklärung Bezüge zum internationalen Terrorismus aufweist oder
 
-2. die in § 5 Abs. 1 Satz 3 Nummer 4 bis 8 des Artikel 10-Gesetzes genannten Gefahrenbereiche, soweit deren Aufklärung Bezüge zum internationalen Terrorismus aufweist.
+3. den Schutz der Funktionsfähigkeit der Bundeswehr für die Landes- oder Bündnisverteidigung sowie den Schutz der Funktionsfähigkeit der Bundeswehr bei Auslandseinsätzen.
 
 Personenbezogene Daten zu den Gefahrenbereichen nach Satz 2 dürfen unter Einsatz der gemeinsamen Datei durch die an der projektbezogenen Zusammenarbeit beteiligten Behörden im Rahmen ihrer Befugnisse verwendet werden, soweit dies in diesem Zusammenhang zur Erfüllung ihrer Aufgaben erforderlich ist. Bei der weiteren Verwendung der personenbezogenen Daten finden für die beteiligten Behörden die jeweils für sie geltenden Vorschriften über die Verwendung von Daten Anwendung.
 
 (2) Für die Eingabe personenbezogener Daten in die gemeinsame Datei gelten die jeweiligen Übermittlungsvorschriften zugunsten der an der Zusammenarbeit beteiligten Behörden entsprechend mit der Maßgabe, dass die Eingabe nur zulässig ist, wenn die Daten allen an der projektbezogenen Zusammenarbeit teilnehmenden Behörden übermittelt werden dürfen. Eine Eingabe ist ferner nur zulässig, wenn die Behörde, die die Daten eingegeben hat, die Daten auch in eigenen Dateien speichern darf. Die Daten sind zu kennzeichnen.
 
-(3) Für die Führung einer projektbezogenen gemeinsamen Datei gelten die §§ 19 und 20 in Verbindung mit § 6 Absatz 2 Satz 4 und 5 und Absatz 3 Satz 1 und § 14 Abs. 2 des Bundesverfassungsschutzgesetzes entsprechend. § 22 ist mit der Maßgabe anzuwenden, dass der Bundesnachrichtendienst die Auskunft im Einvernehmen mit der Behörde erteilt, die die datenschutzrechtliche Verantwortung nach Satz 1 trägt und die beteiligte Behörde die Zulässigkeit der Auskunftserteilung nach den für sie geltenden Bestimmungen prüft.
+(3) Für die Führung einer projektbezogenen gemeinsamen Datei durch den Bundesnachrichtendienst gelten die §§ 6 und 7 in Verbindung mit § 6 Absatz 2 Satz 4 und 5 und Absatz 3 Satz 1 und § 14 Abs. 2 des Bundesverfassungsschutzgesetzes entsprechend. § 9 ist mit der Maßgabe anzuwenden, dass der Bundesnachrichtendienst die Auskunft im Einvernehmen mit der Behörde erteilt, die die datenschutzrechtliche Verantwortung nach Satz 1 trägt und die beteiligte Behörde die Zulässigkeit der Auskunftserteilung nach den für sie geltenden Bestimmungen prüft.
 
-(4) Eine gemeinsame Datei nach Absatz 1 ist auf höchstens zwei Jahre zu befristen. Die Frist kann um zwei Jahre und danach um ein weiteres Jahr verlängert werden, wenn das Ziel der projektbezogenen Zusammenarbeit bei Projektende noch nicht erreicht worden ist und die Datei weiterhin für die Erreichung des Ziels erforderlich ist.
+(4) Eine gemeinsame Datei nach Absatz 1 ist auf höchstens zwei Jahre zu befristen. Die Frist kann um zwei Jahre und danach um ein weiteres Jahr verlängert werden, wenn das Ziel der projektbezogenen Zusammenarbeit bei Projektende noch nicht erreicht worden ist und die Datei weiterhin für die Erreichung des Ziels erforderlich ist. Soweit das Ziel der projektbezogenen Zusammenarbeit nach Absatz 1 Satz 2 Nummer 3 sich auf den Schutz der Funktionsfähigkeit der Bundeswehr bei Auslandseinsätzen bezieht und die Datei für die Erreichung dieses Ziels weiterhin erforderlich ist, kann die Frist über Satz 2 hinaus um jeweils ein weiteres Jahr, längstens jedoch bis zum Ende des Auslandseinsatzes verlängert werden.
 
 (5) Für die Berichtigung, Verarbeitungseinschränkung und Löschung der Daten zu einer Person durch die Behörde, die die Daten eingegeben hat, gelten die jeweiligen, für die Behörde anwendbaren Vorschriften über die Berichtigung, Verarbeitungseinschränkung und Löschung von Daten entsprechend.
 
-(6) Der Bundesnachrichtendienst hat für die gemeinsame Datei in einer Dateianordnung die Angaben nach § 21 in Verbindung mit § 14 Abs. 1 Satz 1 Nr. 1 bis 7 des Bundesverfassungsschutzgesetzes sowie weiter festzulegen:
+(6) Der Bundesnachrichtendienst hat im Fall des Absatzes 3 für die gemeinsame Datei in einer Dateianordnung die Angaben nach § 8 in Verbindung mit § 14 Abs. 1 Satz 1 Nr. 1 bis 7 des Bundesverfassungsschutzgesetzes sowie weiter festzulegen:
 
 1. die Rechtsgrundlage der Datei,
 
@@ -466,11 +218,11 @@ Personenbezogene Daten zu den Gefahrenbereichen nach Satz 2 dürfen unter Einsat
 
 9. die Zuständigkeit des Bundesnachrichtendienstes für Schadensersatzansprüche des Betroffenen nach § 83 des Bundesdatenschutzgesetzes.
 
-Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für die Fachaufsicht der zusammenarbeitenden Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 6 des Bundesverfassungsschutzgesetzes gilt entsprechend.
+Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für die Fachaufsicht der zusammenarbeitenden Behörden zuständigen obersten Bundes- oder Landesbehörden. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 6 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
-# § 26 – Gemeinsame Dateien mit ausländischen öffentlichen Stellen
+# § 13 – Gemeinsame Dateien mit ausländischen öffentlichen Stellen
 
-(1) Der Bundesnachrichtendienst kann zum Zwecke des Austausches und der gemeinsamen Auswertung von nachrichtendienstlichen Informationen und Erkenntnissen mit ausländischen öffentlichen Stellen gemeinsame Dateien führen (§ 27) oder sich an diesen beteiligen (§ 30). Die jeweilige Datei muss sich auf bestimmte Gefahrenlagen oder bestimmte Personenkreise beziehen.
+(1) Der Bundesnachrichtendienst kann zum Zwecke des Austausches und der gemeinsamen Auswertung von personenbezogenen Daten mit ausländischen öffentlichen Stellen gemeinsame Dateien führen (§ 14) oder sich an diesen beteiligen (§ 17). Die jeweilige Datei muss sich auf bestimmte Gefahrenlagen oder bestimmte Personenkreise beziehen.
 
 (2) Eine Zusammenarbeit im Sinne des Absatzes 1 ist nur zulässig, wenn
 
@@ -480,7 +232,7 @@ Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für d
 
 3. sichergestellt ist, dass das Prinzip der Gegenseitigkeit gewahrt wird.
 
-(3) Eine Zusammenarbeit im Sinne des Absatzes 1 mit ausländischen öffentlichen Stellen von Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes oder des Nordatlantikvertrages bedarf der Zustimmung des Bundeskanzleramtes; mit sonstigen ausländischen öffentlichen Stellen bedarf sie der Zustimmung der Chefin oder des Chefs des Bundeskanzleramtes. Das Parlamentarische Kontrollgremium ist über die Zusammenarbeit zu unterrichten.
+(3) Eine Zusammenarbeit im Sinne des Absatzes 1 mit ausländischen öffentlichen Stellen von Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages bedarf der Zustimmung des Bundeskanzleramtes; mit sonstigen ausländischen öffentlichen Stellen bedarf sie der Zustimmung der Chefin oder des Chefs des Bundeskanzleramtes. Das Parlamentarische Kontrollgremium ist über die Zusammenarbeit zu unterrichten.
 
 (4) Die Ziele der Zusammenarbeit sowie die Einzelheiten der gemeinsamen Datennutzung sind vor Beginn der Zusammenarbeit zwischen dem Bundesnachrichtendienst und den teilnehmenden ausländischen öffentlichen Stellen in einer Absichtserklärung schriftlich niederzulegen. In die Absichtserklärung ist neben der Festlegung des Zwecks der Datei insbesondere aufzunehmen, dass
 
@@ -488,13 +240,13 @@ Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für d
 
 2. der Bundesnachrichtendienst sich vorbehält, um Auskunft über die vorgenommene Verwendung der in die gemeinsame Datei übermittelten Daten zu bitten.
 
-# § 27 – Führung gemeinsamer Dateien durch den Bundesnachrichtendienst
+# § 14 – Führung gemeinsamer Dateien durch den Bundesnachrichtendienst mit ausländischen öffentlichen Stellen
 
-(1) Führt der Bundesnachrichtendienst eine Datei nach § 26 Absatz 1 als eigene Datei, muss sich diese auf Informationen und Erkenntnisse zur Erkennung und Begegnung von Gefahren im Sinne des § 5 Absatz 1 Satz 3 des Artikel 10-Gesetzes beziehen. § 14 Absatz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
+(1) Führt der Bundesnachrichtendienst eine Datei nach § 13 Absatz 1 als eigene Datei, muss sich diese auf personenbezogene Daten zur Erkennung und Begegnung von Gefahren im Sinne des § 5 Absatz 1 Satz 3 des Artikel 10-Gesetzes beziehen. § 14 Absatz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 (2) Für die Berichtigung, Verarbeitungseinschränkung und Löschung der Daten zu einer Person durch die teilnehmenden ausländischen öffentlichen Stellen gilt das jeweils anwendbare nationale Recht der ausländischen öffentlichen Stelle, die die entsprechenden Daten eingegeben hat.
 
-# § 28 – Dateianordnung bei gemeinsamen Dateien
+# § 15 – Dateianordnung bei gemeinsamen Dateien mit ausländischen öffentlichen Stellen
 
 Der Bundesnachrichtendienst hat für jede gemeinsam mit ausländischen öffentlichen Stellen genutzte Datei, die er selbst führt, eine Dateianordnung zu treffen. Diese muss folgende Angaben enthalten:
 
@@ -522,71 +274,757 @@ Der Bundesnachrichtendienst hat für jede gemeinsam mit ausländischen öffentli
 
 Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. Die Prüfkompetenz der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bezieht sich nur auf die Einrichtung der Datei durch den Bundesnachrichtendienst sowie die von diesem in die gemeinsame Datei eingegebenen Daten.
 
-# § 29 – Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien
+# § 16 – Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien mit ausländischen öffentlichen Stellen
 
-(1) Die Eingabe von Informationen einschließlich personenbezogener Daten durch den Bundesnachrichtendienst in die von diesem geführten gemeinsamen Dateien ist nur zulässig, wenn die Daten allen an der Zusammenarbeit teilnehmenden Stellen übermittelt werden dürfen. Eine Eingabe ist ferner nur zulässig, wenn der Bundesnachrichtendienst die Daten auch in eigenen Dateien speichern darf. Die personenbezogenen Daten sind zu kennzeichnen.
+(1) Die Eingabe von personenbezogenen Daten durch den Bundesnachrichtendienst in die von diesem geführten gemeinsamen Dateien mit ausländischen öffentlichen Stellen ist nur zulässig, wenn die Daten allen an der Zusammenarbeit teilnehmenden Stellen übermittelt werden dürfen. Eine Eingabe ist ferner nur zulässig, wenn der Bundesnachrichtendienst die Daten auch in eigenen Dateien speichern darf. Die personenbezogenen Daten sind zu kennzeichnen.
 
-(2) Die Eingabe durch den Bundesnachrichtendienst darf auch automatisiert erfolgen. § 15 Absatz 1 und 3 gilt entsprechend.
+(2) Die Eingabe durch den Bundesnachrichtendienst darf auch automatisiert erfolgen. § 32 Absatz 4 und 8 sowie § 33 Absatz 1 und 2 gelten entsprechend.
 
 (3) Der Bundesnachrichtendienst und die ausländischen öffentlichen Stellen dürfen unmittelbar auf die gespeicherten personenbezogenen Daten zugreifen und diese nutzen, wenn dies zur Erfüllung der Zwecke, zu denen die Datei errichtet wurde, erforderlich ist.
 
-(4) Die Eingabe und der Zugriff sind zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+(4) Die Eingabe und der Zugriff sind zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung einschließlich der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
 
-# § 30 – Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen
+# § 17 – Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen
 
-Eine Beteiligung des Bundesnachrichtendienstes an von ausländischen öffentlichen Stellen errichteten gemeinsamen Dateien im Sinne des § 26 Absatz 1 bedarf der Zustimmung des Bundeskanzleramtes. § 29 Absatz 1 bis 3 gilt entsprechend.
+Eine Beteiligung des Bundesnachrichtendienstes an von ausländischen öffentlichen Stellen errichteten gemeinsamen Dateien im Sinne des § 13 Absatz 1 bedarf der Zustimmung des Bundeskanzleramtes. § 16 Absatz 1 bis 3 gilt entsprechend.
 
-# § 31 – Verfahrensregeln für die Übermittlung von Informationen
+# § 18 – Verfahrensregeln für die Übermittlung von personenbezogenen Daten
 
-Für die Übermittlung von Informationen nach den §§ 23 und 24 sind die §§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
+Für die Übermittlung von personenbezogenen Daten nach den §§ 10 und 11 sind die §§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
 
-# § 32 – Unabhängige Datenschutzkontrolle
+# § 19 – Strategische Ausland-Fernmeldeaufklärung
 
-§ 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
+(1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben mit technischen Mitteln personenbezogene Inhaltsdaten von Ausländern im Ausland auf der Grundlage zuvor angeordneter strategischer Aufklärungsmaßnahmen verarbeiten (strategische Ausland-Fernmeldeaufklärung), soweit dies erforderlich ist für den Zweck
 
-# § 32a – Anwendung des Bundesdatenschutzgesetzes
+1. der politischen Unterrichtung der Bundesregierung oder
 
-Bei der Erfüllung der Aufgaben des Bundesnachrichtendienstes nach § 1 Absatz 2 ist das Bundesdatenschutzgesetz wie folgt anzuwenden:
+2. der Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung.
 
-1. von den Teilen 1 und 4 des Bundesdatenschutzgesetzes
+(2) Eine strategische Aufklärungsmaßnahme begrenzt das jeweilige Ziel der strategischen Ausland-Fernmeldeaufklärung durch Angaben zu
 
-a) finden § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4, die §§ 17 bis 21 sowie § 85 keine Anwendung,
+1. Aufklärungszweck,
 
-b) findet § 14 Absatz 2 mit der Maßgabe Anwendung, dass sich die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit nur an die Bundesregierung sowie an die für die Kontrolle des Bundesnachrichtendienstes zuständigen Gremien (Parlamentarisches Kontrollgremium, Vertrauensgremium, G 10-Kommission, Unabhängiges Gremium) wenden darf; eine Befassung der für die Kontrolle des Bundesnachrichtendienstes zuständigen Gremien setzt voraus, dass sie oder er der Bundesregierung entsprechend § 16 Absatz 2 Satz 1 des Bundesdatenschutzgesetzes zuvor Gelegenheit gegeben hat, innerhalb einer von ihr oder ihm gesetzten Frist Stellung zu nehmen;
+2. Aufklärungsthema,
 
-2. von Teil 3 des Bundesdatenschutzgesetzes sind die §§ 46, 51 Absatz 1 bis 4 sowie die §§ 52 bis 54, 62, 64, 83, 84 entsprechend anzuwenden.
+3. geografischem Fokus und
 
-# § 33 – Berichtspflicht
+4. Dauer.
 
-Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt über seine Tätigkeit. Über die Erkenntnisse aus seiner Tätigkeit unterrichtet er darüber hinaus auch unmittelbar die Bundesministerien im Rahmen ihrer Zuständigkeiten; hierbei ist auch die Übermittlung personenbezogener Daten zulässig.Der Bundesnachrichtendienst kann die Öffentlichkeit über Erkenntnisse informieren, die er im Rahmen seiner Aufgaben nach § 1 Absatz 2 und bei der Aufarbeitung seiner Historie gewinnt. Bei der Information darf er auch personenbezogene Daten bekanntgeben, wenn
+(3) Strategische Aufklärungsmaßnahmen nach Absatz 1 Nummer 1 sind nur zulässig, wenn sie der Gewinnung von Informationen über das Ausland dienen, die von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind, und zu deren Aufklärung das Bundeskanzleramt den Bundesnachrichtendienst beauftragt hat.
 
-1. dies für das Verständnis des Zusammenhanges oder für das Verständnis der Darstellung von Organisationen oder unorganisierten Gruppierungen erforderlich ist und
+(4) Strategische Aufklärungsmaßnahmen nach Absatz 1 Nummer 2 sind nur zulässig, wenn sie der Gewinnung von Informationen über das Ausland dienen, die von außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind, und zu deren Aufklärung das Bundeskanzleramt den Bundesnachrichtendienst beauftragt hat sowie tatsächliche Anhaltspunkte dafür vorliegen, dass durch sie Erkenntnisse gewonnen werden können
 
-2. die Interessen der Allgemeinheit das schutzwürdige Interesse des Betroffenen überwiegen.
+1. mit Bezug zu den folgenden Gefahrenbereichen:
 
-# § 34 – Strafvorschriften
+a) zur Landes- oder Bündnisverteidigung sowie zu Einsätzen der Bundeswehr oder verbündeter Streitkräfte im Ausland,
 
-Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 17 eine Mitteilung macht.
+b) zu krisenhaften Entwicklungen im Ausland und deren Auswirkungen,
 
-# § 35 – Bußgeldvorschriften
+c) zu Terrorismus oder Extremismus, der gewaltbereit oder auf die planvoll verborgen betriebene Durchsetzung politischer, religiöser oder ideologischer Ansichten ausgerichtet ist, oder dessen Unterstützung,
 
-(1) Ordnungswidrig handelt, wer
+d) zu internationalen kriminellen, terroristischen oder staatlichen Angriffen mittels Schadprogrammen auf die Vertraulichkeit, Integrität oder Verfügbarkeit von informationstechnischen Systemen,
 
-1. einer vollziehbaren Anordnung nach § 8 Absatz 1 Satz 1 oder Absatz 2 Satz 3 zuwiderhandelt oder
+e) zur Organisierten Kriminalität,
 
-2. entgegen § 8 Absatz 2 Satz 2 eine Person betraut.
+f) zur internationalen Verbreitung von Kriegswaffen im Sinne des Gesetzes über die Kontrolle von Kriegswaffen sowie des unerlaubten Außenwirtschaftsverkehrs mit Waren und technischen Unterstützungsleistungen in Fällen von erheblicher Bedeutung,
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
+g) zu Gefährdungen Kritischer Infrastrukturen oder
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesministerium für Wirtschaft und Energie.
+h) zu hybriden Bedrohungen,
 
-# § 36 – Übergangsregelung
+2. zum Schutz der folgenden Rechtsgüter:
 
-Maßnahmen im Sinne der §§ 6, 12 und 13 sowie 27 und 30, die vor dem 31. Dezember 2016 begonnen wurden, dürfen nach diesem Zeitpunkt noch bis zu zwölf Monate fortgeführt werden.
+a) Leib, Leben oder Freiheit einer Person,
 
-# §§ 37 bis 40 – (zukünftig in Kraft)
+b) Bestand oder Sicherheit des Bundes oder eines Landes,
 
- 
+c) Bestand oder Sicherheit von Einrichtungen der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages oder Bestand oder Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages,
+
+d) außenpolitische Handlungsfähigkeit der Bundesrepublik Deutschland oder
+
+e) gewichtige Rechtsgüter der Allgemeinheit, deren Grundlagen die Existenz der Menschen berührt.
+
+(5) Der Bundesnachrichtendienst darf die Erhebung von personenbezogenen Inhaltsdaten im Rahmen der strategischen Ausland-Fernmeldeaufklärung nur anhand von Suchbegriffen durchführen. Diese müssen für die strategischen Aufklärungsmaßnahmen nach Absatz 1 bestimmt, geeignet und erforderlich sein und ihre Verwendung muss im Einklang mit den außen- und sicherheitspolitischen Interessen der Bundesrepublik Deutschland stehen.
+
+(6) Soweit dies zur Durchführung strategischer Aufklärungsmaßnahmen nach Absatz 1 erforderlich ist, darf sich der Bundesnachrichtendienst mit technischen Mitteln Zugang zu informationstechnischen Systemen eines ausländischen Telekommunikations- oder Telemediendiensteanbieters im Ausland auch ohne dessen Wissen verschaffen und personenbezogene Daten, die dieser anlässlich der Erbringung seines Dienstes verarbeitet, aus der laufenden Kommunikation erheben. Dabei darf der Bundesnachrichtendienst auch personenbezogene Daten erheben, die der ausländische Telekommunikations- oder Telemediendiensteanbieter während seiner Verarbeitung der laufenden Kommunikation in seinen informationstechnischen Systemen speichert, sofern diese innerhalb des Anordnungszeitraums der strategischen Aufklärungsmaßnahme nach Absatz 1 erhoben werden und vor ihrer Erhebung durch den Bundesnachrichtendienst nicht älter als 48 Stunden sind. Verschafft sich der Bundesnachrichtendienst nach Satz 1 Zugang zu einem informationstechnischen System eines ausländischen Telekommunikations- oder Telemediendiensteanbieters im Ausland, darf er auch Bestandsdaten des ausländischen Telekommunikations- oder Telemediendiensteanbieters verarbeiten, die dieser anlässlich der Erbringung seines Dienstes verarbeitet, soweit diese anhand von Suchbegriffen erhoben werden oder sich auf die Gegenstelle der anhand des Suchbegriffs erhobenen Daten beziehen.
+
+(7) Eine Erhebung von personenbezogenen Daten der folgenden Personen aus Telekommunikationsverkehren ist unzulässig:
+
+1. deutsche Staatsangehörige,
+
+2. inländische juristische Personen sowie
+
+3. sich im Bundesgebiet aufhaltende Personen.
+
+Soweit technisch möglich, ist durch den Einsatz automatisierter Filter dafür zu sorgen, dass solche Daten herausgefiltert werden. Die herausgefilterten Daten sind unverzüglich automatisiert zu löschen. Die Filtermethoden werden kontinuierlich fortentwickelt und sind auf dem jeweiligen Stand der Technik zu halten. Werden trotz dieser Filterung Daten entgegen Satz 1 erhoben, sind diese Daten unverzüglich zu löschen. Dies gilt nicht, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass durch die Weiterverarbeitung der Daten eine erhebliche Gefahr für Leib, Leben oder Freiheit einer Person, die Sicherheit des Bundes oder eines Landes oder die Sicherheit anderer Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages abgewendet werden kann.
+
+(8) Eine unbeschränkte strategische Ausland-Fernmeldeaufklärung ist unzulässig. Das Volumen der strategischen Ausland-Fernmeldeaufklärung ist auf nicht mehr als 30 Prozent der bestehenden Telekommunikationsnetze zu begrenzen.
+
+(9) Eine strategische Ausland-Fernmeldeaufklärung zum Zweck der Erzielung von Wettbewerbsvorteilen (Wirtschaftsspionage) ist unzulässig.
+
+(10) Personenbezogene Daten sind unmittelbar nach der Datenerhebung wie folgt zu kennzeichnen:
+
+1. Angabe des Zwecks der Datenerhebung nach Absatz 1 und
+
+2. Angabe des Mittels der Datenerhebung.
+
+Die Kennzeichnung entfällt bei Übermittlungen.
+
+§ 19 Abs. 4 Nr. 1 Buchst. c Kursivdruck: Fehlschreibung des Wortes "politscher" in "politischer" korrigiert
+
+# § 20 – Besondere Formen der strategischen Ausland-Fernmeldeaufklärung
+
+(1) Die gezielte Erhebung von personenbezogenen Daten nach § 19 Absatz 5 von Einrichtungen der Europäischen Union, von öffentlichen Stellen der Mitgliedstaaten der Europäischen Union oder von Unionsbürgerinnen und Unionsbürgern darf nur erfolgen, wenn dies erforderlich ist
+
+1. zur Früherkennung von Gefahren im Sinne des § 19 Absatz 4 oder
+
+2. zur Sammlung und Auswertung von Informationen im Sinne des § 19 Absatz 3, soweit ausschließlich Daten über Vorgänge in Drittstaaten gewonnen werden sollen, die von besonderer außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind.
+
+Wird nachträglich erkannt, dass eine gezielte Datenerhebung von Einrichtungen der Europäischen Union, von öffentlichen Stellen der Mitgliedstaaten der Europäischen Union oder von Unionsbürgerinnen oder Unionsbürgern erfolgt ist, dürfen die erhobenen personenbezogenen Daten nur bei Vorliegen der Voraussetzungen des Satzes 1 weiterverarbeitet werden. Andernfalls sind sie unverzüglich zu löschen.
+
+(2) Die gezielte Erhebung von personenbezogenen Daten von Personen hinsichtlich derer
+
+1. tatsächliche Anhaltspunkte dafür vorliegen, dass sie Verursacher von Gefahren im Sinne des § 19 Absatz 4 sind, und
+
+2. eine Übermittlung der erhobenen personenbezogenen Daten zum Zweck der Weiterverarbeitung für Folgemaßnahmen mit unmittelbarer Außenwirkung für den Betroffenen nach Nummer 1 im Bereich der Gefahrenabwehr oder Strafverfolgung beabsichtigt ist,
+
+darf zur Gefahrenfrüherkennung (§ 19 Absatz 1 Nummer 2) nach § 23 Absatz 5 Satz 1 Nummer 2 nur angeordnet werden, wenn bei der Prüfung der Verhältnismäßigkeit die gegenüber diesen Personen gesteigerte Wahrscheinlichkeit belastender Folgen besonders berücksichtigt wurde.
+
+(3) Die individualisierte Überwachung des gesamten Telekommunikationsverkehrs einer Person ist unzulässig.
+
+# § 21 – Schutz von Vertraulichkeitsbeziehungen
+
+(1) Die gezielte Erhebung von personenbezogenen Daten nach § 19 Absatz 5 zum Zweck der Erlangung von Daten aus einer Vertraulichkeitsbeziehung ist unzulässig. Vertraulichkeitsbeziehungen im Sinne des Satzes 1 sind solche von Geistlichen, Verteidigern, Rechtsanwälten und Journalisten, die dem Schutz des § 53 Absatz 1 Satz 1 Nummer 1, 2, 3 und 5 sowie Satz 2 der Strafprozessordnung unterfallen würden.
+
+(2) Abweichend von Absatz 1 ist die gezielte Datenerhebung zulässig, wenn Tatsachen die Annahme rechtfertigen, dass
+
+1. die in Absatz 1 Satz 2 aufgeführte Person Täter oder Teilnehmer einer der in § 29 Absatz 3 genannten Straftaten ist oder
+
+2. dies notwendig ist zur Verhinderung einer Gefahr für
+
+a) Leib, Leben oder Freiheit einer Person,
+
+b) lebenswichtige Güter der Allgemeinheit oder
+
+c) den Bestand oder die Sicherheit des Bundes oder eines Landes oder die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+(3) Sofern erst die Weiterverarbeitung der erhobenen personenbezogenen Daten ergibt, dass diese schutzwürdig nach Absatz 1 sind, dürfen sie nur verwendet werden, wenn die Voraussetzungen des Absatzes 2 vorliegen. Andernfalls sind die Daten unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung einschließlich der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(4) Die Entscheidung über die Zugehörigkeit einer Person zu dem in Absatz 1 Satz 2 genannten Personenkreis ist zu dokumentieren.
+
+# § 22 – Kernbereichsschutz
+
+(1) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen über den Kernbereich privater Lebensgestaltung ist unzulässig.
+
+(2) Sofern erst die Weiterverarbeitung der erhobenen personenbezogenen Daten ergibt, dass diese dem Kernbereich privater Lebensgestaltung unterfallen, sind diese unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung einschließlich der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(3) Bestehen im Rahmen der Weiterverarbeitung nach Absatz 2 Zweifel und sollen die Daten nicht unverzüglich gelöscht werden, dürfen die Daten nicht ohne vorherige Prüfung durch den Unabhängigen Kontrollrat verwendet werden. Stellt der Unabhängige Kontrollrat fest, dass die Daten nicht weiterverarbeitet werden dürfen, sind die Daten unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+# § 23 – Anordnung
+
+(1) Strategische Aufklärungsmaßnahmen nach § 19 Absatz 1 bedürfen der Anordnung durch die Präsidentin oder den Präsidenten des Bundesnachrichtendienstes oder durch eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat.
+
+(2) Die Anordnung nach Absatz 1 ergeht schriftlich. In der Anordnung sind anzugeben:
+
+1. der Aufklärungszweck,
+
+2. das Aufklärungsthema im Sinne des § 19 Absatz 3 oder Absatz 4,
+
+3. der geografische Fokus,
+
+4. die Dauer,
+
+5. eine Begründung.
+
+(3) Bei strategischen Aufklärungsmaßnahmen nach § 19 Absatz 1 Nummer 2 ist bei der Darstellung des Aufklärungsthemas die Art der Gefahr nach § 19 Absatz 4 zu benennen, die aufgeklärt werden soll.
+
+(4) Der Unabhängige Kontrollrat prüft die Rechtmäßigkeit der Anordnung von strategischen Aufklärungsmaßnahmen vor deren Vollzug. Bestätigt der Unabhängige Kontrollrat die Rechtmäßigkeit der Anordnung nicht, tritt die Anordnung außer Kraft. Bei Gefahr im Verzug erfolgt eine vorläufige Prüfung der Rechtmäßigkeit durch ein Mitglied des gerichtsähnlichen Kontrollorgans des Unabhängigen Kontrollrates, wenn andernfalls der Aufklärungszweck der strategischen Aufklärungsmaßnahme vereitelt oder wesentlich erschwert würde. Wird im Rahmen der vorläufigen Prüfung festgestellt, dass die Anordnung rechtmäßig ist, darf diese vollzogen werden. In diesem Fall ist die Prüfung durch den Unabhängigen Kontrollrat unverzüglich nachzuholen. Hebt der Unabhängige Kontrollrat die Entscheidung nach Satz 3 auf, tritt die Anordnung außer Kraft und die bereits erhobenen Daten sind unverzüglich zu löschen.
+
+(5) Die gezielte Datenerhebung nach
+
+1. § 20 Absatz 1, soweit sich diese auf Einrichtungen der Europäischen Union oder auf öffentliche Stellen ihrer Mitgliedstaaten bezieht,
+
+2. § 20 Absatz 2 und
+
+3. § 21 Absatz 2
+
+bedarf der Anordnung durch die Präsidentin oder den Präsidenten des Bundesnachrichtendienstes oder durch eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat. Soweit zu den in Satz 1 genannten Zielen bereits eine Beschränkungsanordnung nach den §§ 3, 5 oder § 8 des Artikel 10-Gesetzes vorliegt, ist die Anordnung nach Satz 1 entbehrlich. Der Unabhängige Kontrollrat ist über entsprechende Beschränkungsanordnungen zu unterrichten.
+
+(6) Die Anordnung nach Absatz 5 Satz 1 ergeht schriftlich. In der Anordnung sind anzugeben:
+
+1. die strategische Aufklärungsmaßnahme, in deren Rahmen die gezielte Datenerhebung erfolgt,
+
+2. das Ziel der gezielten Datenerhebung,
+
+3. die Dauer der gezielten Datenerhebung,
+
+4. eine Begründung.
+
+Die Nennung einzelner Suchbegriffe, die zur gezielten Datenerhebung verwendet werden, ist nicht erforderlich.
+
+(7) Der Unabhängige Kontrollrat prüft die Rechtmäßigkeit der Anordnungen der gezielten Datenerhebung vor deren Vollzug. Bestätigt der Unabhängige Kontrollrat die Rechtmäßigkeit der Anordnung nicht, tritt die Anordnung außer Kraft. Bei Gefahr im Verzug erfolgt eine vorläufige Prüfung der Rechtmäßigkeit durch ein Mitglied des gerichtsähnlichen Kontrollorgans des Unabhängigen Kontrollrates, wenn andernfalls der Aufklärungszweck der gezielten Datenerhebung vereitelt oder wesentlich erschwert würde. Wird im Rahmen der vorläufigen Prüfung festgestellt, dass die Anordnung rechtmäßig ist, darf diese vollzogen werden. In diesem Fall ist die Prüfung durch den Unabhängigen Kontrollrat unverzüglich nachzuholen. Hebt der Unabhängige Kontrollrat die Entscheidung nach Satz 3 auf, tritt die Anordnung außer Kraft und die bereits erhobenen Daten sind unverzüglich zu löschen.
+
+(8) Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt in regelmäßigen Abständen über Anordnungen nach den Absätzen 1 und 5.
+
+# § 24 – Eignungsprüfung
+
+(1) Der Bundesnachrichtendienst darf personenbezogene Daten aus Telekommunikationsnetzen erheben und auswerten, soweit dies zur Bestimmung
+
+1. geeigneter Telekommunikationsnetze oder
+
+2. geeigneter Suchbegriffe
+
+im Rahmen strategischer Aufklärungsmaßnahmen nach § 19 Absatz 1 erforderlich ist (Eignungsprüfung).
+
+(2) Eine Eignungsprüfung nach Absatz 1 Nummer 1 darf nur durchgeführt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass in dem zu prüfenden Telekommunikationsnetz geeignete Daten für strategische Aufklärungsmaßnahmen übertragen werden. Die Eignungsprüfung nach Absatz 1 Nummer 1 ist auf sechs Monate zu befristen. Eine mehrmalige Verlängerung um jeweils weitere sechs Monate ist zulässig.
+
+(3) Die Eignungsprüfung nach Absatz 1 Nummer 1 ist durch die Präsidentin oder den Präsidenten des Bundesnachrichtendienstes oder durch eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat, schriftlich anzuordnen.
+
+(4) Ist für die Durchführung der Eignungsprüfung die Mitwirkung eines Unternehmens erforderlich, das geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt und in Deutschland eine Niederlassung hat oder die vorgenannten Dienste oder Mitwirkungshandlungen in Deutschland erbringt, gilt § 25 entsprechend.
+
+(5) Die im Rahmen einer Eignungsprüfung erhobenen personenbezogenen Daten dürfen nur zum Zweck der Eignungsprüfung verwendet werden. § 5 Absatz 7 Satz 2 bis 8 des BSI-Gesetzes gilt entsprechend. Der Bundesnachrichtendienst darf die erhobenen personenbezogenen Daten speichern, soweit dies zur Durchführung der Eignungsprüfung erforderlich ist. Die Auswertung ist unverzüglich nach der Erhebung durchzuführen.
+
+(6) Personenbezogene Daten für eine Eignungsprüfung nach Absatz 1 Nummer 2 sind spätestens zwei Wochen, personenbezogene Daten für eine Eignungsprüfung nach Absatz 1 Nummer 1 spätestens vier Wochen nach ihrer Erhebung zu löschen. Satz 1 findet keine Anwendung auf personenbezogene Daten, sofern und solange deren Inhalte zum Zeitpunkt der Erhebung aus technischen Gründen nicht lesbar gemacht werden können und zu Forschungszwecken benötigt werden. Auch diese Daten, die im Rahmen der Eignungsprüfung erhoben wurden, sind spätestens nach zehn Jahren zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung, einschließlich der Datenschutzkontrolle, verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(7) Abweichend von Absatz 5 Satz 1 ist zulässig:
+
+1. die Weiterverarbeitung der im Rahmen einer Eignungsprüfung erhobenen personenbezogenen Daten, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass eine erhebliche Gefahr besteht für
+
+a) Leib, Leben oder Freiheit einer Person oder
+
+b) die Sicherheit des Bundes oder eines Landes oder die Sicherheit von Einrichtungen der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages oder der Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages,
+
+2. die Übermittlung der im Rahmen einer Eignungsprüfung erhobenen personenbezogenen Daten an die Bundeswehr, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass dies erforderlich ist
+
+a) zum Schutz von Leib, Leben oder Freiheit einer Person,
+
+b) zum Schutz der Funktionsfähigkeit der Bundeswehr für die Landes- oder Bündnisverteidigung,
+
+c) zum Schutz der Funktionsfähigkeit der Bundeswehr bei Auslandseinsätzen oder
+
+d) zum Schutz der Funktionsfähigkeit der Streitkräfte von Mitgliedstaaten der Europäischen Union, des Nordatlantikvertrages oder der Europäischen Freihandelsassoziation.
+
+Eine Übermittlung darf in Fällen des Satzes 1 Nummer 2 auch automatisiert erfolgen. Die Kennzeichnung der Daten nach § 19 Absatz 10 erfolgt erst bei der Weiterverarbeitung der Daten nach Satz 1.
+
+# § 25 – Pflichten der Anbieter von Telekommunikationsdiensten, Entschädigung
+
+(1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt und in Deutschland eine Niederlassung hat oder die vorgenannten Dienste oder Mitwirkungshandlungen in Deutschland erbringt, hat dem Bundesnachrichtendienst auf Anordnung des Bundeskanzleramtes Auskunft über die näheren Umstände der nach Wirksamwerden der Anordnung durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur Übermittlung auf dem Telekommunikationsweg anvertraut sind, auszuhändigen sowie die Überwachung und Aufzeichnung der Telekommunikation zu ermöglichen. Die §§ 3 und 4 bleiben unberührt. Ob und in welchem Umfang das verpflichtete Telekommunikationsunternehmen Vorkehrungen für die technische und organisatorische Umsetzung zu treffen hat, bestimmt sich nach § 170 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung.
+
+(2) Die Anordnung nach Absatz 1 Satz 1 ergeht schriftlich und ist dem nach Absatz 1 verpflichteten Unternehmen insoweit mitzuteilen, als dies erforderlich ist, um die Erfüllung seiner Verpflichtungen zu ermöglichen. Die Anordnung muss bezeichnen:
+
+1. das verpflichtete Unternehmen,
+
+2. die Dauer der Verpflichtung sowie
+
+3. die betroffene Telekommunikation.
+
+(3) Das nach Absatz 1 verpflichtete Unternehmen hat vor Durchführung einer beabsichtigten Maßnahme unverzüglich die Personen, die mit der Durchführung der Maßnahme betraut werden sollen,
+
+1. auszuwählen,
+
+2. einer einfachen Sicherheitsüberprüfung unterziehen zu lassen und
+
+3. über Mitteilungsverbote nach § 60 sowie die Strafbarkeit eines Verstoßes nach § 66 zu belehren; die Belehrung ist aktenkundig zu machen.
+
+Mit der Durchführung einer Maßnahme dürfen nur Personen betraut werden, die nach Maßgabe des Satzes 1 überprüft und belehrt worden sind. Nach Zustimmung des Bundeskanzleramtes kann die Präsidentin oder der Präsident des Bundesnachrichtendienstes oder eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat, die nach Absatz 1 verpflichteten Unternehmen schriftlich auffordern, die Maßnahme bereits vor Abschluss der Sicherheitsüberprüfung durchzuführen. Die nach Absatz 1 verpflichteten Unternehmen haben sicherzustellen, dass die Geheimschutzmaßnahmen nach der vom Bundesministerium des Innern, für Bau und Heimat erlassenen Verschlusssachenanweisung vom 10. August 2018 (GMBl S. 826) in der jeweils geltenden Fassung getroffen werden.
+
+(4) Die Sicherheitsüberprüfung nach Absatz 3 Satz 1 Nummer 2 ist entsprechend dem Sicherheitsüberprüfungsgesetz durchzuführen. Zuständig ist das Bundesministerium des Innern, für Bau und Heimat. Soll mit der Durchführung einer Maßnahme eine Person betraut werden, für die innerhalb der letzten fünf Jahre bereits eine gleich- oder höherwertige Sicherheitsüberprüfung nach Bundes- oder Landesrecht durchgeführt worden ist, soll von einer erneuten Sicherheitsüberprüfung abgesehen werden.
+
+(5) Der Bundesnachrichtendienst vereinbart mit den nach Absatz 1 verpflichteten Unternehmen für die dort genannten Leistungen eine Entschädigung, deren Höhe sich an den nachgewiesenen tatsächlichen Kosten orientiert.
+
+# § 26 – Verarbeitung von personenbezogenen Verkehrsdaten
+
+(1) Der Bundesnachrichtendienst darf im Rahmen von strategischen Aufklärungsmaßnahmen nach § 19 Absatz 1 auch Verkehrsdaten verarbeiten. § 19 Absatz 6 Satz 1 und 2 gilt entsprechend.
+
+(2) Die Kennzeichnung erfolgt abweichend von § 19 Absatz 10 erst bei der Weiterverarbeitung der Daten im Rahmen der manuellen Auswertung.
+
+(3) Eine Verarbeitung von personenbezogenen Verkehrsdaten der folgenden Personen ist unzulässig:
+
+1. deutsche Staatsangehörige,
+
+2. inländische juristische Personen und
+
+3. sich im Bundesgebiet aufhaltende Personen.
+
+Satz 1 gilt nicht, sofern
+
+1. ausschließlich Daten, die im Rahmen des automatisierten Informationsaustausches zwischen informationstechnischen Systemen ohne unmittelbaren Bezug zu einem konkreten menschlichen Kommunikationsvorgang anfallen, verarbeitet werden oder
+
+2. diejenigen Verkehrsdaten, die eine Identifizierung der in Satz 1 genannten Personen ermöglichen, unverzüglich nach ihrer Erhebung automatisiert unkenntlich gemacht werden.
+
+Die automatisierte Unkenntlichmachung nach Satz 2 Nummer 2 ist so durchzuführen, dass die Eindeutigkeit der Daten erhalten bleibt und eine rückwirkende Identifizierung der in Satz 1 genannten Personen unmöglich oder nur mit unvertretbar hohem Aufwand möglich ist. Der Bundesnachrichtendienst darf Verkehrsdaten, die nach Satz 2 Nummer 2 unkenntlich gemacht wurden, zur Erfüllung seiner Aufgaben weiterverarbeiten, um
+
+1. Personen außerhalb des in Satz 1 genannten Personenkreises zu erkennen, die einen Deutschlandbezug aufweisen und über die Informationen erlangt werden können, die für die Aufgabenerfüllung des Bundesnachrichtendienstes relevant sind, sowie
+
+2. geeignete Übertragungswege im Sinne des § 10 Absatz 4 Satz 2 des Artikel 10-Gesetzes zu bestimmen.
+
+(4) Ergibt erst die Datenauswertung, dass Daten entgegen Absatz 3 Satz 2 Nummer 2 nicht unkenntlich gemacht wurden, sind diese Daten unverzüglich entsprechend Absatz 3 Satz 3 unkenntlich zu machen. Werden die Daten nicht unverzüglich unkenntlich gemacht, so sind sie unverzüglich zu löschen. Dies gilt nicht, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass durch die Weiterverarbeitung der Daten eine erhebliche Gefahr für Leib, Leben oder Freiheit einer Person, die Sicherheit des Bundes oder eines Landes oder die Sicherheit anderer Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages abgewendet werden kann. Werden die Daten nicht unverzüglich unkenntlich gemacht oder gelöscht, ist die G 10-Kommission in ihrer nächsten Sitzung zu unterrichten.
+
+(5) Die Verkehrsdaten werden höchstens sechs Monate gespeichert. Eine darüber hinausgehende Speicherung ist im Einzelfall möglich, soweit die Speicherung für die Aufgabenerfüllung des Bundesnachrichtendienstes weiterhin erforderlich ist. Für die weitere Speicherung gilt § 27 entsprechend.
+
+# § 27 – Auswertung der Daten und Prüfpflichten
+
+(1) Der Bundesnachrichtendienst prüft die anhand von Suchbegriffen erhobenen personenbezogenen Inhaltsdaten unverzüglich und sodann regelmäßig in Abständen von höchstens sieben Jahren daraufhin, ob sie allein oder zusammen mit bereits vorliegenden Daten für die in § 19 Absatz 1 bestimmten Zwecke erforderlich sind. Hierbei ist auf den jeweiligen Zweck der Erhebung gemäß § 19 Absatz 1 abzustellen. Soweit die personenbezogenen Daten für diese Zwecke nicht erforderlich sind, sind sie unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung, einschließlich der Datenschutzkontrolle, verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(2) Die Löschung der Daten unterbleibt, solange und soweit die Daten für eine Mitteilung nach § 59 oder zu Kontrollzwecken des Unabhängigen Kontrollrates erforderlich sind.
+
+# § 28 – Datenerhebung durch eine ausländische öffentliche Stelle
+
+(1) Der Bundesnachrichtendienst darf ausländische öffentliche Stellen zur Durchführung strategischer Aufklärungsmaßnahmen ersuchen.
+
+(2) Der Bundesnachrichtendienst darf die von der ausländischen öffentlichen Stelle erhobenen Daten verarbeiten. Die in diesem Unterabschnitt geregelten Vorschriften zur Datenverarbeitung finden entsprechende Anwendung.
+
+(3) Soweit die ausländische öffentliche Stelle zur Datenerhebung Suchbegriffe des Bundesnachrichtendienstes verwendet, müssen diese Suchbegriffe die Voraussetzungen des § 19 Absatz 5 und der §§ 20 bis 22 und 23 Absatz 5 erfüllen. Die ausländische öffentliche Stelle darf diese Suchbegriffe für eigene Zwecke nur nach vorheriger Zustimmung des Bundesnachrichtendienstes nutzen. Eine solche Zustimmung kann erteilt werden, wenn eine Übermittlung der Suchbegriffe nach § 30 zulässig wäre.
+
+# § 29 – Übermittlung von personenbezogenen Daten aus der strategischen Ausland-Fernmeldeaufklärung an inländische öffentliche Stellen und andere inländische Stellen
+
+(1) Der Bundesnachrichtendienst darf an das Bundesamt für Verfassungsschutz, die Verfassungsschutzbehörden der Länder und an den Militärischen Abschirmdienst übermitteln:
+
+1. die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zum Schutz besonders gewichtiger Rechtsgüter, und
+
+2. die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten zum Zweck der Unterrichtung der Bundesregierung oder einer Landesregierung, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung zur Erfüllung seiner Aufgaben oder der Aufgaben der Empfänger erforderlich ist.
+
+(2) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an andere inländische öffentliche Stellen zum Zweck der Unterrichtung der Bundesregierung oder einer Landesregierung übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung zur Erfüllung seiner Aufgaben oder der Aufgaben der Empfänger erforderlich ist.
+
+(3) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an Strafverfolgungsbehörden übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zur Verfolgung von
+
+1. Straftaten nach § 100b Absatz 2 der Strafprozessordnung oder
+
+2. vorsätzlichen Straftaten nach den §§ 17 und 18 des Außenwirtschaftsgesetzes.
+
+(4) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 2 genannten Stellen auch zum Zweck der Weiterverarbeitung für Folgemaßnahmen mit unmittelbarer Außenwirkung für den Betroffenen, insbesondere zur Gefahrenabwehr, übermitteln,
+
+1. soweit dies in anderen Rechtsvorschriften vorgesehen ist oder
+
+2. wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zur Abwehr einer Gefahr für besonders gewichtige Rechtsgüter oder zur Abwehr einer besonders schwerwiegenden Beeinträchtigung der Rechte Einzelner.
+
+(5) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die Bundeswehr übermitteln, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass dies erforderlich ist
+
+1. zum Schutz der Funktionsfähigkeit der Bundeswehr für die Landes- oder Bündnisverteidigung und bei Auslandseinsätzen,
+
+2. zum Schutz der Funktionsfähigkeit der Streitkräfte von Mitgliedstaaten der Europäischen Union, des Nordatlantikvertrages oder der Europäischen Freihandelsassoziation,
+
+3. zum Schutz von Leib, Leben oder Freiheit einer Person oder
+
+4. zum Schutz von anderen besonders gewichtigen Rechtsgütern.
+
+Die in Satz 1 genannten personenbezogenen Daten darf der Bundesnachrichtendienst auch automatisiert an die Bundeswehr übermitteln, sofern diese auf Grundlage von Suchbegriffen erhoben wurden, die strategischen Aufklärungsmaßnahmen nach § 19 Absatz 4 Nummer 1 Buchstabe a oder Nummer 2 Buchstabe a zugeordnet sind.
+
+(6) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an andere inländische Stellen übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung erforderlich ist
+
+1. zum Schutz der freiheitlichen demokratischen Grundordnung,
+
+2. zum Schutz des Bestandes oder der Sicherheit des Bundes oder eines Landes oder
+
+3. zur Gewährleistung der Sicherheit von lebenswichtigen Gütern der Allgemeinheit, insbesondere zum Schutz von Einrichtungen Kritischer Infrastruktur.
+
+Übermittlungen nach Satz 1 bedürfen der vorherigen Zustimmung durch das Bundeskanzleramt. Der Bundesnachrichtendienst darf personenbezogene Daten an andere inländische Stellen auch ohne Vorliegen der Voraussetzungen der Sätze 1 und 2 übermitteln, wenn sie lediglich zur Konkretisierung einer Anfrage an eine andere Stelle übermittelt werden und dieser die Daten bereits bekannt sind.
+
+(7) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung gekennzeichneten personenbezogenen Daten an inländische öffentliche Stellen über die Absätze 1 und 2 hinaus auch übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass eine Übermittlung erforderlich ist zur Verhinderung einer unmittelbar bevorstehenden Gefahr für
+
+1. Leib, Leben oder Freiheit einer Person,
+
+2. lebenswichtige Güter der Allgemeinheit oder
+
+3. den Bestand oder die Sicherheit des Bundes oder eines Landes oder für die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+In Fällen von Satz 1 Nummer 1 ist über Absatz 6 Satz 1 hinaus auch eine Übermittlung an andere inländische Stellen zulässig.
+
+(8) Eine Übermittlung von personenbezogenen Daten aus einer Vertraulichkeitsbeziehung (§ 21 Absatz 1 Satz 2) ist unzulässig. Abweichend von Satz 1 ist eine Übermittlung nach vorheriger Prüfung der Rechtmäßigkeit durch den Unabhängigen Kontrollrat zulässig, wenn tatsächliche Anhaltspunkte den Verdacht begründen, dass
+
+1. die in § 21 Absatz 1 Satz 2 aufgeführte Person Täter oder Teilnehmer einer der in Absatz 3 genannten Straftaten ist oder
+
+2. dies erforderlich ist zur Verhinderung einer Gefahr für
+
+a) Leib, Leben oder Freiheit einer Person,
+
+b) lebenswichtige Güter der Allgemeinheit oder
+
+c) den Bestand oder die Sicherheit des Bundes oder eines Landes oder die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+Bei Gefahr im Verzug erfolgt eine vorläufige Prüfung der Rechtmäßigkeit durch ein Mitglied des gerichtsähnlichen Kontrollorgans des Unabhängigen Kontrollrates, wenn andernfalls der Übermittlungszweck vereitelt oder wesentlich erschwert würde. Wird im Rahmen der vorläufigen Prüfung festgestellt, dass die Übermittlung rechtmäßig ist, darf diese vollzogen werden. In diesem Fall ist die Prüfung durch den Unabhängigen Kontrollrat unverzüglich nachzuholen. Hebt der Unabhängige Kontrollrat die Entscheidung nach Satz 3 auf, wird der Empfänger zur unverzüglichen Löschung der Daten aufgefordert.
+
+(9) Eine Übermittlung personenbezogener Daten von Minderjährigen vor Vollendung des 14. Lebensjahres darf nur erfolgen, wenn tatsächliche Anhaltspunkte dafür bestehen, dass der Minderjährige eine der in § 3 Absatz 1 des Artikel 10-Gesetzes genannten Straftaten plant, begeht oder begangen hat oder wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass von dem Minderjährigen eine Gefahr für Leib oder Leben deutscher Staatsangehöriger im Ausland oder für deutsche Einrichtungen im Ausland ausgeht. Eine Übermittlung personenbezogener Daten von Minderjährigen nach Vollendung des 14. Lebensjahres darf nur erfolgen, wenn dies zur Abwehr einer erheblichen Gefahr für ein gewichtiges Rechtsgut oder zur Verfolgung einer Straftat von erheblicher Bedeutung erforderlich ist.
+
+(10) Eine Übermittlung unterbleibt, wenn
+
+1. für den Bundesnachrichtendienst erkennbar ist, dass unter Berücksichtigung der Art der Information und ihrer Erhebung die schutzwürdigen Interessen der betroffenen Person das Allgemeininteresse an der Übermittlung überwiegen,
+
+2. überwiegende Sicherheitsinteressen entgegenstehen oder
+
+3. besondere gesetzliche Weiterverarbeitungsregelungen entgegenstehen; die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufs- und Amtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unberührt.
+
+(11) Die Verantwortung für die Zulässigkeit der Übermittlung trägt der Bundesnachrichtendienst. Erfolgt die Übermittlung auf Ersuchen einer inländischen öffentlichen Stelle, trägt diese die Verantwortung. In den Fällen des Satzes 2 prüft der Bundesnachrichtendienst nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
+
+(12) Der Bundesnachrichtendienst hat den Empfänger darauf hinzuweisen, zu welchen Zwecken die Daten verarbeitet werden dürfen. Der Empfänger darf die personenbezogenen Daten nur zu den Zwecken verarbeiten, zu denen sie ihm übermittelt worden sind. Der Empfänger ist verpflichtet, dem Bundesnachrichtendienst auf Verlangen Auskunft zu erteilen. Hierauf ist der Empfänger bei der Übermittlung hinzuweisen. Eine Weiterverarbeitung zu anderen Zwecken ist unzulässig, es sein denn, es liegen die Voraussetzungen des Absatzes 7 vor und der Bundesnachrichtendienst stimmt der Zweckänderung zu. Der Bundesnachrichtendienst darf einer über Satz 5 hinausgehenden Zweckänderung der mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten Daten auf Ersuchen des Empfängers zustimmen, wenn der Bundesnachrichtendienst dem Empfänger diese Daten nach Absatz 1 Nummer 2, Absatz 3 oder Absatz 4 auch zu dem geänderten Zweck hätte übermitteln dürfen.
+
+(13) Der Empfänger prüft, ob die übermittelten personenbezogenen Daten für die Erfüllung seiner Aufgaben erforderlich sind. Ergibt die Prüfung, dass sie nicht erforderlich sind, hat er die Daten zu löschen. Die Löschung kann unterbleiben, wenn die Trennung von anderen Informationen, die zur Erfüllung der Aufgaben erforderlich sind, nicht oder nur mit übermäßigem Aufwand möglich ist. In diesem Fall ist die Verarbeitung der Daten einzuschränken.
+
+(14) Sind mit personenbezogenen Daten weitere personenbezogene Daten der betroffenen Person oder eines Dritten in Akten so verbunden, dass eine Trennung nicht oder nur mit übermäßigem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an der Geheimhaltung offensichtlich überwiegen. Eine Weiterverarbeitung dieser Daten ist unzulässig.
+
+(15) Erweisen sich personenbezogene Daten nach ihrer Übermittlung als unvollständig oder unrichtig, so sind diese unverzüglich gegenüber dem Empfänger zu berichtigen, es sei denn, dass dies für die Beurteilung des Sachverhaltes ohne Bedeutung ist.
+
+(16) Die Empfänger, die Rechtsgrundlage für die Übermittlung sowie der Zeitpunkt der Übermittlung sind zu protokollieren. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+§ 29 Abs. 9 Satz 1 Kursivdruck: Fehlschreibung des Wortes "Artikel 10-Gesetztes" in "Artikel 10-Gesetzes" korrigiert
+
+# § 30 – Übermittlung personenbezogener Daten aus der strategischen Ausland-Fernmeldeaufklärung an ausländische öffentliche Stellen, über- und zwischenstaatliche Stellen sowie an andere ausländische Stellen
+
+(1) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten zum Zweck der Unterrichtung im Rahmen der internationalen politischen Zusammenarbeit an ausländische öffentliche Stellen sowie über- und zwischenstaatliche Stellen übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung zur Erfüllung seiner Aufgaben erforderlich ist.
+
+(2) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zur Verfolgung von Straftaten, die den in § 29 Absatz 3 genannten Straftaten entsprechen. Die Regelungen des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
+
+(3) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen auch zum Zweck der Weiterverarbeitung für Folgemaßnahmen mit unmittelbarer Außenwirkung für den Betroffenen, insbesondere zur Gefahrenabwehr, übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass
+
+1. dies erforderlich ist zur Abwehr einer Gefahr für besonders gewichtige Rechtsgüter oder zur Abwehr einer besonders schwerwiegenden Beeinträchtigung der Rechte Einzelner oder
+
+2. die Übermittlung für den Bestand oder die Sicherheit des Bundes oder eines Landes, zur Wahrung erheblicher außenpolitischer Belange des Bundes oder für die Sicherheit des Empfängerstaates erforderlich ist.
+
+(4) Eine Übermittlung personenbezogener Daten an andere ausländische Stellen ist unzulässig. Abweichend von Satz 1 darf der Bundesnachrichtendienst die im Rahmen der strategischen Ausland-Fernmeldeaufklärung erhobenen und mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Satz 1 genannten Stellen übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung erforderlich ist zur Verhinderung einer unmittelbar bevorstehenden Gefahr für
+
+1. Leib, Leben oder Freiheit einer Person,
+
+2. lebenswichtige Güter der Allgemeinheit oder
+
+3. den Bestand oder die Sicherheit des Bundes oder eines Landes oder die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+Übermittlungen nach Satz 2 bedürfen der vorherigen Zustimmung durch das Bundeskanzleramt. Der Bundesnachrichtendienst darf personenbezogene Daten an andere ausländische Stellen auch ohne Vorliegen der Voraussetzungen der Sätze 2 und 3 übermitteln, wenn sie lediglich zur Konkretisierung einer Anfrage an eine andere ausländische Stelle übermittelt werden und dieser die Daten bereits bekannt sind.
+
+(5) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen über Absatz 1 hinaus auch übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass eine Übermittlung erforderlich ist zur Verhinderung einer unmittelbar bevorstehenden Gefahr für
+
+1. Leib, Leben oder Freiheit einer Person,
+
+2. lebenswichtige Güter der Allgemeinheit oder
+
+3. den Bestand oder die Sicherheit des Bundes oder eines Landes oder für die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+In Fällen von Satz 1 Nummer 1 ist über Absatz 4 Satz 1 und 2 hinaus auch eine Übermittlung an andere ausländische Stellen zulässig.
+
+(6) Eine Übermittlung unterbleibt, wenn für den Bundesnachrichtendienst erkennbar ist, dass unter Berücksichtigung der Art der personenbezogenen Daten und ihrer Erhebung die schutzwürdigen Interessen des Betroffenen das Allgemeininteresse an der Übermittlung überwiegen. Schutzwürdige Interessen des Betroffenen überwiegen insbesondere dann, wenn tatsächliche Anhaltspunkte dafür bestehen, dass durch die Nutzung der übermittelten Daten im Empfängerstaat erhebliche Menschenrechtsverletzungen oder die Verletzung von elementaren rechtsstaatlichen Grundsätzen, wie im Falle der Verwendung der Daten zur politischen Verfolgung oder zu unmenschlicher oder erniedrigender Bestrafung oder Behandlung, drohen. In Zweifelsfällen hat der Bundesnachrichtendienst maßgeblich zu berücksichtigen, ob der Empfänger einen angemessenen Schutz der übermittelten Daten verbindlich zusichert und ob Anhaltspunkte dafür vorliegen, dass die Zusicherung nicht eingehalten wird. Die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufs- und Amtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unberührt. Eine Übermittlung unterbleibt ferner, wenn hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder oder wesentliche auswärtige Belange der Bundesrepublik Deutschland beeinträchtigt würden. Bei der Prüfung, ob eine Übermittlung zu unterbleiben hat, berücksichtigt der Bundesnachrichtendienst insbesondere die Art der Information und ihre Erhebung sowie den bisherigen Umgang des Empfängers mit übermittelten Daten. Die Regelungen des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
+
+(7) Eine Übermittlung personenbezogener Daten Minderjähriger vor Vollendung des 16. Lebensjahres darf weder an ausländische noch an über- und zwischenstaatliche Stellen erfolgen. Abweichend von Satz 1 dürfen personenbezogene Daten über das Verhalten Minderjähriger, die das 14. Lebensjahr vollendet haben, übermittelt werden, wenn nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass die Übermittlung zur Abwehr einer erheblichen Gefahr für Leib oder Leben einer Person erforderlich ist oder tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung zur Verfolgung einer der in § 3 Absatz 1 des Artikel 10-Gesetzes genannten Straftaten erforderlich ist. Eine Übermittlung personenbezogener Daten von Minderjährigen nach Vollendung des 16. Lebensjahres darf nur erfolgen, wenn dies zur Abwehr einer erheblichen Gefahr oder zur Verfolgung einer Straftat von erheblicher Bedeutung erforderlich ist.
+
+(8) Die Verantwortung für die Zulässigkeit der Übermittlung trägt der Bundesnachrichtendienst. Der Empfänger darf die übermittelten Daten nur zu dem Zweck weiterverarbeiten, zu dem sie ihm übermittelt worden sind. Er ist auf die Weiterverarbeitungsbeschränkung und darauf hinzuweisen, dass der Bundesnachrichtendienst sich vorbehält, Auskunft über die Weiterverarbeitung der Daten zu verlangen. Entsprechende Auskunftsrechte sind mit dem Empfänger zu vereinbaren. Dieser muss auch eine verbindliche Zusicherung abgeben, einer Löschungsaufforderung des Bundesnachrichtendienstes Folge zu leisten. Sofern tatsächliche Anhaltspunkte dafür bestehen, dass eine solche Zusicherung vom Empfänger nicht eingehalten wird, hat eine Übermittlung zu unterbleiben.
+
+(9) § 29 Absatz 8 und 13 bis 16 gilt entsprechend.
+
+# § 31 – Kooperationen mit ausländischen öffentlichen Stellen
+
+(1) Soweit der Bundesnachrichtendienst im Rahmen der strategischen Ausland-Fernmeldeaufklärung mit ausländischen öffentlichen Stellen kooperiert, die nachrichtendienstliche Aufgaben wahrnehmen, dürfen dabei auch personenbezogene Daten nach den §§ 32 und 33 verarbeitet werden. Eine Erstreckung der Kooperation auf Daten der folgenden Personen ist unzulässig:
+
+1. deutsche Staatsangehörige,
+
+2. inländische juristische Personen und
+
+3. sich im Bundesgebiet aufhaltende Personen.
+
+§ 19 Absatz 7 Satz 2 bis 5 findet Anwendung.
+
+(2) Die strategische Ausland-Fernmeldeaufklärung auf dem Gebiet der Bundesrepublik Deutschland darf im Rahmen einer solchen Kooperation nur durch den Bundesnachrichtendienst erfolgen.
+
+(3) Eine Kooperation mit den in Absatz 1 Satz 1 genannten ausländischen öffentlichen Stellen ist zulässig, um
+
+1. frühzeitig erhebliche Gefahren für die innere oder äußere Sicherheit der Bundesrepublik Deutschland, die Verteidigung oder das Gemeinwohl erkennen und diesen Gefahren begegnen zu können,
+
+2. die außen- und sicherheitspolitische Handlungsfähigkeit der Bundesrepublik Deutschland zu wahren oder
+
+3. die Aufgabenerfüllung durch den Bundesnachrichtendienst sicherzustellen, die ohne eine solche Kooperation wesentlich erschwert oder unmöglich wäre.
+
+(4) Einzelheiten der Kooperation sind vor ihrem Beginn zwischen dem Bundesnachrichtendienst und der ausländischen öffentlichen Stelle in einer Absichtserklärung schriftlich niederzulegen. In die Absichtserklärung sind insbesondere aufzunehmen:
+
+1. Zweck der Kooperation,
+
+2. Dauer der Kooperation,
+
+3. eine verbindliche Zusicherung der ausländischen öffentlichen Stelle, dass
+
+a) die im Rahmen der Kooperation erhobenen Daten nur zu dem Zweck verwendet werden, zu dem sie erhoben wurden, und eine Weitergabe an Dritte nur mit Zustimmung des Bundesnachrichtendienstes erfolgt,
+
+b) Daten aus Telekommunikationsverkehren von deutschen Staatsangehörigen, von inländischen juristischen Personen oder von sich im Bundesgebiet aufhaltenden Personen, die unbeabsichtigt entgegen Absatz 1 Satz 3 verarbeitet wurden und von der ausländischen öffentlichen Stelle bei der Datenauswertung als solche erkannt werden, unverzüglich gelöscht werden,
+
+c) Daten von schutzwürdigen Personen nach § 21 Absatz 1 Satz 2, die unbeabsichtigt verarbeitet wurden und von der ausländischen öffentlichen Stelle bei der Datenauswertung als solche erkannt werden, unverzüglich gelöscht werden,
+
+d) Daten betreffend den Kernbereich privater Lebensgestaltung, die unbeabsichtigt verarbeitet wurden und von der ausländischen öffentlichen Stelle bei der Datenauswertung als solche erkannt werden, unverzüglich gelöscht werden,
+
+e) die Verwendung der Daten mit grundlegenden rechtsstaatlichen Prinzipien vereinbar ist und die Daten insbesondere weder zu politischer Verfolgung noch zu unmenschlicher oder erniedrigender Bestrafung oder Behandlung oder zur Unterdrückung Oppositioneller oder bestimmter Bevölkerungsgruppen eingesetzt werden,
+
+f) sich die ausländische öffentliche Stelle bereit erklärt, auf Ersuchen des Bundesnachrichtendienstes Auskunft über die vorgenommene Verwendung der Daten zu erteilen,
+
+g) einer Löschungsaufforderung des Bundesnachrichtendienstes Folge geleistet wird,
+
+h) im Falle einer Datenübermittlung nach § 33 die Verkehrsdaten nicht über einen längeren Zeitraum als sechs Monate bevorratend gespeichert werden.
+
+(5) Der Zweck der Kooperation muss gerichtet sein auf die Gewinnung von Informationen
+
+1. zur Früherkennung von Gefahren durch den internationalen Terrorismus oder Extremismus, der gewaltbereit oder auf die planvoll verborgen betriebene Durchsetzung politischer, religiöser oder ideologischer Ansichten ausgerichtet ist, oder dessen Unterstützung,
+
+2. zur Früherkennung von Gefahren durch die illegale Verbreitung von Massenvernichtungs- und Kriegswaffen sowie durch den unerlaubten Außenwirtschaftsverkehr mit Waren und technischen Unterstützungsleistungen in Fällen von erheblicher Bedeutung,
+
+3. zum Schutz der Bundeswehr und der Streitkräfte der an der Kooperation beteiligten Staaten oder der Streitkräfte des Kooperationspartners,
+
+4. zu krisenhaften Entwicklungen im Ausland und zu deren Auswirkungen,
+
+5. zur Gefährdungs- und Sicherheitslage von deutschen und ausländischen Staatsangehörigen,
+
+6. zu politischen, wirtschaftlichen oder militärischen Vorgängen im Ausland, die von erheblicher außen- und sicherheitspolitischer Bedeutung sind,
+
+7. zu nachrichten- oder geheimdienstlichen Aktivitäten mit Bezug zur Bundesrepublik Deutschland oder zum Kooperationspartner,
+
+8. zur internationalen Organisierten Kriminalität,
+
+9. zur Herstellung oder zum Erhalt wesentlicher Fähigkeiten des Bundesnachrichtendienstes oder des Kooperationspartners,
+
+10. zu internationalen kriminellen, terroristischen oder staatlichen Angriffen mittels Schadprogrammen auf die Vertraulichkeit, Integrität oder Verfügbarkeit von informationstechnischen Systemen oder
+
+11. zu vergleichbaren Fällen.
+
+(6) Für einzelne Kooperationszwecke nach Absatz 5 innerhalb solcher Kooperationen sind Erkenntnisziel und Dauer schriftlich festzulegen. Die Erkenntnisziele dürfen den außen- und sicherheitspolitischen Interessen der Bundesrepublik Deutschland nicht entgegenstehen.
+
+(7) Die Absichtserklärung bedarf der Zustimmung des Bundeskanzleramtes, wenn die Kooperation mit ausländischen öffentlichen Stellen von Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages erfolgt. Im Übrigen bedarf die Absichtserklärung der Zustimmung der Chefin oder des Chefs des Bundeskanzleramtes. Das Parlamentarische Kontrollgremium ist in seiner jeweils folgenden Sitzung über die Absichtserklärung zu unterrichten.
+
+§ 31 Abs. 5 Nr. 1 Kursivdruck: Fehlschreibung des Wortes "politscher" in "politischer" korrigiert
+
+# § 32 – Verarbeitung von selektierten personenbezogenen Daten im Rahmen von Kooperationen
+
+(1) Die Verarbeitung selektierter personenbezogener Daten durch den Bundesnachrichtendienst im Rahmen einer Kooperation nach § 31 ist zulässig,
+
+1. um die vereinbarten Kooperationszwecke zu erreichen und
+
+2. wenn bei der Erhebung von Inhaltsdaten nur solche Suchbegriffe verwendet werden, die zur Erreichung der vereinbarten Kooperationszwecke geeignet sind.
+
+Die Erhebung der personenbezogenen Daten und die Verwendung der Suchbegriffe müssen zudem in Einklang mit den außen- und sicherheitspolitischen Interessen der Bundesrepublik Deutschland stehen. Im Übrigen finden § 19 Absatz 5 und 9, § 20 Absatz 1, § 21 Absatz 1 und 2 und § 22 Absatz 1 entsprechende Anwendung.
+
+(2) Die Verantwortung für die Zulässigkeit der Kooperation trägt der Bundesnachrichtendienst. Sofern Anhaltspunkte dafür bestehen, dass der Kooperationspartner die abgegebenen Zusicherungen oder Absprachen nicht einhält, hat der Bundesnachrichtendienst auf deren Einhaltung hinzuwirken und erforderlichenfalls die Kooperation zu beenden.
+
+(3) Im Rahmen der Kooperation dürfen selektierte personenbezogene Daten erhoben werden, wenn eine automatisierte Prüfung die Zulässigkeit der hierfür verwendeten Suchbegriffe ergibt. Dies ist der Fall, wenn
+
+1. die Ausrichtung der von dem Kooperationspartner übermittelten Suchbegriffe an den Kooperationszielen und -inhalten von dem Kooperationspartner hinreichend plausibel gemacht wird und
+
+2. keine tatsächlichen Anhaltspunkte dafür bestehen, dass
+
+a) durch die Verwendung der Suchbegriffe Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt werden oder
+
+b) Suchbegriffe einer besonders schutzbedürftigen Person nach § 21 Absatz 1 Satz 2 verwendet werden.
+
+(4) Im Rahmen der Kooperation dürfen die anhand der Suchbegriffe nach Absatz 3 erhobenen Daten an den Kooperationspartner automatisiert übermittelt werden, wenn zuvor die folgenden im Rahmen einer automatisierten Prüfung erkannten Daten gelöscht wurden:
+
+1. Daten nach § 19 Absatz 7 Satz 1 oder Daten, deren Übermittlung nationalen Interessen der Bundesrepublik Deutschland entgegenstehen würde,
+
+2. Daten, die zum Kernbereich privater Lebensgestaltung gehören und
+
+3. Daten, die einer besonders schutzbedürftigen Person nach § 21 Absatz 1 Satz 2 zugeordnet werden können.
+
+(5) Der Bundesnachrichtendienst hat unter Nutzung der Ergebnisse und Erfahrungen seiner Arbeit etwaige Hinweise auf besonders schutzbedürftige Personen nach § 21 Absatz 1 zu sammeln und Suchbegriffe, die diesen Personen zuzuordnen sind, zusammenzuführen, um dem besonderen Schutzbedürfnis dieser Personen Rechnung tragen zu können. Die diesbezüglichen Datenbanken und Filterverfahren sind kontinuierlich zu aktualisieren und fortzuentwickeln.
+
+(6) Die Übermittlung der Daten ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung von Kontrollen der Datenverarbeitung, einschließlich der Datenschutzkontrolle, sowie zur Löschaufforderung an den Kooperationspartner nach Absatz 7 Satz 3 verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(7) Das ordnungsgemäße Funktionieren der automatisierten Prüfung nach den Absätzen 3 und 4 ist durch den Bundesnachrichtendienst stichprobenartig zu überprüfen. Die Prüfung erfolgt unter Aufsicht einer Bediensteten oder eines Bediensteten des Bundesnachrichtendienstes, die oder der die Befähigung zum Richteramt hat. Sofern nachträglich erkannt wird, dass Daten entgegen dieser Vorgaben erhoben und an den Kooperationspartner übermittelt wurden, wird der Kooperationspartner zur Löschung der Daten aufgefordert. Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt in Abständen von höchstens sechs Monaten über die Durchführung der Prüfung nach Satz 1.
+
+(8) Die im Rahmen der Kooperation auf Grundlage der vom Kooperationspartner benannten Suchbegriffe erhobenen Daten werden durch den Bundesnachrichtendienst zum Zweck der Durchführung der Stichproben nach Absatz 7 Satz 1 sowie zur Bestimmung neuer Suchbegriffe nach § 24 Absatz 1 Nummer 2 für die Dauer von zwei Wochen gespeichert.
+
+# § 33 – Verarbeitung von unselektierten personenbezogenen Verkehrsdaten im Rahmen von Kooperationen
+
+(1) Die automatisierte Übermittlung von unselektierten personenbezogenen Verkehrsdaten im Rahmen einer Kooperation durch den Bundesnachrichtendienst ist nur zulässig, wenn zusätzlich zum Vorliegen der Voraussetzungen nach § 31 ein qualifizierter Aufklärungsbedarf vorhanden ist. § 32 Absatz 2 und 4 bis 8 findet entsprechende Anwendung.
+
+(2) Ein qualifizierter Aufklärungsbedarf liegt vor, wenn die Übermittlung von Verkehrsdaten aufgrund bestimmter Ereignisse erforderlich ist, um konkreten Bedrohungen entgegenzuwirken oder die Handlungsfähigkeit der Bundesrepublik Deutschland oder des Kooperationspartners sicherzustellen. Diese Voraussetzungen sind insbesondere dann gegeben, wenn tatsächliche Anhaltspunkte bestehen für
+
+1. die Vorbereitung eines bewaffneten Angriffs auf die Bundesrepublik Deutschland oder auf Mitgliedstaaten der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages oder auf den Kooperationspartner,
+
+2. die Vorbereitung terroristischer Anschläge,
+
+3. Verschiebungen von Kriegswaffen auf einer bestimmten Route oder mit einem bestimmten Ziel,
+
+4. internationale kriminelle, terroristische oder staatliche Angriffe mittels Schadprogrammen auf die Vertraulichkeit, Integrität oder Verfügbarkeit von informationstechnischen Systemen,
+
+5. die Aufklärung der Arbeitsweise anderer Nachrichtendienste mit dem Ziel der Aufdeckung staatlich gesteuerter, auf Destabilisierung angelegter Desinformationskampagnen mit unmittelbarem Bezug zur Bundesrepublik Deutschland oder mit dem Ziel der Vorbereitung oder Durchführung von staatsterroristischen Aktivitäten oder
+
+6. die Vorbereitungen eines Angriffs auf solche Rechtsgüter der Allgemeinheit, deren Bedrohung die Sicherheit oder den Bestand des Bundes oder eines Landes oder die Grundlagen der Existenz der Menschen berührt.
+
+Der qualifizierte Aufklärungsbedarf ist schriftlich niederzulegen und einer strategischen Aufklärungsmaßnahme nach § 19 Absatz 1 Nummer 2 zuzuordnen. Der Unabhängige Kontrollrat prüft die Rechtmäßigkeit der Feststellung des qualifizierten Aufklärungsbedarfs der Kooperation vor Vollzug der Datenübermittlung. Bestätigt der Unabhängige Kontrollrat die Rechtmäßigkeit der Feststellung nicht, hat die Datenübermittlung zu unterbleiben.
+
+(3) Kooperationen nach § 31, die die Verarbeitung unselektierter Verkehrsdaten nach Absatz 1 umfassen, bedürfen der Genehmigung durch die Präsidentin oder den Präsidenten des Bundesnachrichtendienstes oder durch eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat.
+
+# § 34 – Eingriff in informationstechnische Systeme von Ausländern im Ausland
+
+(1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben ohne Wissen des Betroffenen auf der Grundlage einer zuvor angeordneten individuellen Aufklärungsmaßnahme mit technischen Mitteln in von Ausländern im Ausland genutzte informationstechnische Systeme eingreifen und auf ihnen gespeicherte personenbezogene Daten einschließlich Inhalte und Umstände der laufenden Kommunikation erheben, soweit dies erforderlich ist für den Zweck
+
+1. der politischen Unterrichtung der Bundesregierung oder
+
+2. der Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung.
+
+Die individuelle Aufklärungsmaßnahme darf nur durchgeführt werden, wenn sie für die Aufgabenerfüllung nach § 1 Absatz 2 erforderlich ist und diese ansonsten aussichtlos oder wesentlich erschwert wäre.
+
+(2) Eine individuelle Aufklärungsmaßnahme nach Absatz 1 Satz 1 Nummer 1 ist nur zulässig, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass sie der Gewinnung von Informationen dient, mit deren Aufklärung das Bundeskanzleramt den Bundesnachrichtendienst beauftragt hat und die von herausgehobener außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland sind.
+
+(3) Eine individuelle Aufklärungsmaßnahme nach Absatz 1 Satz 1 Nummer 2 ist nur zulässig, wenn Tatsachen die Annahme rechtfertigen, dass sie der Gewinnung von Informationen dient, mit deren Aufklärung das Bundeskanzleramt den Bundesnachrichtendienst beauftragt hat, und durch sie Erkenntnisse über Gefahren nach § 19 Absatz 4 in Fällen von herausgehobener außen- und sicherheitspolitischer Bedeutung für die Bundesrepublik Deutschland gewonnen werden.
+
+(4) Es ist technisch sicherzustellen, dass
+
+1. an dem informationstechnischen System nur Veränderungen vorgenommen werden, die für die Datenerhebung unerlässlich sind und
+
+2. die vorgenommenen Veränderungen bei Beendigung der Maßnahme, soweit technisch möglich, automatisiert rückgängig gemacht werden.
+
+Das eingesetzte Mittel ist nach dem Stand der Technik gegen unbefugte Nutzung zu schützen.
+
+(5) Die individuelle Aufklärungsmaßnahme zum Zweck der Gefahrenfrüherkennung nach Absatz 1 Satz 1 Nummer 2 darf sich nur richten gegen Personen, hinsichtlich derer tatsächliche Anhaltspunkte dafür vorliegen, dass sie
+
+1. Verursacher von Gefahren im Sinne des § 19 Absatz 4 sind oder
+
+2. für den Verursacher nach Nummer 1 bestimmte oder von ihm herrührende Informationen entgegennehmen oder weitergeben oder der Verursacher nach Nummer 1 ihr informationstechnisches System benutzt.
+
+(6) Eine individuelle Aufklärungsmaßnahme darf auch durchgeführt werden, wenn andere Personen oder Informationssysteme unvermeidbar betroffen werden. Sie darf unter Abwägung aller vorliegenden Erkenntnisse keinen Nachteil herbeiführen, der erkennbar außer Verhältnis zu dem beabsichtigten Erfolg steht. § 19 Absatz 7 und § 59 Absatz 2 gelten entsprechend mit der Maßgabe, dass in den Fällen des § 59 Absatz 2 anstelle der Unterrichtung der G 10-Kommission die Unterrichtung des Unabhängigen Kontrollrates und anstelle der Entscheidung der G 10-Kommission die Entscheidung des Unabhängigen Kontrollrates tritt.
+
+(7) Der Bundesnachrichtendienst prüft unverzüglich, ob die im Rahmen einer individuellen Aufklärungsmaßnahme nach Absatz 1 erhobenen personenbezogenen Daten allein oder zusammen mit bereits vorliegenden Daten für die Zwecke nach Absatz 1 erforderlich sind. Mit Zustimmung des Unabhängigen Kontrollrates kann abweichend von Satz 1 im Einzelfall ein Prüfzeitraum von bis zu drei Jahren festgelegt werden, wenn eine unverzügliche Prüfung nicht möglich ist. Soweit die Daten für die Zwecke nach Absatz 1 nicht erforderlich sind, sind sie unverzüglich unter Aufsicht einer Bediensteten oder eines Bediensteten, die oder der die Befähigung zum Richteramt hat, zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich für die Durchführung von Kontrollen der Datenverarbeitung, einschließlich der Datenschutzkontrolle, verwendet werden. Die Protokolldaten sind am Ende des zweiten auf die Protokollierung folgenden Kalenderjahres zu löschen. Der Bundesnachrichtendienst prüft sodann regelmäßig in Abständen von höchstens fünf Jahren daraufhin, ob die in Satz 1 genannten Daten allein oder zusammen mit bereits vorliegenden Daten für die in Absatz 1 bestimmten Zwecke weiterhin erforderlich sind. Soweit die personenbezogenen Daten für diese Zwecke nicht erforderlich sind, sind sie unverzüglich zu löschen. Die Sätze 4 bis 6 und § 27 Absatz 2 finden entsprechende Anwendung.
+
+(8) Personenbezogene Daten sind unmittelbar nach der Datenerhebung wie folgt zu kennzeichnen:
+
+1. Angabe des Zwecks der Datenerhebung nach Absatz 1 Satz 1 und
+
+2. Angabe des Mittels der Datenerhebung.
+
+Die Kennzeichnung entfällt bei Übermittlungen.
+
+(9) Für die Auswertung von informationstechnischen Systemen von Ausländern im Ausland, die sich im Besitz des Bundesnachrichtendienstes befinden, oder deren Abbildern, gilt Absatz 7 entsprechend mit der Maßgabe, dass die Auswertung innerhalb von drei Jahren nach Lesbarmachung der Daten durchgeführt sein muss, wenn nicht der Unabhängige Kontrollrat aufgrund der Umstände des Einzelfalls einer längeren Frist zustimmt.
+
+# § 35 – Schutz von Vertraulichkeitsbeziehungen
+
+(1) Individuelle Aufklärungsmaßnahmen nach § 34 Absatz 1 Satz 1 zum Zweck der Erhebung von personenbezogenen Daten aus einer Vertraulichkeitsbeziehung (§ 21 Absatz 1 Satz 2) sind unzulässig.
+
+(2) Abweichend von Absatz 1 sind individuelle Aufklärungsmaßnahmen zulässig, wenn Tatsachen die Annahme rechtfertigen, dass
+
+1. die in § 21 Absatz 1 Satz 2 aufgeführte Person Täter oder Teilnehmer einer der in § 29 Absatz 3 genannten Straftaten ist oder
+
+2. dies erforderlich ist zur Verhinderung einer Gefahr für
+
+a) Leib, Leben oder Freiheit einer Person,
+
+b) lebenswichtige Güter der Allgemeinheit oder
+
+c) den Bestand oder die Sicherheit des Bundes oder eines Landes oder die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+(3) Sofern erst die Verarbeitung der Daten ergibt, dass diese schutzwürdig nach Absatz 1 sind, dürfen die Daten nur verwendet werden, wenn die Voraussetzungen des Absatzes 2 vorliegen. Andernfalls sind die Daten unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(4) Die Entscheidung über die Zugehörigkeit einer Person zu dem in Absatz 1 genannten Personenkreis ist zu dokumentieren.
+
+# § 36 – Kernbereichsschutz
+
+(1) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen zum Kernbereich privater Lebensgestaltung ist unzulässig.
+
+(2) Sofern erst die Weiterverarbeitung der erhobenen personenbezogenen Daten ergibt, dass Daten erhoben wurden, die dem Kernbereich privater Lebensgestaltung unterfallen, sind diese unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+(3) Bestehen im Rahmen der Weiterverarbeitung nach Absatz 2 Zweifel und sollen die Daten nicht unverzüglich gelöscht werden, dürfen die Daten nicht ohne vorherige Prüfung durch den Unabhängigen Kontrollrat weiterverarbeitet werden. Stellt der Unabhängige Kontrollrat fest, dass die Daten nicht weiterverarbeitet werden dürfen, sind die Daten unverzüglich zu löschen. Die Löschung ist zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
+
+# § 37 – Anordnung
+
+(1) Individuelle Aufklärungsmaßnahmen nach § 34 Absatz 1 Satz 1 bedürfen der Anordnung durch die Präsidentin oder den Präsidenten des Bundesnachrichtendienstes oder durch eine Vertretung, die die Präsidentin oder der Präsident des Bundesnachrichtendienstes bestimmt hat.
+
+(2) Die Anordnung nach Absatz 1 ergeht schriftlich. In ihr sind anzugeben:
+
+1. der Aufklärungszweck,
+
+2. das verfolgte Aufklärungsthema,
+
+3. das Ziel der individuellen Aufklärungsmaßnahmen,
+
+4. Art, Umfang und Dauer der individuellen Aufklärungsmaßnahme,
+
+5. eine Begründung sowie
+
+6. erforderlichenfalls die Festlegung eines längeren Prüfzeitraumes nach § 34 Absatz 7 Satz 2 oder Absatz 9.
+
+(3) Die Anordnung ist auf höchstens zwölf Monate zu befristen. Verlängerungen um jeweils bis zu zwölf Monate sind zulässig, soweit die Anordnungsvoraussetzungen unter Berücksichtigung der gewonnenen Erkenntnisse fortbestehen. Liegen die Voraussetzungen der Anordnung nicht mehr vor, ist die individuelle Aufklärungsmaßnahme unverzüglich zu beenden.
+
+(4) Der Unabhängige Kontrollrat prüft vor ihrem Vollzug
+
+1. die Rechtmäßigkeit der Anordnung sowie
+
+2. die Rechtmäßigkeit der Verlängerung der Anordnung.
+
+Bestätigt der Unabhängige Kontrollrat die Rechtmäßigkeit der Anordnung nicht, tritt die Anordnung außer Kraft. Satz 2 gilt entsprechend für den Fall, dass der Unabhängige Kontrollrat die Rechtmäßigkeit der Verlängerung der Anordnung nicht bestätigt mit der Maßgabe, dass die Anordnung zum ursprünglich festgelegten Zeitpunkt außer Kraft tritt. Bei Gefahr im Verzug erfolgt eine vorläufige Prüfung der Rechtmäßigkeit durch ein Mitglied des gerichtsähnlichen Kontrollorgans des Unabhängigen Kontrollrates, wenn andernfalls der Aufklärungszweck der individuellen Aufklärungsmaßnahme vereitelt oder wesentlich erschwert würde. Wird im Rahmen der vorläufigen Prüfung festgestellt, dass die Anordnung oder die Verlängerung der Anordnung rechtmäßig ist, darf diese vollzogen werden. In diesem Fall ist die Prüfung durch den Unabhängigen Kontrollrat unverzüglich nachzuholen. Hebt der Unabhängige Kontrollrat die Entscheidung nach Satz 4 auf, tritt
+
+1. im Falle des Satzes 1 Nummer 1 die Anordnung außer Kraft,
+
+2. im Falle des Satzes 1 Nummer 2 die Anordnung zum ursprünglich festgelegten Zeitpunkt außer Kraft
+
+und die bereits erhobenen Daten sind unverzüglich zu löschen.
+
+(5) Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt in regelmäßigen Abständen über Anordnungen nach Absatz 1. Das Bundeskanzleramt unterrichtet darüber hinaus das Parlamentarische Kontrollgremium jährlich über die Anzahl der angeordneten individuellen Aufklärungsmaßnahmen.
+
+# § 38 – Übermittlung von personenbezogenen Daten aus individuellen Aufklärungsmaßnahmen an inländische öffentliche Stellen und andere inländische Stellen
+
+(1) Der Bundesnachrichtendienst darf an das Bundesamt für Verfassungsschutz, die Verfassungsschutzbehörden der Länder und an den Militärischen Abschirmdienst übermitteln:
+
+1. die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zum Schutz besonders gewichtiger Rechtsgüter, und
+
+2. die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten zum Zweck der Unterrichtung der Bundesregierung oder einer Landesregierung, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung zur Erfüllung seiner Aufgaben oder der Aufgaben der Empfänger erforderlich ist.
+
+(2) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an andere inländische öffentliche Stellen zum Zweck der Unterrichtung der Bundesregierung oder einer Landesregierung übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung zur Erfüllung seiner Aufgaben oder der Aufgaben der Empfänger erforderlich ist.
+
+(3) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an Strafverfolgungsbehörden übermitteln, wenn Tatsachen die Annahme rechtfertigen, dass dies erforderlich ist zur Verfolgung einer Straftat nach § 29 Absatz 3.
+
+(4) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 2 genannten Stellen auch zum Zweck der Weiterverarbeitung für Folgemaßnahmen mit unmittelbarer Außenwirkung für den Betroffenen, insbesondere zur Gefahrenabwehr, übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zur Abwehr einer Gefahr für besonders gewichtige Rechtsgüter oder zur Abwehr einer besonders schwerwiegenden Beeinträchtigung der Rechte Einzelner.
+
+(5) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die Bundeswehr übermitteln, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass dies erforderlich ist
+
+1. zum Schutz der Funktionsfähigkeit der Bundeswehr für die Landes- oder Bündnisverteidigung und bei Auslandseinsätzen,
+
+2. zum Schutz der Funktionsfähigkeit der Streitkräfte von Mitgliedstaaten der Europäischen Union, des Nordatlantikvertrages oder der Europäischen Freihandelsassoziation,
+
+3. zum Schutz von Leib, Leben oder Freiheit einer Person, oder
+
+4. zum Schutz von anderen besonders gewichtigen Rechtsgütern.
+
+Die in Satz 1 genannten personenbezogenen Daten darf der Bundesnachrichtendienst auch automatisiert an die Bundeswehr übermitteln, sofern diese im Rahmen von individuellen Aufklärungsmaßnahmen nach § 34 Absatz 1 mit Bezug zu den in § 19 Absatz 4 Nummer 1 Buchstabe a oder Nummer 2 Buchstabe a genannten Gefahren erhoben wurden.
+
+(6) Für Übermittlungen an andere inländische Stellen gilt § 29 Absatz 6 entsprechend.
+
+(7) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung gekennzeichneten personenbezogenen Daten an inländische öffentliche Stellen über die Absätze 1 und 2 hinaus auch übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass eine Übermittlung erforderlich ist zur Verhinderung einer unmittelbar bevorstehenden Gefahr für
+
+1. Leib, Leben oder Freiheit einer Person,
+
+2. lebenswichtige Güter der Allgemeinheit oder
+
+3. den Bestand oder die Sicherheit des Bundes oder eines Landes oder für die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+In den Fällen von Satz 1 Nummer 1 ist über Absatz 6 hinaus auch eine Übermittlung an andere inländische Stellen zulässig.
+
+(8) Für Übermittlungen nach den Absätzen 1 bis 7 gilt im Übrigen § 29 Absatz 8 bis 16 entsprechend.
+
+# § 39 – Übermittlung von personenbezogenen Daten aus individuellen Aufklärungsmaßnahmen an ausländische öffentliche Stellen, über- und zwischenstaatliche Stellen sowie an andere ausländische Stellen
+
+(1) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung oder mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten zum Zweck der Unterrichtung im Rahmen der internationalen politischen Zusammenarbeit an ausländische öffentliche Stellen sowie über- und zwischenstaatliche Stellen übermitteln, soweit tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung zur Erfüllung seiner Aufgaben erforderlich ist.
+
+(2) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass dies erforderlich ist zur Verfolgung von Straftaten, die den in § 29 Absatz 3 genannten Straftaten entsprechen. Die Regelungen des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
+
+(3) Der Bundesnachrichtendienst darf die mit dem Zweck der Gefahrenfrüherkennung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen auch zum Zweck der Weiterverarbeitung für Folgemaßnahmen mit unmittelbarer Außenwirkung für den Betroffenen, insbesondere zur Gefahrenabwehr, übermitteln, wenn aufgrund bestimmter Tatsachen anzunehmen ist, dass
+
+1. dies erforderlich ist zur Abwehr einer Gefahr für besonders gewichtige Rechtsgüter oder zur Abwehr einer besonders schwerwiegenden Beeinträchtigung der Rechte Einzelner oder
+
+2. die Übermittlung für den Bestand oder die Sicherheit des Bundes oder eines Landes, zur Wahrung erheblicher außenpolitischer Belange des Bundes oder für die Sicherheit des Empfängerstaates erforderlich ist.
+
+Die Entscheidung über die Erforderlichkeit der Übermittlung erfolgt unter Aufsicht einer oder eines Bediensteten des Bundesnachrichtendienstes, die oder der die Befähigung zum Richteramt hat.
+
+(4) Der Bundesnachrichtendienst darf die mit dem Zweck der politischen Unterrichtung gekennzeichneten personenbezogenen Daten an die in Absatz 1 genannten Stellen über Absatz 2 hinaus auch übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass eine Übermittlung erforderlich ist zur Verhinderung einer unmittelbar bevorstehenden Gefahr für
+
+1. Leib, Leben oder Freiheit einer Person,
+
+2. lebenswichtige Güter der Allgemeinheit oder
+
+3. den Bestand oder die Sicherheit des Bundes oder eines Landes oder für die Sicherheit eines Mitgliedstaates der Europäischen Union, der Europäischen Freihandelsassoziation oder des Nordatlantikvertrages.
+
+(5) Für Übermittlungen an andere ausländische Stellen gilt § 30 Absatz 4 und 5 Satz 2 entsprechend.
+
+(6) Für Übermittlungen nach den Absätzen 1 bis 5 gilt im Übrigen § 30 Absatz 6 bis 9 entsprechend.
+
+# § 40 – Ausübung der unabhängigen Rechtskontrolle
+
+(1) Die Rechtmäßigkeit der technischen Aufklärung und damit einhergehender Übermittlungen und Kooperationen des Bundesnachrichtendienstes auf der Grundlage der durch dieses Gesetz eingeräumten Befugnisse unterliegt der Rechtskontrolle durch den Unabhängigen Kontrollrat.
+
+(2) Die Rechtskontrolle wird ausgeübt als
+
+1. gerichtsähnliche Rechtskontrolle durch das gerichtsähnliche Kontrollorgan und
+
+2. administrative Rechtskontrolle durch das administrative Kontrollorgan.
 
 # § 41 – Unabhängiger Kontrollrat
 
@@ -608,9 +1046,45 @@ Geheimschutzbelangen des Bundesnachrichtendienstes ist Rechnung zu tragen. Über
 
 (6) Dienstsitze des Unabhängigen Kontrollrates sind Berlin und Pullach.
 
-# § 42 – (zukünftig in Kraft)
+# § 42 – Zuständigkeit des gerichtsähnlichen Kontrollorgans; Vorlagepflicht des Bundesnachrichtendienstes
 
- 
+(1) Das gerichtsähnliche Kontrollorgan ist im Rahmen der strategischen Ausland-Fernmeldeaufklärung zuständig für die Vorabkontrolle der Rechtmäßigkeit
+
+1. der Anordnung von strategischen Aufklärungsmaßnahmen nach § 23 Absatz 1 (§ 23 Absatz 4),
+
+2. der Anordnung von Zielen nach § 23 Absatz 5 (§ 23 Absatz 7),
+
+3. der Feststellung eines qualifizierten Aufklärungsbedarfs bei der Verarbeitung von unselektierten Verkehrsdaten im Rahmen von Kooperationen des Bundesnachrichtendienstes mit ausländischen Nachrichtendiensten nach § 33 Absatz 2,
+
+4. der Verwertbarkeit von Daten nach § 22 Absatz 3 im Falle von Zweifeln und
+
+5. der Übermittlung von Daten nach § 29 Absatz 8 und § 30 Absatz 9.
+
+(2) Das gerichtsähnliche Kontrollorgan ist im Rahmen der strategischen Ausland-Fernmeldeaufklärung ferner zuständig für die Kontrolle der Rechtmäßigkeit
+
+1. der Verwendung der Daten nach § 21 Absatz 3,
+
+2. einer Zweckänderung nach § 29 Absatz 7 und § 30 Absatz 5,
+
+3. der Dienstvorschriften des Bundesnachrichtendienstes nach § 62, soweit sie Regelungen zur Auswertung von Daten beinhalten, und
+
+4. der sonstigen im Wege der Beanstandungen nach § 52 Absatz 3 vorgelegten Sachverhalte.
+
+(3) Das gerichtsähnliche Kontrollorgan ist im Rahmen von Eingriffen in informationstechnische Systeme von Ausländern im Ausland nach § 34 zuständig für die Vorabkontrolle der Rechtmäßigkeit
+
+1. der Anordnung von individuellen Aufklärungsmaßnahmen nach § 37 Absatz 1 und deren Verlängerung und
+
+2. der Übermittlung von Daten nach § 38 Absatz 8 in Verbindung mit § 29 Absatz 8 sowie nach § 39 Absatz 6 in Verbindung mit § 30 Absatz 9.
+
+(4) Das gerichtsähnliche Kontrollorgan ist im Rahmen von Eingriffen in informationstechnische Systeme von Ausländern im Ausland nach § 34 ferner zuständig für die Kontrolle der Rechtmäßigkeit
+
+1. der Verwendung der Daten nach § 35 Absatz 3,
+
+2. einer Zweckänderung nach § 38 Absatz 7 und § 39 Absatz 4 und
+
+3. der sonstigen im Wege der Beanstandungen nach § 52 Absatz 3 vorgelegten Sachverhalte.
+
+(5) In den Fällen der Absätze 2 und 4 Nummer 1 und 2 hat der Bundesnachrichtendienst dem gerichtsähnlichen Kontrollorgan den Kontrollgegenstand unverzüglich vorzulegen.
 
 # § 43 – Besetzung des gerichtsähnlichen Kontrollorgans; Wahl der Mitglieder; Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Unabhängigen Kontrollrates
 
@@ -678,9 +1152,23 @@ Die Vorschläge werden dem Parlamentarischen Kontrollgremium durch die Bundesreg
 
 Das administrative Kontrollorgan untersteht einer Leiterin oder einem Leiter. Die Leiterin oder der Leiter verfügt über die Befähigung zum Richteramt. Sie oder er steht in einem Beamtenverhältnis zum Bund und ihr oder ihm wird ein Amt der Besoldungsgruppe B 6 übertragen. Sie oder er führt die Amtsbezeichnung Leiterin oder Leiter des administrativen Kontrollorgans. Die Leiterin oder der Leiter unterliegt den Weisungen der Präsidentin oder des Präsidenten.
 
-# §§ 51 und 52 – (zukünftig in Kraft)
+# § 51 – Zuständigkeit des administrativen Kontrollorgans
 
- 
+(1) Das administrative Kontrollorgan unterstützt das gerichtsähnliche Kontrollorgan in der Durchführung seiner Kontrollbefugnisse. Darüber hinaus ist es zuständig für die Rechtskontrolle der Bereiche der technischen Aufklärung, die nicht der Rechtskontrolle durch das gerichtsähnliche Kontrollorgan unterliegen; insbesondere kann es, soweit nicht die originäre Zuständigkeit des gerichtsähnlichen Kontrollorgans eröffnet ist, die Rechtmäßigkeit von Suchbegriffen überprüfen.
+
+(2) Die konkrete Ausgestaltung der Prüftätigkeit des administrativen Kontrollorgans wird von dem gerichtsähnlichen Kontrollorgan in regelmäßigen Abständen bestimmt. Hiervon unbenommen bleibt das Recht des gerichtsähnlichen Kontrollorgans zur Erteilung konkreter und einzelfallbezogener Prüfaufträge an das administrative Kontrollorgan.
+
+(3) Dem administrativen Kontrollorgan steht im Rahmen seiner Kontrollbefugnis ein Beanstandungsrecht nach § 52 zu.
+
+# § 52 – Beanstandungen
+
+(1) Stellt das administrative Kontrollorgan im Rahmen seiner Kontrollzuständigkeit einen rechtswidrigen Zustand fest, kann es gegenüber dem Bundesnachrichtendienst eine Beanstandung aussprechen. Vor dem Ausspruch der Beanstandung hört das administrative Kontrollorgan den Bundesnachrichtendienst an.
+
+(2) Spricht das administrative Kontrollorgan eine Beanstandung aus und wird dieser Beanstandung nicht innerhalb einer vom administrativen Kontrollorgan festgesetzten und angemessenen Frist abgeholfen, so kann das administrative Kontrollorgan die Beanstandung an das Bundeskanzleramt richten. Das Bundeskanzleramt nimmt zur Beanstandung Stellung.
+
+(3) Hält das administrative Kontrollorgan auch nach Stellungnahme des Bundeskanzleramtes an der Beanstandung fest oder nimmt das Bundeskanzleramt nicht innerhalb von drei Monaten nach Eingang der Beanstandung im Bundeskanzleramt Stellung, kann das administrative Kontrollorgan die Beanstandung dem gerichtsähnlichen Kontrollorgan zur abschließenden Entscheidung vorlegen.
+
+(4) Das gerichtsähnliche Kontrollorgan entscheidet über die Beanstandung nach Anhörung des Bundeskanzleramtes. Kommt das gerichtsähnliche Kontrollorgan zu dem Ergebnis, dass die Beanstandung rechtmäßig erfolgt ist, ordnet es an, dass der Beanstandung unverzüglich oder innerhalb einer von ihm bestimmten Frist abzuhelfen ist.
 
 # § 53 – Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates
 
@@ -694,6 +1182,128 @@ Die Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates müssen deu
 
 (3) Über die Erteilung einer Aussagegenehmigung entscheidet die Präsidentin oder der Präsident des Unabhängigen Kontrollrates. Die Genehmigung ist zu versagen, wenn die Aussage dem Wohl des Bundes oder eines Landes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder erheblich erschweren würde. Über die Erteilung einer Aussagegenehmigung für die Präsidentin oder den Präsidenten entscheidet die Vizepräsidentin oder der Vizepräsident.
 
-# §§ 55 bis 62 – (zukünftig in Kraft)
+# § 55 – Bericht des Unabhängigen Kontrollrates an das Parlamentarische Kontrollgremium
 
- 
+(1) Der Unabhängige Kontrollrat berichtet in Abständen von höchstens sechs Monaten dem Parlamentarischen Kontrollgremium über seine Tätigkeit.
+
+(2) Der Bericht nach Absatz 1 erfolgt nach Anhörung des Bundeskanzleramtes unter Beachtung des Geheimschutzes und erstreckt sich nur auf Informationen und Gegenstände, die der Verfügungsberechtigung des Bundesnachrichtendienstes unterliegen. Soweit diese nicht besteht, informiert das Bundeskanzleramt den Unabhängigen Kontrollrat. Auf Verlangen des Unabhängigen Kontrollrates ergreift das Bundeskanzleramt geeignete Maßnahmen, um das Parlamentarische Kontrollgremium über diese Informationen und Gegenstände unterrichten zu dürfen. Soweit dies aus Gründen des Wohls des Bundes oder eines Landes, insbesondere aus zwingenden Gründen des Nachrichtenzugangs oder aus Gründen des Schutzes von Persönlichkeitsrechten Dritter notwendig ist oder wenn der Kernbereich der exekutiven Eigenverantwortung betroffen ist, kann das Bundeskanzleramt den Bericht nach Absatz 1 ablehnen. Macht das Bundeskanzleramt von diesem Recht Gebrauch, so ist dies gegenüber dem Unabhängigen Kontrollrat zu begründen.
+
+(3) Der Unabhängige Kontrollrat berichtet dem Parlamentarischen Kontrollgremium unter Beachtung des Geheimschutzes in abstrakter Weise und nach Anhörung des Bundeskanzleramtes in öffentlicher Form zum Zweck der Unterrichtung des Deutschen Bundestages über Beanstandungen, über die das gerichtsähnliche Kontrollorgan entschieden hat. Das Bundeskanzleramt kann dem Bericht des Unabhängigen Kontrollrates eine Stellungnahme beifügen. Das Parlamentarische Kontrollgremium leitet den Bericht des Unabhängigen Kontrollrates in angemessener Zeit an den Deutschen Bundestag weiter. Das Parlamentarische Kontrollgremium kann dem Bericht des Unabhängigen Kontrollrates eine Bewertung nach § 10 Absatz 2 des Kontrollgremiumgesetzes beifügen oder den Bericht des Unabhängigen Kontrollrates dem Bericht über seine eigene Kontrolltätigkeit nach § 13 des Kontrollgremiumsgesetzes beifügen.
+
+# § 56 – Pflicht des Bundesnachrichtendienstes zur Unterstützung
+
+(1) Der Bundesnachrichtendienst unterstützt den Unabhängigen Kontrollrat bei seinen Aufgaben.
+
+(2) Soweit seine Kontrollbefugnis reicht, kann der Unabhängige Kontrollrat vom Bundesnachrichtendienst verlangen, Akten oder andere in amtlicher Verwahrung befindliche Schriftstücke, soweit im Einzelfall ein berechtigtes Interesse besteht auch im Original, und in Dateien gespeicherte Daten zur Verfügung zu stellen.
+
+(3) Dem Unabhängigen Kontrollrat ist jederzeit
+
+1. Zutritt zu sämtlichen Dienststellen und
+
+2. Zugang zu sämtlichen informationstechnischen Systemen
+
+zu gewähren, soweit diese in alleiniger Verfügungsberechtigung des Bundesnachrichtendienstes stehen und dies für die Durchführung der Kontrolle erforderlich ist. Stehen diese nicht in alleiniger Verfügungsberechtigung des Bundesnachrichtendienstes, so ergreift das Bundeskanzleramt auf Verlangen des Unabhängigen Kontrollrates geeignete Maßnahmen, um dem Unabhängigen Kontrollrat Zutritt nach Nummer 1 oder Zugang nach Nummer 2 zu ermöglichen.
+
+(4) Der Unabhängige Kontrollrat kann Mitarbeiterinnen und Mitarbeiter des Bundesnachrichtendienstes befragen oder von ihnen schriftliche Auskünfte einholen. Die Mitarbeiterinnen und Mitarbeiter des Bundesnachrichtendienstes sind verpflichtet, vollständige und wahrheitsgemäße Angaben zu machen. Den Verlangen des Unabhängigen Kontrollrates ist unverzüglich zu entsprechen.
+
+# § 57 – Personal- und Sachausstattung; Personalverwaltung
+
+(1) Dem Unabhängigen Kontrollrat ist die für die Erfüllung seiner Aufgaben angemessene Personal- und Sachausstattung zur Verfügung zu stellen.
+
+(2) Der Unabhängige Kontrollrat kann Aufgaben der Personalverwaltung und Personalwirtschaft auf das Bundeskanzleramt oder ein Bundesministerium übertragen, soweit hierdurch die Unabhängigkeit des Unabhängigen Kontrollrates nicht beeinträchtigt wird. Diesen Stellen dürfen personenbezogene Daten der Beschäftigten übermittelt werden, soweit deren Kenntnis zur Erfüllung der übertragenen Aufgaben erforderlich ist.
+
+§ 57 Abs. 1 Kursivdruck: Grammatikalische Schreibung des Wortes "Unabhängige" in "Unabhängigen" korrigiert
+
+# § 58 – Austausch zwischen dem Parlamentarischen Kontrollgremium und dem Unabhängigen Kontrollrat; Zusammenarbeit zwischen dem Unabhängigen Kontrollrat, der G 10-Kommission und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+
+(1) Der Unabhängige Kontrollrat kann sich regelmäßig mit dem Parlamentarischen Kontrollgremium unter Wahrung der jeweils geltenden Geheimhaltungsvorschriften im Rahmen der jeweiligen Kontrollzuständigkeit über allgemeine Angelegenheiten der Kontrolltätigkeit austauschen. Die Berichtspflichten des Unabhängigen Kontrollrates bleiben hiervon unberührt.
+
+(2) Die Rechte des Parlamentarischen Kontrollgremiums zur Kontrolle der Bundesregierung im Hinblick auf die Tätigkeit des Bundesnachrichtendienstes bleiben durch die Tätigkeit des Unabhängigen Kontrollrates unberührt.
+
+(3) Der Unabhängige Kontrollrat, die G 10-Kommission und der oder die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit können sich regelmäßig unter Wahrung der jeweils geltenden Geheimhaltungsvorschriften im Rahmen ihrer jeweiligen Kontrollzuständigkeit über allgemeine Angelegenheiten ihrer Kontrolltätigkeit austauschen.
+
+(4) Die Rechte der G 10-Kommission und des oder der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zur Kontrolle der Tätigkeit des Bundesnachrichtendienstes bleiben durch die Tätigkeit des Unabhängigen Kontrollrates unberührt.
+
+# § 59 – Mitteilung an Betroffene und Benachrichtigungspflichten
+
+(1) Soweit personenbezogene Daten von Ausländern im Ausland erhoben werden, erfolgt keine Mitteilung an die betroffene Person.
+
+(2) Werden Daten entgegen § 19 Absatz 7 Satz 1 erhoben und werden diese nach § 19 Absatz 7 Satz 5 nicht unverzüglich gelöscht, so ist die G 10-Kommission in ihrer nächsten Sitzung darüber zu unterrichten und der betroffenen Person die Erhebung der Daten mitzuteilen, sobald
+
+1. ausgeschlossen werden kann, dass hierdurch der Zweck der Maßnahme gefährdet ist, und
+
+2. kein überwiegender Nachteil für das Wohl des Bundes oder eines Landes absehbar ist.
+
+Erfolgt die Mitteilung nicht innerhalb von zwölf Monaten nach der Erhebung der Daten, bedarf die weitere Zurückstellung der Mitteilung der Zustimmung der G 10-Kommission. Die G 10-Kommission bestimmt die weitere Dauer der Zurückstellung. Fünf Jahre nach der Erhebung der Daten kann mit Zustimmung der G 10-Kommission endgültig von einer Mitteilung abgesehen werden, wenn die Voraussetzungen für die Mitteilung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Solange die personenbezogenen Daten für eine Mitteilung oder für eine gerichtliche Nachprüfung der Datenerhebung von Bedeutung sein können, wird die Löschung zurückgestellt und die personenbezogenen Daten werden in ihrer Verarbeitung eingeschränkt; sie dürfen dann nur zu diesem Zweck verwendet werden.
+
+# § 60 – Mitteilungsverbote
+
+(1) Personen, die Telekommunikationsdienste erbringen oder die an der Erbringung solcher Dienste mitwirken, sind in Bezug auf die ihnen gegenüber erfolgten Anordnungen und deren Umsetzung nach § 25 zur Verschwiegenheit verpflichtet.
+
+(2) Erfolgt ein Auskunftsersuchen oder eine Auskunftserteilung nach § 25 Absatz 1 Satz 1, auch in Verbindung mit § 24 Absatz 4, so darf diese Tatsache oder der Inhalt des Ersuchens oder der erteilten Auskunft von Personen, die zur Beantwortung verpflichtet oder mit der Beantwortung betraut sind oder die hieran mitwirken, anderen nicht mitgeteilt werden.
+
+# § 61 – Evaluierung
+
+Der Unabhängige Kontrollrat erstellt alle fünf Jahre einen Bericht zur Evaluierung der Effektivität seiner Kontrolltätigkeit und übermittelt diesen dem Parlamentarischen Kontrollgremium. Das Bundeskanzleramt erhält vorab die Gelegenheit zur Stellungnahme zu diesem Bericht.
+
+# § 62 – Dienstvorschriften
+
+Die technische und organisatorische Umsetzung der Regelungen zur technischen Aufklärung ist in Dienstvorschriften festzulegen. Die Dienstvorschriften bedürfen der Zustimmung des Bundeskanzleramtes. Das Bundeskanzleramt unterrichtet das Parlamentarische Kontrollgremium.
+
+# § 63 – Unabhängige Datenschutzkontrolle
+
+§ 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
+
+# § 64 – Anwendung des Bundesdatenschutzgesetzes
+
+Bei der Erfüllung der Aufgaben des Bundesnachrichtendienstes nach § 1 Absatz 2 ist das Bundesdatenschutzgesetz wie folgt anzuwenden:
+
+1. von den Teilen 1 und 4 des Bundesdatenschutzgesetzes
+
+a) finden § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4, die §§ 17 bis 21 sowie § 85 keine Anwendung,
+
+b) findet § 14 Absatz 2 mit der Maßgabe Anwendung, dass sich die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit nur an die Bundesregierung sowie an die für die Kontrolle des Bundesnachrichtendienstes zuständigen Gremien (Parlamentarisches Kontrollgremium, Vertrauensgremium, G 10-Kommission, Unabhängiges Gremium) wenden darf; eine Befassung der für die Kontrolle des Bundesnachrichtendienstes zuständigen Gremien setzt voraus, dass sie oder er der Bundesregierung entsprechend § 16 Absatz 2 Satz 1 des Bundesdatenschutzgesetzes zuvor Gelegenheit gegeben hat, innerhalb einer von ihr oder ihm gesetzten Frist Stellung zu nehmen;
+
+2. von Teil 3 des Bundesdatenschutzgesetzes sind die §§ 46, 49, 50, 51 Absatz 1 bis 4 sowie die §§ 52 bis 54, 62, 64, 83, 84 entsprechend anzuwenden.
+
+# § 65 – Berichtspflicht und Information der Öffentlichkeit
+
+(1) Der Bundesnachrichtendienst unterrichtet unmittelbar das Bundeskanzleramt und die Bundesministerien im Rahmen ihrer Zuständigkeiten; hierbei ist auch die Übermittlung personenbezogener Daten zulässig. Die §§ 11, 29 und 38 finden Anwendung.
+
+(2) Der Bundesnachrichtendienst kann die Öffentlichkeit über Erkenntnisse informieren, die er im Rahmen seiner Aufgaben nach § 1 Absatz 2 oder bei der Aufarbeitung seiner Historie gewinnt. Bei der Information darf er auch personenbezogene Daten bekanntgeben, wenn
+
+1. dies für das Verständnis des Zusammenhanges oder für das Verständnis der Darstellung von Organisationen oder unorganisierten Gruppierungen erforderlich ist und
+
+2. die Interessen der Allgemeinheit das schutzwürdige Interesse des Betroffenen überwiegen.
+
+# § 66 – Strafvorschriften
+
+Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 60 Absatz 2 eine Mitteilung macht.
+
+# § 67 – Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer
+
+1. einer vollziehbaren Anordnung nach § 25 Absatz 1 Satz 1 oder Absatz 3 Satz 3 zuwiderhandelt oder
+
+2. entgegen § 25 Absatz 3 Satz 2 eine Person betraut.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesministerium für Wirtschaft und Energie.
+
+# § 68 – Einschränkung von Grundrechten
+
+Das Grundrecht des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) sowie das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden durch dieses Gesetz eingeschränkt.
+
+# § 69 – Übergangsvorschriften
+
+(1) Maßnahmen der technischen Aufklärung im Sinne des Abschnitts 4, die bereits vor dem 1. Januar 2022 begonnen wurden, dürfen bis zum 31. Dezember 2022 fortgeführt werden. Diese Maßnahmen unterliegen der Rechtskontrolle durch das administrative Kontrollorgan. § 51 findet entsprechende Anwendung. Wird die Maßnahme erstmals nach § 23 Absatz 1 oder Absatz 5 oder § 37 Absatz 1 angeordnet und bestätigt das gerichtsähnliche Kontrollorgan die Rechtmäßigkeit der Anordnung nicht, ist die Maßnahme unverzüglich einzustellen.
+
+(2) Die Speicherung von Daten, die vor dem 1. Januar 2022 erhoben wurden, sowie die Speicherung von Daten, die auf der Grundlage einer Maßnahme nach Absatz 1 erhoben wurden, bestimmen sich nach den §§ 19 und 20 in der am 19. Juni 2020 geltenden Fassung.
+
+(3) Die Übermittlung von Daten, die vor dem 1. Januar 2022 erhoben wurden, sowie die Übermittlung von Daten, die auf der Grundlage einer Maßnahme nach Absatz 1 erhoben wurden, bestimmen sich nach § 23 in der am 19. Juni 2020 geltenden Fassung.
+
+(4) Bis zur Schaffung der technischen Voraussetzungen für die in § 19 Absatz 10 Satz 1 und § 34 Absatz 8 Satz 1 vorgesehene Kennzeichnung ist die Weiterverarbeitung der nach Abschnitt 4 erhobenen personenbezogener Daten in den bestehenden Systemen des Bundesnachrichtendienstes auch ohne die Kennzeichnung zulässig, sofern hinsichtlich der ab dem 1. Januar 2022 erhobenen Daten jeweils der Zweck und das Mittel der Datenerhebung anderweitig nachvollziehbar sind. Die Weiterverarbeitung in den strukturierten Grundlagenbanken des Bundesnachrichtendienstes ist darüber hinaus bis zur Schaffung der technischen Voraussetzungen für die Kennzeichnung von Zweck und Mittel auch dann zulässig, wenn der Zweck und das Mittel der Datenerhebung nicht für jedes Datum nachvollziehbar sind; die Übermittlung dieser Daten richtet sich insoweit nach Absatz 3. Das Bundeskanzleramt berichtet dem Parlamentarischen Kontrollgremium jährlich über den Fortschritt bei der Schaffung der technischen Voraussetzungen für die Kennzeichnung nach Satz 2.
+
+(5) Die am 31. Dezember 2021 bestehenden Kooperationsvereinbarungen mit ausländischen öffentlichen Stellen nach § 13 in der am 19. Juni 2020 geltenden Fassung gelten bis längstens zum 31. Dezember 2024 fort.
