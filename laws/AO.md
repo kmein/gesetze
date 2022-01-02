@@ -4406,9 +4406,17 @@ zuständigen Behörden, soweit dies zur Überprüfung des Vorliegens der Anspruc
 
 Die für die Vollstreckung nach dem Verwaltungs-Vollstreckungsgesetz und nach den Verwaltungsvollstreckungsgesetzen der Länder zuständigen Behörden dürfen zur Durchführung der Vollstreckung das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 und 1a bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b, abzurufen, wenn
 
-1. der Vollstreckungsschuldner seiner Pflicht, eine Vermögensauskunft zu erteilen, nicht nachkommt oder
+1. die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den Vollstreckungsschuldner nicht zustellbar ist und
 
-2. bei einer Vollstreckung in die Vermögensgegenstände, die in der Vermögensauskunft angegeben sind, eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten ist.
+a) die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2 der Zivilprozessordnung genannten Stellen innerhalb von drei Monaten vor oder nach dem Zustellungsversuch mitgeteilt wurde, oder
+
+b) die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist, oder
+
+c) die Meldebehörde innerhalb von drei Monaten vor Erlass der Vollstreckungsanordnung die Auskunft erteilt hat, dass ihr keine derzeitige Anschrift des Vollstreckungsschuldners bekannt ist;
+
+2. der Vollstreckungsschuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem dem Ersuchen zugrundeliegenden Vollstreckungsverfahren nicht nachkommt oder
+
+3. bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung nicht zu erwarten ist.
 
 Für andere Zwecke ist ein Abrufersuchen an das Bundeszentralamt für Steuern hinsichtlich der in § 93b Absatz 1 und 1a bezeichneten Daten, ausgenommen die Identifikationsnummer nach § 139b, nur zulässig, soweit dies durch ein Bundesgesetz ausdrücklich zugelassen ist.
 
@@ -6671,7 +6679,7 @@ c) die untersuchten Waren den an sie gestellten Anforderungen nicht entsprechen,
 
 (1) Gesondert festgestellt werden insbesondere:
 
-1. die Einheitswerte nach Maßgabe des Bewertungsgesetzes,
+1. die Einheitswerte und die Grundsteuerwerte nach Maßgabe des Bewertungsgesetzes,
 
 2. a) die einkommensteuerpflichtigen und körperschaftsteuerpflichtigen Einkünfte und mit ihnen im Zusammenhang stehende andere Besteuerungsgrundlagen, wenn an den Einkünften mehrere Personen beteiligt sind und die Einkünfte diesen Personen steuerlich zuzurechnen sind,
 
@@ -6734,9 +6742,9 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (2a) Die Erklärung zur gesonderten Feststellung nach § 180 Absatz 1 Satz 1 Nummer 2 ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung zur gesonderten Feststellung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen eigenhändig zu unterschreiben.
 
-(3) Die Frist für die gesonderte Feststellung von Einheitswerten (Feststellungsfrist) beginnt mit Ablauf des Kalenderjahrs, auf dessen Beginn die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Einheitswerts vorzunehmen ist. Ist eine Erklärung zur gesonderten Feststellung des Einheitswerts abzugeben, beginnt die Feststellungsfrist mit Ablauf des Kalenderjahrs, in dem die Erklärung eingereicht wird, spätestens jedoch mit Ablauf des dritten Kalenderjahrs, das auf das Kalenderjahr folgt, auf dessen Beginn die Einheitswertfeststellung vorzunehmen oder aufzuheben ist. Wird der Beginn der Feststellungsfrist nach Satz 2 hinausgeschoben, wird der Beginn der Feststellungsfrist für die weiteren Feststellungszeitpunkte des Hauptfeststellungszeitraums jeweils um die gleiche Zeit hinausgeschoben.
+(3) Die Frist für die gesonderte Feststellung von Einheitswerten oder von Grundsteuerwerten (Feststellungsfrist) beginnt mit Ablauf des Kalenderjahres, auf dessen Beginn die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Einheitswerts oder eines Grundsteuerwerts vorzunehmen ist. Ist eine Erklärung zur gesonderten Feststellung des Einheitswerts oder des Grundsteuerwerts abzugeben, beginnt die Feststellungsfrist mit Ablauf des Kalenderjahres, in dem die Erklärung eingereicht wird, spätestens jedoch mit Ablauf des dritten Kalenderjahres, das auf das Kalenderjahr folgt, auf dessen Beginn die Einheitswertfeststellung oder die Grundsteuerwertfeststellung vorzunehmen oder aufzuheben ist. Wird der Beginn der Feststellungsfrist nach Satz 2 hinausgeschoben, wird der Beginn der Feststellungsfrist für die weiteren Feststellungszeitpunkte des Hauptfeststellungszeitraums jeweils um die gleiche Zeit hinausgeschoben.
 
-(4) In den Fällen des Absatzes 3 beginnt die Feststellungsfrist nicht vor Ablauf des Kalenderjahrs, auf dessen Beginn der Einheitswert erstmals steuerlich anzuwenden ist.
+(4) In den Fällen des Absatzes 3 beginnt die Feststellungsfrist nicht vor Ablauf des Kalenderjahrs, auf dessen Beginn der Einheitswert oder der Grundsteuerwert erstmals steuerlich anzuwenden ist.
 
 (5) Eine gesonderte Feststellung kann auch nach Ablauf der für sie geltenden Feststellungsfrist insoweit erfolgen, als die gesonderte Feststellung für eine Steuerfestsetzung von Bedeutung ist, für die die Festsetzungsfrist im Zeitpunkt der gesonderten Feststellung noch nicht abgelaufen ist; hierbei bleibt § 171 Abs. 10 außer Betracht. Hierauf ist im Feststellungsbescheid hinzuweisen. § 169 Abs. 1 Satz 3 gilt sinngemäß.
 
@@ -6746,7 +6754,7 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (1) Feststellungsbescheide sind, auch wenn sie noch nicht unanfechtbar sind, für andere Feststellungsbescheide, für Steuermessbescheide, für Steuerbescheide und für Steueranmeldungen (Folgebescheide) bindend, soweit die in den Feststellungsbescheiden getroffenen Feststellungen für diese Folgebescheide von Bedeutung sind. Dies gilt entsprechend bei Feststellungen nach § 180 Absatz 5 Nummer 2 für Verwaltungsakte, die die Verwirklichung der Ansprüche aus dem Steuerschuldverhältnis betreffen. Wird ein Feststellungsbescheid nach § 180 Absatz 5 Nummer 2 erlassen, aufgehoben oder geändert, ist ein Verwaltungsakt, für den dieser Feststellungsbescheid Bindungswirkung entfaltet, in entsprechender Anwendung des § 175 Absatz 1 Satz 1 Nummer 1 zu korrigieren.
 
-(2) Ein Feststellungsbescheid über einen Einheitswert nach § 180 Absatz 1 Satz 1 Nummer 1 wirkt auch gegenüber dem Rechtsnachfolger, auf den der Gegenstand der Feststellung nach dem Feststellungszeitpunkt mit steuerlicher Wirkung übergeht. Tritt die Rechtsnachfolge jedoch ein, bevor der Feststellungsbescheid ergangen ist, so wirkt er gegen den Rechtsnachfolger nur dann, wenn er ihm bekannt gegeben wird. Die Sätze 1 und 2 gelten für gesonderte sowie gesonderte und einheitliche Feststellungen von Besteuerungsgrundlagen, die sich erst später auswirken, nach der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung entsprechend.
+(2) Ein Feststellungsbescheid über einen Einheitswert oder einen Grundsteuerwert nach § 180 Absatz 1 Satz 1 Nummer 1 wirkt auch gegenüber dem Rechtsnachfolger, auf den der Gegenstand der Feststellung nach dem Feststellungszeitpunkt mit steuerlicher Wirkung übergeht. Tritt die Rechtsnachfolge jedoch ein, bevor der Feststellungsbescheid ergangen ist, so wirkt er gegen den Rechtsnachfolger nur dann, wenn er ihm bekannt gegeben wird. Die Sätze 1 und 2 gelten für gesonderte sowie gesonderte und einheitliche Feststellungen von Besteuerungsgrundlagen, die sich erst später auswirken, nach der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung entsprechend.
 
 (3) Erfolgt eine gesonderte Feststellung gegenüber mehreren Beteiligten nach § 179 Absatz 2 Satz 2 einheitlich und ist ein Beteiligter im Feststellungsbescheid unrichtig bezeichnet worden, weil Rechtsnachfolge eingetreten ist, kann dies durch besonderen Bescheid gegenüber dem Rechtsnachfolger berichtigt werden.
 
@@ -6766,7 +6774,7 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 2. Ehegatten mit ihren Kindern, Lebenspartnern mit ihren Kindern oder Alleinstehenden mit ihren Kindern
 
-zugerechnet und haben die Beteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von Feststellungsbescheiden über den Einheitswert die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7 entsprechend.
+zugerechnet und haben die Beteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von Feststellungsbescheiden über den Einheitswert oder den Grundsteuerwert die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7 entsprechend.
 
 (+++ § 183: Zur Anwendung vgl. Art. 97 § 1 Abs. 10 AOEG 1977 +++)
 
@@ -7506,6 +7514,8 @@ Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist anderweit
 
 (2) Zur Vorbereitung der Vollstreckung können die Finanzbehörden die Vermögens- und Einkommensverhältnisse des Vollstreckungsschuldners ermitteln. Die Finanzbehörde darf ihr bekannte, nach § 30 geschützte Daten, die sie bei der Vollstreckung wegen Steuern und steuerlicher Nebenleistungen verwenden darf, auch bei der Vollstreckung wegen anderer Geldleistungen als Steuern und steuerlicher Nebenleistungen verwenden.
 
+(3) Zur Durchführung von Vollstreckungsmaßnahmen können die Vollstreckungsbehörden Auskunfts- und Unterstützungsersuchen nach § 757a der Zivilprozessordnung stellen.
+
 # § 250 – Vollstreckungsersuchen
 
 (1) Soweit eine Vollstreckungsbehörde auf Ersuchen einer anderen Vollstreckungsbehörde Vollstreckungsmaßnahmen ausführt, tritt sie an die Stelle der anderen Vollstreckungsbehörde. Für die Vollstreckbarkeit des Anspruchs bleibt die ersuchende Vollstreckungsbehörde verantwortlich.
@@ -7753,11 +7763,11 @@ Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem Erwerber w
 
 2. die unentgeltlichen Leistungen des Vollstreckungsschuldners, die dieser in den letzten vier Jahren vor dem Termin nach Absatz 7 und bis zur Abgabe der Vermögensauskunft vorgenommen hat, sofern sie sich nicht auf gebräuchliche Gelegenheitsgeschenke geringen Werts richteten.
 
-Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Zivilprozessordnung der Pfändung offensichtlich nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei denn, dass eine Austauschpfändung in Betracht kommt.
+Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der Zivilprozessordnung der Pfändung offensichtlich nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei denn, dass eine Austauschpfändung in Betracht kommt.
 
 (3) Der Vollstreckungsschuldner hat zu Protokoll an Eides statt zu versichern, dass er die Angaben nach den Absätzen 1 und 2 nach bestem Wissen und Gewissen richtig und vollständig gemacht habe. Vor Abnahme der eidesstattlichen Versicherung ist der Vollstreckungsschuldner über die Bedeutung der eidesstattlichen Versicherung, insbesondere über die strafrechtlichen Folgen einer unrichtigen oder unvollständigen eidesstattlichen Versicherung, zu belehren.
 
-(4) Ein Vollstreckungsschuldner, der die in dieser Vorschrift oder die in § 802c der Zivilprozessordnung bezeichnete Vermögensauskunft innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn anzunehmen ist, dass sich seine Vermögensverhältnisse wesentlich geändert haben. Die Vollstreckungsbehörde hat von Amts wegen festzustellen, ob beim zentralen Vollstreckungsgericht nach § 802k Abs. 1 der Zivilprozessordnung in den letzten zwei Jahren ein auf Grund einer Vermögensauskunft des Schuldners erstelltes Vermögensverzeichnis hinterlegt wurde.
+(4) Der Vollstreckungsschuldner ist innerhalb von zwei Jahren nach Abgabe der Vermögensauskunft nach dieser Vorschrift oder nach § 802c der Zivilprozessordnung nicht verpflichtet, eine weitere Vermögensauskunft abzugeben, es sei denn, es ist anzunehmen, dass sich die Vermögensverhältnisse des Vollstreckungsschuldners wesentlich geändert haben. Die Vollstreckungsbehörde hat von Amts wegen festzustellen, ob beim zentralen Vollstreckungsgericht nach § 802k Absatz 1 der Zivilprozessordnung in den letzten zwei Jahren ein auf Grund einer Vermögensauskunft des Schuldners erstelltes Vermögensverzeichnis hinterlegt wurde.
 
 (5) Für die Abnahme der Vermögensauskunft ist die Vollstreckungsbehörde zuständig, in deren Bezirk sich der Wohnsitz oder der Aufenthaltsort des Vollstreckungsschuldners befindet. Liegen diese Voraussetzungen bei der Vollstreckungsbehörde, die die Vollstreckung betreibt, nicht vor, so kann sie die Vermögensauskunft abnehmen, wenn der Vollstreckungsschuldner zu ihrer Abgabe bereit ist.
 
@@ -7865,7 +7875,7 @@ Die Aufforderungen und die sonstigen Mitteilungen, die zu den Vollstreckungshand
 
 # § 295 – Unpfändbarkeit von Sachen
 
-Die §§ 811 bis 812, 813 Absatz 1 bis 3 und § 882a Absatz 4 der Zivilprozessordnung sowie die Beschränkungen und Verbote, die nach anderen gesetzlichen Vorschriften für die Pfändung von Sachen bestehen, gelten entsprechend. An die Stelle des Vollstreckungsgerichts tritt die Vollstreckungsbehörde.
+Die §§ 811 bis 811c, 813 Absatz 1 bis 3 und § 882a Absatz 4 der Zivilprozessordnung sowie die Beschränkungen und Verbote, die nach anderen gesetzlichen Vorschriften für die Pfändung von Sachen bestehen, gelten entsprechend. An die Stelle des Vollstreckungsgerichts tritt die Vollstreckungsbehörde.
 
 # § 296 – Verwertung
 
@@ -8203,7 +8213,7 @@ Im Vollstreckungsverfahren werden Pfändungsgebühren (§ 339), Wegnahmegebühre
 
 3. ein Pfändungsversuch erfolglos geblieben ist, weil pfändbare Gegenstände nicht vorgefunden wurden, oder
 
-4. die Pfändung in den Fällen des § 281 Abs. 3 dieses Gesetzes sowie der §§ 812 und 851b Abs. 1 der Zivilprozessordnung unterbleibt.
+4. die Pfändung in den Fällen des § 281 Abs. 3 dieses Gesetzes sowie der § 811 Absatz 4 und § 851b Absatz 1 der Zivilprozessordnung unterbleibt.
 
 Wird die Pfändung auf andere Weise abgewendet, wird keine Gebühr erhoben.
 

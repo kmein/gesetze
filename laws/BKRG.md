@@ -83,9 +83,9 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
 (6) Der wissenschaftliche Ausschuss gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung durch das Bundesministerium für Gesundheit.
 
-# § 5 – Datenübermittlung
+# § 5 – Datenübermittlung an das Zentrum für Krebsregisterdaten, Verordnungsermächtigung
 
-(1) Die Krebsregister übermitteln an das Zentrum für Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 spätestens bis 31. Dezember des übernächsten Jahres zu allen bis zum Ende eines Jahres erfassten Krebsneuerkrankungen folgende Daten:
+(1) Die Krebsregister übermitteln jährlich an das Zentrum für Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 zu allen bis zum Ende eines Kalenderjahres erfassten Erkrankungsfällen von Personen, die ihren Wohnort in dem Erfassungsgebiet des Krebsregisters haben, folgende Daten:
 
 1. Angaben zur Person:
 
@@ -93,35 +93,162 @@ a) Geschlecht,
 
 b) Monat und Jahr der Geburt,
 
-c) die ersten fünf Ziffern der Gemeindekennziffer des Wohnortes,
+c) die ersten fünf Ziffern des amtlichen Gemeindeschlüssels des Wohnortes zum Zeitpunkt der Erstdiagnose eines Tumors,
+
+d) eine einmalig für die Übermittlung von dem Krebsregister zu vergebende Kennzeichnung der Person, die ausschließlich eine Zuordnung weiterer gemeldeter Tumordiagnosen dieser Person ermöglicht und eine Wiederherstellung des Personenbezugs durch den Empfänger ausschließt,
 
 2. Angaben mit Bezug zur Tumordiagnose:
 
-a) Tumordiagnose nach dem Schlüssel der Internationalen Klassifikation der Krankheiten (ICD) in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung,
+a) Tumordiagnose nach dem Schlüssel der Internationalen Klassifikation der Krankheiten in der jeweiligen vom Bundesinstitut für Arzneimittel und Medizinprodukte im Auftrag des Bundesministeriums für Gesundheit herausgegebenen und vom Bundesministerium für Gesundheit in Kraft gesetzten Fassung,
 
-b) Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten (ICD-O),
+b) Monat und Jahr der Erstdiagnose eines Tumors,
 
-c) Lokalisation des Tumors, einschließlich der Angabe der Seite bei paarigen Organen (ICD-O),
+c) Pathologiebefund:
 
-d) Monat und Jahr der ersten Tumordiagnose,
+aa)  
+Histologiebefund nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten,
 
-e) frühere Tumorerkrankungen,
+bb)  
+Differenzierungsgrad,
 
-f) Art der Diagnosesicherung: ausschließlich über die Todesursache (DCO), klinisch, zytologisch, histologisch, durch Obduktion, sonstige,
+cc) Anzahl der untersuchten und befallenen Lymphknoten,
 
-g) Stadium der Erkrankung, insbesondere nach dem aktuellen TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades der Tumoren,
+d) Lokalisation des Tumors einschließlich der Angabe der Seite bei paarigen Organen nach dem Schlüssel der aktuellen Internationalen Klassifikation der onkologischen Krankheiten,
 
-h) Art der Primärtherapie,
+e) Art der Diagnosesicherung:
 
-3. Angaben im Sterbefall:
+aa)  
+ausschließlich über die Todesursache,
+
+bb)  
+klinisch,
+
+cc) zytologisch,
+
+dd)  
+histologisch,
+
+ee)  
+durch Obduktion oder
+
+ff)  
+sonstige Art der Diagnosesicherung einschließlich der Information, ob der Erkrankungsfall initial über die Todesbescheinigung dem Krebsregister bekannt geworden ist,
+
+f) Stadium der Erkrankung und tumorspezifische prognostisch und therapeutisch relevante Charakteristika, insbesondere
+
+aa)  
+nach der aktuellen Klassifikation maligner Tumore nach dem TNM-Schlüssel zur Darstellung der Größe und des Metastasierungsgrades des Tumors einschließlich der nach dem TNM-Schlüssel vorgesehenen Kennzeichen oder
+
+bb)  
+nach der diagnosespezifischen Klassifikation für Tumorformen, für die der TNM-Schlüssel keine Anwendung findet,
+
+3. Angaben mit Bezug zur Therapie:
+
+a) Operation:
+
+aa)  
+Monat und Jahr der Operation,
+
+bb)  
+Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag der Operation,
+
+cc) Intention,
+
+dd)  
+Art der Operation nach dem Operationen- und Prozedurenschlüssel,
+
+ee)  
+lokaler Residualstatus nach Abschluss der Operation,
+
+b) Strahlentherapie:
+
+aa)  
+Monat und Jahr des Beginns,
+
+bb)  
+Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,
+
+cc) Dauer der Therapie in Tagen,
+
+dd)  
+Intention und Stellung zur operativen Therapie,
+
+ee)  
+Zielgebiet,
+
+ff)  
+Applikationsart,
+
+c) systemische oder abwartende Therapie:
+
+aa)  
+Monat und Jahr des Beginns,
+
+bb)  
+Anzahl der Tage zwischen dem Tag der Diagnose und dem Tag des Beginns der Therapie,
+
+cc) Dauer der Therapie in Tagen,
+
+dd)  
+Intention und Stellung zur operativen Therapie,
+
+ee)  
+Art der Therapie,
+
+ff)  
+weitere Angaben zu
+
+aaa)  
+den verwendeten Substanzen oder
+
+bbb)  
+dem Protokoll,
+
+d) Residualstatus nach Abschluss der Primärtherapie,
+
+4. Angaben mit Bezug zum Verlauf der Erkrankung:
+
+a) Angaben zu Rezidiven und Remissionen einschließlich Angaben zum Monat und Jahr der Feststellung,
+
+b) Angaben zur neu aufgetretenen Metastasierung und zum Ort dieser Metastasierung einschließlich Angaben zu Monat und Jahr der Feststellung,
+
+5. Angaben im Sterbefall:
 
 a) Sterbemonat und Sterbejahr,
 
-b) Todesursache (Grundleiden),
+b) Todesursachen,
 
-c) Durchführung einer Obduktion.
+c) Anzahl der Tage zwischen dem Tag der Diagnose und dem Sterbetag.
 
-(2) Die zuständigen Landesbehörden stellen sicher, dass die Daten nach Absatz 1 flächendeckend und vollzählig erhoben, nach Prüfung auf Mehrfachmeldungen bereinigt und vollständig in einem einheitlichen Format übermittelt werden. Die Daten klinischer Krebsregistrierung sind zu nutzen.
+(2) Die Übermittlung der Daten hat spätestens bis zum 31. Dezember des nächsten Kalenderjahres zu erfolgen; dabei sind die Daten nach Absatz 1 möglichst vollständig zu übermitteln. Die Übermittlung nach Absatz 1 erfolgt erstmals bis zum 31. Dezember 2022.
+
+(3) Das Zentrum für Krebsregisterdaten und die Krebsregister vereinbaren spezifische Konkretisierungen hinsichtlich der Art und des Umfangs der nach Absatz 1 zu übermittelnden Daten bis spätestens zum 30. Juni 2022.
+
+(4) Die Krebsregister stellen sicher, dass die Daten nach Absatz 1 flächendeckend und vollzählig erhoben, nach Prüfung auf Mehrfachmeldungen bereinigt und vollständig in einem einheitlichen Format übermittelt werden.
+
+(5) Das Zentrum für Krebsregisterdaten hat den jährlich von den Krebsregistern nach Absatz 2 übermittelten Datensatz spätestens nach zwei Jahren nach der Übermittlung zu löschen.
+
+(6) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes festzulegen:
+
+1. die Pflicht der Krebsregister, weitere Angaben mit folgendem Bezug nach Absatz 1 an das Zentrum für Krebsregisterdaten zu übermitteln:
+
+a) Angaben mit Bezug zur Tumordiagnose einschließlich Angaben
+
+aa)  
+zum Pathologiebefund,
+
+bb)  
+zu spezifischen tumordiagnostischen Charakteristika und
+
+cc) zu genetischen Varianten, sobald diese Angaben von den Krebsregistern qualitätsgesichert erhoben werden,
+
+b) Angaben mit Bezug zur Therapie und
+
+c) Angaben mit Bezug zum Verlauf der Erkrankung,
+
+2. die Fristen zur Übermittlung der Angaben.
+
+In der Rechtsverordnung darf nicht festgelegt werden, dass die Krebsregister verpflichtet sind, an das Zentrum für Krebsregisterdaten andere als die in Absatz 1 Nummer 1 genannten Angaben zur Person oder Angaben zu den Leistungserbringern zu übermitteln.
 
 # § 6 – Datenverarbeitung und Datenübermittlung, Mitarbeit in Organisationen
 

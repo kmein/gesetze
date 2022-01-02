@@ -1138,11 +1138,11 @@ Diese Leistungen müssen mindestens den nach dem Fünften Buch Sozialgesetzbuch 
 
 (+++ § 69a: Zur Anwendung vgl. § 6 Satz 2 WSG +++)
 
-# § 70 – Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei
+# § 70 – Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte des Bundes
 
 (1) Beamten des Polizeivollzugsdienstes der Bundespolizei werden die Ausrüstung und die Dienstkleidung unentgeltlich bereitgestellt. Abweichend hiervon kann das Bundesministerium des Innern, für Bau und Heimat bestimmen, dass Beamte des gehobenen und des höheren Polizeivollzugsdienstes der Bundespolizei Dienstkleidung, die nicht zur Einsatz- und Arbeitsausstattung gehört, selbst zu beschaffen haben. Ihnen wird für die zu beschaffende Dienstkleidung ein einmaliger Bekleidungszuschuss und für deren besondere Abnutzung eine Entschädigung gewährt. Der Zuschuss und die Entschädigung nach Satz 3 sollen an eine vom Bundesministerium des Innern, für Bau und Heimat bestimmte Kleiderkasse geleistet werden. Das Nähere zu den Sätzen 2 bis 4 regelt das Bundesministerium des Innern, für Bau und Heimat durch allgemeine Verwaltungsvorschrift. Die Sätze 1 bis 4 gelten für Verwaltungsbeamte der Bundespolizei, soweit sie zum Tragen von Dienstkleidung verpflichtet werden, entsprechend.
 
-(2) Den Polizeivollzugsbeamten der Bundespolizei wird Heilfürsorge gewährt. Dies gilt auch
+(2) Den Polizeivollzugsbeamten in der Bundespolizei und beim Deutschen Bundestag wird Heilfürsorge gewährt. Dies gilt auch
 
 1. während der Inanspruchnahme von Elternzeit und während der Zeit einer Beurlaubung nach § 92 Absatz 1 oder § 92b Absatz 1 des Bundesbeamtengesetzes, sofern die Beamten nicht nach § 10 des Fünften Buches Sozialgesetzbuch familienversichert sind, sowie
 
@@ -1272,9 +1272,11 @@ ab 1.3.2018, ab 1.4.2019 und ab 1.3.2020 vgl. Bek. 2032-26-10 v. 13.11.2018 I 18
 
 # § 79 – (weggefallen)
 
-# § 80 – Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei
+# § 80 – Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte des Bundes
 
-Polizeivollzugsbeamten der Bundespolizei, die am 1. Januar 1993 Beihilfe nach den Beihilfevorschriften des Bundes erhalten, wird diese weiterhin gewährt. Auf Antrag erhalten sie an Stelle der Beihilfe Heilfürsorge nach § 70 Absatz 2. Der Antrag ist unwiderruflich.
+(1) Polizeivollzugsbeamten der Bundespolizei, die am 1. Januar 1993 Beihilfe nach den Beihilfevorschriften des Bundes erhalten, wird diese weiterhin gewährt. Auf Antrag erhalten sie an Stelle der Beihilfe Heilfürsorge nach § 70 Absatz 2. Der Antrag ist unwiderruflich.
+
+(2) Polizeivollzugsbeamten beim Deutschen Bundestag, die am 31. Dezember 2021 Beihilfe erhalten, wird diese weiterhin gewährt. Auf Antrag erhalten sie anstelle der Beihilfe Heilfürsorge nach § 70 Absatz 2. Der Antrag ist unwiderruflich.
 
 # § 80a – Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes
 

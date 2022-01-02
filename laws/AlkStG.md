@@ -19,7 +19,7 @@ andere Waren als die des Kapitels 22 der Kombinierten Nomenklatur, die unter Ver
 
 (3) Der Einordnung als Alkohol nach Absatz 2 Nummer 1 steht nicht entgegen, dass dieser feste Stoffe, auch zum Teil in der Flüssigkeit gelöst, enthält.
 
-(4) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
+(4) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach der Durchführungsverordnung (EU) 2018/1602 der Kommission vom 11. Oktober 2018 zur Änderung des Anhangs I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 273 vom 31.10.2018, S. 1) in der am 1. Januar 2019 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
 
 # § 2 – Steuertarif
 
@@ -31,11 +31,15 @@ andere Waren als die des Kapitels 22 der Kombinierten Nomenklatur, die unter Ver
 
 2. in einer Verschlussbrennerei mit einer Jahreserzeugung von bis zu 4 hl A gewonnen worden ist, zum Ausgleich der in einer Abfindungsbrennerei zulässigen steuerfreien Überausbeute, auf 730 Euro je hl A.
 
-Die Steuerermäßigungen sind auf den Erzeuger des Alkohols beschränkt und setzen voraus, dass die Brennerei rechtlich und wirtschaftlich unabhängig von einer anderen Brennerei und kein Lizenznehmer ist. Der ermäßigte Steuersatz nach Satz 1 Nummer 2 gilt auch für Alkohol, der von einer außerhalb des Steuergebiets liegenden Kleinbrennerei mit einer Jahreserzeugung von bis zu 5 hl A stammt.
+Die Steuerermäßigungen sind auf den Erzeuger des Alkohols beschränkt und setzen voraus, dass die Brennerei rechtlich und wirtschaftlich unabhängig von einer anderen Brennerei und kein Lizenznehmer ist.
 
-(3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(3) Der ermäßigte Steuersatz nach Absatz 2 Satz 1 Nummer 2 gilt auch für Alkohol, der von einer in einem anderen Mitgliedstaat ansässigen kleinen unabhängigen Brennerei mit einer Gesamtjahreserzeugung von bis zu 5 hl A stammt. Für die Inanspruchnahme des ermäßigten Steuersatzes nach Satz 1 ist die Vorlage einer amtlichen Bescheinigung des anderen Mitgliedstaats erforderlich, aus der die Gesamtjahreserzeugung der Kleinbrennerei hervorgeht und die die Unabhängigkeit der Kleinbrennerei im Sinn des Absatzes 2 Satz 2 bestätigt.
 
-1. zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 2 zu erlassen;
+(4) Auf Antrag stellt das Hauptzollamt einer unabhängigen Brennerei mit Sitz im Steuergebiet eine Bescheinigung entsprechend Absatz 3 Satz 2 aus.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+
+1. zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 bis 4 zu erlassen;
 
 2. zur steuerlichen Gleichbehandlung von in einer Abfindungsbrennerei oder von einem Stoffbesitzer und in Verschlussbrennereien mit einer Jahreserzeugung bis 4 hl A gewonnenem Alkohol bei einer Änderung der zulässigen steuerfreien Überausbeute den ermäßigten Steuersatz nach Absatz 2 Satz 1 Nummer 2 anzupassen;
 

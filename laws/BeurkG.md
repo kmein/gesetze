@@ -5,7 +5,7 @@
 
 (1) Dieses Gesetz gilt für öffentliche Beurkundungen und Verwahrungen durch den Notar.
 
-(2) Soweit für öffentliche Beurkundungen neben dem Notar auch andere Urkundspersonen oder sonstige Stellen zuständig sind, gelten die Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2, entsprechend.
+(2) Soweit für öffentliche Beurkundungen neben dem Notar auch andere Urkundspersonen oder sonstige Stellen zuständig sind, gelten die Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2 und des Fünften Abschnittes, entsprechend.
 
 # § 2 – Überschreiten des Amtsbezirks
 
@@ -285,6 +285,8 @@ Bei einem Erbvertrag gelten die §§ 30 und 32 entsprechend auch für die Erklä
 
 (3) Haben die Beteiligten bei einem Erbvertrag die besondere amtliche Verwahrung ausgeschlossen, so bleibt die Urkunde in der Verwahrung des Notars.
 
+(4) Die Urschrift einer Verfügung von Todes wegen darf nicht nach § 56 in die elektronische Form übertragen werden.
+
 # § 34a – Mitteilungs- und Ablieferungspflichten
 
 (1) Der Notar übermittelt nach Errichtung einer erbfolgerelevanten Urkunde im Sinne von § 78d Absatz 2 Satz 1 der Bundesnotarordnung die Verwahrangaben im Sinne von § 78d Absatz 2 Satz 2 der Bundesnotarordnung unverzüglich elektronisch an die das Zentrale Testamentsregister führende Registerbehörde. Die Mitteilungspflicht nach Satz 1 besteht auch bei jeder Beurkundung von Änderungen erbfolgerelevanter Urkunden.
@@ -369,23 +371,39 @@ Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur und Prä
 
 (1) Zusätze und sonstige, nicht nur geringfügige Änderungen sollen am Schluß vor den Unterschriften oder am Rande vermerkt und im letzteren Falle von dem Notar besonders unterzeichnet werden. Ist der Niederschrift ein Schriftstück nach § 9 Abs. 1 Satz 2, den §§ 14, 37 Abs. 1 Satz 2 beigefügt, so brauchen Änderungen in dem beigefügten Schriftstück nicht unterzeichnet zu werden, wenn aus der Niederschrift hervorgeht, daß sie genehmigt worden sind.
 
-(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach Abschluß der Niederschrift durch einen von ihm zu unterschreibenden Nachtragsvermerk richtigstellen. Der Nachtragsvermerk ist am Schluß nach den Unterschriften oder auf einem besonderen, mit der Urkunde zu verbindenden Blatt niederzulegen und mit dem Datum der Richtigstellung zu versehen. Ergibt sich im übrigen nach Abschluß der Niederschrift die Notwendigkeit einer Änderung oder Berichtigung, so hat der Notar hierüber eine besondere Niederschrift aufzunehmen.
+(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach Abschluß der Niederschrift durch einen von ihm zu unterschreibenden Nachtragsvermerk richtigstellen. Der Nachtragsvermerk ist mit dem Datum der Richtigstellung zu versehen. Der Nachtragsvermerk ist am Schluß nach den Unterschriften oder auf einem besonderen, mit der Urkunde zu verbindenden Blatt niederzulegen. Wird die elektronische Fassung der Urschrift zum Zeitpunkt der Richtigstellung bereits in der elektronischen Urkundensammlung verwahrt, darf der Nachtragsvermerk nur noch auf einem gesonderten, mit der Urkunde zu verbindenden Blatt niedergelegt werden.
 
-# § 45 – Aushändigung der Urschrift
+(3) Ergibt sich im übrigen nach Abschluß der Niederschrift die Notwendigkeit einer Änderung oder Berichtigung, so hat der Notar hierüber eine besondere Niederschrift aufzunehmen.
+
+# § 44b – Nachtragsbeurkundung
+
+(1) Wird der Inhalt einer Niederschrift in einer anderen Niederschrift berichtigt, geändert, ergänzt oder aufgehoben, soll der Notar durch einen mit dem Datum zu versehenden und von ihm zu unterschreibenden Nachtragsvermerk auf die andere Niederschrift verweisen. § 44a Absatz 2 Satz 3 und 4 gilt entsprechend. Anstelle eines Nachtragsvermerks kann der Notar die andere Niederschrift zusammen mit der Niederschrift verwahren.
+
+(2) Nachtragsvermerke sowie die zusammen mit der Niederschrift verwahrten anderen Niederschriften nach Absatz 1 soll der Notar in Ausfertigungen und Abschriften der Urschrift übernehmen.
+
+# § 45 – Urschrift
 
 (1) Die Urschrift der notariellen Urkunde bleibt, wenn sie nicht auszuhändigen ist, in der Verwahrung des Notars.
 
-(2) Die Urschrift einer Niederschrift soll nur ausgehändigt werden, wenn dargelegt wird, daß sie im Ausland verwendet werden soll, und sämtliche Personen zustimmen, die eine Ausfertigung verlangen können. In diesem Fall soll die Urschrift mit dem Siegel versehen werden; ferner soll eine Ausfertigung zurückbehalten und auf ihr vermerkt werden, an wen und weshalb die Urschrift ausgehändigt worden ist. Die Ausfertigung tritt an die Stelle der Urschrift.
+(2) Wird die Urschrift der notariellen Urkunde nach § 56 in ein elektronisches Dokument übertragen und in der elektronischen Urkundensammlung verwahrt, steht die elektronische Fassung der Urschrift derjenigen in Papierform gleich.
 
-(3) Die Urschrift einer Urkunde, die in der Form eines Vermerks verfaßt ist, ist auszuhändigen, wenn nicht die Verwahrung verlangt wird.
+(3) (weggefallen)
+
+# § 45a – Aushändigung der Urschrift
+
+(1) Die Urschrift einer Niederschrift soll nur ausgehändigt werden, wenn dargelegt wird, dass sie im Ausland verwendet werden soll, und sämtliche Personen zustimmen, die eine Ausfertigung verlangen können. In diesem Fall soll die Urschrift mit dem Siegel versehen werden; ferner soll eine Ausfertigung zurückbehalten und auf ihr vermerkt werden, an wen und weshalb die Urschrift ausgehändigt worden ist. Die Ausfertigung tritt an die Stelle der Urschrift.
+
+(2) Die Urschrift einer Urkunde, die in der Form eines Vermerks verfasst ist, ist auszuhändigen, wenn nicht die Verwahrung verlangt wird.
 
 # § 46 – Ersetzung der Urschrift
 
-(1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so kann auf einer noch vorhandenen Ausfertigung oder beglaubigten Abschrift oder einer davon gefertigten beglaubigten Abschrift vermerkt werden, daß sie an die Stelle der Urschrift tritt. Der Vermerk kann mit dem Beglaubigungsvermerk verbunden werden. Er soll Ort und Tag der Ausstellung angeben und muß unterschrieben werden.
+(1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so kann auf einer Ausfertigung oder beglaubigten Abschrift oder einer davon gefertigten beglaubigten Abschrift vermerkt werden, daß sie an die Stelle der Urschrift tritt. Der Vermerk kann mit dem Beglaubigungsvermerk verbunden werden. Er soll Ort und Tag der Ausstellung angeben und muß unterschrieben werden.
 
-(2) Die Urschrift wird von der Stelle ersetzt, die für die Erteilung einer Ausfertigung zuständig ist.
+(2) Ist die elektronische Fassung der Urschrift ganz oder teilweise zerstört worden, soll die Urschrift erneut nach § 56 in die elektronische Form übertragen und in der elektronischen Urkundensammlung verwahrt werden. Ist die Urschrift nicht mehr vorhanden, gilt Absatz 1 entsprechend oder die Wiederherstellung erfolgt aus einer im Elektronischen Urkundenarchiv gespeicherten früheren elektronischen Fassung der Urschrift. Für die Wiederherstellung aus einer früheren elektronischen Fassung gilt § 56 Absatz 1 entsprechend; in dem Vermerk soll zusätzlich die Tatsache der sicheren Speicherung im Elektronischen Urkundenarchiv angegeben werden.
 
-(3) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden, wenn er sich in der Urkunde der sofortigen Zwangsvollstreckung unterworfen hat. Von der Ersetzung der Urschrift sollen die Personen, die eine Ausfertigung verlangen können, verständigt werden, soweit sie sich ohne erhebliche Schwierigkeiten ermitteln lassen.
+(3) Die Ersetzung erfolgt durch die Stelle, die für die Erteilung einer Ausfertigung zuständig ist.
+
+(4) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden, wenn er sich in der Urkunde der sofortigen Zwangsvollstreckung unterworfen hat. Von der Ersetzung der Urschrift sollen die Personen, die eine Ausfertigung verlangen können, verständigt werden, soweit sie sich ohne erhebliche Schwierigkeiten ermitteln lassen.
 
 # § 47 – Ausfertigung
 
@@ -397,13 +415,17 @@ Die Ausfertigung erteilt, soweit bundes- oder landesrechtlich nichts anderes bes
 
 # § 49 – Form der Ausfertigung
 
-(1) Die Ausfertigung besteht in einer Abschrift der Urschrift, die mit dem Ausfertigungsvermerk versehen ist. Sie soll in der Überschrift als Ausfertigung bezeichnet sein.
+(1) Die Ausfertigung besteht, jeweils mit einem Ausfertigungsvermerk versehen, in
 
-(2) Der Ausfertigungsvermerk soll den Tag und den Ort der Erteilung angeben, die Person bezeichnen, der die Ausfertigung erteilt wird, und die Übereinstimmung der Ausfertigung mit der Urschrift bestätigen. Er muß unterschrieben und mit dem Siegel der erteilenden Stelle versehen sein.
+1. einer Abschrift der Urschrift oder der elektronischen Fassung der Urschrift oder
+
+2. einem Ausdruck der elektronischen Fassung der Urschrift.
+
+(2) Der Ausfertigungsvermerk soll den Tag und den Ort der Erteilung angeben, die Person bezeichnen, der die Ausfertigung erteilt wird, und die Übereinstimmung der Ausfertigung mit der Urschrift oder der elektronischen Fassung der Urschrift bestätigen. Er muß unterschrieben und mit dem Siegel der erteilenden Stelle versehen sein. Besteht die Ausfertigung in einer Abschrift oder einem Ausdruck der elektronischen Fassung der Urschrift, soll das Ergebnis der Signaturprüfung dokumentiert werden.
 
 (3) Werden Abschriften von Urkunden mit der Ausfertigung durch Schnur und Prägesiegel verbunden oder befinden sie sich mit dieser auf demselben Blatt, so genügt für die Beglaubigung dieser Abschriften der Ausfertigungsvermerk; dabei soll entsprechend § 42 Abs. 3 und, wenn die Urkunden, von denen die Abschriften hergestellt sind, nicht zusammen mit der Urschrift der ausgefertigten Urkunde verwahrt werden, auch entsprechend § 42 Abs. 1, 2 verfahren werden.
 
-(4) Auf der Urschrift soll vermerkt werden, wem und an welchem Tage eine Ausfertigung erteilt worden ist.
+(4) Im Urkundenverzeichnis soll vermerkt werden, wem und an welchem Tage eine Ausfertigung erteilt worden ist.
 
 (5) Die Ausfertigung kann auf Antrag auch auszugsweise erteilt werden. § 42 Abs. 3 ist entsprechend anzuwenden.
 
@@ -441,11 +463,11 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 # § 54 – Rechtsmittel
 
-(1) Gegen die Ablehnung der Erteilung der Vollstreckungsklausel oder einer Amtshandlung nach den §§ 45, 46, 51 sowie gegen die Ersetzung einer Urschrift ist die Beschwerde gegeben.
+(1) Gegen die Ablehnung der Erteilung der Vollstreckungsklausel oder einer Amtshandlung nach den §§ 45a, 46 und 51 sowie gegen die Ersetzung einer Urschrift ist die Beschwerde gegeben.
 
 (2) Für das Beschwerdeverfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Über die Beschwerde entscheidet eine Zivilkammer des Landgerichts, in dessen Bezirk die Stelle, gegen die sich die Beschwerde richtet, ihren Sitz hat.
 
-# § 55 – (zukünftig in Kraft)
+# § 55 – Verzeichnis und Verwahrung der Urkunden
 
 (1) Der Notar führt ein elektronisches Verzeichnis über Beurkundungen und sonstige Amtshandlungen (Urkundenverzeichnis).
 
@@ -453,17 +475,13 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 
 (3) Die im Urkundenverzeichnis registrierten Urkunden verwahrt der Notar in einer Urkundensammlung, einer elektronischen Urkundensammlung und einer Erbvertragssammlung.
 
-§ 55 Kursivdruck: Tritt erst zukünftig (1.1.2022) in Kraft
+# § 56 – Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung
 
-# § 56 – (zukünftig in Kraft)
+(1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke in die elektronische Form soll durch geeignete Vorkehrungen nach dem Stand der Technik sichergestellt werden, dass die elektronischen Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in einem Vermerk unter Angabe des Ortes und des Tages seiner Ausstellung zu bestätigen. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk angegeben werden, soweit sie nicht aus dem elektronischen Dokument eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk müssen mit einer qualifizierten elektronischen Signatur versehen werden. § 39a Absatz 1 Satz 3 bis 5, Absatz 2 Satz 1 gilt entsprechend.
 
-(1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke in die elektronische Form soll durch geeignete Vorkehrungen nach dem Stand der Technik sichergestellt werden, dass die elektronischen Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in einem Vermerk unter Angabe des Ortes und der Zeit seiner Ausstellung zu bestätigen. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk angegeben werden, soweit sie nicht aus dem elektronischen Dokument eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk müssen mit einer qualifizierten elektronischen Signatur versehen werden. § 39a Absatz 1 Satz 3 und 4, Absatz 2 Satz 1 gilt entsprechend.
-
-(2) Werden nach der Einstellung der elektronischen Fassung einer in der Urkundensammlung zu verwahrenden Urschrift oder Abschrift in die elektronische Urkundensammlung Nachtragsvermerke, weitere Unterlagen oder andere Urschriften der Urschrift oder Abschrift beigefügt, sind die Nachtragsvermerke, die weiteren Unterlagen und die anderen Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und zusammen mit der elektronischen Fassung der Urschrift in der elektronischen Urkundensammlung zu verwahren.
+(2) Werden nach der Einstellung der elektronischen Fassung einer in der Urkundensammlung zu verwahrenden Urschrift oder Abschrift in die elektronische Urkundensammlung Nachtragsvermerke, weitere Unterlagen oder andere Urschriften der Urschrift oder Abschrift beigefügt, sind die Nachtragsvermerke, die weiteren Unterlagen und die anderen Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und zusammen mit der elektronischen Fassung der Urschrift oder Abschrift in der elektronischen Urkundensammlung zu verwahren.
 
 (3) Die von dem Notar in der elektronischen Urkundensammlung verwahrten elektronischen Dokumente stehen den Dokumenten gleich, aus denen sie nach den Absätzen 1 und 2 übertragen worden sind.
-
-§ 56 Kursivdruck: Tritt erst zukünftig (1.1.2022) in Kraft
 
 # § 57 – Antrag auf Verwahrung
 
@@ -500,6 +518,12 @@ Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder Registerg
 # § 59 – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über den Inhalt, den Aufbau und die Führung des Verwahrungsverzeichnisses einschließlich der Verweismöglichkeiten auf die im Urkundenverzeichnis zu der Urkunde gespeicherten Daten sowie über Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit. Die Verordnung kann auch Ausnahmen von der Eintragungspflicht anordnen. Die technischen und organisatorischen Maßnahmen zur Gewährleistung der Datensicherheit müssen denen zur Gewährleistung der Datensicherheit des Elektronischen Urkundenarchivs entsprechen.
+
+# § 59a – Verwahrungsverzeichnis
+
+(1) Der Notar führt ein elektronisches Verzeichnis über Verwahrungsmassen, die er nach § 23 der Bundesnotarordnung und nach den §§ 57 und 62 entgegennimmt (Verwahrungsverzeichnis).
+
+(2) Das Verwahrungsverzeichnis ist im Elektronischen Urkundenarchiv (§ 78h der Bundesnotarordnung) zu führen. Erfolgt die Verwahrung in Vollzug eines vom Notar in das Urkundenverzeichnis einzutragenden Amtsgeschäfts, soll der Notar im Verwahrungsverzeichnis auf die im Urkundenverzeichnis zu der Urkunde gespeicherten Daten verweisen, soweit diese auch in das Verwahrungsverzeichnis einzutragen wären.
 
 # § 60 – Widerruf
 
@@ -599,7 +623,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben bundesrechtliche Vo
 
 3. Verpflichtungen zur Erfüllung von Unterhaltsansprüchen nach § 1615l des Bürgerlichen Gesetzbuchs.
 
-(2) Die Zustellung von Urkunden, die eine Verpflichtung nach Absatz 1 Nr. 2 oder 3 zum Gegenstand haben, kann auch dadurch vollzogen werden, daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt erhält; § 173 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
+(2) Die Zustellung von Urkunden, die eine Verpflichtung nach Absatz 1 Nr. 2 oder 3 zum Gegenstand haben, kann auch dadurch vollzogen werden, daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt erhält; § 174 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 
 # § 68
 
@@ -633,9 +657,17 @@ Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz aufgehobenen od
 
 # § 75 – (weggefallen)
 
-# § 76
+# § 76 – Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
 
-Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
+(1) Für Beurkundungen und sonstige Amtshandlungen, die vor dem 1. Januar 2022 vorgenommen worden sind, sind die §§ 55 und 56 nicht anzuwenden. Abweichend von § 49 Absatz 4 ist auf der Urschrift zu vermerken, wem und an welchem Tag eine Ausfertigung erteilt worden ist. Zusätze und Änderungen sind nach den vor dem 1. Januar 2022 geltenden Bestimmungen vorzunehmen.
+
+(2) Die Urkundensammlung und die Erbvertragssammlung für Urkunden, die vor dem 1. Januar 2022 errichtet wurden, werden von dem Notar nach Maßgabe der vor dem 1. Januar 2022 geltenden Vorschriften geführt und verwahrt. Zusätze und Änderungen sind nach den vor dem 1. Januar 2022 geltenden Bestimmungen vorzunehmen.
+
+(3) Für Verwahrungsmassen, die der Notar vor dem 1. Januar 2022 entgegengenommen hat, ist § 59a vorbehaltlich der Sätze 3 bis 5 nicht anzuwenden. Für diese Verwahrungsmassen werden die Verwahrungsbücher, die Massenbücher, die Namensverzeichnisse zum Massenbuch und die Anderkontenlisten nach den vor dem 1. Januar 2022 geltenden Bestimmungen geführt und verwahrt. Der Notar kann jedoch zum Schluss eines Kalenderjahres alle Verwahrungsmassen im Sinne des Satzes 1 in das Verwahrungsverzeichnis übernehmen und insoweit die Verzeichnisführung nach den vor dem 1. Januar 2022 geltenden Bestimmungen abschließen. Dazu sind für die zu übernehmenden Verwahrungsmassen die nach den Vorschriften des Abschnitts 3 der Verordnung über die Führung notarieller Akten und Verzeichnisse erforderlichen Angaben in das Verwahrungsverzeichnis einzutragen. Dabei sind sämtliche in den Massenbüchern und Verwahrungsbüchern verzeichneten Eintragungen zu übernehmen.
+
+(4) Die Urkundenrollen, die Erbvertragsverzeichnisse und die Namensverzeichnisse zur Urkundenrolle für Urkunden, die vor dem 1. Januar 2022 errichtet wurden, werden von dem Notar nach Maßgabe der vor dem 1. Januar 2022 geltenden Vorschriften geführt und verwahrt.
+
+(5) Für Beurkundungen und sonstige Amtshandlungen, die vom 1. Januar bis zum 30. Juni 2022 vorgenommen werden, gilt § 55 Absatz 2 nur im Hinblick auf das Urkundenverzeichnis und sind § 55 Absatz 3 sowie § 56 nicht anzuwenden. Im Übrigen gelten für die vom 1. Januar bis zum 30. Juni 2022 vorgenommenen Beurkundungen und sonstigen Amtshandlungen Absatz 1 Satz 3 und Absatz 2 entsprechend.
 
 # Schlußformel
 
