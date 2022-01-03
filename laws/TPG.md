@@ -388,6 +388,94 @@ Die Aufklärung hat die gesamte Tragweite der Entscheidung zu umfassen und muss 
 
 (5) Die Bundesregierung kann durch allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates ein Muster für den Organ- und Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
 
+# § 2 – Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise
+
+(1) Die nach Landesrecht zuständigen Stellen, die Bundesbehörden im Rahmen ihrer Zuständigkeit, insbesondere die Bundeszentrale für gesundheitliche Aufklärung, sowie die Krankenkassen sollen auf der Grundlage dieses Gesetzes die Bevölkerung aufklären über
+
+1. die Möglichkeiten der Organ- und Gewebespende,
+
+2. die Voraussetzungen der Organ- und Gewebeentnahme bei toten Spendern einschließlich der Bedeutung einer zu Lebzeiten abgegebenen Erklärung zur Organ- und Gewebespende, auch im Verhältnis zu einer Patientenverfügung, und der Rechtsfolge einer unterlassenen Erklärung im Hinblick auf das Entscheidungsrecht der nächsten Angehörigen nach § 4 sowie
+
+3. die Bedeutung der Organ- und Gewebeübertragung im Hinblick auf den für kranke Menschen möglichen Nutzen einer medizinischen Anwendung von Organen und Geweben einschließlich von aus Geweben hergestellten Arzneimitteln und die Bedeutung der Erhebung transplantationsmedizinischer Daten im Transplantationsregister nach Abschnitt 5a.
+
+Die Aufklärung hat die gesamte Tragweite der Entscheidung zu umfassen und muss ergebnisoffen sein. Die Aufklärung hat die Möglichkeiten zu umfassen, eine Erklärung zur Organ- und Gewebespende zu dokumentieren und insbesondere im Register nach § 2a abzugeben, zu ändern und zu widerrufen einschließlich der damit verbundenen Rechtsfolgen. Sie hat auch die bestehenden Beratungsmöglichkeiten zur Organ- und Gewebespende durch Hausärzte sowie sonstige Beratungsmöglichkeiten zu umfassen. Die in Satz 1 benannten Stellen sollen auch Ausweise für die Erklärung zur Organ- und Gewebespende (Organspendeausweis) zusammen mit geeigneten Aufklärungsunterlagen bereithalten und der Bevölkerung zur Verfügung stellen. Bund und Länder stellen sicher, dass den für die Ausstellung und die Ausgabe von Personalausweisen, Pässen oder Passersatzpapieren sowie von eID-Karten zuständigen Stellen des Bundes und der Länder Organspendeausweise und den in den Sätzen 1 bis 4 genannten Anforderungen entsprechende Aufklärungsunterlagen der Bundeszentrale für gesundheitliche Aufklärung zur Verfügung stehen. Bei der Beantragung, Verlängerung oder persönlichen Abholung von Personalausweisen, Pässen oder Passersatzpapieren sowie von eID-Karten händigen die in Satz 6 genannten Stellen dem Antragsteller die in Satz 6 genannten Unterlagen aus und weisen auf weitere Informations- und Beratungsmöglichkeiten sowie die Möglichkeit, eine Erklärung zur Organ- und Gewebespende im Register abzugeben, hin. Ist eine elektronische Antragstellung der in Satz 6 genannten Dokumente nach anderen Rechtsvorschriften zugelassen und werden sie elektronisch beantragt, sind die Unterlagen dem Antragstellenden zu übermitteln. Die für die Ausstellung und die Ausgabe von Personalausweisen, Pässen oder Passersatzpapieren sowie von eID-Karten zuständigen Stellen des Bundes und der Länder stellen sicher, dass die Abgabe einer Erklärung zur Organ- und Gewebespende vor Ort erfolgen kann. Satz 9 gilt nicht für die Passstellen der deutschen Auslandsvertretungen. Bund und Länder stellen sicher, dass den Ausländerbehörden mehrsprachige Organspendeausweise und den in den Sätzen 1 bis 4 genannten Anforderungen entsprechende mehrsprachige Aufklärungsunterlagen von der Bundeszentrale für gesundheitliche Aufklärung zur Verfügung stehen.
+
+(1a) Hausärzte sollen ihre Patienten regelmäßig darauf hinweisen, dass sie mit Vollendung des 16. Lebensjahres eine Erklärung zur Organ- und Gewebeentnahme abgeben, ändern und widerrufen und mit Vollendung des 14. Lebensjahres einer Organ- und Gewebespende widersprechen können. Bei Bedarf sollen sie diese Patienten über die Organ- und Gewebespende beraten. Die Beratung umfasst insbesondere
+
+1. die Möglichkeiten der Organ- und Gewebespende,
+
+2. die Voraussetzungen für eine Organ- und Gewebeentnahme bei toten Spendern, einschließlich der Bedeutung einer abgegebenen Erklärung zur Organ- und Gewebespende und des Entscheidungsrechts der nächsten Angehörigen nach § 4,
+
+3. die Bedeutung der Organ- und Gewebeübertragung im Hinblick auf den für kranke Menschen möglichen Nutzen einer medizinischen Anwendung von Organen und Geweben einschließlich von aus Geweben hergestellten Arzneimitteln und
+
+4. die Möglichkeit eine Erklärung zur Organ- und Gewebespende im Register abzugeben.
+
+Dabei sollen die Hausärzte ausdrücklich darauf hinweisen, dass keine Verpflichtung zur Abgabe einer Erklärung zur Organ- und Gewebespende besteht. Die Beratung muss ergebnisoffen sein. Für die Beratung hat die Bundeszentrale für gesundheitliche Aufklärung den Arztpraxen geeignete Aufklärungsunterlagen auf der Grundlage des Absatzes 1 sowie Organspendeausweise zur Verfügung zu stellen.
+
+(1b) Im Rahmen einer ambulanten privatärztlichen Behandlung richtet sich der Vergütungsanspruch des Arztes für die Beratung über die Organ- und Gewebespende nach der Gebührenordnung für Ärzte. Der Vergütungsanspruch besteht je Patient alle zwei Jahre. Solange in der Anlage der Gebührenordnung für Ärzte (Gebührenverzeichnis für ärztliche Leistungen) keine eigenständige Leistung für die Beratung über die Organ- und Gewebespende enthalten ist, kann diese Beratung entsprechend einer nach Art, Kosten- und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses für ärztliche Leistungen mit der Maßgabe berechnet werden, dass mögliche Abrechnungsausschlüsse dieser gleichwertigen Leistungen gegenüber anderen Leistungen des Gebührenverzeichnisses für ärztliche Leistungen nicht gelten.
+
+(1c) Die Krankenkassen haben, unbeschadet ihrer Pflichten nach Absatz 1, die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben, zur Verfügung zu stellen, wenn ihnen die elektronische Gesundheitskarte nach § 291 Absatz 1 des Fünften Buches Sozialgesetzbuch ausgestellt wird. Die privaten Krankenversicherungsunternehmen haben die in Absatz 1 Satz 3 genannten Unterlagen ihren Versicherten, die das 16. Lebensjahr vollendet haben, alle fünf Jahre zusammen mit der Beitragsmitteilung nach § 10 Absatz 2a Satz 9 des Einkommensteuergesetzes zur Verfügung zu stellen. Ist den Krankenkassen und den privaten Krankenversicherungsunternehmen ein erstmaliges Erfüllen der Verpflichtungen nach den Sätzen 1 und 2 innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes nicht möglich, haben sie die Unterlagen nach Absatz 1 Satz 3 ihren Versicherten innerhalb des vorgenannten Zeitraums in anderer geeigneter Weise zur Verfügung zu stellen. Mit der Zurverfügungstellung der Unterlagen fordern die Krankenkassen und die privaten Krankenversicherungsunternehmen die Versicherten auf, eine Erklärung zur Organ- und Gewebespende zu dokumentieren und benennen ihnen gegenüber fachlich qualifizierte Ansprechpartner für Fragen zur Organ- und Gewebespende sowie zur Bedeutung einer zu Lebzeiten abgegebenen Erklärung zur Organ- und Gewebespende, auch im Verhältnis zu einer Patientenverfügung.
+
+(1d) Die Aufklärungsunterlagen der Bundeszentrale für gesundheitliche Aufklärung sowie ihre sonstigen Informationsangebote zur Organ- und Gewebespende werden alle vier Jahre wissenschaftlich evaluiert. Der Bericht ist unter Einbeziehung eines wissenschaftlichen Sachverständigen oder mehrerer wissenschaftlicher Sachverständiger, die im Einvernehmen mit dem Bundestag bestellt werden, zu erstellen. Über die Ergebnisse der wissenschaftlichen Evaluation berichtet die Bundesregierung jeweils dem Deutschen Bundestag, erstmals im Jahr 2024.
+
+(2) Wer eine Erklärung zur Organ- und Gewebespende abgibt, kann in eine Organ- und Gewebeentnahme nach § 3 einwilligen, ihr widersprechen oder die Entscheidung einer namentlich benannten Person seines Vertrauens übertragen (Erklärung zur Organ- und Gewebespende). Die Erklärung kann auf bestimmte Organe oder Gewebe beschränkt werden. Die Einwilligung und die Übertragung der Entscheidung können vom vollendeten sechzehnten, der Widerspruch kann vom vollendeten vierzehnten Lebensjahr an erklärt werden. Sind mehrere sich widersprechende Erklärungen abgegeben worden, gilt die zuletzt abgegebene Erklärung. Ist nicht festzustellen, welche Erklärung zuletzt abgegeben worden ist, ist der nächste Angehörige zu befragen, ob ihm bekannt ist, welche Erklärung zuletzt abgegeben worden ist. Ist dies dem nächsten Angehörigen nicht bekannt oder ist kein entscheidungsbefugter Angehöriger im Sinne des § 4 Absatz 2 vorhanden, gilt diejenige Erklärung mit der geringsten Eingriffstiefe.
+
+(2a) Niemand kann verpflichtet werden, eine Erklärung zur Organ- und Gewebespende abzugeben.
+
+(3) Die Bundesregierung kann durch allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates ein Muster für den Organ- und Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
+
+(4) (weggefallen)
+
+(4a) (weggefallen)
+
+# § 2a – Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung
+
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte richtet ein Register für Erklärungen zur Organ- und Gewebespende ein und führt dieses Register. Personen, die das 16. Lebensjahr vollendet haben, können zu jeder Zeit in dem Register eine Erklärung zur Organ- und Gewebespende abgeben, ändern oder widerrufen. Ein Widerspruch gegen die Organ- und Gewebeentnahme kann im Register erst mit Vollendung des 14. Lebensjahres selbst erklärt werden. Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt den berechtigten Personen nach Absatz 4 auf Anfrage Auskunft über die im Register gespeicherten Erklärungen zur Organ- und Gewebespende. Die im Register gespeicherten personenbezogenen Daten dürfen nur zum Zweck der Feststellung verwendet werden, ob bei derjenigen Person, die die Erklärung abgegeben hat, eine Organ- oder Gewebeentnahme nach § 3 oder § 4 zulässig ist und nur zu diesem Zweck nach Absatz 3 oder Absatz 4 übermittelt werden. Das Bundesinstitut für Arzneimittel und Medizinprodukte darf die im Register gespeicherten personenbezogenen Daten zudem zum Zweck der Erstellung eines Jahresberichts verwenden. In dem Jahresbericht sind die im Register dokumentierten Erklärungen zur Organ- und Gewebespende, ihre Änderungen und Widerrufe in anonymisierter Form nach Anzahl, Geschlecht, Geburtsjahr und Bundesland, in dem die erklärende Person ihren Wohnsitz hat, auszuwerten. Der Jahresbericht ist jährlich bis zum 30. Juni zu veröffentlichen.
+
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik sichere Authentifizierungsverfahren für die Abgabe, Änderung und den Widerruf von Erklärungen zur Organ- und Gewebespende und für den Abruf von Erklärungen zur Organ- und Gewebespende nach Absatz 5 festzulegen. Dabei ist sicherzustellen, dass sowohl die Erklärung zur Organ- und Gewebespende, deren Änderung und Widerruf als auch deren Abruf jederzeit online durch die Person, die die Erklärung zur Organ- und Gewebespende abgegeben hat, und durch den Arzt oder Transplantationsbeauftragten, der von einem Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt wurde, erfolgen kann. Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die erforderlichen räumlichen, technischen und organisatorischen Maßnahmen zu treffen, damit die im Register gespeicherten Daten gegen unbefugtes Hinzufügen, Löschen oder Verändern geschützt sind und keine unbefugte Kenntnisnahme oder Weitergabe erfolgen kann.
+
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte darf folgende personenbezogene Daten erheben und speichern
+
+1. im Hinblick auf die Person, die eine Erklärung zur Organ- und Gewebespende abgibt, neben der Erklärung selbst
+
+a) ihre Vornamen, Familiennamen, Doktortitel, Geburtsname, Geburtsdatum und Geburtsort, Anschrit, die zu pseudonymisierende Krankenversichertennummer und E‑Mail-Adresse,
+
+b) die für den Zugriff auf das Register erforderlichen Kennungen und
+
+c) im Fall der Übertragung der Entscheidung über die Organ- und Gewebespende auf eine namentlich benannte Person mit deren Einwilligung deren Vornamen, Familiennamen, Geburtsdatum, Geburtsort, Anschrift, E-Mail-Adresse und Telefonnummer,
+
+2. im Hinblick auf den Arzt oder Transplantationsbeauftragten, der von einem Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt wurde
+
+a) mit seiner Einwilligung seine Vornamen, Familiennamen, Namenszusätze, Geburtsdatum, E-Mail-Adresse und Kennnummer,
+
+b) Institutskennzeichen, E-Mail-Adresse und Kennnummer des Krankenhauses und
+
+c) Kennnummer des Eintrags.
+
+Das Bundesinstitut für Arzneimittel und Medizinprodukte darf das Pseudonym der Krankenversichertennummer ausschließlich zum Zweck der Vermeidung möglicher Fehlzuordnungen bei Doppelungen persönlicher Daten bei unterschiedlichen Personen im Abfragefall verarbeiten. Das Verfahren zur Pseudonymisierung legt das Bundesinstitut für Arzneimittel und Medizinprodukte im Benehmen mit dem Bundesamt für die Sicherheit in der Informationstechnik und dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit fest.
+
+(4) Eine Auskunft aus dem Register darf ausschließlich an die Person, die die Erklärung zur Organ- und Gewebespende abgegeben hat, sowie an einen Arzt oder Transplantationsbeauftragten erteilt werden, der von einem Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt wurde und der weder an der Entnahme noch an der Übertragung der Organe oder der Gewebe des möglichen Organ- oder Gewebespenders beteiligt ist und auch nicht Weisungen eines Arztes untersteht, der an diesen Maßnahmen beteiligt ist. Ein als auskunftsberechtigt benannter Arzt oder Transplantationsbeauftragter darf eine Auskunft zu einem möglichen Organ- oder Gewebespender erfragen,
+
+1. wenn der Tod des möglichen Organ- oder Gewebespenders gemäß § 3 Absatz 1 Satz 1 Nummer 2 festgestellt worden ist oder
+
+2. in Behandlungssituationen, in denen der nicht behebbare Ausfall der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms des möglichen Organ- oder Gewebespenders unmittelbar bevorsteht oder als bereits eingetreten vermutet wird.
+
+Zur Prüfung der Zulässigkeit der Anfragen an das Register und der Auskünfte aus dem Register hat das Bundesinstitut für Arzneimittel und Medizinprodukte die Auskünfte sowie deren Anlass und Zweck aufzuzeichnen. Die Auskunft aus dem Register darf von dem als auskunftsberechtigt benannten Arzt oder Transplantationsbeauftragten nur an die folgenden Personen übermittelt werden:
+
+1. in den Fällen des Satzes 2 Nummer 1 den Arzt, der die Organ- oder Gewebeentnahme vornehmen oder unter dessen Verantwortung die Gewebeentnahme nach § 3 Absatz 1 Satz 2 vorgenommen werden soll, und
+
+2. in den Fällen des Satzes 2 Nummer 2 an den Arzt, der den möglichen Organ- oder Gewebespender behandelt, und
+
+3. an die Person, die
+
+a) nach § 3 Absatz 3 Satz 1 über die beabsichtigte Organ- oder Gewebeentnahme zu unterrichten ist oder
+
+b) nach § 4 über eine in Frage kommende Organ- oder Gewebeentnahme zu unterrichten ist.
+
+(5) Die Auskunft nach Absatz 4 Satz 1 kann in einem automatisierten Abrufverfahren übermittelt werden. Das automatisierte Abrufverfahren darf nur eingerichtet werden, sofern die beteiligten Stellen die technischen und organisatorischen Maßnahmen getroffen haben, die nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung erforderlich sind. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Person, die die Erklärung zur Organ- und Gewebespende im Register abgegeben hat, oder der Arzt oder Transplantationsbeauftragte, der von einem Krankenhaus dem Bundesinstitut für Arzneimittel und Medizinprodukte als auskunftsberechtigt benannt wurde. Das Bundesinstitut für Arzneimittel und Medizinprodukte überprüft die Zulässigkeit der Abrufe durch geeignete Stichprobenverfahren und im Übrigen nur, wenn dazu Anlass besteht.
+
+(6) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere insbesondere zu den Authentifizierungsverfahren sowie den Datensätzen nach Absatz 3 festlegen.
+
 # § 3 – Entnahme mit Einwilligung des Spenders
 
 (1) Die Entnahme von Organen oder Geweben ist, soweit in § 4 oder § 4a nichts Abweichendes bestimmt ist, nur zulässig, wenn
