@@ -41,9 +41,11 @@ nicht gewerbsmäßig, für Sport- oder Erholungszwecke verwendete Fahrzeuge, ein
 
 4. Befähigungszeugnisse der Gruppen A oder B der Schiffsbesetzungs- und Ausbildungsordnung vom 19. August 1970 (BGBl. I S. 1253), die vor dem 1. April 1978 erteilt worden sind,
 
-5. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 4 der Verordnung vom 16. Dezember 2016 (BGBl. I S. 2948) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen,
+5. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch Artikel 2 § 1 der Verordnung vom 21. September 2018 (BGBl. I S. 1398) geändert worden ist, zum Führen von Fahrzeugen berechtigen,
 
-6. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Schiffspersonalverordnung-Rhein (Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband)), die zuletzt durch Beschluss vom 3. Dezember 2015 (Anlage 4 zu Artikel 1 Nummer 1 der Verordnung vom 17. Juni 2016 (BGBl. 2016 II S. 698) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen.
+6. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Schiffspersonalverordnung-Rhein (Anlage 1 zu Artikel 1 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300, Anlageband)), die zuletzt durch Beschluss vom 29. Mai 2019 (Anlage 3 zu Artikel 1 Nummer 2 Satz 1 der Verordnung vom 8. November 2019 (BGBl. 2019 II S. 907) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen,
+
+7. Fahrerlaubnisse oder Befähigungszeugnisse, die nach den Bestimmungen der Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung zum Führen von Fahrzeugen berechtigen.
 
 (3) Der Befähigungsnachweis, der für die Fahrerlaubnis auf den Binnenschifffahrtsstraßen für ein Sportboot erforderlich ist, gilt für die jeweilige Antriebsart als erbracht für die Inhaber
 

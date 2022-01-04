@@ -413,7 +413,7 @@ wenn durch die beabsichtigte Maßnahme eine Beeinträchtigung des für die Schif
 
 (1a) (weggefallen)
 
-(2) Wer eine Bundeswasserstraße benutzen oder Anlagen in, über oder unter einer solchen Wasserstraße oder an ihrem Ufer errichten, verändern oder betreiben will, hat dies dem Wasserstraßen- und Schifffahrtsamt anzuzeigen. Die Maßnahme bedarf keiner strom- und schifffahrtspolizeilichen Genehmigung, wenn das Wasserstraßen- und Schifffahrtsamt binnen eines Monats nach Eingang der Anzeige nichts anderes mitteilt. Telekommunikationslinien im Sinne des § 3 Nummer 64 des Telekommunikationsgesetzes sind anzeigepflichtig, aber genehmigungsfrei. Ist eine strom- und schifffahrtspolizeiliche Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung dieser Genehmigung.
+(2) Wer eine Bundeswasserstraße benutzen oder Anlagen in, über oder unter einer solchen Wasserstraße oder an ihrem Ufer errichten, verändern oder betreiben will, hat dies dem Wasserstraßen- und Schifffahrtsamt anzuzeigen. Die Maßnahme bedarf keiner strom- und schifffahrtspolizeilichen Genehmigung, wenn das Wasserstraßen- und Schifffahrtsamt binnen eines Monats nach Eingang der Anzeige nichts anderes mitteilt. Telekommunikationslinien im Sinne des § 3 Nummer 64 des Telekommunikationsgesetzes sind anzeigepflichtig, aber genehmigungsfrei. Ist eine strom- und schifffahrtspolizeiliche Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung dieser Genehmigung. Für die Erteilung der Genehmigung gelten § 11a Absatz 4 und 5 Satz 1 bis 6 sowie § 108 des Wasserhaushaltsgesetzes entsprechend, wenn es sich um eine Anlage zur Erzeugung von Energie aus erneuerbaren Quellen handelt.
 
 (3) Eine Anzeige oder eine strom- und schifffahrtspolizeiliche Genehmigung ist nicht erforderlich
 
