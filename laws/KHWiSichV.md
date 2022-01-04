@@ -64,9 +64,17 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 (1) Die Frist nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
+(1a) Der Zeitraum nach § 21 Absatz 1b Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022 verlängert.
+
 (2) Die Frist nach § 21 Absatz 2a Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021 verlängert.
 
-(3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 15. Juli 2021 übermittelt werden.
+(2a) Die Frist nach § 21 Absatz 2b Satz 4 des Krankenhausfinanzierungsgesetzes wird bis zum 19. März 2022 verlängert.
+
+(3) Abweichend von § 21 Absatz 9a Satz 3 des Krankenhausfinanzierungsgesetzes kann die krankenhausbezogene Aufstellung der für das Jahr 2021 nach § 21 Absatz 4a Satz 3 des Krankenhausfinanzierungsgesetzes ausgezahlten Finanzmittel bis zum 15. Juli 2021 übermittelt werden. Abweichend von § 21 Absatz 9b Satz 1 des Krankenhausfinanzierungsgesetzes übermitteln die Länder dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen
+
+1. bis zum 31. Januar 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4a Satz 3 und Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2021 ausgezahlten Finanzmittel und
+
+2. bis zum 19. April 2022 eine krankenhausbezogene nach Monaten differenzierte Aufstellung der nach § 21 Absatz 4b Satz 2 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 ausgezahlten Finanzmittel.
 
 (4) Als Zeitraum nach § 22 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes wird der Zeitraum vom 18. November 2021 bis zum 19. März 2022 festgelegt.
 
@@ -151,6 +159,80 @@ Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes si
 (13) Die Genehmigung der Vereinbarung nach Absatz 8 Satz 1 oder der Festlegung nach Absatz 12 ist von einer der Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes bei der für die Krankenhausplanung zuständigen Landesbehörde zu beantragen. Die für die Krankenhausplanung zuständige Landesbehörde erteilt die Genehmigung innerhalb von vier Wochen nach Eingang des Antrags, wenn die Vereinbarung oder die Festlegung den Regelungen in den Absätzen 1 bis 12 sowie dem sonstigem Recht entspricht. § 14 Absatz 2 Satz 1 und 3 und Absatz 3 des Krankenhausentgeltgesetzes gilt entsprechend.
 
 (14) Erlösausgleiche nach § 4 Absatz 3 des Krankenhausentgeltgesetzes oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr 2021 ausgeschlossen.
+
+# § 5a – Erlösausgleiche für das Jahr 2022
+
+(1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Oktober 2022 das Nähere über den Ausgleich
+
+1. eines im Jahr 2022 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandenen Erlösrückgangs und
+
+2. eines im Jahr 2022 gegenüber dem Jahr 2019 entstandenen Erlösanstiegs, der auf Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes für das Jahr 2022 oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 zurückzuführen ist.
+
+(2) Die Vereinbarung muss insbesondere umfassen:
+
+1. die Einzelheiten für die Ermittlung der Erlöse für allgemeine stationäre und teilstationäre Krankenhausleistungen für die Jahre 2019 und 2022,
+
+2. die Kriterien, anhand derer festgestellt wird,
+
+a) ob ein im Jahr 2022 gegenüber dem Jahr 2019 aufgrund des Coronavirus-SARS-CoV-2 entstandener Erlösrückgang vorliegt oder
+
+b) ob ein im Jahr 2022 gegenüber dem Jahr 2019 entstandener Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes für das Jahr 2022 oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 zurückzuführen ist, vorliegt,
+
+3. die Einzelheiten zum Nachweis der Erfüllung der nach Nummer 2 vereinbarten Kriterien,
+
+4. die Einzelheiten zur Abrechnung des nach Absatz 8 Satz 1 Nummer 4 vereinbarten Ausgleichsbetrags.
+
+(3) Die Erlöse für das Jahr 2019 sind auf das Preisniveau für das Jahr 2022 anzuheben.
+
+(4) Bei der Ermittlung der Erlöse für das Jahr 2022 sind die für das Jahr 2022 gezahlten Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes in Höhe von 85 Prozent und die für das Jahr 2022 gezahlten Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes in Höhe von 50 Prozent zu berücksichtigen. Bei der Ermittlung der Erlöse für das Jahr 2022 sind nicht zu berücksichtigen:
+
+1. die Zusatzentgelte nach § 26 Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes,
+
+2. die tagesbezogenen Pflegeentgelte nach § 7 Absatz 1 Satz 1 Nummer 6a des Krankenhausentgeltgesetzes und
+
+3. die Zu- oder Abschläge nach
+
+a) § 21 Absatz 11 Satz 4 des Krankenhausfinanzierungsgesetzes und nach § 5 Absatz 11 Satz 2,
+
+b) § 5 Absatz 3g Satz 1 und 2 des Krankenhausentgeltgesetzes und
+
+c) § 5 Absatz 6 der Bundespflegesatzverordnung.
+
+(5) Bei der Ermittlung der Erlöse für die Jahre 2019 und 2022 sind variable Sachkosten mindernd zu berücksichtigen.
+
+(6) Kommt eine Vereinbarung nach Absatz 1 nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung auch ohne Antrag einer Vertragspartei bis zum Ablauf des 30. November 2022 fest.
+
+(7) Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht für die Vereinbarung der Erlöse nach Absatz 8 Satz 1 Nummer 1 und 2 um die variablen Sachkosten bereinigte Entgeltkataloge für die pauschalierenden Entgeltsysteme nach den §§ 17b und 17d des Krankenhausfinanzierungsgesetzes für die Jahre 2019 und 2022 barrierefrei auf seiner Internetseite.
+
+(8) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes sind auf Verlangen einer Vertragspartei verpflichtet, aufgrund der Vereinbarung nach Absatz 1 oder der Festlegung nach Absatz 6 Folgendes zu vereinbaren:
+
+1. die Erlöse für das Jahr 2019,
+
+2. die Erlöse für das Jahr 2022,
+
+3. den für das Jahr 2022 gegenüber dem Jahr 2019 aufgrund des Coronavirus SARS-CoV-2 entstandenen
+
+a) Erlösrückgang oder
+
+b) Erlösanstieg, der auf Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes für das Jahr 2022 oder auf Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 zurückzuführen ist,
+
+4. den Ausgleichsbetrag für den Erlösrückgang oder den Erlösanstieg,
+
+5. die Höhe des Zu- oder Abschlags nach Absatz 11.
+
+Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes sind verpflichtet, eine Vereinbarung nach Satz 1 zu treffen, sofern der Krankenhausträger einen Versorgungsaufschlag nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes für das Jahr 2022 erhalten hat. Die Vereinbarung nach Satz 1 oder Satz 2 kann unabhängig von den Vereinbarungen nach § 11 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes und § 11 Absatz 1 Satz 1 der Bundespflegesatzverordnung getroffen werden.
+
+(9) Bei der Vereinbarung eines Erlösrückgangs sind 98 Prozent der nach Absatz 8 Satz 1 Nummer 1 für das Jahr 2019 vereinbarten Erlöse zugrunde zu legen. Der Ausgleichsbetrag entspricht 85 Prozent des nach Absatz 8 Satz 1 Nummer 3 Buchstabe a vereinbarten Erlösrückgangs.
+
+(10) Die Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich des nach Absatz 8 Satz 1 Nummer 3 Buchstabe b vereinbarten Erlösanstiegs, sofern der vereinbarte Erlösanstieg unterhalb der Summe der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes und der nach Absatz 4 Satz 1 zu berücksichtigenden Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes liegt. Sie vereinbaren als Ausgleichsbetrag für den Erlösanstieg einen vollständigen Ausgleich der Summe der nach Absatz 4 Satz 1 zu berücksichtigenden Ausgleichszahlungen nach § 21 Absatz 1b des Krankenhausfinanzierungsgesetzes und der nach Absatz 4 Satz 1 zu berücksichtigenden Versorgungsaufschläge nach § 21a Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes, sofern der vereinbarte Erlösanstieg mindestens der Summe dieser Ausgleichszahlungen und Versorgungsaufschläge entspricht.
+
+(11) Der nach Absatz 8 Satz 1 Nummer 4 vereinbarte Ausgleichsbetrag wird durch Zu- oder Abschläge auf die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen.
+
+(12) Kommt eine Vereinbarung nach Absatz 8 Satz 1 nicht oder nicht vollständig zustande, legt die Schiedsstelle nach § 18a Absatz 1 des Krankenhausfinanzierungsgesetzes den Inhalt der Vereinbarung auf Antrag einer der Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes innerhalb von sechs Wochen fest.
+
+(13) Die Genehmigung der Vereinbarung nach Absatz 8 Satz 1 oder der Festlegung nach Absatz 12 ist von einer der Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes bei der für die Krankenhausplanung zuständigen Landesbehörde zu beantragen. Die für die Krankenhausplanung zuständige Landesbehörde erteilt die Genehmigung innerhalb von vier Wochen nach Eingang des Antrags, wenn die Vereinbarung oder die Festlegung den Regelungen in den Absätzen 1 bis 12 sowie dem sonstigen Recht entspricht. § 14 Absatz 2 Satz 1 und 3 und Absatz 3 des Krankenhausentgeltgesetzes gilt entsprechend.
+
+(14) Erlösausgleiche nach § 4 Absatz 3 des Krankenhausentgeltgesetzes oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr 2022 ausgeschlossen.
 
 # § 6 – Abschlagszahlungen
 
