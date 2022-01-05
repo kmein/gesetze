@@ -35,35 +35,23 @@ die Beförderung von Personen gegen Entgelt (Fahrgäste) unter Gestellung eines 
 
 (2) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist, bedeuten
 
-1. Binnenschifferpatentverordnung:
-
-Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S. 3066), die zuletzt durch § 38 Absatz 4 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
-
-2. Binnenschiffsuntersuchungsordnung:
+1. Binnenschiffsuntersuchungsordnung:
 
 Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung,
 
-3. Binnenschifffahrt-Kennzeichnungsverordnung:
+2. Binnenschifffahrt-Kennzeichnungsverordnung:
 
 Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 30 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden Fassung,
 
-4. See-Sportbootverordnung:
+3. See-Sportbootverordnung:
 
 See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457), die zuletzt durch Artikel 34 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden Fassung,
 
-5. Schiffspersonalverordnung-Rhein:
-
-die Anlage 1 zu der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300), in der jeweils geltenden und anzuwendenden Fassung,
-
-6. ES-TRIN:
+4. ES-TRIN:
 
 Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4)),
 
-7. Sportbootführerscheinverordnung:
-
-Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016) in der jeweils geltenden Fassung,
-
-8. Binnenschifffahrtsstraßen-Ordnung:
+5. Binnenschifffahrtsstraßen-Ordnung:
 
 Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) in der jeweils geltenden und anzuwendenden Fassung.
 

@@ -85,7 +85,7 @@ In diesem Anhang gelten als:
 
 3. „Frei fahrende Fähren“ Kahnfähren, Personenmotorfähren, Wagenmotorfähren;
 
-4. „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; zusätzlich kann – zur Beherrschung besonderer Betriebslagen – ein Hilfsantrieb installiert sein;
+4. „Kahnfähre“ eine zur Beförderung von Personen gebaute, offene Fähre, die durch Muskelkraft fortbewegt wird; auch mit einem – zur Beherrschung besonderer Betriebslagen – Hilfsantrieb ausgestattet;
 
 5. „Personenmotorfähre“ eine Personenfähre mit maschinellem Antrieb;
 
@@ -880,7 +880,7 @@ b) für die Wasserstraßen nach Anhang I Zone 4 mindestens der Entwurfskategorie
 
 nach der Richtlinie 2013/53/EU entsprechen.
 
-2. Die Fahrgastboote dürfen nur in der Betriebsform A nach Anhang VI § 3.03 Nummer 2 Satz 1 eingesetzt werden.
+2. Die Fahrgastboote dürfen nur in der Betriebsform A nach § 101 Absatz 2 der Binnenschiffspersonalverordnung eingesetzt werden.
 
 3. Offene Feuerstellen dürfen an Bord nicht betrieben werden.
 

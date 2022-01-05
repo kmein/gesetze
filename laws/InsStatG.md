@@ -1,4 +1,4 @@
-% Gesetz über die Insolvenzstatistik  (Insolvenzstatistikgesetz - InsStatG)
+% Gesetz über die Insolvenz- und Restrukturierungsstatistik  (Insolvenzstatistikgesetz - InsStatG)
 % Ausfertigungsdatum: 07.12.2011
  
 # § 1 – Insolvenz- und Restrukturierungsstatistik
